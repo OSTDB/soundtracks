@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T03:21:32.740Z",
-  "total_missing": 64434,
+  "generated_at": "2026-09-13T03:33:45.662Z",
+  "total_missing": 64483,
   "games": [
     {
       "igdb_id": 306086,
@@ -2928,6 +2928,11 @@
       "file": "missing/A/52561-a-mazing-ants.json"
     },
     {
+      "igdb_id": 5355,
+      "game_name": "A-Rank Thunder Tanjouhen",
+      "file": "missing/A/5355-a-rank-thunder-tanjouhen.json"
+    },
+    {
       "igdb_id": 276712,
       "game_name": "A-Red Walking Robot",
       "file": "missing/A/276712-a-red-walking-robot.json"
@@ -2971,6 +2976,11 @@
       "igdb_id": 99614,
       "game_name": "A.S.H.",
       "file": "missing/A/99614-a-s-h.json"
+    },
+    {
+      "igdb_id": 5360,
+      "game_name": "A/X-101",
+      "file": "missing/A/5360-a-x-101.json"
     },
     {
       "igdb_id": 5339,
@@ -3356,11 +3366,6 @@
       "igdb_id": 282578,
       "game_name": "Ace Combat 7: Skies Unknown - CFA-44 Nosferatu Set",
       "file": "missing/A/282578-ace-combat-7-skies-unknown-cfa-44-nosferatu-set.json"
-    },
-    {
-      "igdb_id": 282545,
-      "game_name": "Ace Combat 7: Skies Unknown - Deluxe Edition 2022",
-      "file": "missing/A/282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json"
     },
     {
       "igdb_id": 282540,
@@ -5028,6 +5033,16 @@
       "file": "missing/A/269323-aerobics-revolution.json"
     },
     {
+      "igdb_id": 5350,
+      "game_name": "Aerobiz",
+      "file": "missing/A/5350-aerobiz.json"
+    },
+    {
+      "igdb_id": 5351,
+      "game_name": "Aerobiz Supersonic",
+      "file": "missing/A/5351-aerobiz-supersonic.json"
+    },
+    {
       "igdb_id": 120425,
       "game_name": "Aerobots",
       "file": "missing/A/120425-aerobots.json"
@@ -5346,6 +5361,11 @@
       "igdb_id": 45347,
       "game_name": "After Burner",
       "file": "missing/A/45347-after-burner.json"
+    },
+    {
+      "igdb_id": 5356,
+      "game_name": "After Burner III",
+      "file": "missing/A/5356-after-burner-iii.json"
     },
     {
       "igdb_id": 7748,
@@ -10848,6 +10868,11 @@
       "file": "missing/A/120987-android-amazones.json"
     },
     {
+      "igdb_id": 5358,
+      "game_name": "Android Assault: The Revenge of Bari-Arm",
+      "file": "missing/A/5358-android-assault-the-revenge-of-bari-arm.json"
+    },
+    {
       "igdb_id": 100820,
       "game_name": "Android Runner",
       "file": "missing/A/100820-android-runner.json"
@@ -10916,6 +10941,11 @@
       "igdb_id": 216468,
       "game_name": "Anesthesia",
       "file": "missing/A/216468-anesthesia.json"
+    },
+    {
+      "igdb_id": 5359,
+      "game_name": "Anett Futatabi",
+      "file": "missing/A/5359-anett-futatabi.json"
     },
     {
       "igdb_id": 11414,
@@ -24243,6 +24273,11 @@
       "file": "missing/B/200114-battle-fortress-defence.json"
     },
     {
+      "igdb_id": 5361,
+      "game_name": "Battle Frenzy",
+      "file": "missing/B/5361-battle-frenzy.json"
+    },
+    {
       "igdb_id": 223441,
       "game_name": "Battle Gear",
       "file": "missing/B/223441-battle-gear.json"
@@ -25286,6 +25321,11 @@
       "igdb_id": 185674,
       "game_name": "BBQ Simulator: The Squad",
       "file": "missing/B/185674-bbq-simulator-the-squad.json"
+    },
+    {
+      "igdb_id": 5362,
+      "game_name": "BC Racers",
+      "file": "missing/B/5362-bc-racers.json"
     },
     {
       "igdb_id": 411576,
@@ -28221,6 +28261,16 @@
       "igdb_id": 67957,
       "game_name": "Bill Nye the Science Guy: Stop the Rock",
       "file": "missing/B/67957-bill-nye-the-science-guy-stop-the-rock.json"
+    },
+    {
+      "igdb_id": 5363,
+      "game_name": "Bill Walsh College Football",
+      "file": "missing/B/5363-bill-walsh-college-football.json"
+    },
+    {
+      "igdb_id": 5364,
+      "game_name": "Bill Walsh College Football '95",
+      "file": "missing/B/5364-bill-walsh-college-football-95.json"
     },
     {
       "igdb_id": 14306,
@@ -39376,6 +39426,11 @@
       "igdb_id": 188030,
       "game_name": "Cadenza: Havana Nights",
       "file": "missing/C/188030-cadenza-havana-nights.json"
+    },
+    {
+      "igdb_id": 5367,
+      "game_name": "Cadillacs and Dinosaurs: The Second Cataclysm",
+      "file": "missing/C/5367-cadillacs-and-dinosaurs-the-second-cataclysm.json"
     },
     {
       "igdb_id": 107894,
@@ -53543,6 +53598,11 @@
       "file": "missing/C/298551-corpse-killer.json"
     },
     {
+      "igdb_id": 5372,
+      "game_name": "Corpse Killer",
+      "file": "missing/C/5372-corpse-killer.json"
+    },
+    {
       "igdb_id": 277020,
       "game_name": "Corpse Master Carnage",
       "file": "missing/C/277020-corpse-master-carnage.json"
@@ -61536,6 +61596,11 @@
       "igdb_id": 99011,
       "game_name": "Dark Wish",
       "file": "missing/D/99011-dark-wish.json"
+    },
+    {
+      "igdb_id": 5374,
+      "game_name": "Dark Wizard",
+      "file": "missing/D/5374-dark-wizard.json"
     },
     {
       "igdb_id": 412293,
@@ -72903,6 +72968,11 @@
       "file": "missing/D/246083-double-smash-ninja.json"
     },
     {
+      "igdb_id": 5375,
+      "game_name": "Double Switch",
+      "file": "missing/D/5375-double-switch.json"
+    },
+    {
       "igdb_id": 215928,
       "game_name": "Double Trouble",
       "file": "missing/D/215928-double-trouble.json"
@@ -73401,6 +73471,11 @@
       "igdb_id": 19594,
       "game_name": "Dracula Twins",
       "file": "missing/D/19594-dracula-twins.json"
+    },
+    {
+      "igdb_id": 5376,
+      "game_name": "Dracula Unleashed",
+      "file": "missing/D/5376-dracula-unleashed.json"
     },
     {
       "igdb_id": 298584,
@@ -84238,6 +84313,11 @@
       "file": "missing/E/43249-espn-baseball-2k4.json"
     },
     {
+      "igdb_id": 5380,
+      "game_name": "ESPN Baseball Tonight",
+      "file": "missing/E/5380-espn-baseball-tonight.json"
+    },
+    {
       "igdb_id": 5823,
       "game_name": "ESPN College Hoops",
       "file": "missing/E/5823-espn-college-hoops.json"
@@ -84263,6 +84343,11 @@
       "file": "missing/E/37118-espn-lets-play-tennis.json"
     },
     {
+      "igdb_id": 5381,
+      "game_name": "ESPN National Hockey Night",
+      "file": "missing/E/5381-espn-national-hockey-night.json"
+    },
+    {
       "igdb_id": 78678,
       "game_name": "ESPN NBA 2Night",
       "file": "missing/E/78678-espn-nba-2night.json"
@@ -84271,6 +84356,11 @@
       "igdb_id": 5826,
       "game_name": "ESPN NHL 2K5",
       "file": "missing/E/5826-espn-nhl-2k5.json"
+    },
+    {
+      "igdb_id": 5382,
+      "game_name": "ESPN Sunday Night NFL",
+      "file": "missing/E/5382-espn-sunday-night-nfl.json"
     },
     {
       "igdb_id": 93571,
@@ -84346,6 +84436,11 @@
       "igdb_id": 126600,
       "game_name": "Eternal Battlefield",
       "file": "missing/E/126600-eternal-battlefield.json"
+    },
+    {
+      "igdb_id": 5383,
+      "game_name": "Eternal Champions: Challenge from the Dark Side",
+      "file": "missing/E/5383-eternal-champions-challenge-from-the-dark-side.json"
     },
     {
       "igdb_id": 395569,
@@ -97263,6 +97358,11 @@
       "file": "missing/F/8301-formula-one-2003.json"
     },
     {
+      "igdb_id": 5388,
+      "game_name": "Formula One World Championship: Beyond the Limit",
+      "file": "missing/F/5388-formula-one-world-championship-beyond-the-limit.json"
+    },
+    {
       "igdb_id": 396918,
       "game_name": "Formula Racing Pro 2026: Upgrade Edition",
       "file": "missing/F/396918-formula-racing-pro-2026-upgrade-edition.json"
@@ -104001,6 +104101,11 @@
       "igdb_id": 308557,
       "game_name": "Genghis Khan",
       "file": "missing/G/308557-genghis-khan.json"
+    },
+    {
+      "igdb_id": 5389,
+      "game_name": "Genghis Khan II: Clan of the Gray Wolf",
+      "file": "missing/G/5389-genghis-khan-ii-clan-of-the-gray-wolf.json"
     },
     {
       "igdb_id": 105940,
@@ -110823,6 +110928,11 @@
       "file": "missing/G/112994-ground-under.json"
     },
     {
+      "igdb_id": 5390,
+      "game_name": "Ground Zero: Texas",
+      "file": "missing/G/5390-ground-zero-texas.json"
+    },
+    {
       "igdb_id": 375848,
       "game_name": "GroundBreaker",
       "file": "missing/G/375848-groundbreaker.json"
@@ -116433,6 +116543,11 @@
       "file": "missing/H/12141-heavy-metal.json"
     },
     {
+      "igdb_id": 5392,
+      "game_name": "Heavy Nova",
+      "file": "missing/H/5392-heavy-nova.json"
+    },
+    {
       "igdb_id": 44547,
       "game_name": "Heavy Rain & Beyond: Two Souls - Collection",
       "file": "missing/H/44547-heavy-rain-and-beyond-two-souls-collection.json"
@@ -116556,6 +116671,11 @@
       "igdb_id": 17441,
       "game_name": "Heileen 1: Sail Away",
       "file": "missing/H/17441-heileen-1-sail-away.json"
+    },
+    {
+      "igdb_id": 5393,
+      "game_name": "Heimdall",
+      "file": "missing/H/5393-heimdall.json"
     },
     {
       "igdb_id": 174871,
@@ -131643,6 +131763,11 @@
       "file": "missing/I/224787-iron-frontier.json"
     },
     {
+      "igdb_id": 5394,
+      "game_name": "Iron Helix",
+      "file": "missing/I/5394-iron-helix.json"
+    },
+    {
       "igdb_id": 296943,
       "game_name": "Iron Hunters",
       "file": "missing/I/296943-iron-hunters.json"
@@ -133416,6 +133541,11 @@
       "igdb_id": 333403,
       "game_name": "Jaguar Suns",
       "file": "missing/J/333403-jaguar-suns.json"
+    },
+    {
+      "igdb_id": 5395,
+      "game_name": "Jaguar XJ220",
+      "file": "missing/J/5395-jaguar-xj220.json"
     },
     {
       "igdb_id": 120350,
@@ -147738,6 +147868,11 @@
       "file": "missing/L/297477-lethal-encounter.json"
     },
     {
+      "igdb_id": 5399,
+      "game_name": "Lethal Enforcers 3",
+      "file": "missing/L/5399-lethal-enforcers-3.json"
+    },
+    {
       "igdb_id": 296932,
       "game_name": "Lethal Infiltration: Ghost Reconnaissance",
       "file": "missing/L/296932-lethal-infiltration-ghost-reconnaissance.json"
@@ -157216,6 +157351,11 @@
       "igdb_id": 269863,
       "game_name": "Mansion 2",
       "file": "missing/M/269863-mansion-2.json"
+    },
+    {
+      "igdb_id": 5402,
+      "game_name": "Mansion of Hidden Souls",
+      "file": "missing/M/5402-mansion-of-hidden-souls.json"
     },
     {
       "igdb_id": 337486,
@@ -169931,6 +170071,11 @@
       "igdb_id": 78626,
       "game_name": "Monster Hunter Dual Pack",
       "file": "missing/M/78626-monster-hunter-dual-pack.json"
+    },
+    {
+      "igdb_id": 5316,
+      "game_name": "Monster Hunter Frontier G",
+      "file": "missing/M/5316-monster-hunter-frontier-g.json"
     },
     {
       "igdb_id": 7075,
@@ -196963,6 +197108,11 @@
       "file": "missing/P/361713-phineas-and-ferb-arcade.json"
     },
     {
+      "igdb_id": 5318,
+      "game_name": "Phineas and Ferb: Quest for Cool Stuff",
+      "file": "missing/P/5318-phineas-and-ferb-quest-for-cool-stuff.json"
+    },
+    {
       "igdb_id": 187520,
       "game_name": "Phlegethon",
       "file": "missing/P/187520-phlegethon.json"
@@ -204043,6 +204193,11 @@
       "file": "missing/P/42043-power-eleven.json"
     },
     {
+      "igdb_id": 5420,
+      "game_name": "Power Factory Featuring C+C Music Factory",
+      "file": "missing/P/5420-power-factory-featuring-c-c-music-factory.json"
+    },
+    {
       "igdb_id": 258465,
       "game_name": "Power Fantasy",
       "file": "missing/P/258465-power-fantasy.json"
@@ -205576,6 +205731,11 @@
       "igdb_id": 254545,
       "game_name": "Private: Pornmania",
       "file": "missing/P/254545-private-pornmania.json"
+    },
+    {
+      "igdb_id": 5424,
+      "game_name": "Prize Fighter",
+      "file": "missing/P/5424-prize-fighter.json"
     },
     {
       "igdb_id": 68609,
@@ -211366,6 +211526,11 @@
       "igdb_id": 129204,
       "game_name": "Racing 2020",
       "file": "missing/R/129204-racing-2020.json"
+    },
+    {
+      "igdb_id": 5426,
+      "game_name": "Racing Aces",
+      "file": "missing/R/5426-racing-aces.json"
     },
     {
       "igdb_id": 104588,
@@ -229878,6 +230043,11 @@
       "file": "missing/S/19490-sega-chess.json"
     },
     {
+      "igdb_id": 5432,
+      "game_name": "Sega Classics Arcade Collection 4-in-1",
+      "file": "missing/S/5432-sega-classics-arcade-collection-4-in-1.json"
+    },
+    {
       "igdb_id": 51261,
       "game_name": "Sega Genesis Classic Collection: Gold Edition",
       "file": "missing/S/51261-sega-genesis-classic-collection-gold-edition.json"
@@ -233061,6 +233231,11 @@
       "igdb_id": 186894,
       "game_name": "Sherlock Holmes: Chapter One - Beyond a Joke",
       "file": "missing/S/186894-sherlock-holmes-chapter-one-beyond-a-joke.json"
+    },
+    {
+      "igdb_id": 5435,
+      "game_name": "Sherlock Holmes: Consulting Detective",
+      "file": "missing/S/5435-sherlock-holmes-consulting-detective.json"
     },
     {
       "igdb_id": 5541,
@@ -259338,6 +259513,11 @@
       "file": "missing/S/147436-super-puzzles-dream-xmas.json"
     },
     {
+      "igdb_id": 5332,
+      "game_name": "Super R.B.I. Baseball",
+      "file": "missing/S/5332-super-r-b-i-baseball.json"
+    },
+    {
       "igdb_id": 272829,
       "game_name": "Super Rare Mixtape: Horror Edition",
       "file": "missing/S/272829-super-rare-mixtape-horror-edition.json"
@@ -277973,6 +278153,11 @@
       "file": "missing/T/2164-the-neverhood.json"
     },
     {
+      "igdb_id": 5345,
+      "game_name": "The New Addams Family",
+      "file": "missing/T/5345-the-new-addams-family.json"
+    },
+    {
       "igdb_id": 61649,
       "game_name": "The New California",
       "file": "missing/T/61649-the-new-california.json"
@@ -290228,6 +290413,11 @@
       "file": "missing/T/172753-tony-and-clyde.json"
     },
     {
+      "igdb_id": 5230,
+      "game_name": "Tony Hawk: Shred",
+      "file": "missing/T/5230-tony-hawk-shred.json"
+    },
+    {
       "igdb_id": 364480,
       "game_name": "Tony Hawk's American Sk8land",
       "file": "missing/T/364480-tony-hawks-american-sk8land.json"
@@ -290516,6 +290706,11 @@
       "igdb_id": 78667,
       "game_name": "Top Trumps Adventures Vol. 1: Horror & Predators",
       "file": "missing/T/78667-top-trumps-adventures-vol-1-horror-and-predators.json"
+    },
+    {
+      "igdb_id": 5236,
+      "game_name": "Top Trumps Adventures!",
+      "file": "missing/T/5236-top-trumps-adventures.json"
     },
     {
       "igdb_id": 35897,
@@ -291176,6 +291371,11 @@
       "igdb_id": 317003,
       "game_name": "Totally Spies! The Mobile Game",
       "file": "missing/T/317003-totally-spies-the-mobile-game.json"
+    },
+    {
+      "igdb_id": 5238,
+      "game_name": "Totally Spies! Totally Party",
+      "file": "missing/T/5238-totally-spies-totally-party.json"
     },
     {
       "igdb_id": 32402,
@@ -297403,6 +297603,11 @@
       "file": "missing/T/251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json"
     },
     {
+      "igdb_id": 5248,
+      "game_name": "TV Show King Party",
+      "file": "missing/T/5248-tv-show-king-party.json"
+    },
+    {
       "igdb_id": 282014,
       "game_name": "TV Studio Story",
       "file": "missing/T/282014-tv-studio-story.json"
@@ -298936,6 +299141,11 @@
       "igdb_id": 325276,
       "game_name": "Ultimate Sheep Raccoon",
       "file": "missing/U/325276-ultimate-sheep-raccoon.json"
+    },
+    {
+      "igdb_id": 5253,
+      "game_name": "Ultimate Shooting Collection",
+      "file": "missing/U/5253-ultimate-shooting-collection.json"
     },
     {
       "igdb_id": 247489,
@@ -306743,6 +306953,11 @@
       "file": "missing/W/332992-wacky-west.json"
     },
     {
+      "igdb_id": 5260,
+      "game_name": "Wacky World of Sports",
+      "file": "missing/W/5260-wacky-world-of-sports.json"
+    },
+    {
       "igdb_id": 25568,
       "game_name": "Waddle Home",
       "file": "missing/W/25568-waddle-home.json"
@@ -309023,6 +309238,11 @@
       "file": "missing/W/208943-water-sort-jigsaw-color-sort.json"
     },
     {
+      "igdb_id": 5262,
+      "game_name": "Water Sports",
+      "file": "missing/W/5262-water-sports.json"
+    },
+    {
       "igdb_id": 336384,
       "game_name": "Water Tower",
       "file": "missing/W/336384-water-tower.json"
@@ -309423,9 +309643,19 @@
       "file": "missing/W/5127-we-rock-drum-king.json"
     },
     {
+      "igdb_id": 5268,
+      "game_name": "We Sing Deutsche Hits",
+      "file": "missing/W/5268-we-sing-deutsche-hits.json"
+    },
+    {
       "igdb_id": 268208,
       "game_name": "We Sing Deutsche Hits 2",
       "file": "missing/W/268208-we-sing-deutsche-hits-2.json"
+    },
+    {
+      "igdb_id": 5269,
+      "game_name": "We Sing Down Under",
+      "file": "missing/W/5269-we-sing-down-under.json"
     },
     {
       "igdb_id": 5271,
@@ -309436,6 +309666,11 @@
       "igdb_id": 63900,
       "game_name": "We Sing Superstar Quiz",
       "file": "missing/W/63900-we-sing-superstar-quiz.json"
+    },
+    {
+      "igdb_id": 5274,
+      "game_name": "We Sing UK Hits",
+      "file": "missing/W/5274-we-sing-uk-hits.json"
     },
     {
       "igdb_id": 150687,
@@ -312631,6 +312866,11 @@
       "igdb_id": 194007,
       "game_name": "Winning Post 7 2010",
       "file": "missing/W/194007-winning-post-7-2010.json"
+    },
+    {
+      "igdb_id": 5283,
+      "game_name": "Winning Post 7 Maximum 2008",
+      "file": "missing/W/5283-winning-post-7-maximum-2008.json"
     },
     {
       "igdb_id": 368492,
@@ -316046,6 +316286,11 @@
       "igdb_id": 271744,
       "game_name": "Wroth",
       "file": "missing/W/271744-wroth.json"
+    },
+    {
+      "igdb_id": 5292,
+      "game_name": "WSC Real 08: World Snooker Championship",
+      "file": "missing/W/5292-wsc-real-08-world-snooker-championship.json"
     },
     {
       "igdb_id": 93572,
