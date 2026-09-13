@@ -2513,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arch Virtual HQ | 105888 | [105888-arch-virtual-hq.json](./105888-arch-virtual-hq.json) |
 | Archaeogem | 219060 | [219060-archaeogem.json](./219060-archaeogem.json) |
 | Archangel | 26504 | [26504-archangel.json](./26504-archangel.json) |
+| Archangel | 74276 | [74276-archangel.json](./74276-archangel.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
 | Archenemy: Lunafall | 216472 | [216472-archenemy-lunafall.json](./216472-archenemy-lunafall.json) |
