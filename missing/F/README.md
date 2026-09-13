@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear surrounds | 143693 | [143693-fear-surrounds.json](./143693-fear-surrounds.json) |
 | Fear the Dark Unknown: Chloe | 132250 | [132250-fear-the-dark-unknown-chloe.json](./132250-fear-the-dark-unknown-chloe.json) |
 | Fear the Flossom | 138814 | [138814-fear-the-flossom.json](./138814-fear-the-flossom.json) |
+| Fear the Night | 112973 | [112973-fear-the-night.json](./112973-fear-the-night.json) |
 | Fear the Unknown: Jamie Story | 351601 | [351601-fear-the-unknown-jamie-story.json](./351601-fear-the-unknown-jamie-story.json) |
 | Fear Virtual | 302098 | [302098-fear-virtual.json](./302098-fear-virtual.json) |
 | Fear: Call of the village. | 190731 | [190731-fear-call-of-the-village.json](./190731-fear-call-of-the-village.json) |
@@ -867,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II: Medieval - Storm of Arrows | 186898 | [186898-field-of-glory-ii-medieval-storm-of-arrows.json](./186898-field-of-glory-ii-medieval-storm-of-arrows.json) |
 | Field of Glory II: Medieval - Swords and Scimitars | 171617 | [171617-field-of-glory-ii-medieval-swords-and-scimitars.json](./171617-field-of-glory-ii-medieval-swords-and-scimitars.json) |
 | Field of Glory II: Rise of Persia | 124818 | [124818-field-of-glory-ii-rise-of-persia.json](./124818-field-of-glory-ii-rise-of-persia.json) |
+| Field of Glory: Empires | 112588 | [112588-field-of-glory-empires.json](./112588-field-of-glory-empires.json) |
 | Field of Polarity | 392145 | [392145-field-of-polarity.json](./392145-field-of-polarity.json) |
 | Field of the Dead | 309370 | [309370-field-of-the-dead.json](./309370-field-of-the-dead.json) |
 | Fieldrunners | 9839 | [9839-fieldrunners.json](./9839-fieldrunners.json) |
@@ -1295,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firewatch: Audio Tour | 251228 | [251228-firewatch-audio-tour.json](./251228-firewatch-audio-tour.json) |
 | Firewerx | 195185 | [195185-firewerx.json](./195185-firewerx.json) |
 | Firewind | 73322 | [73322-firewind.json](./73322-firewind.json) |
+| Firework | 112854 | [112854-firework.json](./112854-firework.json) |
 | Firework | 399603 | [399603-firework.json](./399603-firework.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
 | Fireworks Extravaganza | 57611 | [57611-fireworks-extravaganza.json](./57611-fireworks-extravaganza.json) |
@@ -2124,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forget-Me-Not of the Tetragon | 335696 | [335696-forget-me-not-of-the-tetragon.json](./335696-forget-me-not-of-the-tetragon.json) |
 | Forgetting Emily | 309680 | [309680-forgetting-emily.json](./309680-forgetting-emily.json) |
 | Forging Glory | 132814 | [132814-forging-glory.json](./132814-forging-glory.json) |
+| Forgiveness | 111471 | [111471-forgiveness.json](./111471-forgiveness.json) |
 | Forgiveness RPG: The First Chapter - Part Two | 294688 | [294688-forgiveness-rpg-the-first-chapter-part-two.json](./294688-forgiveness-rpg-the-first-chapter-part-two.json) |
 | Forgotten | 26702 | [26702-forgotten.json](./26702-forgotten.json) |
 | Forgotten Chain | 172659 | [172659-forgotten-chain.json](./172659-forgotten-chain.json) |
