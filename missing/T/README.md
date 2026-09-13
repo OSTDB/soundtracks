@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drawnjuring | 311807 | [311807-the-drawnjuring.json](./311807-the-drawnjuring.json) |
 | The Dream Alchemist | 179696 | [179696-the-dream-alchemist.json](./179696-the-dream-alchemist.json) |
 | The Dream Libra Had | 158714 | [158714-the-dream-libra-had.json](./158714-the-dream-libra-had.json) |
+| The Dream Machine | 9826 | [9826-the-dream-machine.json](./9826-the-dream-machine.json) |
 | The Dream Machine: Chapter 3 | 168831 | [168831-the-dream-machine-chapter-3.json](./168831-the-dream-machine-chapter-3.json) |
 | The Dream Machine: Chapter 4 | 168832 | [168832-the-dream-machine-chapter-4.json](./168832-the-dream-machine-chapter-4.json) |
 | The Dream Machine: Chapter 5 | 168830 | [168830-the-dream-machine-chapter-5.json](./168830-the-dream-machine-chapter-5.json) |
@@ -2343,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of Hikmah | 380426 | [380426-the-house-of-hikmah.json](./380426-the-house-of-hikmah.json) |
 | The House of the Dead 2 | 13777 | [13777-the-house-of-the-dead-2.json](./13777-the-house-of-the-dead-2.json) |
 | The House of the Dead 2: Remake | 327808 | [327808-the-house-of-the-dead-2-remake.json](./327808-the-house-of-the-dead-2-remake.json) |
+| The House of the Dead: Remake | 145787 | [145787-the-house-of-the-dead-remake.json](./145787-the-house-of-the-dead-remake.json) |
 | The House of the Dead: Remake - Limidead Edition | 194406 | [194406-the-house-of-the-dead-remake-limidead-edition.json](./194406-the-house-of-the-dead-remake-limidead-edition.json) |
 | The House of the Dead: Scarlet Dawn | 82081 | [82081-the-house-of-the-dead-scarlet-dawn.json](./82081-the-house-of-the-dead-scarlet-dawn.json) |
 | The House that Jack Built | 25725 | [25725-the-house-that-jack-built.json](./25725-the-house-that-jack-built.json) |
@@ -3492,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Pets | 225 | [225-the-sims-2-pets.json](./225-the-sims-2-pets.json) |
 | The Sims 25th Birthday Bundle | 362302 | [362302-the-sims-25th-birthday-bundle.json](./362302-the-sims-25th-birthday-bundle.json) |
 | The Sims 3 | 248568 | [248568-the-sims-3.json](./248568-the-sims-3.json) |
+| The Sims 3: Into the Future | 13116 | [13116-the-sims-3-into-the-future.json](./13116-the-sims-3-into-the-future.json) |
 | The Sims 3: Late Night | 13112 | [13112-the-sims-3-late-night.json](./13112-the-sims-3-late-night.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
 | The Sims 4: Artist Studio Kit | 317646 | [317646-the-sims-4-artist-studio-kit.json](./317646-the-sims-4-artist-studio-kit.json) |
@@ -5169,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tirkiss ~Princess Shade~ | 60530 | [60530-tirkiss-princess-shade.json](./60530-tirkiss-princess-shade.json) |
 | Tisuland | 382747 | [382747-tisuland.json](./382747-tisuland.json) |
 | Tit Tap Tingle | 135801 | [135801-tit-tap-tingle.json](./135801-tit-tap-tingle.json) |
+| Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
 | Titan Quest Gold | 177057 | [177057-titan-quest-gold.json](./177057-titan-quest-gold.json) |
 | Titan Shell | 216499 | [216499-titan-shell.json](./216499-titan-shell.json) |
 | Titan Slayer | 193956 | [193956-titan-slayer.json](./193956-titan-slayer.json) |
@@ -5427,6 +5431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell Collection | 53821 | [53821-tom-clancys-splinter-cell-collection.json](./53821-tom-clancys-splinter-cell-collection.json) |
 | Tom Clancy's Splinter Cell: Blacklist - 5th Freedom Edition | 44568 | [44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json](./44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json) |
 | Tom Clancy's Splinter Cell: Conviction - Insurgency Pack | 11010 | [11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json](./11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json) |
+| Tom Clancy's Splinter Cell: Double Agent | 182225 | [182225-tom-clancys-splinter-cell-double-agent.json](./182225-tom-clancys-splinter-cell-double-agent.json) |
 | Tom Clancy's Splinter Cell: Double Agent | 7469 | [7469-tom-clancys-splinter-cell-double-agent.json](./7469-tom-clancys-splinter-cell-double-agent.json) |
 | Tom Clancy's Splinter Cell: Elite Echelon Edition | 27866 | [27866-tom-clancys-splinter-cell-elite-echelon-edition.json](./27866-tom-clancys-splinter-cell-elite-echelon-edition.json) |
 | Tom Clancy's Splinter Cell: Pandora Tomorrow | 874 | [874-tom-clancys-splinter-cell-pandora-tomorrow.json](./874-tom-clancys-splinter-cell-pandora-tomorrow.json) |
@@ -5614,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torch of Shadows | 374074 | [374074-torch-of-shadows.json](./374074-torch-of-shadows.json) |
 | Torchbear | 341898 | [341898-torchbear.json](./341898-torchbear.json) |
 | Torches of Fate | 133458 | [133458-torches-of-fate.json](./133458-torches-of-fate.json) |
+| Torchlight: Infinite | 174897 | [174897-torchlight-infinite.json](./174897-torchlight-infinite.json) |
 | Torchure | 180183 | [180183-torchure.json](./180183-torchure.json) |
 | Toree 3D | 144687 | [144687-toree-3d.json](./144687-toree-3d.json) |
 | Toree Saturn | 262958 | [262958-toree-saturn.json](./262958-toree-saturn.json) |
@@ -6002,6 +6008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania Sunrise | 22294 | [22294-trackmania-sunrise.json](./22294-trackmania-sunrise.json) |
 | TrackMania Sunrise Extreme | 205056 | [205056-trackmania-sunrise-extreme.json](./205056-trackmania-sunrise-extreme.json) |
 | TrackMania Turbo | 11172 | [11172-trackmania-turbo.json](./11172-trackmania-turbo.json) |
+| TrackMania United | 9908 | [9908-trackmania-united.json](./9908-trackmania-united.json) |
 | TrackRacing Online | 98396 | [98396-trackracing-online.json](./98396-trackracing-online.json) |
 | Tracks of Triumph: Good Old Times | 29886 | [29886-tracks-of-triumph-good-old-times.json](./29886-tracks-of-triumph-good-old-times.json) |
 | Tracky Train | 58241 | [58241-tracky-train.json](./58241-tracky-train.json) |
@@ -6058,6 +6065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train No. 7 | 163960 | [163960-train-no-7.json](./163960-train-no-7.json) |
 | Train of Afterlife | 35939 | [35939-train-of-afterlife.json](./35939-train-of-afterlife.json) |
 | Train Sim World | 105877 | [105877-train-sim-world.json](./105877-train-sim-world.json) |
+| Train Sim World 2 | 136868 | [136868-train-sim-world-2.json](./136868-train-sim-world-2.json) |
 | Train Sim World 2: BR Class 313 | 205574 | [205574-train-sim-world-2-br-class-313.json](./205574-train-sim-world-2-br-class-313.json) |
 | Train Sim World 2: Collector's Edition | 139931 | [139931-train-sim-world-2-collectors-edition.json](./139931-train-sim-world-2-collectors-edition.json) |
 | Train Sim World 2: DB BR 182 Loco Add-On | 167301 | [167301-train-sim-world-2-db-br-182-loco-add-on.json](./167301-train-sim-world-2-db-br-182-loco-add-on.json) |
