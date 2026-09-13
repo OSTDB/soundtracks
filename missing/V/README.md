@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venandi In Silva | 124217 | [124217-venandi-in-silva.json](./124217-venandi-in-silva.json) |
 | Venatio | 188073 | [188073-venatio.json](./188073-venatio.json) |
 | Venatrix | 267369 | [267369-venatrix.json](./267369-venatrix.json) |
+| Vendetta Forever | 313771 | [313771-vendetta-forever.json](./313771-vendetta-forever.json) |
 | Vendetta: Curse of Raven's Cry - Deluxe Edition | 53875 | [53875-vendetta-curse-of-ravens-cry-deluxe-edition.json](./53875-vendetta-curse-of-ravens-cry-deluxe-edition.json) |
 | Vending Machine Simulator 2025 | 366225 | [366225-vending-machine-simulator-2025.json](./366225-vending-machine-simulator-2025.json) |
 | Vending Mayhem | 276737 | [276737-vending-mayhem.json](./276737-vending-mayhem.json) |
@@ -778,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VolChaos | 35658 | [35658-volchaos.json](./35658-volchaos.json) |
 | Volden Idle | 274500 | [274500-volden-idle.json](./274500-volden-idle.json) |
 | Volfoss | 66699 | [66699-volfoss.json](./66699-volfoss.json) |
+| Volgarr the Viking II | 304741 | [304741-volgarr-the-viking-ii.json](./304741-volgarr-the-viking-ii.json) |
 | Volley & Tennis Bundle Blast | 196812 | [196812-volley-and-tennis-bundle-blast.json](./196812-volley-and-tennis-bundle-blast.json) |
 | Volleyball Challenge | 43244 | [43244-volleyball-challenge.json](./43244-volleyball-challenge.json) |
 | Volleyball Trainer: The Legend of Sports | 224211 | [224211-volleyball-trainer-the-legend-of-sports.json](./224211-volleyball-trainer-the-legend-of-sports.json) |
