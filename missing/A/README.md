@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Red Walking Robot | 276712 | [276712-a-red-walking-robot.json](./276712-a-red-walking-robot.json) |
 | A-Train 9 V3.0: Railway Simulator | 52560 | [52560-a-train-9-v3-0-railway-simulator.json](./52560-a-train-9-v3-0-railway-simulator.json) |
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
+| A.D.A.M. | 19398 | [19398-a-d-a-m.json](./19398-a-d-a-m.json) |
 | A.I am Monster | 26569 | [26569-a-i-am-monster.json](./26569-a-i-am-monster.json) |
 | A.I. Invasion: Road of Rodan | 164435 | [164435-a-i-invasion-road-of-rodan.json](./164435-a-i-invasion-road-of-rodan.json) |
 | A.I. Space Corps | 34206 | [34206-a-i-space-corps.json](./34206-a-i-space-corps.json) |
@@ -538,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
 | Adventures to Go! | 46016 | [46016-adventures-to-go.json](./46016-adventures-to-go.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
+| Adventures with Barbie: Ocean Discovery | 19403 | [19403-adventures-with-barbie-ocean-discovery.json](./19403-adventures-with-barbie-ocean-discovery.json) |
 | Adventures With Oslo: World of Water | 262400 | [262400-adventures-with-oslo-world-of-water.json](./262400-adventures-with-oslo-world-of-water.json) |
 | Adventuring Gentleman | 25663 | [25663-adventuring-gentleman.json](./25663-adventuring-gentleman.json) |
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
@@ -1366,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Machine | 363909 | [363909-alone-in-the-machine.json](./363909-alone-in-the-machine.json) |
 | Alone in the Outback | 226215 | [226215-alone-in-the-outback.json](./226215-alone-in-the-outback.json) |
 | Alone in the School | 302385 | [302385-alone-in-the-school.json](./302385-alone-in-the-school.json) |
+| Alone Without Her | 19380 | [19380-alone-without-her.json](./19380-alone-without-her.json) |
 | Alone: Mnemophobia | 377076 | [377076-alone-mnemophobia.json](./377076-alone-mnemophobia.json) |
 | Alone? | 24926 | [24926-alone.json](./24926-alone.json) |
 | Alonecats | 293085 | [293085-alonecats.json](./293085-alonecats.json) |
@@ -1576,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amiga Classix 3 | 70939 | [70939-amiga-classix-3.json](./70939-amiga-classix-3.json) |
 | Amigdala | 19043 | [19043-amigdala.json](./19043-amigdala.json) |
 | Amigo | 92505 | [92505-amigo.json](./92505-amigo.json) |
+| Amigo pancho | 19498 | [19498-amigo-pancho.json](./19498-amigo-pancho.json) |
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
 | Amigo: Kebab Simulator | 243141 | [243141-amigo-kebab-simulator.json](./243141-amigo-kebab-simulator.json) |
 | Amina's Kitchen | 91980 | [91980-aminas-kitchen.json](./91980-aminas-kitchen.json) |
@@ -1783,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
 | Angry Battalion | 330191 | [330191-angry-battalion.json](./330191-angry-battalion.json) |
 | Angry Birds | 2035 | [2035-angry-birds.json](./2035-angry-birds.json) |
+| Angry Birds Action! | 19274 | [19274-angry-birds-action.json](./19274-angry-birds-action.json) |
 | Angry Birds Block Quest | 321375 | [321375-angry-birds-block-quest.json](./321375-angry-birds-block-quest.json) |
 | Angry Birds Breaker | 280802 | [280802-angry-birds-breaker.json](./280802-angry-birds-breaker.json) |
 | Angry Birds Double Crossed | 240248 | [240248-angry-birds-double-crossed.json](./240248-angry-birds-double-crossed.json) |
@@ -2671,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core: For Answer | 5493 | [5493-armored-core-for-answer.json](./5493-armored-core-for-answer.json) |
 | Armored Core: Formula Front - Extreme Battle | 46022 | [46022-armored-core-formula-front-extreme-battle.json](./46022-armored-core-formula-front-extreme-battle.json) |
 | Armored Core: Last Raven | 19410 | [19410-armored-core-last-raven.json](./19410-armored-core-last-raven.json) |
+| Armored Core: Nexus | 19412 | [19412-armored-core-nexus.json](./19412-armored-core-nexus.json) |
 | Armored Core: Silent Line Portable | 21757 | [21757-armored-core-silent-line-portable.json](./21757-armored-core-silent-line-portable.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
 | Armored Hunter Gunhound EX | 36391 | [36391-armored-hunter-gunhound-ex.json](./36391-armored-hunter-gunhound-ex.json) |
@@ -3311,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
+| Auto Battle | 19338 | [19338-auto-battle.json](./19338-auto-battle.json) |
 | Auto Club Revolution | 80491 | [80491-auto-club-revolution.json](./80491-auto-club-revolution.json) |
 | Auto Hill Climb | 237658 | [237658-auto-hill-climb.json](./237658-auto-hill-climb.json) |
 | Auto Island | 159798 | [159798-auto-island.json](./159798-auto-island.json) |
