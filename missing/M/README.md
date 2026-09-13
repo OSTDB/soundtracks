@@ -2433,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million Dollar Quest | 175360 | [175360-million-dollar-quest.json](./175360-million-dollar-quest.json) |
 | Million KNights Vermilion | 79270 | [79270-million-knights-vermilion.json](./79270-million-knights-vermilion.json) |
 | Million on Mars: Land Rush | 182494 | [182494-million-on-mars-land-rush.json](./182494-million-on-mars-land-rush.json) |
+| Million to One Hero | 109609 | [109609-million-to-one-hero.json](./109609-million-to-one-hero.json) |
 | Millionaire Dancer | 117098 | [117098-millionaire-dancer.json](./117098-millionaire-dancer.json) |
 | Millionaire Manor, Robin's Quest, Escape the Lost Kingdom and the Hidden Object Show 2 | 209510 | [209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json](./209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json) |
 | Millispeed | 351633 | [351633-millispeed.json](./351633-millispeed.json) |
@@ -4058,6 +4059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
 | Munch Mobile | 40204 | [40204-munch-mobile.json](./40204-munch-mobile.json) |
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
+| Munchkin: Quacked Quest | 110314 | [110314-munchkin-quacked-quest.json](./110314-munchkin-quacked-quest.json) |
 | Mundial de Fútbol | 86008 | [86008-mundial-de-futbol.json](./86008-mundial-de-futbol.json) |
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
 | Mung Daal Odyssey | 326589 | [326589-mung-daal-odyssey.json](./326589-mung-daal-odyssey.json) |
@@ -4520,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyHoriZen | 153935 | [153935-myhorizen.json](./153935-myhorizen.json) |
 | Myles Wright: Ace Attorney | 303775 | [303775-myles-wright-ace-attorney.json](./303775-myles-wright-ace-attorney.json) |
 | Mylk | 146830 | [146830-mylk.json](./146830-mylk.json) |
+| Mylo uronil | 110143 | [110143-mylo-uronil.json](./110143-mylo-uronil.json) |
 | MyPopgoes | 243687 | [243687-mypopgoes.json](./243687-mypopgoes.json) |
 | Myrddin | 174361 | [174361-myrddin.json](./174361-myrddin.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
