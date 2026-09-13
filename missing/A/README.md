@@ -287,7 +287,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Fighter | 11885 | [11885-action-fighter.json](./11885-action-fighter.json) |
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
-| Action Man: Search For Base X | 49868 | [49868-action-man-search-for-base-x.json](./49868-action-man-search-for-base-x.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Painting Pro | 128587 | [128587-action-painting-pro.json](./128587-action-painting-pro.json) |
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
