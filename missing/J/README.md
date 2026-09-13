@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Hero: Collector's Edition | 53244 | [53244-just-hero-collectors-edition.json](./53244-just-hero-collectors-edition.json) |
 | Just Ignore Them: Brea's Story Tape 1 | 192456 | [192456-just-ignore-them-breas-story-tape-1.json](./192456-just-ignore-them-breas-story-tape-1.json) |
 | Just in Crime | 258982 | [258982-just-in-crime.json](./258982-just-in-crime.json) |
+| Just In Time Incorporated | 42925 | [42925-just-in-time-incorporated.json](./42925-just-in-time-incorporated.json) |
 | Just Keep Digging | 304370 | [304370-just-keep-digging.json](./304370-just-keep-digging.json) |
 | Just Keep Running | 248325 | [248325-just-keep-running.json](./248325-just-keep-running.json) |
 | Just Kiss Him Already! | 225310 | [225310-just-kiss-him-already.json](./225310-just-kiss-him-already.json) |
