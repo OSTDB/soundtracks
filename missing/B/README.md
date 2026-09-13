@@ -2756,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2: Commander Lilith and the Fight for Sanctuary | 119267 | [119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json](./119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json) |
 | Borderlands 2: Deluxe Vault Hunter's Edition | 45277 | [45277-borderlands-2-deluxe-vault-hunters-edition.json](./45277-borderlands-2-deluxe-vault-hunters-edition.json) |
 | Borderlands 2: Game of the Year Edition | 47461 | [47461-borderlands-2-game-of-the-year-edition.json](./47461-borderlands-2-game-of-the-year-edition.json) |
+| Borderlands 2: Mr. Torgue's Campaign of Carnage | 13921 | [13921-borderlands-2-mr-torgues-campaign-of-carnage.json](./13921-borderlands-2-mr-torgues-campaign-of-carnage.json) |
 | Borderlands 3: Deluxe Edition | 116995 | [116995-borderlands-3-deluxe-edition.json](./116995-borderlands-3-deluxe-edition.json) |
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
