@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Max Pro | 392152 | [392152-race-max-pro.json](./392152-race-max-pro.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
 | Race Race Racer | 126996 | [126996-race-race-racer.json](./126996-race-race-racer.json) |
+| Race the Sun | 7876 | [7876-race-the-sun.json](./7876-race-the-sun.json) |
 | Race Time | 347696 | [347696-race-time.json](./347696-race-time.json) |
 | Race Time! | 245015 | [245015-race-time.json](./245015-race-time.json) |
 | Race to Kyiv | 392804 | [392804-race-to-kyiv.json](./392804-race-to-kyiv.json) |
