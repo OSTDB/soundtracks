@@ -1070,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Bridge Contractors | 69797 | [69797-international-bridge-contractors.json](./69797-international-bridge-contractors.json) |
 | International Championship Wrestling | 137618 | [137618-international-championship-wrestling.json](./137618-international-championship-wrestling.json) |
 | International Cricket 2010 | 22961 | [22961-international-cricket-2010.json](./22961-international-cricket-2010.json) |
+| International Cricket Captain | 23406 | [23406-international-cricket-captain.json](./23406-international-cricket-captain.json) |
 | International Cricket Captain 2 | 63317 | [63317-international-cricket-captain-2.json](./63317-international-cricket-captain-2.json) |
 | International Cricket Captain 2000 | 63318 | [63318-international-cricket-captain-2000.json](./63318-international-cricket-captain-2000.json) |
 | International Cricket Captain 2001 | 63321 | [63321-international-cricket-captain-2001.json](./63321-international-cricket-captain-2001.json) |
@@ -1224,6 +1225,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible: Story Extension | 168364 | [168364-invisible-story-extension.json](./168364-invisible-story-extension.json) |
 | Invitation to Fear | 188611 | [188611-invitation-to-fear.json](./188611-invitation-to-fear.json) |
 | Invizimals | 2994 | [2994-invizimals.json](./2994-invizimals.json) |
+| Invizimals: The Alliance | 23417 | [23417-invizimals-the-alliance.json](./23417-invizimals-the-alliance.json) |
+| Invizimals: The Lost Kingdom | 23357 | [23357-invizimals-the-lost-kingdom.json](./23357-invizimals-the-lost-kingdom.json) |
 | Inzipid | 74476 | [74476-inzipid.json](./74476-inzipid.json) |
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
 | IOI Collection | 154503 | [154503-ioi-collection.json](./154503-ioi-collection.json) |
