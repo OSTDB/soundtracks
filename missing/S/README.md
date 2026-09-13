@@ -5788,6 +5788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
 | Steptile | 287097 | [287097-steptile.json](./287097-steptile.json) |
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
+| Steredenn | 14146 | [14146-steredenn.json](./14146-steredenn.json) |
 | StereoPaint | 192425 | [192425-stereopaint.json](./192425-stereopaint.json) |
 | Stern Pinball Arcade | 30288 | [30288-stern-pinball-arcade.json](./30288-stern-pinball-arcade.json) |
 | Steve Davis Snooker | 45323 | [45323-steve-davis-snooker.json](./45323-steve-davis-snooker.json) |
@@ -6223,6 +6224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold Crusader: Definitive Edition - The Canary & The Trader | 371879 | [371879-stronghold-crusader-definitive-edition-the-canary-and-the-trader.json](./371879-stronghold-crusader-definitive-edition-the-canary-and-the-trader.json) |
 | Stronghold Defender | 18321 | [18321-stronghold-defender.json](./18321-stronghold-defender.json) |
 | Stronghold Deluxe | 98961 | [98961-stronghold-deluxe.json](./98961-stronghold-deluxe.json) |
+| Stronghold Kingdoms | 15030 | [15030-stronghold-kingdoms.json](./15030-stronghold-kingdoms.json) |
 | Stronghold: Caverns of Sorcery | 339654 | [339654-stronghold-caverns-of-sorcery.json](./339654-stronghold-caverns-of-sorcery.json) |
 | Stronghold: Definitive Edition | 257672 | [257672-stronghold-definitive-edition.json](./257672-stronghold-definitive-edition.json) |
 | Stronghold: On the Edge of Chaos | 141254 | [141254-stronghold-on-the-edge-of-chaos.json](./141254-stronghold-on-the-edge-of-chaos.json) |
@@ -7330,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super-Bikes: Riding Challenge | 43310 | [43310-super-bikes-riding-challenge.json](./43310-super-bikes-riding-challenge.json) |
 | Superball | 117000 | [117000-superball.json](./117000-superball.json) |
 | SuperBeam | 115608 | [115608-superbeam.json](./115608-superbeam.json) |
+| Superbeat: Xonic | 12875 | [12875-superbeat-xonic.json](./12875-superbeat-xonic.json) |
 | Superbeat: Xonic - The X-Clusive Limited Edition | 89913 | [89913-superbeat-xonic-the-x-clusive-limited-edition.json](./89913-superbeat-xonic-the-x-clusive-limited-edition.json) |
 | Superbeat: Xonic - The X-Otic Limited Edition | 89912 | [89912-superbeat-xonic-the-x-otic-limited-edition.json](./89912-superbeat-xonic-the-x-otic-limited-edition.json) |
 | Superbike GP | 43328 | [43328-superbike-gp.json](./43328-superbike-gp.json) |
