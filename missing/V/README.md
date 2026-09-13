@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Goal Soccer '96 | 37199 | [37199-v-goal-soccer-96.json](./37199-v-goal-soccer-96.json) |
 | V-Lover! | 351035 | [351035-v-lover.json](./351035-v-lover.json) |
 | V-Pong | 272844 | [272844-v-pong.json](./272844-v-pong.json) |
+| V-Rally 3 | 4227 | [4227-v-rally-3.json](./4227-v-rally-3.json) |
 | V-Shift | 338559 | [338559-v-shift.json](./338559-v-shift.json) |
 | V-Tennis | 20711 | [20711-v-tennis.json](./20711-v-tennis.json) |
 | V-Tennis 2 | 57712 | [57712-v-tennis-2.json](./57712-v-tennis-2.json) |
