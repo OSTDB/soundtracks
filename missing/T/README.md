@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
 | Technolites: Episode 1 | 109616 | [109616-technolites-episode-1.json](./109616-technolites-episode-1.json) |
+| Technōs Collection I | 130692 | [130692-technos-collection-i.json](./130692-technos-collection-i.json) |
 | Technosphere Reload | 116829 | [116829-technosphere-reload.json](./116829-technosphere-reload.json) |
 | Technuclear | 180812 | [180812-technuclear.json](./180812-technuclear.json) |
 | Techwars Global Conflict: Demigod Legacy Edition | 188028 | [188028-techwars-global-conflict-demigod-legacy-edition.json](./188028-techwars-global-conflict-demigod-legacy-edition.json) |
@@ -5335,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
 | TinyCraft Town | 362298 | [362298-tinycraft-town.json](./362298-tinycraft-town.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
+| Tinytopia | 131947 | [131947-tinytopia.json](./131947-tinytopia.json) |
 | Tinyverse | 181362 | [181362-tinyverse.json](./181362-tinyverse.json) |
 | Tip-Up Ice Fishing | 178578 | [178578-tip-up-ice-fishing.json](./178578-tip-up-ice-fishing.json) |
 | Tippy Tree | 113041 | [113041-tippy-tree.json](./113041-tippy-tree.json) |
@@ -5862,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Annihilation: Kingdoms | 11614 | [11614-total-annihilation-kingdoms.json](./11614-total-annihilation-kingdoms.json) |
 | Total Annihilation: The Core Contingency | 71462 | [71462-total-annihilation-the-core-contingency.json](./71462-total-annihilation-the-core-contingency.json) |
 | Total Apocalypse | 273128 | [273128-total-apocalypse.json](./273128-total-apocalypse.json) |
+| Total Arcade Racing | 132563 | [132563-total-arcade-racing.json](./132563-total-arcade-racing.json) |
 | Total Esports Action Manager | 117036 | [117036-total-esports-action-manager.json](./117036-total-esports-action-manager.json) |
 | Total Extreme Wrestling 2016 | 27681 | [27681-total-extreme-wrestling-2016.json](./27681-total-extreme-wrestling-2016.json) |
 | Total Football Online | 406683 | [406683-total-football-online.json](./406683-total-football-online.json) |
@@ -6011,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Seicross | 204492 | [204492-touhou-seicross.json](./204492-touhou-seicross.json) |
 | Touhou Shinjutou: Hollow Song of Birds | 196269 | [196269-touhou-shinjutou-hollow-song-of-birds.json](./196269-touhou-shinjutou-hollow-song-of-birds.json) |
 | Touhou Silver Night Festival: Freedom Train | 195794 | [195794-touhou-silver-night-festival-freedom-train.json](./195794-touhou-silver-night-festival-freedom-train.json) |
+| Touhou Spell Bubble | 131922 | [131922-touhou-spell-bubble.json](./131922-touhou-spell-bubble.json) |
 | Touhou Spell Bubble: Akatsuki Records Song Pack | 209154 | [209154-touhou-spell-bubble-akatsuki-records-song-pack.json](./209154-touhou-spell-bubble-akatsuki-records-song-pack.json) |
 | Touhou Spell Bubble: Character Pack Hong Meiling | 246646 | [246646-touhou-spell-bubble-character-pack-hong-meiling.json](./246646-touhou-spell-bubble-character-pack-hong-meiling.json) |
 | Touhou Spell Bubble: Character Pack Kogasa Tatara | 209492 | [209492-touhou-spell-bubble-character-pack-kogasa-tatara.json](./209492-touhou-spell-bubble-character-pack-kogasa-tatara.json) |
@@ -7240,6 +7244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
 | Twilight's Ransom | 12805 | [12805-twilights-ransom.json](./12805-twilights-ransom.json) |
 | Twin Bill | 130868 | [130868-twin-bill.json](./130868-twin-bill.json) |
+| Twin Breaker: A Sacred Symbols Adventure | 130613 | [130613-twin-breaker-a-sacred-symbols-adventure.json](./130613-twin-breaker-a-sacred-symbols-adventure.json) |
 | Twin Calibre: 688 Attack Sub + Chuck Yeager's Air Combat | 86086 | [86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json](./86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json) |
 | Twin Cards | 277866 | [277866-twin-cards.json](./277866-twin-cards.json) |
 | Twin Dragons | 159356 | [159356-twin-dragons.json](./159356-twin-dragons.json) |
