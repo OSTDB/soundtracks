@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhinged | 144979 | [144979-unhinged.json](./144979-unhinged.json) |
 | Unhinged 2 | 245864 | [245864-unhinged-2.json](./245864-unhinged-2.json) |
 | Unhold | 407330 | [407330-unhold.json](./407330-unhold.json) |
+| Unholy | 90213 | [90213-unholy.json](./90213-unholy.json) |
 | Unholy Arts | 135882 | [135882-unholy-arts.json](./135882-unholy-arts.json) |
 | Unholy Legacy | 306361 | [306361-unholy-legacy.json](./306361-unholy-legacy.json) |
 | Unholy Night: The Darkness Hunter | 26502 | [26502-unholy-night-the-darkness-hunter.json](./26502-unholy-night-the-darkness-hunter.json) |
