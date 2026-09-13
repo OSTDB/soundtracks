@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Along The Way | 253919 | [253919-lost-along-the-way.json](./253919-lost-along-the-way.json) |
 | Lost Amulets: Four Guardians | 223170 | [223170-lost-amulets-four-guardians.json](./223170-lost-amulets-four-guardians.json) |
 | Lost and Flounder | 108985 | [108985-lost-and-flounder.json](./108985-lost-and-flounder.json) |
+| Lost and Found Co. | 224629 | [224629-lost-and-found-co.json](./224629-lost-and-found-co.json) |
 | Lost at Sea | 209139 | [209139-lost-at-sea.json](./209139-lost-at-sea.json) |
 | Lost Brothers | 127311 | [127311-lost-brothers.json](./127311-lost-brothers.json) |
 | Lost Bubbles: Sweet Mates | 185666 | [185666-lost-bubbles-sweet-mates.json](./185666-lost-bubbles-sweet-mates.json) |
@@ -1978,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludum Creare | 176981 | [176981-ludum-creare.json](./176981-ludum-creare.json) |
 | Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
+| Lufia: The Ruins of Lore | 1180 | [1180-lufia-the-ruins-of-lore.json](./1180-lufia-the-ruins-of-lore.json) |
 | Luft Gears | 377060 | [377060-luft-gears.json](./377060-luft-gears.json) |
 | Lug's Delightful Dioramas | 198463 | [198463-lugs-delightful-dioramas.json](./198463-lugs-delightful-dioramas.json) |
 | Luge Crush 2018 | 87201 | [87201-luge-crush-2018.json](./87201-luge-crush-2018.json) |
