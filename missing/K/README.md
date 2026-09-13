@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao the Kangaroo: Summer Drip | 255089 | [255089-kao-the-kangaroo-summer-drip.json](./255089-kao-the-kangaroo-summer-drip.json) |
 | Kao The Kangaroo: Top Of The Class | 290412 | [290412-kao-the-kangaroo-top-of-the-class.json](./290412-kao-the-kangaroo-top-of-the-class.json) |
 | Kao the Kangaroo: VIP | 290411 | [290411-kao-the-kangaroo-vip.json](./290411-kao-the-kangaroo-vip.json) |
+| Kaori After Story | 112770 | [112770-kaori-after-story.json](./112770-kaori-after-story.json) |
 | Kaos | 118397 | [118397-kaos.json](./118397-kaos.json) |
 | Kaperfahrt | 414347 | [414347-kaperfahrt.json](./414347-kaperfahrt.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
@@ -1051,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobold Siege | 285993 | [285993-kobold-siege.json](./285993-kobold-siege.json) |
 | Kobold Slayer | 111690 | [111690-kobold-slayer.json](./111690-kobold-slayer.json) |
 | Kobold Underground Agency | 296923 | [296923-kobold-underground-agency.json](./296923-kobold-underground-agency.json) |
+| Kobold: Chapter I | 112055 | [112055-kobold-chapter-i.json](./112055-kobold-chapter-i.json) |
 | KoboldKare | 344381 | [344381-koboldkare.json](./344381-koboldkare.json) |
 | KochiKame: Ryo-san's Billion-yen Beat | 402892 | [402892-kochikame-ryo-sans-billion-yen-beat.json](./402892-kochikame-ryo-sans-billion-yen-beat.json) |
 | Kochira, Haha Naru Hoshi Yori | 152912 | [152912-kochira-haha-naru-hoshi-yori.json](./152912-kochira-haha-naru-hoshi-yori.json) |
@@ -1103,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kolkhoz: The Red Wedge | 109755 | [109755-kolkhoz-the-red-wedge.json](./109755-kolkhoz-the-red-wedge.json) |
 | Koloni | 244252 | [244252-koloni.json](./244252-koloni.json) |
 | Kolt Penny's Symmetris | 296387 | [296387-kolt-pennys-symmetris.json](./296387-kolt-pennys-symmetris.json) |
+| Kolumno | 111641 | [111641-kolumno.json](./111641-kolumno.json) |
 | Komadori Inn | 296649 | [296649-komadori-inn.json](./296649-komadori-inn.json) |
 | Komako | 165051 | [165051-komako.json](./165051-komako.json) |
 | Komayama Kiri ha Zenbu Yari ni Iku | 404250 | [404250-komayama-kiri-ha-zenbu-yari-ni-iku.json](./404250-komayama-kiri-ha-zenbu-yari-ni-iku.json) |
