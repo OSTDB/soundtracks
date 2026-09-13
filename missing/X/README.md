@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoage: Knight of the Rihas | 145575 | [145575-xenoage-knight-of-the-rihas.json](./145575-xenoage-knight-of-the-rihas.json) |
 | Xenoblade Chronicles 3 | 191411 | [191411-xenoblade-chronicles-3.json](./191411-xenoblade-chronicles-3.json) |
 | Xenoblade Chronicles 3: Future Redeemed | 236669 | [236669-xenoblade-chronicles-3-future-redeemed.json](./236669-xenoblade-chronicles-3-future-redeemed.json) |
+| Xenoblade Chronicles 3D | 9553 | [9553-xenoblade-chronicles-3d.json](./9553-xenoblade-chronicles-3d.json) |
 | Xenoblade Chronicles X | 2366 | [2366-xenoblade-chronicles-x.json](./2366-xenoblade-chronicles-x.json) |
 | Xenoblade Chronicles X: Limited Edition | 51145 | [51145-xenoblade-chronicles-x-limited-edition.json](./51145-xenoblade-chronicles-x-limited-edition.json) |
 | Xenoblade Chronicles: Collector's Edition | 50591 | [50591-xenoblade-chronicles-collectors-edition.json](./50591-xenoblade-chronicles-collectors-edition.json) |
