@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Games: 15 in 1 | 147911 | [147911-party-games-15-in-1.json](./147911-party-games-15-in-1.json) |
 | Party Golf | 31009 | [31009-party-golf.json](./31009-party-golf.json) |
 | Party Hard Pack | 237984 | [237984-party-hard-pack.json](./237984-party-hard-pack.json) |
+| Party Hard Tycoon | 23180 | [23180-party-hard-tycoon.json](./23180-party-hard-tycoon.json) |
 | Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
 | Party Jousting | 33608 | [33608-party-jousting.json](./33608-party-jousting.json) |
 | Party Mashup | 137613 | [137613-party-mashup.json](./137613-party-mashup.json) |
@@ -2002,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playtown Remake | 332807 | [332807-playtown-remake.json](./332807-playtown-remake.json) |
 | PlayTribes | 59443 | [59443-playtribes.json](./59443-playtribes.json) |
 | PlayVille | 366253 | [366253-playville.json](./366253-playville.json) |
+| Playworld Superheroes | 23230 | [23230-playworld-superheroes.json](./23230-playworld-superheroes.json) |
 | Please | 134675 | [134675-please.json](./134675-please.json) |
 | Please (Don't) Touch the Art | 276478 | [276478-please-dont-touch-the-art.json](./276478-please-dont-touch-the-art.json) |
 | Please Answer Carefully | 176488 | [176488-please-answer-carefully.json](./176488-please-answer-carefully.json) |
@@ -2457,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Fever: Superior Edition | 396925 | [396925-pool-fever-superior-edition.json](./396925-pool-fever-superior-edition.json) |
 | Pool Fiction | 402910 | [402910-pool-fiction.json](./402910-pool-fiction.json) |
 | Pool Glow | 413629 | [413629-pool-glow.json](./413629-pool-glow.json) |
+| Pool Hustler | 23153 | [23153-pool-hustler.json](./23153-pool-hustler.json) |
 | Pool Live Pro | 38947 | [38947-pool-live-pro.json](./38947-pool-live-pro.json) |
 | Pool Master | 43257 | [43257-pool-master.json](./43257-pool-master.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
@@ -2733,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prague Metro Simulator: Passenger Transport | 207813 | [207813-prague-metro-simulator-passenger-transport.json](./207813-prague-metro-simulator-passenger-transport.json) |
 | Prana | 75113 | [75113-prana.json](./75113-prana.json) |
 | Pranksters: Treasure of the Indians | 322570 | [322570-pranksters-treasure-of-the-indians.json](./322570-pranksters-treasure-of-the-indians.json) |
+| Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
 | Pre Post-Modernistic Post-Ironic Dadaism: Dating Simulator | 306969 | [306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json](./306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json) |
