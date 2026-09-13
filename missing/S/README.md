@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCopter | 1496 | [1496-simcopter.json](./1496-simcopter.json) |
 | Sime Is Back: 3D Old School | 340370 | [340370-sime-is-back-3d-old-school.json](./340370-sime-is-back-3d-old-school.json) |
 | SimEarth: The Living Planet | 42017 | [42017-simearth-the-living-planet.json](./42017-simearth-the-living-planet.json) |
+| SimEarth: The Living Planet | 44456 | [44456-simearth-the-living-planet.json](./44456-simearth-the-living-planet.json) |
 | SimFarm | 8804 | [8804-simfarm.json](./8804-simfarm.json) |
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
@@ -2803,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slamslide | 183594 | [183594-slamslide.json](./183594-slamslide.json) |
 | Slap Circle | 237644 | [237644-slap-circle.json](./237644-slap-circle.json) |
 | Slap City | 87935 | [87935-slap-city.json](./87935-slap-city.json) |
+| Slap Fight | 37296 | [37296-slap-fight.json](./37296-slap-fight.json) |
 | Slap Shot | 81281 | [81281-slap-shot.json](./81281-slap-shot.json) |
 | Slap That | 311263 | [311263-slap-that.json](./311263-slap-that.json) |
 | Slap-Shot! Hockey | 95424 | [95424-slap-shot-hockey.json](./95424-slap-shot-hockey.json) |
@@ -5321,6 +5323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Warrior | 94241 | [94241-star-warrior.json](./94241-star-warrior.json) |
 | Star Wars | 12858 | [12858-star-wars.json](./12858-star-wars.json) |
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
+| Star Wars Arcade | 39822 | [39822-star-wars-arcade.json](./39822-star-wars-arcade.json) |
 | Star Wars Battlefront II: Celebration Edition | 128334 | [128334-star-wars-battlefront-ii-celebration-edition.json](./128334-star-wars-battlefront-ii-celebration-edition.json) |
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
 | Star Wars Challenge | 86087 | [86087-star-wars-challenge.json](./86087-star-wars-challenge.json) |
