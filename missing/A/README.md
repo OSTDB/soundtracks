@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aima | 60507 | [60507-aima.json](./60507-aima.json) |
 | Aimbeast | 124750 | [124750-aimbeast.json](./124750-aimbeast.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
+| Aimlabs | 67902 | [67902-aimlabs.json](./67902-aimlabs.json) |
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
 | AInder | 239682 | [239682-ainder.json](./239682-ainder.json) |
 | Ainmora: The Impending Disaster | 241949 | [241949-ainmora-the-impending-disaster.json](./241949-ainmora-the-impending-disaster.json) |
@@ -2975,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Revelations: Mediterranean Traveler Map Pack | 167242 | [167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json](./167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json) |
 | Assassin's Creed Revelations: Special Edition | 268735 | [268735-assassins-creed-revelations-special-edition.json](./268735-assassins-creed-revelations-special-edition.json) |
 | Assassin's Creed Revelations: The Ancestors Character Pack | 167241 | [167241-assassins-creed-revelations-the-ancestors-character-pack.json](./167241-assassins-creed-revelations-the-ancestors-character-pack.json) |
+| Assassin's Creed Revelations: The Lost Archive | 8217 | [8217-assassins-creed-revelations-the-lost-archive.json](./8217-assassins-creed-revelations-the-lost-archive.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: Collector's Edition | 141160 | [141160-assassins-creed-valhalla-collectors-edition.json](./141160-assassins-creed-valhalla-collectors-edition.json) |
 | Assassin's Creed Valhalla: Dawn of Ragnarök | 185706 | [185706-assassins-creed-valhalla-dawn-of-ragnarok.json](./185706-assassins-creed-valhalla-dawn-of-ragnarok.json) |
