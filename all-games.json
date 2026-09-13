@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T20:26:06.393Z",
-  "total_soundtracks": 1447,
+  "generated_at": "2026-09-13T21:10:54.540Z",
+  "total_soundtracks": 1448,
   "games": [
     {
       "igdb_id": 7522,
@@ -910,8 +910,14 @@
       "igdb_id": 337738,
       "game_name": "Assassin's Creed Black Flag Resynced",
       "game_url": "https://ostdb.net/games/assassins-creed-black-flag-resynced",
-      "cover_url": "https://images.igdb.com/igdb/image/upload/t_1080p/cobyue.jpg",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000aa54d877f92b59e16dfff4e50d3a",
       "albums": [
+        {
+          "album_name": "Assassin's Creed Black Flag: Resynced (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1aKVX5Eiql11CnPwUYgRXW",
+          "apple_music_url": "https://music.apple.com/us/album/assassins-creed-black-flag-resynced-original-game-soundtrack/6787153349",
+          "album_link_url": ""
+        },
         {
           "album_name": "Leave Her Johnny (Woodkid Resynced)",
           "spotify_url": "https://open.spotify.com/album/1aKVX5Eiql11CnPwUYgRXW",
