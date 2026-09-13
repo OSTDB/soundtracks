@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
 | Riven: The Sequel to Myst | 347131 | [347131-riven-the-sequel-to-myst.json](./347131-riven-the-sequel-to-myst.json) |
 | River City Girls 2 | 152321 | [152321-river-city-girls-2.json](./152321-river-city-girls-2.json) |
+| River City Girls Zero | 137195 | [137195-river-city-girls-zero.json](./137195-river-city-girls-zero.json) |
 | River City Melee: Battle Royal Special | 63712 | [63712-river-city-melee-battle-royal-special.json](./63712-river-city-melee-battle-royal-special.json) |
 | River City Saga: Three Kingdoms Next | 321749 | [321749-river-city-saga-three-kingdoms-next.json](./321749-river-city-saga-three-kingdoms-next.json) |
 | River Crossing IQ - Trivia Quiz | 117749 | [117749-river-crossing-iq-trivia-quiz.json](./117749-river-crossing-iq-trivia-quiz.json) |
@@ -2751,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust Onslaught | 341511 | [341511-rust-onslaught.json](./341511-rust-onslaught.json) |
 | Rust Racers 2D | 126026 | [126026-rust-racers-2d.json](./126026-rust-racers-2d.json) |
 | Rust Rails | 267063 | [267063-rust-rails.json](./267063-rust-rails.json) |
+| Rust: Console Edition | 145149 | [145149-rust-console-edition.json](./145149-rust-console-edition.json) |
 | Rustbucket Rumble | 35699 | [35699-rustbucket-rumble.json](./35699-rustbucket-rumble.json) |
 | Rusted | 340945 | [340945-rusted.json](./340945-rusted.json) |
 | Rusted Sea | 296376 | [296376-rusted-sea.json](./296376-rusted-sea.json) |
