@@ -228,7 +228,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney: Ultimate Justice | 304031 | [304031-ace-attorney-ultimate-justice.json](./304031-ace-attorney-ultimate-justice.json) |
 | Ace Banana | 25108 | [25108-ace-banana.json](./25108-ace-banana.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set II | 282591 | [282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json](./282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json) |
-| Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set | 282582 | [282582-ace-combat-7-skies-unknown-25th-anniversary-skin-set.json](./282582-ace-combat-7-skies-unknown-25th-anniversary-skin-set.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set II | 282593 | [282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json](./282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set III | 282595 | [282595-ace-combat-7-skies-unknown-25th-anniversary-skin-set-iii.json](./282595-ace-combat-7-skies-unknown-25th-anniversary-skin-set-iii.json) |
 | Ace Combat 7: Skies Unknown - ASF-X Shinden II Set | 282579 | [282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json](./282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json) |
@@ -3227,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athena's Circus | 334505 | [334505-athenas-circus.json](./334505-athenas-circus.json) |
 | Athenian Acropolis | 74445 | [74445-athenian-acropolis.json](./74445-athenian-acropolis.json) |
 | Athletic Land | 55859 | [55859-athletic-land.json](./55859-athletic-land.json) |
+| Athletic World | 9104 | [9104-athletic-world.json](./9104-athletic-world.json) |
 | Athletyx | 123069 | [123069-athletyx.json](./123069-athletyx.json) |
 | Athopiu Complete | 52623 | [52623-athopiu-complete.json](./52623-athopiu-complete.json) |
 | Athos | 265413 | [265413-athos.json](./265413-athos.json) |
@@ -3351,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurum Kings | 100148 | [100148-aurum-kings.json](./100148-aurum-kings.json) |
 | Aussie Clowns At War | 190194 | [190194-aussie-clowns-at-war.json](./190194-aussie-clowns-at-war.json) |
 | Aussie Joker Poker | 14276 | [14276-aussie-joker-poker.json](./14276-aussie-joker-poker.json) |
+| Aussie Rules Footy | 9107 | [9107-aussie-rules-footy.json](./9107-aussie-rules-footy.json) |
 | Aussie Sports VR | 31920 | [31920-aussie-sports-vr.json](./31920-aussie-sports-vr.json) |
 | Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
 | Austin Powers: Oh, Behave! | 49890 | [49890-austin-powers-oh-behave.json](./49890-austin-powers-oh-behave.json) |
