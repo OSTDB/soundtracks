@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T14:51:32.365Z",
-  "total_missing": 66216,
+  "generated_at": "2026-09-13T15:01:33.219Z",
+  "total_missing": 66225,
   "games": [
     {
       "igdb_id": 306086,
@@ -3716,11 +3716,6 @@
       "igdb_id": 290686,
       "game_name": "ActionHacker",
       "file": "missing/A/290686-actionhacker.json"
-    },
-    {
-      "igdb_id": 23044,
-      "game_name": "Actionloop Twist",
-      "file": "missing/A/23044-actionloop-twist.json"
     },
     {
       "igdb_id": 107931,
@@ -9081,6 +9076,11 @@
       "igdb_id": 287174,
       "game_name": "Alone in the Dark",
       "file": "missing/A/287174-alone-in-the-dark.json"
+    },
+    {
+      "igdb_id": 300074,
+      "game_name": "Alone in the Dark",
+      "file": "missing/A/300074-alone-in-the-dark.json"
     },
     {
       "igdb_id": 340383,
@@ -28108,6 +28108,11 @@
       "file": "missing/B/261825-bezombie-anime-invasion.json"
     },
     {
+      "igdb_id": 305909,
+      "game_name": "BFDI: Branches",
+      "file": "missing/B/305909-bfdi-branches.json"
+    },
+    {
       "igdb_id": 114995,
       "game_name": "BFGE",
       "file": "missing/B/114995-bfge.json"
@@ -44433,6 +44438,11 @@
       "file": "missing/C/130334-catroots.json"
     },
     {
+      "igdb_id": 301856,
+      "game_name": "Cats",
+      "file": "missing/C/301856-cats.json"
+    },
+    {
       "igdb_id": 360002,
       "game_name": "Cats & Cups",
       "file": "missing/C/360002-cats-and-cups.json"
@@ -48901,6 +48911,11 @@
       "igdb_id": 380412,
       "game_name": "Chuukana Janshi Tenhou Painyan",
       "file": "missing/C/380412-chuukana-janshi-tenhou-painyan.json"
+    },
+    {
+      "igdb_id": 308857,
+      "game_name": "Chuxie",
+      "file": "missing/C/308857-chuxie.json"
     },
     {
       "igdb_id": 3758,
@@ -161228,6 +161243,11 @@
       "file": "missing/M/93035-maniac-jackson-and-the-moonwalking-mindbenders.json"
     },
     {
+      "igdb_id": 307416,
+      "game_name": "Maniac Mansion",
+      "file": "missing/M/307416-maniac-mansion.json"
+    },
+    {
       "igdb_id": 169387,
       "game_name": "Maniac Path 2",
       "file": "missing/M/169387-maniac-path-2.json"
@@ -162791,6 +162811,11 @@
       "igdb_id": 82909,
       "game_name": "Marriage or Pervert: The Small Penis Warrior & The Perverted Magician",
       "file": "missing/M/82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json"
+    },
+    {
+      "igdb_id": 307253,
+      "game_name": "Married in Red",
+      "file": "missing/M/307253-married-in-red.json"
     },
     {
       "igdb_id": 82852,
@@ -177083,6 +177108,11 @@
       "file": "missing/M/119745-mountain-taxi-driver.json"
     },
     {
+      "igdb_id": 306174,
+      "game_name": "Mourning Tide",
+      "file": "missing/M/306174-mourning-tide.json"
+    },
+    {
       "igdb_id": 370104,
       "game_name": "Mourningwood Lodge",
       "file": "missing/M/370104-mourningwood-lodge.json"
@@ -187551,6 +187581,11 @@
       "igdb_id": 324081,
       "game_name": "Nintendo Wars",
       "file": "missing/N/324081-nintendo-wars.json"
+    },
+    {
+      "igdb_id": 299862,
+      "game_name": "Nintendo World Championships: NES Edition",
+      "file": "missing/N/299862-nintendo-world-championships-nes-edition.json"
     },
     {
       "igdb_id": 85600,
@@ -203196,6 +203231,11 @@
       "igdb_id": 388710,
       "game_name": "Pilfer",
       "file": "missing/P/388710-pilfer.json"
+    },
+    {
+      "igdb_id": 301813,
+      "game_name": "Pilgrim",
+      "file": "missing/P/301813-pilgrim.json"
     },
     {
       "igdb_id": 74359,
@@ -232011,6 +232051,11 @@
       "igdb_id": 249503,
       "game_name": "Samsara",
       "file": "missing/S/249503-samsara.json"
+    },
+    {
+      "igdb_id": 300426,
+      "game_name": "Samsara Room",
+      "file": "missing/S/300426-samsara-room.json"
     },
     {
       "igdb_id": 356656,
