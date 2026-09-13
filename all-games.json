@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T11:50:56.545Z",
-  "total_soundtracks": 1443,
+  "generated_at": "2026-09-13T16:15:55.405Z",
+  "total_soundtracks": 1444,
   "games": [
     {
       "igdb_id": 7522,
@@ -343,6 +343,20 @@
           "spotify_url": "https://music.apple.com/us/album/ace-combat-7-skies-unknown-original-soundtrack/1724893711?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1724893711"
+        }
+      ]
+    },
+    {
+      "igdb_id": 14754,
+      "game_name": "Ace Combat Zero: The Belkan War",
+      "game_url": "https://ostdb.net/games/ace-combat-zero-the-belkan-war",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731f15cc271d85aa8a81b8c53b",
+      "albums": [
+        {
+          "album_name": "ACE COMBAT ZERO THE BELKAN WAR Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3CpAYpXbl2o9yigh89Exor",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
