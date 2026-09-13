@@ -444,8 +444,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
 | Gauntlet | 381045 | [381045-gauntlet.json](./381045-gauntlet.json) |
 | Gauntlet II | 3503 | [3503-gauntlet-ii.json](./3503-gauntlet-ii.json) |
+| Gauntlet III: The Final Quest | 7296 | [7296-gauntlet-iii-the-final-quest.json](./7296-gauntlet-iii-the-final-quest.json) |
 | Gauntlet: Slayer Edition - Lilith the Necromancer Pack | 226429 | [226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json](./226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json) |
 | Gauntlet: The Deeper Dungeons | 37164 | [37164-gauntlet-the-deeper-dungeons.json](./37164-gauntlet-the-deeper-dungeons.json) |
+| Gauntlet: The Third Encounter | 7295 | [7295-gauntlet-the-third-encounter.json](./7295-gauntlet-the-third-encounter.json) |
 | Gay Battlegrounds | 105354 | [105354-gay-battlegrounds.json](./105354-gay-battlegrounds.json) |
 | Gay Sex Adventures: Episode 8 | 304857 | [304857-gay-sex-adventures-episode-8.json](./304857-gay-sex-adventures-episode-8.json) |
 | Gay Zodiac | 183034 | [183034-gay-zodiac.json](./183034-gay-zodiac.json) |
@@ -1461,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossipia | 59991 | [59991-gossipia.json](./59991-gossipia.json) |
 | GOTC: Siege on the Lightorder Citadel | 164515 | [164515-gotc-siege-on-the-lightorder-citadel.json](./164515-gotc-siege-on-the-lightorder-citadel.json) |
 | Gotcha | 250633 | [250633-gotcha.json](./250633-gotcha.json) |
+| Gotcha | 7427 | [7427-gotcha.json](./7427-gotcha.json) |
 | Gotcha Number for Playdate | 276716 | [276716-gotcha-number-for-playdate.json](./276716-gotcha-number-for-playdate.json) |
 | Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
 | Gotham Gangsta | 29930 | [29930-gotham-gangsta.json](./29930-gotham-gangsta.json) |
@@ -1521,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grainwind Incident 77 | 229358 | [229358-grainwind-incident-77.json](./229358-grainwind-incident-77.json) |
 | Gramik Paint Roller | 254129 | [254129-gramik-paint-roller.json](./254129-gramik-paint-roller.json) |
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
+| Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
 | Gran Turismo 2000 | 298017 | [298017-gran-turismo-2000.json](./298017-gran-turismo-2000.json) |
 | Gran Turismo 4: Spec II | 339256 | [339256-gran-turismo-4-spec-ii.json](./339256-gran-turismo-4-spec-ii.json) |
 | Gran Turismo 5: Prologue Spec III | 77993 | [77993-gran-turismo-5-prologue-spec-iii.json](./77993-gran-turismo-5-prologue-spec-iii.json) |
@@ -1632,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravBlocks | 34436 | [34436-gravblocks.json](./34436-gravblocks.json) |
 | GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
 | GravBot | 393513 | [393513-gravbot.json](./393513-gravbot.json) |
+| Grave | 7411 | [7411-grave.json](./7411-grave.json) |
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
