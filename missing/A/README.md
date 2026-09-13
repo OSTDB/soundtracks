@@ -229,7 +229,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Banana | 25108 | [25108-ace-banana.json](./25108-ace-banana.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set II | 282591 | [282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json](./282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set II | 282593 | [282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json](./282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json) |
-| Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set III | 282595 | [282595-ace-combat-7-skies-unknown-25th-anniversary-skin-set-iii.json](./282595-ace-combat-7-skies-unknown-25th-anniversary-skin-set-iii.json) |
 | Ace Combat 7: Skies Unknown - ASF-X Shinden II Set | 282579 | [282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json](./282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json) |
 | Ace Combat 7: Skies Unknown - Bonus Emblem Set | 282587 | [282587-ace-combat-7-skies-unknown-bonus-emblem-set.json](./282587-ace-combat-7-skies-unknown-bonus-emblem-set.json) |
 | Ace Combat 7: Skies Unknown - CFA-44 Nosferatu Set | 282578 | [282578-ace-combat-7-skies-unknown-cfa-44-nosferatu-set.json](./282578-ace-combat-7-skies-unknown-cfa-44-nosferatu-set.json) |
