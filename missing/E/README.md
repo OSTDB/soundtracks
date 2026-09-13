@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
 | Earth's Last Defense | 182535 | [182535-earths-last-defense.json](./182535-earths-last-defense.json) |
 | EarthBound 64 Experience | 238206 | [238206-earthbound-64-experience.json](./238206-earthbound-64-experience.json) |
+| EarthBound Beginnings | 11191 | [11191-earthbound-beginnings.json](./11191-earthbound-beginnings.json) |
 | EarthBound Dimensions | 311281 | [311281-earthbound-dimensions.json](./311281-earthbound-dimensions.json) |
 | EarthKart | 269029 | [269029-earthkart.json](./269029-earthkart.json) |
 | Earthrise | 20554 | [20554-earthrise.json](./20554-earthrise.json) |
