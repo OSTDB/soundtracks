@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Very Pilkington Christmas | 280752 | [280752-a-very-pilkington-christmas.json](./280752-a-very-pilkington-christmas.json) |
+| A Virus Named Tom | 3040 | [3040-a-virus-named-tom.json](./3040-a-virus-named-tom.json) |
 | A Visit to Sesame Street: Letters | 45945 | [45945-a-visit-to-sesame-street-letters.json](./45945-a-visit-to-sesame-street-letters.json) |
 | A Visit to Sesame Street: Numbers | 46558 | [46558-a-visit-to-sesame-street-numbers.json](./46558-a-visit-to-sesame-street-numbers.json) |
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy City 1: Atomic Version | 272002 | [272002-anarchy-city-1-atomic-version.json](./272002-anarchy-city-1-atomic-version.json) |
 | Anarchy City 2: Neighbourhood Nightmare | 272003 | [272003-anarchy-city-2-neighbourhood-nightmare.json](./272003-anarchy-city-2-neighbourhood-nightmare.json) |
 | Anarchy City 3: Zero Tolerance | 272004 | [272004-anarchy-city-3-zero-tolerance.json](./272004-anarchy-city-3-zero-tolerance.json) |
+| Anarchy Online | 1996 | [1996-anarchy-online.json](./1996-anarchy-online.json) |
 | Anarchy Park | 262655 | [262655-anarchy-park.json](./262655-anarchy-park.json) |
 | Anarchy Reigns: Limited Edition | 44663 | [44663-anarchy-reigns-limited-edition.json](./44663-anarchy-reigns-limited-edition.json) |
 | Anarchy Zone | 15595 | [15595-anarchy-zone.json](./15595-anarchy-zone.json) |
