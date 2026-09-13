@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II Mobile | 144346 | [144346-age-of-empires-ii-mobile.json](./144346-age-of-empires-ii-mobile.json) |
 | Age of Empires II: Definitive Edition | 55056 | [55056-age-of-empires-ii-definitive-edition.json](./55056-age-of-empires-ii-definitive-edition.json) |
 | Age of Empires II: Definitive Edition - Dynasties of India | 197890 | [197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json](./197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json) |
+| Age of Empires II: HD Edition | 2950 | [2950-age-of-empires-ii-hd-edition.json](./2950-age-of-empires-ii-hd-edition.json) |
 | Age of Empires III Mobile | 144347 | [144347-age-of-empires-iii-mobile.json](./144347-age-of-empires-iii-mobile.json) |
 | Age of Empires III: Definitive Edition | 55057 | [55057-age-of-empires-iii-definitive-edition.json](./55057-age-of-empires-iii-definitive-edition.json) |
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
