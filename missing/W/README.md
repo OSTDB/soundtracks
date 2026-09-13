@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterpark Simulator | 348648 | [348648-waterpark-simulator.json](./348648-waterpark-simulator.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
+| Wave Race 64 | 3629 | [3629-wave-race-64.json](./3629-wave-race-64.json) |
 | Wave Rally | 43304 | [43304-wave-rally.json](./43304-wave-rally.json) |
 | Wave Rave | 341912 | [341912-wave-rave.json](./341912-wave-rave.json) |
 | Wave Rider | 161399 | [161399-wave-rider.json](./161399-wave-rider.json) |
