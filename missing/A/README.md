@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
 | A-10 Tank Killer | 14200 | [14200-a-10-tank-killer.json](./14200-a-10-tank-killer.json) |
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
+| A-Gents | 33071 | [33071-a-gents.json](./33071-a-gents.json) |
 | A-mazing Ants | 52561 | [52561-a-mazing-ants.json](./52561-a-mazing-ants.json) |
 | A-Rank Thunder Tanjouhen | 5355 | [5355-a-rank-thunder-tanjouhen.json](./5355-a-rank-thunder-tanjouhen.json) |
 | A-Red Walking Robot | 276712 | [276712-a-red-walking-robot.json](./276712-a-red-walking-robot.json) |
@@ -1839,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
 | Angst: A Tale of Survival | 320716 | [320716-angst-a-tale-of-survival.json](./320716-angst-a-tale-of-survival.json) |
+| Angus Hates Aliens | 33165 | [33165-angus-hates-aliens.json](./33165-angus-hates-aliens.json) |
 | Ani Idle | 351027 | [351027-ani-idle.json](./351027-ani-idle.json) |
 | Ani Leaving Sirius | 189120 | [189120-ani-leaving-sirius.json](./189120-ani-leaving-sirius.json) |
 | Anicca | 208058 | [208058-anicca.json](./208058-anicca.json) |
@@ -2231,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ApocaShift | 346614 | [346614-apocashift.json](./346614-apocashift.json) |
 | Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
 | Apokalypsis | 30817 | [30817-apokalypsis.json](./30817-apokalypsis.json) |
+| Apollo 11 VR | 33145 | [33145-apollo-11-vr.json](./33145-apollo-11-vr.json) |
 | Apollo 13 | 199021 | [199021-apollo-13.json](./199021-apollo-13.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | Apollo LM | 174288 | [174288-apollo-lm.json](./174288-apollo-lm.json) |
@@ -2540,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archetypes: The Rite of Passage | 211439 | [211439-archetypes-the-rite-of-passage.json](./211439-archetypes-the-rite-of-passage.json) |
 | ArcheWorld | 217002 | [217002-archeworld.json](./217002-archeworld.json) |
 | Archibald 2 | 116985 | [116985-archibald-2.json](./116985-archibald-2.json) |
+| Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
 | Archipelagates | 258224 | [258224-archipelagates.json](./258224-archipelagates.json) |
 | Archipelago: Island Survival | 297787 | [297787-archipelago-island-survival.json](./297787-archipelago-island-survival.json) |
 | Archipelago: Navigable VR Comic | 29822 | [29822-archipelago-navigable-vr-comic.json](./29822-archipelago-navigable-vr-comic.json) |
@@ -3581,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
 | Avril | 373011 | [373011-avril.json](./373011-avril.json) |
 | Avy, Fables of the Night | 269288 | [269288-avy-fables-of-the-night.json](./269288-avy-fables-of-the-night.json) |
+| AWA | 32877 | [32877-awa.json](./32877-awa.json) |
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
 | Awake | 343247 | [343247-awake.json](./343247-awake.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
