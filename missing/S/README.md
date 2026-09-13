@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Falls | 311258 | [311258-shadow-falls.json](./311258-shadow-falls.json) |
 | Shadow Fate | 191264 | [191264-shadow-fate.json](./191264-shadow-fate.json) |
 | Shadow Fear: Chapter 0 | 168856 | [168856-shadow-fear-chapter-0.json](./168856-shadow-fear-chapter-0.json) |
+| Shadow Fight 2 | 39244 | [39244-shadow-fight-2.json](./39244-shadow-fight-2.json) |
 | Shadow Fight 2: Special Edition | 68463 | [68463-shadow-fight-2-special-edition.json](./68463-shadow-fight-2-special-edition.json) |
 | Shadow Fight: Arena | 219604 | [219604-shadow-fight-arena.json](./219604-shadow-fight-arena.json) |
 | Shadow Fighter Legend | 105859 | [105859-shadow-fighter-legend.json](./105859-shadow-fighter-legend.json) |
@@ -6057,6 +6058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | String Rush | 173236 | [173236-string-rush.json](./173236-string-rush.json) |
 | String Theory | 294149 | [294149-string-theory.json](./294149-string-theory.json) |
 | String.io | 108445 | [108445-string-io.json](./108445-string-io.json) |
+| Strinova | 260136 | [260136-strinova.json](./260136-strinova.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
 | Strip Fighter IV | 66652 | [66652-strip-fighter-iv.json](./66652-strip-fighter-iv.json) |
@@ -6850,9 +6852,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 3 | 158723 | [158723-super-mario-bros-3.json](./158723-super-mario-bros-3.json) |
 | Super Mario Bros. 3 Advance | 322002 | [322002-super-mario-bros-3-advance.json](./322002-super-mario-bros-3-advance.json) |
 | Super Mario Bros. 3: The Lost Levels | 239902 | [239902-super-mario-bros-3-the-lost-levels.json](./239902-super-mario-bros-3-the-lost-levels.json) |
+| Super Mario Bros. 35 | 138235 | [138235-super-mario-bros-35.json](./138235-super-mario-bros-35.json) |
 | Super Mario Bros. 3Mix | 144986 | [144986-super-mario-bros-3mix.json](./144986-super-mario-bros-3mix.json) |
 | Super Mario Bros. 64 | 135232 | [135232-super-mario-bros-64.json](./135232-super-mario-bros-64.json) |
 | Super Mario Bros. 64 | 150101 | [150101-super-mario-bros-64.json](./150101-super-mario-bros-64.json) |
+| Super Mario Bros. Deluxe | 49877 | [49877-super-mario-bros-deluxe.json](./49877-super-mario-bros-deluxe.json) |
 | Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
