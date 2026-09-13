@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T19:18:50.365Z",
-  "total_missing": 66869,
+  "generated_at": "2026-09-13T19:21:32.573Z",
+  "total_missing": 66868,
   "games": [
     {
       "igdb_id": 306086,
@@ -3861,11 +3861,6 @@
       "igdb_id": 76606,
       "game_name": "Addition",
       "file": "missing/A/76606-addition.json"
-    },
-    {
-      "igdb_id": 239075,
-      "game_name": "Addmath",
-      "file": "missing/A/239075-addmath.json"
     },
     {
       "igdb_id": 77948,
