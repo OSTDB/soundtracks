@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redline: Sport | 255755 | [255755-redline-sport.json](./255755-redline-sport.json) |
 | RedMask | 266811 | [266811-redmask.json](./266811-redmask.json) |
 | RedMoonWorld | 411616 | [411616-redmoonworld.json](./411616-redmoonworld.json) |
+| Redneck Ed: Astro Monsters Show | 132230 | [132230-redneck-ed-astro-monsters-show.json](./132230-redneck-ed-astro-monsters-show.json) |
 | Redout 2: Deluxe Edition | 205571 | [205571-redout-2-deluxe-edition.json](./205571-redout-2-deluxe-edition.json) |
 | Redout 2: Summer Pack | 224209 | [224209-redout-2-summer-pack.json](./224209-redout-2-summer-pack.json) |
 | Redout 2: Ultimate Edition | 205570 | [205570-redout-2-ultimate-edition.json](./205570-redout-2-ultimate-edition.json) |
@@ -1040,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relgiros | 274492 | [274492-relgiros.json](./274492-relgiros.json) |
 | Relic Arena | 278976 | [278976-relic-arena.json](./278976-relic-arena.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
+| Relic Hunters Zero: Remix | 129846 | [129846-relic-hunters-zero-remix.json](./129846-relic-hunters-zero-remix.json) |
 | Relic Raiders | 70986 | [70986-relic-raiders.json](./70986-relic-raiders.json) |
 | Relic Runway | 181312 | [181312-relic-runway.json](./181312-relic-runway.json) |
 | Relicfall | 415078 | [415078-relicfall.json](./415078-relicfall.json) |
@@ -1074,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
 | Remnant Frontier: Survival | 373001 | [373001-remnant-frontier-survival.json](./373001-remnant-frontier-survival.json) |
 | Remnant Protocol | 236496 | [236496-remnant-protocol.json](./236496-remnant-protocol.json) |
+| Remnant: From the Ashes - Swamps of Corsus | 132138 | [132138-remnant-from-the-ashes-swamps-of-corsus.json](./132138-remnant-from-the-ashes-swamps-of-corsus.json) |
 | Remnants | 168318 | [168318-remnants.json](./168318-remnants.json) |
 | Remnants of Flesh | 322608 | [322608-remnants-of-flesh.json](./322608-remnants-of-flesh.json) |
 | Remnants of Naezith | 29520 | [29520-remnants-of-naezith.json](./29520-remnants-of-naezith.json) |
@@ -2065,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketsRocketsRockets | 36342 | [36342-rocketsrocketsrockets.json](./36342-rocketsrocketsrockets.json) |
 | Rockett's New School | 65479 | [65479-rocketts-new-school.json](./65479-rocketts-new-school.json) |
 | Rockin'Space | 178633 | [178633-rockinspace.json](./178633-rockinspace.json) |
+| Rocking Legend | 132357 | [132357-rocking-legend.json](./132357-rocking-legend.json) |
 | Rocking on Heaven's Door | 176479 | [176479-rocking-on-heavens-door.json](./176479-rocking-on-heavens-door.json) |
 | RockinRoll | 78649 | [78649-rockinroll.json](./78649-rockinroll.json) |
 | Rockland VR | 75031 | [75031-rockland-vr.json](./75031-rockland-vr.json) |
