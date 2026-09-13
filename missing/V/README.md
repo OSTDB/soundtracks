@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Little Nightmares | 117295 | [117295-very-little-nightmares.json](./117295-very-little-nightmares.json) |
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
 | VeryVeryHouse | 356637 | [356637-veryveryhouse.json](./356637-veryveryhouse.json) |
+| Vesper | 137046 | [137046-vesper.json](./137046-vesper.json) |
 | Vesper Hotel | 391067 | [391067-vesper-hotel.json](./391067-vesper-hotel.json) |
 | Vesper: Ether Saga | 158673 | [158673-vesper-ether-saga.json](./158673-vesper-ether-saga.json) |
 | Vespera_Hotel | 296105 | [296105-vespera-hotel.json](./296105-vespera-hotel.json) |
