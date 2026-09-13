@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-087: The Stairwell Horror | 324126 | [324126-scp-087-the-stairwell-horror.json](./324126-scp-087-the-stairwell-horror.json) |
 | SCP-479: Shadows of the Mind | 264638 | [264638-scp-479-shadows-of-the-mind.json](./264638-scp-479-shadows-of-the-mind.json) |
 | SCP: A Star Replicator | 320555 | [320555-scp-a-star-replicator.json](./320555-scp-a-star-replicator.json) |
+| SCP: Blackout | 111246 | [111246-scp-blackout.json](./111246-scp-blackout.json) |
 | SCP: Containment Breach Remastered | 210866 | [210866-scp-containment-breach-remastered.json](./210866-scp-containment-breach-remastered.json) |
 | SCP: Cross Containment | 141786 | [141786-scp-cross-containment.json](./141786-scp-cross-containment.json) |
 | SCP: Derelict - SciFi First Person Shooter | 111737 | [111737-scp-derelict-scifi-first-person-shooter.json](./111737-scp-derelict-scifi-first-person-shooter.json) |
@@ -2686,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skill Legends Royale | 316603 | [316603-skill-legends-royale.json](./316603-skill-legends-royale.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
+| Skin Deep | 111061 | [111061-skin-deep.json](./111061-skin-deep.json) |
 | Skincrawlers | 230292 | [230292-skincrawlers.json](./230292-skincrawlers.json) |
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
 | Skinny Girls | 259023 | [259023-skinny-girls.json](./259023-skinny-girls.json) |
@@ -2849,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap That | 311263 | [311263-slap-that.json](./311263-slap-that.json) |
 | Slap-Shot! Hockey | 95424 | [95424-slap-shot-hockey.json](./95424-slap-shot-hockey.json) |
 | SlapGains | 413671 | [413671-slapgains.json](./413671-slapgains.json) |
+| Slappy Ass | 111121 | [111121-slappy-ass.json](./111121-slappy-ass.json) |
 | Slapstick Bosses | 349861 | [349861-slapstick-bosses.json](./349861-slapstick-bosses.json) |
 | Slash & Roll | 186299 | [186299-slash-and-roll.json](./186299-slash-and-roll.json) |
 | Slash and Fuck | 82893 | [82893-slash-and-fuck.json](./82893-slash-and-fuck.json) |
@@ -5147,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squish Machine | 113635 | [113635-squish-machine.json](./113635-squish-machine.json) |
 | Squish Run | 251204 | [251204-squish-run.json](./251204-squish-run.json) |
 | Squish the Zombies | 257367 | [257367-squish-the-zombies.json](./257367-squish-the-zombies.json) |
+| Squishies | 111451 | [111451-squishies.json](./111451-squishies.json) |
 | Squishy the Suicidal Pig | 9874 | [9874-squishy-the-suicidal-pig.json](./9874-squishy-the-suicidal-pig.json) |
 | Squonker 3 | 260663 | [260663-squonker-3.json](./260663-squonker-3.json) |
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
@@ -5826,6 +5830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StellarFish | 349312 | [349312-stellarfish.json](./349312-stellarfish.json) |
 | Stellario | 265150 | [265150-stellario.json](./265150-stellario.json) |
 | Stellaris: Aquatics Species Pack | 218168 | [218168-stellaris-aquatics-species-pack.json](./218168-stellaris-aquatics-species-pack.json) |
+| Stellaris: Console Edition | 111150 | [111150-stellaris-console-edition.json](./111150-stellaris-console-edition.json) |
 | Stellaris: Distant Stars | 114427 | [114427-stellaris-distant-stars.json](./114427-stellaris-distant-stars.json) |
 | Stellaris: Humanoids | 114426 | [114426-stellaris-humanoids.json](./114426-stellaris-humanoids.json) |
 | Stellaris: MegaCorp | 111331 | [111331-stellaris-megacorp.json](./111331-stellaris-megacorp.json) |
@@ -5916,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
 | Stig | 295541 | [295541-stig.json](./295541-stig.json) |
+| Stikir | 110941 | [110941-stikir.json](./110941-stikir.json) |
 | Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
 | Still Dark at Dawn | 111028 | [111028-still-dark-at-dawn.json](./111028-still-dark-at-dawn.json) |
 | Still Heroes | 197963 | [197963-still-heroes.json](./197963-still-heroes.json) |
@@ -6963,6 +6969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kobushi de Naguru Chan | 218123 | [218123-super-kobushi-de-naguru-chan.json](./218123-super-kobushi-de-naguru-chan.json) |
 | Super Kyuukyoku Harikiri Stadium 2 | 37815 | [37815-super-kyuukyoku-harikiri-stadium-2.json](./37815-super-kyuukyoku-harikiri-stadium-2.json) |
 | Super Laura Up | 276163 | [276163-super-laura-up.json](./276163-super-laura-up.json) |
+| Super Ledgehop: Double Laser | 110857 | [110857-super-ledgehop-double-laser.json](./110857-super-ledgehop-double-laser.json) |
 | Super Lee World | 120950 | [120950-super-lee-world.json](./120950-super-lee-world.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Lode Runner | 41320 | [41320-super-lode-runner.json](./41320-super-lode-runner.json) |
