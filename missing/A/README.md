@@ -267,7 +267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acquaria | 132868 | [132868-acquaria.json](./132868-acquaria.json) |
 | Acquisition War | 148502 | [148502-acquisition-war.json](./148502-acquisition-war.json) |
 | Acrobat Star Show | 108440 | [108440-acrobat-star-show.json](./108440-acrobat-star-show.json) |
-| Acrophile | 221403 | [221403-acrophile.json](./221403-acrophile.json) |
 | Acropolis: The Archaic Age | 111635 | [111635-acropolis-the-archaic-age.json](./111635-acropolis-the-archaic-age.json) |
 | Across | 30823 | [30823-across.json](./30823-across.json) |
 | Across Crime | 413637 | [413637-across-crime.json](./413637-across-crime.json) |
