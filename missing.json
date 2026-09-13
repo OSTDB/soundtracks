@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T07:19:11.484Z",
-  "total_missing": 65131,
+  "generated_at": "2026-09-13T07:21:29.477Z",
+  "total_missing": 65130,
   "games": [
     {
       "igdb_id": 306086,
@@ -3471,11 +3471,6 @@
       "igdb_id": 110387,
       "game_name": "Achievement Dummy",
       "file": "missing/A/110387-achievement-dummy.json"
-    },
-    {
-      "igdb_id": 307333,
-      "game_name": "Achievement Hunter: Begins",
-      "file": "missing/A/307333-achievement-hunter-begins.json"
     },
     {
       "igdb_id": 102133,
