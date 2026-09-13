@@ -3401,6 +3401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Plexus | 40754 | [40754-solar-plexus.json](./40754-solar-plexus.json) |
 | Solar Purge | 109698 | [109698-solar-purge.json](./109698-solar-purge.json) |
 | Solar Rogue | 133421 | [133421-solar-rogue.json](./133421-solar-rogue.json) |
+| Solar Struggle | 17984 | [17984-solar-struggle.json](./17984-solar-struggle.json) |
 | Solar Survivors | 238766 | [238766-solar-survivors.json](./238766-solar-survivors.json) |
 | Solar Sweets | 311244 | [311244-solar-sweets.json](./311244-solar-sweets.json) |
 | Solar System Conflict | 35768 | [35768-solar-system-conflict.json](./35768-solar-system-conflict.json) |
@@ -4472,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Disk Survivor | 259580 | [259580-spell-disk-survivor.json](./259580-spell-disk-survivor.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
 | Spell Spiral | 321343 | [321343-spell-spiral.json](./321343-spell-spiral.json) |
+| Spellbind | 18183 | [18183-spellbind.json](./18183-spellbind.json) |
 | Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
 | Spellbinder: The Nexus Conflict | 62208 | [62208-spellbinder-the-nexus-conflict.json](./62208-spellbinder-the-nexus-conflict.json) |
 | SpellBlast | 58837 | [58837-spellblast.json](./58837-spellblast.json) |
@@ -6514,6 +6516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Friends Party | 117779 | [117779-super-friends-party.json](./117779-super-friends-party.json) |
 | Super Frog's Quest | 108410 | [108410-super-frogs-quest.json](./108410-super-frogs-quest.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
+| Super Galaxy Squadron EX | 17991 | [17991-super-galaxy-squadron-ex.json](./17991-super-galaxy-squadron-ex.json) |
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
 | Super Gerball | 89179 | [89179-super-gerball.json](./89179-super-gerball.json) |
 | Super Gerry | 113641 | [113641-super-gerry.json](./113641-super-gerry.json) |
