@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T11:04:09.643Z",
-  "total_missing": 65559,
+  "generated_at": "2026-09-13T11:11:31.791Z",
+  "total_missing": 65558,
   "games": [
     {
       "igdb_id": 306086,
@@ -3586,11 +3586,6 @@
       "igdb_id": 259022,
       "game_name": "Across Kiloparsecs",
       "file": "missing/A/259022-across-kiloparsecs.json"
-    },
-    {
-      "igdb_id": 216780,
-      "game_name": "Across the Galaxy: Infinite War",
-      "file": "missing/A/216780-across-the-galaxy-infinite-war.json"
     },
     {
       "igdb_id": 357777,
