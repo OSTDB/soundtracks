@@ -1806,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Fall | 87172 | [87172-fluffy-fall.json](./87172-fluffy-fall.json) |
 | Fluffy Friends | 57040 | [57040-fluffy-friends.json](./57040-fluffy-friends.json) |
 | Fluffy Gore | 150156 | [150156-fluffy-gore.json](./150156-fluffy-gore.json) |
+| Fluffy Horde | 107385 | [107385-fluffy-horde.json](./107385-fluffy-horde.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
 | Fluffy Smash | 219791 | [219791-fluffy-smash.json](./219791-fluffy-smash.json) |
 | Fluffy's Adventure | 380419 | [380419-fluffys-adventure.json](./380419-fluffys-adventure.json) |
