@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellitito | 340770 | [340770-jellitito.json](./340770-jellitito.json) |
 | Jelly Boy | 365693 | [365693-jelly-boy.json](./365693-jelly-boy.json) |
 | Jelly Boy 2 | 38364 | [38364-jelly-boy-2.json](./38364-jelly-boy-2.json) |
+| Jelly Defense | 22206 | [22206-jelly-defense.json](./22206-jelly-defense.json) |
 | Jelly Express | 199592 | [199592-jelly-express.json](./199592-jelly-express.json) |
 | Jelly Fruits Adventure: Magic Match 3 Puzzle | 262099 | [262099-jelly-fruits-adventure-magic-match-3-puzzle.json](./262099-jelly-fruits-adventure-magic-match-3-puzzle.json) |
 | Jelly God | 221721 | [221721-jelly-god.json](./221721-jelly-god.json) |
@@ -664,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Sky-High Collection | 334097 | [334097-jump-sky-high-collection.json](./334097-jump-sky-high-collection.json) |
 | Jump Start Crazy Karts | 50638 | [50638-jump-start-crazy-karts.json](./50638-jump-start-crazy-karts.json) |
 | Jump to Die!! | 29758 | [29758-jump-to-die.json](./29758-jump-to-die.json) |
+| Jump to Win | 22367 | [22367-jump-to-win.json](./22367-jump-to-win.json) |
 | Jump To Win! | 303223 | [303223-jump-to-win.json](./303223-jump-to-win.json) |
 | Jump Truck | 328238 | [328238-jump-truck.json](./328238-jump-truck.json) |
 | Jump Up! Tiny Spaceman | 200121 | [200121-jump-up-tiny-spaceman.json](./200121-jump-up-tiny-spaceman.json) |
