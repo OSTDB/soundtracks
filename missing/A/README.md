@@ -292,7 +292,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
-| ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
 | Active Color | 241354 | [241354-active-color.json](./241354-active-color.json) |
 | Active DBG: Brave's Rage | 233008 | [233008-active-dbg-braves-rage.json](./233008-active-dbg-braves-rage.json) |
