@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T15:21:31.850Z",
-  "total_missing": 66281,
+  "generated_at": "2026-09-13T15:31:44.803Z",
+  "total_missing": 66284,
   "games": [
     {
       "igdb_id": 306086,
@@ -3731,11 +3731,6 @@
       "igdb_id": 107931,
       "game_name": "Actionpaint VR",
       "file": "missing/A/107931-actionpaint-vr.json"
-    },
-    {
-      "igdb_id": 241354,
-      "game_name": "Active Color",
-      "file": "missing/A/241354-active-color.json"
     },
     {
       "igdb_id": 233008,
@@ -119498,6 +119493,11 @@
       "file": "missing/H/47308-hearts-of-iron-iv-hero-edition.json"
     },
     {
+      "igdb_id": 115063,
+      "game_name": "Hearts of Iron IV: Man the Guns",
+      "file": "missing/H/115063-hearts-of-iron-iv-man-the-guns.json"
+    },
+    {
       "igdb_id": 53182,
       "game_name": "Hearts of Iron IV: Together for Victory",
       "file": "missing/H/53182-hearts-of-iron-iv-together-for-victory.json"
@@ -134426,6 +134426,11 @@
       "igdb_id": 184592,
       "game_name": "Interrogation 091",
       "file": "missing/I/184592-interrogation-091.json"
+    },
+    {
+      "igdb_id": 115118,
+      "game_name": "Interrogation: You Will Be Deceived",
+      "file": "missing/I/115118-interrogation-you-will-be-deceived.json"
     },
     {
       "igdb_id": 299751,
@@ -152281,6 +152286,11 @@
       "igdb_id": 253917,
       "game_name": "Lidar Survival",
       "file": "missing/L/253917-lidar-survival.json"
+    },
+    {
+      "igdb_id": 115202,
+      "game_name": "LiEat: The Lie-Eating Dragon & the Vermilion Vampire",
+      "file": "missing/L/115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json"
     },
     {
       "igdb_id": 126021,
@@ -220291,6 +220301,11 @@
       "igdb_id": 11719,
       "game_name": "Rebel Galaxy",
       "file": "missing/R/11719-rebel-galaxy.json"
+    },
+    {
+      "igdb_id": 115206,
+      "game_name": "Rebel Inc.",
+      "file": "missing/R/115206-rebel-inc.json"
     },
     {
       "igdb_id": 262644,
