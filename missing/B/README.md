@@ -1912,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Code | 55840 | [55840-black-code.json](./55840-black-code.json) |
 | Black Command | 107221 | [107221-black-command.json](./107221-black-command.json) |
 | Black Cycle | 226194 | [226194-black-cycle.json](./226194-black-cycle.json) |
+| Black Desert Mobile | 54701 | [54701-black-desert-mobile.json](./54701-black-desert-mobile.json) |
 | Black Desert: Traveler Edition | 150142 | [150142-black-desert-traveler-edition.json](./150142-black-desert-traveler-edition.json) |
 | Black Diamond | 275309 | [275309-black-diamond.json](./275309-black-diamond.json) |
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
@@ -2077,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasted GutZ | 391619 | [391619-blasted-gutz.json](./391619-blasted-gutz.json) |
 | Blasten!! | 161408 | [161408-blasten.json](./161408-blasten.json) |
 | Blaster Master Zero II | 116416 | [116416-blaster-master-zero-ii.json](./116416-blaster-master-zero-ii.json) |
+| Blaster Master: Enemy Below | 49840 | [49840-blaster-master-enemy-below.json](./49840-blaster-master-enemy-below.json) |
 | Blaster Simulator | 9387 | [9387-blaster-simulator.json](./9387-blaster-simulator.json) |
 | Blaster Squad | 132215 | [132215-blaster-squad.json](./132215-blaster-squad.json) |
 | Blaster! | 26483 | [26483-blaster.json](./26483-blaster.json) |
