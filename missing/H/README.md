@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Time III | 310923 | [310923-hard-time-iii.json](./310923-hard-time-iii.json) |
 | Hard Times at Sequoia State Park | 192388 | [192388-hard-times-at-sequoia-state-park.json](./192388-hard-times-at-sequoia-state-park.json) |
 | Hard West | 7675 | [7675-hard-west.json](./7675-hard-west.json) |
+| Hard West 2 | 116014 | [116014-hard-west-2.json](./116014-hard-west-2.json) |
 | Hard West: Complete Edition | 53173 | [53173-hard-west-complete-edition.json](./53173-hard-west-complete-edition.json) |
 | Hard West: Ultimate Edition | 166685 | [166685-hard-west-ultimate-edition.json](./166685-hard-west-ultimate-edition.json) |
 | Hard Winter | 25769 | [25769-hard-winter.json](./25769-hard-winter.json) |
@@ -902,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbender | 84176 | [84176-hellbender.json](./84176-hellbender.json) |
 | Hellblusser | 162410 | [162410-hellblusser.json](./162410-hellblusser.json) |
 | Hellbound | 139990 | [139990-hellbound.json](./139990-hellbound.json) |
+| Hellcard | 127193 | [127193-hellcard.json](./127193-hellcard.json) |
 | Helldivers | 14523 | [14523-helldivers.json](./14523-helldivers.json) |
 | Helldivers II: Super Citizen Edition | 267925 | [267925-helldivers-ii-super-citizen-edition.json](./267925-helldivers-ii-super-citizen-edition.json) |
 | Helldivers: A New Hell | 267932 | [267932-helldivers-a-new-hell.json](./267932-helldivers-a-new-hell.json) |
@@ -1741,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoard: Dynamite Roll! | 171075 | [171075-hoard-dynamite-roll.json](./171075-hoard-dynamite-roll.json) |
 | Hoard: Flame-Broiled Sandwich | 171076 | [171076-hoard-flame-broiled-sandwich.json](./171076-hoard-flame-broiled-sandwich.json) |
 | Hoards of Glory | 156688 | [156688-hoards-of-glory.json](./156688-hoards-of-glory.json) |
+| Hob: The Definitive Edition | 116681 | [116681-hob-the-definitive-edition.json](./116681-hob-the-definitive-edition.json) |
 | Hobble | 192362 | [192362-hobble.json](./192362-hobble.json) |
 | Hobby Module | 74413 | [74413-hobby-module.json](./74413-hobby-module.json) |
 | Hobgoblins Against Dwarfs | 296915 | [296915-hobgoblins-against-dwarfs.json](./296915-hobgoblins-against-dwarfs.json) |
