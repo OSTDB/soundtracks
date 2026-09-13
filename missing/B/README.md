@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlemon League | 100933 | [100933-battlemon-league.json](./100933-battlemon-league.json) |
 | BattleMore | 111689 | [111689-battlemore.json](./111689-battlemore.json) |
 | Battlenauts | 323727 | [323727-battlenauts.json](./323727-battlenauts.json) |
+| Battlepaths | 9779 | [9779-battlepaths.json](./9779-battlepaths.json) |
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
 | Battlepillars: Gold Edition | 36411 | [36411-battlepillars-gold-edition.json](./36411-battlepillars-gold-edition.json) |
 | Battler | 290926 | [290926-battler.json](./290926-battler.json) |
@@ -2419,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood: One Unit Whole Blood | 36299 | [36299-blood-one-unit-whole-blood.json](./36299-blood-one-unit-whole-blood.json) |
 | Blood=Bullets | 320565 | [320565-blood-bullets.json](./320565-blood-bullets.json) |
 | Bloodbath | 183067 | [183067-bloodbath.json](./183067-bloodbath.json) |
+| Bloodbath | 9416 | [9416-bloodbath.json](./9416-bloodbath.json) |
 | Bloodbath Kavkaz | 26897 | [26897-bloodbath-kavkaz.json](./26897-bloodbath-kavkaz.json) |
 | Bloodbaths Terrible Vacation | 274748 | [274748-bloodbaths-terrible-vacation.json](./274748-bloodbaths-terrible-vacation.json) |
 | BloodBlast VR | 134648 | [134648-bloodblast-vr.json](./134648-bloodblast-vr.json) |
@@ -2539,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue's Clues: Preschool | 23776 | [23776-blues-clues-preschool.json](./23776-blues-clues-preschool.json) |
 | Blue's Journey | 39653 | [39653-blues-journey.json](./39653-blues-journey.json) |
 | BlueAge | 312890 | [312890-blueage.json](./312890-blueage.json) |
+| Blueberry Garden | 9983 | [9983-blueberry-garden.json](./9983-blueberry-garden.json) |
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
 | BlueGlow | 116283 | [116283-blueglow.json](./116283-blueglow.json) |
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
