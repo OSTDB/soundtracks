@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-1 Chequered Flag | 59977 | [59977-f-1-chequered-flag.json](./59977-f-1-chequered-flag.json) |
 | F-1 Grand Prix Part II | 38335 | [38335-f-1-grand-prix-part-ii.json](./38335-f-1-grand-prix-part-ii.json) |
 | F-1 Grand Prix Part III | 38362 | [38362-f-1-grand-prix-part-iii.json](./38362-f-1-grand-prix-part-iii.json) |
+| F-16 Combat Pilot | 12085 | [12085-f-16-combat-pilot.json](./12085-f-16-combat-pilot.json) |
 | F-16 Multirole Fighter | 72715 | [72715-f-16-multirole-fighter.json](./72715-f-16-multirole-fighter.json) |
 | F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
 | F-18 Thunder Strike | 49931 | [49931-f-18-thunder-strike.json](./49931-f-18-thunder-strike.json) |
@@ -37,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.I.D.O. | 196787 | [196787-f-i-d-o.json](./196787-f-i-d-o.json) |
 | F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
+| F/A-18 Interceptor | 12081 | [12081-f-a-18-interceptor.json](./12081-f-a-18-interceptor.json) |
 | F/A-18E Super Hornet: The Albanian Campaign | 84201 | [84201-f-a-18e-super-hornet-the-albanian-campaign.json](./84201-f-a-18e-super-hornet-the-albanian-campaign.json) |
 | F1 2000 | 45305 | [45305-f1-2000.json](./45305-f1-2000.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
@@ -61,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Racing Championship | 3495 | [3495-f1-racing-championship.json](./3495-f1-racing-championship.json) |
 | F1 Racing Championship 2 | 137653 | [137653-f1-racing-championship-2.json](./137653-f1-racing-championship-2.json) |
 | F1 ROC II: Race of Champions | 42572 | [42572-f1-roc-ii-race-of-champions.json](./42572-f1-roc-ii-race-of-champions.json) |
+| F1: World Championship Edition | 12083 | [12083-f1-world-championship-edition.json](./12083-f1-world-championship-edition.json) |
 | F15 Flight Simulator VR | 107129 | [107129-f15-flight-simulator-vr.json](./107129-f15-flight-simulator-vr.json) |
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
 | F22 Air Dominance Fighter: Red Sea Operations | 59926 | [59926-f22-air-dominance-fighter-red-sea-operations.json](./59926-f22-air-dominance-fighter-red-sea-operations.json) |
@@ -576,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Complete Edition | 218500 | [218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json](./218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
+| Fast Break | 12091 | [12091-fast-break.json](./12091-fast-break.json) |
 | Fast Cars Small Islands | 284912 | [284912-fast-cars-small-islands.json](./284912-fast-cars-small-islands.json) |
 | Fast Euro Train Driver Sim | 213387 | [213387-fast-euro-train-driver-sim.json](./213387-fast-euro-train-driver-sim.json) |
 | Fast Food | 18287 | [18287-fast-food.json](./18287-fast-food.json) |
@@ -764,10 +768,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fern Flower | 200694 | [200694-fern-flower.json](./200694-fern-flower.json) |
 | Fern Light | 301247 | [301247-fern-light.json](./301247-fern-light.json) |
 | Fernageddon | 258196 | [258196-fernageddon.json](./258196-fernageddon.json) |
+| Fernandez Must Die | 12092 | [12092-fernandez-must-die.json](./12092-fernandez-must-die.json) |
 | Fernbus Simulator: Denmark | 254769 | [254769-fernbus-simulator-denmark.json](./254769-fernbus-simulator-denmark.json) |
 | Fernocity | 272014 | [272014-fernocity.json](./272014-fernocity.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259269 | [259269-ferrari-challenge-trofeo-pirelli.json](./259269-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259270 | [259270-ferrari-challenge-trofeo-pirelli.json](./259270-ferrari-challenge-trofeo-pirelli.json) |
+| Ferrari Formula One | 12093 | [12093-ferrari-formula-one.json](./12093-ferrari-formula-one.json) |
 | Ferrari GT: Evolution | 66696 | [66696-ferrari-gt-evolution.json](./66696-ferrari-gt-evolution.json) |
 | Ferrari Virtual Race | 129811 | [129811-ferrari-virtual-race.json](./129811-ferrari-virtual-race.json) |
 | Ferret Monogatari: Watashi no Okini Iri | 65512 | [65512-ferret-monogatari-watashi-no-okini-iri.json](./65512-ferret-monogatari-watashi-no-okini-iri.json) |
@@ -829,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiend Hunter | 42000 | [42000-fiend-hunter.json](./42000-fiend-hunter.json) |
 | Fiend Hunter | 55897 | [55897-fiend-hunter.json](./55897-fiend-hunter.json) |
 | Fiend Legion | 110393 | [110393-fiend-legion.json](./110393-fiend-legion.json) |
+| Fiendish Freddy's Big Top O' Fun | 12095 | [12095-fiendish-freddys-big-top-o-fun.json](./12095-fiendish-freddys-big-top-o-fun.json) |
 | Fiends of Imprisonment | 34265 | [34265-fiends-of-imprisonment.json](./34265-fiends-of-imprisonment.json) |
 | Fierce Allies | 237667 | [237667-fierce-allies.json](./237667-fierce-allies.json) |
 | Fierce Dragon Godzilla: Metropolis Destruction!! | 75885 | [75885-fierce-dragon-godzilla-metropolis-destruction.json](./75885-fierce-dragon-godzilla-metropolis-destruction.json) |
@@ -903,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter's History 2 | 58791 | [58791-fighters-history-2.json](./58791-fighters-history-2.json) |
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
 | Fighters' Glory | 129700 | [129700-fighters-glory.json](./129700-fighters-glory.json) |
+| Fightin' Spirit | 12096 | [12096-fightin-spirit.json](./12096-fightin-spirit.json) |
 | Fighting Box | 68657 | [68657-fighting-box.json](./68657-fighting-box.json) |
 | Fighting Eyes | 45307 | [45307-fighting-eyes.json](./45307-fighting-eyes.json) |
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
@@ -915,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Layer | 39552 | [39552-fighting-layer.json](./39552-fighting-layer.json) |
 | Fighting of School | 306953 | [306953-fighting-of-school.json](./306953-fighting-of-school.json) |
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
+| Fighting Soccer | 12097 | [12097-fighting-soccer.json](./12097-fighting-soccer.json) |
 | Fighting Steel: World War II Surface Combat 1939-1942 | 78006 | [78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json](./78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json) |
 | FightingChicken | 309675 | [309675-fightingchicken.json](./309675-fightingchicken.json) |
 | Fights in Tight Spaces: Weapon of Choice | 261775 | [261775-fights-in-tight-spaces-weapon-of-choice.json](./261775-fights-in-tight-spaces-weapon-of-choice.json) |
@@ -946,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
 | Final Blaster | 37713 | [37713-final-blaster.json](./37713-final-blaster.json) |
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
+| Final Blow | 12098 | [12098-final-blow.json](./12098-final-blow.json) |
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
 | Final Cut: Death on the Silver Screen | 98383 | [98383-final-cut-death-on-the-silver-screen.json](./98383-final-cut-death-on-the-silver-screen.json) |
 | Final Cut: Encore | 98381 | [98381-final-cut-encore.json](./98381-final-cut-encore.json) |
@@ -1101,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FINSummerVR | 104059 | [104059-finsummervr.json](./104059-finsummervr.json) |
 | Fio Fizhook | 296365 | [296365-fio-fizhook.json](./296365-fio-fizhook.json) |
 | Fira | 173315 | [173315-fira.json](./173315-fira.json) |
+| Fire & Ice: The Daring Adventures of Cool Coyote | 12099 | [12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json](./12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json) |
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
 | Fire All Weapons | 257973 | [257973-fire-all-weapons.json](./257973-fire-all-weapons.json) |
 | Fire and Ashes | 339624 | [339624-fire-and-ashes.json](./339624-fire-and-ashes.json) |
@@ -1267,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Tank Live | 230849 | [230849-fish-tank-live.json](./230849-fish-tank-live.json) |
 | Fish Tank Simulator | 383958 | [383958-fish-tank-simulator.json](./383958-fish-tank-simulator.json) |
 | Fish Upon a Star | 112287 | [112287-fish-upon-a-star.json](./112287-fish-upon-a-star.json) |
+| Fish! | 12101 | [12101-fish.json](./12101-fish.json) |
 | Fishards | 152852 | [152852-fishards.json](./152852-fishards.json) |
 | Fishbowl | 68629 | [68629-fishbowl.json](./68629-fishbowl.json) |
 | Fishdom: Deep Dive | 197359 | [197359-fishdom-deep-dive.json](./197359-fishdom-deep-dive.json) |
@@ -1552,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight of a Dragon | 270406 | [270406-flight-of-a-dragon.json](./270406-flight-of-a-dragon.json) |
 | Flight of the Amazon Queen | 8789 | [8789-flight-of-the-amazon-queen.json](./8789-flight-of-the-amazon-queen.json) |
 | Flight of the Fireflies | 22339 | [22339-flight-of-the-fireflies.json](./22339-flight-of-the-fireflies.json) |
+| Flight of the Intruder | 12102 | [12102-flight-of-the-intruder.json](./12102-flight-of-the-intruder.json) |
 | Flight Path 737 | 12952 | [12952-flight-path-737.json](./12952-flight-path-737.json) |
 | Flight Rising | 123023 | [123023-flight-rising.json](./123023-flight-rising.json) |
 | Flight Sims Air Cavalry Pilots | 175336 | [175336-flight-sims-air-cavalry-pilots.json](./175336-flight-sims-air-cavalry-pilots.json) |
@@ -1629,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floatopia | 314274 | [314274-floatopia.json](./314274-floatopia.json) |
 | Floaty Fighters | 123041 | [123041-floaty-fighters.json](./123041-floaty-fighters.json) |
 | FloCity | 244260 | [244260-flocity.json](./244260-flocity.json) |
+| Flood | 12104 | [12104-flood.json](./12104-flood.json) |
 | Flood | 320187 | [320187-flood.json](./320187-flood.json) |
 | Flood Descendance | 355024 | [355024-flood-descendance.json](./355024-flood-descendance.json) |
 | Flood Escape 64 | 243112 | [243112-flood-escape-64.json](./243112-flood-escape-64.json) |
@@ -1689,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowers Blooming at the End of Summer | 129727 | [129727-flowers-blooming-at-the-end-of-summer.json](./129727-flowers-blooming-at-the-end-of-summer.json) |
 | Flowers in Bloom | 146906 | [146906-flowers-in-bloom.json](./146906-flowers-in-bloom.json) |
 | Flowers of Asphodel | 300379 | [300379-flowers-of-asphodel.json](./300379-flowers-of-asphodel.json) |
+| Flowers of Crystal | 12105 | [12105-flowers-of-crystal.json](./12105-flowers-of-crystal.json) |
 | Flowers of Starlight | 264345 | [264345-flowers-of-starlight.json](./264345-flowers-of-starlight.json) |
 | Flowers: Kokoro no Hana | 308249 | [308249-flowers-kokoro-no-hana.json](./308249-flowers-kokoro-no-hana.json) |
 | Flowers: Le Volume sur Printemps | 33272 | [33272-flowers-le-volume-sur-printemps.json](./33272-flowers-le-volume-sur-printemps.json) |
@@ -2060,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Legends: Season Early 2010 + Turbo Pack | 403583 | [403583-formula-legends-season-early-2010-turbo-pack.json](./403583-formula-legends-season-early-2010-turbo-pack.json) |
 | Formula Legends: Tech Power Pack | 403564 | [403564-formula-legends-tech-power-pack.json](./403564-formula-legends-tech-power-pack.json) |
 | Formula Legends: Turbo Power Pack | 403566 | [403566-formula-legends-turbo-power-pack.json](./403566-formula-legends-turbo-power-pack.json) |
+| Formula One | 12082 | [12082-formula-one.json](./12082-formula-one.json) |
 | Formula One | 250341 | [250341-formula-one.json](./250341-formula-one.json) |
 | Formula One 2002 | 8300 | [8300-formula-one-2002.json](./8300-formula-one-2002.json) |
 | Formula One 2003 | 8301 | [8301-formula-one-2003.json](./8301-formula-one-2003.json) |
@@ -2538,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Defense 2 | 234935 | [234935-frontline-defense-2.json](./234935-frontline-defense-2.json) |
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
+| Frost Byte | 12108 | [12108-frost-byte.json](./12108-frost-byte.json) |
 | Frost Dragon in Adventure Land | 188033 | [188033-frost-dragon-in-adventure-land.json](./188033-frost-dragon-in-adventure-land.json) |
 | Frost Dragon in Wonder Land | 199633 | [199633-frost-dragon-in-wonder-land.json](./199633-frost-dragon-in-wonder-land.json) |
 | Frost Survivors: Text Game | 318197 | [318197-frost-survivors-text-game.json](./318197-frost-survivors-text-game.json) |
@@ -2627,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Belly Breakout | 402912 | [402912-full-belly-breakout.json](./402912-full-belly-breakout.json) |
 | Full Bloom | 275561 | [275561-full-bloom.json](./275561-full-bloom.json) |
 | Full Bokko Heroes X | 59972 | [59972-full-bokko-heroes-x.json](./59972-full-bokko-heroes-x.json) |
+| Full Contact | 12109 | [12109-full-contact.json](./12109-full-contact.json) |
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
 | Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
 | Full House Kiss | 97370 | [97370-full-house-kiss.json](./97370-full-house-kiss.json) |
@@ -2634,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Kiss SS | 155060 | [155060-full-kiss-ss.json](./155060-full-kiss-ss.json) |
 | Full Kiss SS: Complete Limited Edition | 155066 | [155066-full-kiss-ss-complete-limited-edition.json](./155066-full-kiss-ss-complete-limited-edition.json) |
 | Full Metal Coffin | 410265 | [410265-full-metal-coffin.json](./410265-full-metal-coffin.json) |
+| Full Metal Planet | 12110 | [12110-full-metal-planet.json](./12110-full-metal-planet.json) |
 | Full Metal Sergeant | 189108 | [189108-full-metal-sergeant.json](./189108-full-metal-sergeant.json) |
 | Full Moon Fishing | 383396 | [383396-full-moon-fishing.json](./383396-full-moon-fishing.json) |
 | Full Moon Guildhouse Simulator | 366251 | [366251-full-moon-guildhouse-simulator.json](./366251-full-moon-guildhouse-simulator.json) |
