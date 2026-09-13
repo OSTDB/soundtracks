@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T17:21:38.170Z",
-  "total_missing": 66588,
+  "generated_at": "2026-09-13T17:31:34.789Z",
+  "total_missing": 66601,
   "games": [
     {
       "igdb_id": 306086,
@@ -3801,11 +3801,6 @@
       "igdb_id": 83493,
       "game_name": "Ada Towers",
       "file": "missing/A/83493-ada-towers.json"
-    },
-    {
-      "igdb_id": 76623,
-      "game_name": "ADAC: The Simulation",
-      "file": "missing/A/76623-adac-the-simulation.json"
     },
     {
       "igdb_id": 240470,
@@ -43543,6 +43538,11 @@
       "file": "missing/C/356074-castle-cat-3.json"
     },
     {
+      "igdb_id": 38890,
+      "game_name": "Castle Clash",
+      "file": "missing/C/38890-castle-clash.json"
+    },
+    {
       "igdb_id": 105908,
       "game_name": "Castle Creeps Battle",
       "file": "missing/C/105908-castle-creeps-battle.json"
@@ -69998,6 +69998,11 @@
       "file": "missing/D/285978-die-erdnussbutter.json"
     },
     {
+      "igdb_id": 40868,
+      "game_name": "Die for Valhalla!",
+      "file": "missing/D/40868-die-for-valhalla.json"
+    },
+    {
       "igdb_id": 122357,
       "game_name": "Die for Valhalla!: Special Edition",
       "file": "missing/D/122357-die-for-valhalla-special-edition.json"
@@ -94453,6 +94458,11 @@
       "file": "missing/F/102159-fighting-fantasy-classics.json"
     },
     {
+      "igdb_id": 40557,
+      "game_name": "Fighting Fantasy Legends",
+      "file": "missing/F/40557-fighting-fantasy-legends.json"
+    },
+    {
       "igdb_id": 175407,
       "game_name": "Fighting Fantasy: Island of the Lizard King",
       "file": "missing/F/175407-fighting-fantasy-island-of-the-lizard-king.json"
@@ -106238,6 +106248,11 @@
       "file": "missing/G/211210-gangstar-new-york.json"
     },
     {
+      "igdb_id": 38934,
+      "game_name": "Gangstar Vegas",
+      "file": "missing/G/38934-gangstar-vegas.json"
+    },
+    {
       "igdb_id": 152331,
       "game_name": "Gangstar: Miami Vindication",
       "file": "missing/G/152331-gangstar-miami-vindication.json"
@@ -113538,6 +113553,11 @@
       "file": "missing/G/55120-greedy-frog.json"
     },
     {
+      "igdb_id": 40556,
+      "game_name": "Greedy Guns",
+      "file": "missing/G/40556-greedy-guns.json"
+    },
+    {
       "igdb_id": 136459,
       "game_name": "Greedy Maze",
       "file": "missing/G/136459-greedy-maze.json"
@@ -115526,6 +115546,11 @@
       "igdb_id": 353314,
       "game_name": "Gunball: Emperor's Revenge",
       "file": "missing/G/353314-gunball-emperors-revenge.json"
+    },
+    {
+      "igdb_id": 39861,
+      "game_name": "Gunbarich",
+      "file": "missing/G/39861-gunbarich.json"
     },
     {
       "igdb_id": 299163,
@@ -118991,6 +119016,11 @@
       "igdb_id": 35818,
       "game_name": "Hatland Adventures",
       "file": "missing/H/35818-hatland-adventures.json"
+    },
+    {
+      "igdb_id": 40063,
+      "game_name": "Hatris",
+      "file": "missing/H/40063-hatris.json"
     },
     {
       "igdb_id": 159892,
@@ -139481,6 +139511,11 @@
       "igdb_id": 365696,
       "game_name": "Jimmy Connors Tennis",
       "file": "missing/J/365696-jimmy-connors-tennis.json"
+    },
+    {
+      "igdb_id": 40845,
+      "game_name": "Jimmy Connors Tennis",
+      "file": "missing/J/40845-jimmy-connors-tennis.json"
     },
     {
       "igdb_id": 108436,
@@ -175863,6 +175898,11 @@
       "file": "missing/M/297253-monster-never-cry.json"
     },
     {
+      "igdb_id": 37087,
+      "game_name": "Monster of the Deep: Final Fantasy XV",
+      "file": "missing/M/37087-monster-of-the-deep-final-fantasy-xv.json"
+    },
+    {
       "igdb_id": 379334,
       "game_name": "Monster Ops 10",
       "file": "missing/M/379334-monster-ops-10.json"
@@ -180046,6 +180086,11 @@
       "igdb_id": 796,
       "game_name": "MVP Baseball 2005",
       "file": "missing/M/796-mvp-baseball-2005.json"
+    },
+    {
+      "igdb_id": 37424,
+      "game_name": "MX Bikes",
+      "file": "missing/M/37424-mx-bikes.json"
     },
     {
       "igdb_id": 287113,
@@ -192968,6 +193013,11 @@
       "file": "missing/O/70366-omega-run.json"
     },
     {
+      "igdb_id": 39752,
+      "game_name": "Omega Strike",
+      "file": "missing/O/39752-omega-strike.json"
+    },
+    {
       "igdb_id": 260971,
       "game_name": "Omega Strikers: Season 2 - Summer Splash",
       "file": "missing/O/260971-omega-strikers-season-2-summer-splash.json"
@@ -204221,6 +204271,11 @@
       "igdb_id": 188081,
       "game_name": "Pierhead Arcade 2",
       "file": "missing/P/188081-pierhead-arcade-2.json"
+    },
+    {
+      "igdb_id": 39042,
+      "game_name": "Pierre le Chef is... Out to Lunch",
+      "file": "missing/P/39042-pierre-le-chef-is-out-to-lunch.json"
     },
     {
       "igdb_id": 105323,
@@ -302458,6 +302513,11 @@
       "file": "missing/T/29886-tracks-of-triumph-good-old-times.json"
     },
     {
+      "igdb_id": 39748,
+      "game_name": "Tracks: The Train Set Game",
+      "file": "missing/T/39748-tracks-the-train-set-game.json"
+    },
+    {
       "igdb_id": 58241,
       "game_name": "Tracky Train",
       "file": "missing/T/58241-tracky-train.json"
@@ -330996,6 +331056,11 @@
       "igdb_id": 332450,
       "game_name": "Zenomatrix",
       "file": "missing/Z/332450-zenomatrix.json"
+    },
+    {
+      "igdb_id": 38725,
+      "game_name": "Zenonia",
+      "file": "missing/Z/38725-zenonia.json"
     },
     {
       "igdb_id": 38722,
