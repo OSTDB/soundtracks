@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon: Total War - Heroes of the Napoleonic Wars | 82111 | [82111-napoleon-total-war-heroes-of-the-napoleonic-wars.json](./82111-napoleon-total-war-heroes-of-the-napoleonic-wars.json) |
 | Napoleon: Total War - Imperial Eagle Pack | 82110 | [82110-napoleon-total-war-imperial-eagle-pack.json](./82110-napoleon-total-war-imperial-eagle-pack.json) |
 | Napoleon: Total War - The Peninsular Campaign | 82109 | [82109-napoleon-total-war-the-peninsular-campaign.json](./82109-napoleon-total-war-the-peninsular-campaign.json) |
+| Napoleon's Campaigns | 21362 | [21362-napoleons-campaigns.json](./21362-napoleons-campaigns.json) |
 | Narabete Quiz Kotowaza Tsukurou | 251612 | [251612-narabete-quiz-kotowaza-tsukurou.json](./251612-narabete-quiz-kotowaza-tsukurou.json) |
 | Narara Superboard: Hwansang Seoyugi | 145599 | [145599-narara-superboard-hwansang-seoyugi.json](./145599-narara-superboard-hwansang-seoyugi.json) |
 | Narborion by Night | 98479 | [98479-narborion-by-night.json](./98479-narborion-by-night.json) |
