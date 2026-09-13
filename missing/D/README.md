@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave Mirra Freestyle BMX: Maximum Remix | 84166 | [84166-dave-mirra-freestyle-bmx-maximum-remix.json](./84166-dave-mirra-freestyle-bmx-maximum-remix.json) |
 | Dave the Diver | 203722 | [203722-dave-the-diver.json](./203722-dave-the-diver.json) |
 | Dave the Diver: Balatro | 314280 | [314280-dave-the-diver-balatro.json](./314280-dave-the-diver-balatro.json) |
+| Dave the Diver: In the Jungle | 325582 | [325582-dave-the-diver-in-the-jungle.json](./325582-dave-the-diver-in-the-jungle.json) |
 | Dave the Diver: Mxmtoon | 314281 | [314281-dave-the-diver-mxmtoon.json](./314281-dave-the-diver-mxmtoon.json) |
 | Dave the Diver: Potion Craft | 314279 | [314279-dave-the-diver-potion-craft.json](./314279-dave-the-diver-potion-craft.json) |
 | David Douillet Judo | 57609 | [57609-david-douillet-judo.json](./57609-david-douillet-judo.json) |
@@ -2329,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog in the City | 139926 | [139926-dog-in-the-city.json](./139926-dog-in-the-city.json) |
 | Dog Knowse Chapter 1: The Dame | 249790 | [249790-dog-knowse-chapter-1-the-dame.json](./249790-dog-knowse-chapter-1-the-dame.json) |
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
+| Dog Man: Mission Impawsible | 316875 | [316875-dog-man-mission-impawsible.json](./316875-dog-man-mission-impawsible.json) |
 | Dog of Dracula 2: Cyber Monogatari | 228436 | [228436-dog-of-dracula-2-cyber-monogatari.json](./228436-dog-of-dracula-2-cyber-monogatari.json) |
 | Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
 | Dog Trainer | 132797 | [132797-dog-trainer.json](./132797-dog-trainer.json) |
@@ -2515,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Shoot the Puppy | 136454 | [136454-dont-shoot-the-puppy.json](./136454-dont-shoot-the-puppy.json) |
 | Don't Stare | 153936 | [153936-dont-stare.json](./153936-dont-stare.json) |
 | Don't Stop Corocco | 151663 | [151663-dont-stop-corocco.json](./151663-dont-stop-corocco.json) |
+| Don't Stop, Girlypop! | 287870 | [287870-dont-stop-girlypop.json](./287870-dont-stop-girlypop.json) |
 | Don't Tell My Wife | 396197 | [396197-dont-tell-my-wife.json](./396197-dont-tell-my-wife.json) |
 | Don't Touch My Teddy Bear | 62772 | [62772-dont-touch-my-teddy-bear.json](./62772-dont-touch-my-teddy-bear.json) |
 | Don't Touch Red!! | 246970 | [246970-dont-touch-red.json](./246970-dont-touch-red.json) |
