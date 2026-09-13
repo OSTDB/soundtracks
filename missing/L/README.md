@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layers of Fear | 204363 | [204363-layers-of-fear.json](./204363-layers-of-fear.json) |
 | Layers of Fear: Deluxe Edition | 254177 | [254177-layers-of-fear-deluxe-edition.json](./254177-layers-of-fear-deluxe-edition.json) |
 | Layers of Fear: Digital Deluxe | 186875 | [186875-layers-of-fear-digital-deluxe.json](./186875-layers-of-fear-digital-deluxe.json) |
+| Layers of Fear: Inheritance | 20907 | [20907-layers-of-fear-inheritance.json](./20907-layers-of-fear-inheritance.json) |
 | Layers of Fear: Solitude | 125167 | [125167-layers-of-fear-solitude.json](./125167-layers-of-fear-solitude.json) |
 | Layers of the Machine | 119794 | [119794-layers-of-the-machine.json](./119794-layers-of-the-machine.json) |
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
@@ -1178,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquor Store Simulator | 326399 | [326399-liquor-store-simulator.json](./326399-liquor-store-simulator.json) |
 | LIRE | 145018 | [145018-lire.json](./145018-lire.json) |
 | Lisa and the Grimoire | 169413 | [169413-lisa-and-the-grimoire.json](./169413-lisa-and-the-grimoire.json) |
+| Lisa: The First | 26652 | [26652-lisa-the-first.json](./26652-lisa-the-first.json) |
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
 | Lisa: The Painful - Fractured Bonds | 221767 | [221767-lisa-the-painful-fractured-bonds.json](./221767-lisa-the-painful-fractured-bonds.json) |
 | Lisa: The Pointless - Scholar of the Wilbur Sin Edition | 177033 | [177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json](./177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json) |
@@ -1990,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
 | Luminis: Heal Them All | 270133 | [270133-luminis-heal-them-all.json](./270133-luminis-heal-them-all.json) |
+| Lumino City | 8762 | [8762-lumino-city.json](./8762-lumino-city.json) |
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
 | Luminous | 382191 | [382191-luminous.json](./382191-luminous.json) |
 | Luminous Arc 3 | 25100 | [25100-luminous-arc-3.json](./25100-luminous-arc-3.json) |
