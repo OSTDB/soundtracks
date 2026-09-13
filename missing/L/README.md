@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Salvo | 76651 | [76651-last-salvo.json](./76651-last-salvo.json) |
 | Last Sapiens | 216471 | [216471-last-sapiens.json](./216471-last-sapiens.json) |
 | Last Seen Online | 281011 | [281011-last-seen-online.json](./281011-last-seen-online.json) |
+| Last Shelter: Survival | 89754 | [89754-last-shelter-survival.json](./89754-last-shelter-survival.json) |
 | Last Shinobi | 377055 | [377055-last-shinobi.json](./377055-last-shinobi.json) |
 | Last Shooter: Apocalypse | 227266 | [227266-last-shooter-apocalypse.json](./227266-last-shooter-apocalypse.json) |
 | Last Stanza | 105279 | [105279-last-stanza.json](./105279-last-stanza.json) |
@@ -674,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Indiana Jones: The Original Adventures | 189 | [189-lego-indiana-jones-the-original-adventures.json](./189-lego-indiana-jones-the-original-adventures.json) |
 | LEGO Island | 5612 | [5612-lego-island.json](./5612-lego-island.json) |
 | LEGO Island 2: The Brickster's Revenge | 229925 | [229925-lego-island-2-the-bricksters-revenge.json](./229925-lego-island-2-the-bricksters-revenge.json) |
+| LEGO Juniors | 88873 | [88873-lego-juniors.json](./88873-lego-juniors.json) |
 | LEGO Juniors Create & Cruise | 105878 | [105878-lego-juniors-create-and-cruise.json](./105878-lego-juniors-create-and-cruise.json) |
 | LEGO Jurassic World | 9918 | [9918-lego-jurassic-world.json](./9918-lego-jurassic-world.json) |
 | LEGO Lord of the Rings: Elrond Edition | 89924 | [89924-lego-lord-of-the-rings-elrond-edition.json](./89924-lego-lord-of-the-rings-elrond-edition.json) |
