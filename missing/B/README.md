@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batch 17 | 75187 | [75187-batch-17.json](./75187-batch-17.json) |
 | Baten Kaitos Origins | 3796 | [3796-baten-kaitos-origins.json](./3796-baten-kaitos-origins.json) |
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
+| Batla | 36058 | [36058-batla.json](./36058-batla.json) |
 | Batman | 200135 | [200135-batman.json](./200135-batman.json) |
 | Batman & Flash | 326624 | [326624-batman-and-flash.json](./326624-batman-and-flash.json) |
 | Batman Arkham Origins: Blackgate - Deluxe Edition | 21066 | [21066-batman-arkham-origins-blackgate-deluxe-edition.json](./21066-batman-arkham-origins-blackgate-deluxe-edition.json) |
@@ -1988,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackhole on the Road | 269047 | [269047-blackhole-on-the-road.json](./269047-blackhole-on-the-road.json) |
 | Blackhole Simulator | 333385 | [333385-blackhole-simulator.json](./333385-blackhole-simulator.json) |
 | Blackhole: Challenge Vault | 170521 | [170521-blackhole-challenge-vault.json](./170521-blackhole-challenge-vault.json) |
+| Blackhole: Complete Edition | 36764 | [36764-blackhole-complete-edition.json](./36764-blackhole-complete-edition.json) |
 | Blackhole: Testing Laboratory | 170522 | [170522-blackhole-testing-laboratory.json](./170522-blackhole-testing-laboratory.json) |
 | Blackholes Stars | 190219 | [190219-blackholes-stars.json](./190219-blackholes-stars.json) |
 | Blackish House | 271769 | [271769-blackish-house.json](./271769-blackish-house.json) |
@@ -2547,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob the Builder: Fix it Fun! | 49879 | [49879-bob-the-builder-fix-it-fun.json](./49879-bob-the-builder-fix-it-fun.json) |
 | Bob vs the Mob | 57670 | [57670-bob-vs-the-mob.json](./57670-bob-vs-the-mob.json) |
 | Bob Wants to Go Home | 129744 | [129744-bob-wants-to-go-home.json](./129744-bob-wants-to-go-home.json) |
+| Bob Was Hungry | 35905 | [35905-bob-was-hungry.json](./35905-bob-was-hungry.json) |
 | Bob Winner 2 | 25771 | [25771-bob-winner-2.json](./25771-bob-winner-2.json) |
 | Bob: A thousand lives | 209488 | [209488-bob-a-thousand-lives.json](./209488-bob-a-thousand-lives.json) |
 | Bob's Bad Day | 14329 | [14329-bobs-bad-day.json](./14329-bobs-bad-day.json) |
@@ -2901,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots Crusher Arena | 203895 | [203895-bots-crusher-arena.json](./203895-bots-crusher-arena.json) |
 | Bots Rush | 112350 | [112350-bots-rush.json](./112350-bots-rush.json) |
 | Bots!! | 175926 | [175926-bots.json](./175926-bots.json) |
+| Bottle | 36488 | [36488-bottle.json](./36488-bottle.json) |
 | Bottle Can Float | 272826 | [272826-bottle-can-float.json](./272826-bottle-can-float.json) |
 | Bottle Flip Challenge VR | 28798 | [28798-bottle-flip-challenge-vr.json](./28798-bottle-flip-challenge-vr.json) |
 | Bottle Flip VR | 159895 | [159895-bottle-flip-vr.json](./159895-bottle-flip-vr.json) |
