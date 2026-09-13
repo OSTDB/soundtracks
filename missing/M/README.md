@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Road: Apocalyptic Shooter Survival Killer | 251597 | [251597-mad-road-apocalyptic-shooter-survival-killer.json](./251597-mad-road-apocalyptic-shooter-survival-killer.json) |
 | Mad Rocket: Fog of War | 111758 | [111758-mad-rocket-fog-of-war.json](./111758-mad-rocket-fog-of-war.json) |
 | Mad Shark | 40258 | [40258-mad-shark.json](./40258-mad-shark.json) |
+| Mad Show | 10847 | [10847-mad-show.json](./10847-mad-show.json) |
 | Mad Skills | 181353 | [181353-mad-skills.json](./181353-mad-skills.json) |
 | Mad Skills BMX | 58787 | [58787-mad-skills-bmx.json](./58787-mad-skills-bmx.json) |
 | Mad Skills BMX 2 | 58785 | [58785-mad-skills-bmx-2.json](./58785-mad-skills-bmx-2.json) |
@@ -614,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangata | 184048 | [184048-mangata.json](./184048-mangata.json) |
 | Mangchi | 39591 | [39591-mangchi.json](./39591-mangchi.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
+| Manhattan Dealers | 10846 | [10846-manhattan-dealers.json](./10846-manhattan-dealers.json) |
 | Manhole | 100229 | [100229-manhole.json](./100229-manhole.json) |
 | Manhunt | 1971 | [1971-manhunt.json](./1971-manhunt.json) |
 | Mani Mouse | 239327 | [239327-mani-mouse.json](./239327-mani-mouse.json) |
@@ -1904,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Mech: Man & Machine | 48082 | [48082-metal-mech-man-and-machine.json](./48082-metal-mech-man-and-machine.json) |
 | Metal Mission 2015: Dino Island | 259567 | [259567-metal-mission-2015-dino-island.json](./259567-metal-mission-2015-dino-island.json) |
 | Metal Morph | 42556 | [42556-metal-morph.json](./42556-metal-morph.json) |
+| Metal Mutant | 10852 | [10852-metal-mutant.json](./10852-metal-mutant.json) |
 | Metal Mutation | 194077 | [194077-metal-mutation.json](./194077-metal-mutation.json) |
 | Metal Pear | 302703 | [302703-metal-pear.json](./302703-metal-pear.json) |
 | Metal Queen Dungeon | 304601 | [304601-metal-queen-dungeon.json](./304601-metal-queen-dungeon.json) |
