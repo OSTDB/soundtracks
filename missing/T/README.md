@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fire Rises | 321742 | [321742-the-fire-rises.json](./321742-the-fire-rises.json) |
 | The Firebrand | 295246 | [295246-the-firebrand.json](./295246-the-firebrand.json) |
 | The Firemen | 42621 | [42621-the-firemen.json](./42621-the-firemen.json) |
+| The Firm | 23407 | [23407-the-firm.json](./23407-the-firm.json) |
 | The First Berserker: Khazan - Deluxe Edition | 338028 | [338028-the-first-berserker-khazan-deluxe-edition.json](./338028-the-first-berserker-khazan-deluxe-edition.json) |
 | The First Berserker: Khazan - Deluxe Edition Upgrade | 338029 | [338029-the-first-berserker-khazan-deluxe-edition-upgrade.json](./338029-the-first-berserker-khazan-deluxe-edition-upgrade.json) |
 | The First Descendant: Season 4 | 408829 | [408829-the-first-descendant-season-4.json](./408829-the-first-descendant-season-4.json) |
@@ -3471,6 +3472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rocket Jumper | 232965 | [232965-the-rocket-jumper.json](./232965-the-rocket-jumper.json) |
 | The Rolling Room | 309893 | [309893-the-rolling-room.json](./309893-the-rolling-room.json) |
 | The Rollingball's Melody | 34308 | [34308-the-rollingballs-melody.json](./34308-the-rollingballs-melody.json) |
+| The Roof | 23418 | [23418-the-roof.json](./23418-the-roof.json) |
 | The Room | 11625 | [11625-the-room.json](./11625-the-room.json) |
 | The Room of Black & White | 34455 | [34455-the-room-of-black-and-white.json](./34455-the-room-of-black-and-white.json) |
 | The Room Syndrome | 124218 | [124218-the-room-syndrome.json](./124218-the-room-syndrome.json) |
@@ -3809,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stone of Sisyphus | 24902 | [24902-the-stone-of-sisyphus.json](./24902-the-stone-of-sisyphus.json) |
 | The Stone Ship | 408790 | [408790-the-stone-ship.json](./408790-the-stone-ship.json) |
 | The Stories of Scheherazade | 112327 | [112327-the-stories-of-scheherazade.json](./112327-the-stories-of-scheherazade.json) |
+| The Storm Guard: Darkness is Coming | 23174 | [23174-the-storm-guard-darkness-is-coming.json](./23174-the-storm-guard-darkness-is-coming.json) |
 | The Story For Snow Moon | 97830 | [97830-the-story-for-snow-moon.json](./97830-the-story-for-snow-moon.json) |
 | The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
 | The Story of the Revolutionary Watermelon That Wanted to Live Free as a Bird and Learned How to Escape | 144241 | [144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json](./144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json) |
@@ -5331,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
 | Tiny Shadows Interwoven Hearts | 374078 | [374078-tiny-shadows-interwoven-hearts.json](./374078-tiny-shadows-interwoven-hearts.json) |
 | Tiny Shop | 365094 | [365094-tiny-shop.json](./365094-tiny-shop.json) |
+| Tiny Striker | 23408 | [23408-tiny-striker.json](./23408-tiny-striker.json) |
 | Tiny Tactics | 210879 | [210879-tiny-tactics.json](./210879-tiny-tactics.json) |
 | Tiny Tanks | 78904 | [78904-tiny-tanks.json](./78904-tiny-tanks.json) |
 | Tiny Tennis | 247173 | [247173-tiny-tennis.json](./247173-tiny-tennis.json) |
@@ -5404,6 +5408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNM | 100227 | [100227-tnm.json](./100227-tnm.json) |
 | TNN Bass Tournament of Champions | 46592 | [46592-tnn-bass-tournament-of-champions.json](./46592-tnn-bass-tournament-of-champions.json) |
 | TNN Motorsports Hardcore 4X4 | 20718 | [20718-tnn-motorsports-hardcore-4x4.json](./20718-tnn-motorsports-hardcore-4x4.json) |
+| TNN Outdoors Pro Hunter | 23150 | [23150-tnn-outdoors-pro-hunter.json](./23150-tnn-outdoors-pro-hunter.json) |
 | TNT Racers | 20555 | [20555-tnt-racers.json](./20555-tnt-racers.json) |
 | TNT: Evilution | 46616 | [46616-tnt-evilution.json](./46616-tnt-evilution.json) |
 | TNT! | 118978 | [118978-tnt.json](./118978-tnt.json) |
