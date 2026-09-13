@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T04:01:45.742Z",
-  "total_missing": 64530,
+  "generated_at": "2026-09-13T04:11:30.588Z",
+  "total_missing": 64529,
   "games": [
     {
       "igdb_id": 306086,
@@ -3376,11 +3376,6 @@
       "igdb_id": 282590,
       "game_name": "Ace Combat 7: Skies Unknown - FB-22 Strike Raptor Set",
       "file": "missing/A/282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json"
-    },
-    {
-      "igdb_id": 282581,
-      "game_name": "Ace Combat 7: Skies Unknown - Music Player Mode",
-      "file": "missing/A/282581-ace-combat-7-skies-unknown-music-player-mode.json"
     },
     {
       "igdb_id": 138246,
