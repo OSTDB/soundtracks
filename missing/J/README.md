@@ -115,6 +115,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam Session VR | 75822 | [75822-jam-session-vr.json](./75822-jam-session-vr.json) |
 | Jamco Matefest 3013 | 128614 | [128614-jamco-matefest-3013.json](./128614-jamco-matefest-3013.json) |
 | Jamdat Word Craft | 71486 | [71486-jamdat-word-craft.json](./71486-jamdat-word-craft.json) |
+| James Bond 007: The World Is Not Enough | 1641 | [1641-james-bond-007-the-world-is-not-enough.json](./1641-james-bond-007-the-world-is-not-enough.json) |
+| James Bond 007: Tomorrow Never Dies | 1640 | [1640-james-bond-007-tomorrow-never-dies.json](./1640-james-bond-007-tomorrow-never-dies.json) |
 | James Bonk | 110285 | [110285-james-bonk.json](./110285-james-bonk.json) |
 | James Clavell's Shogun | 15473 | [15473-james-clavells-shogun.json](./15473-james-clavells-shogun.json) |
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
@@ -633,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juglr | 382226 | [382226-juglr.json](./382226-juglr.json) |
 | Jugs Bay | 304618 | [304618-jugs-bay.json](./304618-jugs-bay.json) |
 | Jugular | 179120 | [179120-jugular.json](./179120-jugular.json) |
+| Juiced | 5870 | [5870-juiced.json](./5870-juiced.json) |
 | Juiced 2: Hot Import Nights | 380445 | [380445-juiced-2-hot-import-nights.json](./380445-juiced-2-hot-import-nights.json) |
 | Juicy Theater | 133437 | [133437-juicy-theater.json](./133437-juicy-theater.json) |
 | JuJuJu Club: Potsunen | 255353 | [255353-jujuju-club-potsunen.json](./255353-jujuju-club-potsunen.json) |
@@ -830,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2018 | 37067 | [37067-just-dance-2018.json](./37067-just-dance-2018.json) |
 | Just Dance 2022: Deluxe Edition | 182474 | [182474-just-dance-2022-deluxe-edition.json](./182474-just-dance-2022-deluxe-edition.json) |
 | Just Dance 2022: Ultimate Edition | 196292 | [196292-just-dance-2022-ultimate-edition.json](./196292-just-dance-2022-ultimate-edition.json) |
+| Just Dance 4 | 3255 | [3255-just-dance-4.json](./3255-just-dance-4.json) |
 | Just Dance Wii U | 15560 | [15560-just-dance-wii-u.json](./15560-just-dance-wii-u.json) |
 | Just Dash | 107912 | [107912-just-dash.json](./107912-just-dash.json) |
 | Just Date | 253928 | [253928-just-date.json](./253928-just-date.json) |
