@@ -2224,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grave robber | 189121 | [189121-the-grave-robber.json](./189121-the-grave-robber.json) |
 | The Gravedigger | 311267 | [311267-the-gravedigger.json](./311267-the-gravedigger.json) |
 | The Gravehouse | 224569 | [224569-the-gravehouse.json](./224569-the-gravehouse.json) |
+| The Gray Garden | 118308 | [118308-the-gray-garden.json](./118308-the-gray-garden.json) |
 | The Gray Wolf and The Little Lamb | 245003 | [245003-the-gray-wolf-and-the-little-lamb.json](./245003-the-gray-wolf-and-the-little-lamb.json) |
 | The Great | 211959 | [211959-the-great.json](./211959-the-great.json) |
 | The Great Battle III | 66671 | [66671-the-great-battle-iii.json](./66671-the-great-battle-iii.json) |
@@ -2946,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
 | The Mighty Claw | 249810 | [249810-the-mighty-claw.json](./249810-the-mighty-claw.json) |
 | The Mighty Eighth VR | 224786 | [224786-the-mighty-eighth-vr.json](./224786-the-mighty-eighth-vr.json) |
+| The Mighty Quest for Epic Loot | 2726 | [2726-the-mighty-quest-for-epic-loot.json](./2726-the-mighty-quest-for-epic-loot.json) |
 | The Migrant | 199080 | [199080-the-migrant.json](./199080-the-migrant.json) |
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
 | The Mims 5 | 97294 | [97294-the-mims-5.json](./97294-the-mims-5.json) |
@@ -4063,6 +4065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: March to War | 25642 | [25642-the-walking-dead-march-to-war.json](./25642-the-walking-dead-march-to-war.json) |
 | The Walking Dead: Onslaught - The Golden Weapons Deluxe Pack | 139956 | [139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json](./139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json) |
 | The Walking Dead: Our World | 55177 | [55177-the-walking-dead-our-world.json](./55177-the-walking-dead-our-world.json) |
+| The Walking Dead: Season Two - Episode 2: A House Divided | 127058 | [127058-the-walking-dead-season-two-episode-2-a-house-divided.json](./127058-the-walking-dead-season-two-episode-2-a-house-divided.json) |
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
 | The Walking Dead: The Telltale Definitive Series - Guardian Pack | 117678 | [117678-the-walking-dead-the-telltale-definitive-series-guardian-pack.json](./117678-the-walking-dead-the-telltale-definitive-series-guardian-pack.json) |
 | The Walking Dead: The Telltale Definitive Series - Protector Pack | 117677 | [117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json](./117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json) |
@@ -4170,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizards Pet | 108955 | [108955-the-wizards-pet.json](./108955-the-wizards-pet.json) |
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
 | The Wonderful 101 | 264890 | [264890-the-wonderful-101.json](./264890-the-wonderful-101.json) |
+| The Wonderful 101: Remastered | 129240 | [129240-the-wonderful-101-remastered.json](./129240-the-wonderful-101-remastered.json) |
 | The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 1 | 250349 | [250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json](./250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json) |
 | The Wonders of the Animal Kingdom | 14256 | [14256-the-wonders-of-the-animal-kingdom.json](./14256-the-wonders-of-the-animal-kingdom.json) |
 | The Woods: VR Escape the Room | 114975 | [114975-the-woods-vr-escape-the-room.json](./114975-the-woods-vr-escape-the-room.json) |
@@ -4196,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wrong Floor | 391069 | [391069-the-wrong-floor.json](./391069-the-wrong-floor.json) |
 | The Wylde | 23875 | [23875-the-wylde.json](./23875-the-wylde.json) |
 | The X Factor Sing | 84261 | [84261-the-x-factor-sing.json](./84261-the-x-factor-sing.json) |
+| The Yawhg | 3031 | [3031-the-yawhg.json](./3031-the-yawhg.json) |
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
 | The Yellow Quiz | 114365 | [114365-the-yellow-quiz.json](./114365-the-yellow-quiz.json) |
 | The You Testament | 59920 | [59920-the-you-testament.json](./59920-the-you-testament.json) |
@@ -4433,6 +4438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrice in a row: Last Adventure | 213419 | [213419-thrice-in-a-row-last-adventure.json](./213419-thrice-in-a-row-last-adventure.json) |
 | Thrill Rush | 103400 | [103400-thrill-rush.json](./103400-thrill-rush.json) |
 | Thrills & Chills - Roller Coasters | 31538 | [31538-thrills-and-chills-roller-coasters.json](./31538-thrills-and-chills-roller-coasters.json) |
+| Thrillville | 2852 | [2852-thrillville.json](./2852-thrillville.json) |
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
 | Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
 | Thro' The Wall also Scramble | 319600 | [319600-thro-the-wall-also-scramble.json](./319600-thro-the-wall-also-scramble.json) |
@@ -5535,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TonpaQuest | 178043 | [178043-tonpaquest.json](./178043-tonpaquest.json) |
 | Tony & Friends in Kellogg's Land | 58272 | [58272-tony-and-friends-in-kelloggs-land.json](./58272-tony-and-friends-in-kelloggs-land.json) |
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
+| Tony Hawk: Ride | 2701 | [2701-tony-hawk-ride.json](./2701-tony-hawk-ride.json) |
 | Tony Hawk: Shred | 5230 | [5230-tony-hawk-shred.json](./5230-tony-hawk-shred.json) |
 | Tony Hawk's American Sk8land | 364480 | [364480-tony-hawks-american-sk8land.json](./364480-tony-hawks-american-sk8land.json) |
 | Tony Hawk's American Sk8land | 6643 | [6643-tony-hawks-american-sk8land.json](./6643-tony-hawks-american-sk8land.json) |
@@ -6437,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma | 180787 | [180787-trauma.json](./180787-trauma.json) |
 | Trauma | 301607 | [301607-trauma.json](./301607-trauma.json) |
 | Trauma | 86012 | [86012-trauma.json](./86012-trauma.json) |
+| Trauma Center: Second Opinion | 1524 | [1524-trauma-center-second-opinion.json](./1524-trauma-center-second-opinion.json) |
 | Trauma: Broken Paradise | 238494 | [238494-trauma-broken-paradise.json](./238494-trauma-broken-paradise.json) |
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
 | Traumatarium | 268457 | [268457-traumatarium.json](./268457-traumatarium.json) |
@@ -6872,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuby Bird | 40736 | [40736-tuby-bird.json](./40736-tuby-bird.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
+| Tukoni: Forest Keepers | 141273 | [141273-tukoni-forest-keepers.json](./141273-tukoni-forest-keepers.json) |
 | TukTuk | 196240 | [196240-tuktuk.json](./196240-tuktuk.json) |
 | TukTuk | 214757 | [214757-tuktuk.json](./214757-tuktuk.json) |
 | Tuma-7 | 141842 | [141842-tuma-7.json](./141842-tuma-7.json) |
@@ -6970,6 +6979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turochamp | 232670 | [232670-turochamp.json](./232670-turochamp.json) |
 | Turok 3: Shadow of Oblivion | 1328 | [1328-turok-3-shadow-of-oblivion.json](./1328-turok-3-shadow-of-oblivion.json) |
 | Turok: Dinosaur Hunter | 1321 | [1321-turok-dinosaur-hunter.json](./1321-turok-dinosaur-hunter.json) |
+| Turok: Rage Wars | 1327 | [1327-turok-rage-wars.json](./1327-turok-rage-wars.json) |
 | TurretCraft | 34272 | [34272-turretcraft.json](./34272-turretcraft.json) |
 | Turrican 3 | 12803 | [12803-turrican-3.json](./12803-turrican-3.json) |
 | Turrican III | 37098 | [37098-turrican-iii.json](./37098-turrican-iii.json) |
