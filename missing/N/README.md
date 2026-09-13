@@ -163,10 +163,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Isshiki Otsutsuki | 234632 | [234632-naruto-to-boruto-shinobi-striker-master-character-training-pack-isshiki-otsutsuki.json](./234632-naruto-to-boruto-shinobi-striker-master-character-training-pack-isshiki-otsutsuki.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Kaguya Otsutsuki | 263509 | [263509-naruto-to-boruto-shinobi-striker-master-character-training-pack-kaguya-otsutsuki.json](./263509-naruto-to-boruto-shinobi-striker-master-character-training-pack-kaguya-otsutsuki.json) |
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
+| Naruto x Boruto: Ultimate Ninja Storm Connections | 239385 | [239385-naruto-x-boruto-ultimate-ninja-storm-connections.json](./239385-naruto-x-boruto-ultimate-ninja-storm-connections.json) |
 | Naruto: Konoha Senki | 75842 | [75842-naruto-konoha-senki.json](./75842-naruto-konoha-senki.json) |
 | Naruto: Ninja Cards | 388751 | [388751-naruto-ninja-cards.json](./388751-naruto-ninja-cards.json) |
 | Naruto: Ninja Council 2 - European Version | 79297 | [79297-naruto-ninja-council-2-european-version.json](./79297-naruto-ninja-council-2-european-version.json) |
 | Naruto: Slugfest | 130874 | [130874-naruto-slugfest.json](./130874-naruto-slugfest.json) |
+| Naruto: The Broken Bond | 7102 | [7102-naruto-the-broken-bond.json](./7102-naruto-the-broken-bond.json) |
 | Naruto: Ultimate Ninja Storm - Limited Edition | 44661 | [44661-naruto-ultimate-ninja-storm-limited-edition.json](./44661-naruto-ultimate-ninja-storm-limited-edition.json) |
 | NASCAR '15 | 44560 | [44560-nascar-15.json](./44560-nascar-15.json) |
 | NASCAR 26 | 412990 | [412990-nascar-26.json](./412990-nascar-26.json) |
@@ -870,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2000 | 813 | [813-nhl-2000.json](./813-nhl-2000.json) |
 | NHL 2001 | 814 | [814-nhl-2001.json](./814-nhl-2001.json) |
 | NHL 2002 | 815 | [815-nhl-2002.json](./815-nhl-2002.json) |
+| NHL 22 | 165197 | [165197-nhl-22.json](./165197-nhl-22.json) |
 | NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
 | NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
