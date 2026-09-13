@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laid-Back Camp: Have a nice day! - Limited Edition | 146335 | [146335-laid-back-camp-have-a-nice-day-limited-edition.json](./146335-laid-back-camp-have-a-nice-day-limited-edition.json) |
 | Laid-Back Camp: Virtual - Lake Motosu | 143719 | [143719-laid-back-camp-virtual-lake-motosu.json](./143719-laid-back-camp-virtual-lake-motosu.json) |
 | Laika 2.0 | 57037 | [57037-laika-2-0.json](./57037-laika-2-0.json) |
+| Laika: Aged Through Blood | 146088 | [146088-laika-aged-through-blood.json](./146088-laika-aged-through-blood.json) |
 | Lair Defense: Dungeon | 127893 | [127893-lair-defense-dungeon.json](./127893-lair-defense-dungeon.json) |
 | Lair Land Story: Remake Edition | 119030 | [119030-lair-land-story-remake-edition.json](./119030-lair-land-story-remake-edition.json) |
 | Lair of Anubis | 236303 | [236303-lair-of-anubis.json](./236303-lair-of-anubis.json) |
@@ -1753,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lots of Guns | 65466 | [65466-lots-of-guns.json](./65466-lots-of-guns.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
+| Lotus III: The Ultimate Challenge | 12672 | [12672-lotus-iii-the-ultimate-challenge.json](./12672-lotus-iii-the-ultimate-challenge.json) |
 | Lotus Minigames: Berlin Traffic | 120420 | [120420-lotus-minigames-berlin-traffic.json](./120420-lotus-minigames-berlin-traffic.json) |
 | Lotus Minigames: United Nations | 114355 | [114355-lotus-minigames-united-nations.json](./114355-lotus-minigames-united-nations.json) |
 | Lotus Simulator: Addon - Düsseldorf 1981 | 167754 | [167754-lotus-simulator-addon-dusseldorf-1981.json](./167754-lotus-simulator-addon-dusseldorf-1981.json) |
@@ -1865,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Lisa 3D | 80608 | [80608-lovely-lisa-3d.json](./80608-lovely-lisa-3d.json) |
 | Lovely Lodgings: Autumn Edition | 402310 | [402310-lovely-lodgings-autumn-edition.json](./402310-lovely-lodgings-autumn-edition.json) |
 | Lovely Magicals! | 364486 | [364486-lovely-magicals.json](./364486-lovely-magicals.json) |
+| Lovely Planet | 14326 | [14326-lovely-planet.json](./14326-lovely-planet.json) |
 | Lovely Planet Remix | 165030 | [165030-lovely-planet-remix.json](./165030-lovely-planet-remix.json) |
 | Lovely Pop 2-in-1: Jan Jan Koi Shimasho | 130300 | [130300-lovely-pop-2-in-1-jan-jan-koi-shimasho.json](./130300-lovely-pop-2-in-1-jan-jan-koi-shimasho.json) |
 | Lovely Pop Mahjong: JangJang Shimasho | 130298 | [130298-lovely-pop-mahjong-jangjang-shimasho.json](./130298-lovely-pop-mahjong-jangjang-shimasho.json) |
