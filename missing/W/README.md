@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
 | Where Are They? | 300688 | [300688-where-are-they.json](./300688-where-are-they.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
+| Where Cards Fall | 27271 | [27271-where-cards-fall.json](./27271-where-cards-fall.json) |
 | Where Did I Put It? | 223472 | [223472-where-did-i-put-it.json](./223472-where-did-i-put-it.json) |
 | Where Do I Fit? | 177489 | [177489-where-do-i-fit.json](./177489-where-do-i-fit.json) |
 | Where in America's Past Is Carmen Sandiego? | 50495 | [50495-where-in-americas-past-is-carmen-sandiego.json](./50495-where-in-americas-past-is-carmen-sandiego.json) |
@@ -1519,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Wand | 304016 | [304016-wonder-wand.json](./304016-wonder-wand.json) |
 | Wonder Wars | 252180 | [252180-wonder-wars.json](./252180-wonder-wars.json) |
 | Wonder Wheel | 262979 | [262979-wonder-wheel.json](./262979-wonder-wheel.json) |
+| Wonder Wickets | 27042 | [27042-wonder-wickets.json](./27042-wonder-wickets.json) |
 | Wonder Wonder Punch | 273386 | [273386-wonder-wonder-punch.json](./273386-wonder-wonder-punch.json) |
 | Wonder World | 312547 | [312547-wonder-world.json](./312547-wonder-world.json) |
 | Wonder World Amusement Park | 5286 | [5286-wonder-world-amusement-park.json](./5286-wonder-world-amusement-park.json) |
@@ -1739,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Claudecraft | 408050 | [408050-world-of-claudecraft.json](./408050-world-of-claudecraft.json) |
 | World of Conquerors: Origins | 126602 | [126602-world-of-conquerors-origins.json](./126602-world-of-conquerors-origins.json) |
 | World of Cube | 204104 | [204104-world-of-cube.json](./204104-world-of-cube.json) |
+| World of Darkness Preludes: Vampire and Mage | 27330 | [27330-world-of-darkness-preludes-vampire-and-mage.json](./27330-world-of-darkness-preludes-vampire-and-mage.json) |
 | World of Ender | 102749 | [102749-world-of-ender.json](./102749-world-of-ender.json) |
 | World of Feudal | 102160 | [102160-world-of-feudal.json](./102160-world-of-feudal.json) |
 | World of Final Fantasy | 11214 | [11214-world-of-final-fantasy.json](./11214-world-of-final-fantasy.json) |
