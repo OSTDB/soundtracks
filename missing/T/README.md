@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Warz! | 61609 | [61609-tank-warz.json](./61609-tank-warz.json) |
 | Tank-O-Box | 78682 | [78682-tank-o-box.json](./78682-tank-o-box.json) |
 | Tank: The M1A1 Abrams Battle Tank Simulation | 90602 | [90602-tank-the-m1a1-abrams-battle-tank-simulation.json](./90602-tank-the-m1a1-abrams-battle-tank-simulation.json) |
+| Tank! Tank! Tank! | 5323 | [5323-tank-tank-tank.json](./5323-tank-tank-tank.json) |
 | Tankalot Remastered | 188007 | [188007-tankalot-remastered.json](./188007-tankalot-remastered.json) |
 | Tanked Out! | 270107 | [270107-tanked-out.json](./270107-tanked-out.json) |
 | Tanking Tanks | 112375 | [112375-tanking-tanks.json](./112375-tanking-tanks.json) |
@@ -1437,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Three | 102130 | [102130-the-big-three.json](./102130-the-big-three.json) |
 | The Big, Friendly Thud! | 260937 | [260937-the-big-friendly-thud.json](./260937-the-big-friendly-thud.json) |
 | The Biggest Loser | 48035 | [48035-the-biggest-loser.json](./48035-the-biggest-loser.json) |
+| The Bigs 2 | 4716 | [4716-the-bigs-2.json](./4716-the-bigs-2.json) |
 | The Bikini Bottom Massacre | 269582 | [269582-the-bikini-bottom-massacre.json](./269582-the-bikini-bottom-massacre.json) |
 | The Binding of You | 83551 | [83551-the-binding-of-you.json](./83551-the-binding-of-you.json) |
 | The Bird Museum | 182545 | [182545-the-bird-museum.json](./182545-the-bird-museum.json) |
@@ -2454,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Jackbox Party Pack 7 | 138375 | [138375-the-jackbox-party-pack-7.json](./138375-the-jackbox-party-pack-7.json) |
 | The Jackbox Party Pack 8 | 144783 | [144783-the-jackbox-party-pack-8.json](./144783-the-jackbox-party-pack-8.json) |
+| The Jackbox Survey Scramble | 318207 | [318207-the-jackbox-survey-scramble.json](./318207-the-jackbox-survey-scramble.json) |
 | The Janitor | 32006 | [32006-the-janitor.json](./32006-the-janitor.json) |
 | The Jelly Bean Factory | 62672 | [62672-the-jelly-bean-factory.json](./62672-the-jelly-bean-factory.json) |
 | The Jellyfish Girl's Absolute Abnormal Adventure | 194656 | [194656-the-jellyfish-girls-absolute-abnormal-adventure.json](./194656-the-jellyfish-girls-absolute-abnormal-adventure.json) |
@@ -3076,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
 | The Nightmare | 24860 | [24860-the-nightmare.json](./24860-the-nightmare.json) |
+| The Nightmare Before Christmas: Oogie's Revenge | 6200 | [6200-the-nightmare-before-christmas-oogies-revenge.json](./6200-the-nightmare-before-christmas-oogies-revenge.json) |
 | The Nightmare Chronicles: Horror In Da Hood | 309107 | [309107-the-nightmare-chronicles-horror-in-da-hood.json](./309107-the-nightmare-chronicles-horror-in-da-hood.json) |
 | The Nightmare Escape | 258473 | [258473-the-nightmare-escape.json](./258473-the-nightmare-escape.json) |
 | The Nightmare Inside | 194653 | [194653-the-nightmare-inside.json](./194653-the-nightmare-inside.json) |
@@ -4974,6 +4978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Transforming Robot 2018 | 102783 | [102783-tiger-transforming-robot-2018.json](./102783-tiger-transforming-robot-2018.json) |
 | Tiger Woods PGA Tour 09 | 5222 | [5222-tiger-woods-pga-tour-09.json](./5222-tiger-woods-pga-tour-09.json) |
 | Tiger Woods PGA Tour 09 All-Play | 81327 | [81327-tiger-woods-pga-tour-09-all-play.json](./81327-tiger-woods-pga-tour-09-all-play.json) |
+| Tiger Woods PGA Tour 11 | 5224 | [5224-tiger-woods-pga-tour-11.json](./5224-tiger-woods-pga-tour-11.json) |
 | Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
 | Tight Man | 393457 | [393457-tight-man.json](./393457-tight-man.json) |
@@ -5049,6 +5054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
 | Time For You: Chapter 01 | 168860 | [168860-time-for-you-chapter-01.json](./168860-time-for-you-chapter-01.json) |
 | Time Gal & Ninja Hayate | 55871 | [55871-time-gal-and-ninja-hayate.json](./55871-time-gal-and-ninja-hayate.json) |
+| Time Gentlemen, Please! | 6253 | [6253-time-gentlemen-please.json](./6253-time-gentlemen-please.json) |
 | Time Gentlemen, Please! and Ben There, Dan That! Special Edition Double Pack | 27846 | [27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json](./27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json) |
 | Time Golf Squad | 31863 | [31863-time-golf-squad.json](./31863-time-golf-squad.json) |
 | Time Handlers | 253388 | [253388-time-handlers.json](./253388-time-handlers.json) |
@@ -6749,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollz: Hair Affair! | 49375 | [49375-trollz-hair-affair.json](./49375-trollz-hair-affair.json) |
 | Trombone Champ | 149821 | [149821-trombone-champ.json](./149821-trombone-champ.json) |
 | Tron | 297488 | [297488-tron.json](./297488-tron.json) |
+| Tron | 5247 | [5247-tron.json](./5247-tron.json) |
 | Tron | 89933 | [89933-tron.json](./89933-tron.json) |
 | Tron Run/r | 19978 | [19978-tron-run-r.json](./19978-tron-run-r.json) |
 | Tron Run/r: Deluxe Edition | 53853 | [53853-tron-run-r-deluxe-edition.json](./53853-tron-run-r-deluxe-edition.json) |
