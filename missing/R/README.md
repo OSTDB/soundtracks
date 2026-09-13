@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
 | Rad Blaster | 130883 | [130883-rad-blaster.json](./130883-rad-blaster.json) |
 | Rad Mobile | 39570 | [39570-rad-mobile.json](./39570-rad-mobile.json) |
+| Rad Racer II | 48091 | [48091-rad-racer-ii.json](./48091-rad-racer-ii.json) |
 | Rad Rally | 39569 | [39569-rad-rally.json](./39569-rad-rally.json) |
 | Radarjam | 132758 | [132758-radarjam.json](./132758-radarjam.json) |
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
@@ -486,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman 2: The Great Escape | 193313 | [193313-rayman-2-the-great-escape.json](./193313-rayman-2-the-great-escape.json) |
 | Rayman 2: The Great Escape | 193314 | [193314-rayman-2-the-great-escape.json](./193314-rayman-2-the-great-escape.json) |
 | Rayman 2: The Great Escape | 193315 | [193315-rayman-2-the-great-escape.json](./193315-rayman-2-the-great-escape.json) |
+| Rayman 3 HD | 47449 | [47449-rayman-3-hd.json](./47449-rayman-3-hd.json) |
 | Rayman 3: Hoodlum Havoc Print Studio | 61654 | [61654-rayman-3-hoodlum-havoc-print-studio.json](./61654-rayman-3-hoodlum-havoc-print-studio.json) |
 | Rayman 3D | 20585 | [20585-rayman-3d.json](./20585-rayman-3d.json) |
 | Rayman 4 You | 178599 | [178599-rayman-4-you.json](./178599-rayman-4-you.json) |
@@ -1185,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Revelations - Unveiled Edition (Limited Edition) | 89927 | [89927-resident-evil-revelations-unveiled-edition-limited-edition.json](./89927-resident-evil-revelations-unveiled-edition-limited-edition.json) |
 | Resident Evil: Revelations - Unveiled Edition BSAA Watch Set | 89925 | [89925-resident-evil-revelations-unveiled-edition-bsaa-watch-set.json](./89925-resident-evil-revelations-unveiled-edition-bsaa-watch-set.json) |
 | Resident Evil: Revelations 2 | 7725 | [7725-resident-evil-revelations-2.json](./7725-resident-evil-revelations-2.json) |
+| Resident Evil: Revelations 2 - Deluxe Edition | 53506 | [53506-resident-evil-revelations-2-deluxe-edition.json](./53506-resident-evil-revelations-2-deluxe-edition.json) |
 | Resident Evil: Survivor Redux | 313129 | [313129-resident-evil-survivor-redux.json](./313129-resident-evil-survivor-redux.json) |
 | Resident Evil: The Darkside Chronicles | 497 | [497-resident-evil-the-darkside-chronicles.json](./497-resident-evil-the-darkside-chronicles.json) |
 | Residual Christmas | 379366 | [379366-residual-christmas.json](./379366-residual-christmas.json) |
@@ -1595,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
 | RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
 | Ring Academy | 306957 | [306957-ring-academy.json](./306957-ring-academy.json) |
+| Ring King | 48208 | [48208-ring-king.json](./48208-ring-king.json) |
 | Ring of Destruction: Slam Masters II | 39567 | [39567-ring-of-destruction-slam-masters-ii.json](./39567-ring-of-destruction-slam-masters-ii.json) |
 | Ring of Elysium | 95308 | [95308-ring-of-elysium.json](./95308-ring-of-elysium.json) |
 | Ring of Pain | 115036 | [115036-ring-of-pain.json](./115036-ring-of-pain.json) |
@@ -2461,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Creator for iOS | 61099 | [61099-rpg-creator-for-ios.json](./61099-rpg-creator-for-ios.json) |
 | RPG Driver | 126560 | [126560-rpg-driver.json](./126560-rpg-driver.json) |
 | RPG Golf with Vampires | 263759 | [263759-rpg-golf-with-vampires.json](./263759-rpg-golf-with-vampires.json) |
+| RPG Maker 2003 | 53529 | [53529-rpg-maker-2003.json](./53529-rpg-maker-2003.json) |
 | RPG Maker With | 291538 | [291538-rpg-maker-with.json](./291538-rpg-maker-with.json) |
 | RPG Merchant | 86335 | [86335-rpg-merchant.json](./86335-rpg-merchant.json) |
 | RPG Quest: Minimae | 104595 | [104595-rpg-quest-minimae.json](./104595-rpg-quest-minimae.json) |
