@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Smith VR | 115558 | [115558-fantasy-smith-vr.json](./115558-fantasy-smith-vr.json) |
 | Fantasy Squad W | 109575 | [109575-fantasy-squad-w.json](./109575-fantasy-squad-w.json) |
 | Fantasy Story: Lord of Darkness | 200117 | [200117-fantasy-story-lord-of-darkness.json](./200117-fantasy-story-lord-of-darkness.json) |
+| Fantasy Strike | 45111 | [45111-fantasy-strike.json](./45111-fantasy-strike.json) |
 | Fantasy Tavern Sextet -Vol.3 Postlude Days- | 147402 | [147402-fantasy-tavern-sextet-vol-3-postlude-days.json](./147402-fantasy-tavern-sextet-vol-3-postlude-days.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
 | Fantasy Tower | 304617 | [304617-fantasy-tower.json](./304617-fantasy-tower.json) |
@@ -732,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fedora Spade: Prologue | 57678 | [57678-fedora-spade-prologue.json](./57678-fedora-spade-prologue.json) |
 | Feed | 296397 | [296397-feed.json](./296397-feed.json) |
 | Feed A Titanosaur | 117069 | [117069-feed-a-titanosaur.json](./117069-feed-a-titanosaur.json) |
+| Feed and Grow: Fish | 19876 | [19876-feed-and-grow-fish.json](./19876-feed-and-grow-fish.json) |
 | Feed Garfield | 63865 | [63865-feed-garfield.json](./63865-feed-garfield.json) |
 | Feed It Souls | 278719 | [278719-feed-it-souls.json](./278719-feed-it-souls.json) |
 | Feed Me | 381015 | [381015-feed-me.json](./381015-feed-me.json) |
@@ -940,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighters' Glory | 129700 | [129700-fighters-glory.json](./129700-fighters-glory.json) |
 | Fightin' Spirit | 12096 | [12096-fightin-spirit.json](./12096-fightin-spirit.json) |
 | Fighting Box | 68657 | [68657-fighting-box.json](./68657-fighting-box.json) |
+| Fighting EX Layer | 41828 | [41828-fighting-ex-layer.json](./41828-fighting-ex-layer.json) |
 | Fighting Eyes | 45307 | [45307-fighting-eyes.json](./45307-fighting-eyes.json) |
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
 | Fighting Fantasy: Island of the Lizard King | 175407 | [175407-fighting-fantasy-island-of-the-lizard-king.json](./175407-fighting-fantasy-island-of-the-lizard-king.json) |
@@ -1049,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Crystal Chronicles - Remastered Edition | 109276 | [109276-final-fantasy-crystal-chronicles-remastered-edition.json](./109276-final-fantasy-crystal-chronicles-remastered-edition.json) |
 | Final Fantasy: Crystal Chronicles - The Crystal Bearers | 401 | [401-final-fantasy-crystal-chronicles-the-crystal-bearers.json](./401-final-fantasy-crystal-chronicles-the-crystal-bearers.json) |
 | Final Fantasy: Pixel Remaster Collection | 159253 | [159253-final-fantasy-pixel-remaster-collection.json](./159253-final-fantasy-pixel-remaster-collection.json) |
+| Final Fight Guy | 42554 | [42554-final-fight-guy.json](./42554-final-fight-guy.json) |
 | Final Flames 2: Against the Dark World Crisis | 76548 | [76548-final-flames-2-against-the-dark-world-crisis.json](./76548-final-flames-2-against-the-dark-world-crisis.json) |
 | Final Flock | 260163 | [260163-final-flock.json](./260163-final-flock.json) |
 | Final Foe | 153955 | [153955-final-foe.json](./153955-final-foe.json) |
@@ -2200,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Cookie: More Cookies | 340239 | [340239-fortune-cookie-more-cookies.json](./340239-fortune-cookie-more-cookies.json) |
 | Fortune Handlers | 235493 | [235493-fortune-handlers.json](./235493-fortune-handlers.json) |
 | Fortune Hunters | 117729 | [117729-fortune-hunters.json](./117729-fortune-hunters.json) |
+| Fortune Street | 19930 | [19930-fortune-street.json](./19930-fortune-street.json) |
 | Fortune Street Smart | 64398 | [64398-fortune-street-smart.json](./64398-fortune-street-smart.json) |
 | Fortune Telling | 121042 | [121042-fortune-telling.json](./121042-fortune-telling.json) |
 | Fortune's Run | 165071 | [165071-fortunes-run.json](./165071-fortunes-run.json) |
