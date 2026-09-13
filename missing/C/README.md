@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
 | Chesh | 15551 | [15551-chesh.json](./15551-chesh.json) |
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
+| Chess | 9165 | [9165-chess.json](./9165-chess.json) |
 | Chess - tChess Pro | 104610 | [104610-chess-tchess-pro.json](./104610-chess-tchess-pro.json) |
 | Chess '98 | 204703 | [204703-chess-98.json](./204703-chess-98.json) |
 | Chess & Backgammon Classics | 79907 | [79907-chess-and-backgammon-classics.json](./79907-chess-and-backgammon-classics.json) |
