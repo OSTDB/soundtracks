@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T13:33:48.217Z",
-  "total_missing": 66049,
+  "generated_at": "2026-09-13T13:41:34.090Z",
+  "total_missing": 66048,
   "games": [
     {
       "igdb_id": 306086,
@@ -3676,11 +3676,6 @@
       "igdb_id": 11885,
       "game_name": "Action Fighter",
       "file": "missing/A/11885-action-fighter.json"
-    },
-    {
-      "igdb_id": 73255,
-      "game_name": "Action Force II: International Heroes",
-      "file": "missing/A/73255-action-force-ii-international-heroes.json"
     },
     {
       "igdb_id": 288744,
