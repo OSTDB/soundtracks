@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Nick & Willikins | 87182 | [87182-the-adventures-of-nick-and-willikins.json](./87182-the-adventures-of-nick-and-willikins.json) |
 | The Adventures of Oddley | 320742 | [320742-the-adventures-of-oddley.json](./320742-the-adventures-of-oddley.json) |
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
+| The Adventures of Sinbad | 14226 | [14226-the-adventures-of-sinbad.json](./14226-the-adventures-of-sinbad.json) |
 | The Adventures of Snacky | 225104 | [225104-the-adventures-of-snacky.json](./225104-the-adventures-of-snacky.json) |
 | The Adventures of Square | 18284 | [18284-the-adventures-of-square.json](./18284-the-adventures-of-square.json) |
 | The Adventures of Star Saver | 7745 | [7745-the-adventures-of-star-saver.json](./7745-the-adventures-of-star-saver.json) |
@@ -1278,6 +1279,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arrangement | 73242 | [73242-the-arrangement.json](./73242-the-arrangement.json) |
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
 | The Arson Betrayal | 239312 | [239312-the-arson-betrayal.json](./239312-the-arson-betrayal.json) |
+| The Art of Chess | 14269 | [14269-the-art-of-chess.json](./14269-the-art-of-chess.json) |
+| The Art of GO | 14270 | [14270-the-art-of-go.json](./14270-the-art-of-go.json) |
 | The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
 | The Asafo Journey | 220672 | [220672-the-asafo-journey.json](./220672-the-asafo-journey.json) |
@@ -4087,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
 | The Wonderful 101 | 264890 | [264890-the-wonderful-101.json](./264890-the-wonderful-101.json) |
 | The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 1 | 250349 | [250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json](./250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json) |
+| The Wonders of the Animal Kingdom | 14256 | [14256-the-wonders-of-the-animal-kingdom.json](./14256-the-wonders-of-the-animal-kingdom.json) |
 | The Woods: VR Escape the Room | 114975 | [114975-the-woods-vr-escape-the-room.json](./114975-the-woods-vr-escape-the-room.json) |
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
