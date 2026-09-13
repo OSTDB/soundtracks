@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Star Soccer 4 | 7679 | [7679-new-star-soccer-4.json](./7679-new-star-soccer-4.json) |
 | New Star Soccer Manager | 109583 | [109583-new-star-soccer-manager.json](./109583-new-star-soccer-manager.json) |
 | New Super Kaizo Bros. | 214777 | [214777-new-super-kaizo-bros.json](./214777-new-super-kaizo-bros.json) |
+| New Super Mario Bros. 2 | 1080 | [1080-new-super-mario-bros-2.json](./1080-new-super-mario-bros-2.json) |
 | New Super Mario Bros. 5: Clone Tag Team | 146278 | [146278-new-super-mario-bros-5-clone-tag-team.json](./146278-new-super-mario-bros-5-clone-tag-team.json) |
 | New Super Mario Bros. 5: Clone Tag Team 2 | 146279 | [146279-new-super-mario-bros-5-clone-tag-team-2.json](./146279-new-super-mario-bros-5-clone-tag-team-2.json) |
 | New Super Mario Bros. Deluxe | 107234 | [107234-new-super-mario-bros-deluxe.json](./107234-new-super-mario-bros-deluxe.json) |
