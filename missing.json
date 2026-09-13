@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T22:48:50.232Z",
-  "total_missing": 67516,
+  "generated_at": "2026-09-13T22:51:26.447Z",
+  "total_missing": 67515,
   "games": [
     {
       "igdb_id": 306086,
@@ -3986,11 +3986,6 @@
       "igdb_id": 200708,
       "game_name": "Adonis",
       "file": "missing/A/200708-adonis.json"
-    },
-    {
-      "igdb_id": 332439,
-      "game_name": "Adopt A Boyfriend",
-      "file": "missing/A/332439-adopt-a-boyfriend.json"
     },
     {
       "igdb_id": 301598,
