@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beholgar | 142421 | [142421-beholgar.json](./142421-beholgar.json) |
 | Beholgar: Collector's Edition | 228739 | [228739-beholgar-collectors-edition.json](./228739-beholgar-collectors-edition.json) |
 | BeiJing Courier Simulator | 118413 | [118413-beijing-courier-simulator.json](./118413-beijing-courier-simulator.json) |
+| Being a DIK | 128462 | [128462-being-a-dik.json](./128462-being-a-dik.json) |
 | Being Faust: Enter Mephisto | 56459 | [56459-being-faust-enter-mephisto.json](./56459-being-faust-enter-mephisto.json) |
 | Being One: Episode 1 | 184076 | [184076-being-one-episode-1.json](./184076-being-one-episode-1.json) |
 | Bejeweled | 121723 | [121723-bejeweled.json](./121723-bejeweled.json) |
@@ -1461,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
 | Beyond Citadel | 322842 | [322842-beyond-citadel.json](./322842-beyond-citadel.json) |
 | Beyond Despair | 26724 | [26724-beyond-despair.json](./26724-beyond-despair.json) |
+| Beyond Divinity | 9781 | [9781-beyond-divinity.json](./9781-beyond-divinity.json) |
 | Beyond El Dorado | 58841 | [58841-beyond-el-dorado.json](./58841-beyond-el-dorado.json) |
 | Beyond Enemy Lines: Operation Arctic Hawk | 115599 | [115599-beyond-enemy-lines-operation-arctic-hawk.json](./115599-beyond-enemy-lines-operation-arctic-hawk.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
@@ -1609,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Stunt Master | 105960 | [105960-bike-stunt-master.json](./105960-bike-stunt-master.json) |
 | Bike Unchained | 255737 | [255737-bike-unchained.json](./255737-bike-unchained.json) |
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
+| Biker Mice From Mars | 15915 | [15915-biker-mice-from-mars.json](./15915-biker-mice-from-mars.json) |
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
 | Bikini Balls 2: Christmas Edition | 216455 | [216455-bikini-balls-2-christmas-edition.json](./216455-bikini-balls-2-christmas-edition.json) |
 | Bikini Girls | 169418 | [169418-bikini-girls.json](./169418-bikini-girls.json) |
@@ -1722,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioMenace Remastered | 373528 | [373528-biomenace-remastered.json](./373528-biomenace-remastered.json) |
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
 | Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
+| Bionic Commando | 9242 | [9242-bionic-commando.json](./9242-bionic-commando.json) |
 | Bionic Dues | 9221 | [9221-bionic-dues.json](./9221-bionic-dues.json) |
 | Bionic Hunter VR | 127190 | [127190-bionic-hunter-vr.json](./127190-bionic-hunter-vr.json) |
 | Bionic Shield: Battle for Space Nebula Omega | 189123 | [189123-bionic-shield-battle-for-space-nebula-omega.json](./189123-bionic-shield-battle-for-space-nebula-omega.json) |
@@ -2066,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue Revolution Reburning | 38977 | [38977-blazblue-revolution-reburning.json](./38977-blazblue-revolution-reburning.json) |
 | BlazBlue: Calamity Trigger Portable | 46018 | [46018-blazblue-calamity-trigger-portable.json](./46018-blazblue-calamity-trigger-portable.json) |
 | BlazBlue: Chrono Phantasma | 5643 | [5643-blazblue-chrono-phantasma.json](./5643-blazblue-chrono-phantasma.json) |
+| BlazBlue: Chrono Phantasma Extend | 11612 | [11612-blazblue-chrono-phantasma-extend.json](./11612-blazblue-chrono-phantasma-extend.json) |
 | BlazBlue: Continuum Shift II | 11611 | [11611-blazblue-continuum-shift-ii.json](./11611-blazblue-continuum-shift-ii.json) |
 | BlazBlue: Continuum Shift II - Manga Edition | 89902 | [89902-blazblue-continuum-shift-ii-manga-edition.json](./89902-blazblue-continuum-shift-ii-manga-edition.json) |
 | BlazBlue: Cross Tag Battle | 51448 | [51448-blazblue-cross-tag-battle.json](./51448-blazblue-cross-tag-battle.json) |
@@ -2414,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Cradle: Signifie | 265143 | [265143-blue-cradle-signifie.json](./265143-blue-cradle-signifie.json) |
 | Blue Dragon: Shuffle Dungeon | 259863 | [259863-blue-dragon-shuffle-dungeon.json](./259863-blue-dragon-shuffle-dungeon.json) |
 | Blue Epic | 249795 | [249795-blue-epic.json](./249795-blue-epic.json) |
+| Blue Estate | 7439 | [7439-blue-estate.json](./7439-blue-estate.json) |
 | Blue fencer Resurrection | 159860 | [159860-blue-fencer-resurrection.json](./159860-blue-fencer-resurrection.json) |
 | Blue Fish and Underwater Worlds | 146275 | [146275-blue-fish-and-underwater-worlds.json](./146275-blue-fish-and-underwater-worlds.json) |
 | Blue Fish Yokohama | 212824 | [212824-blue-fish-yokohama.json](./212824-blue-fish-yokohama.json) |
@@ -3470,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Trucker in Rowdy Business | 352200 | [352200-buck-trucker-in-rowdy-business.json](./352200-buck-trucker-in-rowdy-business.json) |
 | Bucket Brawl: Ahlman Edition | 253354 | [253354-bucket-brawl-ahlman-edition.json](./253354-bucket-brawl-ahlman-edition.json) |
 | Bucket Crusher: Complete Edition | 290440 | [290440-bucket-crusher-complete-edition.json](./290440-bucket-crusher-complete-edition.json) |
+| Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
 | Bud Farm: Munchie Match | 245347 | [245347-bud-farm-munchie-match.json](./245347-bud-farm-munchie-match.json) |
 | Bud of Frenzy and Instinct | 108946 | [108946-bud-of-frenzy-and-instinct.json](./108946-bud-of-frenzy-and-instinct.json) |
 | Bud Redhead: The Time Chase | 71558 | [71558-bud-redhead-the-time-chase.json](./71558-bud-redhead-the-time-chase.json) |
