@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariam Game | 235484 | [235484-mariam-game.json](./235484-mariam-game.json) |
 | Maridows 64 | 250047 | [250047-maridows-64.json](./250047-maridows-64.json) |
 | Marie's Patisserie: Sweet Dreams - Collector's Edition | 362840 | [362840-maries-patisserie-sweet-dreams-collectors-edition.json](./362840-maries-patisserie-sweet-dreams-collectors-edition.json) |
+| Marie's Room | 81173 | [81173-maries-room.json](./81173-maries-room.json) |
 | Marigold | 183053 | [183053-marigold.json](./183053-marigold.json) |
 | Marina's Cuckolding Report | 143063 | [143063-marinas-cuckolding-report.json](./143063-marinas-cuckolding-report.json) |
 | Marine Buster | 45969 | [45969-marine-buster.json](./45969-marine-buster.json) |
@@ -2087,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
 | Micro Games for Playdade! | 266242 | [266242-micro-games-for-playdade.json](./266242-micro-games-for-playdade.json) |
 | Micro Machines 1 and 2: Twin Turbo | 93056 | [93056-micro-machines-1-and-2-twin-turbo.json](./93056-micro-machines-1-and-2-twin-turbo.json) |
+| Micro Machines 2: Turbo Tournament | 8775 | [8775-micro-machines-2-turbo-tournament.json](./8775-micro-machines-2-turbo-tournament.json) |
 | Micro Mayhem | 115040 | [115040-micro-mayhem.json](./115040-micro-mayhem.json) |
 | Micro Maze | 252731 | [252731-micro-maze.json](./252731-micro-maze.json) |
 | Micro Miners | 74338 | [74338-micro-miners.json](./74338-micro-miners.json) |
@@ -3434,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonPong: Tales of Epic Lunacy | 213376 | [213376-moonpong-tales-of-epic-lunacy.json](./213376-moonpong-tales-of-epic-lunacy.json) |
 | Moonray | 133362 | [133362-moonray.json](./133362-moonray.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
+| Moonscars | 194507 | [194507-moonscars.json](./194507-moonscars.json) |
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
 | Moonshine Madness | 304588 | [304588-moonshine-madness.json](./304588-moonshine-madness.json) |
 | Moonshine Maniacs: A Wild West Saga | 132221 | [132221-moonshine-maniacs-a-wild-west-saga.json](./132221-moonshine-maniacs-a-wild-west-saga.json) |
