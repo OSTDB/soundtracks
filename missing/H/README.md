@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Evolution Duality: Inception Part 2 | 171633 | [171633-hacker-evolution-duality-inception-part-2.json](./171633-hacker-evolution-duality-inception-part-2.json) |
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
 | HackLab | 185142 | [185142-hacklab.json](./185142-hacklab.json) |
+| Hacknet | 11707 | [11707-hacknet.json](./11707-hacknet.json) |
 | Hackshot | 173263 | [173263-hackshot.json](./173263-hackshot.json) |
 | Had | 239085 | [239085-had.json](./239085-had.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
@@ -2435,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - Law of Salvage | 276197 | [276197-hunt-showdown-1896-law-of-salvage.json](./276197-hunt-showdown-1896-law-of-salvage.json) |
 | Hunt: Showdown 1896 - Myth of the Moors | 253930 | [253930-hunt-showdown-1896-myth-of-the-moors.json](./253930-hunt-showdown-1896-myth-of-the-moors.json) |
 | Hunt: Showdown 1896 - The Son of Gunpowder | 296920 | [296920-hunt-showdown-1896-the-son-of-gunpowder.json](./296920-hunt-showdown-1896-the-son-of-gunpowder.json) |
+| Huntdown | 19728 | [19728-huntdown.json](./19728-huntdown.json) |
 | Huntdown: Collector's Edition | 152327 | [152327-huntdown-collectors-edition.json](./152327-huntdown-collectors-edition.json) |
 | Hunter A Hunter | 192461 | [192461-hunter-a-hunter.json](./192461-hunter-a-hunter.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
