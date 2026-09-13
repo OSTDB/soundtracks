@@ -471,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rawshire the Last Hatchling | 158214 | [158214-rawshire-the-last-hatchling.json](./158214-rawshire-the-last-hatchling.json) |
 | Ray Attack | 148470 | [148470-ray-attack.json](./148470-ray-attack.json) |
 | Ray Eager | 126593 | [126593-ray-eager.json](./126593-ray-eager.json) |
+| Ray Gigant | 11743 | [11743-ray-gigant.json](./11743-ray-gigant.json) |
 | Ray of Light | 105384 | [105384-ray-of-light.json](./105384-ray-of-light.json) |
 | Ray the Flying Squirrel in Sonic the Hedgehog | 198536 | [198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json](./198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json) |
 | Ray-Gun | 64969 | [64969-ray-gun.json](./64969-ray-gun.json) |
@@ -621,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Play | 22484 | [22484-real-play.json](./22484-real-play.json) |
 | Real Pro Yakyuu!: Central League-hen | 282573 | [282573-real-pro-yakyuu-central-league-hen.json](./282573-real-pro-yakyuu-central-league-hen.json) |
 | Real Pro Yakyuu!: Pacific League-hen | 282574 | [282574-real-pro-yakyuu-pacific-league-hen.json](./282574-real-pro-yakyuu-pacific-league-hen.json) |
+| Real Racing 2 | 11652 | [11652-real-racing-2.json](./11652-real-racing-2.json) |
 | Real Racing GTI | 343794 | [343794-real-racing-gti.json](./343794-real-racing-gti.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
 | Real Robots Final Attack | 68026 | [68026-real-robots-final-attack.json](./68026-real-robots-final-attack.json) |
@@ -2784,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryder | 335293 | [335293-ryder.json](./335293-ryder.json) |
 | Rygar | 6856 | [6856-rygar.json](./6856-rygar.json) |
 | Rygar: The Legendary Adventure | 5134 | [5134-rygar-the-legendary-adventure.json](./5134-rygar-the-legendary-adventure.json) |
+| RymdResa | 11735 | [11735-rymdresa.json](./11735-rymdresa.json) |
 | Ryojyoku Damashii: Ero Kenkyaku Den | 97367 | [97367-ryojyoku-damashii-ero-kenkyaku-den.json](./97367-ryojyoku-damashii-ero-kenkyaku-den.json) |
 | Ryoufuu no Melt: Days in the Sanctuary | 44566 | [44566-ryoufuu-no-melt-days-in-the-sanctuary.json](./44566-ryoufuu-no-melt-days-in-the-sanctuary.json) |
 | Ryouki Enbu | 66650 | [66650-ryouki-enbu.json](./66650-ryouki-enbu.json) |
