@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batta Batta: Kampen mod Ultra | 127974 | [127974-batta-batta-kampen-mod-ultra.json](./127974-batta-batta-kampen-mod-ultra.json) |
 | Batta Batta: Kejserens Gave | 129773 | [129773-batta-batta-kejserens-gave.json](./129773-batta-batta-kejserens-gave.json) |
 | Batta Batta: Skurkestreger | 129777 | [129777-batta-batta-skurkestreger.json](./129777-batta-batta-skurkestreger.json) |
+| Battalion Commander | 27128 | [27128-battalion-commander.json](./27128-battalion-commander.json) |
 | Batter Up! | 329039 | [329039-batter-up.json](./329039-batter-up.json) |
 | Batteries Included | 117079 | [117079-batteries-included.json](./117079-batteries-included.json) |
 | Batterneers | 158215 | [158215-batterneers.json](./158215-batterneers.json) |
@@ -938,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Steed: Gunma | 165642 | [165642-battle-steed-gunma.json](./165642-battle-steed-gunma.json) |
 | Battle Storm | 48583 | [48583-battle-storm.json](./48583-battle-storm.json) |
 | Battle Suit Aces | 305021 | [305021-battle-suit-aces.json](./305021-battle-suit-aces.json) |
+| Battle Supremacy | 26895 | [26895-battle-supremacy.json](./26895-battle-supremacy.json) |
 | Battle Talent | 163454 | [163454-battle-talent.json](./163454-battle-talent.json) |
 | Battle Talent: Multiplayer Update | 306952 | [306952-battle-talent-multiplayer-update.json](./306952-battle-talent-multiplayer-update.json) |
 | Battle Tanks: Arena | 240476 | [240476-battle-tanks-arena.json](./240476-battle-tanks-arena.json) |
