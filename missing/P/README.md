@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Territory 2 | 91974 | [91974-paranormal-territory-2.json](./91974-paranormal-territory-2.json) |
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
 | Paranormal: The Town | 61627 | [61627-paranormal-the-town.json](./61627-paranormal-the-town.json) |
+| Paranormasight: The Seven Mysteries of Honjo | 236694 | [236694-paranormasight-the-seven-mysteries-of-honjo.json](./236694-paranormasight-the-seven-mysteries-of-honjo.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
 | Parashotical Arktivibeatings | 235189 | [235189-parashotical-arktivibeatings.json](./235189-parashotical-arktivibeatings.json) |
 | Parasight: Chlorophyll worms | 195793 | [195793-parasight-chlorophyll-worms.json](./195793-parasight-chlorophyll-worms.json) |
@@ -2643,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
 | PreCure All Stars: Zenin Shuugou - Let's Dance! | 56462 | [56462-precure-all-stars-zenin-shuugou-lets-dance.json](./56462-precure-all-stars-zenin-shuugou-lets-dance.json) |
 | Predator | 74422 | [74422-predator.json](./74422-predator.json) |
+| Predator: Hunting Grounds | 118272 | [118272-predator-hunting-grounds.json](./118272-predator-hunting-grounds.json) |
 | Predator: Hunting Grounds - Jungle Edition | 331853 | [331853-predator-hunting-grounds-jungle-edition.json](./331853-predator-hunting-grounds-jungle-edition.json) |
 | Predator: Hunting Grounds - Yautja Edition | 320763 | [320763-predator-hunting-grounds-yautja-edition.json](./320763-predator-hunting-grounds-yautja-edition.json) |
 | Predatory Islands | 251832 | [251832-predatory-islands.json](./251832-predatory-islands.json) |
