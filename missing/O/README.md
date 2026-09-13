@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olli & Lissa 3: The Candlelight Adventure | 70920 | [70920-olli-and-lissa-3-the-candlelight-adventure.json](./70920-olli-and-lissa-3-the-candlelight-adventure.json) |
 | Ollie Ollie Oxen Free | 60010 | [60010-ollie-ollie-oxen-free.json](./60010-ollie-ollie-oxen-free.json) |
 | OlliOlli World: Close Encounter Skate Deck | 353282 | [353282-olliolli-world-close-encounter-skate-deck.json](./353282-olliolli-world-close-encounter-skate-deck.json) |
+| OlliOlli World: Void Riders | 205034 | [205034-olliolli-world-void-riders.json](./205034-olliolli-world-void-riders.json) |
 | OlliOlli: Epic Combo Edition | 46025 | [46025-olliolli-epic-combo-edition.json](./46025-olliolli-epic-combo-edition.json) |
 | OlliOlli2: Welcome to Olliwood | 9523 | [9523-olliolli2-welcome-to-olliwood.json](./9523-olliolli2-welcome-to-olliwood.json) |
 | Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
@@ -570,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Man and His Droid | 12958 | [12958-one-man-and-his-droid.json](./12958-one-man-and-his-droid.json) |
 | One Man Army | 65462 | [65462-one-man-army.json](./65462-one-man-army.json) |
 | One Man's Shit: An Interactive Trash Adventure | 128638 | [128638-one-mans-shit-an-interactive-trash-adventure.json](./128638-one-mans-shit-an-interactive-trash-adventure.json) |
+| One Many Nobody | 201430 | [201430-one-many-nobody.json](./201430-one-many-nobody.json) |
 | One Military Camp: Commander Goals | 288214 | [288214-one-military-camp-commander-goals.json](./288214-one-military-camp-commander-goals.json) |
 | One minute of death | 112936 | [112936-one-minute-of-death.json](./112936-one-minute-of-death.json) |
 | One More Brick | 87170 | [87170-one-more-brick.json](./87170-one-more-brick.json) |
