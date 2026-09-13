@@ -2099,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest: The Call For Help | 370702 | [370702-forest-the-call-for-help.json](./370702-forest-the-call-for-help.json) |
 | Forest's Secret | 138716 | [138716-forests-secret.json](./138716-forests-secret.json) |
 | Forestation: Circles of Nature | 118325 | [118325-forestation-circles-of-nature.json](./118325-forestation-circles-of-nature.json) |
+| Forestrike | 310694 | [310694-forestrike.json](./310694-forestrike.json) |
 | Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
 | Forests of Augusta | 104035 | [104035-forests-of-augusta.json](./104035-forests-of-augusta.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
@@ -2758,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuga: Melodies of Steel 2 - Deluxe Edition | 246620 | [246620-fuga-melodies-of-steel-2-deluxe-edition.json](./246620-fuga-melodies-of-steel-2-deluxe-edition.json) |
 | Fuga: Melodies of Steel 2 - Tail Concerto Costume Pack | 259584 | [259584-fuga-melodies-of-steel-2-tail-concerto-costume-pack.json](./259584-fuga-melodies-of-steel-2-tail-concerto-costume-pack.json) |
 | Fuga: Melodies of Steel 2 - Ultimate Edition | 283150 | [283150-fuga-melodies-of-steel-2-ultimate-edition.json](./283150-fuga-melodies-of-steel-2-ultimate-edition.json) |
+| Fuga: Melodies of Steel 3 | 307648 | [307648-fuga-melodies-of-steel-3.json](./307648-fuga-melodies-of-steel-3.json) |
 | Fuggedaboutit Farm | 372996 | [372996-fuggedaboutit-farm.json](./372996-fuggedaboutit-farm.json) |
 | Fugue | 104072 | [104072-fugue.json](./104072-fugue.json) |
 | Fugue in Void | 105212 | [105212-fugue-in-void.json](./105212-fugue-in-void.json) |
