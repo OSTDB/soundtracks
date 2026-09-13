@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T03:04:00.898Z",
-  "total_missing": 64386,
+  "generated_at": "2026-09-13T03:11:36.005Z",
+  "total_missing": 64385,
   "games": [
     {
       "igdb_id": 306086,
@@ -3346,11 +3346,6 @@
       "igdb_id": 282593,
       "game_name": "Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set II",
       "file": "missing/A/282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json"
-    },
-    {
-      "igdb_id": 282595,
-      "game_name": "Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set III",
-      "file": "missing/A/282595-ace-combat-7-skies-unknown-25th-anniversary-skin-set-iii.json"
     },
     {
       "igdb_id": 282579,
