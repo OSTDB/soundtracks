@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo: Benefits | 141823 | [141823-echo-benefits.json](./141823-echo-benefits.json) |
 | Echo: Defy Death | 303500 | [303500-echo-defy-death.json](./303500-echo-defy-death.json) |
 | EchoBlade | 166752 | [166752-echoblade.json](./166752-echoblade.json) |
+| Echochrome II | 18240 | [18240-echochrome-ii.json](./18240-echochrome-ii.json) |
 | Echoed Realms | 295000 | [295000-echoed-realms.json](./295000-echoed-realms.json) |
 | Echoes | 303503 | [303503-echoes.json](./303503-echoes.json) |
 | Echoes | 91392 | [91392-echoes.json](./91392-echoes.json) |
@@ -923,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Envoy of Nezphere | 105309 | [105309-envoy-of-nezphere.json](./105309-envoy-of-nezphere.json) |
 | Enworden | 211713 | [211713-enworden.json](./211713-enworden.json) |
 | Enyla X | 149598 | [149598-enyla-x.json](./149598-enyla-x.json) |
+| Enyo Arcade | 17802 | [17802-enyo-arcade.json](./17802-enyo-arcade.json) |
 | Enypnion Redreamed | 249812 | [249812-enypnion-redreamed.json](./249812-enypnion-redreamed.json) |
 | EOEOnline | 303515 | [303515-eoeonline.json](./303515-eoeonline.json) |
 | Eon Altar: Episode 2 - Whispers in the Catacombs | 24875 | [24875-eon-altar-episode-2-whispers-in-the-catacombs.json](./24875-eon-altar-episode-2-whispers-in-the-catacombs.json) |
@@ -1203,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESP Ra.De. Psi | 56433 | [56433-esp-ra-de-psi.json](./56433-esp-ra-de-psi.json) |
 | Espalion | 266487 | [266487-espalion.json](./266487-espalion.json) |
 | Esper | 23893 | [23893-esper.json](./23893-esper.json) |
+| Esper 2 | 18396 | [18396-esper-2.json](./18396-esper-2.json) |
 | Esper Dream | 47243 | [47243-esper-dream.json](./47243-esper-dream.json) |
 | Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
 | Esper: Make You Live Again | 114991 | [114991-esper-make-you-live-again.json](./114991-esper-make-you-live-again.json) |
