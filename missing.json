@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T07:04:20.400Z",
-  "total_missing": 65082,
+  "generated_at": "2026-09-13T07:11:30.741Z",
+  "total_missing": 65081,
   "games": [
     {
       "igdb_id": 306086,
@@ -3466,11 +3466,6 @@
       "igdb_id": 104084,
       "game_name": "Achievement Clicker 2020",
       "file": "missing/A/104084-achievement-clicker-2020.json"
-    },
-    {
-      "igdb_id": 114370,
-      "game_name": "Achievement Collector: Zombie",
-      "file": "missing/A/114370-achievement-collector-zombie.json"
     },
     {
       "igdb_id": 110387,
