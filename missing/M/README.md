@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Knots: Garden Wedding | 170554 | [170554-mary-knots-garden-wedding.json](./170554-mary-knots-garden-wedding.json) |
 | Mary Shelley's Frankenstein | 257663 | [257663-mary-shelleys-frankenstein.json](./257663-mary-shelleys-frankenstein.json) |
 | Mary Shelley's Frankenstein / Bram Stoker's Dracula | 257664 | [257664-mary-shelleys-frankenstein-bram-stokers-dracula.json](./257664-mary-shelleys-frankenstein-bram-stokers-dracula.json) |
+| Mary Skelter Finale | 131974 | [131974-mary-skelter-finale.json](./131974-mary-skelter-finale.json) |
 | Mary Skelter Finale: Limited Edition | 166179 | [166179-mary-skelter-finale-limited-edition.json](./166179-mary-skelter-finale-limited-edition.json) |
 | Mary-Kate and Ashley: Girls Night Out | 49391 | [49391-mary-kate-and-ashley-girls-night-out.json](./49391-mary-kate-and-ashley-girls-night-out.json) |
 | Mary-Kate and Ashley: Winners Circle | 49966 | [49966-mary-kate-and-ashley-winners-circle.json](./49966-mary-kate-and-ashley-winners-circle.json) |
@@ -1066,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask Fighting:Otherworldly Awakening | 357809 | [357809-mask-fighting-otherworldly-awakening.json](./357809-mask-fighting-otherworldly-awakening.json) |
 | Mask of Fury | 125434 | [125434-mask-of-fury.json](./125434-mask-of-fury.json) |
 | Mask of Sanity | 121696 | [121696-mask-of-sanity.json](./121696-mask-of-sanity.json) |
+| Mask of the Plague Doctor | 129712 | [129712-mask-of-the-plague-doctor.json](./129712-mask-of-the-plague-doctor.json) |
 | Mask: Beyond Lies | 255988 | [255988-mask-beyond-lies.json](./255988-mask-beyond-lies.json) |
 | Masked | 120940 | [120940-masked.json](./120940-masked.json) |
 | Masked and Mysterious | 75196 | [75196-masked-and-mysterious.json](./75196-masked-and-mysterious.json) |
@@ -1541,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Bowling Dash | 136431 | [136431-mega-bowling-dash.json](./136431-mega-bowling-dash.json) |
 | Mega Bundle: Cats | 208046 | [208046-mega-bundle-cats.json](./208046-mega-bundle-cats.json) |
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
+| Mega Cat Studios Collection 1 | 130688 | [130688-mega-cat-studios-collection-1.json](./130688-mega-cat-studios-collection-1.json) |
 | Mega Collection: 8 Amazing Games - Volume 2 | 409542 | [409542-mega-collection-8-amazing-games-volume-2.json](./409542-mega-collection-8-amazing-games-volume-2.json) |
 | Mega Custom Night | 389412 | [389412-mega-custom-night.json](./389412-mega-custom-night.json) |
 | Mega Drive 3 | 230834 | [230834-mega-drive-3.json](./230834-mega-drive-3.json) |
@@ -3130,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moldy Tower | 271479 | [271479-moldy-tower.json](./271479-moldy-tower.json) |
 | Möle | 93549 | [93549-mole.json](./93549-mole.json) |
 | Mole Digging | 349309 | [349309-mole-digging.json](./349309-mole-digging.json) |
+| Mole Game | 129721 | [129721-mole-game.json](./129721-mole-game.json) |
 | Mole Gem Mayhem | 294988 | [294988-mole-gem-mayhem.json](./294988-mole-gem-mayhem.json) |
 | Mole Maiden | 205035 | [205035-mole-maiden.json](./205035-mole-maiden.json) |
 | Mole Mine Rocks 0.15 | 321164 | [321164-mole-mine-rocks-0-15.json](./321164-mole-mine-rocks-0-15.json) |
