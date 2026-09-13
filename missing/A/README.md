@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Cheer 2 | 12886 | [12886-all-star-cheer-2.json](./12886-all-star-cheer-2.json) |
 | All Star Cheer Squad 2 | 2851 | [2851-all-star-cheer-squad-2.json](./2851-all-star-cheer-squad-2.json) |
 | All Star Darts | 79309 | [79309-all-star-darts.json](./79309-all-star-darts.json) |
+| All Star Karate | 20322 | [20322-all-star-karate.json](./20322-all-star-karate.json) |
 | All Star Quarterback | 58210 | [58210-all-star-quarterback.json](./58210-all-star-quarterback.json) |
 | All Star Racing | 43931 | [43931-all-star-racing.json](./43931-all-star-racing.json) |
 | All Star Racing 2 | 43930 | [43930-all-star-racing-2.json](./43930-all-star-racing-2.json) |
@@ -3502,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon Crew | 386705 | [386705-avalon-crew.json](./386705-avalon-crew.json) |
 | Avalon Heroes | 63886 | [63886-avalon-heroes.json](./63886-avalon-heroes.json) |
 | Avalon Lords | 137012 | [137012-avalon-lords.json](./137012-avalon-lords.json) |
+| Avalon Lords: Dawn Rises | 20464 | [20464-avalon-lords-dawn-rises.json](./20464-avalon-lords-dawn-rises.json) |
 | Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
 | Avaria: Iron Rule | 399009 | [399009-avaria-iron-rule.json](./399009-avaria-iron-rule.json) |
