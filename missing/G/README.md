@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy of Arcade Classics | 206136 | [206136-galaxy-of-arcade-classics.json](./206136-galaxy-of-arcade-classics.json) |
 | Galaxy of Pen and Paper +1 Edition | 205270 | [205270-galaxy-of-pen-and-paper-1-edition.json](./205270-galaxy-of-pen-and-paper-1-edition.json) |
 | Galaxy on Fire 3: Manticore | 87183 | [87183-galaxy-on-fire-3-manticore.json](./87183-galaxy-on-fire-3-manticore.json) |
+| Galaxy on Fire 3D | 9038 | [9038-galaxy-on-fire-3d.json](./9038-galaxy-on-fire-3d.json) |
 | Galaxy on Fire: Alliances | 261530 | [261530-galaxy-on-fire-alliances.json](./261530-galaxy-on-fire-alliances.json) |
 | Galaxy Protectors | 188015 | [188015-galaxy-protectors.json](./188015-galaxy-protectors.json) |
 | Galaxy Reavers | 24411 | [24411-galaxy-reavers.json](./24411-galaxy-reavers.json) |
@@ -835,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giftpia | 3931 | [3931-giftpia.json](./3931-giftpia.json) |
 | Gifts from Arthur | 202365 | [202365-gifts-from-arthur.json](./202365-gifts-from-arthur.json) |
 | Gig Life | 198449 | [198449-gig-life.json](./198449-gig-life.json) |
+| Giga Wing 2 | 9163 | [9163-giga-wing-2.json](./9163-giga-wing-2.json) |
 | GigaBash: Final Ascension DLC | 404835 | [404835-gigabash-final-ascension-dlc.json](./404835-gigabash-final-ascension-dlc.json) |
 | GigaBash: GAMERA -Rebirth- DLC | 404834 | [404834-gigabash-gamera-rebirth-dlc.json](./404834-gigabash-gamera-rebirth-dlc.json) |
 | GigaBash: Ultraman - Rising DLC | 404829 | [404829-gigabash-ultraman-rising-dlc.json](./404829-gigabash-ultraman-rising-dlc.json) |
@@ -2031,12 +2033,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty | 215389 | [215389-guilty.json](./215389-guilty.json) |
 | Guilty | 7839 | [7839-guilty.json](./7839-guilty.json) |
 | Guilty Crown: Lost Christmas | 80569 | [80569-guilty-crown-lost-christmas.json](./80569-guilty-crown-lost-christmas.json) |
+| Guilty Gear Petit | 9147 | [9147-guilty-gear-petit.json](./9147-guilty-gear-petit.json) |
+| Guilty Gear Petit 2 | 9148 | [9148-guilty-gear-petit-2.json](./9148-guilty-gear-petit-2.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors Zato-One | 344378 | [344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json](./344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json) |
 | Guilty Gear Xrd: Revelator | 13620 | [13620-guilty-gear-xrd-revelator.json](./13620-guilty-gear-xrd-revelator.json) |
 | Guilty Gear Xrd: Revelator - Deluxe Edition | 82089 | [82089-guilty-gear-xrd-revelator-deluxe-edition.json](./82089-guilty-gear-xrd-revelator-deluxe-edition.json) |
 | Guilty Gear Xrd: Revelator - Let's Rock! Edition | 89928 | [89928-guilty-gear-xrd-revelator-lets-rock-edition.json](./89928-guilty-gear-xrd-revelator-lets-rock-edition.json) |
 | Guilty Gear Xrd: Sign - Character Colors Christmas Set | 315513 | [315513-guilty-gear-xrd-sign-character-colors-christmas-set.json](./315513-guilty-gear-xrd-sign-character-colors-christmas-set.json) |
 | Guilty Gear XX Accent Core | 9145 | [9145-guilty-gear-xx-accent-core.json](./9145-guilty-gear-xx-accent-core.json) |
+| Guilty Gear XX Slash | 9144 | [9144-guilty-gear-xx-slash.json](./9144-guilty-gear-xx-slash.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Amber Fest with Kind Neighbors | 299723 | [299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json](./299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Fairy's Forest Factory | 254564 | [254564-guilty-gear-strive-additional-battle-stage-fairys-forest-factory.json](./254564-guilty-gear-strive-additional-battle-stage-fairys-forest-factory.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Lap of the Kami | 254561 | [254561-guilty-gear-strive-additional-battle-stage-lap-of-the-kami.json](./254561-guilty-gear-strive-additional-battle-stage-lap-of-the-kami.json) |
