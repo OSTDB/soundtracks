@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Puzzles and Brain Teasers 2018 | 106549 | [106549-math-puzzles-and-brain-teasers-2018.json](./106549-math-puzzles-and-brain-teasers-2018.json) |
 | Math Puzzles Brain Teasers 2018 | 104124 | [104124-math-puzzles-brain-teasers-2018.json](./104124-math-puzzles-brain-teasers-2018.json) |
 | Math Puzzles PRO | 105958 | [105958-math-puzzles-pro.json](./105958-math-puzzles-pro.json) |
+| Math Rescue | 35548 | [35548-math-rescue.json](./35548-math-rescue.json) |
 | Math Speed Challenge | 101617 | [101617-math-speed-challenge.json](./101617-math-speed-challenge.json) |
 | Mathbits | 360568 | [360568-mathbits.json](./360568-mathbits.json) |
 | Mathe Pfiffikus 1 - 1995 | 81404 | [81404-mathe-pfiffikus-1-1995.json](./81404-mathe-pfiffikus-1-1995.json) |
@@ -1494,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
 | Medieval Wars | 165697 | [165697-medieval-wars.json](./165697-medieval-wars.json) |
 | Medieval: Total War - Collection | 82055 | [82055-medieval-total-war-collection.json](./82055-medieval-total-war-collection.json) |
+| Medieval: Total War - Gold Edition | 35894 | [35894-medieval-total-war-gold-edition.json](./35894-medieval-total-war-gold-edition.json) |
 | Medieval: Total War - Viking Invasion | 444 | [444-medieval-total-war-viking-invasion.json](./444-medieval-total-war-viking-invasion.json) |
 | Medievalfield | 200695 | [200695-medievalfield.json](./200695-medievalfield.json) |
 | Meditation Journey: VR Zen Garden | 167785 | [167785-meditation-journey-vr-zen-garden.json](./167785-meditation-journey-vr-zen-garden.json) |
@@ -2184,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
 | Microsoft Flight Simulator X: Acceleration | 713 | [713-microsoft-flight-simulator-x-acceleration.json](./713-microsoft-flight-simulator-x-acceleration.json) |
 | Microsoft Flight Simulator X: Deluxe Edition | 23775 | [23775-microsoft-flight-simulator-x-deluxe-edition.json](./23775-microsoft-flight-simulator-x-deluxe-edition.json) |
+| Microsoft Flight Simulator X: Steam Edition | 36261 | [36261-microsoft-flight-simulator-x-steam-edition.json](./36261-microsoft-flight-simulator-x-steam-edition.json) |
 | Microsoft Flight Simulator X: Steam Edition - 3D Lights Redux | 161889 | [161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json](./161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json) |
 | Microsoft Flight Simulator X: Steam Edition - 737 Extreme Sound | 161820 | [161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json](./161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json) |
 | Microsoft Flight Simulator X: Steam Edition - Albatros D.III (Oef) 253 | 161847 | [161847-microsoft-flight-simulator-x-steam-edition-albatros-d-iii-oef-253.json](./161847-microsoft-flight-simulator-x-steam-edition-albatros-d-iii-oef-253.json) |
@@ -3072,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moeboid | 77352 | [77352-moeboid.json](./77352-moeboid.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
 | Moero 7!! Judo Warriors | 59994 | [59994-moero-7-judo-warriors.json](./59994-moero-7-judo-warriors.json) |
+| Moero Chronicle | 36869 | [36869-moero-chronicle.json](./36869-moero-chronicle.json) |
 | Moero Chronicle Hyper | 114421 | [114421-moero-chronicle-hyper.json](./114421-moero-chronicle-hyper.json) |
 | Moero Chronicle: Deluxe Edition | 186878 | [186878-moero-chronicle-deluxe-edition.json](./186878-moero-chronicle-deluxe-edition.json) |
 | Moero Crystal H | 121766 | [121766-moero-crystal-h.json](./121766-moero-crystal-h.json) |
@@ -3363,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Mind | 137004 | [137004-monster-mind.json](./137004-monster-mind.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
 | Monster Never Cry | 297253 | [297253-monster-never-cry.json](./297253-monster-never-cry.json) |
+| Monster of the Deep: Final Fantasy XV | 37087 | [37087-monster-of-the-deep-final-fantasy-xv.json](./37087-monster-of-the-deep-final-fantasy-xv.json) |
 | Monster Ops 10 | 379334 | [379334-monster-ops-10.json](./379334-monster-ops-10.json) |
 | Monster Ops 2 | 341333 | [341333-monster-ops-2.json](./341333-monster-ops-2.json) |
 | Monster Ops 3 | 341334 | [341334-monster-ops-3.json](./341334-monster-ops-3.json) |
@@ -3445,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montana Jones | 246423 | [246423-montana-jones.json](./246423-montana-jones.json) |
 | MontanaBlack Kylo's Rescue | 174274 | [174274-montanablack-kylos-rescue.json](./174274-montanablack-kylos-rescue.json) |
 | Montezuma Puzzle | 91341 | [91341-montezuma-puzzle.json](./91341-montezuma-puzzle.json) |
+| Montezuma's Return! | 36903 | [36903-montezumas-return.json](./36903-montezumas-return.json) |
 | Montezuma's Revenge: 8-Bit Edition | 234623 | [234623-montezumas-revenge-8-bit-edition.json](./234623-montezumas-revenge-8-bit-edition.json) |
 | Monti: The Hidden Secret | 278989 | [278989-monti-the-hidden-secret.json](./278989-monti-the-hidden-secret.json) |
 | Montjoie! | 66719 | [66719-montjoie.json](./66719-montjoie.json) |
@@ -4200,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MVP 06: NCAA Baseball | 5937 | [5937-mvp-06-ncaa-baseball.json](./5937-mvp-06-ncaa-baseball.json) |
 | MVP Baseball | 71443 | [71443-mvp-baseball.json](./71443-mvp-baseball.json) |
 | MVP Baseball 2005 | 796 | [796-mvp-baseball-2005.json](./796-mvp-baseball-2005.json) |
+| MX Bikes | 37424 | [37424-mx-bikes.json](./37424-mx-bikes.json) |
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2023 | 274741 | [274741-mx-vs-atv-legends-gasgas-pack-2023.json](./274741-mx-vs-atv-legends-gasgas-pack-2023.json) |
 | MX vs. ATV: Legends - Season One: Exclusive Box Edition | 252169 | [252169-mx-vs-atv-legends-season-one-exclusive-box-edition.json](./252169-mx-vs-atv-legends-season-one-exclusive-box-edition.json) |
