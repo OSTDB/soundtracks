@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narborion by Night | 98479 | [98479-narborion-by-night.json](./98479-narborion-by-night.json) |
 | Narc | 307956 | [307956-narc.json](./307956-narc.json) |
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
+| Narc | 4010 | [4010-narc.json](./4010-narc.json) |
 | Narcis Crosswords | 304028 | [304028-narcis-crosswords.json](./304028-narcis-crosswords.json) |
 | Narcissu | 95463 | [95463-narcissu.json](./95463-narcissu.json) |
 | Narcissu 3rd -Die Dritte Welt- | 93513 | [93513-narcissu-3rd-die-dritte-welt.json](./93513-narcissu-3rd-die-dritte-welt.json) |
@@ -302,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K27 | 408823 | [408823-nba-2k27.json](./408823-nba-2k27.json) |
 | NBA 2K27: Deluxe Edition | 410900 | [410900-nba-2k27-deluxe-edition.json](./410900-nba-2k27-deluxe-edition.json) |
 | NBA 2K27: Ultra Edition | 410901 | [410901-nba-2k27-ultra-edition.json](./410901-nba-2k27-ultra-edition.json) |
+| NBA 2K3 | 4030 | [4030-nba-2k3.json](./4030-nba-2k3.json) |
 | NBA 2K6 | 257114 | [257114-nba-2k6.json](./257114-nba-2k6.json) |
 | NBA 3 on 3 Featuring Kobe Bryant | 49904 | [49904-nba-3-on-3-featuring-kobe-bryant.json](./49904-nba-3-on-3-featuring-kobe-bryant.json) |
 | NBA Baller Beats | 47414 | [47414-nba-baller-beats.json](./47414-nba-baller-beats.json) |
@@ -893,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 96 | 11650 | [11650-nhl-96.json](./11650-nhl-96.json) |
 | NHL 97 | 817 | [817-nhl-97.json](./817-nhl-97.json) |
 | NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
+| NHL Hitz 2003 | 4047 | [4047-nhl-hitz-2003.json](./4047-nhl-hitz-2003.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
 | NHRA Championship Drag Racing: Speed for All - Ultimate Edition | 212791 | [212791-nhra-championship-drag-racing-speed-for-all-ultimate-edition.json](./212791-nhra-championship-drag-racing-speed-for-all-ultimate-edition.json) |
@@ -1293,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Escape from Madness | 332456 | [332456-no-escape-from-madness.json](./332456-no-escape-from-madness.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Fate! Only the Power of Will | 7123 | [7123-no-fate-only-the-power-of-will.json](./7123-no-fate-only-the-power-of-will.json) |
+| No Fear Downhill Mountain Biking | 4654 | [4654-no-fear-downhill-mountain-biking.json](./4654-no-fear-downhill-mountain-biking.json) |
 | No Final Night: Protect the Sponk Can | 410918 | [410918-no-final-night-protect-the-sponk-can.json](./410918-no-final-night-protect-the-sponk-can.json) |
 | No Food No Drink | 338752 | [338752-no-food-no-drink.json](./338752-no-food-no-drink.json) |
 | No Ghost in Circus Caravan | 311999 | [311999-no-ghost-in-circus-caravan.json](./311999-no-ghost-in-circus-caravan.json) |
