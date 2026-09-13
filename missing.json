@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T08:19:51.066Z",
-  "total_missing": 65260,
+  "generated_at": "2026-09-13T08:21:33.039Z",
+  "total_missing": 65259,
   "games": [
     {
       "igdb_id": 306086,
@@ -3501,11 +3501,6 @@
       "igdb_id": 15588,
       "game_name": "Acid Drops",
       "file": "missing/A/15588-acid-drops.json"
-    },
-    {
-      "igdb_id": 205568,
-      "game_name": "Acid Girls' Escape",
-      "file": "missing/A/205568-acid-girls-escape.json"
     },
     {
       "igdb_id": 283739,
