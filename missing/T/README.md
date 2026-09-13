@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Maker 64 | 400852 | [400852-temple-maker-64.json](./400852-temple-maker-64.json) |
 | Temple of Aluxes | 61621 | [61621-temple-of-aluxes.json](./61621-temple-of-aluxes.json) |
 | Temple Of Anubis: Judgement Of The Dead | 271736 | [271736-temple-of-anubis-judgement-of-the-dead.json](./271736-temple-of-anubis-judgement-of-the-dead.json) |
+| Temple of Apshai Trilogy | 2864 | [2864-temple-of-apshai-trilogy.json](./2864-temple-of-apshai-trilogy.json) |
 | Temple of Boonil | 198562 | [198562-temple-of-boonil.json](./198562-temple-of-boonil.json) |
 | Temple of Darkness | 247529 | [247529-temple-of-darkness.json](./247529-temple-of-darkness.json) |
 | Temple of Hue | 149533 | [149533-temple-of-hue.json](./149533-temple-of-hue.json) |
@@ -984,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraGenesis - Space Colony | 102762 | [102762-terragenesis-space-colony.json](./102762-terragenesis-space-colony.json) |
 | TerraGenesis - Space Settlers | 102730 | [102730-terragenesis-space-settlers.json](./102730-terragenesis-space-settlers.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
+| Terraria 2 | 3021 | [3021-terraria-2.json](./3021-terraria-2.json) |
 | Terraria: Calamity Mod | 141229 | [141229-terraria-calamity-mod.json](./141229-terraria-calamity-mod.json) |
 | Terraria: Otherworld | 25677 | [25677-terraria-otherworld.json](./25677-terraria-otherworld.json) |
 | TerrariaCraft | 300699 | [300699-terrariacraft.json](./300699-terrariacraft.json) |
@@ -3407,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Realms: Realm - Pythonium | 331105 | [331105-the-seven-realms-realm-pythonium.json](./331105-the-seven-realms-realm-pythonium.json) |
 | The Seven Realms: Realm 1 - Terran | 330743 | [330743-the-seven-realms-realm-1-terran.json](./330743-the-seven-realms-realm-1-terran.json) |
 | The Seven Realms: Realm 3 - High Lathión | 267673 | [267673-the-seven-realms-realm-3-high-lathion.json](./267673-the-seven-realms-realm-3-high-lathion.json) |
+| The Seven Spirits of Ra | 2893 | [2893-the-seven-spirits-of-ra.json](./2893-the-seven-spirits-of-ra.json) |
 | The Seven Years War (1756-1763) | 13666 | [13666-the-seven-years-war-1756-1763.json](./13666-the-seven-years-war-1756-1763.json) |
 | The Seven Years War (1756-1763): Pomeranian War | 171610 | [171610-the-seven-years-war-1756-1763-pomeranian-war.json](./171610-the-seven-years-war-1756-1763-pomeranian-war.json) |
 | The Several Journeys of Reemus Chapter 2: The All-Knowing Parasite | 110311 | [110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json](./110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json) |
@@ -3441,7 +3444,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silence | 185625 | [185625-the-silence.json](./185625-the-silence.json) |
 | The Silent Islands | 211939 | [211939-the-silent-islands.json](./211939-the-silent-islands.json) |
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
+| The Simpsons: Bart's House of Weirdness | 2828 | [2828-the-simpsons-barts-house-of-weirdness.json](./2828-the-simpsons-barts-house-of-weirdness.json) |
+| The Simpsons: Bartman Meets Radioactive Man | 2832 | [2832-the-simpsons-bartman-meets-radioactive-man.json](./2832-the-simpsons-bartman-meets-radioactive-man.json) |
 | The Simpsons: Bug Squad! | 307953 | [307953-the-simpsons-bug-squad.json](./307953-the-simpsons-bug-squad.json) |
+| The Simpsons: Cartoon Studio | 2838 | [2838-the-simpsons-cartoon-studio.json](./2838-the-simpsons-cartoon-studio.json) |
 | The Sims 2 | 192905 | [192905-the-sims-2.json](./192905-the-sims-2.json) |
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
 | The Sims 25th Birthday Bundle | 362302 | [362302-the-sims-25th-birthday-bundle.json](./362302-the-sims-25th-birthday-bundle.json) |
@@ -6536,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
 | Trimurti Online | 265688 | [265688-trimurti-online.json](./265688-trimurti-online.json) |
 | Tringo | 49344 | [49344-tringo.json](./49344-tringo.json) |
+| Trinity | 2952 | [2952-trinity.json](./2952-trinity.json) |
 | Trinity Heart | 266238 | [266238-trinity-heart.json](./266238-trinity-heart.json) |
 | Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
 | Trinoline | 116366 | [116366-trinoline.json](./116366-trinoline.json) |
