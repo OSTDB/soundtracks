@@ -310,13 +310,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
-| Add Astra | 292305 | [292305-add-astra.json](./292305-add-astra.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
 | Adebana Sacrament: Seinaru Miwaza to Akuryoutsuki no Shoujo-tachi | 77948 | [77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json](./77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
-| Adibou | 200672 | [200672-adibou.json](./200672-adibou.json) |
 | Adibou d'chou au cirque | 242534 | [242534-adibou-dchou-au-cirque.json](./242534-adibou-dchou-au-cirque.json) |
 | Adibou d'chou au Pays des Bonbons | 242532 | [242532-adibou-dchou-au-pays-des-bonbons.json](./242532-adibou-dchou-au-pays-des-bonbons.json) |
 | Adibou d'chou fête son anniversaire | 242535 | [242535-adibou-dchou-fete-son-anniversaire.json](./242535-adibou-dchou-fete-son-anniversaire.json) |
