@@ -2453,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy's Journey | 104083 | [104083-freddys-journey.json](./104083-freddys-journey.json) |
 | Freddy's Pizza Parlor Survival | 245306 | [245306-freddys-pizza-parlor-survival.json](./245306-freddys-pizza-parlor-survival.json) |
 | Freddy's Rescue Roundup | 72088 | [72088-freddys-rescue-roundup.json](./72088-freddys-rescue-roundup.json) |
+| Frederic: Resurrection of Music - Director's Cut | 33261 | [33261-frederic-resurrection-of-music-directors-cut.json](./33261-frederic-resurrection-of-music-directors-cut.json) |
 | Free Bees | 224245 | [224245-free-bees.json](./224245-free-bees.json) |
 | Free Chess: Cheese Set | 305534 | [305534-free-chess-cheese-set.json](./305534-free-chess-cheese-set.json) |
 | Free Chess: Primitives Set | 310390 | [310390-free-chess-primitives-set.json](./310390-free-chess-primitives-set.json) |
@@ -2483,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeflow | 340248 | [340248-freeflow.json](./340248-freeflow.json) |
 | Freeforce Airplanes | 340249 | [340249-freeforce-airplanes.json](./340249-freeforce-airplanes.json) |
 | Freegglers | 185159 | [185159-freegglers.json](./185159-freegglers.json) |
+| FreeHolder | 32937 | [32937-freeholder.json](./32937-freeholder.json) |
 | FreeInfantry | 291224 | [291224-freeinfantry.json](./291224-freeinfantry.json) |
 | Freeing Quency | 179192 | [179192-freeing-quency.json](./179192-freeing-quency.json) |
 | FreeJack | 51276 | [51276-freejack.json](./51276-freejack.json) |
