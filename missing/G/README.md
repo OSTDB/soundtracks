@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloaming Comedian Simulator | 259860 | [259860-gloaming-comedian-simulator.json](./259860-gloaming-comedian-simulator.json) |
 | Gloamryn | 346577 | [346577-gloamryn.json](./346577-gloamryn.json) |
 | Global Arcade Classics | 93502 | [93502-global-arcade-classics.json](./93502-global-arcade-classics.json) |
+| Global Domination | 15480 | [15480-global-domination.json](./15480-global-domination.json) |
 | Global Folktale | 254538 | [254538-global-folktale.json](./254538-global-folktale.json) |
 | Global Shipping Simulator | 326414 | [326414-global-shipping-simulator.json](./326414-global-shipping-simulator.json) |
 | Global Soccer Manager 2015 | 98428 | [98428-global-soccer-manager-2015.json](./98428-global-soccer-manager-2015.json) |
@@ -1019,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Gname | 185090 | [185090-gnome-gname.json](./185090-gnome-gname.json) |
 | Gnome Light | 54471 | [54471-gnome-light.json](./54471-gnome-light.json) |
 | Gnome Nations | 106595 | [106595-gnome-nations.json](./106595-gnome-nations.json) |
+| Gnome Ranger | 15492 | [15492-gnome-ranger.json](./15492-gnome-ranger.json) |
 | Gnomecart Havoc | 319006 | [319006-gnomecart-havoc.json](./319006-gnomecart-havoc.json) |
 | Gnomes | 37182 | [37182-gnomes.json](./37182-gnomes.json) |
 | Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
@@ -1752,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greetings | 178562 | [178562-greetings.json](./178562-greetings.json) |
 | Greetings From Krampus! | 127229 | [127229-greetings-from-krampus.json](./127229-greetings-from-krampus.json) |
 | Greg Hastings' Tournament Paintball MAX'D | 5855 | [5855-greg-hastings-tournament-paintball-maxd.json](./5855-greg-hastings-tournament-paintball-maxd.json) |
+| Greg LeMond's Bicycle Adventure | 15475 | [15475-greg-lemonds-bicycle-adventure.json](./15475-greg-lemonds-bicycle-adventure.json) |
 | Greg Norman's Golf Power | 48701 | [48701-greg-normans-golf-power.json](./48701-greg-normans-golf-power.json) |
 | Greg Norman's Ultimate Golf | 98979 | [98979-greg-normans-ultimate-golf.json](./98979-greg-normans-ultimate-golf.json) |
 | Gregor's Notebook | 253938 | [253938-gregors-notebook.json](./253938-gregors-notebook.json) |
