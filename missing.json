@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T14:01:44.212Z",
-  "total_missing": 66114,
+  "generated_at": "2026-09-13T14:11:33.383Z",
+  "total_missing": 66116,
   "games": [
     {
       "igdb_id": 306086,
@@ -3693,11 +3693,6 @@
       "file": "missing/A/14550-action-henk.json"
     },
     {
-      "igdb_id": 29871,
-      "game_name": "Action Mahjong",
-      "file": "missing/A/29871-action-mahjong.json"
-    },
-    {
       "igdb_id": 49868,
       "game_name": "Action Man: Search For Base X",
       "file": "missing/A/49868-action-man-search-for-base-x.json"
@@ -6926,6 +6921,11 @@
       "igdb_id": 297230,
       "game_name": "Airport Boss",
       "file": "missing/A/297230-airport-boss.json"
+    },
+    {
+      "igdb_id": 52524,
+      "game_name": "Airport CEO",
+      "file": "missing/A/52524-airport-ceo.json"
     },
     {
       "igdb_id": 272868,
@@ -73176,6 +73176,11 @@
       "igdb_id": 158729,
       "game_name": "Don't Cut Your Hand 2",
       "file": "missing/D/158729-dont-cut-your-hand-2.json"
+    },
+    {
+      "igdb_id": 52178,
+      "game_name": "Don't Die, Mr. Robot!",
+      "file": "missing/D/52178-dont-die-mr-robot.json"
     },
     {
       "igdb_id": 303483,
@@ -193096,6 +193101,11 @@
       "igdb_id": 322984,
       "game_name": "Oniriam",
       "file": "missing/O/322984-oniriam.json"
+    },
+    {
+      "igdb_id": 52282,
+      "game_name": "Onirim: Solitaire Card Game",
+      "file": "missing/O/52282-onirim-solitaire-card-game.json"
     },
     {
       "igdb_id": 68601,
