@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T00:03:57.679Z",
-  "total_missing": 63873,
+  "generated_at": "2026-09-13T00:11:27.240Z",
+  "total_missing": 63872,
   "games": [
     {
       "igdb_id": 306086,
@@ -3256,11 +3256,6 @@
       "igdb_id": 209660,
       "game_name": "Acassia",
       "file": "missing/A/209660-acassia.json"
-    },
-    {
-      "igdb_id": 148554,
-      "game_name": "Accel Magician Mimi",
-      "file": "missing/A/148554-accel-magician-mimi.json"
     },
     {
       "igdb_id": 44598,
