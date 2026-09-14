@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T17:01:42.253Z",
-  "total_missing": 70533,
+  "generated_at": "2026-09-14T17:11:40.041Z",
+  "total_missing": 70532,
   "games": [
     {
       "igdb_id": 306086,
@@ -4551,11 +4551,6 @@
       "igdb_id": 148507,
       "game_name": "Aeon's End: The Depths",
       "file": "missing/A/148507-aeons-end-the-depths.json"
-    },
-    {
-      "igdb_id": 223482,
-      "game_name": "Aeons Past",
-      "file": "missing/A/223482-aeons-past.json"
     },
     {
       "igdb_id": 75064,
