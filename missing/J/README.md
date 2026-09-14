@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Mahjong | 334660 | [334660-japan-mahjong.json](./334660-japan-mahjong.json) |
 | Japan Train Models: JR West Edition | 278130 | [278130-japan-train-models-jr-west-edition.json](./278130-japan-train-models-jr-west-edition.json) |
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
+| Japanese Dominatrixes Are the Best | 385702 | [385702-japanese-dominatrixes-are-the-best.json](./385702-japanese-dominatrixes-are-the-best.json) |
 | Japanese Escape Games: The Hotel of Tricks | 209690 | [209690-japanese-escape-games-the-hotel-of-tricks.json](./209690-japanese-escape-games-the-hotel-of-tricks.json) |
 | Japanese Escape Games: The Retro House | 212275 | [212275-japanese-escape-games-the-retro-house.json](./212275-japanese-escape-games-the-retro-house.json) |
 | Japanese Escape Games: The Room with Sturdy Door | 232465 | [232465-japanese-escape-games-the-room-with-sturdy-door.json](./232465-japanese-escape-games-the-room-with-sturdy-door.json) |
@@ -675,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juggles' Butterfly | 72105 | [72105-juggles-butterfly.json](./72105-juggles-butterfly.json) |
 | Juggling | 340778 | [340778-juggling.json](./340778-juggling.json) |
 | Juggling Jolt | 415883 | [415883-juggling-jolt.json](./415883-juggling-jolt.json) |
+| Juggling Seal | 385711 | [385711-juggling-seal.json](./385711-juggling-seal.json) |
 | JugiPaint | 105990 | [105990-jugipaint.json](./105990-jugipaint.json) |
 | Juglr | 382226 | [382226-juglr.json](./382226-juglr.json) |
 | Jugs Bay | 304618 | [304618-jugs-bay.json](./304618-jugs-bay.json) |
@@ -808,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Maths | 319585 | [319585-jungle-maths.json](./319585-jungle-maths.json) |
 | Jungle Monk | 78627 | [78627-jungle-monk.json](./78627-jungle-monk.json) |
 | Jungle no Ouja Tar-chan: Sekai Manyu Dai Kakutou no Maki | 38313 | [38313-jungle-no-ouja-tar-chan-sekai-manyu-dai-kakutou-no-maki.json](./38313-jungle-no-ouja-tar-chan-sekai-manyu-dai-kakutou-no-maki.json) |
+| Jungle Panic Amidahebi | 385745 | [385745-jungle-panic-amidahebi.json](./385745-jungle-panic-amidahebi.json) |
 | Jungle Quest | 230283 | [230283-jungle-quest.json](./230283-jungle-quest.json) |
 | Jungle Shadow | 374082 | [374082-jungle-shadow.json](./374082-jungle-shadow.json) |
 | Jungle Taitei | 353329 | [353329-jungle-taitei.json](./353329-jungle-taitei.json) |
