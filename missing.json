@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T11:04:04.127Z",
-  "total_missing": 69538,
+  "generated_at": "2026-09-14T11:11:38.331Z",
+  "total_missing": 69537,
   "games": [
     {
       "igdb_id": 306086,
@@ -4361,11 +4361,6 @@
       "igdb_id": 391046,
       "game_name": "Adventurer",
       "file": "missing/A/391046-adventurer.json"
-    },
-    {
-      "igdb_id": 357783,
-      "game_name": "Adventurer's Gate",
-      "file": "missing/A/357783-adventurers-gate.json"
     },
     {
       "igdb_id": 197371,
