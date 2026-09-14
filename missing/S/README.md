@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Science Papa | 21112 | [21112-science-papa.json](./21112-science-papa.json) |
 | Science Simulator | 159320 | [159320-science-simulator.json](./159320-science-simulator.json) |
 | Science Sleuths Vol. 1: Mysteries of the Blob and the Exploding Lawnmowers | 319017 | [319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json](./319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json) |
+| Science Trivia Quiz 100 Wonders | 409659 | [409659-science-trivia-quiz-100-wonders.json](./409659-science-trivia-quiz-100-wonders.json) |
 | Scientific Shutdown | 156123 | [156123-scientific-shutdown.json](./156123-scientific-shutdown.json) |
 | Scientific Terms Extreme | 107125 | [107125-scientific-terms-extreme.json](./107125-scientific-terms-extreme.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
@@ -6175,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoned | 352202 | [352202-stoned.json](./352202-stoned.json) |
 | Stonefly | 144171 | [144171-stonefly.json](./144171-stonefly.json) |
 | Stoneguard | 285983 | [285983-stoneguard.json](./285983-stoneguard.json) |
+| Stoneheart Archive | 409697 | [409697-stoneheart-archive.json](./409697-stoneheart-archive.json) |
 | Stonehenge VR | 33137 | [33137-stonehenge-vr.json](./33137-stonehenge-vr.json) |
 | Stonekeep | 253 | [253-stonekeep.json](./253-stonekeep.json) |
 | StoneSpace | 376436 | [376436-stonespace.json](./376436-stonespace.json) |
@@ -7674,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercharged! | 69241 | [69241-supercharged.json](./69241-supercharged.json) |
 | SuperCTF | 151123 | [151123-superctf.json](./151123-superctf.json) |
 | Superdimensional | 181381 | [181381-superdimensional.json](./181381-superdimensional.json) |
+| SuperDog | 409683 | [409683-superdog.json](./409683-superdog.json) |
 | Superfighter | 325272 | [325272-superfighter.json](./325272-superfighter.json) |
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
