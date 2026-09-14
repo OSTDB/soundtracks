@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of a Capitalist | 118407 | [118407-life-of-a-capitalist.json](./118407-life-of-a-capitalist.json) |
 | Life of a Lonely Indie Game Developer | 324888 | [324888-life-of-a-lonely-indie-game-developer.json](./324888-life-of-a-lonely-indie-game-developer.json) |
 | Life of a Thug | 306341 | [306341-life-of-a-thug.json](./306341-life-of-a-thug.json) |
+| Life of Delivery | 392246 | [392246-life-of-delivery.json](./392246-life-of-delivery.json) |
 | Life of Snow Wolf | 246981 | [246981-life-of-snow-wolf.json](./246981-life-of-snow-wolf.json) |
 | Life Simulator | 10959 | [10959-life-simulator.json](./10959-life-simulator.json) |
 | Life Simulator | 169945 | [169945-life-simulator.json](./169945-life-simulator.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Blitz | 58751 | [58751-ludo-blitz.json](./58751-ludo-blitz.json) |
 | Ludo Online | 89583 | [89583-ludo-online.json](./89583-ludo-online.json) |
 | Ludo Ultimate Online Dice Game | 91343 | [91343-ludo-ultimate-online-dice-game.json](./91343-ludo-ultimate-online-dice-game.json) |
+| Ludomalica | 392278 | [392278-ludomalica.json](./392278-ludomalica.json) |
 | Ludu | 26491 | [26491-ludu.json](./26491-ludu.json) |
 | Ludum Creare | 176981 | [176981-ludum-creare.json](./176981-ludum-creare.json) |
 | Ludus: A Gladiator Story | 411712 | [411712-ludus-a-gladiator-story.json](./411712-ludus-a-gladiator-story.json) |
