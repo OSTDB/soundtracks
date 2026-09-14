@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underfang | 399713 | [399713-underfang.json](./399713-underfang.json) |
 | Underfell Neutral Run | 335065 | [335065-underfell-neutral-run.json](./335065-underfell-neutral-run.json) |
 | Undergod | 276153 | [276153-undergod.json](./276153-undergod.json) |
+| Undergone: Before | 390658 | [390658-undergone-before.json](./390658-undergone-before.json) |
 | Underground | 195709 | [195709-underground.json](./195709-underground.json) |
 | Underground 2077 | 174858 | [174858-underground-2077.json](./174858-underground-2077.json) |
 | Underground Blossom | 246917 | [246917-underground-blossom.json](./246917-underground-blossom.json) |
