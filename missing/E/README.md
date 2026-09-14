@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eventide 3: Legacy of Legends | 68713 | [68713-eventide-3-legacy-of-legends.json](./68713-eventide-3-legacy-of-legends.json) |
 | Eventide Night | 28940 | [28940-eventide-night.json](./28940-eventide-night.json) |
 | Events | 339278 | [339278-events.json](./339278-events.json) |
+| Ever After Again: A Stories Adventure | 414459 | [414459-ever-after-again-a-stories-adventure.json](./414459-ever-after-again-a-stories-adventure.json) |
 | Ever Maiden: Daraku no Sono no Otome-tachi | 249497 | [249497-ever-maiden-daraku-no-sono-no-otome-tachi.json](./249497-ever-maiden-daraku-no-sono-no-otome-tachi.json) |
 | Ever Planet | 67290 | [67290-ever-planet.json](./67290-ever-planet.json) |
 | Everbee | 270130 | [270130-everbee.json](./270130-everbee.json) |
