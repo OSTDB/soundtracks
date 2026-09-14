@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
 | A Shooty Bit | 32977 | [32977-a-shooty-bit.json](./32977-a-shooty-bit.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
+| A Sirius Game | 34694 | [34694-a-sirius-game.json](./34694-a-sirius-game.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Slower Speed of Light | 18122 | [18122-a-slower-speed-of-light.json](./18122-a-slower-speed-of-light.json) |
 | A Snake's Tale | 43140 | [43140-a-snakes-tale.json](./43140-a-snakes-tale.json) |
@@ -345,7 +346,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Strategic Command | 63246 | [63246-advanced-strategic-command.json](./63246-advanced-strategic-command.json) |
 | Advancing Chess | 296352 | [296352-advancing-chess.json](./296352-advancing-chess.json) |
-| Advendows Calendar OS 2022 | 229038 | [229038-advendows-calendar-os-2022.json](./229038-advendows-calendar-os-2022.json) |
 | Advenger of Stuart | 236271 | [236271-advenger-of-stuart.json](./236271-advenger-of-stuart.json) |
 | Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Rain | 12251 | [12251-alien-rain.json](./12251-alien-rain.json) |
 | Alien Rampage | 46630 | [46630-alien-rampage.json](./46630-alien-rampage.json) |
 | Alien Resurrection | 44995 | [44995-alien-resurrection.json](./44995-alien-resurrection.json) |
+| Alien Robot Monsters | 34724 | [34724-alien-robot-monsters.json](./34724-alien-robot-monsters.json) |
 | Alien Shepherd | 190200 | [190200-alien-shepherd.json](./190200-alien-shepherd.json) |
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
 | Alien Shooter: The Experiment | 11090 | [11090-alien-shooter-the-experiment.json](./11090-alien-shooter-the-experiment.json) |
@@ -1814,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angrbotha Mountains | 239668 | [239668-angrbotha-mountains.json](./239668-angrbotha-mountains.json) |
 | Angriest Whopper Game | 237940 | [237940-angriest-whopper-game.json](./237940-angriest-whopper-game.json) |
 | Angry Angus | 224540 | [224540-angry-angus.json](./224540-angry-angus.json) |
+| Angry Arrows | 34755 | [34755-angry-arrows.json](./34755-angry-arrows.json) |
 | Angry Ball VR | 112961 | [112961-angry-ball-vr.json](./112961-angry-ball-vr.json) |
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
 | Angry Battalion | 330191 | [330191-angry-battalion.json](./330191-angry-battalion.json) |
@@ -2803,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: World War | 44994 | [44994-army-men-world-war.json](./44994-army-men-world-war.json) |
 | Army Men: World War - Final Front | 43948 | [43948-army-men-world-war-final-front.json](./43948-army-men-world-war-final-front.json) |
 | Army Moves | 11916 | [11916-army-moves.json](./11916-army-moves.json) |
+| Army of Pixels | 34757 | [34757-army-of-pixels.json](./34757-army-of-pixels.json) |
 | Army of Ruin | 219057 | [219057-army-of-ruin.json](./219057-army-of-ruin.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim - Halloween | 172178 | [172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json](./172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim 2 - DLC 2 | 254147 | [254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json](./254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json) |
@@ -3485,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
 | Auto Battle | 19338 | [19338-auto-battle.json](./19338-auto-battle.json) |
 | Auto Club Revolution | 80491 | [80491-auto-club-revolution.json](./80491-auto-club-revolution.json) |
+| Auto Dealership Tycoon | 34713 | [34713-auto-dealership-tycoon.json](./34713-auto-dealership-tycoon.json) |
 | Auto Hill Climb | 237658 | [237658-auto-hill-climb.json](./237658-auto-hill-climb.json) |
 | Auto Island | 159798 | [159798-auto-island.json](./159798-auto-island.json) |
 | Auto Race | 245572 | [245572-auto-race.json](./245572-auto-race.json) |
