@@ -168,6 +168,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echelon | 277845 | [277845-echelon.json](./277845-echelon.json) |
 | Echelon | 55093 | [55093-echelon.json](./55093-echelon.json) |
 | Echo | 177546 | [177546-echo.json](./177546-echo.json) |
+| Echo | 388923 | [388923-echo.json](./388923-echo.json) |
+| Echo | 388934 | [388934-echo.json](./388934-echo.json) |
 | Echo 9 | 410936 | [410936-echo-9.json](./410936-echo-9.json) |
 | Echo Chess | 316998 | [316998-echo-chess.json](./316998-echo-chess.json) |
 | Echo Flesh Metal | 303511 | [303511-echo-flesh-metal.json](./303511-echo-flesh-metal.json) |
@@ -952,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enthruxia | 179149 | [179149-enthruxia.json](./179149-enthruxia.json) |
 | Enthusia: Professional Racing | 19818 | [19818-enthusia-professional-racing.json](./19818-enthusia-professional-racing.json) |
 | Entity | 171620 | [171620-entity.json](./171620-entity.json) |
+| Entity Research Group | 388947 | [388947-entity-research-group.json](./388947-entity-research-group.json) |
 | Entity Researchers | 159260 | [159260-entity-researchers.json](./159260-entity-researchers.json) |
 | Entity: The Black Day | 260168 | [260168-entity-the-black-day.json](./260168-entity-the-black-day.json) |
 | Entomophobia | 195153 | [195153-entomophobia.json](./195153-entomophobia.json) |
@@ -1699,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
 | Exodus | 212237 | [212237-exodus.json](./212237-exodus.json) |
 | Exodus | 279621 | [279621-exodus.json](./279621-exodus.json) |
+| Exodus | 388931 | [388931-exodus.json](./388931-exodus.json) |
 | Exodus Idle | 211761 | [211761-exodus-idle.json](./211761-exodus-idle.json) |
 | Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
 | Exogenesis: The Erebus Cycle | 390518 | [390518-exogenesis-the-erebus-cycle.json](./390518-exogenesis-the-erebus-cycle.json) |
@@ -1754,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experimental Game Pack 01 | 62139 | [62139-experimental-game-pack-01.json](./62139-experimental-game-pack-01.json) |
 | Experimental Game Pack 01 | 80612 | [80612-experimental-game-pack-01.json](./80612-experimental-game-pack-01.json) |
 | Expert on Domestication | 152850 | [152850-expert-on-domestication.json](./152850-expert-on-domestication.json) |
+| Expiare | 388920 | [388920-expiare.json](./388920-expiare.json) |
 | Expiration | 171572 | [171572-expiration.json](./171572-expiration.json) |
 | Explo Bee | 233745 | [233745-explo-bee.json](./233745-explo-bee.json) |
 | Exploaris: Vermis story | 167837 | [167837-exploaris-vermis-story.json](./167837-exploaris-vermis-story.json) |
