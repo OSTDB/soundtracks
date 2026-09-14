@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absurd Trolley Problems | 267592 | [267592-absurd-trolley-problems.json](./267592-absurd-trolley-problems.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
 | Abunai Tengu Densetsu | 299786 | [299786-abunai-tengu-densetsu.json](./299786-abunai-tengu-densetsu.json) |
+| Abuse | 383503 | [383503-abuse.json](./383503-abuse.json) |
 | Abysm 2: Spirit Falcon | 201230 | [201230-abysm-2-spirit-falcon.json](./201230-abysm-2-spirit-falcon.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
 | Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
@@ -443,7 +444,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery VR: Little Bird Adventure | 356072 | [356072-aery-vr-little-bird-adventure.json](./356072-aery-vr-little-bird-adventure.json) |
 | Aery: Vikings | 199650 | [199650-aery-vikings.json](./199650-aery-vikings.json) |
 | Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
-| Aestha: The runner game | 232153 | [232153-aestha-the-runner-game.json](./232153-aestha-the-runner-game.json) |
 | Aesthetic Melody: Digital Deluxe Edition | 52575 | [52575-aesthetic-melody-digital-deluxe-edition.json](./52575-aesthetic-melody-digital-deluxe-edition.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | AeternoBlade II: Director's Rewind | 138202 | [138202-aeternoblade-ii-directors-rewind.json](./138202-aeternoblade-ii-directors-rewind.json) |
@@ -3185,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid King | 276700 | [276700-asteroid-king.json](./276700-asteroid-king.json) |
 | Asteroid Must Die! 2 | 178629 | [178629-asteroid-must-die-2.json](./178629-asteroid-must-die-2.json) |
 | Asteroid Next | 25705 | [25705-asteroid-next.json](./25705-asteroid-next.json) |
+| Asteroid Odyssey | 383510 | [383510-asteroid-odyssey.json](./383510-asteroid-odyssey.json) |
 | AsteRoid Rage | 211409 | [211409-asteroid-rage.json](./211409-asteroid-rage.json) |
 | Asteroid Sentinel | 297791 | [297791-asteroid-sentinel.json](./297791-asteroid-sentinel.json) |
 | Asteroid Wars | 116328 | [116328-asteroid-wars.json](./116328-asteroid-wars.json) |
