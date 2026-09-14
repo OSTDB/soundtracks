@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd\|\|Even | 33196 | [33196-odd-even.json](./33196-odd-even.json) |
 | Oddballz: Your Wacky Computer Petz | 78013 | [78013-oddballz-your-wacky-computer-petz.json](./78013-oddballz-your-wacky-computer-petz.json) |
 | Oddhop | 174368 | [174368-oddhop.json](./174368-oddhop.json) |
+| Oddinary Farm | 392291 | [392291-oddinary-farm.json](./392291-oddinary-farm.json) |
 | Odds at Oddity | 389986 | [389986-odds-at-oddity.json](./389986-odds-at-oddity.json) |
 | Oddsmaker | 255718 | [255718-oddsmaker.json](./255718-oddsmaker.json) |
 | Oddsparks: An Automation Adventure - Animal Costumes Pack | 366853 | [366853-oddsparks-an-automation-adventure-animal-costumes-pack.json](./366853-oddsparks-an-automation-adventure-animal-costumes-pack.json) |
@@ -705,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Way Flight | 33002 | [33002-one-way-flight.json](./33002-one-way-flight.json) |
 | One Way Heroics Plus | 147990 | [147990-one-way-heroics-plus.json](./147990-one-way-heroics-plus.json) |
 | One Way Home | 244491 | [244491-one-way-home.json](./244491-one-way-home.json) |
+| One Wee Robot | 392277 | [392277-one-wee-robot.json](./392277-one-wee-robot.json) |
 | One Week By Car | 209675 | [209675-one-week-by-car.json](./209675-one-week-by-car.json) |
 | One Word 2 by Powgi | 104620 | [104620-one-word-2-by-powgi.json](./104620-one-word-2-by-powgi.json) |
 | One Word by Powgi | 104621 | [104621-one-word-by-powgi.json](./104621-one-word-by-powgi.json) |
