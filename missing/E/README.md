@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember Point | 296349 | [296349-ember-point.json](./296349-ember-point.json) |
 | Ember's Verge | 324303 | [324303-embers-verge.json](./324303-embers-verge.json) |
 | Emberdrift | 290952 | [290952-emberdrift.json](./290952-emberdrift.json) |
+| Emberglade | 415895 | [415895-emberglade.json](./415895-emberglade.json) |
 | Emberheart | 129760 | [129760-emberheart.json](./129760-emberheart.json) |
 | Emberhold | 379876 | [379876-emberhold.json](./379876-emberhold.json) |
 | Embers | 291226 | [291226-embers.json](./291226-embers.json) |
