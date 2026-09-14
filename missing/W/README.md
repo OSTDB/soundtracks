@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
 | Wizards' Clash | 35738 | [35738-wizards-clash.json](./35738-wizards-clash.json) |
 | Wizavior | 255392 | [255392-wizavior.json](./255392-wizavior.json) |
+| WizBall | 415127 | [415127-wizball.json](./415127-wizball.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
 | Wizlite: Everybody loved RPGs | 304013 | [304013-wizlite-everybody-loved-rpgs.json](./304013-wizlite-everybody-loved-rpgs.json) |
 | WizUp! | 290917 | [290917-wizup.json](./290917-wizup.json) |
@@ -1811,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of relish | 127251 | [127251-world-of-relish.json](./127251-world-of-relish.json) |
 | World of Retailing | 193472 | [193472-world-of-retailing.json](./193472-world-of-retailing.json) |
 | World of Sea Battle | 59962 | [59962-world-of-sea-battle.json](./59962-world-of-sea-battle.json) |
+| World of Slime | 415114 | [415114-world-of-slime.json](./415114-world-of-slime.json) |
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
 | World of Subways Vol.3: Circle Line | 79924 | [79924-world-of-subways-vol-3-circle-line.json](./79924-world-of-subways-vol-3-circle-line.json) |
 | World of Subways: Volume 1 - The Path | 36284 | [36284-world-of-subways-volume-1-the-path.json](./36284-world-of-subways-volume-1-the-path.json) |
