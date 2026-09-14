@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Lime | 210633 | [210633-pastel-lime.json](./210633-pastel-lime.json) |
 | Pastor | 411604 | [411604-pastor.json](./411604-pastor.json) |
 | Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
+| Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
 | Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
 | Patapon 2 | 7813 | [7813-patapon-2.json](./7813-patapon-2.json) |
@@ -2852,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Escape | 204088 | [204088-pretty-girls-escape.json](./204088-pretty-girls-escape.json) |
 | Pretty Girls Four Kings Solitaire | 195797 | [195797-pretty-girls-four-kings-solitaire.json](./195797-pretty-girls-four-kings-solitaire.json) |
 | Pretty Girls Mahjong Solitaire | 34716 | [34716-pretty-girls-mahjong-solitaire.json](./34716-pretty-girls-mahjong-solitaire.json) |
+| Pretty Girls Panic! | 30181 | [30181-pretty-girls-panic.json](./30181-pretty-girls-panic.json) |
 | Pretty girls teach beefy guys | 161329 | [161329-pretty-girls-teach-beefy-guys.json](./161329-pretty-girls-teach-beefy-guys.json) |
 | Pretty Good Solitaire | 89241 | [89241-pretty-good-solitaire.json](./89241-pretty-good-solitaire.json) |
 | Pretty Neko | 159243 | [159243-pretty-neko.json](./159243-pretty-neko.json) |
@@ -3855,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyratel | 308239 | [308239-pyratel.json](./308239-pyratel.json) |
 | Pyrite Heart | 17860 | [17860-pyrite-heart.json](./17860-pyrite-heart.json) |
 | Pyro Complete Bundle | 218460 | [218460-pyro-complete-bundle.json](./218460-pyro-complete-bundle.json) |
+| Pyro VR | 29602 | [29602-pyro-vr.json](./29602-pyro-vr.json) |
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrrhic Tales: Prelude to Darkness | 70347 | [70347-pyrrhic-tales-prelude-to-darkness.json](./70347-pyrrhic-tales-prelude-to-darkness.json) |
