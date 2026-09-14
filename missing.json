@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T20:35:17.196Z",
-  "total_missing": 71134,
+  "generated_at": "2026-09-14T20:41:38.509Z",
+  "total_missing": 71133,
   "games": [
     {
       "igdb_id": 306086,
@@ -4686,11 +4686,6 @@
       "igdb_id": 124175,
       "game_name": "Aeronaut",
       "file": "missing/A/124175-aeronaut.json"
-    },
-    {
-      "igdb_id": 132207,
-      "game_name": "Aeronautica Imperialis: Flight Command",
-      "file": "missing/A/132207-aeronautica-imperialis-flight-command.json"
     },
     {
       "igdb_id": 249483,
