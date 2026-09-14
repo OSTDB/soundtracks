@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom: The Blood Pledge | 226759 | [226759-kingdom-the-blood-pledge.json](./226759-kingdom-the-blood-pledge.json) |
 | Kingdom's Gambit | 264038 | [264038-kingdoms-gambit.json](./264038-kingdoms-gambit.json) |
 | Kingdom's Life | 189177 | [189177-kingdoms-life.json](./189177-kingdoms-life.json) |
+| Kingdom's Return: Time-Eating Fruit and the Ancient Monster - "Azure Striker Gunvolt" Crossover Character Skin | 395690 | [395690-kingdoms-return-time-eating-fruit-and-the-ancient-monster-azure-striker-gunvolt-crossover-character-skin.json](./395690-kingdoms-return-time-eating-fruit-and-the-ancient-monster-azure-striker-gunvolt-crossover-character-skin.json) |
 | KingdomDefense | 172102 | [172102-kingdomdefense.json](./172102-kingdomdefense.json) |
 | Kingdomfall | 169401 | [169401-kingdomfall.json](./169401-kingdomfall.json) |
 | Kingdomino | 338728 | [338728-kingdomino.json](./338728-kingdomino.json) |
@@ -839,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby and the Rainbow Curse | 7338 | [7338-kirby-and-the-rainbow-curse.json](./7338-kirby-and-the-rainbow-curse.json) |
 | Kirby Bowl 64 | 298858 | [298858-kirby-bowl-64.json](./298858-kirby-bowl-64.json) |
 | Kirby Family | 248070 | [248070-kirby-family.json](./248070-kirby-family.json) |
+| Kirby Gamble Galaxy Stories: The Future | 395702 | [395702-kirby-gamble-galaxy-stories-the-future.json](./395702-kirby-gamble-galaxy-stories-the-future.json) |
 | Kirby in Sonic the Hedgehog | 198524 | [198524-kirby-in-sonic-the-hedgehog.json](./198524-kirby-in-sonic-the-hedgehog.json) |
 | Kirby in Sonic the Hedgehog 2 | 198531 | [198531-kirby-in-sonic-the-hedgehog-2.json](./198531-kirby-in-sonic-the-hedgehog-2.json) |
 | Kirby Mass Attack | 3724 | [3724-kirby-mass-attack.json](./3724-kirby-mass-attack.json) |
