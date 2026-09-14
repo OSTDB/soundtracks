@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T04:21:29.819Z",
-  "total_missing": 68438,
+  "generated_at": "2026-09-14T04:31:39.169Z",
+  "total_missing": 68447,
   "games": [
     {
       "igdb_id": 306086,
@@ -3673,6 +3673,11 @@
       "file": "missing/A/44596-acceleration-of-suguri-x-edition.json"
     },
     {
+      "igdb_id": 30251,
+      "game_name": "Acceleration of Suguri: X-Edition HD",
+      "file": "missing/A/30251-acceleration-of-suguri-x-edition-hd.json"
+    },
+    {
       "igdb_id": 174269,
       "game_name": "Access Code Zero",
       "file": "missing/A/174269-access-code-zero.json"
@@ -4161,11 +4166,6 @@
       "igdb_id": 249451,
       "game_name": "Adventure Ball 3D Balancer",
       "file": "missing/A/249451-adventure-ball-3d-balancer.json"
-    },
-    {
-      "igdb_id": 230536,
-      "game_name": "Adventure Beaks",
-      "file": "missing/A/230536-adventure-beaks.json"
     },
     {
       "igdb_id": 339128,
@@ -27338,6 +27338,11 @@
       "file": "missing/B/305789-beatrider.json"
     },
     {
+      "igdb_id": 30173,
+      "game_name": "Beats Fever",
+      "file": "missing/B/30173-beats-fever.json"
+    },
+    {
       "igdb_id": 127181,
       "game_name": "Beats of Fury",
       "file": "missing/B/127181-beats-of-fury.json"
@@ -41758,6 +41763,11 @@
       "file": "missing/C/81236-calculator360.json"
     },
     {
+      "igdb_id": 30249,
+      "game_name": "Calibre 10 Racing",
+      "file": "missing/C/30249-calibre-10-racing.json"
+    },
+    {
       "igdb_id": 28793,
       "game_name": "Calico & Co",
       "file": "missing/C/28793-calico-and-co.json"
@@ -49741,6 +49751,11 @@
       "igdb_id": 276697,
       "game_name": "Christmas Runner",
       "file": "missing/C/276697-christmas-runner.json"
+    },
+    {
+      "igdb_id": 30202,
+      "game_name": "Christmas Stories: Nutcracker - Collector's Edition",
+      "file": "missing/C/30202-christmas-stories-nutcracker-collectors-edition.json"
     },
     {
       "igdb_id": 57126,
@@ -90483,6 +90498,11 @@
       "file": "missing/E/23927-evertales.json"
     },
     {
+      "igdb_id": 30187,
+      "game_name": "Evertree Inn",
+      "file": "missing/E/30187-evertree-inn.json"
+    },
+    {
       "igdb_id": 275578,
       "game_name": "Everwarder",
       "file": "missing/E/275578-everwarder.json"
@@ -112598,6 +112618,11 @@
       "file": "missing/G/8744-global-operations.json"
     },
     {
+      "igdb_id": 30254,
+      "game_name": "Global Outbreak: Doomsday Edition",
+      "file": "missing/G/30254-global-outbreak-doomsday-edition.json"
+    },
+    {
       "igdb_id": 326414,
       "game_name": "Global Shipping Simulator",
       "file": "missing/G/326414-global-shipping-simulator.json"
@@ -117666,6 +117691,11 @@
       "igdb_id": 84255,
       "game_name": "Ground Attack",
       "file": "missing/G/84255-ground-attack.json"
+    },
+    {
+      "igdb_id": 30240,
+      "game_name": "Ground Control Anthology",
+      "file": "missing/G/30240-ground-control-anthology.json"
     },
     {
       "igdb_id": 204436,
@@ -217293,6 +217323,11 @@
       "file": "missing/P/34716-pretty-girls-mahjong-solitaire.json"
     },
     {
+      "igdb_id": 30181,
+      "game_name": "Pretty Girls Panic!",
+      "file": "missing/P/30181-pretty-girls-panic.json"
+    },
+    {
       "igdb_id": 161329,
       "game_name": "Pretty girls teach beefy guys",
       "file": "missing/P/161329-pretty-girls-teach-beefy-guys.json"
@@ -288163,6 +288198,11 @@
       "file": "missing/T/268469-the-crypts.json"
     },
     {
+      "igdb_id": 30188,
+      "game_name": "The Crypts of Anak Shaba",
+      "file": "missing/T/30188-the-crypts-of-anak-shaba.json"
+    },
+    {
       "igdb_id": 152273,
       "game_name": "The Crystal Golem",
       "file": "missing/T/152273-the-crystal-golem.json"
@@ -325251,6 +325291,11 @@
       "igdb_id": 81115,
       "game_name": "VR Mini Bowling",
       "file": "missing/V/81115-vr-mini-bowling.json"
+    },
+    {
+      "igdb_id": 30176,
+      "game_name": "VR Monster Awakens",
+      "file": "missing/V/30176-vr-monster-awakens.json"
     },
     {
       "igdb_id": 316410,
