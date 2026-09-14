@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violence Fight | 39608 | [39608-violence-fight.json](./39608-violence-fight.json) |
 | Violent Agent | 189206 | [189206-violent-agent.json](./189206-violent-agent.json) |
 | Violent Cheese Crusader | 183531 | [183531-violent-cheese-crusader.json](./183531-violent-cheese-crusader.json) |
+| Violent Vectors | 68872 | [68872-violent-vectors.json](./68872-violent-vectors.json) |
 | Violent Vengeance: The Universe Hero | 365667 | [365667-violent-vengeance-the-universe-hero.json](./365667-violent-vengeance-the-universe-hero.json) |
 | Violent Witches: the Vindicator | 158188 | [158188-violent-witches-the-vindicator.json](./158188-violent-witches-the-vindicator.json) |
 | Violentolitin | 201787 | [201787-violentolitin.json](./201787-violentolitin.json) |
