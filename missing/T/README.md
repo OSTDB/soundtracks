@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 131530 | [131530-tennis.json](./131530-tennis.json) |
 | Tennis | 131536 | [131536-tennis.json](./131536-tennis.json) |
 | Tennis Antics | 54426 | [54426-tennis-antics.json](./54426-tennis-antics.json) |
+| Tennis Arcade VR | 81001 | [81001-tennis-arcade-vr.json](./81001-tennis-arcade-vr.json) |
 | Tennis Challenge | 230845 | [230845-tennis-challenge.json](./230845-tennis-challenge.json) |
 | Tennis Champs Returns | 58823 | [58823-tennis-champs-returns.json](./58823-tennis-champs-returns.json) |
 | Tennis Club Story | 134020 | [134020-tennis-club-story.json](./134020-tennis-club-story.json) |
@@ -2042,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End: Inari's Quest | 77737 | [77737-the-end-inaris-quest.json](./77737-the-end-inaris-quest.json) |
 | The Endless Adventure | 165686 | [165686-the-endless-adventure.json](./165686-the-endless-adventure.json) |
 | The Endless Express | 26669 | [26669-the-endless-express.json](./26669-the-endless-express.json) |
+| The Endless Journey | 81068 | [81068-the-endless-journey.json](./81068-the-endless-journey.json) |
 | The Endless Village | 401522 | [401522-the-endless-village.json](./401522-the-endless-village.json) |
 | The Enforcer | 60493 | [60493-the-enforcer.json](./60493-the-enforcer.json) |
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
@@ -3069,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
 | The Mercer Slough and You | 145622 | [145622-the-mercer-slough-and-you.json](./145622-the-mercer-slough-and-you.json) |
+| The Mercury Man | 80879 | [80879-the-mercury-man.json](./80879-the-mercury-man.json) |
 | The Mermaid Mask | 279369 | [279369-the-mermaid-mask.json](./279369-the-mermaid-mask.json) |
 | The Mesh | 88259 | [88259-the-mesh.json](./88259-the-mesh.json) |
 | The Message | 170458 | [170458-the-message.json](./170458-the-message.json) |
@@ -3312,6 +3315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pepper Prince: Prologue | 302135 | [302135-the-pepper-prince-prologue.json](./302135-the-pepper-prince-prologue.json) |
 | The Perfect Garden | 211923 | [211923-the-perfect-garden.json](./211923-the-perfect-garden.json) |
 | The Perfect Shape | 158713 | [158713-the-perfect-shape.json](./158713-the-perfect-shape.json) |
+| The Perfect Sniper | 81012 | [81012-the-perfect-sniper.json](./81012-the-perfect-sniper.json) |
 | The Perfect Tower II | 149572 | [149572-the-perfect-tower-ii.json](./149572-the-perfect-tower-ii.json) |
 | The Perfect Tree | 89697 | [89697-the-perfect-tree.json](./89697-the-perfect-tree.json) |
 | The Perils of Willy | 62218 | [62218-the-perils-of-willy.json](./62218-the-perils-of-willy.json) |
@@ -6696,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Punk: Deluxe Edition | 287122 | [287122-trash-punk-deluxe-edition.json](./287122-trash-punk-deluxe-edition.json) |
 | Trash Punk: Extended Edition | 298575 | [298575-trash-punk-extended-edition.json](./298575-trash-punk-extended-edition.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
+| Trash Squad | 81157 | [81157-trash-squad.json](./81157-trash-squad.json) |
 | Trash Troopers: Earth Reclaim | 273933 | [273933-trash-troopers-earth-reclaim.json](./273933-trash-troopers-earth-reclaim.json) |
 | Trashcan Simulator | 329594 | [329594-trashcan-simulator.json](./329594-trashcan-simulator.json) |
 | Trashman | 23054 | [23054-trashman.json](./23054-trashman.json) |
