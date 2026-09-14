@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obcidian Legacy | 30004 | [30004-obcidian-legacy.json](./30004-obcidian-legacy.json) |
 | Obenseuer | 111983 | [111983-obenseuer.json](./111983-obenseuer.json) |
 | Obey the Law | 163983 | [163983-obey-the-law.json](./163983-obey-the-law.json) |
+| Obey the Voice | 386276 | [386276-obey-the-voice.json](./386276-obey-the-voice.json) |
 | OBJ VR | 309376 | [309376-obj-vr.json](./309376-obj-vr.json) |
 | Object "Cleaning" | 83568 | [83568-object-cleaning.json](./83568-object-cleaning.json) |
 | Oblako | 394373 | [394373-oblako.json](./394373-oblako.json) |
@@ -108,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octavio Camacho | 247537 | [247537-octavio-camacho.json](./247537-octavio-camacho.json) |
 | Octillery Vs. Collection | 399055 | [399055-octillery-vs-collection.json](./399055-octillery-vs-collection.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
+| Octodad Shorts | 382904 | [382904-octodad-shorts.json](./382904-octodad-shorts.json) |
 | Octofight Escape | 180250 | [180250-octofight-escape.json](./180250-octofight-escape.json) |
 | OctoFurry | 128971 | [128971-octofurry.json](./128971-octofurry.json) |
 | Octogram | 265686 | [265686-octogram.json](./265686-octogram.json) |
@@ -776,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Climber 2 | 315279 | [315279-only-climber-2.json](./315279-only-climber-2.json) |
 | Only Cum! | 259282 | [259282-only-cum.json](./259282-only-cum.json) |
 | Only Down! | 257379 | [257379-only-down.json](./257379-only-down.json) |
+| Only Faces Remain | 382917 | [382917-only-faces-remain.json](./382917-only-faces-remain.json) |
 | Only Girl in High School | 223998 | [223998-only-girl-in-high-school.json](./223998-only-girl-in-high-school.json) |
 | Only Jump | 413644 | [413644-only-jump.json](./413644-only-jump.json) |
 | Only Kitty Cat Up | 395669 | [395669-only-kitty-cat-up.json](./395669-only-kitty-cat-up.json) |
