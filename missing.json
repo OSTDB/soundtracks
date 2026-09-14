@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T15:04:17.532Z",
-  "total_missing": 70182,
+  "generated_at": "2026-09-14T15:11:55.513Z",
+  "total_missing": 70181,
   "games": [
     {
       "igdb_id": 306086,
@@ -4481,11 +4481,6 @@
       "igdb_id": 125943,
       "game_name": "Aëdemphia",
       "file": "missing/A/125943-aedemphia.json"
-    },
-    {
-      "igdb_id": 141252,
-      "game_name": "Aefen Fall",
-      "file": "missing/A/141252-aefen-fall.json"
     },
     {
       "igdb_id": 216463,
