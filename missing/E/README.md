@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes | 303503 | [303503-echoes.json](./303503-echoes.json) |
 | Echoes | 91392 | [91392-echoes.json](./91392-echoes.json) |
 | Echoes Afterfall | 303513 | [303513-echoes-afterfall.json](./303513-echoes-afterfall.json) |
+| Echoes Beyond the Stars | 386304 | [386304-echoes-beyond-the-stars.json](./386304-echoes-beyond-the-stars.json) |
 | Echoes From Ciudadela | 387335 | [387335-echoes-from-ciudadela.json](./387335-echoes-from-ciudadela.json) |
 | Echoes from the Abyss | 309135 | [309135-echoes-from-the-abyss.json](./309135-echoes-from-the-abyss.json) |
 | Echoes Ⅱ | 303505 | [303505-echoes-ii.json](./303505-echoes-ii.json) |
@@ -224,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of You | 252365 | [252365-echoes-of-you.json](./252365-echoes-of-you.json) |
 | Echoes of You | 306346 | [306346-echoes-of-you.json](./306346-echoes-of-you.json) |
 | Echoes: Operation Stranglehold | 334666 | [334666-echoes-operation-stranglehold.json](./334666-echoes-operation-stranglehold.json) |
+| EchoEvade | 386295 | [386295-echoevade.json](./386295-echoevade.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
 | EchtegP | 254789 | [254789-echtegp.json](./254789-echtegp.json) |
 | Ecila | 257392 | [257392-ecila.json](./257392-ecila.json) |
@@ -746,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
 | Empyrion - Galactic Survival: Complete Edition | 371228 | [371228-empyrion-galactic-survival-complete-edition.json](./371228-empyrion-galactic-survival-complete-edition.json) |
+| EmuDevz | 386285 | [386285-emudevz.json](./386285-emudevz.json) |
 | En Passant | 234059 | [234059-en-passant.json](./234059-en-passant.json) |
 | En-Fem-E No. 9: Reborn | 195780 | [195780-en-fem-e-no-9-reborn.json](./195780-en-fem-e-no-9-reborn.json) |
 | En-Fem-E No. 9: The Factory | 288226 | [288226-en-fem-e-no-9-the-factory.json](./288226-en-fem-e-no-9-the-factory.json) |
@@ -757,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enceladus | 75049 | [75049-enceladus.json](./75049-enceladus.json) |
 | Enchantasy: The Quest for the Eternal Grimoire | 356657 | [356657-enchantasy-the-quest-for-the-eternal-grimoire.json](./356657-enchantasy-the-quest-for-the-eternal-grimoire.json) |
 | Enchanted | 13641 | [13641-enchanted.json](./13641-enchanted.json) |
+| Enchanted Broom | 384071 | [384071-enchanted-broom.json](./384071-enchanted-broom.json) |
 | Enchanted Fairy Friends: Secret of the Fairy Queen | 68031 | [68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json](./68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json) |
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo DLC Pack | 238188 | [238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json](./238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json) |
