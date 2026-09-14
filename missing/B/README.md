@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic Tanks | 32327 | [32327-ballistic-tanks.json](./32327-ballistic-tanks.json) |
 | BallisticNG | 32640 | [32640-ballisticng.json](./32640-ballisticng.json) |
 | BallisticNG: Outer Reaches | 167304 | [167304-ballisticng-outer-reaches.json](./167304-ballisticng-outer-reaches.json) |
+| Balloball: Ribbit & Rescue | 388214 | [388214-balloball-ribbit-and-rescue.json](./388214-balloball-ribbit-and-rescue.json) |
 | Ballochet 3 | 79272 | [79272-ballochet-3.json](./79272-ballochet-3.json) |
 | Balloon Challenge | 57632 | [57632-balloon-challenge.json](./57632-balloon-challenge.json) |
 | Balloon Chess | 339097 | [339097-balloon-chess.json](./339097-balloon-chess.json) |
@@ -381,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballotron Oceans | 231345 | [231345-ballotron-oceans.json](./231345-ballotron-oceans.json) |
 | Ballpoint Universe: Infinite | 16770 | [16770-ballpoint-universe-infinite.json](./16770-ballpoint-universe-infinite.json) |
 | BallRoll | 189184 | [189184-ballroll.json](./189184-ballroll.json) |
+| Ballroom Banter | 388235 | [388235-ballroom-banter.json](./388235-ballroom-banter.json) |
 | Balls 'n Ropes | 233507 | [233507-balls-n-ropes.json](./233507-balls-n-ropes.json) |
 | Balls and Dungeons | 189127 | [189127-balls-and-dungeons.json](./189127-balls-and-dungeons.json) |
 | Balls and Magnets | 83538 | [83538-balls-and-magnets.json](./83538-balls-and-magnets.json) |
