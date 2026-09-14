@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
 | Red Riding Hood | 179695 | [179695-red-riding-hood.json](./179695-red-riding-hood.json) |
 | Red Riding Hood | 225309 | [225309-red-riding-hood.json](./225309-red-riding-hood.json) |
+| Red Riding Hood: Star Crossed Lovers | 96880 | [96880-red-riding-hood-star-crossed-lovers.json](./96880-red-riding-hood-star-crossed-lovers.json) |
 | Red Rope: Don't Fall Behind + | 147950 | [147950-red-rope-dont-fall-behind.json](./147950-red-rope-dont-fall-behind.json) |
 | Red Rose Rising | 102202 | [102202-red-rose-rising.json](./102202-red-rose-rising.json) |
 | Red Sea Crossing | 40773 | [40773-red-sea-crossing.json](./40773-red-sea-crossing.json) |
@@ -1439,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revery Rebirth | 121619 | [121619-revery-rebirth.json](./121619-revery-rebirth.json) |
 | Rêves: Lettres et Ciel | 228423 | [228423-reves-lettres-et-ciel.json](./228423-reves-lettres-et-ciel.json) |
 | Revhead | 26728 | [26728-revhead.json](./26728-revhead.json) |
+| Review: Jashin Fukkatsu | 97233 | [97233-review-jashin-fukkatsu.json](./97233-review-jashin-fukkatsu.json) |
 | Revival and Exploration | 252130 | [252130-revival-and-exploration.json](./252130-revival-and-exploration.json) |
 | Revival AO | 212245 | [212245-revival-ao.json](./212245-revival-ao.json) |
 | Revival of the Road | 83496 | [83496-revival-of-the-road.json](./83496-revival-of-the-road.json) |
@@ -2801,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushmith | 331877 | [331877-rushmith.json](./331877-rushmith.json) |
 | Rushuzen | 306362 | [306362-rushuzen.json](./306362-rushuzen.json) |
 | Ruslicstan Invades | 238497 | [238497-ruslicstan-invades.json](./238497-ruslicstan-invades.json) |
+| Russian AYE Horror | 96887 | [96887-russian-aye-horror.json](./96887-russian-aye-horror.json) |
 | Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
 | Russian Car Driver: UAZ Hunter | 255752 | [255752-russian-car-driver-uaz-hunter.json](./255752-russian-car-driver-uaz-hunter.json) |
 | Russian Driver | 197376 | [197376-russian-driver.json](./197376-russian-driver.json) |
