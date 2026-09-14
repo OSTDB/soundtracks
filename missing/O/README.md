@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Boy Cheese Remastered | 341503 | [341503-oh-boy-cheese-remastered.json](./341503-oh-boy-cheese-remastered.json) |
 | Oh Frog | 132242 | [132242-oh-frog.json](./132242-oh-frog.json) |
 | Oh Jeez, Oh No, My Rabbits Are Gone! | 127201 | [127201-oh-jeez-oh-no-my-rabbits-are-gone.json](./127201-oh-jeez-oh-no-my-rabbits-are-gone.json) |
+| Oh Jellies! | 398442 | [398442-oh-jellies.json](./398442-oh-jellies.json) |
 | Oh My Cod!!: We Mer-Made For Each Other! | 302119 | [302119-oh-my-cod-we-mer-made-for-each-other.json](./302119-oh-my-cod-we-mer-made-for-each-other.json) |
 | Oh My Goat | 51172 | [51172-oh-my-goat.json](./51172-oh-my-goat.json) |
 | Oh My God, Look At This Knight | 76640 | [76640-oh-my-god-look-at-this-knight.json](./76640-oh-my-god-look-at-this-knight.json) |
