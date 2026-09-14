@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T20:41:38.509Z",
-  "total_missing": 71133,
+  "generated_at": "2026-09-14T20:49:05.604Z",
+  "total_missing": 71183,
   "games": [
     {
       "igdb_id": 306086,
@@ -3206,6 +3206,11 @@
       "igdb_id": 43140,
       "game_name": "A Snake's Tale",
       "file": "missing/A/43140-a-snakes-tale.json"
+    },
+    {
+      "igdb_id": 385712,
+      "game_name": "A Soldier's Struggle",
+      "file": "missing/A/385712-a-soldiers-struggle.json"
     },
     {
       "igdb_id": 217332,
@@ -50473,6 +50478,11 @@
       "file": "missing/C/86430-chinese-parents.json"
     },
     {
+      "igdb_id": 385728,
+      "game_name": "Chinese PigLoad",
+      "file": "missing/C/385728-chinese-pigload.json"
+    },
+    {
       "igdb_id": 90614,
       "game_name": "Chinese Souls: Hua Garden",
       "file": "missing/C/90614-chinese-souls-hua-garden.json"
@@ -63973,6 +63983,11 @@
       "file": "missing/C/35678-curse-of-mermos.json"
     },
     {
+      "igdb_id": 385753,
+      "game_name": "Curse of Silence",
+      "file": "missing/C/385753-curse-of-silence.json"
+    },
+    {
       "igdb_id": 2461,
       "game_name": "Curse of the Azure Bonds",
       "file": "missing/C/2461-curse-of-the-azure-bonds.json"
@@ -72261,6 +72276,11 @@
       "igdb_id": 13588,
       "game_name": "Dempsey and Makepeace",
       "file": "missing/D/13588-dempsey-and-makepeace.json"
+    },
+    {
+      "igdb_id": 385700,
+      "game_name": "Demra: Rifts of War",
+      "file": "missing/D/385700-demra-rifts-of-war.json"
     },
     {
       "igdb_id": 303471,
@@ -111218,6 +111238,11 @@
       "file": "missing/F/206943-fushigi-no-gensoukyou-another-face.json"
     },
     {
+      "igdb_id": 385710,
+      "game_name": "Fushigi no Umi no Nadia: Gekichin! Garfish",
+      "file": "missing/F/385710-fushigi-no-umi-no-nadia-gekichin-garfish.json"
+    },
+    {
       "igdb_id": 66157,
       "game_name": "Fushigi no Yume no Alice",
       "file": "missing/F/66157-fushigi-no-yume-no-alice.json"
@@ -115246,6 +115271,11 @@
       "igdb_id": 21019,
       "game_name": "Germinator",
       "file": "missing/G/21019-germinator.json"
+    },
+    {
+      "igdb_id": 385726,
+      "game_name": "Gerry Anderson's Thunderbirds: Shutsudou Thunderbird 2-gou",
+      "file": "missing/G/385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json"
     },
     {
       "igdb_id": 26464,
@@ -127813,6 +127843,11 @@
       "file": "missing/H/91383-headshot.json"
     },
     {
+      "igdb_id": 385699,
+      "game_name": "Headspace",
+      "file": "missing/H/385699-headspace.json"
+    },
+    {
       "igdb_id": 134664,
       "game_name": "Headspun: Dazed Edition",
       "file": "missing/H/134664-headspun-dazed-edition.json"
@@ -131178,6 +131213,11 @@
       "file": "missing/H/183027-heroxtrio.json"
     },
     {
+      "igdb_id": 385749,
+      "game_name": "Herpit",
+      "file": "missing/H/385749-herpit.json"
+    },
+    {
       "igdb_id": 224233,
       "game_name": "HerrAnwalt: Lawyers Legacy",
       "file": "missing/H/224233-herranwalt-lawyers-legacy.json"
@@ -133281,6 +133321,11 @@
       "igdb_id": 137100,
       "game_name": "Hissatsu Pachinko Station V2",
       "file": "missing/H/137100-hissatsu-pachinko-station-v2.json"
+    },
+    {
+      "igdb_id": 385747,
+      "game_name": "Hissatsu Shaolin-ji",
+      "file": "missing/H/385747-hissatsu-shaolin-ji.json"
     },
     {
       "igdb_id": 60509,
@@ -138013,6 +138058,11 @@
       "file": "missing/H/301609-hyouji-gazou-henkou-kanou-typing.json"
     },
     {
+      "igdb_id": 385741,
+      "game_name": "Hyoukin Kyoushitsu",
+      "file": "missing/H/385741-hyoukin-kyoushitsu.json"
+    },
+    {
       "igdb_id": 298844,
       "game_name": "Hyouryuu-ki: The Reportage Beyond the Sea",
       "file": "missing/H/298844-hyouryuu-ki-the-reportage-beyond-the-sea.json"
@@ -138098,6 +138148,16 @@
       "file": "missing/H/200711-hyper-mari-world-6.json"
     },
     {
+      "igdb_id": 385738,
+      "game_name": "Hyper Olympic: Challenge 5",
+      "file": "missing/H/385738-hyper-olympic-challenge-5.json"
+    },
+    {
+      "igdb_id": 385734,
+      "game_name": "Hyper Olympic: Jumping Type",
+      "file": "missing/H/385734-hyper-olympic-jumping-type.json"
+    },
+    {
       "igdb_id": 222323,
       "game_name": "Hyper Paddle Block Rusher",
       "file": "missing/H/222323-hyper-paddle-block-rusher.json"
@@ -138136,6 +138196,11 @@
       "igdb_id": 103438,
       "game_name": "Hyper Simon X",
       "file": "missing/H/103438-hyper-simon-x.json"
+    },
+    {
+      "igdb_id": 385739,
+      "game_name": "Hyper Ski",
+      "file": "missing/H/385739-hyper-ski.json"
     },
     {
       "igdb_id": 6115,
@@ -139391,6 +139456,11 @@
       "igdb_id": 220879,
       "game_name": "I-Chu",
       "file": "missing/I/220879-i-chu.json"
+    },
+    {
+      "igdb_id": 385701,
+      "game_name": "I-Kiribati Dominatrixes Are the Best",
+      "file": "missing/I/385701-i-kiribati-dominatrixes-are-the-best.json"
     },
     {
       "igdb_id": 229665,
@@ -140791,6 +140861,11 @@
       "igdb_id": 55899,
       "game_name": "Iga Ninden Ga-ou",
       "file": "missing/I/55899-iga-ninden-ga-ou.json"
+    },
+    {
+      "igdb_id": 385742,
+      "game_name": "Iga tai Kouga",
+      "file": "missing/I/385742-iga-tai-kouga.json"
     },
     {
       "igdb_id": 136419,
@@ -142441,6 +142516,11 @@
       "igdb_id": 211763,
       "game_name": "IndividuaLand",
       "file": "missing/I/211763-individualand.json"
+    },
+    {
+      "igdb_id": 385705,
+      "game_name": "Indonesian Dominatrixes Are the Best",
+      "file": "missing/I/385705-indonesian-dominatrixes-are-the-best.json"
     },
     {
       "igdb_id": 175338,
@@ -147558,6 +147638,11 @@
       "file": "missing/J/340767-japan-trip.json"
     },
     {
+      "igdb_id": 385702,
+      "game_name": "Japanese Dominatrixes Are the Best",
+      "file": "missing/J/385702-japanese-dominatrixes-are-the-best.json"
+    },
+    {
       "igdb_id": 209690,
       "game_name": "Japanese Escape Games: The Hotel of Tricks",
       "file": "missing/J/209690-japanese-escape-games-the-hotel-of-tricks.json"
@@ -150078,6 +150163,11 @@
       "file": "missing/J/415883-juggling-jolt.json"
     },
     {
+      "igdb_id": 385711,
+      "game_name": "Juggling Seal",
+      "file": "missing/J/385711-juggling-seal.json"
+    },
+    {
       "igdb_id": 105990,
       "game_name": "JugiPaint",
       "file": "missing/J/105990-jugipaint.json"
@@ -150741,6 +150831,11 @@
       "igdb_id": 38313,
       "game_name": "Jungle no Ouja Tar-chan: Sekai Manyu Dai Kakutou no Maki",
       "file": "missing/J/38313-jungle-no-ouja-tar-chan-sekai-manyu-dai-kakutou-no-maki.json"
+    },
+    {
+      "igdb_id": 385745,
+      "game_name": "Jungle Panic Amidahebi",
+      "file": "missing/J/385745-jungle-panic-amidahebi.json"
     },
     {
       "igdb_id": 230283,
@@ -151623,6 +151718,11 @@
       "file": "missing/K/311827-kafkaesque-the-nightmare-trial.json"
     },
     {
+      "igdb_id": 385743,
+      "game_name": "Kageninja",
+      "file": "missing/K/385743-kageninja.json"
+    },
+    {
       "igdb_id": 260120,
       "game_name": "Kagi wo Kakushita Kago no Tori: Bird in Cage Hiding the Key",
       "file": "missing/K/260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json"
@@ -152016,6 +152116,11 @@
       "igdb_id": 304337,
       "game_name": "Kamen Rider Battle Rush",
       "file": "missing/K/304337-kamen-rider-battle-rush.json"
+    },
+    {
+      "igdb_id": 385754,
+      "game_name": "Kamen Rider Black: Hissatsu Rider Kick",
+      "file": "missing/K/385754-kamen-rider-black-hissatsu-rider-kick.json"
     },
     {
       "igdb_id": 48691,
@@ -157278,6 +157383,11 @@
       "file": "missing/K/41322-konamic-tennis.json"
     },
     {
+      "igdb_id": 385748,
+      "game_name": "Koneko Club",
+      "file": "missing/K/385748-koneko-club.json"
+    },
+    {
       "igdb_id": 142412,
       "game_name": "Kong",
       "file": "missing/K/142412-kong.json"
@@ -157406,6 +157516,11 @@
       "igdb_id": 42037,
       "game_name": "Kore ga Pro Yakyuu '89",
       "file": "missing/K/42037-kore-ga-pro-yakyuu-89.json"
+    },
+    {
+      "igdb_id": 385706,
+      "game_name": "Korean Dominatrixes Are the Best",
+      "file": "missing/K/385706-korean-dominatrixes-are-the-best.json"
     },
     {
       "igdb_id": 328501,
@@ -160623,6 +160738,11 @@
       "file": "missing/L/94173-lcd-dungeon-system.json"
     },
     {
+      "igdb_id": 385730,
+      "game_name": "LCD Head Chaser",
+      "file": "missing/L/385730-lcd-head-chaser.json"
+    },
+    {
       "igdb_id": 102738,
       "game_name": "LDS Articles of Faith",
       "file": "missing/L/102738-lds-articles-of-faith.json"
@@ -161771,6 +161891,11 @@
       "igdb_id": 238755,
       "game_name": "Legion of Judgment: Fallen Angel",
       "file": "missing/L/238755-legion-of-judgment-fallen-angel.json"
+    },
+    {
+      "igdb_id": 385746,
+      "game_name": "Legion Saga III",
+      "file": "missing/L/385746-legion-saga-iii.json"
     },
     {
       "igdb_id": 347168,
@@ -168696,6 +168821,11 @@
       "igdb_id": 340927,
       "game_name": "LSD Battlefield Simulator",
       "file": "missing/L/340927-lsd-battlefield-simulator.json"
+    },
+    {
+      "igdb_id": 385752,
+      "game_name": "LSI Puzzle: Last One",
+      "file": "missing/L/385752-lsi-puzzle-last-one.json"
     },
     {
       "igdb_id": 321738,
@@ -193523,6 +193653,11 @@
       "file": "missing/M/341356-my-wife-sucked-a-futanaris-toes.json"
     },
     {
+      "igdb_id": 385715,
+      "game_name": "My Witch Wants Elixirs!",
+      "file": "missing/M/385715-my-witch-wants-elixirs.json"
+    },
+    {
       "igdb_id": 335652,
       "game_name": "My Woods",
       "file": "missing/M/335652-my-woods.json"
@@ -195956,6 +196091,11 @@
       "igdb_id": 88054,
       "game_name": "NaziShootout",
       "file": "missing/N/88054-nazishootout.json"
+    },
+    {
+      "igdb_id": 385713,
+      "game_name": "Nazo no Chinbotsusen",
+      "file": "missing/N/385713-nazo-no-chinbotsusen.json"
     },
     {
       "igdb_id": 222525,
@@ -201708,6 +201848,11 @@
       "file": "missing/N/104111-no-time-left.json"
     },
     {
+      "igdb_id": 385729,
+      "game_name": "No Time Left",
+      "file": "missing/N/385729-no-time-left.json"
+    },
+    {
       "igdb_id": 337484,
       "game_name": "No Time to Build",
       "file": "missing/N/337484-no-time-to-build.json"
@@ -202716,6 +202861,11 @@
       "igdb_id": 83508,
       "game_name": "Nostradamus - The Four Horsemen of the Apocalypse",
       "file": "missing/N/83508-nostradamus-the-four-horsemen-of-the-apocalypse.json"
+    },
+    {
+      "igdb_id": 385708,
+      "game_name": "Nostradamus no Daiyogen",
+      "file": "missing/N/385708-nostradamus-no-daiyogen.json"
     },
     {
       "igdb_id": 274197,
@@ -211263,6 +211413,11 @@
       "file": "missing/P/329016-pachinko-party.json"
     },
     {
+      "igdb_id": 385717,
+      "game_name": "Pachinko Star Wing II",
+      "file": "missing/P/385717-pachinko-star-wing-ii.json"
+    },
+    {
       "igdb_id": 184121,
       "game_name": "Pachinko With Nick",
       "file": "missing/P/184121-pachinko-with-nick.json"
@@ -212966,6 +213121,11 @@
       "igdb_id": 55107,
       "game_name": "Paprium",
       "file": "missing/P/55107-paprium.json"
+    },
+    {
+      "igdb_id": 385704,
+      "game_name": "Papuan Dominatrixes Are the Best",
+      "file": "missing/P/385704-papuan-dominatrixes-are-the-best.json"
     },
     {
       "igdb_id": 49864,
@@ -215258,6 +215418,11 @@
       "file": "missing/P/145020-pen-pals.json"
     },
     {
+      "igdb_id": 385718,
+      "game_name": "Pen-chan",
+      "file": "missing/P/385718-pen-chan.json"
+    },
+    {
       "igdb_id": 241061,
       "game_name": "Penalty Shooters Footy",
       "file": "missing/P/241061-penalty-shooters-footy.json"
@@ -215761,6 +215926,11 @@
       "igdb_id": 225642,
       "game_name": "Perfect Memento of Touhou Question: More 50 Questions Part 2",
       "file": "missing/P/225642-perfect-memento-of-touhou-question-more-50-questions-part-2.json"
+    },
+    {
+      "igdb_id": 385719,
+      "game_name": "Perfect Pachinko",
+      "file": "missing/P/385719-perfect-pachinko.json"
     },
     {
       "igdb_id": 370722,
@@ -223331,6 +223501,11 @@
       "igdb_id": 191175,
       "game_name": "Polgar: Magic Detective",
       "file": "missing/P/191175-polgar-magic-detective.json"
+    },
+    {
+      "igdb_id": 385740,
+      "game_name": "Police & Gang",
+      "file": "missing/P/385740-police-and-gang.json"
     },
     {
       "igdb_id": 309872,
@@ -246988,6 +247163,11 @@
       "file": "missing/R/301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json"
     },
     {
+      "igdb_id": 385723,
+      "game_name": "Runeth",
+      "file": "missing/R/385723-runeth.json"
+    },
+    {
       "igdb_id": 137597,
       "game_name": "Runeverse",
       "file": "missing/R/137597-runeverse.json"
@@ -253841,6 +254021,11 @@
       "igdb_id": 247541,
       "game_name": "Seishun Quiz Colorful High School",
       "file": "missing/S/247541-seishun-quiz-colorful-high-school.json"
+    },
+    {
+      "igdb_id": 385750,
+      "game_name": "Seiun Kamen Machineman: Dengeki Convert",
+      "file": "missing/S/385750-seiun-kamen-machineman-dengeki-convert.json"
     },
     {
       "igdb_id": 144251,
@@ -261318,6 +261503,11 @@
       "file": "missing/S/34702-sir-id-like-to-report-a-bug.json"
     },
     {
+      "igdb_id": 385709,
+      "game_name": "Sir'Haxxx",
+      "file": "missing/S/385709-sirhaxxx.json"
+    },
+    {
       "igdb_id": 61626,
       "game_name": "Sira",
       "file": "missing/S/61626-sira.json"
@@ -267311,6 +267501,11 @@
       "igdb_id": 329378,
       "game_name": "Solomania",
       "file": "missing/S/329378-solomania.json"
+    },
+    {
+      "igdb_id": 385707,
+      "game_name": "Solomon Islander Dominatrixes Are the Best",
+      "file": "missing/S/385707-solomon-islander-dominatrixes-are-the-best.json"
     },
     {
       "igdb_id": 132812,
@@ -276681,6 +276876,11 @@
       "igdb_id": 171,
       "game_name": "Star Wars: X-Wing Tour of Duty - B-Wing",
       "file": "missing/S/171-star-wars-x-wing-tour-of-duty-b-wing.json"
+    },
+    {
+      "igdb_id": 385716,
+      "game_name": "Star Wing",
+      "file": "missing/S/385716-star-wing.json"
     },
     {
       "igdb_id": 190224,
@@ -291273,6 +291473,11 @@
       "file": "missing/T/334658-taiwan-mahjong.json"
     },
     {
+      "igdb_id": 385703,
+      "game_name": "Taiwanese Dominatrixes Are the Best",
+      "file": "missing/T/385703-taiwanese-dominatrixes-are-the-best.json"
+    },
+    {
       "igdb_id": 221422,
       "game_name": "Taiyo No Miyako",
       "file": "missing/T/221422-taiyo-no-miyako.json"
@@ -295636,6 +295841,11 @@
       "igdb_id": 102730,
       "game_name": "TerraGenesis - Space Settlers",
       "file": "missing/T/102730-terragenesis-space-settlers.json"
+    },
+    {
+      "igdb_id": 385725,
+      "game_name": "Terrahawks: The Battlehawk",
+      "file": "missing/T/385725-terrahawks-the-battlehawk.json"
     },
     {
       "igdb_id": 402381,
@@ -303166,6 +303376,11 @@
       "igdb_id": 338007,
       "game_name": "The Hundred Line: Last Defense Academy - Digital Deluxe Edition",
       "file": "missing/T/338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 385732,
+      "game_name": "The Hundred Line: Last Defense Academy - Nintendo Switch Version with Sleeve",
+      "file": "missing/T/385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json"
     },
     {
       "igdb_id": 151737,
@@ -327473,6 +327688,11 @@
       "file": "missing/T/318235-tsuneko-apple.json"
     },
     {
+      "igdb_id": 385724,
+      "game_name": "Tsuppari Concert",
+      "file": "missing/T/385724-tsuppari-concert.json"
+    },
+    {
       "igdb_id": 37780,
       "game_name": "Tsuppari Oozumou: Risshin Shusse-hen",
       "file": "missing/T/37780-tsuppari-oozumou-risshin-shusse-hen.json"
@@ -338533,6 +338753,11 @@
       "file": "missing/W/312562-wag.json"
     },
     {
+      "igdb_id": 385731,
+      "game_name": "Waga Seishun no Arcadia",
+      "file": "missing/W/385731-waga-seishun-no-arcadia.json"
+    },
+    {
       "igdb_id": 70982,
       "game_name": "Wages of War: The Business of Battle",
       "file": "missing/W/70982-wages-of-war-the-business-of-battle.json"
@@ -345338,6 +345563,11 @@
       "file": "missing/W/195143-wish-of-abyss-dungeon.json"
     },
     {
+      "igdb_id": 385744,
+      "game_name": "Wish Of Hers",
+      "file": "missing/W/385744-wish-of-hers.json"
+    },
+    {
       "igdb_id": 360611,
       "game_name": "Wish on this Flower",
       "file": "missing/W/360611-wish-on-this-flower.json"
@@ -348583,6 +348813,11 @@
       "file": "missing/W/345516-wpnfire.json"
     },
     {
+      "igdb_id": 385722,
+      "game_name": "Wracing",
+      "file": "missing/W/385722-wracing.json"
+    },
+    {
       "igdb_id": 5596,
       "game_name": "Wrack",
       "file": "missing/W/5596-wrack.json"
@@ -351278,6 +351513,16 @@
       "file": "missing/Y/186313-yokaiware.json"
     },
     {
+      "igdb_id": 385721,
+      "game_name": "Yokaizer: Kaiki-dou",
+      "file": "missing/Y/385721-yokaizer-kaiki-dou.json"
+    },
+    {
+      "igdb_id": 385720,
+      "game_name": "Yokaizer: Yuuki-dou",
+      "file": "missing/Y/385720-yokaizer-yuuki-dou.json"
+    },
+    {
       "igdb_id": 103421,
       "game_name": "YokeLight",
       "file": "missing/Y/103421-yokelight.json"
@@ -353731,6 +353976,11 @@
       "igdb_id": 89890,
       "game_name": "Zero Escape: Zero Time Dilemma - Limited Watch Bonus Edition",
       "file": "missing/Z/89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json"
+    },
+    {
+      "igdb_id": 385714,
+      "game_name": "Zero Fighter",
+      "file": "missing/Z/385714-zero-fighter.json"
     },
     {
       "igdb_id": 246668,
