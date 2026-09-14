@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T02:18:40.745Z",
-  "total_missing": 68164,
+  "generated_at": "2026-09-14T02:21:36.481Z",
+  "total_missing": 68163,
   "games": [
     {
       "igdb_id": 306086,
@@ -4096,11 +4096,6 @@
       "igdb_id": 236813,
       "game_name": "Advance Wars",
       "file": "missing/A/236813-advance-wars.json"
-    },
-    {
-      "igdb_id": 84218,
-      "game_name": "Advanced Dungeons & Dragons Masterpiece Collection",
-      "file": "missing/A/84218-advanced-dungeons-and-dragons-masterpiece-collection.json"
     },
     {
       "igdb_id": 48113,
