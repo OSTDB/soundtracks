@@ -436,7 +436,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Dancing I | 267380 | [267380-aero-dancing-i.json](./267380-aero-dancing-i.json) |
 | Aero Style | 79884 | [79884-aero-style.json](./79884-aero-style.json) |
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
-| Aerobiz Supersonic | 5351 | [5351-aerobiz-supersonic.json](./5351-aerobiz-supersonic.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
