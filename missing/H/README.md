@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Cat | 163958 | [163958-half-cat.json](./163958-half-cat.json) |
 | Half-Doomed | 252366 | [252366-half-doomed.json](./252366-half-doomed.json) |
 | Half-Life | 401474 | [401474-half-life.json](./401474-half-life.json) |
+| Half-Life 1 Anthology | 400309 | [400309-half-life-1-anthology.json](./400309-half-life-1-anthology.json) |
 | Half-Life 2 Classic | 128657 | [128657-half-life-2-classic.json](./128657-half-life-2-classic.json) |
 | Half-Life 2: Capture the Flag | 221720 | [221720-half-life-2-capture-the-flag.json](./221720-half-life-2-capture-the-flag.json) |
 | Half-Life 2: Collector's Edition | 237394 | [237394-half-life-2-collectors-edition.json](./237394-half-life-2-collectors-edition.json) |
@@ -470,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpoon II: Admiral's Edition | 73780 | [73780-harpoon-ii-admirals-edition.json](./73780-harpoon-ii-admirals-edition.json) |
 | Harpoon Lagoon | 309332 | [309332-harpoon-lagoon.json](./309332-harpoon-lagoon.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
+| Harpooneer | 400323 | [400323-harpooneer.json](./400323-harpooneer.json) |
 | Harpoons & Balls | 57083 | [57083-harpoons-and-balls.json](./57083-harpoons-and-balls.json) |
 | Harpy | 412265 | [412265-harpy.json](./412265-harpy.json) |
 | Harpy's Curse | 332393 | [332393-harpys-curse.json](./332393-harpys-curse.json) |
@@ -701,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headbängers in Holiday Hell | 141232 | [141232-headbangers-in-holiday-hell.json](./141232-headbangers-in-holiday-hell.json) |
 | HeadCount | 144944 | [144944-headcount.json](./144944-headcount.json) |
 | Headcrab Frenzy! | 127926 | [127926-headcrab-frenzy.json](./127926-headcrab-frenzy.json) |
+| Headpat Special Taskforce | 400320 | [400320-headpat-special-taskforce.json](./400320-headpat-special-taskforce.json) |
 | Headquarters: World War II - Ardennes | 324926 | [324926-headquarters-world-war-ii-ardennes.json](./324926-headquarters-world-war-ii-ardennes.json) |
 | Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
 | Heads Run | 82128 | [82128-heads-run.json](./82128-heads-run.json) |
@@ -1929,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Hide | 414422 | [414422-hollow-hide.json](./414422-hollow-hide.json) |
 | Hollow Hills National Park | 402287 | [402287-hollow-hills-national-park.json](./402287-hollow-hills-national-park.json) |
 | Hollow Hometown | 339812 | [339812-hollow-hometown.json](./339812-hollow-hometown.json) |
+| Hollow Inn | 400349 | [400349-hollow-inn.json](./400349-hollow-inn.json) |
 | Hollow Knight | 365702 | [365702-hollow-knight.json](./365702-hollow-knight.json) |
 | Hollow Minds | 311469 | [311469-hollow-minds.json](./311469-hollow-minds.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
@@ -1960,7 +1964,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holstin | 229035 | [229035-holstin.json](./229035-holstin.json) |
 | Holy Avenger | 30916 | [30916-holy-avenger.json](./30916-holy-avenger.json) |
 | Holy Beast Online | 338213 | [338213-holy-beast-online.json](./338213-holy-beast-online.json) |
+| Holy Book | 400289 | [400289-holy-book.json](./400289-holy-book.json) |
 | Holy Cow! Milking Simulator | 118390 | [118390-holy-cow-milking-simulator.json](./118390-holy-cow-milking-simulator.json) |
+| Holy Grail for Dummies | 400327 | [400327-holy-grail-for-dummies.json](./400327-holy-grail-for-dummies.json) |
 | Holy Grain | 305778 | [305778-holy-grain.json](./305778-holy-grain.json) |
 | Holy Horror Mansion | 317593 | [317593-holy-horror-mansion.json](./317593-holy-horror-mansion.json) |
 | Holy Journey of Salvation | 249801 | [249801-holy-journey-of-salvation.json](./249801-holy-journey-of-salvation.json) |
