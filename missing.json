@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T12:51:40.449Z",
-  "total_missing": 69845,
+  "generated_at": "2026-09-14T13:01:39.092Z",
+  "total_missing": 69858,
   "games": [
     {
       "igdb_id": 306086,
@@ -4416,11 +4416,6 @@
       "igdb_id": 101639,
       "game_name": "Adventures of Pipi 2: Save Hype",
       "file": "missing/A/101639-adventures-of-pipi-2-save-hype.json"
-    },
-    {
-      "igdb_id": 209629,
-      "game_name": "Adventures of Quin85",
-      "file": "missing/A/209629-adventures-of-quin85.json"
     },
     {
       "igdb_id": 168858,
@@ -10011,6 +10006,11 @@
       "igdb_id": 406731,
       "game_name": "Amen: The Quiet Exodus",
       "file": "missing/A/406731-amen-the-quiet-exodus.json"
+    },
+    {
+      "igdb_id": 401011,
+      "game_name": "Amentes Online",
+      "file": "missing/A/401011-amentes-online.json"
     },
     {
       "igdb_id": 243416,
@@ -19626,6 +19626,11 @@
       "igdb_id": 127243,
       "game_name": "Atrofil: The Key",
       "file": "missing/A/127243-atrofil-the-key.json"
+    },
+    {
+      "igdb_id": 401026,
+      "game_name": "Atrophia: Diseased Lands",
+      "file": "missing/A/401026-atrophia-diseased-lands.json"
     },
     {
       "igdb_id": 48601,
@@ -48871,6 +48876,11 @@
       "igdb_id": 357216,
       "game_name": "Chess of Fortune",
       "file": "missing/C/357216-chess-of-fortune.json"
+    },
+    {
+      "igdb_id": 401021,
+      "game_name": "Chess Peace",
+      "file": "missing/C/401021-chess-peace.json"
     },
     {
       "igdb_id": 203931,
@@ -96168,6 +96178,11 @@
       "file": "missing/F/300375-fantasy-mosaics-5.json"
     },
     {
+      "igdb_id": 401027,
+      "game_name": "Fantasy Mountains",
+      "file": "missing/F/401027-fantasy-mountains.json"
+    },
+    {
       "igdb_id": 113648,
       "game_name": "Fantasy of Expedition",
       "file": "missing/F/113648-fantasy-of-expedition.json"
@@ -119523,6 +119538,11 @@
       "file": "missing/G/416700-grim-chronicles-superior-sorcery.json"
     },
     {
+      "igdb_id": 401023,
+      "game_name": "Grim Dice",
+      "file": "missing/G/401023-grim-dice.json"
+    },
+    {
       "igdb_id": 149524,
       "game_name": "Grim Ember",
       "file": "missing/G/149524-grim-ember.json"
@@ -125181,6 +125201,11 @@
       "igdb_id": 407400,
       "game_name": "Have You Seen the Moon?",
       "file": "missing/H/407400-have-you-seen-the-moon.json"
+    },
+    {
+      "igdb_id": 401019,
+      "game_name": "Havelyn",
+      "file": "missing/H/401019-havelyn.json"
     },
     {
       "igdb_id": 213961,
@@ -136088,6 +136113,11 @@
       "file": "missing/H/216271-hypnospace-enforcer.json"
     },
     {
+      "igdb_id": 401015,
+      "game_name": "Hypogeal",
+      "file": "missing/H/401015-hypogeal.json"
+    },
+    {
       "igdb_id": 266791,
       "game_name": "Hypogean Descent",
       "file": "missing/H/266791-hypogean-descent.json"
@@ -145686,6 +145716,11 @@
       "igdb_id": 65458,
       "game_name": "Jewel Link Chronicles: Mountains of Madness",
       "file": "missing/J/65458-jewel-link-chronicles-mountains-of-madness.json"
+    },
+    {
+      "igdb_id": 401014,
+      "game_name": "Jewel Link: Atlantic Quest",
+      "file": "missing/J/401014-jewel-link-atlantic-quest.json"
     },
     {
       "igdb_id": 53251,
@@ -168793,6 +168828,11 @@
       "file": "missing/M/90692-mahjong.json"
     },
     {
+      "igdb_id": 401018,
+      "game_name": "Mahjong 300",
+      "file": "missing/M/401018-mahjong-300.json"
+    },
+    {
       "igdb_id": 101489,
       "game_name": "Mahjong by Dogmelon",
       "file": "missing/M/101489-mahjong-by-dogmelon.json"
@@ -170776,6 +170816,11 @@
       "igdb_id": 152201,
       "game_name": "Mario + Rabbids Sparks of Hope",
       "file": "missing/M/152201-mario-rabbids-sparks-of-hope.json"
+    },
+    {
+      "igdb_id": 401013,
+      "game_name": "Mario + Rabbids Sparks of Hope: Galactic Prestige Bundle",
+      "file": "missing/M/401013-mario-rabbids-sparks-of-hope-galactic-prestige-bundle.json"
     },
     {
       "igdb_id": 130354,
@@ -194051,6 +194096,11 @@
       "igdb_id": 254144,
       "game_name": "Neon Fantasy: Birds",
       "file": "missing/N/254144-neon-fantasy-birds.json"
+    },
+    {
+      "igdb_id": 401022,
+      "game_name": "Neon Fantasy: Dinosaurs",
+      "file": "missing/N/401022-neon-fantasy-dinosaurs.json"
     },
     {
       "igdb_id": 270970,
@@ -262348,6 +262398,11 @@
       "file": "missing/S/25703-solitaire-lounge.json"
     },
     {
+      "igdb_id": 401017,
+      "game_name": "Solitaire Mahjong: Ancient China Adventure",
+      "file": "missing/S/401017-solitaire-mahjong-ancient-china-adventure.json"
+    },
+    {
       "igdb_id": 212271,
       "game_name": "Solitaire Master VS",
       "file": "missing/S/212271-solitaire-master-vs.json"
@@ -288348,6 +288403,11 @@
       "file": "missing/T/129098-tavern-cards.json"
     },
     {
+      "igdb_id": 401024,
+      "game_name": "Tavern Deep Cauldron",
+      "file": "missing/T/401024-tavern-deep-cauldron.json"
+    },
+    {
       "igdb_id": 290949,
       "game_name": "Tavern Girl",
       "file": "missing/T/290949-tavern-girl.json"
@@ -298141,6 +298201,11 @@
       "igdb_id": 46562,
       "game_name": "The Joker's Wild",
       "file": "missing/T/46562-the-jokers-wild.json"
+    },
+    {
+      "igdb_id": 401025,
+      "game_name": "The Journal of Ambrose Brant",
+      "file": "missing/T/401025-the-journal-of-ambrose-brant.json"
     },
     {
       "igdb_id": 118946,
