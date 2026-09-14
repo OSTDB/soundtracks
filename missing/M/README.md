@@ -3316,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
 | Monochro | 150164 | [150164-monochro.json](./150164-monochro.json) |
 | Monochromaniacs | 124147 | [124147-monochromaniacs.json](./124147-monochromaniacs.json) |
+| Monochrome Echoes: Black | 410318 | [410318-monochrome-echoes-black.json](./410318-monochrome-echoes-black.json) |
 | Monochrome Echoes: White | 331114 | [331114-monochrome-echoes-white.json](./331114-monochrome-echoes-white.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten | 198438 | [198438-monochrome-mobius-rights-and-wrongs-forgotten.json](./198438-monochrome-mobius-rights-and-wrongs-forgotten.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten - Deluxe Edition | 247196 | [247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json](./247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json) |
@@ -3595,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Knight | 280758 | [280758-moon-knight.json](./280758-moon-knight.json) |
 | Moon Lab Shooter | 235773 | [235773-moon-lab-shooter.json](./235773-moon-lab-shooter.json) |
 | Moon Lander | 41989 | [41989-moon-lander.json](./41989-moon-lander.json) |
+| Moon Miner | 410337 | [410337-moon-miner.json](./410337-moon-miner.json) |
 | Moon Minions | 243940 | [243940-moon-minions.json](./243940-moon-minions.json) |
 | Moon Mystery | 196935 | [196935-moon-mystery.json](./196935-moon-mystery.json) |
 | Moon Observatory Melanie | 250602 | [250602-moon-observatory-melanie.json](./250602-moon-observatory-melanie.json) |
