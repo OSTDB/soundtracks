@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
 | Galerians: Limited Edition | 146856 | [146856-galerians-limited-edition.json](./146856-galerians-limited-edition.json) |
 | Galga | 227882 | [227882-galga.json](./227882-galga.json) |
+| Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
 | Gallagant | 287652 | [287652-gallagant.json](./287652-gallagant.json) |
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
@@ -376,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden City | 151118 | [151118-garden-city.json](./151118-garden-city.json) |
 | Garden City Bundle | 295257 | [295257-garden-city-bundle.json](./295257-garden-city-bundle.json) |
 | Garden In! | 198625 | [198625-garden-in.json](./198625-garden-in.json) |
+| Garden Island Plant Village: Grow & Harvest Fruits & Vegetables on your country farm! | 89825 | [89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json](./89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json) |
 | Garden Life: A Cozy Simulator | 204554 | [204554-garden-life-a-cozy-simulator.json](./204554-garden-life-a-cozy-simulator.json) |
 | Garden Life: Supporter Pack | 289321 | [289321-garden-life-supporter-pack.json](./289321-garden-life-supporter-pack.json) |
 | Garden of Butterflies | 353283 | [353283-garden-of-butterflies.json](./353283-garden-of-butterflies.json) |
@@ -848,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts of Tabor | 204034 | [204034-ghosts-of-tabor.json](./204034-ghosts-of-tabor.json) |
 | Ghosts of War | 174822 | [174822-ghosts-of-war.json](./174822-ghosts-of-war.json) |
 | Ghosts'n DJs | 129198 | [129198-ghostsn-djs.json](./129198-ghostsn-djs.json) |
+| Ghoststory | 89954 | [89954-ghoststory.json](./89954-ghoststory.json) |
 | Ghostwinter | 148558 | [148558-ghostwinter.json](./148558-ghostwinter.json) |
 | Ghostwire Tokyo: Spider's Thread | 246125 | [246125-ghostwire-tokyo-spiders-thread.json](./246125-ghostwire-tokyo-spiders-thread.json) |
 | Ghoul Britannia: Land of Hope and Gorey | 116979 | [116979-ghoul-britannia-land-of-hope-and-gorey.json](./116979-ghoul-britannia-land-of-hope-and-gorey.json) |
@@ -2015,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grokit | 271204 | [271204-grokit.json](./271204-grokit.json) |
 | Grom: Terror in Tibet | 73767 | [73767-grom-terror-in-tibet.json](./73767-grom-terror-in-tibet.json) |
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
+| Grood | 90116 | [90116-grood.json](./90116-grood.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
 | Groove Catcher | 171583 | [171583-groove-catcher.json](./171583-groove-catcher.json) |
 | Groove Coaster + Undertale DLC Bundle | 362273 | [362273-groove-coaster-undertale-dlc-bundle.json](./362273-groove-coaster-undertale-dlc-bundle.json) |
@@ -2115,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Guardians of the Wall | 396884 | [396884-guardians-of-the-wall.json](./396884-guardians-of-the-wall.json) |
 | Guarding Goddess | 207331 | [207331-guarding-goddess.json](./207331-guarding-goddess.json) |
+| Guards of the Gate | 90168 | [90168-guards-of-the-gate.json](./90168-guards-of-the-gate.json) |
 | Guards!: Vanguard Supporter Pack | 289322 | [289322-guards-vanguard-supporter-pack.json](./289322-guards-vanguard-supporter-pack.json) |
 | Gudetama Tap! | 102118 | [102118-gudetama-tap.json](./102118-gudetama-tap.json) |
 | Gudetama: Okawari Ikagassuka | 57711 | [57711-gudetama-okawari-ikagassuka.json](./57711-gudetama-okawari-ikagassuka.json) |
