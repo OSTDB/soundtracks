@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion World: Premium Edition | 308804 | [308804-fashion-world-premium-edition.json](./308804-fashion-world-premium-edition.json) |
 | FashionVerse | 296068 | [296068-fashionverse.json](./296068-fashionverse.json) |
 | Fast & Fractured | 390642 | [390642-fast-and-fractured.json](./390642-fast-and-fractured.json) |
+| Fast & Furious: Legacy | 383491 | [383491-fast-and-furious-legacy.json](./383491-fast-and-furious-legacy.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r | 150132 | [150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json](./150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Complete Edition | 218500 | [218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json](./218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
@@ -2155,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football: The Hardest Job | 123574 | [123574-football-the-hardest-job.json](./123574-football-the-hardest-job.json) |
 | FootGoal! Tiki Taka | 147921 | [147921-footgoal-tiki-taka.json](./147921-footgoal-tiki-taka.json) |
 | Footie | 268485 | [268485-footie.json](./268485-footie.json) |
+| Footlord | 383527 | [383527-footlord.json](./383527-footlord.json) |
 | FootRock 2 | 29902 | [29902-footrock-2.json](./29902-footrock-2.json) |
 | Footsies Rollback Edition | 139359 | [139359-footsies-rollback-edition.json](./139359-footsies-rollback-edition.json) |
 | Footy Ball Tournament 2018 | 104050 | [104050-footy-ball-tournament-2018.json](./104050-footy-ball-tournament-2018.json) |
@@ -2639,6 +2641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Will | 291462 | [291462-free-will.json](./291462-free-will.json) |
 | Free.ksPeak | 285999 | [285999-free-kspeak.json](./285999-free-kspeak.json) |
 | Freebie | 32400 | [32400-freebie.json](./32400-freebie.json) |
+| FreeCell | 383490 | [383490-freecell.json](./383490-freecell.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
 | Freedom Bridge | 115034 | [115034-freedom-bridge.json](./115034-freedom-bridge.json) |
