@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty Mind: Blank Fate | 307578 | [307578-empty-mind-blank-fate.json](./307578-empty-mind-blank-fate.json) |
 | Empty Shell: The Loop | 302365 | [302365-empty-shell-the-loop.json](./302365-empty-shell-the-loop.json) |
 | Empty Soul: S&S Edition | 32914 | [32914-empty-soul-s-and-s-edition.json](./32914-empty-soul-s-and-s-edition.json) |
+| Empty the Ocean With a Bucket | 392927 | [392927-empty-the-ocean-with-a-bucket.json](./392927-empty-the-ocean-with-a-bucket.json) |
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
 | Empyrion - Galactic Survival: Complete Edition | 371228 | [371228-empyrion-galactic-survival-complete-edition.json](./371228-empyrion-galactic-survival-complete-edition.json) |
