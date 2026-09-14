@@ -4080,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptoQuiz | 108443 | [108443-cryptoquiz.json](./108443-cryptoquiz.json) |
 | CryptoQuote | 96031 | [96031-cryptoquote.json](./96031-cryptoquote.json) |
 | Cryptoria | 406128 | [406128-cryptoria.json](./406128-cryptoria.json) |
+| Crypts of Carith | 387528 | [387528-crypts-of-carith.json](./387528-crypts-of-carith.json) |
 | Crypts of Death | 115658 | [115658-crypts-of-death.json](./115658-crypts-of-death.json) |
 | Crysis 2 Remastered | 165126 | [165126-crysis-2-remastered.json](./165126-crysis-2-remastered.json) |
 | Crysis 3 Remastered | 165127 | [165127-crysis-3-remastered.json](./165127-crysis-3-remastered.json) |
