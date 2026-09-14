@@ -1700,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
 | WordHive | 411569 | [411569-wordhive.json](./411569-wordhive.json) |
+| WordHive 2 | 414441 | [414441-wordhive-2.json](./414441-wordhive-2.json) |
 | WordHue | 212796 | [212796-wordhue.json](./212796-wordhue.json) |
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
 | Wordish | 187434 | [187434-wordish.json](./187434-wordish.json) |
