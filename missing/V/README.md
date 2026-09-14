@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-VR | 27739 | [27739-v-vr.json](./27739-v-vr.json) |
 | V-Ware | 250052 | [250052-v-ware.json](./250052-v-ware.json) |
 | V: The Video Game | 45313 | [45313-v-the-video-game.json](./45313-v-the-video-game.json) |
+| V!be Bunny | 404975 | [404975-v-be-bunny.json](./404975-v-be-bunny.json) |
 | V.D.O | 201774 | [201774-v-d-o.json](./201774-v-d-o.json) |
 | V.G. Re-birth | 180273 | [180273-v-g-re-birth.json](./180273-v-g-re-birth.json) |
 | V.O.I.D.: Vexation of Infinite Dungeons | 245886 | [245886-v-o-i-d-vexation-of-infinite-dungeons.json](./245886-v-o-i-d-vexation-of-infinite-dungeons.json) |
@@ -754,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Bastards | 111846 | [111846-void-bastards.json](./111846-void-bastards.json) |
 | Void Blitzing | 236505 | [236505-void-blitzing.json](./236505-void-blitzing.json) |
 | Void Climber | 316062 | [316062-void-climber.json](./316062-void-climber.json) |
+| Void Crawlers | 404966 | [404966-void-crawlers.json](./404966-void-crawlers.json) |
 | Void Dementia | 182492 | [182492-void-dementia.json](./182492-void-dementia.json) |
 | Void Destroyer 2: Ashes | 168377 | [168377-void-destroyer-2-ashes.json](./168377-void-destroyer-2-ashes.json) |
 | Void Destroyer 2: Big Red | 168376 | [168376-void-destroyer-2-big-red.json](./168376-void-destroyer-2-big-red.json) |
