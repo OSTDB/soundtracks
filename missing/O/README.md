@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscurity | 99661 | [99661-obscurity.json](./99661-obscurity.json) |
 | Obscurum | 276184 | [276184-obscurum.json](./276184-obscurum.json) |
 | Observation Daruma Log | 400262 | [400262-observation-daruma-log.json](./400262-observation-daruma-log.json) |
+| Observe | 410313 | [410313-observe.json](./410313-observe.json) |
 | Observer | 265130 | [265130-observer.json](./265130-observer.json) |
 | Observer Protocol: The Station - Final Shift | 350432 | [350432-observer-protocol-the-station-final-shift.json](./350432-observer-protocol-the-station-final-shift.json) |
 | Observer Protocol: The Station - First Shift | 345484 | [345484-observer-protocol-the-station-first-shift.json](./345484-observer-protocol-the-station-first-shift.json) |
@@ -1334,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overencumbered In Another World | 333382 | [333382-overencumbered-in-another-world.json](./333382-overencumbered-in-another-world.json) |
 | Overgrown | 147395 | [147395-overgrown.json](./147395-overgrown.json) |
 | Overgun | 285447 | [285447-overgun.json](./285447-overgun.json) |
+| Overhatched | 410321 | [410321-overhatched.json](./410321-overhatched.json) |
 | Overhead | 402256 | [402256-overhead.json](./402256-overhead.json) |
 | Overhead Kick | 248319 | [248319-overhead-kick.json](./248319-overhead-kick.json) |
 | Overheat: Kitchen Chaos | 324134 | [324134-overheat-kitchen-chaos.json](./324134-overheat-kitchen-chaos.json) |
