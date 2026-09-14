@@ -1712,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Sacrifice | 236297 | [236297-ancient-sacrifice.json](./236297-ancient-sacrifice.json) |
 | Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
 | Ancient Stories: Gods of Egypt | 119684 | [119684-ancient-stories-gods-of-egypt.json](./119684-ancient-stories-gods-of-egypt.json) |
+| Ancient Swarm | 410345 | [410345-ancient-swarm.json](./410345-ancient-swarm.json) |
 | Ancient Tribe | 84886 | [84886-ancient-tribe.json](./84886-ancient-tribe.json) |
 | Ancient War: Three Kingdoms | 113695 | [113695-ancient-war-three-kingdoms.json](./113695-ancient-war-three-kingdoms.json) |
 | Ancient Warlords: Aequilibrium | 102219 | [102219-ancient-warlords-aequilibrium.json](./102219-ancient-warlords-aequilibrium.json) |
@@ -2377,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Action | 93560 | [93560-arcade-action.json](./93560-arcade-action.json) |
 | Arcade Apocalypse Bundle | 99559 | [99559-arcade-apocalypse-bundle.json](./99559-arcade-apocalypse-bundle.json) |
 | Arcade Archives 2: Adventure Canoe | 392764 | [392764-arcade-archives-2-adventure-canoe.json](./392764-arcade-archives-2-adventure-canoe.json) |
+| Arcade Archives 2: Syvalion | 410363 | [410363-arcade-archives-2-syvalion.json](./410363-arcade-archives-2-syvalion.json) |
 | Arcade Archives: A-Jax | 99563 | [99563-arcade-archives-a-jax.json](./99563-arcade-archives-a-jax.json) |
 | Arcade Archives: Adventure Canoe | 392765 | [392765-arcade-archives-adventure-canoe.json](./392765-arcade-archives-adventure-canoe.json) |
 | Arcade Archives: Armed F | 99546 | [99546-arcade-archives-armed-f.json](./99546-arcade-archives-armed-f.json) |
@@ -2426,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Soldier Girl Amazon | 99540 | [99540-arcade-archives-soldier-girl-amazon.json](./99540-arcade-archives-soldier-girl-amazon.json) |
 | Arcade Archives: Solomon's Key | 99564 | [99564-arcade-archives-solomons-key.json](./99564-arcade-archives-solomons-key.json) |
 | Arcade Archives: Super Pac-Man | 187461 | [187461-arcade-archives-super-pac-man.json](./187461-arcade-archives-super-pac-man.json) |
+| Arcade Archives: Syvalion | 410362 | [410362-arcade-archives-syvalion.json](./410362-arcade-archives-syvalion.json) |
 | Arcade Archives: Tank Battalion | 290419 | [290419-arcade-archives-tank-battalion.json](./290419-arcade-archives-tank-battalion.json) |
 | Arcade Archives: Tank Force | 232461 | [232461-arcade-archives-tank-force.json](./232461-arcade-archives-tank-force.json) |
 | Arcade Archives: The Astyanax | 146827 | [146827-arcade-archives-the-astyanax.json](./146827-arcade-archives-the-astyanax.json) |
