@@ -2379,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotpot Defense | 348245 | [348245-hotpot-defense.json](./348245-hotpot-defense.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
 | Hotshot Racing | 131888 | [131888-hotshot-racing.json](./131888-hotshot-racing.json) |
+| Hotshots | 390116 | [390116-hotshots.json](./390116-hotshots.json) |
 | Hotshots Fire Rescue | 239903 | [239903-hotshots-fire-rescue.json](./239903-hotshots-fire-rescue.json) |
 | Hotspot Football | 58190 | [58190-hotspot-football.json](./58190-hotspot-football.json) |
 | Hottarake no Shima: Kanata to Niji-iro no Kagami | 123035 | [123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json](./123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json) |
