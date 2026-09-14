@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deutschland sucht den Superstar | 130904 | [130904-deutschland-sucht-den-superstar.json](./130904-deutschland-sucht-den-superstar.json) |
 | Dev Inc | 152835 | [152835-dev-inc.json](./152835-dev-inc.json) |
 | Deva: The Haunted Game | 148513 | [148513-deva-the-haunted-game.json](./148513-deva-the-haunted-game.json) |
+| Devader | 68765 | [68765-devader.json](./68765-devader.json) |
 | Devastated | 129211 | [129211-devastated.json](./129211-devastated.json) |
 | Devastated Path | 265436 | [265436-devastated-path.json](./265436-devastated-path.json) |
 | Devastators | 39632 | [39632-devastators.json](./39632-devastators.json) |
@@ -1944,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
 | Dino Lost | 120406 | [120406-dino-lost.json](./120406-dino-lost.json) |
 | Dino Master | 132161 | [132161-dino-master.json](./132161-dino-master.json) |
+| Dino Master | 69143 | [69143-dino-master.json](./69143-dino-master.json) |
 | Dino Merge Wars | 237631 | [237631-dino-merge-wars.json](./237631-dino-merge-wars.json) |
 | Dino Precision Platformer | 303476 | [303476-dino-precision-platformer.json](./303476-dino-precision-platformer.json) |
 | Dino R-r-age Defense | 88103 | [88103-dino-r-r-age-defense.json](./88103-dino-r-r-age-defense.json) |
@@ -3094,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
 | Dragon Guardians | 389958 | [389958-dragon-guardians.json](./389958-dragon-guardians.json) |
 | Dragon Hills 2 | 89540 | [89540-dragon-hills-2.json](./89540-dragon-hills-2.json) |
+| Dragon Hunt | 69236 | [69236-dragon-hunt.json](./69236-dragon-hunt.json) |
 | Dragon Hunter : Sniper Choice | 90664 | [90664-dragon-hunter-sniper-choice.json](./90664-dragon-hunter-sniper-choice.json) |
 | Dragon Is Dead | 289444 | [289444-dragon-is-dead.json](./289444-dragon-is-dead.json) |
 | Dragon Island Blue | 96061 | [96061-dragon-island-blue.json](./96061-dragon-island-blue.json) |
@@ -3485,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driven Out | 117524 | [117524-driven-out.json](./117524-driven-out.json) |
 | Driver | 675 | [675-driver.json](./675-driver.json) |
 | Driver Dan's Story Train | 269827 | [269827-driver-dans-story-train.json](./269827-driver-dans-story-train.json) |
+| Driver Pro: 2017 | 68602 | [68602-driver-pro-2017.json](./68602-driver-pro-2017.json) |
 | Driver: San Francisco | 554 | [554-driver-san-francisco.json](./554-driver-san-francisco.json) |
 | Driver's Work Trip | 185150 | [185150-drivers-work-trip.json](./185150-drivers-work-trip.json) |
 | Driver4VR | 152871 | [152871-driver4vr.json](./152871-driver4vr.json) |
