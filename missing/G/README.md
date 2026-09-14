@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Bigger! Mola | 120321 | [120321-get-bigger-mola.json](./120321-get-bigger-mola.json) |
 | Get Dexter 2 | 55203 | [55203-get-dexter-2.json](./55203-get-dexter-2.json) |
 | Get Fit: Power Workout | 399639 | [399639-get-fit-power-workout.json](./399639-get-fit-power-workout.json) |
+| Get Fit: Women’s Fitness | 394999 | [394999-get-fit-women-s-fitness.json](./394999-get-fit-women-s-fitness.json) |
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
@@ -822,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Master: Resurrection | 334665 | [334665-ghost-master-resurrection.json](./334665-ghost-master-resurrection.json) |
 | Ghost Mayoker | 267919 | [267919-ghost-mayoker.json](./267919-ghost-mayoker.json) |
 | Ghost Mountain | 114992 | [114992-ghost-mountain.json](./114992-ghost-mountain.json) |
+| Ghost Observation | 395047 | [395047-ghost-observation.json](./395047-ghost-observation.json) |
 | Ghost of a Tale | 7684 | [7684-ghost-of-a-tale.json](./7684-ghost-of-a-tale.json) |
 | Ghost of Tokyo | 406790 | [406790-ghost-of-tokyo.json](./406790-ghost-of-tokyo.json) |
 | Ghost of Tomorrow: Chapter 1 | 168861 | [168861-ghost-of-tomorrow-chapter-1.json](./168861-ghost-of-tomorrow-chapter-1.json) |
@@ -1236,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin.Life | 172190 | [172190-goblin-life.json](./172190-goblin-life.json) |
 | Goblin's Bizarre Adventure | 273644 | [273644-goblins-bizarre-adventure.json](./273644-goblins-bizarre-adventure.json) |
 | Goblin's Expedition | 217014 | [217014-goblins-expedition.json](./217014-goblins-expedition.json) |
+| Goblin's Gamble 24 | 395045 | [395045-goblins-gamble-24.json](./395045-goblins-gamble-24.json) |
 | GoblinAmerica | 271228 | [271228-goblinamerica.json](./271228-goblinamerica.json) |
 | Goblinna's Garden | 374063 | [374063-goblinnas-garden.json](./374063-goblinnas-garden.json) |
 | Goblins Can Conquer | 404972 | [404972-goblins-can-conquer.json](./404972-goblins-can-conquer.json) |
