@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T02:21:36.481Z",
-  "total_missing": 68163,
+  "generated_at": "2026-09-14T02:31:29.282Z",
+  "total_missing": 68165,
   "games": [
     {
       "igdb_id": 306086,
@@ -4101,11 +4101,6 @@
       "igdb_id": 48113,
       "game_name": "Advanced Dungeons & Dragons: DragonStrike",
       "file": "missing/A/48113-advanced-dungeons-and-dragons-dragonstrike.json"
-    },
-    {
-      "igdb_id": 12760,
-      "game_name": "Advanced Dungeons & Dragons: Secret of the Silver Blades",
-      "file": "missing/A/12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json"
     },
     {
       "igdb_id": 34557,
@@ -13831,6 +13826,11 @@
       "igdb_id": 38370,
       "game_name": "Appleseed: Prometheus no Shintaku",
       "file": "missing/A/38370-appleseed-prometheus-no-shintaku.json"
+    },
+    {
+      "igdb_id": 51989,
+      "game_name": "AppleSnake",
+      "file": "missing/A/51989-applesnake.json"
     },
     {
       "igdb_id": 88181,
@@ -289478,6 +289478,11 @@
       "file": "missing/T/271752-the-gateway-to-hell.json"
     },
     {
+      "igdb_id": 51980,
+      "game_name": "The Gateway Trilogy",
+      "file": "missing/T/51980-the-gateway-trilogy.json"
+    },
+    {
       "igdb_id": 85435,
       "game_name": "The Gem Collector",
       "file": "missing/T/85435-the-gem-collector.json"
@@ -315286,6 +315291,11 @@
       "igdb_id": 245855,
       "game_name": "Tycoon Legends",
       "file": "missing/T/245855-tycoon-legends.json"
+    },
+    {
+      "igdb_id": 52012,
+      "game_name": "Tyd wag vir Niemand",
+      "file": "missing/T/52012-tyd-wag-vir-niemand.json"
     },
     {
       "igdb_id": 194610,
