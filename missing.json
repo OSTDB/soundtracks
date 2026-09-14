@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T17:16:39.713Z",
-  "total_missing": 70531,
+  "generated_at": "2026-09-14T17:21:43.447Z",
+  "total_missing": 70530,
   "games": [
     {
       "igdb_id": 306086,
@@ -4556,11 +4556,6 @@
       "igdb_id": 27794,
       "game_name": "Aerea",
       "file": "missing/A/27794-aerea.json"
-    },
-    {
-      "igdb_id": 166237,
-      "game_name": "AereA: Collector's Edition",
-      "file": "missing/A/166237-aerea-collectors-edition.json"
     },
     {
       "igdb_id": 52576,
