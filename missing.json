@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T22:31:41.390Z",
-  "total_missing": 71437,
+  "generated_at": "2026-09-14T22:41:45.566Z",
+  "total_missing": 71441,
   "games": [
     {
       "igdb_id": 306086,
@@ -491,6 +491,11 @@
       "igdb_id": 301029,
       "game_name": "100 Forest Cats",
       "file": "missing/0-9/301029-100-forest-cats.json"
+    },
+    {
+      "igdb_id": 382336,
+      "game_name": "100 Goldmine Cats",
+      "file": "missing/0-9/382336-100-goldmine-cats.json"
     },
     {
       "igdb_id": 334122,
@@ -4766,11 +4771,6 @@
       "igdb_id": 124175,
       "game_name": "Aeronaut",
       "file": "missing/A/124175-aeronaut.json"
-    },
-    {
-      "igdb_id": 105296,
-      "game_name": "Aeroplanoui",
-      "file": "missing/A/105296-aeroplanoui.json"
     },
     {
       "igdb_id": 397713,
@@ -30481,6 +30481,11 @@
       "igdb_id": 402385,
       "game_name": "Billion",
       "file": "missing/B/402385-billion.json"
+    },
+    {
+      "igdb_id": 382334,
+      "game_name": "Billion Bounces",
+      "file": "missing/B/382334-billion-bounces.json"
     },
     {
       "igdb_id": 407445,
@@ -86323,6 +86328,11 @@
       "file": "missing/D/25229-dwarrows.json"
     },
     {
+      "igdb_id": 382332,
+      "game_name": "Dwarven Alchemist",
+      "file": "missing/D/382332-dwarven-alchemist.json"
+    },
+    {
       "igdb_id": 206148,
       "game_name": "Dwarven Destiny",
       "file": "missing/D/206148-dwarven-destiny.json"
@@ -121396,6 +121406,11 @@
       "igdb_id": 309870,
       "game_name": "Gravity Sphere",
       "file": "missing/G/309870-gravity-sphere.json"
+    },
+    {
+      "igdb_id": 382333,
+      "game_name": "Gravity Station",
+      "file": "missing/G/382333-gravity-station.json"
     },
     {
       "igdb_id": 251210,
@@ -254456,6 +254471,11 @@
       "igdb_id": 183518,
       "game_name": "Sector Alpha",
       "file": "missing/S/183518-sector-alpha.json"
+    },
+    {
+      "igdb_id": 382335,
+      "game_name": "Sector Lockdown",
+      "file": "missing/S/382335-sector-lockdown.json"
     },
     {
       "igdb_id": 32924,
