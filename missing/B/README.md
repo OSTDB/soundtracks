@@ -2873,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booper, Get Home! | 38949 | [38949-booper-get-home.json](./38949-booper-get-home.json) |
 | Boopie Island | 406732 | [406732-boopie-island.json](./406732-boopie-island.json) |
 | Boost | 29832 | [29832-boost.json](./29832-boost.json) |
+| Boost Beast | 51518 | [51518-boost-beast.json](./51518-boost-beast.json) |
 | Boost Race | 105893 | [105893-boost-race.json](./105893-boost-race.json) |
 | Boosted | 264053 | [264053-boosted.json](./264053-boosted.json) |
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
@@ -3307,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakforcist | 27678 | [27678-breakforcist.json](./27678-breakforcist.json) |
 | Breaking earth | 165688 | [165688-breaking-earth.json](./165688-breaking-earth.json) |
 | Breaking Enigma | 213630 | [213630-breaking-enigma.json](./213630-breaking-enigma.json) |
+| Breaking Good | 51968 | [51968-breaking-good.json](./51968-breaking-good.json) |
 | Breaking Wheel | 30857 | [30857-breaking-wheel.json](./30857-breaking-wheel.json) |
 | BreakLoop | 383953 | [383953-breakloop.json](./383953-breakloop.json) |
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
