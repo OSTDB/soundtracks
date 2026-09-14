@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Decoration Sandbox | 148548 | [148548-halloween-decoration-sandbox.json](./148548-halloween-decoration-sandbox.json) |
 | Halloween Defense | 269008 | [269008-halloween-defense.json](./269008-halloween-defense.json) |
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
+| Halloween Harem | 398450 | [398450-halloween-harem.json](./398450-halloween-harem.json) |
 | Halloween Harry in Zombie Wars | 93057 | [93057-halloween-harry-in-zombie-wars.json](./93057-halloween-harry-in-zombie-wars.json) |
 | Halloween in Hollywood | 234043 | [234043-halloween-in-hollywood.json](./234043-halloween-in-hollywood.json) |
 | Halloween Madness | 75118 | [75118-halloween-madness.json](./75118-halloween-madness.json) |
@@ -852,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavyweight Thunder | 69875 | [69875-heavyweight-thunder.json](./69875-heavyweight-thunder.json) |
 | Heavyweight Transport Simulator 3 | 53183 | [53183-heavyweight-transport-simulator-3.json](./53183-heavyweight-transport-simulator-3.json) |
 | Hebereke's Popoon | 42610 | [42610-heberekes-popoon.json](./42610-heberekes-popoon.json) |
+| Hecatomb | 398404 | [398404-hecatomb.json](./398404-hecatomb.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
@@ -2092,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - In Ravages Does the Whistle Sound | 408877 | [408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json](./408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json) |
 | Honkai: Star Rail - Into the Yawning Chasm | 290387 | [290387-honkai-star-rail-into-the-yawning-chasm.json](./290387-honkai-star-rail-into-the-yawning-chasm.json) |
 | Honkai: Star Rail - Paean of Era Nova | 326609 | [326609-honkai-star-rail-paean-of-era-nova.json](./326609-honkai-star-rail-paean-of-era-nova.json) |
+| Honkai: Star Rail - So Laughed the Masses | 398432 | [398432-honkai-star-rail-so-laughed-the-masses.json](./398432-honkai-star-rail-so-laughed-the-masses.json) |
 | Honkai: Star Rail - The Crepuscule Zone | 274834 | [274834-honkai-star-rail-the-crepuscule-zone.json](./274834-honkai-star-rail-the-crepuscule-zone.json) |
 | Honkai: Star Rail - Then Wake to Weep | 298930 | [298930-honkai-star-rail-then-wake-to-weep.json](./298930-honkai-star-rail-then-wake-to-weep.json) |
 | Honkai: Star Rail - Unraveled for Daybreak | 394848 | [394848-honkai-star-rail-unraveled-for-daybreak.json](./394848-honkai-star-rail-unraveled-for-daybreak.json) |
@@ -2146,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop: The Movie | 254792 | [254792-hop-the-movie.json](./254792-hop-the-movie.json) |
 | Hop'N'Hoard | 394846 | [394846-hopnhoard.json](./394846-hopnhoard.json) |
 | HopDodge | 200149 | [200149-hopdodge.json](./200149-hopdodge.json) |
+| Hope 01 | 398473 | [398473-hope-01.json](./398473-hope-01.json) |
 | Hope Deferred | 337992 | [337992-hope-deferred.json](./337992-hope-deferred.json) |
 | Hope for Village | 116813 | [116813-hope-for-village.json](./116813-hope-for-village.json) |
 | Hope in Hell | 34277 | [34277-hope-in-hell.json](./34277-hope-in-hell.json) |
@@ -2294,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Milf 4 | 192441 | [192441-hot-milf-4.json](./192441-hot-milf-4.json) |
 | Hot Milf 9 | 224222 | [224222-hot-milf-9.json](./224222-hot-milf-9.json) |
 | Hot Office: Sex Story | 296910 | [296910-hot-office-sex-story.json](./296910-hot-office-sex-story.json) |
+| Hot Pinball | 398447 | [398447-hot-pinball.json](./398447-hot-pinball.json) |
 | Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
 | Hot Rider Racing Simulator | 290428 | [290428-hot-rider-racing-simulator.json](./290428-hot-rider-racing-simulator.json) |
 | Hot Runback: VR Runner | 68656 | [68656-hot-runback-vr-runner.json](./68656-hot-runback-vr-runner.json) |
@@ -2399,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Everlast | 269004 | [269004-house-of-everlast.json](./269004-house-of-everlast.json) |
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
 | House of Golf 2 | 303573 | [303573-house-of-golf-2.json](./303573-house-of-golf-2.json) |
+| House of Heists | 398406 | [398406-house-of-heists.json](./398406-house-of-heists.json) |
 | House of Plague 0 | 107907 | [107907-house-of-plague-0.json](./107907-house-of-plague-0.json) |
 | House of Slender-Man | 64425 | [64425-house-of-slender-man.json](./64425-house-of-slender-man.json) |
 | House of Terror VR | 23336 | [23336-house-of-terror-vr.json](./23336-house-of-terror-vr.json) |
