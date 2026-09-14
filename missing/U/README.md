@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
 | Under the Witch: Beginnings | 267365 | [267365-under-the-witch-beginnings.json](./267365-under-the-witch-beginnings.json) |
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
+| Under Tower Idle | 405585 | [405585-under-tower-idle.json](./405585-under-tower-idle.json) |
 | Under Zero | 33223 | [33223-under-zero.json](./33223-under-zero.json) |
 | Undercards | 57109 | [57109-undercards.json](./57109-undercards.json) |
 | Undercore: The Tale of Hardcore | 50503 | [50503-undercore-the-tale-of-hardcore.json](./50503-undercore-the-tale-of-hardcore.json) |
