@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermoon | 63880 | [63880-aftermoon.json](./63880-aftermoon.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
 | Afternoon Frontline | 414319 | [414319-afternoon-frontline.json](./414319-afternoon-frontline.json) |
+| AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
 | Aftershock: Coastline | 253377 | [253377-aftershock-coastline.json](./253377-aftershock-coastline.json) |
 | AfterShocked! | 69816 | [69816-aftershocked.json](./69816-aftershocked.json) |
 | Afterslave | 210857 | [210857-afterslave.json](./210857-afterslave.json) |
@@ -2083,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Space Opera: Episode 1 - The Wake of The Giant | 216469 | [216469-another-space-opera-episode-1-the-wake-of-the-giant.json](./216469-another-space-opera-episode-1-the-wake-of-the-giant.json) |
 | Another Super Mario 3D | 132829 | [132829-another-super-mario-3d.json](./132829-another-super-mario-3d.json) |
 | Another Super Mario Bros. Wii | 132850 | [132850-another-super-mario-bros-wii.json](./132850-another-super-mario-bros-wii.json) |
+| Another Super Mario Bros. Wii Deluxe | 394342 | [394342-another-super-mario-bros-wii-deluxe.json](./394342-another-super-mario-bros-wii-deluxe.json) |
 | Another Time Another Leaf: Kagami no Naka no Tantei | 69283 | [69283-another-time-another-leaf-kagami-no-naka-no-tantei.json](./69283-another-time-another-leaf-kagami-no-naka-no-tantei.json) |
 | Another Timeless Night | 270700 | [270700-another-timeless-night.json](./270700-another-timeless-night.json) |
 | Another Try | 127097 | [127097-another-try.json](./127097-another-try.json) |
@@ -2433,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
 | Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
+| Arcade Archives: Plump Pop | 394382 | [394382-arcade-archives-plump-pop.json](./394382-arcade-archives-plump-pop.json) |
 | Arcade Archives: Radical Radial | 147936 | [147936-arcade-archives-radical-radial.json](./147936-arcade-archives-radical-radial.json) |
 | Arcade Archives: Rastan Saga | 300731 | [300731-arcade-archives-rastan-saga.json](./300731-arcade-archives-rastan-saga.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
@@ -2745,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armadusa | 118381 | [118381-armadusa.json](./118381-armadusa.json) |
 | Armage | 174889 | [174889-armage.json](./174889-armage.json) |
 | Armageddon | 228693 | [228693-armageddon.json](./228693-armageddon.json) |
+| Armageddon | 394333 | [394333-armageddon.json](./394333-armageddon.json) |
 | Armageddon | 45337 | [45337-armageddon.json](./45337-armageddon.json) |
 | Armageddon 2 | 271199 | [271199-armageddon-2.json](./271199-armageddon-2.json) |
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
