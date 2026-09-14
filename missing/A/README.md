@@ -439,7 +439,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
 | Aeroplanoui | 105296 | [105296-aeroplanoui.json](./105296-aeroplanoui.json) |
 | AeroWave OS | 397713 | [397713-aerowave-os.json](./397713-aerowave-os.json) |
-| Aertan | 415931 | [415931-aertan.json](./415931-aertan.json) |
 | Aery Series Bundle | 173794 | [173794-aery-series-bundle.json](./173794-aery-series-bundle.json) |
 | Aery VR: Little Bird Adventure | 356072 | [356072-aery-vr-little-bird-adventure.json](./356072-aery-vr-little-bird-adventure.json) |
 | Aery: Sky Castle | 145645 | [145645-aery-sky-castle.json](./145645-aery-sky-castle.json) |
