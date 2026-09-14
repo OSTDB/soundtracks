@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfighter | 84263 | [84263-nightfighter.json](./84263-nightfighter.json) |
 | Nightflite | 98957 | [98957-nightflite.json](./98957-nightflite.json) |
 | Nightingale Downs | 74112 | [74112-nightingale-downs.json](./74112-nightingale-downs.json) |
+| Nightlatch: Haunted House | 414411 | [414411-nightlatch-haunted-house.json](./414411-nightlatch-haunted-house.json) |
 | Nightly Maintenance | 196852 | [196852-nightly-maintenance.json](./196852-nightly-maintenance.json) |
 | Nightmare | 216987 | [216987-nightmare.json](./216987-nightmare.json) |
 | Nightmare | 252735 | [252735-nightmare.json](./252735-nightmare.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nock: Hidden Arrow | 31389 | [31389-nock-hidden-arrow.json](./31389-nock-hidden-arrow.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
 | Nocturnal | 234740 | [234740-nocturnal.json](./234740-nocturnal.json) |
+| Nocturnal Echoes | 414419 | [414419-nocturnal-echoes.json](./414419-nocturnal-echoes.json) |
 | Nocturnal Nemesis | 341483 | [341483-nocturnal-nemesis.json](./341483-nocturnal-nemesis.json) |
 | Nocturnal Visitors: Book One | 370152 | [370152-nocturnal-visitors-book-one.json](./370152-nocturnal-visitors-book-one.json) |
 | Nocturnal Whispers | 356632 | [356632-nocturnal-whispers.json](./356632-nocturnal-whispers.json) |
