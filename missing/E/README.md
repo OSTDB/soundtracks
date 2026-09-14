@@ -1635,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evony: The King's Return | 197880 | [197880-evony-the-kings-return.json](./197880-evony-the-kings-return.json) |
 | Evoplasm | 309859 | [309859-evoplasm.json](./309859-evoplasm.json) |
 | Evorevo | 236839 | [236839-evorevo.json](./236839-evorevo.json) |
+| EvoSprout | 382288 | [382288-evosprout.json](./382288-evosprout.json) |
 | Evotales | 245884 | [245884-evotales.json](./245884-evotales.json) |
 | EvoTown | 136408 | [136408-evotown.json](./136408-evotown.json) |
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
