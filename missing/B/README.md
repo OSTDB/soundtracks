@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast and Princess | 136469 | [136469-beast-and-princess.json](./136469-beast-and-princess.json) |
 | Beast and Princess: In Blossom | 136470 | [136470-beast-and-princess-in-blossom.json](./136470-beast-and-princess-in-blossom.json) |
 | Beast Bastion | 405588 | [405588-beast-bastion.json](./405588-beast-bastion.json) |
+| Beast Beat | 400358 | [400358-beast-beat.json](./400358-beast-beat.json) |
 | Beast Boxing 3D | 175381 | [175381-beast-boxing-3d.json](./175381-beast-boxing-3d.json) |
 | Beast Boxing Turbo | 14837 | [14837-beast-boxing-turbo.json](./14837-beast-boxing-turbo.json) |
 | Beast Brawl | 338200 | [338200-beast-brawl.json](./338200-beast-brawl.json) |
@@ -3502,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge! 3 | 124145 | [124145-bridge-3.json](./124145-bridge-3.json) |
 | Bridge! 3: The Construction Game | 125372 | [125372-bridge-3-the-construction-game.json](./125372-bridge-3-the-construction-game.json) |
 | BridgeFix 2=3-1 | 158731 | [158731-bridgefix-2-3-1.json](./158731-bridgefix-2-3-1.json) |
+| Bridget Bishop | 400317 | [400317-bridget-bishop.json](./400317-bridget-bishop.json) |
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
 | Brigador | 13361 | [13361-brigador.json](./13361-brigador.json) |
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
