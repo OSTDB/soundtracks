@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeth Cutter | 390617 | [390617-teeth-cutter.json](./390617-teeth-cutter.json) |
 | Teething | 63797 | [63797-teething.json](./63797-teething.json) |
 | Teeto | 285987 | [285987-teeto.json](./285987-teeto.json) |
+| Teh Scrunglybois: Working Title | 382920 | [382920-teh-scrunglybois-working-title.json](./382920-teh-scrunglybois-working-title.json) |
 | Tehodoki Koukan: Gibo & Tomohaha Harem-Hen | 91374 | [91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json](./91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json) |
 | Teigeki Graph in Sakura Wars | 62124 | [62124-teigeki-graph-in-sakura-wars.json](./62124-teigeki-graph-in-sakura-wars.json) |
 | Teikoku Kaigun Koibojou: Meiji Yokosuka Koushinkyoku | 136433 | [136433-teikoku-kaigun-koibojou-meiji-yokosuka-koushinkyoku.json](./136433-teikoku-kaigun-koibojou-meiji-yokosuka-koushinkyoku.json) |
@@ -5978,6 +5979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider Collection 1 | 299439 | [299439-tomb-raider-collection-1.json](./299439-tomb-raider-collection-1.json) |
 | Tomb Raider II: Collector's Edition | 159319 | [159319-tomb-raider-ii-collectors-edition.json](./159319-tomb-raider-ii-collectors-edition.json) |
 | Tomb Raider III: Adventures of Lara Croft | 1157 | [1157-tomb-raider-iii-adventures-of-lara-croft.json](./1157-tomb-raider-iii-adventures-of-lara-croft.json) |
+| Tomb Raider IV•V•VI Remastered: Deluxe Edition | 382879 | [382879-tomb-raider-iv-v-vi-remastered-deluxe-edition.json](./382879-tomb-raider-iv-v-vi-remastered-deluxe-edition.json) |
 | Tomb Raider Starring Lara Croft | 36878 | [36878-tomb-raider-starring-lara-croft.json](./36878-tomb-raider-starring-lara-croft.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
 | Tomb Raider: Game of the Year Edition | 53818 | [53818-tomb-raider-game-of-the-year-edition.json](./53818-tomb-raider-game-of-the-year-edition.json) |
@@ -6416,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower climber | 90193 | [90193-tower-climber.json](./90193-tower-climber.json) |
 | Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
+| Tower Dream 2 | 382927 | [382927-tower-dream-2.json](./382927-tower-dream-2.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
