@@ -404,7 +404,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
 | Ae | 184042 | [184042-ae.json](./184042-ae.json) |
 | Aeolis Tournament | 120419 | [120419-aeolis-tournament.json](./120419-aeolis-tournament.json) |
-| Aeolwyn's Legacy | 200707 | [200707-aeolwyns-legacy.json](./200707-aeolwyns-legacy.json) |
 | Aeon Blood | 169383 | [169383-aeon-blood.json](./169383-aeon-blood.json) |
 | Aeon Flux | 15847 | [15847-aeon-flux.json](./15847-aeon-flux.json) |
 | Aeon on Mosaic: Anemone | 284345 | [284345-aeon-on-mosaic-anemone.json](./284345-aeon-on-mosaic-anemone.json) |
@@ -1968,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Uni | 273943 | [273943-anime-uni.json](./273943-anime-uni.json) |
 | Anime Uni 2 | 300730 | [300730-anime-uni-2.json](./300730-anime-uni-2.json) |
 | Anime Uni 3D: Hot Vacay | 401560 | [401560-anime-uni-3d-hot-vacay.json](./401560-anime-uni-3d-hot-vacay.json) |
+| Anime Uni St. Patrick’s Puzzle | 394996 | [394996-anime-uni-st-patrick-s-puzzle.json](./394996-anime-uni-st-patrick-s-puzzle.json) |
 | Anime Vampire Slayer | 118421 | [118421-anime-vampire-slayer.json](./118421-anime-vampire-slayer.json) |
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
 | Anime-dle | 337089 | [337089-anime-dle.json](./337089-anime-dle.json) |
