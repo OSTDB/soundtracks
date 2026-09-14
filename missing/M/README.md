@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
+| Mad Yu: Rural Idle | 412391 | [412391-mad-yu-rural-idle.json](./412391-mad-yu-rural-idle.json) |
 | Madagascar Mini-Mayhem | 137609 | [137609-madagascar-mini-mayhem.json](./137609-madagascar-mini-mayhem.json) |
 | Madara Saga: Youchien Senki Madara | 57072 | [57072-madara-saga-youchien-senki-madara.json](./57072-madara-saga-youchien-senki-madara.json) |
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
@@ -1532,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval II: Total War | 440 | [440-medieval-ii-total-war.json](./440-medieval-ii-total-war.json) |
 | Medieval II: Total War - Gold Edition | 28983 | [28983-medieval-ii-total-war-gold-edition.json](./28983-medieval-ii-total-war-gold-edition.json) |
 | Medieval Kingdom Wars: Prologue | 266471 | [266471-medieval-kingdom-wars-prologue.json](./266471-medieval-kingdom-wars-prologue.json) |
+| Medieval Lands | 412430 | [412430-medieval-lands.json](./412430-medieval-lands.json) |
 | Medieval Legacy | 333011 | [333011-medieval-legacy.json](./333011-medieval-legacy.json) |
 | Medieval Lords: Soldier Kings of Europe | 69876 | [69876-medieval-lords-soldier-kings-of-europe.json](./69876-medieval-lords-soldier-kings-of-europe.json) |
 | Medieval Masters Collection | 131581 | [131581-medieval-masters-collection.json](./131581-medieval-masters-collection.json) |
@@ -4253,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museca | 57107 | [57107-museca.json](./57107-museca.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
+| Mush Dash | 412392 | [412392-mush-dash.json](./412392-mush-dash.json) |
 | Mush Rush: Stock Market Tycoon | 250389 | [250389-mush-rush-stock-market-tycoon.json](./250389-mush-rush-stock-market-tycoon.json) |
 | Mushihimesama | 152398 | [152398-mushihimesama.json](./152398-mushihimesama.json) |
 | Mushihimesama Bug Panic | 66101 | [66101-mushihimesama-bug-panic.json](./66101-mushihimesama-bug-panic.json) |
