@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baff C | 412384 | [412384-baff-c.json](./412384-baff-c.json) |
 | Baffle My Mind | 88211 | [88211-baffle-my-mind.json](./88211-baffle-my-mind.json) |
 | Bag Fight | 402299 | [402299-bag-fight.json](./402299-bag-fight.json) |
+| Bag Game | 411696 | [411696-bag-game.json](./411696-bag-game.json) |
 | Baggio's Magical Kicks | 64973 | [64973-baggios-magical-kicks.json](./64973-baggios-magical-kicks.json) |
 | Bagitman | 79324 | [79324-bagitman.json](./79324-bagitman.json) |
 | Bagman Comes Back | 185164 | [185164-bagman-comes-back.json](./185164-bagman-comes-back.json) |
@@ -2366,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
 | Blocker Survive | 75849 | [75849-blocker-survive.json](./75849-blocker-survive.json) |
 | Blocker.io | 194036 | [194036-blocker-io.json](./194036-blocker-io.json) |
+| Blockfeet | 411708 | [411708-blockfeet.json](./411708-blockfeet.json) |
 | Blockforge | 73271 | [73271-blockforge.json](./73271-blockforge.json) |
 | Blockhead | 14323 | [14323-blockhead.json](./14323-blockhead.json) |
 | Blockhead II | 14324 | [14324-blockhead-ii.json](./14324-blockhead-ii.json) |
@@ -2441,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Memery | 114948 | [114948-blood-memery.json](./114948-blood-memery.json) |
 | Blood Midnight Blossom | 258221 | [258221-blood-midnight-blossom.json](./258221-blood-midnight-blossom.json) |
 | Blood Money | 11968 | [11968-blood-money.json](./11968-blood-money.json) |
+| Blood Money | 411673 | [411673-blood-money.json](./411673-blood-money.json) |
 | Blood Night | 326976 | [326976-blood-night.json](./326976-blood-night.json) |
 | Blood of Calamity | 319375 | [319375-blood-of-calamity.json](./319375-blood-of-calamity.json) |
 | Blood of Darkness | 153434 | [153434-blood-of-darkness.json](./153434-blood-of-darkness.json) |
