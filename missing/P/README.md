@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payback 2 | 212494 | [212494-payback-2.json](./212494-payback-2.json) |
 | Payback Showdown | 174876 | [174876-payback-showdown.json](./174876-payback-showdown.json) |
 | Paycheck: City RPG | 130383 | [130383-paycheck-city-rpg.json](./130383-paycheck-city-rpg.json) |
+| Payday 2: Espionage Weapon Pack | 400334 | [400334-payday-2-espionage-weapon-pack.json](./400334-payday-2-espionage-weapon-pack.json) |
 | Payday 2: Gage Russian Weapon Pack | 156182 | [156182-payday-2-gage-russian-weapon-pack.json](./156182-payday-2-gage-russian-weapon-pack.json) |
 | Payday 2: The Biker Heist | 19613 | [19613-payday-2-the-biker-heist.json](./19613-payday-2-the-biker-heist.json) |
 | Payday 2: Ultimate Edition | 37149 | [37149-payday-2-ultimate-edition.json](./37149-payday-2-ultimate-edition.json) |
@@ -2128,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleonexia | 246119 | [246119-pleonexia.json](./246119-pleonexia.json) |
 | Plerbtonia | 320174 | [320174-plerbtonia.json](./320174-plerbtonia.json) |
 | Plinko Panic! | 189203 | [189203-plinko-panic.json](./189203-plinko-panic.json) |
+| Plobania 47/B | 400286 | [400286-plobania-47-b.json](./400286-plobania-47-b.json) |
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
 | Plotting | 12196 | [12196-plotting.json](./12196-plotting.json) |
 | Plowing | 276190 | [276190-plowing.json](./276190-plowing.json) |
@@ -3341,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project of the Gods | 156118 | [156118-project-of-the-gods.json](./156118-project-of-the-gods.json) |
 | Project Omega | 70397 | [70397-project-omega.json](./70397-project-omega.json) |
 | Project One | 118347 | [118347-project-one.json](./118347-project-one.json) |
+| Project Onne | 400283 | [400283-project-onne.json](./400283-project-onne.json) |
 | Project Overkill | 20804 | [20804-project-overkill.json](./20804-project-overkill.json) |
 | Project P.I.T.T. | 379356 | [379356-project-p-i-t-t.json](./379356-project-p-i-t-t.json) |
 | Project Paradise 2 | 326978 | [326978-project-paradise-2.json](./326978-project-paradise-2.json) |
