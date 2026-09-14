@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Shell | 193943 | [193943-dead-shell.json](./193943-dead-shell.json) |
 | Dead Shits | 129690 | [129690-dead-shits.json](./129690-dead-shits.json) |
 | Dead Simple 21 | 123565 | [123565-dead-simple-21.json](./123565-dead-simple-21.json) |
+| Dead Sky | 16777 | [16777-dead-sky.json](./16777-dead-sky.json) |
 | Dead Some Day | 33155 | [33155-dead-some-day.json](./33155-dead-some-day.json) |
 | Dead Space | 131931 | [131931-dead-space.json](./131931-dead-space.json) |
 | Dead Space 2 | 264868 | [264868-dead-space-2.json](./264868-dead-space-2.json) |
@@ -2777,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door Knocker | 122336 | [122336-door-knocker.json](./122336-door-knocker.json) |
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
 | Doors | 168388 | [168388-doors.json](./168388-doors.json) |
+| Doors | 16987 | [16987-doors.json](./16987-doors.json) |
 | Doors and Doors | 244498 | [244498-doors-and-doors.json](./244498-doors-and-doors.json) |
 | Doors Closed | 415070 | [415070-doors-closed.json](./415070-doors-closed.json) |
 | Doors of Doom | 13605 | [13605-doors-of-doom.json](./13605-doors-of-doom.json) |
@@ -3475,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Zone 2 | 174845 | [174845-drift-zone-2.json](./174845-drift-zone-2.json) |
 | Drift: When Worlds Collide | 71505 | [71505-drift-when-worlds-collide.json](./71505-drift-when-worlds-collide.json) |
 | Driftence | 190130 | [190130-driftence.json](./190130-driftence.json) |
+| Drifter | 16772 | [16772-drifter.json](./16772-drifter.json) |
 | Drifter Star: Evolution | 371872 | [371872-drifter-star-evolution.json](./371872-drifter-star-evolution.json) |
 | Drifter's Tales | 195174 | [195174-drifters-tales.json](./195174-drifters-tales.json) |
 | DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
