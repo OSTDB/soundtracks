@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catarsis: Catventure | 295259 | [295259-catarsis-catventure.json](./295259-catarsis-catventure.json) |
 | Catass | 254758 | [254758-catass.json](./254758-catass.json) |
 | Catbo | 311477 | [311477-catbo.json](./311477-catbo.json) |
+| Catburglar | 406789 | [406789-catburglar.json](./406789-catburglar.json) |
 | Catch 'Em | 80503 | [80503-catch-em.json](./80503-catch-em.json) |
 | Catch & Cook | 244231 | [244231-catch-and-cook.json](./244231-catch-and-cook.json) |
 | Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
@@ -2633,6 +2634,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Retro Pack | 194648 | [194648-coloring-pixels-retro-pack.json](./194648-coloring-pixels-retro-pack.json) |
 | Coloring Pixels: Vistas Pack 3 | 305513 | [305513-coloring-pixels-vistas-pack-3.json](./305513-coloring-pixels-vistas-pack-3.json) |
 | Coloring Pixels: Zodiac Pack | 351625 | [351625-coloring-pixels-zodiac-pack.json](./351625-coloring-pixels-zodiac-pack.json) |
+| Coloring Voxels: Museum Pack | 406837 | [406837-coloring-voxels-museum-pack.json](./406837-coloring-voxels-museum-pack.json) |
+| Coloring Voxels: Theme Park Pack | 406827 | [406827-coloring-voxels-theme-park-pack.json](./406827-coloring-voxels-theme-park-pack.json) |
+| Coloring Voxels: Time Travel Pack | 406841 | [406841-coloring-voxels-time-travel-pack.json](./406841-coloring-voxels-time-travel-pack.json) |
+| Coloring Voxels: Toy Store Pack | 406838 | [406838-coloring-voxels-toy-store-pack.json](./406838-coloring-voxels-toy-store-pack.json) |
+| Coloring Voxels: Zoo Pack | 406839 | [406839-coloring-voxels-zoo-pack.json](./406839-coloring-voxels-zoo-pack.json) |
 | Coloris | 335115 | [335115-coloris.json](./335115-coloris.json) |
 | Colorizing: Good Times | 317233 | [317233-colorizing-good-times.json](./317233-colorizing-good-times.json) |
 | Colorless Life | 50525 | [50525-colorless-life.json](./50525-colorless-life.json) |
@@ -3380,6 +3386,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Marbles | 292519 | [292519-cozy-marbles.json](./292519-cozy-marbles.json) |
 | Cozy Night | 295784 | [295784-cozy-night.json](./295784-cozy-night.json) |
 | Cozy Space | 260426 | [260426-cozy-space.json](./260426-cozy-space.json) |
+| Cozy Twinkie | 406805 | [406805-cozy-twinkie.json](./406805-cozy-twinkie.json) |
+| Cozy Twinkie | 406806 | [406806-cozy-twinkie.json](./406806-cozy-twinkie.json) |
 | Cozyrama | 360004 | [360004-cozyrama.json](./360004-cozyrama.json) |
 | CozyTyper | 209678 | [209678-cozytyper.json](./209678-cozytyper.json) |
 | CP3D | 109581 | [109581-cp3d.json](./109581-cp3d.json) |
