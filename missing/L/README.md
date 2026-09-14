@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Ultimate Online Dice Game | 91343 | [91343-ludo-ultimate-online-dice-game.json](./91343-ludo-ultimate-online-dice-game.json) |
 | Ludu | 26491 | [26491-ludu.json](./26491-ludu.json) |
 | Ludum Creare | 176981 | [176981-ludum-creare.json](./176981-ludum-creare.json) |
+| Ludus: A Gladiator Story | 411712 | [411712-ludus-a-gladiator-story.json](./411712-ludus-a-gladiator-story.json) |
 | Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
 | Lufia: The Ruins of Lore | 1180 | [1180-lufia-the-ruins-of-lore.json](./1180-lufia-the-ruins-of-lore.json) |
@@ -2096,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lula Virtual Babe | 94697 | [94697-lula-virtual-babe.json](./94697-lula-virtual-babe.json) |
 | Lullaby Days | 166703 | [166703-lullaby-days.json](./166703-lullaby-days.json) |
 | Lulu's Temple | 195696 | [195696-lulus-temple.json](./195696-lulus-temple.json) |
+| LumaWorlds | 411677 | [411677-lumaworlds.json](./411677-lumaworlds.json) |
 | Lumba: Redux | 210890 | [210890-lumba-redux.json](./210890-lumba-redux.json) |
 | Lumber Inc Tycoon | 255759 | [255759-lumber-inc-tycoon.json](./255759-lumber-inc-tycoon.json) |
 | Lumber King | 54474 | [54474-lumber-king.json](./54474-lumber-king.json) |
