@@ -441,7 +441,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
 | Aery VR: Little Bird Adventure | 356072 | [356072-aery-vr-little-bird-adventure.json](./356072-aery-vr-little-bird-adventure.json) |
-| Aery: Vikings | 199650 | [199650-aery-vikings.json](./199650-aery-vikings.json) |
 | Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
 | Aesthetic Melody: Digital Deluxe Edition | 52575 | [52575-aesthetic-melody-digital-deluxe-edition.json](./52575-aesthetic-melody-digital-deluxe-edition.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
@@ -2627,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardent Seas | 146258 | [146258-ardent-seas.json](./146258-ardent-seas.json) |
 | Ardilous | 183523 | [183523-ardilous.json](./183523-ardilous.json) |
 | Ardu Turf Masters | 340204 | [340204-ardu-turf-masters.json](./340204-ardu-turf-masters.json) |
+| Ardubullets | 381726 | [381726-ardubullets.json](./381726-ardubullets.json) |
 | Arduventure | 144324 | [144324-arduventure.json](./144324-arduventure.json) |
 | Ardy Lightfoot | 42736 | [42736-ardy-lightfoot.json](./42736-ardy-lightfoot.json) |
 | Are We Sinking Yet? | 400961 | [400961-are-we-sinking-yet.json](./400961-are-we-sinking-yet.json) |
