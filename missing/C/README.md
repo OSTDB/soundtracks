@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Fury | 43275 | [43275-cart-fury.json](./43275-cart-fury.json) |
 | Cart Fury: Championship Racing | 78637 | [78637-cart-fury-championship-racing.json](./78637-cart-fury-championship-racing.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
+| Cartapli: Fold Quest | 386834 | [386834-cartapli-fold-quest.json](./386834-cartapli-fold-quest.json) |
 | Carte Blanche | 333559 | [333559-carte-blanche.json](./333559-carte-blanche.json) |
 | Cartel Pilots Wanted | 412957 | [412957-cartel-pilots-wanted.json](./412957-cartel-pilots-wanted.json) |
 | Cartel Simulator | 263208 | [263208-cartel-simulator.json](./263208-cartel-simulator.json) |
@@ -1238,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Breakfast | 33423 | [33423-champions-of-breakfast.json](./33423-champions-of-breakfast.json) |
 | Champions of Midgard | 111632 | [111632-champions-of-midgard.json](./111632-champions-of-midgard.json) |
 | Champions of Quortz | 249215 | [249215-champions-of-quortz.json](./249215-champions-of-quortz.json) |
+| Champions Stable: Equestrian Dynasty | 386838 | [386838-champions-stable-equestrian-dynasty.json](./386838-champions-stable-equestrian-dynasty.json) |
 | Champions Tactics Reforged | 343807 | [343807-champions-tactics-reforged.json](./343807-champions-tactics-reforged.json) |
 | Champions: Return to Arms | 10237 | [10237-champions-return-to-arms.json](./10237-champions-return-to-arms.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
@@ -2238,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClickDragType | 320170 | [320170-clickdragtype.json](./320170-clickdragtype.json) |
 | Clickenzee | 84270 | [84270-clickenzee.json](./84270-clickenzee.json) |
 | Clicker Achievements: The Impossible Challenge | 103808 | [103808-clicker-achievements-the-impossible-challenge.json](./103808-clicker-achievements-the-impossible-challenge.json) |
+| Clicker Astro Planet | 386870 | [386870-clicker-astro-planet.json](./386870-clicker-astro-planet.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
 | ClickeRogue | 242547 | [242547-clickerogue.json](./242547-clickerogue.json) |
 | ClickMonster | 158661 | [158661-clickmonster.json](./158661-clickmonster.json) |
@@ -2502,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Hunter | 331678 | [331678-coin-hunter.json](./331678-coin-hunter.json) |
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
 | Coin Master | 87020 | [87020-coin-master.json](./87020-coin-master.json) |
+| Coin Slots Live | 386856 | [386856-coin-slots-live.json](./386856-coin-slots-live.json) |
 | Coin Toss Rainbow Simulator | 272871 | [272871-coin-toss-rainbow-simulator.json](./272871-coin-toss-rainbow-simulator.json) |
 | Coin$ Pusher Ltd | 408089 | [408089-coin-pusher-ltd.json](./408089-coin-pusher-ltd.json) |
 | Coinon | 104014 | [104014-coinon.json](./104014-coinon.json) |
@@ -3330,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
 | Cosmos Crash VR | 31761 | [31761-cosmos-crash-vr.json](./31761-cosmos-crash-vr.json) |
+| Cosmos Iter | 386884 | [386884-cosmos-iter.json](./386884-cosmos-iter.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
 | Cosmos no Sora ni | 395012 | [395012-cosmos-no-sora-ni.json](./395012-cosmos-no-sora-ni.json) |
 | Cosmos Quest II: To Find a Sun | 98471 | [98471-cosmos-quest-ii-to-find-a-sun.json](./98471-cosmos-quest-ii-to-find-a-sun.json) |
@@ -3465,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Hamlets | 290441 | [290441-cozy-hamlets.json](./290441-cozy-hamlets.json) |
 | Cozy Harvest | 376458 | [376458-cozy-harvest.json](./376458-cozy-harvest.json) |
 | Cozy Holes | 338547 | [338547-cozy-holes.json](./338547-cozy-holes.json) |
+| Cozy Home | 386876 | [386876-cozy-home.json](./386876-cozy-home.json) |
 | Cozy Hunt | 338004 | [338004-cozy-hunt.json](./338004-cozy-hunt.json) |
 | Cozy Keep: Farm, Craft, Manage | 271208 | [271208-cozy-keep-farm-craft-manage.json](./271208-cozy-keep-farm-craft-manage.json) |
 | Cozy Life Collection | 393632 | [393632-cozy-life-collection.json](./393632-cozy-life-collection.json) |
@@ -4464,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
 | Cyber Soldier Sharaku | 45934 | [45934-cyber-soldier-sharaku.json](./45934-cyber-soldier-sharaku.json) |
 | Cyber Spin | 42615 | [42615-cyber-spin.json](./42615-cyber-spin.json) |
+| Cyber Sprinters | 386839 | [386839-cyber-sprinters.json](./386839-cyber-sprinters.json) |
 | Cyber Strider | 248028 | [248028-cyber-strider.json](./248028-cyber-strider.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
 | Cyber Strike | 282002 | [282002-cyber-strike.json](./282002-cyber-strike.json) |
