@@ -344,7 +344,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Strategic Command | 63246 | [63246-advanced-strategic-command.json](./63246-advanced-strategic-command.json) |
 | Advanced Tactics Gold | 36292 | [36292-advanced-tactics-gold.json](./36292-advanced-tactics-gold.json) |
-| Advanced Thinking Skills | 305166 | [305166-advanced-thinking-skills.json](./305166-advanced-thinking-skills.json) |
 | Advancing Chess | 296352 | [296352-advancing-chess.json](./296352-advancing-chess.json) |
 | Advendows Calendar OS 2022 | 229038 | [229038-advendows-calendar-os-2022.json](./229038-advendows-calendar-os-2022.json) |
 | Advenger of Stuart | 236271 | [236271-advenger-of-stuart.json](./236271-advenger-of-stuart.json) |
