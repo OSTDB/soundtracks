@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galax | 382229 | [382229-galax.json](./382229-galax.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
 | Galax Attax | 92967 | [92967-galax-attax.json](./92967-galax-attax.json) |
+| Galax Defender | 86857 | [86857-galax-defender.json](./86857-galax-defender.json) |
 | Galax-e-mail | 78663 | [78663-galax-e-mail.json](./78663-galax-e-mail.json) |
 | Galax-i-Birds | 55187 | [55187-galax-i-birds.json](./55187-galax-i-birds.json) |
 | Galaxian3 | 234085 | [234085-galaxian3.json](./234085-galaxian3.json) |
@@ -603,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genfanad | 159346 | [159346-genfanad.json](./159346-genfanad.json) |
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
 | Genghis Khan II: Clan of the Gray Wolf | 5389 | [5389-genghis-khan-ii-clan-of-the-gray-wolf.json](./5389-genghis-khan-ii-clan-of-the-gray-wolf.json) |
+| Genies & Gems | 86809 | [86809-genies-and-gems.json](./86809-genies-and-gems.json) |
 | Genies & Jewels - Puzzle Quest | 105940 | [105940-genies-and-jewels-puzzle-quest.json](./105940-genies-and-jewels-puzzle-quest.json) |
 | Genimas: Life Reborn | 211201 | [211201-genimas-life-reborn.json](./211201-genimas-life-reborn.json) |
 | Gênio Fly | 241945 | [241945-genio-fly.json](./241945-genio-fly.json) |
@@ -2223,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
+| Gummy Drop! | 86822 | [86822-gummy-drop.json](./86822-gummy-drop.json) |
 | Gummy Nightmares | 305743 | [305743-gummy-nightmares.json](./305743-gummy-nightmares.json) |
 | Gummy Slide | 251236 | [251236-gummy-slide.json](./251236-gummy-slide.json) |
 | Gumnaam | 215353 | [215353-gumnaam.json](./215353-gumnaam.json) |
