@@ -596,6 +596,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
 | Killzone | 1865 | [1865-killzone.json](./1865-killzone.json) |
 | Killzone: Special Limited Edition | 43261 | [43261-killzone-special-limited-edition.json](./43261-killzone-special-limited-edition.json) |
+| Kiln: Cats & Dogs Decoration Pack | 407414 | [407414-kiln-cats-and-dogs-decoration-pack.json](./407414-kiln-cats-and-dogs-decoration-pack.json) |
+| Kiln: Pride Decoration Pack | 407415 | [407415-kiln-pride-decoration-pack.json](./407415-kiln-pride-decoration-pack.json) |
+| Kiln: Stickers of the Gods Sticker Pack | 407413 | [407413-kiln-stickers-of-the-gods-sticker-pack.json](./407413-kiln-stickers-of-the-gods-sticker-pack.json) |
 | Kiloblaster | 79333 | [79333-kiloblaster.json](./79333-kiloblaster.json) |
 | Kilubu Magic Potions 2 | 213397 | [213397-kilubu-magic-potions-2.json](./213397-kilubu-magic-potions-2.json) |
 | Kim | 25225 | [25225-kim.json](./25225-kim.json) |
