@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Hun Shi Ke | 90619 | [90619-long-hun-shi-ke.json](./90619-long-hun-shi-ke.json) |
 | Long Live Caesar | 166717 | [166717-long-live-caesar.json](./166717-long-live-caesar.json) |
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
+| Long Night | 16941 | [16941-long-night.json](./16941-long-night.json) |
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
 | Longboard Stunts and Tricks | 99618 | [99618-longboard-stunts-and-tricks.json](./99618-longboard-stunts-and-tricks.json) |
 | Longbow Anthology | 70358 | [70358-longbow-anthology.json](./70358-longbow-anthology.json) |
