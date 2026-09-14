@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Drift Cars | 123558 | [123558-rally-drift-cars.json](./123558-rally-drift-cars.json) |
 | Rally Drifters Racing Cars 3D: Ultimate Fast Car Gang Challange | 232164 | [232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json](./232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json) |
 | Rally Fury: Extreme Racing | 174848 | [174848-rally-fury-extreme-racing.json](./174848-rally-fury-extreme-racing.json) |
+| Rally King | 408922 | [408922-rally-king.json](./408922-rally-king.json) |
 | Rally Master Pro | 91897 | [91897-rally-master-pro.json](./91897-rally-master-pro.json) |
 | Rally of Rockets | 112330 | [112330-rally-of-rockets.json](./112330-rally-of-rockets.json) |
 | Rally Point 3 | 237953 | [237953-rally-point-3.json](./237953-rally-point-3.json) |
@@ -1695,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Out!! | 41404 | [41404-ring-out.json](./41404-ring-out.json) |
 | Ring Racer | 147379 | [147379-ring-racer.json](./147379-ring-racer.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
+| Ring Toss Legend | 408939 | [408939-ring-toss-legend.json](./408939-ring-toss-legend.json) |
 | Ringer | 324336 | [324336-ringer.json](./324336-ringer.json) |
 | Ringling Bros. and Barnum & Bailey Circus | 67320 | [67320-ringling-bros-and-barnum-and-bailey-circus.json](./67320-ringling-bros-and-barnum-and-bailey-circus.json) |
 | Ringling Bros. and Barnum & Bailey: Circus Friends - Asian Elephants | 209163 | [209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json](./209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json) |
@@ -1764,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Eternal | 288756 | [288756-rise-of-the-eternal.json](./288756-rise-of-the-eternal.json) |
 | Rise of The Fey | 82120 | [82120-rise-of-the-fey.json](./82120-rise-of-the-fey.json) |
 | Rise of the Ghostdom | 210895 | [210895-rise-of-the-ghostdom.json](./210895-rise-of-the-ghostdom.json) |
+| Rise of the Nindroids | 408880 | [408880-rise-of-the-nindroids.json](./408880-rise-of-the-nindroids.json) |
 | Rise of the Outcast Hero | 297202 | [297202-rise-of-the-outcast-hero.json](./297202-rise-of-the-outcast-hero.json) |
 | Rise of the Pawn | 321132 | [321132-rise-of-the-pawn.json](./321132-rise-of-the-pawn.json) |
 | Rise of the Phoenix | 42650 | [42650-rise-of-the-phoenix.json](./42650-rise-of-the-phoenix.json) |
