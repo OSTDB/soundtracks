@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caramella Girls | 174357 | [174357-caramella-girls.json](./174357-caramella-girls.json) |
 | Caravan | 19290 | [19290-caravan.json](./19290-caravan.json) |
 | Caravan Stories: Academy of Magic | 194037 | [194037-caravan-stories-academy-of-magic.json](./194037-caravan-stories-academy-of-magic.json) |
+| Caravana 2000 | 400367 | [400367-caravana-2000.json](./400367-caravana-2000.json) |
 | Carbon Battle Royale | 143717 | [143717-carbon-battle-royale.json](./143717-carbon-battle-royale.json) |
 | Carcassonne: The Official Board Game - Inns & Cathedrals | 171018 | [171018-carcassonne-the-official-board-game-inns-and-cathedrals.json](./171018-carcassonne-the-official-board-game-inns-and-cathedrals.json) |
 | Carcassonne: The Official Board Game - Winter and Gingerbread Man | 171017 | [171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json](./171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json) |
@@ -1079,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CD-Run | 127226 | [127226-cd-run.json](./127226-cd-run.json) |
 | CDF Ghostship | 16844 | [16844-cdf-ghostship.json](./16844-cdf-ghostship.json) |
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
+| Cebus | 400341 | [400341-cebus.json](./400341-cebus.json) |
 | Ceci and the Gnomes | 207812 | [207812-ceci-and-the-gnomes.json](./207812-ceci-and-the-gnomes.json) |
 | Cecil Hollow | 253613 | [253613-cecil-hollow.json](./253613-cecil-hollow.json) |
 | Cede | 108974 | [108974-cede.json](./108974-cede.json) |
@@ -2594,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Surge | 306354 | [306354-color-surge.json](./306354-color-surge.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
+| Color Trigger | 400352 | [400352-color-trigger.json](./400352-color-trigger.json) |
 | Color Water Sort: Complete Edition | 308798 | [308798-color-water-sort-complete-edition.json](./308798-color-water-sort-complete-edition.json) |
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
