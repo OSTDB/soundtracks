@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetDive | 358862 | [358862-netdive.json](./358862-netdive.json) |
 | NetHack | 207850 | [207850-nethack.json](./207850-nethack.json) |
 | Nether Spirits: Beyond the Gate | 263769 | [263769-nether-spirits-beyond-the-gate.json](./263769-nether-spirits-beyond-the-gate.json) |
+| Nether: The Untold Chapter | 118029 | [118029-nether-the-untold-chapter.json](./118029-nether-the-untold-chapter.json) |
 | Netherside | 152364 | [152364-netherside.json](./152364-netherside.json) |
 | NetMaze: A Funnyman Game | 242782 | [242782-netmaze-a-funnyman-game.json](./242782-netmaze-a-funnyman-game.json) |
 | Netoo | 391063 | [391063-netoo.json](./391063-netoo.json) |
@@ -731,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeverGone | 39003 | [39003-nevergone.json](./39003-nevergone.json) |
 | Nevergrind | 60487 | [60487-nevergrind.json](./60487-nevergrind.json) |
 | NeverHome: Tower of Vanity | 349838 | [349838-neverhome-tower-of-vanity.json](./349838-neverhome-tower-of-vanity.json) |
+| Neverinth: The Never Ending Labyrinth | 117493 | [117493-neverinth-the-never-ending-labyrinth.json](./117493-neverinth-the-never-ending-labyrinth.json) |
 | Neverland | 216990 | [216990-neverland.json](./216990-neverland.json) |
 | Neverland: Aeterna Chronicles | 353288 | [353288-neverland-aeterna-chronicles.json](./353288-neverland-aeterna-chronicles.json) |
 | Neverless Academy | 371259 | [371259-neverless-academy.json](./371259-neverless-academy.json) |
