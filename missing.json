@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T22:18:48.567Z",
-  "total_missing": 71428,
+  "generated_at": "2026-09-14T22:21:36.998Z",
+  "total_missing": 71427,
   "games": [
     {
       "igdb_id": 306086,
@@ -4736,11 +4736,6 @@
       "igdb_id": 267380,
       "game_name": "Aero Dancing I",
       "file": "missing/A/267380-aero-dancing-i.json"
-    },
-    {
-      "igdb_id": 306980,
-      "game_name": "Aero Fighters",
-      "file": "missing/A/306980-aero-fighters.json"
     },
     {
       "igdb_id": 79884,
