@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpac Too | 239653 | [239653-jetpac-too.json](./239653-jetpac-too.json) |
 | Jetpack Astronaut | 171564 | [171564-jetpack-astronaut.json](./171564-jetpack-astronaut.json) |
 | Jetpack Cat | 72694 | [72694-jetpack-cat.json](./72694-jetpack-cat.json) |
+| Jetpack Clankers | 406180 | [406180-jetpack-clankers.json](./406180-jetpack-clankers.json) |
 | Jetpack Dragon Hunting | 241052 | [241052-jetpack-dragon-hunting.json](./241052-jetpack-dragon-hunting.json) |
 | Jetpack Joyride India Exclusive | 238204 | [238204-jetpack-joyride-india-exclusive.json](./238204-jetpack-joyride-india-exclusive.json) |
 | Jetpack Soccer | 241055 | [241055-jetpack-soccer.json](./241055-jetpack-soccer.json) |
