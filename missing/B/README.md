@@ -1249,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 33 Sparkle Shower | 367970 | [367970-beatmania-iidx-33-sparkle-shower.json](./367970-beatmania-iidx-33-sparkle-shower.json) |
 | Beatmania III The Final | 61022 | [61022-beatmania-iii-the-final.json](./61022-beatmania-iii-the-final.json) |
 | BeatRider | 305789 | [305789-beatrider.json](./305789-beatrider.json) |
+| Beats Fever | 30173 | [30173-beats-fever.json](./30173-beats-fever.json) |
 | Beats of Fury | 127181 | [127181-beats-of-fury.json](./127181-beats-of-fury.json) |
 | Beats of Rage | 46623 | [46623-beats-of-rage.json](./46623-beats-of-rage.json) |
 | Beats&Boss | 338202 | [338202-beats-and-boss.json](./338202-beats-and-boss.json) |
@@ -2232,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Box | 379348 | [379348-blind-box.json](./379348-blind-box.json) |
 | Blind Date Simulator | 316640 | [316640-blind-date-simulator.json](./316640-blind-date-simulator.json) |
 | Blind Exposure | 320736 | [320736-blind-exposure.json](./320736-blind-exposure.json) |
+| Blind Love | 30009 | [30009-blind-love.json](./30009-blind-love.json) |
 | Blind Monk's Society | 201765 | [201765-blind-monks-society.json](./201765-blind-monks-society.json) |
 | Blind People Simulator | 57612 | [57612-blind-people-simulator.json](./57612-blind-people-simulator.json) |
 | Blind Quest: The Frost Demon | 167264 | [167264-blind-quest-the-frost-demon.json](./167264-blind-quest-the-frost-demon.json) |
