@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
 | Karts With Chat | 345505 | [345505-karts-with-chat.json](./345505-karts-with-chat.json) |
 | Kasane Teto and Hatsune Miku are Lesbians | 333537 | [333537-kasane-teto-and-hatsune-miku-are-lesbians.json](./333537-kasane-teto-and-hatsune-miku-are-lesbians.json) |
+| Kasha vs. Kritters | 382302 | [382302-kasha-vs-kritters.json](./382302-kasha-vs-kritters.json) |
 | Kashimashi Girl Meets Girl: Hajimete no Natsu Monogatari | 127900 | [127900-kashimashi-girl-meets-girl-hajimete-no-natsu-monogatari.json](./127900-kashimashi-girl-meets-girl-hajimete-no-natsu-monogatari.json) |
 | Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
 | Kat's Run: Zen-Nippon K-Car Senshuken | 38267 | [38267-kats-run-zen-nippon-k-car-senshuken.json](./38267-kats-run-zen-nippon-k-car-senshuken.json) |
@@ -1221,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmo Azs | 257922 | [257922-kosmo-azs.json](./257922-kosmo-azs.json) |
 | Kosmo Skirmish | 291771 | [291771-kosmo-skirmish.json](./291771-kosmo-skirmish.json) |
 | Kosmos: The Discovery of Nature | 276194 | [276194-kosmos-the-discovery-of-nature.json](./276194-kosmos-the-discovery-of-nature.json) |
+| Kosmosis | 382345 | [382345-kosmosis.json](./382345-kosmosis.json) |
 | KosmoSquad | 154561 | [154561-kosmosquad.json](./154561-kosmosquad.json) |
 | Kosodate Quiz My Angel | 40224 | [40224-kosodate-quiz-my-angel.json](./40224-kosodate-quiz-my-angel.json) |
 | Kosodate Quiz My Angel 2 | 40223 | [40223-kosodate-quiz-my-angel-2.json](./40223-kosodate-quiz-my-angel-2.json) |
