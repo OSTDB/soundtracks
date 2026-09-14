@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T08:01:33.461Z",
-  "total_missing": 69034,
+  "generated_at": "2026-09-14T08:11:38.276Z",
+  "total_missing": 69036,
   "games": [
     {
       "igdb_id": 306086,
@@ -4271,11 +4271,6 @@
       "igdb_id": 417517,
       "game_name": "Adventure Mosaics: St. Patrick's Day",
       "file": "missing/A/417517-adventure-mosaics-st-patricks-day.json"
-    },
-    {
-      "igdb_id": 103425,
-      "game_name": "Adventure of a Digger",
-      "file": "missing/A/103425-adventure-of-a-digger.json"
     },
     {
       "igdb_id": 301597,
@@ -93676,6 +93671,11 @@
       "igdb_id": 101534,
       "game_name": "Faily Rider",
       "file": "missing/F/101534-faily-rider.json"
+    },
+    {
+      "igdb_id": 411716,
+      "game_name": "Fair And Balanced",
+      "file": "missing/F/411716-fair-and-balanced.json"
     },
     {
       "igdb_id": 197413,
@@ -187478,6 +187478,11 @@
       "file": "missing/M/263231-my-lovely-dog-adventure.json"
     },
     {
+      "igdb_id": 411717,
+      "game_name": "My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary!",
+      "file": "missing/M/411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json"
+    },
+    {
       "igdb_id": 109628,
       "game_name": "My Magical Demon Lover",
       "file": "missing/M/109628-my-magical-demon-lover.json"
@@ -247046,6 +247051,11 @@
       "igdb_id": 257680,
       "game_name": "Seoirye",
       "file": "missing/S/257680-seoirye.json"
+    },
+    {
+      "igdb_id": 411718,
+      "game_name": "Separator",
+      "file": "missing/S/411718-separator.json"
     },
     {
       "igdb_id": 336541,
