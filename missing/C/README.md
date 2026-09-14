@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cauldron Chaos | 368495 | [368495-cauldron-chaos.json](./368495-cauldron-chaos.json) |
 | Cauldron I & II | 126012 | [126012-cauldron-i-and-ii.json](./126012-cauldron-i-and-ii.json) |
+| Cauldron Inn | 405607 | [405607-cauldron-inn.json](./405607-cauldron-inn.json) |
 | Cauldrons of War: Barbarossa | 169923 | [169923-cauldrons-of-war-barbarossa.json](./169923-cauldrons-of-war-barbarossa.json) |
 | Cauliflower Power | 136402 | [136402-cauliflower-power.json](./136402-cauliflower-power.json) |
 | Causal Nexus | 236256 | [236256-causal-nexus.json](./236256-causal-nexus.json) |
@@ -3390,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Liora | 400883 | [400883-cozy-liora.json](./400883-cozy-liora.json) |
 | Cozy Marbles | 292519 | [292519-cozy-marbles.json](./292519-cozy-marbles.json) |
 | Cozy Night | 295784 | [295784-cozy-night.json](./295784-cozy-night.json) |
+| Cozy Offroad Simulator Together | 405571 | [405571-cozy-offroad-simulator-together.json](./405571-cozy-offroad-simulator-together.json) |
 | Cozy Space | 260426 | [260426-cozy-space.json](./260426-cozy-space.json) |
 | Cozy Twinkie | 406805 | [406805-cozy-twinkie.json](./406805-cozy-twinkie.json) |
 | Cozy Twinkie | 406806 | [406806-cozy-twinkie.json](./406806-cozy-twinkie.json) |
@@ -3599,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Mob | 61603 | [61603-crazy-mob.json](./61603-crazy-mob.json) |
 | Crazy Monster Truck Smasher | 89160 | [89160-crazy-monster-truck-smasher.json](./89160-crazy-monster-truck-smasher.json) |
 | Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
+| Crazy Neighbour | 405613 | [405613-crazy-neighbour.json](./405613-crazy-neighbour.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy Penguin Catapult 2 | 67968 | [67968-crazy-penguin-catapult-2.json](./67968-crazy-penguin-catapult-2.json) |
 | Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
