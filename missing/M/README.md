@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machick 2 | 332269 | [332269-machick-2.json](./332269-machick-2.json) |
 | Machigai-sagashi Daisousasen | 271506 | [271506-machigai-sagashi-daisousasen.json](./271506-machigai-sagashi-daisousasen.json) |
 | Machina | 184624 | [184624-machina.json](./184624-machina.json) |
+| Machina Blue | 415173 | [415173-machina-blue.json](./415173-machina-blue.json) |
 | Machina of the Planet Tree -Unity Unions- | 138175 | [138175-machina-of-the-planet-tree-unity-unions.json](./138175-machina-of-the-planet-tree-unity-unions.json) |
 | Machina of the Planet Tree: Flying Dreamer | 59940 | [59940-machina-of-the-planet-tree-flying-dreamer.json](./59940-machina-of-the-planet-tree-flying-dreamer.json) |
 | Machinarium | 264876 | [264876-machinarium.json](./264876-machinarium.json) |
@@ -266,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Light | 94727 | [94727-magic-light.json](./94727-magic-light.json) |
 | Magic LightHouse | 147385 | [147385-magic-lighthouse.json](./147385-magic-lighthouse.json) |
 | Magic Machine Gun | 248684 | [248684-magic-machine-gun.json](./248684-magic-machine-gun.json) |
+| Magic Market World | 415129 | [415129-magic-market-world.json](./415129-magic-market-world.json) |
 | Magic Mirror Hall | 182985 | [182985-magic-mirror-hall.json](./182985-magic-mirror-hall.json) |
 | Magic MixUp | 58200 | [58200-magic-mixup.json](./58200-magic-mixup.json) |
 | Magic Mushrooms | 13735 | [13735-magic-mushrooms.json](./13735-magic-mushrooms.json) |
@@ -3185,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moki: The Escape | 238725 | [238725-moki-the-escape.json](./238725-moki-the-escape.json) |
 | Mokoko | 127005 | [127005-mokoko.json](./127005-mokoko.json) |
 | Mokoko X Deluxe | 246636 | [246636-mokoko-x-deluxe.json](./246636-mokoko-x-deluxe.json) |
+| Mokomon: Five Elements | 415152 | [415152-mokomon-five-elements.json](./415152-mokomon-five-elements.json) |
 | Mold From Outer Space | 344915 | [344915-mold-from-outer-space.json](./344915-mold-from-outer-space.json) |
 | Moldorian: Hikari to Yami no Sister | 45261 | [45261-moldorian-hikari-to-yami-no-sister.json](./45261-moldorian-hikari-to-yami-no-sister.json) |
 | Moldy Tower | 271479 | [271479-moldy-tower.json](./271479-moldy-tower.json) |
@@ -3375,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Maker 2 | 362265 | [362265-monster-girl-maker-2.json](./362265-monster-girl-maker-2.json) |
 | Monster Girl Prom | 96672 | [96672-monster-girl-prom.json](./96672-monster-girl-prom.json) |
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
+| Monster Girls: You Can't Say No | 415164 | [415164-monster-girls-you-cant-say-no.json](./415164-monster-girls-you-cant-say-no.json) |
 | Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
 | Monster Heart | 229929 | [229929-monster-heart.json](./229929-monster-heart.json) |
 | Monster High: Beauty Shop | 89146 | [89146-monster-high-beauty-shop.json](./89146-monster-high-beauty-shop.json) |
@@ -4409,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Foxy Girlfriend | 205818 | [205818-my-foxy-girlfriend.json](./205818-my-foxy-girlfriend.json) |
 | My Friend Barrington | 398323 | [398323-my-friend-barrington.json](./398323-my-friend-barrington.json) |
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
+| My Friend, the Wickhorn | 415072 | [415072-my-friend-the-wickhorn.json](./415072-my-friend-the-wickhorn.json) |
 | My Friendly Neighborhood: Neighborhorde | 272834 | [272834-my-friendly-neighborhood-neighborhorde.json](./272834-my-friendly-neighborhood-neighborhorde.json) |
 | My Furry Trainer | 215892 | [215892-my-furry-trainer.json](./215892-my-furry-trainer.json) |
 | My Game About Me: Olympic Challenge | 210674 | [210674-my-game-about-me-olympic-challenge.json](./210674-my-game-about-me-olympic-challenge.json) |
@@ -4525,6 +4530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Service Area | 212476 | [212476-my-service-area.json](./212476-my-service-area.json) |
 | My Sexual Hospitalization | 215890 | [215890-my-sexual-hospitalization.json](./215890-my-sexual-hospitalization.json) |
 | My Sexy Anthro: Fluttertime! | 273944 | [273944-my-sexy-anthro-fluttertime.json](./273944-my-sexy-anthro-fluttertime.json) |
+| My Sexy Fairies | 415161 | [415161-my-sexy-fairies.json](./415161-my-sexy-fairies.json) |
 | My Shelf | 87882 | [87882-my-shelf.json](./87882-my-shelf.json) |
 | My Silly Life | 158222 | [158222-my-silly-life.json](./158222-my-silly-life.json) |
 | My Silly Science Summer in the Past | 348758 | [348758-my-silly-science-summer-in-the-past.json](./348758-my-silly-science-summer-in-the-past.json) |
