@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T16:51:37.241Z",
-  "total_missing": 70530,
+  "generated_at": "2026-09-14T17:01:42.253Z",
+  "total_missing": 70533,
   "games": [
     {
       "igdb_id": 306086,
@@ -4541,11 +4541,6 @@
       "igdb_id": 120419,
       "game_name": "Aeolis Tournament",
       "file": "missing/A/120419-aeolis-tournament.json"
-    },
-    {
-      "igdb_id": 15847,
-      "game_name": "Aeon Flux",
-      "file": "missing/A/15847-aeon-flux.json"
     },
     {
       "igdb_id": 223483,
@@ -37598,6 +37593,11 @@
       "file": "missing/B/144962-boxocost.json"
     },
     {
+      "igdb_id": 392301,
+      "game_name": "Boxpast Lov3you",
+      "file": "missing/B/392301-boxpast-lov3you.json"
+    },
+    {
       "igdb_id": 107901,
       "game_name": "BoxRunner",
       "file": "missing/B/107901-boxrunner.json"
@@ -67536,6 +67536,11 @@
       "igdb_id": 56508,
       "game_name": "Date or Die",
       "file": "missing/D/56508-date-or-die.json"
+    },
+    {
+      "igdb_id": 392299,
+      "game_name": "Date the Difference",
+      "file": "missing/D/392299-date-the-difference.json"
     },
     {
       "igdb_id": 303276,
@@ -171988,6 +171993,11 @@
       "file": "missing/M/137606-mao-tan.json"
     },
     {
+      "igdb_id": 392300,
+      "game_name": "MaoMaoMao",
+      "file": "missing/M/392300-maomaomao.json"
+    },
+    {
       "igdb_id": 194576,
       "game_name": "Maoten",
       "file": "missing/M/194576-maoten.json"
@@ -224001,6 +224011,11 @@
       "igdb_id": 212238,
       "game_name": "Pretty Girls Breakout! Plus",
       "file": "missing/P/212238-pretty-girls-breakout-plus.json"
+    },
+    {
+      "igdb_id": 392298,
+      "game_name": "Pretty Girls Don’t Want You to Die",
+      "file": "missing/P/392298-pretty-girls-don-t-want-you-to-die.json"
     },
     {
       "igdb_id": 204088,
