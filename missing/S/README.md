@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Squadrons | 393459 | [393459-scrap-squadrons.json](./393459-scrap-squadrons.json) |
 | Scrap Wars: Td | 348797 | [348797-scrap-wars-td.json](./348797-scrap-wars-td.json) |
 | Scrapbox | 371878 | [371878-scrapbox.json](./371878-scrapbox.json) |
+| Scraper: First Strike | 111091 | [111091-scraper-first-strike.json](./111091-scraper-first-strike.json) |
 | Scrapmetalship | 183007 | [183007-scrapmetalship.json](./183007-scrapmetalship.json) |
 | Scrapped | 243402 | [243402-scrapped.json](./243402-scrapped.json) |
 | Scrappy Stinks! | 307954 | [307954-scrappy-stinks.json](./307954-scrappy-stinks.json) |
@@ -1348,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Bullets Zombie Apocalypse | 117062 | [117062-seven-bullets-zombie-apocalypse.json](./117062-seven-bullets-zombie-apocalypse.json) |
 | Seven Cities | 188589 | [188589-seven-cities.json](./188589-seven-cities.json) |
 | Seven Days | 219619 | [219619-seven-days.json](./219619-seven-days.json) |
+| Seven days with the Ghost | 110935 | [110935-seven-days-with-the-ghost.json](./110935-seven-days-with-the-ghost.json) |
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Knights: Time Wanderer - Cosplay Costume Set | 237932 | [237932-seven-knights-time-wanderer-cosplay-costume-set.json](./237932-seven-knights-time-wanderer-cosplay-costume-set.json) |
@@ -3212,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smite 2: Founder's Edition | 331848 | [331848-smite-2-founders-edition.json](./331848-smite-2-founders-edition.json) |
 | Smite 2: Ultimate Founder's Edition | 331847 | [331847-smite-2-ultimate-founders-edition.json](./331847-smite-2-ultimate-founders-edition.json) |
 | Smite Rivals | 26693 | [26693-smite-rivals.json](./26693-smite-rivals.json) |
+| Smith and Winston | 111093 | [111093-smith-and-winston.json](./111093-smith-and-winston.json) |
 | Smith's Chronicles | 358868 | [358868-smiths-chronicles.json](./358868-smiths-chronicles.json) |
 | Smithereens! | 22412 | [22412-smithereens.json](./22412-smithereens.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
@@ -4885,6 +4888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpinSling | 74405 | [74405-spinsling.json](./74405-spinsling.json) |
 | SpinSweep | 301277 | [301277-spinsweep.json](./301277-spinsweep.json) |
 | Spintires | 7347 | [7347-spintires.json](./7347-spintires.json) |
+| Spintires: MudRunner - American Wilds Edition | 110802 | [110802-spintires-mudrunner-american-wilds-edition.json](./110802-spintires-mudrunner-american-wilds-edition.json) |
 | Spinwave Survivors | 388002 | [388002-spinwave-survivors.json](./388002-spinwave-survivors.json) |
 | Spiny & Chilly | 355034 | [355034-spiny-and-chilly.json](./355034-spiny-and-chilly.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
@@ -5159,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Battles: Vietnam | 70966 | [70966-squad-battles-vietnam.json](./70966-squad-battles-vietnam.json) |
 | Squad Busters vs Zombies | 237637 | [237637-squad-busters-vs-zombies.json](./237637-squad-busters-vs-zombies.json) |
 | Squad Conflicts | 174906 | [174906-squad-conflicts.json](./174906-squad-conflicts.json) |
+| Squally | 111118 | [111118-squally.json](./111118-squally.json) |
 | Square | 208591 | [208591-square.json](./208591-square.json) |
 | Square Deal: The Game of Two Dimensional Poker | 7815 | [7815-square-deal-the-game-of-two-dimensional-poker.json](./7815-square-deal-the-game-of-two-dimensional-poker.json) |
 | Square Fighters | 131591 | [131591-square-fighters.json](./131591-square-fighters.json) |
@@ -6791,6 +6796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Birdo 64 | 300686 | [300686-super-birdo-64.json](./300686-super-birdo-64.json) |
 | Super Bitsy Land | 181866 | [181866-super-bitsy-land.json](./181866-super-bitsy-land.json) |
 | Super Black Onyx | 48704 | [48704-super-black-onyx.json](./48704-super-black-onyx.json) |
+| Super Blasting Boy | 110977 | [110977-super-blasting-boy.json](./110977-super-blasting-boy.json) |
 | Super Block | 172655 | [172655-super-block.json](./172655-super-block.json) |
 | Super Blocmania 3D + 3D Brick Blaster | 91431 | [91431-super-blocmania-3d-3d-brick-blaster.json](./91431-super-blocmania-3d-3d-brick-blaster.json) |
 | Super Bloo Kid Adventure | 219582 | [219582-super-bloo-kid-adventure.json](./219582-super-bloo-kid-adventure.json) |
@@ -7312,6 +7318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pika Land | 50554 | [50554-super-pika-land.json](./50554-super-pika-land.json) |
 | Super Pinball | 64353 | [64353-super-pinball.json](./64353-super-pinball.json) |
 | Super Pinball II: The Amazing Odyssey | 38272 | [38272-super-pinball-ii-the-amazing-odyssey.json](./38272-super-pinball-ii-the-amazing-odyssey.json) |
+| Super Pixel Racers | 111185 | [111185-super-pixel-racers.json](./111185-super-pixel-racers.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
 | Super Pocket Tennis | 44500 | [44500-super-pocket-tennis.json](./44500-super-pocket-tennis.json) |
