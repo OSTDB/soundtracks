@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flagdoku | 333550 | [333550-flagdoku.json](./333550-flagdoku.json) |
 | Flaghead | 400219 | [400219-flaghead.json](./400219-flaghead.json) |
 | Flagship | 61563 | [61563-flagship.json](./61563-flagship.json) |
+| Flail | 402415 | [402415-flail.json](./402415-flail.json) |
 | Flailing Limbs Bundle | 107266 | [107266-flailing-limbs-bundle.json](./107266-flailing-limbs-bundle.json) |
 | Flain: Tao force & Cubes | 153433 | [153433-flain-tao-force-and-cubes.json](./153433-flain-tao-force-and-cubes.json) |
 | Flairtender | 29635 | [29635-flairtender.json](./29635-flairtender.json) |
@@ -2143,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Siren 2 | 14411 | [14411-forbidden-siren-2.json](./14411-forbidden-siren-2.json) |
 | Forbidden Solitaire | 330176 | [330176-forbidden-solitaire.json](./330176-forbidden-solitaire.json) |
 | Forbidden World | 219794 | [219794-forbidden-world.json](./219794-forbidden-world.json) |
+| Forbidden: A First's Obsession | 402364 | [402364-forbidden-a-firsts-obsession.json](./402364-forbidden-a-firsts-obsession.json) |
 | Force of Nature 2: Ghost Keeper | 150124 | [150124-force-of-nature-2-ghost-keeper.json](./150124-force-of-nature-2-ghost-keeper.json) |
 | Force Reboot | 173302 | [173302-force-reboot.json](./173302-force-reboot.json) |
 | Force Seven | 47232 | [47232-force-seven.json](./47232-force-seven.json) |
@@ -2995,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furistas Cat Cafe | 106629 | [106629-furistas-cat-cafe.json](./106629-furistas-cat-cafe.json) |
 | Furni-Jumpin' | 255132 | [255132-furni-jumpin.json](./255132-furni-jumpin.json) |
 | Furnish Master | 212816 | [212816-furnish-master.json](./212816-furnish-master.json) |
+| Furniture Assembler Simulator | 402351 | [402351-furniture-assembler-simulator.json](./402351-furniture-assembler-simulator.json) |
 | Furries & Scalies & Bears OH MY! 2: Return to Kale Bay - Beyond the Monster Sea | 254146 | [254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json](./254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json) |
 | Furries & Scalies & Bears OH MY!: Charity Bonus | 171044 | [171044-furries-and-scalies-and-bears-oh-my-charity-bonus.json](./171044-furries-and-scalies-and-bears-oh-my-charity-bonus.json) |
 | Furries & Scalies & Bears OH MY!: Charity Pack - Echoes of the Fire | 171043 | [171043-furries-and-scalies-and-bears-oh-my-charity-pack-echoes-of-the-fire.json](./171043-furries-and-scalies-and-bears-oh-my-charity-pack-echoes-of-the-fire.json) |
