@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
 | Par 1 Golf 7 | 174296 | [174296-par-1-golf-7.json](./174296-par-1-golf-7.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
+| Parables of the Set Apart: The Pursuit of Wisdom | 387530 | [387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json](./387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
 | Paradigm Island | 285976 | [285976-paradigm-island.json](./285976-paradigm-island.json) |
@@ -723,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patterns | 131534 | [131534-patterns.json](./131534-patterns.json) |
 | Patterns | 8441 | [8441-patterns.json](./8441-patterns.json) |
 | Patterns of the Oak | 358850 | [358850-patterns-of-the-oak.json](./358850-patterns-of-the-oak.json) |
+| Paul | 387499 | [387499-paul.json](./387499-paul.json) |
 | Paulo | 86056 | [86056-paulo.json](./86056-paulo.json) |
 | Pavor | 116378 | [116378-pavor.json](./116378-pavor.json) |
 | Pavor | 215690 | [215690-pavor.json](./215690-pavor.json) |
@@ -1359,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Pirates | 184068 | [184068-pico-pirates.json](./184068-pico-pirates.json) |
 | Pico Tanks: Multiplayer Mayhem | 130379 | [130379-pico-tanks-multiplayer-mayhem.json](./130379-pico-tanks-multiplayer-mayhem.json) |
 | Pico vs. Bear | 331683 | [331683-pico-vs-bear.json](./331683-pico-vs-bear.json) |
+| PicOHRoss | 387521 | [387521-picohross.json](./387521-picohross.json) |
 | Picokaiju | 202393 | [202393-picokaiju.json](./202393-picokaiju.json) |
 | Picolarium | 178605 | [178605-picolarium.json](./178605-picolarium.json) |
 | Picoman Go | 284321 | [284321-picoman-go.json](./284321-picoman-go.json) |
@@ -2412,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon TCG Pocket: Ruler of the Skies | 412413 | [412413-pokemon-tcg-pocket-ruler-of-the-skies.json](./412413-pokemon-tcg-pocket-ruler-of-the-skies.json) |
 | Pokémon Tower Battle | 254176 | [254176-pokemon-tower-battle.json](./254176-pokemon-tower-battle.json) |
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
+| Pokémon Trading Card Game Pocket: Fantastical Parade | 387537 | [387537-pokemon-trading-card-game-pocket-fantastical-parade.json](./387537-pokemon-trading-card-game-pocket-fantastical-parade.json) |
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
 | Pokemon Umbra Moon | 288202 | [288202-pokemon-umbra-moon.json](./288202-pokemon-umbra-moon.json) |
 | Pokémon Unbound | 141663 | [141663-pokemon-unbound.json](./141663-pokemon-unbound.json) |
@@ -2556,6 +2560,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyhop: The Skybound Islands | 278743 | [278743-polyhop-the-skybound-islands.json](./278743-polyhop-the-skybound-islands.json) |
 | Polymega Collection Vol. 7: Breaker's | 339810 | [339810-polymega-collection-vol-7-breakers.json](./339810-polymega-collection-vol-7-breakers.json) |
 | Polymega Collection Vol. 8: Captain Tomaday | 339811 | [339811-polymega-collection-vol-8-captain-tomaday.json](./339811-polymega-collection-vol-8-captain-tomaday.json) |
+| Polymega Collection Vol.17: Gunbird | 387511 | [387511-polymega-collection-vol-17-gunbird.json](./387511-polymega-collection-vol-17-gunbird.json) |
+| Polymega Collection Vol.18: Rival Turf! | 387512 | [387512-polymega-collection-vol-18-rival-turf.json](./387512-polymega-collection-vol-18-rival-turf.json) |
 | Polynomial 2 | 24967 | [24967-polynomial-2.json](./24967-polynomial-2.json) |
 | PolyPine | 278973 | [278973-polypine.json](./278973-polypine.json) |
 | Polyrhythm Mania | 182445 | [182445-polyrhythm-mania.json](./182445-polyrhythm-mania.json) |
@@ -2683,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopSlinger Vol. 1 & 2: Loveless Series Bundle | 328492 | [328492-popslinger-vol-1-and-2-loveless-series-bundle.json](./328492-popslinger-vol-1-and-2-loveless-series-bundle.json) |
 | PopSlinger vol. 2: Loveless | 319397 | [319397-popslinger-vol-2-loveless.json](./319397-popslinger-vol-2-loveless.json) |
 | Poptropica Worlds | 103523 | [103523-poptropica-worlds.json](./103523-poptropica-worlds.json) |
+| Population Control | 387497 | [387497-population-control.json](./387497-population-control.json) |
 | Population: Tire | 135850 | [135850-population-tire.json](./135850-population-tire.json) |
 | Populous | 248 | [248-populous.json](./248-populous.json) |
 | Populous & The Promised Lands | 137074 | [137074-populous-and-the-promised-lands.json](./137074-populous-and-the-promised-lands.json) |
@@ -3459,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Xsting | 278987 | [278987-project-xsting.json](./278987-project-xsting.json) |
 | Project XY | 178645 | [178645-project-xy.json](./178645-project-xy.json) |
 | Project Zero | 236252 | [236252-project-zero.json](./236252-project-zero.json) |
+| Project_8 | 387524 | [387524-project-8.json](./387524-project-8.json) |
 | Project_Arktik | 410881 | [410881-project-arktik.json](./410881-project-arktik.json) |
 | Project_Escape | 133418 | [133418-project-escape.json](./133418-project-escape.json) |
 | Project-Blemmyes | 172704 | [172704-project-blemmyes.json](./172704-project-blemmyes.json) |
