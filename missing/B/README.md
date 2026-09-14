@@ -1261,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Chicken | 174804 | [174804-beautiful-chicken.json](./174804-beautiful-chicken.json) |
 | Beautiful Desolation | 56914 | [56914-beautiful-desolation.json](./56914-beautiful-desolation.json) |
 | Beautiful Indie Worlds Bundle | 246112 | [246112-beautiful-indie-worlds-bundle.json](./246112-beautiful-indie-worlds-bundle.json) |
+| Beautiful Japanese Scenery: Animated Jigsaws | 31695 | [31695-beautiful-japanese-scenery-animated-jigsaws.json](./31695-beautiful-japanese-scenery-animated-jigsaws.json) |
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
@@ -1928,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitgram | 55157 | [55157-bitgram.json](./55157-bitgram.json) |
 | Bitmap Bureau Collection | 287089 | [287089-bitmap-bureau-collection.json](./287089-bitmap-bureau-collection.json) |
 | Bitmates | 228413 | [228413-bitmates.json](./228413-bitmates.json) |
+| BitRay2 | 31724 | [31724-bitray2.json](./31724-bitray2.json) |
 | Bits on the Fritz | 96782 | [96782-bits-on-the-fritz.json](./96782-bits-on-the-fritz.json) |
 | Bitsnake | 135281 | [135281-bitsnake.json](./135281-bitsnake.json) |
 | Bitsturbed | 145011 | [145011-bitsturbed.json](./145011-bitsturbed.json) |
@@ -3091,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Dash | 196272 | [196272-box-dash.json](./196272-box-dash.json) |
 | Box Heap | 233523 | [233523-box-heap.json](./233523-box-heap.json) |
 | Box It Up! Inc. | 306634 | [306634-box-it-up-inc.json](./306634-box-it-up-inc.json) |
+| Box Maze | 31758 | [31758-box-maze.json](./31758-box-maze.json) |
 | Box of Limes | 182996 | [182996-box-of-limes.json](./182996-box-of-limes.json) |
 | Box Office Boss | 239303 | [239303-box-office-boss.json](./239303-box-office-boss.json) |
 | Box Out! | 35622 | [35622-box-out.json](./35622-box-out.json) |
