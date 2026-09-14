@@ -1070,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill and Cross: Trick or Treat | 163987 | [163987-fill-and-cross-trick-or-treat.json](./163987-fill-and-cross-trick-or-treat.json) |
 | Fill in the Holes | 205027 | [205027-fill-in-the-holes.json](./205027-fill-in-the-holes.json) |
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
+| Fille Fatale Compassion | 388211 | [388211-fille-fatale-compassion.json](./388211-fille-fatale-compassion.json) |
 | Filly Fantasy VI | 312347 | [312347-filly-fantasy-vi.json](./312347-filly-fantasy-vi.json) |
 | Film Fatale: Lights, Camera, Madness! | 125383 | [125383-film-fatale-lights-camera-madness.json](./125383-film-fatale-lights-camera-madness.json) |
 | Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
