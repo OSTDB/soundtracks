@@ -2883,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuneScape Quests: One Piercing Note | 108958 | [108958-runescape-quests-one-piercing-note.json](./108958-runescape-quests-one-piercing-note.json) |
 | RuneScape: Dragonwilds | 337712 | [337712-runescape-dragonwilds.json](./337712-runescape-dragonwilds.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
+| Runeth | 385723 | [385723-runeth.json](./385723-runeth.json) |
 | Runeverse | 137597 | [137597-runeverse.json](./137597-runeverse.json) |
 | Runewaker | 186803 | [186803-runewaker.json](./186803-runewaker.json) |
 | Runeyana | 32935 | [32935-runeyana.json](./32935-runeyana.json) |
