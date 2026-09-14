@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Night For Crazy King | 120969 | [120969-a-long-night-for-crazy-king.json](./120969-a-long-night-for-crazy-king.json) |
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
+| A Lost Land | 384655 | [384655-a-lost-land.json](./384655-a-lost-land.json) |
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
 | A Lucky Hunt With: Ione | 392956 | [392956-a-lucky-hunt-with-ione.json](./392956-a-lucky-hunt-with-ione.json) |
 | A Mage Reborn | 207342 | [207342-a-mage-reborn.json](./207342-a-mage-reborn.json) |
@@ -1341,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpaca Party | 326086 | [326086-alpaca-party.json](./326086-alpaca-party.json) |
 | Alpaca Wonders Why | 280175 | [280175-alpaca-wonders-why.json](./280175-alpaca-wonders-why.json) |
 | AlpenCross | 52585 | [52585-alpencross.json](./52585-alpencross.json) |
+| Alpenglow | 384668 | [384668-alpenglow.json](./384668-alpenglow.json) |
 | Alpha Centauri | 261818 | [261818-alpha-centauri.json](./261818-alpha-centauri.json) |
 | Alpha Centauri Space Force | 156165 | [156165-alpha-centauri-space-force.json](./156165-alpha-centauri-space-force.json) |
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
@@ -2091,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Try 2 | 291460 | [291460-another-try-2.json](./291460-another-try-2.json) |
 | Another Warfare | 156662 | [156662-another-warfare.json](./156662-another-warfare.json) |
 | Another's Memories | 374049 | [374049-anothers-memories.json](./374049-anothers-memories.json) |
+| Anoun | 384681 | [384681-anoun.json](./384681-anoun.json) |
 | Anovill | 355529 | [355529-anovill.json](./355529-anovill.json) |
 | Anpanman no Waku-waku Game Oekaki | 123617 | [123617-anpanman-no-waku-waku-game-oekaki.json](./123617-anpanman-no-waku-waku-game-oekaki.json) |
 | Anpanman to Asobo: ABC Kyoushitsu | 67283 | [67283-anpanman-to-asobo-abc-kyoushitsu.json](./67283-anpanman-to-asobo-abc-kyoushitsu.json) |
@@ -3075,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspic: Majaou no Noroi | 41327 | [41327-aspic-majaou-no-noroi.json](./41327-aspic-majaou-no-noroi.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
 | Assassin of Monsters 2: Spacenator | 404810 | [404810-assassin-of-monsters-2-spacenator.json](./404810-assassin-of-monsters-2-spacenator.json) |
+| Assassin Of Spider | 384680 | [384680-assassin-of-spider.json](./384680-assassin-of-spider.json) |
 | Assassin Of Spider 2: 2099 | 404811 | [404811-assassin-of-spider-2-2099.json](./404811-assassin-of-spider-2-2099.json) |
 | Assassin's Creed Brotherhood: The Da Vinci Disappearance | 8216 | [8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json](./8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json) |
 | Assassin's Creed Identity | 17028 | [17028-assassins-creed-identity.json](./17028-assassins-creed-identity.json) |
@@ -3310,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asy przestworzy | 204728 | [204728-asy-przestworzy.json](./204728-asy-przestworzy.json) |
 | Asylum | 86391 | [86391-asylum.json](./86391-asylum.json) |
 | Asylum | 95384 | [95384-asylum.json](./95384-asylum.json) |
+| Asylum 45 | 384666 | [384666-asylum-45.json](./384666-asylum-45.json) |
 | Asylum 626 | 309321 | [309321-asylum-626.json](./309321-asylum-626.json) |
 | Asylum K | 271993 | [271993-asylum-k.json](./271993-asylum-k.json) |
 | Asym Altered Axis | 205794 | [205794-asym-altered-axis.json](./205794-asym-altered-axis.json) |
@@ -3597,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AV Bishoujo Senshi Girl Fighting | 48591 | [48591-av-bishoujo-senshi-girl-fighting.json](./48591-av-bishoujo-senshi-girl-fighting.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
 | Ava's Adventure | 258693 | [258693-avas-adventure.json](./258693-avas-adventure.json) |
+| Ava's Variations | 384670 | [384670-avas-variations.json](./384670-avas-variations.json) |
 | Avabel Online | 38918 | [38918-avabel-online.json](./38918-avabel-online.json) |
 | Avadon 3: The Warborn | 23241 | [23241-avadon-3-the-warborn.json](./23241-avadon-3-the-warborn.json) |
 | Avadon 3: The Warborn - Deluxe Edition | 52621 | [52621-avadon-3-the-warborn-deluxe-edition.json](./52621-avadon-3-the-warborn-deluxe-edition.json) |
