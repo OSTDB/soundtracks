@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
 | Necris Dome | 12956 | [12956-necris-dome.json](./12956-necris-dome.json) |
 | Necro Defense | 113687 | [113687-necro-defense.json](./113687-necro-defense.json) |
+| Necro Genesis | 390639 | [390639-necro-genesis.json](./390639-necro-genesis.json) |
 | Necro Wars | 127261 | [127261-necro-wars.json](./127261-necro-wars.json) |
 | Necroflora | 333542 | [333542-necroflora.json](./333542-necroflora.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
@@ -1201,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Parchments | 23330 | [23330-nine-parchments.json](./23330-nine-parchments.json) |
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
 | Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
+| Nine Skies | 390650 | [390650-nine-skies.json](./390650-nine-skies.json) |
 | Nine Spaces | 406182 | [406182-nine-spaces.json](./406182-nine-spaces.json) |
 | Nine to Five | 127353 | [127353-nine-to-five.json](./127353-nine-to-five.json) |
 | Nine Trials | 223989 | [223989-nine-trials.json](./223989-nine-trials.json) |
