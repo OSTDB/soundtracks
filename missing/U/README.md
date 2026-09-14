@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Drummer | 369031 | [369031-ultimate-drummer.json](./369031-ultimate-drummer.json) |
 | Ultimate Drunken Warrior Master | 303225 | [303225-ultimate-drunken-warrior-master.json](./303225-ultimate-drunken-warrior-master.json) |
 | Ultimate Dungeons & Dragons | 73282 | [73282-ultimate-dungeons-and-dragons.json](./73282-ultimate-dungeons-and-dragons.json) |
+| Ultimate Fight Manager 2016 | 33207 | [33207-ultimate-fight-manager-2016.json](./33207-ultimate-fight-manager-2016.json) |
 | Ultimate Fishing Simulator VR: Amazon River | 161342 | [161342-ultimate-fishing-simulator-vr-amazon-river.json](./161342-ultimate-fishing-simulator-vr-amazon-river.json) |
 | Ultimate Fishing Simulator VR: Greenland | 161341 | [161341-ultimate-fishing-simulator-vr-greenland.json](./161341-ultimate-fishing-simulator-vr-greenland.json) |
 | Ultimate Fishing Simulator VR: Japan | 161337 | [161337-ultimate-fishing-simulator-vr-japan.json](./161337-ultimate-fishing-simulator-vr-japan.json) |
