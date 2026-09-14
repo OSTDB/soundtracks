@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Flipper | 87666 | [87666-idle-flipper.json](./87666-idle-flipper.json) |
 | Idle Food Empire Tycoon | 219268 | [219268-idle-food-empire-tycoon.json](./219268-idle-food-empire-tycoon.json) |
 | Idle Gem Quest | 224562 | [224562-idle-gem-quest.json](./224562-idle-gem-quest.json) |
+| Idle Hacker | 406185 | [406185-idle-hacker.json](./406185-idle-hacker.json) |
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
 | Idle Hero World | 127210 | [127210-idle-hero-world.json](./127210-idle-hero-world.json) |
 | Idle Human | 204484 | [204484-idle-human.json](./204484-idle-human.json) |
@@ -1083,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interitus | 201249 | [201249-interitus.json](./201249-interitus.json) |
 | Interkosmos 2000 | 215398 | [215398-interkosmos-2000.json](./215398-interkosmos-2000.json) |
 | Interlocked | 83578 | [83578-interlocked.json](./83578-interlocked.json) |
+| Interlocked: Puzzle Islands | 406183 | [406183-interlocked-puzzle-islands.json](./406183-interlocked-puzzle-islands.json) |
 | Interloper | 247525 | [247525-interloper.json](./247525-interloper.json) |
 | Interlude | 139421 | [139421-interlude.json](./139421-interlude.json) |
 | Intermundia: Dungeons, Polygons & Magic | 333001 | [333001-intermundia-dungeons-polygons-and-magic.json](./333001-intermundia-dungeons-polygons-and-magic.json) |
