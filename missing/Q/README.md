@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
 | Quantum Break: Timeless Collector's Edition | 103387 | [103387-quantum-break-timeless-collectors-edition.json](./103387-quantum-break-timeless-collectors-edition.json) |
 | Quantum Chess | 33252 | [33252-quantum-chess.json](./33252-quantum-chess.json) |
+| Quantum Coffee Conundrum: Director's Cut | 400937 | [400937-quantum-coffee-conundrum-directors-cut.json](./400937-quantum-coffee-conundrum-directors-cut.json) |
 | Quantum Coherence | 215901 | [215901-quantum-coherence.json](./215901-quantum-coherence.json) |
 | Quantum Contours | 278394 | [278394-quantum-contours.json](./278394-quantum-contours.json) |
 | Quantum Conundrum: The Desmond Debacle | 172125 | [172125-quantum-conundrum-the-desmond-debacle.json](./172125-quantum-conundrum-the-desmond-debacle.json) |
