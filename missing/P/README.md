@@ -1542,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneerz | 129219 | [129219-pioneerz.json](./129219-pioneerz.json) |
 | Pip My Dice | 314288 | [314288-pip-my-dice.json](./314288-pip-my-dice.json) |
 | Pip Pepper Park Planner | 347116 | [347116-pip-pepper-park-planner.json](./347116-pip-pepper-park-planner.json) |
+| Pipe by BMX Streets | 89977 | [89977-pipe-by-bmx-streets.json](./89977-pipe-by-bmx-streets.json) |
 | Pipe Connect | 290422 | [290422-pipe-connect.json](./290422-pipe-connect.json) |
 | Pipe Cube | 125964 | [125964-pipe-cube.json](./125964-pipe-cube.json) |
 | Pipe Dream | 200 | [200-pipe-dream.json](./200-pipe-dream.json) |
@@ -2335,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
 | Pokubittu | 97836 | [97836-pokubittu.json](./97836-pokubittu.json) |
+| Polar Bear Cub: games for kids | 90028 | [90028-polar-bear-cub-games-for-kids.json](./90028-polar-bear-cub-games-for-kids.json) |
 | Polar Bear in Space! | 250934 | [250934-polar-bear-in-space.json](./250934-polar-bear-in-space.json) |
 | Polar Bowler 1st Frame | 294452 | [294452-polar-bowler-1st-frame.json](./294452-polar-bowler-1st-frame.json) |
 | Polar Panic | 21768 | [21768-polar-panic.json](./21768-polar-panic.json) |
@@ -3376,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocoss Oejeon: Darasian-pyeon | 145600 | [145600-protocoss-oejeon-darasian-pyeon.json](./145600-protocoss-oejeon-darasian-pyeon.json) |
 | ProtoDungeon: Episode I | 181879 | [181879-protodungeon-episode-i.json](./181879-protodungeon-episode-i.json) |
 | Protoform | 107113 | [107113-protoform.json](./107113-protoform.json) |
+| Protolife | 89973 | [89973-protolife.json](./89973-protolife.json) |
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
 | Proton Pulse + | 56526 | [56526-proton-pulse.json](./56526-proton-pulse.json) |
 | Proton VR | 392133 | [392133-proton-vr.json](./392133-proton-vr.json) |
@@ -3588,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Stat College Basketball | 47212 | [47212-pure-stat-college-basketball.json](./47212-pure-stat-college-basketball.json) |
 | PureSim Baseball 2005 | 23784 | [23784-puresim-baseball-2005.json](./23784-puresim-baseball-2005.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
+| Purgatory Fell | 90254 | [90254-purgatory-fell.json](./90254-purgatory-fell.json) |
 | Purgatory Survivors | 298048 | [298048-purgatory-survivors.json](./298048-purgatory-survivors.json) |
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
 | Purikura Daisakusen | 39572 | [39572-purikura-daisakusen.json](./39572-purikura-daisakusen.json) |
