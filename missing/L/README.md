@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
 | Layer - Simple is Hard | 128568 | [128568-layer-simple-is-hard.json](./128568-layer-simple-is-hard.json) |
 | Layer Section & Galactic Attack: S-Tribute | 199159 | [199159-layer-section-and-galactic-attack-s-tribute.json](./199159-layer-section-and-galactic-attack-s-tribute.json) |
+| Layermask | 402995 | [402995-layermask.json](./402995-layermask.json) |
 | Layers | 75098 | [75098-layers.json](./75098-layers.json) |
 | Layers of Fear | 204363 | [204363-layers-of-fear.json](./204363-layers-of-fear.json) |
 | Layers of Fear: Deluxe Edition | 254177 | [254177-layers-of-fear-deluxe-edition.json](./254177-layers-of-fear-deluxe-edition.json) |
@@ -1455,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LivingForest | 306374 | [306374-livingforest.json](./306374-livingforest.json) |
 | Livingstone Supongo | 37079 | [37079-livingstone-supongo.json](./37079-livingstone-supongo.json) |
 | Livli: A Sámi Story | 293894 | [293894-livli-a-sami-story.json](./293894-livli-a-sami-story.json) |
+| Livora | 402966 | [402966-livora.json](./402966-livora.json) |
 | Lix | 97896 | [97896-lix.json](./97896-lix.json) |
 | Liyf | 275349 | [275349-liyf.json](./275349-liyf.json) |
 | Lizard | 19574 | [19574-lizard.json](./19574-lizard.json) |
@@ -1770,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Child | 348223 | [348223-lost-child.json](./348223-lost-child.json) |
 | Lost Chronology | 413638 | [413638-lost-chronology.json](./413638-lost-chronology.json) |
 | Lost Circus | 175363 | [175363-lost-circus.json](./175363-lost-circus.json) |
+| Lost City | 403010 | [403010-lost-city.json](./403010-lost-city.json) |
 | Lost Crypts | 94759 | [94759-lost-crypts.json](./94759-lost-crypts.json) |
 | Lost Cube | 156619 | [156619-lost-cube.json](./156619-lost-cube.json) |
 | Lost Deltarune | 408795 | [408795-lost-deltarune.json](./408795-lost-deltarune.json) |
