@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
 | A Tale about Tail | 185079 | [185079-a-tale-about-tail.json](./185079-a-tale-about-tail.json) |
+| A Tale for Anna: Collector's Edition | 382907 | [382907-a-tale-for-anna-collectors-edition.json](./382907-a-tale-for-anna-collectors-edition.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
@@ -270,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss World | 235746 | [235746-abyss-world.json](./235746-abyss-world.json) |
 | Abyss: House | 356070 | [356070-abyss-house.json](./356070-abyss-house.json) |
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
+| Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
@@ -401,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
 | Adventure Time: Rockstars of Ooo | 59923 | [59923-adventure-time-rockstars-of-ooo.json](./59923-adventure-time-rockstars-of-ooo.json) |
 | Adventure To Fate: Dungeons | 397826 | [397826-adventure-to-fate-dungeons.json](./397826-adventure-to-fate-dungeons.json) |
+| Adventure Trip: Amazing World 3 | 382908 | [382908-adventure-trip-amazing-world-3.json](./382908-adventure-trip-amazing-world-3.json) |
 | Adventure Value Pack #2 | 77327 | [77327-adventure-value-pack-2.json](./77327-adventure-value-pack-2.json) |
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
 | Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
@@ -2781,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armies of Ganivar | 130322 | [130322-armies-of-ganivar.json](./130322-armies-of-ganivar.json) |
 | Armobiles | 122976 | [122976-armobiles.json](./122976-armobiles.json) |
 | Armor Assault | 24898 | [24898-armor-assault.json](./24898-armor-assault.json) |
+| Armor Attack | 382918 | [382918-armor-attack.json](./382918-armor-attack.json) |
 | Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
 | Armor Blitz | 276698 | [276698-armor-blitz.json](./276698-armor-blitz.json) |
 | Armor Clash 2022 | 188092 | [188092-armor-clash-2022.json](./188092-armor-clash-2022.json) |
