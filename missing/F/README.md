@@ -2416,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractium | 217512 | [217512-fractium.json](./217512-fractium.json) |
 | Fracture In Space | 217291 | [217291-fracture-in-space.json](./217291-fracture-in-space.json) |
 | Fracture Point | 335257 | [335257-fracture-point.json](./335257-fracture-point.json) |
+| Fracture the Flag | 26551 | [26551-fracture-the-flag.json](./26551-fracture-the-flag.json) |
 | Fractured Lands | 102871 | [102871-fractured-lands.json](./102871-fractured-lands.json) |
 | Fractus | 75072 | [75072-fractus.json](./75072-fractus.json) |
 | Frag | 110296 | [110296-frag.json](./110296-frag.json) |
