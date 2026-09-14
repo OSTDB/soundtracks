@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barro T23 | 246957 | [246957-barro-t23.json](./246957-barro-t23.json) |
 | Barro T23: Pack #1 | 298339 | [298339-barro-t23-pack-1.json](./298339-barro-t23-pack-1.json) |
 | Barrok | 309877 | [309877-barrok.json](./309877-barrok.json) |
+| Barrok 2 | 382290 | [382290-barrok-2.json](./382290-barrok-2.json) |
 | Barry Bonds enter the world of Myst | 322363 | [322363-barry-bonds-enter-the-world-of-myst.json](./322363-barry-bonds-enter-the-world-of-myst.json) |
 | Barry Has a Secret | 102173 | [102173-barry-has-a-secret.json](./102173-barry-has-a-secret.json) |
 | Barry Mcguigan Championship Boxing | 45336 | [45336-barry-mcguigan-championship-boxing.json](./45336-barry-mcguigan-championship-boxing.json) |
@@ -1787,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiards Simulator | 14304 | [14304-billiards-simulator.json](./14304-billiards-simulator.json) |
 | Billiards Xciting | 78000 | [78000-billiards-xciting.json](./78000-billiards-xciting.json) |
 | Billion | 402385 | [402385-billion.json](./402385-billion.json) |
+| Billion Bounces | 382334 | [382334-billion-bounces.json](./382334-billion-bounces.json) |
 | Billion Egg Farm | 407445 | [407445-billion-egg-farm.json](./407445-billion-egg-farm.json) |
 | Billion Road | 109474 | [109474-billion-road.json](./109474-billion-road.json) |
 | Billionaire Life Simulator | 411583 | [411583-billionaire-life-simulator.json](./411583-billionaire-life-simulator.json) |
@@ -3178,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundless | 369560 | [369560-boundless.json](./369560-boundless.json) |
 | Boundless Skies | 278969 | [278969-boundless-skies.json](./278969-boundless-skies.json) |
 | Bounters | 199119 | [199119-bounters.json](./199119-bounters.json) |
+| Bountiful Hunters | 382315 | [382315-bountiful-hunters.json](./382315-bountiful-hunters.json) |
 | Bounty Battle | 107873 | [107873-bounty-battle.json](./107873-bounty-battle.json) |
 | Bounty Bob Strikes Back! | 12305 | [12305-bounty-bob-strikes-back.json](./12305-bounty-bob-strikes-back.json) |
 | Bounty Drag Racing: Import Modified Pack 1 | 267074 | [267074-bounty-drag-racing-import-modified-pack-1.json](./267074-bounty-drag-racing-import-modified-pack-1.json) |
