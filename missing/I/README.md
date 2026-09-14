@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Touch | 389984 | [389984-i-wanna-touch.json](./389984-i-wanna-touch.json) |
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
 | I Want to Go to Mars | 130363 | [130363-i-want-to-go-to-mars.json](./130363-i-want-to-go-to-mars.json) |
+| I Want To Make Something Beautiful | 391209 | [391209-i-want-to-make-something-beautiful.json](./391209-i-want-to-make-something-beautiful.json) |
 | I was a Cannibal for the FBI | 71526 | [71526-i-was-a-cannibal-for-the-fbi.json](./71526-i-was-a-cannibal-for-the-fbi.json) |
 | I Was Dead, But… | 243139 | [243139-i-was-dead-but.json](./243139-i-was-dead-but.json) |
 | I was here | 68681 | [68681-i-was-here.json](./68681-i-was-here.json) |
@@ -386,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Space Force | 246425 | [246425-idle-space-force.json](./246425-idle-space-force.json) |
 | Idle Sphere | 323157 | [323157-idle-sphere.json](./323157-idle-sphere.json) |
 | Idle Spiral | 211230 | [211230-idle-spiral.json](./211230-idle-spiral.json) |
+| Idle Squire | 391172 | [391172-idle-squire.json](./391172-idle-squire.json) |
 | Idle Submarine | 255747 | [255747-idle-submarine.json](./255747-idle-submarine.json) |
 | Idle Summoners: Heroes VIP | 100756 | [100756-idle-summoners-heroes-vip.json](./100756-idle-summoners-heroes-vip.json) |
 | Idle Tap Zoo: Tap, Build & Upg | 245345 | [245345-idle-tap-zoo-tap-build-and-upg.json](./245345-idle-tap-zoo-tap-build-and-upg.json) |
