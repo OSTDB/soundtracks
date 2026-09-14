@@ -3494,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Beyond Horizons | 290959 | [290959-drive-beyond-horizons.json](./290959-drive-beyond-horizons.json) |
 | Drive Drift X | 187487 | [187487-drive-drift-x.json](./187487-drive-drift-x.json) |
 | Drive for Your Life | 116722 | [116722-drive-for-your-life.json](./116722-drive-for-your-life.json) |
+| Drive Megapolis | 31659 | [31659-drive-megapolis.json](./31659-drive-megapolis.json) |
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
 | Drive Your Car | 199629 | [199629-drive-your-car.json](./199629-drive-your-car.json) |
 | Driveby Gangster | 34452 | [34452-driveby-gangster.json](./34452-driveby-gangster.json) |
@@ -3668,6 +3669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck's Despair | 249817 | [249817-ducks-despair.json](./249817-ducks-despair.json) |
 | Duckball: Glorious Ducks | 133987 | [133987-duckball-glorious-ducks.json](./133987-duckball-glorious-ducks.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
+| Duckpocalypse | 31767 | [31767-duckpocalypse.json](./31767-duckpocalypse.json) |
 | Ducks | 314262 | [314262-ducks.json](./314262-ducks.json) |
 | Ducks | 314263 | [314263-ducks.json](./314263-ducks.json) |
 | Ducks Ahoy! | 76603 | [76603-ducks-ahoy.json](./76603-ducks-ahoy.json) |
