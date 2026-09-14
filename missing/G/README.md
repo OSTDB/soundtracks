@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls' Fashion Shoot | 79894 | [79894-girls-fashion-shoot.json](./79894-girls-fashion-shoot.json) |
 | Girls' Film Club! | 410245 | [410245-girls-film-club.json](./410245-girls-film-club.json) |
 | Girls' Frontline | 58075 | [58075-girls-frontline.json](./58075-girls-frontline.json) |
+| Girls' Frontline: The Lunasia Covenant | 400303 | [400303-girls-frontline-the-lunasia-covenant.json](./400303-girls-frontline-the-lunasia-covenant.json) |
 | Girls' RPG: Cinderella Life | 92477 | [92477-girls-rpg-cinderella-life.json](./92477-girls-rpg-cinderella-life.json) |
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
 | Gitaroo Man Lives! | 42813 | [42813-gitaroo-man-lives.json](./42813-gitaroo-man-lives.json) |
@@ -1994,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
 | Grim Chronicles: Superior Sorcery | 416700 | [416700-grim-chronicles-superior-sorcery.json](./416700-grim-chronicles-superior-sorcery.json) |
+| Grim Dice | 401023 | [401023-grim-dice.json](./401023-grim-dice.json) |
 | Grim Ember | 149524 | [149524-grim-ember.json](./149524-grim-ember.json) |
 | Grim Facade: Hidden Sins | 104659 | [104659-grim-facade-hidden-sins.json](./104659-grim-facade-hidden-sins.json) |
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
