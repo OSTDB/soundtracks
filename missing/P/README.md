@@ -2907,6 +2907,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Praetorians HD Remaster | 119382 | [119382-praetorians-hd-remaster.json](./119382-praetorians-hd-remaster.json) |
 | Praey for the Gods | 14378 | [14378-praey-for-the-gods.json](./14378-praey-for-the-gods.json) |
 | Pragma Twice | 347714 | [347714-pragma-twice.json](./347714-pragma-twice.json) |
+| Pragmata: Deluxe Edition | 385206 | [385206-pragmata-deluxe-edition.json](./385206-pragmata-deluxe-edition.json) |
+| Pragmata: Shelter Variety Pack | 385179 | [385179-pragmata-shelter-variety-pack.json](./385179-pragmata-shelter-variety-pack.json) |
 | Pragmatics | 326068 | [326068-pragmatics.json](./326068-pragmatics.json) |
 | Prague Metro Simulator: Passenger Transport | 207813 | [207813-prague-metro-simulator-passenger-transport.json](./207813-prague-metro-simulator-passenger-transport.json) |
 | Prana | 75113 | [75113-prana.json](./75113-prana.json) |
@@ -3806,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple War | 198541 | [198541-purple-war.json](./198541-purple-war.json) |
 | Purplearc | 374598 | [374598-purplearc.json](./374598-purplearc.json) |
 | Purpose Calling | 295795 | [295795-purpose-calling.json](./295795-purpose-calling.json) |
+| Purranoia | 385218 | [385218-purranoia.json](./385218-purranoia.json) |
 | Purrdy's Race | 335111 | [335111-purrdys-race.json](./335111-purrdys-race.json) |
 | Purrfect Tanks: The Yarnpocalypse | 391064 | [391064-purrfect-tanks-the-yarnpocalypse.json](./391064-purrfect-tanks-the-yarnpocalypse.json) |
 | Purrplate | 372987 | [372987-purrplate.json](./372987-purrplate.json) |
