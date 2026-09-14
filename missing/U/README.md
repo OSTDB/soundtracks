@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uin | 125993 | [125993-uin.json](./125993-uin.json) |
 | Uju Jeonsa Dooly | 93589 | [93589-uju-jeonsa-dooly.json](./93589-uju-jeonsa-dooly.json) |
 | UK Truck Simulator | 27641 | [27641-uk-truck-simulator.json](./27641-uk-truck-simulator.json) |
+| Ukhar | 90260 | [90260-ukhar.json](./90260-ukhar.json) |
 | Ukik | 246103 | [246103-ukik.json](./246103-ukik.json) |
 | Uknon Jones & Guynelk 2 | 293625 | [293625-uknon-jones-and-guynelk-2.json](./293625-uknon-jones-and-guynelk-2.json) |
 | Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Custom Night VR | 220139 | [220139-ultimate-custom-night-vr.json](./220139-ultimate-custom-night-vr.json) |
 | Ultimate Destruction Simulator | 343790 | [343790-ultimate-destruction-simulator.json](./343790-ultimate-destruction-simulator.json) |
 | Ultimate Disc Golf | 129001 | [129001-ultimate-disc-golf.json](./129001-ultimate-disc-golf.json) |
+| Ultimate Dragon Simulator | 86894 | [86894-ultimate-dragon-simulator.json](./86894-ultimate-dragon-simulator.json) |
 | Ultimate Drummer | 369031 | [369031-ultimate-drummer.json](./369031-ultimate-drummer.json) |
 | Ultimate Drunken Warrior Master | 303225 | [303225-ultimate-drunken-warrior-master.json](./303225-ultimate-drunken-warrior-master.json) |
 | Ultimate Dungeons & Dragons | 73282 | [73282-ultimate-dungeons-and-dragons.json](./73282-ultimate-dungeons-and-dragons.json) |
@@ -143,9 +145,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Holidays: Deluxe Edition | 328810 | [328810-ultimate-holidays-deluxe-edition.json](./328810-ultimate-holidays-deluxe-edition.json) |
 | Ultimate Indie Racing | 306651 | [306651-ultimate-indie-racing.json](./306651-ultimate-indie-racing.json) |
 | Ultimate Jewel | 242209 | [242209-ultimate-jewel.json](./242209-ultimate-jewel.json) |
+| Ultimate Jungle Simulator | 86856 | [86856-ultimate-jungle-simulator.json](./86856-ultimate-jungle-simulator.json) |
 | Ultimate Mah-Jongg | 228410 | [228410-ultimate-mah-jongg.json](./228410-ultimate-mah-jongg.json) |
 | Ultimate MMA | 133385 | [133385-ultimate-mma.json](./133385-ultimate-mma.json) |
 | Ultimate Motorcycle Simulator | 100826 | [100826-ultimate-motorcycle-simulator.json](./100826-ultimate-motorcycle-simulator.json) |
+| Ultimate Ocean Simulator | 86890 | [86890-ultimate-ocean-simulator.json](./86890-ultimate-ocean-simulator.json) |
 | Ultimate Paintball | 49901 | [49901-ultimate-paintball.json](./49901-ultimate-paintball.json) |
 | Ultimate Panzer | 216490 | [216490-ultimate-panzer.json](./216490-ultimate-panzer.json) |
 | Ultimate Pinball | 146840 | [146840-ultimate-pinball.json](./146840-ultimate-pinball.json) |
