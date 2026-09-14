@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T08:21:39.482Z",
-  "total_missing": 69085,
+  "generated_at": "2026-09-14T08:31:45.050Z",
+  "total_missing": 69097,
   "games": [
     {
       "igdb_id": 306086,
@@ -4281,11 +4281,6 @@
       "igdb_id": 417517,
       "game_name": "Adventure Mosaics: St. Patrick's Day",
       "file": "missing/A/417517-adventure-mosaics-st-patricks-day.json"
-    },
-    {
-      "igdb_id": 301597,
-      "game_name": "Adventure Of Baldero I and II",
-      "file": "missing/A/301597-adventure-of-baldero-i-and-ii.json"
     },
     {
       "igdb_id": 227853,
@@ -81508,6 +81503,11 @@
       "file": "missing/D/317865-drop-duchy.json"
     },
     {
+      "igdb_id": 411029,
+      "game_name": "Drop Loot",
+      "file": "missing/D/411029-drop-loot.json"
+    },
+    {
       "igdb_id": 216214,
       "game_name": "Drop the Number",
       "file": "missing/D/216214-drop-the-number.json"
@@ -98131,6 +98131,11 @@
       "igdb_id": 261775,
       "game_name": "Fights in Tight Spaces: Weapon of Choice",
       "file": "missing/F/261775-fights-in-tight-spaces-weapon-of-choice.json"
+    },
+    {
+      "igdb_id": 411045,
+      "game_name": "Fighty Driver",
+      "file": "missing/F/411045-fighty-driver.json"
     },
     {
       "igdb_id": 128627,
@@ -124131,6 +124136,11 @@
       "igdb_id": 7317,
       "game_name": "Haze",
       "file": "missing/H/7317-haze.json"
+    },
+    {
+      "igdb_id": 411047,
+      "game_name": "Haze Together",
+      "file": "missing/H/411047-haze-together.json"
     },
     {
       "igdb_id": 218725,
@@ -154268,6 +154278,11 @@
       "file": "missing/L/414405-labhorror.json"
     },
     {
+      "igdb_id": 411048,
+      "game_name": "Lablue Horror",
+      "file": "missing/L/411048-lablue-horror.json"
+    },
+    {
       "igdb_id": 139925,
       "game_name": "LabRat",
       "file": "missing/L/139925-labrat.json"
@@ -156346,6 +156361,11 @@
       "igdb_id": 333006,
       "game_name": "Leafing Home",
       "file": "missing/L/333006-leafing-home.json"
+    },
+    {
+      "igdb_id": 411043,
+      "game_name": "Leaftaker",
+      "file": "missing/L/411043-leaftaker.json"
     },
     {
       "igdb_id": 40206,
@@ -220238,6 +220258,11 @@
       "file": "missing/P/128016-prison-forever.json"
     },
     {
+      "igdb_id": 411031,
+      "game_name": "Prison Gambit",
+      "file": "missing/P/411031-prison-gambit.json"
+    },
+    {
       "igdb_id": 150645,
       "game_name": "Prison Girl",
       "file": "missing/P/150645-prison-girl.json"
@@ -238528,6 +238553,11 @@
       "file": "missing/R/225900-roswells-66th-anniversary.json"
     },
     {
+      "igdb_id": 411030,
+      "game_name": "Roswyn",
+      "file": "missing/R/411030-roswyn.json"
+    },
+    {
       "igdb_id": 299433,
       "game_name": "Rosy Rubicunda",
       "file": "missing/R/299433-rosy-rubicunda.json"
@@ -254416,6 +254446,11 @@
       "igdb_id": 54837,
       "game_name": "Skelattack",
       "file": "missing/S/54837-skelattack.json"
+    },
+    {
+      "igdb_id": 411028,
+      "game_name": "Skelecool: Remnants",
+      "file": "missing/S/411028-skelecool-remnants.json"
     },
     {
       "igdb_id": 183059,
@@ -342001,6 +342036,31 @@
       "igdb_id": 113431,
       "game_name": "Ys IX: Monstrum Nox",
       "file": "missing/Y/113431-ys-ix-monstrum-nox.json"
+    },
+    {
+      "igdb_id": 411023,
+      "game_name": "Ys IX: Monstrum Nox - Ride-Along Raging Bull",
+      "file": "missing/Y/411023-ys-ix-monstrum-nox-ride-along-raging-bull.json"
+    },
+    {
+      "igdb_id": 411024,
+      "game_name": "Ys IX: Monstrum Nox - Ride-Along White Cat",
+      "file": "missing/Y/411024-ys-ix-monstrum-nox-ride-along-white-cat.json"
+    },
+    {
+      "igdb_id": 411025,
+      "game_name": "Ys IX: Monstrum Nox - Unique Mask Set",
+      "file": "missing/Y/411025-ys-ix-monstrum-nox-unique-mask-set.json"
+    },
+    {
+      "igdb_id": 411026,
+      "game_name": "Ys IX: Monstrum Nox - Variety Mask Set",
+      "file": "missing/Y/411026-ys-ix-monstrum-nox-variety-mask-set.json"
+    },
+    {
+      "igdb_id": 411027,
+      "game_name": "Ys IX: Monstrum Nox - White Cat's \"Monstrum Troupe\" Costume",
+      "file": "missing/Y/411027-ys-ix-monstrum-nox-white-cats-monstrum-troupe-costume.json"
     },
     {
       "igdb_id": 15458,
