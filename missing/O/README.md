@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oatmeal | 159257 | [159257-oatmeal.json](./159257-oatmeal.json) |
 | Obake no Q-Taro: Oba Q Channel | 293908 | [293908-obake-no-q-taro-oba-q-channel.json](./293908-obake-no-q-taro-oba-q-channel.json) |
 | Obake no Q-Taro: Wan-wan Panic | 215139 | [215139-obake-no-q-taro-wan-wan-panic.json](./215139-obake-no-q-taro-wan-wan-panic.json) |
+| Obby Revival Project | 414430 | [414430-obby-revival-project.json](./414430-obby-revival-project.json) |
 | Obby: Build a 3D Amusement Park! | 402303 | [402303-obby-build-a-3d-amusement-park.json](./402303-obby-build-a-3d-amusement-park.json) |
 | Obcidian Legacy | 30004 | [30004-obcidian-legacy.json](./30004-obcidian-legacy.json) |
 | Obenseuer | 111983 | [111983-obenseuer.json](./111983-obenseuer.json) |
