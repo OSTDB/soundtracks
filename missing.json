@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T02:03:51.234Z",
-  "total_missing": 68115,
+  "generated_at": "2026-09-14T02:11:35.508Z",
+  "total_missing": 68114,
   "games": [
     {
       "igdb_id": 306086,
@@ -4086,11 +4086,6 @@
       "igdb_id": 48113,
       "game_name": "Advanced Dungeons & Dragons: DragonStrike",
       "file": "missing/A/48113-advanced-dungeons-and-dragons-dragonstrike.json"
-    },
-    {
-      "igdb_id": 8732,
-      "game_name": "Advanced Dungeons & Dragons: Pool of Radiance",
-      "file": "missing/A/8732-advanced-dungeons-and-dragons-pool-of-radiance.json"
     },
     {
       "igdb_id": 12760,
