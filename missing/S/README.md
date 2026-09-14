@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scourge of War: Waterloo - Quatre Bras | 171039 | [171039-scourge-of-war-waterloo-quatre-bras.json](./171039-scourge-of-war-waterloo-quatre-bras.json) |
 | Scourge of War: Waterloo - Wavre | 171040 | [171040-scourge-of-war-waterloo-wavre.json](./171040-scourge-of-war-waterloo-wavre.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
+| Scouts Out | 413034 | [413034-scouts-out.json](./413034-scouts-out.json) |
 | SCP 173 - Nightshift Survival Breach Containment | 102739 | [102739-scp-173-nightshift-survival-breach-containment.json](./102739-scp-173-nightshift-survival-breach-containment.json) |
 | SCP 3008 | 231390 | [231390-scp-3008.json](./231390-scp-3008.json) |
 | SCP Observer | 188680 | [188680-scp-observer.json](./188680-scp-observer.json) |
@@ -1194,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seize the Clay | 118957 | [118957-seize-the-clay.json](./118957-seize-the-clay.json) |
 | Seizure of Territories | 240802 | [240802-seizure-of-territories.json](./240802-seizure-of-territories.json) |
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
+| Sekai de Ichiban Dame na Koi | 413068 | [413068-sekai-de-ichiban-dame-na-koi.json](./413068-sekai-de-ichiban-dame-na-koi.json) |
 | Sekai de Ichiban Kimi ga Suki! | 270691 | [270691-sekai-de-ichiban-kimi-ga-suki.json](./270691-sekai-de-ichiban-kimi-ga-suki.json) |
 | Sekai no Chuushin de Mawaru | 260687 | [260687-sekai-no-chuushin-de-mawaru.json](./260687-sekai-no-chuushin-de-mawaru.json) |
 | Sekai no Gohan Shaberu! DS O-Ryouri Navi | 81255 | [81255-sekai-no-gohan-shaberu-ds-o-ryouri-navi.json](./81255-sekai-no-gohan-shaberu-ds-o-ryouri-navi.json) |
@@ -1784,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Hungers | 397665 | [397665-she-hungers.json](./397665-she-hungers.json) |
 | She is Home Alone | 310373 | [310373-she-is-home-alone.json](./310373-she-is-home-alone.json) |
 | She is Mermaid | 102086 | [102086-she-is-mermaid.json](./102086-she-is-mermaid.json) |
+| She is... | 413045 | [413045-she-is.json](./413045-she-is.json) |
 | She Save | 50511 | [50511-she-save.json](./50511-she-save.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
@@ -4675,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark in the Dark | 140616 | [140616-spark-in-the-dark.json](./140616-spark-in-the-dark.json) |
 | Spark Man | 40169 | [40169-spark-man.json](./40169-spark-man.json) |
 | Spark Of Nature | 291471 | [291471-spark-of-nature.json](./291471-spark-of-nature.json) |
+| Spark Protocol | 413036 | [413036-spark-protocol.json](./413036-spark-protocol.json) |
 | Sparked | 382199 | [382199-sparked.json](./382199-sparked.json) |
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
 | Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
@@ -5988,6 +5992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
 | Stellar Monarch: The Age of Technology | 171028 | [171028-stellar-monarch-the-age-of-technology.json](./171028-stellar-monarch-the-age-of-technology.json) |
 | Stellar Nursery | 413597 | [413597-stellar-nursery.json](./413597-stellar-nursery.json) |
+| Stellar Odyssey | 413089 | [413089-stellar-odyssey.json](./413089-stellar-odyssey.json) |
 | Stellar Outpost Commander | 292325 | [292325-stellar-outpost-commander.json](./292325-stellar-outpost-commander.json) |
 | Stellar Overload | 25570 | [25570-stellar-overload.json](./25570-stellar-overload.json) |
 | Stellar Poetry | 333954 | [333954-stellar-poetry.json](./333954-stellar-poetry.json) |
@@ -6307,6 +6312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
 | Stream Typers | 206738 | [206738-stream-typers.json](./206738-stream-typers.json) |
 | Streamer Future Wars | 204697 | [204697-streamer-future-wars.json](./204697-streamer-future-wars.json) |
+| StreamerFun | 413064 | [413064-streamerfun.json](./413064-streamerfun.json) |
 | StreamerVille | 285996 | [285996-streamerville.json](./285996-streamerville.json) |
 | StreamGods: Streamer Tycoon | 169449 | [169449-streamgods-streamer-tycoon.json](./169449-streamgods-streamer-tycoon.json) |
 | Streamline | 177552 | [177552-streamline.json](./177552-streamline.json) |
@@ -7226,6 +7232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Gore/Hard-Mode | 326065 | [326065-super-mario-64-gore-hard-mode.json](./326065-super-mario-64-gore-hard-mode.json) |
 | Super Mario 64: Green Demon Challenge | 365714 | [365714-super-mario-64-green-demon-challenge.json](./365714-super-mario-64-green-demon-challenge.json) |
 | Super Mario 64: Ocarina of Time | 132837 | [132837-super-mario-64-ocarina-of-time.json](./132837-super-mario-64-ocarina-of-time.json) |
+| Super Mario 64: Rogue Chaos Edition Version 2.0 | 413054 | [413054-super-mario-64-rogue-chaos-edition-version-2-0.json](./413054-super-mario-64-rogue-chaos-edition-version-2-0.json) |
 | Super Mario 64: Royal Legacy - Definitive Edition | 314021 | [314021-super-mario-64-royal-legacy-definitive-edition.json](./314021-super-mario-64-royal-legacy-definitive-edition.json) |
 | Super Mario 64: Star Revenge | 132839 | [132839-super-mario-64-star-revenge.json](./132839-super-mario-64-star-revenge.json) |
 | Super Mario 64: Star Revenge Redone | 132840 | [132840-super-mario-64-star-revenge-redone.json](./132840-super-mario-64-star-revenge-redone.json) |
