@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Sandur | 376454 | [376454-temple-of-sandur.json](./376454-temple-of-sandur.json) |
 | Temple of Spider | 316982 | [316982-temple-of-spider.json](./316982-temple-of-spider.json) |
 | Temple of Tangram | 198519 | [198519-temple-of-tangram.json](./198519-temple-of-tangram.json) |
+| Temple of the Apsara | 31835 | [31835-temple-of-the-apsara.json](./31835-temple-of-the-apsara.json) |
 | Temple of the Faceless Minotaur Who Sees the Burning Light | 128616 | [128616-temple-of-the-faceless-minotaur-who-sees-the-burning-light.json](./128616-temple-of-the-faceless-minotaur-who-sees-the-burning-light.json) |
 | Temple of the Lizardmen | 142486 | [142486-temple-of-the-lizardmen.json](./142486-temple-of-the-lizardmen.json) |
 | Temple of the Lizardmen 2 | 142487 | [142487-temple-of-the-lizardmen-2.json](./142487-temple-of-the-lizardmen-2.json) |
@@ -3640,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
 | The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
+| The Shape of Heart | 31840 | [31840-the-shape-of-heart.json](./31840-the-shape-of-heart.json) |
 | The Shape of Things | 211729 | [211729-the-shape-of-things.json](./211729-the-shape-of-things.json) |
 | The Shape of Us | 279601 | [279601-the-shape-of-us.json](./279601-the-shape-of-us.json) |
 | The Shape on the Ground | 152383 | [152383-the-shape-on-the-ground.json](./152383-the-shape-on-the-ground.json) |
@@ -4256,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vortex: Quantum Gate II | 73235 | [73235-the-vortex-quantum-gate-ii.json](./73235-the-vortex-quantum-gate-ii.json) |
 | The Voyager's Trail | 180757 | [180757-the-voyagers-trail.json](./180757-the-voyagers-trail.json) |
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
+| The VR Museum of Fine Art | 31662 | [31662-the-vr-museum-of-fine-art.json](./31662-the-vr-museum-of-fine-art.json) |
 | The Wacky World of Miniature Golf | 45905 | [45905-the-wacky-world-of-miniature-golf.json](./45905-the-wacky-world-of-miniature-golf.json) |
 | The Wagadu Chronicles | 241973 | [241973-the-wagadu-chronicles.json](./241973-the-wagadu-chronicles.json) |
 | The Wager | 125414 | [125414-the-wager.json](./125414-the-wager.json) |
@@ -4565,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Grade Learning Games | 86903 | [86903-third-grade-learning-games.json](./86903-third-grade-learning-games.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
 | Third Wild | 208600 | [208600-third-wild.json](./208600-third-wild.json) |
+| Thirst | 31836 | [31836-thirst.json](./31836-thirst.json) |
 | Thirsty | 310941 | [310941-thirsty.json](./310941-thirsty.json) |
 | Thirsty Suitors | 185240 | [185240-thirsty-suitors.json](./185240-thirsty-suitors.json) |
 | Thirteen Souls | 129770 | [129770-thirteen-souls.json](./129770-thirteen-souls.json) |
@@ -6906,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickshot Tactics | 382753 | [382753-trickshot-tactics.json](./382753-trickshot-tactics.json) |
 | TrickShot VR | 133457 | [133457-trickshot-vr.json](./133457-trickshot-vr.json) |
 | Trickster Trove | 314642 | [314642-trickster-trove.json](./314642-trickster-trove.json) |
+| Trickster VR | 31766 | [31766-trickster-vr.json](./31766-trickster-vr.json) |
 | Trickster VR: Horde Attack! | 119759 | [119759-trickster-vr-horde-attack.json](./119759-trickster-vr-horde-attack.json) |
 | Tricky and the Dream Caster | 316626 | [316626-tricky-and-the-dream-caster.json](./316626-tricky-and-the-dream-caster.json) |
 | Tricky Doors | 203573 | [203573-tricky-doors.json](./203573-tricky-doors.json) |
