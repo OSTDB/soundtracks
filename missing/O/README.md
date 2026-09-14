@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octagon 2: Extreme Evolution | 175418 | [175418-octagon-2-extreme-evolution.json](./175418-octagon-2-extreme-evolution.json) |
 | Octapolis | 55030 | [55030-octapolis.json](./55030-octapolis.json) |
 | Octavio Camacho | 247537 | [247537-octavio-camacho.json](./247537-octavio-camacho.json) |
+| Octillery Vs. Collection | 399055 | [399055-octillery-vs-collection.json](./399055-octillery-vs-collection.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
 | Octofight Escape | 180250 | [180250-octofight-escape.json](./180250-octofight-escape.json) |
 | OctoFurry | 128971 | [128971-octofurry.json](./128971-octofurry.json) |
