@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T04:01:33.024Z",
-  "total_missing": 68384,
+  "generated_at": "2026-09-14T04:11:36.241Z",
+  "total_missing": 68389,
   "games": [
     {
       "igdb_id": 306086,
@@ -4151,11 +4151,6 @@
       "igdb_id": 305193,
       "game_name": "Adventure 3",
       "file": "missing/A/305193-adventure-3.json"
-    },
-    {
-      "igdb_id": 45364,
-      "game_name": "Adventure A: Planet of Death",
-      "file": "missing/A/45364-adventure-a-planet-of-death.json"
     },
     {
       "igdb_id": 33017,
@@ -61313,6 +61308,11 @@
       "file": "missing/C/28792-cubrick.json"
     },
     {
+      "igdb_id": 31800,
+      "game_name": "Cubway",
+      "file": "missing/C/31800-cubway.json"
+    },
+    {
       "igdb_id": 39675,
       "game_name": "Cuby Bop",
       "file": "missing/C/39675-cuby-bop.json"
@@ -91203,6 +91203,11 @@
       "file": "missing/E/113056-existence.json"
     },
     {
+      "igdb_id": 31805,
+      "game_name": "Existentia",
+      "file": "missing/E/31805-existentia.json"
+    },
+    {
       "igdb_id": 193503,
       "game_name": "Existential",
       "file": "missing/E/193503-existential.json"
@@ -94696,6 +94701,11 @@
       "igdb_id": 381011,
       "game_name": "Farm Life",
       "file": "missing/F/381011-farm-life.json"
+    },
+    {
+      "igdb_id": 31804,
+      "game_name": "Farm Life: Natures Adventure",
+      "file": "missing/F/31804-farm-life-natures-adventure.json"
     },
     {
       "igdb_id": 55308,
@@ -116086,6 +116096,11 @@
       "igdb_id": 292517,
       "game_name": "Graveyard Shift",
       "file": "missing/G/292517-graveyard-shift.json"
+    },
+    {
+      "igdb_id": 31801,
+      "game_name": "Graveyard Shift",
+      "file": "missing/G/31801-graveyard-shift.json"
     },
     {
       "igdb_id": 90583,
@@ -216671,6 +216686,11 @@
       "igdb_id": 45092,
       "game_name": "Poy Poy",
       "file": "missing/P/45092-poy-poy.json"
+    },
+    {
+      "igdb_id": 31807,
+      "game_name": "Pozzo Jello Crusade",
+      "file": "missing/P/31807-pozzo-jello-crusade.json"
     },
     {
       "igdb_id": 364479,
@@ -334271,6 +334291,11 @@
       "igdb_id": 230297,
       "game_name": "World of Football",
       "file": "missing/W/230297-world-of-football.json"
+    },
+    {
+      "igdb_id": 31814,
+      "game_name": "World of Golf",
+      "file": "missing/W/31814-world-of-golf.json"
     },
     {
       "igdb_id": 250935,
