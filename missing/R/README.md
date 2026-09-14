@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revive: C64 Classics | 84199 | [84199-revive-c64-classics.json](./84199-revive-c64-classics.json) |
 | Revived Souls | 163912 | [163912-revived-souls.json](./163912-revived-souls.json) |
 | Reviver: The Real-Time Adventure | 63884 | [63884-reviver-the-real-time-adventure.json](./63884-reviver-the-real-time-adventure.json) |
+| Revline Online | 411689 | [411689-revline-online.json](./411689-revline-online.json) |
 | Revoland | 210661 | [210661-revoland.json](./210661-revoland.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rover Builder | 65829 | [65829-rover-builder.json](./65829-rover-builder.json) |
 | Rover Mechanic Simulator: Perseverance Rover | 170991 | [170991-rover-mechanic-simulator-perseverance-rover.json](./170991-rover-mechanic-simulator-perseverance-rover.json) |
 | Rover Wars | 177039 | [177039-rover-wars.json](./177039-rover-wars.json) |
+| Rover’s Radventure: The New Millennium | 411733 | [411733-rover-s-radventure-the-new-millennium.json](./411733-rover-s-radventure-the-new-millennium.json) |
 | Roving in the Dark | 106602 | [106602-roving-in-the-dark.json](./106602-roving-in-the-dark.json) |
 | Rovonaut Comrade | 128656 | [128656-rovonaut-comrade.json](./128656-rovonaut-comrade.json) |
 | RoVR | 55127 | [55127-rovr.json](./55127-rovr.json) |
@@ -2895,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Road Racing | 324924 | [324924-rusty-road-racing.json](./324924-rusty-road-racing.json) |
 | Rusty Seas | 207319 | [207319-rusty-seas.json](./207319-rusty-seas.json) |
 | Rusty Stings | 2962 | [2962-rusty-stings.json](./2962-rusty-stings.json) |
+| Rusty Vein | 411714 | [411714-rusty-vein.json](./411714-rusty-vein.json) |
 | Rusty Winter | 370688 | [370688-rusty-winter.json](./370688-rusty-winter.json) |
 | Rusty's Day Off: Episode One - Janitor on Duty | 249225 | [249225-rustys-day-off-episode-one-janitor-on-duty.json](./249225-rustys-day-off-episode-one-janitor-on-duty.json) |
 | Rusty's Real Deal Baseball: Bat & Switch | 258715 | [258715-rustys-real-deal-baseball-bat-and-switch.json](./258715-rustys-real-deal-baseball-bat-and-switch.json) |
