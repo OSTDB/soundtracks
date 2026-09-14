@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Parchments | 23330 | [23330-nine-parchments.json](./23330-nine-parchments.json) |
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
 | Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
+| Nine Spaces | 406182 | [406182-nine-spaces.json](./406182-nine-spaces.json) |
 | Nine to Five | 127353 | [127353-nine-to-five.json](./127353-nine-to-five.json) |
 | Nine Trials | 223989 | [223989-nine-trials.json](./223989-nine-trials.json) |
 | Nine Worlds | 150659 | [150659-nine-worlds.json](./150659-nine-worlds.json) |
@@ -1641,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Your Eyes | 156660 | [156660-not-your-eyes.json](./156660-not-your-eyes.json) |
 | Notch: The Innocent LunA - Eclipsed SinnerS | 17877 | [17877-notch-the-innocent-luna-eclipsed-sinners.json](./17877-notch-the-innocent-luna-eclipsed-sinners.json) |
 | Note to Self | 70376 | [70376-note-to-self.json](./70376-note-to-self.json) |
+| Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
 | Nother | 30899 | [30899-nother.json](./30899-nother.json) |
 | Nothing | 282550 | [282550-nothing.json](./282550-nothing.json) |
