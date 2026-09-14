@@ -2868,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
 | Sky Goddess Remaking | 235187 | [235187-sky-goddess-remaking.json](./235187-sky-goddess-remaking.json) |
 | Sky Hunter | 75165 | [75165-sky-hunter.json](./75165-sky-hunter.json) |
+| Sky In Flames | 398483 | [398483-sky-in-flames.json](./398483-sky-in-flames.json) |
 | Sky is Arrows | 62128 | [62128-sky-is-arrows.json](./62128-sky-is-arrows.json) |
 | Sky Island | 308257 | [308257-sky-island.json](./308257-sky-island.json) |
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
@@ -3597,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
 | Snowman's Land | 308234 | [308234-snowmans-land.json](./308234-snowmans-land.json) |
 | SnowRacer: Ramps | 246963 | [246963-snowracer-ramps.json](./246963-snowracer-ramps.json) |
+| SnowRunner + Expeditions: A MudRunner Game Bundle | 398397 | [398397-snowrunner-expeditions-a-mudrunner-game-bundle.json](./398397-snowrunner-expeditions-a-mudrunner-game-bundle.json) |
 | SnowRunner: 3-Year Anniversary Edition | 230833 | [230833-snowrunner-3-year-anniversary-edition.json](./230833-snowrunner-3-year-anniversary-edition.json) |
 | SnowRunner: Freightliner & Western Star Dual Pack | 366855 | [366855-snowrunner-freightliner-and-western-star-dual-pack.json](./366855-snowrunner-freightliner-and-western-star-dual-pack.json) |
 | SnowRunner: Jeep Dual Pack | 169995 | [169995-snowrunner-jeep-dual-pack.json](./169995-snowrunner-jeep-dual-pack.json) |
@@ -4788,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speak Lies | 127360 | [127360-speak-lies.json](./127360-speak-lies.json) |
 | Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
 | Speaking Simulator 2018 | 111648 | [111648-speaking-simulator-2018.json](./111648-speaking-simulator-2018.json) |
+| Spear Leap Saga | 398413 | [398413-spear-leap-saga.json](./398413-spear-leap-saga.json) |
 | Spear of Despair | 183030 | [183030-spear-of-despair.json](./183030-spear-of-despair.json) |
 | Spear of Destiny | 306981 | [306981-spear-of-destiny.json](./306981-spear-of-destiny.json) |
 | Spear of Destiny | 6633 | [6633-spear-of-destiny.json](./6633-spear-of-destiny.json) |
@@ -4817,6 +4820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
 | Special Transport Simulator 2013 | 54384 | [54384-special-transport-simulator-2013.json](./54384-special-transport-simulator-2013.json) |
 | Specimen #08 | 262963 | [262963-specimen-08.json](./262963-specimen-08.json) |
+| Specshong | 398459 | [398459-specshong.json](./398459-specshong.json) |
 | Spectacular Sparky | 165613 | [165613-spectacular-sparky.json](./165613-spectacular-sparky.json) |
 | Spectating Simulator the Racing | 123564 | [123564-spectating-simulator-the-racing.json](./123564-spectating-simulator-the-racing.json) |
 | Spectator 2 | 264629 | [264629-spectator-2.json](./264629-spectator-2.json) |
@@ -6179,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman War Lightsaber Games | 100746 | [100746-stickman-war-lightsaber-games.json](./100746-stickman-war-lightsaber-games.json) |
 | Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
 | Stickman World | 87250 | [87250-stickman-world.json](./87250-stickman-world.json) |
+| Stickman Zombie Shooting 3D | 398420 | [398420-stickman-zombie-shooting-3d.json](./398420-stickman-zombie-shooting-3d.json) |
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
 | StickMUD | 228427 | [228427-stickmud.json](./228427-stickmud.json) |
 | Sticks | 68800 | [68800-sticks.json](./68800-sticks.json) |
@@ -6206,6 +6211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Rooms | 415924 | [415924-still-rooms.json](./415924-still-rooms.json) |
 | Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
 | Still Time | 69244 | [69244-still-time.json](./69244-still-time.json) |
+| Stillwater | 398402 | [398402-stillwater.json](./398402-stillwater.json) |
 | Stimmings | 264614 | [264614-stimmings.json](./264614-stimmings.json) |
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
