@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Confidence | 236855 | [236855-kitchen-confidence.json](./236855-kitchen-confidence.json) |
 | Kitchen Gore | 355042 | [355042-kitchen-gore.json](./355042-kitchen-gore.json) |
 | Kitchen master | 26648 | [26648-kitchen-master.json](./26648-kitchen-master.json) |
+| Kite | 31757 | [31757-kite.json](./31757-kite.json) |
 | Kiteboard Hero | 175339 | [175339-kiteboard-hero.json](./175339-kiteboard-hero.json) |
 | Kiteboarding | 304600 | [304600-kiteboarding.json](./304600-kiteboarding.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
@@ -1147,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konohana 4: Yami wo Harau Inori | 213933 | [213933-konohana-4-yami-wo-harau-inori.json](./213933-konohana-4-yami-wo-harau-inori.json) |
 | KonoSuba: Fantastic Days! | 138261 | [138261-konosuba-fantastic-days.json](./138261-konosuba-fantastic-days.json) |
 | KonoSuba: God's Blessing on this Wonderful World! Judgment on this Greedy Game! | 34218 | [34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json](./34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json) |
+| Konrad's Kittens | 31830 | [31830-konrads-kittens.json](./31830-konrads-kittens.json) |
 | Kooky Kids Fort Defense | 255958 | [255958-kooky-kids-fort-defense.json](./255958-kooky-kids-fort-defense.json) |
 | Kool-Aid Man | 5676 | [5676-kool-aid-man.json](./5676-kool-aid-man.json) |
 | Kooring VR Coding Adventure | 158176 | [158176-kooring-vr-coding-adventure.json](./158176-kooring-vr-coding-adventure.json) |
@@ -1318,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuukiyomi 4: Consider It - Nintendo Switch 2 Edition | 378813 | [378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json](./378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json) |
 | Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
 | Kuusou Kagaku Sekai Gulliver Boy | 81278 | [81278-kuusou-kagaku-sekai-gulliver-boy.json](./81278-kuusou-kagaku-sekai-gulliver-boy.json) |
+| Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
 | Kwalasha | 349870 | [349870-kwalasha.json](./349870-kwalasha.json) |
 | Kwark | 270137 | [270137-kwark.json](./270137-kwark.json) |
 | Kye | 98948 | [98948-kye.json](./98948-kye.json) |
