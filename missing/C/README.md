@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
 | Charon's Staircase | 201775 | [201775-charons-staircase.json](./201775-charons-staircase.json) |
 | Charrua Soccer: Pro Edition | 277310 | [277310-charrua-soccer-pro-edition.json](./277310-charrua-soccer-pro-edition.json) |
+| Chart Weaver | 382892 | [382892-chart-weaver.json](./382892-chart-weaver.json) |
 | Charterstone: Digital Edition | 117869 | [117869-charterstone-digital-edition.json](./117869-charterstone-digital-edition.json) |
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
@@ -2153,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Magic: Spectator Mode | 99027 | [99027-clash-of-magic-spectator-mode.json](./99027-clash-of-magic-spectator-mode.json) |
 | Clash of Ten Sides | 348804 | [348804-clash-of-ten-sides.json](./348804-clash-of-ten-sides.json) |
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
+| Clash of Vikings | 382912 | [382912-clash-of-vikings.json](./382912-clash-of-vikings.json) |
 | Clash of Warriors: 9 Legends | 56428 | [56428-clash-of-warriors-9-legends.json](./56428-clash-of-warriors-9-legends.json) |
 | Classic Basic Games | 86021 | [86021-classic-basic-games.json](./86021-classic-basic-games.json) |
 | Classic Card Games | 85539 | [85539-classic-card-games.json](./85539-classic-card-games.json) |
@@ -4320,6 +4322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cumming Hotel: A Gay Furry Slice of Life | 225636 | [225636-cumming-hotel-a-gay-furry-slice-of-life.json](./225636-cumming-hotel-a-gay-furry-slice-of-life.json) |
 | Cumulater | 241347 | [241347-cumulater.json](./241347-cumulater.json) |
 | Cumulative Pack 2 | 323709 | [323709-cumulative-pack-2.json](./323709-cumulative-pack-2.json) |
+| Cunning Crooks | 382888 | [382888-cunning-crooks.json](./382888-cunning-crooks.json) |
 | Cunning Fox | 83527 | [83527-cunning-fox.json](./83527-cunning-fox.json) |
 | Cunsus Kart | 143003 | [143003-cunsus-kart.json](./143003-cunsus-kart.json) |
 | Cunt Wars | 140570 | [140570-cunt-wars.json](./140570-cunt-wars.json) |
