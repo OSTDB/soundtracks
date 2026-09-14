@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zuma Girls | 369564 | [369564-zuma-girls.json](./369564-zuma-girls.json) |
 | Zumba Fitness 2 | 5306 | [5306-zumba-fitness-2.json](./5306-zumba-fitness-2.json) |
 | Zumba Kids | 5309 | [5309-zumba-kids.json](./5309-zumba-kids.json) |
+| Zumba: Marble Jungle Adventure | 410365 | [410365-zumba-marble-jungle-adventure.json](./410365-zumba-marble-jungle-adventure.json) |
 | Zumba: The Pharaoh's Marble Revenge | 414436 | [414436-zumba-the-pharaohs-marble-revenge.json](./414436-zumba-the-pharaohs-marble-revenge.json) |
 | Zumble Ocean | 415938 | [415938-zumble-ocean.json](./415938-zumble-ocean.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
