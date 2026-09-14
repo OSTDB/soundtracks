@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
+| Last Breath | 413756 | [413756-last-breath.json](./413756-last-breath.json) |
 | Last Bus Home | 208617 | [208617-last-bus-home.json](./208617-last-bus-home.json) |
 | Last Call | 175890 | [175890-last-call.json](./175890-last-call.json) |
 | Last Call BBS | 205064 | [205064-last-call-bbs.json](./205064-last-call-bbs.json) |
@@ -359,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lasting Solstice | 130918 | [130918-lasting-solstice.json](./130918-lasting-solstice.json) |
 | Lastronaut | 344933 | [344933-lastronaut.json](./344933-lastronaut.json) |
 | LastSafeZone | 265131 | [265131-lastsafezone.json](./265131-lastsafezone.json) |
+| LastStanding | 413750 | [413750-laststanding.json](./413750-laststanding.json) |
 | Late Fee Girls | 366241 | [366241-late-fee-girls.json](./366241-late-fee-girls.json) |
 | Late For Class: Variety King | 191252 | [191252-late-for-class-variety-king.json](./191252-late-for-class-variety-king.json) |
 | Late for Love | 176517 | [176517-late-for-love.json](./176517-late-for-love.json) |
@@ -925,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexit | 58226 | [58226-lexit.json](./58226-lexit.json) |
 | Lexual | 58227 | [58227-lexual.json](./58227-lexual.json) |
 | Leygref's Castle | 2883 | [2883-leygrefs-castle.json](./2883-leygrefs-castle.json) |
+| Leyla In Veil | 413762 | [413762-leyla-in-veil.json](./413762-leyla-in-veil.json) |
 | Lez | 144955 | [144955-lez.json](./144955-lez.json) |
 | Lezdom CEO Fantasy | 331308 | [331308-lezdom-ceo-fantasy.json](./331308-lezdom-ceo-fantasy.json) |
 | Lezorub | 286002 | [286002-lezorub.json](./286002-lezorub.json) |
