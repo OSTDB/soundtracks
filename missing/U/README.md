@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unishroom | 116816 | [116816-unishroom.json](./116816-unishroom.json) |
 | Unislot | 128572 | [128572-unislot.json](./128572-unislot.json) |
 | Unit 4: Clash of Agents | 170561 | [170561-unit-4-clash-of-agents.json](./170561-unit-4-clash-of-agents.json) |
+| Unit 42: Adrift in Space | 395043 | [395043-unit-42-adrift-in-space.json](./395043-unit-42-adrift-in-space.json) |
 | United Assault: Battle of the Bulge | 195231 | [195231-united-assault-battle-of-the-bulge.json](./195231-united-assault-battle-of-the-bulge.json) |
 | United Assault: Final Stand | 334105 | [334105-united-assault-final-stand.json](./334105-united-assault-final-stand.json) |
 | United Heist | 215677 | [215677-united-heist.json](./215677-united-heist.json) |
@@ -532,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity of Command: Black Turn | 171631 | [171631-unity-of-command-black-turn.json](./171631-unity-of-command-black-turn.json) |
 | Unity to Survive | 368507 | [368507-unity-to-survive.json](./368507-unity-to-survive.json) |
 | Unity-chan the SharpShooter! | 304899 | [304899-unity-chan-the-sharpshooter.json](./304899-unity-chan-the-sharpshooter.json) |
+| Unity-Chan: Desktop Companion | 395040 | [395040-unity-chan-desktop-companion.json](./395040-unity-chan-desktop-companion.json) |
 | Unity-chan's Action Shooting | 362813 | [362813-unity-chans-action-shooting.json](./362813-unity-chans-action-shooting.json) |
 | Univers 11: Under the Sky | 195721 | [195721-univers-11-under-the-sky.json](./195721-univers-11-under-the-sky.json) |
 | Universal Boxing Manager | 70942 | [70942-universal-boxing-manager.json](./70942-universal-boxing-manager.json) |
@@ -799,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | USB-bot | 358302 | [358302-usb-bot.json](./358302-usb-bot.json) |
 | USD Clicker | 371916 | [371916-usd-clicker.json](./371916-usd-clicker.json) |
 | Use Holy Water! | 243961 | [243961-use-holy-water.json](./243961-use-holy-water.json) |
+| Use Your Brainz Edu | 395718 | [395718-use-your-brainz-edu.json](./395718-use-your-brainz-edu.json) |
 | Useless Box | 109608 | [109608-useless-box.json](./109608-useless-box.json) |
 | Useless Box: The Game | 126615 | [126615-useless-box-the-game.json](./126615-useless-box-the-game.json) |
 | Useless Demon Lord | 264351 | [264351-useless-demon-lord.json](./264351-useless-demon-lord.json) |
