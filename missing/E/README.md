@@ -1473,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
 | Evertree Inn | 30187 | [30187-evertree-inn.json](./30187-evertree-inn.json) |
 | Everwarder | 275578 | [275578-everwarder.json](./275578-everwarder.json) |
+| Every Child of Hameln | 413056 | [413056-every-child-of-hameln.json](./413056-every-child-of-hameln.json) |
 | Every Day Is Halloween | 280759 | [280759-every-day-is-halloween.json](./280759-every-day-is-halloween.json) |
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
 | Every Hue of You | 302954 | [302954-every-hue-of-you.json](./302954-every-hue-of-you.json) |
