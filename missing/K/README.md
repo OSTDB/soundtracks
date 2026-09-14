@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Kommander | 125418 | [125418-keyboard-kommander.json](./125418-keyboard-kommander.json) |
 | Keyboard Simulator | 360575 | [360575-keyboard-simulator.json](./360575-keyboard-simulator.json) |
 | Keyboard Soldier | 340788 | [340788-keyboard-soldier.json](./340788-keyboard-soldier.json) |
+| Keyboard Warrior Stickman: Typing Beat Em Up | 413773 | [413773-keyboard-warrior-stickman-typing-beat-em-up.json](./413773-keyboard-warrior-stickman-typing-beat-em-up.json) |
 | Keyboard Warrior: Dreamstate | 209714 | [209714-keyboard-warrior-dreamstate.json](./209714-keyboard-warrior-dreamstate.json) |
 | Keyg | 108385 | [108385-keyg.json](./108385-keyg.json) |
 | Keyhole Spy: Fantasy Passion | 110382 | [110382-keyhole-spy-fantasy-passion.json](./110382-keyhole-spy-fantasy-passion.json) |
