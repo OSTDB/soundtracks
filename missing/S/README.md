@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severance | 327843 | [327843-severance.json](./327843-severance.json) |
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
 | Sewage | 202329 | [202329-sewage.json](./202329-sewage.json) |
+| Sewer Call | 407454 | [407454-sewer-call.json](./407454-sewer-call.json) |
 | Sewer Flood | 181322 | [181322-sewer-flood.json](./181322-sewer-flood.json) |
 | Sewer Jam 2 | 271196 | [271196-sewer-jam-2.json](./271196-sewer-jam-2.json) |
 | Sex Adventures: BDSM Dungeon | 219597 | [219597-sex-adventures-bdsm-dungeon.json](./219597-sex-adventures-bdsm-dungeon.json) |
@@ -2260,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuwa Shuwa Guin! | 383940 | [383940-shuwa-shuwa-guin.json](./383940-shuwa-shuwa-guin.json) |
 | Shy Cats Hidden Orchestra 2 | 409556 | [409556-shy-cats-hidden-orchestra-2.json](./409556-shy-cats-hidden-orchestra-2.json) |
 | Shy Dogs Hidden Orchestra | 258215 | [258215-shy-dogs-hidden-orchestra.json](./258215-shy-dogs-hidden-orchestra.json) |
+| Shy Dogs: Hidden Orchestra 2 | 407461 | [407461-shy-dogs-hidden-orchestra-2.json](./407461-shy-dogs-hidden-orchestra-2.json) |
 | Shy Girl | 226198 | [226198-shy-girl.json](./226198-shy-girl.json) |
 | Shyftrs | 205793 | [205793-shyftrs.json](./205793-shyftrs.json) |
 | Siam Twinstick | 111714 | [111714-siam-twinstick.json](./111714-siam-twinstick.json) |
@@ -3067,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sligga Trigger | 272580 | [272580-sligga-trigger.json](./272580-sligga-trigger.json) |
 | Sliiide! | 221757 | [221757-sliiide.json](./221757-sliiide.json) |
 | Sliko | 156141 | [156141-sliko.json](./156141-sliko.json) |
+| Slime | 407438 | [407438-slime.json](./407438-slime.json) |
 | Slime Age: Parody MMORPG Clicker | 108411 | [108411-slime-age-parody-mmorpg-clicker.json](./108411-slime-age-parody-mmorpg-clicker.json) |
 | Slime and Rancher | 102756 | [102756-slime-and-rancher.json](./102756-slime-and-rancher.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
@@ -4747,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
 | Spec | 304575 | [304575-spec.json](./304575-spec.json) |
+| Special Agent: Aigis Pink | 407446 | [407446-special-agent-aigis-pink.json](./407446-special-agent-aigis-pink.json) |
 | Special Delivery: Santa's Christmas Chaos | 57621 | [57621-special-delivery-santas-christmas-chaos.json](./57621-special-delivery-santas-christmas-chaos.json) |
 | Special Edition 4 Pack: Volume One | 98951 | [98951-special-edition-4-pack-volume-one.json](./98951-special-edition-4-pack-volume-one.json) |
 | Special Enquiry Detail: The Hand that Feeds | 87309 | [87309-special-enquiry-detail-the-hand-that-feeds.json](./87309-special-enquiry-detail-the-hand-that-feeds.json) |
@@ -5999,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
 | Stella Gladio | 326075 | [326075-stella-gladio.json](./326075-stella-gladio.json) |
 | Stella Glow | 11459 | [11459-stella-glow.json](./11459-stella-glow.json) |
+| Stella Nova | 407466 | [407466-stella-nova.json](./407466-stella-nova.json) |
 | Stella Supernova: The Astral Vale | 417538 | [417538-stella-supernova-the-astral-vale.json](./417538-stella-supernova-the-astral-vale.json) |
 | Stellanova | 216264 | [216264-stellanova.json](./216264-stellanova.json) |
 | Stellar 2D | 34763 | [34763-stellar-2d.json](./34763-stellar-2d.json) |
@@ -7956,6 +7961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swat | 71547 | [71547-swat.json](./71547-swat.json) |
 | SWAT 3: Close Quarters Battle | 313 | [313-swat-3-close-quarters-battle.json](./313-swat-3-close-quarters-battle.json) |
 | SWAT Commander | 319967 | [319967-swat-commander.json](./319967-swat-commander.json) |
+| SWAT God | 407444 | [407444-swat-god.json](./407444-swat-god.json) |
 | Swat! | 60557 | [60557-swat.json](./60557-swat.json) |
 | Swatch | 179177 | [179177-swatch.json](./179177-swatch.json) |
 | Swatch Out! | 132785 | [132785-swatch-out.json](./132785-swatch-out.json) |
