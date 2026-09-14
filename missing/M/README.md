@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
 | Maleficent Free Fall | 61680 | [61680-maleficent-free-fall.json](./61680-maleficent-free-fall.json) |
 | Malevolence | 115635 | [115635-malevolence.json](./115635-malevolence.json) |
+| Malevolence: The Sword of Ahkranox | 16908 | [16908-malevolence-the-sword-of-ahkranox.json](./16908-malevolence-the-sword-of-ahkranox.json) |
 | Malfortune | 105382 | [105382-malfortune.json](./105382-malfortune.json) |
 | Malfunction FPS | 168326 | [168326-malfunction-fps.json](./168326-malfunction-fps.json) |
 | Malice | 208608 | [208608-malice.json](./208608-malice.json) |
@@ -3497,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterpatch | 334706 | [334706-monsterpatch.json](./334706-monsterpatch.json) |
 | MonsterRoll | 97917 | [97917-monsterroll.json](./97917-monsterroll.json) |
 | Monsters | 13741 | [13741-monsters.json](./13741-monsters.json) |
+| Monsters & Munitions | 16720 | [16720-monsters-and-munitions.json](./16720-monsters-and-munitions.json) |
 | Monsters and Magic | 356671 | [356671-monsters-and-magic.json](./356671-monsters-and-magic.json) |
 | Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
@@ -3989,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Boom | 46621 | [46621-mr-boom.json](./46621-mr-boom.json) |
 | Mr. Boston Clean Sweep | 72611 | [72611-mr-boston-clean-sweep.json](./72611-mr-boston-clean-sweep.json) |
 | Mr. Bree: Returning Home | 102124 | [102124-mr-bree-returning-home.json](./102124-mr-bree-returning-home.json) |
+| Mr. Bree+ | 16852 | [16852-mr-bree.json](./16852-mr-bree.json) |
 | Mr. Catfish's Singles Retreat Event Extravaganza!!! | 122353 | [122353-mr-catfishs-singles-retreat-event-extravaganza.json](./122353-mr-catfishs-singles-retreat-event-extravaganza.json) |
 | Mr. Cool | 23890 | [23890-mr-cool.json](./23890-mr-cool.json) |
 | Mr. Crab 2 | 57145 | [57145-mr-crab-2.json](./57145-mr-crab-2.json) |
