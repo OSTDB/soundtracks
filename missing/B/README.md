@@ -2241,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blight Doctors | 415867 | [415867-blight-doctors.json](./415867-blight-doctors.json) |
 | Blight Dream | 121029 | [121029-blight-dream.json](./121029-blight-dream.json) |
 | Blightborn | 338714 | [338714-blightborn.json](./338714-blightborn.json) |
+| Blightfall | 414415 | [414415-blightfall.json](./414415-blightfall.json) |
 | Blightseeker | 236510 | [236510-blightseeker.json](./236510-blightseeker.json) |
 | Bliink: Staring Contest | 143089 | [143089-bliink-staring-contest.json](./143089-bliink-staring-contest.json) |
 | Blik Ball | 413660 | [413660-blik-ball.json](./413660-blik-ball.json) |
