@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velucity | 155656 | [155656-velucity.json](./155656-velucity.json) |
 | Velvet Dark | 130336 | [130336-velvet-dark.json](./130336-velvet-dark.json) |
 | Velvet Hammer | 392149 | [392149-velvet-hammer.json](./392149-velvet-hammer.json) |
+| Velvet Shedding | 415890 | [415890-velvet-shedding.json](./415890-velvet-shedding.json) |
 | Ven Adventure | 216495 | [216495-ven-adventure.json](./216495-ven-adventure.json) |
 | Venandi In Silva | 124217 | [124217-venandi-in-silva.json](./124217-venandi-in-silva.json) |
 | Venatio | 188073 | [188073-venatio.json](./188073-venatio.json) |
@@ -754,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
 | Void Guard | 277276 | [277276-void-guard.json](./277276-void-guard.json) |
 | Void Inside | 282023 | [282023-void-inside.json](./282023-void-inside.json) |
+| Void Inspector | 415891 | [415891-void-inspector.json](./415891-void-inspector.json) |
 | Void Invaders | 18213 | [18213-void-invaders.json](./18213-void-invaders.json) |
 | Void Light | 387363 | [387363-void-light.json](./387363-void-light.json) |
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
