@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
+| Senpai ga Imouto no Saigo no Natsu | 406199 | [406199-senpai-ga-imouto-no-saigo-no-natsu.json](./406199-senpai-ga-imouto-no-saigo-no-natsu.json) |
 | Senpie | 374048 | [374048-senpie.json](./374048-senpie.json) |
 | Senran Kagura | 102788 | [102788-senran-kagura.json](./102788-senran-kagura.json) |
 | Senran Kagura Bon Appétit!: Full Course | 26008 | [26008-senran-kagura-bon-appetit-full-course.json](./26008-senran-kagura-bon-appetit-full-course.json) |
@@ -1803,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's My Vampire | 205816 | [205816-shes-my-vampire.json](./205816-shes-my-vampire.json) |
+| Shed | 406191 | [406191-shed.json](./406191-shed.json) |
 | ShedHorror | 308549 | [308549-shedhorror.json](./308549-shedhorror.json) |
 | Sheep | 229705 | [229705-sheep.json](./229705-sheep.json) |
 | Sheep Game | 99636 | [99636-sheep-game.json](./99636-sheep-game.json) |
@@ -3172,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slowly | 140553 | [140553-slowly.json](./140553-slowly.json) |
 | Slowly Fighter | 333926 | [333926-slowly-fighter.json](./333926-slowly-fighter.json) |
 | Sludge & Sorcery | 183005 | [183005-sludge-and-sorcery.json](./183005-sludge-and-sorcery.json) |
+| Sludge Department | 406197 | [406197-sludge-department.json](./406197-sludge-department.json) |
 | Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
 | Sluggish Morss: Days of the Purple Sun | 30831 | [30831-sluggish-morss-days-of-the-purple-sun.json](./30831-sluggish-morss-days-of-the-purple-sun.json) |
 | Sluggy Jean Takes a Hike | 169365 | [169365-sluggy-jean-takes-a-hike.json](./169365-sluggy-jean-takes-a-hike.json) |
@@ -3405,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snap & Grab | 347669 | [347669-snap-and-grab.json](./347669-snap-and-grab.json) |
 | Snap Game | 397705 | [397705-snap-game.json](./397705-snap-game.json) |
 | Snap Glide: Rhythm Dash | 414342 | [414342-snap-glide-rhythm-dash.json](./414342-snap-glide-rhythm-dash.json) |
+| Snap Jaw | 406216 | [406216-snap-jaw.json](./406216-snap-jaw.json) |
 | Snap Kid's | 262396 | [262396-snap-kids.json](./262396-snap-kids.json) |
 | Snap Quest | 244763 | [244763-snap-quest.json](./244763-snap-quest.json) |
 | Snap the Sentinel | 141867 | [141867-snap-the-sentinel.json](./141867-snap-the-sentinel.json) |
@@ -4386,6 +4390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
 | Space Adventure Laika | 128634 | [128634-space-adventure-laika.json](./128634-space-adventure-laika.json) |
+| Space Adventure Zodiac | 406168 | [406168-space-adventure-zodiac.json](./406168-space-adventure-zodiac.json) |
 | Space Adventure: Escape from Siphilus 1b | 219587 | [219587-space-adventure-escape-from-siphilus-1b.json](./219587-space-adventure-escape-from-siphilus-1b.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
 | Space and Lazers | 324320 | [324320-space-and-lazers.json](./324320-space-and-lazers.json) |
@@ -5926,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Blade | 278402 | [278402-stealth-blade.json](./278402-stealth-blade.json) |
 | Stealth Force: The War on Terror | 43291 | [43291-stealth-force-the-war-on-terror.json](./43291-stealth-force-the-war-on-terror.json) |
 | Stealth Inc. 2: A Game of Clones Deluxe | 51893 | [51893-stealth-inc-2-a-game-of-clones-deluxe.json](./51893-stealth-inc-2-a-game-of-clones-deluxe.json) |
+| Stealth Operative Syn: Virtual Training | 406221 | [406221-stealth-operative-syn-virtual-training.json](./406221-stealth-operative-syn-virtual-training.json) |
 | Stealth Raider | 399006 | [399006-stealth-raider.json](./399006-stealth-raider.json) |
 | Stealth Strike | 333577 | [333577-stealth-strike.json](./333577-stealth-strike.json) |
 | Stealthscape | 96732 | [96732-stealthscape.json](./96732-stealthscape.json) |
@@ -6728,6 +6734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Drops | 61048 | [61048-sugar-drops.json](./61048-sugar-drops.json) |
 | Sugar Fever | 26629 | [26629-sugar-fever.json](./26629-sugar-fever.json) |
 | Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
+| Sugar Madness | 406178 | [406178-sugar-madness.json](./406178-sugar-madness.json) |
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
 | Sugar Overdrive | 332985 | [332985-sugar-overdrive.json](./332985-sugar-overdrive.json) |
 | Sugar Rush | 58209 | [58209-sugar-rush.json](./58209-sugar-rush.json) |
@@ -8017,6 +8024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetheart | 415166 | [415166-sweetheart.json](./415166-sweetheart.json) |
 | Sweetie Candy Maze: Blackberry | 412383 | [412383-sweetie-candy-maze-blackberry.json](./412383-sweetie-candy-maze-blackberry.json) |
 | Sweetie Candy Maze: Brown Chocolate | 398322 | [398322-sweetie-candy-maze-brown-chocolate.json](./398322-sweetie-candy-maze-brown-chocolate.json) |
+| Sweetie Candy Maze: Violet Plum | 406218 | [406218-sweetie-candy-maze-violet-plum.json](./406218-sweetie-candy-maze-violet-plum.json) |
 | Sweets and Swipes | 259555 | [259555-sweets-and-swipes.json](./259555-sweets-and-swipes.json) |
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
@@ -8190,6 +8198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of War: The Nephilim Saga | 192840 | [192840-symphony-of-war-the-nephilim-saga.json](./192840-symphony-of-war-the-nephilim-saga.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
 | Symptoms of Deceit | 323729 | [323729-symptoms-of-deceit.json](./323729-symptoms-of-deceit.json) |
+| Symptoms of Infection | 406211 | [406211-symptoms-of-infection.json](./406211-symptoms-of-infection.json) |
 | Symulator Tuska 2014 | 62204 | [62204-symulator-tuska-2014.json](./62204-symulator-tuska-2014.json) |
 | Synaesthete | 79917 | [79917-synaesthete.json](./79917-synaesthete.json) |
 | Synapse | 239381 | [239381-synapse.json](./239381-synapse.json) |
