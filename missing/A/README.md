@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Light | 149534 | [149534-adventure-light.json](./149534-adventure-light.json) |
 | Adventure Mosaics: Autumn Journey | 246958 | [246958-adventure-mosaics-autumn-journey.json](./246958-adventure-mosaics-autumn-journey.json) |
 | Adventure Mosaics: Brazilian Carnival | 338700 | [338700-adventure-mosaics-brazilian-carnival.json](./338700-adventure-mosaics-brazilian-carnival.json) |
+| Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
 | Adventure of a Digger | 103425 | [103425-adventure-of-a-digger.json](./103425-adventure-of-a-digger.json) |
 | Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
@@ -1035,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Classic | 111035 | [111035-alchemy-classic.json](./111035-alchemy-classic.json) |
 | Alchemy Dungeon | 250656 | [250656-alchemy-dungeon.json](./250656-alchemy-dungeon.json) |
 | Alchemy Mastery | 302917 | [302917-alchemy-mastery.json](./302917-alchemy-mastery.json) |
+| Alchemy Odyssey 2: Tears of the Elements | 417519 | [417519-alchemy-odyssey-2-tears-of-the-elements.json](./417519-alchemy-odyssey-2-tears-of-the-elements.json) |
 | Alchemy of Love | 214160 | [214160-alchemy-of-love.json](./214160-alchemy-of-love.json) |
 | Alchemy of the Earth | 288750 | [288750-alchemy-of-the-earth.json](./288750-alchemy-of-the-earth.json) |
 | Alchemy Quest | 135904 | [135904-alchemy-quest.json](./135904-alchemy-quest.json) |
@@ -2444,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
 | Arcade Archives: XX Mission | 129194 | [129194-arcade-archives-xx-mission.json](./129194-arcade-archives-xx-mission.json) |
 | Arcade Asylum | 276711 | [276711-arcade-asylum.json](./276711-arcade-asylum.json) |
+| Arcade Audience | 417501 | [417501-arcade-audience.json](./417501-arcade-audience.json) |
 | Arcade Basketball 3D Tournament Edition | 241611 | [241611-arcade-basketball-3d-tournament-edition.json](./241611-arcade-basketball-3d-tournament-edition.json) |
 | Arcade Bowling | 67310 | [67310-arcade-bowling.json](./67310-arcade-bowling.json) |
 | Arcade Boy | 152873 | [152873-arcade-boy.json](./152873-arcade-boy.json) |
@@ -3608,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avis Rapida: Aerobatic Racing | 118384 | [118384-avis-rapida-aerobatic-racing.json](./118384-avis-rapida-aerobatic-racing.json) |
 | Avish! | 69863 | [69863-avish.json](./69863-avish.json) |
 | Avium | 274504 | [274504-avium.json](./274504-avium.json) |
+| Avlo the Imp Wizard | 417533 | [417533-avlo-the-imp-wizard.json](./417533-avlo-the-imp-wizard.json) |
 | Avo Escape Space | 275882 | [275882-avo-escape-space.json](./275882-avo-escape-space.json) |
 | Avocado | 311499 | [311499-avocado.json](./311499-avocado.json) |
 | Avocado Puzzle Quest | 211414 | [211414-avocado-puzzle-quest.json](./211414-avocado-puzzle-quest.json) |
