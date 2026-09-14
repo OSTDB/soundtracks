@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.Q Intelligent Qube | 215363 | [215363-i-q-intelligent-qube.json](./215363-i-q-intelligent-qube.json) |
 | I.Rule | 208402 | [208402-i-rule.json](./208402-i-rule.json) |
 | I'd Kill You as a Worm | 331682 | [331682-id-kill-you-as-a-worm.json](./331682-id-kill-you-as-a-worm.json) |
+| I'll Be Back to the Future with a Terminator | 395714 | [395714-ill-be-back-to-the-future-with-a-terminator.json](./395714-ill-be-back-to-the-future-with-a-terminator.json) |
 | I'll Do It Tomorrow | 278990 | [278990-ill-do-it-tomorrow.json](./278990-ill-do-it-tomorrow.json) |
 | I'll Put You In Debt | 82856 | [82856-ill-put-you-in-debt.json](./82856-ill-put-you-in-debt.json) |
 | I'm a cowboy: Western Shooter | 173226 | [173226-im-a-cowboy-western-shooter.json](./173226-im-a-cowboy-western-shooter.json) |
@@ -539,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immoral Shadows | 236829 | [236829-immoral-shadows.json](./236829-immoral-shadows.json) |
 | Immoral Ward | 22483 | [22483-immoral-ward.json](./22483-immoral-ward.json) |
 | Immortal Awakening | 227252 | [227252-immortal-awakening.json](./227252-immortal-awakening.json) |
+| Immortal Clan: Grandmastery | 395726 | [395726-immortal-clan-grandmastery.json](./395726-immortal-clan-grandmastery.json) |
 | Immortal Coil | 411722 | [411722-immortal-coil.json](./411722-immortal-coil.json) |
 | Immortal Conquest | 174830 | [174830-immortal-conquest.json](./174830-immortal-conquest.json) |
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
@@ -1042,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InstaTok Tycoon | 301837 | [301837-instatok-tycoon.json](./301837-instatok-tycoon.json) |
 | Instinct | 286509 | [286509-instinct.json](./286509-instinct.json) |
 | Instinct: Survival | 118000 | [118000-instinct-survival.json](./118000-instinct-survival.json) |
+| Instruments of Power | 395696 | [395696-instruments-of-power.json](./395696-instruments-of-power.json) |
 | Insufficient Adjectives | 134621 | [134621-insufficient-adjectives.json](./134621-insufficient-adjectives.json) |
 | Insulted | 229676 | [229676-insulted.json](./229676-insulted.json) |
 | Insurgence: Chains of Renegade - Remastered | 240768 | [240768-insurgence-chains-of-renegade-remastered.json](./240768-insurgence-chains-of-renegade-remastered.json) |
