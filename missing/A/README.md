@@ -362,7 +362,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
 | Adventure In Aellion | 117691 | [117691-adventure-in-aellion.json](./117691-adventure-in-aellion.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
-| Adventure in the Snow Globe | 365077 | [365077-adventure-in-the-snow-globe.json](./365077-adventure-in-the-snow-globe.json) |
 | Adventure Inlay: Safari Edition | 52550 | [52550-adventure-inlay-safari-edition.json](./52550-adventure-inlay-safari-edition.json) |
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
