@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadOS | 158207 | [158207-deados.json](./158207-deados.json) |
 | Deadpool | 1919 | [1919-deadpool.json](./1919-deadpool.json) |
 | Deadrock Salvation | 382752 | [382752-deadrock-salvation.json](./382752-deadrock-salvation.json) |
+| DeadRoot | 404919 | [404919-deadroot.json](./404919-deadroot.json) |
 | Deadrop | 210684 | [210684-deadrop.json](./210684-deadrop.json) |
 | DeadShore | 356641 | [356641-deadshore.json](./356641-deadshore.json) |
 | DeadShotZ | 129914 | [129914-deadshotz.json](./129914-deadshotz.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice: Devils Game | 188041 | [188041-dice-devils-game.json](./188041-dice-devils-game.json) |
 | Dice: DNA Intergrated Cybernetic Enterprises | 65514 | [65514-dice-dna-intergrated-cybernetic-enterprises.json](./65514-dice-dna-intergrated-cybernetic-enterprises.json) |
 | Dice: The Dice Game! | 229971 | [229971-dice-the-dice-game.json](./229971-dice-the-dice-game.json) |
+| Dice'n'Go | 404963 | [404963-dicengo.json](./404963-dicengo.json) |
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
 | Dicepath | 405592 | [405592-dicepath.json](./405592-dicepath.json) |
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
