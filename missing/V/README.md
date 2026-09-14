@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vietnam: Black Ops | 78703 | [78703-vietnam-black-ops.json](./78703-vietnam-black-ops.json) |
 | Viewpoint | 20707 | [20707-viewpoint.json](./20707-viewpoint.json) |
 | Viewpoint 2064 | 225296 | [225296-viewpoint-2064.json](./225296-viewpoint-2064.json) |
+| Viewpoints | 51715 | [51715-viewpoints.json](./51715-viewpoints.json) |
 | ViewSelect the Game | 140588 | [140588-viewselect-the-game.json](./140588-viewselect-the-game.json) |
 | Viewtiful Joe 2 | 4230 | [4230-viewtiful-joe-2.json](./4230-viewtiful-joe-2.json) |
 | Vifa | 379374 | [379374-vifa.json](./379374-vifa.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
 | VR Fantasy | 395540 | [395540-vr-fantasy.json](./395540-vr-fantasy.json) |
 | VR Fishtank | 244772 | [244772-vr-fishtank.json](./244772-vr-fishtank.json) |
+| VR Formula | 51517 | [51517-vr-formula.json](./51517-vr-formula.json) |
 | VR Furballs: Demolition | 81062 | [81062-vr-furballs-demolition.json](./81062-vr-furballs-demolition.json) |
 | VR Giants | 107183 | [107183-vr-giants.json](./107183-vr-giants.json) |
 | VR Ground: Crazy Farm | 105311 | [105311-vr-ground-crazy-farm.json](./105311-vr-ground-crazy-farm.json) |
