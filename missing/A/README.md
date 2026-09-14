@@ -368,7 +368,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Inlay: Safari Edition | 52550 | [52550-adventure-inlay-safari-edition.json](./52550-adventure-inlay-safari-edition.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
-| Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
 | Adventure of Priestess | 200125 | [200125-adventure-of-priestess.json](./200125-adventure-of-priestess.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
