@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Barrier | 29747 | [29747-hero-barrier.json](./29747-hero-barrier.json) |
 | Hero Battle | 33001 | [33001-hero-battle.json](./33001-hero-battle.json) |
 | Hero Blaze: Three Kingdoms | 212463 | [212463-hero-blaze-three-kingdoms.json](./212463-hero-blaze-three-kingdoms.json) |
+| Hero Bootcamp | 380573 | [380573-hero-bootcamp.json](./380573-hero-bootcamp.json) |
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
 | Hero Fighter | 66720 | [66720-hero-fighter.json](./66720-hero-fighter.json) |
 | Hero Fighters Club | 62693 | [62693-hero-fighters-club.json](./62693-hero-fighters-club.json) |
@@ -1376,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
 | Heroes Stand Tall: M.E.T.A | 302116 | [302116-heroes-stand-tall-m-e-t-a.json](./302116-heroes-stand-tall-m-e-t-a.json) |
 | Heroes Tactics | 37054 | [37054-heroes-tactics.json](./37054-heroes-tactics.json) |
+| Heroes Together VR | 380567 | [380567-heroes-together-vr.json](./380567-heroes-together-vr.json) |
 | Heroes United | 327209 | [327209-heroes-united.json](./327209-heroes-united.json) |
 | Heroes vs. Hordes | 243120 | [243120-heroes-vs-hordes.json](./243120-heroes-vs-hordes.json) |
 | Heroes War | 200722 | [200722-heroes-war.json](./200722-heroes-war.json) |
@@ -1645,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
 | Hide and Sink | 410928 | [410928-hide-and-sink.json](./410928-hide-and-sink.json) |
 | Hide The Corpse | 306936 | [306936-hide-the-corpse.json](./306936-hide-the-corpse.json) |
+| Hide The Corpse: Gusimir Mansion | 380564 | [380564-hide-the-corpse-gusimir-mansion.json](./380564-hide-the-corpse-gusimir-mansion.json) |
 | Hide Time: Chapter 2 | 248911 | [248911-hide-time-chapter-2.json](./248911-hide-time-chapter-2.json) |
 | Hide vs. Seek | 28942 | [28942-hide-vs-seek.json](./28942-hide-vs-seek.json) |
 | Hide vs. Seek! | 378808 | [378808-hide-vs-seek.json](./378808-hide-vs-seek.json) |
@@ -2133,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: The Banquet Operative | 383390 | [383390-honkai-impact-3rd-the-banquet-operative.json](./383390-honkai-impact-3rd-the-banquet-operative.json) |
 | Honkai: Star Rail - In Ravages Does the Whistle Sound | 408877 | [408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json](./408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json) |
 | Honkai: Star Rail - Into the Yawning Chasm | 290387 | [290387-honkai-star-rail-into-the-yawning-chasm.json](./290387-honkai-star-rail-into-the-yawning-chasm.json) |
+| Honkai: Star Rail - Memories are the Prelude to Dreams | 380531 | [380531-honkai-star-rail-memories-are-the-prelude-to-dreams.json](./380531-honkai-star-rail-memories-are-the-prelude-to-dreams.json) |
 | Honkai: Star Rail - Paean of Era Nova | 326609 | [326609-honkai-star-rail-paean-of-era-nova.json](./326609-honkai-star-rail-paean-of-era-nova.json) |
 | Honkai: Star Rail - So Laughed the Masses | 398432 | [398432-honkai-star-rail-so-laughed-the-masses.json](./398432-honkai-star-rail-so-laughed-the-masses.json) |
 | Honkai: Star Rail - The Crepuscule Zone | 274834 | [274834-honkai-star-rail-the-crepuscule-zone.json](./274834-honkai-star-rail-the-crepuscule-zone.json) |
@@ -2510,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How To Build A Snowman | 383492 | [383492-how-to-build-a-snowman.json](./383492-how-to-build-a-snowman.json) |
 | How To Build Your Igloo | 253931 | [253931-how-to-build-your-igloo.json](./253931-how-to-build-your-igloo.json) |
 | How to Chicken 101 | 181399 | [181399-how-to-chicken-101.json](./181399-how-to-chicken-101.json) |
+| How to create a witch | 380544 | [380544-how-to-create-a-witch.json](./380544-how-to-create-a-witch.json) |
 | How to Date a Non-Terrian Person | 184081 | [184081-how-to-date-a-non-terrian-person.json](./184081-how-to-date-a-non-terrian-person.json) |
 | How to Destroy a City | 408080 | [408080-how-to-destroy-a-city.json](./408080-how-to-destroy-a-city.json) |
 | How to Die. | 218131 | [218131-how-to-die.json](./218131-how-to-die.json) |
