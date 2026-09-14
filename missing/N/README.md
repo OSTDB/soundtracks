@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Non-Stop Space Probe | 237389 | [237389-non-stop-space-probe.json](./237389-non-stop-space-probe.json) |
 | Nona's Game | 211925 | [211925-nonas-game.json](./211925-nonas-game.json) |
 | Nonamed | 84264 | [84264-nonamed.json](./84264-nonamed.json) |
+| Noneday | 387549 | [387549-noneday.json](./387549-noneday.json) |
 | Nonentity Galaxy | 311490 | [311490-nonentity-galaxy.json](./311490-nonentity-galaxy.json) |
 | Nonet Sympathia | 124761 | [124761-nonet-sympathia.json](./124761-nonet-sympathia.json) |
 | Nonno Lorenzo | 216983 | [216983-nonno-lorenzo.json](./216983-nonno-lorenzo.json) |
@@ -1852,5 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nykrig | 184646 | [184646-nykrig.json](./184646-nykrig.json) |
 | Nymphomania Paradox | 82784 | [82784-nymphomania-paradox.json](./82784-nymphomania-paradox.json) |
 | Nyra: The Fall of Light | 390097 | [390097-nyra-the-fall-of-light.json](./390097-nyra-the-fall-of-light.json) |
+| NYT Crossplay: Play and Spell | 387535 | [387535-nyt-crossplay-play-and-spell.json](./387535-nyt-crossplay-play-and-spell.json) |
 | NYT Games | 280218 | [280218-nyt-games.json](./280218-nyt-games.json) |
+| Nyx Legacy | 387508 | [387508-nyx-legacy.json](./387508-nyx-legacy.json) |
 | NYZD | 291442 | [291442-nyzd.json](./291442-nyzd.json) |
