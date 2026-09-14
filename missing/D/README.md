@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
 | Delicious: Emily's Big Surprise | 322569 | [322569-delicious-emilys-big-surprise.json](./322569-delicious-emilys-big-surprise.json) |
 | Delicious: Emily's Honeymoon Cruise | 145628 | [145628-delicious-emilys-honeymoon-cruise.json](./145628-delicious-emilys-honeymoon-cruise.json) |
+| Delicious: Emily's Moms vs. Dads | 80946 | [80946-delicious-emilys-moms-vs-dads.json](./80946-delicious-emilys-moms-vs-dads.json) |
 | Delicious: Emily's Road Trip | 117545 | [117545-delicious-emilys-road-trip.json](./117545-delicious-emilys-road-trip.json) |
 | Delicious: Emily's Taste of Fame | 89222 | [89222-delicious-emilys-taste-of-fame.json](./89222-delicious-emilys-taste-of-fame.json) |
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
@@ -2675,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Factory | 295801 | [295801-doodle-factory.json](./295801-doodle-factory.json) |
 | Doodle God | 18528 | [18528-doodle-god.json](./18528-doodle-god.json) |
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
+| Doodle God: Alchemy Jam | 80911 | [80911-doodle-god-alchemy-jam.json](./80911-doodle-god-alchemy-jam.json) |
 | Doodle God: Fantasy World of Magic | 186346 | [186346-doodle-god-fantasy-world-of-magic.json](./186346-doodle-god-fantasy-world-of-magic.json) |
 | Doodle God: Genesis Secrets | 99617 | [99617-doodle-god-genesis-secrets.json](./99617-doodle-god-genesis-secrets.json) |
 | Doodle God: Merge Evolution | 334699 | [334699-doodle-god-merge-evolution.json](./334699-doodle-god-merge-evolution.json) |
@@ -3199,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfire | 5671 | [5671-dragonfire.json](./5671-dragonfire.json) |
 | DragonFishing | 70392 | [70392-dragonfishing.json](./70392-dragonfishing.json) |
 | Dragonfist | 92448 | [92448-dragonfist.json](./92448-dragonfist.json) |
+| DragonHeart | 80824 | [80824-dragonheart.json](./80824-dragonheart.json) |
 | Dragonia | 124242 | [124242-dragonia.json](./124242-dragonia.json) |
 | DragonMirrored with Hyoga & Magma | 305769 | [305769-dragonmirrored-with-hyoga-and-magma.json](./305769-dragonmirrored-with-hyoga-and-magma.json) |
 | Dragonnet Havoc | 361725 | [361725-dragonnet-havoc.json](./361725-dragonnet-havoc.json) |
