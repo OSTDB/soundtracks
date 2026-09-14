@@ -414,7 +414,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
 | AereA: Deluxe Edition | 52576 | [52576-aerea-deluxe-edition.json](./52576-aerea-deluxe-edition.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
-| Aerial Austen | 232175 | [232175-aerial-austen.json](./232175-aerial-austen.json) |
 | Aerial Destruction | 26123 | [26123-aerial-destruction.json](./26123-aerial-destruction.json) |
 | Aerial Life | 147445 | [147445-aerial-life.json](./147445-aerial-life.json) |
 | Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
