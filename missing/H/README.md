@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Evangeline | 372486 | [372486-hentai-evangeline.json](./372486-hentai-evangeline.json) |
 | Hentai Fantasy | 219041 | [219041-hentai-fantasy.json](./219041-hentai-fantasy.json) |
 | Hentai Fantasy Chicks | 253935 | [253935-hentai-fantasy-chicks.json](./253935-hentai-fantasy-chicks.json) |
+| Hentai Foot Fetish | 404940 | [404940-hentai-foot-fetish.json](./404940-hentai-foot-fetish.json) |
 | Hentai Fox | 310938 | [310938-hentai-fox.json](./310938-hentai-fox.json) |
 | Hentai Gallery: Hot Fantasy | 378805 | [378805-hentai-gallery-hot-fantasy.json](./378805-hentai-gallery-hot-fantasy.json) |
 | Hentai Gallery: Lovely Angels | 381004 | [381004-hentai-gallery-lovely-angels.json](./381004-hentai-gallery-lovely-angels.json) |
@@ -1756,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hipster Cafe | 99649 | [99649-hipster-cafe.json](./99649-hipster-cafe.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
+| Hirdrih Technologic | 404974 | [404974-hirdrih-technologic.json](./404974-hirdrih-technologic.json) |
 | Hired Team: Trial Gold | 73849 | [73849-hired-team-trial-gold.json](./73849-hired-team-trial-gold.json) |
 | Hiro's Harvest Season | 76532 | [76532-hiros-harvest-season.json](./76532-hiros-harvest-season.json) |
 | Hirocato: The Delivery Hero | 253934 | [253934-hirocato-the-delivery-hero.json](./253934-hirocato-the-delivery-hero.json) |
