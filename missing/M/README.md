@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Tower: Nonogram | 221399 | [221399-meow-tower-nonogram.json](./221399-meow-tower-nonogram.json) |
 | Meow Weight Loss Diary | 352227 | [352227-meow-weight-loss-diary.json](./352227-meow-weight-loss-diary.json) |
 | Meower's Quest: Jasper's Tale | 104025 | [104025-meowers-quest-jaspers-tale.json](./104025-meowers-quest-jaspers-tale.json) |
+| MeowFactory | 403691 | [403691-meowfactory.json](./403691-meowfactory.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
 | MeowMatch | 283724 | [283724-meowmatch.json](./283724-meowmatch.json) |
 | Meowmewbug | 370151 | [370151-meowmewbug.json](./370151-meowmewbug.json) |
@@ -2397,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Train | 138255 | [138255-midnight-train.json](./138255-midnight-train.json) |
 | Midnight Train: Going Anywhere | 176489 | [176489-midnight-train-going-anywhere.json](./176489-midnight-train-going-anywhere.json) |
 | Midnight Transmission | 331334 | [331334-midnight-transmission.json](./331334-midnight-transmission.json) |
+| Midnight Watcher: Village | 403685 | [403685-midnight-watcher-village.json](./403685-midnight-watcher-village.json) |
 | Midnight Wave | 109669 | [109669-midnight-wave.json](./109669-midnight-wave.json) |
 | Midnight's Blessing 2 | 33040 | [33040-midnights-blessing-2.json](./33040-midnights-blessing-2.json) |
 | Midnight's Curse | 154569 | [154569-midnights-curse.json](./154569-midnights-curse.json) |
@@ -2734,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Island: Aroma | 192371 | [192371-mini-island-aroma.json](./192371-mini-island-aroma.json) |
 | Mini Jumper | 163990 | [163990-mini-jumper.json](./163990-mini-jumper.json) |
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
+| Mini Lucy | 403705 | [403705-mini-lucy.json](./403705-mini-lucy.json) |
 | Mini Map | 178016 | [178016-mini-map.json](./178016-mini-map.json) |
 | Mini Matches | 121597 | [121597-mini-matches.json](./121597-mini-matches.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
@@ -3808,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Weapon | 74333 | [74333-mortal-weapon.json](./74333-mortal-weapon.json) |
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
 | Mortality... Please | 417597 | [417597-mortality-please.json](./417597-mortality-please.json) |
+| Mortanum | 403658 | [403658-mortanum.json](./403658-mortanum.json) |
 | Mortarmen | 259019 | [259019-mortarmen.json](./259019-mortarmen.json) |
 | Mortars VR | 81138 | [81138-mortars-vr.json](./81138-mortars-vr.json) |
 | Morterra | 177015 | [177015-morterra.json](./177015-morterra.json) |
