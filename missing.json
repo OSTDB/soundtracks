@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T01:18:59.068Z",
-  "total_missing": 67970,
+  "generated_at": "2026-09-14T01:21:34.413Z",
+  "total_missing": 67969,
   "games": [
     {
       "igdb_id": 306086,
@@ -4061,11 +4061,6 @@
       "igdb_id": 181878,
       "game_name": "Adulting!",
       "file": "missing/A/181878-adulting.json"
-    },
-    {
-      "igdb_id": 305203,
-      "game_name": "Adv770",
-      "file": "missing/A/305203-adv770.json"
     },
     {
       "igdb_id": 236813,
