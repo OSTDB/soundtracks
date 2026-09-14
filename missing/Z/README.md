@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumba Kids | 5309 | [5309-zumba-kids.json](./5309-zumba-kids.json) |
 | Zumba: Marble Jungle Adventure | 410365 | [410365-zumba-marble-jungle-adventure.json](./410365-zumba-marble-jungle-adventure.json) |
 | Zumba: The Pharaoh's Marble Revenge | 414436 | [414436-zumba-the-pharaohs-marble-revenge.json](./414436-zumba-the-pharaohs-marble-revenge.json) |
+| Zumbi Olé: The Minigame | 390119 | [390119-zumbi-ole-the-minigame.json](./390119-zumbi-ole-the-minigame.json) |
 | Zumble Ocean | 415938 | [415938-zumble-ocean.json](./415938-zumble-ocean.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
 | Zunius | 121740 | [121740-zunius.json](./121740-zunius.json) |
