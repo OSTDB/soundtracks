@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ucieczka | 398338 | [398338-ucieczka.json](./398338-ucieczka.json) |
 | UCraft | 85462 | [85462-ucraft.json](./85462-ucraft.json) |
 | Ucube Avcıları | 268222 | [268222-ucube-avc-lar.json](./268222-ucube-avc-lar.json) |
+| Ud Rēa | 390128 | [390128-ud-rea.json](./390128-ud-rea.json) |
 | UDAA | 329940 | [329940-udaa.json](./329940-udaa.json) |
 | Udderly Tickets | 66689 | [66689-udderly-tickets.json](./66689-udderly-tickets.json) |
 | Uden at prale - det er Harry | 127973 | [127973-uden-at-prale-det-er-harry.json](./127973-uden-at-prale-det-er-harry.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukik | 246103 | [246103-ukik.json](./246103-ukik.json) |
 | Uknon Jones & Guynelk 2 | 293625 | [293625-uknon-jones-and-guynelk-2.json](./293625-uknon-jones-and-guynelk-2.json) |
 | Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
+| Uknon Jones: Portal | 390105 | [390105-uknon-jones-portal.json](./390105-uknon-jones-portal.json) |
 | Uktena 64 | 392159 | [392159-uktena-64.json](./392159-uktena-64.json) |
 | Ulitsa Dimitrova | 175881 | [175881-ulitsa-dimitrova.json](./175881-ulitsa-dimitrova.json) |
 | Ultakia | 352735 | [352735-ultakia.json](./352735-ultakia.json) |
@@ -106,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
 | Ultimate Board Game Collection | 20553 | [20553-ultimate-board-game-collection.json](./20553-ultimate-board-game-collection.json) |
 | Ultimate Bomb Squad | 142465 | [142465-ultimate-bomb-squad.json](./142465-ultimate-bomb-squad.json) |
+| Ultimate Car Company Tycoon | 390108 | [390108-ultimate-car-company-tycoon.json](./390108-ultimate-car-company-tycoon.json) |
 | Ultimate Car Driving: Classics | 96775 | [96775-ultimate-car-driving-classics.json](./96775-ultimate-car-driving-classics.json) |
 | Ultimate Casino | 203349 | [203349-ultimate-casino.json](./203349-ultimate-casino.json) |
 | Ultimate Casino 3 Pack | 69246 | [69246-ultimate-casino-3-pack.json](./69246-ultimate-casino-3-pack.json) |
@@ -718,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up Until the End | 133472 | [133472-up-until-the-end.json](./133472-up-until-the-end.json) |
 | Up Up & Down! | 312324 | [312324-up-up-and-down.json](./312324-up-up-and-down.json) |
 | Up With Doznik | 312569 | [312569-up-with-doznik.json](./312569-up-with-doznik.json) |
+| Upbeat | 390130 | [390130-upbeat.json](./390130-upbeat.json) |
 | UPgrade | 124754 | [124754-upgrade.json](./124754-upgrade.json) |
 | Upgrade Complete | 196800 | [196800-upgrade-complete.json](./196800-upgrade-complete.json) |
 | Upgrade Complete 2 | 196801 | [196801-upgrade-complete-2.json](./196801-upgrade-complete-2.json) |
@@ -727,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upheaval | 228064 | [228064-upheaval.json](./228064-upheaval.json) |
 | Upheaveal | 216994 | [216994-upheaveal.json](./216994-upheaveal.json) |
 | Uphill | 306090 | [306090-uphill.json](./306090-uphill.json) |
+| Upload Aliens | 390102 | [390102-upload-aliens.json](./390102-upload-aliens.json) |
 | Upload Simulator | 215676 | [215676-upload-simulator.json](./215676-upload-simulator.json) |
 | Upload Simulator Silicon | 315282 | [315282-upload-simulator-silicon.json](./315282-upload-simulator-silicon.json) |
 | Upper Ball | 239091 | [239091-upper-ball.json](./239091-upper-ball.json) |
