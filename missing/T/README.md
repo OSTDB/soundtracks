@@ -3039,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Island | 34248 | [34248-the-lost-island.json](./34248-the-lost-island.json) |
 | The Lost Island of Alanna | 71496 | [71496-the-lost-island-of-alanna.json](./71496-the-lost-island-of-alanna.json) |
 | The Lost Labyrinth | 166712 | [166712-the-lost-labyrinth.json](./166712-the-lost-labyrinth.json) |
+| The Lost Land of Bahía Blanca | 406792 | [406792-the-lost-land-of-bahia-blanca.json](./406792-the-lost-land-of-bahia-blanca.json) |
 | The Lost Legends of Redwall: Feasts & Friends | 280511 | [280511-the-lost-legends-of-redwall-feasts-and-friends.json](./280511-the-lost-legends-of-redwall-feasts-and-friends.json) |
 | The Lost Legends of Redwall: The Scout - Act 3 | 171612 | [171612-the-lost-legends-of-redwall-the-scout-act-3.json](./171612-the-lost-legends-of-redwall-the-scout-act-3.json) |
 | The Lost Legends of Redwall: The Scout Anthology | 287035 | [287035-the-lost-legends-of-redwall-the-scout-anthology.json](./287035-the-lost-legends-of-redwall-the-scout-anthology.json) |
@@ -3504,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ransom of Atawallpa | 337644 | [337644-the-ransom-of-atawallpa.json](./337644-the-ransom-of-atawallpa.json) |
 | The Rats | 9558 | [9558-the-rats.json](./9558-the-rats.json) |
 | The Rats in the Walls | 271489 | [271489-the-rats-in-the-walls.json](./271489-the-rats-in-the-walls.json) |
+| The Raven and the Light | 406782 | [406782-the-raven-and-the-light.json](./406782-the-raven-and-the-light.json) |
 | The Raven: Legacy of a Master Thief - Digital Deluxe Edition | 53771 | [53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json](./53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json) |
 | The Real Deal 2 | 130849 | [130849-the-real-deal-2.json](./130849-the-real-deal-2.json) |
 | The Real Ghostbusters | 12841 | [12841-the-real-ghostbusters.json](./12841-the-real-ghostbusters.json) |
@@ -4182,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Wowers | 150068 | [150068-the-tower-of-wowers.json](./150068-the-tower-of-wowers.json) |
 | The Tower SP | 6639 | [6639-the-tower-sp.json](./6639-the-tower-sp.json) |
 | The Tower: The Order of XII | 117694 | [117694-the-tower-the-order-of-xii.json](./117694-the-tower-the-order-of-xii.json) |
+| The Towers | 406802 | [406802-the-towers.json](./406802-the-towers.json) |
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Toxicity | 270704 | [270704-the-toxicity.json](./270704-the-toxicity.json) |
@@ -4538,6 +4541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Can Be Only One | 181893 | [181893-there-can-be-only-one.json](./181893-there-can-be-only-one.json) |
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
 | There Is No Escape | 396213 | [396213-there-is-no-escape.json](./396213-there-is-no-escape.json) |
+| There Is No Fangame | 406811 | [406811-there-is-no-fangame.json](./406811-there-is-no-fangame.json) |
 | There Is No Light | 138213 | [138213-there-is-no-light.json](./138213-there-is-no-light.json) |
 | There Is No Light 616 | 180203 | [180203-there-is-no-light-616.json](./180203-there-is-no-light-616.json) |
 | There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
@@ -7251,6 +7255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TSA Frisky VR | 89964 | [89964-tsa-frisky-vr.json](./89964-tsa-frisky-vr.json) |
 | Tsjost's Heroic Soup Bazooka | 222902 | [222902-tsjosts-heroic-soup-bazooka.json](./222902-tsjosts-heroic-soup-bazooka.json) |
 | Tsubaki Hata | 226203 | [226203-tsubaki-hata.json](./226203-tsubaki-hata.json) |
+| Tsubasa Heaven | 406831 | [406831-tsubasa-heaven.json](./406831-tsubasa-heaven.json) |
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
 | Tsuki Adventure | 182457 | [182457-tsuki-adventure.json](./182457-tsuki-adventure.json) |
