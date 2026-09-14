@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game Sleepless | 335698 | [335698-escape-game-sleepless.json](./335698-escape-game-sleepless.json) |
 | Escape Game The Dr. Mouse's Lab | 298585 | [298585-escape-game-the-dr-mouses-lab.json](./298585-escape-game-the-dr-mouses-lab.json) |
 | Escape Game: R00m 02 | 334094 | [334094-escape-game-r00m-02.json](./334094-escape-game-r00m-02.json) |
+| Escape Her | 389589 | [389589-escape-her.json](./389589-escape-her.json) |
 | Escape if you can - Buried | 101499 | [101499-escape-if-you-can-buried.json](./101499-escape-if-you-can-buried.json) |
 | Escape Island | 290915 | [290915-escape-island.json](./290915-escape-island.json) |
 | Escape IV - Prison Break | 90665 | [90665-escape-iv-prison-break.json](./90665-escape-iv-prison-break.json) |
