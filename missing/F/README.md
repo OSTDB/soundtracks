@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairytale Thief: The Goldfish | 259568 | [259568-fairytale-thief-the-goldfish.json](./259568-fairytale-thief-the-goldfish.json) |
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
 | Faith Fighter 2 | 64375 | [64375-faith-fighter-2.json](./64375-faith-fighter-2.json) |
+| Faithfall | 401662 | [401662-faithfall.json](./401662-faithfall.json) |
 | Fake Block | 96711 | [96711-fake-block.json](./96711-fake-block.json) |
 | Fake Ducks: Spooky Chronicles | 322398 | [322398-fake-ducks-spooky-chronicles.json](./322398-fake-ducks-spooky-chronicles.json) |
 | Fake Emperors | 264060 | [264060-fake-emperors.json](./264060-fake-emperors.json) |
@@ -1229,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Punch | 378802 | [378802-finger-punch.json](./378802-finger-punch.json) |
 | Finger Slayer | 341914 | [341914-finger-slayer.json](./341914-finger-slayer.json) |
 | Fingerbones | 13142 | [13142-fingerbones.json](./13142-fingerbones.json) |
+| Fingerbox | 401628 | [401628-fingerbox.json](./401628-fingerbox.json) |
 | Fingercrafts | 216259 | [216259-fingercrafts.json](./216259-fingercrafts.json) |
 | Fingers' Dating | 232971 | [232971-fingers-dating.json](./232971-fingers-dating.json) |
 | Fingerspelling Unleashed: BANZSL Edition | 238726 | [238726-fingerspelling-unleashed-banzsl-edition.json](./238726-fingerspelling-unleashed-banzsl-edition.json) |
@@ -1288,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Fly | 23855 | [23855-fire-fly.json](./23855-fire-fly.json) |
 | Fire Fly | 277588 | [277588-fire-fly.json](./277588-fire-fly.json) |
 | Fire in the Hole | 381019 | [381019-fire-in-the-hole.json](./381019-fire-in-the-hole.json) |
+| Fire Lookout: Abandoned Post | 401664 | [401664-fire-lookout-abandoned-post.json](./401664-fire-lookout-abandoned-post.json) |
 | Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
 | Fire Pro Wrestling World: Entrance Craft | 170445 | [170445-fire-pro-wrestling-world-entrance-craft.json](./170445-fire-pro-wrestling-world-entrance-craft.json) |
 | Fire Pro Wrestling World: Fighting Road - 2017 NJPW Junior Heavyweight Championship | 170447 | [170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json](./170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json) |
@@ -2129,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Sale | 328269 | [328269-for-sale.json](./328269-for-sale.json) |
 | For the Fish in the Bottle | 402919 | [402919-for-the-fish-in-the-bottle.json](./402919-for-the-fish-in-the-bottle.json) |
 | For The Freedom! | 240770 | [240770-for-the-freedom.json](./240770-for-the-freedom.json) |
+| For the Glory of Wilson | 401680 | [401680-for-the-glory-of-wilson.json](./401680-for-the-glory-of-wilson.json) |
 | For the Hive | 190704 | [190704-for-the-hive.json](./190704-for-the-hive.json) |
 | For the Honor | 134646 | [134646-for-the-honor.json](./134646-for-the-honor.json) |
 | For the People | 135844 | [135844-for-the-people.json](./135844-for-the-people.json) |
