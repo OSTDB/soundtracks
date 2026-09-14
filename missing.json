@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T21:04:05.018Z",
-  "total_missing": 71231,
+  "generated_at": "2026-09-14T21:11:31.159Z",
+  "total_missing": 71230,
   "games": [
     {
       "igdb_id": 306086,
@@ -4701,11 +4701,6 @@
       "igdb_id": 397713,
       "game_name": "AeroWave OS",
       "file": "missing/A/397713-aerowave-os.json"
-    },
-    {
-      "igdb_id": 415931,
-      "game_name": "Aertan",
-      "file": "missing/A/415931-aertan.json"
     },
     {
       "igdb_id": 173794,
