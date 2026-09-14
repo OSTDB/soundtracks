@@ -2520,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood, Fuel, Ammo & Speed | 265406 | [265406-blood-fuel-ammo-and-speed.json](./265406-blood-fuel-ammo-and-speed.json) |
 | Blood: One Unit Whole Blood | 36299 | [36299-blood-one-unit-whole-blood.json](./36299-blood-one-unit-whole-blood.json) |
 | Blood=Bullets | 320565 | [320565-blood-bullets.json](./320565-blood-bullets.json) |
+| Bloodball | 396427 | [396427-bloodball.json](./396427-bloodball.json) |
 | Bloodbath | 183067 | [183067-bloodbath.json](./183067-bloodbath.json) |
 | Bloodbath | 9416 | [9416-bloodbath.json](./9416-bloodbath.json) |
 | Bloodbath Kavkaz | 26897 | [26897-bloodbath-kavkaz.json](./26897-bloodbath-kavkaz.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Reflection Quartet | 396199 | [396199-blue-reflection-quartet.json](./396199-blue-reflection-quartet.json) |
 | Blue Reflection Ray | 396234 | [396234-blue-reflection-ray.json](./396234-blue-reflection-ray.json) |
 | Blue Reflection Sun | 396235 | [396235-blue-reflection-sun.json](./396235-blue-reflection-sun.json) |
+| Blue Reflection: Final Fantasy XV Costumes | 396396 | [396396-blue-reflection-final-fantasy-xv-costumes.json](./396396-blue-reflection-final-fantasy-xv-costumes.json) |
 | Blue Reflection: Second Light | 396237 | [396237-blue-reflection-second-light.json](./396237-blue-reflection-second-light.json) |
 | Blue Reflection: Second Light - Premium Box | 155073 | [155073-blue-reflection-second-light-premium-box.json](./155073-blue-reflection-second-light-premium-box.json) |
 | Blue Reflection: Second Light - Special Collection Box | 155072 | [155072-blue-reflection-second-light-special-collection-box.json](./155072-blue-reflection-second-light-special-collection-box.json) |
