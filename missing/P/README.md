@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Kamen Rider | 91885 | [91885-pachinko-kamen-rider.json](./91885-pachinko-kamen-rider.json) |
 | Pachinko Life | 402978 | [402978-pachinko-life.json](./402978-pachinko-life.json) |
 | Pachinko Party | 329016 | [329016-pachinko-party.json](./329016-pachinko-party.json) |
+| Pachinko Star Wing II | 385717 | [385717-pachinko-star-wing-ii.json](./385717-pachinko-star-wing-ii.json) |
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
 | Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
 | PachiPara 13: Super Umi to Pachipro Fuuunroku | 77996 | [77996-pachipara-13-super-umi-to-pachipro-fuuunroku.json](./77996-pachipara-13-super-umi-to-pachipro-fuuunroku.json) |
@@ -408,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiTap | 87528 | [87528-papitap.json](./87528-papitap.json) |
 | Papo & Yo | 7388 | [7388-papo-and-yo.json](./7388-papo-and-yo.json) |
 | Paprium | 55107 | [55107-paprium.json](./55107-paprium.json) |
+| Papuan Dominatrixes Are the Best | 385704 | [385704-papuan-dominatrixes-are-the-best.json](./385704-papuan-dominatrixes-are-the-best.json) |
 | Papyrus | 49864 | [49864-papyrus.json](./49864-papyrus.json) |
 | Par 1 Golf | 200103 | [200103-par-1-golf.json](./200103-par-1-golf.json) |
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
@@ -866,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pembrey | 63729 | [63729-pembrey.json](./63729-pembrey.json) |
 | Pen Fight | 233760 | [233760-pen-fight.json](./233760-pen-fight.json) |
 | Pen Pals | 145020 | [145020-pen-pals.json](./145020-pen-pals.json) |
+| Pen-chan | 385718 | [385718-pen-chan.json](./385718-pen-chan.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
 | Penalty Soccer 2012 | 259560 | [259560-penalty-soccer-2012.json](./259560-penalty-soccer-2012.json) |
 | Penance | 367401 | [367401-penance.json](./367401-penance.json) |
@@ -967,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Loop: Soleris | 388711 | [388711-perfect-loop-soleris.json](./388711-perfect-loop-soleris.json) |
 | Perfect Memento of Touhou Question: More 50 Questions Part 1 | 225641 | [225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json](./225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json) |
 | Perfect Memento of Touhou Question: More 50 Questions Part 2 | 225642 | [225642-perfect-memento-of-touhou-question-more-50-questions-part-2.json](./225642-perfect-memento-of-touhou-question-more-50-questions-part-2.json) |
+| Perfect Pachinko | 385719 | [385719-perfect-pachinko.json](./385719-perfect-pachinko.json) |
 | Perfect Shot | 370722 | [370722-perfect-shot.json](./370722-perfect-shot.json) |
 | Perfect Split | 173804 | [173804-perfect-split.json](./173804-perfect-split.json) |
 | Perfect Thog | 408732 | [408732-perfect-thog.json](./408732-perfect-thog.json) |
@@ -2481,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pole Position | 5691 | [5691-pole-position.json](./5691-pole-position.json) |
 | Polegli | 57115 | [57115-polegli.json](./57115-polegli.json) |
 | Polgar: Magic Detective | 191175 | [191175-polgar-magic-detective.json](./191175-polgar-magic-detective.json) |
+| Police & Gang | 385740 | [385740-police-and-gang.json](./385740-police-and-gang.json) |
 | Police Atv Offroad | 309872 | [309872-police-atv-offroad.json](./309872-police-atv-offroad.json) |
 | Police Car Drift Simulator | 223986 | [223986-police-car-drift-simulator.json](./223986-police-car-drift-simulator.json) |
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
