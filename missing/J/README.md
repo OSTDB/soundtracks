@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jonah: A VeggieTales Game | 80600 | [80600-jonah-a-veggietales-game.json](./80600-jonah-a-veggietales-game.json) |
 | Jonas Willy Online | 149013 | [149013-jonas-willy-online.json](./149013-jonas-willy-online.json) |
 | Jonathan Kane: The Protector | 67261 | [67261-jonathan-kane-the-protector.json](./67261-jonathan-kane-the-protector.json) |
+| Jonathan's Adventure! Pricker Edition | 397783 | [397783-jonathans-adventure-pricker-edition.json](./397783-jonathans-adventure-pricker-edition.json) |
 | Joninės | 273667 | [273667-jonines.json](./273667-jonines.json) |
 | Jonny Moseley: Mad Trix | 49336 | [49336-jonny-moseley-mad-trix.json](./49336-jonny-moseley-mad-trix.json) |
 | Jonny Quest in Doctor Zim's Underworld | 67275 | [67275-jonny-quest-in-doctor-zims-underworld.json](./67275-jonny-quest-in-doctor-zims-underworld.json) |
@@ -839,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurard Run | 337441 | [337441-jurard-run.json](./337441-jurard-run.json) |
 | Jurassic City Walk | 99030 | [99030-jurassic-city-walk.json](./99030-jurassic-city-walk.json) |
 | Jurassic Craft: Dino Hunter | 175350 | [175350-jurassic-craft-dino-hunter.json](./175350-jurassic-craft-dino-hunter.json) |
+| Jurassic Differences | 397780 | [397780-jurassic-differences.json](./397780-jurassic-differences.json) |
 | Jurassic Dinosaur | 252148 | [252148-jurassic-dinosaur.json](./252148-jurassic-dinosaur.json) |
 | Jurassic Free Fall - Match 3 | 87102 | [87102-jurassic-free-fall-match-3.json](./87102-jurassic-free-fall-match-3.json) |
 | Jurassic Genesis: We Are Aliens | 411586 | [411586-jurassic-genesis-we-are-aliens.json](./411586-jurassic-genesis-we-are-aliens.json) |
