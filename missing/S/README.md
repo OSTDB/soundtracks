@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
 | Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
+| Saturn. Legacy | 403688 | [403688-saturn-legacy.json](./403688-saturn-legacy.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
@@ -1603,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadoworlds | 84205 | [84205-shadoworlds.json](./84205-shadoworlds.json) |
 | Shadowpiercer | 383964 | [383964-shadowpiercer.json](./383964-shadowpiercer.json) |
 | Shadowrain | 126588 | [126588-shadowrain.json](./126588-shadowrain.json) |
+| Shadowrite | 403712 | [403712-shadowrite.json](./403712-shadowrite.json) |
 | Shadowrun | 7643 | [7643-shadowrun.json](./7643-shadowrun.json) |
 | Shadowrun: Hong Kong | 11772 | [11772-shadowrun-hong-kong.json](./11772-shadowrun-hong-kong.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
@@ -4194,6 +4196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
 | Sora: Blue Sky Edition | 54386 | [54386-sora-blue-sky-edition.json](./54386-sora-blue-sky-edition.json) |
+| Sora: Songs of the Stone | 403724 | [403724-sora-songs-of-the-stone.json](./403724-sora-songs-of-the-stone.json) |
 | Soraja Towers | 300721 | [300721-soraja-towers.json](./300721-soraja-towers.json) |
 | Sorbetta: Gravely in Debt | 129733 | [129733-sorbetta-gravely-in-debt.json](./129733-sorbetta-gravely-in-debt.json) |
 | Sorcerer | 23856 | [23856-sorcerer.json](./23856-sorcerer.json) |
@@ -5168,6 +5171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Champions | 18237 | [18237-sports-champions.json](./18237-sports-champions.json) |
 | Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
 | Sports Game Pack (Manager Edition) | 84231 | [84231-sports-game-pack-manager-edition.json](./84231-sports-game-pack-manager-edition.json) |
+| Sports Games Collection | 403725 | [403725-sports-games-collection.json](./403725-sports-games-collection.json) |
 | Sports Hero | 142411 | [142411-sports-hero.json](./142411-sports-hero.json) |
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Sports Illustrated: Championship Football & Baseball | 273410 | [273410-sports-illustrated-championship-football-and-baseball.json](./273410-sports-illustrated-championship-football-and-baseball.json) |
@@ -6980,6 +6984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bullet Break | 196819 | [196819-super-bullet-break.json](./196819-super-bullet-break.json) |
 | Super Bunnies Show Free | 232182 | [232182-super-bunnies-show-free.json](./232182-super-bunnies-show-free.json) |
 | Super Bunny | 25670 | [25670-super-bunny.json](./25670-super-bunny.json) |
+| Super Bunny Woman | 403663 | [403663-super-bunny-woman.json](./403663-super-bunny-woman.json) |
 | Super Cabbage Kabumi | 352187 | [352187-super-cabbage-kabumi.json](./352187-super-cabbage-kabumi.json) |
 | Super Caesars Palace | 9622 | [9622-super-caesars-palace.json](./9622-super-caesars-palace.json) |
 | Super Cakeboy | 240816 | [240816-super-cakeboy.json](./240816-super-cakeboy.json) |
