@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T09:01:39.460Z",
-  "total_missing": 69150,
+  "generated_at": "2026-09-14T09:11:33.108Z",
+  "total_missing": 69149,
   "games": [
     {
       "igdb_id": 306086,
@@ -4301,11 +4301,6 @@
       "igdb_id": 357782,
       "game_name": "Adventure Realm",
       "file": "missing/A/357782-adventure-realm.json"
-    },
-    {
-      "igdb_id": 293939,
-      "game_name": "Adventure Rock",
-      "file": "missing/A/293939-adventure-rock.json"
     },
     {
       "igdb_id": 69247,
