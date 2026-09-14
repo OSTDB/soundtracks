@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T10:49:09.158Z",
-  "total_missing": 69490,
+  "generated_at": "2026-09-14T10:51:42.485Z",
+  "total_missing": 69489,
   "games": [
     {
       "igdb_id": 306086,
@@ -4351,11 +4351,6 @@
       "igdb_id": 305199,
       "game_name": "Adventure4+",
       "file": "missing/A/305199-adventure4.json"
-    },
-    {
-      "igdb_id": 211394,
-      "game_name": "AdventureQuest Worlds: Infinity",
-      "file": "missing/A/211394-adventurequest-worlds-infinity.json"
     },
     {
       "igdb_id": 391046,
