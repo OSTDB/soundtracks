@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
+| Perfect Hue Arena | 384075 | [384075-perfect-hue-arena.json](./384075-perfect-hue-arena.json) |
 | Perfect Liar | 373536 | [373536-perfect-liar.json](./373536-perfect-liar.json) |
 | Perfect Loop: Soleris | 388711 | [388711-perfect-loop-soleris.json](./388711-perfect-loop-soleris.json) |
 | Perfect Memento of Touhou Question: More 50 Questions Part 1 | 225641 | [225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json](./225641-perfect-memento-of-touhou-question-more-50-questions-part-1.json) |
@@ -1818,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Junior | 33190 | [33190-pixel-puzzles-junior.json](./33190-pixel-puzzles-junior.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Korea | 247775 | [247775-pixel-puzzles-traditional-jigsaws-pack-korea.json](./247775-pixel-puzzles-traditional-jigsaws-pack-korea.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Variety Pack 9 | 260419 | [260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json](./260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json) |
+| Pixel Puzzles Traditional Jigsaws: Forests | 384082 | [384082-pixel-puzzles-traditional-jigsaws-forests.json](./384082-pixel-puzzles-traditional-jigsaws-forests.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 11 | 267407 | [267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json](./267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json) |
 | Pixel Puzzles Ultimate | 35743 | [35743-pixel-puzzles-ultimate.json](./35743-pixel-puzzles-ultimate.json) |
 | Pixel Puzzles Ultimate Jigsaw | 240242 | [240242-pixel-puzzles-ultimate-jigsaw.json](./240242-pixel-puzzles-ultimate-jigsaw.json) |
@@ -2536,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Memory: Birds | 195786 | [195786-poly-memory-birds.json](./195786-poly-memory-birds.json) |
 | Poly Memory: Cats | 195724 | [195724-poly-memory-cats.json](./195724-poly-memory-cats.json) |
 | Poly Memory: Dinosaurs | 224592 | [224592-poly-memory-dinosaurs.json](./224592-poly-memory-dinosaurs.json) |
+| Poly Memory: Furries 2 | 384065 | [384065-poly-memory-furries-2.json](./384065-poly-memory-furries-2.json) |
 | Poly Memory: Primates | 210878 | [210878-poly-memory-primates.json](./210878-poly-memory-primates.json) |
 | Poly Parkour | 215699 | [215699-poly-parkour.json](./215699-poly-parkour.json) |
 | Poly Party | 158664 | [158664-poly-party.json](./158664-poly-party.json) |
@@ -3014,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Carnage: Genesis | 80564 | [80564-primal-carnage-genesis.json](./80564-primal-carnage-genesis.json) |
 | Primal Force Arena | 317842 | [317842-primal-force-arena.json](./317842-primal-force-arena.json) |
 | Primal Fray | 244469 | [244469-primal-fray.json](./244469-primal-fray.json) |
+| Primal Frost | 384059 | [384059-primal-frost.json](./384059-primal-frost.json) |
 | Primal Hearts | 159312 | [159312-primal-hearts.json](./159312-primal-hearts.json) |
 | Primal Hearts 2 | 159313 | [159313-primal-hearts-2.json](./159313-primal-hearts-2.json) |
 | Primal Image Vol.1 | 67313 | [67313-primal-image-vol-1.json](./67313-primal-image-vol-1.json) |
@@ -3940,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Pests | 174366 | [174366-puzzle-pests.json](./174366-puzzle-pests.json) |
 | Puzzle Photographer | 403041 | [403041-puzzle-photographer.json](./403041-puzzle-photographer.json) |
 | Puzzle Photographer 2: Fairy Vacation | 403044 | [403044-puzzle-photographer-2-fairy-vacation.json](./403044-puzzle-photographer-2-fairy-vacation.json) |
+| Puzzle Pleasant | 384070 | [384070-puzzle-pleasant.json](./384070-puzzle-pleasant.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
 | Puzzle Sages | 34493 | [34493-puzzle-sages.json](./34493-puzzle-sages.json) |
 | Puzzle Scape | 46021 | [46021-puzzle-scape.json](./46021-puzzle-scape.json) |
