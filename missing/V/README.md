@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videoverse | 213618 | [213618-videoverse.json](./213618-videoverse.json) |
 | Vier op een rij | 92991 | [92991-vier-op-een-rij.json](./92991-vier-op-een-rij.json) |
 | Vietcong | 101613 | [101613-vietcong.json](./101613-vietcong.json) |
+| Vietnam '65 | 36116 | [36116-vietnam-65.json](./36116-vietnam-65.json) |
 | Vietnam 2: Special Assignment | 73247 | [73247-vietnam-2-special-assignment.json](./73247-vietnam-2-special-assignment.json) |
 | Vietnam War Platoon | 214746 | [214746-vietnam-war-platoon.json](./214746-vietnam-war-platoon.json) |
 | Vietnam: Black Ops | 78703 | [78703-vietnam-black-ops.json](./78703-vietnam-black-ops.json) |
@@ -880,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Dinosaur Pingpong | 235188 | [235188-vr-dinosaur-pingpong.json](./235188-vr-dinosaur-pingpong.json) |
 | VR Dinosaur Village | 282027 | [282027-vr-dinosaur-village.json](./282027-vr-dinosaur-village.json) |
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
+| VR Escape the space station | 31782 | [31782-vr-escape-the-space-station.json](./31782-vr-escape-the-space-station.json) |
 | VR Fantasy | 395540 | [395540-vr-fantasy.json](./395540-vr-fantasy.json) |
 | VR Fishtank | 244772 | [244772-vr-fishtank.json](./244772-vr-fishtank.json) |
 | VR Formula | 51517 | [51517-vr-formula.json](./51517-vr-formula.json) |
@@ -890,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Houses: Glass Apartment | 282028 | [282028-vr-houses-glass-apartment.json](./282028-vr-houses-glass-apartment.json) |
 | VR Hybrid War 2117 | 75199 | [75199-vr-hybrid-war-2117.json](./75199-vr-hybrid-war-2117.json) |
 | VR Interior Designer Pro | 28921 | [28921-vr-interior-designer-pro.json](./28921-vr-interior-designer-pro.json) |
+| VR Journey | 31345 | [31345-vr-journey.json](./31345-vr-journey.json) |
 | VR Kart 360 | 309681 | [309681-vr-kart-360.json](./309681-vr-kart-360.json) |
 | VR Kayaking Game | 186255 | [186255-vr-kayaking-game.json](./186255-vr-kayaking-game.json) |
 | VR Laser Harp | 30761 | [30761-vr-laser-harp.json](./30761-vr-laser-harp.json) |
