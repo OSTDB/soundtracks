@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalyzmyr | 191807 | [191807-kalyzmyr.json](./191807-kalyzmyr.json) |
 | Kalzoon | 226450 | [226450-kalzoon.json](./226450-kalzoon.json) |
 | KaM Remake | 190698 | [190698-kam-remake.json](./190698-kam-remake.json) |
+| Kama Bullet Heritage | 51963 | [51963-kama-bullet-heritage.json](./51963-kama-bullet-heritage.json) |
 | Kamaeru: A Frog Refuge | 252773 | [252773-kamaeru-a-frog-refuge.json](./252773-kamaeru-a-frog-refuge.json) |
 | Kamakazzzbee | 217330 | [217330-kamakazzzbee.json](./217330-kamakazzzbee.json) |
 | Kame no Ongaeshi: Urashima Densetsu | 215130 | [215130-kame-no-ongaeshi-urashima-densetsu.json](./215130-kame-no-ongaeshi-urashima-densetsu.json) |
@@ -1229,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krusenstern: A Stellar Sail | 226730 | [226730-krusenstern-a-stellar-sail.json](./226730-krusenstern-a-stellar-sail.json) |
 | Krusty Zombies | 180312 | [180312-krusty-zombies.json](./180312-krusty-zombies.json) |
 | Kryftolike | 176994 | [176994-kryftolike.json](./176994-kryftolike.json) |
+| KryptCrawler | 51521 | [51521-kryptcrawler.json](./51521-kryptcrawler.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
 | Krzyżacy: The Knights of the Cross - Character Pack (Western Style) | 257065 | [257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json](./257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json) |
 | Krzyżacy: The Knights of the Cross - Shining Stars | 289320 | [289320-krzyzacy-the-knights-of-the-cross-shining-stars.json](./289320-krzyzacy-the-knights-of-the-cross-shining-stars.json) |
