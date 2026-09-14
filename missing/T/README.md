@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Complex Tragedy | 284923 | [284923-the-complex-tragedy.json](./284923-the-complex-tragedy.json) |
 | The Complex: Expedition | 223188 | [223188-the-complex-expedition.json](./223188-the-complex-expedition.json) |
 | The Computer Spiele Museum's Museum Guide | 254510 | [254510-the-computer-spiele-museums-museum-guide.json](./254510-the-computer-spiele-museums-museum-guide.json) |
+| The Concrete Sutra #1 | 398419 | [398419-the-concrete-sutra-1.json](./398419-the-concrete-sutra-1.json) |
 | The Condition | 373548 | [373548-the-condition.json](./373548-the-condition.json) |
 | The Confession | 133365 | [133365-the-confession.json](./133365-the-confession.json) |
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
@@ -2066,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
 | The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
 | The Echoes of Mars | 301841 | [301841-the-echoes-of-mars.json](./301841-the-echoes-of-mars.json) |
+| The Echoes of Me | 398479 | [398479-the-echoes-of-me.json](./398479-the-echoes-of-me.json) |
 | The Eden of Grisaia | 11458 | [11458-the-eden-of-grisaia.json](./11458-the-eden-of-grisaia.json) |
 | The Edge | 340937 | [340937-the-edge.json](./340937-the-edge.json) |
 | The Edge of The World Z Will Shock You | 212827 | [212827-the-edge-of-the-world-z-will-shock-you.json](./212827-the-edge-of-the-world-z-will-shock-you.json) |
@@ -3111,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lot | 116317 | [116317-the-lot.json](./116317-the-lot.json) |
 | The Lotus Eater | 184610 | [184610-the-lotus-eater.json](./184610-the-lotus-eater.json) |
 | The Love Interests get their Own Game | 183049 | [183049-the-love-interests-get-their-own-game.json](./183049-the-love-interests-get-their-own-game.json) |
+| The love letter | 398435 | [398435-the-love-letter.json](./398435-the-love-letter.json) |
 | The Love Letter | 63820 | [63820-the-love-letter.json](./63820-the-love-letter.json) |
 | The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
@@ -4316,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unfound Soul | 231403 | [231403-the-unfound-soul.json](./231403-the-unfound-soul.json) |
 | The Unicorn Princess | 124157 | [124157-the-unicorn-princess.json](./124157-the-unicorn-princess.json) |
 | The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
+| The Universal Symphony | 398460 | [398460-the-universal-symphony.json](./398460-the-universal-symphony.json) |
 | The Universim | 9943 | [9943-the-universim.json](./9943-the-universim.json) |
 | The Unknown | 336516 | [336516-the-unknown.json](./336516-the-unknown.json) |
 | The Unknown | 53789 | [53789-the-unknown.json](./53789-the-unknown.json) |
@@ -4495,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizards Arena | 348760 | [348760-the-wizards-arena.json](./348760-the-wizards-arena.json) |
 | The Wizards of Trinity Bellwoods | 58265 | [58265-the-wizards-of-trinity-bellwoods.json](./58265-the-wizards-of-trinity-bellwoods.json) |
 | The Wizards Pet | 108955 | [108955-the-wizards-pet.json](./108955-the-wizards-pet.json) |
+| The Woman Above | 398476 | [398476-the-woman-above.json](./398476-the-woman-above.json) |
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
 | The Wonderful 101 | 264890 | [264890-the-wonderful-101.json](./264890-the-wonderful-101.json) |
 | The Wonderful 101: Remastered | 129240 | [129240-the-wonderful-101-remastered.json](./129240-the-wonderful-101-remastered.json) |
@@ -4770,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms: The Last Warlord - The Age of Turbulence | 171574 | [171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json](./171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json) |
 | Three Legions: Erosion of the Abyss | 346569 | [346569-three-legions-erosion-of-the-abyss.json](./346569-three-legions-erosion-of-the-abyss.json) |
 | Three Mazeketeers | 192869 | [192869-three-mazeketeers.json](./192869-three-mazeketeers.json) |
+| Three Misses Confectionery | 398455 | [398455-three-misses-confectionery.json](./398455-three-misses-confectionery.json) |
 | Three of a Fish | 123546 | [123546-three-of-a-fish.json](./123546-three-of-a-fish.json) |
 | Three Skies Ascension | 318398 | [318398-three-skies-ascension.json](./318398-three-skies-ascension.json) |
 | Three Sons | 192968 | [192968-three-sons.json](./192968-three-sons.json) |
@@ -5727,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
 | Toki: Retrollector | 112962 | [112962-toki-retrollector.json](./112962-toki-retrollector.json) |
+| Tokigeon | 398399 | [398399-tokigeon.json](./398399-tokigeon.json) |
 | Tokimeki Card Paradise: Koi no Royal Straight Flush | 310969 | [310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json](./310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json) |
 | Tokimeki Memorial Girl's Side | 72670 | [72670-tokimeki-memorial-girls-side.json](./72670-tokimeki-memorial-girls-side.json) |
 | Tokimeki Memorial Girl's Side Triple Pack | 109045 | [109045-tokimeki-memorial-girls-side-triple-pack.json](./109045-tokimeki-memorial-girls-side-triple-pack.json) |
@@ -6168,6 +6175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totemlands | 213941 | [213941-totemlands.json](./213941-totemlands.json) |
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
 | Toten | 233486 | [233486-toten.json](./233486-toten.json) |
+| Totenkampf: Anime Waifus vs WW2 Zombies | 398414 | [398414-totenkampf-anime-waifus-vs-ww2-zombies.json](./398414-totenkampf-anime-waifus-vs-ww2-zombies.json) |
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
 | Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
 | Tottemo E Mahjong Plus | 62115 | [62115-tottemo-e-mahjong-plus.json](./62115-tottemo-e-mahjong-plus.json) |
@@ -7661,6 +7669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrant Tactics: Birth of Revolution | 398970 | [398970-tyrant-tactics-birth-of-revolution.json](./398970-tyrant-tactics-birth-of-revolution.json) |
 | Tyrant's Blessing: Deluxe Edition | 230818 | [230818-tyrants-blessing-deluxe-edition.json](./230818-tyrants-blessing-deluxe-edition.json) |
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
+| Tyto | 398472 | [398472-tyto.json](./398472-tyto.json) |
 | Tyto Ecology | 33243 | [33243-tyto-ecology.json](./33243-tyto-ecology.json) |
 | Tyto Ecology: Alaskan Tundra Ecosystem | 171001 | [171001-tyto-ecology-alaskan-tundra-ecosystem.json](./171001-tyto-ecology-alaskan-tundra-ecosystem.json) |
 | Tyto Ecology: Cretaceous Mongolia | 171000 | [171000-tyto-ecology-cretaceous-mongolia.json](./171000-tyto-ecology-cretaceous-mongolia.json) |
