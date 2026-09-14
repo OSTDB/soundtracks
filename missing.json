@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T05:31:36.401Z",
-  "total_missing": 68613,
+  "generated_at": "2026-09-14T05:41:37.785Z",
+  "total_missing": 68617,
   "games": [
     {
       "igdb_id": 306086,
@@ -4196,11 +4196,6 @@
       "igdb_id": 72132,
       "game_name": "Adventure Elf",
       "file": "missing/A/72132-adventure-elf.json"
-    },
-    {
-      "igdb_id": 235225,
-      "game_name": "Adventure Escape Jetpack",
-      "file": "missing/A/235225-adventure-escape-jetpack.json"
     },
     {
       "igdb_id": 247492,
@@ -48961,6 +48956,11 @@
       "igdb_id": 263508,
       "game_name": "Chimeras: Heavenfall Secrets Collector's Edition",
       "file": "missing/C/263508-chimeras-heavenfall-secrets-collectors-edition.json"
+    },
+    {
+      "igdb_id": 417570,
+      "game_name": "Chimeras: Mortal Medicine",
+      "file": "missing/C/417570-chimeras-mortal-medicine.json"
     },
     {
       "igdb_id": 63816,
@@ -185888,6 +185888,11 @@
       "file": "missing/M/114406-my-goddess-of-love.json"
     },
     {
+      "igdb_id": 417572,
+      "game_name": "My Group Members Suck!!",
+      "file": "missing/M/417572-my-group-members-suck.json"
+    },
+    {
       "igdb_id": 199040,
       "game_name": "My Hayami-Chan",
       "file": "missing/M/199040-my-hayami-chan.json"
@@ -274048,6 +274053,11 @@
       "file": "missing/S/108410-super-frogs-quest.json"
     },
     {
+      "igdb_id": 417571,
+      "game_name": "Super Gahaku",
+      "file": "missing/S/417571-super-gahaku.json"
+    },
+    {
       "igdb_id": 219579,
       "game_name": "Super Galaxy Ball",
       "file": "missing/S/219579-super-galaxy-ball.json"
@@ -296903,6 +296913,11 @@
       "file": "missing/T/220105-the-price-is-right.json"
     },
     {
+      "igdb_id": 417580,
+      "game_name": "The Price of Parking",
+      "file": "missing/T/417580-the-price-of-parking.json"
+    },
+    {
       "igdb_id": 76659,
       "game_name": "The Prime MoVR",
       "file": "missing/T/76659-the-prime-movr.json"
@@ -314201,6 +314216,11 @@
       "igdb_id": 303792,
       "game_name": "Trench Warfare WW1: RTS Battle",
       "file": "missing/T/303792-trench-warfare-ww1-rts-battle.json"
+    },
+    {
+      "igdb_id": 417575,
+      "game_name": "Trenchblocks",
+      "file": "missing/T/417575-trenchblocks.json"
     },
     {
       "igdb_id": 23926,
