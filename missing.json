@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T15:49:21.436Z",
-  "total_missing": 70336,
+  "generated_at": "2026-09-14T15:51:39.390Z",
+  "total_missing": 70335,
   "games": [
     {
       "igdb_id": 306086,
@@ -4501,11 +4501,6 @@
       "igdb_id": 184042,
       "game_name": "Ae",
       "file": "missing/A/184042-ae.json"
-    },
-    {
-      "igdb_id": 216463,
-      "game_name": "Aegis Kingdoms",
-      "file": "missing/A/216463-aegis-kingdoms.json"
     },
     {
       "igdb_id": 120419,
