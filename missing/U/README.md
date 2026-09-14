@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Island | 208954 | [208954-uncharted-island.json](./208954-uncharted-island.json) |
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
 | Uncharted Tides: Port Royal | 121450 | [121450-uncharted-tides-port-royal.json](./121450-uncharted-tides-port-royal.json) |
+| Uncharted Tides: Port Royal | 400940 | [400940-uncharted-tides-port-royal.json](./400940-uncharted-tides-port-royal.json) |
 | Uncharted Waters: New Horizons | 102810 | [102810-uncharted-waters-new-horizons.json](./102810-uncharted-waters-new-horizons.json) |
 | Uncharted Waters: New Horizons | 38412 | [38412-uncharted-waters-new-horizons.json](./38412-uncharted-waters-new-horizons.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
@@ -661,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until Daybreak | 243692 | [243692-until-daybreak.json](./243692-until-daybreak.json) |
 | Until I Have You | 24977 | [24977-until-i-have-you.json](./24977-until-i-have-you.json) |
 | Until Last Breath | 148539 | [148539-until-last-breath.json](./148539-until-last-breath.json) |
+| Until They Burn | 400949 | [400949-until-they-burn.json](./400949-until-they-burn.json) |
 | Untitled Car Game | 373018 | [373018-untitled-car-game.json](./373018-untitled-car-game.json) |
 | Untitled Dragon Age Game | 130891 | [130891-untitled-dragon-age-game.json](./130891-untitled-dragon-age-game.json) |
 | Untitled Game | 180257 | [180257-untitled-game.json](./180257-untitled-game.json) |
@@ -759,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Platinum Edition | 238741 | [238741-urban-flow-platinum-edition.json](./238741-urban-flow-platinum-edition.json) |
 | Urban Flow: Silver Edition | 250390 | [250390-urban-flow-silver-edition.json](./250390-urban-flow-silver-edition.json) |
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
+| Urban Jungle: Brother's Wedding Story | 401001 | [401001-urban-jungle-brothers-wedding-story.json](./401001-urban-jungle-brothers-wedding-story.json) |
 | Urban Mercenary | 146297 | [146297-urban-mercenary.json](./146297-urban-mercenary.json) |
 | Urban Shadows Racing Tokyo | 371905 | [371905-urban-shadows-racing-tokyo.json](./371905-urban-shadows-racing-tokyo.json) |
 | Urban Street Fighting | 147476 | [147476-urban-street-fighting.json](./147476-urban-street-fighting.json) |
