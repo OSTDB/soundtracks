@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
 | Paper Flights | 235224 | [235224-paper-flights.json](./235224-paper-flights.json) |
 | Paper io 2: Complete Edition | 331857 | [331857-paper-io-2-complete-edition.json](./331857-paper-io-2-complete-edition.json) |
+| Paper io 2: Gold Edition | 395681 | [395681-paper-io-2-gold-edition.json](./395681-paper-io-2-gold-edition.json) |
 | Paper Mario Eggstraordinary Egg Hunt | 245039 | [245039-paper-mario-eggstraordinary-egg-hunt.json](./245039-paper-mario-eggstraordinary-egg-hunt.json) |
 | Paper Mario Multiplayer | 159325 | [159325-paper-mario-multiplayer.json](./159325-paper-mario-multiplayer.json) |
 | Paper Mario Randomizer | 304045 | [304045-paper-mario-randomizer.json](./304045-paper-mario-randomizer.json) |
@@ -647,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Lime | 210633 | [210633-pastel-lime.json](./210633-pastel-lime.json) |
 | Pastor | 411604 | [411604-pastor.json](./411604-pastor.json) |
 | Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
+| Pastoral | 395721 | [395721-pastoral.json](./395721-pastoral.json) |
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
 | Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
@@ -697,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patience Playdate | 276722 | [276722-patience-playdate.json](./276722-patience-playdate.json) |
 | Patient Rogue | 177482 | [177482-patient-rogue.json](./177482-patient-rogue.json) |
 | PatientZ: Survivalist | 27727 | [27727-patientz-survivalist.json](./27727-patientz-survivalist.json) |
+| Patlabor the Case Files | 395699 | [395699-patlabor-the-case-files.json](./395699-patlabor-the-case-files.json) |
 | Patlabor: Come Back Mini-Pato | 75899 | [75899-patlabor-come-back-mini-pato.json](./75899-patlabor-come-back-mini-pato.json) |
 | Patlabor: The Mobile Police | 75896 | [75896-patlabor-the-mobile-police.json](./75896-patlabor-the-mobile-police.json) |
 | Patou | 253376 | [253376-patou.json](./253376-patou.json) |
@@ -820,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedal Up! | 244809 | [244809-pedal-up.json](./244809-pedal-up.json) |
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
+| Peek a Rabbit! | 395666 | [395666-peek-a-rabbit.json](./395666-peek-a-rabbit.json) |
 | Peekaboo Collection - 3 Tales of Horror | 132347 | [132347-peekaboo-collection-3-tales-of-horror.json](./132347-peekaboo-collection-3-tales-of-horror.json) |
 | Peeking at the peak | 278387 | [278387-peeking-at-the-peak.json](./278387-peeking-at-the-peak.json) |
 | Peer Gynt the Game | 126586 | [126586-peer-gynt-the-game.json](./126586-peer-gynt-the-game.json) |
@@ -1038,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Personality Dating Sim | 157118 | [157118-personality-dating-sim.json](./157118-personality-dating-sim.json) |
 | Perspectives: Aleppo-Helsinki | 75160 | [75160-perspectives-aleppo-helsinki.json](./75160-perspectives-aleppo-helsinki.json) |
 | Perspectives: Paradise | 115007 | [115007-perspectives-paradise.json](./115007-perspectives-paradise.json) |
+| Perspectre | 395692 | [395692-perspectre.json](./395692-perspectre.json) |
 | Perspectrum | 106613 | [106613-perspectrum.json](./106613-perspectrum.json) |
 | Perverts Society | 110357 | [110357-perverts-society.json](./110357-perverts-society.json) |
 | PES 2018 Mobile | 240469 | [240469-pes-2018-mobile.json](./240469-pes-2018-mobile.json) |
@@ -1329,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickle | 314264 | [314264-pickle.json](./314264-pickle.json) |
 | Pickle | 314284 | [314284-pickle.json](./314284-pickle.json) |
 | Pickle Frickle | 211717 | [211717-pickle-frickle.json](./211717-pickle-frickle.json) |
+| Pickmos | 395697 | [395697-pickmos.json](./395697-pickmos.json) |
 | Pickup Point Simulator | 304613 | [304613-pickup-point-simulator.json](./304613-pickup-point-simulator.json) |
 | Picnic Wars | 20805 | [20805-picnic-wars.json](./20805-picnic-wars.json) |
 | Pico Monsters | 181931 | [181931-pico-monsters.json](./181931-pico-monsters.json) |
@@ -1720,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Brave | 396944 | [396944-pixel-brave.json](./396944-pixel-brave.json) |
 | Pixel Builder | 105962 | [105962-pixel-builder.json](./105962-pixel-builder.json) |
 | Pixel Cafe: Definitive Edition | 400200 | [400200-pixel-cafe-definitive-edition.json](./400200-pixel-cafe-definitive-edition.json) |
+| Pixel Cafe: Discovery Edition | 395682 | [395682-pixel-cafe-discovery-edition.json](./395682-pixel-cafe-discovery-edition.json) |
 | Pixel Caveman | 118435 | [118435-pixel-caveman.json](./118435-pixel-caveman.json) |
 | Pixel Coloring Book Game | 106566 | [106566-pixel-coloring-book-game.json](./106566-pixel-coloring-book-game.json) |
 | Pixel Combat | 149088 | [149088-pixel-combat.json](./149088-pixel-combat.json) |
@@ -1747,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Galaxy | 24615 | [24615-pixel-galaxy.json](./24615-pixel-galaxy.json) |
 | Pixel Game Maker Series Arcanion: The Mekanos Invasion | 409551 | [409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json](./409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json) |
 | Pixel Game Maker Series Ninja Sneaking vs: Battle on the Couch | 264904 | [264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json](./264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json) |
+| Pixel Game Maker Series Pollux: Hero in the box | 395668 | [395668-pixel-game-maker-series-pollux-hero-in-the-box.json](./395668-pixel-game-maker-series-pollux-hero-in-the-box.json) |
 | Pixel Game Maker Series: Angel's Blood | 224205 | [224205-pixel-game-maker-series-angels-blood.json](./224205-pixel-game-maker-series-angels-blood.json) |
 | Pixel Game Maker Series: Isekai Quartet Adventure - Action Game | 152891 | [152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json](./152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json) |
 | Pixel Game Maker Series: Ninja Sneaking R | 215114 | [215114-pixel-game-maker-series-ninja-sneaking-r.json](./215114-pixel-game-maker-series-ninja-sneaking-r.json) |
@@ -2574,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooking: Billiards City | 255757 | [255757-pooking-billiards-city.json](./255757-pooking-billiards-city.json) |
 | Pool | 352172 | [352172-pool.json](./352172-pool.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
+| Pool & Snooker Fever: 2 in 1 Bundle - Premium Edition | 395683 | [395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json](./395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json) |
 | Pool 3D | 86900 | [86900-pool-3d.json](./86900-pool-3d.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
 | Pool Break 3D Billiards 8 Ball, 9 Ball, Snooker | 100147 | [100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json](./100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json) |
