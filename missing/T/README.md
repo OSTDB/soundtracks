@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Drum 'n' Fun! | 104992 | [104992-taiko-no-tatsujin-drum-n-fun.json](./104992-taiko-no-tatsujin-drum-n-fun.json) |
 | Taiko no Tatsujin: Ongaku Lesson | 123620 | [123620-taiko-no-tatsujin-ongaku-lesson.json](./123620-taiko-no-tatsujin-ongaku-lesson.json) |
 | Taiko no Tatsujin: Rhythm Connect | 269597 | [269597-taiko-no-tatsujin-rhythm-connect.json](./269597-taiko-no-tatsujin-rhythm-connect.json) |
+| Taiko no Tatsujin: Rhythm Festival - 90s Pops Pack | 416680 | [416680-taiko-no-tatsujin-rhythm-festival-90s-pops-pack.json](./416680-taiko-no-tatsujin-rhythm-festival-90s-pops-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 1 | 356089 | [356089-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-1.json](./356089-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-1.json) |
 | Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 2 | 356090 | [356090-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-2.json](./356090-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-2.json) |
 | Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3 | 356091 | [356091-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-3.json](./356091-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-3.json) |
@@ -2535,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infernal Return | 195156 | [195156-the-infernal-return.json](./195156-the-infernal-return.json) |
 | The Initial | 44187 | [44187-the-initial.json](./44187-the-initial.json) |
 | The Initiate | 44181 | [44181-the-initiate.json](./44181-the-initiate.json) |
+| The Inkspire | 416676 | [416676-the-inkspire.json](./416676-the-inkspire.json) |
 | The Inlaws | 25004 | [25004-the-inlaws.json](./25004-the-inlaws.json) |
 | The Inn | 133384 | [133384-the-inn.json](./133384-the-inn.json) |
 | The Inner World: The Puzzle | 10971 | [10971-the-inner-world-the-puzzle.json](./10971-the-inner-world-the-puzzle.json) |
@@ -3261,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oldest Edda | 190721 | [190721-the-oldest-edda.json](./190721-the-oldest-edda.json) |
 | The Omega Stone: Riddle of the Sphinx II | 71524 | [71524-the-omega-stone-riddle-of-the-sphinx-ii.json](./71524-the-omega-stone-riddle-of-the-sphinx-ii.json) |
 | The One Fish | 410892 | [410892-the-one-fish.json](./410892-the-one-fish.json) |
+| The One Who Knows | 416695 | [416695-the-one-who-knows.json](./416695-the-one-who-knows.json) |
 | The One Who Pulls Out the Sword Will Be Crowned King | 191888 | [191888-the-one-who-pulls-out-the-sword-will-be-crowned-king.json](./191888-the-one-who-pulls-out-the-sword-will-be-crowned-king.json) |
 | The One Who Runs Away Is Chased | 410250 | [410250-the-one-who-runs-away-is-chased.json](./410250-the-one-who-runs-away-is-chased.json) |
 | The One Who Stands Behind | 258191 | [258191-the-one-who-stands-behind.json](./258191-the-one-who-stands-behind.json) |
@@ -4809,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidewatch | 412273 | [412273-tidewatch.json](./412273-tidewatch.json) |
 | Tidewrack | 413673 | [413673-tidewrack.json](./413673-tidewrack.json) |
 | Tidy Backpack | 309874 | [309874-tidy-backpack.json](./309874-tidy-backpack.json) |
+| Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
 | Tidy Up: Spaceship | 410257 | [410257-tidy-up-spaceship.json](./410257-tidy-up-spaceship.json) |
 | Tie Break Tennis | 125970 | [125970-tie-break-tennis.json](./125970-tie-break-tennis.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
