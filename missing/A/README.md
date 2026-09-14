@@ -446,7 +446,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | Aether | 357785 | [357785-aether.json](./357785-aether.json) |
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
-| Aether League | 382222 | [382222-aether-league.json](./382222-aether-league.json) |
 | Aether Singularity | 312381 | [312381-aether-singularity.json](./312381-aether-singularity.json) |
 | Aether: A Heroic Fantasy RPG | 184062 | [184062-aether-a-heroic-fantasy-rpg.json](./184062-aether-a-heroic-fantasy-rpg.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
