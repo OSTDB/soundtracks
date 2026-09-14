@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Williams Pinball: Theatre of Magic | 354458 | [354458-williams-pinball-theatre-of-magic.json](./354458-williams-pinball-theatre-of-magic.json) |
 | Willo | 179746 | [179746-willo.json](./179746-willo.json) |
 | Willow | 74395 | [74395-willow.json](./74395-willow.json) |
+| Willow Guard: Frostreign | 398430 | [398430-willow-guard-frostreign.json](./398430-willow-guard-frostreign.json) |
 | Wills test game | 82079 | [82079-wills-test-game.json](./82079-wills-test-game.json) |
 | Willy and Rosie: Bust Out of the Big House | 273387 | [273387-willy-and-rosie-bust-out-of-the-big-house.json](./273387-willy-and-rosie-bust-out-of-the-big-house.json) |
 | Willy Crash | 225626 | [225626-willy-crash.json](./225626-willy-crash.json) |
