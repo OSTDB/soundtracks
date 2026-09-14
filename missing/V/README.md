@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcanon | 195193 | [195193-volcanon.json](./195193-volcanon.json) |
 | VolChaos | 35658 | [35658-volchaos.json](./35658-volchaos.json) |
 | Volden Idle | 274500 | [274500-volden-idle.json](./274500-volden-idle.json) |
+| Voleur! | 411693 | [411693-voleur.json](./411693-voleur.json) |
 | Volfoss | 66699 | [66699-volfoss.json](./66699-volfoss.json) |
 | Volgarr the Viking II | 304741 | [304741-volgarr-the-viking-ii.json](./304741-volgarr-the-viking-ii.json) |
 | Volley & Tennis Bundle Blast | 196812 | [196812-volley-and-tennis-bundle-blast.json](./196812-volley-and-tennis-bundle-blast.json) |
