@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenochamber | 110976 | [110976-xenochamber.json](./110976-xenochamber.json) |
 | XenoFeud | 235488 | [235488-xenofeud.json](./235488-xenofeud.json) |
 | Xenogears | 1346 | [1346-xenogears.json](./1346-xenogears.json) |
+| Xenogen | 381675 | [381675-xenogen.json](./381675-xenogen.json) |
 | Xenoids | 191203 | [191203-xenoids.json](./191203-xenoids.json) |
 | XenoMiner | 62728 | [62728-xenominer.json](./62728-xenominer.json) |
 | Xenomorph | 83494 | [83494-xenomorph.json](./83494-xenomorph.json) |
