@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioSynth: Rising | 336892 | [336892-biosynth-rising.json](./336892-biosynth-rising.json) |
 | Biota | 151161 | [151161-biota.json](./151161-biota.json) |
 | Biotech Samurai | 161385 | [161385-biotech-samurai.json](./161385-biotech-samurai.json) |
+| Biotomata | 381685 | [381685-biotomata.json](./381685-biotomata.json) |
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
 | Biped 2 | 298613 | [298613-biped-2.json](./298613-biped-2.json) |
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
@@ -2796,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boggy '84 | 40261 | [40261-boggy-84.json](./40261-boggy-84.json) |
 | Bogie's Super Pick: Value Pack 1 | 98965 | [98965-bogies-super-pick-value-pack-1.json](./98965-bogies-super-pick-value-pack-1.json) |
 | Bograts: The Puzzling Misadventure | 14330 | [14330-bograts-the-puzzling-misadventure.json](./14330-bograts-the-puzzling-misadventure.json) |
+| Bogwater | 381727 | [381727-bogwater.json](./381727-bogwater.json) |
 | Bohemian Yard | 217866 | [217866-bohemian-yard.json](./217866-bohemian-yard.json) |
 | Bohrdom | 112947 | [112947-bohrdom.json](./112947-bohrdom.json) |
 | Boid | 17646 | [17646-boid.json](./17646-boid.json) |
