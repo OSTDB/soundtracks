@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
 | Nightshade | 39119 | [39119-nightshade.json](./39119-nightshade.json) |
 | Nightshift | 271202 | [271202-nightshift.json](./271202-nightshift.json) |
+| Nightshift at the Beta Museum | 408141 | [408141-nightshift-at-the-beta-museum.json](./408141-nightshift-at-the-beta-museum.json) |
 | Nightslink | 165643 | [165643-nightslink.json](./165643-nightslink.json) |
 | Nightstar: Starfighter | 31815 | [31815-nightstar-starfighter.json](./31815-nightstar-starfighter.json) |
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
