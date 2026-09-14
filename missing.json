@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T07:19:04.929Z",
-  "total_missing": 68926,
+  "generated_at": "2026-09-14T07:21:43.640Z",
+  "total_missing": 68925,
   "games": [
     {
       "igdb_id": 306086,
@@ -4246,11 +4246,6 @@
       "igdb_id": 52550,
       "game_name": "Adventure Inlay: Safari Edition",
       "file": "missing/A/52550-adventure-inlay-safari-edition.json"
-    },
-    {
-      "igdb_id": 6471,
-      "game_name": "Adventure Island II",
-      "file": "missing/A/6471-adventure-island-ii.json"
     },
     {
       "igdb_id": 265665,
