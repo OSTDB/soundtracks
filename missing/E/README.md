@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Efpiyes | 234045 | [234045-efpiyes.json](./234045-efpiyes.json) |
 | EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
+| Egg Harvester | 409637 | [409637-egg-harvester.json](./409637-egg-harvester.json) |
 | Egg Hunt | 110375 | [110375-egg-hunt.json](./110375-egg-hunt.json) |
 | Egg Hunt 2026: The Grand Eggspress | 412312 | [412312-egg-hunt-2026-the-grand-eggspress.json](./412312-egg-hunt-2026-the-grand-eggspress.json) |
 | Egg Hunt VR | 28784 | [28784-egg-hunt-vr.json](./28784-egg-hunt-vr.json) |
@@ -500,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementary My Dear Majesty! | 35902 | [35902-elementary-my-dear-majesty.json](./35902-elementary-my-dear-majesty.json) |
 | Elementers | 304888 | [304888-elementers.json](./304888-elementers.json) |
 | Elementis | 138737 | [138737-elementis.json](./138737-elementis.json) |
+| Elementis TD | 411721 | [411721-elementis-td.json](./411721-elementis-td.json) |
 | Elementium | 83562 | [83562-elementium.json](./83562-elementium.json) |
 | Elementowers | 152841 | [152841-elementowers.json](./152841-elementowers.json) |
 | Elements | 186872 | [186872-elements.json](./186872-elements.json) |
