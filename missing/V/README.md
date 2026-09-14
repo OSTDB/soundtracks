@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Laser Harp | 30761 | [30761-vr-laser-harp.json](./30761-vr-laser-harp.json) |
 | VR Laser Puzzle | 96685 | [96685-vr-laser-puzzle.json](./96685-vr-laser-puzzle.json) |
 | VR Mini Bowling | 81115 | [81115-vr-mini-bowling.json](./81115-vr-mini-bowling.json) |
+| VR Monster Awakens | 30176 | [30176-vr-monster-awakens.json](./30176-vr-monster-awakens.json) |
 | VR Ninja Dojo | 316410 | [316410-vr-ninja-dojo.json](./316410-vr-ninja-dojo.json) |
 | VR Pianist | 152878 | [152878-vr-pianist.json](./152878-vr-pianist.json) |
 | VR PingPong Sweetie | 384518 | [384518-vr-pingpong-sweetie.json](./384518-vr-pingpong-sweetie.json) |
@@ -958,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Super Mario Bros. | 92342 | [92342-vs-super-mario-bros.json](./92342-vs-super-mario-bros.json) |
 | Vs. Urban Champion | 169998 | [169998-vs-urban-champion.json](./169998-vs-urban-champion.json) |
 | Vs. Vemny & Friends | 302648 | [302648-vs-vemny-and-friends.json](./302648-vs-vemny-and-friends.json) |
+| VThree | 30130 | [30130-vthree.json](./30130-vthree.json) |
 | VTOL VR: AH-94 Attack Helicopter | 319396 | [319396-vtol-vr-ah-94-attack-helicopter.json](./319396-vtol-vr-ah-94-attack-helicopter.json) |
 | Vtoraya Mirovaya: Izdanie Vtoroe | 84277 | [84277-vtoraya-mirovaya-izdanie-vtoroe.json](./84277-vtoraya-mirovaya-izdanie-vtoroe.json) |
 | VTuber Battle: It’s Not About Subscribers! It’s All About Power! | 331888 | [331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json](./331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json) |
