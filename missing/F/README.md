@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Agito | 7400 | [7400-final-fantasy-agito.json](./7400-final-fantasy-agito.json) |
 | Final Fantasy Anthology | 423 | [423-final-fantasy-anthology.json](./423-final-fantasy-anthology.json) |
 | Final Fantasy Anthology Collector's Package | 89874 | [89874-final-fantasy-anthology-collectors-package.json](./89874-final-fantasy-anthology-collectors-package.json) |
+| Final Fantasy Blackmoon Prophecy Remake | 398468 | [398468-final-fantasy-blackmoon-prophecy-remake.json](./398468-final-fantasy-blackmoon-prophecy-remake.json) |
 | Final Fantasy for Android | 84188 | [84188-final-fantasy-for-android.json](./84188-final-fantasy-for-android.json) |
 | Final Fantasy Grandmasters | 84174 | [84174-final-fantasy-grandmasters.json](./84174-final-fantasy-grandmasters.json) |
 | Final Fantasy I+II Premium Package | 323153 | [323153-final-fantasy-i-ii-premium-package.json](./323153-final-fantasy-i-ii-premium-package.json) |
@@ -2170,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreign Galaxies | 196232 | [196232-foreign-galaxies.json](./196232-foreign-galaxies.json) |
 | Foreman Frenzy! | 343284 | [343284-foreman-frenzy.json](./343284-foreman-frenzy.json) |
 | Forensic Science Mystery | 399633 | [399633-forensic-science-mystery.json](./399633-forensic-science-mystery.json) |
+| Forensic: M.E. Protocol | 398451 | [398451-forensic-m-e-protocol.json](./398451-forensic-m-e-protocol.json) |
 | Forensics: Crime Scene Detective | 406712 | [406712-forensics-crime-scene-detective.json](./406712-forensics-crime-scene-detective.json) |
 | Forep Man | 121628 | [121628-forep-man.json](./121628-forep-man.json) |
 | Forest | 185166 | [185166-forest.json](./185166-forest.json) |
