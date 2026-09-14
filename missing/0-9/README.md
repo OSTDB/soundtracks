@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 96 | 180215 | [180215-96.json](./180215-96.json) |
 | 99 Cars: Zig Zag Racer | 240209 | [240209-99-cars-zig-zag-racer.json](./240209-99-cars-zig-zag-racer.json) |
 | 99 Problems | 353316 | [353316-99-problems.json](./353316-99-problems.json) |
+| 99% Can't Spot It! Common Sense Battle | 409671 | [409671-99-cant-spot-it-common-sense-battle.json](./409671-99-cant-spot-it-common-sense-battle.json) |
 | 999Seconds!Survivors | 400259 | [400259-999seconds-survivors.json](./400259-999seconds-survivors.json) |
 | 9pm | 177510 | [177510-9pm.json](./177510-9pm.json) |
 | 9th Sentinel Sisters | 266819 | [266819-9th-sentinel-sisters.json](./266819-9th-sentinel-sisters.json) |
