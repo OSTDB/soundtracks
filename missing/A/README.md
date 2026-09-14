@@ -2333,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Designer | 159879 | [159879-aquarium-designer.json](./159879-aquarium-designer.json) |
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
 | Aquarium Designer: Sea Life | 199595 | [199595-aquarium-designer-sea-life.json](./199595-aquarium-designer-sea-life.json) |
+| Aquarium Land: Platinum Edition | 385193 | [385193-aquarium-land-platinum-edition.json](./385193-aquarium-land-platinum-edition.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
 | Aquatic Adventure | 292015 | [292015-aquatic-adventure.json](./292015-aquatic-adventure.json) |
