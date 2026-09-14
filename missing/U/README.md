@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfabulous | 18306 | [18306-unfabulous.json](./18306-unfabulous.json) |
 | Unfair Flips | 367451 | [367451-unfair-flips.json](./367451-unfair-flips.json) |
 | Unfated | 267672 | [267672-unfated.json](./267672-unfated.json) |
+| Unfated | 410974 | [410974-unfated.json](./410974-unfated.json) |
 | Unfathomable Villa | 112971 | [112971-unfathomable-villa.json](./112971-unfathomable-villa.json) |
 | Unfazed | 31948 | [31948-unfazed.json](./31948-unfazed.json) |
 | Unfinished 2 | 338589 | [338589-unfinished-2.json](./338589-unfinished-2.json) |
@@ -487,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uni Ver Se | 185635 | [185635-uni-ver-se.json](./185635-uni-ver-se.json) |
 | Unicellular | 185602 | [185602-unicellular.json](./185602-unicellular.json) |
 | Unicorn | 223672 | [223672-unicorn.json](./223672-unicorn.json) |
+| Unicorn Academy: Island of Magic | 410966 | [410966-unicorn-academy-island-of-magic.json](./410966-unicorn-academy-island-of-magic.json) |
 | Unicorn Coloring Book | 96076 | [96076-unicorn-coloring-book.json](./96076-unicorn-coloring-book.json) |
 | Unicorn Fun | 227843 | [227843-unicorn-fun.json](./227843-unicorn-fun.json) |
 | Unicorn Overlord: Monarch Edition | 283162 | [283162-unicorn-overlord-monarch-edition.json](./283162-unicorn-overlord-monarch-edition.json) |
