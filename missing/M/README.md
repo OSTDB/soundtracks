@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Force | 36573 | [36573-maximum-force.json](./36573-maximum-force.json) |
 | Maximum Racing: Super Truck Racer | 50603 | [50603-maximum-racing-super-truck-racer.json](./50603-maximum-racing-super-truck-racer.json) |
 | Maximum Rescue | 93027 | [93027-maximum-rescue.json](./93027-maximum-rescue.json) |
+| Maximum Sports Gold Collection | 406799 | [406799-maximum-sports-gold-collection.json](./406799-maximum-sports-gold-collection.json) |
 | Maximum Surge | 94175 | [94175-maximum-surge.json](./94175-maximum-surge.json) |
 | MaxRacer | 143670 | [143670-maxracer.json](./143670-maxracer.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
@@ -1354,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze | 7430 | [7430-maze.json](./7430-maze.json) |
 | Maze 2010 | 230851 | [230851-maze-2010.json](./230851-maze-2010.json) |
 | Maze 4D | 112921 | [112921-maze-4d.json](./112921-maze-4d.json) |
+| Maze 95 Ultimate | 406807 | [406807-maze-95-ultimate.json](./406807-maze-95-ultimate.json) |
 | Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
@@ -3658,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moontales Picbook | 359999 | [359999-moontales-picbook.json](./359999-moontales-picbook.json) |
 | Moontrain | 205573 | [205573-moontrain.json](./205573-moontrain.json) |
 | Moonwalker: The Computer Game | 67952 | [67952-moonwalker-the-computer-game.json](./67952-moonwalker-the-computer-game.json) |
+| Moony Mayhem: Cheeks Unleashed | 406818 | [406818-moony-mayhem-cheeks-unleashed.json](./406818-moony-mayhem-cheeks-unleashed.json) |
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
 | Mooon | 276742 | [276742-mooon.json](./276742-mooon.json) |
 | Moop | 179665 | [179665-moop.json](./179665-moop.json) |
