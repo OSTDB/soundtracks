@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
 | Pit Stop Racing: Manager | 234612 | [234612-pit-stop-racing-manager.json](./234612-pit-stop-racing-manager.json) |
 | Pitball | 20723 | [20723-pitball.json](./20723-pitball.json) |
+| Pitch & Pixel | 405605 | [405605-pitch-and-pixel.json](./405605-pitch-and-pixel.json) |
 | Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
 | Pitch Deck | 204733 | [204733-pitch-deck.json](./204733-pitch-deck.json) |
 | Pitch Patter | 273657 | [273657-pitch-patter.json](./273657-pitch-patter.json) |
@@ -3446,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocoss | 145588 | [145588-protocoss.json](./145588-protocoss.json) |
 | Protocoss Oejeon: Darasian-pyeon | 145600 | [145600-protocoss-oejeon-darasian-pyeon.json](./145600-protocoss-oejeon-darasian-pyeon.json) |
 | ProtoDungeon: Episode I | 181879 | [181879-protodungeon-episode-i.json](./181879-protodungeon-episode-i.json) |
+| ProtoDungeon: Episode II | 405620 | [405620-protodungeon-episode-ii.json](./405620-protodungeon-episode-ii.json) |
 | Protoform | 107113 | [107113-protoform.json](./107113-protoform.json) |
 | Protolife | 89973 | [89973-protolife.json](./89973-protolife.json) |
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
