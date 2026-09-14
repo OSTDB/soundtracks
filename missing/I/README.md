@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ishu Saikyou-ou Zukan: Battle Colosseum | 225897 | [225897-ishu-saikyou-ou-zukan-battle-colosseum.json](./225897-ishu-saikyou-ou-zukan-battle-colosseum.json) |
 | Isida | 382755 | [382755-isida.json](./382755-isida.json) |
 | Isis: The Fall | 255100 | [255100-isis-the-fall.json](./255100-isis-the-fall.json) |
+| Isla de la Muerte | 399734 | [399734-isla-de-la-muerte.json](./399734-isla-de-la-muerte.json) |
 | Isla Dorada: Episode 1 - The Sands of Ephranis | 210046 | [210046-isla-dorada-episode-1-the-sands-of-ephranis.json](./210046-isla-dorada-episode-1-the-sands-of-ephranis.json) |
 | ISLA test | 123573 | [123573-isla-test.json](./123573-isla-test.json) |
 | Island | 260380 | [260380-island.json](./260380-island.json) |
