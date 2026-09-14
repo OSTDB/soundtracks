@@ -2076,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Harry | 3142 | [3142-dirty-harry.json](./3142-dirty-harry.json) |
 | Dirty House | 278158 | [278158-dirty-house.json](./278158-dirty-house.json) |
 | Dirty Kids | 100160 | [100160-dirty-kids.json](./100160-dirty-kids.json) |
+| Dirty Laundry | 406832 | [406832-dirty-laundry.json](./406832-dirty-laundry.json) |
 | Dirty Love | 303481 | [303481-dirty-love.json](./303481-dirty-love.json) |
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
 | Disaster | 186809 | [186809-disaster.json](./186809-disaster.json) |
@@ -2611,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
 | Don't Forget Me: Deluxe Edition | 154519 | [154519-dont-forget-me-deluxe-edition.json](./154519-dont-forget-me-deluxe-edition.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
+| Don't Get Fired! | 406825 | [406825-dont-get-fired.json](./406825-dont-get-fired.json) |
 | Don't Give Up: A Cynical Tale | 111141 | [111141-dont-give-up-a-cynical-tale.json](./111141-dont-give-up-a-cynical-tale.json) |
 | Don't Go | 267089 | [267089-dont-go.json](./267089-dont-go.json) |
 | Don't Go Bang! | 24966 | [24966-dont-go-bang.json](./24966-dont-go-bang.json) |
@@ -2833,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dor | 84278 | [84278-dor.json](./84278-dor.json) |
 | Dora & Kai-Lan's Pet Shelter | 97372 | [97372-dora-and-kai-lans-pet-shelter.json](./97372-dora-and-kai-lans-pet-shelter.json) |
 | Dora and the Three Little Pigs | 231378 | [231378-dora-and-the-three-little-pigs.json](./231378-dora-and-the-three-little-pigs.json) |
+| Dora Star Explorer | 406776 | [406776-dora-star-explorer.json](./406776-dora-star-explorer.json) |
 | Dora the Explorer: Adventures 3-Pack | 100113 | [100113-dora-the-explorer-adventures-3-pack.json](./100113-dora-the-explorer-adventures-3-pack.json) |
 | Dora the Explorer: Animal Adventures | 77328 | [77328-dora-the-explorer-animal-adventures.json](./77328-dora-the-explorer-animal-adventures.json) |
 | Dora the Explorer: Candy Land | 206702 | [206702-dora-the-explorer-candy-land.json](./206702-dora-the-explorer-candy-land.json) |
