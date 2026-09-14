@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GigaBash: Ultraman Zero | 404820 | [404820-gigabash-ultraman-zero.json](./404820-gigabash-ultraman-zero.json) |
 | Gigablast | 66603 | [66603-gigablast.json](./66603-gigablast.json) |
 | Gigachess: Brilliant Blitz Level Pack | 166224 | [166224-gigachess-brilliant-blitz-level-pack.json](./166224-gigachess-brilliant-blitz-level-pack.json) |
+| Gigadyne Voltraid | 413721 | [413721-gigadyne-voltraid.json](./413721-gigadyne-voltraid.json) |
 | Gigant | 212830 | [212830-gigant.json](./212830-gigant.json) |
 | Gigantic Gear | 299729 | [299729-gigantic-gear.json](./299729-gigantic-gear.json) |
 | Gigantosaurus Dino Kart | 219436 | [219436-gigantosaurus-dino-kart.json](./219436-gigantosaurus-dino-kart.json) |
@@ -1006,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator's Arena | 236530 | [236530-gladiators-arena.json](./236530-gladiators-arena.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
+| Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
 | Glass Hearts | 221191 | [221191-glass-hearts.json](./221191-glass-hearts.json) |
 | Glass Horizon | 322604 | [322604-glass-horizon.json](./322604-glass-horizon.json) |
 | Glass Masquerade 2: Illusions | 109763 | [109763-glass-masquerade-2-illusions.json](./109763-glass-masquerade-2-illusions.json) |
@@ -2284,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Rocket | 34733 | [34733-gun-rocket.json](./34733-gun-rocket.json) |
 | Gun Runner | 81287 | [81287-gun-runner.json](./81287-gun-runner.json) |
 | Gun Shop 3 | 301245 | [301245-gun-shop-3.json](./301245-gun-shop-3.json) |
+| Gun Shop: Tidy Up | 413780 | [413780-gun-shop-tidy-up.json](./413780-gun-shop-tidy-up.json) |
 | Gun Soul Girl 2 | 169455 | [169455-gun-soul-girl-2.json](./169455-gun-soul-girl-2.json) |
 | Gun Sounds: Shooting Master | 227499 | [227499-gun-sounds-shooting-master.json](./227499-gun-sounds-shooting-master.json) |
 | Gun Sprint | 332804 | [332804-gun-sprint.json](./332804-gun-sprint.json) |
