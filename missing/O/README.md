@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My God, Look At This Knight | 76640 | [76640-oh-my-god-look-at-this-knight.json](./76640-oh-my-god-look-at-this-knight.json) |
 | Oh My Gore! | 36231 | [36231-oh-my-gore.json](./36231-oh-my-gore.json) |
 | Oh My Pool! | 144970 | [144970-oh-my-pool.json](./144970-oh-my-pool.json) |
+| Oh No! Bugs! | 31708 | [31708-oh-no-bugs.json](./31708-oh-no-bugs.json) |
 | Oh No! More Zombies Ate My Neighbors | 38294 | [38294-oh-no-more-zombies-ate-my-neighbors.json](./38294-oh-no-more-zombies-ate-my-neighbors.json) |
 | Oh No! UFO! | 386730 | [386730-oh-no-ufo.json](./386730-oh-no-ufo.json) |
 | Oh Noes!!1 | 91896 | [91896-oh-noes-1.json](./91896-oh-noes-1.json) |
@@ -558,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
 | One Final Chaos | 34286 | [34286-one-final-chaos.json](./34286-one-final-chaos.json) |
 | One Giant Hole | 371869 | [371869-one-giant-hole.json](./371869-one-giant-hole.json) |
+| One Giant Leap | 31735 | [31735-one-giant-leap.json](./31735-one-giant-leap.json) |
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
 | One Goal Spirit | 80493 | [80493-one-goal-spirit.json](./80493-one-goal-spirit.json) |
 | One Hell of a Turnabout | 310419 | [310419-one-hell-of-a-turnabout.json](./310419-one-hell-of-a-turnabout.json) |
@@ -925,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Racer | 74130 | [74130-orbital-racer.json](./74130-orbital-racer.json) |
 | Orbital Siege | 365057 | [365057-orbital-siege.json](./365057-orbital-siege.json) |
 | Orbital Strike VR | 136464 | [136464-orbital-strike-vr.json](./136464-orbital-strike-vr.json) |
+| Orbital X | 31797 | [31797-orbital-x.json](./31797-orbital-x.json) |
 | Orbiterrion | 153359 | [153359-orbiterrion.json](./153359-orbiterrion.json) |
 | Orbitor | 36074 | [36074-orbitor.json](./36074-orbitor.json) |
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
