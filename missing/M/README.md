@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Moving Boxes | 376447 | [376447-maid-moving-boxes.json](./376447-maid-moving-boxes.json) |
 | Maid PizzaHub | 201252 | [201252-maid-pizzahub.json](./201252-maid-pizzahub.json) |
 | Maid Survivors: Little Angels | 298032 | [298032-maid-survivors-little-angels.json](./298032-maid-survivors-little-angels.json) |
+| Maid-Sama Cafe: Anime Boys Services in Cute Outfits | 396434 | [396434-maid-sama-cafe-anime-boys-services-in-cute-outfits.json](./396434-maid-sama-cafe-anime-boys-services-in-cute-outfits.json) |
 | Maid-Sama Cafe: Anime Girls Services in Cute Outfits | 396913 | [396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json](./396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json) |
 | Maid-san wo Migi ni Mi | 111051 | [111051-maid-san-wo-migi-ni-mi.json](./111051-maid-san-wo-migi-ni-mi.json) |
 | Maiden Maze | 147376 | [147376-maiden-maze.json](./147376-maiden-maze.json) |
@@ -3358,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Mono Grav | 185110 | [185110-mono-grav.json](./185110-mono-grav.json) |
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
+| Monobeno: Happy End | 396370 | [396370-monobeno-happy-end.json](./396370-monobeno-happy-end.json) |
 | Monochro | 150164 | [150164-monochro.json](./150164-monochro.json) |
 | Monochromaniacs | 124147 | [124147-monochromaniacs.json](./124147-monochromaniacs.json) |
 | Monochrome Echoes: Black | 410318 | [410318-monochrome-echoes-black.json](./410318-monochrome-echoes-black.json) |
@@ -3986,6 +3988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
 | Mountain Madness: Super Pro Skiing | 5685 | [5685-mountain-madness-super-pro-skiing.json](./5685-mountain-madness-super-pro-skiing.json) |
 | Mountain Maniac | 66104 | [66104-mountain-maniac.json](./66104-mountain-maniac.json) |
+| Mountain Maniac Xmas | 396423 | [396423-mountain-maniac-xmas.json](./396423-mountain-maniac-xmas.json) |
 | Mountain Taxi Driver | 119745 | [119745-mountain-taxi-driver.json](./119745-mountain-taxi-driver.json) |
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
 | Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
