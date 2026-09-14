@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Escape | 148495 | [148495-death-escape.json](./148495-death-escape.json) |
 | Death Field: The Battle Royale of Disaster | 96234 | [96234-death-field-the-battle-royale-of-disaster.json](./96234-death-field-the-battle-royale-of-disaster.json) |
 | Death Flush | 140622 | [140622-death-flush.json](./140622-death-flush.json) |
+| Death Forest: Seikin | 385186 | [385186-death-forest-seikin.json](./385186-death-forest-seikin.json) |
 | Death Game | 206153 | [206153-death-game.json](./206153-death-game.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
 | Death in the Bunker | 224555 | [224555-death-in-the-bunker.json](./224555-death-in-the-bunker.json) |
@@ -2336,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diva Starz: Mall Mania | 49893 | [49893-diva-starz-mall-mania.json](./49893-diva-starz-mall-mania.json) |
 | Divadlo | 271988 | [271988-divadlo.json](./271988-divadlo.json) |
 | Divan Chronicles: Battle for Dancig - Episode 3 | 172096 | [172096-divan-chronicles-battle-for-dancig-episode-3.json](./172096-divan-chronicles-battle-for-dancig-episode-3.json) |
+| Dive Expedition: Complete Edition | 385197 | [385197-dive-expedition-complete-edition.json](./385197-dive-expedition-complete-edition.json) |
 | Dive On | 264069 | [264069-dive-on.json](./264069-dive-on.json) |
 | Dive or Die: Children of Rain | 391055 | [391055-dive-or-die-children-of-rain.json](./391055-dive-or-die-children-of-rain.json) |
 | Dive to the Titanic | 16206 | [16206-dive-to-the-titanic.json](./16206-dive-to-the-titanic.json) |
@@ -4127,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusklight Manor | 255096 | [255096-dusklight-manor.json](./255096-dusklight-manor.json) |
 | Dusky Depths | 273628 | [273628-dusky-depths.json](./273628-dusky-depths.json) |
 | Dust & Letters | 402915 | [402915-dust-and-letters.json](./402915-dust-and-letters.json) |
+| Dust and Sorcery | 385222 | [385222-dust-and-sorcery.json](./385222-dust-and-sorcery.json) |
 | Dust Courier | 285984 | [285984-dust-courier.json](./285984-dust-courier.json) |
 | Dust Dasher | 135280 | [135280-dust-dasher.json](./135280-dust-dasher.json) |
 | Dust Fleet | 133464 | [133464-dust-fleet.json](./133464-dust-fleet.json) |
