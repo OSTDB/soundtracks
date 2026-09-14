@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T07:51:31.958Z",
-  "total_missing": 69022,
+  "generated_at": "2026-09-14T08:01:33.461Z",
+  "total_missing": 69034,
   "games": [
     {
       "igdb_id": 306086,
@@ -4266,11 +4266,6 @@
       "igdb_id": 246958,
       "game_name": "Adventure Mosaics: Autumn Journey",
       "file": "missing/A/246958-adventure-mosaics-autumn-journey.json"
-    },
-    {
-      "igdb_id": 338700,
-      "game_name": "Adventure Mosaics: Brazilian Carnival",
-      "file": "missing/A/338700-adventure-mosaics-brazilian-carnival.json"
     },
     {
       "igdb_id": 417517,
@@ -42093,6 +42088,11 @@
       "file": "missing/C/355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json"
     },
     {
+      "igdb_id": 411724,
+      "game_name": "Call of Cutie",
+      "file": "missing/C/411724-call-of-cutie.json"
+    },
+    {
       "igdb_id": 119160,
       "game_name": "Call of Duty 2",
       "file": "missing/C/119160-call-of-duty-2.json"
@@ -56038,6 +56038,11 @@
       "file": "missing/C/47293-conquest-of-the-world.json"
     },
     {
+      "igdb_id": 411737,
+      "game_name": "Conquest: Global Domination",
+      "file": "missing/C/411737-conquest-global-domination.json"
+    },
+    {
       "igdb_id": 147368,
       "game_name": "Conquest: Medieval Kingdoms",
       "file": "missing/C/147368-conquest-medieval-kingdoms.json"
@@ -60171,6 +60176,11 @@
       "igdb_id": 67520,
       "game_name": "Criss Cross",
       "file": "missing/C/67520-criss-cross.json"
+    },
+    {
+      "igdb_id": 411734,
+      "game_name": "Cristal Absoluto",
+      "file": "missing/C/411734-cristal-absoluto.json"
     },
     {
       "igdb_id": 36027,
@@ -73031,6 +73041,11 @@
       "igdb_id": 67950,
       "game_name": "Digital Paint: Paintball 2",
       "file": "missing/D/67950-digital-paint-paintball-2.json"
+    },
+    {
+      "igdb_id": 411728,
+      "game_name": "Digital Survivor",
+      "file": "missing/D/411728-digital-survivor.json"
     },
     {
       "igdb_id": 236008,
@@ -86451,6 +86466,11 @@
       "igdb_id": 138737,
       "game_name": "Elementis",
       "file": "missing/E/138737-elementis.json"
+    },
+    {
+      "igdb_id": 411721,
+      "game_name": "Elementis TD",
+      "file": "missing/E/411721-elementis-td.json"
     },
     {
       "igdb_id": 83562,
@@ -137236,6 +137256,11 @@
       "igdb_id": 227252,
       "game_name": "Immortal Awakening",
       "file": "missing/I/227252-immortal-awakening.json"
+    },
+    {
+      "igdb_id": 411722,
+      "game_name": "Immortal Coil",
+      "file": "missing/I/411722-immortal-coil.json"
     },
     {
       "igdb_id": 174830,
@@ -199018,6 +199043,11 @@
       "file": "missing/O/89284-office-jigsaw-puzzle-work-environment.json"
     },
     {
+      "igdb_id": 411727,
+      "game_name": "Office Ladies",
+      "file": "missing/O/411727-office-ladies.json"
+    },
+    {
       "igdb_id": 157708,
       "game_name": "Office Love Affair",
       "file": "missing/O/157708-office-love-affair.json"
@@ -217261,6 +217291,11 @@
       "igdb_id": 186843,
       "game_name": "Polygon Hunter VR",
       "file": "missing/P/186843-polygon-hunter-vr.json"
+    },
+    {
+      "igdb_id": 411736,
+      "game_name": "Polygon Mayhem",
+      "file": "missing/P/411736-polygon-mayhem.json"
     },
     {
       "igdb_id": 262932,
@@ -238588,6 +238623,11 @@
       "file": "missing/R/177039-rover-wars.json"
     },
     {
+      "igdb_id": 411733,
+      "game_name": "Rover’s Radventure: The New Millennium",
+      "file": "missing/R/411733-rover-s-radventure-the-new-millennium.json"
+    },
+    {
       "igdb_id": 106602,
       "game_name": "Roving in the Dark",
       "file": "missing/R/106602-roving-in-the-dark.json"
@@ -256273,6 +256313,11 @@
       "file": "missing/S/76551-slot.json"
     },
     {
+      "igdb_id": 411731,
+      "game_name": "Slots & Slaughter",
+      "file": "missing/S/411731-slots-and-slaughter.json"
+    },
+    {
       "igdb_id": 147974,
       "game_name": "Slots of Poker at Aces Casino",
       "file": "missing/S/147974-slots-of-poker-at-aces-casino.json"
@@ -273491,6 +273536,11 @@
       "igdb_id": 272035,
       "game_name": "Subsuelo",
       "file": "missing/S/272035-subsuelo.json"
+    },
+    {
+      "igdb_id": 411732,
+      "game_name": "Subsurface",
+      "file": "missing/S/411732-subsurface.json"
     },
     {
       "igdb_id": 54780,
@@ -302711,6 +302761,11 @@
       "igdb_id": 295524,
       "game_name": "The Twisting Trail of Clues",
       "file": "missing/T/295524-the-twisting-trail-of-clues.json"
+    },
+    {
+      "igdb_id": 411725,
+      "game_name": "The Two Body Problem",
+      "file": "missing/T/411725-the-two-body-problem.json"
     },
     {
       "igdb_id": 185944,
@@ -343096,6 +343151,11 @@
       "igdb_id": 339793,
       "game_name": "Zenless Zone Zero: Update 1.7 - Bury Your Tears With the Past",
       "file": "missing/Z/339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json"
+    },
+    {
+      "igdb_id": 411735,
+      "game_name": "Zenless Zone Zero: Update 3.1 - The Long Goodbye",
+      "file": "missing/Z/411735-zenless-zone-zero-update-3-1-the-long-goodbye.json"
     },
     {
       "igdb_id": 332450,
