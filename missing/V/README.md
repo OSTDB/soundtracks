@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanilla Inspector | 154019 | [154019-vanilla-inspector.json](./154019-vanilla-inspector.json) |
 | Vanilla Sky | 274224 | [274224-vanilla-sky.json](./274224-vanilla-sky.json) |
 | Vanilla: Made to Order | 221718 | [221718-vanilla-made-to-order.json](./221718-vanilla-made-to-order.json) |
+| Vanished Maiden | 403042 | [403042-vanished-maiden.json](./403042-vanished-maiden.json) |
 | Vanishing Realms | 18694 | [18694-vanishing-realms.json](./18694-vanishing-realms.json) |
 | Vanishing Realms: The Sundered Rift | 167244 | [167244-vanishing-realms-the-sundered-rift.json](./167244-vanishing-realms-the-sundered-rift.json) |
 | Vanity | 273650 | [273650-vanity.json](./273650-vanity.json) |
@@ -316,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vektor 2089 | 134661 | [134661-vektor-2089.json](./134661-vektor-2089.json) |
 | Vektor Tank 3D+ | 85468 | [85468-vektor-tank-3d.json](./85468-vektor-tank-3d.json) |
 | Vektron Revenge | 33100 | [33100-vektron-revenge.json](./33100-vektron-revenge.json) |
+| Velanit: The Forgotten Cottage | 403019 | [403019-velanit-the-forgotten-cottage.json](./403019-velanit-the-forgotten-cottage.json) |
 | Velato | 398989 | [398989-velato.json](./398989-velato.json) |
 | Velkyn | 282018 | [282018-velkyn.json](./282018-velkyn.json) |
 | Velldeselba Senki: Tsubasa no Kunshou | 140026 | [140026-velldeselba-senki-tsubasa-no-kunshou.json](./140026-velldeselba-senki-tsubasa-no-kunshou.json) |
