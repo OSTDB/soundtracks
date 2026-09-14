@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotowari: Kimi no Kokoro no Koboreta Kakera | 382785 | [382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json](./382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json) |
 | Kouchuu Ouja Mushiking: Mori no Tami no Densetsu - Minna de Tanken! Kouchuu no Mori | 123621 | [123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json](./123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json) |
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
+| Kouhai wo Iwau Saisho no Fuyu | 406204 | [406204-kouhai-wo-iwau-saisho-no-fuyu.json](./406204-kouhai-wo-iwau-saisho-no-fuyu.json) |
 | Koutetsu Yousai Strahl | 40221 | [40221-koutetsu-yousai-strahl.json](./40221-koutetsu-yousai-strahl.json) |
 | Kova | 27883 | [27883-kova.json](./27883-kova.json) |
 | KovaaK 2.0: Tracking Trainer | 171035 | [171035-kovaak-2-0-tracking-trainer.json](./171035-kovaak-2-0-tracking-trainer.json) |
