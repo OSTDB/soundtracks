@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally Acorn in Sonic the Hedgehog | 141883 | [141883-sally-acorn-in-sonic-the-hedgehog.json](./141883-sally-acorn-in-sonic-the-hedgehog.json) |
 | Sally Acorn in Sonic the Hedgehog 2 | 141884 | [141884-sally-acorn-in-sonic-the-hedgehog-2.json](./141884-sally-acorn-in-sonic-the-hedgehog-2.json) |
 | Sally's Salon | 24328 | [24328-sallys-salon.json](./24328-sallys-salon.json) |
+| Sally's Salon: Kiss & Make-Up | 103439 | [103439-sallys-salon-kiss-and-make-up.json](./103439-sallys-salon-kiss-and-make-up.json) |
 | Sally's Spa | 67966 | [67966-sallys-spa.json](./67966-sallys-spa.json) |
 | Sally's Spa HD | 87725 | [87725-sallys-spa-hd.json](./87725-sallys-spa-hd.json) |
 | Sally's Studio | 65321 | [65321-sallys-studio.json](./65321-sallys-studio.json) |
@@ -1556,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowland | 206147 | [206147-shadowland.json](./206147-shadowland.json) |
 | Shadowlands | 37128 | [37128-shadowlands.json](./37128-shadowlands.json) |
 | ShadowLight Siblings | 314300 | [314300-shadowlight-siblings.json](./314300-shadowlight-siblings.json) |
+| Shadowlings | 103463 | [103463-shadowlings.json](./103463-shadowlings.json) |
 | Shadowmatic | 19496 | [19496-shadowmatic.json](./19496-shadowmatic.json) |
 | Shadownest | 158199 | [158199-shadownest.json](./158199-shadownest.json) |
 | Shadoworld: The Impossible Escape Game | 204082 | [204082-shadoworld-the-impossible-escape-game.json](./204082-shadoworld-the-impossible-escape-game.json) |
@@ -4152,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukou Akki Muramasa: Janen-hen | 170502 | [170502-soukou-akki-muramasa-janen-hen.json](./170502-soukou-akki-muramasa-janen-hen.json) |
 | Soukou Kihei Votoms: The Battling Road | 38273 | [38273-soukou-kihei-votoms-the-battling-road.json](./38273-soukou-kihei-votoms-the-battling-road.json) |
 | Soul | 199577 | [199577-soul.json](./199577-soul.json) |
+| Soul at Stake | 103949 | [103949-soul-at-stake.json](./103949-soul-at-stake.json) |
 | Soul Awakening Adventure | 273093 | [273093-soul-awakening-adventure.json](./273093-soul-awakening-adventure.json) |
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
 | Soul Destiny | 125967 | [125967-soul-destiny.json](./125967-soul-destiny.json) |
@@ -4799,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sperm Into Labia | 310742 | [310742-sperm-into-labia.json](./310742-sperm-into-labia.json) |
 | Sperma | 232698 | [232698-sperma.json](./232698-sperma.json) |
 | Spermula 1 | 131598 | [131598-spermula-1.json](./131598-spermula-1.json) |
+| Sphaera | 103771 | [103771-sphaera.json](./103771-sphaera.json) |
 | Sphere | 264887 | [264887-sphere.json](./264887-sphere.json) |
 | Sphere Arena | 166762 | [166762-sphere-arena.json](./166762-sphere-arena.json) |
 | Sphere Game | 377582 | [377582-sphere-game.json](./377582-sphere-game.json) |
@@ -5868,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steelrising: Bastille Edition | 205569 | [205569-steelrising-bastille-edition.json](./205569-steelrising-bastille-edition.json) |
 | Steep Slopes | 158167 | [158167-steep-slopes.json](./158167-steep-slopes.json) |
 | Steeplejack | 383968 | [383968-steeplejack.json](./383968-steeplejack.json) |
+| Stefanos Sizzilin Pizza Pie | 103481 | [103481-stefanos-sizzilin-pizza-pie.json](./103481-stefanos-sizzilin-pizza-pie.json) |
 | Steinkraft | 320162 | [320162-steinkraft.json](./320162-steinkraft.json) |
 | Steins;Gate Double Pack | 141877 | [141877-steins-gate-double-pack.json](./141877-steins-gate-double-pack.json) |
 | Steins;Gate: El Psy Kongroo Edition | 89914 | [89914-steins-gate-el-psy-kongroo-edition.json](./89914-steins-gate-el-psy-kongroo-edition.json) |
@@ -6543,6 +6548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Gridmaster | 20538 | [20538-sudoku-gridmaster.json](./20538-sudoku-gridmaster.json) |
 | Sudoku HD | 97911 | [97911-sudoku-hd.json](./97911-sudoku-hd.json) |
 | Sudoku Jigsaw | 103418 | [103418-sudoku-jigsaw.json](./103418-sudoku-jigsaw.json) |
+| Sudoku Killer | 103420 | [103420-sudoku-killer.json](./103420-sudoku-killer.json) |
 | Sudoku Man - Number Puzzle | 102769 | [102769-sudoku-man-number-puzzle.json](./102769-sudoku-man-number-puzzle.json) |
 | Sudoku Mania | 47950 | [47950-sudoku-mania.json](./47950-sudoku-mania.json) |
 | Sudoku Mania! | 208362 | [208362-sudoku-mania.json](./208362-sudoku-mania.json) |
@@ -7048,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Waterfalls Puzzles | 155600 | [155600-super-jigsaw-puzzle-generations-waterfalls-puzzles.json](./155600-super-jigsaw-puzzle-generations-waterfalls-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Winter 2023 | 273631 | [273631-super-jigsaw-puzzle-generations-winter-2023.json](./273631-super-jigsaw-puzzle-generations-winter-2023.json) |
 | Super Jigsaw Puzzle: Generations - Winter Puzzles | 155611 | [155611-super-jigsaw-puzzle-generations-winter-puzzles.json](./155611-super-jigsaw-puzzle-generations-winter-puzzles.json) |
+| Super Jigsaw Puzzle: Monuments | 103792 | [103792-super-jigsaw-puzzle-monuments.json](./103792-super-jigsaw-puzzle-monuments.json) |
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
 | Super Kart Racer | 267954 | [267954-super-kart-racer.json](./267954-super-kart-racer.json) |
 | Super Karts | 50614 | [50614-super-karts.json](./50614-super-karts.json) |
