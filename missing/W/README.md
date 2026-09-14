@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Density | 76530 | [76530-water-density.json](./76530-water-density.json) |
 | Water Drift | 153381 | [153381-water-drift.json](./153381-water-drift.json) |
 | Water Me & You | 260169 | [260169-water-me-and-you.json](./260169-water-me-and-you.json) |
+| Water Park: Fun Water Slides | 96974 | [96974-water-park-fun-water-slides.json](./96974-water-park-fun-water-slides.json) |
 | Water Pipes | 104092 | [104092-water-pipes.json](./104092-water-pipes.json) |
 | Water Search | 224753 | [224753-water-search.json](./224753-water-search.json) |
 | Water Sort Jigsaw: Color Sort | 208943 | [208943-water-sort-jigsaw-color-sort.json](./208943-water-sort-jigsaw-color-sort.json) |
@@ -1531,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy: Asha in Monster World Limited Edition | 147920 | [147920-wonder-boy-asha-in-monster-world-limited-edition.json](./147920-wonder-boy-asha-in-monster-world-limited-edition.json) |
 | Wonder Boy: Asha in Monster World Mega Collector's Edition | 147910 | [147910-wonder-boy-asha-in-monster-world-mega-collectors-edition.json](./147910-wonder-boy-asha-in-monster-world-mega-collectors-edition.json) |
 | Wonder Defense: Chapter Earth | 166730 | [166730-wonder-defense-chapter-earth.json](./166730-wonder-defense-chapter-earth.json) |
+| Wonder Knights VIP : Retro Shooter RPG | 97209 | [97209-wonder-knights-vip-retro-shooter-rpg.json](./97209-wonder-knights-vip-retro-shooter-rpg.json) |
 | Wonder Land | 216483 | [216483-wonder-land.json](./216483-wonder-land.json) |
 | Wonder Loop Village | 312548 | [312548-wonder-loop-village.json](./312548-wonder-loop-village.json) |
 | Wonder Mu: Mu to Unmei no Monster | 220323 | [220323-wonder-mu-mu-to-unmei-no-monster.json](./220323-wonder-mu-mu-to-unmei-no-monster.json) |
