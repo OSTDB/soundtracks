@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DanceStar: Party Hits | 44595 | [44595-dancestar-party-hits.json](./44595-dancestar-party-hits.json) |
 | Danchi de Hanafuda | 64347 | [64347-danchi-de-hanafuda.json](./64347-danchi-de-hanafuda.json) |
 | Danchizuma no Yuuwaku | 58773 | [58773-danchizuma-no-yuuwaku.json](./58773-danchizuma-no-yuuwaku.json) |
+| Dancing Ball Saga | 96984 | [96984-dancing-ball-saga.json](./96984-dancing-ball-saga.json) |
 | Dancing Balls-Rolling Ahead Go | 86776 | [86776-dancing-balls-rolling-ahead-go.json](./86776-dancing-balls-rolling-ahead-go.json) |
 | Dancing Ballz: Magic Dance Line Tiles Game | 105993 | [105993-dancing-ballz-magic-dance-line-tiles-game.json](./105993-dancing-ballz-magic-dance-line-tiles-game.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
@@ -1322,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Crystals | 20402 | [20402-demons-crystals.json](./20402-demons-crystals.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
 | Demon's Revenge | 13587 | [13587-demons-revenge.json](./13587-demons-revenge.json) |
+| Demon's Rise - Lords of Chaos | 97899 | [97899-demons-rise-lords-of-chaos.json](./97899-demons-rise-lords-of-chaos.json) |
 | Demon's Rise 2: Lords of Chaos | 104107 | [104107-demons-rise-2-lords-of-chaos.json](./104107-demons-rise-2-lords-of-chaos.json) |
 | Demon's Souls | 134606 | [134606-demons-souls.json](./134606-demons-souls.json) |
 | Demon's Souls: Black Phantom Edition | 23363 | [23363-demons-souls-black-phantom-edition.json](./23363-demons-souls-black-phantom-edition.json) |
