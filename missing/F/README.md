@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
 | First Time In Paris: Collector's Edition | 209143 | [209143-first-time-in-paris-collectors-edition.json](./209143-first-time-in-paris-collectors-edition.json) |
 | First Time in Rome | 207323 | [207323-first-time-in-rome.json](./207323-first-time-in-rome.json) |
+| First Time Mom | 392297 | [392297-first-time-mom.json](./392297-first-time-mom.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
 | First, Breathe | 124751 | [124751-first-breathe.json](./124751-first-breathe.json) |
 | FirstPlate | 400994 | [400994-firstplate.json](./400994-firstplate.json) |
@@ -1864,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
 | Floraison | 415869 | [415869-floraison.json](./415869-floraison.json) |
 | FloraMancer: Seeds and Spells | 235982 | [235982-floramancer-seeds-and-spells.json](./235982-floramancer-seeds-and-spells.json) |
+| Florani Match | 392295 | [392295-florani-match.json](./392295-florani-match.json) |
 | Florarium | 258454 | [258454-florarium.json](./258454-florarium.json) |
 | Floret Bond | 178035 | [178035-floret-bond.json](./178035-floret-bond.json) |
 | Florida Man: Hurricane Hijinks | 153377 | [153377-florida-man-hurricane-hijinks.json](./153377-florida-man-hurricane-hijinks.json) |
@@ -2153,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Rent: Haunted House | 83600 | [83600-for-rent-haunted-house.json](./83600-for-rent-haunted-house.json) |
 | For Runner Night | 195720 | [195720-for-runner-night.json](./195720-for-runner-night.json) |
 | For Sale | 328269 | [328269-for-sale.json](./328269-for-sale.json) |
+| For Stella | 392276 | [392276-for-stella.json](./392276-for-stella.json) |
 | For the Fish in the Bottle | 402919 | [402919-for-the-fish-in-the-bottle.json](./402919-for-the-fish-in-the-bottle.json) |
 | For The Freedom! | 240770 | [240770-for-the-freedom.json](./240770-for-the-freedom.json) |
 | For the Glory of Wilson | 401680 | [401680-for-the-glory-of-wilson.json](./401680-for-the-glory-of-wilson.json) |
