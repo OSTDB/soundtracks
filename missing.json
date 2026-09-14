@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T18:49:11.235Z",
-  "total_missing": 70758,
+  "generated_at": "2026-09-14T18:51:31.231Z",
+  "total_missing": 70757,
   "games": [
     {
       "igdb_id": 306086,
@@ -4601,11 +4601,6 @@
       "igdb_id": 306980,
       "game_name": "Aero Fighters",
       "file": "missing/A/306980-aero-fighters.json"
-    },
-    {
-      "igdb_id": 21017,
-      "game_name": "Aero Porter",
-      "file": "missing/A/21017-aero-porter.json"
     },
     {
       "igdb_id": 79884,
