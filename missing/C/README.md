@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards and Castles | 35497 | [35497-cards-and-castles.json](./35497-cards-and-castles.json) |
 | Cards and Castles 2 | 178080 | [178080-cards-and-castles-2.json](./178080-cards-and-castles-2.json) |
 | Cards and Towers | 299139 | [299139-cards-and-towers.json](./299139-cards-and-towers.json) |
+| Cards of Action | 400971 | [400971-cards-of-action.json](./400971-cards-of-action.json) |
 | Cards of Destiny | 264064 | [264064-cards-of-destiny.json](./264064-cards-of-destiny.json) |
 | Cards of Eternity: The Wheel of Time | 321147 | [321147-cards-of-eternity-the-wheel-of-time.json](./321147-cards-of-eternity-the-wheel-of-time.json) |
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
@@ -556,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmageddon: Max Damage | 18075 | [18075-carmageddon-max-damage.json](./18075-carmageddon-max-damage.json) |
 | Carmageddon: Splat Pack | 2403 | [2403-carmageddon-splat-pack.json](./2403-carmageddon-splat-pack.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
+| Carmen Sandiego: 40th Anniversary Edition | 400999 | [400999-carmen-sandiego-40th-anniversary-edition.json](./400999-carmen-sandiego-40th-anniversary-edition.json) |
 | Carmen Sandiego: Junior Detective Edition | 73783 | [73783-carmen-sandiego-junior-detective-edition.json](./73783-carmen-sandiego-junior-detective-edition.json) |
 | Carmen Sandiego: To Steal or Not to Steal | 256843 | [256843-carmen-sandiego-to-steal-or-not-to-steal.json](./256843-carmen-sandiego-to-steal-or-not-to-steal.json) |
 | Carmen Sandiego's Great Chase Through Time | 19426 | [19426-carmen-sandiegos-great-chase-through-time.json](./19426-carmen-sandiegos-great-chase-through-time.json) |
@@ -1425,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Mix | 135240 | [135240-chess-mix.json](./135240-chess-mix.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
 | Chess of Fortune | 357216 | [357216-chess-of-fortune.json](./357216-chess-of-fortune.json) |
+| Chess Peace | 401021 | [401021-chess-peace.json](./401021-chess-peace.json) |
 | Chess Pills | 203931 | [203931-chess-pills.json](./203931-chess-pills.json) |
 | Chess Plus+ | 86901 | [86901-chess-plus.json](./86901-chess-plus.json) |
 | Chess Prime 3D Pro | 86834 | [86834-chess-prime-3d-pro.json](./86834-chess-prime-3d-pro.json) |
