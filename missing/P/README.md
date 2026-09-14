@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Annovation: Unreal Edition | 243952 | [243952-parkour-annovation-unreal-edition.json](./243952-parkour-annovation-unreal-edition.json) |
 | Parkour Arcade | 104623 | [104623-parkour-arcade.json](./104623-parkour-arcade.json) |
 | Parkour Assassin: Sprint Run 2 | 391037 | [391037-parkour-assassin-sprint-run-2.json](./391037-parkour-assassin-sprint-run-2.json) |
+| Parkour Flight | 86876 | [86876-parkour-flight.json](./86876-parkour-flight.json) |
 | Parkour Game 2 | 270957 | [270957-parkour-game-2.json](./270957-parkour-game-2.json) |
 | Parkour Master | 145024 | [145024-parkour-master.json](./145024-parkour-master.json) |
 | Parkour Obby: Ice Escape | 415064 | [415064-parkour-obby-ice-escape.json](./415064-parkour-obby-ice-escape.json) |
@@ -1081,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pettan Pyuu | 151160 | [151160-pettan-pyuu.json](./151160-pettan-pyuu.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | PetWings | 9121 | [9121-petwings.json](./9121-petwings.json) |
+| PetWorld 3D: Premium | 86845 | [86845-petworld-3d-premium.json](./86845-petworld-3d-premium.json) |
 | PetWorld: Animal Shelter | 97334 | [97334-petworld-animal-shelter.json](./97334-petworld-animal-shelter.json) |
 | Petz Fantasy: Sunshine Magic | 47962 | [47962-petz-fantasy-sunshine-magic.json](./47962-petz-fantasy-sunshine-magic.json) |
 | Petz: Catz 5 | 23770 | [23770-petz-catz-5.json](./23770-petz-catz-5.json) |
@@ -2477,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooking: Billiards City | 255757 | [255757-pooking-billiards-city.json](./255757-pooking-billiards-city.json) |
 | Pool | 352172 | [352172-pool.json](./352172-pool.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
+| Pool 3D | 86900 | [86900-pool-3d.json](./86900-pool-3d.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
 | Pool Break 3D Billiards 8 Ball, 9 Ball, Snooker | 100147 | [100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json](./100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json) |
 | Pool Fever: Superior Edition | 396925 | [396925-pool-fever-superior-edition.json](./396925-pool-fever-superior-edition.json) |
@@ -2640,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
 | Potion Commotion | 130128 | [130128-potion-commotion.json](./130128-potion-commotion.json) |
 | Potion Craft | 142941 | [142941-potion-craft.json](./142941-potion-craft.json) |
+| Potion Explosion | 86850 | [86850-potion-explosion.json](./86850-potion-explosion.json) |
 | Potion Notions | 176993 | [176993-potion-notions.json](./176993-potion-notions.json) |
 | Potion Permit | 155706 | [155706-potion-permit.json](./155706-potion-permit.json) |
 | Potion Permit: Halloween Bundle | 272286 | [272286-potion-permit-halloween-bundle.json](./272286-potion-permit-halloween-bundle.json) |
@@ -3507,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pull'em All! | 208964 | [208964-pullem-all.json](./208964-pullem-all.json) |
 | Pullfrog | 152277 | [152277-pullfrog.json](./152277-pullfrog.json) |
 | Pulling Pin: Pull the Pin | 231910 | [231910-pulling-pin-pull-the-pin.json](./231910-pulling-pin-pull-the-pin.json) |
+| Pulling USA 2 | 86883 | [86883-pulling-usa-2.json](./86883-pulling-usa-2.json) |
 | Pulp Race: Daft Enigma Fighter | 382780 | [382780-pulp-race-daft-enigma-fighter.json](./382780-pulp-race-daft-enigma-fighter.json) |
 | Pulsar | 167797 | [167797-pulsar.json](./167797-pulsar.json) |
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
