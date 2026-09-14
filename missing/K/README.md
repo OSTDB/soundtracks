@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krampus Quest | 76674 | [76674-krampus-quest.json](./76674-krampus-quest.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
 | Kratoria | 187540 | [187540-kratoria.json](./187540-kratoria.json) |
+| Krautscape | 16903 | [16903-krautscape.json](./16903-krautscape.json) |
 | Krazy Ivan | 20604 | [20604-krazy-ivan.json](./20604-krazy-ivan.json) |
 | Krazy Kart! | 310968 | [310968-krazy-kart.json](./310968-krazy-kart.json) |
 | Kredolis | 151143 | [151143-kredolis.json](./151143-kredolis.json) |
@@ -1241,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krzyżacy: The Knights of the Cross - Shining Stars | 289320 | [289320-krzyzacy-the-knights-of-the-cross-shining-stars.json](./289320-krzyzacy-the-knights-of-the-cross-shining-stars.json) |
 | KSame | 64431 | [64431-ksame.json](./64431-ksame.json) |
 | Kselebox | 169978 | [169978-kselebox.json](./169978-kselebox.json) |
+| Ku: Shroud of the Morrigan | 16936 | [16936-ku-shroud-of-the-morrigan.json](./16936-ku-shroud-of-the-morrigan.json) |
 | Kuàilè Xiǎojī | 130953 | [130953-kuaile-xiaoji.json](./130953-kuaile-xiaoji.json) |
 | Kubble Star | 129218 | [129218-kubble-star.json](./129218-kubble-star.json) |
 | Kubic | 283143 | [283143-kubic.json](./283143-kubic.json) |
