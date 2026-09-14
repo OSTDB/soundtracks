@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T08:19:15.903Z",
-  "total_missing": 69086,
+  "generated_at": "2026-09-14T08:21:39.482Z",
+  "total_missing": 69085,
   "games": [
     {
       "igdb_id": 306086,
@@ -4276,11 +4276,6 @@
       "igdb_id": 265665,
       "game_name": "Adventure Kitty: Drill Buster",
       "file": "missing/A/265665-adventure-kitty-drill-buster.json"
-    },
-    {
-      "igdb_id": 246958,
-      "game_name": "Adventure Mosaics: Autumn Journey",
-      "file": "missing/A/246958-adventure-mosaics-autumn-journey.json"
     },
     {
       "igdb_id": 417517,
