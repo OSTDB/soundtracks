@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
 | Underdone | 47999 | [47999-underdone.json](./47999-underdone.json) |
 | UnderDungeon: Deluxe Edition | 250367 | [250367-underdungeon-deluxe-edition.json](./250367-underdungeon-deluxe-edition.json) |
+| Underfang | 399713 | [399713-underfang.json](./399713-underfang.json) |
 | Underfell Neutral Run | 335065 | [335065-underfell-neutral-run.json](./335065-underfell-neutral-run.json) |
 | Undergod | 276153 | [276153-undergod.json](./276153-undergod.json) |
 | Underground | 195709 | [195709-underground.json](./195709-underground.json) |
