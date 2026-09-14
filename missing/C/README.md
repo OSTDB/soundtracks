@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Girl | 382784 | [382784-candy-girl.json](./382784-candy-girl.json) |
 | Candy Kingdom | 31395 | [31395-candy-kingdom.json](./31395-candy-kingdom.json) |
 | Candy Land / Chutes & Ladders / Original Memory Game | 91423 | [91423-candy-land-chutes-and-ladders-original-memory-game.json](./91423-candy-land-chutes-and-ladders-original-memory-game.json) |
+| Candy Land: Sugary Sprint | 384054 | [384054-candy-land-sugary-sprint.json](./384054-candy-land-sugary-sprint.json) |
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
 | Candy Mandy | 114956 | [114956-candy-mandy.json](./114956-candy-mandy.json) |
 | Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
@@ -949,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Category Challenge | 246955 | [246955-category-challenge.json](./246955-category-challenge.json) |
 | Catena | 342033 | [342033-catena.json](./342033-catena.json) |
 | Cateran | 96767 | [96767-cateran.json](./96767-cateran.json) |
+| Caterpillar King | 384085 | [384085-caterpillar-king.json](./384085-caterpillar-king.json) |
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
 | Catfighter, In the Lands of Sinners | 374059 | [374059-catfighter-in-the-lands-of-sinners.json](./374059-catfighter-in-the-lands-of-sinners.json) |
 | Catfishing Cuties | 181854 | [181854-catfishing-cuties.json](./181854-catfishing-cuties.json) |
@@ -1735,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro Q HG 3 | 196257 | [196257-choro-q-hg-3.json](./196257-choro-q-hg-3.json) |
 | Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
 | Chorus | 133305 | [133305-chorus.json](./133305-chorus.json) |
+| Chosen | 384064 | [384064-chosen.json](./384064-chosen.json) |
 | Chosen 2 | 30068 | [30068-chosen-2.json](./30068-chosen-2.json) |
 | Chosen Angels | 255998 | [255998-chosen-angels.json](./255998-chosen-angels.json) |
 | Chosen Anyway: Card Game | 404958 | [404958-chosen-anyway-card-game.json](./404958-chosen-anyway-card-game.json) |
@@ -1808,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Story | 378202 | [378202-christmas-story.json](./378202-christmas-story.json) |
 | Christmas Time 2019 | 114326 | [114326-christmas-time-2019.json](./114326-christmas-time-2019.json) |
 | Christmas with Freddy's | 239286 | [239286-christmas-with-freddys.json](./239286-christmas-with-freddys.json) |
+| Christmas With My Family: Jigsaw Puzzle | 384063 | [384063-christmas-with-my-family-jigsaw-puzzle.json](./384063-christmas-with-my-family-jigsaw-puzzle.json) |
 | Christmas with Weezer | 70426 | [70426-christmas-with-weezer.json](./70426-christmas-with-weezer.json) |
 | Christmas Wonderland | 79873 | [79873-christmas-wonderland.json](./79873-christmas-wonderland.json) |
 | Christmas Wonderland 10 | 417589 | [417589-christmas-wonderland-10.json](./417589-christmas-wonderland-10.json) |
@@ -2719,6 +2723,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Retro Pack | 194648 | [194648-coloring-pixels-retro-pack.json](./194648-coloring-pixels-retro-pack.json) |
 | Coloring Pixels: Vistas Pack 3 | 305513 | [305513-coloring-pixels-vistas-pack-3.json](./305513-coloring-pixels-vistas-pack-3.json) |
 | Coloring Pixels: Zodiac Pack | 351625 | [351625-coloring-pixels-zodiac-pack.json](./351625-coloring-pixels-zodiac-pack.json) |
+| Coloring Voxels: Advent Pack | 384090 | [384090-coloring-voxels-advent-pack.json](./384090-coloring-voxels-advent-pack.json) |
+| Coloring Voxels: Computer Pack | 384093 | [384093-coloring-voxels-computer-pack.json](./384093-coloring-voxels-computer-pack.json) |
+| Coloring Voxels: Crazy Golf Pack | 384089 | [384089-coloring-voxels-crazy-golf-pack.json](./384089-coloring-voxels-crazy-golf-pack.json) |
+| Coloring Voxels: Halloween Pack | 384092 | [384092-coloring-voxels-halloween-pack.json](./384092-coloring-voxels-halloween-pack.json) |
+| Coloring Voxels: Mars Colony Pack | 384091 | [384091-coloring-voxels-mars-colony-pack.json](./384091-coloring-voxels-mars-colony-pack.json) |
 | Coloring Voxels: Museum Pack | 406837 | [406837-coloring-voxels-museum-pack.json](./406837-coloring-voxels-museum-pack.json) |
 | Coloring Voxels: Theme Park Pack | 406827 | [406827-coloring-voxels-theme-park-pack.json](./406827-coloring-voxels-theme-park-pack.json) |
 | Coloring Voxels: Time Travel Pack | 406841 | [406841-coloring-voxels-time-travel-pack.json](./406841-coloring-voxels-time-travel-pack.json) |
@@ -2745,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossorama | 176985 | [176985-colossorama.json](./176985-colossorama.json) |
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
 | Colour Clash | 94228 | [94228-colour-clash.json](./94228-colour-clash.json) |
+| Colour My Fate | 384053 | [384053-colour-my-fate.json](./384053-colour-my-fate.json) |
 | Colourise | 29897 | [29897-colourise.json](./29897-colourise.json) |
 | ColourS | 229381 | [229381-colours.json](./229381-colours.json) |
 | Colours and Symbols | 173240 | [173240-colours-and-symbols.json](./173240-colours-and-symbols.json) |
@@ -3208,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Devourer | 235764 | [235764-core-devourer.json](./235764-core-devourer.json) |
 | Core Hustlers | 369034 | [369034-core-hustlers.json](./369034-core-hustlers.json) |
 | Core Masters | 62771 | [62771-core-masters.json](./62771-core-masters.json) |
+| Core Miners | 384084 | [384084-core-miners.json](./384084-core-miners.json) |
 | Core of Darkness | 117681 | [117681-core-of-darkness.json](./117681-core-of-darkness.json) |
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
 | Corepunk | 127513 | [127513-corepunk.json](./127513-corepunk.json) |
