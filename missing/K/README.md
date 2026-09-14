@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KlashBall | 67941 | [67941-klashball.json](./67941-klashball.json) |
 | Klaus | 15488 | [15488-klaus.json](./15488-klaus.json) |
 | Klaus Lee: Thunderballs | 193201 | [193201-klaus-lee-thunderballs.json](./193201-klaus-lee-thunderballs.json) |
+| Klaws | 382877 | [382877-klaws.json](./382877-klaws.json) |
 | Kleopatra | 213968 | [213968-kleopatra.json](./213968-kleopatra.json) |
 | Klepto | 297476 | [297476-klepto.json](./297476-klepto.json) |
 | Klepto Planet Attack | 176473 | [176473-klepto-planet-attack.json](./176473-klepto-planet-attack.json) |
