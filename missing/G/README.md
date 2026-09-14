@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
 | Get Me Outta Here: Deluxe/Remastered Edition | 126574 | [126574-get-me-outta-here-deluxe-remastered-edition.json](./126574-get-me-outta-here-deluxe-remastered-edition.json) |
 | Get Money | 57049 | [57049-get-money.json](./57049-get-money.json) |
+| Get on Slime Level | 393614 | [393614-get-on-slime-level.json](./393614-get-on-slime-level.json) |
 | Get Order! | 274465 | [274465-get-order.json](./274465-get-order.json) |
 | Get Out | 287099 | [287099-get-out.json](./287099-get-out.json) |
 | Get Out | 395537 | [395537-get-out.json](./395537-get-out.json) |
@@ -2013,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
 | Grim Nights | 110185 | [110185-grim-nights.json](./110185-grim-nights.json) |
+| Grim Path | 393600 | [393600-grim-path.json](./393600-grim-path.json) |
 | Grim Quest | 195269 | [195269-grim-quest.json](./195269-grim-quest.json) |
 | Grim Reaper RPG | 134617 | [134617-grim-reaper-rpg.json](./134617-grim-reaper-rpg.json) |
 | Grim Repair | 176986 | [176986-grim-repair.json](./176986-grim-repair.json) |
