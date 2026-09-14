@@ -1673,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Antarctica | 213605 | [213605-nova-antarctica.json](./213605-nova-antarctica.json) |
 | Nova Assault | 389402 | [389402-nova-assault.json](./389402-nova-assault.json) |
 | Nova Battles | 205584 | [205584-nova-battles.json](./205584-nova-battles.json) |
+| Nova Chasers | 397094 | [397094-nova-chasers.json](./397094-nova-chasers.json) |
 | Nova City Original | 230270 | [230270-nova-city-original.json](./230270-nova-city-original.json) |
 | Nova Dash | 256530 | [256530-nova-dash.json](./256530-nova-dash.json) |
 | Nova Empire | 98467 | [98467-nova-empire.json](./98467-nova-empire.json) |
