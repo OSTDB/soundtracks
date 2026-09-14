@@ -1334,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Road Rumble | 84843 | [84843-retro-road-rumble.json](./84843-retro-road-rumble.json) |
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
 | Retro Shooter Rampage Bundle | 154489 | [154489-retro-shooter-rampage-bundle.json](./154489-retro-shooter-rampage-bundle.json) |
+| Retro Slam Tennis | 410360 | [410360-retro-slam-tennis.json](./410360-retro-slam-tennis.json) |
 | Retro Snake | 104012 | [104012-retro-snake.json](./104012-retro-snake.json) |
 | Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
 | Retro Sonic | 127903 | [127903-retro-sonic.json](./127903-retro-sonic.json) |
@@ -2074,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockaroids | 63808 | [63808-rockaroids.json](./63808-rockaroids.json) |
 | Rocket Arena: Mythic Edition | 136456 | [136456-rocket-arena-mythic-edition.json](./136456-rocket-arena-mythic-edition.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
+| Rocket Buddies | 410356 | [410356-rocket-buddies.json](./410356-rocket-buddies.json) |
 | Rocket Bunnies | 208387 | [208387-rocket-bunnies.json](./208387-rocket-bunnies.json) |
 | Rocket Cars | 265427 | [265427-rocket-cars.json](./265427-rocket-cars.json) |
 | Rocket Chameleon | 58750 | [58750-rocket-chameleon.json](./58750-rocket-chameleon.json) |
