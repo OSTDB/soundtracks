@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race to Kyiv | 392804 | [392804-race-to-kyiv.json](./392804-race-to-kyiv.json) |
 | Race To The Sea | 372479 | [372479-race-to-the-sea.json](./372479-race-to-the-sea.json) |
 | Race: Rocket Arena Car Extreme | 226724 | [226724-race-rocket-arena-car-extreme.json](./226724-race-rocket-arena-car-extreme.json) |
+| Race.a.bit | 36114 | [36114-race-a-bit.json](./36114-race-a-bit.json) |
 | Racecraft | 18188 | [18188-racecraft.json](./18188-racecraft.json) |
 | Racer | 79859 | [79859-racer.json](./79859-racer.json) |
 | Racerloop | 259817 | [259817-racerloop.json](./259817-racerloop.json) |
@@ -223,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders of the Broken Planet | 19011 | [19011-raiders-of-the-broken-planet.json](./19011-raiders-of-the-broken-planet.json) |
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
 | Raiders5 | 40166 | [40166-raiders5.json](./40166-raiders5.json) |
+| RaidersSphere4th | 35981 | [35981-raiderssphere4th.json](./35981-raiderssphere4th.json) |
 | Raidol: Injoku ni Ochita Seiningyou | 108970 | [108970-raidol-injoku-ni-ochita-seiningyou.json](./108970-raidol-injoku-ni-ochita-seiningyou.json) |
 | Raids of Nohosphere | 116395 | [116395-raids-of-nohosphere.json](./116395-raids-of-nohosphere.json) |
 | Rail Estate | 387367 | [387367-rail-estate.json](./387367-rail-estate.json) |
@@ -942,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redstream | 392134 | [392134-redstream.json](./392134-redstream.json) |
 | Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
 | ReDungeon | 38943 | [38943-redungeon.json](./38943-redungeon.json) |
+| Redux: Dark Matters | 36093 | [36093-redux-dark-matters.json](./36093-redux-dark-matters.json) |
 | Redviil | 114970 | [114970-redviil.json](./114970-redviil.json) |
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
 | Reed 2 | 134012 | [134012-reed-2.json](./134012-reed-2.json) |
@@ -1198,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Raiders | 25777 | [25777-rescue-raiders.json](./25777-rescue-raiders.json) |
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
+| Rescue Team | 36019 | [36019-rescue-team.json](./36019-rescue-team.json) |
 | Rescue Team: Attack of the Atom - Collector's Edition | 337626 | [337626-rescue-team-attack-of-the-atom-collectors-edition.json](./337626-rescue-team-attack-of-the-atom-collectors-edition.json) |
 | Rescue Team: Evil Genius | 122409 | [122409-rescue-team-evil-genius.json](./122409-rescue-team-evil-genius.json) |
 | Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
@@ -1648,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
 | Rift World | 148550 | [148550-rift-world.json](./148550-rift-world.json) |
 | Rift: Nightmare Tide | 19322 | [19322-rift-nightmare-tide.json](./19322-rift-nightmare-tide.json) |
+| Rift's Cave | 36079 | [36079-rifts-cave.json](./36079-rifts-cave.json) |
 | RiftStar Raiders | 27103 | [27103-riftstar-raiders.json](./27103-riftstar-raiders.json) |
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
@@ -2014,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roch Series | 270664 | [270664-roch-series.json](./270664-roch-series.json) |
 | Rocha's Golem | 156627 | [156627-rochas-golem.json](./156627-rochas-golem.json) |
 | Rochard | 5969 | [5969-rochard.json](./5969-rochard.json) |
+| Roche Fusion | 36122 | [36122-roche-fusion.json](./36122-roche-fusion.json) |
 | Rock 'N Roll | 90647 | [90647-rock-n-roll.json](./90647-rock-n-roll.json) |
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
 | Rock Band | 2685 | [2685-rock-band.json](./2685-rock-band.json) |
