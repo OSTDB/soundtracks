@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
 | Cat Tales: Premium Edition | 241396 | [241396-cat-tales-premium-edition.json](./241396-cat-tales-premium-edition.json) |
 | Cat Train | 177493 | [177493-cat-train.json](./177493-cat-train.json) |
+| Cat Tsunami | 388233 | [388233-cat-tsunami.json](./388233-cat-tsunami.json) |
 | Cat vs. Corgis | 54448 | [54448-cat-vs-corgis.json](./54448-cat-vs-corgis.json) |
 | Cat Walker Simulator | 176439 | [176439-cat-walker-simulator.json](./176439-cat-walker-simulator.json) |
 | Cat Warrior | 281983 | [281983-cat-warrior.json](./281983-cat-warrior.json) |
@@ -1343,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
 | Chase H.Q.: Secret Police | 49898 | [49898-chase-h-q-secret-police.json](./49898-chase-h-q-secret-police.json) |
+| Chase St | 388251 | [388251-chase-st.json](./388251-chase-st.json) |
 | Chase Survivors | 244512 | [244512-chase-survivors.json](./244512-chase-survivors.json) |
 | Chase the Sun | 221981 | [221981-chase-the-sun.json](./221981-chase-the-sun.json) |
 | Chase: Animatronics | 232697 | [232697-chase-animatronics.json](./232697-chase-animatronics.json) |
@@ -1645,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chishiki Runner | 114328 | [114328-chishiki-runner.json](./114328-chishiki-runner.json) |
 | Chitei Kekkadou: The Blood Flower Dungeon | 137616 | [137616-chitei-kekkadou-the-blood-flower-dungeon.json](./137616-chitei-kekkadou-the-blood-flower-dungeon.json) |
 | Chitei Tairiku Orudoora | 41379 | [41379-chitei-tairiku-orudoora.json](./41379-chitei-tairiku-orudoora.json) |
+| ChivalBee and the Mycelium Menace | 388228 | [388228-chivalbee-and-the-mycelium-menace.json](./388228-chivalbee-and-the-mycelium-menace.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
 | Chiyo | 266815 | [266815-chiyo.json](./266815-chiyo.json) |
 | Chkn | 34021 | [34021-chkn.json](./34021-chkn.json) |
@@ -2049,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Cards | 171555 | [171555-city-of-cards.json](./171555-city-of-cards.json) |
 | City of Chains | 34177 | [34177-city-of-chains.json](./34177-city-of-chains.json) |
 | City of Corals | 257970 | [257970-city-of-corals.json](./257970-city-of-corals.json) |
+| City of Despair: Shadows Over Tokyo | 388252 | [388252-city-of-despair-shadows-over-tokyo.json](./388252-city-of-despair-shadows-over-tokyo.json) |
 | City of Dusk | 246951 | [246951-city-of-dusk.json](./246951-city-of-dusk.json) |
 | City of Fools | 35520 | [35520-city-of-fools.json](./35520-city-of-fools.json) |
 | City of Gangsters: Deluxe Edition | 173783 | [173783-city-of-gangsters-deluxe-edition.json](./173783-city-of-gangsters-deluxe-edition.json) |
