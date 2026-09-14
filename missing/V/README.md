@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Blade VR | 28891 | [28891-valkyrie-blade-vr.json](./28891-valkyrie-blade-vr.json) |
 | Valkyrie Champions | 215675 | [215675-valkyrie-champions.json](./215675-valkyrie-champions.json) |
 | Valkyrie Drive: Bhikkhuni - Liberator's Edition | 42678 | [42678-valkyrie-drive-bhikkhuni-liberators-edition.json](./42678-valkyrie-drive-bhikkhuni-liberators-edition.json) |
+| Valkyrie Drive: Bhikkhuni - Nyuu Nyuu DX Pack | 380519 | [380519-valkyrie-drive-bhikkhuni-nyuu-nyuu-dx-pack.json](./380519-valkyrie-drive-bhikkhuni-nyuu-nyuu-dx-pack.json) |
 | Valkyrie Galaxy | 120340 | [120340-valkyrie-galaxy.json](./120340-valkyrie-galaxy.json) |
 | Valkyrie no Bouken: Toki no Kagi Densetsu | 48592 | [48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json](./48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json) |
 | Valkyrie Profile 2: Silmeria | 11793 | [11793-valkyrie-profile-2-silmeria.json](./11793-valkyrie-profile-2-silmeria.json) |
@@ -884,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Girl | 188042 | [188042-voxel-girl.json](./188042-voxel-girl.json) |
 | Voxel Horizon | 188631 | [188631-voxel-horizon.json](./188631-voxel-horizon.json) |
 | Voxel Pirates | 147474 | [147474-voxel-pirates.json](./147474-voxel-pirates.json) |
+| Voxel Playground | 380575 | [380575-voxel-playground.json](./380575-voxel-playground.json) |
 | Voxel Scavenger | 124240 | [124240-voxel-scavenger.json](./124240-voxel-scavenger.json) |
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
 | Voxel World | 312559 | [312559-voxel-world.json](./312559-voxel-world.json) |
