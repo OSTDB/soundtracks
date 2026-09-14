@@ -930,6 +930,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in the World Is Carmen Sandiego? | 251 | [251-where-in-the-world-is-carmen-sandiego.json](./251-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World is Carmen Sandiego? Enhanced Edition | 143640 | [143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json](./143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json) |
 | Where in Time is Carmen Sandiego? | 4376 | [4376-where-in-time-is-carmen-sandiego.json](./4376-where-in-time-is-carmen-sandiego.json) |
+| Where is 2009? | 384055 | [384055-where-is-2009.json](./384055-where-is-2009.json) |
+| Where is 2011? | 384066 | [384066-where-is-2011.json](./384066-where-is-2011.json) |
+| Where is 2012? | 384073 | [384073-where-is-2012.json](./384073-where-is-2012.json) |
+| Where is 2013? | 384074 | [384074-where-is-2013.json](./384074-where-is-2013.json) |
+| Where is 2014? | 384077 | [384077-where-is-2014.json](./384077-where-is-2014.json) |
+| Where is 2016? | 384116 | [384116-where-is-2016.json](./384116-where-is-2016.json) |
 | Where is a Toilet!? | 227878 | [227878-where-is-a-toilet.json](./227878-where-is-a-toilet.json) |
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
 | Where Is Here: New Home | 207309 | [207309-where-is-here-new-home.json](./207309-where-is-here-new-home.json) |
@@ -1447,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
 | Witching Well | 304010 | [304010-witching-well.json](./304010-witching-well.json) |
+| Witchling Grove | 384088 | [384088-witchling-grove.json](./384088-witchling-grove.json) |
 | Witchmore | 241653 | [241653-witchmore.json](./241653-witchmore.json) |
 | Witchpop | 390142 | [390142-witchpop.json](./390142-witchpop.json) |
 | WitchRider | 312543 | [312543-witchrider.json](./312543-witchrider.json) |
@@ -2098,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writer: Chapter 1 | 327616 | [327616-writer-chapter-1.json](./327616-writer-chapter-1.json) |
 | wrldDivision | 181379 | [181379-wrlddivision.json](./181379-wrlddivision.json) |
 | Wrong Floor | 177032 | [177032-wrong-floor.json](./177032-wrong-floor.json) |
+| Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
 | Wroth | 271744 | [271744-wroth.json](./271744-wroth.json) |
 | WSC Real 08: World Snooker Championship | 5292 | [5292-wsc-real-08-world-snooker-championship.json](./5292-wsc-real-08-world-snooker-championship.json) |
 | WSOP | 93572 | [93572-wsop.json](./93572-wsop.json) |
