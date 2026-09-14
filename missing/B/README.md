@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandle | 294451 | [294451-bandle.json](./294451-bandle.json) |
 | Bandle Tale: A League of Legends Story - Deluxe Edition | 283158 | [283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json](./283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json) |
 | Bandle Tale: Bigger-On-The-Inside Pack | 283187 | [283187-bandle-tale-bigger-on-the-inside-pack.json](./283187-bandle-tale-bigger-on-the-inside-pack.json) |
+| Bandocracy | 415143 | [415143-bandocracy.json](./415143-bandocracy.json) |
 | BandRoll | 236294 | [236294-bandroll.json](./236294-bandroll.json) |
 | Baneseed | 184658 | [184658-baneseed.json](./184658-baneseed.json) |
 | Bang 2 Busters | 40189 | [40189-bang-2-busters.json](./40189-bang-2-busters.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batch 17 | 75187 | [75187-batch-17.json](./75187-batch-17.json) |
 | Baten Kaitos Origins | 3796 | [3796-baten-kaitos-origins.json](./3796-baten-kaitos-origins.json) |
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
+| Bathysphere | 415144 | [415144-bathysphere.json](./415144-bathysphere.json) |
 | Batla | 36058 | [36058-batla.json](./36058-batla.json) |
 | Batman | 200135 | [200135-batman.json](./200135-batman.json) |
 | Batman & Flash | 326624 | [326624-batman-and-flash.json](./326624-batman-and-flash.json) |
@@ -3328,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Time! | 29813 | [29813-break-time.json](./29813-break-time.json) |
 | Break Ultimate | 241614 | [241614-break-ultimate.json](./241614-break-ultimate.json) |
 | Break Up | 245545 | [245545-break-up.json](./245545-break-up.json) |
+| Breakaway Hockey League | 415167 | [415167-breakaway-hockey-league.json](./415167-breakaway-hockey-league.json) |
 | BreakBall: Time Travel | 146890 | [146890-breakball-time-travel.json](./146890-breakball-time-travel.json) |
 | Breaker's World | 199131 | [199131-breakers-world.json](./199131-breakers-world.json) |
 | Breakers | 72533 | [72533-breakers.json](./72533-breakers.json) |
@@ -4028,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By Moonlight | 114968 | [114968-by-moonlight.json](./114968-by-moonlight.json) |
 | By the King's Command | 399008 | [399008-by-the-kings-command.json](./399008-by-the-kings-command.json) |
 | Byakuya Monogatari: Winchester-ke no Matsuei | 287633 | [287633-byakuya-monogatari-winchester-ke-no-matsuei.json](./287633-byakuya-monogatari-winchester-ke-no-matsuei.json) |
+| Bye Bye Bonnie | 415153 | [415153-bye-bye-bonnie.json](./415153-bye-bye-bonnie.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
 | Bygone Dreams | 149522 | [149522-bygone-dreams.json](./149522-bygone-dreams.json) |
 | Bygone Worlds: Jerusalem | 74446 | [74446-bygone-worlds-jerusalem.json](./74446-bygone-worlds-jerusalem.json) |
