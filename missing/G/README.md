@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Germany's Next Top Model: Das Offizielle Spiel zur Staffel 2009 | 86128 | [86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json](./86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json) |
 | GermCraft Deluxe | 208013 | [208013-germcraft-deluxe.json](./208013-germcraft-deluxe.json) |
 | Germinator | 21019 | [21019-germinator.json](./21019-germinator.json) |
+| Gerry Anderson's Thunderbirds: Shutsudou Thunderbird 2-gou | 385726 | [385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json](./385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json) |
 | Gerry the Germ Goes Body Poppin' | 26464 | [26464-gerry-the-germ-goes-body-poppin.json](./26464-gerry-the-germ-goes-body-poppin.json) |
 | Gerrymandering: Red vs Blue | 27865 | [27865-gerrymandering-red-vs-blue.json](./27865-gerrymandering-red-vs-blue.json) |
 | Gerty: Robots In Love | 31638 | [31638-gerty-robots-in-love.json](./31638-gerty-robots-in-love.json) |
