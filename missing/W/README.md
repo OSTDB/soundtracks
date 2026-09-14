@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood for the Trees | 176958 | [176958-wood-for-the-trees.json](./176958-wood-for-the-trees.json) |
 | Wood Nuts & Bolts Puzzle | 331341 | [331341-wood-nuts-and-bolts-puzzle.json](./331341-wood-nuts-and-bolts-puzzle.json) |
 | Wood Puzzle | 208942 | [208942-wood-puzzle.json](./208942-wood-puzzle.json) |
+| Woodcutter Simulator 2013 | 16900 | [16900-woodcutter-simulator-2013.json](./16900-woodcutter-simulator-2013.json) |
 | Wooden House | 23726 | [23726-wooden-house.json](./23726-wooden-house.json) |
 | Wooden Nickel | 115663 | [115663-wooden-nickel.json](./115663-wooden-nickel.json) |
 | Woodla: The Tower | 251199 | [251199-woodla-the-tower.json](./251199-woodla-the-tower.json) |
@@ -2102,5 +2103,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WyrmBound | 290721 | [290721-wyrmbound.json](./290721-wyrmbound.json) |
 | Wyrmhole: The Forbidden Knowledge | 253384 | [253384-wyrmhole-the-forbidden-knowledge.json](./253384-wyrmhole-the-forbidden-knowledge.json) |
 | Wytchsun: Elleros Origins | 117544 | [117544-wytchsun-elleros-origins.json](./117544-wytchsun-elleros-origins.json) |
+| Wyv and Keep: The Temple of the Lost Idol | 16847 | [16847-wyv-and-keep-the-temple-of-the-lost-idol.json](./16847-wyv-and-keep-the-temple-of-the-lost-idol.json) |
 | Wyvern Studios Solitaire: 30th Aniversary Edition | 289861 | [289861-wyvern-studios-solitaire-30th-aniversary-edition.json](./289861-wyvern-studios-solitaire-30th-aniversary-edition.json) |
 | WYzards | 275017 | [275017-wyzards.json](./275017-wyzards.json) |
