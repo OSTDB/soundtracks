@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Battlegrounds | 284340 | [284340-girls-battlegrounds.json](./284340-girls-battlegrounds.json) |
 | Girls Book Maker: Shiawase no Libretto | 194573 | [194573-girls-book-maker-shiawase-no-libretto.json](./194573-girls-book-maker-shiawase-no-libretto.json) |
 | Girls Craft: Crafting and Building | 100959 | [100959-girls-craft-crafting-and-building.json](./100959-girls-craft-crafting-and-building.json) |
+| Girls Dance VR | 384632 | [384632-girls-dance-vr.json](./384632-girls-dance-vr.json) |
 | Girls Fashion 3D: Mezase! Top Stylist | 222331 | [222331-girls-fashion-3d-mezase-top-stylist.json](./222331-girls-fashion-3d-mezase-top-stylist.json) |
 | Girls Free | 127940 | [127940-girls-free.json](./127940-girls-free.json) |
 | Girls Hair Salon | 88026 | [88026-girls-hair-salon.json](./88026-girls-hair-salon.json) |
@@ -1030,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
 | Givling | 18319 | [18319-givling.json](./18319-givling.json) |
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
+| Gizmos: Riddle of the Universe | 384676 | [384676-gizmos-riddle-of-the-universe.json](./384676-gizmos-riddle-of-the-universe.json) |
 | Gizmos: Spirit of the Christmas | 156678 | [156678-gizmos-spirit-of-the-christmas.json](./156678-gizmos-spirit-of-the-christmas.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
 | Glacier 3: The Meltdown | 16902 | [16902-glacier-3-the-meltdown.json](./16902-glacier-3-the-meltdown.json) |
