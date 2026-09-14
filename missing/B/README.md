@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back 4 Blood: Ultimate Edition | 141889 | [141889-back-4-blood-ultimate-edition.json](./141889-back-4-blood-ultimate-edition.json) |
 | Back 4 More | 338185 | [338185-back-4-more.json](./338185-back-4-more.json) |
 | Back Again | 192507 | [192507-back-again.json](./192507-back-again.json) |
+| Back Alley Chronicle: Episode Saeki | 397092 | [397092-back-alley-chronicle-episode-saeki.json](./397092-back-alley-chronicle-episode-saeki.json) |
 | Back From Hell | 24877 | [24877-back-from-hell.json](./24877-back-from-hell.json) |
 | Back In 1995 64 | 85503 | [85503-back-in-1995-64.json](./85503-back-in-1995-64.json) |
 | Back Rank Chess: Zombie Strike | 289341 | [289341-back-rank-chess-zombie-strike.json](./289341-back-rank-chess-zombie-strike.json) |
@@ -1830,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
 | Bio Challenge | 12917 | [12917-bio-challenge.json](./12917-bio-challenge.json) |
 | Bio Fail | 410910 | [410910-bio-fail.json](./410910-bio-fail.json) |
+| Bio Fault | 397052 | [397052-bio-fault.json](./397052-bio-fault.json) |
 | Bio Force Ape | 19378 | [19378-bio-force-ape.json](./19378-bio-force-ape.json) |
 | Bio Inc. Redemption | 36627 | [36627-bio-inc-redemption.json](./36627-bio-inc-redemption.json) |
 | Bio Senshi Dan: Increaser to no Tatakai | 48647 | [48647-bio-senshi-dan-increaser-to-no-tatakai.json](./48647-bio-senshi-dan-increaser-to-no-tatakai.json) |
@@ -3510,7 +3512,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World Remastered: Burnt Dreams Collector's Edition | 362834 | [362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json](./362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: Escape From Oz Collector's Edition | 104108 | [104108-bridge-to-another-world-escape-from-oz-collectors-edition.json](./104108-bridge-to-another-world-escape-from-oz-collectors-edition.json) |
 | Bridge to Another World: Gulliver Syndrome | 188031 | [188031-bridge-to-another-world-gulliver-syndrome.json](./188031-bridge-to-another-world-gulliver-syndrome.json) |
+| Bridge to Another World: Gulliver Syndrome - Collector's Edition | 397102 | [397102-bridge-to-another-world-gulliver-syndrome-collectors-edition.json](./397102-bridge-to-another-world-gulliver-syndrome-collectors-edition.json) |
 | Bridge to Another World: Secrets of the Nutcracker | 236819 | [236819-bridge-to-another-world-secrets-of-the-nutcracker.json](./236819-bridge-to-another-world-secrets-of-the-nutcracker.json) |
+| Bridge to Another World: Through the Looking Glass - Collector's Edition | 397098 | [397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json](./397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json) |
 | Bridge-It | 12983 | [12983-bridge-it.json](./12983-bridge-it.json) |
 | Bridge! 3 | 124145 | [124145-bridge-3.json](./124145-bridge-3.json) |
 | Bridge! 3: The Construction Game | 125372 | [125372-bridge-3-the-construction-game.json](./125372-bridge-3-the-construction-game.json) |
