@@ -2438,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foundation Gold | 69802 | [69802-foundation-gold.json](./69802-foundation-gold.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
 | Founding Paws: How America Began | 409525 | [409525-founding-paws-how-america-began.json](./409525-founding-paws-how-america-began.json) |
+| Foundland City Builders | 390124 | [390124-foundland-city-builders.json](./390124-foundland-city-builders.json) |
 | Foundlings | 350439 | [350439-foundlings.json](./350439-foundlings.json) |
 | Fountain of Dreams | 73799 | [73799-fountain-of-dreams.json](./73799-fountain-of-dreams.json) |
 | Fountains: Shattered Shape | 414457 | [414457-fountains-shattered-shape.json](./414457-fountains-shattered-shape.json) |
