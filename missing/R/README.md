@@ -732,6 +732,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realpolitiks Mobile | 97304 | [97304-realpolitiks-mobile.json](./97304-realpolitiks-mobile.json) |
 | Realpolitiks: New Power | 116997 | [116997-realpolitiks-new-power.json](./116997-realpolitiks-new-power.json) |
 | Reanimal | 314265 | [314265-reanimal.json](./314265-reanimal.json) |
+| Reanimal: The Expanded World - Chapter 2 | 395672 | [395672-reanimal-the-expanded-world-chapter-2.json](./395672-reanimal-the-expanded-world-chapter-2.json) |
+| Reanimal: The Expanded World - Chapter 3 | 395673 | [395673-reanimal-the-expanded-world-chapter-3.json](./395673-reanimal-the-expanded-world-chapter-3.json) |
 | Reanimated | 274205 | [274205-reanimated.json](./274205-reanimated.json) |
 | Reanimation Scheme | 158647 | [158647-reanimation-scheme.json](./158647-reanimation-scheme.json) |
 | Reap and Sow | 202362 | [202362-reap-and-sow.json](./202362-reap-and-sow.json) |
