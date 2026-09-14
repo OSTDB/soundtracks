@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Had the Strangest Dream, Ivan | 201327 | [201327-i-had-the-strangest-dream-ivan.json](./201327-i-had-the-strangest-dream-ivan.json) |
 | I Hate Heroes | 98988 | [98988-i-hate-heroes.json](./98988-i-hate-heroes.json) |
 | I hate this game | 114278 | [114278-i-hate-this-game.json](./114278-i-hate-this-game.json) |
+| I Have an Item | 384113 | [384113-i-have-an-item.json](./384113-i-have-an-item.json) |
 | I Have Hired This Anime Girl to Talk to You | 275003 | [275003-i-have-hired-this-anime-girl-to-talk-to-you.json](./275003-i-have-hired-this-anime-girl-to-talk-to-you.json) |
 | I Hear Them | 398454 | [398454-i-hear-them.json](./398454-i-hear-them.json) |
 | I heard a dog barking | 177522 | [177522-i-heard-a-dog-barking.json](./177522-i-heard-a-dog-barking.json) |
@@ -520,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
 | Illusion of L'Phalcia | 39010 | [39010-illusion-of-lphalcia.json](./39010-illusion-of-lphalcia.json) |
 | Illusions 360 | 67971 | [67971-illusions-360.json](./67971-illusions-360.json) |
+| Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
 | Illville: Return instructions | 75180 | [75180-illville-return-instructions.json](./75180-illville-return-instructions.json) |
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
 | Ilysia | 123575 | [123575-ilysia.json](./123575-ilysia.json) |
@@ -1261,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inverness Nights | 134676 | [134676-inverness-nights.json](./134676-inverness-nights.json) |
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
 | Inversion | 7020 | [7020-inversion.json](./7020-inversion.json) |
+| Invert | 383504 | [383504-invert.json](./383504-invert.json) |
 | Invert by SlushyRh | 265144 | [265144-invert-by-slushyrh.json](./265144-invert-by-slushyrh.json) |
 | Invert: Tile Flipping Puzzles | 82953 | [82953-invert-tile-flipping-puzzles.json](./82953-invert-tile-flipping-puzzles.json) |
 | Inverted | 32209 | [32209-inverted.json](./32209-inverted.json) |
