@@ -2993,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMM | 343815 | [343815-mmm.json](./343815-mmm.json) |
 | Mmm Fingers | 117752 | [117752-mmm-fingers.json](./117752-mmm-fingers.json) |
 | MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
+| MMX Hill Dash 2 - Race Offroad | 97262 | [97262-mmx-hill-dash-2-race-offroad.json](./97262-mmx-hill-dash-2-race-offroad.json) |
 | MMX Racing | 224004 | [224004-mmx-racing.json](./224004-mmx-racing.json) |
 | Mnemonic Devices | 177509 | [177509-mnemonic-devices.json](./177509-mnemonic-devices.json) |
 | MNOZ: My Nuclear Octopus 2 | 408048 | [408048-mnoz-my-nuclear-octopus-2.json](./408048-mnoz-my-nuclear-octopus-2.json) |
@@ -3440,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
 | Monster Retsuden Oreca Battle | 365701 | [365701-monster-retsuden-oreca-battle.json](./365701-monster-retsuden-oreca-battle.json) |
 | Monster RPG 2 | 34312 | [34312-monster-rpg-2.json](./34312-monster-rpg-2.json) |
+| Monster RPG 3 | 97015 | [97015-monster-rpg-3.json](./97015-monster-rpg-3.json) |
 | Monster Saga | 362269 | [362269-monster-saga.json](./362269-monster-saga.json) |
 | Monster shooter | 108951 | [108951-monster-shooter.json](./108951-monster-shooter.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
@@ -3749,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic of the Pharaohs | 337076 | [337076-mosaic-of-the-pharaohs.json](./337076-mosaic-of-the-pharaohs.json) |
 | Mosaic Quiz | 378814 | [378814-mosaic-quiz.json](./378814-mosaic-quiz.json) |
 | Mosaic Your Crush! | 161394 | [161394-mosaic-your-crush.json](./161394-mosaic-your-crush.json) |
+| Mosaics Galore 2 | 97005 | [97005-mosaics-galore-2.json](./97005-mosaics-galore-2.json) |
 | Mosaics Wall Deco | 376473 | [376473-mosaics-wall-deco.json](./376473-mosaics-wall-deco.json) |
 | Mosaique Neko Waifus 2 | 167808 | [167808-mosaique-neko-waifus-2.json](./167808-mosaique-neko-waifus-2.json) |
 | Mosaique Neko Waifus 4 | 167809 | [167809-mosaique-neko-waifus-4.json](./167809-mosaique-neko-waifus-4.json) |
