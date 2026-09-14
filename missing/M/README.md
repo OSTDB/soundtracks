@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max and the Magic Marker: Gold Edition | 52571 | [52571-max-and-the-magic-marker-gold-edition.json](./52571-max-and-the-magic-marker-gold-edition.json) |
 | Max Craft 2: New World HD | 96703 | [96703-max-craft-2-new-world-hd.json](./96703-max-craft-2-new-world-hd.json) |
 | Max Cross | 413621 | [413621-max-cross.json](./413621-max-cross.json) |
+| Max in Ghostpix | 395013 | [395013-max-in-ghostpix.json](./395013-max-in-ghostpix.json) |
 | Max Magic | 45914 | [45914-max-magic.json](./45914-max-magic.json) |
 | Max Mix Game | 46669 | [46669-max-mix-game.json](./46669-max-mix-game.json) |
 | Max Payne | 196251 | [196251-max-payne.json](./196251-max-payne.json) |
