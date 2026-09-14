@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai-3-ji Super Robot Taisen | 42564 | [42564-dai-3-ji-super-robot-taisen.json](./42564-dai-3-ji-super-robot-taisen.json) |
 | Dai-3-ji Super Robot Taisen Alpha: Shuuen no Ginga he | 79338 | [79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json](./79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json) |
 | Dai-4-ji Super Robot Taisen | 42563 | [42563-dai-4-ji-super-robot-taisen.json](./42563-dai-4-ji-super-robot-taisen.json) |
+| Daiblos Core | 413067 | [413067-daiblos-core.json](./413067-daiblos-core.json) |
 | Daibouken: Saint Elmos no Kiseki | 97337 | [97337-daibouken-saint-elmos-no-kiseki.json](./97337-daibouken-saint-elmos-no-kiseki.json) |
 | Daibutsu Paradise | 151748 | [151748-daibutsu-paradise.json](./151748-daibutsu-paradise.json) |
 | Daichikun Crisis: Do Natural | 42029 | [42029-daichikun-crisis-do-natural.json](./42029-daichikun-crisis-do-natural.json) |
@@ -1529,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolation Tycoon | 169361 | [169361-desolation-tycoon.json](./169361-desolation-tycoon.json) |
 | Desolatium | 150643 | [150643-desolatium.json](./150643-desolatium.json) |
 | Desolatium: Prologue | 200115 | [200115-desolatium-prologue.json](./200115-desolatium-prologue.json) |
+| Desouled | 413087 | [413087-desouled.json](./413087-desouled.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
 | Despair 3 | 57684 | [57684-despair-3.json](./57684-despair-3.json) |
 | Despair: Blood Curse | 153951 | [153951-despair-blood-curse.json](./153951-despair-blood-curse.json) |
@@ -1753,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Skee-Ball | 209611 | [209611-diamond-skee-ball.json](./209611-diamond-skee-ball.json) |
 | Diamond Trust of London | 9138 | [9138-diamond-trust-of-london.json](./9138-diamond-trust-of-london.json) |
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
+| Diǎnchū Gè Sānguó | 413033 | [413033-dianchu-ge-sanguo.json](./413033-dianchu-ge-sanguo.json) |
 | Diapause | 374597 | [374597-diapause.json](./374597-diapause.json) |
 | Diarrhea Don | 159891 | [159891-diarrhea-don.json](./159891-diarrhea-don.json) |
 | Diary Girl | 67992 | [67992-diary-girl.json](./67992-diary-girl.json) |
@@ -4058,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Duke | 39651 | [39651-dynamite-duke.json](./39651-dynamite-duke.json) |
 | Dynamite Düx | 12730 | [12730-dynamite-dux.json](./12730-dynamite-dux.json) |
 | Dynamite Flare | 293616 | [293616-dynamite-flare.json](./293616-dynamite-flare.json) |
+| Dynamo Frank | 413035 | [413035-dynamo-frank.json](./413035-dynamo-frank.json) |
 | Dynasty Warriors | 2982 | [2982-dynasty-warriors.json](./2982-dynasty-warriors.json) |
 | Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
 | Dynasty Warriors 4: Empires | 19620 | [19620-dynasty-warriors-4-empires.json](./19620-dynasty-warriors-4-empires.json) |
