@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa 2: Lunatea's Veil | 272023 | [272023-klonoa-2-lunateas-veil.json](./272023-klonoa-2-lunateas-veil.json) |
 | Klonoa FanRPG | 331717 | [331717-klonoa-fanrpg.json](./331717-klonoa-fanrpg.json) |
 | Klonoa Phantasy Reverie Series | 191405 | [191405-klonoa-phantasy-reverie-series.json](./191405-klonoa-phantasy-reverie-series.json) |
+| Klorbiest Catch | 410324 | [410324-klorbiest-catch.json](./410324-klorbiest-catch.json) |
 | Klung | 182533 | [182533-klung.json](./182533-klung.json) |
 | Kly-Kly | 192942 | [192942-kly-kly.json](./192942-kly-kly.json) |
 | Kmenta | 109653 | [109653-kmenta.json](./109653-kmenta.json) |
