@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda Mobile | 28864 | [28864-zelda-mobile.json](./28864-zelda-mobile.json) |
 | Zelda no Densetsu: 4-tsu no Tsurugi + | 298870 | [298870-zelda-no-densetsu-4-tsu-no-tsurugi.json](./298870-zelda-no-densetsu-4-tsu-no-tsurugi.json) |
 | Zelda: Meadow of Shadows | 248290 | [248290-zelda-meadow-of-shadows.json](./248290-zelda-meadow-of-shadows.json) |
+| Zelene Lux: Spirit Notes | 387548 | [387548-zelene-lux-spirit-notes.json](./387548-zelene-lux-spirit-notes.json) |
 | Zelene Lux: Spirit Notes - Collector's Edition | 415959 | [415959-zelene-lux-spirit-notes-collectors-edition.json](./415959-zelene-lux-spirit-notes-collectors-edition.json) |
 | Zelter | 138243 | [138243-zelter.json](./138243-zelter.json) |
 | Zeltoid X1 | 216477 | [216477-zeltoid-x1.json](./216477-zeltoid-x1.json) |
