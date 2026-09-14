@@ -3228,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
 | Boxcorp Employee Training | 179137 | [179137-boxcorp-employee-training.json](./179137-boxcorp-employee-training.json) |
 | Boxed In | 95394 | [95394-boxed-in.json](./95394-boxed-in.json) |
+| Boxed Up! | 386837 | [386837-boxed-up.json](./386837-boxed-up.json) |
 | Boxer | 13699 | [13699-boxer.json](./13699-boxer.json) |
 | Boxer Rebellion | 92975 | [92975-boxer-rebellion.json](./92975-boxer-rebellion.json) |
 | Boxes: Lost Fragments | 219729 | [219729-boxes-lost-fragments.json](./219729-boxes-lost-fragments.json) |
