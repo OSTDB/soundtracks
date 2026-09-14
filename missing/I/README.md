@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irritability & Mood Swings | 195182 | [195182-irritability-and-mood-swings.json](./195182-irritability-and-mood-swings.json) |
 | Iruka Iru Ka | 187491 | [187491-iruka-iru-ka.json](./187491-iruka-iru-ka.json) |
 | Irwin Ego: Ace Attorney | 302652 | [302652-irwin-ego-ace-attorney.json](./302652-irwin-ego-ace-attorney.json) |
+| Is Guilty | 389583 | [389583-is-guilty.json](./389583-is-guilty.json) |
 | Is it Love ? Nicolae Vampire | 109023 | [109023-is-it-love-nicolae-vampire.json](./109023-is-it-love-nicolae-vampire.json) |
 | Is it Love? Blue Swan Hospital | 116392 | [116392-is-it-love-blue-swan-hospital.json](./116392-is-it-love-blue-swan-hospital.json) |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon?: Battle Chronicle | 287107 | [287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json](./287107-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-battle-chronicle.json) |
