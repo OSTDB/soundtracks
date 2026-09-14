@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T19:49:08.504Z",
-  "total_missing": 70954,
+  "generated_at": "2026-09-14T19:51:39.485Z",
+  "total_missing": 70953,
   "games": [
     {
       "igdb_id": 306086,
@@ -4646,11 +4646,6 @@
       "igdb_id": 120425,
       "game_name": "Aerobots",
       "file": "missing/A/120425-aerobots.json"
-    },
-    {
-      "igdb_id": 16383,
-      "game_name": "aerofly FS",
-      "file": "missing/A/16383-aerofly-fs.json"
     },
     {
       "igdb_id": 207539,
