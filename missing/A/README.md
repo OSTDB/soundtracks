@@ -2250,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apotheker | 141880 | [141880-apotheker.json](./141880-apotheker.json) |
 | Apotheon | 9016 | [9016-apotheon.json](./9016-apotheon.json) |
 | Apotheosis | 211437 | [211437-apotheosis.json](./211437-apotheosis.json) |
+| Apotheosis Engine | 399701 | [399701-apotheosis-engine.json](./399701-apotheosis-engine.json) |
 | Apox: Legend | 167853 | [167853-apox-legend.json](./167853-apox-legend.json) |
 | App Co Tycoon | 211438 | [211438-app-co-tycoon.json](./211438-app-co-tycoon.json) |
 | Appa | 367951 | [367951-appa.json](./367951-appa.json) |
