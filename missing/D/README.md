@@ -3445,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
 | Dread X Collection 3 | 140041 | [140041-dread-x-collection-3.json](./140041-dread-x-collection-3.json) |
 | Dread X Collection: The Hunt | 145624 | [145624-dread-x-collection-the-hunt.json](./145624-dread-x-collection-the-hunt.json) |
+| DreadBound | 382895 | [382895-dreadbound.json](./382895-dreadbound.json) |
 | Dreader | 176487 | [176487-dreader.json](./176487-dreader.json) |
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
 | Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
