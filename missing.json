@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T02:51:35.994Z",
-  "total_missing": 68214,
+  "generated_at": "2026-09-14T03:01:30.965Z",
+  "total_missing": 68224,
   "games": [
     {
       "igdb_id": 306086,
@@ -4111,16 +4111,6 @@
       "igdb_id": 34557,
       "game_name": "Advanced Gaming Platform: Epica",
       "file": "missing/A/34557-advanced-gaming-platform-epica.json"
-    },
-    {
-      "igdb_id": 142432,
-      "game_name": "Advanced Lawnmower Simulator",
-      "file": "missing/A/142432-advanced-lawnmower-simulator.json"
-    },
-    {
-      "igdb_id": 78001,
-      "game_name": "Advanced NetWars",
-      "file": "missing/A/78001-advanced-netwars.json"
     },
     {
       "igdb_id": 63246,
@@ -55023,6 +55013,11 @@
       "file": "missing/C/94709-concerto-gate.json"
     },
     {
+      "igdb_id": 36120,
+      "game_name": "Conclave",
+      "file": "missing/C/36120-conclave.json"
+    },
+    {
       "igdb_id": 179172,
       "game_name": "Concourse X-Ray",
       "file": "missing/C/179172-concourse-x-ray.json"
@@ -82418,6 +82413,11 @@
       "file": "missing/D/369025-duozuplixo.json"
     },
     {
+      "igdb_id": 36104,
+      "game_name": "dUpLicity ~Beyond the Lies~",
+      "file": "missing/D/36104-duplicity-beyond-the-lies.json"
+    },
+    {
       "igdb_id": 215885,
       "game_name": "Duppy Detective Tashia",
       "file": "missing/D/215885-duppy-detective-tashia.json"
@@ -88436,6 +88436,11 @@
       "igdb_id": 45931,
       "game_name": "Escape from Cyber City",
       "file": "missing/E/45931-escape-from-cyber-city.json"
+    },
+    {
+      "igdb_id": 36105,
+      "game_name": "Escape From Darkmoor Manor",
+      "file": "missing/E/36105-escape-from-darkmoor-manor.json"
     },
     {
       "igdb_id": 270110,
@@ -169993,6 +169998,11 @@
       "file": "missing/M/150696-mech-farmer.json"
     },
     {
+      "igdb_id": 36112,
+      "game_name": "Mech Marines: Steel March",
+      "file": "missing/M/36112-mech-marines-steel-march.json"
+    },
+    {
       "igdb_id": 135831,
       "game_name": "Mech n' Parcel",
       "file": "missing/M/135831-mech-n-parcel.json"
@@ -184301,6 +184311,11 @@
       "igdb_id": 96212,
       "game_name": "MXGP Pro",
       "file": "missing/M/96212-mxgp-pro.json"
+    },
+    {
+      "igdb_id": 36113,
+      "game_name": "MXGP: The Official Motocross Videogame Compact",
+      "file": "missing/M/36113-mxgp-the-official-motocross-videogame-compact.json"
     },
     {
       "igdb_id": 20391,
@@ -223553,6 +223568,11 @@
       "file": "missing/R/226724-race-rocket-arena-car-extreme.json"
     },
     {
+      "igdb_id": 36114,
+      "game_name": "Race.a.bit",
+      "file": "missing/R/36114-race-a-bit.json"
+    },
+    {
       "igdb_id": 18188,
       "game_name": "Racecraft",
       "file": "missing/R/18188-racecraft.json"
@@ -233191,6 +233211,11 @@
       "igdb_id": 5969,
       "game_name": "Rochard",
       "file": "missing/R/5969-rochard.json"
+    },
+    {
+      "igdb_id": 36122,
+      "game_name": "Roche Fusion",
+      "file": "missing/R/36122-roche-fusion.json"
     },
     {
       "igdb_id": 90647,
@@ -251653,6 +251678,11 @@
       "file": "missing/S/51203-sky-maze-3d.json"
     },
     {
+      "igdb_id": 36117,
+      "game_name": "Sky Mercenaries",
+      "file": "missing/S/36117-sky-mercenaries.json"
+    },
+    {
       "igdb_id": 147901,
       "game_name": "Sky Mercenaries Redux",
       "file": "missing/S/147901-sky-mercenaries-redux.json"
@@ -264936,6 +264966,11 @@
       "igdb_id": 373537,
       "game_name": "Star Tower",
       "file": "missing/S/373537-star-tower.json"
+    },
+    {
+      "igdb_id": 36124,
+      "game_name": "Star Traders: 4X Empires",
+      "file": "missing/S/36124-star-traders-4x-empires.json"
     },
     {
       "igdb_id": 11485,
@@ -305578,6 +305613,11 @@
       "file": "missing/T/158722-tkkg-wer-stoppt-den-feuerteufel.json"
     },
     {
+      "igdb_id": 36106,
+      "game_name": "Tkl Online",
+      "file": "missing/T/36106-tkl-online.json"
+    },
+    {
       "igdb_id": 116379,
       "game_name": "Tlicolity Eyes Vol. 1",
       "file": "missing/T/116379-tlicolity-eyes-vol-1.json"
@@ -322093,6 +322133,11 @@
       "file": "missing/V/101613-vietcong.json"
     },
     {
+      "igdb_id": 36116,
+      "game_name": "Vietnam '65",
+      "file": "missing/V/36116-vietnam-65.json"
+    },
+    {
       "igdb_id": 73247,
       "game_name": "Vietnam 2: Special Assignment",
       "file": "missing/V/73247-vietnam-2-special-assignment.json"
@@ -333016,6 +333061,11 @@
       "igdb_id": 134692,
       "game_name": "Words for a bird",
       "file": "missing/W/134692-words-for-a-bird.json"
+    },
+    {
+      "igdb_id": 36107,
+      "game_name": "Words for Evil",
+      "file": "missing/W/36107-words-for-evil.json"
     },
     {
       "igdb_id": 314664,
