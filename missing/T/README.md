@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
 | Taiwan Coolfox | 351603 | [351603-taiwan-coolfox.json](./351603-taiwan-coolfox.json) |
 | Taiwan Mahjong | 334658 | [334658-taiwan-mahjong.json](./334658-taiwan-mahjong.json) |
+| Taiwanese Dominatrixes Are the Best | 385703 | [385703-taiwanese-dominatrixes-are-the-best.json](./385703-taiwanese-dominatrixes-are-the-best.json) |
 | Taiyo No Miyako | 221422 | [221422-taiyo-no-miyako.json](./221422-taiyo-no-miyako.json) |
 | Taiyou no Tenshi Marlowe: Ohanabatake ha Dai-Panic! | 331117 | [331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json](./331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json) |
 | Tajemnica statuetki | 26482 | [26482-tajemnica-statuetki.json](./26482-tajemnica-statuetki.json) |
@@ -1083,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrafort | 285966 | [285966-terrafort.json](./285966-terrafort.json) |
 | TerraGenesis - Space Colony | 102762 | [102762-terragenesis-space-colony.json](./102762-terragenesis-space-colony.json) |
 | TerraGenesis - Space Settlers | 102730 | [102730-terragenesis-space-settlers.json](./102730-terragenesis-space-settlers.json) |
+| Terrahawks: The Battlehawk | 385725 | [385725-terrahawks-the-battlehawk.json](./385725-terrahawks-the-battlehawk.json) |
 | Terrain Defender | 402381 | [402381-terrain-defender.json](./402381-terrain-defender.json) |
 | Terranigma | 9633 | [9633-terranigma.json](./9633-terranigma.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
@@ -2589,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Howler | 11838 | [11838-the-howler.json](./11838-the-howler.json) |
 | The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
 | The Hundred Line: Last Defense Academy - Digital Deluxe Edition | 338007 | [338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json](./338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json) |
+| The Hundred Line: Last Defense Academy - Nintendo Switch Version with Sleeve | 385732 | [385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json](./385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json) |
 | The Hundred Year Kingdom | 151737 | [151737-the-hundred-year-kingdom.json](./151737-the-hundred-year-kingdom.json) |
 | The Hunger Games Adventures | 57708 | [57708-the-hunger-games-adventures.json](./57708-the-hunger-games-adventures.json) |
 | The Hungry Witch and the Gourmet Dish | 185157 | [185157-the-hungry-witch-and-the-gourmet-dish.json](./185157-the-hungry-witch-and-the-gourmet-dish.json) |
@@ -7450,6 +7453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsunami Rider | 383939 | [383939-tsunami-rider.json](./383939-tsunami-rider.json) |
 | Tsundere Simulator 2 | 221389 | [221389-tsundere-simulator-2.json](./221389-tsundere-simulator-2.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
+| Tsuppari Concert | 385724 | [385724-tsuppari-concert.json](./385724-tsuppari-concert.json) |
 | Tsuppari Oozumou: Risshin Shusse-hen | 37780 | [37780-tsuppari-oozumou-risshin-shusse-hen.json](./37780-tsuppari-oozumou-risshin-shusse-hen.json) |
 | Tsurezure Nikki | 163362 | [163362-tsurezure-nikki.json](./163362-tsurezure-nikki.json) |
 | Tsuri Tarou | 37779 | [37779-tsuri-tarou.json](./37779-tsuri-tarou.json) |
