@@ -1292,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beep Boop | 319000 | [319000-beep-boop.json](./319000-beep-boop.json) |
 | Beepertron | 84239 | [84239-beepertron.json](./84239-beepertron.json) |
 | Beer Pong : Trickshot | 90694 | [90694-beer-pong-trickshot.json](./90694-beer-pong-trickshot.json) |
+| Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
 | Beer Shooter | 101526 | [101526-beer-shooter.json](./101526-beer-shooter.json) |
 | Beer! | 57091 | [57091-beer.json](./57091-beer.json) |
@@ -2759,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bond | 302388 | [302388-bond.json](./302388-bond.json) |
 | Bond Blues | 293107 | [293107-bond-blues.json](./293107-bond-blues.json) |
 | Bonded Realities | 66109 | [66109-bonded-realities.json](./66109-bonded-realities.json) |
+| Bonds | 111096 | [111096-bonds.json](./111096-bonds.json) |
 | Bonds of the Skies | 210264 | [210264-bonds-of-the-skies.json](./210264-bonds-of-the-skies.json) |
 | Bonds of Unity | 249221 | [249221-bonds-of-unity.json](./249221-bonds-of-unity.json) |
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
@@ -3649,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs Bunny & Taz: Time Busters | 3045 | [3045-bugs-bunny-and-taz-time-busters.json](./3045-bugs-bunny-and-taz-time-busters.json) |
 | Bugs Bunny: Private Eye | 67270 | [67270-bugs-bunny-private-eye.json](./67270-bugs-bunny-private-eye.json) |
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
+| Bugs Must Die | 111353 | [111353-bugs-must-die.json](./111353-bugs-must-die.json) |
 | Bugs N' Guns | 276690 | [276690-bugs-n-guns.json](./276690-bugs-n-guns.json) |
 | Bugs! | 119679 | [119679-bugs.json](./119679-bugs.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
