@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Rat Escape | 323541 | [323541-lab-rat-escape.json](./323541-lab-rat-escape.json) |
 | Laballatory | 409584 | [409584-laballatory.json](./409584-laballatory.json) |
 | Labarynth of Legendary Loot | 143044 | [143044-labarynth-of-legendary-loot.json](./143044-labarynth-of-legendary-loot.json) |
+| Labhorror | 414405 | [414405-labhorror.json](./414405-labhorror.json) |
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
 | Laby to Panel de Shiritori | 325452 | [325452-laby-to-panel-de-shiritori.json](./325452-laby-to-panel-de-shiritori.json) |
@@ -1021,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lift/Shift | 340918 | [340918-lift-shift.json](./340918-lift-shift.json) |
 | Lifting Unlimited | 302109 | [302109-lifting-unlimited.json](./302109-lifting-unlimited.json) |
 | Light 'em Up | 204495 | [204495-light-em-up.json](./204495-light-em-up.json) |
+| Light & Glory | 414412 | [414412-light-and-glory.json](./414412-light-and-glory.json) |
 | Light & Shadow | 226425 | [226425-light-and-shadow.json](./226425-light-and-shadow.json) |
 | Light A Way | 80873 | [80873-light-a-way.json](./80873-light-a-way.json) |
 | Light and Dance VR | 29904 | [29904-light-and-dance-vr.json](./29904-light-and-dance-vr.json) |
@@ -1185,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
 | Linework | 385590 | [385590-linework.json](./385590-linework.json) |
 | Ling and the Corrupted Hollow | 391073 | [391073-ling-and-the-corrupted-hollow.json](./391073-ling-and-the-corrupted-hollow.json) |
+| Ling House: Echoes Within | 414423 | [414423-ling-house-echoes-within.json](./414423-ling-house-echoes-within.json) |
 | Ling Rise | 143665 | [143665-ling-rise.json](./143665-ling-rise.json) |
 | Linger | 139417 | [139417-linger.json](./139417-linger.json) |
 | LingerieS | 298038 | [298038-lingeries.json](./298038-lingeries.json) |
@@ -1609,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LonQ! Highland in DS: Puu Puu Seijin Arawaru!! Shukketsu Dai-service! Onara no Saiten SP | 269826 | [269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json](./269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json) |
 | Look Closer! | 300405 | [300405-look-closer.json](./300405-look-closer.json) |
 | Look Outside | 328140 | [328140-look-outside.json](./328140-look-outside.json) |
+| Look to the Birds | 414434 | [414434-look-to-the-birds.json](./414434-look-to-the-birds.json) |
 | Looking | 178031 | [178031-looking.json](./178031-looking.json) |
 | Looking for Aliens: Collector's Edition | 247510 | [247510-looking-for-aliens-collectors-edition.json](./247510-looking-for-aliens-collectors-edition.json) |
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
