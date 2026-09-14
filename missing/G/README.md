@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield Labyrinth | 153452 | [153452-garfield-labyrinth.json](./153452-garfield-labyrinth.json) |
 | Garfield Rush | 130887 | [130887-garfield-rush.json](./130887-garfield-rush.json) |
 | Garfield: Big, Fat, Hairy Deal | 12111 | [12111-garfield-big-fat-hairy-deal.json](./12111-garfield-big-fat-hairy-deal.json) |
+| Garfield: Escape from Monday | 407405 | [407405-garfield-escape-from-monday.json](./407405-garfield-escape-from-monday.json) |
 | Garfield: Winter's Tail | 12112 | [12112-garfield-winters-tail.json](./12112-garfield-winters-tail.json) |
 | Garfield's Defense 2: The Food Invaders Strike Back | 63862 | [63862-garfields-defense-2-the-food-invaders-strike-back.json](./63862-garfields-defense-2-the-food-invaders-strike-back.json) |
 | Garfield's Defense: Attack of the Food Invaders | 63864 | [63864-garfields-defense-attack-of-the-food-invaders.json](./63864-garfields-defense-attack-of-the-food-invaders.json) |
@@ -856,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
 | Ghostly Garden | 146853 | [146853-ghostly-garden.json](./146853-ghostly-garden.json) |
 | Ghostly Matter | 89650 | [89650-ghostly-matter.json](./89650-ghostly-matter.json) |
+| Ghostly Simulator: Your Neighboring Ghost Story Collection | 407411 | [407411-ghostly-simulator-your-neighboring-ghost-story-collection.json](./407411-ghostly-simulator-your-neighboring-ghost-story-collection.json) |
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
 | Ghostrunner II | 250617 | [250617-ghostrunner-ii.json](./250617-ghostrunner-ii.json) |
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
@@ -1258,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War III Remake | 389452 | [389452-god-of-war-iii-remake.json](./389452-god-of-war-iii-remake.json) |
 | God of War III: Remastered | 19959 | [19959-god-of-war-iii-remastered.json](./19959-god-of-war-iii-remastered.json) |
 | God of War Remake | 389450 | [389450-god-of-war-remake.json](./389450-god-of-war-remake.json) |
+| God of War Sons of Sparta: Digital Deluxe Edition | 407463 | [407463-god-of-war-sons-of-sparta-digital-deluxe-edition.json](./407463-god-of-war-sons-of-sparta-digital-deluxe-edition.json) |
 | God of War Trilogy | 44653 | [44653-god-of-war-trilogy.json](./44653-god-of-war-trilogy.json) |
 | God of War Trilogy Remake | 389441 | [389441-god-of-war-trilogy-remake.json](./389441-god-of-war-trilogy-remake.json) |
 | God of War: Ascension - Special Edition | 44664 | [44664-god-of-war-ascension-special-edition.json](./44664-god-of-war-ascension-special-edition.json) |
