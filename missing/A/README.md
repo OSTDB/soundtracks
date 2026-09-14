@@ -429,7 +429,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
 | Aerobiz Supersonic | 5351 | [5351-aerobiz-supersonic.json](./5351-aerobiz-supersonic.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
-| aerofly FS | 16383 | [16383-aerofly-fs.json](./16383-aerofly-fs.json) |
 | Aerofly FS 4 Flight Simulator: Scenery - Europe Part 1 | 207539 | [207539-aerofly-fs-4-flight-simulator-scenery-europe-part-1.json](./207539-aerofly-fs-4-flight-simulator-scenery-europe-part-1.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
 | Aerofoil | 177006 | [177006-aerofoil.json](./177006-aerofoil.json) |
