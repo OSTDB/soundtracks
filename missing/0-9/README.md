@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
 | 10 Blaze Escape | 326084 | [326084-10-blaze-escape.json](./326084-10-blaze-escape.json) |
 | 10 Cent Classics: Shady Pack | 56451 | [56451-10-cent-classics-shady-pack.json](./56451-10-cent-classics-shady-pack.json) |
+| 10 Days to Save the World | 382905 | [382905-10-days-to-save-the-world.json](./382905-10-days-to-save-the-world.json) |
 | 10 Games | 319563 | [319563-10-games.json](./319563-10-games.json) |
 | 10 Gnomes 3: Spring Garden March | 383480 | [383480-10-gnomes-3-spring-garden-march.json](./383480-10-gnomes-3-spring-garden-march.json) |
 | 10 Gnomes 4: Foggy Flat | 383484 | [383484-10-gnomes-4-foggy-flat.json](./383484-10-gnomes-4-foggy-flat.json) |
@@ -269,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Squares | 92974 | [92974-20-squares.json](./92974-20-squares.json) |
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
 | 20 Words // 20 Seconds | 280751 | [280751-20-words-20-seconds.json](./280751-20-words-20-seconds.json) |
+| 20,000 Leagues Under the Sea: Extended Edition | 382906 | [382906-20-000-leagues-under-the-sea-extended-edition.json](./382906-20-000-leagues-under-the-sea-extended-edition.json) |
 | 2003 AtariAge Holiday Cart | 70419 | [70419-2003-atariage-holiday-cart.json](./70419-2003-atariage-holiday-cart.json) |
 | 2004 Real Soccer | 116344 | [116344-2004-real-soccer.json](./116344-2004-real-soccer.json) |
 | 2005 Minigame Multicart | 40792 | [40792-2005-minigame-multicart.json](./40792-2005-minigame-multicart.json) |
@@ -341,11 +343,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 32nd America's Cup: The Game | 72609 | [72609-32nd-americas-cup-the-game.json](./72609-32nd-americas-cup-the-game.json) |
 | 33 Rounds | 126563 | [126563-33-rounds.json](./126563-33-rounds.json) |
 | 33 Seconds | 208056 | [208056-33-seconds.json](./208056-33-seconds.json) |
+| 35 Electric | 382899 | [382899-35-electric.json](./382899-35-electric.json) |
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
 | 365 Days | 29917 | [29917-365-days.json](./29917-365-days.json) |
 | 372756 | 397771 | [397771-372756.json](./397771-372756.json) |
 | 38 Man Kilo no Kokuu File 1: A Day in the Life of 2049 | 84171 | [84171-38-man-kilo-no-kokuu-file-1-a-day-in-the-life-of-2049.json](./84171-38-man-kilo-no-kokuu-file-1-a-day-in-the-life-of-2049.json) |
+| 3876 AD: Corruption | 382893 | [382893-3876-ad-corruption.json](./382893-3876-ad-corruption.json) |
 | 39 Days to Mars | 32125 | [32125-39-days-to-mars.json](./32125-39-days-to-mars.json) |
 | 3918 | 63235 | [63235-3918.json](./63235-3918.json) |
 | 3Buttons | 110352 | [110352-3buttons.json](./110352-3buttons.json) |
