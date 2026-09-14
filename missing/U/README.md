@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Space Commando | 35963 | [35963-ultimate-space-commando.json](./35963-ultimate-space-commando.json) |
 | Ultimate Spider-Man | 4225 | [4225-ultimate-spider-man.json](./4225-ultimate-spider-man.json) |
 | Ultimate Spider-Man in the Villain Round-Up | 220114 | [220114-ultimate-spider-man-in-the-villain-round-up.json](./220114-ultimate-spider-man-in-the-villain-round-up.json) |
+| Ultimate Spider-Man: Limited Edition | 381722 | [381722-ultimate-spider-man-limited-edition.json](./381722-ultimate-spider-man-limited-edition.json) |
 | Ultimate Starfighter | 201245 | [201245-ultimate-starfighter.json](./201245-ultimate-starfighter.json) |
 | Ultimate Summer Boat | 51982 | [51982-ultimate-summer-boat.json](./51982-ultimate-summer-boat.json) |
 | Ultimate Super Bean | 414299 | [414299-ultimate-super-bean.json](./414299-ultimate-super-bean.json) |
@@ -498,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhinged 2 | 245864 | [245864-unhinged-2.json](./245864-unhinged-2.json) |
 | Unhold | 407330 | [407330-unhold.json](./407330-unhold.json) |
 | Unholy | 90213 | [90213-unholy.json](./90213-unholy.json) |
+| Unholy Adventure: Mystery | 381711 | [381711-unholy-adventure-mystery.json](./381711-unholy-adventure-mystery.json) |
 | Unholy Arts | 135882 | [135882-unholy-arts.json](./135882-unholy-arts.json) |
 | Unholy Legacy | 306361 | [306361-unholy-legacy.json](./306361-unholy-legacy.json) |
 | Unholy Night: The Darkness Hunter | 26502 | [26502-unholy-night-the-darkness-hunter.json](./26502-unholy-night-the-darkness-hunter.json) |
