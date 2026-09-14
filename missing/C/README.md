@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CCTV | 264863 | [264863-cctv.json](./264863-cctv.json) |
 | CD Battle: Hikari no Yuushi-tachi | 267948 | [267948-cd-battle-hikari-no-yuushi-tachi.json](./267948-cd-battle-hikari-no-yuushi-tachi.json) |
 | CD-Run | 127226 | [127226-cd-run.json](./127226-cd-run.json) |
+| CDF Ghostship | 16844 | [16844-cdf-ghostship.json](./16844-cdf-ghostship.json) |
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
 | Ceci and the Gnomes | 207812 | [207812-ceci-and-the-gnomes.json](./207812-ceci-and-the-gnomes.json) |
 | Cecil Hollow | 253613 | [253613-cecil-hollow.json](./253613-cecil-hollow.json) |
@@ -2682,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Sakka Series Touma Senki #3: Ryuujin Sensei Kiki Ippatsu | 41352 | [41352-comic-sakka-series-touma-senki-3-ryuujin-sensei-kiki-ippatsu.json](./41352-comic-sakka-series-touma-senki-3-ryuujin-sensei-kiki-ippatsu.json) |
 | Comic Sakka Series Touma Senki #4: Tenkuu Ryuumaou Fukkatsu | 41351 | [41351-comic-sakka-series-touma-senki-4-tenkuu-ryuumaou-fukkatsu.json](./41351-comic-sakka-series-touma-senki-4-tenkuu-ryuumaou-fukkatsu.json) |
 | Comic Sakka Series Touma Senki #5: Youjuu Rudo no Chousen | 41350 | [41350-comic-sakka-series-touma-senki-5-youjuu-rudo-no-chousen.json](./41350-comic-sakka-series-touma-senki-5-youjuu-rudo-no-chousen.json) |
+| Comicado | 16858 | [16858-comicado.json](./16858-comicado.json) |
 | Coming Back | 183545 | [183545-coming-back.json](./183545-coming-back.json) |
 | Coming Home | 347152 | [347152-coming-home.json](./347152-coming-home.json) |
 | Coming home absolutely twisted with a load of swords | 178034 | [178034-coming-home-absolutely-twisted-with-a-load-of-swords.json](./178034-coming-home-absolutely-twisted-with-a-load-of-swords.json) |
@@ -3523,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Kitchen | 265675 | [265675-crazy-kitchen.json](./265675-crazy-kitchen.json) |
 | Crazy Machines 2 | 197893 | [197893-crazy-machines-2.json](./197893-crazy-machines-2.json) |
 | Crazy Machines VR | 111042 | [111042-crazy-machines-vr.json](./111042-crazy-machines-vr.json) |
+| Crazy Machines: Golden Gears | 16865 | [16865-crazy-machines-golden-gears.json](./16865-crazy-machines-golden-gears.json) |
 | Crazy Market | 62750 | [62750-crazy-market.json](./62750-crazy-market.json) |
 | Crazy Mob | 61603 | [61603-crazy-mob.json](./61603-crazy-mob.json) |
 | Crazy Monster Truck Smasher | 89160 | [89160-crazy-monster-truck-smasher.json](./89160-crazy-monster-truck-smasher.json) |
@@ -3971,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube | 272548 | [272548-cube.json](./272548-cube.json) |
 | Cube | 385600 | [385600-cube.json](./385600-cube.json) |
 | Cube | 396933 | [396933-cube.json](./396933-cube.json) |
+| Cube & Star: An Arbitrary Love | 16812 | [16812-cube-and-star-an-arbitrary-love.json](./16812-cube-and-star-an-arbitrary-love.json) |
 | Cube 332 | 109729 | [109729-cube-332.json](./109729-cube-332.json) |
 | Cube Airport | 249186 | [249186-cube-airport.json](./249186-cube-airport.json) |
 | Cube Arena | 304900 | [304900-cube-arena.json](./304900-cube-arena.json) |
