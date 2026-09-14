@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoirs of Murder: Resorting to Revenge | 322579 | [322579-memoirs-of-murder-resorting-to-revenge.json](./322579-memoirs-of-murder-resorting-to-revenge.json) |
 | Memoirs of Murder: Welcome to Hidden Pines | 322578 | [322578-memoirs-of-murder-welcome-to-hidden-pines.json](./322578-memoirs-of-murder-welcome-to-hidden-pines.json) |
 | Memolith: Forsaken by Light | 399744 | [399744-memolith-forsaken-by-light.json](./399744-memolith-forsaken-by-light.json) |
+| Memorel Restoration Project | 380525 | [380525-memorel-restoration-project.json](./380525-memorel-restoration-project.json) |
 | Memori | 251579 | [251579-memori.json](./251579-memori.json) |
 | Memoria | 191172 | [191172-memoria.json](./191172-memoria.json) |
 | Memoria Project | 193969 | [193969-memoria-project.json](./193969-memoria-project.json) |
@@ -1919,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black | 270678 | [270678-men-in-black.json](./270678-men-in-black.json) |
 | Men in Black 2: The Series | 49912 | [49912-men-in-black-2-the-series.json](./49912-men-in-black-2-the-series.json) |
 | Men in Black II: Alien Escape | 4003 | [4003-men-in-black-ii-alien-escape.json](./4003-men-in-black-ii-alien-escape.json) |
+| Men in Black: Most Wanted | 380570 | [380570-men-in-black-most-wanted.json](./380570-men-in-black-most-wanted.json) |
 | Men in Black: The Game | 12898 | [12898-men-in-black-the-game.json](./12898-men-in-black-the-game.json) |
 | Men's Room Mayhem | 52590 | [52590-mens-room-mayhem.json](./52590-mens-room-mayhem.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
@@ -3629,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
 | MonsterS in haha Island | 54464 | [54464-monsters-in-haha-island.json](./54464-monsters-in-haha-island.json) |
 | Monsters Inc.: Scream Team Training | 281988 | [281988-monsters-inc-scream-team-training.json](./281988-monsters-inc-scream-team-training.json) |
+| Monsters James P. Sullivan Stomach Doctor | 380550 | [380550-monsters-james-p-sullivan-stomach-doctor.json](./380550-monsters-james-p-sullivan-stomach-doctor.json) |
 | Monsters Lair | 356669 | [356669-monsters-lair.json](./356669-monsters-lair.json) |
 | Monsters Love Candy | 63852 | [63852-monsters-love-candy.json](./63852-monsters-love-candy.json) |
 | Monsters of Kanji 2 | 124205 | [124205-monsters-of-kanji-2.json](./124205-monsters-of-kanji-2.json) |
