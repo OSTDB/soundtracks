@@ -2870,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory 6 | 250924 | [250924-rune-factory-6.json](./250924-rune-factory-6.json) |
 | Rune Factory Frontier | 5132 | [5132-rune-factory-frontier.json](./5132-rune-factory-frontier.json) |
 | Rune Factory: Tides of Destiny | 5133 | [5133-rune-factory-tides-of-destiny.json](./5133-rune-factory-tides-of-destiny.json) |
+| Rune Gunner | 383475 | [383475-rune-gunner.json](./383475-rune-gunner.json) |
 | Rune II | 55149 | [55149-rune-ii.json](./55149-rune-ii.json) |
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
