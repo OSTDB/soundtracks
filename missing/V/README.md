@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice of Flowers | 274503 | [274503-voice-of-flowers.json](./274503-voice-of-flowers.json) |
 | Voice of God | 181349 | [181349-voice-of-god.json](./181349-voice-of-god.json) |
 | Voice of Nature | 386708 | [386708-voice-of-nature.json](./386708-voice-of-nature.json) |
+| Voice of Pripyat | 16920 | [16920-voice-of-pripyat.json](./16920-voice-of-pripyat.json) |
 | Voice of the Killer | 150094 | [150094-voice-of-the-killer.json](./150094-voice-of-the-killer.json) |
 | Voice of the Wizard by Brett Farkas | 221179 | [221179-voice-of-the-wizard-by-brett-farkas.json](./221179-voice-of-the-wizard-by-brett-farkas.json) |
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
@@ -831,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vos en Haas: Het plan van Haas | 98923 | [98923-vos-en-haas-het-plan-van-haas.json](./98923-vos-en-haas-het-plan-van-haas.json) |
 | Vosphia | 224558 | [224558-vosphia.json](./224558-vosphia.json) |
 | Vows of Eternity | 298872 | [298872-vows-of-eternity.json](./298872-vows-of-eternity.json) |
+| Vox | 16686 | [16686-vox.json](./16686-vox.json) |
 | Vox Battles | 282026 | [282026-vox-battles.json](./282026-vox-battles.json) |
 | Vox in Tenebris | 349314 | [349314-vox-in-tenebris.json](./349314-vox-in-tenebris.json) |
 | Vox Populi Vox Dei 2 | 35892 | [35892-vox-populi-vox-dei-2.json](./35892-vox-populi-vox-dei-2.json) |
