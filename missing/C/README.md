@@ -2934,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consensual Torture Simulator | 15446 | [15446-consensual-torture-simulator.json](./15446-consensual-torture-simulator.json) |
 | Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
 | Considerable Grandfather: It Followed Me Home | 408784 | [408784-considerable-grandfather-it-followed-me-home.json](./408784-considerable-grandfather-it-followed-me-home.json) |
+| Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | Console Colour: Disney's Planes | 407308 | [407308-console-colour-disneys-planes.json](./407308-console-colour-disneys-planes.json) |
 | Console Info: 2010 Edition | 91399 | [91399-console-info-2010-edition.json](./91399-console-info-2010-edition.json) |
@@ -3318,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Court of Ashes | 120941 | [120941-court-of-ashes.json](./120941-court-of-ashes.json) |
 | Court of Darkness: Captivation's Kiss | 399622 | [399622-court-of-darkness-captivations-kiss.json](./399622-court-of-darkness-captivations-kiss.json) |
 | Courting Death | 318791 | [318791-courting-death.json](./318791-courting-death.json) |
+| Courtroom Chaos: Starring Arnold Schwarzenegger | 410347 | [410347-courtroom-chaos-starring-arnold-schwarzenegger.json](./410347-courtroom-chaos-starring-arnold-schwarzenegger.json) |
 | Courtroom Chaos: Starring Snoop Dogg | 371262 | [371262-courtroom-chaos-starring-snoop-dogg.json](./371262-courtroom-chaos-starring-snoop-dogg.json) |
 | Covenant | 324911 | [324911-covenant.json](./324911-covenant.json) |
 | Covenant of Anubis | 348771 | [348771-covenant-of-anubis.json](./348771-covenant-of-anubis.json) |
