@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maidens of a Hollow Dream | 90257 | [90257-maidens-of-a-hollow-dream.json](./90257-maidens-of-a-hollow-dream.json) |
 | MaidGardener | 253904 | [253904-maidgardener.json](./253904-maidgardener.json) |
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
+| Maikuro: Ore ga Watashi de Boku ga Atashi de | 417607 | [417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json](./417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json) |
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
 | Mail Plane | 41981 | [41981-mail-plane.json](./41981-mail-plane.json) |
 | Mail Rabbit | 176417 | [176417-mail-rabbit.json](./176417-mail-rabbit.json) |
@@ -3761,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Shell: Rotten Autumn | 229714 | [229714-mortal-shell-rotten-autumn.json](./229714-mortal-shell-rotten-autumn.json) |
 | Mortal Weapon | 74333 | [74333-mortal-weapon.json](./74333-mortal-weapon.json) |
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
+| Mortality... Please | 417597 | [417597-mortality-please.json](./417597-mortality-please.json) |
 | Mortarmen | 259019 | [259019-mortarmen.json](./259019-mortarmen.json) |
 | Mortars VR | 81138 | [81138-mortars-vr.json](./81138-mortars-vr.json) |
 | Morterra | 177015 | [177015-morterra.json](./177015-morterra.json) |
@@ -4060,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Rufiia's Struggle for Repayment: To Be a Lewd Arcdaemon | 82882 | [82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json](./82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json) |
 | Ms. Squeaker's Home for the Sick | 109402 | [109402-ms-squeakers-home-for-the-sick.json](./109402-ms-squeakers-home-for-the-sick.json) |
 | MSCR | 310930 | [310930-mscr.json](./310930-mscr.json) |
+| MSO FreeCell Arena | 417561 | [417561-mso-freecell-arena.json](./417561-mso-freecell-arena.json) |
 | Msoids | 199081 | [199081-msoids.json](./199081-msoids.json) |
 | MSSP 9: New Pietniemi | 308263 | [308263-mssp-9-new-pietniemi.json](./308263-mssp-9-new-pietniemi.json) |
 | MSSP8 | 308262 | [308262-mssp8.json](./308262-mssp8.json) |
@@ -4216,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murky Horizon | 66622 | [66622-murky-horizon.json](./66622-murky-horizon.json) |
 | Murmeln und mehr ... | 86061 | [86061-murmeln-und-mehr.json](./86061-murmeln-und-mehr.json) |
 | MurMur | 239333 | [239333-murmur.json](./239333-murmur.json) |
+| Murmuring of Moth Mouth | 417596 | [417596-murmuring-of-moth-mouth.json](./417596-murmuring-of-moth-mouth.json) |
 | Murnatan | 62718 | [62718-murnatan.json](./62718-murnatan.json) |
 | Murphy's Minerals | 330157 | [330157-murphys-minerals.json](./330157-murphys-minerals.json) |
 | Musasabi | 122375 | [122375-musasabi.json](./122375-musasabi.json) |
@@ -4405,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Girlfriend is a Musician | 195171 | [195171-my-girlfriend-is-a-musician.json](./195171-my-girlfriend-is-a-musician.json) |
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
 | My Goddess of Love | 114406 | [114406-my-goddess-of-love.json](./114406-my-goddess-of-love.json) |
+| My Group Members Suck!! | 417572 | [417572-my-group-members-suck.json](./417572-my-group-members-suck.json) |
 | My Hayami-Chan | 199040 | [199040-my-hayami-chan.json](./199040-my-hayami-chan.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
 | My Heart Grows Fonder | 117653 | [117653-my-heart-grows-fonder.json](./117653-my-heart-grows-fonder.json) |
