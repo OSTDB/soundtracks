@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeb Defender | 244777 | [244777-seeb-defender.json](./244777-seeb-defender.json) |
 | Seed In | 266787 | [266787-seed-in.json](./266787-seed-in.json) |
 | Seed of Agony | 173307 | [173307-seed-of-agony.json](./173307-seed-of-agony.json) |
+| Seed of Dragon | 400959 | [400959-seed-of-dragon.json](./400959-seed-of-dragon.json) |
 | Seed of Pandora: Legend of the Gaia Tree | 237051 | [237051-seed-of-pandora-legend-of-the-gaia-tree.json](./237051-seed-of-pandora-legend-of-the-gaia-tree.json) |
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
 | Seedbo And That Time The Sun Exploded | 325829 | [325829-seedbo-and-that-time-the-sun-exploded.json](./325829-seedbo-and-that-time-the-sun-exploded.json) |
@@ -3794,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Home Story | 354999 | [354999-solitaire-home-story.json](./354999-solitaire-home-story.json) |
 | Solitaire Klondike Pro. | 101601 | [101601-solitaire-klondike-pro.json](./101601-solitaire-klondike-pro.json) |
 | Solitaire Lounge | 25703 | [25703-solitaire-lounge.json](./25703-solitaire-lounge.json) |
+| Solitaire Mahjong: Ancient China Adventure | 401017 | [401017-solitaire-mahjong-ancient-china-adventure.json](./401017-solitaire-mahjong-ancient-china-adventure.json) |
 | Solitaire Master VS | 212271 | [212271-solitaire-master-vs.json](./212271-solitaire-master-vs.json) |
 | Solitaire Match 2 Cards | 89858 | [89858-solitaire-match-2-cards.json](./89858-solitaire-match-2-cards.json) |
 | Solitaire Match 2 Cards. Thanksgiving Day | 199574 | [199574-solitaire-match-2-cards-thanksgiving-day.json](./199574-solitaire-match-2-cards-thanksgiving-day.json) |
@@ -3802,6 +3804,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Paradise: Tripeaks | 106528 | [106528-solitaire-paradise-tripeaks.json](./106528-solitaire-paradise-tripeaks.json) |
 | Solitaire Poker | 19493 | [19493-solitaire-poker.json](./19493-solitaire-poker.json) |
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
+| Solitaire Royale | 400982 | [400982-solitaire-royale.json](./400982-solitaire-royale.json) |
+| Solitaire Royale | 400988 | [400988-solitaire-royale.json](./400988-solitaire-royale.json) |
+| Solitaire Royale | 400989 | [400989-solitaire-royale.json](./400989-solitaire-royale.json) |
+| Solitaire Royale | 400990 | [400990-solitaire-royale.json](./400990-solitaire-royale.json) |
 | Solitaire Stories | 180280 | [180280-solitaire-stories.json](./180280-solitaire-stories.json) |
 | Solitaire Story 3 | 205024 | [205024-solitaire-story-3.json](./205024-solitaire-story-3.json) |
 | Solitaire Superstars | 96764 | [96764-solitaire-superstars.json](./96764-solitaire-superstars.json) |
@@ -4107,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog | 261243 | [261243-sonic-the-hedgehog.json](./261243-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 264886 | [264886-sonic-the-hedgehog.json](./264886-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 6231 | [6231-sonic-the-hedgehog.json](./6231-sonic-the-hedgehog.json) |
+| Sonic the Hedgehog 1996 | 400967 | [400967-sonic-the-hedgehog-1996.json](./400967-sonic-the-hedgehog-1996.json) |
 | Sonic the Hedgehog 2 | 112884 | [112884-sonic-the-hedgehog-2.json](./112884-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 239069 | [239069-sonic-the-hedgehog-2.json](./239069-sonic-the-hedgehog-2.json) |
 | Sonic The Hedgehog 2: Archives | 332835 | [332835-sonic-the-hedgehog-2-archives.json](./332835-sonic-the-hedgehog-2-archives.json) |
@@ -4201,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophia - My Little Sis | 86824 | [86824-sophia-my-little-sis.json](./86824-sophia-my-little-sis.json) |
 | Sophia and the Mansion of Doubt | 82897 | [82897-sophia-and-the-mansion-of-doubt.json](./82897-sophia-and-the-mansion-of-doubt.json) |
 | Sophias Pizza Restaurant | 293636 | [293636-sophias-pizza-restaurant.json](./293636-sophias-pizza-restaurant.json) |
+| Sophie's Grids | 400970 | [400970-sophies-grids.json](./400970-sophies-grids.json) |
 | Sophie's Safecracking Simulator | 152924 | [152924-sophies-safecracking-simulator.json](./152924-sophies-safecracking-simulator.json) |
 | Sophie's World | 73234 | [73234-sophies-world.json](./73234-sophies-world.json) |
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
@@ -6285,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StoryKingdom | 255706 | [255706-storykingdom.json](./255706-storykingdom.json) |
 | Storyseeker | 135252 | [135252-storyseeker.json](./135252-storyseeker.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
+| Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
 | Stradale Racing Simulator | 175380 | [175380-stradale-racing-simulator.json](./175380-stradale-racing-simulator.json) |
 | Straftat | 253558 | [253558-straftat.json](./253558-straftat.json) |
