@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Sector | 173285 | [173285-far-sector.json](./173285-far-sector.json) |
 | Far Side of the Mirror | 368511 | [368511-far-side-of-the-mirror.json](./368511-far-side-of-the-mirror.json) |
 | Far Til Fire: Gi'r Aldrig Op | 129779 | [129779-far-til-fire-gir-aldrig-op.json](./129779-far-til-fire-gir-aldrig-op.json) |
+| Far-Out | 34792 | [34792-far-out.json](./34792-far-out.json) |
 | Farabel | 24965 | [24965-farabel.json](./24965-farabel.json) |
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
 | Faraway | 325275 | [325275-faraway.json](./325275-faraway.json) |
@@ -525,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
 | Farm Expert 2017 | 25105 | [25105-farm-expert-2017.json](./25105-farm-expert-2017.json) |
 | Farm Expert 2019 | 112334 | [112334-farm-expert-2019.json](./112334-farm-expert-2019.json) |
+| Farm Frenzy Collection | 34762 | [34762-farm-frenzy-collection.json](./34762-farm-frenzy-collection.json) |
 | Farm Frenzy: Animal Country | 201278 | [201278-farm-frenzy-animal-country.json](./201278-farm-frenzy-animal-country.json) |
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
 | Farm Invaders | 324319 | [324319-farm-invaders.json](./324319-farm-invaders.json) |
@@ -834,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrule Instincts | 211952 | [211952-ferrule-instincts.json](./211952-ferrule-instincts.json) |
 | Ferrum | 406729 | [406729-ferrum.json](./406729-ferrum.json) |
 | Ferrum inc | 199571 | [199571-ferrum-inc.json](./199571-ferrum-inc.json) |
+| Ferrum's Secrets: where is grandpa? | 34729 | [34729-ferrums-secrets-where-is-grandpa.json](./34729-ferrums-secrets-where-is-grandpa.json) |
 | Fest Guests | 302389 | [302389-fest-guests.json](./302389-fest-guests.json) |
 | Fester's Quest | 5343 | [5343-festers-quest.json](./5343-festers-quest.json) |
 | Festival of the Spirit | 183541 | [183541-festival-of-the-spirit.json](./183541-festival-of-the-spirit.json) |
