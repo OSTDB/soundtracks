@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamarak Trail | 240982 | [240982-tamarak-trail.json](./240982-tamarak-trail.json) |
 | Tamas: Shadowveil | 410963 | [410963-tamas-shadowveil.json](./410963-tamas-shadowveil.json) |
 | TamaTown Tama-Go | 229958 | [229958-tamatown-tama-go.json](./229958-tamatown-tama-go.json) |
+| Tamaweb | 383530 | [383530-tamaweb.json](./383530-tamaweb.json) |
 | Tamaya | 55113 | [55113-tamaya.json](./55113-tamaya.json) |
 | Tamayura Mirai | 240818 | [240818-tamayura-mirai.json](./240818-tamayura-mirai.json) |
 | Tambo: The Last Night | 389578 | [389578-tambo-the-last-night.json](./389578-tambo-the-last-night.json) |
@@ -1408,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apple Tree | 208594 | [208594-the-apple-tree.json](./208594-the-apple-tree.json) |
 | The Apprentice | 410315 | [410315-the-apprentice.json](./410315-the-apprentice.json) |
 | The Apprentice: Los Angeles | 73815 | [73815-the-apprentice-los-angeles.json](./73815-the-apprentice-los-angeles.json) |
+| The Approaching Quiet | 383494 | [383494-the-approaching-quiet.json](./383494-the-approaching-quiet.json) |
 | The ​Aquarium Does Not Dance | 243398 | [243398-the-aquarium-does-not-dance.json](./243398-the-aquarium-does-not-dance.json) |
 | The Aquarium of Luck | 85434 | [85434-the-aquarium-of-luck.json](./85434-the-aquarium-of-luck.json) |
 | The Aquatic Adventure of the Last Human | 12598 | [12598-the-aquatic-adventure-of-the-last-human.json](./12598-the-aquatic-adventure-of-the-last-human.json) |
@@ -7363,8 +7365,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
 | Truck Simulator 3 | 231069 | [231069-truck-simulator-3.json](./231069-truck-simulator-3.json) |
 | Truck Simulator Collection | 275886 | [275886-truck-simulator-collection.json](./275886-truck-simulator-collection.json) |
+| Truck Simulator Drive USA: EVO | 383516 | [383516-truck-simulator-drive-usa-evo.json](./383516-truck-simulator-drive-usa-evo.json) |
 | Truck Simulator PRO 2 | 88947 | [88947-truck-simulator-pro-2.json](./88947-truck-simulator-pro-2.json) |
 | Truck Simulator PRO 2016 | 89133 | [89133-truck-simulator-pro-2016.json](./89133-truck-simulator-pro-2016.json) |
+| Truck Simulator: European Roads | 383514 | [383514-truck-simulator-european-roads.json](./383514-truck-simulator-european-roads.json) |
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
 | Truck Truck | 157197 | [157197-truck-truck.json](./157197-truck-truck.json) |
