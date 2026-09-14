@@ -2011,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Director 2019 | 112986 | [112986-football-director-2019.json](./112986-football-director-2019.json) |
 | Football Frenzy | 39649 | [39649-football-frenzy.json](./39649-football-frenzy.json) |
 | Football Fury | 42551 | [42551-football-fury.json](./42551-football-fury.json) |
+| Football General Manager | 90206 | [90206-football-general-manager.json](./90206-football-general-manager.json) |
 | Football girl | 161366 | [161366-football-girl.json](./161366-football-girl.json) |
 | Football Granny | 107160 | [107160-football-granny.json](./107160-football-granny.json) |
 | Football Hero | 262060 | [262060-football-hero.json](./262060-football-hero.json) |
@@ -2271,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress of the Undead | 248075 | [248075-fortress-of-the-undead.json](./248075-fortress-of-the-undead.json) |
 | Fortress of Zorlac | 319579 | [319579-fortress-of-zorlac.json](./319579-fortress-of-zorlac.json) |
 | Fortress S | 247491 | [247491-fortress-s.json](./247491-fortress-s.json) |
+| Fortress Under Siege | 89795 | [89795-fortress-under-siege.json](./89795-fortress-under-siege.json) |
 | FortressCraft Evolved!: Frozen Factory | 167319 | [167319-fortresscraft-evolved-frozen-factory.json](./167319-fortresscraft-evolved-frozen-factory.json) |
 | FortressCraft: Chapter 1 | 168834 | [168834-fortresscraft-chapter-1.json](./168834-fortresscraft-chapter-1.json) |
 | Forts: High Seas | 195771 | [195771-forts-high-seas.json](./195771-forts-high-seas.json) |
@@ -2605,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frigid VR | 172733 | [172733-frigid-vr.json](./172733-frigid-vr.json) |
 | Friki | 153406 | [153406-friki.json](./153406-friki.json) |
 | Fringes of the Empire | 34426 | [34426-fringes-of-the-empire.json](./34426-fringes-of-the-empire.json) |
+| Frio2 - Memory of my sister | 90004 | [90004-frio2-memory-of-my-sister.json](./90004-frio2-memory-of-my-sister.json) |
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
 | Friquiz | 135812 | [135812-friquiz.json](./135812-friquiz.json) |
 | Frisbee Fumbling | 322553 | [322553-frisbee-fumbling.json](./322553-frisbee-fumbling.json) |
