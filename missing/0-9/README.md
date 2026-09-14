@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 150 Floors | 228439 | [228439-150-floors.json](./228439-150-floors.json) |
 | 1500 DS Spirits Vol. 4: Reversi | 100196 | [100196-1500-ds-spirits-vol-4-reversi.json](./100196-1500-ds-spirits-vol-4-reversi.json) |
 | 15th Prison | 316431 | [316431-15th-prison.json](./316431-15th-prison.json) |
+| 16 Personalities Simulator | 397789 | [397789-16-personalities-simulator.json](./397789-16-personalities-simulator.json) |
 | 16bit-Collection Athena Vol. 01 | 97891 | [97891-16bit-collection-athena-vol-01.json](./97891-16bit-collection-athena-vol-01.json) |
 | 16bit-Collection Culture Brain Vol. 02 | 97888 | [97888-16bit-collection-culture-brain-vol-02.json](./97888-16bit-collection-culture-brain-vol-02.json) |
 | 16bit-Collection Data East Vol. 02 | 97894 | [97894-16bit-collection-data-east-vol-02.json](./97894-16bit-collection-data-east-vol-02.json) |
@@ -333,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
 | 365 Days | 29917 | [29917-365-days.json](./29917-365-days.json) |
+| 372756 | 397771 | [397771-372756.json](./397771-372756.json) |
 | 38 Man Kilo no Kokuu File 1: A Day in the Life of 2049 | 84171 | [84171-38-man-kilo-no-kokuu-file-1-a-day-in-the-life-of-2049.json](./84171-38-man-kilo-no-kokuu-file-1-a-day-in-the-life-of-2049.json) |
 | 39 Days to Mars | 32125 | [32125-39-days-to-mars.json](./32125-39-days-to-mars.json) |
 | 3918 | 63235 | [63235-3918.json](./63235-3918.json) |
