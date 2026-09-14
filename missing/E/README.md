@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliosi's Hunt | 32277 | [32277-eliosis-hunt.json](./32277-eliosis-hunt.json) |
 | EliosM: Red Battlefield | 174802 | [174802-eliosm-red-battlefield.json](./174802-eliosm-red-battlefield.json) |
 | Elisa: Seduce the Innkeeper | 63734 | [63734-elisa-seduce-the-innkeeper.json](./63734-elisa-seduce-the-innkeeper.json) |
+| Elise and the Spellbinding Marionette | 396388 | [396388-elise-and-the-spellbinding-marionette.json](./396388-elise-and-the-spellbinding-marionette.json) |
 | Elise's Peepshow | 161377 | [161377-elises-peepshow.json](./161377-elises-peepshow.json) |
 | Elisius | 149040 | [149040-elisius.json](./149040-elisius.json) |
 | Elite Beasts | 381628 | [381628-elite-beasts.json](./381628-elite-beasts.json) |
@@ -1111,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Artist | 386136 | [386136-escape-artist.json](./386136-escape-artist.json) |
 | Escape Block King | 402311 | [402311-escape-block-king.json](./402311-escape-block-king.json) |
 | Escape Blocks | 295269 | [295269-escape-blocks.json](./295269-escape-blocks.json) |
+| Escape By Spoon | 396421 | [396421-escape-by-spoon.json](./396421-escape-by-spoon.json) |
 | Escape Chase Monster | 219254 | [219254-escape-chase-monster.json](./219254-escape-chase-monster.json) |
 | Escape Chronicles | 241384 | [241384-escape-chronicles.json](./241384-escape-chronicles.json) |
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
