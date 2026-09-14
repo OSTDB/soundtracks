@@ -359,7 +359,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
 | Adventure In Aellion | 117691 | [117691-adventure-in-aellion.json](./117691-adventure-in-aellion.json) |
-| Adventure in King Caries Land | 117044 | [117044-adventure-in-king-caries-land.json](./117044-adventure-in-king-caries-land.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
 | Adventure in Space | 237670 | [237670-adventure-in-space.json](./237670-adventure-in-space.json) |
 | Adventure in the Park | 230846 | [230846-adventure-in-the-park.json](./230846-adventure-in-the-park.json) |
