@@ -2142,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Avenue | 205030 | [205030-blackjack-avenue.json](./205030-blackjack-avenue.json) |
 | Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
+| Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
 | Blackjack Wars | 372984 | [372984-blackjack-wars.json](./372984-blackjack-wars.json) |
 | BlackJack: Daily 21 Points | 87143 | [87143-blackjack-daily-21-points.json](./87143-blackjack-daily-21-points.json) |
 | Blackjack/Poker/Acey-Deucey | 100176 | [100176-blackjack-poker-acey-deucey.json](./100176-blackjack-poker-acey-deucey.json) |
@@ -2519,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood in the Panopticon | 395552 | [395552-blood-in-the-panopticon.json](./395552-blood-in-the-panopticon.json) |
 | Blood Kiss | 146247 | [146247-blood-kiss.json](./146247-blood-kiss.json) |
 | Blood Knights | 8421 | [8421-blood-knights.json](./8421-blood-knights.json) |
+| Blood Mall: Part II | 380553 | [380553-blood-mall-part-ii.json](./380553-blood-mall-part-ii.json) |
 | Blood Memery | 114948 | [114948-blood-memery.json](./114948-blood-memery.json) |
 | Blood Midnight Blossom | 258221 | [258221-blood-midnight-blossom.json](./258221-blood-midnight-blossom.json) |
 | Blood Money | 11968 | [11968-blood-money.json](./11968-blood-money.json) |
@@ -4022,6 +4024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Chef Tycoon: GOTY Edition | 273629 | [273629-burger-chef-tycoon-goty-edition.json](./273629-burger-chef-tycoon-goty-edition.json) |
 | Burger Fun | 205254 | [205254-burger-fun.json](./205254-burger-fun.json) |
 | Burger Jack | 65447 | [65447-burger-jack.json](./65447-burger-jack.json) |
+| Burger King Foot Lettuce | 380546 | [380546-burger-king-foot-lettuce.json](./380546-burger-king-foot-lettuce.json) |
 | Burger King Halloween Game | 238202 | [238202-burger-king-halloween-game.json](./238202-burger-king-halloween-game.json) |
 | Burger King Orientation CD-i Training | 182507 | [182507-burger-king-orientation-cd-i-training.json](./182507-burger-king-orientation-cd-i-training.json) |
 | Burger Kombat | 314291 | [314291-burger-kombat.json](./314291-burger-kombat.json) |
