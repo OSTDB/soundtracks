@@ -355,7 +355,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure C: The Ship of Doom | 72641 | [72641-adventure-c-the-ship-of-doom.json](./72641-adventure-c-the-ship-of-doom.json) |
 | AdVenture Capitalist | 9591 | [9591-adventure-capitalist.json](./9591-adventure-capitalist.json) |
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
-| Adventure Delivery Service | 104055 | [104055-adventure-delivery-service.json](./104055-adventure-delivery-service.json) |
 | Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
 | Adventure Escape Jetpack | 235225 | [235225-adventure-escape-jetpack.json](./235225-adventure-escape-jetpack.json) |
 | Adventure Escape Room Bundle | 247492 | [247492-adventure-escape-room-bundle.json](./247492-adventure-escape-room-bundle.json) |
