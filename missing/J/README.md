@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinsei 8-man-7000-kai no Shokuji wo Tanoshiku suru: Oishiku Kiwameru Shokutsuu DS - Otona no Shuumatsu Henshuu-bu Gensen no Osusume Tenpo Jouhou Iri | 269591 | [269591-jinsei-8-man-7000-kai-no-shokuji-wo-tanoshiku-suru-oishiku-kiwameru-shokutsuu-ds-otona-no-shuumatsu-henshuu-bu-gensen-no-osusume-tenpo-jouhou-iri.json](./269591-jinsei-8-man-7000-kai-no-shokuji-wo-tanoshiku-suru-oishiku-kiwameru-shokutsuu-ds-otona-no-shuumatsu-henshuu-bu-gensen-no-osusume-tenpo-jouhou-iri.json) |
 | Jinsei Game 64 | 3530 | [3530-jinsei-game-64.json](./3530-jinsei-game-64.json) |
 | Jinsei Game for Dreamcast | 131569 | [131569-jinsei-game-for-dreamcast.json](./131569-jinsei-game-for-dreamcast.json) |
+| Jinx 3: Escape From Area Fitty-Two | 383493 | [383493-jinx-3-escape-from-area-fitty-two.json](./383493-jinx-3-escape-from-area-fitty-two.json) |
 | Jīnyōng Qúnxiá Zhuán | 78043 | [78043-jinyong-qunxia-zhuan.json](./78043-jinyong-qunxia-zhuan.json) |
 | JiPS | 33203 | [33203-jips.json](./33203-jips.json) |
 | Jisatsu | 278971 | [278971-jisatsu.json](./278971-jisatsu.json) |
