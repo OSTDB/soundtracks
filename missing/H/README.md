@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H Girl 2 | 244271 | [244271-h-girl-2.json](./244271-h-girl-2.json) |
 | H Girl 4 | 301810 | [301810-h-girl-4.json](./301810-h-girl-4.json) |
 | h Simply Go | 91338 | [91338-h-simply-go.json](./91338-h-simply-go.json) |
+| H to Maid to My Home | 413760 | [413760-h-to-maid-to-my-home.json](./413760-h-to-maid-to-my-home.json) |
 | h What is the Common | 89806 | [89806-h-what-is-the-common.json](./89806-h-what-is-the-common.json) |
 | H.E.R.O. | 6112 | [6112-h-e-r-o.json](./6112-h-e-r-o.json) |
 | H.O.G.S | 296914 | [296914-h-o-g-s.json](./296914-h-o-g-s.json) |
@@ -2062,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honor in Vengeance | 66108 | [66108-honor-in-vengeance.json](./66108-honor-in-vengeance.json) |
 | Honshougi: Naitou 9 Dan Shougi Hiden | 267667 | [267667-honshougi-naitou-9-dan-shougi-hiden.json](./267667-honshougi-naitou-9-dan-shougi-hiden.json) |
 | Hontou ni Atta Real Otogi-banashi | 251611 | [251611-hontou-ni-atta-real-otogi-banashi.json](./251611-hontou-ni-atta-real-otogi-banashi.json) |
+| Hontou no Negaigoto | 413744 | [413744-hontou-no-negaigoto.json](./413744-hontou-no-negaigoto.json) |
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
 | Hoodwink | 20820 | [20820-hoodwink.json](./20820-hoodwink.json) |
 | Hoofdrekenen | 98950 | [98950-hoofdrekenen.json](./98950-hoofdrekenen.json) |
