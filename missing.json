@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T06:01:33.451Z",
-  "total_missing": 68680,
+  "generated_at": "2026-09-14T06:11:40.601Z",
+  "total_missing": 68682,
   "games": [
     {
       "igdb_id": 306086,
@@ -4211,11 +4211,6 @@
       "igdb_id": 305183,
       "game_name": "Adventure II",
       "file": "missing/A/305183-adventure-ii.json"
-    },
-    {
-      "igdb_id": 40783,
-      "game_name": "Adventure II",
-      "file": "missing/A/40783-adventure-ii.json"
     },
     {
       "igdb_id": 117691,
@@ -69591,6 +69586,11 @@
       "igdb_id": 250357,
       "game_name": "Delven",
       "file": "missing/D/250357-delven.json"
+    },
+    {
+      "igdb_id": 416683,
+      "game_name": "Delverun",
+      "file": "missing/D/416683-delverun.json"
     },
     {
       "igdb_id": 226748,
@@ -137656,6 +137656,11 @@
       "igdb_id": 414312,
       "game_name": "Indulge",
       "file": "missing/I/414312-indulge.json"
+    },
+    {
+      "igdb_id": 416684,
+      "game_name": "Industeria",
+      "file": "missing/I/416684-industeria.json"
     },
     {
       "igdb_id": 292878,
@@ -210591,6 +210596,11 @@
       "igdb_id": 246093,
       "game_name": "Piggy: Chapter 1",
       "file": "missing/P/246093-piggy-chapter-1.json"
+    },
+    {
+      "igdb_id": 416682,
+      "game_name": "Pigkour",
+      "file": "missing/P/416682-pigkour.json"
     },
     {
       "igdb_id": 314629,
