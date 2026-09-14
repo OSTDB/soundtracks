@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T10:03:51.142Z",
-  "total_missing": 69344,
+  "generated_at": "2026-09-14T10:11:40.803Z",
+  "total_missing": 69343,
   "games": [
     {
       "igdb_id": 306086,
@@ -4331,11 +4331,6 @@
       "igdb_id": 59923,
       "game_name": "Adventure Time: Rockstars of Ooo",
       "file": "missing/A/59923-adventure-time-rockstars-of-ooo.json"
-    },
-    {
-      "igdb_id": 38907,
-      "game_name": "Adventure Town",
-      "file": "missing/A/38907-adventure-town.json"
     },
     {
       "igdb_id": 212280,
