@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster Live: Fork My Fruit | 347138 | [347138-chessmaster-live-fork-my-fruit.json](./347138-chessmaster-live-fork-my-fruit.json) |
 | Chessmaster Live: Mushrooms Set | 347139 | [347139-chessmaster-live-mushrooms-set.json](./347139-chessmaster-live-mushrooms-set.json) |
 | Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
+| Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
 | Chest | 301274 | [301274-chest.json](./301274-chest.json) |
 | Chest Mate | 195240 | [195240-chest-mate.json](./195240-chest-mate.json) |
@@ -1783,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromocide: Prism of Sin | 294171 | [294171-chromocide-prism-of-sin.json](./294171-chromocide-prism-of-sin.json) |
 | Chromosome Evil | 116334 | [116334-chromosome-evil.json](./116334-chromosome-evil.json) |
 | Chromosome Evil: Map Editor | 232462 | [232462-chromosome-evil-map-editor.json](./232462-chromosome-evil-map-editor.json) |
+| Chrona & Sirona | 413716 | [413716-chrona-and-sirona.json](./413716-chrona-and-sirona.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
 | Chronescher | 203929 | [203929-chronescher.json](./203929-chronescher.json) |
 | Chronical | 276695 | [276695-chronical.json](./276695-chronical.json) |
@@ -2169,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClickBit | 76644 | [76644-clickbit.json](./76644-clickbit.json) |
 | ClickCells: CPU Girls | 385040 | [385040-clickcells-cpu-girls.json](./385040-clickcells-cpu-girls.json) |
 | ClickCells: Summer | 173834 | [173834-clickcells-summer.json](./173834-clickcells-summer.json) |
+| ClickCrafter | 413740 | [413740-clickcrafter.json](./413740-clickcrafter.json) |
 | ClickDragType | 320170 | [320170-clickdragtype.json](./320170-clickdragtype.json) |
 | Clickenzee | 84270 | [84270-clickenzee.json](./84270-clickenzee.json) |
 | Clicker Achievements: The Impossible Challenge | 103808 | [103808-clicker-achievements-the-impossible-challenge.json](./103808-clicker-achievements-the-impossible-challenge.json) |
@@ -2728,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Red Alert 3 - Ultimate Edition | 21205 | [21205-command-and-conquer-red-alert-3-ultimate-edition.json](./21205-command-and-conquer-red-alert-3-ultimate-edition.json) |
 | Command & Conquer: The Covert Operations | 663 | [663-command-and-conquer-the-covert-operations.json](./663-command-and-conquer-the-covert-operations.json) |
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
+| Command Monster | 413763 | [413763-command-monster.json](./413763-command-monster.json) |
 | Command Ops: Battles for Greece | 74324 | [74324-command-ops-battles-for-greece.json](./74324-command-ops-battles-for-greece.json) |
 | Command-Ω Omega | 357814 | [357814-command-omega.json](./357814-command-omega.json) |
 | Command: Modern Operations - Chains of War | 167870 | [167870-command-modern-operations-chains-of-war.json](./167870-command-modern-operations-chains-of-war.json) |
@@ -3422,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
+| Crank Racing! | 413731 | [413731-crank-racing.json](./413731-crank-racing.json) |
 | Crank Sudoku | 383965 | [383965-crank-sudoku.json](./383965-crank-sudoku.json) |
 | Crank the Weasel | 65481 | [65481-crank-the-weasel.json](./65481-crank-the-weasel.json) |
 | Crank Tower Defense | 347140 | [347140-crank-tower-defense.json](./347140-crank-tower-defense.json) |
