@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaside | 348270 | [348270-castaside.json](./348270-castaside.json) |
 | Castaway Coconuts | 307916 | [307916-castaway-coconuts.json](./307916-castaway-coconuts.json) |
 | Castaway Paradise | 36279 | [36279-castaway-paradise.json](./36279-castaway-paradise.json) |
+| Castaway Survival In Ocean: Build Your Own Raft, Craft | 409694 | [409694-castaway-survival-in-ocean-build-your-own-raft-craft.json](./409694-castaway-survival-in-ocean-build-your-own-raft-craft.json) |
 | Castaways VR | 120341 | [120341-castaways-vr.json](./120341-castaways-vr.json) |
 | Castelian | 295029 | [295029-castelian.json](./295029-castelian.json) |
 | Castellan | 411700 | [411700-castellan.json](./411700-castellan.json) |
@@ -1557,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Town | 212814 | [212814-chill-town.json](./212814-chill-town.json) |
 | Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
 | Chillin' | 308265 | [308265-chillin.json](./308265-chillin.json) |
+| Chilling Urban Legends | 409670 | [409670-chilling-urban-legends.json](./409670-chilling-urban-legends.json) |
 | Chilljong | 223505 | [223505-chilljong.json](./223505-chilljong.json) |
 | ChilloutVR | 121700 | [121700-chilloutvr.json](./121700-chilloutvr.json) |
 | Chillquarium | 236572 | [236572-chillquarium.json](./236572-chillquarium.json) |
