@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
 | Heartbeats | 338206 | [338206-heartbeats.json](./338206-heartbeats.json) |
 | HeartBound | 377566 | [377566-heartbound.json](./377566-heartbound.json) |
+| HeartFix Express | 391195 | [391195-heartfix-express.json](./391195-heartfix-express.json) |
 | Heartful Memories: Little Witch Parfait 2 | 332419 | [332419-heartful-memories-little-witch-parfait-2.json](./332419-heartful-memories-little-witch-parfait-2.json) |
 | Hearth's Light: Potion Shop | 239669 | [239669-hearths-light-potion-shop.json](./239669-hearths-light-potion-shop.json) |
 | Hearthstone: Forged in the Barrens | 143738 | [143738-hearthstone-forged-in-the-barrens.json](./143738-hearthstone-forged-in-the-barrens.json) |
@@ -2246,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Tales: The Beggar | 149523 | [149523-horror-tales-the-beggar.json](./149523-horror-tales-the-beggar.json) |
 | Horror Tour | 209625 | [209625-horror-tour.json](./209625-horror-tour.json) |
 | Horror Ville Maze Escape | 119713 | [119713-horror-ville-maze-escape.json](./119713-horror-ville-maze-escape.json) |
+| Horrors Above | 391185 | [391185-horrors-above.json](./391185-horrors-above.json) |
 | Horrors Glade | 333366 | [333366-horrors-glade.json](./333366-horrors-glade.json) |
 | Horse Divorce | 178032 | [178032-horse-divorce.json](./178032-horse-divorce.json) |
 | Horse Farm | 105275 | [105275-horse-farm.json](./105275-horse-farm.json) |
