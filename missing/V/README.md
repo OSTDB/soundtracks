@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vex 6 | 188039 | [188039-vex-6.json](./188039-vex-6.json) |
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
+| Veyrasol | 413754 | [413754-veyrasol.json](./413754-veyrasol.json) |
 | VFR Real Scenery: Birmingham, Coventry & Wolverhampton | 71464 | [71464-vfr-real-scenery-birmingham-coventry-and-wolverhampton.json](./71464-vfr-real-scenery-birmingham-coventry-and-wolverhampton.json) |
 | VFR Real Scenery: London | 70963 | [70963-vfr-real-scenery-london.json](./70963-vfr-real-scenery-london.json) |
 | VFR Real Scenery: South East England | 68680 | [68680-vfr-real-scenery-south-east-england.json](./68680-vfr-real-scenery-south-east-england.json) |
