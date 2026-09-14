@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Tycoon | 9203 | [9203-school-tycoon.json](./9203-school-tycoon.json) |
 | School: The Hardest RPG in Your Life | 263765 | [263765-school-the-hardest-rpg-in-your-life.json](./263765-school-the-hardest-rpg-in-your-life.json) |
 | Schoolboy Escape | 336376 | [336376-schoolboy-escape.json](./336376-schoolboy-escape.json) |
+| SchoolBoy Horror | 395667 | [395667-schoolboy-horror.json](./395667-schoolboy-horror.json) |
 | SchoolBoy Simulator | 335077 | [335077-schoolboy-simulator.json](./335077-schoolboy-simulator.json) |
 | SchoolMate | 22464 | [22464-schoolmate.json](./22464-schoolmate.json) |
 | SchoolMate Sweets! | 22466 | [22466-schoolmate-sweets.json](./22466-schoolmate-sweets.json) |
@@ -2829,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skip Around The World: Finland | 310947 | [310947-skip-around-the-world-finland.json](./310947-skip-around-the-world-finland.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
 | Skipper & Skeeto: The Shadow of Mr. Shade | 22353 | [22353-skipper-and-skeeto-the-shadow-of-mr-shade.json](./22353-skipper-and-skeeto-the-shadow-of-mr-shade.json) |
+| Skipper 2 | 395724 | [395724-skipper-2.json](./395724-skipper-2.json) |
 | Skippy the Bot | 163369 | [163369-skippy-the-bot.json](./163369-skippy-the-bot.json) |
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
@@ -3095,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Princess: Dungeon Escape | 403018 | [403018-slide-princess-dungeon-escape.json](./403018-slide-princess-dungeon-escape.json) |
 | Slide Ride Arcade | 32985 | [32985-slide-ride-arcade.json](./32985-slide-ride-arcade.json) |
 | Slide to Solve | 329592 | [329592-slide-to-solve.json](./329592-slide-to-solve.json) |
+| Slide Viking: Treasure's Path | 395664 | [395664-slide-viking-treasures-path.json](./395664-slide-viking-treasures-path.json) |
 | SlideNSlip | 166774 | [166774-slidenslip.json](./166774-slidenslip.json) |
 | Slider Scouts | 340387 | [340387-slider-scouts.json](./340387-slider-scouts.json) |
 | SlideRow | 120355 | [120355-sliderow.json](./120355-sliderow.json) |
@@ -6567,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikers | 219577 | [219577-strikers.json](./219577-strikers.json) |
 | Strikers 1945 III for Nintendo Switch | 212270 | [212270-strikers-1945-iii-for-nintendo-switch.json](./212270-strikers-1945-iii-for-nintendo-switch.json) |
 | Strimko | 54408 | [54408-strimko.json](./54408-strimko.json) |
+| Strimpland | 395698 | [395698-strimpland.json](./395698-strimpland.json) |
 | String Rush | 173236 | [173236-string-rush.json](./173236-string-rush.json) |
 | String Theory | 294149 | [294149-string-theory.json](./294149-string-theory.json) |
 | String.io | 108445 | [108445-string-io.json](./108445-string-io.json) |
