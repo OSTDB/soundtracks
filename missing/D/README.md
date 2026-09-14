@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data mining 2 | 110974 | [110974-data-mining-2.json](./110974-data-mining-2.json) |
 | Data Mutations | 108981 | [108981-data-mutations.json](./108981-data-mutations.json) |
 | Data Restored | 383944 | [383944-data-restored.json](./383944-data-restored.json) |
+| Data Trader | 399058 | [399058-data-trader.json](./399058-data-trader.json) |
 | Data.Expand | 260146 | [260146-data-expand.json](./260146-data-expand.json) |
 | Dataclysm | 327855 | [327855-dataclysm.json](./327855-dataclysm.json) |
 | DataFall | 393464 | [393464-datafall.json](./393464-datafall.json) |
@@ -692,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De:Void | 135813 | [135813-de-void.json](./135813-de-void.json) |
 | Dead Abyss | 321336 | [321336-dead-abyss.json](./321336-dead-abyss.json) |
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
+| Dead Before Work: The Commute | 399087 | [399087-dead-before-work-the-commute.json](./399087-dead-before-work-the-commute.json) |
 | Dead Bits | 8429 | [8429-dead-bits.json](./8429-dead-bits.json) |
 | Dead Blood: Survival FPS | 251234 | [251234-dead-blood-survival-fps.json](./251234-dead-blood-survival-fps.json) |
 | Dead Blue Rose | 304881 | [304881-dead-blue-rose.json](./304881-dead-blue-rose.json) |
