@@ -340,7 +340,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
 | Advanced Dungeons & Dragons: DragonStrike | 48113 | [48113-advanced-dungeons-and-dragons-dragonstrike.json](./48113-advanced-dungeons-and-dragons-dragonstrike.json) |
-| Advanced Dungeons & Dragons: Secret of the Silver Blades | 12760 | [12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json](./12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json) |
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Intelligence Surveillance Agency | 150651 | [150651-advanced-intelligence-surveillance-agency.json](./150651-advanced-intelligence-surveillance-agency.json) |
 | Advanced Lawnmower Simulator | 142432 | [142432-advanced-lawnmower-simulator.json](./142432-advanced-lawnmower-simulator.json) |
@@ -2279,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Sauce Western | 239067 | [239067-apple-sauce-western.json](./239067-apple-sauce-western.json) |
 | Apple Sauce X mas | 239070 | [239070-apple-sauce-x-mas.json](./239070-apple-sauce-x-mas.json) |
 | Appleseed: Prometheus no Shintaku | 38370 | [38370-appleseed-prometheus-no-shintaku.json](./38370-appleseed-prometheus-no-shintaku.json) |
+| AppleSnake | 51989 | [51989-applesnake.json](./51989-applesnake.json) |
 | AppleSnake: Christmas story | 88181 | [88181-applesnake-christmas-story.json](./88181-applesnake-christmas-story.json) |
 | Appli Archives: G-mode BurgerTime | 56422 | [56422-appli-archives-g-mode-burgertime.json](./56422-appli-archives-g-mode-burgertime.json) |
 | Appli Archives: Jaleco Momoko 1200% | 56418 | [56418-appli-archives-jaleco-momoko-1200.json](./56418-appli-archives-jaleco-momoko-1200.json) |
