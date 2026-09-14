@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winterfall | 308238 | [308238-winterfall.json](./308238-winterfall.json) |
 | Winterland Solitaire | 386137 | [386137-winterland-solitaire.json](./386137-winterland-solitaire.json) |
 | Winterland Solitaire 2 | 386132 | [386132-winterland-solitaire-2.json](./386132-winterland-solitaire-2.json) |
+| Winterland Solitaire 3 | 415966 | [415966-winterland-solitaire-3.json](./415966-winterland-solitaire-3.json) |
 | Winterlore II | 174284 | [174284-winterlore-ii.json](./174284-winterlore-ii.json) |
 | Wintersdawn in the Deep | 183591 | [183591-wintersdawn-in-the-deep.json](./183591-wintersdawn-in-the-deep.json) |
 | Wintersport | 68677 | [68677-wintersport.json](./68677-wintersport.json) |
@@ -1567,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderbook: Diggs Nightcrawler | 25090 | [25090-wonderbook-diggs-nightcrawler.json](./25090-wonderbook-diggs-nightcrawler.json) |
 | Wonderful Duck | 182991 | [182991-wonderful-duck.json](./182991-wonderful-duck.json) |
 | Wonderful Girls | 156620 | [156620-wonderful-girls.json](./156620-wonderful-girls.json) |
+| Wonderful Wizard Reverie | 415892 | [415892-wonderful-wizard-reverie.json](./415892-wonderful-wizard-reverie.json) |
 | Wonderia | 285979 | [285979-wonderia.json](./285979-wonderia.json) |
 | Wonderland | 95460 | [95460-wonderland.json](./95460-wonderland.json) |
 | Wonderland Mahjong | 415957 | [415957-wonderland-mahjong.json](./415957-wonderland-mahjong.json) |
@@ -1904,12 +1906,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Fair Jig Saw | 130865 | [130865-worlds-fair-jig-saw.json](./130865-worlds-fair-jig-saw.json) |
 | World's Fastest Pizza | 34599 | [34599-worlds-fastest-pizza.json](./34599-worlds-fastest-pizza.json) |
 | World's Greatest Cities Mosaics 10 | 294471 | [294471-worlds-greatest-cities-mosaics-10.json](./294471-worlds-greatest-cities-mosaics-10.json) |
+| World's Greatest Cities Mosaics 2 | 415863 | [415863-worlds-greatest-cities-mosaics-2.json](./415863-worlds-greatest-cities-mosaics-2.json) |
 | World's Greatest Cities Mosaics 4 | 415944 | [415944-worlds-greatest-cities-mosaics-4.json](./415944-worlds-greatest-cities-mosaics-4.json) |
 | World's Greatest Cities Mosaics 7 | 415945 | [415945-worlds-greatest-cities-mosaics-7.json](./415945-worlds-greatest-cities-mosaics-7.json) |
 | World's Greatest Cities Mosaics 9 | 415942 | [415942-worlds-greatest-cities-mosaics-9.json](./415942-worlds-greatest-cities-mosaics-9.json) |
 | World's Greatest Coasters | 73230 | [73230-worlds-greatest-coasters.json](./73230-worlds-greatest-coasters.json) |
 | World's Greatest Places Mosaics 2 | 415936 | [415936-worlds-greatest-places-mosaics-2.json](./415936-worlds-greatest-places-mosaics-2.json) |
 | World's Greatest Places Mosaics 3 | 415934 | [415934-worlds-greatest-places-mosaics-3.json](./415934-worlds-greatest-places-mosaics-3.json) |
+| World's Greatest Places Mosaics 4 | 415861 | [415861-worlds-greatest-places-mosaics-4.json](./415861-worlds-greatest-places-mosaics-4.json) |
 | World's Greatest Temples 2 | 415932 | [415932-worlds-greatest-temples-2.json](./415932-worlds-greatest-temples-2.json) |
 | World's Largest Pac-Man | 175992 | [175992-worlds-largest-pac-man.json](./175992-worlds-largest-pac-man.json) |
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
