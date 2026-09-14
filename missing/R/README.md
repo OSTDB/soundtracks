@@ -2029,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robodash | 257093 | [257093-robodash.json](./257093-robodash.json) |
 | RoboDeal Simulator | 406127 | [406127-robodeal-simulator.json](./406127-robodeal-simulator.json) |
 | RoboGal: Gaga Delta Lady | 306994 | [306994-robogal-gaga-delta-lady.json](./306994-robogal-gaga-delta-lady.json) |
+| RoboHero | 388195 | [388195-robohero.json](./388195-robohero.json) |
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
 | Robolifter | 227850 | [227850-robolifter.json](./227850-robolifter.json) |
 | Roboloop | 295776 | [295776-roboloop.json](./295776-roboloop.json) |
