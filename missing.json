@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T10:19:02.461Z",
-  "total_missing": 69393,
+  "generated_at": "2026-09-14T10:21:43.008Z",
+  "total_missing": 69392,
   "games": [
     {
       "igdb_id": 306086,
@@ -4336,11 +4336,6 @@
       "igdb_id": 59923,
       "game_name": "Adventure Time: Rockstars of Ooo",
       "file": "missing/A/59923-adventure-time-rockstars-of-ooo.json"
-    },
-    {
-      "igdb_id": 212280,
-      "game_name": "Adventure Trip: New York - Collector's Edition",
-      "file": "missing/A/212280-adventure-trip-new-york-collectors-edition.json"
     },
     {
       "igdb_id": 77327,
