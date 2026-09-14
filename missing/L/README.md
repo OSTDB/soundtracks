@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Undying: A Kiss Before Dawn | 302953 | [302953-love-undying-a-kiss-before-dawn.json](./302953-love-undying-a-kiss-before-dawn.json) |
 | Love Verne | 183585 | [183585-love-verne.json](./183585-love-verne.json) |
 | Love Vibe: Aria | 103464 | [103464-love-vibe-aria.json](./103464-love-vibe-aria.json) |
+| Love with Kadyrov | 383525 | [383525-love-with-kadyrov.json](./383525-love-with-kadyrov.json) |
 | Love x Fantasy: Horny Elf | 385057 | [385057-love-x-fantasy-horny-elf.json](./385057-love-x-fantasy-horny-elf.json) |
 | Love x Time | 235743 | [235743-love-x-time.json](./235743-love-x-time.json) |
 | Love You to Pieces | 392914 | [392914-love-you-to-pieces.json](./392914-love-you-to-pieces.json) |
