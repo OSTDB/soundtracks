@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | Apollo LM | 174288 | [174288-apollo-lm.json](./174288-apollo-lm.json) |
 | Apophis | 136490 | [136490-apophis.json](./136490-apophis.json) |
+| Apopia: Sugar Coated Tale | 392258 | [392258-apopia-sugar-coated-tale.json](./392258-apopia-sugar-coated-tale.json) |
 | Apoptosis | 383386 | [383386-apoptosis.json](./383386-apoptosis.json) |
 | Aporia in the Dark | 337449 | [337449-aporia-in-the-dark.json](./337449-aporia-in-the-dark.json) |
 | Aporia: Beyond the Valley - Deluxe Edition | 52596 | [52596-aporia-beyond-the-valley-deluxe-edition.json](./52596-aporia-beyond-the-valley-deluxe-edition.json) |
@@ -3533,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
 | Auto Battle | 19338 | [19338-auto-battle.json](./19338-auto-battle.json) |
+| Auto Chess Souls | 392249 | [392249-auto-chess-souls.json](./392249-auto-chess-souls.json) |
 | Auto Club Revolution | 80491 | [80491-auto-club-revolution.json](./80491-auto-club-revolution.json) |
 | Auto Dealership Tycoon | 34713 | [34713-auto-dealership-tycoon.json](./34713-auto-dealership-tycoon.json) |
 | Auto Hill Climb | 237658 | [237658-auto-hill-climb.json](./237658-auto-hill-climb.json) |
