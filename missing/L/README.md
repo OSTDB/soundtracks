@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightlike | 176464 | [176464-lightlike.json](./176464-lightlike.json) |
 | Lightmatter Anniversary | 340919 | [340919-lightmatter-anniversary.json](./340919-lightmatter-anniversary.json) |
 | Lightning Fast | 157141 | [157141-lightning-fast.json](./157141-lightning-fast.json) |
+| Lightning Link | 386224 | [386224-lightning-link.json](./386224-lightning-link.json) |
 | Lightning: D-Day | 47984 | [47984-lightning-d-day.json](./47984-lightning-d-day.json) |
 | Lightopus | 22316 | [22316-lightopus.json](./22316-lightopus.json) |
 | Lightout | 175388 | [175388-lightout.json](./175388-lightout.json) |
@@ -1310,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Big Horn | 226409 | [226409-little-big-horn.json](./226409-little-big-horn.json) |
 | Little Big Robots | 231931 | [231931-little-big-robots.json](./231931-little-big-robots.json) |
 | Little Big Workshop | 124131 | [124131-little-big-workshop.json](./124131-little-big-workshop.json) |
+| Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Bushman | 346039 | [346039-little-bushman.json](./346039-little-bushman.json) |
 | Little Caesars Fractions Pizza | 77302 | [77302-little-caesars-fractions-pizza.json](./77302-little-caesars-fractions-pizza.json) |
@@ -1971,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Live! School Idol Paradise | 81340 | [81340-love-live-school-idol-paradise.json](./81340-love-live-school-idol-paradise.json) |
 | Love Love Candy | 253902 | [253902-love-love-candy.json](./253902-love-love-candy.json) |
 | Love Love Diary | 247748 | [247748-love-love-diary.json](./247748-love-love-diary.json) |
+| Love Love Mystery Club | 386233 | [386233-love-love-mystery-club.json](./386233-love-love-mystery-club.json) |
 | Love Lust and a Little Evil | 385058 | [385058-love-lust-and-a-little-evil.json](./385058-love-lust-and-a-little-evil.json) |
 | Love Mart | 348226 | [348226-love-mart.json](./348226-love-mart.json) |
 | Love Me Not | 252147 | [252147-love-me-not.json](./252147-love-me-not.json) |
@@ -2186,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
 | Luminous | 382191 | [382191-luminous.json](./382191-luminous.json) |
 | Luminous Arc 3 | 25100 | [25100-luminous-arc-3.json](./25100-luminous-arc-3.json) |
+| Luminous Kingdom | 386291 | [386291-luminous-kingdom.json](./386291-luminous-kingdom.json) |
 | Luminous Skies: A Short Adventure | 255956 | [255956-luminous-skies-a-short-adventure.json](./255956-luminous-skies-a-short-adventure.json) |
 | Lumiric Stage | 412264 | [412264-lumiric-stage.json](./412264-lumiric-stage.json) |
 | Lumiva Legacy | 265697 | [265697-lumiva-legacy.json](./265697-lumiva-legacy.json) |
