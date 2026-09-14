@@ -3093,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
+| The Memory of Eldurim | 16905 | [16905-the-memory-of-eldurim.json](./16905-the-memory-of-eldurim.json) |
 | The Mercer Slough and You | 145622 | [145622-the-mercer-slough-and-you.json](./145622-the-mercer-slough-and-you.json) |
 | The Mercury Man | 80879 | [80879-the-mercury-man.json](./80879-the-mercury-man.json) |
 | The Mermaid Mask | 279369 | [279369-the-mermaid-mask.json](./279369-the-mermaid-mask.json) |
