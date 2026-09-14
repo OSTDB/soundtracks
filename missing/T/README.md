@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Town | 37792 | [37792-tamagotchi-town.json](./37792-tamagotchi-town.json) |
 | Tamagotchi: Party On! | 5211 | [5211-tamagotchi-party-on.json](./5211-tamagotchi-party-on.json) |
 | Tamarak Trail | 240982 | [240982-tamarak-trail.json](./240982-tamarak-trail.json) |
+| Tamas: Shadowveil | 410963 | [410963-tamas-shadowveil.json](./410963-tamas-shadowveil.json) |
 | TamaTown Tama-Go | 229958 | [229958-tamatown-tama-go.json](./229958-tamatown-tama-go.json) |
 | Tamaya | 55113 | [55113-tamaya.json](./55113-tamaya.json) |
 | Tamayura Mirai | 240818 | [240818-tamayura-mirai.json](./240818-tamayura-mirai.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest | 143034 | [143034-tempest.json](./143034-tempest.json) |
 | Tempest 3000 | 51181 | [51181-tempest-3000.json](./51181-tempest-3000.json) |
 | Tempest 4000 | 54565 | [54565-tempest-4000.json](./54565-tempest-4000.json) |
+| Tempest Rising: The Vetis Wrath | 410968 | [410968-tempest-rising-the-vetis-wrath.json](./410968-tempest-rising-the-vetis-wrath.json) |
 | Tempest X3 | 71878 | [71878-tempest-x3.json](./71878-tempest-x3.json) |
 | Tempete sur les Bermudes | 310966 | [310966-tempete-sur-les-bermudes.json](./310966-tempete-sur-les-bermudes.json) |
 | Templar | 324332 | [324332-templar.json](./324332-templar.json) |
@@ -6949,6 +6951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribio puzzle: Strategic Spot | 253022 | [253022-tribio-puzzle-strategic-spot.json](./253022-tribio-puzzle-strategic-spot.json) |
 | Tribloos 3 | 104685 | [104685-tribloos-3.json](./104685-tribloos-3.json) |
 | Triboo | 85455 | [85455-triboo.json](./85455-triboo.json) |
+| Tribulum | 410983 | [410983-tribulum.json](./410983-tribulum.json) |
 | Tribute | 293387 | [293387-tribute.json](./293387-tribute.json) |
 | Trick DS Ban: Kakushigami no Sumu Yakata | 329949 | [329949-trick-ds-ban-kakushigami-no-sumu-yakata.json](./329949-trick-ds-ban-kakushigami-no-sumu-yakata.json) |
 | Trick or Alice | 251191 | [251191-trick-or-alice.json](./251191-trick-or-alice.json) |
