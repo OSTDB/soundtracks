@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T07:03:55.108Z",
-  "total_missing": 68877,
+  "generated_at": "2026-09-14T07:11:37.039Z",
+  "total_missing": 68876,
   "games": [
     {
       "igdb_id": 306086,
@@ -4241,11 +4241,6 @@
       "igdb_id": 192945,
       "game_name": "Adventure in My Head",
       "file": "missing/A/192945-adventure-in-my-head.json"
-    },
-    {
-      "igdb_id": 365077,
-      "game_name": "Adventure in the Snow Globe",
-      "file": "missing/A/365077-adventure-in-the-snow-globe.json"
     },
     {
       "igdb_id": 52550,
