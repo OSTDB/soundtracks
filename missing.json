@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T20:04:13.739Z",
-  "total_missing": 71003,
+  "generated_at": "2026-09-14T20:11:30.415Z",
+  "total_missing": 71002,
   "games": [
     {
       "igdb_id": 306086,
@@ -4656,11 +4656,6 @@
       "igdb_id": 120425,
       "game_name": "Aerobots",
       "file": "missing/A/120425-aerobots.json"
-    },
-    {
-      "igdb_id": 207539,
-      "game_name": "Aerofly FS 4 Flight Simulator: Scenery - Europe Part 1",
-      "file": "missing/A/207539-aerofly-fs-4-flight-simulator-scenery-europe-part-1.json"
     },
     {
       "igdb_id": 17839,
