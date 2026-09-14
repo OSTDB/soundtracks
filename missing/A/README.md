@@ -389,7 +389,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Bruce | 141228 | [141228-adventures-of-bruce.json](./141228-adventures-of-bruce.json) |
-| Adventures of Hendri | 88252 | [88252-adventures-of-hendri.json](./88252-adventures-of-hendri.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
 | Adventures of Maddog Williams in the Dungeons of Duridian | 50500 | [50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
@@ -1796,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
 | Angler's Journey | 350442 | [350442-anglers-journey.json](./350442-anglers-journey.json) |
 | Angler's World | 217019 | [217019-anglers-world.json](./217019-anglers-world.json) |
+| AnglingTimes | 402384 | [402384-anglingtimes.json](./402384-anglingtimes.json) |
 | Angrbotha Mountains | 239668 | [239668-angrbotha-mountains.json](./239668-angrbotha-mountains.json) |
 | Angriest Whopper Game | 237940 | [237940-angriest-whopper-game.json](./237940-angriest-whopper-game.json) |
 | Angry Angus | 224540 | [224540-angry-angus.json](./224540-angry-angus.json) |
@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archangel | 74276 | [74276-archangel.json](./74276-archangel.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
+| Archen Broom Game | 402366 | [402366-archen-broom-game.json](./402366-archen-broom-game.json) |
 | Archenemy: Lunafall | 216472 | [216472-archenemy-lunafall.json](./216472-archenemy-lunafall.json) |
 | Archer Guardian VR : The Chapter Zero | 30770 | [30770-archer-guardian-vr-the-chapter-zero.json](./30770-archer-guardian-vr-the-chapter-zero.json) |
 | Archer Maclean's 3D Pool | 248632 | [248632-archer-macleans-3d-pool.json](./248632-archer-macleans-3d-pool.json) |
@@ -3044,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspects of change | 121631 | [121631-aspects-of-change.json](./121631-aspects-of-change.json) |
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
 | Asphalt Dominion | 402305 | [402305-asphalt-dominion.json](./402305-asphalt-dominion.json) |
+| Asphalt Legends Unite: Triple Decal Pack | 402354 | [402354-asphalt-legends-unite-triple-decal-pack.json](./402354-asphalt-legends-unite-triple-decal-pack.json) |
 | Asphalt Street Storm Racing | 55883 | [55883-asphalt-street-storm-racing.json](./55883-asphalt-street-storm-racing.json) |
 | Asphalt Xtreme: Offroad Racing | 38940 | [38940-asphalt-xtreme-offroad-racing.json](./38940-asphalt-xtreme-offroad-racing.json) |
 | Asphalt: Nitro | 23310 | [23310-asphalt-nitro.json](./23310-asphalt-nitro.json) |
