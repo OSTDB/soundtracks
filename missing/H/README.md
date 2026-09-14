@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakkaku Doku | 323707 | [323707-hakkaku-doku.json](./323707-hakkaku-doku.json) |
 | Hakkenden | 327200 | [327200-hakkenden.json](./327200-hakkenden.json) |
 | Hako | 22468 | [22468-hako.json](./22468-hako.json) |
+| Hako Maze | 409686 | [409686-hako-maze.json](./409686-hako-maze.json) |
 | HakoBoy! Hakozume Box | 81428 | [81428-hakoboy-hakozume-box.json](./81428-hakoboy-hakozume-box.json) |
 | Hakoniwa Explorer Plus | 101606 | [101606-hakoniwa-explorer-plus.json](./101606-hakoniwa-explorer-plus.json) |
 | Hakou Watcher | 253936 | [253936-hakou-watcher.json](./253936-hakou-watcher.json) |
@@ -1239,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Quest: Tower Conflict | 33248 | [33248-hero-quest-tower-conflict.json](./33248-hero-quest-tower-conflict.json) |
 | Hero Rescue | 319947 | [319947-hero-rescue.json](./319947-hero-rescue.json) |
 | Hero Rescue 3 | 233511 | [233511-hero-rescue-3.json](./233511-hero-rescue-3.json) |
+| Hero Rescue Agency | 409661 | [409661-hero-rescue-agency.json](./409661-hero-rescue-agency.json) |
 | Hero Siege Complete | 53188 | [53188-hero-siege-complete.json](./53188-hero-siege-complete.json) |
 | Hero Siege: Companion Bundle | 224234 | [224234-hero-siege-companion-bundle.json](./224234-hero-siege-companion-bundle.json) |
 | Hero Staff | 113655 | [113655-hero-staff.json](./113655-hero-staff.json) |
@@ -1548,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Paws Mystery | 109412 | [109412-hidden-paws-mystery.json](./109412-hidden-paws-mystery.json) |
 | Hidden Photo Mysteries: The Truth Gets Scary | 415060 | [415060-hidden-photo-mysteries-the-truth-gets-scary.json](./415060-hidden-photo-mysteries-the-truth-gets-scary.json) |
 | Hidden Pleasure: Closer and Closer | 409531 | [409531-hidden-pleasure-closer-and-closer.json](./409531-hidden-pleasure-closer-and-closer.json) |
+| Hidden Pleasure: More and More | 409662 | [409662-hidden-pleasure-more-and-more.json](./409662-hidden-pleasure-more-and-more.json) |
 | Hidden Pointsman | 107124 | [107124-hidden-pointsman.json](./107124-hidden-pointsman.json) |
 | Hidden Portals: Eternal Balance | 416701 | [416701-hidden-portals-eternal-balance.json](./416701-hidden-portals-eternal-balance.json) |
 | Hidden Rabbit 2 | 412386 | [412386-hidden-rabbit-2.json](./412386-hidden-rabbit-2.json) |
