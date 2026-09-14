@@ -385,7 +385,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurer | 391046 | [391046-adventurer.json](./391046-adventurer.json) |
 | Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
 | Adventures in Math | 62154 | [62154-adventures-in-math.json](./62154-adventures-in-math.json) |
-| Adventures in Odyssey! Answer That! | 66070 | [66070-adventures-in-odyssey-answer-that.json](./66070-adventures-in-odyssey-answer-that.json) |
 | Adventures in Odyssey! The Sword of the Spirit | 66066 | [66066-adventures-in-odyssey-the-sword-of-the-spirit.json](./66066-adventures-in-odyssey-the-sword-of-the-spirit.json) |
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
