@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T23:01:46.077Z",
-  "total_missing": 71505,
+  "generated_at": "2026-09-14T23:11:41.049Z",
+  "total_missing": 71508,
   "games": [
     {
       "igdb_id": 306086,
@@ -4791,11 +4791,6 @@
       "igdb_id": 14227,
       "game_name": "Aesop's Fables",
       "file": "missing/A/14227-aesops-fables.json"
-    },
-    {
-      "igdb_id": 52575,
-      "game_name": "Aesthetic Melody: Digital Deluxe Edition",
-      "file": "missing/A/52575-aesthetic-melody-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 218138,
@@ -112228,6 +112223,11 @@
       "file": "missing/G/241041-g-mode-archives-44-dragon-x-dragon.json"
     },
     {
+      "igdb_id": 381724,
+      "game_name": "G-Mode Archives 56: Mystia3",
+      "file": "missing/G/381724-g-mode-archives-56-mystia3.json"
+    },
+    {
       "igdb_id": 256268,
       "game_name": "G-Mode Archives+: Idol Janshi Suchie-Pai",
       "file": "missing/G/256268-g-mode-archives-idol-janshi-suchie-pai.json"
@@ -195168,6 +195168,11 @@
       "file": "missing/M/183522-mystfed.json"
     },
     {
+      "igdb_id": 381723,
+      "game_name": "Mystia3",
+      "file": "missing/M/381723-mystia3.json"
+    },
+    {
       "igdb_id": 67326,
       "game_name": "Mystic Ark: Maboroshi Gekijo",
       "file": "missing/M/67326-mystic-ark-maboroshi-gekijo.json"
@@ -248281,6 +248286,11 @@
       "igdb_id": 337712,
       "game_name": "RuneScape: Dragonwilds",
       "file": "missing/R/337712-runescape-dragonwilds.json"
+    },
+    {
+      "igdb_id": 381721,
+      "game_name": "Runeseekers 2",
+      "file": "missing/R/381721-runeseekers-2.json"
     },
     {
       "igdb_id": 301565,
@@ -331641,6 +331651,11 @@
       "igdb_id": 220114,
       "game_name": "Ultimate Spider-Man in the Villain Round-Up",
       "file": "missing/U/220114-ultimate-spider-man-in-the-villain-round-up.json"
+    },
+    {
+      "igdb_id": 381722,
+      "game_name": "Ultimate Spider-Man: Limited Edition",
+      "file": "missing/U/381722-ultimate-spider-man-limited-edition.json"
     },
     {
       "igdb_id": 201245,
