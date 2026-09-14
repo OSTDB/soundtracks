@@ -2478,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Depth | 157202 | [157202-cold-depth.json](./157202-cold-depth.json) |
 | Cold Harvest | 191195 | [191195-cold-harvest.json](./191195-cold-harvest.json) |
 | Cold Meat | 166716 | [166716-cold-meat.json](./166716-cold-meat.json) |
+| Cold Snap | 401621 | [401621-cold-snap.json](./401621-cold-snap.json) |
 | Cold Steel | 314630 | [314630-cold-steel.json](./314630-cold-steel.json) |
 | Cold Steel | 373518 | [373518-cold-steel.json](./373518-cold-steel.json) |
 | Cold Sweat | 323508 | [323508-cold-sweat.json](./323508-cold-sweat.json) |
@@ -2967,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
 | Considerable Grandfather: It Followed Me Home | 408784 | [408784-considerable-grandfather-it-followed-me-home.json](./408784-considerable-grandfather-it-followed-me-home.json) |
 | Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
+| Console Archives: Master of Monsters - Disciples of Gaia | 401691 | [401691-console-archives-master-of-monsters-disciples-of-gaia.json](./401691-console-archives-master-of-monsters-disciples-of-gaia.json) |
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | Console Colour: Disney's Planes | 407308 | [407308-console-colour-disneys-planes.json](./407308-console-colour-disneys-planes.json) |
 | Console Info: 2010 Edition | 91399 | [91399-console-info-2010-edition.json](./91399-console-info-2010-edition.json) |
@@ -3370,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid 2069 | 167758 | [167758-covid-2069.json](./167758-covid-2069.json) |
 | Covid 23: Test Labs | 255975 | [255975-covid-23-test-labs.json](./255975-covid-23-test-labs.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
+| Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
 | Cowbots and Aliens | 31595 | [31595-cowbots-and-aliens.json](./31595-cowbots-and-aliens.json) |
 | Cowboy | 346053 | [346053-cowboy.json](./346053-cowboy.json) |
 | Cowboy 3030 | 266220 | [266220-cowboy-3030.json](./266220-cowboy-3030.json) |
