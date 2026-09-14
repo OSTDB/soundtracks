@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iesabel | 16645 | [16645-iesabel.json](./16645-iesabel.json) |
 | If 2 | 204478 | [204478-if-2.json](./204478-if-2.json) |
 | If 3 | 204479 | [204479-if-3.json](./204479-if-3.json) |
+| If Enemy: Smack! | 413078 | [413078-if-enemy-smack.json](./413078-if-enemy-smack.json) |
 | If Found, Please Return | 120347 | [120347-if-found-please-return.json](./120347-if-found-please-return.json) |
 | If I Were in a Sealed Room With a Girl, I'd Probably XXX | 93530 | [93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json](./93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json) |
 | If Monks Had Macs... | 366833 | [366833-if-monks-had-macs.json](./366833-if-monks-had-macs.json) |
@@ -1014,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InSpheration | 53234 | [53234-inspheration.json](./53234-inspheration.json) |
 | Inspiral: Echoes of Gravity | 372462 | [372462-inspiral-echoes-of-gravity.json](./372462-inspiral-echoes-of-gravity.json) |
 | Inspire | 298302 | [298302-inspire.json](./298302-inspire.json) |
+| Inspired You | 413037 | [413037-inspired-you.json](./413037-inspired-you.json) |
 | Install Fee Tycoon | 269006 | [269006-install-fee-tycoon.json](./269006-install-fee-tycoon.json) |
 | Instant Sports Summer + Winter | 269299 | [269299-instant-sports-summer-winter.json](./269299-instant-sports-summer-winter.json) |
 | Instant Sports Summer Games | 139969 | [139969-instant-sports-summer-games.json](./139969-instant-sports-summer-games.json) |
@@ -1412,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Raft Survival 2021: Ocean Escape | 163915 | [163915-island-raft-survival-2021-ocean-escape.json](./163915-island-raft-survival-2021-ocean-escape.json) |
 | Island Simulator 2016 | 31914 | [31914-island-simulator-2016.json](./31914-island-simulator-2016.json) |
 | Island Survival: Craft, Build, Grow | 314858 | [314858-island-survival-craft-build-grow.json](./314858-island-survival-craft-build-grow.json) |
+| Island Survival: Escape from Paradise | 413088 | [413088-island-survival-escape-from-paradise.json](./413088-island-survival-escape-from-paradise.json) |
 | Island Tribe 4 | 76635 | [76635-island-tribe-4.json](./76635-island-tribe-4.json) |
 | Island Tribe 4 | 76646 | [76646-island-tribe-4.json](./76646-island-tribe-4.json) |
 | Island Xtreme Stunts | 300709 | [300709-island-xtreme-stunts.json](./300709-island-xtreme-stunts.json) |
