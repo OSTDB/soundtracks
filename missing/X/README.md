@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmas Presents | 393452 | [393452-xmas-presents.json](./393452-xmas-presents.json) |
 | Xmas Shooting: Scramble!! | 26594 | [26594-xmas-shooting-scramble.json](./26594-xmas-shooting-scramble.json) |
 | Xmas Zombie Rampage | 30079 | [30079-xmas-zombie-rampage.json](./30079-xmas-zombie-rampage.json) |
+| Xmax KPI | 397086 | [397086-xmax-kpi.json](./397086-xmax-kpi.json) |
 | Xna | 45968 | [45968-xna.json](./45968-xna.json) |
 | XO | 110270 | [110270-xo.json](./110270-xo.json) |
 | XO Master | 237956 | [237956-xo-master.json](./237956-xo-master.json) |
