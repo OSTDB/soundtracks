@@ -1064,9 +1064,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
 | Terraformers: Megastructures | 318782 | [318782-terraformers-megastructures.json](./318782-terraformers-megastructures.json) |
 | Terraformers: Supporter Edition | 271471 | [271471-terraformers-supporter-edition.json](./271471-terraformers-supporter-edition.json) |
+| Terraforming Mars: Colonies | 402404 | [402404-terraforming-mars-colonies.json](./402404-terraforming-mars-colonies.json) |
 | Terrafort | 285966 | [285966-terrafort.json](./285966-terrafort.json) |
 | TerraGenesis - Space Colony | 102762 | [102762-terragenesis-space-colony.json](./102762-terragenesis-space-colony.json) |
 | TerraGenesis - Space Settlers | 102730 | [102730-terragenesis-space-settlers.json](./102730-terragenesis-space-settlers.json) |
+| Terrain Defender | 402381 | [402381-terrain-defender.json](./402381-terrain-defender.json) |
 | Terranigma | 9633 | [9633-terranigma.json](./9633-terranigma.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
 | Terraria 2 | 3021 | [3021-terraria-2.json](./3021-terraria-2.json) |
@@ -1418,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awesome Adventures of Captain Spirit | 103283 | [103283-the-awesome-adventures-of-captain-spirit.json](./103283-the-awesome-adventures-of-captain-spirit.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Cyberplasm Formula | 72098 | [72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json](./72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json) |
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
+| The Azure One | 402373 | [402373-the-azure-one.json](./402373-the-azure-one.json) |
 | The Backrooms | 221748 | [221748-the-backrooms.json](./221748-the-backrooms.json) |
 | The Backrooms Company | 293614 | [293614-the-backrooms-company.json](./293614-the-backrooms-company.json) |
 | The Backrooms Footage | 213973 | [213973-the-backrooms-footage.json](./213973-the-backrooms-footage.json) |
@@ -3548,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Strings Club | 75247 | [75247-the-red-strings-club.json](./75247-the-red-strings-club.json) |
 | The Red Sun | 252396 | [252396-the-red-sun.json](./252396-the-red-sun.json) |
 | The Red Sun Sets Over the Fields of Grain | 237618 | [237618-the-red-sun-sets-over-the-fields-of-grain.json](./237618-the-red-sun-sets-over-the-fields-of-grain.json) |
+| The Red Weight | 402406 | [402406-the-red-weight.json](./402406-the-red-weight.json) |
 | The redemption of pancakes | 106555 | [106555-the-redemption-of-pancakes.json](./106555-the-redemption-of-pancakes.json) |
 | The Redundant | 318979 | [318979-the-redundant.json](./318979-the-redundant.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
@@ -4734,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
 | Three Kingdoms Heroes | 324871 | [324871-three-kingdoms-heroes.json](./324871-three-kingdoms-heroes.json) |
 | Three Kingdoms VR - Jade Knight | 75820 | [75820-three-kingdoms-vr-jade-knight.json](./75820-three-kingdoms-vr-jade-knight.json) |
+| Three Kingdoms: Bond | 402358 | [402358-three-kingdoms-bond.json](./402358-three-kingdoms-bond.json) |
 | Three Kingdoms: Hero Wars | 208053 | [208053-three-kingdoms-hero-wars.json](./208053-three-kingdoms-hero-wars.json) |
 | Three Kingdoms: Legends of Heroes | 108406 | [108406-three-kingdoms-legends-of-heroes.json](./108406-three-kingdoms-legends-of-heroes.json) |
 | Three Kingdoms: The Last Warlord - The Age of Turbulence | 171574 | [171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json](./171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json) |
@@ -5430,6 +5435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeWatch | 130909 | [130909-timewatch.json](./130909-timewatch.json) |
 | TimeZero | 58813 | [58813-timezero.json](./58813-timezero.json) |
 | Timing Hero | 112232 | [112232-timing-hero.json](./112232-timing-hero.json) |
+| Timing X | 402370 | [402370-timing-x.json](./402370-timing-x.json) |
 | Timmy the Dream Hunter | 307299 | [307299-timmy-the-dream-hunter.json](./307299-timmy-the-dream-hunter.json) |
 | Timmy Types | 214540 | [214540-timmy-types.json](./214540-timmy-types.json) |
 | Timmy's adventures : VerbMon | 123550 | [123550-timmys-adventures-verbmon.json](./123550-timmys-adventures-verbmon.json) |
@@ -6518,7 +6524,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Horseshoe Curve: Altoona - Johnstown & South Fork Route Add-On | 359970 | [359970-train-sim-world-5-horseshoe-curve-altoona-johnstown-and-south-fork-route-add-on.json](./359970-train-sim-world-5-horseshoe-curve-altoona-johnstown-and-south-fork-route-add-on.json) |
 | Train Sim World 5: Manchester Airport Commuter: Manchester - Alderley Edge | 366842 | [366842-train-sim-world-5-manchester-airport-commuter-manchester-alderley-edge.json](./366842-train-sim-world-5-manchester-airport-commuter-manchester-alderley-edge.json) |
 | Train Sim World 5: MBTA Providence/Stoughton Line HSP46 Pack | 366841 | [366841-train-sim-world-5-mbta-providence-stoughton-line-hsp46-pack.json](./366841-train-sim-world-5-mbta-providence-stoughton-line-hsp46-pack.json) |
+| Train Sim World 5: Pfälzische Ludwigsbahn: Mannheim - Kaiserslautern | 402356 | [402356-train-sim-world-5-pfalzische-ludwigsbahn-mannheim-kaiserslautern.json](./402356-train-sim-world-5-pfalzische-ludwigsbahn-mannheim-kaiserslautern.json) |
 | Train Sim World 5: Santa Fe F7 Add-On | 359974 | [359974-train-sim-world-5-santa-fe-f7-add-on.json](./359974-train-sim-world-5-santa-fe-f7-add-on.json) |
+| Train Sim World 5: West Coast Main Line: Preston - Carlisle | 402357 | [402357-train-sim-world-5-west-coast-main-line-preston-carlisle.json](./402357-train-sim-world-5-west-coast-main-line-preston-carlisle.json) |
 | Train Sim World 6 | 363370 | [363370-train-sim-world-6.json](./363370-train-sim-world-6.json) |
 | Train Sim World 6: Cargo Line Vol. 6 - Gas | 412420 | [412420-train-sim-world-6-cargo-line-vol-6-gas.json](./412420-train-sim-world-6-cargo-line-vol-6-gas.json) |
 | Train Sim World 6: Schnellfahrstrecke Nürnberg - Ingolstadt Route Add-On | 412417 | [412417-train-sim-world-6-schnellfahrstrecke-nurnberg-ingolstadt-route-add-on.json](./412417-train-sim-world-6-schnellfahrstrecke-nurnberg-ingolstadt-route-add-on.json) |
@@ -6830,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
 | Trapped Within | 28918 | [28918-trapped-within.json](./28918-trapped-within.json) |
+| Trapped: Forced To Kill | 402408 | [402408-trapped-forced-to-kill.json](./402408-trapped-forced-to-kill.json) |
 | Trapped: The Abduction | 66096 | [66096-trapped-the-abduction.json](./66096-trapped-the-abduction.json) |
 | Trapper Simulator | 122369 | [122369-trapper-simulator.json](./122369-trapper-simulator.json) |
 | Trapper's Delight | 32701 | [32701-trappers-delight.json](./32701-trappers-delight.json) |
