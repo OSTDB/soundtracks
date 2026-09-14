@@ -371,7 +371,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
-| Adventure Playground | 102207 | [102207-adventure-playground.json](./102207-adventure-playground.json) |
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
 | Adventure Rock | 293939 | [293939-adventure-rock.json](./293939-adventure-rock.json) |
 | Adventure Series 13+ | 69247 | [69247-adventure-series-13.json](./69247-adventure-series-13.json) |
