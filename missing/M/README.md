@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars: Chaos Menace | 111712 | [111712-mars-chaos-menace.json](./111712-mars-chaos-menace.json) |
 | Marsh Into the New Dimension | 396227 | [396227-marsh-into-the-new-dimension.json](./396227-marsh-into-the-new-dimension.json) |
 | Marshals of War: Orcblood | 408044 | [408044-marshals-of-war-orcblood.json](./408044-marshals-of-war-orcblood.json) |
+| Marshawn Lynch Pro Football | 86858 | [86858-marshawn-lynch-pro-football.json](./86858-marshawn-lynch-pro-football.json) |
 | Marshin | 121770 | [121770-marshin.json](./121770-marshin.json) |
 | Marshmallow | 197396 | [197396-marshmallow.json](./197396-marshmallow.json) |
 | Marshmallow 2x2 | 234334 | [234334-marshmallow-2x2.json](./234334-marshmallow-2x2.json) |
@@ -2557,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Sweeper Million | 298586 | [298586-mine-sweeper-million.json](./298586-mine-sweeper-million.json) |
 | Mine The Diamond | 245005 | [245005-mine-the-diamond.json](./245005-mine-the-diamond.json) |
 | Mine Upgrade | 369585 | [369585-mine-upgrade.json](./369585-mine-upgrade.json) |
+| Minebuilder | 86893 | [86893-minebuilder.json](./86893-minebuilder.json) |
 | MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
 | Minecart Madness | 188687 | [188687-minecart-madness.json](./188687-minecart-madness.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
@@ -4429,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Fighting is Magic - Tribute Edition | 146263 | [146263-my-little-pony-fighting-is-magic-tribute-edition.json](./146263-my-little-pony-fighting-is-magic-tribute-edition.json) |
 | My Little Pony: Grand Puzzleventure | 220097 | [220097-my-little-pony-grand-puzzleventure.json](./220097-my-little-pony-grand-puzzleventure.json) |
 | My Little Prince: A Jigsaw Puzzle Tale | 159852 | [159852-my-little-prince-a-jigsaw-puzzle-tale.json](./159852-my-little-prince-a-jigsaw-puzzle-tale.json) |
+| My Little Princess : Castle | 86878 | [86878-my-little-princess-castle.json](./86878-my-little-princess-castle.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
 | My Little Riding Champion | 109006 | [109006-my-little-riding-champion.json](./109006-my-little-riding-champion.json) |
 | My Little Sister Callie | 321767 | [321767-my-little-sister-callie.json](./321767-my-little-sister-callie.json) |
