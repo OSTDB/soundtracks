@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Patch | 257958 | [257958-detective-patch.json](./257958-detective-patch.json) |
 | Detective Rosie Morgan: Death at a Dinner Party | 236827 | [236827-detective-rosie-morgan-death-at-a-dinner-party.json](./236827-detective-rosie-morgan-death-at-a-dinner-party.json) |
 | Detective School Club | 304597 | [304597-detective-school-club.json](./304597-detective-school-club.json) |
+| Detective Secrets Solitaire: The Greyhall Mystery | 417508 | [417508-detective-secrets-solitaire-the-greyhall-mystery.json](./417508-detective-secrets-solitaire-the-greyhall-mystery.json) |
 | Detective Solitaire: Butler Story 2 | 242580 | [242580-detective-solitaire-butler-story-2.json](./242580-detective-solitaire-butler-story-2.json) |
 | Detective Story | 148553 | [148553-detective-story.json](./148553-detective-story.json) |
 | Detective Turner: If Looks Could Kill | 404825 | [404825-detective-turner-if-looks-could-kill.json](./404825-detective-turner-if-looks-could-kill.json) |
@@ -3186,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Storm Fantasy | 193979 | [193979-dragon-storm-fantasy.json](./193979-dragon-storm-fantasy.json) |
 | Dragon Story | 38899 | [38899-dragon-story.json](./38899-dragon-story.json) |
 | Dragon Swarm | 87240 | [87240-dragon-swarm.json](./87240-dragon-swarm.json) |
+| Dragon Tale 5: The Queen's Destiny - Collector's Edition | 417525 | [417525-dragon-tale-5-the-queens-destiny-collectors-edition.json](./417525-dragon-tale-5-the-queens-destiny-collectors-edition.json) |
 | Dragon Tales: Dragon Wings | 49939 | [49939-dragon-tales-dragon-wings.json](./49939-dragon-tales-dragon-wings.json) |
 | Dragon Tales: Learn & Fly With Dragons | 72127 | [72127-dragon-tales-learn-and-fly-with-dragons.json](./72127-dragon-tales-learn-and-fly-with-dragons.json) |
 | Dragon Tavern | 62715 | [62715-dragon-tavern.json](./62715-dragon-tavern.json) |
