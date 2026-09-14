@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Trials | 223989 | [223989-nine-trials.json](./223989-nine-trials.json) |
 | Nine Worlds | 150659 | [150659-nine-worlds.json](./150659-nine-worlds.json) |
 | Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
+| Nineteen: 19 | 413046 | [413046-nineteen-19.json](./413046-nineteen-19.json) |
 | Ninety-Nine Nights Online | 66135 | [66135-ninety-nine-nights-online.json](./66135-ninety-nine-nights-online.json) |
 | Ninety8 | 246977 | [246977-ninety8.json](./246977-ninety8.json) |
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
