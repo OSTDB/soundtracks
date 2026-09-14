@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esten | 186291 | [186291-esten.json](./186291-esten.json) |
 | Estencel | 207327 | [207327-estencel.json](./207327-estencel.json) |
 | Estigma | 142497 | [142497-estigma.json](./142497-estigma.json) |
+| Estium Online | 417541 | [417541-estium-online.json](./417541-estium-online.json) |
 | Estra | 13711 | [13711-estra.json](./13711-estra.json) |
 | ET Superman: Wrath of Tyrannosaurus Rex | 195258 | [195258-et-superman-wrath-of-tyrannosaurus-rex.json](./195258-et-superman-wrath-of-tyrannosaurus-rex.json) |
 | ETA: Unknown | 389437 | [389437-eta-unknown.json](./389437-eta-unknown.json) |
@@ -1637,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Veil | 264054 | [264054-exit-veil.json](./264054-exit-veil.json) |
 | Exit: The Curse of Ophir | 174278 | [174278-exit-the-curse-of-ophir.json](./174278-exit-the-curse-of-ophir.json) |
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
+| Exitrance | 417537 | [417537-exitrance.json](./417537-exitrance.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
 | Exo Pexo Dots & Diamond | 226740 | [226740-exo-pexo-dots-and-diamond.json](./226740-exo-pexo-dots-and-diamond.json) |
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
