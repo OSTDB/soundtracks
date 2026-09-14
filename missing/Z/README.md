@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZoneDriver | 76558 | [76558-zonedriver.json](./76558-zonedriver.json) |
 | Zonic 4 My New Life Turbo HD Remastered Edition | 322594 | [322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json](./322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json) |
 | Zoo Chess | 213403 | [213403-zoo-chess.json](./213403-zoo-chess.json) |
+| Zoo Clues | 397781 | [397781-zoo-clues.json](./397781-zoo-clues.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
 | Zoo Keeper 3D | 222337 | [222337-zoo-keeper-3d.json](./222337-zoo-keeper-3d.json) |
 | Zoo Master | 133392 | [133392-zoo-master.json](./133392-zoo-master.json) |
