@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapeworm Disco Puzzle | 153952 | [153952-tapeworm-disco-puzzle.json](./153952-tapeworm-disco-puzzle.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
+| Tapocalypse | 30141 | [30141-tapocalypse.json](./30141-tapocalypse.json) |
 | Tapper World Tour | 66079 | [66079-tapper-world-tour.json](./66079-tapper-world-tour.json) |
 | Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
@@ -1786,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
 | The Crypts | 268469 | [268469-the-crypts.json](./268469-the-crypts.json) |
+| The Crypts of Anak Shaba | 30188 | [30188-the-crypts-of-anak-shaba.json](./30188-the-crypts-of-anak-shaba.json) |
 | The Crystal Golem | 152273 | [152273-the-crystal-golem.json](./152273-the-crystal-golem.json) |
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
 | The Cube Factory | 147365 | [147365-the-cube-factory.json](./147365-the-cube-factory.json) |
@@ -1879,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deadlands | 257689 | [257689-the-deadlands.json](./257689-the-deadlands.json) |
 | The DeadLine | 377590 | [377590-the-deadline.json](./377590-the-deadline.json) |
 | The Deadly Cursed Enjmin Steamroller in: The Bloody Killing on Wheel in the Atrium | 227468 | [227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json](./227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json) |
+| The Deal | 30118 | [30118-the-deal.json](./30118-the-deal.json) |
 | The Death and Return of Superman | 453 | [453-the-death-and-return-of-superman.json](./453-the-death-and-return-of-superman.json) |
 | The Death Into Trouble | 151125 | [151125-the-death-into-trouble.json](./151125-the-death-into-trouble.json) |
 | The Death of Erin Myers | 111289 | [111289-the-death-of-erin-myers.json](./111289-the-death-of-erin-myers.json) |
@@ -2169,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Exhibition | 245862 | [245862-the-final-exhibition.json](./245862-the-final-exhibition.json) |
 | The Final Heist | 184640 | [184640-the-final-heist.json](./184640-the-final-heist.json) |
 | The Final Hours of Mass Effect 3 | 202354 | [202354-the-final-hours-of-mass-effect-3.json](./202354-the-final-hours-of-mass-effect-3.json) |
+| The Final Specimen: Arrival | 30037 | [30037-the-final-specimen-arrival.json](./30037-the-final-specimen-arrival.json) |
 | The Final Station | 16136 | [16136-the-final-station.json](./16136-the-final-station.json) |
 | The Final Station: The Only Traitor | 124810 | [124810-the-final-station-the-only-traitor.json](./124810-the-final-station-the-only-traitor.json) |
 | The Final Ultra Super Duper Cube Cavern Deluxe GOTY Edition | 309115 | [309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json](./309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json) |
