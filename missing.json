@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T15:51:39.390Z",
-  "total_missing": 70335,
+  "generated_at": "2026-09-14T16:04:01.516Z",
+  "total_missing": 70384,
   "games": [
     {
       "igdb_id": 306086,
@@ -2156,6 +2156,11 @@
       "igdb_id": 241353,
       "game_name": "66 Bricks",
       "file": "missing/0-9/241353-66-bricks.json"
+    },
+    {
+      "igdb_id": 395009,
+      "game_name": "67 Game Online",
+      "file": "missing/0-9/395009-67-game-online.json"
     },
     {
       "igdb_id": 5338,
@@ -4506,11 +4511,6 @@
       "igdb_id": 120419,
       "game_name": "Aeolis Tournament",
       "file": "missing/A/120419-aeolis-tournament.json"
-    },
-    {
-      "igdb_id": 200707,
-      "game_name": "Aeolwyn's Legacy",
-      "file": "missing/A/200707-aeolwyns-legacy.json"
     },
     {
       "igdb_id": 169383,
@@ -12341,6 +12341,11 @@
       "igdb_id": 401560,
       "game_name": "Anime Uni 3D: Hot Vacay",
       "file": "missing/A/401560-anime-uni-3d-hot-vacay.json"
+    },
+    {
+      "igdb_id": 394996,
+      "game_name": "Anime Uni St. Patrick’s Puzzle",
+      "file": "missing/A/394996-anime-uni-st-patrick-s-puzzle.json"
     },
     {
       "igdb_id": 118421,
@@ -48228,6 +48233,11 @@
       "file": "missing/C/152903-changes.json"
     },
     {
+      "igdb_id": 395048,
+      "game_name": "Channel 64",
+      "file": "missing/C/395048-channel-64.json"
+    },
+    {
       "igdb_id": 356111,
       "game_name": "Channel Surfing",
       "file": "missing/C/356111-channel-surfing.json"
@@ -58483,6 +58493,11 @@
       "file": "missing/C/332843-cosmos-kitten.json"
     },
     {
+      "igdb_id": 395012,
+      "game_name": "Cosmos no Sora ni",
+      "file": "missing/C/395012-cosmos-no-sora-ni.json"
+    },
+    {
       "igdb_id": 98471,
       "game_name": "Cosmos Quest II: To Find a Sun",
       "file": "missing/C/98471-cosmos-quest-ii-to-find-a-sun.json"
@@ -62006,6 +62021,11 @@
       "igdb_id": 376461,
       "game_name": "Crushing on the Clock",
       "file": "missing/C/376461-crushing-on-the-clock.json"
+    },
+    {
+      "igdb_id": 395021,
+      "game_name": "Crustacean Frustration",
+      "file": "missing/C/395021-crustacean-frustration.json"
     },
     {
       "igdb_id": 200161,
@@ -94998,6 +95018,11 @@
       "file": "missing/F/124171-fabulous-angela-new-york-to-la.json"
     },
     {
+      "igdb_id": 395036,
+      "game_name": "Facada",
+      "file": "missing/F/395036-facada.json"
+    },
+    {
       "igdb_id": 11740,
       "game_name": "Façade",
       "file": "missing/F/11740-facade.json"
@@ -99258,6 +99283,11 @@
       "file": "missing/F/51217-fiesta.json"
     },
     {
+      "igdb_id": 395014,
+      "game_name": "Fiets-Together",
+      "file": "missing/F/395014-fiets-together.json"
+    },
+    {
       "igdb_id": 240422,
       "game_name": "FIFA 14",
       "file": "missing/F/240422-fifa-14.json"
@@ -102428,6 +102458,16 @@
       "file": "missing/F/19320-five-nights-at-freddys-sister-location.json"
     },
     {
+      "igdb_id": 395008,
+      "game_name": "Five Nights at Frickbear's",
+      "file": "missing/F/395008-five-nights-at-frickbears.json"
+    },
+    {
+      "igdb_id": 395010,
+      "game_name": "Five Nights at Frickbears 2",
+      "file": "missing/F/395010-five-nights-at-frickbears-2.json"
+    },
+    {
       "igdb_id": 322379,
       "game_name": "Five Nights at Jaygi's: Into Dreams...",
       "file": "missing/F/322379-five-nights-at-jaygis-into-dreams.json"
@@ -104403,6 +104443,11 @@
       "file": "missing/F/93009-flyin-high-data-disk-1.json"
     },
     {
+      "igdb_id": 394997,
+      "game_name": "Flying Aces: Legend of the Red Baron",
+      "file": "missing/F/394997-flying-aces-legend-of-the-red-baron.json"
+    },
+    {
       "igdb_id": 86854,
       "game_name": "Flying Car Robot Flight Drive Simulator Game 2017",
       "file": "missing/F/86854-flying-car-robot-flight-drive-simulator-game-2017.json"
@@ -106126,6 +106171,11 @@
       "igdb_id": 299441,
       "game_name": "Forsaken Compound",
       "file": "missing/F/299441-forsaken-compound.json"
+    },
+    {
+      "igdb_id": 395004,
+      "game_name": "Forsaken Denizen",
+      "file": "missing/F/395004-forsaken-denizen.json"
     },
     {
       "igdb_id": 35819,
@@ -114048,6 +114098,11 @@
       "file": "missing/G/399639-get-fit-power-workout.json"
     },
     {
+      "igdb_id": 394999,
+      "game_name": "Get Fit: Women’s Fitness",
+      "file": "missing/G/394999-get-fit-women-s-fitness.json"
+    },
+    {
       "igdb_id": 229327,
       "game_name": "Get Home Safe",
       "file": "missing/G/229327-get-home-safe.json"
@@ -114426,6 +114481,11 @@
       "igdb_id": 114992,
       "game_name": "Ghost Mountain",
       "file": "missing/G/114992-ghost-mountain.json"
+    },
+    {
+      "igdb_id": 395047,
+      "game_name": "Ghost Observation",
+      "file": "missing/G/395047-ghost-observation.json"
     },
     {
       "igdb_id": 7684,
@@ -116496,6 +116556,11 @@
       "igdb_id": 217014,
       "game_name": "Goblin's Expedition",
       "file": "missing/G/217014-goblins-expedition.json"
+    },
+    {
+      "igdb_id": 395045,
+      "game_name": "Goblin's Gamble 24",
+      "file": "missing/G/395045-goblins-gamble-24.json"
     },
     {
       "igdb_id": 271228,
@@ -130226,6 +130291,11 @@
       "igdb_id": 18201,
       "game_name": "Hi-way",
       "file": "missing/H/18201-hi-way.json"
+    },
+    {
+      "igdb_id": 395015,
+      "game_name": "Hibachi Hero",
+      "file": "missing/H/395015-hibachi-hero.json"
     },
     {
       "igdb_id": 339638,
@@ -151333,6 +151403,11 @@
       "file": "missing/K/220872-kawaii-solitaire-3-in-1.json"
     },
     {
+      "igdb_id": 395039,
+      "game_name": "Kawaii Survivors",
+      "file": "missing/K/395039-kawaii-survivors.json"
+    },
+    {
       "igdb_id": 176427,
       "game_name": "Kawaiiju",
       "file": "missing/K/176427-kawaiiju.json"
@@ -151756,6 +151831,11 @@
       "igdb_id": 68022,
       "game_name": "KenKen: Train Your Brain",
       "file": "missing/K/68022-kenken-train-your-brain.json"
+    },
+    {
+      "igdb_id": 395002,
+      "game_name": "Kenny vs. Spenny: The Handheld Game",
+      "file": "missing/K/395002-kenny-vs-spenny-the-handheld-game.json"
     },
     {
       "igdb_id": 268204,
@@ -174516,6 +174596,11 @@
       "igdb_id": 413621,
       "game_name": "Max Cross",
       "file": "missing/M/413621-max-cross.json"
+    },
+    {
+      "igdb_id": 395013,
+      "game_name": "Max in Ghostpix",
+      "file": "missing/M/395013-max-in-ghostpix.json"
     },
     {
       "igdb_id": 45914,
@@ -205688,6 +205773,11 @@
       "file": "missing/O/294991-oops-all-gyarus.json"
     },
     {
+      "igdb_id": 395044,
+      "game_name": "Oops! Inc. Emergency Center",
+      "file": "missing/O/395044-oops-inc-emergency-center.json"
+    },
+    {
       "igdb_id": 412427,
       "game_name": "Oops! You're the Hero!",
       "file": "missing/O/412427-oops-youre-the-hero.json"
@@ -224173,6 +224263,11 @@
       "file": "missing/P/127335-prison-princess.json"
     },
     {
+      "igdb_id": 394998,
+      "game_name": "Prison Run",
+      "file": "missing/P/394998-prison-run.json"
+    },
+    {
       "igdb_id": 33672,
       "game_name": "Prison Run and Gun",
       "file": "missing/P/33672-prison-run-and-gun.json"
@@ -235163,6 +235258,11 @@
       "file": "missing/R/224749-reflexia-prototype-ver.json"
     },
     {
+      "igdb_id": 395006,
+      "game_name": "Refrain Blue",
+      "file": "missing/R/395006-refrain-blue.json"
+    },
+    {
       "igdb_id": 55116,
       "game_name": "Refrain Love 2",
       "file": "missing/R/55116-refrain-love-2.json"
@@ -242768,6 +242868,11 @@
       "file": "missing/R/326598-rose-guns-days-season-1.json"
     },
     {
+      "igdb_id": 395037,
+      "game_name": "Rose Hips",
+      "file": "missing/R/395037-rose-hips.json"
+    },
+    {
       "igdb_id": 392161,
       "game_name": "Rose of Meat",
       "file": "missing/R/392161-rose-of-meat.json"
@@ -247743,6 +247848,11 @@
       "file": "missing/S/332420-satiszone.json"
     },
     {
+      "igdb_id": 395020,
+      "game_name": "Sato Killing Time Chat.exe",
+      "file": "missing/S/395020-sato-killing-time-chat-exe.json"
+    },
+    {
       "igdb_id": 192382,
       "game_name": "Satogaeri",
       "file": "missing/S/192382-satogaeri.json"
@@ -249131,6 +249241,11 @@
       "igdb_id": 324126,
       "game_name": "SCP-087: The Stairwell Horror",
       "file": "missing/S/324126-scp-087-the-stairwell-horror.json"
+    },
+    {
+      "igdb_id": 395022,
+      "game_name": "SCP-3008: Infinite Store",
+      "file": "missing/S/395022-scp-3008-infinite-store.json"
     },
     {
       "igdb_id": 264638,
@@ -251901,6 +252016,11 @@
       "igdb_id": 138751,
       "game_name": "Server is Down",
       "file": "missing/S/138751-server-is-down.json"
+    },
+    {
+      "igdb_id": 395046,
+      "game_name": "Service of Five Graces",
+      "file": "missing/S/395046-service-of-five-graces.json"
     },
     {
       "igdb_id": 220108,
@@ -261681,6 +261801,11 @@
       "igdb_id": 229691,
       "game_name": "Smile For Me: Collector's Edition",
       "file": "missing/S/229691-smile-for-me-collectors-edition.json"
+    },
+    {
+      "igdb_id": 395023,
+      "game_name": "Smile More",
+      "file": "missing/S/395023-smile-more.json"
     },
     {
       "igdb_id": 338191,
@@ -275788,6 +275913,11 @@
       "file": "missing/S/385575-step-jun-koi-no-dai-pinch.json"
     },
     {
+      "igdb_id": 395007,
+      "game_name": "Step Theater",
+      "file": "missing/S/395007-step-theater.json"
+    },
+    {
       "igdb_id": 84902,
       "game_name": "Step Up!",
       "file": "missing/S/84902-step-up.json"
@@ -278316,6 +278446,11 @@
       "igdb_id": 389435,
       "game_name": "Stunt Paradise 2",
       "file": "missing/S/389435-stunt-paradise-2.json"
+    },
+    {
+      "igdb_id": 395000,
+      "game_name": "Stunt Race",
+      "file": "missing/S/395000-stunt-race.json"
     },
     {
       "igdb_id": 246985,
@@ -283393,14 +283528,89 @@
       "file": "missing/S/136383-super-smash-bros-ultimate-piranha-plant.json"
     },
     {
+      "igdb_id": 395017,
+      "game_name": "Super Smash Bros. Ultimate: Akaza Moveset",
+      "file": "missing/S/395017-super-smash-bros-ultimate-akaza-moveset.json"
+    },
+    {
+      "igdb_id": 395034,
+      "game_name": "Super Smash Bros. Ultimate: Animdude Moveset",
+      "file": "missing/S/395034-super-smash-bros-ultimate-animdude-moveset.json"
+    },
+    {
       "igdb_id": 280797,
       "game_name": "Super Smash Bros. Ultimate: Competitive Playable Bosses",
       "file": "missing/S/280797-super-smash-bros-ultimate-competitive-playable-bosses.json"
     },
     {
+      "igdb_id": 395031,
+      "game_name": "Super Smash Bros. Ultimate: Fall Guy Moveset",
+      "file": "missing/S/395031-super-smash-bros-ultimate-fall-guy-moveset.json"
+    },
+    {
       "igdb_id": 242815,
       "game_name": "Super Smash Bros. Ultimate: Goku Mod",
       "file": "missing/S/242815-super-smash-bros-ultimate-goku-mod.json"
+    },
+    {
+      "igdb_id": 395018,
+      "game_name": "Super Smash Bros. Ultimate: Ichiban Kasuga Moveset (Yakuza)",
+      "file": "missing/S/395018-super-smash-bros-ultimate-ichiban-kasuga-moveset-yakuza.json"
+    },
+    {
+      "igdb_id": 395030,
+      "game_name": "Super Smash Bros. Ultimate: Impostor Moveset",
+      "file": "missing/S/395030-super-smash-bros-ultimate-impostor-moveset.json"
+    },
+    {
+      "igdb_id": 395016,
+      "game_name": "Super Smash Bros. Ultimate: Iron Man Moveset",
+      "file": "missing/S/395016-super-smash-bros-ultimate-iron-man-moveset.json"
+    },
+    {
+      "igdb_id": 395027,
+      "game_name": "Super Smash Bros. Ultimate: Jin - Xenoblade 2 Moveset",
+      "file": "missing/S/395027-super-smash-bros-ultimate-jin-xenoblade-2-moveset.json"
+    },
+    {
+      "igdb_id": 395019,
+      "game_name": "Super Smash Bros. Ultimate: Latios/Latias Moveset",
+      "file": "missing/S/395019-super-smash-bros-ultimate-latios-latias-moveset.json"
+    },
+    {
+      "igdb_id": 395028,
+      "game_name": "Super Smash Bros. Ultimate: Megumin Moveset",
+      "file": "missing/S/395028-super-smash-bros-ultimate-megumin-moveset.json"
+    },
+    {
+      "igdb_id": 395029,
+      "game_name": "Super Smash Bros. Ultimate: Monster Hunter Moveset",
+      "file": "missing/S/395029-super-smash-bros-ultimate-monster-hunter-moveset.json"
+    },
+    {
+      "igdb_id": 395026,
+      "game_name": "Super Smash Bros. Ultimate: Sackboy Moveset",
+      "file": "missing/S/395026-super-smash-bros-ultimate-sackboy-moveset.json"
+    },
+    {
+      "igdb_id": 395032,
+      "game_name": "Super Smash Bros. Ultimate: Shy Guy Moveset",
+      "file": "missing/S/395032-super-smash-bros-ultimate-shy-guy-moveset.json"
+    },
+    {
+      "igdb_id": 395025,
+      "game_name": "Super Smash Bros. Ultimate: Susie Moveset",
+      "file": "missing/S/395025-super-smash-bros-ultimate-susie-moveset.json"
+    },
+    {
+      "igdb_id": 395035,
+      "game_name": "Super Smash Bros. Ultimate: Ultron Moveset",
+      "file": "missing/S/395035-super-smash-bros-ultimate-ultron-moveset.json"
+    },
+    {
+      "igdb_id": 395033,
+      "game_name": "Super Smash Bros. Ultimate: Zero Moveset",
+      "file": "missing/S/395033-super-smash-bros-ultimate-zero-moveset.json"
     },
     {
       "igdb_id": 14247,
@@ -286891,6 +287101,11 @@
       "igdb_id": 316616,
       "game_name": "SyS KillMirror",
       "file": "missing/S/316616-sys-killmirror.json"
+    },
+    {
+      "igdb_id": 395041,
+      "game_name": "Sys//Purge",
+      "file": "missing/S/395041-sys-purge.json"
     },
     {
       "igdb_id": 130950,
@@ -314523,6 +314738,11 @@
       "file": "missing/T/264034-tiny-candy-guardian.json"
     },
     {
+      "igdb_id": 395024,
+      "game_name": "Tiny Chills: Not From Ear",
+      "file": "missing/T/395024-tiny-chills-not-from-ear.json"
+    },
+    {
       "igdb_id": 177477,
       "game_name": "Tiny Clusters",
       "file": "missing/T/177477-tiny-clusters.json"
@@ -323793,6 +324013,11 @@
       "file": "missing/T/66115-tsukumonogatari.json"
     },
     {
+      "igdb_id": 395001,
+      "game_name": "Tsukutori",
+      "file": "missing/T/395001-tsukutori.json"
+    },
+    {
       "igdb_id": 230300,
       "game_name": "Tsukutte Utau: Saru Band",
       "file": "missing/T/230300-tsukutte-utau-saru-band.json"
@@ -328003,6 +328228,11 @@
       "file": "missing/U/170561-unit-4-clash-of-agents.json"
     },
     {
+      "igdb_id": 395043,
+      "game_name": "Unit 42: Adrift in Space",
+      "file": "missing/U/395043-unit-42-adrift-in-space.json"
+    },
+    {
       "igdb_id": 195231,
       "game_name": "United Assault: Battle of the Bulge",
       "file": "missing/U/195231-united-assault-battle-of-the-bulge.json"
@@ -328056,6 +328286,11 @@
       "igdb_id": 304899,
       "game_name": "Unity-chan the SharpShooter!",
       "file": "missing/U/304899-unity-chan-the-sharpshooter.json"
+    },
+    {
+      "igdb_id": 395040,
+      "game_name": "Unity-Chan: Desktop Companion",
+      "file": "missing/U/395040-unity-chan-desktop-companion.json"
     },
     {
       "igdb_id": 362813,
@@ -334956,6 +335191,11 @@
       "igdb_id": 56430,
       "game_name": "Waking the Glares - Chapter I and II",
       "file": "missing/W/56430-waking-the-glares-chapter-i-and-ii.json"
+    },
+    {
+      "igdb_id": 395038,
+      "game_name": "Waking Up To You",
+      "file": "missing/W/395038-waking-up-to-you.json"
     },
     {
       "igdb_id": 103415,
@@ -345281,6 +345521,11 @@
       "igdb_id": 334480,
       "game_name": "Wyld Land",
       "file": "missing/W/334480-wyld-land.json"
+    },
+    {
+      "igdb_id": 395042,
+      "game_name": "Wyldheart",
+      "file": "missing/W/395042-wyldheart.json"
     },
     {
       "igdb_id": 360571,
