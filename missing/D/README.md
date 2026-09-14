@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.N.A. | 137022 | [137022-d-n-a.json](./137022-d-n-a.json) |
 | D.O.A.S.: Department of Applied Science | 184601 | [184601-d-o-a-s-department-of-applied-science.json](./184601-d-o-a-s-department-of-applied-science.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
+| D.R.I.F.T. | 394335 | [394335-d-r-i-f-t.json](./394335-d-r-i-f-t.json) |
 | D.W. Dagger: Chapter One | 168837 | [168837-d-w-dagger-chapter-one.json](./168837-d-w-dagger-chapter-one.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
 | D/Generation HD | 21318 | [21318-d-generation-hd.json](./21318-d-generation-hd.json) |
@@ -1552,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Pinforge | 408873 | [408873-desktop-pinforge.json](./408873-desktop-pinforge.json) |
 | Desktop Raid | 392137 | [392137-desktop-raid.json](./392137-desktop-raid.json) |
 | Desktop Reptiles | 405581 | [405581-desktop-reptiles.json](./405581-desktop-reptiles.json) |
+| Desktop Standing Card Plates | 394346 | [394346-desktop-standing-card-plates.json](./394346-desktop-standing-card-plates.json) |
 | Desktop Tourney World | 282011 | [282011-desktop-tourney-world.json](./282011-desktop-tourney-world.json) |
 | Desktop Waifu | 377572 | [377572-desktop-waifu.json](./377572-desktop-waifu.json) |
 | Desktop Wooden Fish | 350405 | [350405-desktop-wooden-fish.json](./350405-desktop-wooden-fish.json) |
@@ -2635,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Burn | 118998 | [118998-dont-burn.json](./118998-dont-burn.json) |
 | Don't Call Me Mama But Yes I Am Your Mama | 181853 | [181853-dont-call-me-mama-but-yes-i-am-your-mama.json](./181853-dont-call-me-mama-but-yes-i-am-your-mama.json) |
 | Don't Choke | 180754 | [180754-dont-choke.json](./180754-dont-choke.json) |
+| Don't Click The Flower | 394317 | [394317-dont-click-the-flower.json](./394317-dont-click-the-flower.json) |
 | Don't Crash: The Political Game | 159863 | [159863-dont-crash-the-political-game.json](./159863-dont-crash-the-political-game.json) |
 | Don't Cut Your Hand 2 | 158729 | [158729-dont-cut-your-hand-2.json](./158729-dont-cut-your-hand-2.json) |
 | Don't Die Dateless, Dummy! | 33198 | [33198-dont-die-dateless-dummy.json](./33198-dont-die-dateless-dummy.json) |
@@ -2928,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot. | 94201 | [94201-dot.json](./94201-dot.json) |
 | DotAge | 111045 | [111045-dotage.json](./111045-dotage.json) |
 | DotAge: Folkways | 336527 | [336527-dotage-folkways.json](./336527-dotage-folkways.json) |
+| DotAge: Trade Secrets | 394372 | [394372-dotage-trade-secrets.json](./394372-dotage-trade-secrets.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
 | Dots and Boxes - Dino Fury Edition | 107117 | [107117-dots-and-boxes-dino-fury-edition.json](./107117-dots-and-boxes-dino-fury-edition.json) |
 | Dots and Dashes | 188674 | [188674-dots-and-dashes.json](./188674-dots-and-dashes.json) |
