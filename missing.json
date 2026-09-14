@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T08:49:23.123Z",
-  "total_missing": 69149,
+  "generated_at": "2026-09-14T08:51:30.257Z",
+  "total_missing": 69148,
   "games": [
     {
       "igdb_id": 306086,
@@ -4291,11 +4291,6 @@
       "igdb_id": 31817,
       "game_name": "Adventure of Thieves",
       "file": "missing/A/31817-adventure-of-thieves.json"
-    },
-    {
-      "igdb_id": 84866,
-      "game_name": "Adventure Party: Cats and Caverns",
-      "file": "missing/A/84866-adventure-party-cats-and-caverns.json"
     },
     {
       "igdb_id": 56531,
