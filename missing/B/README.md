@@ -923,10 +923,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Rift | 211428 | [211428-battle-rift.json](./211428-battle-rift.json) |
 | Battle Robot Damashii | 63833 | [63833-battle-robot-damashii.json](./63833-battle-robot-damashii.json) |
 | Battle Royale Survival | 107811 | [107811-battle-royale-survival.json](./107811-battle-royale-survival.json) |
+| Battle Royale Tycoon | 103608 | [103608-battle-royale-tycoon.json](./103608-battle-royale-tycoon.json) |
 | Battle Royale with Cheese | 295529 | [295529-battle-royale-with-cheese.json](./295529-battle-royale-with-cheese.json) |
 | Battle Runner | 75919 | [75919-battle-runner.json](./75919-battle-runner.json) |
 | Battle Sage | 217517 | [217517-battle-sage.json](./217517-battle-sage.json) |
 | Battle Sea | 268479 | [268479-battle-sea.json](./268479-battle-sea.json) |
+| Battle Simulator | 103836 | [103836-battle-simulator.json](./103836-battle-simulator.json) |
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
 | Battle Soccer: Field no Hasha | 42567 | [42567-battle-soccer-field-no-hasha.json](./42567-battle-soccer-field-no-hasha.json) |
