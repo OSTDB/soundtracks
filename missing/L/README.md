@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lezdom CEO Fantasy | 331308 | [331308-lezdom-ceo-fantasy.json](./331308-lezdom-ceo-fantasy.json) |
 | Lezorub | 286002 | [286002-lezorub.json](./286002-lezorub.json) |
 | LFS S6 Quest | 323732 | [323732-lfs-s6-quest.json](./323732-lfs-s6-quest.json) |
+| LGBT Battlegrounds | 103633 | [103633-lgbt-battlegrounds.json](./103633-lgbt-battlegrounds.json) |
 | LGBT Color by Number for Adults | 165035 | [165035-lgbt-color-by-number-for-adults.json](./165035-lgbt-color-by-number-for-adults.json) |
 | Lgnorant girl doll | 114994 | [114994-lgnorant-girl-doll.json](./114994-lgnorant-girl-doll.json) |
 | Lhama Clicker | 236545 | [236545-lhama-clicker.json](./236545-lhama-clicker.json) |
@@ -1624,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
 | Loot & Legends | 22354 | [22354-loot-and-legends.json](./22354-loot-and-legends.json) |
 | Loot and Shoot | 250000 | [250000-loot-and-shoot.json](./250000-loot-and-shoot.json) |
+| Loot Box Achievement Simulator | 103790 | [103790-loot-box-achievement-simulator.json](./103790-loot-box-achievement-simulator.json) |
 | Loot Box Simulator | 137038 | [137038-loot-box-simulator.json](./137038-loot-box-simulator.json) |
 | Loot Box Simulator: Crimson Fire | 232983 | [232983-loot-box-simulator-crimson-fire.json](./232983-loot-box-simulator-crimson-fire.json) |
 | Loot Box Simulator: Heroes of the Dark Age | 232984 | [232984-loot-box-simulator-heroes-of-the-dark-age.json](./232984-loot-box-simulator-heroes-of-the-dark-age.json) |
@@ -1908,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Too Easily Bundle | 400199 | [400199-love-too-easily-bundle.json](./400199-love-too-easily-bundle.json) |
 | Love Undying: A Kiss Before Dawn | 302953 | [302953-love-undying-a-kiss-before-dawn.json](./302953-love-undying-a-kiss-before-dawn.json) |
 | Love Verne | 183585 | [183585-love-verne.json](./183585-love-verne.json) |
+| Love Vibe: Aria | 103464 | [103464-love-vibe-aria.json](./103464-love-vibe-aria.json) |
 | Love x Fantasy: Horny Elf | 385057 | [385057-love-x-fantasy-horny-elf.json](./385057-love-x-fantasy-horny-elf.json) |
 | Love x Time | 235743 | [235743-love-x-time.json](./235743-love-x-time.json) |
 | Love-Colored Memories | 412974 | [412974-love-colored-memories.json](./412974-love-colored-memories.json) |
