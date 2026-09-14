@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T06:19:07.994Z",
-  "total_missing": 68732,
+  "generated_at": "2026-09-14T06:21:32.366Z",
+  "total_missing": 68731,
   "games": [
     {
       "igdb_id": 306086,
@@ -4216,11 +4216,6 @@
       "igdb_id": 117691,
       "game_name": "Adventure In Aellion",
       "file": "missing/A/117691-adventure-in-aellion.json"
-    },
-    {
-      "igdb_id": 117044,
-      "game_name": "Adventure in King Caries Land",
-      "file": "missing/A/117044-adventure-in-king-caries-land.json"
     },
     {
       "igdb_id": 192945,
