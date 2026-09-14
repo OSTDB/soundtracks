@@ -2122,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Shoot Nitori the Golden | 202949 | [202949-shoot-shoot-nitori-the-golden.json](./202949-shoot-shoot-nitori-the-golden.json) |
 | Shoot the Ball | 84872 | [84872-shoot-the-ball.json](./84872-shoot-the-ball.json) |
 | Shoot The Barrel | 290928 | [290928-shoot-the-barrel.json](./290928-shoot-the-barrel.json) |
+| Shoot The Barrels | 393661 | [393661-shoot-the-barrels.json](./393661-shoot-the-barrels.json) |
 | Shoot the Buuuuuuugs | 214194 | [214194-shoot-the-buuuuuuugs.json](./214194-shoot-the-buuuuuuugs.json) |
 | Shoot the Robots VR | 278998 | [278998-shoot-the-robots-vr.json](./278998-shoot-the-robots-vr.json) |
 | Shoot the Zombirds VR | 115698 | [115698-shoot-the-zombirds-vr.json](./115698-shoot-the-zombirds-vr.json) |
@@ -2817,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
+| Skill Gap | 393662 | [393662-skill-gap.json](./393662-skill-gap.json) |
 | Skill Legends Royale | 316603 | [316603-skill-legends-royale.json](./316603-skill-legends-royale.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
@@ -4742,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | SpacerX: Dome Survivals | 55101 | [55101-spacerx-dome-survivals.json](./55101-spacerx-dome-survivals.json) |
+| SpaceShift | 393610 | [393610-spaceshift.json](./393610-spaceshift.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
 | SpaceSlog | 197908 | [197908-spaceslog.json](./197908-spaceslog.json) |
 | SpaceSoldier3D | 320160 | [320160-spacesoldier3d.json](./320160-spacesoldier3d.json) |
@@ -5130,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Fly Fire | 220838 | [220838-splash-fly-fire.json](./220838-splash-fly-fire.json) |
 | Splash Girls | 167817 | [167817-splash-girls.json](./167817-splash-girls.json) |
 | Splash Jumper | 220837 | [220837-splash-jumper.json](./220837-splash-jumper.json) |
+| Splash of Color | 393631 | [393631-splash-of-color.json](./393631-splash-of-color.json) |
 | Splash Ship | 214176 | [214176-splash-ship.json](./214176-splash-ship.json) |
 | Splash Wars | 113676 | [113676-splash-wars.json](./113676-splash-wars.json) |
 | Splashy Cube | 147937 | [147937-splashy-cube.json](./147937-splashy-cube.json) |
@@ -5778,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardrytch | 172136 | [172136-stardrytch.json](./172136-stardrytch.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | Stardust Odyssey | 122994 | [122994-stardust-odyssey.json](./122994-stardust-odyssey.json) |
+| Stardust Sandbox | 393604 | [393604-stardust-sandbox.json](./393604-stardust-sandbox.json) |
 | Stardust Valkyries | 215712 | [215712-stardust-valkyries.json](./215712-stardust-valkyries.json) |
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
 | Stares Back | 375854 | [375854-stares-back.json](./375854-stares-back.json) |
