@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-mazing Ants | 52561 | [52561-a-mazing-ants.json](./52561-a-mazing-ants.json) |
 | A-Rank Thunder Tanjouhen | 5355 | [5355-a-rank-thunder-tanjouhen.json](./5355-a-rank-thunder-tanjouhen.json) |
 | A-Red Walking Robot | 276712 | [276712-a-red-walking-robot.json](./276712-a-red-walking-robot.json) |
+| A-Train 9 Evolution | 388239 | [388239-a-train-9-evolution.json](./388239-a-train-9-evolution.json) |
 | A-Train 9 V3.0: Railway Simulator | 52560 | [52560-a-train-9-v3-0-railway-simulator.json](./52560-a-train-9-v3-0-railway-simulator.json) |
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
 | A.D.A.M. | 19398 | [19398-a-d-a-m.json](./19398-a-d-a-m.json) |
@@ -3511,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurail | 39618 | [39618-aurail.json](./39618-aurail.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
 | Aurelia: Stellar Arising | 201806 | [201806-aurelia-stellar-arising.json](./201806-aurelia-stellar-arising.json) |
+| Auri's Amazing Arch Adventure | 388247 | [388247-auris-amazing-arch-adventure.json](./388247-auris-amazing-arch-adventure.json) |
 | Auri's Tales | 113042 | [113042-auris-tales.json](./113042-auris-tales.json) |
 | Auro: A Monster-Bumping Adventure | 33099 | [33099-auro-a-monster-bumping-adventure.json](./33099-auro-a-monster-bumping-adventure.json) |
 | Aurora | 170459 | [170459-aurora.json](./170459-aurora.json) |
