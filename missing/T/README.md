@@ -1960,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
 | The Dead Linger | 9055 | [9055-the-dead-linger.json](./9055-the-dead-linger.json) |
 | The Dead Mountaineer's Hotel | 54438 | [54438-the-dead-mountaineers-hotel.json](./54438-the-dead-mountaineers-hotel.json) |
+| The Dead Roam Free | 388224 | [388224-the-dead-roam-free.json](./388224-the-dead-roam-free.json) |
 | The Dead We Knew: Open World Survival | 412960 | [412960-the-dead-we-knew-open-world-survival.json](./412960-the-dead-we-knew-open-world-survival.json) |
 | The Deadlands | 257689 | [257689-the-deadlands.json](./257689-the-deadlands.json) |
 | The DeadLine | 377590 | [377590-the-deadline.json](./377590-the-deadline.json) |
@@ -2891,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Wulin | 156148 | [156148-the-last-wulin.json](./156148-the-last-wulin.json) |
 | The Late D. Flate's Great Estate | 188090 | [188090-the-late-d-flates-great-estate.json](./188090-the-late-d-flates-great-estate.json) |
 | The Lattice Grimoire | 120396 | [120396-the-lattice-grimoire.json](./120396-the-lattice-grimoire.json) |
+| The Lawnmower Man | 388206 | [388206-the-lawnmower-man.json](./388206-the-lawnmower-man.json) |
 | The Leak | 270109 | [270109-the-leak.json](./270109-the-leak.json) |
 | The Legacy | 378776 | [378776-the-legacy.json](./378776-the-legacy.json) |
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
@@ -4734,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
 | Thinking Games 2 | 72064 | [72064-thinking-games-2.json](./72064-thinking-games-2.json) |
 | ThinkTanks | 84240 | [84240-thinktanks.json](./84240-thinktanks.json) |
+| Thinky Dailies: Season 1 | 388215 | [388215-thinky-dailies-season-1.json](./388215-thinky-dailies-season-1.json) |
 | Third | 233784 | [233784-third.json](./233784-third.json) |
 | Third Crisis | 187542 | [187542-third-crisis.json](./187542-third-crisis.json) |
 | Third Front | 89656 | [89656-third-front.json](./89656-third-front.json) |
@@ -5422,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
 | Timber Slash | 108473 | [108473-timber-slash.json](./108473-timber-slash.json) |
 | Timber Tales | 291443 | [291443-timber-tales.json](./291443-timber-tales.json) |
+| Timberholt | 388253 | [388253-timberholt.json](./388253-timberholt.json) |
 | Timberquest | 245859 | [245859-timberquest.json](./245859-timberquest.json) |
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
 | Time | 130947 | [130947-time.json](./130947-time.json) |
@@ -7344,6 +7348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truco!: Chapter 1 | 259842 | [259842-truco-chapter-1.json](./259842-truco-chapter-1.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
 | True Backgammon HD | 87922 | [87922-true-backgammon-hd.json](./87922-true-backgammon-hd.json) |
+| True Colors | 388238 | [388238-true-colors.json](./388238-true-colors.json) |
 | True Crime: New York City | 4215 | [4215-true-crime-new-york-city.json](./4215-true-crime-new-york-city.json) |
 | True Fantasy Live Online | 18106 | [18106-true-fantasy-live-online.json](./18106-true-fantasy-live-online.json) |
 | True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
