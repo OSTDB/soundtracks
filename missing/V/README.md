@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Families: Cook Off | 219278 | [219278-virtual-families-cook-off.json](./219278-virtual-families-cook-off.json) |
 | Virtual Fishing | 50597 | [50597-virtual-fishing.json](./50597-virtual-fishing.json) |
 | Virtual girl save virtual boy | 282016 | [282016-virtual-girl-save-virtual-boy.json](./282016-virtual-girl-save-virtual-boy.json) |
+| Virtual Goaltender | 86861 | [86861-virtual-goaltender.json](./86861-virtual-goaltender.json) |
 | Virtual Grand Prix 2 | 79281 | [79281-virtual-grand-prix-2.json](./79281-virtual-grand-prix-2.json) |
 | Virtual Hero VR | 118995 | [118995-virtual-hero-vr.json](./118995-virtual-hero-vr.json) |
 | Virtual Horse Ranch II | 73250 | [73250-virtual-horse-ranch-ii.json](./73250-virtual-horse-ranch-ii.json) |
