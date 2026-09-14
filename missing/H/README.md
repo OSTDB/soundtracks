@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Color Links | 277834 | [277834-happy-color-links.json](./277834-happy-color-links.json) |
 | Happy Cook | 200118 | [200118-happy-cook.json](./200118-happy-cook.json) |
 | Happy Day | 158165 | [158165-happy-day.json](./158165-happy-day.json) |
+| Happy Drummer VR | 29993 | [29993-happy-drummer-vr.json](./29993-happy-drummer-vr.json) |
 | Happy Empire | 31693 | [31693-happy-empire.json](./31693-happy-empire.json) |
 | Happy Empire 2: The Lost Relic | 105989 | [105989-happy-empire-2-the-lost-relic.json](./105989-happy-empire-2-the-lost-relic.json) |
 | Happy Feet | 3940 | [3940-happy-feet.json](./3940-happy-feet.json) |
@@ -2151,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Loop | 259590 | [259590-horror-loop.json](./259590-horror-loop.json) |
 | Horror Night: Spooky Night Vol. 1 | 221735 | [221735-horror-night-spooky-night-vol-1.json](./221735-horror-night-spooky-night-vol-1.json) |
 | Horror Night: The Slenderman Takings | 236824 | [236824-horror-night-the-slenderman-takings.json](./236824-horror-night-the-slenderman-takings.json) |
+| Horror of the Deep | 30127 | [30127-horror-of-the-deep.json](./30127-horror-of-the-deep.json) |
 | Horror Pinball Bundle | 126620 | [126620-horror-pinball-bundle.json](./126620-horror-pinball-bundle.json) |
 | Horror Room:Mystery mind story | 143092 | [143092-horror-room-mystery-mind-story.json](./143092-horror-room-mystery-mind-story.json) |
 | Horror Royale | 153965 | [153965-horror-royale.json](./153965-horror-royale.json) |
@@ -2342,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Junkers | 18903 | [18903-hover-junkers.json](./18903-hover-junkers.json) |
 | Hover Rider | 244796 | [244796-hover-rider.json](./244796-hover-rider.json) |
 | Hover Shooting Defence | 265151 | [265151-hover-shooting-defence.json](./265151-hover-shooting-defence.json) |
+| Hover Skate VR | 30167 | [30167-hover-skate-vr.json](./30167-hover-skate-vr.json) |
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
 | Hoverbear | 296909 | [296909-hoverbear.json](./296909-hoverbear.json) |
 | Hoverboard Hero | 237381 | [237381-hoverboard-hero.json](./237381-hoverboard-hero.json) |
