@@ -7866,6 +7866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Titan | 130244 | [130244-surviving-titan.json](./130244-surviving-titan.json) |
 | Surviving West | 92524 | [92524-surviving-west.json](./92524-surviving-west.json) |
 | Surviving with a Bat | 277824 | [277824-surviving-with-a-bat.json](./277824-surviving-with-a-bat.json) |
+| Survivium | 408938 | [408938-survivium.json](./408938-survivium.json) |
 | Survivor | 155085 | [155085-survivor.json](./155085-survivor.json) |
 | Survivor Cells | 199590 | [199590-survivor-cells.json](./199590-survivor-cells.json) |
 | Survivor Cells: Virusbane | 310389 | [310389-survivor-cells-virusbane.json](./310389-survivor-cells-virusbane.json) |
