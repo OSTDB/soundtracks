@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo | 388934 | [388934-echo.json](./388934-echo.json) |
 | Echo 9 | 410936 | [410936-echo-9.json](./410936-echo-9.json) |
 | Echo Chess | 316998 | [316998-echo-chess.json](./316998-echo-chess.json) |
+| Echo Drop! | 383482 | [383482-echo-drop.json](./383482-echo-drop.json) |
 | Echo Flesh Metal | 303511 | [303511-echo-flesh-metal.json](./303511-echo-flesh-metal.json) |
 | Echo Glass | 58215 | [58215-echo-glass.json](./58215-echo-glass.json) |
 | Echo Harvest | 415160 | [415160-echo-harvest.json](./415160-echo-harvest.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
 | Esport Club Tycoon | 197370 | [197370-esport-club-tycoon.json](./197370-esport-club-tycoon.json) |
 | ESport Manager | 81150 | [81150-esport-manager.json](./81150-esport-manager.json) |
+| Essence | 383502 | [383502-essence.json](./383502-essence.json) |
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
 | Essence Hunt | 177512 | [177512-essence-hunt.json](./177512-essence-hunt.json) |
 | Essence of Waluigi | 250044 | [250044-essence-of-waluigi.json](./250044-essence-of-waluigi.json) |
