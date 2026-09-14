@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vex 6 | 188039 | [188039-vex-6.json](./188039-vex-6.json) |
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
+| Veyora | 386298 | [386298-veyora.json](./386298-veyora.json) |
 | Veyrasol | 413754 | [413754-veyrasol.json](./413754-veyrasol.json) |
 | VFR Real Scenery: Birmingham, Coventry & Wolverhampton | 71464 | [71464-vfr-real-scenery-birmingham-coventry-and-wolverhampton.json](./71464-vfr-real-scenery-birmingham-coventry-and-wolverhampton.json) |
 | VFR Real Scenery: London | 70963 | [70963-vfr-real-scenery-london.json](./70963-vfr-real-scenery-london.json) |
@@ -561,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vine | 128625 | [128625-vine.json](./128625-vine.json) |
 | Vine Realms | 135907 | [135907-vine-realms.json](./135907-vine-realms.json) |
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
+| Vinegar Mutter | 386237 | [386237-vinegar-mutter.json](./386237-vinegar-mutter.json) |
 | Vinyl Goddess from Mars | 70953 | [70953-vinyl-goddess-from-mars.json](./70953-vinyl-goddess-from-mars.json) |
 | Vinylove | 107246 | [107246-vinylove.json](./107246-vinylove.json) |
 | Violated By Other World Monster Girls | 82915 | [82915-violated-by-other-world-monster-girls.json](./82915-violated-by-other-world-monster-girls.json) |
