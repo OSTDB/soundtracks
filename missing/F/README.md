@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FFS, Another Northern Duke?! | 309876 | [309876-ffs-another-northern-duke.json](./309876-ffs-another-northern-duke.json) |
 | FhaMazein | 109723 | [109723-fhamazein.json](./109723-fhamazein.json) |
 | Fhtagn Nagh | 271229 | [271229-fhtagn-nagh.json](./271229-fhtagn-nagh.json) |
+| Fhtagn! - Tales of the Creeping Madness | 87947 | [87947-fhtagn-tales-of-the-creeping-madness.json](./87947-fhtagn-tales-of-the-creeping-madness.json) |
 | FIA European Truck Racing Championship | 117855 | [117855-fia-european-truck-racing-championship.json](./117855-fia-european-truck-racing-championship.json) |
 | Fibbage XL | 33374 | [33374-fibbage-xl.json](./33374-fibbage-xl.json) |
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
@@ -2775,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
+| Fruits - Connect the Dots and Add Colors | 87908 | [87908-fruits-connect-the-dots-and-add-colors.json](./87908-fruits-connect-the-dots-and-add-colors.json) |
 | Fruits Blast - Match Cube | 108953 | [108953-fruits-blast-match-cube.json](./108953-fruits-blast-match-cube.json) |
 | Fruits Inc. Deluxe Pack | 35750 | [35750-fruits-inc-deluxe-pack.json](./35750-fruits-inc-deluxe-pack.json) |
 | Fruits Jigsaw Puzzle | 88167 | [88167-fruits-jigsaw-puzzle.json](./88167-fruits-jigsaw-puzzle.json) |
