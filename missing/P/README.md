@@ -3673,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pungo | 355522 | [355522-pungo.json](./355522-pungo.json) |
 | Puniru ha Kawaii Slime no Game wo "Ano Game" de Tsukuttemita Keredo, Hatashite Anata ha Clear Dekirunoka? | 326577 | [326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json](./326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json) |
 | Punishment | 57647 | [57647-punishment.json](./57647-punishment.json) |
+| Punishment 2: The Punishing | 402353 | [402353-punishment-2-the-punishing.json](./402353-punishment-2-the-punishing.json) |
 | Punishment Darkness Online: Centre Ville | 171080 | [171080-punishment-darkness-online-centre-ville.json](./171080-punishment-darkness-online-centre-ville.json) |
 | Punishment Darkness Online: Grand Moun | 171079 | [171079-punishment-darkness-online-grand-moun.json](./171079-punishment-darkness-online-grand-moun.json) |
 | PuniTy | 26508 | [26508-punity.json](./26508-punity.json) |
