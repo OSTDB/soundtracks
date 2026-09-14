@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratcore | 412270 | [412270-ratcore.json](./412270-ratcore.json) |
 | Rated Sudoku | 278397 | [278397-rated-sudoku.json](./278397-rated-sudoku.json) |
 | Rations, Please! | 176970 | [176970-rations-please.json](./176970-rations-please.json) |
+| Ratocalypse | 381137 | [381137-ratocalypse.json](./381137-ratocalypse.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
 | Rats Invasion | 96673 | [96673-rats-invasion.json](./96673-rats-invasion.json) |
 | Rats Invasion 2 | 86889 | [86889-rats-invasion-2.json](./86889-rats-invasion-2.json) |
@@ -1536,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
 | Revolvermen | 344397 | [344397-revolvermen.json](./344397-revolvermen.json) |
+| RevolverRouge | 381115 | [381115-revolverrouge.json](./381115-revolverrouge.json) |
 | RevolVR 3 | 169355 | [169355-revolvr-3.json](./169355-revolvr-3.json) |
 | Revvver | 285450 | [285450-revvver.json](./285450-revvver.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
