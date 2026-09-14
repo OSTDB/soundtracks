@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards and Warlords | 30132 | [30132-wizards-and-warlords.json](./30132-wizards-and-warlords.json) |
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
 | Wizards' Clash | 35738 | [35738-wizards-clash.json](./35738-wizards-clash.json) |
+| WizardWare | 400983 | [400983-wizardware.json](./400983-wizardware.json) |
 | Wizavior | 255392 | [255392-wizavior.json](./255392-wizavior.json) |
 | WizBall | 415127 | [415127-wizball.json](./415127-wizball.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
