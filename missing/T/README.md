@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatsuno Quest | 82767 | [82767-tatsuno-quest.json](./82767-tatsuno-quest.json) |
 | Tattoo Design Studio: Fun Game | 89156 | [89156-tattoo-design-studio-fun-game.json](./89156-tattoo-design-studio-fun-game.json) |
 | Tattoo Punk | 146824 | [146824-tattoo-punk.json](./146824-tattoo-punk.json) |
+| Tatvalok | 380542 | [380542-tatvalok.json](./380542-tatvalok.json) |
 | TAU-09 | 392942 | [392942-tau-09.json](./392942-tau-09.json) |
 | TauCeti Unknown Origin | 130911 | [130911-tauceti-unknown-origin.json](./130911-tauceti-unknown-origin.json) |
 | Tauriel Teaches Typing | 181883 | [181883-tauriel-teaches-typing.json](./181883-tauriel-teaches-typing.json) |
@@ -2476,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Escape | 310406 | [310406-the-great-escape.json](./310406-the-great-escape.json) |
 | The Great Farce | 318176 | [318176-the-great-farce.json](./318176-the-great-farce.json) |
 | The Great Fear | 260650 | [260650-the-great-fear.json](./260650-the-great-fear.json) |
+| The Great Flood | 380563 | [380563-the-great-flood.json](./380563-the-great-flood.json) |
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
 | The Great Hero's Cat | 209605 | [209605-the-great-heros-cat.json](./209605-the-great-heros-cat.json) |
 | The Great House Escape | 386220 | [386220-the-great-house-escape.json](./386220-the-great-house-escape.json) |
@@ -3104,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Before the Shadow | 275927 | [275927-the-lord-of-the-rings-online-before-the-shadow.json](./275927-the-lord-of-the-rings-online-before-the-shadow.json) |
 | The Lord of the Rings Online: Corsairs of Umbar | 275928 | [275928-the-lord-of-the-rings-online-corsairs-of-umbar.json](./275928-the-lord-of-the-rings-online-corsairs-of-umbar.json) |
 | The Lord of the Rings Online: Fate of Gundabad | 275926 | [275926-the-lord-of-the-rings-online-fate-of-gundabad.json](./275926-the-lord-of-the-rings-online-fate-of-gundabad.json) |
+| The Lord of the Rings Online: Kingdoms of Harad | 380534 | [380534-the-lord-of-the-rings-online-kingdoms-of-harad.json](./380534-the-lord-of-the-rings-online-kingdoms-of-harad.json) |
 | The Lord of the Rings Online: Minas Morgul | 275924 | [275924-the-lord-of-the-rings-online-minas-morgul.json](./275924-the-lord-of-the-rings-online-minas-morgul.json) |
 | The Lord of the Rings Online: Quest Pack: Legacy of the Necromancer | 384536 | [384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json](./384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json) |
 | The Lord of the Rings Online: Quest Pack: The Vales of Anduin | 384540 | [384540-the-lord-of-the-rings-online-quest-pack-the-vales-of-anduin.json](./384540-the-lord-of-the-rings-online-quest-pack-the-vales-of-anduin.json) |
@@ -5795,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toby | 378190 | [378190-toby.json](./378190-toby.json) |
 | Toby's Topsy Tale | 293615 | [293615-tobys-topsy-tale.json](./293615-tobys-topsy-tale.json) |
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
+| Toca Boca Hair Salon 4 | 380522 | [380522-toca-boca-hair-salon-4.json](./380522-toca-boca-hair-salon-4.json) |
 | Toca Life World | 126005 | [126005-toca-life-world.json](./126005-toca-life-world.json) |
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
@@ -6388,6 +6392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Tougensai | 334137 | [334137-touhou-tougensai.json](./334137-touhou-tougensai.json) |
 | Touhou Volleyball | 351605 | [351605-touhou-volleyball.json](./351605-touhou-volleyball.json) |
 | Touhou Witch's Night Market | 380424 | [380424-touhou-witchs-night-market.json](./380424-touhou-witchs-night-market.json) |
+| Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
 | Touhou: Fearless Frogslayer | 356088 | [356088-touhou-fearless-frogslayer.json](./356088-touhou-fearless-frogslayer.json) |
 | Touhou: Gensokyo Survivors | 248043 | [248043-touhou-gensokyo-survivors.json](./248043-touhou-gensokyo-survivors.json) |
 | Touhou: Heart of the Tiger | 209140 | [209140-touhou-heart-of-the-tiger.json](./209140-touhou-heart-of-the-tiger.json) |
