@@ -398,7 +398,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
 | Adventures With Oslo: World of Water | 262400 | [262400-adventures-with-oslo-world-of-water.json](./262400-adventures-with-oslo-world-of-water.json) |
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
-| Adversator | 180289 | [180289-adversator.json](./180289-adversator.json) |
 | Adverse | 132254 | [132254-adverse.json](./132254-adverse.json) |
 | Advise the King | 229941 | [229941-advise-the-king.json](./229941-advise-the-king.json) |
 | Ae | 184042 | [184042-ae.json](./184042-ae.json) |
