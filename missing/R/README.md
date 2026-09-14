@@ -2794,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeyana | 32935 | [32935-runeyana.json](./32935-runeyana.json) |
 | Runi's Math Castle | 306337 | [306337-runis-math-castle.json](./306337-runis-math-castle.json) |
 | Runic Curse | 207851 | [207851-runic-curse.json](./207851-runic-curse.json) |
+| Runic Rogues | 413052 | [413052-runic-rogues.json](./413052-runic-rogues.json) |
 | Runic Survivor | 215909 | [215909-runic-survivor.json](./215909-runic-survivor.json) |
 | Runic Warrens | 271745 | [271745-runic-warrens.json](./271745-runic-warrens.json) |
 | Runic: Eternal Sunrise | 244781 | [244781-runic-eternal-sunrise.json](./244781-runic-eternal-sunrise.json) |
