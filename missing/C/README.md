@@ -3004,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | Console Colour: Disney's Planes | 407308 | [407308-console-colour-disneys-planes.json](./407308-console-colour-disneys-planes.json) |
 | Console Info: 2010 Edition | 91399 | [91399-console-info-2010-edition.json](./91399-console-info-2010-edition.json) |
+| Console Store Simulator | 391748 | [391748-console-store-simulator.json](./391748-console-store-simulator.json) |
 | Console War Giant | 407313 | [407313-console-war-giant.json](./407313-console-war-giant.json) |
 | Consonance | 374596 | [374596-consonance.json](./374596-consonance.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
@@ -4100,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryste: the Faith of Fire Vol.1 | 28870 | [28870-cryste-the-faith-of-fire-vol-1.json](./28870-cryste-the-faith-of-fire-vol-1.json) |
 | Cryzon Part4 | 394384 | [394384-cryzon-part4.json](./394384-cryzon-part4.json) |
 | CS Manager | 404337 | [404337-cs-manager.json](./404337-cs-manager.json) |
+| CS Pipas: Legend | 391713 | [391713-cs-pipas-legend.json](./391713-cs-pipas-legend.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
 | CSI: Slots | 79913 | [79913-csi-slots.json](./79913-csi-slots.json) |
 | CSOL | 258488 | [258488-csol.json](./258488-csol.json) |
