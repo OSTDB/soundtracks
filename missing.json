@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T11:21:32.660Z",
-  "total_missing": 69586,
+  "generated_at": "2026-09-14T11:33:42.459Z",
+  "total_missing": 69635,
   "games": [
     {
       "igdb_id": 306086,
@@ -4371,11 +4371,6 @@
       "igdb_id": 276708,
       "game_name": "Adventures in Anglonia",
       "file": "missing/A/276708-adventures-in-anglonia.json"
-    },
-    {
-      "igdb_id": 357781,
-      "game_name": "Adventures in Calculon",
-      "file": "missing/A/357781-adventures-in-calculon.json"
     },
     {
       "igdb_id": 62154,
@@ -35253,6 +35248,11 @@
       "file": "missing/B/188112-bombagun.json"
     },
     {
+      "igdb_id": 404342,
+      "game_name": "Bombanana!",
+      "file": "missing/B/404342-bombanana.json"
+    },
+    {
       "igdb_id": 349300,
       "game_name": "Bombardiro Crocodilo Simulator",
       "file": "missing/B/349300-bombardiro-crocodilo-simulator.json"
@@ -61883,6 +61883,11 @@
       "file": "missing/C/28870-cryste-the-faith-of-fire-vol-1.json"
     },
     {
+      "igdb_id": 404337,
+      "game_name": "CS Manager",
+      "file": "missing/C/404337-cs-manager.json"
+    },
+    {
       "igdb_id": 197873,
       "game_name": "CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases",
       "file": "missing/C/197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json"
@@ -76933,6 +76938,11 @@
       "file": "missing/D/124744-dominus-galaxia.json"
     },
     {
+      "igdb_id": 404343,
+      "game_name": "Dominus Gladiatus",
+      "file": "missing/D/404343-dominus-gladiatus.json"
+    },
+    {
       "igdb_id": 199615,
       "game_name": "Dominus Rage",
       "file": "missing/D/199615-dominus-rage.json"
@@ -80746,6 +80756,11 @@
       "igdb_id": 110305,
       "game_name": "Drawn to Light",
       "file": "missing/D/110305-drawn-to-light.json"
+    },
+    {
+      "igdb_id": 404311,
+      "game_name": "Drawn Together",
+      "file": "missing/D/404311-drawn-together.json"
     },
     {
       "igdb_id": 33294,
@@ -85538,6 +85553,11 @@
       "file": "missing/E/303508-echo-of-prypiat.json"
     },
     {
+      "igdb_id": 404333,
+      "game_name": "Echo Pandemic",
+      "file": "missing/E/404333-echo-pandemic.json"
+    },
+    {
       "igdb_id": 243932,
       "game_name": "Echo Point Nova",
       "file": "missing/E/243932-echo-point-nova.json"
@@ -88766,6 +88786,11 @@
       "igdb_id": 218696,
       "game_name": "Endless Siege Online",
       "file": "missing/E/218696-endless-siege-online.json"
+    },
+    {
+      "igdb_id": 404330,
+      "game_name": "Endless Silent Night",
+      "file": "missing/E/404330-endless-silent-night.json"
     },
     {
       "igdb_id": 231650,
@@ -114021,6 +114046,11 @@
       "igdb_id": 364500,
       "game_name": "Girder & Hearts: Reel Romance",
       "file": "missing/G/364500-girder-and-hearts-reel-romance.json"
+    },
+    {
+      "igdb_id": 404331,
+      "game_name": "Girl & Scarecrow",
+      "file": "missing/G/404331-girl-and-scarecrow.json"
     },
     {
       "igdb_id": 334654,
@@ -141986,6 +142016,11 @@
       "igdb_id": 7869,
       "game_name": "Invisible Parties",
       "file": "missing/I/7869-invisible-parties.json"
+    },
+    {
+      "igdb_id": 404339,
+      "game_name": "Invisible War Revised",
+      "file": "missing/I/404339-invisible-war-revised.json"
     },
     {
       "igdb_id": 168364,
@@ -180638,6 +180673,11 @@
       "file": "missing/M/271728-mirame.json"
     },
     {
+      "igdb_id": 404307,
+      "game_name": "Miraneko",
+      "file": "missing/M/404307-miraneko.json"
+    },
+    {
       "igdb_id": 132782,
       "game_name": "Mirastell",
       "file": "missing/M/132782-mirastell.json"
@@ -184506,6 +184546,11 @@
       "igdb_id": 26716,
       "game_name": "Moonlight Blade",
       "file": "missing/M/26716-moonlight-blade.json"
+    },
+    {
+      "igdb_id": 404334,
+      "game_name": "Moonlight Cradle",
+      "file": "missing/M/404334-moonlight-cradle.json"
     },
     {
       "igdb_id": 121734,
@@ -212948,6 +212993,181 @@
       "file": "missing/P/156626-piaozhe-xiaohui-de-dagong-dazuozhan.json"
     },
     {
+      "igdb_id": 404290,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 10",
+      "file": "missing/P/404290-pic-a-pix-pieces-15x15-pieces-pack-10.json"
+    },
+    {
+      "igdb_id": 404291,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 11",
+      "file": "missing/P/404291-pic-a-pix-pieces-15x15-pieces-pack-11.json"
+    },
+    {
+      "igdb_id": 404292,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 12",
+      "file": "missing/P/404292-pic-a-pix-pieces-15x15-pieces-pack-12.json"
+    },
+    {
+      "igdb_id": 404293,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 13",
+      "file": "missing/P/404293-pic-a-pix-pieces-15x15-pieces-pack-13.json"
+    },
+    {
+      "igdb_id": 404294,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 14",
+      "file": "missing/P/404294-pic-a-pix-pieces-15x15-pieces-pack-14.json"
+    },
+    {
+      "igdb_id": 404295,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 15",
+      "file": "missing/P/404295-pic-a-pix-pieces-15x15-pieces-pack-15.json"
+    },
+    {
+      "igdb_id": 404296,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 16",
+      "file": "missing/P/404296-pic-a-pix-pieces-15x15-pieces-pack-16.json"
+    },
+    {
+      "igdb_id": 404297,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 17",
+      "file": "missing/P/404297-pic-a-pix-pieces-15x15-pieces-pack-17.json"
+    },
+    {
+      "igdb_id": 404298,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 18",
+      "file": "missing/P/404298-pic-a-pix-pieces-15x15-pieces-pack-18.json"
+    },
+    {
+      "igdb_id": 404299,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 2",
+      "file": "missing/P/404299-pic-a-pix-pieces-15x15-pieces-pack-2.json"
+    },
+    {
+      "igdb_id": 404300,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 3",
+      "file": "missing/P/404300-pic-a-pix-pieces-15x15-pieces-pack-3.json"
+    },
+    {
+      "igdb_id": 404301,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 4",
+      "file": "missing/P/404301-pic-a-pix-pieces-15x15-pieces-pack-4.json"
+    },
+    {
+      "igdb_id": 404302,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 5",
+      "file": "missing/P/404302-pic-a-pix-pieces-15x15-pieces-pack-5.json"
+    },
+    {
+      "igdb_id": 404303,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 6",
+      "file": "missing/P/404303-pic-a-pix-pieces-15x15-pieces-pack-6.json"
+    },
+    {
+      "igdb_id": 404304,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 7",
+      "file": "missing/P/404304-pic-a-pix-pieces-15x15-pieces-pack-7.json"
+    },
+    {
+      "igdb_id": 404305,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 8",
+      "file": "missing/P/404305-pic-a-pix-pieces-15x15-pieces-pack-8.json"
+    },
+    {
+      "igdb_id": 404306,
+      "game_name": "Pic-a-Pix Pieces: 15x15 Pieces Pack 9",
+      "file": "missing/P/404306-pic-a-pix-pieces-15x15-pieces-pack-9.json"
+    },
+    {
+      "igdb_id": 404312,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 1",
+      "file": "missing/P/404312-pic-a-pix-pieces-20x20-pieces-pack-1.json"
+    },
+    {
+      "igdb_id": 404313,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 10",
+      "file": "missing/P/404313-pic-a-pix-pieces-20x20-pieces-pack-10.json"
+    },
+    {
+      "igdb_id": 404314,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 11",
+      "file": "missing/P/404314-pic-a-pix-pieces-20x20-pieces-pack-11.json"
+    },
+    {
+      "igdb_id": 404315,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 12",
+      "file": "missing/P/404315-pic-a-pix-pieces-20x20-pieces-pack-12.json"
+    },
+    {
+      "igdb_id": 404316,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 13",
+      "file": "missing/P/404316-pic-a-pix-pieces-20x20-pieces-pack-13.json"
+    },
+    {
+      "igdb_id": 404317,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 14",
+      "file": "missing/P/404317-pic-a-pix-pieces-20x20-pieces-pack-14.json"
+    },
+    {
+      "igdb_id": 404318,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 15",
+      "file": "missing/P/404318-pic-a-pix-pieces-20x20-pieces-pack-15.json"
+    },
+    {
+      "igdb_id": 404319,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 16",
+      "file": "missing/P/404319-pic-a-pix-pieces-20x20-pieces-pack-16.json"
+    },
+    {
+      "igdb_id": 404320,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 17",
+      "file": "missing/P/404320-pic-a-pix-pieces-20x20-pieces-pack-17.json"
+    },
+    {
+      "igdb_id": 404321,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 18",
+      "file": "missing/P/404321-pic-a-pix-pieces-20x20-pieces-pack-18.json"
+    },
+    {
+      "igdb_id": 404322,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 2",
+      "file": "missing/P/404322-pic-a-pix-pieces-20x20-pieces-pack-2.json"
+    },
+    {
+      "igdb_id": 404323,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 3",
+      "file": "missing/P/404323-pic-a-pix-pieces-20x20-pieces-pack-3.json"
+    },
+    {
+      "igdb_id": 404324,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 4",
+      "file": "missing/P/404324-pic-a-pix-pieces-20x20-pieces-pack-4.json"
+    },
+    {
+      "igdb_id": 404325,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 5",
+      "file": "missing/P/404325-pic-a-pix-pieces-20x20-pieces-pack-5.json"
+    },
+    {
+      "igdb_id": 404326,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 6",
+      "file": "missing/P/404326-pic-a-pix-pieces-20x20-pieces-pack-6.json"
+    },
+    {
+      "igdb_id": 404327,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 7",
+      "file": "missing/P/404327-pic-a-pix-pieces-20x20-pieces-pack-7.json"
+    },
+    {
+      "igdb_id": 404328,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 8",
+      "file": "missing/P/404328-pic-a-pix-pieces-20x20-pieces-pack-8.json"
+    },
+    {
+      "igdb_id": 404329,
+      "game_name": "Pic-a-Pix Pieces: 20x20 Pieces Pack 9",
+      "file": "missing/P/404329-pic-a-pix-pieces-20x20-pieces-pack-9.json"
+    },
+    {
       "igdb_id": 279611,
       "game_name": "Pic-Man",
       "file": "missing/P/279611-pic-man.json"
@@ -221336,6 +221556,11 @@
       "igdb_id": 254544,
       "game_name": "Prince Maker-Braveness",
       "file": "missing/P/254544-prince-maker-braveness.json"
+    },
+    {
+      "igdb_id": 404332,
+      "game_name": "Prince of Egypt",
+      "file": "missing/P/404332-prince-of-egypt.json"
     },
     {
       "igdb_id": 284776,
@@ -231178,6 +231403,11 @@
       "file": "missing/R/115647-realm-royale-shadowfall-bundle.json"
     },
     {
+      "igdb_id": 404341,
+      "game_name": "Realmguard",
+      "file": "missing/R/404341-realmguard.json"
+    },
+    {
       "igdb_id": 301275,
       "game_name": "Realms of Alterra",
       "file": "missing/R/301275-realms-of-alterra.json"
@@ -231526,6 +231756,11 @@
       "igdb_id": 90542,
       "game_name": "Reckless Racing HD",
       "file": "missing/R/90542-reckless-racing-hd.json"
+    },
+    {
+      "igdb_id": 404308,
+      "game_name": "Reclaimer",
+      "file": "missing/R/404308-reclaimer.json"
     },
     {
       "igdb_id": 268463,
@@ -239266,6 +239501,11 @@
       "igdb_id": 273954,
       "game_name": "Rolling for Romance",
       "file": "missing/R/273954-rolling-for-romance.json"
+    },
+    {
+      "igdb_id": 404338,
+      "game_name": "Rolling Hero",
+      "file": "missing/R/404338-rolling-hero.json"
     },
     {
       "igdb_id": 286498,
@@ -338171,6 +338411,11 @@
       "igdb_id": 35853,
       "game_name": "Without Within",
       "file": "missing/W/35853-without-within.json"
+    },
+    {
+      "igdb_id": 404336,
+      "game_name": "Witness the Dark #1: Bloody Burger",
+      "file": "missing/W/404336-witness-the-dark-1-bloody-burger.json"
     },
     {
       "igdb_id": 208062,
