@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amped 3 | 5483 | [5483-amped-3.json](./5483-amped-3.json) |
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
+| Ampsball | 398443 | [398443-ampsball.json](./398443-ampsball.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amulet of Yendor | 2882 | [2882-amulet-of-yendor.json](./2882-amulet-of-yendor.json) |
 | Amusement Park: Jumping Kid | 203385 | [203385-amusement-park-jumping-kid.json](./203385-amusement-park-jumping-kid.json) |
@@ -2966,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent DX | 336896 | [336896-ascent-dx.json](./336896-ascent-dx.json) |
 | Ascent of Ashes | 226229 | [226229-ascent-of-ashes.json](./226229-ascent-of-ashes.json) |
 | Ascent of Kings | 85506 | [85506-ascent-of-kings.json](./85506-ascent-of-kings.json) |
+| ASCII Survivors | 398448 | [398448-ascii-survivors.json](./398448-ascii-survivors.json) |
 | Ascii the Brave Cat | 143752 | [143752-ascii-the-brave-cat.json](./143752-ascii-the-brave-cat.json) |
 | ASCII Tower Defense | 302097 | [302097-ascii-tower-defense.json](./302097-ascii-tower-defense.json) |
 | Asciill | 192976 | [192976-asciill.json](./192976-asciill.json) |
@@ -3398,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atled: Everlasting Song | 194540 | [194540-atled-everlasting-song.json](./194540-atled-everlasting-song.json) |
 | Atlus Collaboration Costume Set | 333387 | [333387-atlus-collaboration-costume-set.json](./333387-atlus-collaboration-costume-set.json) |
 | Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
+| Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
 | Atom Universe | 18180 | [18180-atom-universe.json](./18180-atom-universe.json) |
 | Atom-X | 111755 | [111755-atom-x.json](./111755-atom-x.json) |
