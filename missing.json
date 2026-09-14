@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T12:19:09.804Z",
-  "total_missing": 69749,
+  "generated_at": "2026-09-14T12:21:38.028Z",
+  "total_missing": 69748,
   "games": [
     {
       "igdb_id": 306086,
@@ -4396,11 +4396,6 @@
       "igdb_id": 134695,
       "game_name": "Adventures of a Radish",
       "file": "missing/A/134695-adventures-of-a-radish.json"
-    },
-    {
-      "igdb_id": 29918,
-      "game_name": "Adventures of Abrix",
-      "file": "missing/A/29918-adventures-of-abrix.json"
     },
     {
       "igdb_id": 141228,
