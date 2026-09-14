@@ -351,7 +351,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
 | Adventure Apes and the Mayan Mystery | 33017 | [33017-adventure-apes-and-the-mayan-mystery.json](./33017-adventure-apes-and-the-mayan-mystery.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
-| Adventure C Ship of Doom | 45360 | [45360-adventure-c-ship-of-doom.json](./45360-adventure-c-ship-of-doom.json) |
 | Adventure C: The Ship of Doom | 72641 | [72641-adventure-c-the-ship-of-doom.json](./72641-adventure-c-the-ship-of-doom.json) |
 | Adventure Canoe | 392769 | [392769-adventure-canoe.json](./392769-adventure-canoe.json) |
 | AdVenture Capitalist | 9591 | [9591-adventure-capitalist.json](./9591-adventure-capitalist.json) |
