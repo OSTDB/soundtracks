@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People Eater | 28901 | [28901-people-eater.json](./28901-people-eater.json) |
 | People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
 | People Playground | 122646 | [122646-people-playground.json](./122646-people-playground.json) |
+| People's Press Kiosk | 410957 | [410957-peoples-press-kiosk.json](./410957-peoples-press-kiosk.json) |
 | People's World | 284903 | [284903-peoples-world.json](./284903-peoples-world.json) |
 | Pepo | 171047 | [171047-pepo.json](./171047-pepo.json) |
 | Peppa Pig: Fun and Games | 20318 | [20318-peppa-pig-fun-and-games.json](./20318-peppa-pig-fun-and-games.json) |
@@ -3009,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Escape Puzzle | 100151 | [100151-prison-escape-puzzle.json](./100151-prison-escape-puzzle.json) |
 | Prison Fights Simulator | 310168 | [310168-prison-fights-simulator.json](./310168-prison-fights-simulator.json) |
 | Prison Forever | 128016 | [128016-prison-forever.json](./128016-prison-forever.json) |
+| Prison Gambit | 411031 | [411031-prison-gambit.json](./411031-prison-gambit.json) |
 | Prison Girl | 150645 | [150645-prison-girl.json](./150645-prison-girl.json) |
 | Prison Life: Idle Game | 408750 | [408750-prison-life-idle-game.json](./408750-prison-life-idle-game.json) |
 | Prison Manager 2 | 194002 | [194002-prison-manager-2.json](./194002-prison-manager-2.json) |
@@ -3420,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protektor | 176516 | [176516-protektor.json](./176516-protektor.json) |
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto_1987_01_IT | 339817 | [339817-proto-1987-01-it.json](./339817-proto-1987-01-it.json) |
+| Protocol Bound | 410964 | [410964-protocol-bound.json](./410964-protocol-bound.json) |
 | Protocol Endfall | 159834 | [159834-protocol-endfall.json](./159834-protocol-endfall.json) |
 | Protocol Last Life | 112369 | [112369-protocol-last-life.json](./112369-protocol-last-life.json) |
 | Protocol Nadir | 367940 | [367940-protocol-nadir.json](./367940-protocol-nadir.json) |
@@ -3658,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
 | Purikura Daisakusen | 39572 | [39572-purikura-daisakusen.json](./39572-purikura-daisakusen.json) |
 | Purity | 184113 | [184113-purity.json](./184113-purity.json) |
+| Puroma | 410980 | [410980-puroma.json](./410980-puroma.json) |
 | Purple Chicken Spaceman | 117777 | [117777-purple-chicken-spaceman.json](./117777-purple-chicken-spaceman.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
 | Purple Slime Production Line | 298581 | [298581-purple-slime-production-line.json](./298581-purple-slime-production-line.json) |
