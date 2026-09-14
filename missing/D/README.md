@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Earth | 410975 | [410975-dark-earth.json](./410975-dark-earth.json) |
 | Dark Egg | 213974 | [213974-dark-egg.json](./213974-dark-egg.json) |
 | Dark Elf | 51570 | [51570-dark-elf.json](./51570-dark-elf.json) |
+| Dark Engines | 398416 | [398416-dark-engines.json](./398416-dark-engines.json) |
 | Dark Eyes | 145629 | [145629-dark-eyes.json](./145629-dark-eyes.json) |
 | Dark Eyes: Millennium 2000 | 145632 | [145632-dark-eyes-millennium-2000.json](./145632-dark-eyes-millennium-2000.json) |
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
@@ -743,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island: Game of the Year Edition | 47400 | [47400-dead-island-game-of-the-year-edition.json](./47400-dead-island-game-of-the-year-edition.json) |
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
 | Dead Land 2 VR | 336368 | [336368-dead-land-2-vr.json](./336368-dead-land-2-vr.json) |
+| Dead Lasso: Temple Of Shadows | 398423 | [398423-dead-lasso-temple-of-shadows.json](./398423-dead-lasso-temple-of-shadows.json) |
 | Dead Like Ants | 216240 | [216240-dead-like-ants.json](./216240-dead-like-ants.json) |
 | Dead Link: Pages Torn | 75808 | [75808-dead-link-pages-torn.json](./75808-dead-link-pages-torn.json) |
 | Dead Mall | 342614 | [342614-dead-mall.json](./342614-dead-mall.json) |
@@ -1009,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathmatch Soccer | 74437 | [74437-deathmatch-soccer.json](./74437-deathmatch-soccer.json) |
 | Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
 | Deathrun TV | 152284 | [152284-deathrun-tv.json](./152284-deathrun-tv.json) |
+| Deaths of Peck | 398425 | [398425-deaths-of-peck.json](./398425-deaths-of-peck.json) |
 | Deathsmiles II: Makai no Merry Christmas | 68011 | [68011-deathsmiles-ii-makai-no-merry-christmas.json](./68011-deathsmiles-ii-makai-no-merry-christmas.json) |
 | Deathsmiles Mega Black Label | 79852 | [79852-deathsmiles-mega-black-label.json](./79852-deathsmiles-mega-black-label.json) |
 | Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
@@ -1272,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Force: Xtreme | 1273 | [1273-delta-force-xtreme.json](./1273-delta-force-xtreme.json) |
 | Delta G | 112924 | [112924-delta-g.json](./112924-delta-g.json) |
 | Delta Horizon | 106560 | [106560-delta-horizon.json](./106560-delta-horizon.json) |
+| Delta Manager | 398464 | [398464-delta-manager.json](./398464-delta-manager.json) |
 | Delta Online | 390011 | [390011-delta-online.json](./390011-delta-online.json) |
 | Delta Riddle | 96039 | [96039-delta-riddle.json](./96039-delta-riddle.json) |
 | Delta Strike: First Assault | 99547 | [99547-delta-strike-first-assault.json](./99547-delta-strike-first-assault.json) |
@@ -1783,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Painting ASMR: Cute Edition | 317260 | [317260-diamond-painting-asmr-cute-edition.json](./317260-diamond-painting-asmr-cute-edition.json) |
 | Diamond Painting ASMR: Fun & Cute | 309076 | [309076-diamond-painting-asmr-fun-and-cute.json](./309076-diamond-painting-asmr-fun-and-cute.json) |
 | Diamond Run | 305745 | [305745-diamond-run.json](./305745-diamond-run.json) |
+| Diamond Runway | 398417 | [398417-diamond-runway.json](./398417-diamond-runway.json) |
 | Diamond Skee-Ball | 209611 | [209611-diamond-skee-ball.json](./209611-diamond-skee-ball.json) |
 | Diamond Trust of London | 9138 | [9138-diamond-trust-of-london.json](./9138-diamond-trust-of-london.json) |
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
@@ -1843,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die CD-ROM mit der Maus 2 | 250610 | [250610-die-cd-rom-mit-der-maus-2.json](./250610-die-cd-rom-mit-der-maus-2.json) |
 | Die CD-ROM mit der Maus 3 | 250611 | [250611-die-cd-rom-mit-der-maus-3.json](./250611-die-cd-rom-mit-der-maus-3.json) |
 | Die Cook | 277024 | [277024-die-cook.json](./277024-die-cook.json) |
+| Die DillyBillys | 398477 | [398477-die-dillybillys.json](./398477-die-dillybillys.json) |
 | Die drei???: Plan der Chamäleonbande | 302665 | [302665-die-drei-plan-der-chamaleonbande.json](./302665-die-drei-plan-der-chamaleonbande.json) |
 | Die Erdnussbutter | 285978 | [285978-die-erdnussbutter.json](./285978-die-erdnussbutter.json) |
 | Die for Valhalla! | 40868 | [40868-die-for-valhalla.json](./40868-die-for-valhalla.json) |
@@ -2464,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Guardian and the Fallen Star | 181863 | [181863-dog-guardian-and-the-fallen-star.json](./181863-dog-guardian-and-the-fallen-star.json) |
 | Dog In A Box | 113058 | [113058-dog-in-a-box.json](./113058-dog-in-a-box.json) |
 | Dog in the City | 139926 | [139926-dog-in-the-city.json](./139926-dog-in-the-city.json) |
+| Dog in the Machine | 398405 | [398405-dog-in-the-machine.json](./398405-dog-in-the-machine.json) |
 | Dog Knowse Chapter 1: The Dame | 249790 | [249790-dog-knowse-chapter-1-the-dame.json](./249790-dog-knowse-chapter-1-the-dame.json) |
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
 | Dog Man: Mission Impawsible | 316875 | [316875-dog-man-mission-impawsible.json](./316875-dog-man-mission-impawsible.json) |
@@ -2657,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look Down | 186244 | [186244-dont-look-down.json](./186244-dont-look-down.json) |
 | Don't Look! | 168387 | [168387-dont-look.json](./168387-dont-look.json) |
 | Don't Mess With Your Ex | 414309 | [414309-dont-mess-with-your-ex.json](./414309-dont-mess-with-your-ex.json) |
+| Don’t Open | 398421 | [398421-don-t-open.json](./398421-don-t-open.json) |
 | Don't Open This Book | 336524 | [336524-dont-open-this-book.json](./336524-dont-open-this-book.json) |
 | Don't Panic | 13603 | [13603-dont-panic.json](./13603-dont-panic.json) |
 | Don't Pause Game! | 389988 | [389988-dont-pause-game.json](./389988-dont-pause-game.json) |
