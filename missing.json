@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T18:01:35.645Z",
-  "total_missing": 70641,
+  "generated_at": "2026-09-14T18:11:36.354Z",
+  "total_missing": 70644,
   "games": [
     {
       "igdb_id": 306086,
@@ -4581,11 +4581,6 @@
       "igdb_id": 290947,
       "game_name": "Aerial_Knight's We Never Yield",
       "file": "missing/A/290947-aerial-knights-we-never-yield.json"
-    },
-    {
-      "igdb_id": 288745,
-      "game_name": "Aeris",
-      "file": "missing/A/288745-aeris.json"
     },
     {
       "igdb_id": 157134,
@@ -41713,6 +41708,11 @@
       "file": "missing/B/260375-bushido-saga-nightmare-of-the-samurai.json"
     },
     {
+      "igdb_id": 391200,
+      "game_name": "Business 98",
+      "file": "missing/B/391200-business-98.json"
+    },
+    {
       "igdb_id": 280220,
       "game_name": "Business Empire: RichMan",
       "file": "missing/B/280220-business-empire-richman.json"
@@ -52971,6 +52971,11 @@
       "igdb_id": 303753,
       "game_name": "Clay God",
       "file": "missing/C/303753-clay-god.json"
+    },
+    {
+      "igdb_id": 391201,
+      "game_name": "Clay Puzzle",
+      "file": "missing/C/391201-clay-puzzle.json"
     },
     {
       "igdb_id": 192981,
@@ -104631,6 +104636,11 @@
       "igdb_id": 170513,
       "game_name": "Flute Master: Trick or Treat",
       "file": "missing/F/170513-flute-master-trick-or-treat.json"
+    },
+    {
+      "igdb_id": 391199,
+      "game_name": "Flutterdash",
+      "file": "missing/F/391199-flutterdash.json"
     },
     {
       "igdb_id": 202388,
@@ -280551,6 +280561,11 @@
       "igdb_id": 254547,
       "game_name": "SuiSui Sweet",
       "file": "missing/S/254547-suisui-sweet.json"
+    },
+    {
+      "igdb_id": 391198,
+      "game_name": "Suitcase Stories",
+      "file": "missing/S/391198-suitcase-stories.json"
     },
     {
       "igdb_id": 327601,
