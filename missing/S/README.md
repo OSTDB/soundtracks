@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SDK Paint | 84860 | [84860-sdk-paint.json](./84860-sdk-paint.json) |
 | SDK Spriter | 84859 | [84859-sdk-spriter.json](./84859-sdk-spriter.json) |
 | SDST: Deluxe | 168904 | [168904-sdst-deluxe.json](./168904-sdst-deluxe.json) |
+| SE3 Protocol: Last Drop | 415877 | [415877-se3-protocol-last-drop.json](./415877-se3-protocol-last-drop.json) |
 | Sea Battle Minimal | 192947 | [192947-sea-battle-minimal.json](./192947-sea-battle-minimal.json) |
 | Sea Bubble Burst | 205833 | [205833-sea-bubble-burst.json](./205833-sea-bubble-burst.json) |
 | Sea Creatures | 112373 | [112373-sea-creatures.json](./112373-sea-creatures.json) |
@@ -965,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeaBlade | 47320 | [47320-seablade.json](./47320-seablade.json) |
 | Seaborn | 176450 | [176450-seaborn.json](./176450-seaborn.json) |
 | SeaCret 1 | 352464 | [352464-seacret-1.json](./352464-seacret-1.json) |
+| Seaforge: Shores of Atlantis | 415872 | [415872-seaforge-shores-of-atlantis.json](./415872-seaforge-shores-of-atlantis.json) |
 | Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
@@ -1458,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sfare: Relax your mind | 184130 | [184130-sfare-relax-your-mind.json](./184130-sfare-relax-your-mind.json) |
 | SFCave | 87233 | [87233-sfcave.json](./87233-sfcave.json) |
 | SFG Soccer | 66700 | [66700-sfg-soccer.json](./66700-sfg-soccer.json) |
+| Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
 | SGS Pacific D-Day | 197415 | [197415-sgs-pacific-d-day.json](./197415-sgs-pacific-d-day.json) |
 | Sha Beast Dressage | 371269 | [371269-sha-beast-dressage.json](./371269-sha-beast-dressage.json) |
 | Shade | 171056 | [171056-shade.json](./171056-shade.json) |
@@ -2336,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence, Exile, and Cunning | 391061 | [391061-silence-exile-and-cunning.json](./391061-silence-exile-and-cunning.json) |
 | Silenced: The House | 89438 | [89438-silenced-the-house.json](./89438-silenced-the-house.json) |
 | Silent Anomalies | 337071 | [337071-silent-anomalies.json](./337071-silent-anomalies.json) |
+| Silent Authority: Blood & Bourbon | 415876 | [415876-silent-authority-blood-and-bourbon.json](./415876-silent-authority-blood-and-bourbon.json) |
 | Silent Breath | 287462 | [287462-silent-breath.json](./287462-silent-breath.json) |
 | Silent Castle | 212491 | [212491-silent-castle.json](./212491-silent-castle.json) |
 | Silent Escape: Induction | 127945 | [127945-silent-escape-induction.json](./127945-silent-escape-induction.json) |
@@ -2387,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Dreams | 132497 | [132497-silicon-dreams.json](./132497-silicon-dreams.json) |
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
+| Silk & Sorrow | 415870 | [415870-silk-and-sorrow.json](./415870-silk-and-sorrow.json) |
 | Silkroad 8 | 394157 | [394157-silkroad-8.json](./394157-silkroad-8.json) |
 | Silky Road | 355565 | [355565-silky-road.json](./355565-silky-road.json) |
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
@@ -5297,6 +5302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stability | 43171 | [43171-stability.json](./43171-stability.json) |
 | Stabjack | 353295 | [353295-stabjack.json](./353295-stabjack.json) |
 | Stable Masters | 206975 | [206975-stable-masters.json](./206975-stable-masters.json) |
+| Stablemasters | 415897 | [415897-stablemasters.json](./415897-stablemasters.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
 | Stack Machines | 232434 | [232434-stack-machines.json](./232434-stack-machines.json) |
 | Stack Order | 388009 | [388009-stack-order.json](./388009-stack-order.json) |
@@ -5531,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trigon | 54399 | [54399-star-trigon.json](./54399-star-trigon.json) |
 | Star Trooper | 326580 | [326580-star-trooper.json](./326580-star-trooper.json) |
 | Star Troopers: Combat Force | 411568 | [411568-star-troopers-combat-force.json](./411568-star-troopers-combat-force.json) |
+| Star Trucker: Cultivation Content Pack | 415856 | [415856-star-trucker-cultivation-content-pack.json](./415856-star-trucker-cultivation-content-pack.json) |
 | Star Valor | 100418 | [100418-star-valor.json](./100418-star-valor.json) |
 | Star Vikings Forever | 51899 | [51899-star-vikings-forever.json](./51899-star-vikings-forever.json) |
 | Star Vortex | 154021 | [154021-star-vortex.json](./154021-star-vortex.json) |
