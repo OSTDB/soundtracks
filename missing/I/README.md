@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Hero World | 127210 | [127210-idle-hero-world.json](./127210-idle-hero-world.json) |
 | Idle Human | 204484 | [204484-idle-human.json](./204484-idle-human.json) |
 | Idle Human 2 | 204486 | [204486-idle-human-2.json](./204486-idle-human-2.json) |
+| Idle Immortal | 409663 | [409663-idle-immortal.json](./409663-idle-immortal.json) |
 | Idle Inventor: Factory Tycoon | 167288 | [167288-idle-inventor-factory-tycoon.json](./167288-idle-inventor-factory-tycoon.json) |
 | Idle Kitchen Tycoon | 237642 | [237642-idle-kitchen-tycoon.json](./237642-idle-kitchen-tycoon.json) |
 | Idle Knight RPG | 306693 | [306693-idle-knight-rpg.json](./306693-idle-knight-rpg.json) |
@@ -1002,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Pete Premium | 245323 | [245323-inside-pete-premium.json](./245323-inside-pete-premium.json) |
 | Inside the Clockwork Pussy | 280202 | [280202-inside-the-clockwork-pussy.json](./280202-inside-the-clockwork-pussy.json) |
 | Inside the Memories | 152862 | [152862-inside-the-memories.json](./152862-inside-the-memories.json) |
+| Inside The Mind Of Irene Moroz | 409701 | [409701-inside-the-mind-of-irene-moroz.json](./409701-inside-the-mind-of-irene-moroz.json) |
 | Inside Trader: The Authentic Stock Trading Game | 94246 | [94246-inside-trader-the-authentic-stock-trading-game.json](./94246-inside-trader-the-authentic-stock-trading-game.json) |
 | Inside Us | 236846 | [236846-inside-us.json](./236846-inside-us.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
