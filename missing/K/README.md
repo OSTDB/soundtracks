@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Of Peace | 295775 | [295775-kingdom-of-peace.json](./295775-kingdom-of-peace.json) |
 | Kingdom of Rhea | 119026 | [119026-kingdom-of-rhea.json](./119026-kingdom-of-rhea.json) |
 | Kingdom of the Untitled Magic | 154033 | [154033-kingdom-of-the-untitled-magic.json](./154033-kingdom-of-the-untitled-magic.json) |
+| Kingdom Rules | 412390 | [412390-kingdom-rules.json](./412390-kingdom-rules.json) |
 | Kingdom Run VR | 235469 | [235469-kingdom-run-vr.json](./235469-kingdom-run-vr.json) |
 | Kingdom Rush 5: Alliance | 296924 | [296924-kingdom-rush-5-alliance.json](./296924-kingdom-rush-5-alliance.json) |
 | Kingdom Rush 5: Alliance - Colossal Dwarfare | 330136 | [330136-kingdom-rush-5-alliance-colossal-dwarfare.json](./330136-kingdom-rush-5-alliance-colossal-dwarfare.json) |
@@ -958,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KMON: Genesis | 254790 | [254790-kmon-genesis.json](./254790-kmon-genesis.json) |
 | Knee-deep in 2023 | 261822 | [261822-knee-deep-in-2023.json](./261822-knee-deep-in-2023.json) |
 | Knee-Deep in Kdizd | 260668 | [260668-knee-deep-in-kdizd.json](./260668-knee-deep-in-kdizd.json) |
+| Knell | 412371 | [412371-knell.json](./412371-knell.json) |
 | Knife Club VR | 68607 | [68607-knife-club-vr.json](./68607-knife-club-vr.json) |
 | Knife Flip - Hit Geometry Cube | 104666 | [104666-knife-flip-hit-geometry-cube.json](./104666-knife-flip-hit-geometry-cube.json) |
 | Knife road | 122434 | [122434-knife-road.json](./122434-knife-road.json) |
