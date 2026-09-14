@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Had | 239085 | [239085-had.json](./239085-had.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
 | Hadephobia | 260957 | [260957-hadephobia.json](./260957-hadephobia.json) |
+| Hades | 80529 | [80529-hades.json](./80529-hades.json) |
 | Hades 2 | 134619 | [134619-hades-2.json](./134619-hades-2.json) |
 | Hadr | 139355 | [139355-hadr.json](./139355-hadr.json) |
 | Hadur | 342638 | [342638-hadur.json](./342638-hadur.json) |
