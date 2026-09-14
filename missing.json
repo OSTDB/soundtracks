@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T05:48:47.335Z",
-  "total_missing": 68667,
+  "generated_at": "2026-09-14T05:51:32.270Z",
+  "total_missing": 68666,
   "games": [
     {
       "igdb_id": 306086,
@@ -4201,11 +4201,6 @@
       "igdb_id": 72132,
       "game_name": "Adventure Elf",
       "file": "missing/A/72132-adventure-elf.json"
-    },
-    {
-      "igdb_id": 247492,
-      "game_name": "Adventure Escape Room Bundle",
-      "file": "missing/A/247492-adventure-escape-room-bundle.json"
     },
     {
       "igdb_id": 126585,
