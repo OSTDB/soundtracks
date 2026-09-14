@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T00:03:53.321Z",
-  "total_missing": 67758,
+  "generated_at": "2026-09-14T00:11:34.889Z",
+  "total_missing": 67757,
   "games": [
     {
       "igdb_id": 306086,
@@ -4026,11 +4026,6 @@
       "igdb_id": 321779,
       "game_name": "Adoventoro Tcheco",
       "file": "missing/A/321779-adoventoro-tcheco.json"
-    },
-    {
-      "igdb_id": 330165,
-      "game_name": "Adrift",
-      "file": "missing/A/330165-adrift.json"
     },
     {
       "igdb_id": 331880,
