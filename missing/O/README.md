@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooparts | 269600 | [269600-ooparts.json](./269600-ooparts.json) |
 | Oops, I said Yes?! | 239870 | [239870-oops-i-said-yes.json](./239870-oops-i-said-yes.json) |
 | Oops! All Gyarus! | 294991 | [294991-oops-all-gyarus.json](./294991-oops-all-gyarus.json) |
+| Oops! You're the Hero! | 412427 | [412427-oops-youre-the-hero.json](./412427-oops-youre-the-hero.json) |
 | Oort Online | 9551 | [9551-oort-online.json](./9551-oort-online.json) |
 | Ooze: Creepy Nights | 57695 | [57695-ooze-creepy-nights.json](./57695-ooze-creepy-nights.json) |
 | Oozing Blasphemy | 271241 | [271241-oozing-blasphemy.json](./271241-oozing-blasphemy.json) |
@@ -909,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Cast: Prologue | 151198 | [151198-orange-cast-prologue.json](./151198-orange-cast-prologue.json) |
 | Orange County | 140573 | [140573-orange-county.json](./140573-orange-county.json) |
 | Orange is True Love | 274199 | [274199-orange-is-true-love.json](./274199-orange-is-true-love.json) |
+| Orange Man Smash! | 412432 | [412432-orange-man-smash.json](./412432-orange-man-smash.json) |
 | Orange Santa | 151131 | [151131-orange-santa.json](./151131-orange-santa.json) |
 | Orange Season | 34231 | [34231-orange-season.json](./34231-orange-season.json) |
 | Orava | 377071 | [377071-orava.json](./377071-orava.json) |
@@ -1128,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
 | Oudbiao's World | 258477 | [258477-oudbiaos-world.json](./258477-oudbiaos-world.json) |
 | Ouji-sama Lv1.5 | 204477 | [204477-ouji-sama-lv1-5.json](./204477-ouji-sama-lv1-5.json) |
+| Ouju: Isle of the Accursed | 412375 | [412375-ouju-isle-of-the-accursed.json](./412375-ouju-isle-of-the-accursed.json) |
 | Oukaranman | 59408 | [59408-oukaranman.json](./59408-oukaranman.json) |
 | Oukoku no Dougu-ya-san | 222533 | [222533-oukoku-no-dougu-ya-san.json](./222533-oukoku-no-dougu-ya-san.json) |
 | Oukoku no Grand Chef | 137625 | [137625-oukoku-no-grand-chef.json](./137625-oukoku-no-grand-chef.json) |
