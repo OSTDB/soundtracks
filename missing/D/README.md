@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Forest: Seikin | 385186 | [385186-death-forest-seikin.json](./385186-death-forest-seikin.json) |
 | Death Game | 206153 | [206153-death-game.json](./206153-death-game.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
+| Death in a Party | 381738 | [381738-death-in-a-party.json](./381738-death-in-a-party.json) |
 | Death in the Bunker | 224555 | [224555-death-in-the-bunker.json](./224555-death-in-the-bunker.json) |
 | Death is better than Hell | 51971 | [51971-death-is-better-than-hell.json](./51971-death-is-better-than-hell.json) |
 | Death Jr: Root of Evil | 90656 | [90656-death-jr-root-of-evil.json](./90656-death-jr-root-of-evil.json) |
@@ -1182,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Earth: Xenos Survivors | 320738 | [320738-defend-earth-xenos-survivors.json](./320738-defend-earth-xenos-survivors.json) |
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
 | Defend or Die | 12991 | [12991-defend-or-die.json](./12991-defend-or-die.json) |
+| Defend the Castle | 381735 | [381735-defend-the-castle.json](./381735-defend-the-castle.json) |
 | Defend the Fort | 173267 | [173267-defend-the-fort.json](./173267-defend-the-fort.json) |
 | Defend the Rook | 152300 | [152300-defend-the-rook.json](./152300-defend-the-rook.json) |
 | Defend Tower: TD strategy | 130908 | [130908-defend-tower-td-strategy.json](./130908-defend-tower-td-strategy.json) |
@@ -1417,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons of Problematique 2 | 260127 | [260127-demons-of-problematique-2.json](./260127-demons-of-problematique-2.json) |
 | Demons Rise Up! | 192877 | [192877-demons-rise-up.json](./192877-demons-rise-up.json) |
 | Demons vs. Fairyland | 245328 | [245328-demons-vs-fairyland.json](./245328-demons-vs-fairyland.json) |
+| Demonspire | 381701 | [381701-demonspire.json](./381701-demonspire.json) |
 | Demonstar | 9117 | [9117-demonstar.json](./9117-demonstar.json) |
 | DemonsTier | 61647 | [61647-demonstier.json](./61647-demonstier.json) |
 | Demonworld: Dark Armies | 73841 | [73841-demonworld-dark-armies.json](./73841-demonworld-dark-armies.json) |
@@ -4006,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Maze | 343789 | [343789-dungeon-maze.json](./343789-dungeon-maze.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
 | Dungeon Mutt | 386236 | [386236-dungeon-mutt.json](./386236-dungeon-mutt.json) |
+| Dungeon ni Seisoku Da! | 381695 | [381695-dungeon-ni-seisoku-da.json](./381695-dungeon-ni-seisoku-da.json) |
 | Dungeon Nightmares | 57070 | [57070-dungeon-nightmares.json](./57070-dungeon-nightmares.json) |
 | Dungeon No Dungeon: Blood Knight | 171023 | [171023-dungeon-no-dungeon-blood-knight.json](./171023-dungeon-no-dungeon-blood-knight.json) |
 | Dungeon No Dungeon: Reaper | 171022 | [171022-dungeon-no-dungeon-reaper.json](./171022-dungeon-no-dungeon-reaper.json) |
