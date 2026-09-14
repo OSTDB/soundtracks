@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck of Souls | 252356 | [252356-deck-of-souls.json](./252356-deck-of-souls.json) |
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
 | Deck Warlords | 110304 | [110304-deck-warlords.json](./110304-deck-warlords.json) |
+| Deck'n'Bag | 402362 | [402362-decknbag.json](./402362-decknbag.json) |
 | DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
 | Deckline | 342637 | [342637-deckline.json](./342637-deckline.json) |
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
@@ -1640,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective of the Dead | 318179 | [318179-detective-of-the-dead.json](./318179-detective-of-the-dead.json) |
 | Detective Olivia: The Cult of Whisperers | 294448 | [294448-detective-olivia-the-cult-of-whisperers.json](./294448-detective-olivia-the-cult-of-whisperers.json) |
 | Detective Patch | 257958 | [257958-detective-patch.json](./257958-detective-patch.json) |
+| Detective R & Prophet J | 402369 | [402369-detective-r-and-prophet-j.json](./402369-detective-r-and-prophet-j.json) |
 | Detective Rosie Morgan: Death at a Dinner Party | 236827 | [236827-detective-rosie-morgan-death-at-a-dinner-party.json](./236827-detective-rosie-morgan-death-at-a-dinner-party.json) |
 | Detective School Club | 304597 | [304597-detective-school-club.json](./304597-detective-school-club.json) |
 | Detective Secrets Solitaire: The Greyhall Mystery | 417508 | [417508-detective-secrets-solitaire-the-greyhall-mystery.json](./417508-detective-secrets-solitaire-the-greyhall-mystery.json) |
@@ -3093,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Origins - Leliana's Song | 17465 | [17465-dragon-age-origins-lelianas-song.json](./17465-dragon-age-origins-lelianas-song.json) |
 | Dragon Age: Origins - The Stone Prisoner | 17462 | [17462-dragon-age-origins-the-stone-prisoner.json](./17462-dragon-age-origins-the-stone-prisoner.json) |
 | Dragon Age: Origins Collector's Edition | 21765 | [21765-dragon-age-origins-collectors-edition.json](./21765-dragon-age-origins-collectors-edition.json) |
+| Dragon and Mahjong | 402371 | [402371-dragon-and-mahjong.json](./402371-dragon-and-mahjong.json) |
 | Dragon Ball | 38662 | [38662-dragon-ball.json](./38662-dragon-ball.json) |
 | Dragon Ball 3: Goku-den | 48679 | [48679-dragon-ball-3-goku-den.json](./48679-dragon-ball-3-goku-den.json) |
 | Dragon Ball Budokai AF | 180246 | [180246-dragon-ball-budokai-af.json](./180246-dragon-ball-budokai-af.json) |
