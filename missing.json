@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T03:48:54.546Z",
-  "total_missing": 68375,
+  "generated_at": "2026-09-14T03:51:37.163Z",
+  "total_missing": 68374,
   "games": [
     {
       "igdb_id": 306086,
@@ -4141,11 +4141,6 @@
       "igdb_id": 34557,
       "game_name": "Advanced Gaming Platform: Epica",
       "file": "missing/A/34557-advanced-gaming-platform-epica.json"
-    },
-    {
-      "igdb_id": 296352,
-      "game_name": "Advancing Chess",
-      "file": "missing/A/296352-advancing-chess.json"
     },
     {
       "igdb_id": 236271,
