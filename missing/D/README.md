@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DEPO: Death Epileptic Pixel Origins | 207316 | [207316-depo-death-epileptic-pixel-origins.json](./207316-depo-death-epileptic-pixel-origins.json) |
 | Deponia: The Complete Journey | 17224 | [17224-deponia-the-complete-journey.json](./17224-deponia-the-complete-journey.json) |
 | DepowerBall | 126607 | [126607-depowerball.json](./126607-depowerball.json) |
+| Depression the Game | 103456 | [103456-depression-the-game.json](./103456-depression-the-game.json) |
 | Depth Hunter 2: Ocean Mysteries | 167273 | [167273-depth-hunter-2-ocean-mysteries.json](./167273-depth-hunter-2-ocean-mysteries.json) |
 | Depth Hunter 2: Scuba Kids - Hidden Treasures | 167274 | [167274-depth-hunter-2-scuba-kids-hidden-treasures.json](./167274-depth-hunter-2-scuba-kids-hidden-treasures.json) |
 | Depth Hunter 2: Treasure Hunter | 167272 | [167272-depth-hunter-2-treasure-hunter.json](./167272-depth-hunter-2-treasure-hunter.json) |
@@ -1635,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Engine: Ignition | 150601 | [150601-devil-engine-ignition.json](./150601-devil-engine-ignition.json) |
 | Devil Fish | 39633 | [39633-devil-fish.json](./39633-devil-fish.json) |
 | Devil In My House | 311781 | [311781-devil-in-my-house.json](./311781-devil-in-my-house.json) |
+| Devil in the Details | 103959 | [103959-devil-in-the-details.json](./103959-devil-in-the-details.json) |
 | Devil in the Pines | 67598 | [67598-devil-in-the-pines.json](./67598-devil-in-the-pines.json) |
 | Devil Jam | 291855 | [291855-devil-jam.json](./291855-devil-jam.json) |
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
