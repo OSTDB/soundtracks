@@ -442,7 +442,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
 | Aery VR: Little Bird Adventure | 356072 | [356072-aery-vr-little-bird-adventure.json](./356072-aery-vr-little-bird-adventure.json) |
 | Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
-| Aesthetic Melody: Digital Deluxe Edition | 52575 | [52575-aesthetic-melody-digital-deluxe-edition.json](./52575-aesthetic-melody-digital-deluxe-edition.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | AeternoBlade II: Director's Rewind | 138202 | [138202-aeternoblade-ii-directors-rewind.json](./138202-aeternoblade-ii-directors-rewind.json) |
 | Aether | 357785 | [357785-aether.json](./357785-aether.json) |
