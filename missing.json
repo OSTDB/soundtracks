@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T03:19:10.498Z",
-  "total_missing": 68278,
+  "generated_at": "2026-09-14T03:21:30.132Z",
+  "total_missing": 68277,
   "games": [
     {
       "igdb_id": 306086,
@@ -4126,11 +4126,6 @@
       "igdb_id": 63246,
       "game_name": "Advanced Strategic Command",
       "file": "missing/A/63246-advanced-strategic-command.json"
-    },
-    {
-      "igdb_id": 36292,
-      "game_name": "Advanced Tactics Gold",
-      "file": "missing/A/36292-advanced-tactics-gold.json"
     },
     {
       "igdb_id": 296352,
