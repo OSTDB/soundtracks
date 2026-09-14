@@ -401,7 +401,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adverse | 132254 | [132254-adverse.json](./132254-adverse.json) |
 | Ae | 184042 | [184042-ae.json](./184042-ae.json) |
 | Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
-| Aedis Eclipse: Generation of Chaos | 44523 | [44523-aedis-eclipse-generation-of-chaos.json](./44523-aedis-eclipse-generation-of-chaos.json) |
 | Aefen Fall | 141252 | [141252-aefen-fall.json](./141252-aefen-fall.json) |
 | Aegis Force: The Scorian War | 328227 | [328227-aegis-force-the-scorian-war.json](./328227-aegis-force-the-scorian-war.json) |
 | Aegis Kingdoms | 216463 | [216463-aegis-kingdoms.json](./216463-aegis-kingdoms.json) |
