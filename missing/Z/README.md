@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zupay: Shadows of Independence | 374072 | [374072-zupay-shadows-of-independence.json](./374072-zupay-shadows-of-independence.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
 | Zusar Vasar | 58167 | [58167-zusar-vasar.json](./58167-zusar-vasar.json) |
+| Zusi 3: Aerosoft Edition | 117612 | [117612-zusi-3-aerosoft-edition.json](./117612-zusi-3-aerosoft-edition.json) |
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
 | Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
 | ZX Asteroids | 319602 | [319602-zx-asteroids.json](./319602-zx-asteroids.json) |
