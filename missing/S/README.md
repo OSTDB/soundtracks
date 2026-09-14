@@ -21,6 +21,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.M.A.C.K. | 225097 | [225097-s-m-a-c-k.json](./225097-s-m-a-c-k.json) |
 | S.M.A.R.T. Adventures: Mission Math - Sabotage at the Space Station | 86092 | [86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json](./86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json) |
 | S.M.A.S.H.E.D. | 55108 | [55108-s-m-a-s-h-e-d.json](./55108-s-m-a-s-h-e-d.json) |
+| S.N.I.P.E.R. Hunter Scope Silent Assassin | 385175 | [385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json](./385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json) |
+| S.N.I.P.E.R. Hunter Scope Urban Warfare | 385174 | [385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json](./385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json) |
 | S.N.I.P.E.R.: Hunter Scope - Comprehensive Edition | 396929 | [396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json](./396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - GOTY Edition | 283164 | [283164-s-n-i-p-e-r-hunter-scope-goty-edition.json](./283164-s-n-i-p-e-r-hunter-scope-goty-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Grand Edition | 315856 | [315856-s-n-i-p-e-r-hunter-scope-grand-edition.json](./315856-s-n-i-p-e-r-hunter-scope-grand-edition.json) |
@@ -555,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Legend: Arena | 303800 | [303800-sausage-legend-arena.json](./303800-sausage-legend-arena.json) |
 | Sausage vs. Vegetable | 270097 | [270097-sausage-vs-vegetable.json](./270097-sausage-vs-vegetable.json) |
 | Sausage Wars: Deadly Levels | 248056 | [248056-sausage-wars-deadly-levels.json](./248056-sausage-wars-deadly-levels.json) |
+| Sausage Wars: Gold Edition | 385208 | [385208-sausage-wars-gold-edition.json](./385208-sausage-wars-gold-edition.json) |
 | Sausage Wars: Laser Massacre | 248062 | [248062-sausage-wars-laser-massacre.json](./248062-sausage-wars-laser-massacre.json) |
 | Sausage Wars: Trapdoor Hell | 248061 | [248061-sausage-wars-trapdoor-hell.json](./248061-sausage-wars-trapdoor-hell.json) |
 | Saut | 242578 | [242578-saut.json](./242578-saut.json) |
@@ -1742,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
 | Shape Shuffle: A Shape Saga | 262066 | [262066-shape-shuffle-a-shape-saga.json](./262066-shape-shuffle-a-shape-saga.json) |
 | Shape Suitable | 165616 | [165616-shape-suitable.json](./165616-shape-suitable.json) |
+| Shape Swarm | 385214 | [385214-shape-swarm.json](./385214-shape-swarm.json) |
 | Shape TD | 186833 | [186833-shape-td.json](./186833-shape-td.json) |
 | Shape Theory | 244486 | [244486-shape-theory.json](./244486-shape-theory.json) |
 | Shape Together | 402374 | [402374-shape-together.json](./402374-shape-together.json) |
@@ -5345,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Springs, Eternal | 380435 | [380435-springs-eternal.json](./380435-springs-eternal.json) |
 | Springtastic Match | 359402 | [359402-springtastic-match.json](./359402-springtastic-match.json) |
 | Springtime Puzzle | 359403 | [359403-springtime-puzzle.json](./359403-springtime-puzzle.json) |
+| Sprinklebottom and the Haunted Ruins | 385217 | [385217-sprinklebottom-and-the-haunted-ruins.json](./385217-sprinklebottom-and-the-haunted-ruins.json) |
 | Sprinkler & Ghost | 216249 | [216249-sprinkler-and-ghost.json](./216249-sprinkler-and-ghost.json) |
 | Sprint | 359441 | [359441-sprint.json](./359441-sprint.json) |
 | Sprint Car Challenge | 43333 | [43333-sprint-car-challenge.json](./43333-sprint-car-challenge.json) |
@@ -5710,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Klingon Academy | 19627 | [19627-star-trek-klingon-academy.json](./19627-star-trek-klingon-academy.json) |
 | Star Trek: Legacy | 7193 | [7193-star-trek-legacy.json](./7193-star-trek-legacy.json) |
 | Star Trek: Legends - Complete Edition | 331851 | [331851-star-trek-legends-complete-edition.json](./331851-star-trek-legends-complete-edition.json) |
+| Star Trek: Legends - Spock Edition | 385209 | [385209-star-trek-legends-spock-edition.json](./385209-star-trek-legends-spock-edition.json) |
 | Star Trek: Starfleet Command III | 19416 | [19416-star-trek-starfleet-command-iii.json](./19416-star-trek-starfleet-command-iii.json) |
 | Star Trek: The Game Show | 69228 | [69228-star-trek-the-game-show.json](./69228-star-trek-the-game-show.json) |
 | Star Trek: The Next Generation | 365694 | [365694-star-trek-the-next-generation.json](./365694-star-trek-the-next-generation.json) |
@@ -6913,6 +6919,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
 | Sugarcane Empire | 186825 | [186825-sugarcane-empire.json](./186825-sugarcane-empire.json) |
 | Sugarcreek | 204110 | [204110-sugarcreek.json](./204110-sugarcreek.json) |
+| Sugardew Island: Christmas Bundle | 385187 | [385187-sugardew-island-christmas-bundle.json](./385187-sugardew-island-christmas-bundle.json) |
+| Sugardew Island: Christmas Costume | 385178 | [385178-sugardew-island-christmas-costume.json](./385178-sugardew-island-christmas-costume.json) |
 | Sugarlawn | 209610 | [209610-sugarlawn.json](./209610-sugarlawn.json) |
 | Sugary Delight | 234619 | [234619-sugary-delight.json](./234619-sugary-delight.json) |
 | Sugary Shifter | 314055 | [314055-sugary-shifter.json](./314055-sugary-shifter.json) |
@@ -8228,6 +8236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Sort | 255751 | [255751-sweet-sort.json](./255751-sweet-sort.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Survival | 392910 | [392910-sweet-survival.json](./392910-sweet-survival.json) |
+| Sweet Survivors: Gold Edition | 385210 | [385210-sweet-survivors-gold-edition.json](./385210-sweet-survivors-gold-edition.json) |
 | Sweet Tank | 392922 | [392922-sweet-tank.json](./392922-sweet-tank.json) |
 | Sweet Thomas | 126645 | [126645-sweet-thomas.json](./126645-sweet-thomas.json) |
 | Sweet Time | 156611 | [156611-sweet-time.json](./156611-sweet-time.json) |
