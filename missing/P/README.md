@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
 | Planitis | 212290 | [212290-planitis.json](./212290-planitis.json) |
 | Plank! | 105913 | [105913-plank.json](./105913-plank.json) |
+| Plannes | 26168 | [26168-plannes.json](./26168-plannes.json) |
 | Plans for NY? | 75815 | [75815-plans-for-ny.json](./75815-plans-for-ny.json) |
 | Plant Down | 198509 | [198509-plant-down.json](./198509-plant-down.json) |
 | Plant Firefighter Simulator 2014 | 88286 | [88286-plant-firefighter-simulator-2014.json](./88286-plant-firefighter-simulator-2014.json) |
@@ -3161,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 44: Enlightenment | 220657 | [220657-project-44-enlightenment.json](./220657-project-44-enlightenment.json) |
 | Project 83113 | 22267 | [22267-project-83113.json](./22267-project-83113.json) |
 | Project A 2: Shijou Saidai no Hyouteki | 97296 | [97296-project-a-2-shijou-saidai-no-hyouteki.json](./97296-project-a-2-shijou-saidai-no-hyouteki.json) |
+| Project Abyss | 26204 | [26204-project-abyss.json](./26204-project-abyss.json) |
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
 | Project Alpha 002 | 30943 | [30943-project-alpha-002.json](./30943-project-alpha-002.json) |
 | Project Anomaly | 193952 | [193952-project-anomaly.json](./193952-project-anomaly.json) |
