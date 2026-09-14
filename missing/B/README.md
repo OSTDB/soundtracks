@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon Blitz | 8660 | [8660-backgammon-blitz.json](./8660-backgammon-blitz.json) |
 | Backgammon Live | 245322 | [245322-backgammon-live.json](./245322-backgammon-live.json) |
 | Backgammon Online | 104123 | [104123-backgammon-online.json](./104123-backgammon-online.json) |
+| Backlot: Hollywood Studio Tycoon | 416649 | [416649-backlot-hollywood-studio-tycoon.json](./416649-backlot-hollywood-studio-tycoon.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
 | Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
@@ -780,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Enemy Within - Episode 5: Same Stitch | 96066 | [96066-batman-the-enemy-within-episode-5-same-stitch.json](./96066-batman-the-enemy-within-episode-5-same-stitch.json) |
 | Batman: The Video Game | 10510 | [10510-batman-the-video-game.json](./10510-batman-the-video-game.json) |
 | Batman: Vengeance | 197872 | [197872-batman-vengeance.json](./197872-batman-vengeance.json) |
+| Bato Battle | 416671 | [416671-bato-battle.json](./416671-bato-battle.json) |
 | Bato: Treasures of Tibet | 339837 | [339837-bato-treasures-of-tibet.json](./339837-bato-treasures-of-tibet.json) |
 | Bats & Terry | 48609 | [48609-bats-and-terry.json](./48609-bats-and-terry.json) |
 | Batta Batta: Kampen mod Ultra | 127974 | [127974-batta-batta-kampen-mod-ultra.json](./127974-batta-batta-kampen-mod-ultra.json) |
@@ -1269,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Beauty vs. Zombie | 309844 | [309844-beauty-vs-zombie.json](./309844-beauty-vs-zombie.json) |
+| Bebe Miner | 416664 | [416664-bebe-miner.json](./416664-bebe-miner.json) |
 | Beboop to the Rescue! | 211431 | [211431-beboop-to-the-rescue.json](./211431-beboop-to-the-rescue.json) |
 | Bebop and Tempo | 43893 | [43893-bebop-and-tempo.json](./43893-bebop-and-tempo.json) |
 | Becalm | 113863 | [113863-becalm.json](./113863-becalm.json) |
@@ -1864,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Burglars | 176966 | [176966-birdie-burglars.json](./176966-birdie-burglars.json) |
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
 | Birds and Blocks | 147926 | [147926-birds-and-blocks.json](./147926-birds-and-blocks.json) |
+| Birds Are Not Real | 416681 | [416681-birds-are-not-real.json](./416681-birds-are-not-real.json) |
 | Birds Birds Birds | 107209 | [107209-birds-birds-birds.json](./107209-birds-birds-birds.json) |
 | Birds no More | 245317 | [245317-birds-no-more.json](./245317-birds-no-more.json) |
 | Birds of Ascent | 404222 | [404222-birds-of-ascent.json](./404222-birds-of-ascent.json) |
@@ -2063,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack/Poker/Acey-Deucey | 100176 | [100176-blackjack-poker-acey-deucey.json](./100176-blackjack-poker-acey-deucey.json) |
 | Blacklight: Tango Down | 8481 | [8481-blacklight-tango-down.json](./8481-blacklight-tango-down.json) |
 | Blacklist Mafia | 293098 | [293098-blacklist-mafia.json](./293098-blacklist-mafia.json) |
+| Blacklode | 416674 | [416674-blacklode.json](./416674-blacklode.json) |
 | Blackout | 162428 | [162428-blackout.json](./162428-blackout.json) |
 | Blackout: Sightless Home | 227257 | [227257-blackout-sightless-home.json](./227257-blackout-sightless-home.json) |
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
