@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batta Batta: Kampen mod Ultra | 127974 | [127974-batta-batta-kampen-mod-ultra.json](./127974-batta-batta-kampen-mod-ultra.json) |
 | Batta Batta: Kejserens Gave | 129773 | [129773-batta-batta-kejserens-gave.json](./129773-batta-batta-kejserens-gave.json) |
 | Batta Batta: Skurkestreger | 129777 | [129777-batta-batta-skurkestreger.json](./129777-batta-batta-skurkestreger.json) |
+| Battalion Commander | 26289 | [26289-battalion-commander.json](./26289-battalion-commander.json) |
 | Battalion Commander | 27128 | [27128-battalion-commander.json](./27128-battalion-commander.json) |
 | Batter Up! | 329039 | [329039-batter-up.json](./329039-batter-up.json) |
 | Batteries Included | 117079 | [117079-batteries-included.json](./117079-batteries-included.json) |
@@ -1818,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
 | Biophobia | 343832 | [343832-biophobia.json](./343832-biophobia.json) |
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
+| Bios | 26575 | [26575-bios.json](./26575-bios.json) |
 | Bioshock & Borderlands: The Shooter Collection | 150642 | [150642-bioshock-and-borderlands-the-shooter-collection.json](./150642-bioshock-and-borderlands-the-shooter-collection.json) |
 | Bioshock 2: Rapture Edition | 44571 | [44571-bioshock-2-rapture-edition.json](./44571-bioshock-2-rapture-edition.json) |
 | BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
