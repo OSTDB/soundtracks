@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacman Club | 289882 | [289882-pacman-club.json](./289882-pacman-club.json) |
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
 | Pacman2 | 62686 | [62686-pacman2.json](./62686-pacman2.json) |
+| Pacremental | 398410 | [398410-pacremental.json](./398410-pacremental.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
 | Paddle Battle | 172781 | [172781-paddle-battle.json](./172781-paddle-battle.json) |
 | Paddle Cats | 411573 | [411573-paddle-cats.json](./411573-paddle-cats.json) |
@@ -2784,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power of The Void | 74364 | [74364-power-of-the-void.json](./74364-power-of-the-void.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
 | Power Pete | 47272 | [47272-power-pete.json](./47272-power-pete.json) |
+| Power Pets | 398471 | [398471-power-pets.json](./398471-power-pets.json) |
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
 | Power Plays | 60548 | [60548-power-plays.json](./60548-power-plays.json) |
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
