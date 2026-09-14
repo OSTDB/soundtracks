@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstoppable | 255131 | [255131-unstoppable.json](./255131-unstoppable.json) |
 | Unstoppable | 58216 | [58216-unstoppable.json](./58216-unstoppable.json) |
 | Unstrong Legacy | 187458 | [187458-unstrong-legacy.json](./187458-unstrong-legacy.json) |
+| Unsubscribed: The Game | 117913 | [117913-unsubscribed-the-game.json](./117913-unsubscribed-the-game.json) |
 | Unsung Heroes: The Golden Mask | 124146 | [124146-unsung-heroes-the-golden-mask.json](./124146-unsung-heroes-the-golden-mask.json) |
 | Unsustainable: a god job | 180842 | [180842-unsustainable-a-god-job.json](./180842-unsustainable-a-god-job.json) |
 | Untamed | 280233 | [280233-untamed.json](./280233-untamed.json) |
