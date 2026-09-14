@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Battle of Stalingrad - Flying Circus - Volume II | 243161 | [243161-il-2-sturmovik-battle-of-stalingrad-flying-circus-volume-ii.json](./243161-il-2-sturmovik-battle-of-stalingrad-flying-circus-volume-ii.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Spitfire Mk.XIVe with Teardrop Canopy | 243160 | [243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json](./243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json) |
 | IL-2 Sturmovik: Cliffs of Dover | 27471 | [27471-il-2-sturmovik-cliffs-of-dover.json](./27471-il-2-sturmovik-cliffs-of-dover.json) |
+| IL-2 Sturmovik: Cliffs of Dover Blitz | 80996 | [80996-il-2-sturmovik-cliffs-of-dover-blitz.json](./80996-il-2-sturmovik-cliffs-of-dover-blitz.json) |
 | IL-2 Sturmovik: Complete Edition | 23004 | [23004-il-2-sturmovik-complete-edition.json](./23004-il-2-sturmovik-complete-edition.json) |
 | IL-2 Sturmovik: Forgotten Battles | 755 | [755-il-2-sturmovik-forgotten-battles.json](./755-il-2-sturmovik-forgotten-battles.json) |
 | IL-2 Sturmovik: Hell Hawks Over the Bulge Campaign | 267661 | [267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json](./267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json) |
@@ -921,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
 | Inkwellers | 333555 | [333555-inkwellers.json](./333555-inkwellers.json) |
 | Inky Caps Clash | 175428 | [175428-inky-caps-clash.json](./175428-inky-caps-clash.json) |
+| Inline | 81070 | [81070-inline.json](./81070-inline.json) |
 | Inline: Out of Time | 290706 | [290706-inline-out-of-time.json](./290706-inline-out-of-time.json) |
 | Inn Hand | 325865 | [325865-inn-hand.json](./325865-inn-hand.json) |
 | Inn Mage | 156608 | [156608-inn-mage.json](./156608-inn-mage.json) |
