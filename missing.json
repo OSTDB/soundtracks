@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T23:19:23.411Z",
-  "total_missing": 71558,
+  "generated_at": "2026-09-14T23:21:39.418Z",
+  "total_missing": 71557,
   "games": [
     {
       "igdb_id": 306086,
@@ -4796,11 +4796,6 @@
       "igdb_id": 218138,
       "game_name": "Aestik",
       "file": "missing/A/218138-aestik.json"
-    },
-    {
-      "igdb_id": 138202,
-      "game_name": "AeternoBlade II: Director's Rewind",
-      "file": "missing/A/138202-aeternoblade-ii-directors-rewind.json"
     },
     {
       "igdb_id": 357785,
