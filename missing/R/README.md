@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenlok | 204626 | [204626-ravenlok.json](./204626-ravenlok.json) |
 | Ravenmoore Psychiatric Hospital | 376463 | [376463-ravenmoore-psychiatric-hospital.json](./376463-ravenmoore-psychiatric-hospital.json) |
 | Ravens Battle Fields | 174849 | [174849-ravens-battle-fields.json](./174849-ravens-battle-fields.json) |
+| Ravensburger Puzzle | 25495 | [25495-ravensburger-puzzle.json](./25495-ravensburger-puzzle.json) |
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
 | Raving Mad | 93004 | [93004-raving-mad.json](./93004-raving-mad.json) |
@@ -2303,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
 | Rom Rom Stadium | 64377 | [64377-rom-rom-stadium.json](./64377-rom-rom-stadium.json) |
+| ROM: Extraction | 26549 | [26549-rom-extraction.json](./26549-rom-extraction.json) |
 | Roma Incognita | 248034 | [248034-roma-incognita.json](./248034-roma-incognita.json) |
 | Roma Victor | 67955 | [67955-roma-victor.json](./67955-roma-victor.json) |
 | Roman Empire vs. Barbarians | 235734 | [235734-roman-empire-vs-barbarians.json](./235734-roman-empire-vs-barbarians.json) |
@@ -2676,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rule No. 2 | 199562 | [199562-rule-no-2.json](./199562-rule-no-2.json) |
 | Rule the Waves | 59943 | [59943-rule-the-waves.json](./59943-rule-the-waves.json) |
 | Rule the Waves 3: Expanded Battles | 324928 | [324928-rule-the-waves-3-expanded-battles.json](./324928-rule-the-waves-3-expanded-battles.json) |
+| Rule Your School | 30165 | [30165-rule-your-school.json](./30165-rule-your-school.json) |
 | Rule34dle | 361573 | [361573-rule34dle.json](./361573-rule34dle.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
 | Ruler of the Waves 1916 | 227838 | [227838-ruler-of-the-waves-1916.json](./227838-ruler-of-the-waves-1916.json) |
@@ -2838,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russia Horror 20!8 | 90212 | [90212-russia-horror-20-8.json](./90212-russia-horror-20-8.json) |
 | Russian AYE Horror | 96887 | [96887-russian-aye-horror.json](./96887-russian-aye-horror.json) |
 | Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
+| Russian Car Driver | 30142 | [30142-russian-car-driver.json](./30142-russian-car-driver.json) |
 | Russian Car Driver: UAZ Hunter | 255752 | [255752-russian-car-driver-uaz-hunter.json](./255752-russian-car-driver-uaz-hunter.json) |
 | Russian Driver | 197376 | [197376-russian-driver.json](./197376-russian-driver.json) |
 | Russian Drunken Boxers | 158697 | [158697-russian-drunken-boxers.json](./158697-russian-drunken-boxers.json) |
