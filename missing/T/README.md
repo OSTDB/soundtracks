@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TamaTown Tama-Go | 229958 | [229958-tamatown-tama-go.json](./229958-tamatown-tama-go.json) |
 | Tamaya | 55113 | [55113-tamaya.json](./55113-tamaya.json) |
 | Tamayura Mirai | 240818 | [240818-tamayura-mirai.json](./240818-tamayura-mirai.json) |
+| Tambo: The Last Night | 389578 | [389578-tambo-the-last-night.json](./389578-tambo-the-last-night.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
 | Tametsi | 72423 | [72423-tametsi.json](./72423-tametsi.json) |
@@ -3775,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Spirits of Ra | 2893 | [2893-the-seven-spirits-of-ra.json](./2893-the-seven-spirits-of-ra.json) |
 | The Seven Years War (1756-1763) | 13666 | [13666-the-seven-years-war-1756-1763.json](./13666-the-seven-years-war-1756-1763.json) |
 | The Seven Years War (1756-1763): Pomeranian War | 171610 | [171610-the-seven-years-war-1756-1763-pomeranian-war.json](./171610-the-seven-years-war-1756-1763-pomeranian-war.json) |
+| The Seventh Seal | 389595 | [389595-the-seventh-seal.json](./389595-the-seventh-seal.json) |
 | The Several Journeys of Reemus Chapter 2: The All-Knowing Parasite | 110311 | [110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json](./110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json) |
 | The Sewer Goblet: The Wu-Tang Clan and the Wu-Tang Baby | 93504 | [93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json](./93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json) |
 | The Sewers of D'Sparil | 268467 | [268467-the-sewers-of-dsparil.json](./268467-the-sewers-of-dsparil.json) |
@@ -4517,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wire | 31955 | [31955-the-wire.json](./31955-the-wire.json) |
 | The Wish | 181937 | [181937-the-wish.json](./181937-the-wish.json) |
 | The Witch and the Hundred Knight 2 | 24909 | [24909-the-witch-and-the-hundred-knight-2.json](./24909-the-witch-and-the-hundred-knight-2.json) |
+| The Witch and the Lost Babies | 389585 | [389585-the-witch-and-the-lost-babies.json](./389585-the-witch-and-the-lost-babies.json) |
 | The Witch In The Woods | 253355 | [253355-the-witch-in-the-woods.json](./253355-the-witch-in-the-woods.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
 | The Witch's Fairy Tale | 318428 | [318428-the-witchs-fairy-tale.json](./318428-the-witchs-fairy-tale.json) |
@@ -7548,6 +7551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok 3: Shadow of Oblivion | 1328 | [1328-turok-3-shadow-of-oblivion.json](./1328-turok-3-shadow-of-oblivion.json) |
 | Turok: Dinosaur Hunter | 1321 | [1321-turok-dinosaur-hunter.json](./1321-turok-dinosaur-hunter.json) |
 | Turok: Rage Wars | 1327 | [1327-turok-rage-wars.json](./1327-turok-rage-wars.json) |
+| Turquoise | 389596 | [389596-turquoise.json](./389596-turquoise.json) |
 | TurretCraft | 34272 | [34272-turretcraft.json](./34272-turretcraft.json) |
 | Turrican 3 | 12803 | [12803-turrican-3.json](./12803-turrican-3.json) |
 | Turrican III | 37098 | [37098-turrican-iii.json](./37098-turrican-iii.json) |
@@ -7715,6 +7719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
+| Type the Rhythm | 389582 | [389582-type-the-rhythm.json](./389582-type-the-rhythm.json) |
 | Type: Turbo | 391740 | [391740-type-turbo.json](./391740-type-turbo.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
 | Typeshift | 27884 | [27884-typeshift.json](./27884-typeshift.json) |
