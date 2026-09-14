@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Mahalo Party | 324092 | [324092-marios-mahalo-party.json](./324092-marios-mahalo-party.json) |
 | Mario's Mini Micro Adventures | 331311 | [331311-marios-mini-micro-adventures.json](./331311-marios-mini-micro-adventures.json) |
 | Mario's Mission Earth | 195733 | [195733-marios-mission-earth.json](./195733-marios-mission-earth.json) |
+| Mario's Modules | 388945 | [388945-marios-modules.json](./388945-marios-modules.json) |
 | Mario's Picross | 71976 | [71976-marios-picross.json](./71976-marios-picross.json) |
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
 | Mario's Rules: Variety on 3 | 323748 | [323748-marios-rules-variety-on-3.json](./323748-marios-rules-variety-on-3.json) |
@@ -2076,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid: Snake Eater 3D | 21073 | [21073-metal-gear-solid-snake-eater-3d.json](./21073-metal-gear-solid-snake-eater-3d.json) |
 | Metal Gear: Ghost Babel | 5600 | [5600-metal-gear-ghost-babel.json](./5600-metal-gear-ghost-babel.json) |
 | Metal Glove: Exodus | 235458 | [235458-metal-glove-exodus.json](./235458-metal-glove-exodus.json) |
+| Metal Goose | 388948 | [388948-metal-goose.json](./388948-metal-goose.json) |
 | Metal Gunner | 137655 | [137655-metal-gunner.json](./137655-metal-gunner.json) |
 | Metal Hunter | 189202 | [189202-metal-hunter.json](./189202-metal-hunter.json) |
 | Metal Hunter | 392783 | [392783-metal-hunter.json](./392783-metal-hunter.json) |
@@ -2214,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MewMew PewPew | 201225 | [201225-mewmew-pewpew.json](./201225-mewmew-pewpew.json) |
 | Mewnbase | 54984 | [54984-mewnbase.json](./54984-mewnbase.json) |
 | Mewseum: Film Festival | 391165 | [391165-mewseum-film-festival.json](./391165-mewseum-film-festival.json) |
+| Mewts | 388949 | [388949-mewts.json](./388949-mewts.json) |
 | Mexiball | 208009 | [208009-mexiball.json](./208009-mexiball.json) |
 | Mexico 1921: A Deep Slumber | 211921 | [211921-mexico-1921-a-deep-slumber.json](./211921-mexico-1921-a-deep-slumber.json) |
 | Meyni | 299128 | [299128-meyni.json](./299128-meyni.json) |
@@ -2433,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Stranger | 143102 | [143102-midnight-stranger.json](./143102-midnight-stranger.json) |
 | Midnight Swamp | 318198 | [318198-midnight-swamp.json](./318198-midnight-swamp.json) |
 | Midnight Terrors | 395705 | [395705-midnight-terrors.json](./395705-midnight-terrors.json) |
+| Midnight Therapy | 388938 | [388938-midnight-therapy.json](./388938-midnight-therapy.json) |
 | Midnight Toybox | 416667 | [416667-midnight-toybox.json](./416667-midnight-toybox.json) |
 | Midnight Train | 138255 | [138255-midnight-train.json](./138255-midnight-train.json) |
 | Midnight Train: Going Anywhere | 176489 | [176489-midnight-train-going-anywhere.json](./176489-midnight-train-going-anywhere.json) |
@@ -3858,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Legacy Kollection - Deluxe Edition | 398998 | [398998-mortal-kombat-legacy-kollection-deluxe-edition.json](./398998-mortal-kombat-legacy-kollection-deluxe-edition.json) |
 | Mortal Kombat: Onslaught | 224009 | [224009-mortal-kombat-onslaught.json](./224009-mortal-kombat-onslaught.json) |
 | Mortal Kombat: Unchained | 1615 | [1615-mortal-kombat-unchained.json](./1615-mortal-kombat-unchained.json) |
+| Mortal Kombat: Warrior Kenshi | 388955 | [388955-mortal-kombat-warrior-kenshi.json](./388955-mortal-kombat-warrior-kenshi.json) |
 | Mortal Shell II | 347633 | [347633-mortal-shell-ii.json](./347633-mortal-shell-ii.json) |
 | Mortal Shell: Complete Edition | 229693 | [229693-mortal-shell-complete-edition.json](./229693-mortal-shell-complete-edition.json) |
 | Mortal Shell: Enhanced Edition - Game of the Year Edition | 201782 | [201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json](./201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json) |
