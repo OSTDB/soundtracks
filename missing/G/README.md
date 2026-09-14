@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gurei | 235913 | [235913-gurei.json](./235913-gurei.json) |
 | Guri-guri Europe | 151667 | [151667-guri-guri-europe.json](./151667-guri-guri-europe.json) |
 | Gurk III: the 8-bit RPG | 200671 | [200671-gurk-iii-the-8-bit-rpg.json](./200671-gurk-iii-the-8-bit-rpg.json) |
+| Gurmple Champs | 395712 | [395712-gurmple-champs.json](./395712-gurmple-champs.json) |
 | Guro Dere | 108971 | [108971-guro-dere.json](./108971-guro-dere.json) |
 | Guroku Rainbow | 237373 | [237373-guroku-rainbow.json](./237373-guroku-rainbow.json) |
 | Guru Guru | 309884 | [309884-guru-guru.json](./309884-guru-guru.json) |
