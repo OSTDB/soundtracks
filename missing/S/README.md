@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
 | Self Reflection | 178011 | [178011-self-reflection.json](./178011-self-reflection.json) |
+| Self Shot | 117806 | [117806-self-shot.json](./117806-self-shot.json) |
 | Self-knowledge VR | 114373 | [114373-self-knowledge-vr.json](./114373-self-knowledge-vr.json) |
 | Selfie : Sisters of the Amniotic Lens | 17176 | [17176-selfie-sisters-of-the-amniotic-lens.json](./17176-selfie-sisters-of-the-amniotic-lens.json) |
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
@@ -2458,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 500 Series Vol. 2: The Misshitsu kara no Dasshutsu | 79351 | [79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json](./79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json) |
 | Simple 500 Series Vol. 3: The Misshitsu kara no Dasshutsu Tsukiyo no Mansion-hen | 65475 | [65475-simple-500-series-vol-3-the-misshitsu-kara-no-dasshutsu-tsukiyo-no-mansion-hen.json](./65475-simple-500-series-vol-3-the-misshitsu-kara-no-dasshutsu-tsukiyo-no-mansion-hen.json) |
 | Simple Characters 2000 Series Vol. 11: Detective Conan - The Board Game | 78706 | [78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json](./78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json) |
+| Simple Dot | 117707 | [117707-simple-dot.json](./117707-simple-dot.json) |
 | Simple DS Series Vol. 1: The Mahjong | 82134 | [82134-simple-ds-series-vol-1-the-mahjong.json](./82134-simple-ds-series-vol-1-the-mahjong.json) |
 | Simple FPS Aim Trainer | 182502 | [182502-simple-fps-aim-trainer.json](./182502-simple-fps-aim-trainer.json) |
 | Simple Game | 121602 | [121602-simple-game.json](./121602-simple-game.json) |
@@ -4445,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space One: Ascendant | 167226 | [167226-space-one-ascendant.json](./167226-space-one-ascendant.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
 | Space Ops Arcade | 285480 | [285480-space-ops-arcade.json](./285480-space-ops-arcade.json) |
+| Space Ops VR | 117705 | [117705-space-ops-vr.json](./117705-space-ops-vr.json) |
 | Space Out | 195166 | [195166-space-out.json](./195166-space-out.json) |
 | Space Out | 72627 | [72627-space-out.json](./72627-space-out.json) |
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
