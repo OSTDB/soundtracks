@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush | 244761 | [244761-gold-rush.json](./244761-gold-rush.json) |
 | Gold Rush! | 12121 | [12121-gold-rush.json](./12121-gold-rush.json) |
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
+| Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
 | Golden Axe | 279631 | [279631-golden-axe.json](./279631-golden-axe.json) |
 | Golden Axe | 5565 | [5565-golden-axe.json](./5565-golden-axe.json) |
@@ -1975,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grids of World | 132269 | [132269-grids-of-world.json](./132269-grids-of-world.json) |
 | Gridtrap | 297246 | [297246-gridtrap.json](./297246-gridtrap.json) |
 | GridVR | 29780 | [29780-gridvr.json](./29780-gridvr.json) |
+| Gridwalker | 405587 | [405587-gridwalker.json](./405587-gridwalker.json) |
 | GridWars | 92989 | [92989-gridwars.json](./92989-gridwars.json) |
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
 | Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
@@ -2333,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guncho | 275604 | [275604-guncho.json](./275604-guncho.json) |
 | Guncrafter | 343805 | [343805-guncrafter.json](./343805-guncrafter.json) |
 | GunCrank | 414292 | [414292-guncrank.json](./414292-guncrank.json) |
+| Guncrypt | 405589 | [405589-guncrypt.json](./405589-guncrypt.json) |
 | Gundam Battle Assault 2 | 45007 | [45007-gundam-battle-assault-2.json](./45007-gundam-battle-assault-2.json) |
 | Gundam Battle Online | 107166 | [107166-gundam-battle-online.json](./107166-gundam-battle-online.json) |
 | Gundam Battle Operation Next | 44538 | [44538-gundam-battle-operation-next.json](./44538-gundam-battle-operation-next.json) |
