@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbers Destiny | 341489 | [341489-numbers-destiny.json](./341489-numbers-destiny.json) |
 | Numenclature | 357249 | [357249-numenclature.json](./357249-numenclature.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
+| Numerous Ninjas | 409658 | [409658-numerous-ninjas.json](./409658-numerous-ninjas.json) |
 | Numgeon | 113059 | [113059-numgeon.json](./113059-numgeon.json) |
 | Numina | 141250 | [141250-numina.json](./141250-numina.json) |
 | Numinous | 61044 | [61044-numinous.json](./61044-numinous.json) |
