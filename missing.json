@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T08:51:30.257Z",
-  "total_missing": 69148,
+  "generated_at": "2026-09-14T09:01:39.460Z",
+  "total_missing": 69150,
   "games": [
     {
       "igdb_id": 306086,
@@ -4296,11 +4296,6 @@
       "igdb_id": 56531,
       "game_name": "Adventure Player",
       "file": "missing/A/56531-adventure-player.json"
-    },
-    {
-      "igdb_id": 102207,
-      "game_name": "Adventure Playground",
-      "file": "missing/A/102207-adventure-playground.json"
     },
     {
       "igdb_id": 357782,
@@ -259798,6 +259793,11 @@
       "file": "missing/S/102764-solitaire-megapack.json"
     },
     {
+      "igdb_id": 410372,
+      "game_name": "Solitaire Paradise: Anime Bikini Babes",
+      "file": "missing/S/410372-solitaire-paradise-anime-bikini-babes.json"
+    },
+    {
       "igdb_id": 106528,
       "game_name": "Solitaire Paradise: Tripeaks",
       "file": "missing/S/106528-solitaire-paradise-tripeaks.json"
@@ -260086,6 +260086,11 @@
       "igdb_id": 149531,
       "game_name": "Something Strange in the Woods",
       "file": "missing/S/149531-something-strange-in-the-woods.json"
+    },
+    {
+      "igdb_id": 410371,
+      "game_name": "Something That Shouldn't Be There Is Visible.",
+      "file": "missing/S/410371-something-that-shouldnt-be-there-is-visible.json"
     },
     {
       "igdb_id": 335247,
@@ -329211,6 +329216,11 @@
       "igdb_id": 107866,
       "game_name": "Wake Up, Good Guardian!",
       "file": "missing/W/107866-wake-up-good-guardian.json"
+    },
+    {
+      "igdb_id": 410370,
+      "game_name": "Wake Up, Lia!",
+      "file": "missing/W/410370-wake-up-lia.json"
     },
     {
       "igdb_id": 22473,
