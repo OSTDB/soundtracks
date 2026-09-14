@@ -2112,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 19 | 350417 | [350417-rocket-league-season-19.json](./350417-rocket-league-season-19.json) |
 | Rocket League: Season 19 Elite Pack | 366843 | [366843-rocket-league-season-19-elite-pack.json](./366843-rocket-league-season-19-elite-pack.json) |
 | Rocket League: Season 19 Rookie Pack | 366844 | [366844-rocket-league-season-19-rookie-pack.json](./366844-rocket-league-season-19-rookie-pack.json) |
+| Rocket League: Season 23 | 407432 | [407432-rocket-league-season-23.json](./407432-rocket-league-season-23.json) |
 | Rocket League: Season 7 | 204462 | [204462-rocket-league-season-7.json](./204462-rocket-league-season-7.json) |
 | Rocket League: TriTrim Wheels | 366848 | [366848-rocket-league-tritrim-wheels.json](./366848-rocket-league-tritrim-wheels.json) |
 | Rocket Mania | 195213 | [195213-rocket-mania.json](./195213-rocket-mania.json) |
@@ -2624,7 +2625,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RRRR 2 | 117081 | [117081-rrrr-2.json](./117081-rrrr-2.json) |
 | RRWard02 | 274209 | [274209-rrward02.json](./274209-rrward02.json) |
 | RSSU: Retro Style Soviet Undies | 298065 | [298065-rssu-retro-style-soviet-undies.json](./298065-rssu-retro-style-soviet-undies.json) |
+| RTA Adventure | 407447 | [407447-rta-adventure.json](./407447-rta-adventure.json) |
 | RTA New York Street | 359992 | [359992-rta-new-york-street.json](./359992-rta-new-york-street.json) |
+| RTA Run!! | 407451 | [407451-rta-run.json](./407451-rta-run.json) |
 | RTAG Rise | 88176 | [88176-rtag-rise.json](./88176-rtag-rise.json) |
 | RTE Worlds | 273127 | [273127-rte-worlds.json](./273127-rte-worlds.json) |
 | RTL Alarm für Cobra 11: Teil II | 144348 | [144348-rtl-alarm-fur-cobra-11-teil-ii.json](./144348-rtl-alarm-fur-cobra-11-teil-ii.json) |
