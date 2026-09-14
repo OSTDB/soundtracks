@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
 | Micropolis | 46622 | [46622-micropolis.json](./46622-micropolis.json) |
 | MicroProse Entertainment Pack Vol #1: Dr Floyd's Desktop Toys | 98962 | [98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json](./98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json) |
+| Microscape | 411686 | [411686-microscape.json](./411686-microscape.json) |
 | Microscope Madness | 127211 | [127211-microscope-madness.json](./127211-microscope-madness.json) |
 | Microshaft Winblows 98 | 81214 | [81214-microshaft-winblows-98.json](./81214-microshaft-winblows-98.json) |
 | MicroSoccer | 234062 | [234062-microsoccer.json](./234062-microsoccer.json) |
@@ -2598,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
 | Minecraft Earth | 118711 | [118711-minecraft-earth.json](./118711-minecraft-earth.json) |
 | Minecraft Education | 28407 | [28407-minecraft-education.json](./28407-minecraft-education.json) |
+| Minecraft Matcha Flavoured | 411659 | [411659-minecraft-matcha-flavoured.json](./411659-minecraft-matcha-flavoured.json) |
 | Minecraft PSP | 327850 | [327850-minecraft-psp.json](./327850-minecraft-psp.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
 | Minecraft vs. Zombies 2 | 273112 | [273112-minecraft-vs-zombies-2.json](./273112-minecraft-vs-zombies-2.json) |
@@ -4500,6 +4502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Universe: Demodium | 286542 | [286542-my-little-universe-demodium.json](./286542-my-little-universe-demodium.json) |
 | My Little Work: Garage | 89180 | [89180-my-little-work-garage.json](./89180-my-little-work-garage.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
+| My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
 | My Mermaid Girlfriend | 208366 | [208366-my-mermaid-girlfriend.json](./208366-my-mermaid-girlfriend.json) |
