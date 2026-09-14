@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Adventure | 179185 | [179185-ship-adventure.json](./179185-ship-adventure.json) |
 | Ship Graveyard Simulator: Submarines | 197405 | [197405-ship-graveyard-simulator-submarines.json](./197405-ship-graveyard-simulator-submarines.json) |
 | Ship It | 31747 | [31747-ship-it.json](./31747-ship-it.json) |
+| Ship Miner | 402999 | [402999-ship-miner.json](./402999-ship-miner.json) |
 | Ship of Harkinian | 194694 | [194694-ship-of-harkinian.json](./194694-ship-of-harkinian.json) |
 | Ship of Love | 340376 | [340376-ship-of-love.json](./340376-ship-of-love.json) |
 | Ship of the Line | 73845 | [73845-ship-of-the-line.json](./73845-ship-of-the-line.json) |
@@ -3060,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Golf Mini | 234054 | [234054-slide-golf-mini.json](./234054-slide-golf-mini.json) |
 | Slide Hexagon | 358312 | [358312-slide-hexagon.json](./358312-slide-hexagon.json) |
 | Slide On Ice | 243714 | [243714-slide-on-ice.json](./243714-slide-on-ice.json) |
+| Slide Princess: Dungeon Escape | 403018 | [403018-slide-princess-dungeon-escape.json](./403018-slide-princess-dungeon-escape.json) |
 | Slide Ride Arcade | 32985 | [32985-slide-ride-arcade.json](./32985-slide-ride-arcade.json) |
 | Slide to Solve | 329592 | [329592-slide-to-solve.json](./329592-slide-to-solve.json) |
 | SlideNSlip | 166774 | [166774-slidenslip.json](./166774-slidenslip.json) |
@@ -3927,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 3D: No Flickies | 198547 | [198547-sonic-3d-no-flickies.json](./198547-sonic-3d-no-flickies.json) |
 | Sonic Action | 331313 | [331313-sonic-action.json](./331313-sonic-action.json) |
 | Sonic Advance 2 | 6598 | [6598-sonic-advance-2.json](./6598-sonic-advance-2.json) |
+| Sonic Advance 3 SP | 402975 | [402975-sonic-advance-3-sp.json](./402975-sonic-advance-3-sp.json) |
 | Sonic Adventure 2 | 7858 | [7858-sonic-adventure-2.json](./7858-sonic-adventure-2.json) |
 | Sonic Adventure DS | 336362 | [336362-sonic-adventure-ds.json](./336362-sonic-adventure-ds.json) |
 | Sonic Adventure DX: Director's Cut | 23695 | [23695-sonic-adventure-dx-directors-cut.json](./23695-sonic-adventure-dx-directors-cut.json) |
@@ -5121,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spoofs Playland | 373552 | [373552-spoofs-playland.json](./373552-spoofs-playland.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
 | Spooked | 45325 | [45325-spooked.json](./45325-spooked.json) |
+| Spooker | 403027 | [403027-spooker.json](./403027-spooker.json) |
 | Spookity Hollow | 170549 | [170549-spookity-hollow.json](./170549-spookity-hollow.json) |
 | Spooklands | 61064 | [61064-spooklands.json](./61064-spooklands.json) |
 | Spookulele | 204715 | [204715-spookulele.json](./204715-spookulele.json) |
@@ -5697,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarCraft: Retribution | 66116 | [66116-starcraft-retribution.json](./66116-starcraft-retribution.json) |
 | Starcraft: Stellar Forces | 135274 | [135274-starcraft-stellar-forces.json](./135274-starcraft-stellar-forces.json) |
 | StarCraft: Stratospace | 135273 | [135273-starcraft-stratospace.json](./135273-starcraft-stratospace.json) |
+| Starcult. Night: Twisted Age | 402990 | [402990-starcult-night-twisted-age.json](./402990-starcult-night-twisted-age.json) |
 | Stardeus | 139453 | [139453-stardeus.json](./139453-stardeus.json) |
 | Stardew Valley: Collector's Edition | 42895 | [42895-stardew-valley-collectors-edition.json](./42895-stardew-valley-collectors-edition.json) |
 | Stardoll Dress Up Blog Stars | 357220 | [357220-stardoll-dress-up-blog-stars.json](./357220-stardoll-dress-up-blog-stars.json) |
@@ -8096,6 +8101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwooshMania | 347723 | [347723-swooshmania.json](./347723-swooshmania.json) |
 | Sword & Dragon | 58234 | [58234-sword-and-dragon.json](./58234-sword-and-dragon.json) |
 | Sword & Seek | 309847 | [309847-sword-and-seek.json](./309847-sword-and-seek.json) |
+| Sword & Siege Crusades: Book II | 402956 | [402956-sword-and-siege-crusades-book-ii.json](./402956-sword-and-siege-crusades-book-ii.json) |
 | Sword and Expedition: Placing Heroes | 188040 | [188040-sword-and-expedition-placing-heroes.json](./188040-sword-and-expedition-placing-heroes.json) |
 | Sword and Fairy 3 Ex | 369568 | [369568-sword-and-fairy-3-ex.json](./369568-sword-and-fairy-3-ex.json) |
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
