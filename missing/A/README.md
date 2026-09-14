@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alwa's Collection | 171547 | [171547-alwas-collection.json](./171547-alwas-collection.json) |
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
 | Always Remember Me | 36356 | [36356-always-remember-me.json](./36356-always-remember-me.json) |
+| Always Sunset | 413736 | [413736-always-sunset.json](./413736-always-sunset.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
 | Amaekata wa Kanojo Nari ni | 55880 | [55880-amaekata-wa-kanojo-nari-ni.json](./55880-amaekata-wa-kanojo-nari-ni.json) |
