@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's in the Attic? | 140593 | [140593-whats-in-the-attic.json](./140593-whats-in-the-attic.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
+| What's the Difference? Spot It | 90182 | [90182-whats-the-difference-spot-it.json](./90182-whats-the-difference-spot-it.json) |
 | What's the Time Mr.Fox | 200140 | [200140-whats-the-time-mr-fox.json](./200140-whats-the-time-mr-fox.json) |
 | What's under your blanket !? | 15744 | [15744-whats-under-your-blanket.json](./15744-whats-under-your-blanket.json) |
 | What's Updog | 228066 | [228066-whats-updog.json](./228066-whats-updog.json) |
@@ -851,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheels0 | 78628 | [78628-wheels0.json](./78628-wheels0.json) |
 | WheelTravel | 117039 | [117039-wheeltravel.json](./117039-wheeltravel.json) |
 | WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
+| Wheelz2 | 90115 | [90115-wheelz2.json](./90115-wheelz2.json) |
 | Whelm | 296363 | [296363-whelm.json](./296363-whelm.json) |
 | When Dreams Wake | 398342 | [398342-when-dreams-wake.json](./398342-when-dreams-wake.json) |
 | When I Reincarnate, I'm a Cube!? | 153970 | [153970-when-i-reincarnate-im-a-cube.json](./153970-when-i-reincarnate-im-a-cube.json) |
@@ -1161,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Will Hero | 92116 | [92116-will-hero.json](./92116-will-hero.json) |
 | Will it Crush? | 102785 | [102785-will-it-crush.json](./102785-will-it-crush.json) |
+| Will it Crush? | 90034 | [90034-will-it-crush.json](./90034-will-it-crush.json) |
 | Will This Bitter Night Bring Change? | 204466 | [204466-will-this-bitter-night-bring-change.json](./204466-will-this-bitter-night-bring-change.json) |
 | Will Walker | 147377 | [147377-will-walker.json](./147377-will-walker.json) |
 | Will Willis and the Temple of Hacha'Kyum | 70368 | [70368-will-willis-and-the-temple-of-hachakyum.json](./70368-will-willis-and-the-temple-of-hachakyum.json) |
@@ -1380,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: Hunter and the Hunted - Collector's Edition | 89945 | [89945-witches-legacy-hunter-and-the-hunted-collectors-edition.json](./89945-witches-legacy-hunter-and-the-hunted-collectors-edition.json) |
 | Witches' Legacy: Hunter and the Hunted HD | 101583 | [101583-witches-legacy-hunter-and-the-hunted-hd.json](./101583-witches-legacy-hunter-and-the-hunted-hd.json) |
 | Witches' Legacy: Lair of the Witch Queen - Collector's Edition | 110374 | [110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json](./110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json) |
+| Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
 | Witching Well | 304010 | [304010-witching-well.json](./304010-witching-well.json) |
 | Witchmore | 241653 | [241653-witchmore.json](./241653-witchmore.json) |
@@ -1477,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woke Quest | 415914 | [415914-woke-quest.json](./415914-woke-quest.json) |
 | Wolf | 9573 | [9573-wolf.json](./9573-wolf.json) |
 | Wolf & Pigs | 127197 | [127197-wolf-and-pigs.json](./127197-wolf-and-pigs.json) |
+| Wolf & Rabbit | 90027 | [90027-wolf-and-rabbit.json](./90027-wolf-and-rabbit.json) |
 | Wolf Adventures | 164518 | [164518-wolf-adventures.json](./164518-wolf-adventures.json) |
 | Wolf And Moon: Nonogram | 312365 | [312365-wolf-and-moon-nonogram.json](./312365-wolf-and-moon-nonogram.json) |
 | Wolf And Moon: Sudoku | 312362 | [312362-wolf-and-moon-sudoku.json](./312362-wolf-and-moon-sudoku.json) |
