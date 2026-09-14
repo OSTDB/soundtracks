@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Room | 81093 | [81093-rage-room.json](./81093-rage-room.json) |
 | Rage Tower | 355033 | [355033-rage-tower.json](./355033-rage-tower.json) |
 | Rageball | 43894 | [43894-rageball.json](./43894-rageball.json) |
+| RageFall | 391191 | [391191-ragefall.json](./391191-ragefall.json) |
 | Raging Blades | 43324 | [43324-raging-blades.json](./43324-raging-blades.json) |
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
 | Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
@@ -915,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Storm Survival | 96035 | [96035-red-storm-survival.json](./96035-red-storm-survival.json) |
 | Red Tag Rendezvous | 180769 | [180769-red-tag-rendezvous.json](./180769-red-tag-rendezvous.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
+| Red Tide | 391177 | [391177-red-tide.json](./391177-red-tide.json) |
 | Red Wings: Coloring Planes | 192405 | [192405-red-wings-coloring-planes.json](./192405-red-wings-coloring-planes.json) |
 | Red Wolf | 378200 | [378200-red-wolf.json](./378200-red-wolf.json) |
 | Red World Fan Fork | 398440 | [398440-red-world-fan-fork.json](./398440-red-world-fan-fork.json) |
@@ -1596,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
 | Rich Life Simulator VR | 50520 | [50520-rich-life-simulator-vr.json](./50520-rich-life-simulator-vr.json) |
 | Rich Mahogany and Human Leather-Bound Books | 271749 | [271749-rich-mahogany-and-human-leather-bound-books.json](./271749-rich-mahogany-and-human-leather-bound-books.json) |
+| Rich River | 391203 | [391203-rich-river.json](./391203-rich-river.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
 | Richard West and the Golden Mask | 190139 | [190139-richard-west-and-the-golden-mask.json](./190139-richard-west-and-the-golden-mask.json) |
@@ -2557,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
 | Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
+| Rosie's Rampage | 391170 | [391170-rosies-rampage.json](./391170-rosies-rampage.json) |
 | Roswell Conspiracies: Aliens, Myths & Legends | 49883 | [49883-roswell-conspiracies-aliens-myths-and-legends.json](./49883-roswell-conspiracies-aliens-myths-and-legends.json) |
 | Roswell Fighter | 21774 | [21774-roswell-fighter.json](./21774-roswell-fighter.json) |
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
@@ -2661,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Romances: The Power of Chosen One DLC | 256003 | [256003-royal-romances-the-power-of-chosen-one-dlc.json](./256003-royal-romances-the-power-of-chosen-one-dlc.json) |
 | Royal Settlement 1450 | 54353 | [54353-royal-settlement-1450.json](./54353-royal-settlement-1450.json) |
 | Royal Trouble: Hidden Adventures | 87899 | [87899-royal-trouble-hidden-adventures.json](./87899-royal-trouble-hidden-adventures.json) |
+| Royal Verdict | 391160 | [391160-royal-verdict.json](./391160-royal-verdict.json) |
 | Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
 | Royalevia | 254764 | [254764-royalevia.json](./254764-royalevia.json) |
 | Rozalin and the Palace of Flowers | 150669 | [150669-rozalin-and-the-palace-of-flowers.json](./150669-rozalin-and-the-palace-of-flowers.json) |
