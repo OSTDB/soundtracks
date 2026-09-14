@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laballatory | 409584 | [409584-laballatory.json](./409584-laballatory.json) |
 | Labarynth of Legendary Loot | 143044 | [143044-labarynth-of-legendary-loot.json](./143044-labarynth-of-legendary-loot.json) |
 | Labhorror | 414405 | [414405-labhorror.json](./414405-labhorror.json) |
+| Lablue Horror | 411048 | [411048-lablue-horror.json](./411048-lablue-horror.json) |
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
 | Laby to Panel de Shiritori | 325452 | [325452-laby-to-panel-de-shiritori.json](./325452-laby-to-panel-de-shiritori.json) |
@@ -286,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Dream: Complete Edition | 53265 | [53265-last-dream-complete-edition.json](./53265-last-dream-complete-edition.json) |
 | Last dungeon of defeat - Humiliation for female warrior Erina | 134627 | [134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json](./134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json) |
 | Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
+| Last Epoch: Shattered Omens | 408917 | [408917-last-epoch-shattered-omens.json](./408917-last-epoch-shattered-omens.json) |
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
 | Last Floor | 400252 | [400252-last-floor.json](./400252-last-floor.json) |
 | Last Friend | 91968 | [91968-last-friend.json](./91968-last-friend.json) |
@@ -467,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf Me Alone | 408086 | [408086-leaf-me-alone.json](./408086-leaf-me-alone.json) |
 | Leaf on Wind | 149087 | [149087-leaf-on-wind.json](./149087-leaf-on-wind.json) |
 | Leafing Home | 333006 | [333006-leafing-home.json](./333006-leafing-home.json) |
+| Leaftaker | 411043 | [411043-leaftaker.json](./411043-leaftaker.json) |
 | League Bowling | 40206 | [40206-league-bowling.json](./40206-league-bowling.json) |
 | League of Abyss | 312573 | [312573-league-of-abyss.json](./312573-league-of-abyss.json) |
 | League of Battle | 50522 | [50522-league-of-battle.json](./50522-league-of-battle.json) |
