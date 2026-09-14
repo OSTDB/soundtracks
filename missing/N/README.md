@@ -285,6 +285,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navalny: Posledniy miting | 111016 | [111016-navalny-posledniy-miting.json](./111016-navalny-posledniy-miting.json) |
 | Navigavia: Kirka's Island | 267107 | [267107-navigavia-kirkas-island.json](./267107-navigavia-kirkas-island.json) |
 | Navit | 380446 | [380446-navit.json](./380446-navit.json) |
+| Navitune: Dragon Koukaigi | 400944 | [400944-navitune-dragon-koukaigi.json](./400944-navitune-dragon-koukaigi.json) |
+| Navitune: Dragon Koukaigi | 400945 | [400945-navitune-dragon-koukaigi.json](./400945-navitune-dragon-koukaigi.json) |
+| Navitune: Dragon Koukaigi | 400947 | [400947-navitune-dragon-koukaigi.json](./400947-navitune-dragon-koukaigi.json) |
 | Navy Seal | 75117 | [75117-navy-seal.json](./75117-navy-seal.json) |
 | Navy Seals | 25150 | [25150-navy-seals.json](./25150-navy-seals.json) |
 | Navy Strike | 69220 | [69220-navy-strike.json](./69220-navy-strike.json) |
@@ -593,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Drive | 31180 | [31180-neon-drive.json](./31180-neon-drive.json) |
 | Neon Express | 310723 | [310723-neon-express.json](./310723-neon-express.json) |
 | Neon Fantasy: Birds | 254144 | [254144-neon-fantasy-birds.json](./254144-neon-fantasy-birds.json) |
+| Neon Fantasy: Dinosaurs | 401022 | [401022-neon-fantasy-dinosaurs.json](./401022-neon-fantasy-dinosaurs.json) |
 | Neon Fantasy: Dogs | 270970 | [270970-neon-fantasy-dogs.json](./270970-neon-fantasy-dogs.json) |
 | Neon Fantasy: Predators | 278732 | [278732-neon-fantasy-predators.json](./278732-neon-fantasy-predators.json) |
 | Neon Fighter | 211720 | [211720-neon-fighter.json](./211720-neon-fighter.json) |
@@ -1514,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noir Crime Bundle: Mafia, Mystery & Investigation | 402297 | [402297-noir-crime-bundle-mafia-mystery-and-investigation.json](./402297-noir-crime-bundle-mafia-mystery-and-investigation.json) |
 | Noir Storm | 216984 | [216984-noir-storm.json](./216984-noir-storm.json) |
 | Noir Total: Deadly Party | 343270 | [343270-noir-total-deadly-party.json](./343270-noir-total-deadly-party.json) |
+| Noirmancer | 400955 | [400955-noirmancer.json](./400955-noirmancer.json) |
 | NoirNet: The Neon Enigma | 249188 | [249188-noirnet-the-neon-enigma.json](./249188-noirnet-the-neon-enigma.json) |
 | Noise | 327192 | [327192-noise.json](./327192-noise.json) |
 | Noise City Osaka | 140020 | [140020-noise-city-osaka.json](./140020-noise-city-osaka.json) |
