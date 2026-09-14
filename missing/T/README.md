@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 4th Unit | 78724 | [78724-the-4th-unit.json](./78724-the-4th-unit.json) |
 | The 4th Unit 2 | 78725 | [78725-the-4th-unit-2.json](./78725-the-4th-unit-2.json) |
 | The 4th Unit 3 - Dual Targets | 78726 | [78726-the-4th-unit-3-dual-targets.json](./78726-the-4th-unit-3-dual-targets.json) |
+| The 50 States Quiz | 103441 | [103441-the-50-states-quiz.json](./103441-the-50-states-quiz.json) |
 | The 64 kb challenge: Limitless | 260140 | [260140-the-64-kb-challenge-limitless.json](./260140-the-64-kb-challenge-limitless.json) |
 | The 64 kb challenge: Vanilla | 260139 | [260139-the-64-kb-challenge-vanilla.json](./260139-the-64-kb-challenge-vanilla.json) |
 | The 7 Cents Deal | 183558 | [183558-the-7-cents-deal.json](./183558-the-7-cents-deal.json) |
@@ -1721,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Contract | 271756 | [271756-the-contract.json](./271756-the-contract.json) |
 | The Conveni: Ano Machi wo Dokusen Seyo | 178558 | [178558-the-conveni-ano-machi-wo-dokusen-seyo.json](./178558-the-conveni-ano-machi-wo-dokusen-seyo.json) |
 | The Cook in the Court of the Count | 397669 | [397669-the-cook-in-the-court-of-the-count.json](./397669-the-cook-in-the-court-of-the-count.json) |
+| The Cooking Game VR | 104045 | [104045-the-cooking-game-vr.json](./104045-the-cooking-game-vr.json) |
 | The Cool Guys Are Level 100 | 316409 | [316409-the-cool-guys-are-level-100.json](./316409-the-cool-guys-are-level-100.json) |
 | The Copper Age | 217913 | [217913-the-copper-age.json](./217913-the-copper-age.json) |
 | The Copperfield Department | 326967 | [326967-the-copperfield-department.json](./326967-the-copperfield-department.json) |
@@ -1842,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark West | 336522 | [336522-the-dark-west.json](./336522-the-dark-west.json) |
 | The Dark Wings 2 | 120345 | [120345-the-dark-wings-2.json](./120345-the-dark-wings-2.json) |
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
+| The Darkest Woods | 103762 | [103762-the-darkest-woods.json](./103762-the-darkest-woods.json) |
 | The Darkest Woods 2 | 111711 | [111711-the-darkest-woods-2.json](./111711-the-darkest-woods-2.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
 | The Dating Game | 65534 | [65534-the-dating-game.json](./65534-the-dating-game.json) |
@@ -2285,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glass Staircase | 116968 | [116968-the-glass-staircase.json](./116968-the-glass-staircase.json) |
 | The Glassworks | 322353 | [322353-the-glassworks.json](./322353-the-glassworks.json) |
 | The Goalkeeper | 70946 | [70946-the-goalkeeper.json](./70946-the-goalkeeper.json) |
+| The Goatman | 104034 | [104034-the-goatman.json](./104034-the-goatman.json) |
 | The Goblins are Coming | 246949 | [246949-the-goblins-are-coming.json](./246949-the-goblins-are-coming.json) |
 | The Goddess Robbery | 307906 | [307906-the-goddess-robbery.json](./307906-the-goddess-robbery.json) |
 | The Godfather: The Don's Edition | 20683 | [20683-the-godfather-the-dons-edition.json](./20683-the-godfather-the-dons-edition.json) |
@@ -2370,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hangman's Noose | 58222 | [58222-the-hangmans-noose.json](./58222-the-hangmans-noose.json) |
 | The Happy Hereafter | 17521 | [17521-the-happy-hereafter.json](./17521-the-happy-hereafter.json) |
 | The Happyhills Homicide | 209496 | [209496-the-happyhills-homicide.json](./209496-the-happyhills-homicide.json) |
+| The Harbinger's Head | 103466 | [103466-the-harbingers-head.json](./103466-the-harbingers-head.json) |
 | The Hardest BrickBreaker | 113708 | [113708-the-hardest-brickbreaker.json](./113708-the-hardest-brickbreaker.json) |
 | The Hardest Game in the Universe 2: Bridging to the Third Chapter | 310404 | [310404-the-hardest-game-in-the-universe-2-bridging-to-the-third-chapter.json](./310404-the-hardest-game-in-the-universe-2-bridging-to-the-third-chapter.json) |
 | The Hardest Game in the Universe: DLC 3 | 306069 | [306069-the-hardest-game-in-the-universe-dlc-3.json](./306069-the-hardest-game-in-the-universe-dlc-3.json) |
@@ -5372,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Troopers: Global Ops - Digital Deluxe Edition | 241358 | [241358-tiny-troopers-global-ops-digital-deluxe-edition.json](./241358-tiny-troopers-global-ops-digital-deluxe-edition.json) |
 | Tiny Vision | 161332 | [161332-tiny-vision.json](./161332-tiny-vision.json) |
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
+| Tiny-Tasy Town | 103598 | [103598-tiny-tasy-town.json](./103598-tiny-tasy-town.json) |
 | TinyCraft Town | 362298 | [362298-tinycraft-town.json](./362298-tinycraft-town.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
 | Tinytopia | 131947 | [131947-tinytopia.json](./131947-tinytopia.json) |
