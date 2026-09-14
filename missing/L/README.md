@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Princess | 266775 | [266775-lost-princess.json](./266775-lost-princess.json) |
 | Lost Prototype | 356643 | [356643-lost-prototype.json](./356643-lost-prototype.json) |
 | Lost Pyramid | 236818 | [236818-lost-pyramid.json](./236818-lost-pyramid.json) |
+| Lost Railway | 397805 | [397805-lost-railway.json](./397805-lost-railway.json) |
 | Lost Recipes | 194717 | [194717-lost-recipes.json](./194717-lost-recipes.json) |
 | Lost Records: Bloom & Rage - Tape 2 | 314261 | [314261-lost-records-bloom-and-rage-tape-2.json](./314261-lost-records-bloom-and-rage-tape-2.json) |
 | Lost Ruins of Arnak | 350426 | [350426-lost-ruins-of-arnak.json](./350426-lost-ruins-of-arnak.json) |
