@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I will eat you | 126957 | [126957-i-will-eat-you.json](./126957-i-will-eat-you.json) |
 | I Will Return | 341876 | [341876-i-will-return.json](./341876-i-will-return.json) |
 | I Wish You Rain | 23884 | [23884-i-wish-you-rain.json](./23884-i-wish-you-rain.json) |
+| I Woke up in an RPG | 415871 | [415871-i-woke-up-in-an-rpg.json](./415871-i-woke-up-in-an-rpg.json) |
 | I woke up in the house of a fat man: he's over 30 years old and loves beer and games | 376469 | [376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json](./376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json) |
 | I-0: Jailbait on Interstate Zero | 69879 | [69879-i-0-jailbait-on-interstate-zero.json](./69879-i-0-jailbait-on-interstate-zero.json) |
 | I-Chu | 220879 | [220879-i-chu.json](./220879-i-chu.json) |
@@ -752,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indoors: The Alston Manor | 269005 | [269005-indoors-the-alston-manor.json](./269005-indoors-the-alston-manor.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
 | Indulge | 414312 | [414312-indulge.json](./414312-indulge.json) |
+| Industeria | 416684 | [416684-industeria.json](./416684-industeria.json) |
 | Industria II | 292878 | [292878-industria-ii.json](./292878-industria-ii.json) |
 | Industrial Annihilation | 324902 | [324902-industrial-annihilation.json](./324902-industrial-annihilation.json) |
 | Industrial Combat | 271750 | [271750-industrial-combat.json](./271750-industrial-combat.json) |
@@ -1565,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ixion Saga | 152292 | [152292-ixion-saga.json](./152292-ixion-saga.json) |
 | Iz | 292515 | [292515-iz.json](./292515-iz.json) |
 | Iz and Auggie: Escape from Dimension Q | 64378 | [64378-iz-and-auggie-escape-from-dimension-q.json](./64378-iz-and-auggie-escape-from-dimension-q.json) |
+| Izakaya Rush | 415886 | [415886-izakaya-rush.json](./415886-izakaya-rush.json) |
 | Izanami's Dream Battle | 30822 | [30822-izanamis-dream-battle.json](./30822-izanamis-dream-battle.json) |
 | Izeriya | 32938 | [32938-izeriya.json](./32938-izeriya.json) |
 | Izmir: An Independence Simulator | 196294 | [196294-izmir-an-independence-simulator.json](./196294-izmir-an-independence-simulator.json) |
