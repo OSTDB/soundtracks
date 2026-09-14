@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
+| Team Fortress 2: Rebalanced | 400339 | [400339-team-fortress-2-rebalanced.json](./400339-team-fortress-2-rebalanced.json) |
 | Team Fortress Kart | 371244 | [371244-team-fortress-kart.json](./371244-team-fortress-kart.json) |
 | Team Four Star RPG | 75043 | [75043-team-four-star-rpg.json](./75043-team-four-star-rpg.json) |
 | Team Hogus: GHAMEMFAIFTH OTHIYLTIM | 185659 | [185659-team-hogus-ghamemfaifth-othiyltim.json](./185659-team-hogus-ghamemfaifth-othiyltim.json) |
@@ -1135,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tester | 397704 | [397704-tester.json](./397704-tester.json) |
 | Testimony of Help | 268228 | [268228-testimony-of-help.json](./268228-testimony-of-help.json) |
 | Testing Facility | 274181 | [274181-testing-facility.json](./274181-testing-facility.json) |
+| Tet Story | 400370 | [400370-tet-story.json](./400370-tet-story.json) |
 | Tether | 186336 | [186336-tether.json](./186336-tether.json) |
 | Tetnis | 93522 | [93522-tetnis.json](./93522-tetnis.json) |
 | Tetra for Nintendo Switch: International Edition | 187462 | [187462-tetra-for-nintendo-switch-international-edition.json](./187462-tetra-for-nintendo-switch-international-edition.json) |
@@ -1394,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
 | The Arson Betrayal | 239312 | [239312-the-arson-betrayal.json](./239312-the-arson-betrayal.json) |
 | The Art of Chess | 14269 | [14269-the-art-of-chess.json](./14269-the-art-of-chess.json) |
+| The Art of Creation | 400362 | [400362-the-art-of-creation.json](./400362-the-art-of-creation.json) |
 | The Art of GO | 14270 | [14270-the-art-of-go.json](./14270-the-art-of-go.json) |
 | The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
@@ -1802,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
 | The Craft of the Samurai | 159809 | [159809-the-craft-of-the-samurai.json](./159809-the-craft-of-the-samurai.json) |
+| The Crane Rider's Tale | 400355 | [400355-the-crane-riders-tale.json](./400355-the-crane-riders-tale.json) |
 | The Crazed Chicken | 71000 | [71000-the-crazed-chicken.json](./71000-the-crazed-chicken.json) |
 | The Crazy Journalist | 199056 | [199056-the-crazy-journalist.json](./199056-the-crazy-journalist.json) |
 | The Creation of a Self | 149033 | [149033-the-creation-of-a-self.json](./149033-the-creation-of-a-self.json) |
@@ -3526,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quintessential Quintuplets: Omoide VR - Itsuki | 211734 | [211734-the-quintessential-quintuplets-omoide-vr-itsuki.json](./211734-the-quintessential-quintuplets-omoide-vr-itsuki.json) |
 | The Quintessential Quintuplets: The Quintuplets Can't Divide the Puzzle Into Five Equal Parts | 194029 | [194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json](./194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json) |
 | The Quiz Gear Fight!! | 46601 | [46601-the-quiz-gear-fight.json](./46601-the-quiz-gear-fight.json) |
+| The Quiz Quest | 400366 | [400366-the-quiz-quest.json](./400366-the-quiz-quest.json) |
 | The Rabbit and the Owl | 51612 | [51612-the-rabbit-and-the-owl.json](./51612-the-rabbit-and-the-owl.json) |
 | The Rabbit Hole Principle | 120352 | [120352-the-rabbit-hole-principle.json](./120352-the-rabbit-hole-principle.json) |
 | The Rabbit's Scroll | 204114 | [204114-the-rabbits-scroll.json](./204114-the-rabbits-scroll.json) |
@@ -4255,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trials of Beadie | 204106 | [204106-the-trials-of-beadie.json](./204106-the-trials-of-beadie.json) |
 | The Trials of Goodbye | 312876 | [312876-the-trials-of-goodbye.json](./312876-the-trials-of-goodbye.json) |
 | The Trials of Olympus 2: Wrath of the Gods | 114357 | [114357-the-trials-of-olympus-2-wrath-of-the-gods.json](./114357-the-trials-of-olympus-2-wrath-of-the-gods.json) |
+| The Trials: Chapter Two | 400372 | [400372-the-trials-chapter-two.json](./400372-the-trials-chapter-two.json) |
 | The Tribulation Entanglement | 190189 | [190189-the-tribulation-entanglement.json](./190189-the-tribulation-entanglement.json) |
 | The Trip Adventure | 66636 | [66636-the-trip-adventure.json](./66636-the-trip-adventure.json) |
 | The Trivial Dead | 145649 | [145649-the-trivial-dead.json](./145649-the-trivial-dead.json) |
@@ -5564,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan-3D | 53806 | [53806-titan-3d.json](./53806-titan-3d.json) |
 | Titan78 | 190147 | [190147-titan78.json](./190147-titan78.json) |
 | Titanfall 2: Deluxe Edition | 53805 | [53805-titanfall-2-deluxe-edition.json](./53805-titanfall-2-deluxe-edition.json) |
+| Titanfall Frontline | 400292 | [400292-titanfall-frontline.json](./400292-titanfall-frontline.json) |
 | Titanfall: Deluxe Edition | 83876 | [83876-titanfall-deluxe-edition.json](./83876-titanfall-deluxe-edition.json) |
 | Titanic | 10842 | [10842-titanic.json](./10842-titanic.json) |
 | Titanic | 74430 | [74430-titanic.json](./74430-titanic.json) |
