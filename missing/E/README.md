@@ -1151,6 +1151,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From School: F.E.L.I.K | 235472 | [235472-escape-from-school-f-e-l-i-k.json](./235472-escape-from-school-f-e-l-i-k.json) |
 | Escape from Sin City | 101498 | [101498-escape-from-sin-city.json](./101498-escape-from-sin-city.json) |
 | Escape From Sunveil Starport | 299430 | [299430-escape-from-sunveil-starport.json](./299430-escape-from-sunveil-starport.json) |
+| Escape from Tarkov: Bear - Arktika | 399106 | [399106-escape-from-tarkov-bear-arktika.json](./399106-escape-from-tarkov-bear-arktika.json) |
+| Escape from Tarkov: Usec - AC Ranger Green | 399107 | [399107-escape-from-tarkov-usec-ac-ranger-green.json](./399107-escape-from-tarkov-usec-ac-ranger-green.json) |
+| Escape from Tarkov: Usec - Fahrenheit | 399105 | [399105-escape-from-tarkov-usec-fahrenheit.json](./399105-escape-from-tarkov-usec-fahrenheit.json) |
 | Escape from Tethys | 103256 | [103256-escape-from-tethys.json](./103256-escape-from-tethys.json) |
 | Escape from the Abandoned Outpost | 273669 | [273669-escape-from-the-abandoned-outpost.json](./273669-escape-from-the-abandoned-outpost.json) |
 | Escape from the Cannibal Family | 301246 | [301246-escape-from-the-cannibal-family.json](./301246-escape-from-the-cannibal-family.json) |
@@ -1320,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Step | 14388 | [14388-eternal-step.json](./14388-eternal-step.json) |
 | Eternal Supreme | 210881 | [210881-eternal-supreme.json](./210881-eternal-supreme.json) |
 | Eternal Tree | 339116 | [339116-eternal-tree.json](./339116-eternal-tree.json) |
+| Eternal Troops | 399083 | [399083-eternal-troops.json](./399083-eternal-troops.json) |
 | Eternal Wheel | 64961 | [64961-eternal-wheel.json](./64961-eternal-wheel.json) |
 | Eternally Us | 123002 | [123002-eternally-us.json](./123002-eternally-us.json) |
 | Eternally Yours | 261545 | [261545-eternally-yours.json](./261545-eternally-yours.json) |
