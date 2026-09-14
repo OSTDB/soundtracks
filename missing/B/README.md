@@ -907,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Kings | 101591 | [101591-battle-of-kings.json](./101591-battle-of-kings.json) |
 | Battle of Luzon 1945 | 103530 | [103530-battle-of-luzon-1945.json](./103530-battle-of-luzon-1945.json) |
 | Battle of Orion 10: First contact | 235474 | [235474-battle-of-orion-10-first-contact.json](./235474-battle-of-orion-10-first-contact.json) |
+| Battle of Plans | 417500 | [417500-battle-of-plans.json](./417500-battle-of-plans.json) |
 | Battle of Puppets | 66616 | [66616-battle-of-puppets.json](./66616-battle-of-puppets.json) |
 | Battle of Tarlis | 259587 | [259587-battle-of-tarlis.json](./259587-battle-of-tarlis.json) |
 | Battle of the Immortals | 51218 | [51218-battle-of-the-immortals.json](./51218-battle-of-the-immortals.json) |
@@ -1276,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
+| Becoming None | 417527 | [417527-becoming-none.json](./417527-becoming-none.json) |
 | Becoming Omega | 146838 | [146838-becoming-omega.json](./146838-becoming-omega.json) |
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
 | Bed Bounce | 313125 | [313125-bed-bounce.json](./313125-bed-bounce.json) |
@@ -1294,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee-Ball | 40720 | [40720-bee-ball.json](./40720-bee-ball.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
 | Beecarbonize | 240874 | [240874-beecarbonize.json](./240874-beecarbonize.json) |
+| Beeder's Big Adventure | 417526 | [417526-beeders-big-adventure.json](./417526-beeders-big-adventure.json) |
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
 | Beekeeper | 117804 | [117804-beekeeper.json](./117804-beekeeper.json) |
@@ -1624,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Challenge! Go! Go! Bowling | 41330 | [41330-big-challenge-go-go-bowling.json](./41330-big-challenge-go-go-bowling.json) |
 | Big Chief | 96342 | [96342-big-chief.json](./96342-big-chief.json) |
 | Big City Adventure: Istanbul | 294743 | [294743-big-city-adventure-istanbul.json](./294743-big-city-adventure-istanbul.json) |
+| Big City Adventure: London Classic | 417564 | [417564-big-city-adventure-london-classic.json](./417564-big-city-adventure-london-classic.json) |
 | Big City Adventure: Tokyo | 294742 | [294742-big-city-adventure-tokyo.json](./294742-big-city-adventure-tokyo.json) |
 | Big Cup Cricket | 22337 | [22337-big-cup-cricket.json](./22337-big-cup-cricket.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
@@ -3309,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Balloons: Ghost Town | 252151 | [252151-break-the-balloons-ghost-town.json](./252151-break-the-balloons-ghost-town.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
 | Break the Fireline | 230847 | [230847-break-the-fireline.json](./230847-break-the-fireline.json) |
+| Break The Night | 417529 | [417529-break-the-night.json](./417529-break-the-night.json) |
 | Break the Tower | 394878 | [394878-break-the-tower.json](./394878-break-the-tower.json) |
 | Break through 50 | 148468 | [148468-break-through-50.json](./148468-break-through-50.json) |
 | Break Time: The National Pool Tour | 48103 | [48103-break-time-the-national-pool-tour.json](./48103-break-time-the-national-pool-tour.json) |
