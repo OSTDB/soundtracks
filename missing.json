@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T01:48:50.369Z",
-  "total_missing": 68067,
+  "generated_at": "2026-09-14T01:51:41.112Z",
+  "total_missing": 68066,
   "games": [
     {
       "igdb_id": 306086,
@@ -4076,11 +4076,6 @@
       "igdb_id": 236813,
       "game_name": "Advance Wars",
       "file": "missing/A/236813-advance-wars.json"
-    },
-    {
-      "igdb_id": 84251,
-      "game_name": "Advanced Dungeons & Dragons Cartridge",
-      "file": "missing/A/84251-advanced-dungeons-and-dragons-cartridge.json"
     },
     {
       "igdb_id": 84218,
