@@ -1200,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin and Coins II: The Lost Recipes | 275563 | [275563-goblin-and-coins-ii-the-lost-recipes.json](./275563-goblin-and-coins-ii-the-lost-recipes.json) |
 | Goblin Attack | 161324 | [161324-goblin-attack.json](./161324-goblin-attack.json) |
 | Goblin Dice and Cleave | 370140 | [370140-goblin-dice-and-cleave.json](./370140-goblin-dice-and-cleave.json) |
+| Goblin God | 413069 | [413069-goblin-god.json](./413069-goblin-god.json) |
 | Goblin Goopmaxxing | 375840 | [375840-goblin-goopmaxxing.json](./375840-goblin-goopmaxxing.json) |
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
 | Goblin Slayer | 335853 | [335853-goblin-slayer.json](./335853-goblin-slayer.json) |
@@ -2080,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground Zero: Texas | 5390 | [5390-ground-zero-texas.json](./5390-ground-zero-texas.json) |
 | GroundBreaker | 375848 | [375848-groundbreaker.json](./375848-groundbreaker.json) |
+| Grounded 2: Into the Abyss | 413063 | [413063-grounded-2-into-the-abyss.json](./413063-grounded-2-into-the-abyss.json) |
 | Grounded: Fully Yoked Edition | 297696 | [297696-grounded-fully-yoked-edition.json](./297696-grounded-fully-yoked-edition.json) |
 | Groupel | 374057 | [374057-groupel.json](./374057-groupel.json) |
 | Groups of Seven | 335861 | [335861-groups-of-seven.json](./335861-groups-of-seven.json) |
