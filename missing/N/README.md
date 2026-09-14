@@ -1041,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night City | 293654 | [293654-night-city.json](./293654-night-city.json) |
 | Night City Tokyo Drift: Clumsy Ninja Chasing Cars | 102752 | [102752-night-city-tokyo-drift-clumsy-ninja-chasing-cars.json](./102752-night-city-tokyo-drift-clumsy-ninja-chasing-cars.json) |
 | Night Clerk | 376476 | [376476-night-clerk.json](./376476-night-clerk.json) |
+| Night Clerk | 389597 | [389597-night-clerk.json](./389597-night-clerk.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
 | Night Escaper | 201266 | [201266-night-escaper.json](./201266-night-escaper.json) |
 | Night Flight | 297492 | [297492-night-flight.json](./297492-night-flight.json) |
