@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachansky Mathematics 2+2=8 | 393454 | [393454-pachansky-mathematics-2-2-8.json](./393454-pachansky-mathematics-2-2-8.json) |
 | Pachi Pachi: On a Roll | 143696 | [143696-pachi-pachi-on-a-roll.json](./143696-pachi-pachi-on-a-roll.json) |
 | Pachi Para 15: Super Sea in Okinawa 2 | 65538 | [65538-pachi-para-15-super-sea-in-okinawa-2.json](./65538-pachi-para-15-super-sea-in-okinawa-2.json) |
+| Pachi-Pachi Typing | 397100 | [397100-pachi-pachi-typing.json](./397100-pachi-pachi-typing.json) |
 | Pachicom | 41396 | [41396-pachicom.json](./41396-pachicom.json) |
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
 | Pachinko GP | 41395 | [41395-pachinko-gp.json](./41395-pachinko-gp.json) |
@@ -546,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Mania | 62763 | [62763-parking-mania.json](./62763-parking-mania.json) |
 | Parking Masters | 313135 | [313135-parking-masters.json](./313135-parking-masters.json) |
 | Parking Masters: Bus Driver | 313513 | [313513-parking-masters-bus-driver.json](./313513-parking-masters-bus-driver.json) |
+| Parking Problem | 397068 | [397068-parking-problem.json](./397068-parking-problem.json) |
 | Parking Simulator | 188094 | [188094-parking-simulator.json](./188094-parking-simulator.json) |
 | Parking Tycoon | 252144 | [252144-parking-tycoon.json](./252144-parking-tycoon.json) |
 | Parkitect | 18871 | [18871-parkitect.json](./18871-parkitect.json) |
@@ -3192,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Procession Engine | 413079 | [413079-procession-engine.json](./413079-procession-engine.json) |
 | Procrastinaut | 270951 | [270951-procrastinaut.json](./270951-procrastinaut.json) |
 | ProcrastiTyper | 202805 | [202805-procrastityper.json](./202805-procrastityper.json) |
+| Procuring Estrogen for Your Toxic Slime Girlfriend | 397074 | [397074-procuring-estrogen-for-your-toxic-slime-girlfriend.json](./397074-procuring-estrogen-for-your-toxic-slime-girlfriend.json) |
 | Procyon | 16884 | [16884-procyon.json](./16884-procyon.json) |
 | Procyon | 218130 | [218130-procyon.json](./218130-procyon.json) |
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
