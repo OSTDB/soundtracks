@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jarokn Cricket 2 | 62176 | [62176-jarokn-cricket-2.json](./62176-jarokn-cricket-2.json) |
 | Jarpug | 259012 | [259012-jarpug.json](./259012-jarpug.json) |
 | Jarrett & Labonte Stock Car Racing | 80496 | [80496-jarrett-and-labonte-stock-car-racing.json](./80496-jarrett-and-labonte-stock-car-racing.json) |
+| Jartycuck's Basics in Coal and Goonin 2 'p | 400943 | [400943-jartycucks-basics-in-coal-and-goonin-2-p.json](./400943-jartycucks-basics-in-coal-and-goonin-2-p.json) |
 | Jarvis | 59383 | [59383-jarvis.json](./59383-jarvis.json) |
 | Jash | 187443 | [187443-jash.json](./187443-jash.json) |
 | Jasmine | 321735 | [321735-jasmine.json](./321735-jasmine.json) |
@@ -322,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
 | Jewel Drops 2 - Match three puzzle | 101637 | [101637-jewel-drops-2-match-three-puzzle.json](./101637-jewel-drops-2-match-three-puzzle.json) |
 | Jewel Link Chronicles: Mountains of Madness | 65458 | [65458-jewel-link-chronicles-mountains-of-madness.json](./65458-jewel-link-chronicles-mountains-of-madness.json) |
+| Jewel Link: Atlantic Quest | 401014 | [401014-jewel-link-atlantic-quest.json](./401014-jewel-link-atlantic-quest.json) |
 | Jewel Match | 53251 | [53251-jewel-match.json](./53251-jewel-match.json) |
 | Jewel Match Atlantis Solitaire 2 | 153397 | [153397-jewel-match-atlantis-solitaire-2.json](./153397-jewel-match-atlantis-solitaire-2.json) |
 | Jewel Match Atlantis Solitaire 5: Collector's Edition | 381596 | [381596-jewel-match-atlantis-solitaire-5-collectors-edition.json](./381596-jewel-match-atlantis-solitaire-5-collectors-edition.json) |
@@ -492,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JJJ | 266790 | [266790-jjj.json](./266790-jjj.json) |
 | JK Assassins | 178648 | [178648-jk-assassins.json](./178648-jk-assassins.json) |
 | JK Resistance: Dark Side | 82781 | [82781-jk-resistance-dark-side.json](./82781-jk-resistance-dark-side.json) |
+| JKRobots | 403045 | [403045-jkrobots.json](./403045-jkrobots.json) |
 | JMPR | 164969 | [164969-jmpr.json](./164969-jmpr.json) |
 | JNKBombers | 80605 | [80605-jnkbombers.json](./80605-jnkbombers.json) |
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
