@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint by Words | 374600 | [374600-paint-by-words.json](./374600-paint-by-words.json) |
 | Paint Chase | 317578 | [317578-paint-chase.json](./317578-paint-chase.json) |
 | Paint Desk Simulator | 265135 | [265135-paint-desk-simulator.json](./265135-paint-desk-simulator.json) |
+| Paint Gal Adventures | 388227 | [388227-paint-gal-adventures.json](./388227-paint-gal-adventures.json) |
 | Paint Hit | 102784 | [102784-paint-hit.json](./102784-paint-hit.json) |
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
 | Paint Rider | 179187 | [179187-paint-rider.json](./179187-paint-rider.json) |
@@ -232,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancake House | 156698 | [156698-pancake-house.json](./156698-pancake-house.json) |
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
 | Panco's Journey | 109680 | [109680-pancos-journey.json](./109680-pancos-journey.json) |
+| Panda Bamboo Adventure | 388196 | [388196-panda-bamboo-adventure.json](./388196-panda-bamboo-adventure.json) |
 | Panda Chase | 40738 | [40738-panda-chase.json](./40738-panda-chase.json) |
 | Panda Choice Mahjong | 263502 | [263502-panda-choice-mahjong.json](./263502-panda-choice-mahjong.json) |
 | Panda Hero: Remastered | 143054 | [143054-panda-hero-remastered.json](./143054-panda-hero-remastered.json) |
@@ -1768,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Fish | 114342 | [114342-pixel-fish.json](./114342-pixel-fish.json) |
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
 | Pixel Forest | 108489 | [108489-pixel-forest.json](./108489-pixel-forest.json) |
+| Pixel Fruit Platform | 388237 | [388237-pixel-fruit-platform.json](./388237-pixel-fruit-platform.json) |
 | Pixel Galaxy | 24615 | [24615-pixel-galaxy.json](./24615-pixel-galaxy.json) |
 | Pixel Game Maker Series Arcanion: The Mekanos Invasion | 409551 | [409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json](./409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json) |
 | Pixel Game Maker Series Ninja Sneaking vs: Battle on the Couch | 264904 | [264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json](./264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json) |
