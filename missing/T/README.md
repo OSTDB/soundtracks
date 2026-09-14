@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: Digital Edition - Vampire | 149070 | [149070-talisman-digital-edition-vampire.json](./149070-talisman-digital-edition-vampire.json) |
 | Talisman: Digital Edition - Witch Hunter | 149077 | [149077-talisman-digital-edition-witch-hunter.json](./149077-talisman-digital-edition-witch-hunter.json) |
 | Talisman: Digital Edition - Woodsman | 149068 | [149068-talisman-digital-edition-woodsman.json](./149068-talisman-digital-edition-woodsman.json) |
+| Talisman: Origins | 117644 | [117644-talisman-origins.json](./117644-talisman-origins.json) |
 | Talisman: Origins - Beyond the Veil | 149003 | [149003-talisman-origins-beyond-the-veil.json](./149003-talisman-origins-beyond-the-veil.json) |
 | Talisman: Origins - The Eternal Conflict | 149005 | [149005-talisman-origins-the-eternal-conflict.json](./149005-talisman-origins-the-eternal-conflict.json) |
 | Talisman: Origins - The Legend of Pandora's Box | 149006 | [149006-talisman-origins-the-legend-of-pandoras-box.json](./149006-talisman-origins-the-legend-of-pandoras-box.json) |
@@ -4439,7 +4440,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is No Light 616 | 180203 | [180203-there-is-no-light-616.json](./180203-there-is-no-light-616.json) |
 | There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
+| There the Light | 117846 | [117846-there-the-light.json](./117846-there-the-light.json) |
 | There Was a Caveman | 34339 | [34339-there-was-a-caveman.json](./34339-there-was-a-caveman.json) |
+| There's a Butcher Around | 118016 | [118016-theres-a-butcher-around.json](./118016-theres-a-butcher-around.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
 | There's No Easter Eggs | 273630 | [273630-theres-no-easter-eggs.json](./273630-theres-no-easter-eggs.json) |
