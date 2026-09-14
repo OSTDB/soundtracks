@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaemi: Longing for you | 206335 | [206335-amaemi-longing-for-you.json](./206335-amaemi-longing-for-you.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
 | Amamane | 121724 | [121724-amamane.json](./121724-amamane.json) |
+| Amanatsu Location | 413057 | [413057-amanatsu-location.json](./413057-amanatsu-location.json) |
 | Amanda Stories | 262405 | [262405-amanda-stories.json](./262405-amanda-stories.json) |
 | Amanda the Adventurer 2 | 272840 | [272840-amanda-the-adventurer-2.json](./272840-amanda-the-adventurer-2.json) |
 | Amanda's Magic Book 5: Hansel and Gretel | 237070 | [237070-amandas-magic-book-5-hansel-and-gretel.json](./237070-amandas-magic-book-5-hansel-and-gretel.json) |
@@ -2299,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Moto Racing 2 | 63836 | [63836-aqua-moto-racing-2.json](./63836-aqua-moto-racing-2.json) |
 | Aqua Teen Hunger Force Zombie Ninja Pro-Am | 6911 | [6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json](./6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json) |
 | Aquablast | 14262 | [14262-aquablast.json](./14262-aquablast.json) |
+| Aquaculture Simulator | 413032 | [413032-aquaculture-simulator.json](./413032-aquaculture-simulator.json) |
 | Aquadelic GT | 17807 | [17807-aquadelic-gt.json](./17807-aquadelic-gt.json) |
 | AquaDream | 330146 | [330146-aquadream.json](./330146-aquadream.json) |
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
