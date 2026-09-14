@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanerutchi | 229961 | [229961-hanerutchi.json](./229961-hanerutchi.json) |
 | Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
 | Hang-On & Astro Warrior | 86098 | [86098-hang-on-and-astro-warrior.json](./86098-hang-on-and-astro-warrior.json) |
+| Hangar 51: Classified Investigation | 382276 | [382276-hangar-51-classified-investigation.json](./382276-hangar-51-classified-investigation.json) |
 | Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
 | Hangman | 230850 | [230850-hangman.json](./230850-hangman.json) |
 | Hangman | 327217 | [327217-hangman.json](./327217-hangman.json) |
@@ -2250,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Drift | 187531 | [187531-horror-drift.json](./187531-horror-drift.json) |
 | Horror Game Collection | 184595 | [184595-horror-game-collection.json](./184595-horror-game-collection.json) |
 | Horror Game: Granny | 100232 | [100232-horror-game-granny.json](./100232-horror-game-granny.json) |
+| Horror Girls | 382287 | [382287-horror-girls.json](./382287-horror-girls.json) |
 | Horror Hospital | 29915 | [29915-horror-hospital.json](./29915-horror-hospital.json) |
 | Horror Hotel: Mystery Quest | 206726 | [206726-horror-hotel-mystery-quest.json](./206726-horror-hotel-mystery-quest.json) |
 | Horror Hunt | 121600 | [121600-horror-hunt.json](./121600-horror-hunt.json) |
