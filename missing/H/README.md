@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizons Light | 376466 | [376466-horizons-light.json](./376466-horizons-light.json) |
 | Hormiga Escape | 315255 | [315255-hormiga-escape.json](./315255-hormiga-escape.json) |
 | Hormiga Escape 2 | 315256 | [315256-hormiga-escape-2.json](./315256-hormiga-escape-2.json) |
+| Hormones of the Dead | 405601 | [405601-hormones-of-the-dead.json](./405601-hormones-of-the-dead.json) |
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
 | Horn of Balance | 296912 | [296912-horn-of-balance.json](./296912-horn-of-balance.json) |
 | Horny Clinic | 226188 | [226188-horny-clinic.json](./226188-horny-clinic.json) |
