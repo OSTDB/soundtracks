@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T21:10:54.540Z",
-  "total_soundtracks": 1448,
+  "generated_at": "2026-09-14T17:15:54.898Z",
+  "total_soundtracks": 1449,
   "games": [
     {
       "igdb_id": 7522,
@@ -411,6 +411,20 @@
         {
           "album_name": "Adibou: La chanson d'Adibou (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0eJoc0Ay6jDxFbjbD2jd2W",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 120419,
+      "game_name": "Aeolis Tournament",
+      "game_url": "https://ostdb.net/games/aeolis-tournament",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bc0d1888b9c22c1138dde914",
+      "albums": [
+        {
+          "album_name": "Aeolis Tournament (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6A36WeeL7GTfOxiJB6wUJz",
           "apple_music_url": "",
           "album_link_url": ""
         }
