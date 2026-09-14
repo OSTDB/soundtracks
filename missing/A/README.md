@@ -346,7 +346,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Dungeons & Dragons: DragonStrike | 48113 | [48113-advanced-dungeons-and-dragons-dragonstrike.json](./48113-advanced-dungeons-and-dragons-dragonstrike.json) |
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advenger of Stuart | 236271 | [236271-advenger-of-stuart.json](./236271-advenger-of-stuart.json) |
-| Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
 | Adventure A: Planet of Death | 45364 | [45364-adventure-a-planet-of-death.json](./45364-adventure-a-planet-of-death.json) |
 | Adventure Apes and the Mayan Mystery | 33017 | [33017-adventure-apes-and-the-mayan-mystery.json](./33017-adventure-apes-and-the-mayan-mystery.json) |
