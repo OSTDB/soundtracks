@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid the Hedgehog | 330517 | [330517-rapid-the-hedgehog.json](./330517-rapid-the-hedgehog.json) |
 | RapidBrogue | 201259 | [201259-rapidbrogue.json](./201259-rapidbrogue.json) |
 | Rapper Life Simulation | 158710 | [158710-rapper-life-simulation.json](./158710-rapper-life-simulation.json) |
+| Raptor Evolution: Complete Edition | 385207 | [385207-raptor-evolution-complete-edition.json](./385207-raptor-evolution-complete-edition.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapz | 264325 | [264325-rapz.json](./264325-rapz.json) |
 | Rasant | 226455 | [226455-rasant.json](./226455-rasant.json) |
@@ -1323,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Simulator | 204072 | [204072-restaurant-simulator.json](./204072-restaurant-simulator.json) |
 | Restaurant Tycoon | 75908 | [75908-restaurant-tycoon.json](./75908-restaurant-tycoon.json) |
 | Restaurant Tycoon: My Cooking Empire - Diamond Edition | 396927 | [396927-restaurant-tycoon-my-cooking-empire-diamond-edition.json](./396927-restaurant-tycoon-my-cooking-empire-diamond-edition.json) |
+| Restaurant Tycoon: My Cooking Empire - Luxe & Lounge | 385176 | [385176-restaurant-tycoon-my-cooking-empire-luxe-and-lounge.json](./385176-restaurant-tycoon-my-cooking-empire-luxe-and-lounge.json) |
 | Resthedex | 151175 | [151175-resthedex.json](./151175-resthedex.json) |
 | Restless Soul | 192398 | [192398-restless-soul.json](./192398-restless-soul.json) |
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
@@ -2527,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root of All Evil | 57105 | [57105-root-of-all-evil.json](./57105-root-of-all-evil.json) |
 | Root Of Win | 258186 | [258186-root-of-win.json](./258186-root-of-win.json) |
 | Root: Exiles & Partisans & Vagabonds | 195233 | [195233-root-exiles-and-partisans-and-vagabonds.json](./195233-root-exiles-and-partisans-and-vagabonds.json) |
+| Root: Hirelings & Landmarks | 385182 | [385182-root-hirelings-and-landmarks.json](./385182-root-hirelings-and-landmarks.json) |
 | Root: The Riverfolk Expansion | 221420 | [221420-root-the-riverfolk-expansion.json](./221420-root-the-riverfolk-expansion.json) |
 | Rooted | 194616 | [194616-rooted.json](./194616-rooted.json) |
 | Rooten | 155659 | [155659-rooten.json](./155659-rooten.json) |
