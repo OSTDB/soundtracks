@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Dimension | 89984 | [89984-one-dimension.json](./89984-one-dimension.json) |
 | One Dollar Empire | 402252 | [402252-one-dollar-empire.json](./402252-one-dollar-empire.json) |
 | One Dreamy Night | 312587 | [312587-one-dreamy-night.json](./312587-one-dreamy-night.json) |
+| One Dumb Wizard | 402970 | [402970-one-dumb-wizard.json](./402970-one-dumb-wizard.json) |
 | One Epic Game | 52641 | [52641-one-epic-game.json](./52641-one-epic-game.json) |
 | One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
 | One Final Chaos | 34286 | [34286-one-final-chaos.json](./34286-one-final-chaos.json) |
