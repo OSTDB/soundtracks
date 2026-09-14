@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T22:51:44.738Z",
-  "total_missing": 71490,
+  "generated_at": "2026-09-14T23:01:46.077Z",
+  "total_missing": 71505,
   "games": [
     {
       "igdb_id": 306086,
@@ -4786,11 +4786,6 @@
       "igdb_id": 356072,
       "game_name": "Aery VR: Little Bird Adventure",
       "file": "missing/A/356072-aery-vr-little-bird-adventure.json"
-    },
-    {
-      "igdb_id": 199650,
-      "game_name": "Aery: Vikings",
-      "file": "missing/A/199650-aery-vikings.json"
     },
     {
       "igdb_id": 14227,
@@ -15751,6 +15746,11 @@
       "igdb_id": 340204,
       "game_name": "Ardu Turf Masters",
       "file": "missing/A/340204-ardu-turf-masters.json"
+    },
+    {
+      "igdb_id": 381726,
+      "game_name": "Ardubullets",
+      "file": "missing/A/381726-ardubullets.json"
     },
     {
       "igdb_id": 144324,
@@ -35548,6 +35548,11 @@
       "file": "missing/B/14330-bograts-the-puzzling-misadventure.json"
     },
     {
+      "igdb_id": 381727,
+      "game_name": "Bogwater",
+      "file": "missing/B/381727-bogwater.json"
+    },
+    {
       "igdb_id": 217866,
       "game_name": "Bohemian Yard",
       "file": "missing/B/217866-bohemian-yard.json"
@@ -53838,6 +53843,11 @@
       "file": "missing/C/50512-clickraid.json"
     },
     {
+      "igdb_id": 381739,
+      "game_name": "ClickShot",
+      "file": "missing/C/381739-clickshot.json"
+    },
+    {
       "igdb_id": 389962,
       "game_name": "Clicky & Yo",
       "file": "missing/C/389962-clicky-and-yo.json"
@@ -70328,6 +70338,11 @@
       "file": "missing/D/116377-death-hall.json"
     },
     {
+      "igdb_id": 381738,
+      "game_name": "Death in a Party",
+      "file": "missing/D/381738-death-in-a-party.json"
+    },
+    {
       "igdb_id": 224555,
       "game_name": "Death in the Bunker",
       "file": "missing/D/224555-death-in-the-bunker.json"
@@ -71446,6 +71461,11 @@
       "igdb_id": 12991,
       "game_name": "Defend or Die",
       "file": "missing/D/12991-defend-or-die.json"
+    },
+    {
+      "igdb_id": 381735,
+      "game_name": "Defend the Castle",
+      "file": "missing/D/381735-defend-the-castle.json"
     },
     {
       "igdb_id": 173267,
@@ -100426,6 +100446,11 @@
       "igdb_id": 129811,
       "game_name": "Ferrari Virtual Race",
       "file": "missing/F/129811-ferrari-virtual-race.json"
+    },
+    {
+      "igdb_id": 381734,
+      "game_name": "Ferret Frenzy",
+      "file": "missing/F/381734-ferret-frenzy.json"
     },
     {
       "igdb_id": 65512,
@@ -151823,6 +151848,11 @@
       "file": "missing/J/10530-jurassic-world-the-game.json"
     },
     {
+      "igdb_id": 381736,
+      "game_name": "Jurassic Wrap",
+      "file": "missing/J/381736-jurassic-wrap.json"
+    },
+    {
       "igdb_id": 117768,
       "game_name": "Jurig Escape",
       "file": "missing/J/117768-jurig-escape.json"
@@ -151941,6 +151971,11 @@
       "igdb_id": 196292,
       "game_name": "Just Dance 2022: Ultimate Edition",
       "file": "missing/J/196292-just-dance-2022-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 381725,
+      "game_name": "Just Dance 2026 Edition",
+      "file": "missing/J/381725-just-dance-2026-edition.json"
     },
     {
       "igdb_id": 3255,
@@ -169983,6 +170018,11 @@
       "file": "missing/L/322004-luigi-and-the-quest-for-nothing.json"
     },
     {
+      "igdb_id": 381732,
+      "game_name": "Luigi and the Quest for Nothing Revisited",
+      "file": "missing/L/381732-luigi-and-the-quest-for-nothing-revisited.json"
+    },
+    {
       "igdb_id": 322380,
       "game_name": "Luigi and the Quest for Nothing: Enhanced",
       "file": "missing/L/322380-luigi-and-the-quest-for-nothing-enhanced.json"
@@ -174278,6 +174318,11 @@
       "file": "missing/M/194576-maoten.json"
     },
     {
+      "igdb_id": 381740,
+      "game_name": "Maou's Crucible",
+      "file": "missing/M/381740-maous-crucible.json"
+    },
+    {
       "igdb_id": 112338,
       "game_name": "Map Snap",
       "file": "missing/M/112338-map-snap.json"
@@ -175561,6 +175606,11 @@
       "igdb_id": 41970,
       "game_name": "MarionetteAI",
       "file": "missing/M/41970-marionetteai.json"
+    },
+    {
+      "igdb_id": 381729,
+      "game_name": "MarioQuest 2: Sonic Returns",
+      "file": "missing/M/381729-marioquest-2-sonic-returns.json"
     },
     {
       "igdb_id": 395588,
@@ -184581,6 +184631,11 @@
       "igdb_id": 334101,
       "game_name": "Mini Football Cup",
       "file": "missing/M/334101-mini-football-cup.json"
+    },
+    {
+      "igdb_id": 381731,
+      "game_name": "Mini Game Compil 2",
+      "file": "missing/M/381731-mini-game-compil-2.json"
     },
     {
       "igdb_id": 260153,
@@ -205161,6 +205216,11 @@
       "igdb_id": 127220,
       "game_name": "Ocean Drive Challenge Remastered",
       "file": "missing/O/127220-ocean-drive-challenge-remastered.json"
+    },
+    {
+      "igdb_id": 381737,
+      "game_name": "Ocean Fishooter",
+      "file": "missing/O/381737-ocean-fishooter.json"
     },
     {
       "igdb_id": 285446,
@@ -286873,6 +286933,11 @@
       "file": "missing/S/262660-super-mario-maker-for-nspire.json"
     },
     {
+      "igdb_id": 381728,
+      "game_name": "Super Mario Nation",
+      "file": "missing/S/381728-super-mario-nation.json"
+    },
+    {
       "igdb_id": 250042,
       "game_name": "Super Mario Odyssey Safari",
       "file": "missing/S/250042-super-mario-odyssey-safari.json"
@@ -305736,6 +305801,11 @@
       "igdb_id": 49332,
       "game_name": "The Land Before Time: Into the Mysterious Beyond",
       "file": "missing/T/49332-the-land-before-time-into-the-mysterious-beyond.json"
+    },
+    {
+      "igdb_id": 381730,
+      "game_name": "The Land Forgotten",
+      "file": "missing/T/381730-the-land-forgotten.json"
     },
     {
       "igdb_id": 30898,
@@ -348286,6 +348356,11 @@
       "igdb_id": 312549,
       "game_name": "WonderLang French",
       "file": "missing/W/312549-wonderlang-french.json"
+    },
+    {
+      "igdb_id": 381733,
+      "game_name": "WonderLang Spanish",
+      "file": "missing/W/381733-wonderlang-spanish.json"
     },
     {
       "igdb_id": 355557,
