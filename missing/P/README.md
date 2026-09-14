@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Genic | 283709 | [283709-photo-genic.json](./283709-photo-genic.json) |
 | Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
+| Photon Blade | 404979 | [404979-photon-blade.json](./404979-photon-blade.json) |
 | Photon Cube | 104057 | [104057-photon-cube.json](./104057-photon-cube.json) |
 | Photon Flux | 68703 | [68703-photon-flux.json](./68703-photon-flux.json) |
 | Photons | 288759 | [288759-photons.json](./288759-photons.json) |
@@ -2457,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyBoost | 172681 | [172681-polyboost.json](./172681-polyboost.json) |
 | Polybot-7 | 97849 | [97849-polybot-7.json](./97849-polybot-7.json) |
 | Polychoron | 151664 | [151664-polychoron.json](./151664-polychoron.json) |
+| Polycity | 404978 | [404978-polycity.json](./404978-polycity.json) |
 | PolyCube | 88232 | [88232-polycube.json](./88232-polycube.json) |
 | PolyDrift | 309878 | [309878-polydrift.json](./309878-polydrift.json) |
 | Polyemisokos | 205572 | [205572-polyemisokos.json](./205572-polyemisokos.json) |
@@ -3726,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putrefaction | 26533 | [26533-putrefaction.json](./26533-putrefaction.json) |
 | Putrefaction 2: Rumble in the Hometown | 68797 | [68797-putrefaction-2-rumble-in-the-hometown.json](./68797-putrefaction-2-rumble-in-the-hometown.json) |
 | Putrefier | 256824 | [256824-putrefier.json](./256824-putrefier.json) |
+| Putrid/Sharp | 404947 | [404947-putrid-sharp.json](./404947-putrid-sharp.json) |
 | Putt Nutz | 59458 | [59458-putt-nutz.json](./59458-putt-nutz.json) |
 | Putt Putt Golf | 41311 | [41311-putt-putt-golf.json](./41311-putt-putt-golf.json) |
 | Putt Putt Golf 3D | 175419 | [175419-putt-putt-golf-3d.json](./175419-putt-putt-golf-3d.json) |
