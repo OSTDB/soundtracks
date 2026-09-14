@@ -3644,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Yome | 415141 | [415141-pure-yome.json](./415141-pure-yome.json) |
 | PureSim Baseball 2005 | 23784 | [23784-puresim-baseball-2005.json](./23784-puresim-baseball-2005.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
+| Purgation Swordstorm | 413722 | [413722-purgation-swordstorm.json](./413722-purgation-swordstorm.json) |
 | Purgatory Fell | 90254 | [90254-purgatory-fell.json](./90254-purgatory-fell.json) |
 | Purgatory Survivors | 298048 | [298048-purgatory-survivors.json](./298048-purgatory-survivors.json) |
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
