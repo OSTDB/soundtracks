@@ -1935,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
 | Diggers | 37101 | [37101-diggers.json](./37101-diggers.json) |
 | Digging a Hole 2025 | 335955 | [335955-digging-a-hole-2025.json](./335955-digging-a-hole-2025.json) |
+| Digging a Hole... with a Spoon... Escape from Alcatraz | 383483 | [383483-digging-a-hole-with-a-spoon-escape-from-alcatraz.json](./383483-digging-a-hole-with-a-spoon-escape-from-alcatraz.json) |
 | Digging Down | 384532 | [384532-digging-down.json](./384532-digging-down.json) |
 | Digging for Dinosaurs | 48045 | [48045-digging-for-dinosaurs.json](./48045-digging-for-dinosaurs.json) |
 | Diggles: The Myth of Fenris | 9521 | [9521-diggles-the-myth-of-fenris.json](./9521-diggles-the-myth-of-fenris.json) |
@@ -3256,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Island Blue | 96061 | [96061-dragon-island-blue.json](./96061-dragon-island-blue.json) |
 | Dragon Jump | 348264 | [348264-dragon-jump.json](./348264-dragon-jump.json) |
 | Dragon Jumpers | 382228 | [382228-dragon-jumpers.json](./382228-dragon-jumpers.json) |
+| Dragon Khan | 383486 | [383486-dragon-khan.json](./383486-dragon-khan.json) |
 | Dragon King: The Fighting Game | 184099 | [184099-dragon-king-the-fighting-game.json](./184099-dragon-king-the-fighting-game.json) |
 | Dragon Kings | 269027 | [269027-dragon-kings.json](./269027-dragon-kings.json) |
 | Dragon Knife | 48587 | [48587-dragon-knife.json](./48587-dragon-knife.json) |
@@ -3447,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
 | Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
+| Dreadnought Tartarus | 383481 | [383481-dreadnought-tartarus.json](./383481-dreadnought-tartarus.json) |
 | DreadOut | 11712 | [11712-dreadout.json](./11712-dreadout.json) |
 | Dreadrun | 295805 | [295805-dreadrun.json](./295805-dreadrun.json) |
 | Dreadshot | 292520 | [292520-dreadshot.json](./292520-dreadshot.json) |
@@ -3671,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Quest | 209691 | [209691-driving-quest.json](./209691-driving-quest.json) |
 | Driving School 2016 | 89273 | [89273-driving-school-2016.json](./89273-driving-school-2016.json) |
 | Driving School 3D | 102104 | [102104-driving-school-3d.json](./102104-driving-school-3d.json) |
+| Driving School Simulator: EVO | 383520 | [383520-driving-school-simulator-evo.json](./383520-driving-school-simulator-evo.json) |
 | Driving Simulator 2011 | 51254 | [51254-driving-simulator-2011.json](./51254-driving-simulator-2011.json) |
 | Driving Theory Training | 72620 | [72620-driving-theory-training.json](./72620-driving-theory-training.json) |
 | Driving Zone 2 | 100860 | [100860-driving-zone-2.json](./100860-driving-zone-2.json) |
