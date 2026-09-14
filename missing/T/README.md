@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
 | Tetris: Flower Garden | 195739 | [195739-tetris-flower-garden.json](./195739-tetris-flower-garden.json) |
 | Tetris: Rosy Retrospection | 247519 | [247519-tetris-rosy-retrospection.json](./247519-tetris-rosy-retrospection.json) |
+| Tetro Runner | 386245 | [386245-tetro-runner.json](./386245-tetro-runner.json) |
 | Tetrogue | 413659 | [413659-tetrogue.json](./413659-tetrogue.json) |
 | Tetromino X | 190227 | [190227-tetromino-x.json](./190227-tetromino-x.json) |
 | TetroMosaic, Unicorn | 378785 | [378785-tetromosaic-unicorn.json](./378785-tetromosaic-unicorn.json) |
@@ -2316,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fog | 305143 | [305143-the-fog.json](./305143-the-fog.json) |
 | The Fog | 391047 | [391047-the-fog.json](./391047-the-fog.json) |
 | The Fog Fall | 383351 | [383351-the-fog-fall.json](./383351-the-fog-fall.json) |
+| The Fog Fall 2 | 386221 | [386221-the-fog-fall-2.json](./386221-the-fog-fall-2.json) |
 | The FOO Show | 34193 | [34193-the-foo-show.json](./34193-the-foo-show.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
 | The Fool's Errand | 12107 | [12107-the-fools-errand.json](./12107-the-fools-errand.json) |
@@ -2458,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Fear | 260650 | [260650-the-great-fear.json](./260650-the-great-fear.json) |
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
 | The Great Hero's Cat | 209605 | [209605-the-great-heros-cat.json](./209605-the-great-heros-cat.json) |
+| The Great House Escape | 386220 | [386220-the-great-house-escape.json](./386220-the-great-house-escape.json) |
 | The Great Menace | 154029 | [154029-the-great-menace.json](./154029-the-great-menace.json) |
 | The Great Mushroom Hunt | 114321 | [114321-the-great-mushroom-hunt.json](./114321-the-great-mushroom-hunt.json) |
 | The Great Race | 55835 | [55835-the-great-race.json](./55835-the-great-race.json) |
@@ -2795,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land of Dasthir | 30898 | [30898-the-land-of-dasthir.json](./30898-the-land-of-dasthir.json) |
 | The Land of Morning Calm | 358888 | [358888-the-land-of-morning-calm.json](./358888-the-land-of-morning-calm.json) |
 | The Land of Rest 1 | 346608 | [346608-the-land-of-rest-1.json](./346608-the-land-of-rest-1.json) |
+| The Land of Stuff | 386294 | [386294-the-land-of-stuff.json](./386294-the-land-of-stuff.json) |
 | The Land of the Magnates | 289865 | [289865-the-land-of-the-magnates.json](./289865-the-land-of-the-magnates.json) |
 | The Land of the Scurvy Dog | 176447 | [176447-the-land-of-the-scurvy-dog.json](./176447-the-land-of-the-scurvy-dog.json) |
 | The Land: Elf no Mori | 302963 | [302963-the-land-elf-no-mori.json](./302963-the-land-elf-no-mori.json) |
@@ -3709,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sapling | 126479 | [126479-the-sapling.json](./126479-the-sapling.json) |
 | The Savage Hypnotist's Puppets | 213400 | [213400-the-savage-hypnotists-puppets.json](./213400-the-savage-hypnotists-puppets.json) |
 | The Savior's Gang | 115049 | [115049-the-saviors-gang.json](./115049-the-saviors-gang.json) |
+| The Scaling | 386286 | [386286-the-scaling.json](./386286-the-scaling.json) |
 | The Scarlet Demonslayer | 231348 | [231348-the-scarlet-demonslayer.json](./231348-the-scarlet-demonslayer.json) |
 | The Scavenger | 69198 | [69198-the-scavenger.json](./69198-the-scavenger.json) |
 | The Scene Of the Crime | 383374 | [383374-the-scene-of-the-crime.json](./383374-the-scene-of-the-crime.json) |
@@ -4696,6 +4701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Fear The Mist | 292536 | [292536-they-fear-the-mist.json](./292536-they-fear-the-mist.json) |
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
+| They Walk Beyond | 386303 | [386303-they-walk-beyond.json](./386303-they-walk-beyond.json) |
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
 | They Will Come | 389421 | [389421-they-will-come.json](./389421-they-will-come.json) |
 | They'll Find You | 121636 | [121636-theyll-find-you.json](./121636-theyll-find-you.json) |
@@ -7055,6 +7061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Quest | 100213 | [100213-treasure-quest.json](./100213-treasure-quest.json) |
 | Treasure Raiders: Zombie Crisis | 82152 | [82152-treasure-raiders-zombie-crisis.json](./82152-treasure-raiders-zombie-crisis.json) |
 | Treasure Rangers | 153445 | [153445-treasure-rangers.json](./153445-treasure-rangers.json) |
+| Treasure Rush: Phantom Infiltration | 386293 | [386293-treasure-rush-phantom-infiltration.json](./386293-treasure-rush-phantom-infiltration.json) |
 | Treasure Seekers: The Time Has Come | 226208 | [226208-treasure-seekers-the-time-has-come.json](./226208-treasure-seekers-the-time-has-come.json) |
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasure Tomb VR | 153375 | [153375-treasure-tomb-vr.json](./153375-treasure-tomb-vr.json) |
