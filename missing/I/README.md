@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Import Tuner Challenge | 7017 | [7017-import-tuner-challenge.json](./7017-import-tuner-challenge.json) |
 | Impossible Caves | 105927 | [105927-impossible-caves.json](./105927-impossible-caves.json) |
 | Impossible Draw | 128565 | [128565-impossible-draw.json](./128565-impossible-draw.json) |
+| Impossible Flappy | 87896 | [87896-impossible-flappy.json](./87896-impossible-flappy.json) |
 | Impossible Geometry | 34358 | [34358-impossible-geometry.json](./34358-impossible-geometry.json) |
 | Impossible Maze | 135898 | [135898-impossible-maze.json](./135898-impossible-maze.json) |
 | Impossible Mission 2025 | 37107 | [37107-impossible-mission-2025.json](./37107-impossible-mission-2025.json) |
