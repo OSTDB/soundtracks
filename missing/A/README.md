@@ -332,7 +332,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
-| ADsteroids | 108984 | [108984-adsteroids.json](./108984-adsteroids.json) |
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Aduro | 301596 | [301596-aduro.json](./301596-aduro.json) |
