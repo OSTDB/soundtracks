@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 17: Flyhight Cloudia III | 170501 | [170501-g-mode-archives-17-flyhight-cloudia-iii.json](./170501-g-mode-archives-17-flyhight-cloudia-iii.json) |
 | G-Mode Archives 43: Izumi Jiken File Vol. 3 - Yujuku-hen | 221732 | [221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json](./221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json) |
 | G-Mode Archives 44: Dragon x Dragon | 241041 | [241041-g-mode-archives-44-dragon-x-dragon.json](./241041-g-mode-archives-44-dragon-x-dragon.json) |
+| G-Mode Archives 56: Mystia3 | 381724 | [381724-g-mode-archives-56-mystia3.json](./381724-g-mode-archives-56-mystia3.json) |
 | G-Mode Archives+: Idol Janshi Suchie-Pai | 256268 | [256268-g-mode-archives-idol-janshi-suchie-pai.json](./256268-g-mode-archives-idol-janshi-suchie-pai.json) |
 | G-Mode Archives+: Kishinden Strike-G- | 412402 | [412402-g-mode-archives-kishinden-strike-g.json](./412402-g-mode-archives-kishinden-strike-g.json) |
 | G-Mode Archives+: Moe Pro - Moero!! Pro Yakyuu | 260682 | [260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json](./260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json) |
@@ -518,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear.Club Unlimited: Super Cars Pack | 238212 | [238212-gear-club-unlimited-super-cars-pack.json](./238212-gear-club-unlimited-super-cars-pack.json) |
 | Gearbits | 258457 | [258457-gearbits.json](./258457-gearbits.json) |
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
+| Gearlock: Episode 1 | 381719 | [381719-gearlock-episode-1.json](./381719-gearlock-episode-1.json) |
 | Gears Forever | 297511 | [297511-gears-forever.json](./297511-gears-forever.json) |
 | Gears of Babies: Browser | 261258 | [261258-gears-of-babies-browser.json](./261258-gears-of-babies-browser.json) |
 | Gears of War 2: Game of the Year Edition | 47465 | [47465-gears-of-war-2-game-of-the-year-edition.json](./47465-gears-of-war-2-game-of-the-year-edition.json) |
@@ -913,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Snake Girl Wants the Burger! | 383379 | [383379-giant-snake-girl-wants-the-burger.json](./383379-giant-snake-girl-wants-the-burger.json) |
 | GiAnt: Warfare | 172118 | [172118-giant-warfare.json](./172118-giant-warfare.json) |
 | Giant's Revenge | 25726 | [25726-giants-revenge.json](./25726-giants-revenge.json) |
+| Giantfall | 381676 | [381676-giantfall.json](./381676-giantfall.json) |
 | Giants | 158196 | [158196-giants.json](./158196-giants.json) |
 | Giants War | 103492 | [103492-giants-war.json](./103492-giants-war.json) |
 | Giants: Citizen Kabuto | 34 | [34-giants-citizen-kabuto.json](./34-giants-citizen-kabuto.json) |
