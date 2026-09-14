@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarred | 264640 | [264640-scarred.json](./264640-scarred.json) |
 | Scars of Mars | 267687 | [267687-scars-of-mars.json](./267687-scars-of-mars.json) |
 | Scars of Summer | 169438 | [169438-scars-of-summer.json](./169438-scars-of-summer.json) |
+| Scars of Summer: After | 381696 | [381696-scars-of-summer-after.json](./381696-scars-of-summer-after.json) |
 | Scary 8 Bits | 404207 | [404207-scary-8-bits.json](./404207-scary-8-bits.json) |
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
 | Scary Goat 2017 | 89987 | [89987-scary-goat-2017.json](./89987-scary-goat-2017.json) |
@@ -1685,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Over Loathing | 225615 | [225615-shadows-over-loathing.json](./225615-shadows-over-loathing.json) |
 | Shadows Over Loathing: Collector’s Edition | 247193 | [247193-shadows-over-loathing-collector-s-edition.json](./247193-shadows-over-loathing-collector-s-edition.json) |
 | Shadows Peak | 18406 | [18406-shadows-peak.json](./18406-shadows-peak.json) |
+| Shadows Show | 381674 | [381674-shadows-show.json](./381674-shadows-show.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
@@ -2617,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Story: Alex - Two Guys | 172132 | [172132-simple-story-alex-two-guys.json](./172132-simple-story-alex-two-guys.json) |
 | Simple Tower Defense | 259287 | [259287-simple-tower-defense.json](./259287-simple-tower-defense.json) |
 | Simpler Times | 308240 | [308240-simpler-times.json](./308240-simpler-times.json) |
+| Simpli Casa | 381707 | [381707-simpli-casa.json](./381707-simpli-casa.json) |
 | Simply Chess | 17604 | [17604-simply-chess.json](./17604-simply-chess.json) |
 | Simply Cubic | 253586 | [253586-simply-cubic.json](./253586-simply-cubic.json) |
 | Simply Mahjong puzzle game | 88261 | [88261-simply-mahjong-puzzle-game.json](./88261-simply-mahjong-puzzle-game.json) |
@@ -5319,6 +5322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Car Driver | 187493 | [187493-sports-car-driver.json](./187493-sports-car-driver.json) |
 | Sports Car Driving Simulator 2018 | 100867 | [100867-sports-car-driving-simulator-2018.json](./100867-sports-car-driving-simulator-2018.json) |
 | Sports Car Track Racers - Real Sports Car Driving Racing With Amazing Tracks | 87529 | [87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json](./87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json) |
+| Sports Challenge: 65 Games Edition | 381708 | [381708-sports-challenge-65-games-edition.json](./381708-sports-challenge-65-games-edition.json) |
 | Sports Champions | 18237 | [18237-sports-champions.json](./18237-sports-champions.json) |
 | Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
 | Sports Game Pack (Manager Edition) | 84231 | [84231-sports-game-pack-manager-edition.json](./84231-sports-game-pack-manager-edition.json) |
@@ -7580,6 +7584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Legend | 323751 | [323751-super-mario-legend.json](./323751-super-mario-legend.json) |
 | Super Mario Maker for Nintendo 3DS | 26157 | [26157-super-mario-maker-for-nintendo-3ds.json](./26157-super-mario-maker-for-nintendo-3ds.json) |
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
+| Super Mario Nation | 381728 | [381728-super-mario-nation.json](./381728-super-mario-nation.json) |
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
 | Super Mario Odyssey: 2D Mario in 3D! | 247533 | [247533-super-mario-odyssey-2d-mario-in-3d.json](./247533-super-mario-odyssey-2d-mario-in-3d.json) |
 | Super Mario Odyssey: Bon-Bones Mountain | 246625 | [246625-super-mario-odyssey-bon-bones-mountain.json](./246625-super-mario-odyssey-bon-bones-mountain.json) |
@@ -7885,6 +7890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tutor: Spelling | 59376 | [59376-super-tutor-spelling.json](./59376-super-tutor-spelling.json) |
 | Super Tyrone Land | 142464 | [142464-super-tyrone-land.json](./142464-super-tyrone-land.json) |
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
+| Super Ultimate Fighters X | 381710 | [381710-super-ultimate-fighters-x.json](./381710-super-ultimate-fighters-x.json) |
 | Super Ultra Monster Smash! | 51597 | [51597-super-ultra-monster-smash.json](./51597-super-ultra-monster-smash.json) |
 | Super Ultra Star Shooter | 85417 | [85417-super-ultra-star-shooter.json](./85417-super-ultra-star-shooter.json) |
 | Super Uwol | 299173 | [299173-super-uwol.json](./299173-super-uwol.json) |
@@ -7973,6 +7979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
+| Supermart Tycoon | 381709 | [381709-supermart-tycoon.json](./381709-supermart-tycoon.json) |
 | SuperMash | 127307 | [127307-supermash.json](./127307-supermash.json) |
 | Supermodel Gail McKenna | 254502 | [254502-supermodel-gail-mckenna.json](./254502-supermodel-gail-mckenna.json) |
 | SuperMoose | 30757 | [30757-supermoose.json](./30757-supermoose.json) |
