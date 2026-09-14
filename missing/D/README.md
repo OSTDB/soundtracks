@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Grid | 373014 | [373014-dark-grid.json](./373014-dark-grid.json) |
 | Dark Half | 42562 | [42562-dark-half.json](./42562-dark-half.json) |
 | Dark Harvest: Ascension | 224577 | [224577-dark-harvest-ascension.json](./224577-dark-harvest-ascension.json) |
+| Dark Honor | 403652 | [403652-dark-honor.json](./403652-dark-honor.json) |
 | Dark Horizon | 19639 | [19639-dark-horizon.json](./19639-dark-horizon.json) |
 | Dark Hours | 251843 | [251843-dark-hours.json](./251843-dark-hours.json) |
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
@@ -1674,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deuteros: The Next Millennium | 9575 | [9575-deuteros-the-next-millennium.json](./9575-deuteros-the-next-millennium.json) |
 | Deutschland sucht den Superstar | 130904 | [130904-deutschland-sucht-den-superstar.json](./130904-deutschland-sucht-den-superstar.json) |
 | Dev Inc | 152835 | [152835-dev-inc.json](./152835-dev-inc.json) |
+| Deva | 403684 | [403684-deva.json](./403684-deva.json) |
 | Deva: The Haunted Game | 148513 | [148513-deva-the-haunted-game.json](./148513-deva-the-haunted-game.json) |
 | Devader | 68765 | [68765-devader.json](./68765-devader.json) |
 | Devastated | 129211 | [129211-devastated.json](./129211-devastated.json) |
@@ -1688,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Edge | 169450 | [169450-devil-edge.json](./169450-devil-edge.json) |
 | Devil Engine: Ignition | 150601 | [150601-devil-engine-ignition.json](./150601-devil-engine-ignition.json) |
 | Devil Fish | 39633 | [39633-devil-fish.json](./39633-devil-fish.json) |
+| Devil Gate | 403692 | [403692-devil-gate.json](./403692-devil-gate.json) |
 | Devil In My House | 311781 | [311781-devil-in-my-house.json](./311781-devil-in-my-house.json) |
 | Devil in the Details | 103959 | [103959-devil-in-the-details.json](./103959-devil-in-the-details.json) |
 | Devil in the Pines | 67598 | [67598-devil-in-the-pines.json](./67598-devil-in-the-pines.json) |
@@ -2647,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Play With Dolls | 105282 | [105282-dont-play-with-dolls.json](./105282-dont-play-with-dolls.json) |
 | Don't Pray to Satan | 89953 | [89953-dont-pray-to-satan.json](./89953-dont-pray-to-satan.json) |
 | Don't Shoot the Puppy | 136454 | [136454-dont-shoot-the-puppy.json](./136454-dont-shoot-the-puppy.json) |
+| Don’t Sleep with the Fishes | 403674 | [403674-don-t-sleep-with-the-fishes.json](./403674-don-t-sleep-with-the-fishes.json) |
 | Don't Stand Out | 90134 | [90134-dont-stand-out.json](./90134-dont-stand-out.json) |
 | Don't Stare | 153936 | [153936-dont-stare.json](./153936-dont-stare.json) |
 | Don't Stop Corocco | 151663 | [151663-dont-stop-corocco.json](./151663-dont-stop-corocco.json) |
@@ -2910,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Cross | 96135 | [96135-double-cross.json](./96135-double-cross.json) |
 | Double Cubes | 34727 | [34727-double-cubes.json](./34727-double-cubes.json) |
 | Double Damnation | 213981 | [213981-double-damnation.json](./213981-double-damnation.json) |
+| Double Dealers | 403675 | [403675-double-dealers.json](./403675-double-dealers.json) |
 | Double Dragon | 200154 | [200154-double-dragon.json](./200154-double-dragon.json) |
 | Double Dragon | 201319 | [201319-double-dragon.json](./201319-double-dragon.json) |
 | Double Dragon | 201322 | [201322-double-dragon.json](./201322-double-dragon.json) |
