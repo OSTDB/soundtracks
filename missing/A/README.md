@@ -1200,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aline | 127978 | [127978-aline.json](./127978-aline.json) |
 | Aliosso | 288767 | [288767-aliosso.json](./288767-aliosso.json) |
 | Alipache in Wonderworld | 204708 | [204708-alipache-in-wonderworld.json](./204708-alipache-in-wonderworld.json) |
+| Aliro1 | 381680 | [381680-aliro1.json](./381680-aliro1.json) |
 | Alisa’s Incident Report | 390627 | [390627-alisa-s-incident-report.json](./390627-alisa-s-incident-report.json) |
 | Alisha's Sexual Fear | 373529 | [373529-alishas-sexual-fear.json](./373529-alishas-sexual-fear.json) |
 | Alisia Dragoon | 19508 | [19508-alisia-dragoon.json](./19508-alisia-dragoon.json) |
@@ -1824,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Cat | 212815 | [212815-angry-cat.json](./212815-angry-cat.json) |
 | Angry Cat | 379906 | [379906-angry-cat.json](./379906-angry-cat.json) |
 | Angry Celt Warrior | 157124 | [157124-angry-celt-warrior.json](./157124-angry-celt-warrior.json) |
+| Angry Chef World Tour | 381671 | [381671-angry-chef-world-tour.json](./381671-angry-chef-world-tour.json) |
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
@@ -1883,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Rescuer | 139419 | [139419-animal-rescuer.json](./139419-animal-rescuer.json) |
 | Animal Rivals | 28915 | [28915-animal-rivals.json](./28915-animal-rivals.json) |
 | Animal Rivals: Nintendo Switch Edition | 105904 | [105904-animal-rivals-nintendo-switch-edition.json](./105904-animal-rivals-nintendo-switch-edition.json) |
+| Animal Run for Kids | 381703 | [381703-animal-run-for-kids.json](./381703-animal-run-for-kids.json) |
 | Animal Sanctuary | 203882 | [203882-animal-sanctuary.json](./203882-animal-sanctuary.json) |
 | Animal School 1st Grade Games | 241356 | [241356-animal-school-1st-grade-games.json](./241356-animal-school-1st-grade-games.json) |
 | Animal Shelter Simulator | 130134 | [130134-animal-shelter-simulator.json](./130134-animal-shelter-simulator.json) |
@@ -1949,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Lady Liberty | 314880 | [314880-anime-girls-lady-liberty.json](./314880-anime-girls-lady-liberty.json) |
 | Anime Girls: Stellar Invasion | 396432 | [396432-anime-girls-stellar-invasion.json](./396432-anime-girls-stellar-invasion.json) |
 | Anime Girls: Tactical Assault | 402306 | [402306-anime-girls-tactical-assault.json](./402306-anime-girls-tactical-assault.json) |
+| Anime Girls: Tokyo Christmas | 381704 | [381704-anime-girls-tokyo-christmas.json](./381704-anime-girls-tokyo-christmas.json) |
 | Anime Hero Zero | 292011 | [292011-anime-hero-zero.json](./292011-anime-hero-zero.json) |
 | Anime Hero Zero 2 | 292013 | [292013-anime-hero-zero-2.json](./292013-anime-hero-zero-2.json) |
 | Anime Hero Zero 3 | 292014 | [292014-anime-hero-zero-3.json](./292014-anime-hero-zero-3.json) |
@@ -3548,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Island | 159798 | [159798-auto-island.json](./159798-auto-island.json) |
 | Auto Race | 245572 | [245572-auto-race.json](./245572-auto-race.json) |
 | Auto Rogue | 334135 | [334135-auto-rogue.json](./334135-auto-rogue.json) |
+| Auto Sport Racing Simulator | 381702 | [381702-auto-sport-racing-simulator.json](./381702-auto-sport-racing-simulator.json) |
 | Auto Test | 347705 | [347705-auto-test.json](./347705-auto-test.json) |
 | Auto Tow Truck Simulator | 278710 | [278710-auto-tow-truck-simulator.json](./278710-auto-tow-truck-simulator.json) |
 | Auto Tuktuk Mafia | 411587 | [411587-auto-tuktuk-mafia.json](./411587-auto-tuktuk-mafia.json) |
