@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
 | Dark Secrets Mystery Files | 399627 | [399627-dark-secrets-mystery-files.json](./399627-dark-secrets-mystery-files.json) |
 | Dark Seeker | 151698 | [151698-dark-seeker.json](./151698-dark-seeker.json) |
+| Dark Sentinel | 391739 | [391739-dark-sentinel.json](./391739-dark-sentinel.json) |
 | Dark Side of Fate | 155083 | [155083-dark-side-of-fate.json](./155083-dark-side-of-fate.json) |
 | Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
@@ -2515,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogman | 141214 | [141214-dogman.json](./141214-dogman.json) |
 | Dogness | 144242 | [144242-dogness.json](./144242-dogness.json) |
 | Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
+| DogPunk | 391750 | [391750-dogpunk.json](./391750-dogpunk.json) |
 | Dogs of the Dark | 265678 | [265678-dogs-of-the-dark.json](./265678-dogs-of-the-dark.json) |
 | Dogs of Wallstreet | 197925 | [197925-dogs-of-wallstreet.json](./197925-dogs-of-wallstreet.json) |
 | Dogs of War Online | 15391 | [15391-dogs-of-war-online.json](./15391-dogs-of-war-online.json) |
@@ -3657,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drömmar | 314631 | [314631-drommar.json](./314631-drommar.json) |
 | Drone Academy | 369576 | [369576-drone-academy.json](./369576-drone-academy.json) |
 | Drone Adventure | 301836 | [301836-drone-adventure.json](./301836-drone-adventure.json) |
+| Drone Arsenal | 391736 | [391736-drone-arsenal.json](./391736-drone-arsenal.json) |
 | Drone Attack Spy Drone Games | 303263 | [303263-drone-attack-spy-drone-games.json](./303263-drone-attack-spy-drone-games.json) |
 | Drone Crash Course | 190171 | [190171-drone-crash-course.json](./190171-drone-crash-course.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
@@ -4006,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Town | 111719 | [111719-dungeon-town.json](./111719-dungeon-town.json) |
 | Dungeon Trail | 374595 | [374595-dungeon-trail.json](./374595-dungeon-trail.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
+| Dungeon Trick | 391723 | [391723-dungeon-trick.json](./391723-dungeon-trick.json) |
 | Dungeon Tycoon | 250859 | [250859-dungeon-tycoon.json](./250859-dungeon-tycoon.json) |
 | Dungeon Universe | 185665 | [185665-dungeon-universe.json](./185665-dungeon-universe.json) |
 | Dungeon Vixens: A Tale of Temptation | 278985 | [278985-dungeon-vixens-a-tale-of-temptation.json](./278985-dungeon-vixens-a-tale-of-temptation.json) |
