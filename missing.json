@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T04:31:39.169Z",
-  "total_missing": 68447,
+  "generated_at": "2026-09-14T04:41:30.675Z",
+  "total_missing": 68453,
   "games": [
     {
       "igdb_id": 306086,
@@ -4166,11 +4166,6 @@
       "igdb_id": 249451,
       "game_name": "Adventure Ball 3D Balancer",
       "file": "missing/A/249451-adventure-ball-3d-balancer.json"
-    },
-    {
-      "igdb_id": 339128,
-      "game_name": "Adventure Book in Dimension",
-      "file": "missing/A/339128-adventure-book-in-dimension.json"
     },
     {
       "igdb_id": 45360,
@@ -131348,6 +131343,11 @@
       "file": "missing/H/265151-hover-shooting-defence.json"
     },
     {
+      "igdb_id": 30167,
+      "game_name": "Hover Skate VR",
+      "file": "missing/H/30167-hover-skate-vr.json"
+    },
+    {
       "igdb_id": 40812,
       "game_name": "Hover Strike",
       "file": "missing/H/40812-hover-strike.json"
@@ -136766,6 +136766,11 @@
       "igdb_id": 55129,
       "game_name": "Incompatible Species",
       "file": "missing/I/55129-incompatible-species.json"
+    },
+    {
+      "igdb_id": 30135,
+      "game_name": "Incorp Inc",
+      "file": "missing/I/30135-incorp-inc.json"
     },
     {
       "igdb_id": 119746,
@@ -237198,6 +237203,11 @@
       "file": "missing/R/324928-rule-the-waves-3-expanded-battles.json"
     },
     {
+      "igdb_id": 30165,
+      "game_name": "Rule Your School",
+      "file": "missing/R/30165-rule-your-school.json"
+    },
+    {
       "igdb_id": 361573,
       "game_name": "Rule34dle",
       "file": "missing/R/361573-rule34dle.json"
@@ -238006,6 +238016,11 @@
       "igdb_id": 106568,
       "game_name": "Russian bank - card game",
       "file": "missing/R/106568-russian-bank-card-game.json"
+    },
+    {
+      "igdb_id": 30142,
+      "game_name": "Russian Car Driver",
+      "file": "missing/R/30142-russian-car-driver.json"
     },
     {
       "igdb_id": 255752,
@@ -242171,6 +242186,11 @@
       "igdb_id": 75082,
       "game_name": "Scorb VR",
       "file": "missing/S/75082-scorb-vr.json"
+    },
+    {
+      "igdb_id": 30137,
+      "game_name": "Scorch",
+      "file": "missing/S/30137-scorch.json"
     },
     {
       "igdb_id": 51249,
@@ -282266,6 +282286,11 @@
       "igdb_id": 259829,
       "game_name": "Tapioka Panic",
       "file": "missing/T/259829-tapioka-panic.json"
+    },
+    {
+      "igdb_id": 30141,
+      "game_name": "Tapocalypse",
+      "file": "missing/T/30141-tapocalypse.json"
     },
     {
       "igdb_id": 66079,
@@ -325756,6 +325781,11 @@
       "igdb_id": 8880,
       "game_name": "Wacky Wheels",
       "file": "missing/W/8880-wacky-wheels.json"
+    },
+    {
+      "igdb_id": 30162,
+      "game_name": "Wacky Wings VR",
+      "file": "missing/W/30162-wacky-wings-vr.json"
     },
     {
       "igdb_id": 5260,
