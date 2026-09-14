@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raise-a-Wish | 404255 | [404255-raise-a-wish.json](./404255-raise-a-wish.json) |
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
 | Raisin Wordsearch | 394211 | [394211-raisin-wordsearch.json](./394211-raisin-wordsearch.json) |
+| Raising a Happy NEET | 417618 | [417618-raising-a-happy-neet.json](./417618-raising-a-happy-neet.json) |
 | Raising the Bar: Salvation | 281376 | [281376-raising-the-bar-salvation.json](./281376-raising-the-bar-salvation.json) |
 | Raising Torolith | 152885 | [152885-raising-torolith.json](./152885-raising-torolith.json) |
 | RaKoval~Nya: Escape Edition | 102164 | [102164-rakoval-nya-escape-edition.json](./102164-rakoval-nya-escape-edition.json) |
@@ -1210,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Evil Genius | 122409 | [122409-rescue-team-evil-genius.json](./122409-rescue-team-evil-genius.json) |
 | Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
 | Rescue Team: Mineral of Miracles | 264631 | [264631-rescue-team-mineral-of-miracles.json](./264631-rescue-team-mineral-of-miracles.json) |
+| Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
 | Resequenced | 96650 | [96650-resequenced.json](./96650-resequenced.json) |
 | Reset | 23906 | [23906-reset.json](./23906-reset.json) |
@@ -1658,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift World | 148550 | [148550-rift-world.json](./148550-rift-world.json) |
 | Rift: Nightmare Tide | 19322 | [19322-rift-nightmare-tide.json](./19322-rift-nightmare-tide.json) |
 | Rift's Cave | 36079 | [36079-rifts-cave.json](./36079-rifts-cave.json) |
+| Riftshot | 417536 | [417536-riftshot.json](./417536-riftshot.json) |
 | RiftStar Raiders | 27103 | [27103-riftstar-raiders.json](./27103-riftstar-raiders.json) |
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
@@ -1694,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Saturn: Deep Weeb | 231361 | [231361-rings-of-saturn-deep-weeb.json](./231361-rings-of-saturn-deep-weeb.json) |
 | Rings of Saturn: Tungsten Edition | 188093 | [188093-rings-of-saturn-tungsten-edition.json](./188093-rings-of-saturn-tungsten-edition.json) |
 | Rings of Zilfin | 2891 | [2891-rings-of-zilfin.json](./2891-rings-of-zilfin.json) |
+| Rinne no Hate de Kimi wo Matsu | 417545 | [417545-rinne-no-hate-de-kimi-wo-matsu.json](./417545-rinne-no-hate-de-kimi-wo-matsu.json) |
 | Rinne no Lagrange: Kamogawa Match | 268741 | [268741-rinne-no-lagrange-kamogawa-match.json](./268741-rinne-no-lagrange-kamogawa-match.json) |
 | Rinne Tsukihime | 282562 | [282562-rinne-tsukihime.json](./282562-rinne-tsukihime.json) |
 | Rinth Island | 22333 | [22333-rinth-island.json](./22333-rinth-island.json) |
@@ -2489,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotatorix | 74379 | [74379-rotatorix.json](./74379-rotatorix.json) |
 | Roterra 4: Magical Revolution | 234605 | [234605-roterra-4-magical-revolution.json](./234605-roterra-4-magical-revolution.json) |
 | Roterra Extreme - Great Escape | 125442 | [125442-roterra-extreme-great-escape.json](./125442-roterra-extreme-great-escape.json) |
+| Rotfang: The House | 417563 | [417563-rotfang-the-house.json](./417563-rotfang-the-house.json) |
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
 | Rotieer | 35909 | [35909-rotieer.json](./35909-rotieer.json) |
 | Roto Force | 191870 | [191870-roto-force.json](./191870-roto-force.json) |
