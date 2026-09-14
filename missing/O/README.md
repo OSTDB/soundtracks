@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Blood and Descent | 317601 | [317601-of-blood-and-descent.json](./317601-of-blood-and-descent.json) |
 | Of Evil and Darkness | 129729 | [129729-of-evil-and-darkness.json](./129729-of-evil-and-darkness.json) |
 | Of Gods and Men: The Daybreak Empire | 109401 | [109401-of-gods-and-men-the-daybreak-empire.json](./109401-of-gods-and-men-the-daybreak-empire.json) |
+| Of Hibnernry Boneyard Ler Ardus | 397097 | [397097-of-hibnernry-boneyard-ler-ardus.json](./397097-of-hibnernry-boneyard-ler-ardus.json) |
 | Of Life and Land | 188614 | [188614-of-life-and-land.json](./188614-of-life-and-land.json) |
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
 | Of the Red, the Light, and the Ayakashi Tsuzuri | 62190 | [62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json](./62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json) |
