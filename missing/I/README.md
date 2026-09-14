@@ -1200,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion of the Zombie Monsters | 197857 | [197857-invasion-of-the-zombie-monsters.json](./197857-invasion-of-the-zombie-monsters.json) |
 | Invaxion | 109323 | [109323-invaxion.json](./109323-invaxion.json) |
 | Invector: Rhythm Galaxy - Latin Power Song Pack | 265249 | [265249-invector-rhythm-galaxy-latin-power-song-pack.json](./265249-invector-rhythm-galaxy-latin-power-song-pack.json) |
+| Invention 2 | 31667 | [31667-invention-2.json](./31667-invention-2.json) |
 | Invention 4 | 261778 | [261778-invention-4.json](./261778-invention-4.json) |
 | Invention 6 | 340759 | [340759-invention-6.json](./340759-invention-6.json) |
 | Invention 7 | 340760 | [340760-invention-7.json](./340760-invention-7.json) |
