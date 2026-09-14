@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gear | 25182 | [25182-pixel-gear.json](./25182-pixel-gear.json) |
 | Pixel Gun 3D: PC Edition | 261628 | [261628-pixel-gun-3d-pc-edition.json](./261628-pixel-gun-3d-pc-edition.json) |
 | Pixel Gunmen | 226772 | [226772-pixel-gunmen.json](./226772-pixel-gunmen.json) |
+| Pixel Hentai Mosaic | 103789 | [103789-pixel-hentai-mosaic.json](./103789-pixel-hentai-mosaic.json) |
 | Pixel Heroes: Tales of Emond | 294690 | [294690-pixel-heroes-tales-of-emond.json](./294690-pixel-heroes-tales-of-emond.json) |
 | Pixel House: Color by Number | 328494 | [328494-pixel-house-color-by-number.json](./328494-pixel-house-color-by-number.json) |
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
@@ -1880,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet R-12 | 26522 | [26522-planet-r-12.json](./26522-planet-r-12.json) |
 | Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
+| Planet Stronghold 2 | 103609 | [103609-planet-stronghold-2.json](./103609-planet-stronghold-2.json) |
 | Planet Surf: The Last Wave | 158672 | [158672-planet-surf-the-last-wave.json](./158672-planet-surf-the-last-wave.json) |
 | Planet TD | 195265 | [195265-planet-td.json](./195265-planet-td.json) |
 | Planet Wars | 207855 | [207855-planet-wars.json](./207855-planet-wars.json) |
