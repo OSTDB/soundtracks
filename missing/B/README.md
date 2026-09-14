@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Fishing | 405621 | [405621-backrooms-fishing.json](./405621-backrooms-fishing.json) |
 | Backrooms Hide and Seek | 220349 | [220349-backrooms-hide-and-seek.json](./220349-backrooms-hide-and-seek.json) |
 | Backrooms Manager: Together | 410982 | [410982-backrooms-manager-together.json](./410982-backrooms-manager-together.json) |
+| Backrooms Not Escape | 392920 | [392920-backrooms-not-escape.json](./392920-backrooms-not-escape.json) |
 | Backrooms of Reality | 207298 | [207298-backrooms-of-reality.json](./207298-backrooms-of-reality.json) |
 | Backrooms Protocol | 407406 | [407406-backrooms-protocol.json](./407406-backrooms-protocol.json) |
 | Backrooms Rec. | 253402 | [253402-backrooms-rec.json](./253402-backrooms-rec.json) |
@@ -2922,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogie Woogi Jungle | 202347 | [202347-boogie-woogi-jungle.json](./202347-boogie-woogi-jungle.json) |
 | Book 5 Untold | 254549 | [254549-book-5-untold.json](./254549-book-5-untold.json) |
 | Book End | 221419 | [221419-book-end.json](./221419-book-end.json) |
+| Book Inside | 392921 | [392921-book-inside.json](./392921-book-inside.json) |
 | Book Nook | 404843 | [404843-book-nook.json](./404843-book-nook.json) |
 | Book of Aliens | 127235 | [127235-book-of-aliens.json](./127235-book-of-aliens.json) |
 | Book of Beasts | 141179 | [141179-book-of-beasts.json](./141179-book-of-beasts.json) |
@@ -3620,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
 | Brownie's Adventure 2 | 294151 | [294151-brownies-adventure-2.json](./294151-brownies-adventure-2.json) |
 | Browning | 41980 | [41980-browning.json](./41980-browning.json) |
+| BRT: Billiards of the Round Table | 392952 | [392952-brt-billiards-of-the-round-table.json](./392952-brt-billiards-of-the-round-table.json) |
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
 | Bruce Quest: The Secrets of the Outback | 379888 | [379888-bruce-quest-the-secrets-of-the-outback.json](./379888-bruce-quest-the-secrets-of-the-outback.json) |
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
