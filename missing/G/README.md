@@ -2051,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grog 'n Glory | 291739 | [291739-grog-n-glory.json](./291739-grog-n-glory.json) |
 | Grokit | 271204 | [271204-grokit.json](./271204-grokit.json) |
 | Grom: Terror in Tibet | 73767 | [73767-grom-terror-in-tibet.json](./73767-grom-terror-in-tibet.json) |
+| Grommet Chod | 410325 | [410325-grommet-chod.json](./410325-grommet-chod.json) |
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
 | Grood | 90116 | [90116-grood.json](./90116-grood.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
@@ -2290,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Predict | 399015 | [399015-gun-predict.json](./399015-gun-predict.json) |
 | Gun Priest | 116354 | [116354-gun-priest.json](./116354-gun-priest.json) |
 | Gun Raiders | 145040 | [145040-gun-raiders.json](./145040-gun-raiders.json) |
+| Gun Restoration Shop Simulator | 410317 | [410317-gun-restoration-shop-simulator.json](./410317-gun-restoration-shop-simulator.json) |
 | Gun Road | 96678 | [96678-gun-road.json](./96678-gun-road.json) |
 | Gun Rocket | 34733 | [34733-gun-rocket.json](./34733-gun-rocket.json) |
 | Gun Runner | 81287 | [81287-gun-runner.json](./81287-gun-runner.json) |
