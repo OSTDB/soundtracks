@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarization | 311491 | [311491-barbarization.json](./311491-barbarization.json) |
 | Barbarous 2: Tavern Wars | 192944 | [192944-barbarous-2-tavern-wars.json](./192944-barbarous-2-tavern-wars.json) |
 | BarBarQ | 82149 | [82149-barbarq.json](./82149-barbarq.json) |
+| Barbearian | 90157 | [90157-barbearian.json](./90157-barbearian.json) |
 | Barbershop Simulator | 220351 | [220351-barbershop-simulator.json](./220351-barbershop-simulator.json) |
 | Barbie | 245570 | [245570-barbie.json](./245570-barbie.json) |
 | Barbie and the Magic of Pegasus | 248681 | [248681-barbie-and-the-magic-of-pegasus.json](./248681-barbie-and-the-magic-of-pegasus.json) |
@@ -1898,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BitBreaker | 97927 | [97927-bitbreaker.json](./97927-bitbreaker.json) |
 | BitBug | 181315 | [181315-bitbug.json](./181315-bitbug.json) |
 | Bitch Hell | 197891 | [197891-bitch-hell.json](./197891-bitch-hell.json) |
+| Bitcoin | 90174 | [90174-bitcoin.json](./90174-bitcoin.json) |
 | Bitcoin Collector: Spinners Attack | 68665 | [68665-bitcoin-collector-spinners-attack.json](./68665-bitcoin-collector-spinners-attack.json) |
 | Bitcoin highway | 83587 | [83587-bitcoin-highway.json](./83587-bitcoin-highway.json) |
 | Bitcoin Miner | 89602 | [89602-bitcoin-miner.json](./89602-bitcoin-miner.json) |
@@ -2078,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Tempest | 372454 | [372454-blade-tempest.json](./372454-blade-tempest.json) |
 | Blade Warrior | 14313 | [14313-blade-warrior.json](./14313-blade-warrior.json) |
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
+| Blade's Legacy | 88081 | [88081-blades-legacy.json](./88081-blades-legacy.json) |
 | Bladenet | 68166 | [68166-bladenet.json](./68166-bladenet.json) |
 | Bladequest: The First Chapter - Gold | 106548 | [106548-bladequest-the-first-chapter-gold.json](./106548-bladequest-the-first-chapter-gold.json) |
 | Blades and Bullets | 277279 | [277279-blades-and-bullets.json](./277279-blades-and-bullets.json) |
@@ -3148,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Memory: Amazing Edition | 276452 | [276452-brain-memory-amazing-edition.json](./276452-brain-memory-amazing-edition.json) |
 | Brain Memory: Premium Edition | 241394 | [241394-brain-memory-premium-edition.json](./241394-brain-memory-premium-edition.json) |
 | Brain Off | 172101 | [172101-brain-off.json](./172101-brain-off.json) |
+| Brain Puzzle | 90203 | [90203-brain-puzzle.json](./90203-brain-puzzle.json) |
 | Brain Sanguo | 158666 | [158666-brain-sanguo.json](./158666-brain-sanguo.json) |
 | Brain Spa | 69207 | [69207-brain-spa.json](./69207-brain-spa.json) |
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
