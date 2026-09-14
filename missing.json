@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T08:31:45.050Z",
-  "total_missing": 69097,
+  "generated_at": "2026-09-14T08:41:31.680Z",
+  "total_missing": 69099,
   "games": [
     {
       "igdb_id": 306086,
@@ -4286,11 +4286,6 @@
       "igdb_id": 227853,
       "game_name": "Adventure of Egypt",
       "file": "missing/A/227853-adventure-of-egypt.json"
-    },
-    {
-      "igdb_id": 200125,
-      "game_name": "Adventure of Priestess",
-      "file": "missing/A/200125-adventure-of-priestess.json"
     },
     {
       "igdb_id": 31817,
@@ -342036,6 +342031,21 @@
       "igdb_id": 113431,
       "game_name": "Ys IX: Monstrum Nox",
       "file": "missing/Y/113431-ys-ix-monstrum-nox.json"
+    },
+    {
+      "igdb_id": 411020,
+      "game_name": "Ys IX: Monstrum Nox - Ride-Along Aprilis",
+      "file": "missing/Y/411020-ys-ix-monstrum-nox-ride-along-aprilis.json"
+    },
+    {
+      "igdb_id": 411021,
+      "game_name": "Ys IX: Monstrum Nox - Ride-Along Geis",
+      "file": "missing/Y/411021-ys-ix-monstrum-nox-ride-along-geis.json"
+    },
+    {
+      "igdb_id": 411022,
+      "game_name": "Ys IX: Monstrum Nox - Ride-Along Morbihan",
+      "file": "missing/Y/411022-ys-ix-monstrum-nox-ride-along-morbihan.json"
     },
     {
       "igdb_id": 411023,
