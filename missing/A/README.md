@@ -344,7 +344,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
 | Advanced Dungeons & Dragons: DragonStrike | 48113 | [48113-advanced-dungeons-and-dragons-dragonstrike.json](./48113-advanced-dungeons-and-dragons-dragonstrike.json) |
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
-| Advanced Strategic Command | 63246 | [63246-advanced-strategic-command.json](./63246-advanced-strategic-command.json) |
 | Advancing Chess | 296352 | [296352-advancing-chess.json](./296352-advancing-chess.json) |
 | Advenger of Stuart | 236271 | [236271-advenger-of-stuart.json](./236271-advenger-of-stuart.json) |
 | Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
