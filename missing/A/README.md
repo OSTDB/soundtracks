@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Fighter | 11885 | [11885-action-fighter.json](./11885-action-fighter.json) |
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
+| Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
@@ -3154,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids & Super Breakout | 78656 | [78656-asteroids-and-super-breakout.json](./78656-asteroids-and-super-breakout.json) |
 | Asteroids Deluxe | 13689 | [13689-asteroids-deluxe.json](./13689-asteroids-deluxe.json) |
 | Asteroids Hyper 64 | 10664 | [10664-asteroids-hyper-64.json](./10664-asteroids-hyper-64.json) |
+| Asteroids Millennium | 51716 | [51716-asteroids-millennium.json](./51716-asteroids-millennium.json) |
 | Asteroids Space Shooter | 178631 | [178631-asteroids-space-shooter.json](./178631-asteroids-space-shooter.json) |
 | Asteroids: Gunner | 64402 | [64402-asteroids-gunner.json](./64402-asteroids-gunner.json) |
 | AsteroidsHD | 18174 | [18174-asteroidshd.json](./18174-asteroidshd.json) |
