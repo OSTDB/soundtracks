@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T23:49:13.656Z",
-  "total_missing": 71655,
+  "generated_at": "2026-09-14T23:51:38.187Z",
+  "total_missing": 71654,
   "games": [
     {
       "igdb_id": 306086,
@@ -4811,11 +4811,6 @@
       "igdb_id": 357787,
       "game_name": "Aether Effect",
       "file": "missing/A/357787-aether-effect.json"
-    },
-    {
-      "igdb_id": 382222,
-      "game_name": "Aether League",
-      "file": "missing/A/382222-aether-league.json"
     },
     {
       "igdb_id": 312381,
