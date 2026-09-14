@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Bank | 193987 | [193987-idle-bank.json](./193987-idle-bank.json) |
 | Idle Battle Royale | 124760 | [124760-idle-battle-royale.json](./124760-idle-battle-royale.json) |
 | Idle Battle RPG | 295767 | [295767-idle-battle-rpg.json](./295767-idle-battle-rpg.json) |
+| Idle Battler | 393620 | [393620-idle-battler.json](./393620-idle-battler.json) |
 | Idle Bear Island | 174859 | [174859-idle-bear-island.json](./174859-idle-bear-island.json) |
 | Idle Beast Hunter | 297222 | [297222-idle-beast-hunter.json](./297222-idle-beast-hunter.json) |
 | Idle Bouncer | 61644 | [61644-idle-bouncer.json](./61644-idle-bouncer.json) |
@@ -1494,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Came From the Closet | 109050 | [109050-it-came-from-the-closet.json](./109050-it-came-from-the-closet.json) |
 | It Came from the Desert | 1060 | [1060-it-came-from-the-desert.json](./1060-it-came-from-the-desert.json) |
 | It Came from the Desert | 133965 | [133965-it-came-from-the-desert.json](./133965-it-came-from-the-desert.json) |
+| It Came From The Orgone Chamber | 393649 | [393649-it-came-from-the-orgone-chamber.json](./393649-it-came-from-the-orgone-chamber.json) |
 | It Doesn't Have to Be Like This | 299125 | [299125-it-doesnt-have-to-be-like-this.json](./299125-it-doesnt-have-to-be-like-this.json) |
 | It Girl | 338731 | [338731-it-girl.json](./338731-it-girl.json) |
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
