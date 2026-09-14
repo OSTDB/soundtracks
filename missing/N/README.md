@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naxat Cup Satellaview Bass Tournament "Big Fight" | 150171 | [150171-naxat-cup-satellaview-bass-tournament-big-fight.json](./150171-naxat-cup-satellaview-bass-tournament-big-fight.json) |
 | Naxat Open | 37707 | [37707-naxat-open.json](./37707-naxat-open.json) |
 | Nazar | 319003 | [319003-nazar.json](./319003-nazar.json) |
+| NaziShootout | 88054 | [88054-nazishootout.json](./88054-nazishootout.json) |
 | Nazo no Mini Game: Choigae | 222525 | [222525-nazo-no-mini-game-choigae.json](./222525-nazo-no-mini-game-choigae.json) |
 | Nazo no Minigame | 63902 | [63902-nazo-no-minigame.json](./63902-nazo-no-minigame.json) |
 | Nazo Puyo | 45260 | [45260-nazo-puyo.json](./45260-nazo-puyo.json) |
@@ -648,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nepenthe | 100600 | [100600-nepenthe.json](./100600-nepenthe.json) |
 | Nephelem: A Path of Vice and Virtue | 342653 | [342653-nephelem-a-path-of-vice-and-virtue.json](./342653-nephelem-a-path-of-vice-and-virtue.json) |
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
+| Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
 | Neptune's Secret | 210039 | [210039-neptunes-secret.json](./210039-neptunes-secret.json) |
 | NeptuneGL | 83563 | [83563-neptunegl.json](./83563-neptunegl.json) |
 | Neptunia reVerse | 139072 | [139072-neptunia-reverse.json](./139072-neptunia-reverse.json) |
@@ -727,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Wither | 386675 | [386675-never-wither.json](./386675-never-wither.json) |
 | NeverAwake Flashback | 369062 | [369062-neverawake-flashback.json](./369062-neverawake-flashback.json) |
 | Neverball | 51247 | [51247-neverball.json](./51247-neverball.json) |
+| NeverBound | 90248 | [90248-neverbound.json](./90248-neverbound.json) |
 | NeverDeath | 166701 | [166701-neverdeath.json](./166701-neverdeath.json) |
 | NeverEnd | 29873 | [29873-neverend.json](./29873-neverend.json) |
 | Neverending Check-in: The Hotel Stories | 253566 | [253566-neverending-check-in-the-hotel-stories.json](./253566-neverending-check-in-the-hotel-stories.json) |
