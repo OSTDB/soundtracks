@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back Rank Chess: Zombie Strike | 289341 | [289341-back-rank-chess-zombie-strike.json](./289341-back-rank-chess-zombie-strike.json) |
 | Back Rooms: Ground Zero | 250641 | [250641-back-rooms-ground-zero.json](./250641-back-rooms-ground-zero.json) |
 | Back to 1998 | 116986 | [116986-back-to-1998.json](./116986-back-to-1998.json) |
+| Back to 21 | 407409 | [407409-back-to-21.json](./407409-back-to-21.json) |
 | Back to Basics | 256852 | [256852-back-to-basics.json](./256852-back-to-basics.json) |
 | Back to Brother | 231047 | [231047-back-to-brother.json](./231047-back-to-brother.json) |
 | Back to Dinosaur Island | 34169 | [34169-back-to-dinosaur-island.json](./34169-back-to-dinosaur-island.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon Online | 104123 | [104123-backgammon-online.json](./104123-backgammon-online.json) |
 | Backlot: Hollywood Studio Tycoon | 416649 | [416649-backlot-hollywood-studio-tycoon.json](./416649-backlot-hollywood-studio-tycoon.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
+| Backpack Dungeon | 407407 | [407407-backpack-dungeon.json](./407407-backpack-dungeon.json) |
 | Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
 | Backpackers Guide to the Universe | 309344 | [309344-backpackers-guide-to-the-universe.json](./309344-backpackers-guide-to-the-universe.json) |
@@ -128,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Hide and Seek | 220349 | [220349-backrooms-hide-and-seek.json](./220349-backrooms-hide-and-seek.json) |
 | Backrooms Manager: Together | 410982 | [410982-backrooms-manager-together.json](./410982-backrooms-manager-together.json) |
 | Backrooms of Reality | 207298 | [207298-backrooms-of-reality.json](./207298-backrooms-of-reality.json) |
+| Backrooms Protocol | 407406 | [407406-backrooms-protocol.json](./407406-backrooms-protocol.json) |
 | Backrooms Rec. | 253402 | [253402-backrooms-rec.json](./253402-backrooms-rec.json) |
 | Backrooms Society | 245870 | [245870-backrooms-society.json](./245870-backrooms-society.json) |
 | Backrooms The Company | 309864 | [309864-backrooms-the-company.json](./309864-backrooms-the-company.json) |
@@ -141,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Realm of Shadows | 247513 | [247513-backrooms-realm-of-shadows.json](./247513-backrooms-realm-of-shadows.json) |
 | Backrooms: Rebirth | 290916 | [290916-backrooms-rebirth.json](./290916-backrooms-rebirth.json) |
 | Backrooms: Reminiscence | 366831 | [366831-backrooms-reminiscence.json](./366831-backrooms-reminiscence.json) |
+| Backrooms: The Old Watcher | 407412 | [407412-backrooms-the-old-watcher.json](./407412-backrooms-the-old-watcher.json) |
 | BackRooms's 1995 The Lost Footage: Chapter 1 | 298562 | [298562-backroomss-1995-the-lost-footage-chapter-1.json](./298562-backroomss-1995-the-lost-footage-chapter-1.json) |
 | Backseat Drivers | 342047 | [342047-backseat-drivers.json](./342047-backseat-drivers.json) |
 | BackSlap | 349318 | [349318-backslap.json](./349318-backslap.json) |
@@ -495,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bar Simulator | 407335 | [407335-bar-simulator.json](./407335-bar-simulator.json) |
 | Bara Boarders | 183046 | [183046-bara-boarders.json](./183046-bara-boarders.json) |
 | Bara no Ki ni: Bara no Hanasaku | 56522 | [56522-bara-no-ki-ni-bara-no-hanasaku.json](./56522-bara-no-ki-ni-bara-no-hanasaku.json) |
+| Barack Fu: The Adventures of Dirty Barry | 407397 | [407397-barack-fu-the-adventures-of-dirty-barry.json](./407397-barack-fu-the-adventures-of-dirty-barry.json) |
 | Baraduke | 39856 | [39856-baraduke.json](./39856-baraduke.json) |
 | Barakel: The Fallen Angel | 175912 | [175912-barakel-the-fallen-angel.json](./175912-barakel-the-fallen-angel.json) |
 | Baratin: The Video Game | 374085 | [374085-baratin-the-video-game.json](./374085-baratin-the-video-game.json) |
@@ -1739,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiards II Simulator | 14305 | [14305-billiards-ii-simulator.json](./14305-billiards-ii-simulator.json) |
 | Billiards Simulator | 14304 | [14304-billiards-simulator.json](./14304-billiards-simulator.json) |
 | Billiards Xciting | 78000 | [78000-billiards-xciting.json](./78000-billiards-xciting.json) |
+| Billion Egg Farm | 407445 | [407445-billion-egg-farm.json](./407445-billion-egg-farm.json) |
 | Billion Road | 109474 | [109474-billion-road.json](./109474-billion-road.json) |
 | Billionaire Life Simulator | 411583 | [411583-billionaire-life-simulator.json](./411583-billionaire-life-simulator.json) |
 | Billionworlds : Kingdoms | 153437 | [153437-billionworlds-kingdoms.json](./153437-billionworlds-kingdoms.json) |
@@ -2107,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackThorne Keep: Chronicles | 159262 | [159262-blackthorne-keep-chronicles.json](./159262-blackthorne-keep-chronicles.json) |
 | Blackwater | 6917 | [6917-blackwater.json](./6917-blackwater.json) |
 | Blackwater 100 | 92540 | [92540-blackwater-100.json](./92540-blackwater-100.json) |
+| Blackwater Exchange | 407396 | [407396-blackwater-exchange.json](./407396-blackwater-exchange.json) |
 | Blackwoods | 312577 | [312577-blackwoods.json](./312577-blackwoods.json) |
 | Blade | 14312 | [14312-blade.json](./14312-blade.json) |
 | Blade & Sorcery | 111474 | [111474-blade-and-sorcery.json](./111474-blade-and-sorcery.json) |
