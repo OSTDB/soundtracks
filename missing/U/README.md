@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbra | 202338 | [202338-umbra.json](./202338-umbra.json) |
 | Umbra | 95415 | [95415-umbra.json](./95415-umbra.json) |
 | Umbra Fields | 272571 | [272571-umbra-fields.json](./272571-umbra-fields.json) |
+| Umbra Flora | 386886 | [386886-umbra-flora.json](./386886-umbra-flora.json) |
 | Umbra Sepulcri | 215678 | [215678-umbra-sepulcri.json](./215678-umbra-sepulcri.json) |
 | Umbra: Journey Home | 173300 | [173300-umbra-journey-home.json](./173300-umbra-journey-home.json) |
 | Umbral | 273389 | [273389-umbral.json](./273389-umbral.json) |
@@ -299,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umokay 64DS 8: The End is Near... | 270374 | [270374-umokay-64ds-8-the-end-is-near.json](./270374-umokay-64ds-8-the-end-is-near.json) |
 | Umokay 64DS 9: The Purple Comet | 270375 | [270375-umokay-64ds-9-the-purple-comet.json](./270375-umokay-64ds-9-the-purple-comet.json) |
 | Umokay 64DS X: To Infinity And Beyond! | 270376 | [270376-umokay-64ds-x-to-infinity-and-beyond.json](./270376-umokay-64ds-x-to-infinity-and-beyond.json) |
+| Umpteenth Photo | 386887 | [386887-umpteenth-photo.json](./386887-umpteenth-photo.json) |
 | UMS: The Universal Military Simulator | 37154 | [37154-ums-the-universal-military-simulator.json](./37154-ums-the-universal-military-simulator.json) |
 | Umurangi Generation | 131631 | [131631-umurangi-generation.json](./131631-umurangi-generation.json) |
 | Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
@@ -392,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Tower Idle | 405585 | [405585-under-tower-idle.json](./405585-under-tower-idle.json) |
 | Under Zero | 33223 | [33223-under-zero.json](./33223-under-zero.json) |
 | Undercards | 57109 | [57109-undercards.json](./57109-undercards.json) |
+| Underchoice | 386844 | [386844-underchoice.json](./386844-underchoice.json) |
 | Undercore: The Tale of Hardcore | 50503 | [50503-undercore-the-tale-of-hardcore.json](./50503-undercore-the-tale-of-hardcore.json) |
 | Undercover | 321997 | [321997-undercover.json](./321997-undercover.json) |
 | Undercover AD2025 Kei | 86084 | [86084-undercover-ad2025-kei.json](./86084-undercover-ad2025-kei.json) |
