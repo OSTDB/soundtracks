@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T18:31:43.307Z",
-  "total_missing": 70705,
+  "generated_at": "2026-09-14T18:41:40.262Z",
+  "total_missing": 70708,
   "games": [
     {
       "igdb_id": 306086,
@@ -4596,11 +4596,6 @@
       "igdb_id": 267380,
       "game_name": "Aero Dancing I",
       "file": "missing/A/267380-aero-dancing-i.json"
-    },
-    {
-      "igdb_id": 267382,
-      "game_name": "Aero Dancing I: Jikai Saku made Matemasen",
-      "file": "missing/A/267382-aero-dancing-i-jikai-saku-made-matemasen.json"
     },
     {
       "igdb_id": 306980,
@@ -120643,6 +120638,11 @@
       "file": "missing/G/98979-greg-normans-ultimate-golf.json"
     },
     {
+      "igdb_id": 390670,
+      "game_name": "Grégoire Lefèbvre Investigations: The Vow of Hate",
+      "file": "missing/G/390670-gregoire-lefebvre-investigations-the-vow-of-hate.json"
+    },
+    {
       "igdb_id": 253938,
       "game_name": "Gregor's Notebook",
       "file": "missing/G/253938-gregors-notebook.json"
@@ -211078,6 +211078,11 @@
       "file": "missing/P/315841-panic-ball.json"
     },
     {
+      "igdb_id": 390672,
+      "game_name": "Panic Crew",
+      "file": "missing/P/390672-panic-crew.json"
+    },
+    {
       "igdb_id": 128636,
       "game_name": "Panic Crisis Mage Attack",
       "file": "missing/P/128636-panic-crisis-mage-attack.json"
@@ -245518,6 +245523,11 @@
       "file": "missing/R/413777-runebook.json"
     },
     {
+      "igdb_id": 390671,
+      "game_name": "Runebound",
+      "file": "missing/R/390671-runebound.json"
+    },
+    {
       "igdb_id": 296685,
       "game_name": "Runemon",
       "file": "missing/R/296685-runemon.json"
@@ -275221,6 +275231,11 @@
       "igdb_id": 378167,
       "game_name": "Starbucks",
       "file": "missing/S/378167-starbucks.json"
+    },
+    {
+      "igdb_id": 390669,
+      "game_name": "Starburst Fever Night",
+      "file": "missing/S/390669-starburst-fever-night.json"
     },
     {
       "igdb_id": 181378,
