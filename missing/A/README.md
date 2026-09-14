@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
 | A Night Out. | 334702 | [334702-a-night-out.json](./334702-a-night-out.json) |
+| A night with Natalie VR | 111376 | [111376-a-night-with-natalie-vr.json](./111376-a-night-with-natalie-vr.json) |
 | A Night With: Succubus | 331291 | [331291-a-night-with-succubus.json](./331291-a-night-with-succubus.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
 | A Passive Boy at the Huntress Clinic | 232425 | [232425-a-passive-boy-at-the-huntress-clinic.json](./232425-a-passive-boy-at-the-huntress-clinic.json) |
@@ -1741,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Android Amazones | 120987 | [120987-android-amazones.json](./120987-android-amazones.json) |
 | Android Assault: The Revenge of Bari-Arm | 5358 | [5358-android-assault-the-revenge-of-bari-arm.json](./5358-android-assault-the-revenge-of-bari-arm.json) |
 | Android Runner | 100820 | [100820-android-runner.json](./100820-android-runner.json) |
+| Andromalius | 110880 | [110880-andromalius.json](./110880-andromalius.json) |
 | Andromeda Acolytes | 211400 | [211400-andromeda-acolytes.json](./211400-andromeda-acolytes.json) |
 | Andromeda Mission | 15571 | [15571-andromeda-mission.json](./15571-andromeda-mission.json) |
 | Andromeda Overdrive | 265420 | [265420-andromeda-overdrive.json](./265420-andromeda-overdrive.json) |
@@ -1771,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Spirit | 293088 | [293088-angel-spirit.json](./293088-angel-spirit.json) |
 | Angel Tears | 169444 | [169444-angel-tears.json](./169444-angel-tears.json) |
 | Angel Wings | 102168 | [102168-angel-wings.json](./102168-angel-wings.json) |
+| Angel, Devil, Elf and Me! | 111089 | [111089-angel-devil-elf-and-me.json](./111089-angel-devil-elf-and-me.json) |
 | Angel's Feather | 72737 | [72737-angels-feather.json](./72737-angels-feather.json) |
 | Angel's Feather: Kohaku no Hitomi | 44649 | [44649-angels-feather-kohaku-no-hitomi.json](./44649-angels-feather-kohaku-no-hitomi.json) |
 | Angel's Present: A Marl Kingdom Story | 76591 | [76591-angels-present-a-marl-kingdom-story.json](./76591-angels-present-a-marl-kingdom-story.json) |
@@ -2089,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anpanman to Asobo: ABC Kyoushitsu | 67283 | [67283-anpanman-to-asobo-abc-kyoushitsu.json](./67283-anpanman-to-asobo-abc-kyoushitsu.json) |
 | Anpanman to Asobo: AIUEO Kyoushitsu DX | 67285 | [67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json](./67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json) |
 | Anpanman to Asobu: AIUEO Kyoushitsu | 67284 | [67284-anpanman-to-asobu-aiueo-kyoushitsu.json](./67284-anpanman-to-asobu-aiueo-kyoushitsu.json) |
+| Anstorm | 111214 | [111214-anstorm.json](./111214-anstorm.json) |
 | Anstoss | 37126 | [37126-anstoss.json](./37126-anstoss.json) |
 | Anstoss 2: Gold Edition | 155090 | [155090-anstoss-2-gold-edition.json](./155090-anstoss-2-gold-edition.json) |
 | Anstoß Action | 98963 | [98963-ansto-action.json](./98963-ansto-action.json) |
@@ -2240,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
 | Apokalypsis | 30817 | [30817-apokalypsis.json](./30817-apokalypsis.json) |
 | Apollo 11 VR | 33145 | [33145-apollo-11-vr.json](./33145-apollo-11-vr.json) |
+| Apollo 11 VR HD | 111144 | [111144-apollo-11-vr-hd.json](./111144-apollo-11-vr-hd.json) |
 | Apollo 13 | 199021 | [199021-apollo-13.json](./199021-apollo-13.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | Apollo LM | 174288 | [174288-apollo-lm.json](./174288-apollo-lm.json) |
@@ -2749,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
 | Armor of Heroes | 140015 | [140015-armor-of-heroes.json](./140015-armor-of-heroes.json) |
 | Armored | 151201 | [151201-armored.json](./151201-armored.json) |
+| Armored Battle Crew | 111339 | [111339-armored-battle-crew.json](./111339-armored-battle-crew.json) |
 | Armored Brigade | 109035 | [109035-armored-brigade.json](./109035-armored-brigade.json) |
 | Armored Brigade Nation Pack: France - Belgium | 155059 | [155059-armored-brigade-nation-pack-france-belgium.json](./155059-armored-brigade-nation-pack-france-belgium.json) |
 | Armored Brigade Nation Pack: Italy - Yugoslavia | 155058 | [155058-armored-brigade-nation-pack-italy-yugoslavia.json](./155058-armored-brigade-nation-pack-italy-yugoslavia.json) |
