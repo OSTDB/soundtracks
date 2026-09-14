@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Dubai Cats | 334120 | [334120-100-dubai-cats.json](./334120-100-dubai-cats.json) |
 | 100 for Justice | 407343 | [407343-100-for-justice.json](./407343-100-for-justice.json) |
 | 100 Forest Cats | 301029 | [301029-100-forest-cats.json](./301029-100-forest-cats.json) |
+| 100 Goldmine Cats | 382336 | [382336-100-goldmine-cats.json](./382336-100-goldmine-cats.json) |
 | 100 Greece Cats | 334122 | [334122-100-greece-cats.json](./334122-100-greece-cats.json) |
 | 100 Hidden Cats: Ninja | 334123 | [334123-100-hidden-cats-ninja.json](./334123-100-hidden-cats-ninja.json) |
 | 100 Hidden Cats: Playground | 330560 | [330560-100-hidden-cats-playground.json](./330560-100-hidden-cats-playground.json) |
@@ -156,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Milan | 337608 | [337608-101-cats-in-milan.json](./337608-101-cats-in-milan.json) |
 | 101 Cats in Paris | 337610 | [337610-101-cats-in-paris.json](./337610-101-cats-in-paris.json) |
 | 101 Cats in Singapore | 326079 | [326079-101-cats-in-singapore.json](./326079-101-cats-in-singapore.json) |
+| 101 Dogs Hidden in Australia | 382346 | [382346-101-dogs-hidden-in-australia.json](./382346-101-dogs-hidden-in-australia.json) |
 | 101 Dogs Hidden in Istanbul | 401547 | [401547-101-dogs-hidden-in-istanbul.json](./401547-101-dogs-hidden-in-istanbul.json) |
 | 101 Dogs Hidden in Los Angeles | 386868 | [386868-101-dogs-hidden-in-los-angeles.json](./386868-101-dogs-hidden-in-los-angeles.json) |
 | 101 Kid's Brainy Games | 180204 | [180204-101-kids-brainy-games.json](./180204-101-kids-brainy-games.json) |
@@ -296,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 21 Steps to Soul | 27115 | [27115-21-steps-to-soul.json](./27115-21-steps-to-soul.json) |
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
+| 24 Lustful Hours | 382296 | [382296-24-lustful-hours.json](./382296-24-lustful-hours.json) |
 | 24 Solar Terms | 158663 | [158663-24-solar-terms.json](./158663-24-solar-terms.json) |
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
