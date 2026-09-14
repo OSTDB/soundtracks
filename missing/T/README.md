@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Builder | 75141 | [75141-tap-tap-builder.json](./75141-tap-tap-builder.json) |
 | Tap Tap Dash | 88877 | [88877-tap-tap-dash.json](./88877-tap-tap-dash.json) |
 | Tap Tap Dunk | 102161 | [102161-tap-tap-dunk.json](./102161-tap-tap-dunk.json) |
+| Tap Tap Goose | 413077 | [413077-tap-tap-goose.json](./413077-tap-tap-goose.json) |
 | Tap Tap Radiation | 66156 | [66156-tap-tap-radiation.json](./66156-tap-tap-radiation.json) |
 | Tap Tap Reloaded | 280223 | [280223-tap-tap-reloaded.json](./280223-tap-tap-reloaded.json) |
 | Tap Tap Revenge 3 | 67263 | [67263-tap-tap-revenge-3.json](./67263-tap-tap-revenge-3.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleforum | 226605 | [226605-teleforum.json](./226605-teleforum.json) |
 | Teleglitch: Die More Edition | 7884 | [7884-teleglitch-die-more-edition.json](./7884-teleglitch-die-more-edition.json) |
 | Telegraph Sudoku & Kakuro | 85429 | [85429-telegraph-sudoku-and-kakuro.json](./85429-telegraph-sudoku-and-kakuro.json) |
+| Telemount | 413083 | [413083-telemount.json](./413083-telemount.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
 | Telescape | 267059 | [267059-telescape.json](./267059-telescape.json) |
@@ -5239,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiles Hop: Forever Dancing Ball | 108439 | [108439-tiles-hop-forever-dancing-ball.json](./108439-tiles-hop-forever-dancing-ball.json) |
 | Tiles in Time | 336547 | [336547-tiles-in-time.json](./336547-tiles-in-time.json) |
 | Tiles Match | 314876 | [314876-tiles-match.json](./314876-tiles-match.json) |
+| Tileshire | 413042 | [413042-tileshire.json](./413042-tileshire.json) |
 | Tiling Towers | 249811 | [249811-tiling-towers.json](./249811-tiling-towers.json) |
 | Tilt Brush | 36215 | [36215-tilt-brush.json](./36215-tilt-brush.json) |
 | Tilted: A Tale of Refraction | 51947 | [51947-tilted-a-tale-of-refraction.json](./51947-tilted-a-tale-of-refraction.json) |
@@ -6274,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of Salem | 9658 | [9658-town-of-salem.json](./9658-town-of-salem.json) |
 | Town of Sin | 175994 | [175994-town-of-sin.json](./175994-town-of-sin.json) |
 | Town of Tides | 198540 | [198540-town-of-tides.json](./198540-town-of-tides.json) |
+| Town of Tinysville | 413049 | [413049-town-of-tinysville.json](./413049-town-of-tinysville.json) |
 | Town of Zoz | 335295 | [335295-town-of-zoz.json](./335295-town-of-zoz.json) |
 | Town Police Simulator | 302390 | [302390-town-police-simulator.json](./302390-town-police-simulator.json) |
 | Town With No Name | 69874 | [69874-town-with-no-name.json](./69874-town-with-no-name.json) |
@@ -6371,6 +6375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Panic London | 343799 | [343799-traffic-panic-london.json](./343799-traffic-panic-london.json) |
 | Traffic Racer Highway Online | 250350 | [250350-traffic-racer-highway-online.json](./250350-traffic-racer-highway-online.json) |
 | Traffic Rush | 87886 | [87886-traffic-rush.json](./87886-traffic-rush.json) |
+| Traffic Rush: Ultimate Drive | 413090 | [413090-traffic-rush-ultimate-drive.json](./413090-traffic-rush-ultimate-drive.json) |
 | Traffix | 118755 | [118755-traffix.json](./118755-traffix.json) |
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
 | Tragedy of Prince Rupert | 50891 | [50891-tragedy-of-prince-rupert.json](./50891-tragedy-of-prince-rupert.json) |
