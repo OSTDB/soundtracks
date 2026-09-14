@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
 | Last Bone | 406785 | [406785-last-bone.json](./406785-last-bone.json) |
 | Last Breath | 413756 | [413756-last-breath.json](./413756-last-breath.json) |
+| Last Bullet | 405595 | [405595-last-bullet.json](./405595-last-bullet.json) |
 | Last Bus Home | 208617 | [208617-last-bus-home.json](./208617-last-bus-home.json) |
 | Last Call | 175890 | [175890-last-call.json](./175890-last-call.json) |
 | Last Call BBS | 205064 | [205064-last-call-bbs.json](./205064-last-call-bbs.json) |
@@ -1457,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Crash | 25759 | [25759-lizard-crash.json](./25759-lizard-crash.json) |
 | Lizard Lady vs the Cats | 152856 | [152856-lizard-lady-vs-the-cats.json](./152856-lizard-lady-vs-the-cats.json) |
 | Lizard Quest! | 244471 | [244471-lizard-quest.json](./244471-lizard-quest.json) |
+| Lizard Slayer | 405618 | [405618-lizard-slayer.json](./405618-lizard-slayer.json) |
 | Lizard Tower: The Abyss | 283751 | [283751-lizard-tower-the-abyss.json](./283751-lizard-tower-the-abyss.json) |
 | Lizardquest-Alien waters | 115035 | [115035-lizardquest-alien-waters.json](./115035-lizardquest-alien-waters.json) |
 | Lizards Must Die | 264773 | [264773-lizards-must-die.json](./264773-lizards-must-die.json) |
@@ -1524,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locke(d) | 231365 | [231365-locke-d.json](./231365-locke-d.json) |
 | Locked Arcadia | 261824 | [261824-locked-arcadia.json](./261824-locked-arcadia.json) |
 | Locked in Love: The Office | 407465 | [407465-locked-in-love-the-office.json](./407465-locked-in-love-the-office.json) |
+| Locked Together | 405617 | [405617-locked-together.json](./405617-locked-together.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
 | Loco-Sort | 272265 | [272265-loco-sort.json](./272265-loco-sort.json) |
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
