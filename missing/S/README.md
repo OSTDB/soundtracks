@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Matching Puzzles | 231904 | [231904-shadow-matching-puzzles.json](./231904-shadow-matching-puzzles.json) |
 | Shadow Mist | 28905 | [28905-shadow-mist.json](./28905-shadow-mist.json) |
 | Shadow Monarchs Rise | 374071 | [374071-shadow-monarchs-rise.json](./374071-shadow-monarchs-rise.json) |
+| Shadow Ninja: Apocalypse | 34777 | [34777-shadow-ninja-apocalypse.json](./34777-shadow-ninja-apocalypse.json) |
 | Shadow of a Soul | 65465 | [65465-shadow-of-a-soul.json](./65465-shadow-of-a-soul.json) |
 | Shadow of Asha | 203542 | [203542-shadow-of-asha.json](./203542-shadow-of-asha.json) |
 | Shadow of Atlantis | 298294 | [298294-shadow-of-atlantis.json](./298294-shadow-of-atlantis.json) |
@@ -2402,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silversword | 101539 | [101539-silversword.json](./101539-silversword.json) |
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
 | Silverybield Foss | 138778 | [138778-silverybield-foss.json](./138778-silverybield-foss.json) |
+| Sim Junta | 34748 | [34748-sim-junta.json](./34748-sim-junta.json) |
 | Sim Theme Park | 12484 | [12484-sim-theme-park.json](./12484-sim-theme-park.json) |
 | SimAirport | 27686 | [27686-simairport.json](./27686-simairport.json) |
 | Simajo: The Travel Mystery Game | 54358 | [54358-simajo-the-travel-mystery-game.json](./54358-simajo-the-travel-mystery-game.json) |
@@ -2612,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Fred | 270668 | [270668-sir-fred.json](./270668-sir-fred.json) |
 | Sir Stretchalot: The Plight of the Elves | 216227 | [216227-sir-stretchalot-the-plight-of-the-elves.json](./216227-sir-stretchalot-the-plight-of-the-elves.json) |
 | Sir Whoopass & Switchball HD Bundle | 244792 | [244792-sir-whoopass-and-switchball-hd-bundle.json](./244792-sir-whoopass-and-switchball-hd-bundle.json) |
+| Sir! I'd Like to Report a Bug! | 34702 | [34702-sir-id-like-to-report-a-bug.json](./34702-sir-id-like-to-report-a-bug.json) |
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
 | Siralim 3 | 100422 | [100422-siralim-3.json](./100422-siralim-3.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
@@ -3091,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slippery ice | 177008 | [177008-slippery-ice.json](./177008-slippery-ice.json) |
 | Slippery Richard!: He's Taller Than My Husband | 225100 | [225100-slippery-richard-hes-taller-than-my-husband.json](./225100-slippery-richard-hes-taller-than-my-husband.json) |
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
+| Slippy Slug | 34671 | [34671-slippy-slug.json](./34671-slippy-slug.json) |
 | SlipSlop | 119736 | [119736-slipslop.json](./119736-slipslop.json) |
 | SlipSpeed | 132818 | [132818-slipspeed.json](./132818-slipspeed.json) |
 | Slither.io | 239311 | [239311-slither-io.json](./239311-slither-io.json) |
@@ -3383,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
 | Snezhinka: Sentinel Girls 2 | 284892 | [284892-snezhinka-sentinel-girls-2.json](./284892-snezhinka-sentinel-girls-2.json) |
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
+| Snik | 34795 | [34795-snik.json](./34795-snik.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
 | Sniper 3D: Fun FPS Shooting | 87378 | [87378-sniper-3d-fun-fps-shooting.json](./87378-sniper-3d-fun-fps-shooting.json) |
 | Sniper and Spotter Climbing a Tower | 125950 | [125950-sniper-and-spotter-climbing-a-tower.json](./125950-sniper-and-spotter-climbing-a-tower.json) |
@@ -4621,6 +4626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
 | Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
 | Spaghet 2: Al Dente Chapter | 168862 | [168862-spaghet-2-al-dente-chapter.json](./168862-spaghet-2-al-dente-chapter.json) |
+| Spakoyno: Back to USSR 2.0 | 34796 | [34796-spakoyno-back-to-ussr-2-0.json](./34796-spakoyno-back-to-ussr-2-0.json) |
 | Spam Text | 214196 | [214196-spam-text.json](./214196-spam-text.json) |
 | Spammerina | 309879 | [309879-spammerina.json](./309879-spammerina.json) |
 | Spangled | 243713 | [243713-spangled.json](./243713-spangled.json) |
@@ -5293,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staff Runner | 273409 | [273409-staff-runner.json](./273409-staff-runner.json) |
 | Staffer Case: A Supernatural Mystery Adventure | 215713 | [215713-staffer-case-a-supernatural-mystery-adventure.json](./215713-staffer-case-a-supernatural-mystery-adventure.json) |
 | Stage Break Idle | 369549 | [369549-stage-break-idle.json](./369549-stage-break-idle.json) |
+| Stage Presence | 34744 | [34744-stage-presence.json](./34744-stage-presence.json) |
 | Stagehand: A Reverse Platformer | 97306 | [97306-stagehand-a-reverse-platformer.json](./97306-stagehand-a-reverse-platformer.json) |
 | Stages of Life | 250397 | [250397-stages-of-life.json](./250397-stages-of-life.json) |
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
@@ -5896,9 +5903,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Judgment | 329589 | [329589-steel-judgment.json](./329589-steel-judgment.json) |
 | Steel Machine | 46566 | [46566-steel-machine.json](./46566-steel-machine.json) |
 | Steel Manticore | 295016 | [295016-steel-manticore.json](./295016-steel-manticore.json) |
+| Steel Ocean | 34752 | [34752-steel-ocean.json](./34752-steel-ocean.json) |
 | Steel Panthers II: Modern Battles - Campaign Disk | 77314 | [77314-steel-panthers-ii-modern-battles-campaign-disk.json](./77314-steel-panthers-ii-modern-battles-campaign-disk.json) |
 | Steel Racer | 250952 | [250952-steel-racer.json](./250952-steel-racer.json) |
 | Steel Ranger | 179658 | [179658-steel-ranger.json](./179658-steel-ranger.json) |
+| Steel Rivals | 34766 | [34766-steel-rivals.json](./34766-steel-rivals.json) |
 | Steel Skirmish: Reloaded | 379347 | [379347-steel-skirmish-reloaded.json](./379347-steel-skirmish-reloaded.json) |
 | Steel Soul | 294133 | [294133-steel-soul.json](./294133-steel-soul.json) |
 | Steel Storm: Burning Retribution | 16243 | [16243-steel-storm-burning-retribution.json](./16243-steel-storm-burning-retribution.json) |
@@ -5924,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella Gladio | 326075 | [326075-stella-gladio.json](./326075-stella-gladio.json) |
 | Stella Glow | 11459 | [11459-stella-glow.json](./11459-stella-glow.json) |
 | Stellanova | 216264 | [216264-stellanova.json](./216264-stellanova.json) |
+| Stellar 2D | 34763 | [34763-stellar-2d.json](./34763-stellar-2d.json) |
 | Stellar Bewitching | 314057 | [314057-stellar-bewitching.json](./314057-stellar-bewitching.json) |
 | Stellar Blade x Nier: Automata | 317626 | [317626-stellar-blade-x-nier-automata.json](./317626-stellar-blade-x-nier-automata.json) |
 | Stellar Dawn | 67338 | [67338-stellar-dawn.json](./67338-stellar-dawn.json) |
@@ -6998,6 +7008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super High Ball: Pinball Platformer | 133372 | [133372-super-high-ball-pinball-platformer.json](./133372-super-high-ball-pinball-platformer.json) |
 | Super Hiking Simulator 2020: After | 172117 | [172117-super-hiking-simulator-2020-after.json](./172117-super-hiking-simulator-2020-after.json) |
 | Super Hiking Simulator 2020: Puzzles | 163422 | [163422-super-hiking-simulator-2020-puzzles.json](./163422-super-hiking-simulator-2020-puzzles.json) |
+| Super Hipster Lumberjack | 34800 | [34800-super-hipster-lumberjack.json](./34800-super-hipster-lumberjack.json) |
 | Super Hockey Ball | 109642 | [109642-super-hockey-ball.json](./109642-super-hockey-ball.json) |
 | Super Hoodie Bros | 378771 | [378771-super-hoodie-bros.json](./378771-super-hoodie-bros.json) |
 | Super Hook Girl | 307969 | [307969-super-hook-girl.json](./307969-super-hook-girl.json) |
