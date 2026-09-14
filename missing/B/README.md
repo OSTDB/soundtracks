@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blooded Fields | 217865 | [217865-blooded-fields.json](./217865-blooded-fields.json) |
 | Bloodfire | 367982 | [367982-bloodfire.json](./367982-bloodfire.json) |
 | BloodFlood | 265407 | [265407-bloodflood.json](./265407-bloodflood.json) |
+| Bloodfront | 391730 | [391730-bloodfront.json](./391730-bloodfront.json) |
 | Bloodgeon | 125444 | [125444-bloodgeon.json](./125444-bloodgeon.json) |
 | Bloodia | 118394 | [118394-bloodia.json](./118394-bloodia.json) |
 | BloodKeeper | 143037 | [143037-bloodkeeper.json](./143037-bloodkeeper.json) |
