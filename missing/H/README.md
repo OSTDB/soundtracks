@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Rats: Parasomnia | 127919 | [127919-half-rats-parasomnia.json](./127919-half-rats-parasomnia.json) |
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
 | Halfquake Trilogy | 127942 | [127942-halfquake-trilogy.json](./127942-halfquake-trilogy.json) |
+| Halley's Big Catch | 417530 | [417530-halleys-big-catch.json](./417530-halleys-big-catch.json) |
 | Halley's Dream | 169372 | [169372-halleys-dream.json](./169372-halleys-dream.json) |
 | Hallo Spaceboy | 102217 | [102217-hallo-spaceboy.json](./102217-hallo-spaceboy.json) |
 | Hallow Maze | 336525 | [336525-hallow-maze.json](./336525-hallow-maze.json) |
@@ -167,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Tripeaks | 61047 | [61047-halloween-tripeaks.json](./61047-halloween-tripeaks.json) |
 | Halloween Trouble 2 | 155647 | [155647-halloween-trouble-2.json](./155647-halloween-trouble-2.json) |
 | Halloween Trouble 6: Pumpkin Rampage | 371900 | [371900-halloween-trouble-6-pumpkin-rampage.json](./371900-halloween-trouble-6-pumpkin-rampage.json) |
+| Halloween Trouble 7: The Apprentice | 417521 | [417521-halloween-trouble-7-the-apprentice.json](./417521-halloween-trouble-7-the-apprentice.json) |
 | Halloween: The Twelve Cards Curse | 294436 | [294436-halloween-the-twelve-cards-curse.json](./294436-halloween-the-twelve-cards-curse.json) |
 | Hallrunner | 135866 | [135866-hallrunner.json](./135866-hallrunner.json) |
 | Halls of Death | 229363 | [229363-halls-of-death.json](./229363-halls-of-death.json) |
@@ -861,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
 | Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
+| Helga the Viking Warrior 8: Valhalla's Last War | 417509 | [417509-helga-the-viking-warrior-8-valhallas-last-war.json](./417509-helga-the-viking-warrior-8-valhallas-last-war.json) |
 | Heli Commando in Hell | 124752 | [124752-heli-commando-in-hell.json](./124752-heli-commando-in-hell.json) |
 | Heli Golf | 150602 | [150602-heli-golf.json](./150602-heli-golf.json) |
 | Heli Good Spelunker | 67975 | [67975-heli-good-spelunker.json](./67975-heli-good-spelunker.json) |
@@ -2197,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host 714 | 153440 | [153440-host-714.json](./153440-host-714.json) |
 | Host Master and the Conquest of Humor | 62186 | [62186-host-master-and-the-conquest-of-humor.json](./62186-host-master-and-the-conquest-of-humor.json) |
 | Host Master Deux: Quest for Identity | 62185 | [62185-host-master-deux-quest-for-identity.json](./62185-host-master-deux-quest-for-identity.json) |
+| Hostage Heart | 417565 | [417565-hostage-heart.json](./417565-hostage-heart.json) |
 | Hostyle | 397700 | [397700-hostyle.json](./397700-hostyle.json) |
 | Hot Action Pak | 56454 | [56454-hot-action-pak.json](./56454-hot-action-pak.json) |
 | Hot Air | 152908 | [152908-hot-air.json](./152908-hot-air.json) |
