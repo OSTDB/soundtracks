@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceans | 224563 | [224563-oceans.json](./224563-oceans.json) |
 | Oceans Below | 37124 | [37124-oceans-below.json](./37124-oceans-below.json) |
 | Oceanside | 274198 | [274198-oceanside.json](./274198-oceanside.json) |
+| Oceanside Whispers | 390676 | [390676-oceanside-whispers.json](./390676-oceanside-whispers.json) |
 | Oceanspirit Danish | 57102 | [57102-oceanspirit-danish.json](./57102-oceanspirit-danish.json) |
 | Ocero 3D | 341497 | [341497-ocero-3d.json](./341497-ocero-3d.json) |
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
@@ -686,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
 | One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
 | One Shot | 179111 | [179111-one-shot.json](./179111-one-shot.json) |
+| One Shot Challenge | 390665 | [390665-one-shot-challenge.json](./390665-one-shot-challenge.json) |
 | One Shot Gladiator | 292012 | [292012-one-shot-gladiator.json](./292012-one-shot-gladiator.json) |
 | One Shot in the Dark, Now I'm Dead. | 159335 | [159335-one-shot-in-the-dark-now-im-dead.json](./159335-one-shot-in-the-dark-now-im-dead.json) |
 | One Shot Outlaw | 212461 | [212461-one-shot-outlaw.json](./212461-one-shot-outlaw.json) |
@@ -1179,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Life on Water | 276186 | [276186-our-life-on-water.json](./276186-our-life-on-water.json) |
 | Our Life: Beginnings & Always - Baxter's Story | 248049 | [248049-our-life-beginnings-and-always-baxters-story.json](./248049-our-life-beginnings-and-always-baxters-story.json) |
 | Our Lovely Escape | 111878 | [111878-our-lovely-escape.json](./111878-our-lovely-escape.json) |
+| Our Metal Bowl | 390653 | [390653-our-metal-bowl.json](./390653-our-metal-bowl.json) |
 | Our Mind | 238496 | [238496-our-mind.json](./238496-our-mind.json) |
 | Our Ninja World | 199106 | [199106-our-ninja-world.json](./199106-our-ninja-world.json) |
 | Our Place | 179155 | [179155-our-place.json](./179155-our-place.json) |
