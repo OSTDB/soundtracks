@@ -2398,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Marbles | 258441 | [258441-mighty-marbles.json](./258441-mighty-marbles.json) |
 | Mighty Math Carnival Countdown | 129156 | [129156-mighty-math-carnival-countdown.json](./129156-mighty-math-carnival-countdown.json) |
 | Mighty Mike (Power Pete) | 72658 | [72658-mighty-mike-power-pete.json](./72658-mighty-mike-power-pete.json) |
+| Mighty Monster Mayhem | 29622 | [29622-mighty-monster-mayhem.json](./29622-mighty-monster-mayhem.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
 | Mighty Quest: Rogue Palace | 248635 | [248635-mighty-quest-rogue-palace.json](./248635-mighty-quest-rogue-palace.json) |
@@ -4115,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplication Dragons | 103545 | [103545-multiplication-dragons.json](./103545-multiplication-dragons.json) |
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
 | Multirotor Sim 2 | 81234 | [81234-multirotor-sim-2.json](./81234-multirotor-sim-2.json) |
+| Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
 | MultiVersus: MVP Pack 2 | 316065 | [316065-multiversus-mvp-pack-2.json](./316065-multiversus-mvp-pack-2.json) |
 | MultiVersus: Season 4 | 330139 | [330139-multiversus-season-4.json](./330139-multiversus-season-4.json) |
 | MultiVersus: Season 5 | 330143 | [330143-multiversus-season-5.json](./330143-multiversus-season-5.json) |
@@ -4663,6 +4665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Masters: Psycho Train - Deluxe Edition | 35884 | [35884-mystery-masters-psycho-train-deluxe-edition.json](./35884-mystery-masters-psycho-train-deluxe-edition.json) |
 | Mystery Masters: Treasures of Mystery Collection | 206747 | [206747-mystery-masters-treasures-of-mystery-collection.json](./206747-mystery-masters-treasures-of-mystery-collection.json) |
 | Mystery Masters: Wicked Worlds Collection | 201860 | [201860-mystery-masters-wicked-worlds-collection.json](./201860-mystery-masters-wicked-worlds-collection.json) |
+| Mystery Mine | 30134 | [30134-mystery-mine.json](./30134-mystery-mine.json) |
 | Mystery Museum | 146858 | [146858-mystery-museum.json](./146858-mystery-museum.json) |
 | Mystery of Camp Enigma | 147447 | [147447-mystery-of-camp-enigma.json](./147447-mystery-of-camp-enigma.json) |
 | Mystery of Gevaudan | 332448 | [332448-mystery-of-gevaudan.json](./332448-mystery-of-gevaudan.json) |
