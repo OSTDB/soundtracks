@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T00:48:48.995Z",
-  "total_missing": 67904,
+  "generated_at": "2026-09-14T01:01:32.640Z",
+  "total_missing": 67918,
   "games": [
     {
       "igdb_id": 306086,
@@ -4053,11 +4053,6 @@
       "file": "missing/A/181878-adulting.json"
     },
     {
-      "igdb_id": 301596,
-      "game_name": "Aduro",
-      "file": "missing/A/301596-aduro.json"
-    },
-    {
       "igdb_id": 305203,
       "game_name": "Adv770",
       "file": "missing/A/305203-adv770.json"
@@ -6821,6 +6816,11 @@
       "igdb_id": 193485,
       "game_name": "AirFighter",
       "file": "missing/A/193485-airfighter.json"
+    },
+    {
+      "igdb_id": 90201,
+      "game_name": "AirFMC",
+      "file": "missing/A/90201-airfmc.json"
     },
     {
       "igdb_id": 47285,
@@ -30468,6 +30468,11 @@
       "file": "missing/B/197891-bitch-hell.json"
     },
     {
+      "igdb_id": 90174,
+      "game_name": "Bitcoin",
+      "file": "missing/B/90174-bitcoin.json"
+    },
+    {
       "igdb_id": 68665,
       "game_name": "Bitcoin Collector: Spinners Attack",
       "file": "missing/B/68665-bitcoin-collector-spinners-attack.json"
@@ -36716,6 +36721,11 @@
       "igdb_id": 172101,
       "game_name": "Brain Off",
       "file": "missing/B/172101-brain-off.json"
+    },
+    {
+      "igdb_id": 90203,
+      "game_name": "Brain Puzzle",
+      "file": "missing/B/90203-brain-puzzle.json"
     },
     {
       "igdb_id": 158666,
@@ -43371,6 +43381,11 @@
       "igdb_id": 43284,
       "game_name": "Cardinal Arc: Konton no Fuusatsu",
       "file": "missing/C/43284-cardinal-arc-konton-no-fuusatsu.json"
+    },
+    {
+      "igdb_id": 90169,
+      "game_name": "Cardinal Cross",
+      "file": "missing/C/90169-cardinal-cross.json"
     },
     {
       "igdb_id": 87213,
@@ -101401,6 +101416,11 @@
       "igdb_id": 42551,
       "game_name": "Football Fury",
       "file": "missing/F/42551-football-fury.json"
+    },
+    {
+      "igdb_id": 90206,
+      "game_name": "Football General Manager",
+      "file": "missing/F/90206-football-general-manager.json"
     },
     {
       "igdb_id": 161366,
@@ -164398,6 +164418,11 @@
       "file": "missing/M/299770-maiden-voyage.json"
     },
     {
+      "igdb_id": 90257,
+      "game_name": "Maidens of a Hollow Dream",
+      "file": "missing/M/90257-maidens-of-a-hollow-dream.json"
+    },
+    {
       "igdb_id": 253904,
       "game_name": "MaidGardener",
       "file": "missing/M/253904-maidgardener.json"
@@ -177558,6 +177583,11 @@
       "file": "missing/M/113658-moe-hypnotist-share-dreams-with-you.json"
     },
     {
+      "igdb_id": 90253,
+      "game_name": "Moe Jigsaw",
+      "file": "missing/M/90253-moe-jigsaw.json"
+    },
+    {
       "igdb_id": 162921,
       "game_name": "Moe Jigsaw: Abnormal Lovers Pack",
       "file": "missing/M/162921-moe-jigsaw-abnormal-lovers-pack.json"
@@ -189463,6 +189493,11 @@
       "file": "missing/N/51247-neverball.json"
     },
     {
+      "igdb_id": 90248,
+      "game_name": "NeverBound",
+      "file": "missing/N/90248-neverbound.json"
+    },
+    {
       "igdb_id": 166701,
       "game_name": "NeverDeath",
       "file": "missing/N/166701-neverdeath.json"
@@ -194801,6 +194836,11 @@
       "igdb_id": 112433,
       "game_name": "Oakwood",
       "file": "missing/O/112433-oakwood.json"
+    },
+    {
+      "igdb_id": 90196,
+      "game_name": "Oakwood Academy of Spells and Sorcery",
+      "file": "missing/O/90196-oakwood-academy-of-spells-and-sorcery.json"
     },
     {
       "igdb_id": 34478,
@@ -219503,6 +219543,11 @@
       "file": "missing/P/175431-pureskate-2.json"
     },
     {
+      "igdb_id": 90254,
+      "game_name": "Purgatory Fell",
+      "file": "missing/P/90254-purgatory-fell.json"
+    },
+    {
       "igdb_id": 298048,
       "game_name": "Purgatory Survivors",
       "file": "missing/P/298048-purgatory-survivors.json"
@@ -236138,6 +236183,11 @@
       "file": "missing/R/238497-ruslicstan-invades.json"
     },
     {
+      "igdb_id": 90212,
+      "game_name": "Russia Horror 20!8",
+      "file": "missing/R/90212-russia-horror-20-8.json"
+    },
+    {
       "igdb_id": 96887,
       "game_name": "Russian AYE Horror",
       "file": "missing/R/96887-russian-aye-horror.json"
@@ -236181,6 +236231,11 @@
       "igdb_id": 96614,
       "game_name": "Russian Peace Duck: Take My Nalogi",
       "file": "missing/R/96614-russian-peace-duck-take-my-nalogi.json"
+    },
+    {
+      "igdb_id": 90177,
+      "game_name": "Russian Prisoner VS Nazi Zombies",
+      "file": "missing/R/90177-russian-prisoner-vs-nazi-zombies.json"
     },
     {
       "igdb_id": 248910,
@@ -307678,6 +307733,11 @@
       "file": "missing/T/9453-tower-bloxx-deluxe.json"
     },
     {
+      "igdb_id": 90193,
+      "game_name": "Tower climber",
+      "file": "missing/T/90193-tower-climber.json"
+    },
+    {
       "igdb_id": 208379,
       "game_name": "Tower Defense King",
       "file": "missing/T/208379-tower-defense-king.json"
@@ -314571,6 +314631,11 @@
       "igdb_id": 27641,
       "game_name": "UK Truck Simulator",
       "file": "missing/U/27641-uk-truck-simulator.json"
+    },
+    {
+      "igdb_id": 90260,
+      "game_name": "Ukhar",
+      "file": "missing/U/90260-ukhar.json"
     },
     {
       "igdb_id": 246103,
@@ -327121,6 +327186,11 @@
       "igdb_id": 93595,
       "game_name": "What's Shenmue?",
       "file": "missing/W/93595-whats-shenmue.json"
+    },
+    {
+      "igdb_id": 90182,
+      "game_name": "What's the Difference? Spot It",
+      "file": "missing/W/90182-whats-the-difference-spot-it.json"
     },
     {
       "igdb_id": 200140,
