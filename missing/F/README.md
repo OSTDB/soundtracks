@@ -3131,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Gensoukyou Chronicle | 206942 | [206942-fushigi-no-gensoukyou-chronicle.json](./206942-fushigi-no-gensoukyou-chronicle.json) |
 | Fushigi no Gensoukyou Origin: Hajimari no Kamikakushi-hen | 206941 | [206941-fushigi-no-gensoukyou-origin-hajimari-no-kamikakushi-hen.json](./206941-fushigi-no-gensoukyou-origin-hajimari-no-kamikakushi-hen.json) |
 | Fushigi no Gensoukyou: Another Face | 206943 | [206943-fushigi-no-gensoukyou-another-face.json](./206943-fushigi-no-gensoukyou-another-face.json) |
+| Fushigi no Umi no Nadia: Gekichin! Garfish | 385710 | [385710-fushigi-no-umi-no-nadia-gekichin-garfish.json](./385710-fushigi-no-umi-no-nadia-gekichin-garfish.json) |
 | Fushigi no Yume no Alice | 66157 | [66157-fushigi-no-yume-no-alice.json](./66157-fushigi-no-yume-no-alice.json) |
 | Fushigi Yuugi DS | 68021 | [68021-fushigi-yuugi-ds.json](./68021-fushigi-yuugi-ds.json) |
 | Fushigi Yuugi Genbu Kaiden Gaiden: Kagami no Miko | 62179 | [62179-fushigi-yuugi-genbu-kaiden-gaiden-kagami-no-miko.json](./62179-fushigi-yuugi-genbu-kaiden-gaiden-kagami-no-miko.json) |
