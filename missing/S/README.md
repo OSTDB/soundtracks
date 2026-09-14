@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
 | Sasa | 48602 | [48602-sasa.json](./48602-sasa.json) |
 | Sasayu Meshiki | 357807 | [357807-sasayu-meshiki.json](./357807-sasayu-meshiki.json) |
+| Satan II | 380552 | [380552-satan-ii.json](./380552-satan-ii.json) |
 | Satan's Dungeon | 329593 | [329593-satans-dungeon.json](./329593-satans-dungeon.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
 | Satan's Zombies | 233230 | [233230-satans-zombies.json](./233230-satans-zombies.json) |
@@ -2272,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
 | Showtime: Vampire Diaries | 241370 | [241370-showtime-vampire-diaries.json](./241370-showtime-vampire-diaries.json) |
+| Showy Homes | 380521 | [380521-showy-homes.json](./380521-showy-homes.json) |
 | Shox: Rally Reinvented | 8265 | [8265-shox-rally-reinvented.json](./8265-shox-rally-reinvented.json) |
 | SHPR | 211198 | [211198-shpr.json](./211198-shpr.json) |
 | Shrapnel City 2096: Trapped In The Future! | 308237 | [308237-shrapnel-city-2096-trapped-in-the-future.json](./308237-shrapnel-city-2096-trapped-in-the-future.json) |
@@ -3024,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyshine's Bedlam: Deluxe Edition | 51905 | [51905-skyshines-bedlam-deluxe-edition.json](./51905-skyshines-bedlam-deluxe-edition.json) |
 | SkySouls | 262947 | [262947-skysouls.json](./262947-skysouls.json) |
 | Skystead Christmas | 327864 | [327864-skystead-christmas.json](./327864-skystead-christmas.json) |
+| Skytail | 380571 | [380571-skytail.json](./380571-skytail.json) |
 | Skyvern | 350422 | [350422-skyvern.json](./350422-skyvern.json) |
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
 | Skyward | 193447 | [193447-skyward.json](./193447-skyward.json) |
@@ -3817,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Blanka | 150613 | [150613-sol-blanka.json](./150613-sol-blanka.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
 | Sol Hemochroma | 138153 | [138153-sol-hemochroma.json](./138153-sol-hemochroma.json) |
+| Sol Protocol | 380566 | [380566-sol-protocol.json](./380566-sol-protocol.json) |
 | Sol Raiders | 188554 | [188554-sol-raiders.json](./188554-sol-raiders.json) |
 | Sol Source Online | 26718 | [26718-sol-source-online.json](./26718-sol-source-online.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
