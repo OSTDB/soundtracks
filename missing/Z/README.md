@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zusi 3: Aerosoft Edition | 117612 | [117612-zusi-3-aerosoft-edition.json](./117612-zusi-3-aerosoft-edition.json) |
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
 | Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
+| Zwerg: A Tale of Beer and Hunger | 413710 | [413710-zwerg-a-tale-of-beer-and-hunger.json](./413710-zwerg-a-tale-of-beer-and-hunger.json) |
 | ZX Asteroids | 319602 | [319602-zx-asteroids.json](./319602-zx-asteroids.json) |
 | ZXC | 266803 | [266803-zxc.json](./266803-zxc.json) |
 | ZxZ | 307621 | [307621-zxz.json](./307621-zxz.json) |
