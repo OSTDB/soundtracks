@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Marbles: Autumn | 337628 | [337628-season-marbles-autumn.json](./337628-season-marbles-autumn.json) |
 | Season Marbles: Summer | 337629 | [337629-season-marbles-summer.json](./337629-season-marbles-summer.json) |
 | Season Marbles: Winter | 337627 | [337627-season-marbles-winter.json](./337627-season-marbles-winter.json) |
+| Seasonaut | 384671 | [384671-seasonaut.json](./384671-seasonaut.json) |
 | Seasons of Chiba | 351636 | [351636-seasons-of-chiba.json](./351636-seasons-of-chiba.json) |
 | Seasons of War | 58746 | [58746-seasons-of-war.json](./58746-seasons-of-war.json) |
 | Seasons Pairs | 96030 | [96030-seasons-pairs.json](./96030-seasons-pairs.json) |
@@ -1336,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Separator | 411718 | [411718-separator.json](./411718-separator.json) |
 | Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
 | Sephiria | 278379 | [278379-sephiria.json](./278379-sephiria.json) |
+| Septem: The Preparation | 384639 | [384639-septem-the-preparation.json](./384639-septem-the-preparation.json) |
 | September is Halfway Over | 131552 | [131552-september-is-halfway-over.json](./131552-september-is-halfway-over.json) |
 | Septic | 324321 | [324321-septic.json](./324321-septic.json) |
 | Septic Savages | 30853 | [30853-septic-savages.json](./30853-septic-savages.json) |
@@ -2759,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Seals | 384533 | [384533-six-seals.json](./384533-six-seals.json) |
 | Six Sides of the World Enhanced | 147980 | [147980-six-sides-of-the-world-enhanced.json](./147980-six-sides-of-the-world-enhanced.json) |
 | Six Textures #3 | 321123 | [321123-six-textures-3.json](./321123-six-textures-3.json) |
+| Six-Chamber Champion | 384663 | [384663-six-chamber-champion.json](./384663-six-chamber-champion.json) |
 | Six-Guns: Gang Showdown | 38991 | [38991-six-guns-gang-showdown.json](./38991-six-guns-gang-showdown.json) |
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
 | Six! | 88774 | [88774-six.json](./88774-six.json) |
@@ -2961,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyDive Racer | 233756 | [233756-skydive-racer.json](./233756-skydive-racer.json) |
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
 | SkyDrift | 9424 | [9424-skydrift.json](./9424-skydrift.json) |
+| SkyDrop | 384672 | [384672-skydrop.json](./384672-skydrop.json) |
 | Skye | 408039 | [408039-skye.json](./408039-skye.json) |
 | Skye in the Sky | 359416 | [359416-skye-in-the-sky.json](./359416-skye-in-the-sky.json) |
 | Skye Revival | 329399 | [329399-skye-revival.json](./329399-skye-revival.json) |
@@ -3199,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimoid | 185608 | [185608-slimoid.json](./185608-slimoid.json) |
 | Slimy | 181321 | [181321-slimy.json](./181321-slimy.json) |
 | Slimy Snail Ride | 106571 | [106571-slimy-snail-ride.json](./106571-slimy-snail-ride.json) |
+| Slimy Timey | 384673 | [384673-slimy-timey.json](./384673-slimy-timey.json) |
 | Sling | 261801 | [261801-sling.json](./261801-sling.json) |
 | Sling Drift | 102767 | [102767-sling-drift.json](./102767-sling-drift.json) |
 | Sling Junior | 261800 | [261800-sling-junior.json](./261800-sling-junior.json) |
@@ -8211,6 +8216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Bar | 392908 | [392908-sweet-bar.json](./392908-sweet-bar.json) |
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
 | Sweet Camping | 368521 | [368521-sweet-camping.json](./368521-sweet-camping.json) |
+| Sweet Cheongsam | 384626 | [384626-sweet-cheongsam.json](./384626-sweet-cheongsam.json) |
 | Sweet Clown: Gozen San-ji no Okashi na Doukeshi | 59989 | [59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json](./59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json) |
 | Sweet Desire | 147380 | [147380-sweet-desire.json](./147380-sweet-desire.json) |
 | Sweet Dream | 172106 | [172106-sweet-dream.json](./172106-sweet-dream.json) |
