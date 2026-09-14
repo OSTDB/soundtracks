@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
 | 3D Mine Storm | 41982 | [41982-3d-mine-storm.json](./41982-3d-mine-storm.json) |
+| 3D Minesweeper | 384102 | [384102-3d-minesweeper.json](./384102-3d-minesweeper.json) |
 | 3D MiniGolf | 143059 | [143059-3d-minigolf.json](./143059-3d-minigolf.json) |
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
