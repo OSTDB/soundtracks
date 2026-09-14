@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void of Darkness | 26511 | [26511-void-of-darkness.json](./26511-void-of-darkness.json) |
 | Void of Space | 173295 | [173295-void-of-space.json](./173295-void-of-space.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
+| Void Salvage | 388936 | [388936-void-salvage.json](./388936-void-salvage.json) |
 | Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
 | Void Scout | 320727 | [320727-void-scout.json](./320727-void-scout.json) |
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
