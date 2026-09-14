@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T23:34:01.982Z",
-  "total_missing": 71606,
+  "generated_at": "2026-09-14T23:41:39.946Z",
+  "total_missing": 71605,
   "games": [
     {
       "igdb_id": 306086,
@@ -4806,11 +4806,6 @@
       "igdb_id": 357785,
       "game_name": "Aether",
       "file": "missing/A/357785-aether.json"
-    },
-    {
-      "igdb_id": 405616,
-      "game_name": "Aether Crown",
-      "file": "missing/A/405616-aether-crown.json"
     },
     {
       "igdb_id": 357787,
