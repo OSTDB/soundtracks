@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T16:49:06.251Z",
-  "total_missing": 70531,
+  "generated_at": "2026-09-14T16:51:37.241Z",
+  "total_missing": 70530,
   "games": [
     {
       "igdb_id": 306086,
@@ -4531,11 +4531,6 @@
       "igdb_id": 262400,
       "game_name": "Adventures With Oslo: World of Water",
       "file": "missing/A/262400-adventures-with-oslo-world-of-water.json"
-    },
-    {
-      "igdb_id": 257398,
-      "game_name": "Adversary Tower",
-      "file": "missing/A/257398-adversary-tower.json"
     },
     {
       "igdb_id": 184042,
