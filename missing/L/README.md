@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Me Inside | 376486 | [376486-let-me-inside.json](./376486-let-me-inside.json) |
 | Let Them Come: Onslaught | 257928 | [257928-let-them-come-onslaught.json](./257928-let-them-come-onslaught.json) |
 | Let There Be Cat! | 183539 | [183539-let-there-be-cat.json](./183539-let-there-be-cat.json) |
+| Let There Be Life | 35984 | [35984-let-there-be-life.json](./35984-let-there-be-life.json) |
 | Let There Be Smite! | 414288 | [414288-let-there-be-smite.json](./414288-let-there-be-smite.json) |
 | Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
 | Let's Bravo Music | 326944 | [326944-lets-bravo-music.json](./326944-lets-bravo-music.json) |
