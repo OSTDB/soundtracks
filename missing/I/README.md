@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imi ga Wakaru to Kowai Shashin | 251604 | [251604-imi-ga-wakaru-to-kowai-shashin.json](./251604-imi-ga-wakaru-to-kowai-shashin.json) |
 | iMimic: 80's Vintage Electronic Memory Game | 232142 | [232142-imimic-80s-vintage-electronic-memory-game.json](./232142-imimic-80s-vintage-electronic-memory-game.json) |
 | Imitating Zombies | 189191 | [189191-imitating-zombies.json](./189191-imitating-zombies.json) |
+| Imitation Girl | 382343 | [382343-imitation-girl.json](./382343-imitation-girl.json) |
 | IMM Defense | 86769 | [86769-imm-defense.json](./86769-imm-defense.json) |
 | Immay | 253922 | [253922-immay.json](./253922-immay.json) |
 | Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
@@ -1429,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekaing: From Zero to Zero | 323548 | [323548-isekaing-from-zero-to-zero.json](./323548-isekaing-from-zero-to-zero.json) |
 | ISEPS Idle Particle Simulator | 256524 | [256524-iseps-idle-particle-simulator.json](./256524-iseps-idle-particle-simulator.json) |
 | Iseran: Isekai Rantou | 257675 | [257675-iseran-isekai-rantou.json](./257675-iseran-isekai-rantou.json) |
+| Isernsmith | 382331 | [382331-isernsmith.json](./382331-isernsmith.json) |
 | Isha's Magic Book Decoding | 334701 | [334701-ishas-magic-book-decoding.json](./334701-ishas-magic-book-decoding.json) |
 | Ishar: Legend of the Fortress | 10856 | [10856-ishar-legend-of-the-fortress.json](./10856-ishar-legend-of-the-fortress.json) |
 | Ishara: Bane of the Seas | 133966 | [133966-ishara-bane-of-the-seas.json](./133966-ishara-bane-of-the-seas.json) |
