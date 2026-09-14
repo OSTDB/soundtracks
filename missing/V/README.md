@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus One | 391755 | [391755-versus-one.json](./391755-versus-one.json) |
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
 | VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
+| Vertex | 384677 | [384677-vertex.json](./384677-vertex.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
 | Vertical Adventure: Jump, Die, Retry | 207857 | [207857-vertical-adventure-jump-die-retry.json](./207857-vertical-adventure-jump-die-retry.json) |
 | Vertical Dash | 59438 | [59438-vertical-dash.json](./59438-vertical-dash.json) |
@@ -928,6 +929,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Giants | 107183 | [107183-vr-giants.json](./107183-vr-giants.json) |
 | VR Ground: Crazy Farm | 105311 | [105311-vr-ground-crazy-farm.json](./105311-vr-ground-crazy-farm.json) |
 | VR Harem Life | 338563 | [338563-vr-harem-life.json](./338563-vr-harem-life.json) |
+| VR Hentai | 384637 | [384637-vr-hentai.json](./384637-vr-hentai.json) |
+| VR Hentai 18+ | 384636 | [384636-vr-hentai-18.json](./384636-vr-hentai-18.json) |
+| VR Hentai Hot | 384635 | [384635-vr-hentai-hot.json](./384635-vr-hentai-hot.json) |
 | VR Houses: Glass Apartment | 282028 | [282028-vr-houses-glass-apartment.json](./282028-vr-houses-glass-apartment.json) |
 | VR Hybrid War 2117 | 75199 | [75199-vr-hybrid-war-2117.json](./75199-vr-hybrid-war-2117.json) |
 | VR Interior Designer Pro | 28921 | [28921-vr-interior-designer-pro.json](./28921-vr-interior-designer-pro.json) |
@@ -936,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Kayaking Game | 186255 | [186255-vr-kayaking-game.json](./186255-vr-kayaking-game.json) |
 | VR Laser Harp | 30761 | [30761-vr-laser-harp.json](./30761-vr-laser-harp.json) |
 | VR Laser Puzzle | 96685 | [96685-vr-laser-puzzle.json](./96685-vr-laser-puzzle.json) |
+| VR Masturbate | 384634 | [384634-vr-masturbate.json](./384634-vr-masturbate.json) |
 | VR Mini Bowling | 81115 | [81115-vr-mini-bowling.json](./81115-vr-mini-bowling.json) |
 | VR Monster Awakens | 30176 | [30176-vr-monster-awakens.json](./30176-vr-monster-awakens.json) |
 | VR Ninja Dojo | 316410 | [316410-vr-ninja-dojo.json](./316410-vr-ninja-dojo.json) |
