@@ -399,7 +399,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures With Oslo: World of Water | 262400 | [262400-adventures-with-oslo-world-of-water.json](./262400-adventures-with-oslo-world-of-water.json) |
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
 | Adverse | 132254 | [132254-adverse.json](./132254-adverse.json) |
-| Advise the King | 229941 | [229941-advise-the-king.json](./229941-advise-the-king.json) |
 | Ae | 184042 | [184042-ae.json](./184042-ae.json) |
 | AE Mini Game Collection | 279599 | [279599-ae-mini-game-collection.json](./279599-ae-mini-game-collection.json) |
 | Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
