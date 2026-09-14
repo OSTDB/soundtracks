@@ -2046,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Swan: Collector's Edition | 196315 | [196315-black-swan-collectors-edition.json](./196315-black-swan-collectors-edition.json) |
 | Black Tower | 58824 | [58824-black-tower.json](./58824-black-tower.json) |
 | Black Viper | 14311 | [14311-black-viper.json](./14311-black-viper.json) |
+| Black Well Devil | 410331 | [410331-black-well-devil.json](./410331-black-well-devil.json) |
 | Black Werewolf | 293099 | [293099-black-werewolf.json](./293099-black-werewolf.json) |
 | Black Widow: Looking for Love | 220874 | [220874-black-widow-looking-for-love.json](./220874-black-widow-looking-for-love.json) |
 | Black Zen White | 344938 | [344938-black-zen-white.json](./344938-black-zen-white.json) |
