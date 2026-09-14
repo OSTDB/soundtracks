@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeling Arrow | 208975 | [208975-feeling-arrow.json](./208975-feeling-arrow.json) |
 | Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
 | Fei Tian | 86105 | [86105-fei-tian.json](./86105-fei-tian.json) |
+| Felicity's Door | 381104 | [381104-felicitys-door.json](./381104-felicitys-door.json) |
 | Feline | 171559 | [171559-feline.json](./171559-feline.json) |
 | Feline Fever Dream | 416641 | [416641-feline-fever-dream.json](./416641-feline-fever-dream.json) |
 | Feline Realms: The Ancients' Legacy | 386280 | [386280-feline-realms-the-ancients-legacy.json](./386280-feline-realms-the-ancients-legacy.json) |
