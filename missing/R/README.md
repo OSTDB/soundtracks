@@ -2811,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Peace Duck: Take My Nalogi | 96614 | [96614-russian-peace-duck-take-my-nalogi.json](./96614-russian-peace-duck-take-my-nalogi.json) |
 | Russian Psychiatric Pastoral | 248910 | [248910-russian-psychiatric-pastoral.json](./248910-russian-psychiatric-pastoral.json) |
 | Russian Random Speedmap Pack 3 | 311463 | [311463-russian-random-speedmap-pack-3.json](./311463-russian-random-speedmap-pack-3.json) |
+| Russian Reality | 111381 | [111381-russian-reality.json](./111381-russian-reality.json) |
 | Russian Roulette | 265941 | [265941-russian-roulette.json](./265941-russian-roulette.json) |
 | Russian Roulette II: The Next Worlds | 265942 | [265942-russian-roulette-ii-the-next-worlds.json](./265942-russian-roulette-ii-the-next-worlds.json) |
 | Russian Roulette: One Life | 194564 | [194564-russian-roulette-one-life.json](./194564-russian-roulette-one-life.json) |
