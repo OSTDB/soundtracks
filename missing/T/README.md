@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taipan! | 131518 | [131518-taipan.json](./131518-taipan.json) |
 | Taipei Metro Quest | 178664 | [178664-taipei-metro-quest.json](./178664-taipei-metro-quest.json) |
 | Taipei Midsummer Night's Dream | 339104 | [339104-taipei-midsummer-nights-dream.json](./339104-taipei-midsummer-nights-dream.json) |
+| Taiping Heavenly Kingdom | 409640 | [409640-taiping-heavenly-kingdom.json](./409640-taiping-heavenly-kingdom.json) |
 | Taisho Zombi Roman (Plus) | 150657 | [150657-taisho-zombi-roman-plus.json](./150657-taisho-zombi-roman-plus.json) |
 | Taishou Mebiusline Hitotsumi | 141897 | [141897-taishou-mebiusline-hitotsumi.json](./141897-taishou-mebiusline-hitotsumi.json) |
 | Taishou Mebiusline Teito Bibouroku Hare | 141895 | [141895-taishou-mebiusline-teito-bibouroku-hare.json](./141895-taishou-mebiusline-teito-bibouroku-hare.json) |
@@ -2199,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Station: The Only Traitor | 124810 | [124810-the-final-station-the-only-traitor.json](./124810-the-final-station-the-only-traitor.json) |
 | The Final Ultra Super Duper Cube Cavern Deluxe GOTY Edition | 309115 | [309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json](./309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json) |
 | The Finally | 201798 | [201798-the-finally.json](./201798-the-finally.json) |
+| The Finals: Season 11 - Galaxy Masters! | 409700 | [409700-the-finals-season-11-galaxy-masters.json](./409700-the-finals-season-11-galaxy-masters.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
 | The Find | 326989 | [326989-the-find.json](./326989-the-find.json) |
 | The Fire Rises | 321742 | [321742-the-fire-rises.json](./321742-the-fire-rises.json) |
@@ -5426,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Fat Hero | 232144 | [232144-tiny-fat-hero.json](./232144-tiny-fat-hero.json) |
 | Tiny Fishing | 165065 | [165065-tiny-fishing.json](./165065-tiny-fishing.json) |
 | Tiny Football | 191182 | [191182-tiny-football.json](./191182-tiny-football.json) |
+| Tiny Fortress | 409645 | [409645-tiny-fortress.json](./409645-tiny-fortress.json) |
 | Tiny Garden | 300390 | [300390-tiny-garden.json](./300390-tiny-garden.json) |
 | Tiny Gods of the Nile | 191197 | [191197-tiny-gods-of-the-nile.json](./191197-tiny-gods-of-the-nile.json) |
 | Tiny Heist | 26670 | [26670-tiny-heist.json](./26670-tiny-heist.json) |
