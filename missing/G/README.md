@@ -2051,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
 | Grimoire: Heralds of the Winged Exemplar | 43487 | [43487-grimoire-heralds-of-the-winged-exemplar.json](./43487-grimoire-heralds-of-the-winged-exemplar.json) |
 | Grimoria | 391573 | [391573-grimoria.json](./391573-grimoria.json) |
+| Grimorium | 392292 | [392292-grimorium.json](./392292-grimorium.json) |
 | Grimshade | 102199 | [102199-grimshade.json](./102199-grimshade.json) |
 | Grimslair | 391587 | [391587-grimslair.json](./391587-grimslair.json) |
 | Grimstorm | 191881 | [191881-grimstorm.json](./191881-grimstorm.json) |
