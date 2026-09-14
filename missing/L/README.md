@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinths of the World: The Wild Side - Collector's Edition | 128019 | [128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json](./128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json) |
 | Labyrneath | 111055 | [111055-labyrneath.json](./111055-labyrneath.json) |
 | Labyronia 2 | 137691 | [137691-labyronia-2.json](./137691-labyronia-2.json) |
+| Labyronia RPG | 34725 | [34725-labyronia-rpg.json](./34725-labyronia-rpg.json) |
 | Labyronia RPG 2 | 34593 | [34593-labyronia-rpg-2.json](./34593-labyronia-rpg-2.json) |
 | Lacerta | 323542 | [323542-lacerta.json](./323542-lacerta.json) |
 | Lacey's Flash Games | 334698 | [334698-laceys-flash-games.json](./334698-laceys-flash-games.json) |
@@ -97,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladies | 109732 | [109732-ladies.json](./109732-ladies.json) |
 | Ladies and Gentlemen, It's the Turnabout Show! | 318803 | [318803-ladies-and-gentlemen-its-the-turnabout-show.json](./318803-ladies-and-gentlemen-its-the-turnabout-show.json) |
 | Ladies of Sorrow: Night One | 323551 | [323551-ladies-of-sorrow-night-one.json](./323551-ladies-of-sorrow-night-one.json) |
+| Ladra | 34769 | [34769-ladra.json](./34769-ladra.json) |
 | Lady Death Demonicron | 310761 | [310761-lady-death-demonicron.json](./310761-lady-death-demonicron.json) |
 | Lady Gaga Revenge 2 | 66039 | [66039-lady-gaga-revenge-2.json](./66039-lady-gaga-revenge-2.json) |
 | Lady Godiva: Naked Eye | 310741 | [310741-lady-godiva-naked-eye.json](./310741-lady-godiva-naked-eye.json) |
