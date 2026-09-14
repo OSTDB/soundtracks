@@ -1911,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
 | Bird Bakery | 135239 | [135239-bird-bakery.json](./135239-bird-bakery.json) |
 | Bird Ball | 257378 | [257378-bird-ball.json](./257378-bird-ball.json) |
+| Bird Brigade | 385221 | [385221-bird-brigade.json](./385221-bird-brigade.json) |
 | Bird Builder | 177474 | [177474-bird-builder.json](./177474-bird-builder.json) |
 | Bird Fall | 37150 | [37150-bird-fall.json](./37150-bird-fall.json) |
 | Bird Game + | 117932 | [117932-bird-game.json](./117932-bird-game.json) |
