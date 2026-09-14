@@ -2512,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HSNU Academy 79th Anniversary | 396207 | [396207-hsnu-academy-79th-anniversary.json](./396207-hsnu-academy-79th-anniversary.json) |
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
 | htoL#NiQ: The Firefly Diary - Limited Edition | 89918 | [89918-htol-niq-the-firefly-diary-limited-edition.json](./89918-htol-niq-the-firefly-diary-limited-edition.json) |
+| Hua-Z | 397788 | [397788-hua-z.json](./397788-hua-z.json) |
 | Huāngdǎo Qiúshēng | 123555 | [123555-huangdao-qiusheng.json](./123555-huangdao-qiusheng.json) |
 | Huànrèn Lù | 158155 | [158155-huanren-lu.json](./158155-huanren-lu.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
