@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Mount Ségou | 296098 | [296098-on-mount-segou.json](./296098-on-mount-segou.json) |
 | On Pixels: A Lights Out Game | 172175 | [172175-on-pixels-a-lights-out-game.json](./172175-on-pixels-a-lights-out-game.json) |
 | On Rusty Trails | 19479 | [19479-on-rusty-trails.json](./19479-on-rusty-trails.json) |
+| On S’en Grille Une? | 386879 | [386879-on-s-en-grille-une.json](./386879-on-s-en-grille-une.json) |
 | On Sunday | 209642 | [209642-on-sunday.json](./209642-on-sunday.json) |
 | On Sunday 2 | 317212 | [317212-on-sunday-2.json](./317212-on-sunday-2.json) |
 | On Target | 69850 | [69850-on-target.json](./69850-on-target.json) |
