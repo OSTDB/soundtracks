@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
 | Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
+| Paper Airplane Flying Game | 414452 | [414452-paper-airplane-flying-game.json](./414452-paper-airplane-flying-game.json) |
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
 | Paper Bride | 190178 | [190178-paper-bride.json](./190178-paper-bride.json) |
 | Paper Bride 2: Zangling Village | 200630 | [200630-paper-bride-2-zangling-village.json](./200630-paper-bride-2-zangling-village.json) |
@@ -549,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Game 2 | 270957 | [270957-parkour-game-2.json](./270957-parkour-game-2.json) |
 | Parkour Master | 145024 | [145024-parkour-master.json](./145024-parkour-master.json) |
 | Parkour Obby: Ice Escape | 415064 | [415064-parkour-obby-ice-escape.json](./415064-parkour-obby-ice-escape.json) |
+| Parkour Obby: Magma Run | 414438 | [414438-parkour-obby-magma-run.json](./414438-parkour-obby-magma-run.json) |
 | Parkour Obby: Toxic Escape | 402301 | [402301-parkour-obby-toxic-escape.json](./402301-parkour-obby-toxic-escape.json) |
 | Parkour Simulator | 377589 | [377589-parkour-simulator.json](./377589-parkour-simulator.json) |
 | Parkour Simulator | 89265 | [89265-parkour-simulator.json](./89265-parkour-simulator.json) |
