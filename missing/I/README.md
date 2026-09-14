@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Luca | 193999 | [193999-idle-luca.json](./193999-idle-luca.json) |
 | Idle magic herb | 215681 | [215681-idle-magic-herb.json](./215681-idle-magic-herb.json) |
 | Idle Mining Empire | 218700 | [218700-idle-mining-empire.json](./218700-idle-mining-empire.json) |
+| Idle Monkey Theorem | 386843 | [386843-idle-monkey-theorem.json](./386843-idle-monkey-theorem.json) |
 | Idle Monkeylogy | 165637 | [165637-idle-monkeylogy.json](./165637-idle-monkeylogy.json) |
 | Idle Monster: Tower Defense | 138787 | [138787-idle-monster-tower-defense.json](./138787-idle-monster-tower-defense.json) |
 | Idle Moon Rabbit: AFK RPG | 204487 | [204487-idle-moon-rabbit-afk-rpg.json](./204487-idle-moon-rabbit-afk-rpg.json) |
@@ -1468,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islands of Insight | 212652 | [212652-islands-of-insight.json](./212652-islands-of-insight.json) |
 | Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
 | ISlash Dojo | 108448 | [108448-islash-dojo.json](./108448-islash-dojo.json) |
+| Islay Quest | 386874 | [386874-islay-quest.json](./386874-islay-quest.json) |
 | Isle Clash | 132265 | [132265-isle-clash.json](./132265-isle-clash.json) |
 | Isle o' Little Men | 310409 | [310409-isle-o-little-men.json](./310409-isle-o-little-men.json) |
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
