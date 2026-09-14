@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taishou Mebiusline Hitotsumi | 141897 | [141897-taishou-mebiusline-hitotsumi.json](./141897-taishou-mebiusline-hitotsumi.json) |
 | Taishou Mebiusline Teito Bibouroku Hare | 141895 | [141895-taishou-mebiusline-teito-bibouroku-hare.json](./141895-taishou-mebiusline-teito-bibouroku-hare.json) |
 | Taishou Mebiusline Vitable | 141896 | [141896-taishou-mebiusline-vitable.json](./141896-taishou-mebiusline-vitable.json) |
+| Taito Arcade 3 | 393613 | [393613-taito-arcade-3.json](./393613-taito-arcade-3.json) |
 | Taito Chase H.Q. | 48629 | [48629-taito-chase-h-q.json](./48629-taito-chase-h-q.json) |
 | Taito Memories II Gekan | 94711 | [94711-taito-memories-ii-gekan.json](./94711-taito-memories-ii-gekan.json) |
 | Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
@@ -2613,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Indigo Initiative | 358848 | [358848-the-indigo-initiative.json](./358848-the-indigo-initiative.json) |
 | The Indigo Parallel | 157128 | [157128-the-indigo-parallel.json](./157128-the-indigo-parallel.json) |
 | The Inescapable Nightmare | 357239 | [357239-the-inescapable-nightmare.json](./357239-the-inescapable-nightmare.json) |
+| The Inexperienced Exorcist | 393597 | [393597-the-inexperienced-exorcist.json](./393597-the-inexperienced-exorcist.json) |
 | The Infected | 138726 | [138726-the-infected.json](./138726-the-infected.json) |
 | The Infecting 3 | 190155 | [190155-the-infecting-3.json](./190155-the-infecting-3.json) |
 | The Infernal Return | 195156 | [195156-the-infernal-return.json](./195156-the-infernal-return.json) |
@@ -7411,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble Baby | 182521 | [182521-tumble-baby.json](./182521-tumble-baby.json) |
 | Tumble Ball | 295567 | [295567-tumble-ball.json](./295567-tumble-ball.json) |
 | Tumble Bees HD | 355008 | [355008-tumble-bees-hd.json](./355008-tumble-bees-hd.json) |
+| Tumble Marble | 393605 | [393605-tumble-marble.json](./393605-tumble-marble.json) |
 | Tumble Toys: Aviation | 215897 | [215897-tumble-toys-aviation.json](./215897-tumble-toys-aviation.json) |
 | Tumble Troopers | 327214 | [327214-tumble-troopers.json](./327214-tumble-troopers.json) |
 | Tumble Tundra | 259279 | [259279-tumble-tundra.json](./259279-tumble-tundra.json) |
