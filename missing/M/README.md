@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Border Great Again! | 74345 | [74345-make-border-great-again.json](./74345-make-border-great-again.json) |
 | Make Candy | 175368 | [175368-make-candy.json](./175368-make-candy.json) |
 | Make Capybara Happy | 335248 | [335248-make-capybara-happy.json](./335248-make-capybara-happy.json) |
+| Make Her Real | 414407 | [414407-make-her-real.json](./414407-make-her-real.json) |
 | Make It as an Artist | 29834 | [29834-make-it-as-an-artist.json](./29834-make-it-as-an-artist.json) |
 | Make It Cozy! | 409546 | [409546-make-it-cozy.json](./409546-make-it-cozy.json) |
 | Make It Fly! | 224014 | [224014-make-it-fly.json](./224014-make-it-fly.json) |
@@ -1362,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Maid | 287656 | [287656-maze-maid.json](./287656-maze-maid.json) |
 | Maze of Acheron | 172098 | [172098-maze-of-acheron.json](./172098-maze-of-acheron.json) |
 | Maze of Bears | 186321 | [186321-maze-of-bears.json](./186321-maze-of-bears.json) |
+| Maze of Doors | 414417 | [414417-maze-of-doors.json](./414417-maze-of-doors.json) |
 | Maze of Moros | 297510 | [297510-maze-of-moros.json](./297510-maze-of-moros.json) |
 | Maze of Realities: Reflection of Light - Collector's Edition | 218702 | [218702-maze-of-realities-reflection-of-light-collectors-edition.json](./218702-maze-of-realities-reflection-of-light-collectors-edition.json) |
 | Maze of Realities: Symphony of Invention DLC | 289859 | [289859-maze-of-realities-symphony-of-invention-dlc.json](./289859-maze-of-realities-symphony-of-invention-dlc.json) |
@@ -4430,6 +4432,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
 | My Heart Grows Fonder | 117653 | [117653-my-heart-grows-fonder.json](./117653-my-heart-grows-fonder.json) |
 | My Heaven's Dale | 343267 | [343267-my-heavens-dale.json](./343267-my-heavens-dale.json) |
+| My Hero Academia: All's Justice - DLC Character 4 | 414446 | [414446-my-hero-academia-alls-justice-dlc-character-4.json](./414446-my-hero-academia-alls-justice-dlc-character-4.json) |
+| My Hero Academia: All's Justice - DLC Character 5 | 414447 | [414447-my-hero-academia-alls-justice-dlc-character-5.json](./414447-my-hero-academia-alls-justice-dlc-character-5.json) |
+| My Hero Academia: All's Justice - Playable Character Izuku Midoriya Overlay Full Style | 414448 | [414448-my-hero-academia-alls-justice-playable-character-izuku-midoriya-overlay-full-style.json](./414448-my-hero-academia-alls-justice-playable-character-izuku-midoriya-overlay-full-style.json) |
+| My Hero Academia: All's Justice - Playable Character Nana Shimura | 414449 | [414449-my-hero-academia-alls-justice-playable-character-nana-shimura.json](./414449-my-hero-academia-alls-justice-playable-character-nana-shimura.json) |
+| My Hero Academia: All's Justice - The Worldwide Star Card | 414450 | [414450-my-hero-academia-alls-justice-the-worldwide-star-card.json](./414450-my-hero-academia-alls-justice-the-worldwide-star-card.json) |
+| My Hero Academia: All's Justice - Ultimate Edition | 414451 | [414451-my-hero-academia-alls-justice-ultimate-edition.json](./414451-my-hero-academia-alls-justice-ultimate-edition.json) |
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
 | My Hero and the King | 63265 | [63265-my-hero-and-the-king.json](./63265-my-hero-and-the-king.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
