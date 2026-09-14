@@ -74,6 +74,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Blaze Escape | 326084 | [326084-10-blaze-escape.json](./326084-10-blaze-escape.json) |
 | 10 Cent Classics: Shady Pack | 56451 | [56451-10-cent-classics-shady-pack.json](./56451-10-cent-classics-shady-pack.json) |
 | 10 Games | 319563 | [319563-10-games.json](./319563-10-games.json) |
+| 10 Gnomes 3: Spring Garden March | 383480 | [383480-10-gnomes-3-spring-garden-march.json](./383480-10-gnomes-3-spring-garden-march.json) |
+| 10 Gnomes 4: Foggy Flat | 383484 | [383484-10-gnomes-4-foggy-flat.json](./383484-10-gnomes-4-foggy-flat.json) |
+| 10 Gnomes 5: the Shipyard | 383488 | [383488-10-gnomes-5-the-shipyard.json](./383488-10-gnomes-5-the-shipyard.json) |
+| 10 Gnomes 6: the Hall | 383489 | [383489-10-gnomes-6-the-hall.json](./383489-10-gnomes-6-the-hall.json) |
+| 10 Gnomes 7: the Solitude | 383495 | [383495-10-gnomes-7-the-solitude.json](./383495-10-gnomes-7-the-solitude.json) |
+| 10 Gnomes 8: Water Forge | 383501 | [383501-10-gnomes-8-water-forge.json](./383501-10-gnomes-8-water-forge.json) |
+| 10 Gnomes 9: Chemistry | 383511 | [383511-10-gnomes-9-chemistry.json](./383511-10-gnomes-9-chemistry.json) |
 | 10 Minute Barbarian | 34776 | [34776-10-minute-barbarian.json](./34776-10-minute-barbarian.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
 | 10 Minutes Till Dawn | 202828 | [202828-10-minutes-till-dawn.json](./202828-10-minutes-till-dawn.json) |
