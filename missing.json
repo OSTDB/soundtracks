@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T17:51:36.121Z",
-  "total_missing": 70628,
+  "generated_at": "2026-09-14T18:01:35.645Z",
+  "total_missing": 70641,
   "games": [
     {
       "igdb_id": 306086,
@@ -3703,6 +3703,11 @@
       "file": "missing/A/52554-absorb-reality-collection.json"
     },
     {
+      "igdb_id": 391219,
+      "game_name": "AbsTRace",
+      "file": "missing/A/391219-abstrace.json"
+    },
+    {
       "igdb_id": 201247,
       "game_name": "Abstract World",
       "file": "missing/A/201247-abstract-world.json"
@@ -4576,11 +4581,6 @@
       "igdb_id": 290947,
       "game_name": "Aerial_Knight's We Never Yield",
       "file": "missing/A/290947-aerial-knights-we-never-yield.json"
-    },
-    {
-      "igdb_id": 197904,
-      "game_name": "Aerinde",
-      "file": "missing/A/197904-aerinde.json"
     },
     {
       "igdb_id": 288745,
@@ -22041,6 +22041,11 @@
       "igdb_id": 407407,
       "game_name": "Backpack Dungeon",
       "file": "missing/B/407407-backpack-dungeon.json"
+    },
+    {
+      "igdb_id": 391202,
+      "game_name": "Backpack Jianghu",
+      "file": "missing/B/391202-backpack-jianghu.json"
     },
     {
       "igdb_id": 28352,
@@ -46373,6 +46378,11 @@
       "file": "missing/C/32911-cat-meat.json"
     },
     {
+      "igdb_id": 391214,
+      "game_name": "Cat Meme Clicker",
+      "file": "missing/C/391214-cat-meme-clicker.json"
+    },
+    {
       "igdb_id": 244768,
       "game_name": "Cat Needs",
       "file": "missing/C/244768-cat-needs.json"
@@ -49986,6 +49996,11 @@
       "igdb_id": 25221,
       "game_name": "Children of a Dead Earth",
       "file": "missing/C/25221-children-of-a-dead-earth.json"
+    },
+    {
+      "igdb_id": 391213,
+      "game_name": "Children of Birch",
+      "file": "missing/C/391213-children-of-birch.json"
     },
     {
       "igdb_id": 175878,
@@ -62181,6 +62196,11 @@
       "igdb_id": 199626,
       "game_name": "CrushBorgs",
       "file": "missing/C/199626-crushborgs.json"
+    },
+    {
+      "igdb_id": 391218,
+      "game_name": "CrushCrushCrushCrush",
+      "file": "missing/C/391218-crushcrushcrushcrush.json"
     },
     {
       "igdb_id": 141171,
@@ -91921,6 +91941,11 @@
       "igdb_id": 75898,
       "game_name": "Escape Zombie Land",
       "file": "missing/E/75898-escape-zombie-land.json"
+    },
+    {
+      "igdb_id": 391205,
+      "game_name": "Escape: Immersion",
+      "file": "missing/E/391205-escape-immersion.json"
     },
     {
       "igdb_id": 195173,
@@ -138333,6 +138358,11 @@
       "file": "missing/I/130363-i-want-to-go-to-mars.json"
     },
     {
+      "igdb_id": 391209,
+      "game_name": "I Want To Make Something Beautiful",
+      "file": "missing/I/391209-i-want-to-make-something-beautiful.json"
+    },
+    {
       "igdb_id": 71526,
       "game_name": "I was a Cannibal for the FBI",
       "file": "missing/I/71526-i-was-a-cannibal-for-the-fbi.json"
@@ -165758,6 +165788,11 @@
       "file": "missing/L/174868-loot-legends-robots-vs-aliens.json"
     },
     {
+      "igdb_id": 391204,
+      "game_name": "Loot Loop",
+      "file": "missing/L/391204-loot-loop.json"
+    },
+    {
       "igdb_id": 31403,
       "game_name": "Loot or Die",
       "file": "missing/L/31403-loot-or-die.json"
@@ -182161,6 +182196,11 @@
       "igdb_id": 291477,
       "game_name": "Miner Clicker",
       "file": "missing/M/291477-miner-clicker.json"
+    },
+    {
+      "igdb_id": 391215,
+      "game_name": "Miner Man",
+      "file": "missing/M/391215-miner-man.json"
     },
     {
       "igdb_id": 290391,
@@ -238923,6 +238963,11 @@
       "file": "missing/R/271749-rich-mahogany-and-human-leather-bound-books.json"
     },
     {
+      "igdb_id": 391203,
+      "game_name": "Rich River",
+      "file": "missing/R/391203-rich-river.json"
+    },
+    {
       "igdb_id": 297811,
       "game_name": "Rich Worker Simulator",
       "file": "missing/R/297811-rich-worker-simulator.json"
@@ -249566,6 +249611,11 @@
       "igdb_id": 362290,
       "game_name": "Scent of Sorrow",
       "file": "missing/S/362290-scent-of-sorrow.json"
+    },
+    {
+      "igdb_id": 391211,
+      "game_name": "Sceptorn",
+      "file": "missing/S/391211-sceptorn.json"
     },
     {
       "igdb_id": 35941,
@@ -271338,6 +271388,11 @@
       "file": "missing/S/70349-spike.json"
     },
     {
+      "igdb_id": 391207,
+      "game_name": "Spike a Love Story",
+      "file": "missing/S/391207-spike-a-love-story.json"
+    },
+    {
       "igdb_id": 41984,
       "game_name": "Spike Hoppin'",
       "file": "missing/S/41984-spike-hoppin.json"
@@ -291691,6 +291746,11 @@
       "igdb_id": 361685,
       "game_name": "TavernHold",
       "file": "missing/T/361685-tavernhold.json"
+    },
+    {
+      "igdb_id": 391212,
+      "game_name": "Tavernia",
+      "file": "missing/T/391212-tavernia.json"
     },
     {
       "igdb_id": 31587,
@@ -343231,6 +343291,11 @@
       "igdb_id": 329964,
       "game_name": "Withering Realms",
       "file": "missing/W/329964-withering-realms.json"
+    },
+    {
+      "igdb_id": 391217,
+      "game_name": "Within",
+      "file": "missing/W/391217-within.json"
     },
     {
       "igdb_id": 72361,
