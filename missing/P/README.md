@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic 64 | 130373 | [130373-panic-64.json](./130373-panic-64.json) |
 | Panic at Multiverse High! | 31660 | [31660-panic-at-multiverse-high.json](./31660-panic-at-multiverse-high.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
+| Panic Crew | 390672 | [390672-panic-crew.json](./390672-panic-crew.json) |
 | Panic Crisis Mage Attack | 128636 | [128636-panic-crisis-mage-attack.json](./128636-panic-crisis-mage-attack.json) |
 | Panic in the Park | 69251 | [69251-panic-in-the-park.json](./69251-panic-in-the-park.json) |
 | Panic in the Woods | 315508 | [315508-panic-in-the-woods.json](./315508-panic-in-the-woods.json) |
@@ -1186,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaoh's Tomb | 262092 | [262092-pharaohs-tomb.json](./262092-pharaohs-tomb.json) |
 | Pharaonic | 19068 | [19068-pharaonic.json](./19068-pharaonic.json) |
 | Pharaonic: Deluxe Edition | 166187 | [166187-pharaonic-deluxe-edition.json](./166187-pharaonic-deluxe-edition.json) |
+| Pharmacy 24 | 390643 | [390643-pharmacy-24.json](./390643-pharmacy-24.json) |
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
 | Phase | 72078 | [72078-phase.json](./72078-phase.json) |
 | Phase Line: Raider Assault | 239667 | [239667-phase-line-raider-assault.json](./239667-phase-line-raider-assault.json) |
