@@ -2435,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Pretty Girls Battle: Texas Hold'em | 34324 | [34324-poker-pretty-girls-battle-texas-holdem.json](./34324-poker-pretty-girls-battle-texas-holdem.json) |
 | Poker Squ♠res | 81285 | [81285-poker-squ-res.json](./81285-poker-squ-res.json) |
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
+| Poker TD | 390103 | [390103-poker-td.json](./390103-poker-td.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
 | Poker World: Casino Game | 219292 | [219292-poker-world-casino-game.json](./219292-poker-world-casino-game.json) |
 | PokerMania | 76593 | [76593-pokermania.json](./76593-pokermania.json) |
@@ -3451,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project_Escape | 133418 | [133418-project-escape.json](./133418-project-escape.json) |
 | Project-Blemmyes | 172704 | [172704-project-blemmyes.json](./172704-project-blemmyes.json) |
 | Project-X Special Edition & F17 Challenge | 71537 | [71537-project-x-special-edition-and-f17-challenge.json](./71537-project-x-special-edition-and-f17-challenge.json) |
+| Project: Aftershock | 390126 | [390126-project-aftershock.json](./390126-project-aftershock.json) |
 | Project: Another Use - Graftage | 374080 | [374080-project-another-use-graftage.json](./374080-project-another-use-graftage.json) |
 | Project: Bits | 29741 | [29741-project-bits.json](./29741-project-bits.json) |
 | Project: Catalepsy | 395571 | [395571-project-catalepsy.json](./395571-project-catalepsy.json) |
