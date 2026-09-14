@@ -4338,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberHoney | 310171 | [310171-cyberhoney.json](./310171-cyberhoney.json) |
 | Cyberhunk | 211191 | [211191-cyberhunk.json](./211191-cyberhunk.json) |
 | Cyberia | 4331 | [4331-cyberia.json](./4331-cyberia.json) |
+| CyberKitty: Neon Merge | 415858 | [415858-cyberkitty-neon-merge.json](./415858-cyberkitty-neon-merge.json) |
 | CyberMedic Simulator | 118365 | [118365-cybermedic-simulator.json](./118365-cybermedic-simulator.json) |
 | Cybermercs: The Soldiers of the 22nd Century | 70386 | [70386-cybermercs-the-soldiers-of-the-22nd-century.json](./70386-cybermercs-the-soldiers-of-the-22nd-century.json) |
 | Cybermorph | 40803 | [40803-cybermorph.json](./40803-cybermorph.json) |
