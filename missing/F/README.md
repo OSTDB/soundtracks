@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Earth | 260704 | [260704-fading-earth.json](./260704-fading-earth.json) |
 | Fading Echoes | 291213 | [291213-fading-echoes.json](./291213-fading-echoes.json) |
 | Fading Haven | 402260 | [402260-fading-haven.json](./402260-fading-haven.json) |
+| Fading Hearts | 16778 | [16778-fading-hearts.json](./16778-fading-hearts.json) |
 | Fading Skies | 291768 | [291768-fading-skies.json](./291768-fading-skies.json) |
 | Fading Visage | 101622 | [101622-fading-visage.json](./101622-fading-visage.json) |
 | Fadó | 124188 | [124188-fado.json](./124188-fado.json) |
@@ -2528,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
 | Freedom Bridge | 115034 | [115034-freedom-bridge.json](./115034-freedom-bridge.json) |
+| Freedom Fall | 16829 | [16829-freedom-fall.json](./16829-freedom-fall.json) |
 | Freedom Fighter | 202852 | [202852-freedom-fighter.json](./202852-freedom-fighter.json) |
 | Freedom Fighter | 77299 | [77299-freedom-fighter.json](./77299-freedom-fighter.json) |
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
