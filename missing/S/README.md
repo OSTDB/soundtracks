@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribble Adventure Unlimited | 107126 | [107126-scribble-adventure-unlimited.json](./107126-scribble-adventure-unlimited.json) |
 | Scribble Hero | 382203 | [382203-scribble-hero.json](./382203-scribble-hero.json) |
 | Scribble Shooter | 21152 | [21152-scribble-shooter.json](./21152-scribble-shooter.json) |
+| Scribble Space | 35711 | [35711-scribble-space.json](./35711-scribble-space.json) |
 | Scribbleman Army | 217026 | [217026-scribbleman-army.json](./217026-scribbleman-army.json) |
 | Scribblemania | 327177 | [327177-scribblemania.json](./327177-scribblemania.json) |
 | Scribblenauts Remix | 8806 | [8806-scribblenauts-remix.json](./8806-scribblenauts-remix.json) |
@@ -883,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scruffy 3: A Day in the Life | 265683 | [265683-scruffy-3-a-day-in-the-life.json](./265683-scruffy-3-a-day-in-the-life.json) |
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
 | Scrunk | 104027 | [104027-scrunk.json](./104027-scrunk.json) |
+| SCS deOrbit | 36050 | [36050-scs-deorbit.json](./36050-scs-deorbit.json) |
 | Scuba Bear | 178678 | [178678-scuba-bear.json](./178678-scuba-bear.json) |
 | Scuba Diver | 40744 | [40744-scuba-diver.json](./40744-scuba-diver.json) |
 | Scuba Diver | 40766 | [40766-scuba-diver.json](./40766-scuba-diver.json) |
@@ -1455,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shade Silver | 297215 | [297215-shade-silver.json](./297215-shade-silver.json) |
 | Shade: The Border Collie Flycatcher | 241623 | [241623-shade-the-border-collie-flycatcher.json](./241623-shade-the-border-collie-flycatcher.json) |
 | Shades | 319026 | [319026-shades.json](./319026-shades.json) |
+| Shades of Black | 36009 | [36009-shades-of-black.json](./36009-shades-of-black.json) |
 | Shades of Doom | 71518 | [71518-shades-of-doom.json](./71518-shades-of-doom.json) |
 | Shades of Manhattan 2 | 182453 | [182453-shades-of-manhattan-2.json](./182453-shades-of-manhattan-2.json) |
 | Shades: Shadow Fight Roguelike | 300698 | [300698-shades-shadow-fight-roguelike.json](./300698-shades-shadow-fight-roguelike.json) |
@@ -1593,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of the Night | 238749 | [238749-shadows-of-the-night.json](./238749-shadows-of-the-night.json) |
 | Shadows of the Tusk | 66118 | [66118-shadows-of-the-tusk.json](./66118-shadows-of-the-tusk.json) |
 | Shadows of Thornkeep | 374073 | [374073-shadows-of-thornkeep.json](./374073-shadows-of-thornkeep.json) |
+| Shadows of War | 35998 | [35998-shadows-of-war.json](./35998-shadows-of-war.json) |
 | Shadows on the Vatican Act I: Greed | 36370 | [36370-shadows-on-the-vatican-act-i-greed.json](./36370-shadows-on-the-vatican-act-i-greed.json) |
 | Shadows on the Vatican Act II: Wrath | 27753 | [27753-shadows-on-the-vatican-act-ii-wrath.json](./27753-shadows-on-the-vatican-act-ii-wrath.json) |
 | Shadows on the Walls | 262967 | [262967-shadows-on-the-walls.json](./262967-shadows-on-the-walls.json) |
@@ -2803,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Mad | 310184 | [310184-sky-mad.json](./310184-sky-mad.json) |
 | Sky Madness | 54367 | [54367-sky-madness.json](./54367-sky-madness.json) |
 | Sky Maze 3D | 51203 | [51203-sky-maze-3d.json](./51203-sky-maze-3d.json) |
+| Sky Mercenaries | 36117 | [36117-sky-mercenaries.json](./36117-sky-mercenaries.json) |
 | Sky Mercenaries Redux | 147901 | [147901-sky-mercenaries-redux.json](./147901-sky-mercenaries-redux.json) |
 | Sky Oceans: Wings for Hire | 238559 | [238559-sky-oceans-wings-for-hire.json](./238559-sky-oceans-wings-for-hire.json) |
 | Sky of Tides | 122389 | [122389-sky-of-tides.json](./122389-sky-of-tides.json) |
@@ -3298,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake | 307608 | [307608-snake.json](./307608-snake.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
 | Snake Battle | 111657 | [111657-snake-battle.json](./111657-snake-battle.json) |
+| Snake Blocks | 36025 | [36025-snake-blocks.json](./36025-snake-blocks.json) |
 | Snake Break | 275610 | [275610-snake-break.json](./275610-snake-break.json) |
 | Snake Bricks-Bounce Balls | 106569 | [106569-snake-bricks-bounce-balls.json](./106569-snake-bricks-bounce-balls.json) |
 | Snake Core | 132783 | [132783-snake-core.json](./132783-snake-core.json) |
@@ -3552,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer for Arcadia 2001 | 131540 | [131540-soccer-for-arcadia-2001.json](./131540-soccer-for-arcadia-2001.json) |
 | Soccer Goal Run | 329577 | [329577-soccer-goal-run.json](./329577-soccer-goal-run.json) |
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
+| Soccer Legends | 36018 | [36018-soccer-legends.json](./36018-soccer-legends.json) |
 | Soccer Manager | 393490 | [393490-soccer-manager.json](./393490-soccer-manager.json) |
 | Soccer Manager 2015 | 35594 | [35594-soccer-manager-2015.json](./35594-soccer-manager-2015.json) |
 | Soccer Manager 2016 | 34335 | [34335-soccer-manager-2016.json](./34335-soccer-manager-2016.json) |
@@ -3653,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Survivors | 238766 | [238766-solar-survivors.json](./238766-solar-survivors.json) |
 | Solar Sweets | 311244 | [311244-solar-sweets.json](./311244-solar-sweets.json) |
 | Solar System Conflict | 35768 | [35768-solar-system-conflict.json](./35768-solar-system-conflict.json) |
+| Solar War | 35982 | [35982-solar-war.json](./35982-solar-war.json) |
 | Solar Warden | 101603 | [101603-solar-warden.json](./101603-solar-warden.json) |
 | Solares | 291990 | [291990-solares.json](./291990-solares.json) |
 | Solarfall | 271484 | [271484-solarfall.json](./271484-solarfall.json) |
@@ -4523,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Soldier | 153349 | [153349-space-soldier.json](./153349-space-soldier.json) |
 | Space Spartans | 5700 | [5700-space-spartans.json](./5700-space-spartans.json) |
 | Space Sprint | 38903 | [38903-space-sprint.json](./38903-space-sprint.json) |
+| Space Station Alpha | 35964 | [35964-space-station-alpha.json](./35964-space-station-alpha.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
 | Space Station Sprint | 141140 | [141140-space-station-sprint.json](./141140-space-station-sprint.json) |
@@ -5399,6 +5408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Gun | 348780 | [348780-star-gun.json](./348780-star-gun.json) |
 | Star gunner | 40795 | [40795-star-gunner.json](./40795-star-gunner.json) |
 | Star Hacker | 197364 | [197364-star-hacker.json](./197364-star-hacker.json) |
+| Star Hammer: The Vanguard Prophecy | 36049 | [36049-star-hammer-the-vanguard-prophecy.json](./36049-star-hammer-the-vanguard-prophecy.json) |
 | Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
 | Star Horizon | 35690 | [35690-star-horizon.json](./35690-star-horizon.json) |
 | Star Hound | 87103 | [87103-star-hound.json](./87103-star-hound.json) |
@@ -5416,6 +5426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Melody: Yumemi Dreamer - Limited Edition | 175977 | [175977-star-melody-yumemi-dreamer-limited-edition.json](./175977-star-melody-yumemi-dreamer-limited-edition.json) |
 | Star Mine | 142424 | [142424-star-mine.json](./142424-star-mine.json) |
 | Star Mobile | 41995 | [41995-star-mobile.json](./41995-star-mobile.json) |
+| Star Nomad | 36067 | [36067-star-nomad.json](./36067-star-nomad.json) |
 | Star Ocean | 11209 | [11209-star-ocean.json](./11209-star-ocean.json) |
 | Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
@@ -5460,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Tactics Redux: Expeditions | 169952 | [169952-star-tactics-redux-expeditions.json](./169952-star-tactics-redux-expeditions.json) |
 | Star Tank | 169457 | [169457-star-tank.json](./169457-star-tank.json) |
 | Star Tower | 373537 | [373537-star-tower.json](./373537-star-tower.json) |
+| Star Traders: 4X Empires | 36124 | [36124-star-traders-4x-empires.json](./36124-star-traders-4x-empires.json) |
 | Star Trek | 11485 | [11485-star-trek.json](./11485-star-trek.json) |
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
 | Star Trek | 326626 | [326626-star-trek.json](./326626-star-trek.json) |
