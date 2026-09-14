@@ -400,7 +400,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
 | Adverse | 132254 | [132254-adverse.json](./132254-adverse.json) |
 | Ae | 184042 | [184042-ae.json](./184042-ae.json) |
-| AE Mini Game Collection | 279599 | [279599-ae-mini-game-collection.json](./279599-ae-mini-game-collection.json) |
 | Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
 | Aedis Eclipse: Generation of Chaos | 44523 | [44523-aedis-eclipse-generation-of-chaos.json](./44523-aedis-eclipse-generation-of-chaos.json) |
 | Aefen Fall | 141252 | [141252-aefen-fall.json](./141252-aefen-fall.json) |
