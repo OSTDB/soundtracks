@@ -369,7 +369,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
-| Adventure of Priestess | 200125 | [200125-adventure-of-priestess.json](./200125-adventure-of-priestess.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure Party: Cats and Caverns | 84866 | [84866-adventure-party-cats-and-caverns.json](./84866-adventure-party-cats-and-caverns.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
