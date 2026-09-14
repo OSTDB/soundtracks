@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
 | Red Mercenary | 129127 | [129127-red-mercenary.json](./129127-red-mercenary.json) |
+| Red Moon | 382317 | [382317-red-moon.json](./382317-red-moon.json) |
 | Red Moon: Lost Days | 192893 | [192893-red-moon-lost-days.json](./192893-red-moon-lost-days.json) |
 | Red Ninja: End of Honor | 6000 | [6000-red-ninja-end-of-honor.json](./6000-red-ninja-end-of-honor.json) |
 | Red Pixel | 59925 | [59925-red-pixel.json](./59925-red-pixel.json) |
@@ -2333,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogues of Europa | 274495 | [274495-rogues-of-europa.json](./274495-rogues-of-europa.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
 | Roguestorm Beats | 416651 | [416651-roguestorm-beats.json](./416651-roguestorm-beats.json) |
+| Roguie | 382303 | [382303-roguie.json](./382303-roguie.json) |
 | Rogum: A Cat Match Puzzle | 386691 | [386691-rogum-a-cat-match-puzzle.json](./386691-rogum-a-cat-match-puzzle.json) |
 | Rogun Arena | 165046 | [165046-rogun-arena.json](./165046-rogun-arena.json) |
 | Rogunky | 333376 | [333376-rogunky.json](./333376-rogunky.json) |
@@ -2642,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rowan's Battle of Britain | 73818 | [73818-rowans-battle-of-britain.json](./73818-rowans-battle-of-britain.json) |
 | RowBot Rally | 256258 | [256258-rowbot-rally.json](./256258-rowbot-rally.json) |
 | Rox II | 315507 | [315507-rox-ii.json](./315507-rox-ii.json) |
+| Roxanne | 382316 | [382316-roxanne.json](./382316-roxanne.json) |
 | Roxy Raccoon | 159290 | [159290-roxy-raccoon.json](./159290-roxy-raccoon.json) |
 | Roxy Raccoon 3: Troubles in Time | 375845 | [375845-roxy-raccoon-3-troubles-in-time.json](./375845-roxy-raccoon-3-troubles-in-time.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
