@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart: Super Circuit | 2343 | [2343-mario-kart-super-circuit.json](./2343-mario-kart-super-circuit.json) |
 | Mario Kart: Virtual Cup | 195211 | [195211-mario-kart-virtual-cup.json](./195211-mario-kart-virtual-cup.json) |
 | Mario Learns About Colors | 323187 | [323187-mario-learns-about-colors.json](./323187-mario-learns-about-colors.json) |
+| Mario Lost In Space | 384109 | [384109-mario-lost-in-space.json](./384109-mario-lost-in-space.json) |
 | Mario Net Quest | 246087 | [246087-mario-net-quest.json](./246087-mario-net-quest.json) |
 | Mario no Photopi | 3541 | [3541-mario-no-photopi.json](./3541-mario-no-photopi.json) |
 | Mario Paint | 8203 | [8203-mario-paint.json](./8203-mario-paint.json) |
@@ -3118,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMM | 343815 | [343815-mmm.json](./343815-mmm.json) |
 | Mmm Fingers | 117752 | [117752-mmm-fingers.json](./117752-mmm-fingers.json) |
 | MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
+| MMX | 384056 | [384056-mmx.json](./384056-mmx.json) |
 | MMX Hill Dash 2 - Race Offroad | 97262 | [97262-mmx-hill-dash-2-race-offroad.json](./97262-mmx-hill-dash-2-race-offroad.json) |
 | MMX Racing | 224004 | [224004-mmx-racing.json](./224004-mmx-racing.json) |
 | Mnemonic Devices | 177509 | [177509-mnemonic-devices.json](./177509-mnemonic-devices.json) |
