@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Tap Wonder | 138178 | [138178-hatsune-miku-tap-wonder.json](./138178-hatsune-miku-tap-wonder.json) |
 | Hattrick | 270408 | [270408-hattrick.json](./270408-hattrick.json) |
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
+| Haunt | 383487 | [383487-haunt.json](./383487-haunt.json) |
 | Haunt Monster | 237040 | [237040-haunt-monster.json](./237040-haunt-monster.json) |
 | Haunted | 16799 | [16799-haunted.json](./16799-haunted.json) |
 | Haunted | 377571 | [377571-haunted.json](./377571-haunted.json) |
@@ -2498,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Bathe Your Cat: Drawing | 191170 | [191170-how-to-bathe-your-cat-drawing.json](./191170-how-to-bathe-your-cat-drawing.json) |
 | How to be a Hero | 38925 | [38925-how-to-be-a-hero.json](./38925-how-to-be-a-hero.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
+| How To Build A Snowman | 383492 | [383492-how-to-build-a-snowman.json](./383492-how-to-build-a-snowman.json) |
 | How To Build Your Igloo | 253931 | [253931-how-to-build-your-igloo.json](./253931-how-to-build-your-igloo.json) |
 | How to Chicken 101 | 181399 | [181399-how-to-chicken-101.json](./181399-how-to-chicken-101.json) |
 | How to Date a Non-Terrian Person | 184081 | [184081-how-to-date-a-non-terrian-person.json](./184081-how-to-date-a-non-terrian-person.json) |
