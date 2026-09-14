@@ -4730,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectating Simulator the Racing | 123564 | [123564-spectating-simulator-the-racing.json](./123564-spectating-simulator-the-racing.json) |
 | Spectator 2 | 264629 | [264629-spectator-2.json](./264629-spectator-2.json) |
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
+| Spectra: Beneath the Stain | 416637 | [416637-spectra-beneath-the-stain.json](./416637-spectra-beneath-the-stain.json) |
 | Spectraball: Extended Edition | 9069 | [9069-spectraball-extended-edition.json](./9069-spectraball-extended-edition.json) |
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
 | Spectral Force 3 | 21339 | [21339-spectral-force-3.json](./21339-spectral-force-3.json) |
@@ -6266,6 +6267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratosphere Defense | 197856 | [197856-stratosphere-defense.json](./197856-stratosphere-defense.json) |
 | Stratum | 74319 | [74319-stratum.json](./74319-stratum.json) |
 | Stratum Descent | 279015 | [279015-stratum-descent.json](./279015-stratum-descent.json) |
+| Straw Path | 416675 | [416675-straw-path.json](./416675-straw-path.json) |
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
 | Strawberry Blasted Sky Glide | 143681 | [143681-strawberry-blasted-sky-glide.json](./143681-strawberry-blasted-sky-glide.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
