@@ -1292,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Chapter 6 | 408171 | [408171-deltarune-chapter-6.json](./408171-deltarune-chapter-6.json) |
 | Deltarune: Hummer Jevil | 352215 | [352215-deltarune-hummer-jevil.json](./352215-deltarune-hummer-jevil.json) |
 | Deltarune: Master Mode | 336354 | [336354-deltarune-master-mode.json](./336354-deltarune-master-mode.json) |
+| Deltarune: Survey Program | 397081 | [397081-deltarune-survey-program.json](./397081-deltarune-survey-program.json) |
 | Deluge | 351644 | [351644-deluge.json](./351644-deluge.json) |
 | Deluge: Threnody of Crashing Waves | 173264 | [173264-deluge-threnody-of-crashing-waves.json](./173264-deluge-threnody-of-crashing-waves.json) |
 | Delusion Gallery | 178607 | [178607-delusion-gallery.json](./178607-delusion-gallery.json) |
@@ -1353,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Killer | 349847 | [349847-demon-killer.json](./349847-demon-killer.json) |
 | Demon Kingdom | 303470 | [303470-demon-kingdom.json](./303470-demon-kingdom.json) |
 | Demon Knight | 38922 | [38922-demon-knight.json](./38922-demon-knight.json) |
+| Demon Lily and the Noir Maid | 397055 | [397055-demon-lily-and-the-noir-maid.json](./397055-demon-lily-and-the-noir-maid.json) |
 | Demon Lord | 29776 | [29776-demon-lord.json](./29776-demon-lord.json) |
 | Demon Lord: Reincarnation | 250969 | [250969-demon-lord-reincarnation.json](./250969-demon-lord-reincarnation.json) |
 | Demon Mark: A Russian Saga | 28779 | [28779-demon-mark-a-russian-saga.json](./28779-demon-mark-a-russian-saga.json) |
