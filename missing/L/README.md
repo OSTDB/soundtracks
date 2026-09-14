@@ -2177,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lǜyěxiānzōng | 320152 | [320152-luyexianzong.json](./320152-luyexianzong.json) |
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
 | Lyantei | 114993 | [114993-lyantei.json](./114993-lyantei.json) |
+| Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
 | Lynne | 105107 | [105107-lynne.json](./105107-lynne.json) |
 | Lyratha: Labyrinth - Survival Escape | 115682 | [115682-lyratha-labyrinth-survival-escape.json](./115682-lyratha-labyrinth-survival-escape.json) |
 | LyraVR | 29923 | [29923-lyravr.json](./29923-lyravr.json) |
