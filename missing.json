@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T14:19:15.335Z",
-  "total_missing": 70070,
+  "generated_at": "2026-09-14T14:21:32.280Z",
+  "total_missing": 70069,
   "games": [
     {
       "igdb_id": 306086,
@@ -4456,11 +4456,6 @@
       "igdb_id": 132254,
       "game_name": "Adverse",
       "file": "missing/A/132254-adverse.json"
-    },
-    {
-      "igdb_id": 229941,
-      "game_name": "Advise the King",
-      "file": "missing/A/229941-advise-the-king.json"
     },
     {
       "igdb_id": 184042,
