@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Cross | 90169 | [90169-cardinal-cross.json](./90169-cardinal-cross.json) |
 | Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
 | Cardlock | 184582 | [184582-cardlock.json](./184582-cardlock.json) |
+| Cardmare: Descent | 398444 | [398444-cardmare-descent.json](./398444-cardmare-descent.json) |
 | Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
 | Cards | 12918 | [12918-cards.json](./12918-cards.json) |
@@ -694,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cast VR | 132206 | [132206-cast-vr.json](./132206-cast-vr.json) |
 | Castaside | 348270 | [348270-castaside.json](./348270-castaside.json) |
 | Castaway Coconuts | 307916 | [307916-castaway-coconuts.json](./307916-castaway-coconuts.json) |
+| Castaway Diary: Portal to the Unknown Isles | 398422 | [398422-castaway-diary-portal-to-the-unknown-isles.json](./398422-castaway-diary-portal-to-the-unknown-isles.json) |
 | Castaway Paradise | 36279 | [36279-castaway-paradise.json](./36279-castaway-paradise.json) |
 | Castaway Survival In Ocean: Build Your Own Raft, Craft | 409694 | [409694-castaway-survival-in-ocean-build-your-own-raft-craft.json](./409694-castaway-survival-in-ocean-build-your-own-raft-craft.json) |
 | Castaways VR | 120341 | [120341-castaways-vr.json](./120341-castaways-vr.json) |
@@ -1906,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
 | Chuusotsu! 1st Graduation: Time After Time | 36485 | [36485-chuusotsu-1st-graduation-time-after-time.json](./36485-chuusotsu-1st-graduation-time-after-time.json) |
 | Chuxie | 308857 | [308857-chuxie.json](./308857-chuxie.json) |
+| Chuxie2 | 398418 | [398418-chuxie2.json](./398418-chuxie2.json) |
 | Chuzzle | 3758 | [3758-chuzzle.json](./3758-chuzzle.json) |
 | Chuzzle Deluxe | 27748 | [27748-chuzzle-deluxe.json](./27748-chuzzle-deluxe.json) |
 | Chuzzo | 316413 | [316413-chuzzo.json](./316413-chuzzo.json) |
@@ -3023,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra | 186226 | [186226-contra.json](./186226-contra.json) |
 | Contra Force | 24978 | [24978-contra-force.json](./24978-contra-force.json) |
 | Contra Run & Gun Bundle | 317236 | [317236-contra-run-and-gun-bundle.json](./317236-contra-run-and-gun-bundle.json) |
+| Contract Bridge Solo | 398415 | [398415-contract-bridge-solo.json](./398415-contract-bridge-solo.json) |
 | Contract Cooks | 403578 | [403578-contract-cooks.json](./403578-contract-cooks.json) |
 | Contract J.A.C.K. | 1336 | [1336-contract-j-a-c-k.json](./1336-contract-j-a-c-k.json) |
 | Contract Killers | 132218 | [132218-contract-killers.json](./132218-contract-killers.json) |
@@ -3340,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countless Rooms of Death | 35945 | [35945-countless-rooms-of-death.json](./35945-countless-rooms-of-death.json) |
 | Country Architect | 376445 | [376445-country-architect.json](./376445-country-architect.json) |
 | Country Girl Keiko | 117867 | [117867-country-girl-keiko.json](./117867-country-girl-keiko.json) |
+| Country Hopper | 398412 | [398412-country-hopper.json](./398412-country-hopper.json) |
 | Country House | 169983 | [169983-country-house.json](./169983-country-house.json) |
 | Country Star | 292826 | [292826-country-star.json](./292826-country-star.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
