@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: Goldilocks and the Fallen Star - Collector's Edition | 61593 | [61593-dark-parables-goldilocks-and-the-fallen-star-collectors-edition.json](./61593-dark-parables-goldilocks-and-the-fallen-star-collectors-edition.json) |
 | Dark Parables: Jack and the Sky Kingdom - Collector's Edition | 29809 | [29809-dark-parables-jack-and-the-sky-kingdom-collectors-edition.json](./29809-dark-parables-jack-and-the-sky-kingdom-collectors-edition.json) |
 | Dark Parables: Return of the Salt Princess | 123634 | [123634-dark-parables-return-of-the-salt-princess.json](./123634-dark-parables-return-of-the-salt-princess.json) |
+| Dark Parables: The Little Mermaid and the Purple Tide - Collector's Edition | 33232 | [33232-dark-parables-the-little-mermaid-and-the-purple-tide-collectors-edition.json](./33232-dark-parables-the-little-mermaid-and-the-purple-tide-collectors-edition.json) |
 | Dark Parables: The Match Girl's Lost Paradise | 123635 | [123635-dark-parables-the-match-girls-lost-paradise.json](./123635-dark-parables-the-match-girls-lost-paradise.json) |
 | Dark Parables: The Match Girl's Lost Paradise - Collector's Edition | 111694 | [111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json](./111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json) |
 | Dark Place 1 | 272026 | [272026-dark-place-1.json](./272026-dark-place-1.json) |
@@ -884,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
 | Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! | 204480 | [204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json](./204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json) |
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
+| Dear Red: Extended | 33250 | [33250-dear-red-extended.json](./33250-dear-red-extended.json) |
 | Death | 123553 | [123553-death.json](./123553-death.json) |
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
 | Death Alley | 179681 | [179681-death-alley.json](./179681-death-alley.json) |
@@ -1000,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decent Into Sector 32 | 165641 | [165641-decent-into-sector-32.json](./165641-decent-into-sector-32.json) |
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
 | Decision | 299762 | [299762-decision.json](./299762-decision.json) |
+| Decisive Campaigns: Barbarossa | 33205 | [33205-decisive-campaigns-barbarossa.json](./33205-decisive-campaigns-barbarossa.json) |
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
 | Deck Collector | 404827 | [404827-deck-collector.json](./404827-deck-collector.json) |
 | Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
@@ -2496,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
 | Dolphin Olympics 2 | 159287 | [159287-dolphin-olympics-2.json](./159287-dolphin-olympics-2.json) |
 | Dolphy Dash | 104003 | [104003-dolphy-dash.json](./104003-dolphy-dash.json) |
+| Domain Defense | 33197 | [33197-domain-defense.json](./33197-domain-defense.json) |
 | Domains of Dusk | 217290 | [217290-domains-of-dusk.json](./217290-domains-of-dusk.json) |
 | Dome-King Cabbage | 152283 | [152283-dome-king-cabbage.json](./152283-dome-king-cabbage.json) |
 | Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
@@ -2549,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Choke | 180754 | [180754-dont-choke.json](./180754-dont-choke.json) |
 | Don't Crash: The Political Game | 159863 | [159863-dont-crash-the-political-game.json](./159863-dont-crash-the-political-game.json) |
 | Don't Cut Your Hand 2 | 158729 | [158729-dont-cut-your-hand-2.json](./158729-dont-cut-your-hand-2.json) |
+| Don't Die Dateless, Dummy! | 33198 | [33198-dont-die-dateless-dummy.json](./33198-dont-die-dateless-dummy.json) |
 | Don't Die, Mr. Robot! | 52178 | [52178-dont-die-mr-robot.json](./52178-dont-die-mr-robot.json) |
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
