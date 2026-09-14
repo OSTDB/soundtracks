@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeaCret 1 | 352464 | [352464-seacret-1.json](./352464-seacret-1.json) |
 | Seaforge: Shores of Atlantis | 415872 | [415872-seaforge-shores-of-atlantis.json](./415872-seaforge-shores-of-atlantis.json) |
 | Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
+| Seal Game's | 389608 | [389608-seal-games.json](./389608-seal-games.json) |
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
 | Sealark | 64393 | [64393-sealark.json](./64393-sealark.json) |
@@ -3239,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slowly Fighter | 333926 | [333926-slowly-fighter.json](./333926-slowly-fighter.json) |
 | Sludge & Sorcery | 183005 | [183005-sludge-and-sorcery.json](./183005-sludge-and-sorcery.json) |
 | Sludge Department | 406197 | [406197-sludge-department.json](./406197-sludge-department.json) |
+| Sludgineers | 389622 | [389622-sludgineers.json](./389622-sludgineers.json) |
 | Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
 | Sluggish Morss: Days of the Purple Sun | 30831 | [30831-sluggish-morss-days-of-the-purple-sun.json](./30831-sluggish-morss-days-of-the-purple-sun.json) |
 | Sluggy Jean Takes a Hike | 169365 | [169365-sluggy-jean-takes-a-hike.json](./169365-sluggy-jean-takes-a-hike.json) |
@@ -6287,6 +6289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stinker Golf | 406107 | [406107-stinker-golf.json](./406107-stinker-golf.json) |
 | Stinky Company Simulator | 211741 | [211741-stinky-company-simulator.json](./211741-stinky-company-simulator.json) |
 | Stint: Rift Apart | 191168 | [191168-stint-rift-apart.json](./191168-stint-rift-apart.json) |
+| Stirge Hunters | 389600 | [389600-stirge-hunters.json](./389600-stirge-hunters.json) |
 | Stitch. | 225655 | [225655-stitch.json](./225655-stitch.json) |
 | Stitch's Blazing Lasers | 342673 | [342673-stitchs-blazing-lasers.json](./342673-stitchs-blazing-lasers.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
@@ -6999,6 +7002,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
 | Sun Breed | 264037 | [264037-sun-breed.json](./264037-sun-breed.json) |
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
+| Sun Haven: Emerald Elegance Pack | 389574 | [389574-sun-haven-emerald-elegance-pack.json](./389574-sun-haven-emerald-elegance-pack.json) |
+| Sun Haven: Flames and Ashes Pack | 389575 | [389575-sun-haven-flames-and-ashes-pack.json](./389575-sun-haven-flames-and-ashes-pack.json) |
+| Sun Haven: Once Upon a Time Pack | 389569 | [389569-sun-haven-once-upon-a-time-pack.json](./389569-sun-haven-once-upon-a-time-pack.json) |
+| Sun Haven: Radiant Royalty Pack | 389568 | [389568-sun-haven-radiant-royalty-pack.json](./389568-sun-haven-radiant-royalty-pack.json) |
+| Sun Haven: Snow Yeti Pack | 389571 | [389571-sun-haven-snow-yeti-pack.json](./389571-sun-haven-snow-yeti-pack.json) |
+| Sun Haven: Squeaky Clean Pack | 389572 | [389572-sun-haven-squeaky-clean-pack.json](./389572-sun-haven-squeaky-clean-pack.json) |
+| Sun Haven: Tea Temple Pack | 389573 | [389573-sun-haven-tea-temple-pack.json](./389573-sun-haven-tea-temple-pack.json) |
+| Sun Haven: Tis the Season Pack | 389570 | [389570-sun-haven-tis-the-season-pack.json](./389570-sun-haven-tis-the-season-pack.json) |
 | Sun Meadow | 385076 | [385076-sun-meadow.json](./385076-sun-meadow.json) |
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
 | Sun Temple Shootout | 87697 | [87697-sun-temple-shootout.json](./87697-sun-temple-shootout.json) |
