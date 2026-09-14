@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janky Tanks | 35877 | [35877-janky-tanks.json](./35877-janky-tanks.json) |
 | Janosik | 64913 | [64913-janosik.json](./64913-janosik.json) |
 | Janosik 2: Prologue | 316419 | [316419-janosik-2-prologue.json](./316419-janosik-2-prologue.json) |
+| Janpuu 7 | 415965 | [415965-janpuu-7.json](./415965-janpuu-7.json) |
 | Jantei Monogatari 3: Saver Angels | 321173 | [321173-jantei-monogatari-3-saver-angels.json](./321173-jantei-monogatari-3-saver-angels.json) |
 | Janusz: The Handyman Simulator | 163404 | [163404-janusz-the-handyman-simulator.json](./163404-janusz-the-handyman-simulator.json) |
 | Japan Mahjong | 334660 | [334660-japan-mahjong.json](./334660-japan-mahjong.json) |
@@ -659,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juggle! | 91904 | [91904-juggle.json](./91904-juggle.json) |
 | Juggles' Butterfly | 72105 | [72105-juggles-butterfly.json](./72105-juggles-butterfly.json) |
 | Juggling | 340778 | [340778-juggling.json](./340778-juggling.json) |
+| Juggling Jolt | 415883 | [415883-juggling-jolt.json](./415883-juggling-jolt.json) |
 | JugiPaint | 105990 | [105990-jugipaint.json](./105990-jugipaint.json) |
 | Juglr | 382226 | [382226-juglr.json](./382226-juglr.json) |
 | Jugs Bay | 304618 | [304618-jugs-bay.json](./304618-jugs-bay.json) |
@@ -864,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 2: Multiplayer Mod | 93898 | [93898-just-cause-2-multiplayer-mod.json](./93898-just-cause-2-multiplayer-mod.json) |
 | Just Cause Collection | 53245 | [53245-just-cause-collection.json](./53245-just-cause-collection.json) |
 | Just Climb | 286011 | [286011-just-climb.json](./286011-just-climb.json) |
+| Just Coffee with the Café Guy | 417582 | [417582-just-coffee-with-the-cafe-guy.json](./417582-just-coffee-with-the-cafe-guy.json) |
 | Just Crow Things | 264321 | [264321-just-crow-things.json](./264321-just-crow-things.json) |
 | Just Dance 2018 | 37067 | [37067-just-dance-2018.json](./37067-just-dance-2018.json) |
 | Just Dance 2022: Deluxe Edition | 182474 | [182474-just-dance-2022-deluxe-edition.json](./182474-just-dance-2022-deluxe-edition.json) |
