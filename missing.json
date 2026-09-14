@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T13:19:06.836Z",
-  "total_missing": 69911,
+  "generated_at": "2026-09-14T13:21:35.118Z",
+  "total_missing": 69910,
   "games": [
     {
       "igdb_id": 306086,
@@ -4426,11 +4426,6 @@
       "igdb_id": 101639,
       "game_name": "Adventures of Pipi 2: Save Hype",
       "file": "missing/A/101639-adventures-of-pipi-2-save-hype.json"
-    },
-    {
-      "igdb_id": 168858,
-      "game_name": "Adventures of Sadukar: Chapter I",
-      "file": "missing/A/168858-adventures-of-sadukar-chapter-i.json"
     },
     {
       "igdb_id": 53166,
