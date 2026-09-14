@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Beach Volleyball Havoc | 313127 | [313127-fairy-tail-beach-volleyball-havoc.json](./313127-fairy-tail-beach-volleyball-havoc.json) |
 | Fairy Tail: Dungeons | 313123 | [313123-fairy-tail-dungeons.json](./313123-fairy-tail-dungeons.json) |
 | Fairy Tail: Forces Unite! | 193970 | [193970-fairy-tail-forces-unite.json](./193970-fairy-tail-forces-unite.json) |
+| Fairy Tale Diaries | 110972 | [110972-fairy-tale-diaries.json](./110972-fairy-tale-diaries.json) |
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
 | Fairy Tower | 213964 | [213964-fairy-tower.json](./213964-fairy-tower.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
