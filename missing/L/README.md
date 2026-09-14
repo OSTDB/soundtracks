@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lane of the Eternal Night | 406207 | [406207-lane-of-the-eternal-night.json](./406207-lane-of-the-eternal-night.json) |
 | Lane Splitter | 233227 | [233227-lane-splitter.json](./233227-lane-splitter.json) |
 | Lanescape | 203570 | [203570-lanescape.json](./203570-lanescape.json) |
+| Laney, This Won’t Make You Happier | 400973 | [400973-laney-this-won-t-make-you-happier.json](./400973-laney-this-won-t-make-you-happier.json) |
 | Làngjì Sānguó | 150636 | [150636-langji-sanguo.json](./150636-langji-sanguo.json) |
 | Langoth | 29756 | [29756-langoth.json](./29756-langoth.json) |
 | Langrisser I & II | 62775 | [62775-langrisser-i-and-ii.json](./62775-langrisser-i-and-ii.json) |
@@ -265,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lassie | 43331 | [43331-lassie.json](./43331-lassie.json) |
 | Lasso Catch | 277575 | [277575-lasso-catch.json](./277575-lasso-catch.json) |
 | Last | 356627 | [356627-last.json](./356627-last.json) |
+| Last $50 | 400954 | [400954-last-50.json](./400954-last-50.json) |
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
@@ -2041,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luce Spenta | 371240 | [371240-luce-spenta.json](./371240-luce-spenta.json) |
 | Luce's Journey: A Victorian Trading Tale | 271210 | [271210-luces-journey-a-victorian-trading-tale.json](./271210-luces-journey-a-victorian-trading-tale.json) |
 | Lucen | 132795 | [132795-lucen.json](./132795-lucen.json) |
+| Lucent VR | 400936 | [400936-lucent-vr.json](./400936-lucent-vr.json) |
 | Lucerna Tenebris | 180767 | [180767-lucerna-tenebris.json](./180767-lucerna-tenebris.json) |
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
