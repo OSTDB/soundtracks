@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T12:01:36.321Z",
-  "total_missing": 69696,
+  "generated_at": "2026-09-14T12:11:37.572Z",
+  "total_missing": 69699,
   "games": [
     {
       "igdb_id": 306086,
@@ -4391,11 +4391,6 @@
       "igdb_id": 8130,
       "game_name": "Adventures in the Magic Kingdom",
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
-    },
-    {
-      "igdb_id": 322357,
-      "game_name": "Adventures of a Cat in Space",
-      "file": "missing/A/322357-adventures-of-a-cat-in-space.json"
     },
     {
       "igdb_id": 134695,
@@ -72836,6 +72831,11 @@
       "igdb_id": 97381,
       "game_name": "Diagnosis -Inma no Note-",
       "file": "missing/D/97381-diagnosis-inma-no-note.json"
+    },
+    {
+      "igdb_id": 403023,
+      "game_name": "Dial M for Machina",
+      "file": "missing/D/403023-dial-m-for-machina.json"
     },
     {
       "igdb_id": 195718,
@@ -189008,6 +189008,11 @@
       "file": "missing/M/165708-my-life-changed.json"
     },
     {
+      "igdb_id": 403025,
+      "game_name": "My Life in a Monster Girl Paradise",
+      "file": "missing/M/403025-my-life-in-a-monster-girl-paradise.json"
+    },
+    {
       "igdb_id": 220875,
       "game_name": "My Life: Pet Vet",
       "file": "missing/M/220875-my-life-pet-vet.json"
@@ -211216,6 +211221,11 @@
       "igdb_id": 13745,
       "game_name": "Pengwyn",
       "file": "missing/P/13745-pengwyn.json"
+    },
+    {
+      "igdb_id": 403024,
+      "game_name": "Penis Simulator",
+      "file": "missing/P/403024-penis-simulator.json"
     },
     {
       "igdb_id": 110860,
@@ -268506,6 +268516,11 @@
       "igdb_id": 45325,
       "game_name": "Spooked",
       "file": "missing/S/45325-spooked.json"
+    },
+    {
+      "igdb_id": 403027,
+      "game_name": "Spooker",
+      "file": "missing/S/403027-spooker.json"
     },
     {
       "igdb_id": 170549,
