@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Run | 70366 | [70366-omega-run.json](./70366-omega-run.json) |
 | Omega Strike | 39752 | [39752-omega-strike.json](./39752-omega-strike.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
+| Omega Vanitas | 416607 | [416607-omega-vanitas.json](./416607-omega-vanitas.json) |
 | Omega-Altro | 156117 | [156117-omega-altro.json](./156117-omega-altro.json) |
 | Omega: The Beginning | 117700 | [117700-omega-the-beginning.json](./117700-omega-the-beginning.json) |
 | OmegaBot | 154001 | [154001-omegabot.json](./154001-omegabot.json) |
@@ -811,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Fortress | 134576 | [134576-open-fortress.json](./134576-open-fortress.json) |
 | Open Heart: Book 1 | 313721 | [313721-open-heart-book-1.json](./313721-open-heart-book-1.json) |
 | Open Heart: Second Year | 313722 | [313722-open-heart-second-year.json](./313722-open-heart-second-year.json) |
+| Open Nectar | 416628 | [416628-open-nectar.json](./416628-open-nectar.json) |
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
 | Open School World | 297505 | [297505-open-school-world.json](./297505-open-school-world.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
