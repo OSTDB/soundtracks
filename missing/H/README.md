@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron: Road to War | 64993 | [64993-hearts-of-iron-road-to-war.json](./64993-hearts-of-iron-road-to-war.json) |
 | Hearts on Fire | 313720 | [313720-hearts-on-fire.json](./313720-hearts-on-fire.json) |
 | Hearts Online | 317011 | [317011-hearts-online.json](./317011-hearts-online.json) |
+| Hearts Premium HD | 86867 | [86867-hearts-premium-hd.json](./86867-hearts-premium-hd.json) |
 | Hearts: Card Game | 143066 | [143066-hearts-card-game.json](./143066-hearts-card-game.json) |
 | Hearts: Classic Fun Card Game | 87549 | [87549-hearts-classic-fun-card-game.json](./87549-hearts-classic-fun-card-game.json) |
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
@@ -1579,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High on Life: High on Knife | 253091 | [253091-high-on-life-high-on-knife.json](./253091-high-on-life-high-on-knife.json) |
 | High Rise | 229051 | [229051-high-rise.json](./229051-high-rise.json) |
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
+| High School Crush | 86812 | [86812-high-school-crush.json](./86812-high-school-crush.json) |
 | High School Daze: Afterschool Stories | 264349 | [264349-high-school-daze-afterschool-stories.json](./264349-high-school-daze-afterschool-stories.json) |
 | High School Daze: Junior Year | 264348 | [264348-high-school-daze-junior-year.json](./264348-high-school-daze-junior-year.json) |
 | High School Escape 2 | 96702 | [96702-high-school-escape-2.json](./96702-high-school-escape-2.json) |
@@ -2615,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
 | Hydrofusion Substation | 270677 | [270677-hydrofusion-substation.json](./270677-hydrofusion-substation.json) |
 | Hydropawnics | 371893 | [371893-hydropawnics.json](./371893-hydropawnics.json) |
+| Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hymeno Striker: Akashicverse Minigame | 171597 | [171597-hymeno-striker-akashicverse-minigame.json](./171597-hymeno-striker-akashicverse-minigame.json) |
 | Hyokkori Hyoutan-jima: Takaramono Tocchae! | 346028 | [346028-hyokkori-hyoutan-jima-takaramono-tocchae.json](./346028-hyokkori-hyoutan-jima-takaramono-tocchae.json) |
 | Hyouji Gazou Henkou Kanou Typing | 301609 | [301609-hyouji-gazou-henkou-kanou-typing.json](./301609-hyouji-gazou-henkou-kanou-typing.json) |
