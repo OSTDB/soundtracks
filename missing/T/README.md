@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavernia | 391212 | [391212-tavernia.json](./391212-tavernia.json) |
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
+| Tax Return | 390679 | [390679-tax-return.json](./390679-tax-return.json) |
 | Taxi 3 | 138156 | [138156-taxi-3.json](./138156-taxi-3.json) |
 | Taxi By Night | 184653 | [184653-taxi-by-night.json](./184653-taxi-by-night.json) |
 | Taxi Challenge: London | 116972 | [116972-taxi-challenge-london.json](./116972-taxi-challenge-london.json) |
@@ -836,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeny Titans: Teen Titans Go! | 38941 | [38941-teeny-titans-teen-titans-go.json](./38941-teeny-titans-teen-titans-go.json) |
 | Teeter | 205067 | [205067-teeter.json](./205067-teeter.json) |
 | Teeth Brushing Simulator | 228730 | [228730-teeth-brushing-simulator.json](./228730-teeth-brushing-simulator.json) |
+| Teeth Cutter | 390617 | [390617-teeth-cutter.json](./390617-teeth-cutter.json) |
 | Teething | 63797 | [63797-teething.json](./63797-teething.json) |
 | Teeto | 285987 | [285987-teeto.json](./285987-teeto.json) |
 | Tehodoki Koukan: Gibo & Tomohaha Harem-Hen | 91374 | [91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json](./91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json) |
@@ -3051,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Drift | 392303 | [392303-the-long-drift.json](./392303-the-long-drift.json) |
 | The Long Gate | 127215 | [127215-the-long-gate.json](./127215-the-long-gate.json) |
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
+| The Long Winter: I Am Not an Animal | 390646 | [390646-the-long-winter-i-am-not-an-animal.json](./390646-the-long-winter-i-am-not-an-animal.json) |
 | The Longest Drift | 175441 | [175441-the-longest-drift.json](./175441-the-longest-drift.json) |
 | The Longest Five Minutes | 44078 | [44078-the-longest-five-minutes.json](./44078-the-longest-five-minutes.json) |
 | The Longest Journey Remastered | 27658 | [27658-the-longest-journey-remastered.json](./27658-the-longest-journey-remastered.json) |
@@ -3267,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
 | The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
 | The Morphine Western Revenge | 185622 | [185622-the-morphine-western-revenge.json](./185622-the-morphine-western-revenge.json) |
+| The Mortimer Paradox | 390616 | [390616-the-mortimer-paradox.json](./390616-the-mortimer-paradox.json) |
 | The Mortuary Assistant | 133131 | [133131-the-mortuary-assistant.json](./133131-the-mortuary-assistant.json) |
 | The Mortuary Assistant: Definitive Edition | 312284 | [312284-the-mortuary-assistant-definitive-edition.json](./312284-the-mortuary-assistant-definitive-edition.json) |
 | The Most Addicting Sheep Game | 100730 | [100730-the-most-addicting-sheep-game.json](./100730-the-most-addicting-sheep-game.json) |
@@ -3374,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Forest | 199588 | [199588-the-old-forest.json](./199588-the-old-forest.json) |
 | The Old House | 138760 | [138760-the-old-house.json](./138760-the-old-house.json) |
 | The Old Man Club | 59987 | [59987-the-old-man-club.json](./59987-the-old-man-club.json) |
+| The Old Man’s Will | 390660 | [390660-the-old-man-s-will.json](./390660-the-old-man-s-will.json) |
 | The Old Mill | 184040 | [184040-the-old-mill.json](./184040-the-old-mill.json) |
 | The Oldest Edda | 190721 | [190721-the-oldest-edda.json](./190721-the-oldest-edda.json) |
 | The Omega Stone: Riddle of the Sphinx II | 71524 | [71524-the-omega-stone-riddle-of-the-sphinx-ii.json](./71524-the-omega-stone-riddle-of-the-sphinx-ii.json) |
@@ -4002,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Storm Guard: Darkness is Coming | 23174 | [23174-the-storm-guard-darkness-is-coming.json](./23174-the-storm-guard-darkness-is-coming.json) |
 | The Story For Snow Moon | 97830 | [97830-the-story-for-snow-moon.json](./97830-the-story-for-snow-moon.json) |
 | The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
+| The Story of Mikagoyama | 390661 | [390661-the-story-of-mikagoyama.json](./390661-the-story-of-mikagoyama.json) |
 | The Story of the Revolutionary Watermelon That Wanted to Live Free as a Bird and Learned How to Escape | 144241 | [144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json](./144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json) |
 | The Storyteller | 302369 | [302369-the-storyteller.json](./302369-the-storyteller.json) |
 | The StoryTeller | 324670 | [324670-the-storyteller.json](./324670-the-storyteller.json) |
@@ -4277,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trader | 159881 | [159881-the-trader.json](./159881-the-trader.json) |
 | The Trader: Good Dealer Simulator | 221157 | [221157-the-trader-good-dealer-simulator.json](./221157-the-trader-good-dealer-simulator.json) |
 | The Trail: Frontier Challenge | 49120 | [49120-the-trail-frontier-challenge.json](./49120-the-trail-frontier-challenge.json) |
+| The Trailer Incident | 390652 | [390652-the-trailer-incident.json](./390652-the-trailer-incident.json) |
 | The Train Can't Escape Without XXX!? | 353915 | [353915-the-train-cant-escape-without-xxx.json](./353915-the-train-cant-escape-without-xxx.json) |
 | The Training Diary of a Novice Magician Shin | 82810 | [82810-the-training-diary-of-a-novice-magician-shin.json](./82810-the-training-diary-of-a-novice-magician-shin.json) |
 | The Tram | 413738 | [413738-the-tram.json](./413738-the-tram.json) |
@@ -4918,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiamat X | 35900 | [35900-tiamat-x.json](./35900-tiamat-x.json) |
 | Tiamat's Drink | 127198 | [127198-tiamats-drink.json](./127198-tiamats-drink.json) |
 | Tiān Yuán Chuánshuō | 407320 | [407320-tian-yuan-chuanshuo.json](./407320-tian-yuan-chuanshuo.json) |
+| Tiana's Fishing Diary | 390640 | [390640-tianas-fishing-diary.json](./390640-tianas-fishing-diary.json) |
 | Tianlao Sokoban | 107820 | [107820-tianlao-sokoban.json](./107820-tianlao-sokoban.json) |
 | Tiānqì | 167820 | [167820-tianqi.json](./167820-tianqi.json) |
 | Tiānrén zhī Xuè: Ancient Relic | 394213 | [394213-tianren-zhi-xue-ancient-relic.json](./394213-tianren-zhi-xue-ancient-relic.json) |
@@ -6067,6 +6075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
 | Topic Twister | 254162 | [254162-topic-twister.json](./254162-topic-twister.json) |
 | Topo Mix Game | 204107 | [204107-topo-mix-game.json](./204107-topo-mix-game.json) |
+| Topobeam | 390647 | [390647-topobeam.json](./390647-topobeam.json) |
 | Topografie Nederland | 86027 | [86027-topografie-nederland.json](./86027-topografie-nederland.json) |
 | Topolino amico delle guardie | 246664 | [246664-topolino-amico-delle-guardie.json](./246664-topolino-amico-delle-guardie.json) |
 | Topper Carrier | 152830 | [152830-topper-carrier.json](./152830-topper-carrier.json) |
@@ -7452,6 +7461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tune My Car: Tuning Studio & Mechanic Simulator 2026 | 409562 | [409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json](./409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json) |
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
 | Tuneria | 140025 | [140025-tuneria.json](./140025-tuneria.json) |
+| Tung Tung Together: Online Deathrun Party | 390634 | [390634-tung-tung-together-online-deathrun-party.json](./390634-tung-tung-together-online-deathrun-party.json) |
 | Tungulus | 47986 | [47986-tungulus.json](./47986-tungulus.json) |
 | Tunguska: Legend of Faith | 43901 | [43901-tunguska-legend-of-faith.json](./43901-tunguska-legend-of-faith.json) |
 | Tunguska: The Visitation | 152320 | [152320-tunguska-the-visitation.json](./152320-tunguska-the-visitation.json) |
