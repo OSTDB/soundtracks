@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity Classics: Volume 1 | 84252 | [84252-velocity-classics-volume-1.json](./84252-velocity-classics-volume-1.json) |
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
 | Velocity Uncapped | 411614 | [411614-velocity-uncapped.json](./411614-velocity-uncapped.json) |
+| Velocity: The Race Begins | 408903 | [408903-velocity-the-race-begins.json](./408903-velocity-the-race-begins.json) |
 | Velucity | 155656 | [155656-velucity.json](./155656-velucity.json) |
 | Velvet Dark | 130336 | [130336-velvet-dark.json](./130336-velvet-dark.json) |
 | Velvet Hammer | 392149 | [392149-velvet-hammer.json](./392149-velvet-hammer.json) |
@@ -406,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vesper | 137046 | [137046-vesper.json](./137046-vesper.json) |
 | Vesper Hotel | 391067 | [391067-vesper-hotel.json](./391067-vesper-hotel.json) |
 | Vesper: Ether Saga | 158673 | [158673-vesper-ether-saga.json](./158673-vesper-ether-saga.json) |
+| Vespera | 408878 | [408878-vespera.json](./408878-vespera.json) |
 | Vespera_Hotel | 296105 | [296105-vespera-hotel.json](./296105-vespera-hotel.json) |
 | Vesperia Bononia | 332268 | [332268-vesperia-bononia.json](./332268-vesperia-bononia.json) |
 | Vessel Damage Control Trainer | 243417 | [243417-vessel-damage-control-trainer.json](./243417-vessel-damage-control-trainer.json) |
