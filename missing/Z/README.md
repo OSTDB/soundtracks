@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Garden | 25980 | [25980-zen-garden.json](./25980-zen-garden.json) |
 | Zen Koi 2 | 90702 | [90702-zen-koi-2.json](./90702-zen-koi-2.json) |
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
+| Zen Mosaics | 415860 | [415860-zen-mosaics.json](./415860-zen-mosaics.json) |
 | Zen Training | 316067 | [316067-zen-training.json](./316067-zen-training.json) |
 | Zen Wars | 200187 | [200187-zen-wars.json](./200187-zen-wars.json) |
 | Zen-Ichi | 82119 | [82119-zen-ichi.json](./82119-zen-ichi.json) |
