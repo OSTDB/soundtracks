@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
 | Tavenier | 81420 | [81420-tavenier.json](./81420-tavenier.json) |
 | Tavern Cards | 129098 | [129098-tavern-cards.json](./129098-tavern-cards.json) |
+| Tavern Deep Cauldron | 401024 | [401024-tavern-deep-cauldron.json](./401024-tavern-deep-cauldron.json) |
 | Tavern Girl | 290949 | [290949-tavern-girl.json](./290949-tavern-girl.json) |
 | Tavern of Empire | 248670 | [248670-tavern-of-empire.json](./248670-tavern-of-empire.json) |
 | Tavern Rivals | 417566 | [417566-tavern-rivals.json](./417566-tavern-rivals.json) |
@@ -1281,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Absolutely Hilarious Cat Game | 153959 | [153959-the-absolutely-hilarious-cat-game.json](./153959-the-absolutely-hilarious-cat-game.json) |
 | The Abyss | 237353 | [237353-the-abyss.json](./237353-the-abyss.json) |
 | The Abyss Has Walls | 195760 | [195760-the-abyss-has-walls.json](./195760-the-abyss-has-walls.json) |
+| The Abyssal Diplomat | 400939 | [400939-the-abyssal-diplomat.json](./400939-the-abyssal-diplomat.json) |
 | The Abyssal Zone | 12246 | [12246-the-abyssal-zone.json](./12246-the-abyssal-zone.json) |
 | The Academy | 302947 | [302947-the-academy.json](./302947-the-academy.json) |
 | The Academy: Love Potions | 112282 | [112282-the-academy-love-potions.json](./112282-the-academy-love-potions.json) |
@@ -1586,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boondock Saints Video Game | 95391 | [95391-the-boondock-saints-video-game.json](./95391-the-boondock-saints-video-game.json) |
 | The Borderless | 406117 | [406117-the-borderless.json](./406117-the-borderless.json) |
 | The Boss Baby: Get That Baby! | 256853 | [256853-the-boss-baby-get-that-baby.json](./256853-the-boss-baby-get-that-baby.json) |
+| The Boss Gangster: Criminal Empire - From the Streets | 400956 | [400956-the-boss-gangster-criminal-empire-from-the-streets.json](./400956-the-boss-gangster-criminal-empire-from-the-streets.json) |
 | The Botanist | 26425 | [26425-the-botanist.json](./26425-the-botanist.json) |
 | The Bou: Special Edition | 278745 | [278745-the-bou-special-edition.json](./278745-the-bou-special-edition.json) |
 | The Bouncing Ball | 195207 | [195207-the-bouncing-ball.json](./195207-the-bouncing-ball.json) |
@@ -2003,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Door | 246123 | [246123-the-door.json](./246123-the-door.json) |
 | The Door at the End of the Hall | 398321 | [398321-the-door-at-the-end-of-the-hall.json](./398321-the-door-at-the-end-of-the-hall.json) |
 | The Door Factory | 405529 | [405529-the-door-factory.json](./405529-the-door-factory.json) |
+| The Door in The Skybox | 400977 | [400977-the-door-in-the-skybox.json](./400977-the-door-in-the-skybox.json) |
 | The Door Museum | 177483 | [177483-the-door-museum.json](./177483-the-door-museum.json) |
 | The Dot | 226205 | [226205-the-dot.json](./226205-the-dot.json) |
 | The Downgeon | 137640 | [137640-the-downgeon.json](./137640-the-downgeon.json) |
@@ -2233,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finally | 201798 | [201798-the-finally.json](./201798-the-finally.json) |
 | The Finals: Season 11 - Galaxy Masters! | 409700 | [409700-the-finals-season-11-galaxy-masters.json](./409700-the-finals-season-11-galaxy-masters.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
+| The Finals: Season 6 - Rising Stars! | 400948 | [400948-the-finals-season-6-rising-stars.json](./400948-the-finals-season-6-rising-stars.json) |
 | The Find | 326989 | [326989-the-find.json](./326989-the-find.json) |
 | The Fire Rises | 321742 | [321742-the-fire-rises.json](./321742-the-fire-rises.json) |
 | The Firebrand | 295246 | [295246-the-firebrand.json](./295246-the-firebrand.json) |
@@ -2644,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jingol | 306972 | [306972-the-jingol.json](./306972-the-jingol.json) |
 | The Johnny Papa | 265124 | [265124-the-johnny-papa.json](./265124-the-johnny-papa.json) |
 | The Joker's Wild | 46562 | [46562-the-jokers-wild.json](./46562-the-jokers-wild.json) |
+| The Journal of Ambrose Brant | 401025 | [401025-the-journal-of-ambrose-brant.json](./401025-the-journal-of-ambrose-brant.json) |
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
 | The Journey of AutUmn | 164996 | [164996-the-journey-of-autumn.json](./164996-the-journey-of-autumn.json) |
@@ -4594,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's No Way A Pastry Chef Could Be This Strong! | 82832 | [82832-theres-no-way-a-pastry-chef-could-be-this-strong.json](./82832-theres-no-way-a-pastry-chef-could-be-this-strong.json) |
 | There's Nothing Underground | 331290 | [331290-theres-nothing-underground.json](./331290-theres-nothing-underground.json) |
 | There's Poop In My Soup | 33315 | [33315-theres-poop-in-my-soup.json](./33315-theres-poop-in-my-soup.json) |
+| There’s Something Wrong With the Hero’s Choices | 401007 | [401007-there-s-something-wrong-with-the-hero-s-choices.json](./401007-there-s-something-wrong-with-the-hero-s-choices.json) |
 | Therian Crush: Wild Animal Girls | 414453 | [414453-therian-crush-wild-animal-girls.json](./414453-therian-crush-wild-animal-girls.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
@@ -5910,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonari ni Kanojo no Iru Shiawase: I Fight with Summer | 219050 | [219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json](./219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json) |
 | Tonari ni Kanojo no Iru Shiawase: Winter Guest | 142444 | [142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json](./142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json) |
 | Tonari no Princess Rolfee! | 70402 | [70402-tonari-no-princess-rolfee.json](./70402-tonari-no-princess-rolfee.json) |
+| Tonarino | 400960 | [400960-tonarino.json](./400960-tonarino.json) |
 | Tondeke Perman | 385570 | [385570-tondeke-perman.json](./385570-tondeke-perman.json) |
 | Tongari Boushi to Mahou no Machi | 109053 | [109053-tongari-boushi-to-mahou-no-machi.json](./109053-tongari-boushi-to-mahou-no-machi.json) |
 | Tongari Boushi to Mahou no Omise | 109055 | [109055-tongari-boushi-to-mahou-no-omise.json](./109055-tongari-boushi-to-mahou-no-omise.json) |
