@@ -2176,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
 | Mezase! Senkyu Ou | 166151 | [166151-mezase-senkyu-ou.json](./166151-mezase-senkyu-ou.json) |
 | Mezzo Piano: Oshare & Lesson | 327597 | [327597-mezzo-piano-oshare-and-lesson.json](./327597-mezzo-piano-oshare-and-lesson.json) |
+| MFTK: Survivors | 408193 | [408193-mftk-survivors.json](./408193-mftk-survivors.json) |
 | MGP Manager | 260382 | [260382-mgp-manager.json](./260382-mgp-manager.json) |
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
 | Mia | 169370 | [169370-mia.json](./169370-mia.json) |
@@ -3917,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcycle RPG | 196815 | [196815-motorcycle-rpg.json](./196815-motorcycle-rpg.json) |
 | MotoRodeo | 40787 | [40787-motorodeo.json](./40787-motorodeo.json) |
 | Motorsiege: Warriors of Primetime | 44637 | [44637-motorsiege-warriors-of-primetime.json](./44637-motorsiege-warriors-of-primetime.json) |
+| Motorsport Manager 2 | 408153 | [408153-motorsport-manager-2.json](./408153-motorsport-manager-2.json) |
 | Motorstorm: 3D Rift | 74322 | [74322-motorstorm-3d-rift.json](./74322-motorstorm-3d-rift.json) |
 | MotorStorm: Pacific Rift | 2554 | [2554-motorstorm-pacific-rift.json](./2554-motorstorm-pacific-rift.json) |
 | MotoRun | 166739 | [166739-motorun.json](./166739-motorun.json) |
@@ -4812,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythargia | 216993 | [216993-mythargia.json](./216993-mythargia.json) |
 | Mythborne | 23642 | [23642-mythborne.json](./23642-mythborne.json) |
 | MythBusters: The First Experiment | 199095 | [199095-mythbusters-the-first-experiment.json](./199095-mythbusters-the-first-experiment.json) |
+| Mythic Manager | 408151 | [408151-mythic-manager.json](./408151-mythic-manager.json) |
 | Mythic Mire | 332454 | [332454-mythic-mire.json](./332454-mythic-mire.json) |
 | Mythic Mountain | 234615 | [234615-mythic-mountain.json](./234615-mythic-mountain.json) |
 | Mythic Ocean | 93804 | [93804-mythic-ocean.json](./93804-mythic-ocean.json) |
