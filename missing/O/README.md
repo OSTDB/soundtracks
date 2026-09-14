@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
 | Occult | 153954 | [153954-occult.json](./153954-occult.json) |
 | Occult Chambers | 235186 | [235186-occult-chambers.json](./235186-occult-chambers.json) |
+| Occult: Scarlet Elegy | 404973 | [404973-occult-scarlet-elegy.json](./404973-occult-scarlet-elegy.json) |
 | Occulto | 192948 | [192948-occulto.json](./192948-occulto.json) |
 | Ocda | 185117 | [185117-ocda.json](./185117-ocda.json) |
 | Ocean Cargo Manager | 415169 | [415169-ocean-cargo-manager.json](./415169-ocean-cargo-manager.json) |
