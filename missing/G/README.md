@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo-Political Simulator | 79943 | [79943-geo-political-simulator.json](./79943-geo-political-simulator.json) |
 | Geobeast | 386706 | [386706-geobeast.json](./386706-geobeast.json) |
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
+| Geocraft | 388241 | [388241-geocraft.json](./388241-geocraft.json) |
 | Geodessey | 111753 | [111753-geodessey.json](./111753-geodessey.json) |
 | GeoEmpires | 342644 | [342644-geoempires.json](./342644-geoempires.json) |
 | GeoExpert - USA Geography | 98998 | [98998-geoexpert-usa-geography.json](./98998-geoexpert-usa-geography.json) |
@@ -1049,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glimpse | 235988 | [235988-glimpse.json](./235988-glimpse.json) |
 | Glimpse | 278129 | [278129-glimpse.json](./278129-glimpse.json) |
 | Glingdom | 317022 | [317022-glingdom.json](./317022-glingdom.json) |
+| Gliont Lights | 388260 | [388260-gliont-lights.json](./388260-gliont-lights.json) |
 | Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
 | Glitch | 92479 | [92479-glitch.json](./92479-glitch.json) |
 | Glitch Boy | 25757 | [25757-glitch-boy.json](./25757-glitch-boy.json) |
@@ -1126,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glück Auf | 90598 | [90598-gluck-auf.json](./90598-gluck-auf.json) |
 | Glusiverse | 304599 | [304599-glusiverse.json](./304599-glusiverse.json) |
 | Glyder: Adventure Worlds | 66110 | [66110-glyder-adventure-worlds.json](./66110-glyder-adventure-worlds.json) |
+| Glyph | 388223 | [388223-glyph.json](./388223-glyph.json) |
 | Glypha III | 70919 | [70919-glypha-iii.json](./70919-glypha-iii.json) |
 | Glyphs of Gitzan | 300997 | [300997-glyphs-of-gitzan.json](./300997-glyphs-of-gitzan.json) |
 | Glyphs of the Pharaohs | 177002 | [177002-glyphs-of-the-pharaohs.json](./177002-glyphs-of-the-pharaohs.json) |
