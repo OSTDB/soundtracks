@@ -2407,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code of the Savage | 173310 | [173310-code-of-the-savage.json](./173310-code-of-the-savage.json) |
 | Code Reactors | 330142 | [330142-code-reactors.json](./330142-code-reactors.json) |
 | Code Tracer | 124227 | [124227-code-tracer.json](./124227-code-tracer.json) |
+| Code Tycoon | 397058 | [397058-code-tycoon.json](./397058-code-tycoon.json) |
 | Code Vein: Hellfire Knight | 129134 | [129134-code-vein-hellfire-knight.json](./129134-code-vein-hellfire-knight.json) |
 | Code Zero | 161896 | [161896-code-zero.json](./161896-code-zero.json) |
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
