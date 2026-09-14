@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T03:01:30.965Z",
-  "total_missing": 68224,
+  "generated_at": "2026-09-14T03:11:41.501Z",
+  "total_missing": 68228,
   "games": [
     {
       "igdb_id": 306086,
@@ -4121,11 +4121,6 @@
       "igdb_id": 36292,
       "game_name": "Advanced Tactics Gold",
       "file": "missing/A/36292-advanced-tactics-gold.json"
-    },
-    {
-      "igdb_id": 305166,
-      "game_name": "Advanced Thinking Skills",
-      "file": "missing/A/305166-advanced-thinking-skills.json"
     },
     {
       "igdb_id": 296352,
@@ -23841,6 +23836,11 @@
       "igdb_id": 140557,
       "game_name": "Barcode warriors",
       "file": "missing/B/140557-barcode-warriors.json"
+    },
+    {
+      "igdb_id": 36094,
+      "game_name": "Bard to the Future",
+      "file": "missing/B/36094-bard-to-the-future.json"
     },
     {
       "igdb_id": 214520,
@@ -117798,6 +117798,11 @@
       "file": "missing/G/34577-guided-meditation-vr.json"
     },
     {
+      "igdb_id": 36097,
+      "game_name": "Guild Commander",
+      "file": "missing/G/36097-guild-commander.json"
+    },
+    {
       "igdb_id": 110317,
       "game_name": "Guild Masters",
       "file": "missing/G/110317-guild-masters.json"
@@ -151871,6 +151876,11 @@
       "igdb_id": 81278,
       "game_name": "Kuusou Kagaku Sekai Gulliver Boy",
       "file": "missing/K/81278-kuusou-kagaku-sekai-gulliver-boy.json"
+    },
+    {
+      "igdb_id": 36092,
+      "game_name": "Kwaan",
+      "file": "missing/K/36092-kwaan.json"
     },
     {
       "igdb_id": 349870,
@@ -212063,6 +212073,11 @@
       "file": "missing/P/137026-planets-3.json"
     },
     {
+      "igdb_id": 36098,
+      "game_name": "Planetship",
+      "file": "missing/P/36098-planetship.json"
+    },
+    {
       "igdb_id": 263777,
       "game_name": "PlanetSmith",
       "file": "missing/P/263777-planetsmith.json"
@@ -227851,6 +227866,11 @@
       "igdb_id": 38943,
       "game_name": "ReDungeon",
       "file": "missing/R/38943-redungeon.json"
+    },
+    {
+      "igdb_id": 36093,
+      "game_name": "Redux: Dark Matters",
+      "file": "missing/R/36093-redux-dark-matters.json"
     },
     {
       "igdb_id": 114970,
