@@ -1391,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Annual Ghost Town Pumpkin Festival | 141145 | [141145-the-annual-ghost-town-pumpkin-festival.json](./141145-the-annual-ghost-town-pumpkin-festival.json) |
 | The Anomaly Experiment | 342048 | [342048-the-anomaly-experiment.json](./342048-the-anomaly-experiment.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
+| The Another World | 386889 | [386889-the-another-world.json](./386889-the-another-world.json) |
 | The Answer is 42 | 127234 | [127234-the-answer-is-42.json](./127234-the-answer-is-42.json) |
 | The Ant Bully | 206163 | [206163-the-ant-bully.json](./206163-the-ant-bully.json) |
 | The Anti-Gravity Machine | 359420 | [359420-the-anti-gravity-machine.json](./359420-the-anti-gravity-machine.json) |
@@ -1972,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
 | The Death of Zoe | 159841 | [159841-the-death-of-zoe.json](./159841-the-death-of-zoe.json) |
 | The Deceived Man | 310421 | [310421-the-deceived-man.json](./310421-the-deceived-man.json) |
+| The December Job | 386871 | [386871-the-december-job.json](./386871-the-december-job.json) |
 | The Decline of Grandidier | 395592 | [395592-the-decline-of-grandidier.json](./395592-the-decline-of-grandidier.json) |
 | The Deed II | 122623 | [122623-the-deed-ii.json](./122623-the-deed-ii.json) |
 | The Deep | 169464 | [169464-the-deep.json](./169464-the-deep.json) |
@@ -2280,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Descendant: Season 4 | 408829 | [408829-the-first-descendant-season-4.json](./408829-the-first-descendant-season-4.json) |
 | The First Funky Fighter | 63295 | [63295-the-first-funky-fighter.json](./63295-the-first-funky-fighter.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
+| The First Spine - Arena | 386865 | [386865-the-first-spine-arena.json](./386865-the-first-spine-arena.json) |
 | The First Templar: Special Edition | 154539 | [154539-the-first-templar-special-edition.json](./154539-the-first-templar-special-edition.json) |
 | The First Thing You Do When You Become A Girl | 97827 | [97827-the-first-thing-you-do-when-you-become-a-girl.json](./97827-the-first-thing-you-do-when-you-become-a-girl.json) |
 | The first titans | 161398 | [161398-the-first-titans.json](./161398-the-first-titans.json) |
@@ -3674,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Roscoe: Who's Ya Daddy? | 183587 | [183587-the-roscoe-whos-ya-daddy.json](./183587-the-roscoe-whos-ya-daddy.json) |
 | The Rose of Segunda | 101612 | [101612-the-rose-of-segunda.json](./101612-the-rose-of-segunda.json) |
 | The Rose Princess | 69308 | [69308-the-rose-princess.json](./69308-the-rose-princess.json) |
+| The Rot Below | 386847 | [386847-the-rot-below.json](./386847-the-rot-below.json) |
 | The Round-about Orchard | 386157 | [386157-the-round-about-orchard.json](./386157-the-round-about-orchard.json) |
 | The Royal Finale | 313687 | [313687-the-royal-finale.json](./313687-the-royal-finale.json) |
 | The Royal Heir: Book 1 | 313675 | [313675-the-royal-heir-book-1.json](./313675-the-royal-heir-book-1.json) |
@@ -3721,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scrungeon Depths | 74471 | [74471-the-scrungeon-depths.json](./74471-the-scrungeon-depths.json) |
 | The Sea Has No Claim | 185646 | [185646-the-sea-has-no-claim.json](./185646-the-sea-has-no-claim.json) |
 | The Sea Hotel: Umineko Tei | 169416 | [169416-the-sea-hotel-umineko-tei.json](./169416-the-sea-hotel-umineko-tei.json) |
+| The Sea Lion | 386845 | [386845-the-sea-lion.json](./386845-the-sea-lion.json) |
 | The Séance of Blake Manor | 335833 | [335833-the-seance-of-blake-manor.json](./335833-the-seance-of-blake-manor.json) |
 | The Search | 30193 | [30193-the-search.json](./30193-the-search.json) |
 | The Search For Sonic Mania 2 | 352175 | [352175-the-search-for-sonic-mania-2.json](./352175-the-search-for-sonic-mania-2.json) |
@@ -6149,6 +6154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado Emergency | 301244 | [301244-tornado-emergency.json](./301244-tornado-emergency.json) |
 | Tornado: Low Level | 23052 | [23052-tornado-low-level.json](./23052-tornado-low-level.json) |
 | Tornado.io | 106525 | [106525-tornado-io.json](./106525-tornado-io.json) |
+| Tornblade | 386880 | [386880-tornblade.json](./386880-tornblade.json) |
 | Toro to Typing | 246071 | [246071-toro-to-typing.json](./246071-toro-to-typing.json) |
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
 | Torpedo Boat | 239648 | [239648-torpedo-boat.json](./239648-torpedo-boat.json) |
@@ -7291,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Princess - Makeup and Dressup Salon Game | 86855 | [86855-tropical-princess-makeup-and-dressup-salon-game.json](./86855-tropical-princess-makeup-and-dressup-salon-game.json) |
 | Tropical Resort Story | 208026 | [208026-tropical-resort-story.json](./208026-tropical-resort-story.json) |
 | Tropical Stormfront | 9442 | [9442-tropical-stormfront.json](./9442-tropical-stormfront.json) |
+| Tropical Treasure Hunt | 386882 | [386882-tropical-treasure-hunt.json](./386882-tropical-treasure-hunt.json) |
 | Tropico 4: Apocalypse | 53848 | [53848-tropico-4-apocalypse.json](./53848-tropico-4-apocalypse.json) |
 | Tropico 4: Junta Military | 53851 | [53851-tropico-4-junta-military.json](./53851-tropico-4-junta-military.json) |
 | Tropico 4: Megalopolis | 53847 | [53847-tropico-4-megalopolis.json](./53847-tropico-4-megalopolis.json) |
