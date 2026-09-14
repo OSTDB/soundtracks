@@ -352,7 +352,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Apes and the Mayan Mystery | 33017 | [33017-adventure-apes-and-the-mayan-mystery.json](./33017-adventure-apes-and-the-mayan-mystery.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
 | Adventure C: The Ship of Doom | 72641 | [72641-adventure-c-the-ship-of-doom.json](./72641-adventure-c-the-ship-of-doom.json) |
-| Adventure Canoe | 392769 | [392769-adventure-canoe.json](./392769-adventure-canoe.json) |
 | AdVenture Capitalist | 9591 | [9591-adventure-capitalist.json](./9591-adventure-capitalist.json) |
 | Adventure Cop 2 | 121627 | [121627-adventure-cop-2.json](./121627-adventure-cop-2.json) |
 | Adventure Creator | 94691 | [94691-adventure-creator.json](./94691-adventure-creator.json) |
@@ -467,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AereA: Deluxe Edition | 52576 | [52576-aerea-deluxe-edition.json](./52576-aerea-deluxe-edition.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
 | Aerial Austen | 232175 | [232175-aerial-austen.json](./232175-aerial-austen.json) |
+| Aerial Destruction | 26123 | [26123-aerial-destruction.json](./26123-aerial-destruction.json) |
 | Aerial Life | 147445 | [147445-aerial-life.json](./147445-aerial-life.json) |
 | Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
 | Aerinde | 197904 | [197904-aerinde.json](./197904-aerinde.json) |
@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Solitaire: Handsome Heroes | 304005 | [304005-ai-solitaire-handsome-heroes.json](./304005-ai-solitaire-handsome-heroes.json) |
 | AI Solitaire: Lovely Ladies | 304006 | [304006-ai-solitaire-lovely-ladies.json](./304006-ai-solitaire-lovely-ladies.json) |
 | AI Unbound | 245865 | [245865-ai-unbound.json](./245865-ai-unbound.json) |
+| AI War 2 | 25648 | [25648-ai-war-2.json](./25648-ai-war-2.json) |
 | AI War 2: Zenith Onslaught | 154490 | [154490-ai-war-2-zenith-onslaught.json](./154490-ai-war-2-zenith-onslaught.json) |
 | AI War: Ancient Shadows | 8888 | [8888-ai-war-ancient-shadows.json](./8888-ai-war-ancient-shadows.json) |
 | AI Wars: The Awakening | 71500 | [71500-ai-wars-the-awakening.json](./71500-ai-wars-the-awakening.json) |
@@ -1712,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Phantasma | 308655 | [308655-ancient-phantasma.json](./308655-ancient-phantasma.json) |
 | Ancient Planet | 35891 | [35891-ancient-planet.json](./35891-ancient-planet.json) |
 | Ancient Rituals: Stonehenge | 216467 | [216467-ancient-rituals-stonehenge.json](./216467-ancient-rituals-stonehenge.json) |
+| Ancient Rome 2 | 25504 | [25504-ancient-rome-2.json](./25504-ancient-rome-2.json) |
 | Ancient Rus vs. Lizards | 277013 | [277013-ancient-rus-vs-lizards.json](./277013-ancient-rus-vs-lizards.json) |
 | Ancient Russian Life Simulator | 278177 | [278177-ancient-russian-life-simulator.json](./278177-ancient-russian-life-simulator.json) |
 | Ancient Sacrifice | 236297 | [236297-ancient-sacrifice.json](./236297-ancient-sacrifice.json) |
@@ -2848,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsenic & Absinthe | 327191 | [327191-arsenic-and-absinthe.json](./327191-arsenic-and-absinthe.json) |
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
 | Arson & Plunder: Unleashed | 36323 | [36323-arson-and-plunder-unleashed.json](./36323-arson-and-plunder-unleashed.json) |
+| ArsonVille | 25729 | [25729-arsonville.json](./25729-arsonville.json) |
 | Art Academy: First Semester | 79260 | [79260-art-academy-first-semester.json](./79260-art-academy-first-semester.json) |
 | Art by Numbers | 124140 | [124140-art-by-numbers.json](./124140-art-by-numbers.json) |
 | Art House | 367950 | [367950-art-house.json](./367950-art-house.json) |
