@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
 | Nostalgic Train | 102089 | [102089-nostalgic-train.json](./102089-nostalgic-train.json) |
 | Nostos | 107252 | [107252-nostos.json](./107252-nostos.json) |
+| Nostra | 415122 | [415122-nostra.json](./415122-nostra.json) |
 | Nostradamus | 40257 | [40257-nostradamus.json](./40257-nostradamus.json) |
 | Nostradamus - The Four Horsemen of the Apocalypse | 83508 | [83508-nostradamus-the-four-horsemen-of-the-apocalypse.json](./83508-nostradamus-the-four-horsemen-of-the-apocalypse.json) |
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
