@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Time in Morocco | 208586 | [208586-once-upon-a-time-in-morocco.json](./208586-once-upon-a-time-in-morocco.json) |
 | Once Upon a Time in the Colony | 173233 | [173233-once-upon-a-time-in-the-colony.json](./173233-once-upon-a-time-in-the-colony.json) |
 | Once Upon an Electric Dream | 132802 | [132802-once-upon-an-electric-dream.json](./132802-once-upon-an-electric-dream.json) |
+| Once You Understand the Meaning These Comics Become Scary | 409696 | [409696-once-you-understand-the-meaning-these-comics-become-scary.json](./409696-once-you-understand-the-meaning-these-comics-become-scary.json) |
 | Once' | 113662 | [113662-once.json](./113662-once.json) |
 | Once10 | 113664 | [113664-once10.json](./113664-once10.json) |
 | OncPangTzu Man | 116341 | [116341-oncpangtzu-man.json](./116341-oncpangtzu-man.json) |
