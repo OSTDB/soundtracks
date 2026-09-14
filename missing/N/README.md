@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Near Sol | 220629 | [220629-near-sol.json](./220629-near-sol.json) |
 | Near-Mage + Gibbous: The Kittehverse | 403584 | [403584-near-mage-gibbous-the-kittehverse.json](./403584-near-mage-gibbous-the-kittehverse.json) |
 | Near-Mage: Clothes & Hair Pack | 403585 | [403585-near-mage-clothes-and-hair-pack.json](./403585-near-mage-clothes-and-hair-pack.json) |
+| Near-Mage: Deluxe Edition | 402955 | [402955-near-mage-deluxe-edition.json](./402955-near-mage-deluxe-edition.json) |
 | NearEscape | 109685 | [109685-nearescape.json](./109685-nearescape.json) |
 | Nearly Dead: Live and Let Die | 235190 | [235190-nearly-dead-live-and-let-die.json](./235190-nearly-dead-live-and-let-die.json) |
 | Neaten Up! | 385592 | [385592-neaten-up.json](./385592-neaten-up.json) |
@@ -1557,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noodle Jump | 417502 | [417502-noodle-jump.json](./417502-noodle-jump.json) |
 | Noodle Party | 209680 | [209680-noodle-party.json](./209680-noodle-party.json) |
 | Noodles! | 90541 | [90541-noodles.json](./90541-noodles.json) |
+| Noods | 402976 | [402976-noods.json](./402976-noods.json) |
 | Nook Fall: West Town | 341485 | [341485-nook-fall-west-town.json](./341485-nook-fall-west-town.json) |
 | Nookle | 361709 | [361709-nookle.json](./361709-nookle.json) |
 | Noon Stone | 346590 | [346590-noon-stone.json](./346590-noon-stone.json) |
