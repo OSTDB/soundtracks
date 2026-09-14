@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Sea: Deluxe Edition | 154508 | [154508-call-of-the-sea-deluxe-edition.json](./154508-call-of-the-sea-deluxe-edition.json) |
 | Call of the Sea: Norah's Diary Edition | 170032 | [170032-call-of-the-sea-norahs-diary-edition.json](./170032-call-of-the-sea-norahs-diary-edition.json) |
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
+| Call of Tomsk-7 | 34751 | [34751-call-of-tomsk-7.json](./34751-call-of-tomsk-7.json) |
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
 | Call of Warfront | 404257 | [404257-call-of-warfront.json](./404257-call-of-warfront.json) |
 | Call of Zombie | 252400 | [252400-call-of-zombie.json](./252400-call-of-zombie.json) |
@@ -2461,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colliderscope | 109673 | [109673-colliderscope.json](./109673-colliderscope.json) |
 | Collie Call: Farm of Tomorrow | 344964 | [344964-collie-call-farm-of-tomorrow.json](./344964-collie-call-farm-of-tomorrow.json) |
 | Collision | 331107 | [331107-collision.json](./331107-collision.json) |
+| Collisions | 34756 | [34756-collisions.json](./34756-collisions.json) |
 | Colloc | 120424 | [120424-colloc.json](./120424-colloc.json) |
 | Colmen's Quest | 175955 | [175955-colmens-quest.json](./175955-colmens-quest.json) |
 | CoLoBot | 80574 | [80574-colobot.json](./80574-colobot.json) |
