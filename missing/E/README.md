@@ -1580,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evo Defense | 395564 | [395564-evo-defense.json](./395564-evo-defense.json) |
 | Evo Explores | 32731 | [32731-evo-explores.json](./32731-evo-explores.json) |
 | Evo Island | 290415 | [290415-evo-island.json](./290415-evo-island.json) |
+| Evo Pop: Sweet Edition | 395677 | [395677-evo-pop-sweet-edition.json](./395677-evo-pop-sweet-edition.json) |
 | Evocation | 107817 | [107817-evocation.json](./107817-evocation.json) |
 | Evocation | 270116 | [270116-evocation.json](./270116-evocation.json) |
 | Evocation: Oltre il Sogno | 242533 | [242533-evocation-oltre-il-sogno.json](./242533-evocation-oltre-il-sogno.json) |
