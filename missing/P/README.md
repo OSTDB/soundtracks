@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
 | Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
+| Pahtkest! | 382342 | [382342-pahtkest.json](./382342-pahtkest.json) |
 | Paid by Blood | 409688 | [409688-paid-by-blood.json](./409688-paid-by-blood.json) |
 | Paid in Blood | 392268 | [392268-paid-in-blood.json](./392268-paid-in-blood.json) |
 | Paimordle | 243974 | [243974-paimordle.json](./243974-paimordle.json) |
@@ -2832,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Ball 2021 | 150620 | [150620-power-ball-2021.json](./150620-power-ball-2021.json) |
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
+| Power Chips | 382344 | [382344-power-chips.json](./382344-power-chips.json) |
 | Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
 | Power Factory Featuring C+C Music Factory | 5420 | [5420-power-factory-featuring-c-c-music-factory.json](./5420-power-factory-featuring-c-c-music-factory.json) |
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
@@ -3077,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess | 187431 | [187431-princess.json](./187431-princess.json) |
 | Princess & Conquest | 128008 | [128008-princess-and-conquest.json](./128008-princess-and-conquest.json) |
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
+| Princess Burst | 382279 | [382279-princess-burst.json](./382279-princess-burst.json) |
 | Princess Coloring Book + | 87326 | [87326-princess-coloring-book.json](./87326-princess-coloring-book.json) |
 | Princess Edge: Dragonstone | 26525 | [26525-princess-edge-dragonstone.json](./26525-princess-edge-dragonstone.json) |
 | Princess Evangile W Happiness | 140525 | [140525-princess-evangile-w-happiness.json](./140525-princess-evangile-w-happiness.json) |
