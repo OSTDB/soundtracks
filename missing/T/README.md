@@ -1522,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia: Kickoo | 366858 | [366858-the-battle-of-polytopia-kickoo.json](./366858-the-battle-of-polytopia-kickoo.json) |
 | The Battle of Polytopia: Lirepacci | 366860 | [366860-the-battle-of-polytopia-lirepacci.json](./366860-the-battle-of-polytopia-lirepacci.json) |
 | The Battle of Polytopia: Midŋighţ Skin - Elyrioŋ Tribe | 305532 | [305532-the-battle-of-polytopia-mid-ight-skin-elyrio-tribe.json](./305532-the-battle-of-polytopia-mid-ight-skin-elyrio-tribe.json) |
+| The Battle of Polytopia: New Dawn Skin | 381100 | [381100-the-battle-of-polytopia-new-dawn-skin.json](./381100-the-battle-of-polytopia-new-dawn-skin.json) |
 | The Battle of Polytopia: Ragoo | 366856 | [366856-the-battle-of-polytopia-ragoo.json](./366856-the-battle-of-polytopia-ragoo.json) |
 | The Battle of Polytopia: Sha-po | 366862 | [366862-the-battle-of-polytopia-sha-po.json](./366862-the-battle-of-polytopia-sha-po.json) |
 | The Battle of Polytopia: Yorthwober | 366859 | [366859-the-battle-of-polytopia-yorthwober.json](./366859-the-battle-of-polytopia-yorthwober.json) |
@@ -2286,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finals: Season 11 - Galaxy Masters! | 409700 | [409700-the-finals-season-11-galaxy-masters.json](./409700-the-finals-season-11-galaxy-masters.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
 | The Finals: Season 6 - Rising Stars! | 400948 | [400948-the-finals-season-6-rising-stars.json](./400948-the-finals-season-6-rising-stars.json) |
+| The Finals: Season 9 - Dragon Rising | 381152 | [381152-the-finals-season-9-dragon-rising.json](./381152-the-finals-season-9-dragon-rising.json) |
 | The Find | 326989 | [326989-the-find.json](./326989-the-find.json) |
 | The Fire Rises | 321742 | [321742-the-fire-rises.json](./321742-the-fire-rises.json) |
 | The Firebrand | 295246 | [295246-the-firebrand.json](./295246-the-firebrand.json) |
@@ -2846,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Flower | 146304 | [146304-the-last-flower.json](./146304-the-last-flower.json) |
 | The last four | 216794 | [216794-the-last-four.json](./216794-the-last-four.json) |
 | The Last Game | 362294 | [362294-the-last-game.json](./362294-the-last-game.json) |
+| The Last Gift | 381102 | [381102-the-last-gift.json](./381102-the-last-gift.json) |
 | The Last Good Boy | 407333 | [407333-the-last-good-boy.json](./407333-the-last-good-boy.json) |
 | The Last Haven | 127615 | [127615-the-last-haven.json](./127615-the-last-haven.json) |
 | The Last Hero of Nostalgaia | 214707 | [214707-the-last-hero-of-nostalgaia.json](./214707-the-last-hero-of-nostalgaia.json) |
@@ -4133,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Telwynium | 179663 | [179663-the-telwynium.json](./179663-the-telwynium.json) |
 | The Telwynium | 404830 | [404830-the-telwynium.json](./404830-the-telwynium.json) |
 | The Temple | 292549 | [292549-the-temple.json](./292549-the-temple.json) |
+| The Temple of Elemental Evil | 381153 | [381153-the-temple-of-elemental-evil.json](./381153-the-temple-of-elemental-evil.json) |
 | The Temple of No | 19699 | [19699-the-temple-of-no.json](./19699-the-temple-of-no.json) |
 | The Tempura Samurai | 64435 | [64435-the-tempura-samurai.json](./64435-the-tempura-samurai.json) |
 | The Tenants | 115012 | [115012-the-tenants.json](./115012-the-tenants.json) |
@@ -7133,6 +7137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri Focuser: Outside the Traditional World | 246673 | [246673-tri-focuser-outside-the-traditional-world.json](./246673-tri-focuser-outside-the-traditional-world.json) |
 | Tri Wing | 88248 | [88248-tri-wing.json](./88248-tri-wing.json) |
 | Tri Zone | 130869 | [130869-tri-zone.json](./130869-tri-zone.json) |
+| Tri-bo | 381124 | [381124-tri-bo.json](./381124-tri-bo.json) |
 | Tri-Ger | 377580 | [377580-tri-ger.json](./377580-tri-ger.json) |
 | Tri-Peaks Solitaire HD | 355005 | [355005-tri-peaks-solitaire-hd.json](./355005-tri-peaks-solitaire-hd.json) |
 | Tri-Strip | 85456 | [85456-tri-strip.json](./85456-tri-strip.json) |
