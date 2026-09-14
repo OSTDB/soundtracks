@@ -1984,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meseugaki Yeong-ae-nim! | 232426 | [232426-meseugaki-yeong-ae-nim.json](./232426-meseugaki-yeong-ae-nim.json) |
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
 | Meshchera | 415882 | [415882-meshchera.json](./415882-meshchera.json) |
+| Meshuda | 406213 | [406213-meshuda.json](./406213-meshuda.json) |
 | Mesih | 281386 | [281386-mesih.json](./281386-mesih.json) |
 | Meso | 319350 | [319350-meso.json](./319350-meso.json) |
 | Mesopotamia | 42042 | [42042-mesopotamia.json](./42042-mesopotamia.json) |
