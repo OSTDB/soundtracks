@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Berks | 60533 | [60533-baby-berks.json](./60533-baby-berks.json) |
 | Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
 | Baby Boomer | 48107 | [48107-baby-boomer.json](./48107-baby-boomer.json) |
+| Baby Carbonara | 404968 | [404968-baby-carbonara.json](./404968-baby-carbonara.json) |
 | Baby Escape | 400220 | [400220-baby-escape.json](./400220-baby-escape.json) |
 | Baby Ghost: Jump Away With Jewel | 175361 | [175361-baby-ghost-jump-away-with-jewel.json](./175361-baby-ghost-jump-away-with-jewel.json) |
 | Baby Goat Billy | 159826 | [159826-baby-goat-billy.json](./159826-baby-goat-billy.json) |
@@ -1820,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Inc. Redemption | 36627 | [36627-bio-inc-redemption.json](./36627-bio-inc-redemption.json) |
 | Bio Senshi Dan: Increaser to no Tatakai | 48647 | [48647-bio-senshi-dan-increaser-to-no-tatakai.json](./48647-bio-senshi-dan-increaser-to-no-tatakai.json) |
 | Bio-Hazard Battle | 4517 | [4517-bio-hazard-battle.json](./4517-bio-hazard-battle.json) |
+| Bio-Submariner DX | 404980 | [404980-bio-submariner-dx.json](./404980-bio-submariner-dx.json) |
 | Bio-Synthetica | 235199 | [235199-bio-synthetica.json](./235199-bio-synthetica.json) |
 | BiochRL | 61110 | [61110-biochrl.json](./61110-biochrl.json) |
 | BioCrisis: Return 2 the Lab | 203905 | [203905-biocrisis-return-2-the-lab.json](./203905-biocrisis-return-2-the-lab.json) |
@@ -2740,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bohemian Yard | 217866 | [217866-bohemian-yard.json](./217866-bohemian-yard.json) |
 | Bohrdom | 112947 | [112947-bohrdom.json](./112947-bohrdom.json) |
 | Boid | 17646 | [17646-boid.json](./17646-boid.json) |
+| Boing Boing Bros | 404976 | [404976-boing-boing-bros.json](./404976-boing-boing-bros.json) |
 | Boing! | 95472 | [95472-boing.json](./95472-boing.json) |
 | Boing! Docomodake DS | 21473 | [21473-boing-docomodake-ds.json](./21473-boing-docomodake-ds.json) |
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
@@ -2906,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookbound Brigade | 121218 | [121218-bookbound-brigade.json](./121218-bookbound-brigade.json) |
 | Bookers: Underground Chapter | 104085 | [104085-bookers-underground-chapter.json](./104085-bookers-underground-chapter.json) |
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
+| Bookmark Hero | 404936 | [404936-bookmark-hero.json](./404936-bookmark-hero.json) |
 | Books | 55327 | [55327-books.json](./55327-books.json) |
 | Bookstore Dream | 62950 | [62950-bookstore-dream.json](./62950-bookstore-dream.json) |
 | Bookworm | 8325 | [8325-bookworm.json](./8325-bookworm.json) |
@@ -3560,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronze Dragon: Conquest of Infinity | 122987 | [122987-bronze-dragon-conquest-of-infinity.json](./122987-bronze-dragon-conquest-of-infinity.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
+| Bros Survivors | 404928 | [404928-bros-survivors.json](./404928-bros-survivors.json) |
 | Brotato + Space Gladiators Bundle | 259575 | [259575-brotato-space-gladiators-bundle.json](./259575-brotato-space-gladiators-bundle.json) |
 | Brotato: Nintendo Switch 2 Edition | 378791 | [378791-brotato-nintendo-switch-2-edition.json](./378791-brotato-nintendo-switch-2-edition.json) |
 | BrothelManager | 18109 | [18109-brothelmanager.json](./18109-brothelmanager.json) |
