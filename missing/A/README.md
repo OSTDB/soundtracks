@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aggressor | 169956 | [169956-aggressor.json](./169956-aggressor.json) |
 | Aggressors of Dark Kombat | 39336 | [39336-aggressors-of-dark-kombat.json](./39336-aggressors-of-dark-kombat.json) |
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
+| Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Aghia | 406804 | [406804-aghia.json](./406804-aghia.json) |
 | Agi Gongnyong Dooly | 86107 | [86107-agi-gongnyong-dooly.json](./86107-agi-gongnyong-dooly.json) |
 | Agile Warrior F-111X | 43936 | [43936-agile-warrior-f-111x.json](./43936-agile-warrior-f-111x.json) |
