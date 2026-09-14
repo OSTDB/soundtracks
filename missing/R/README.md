@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reky | 122329 | [122329-reky.json](./122329-reky.json) |
 | Relapse | 208585 | [208585-relapse.json](./208585-relapse.json) |
 | Related | 133380 | [133380-related.json](./133380-related.json) |
+| Relative Frame | 382932 | [382932-relative-frame.json](./382932-relative-frame.json) |
 | Relativity | 31637 | [31637-relativity.json](./31637-relativity.json) |
 | Relativity Wars - A Science Space RTS | 35953 | [35953-relativity-wars-a-science-space-rts.json](./35953-relativity-wars-a-science-space-rts.json) |
 | Relatle | 320752 | [320752-relatle.json](./320752-relatle.json) |
@@ -1332,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restore | 397658 | [397658-restore.json](./397658-restore.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
+| Restoring the Past: The Beauty of Porcelain 3 | 382885 | [382885-restoring-the-past-the-beauty-of-porcelain-3.json](./382885-restoring-the-past-the-beauty-of-porcelain-3.json) |
 | Restricted Area | 169414 | [169414-restricted-area.json](./169414-restricted-area.json) |
 | Resttore | 285487 | [285487-resttore.json](./285487-resttore.json) |
 | Resurface | 406681 | [406681-resurface.json](./406681-resurface.json) |
@@ -2353,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
 | Roll Ball Adventures | 188668 | [188668-roll-ball-adventures.json](./188668-roll-ball-adventures.json) |
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
+| Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
 | Roll the Dark Heart | 251850 | [251850-roll-the-dark-heart.json](./251850-roll-the-dark-heart.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
 | Roll'd | 33076 | [33076-rolld.json](./33076-rolld.json) |
