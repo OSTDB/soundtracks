@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Weaver | 289899 | [289899-wave-weaver.json](./289899-wave-weaver.json) |
 | Waveat | 362808 | [362808-waveat.json](./362808-waveat.json) |
 | Waveat ReLight V2 | 362811 | [362811-waveat-relight-v2.json](./362811-waveat-relight-v2.json) |
+| Wavecrashers | 391751 | [391751-wavecrashers.json](./391751-wavecrashers.json) |
 | WavePlayer | 190161 | [190161-waveplayer.json](./190161-waveplayer.json) |
 | Waves ! | 104097 | [104097-waves.json](./104097-waves.json) |
 | Waves of Death VR | 132229 | [132229-waves-of-death-vr.json](./132229-waves-of-death-vr.json) |
@@ -1413,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Zoe: Hentai Shuffle | 367969 | [367969-witch-zoe-hentai-shuffle.json](./367969-witch-zoe-hentai-shuffle.json) |
 | Witch: A Special Delivery | 178071 | [178071-witch-a-special-delivery.json](./178071-witch-a-special-delivery.json) |
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
+| Witch's Apocalyptic Journey | 391717 | [391717-witchs-apocalyptic-journey.json](./391717-witchs-apocalyptic-journey.json) |
 | Witch's Heart: Bonus Stage | 252721 | [252721-witchs-heart-bonus-stage.json](./252721-witchs-heart-bonus-stage.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
 | Witchblood | 129238 | [129238-witchblood.json](./129238-witchblood.json) |
