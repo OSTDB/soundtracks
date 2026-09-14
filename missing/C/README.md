@@ -3869,7 +3869,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossbow Potato | 112311 | [112311-crossbow-potato.json](./112311-crossbow-potato.json) |
 | Crossbow Warrior: The Legend of William Tell | 34196 | [34196-crossbow-warrior-the-legend-of-william-tell.json](./34196-crossbow-warrior-the-legend-of-william-tell.json) |
 | Crossclimb | 321118 | [321118-crossclimb.json](./321118-crossclimb.json) |
+| Crosscountry BC | 399085 | [399085-crosscountry-bc.json](./399085-crosscountry-bc.json) |
+| Crosscountry California | 399068 | [399068-crosscountry-california.json](./399068-crosscountry-california.json) |
+| Crosscountry Canada Photo Safari | 399084 | [399084-crosscountry-canada-photo-safari.json](./399084-crosscountry-canada-photo-safari.json) |
+| Crosscountry Canada Platinum | 399076 | [399076-crosscountry-canada-platinum.json](./399076-crosscountry-canada-platinum.json) |
+| Crosscountry North Dakota | 399071 | [399071-crosscountry-north-dakota.json](./399071-crosscountry-north-dakota.json) |
+| Crosscountry Texas | 399070 | [399070-crosscountry-texas.json](./399070-crosscountry-texas.json) |
+| Crosscountry USA | 399067 | [399067-crosscountry-usa.json](./399067-crosscountry-usa.json) |
 | Crosscountry USA 2 | 71484 | [71484-crosscountry-usa-2.json](./71484-crosscountry-usa-2.json) |
+| Crosscountry USA Photo Safari | 399082 | [399082-crosscountry-usa-photo-safari.json](./399082-crosscountry-usa-photo-safari.json) |
 | Crossed Paths | 183045 | [183045-crossed-paths.json](./183045-crossed-paths.json) |
 | Crossed Swords | 39642 | [39642-crossed-swords.json](./39642-crossed-swords.json) |
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
