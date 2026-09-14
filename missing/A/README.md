@@ -434,7 +434,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeris & Zack | 157134 | [157134-aeris-and-zack.json](./157134-aeris-and-zack.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
 | Aero Dancing I | 267380 | [267380-aero-dancing-i.json](./267380-aero-dancing-i.json) |
-| Aero Fighters | 306980 | [306980-aero-fighters.json](./306980-aero-fighters.json) |
 | Aero Style | 79884 | [79884-aero-style.json](./79884-aero-style.json) |
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
 | Aerobiz Supersonic | 5351 | [5351-aerobiz-supersonic.json](./5351-aerobiz-supersonic.json) |
