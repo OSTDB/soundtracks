@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
 | Pachinko GP | 41395 | [41395-pachinko-gp.json](./41395-pachinko-gp.json) |
 | Pachinko Kamen Rider | 91885 | [91885-pachinko-kamen-rider.json](./91885-pachinko-kamen-rider.json) |
+| Pachinko Life | 402978 | [402978-pachinko-life.json](./402978-pachinko-life.json) |
 | Pachinko Party | 329016 | [329016-pachinko-party.json](./329016-pachinko-party.json) |
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
 | Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
@@ -819,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peer Gynt the Game | 126586 | [126586-peer-gynt-the-game.json](./126586-peer-gynt-the-game.json) |
 | Peer to Peer | 306646 | [306646-peer-to-peer.json](./306646-peer-to-peer.json) |
 | Peerless Destiny | 294995 | [294995-peerless-destiny.json](./294995-peerless-destiny.json) |
+| PeeWee Purpdrank's Foenem Clicker | 403014 | [403014-peewee-purpdranks-foenem-clicker.json](./403014-peewee-purpdranks-foenem-clicker.json) |
 | Peg Solitaire | 57062 | [57062-peg-solitaire.json](./57062-peg-solitaire.json) |
 | Pegafuerte el Terrible | 249479 | [249479-pegafuerte-el-terrible.json](./249479-pegafuerte-el-terrible.json) |
 | Pegasis | 298866 | [298866-pegasis.json](./298866-pegasis.json) |
@@ -875,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguins Arena: Sedna's World | 15779 | [15779-penguins-arena-sednas-world.json](./15779-penguins-arena-sednas-world.json) |
 | Penguins vs. Bugs | 122402 | [122402-penguins-vs-bugs.json](./122402-penguins-vs-bugs.json) |
 | Pengwyn | 13745 | [13745-pengwyn.json](./13745-pengwyn.json) |
+| Penis Simulator | 403024 | [403024-penis-simulator.json](./403024-penis-simulator.json) |
 | Penkura | 110860 | [110860-penkura.json](./110860-penkura.json) |
 | Penky | 267937 | [267937-penky.json](./267937-penky.json) |
 | Penny Arcade Adventures: On the Rain-Slick | 144932 | [144932-penny-arcade-adventures-on-the-rain-slick.json](./144932-penny-arcade-adventures-on-the-rain-slick.json) |
@@ -1967,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet X16 | 285453 | [285453-planet-x16.json](./285453-planet-x16.json) |
 | Planet Zeta | 166783 | [166783-planet-zeta.json](./166783-planet-zeta.json) |
 | Planet Zoldath | 318409 | [318409-planet-zoldath.json](./318409-planet-zoldath.json) |
+| Planet Zoo 2 | 402959 | [402959-planet-zoo-2.json](./402959-planet-zoo-2.json) |
 | Planet Zoo: Barnyard Animal Pack | 308275 | [308275-planet-zoo-barnyard-animal-pack.json](./308275-planet-zoo-barnyard-animal-pack.json) |
 | Planet Zoo: Europe Pack | 191245 | [191245-planet-zoo-europe-pack.json](./191245-planet-zoo-europe-pack.json) |
 | Planet's Core | 112302 | [112302-planets-core.json](./112302-planets-core.json) |
@@ -2308,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Gadir | 232692 | [232692-pokemon-gadir.json](./232692-pokemon-gadir.json) |
 | Pokémon Gaia Version | 136997 | [136997-pokemon-gaia-version.json](./136997-pokemon-gaia-version.json) |
 | Pokémon Go: Dual Destiny | 323177 | [323177-pokemon-go-dual-destiny.json](./323177-pokemon-go-dual-destiny.json) |
+| Pokémon Go: Forever Forward | 403036 | [403036-pokemon-go-forever-forward.json](./403036-pokemon-go-forever-forward.json) |
 | Pokémon Go: Max Out | 316620 | [316620-pokemon-go-max-out.json](./316620-pokemon-go-max-out.json) |
 | Pokémon Go: Might and Mastery | 333565 | [333565-pokemon-go-might-and-mastery.json](./333565-pokemon-go-might-and-mastery.json) |
 | Pokémon Go: Season of Alola | 218482 | [218482-pokemon-go-season-of-alola.json](./218482-pokemon-go-season-of-alola.json) |
@@ -2993,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Sands of Time & Lara Croft Tomb Raider: The Prophecy | 84173 | [84173-prince-of-persia-the-sands-of-time-and-lara-croft-tomb-raider-the-prophecy.json](./84173-prince-of-persia-the-sands-of-time-and-lara-croft-tomb-raider-the-prophecy.json) |
 | Prince of Persia: The Sands of Time HD | 99585 | [99585-prince-of-persia-the-sands-of-time-hd.json](./99585-prince-of-persia-the-sands-of-time-hd.json) |
 | Prince of Persia: Warrior Within HD | 99586 | [99586-prince-of-persia-warrior-within-hd.json](./99586-prince-of-persia-warrior-within-hd.json) |
+| Princes of Qing | 402961 | [402961-princes-of-qing.json](./402961-princes-of-qing.json) |
 | Princess | 187431 | [187431-princess.json](./187431-princess.json) |
 | Princess & Conquest | 128008 | [128008-princess-and-conquest.json](./128008-princess-and-conquest.json) |
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
@@ -3850,6 +3856,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Party: 10 Games | 100175 | [100175-puzzle-party-10-games.json](./100175-puzzle-party-10-games.json) |
 | Puzzle Pedestrians | 144276 | [144276-puzzle-pedestrians.json](./144276-puzzle-pedestrians.json) |
 | Puzzle Pests | 174366 | [174366-puzzle-pests.json](./174366-puzzle-pests.json) |
+| Puzzle Photographer | 403041 | [403041-puzzle-photographer.json](./403041-puzzle-photographer.json) |
+| Puzzle Photographer 2: Fairy Vacation | 403044 | [403044-puzzle-photographer-2-fairy-vacation.json](./403044-puzzle-photographer-2-fairy-vacation.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
 | Puzzle Sages | 34493 | [34493-puzzle-sages.json](./34493-puzzle-sages.json) |
 | Puzzle Scape | 46021 | [46021-puzzle-scape.json](./46021-puzzle-scape.json) |
