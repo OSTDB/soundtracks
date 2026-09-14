@@ -1406,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Floor | 159797 | [159797-first-floor.json](./159797-first-floor.json) |
 | First Frog | 136457 | [136457-first-frog.json](./136457-first-frog.json) |
 | First Kiss at a Spooky Soiree | 144233 | [144233-first-kiss-at-a-spooky-soiree.json](./144233-first-kiss-at-a-spooky-soiree.json) |
+| First Kiss Stories | 384644 | [384644-first-kiss-stories.json](./384644-first-kiss-stories.json) |
 | First Light | 191155 | [191155-first-light.json](./191155-first-light.json) |
 | First Love / Late Spring | 204493 | [204493-first-love-late-spring.json](./204493-first-love-late-spring.json) |
 | First Made Break Rock | 395542 | [395542-first-made-break-rock.json](./395542-first-made-break-rock.json) |
@@ -3165,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futilitris | 138152 | [138152-futilitris.json](./138152-futilitris.json) |
 | Futuclass: Hydrogen & Oxygen | 170492 | [170492-futuclass-hydrogen-and-oxygen.json](./170492-futuclass-hydrogen-and-oxygen.json) |
 | Futuclass: Oxygen Escape Room | 170493 | [170493-futuclass-oxygen-escape-room.json](./170493-futuclass-oxygen-escape-room.json) |
+| Futurama Saw Game | 384662 | [384662-futurama-saw-game.json](./384662-futurama-saw-game.json) |
 | Futurama: Game of Drones | 78620 | [78620-futurama-game-of-drones.json](./78620-futurama-game-of-drones.json) |
 | FuturCity Taxi | 246989 | [246989-futurcity-taxi.json](./246989-futurcity-taxi.json) |
 | Future Avoid | 307583 | [307583-future-avoid.json](./307583-future-avoid.json) |
