@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
 | Abode | 26370 | [26370-abode.json](./26370-abode.json) |
 | Abomination Ops | 355575 | [355575-abomination-ops.json](./355575-abomination-ops.json) |
+| Abomination Tower | 36011 | [36011-abomination-tower.json](./36011-abomination-tower.json) |
 | Aborigenus | 110070 | [110070-aborigenus.json](./110070-aborigenus.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 4 | 191227 | [191227-artists-of-fortune-paint-by-numbers-spooky-rush-ep-4.json](./191227-artists-of-fortune-paint-by-numbers-spooky-rush-ep-4.json) |
 | Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 5 | 191232 | [191232-artists-of-fortune-paint-by-numbers-spooky-rush-ep-5.json](./191232-artists-of-fortune-paint-by-numbers-spooky-rush-ep-5.json) |
 | Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 6 | 191238 | [191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json](./191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json) |
+| Artizens | 36032 | [36032-artizens.json](./36032-artizens.json) |
 | Arto | 199454 | [199454-arto.json](./199454-arto.json) |
 | ArtPulse | 129123 | [129123-artpulse.json](./129123-artpulse.json) |
 | Artsec | 398333 | [398333-artsec.json](./398333-artsec.json) |
