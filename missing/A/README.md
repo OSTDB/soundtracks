@@ -390,7 +390,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Bruce | 141228 | [141228-adventures-of-bruce.json](./141228-adventures-of-bruce.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
-| Adventures of Maddog Williams in the Dungeons of Duridian | 50500 | [50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of musical tones and their notes | 130934 | [130934-adventures-of-musical-tones-and-their-notes.json](./130934-adventures-of-musical-tones-and-their-notes.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
