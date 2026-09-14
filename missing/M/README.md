@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Martha | 45367 | [45367-mad-martha.json](./45367-mad-martha.json) |
 | Mad Martha 2 | 45366 | [45366-mad-martha-2.json](./45366-mad-martha-2.json) |
 | Mad Max: Ripper Special Edition | 89930 | [89930-mad-max-ripper-special-edition.json](./89930-mad-max-ripper-special-edition.json) |
+| Mad Merchant | 408875 | [408875-mad-merchant.json](./408875-mad-merchant.json) |
 | Mad Miner 2 | 318982 | [318982-mad-miner-2.json](./318982-mad-miner-2.json) |
 | Mad Moles | 58753 | [58753-mad-moles.json](./58753-mad-moles.json) |
 | Mad Murder's Mystery Pie Shop | 196891 | [196891-mad-murders-mystery-pie-shop.json](./196891-mad-murders-mystery-pie-shop.json) |
@@ -1433,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Shift | 181895 | [181895-meat-shift.json](./181895-meat-shift.json) |
 | Meat Without Master | 349839 | [349839-meat-without-master.json](./349839-meat-without-master.json) |
 | Meatball | 156613 | [156613-meatball.json](./156613-meatball.json) |
+| Meatdoll Dressup | 408924 | [408924-meatdoll-dressup.json](./408924-meatdoll-dressup.json) |
 | Meatlock | 399012 | [399012-meatlock.json](./399012-meatlock.json) |
 | Meatly's Storage World | 233751 | [233751-meatlys-storage-world.json](./233751-meatlys-storage-world.json) |
 | Meatsauce Madness: The Game | 174271 | [174271-meatsauce-madness-the-game.json](./174271-meatsauce-madness-the-game.json) |
@@ -3801,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortie College | 370714 | [370714-mortie-college.json](./370714-mortie-college.json) |
 | Mortified | 249780 | [249780-mortified.json](./249780-mortified.json) |
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
+| Mortu | 408929 | [408929-mortu.json](./408929-mortu.json) |
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
 | Morwen Estate | 342068 | [342068-morwen-estate.json](./342068-morwen-estate.json) |
 | Mosaic | 18929 | [18929-mosaic.json](./18929-mosaic.json) |
