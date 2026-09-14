@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dim Glow | 158193 | [158193-dim-glow.json](./158193-dim-glow.json) |
 | Dima Rescues Ira | 75157 | [75157-dima-rescues-ira.json](./75157-dima-rescues-ira.json) |
 | Dimachaerus | 301248 | [301248-dimachaerus.json](./301248-dimachaerus.json) |
+| Dimenseum | 396376 | [396376-dimenseum.json](./396376-dimenseum.json) |
 | Dimension Defenders | 405570 | [405570-dimension-defenders.json](./405570-dimension-defenders.json) |
 | Dimension Drive | 27327 | [27327-dimension-drive.json](./27327-dimension-drive.json) |
 | Dimension M | 213969 | [213969-dimension-m.json](./213969-dimension-m.json) |
