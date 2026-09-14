@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obby: Build a 3D Amusement Park! | 402303 | [402303-obby-build-a-3d-amusement-park.json](./402303-obby-build-a-3d-amusement-park.json) |
 | Obcidian Legacy | 30004 | [30004-obcidian-legacy.json](./30004-obcidian-legacy.json) |
 | Obenseuer | 111983 | [111983-obenseuer.json](./111983-obenseuer.json) |
+| Oberion: Arena Arcana | 381678 | [381678-oberion-arena-arcana.json](./381678-oberion-arena-arcana.json) |
 | Obey the Law | 163983 | [163983-obey-the-law.json](./163983-obey-the-law.json) |
 | Obey the Voice | 386276 | [386276-obey-the-voice.json](./386276-obey-the-voice.json) |
 | OBJ VR | 309376 | [309376-obj-vr.json](./309376-obj-vr.json) |
@@ -80,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Cargo Manager | 415169 | [415169-ocean-cargo-manager.json](./415169-ocean-cargo-manager.json) |
 | Ocean Drift | 233521 | [233521-ocean-drift.json](./233521-ocean-drift.json) |
 | Ocean Drive Challenge Remastered | 127220 | [127220-ocean-drive-challenge-remastered.json](./127220-ocean-drive-challenge-remastered.json) |
+| Ocean Fishooter | 381737 | [381737-ocean-fishooter.json](./381737-ocean-fishooter.json) |
 | Ocean Gap | 285446 | [285446-ocean-gap.json](./285446-ocean-gap.json) |
 | Ocean Is Home | 224782 | [224782-ocean-is-home.json](./224782-ocean-is-home.json) |
 | Ocean Life: Aquarium Simulator | 309648 | [309648-ocean-life-aquarium-simulator.json](./309648-ocean-life-aquarium-simulator.json) |
@@ -854,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open School World | 297505 | [297505-open-school-world.json](./297505-open-school-world.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
 | Open Star Fighter | 339288 | [339288-open-star-fighter.json](./339288-open-star-fighter.json) |
+| Open The Gate: Just A Little | 381672 | [381672-open-the-gate-just-a-little.json](./381672-open-the-gate-just-a-little.json) |
 | Open the Gates! | 149046 | [149046-open-the-gates.json](./149046-open-the-gates.json) |
 | Open Wheel Manager | 117611 | [117611-open-wheel-manager.json](./117611-open-wheel-manager.json) |
 | OpenArena | 77358 | [77358-openarena.json](./77358-openarena.json) |
