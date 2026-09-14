@@ -2298,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
 | Rogue Slash | 117647 | [117647-rogue-slash.json](./117647-rogue-slash.json) |
 | Rogue Slime | 388018 | [388018-rogue-slime.json](./388018-rogue-slime.json) |
+| Rogue Slots | 386872 | [386872-rogue-slots.json](./386872-rogue-slots.json) |
 | Rogue Stache | 31772 | [31772-rogue-stache.json](./31772-rogue-stache.json) |
 | Rogue Star ACE | 91334 | [91334-rogue-star-ace.json](./91334-rogue-star-ace.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
