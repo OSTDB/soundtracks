@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watchword | 343281 | [343281-watchword.json](./343281-watchword.json) |
 | Water 2050 | 239680 | [239680-water-2050.json](./239680-water-2050.json) |
 | Water Balloon Mania | 147467 | [147467-water-balloon-mania.json](./147467-water-balloon-mania.json) |
+| Water Bears VR | 34719 | [34719-water-bears-vr.json](./34719-water-bears-vr.json) |
 | Water Castle | 268473 | [268473-water-castle.json](./268473-water-castle.json) |
 | Water City | 268472 | [268472-water-city.json](./268472-water-city.json) |
 | Water Clock | 106620 | [106620-water-clock.json](./106620-water-clock.json) |
@@ -575,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayward Rose | 248050 | [248050-wayward-rose.json](./248050-wayward-rose.json) |
 | Wayward Shadows | 213416 | [213416-wayward-shadows.json](./213416-wayward-shadows.json) |
 | Wayward Souls: Curse of Shadow | 19270 | [19270-wayward-souls-curse-of-shadow.json](./19270-wayward-souls-curse-of-shadow.json) |
+| Wayward Terran Frontier: Zero Falls | 34680 | [34680-wayward-terran-frontier-zero-falls.json](./34680-wayward-terran-frontier-zero-falls.json) |
 | WBTR: Welcome Back to Reality | 130376 | [130376-wbtr-welcome-back-to-reality.json](./130376-wbtr-welcome-back-to-reality.json) |
 | WC Dream | 296385 | [296385-wc-dream.json](./296385-wc-dream.json) |
 | WCW vs. nWo: World Tour | 3635 | [3635-wcw-vs-nwo-world-tour.json](./3635-wcw-vs-nwo-world-tour.json) |
