@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League Star | 100870 | [100870-league-star.json](./100870-league-star.json) |
 | Leak Elite | 136385 | [136385-leak-elite.json](./136385-leak-elite.json) |
 | Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
+| Leap A Head | 395710 | [395710-leap-a-head.json](./395710-leap-a-head.json) |
 | Leap Frog | 89158 | [89158-leap-frog.json](./89158-leap-frog.json) |
 | Leap in Bootstrap | 254530 | [254530-leap-in-bootstrap.json](./254530-leap-in-bootstrap.json) |
 | Leap of Fate | 50227 | [50227-leap-of-fate.json](./50227-leap-of-fate.json) |
@@ -635,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Racing | 232163 | [232163-legendary-racing.json](./232163-legendary-racing.json) |
 | Legendary Slide | 261781 | [261781-legendary-slide.json](./261781-legendary-slide.json) |
 | Legendary Slide 2: Platinum Edition | 266814 | [266814-legendary-slide-2-platinum-edition.json](./266814-legendary-slide-2-platinum-edition.json) |
+| Legendary Spell: Deluxe Edition | 395679 | [395679-legendary-spell-deluxe-edition.json](./395679-legendary-spell-deluxe-edition.json) |
 | Legendary Tales | 157175 | [157175-legendary-tales.json](./157175-legendary-tales.json) |
 | Legendary Tales: Cataclysm | 186322 | [186322-legendary-tales-cataclysm.json](./186322-legendary-tales-cataclysm.json) |
 | Legendary Tales: Dawn of History | 413598 | [413598-legendary-tales-dawn-of-history.json](./413598-legendary-tales-dawn-of-history.json) |
@@ -1150,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Garden | 129160 | [129160-lilys-garden.json](./129160-lilys-garden.json) |
 | LilyDeux: Black Lily Warning | 129698 | [129698-lilydeux-black-lily-warning.json](./129698-lilydeux-black-lily-warning.json) |
 | Lim Beyond One-on-One Basketball | 254782 | [254782-lim-beyond-one-on-one-basketball.json](./254782-lim-beyond-one-on-one-basketball.json) |
+| Limb Lobber | 395707 | [395707-limb-lobber.json](./395707-limb-lobber.json) |
 | Limb: Origins | 337086 | [337086-limb-origins.json](./337086-limb-origins.json) |
 | Limbot | 380436 | [380436-limbot.json](./380436-limbot.json) |
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
@@ -1243,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links: Championship Course - Troon North | 73319 | [73319-links-championship-course-troon-north.json](./73319-links-championship-course-troon-north.json) |
 | Linkz | 92995 | [92995-linkz.json](./92995-linkz.json) |
 | Linley Henzell's Dungeon Crawl | 84198 | [84198-linley-henzells-dungeon-crawl.json](./84198-linley-henzells-dungeon-crawl.json) |
+| Linsips | 395725 | [395725-linsips.json](./395725-linsips.json) |
 | Linum | 234063 | [234063-linum.json](./234063-linum.json) |
 | Linxicon | 319984 | [319984-linxicon.json](./319984-linxicon.json) |
 | Lioden | 178067 | [178067-lioden.json](./178067-lioden.json) |
@@ -1341,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little League World Series Baseball 2008 | 47953 | [47953-little-league-world-series-baseball-2008.json](./47953-little-league-world-series-baseball-2008.json) |
 | Little League World Series Baseball 2010 | 66621 | [66621-little-league-world-series-baseball-2010.json](./66621-little-league-world-series-baseball-2010.json) |
 | Little Legs | 301002 | [301002-little-legs.json](./301002-little-legs.json) |
+| Little Leonardo | 395715 | [395715-little-leonardo.json](./395715-little-leonardo.json) |
 | Little Library | 333951 | [333951-little-library.json](./333951-little-library.json) |
 | Little Lives | 149097 | [149097-little-lives.json](./149097-little-lives.json) |
 | Little Lookouts | 300385 | [300385-little-lookouts.json](./300385-little-lookouts.json) |
@@ -1565,6 +1570,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Ball: Wipeout | 256277 | [256277-lofi-ball-wipeout.json](./256277-lofi-ball-wipeout.json) |
 | Lofi Ping Pong | 116187 | [116187-lofi-ping-pong.json](./116187-lofi-ping-pong.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
+| Log Away: Christmas DLC | 395708 | [395708-log-away-christmas-dlc.json](./395708-log-away-christmas-dlc.json) |
+| Log Away: Easter DLC | 395717 | [395717-log-away-easter-dlc.json](./395717-log-away-easter-dlc.json) |
 | Log Drive Runner | 32946 | [32946-log-drive-runner.json](./32946-log-drive-runner.json) |
 | Log Jammers | 83583 | [83583-log-jammers.json](./83583-log-jammers.json) |
 | Log Truck | 101492 | [101492-log-truck.json](./101492-log-truck.json) |
