@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T19:04:03.332Z",
-  "total_missing": 70807,
+  "generated_at": "2026-09-14T19:11:38.517Z",
+  "total_missing": 70806,
   "games": [
     {
       "igdb_id": 306086,
@@ -4616,11 +4616,6 @@
       "igdb_id": 18199,
       "game_name": "Aerobat",
       "file": "missing/A/18199-aerobat.json"
-    },
-    {
-      "igdb_id": 269323,
-      "game_name": "Aerobics Revolution",
-      "file": "missing/A/269323-aerobics-revolution.json"
     },
     {
       "igdb_id": 5350,
