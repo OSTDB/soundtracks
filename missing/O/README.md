@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owl Glider Adventure | 359432 | [359432-owl-glider-adventure.json](./359432-owl-glider-adventure.json) |
 | Owl Observatory | 278717 | [278717-owl-observatory.json](./278717-owl-observatory.json) |
 | Owl Watch | 111254 | [111254-owl-watch.json](./111254-owl-watch.json) |
+| Owlbears | 387518 | [387518-owlbears.json](./387518-owlbears.json) |
 | Owlboy: Limited Edition | 68672 | [68672-owlboy-limited-edition.json](./68672-owlboy-limited-edition.json) |
 | Owlen and the Spirits of the Past | 385084 | [385084-owlen-and-the-spirits-of-the-past.json](./385084-owlen-and-the-spirits-of-the-past.json) |
 | Owlen and the Whispering Woods | 396433 | [396433-owlen-and-the-whispering-woods.json](./396433-owlen-and-the-whispering-woods.json) |
