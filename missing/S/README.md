@@ -1048,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
 | Second Person: Secret Laboratory | 158657 | [158657-second-person-secret-laboratory.json](./158657-second-person-secret-laboratory.json) |
+| Second Saga | 392251 | [392251-second-saga.json](./392251-second-saga.json) |
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
 | Second Thoughts | 203543 | [203543-second-thoughts.json](./203543-second-thoughts.json) |
 | Second Wave | 242250 | [242250-second-wave.json](./242250-second-wave.json) |
@@ -1335,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serega Madness Pixel Adventures | 295276 | [295276-serega-madness-pixel-adventures.json](./295276-serega-madness-pixel-adventures.json) |
 | Serendipity Hotel | 190218 | [190218-serendipity-hotel.json](./190218-serendipity-hotel.json) |
 | Serene Asylum | 172740 | [172740-serene-asylum.json](./172740-serene-asylum.json) |
+| Serenity | 392294 | [392294-serenity.json](./392294-serenity.json) |
 | Serflings | 210632 | [210632-serflings.json](./210632-serflings.json) |
 | Serial Cleaner | 19450 | [19450-serial-cleaner.json](./19450-serial-cleaner.json) |
 | Serial Cleaner: Blood & Confetti | 336529 | [336529-serial-cleaner-blood-and-confetti.json](./336529-serial-cleaner-blood-and-confetti.json) |
@@ -1733,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaper | 240810 | [240810-shaper.json](./240810-shaper.json) |
 | Shaper Runners | 231903 | [231903-shaper-runners.json](./231903-shaper-runners.json) |
 | Shapes of Gray | 34559 | [34559-shapes-of-gray.json](./34559-shapes-of-gray.json) |
+| Shapes of Memory: Jigsaw Puzzle | 392260 | [392260-shapes-of-memory-jigsaw-puzzle.json](./392260-shapes-of-memory-jigsaw-puzzle.json) |
 | Shapes on the Run | 108479 | [108479-shapes-on-the-run.json](./108479-shapes-on-the-run.json) |
 | Shapes! Toddler Kids Games,Baby Boys Learning Free | 86806 | [86806-shapes-toddler-kids-games-baby-boys-learning-free.json](./86806-shapes-toddler-kids-games-baby-boys-learning-free.json) |
 | Shapes3 | 54477 | [54477-shapes3.json](./54477-shapes3.json) |
@@ -3379,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snaaker & Friends | 169393 | [169393-snaaker-and-friends.json](./169393-snaaker-and-friends.json) |
 | Snaccoon | 214496 | [214496-snaccoon.json](./214496-snaccoon.json) |
 | Snack and Quack | 366221 | [366221-snack-and-quack.json](./366221-snack-and-quack.json) |
+| Snack Invaders | 392275 | [392275-snack-invaders.json](./392275-snack-invaders.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
 | Snackjack | 54378 | [54378-snackjack.json](./54378-snackjack.json) |
@@ -3559,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy Tennis | 49878 | [49878-snoopy-tennis.json](./49878-snoopy-tennis.json) |
 | Snoopy's Magic Show DX | 279583 | [279583-snoopys-magic-show-dx.json](./279583-snoopys-magic-show-dx.json) |
 | Snoopy's Silly Sports Spectacular! | 48077 | [48077-snoopys-silly-sports-spectacular.json](./48077-snoopys-silly-sports-spectacular.json) |
+| Snoot Booper | 392282 | [392282-snoot-booper.json](./392282-snoot-booper.json) |
 | Snoot Game | 225989 | [225989-snoot-game.json](./225989-snoot-game.json) |
 | Snooze or Lose | 276718 | [276718-snooze-or-lose.json](./276718-snooze-or-lose.json) |
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
@@ -4292,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry, We're Open | 200176 | [200176-sorry-were-open.json](./200176-sorry-were-open.json) |
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
 | Sort Them Ducks | 412357 | [412357-sort-them-ducks.json](./412357-sort-them-ducks.json) |
+| Sorted | 392265 | [392265-sorted.json](./392265-sorted.json) |
 | Sorted! | 219586 | [219586-sorted.json](./219586-sorted.json) |
 | Sortik Systems | 338218 | [338218-sortik-systems.json](./338218-sortik-systems.json) |
 | Sorting Baby Blocks: children's educational puzzle | 86837 | [86837-sorting-baby-blocks-childrens-educational-puzzle.json](./86837-sorting-baby-blocks-childrens-educational-puzzle.json) |
@@ -4588,6 +4594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Jones VR | 31816 | [31816-space-jones-vr.json](./31816-space-jones-vr.json) |
 | Space Junk Scavenger | 305197 | [305197-space-junk-scavenger.json](./305197-space-junk-scavenger.json) |
 | Space Junkies | 37080 | [37080-space-junkies.json](./37080-space-junkies.json) |
+| Space Kabaam: Dagger | 392284 | [392284-space-kabaam-dagger.json](./392284-space-kabaam-dagger.json) |
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
 | Space Kadet | 123598 | [123598-space-kadet.json](./123598-space-kadet.json) |
 | Space Kids | 69806 | [69806-space-kids.json](./69806-space-kids.json) |
@@ -5377,6 +5384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares of Hell | 304612 | [304612-squares-of-hell.json](./304612-squares-of-hell.json) |
 | Squarez: Escape The Squares | 262357 | [262357-squarez-escape-the-squares.json](./262357-squarez-escape-the-squares.json) |
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
+| Squeakross: Free Content Update | 392279 | [392279-squeakross-free-content-update.json](./392279-squeakross-free-content-update.json) |
 | Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
 | Squeezils | 206708 | [206708-squeezils.json](./206708-squeezils.json) |
 | Squeezone | 31709 | [31709-squeezone.json](./31709-squeezone.json) |
