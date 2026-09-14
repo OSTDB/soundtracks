@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Independence Day Resurgence: Battle Heroes | 354411 | [354411-independence-day-resurgence-battle-heroes.json](./354411-independence-day-resurgence-battle-heroes.json) |
 | Independence Day Run | 229039 | [229039-independence-day-run.json](./229039-independence-day-run.json) |
 | Independent Games | 210063 | [210063-independent-games.json](./210063-independent-games.json) |
+| Indian Bus Simulator: Game | 384620 | [384620-indian-bus-simulator-game.json](./384620-indian-bus-simulator-game.json) |
 | Indian Rummy: Fun Card Game | 88171 | [88171-indian-rummy-fun-card-game.json](./88171-indian-rummy-fun-card-game.json) |
 | Indian Street Food Simulator | 407345 | [407345-indian-street-food-simulator.json](./407345-indian-street-food-simulator.json) |
 | Indian Train Simulator 2018 | 208928 | [208928-indian-train-simulator-2018.json](./208928-indian-train-simulator-2018.json) |
