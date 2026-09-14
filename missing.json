@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T09:34:12.506Z",
-  "total_missing": 69247,
+  "generated_at": "2026-09-14T09:41:34.178Z",
+  "total_missing": 69246,
   "games": [
     {
       "igdb_id": 306086,
@@ -4316,11 +4316,6 @@
       "igdb_id": 265404,
       "game_name": "Adventure Story",
       "file": "missing/A/265404-adventure-story.json"
-    },
-    {
-      "igdb_id": 11320,
-      "game_name": "Adventure Time: Finn and Jake Investigations",
-      "file": "missing/A/11320-adventure-time-finn-and-jake-investigations.json"
     },
     {
       "igdb_id": 2797,
