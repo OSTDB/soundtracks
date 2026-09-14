@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | R no Shosai | 93531 | [93531-r-no-shosai.json](./93531-r-no-shosai.json) |
+| R-Coil | 68792 | [68792-r-coil.json](./68792-r-coil.json) |
 | R-Shark | 40254 | [40254-r-shark.json](./40254-r-shark.json) |
 | R-Type | 263373 | [263373-r-type.json](./263373-r-type.json) |
 | R-Type Final 2: DLC Set 1 | 155065 | [155065-r-type-final-2-dlc-set-1.json](./155065-r-type-final-2-dlc-set-1.json) |
@@ -584,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach To Neighbor House | 241946 | [241946-reach-to-neighbor-house.json](./241946-reach-to-neighbor-house.json) |
 | Reach to Tsukuyomi | 278984 | [278984-reach-to-tsukuyomi.json](./278984-reach-to-tsukuyomi.json) |
 | Reach Your Destiny | 297797 | [297797-reach-your-destiny.json](./297797-reach-your-destiny.json) |
+| Reaching for Petals: VR Edition | 68664 | [68664-reaching-for-petals-vr-edition.json](./68664-reaching-for-petals-vr-edition.json) |
 | Reaching the Seven: Asteroids | 178627 | [178627-reaching-the-seven-asteroids.json](./178627-reaching-the-seven-asteroids.json) |
 | Reaction | 152347 | [152347-reaction.json](./152347-reaction.json) |
 | Reaction Quake 3 | 200651 | [200651-reaction-quake-3.json](./200651-reaction-quake-3.json) |
@@ -2145,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky | 4093 | [4093-rocky.json](./4093-rocky.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
 | Rocky Legends | 6016 | [6016-rocky-legends.json](./6016-rocky-legends.json) |
+| Rocky Mountain Trophy Hunter: Alaskan Expedition | 69084 | [69084-rocky-mountain-trophy-hunter-alaskan-expedition.json](./69084-rocky-mountain-trophy-hunter-alaskan-expedition.json) |
 | Rocky Mountain: Trophy Hunter | 49946 | [49946-rocky-mountain-trophy-hunter.json](./49946-rocky-mountain-trophy-hunter.json) |
 | Rocky Rodent | 42648 | [42648-rocky-rodent.json](./42648-rocky-rodent.json) |
 | Rocky Towers: Puzzle Defense | 237378 | [237378-rocky-towers-puzzle-defense.json](./237378-rocky-towers-puzzle-defense.json) |
@@ -2630,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Live 4 | 43061 | [43061-rugby-league-live-4.json](./43061-rugby-league-live-4.json) |
 | Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
 | Rugby League Riot | 274478 | [274478-rugby-league-riot.json](./274478-rugby-league-riot.json) |
+| Rugby League Team Manager 2018 | 68707 | [68707-rugby-league-team-manager-2018.json](./68707-rugby-league-team-manager-2018.json) |
 | Rugby Nations 18 | 86865 | [86865-rugby-nations-18.json](./86865-rugby-nations-18.json) |
 | Rugby Sevens 23 | 240817 | [240817-rugby-sevens-23.json](./240817-rugby-sevens-23.json) |
 | Rugby Union Team Manager 4 | 225072 | [225072-rugby-union-team-manager-4.json](./225072-rugby-union-team-manager-4.json) |
