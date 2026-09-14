@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T05:51:32.270Z",
-  "total_missing": 68666,
+  "generated_at": "2026-09-14T06:01:33.451Z",
+  "total_missing": 68680,
   "games": [
     {
       "igdb_id": 306086,
@@ -4206,11 +4206,6 @@
       "igdb_id": 126585,
       "game_name": "Adventure Galaxy",
       "file": "missing/A/126585-adventure-galaxy.json"
-    },
-    {
-      "igdb_id": 105310,
-      "game_name": "Adventure Hero",
-      "file": "missing/A/105310-adventure-hero.json"
     },
     {
       "igdb_id": 305183,
@@ -17051,6 +17046,11 @@
       "igdb_id": 251605,
       "game_name": "Aruaru xx-san wo Sagase!",
       "file": "missing/A/251605-aruaru-xx-san-wo-sagase.json"
+    },
+    {
+      "igdb_id": 416690,
+      "game_name": "Arui ha Koi to Iu Na no Mahou",
+      "file": "missing/A/416690-arui-ha-koi-to-iu-na-no-mahou.json"
     },
     {
       "igdb_id": 382787,
@@ -42251,6 +42251,11 @@
       "igdb_id": 153967,
       "game_name": "Calmed by the Dark: Leviathan",
       "file": "missing/C/153967-calmed-by-the-dark-leviathan.json"
+    },
+    {
+      "igdb_id": 416686,
+      "game_name": "Calpria",
+      "file": "missing/C/416686-calpria.json"
     },
     {
       "igdb_id": 61569,
@@ -67873,6 +67878,11 @@
       "file": "missing/D/359982-death-mask.json"
     },
     {
+      "igdb_id": 416694,
+      "game_name": "Death Match",
+      "file": "missing/D/416694-death-match.json"
+    },
+    {
       "igdb_id": 109613,
       "game_name": "Death Maze",
       "file": "missing/D/109613-death-maze.json"
@@ -71163,6 +71173,11 @@
       "file": "missing/D/244238-detective-butler-and-the-king-of-hearts.json"
     },
     {
+      "igdb_id": 416699,
+      "game_name": "Detective Club: Gallery of Shadows",
+      "file": "missing/D/416699-detective-club-gallery-of-shadows.json"
+    },
+    {
       "igdb_id": 362848,
       "game_name": "Detective Club: Gallery of Shadows - Collector's Edition",
       "file": "missing/D/362848-detective-club-gallery-of-shadows-collectors-edition.json"
@@ -71316,6 +71331,11 @@
       "igdb_id": 248337,
       "game_name": "Detectives United: Origins - Collector's Edition",
       "file": "missing/D/248337-detectives-united-origins-collectors-edition.json"
+    },
+    {
+      "igdb_id": 416702,
+      "game_name": "Detectives United: Vengeance from the Past",
+      "file": "missing/D/416702-detectives-united-vengeance-from-the-past.json"
     },
     {
       "igdb_id": 113683,
@@ -81476,6 +81496,11 @@
       "igdb_id": 19977,
       "game_name": "Dub Dash",
       "file": "missing/D/19977-dub-dash.json"
+    },
+    {
+      "igdb_id": 416687,
+      "game_name": "Dubbed",
+      "file": "missing/D/416687-dubbed.json"
     },
     {
       "igdb_id": 156623,
@@ -104668,6 +104693,11 @@
       "file": "missing/F/406703-fragments-of-fear.json"
     },
     {
+      "igdb_id": 416703,
+      "game_name": "Fragments of Truth: An MCF Story",
+      "file": "missing/F/416703-fragments-of-truth-an-mcf-story.json"
+    },
+    {
       "igdb_id": 260956,
       "game_name": "Fragport",
       "file": "missing/F/260956-fragport.json"
@@ -110581,6 +110611,11 @@
       "igdb_id": 330563,
       "game_name": "Gemporium",
       "file": "missing/G/330563-gemporium.json"
+    },
+    {
+      "igdb_id": 416696,
+      "game_name": "Gems of Destiny: Magic Rescue",
+      "file": "missing/G/416696-gems-of-destiny-magic-rescue.json"
     },
     {
       "igdb_id": 133426,
@@ -117606,6 +117641,11 @@
       "igdb_id": 297238,
       "game_name": "Grim Borough",
       "file": "missing/G/297238-grim-borough.json"
+    },
+    {
+      "igdb_id": 416700,
+      "game_name": "Grim Chronicles: Superior Sorcery",
+      "file": "missing/G/416700-grim-chronicles-superior-sorcery.json"
     },
     {
       "igdb_id": 149524,
@@ -127773,6 +127813,11 @@
       "file": "missing/H/107124-hidden-pointsman.json"
     },
     {
+      "igdb_id": 416701,
+      "game_name": "Hidden Portals: Eternal Balance",
+      "file": "missing/H/416701-hidden-portals-eternal-balance.json"
+    },
+    {
       "igdb_id": 287074,
       "game_name": "Hidden Robo Cats",
       "file": "missing/H/287074-hidden-robo-cats.json"
@@ -128581,6 +128626,11 @@
       "igdb_id": 59372,
       "game_name": "Hime Hibi Zoku! 2 Gakki: New Princess Days!!",
       "file": "missing/H/59372-hime-hibi-zoku-2-gakki-new-princess-days.json"
+    },
+    {
+      "igdb_id": 416692,
+      "game_name": "Hime to Otome no Yakimochi Love",
+      "file": "missing/H/416692-hime-to-otome-no-yakimochi-love.json"
     },
     {
       "igdb_id": 249473,
@@ -161878,6 +161928,11 @@
       "file": "missing/L/20528-lost-in-paradise.json"
     },
     {
+      "igdb_id": 416689,
+      "game_name": "Lost in Paradise",
+      "file": "missing/L/416689-lost-in-paradise.json"
+    },
+    {
       "igdb_id": 150462,
       "game_name": "Lost in Play",
       "file": "missing/L/150462-lost-in-play.json"
@@ -187566,6 +187621,11 @@
       "igdb_id": 201817,
       "game_name": "Mystery Trackers: Raincliff's Phantoms & Mystery Trackers: Blackrow's Secret",
       "file": "missing/M/201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json"
+    },
+    {
+      "igdb_id": 416698,
+      "game_name": "Mystery Trackers: The Shrouded Village",
+      "file": "missing/M/416698-mystery-trackers-the-shrouded-village.json"
     },
     {
       "igdb_id": 146926,
@@ -239081,6 +239141,11 @@
       "igdb_id": 293325,
       "game_name": "Ruthnar Online",
       "file": "missing/R/293325-ruthnar-online.json"
+    },
+    {
+      "igdb_id": 416685,
+      "game_name": "Rutterkin",
+      "file": "missing/R/416685-rutterkin.json"
     },
     {
       "igdb_id": 310217,
@@ -296511,6 +296576,11 @@
       "igdb_id": 410892,
       "game_name": "The One Fish",
       "file": "missing/T/410892-the-one-fish.json"
+    },
+    {
+      "igdb_id": 416695,
+      "game_name": "The One Who Knows",
+      "file": "missing/T/416695-the-one-who-knows.json"
     },
     {
       "igdb_id": 191888,
