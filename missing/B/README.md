@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mesa: Classic | 283761 | [283761-black-mesa-classic.json](./283761-black-mesa-classic.json) |
 | Black Mirror: Thronglets | 339816 | [339816-black-mirror-thronglets.json](./339816-black-mirror-thronglets.json) |
 | Black Monday | 94217 | [94217-black-monday.json](./94217-black-monday.json) |
+| Black Omens: House of Crimson Silk | 387539 | [387539-black-omens-house-of-crimson-silk.json](./387539-black-omens-house-of-crimson-silk.json) |
 | Black Out. | 297808 | [297808-black-out.json](./297808-black-out.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
@@ -2523,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Pact: Premium Edition | 239876 | [239876-blood-pact-premium-edition.json](./239876-blood-pact-premium-edition.json) |
 | Blood Park | 405572 | [405572-blood-park.json](./405572-blood-park.json) |
 | Blood Peace | 293106 | [293106-blood-peace.json](./293106-blood-peace.json) |
+| Blood Permafrost | 387556 | [387556-blood-permafrost.json](./387556-blood-permafrost.json) |
 | Blood Radiant | 277275 | [277275-blood-radiant.json](./277275-blood-radiant.json) |
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
 | Blood Running: Prologue | 293388 | [293388-blood-running-prologue.json](./293388-blood-running-prologue.json) |
@@ -2823,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
 | Bomb Disposal Expert | 68644 | [68644-bomb-disposal-expert.json](./68644-bomb-disposal-expert.json) |
 | Bomb Disposer | 210638 | [210638-bomb-disposer.json](./210638-bomb-disposer.json) |
+| Bomb It 7 | 387553 | [387553-bomb-it-7.json](./387553-bomb-it-7.json) |
 | Bomb Jack Twin | 39652 | [39652-bomb-jack-twin.json](./39652-bomb-jack-twin.json) |
 | Bomb Labyrinth | 99623 | [99623-bomb-labyrinth.json](./99623-bomb-labyrinth.json) |
 | Bomb Riders | 108407 | [108407-bomb-riders.json](./108407-bomb-riders.json) |
@@ -3822,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
 | Bugs Must Die | 111353 | [111353-bugs-must-die.json](./111353-bugs-must-die.json) |
 | Bugs N' Guns | 276690 | [276690-bugs-n-guns.json](./276690-bugs-n-guns.json) |
+| Bugs with Afterburners | 387550 | [387550-bugs-with-afterburners.json](./387550-bugs-with-afterburners.json) |
 | Bugs! | 119679 | [119679-bugs.json](./119679-bugs.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
 | Bugz Bows & Curses | 214192 | [214192-bugz-bows-and-curses.json](./214192-bugz-bows-and-curses.json) |
