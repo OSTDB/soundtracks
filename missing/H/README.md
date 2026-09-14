@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Dating Stories: Brazil - Best Stories 3 | 308786 | [308786-hentai-dating-stories-brazil-best-stories-3.json](./308786-hentai-dating-stories-brazil-best-stories-3.json) |
 | Hentai Dating Stories: Brazil - Deluxe Edition | 308802 | [308802-hentai-dating-stories-brazil-deluxe-edition.json](./308802-hentai-dating-stories-brazil-deluxe-edition.json) |
 | Hentai Dating Stories: Brazil - Special Edition | 315862 | [315862-hentai-dating-stories-brazil-special-edition.json](./315862-hentai-dating-stories-brazil-special-edition.json) |
+| Hentai Demon | 387503 | [387503-hentai-demon.json](./387503-hentai-demon.json) |
 | Hentai Demon's Lullaby | 390500 | [390500-hentai-demons-lullaby.json](./390500-hentai-demons-lullaby.json) |
 | Hentai Devil | 263792 | [263792-hentai-devil.json](./263792-hentai-devil.json) |
 | Hentai DevilGirl | 228083 | [228083-hentai-devilgirl.json](./228083-hentai-devilgirl.json) |
