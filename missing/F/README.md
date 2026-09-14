@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of the Dead | 309370 | [309370-field-of-the-dead.json](./309370-field-of-the-dead.json) |
 | Fieldrunners | 9839 | [9839-fieldrunners.json](./9839-fieldrunners.json) |
 | Fields - Soldier of Time | 77278 | [77278-fields-soldier-of-time.json](./77278-fields-soldier-of-time.json) |
+| Fields of Aaru | 400375 | [400375-fields-of-aaru.json](./400375-fields-of-aaru.json) |
 | Fields of Glory | 37111 | [37111-fields-of-glory.json](./37111-fields-of-glory.json) |
 | Fields of Mine | 372981 | [372981-fields-of-mine.json](./372981-fields-of-mine.json) |
 | Fiend Hunter | 42000 | [42000-fiend-hunter.json](./42000-fiend-hunter.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Financial Football | 91919 | [91919-financial-football.json](./91919-financial-football.json) |
 | Finch | 304902 | [304902-finch.json](./304902-finch.json) |
 | Finch & Archie | 306095 | [306095-finch-and-archie.json](./306095-finch-and-archie.json) |
+| FinCrementalOS | 400314 | [400314-fincrementalos.json](./400314-fincrementalos.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
 | Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
