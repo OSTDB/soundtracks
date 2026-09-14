@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese New Year 2013 | 233779 | [233779-chinese-new-year-2013.json](./233779-chinese-new-year-2013.json) |
 | Chinese Paladin 5 Prequel | 68175 | [68175-chinese-paladin-5-prequel.json](./68175-chinese-paladin-5-prequel.json) |
 | Chinese Parents | 86430 | [86430-chinese-parents.json](./86430-chinese-parents.json) |
+| Chinese PigLoad | 385728 | [385728-chinese-pigload.json](./385728-chinese-pigload.json) |
 | Chinese Souls: Hua Garden | 90614 | [90614-chinese-souls-hua-garden.json](./90614-chinese-souls-hua-garden.json) |
 | Chinese Train Trip | 195190 | [195190-chinese-train-trip.json](./195190-chinese-train-trip.json) |
 | Chineze | 96712 | [96712-chineze.json](./96712-chineze.json) |
@@ -4330,6 +4331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Greed: Ultimate | 176973 | [176973-curse-of-greed-ultimate.json](./176973-curse-of-greed-ultimate.json) |
 | Curse of Issyos | 137101 | [137101-curse-of-issyos.json](./137101-curse-of-issyos.json) |
 | Curse of Mermos | 35678 | [35678-curse-of-mermos.json](./35678-curse-of-mermos.json) |
+| Curse of Silence | 385753 | [385753-curse-of-silence.json](./385753-curse-of-silence.json) |
 | Curse of the Azure Bonds | 2461 | [2461-curse-of-the-azure-bonds.json](./2461-curse-of-the-azure-bonds.json) |
 | Curse of the Cobra | 229050 | [229050-curse-of-the-cobra.json](./229050-curse-of-the-cobra.json) |
 | Curse of the Deadwood | 172152 | [172152-curse-of-the-deadwood.json](./172152-curse-of-the-deadwood.json) |
