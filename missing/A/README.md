@@ -341,7 +341,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
 | Advanced Dungeons & Dragons: DragonStrike | 48113 | [48113-advanced-dungeons-and-dragons-dragonstrike.json](./48113-advanced-dungeons-and-dragons-dragonstrike.json) |
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
-| Advanced Intelligence Surveillance Agency | 150651 | [150651-advanced-intelligence-surveillance-agency.json](./150651-advanced-intelligence-surveillance-agency.json) |
 | Advanced Lawnmower Simulator | 142432 | [142432-advanced-lawnmower-simulator.json](./142432-advanced-lawnmower-simulator.json) |
 | Advanced NetWars | 78001 | [78001-advanced-netwars.json](./78001-advanced-netwars.json) |
 | Advanced Strategic Command | 63246 | [63246-advanced-strategic-command.json](./63246-advanced-strategic-command.json) |
