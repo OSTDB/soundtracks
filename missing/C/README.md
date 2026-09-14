@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Girl Survivor | 295771 | [295771-cat-girl-survivor.json](./295771-cat-girl-survivor.json) |
 | Cat Good Work | 309686 | [309686-cat-good-work.json](./309686-cat-good-work.json) |
 | Cat got Lost | 260670 | [260670-cat-got-lost.json](./260670-cat-got-lost.json) |
+| Cat Hits the Deck | 406209 | [406209-cat-hits-the-deck.json](./406209-cat-hits-the-deck.json) |
 | Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
 | Cat in the Box | 132754 | [132754-cat-in-the-box.json](./132754-cat-in-the-box.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 1 | 263200 | [263200-cat-jigsaw-puzzle-games-expansion-pack-1.json](./263200-cat-jigsaw-puzzle-games-expansion-pack-1.json) |
@@ -966,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Spotter | 307322 | [307322-cats-spotter.json](./307322-cats-spotter.json) |
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
+| Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
 | Cattails: Wildwood Story | 189143 | [189143-cattails-wildwood-story.json](./189143-cattails-wildwood-story.json) |
 | Cattle Call: Hollywood Talent Manager | 110525 | [110525-cattle-call-hollywood-talent-manager.json](./110525-cattle-call-hollywood-talent-manager.json) |
@@ -992,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Bowling | 87262 | [87262-cave-bowling.json](./87262-cave-bowling.json) |
 | Cave Brawlers | 82034 | [82034-cave-brawlers.json](./82034-cave-brawlers.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
+| Cave Crave: Tham Luang Cave VR | 406192 | [406192-cave-crave-tham-luang-cave-vr.json](./406192-cave-crave-tham-luang-cave-vr.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
 | Cave Crusade | 343244 | [343244-cave-crusade.json](./343244-cave-crusade.json) |
 | Cave Digger 2: Mixed Reality Expansion | 306958 | [306958-cave-digger-2-mixed-reality-expansion.json](./306958-cave-digger-2-mixed-reality-expansion.json) |
@@ -2613,6 +2616,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game 4: Science Fiction | 252754 | [252754-coloring-game-4-science-fiction.json](./252754-coloring-game-4-science-fiction.json) |
 | Coloring Game 4: Sport | 252746 | [252746-coloring-game-4-sport.json](./252746-coloring-game-4-sport.json) |
 | Coloring Game 4: Steampunk | 199609 | [199609-coloring-game-4-steampunk.json](./199609-coloring-game-4-steampunk.json) |
+| Coloring Game 5.5 | 406186 | [406186-coloring-game-5-5.json](./406186-coloring-game-5-5.json) |
+| Coloring Game 5.6 | 406187 | [406187-coloring-game-5-6.json](./406187-coloring-game-5-6.json) |
 | Coloring Game: Girls | 255329 | [255329-coloring-game-girls.json](./255329-coloring-game-girls.json) |
 | Coloring Game: Little City | 130402 | [130402-coloring-game-little-city.json](./130402-coloring-game-little-city.json) |
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
