@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Léo | 386726 | [386726-leo.json](./386726-leo.json) |
 | Leo & Leah | 130884 | [130884-leo-and-leah.json](./130884-leo-and-leah.json) |
 | Leo the Lion | 124823 | [124823-leo-the-lion.json](./124823-leo-the-lion.json) |
+| Leo's RC Simulator | 380543 | [380543-leos-rc-simulator.json](./380543-leos-rc-simulator.json) |
 | Leon's Identity | 136992 | [136992-leons-identity.json](./136992-leons-identity.json) |
 | Leonardo | 133430 | [133430-leonardo.json](./133430-leonardo.json) |
 | Leonardo's Cat | 175398 | [175398-leonardos-cat.json](./175398-leonardos-cat.json) |
@@ -815,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Mills XR Bodycombat | 204582 | [204582-les-mills-xr-bodycombat.json](./204582-les-mills-xr-bodycombat.json) |
 | Les Mills XR Bodycombat: Never Surrender | 352208 | [352208-les-mills-xr-bodycombat-never-surrender.json](./352208-les-mills-xr-bodycombat-never-surrender.json) |
 | Les Mills XR Bodycombat: Power Strike | 352211 | [352211-les-mills-xr-bodycombat-power-strike.json](./352211-les-mills-xr-bodycombat-power-strike.json) |
+| Les Mills XR Bodycombat: Ultimate Fitness Pack | 380565 | [380565-les-mills-xr-bodycombat-ultimate-fitness-pack.json](./380565-les-mills-xr-bodycombat-ultimate-fitness-pack.json) |
 | Les Portes du Temps | 86023 | [86023-les-portes-du-temps.json](./86023-les-portes-du-temps.json) |
 | Les Ripoux | 133439 | [133439-les-ripoux.json](./133439-les-ripoux.json) |
 | Lesbian Mothman Hunters | 151751 | [151751-lesbian-mothman-hunters.json](./151751-lesbian-mothman-hunters.json) |
@@ -1398,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little People | 57039 | [57039-little-people.json](./57039-little-people.json) |
 | Little Petsville Desktop | 401641 | [401641-little-petsville-desktop.json](./401641-little-petsville-desktop.json) |
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
+| Little Planet: Holiday Update | 380572 | [380572-little-planet-holiday-update.json](./380572-little-planet-holiday-update.json) |
 | Little Porp | 236301 | [236301-little-porp.json](./236301-little-porp.json) |
 | Little Postman | 247758 | [247758-little-postman.json](./247758-little-postman.json) |
 | Little Princess | 70945 | [70945-little-princess.json](./70945-little-princess.json) |
