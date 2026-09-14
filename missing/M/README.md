@@ -1925,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merlin Adventurer Store | 26490 | [26490-merlin-adventurer-store.json](./26490-merlin-adventurer-store.json) |
 | Merlin Racing | 51184 | [51184-merlin-racing.json](./51184-merlin-racing.json) |
 | Merlin's Apprentice | 45913 | [45913-merlins-apprentice.json](./45913-merlins-apprentice.json) |
+| Mermaid Colony | 117788 | [117788-mermaid-colony.json](./117788-mermaid-colony.json) |
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
 | Mermaid Prism | 203341 | [203341-mermaid-prism.json](./203341-mermaid-prism.json) |
 | Mermaid Story | 219289 | [219289-mermaid-story.json](./219289-mermaid-story.json) |
@@ -3456,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck XT Airport Derby | 86784 | [86784-monster-truck-xt-airport-derby.json](./86784-monster-truck-xt-airport-derby.json) |
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
 | Monster Waifu | 226190 | [226190-monster-waifu.json](./226190-monster-waifu.json) |
+| Monster X Monster | 118032 | [118032-monster-x-monster.json](./118032-monster-x-monster.json) |
 | Monster: Titan's Playground | 302927 | [302927-monster-titans-playground.json](./302927-monster-titans-playground.json) |
 | Monster! Bass Fishing | 49324 | [49324-monster-bass-fishing.json](./49324-monster-bass-fishing.json) |
 | Monster+Connect! | 181396 | [181396-monster-connect.json](./181396-monster-connect.json) |
@@ -4363,6 +4365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Goddess of Love | 114406 | [114406-my-goddess-of-love.json](./114406-my-goddess-of-love.json) |
 | My Hayami-Chan | 199040 | [199040-my-hayami-chan.json](./199040-my-hayami-chan.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
+| My Heart Grows Fonder | 117653 | [117653-my-heart-grows-fonder.json](./117653-my-heart-grows-fonder.json) |
 | My Heaven's Dale | 343267 | [343267-my-heavens-dale.json](./343267-my-heavens-dale.json) |
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
 | My Hero and the King | 63265 | [63265-my-hero-and-the-king.json](./63265-my-hero-and-the-king.json) |
