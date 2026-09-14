@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspire | 298302 | [298302-inspire.json](./298302-inspire.json) |
 | Inspired You | 413037 | [413037-inspired-you.json](./413037-inspired-you.json) |
 | Install Fee Tycoon | 269006 | [269006-install-fee-tycoon.json](./269006-install-fee-tycoon.json) |
+| Instant Family Fun Bundle | 406801 | [406801-instant-family-fun-bundle.json](./406801-instant-family-fun-bundle.json) |
 | Instant Sports Summer + Winter | 269299 | [269299-instant-sports-summer-winter.json](./269299-instant-sports-summer-winter.json) |
 | Instant Sports Summer Games | 139969 | [139969-instant-sports-summer-games.json](./139969-instant-sports-summer-games.json) |
 | Instarion | 260972 | [260972-instarion.json](./260972-instarion.json) |
@@ -1358,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is This Even Chess? | 275350 | [275350-is-this-even-chess.json](./275350-is-this-even-chess.json) |
 | Is this Game Trying to Kill Me? Preface | 305196 | [305196-is-this-game-trying-to-kill-me-preface.json](./305196-is-this-game-trying-to-kill-me-preface.json) |
 | Is This Weapon? | 245339 | [245339-is-this-weapon.json](./245339-is-this-weapon.json) |
+| Is Today Another Day? | 406797 | [406797-is-today-another-day.json](./406797-is-today-another-day.json) |
 | Isaac Phens: Ace Attorney | 318804 | [318804-isaac-phens-ace-attorney.json](./318804-isaac-phens-ace-attorney.json) |
 | Isaacle | 361711 | [361711-isaacle.json](./361711-isaacle.json) |
 | Isabella: Chasing Shadows | 278730 | [278730-isabella-chasing-shadows.json](./278730-isabella-chasing-shadows.json) |
