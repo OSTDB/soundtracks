@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
 | UBoat | 32283 | [32283-uboat.json](./32283-uboat.json) |
 | Uboat Attack: Complete Edition | 317245 | [317245-uboat-attack-complete-edition.json](./317245-uboat-attack-complete-edition.json) |
+| Uboat Attack: Gold Edition | 385212 | [385212-uboat-attack-gold-edition.json](./385212-uboat-attack-gold-edition.json) |
 | Ubok. | 150160 | [150160-ubok.json](./150160-ubok.json) |
 | UBRocks | 90683 | [90683-ubrocks.json](./90683-ubrocks.json) |
 | Ubu | 356618 | [356618-ubu.json](./356618-ubu.json) |
@@ -93,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima: Exodus | 48049 | [48049-ultima-exodus.json](./48049-ultima-exodus.json) |
 | Ultima: Quest of the Avatar | 48097 | [48097-ultima-quest-of-the-avatar.json](./48097-ultima-quest-of-the-avatar.json) |
 | Ultima: Warriors of Destiny | 48096 | [48096-ultima-warriors-of-destiny.json](./48096-ultima-warriors-of-destiny.json) |
+| UltiMage | 385191 | [385191-ultimage.json](./385191-ultimage.json) |
 | Ultimagus | 29845 | [29845-ultimagus.json](./29845-ultimagus.json) |
 | Ultimate 20-Game Bundle | 392766 | [392766-ultimate-20-game-bundle.json](./392766-ultimate-20-game-bundle.json) |
 | Ultimate Action Hero | 306364 | [306364-ultimate-action-hero.json](./306364-ultimate-action-hero.json) |
@@ -772,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Exploration Bundle | 218462 | [218462-urban-exploration-bundle.json](./218462-urban-exploration-bundle.json) |
 | Urban Extreme | 198535 | [198535-urban-extreme.json](./198535-urban-extreme.json) |
 | Urban Fantasy: Vampires vs Werewolves | 169359 | [169359-urban-fantasy-vampires-vs-werewolves.json](./169359-urban-fantasy-vampires-vs-werewolves.json) |
+| Urban Flow Chaos Control | 385173 | [385173-urban-flow-chaos-control.json](./385173-urban-flow-chaos-control.json) |
 | Urban Flow Vehicle Vault | 309083 | [309083-urban-flow-vehicle-vault.json](./309083-urban-flow-vehicle-vault.json) |
 | Urban Flow: Combo Edition | 328809 | [328809-urban-flow-combo-edition.json](./328809-urban-flow-combo-edition.json) |
 | Urban Flow: Complete Edition | 240226 | [240226-urban-flow-complete-edition.json](./240226-urban-flow-complete-edition.json) |
