@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LifePaths | 414351 | [414351-lifepaths.json](./414351-lifepaths.json) |
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
 | Lifo | 185615 | [185615-lifo.json](./185615-lifo.json) |
+| Lift Up | 397072 | [397072-lift-up.json](./397072-lift-up.json) |
 | Lift/Shift | 340918 | [340918-lift-shift.json](./340918-lift-shift.json) |
 | Lifting Unlimited | 302109 | [302109-lifting-unlimited.json](./302109-lifting-unlimited.json) |
 | Light 'em Up | 204495 | [204495-light-em-up.json](./204495-light-em-up.json) |
@@ -2141,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumberjack Simulator: Made in Alaska 2026 | 390501 | [390501-lumberjack-simulator-made-in-alaska-2026.json](./390501-lumberjack-simulator-made-in-alaska-2026.json) |
 | Lumbermill | 122427 | [122427-lumbermill.json](./122427-lumbermill.json) |
 | LumberQwaxes | 154013 | [154013-lumberqwaxes.json](./154013-lumberqwaxes.json) |
+| Lumboo | 397093 | [397093-lumboo.json](./397093-lumboo.json) |
 | Lumeera and the Glow Reefs | 406803 | [406803-lumeera-and-the-glow-reefs.json](./406803-lumeera-and-the-glow-reefs.json) |
 | Lumencraft | 186294 | [186294-lumencraft.json](./186294-lumencraft.json) |
 | Lumexa | 151115 | [151115-lumexa.json](./151115-lumexa.json) |
