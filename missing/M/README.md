@@ -2537,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
+| Mindset | 68616 | [68616-mindset.json](./68616-mindset.json) |
 | Mindshadow | 12185 | [12185-mindshadow.json](./12185-mindshadow.json) |
 | Mindshow | 75145 | [75145-mindshow.json](./75145-mindshow.json) |
 | Mindtrap | 91406 | [91406-mindtrap.json](./91406-mindtrap.json) |
@@ -4324,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My College Picture with Them | 316652 | [316652-my-college-picture-with-them.json](./316652-my-college-picture-with-them.json) |
 | My Colony | 111097 | [111097-my-colony.json](./111097-my-colony.json) |
 | My Colony 2 | 200723 | [200723-my-colony-2.json](./200723-my-colony-2.json) |
+| My Coloring Book: Animals | 68658 | [68658-my-coloring-book-animals.json](./68658-my-coloring-book-animals.json) |
 | My Coloring Book: Transport | 81110 | [81110-my-coloring-book-transport.json](./81110-my-coloring-book-transport.json) |
 | My Company and I Fell Into an RPG | 132217 | [132217-my-company-and-i-fell-into-an-rpg.json](./132217-my-company-and-i-fell-into-an-rpg.json) |
 | My Confounding Cat is Criminally Cute! | 284911 | [284911-my-confounding-cat-is-criminally-cute.json](./284911-my-confounding-cat-is-criminally-cute.json) |
