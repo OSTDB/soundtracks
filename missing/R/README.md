@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raster Prime: Remix | 162415 | [162415-raster-prime-remix.json](./162415-raster-prime-remix.json) |
 | Rat Arena | 106585 | [106585-rat-arena.json](./106585-rat-arena.json) |
 | Rat Climber | 330135 | [330135-rat-climber.json](./330135-rat-climber.json) |
+| Rat Farm | 414418 | [414418-rat-farm.json](./414418-rat-farm.json) |
 | Rat King | 394876 | [394876-rat-king.json](./394876-rat-king.json) |
 | Rat Race | 408783 | [408783-rat-race.json](./408783-rat-race.json) |
 | Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
