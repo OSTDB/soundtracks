@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka 2 Complete Collection | 321760 | [321760-magicka-2-complete-collection.json](./321760-magicka-2-complete-collection.json) |
 | Magicka 2 Upgrade Pack | 321759 | [321759-magicka-2-upgrade-pack.json](./321759-magicka-2-upgrade-pack.json) |
 | Magicka 2: Three Cardinals Robe Pack | 321758 | [321758-magicka-2-three-cardinals-robe-pack.json](./321758-magicka-2-three-cardinals-robe-pack.json) |
+| Magicka Complete Edition | 384629 | [384629-magicka-complete-edition.json](./384629-magicka-complete-edition.json) |
 | Magicland Dizzy | 12182 | [12182-magicland-dizzy.json](./12182-magicland-dizzy.json) |
 | Magicliment | 261260 | [261260-magicliment.json](./261260-magicliment.json) |
 | Magicolor TD | 280173 | [280173-magicolor-td.json](./280173-magicolor-td.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniature Mayhem! | 262931 | [262931-miniature-mayhem.json](./262931-miniature-mayhem.json) |
 | MiniBotz | 31929 | [31929-minibotz.json](./31929-minibotz.json) |
 | Minibuilder | 352182 | [352182-minibuilder.json](./352182-minibuilder.json) |
+| Minibus Simulator Vietnam | 384616 | [384616-minibus-simulator-vietnam.json](./384616-minibus-simulator-vietnam.json) |
 | Miniconomy | 108966 | [108966-miniconomy.json](./108966-miniconomy.json) |
 | MiniCraft Adventure | 96777 | [96777-minicraft-adventure.json](./96777-minicraft-adventure.json) |
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
