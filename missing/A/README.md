@@ -360,7 +360,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
 | Adventure In Aellion | 117691 | [117691-adventure-in-aellion.json](./117691-adventure-in-aellion.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
-| Adventure in Space | 237670 | [237670-adventure-in-space.json](./237670-adventure-in-space.json) |
 | Adventure in the Park | 230846 | [230846-adventure-in-the-park.json](./230846-adventure-in-the-park.json) |
 | Adventure in the Snow Globe | 365077 | [365077-adventure-in-the-snow-globe.json](./365077-adventure-in-the-snow-globe.json) |
 | Adventure in Wachirawit World | 314076 | [314076-adventure-in-wachirawit-world.json](./314076-adventure-in-wachirawit-world.json) |
@@ -3459,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Infection | 111669 | [111669-audio-infection.json](./111669-audio-infection.json) |
 | AudioQuake | 208927 | [208927-audioquake.json](./208927-audioquake.json) |
 | Audioshield | 18981 | [18981-audioshield.json](./18981-audioshield.json) |
+| Audiospeed | 415896 | [415896-audiospeed.json](./415896-audiospeed.json) |
 | Audiosurf 2 | 9707 | [9707-audiosurf-2.json](./9707-audiosurf-2.json) |
 | Audition 2 | 135805 | [135805-audition-2.json](./135805-audition-2.json) |
 | Audition Portable | 56520 | [56520-audition-portable.json](./56520-audition-portable.json) |
