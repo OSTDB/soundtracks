@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo: Benefits | 141823 | [141823-echo-benefits.json](./141823-echo-benefits.json) |
 | Echo: Defy Death | 303500 | [303500-echo-defy-death.json](./303500-echo-defy-death.json) |
 | EchoBlade | 166752 | [166752-echoblade.json](./166752-echoblade.json) |
+| EchoChamber: Not Welcome | 390689 | [390689-echochamber-not-welcome.json](./390689-echochamber-not-welcome.json) |
 | Echochrome II | 18240 | [18240-echochrome-ii.json](./18240-echochrome-ii.json) |
 | Echoed Nights | 408194 | [408194-echoed-nights.json](./408194-echoed-nights.json) |
 | Echoed Realms | 295000 | [295000-echoed-realms.json](./295000-echoed-realms.json) |
@@ -812,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
 | Endless Drive | 234610 | [234610-endless-drive.json](./234610-endless-drive.json) |
 | Endless Escape | 38912 | [38912-endless-escape.json](./38912-endless-escape.json) |
+| Endless Evolution | 390641 | [390641-endless-evolution.json](./390641-endless-evolution.json) |
 | Endless Fables 3: Dark Moor | 105085 | [105085-endless-fables-3-dark-moor.json](./105085-endless-fables-3-dark-moor.json) |
 | Endless Fables 4: Shadow Within | 122827 | [122827-endless-fables-4-shadow-within.json](./122827-endless-fables-4-shadow-within.json) |
 | Endless Fables: Shadow Within | 165611 | [165611-endless-fables-shadow-within.json](./165611-endless-fables-shadow-within.json) |
@@ -1345,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity Convergence | 156135 | [156135-eternity-convergence.json](./156135-eternity-convergence.json) |
 | Eternity Guards | 148488 | [148488-eternity-guards.json](./148488-eternity-guards.json) |
 | Eternium: Mage and Minions | 193967 | [193967-eternium-mage-and-minions.json](./193967-eternium-mage-and-minions.json) |
+| Ethan's Watch | 390613 | [390613-ethans-watch.json](./390613-ethans-watch.json) |
 | Ether | 311502 | [311502-ether.json](./311502-ether.json) |
 | Ether Loop | 126735 | [126735-ether-loop.json](./126735-ether-loop.json) |
 | Ether Quest | 97283 | [97283-ether-quest.json](./97283-ether-quest.json) |
