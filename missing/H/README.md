@@ -1094,6 +1094,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Balloons 2 | 156637 | [156637-hentai-balloons-2.json](./156637-hentai-balloons-2.json) |
 | Hentai Balls 3D: Sexy Girls | 390497 | [390497-hentai-balls-3d-sexy-girls.json](./390497-hentai-balls-3d-sexy-girls.json) |
 | Hentai beautiful girls 4 | 164427 | [164427-hentai-beautiful-girls-4.json](./164427-hentai-beautiful-girls-4.json) |
+| Hentai Clicker: Bethy Is Streaming | 389609 | [389609-hentai-clicker-bethy-is-streaming.json](./389609-hentai-clicker-bethy-is-streaming.json) |
+| Hentai Clicker: Cassandra Is Streaming | 389616 | [389616-hentai-clicker-cassandra-is-streaming.json](./389616-hentai-clicker-cassandra-is-streaming.json) |
+| Hentai Clicker: Eva Is Streaming | 389610 | [389610-hentai-clicker-eva-is-streaming.json](./389610-hentai-clicker-eva-is-streaming.json) |
+| Hentai Clicker: Sayuri Is Streaming | 389613 | [389613-hentai-clicker-sayuri-is-streaming.json](./389613-hentai-clicker-sayuri-is-streaming.json) |
+| Hentai Clicker: Selena Is Streaming | 389611 | [389611-hentai-clicker-selena-is-streaming.json](./389611-hentai-clicker-selena-is-streaming.json) |
+| Hentai Clicker: Stella Is Streaming | 389615 | [389615-hentai-clicker-stella-is-streaming.json](./389615-hentai-clicker-stella-is-streaming.json) |
+| Hentai Clicker: Valentine Is Streaming | 389612 | [389612-hentai-clicker-valentine-is-streaming.json](./389612-hentai-clicker-valentine-is-streaming.json) |
+| Hentai Clicker: Yumi Is Streaming | 389618 | [389618-hentai-clicker-yumi-is-streaming.json](./389618-hentai-clicker-yumi-is-streaming.json) |
 | Hentai Crush | 136424 | [136424-hentai-crush.json](./136424-hentai-crush.json) |
 | Hentai Dating Stories: Brazil - Best Stories 1 | 308788 | [308788-hentai-dating-stories-brazil-best-stories-1.json](./308788-hentai-dating-stories-brazil-best-stories-1.json) |
 | Hentai Dating Stories: Brazil - Best Stories 2 | 308787 | [308787-hentai-dating-stories-brazil-best-stories-2.json](./308787-hentai-dating-stories-brazil-best-stories-2.json) |
@@ -1180,6 +1188,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Ultimate Edition | 274475 | [274475-hentai-stars-ultimate-edition.json](./274475-hentai-stars-ultimate-edition.json) |
 | Hentai Sudoku | 146282 | [146282-hentai-sudoku.json](./146282-hentai-sudoku.json) |
 | Hentai Tales Vol. 2: Hitomi and Sea Trip | 277309 | [277309-hentai-tales-vol-2-hitomi-and-sea-trip.json](./277309-hentai-tales-vol-2-hitomi-and-sea-trip.json) |
+| Hentai Tales: Breeding Order 2050 | 389605 | [389605-hentai-tales-breeding-order-2050.json](./389605-hentai-tales-breeding-order-2050.json) |
+| Hentai Tales: Creampie Cuckold Wife | 389607 | [389607-hentai-tales-creampie-cuckold-wife.json](./389607-hentai-tales-creampie-cuckold-wife.json) |
+| Hentai Tales: Office Sex Handler | 389606 | [389606-hentai-tales-office-sex-handler.json](./389606-hentai-tales-office-sex-handler.json) |
+| Hentai Tales: The Red Act In Lockdown | 389604 | [389604-hentai-tales-the-red-act-in-lockdown.json](./389604-hentai-tales-the-red-act-in-lockdown.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
 | Hentai VR 3 | 147408 | [147408-hentai-vr-3.json](./147408-hentai-vr-3.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
@@ -1915,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold-Up | 240779 | [240779-hold-up.json](./240779-hold-up.json) |
 | Holdfast: Age of Sail | 362286 | [362286-holdfast-age-of-sail.json](./362286-holdfast-age-of-sail.json) |
 | Holdfast: Nations At War - Napoleon's Rise | 286538 | [286538-holdfast-nations-at-war-napoleons-rise.json](./286538-holdfast-nations-at-war-napoleons-rise.json) |
+| Holding Pattern | 389591 | [389591-holding-pattern.json](./389591-holding-pattern.json) |
 | Hole | 310931 | [310931-hole.json](./310931-hole.json) |
 | Hole ASMR | 399641 | [399641-hole-asmr.json](./399641-hole-asmr.json) |
 | Hole in One Golf | 49924 | [49924-hole-in-one-golf.json](./49924-hole-in-one-golf.json) |
