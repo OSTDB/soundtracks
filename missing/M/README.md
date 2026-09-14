@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MADrigal CD Collection | 365110 | [365110-madrigal-cd-collection.json](./365110-madrigal-cd-collection.json) |
 | Madrobot X | 31793 | [31793-madrobot-x.json](./31793-madrobot-x.json) |
 | Mads, Morfar og Miljøstrup | 59950 | [59950-mads-morfar-og-milj-strup.json](./59950-mads-morfar-og-milj-strup.json) |
+| Maduro Run | 392933 | [392933-maduro-run.json](./392933-maduro-run.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
 | Maelstrom: The Battle for Earth Begins Enhanced | 385595 | [385595-maelstrom-the-battle-for-earth-begins-enhanced.json](./385595-maelstrom-the-battle-for-earth-begins-enhanced.json) |
@@ -192,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia: The Old Country - Soldato Pack | 413630 | [413630-mafia-the-old-country-soldato-pack.json](./413630-mafia-the-old-country-soldato-pack.json) |
 | Mafia.gg | 112288 | [112288-mafia-gg.json](./112288-mafia-gg.json) |
 | Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
+| Magalumina | 392932 | [392932-magalumina.json](./392932-magalumina.json) |
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
 | Mage and Minions | 15468 | [15468-mage-and-minions.json](./15468-mage-and-minions.json) |
@@ -1365,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazaica | 304598 | [304598-mazaica.json](./304598-mazaica.json) |
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
 | Maze | 360565 | [360565-maze.json](./360565-maze.json) |
+| Maze | 392949 | [392949-maze.json](./392949-maze.json) |
 | Maze | 7430 | [7430-maze.json](./7430-maze.json) |
 | Maze 2010 | 230851 | [230851-maze-2010.json](./230851-maze-2010.json) |
 | Maze 4D | 112921 | [112921-maze-4d.json](./112921-maze-4d.json) |
@@ -3146,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochi's Dreamland | 395579 | [395579-mochis-dreamland.json](./395579-mochis-dreamland.json) |
 | Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
+| Modavuj Multiplayer Market Simulator | 392946 | [392946-modavuj-multiplayer-market-simulator.json](./392946-modavuj-multiplayer-market-simulator.json) |
 | Mode | 61659 | [61659-mode.json](./61659-mode.json) |
 | Model 3 Test Drive | 96057 | [96057-model-3-test-drive.json](./96057-model-3-test-drive.json) |
 | Model Builder: Alaskan Road Truckers | 277586 | [277586-model-builder-alaskan-road-truckers.json](./277586-model-builder-alaskan-road-truckers.json) |
