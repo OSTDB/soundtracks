@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Siege | 365057 | [365057-orbital-siege.json](./365057-orbital-siege.json) |
 | Orbital Strike VR | 136464 | [136464-orbital-strike-vr.json](./136464-orbital-strike-vr.json) |
 | Orbiterrion | 153359 | [153359-orbiterrion.json](./153359-orbiterrion.json) |
+| Orbitor | 36074 | [36074-orbitor.json](./36074-orbitor.json) |
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Orbo's Exodus | 314907 | [314907-orbos-exodus.json](./314907-orbos-exodus.json) |
 | Orbyss | 343264 | [343264-orbyss.json](./343264-orbyss.json) |
