@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of Flesh | 322608 | [322608-remnants-of-flesh.json](./322608-remnants-of-flesh.json) |
 | Remnants of Naezith | 29520 | [29520-remnants-of-naezith.json](./29520-remnants-of-naezith.json) |
 | Remnants of Yore | 342654 | [342654-remnants-of-yore.json](./342654-remnants-of-yore.json) |
+| Remote Control | 388921 | [388921-remote-control.json](./388921-remote-control.json) |
 | Remote Knights Online | 153401 | [153401-remote-knights-online.json](./153401-remote-knights-online.json) |
 | Remote Planets | 224766 | [224766-remote-planets.json](./224766-remote-planets.json) |
 | Remote Racers | 84830 | [84830-remote-racers.json](./84830-remote-racers.json) |
@@ -2031,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
 | Robolifter | 227850 | [227850-robolifter.json](./227850-robolifter.json) |
 | Roboloop | 295776 | [295776-roboloop.json](./295776-roboloop.json) |
+| Robolucion: The Sandwich Conspiracy | 390681 | [390681-robolucion-the-sandwich-conspiracy.json](./390681-robolucion-the-sandwich-conspiracy.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | RoboMaze: The Basement | 59927 | [59927-robomaze-the-basement.json](./59927-robomaze-the-basement.json) |
 | Roborobi | 357808 | [357808-roborobi.json](./357808-roborobi.json) |
@@ -2510,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomli | 203363 | [203363-roomli.json](./203363-roomli.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
 | RoomRental | 94190 | [94190-roomrental.json](./94190-roomrental.json) |
+| Rooms | 388930 | [388930-rooms.json](./388930-rooms.json) |
 | Rooms: The Unsolvable Puzzle | 19018 | [19018-rooms-the-unsolvable-puzzle.json](./19018-rooms-the-unsolvable-puzzle.json) |
 | Rooster | 62722 | [62722-rooster.json](./62722-rooster.json) |
 | Rooster II | 62696 | [62696-rooster-ii.json](./62696-rooster-ii.json) |
@@ -2835,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run to Infinity | 227841 | [227841-run-to-infinity.json](./227841-run-to-infinity.json) |
 | Run to Nowhere | 206705 | [206705-run-to-nowhere.json](./206705-run-to-nowhere.json) |
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
+| Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
 | Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
 | Run! | 219064 | [219064-run.json](./219064-run.json) |
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
@@ -2864,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Worth: Kokui no Kikoushi | 243950 | [243950-rune-worth-kokui-no-kikoushi.json](./243950-rune-worth-kokui-no-kikoushi.json) |
 | Rune: Gold | 300409 | [300409-rune-gold.json](./300409-rune-gold.json) |
 | Runebook | 413777 | [413777-runebook.json](./413777-runebook.json) |
+| Runebound | 390671 | [390671-runebound.json](./390671-runebound.json) |
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
 | Runeomicon | 318184 | [318184-runeomicon.json](./318184-runeomicon.json) |
 | Runes of Aereal | 257944 | [257944-runes-of-aereal.json](./257944-runes-of-aereal.json) |
