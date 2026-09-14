@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castles & Krakens | 112280 | [112280-castles-and-krakens.json](./112280-castles-and-krakens.json) |
 | Castles II: Siege & Conquest | 51576 | [51576-castles-ii-siege-and-conquest.json](./51576-castles-ii-siege-and-conquest.json) |
 | Castles in the Sky | 62703 | [62703-castles-in-the-sky.json](./62703-castles-in-the-sky.json) |
+| Castles of War | 390630 | [390630-castles-of-war.json](./390630-castles-of-war.json) |
 | Castlevania 2 | 276459 | [276459-castlevania-2.json](./276459-castlevania-2.json) |
 | Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
 | Castlevania II: Simon's Quest - Rebitten | 217540 | [217540-castlevania-ii-simons-quest-rebitten.json](./217540-castlevania-ii-simons-quest-rebitten.json) |
@@ -1511,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Assassin: Reloaded | 100501 | [100501-chicken-assassin-reloaded.json](./100501-chicken-assassin-reloaded.json) |
 | Chicken Bomb | 137595 | [137595-chicken-bomb.json](./137595-chicken-bomb.json) |
 | Chicken Boy's Counterattack | 291488 | [291488-chicken-boys-counterattack.json](./291488-chicken-boys-counterattack.json) |
+| Chicken Chicken | 390635 | [390635-chicken-chicken.json](./390635-chicken-chicken.json) |
 | Chicken Coop Invaders | 388753 | [388753-chicken-coop-invaders.json](./388753-chicken-coop-invaders.json) |
 | Chicken Defense | 181398 | [181398-chicken-defense.json](./181398-chicken-defense.json) |
 | Chicken Done | 273374 | [273374-chicken-done.json](./273374-chicken-done.json) |
@@ -2623,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Trigger | 400352 | [400352-color-trigger.json](./400352-color-trigger.json) |
 | Color Water Sort: Complete Edition | 308798 | [308798-color-water-sort-complete-edition.json](./308798-color-water-sort-complete-edition.json) |
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
+| Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
