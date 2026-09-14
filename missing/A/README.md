@@ -619,6 +619,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
 | Age of Gladiators II: Death League | 97851 | [97851-age-of-gladiators-ii-death-league.json](./97851-age-of-gladiators-ii-death-league.json) |
 | Age of Goblins | 265403 | [265403-age-of-goblins.json](./265403-age-of-goblins.json) |
+| Age of Gods | 399092 | [399092-age-of-gods.json](./399092-age-of-gods.json) |
+| Age of Gods: Drakonis Faction | 399102 | [399102-age-of-gods-drakonis-faction.json](./399102-age-of-gods-drakonis-faction.json) |
+| Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
+| Age of Gods: Igneous Faction | 399103 | [399103-age-of-gods-igneous-faction.json](./399103-age-of-gods-igneous-faction.json) |
+| Age of Gods: Necros Campaign | 399093 | [399093-age-of-gods-necros-campaign.json](./399093-age-of-gods-necros-campaign.json) |
+| Age of Gods: Necros Faction | 399095 | [399095-age-of-gods-necros-faction.json](./399095-age-of-gods-necros-faction.json) |
+| Age of Gods: Nordheim Faction | 399097 | [399097-age-of-gods-nordheim-faction.json](./399097-age-of-gods-nordheim-faction.json) |
+| Age of Gods: Sanctus Campaign | 399100 | [399100-age-of-gods-sanctus-campaign.json](./399100-age-of-gods-sanctus-campaign.json) |
+| Age of Gods: Skyborne Faction | 399099 | [399099-age-of-gods-skyborne-faction.json](./399099-age-of-gods-skyborne-faction.json) |
+| Age of Gods: Spirit Faction | 399101 | [399101-age-of-gods-spirit-faction.json](./399101-age-of-gods-spirit-faction.json) |
+| Age of Gods: Tribal Faction | 399098 | [399098-age-of-gods-tribal-faction.json](./399098-age-of-gods-tribal-faction.json) |
 | Age of Grit | 61074 | [61074-age-of-grit.json](./61074-age-of-grit.json) |
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
 | Age of Mythology: Retold - Immortal Pillars | 317873 | [317873-age-of-mythology-retold-immortal-pillars.json](./317873-age-of-mythology-retold-immortal-pillars.json) |
@@ -967,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Al Unser Jr.'s Turbo Racing | 8809 | [8809-al-unser-jr-s-turbo-racing.json](./8809-al-unser-jr-s-turbo-racing.json) |
 | Al-Ankabut | 211416 | [211416-al-ankabut.json](./211416-al-ankabut.json) |
 | AL: A Choose Your Own Adventure | 179689 | [179689-al-a-choose-your-own-adventure.json](./179689-al-a-choose-your-own-adventure.json) |
+| AL: Artificial Life | 399066 | [399066-al-artificial-life.json](./399066-al-artificial-life.json) |
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
 | Aladdin's Magic Lamp | 14235 | [14235-aladdins-magic-lamp.json](./14235-aladdins-magic-lamp.json) |
 | Alakenisland | 195161 | [195161-alakenisland.json](./195161-alakenisland.json) |
@@ -2253,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apox: Legend | 167853 | [167853-apox-legend.json](./167853-apox-legend.json) |
 | App Co Tycoon | 211438 | [211438-app-co-tycoon.json](./211438-app-co-tycoon.json) |
 | Appa | 367951 | [367951-appa.json](./367951-appa.json) |
+| Appalachian Onslaught | 399090 | [399090-appalachian-onslaught.json](./399090-appalachian-onslaught.json) |
 | Appearances | 244774 | [244774-appearances.json](./244774-appearances.json) |
 | Appetite for Detestation | 147482 | [147482-appetite-for-detestation.json](./147482-appetite-for-detestation.json) |
 | Apple Bag | 280197 | [280197-apple-bag.json](./280197-apple-bag.json) |
