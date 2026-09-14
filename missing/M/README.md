@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem | 7066 | [7066-mayhem.json](./7066-mayhem.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
+| Mayhem Triple | 34731 | [34731-mayhem-triple.json](./34731-mayhem-triple.json) |
 | Mayonez | 106538 | [106538-mayonez.json](./106538-mayonez.json) |
 | Mayor of Defense | 166746 | [166746-mayor-of-defense.json](./166746-mayor-of-defense.json) |
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
@@ -1425,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
 | Mech Farmer | 150696 | [150696-mech-farmer.json](./150696-mech-farmer.json) |
+| Mech Marines: Steel March | 36112 | [36112-mech-marines-steel-march.json](./36112-mech-marines-steel-march.json) |
 | Mech n' Parcel | 135831 | [135831-mech-n-parcel.json](./135831-mech-n-parcel.json) |
 | Mech Rage | 109378 | [109378-mech-rage.json](./109378-mech-rage.json) |
 | Mech Shuffle | 211964 | [211964-mech-shuffle.json](./211964-mech-shuffle.json) |
@@ -4287,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP 2021 | 175971 | [175971-mxgp-2021.json](./175971-mxgp-2021.json) |
 | MXGP 24: The Official Game | 323182 | [323182-mxgp-24-the-official-game.json](./323182-mxgp-24-the-official-game.json) |
 | MXGP Pro | 96212 | [96212-mxgp-pro.json](./96212-mxgp-pro.json) |
+| MXGP: The Official Motocross Videogame Compact | 36113 | [36113-mxgp-the-official-motocross-videogame-compact.json](./36113-mxgp-the-official-motocross-videogame-compact.json) |
 | MXGP2: The Official Motocross Videogame | 20391 | [20391-mxgp2-the-official-motocross-videogame.json](./20391-mxgp2-the-official-motocross-videogame.json) |
 | Mxsimulator | 137035 | [137035-mxsimulator.json](./137035-mxsimulator.json) |
 | My Agent is a Futanari | 220676 | [220676-my-agent-is-a-futanari.json](./220676-my-agent-is-a-futanari.json) |
