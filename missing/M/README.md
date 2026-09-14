@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making History: The Calm & The Storm | 15043 | [15043-making-history-the-calm-and-the-storm.json](./15043-making-history-the-calm-and-the-storm.json) |
 | Making History: The Calm & the Storm - Gold Edition | 25516 | [25516-making-history-the-calm-and-the-storm-gold-edition.json](./25516-making-history-the-calm-and-the-storm-gold-edition.json) |
 | Making History: The First World War | 132316 | [132316-making-history-the-first-world-war.json](./132316-making-history-the-first-world-war.json) |
+| Making Lovely | 387501 | [387501-making-lovely.json](./387501-making-lovely.json) |
 | Making Lovers: First Blush | 397802 | [397802-making-lovers-first-blush.json](./397802-making-lovers-first-blush.json) |
 | Making Lovers: Geki Icha After Story Vol.01 | 108975 | [108975-making-lovers-geki-icha-after-story-vol-01.json](./108975-making-lovers-geki-icha-after-story-vol-01.json) |
 | Making Lovers: Limited Edition | 166174 | [166174-making-lovers-limited-edition.json](./166174-making-lovers-limited-edition.json) |
