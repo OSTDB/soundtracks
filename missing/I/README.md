@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instarion | 260972 | [260972-instarion.json](./260972-instarion.json) |
 | InstaTok Tycoon | 301837 | [301837-instatok-tycoon.json](./301837-instatok-tycoon.json) |
 | Instinct | 286509 | [286509-instinct.json](./286509-instinct.json) |
+| Instinct: Survival | 118000 | [118000-instinct-survival.json](./118000-instinct-survival.json) |
 | Insufficient Adjectives | 134621 | [134621-insufficient-adjectives.json](./134621-insufficient-adjectives.json) |
 | Insulted | 229676 | [229676-insulted.json](./229676-insulted.json) |
 | Insurgence: Chains of Renegade - Remastered | 240768 | [240768-insurgence-chains-of-renegade-remastered.json](./240768-insurgence-chains-of-renegade-remastered.json) |
