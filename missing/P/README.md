@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
 | Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
 | Paid by Blood | 409688 | [409688-paid-by-blood.json](./409688-paid-by-blood.json) |
+| Paid in Blood | 392268 | [392268-paid-in-blood.json](./392268-paid-in-blood.json) |
 | Paimordle | 243974 | [243974-paimordle.json](./243974-paimordle.json) |
 | Pain | 7387 | [7387-pain.json](./7387-pain.json) |
 | Pain is the Best Medicine | 292007 | [292007-pain-is-the-best-medicine.json](./292007-pain-is-the-best-medicine.json) |
@@ -1383,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pid | 225890 | [225890-pid.json](./225890-pid.json) |
 | Pido1 | 105367 | [105367-pido1.json](./105367-pido1.json) |
 | Pie in the Sky | 298346 | [298346-pie-in-the-sky.json](./298346-pie-in-the-sky.json) |
+| Pie Pie Cafeteria | 392248 | [392248-pie-pie-cafeteria.json](./392248-pie-pie-cafeteria.json) |
 | Piece by Piece | 332452 | [332452-piece-by-piece.json](./332452-piece-by-piece.json) |
 | Piece Link | 278157 | [278157-piece-link.json](./278157-piece-link.json) |
 | Piece O'Cake | 40785 | [40785-piece-ocake.json](./40785-piece-ocake.json) |
@@ -2949,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls and Dark Witch. A simple story | 173816 | [173816-pretty-girls-and-dark-witch-a-simple-story.json](./173816-pretty-girls-and-dark-witch-a-simple-story.json) |
 | Pretty Girls Breakers! Plus | 237362 | [237362-pretty-girls-breakers-plus.json](./237362-pretty-girls-breakers-plus.json) |
 | Pretty Girls Breakout! Plus | 212238 | [212238-pretty-girls-breakout-plus.json](./212238-pretty-girls-breakout-plus.json) |
+| Pretty Girls Don’t Want You to Die | 392298 | [392298-pretty-girls-don-t-want-you-to-die.json](./392298-pretty-girls-don-t-want-you-to-die.json) |
 | Pretty Girls Escape | 204088 | [204088-pretty-girls-escape.json](./204088-pretty-girls-escape.json) |
 | Pretty Girls Four Kings Solitaire | 195797 | [195797-pretty-girls-four-kings-solitaire.json](./195797-pretty-girls-four-kings-solitaire.json) |
 | Pretty Girls Mahjong Solitaire | 34716 | [34716-pretty-girls-mahjong-solitaire.json](./34716-pretty-girls-mahjong-solitaire.json) |
@@ -3350,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
 | Project Maze | 68586 | [68586-project-maze.json](./68586-project-maze.json) |
 | Project Mercenaria | 367390 | [367390-project-mercenaria.json](./367390-project-mercenaria.json) |
+| Project Microchip | 392269 | [392269-project-microchip.json](./392269-project-microchip.json) |
 | Project Midgard | 149529 | [149529-project-midgard.json](./149529-project-midgard.json) |
 | Project Mnemosyne | 370706 | [370706-project-mnemosyne.json](./370706-project-mnemosyne.json) |
 | Project Monarch | 70422 | [70422-project-monarch.json](./70422-project-monarch.json) |
@@ -3594,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PsyHotel | 132197 | [132197-psyhotel.json](./132197-psyhotel.json) |
 | Psyia | 111670 | [111670-psyia.json](./111670-psyia.json) |
 | Psytron | 25749 | [25749-psytron.json](./25749-psytron.json) |
+| PsyUp | 392255 | [392255-psyup.json](./392255-psyup.json) |
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
 | Psyvariar: Complete Edition | 43351 | [43351-psyvariar-complete-edition.json](./43351-psyvariar-complete-edition.json) |
 | Pteranodon | 260700 | [260700-pteranodon.json](./260700-pteranodon.json) |
@@ -3656,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsar | 167797 | [167797-pulsar.json](./167797-pulsar.json) |
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
+| Pulse | 392257 | [392257-pulse.json](./392257-pulse.json) |
 | Pulse Cage Episode 1 | 25629 | [25629-pulse-cage-episode-1.json](./25629-pulse-cage-episode-1.json) |
 | Pulse of Love | 258719 | [258719-pulse-of-love.json](./258719-pulse-of-love.json) |
 | PulseChaser | 112320 | [112320-pulsechaser.json](./112320-pulsechaser.json) |
