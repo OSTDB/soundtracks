@@ -2054,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayTribes | 59443 | [59443-playtribes.json](./59443-playtribes.json) |
 | PlayVille | 366253 | [366253-playville.json](./366253-playville.json) |
 | Playworld Superheroes | 23230 | [23230-playworld-superheroes.json](./23230-playworld-superheroes.json) |
+| PlazaSoup | 408908 | [408908-plazasoup.json](./408908-plazasoup.json) |
 | Please | 134675 | [134675-please.json](./134675-please.json) |
 | Please (Don't) Touch the Art | 276478 | [276478-please-dont-touch-the-art.json](./276478-please-dont-touch-the-art.json) |
 | Please Answer Carefully | 176488 | [176488-please-answer-carefully.json](./176488-please-answer-carefully.json) |
