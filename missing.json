@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T02:31:29.282Z",
-  "total_missing": 68165,
+  "generated_at": "2026-09-14T02:41:28.256Z",
+  "total_missing": 68164,
   "games": [
     {
       "igdb_id": 306086,
@@ -4106,11 +4106,6 @@
       "igdb_id": 34557,
       "game_name": "Advanced Gaming Platform: Epica",
       "file": "missing/A/34557-advanced-gaming-platform-epica.json"
-    },
-    {
-      "igdb_id": 150651,
-      "game_name": "Advanced Intelligence Surveillance Agency",
-      "file": "missing/A/150651-advanced-intelligence-surveillance-agency.json"
     },
     {
       "igdb_id": 142432,
