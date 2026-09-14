@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces of War | 45294 | [45294-aces-of-war.json](./45294-aces-of-war.json) |
 | Acheron's Souls | 150121 | [150121-acherons-souls.json](./150121-acherons-souls.json) |
 | Achievement Clicker 2020 | 104084 | [104084-achievement-clicker-2020.json](./104084-achievement-clicker-2020.json) |
+| Achievement Creator | 103757 | [103757-achievement-creator.json](./103757-achievement-creator.json) |
 | Achievement Dummy | 110387 | [110387-achievement-dummy.json](./110387-achievement-dummy.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
 | Achilles vs. Turtles | 183020 | [183020-achilles-vs-turtles.json](./183020-achilles-vs-turtles.json) |
@@ -331,7 +332,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
-| Adrorium | 133447 | [133447-adrorium.json](./133447-adrorium.json) |
 | ADsteroids | 108984 | [108984-adsteroids.json](./108984-adsteroids.json) |
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
@@ -1219,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens | 186868 | [186868-aliens.json](./186868-aliens.json) |
 | Aliens After Ava | 211212 | [211212-aliens-after-ava.json](./211212-aliens-after-ava.json) |
 | Aliens Go Home Run! | 26835 | [26835-aliens-go-home-run.json](./26835-aliens-go-home-run.json) |
+| Aliens Invaded Our Planet | 103642 | [103642-aliens-invaded-our-planet.json](./103642-aliens-invaded-our-planet.json) |
 | Aliens Like Milk | 200186 | [200186-aliens-like-milk.json](./200186-aliens-like-milk.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
 | Aliens Versus Predator: Extinction | 5720 | [5720-aliens-versus-predator-extinction.json](./5720-aliens-versus-predator-extinction.json) |
