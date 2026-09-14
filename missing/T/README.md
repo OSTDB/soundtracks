@@ -2447,10 +2447,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gray Garden | 118308 | [118308-the-gray-garden.json](./118308-the-gray-garden.json) |
 | The Gray Wolf and The Little Lamb | 245003 | [245003-the-gray-wolf-and-the-little-lamb.json](./245003-the-gray-wolf-and-the-little-lamb.json) |
 | The Great | 211959 | [211959-the-great.json](./211959-the-great.json) |
+| The Great Basement Escape | 385192 | [385192-the-great-basement-escape.json](./385192-the-great-basement-escape.json) |
+| The Great Bathroom Escape | 385190 | [385190-the-great-bathroom-escape.json](./385190-the-great-bathroom-escape.json) |
 | The Great Battle III | 66671 | [66671-the-great-battle-iii.json](./66671-the-great-battle-iii.json) |
 | The Great Battle V | 66672 | [66672-the-great-battle-v.json](./66672-the-great-battle-v.json) |
 | The Great Battle VI | 66670 | [66670-the-great-battle-vi.json](./66670-the-great-battle-vi.json) |
 | The Great Battles of Caesar | 69819 | [69819-the-great-battles-of-caesar.json](./69819-the-great-battles-of-caesar.json) |
+| The Great Bedroom Escape | 385213 | [385213-the-great-bedroom-escape.json](./385213-the-great-bedroom-escape.json) |
 | The Great Beyond | 401634 | [401634-the-great-beyond.json](./401634-the-great-beyond.json) |
 | The Great Chocolate Chase: A Chocolatier Twist | 19557 | [19557-the-great-chocolate-chase-a-chocolatier-twist.json](./19557-the-great-chocolate-chase-a-chocolatier-twist.json) |
 | The Great Coffee Caper | 338210 | [338210-the-great-coffee-caper.json](./338210-the-great-coffee-caper.json) |
@@ -7036,6 +7039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Adventure World | 58243 | [58243-treasure-adventure-world.json](./58243-treasure-adventure-world.json) |
 | Treasure Bolt | 81213 | [81213-treasure-bolt.json](./81213-treasure-bolt.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
+| Treasure Drop: Complete Edition | 385211 | [385211-treasure-drop-complete-edition.json](./385211-treasure-drop-complete-edition.json) |
 | Treasure Gear | 130357 | [130357-treasure-gear.json](./130357-treasure-gear.json) |
 | Treasure Hunt | 12969 | [12969-treasure-hunt.json](./12969-treasure-hunt.json) |
 | Treasure Hunt | 366840 | [366840-treasure-hunt.json](./366840-treasure-hunt.json) |
