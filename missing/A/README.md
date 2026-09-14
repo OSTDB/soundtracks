@@ -443,7 +443,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery VR: Little Bird Adventure | 356072 | [356072-aery-vr-little-bird-adventure.json](./356072-aery-vr-little-bird-adventure.json) |
 | Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
-| AeternoBlade II: Director's Rewind | 138202 | [138202-aeternoblade-ii-directors-rewind.json](./138202-aeternoblade-ii-directors-rewind.json) |
 | Aether | 357785 | [357785-aether.json](./357785-aether.json) |
 | Aether Brew | 357788 | [357788-aether-brew.json](./357788-aether-brew.json) |
 | Aether Crown | 405616 | [405616-aether-crown.json](./405616-aether-crown.json) |
