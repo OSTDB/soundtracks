@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
 | Mars Red: Edge of the Nightmare | 153384 | [153384-mars-red-edge-of-the-nightmare.json](./153384-mars-red-edge-of-the-nightmare.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
+| Mars Survivor: Gold Edition | 385204 | [385204-mars-survivor-gold-edition.json](./385204-mars-survivor-gold-edition.json) |
 | Mars Taken | 90147 | [90147-mars-taken.json](./90147-mars-taken.json) |
 | Mars Taxi | 70356 | [70356-mars-taxi.json](./70356-mars-taxi.json) |
 | Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
@@ -3909,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moss Destruction | 103431 | [103431-moss-destruction.json](./103431-moss-destruction.json) |
 | Moss Palace Parade | 406118 | [406118-moss-palace-parade.json](./406118-moss-palace-parade.json) |
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
+| Mossbound | 385219 | [385219-mossbound.json](./385219-mossbound.json) |
 | Mossroot | 250966 | [250966-mossroot.json](./250966-mossroot.json) |
 | Most Correct Football Simulator | 118338 | [118338-most-correct-football-simulator.json](./118338-most-correct-football-simulator.json) |
 | Most Scuffed Golf | 409632 | [409632-most-scuffed-golf.json](./409632-most-scuffed-golf.json) |
@@ -4563,6 +4565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Home Poltergeist | 158692 | [158692-my-home-poltergeist.json](./158692-my-home-poltergeist.json) |
 | My Home Town | 166144 | [166144-my-home-town.json](./166144-my-home-town.json) |
 | My Home VR | 127206 | [127206-my-home-vr.json](./127206-my-home-vr.json) |
+| My Horse Stories: Gold Edition | 385205 | [385205-my-horse-stories-gold-edition.json](./385205-my-horse-stories-gold-edition.json) |
 | My Horse Stories: Sunny Edition | 308807 | [308807-my-horse-stories-sunny-edition.json](./308807-my-horse-stories-sunny-edition.json) |
 | My Hotel | 199122 | [199122-my-hotel.json](./199122-my-hotel.json) |
 | My Hotel Romance | 298900 | [298900-my-hotel-romance.json](./298900-my-hotel-romance.json) |
