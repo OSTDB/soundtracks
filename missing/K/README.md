@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty: Legions - True Tactician Ultimate Pack | 169931 | [169931-kings-bounty-legions-true-tactician-ultimate-pack.json](./169931-kings-bounty-legions-true-tactician-ultimate-pack.json) |
 | King's Bounty: Ultimate Edition | 53258 | [53258-kings-bounty-ultimate-edition.json](./53258-kings-bounty-ultimate-edition.json) |
 | King's Choice | 186308 | [186308-kings-choice.json](./186308-kings-choice.json) |
+| King's Devotion | 381146 | [381146-kings-devotion.json](./381146-kings-devotion.json) |
 | King's Dungeon | 228691 | [228691-kings-dungeon.json](./228691-kings-dungeon.json) |
 | King's Field | 7422 | [7422-kings-field.json](./7422-kings-field.json) |
 | King's Field | 7423 | [7423-kings-field.json](./7423-kings-field.json) |
