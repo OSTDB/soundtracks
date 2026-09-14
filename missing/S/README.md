@@ -4657,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceforce: Captains | 20783 | [20783-spaceforce-captains.json](./20783-spaceforce-captains.json) |
 | Spacegirl | 147367 | [147367-spacegirl.json](./147367-spacegirl.json) |
 | Spacegirl 2038 | 159836 | [159836-spacegirl-2038.json](./159836-spacegirl-2038.json) |
+| Spacegore | 404967 | [404967-spacegore.json](./404967-spacegore.json) |
 | Spaceguy III | 109749 | [109749-spaceguy-iii.json](./109749-spaceguy-iii.json) |
 | Spaceguy: Red Space | 111666 | [111666-spaceguy-red-space.json](./111666-spaceguy-red-space.json) |
 | SpaceInvasion | 196275 | [196275-spaceinvasion.json](./196275-spaceinvasion.json) |
@@ -6340,6 +6341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Sketch | 339657 | [339657-stray-sketch.json](./339657-stray-sketch.json) |
 | Stray Souls: Stolen Memories | 87224 | [87224-stray-souls-stolen-memories.json](./87224-stray-souls-stolen-memories.json) |
 | Straya | 149516 | [149516-straya.json](./149516-straya.json) |
+| Straycloud | 404931 | [404931-straycloud.json](./404931-straycloud.json) |
 | Strayed | 248912 | [248912-strayed.json](./248912-strayed.json) |
 | Strayed Lights: Deluxe Edition | 244793 | [244793-strayed-lights-deluxe-edition.json](./244793-strayed-lights-deluxe-edition.json) |
 | Stream - Circuit Puzzle | 102128 | [102128-stream-circuit-puzzle.json](./102128-stream-circuit-puzzle.json) |
