@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T21:21:36.977Z",
-  "total_missing": 71279,
+  "generated_at": "2026-09-14T21:31:44.477Z",
+  "total_missing": 71282,
   "games": [
     {
       "igdb_id": 306086,
@@ -4711,11 +4711,6 @@
       "igdb_id": 356072,
       "game_name": "Aery VR: Little Bird Adventure",
       "file": "missing/A/356072-aery-vr-little-bird-adventure.json"
-    },
-    {
-      "igdb_id": 145645,
-      "game_name": "Aery: Sky Castle",
-      "file": "missing/A/145645-aery-sky-castle.json"
     },
     {
       "igdb_id": 199650,
@@ -107553,6 +107548,16 @@
       "file": "missing/F/383943-fortnite-festival-season-1.json"
     },
     {
+      "igdb_id": 384110,
+      "game_name": "Fortnite Festival: Season 11",
+      "file": "missing/F/384110-fortnite-festival-season-11.json"
+    },
+    {
+      "igdb_id": 384111,
+      "game_name": "Fortnite Festival: Season 12",
+      "file": "missing/F/384111-fortnite-festival-season-12.json"
+    },
+    {
       "igdb_id": 403035,
       "game_name": "Fortnite Festival: Season 14",
       "file": "missing/F/403035-fortnite-festival-season-14.json"
@@ -139268,6 +139273,11 @@
       "file": "missing/I/114278-i-hate-this-game.json"
     },
     {
+      "igdb_id": 384113,
+      "game_name": "I Have an Item",
+      "file": "missing/I/384113-i-have-an-item.json"
+    },
+    {
       "igdb_id": 275003,
       "game_name": "I Have Hired This Anime Girl to Talk to You",
       "file": "missing/I/275003-i-have-hired-this-anime-girl-to-talk-to-you.json"
@@ -167631,6 +167641,11 @@
       "igdb_id": 200112,
       "game_name": "Loskop",
       "file": "missing/L/200112-loskop.json"
+    },
+    {
+      "igdb_id": 384114,
+      "game_name": "Loss at Sea",
+      "file": "missing/L/384114-loss-at-sea.json"
     },
     {
       "igdb_id": 186258,
