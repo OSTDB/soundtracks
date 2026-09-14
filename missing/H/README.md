@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Fate 2: The Servant and the Beast | 111062 | [111062-hand-of-fate-2-the-servant-and-the-beast.json](./111062-hand-of-fate-2-the-servant-and-the-beast.json) |
 | Hand of the Goddess | 273919 | [273919-hand-of-the-goddess.json](./273919-hand-of-the-goddess.json) |
 | Hand Simulator: Shooter | 326407 | [326407-hand-simulator-shooter.json](./326407-hand-simulator-shooter.json) |
+| Hand to Hand Combat | 118004 | [118004-hand-to-hand-combat.json](./118004-hand-to-hand-combat.json) |
 | Hand to Hand Combat VR | 122984 | [122984-hand-to-hand-combat-vr.json](./122984-hand-to-hand-combat-vr.json) |
 | Hand-Holding Simulator | 326404 | [326404-hand-holding-simulator.json](./326404-hand-holding-simulator.json) |
 | Handball Action Total | 76617 | [76617-handball-action-total.json](./76617-handball-action-total.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Fights | 93559 | [93559-hockey-fights.json](./93559-hockey-fights.json) |
 | Hockey League Simulator | 15503 | [15503-hockey-league-simulator.json](./15503-hockey-league-simulator.json) |
 | Hockey League Simulator II | 15504 | [15504-hockey-league-simulator-ii.json](./15504-hockey-league-simulator-ii.json) |
+| Hockey Player VR | 117837 | [117837-hockey-player-vr.json](./117837-hockey-player-vr.json) |
 | Hockey: Strategy of Success | 115690 | [115690-hockey-strategy-of-success.json](./115690-hockey-strategy-of-success.json) |
 | Hocus 2 | 149537 | [149537-hocus-2.json](./149537-hocus-2.json) |
 | Hocus Pocus Prince | 183563 | [183563-hocus-pocus-prince.json](./183563-hocus-pocus-prince.json) |
@@ -2680,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperLeague Heroes | 191179 | [191179-hyperleague-heroes.json](./191179-hyperleague-heroes.json) |
 | Hyperlight | 265701 | [265701-hyperlight.json](./265701-hyperlight.json) |
 | Hyperlight Survivor | 261553 | [261553-hyperlight-survivor.json](./261553-hyperlight-survivor.json) |
+| Hyperlight Ultimate | 117939 | [117939-hyperlight-ultimate.json](./117939-hyperlight-ultimate.json) |
 | Hypermarket Simulator | 335855 | [335855-hypermarket-simulator.json](./335855-hypermarket-simulator.json) |
 | Hypermind | 193471 | [193471-hypermind.json](./193471-hypermind.json) |
 | HyperParasite | 101257 | [101257-hyperparasite.json](./101257-hyperparasite.json) |
