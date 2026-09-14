@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retr0Mine | 386704 | [386704-retr0mine.json](./386704-retr0mine.json) |
 | Retrieval | 405598 | [405598-retrieval.json](./405598-retrieval.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
+| Retro Arcade Shop Simulator | 384086 | [384086-retro-arcade-shop-simulator.json](./384086-retro-arcade-shop-simulator.json) |
 | Retro Arcade: Space Invaders | 220106 | [220106-retro-arcade-space-invaders.json](./220106-retro-arcade-space-invaders.json) |
 | Retro Asylum | 409559 | [409559-retro-asylum.json](./409559-retro-asylum.json) |
 | Retro Classix 2-in-1 Pack: Gate of Doom & Wizard Fire | 147913 | [147913-retro-classix-2-in-1-pack-gate-of-doom-and-wizard-fire.json](./147913-retro-classix-2-in-1-pack-gate-of-doom-and-wizard-fire.json) |
@@ -1595,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbeat | 382771 | [382771-ribbeat.json](./382771-ribbeat.json) |
 | Ribbit Jump | 400368 | [400368-ribbit-jump.json](./400368-ribbit-jump.json) |
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
+| Ribbits | 384081 | [384081-ribbits.json](./384081-ribbits.json) |
 | Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
 | Rice & Rest | 346581 | [346581-rice-and-rest.json](./346581-rice-and-rest.json) |
 | Ricerca VR | 32884 | [32884-ricerca-vr.json](./32884-ricerca-vr.json) |
@@ -1922,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
 | River Runners | 384510 | [384510-river-runners.json](./384510-river-runners.json) |
 | River Towns | 324918 | [324918-river-towns.json](./324918-river-towns.json) |
+| River-ty Town | 384062 | [384062-river-ty-town.json](./384062-river-ty-town.json) |
 | Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | RKGK | 296838 | [296838-rkgk.json](./296838-rkgk.json) |
