@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T09:49:11.006Z",
-  "total_missing": 69296,
+  "generated_at": "2026-09-14T09:51:39.225Z",
+  "total_missing": 69295,
   "games": [
     {
       "igdb_id": 306086,
@@ -4321,11 +4321,6 @@
       "igdb_id": 2797,
       "game_name": "Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!",
       "file": "missing/A/2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json"
-    },
-    {
-      "igdb_id": 89898,
-      "game_name": "Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! - Collector's Edition",
-      "file": "missing/A/89898-adventure-time-hey-ice-king-whyd-you-steal-our-garbage-collectors-edition.json"
     },
     {
       "igdb_id": 64970,
