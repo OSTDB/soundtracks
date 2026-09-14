@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
 | A western love story but with no horse | 176961 | [176961-a-western-love-story-but-with-no-horse.json](./176961-a-western-love-story-but-with-no-horse.json) |
+| A Wild Heist | 390106 | [390106-a-wild-heist.json](./390106-a-wild-heist.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
@@ -3225,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
 | Astral Zone | 380451 | [380451-astral-zone.json](./380451-astral-zone.json) |
 | AstralAir no Shiroki Towa Finale: Shiroki Hoshi no Yume | 137105 | [137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json](./137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json) |
+| Astralis: Dawnblades | 390107 | [390107-astralis-dawnblades.json](./390107-astralis-dawnblades.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astrd | 173245 | [173245-astrd.json](./173245-astrd.json) |
 | Astrela Starlight | 107914 | [107914-astrela-starlight.json](./107914-astrela-starlight.json) |
