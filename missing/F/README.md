@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
 | Fairy Godmother Stories: Puss in Boots Collector's Edition | 151202 | [151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json](./151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json) |
 | Fairy Godmother Tycoon | 68634 | [68634-fairy-godmother-tycoon.json](./68634-fairy-godmother-tycoon.json) |
+| Fairy Hotel: Enchanted Kingdom | 417523 | [417523-fairy-hotel-enchanted-kingdom.json](./417523-fairy-hotel-enchanted-kingdom.json) |
 | Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou | 65521 | [65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json](./65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json) |
 | Fairy Knights | 105943 | [105943-fairy-knights.json](./105943-fairy-knights.json) |
 | Fairy Picturebook of Hero and Sorceress | 113698 | [113698-fairy-picturebook-of-hero-and-sorceress.json](./113698-fairy-picturebook-of-hero-and-sorceress.json) |
@@ -665,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
 | Fatal Fury: City of the Wolves - Ken | 317831 | [317831-fatal-fury-city-of-the-wolves-ken.json](./317831-fatal-fury-city-of-the-wolves-ken.json) |
 | Fatal Fury: City of the Wolves - Season Pass 1 | 317833 | [317833-fatal-fury-city-of-the-wolves-season-pass-1.json](./317833-fatal-fury-city-of-the-wolves-season-pass-1.json) |
+| Fatal Gaming | 417494 | [417494-fatal-gaming.json](./417494-fatal-gaming.json) |
 | Fatal Gem VR | 30863 | [30863-fatal-gem-vr.json](./30863-fatal-gem-vr.json) |
 | Fatal Heritage | 75150 | [75150-fatal-heritage.json](./75150-fatal-heritage.json) |
 | Fatal Labyrinth | 4496 | [4496-fatal-labyrinth.json](./4496-fatal-labyrinth.json) |
@@ -871,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibbler.io | 282568 | [282568-fibbler-io.json](./282568-fibbler-io.json) |
 | Fiber Twig 2: Restoration of Magic Garden | 58183 | [58183-fiber-twig-2-restoration-of-magic-garden.json](./58183-fiber-twig-2-restoration-of-magic-garden.json) |
 | Fibula | 253945 | [253945-fibula.json](./253945-fibula.json) |
+| Fickle Allies | 417495 | [417495-fickle-allies.json](./417495-fickle-allies.json) |
 | Fiddle | 80534 | [80534-fiddle.json](./80534-fiddle.json) |
 | Fiddlebert's Folly | 313476 | [313476-fiddleberts-folly.json](./313476-fiddleberts-folly.json) |
 | Fidel: Dungeon Rescue | 36724 | [36724-fidel-dungeon-rescue.json](./36724-fidel-dungeon-rescue.json) |
