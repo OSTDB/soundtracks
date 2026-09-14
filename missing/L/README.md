@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lassie | 43331 | [43331-lassie.json](./43331-lassie.json) |
 | Lasso Catch | 277575 | [277575-lasso-catch.json](./277575-lasso-catch.json) |
 | Last | 356627 | [356627-last.json](./356627-last.json) |
+| Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
 | Last Bus Home | 208617 | [208617-last-bus-home.json](./208617-last-bus-home.json) |
@@ -309,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Labyrinth: Collector's Edition | 139973 | [139973-last-labyrinth-collectors-edition.json](./139973-last-labyrinth-collectors-edition.json) |
 | Last Legion UX | 3534 | [3534-last-legion-ux.json](./3534-last-legion-ux.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
+| Last Mage Standing | 30008 | [30008-last-mage-standing.json](./30008-last-mage-standing.json) |
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
 | Last Moon | 120387 | [120387-last-moon.json](./120387-last-moon.json) |
 | Last Mortem | 149515 | [149515-last-mortem.json](./149515-last-mortem.json) |
@@ -1300,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Heroine: The Electric Monsters | 338009 | [338009-little-heroine-the-electric-monsters.json](./338009-little-heroine-the-electric-monsters.json) |
 | Little Hidden City | 87766 | [87766-little-hidden-city.json](./87766-little-hidden-city.json) |
 | Little Inferno: Ho Ho Holiday | 224412 | [224412-little-inferno-ho-ho-holiday.json](./224412-little-inferno-ho-ho-holiday.json) |
+| Little Jack's Adventures | 30101 | [30101-little-jacks-adventures.json](./30101-little-jacks-adventures.json) |
 | Little Jumper! | 175403 | [175403-little-jumper.json](./175403-little-jumper.json) |
 | Little Kingdom RTS | 349319 | [349319-little-kingdom-rts.json](./349319-little-kingdom-rts.json) |
 | Little Kingdoms: Chapters 1-3 | 262930 | [262930-little-kingdoms-chapters-1-3.json](./262930-little-kingdoms-chapters-1-3.json) |
@@ -1366,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Things Remastered | 175935 | [175935-little-things-remastered.json](./175935-little-things-remastered.json) |
 | Little Town Hero | 109459 | [109459-little-town-hero.json](./109459-little-town-hero.json) |
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
+| Little Triangle | 29985 | [29985-little-triangle.json](./29985-little-triangle.json) |
 | Little Trouble on Tribuda Island | 236281 | [236281-little-trouble-on-tribuda-island.json](./236281-little-trouble-on-tribuda-island.json) |
 | Little Witch | 145613 | [145613-little-witch.json](./145613-little-witch.json) |
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
