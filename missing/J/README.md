@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance 2 Platinum | 53252 | [53252-jagged-alliance-2-platinum.json](./53252-jagged-alliance-2-platinum.json) |
 | Jagged Alliance 2: Wildfire | 10466 | [10466-jagged-alliance-2-wildfire.json](./10466-jagged-alliance-2-wildfire.json) |
 | Jagged Alliance DS | 53254 | [53254-jagged-alliance-ds.json](./53254-jagged-alliance-ds.json) |
+| Jagged Alliance Online: Reloaded | 36036 | [36036-jagged-alliance-online-reloaded.json](./36036-jagged-alliance-online-reloaded.json) |
 | Jagged Alliance: Back in Action | 1008 | [1008-jagged-alliance-back-in-action.json](./1008-jagged-alliance-back-in-action.json) |
 | Jaghund Armoured Organ Delivery Service | 329941 | [329941-jaghund-armoured-organ-delivery-service.json](./329941-jaghund-armoured-organ-delivery-service.json) |
 | Jagot | 267393 | [267393-jagot.json](./267393-jagot.json) |
@@ -868,12 +869,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dash | 107912 | [107912-just-dash.json](./107912-just-dash.json) |
 | Just Date | 253928 | [253928-just-date.json](./253928-just-date.json) |
 | Just deal with it! | 103397 | [103397-just-deal-with-it.json](./103397-just-deal-with-it.json) |
+| Just Death | 36073 | [36073-just-death.json](./36073-just-death.json) |
 | Just Drift It ! | 122412 | [122412-just-drift-it.json](./122412-just-drift-it.json) |
 | Just Drive | 286004 | [286004-just-drive.json](./286004-just-drive.json) |
 | Just Drive a Lil: It's a Mini Racing Game! | 217516 | [217516-just-drive-a-lil-its-a-mini-racing-game.json](./217516-just-drive-a-lil-its-a-mini-racing-game.json) |
 | Just For Killing Time | 82791 | [82791-just-for-killing-time.json](./82791-just-for-killing-time.json) |
 | Just Get In Through the Door | 158677 | [158677-just-get-in-through-the-door.json](./158677-just-get-in-through-the-door.json) |
 | Just Get There | 291747 | [291747-just-get-there.json](./291747-just-get-there.json) |
+| Just Get Through | 36059 | [36059-just-get-through.json](./36059-just-get-through.json) |
 | Just Get Z | 259236 | [259236-just-get-z.json](./259236-just-get-z.json) |
 | Just Glide | 137649 | [137649-just-glide.json](./137649-just-glide.json) |
 | Just Hero: Collector's Edition | 53244 | [53244-just-hero-collectors-edition.json](./53244-just-hero-collectors-edition.json) |
