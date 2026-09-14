@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeance of Mr. Peppermint | 250012 | [250012-vengeance-of-mr-peppermint.json](./250012-vengeance-of-mr-peppermint.json) |
 | Vengeance/Justification | 395573 | [395573-vengeance-justification.json](./395573-vengeance-justification.json) |
 | VeniVidiFutzi | 271731 | [271731-venividifutzi.json](./271731-venividifutzi.json) |
+| Venny's Vinyl Shop | 381677 | [381677-vennys-vinyl-shop.json](./381677-vennys-vinyl-shop.json) |
 | Venomous | 338573 | [338573-venomous.json](./338573-venomous.json) |
 | Venture | 94741 | [94741-venture.json](./94741-venture.json) |
 | Venture Arctic | 66707 | [66707-venture-arctic.json](./66707-venture-arctic.json) |
@@ -877,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Populi: Canada 2025 | 347173 | [347173-vox-populi-canada-2025.json](./347173-vox-populi-canada-2025.json) |
 | Vox Populi: Poland 2023 | 267678 | [267678-vox-populi-poland-2023.json](./267678-vox-populi-poland-2023.json) |
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
+| Voxel Delvers | 381686 | [381686-voxel-delvers.json](./381686-voxel-delvers.json) |
 | Voxel Doodle - Color By Number 3D | 105964 | [105964-voxel-doodle-color-by-number-3d.json](./105964-voxel-doodle-color-by-number-3d.json) |
 | Voxel Doom II | 260124 | [260124-voxel-doom-ii.json](./260124-voxel-doom-ii.json) |
 | Voxel Girl | 188042 | [188042-voxel-girl.json](./188042-voxel-girl.json) |
