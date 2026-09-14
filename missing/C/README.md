@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Shop Game Store: TCG Simulator | 335957 | [335957-card-shop-game-store-tcg-simulator.json](./335957-card-shop-game-store-tcg-simulator.json) |
 | Card Shop Tycoon | 203368 | [203368-card-shop-tycoon.json](./203368-card-shop-tycoon.json) |
 | Card Shuffle Sort | 251237 | [251237-card-shuffle-sort.json](./251237-card-shuffle-sort.json) |
+| Card Sim: Chinese Restaurant | 391182 | [391182-card-sim-chinese-restaurant.json](./391182-card-sim-chinese-restaurant.json) |
 | Card Survival: Fantasy Forest | 290925 | [290925-card-survival-fantasy-forest.json](./290925-card-survival-fantasy-forest.json) |
 | Card Thief | 28018 | [28018-card-thief.json](./28018-card-thief.json) |
 | Card Throw VR | 119716 | [119716-card-throw-vr.json](./119716-card-throw-vr.json) |
@@ -849,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
 | Cat Lobster Simulator | 253401 | [253401-cat-lobster-simulator.json](./253401-cat-lobster-simulator.json) |
 | Cat Meat | 32911 | [32911-cat-meat.json](./32911-cat-meat.json) |
+| Cat Meme Clicker | 391214 | [391214-cat-meme-clicker.json](./391214-cat-meme-clicker.json) |
 | Cat Needs | 244768 | [244768-cat-needs.json](./244768-cat-needs.json) |
 | Cat or Ice Cream? | 183543 | [183543-cat-or-ice-cream.json](./183543-cat-or-ice-cream.json) |
 | Cat Pipes | 244275 | [244275-cat-pipes.json](./244275-cat-pipes.json) |
@@ -1572,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Childish Life Prologue | 374609 | [374609-childish-life-prologue.json](./374609-childish-life-prologue.json) |
 | Childlike | 191171 | [191171-childlike.json](./191171-childlike.json) |
 | Children of a Dead Earth | 25221 | [25221-children-of-a-dead-earth.json](./25221-children-of-a-dead-earth.json) |
+| Children of Birch | 391213 | [391213-children-of-birch.json](./391213-children-of-birch.json) |
 | Children of Morta: Complete Edition | 175878 | [175878-children-of-morta-complete-edition.json](./175878-children-of-morta-complete-edition.json) |
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
 | Children of the Sun | 284925 | [284925-children-of-the-sun.json](./284925-children-of-the-sun.json) |
@@ -2166,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clawless Coin | 405526 | [405526-clawless-coin.json](./405526-clawless-coin.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
+| Clay Puzzle | 391201 | [391201-clay-puzzle.json](./391201-clay-puzzle.json) |
 | Clay Shooter | 192981 | [192981-clay-shooter.json](./192981-clay-shooter.json) |
 | Clean City Project | 292521 | [292521-clean-city-project.json](./292521-clean-city-project.json) |
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
@@ -4011,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Roller | 39641 | [39641-crush-roller.json](./39641-crush-roller.json) |
 | Crush the Industry | 158700 | [158700-crush-the-industry.json](./158700-crush-the-industry.json) |
 | CrushBorgs | 199626 | [199626-crushborgs.json](./199626-crushborgs.json) |
+| CrushCrushCrushCrush | 391218 | [391218-crushcrushcrushcrush.json](./391218-crushcrushcrushcrush.json) |
 | Crushed | 141171 | [141171-crushed.json](./141171-crushed.json) |
 | Crushed Baseball | 49306 | [49306-crushed-baseball.json](./49306-crushed-baseball.json) |
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
@@ -4042,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic | 122425 | [122425-cryptic.json](./122425-cryptic.json) |
 | Cryptic Castle | 146854 | [146854-cryptic-castle.json](./146854-cryptic-castle.json) |
 | Cryptic Caverns | 173810 | [173810-cryptic-caverns.json](./173810-cryptic-caverns.json) |
+| Cryptic Glaze Mirror | 391174 | [391174-cryptic-glaze-mirror.json](./391174-cryptic-glaze-mirror.json) |
 | Cryptid | 253569 | [253569-cryptid.json](./253569-cryptid.json) |
 | Cryptid | 327188 | [327188-cryptid.json](./327188-cryptid.json) |
 | Cryptid Time | 320134 | [320134-cryptid-time.json](./320134-cryptid-time.json) |
