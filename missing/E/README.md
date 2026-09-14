@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
 | Election | 13630 | [13630-election.json](./13630-election.json) |
 | Election Day | 415126 | [415126-election-day.json](./415126-election-day.json) |
+| Election Train | 406206 | [406206-election-train.json](./406206-election-train.json) |
 | Electric Crayon Deluxe: Teenage Mutant Hero Turtles - World Tour | 78007 | [78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json](./78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json) |
 | Electric Crayon: Fun on the Farm | 73265 | [73265-electric-crayon-fun-on-the-farm.json](./73265-electric-crayon-fun-on-the-farm.json) |
 | Electric Crayon: This Land Is Your Land | 70335 | [70335-electric-crayon-this-land-is-your-land.json](./70335-electric-crayon-this-land-is-your-land.json) |
