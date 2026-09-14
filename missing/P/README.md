@@ -1262,6 +1262,41 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano: Learn and Play - Ultra Director's Cut | 328828 | [328828-piano-learn-and-play-ultra-directors-cut.json](./328828-piano-learn-and-play-ultra-directors-cut.json) |
 | Piāomiǎo Xī Yóu | 407318 | [407318-piaomiao-xi-you.json](./407318-piaomiao-xi-you.json) |
 | Piàozhě! Xiǎohuì de Dǎgōng Dàzuòzhàn | 156626 | [156626-piaozhe-xiaohui-de-dagong-dazuozhan.json](./156626-piaozhe-xiaohui-de-dagong-dazuozhan.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 10 | 404290 | [404290-pic-a-pix-pieces-15x15-pieces-pack-10.json](./404290-pic-a-pix-pieces-15x15-pieces-pack-10.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 11 | 404291 | [404291-pic-a-pix-pieces-15x15-pieces-pack-11.json](./404291-pic-a-pix-pieces-15x15-pieces-pack-11.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 12 | 404292 | [404292-pic-a-pix-pieces-15x15-pieces-pack-12.json](./404292-pic-a-pix-pieces-15x15-pieces-pack-12.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 13 | 404293 | [404293-pic-a-pix-pieces-15x15-pieces-pack-13.json](./404293-pic-a-pix-pieces-15x15-pieces-pack-13.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 14 | 404294 | [404294-pic-a-pix-pieces-15x15-pieces-pack-14.json](./404294-pic-a-pix-pieces-15x15-pieces-pack-14.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 15 | 404295 | [404295-pic-a-pix-pieces-15x15-pieces-pack-15.json](./404295-pic-a-pix-pieces-15x15-pieces-pack-15.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 16 | 404296 | [404296-pic-a-pix-pieces-15x15-pieces-pack-16.json](./404296-pic-a-pix-pieces-15x15-pieces-pack-16.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 17 | 404297 | [404297-pic-a-pix-pieces-15x15-pieces-pack-17.json](./404297-pic-a-pix-pieces-15x15-pieces-pack-17.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 18 | 404298 | [404298-pic-a-pix-pieces-15x15-pieces-pack-18.json](./404298-pic-a-pix-pieces-15x15-pieces-pack-18.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 2 | 404299 | [404299-pic-a-pix-pieces-15x15-pieces-pack-2.json](./404299-pic-a-pix-pieces-15x15-pieces-pack-2.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 3 | 404300 | [404300-pic-a-pix-pieces-15x15-pieces-pack-3.json](./404300-pic-a-pix-pieces-15x15-pieces-pack-3.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 4 | 404301 | [404301-pic-a-pix-pieces-15x15-pieces-pack-4.json](./404301-pic-a-pix-pieces-15x15-pieces-pack-4.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 5 | 404302 | [404302-pic-a-pix-pieces-15x15-pieces-pack-5.json](./404302-pic-a-pix-pieces-15x15-pieces-pack-5.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 6 | 404303 | [404303-pic-a-pix-pieces-15x15-pieces-pack-6.json](./404303-pic-a-pix-pieces-15x15-pieces-pack-6.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 7 | 404304 | [404304-pic-a-pix-pieces-15x15-pieces-pack-7.json](./404304-pic-a-pix-pieces-15x15-pieces-pack-7.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 8 | 404305 | [404305-pic-a-pix-pieces-15x15-pieces-pack-8.json](./404305-pic-a-pix-pieces-15x15-pieces-pack-8.json) |
+| Pic-a-Pix Pieces: 15x15 Pieces Pack 9 | 404306 | [404306-pic-a-pix-pieces-15x15-pieces-pack-9.json](./404306-pic-a-pix-pieces-15x15-pieces-pack-9.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 1 | 404312 | [404312-pic-a-pix-pieces-20x20-pieces-pack-1.json](./404312-pic-a-pix-pieces-20x20-pieces-pack-1.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 10 | 404313 | [404313-pic-a-pix-pieces-20x20-pieces-pack-10.json](./404313-pic-a-pix-pieces-20x20-pieces-pack-10.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 11 | 404314 | [404314-pic-a-pix-pieces-20x20-pieces-pack-11.json](./404314-pic-a-pix-pieces-20x20-pieces-pack-11.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 12 | 404315 | [404315-pic-a-pix-pieces-20x20-pieces-pack-12.json](./404315-pic-a-pix-pieces-20x20-pieces-pack-12.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 13 | 404316 | [404316-pic-a-pix-pieces-20x20-pieces-pack-13.json](./404316-pic-a-pix-pieces-20x20-pieces-pack-13.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 14 | 404317 | [404317-pic-a-pix-pieces-20x20-pieces-pack-14.json](./404317-pic-a-pix-pieces-20x20-pieces-pack-14.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 15 | 404318 | [404318-pic-a-pix-pieces-20x20-pieces-pack-15.json](./404318-pic-a-pix-pieces-20x20-pieces-pack-15.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 16 | 404319 | [404319-pic-a-pix-pieces-20x20-pieces-pack-16.json](./404319-pic-a-pix-pieces-20x20-pieces-pack-16.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 17 | 404320 | [404320-pic-a-pix-pieces-20x20-pieces-pack-17.json](./404320-pic-a-pix-pieces-20x20-pieces-pack-17.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 18 | 404321 | [404321-pic-a-pix-pieces-20x20-pieces-pack-18.json](./404321-pic-a-pix-pieces-20x20-pieces-pack-18.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 2 | 404322 | [404322-pic-a-pix-pieces-20x20-pieces-pack-2.json](./404322-pic-a-pix-pieces-20x20-pieces-pack-2.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 3 | 404323 | [404323-pic-a-pix-pieces-20x20-pieces-pack-3.json](./404323-pic-a-pix-pieces-20x20-pieces-pack-3.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 4 | 404324 | [404324-pic-a-pix-pieces-20x20-pieces-pack-4.json](./404324-pic-a-pix-pieces-20x20-pieces-pack-4.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 5 | 404325 | [404325-pic-a-pix-pieces-20x20-pieces-pack-5.json](./404325-pic-a-pix-pieces-20x20-pieces-pack-5.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 6 | 404326 | [404326-pic-a-pix-pieces-20x20-pieces-pack-6.json](./404326-pic-a-pix-pieces-20x20-pieces-pack-6.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 7 | 404327 | [404327-pic-a-pix-pieces-20x20-pieces-pack-7.json](./404327-pic-a-pix-pieces-20x20-pieces-pack-7.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 8 | 404328 | [404328-pic-a-pix-pieces-20x20-pieces-pack-8.json](./404328-pic-a-pix-pieces-20x20-pieces-pack-8.json) |
+| Pic-a-Pix Pieces: 20x20 Pieces Pack 9 | 404329 | [404329-pic-a-pix-pieces-20x20-pieces-pack-9.json](./404329-pic-a-pix-pieces-20x20-pieces-pack-9.json) |
 | Pic-Man | 279611 | [279611-pic-man.json](./279611-pic-man.json) |
 | Picaboo Star | 175330 | [175330-picaboo-star.json](./175330-picaboo-star.json) |
 | PicaSim - Flight Simulator | 108517 | [108517-picasim-flight-simulator.json](./108517-picasim-flight-simulator.json) |
@@ -2940,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince & Excalibur | 174309 | [174309-prince-and-excalibur.json](./174309-prince-and-excalibur.json) |
 | Prince Akazaka x Princess | 220653 | [220653-prince-akazaka-x-princess.json](./220653-prince-akazaka-x-princess.json) |
 | Prince Maker-Braveness | 254544 | [254544-prince-maker-braveness.json](./254544-prince-maker-braveness.json) |
+| Prince of Egypt | 404332 | [404332-prince-of-egypt.json](./404332-prince-of-egypt.json) |
 | Prince of Persia | 284776 | [284776-prince-of-persia.json](./284776-prince-of-persia.json) |
 | Prince of Persia 2: The Shadow and the Flame | 3164 | [3164-prince-of-persia-2-the-shadow-and-the-flame.json](./3164-prince-of-persia-2-the-shadow-and-the-flame.json) |
 | Prince of Persia Classic | 248927 | [248927-prince-of-persia-classic.json](./248927-prince-of-persia-classic.json) |
