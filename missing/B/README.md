@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Hide Together | 340939 | [340939-backrooms-hide-together.json](./340939-backrooms-hide-together.json) |
 | BackRooms: Lost | 301270 | [301270-backrooms-lost.json](./301270-backrooms-lost.json) |
 | Backrooms: Meg Archives | 292297 | [292297-backrooms-meg-archives.json](./292297-backrooms-meg-archives.json) |
+| Backrooms: One | 406835 | [406835-backrooms-one.json](./406835-backrooms-one.json) |
 | Backrooms: Perpetual | 205072 | [205072-backrooms-perpetual.json](./205072-backrooms-perpetual.json) |
 | Backrooms: Realm of Shadows | 247513 | [247513-backrooms-realm-of-shadows.json](./247513-backrooms-realm-of-shadows.json) |
 | Backrooms: Rebirth | 290916 | [290916-backrooms-rebirth.json](./290916-backrooms-rebirth.json) |
@@ -1440,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben There, Dan That! | 9541 | [9541-ben-there-dan-that.json](./9541-ben-there-dan-that.json) |
 | Bendy's Nightmare Run | 414307 | [414307-bendys-nightmare-run.json](./414307-bendys-nightmare-run.json) |
 | Beneath | 240509 | [240509-beneath.json](./240509-beneath.json) |
+| Beneath Paris | 406793 | [406793-beneath-paris.json](./406793-beneath-paris.json) |
 | Beneath the Backrooms | 273368 | [273368-beneath-the-backrooms.json](./273368-beneath-the-backrooms.json) |
 | Beneath the Cardboard | 201286 | [201286-beneath-the-cardboard.json](./201286-beneath-the-cardboard.json) |
 | Beneath the Cherry Trees | 90567 | [90567-beneath-the-cherry-trees.json](./90567-beneath-the-cherry-trees.json) |
@@ -1884,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
 | Birdfull | 333567 | [333567-birdfull.json](./333567-birdfull.json) |
 | Birdie Barrage | 13696 | [13696-birdie-barrage.json](./13696-birdie-barrage.json) |
+| Birdie Blitz | 406787 | [406787-birdie-blitz.json](./406787-birdie-blitz.json) |
 | Birdie Burglars | 176966 | [176966-birdie-burglars.json](./176966-birdie-burglars.json) |
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
 | Birds and Blocks | 147926 | [147926-birds-and-blocks.json](./147926-birds-and-blocks.json) |
