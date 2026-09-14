@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T01:33:41.814Z",
-  "total_missing": 68018,
+  "generated_at": "2026-09-14T01:41:31.480Z",
+  "total_missing": 68017,
   "games": [
     {
       "igdb_id": 306086,
@@ -4071,11 +4071,6 @@
       "igdb_id": 236813,
       "game_name": "Advance Wars",
       "file": "missing/A/236813-advance-wars.json"
-    },
-    {
-      "igdb_id": 65524,
-      "game_name": "Advanced Daisenryaku: Deutsch Dengeki Sakusen",
-      "file": "missing/A/65524-advanced-daisenryaku-deutsch-dengeki-sakusen.json"
     },
     {
       "igdb_id": 84251,
