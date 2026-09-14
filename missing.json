@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T06:49:01.847Z",
-  "total_missing": 68829,
+  "generated_at": "2026-09-14T06:51:39.053Z",
+  "total_missing": 68828,
   "games": [
     {
       "igdb_id": 306086,
@@ -4231,11 +4231,6 @@
       "igdb_id": 365077,
       "game_name": "Adventure in the Snow Globe",
       "file": "missing/A/365077-adventure-in-the-snow-globe.json"
-    },
-    {
-      "igdb_id": 314076,
-      "game_name": "Adventure in Wachirawit World",
-      "file": "missing/A/314076-adventure-in-wachirawit-world.json"
     },
     {
       "igdb_id": 52550,
