@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setback | 198558 | [198558-setback.json](./198558-setback.json) |
 | Seth | 278380 | [278380-seth.json](./278380-seth.json) |
 | Seth Johnson's Sink or Skim | 82144 | [82144-seth-johnsons-sink-or-skim.json](./82144-seth-johnsons-sink-or-skim.json) |
+| Sethian | 26160 | [26160-sethian.json](./26160-sethian.json) |
 | Setsugekka | 163363 | [163363-setsugekka.json](./163363-setsugekka.json) |
 | Setsuna ni Kakeru Koi Hanabi | 302683 | [302683-setsuna-ni-kakeru-koi-hanabi.json](./302683-setsuna-ni-kakeru-koi-hanabi.json) |
 | Setsuna ni Kakeru Koi Hanabi | 339821 | [339821-setsuna-ni-kakeru-koi-hanabi.json](./339821-setsuna-ni-kakeru-koi-hanabi.json) |
@@ -2887,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylark 64 | 306066 | [306066-skylark-64.json](./306066-skylark-64.json) |
 | SkyLife: VoxelSurvival | 149050 | [149050-skylife-voxelsurvival.json](./149050-skylife-voxelsurvival.json) |
 | Skyline Blade | 248058 | [248058-skyline-blade.json](./248058-skyline-blade.json) |
+| Skynet Rising : Portal to the Past | 25738 | [25738-skynet-rising-portal-to-the-past.json](./25738-skynet-rising-portal-to-the-past.json) |
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
 | Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
 | Skyreach | 33023 | [33023-skyreach.json](./33023-skyreach.json) |
@@ -5406,6 +5408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Darlings | 360009 | [360009-star-darlings.json](./360009-star-darlings.json) |
 | Star Days | 194632 | [194632-star-days.json](./194632-star-days.json) |
 | Star Defender 2 | 54396 | [54396-star-defender-2.json](./54396-star-defender-2.json) |
+| Star Defender 3 | 25478 | [25478-star-defender-3.json](./25478-star-defender-3.json) |
 | Star Drifter | 32473 | [32473-star-drifter.json](./32473-star-drifter.json) |
 | Star Drives | 187464 | [187464-star-drives.json](./187464-star-drives.json) |
 | Star Dust: A Journey Through Space | 161349 | [161349-star-dust-a-journey-through-space.json](./161349-star-dust-a-journey-through-space.json) |
@@ -7846,6 +7849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
 | Sven-Göran Eriksson's World Manager | 136991 | [136991-sven-goran-erikssons-world-manager.json](./136991-sven-goran-erikssons-world-manager.json) |
 | Sverigespelet | 300684 | [300684-sverigespelet.json](./300684-sverigespelet.json) |
+| Svrvive: The Deus Helix | 26121 | [26121-svrvive-the-deus-helix.json](./26121-svrvive-the-deus-helix.json) |
 | Swagbucks Live | 88542 | [88542-swagbucks-live.json](./88542-swagbucks-live.json) |
 | Swagman | 20810 | [20810-swagman.json](./20810-swagman.json) |
 | Swallowtail Butterfly Princess of Sexual Techniques | 82887 | [82887-swallowtail-butterfly-princess-of-sexual-techniques.json](./82887-swallowtail-butterfly-princess-of-sexual-techniques.json) |
