@@ -393,7 +393,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
-| Adventures of Sadukar: Chapter I | 168858 | [168858-adventures-of-sadukar-chapter-i.json](./168858-adventures-of-sadukar-chapter-i.json) |
 | Adventures of the Cat Leopold | 53166 | [53166-adventures-of-the-cat-leopold.json](./53166-adventures-of-the-cat-leopold.json) |
 | Adventures of the Mysterious World: The Lost of the Hearts | 394187 | [394187-adventures-of-the-mysterious-world-the-lost-of-the-hearts.json](./394187-adventures-of-the-mysterious-world-the-lost-of-the-hearts.json) |
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
