@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T14:04:21.717Z",
-  "total_missing": 70021,
+  "generated_at": "2026-09-14T14:11:46.223Z",
+  "total_missing": 70020,
   "games": [
     {
       "igdb_id": 306086,
@@ -4451,11 +4451,6 @@
       "igdb_id": 257398,
       "game_name": "Adversary Tower",
       "file": "missing/A/257398-adversary-tower.json"
-    },
-    {
-      "igdb_id": 180289,
-      "game_name": "Adversator",
-      "file": "missing/A/180289-adversator.json"
     },
     {
       "igdb_id": 132254,
