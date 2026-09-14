@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
 | Wave Circles | 117840 | [117840-wave-circles.json](./117840-wave-circles.json) |
+| Wave Magic VR | 31723 | [31723-wave-magic-vr.json](./31723-wave-magic-vr.json) |
 | Wave Race 64 | 3629 | [3629-wave-race-64.json](./3629-wave-race-64.json) |
 | Wave Rally | 43304 | [43304-wave-rally.json](./43304-wave-rally.json) |
 | Wave Rave | 341912 | [341912-wave-rave.json](./341912-wave-rave.json) |
@@ -1788,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Feudal | 102160 | [102160-world-of-feudal.json](./102160-world-of-feudal.json) |
 | World of Final Fantasy | 11214 | [11214-world-of-final-fantasy.json](./11214-world-of-final-fantasy.json) |
 | World of Football | 230297 | [230297-world-of-football.json](./230297-world-of-football.json) |
+| World of Golf | 31814 | [31814-world-of-golf.json](./31814-world-of-golf.json) |
 | World of Goo Remastered | 250935 | [250935-world-of-goo-remastered.json](./250935-world-of-goo-remastered.json) |
 | World of Guns: VR | 121625 | [121625-world-of-guns-vr.json](./121625-world-of-guns-vr.json) |
 | World of Illusion Starring Mickey Mouse and Donald Duck | 8124 | [8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json](./8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json) |
