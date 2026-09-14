@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verse Hopper | 312910 | [312910-verse-hopper.json](./312910-verse-hopper.json) |
 | Verse Surf | 141800 | [141800-verse-surf.json](./141800-verse-surf.json) |
 | Version Fille | 125947 | [125947-version-fille.json](./125947-version-fille.json) |
+| Versus One | 391755 | [391755-versus-one.json](./391755-versus-one.json) |
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
 | VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
@@ -417,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vespera | 408878 | [408878-vespera.json](./408878-vespera.json) |
 | Vespera_Hotel | 296105 | [296105-vespera-hotel.json](./296105-vespera-hotel.json) |
 | Vesperia Bononia | 332268 | [332268-vesperia-bononia.json](./332268-vesperia-bononia.json) |
+| Vesperis | 391754 | [391754-vesperis.json](./391754-vesperis.json) |
 | Vessel Damage Control Trainer | 243417 | [243417-vessel-damage-control-trainer.json](./243417-vessel-damage-control-trainer.json) |
 | Vessels of Decay | 143715 | [143715-vessels-of-decay.json](./143715-vessels-of-decay.json) |
 | Vestaria Saga II: The Sacred Sword of Silvanister | 186886 | [186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json](./186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json) |
@@ -632,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Maid Streamer Ramie | 187437 | [187437-virtual-maid-streamer-ramie.json](./187437-virtual-maid-streamer-ramie.json) |
 | Virtual Mom: Job Simulator Manager | 268462 | [268462-virtual-mom-job-simulator-manager.json](./268462-virtual-mom-job-simulator-manager.json) |
 | Virtual Mother Family Game: Working Mom Simulator | 101587 | [101587-virtual-mother-family-game-working-mom-simulator.json](./101587-virtual-mother-family-game-working-mom-simulator.json) |
+| Virtual Perspective | 391756 | [391756-virtual-perspective.json](./391756-virtual-perspective.json) |
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
 | Virtual Pet Great White Shark | 106574 | [106574-virtual-pet-great-white-shark.json](./106574-virtual-pet-great-white-shark.json) |
 | Virtual Pet Horse | 90022 | [90022-virtual-pet-horse.json](./90022-virtual-pet-horse.json) |
