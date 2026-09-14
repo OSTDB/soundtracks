@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Balls 3 | 225278 | [225278-factory-balls-3.json](./225278-factory-balls-3.json) |
 | Factory Balls 4 | 225279 | [225279-factory-balls-4.json](./225279-factory-balls-4.json) |
 | Factory Balls Christmas Edition | 225284 | [225284-factory-balls-christmas-edition.json](./225284-factory-balls-christmas-edition.json) |
+| Factory Engineer | 31796 | [31796-factory-engineer.json](./31796-factory-engineer.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
 | Factory of Sweets | 151129 | [151129-factory-of-sweets.json](./151129-factory-of-sweets.json) |
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
@@ -365,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fanciful Diamonds | 359398 | [359398-fanciful-diamonds.json](./359398-fanciful-diamonds.json) |
 | Fancy Island | 172735 | [172735-fancy-island.json](./172735-fancy-island.json) |
 | Fancy Skiing 2: Online | 105312 | [105312-fancy-skiing-2-online.json](./105312-fancy-skiing-2-online.json) |
+| Fancy Skiing VR | 31759 | [31759-fancy-skiing-vr.json](./31759-fancy-skiing-vr.json) |
 | Fancy Solitaire | 147422 | [147422-fancy-solitaire.json](./147422-fancy-solitaire.json) |
 | Fancy World - Earth of Crisis | 39686 | [39686-fancy-world-earth-of-crisis.json](./39686-fancy-world-earth-of-crisis.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
@@ -534,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
 | Farm Kitten: Puzzle Pipes | 165711 | [165711-farm-kitten-puzzle-pipes.json](./165711-farm-kitten-puzzle-pipes.json) |
 | Farm Life | 381011 | [381011-farm-life.json](./381011-farm-life.json) |
+| Farm Life: Natures Adventure | 31804 | [31804-farm-life-natures-adventure.json](./31804-farm-life-natures-adventure.json) |
 | Farm Manager 2018 | 55308 | [55308-farm-manager-2018.json](./55308-farm-manager-2018.json) |
 | Farm Manager 2021 | 139459 | [139459-farm-manager-2021.json](./139459-farm-manager-2021.json) |
 | Farm Manager 2021: Agrotourism | 187436 | [187436-farm-manager-2021-agrotourism.json](./187436-farm-manager-2021-agrotourism.json) |
@@ -1124,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Mission VR | 124191 | [124191-final-mission-vr.json](./124191-final-mission-vr.json) |
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
 | Final Odyssey | 378173 | [378173-final-odyssey.json](./378173-final-odyssey.json) |
+| Final Quest | 31732 | [31732-final-quest.json](./31732-final-quest.json) |
 | Final Redoubt: Zombie Apocalypse | 329590 | [329590-final-redoubt-zombie-apocalypse.json](./329590-final-redoubt-zombie-apocalypse.json) |
 | Final Round | 398954 | [398954-final-round.json](./398954-final-round.json) |
 | Final Sanctuary | 326993 | [326993-final-sanctuary.json](./326993-final-sanctuary.json) |
@@ -1622,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashlight Sim | 304602 | [304602-flashlight-sim.json](./304602-flashlight-sim.json) |
 | Flashout III | 199568 | [199568-flashout-iii.json](./199568-flashout-iii.json) |
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
+| Flat Path | 31734 | [31734-flat-path.json](./31734-flat-path.json) |
 | Flat Worlds | 75055 | [75055-flat-worlds.json](./75055-flat-worlds.json) |
 | Flat Zombies: Cleanup & Defense | 174890 | [174890-flat-zombies-cleanup-and-defense.json](./174890-flat-zombies-cleanup-and-defense.json) |
 | Flatdog | 56429 | [56429-flatdog.json](./56429-flatdog.json) |
@@ -2043,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 26 | 365487 | [365487-football-manager-26.json](./365487-football-manager-26.json) |
 | Football Manager Live | 21249 | [21249-football-manager-live.json](./21249-football-manager-live.json) |
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
+| Football Mogul 15 | 31694 | [31694-football-mogul-15.json](./31694-football-mogul-15.json) |
 | Football Mogul 2007 | 209466 | [209466-football-mogul-2007.json](./209466-football-mogul-2007.json) |
 | Football Penalty | 234315 | [234315-football-penalty.json](./234315-football-penalty.json) |
 | Football Pitch Simulator | 326428 | [326428-football-pitch-simulator.json](./326428-football-pitch-simulator.json) |
@@ -2561,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday | 130926 | [130926-friday.json](./130926-friday.json) |
 | Friday | 248026 | [248026-friday.json](./248026-friday.json) |
 | Friday Night 3D Pool | 57610 | [57610-friday-night-3d-pool.json](./57610-friday-night-3d-pool.json) |
+| Friday Night Bullet Arena | 31702 | [31702-friday-night-bullet-arena.json](./31702-friday-night-bullet-arena.json) |
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
 | Friday Night Funkin' Soft | 206928 | [206928-friday-night-funkin-soft.json](./206928-friday-night-funkin-soft.json) |
