@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
 | Naked News | 129213 | [129213-naked-news.json](./129213-naked-news.json) |
+| Nakiti Generations | 31762 | [31762-nakiti-generations.json](./31762-nakiti-generations.json) |
 | Nakoruru: Anohito kara no Okurimono | 57624 | [57624-nakoruru-anohito-kara-no-okurimono.json](./57624-nakoruru-anohito-kara-no-okurimono.json) |
 | Nalogi 2 | 96899 | [96899-nalogi-2.json](./96899-nalogi-2.json) |
 | Nam-1975 | 95471 | [95471-nam-1975.json](./95471-nam-1975.json) |
@@ -1122,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightshade | 39119 | [39119-nightshade.json](./39119-nightshade.json) |
 | Nightshift | 271202 | [271202-nightshift.json](./271202-nightshift.json) |
 | Nightslink | 165643 | [165643-nightslink.json](./165643-nightslink.json) |
+| Nightstar: Starfighter | 31815 | [31815-nightstar-starfighter.json](./31815-nightstar-starfighter.json) |
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
 | Nightwalker | 163946 | [163946-nightwalker.json](./163946-nightwalker.json) |
 | Nightwalker 2 | 152854 | [152854-nightwalker-2.json](./152854-nightwalker-2.json) |
