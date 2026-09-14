@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cells: Netflix Edition | 274723 | [274723-dead-cells-netflix-edition.json](./274723-dead-cells-netflix-edition.json) |
 | Dead Cells: Return to Castlevania - Signature Edition | 387498 | [387498-dead-cells-return-to-castlevania-signature-edition.json](./387498-dead-cells-return-to-castlevania-signature-edition.json) |
 | Dead Cells: The Queen and the Sea | 183128 | [183128-dead-cells-the-queen-and-the-sea.json](./183128-dead-cells-the-queen-and-the-sea.json) |
+| Dead Circuit | 382327 | [382327-dead-circuit.json](./382327-dead-circuit.json) |
 | Dead City | 317824 | [317824-dead-city.json](./317824-dead-city.json) |
 | Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
 | Dead Dawn | 193958 | [193958-dead-dawn.json](./193958-dead-dawn.json) |
@@ -1234,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degeneration | 107891 | [107891-degeneration.json](./107891-degeneration.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
 | Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
+| Deimos Hotel | 382280 | [382280-deimos-hotel.json](./382280-deimos-hotel.json) |
 | Deios II: Deidia | 26366 | [26366-deios-ii-deidia.json](./26366-deios-ii-deidia.json) |
 | Deirdre | 395695 | [395695-deirdre.json](./395695-deirdre.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
@@ -4169,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarfs Descent | 350420 | [350420-dwarfs-descent.json](./350420-dwarfs-descent.json) |
 | Dwarfs F2P | 90631 | [90631-dwarfs-f2p.json](./90631-dwarfs-f2p.json) |
 | Dwarrows | 25229 | [25229-dwarrows.json](./25229-dwarrows.json) |
+| Dwarven Alchemist | 382332 | [382332-dwarven-alchemist.json](./382332-dwarven-alchemist.json) |
 | Dwarven Destiny | 206148 | [206148-dwarven-destiny.json](./206148-dwarven-destiny.json) |
 | Dwarven Forge | 149554 | [149554-dwarven-forge.json](./149554-dwarven-forge.json) |
 | Dwarven Forge | 398335 | [398335-dwarven-forge.json](./398335-dwarven-forge.json) |
