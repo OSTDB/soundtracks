@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T14:49:13.917Z",
-  "total_missing": 70134,
+  "generated_at": "2026-09-14T14:51:42.354Z",
+  "total_missing": 70133,
   "games": [
     {
       "igdb_id": 306086,
@@ -4471,11 +4471,6 @@
       "igdb_id": 141252,
       "game_name": "Aefen Fall",
       "file": "missing/A/141252-aefen-fall.json"
-    },
-    {
-      "igdb_id": 328227,
-      "game_name": "Aegis Force: The Scorian War",
-      "file": "missing/A/328227-aegis-force-the-scorian-war.json"
     },
     {
       "igdb_id": 216463,
