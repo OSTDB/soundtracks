@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Mnemonic | 73241 | [73241-johnny-mnemonic.json](./73241-johnny-mnemonic.json) |
 | Johnny Platform Saves Xmas! | 67250 | [67250-johnny-platform-saves-xmas.json](./67250-johnny-platform-saves-xmas.json) |
 | Johnny Test | 126035 | [126035-johnny-test.json](./126035-johnny-test.json) |
+| Johnny Trigger: Emerald Edition | 385203 | [385203-johnny-trigger-emerald-edition.json](./385203-johnny-trigger-emerald-edition.json) |
 | Johnny Trigger: Gold Edition | 396919 | [396919-johnny-trigger-gold-edition.json](./396919-johnny-trigger-gold-edition.json) |
 | Johnny Trigger: Hotshot Edition | 283171 | [283171-johnny-trigger-hotshot-edition.json](./283171-johnny-trigger-hotshot-edition.json) |
 | Johnny Turbo's Arcade: Joe and Mac Returns | 146860 | [146860-johnny-turbos-arcade-joe-and-mac-returns.json](./146860-johnny-turbos-arcade-joe-and-mac-returns.json) |
