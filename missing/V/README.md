@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard Ace: Vertical Madness | 70916 | [70916-vanguard-ace-vertical-madness.json](./70916-vanguard-ace-vertical-madness.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
 | Vanguard Princess | 9433 | [9433-vanguard-princess.json](./9433-vanguard-princess.json) |
+| Vanguard Tides | 405596 | [405596-vanguard-tides.json](./405596-vanguard-tides.json) |
 | Vanguard Valiants | 394826 | [394826-vanguard-valiants.json](./394826-vanguard-valiants.json) |
 | Vanguard: Fight For Rudiarius | 110996 | [110996-vanguard-fight-for-rudiarius.json](./110996-vanguard-fight-for-rudiarius.json) |
 | Vanguard: Normandy 1944 | 110298 | [110298-vanguard-normandy-1944.json](./110298-vanguard-normandy-1944.json) |
