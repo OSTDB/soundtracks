@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XP Racing | 289880 | [289880-xp-racing.json](./289880-xp-racing.json) |
 | XP8 | 15569 | [15569-xp8.json](./15569-xp8.json) |
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
+| Xploit.Zero | 380561 | [380561-xploit-zero.json](./380561-xploit-zero.json) |
 | XR-35 | 55210 | [55210-xr-35.json](./55210-xr-35.json) |
 | XRick | 289883 | [289883-xrick.json](./289883-xrick.json) |
 | XS Airboat Racing | 43942 | [43942-xs-airboat-racing.json](./43942-xs-airboat-racing.json) |
