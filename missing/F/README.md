@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final World | 90646 | [90646-final-world.json](./90646-final-world.json) |
 | Finalloop | 348779 | [348779-finalloop.json](./348779-finalloop.json) |
 | Financial Football | 91919 | [91919-financial-football.json](./91919-financial-football.json) |
+| Financial Freedom | 397824 | [397824-financial-freedom.json](./397824-financial-freedom.json) |
 | Finch | 304902 | [304902-finch.json](./304902-finch.json) |
 | Finch & Archie | 306095 | [306095-finch-and-archie.json](./306095-finch-and-archie.json) |
 | FinCrementalOS | 400314 | [400314-fincrementalos.json](./400314-fincrementalos.json) |
@@ -2007,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNF: Spooky Mix | 365105 | [365105-fnf-spooky-mix.json](./365105-fnf-spooky-mix.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
+| Focumon | 397828 | [397828-focumon.json](./397828-focumon.json) |
 | Focus | 242576 | [242576-focus.json](./242576-focus.json) |
 | Focus | 381028 | [381028-focus.json](./381028-focus.json) |
 | Focus | 407452 | [407452-focus.json](./407452-focus.json) |
@@ -2961,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funeral for the Sun | 385063 | [385063-funeral-for-the-sun.json](./385063-funeral-for-the-sun.json) |
 | Funeral Toll | 272837 | [272837-funeral-toll.json](./272837-funeral-toll.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
+| Funfair Tycoon | 397775 | [397775-funfair-tycoon.json](./397775-funfair-tycoon.json) |
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
 | Fungi Fantastico | 333013 | [333013-fungi-fantastico.json](./333013-fungi-fantastico.json) |
