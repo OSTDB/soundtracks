@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T21:18:50.117Z",
-  "total_missing": 71280,
+  "generated_at": "2026-09-14T21:21:36.977Z",
+  "total_missing": 71279,
   "games": [
     {
       "igdb_id": 306086,
@@ -4706,11 +4706,6 @@
       "igdb_id": 397713,
       "game_name": "AeroWave OS",
       "file": "missing/A/397713-aerowave-os.json"
-    },
-    {
-      "igdb_id": 173794,
-      "game_name": "Aery Series Bundle",
-      "file": "missing/A/173794-aery-series-bundle.json"
     },
     {
       "igdb_id": 356072,
