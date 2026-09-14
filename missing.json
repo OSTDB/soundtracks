@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T22:04:12.328Z",
-  "total_missing": 71379,
+  "generated_at": "2026-09-14T22:11:34.477Z",
+  "total_missing": 71378,
   "games": [
     {
       "igdb_id": 306086,
@@ -4731,11 +4731,6 @@
       "igdb_id": 17839,
       "game_name": "aerofly RC 7",
       "file": "missing/A/17839-aerofly-rc-7.json"
-    },
-    {
-      "igdb_id": 416623,
-      "game_name": "Aerolicious",
-      "file": "missing/A/416623-aerolicious.json"
     },
     {
       "igdb_id": 124175,
