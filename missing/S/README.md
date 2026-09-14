@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scenery Disk 6 | 86024 | [86024-scenery-disk-6.json](./86024-scenery-disk-6.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
 | Scent of Sorrow | 362290 | [362290-scent-of-sorrow.json](./362290-scent-of-sorrow.json) |
+| Sceptorn | 391211 | [391211-sceptorn.json](./391211-sceptorn.json) |
 | Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
 | SchattenJagd | 98954 | [98954-schattenjagd.json](./98954-schattenjagd.json) |
 | Schedule I | 328373 | [328373-schedule-i.json](./328373-schedule-i.json) |
@@ -1651,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of the Tusk | 66118 | [66118-shadows-of-the-tusk.json](./66118-shadows-of-the-tusk.json) |
 | Shadows of Thornkeep | 374073 | [374073-shadows-of-thornkeep.json](./374073-shadows-of-thornkeep.json) |
 | Shadows of War | 35998 | [35998-shadows-of-war.json](./35998-shadows-of-war.json) |
+| Shadows of War 2 | 391171 | [391171-shadows-of-war-2.json](./391171-shadows-of-war-2.json) |
 | Shadows on the Vatican Act I: Greed | 36370 | [36370-shadows-on-the-vatican-act-i-greed.json](./36370-shadows-on-the-vatican-act-i-greed.json) |
 | Shadows on the Vatican Act II: Wrath | 27753 | [27753-shadows-on-the-vatican-act-ii-wrath.json](./27753-shadows-on-the-vatican-act-ii-wrath.json) |
 | Shadows on the Walls | 262967 | [262967-shadows-on-the-walls.json](./262967-shadows-on-the-walls.json) |
@@ -3061,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping Forest | 292513 | [292513-sleeping-forest.json](./292513-sleeping-forest.json) |
 | Sleeping Prince | 77966 | [77966-sleeping-prince.json](./77966-sleeping-prince.json) |
 | Sleeping Valley | 24960 | [24960-sleeping-valley.json](./24960-sleeping-valley.json) |
+| Sleeping With the Phish | 391178 | [391178-sleeping-with-the-phish.json](./391178-sleeping-with-the-phish.json) |
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
 | Sleepover | 113709 | [113709-sleepover.json](./113709-sleepover.json) |
 | Sleepover | 401631 | [401631-sleepover.json](./401631-sleepover.json) |
@@ -4232,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic2.EXE | 313712 | [313712-sonic2-exe.json](./313712-sonic2-exe.json) |
 | SonicE | 330709 | [330709-sonice.json](./330709-sonice.json) |
 | SonicN | 175927 | [175927-sonicn.json](./175927-sonicn.json) |
+| Sonki's Lagoon | 391193 | [391193-sonkis-lagoon.json](./391193-sonkis-lagoon.json) |
 | Sono Hanabira ni Kuchizuke o: Amakute Hoshikute Torokeru Chuu | 12218 | [12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json](./12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json) |
 | Sono Hanabira ni Kuchizuke o: Kuchibiru to Kiss de Tsubuyaite | 12217 | [12217-sono-hanabira-ni-kuchizuke-o-kuchibiru-to-kiss-de-tsubuyaite.json](./12217-sono-hanabira-ni-kuchizuke-o-kuchibiru-to-kiss-de-tsubuyaite.json) |
 | Sono Hanabira ni Kuchizuke o: Tenshi-tachi no Yakusoku | 12274 | [12274-sono-hanabira-ni-kuchizuke-o-tenshi-tachi-no-yakusoku.json](./12274-sono-hanabira-ni-kuchizuke-o-tenshi-tachi-no-yakusoku.json) |
@@ -5061,6 +5065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spies & Soldiers | 132796 | [132796-spies-and-soldiers.json](./132796-spies-and-soldiers.json) |
 | Spiiiders | 61596 | [61596-spiiiders.json](./61596-spiiiders.json) |
 | Spike | 70349 | [70349-spike.json](./70349-spike.json) |
+| Spike a Love Story | 391207 | [391207-spike-a-love-story.json](./391207-spike-a-love-story.json) |
 | Spike Hoppin' | 41984 | [41984-spike-hoppin.json](./41984-spike-hoppin.json) |
 | Spikes Are Dangerous | 118434 | [118434-spikes-are-dangerous.json](./118434-spikes-are-dangerous.json) |
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
@@ -5296,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring String | 313121 | [313121-spring-string.json](./313121-spring-string.json) |
 | Spring: 1944 | 142500 | [142500-spring-1944.json](./142500-spring-1944.json) |
 | Springblades | 227857 | [227857-springblades.json](./227857-springblades.json) |
+| Springcar | 391155 | [391155-springcar.json](./391155-springcar.json) |
 | Springer | 98967 | [98967-springer.json](./98967-springer.json) |
 | SpringFling | 254557 | [254557-springfling.json](./254557-springfling.json) |
 | Springs, Eternal | 380435 | [380435-springs-eternal.json](./380435-springs-eternal.json) |
@@ -5511,6 +5517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Boy | 96676 | [96676-star-boy.json](./96676-star-boy.json) |
 | Star Cadre: Combat Class | 396216 | [396216-star-cadre-combat-class.json](./396216-star-cadre-combat-class.json) |
 | Star Castle PC | 95420 | [95420-star-castle-pc.json](./95420-star-castle-pc.json) |
+| Star Catcher | 391150 | [391150-star-catcher.json](./391150-star-catcher.json) |
 | Star Catcher: Heart Master | 362272 | [362272-star-catcher-heart-master.json](./362272-star-catcher-heart-master.json) |
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
 | Star Child | 37090 | [37090-star-child.json](./37090-star-child.json) |
@@ -5970,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
 | Startron | 333022 | [333022-startron.json](./333022-startron.json) |
 | Startup Freak | 74369 | [74369-startup-freak.json](./74369-startup-freak.json) |
+| Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
 | Starvania: Tales Of The Past | 372498 | [372498-starvania-tales-of-the-past.json](./372498-starvania-tales-of-the-past.json) |
 | Starve.io | 79268 | [79268-starve-io.json](./79268-starve-io.json) |
 | Starward Rogue: Complete Edition | 283159 | [283159-starward-rogue-complete-edition.json](./283159-starward-rogue-complete-edition.json) |
@@ -6893,6 +6901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suiren | 377581 | [377581-suiren.json](./377581-suiren.json) |
 | Suisenka | 261776 | [261776-suisenka.json](./261776-suisenka.json) |
 | SuiSui Sweet | 254547 | [254547-suisui-sweet.json](./254547-suisui-sweet.json) |
+| Suitcase Stories | 391198 | [391198-suitcase-stories.json](./391198-suitcase-stories.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
 | Suite Room no Nemurihime Celebteki Zeitaku Ren'ai | 229029 | [229029-suite-room-no-nemurihime-celebteki-zeitaku-renai.json](./229029-suite-room-no-nemurihime-celebteki-zeitaku-renai.json) |
 | Suīyáng: Shī Yǔ Huǒ | 374626 | [374626-suiyang-shi-yu-huo.json](./374626-suiyang-shi-yu-huo.json) |
