@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T05:21:33.064Z",
-  "total_missing": 68599,
+  "generated_at": "2026-09-14T05:31:36.401Z",
+  "total_missing": 68613,
   "games": [
     {
       "igdb_id": 306086,
@@ -4191,11 +4191,6 @@
       "igdb_id": 45370,
       "game_name": "Adventure D: Espionage Island",
       "file": "missing/A/45370-adventure-d-espionage-island.json"
-    },
-    {
-      "igdb_id": 104055,
-      "game_name": "Adventure Delivery Service",
-      "file": "missing/A/104055-adventure-delivery-service.json"
     },
     {
       "igdb_id": 72132,
@@ -49698,6 +49693,11 @@
       "file": "missing/C/95423-christian-matchups.json"
     },
     {
+      "igdb_id": 417584,
+      "game_name": "Christmas Across America",
+      "file": "missing/C/417584-christmas-across-america.json"
+    },
+    {
       "igdb_id": 163921,
       "game_name": "Christmas Adventures: A Winter Night's Dream",
       "file": "missing/C/163921-christmas-adventures-a-winter-nights-dream.json"
@@ -49746,6 +49746,11 @@
       "igdb_id": 314046,
       "game_name": "Christmas Escape",
       "file": "missing/C/314046-christmas-escape.json"
+    },
+    {
+      "igdb_id": 417586,
+      "game_name": "Christmas Fables: Holiday Guardians",
+      "file": "missing/C/417586-christmas-fables-holiday-guardians.json"
     },
     {
       "igdb_id": 382194,
@@ -49843,6 +49848,11 @@
       "file": "missing/C/276697-christmas-runner.json"
     },
     {
+      "igdb_id": 417587,
+      "game_name": "Christmas Stories: A Little Prince - Collector's Edition",
+      "file": "missing/C/417587-christmas-stories-a-little-prince-collectors-edition.json"
+    },
+    {
       "igdb_id": 30202,
       "game_name": "Christmas Stories: Nutcracker - Collector's Edition",
       "file": "missing/C/30202-christmas-stories-nutcracker-collectors-edition.json"
@@ -49878,9 +49888,44 @@
       "file": "missing/C/79873-christmas-wonderland.json"
     },
     {
+      "igdb_id": 417589,
+      "game_name": "Christmas Wonderland 10",
+      "file": "missing/C/417589-christmas-wonderland-10.json"
+    },
+    {
+      "igdb_id": 417588,
+      "game_name": "Christmas Wonderland 10: Collector's Edition",
+      "file": "missing/C/417588-christmas-wonderland-10-collectors-edition.json"
+    },
+    {
+      "igdb_id": 417591,
+      "game_name": "Christmas Wonderland 11",
+      "file": "missing/C/417591-christmas-wonderland-11.json"
+    },
+    {
+      "igdb_id": 417592,
+      "game_name": "Christmas Wonderland 11: Collector's Edition",
+      "file": "missing/C/417592-christmas-wonderland-11-collectors-edition.json"
+    },
+    {
       "igdb_id": 186292,
       "game_name": "Christmas Wonderland 12",
       "file": "missing/C/186292-christmas-wonderland-12.json"
+    },
+    {
+      "igdb_id": 417593,
+      "game_name": "Christmas Wonderland 14",
+      "file": "missing/C/417593-christmas-wonderland-14.json"
+    },
+    {
+      "igdb_id": 417594,
+      "game_name": "Christmas Wonderland 15",
+      "file": "missing/C/417594-christmas-wonderland-15.json"
+    },
+    {
+      "igdb_id": 417595,
+      "game_name": "Christmas Wonderland 16",
+      "file": "missing/C/417595-christmas-wonderland-16.json"
     },
     {
       "igdb_id": 226426,
@@ -145803,6 +145848,11 @@
       "file": "missing/J/286011-just-climb.json"
     },
     {
+      "igdb_id": 417582,
+      "game_name": "Just Coffee with the Café Guy",
+      "file": "missing/J/417582-just-coffee-with-the-cafe-guy.json"
+    },
+    {
       "igdb_id": 264321,
       "game_name": "Just Crow Things",
       "file": "missing/J/264321-just-crow-things.json"
@@ -166093,6 +166143,11 @@
       "file": "missing/M/276472-maigo-no-koneko-chan.json"
     },
     {
+      "igdb_id": 417607,
+      "game_name": "Maikuro: Ore ga Watashi de Boku ga Atashi de",
+      "file": "missing/M/417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json"
+    },
+    {
       "igdb_id": 238186,
       "game_name": "Mail Mole + Expansions Bundle",
       "file": "missing/M/238186-mail-mole-expansions-bundle.json"
@@ -182603,6 +182658,11 @@
       "file": "missing/M/337999-mortality-decomp-killers.json"
     },
     {
+      "igdb_id": 417597,
+      "game_name": "Mortality... Please",
+      "file": "missing/M/417597-mortality-please.json"
+    },
+    {
       "igdb_id": 259019,
       "game_name": "Mortarmen",
       "file": "missing/M/259019-mortarmen.json"
@@ -184876,6 +184936,11 @@
       "igdb_id": 239333,
       "game_name": "MurMur",
       "file": "missing/M/239333-murmur.json"
+    },
+    {
+      "igdb_id": 417596,
+      "game_name": "Murmuring of Moth Mouth",
+      "file": "missing/M/417596-murmuring-of-moth-mouth.json"
     },
     {
       "igdb_id": 62718,
@@ -216776,6 +216841,11 @@
       "igdb_id": 8716,
       "game_name": "Postal: Redux",
       "file": "missing/P/8716-postal-redux.json"
+    },
+    {
+      "igdb_id": 417581,
+      "game_name": "Postcard Through Time",
+      "file": "missing/P/417581-postcard-through-time.json"
     },
     {
       "igdb_id": 247751,
