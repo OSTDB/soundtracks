@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotion Samurai | 161400 | [161400-lotion-samurai.json](./161400-lotion-samurai.json) |
 | Lotion Samurai for Nintendo Switch | 249785 | [249785-lotion-samurai-for-nintendo-switch.json](./249785-lotion-samurai-for-nintendo-switch.json) |
 | Lots of Guns | 65466 | [65466-lots-of-guns.json](./65466-lots-of-guns.json) |
+| LotS: Light on the Sea | 400371 | [400371-lots-light-on-the-sea.json](./400371-lots-light-on-the-sea.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
 | Lotus III: The Ultimate Challenge | 12672 | [12672-lotus-iii-the-ultimate-challenge.json](./12672-lotus-iii-the-ultimate-challenge.json) |
@@ -2155,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumiric Stage | 412264 | [412264-lumiric-stage.json](./412264-lumiric-stage.json) |
 | Lumiva Legacy | 265697 | [265697-lumiva-legacy.json](./265697-lumiva-legacy.json) |
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
+| Lumo Idle Park | 400291 | [400291-lumo-idle-park.json](./400291-lumo-idle-park.json) |
 | Lumo's Cat | 14303 | [14303-lumos-cat.json](./14303-lumos-cat.json) |
 | Luna : The Dimemsion Watcher | 130917 | [130917-luna-the-dimemsion-watcher.json](./130917-luna-the-dimemsion-watcher.json) |
 | Luna Blaze | 353870 | [353870-luna-blaze.json](./353870-luna-blaze.json) |
@@ -2232,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
 | Luxcustos | 322605 | [322605-luxcustos.json](./322605-luxcustos.json) |
 | Luxor Pharaoh's Challenge | 42879 | [42879-luxor-pharaohs-challenge.json](./42879-luxor-pharaohs-challenge.json) |
+| Luxsor: Nights Over Egypt | 400338 | [400338-luxsor-nights-over-egypt.json](./400338-luxsor-nights-over-egypt.json) |
 | Luxuria Superbia | 10630 | [10630-luxuria-superbia.json](./10630-luxuria-superbia.json) |
 | Luxury Garden Bundle | 227855 | [227855-luxury-garden-bundle.json](./227855-luxury-garden-bundle.json) |
 | Luxury House Renovation | 114960 | [114960-luxury-house-renovation.json](./114960-luxury-house-renovation.json) |
