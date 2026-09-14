@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Mortal Night | 185684 | [185684-resident-evil-mortal-night.json](./185684-resident-evil-mortal-night.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 1 | 143001 | [143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json](./143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 2 | 143002 | [143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json](./143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json) |
+| Resident Evil: Operation Raccoon City - Echo Six Prologue Mission | 405577 | [405577-resident-evil-operation-raccoon-city-echo-six-prologue-mission.json](./405577-resident-evil-operation-raccoon-city-echo-six-prologue-mission.json) |
 | Resident Evil: Revelations | 978 | [978-resident-evil-revelations.json](./978-resident-evil-revelations.json) |
 | Resident Evil: Revelations - Circle Pad Pro Bundle | 89903 | [89903-resident-evil-revelations-circle-pad-pro-bundle.json](./89903-resident-evil-revelations-circle-pad-pro-bundle.json) |
 | Resident Evil: Revelations - Unveiled Edition (Limited Edition) | 89927 | [89927-resident-evil-revelations-unveiled-edition-limited-edition.json](./89927-resident-evil-revelations-unveiled-edition-limited-edition.json) |
@@ -1313,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retool | 32974 | [32974-retool.json](./32974-retool.json) |
 | Retooled | 204071 | [204071-retooled.json](./204071-retooled.json) |
 | Retr0Mine | 386704 | [386704-retr0mine.json](./386704-retr0mine.json) |
+| Retrieval | 405598 | [405598-retrieval.json](./405598-retrieval.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
 | Retro Arcade: Space Invaders | 220106 | [220106-retro-arcade-space-invaders.json](./220106-retro-arcade-space-invaders.json) |
 | Retro Asylum | 409559 | [409559-retro-asylum.json](./409559-retro-asylum.json) |
