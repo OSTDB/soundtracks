@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a Little | 238737 | [238737-take-a-little.json](./238737-take-a-little.json) |
 | Take a piss like a woman | 330160 | [330160-take-a-piss-like-a-woman.json](./330160-take-a-piss-like-a-woman.json) |
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
+| Take Care of My Heifer | 414421 | [414421-take-care-of-my-heifer.json](./414421-take-care-of-my-heifer.json) |
 | Take Care Of The Dog | 402917 | [402917-take-care-of-the-dog.json](./402917-take-care-of-the-dog.json) |
 | Take Care of the Paperwork | 103455 | [103455-take-care-of-the-paperwork.json](./103455-take-care-of-the-paperwork.json) |
 | Take Care VR | 236507 | [236507-take-care-vr.json](./236507-take-care-vr.json) |
@@ -292,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Escape: Cold As Ice | 172119 | [172119-tales-of-escape-cold-as-ice.json](./172119-tales-of-escape-cold-as-ice.json) |
 | Tales of Escape: Sleepy Hollow VR | 148500 | [148500-tales-of-escape-sleepy-hollow-vr.json](./148500-tales-of-escape-sleepy-hollow-vr.json) |
 | Tales of Fandom Vol. 1: Cress Version | 100158 | [100158-tales-of-fandom-vol-1-cress-version.json](./100158-tales-of-fandom-vol-1-cress-version.json) |
+| Tales of Formentera | 414437 | [414437-tales-of-formentera.json](./414437-tales-of-formentera.json) |
 | Tales of Glacier VR | 57036 | [57036-tales-of-glacier-vr.json](./57036-tales-of-glacier-vr.json) |
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
 | Tales of Graces F/ Tales of Symphonia Chronicles | 44617 | [44617-tales-of-graces-f-tales-of-symphonia-chronicles.json](./44617-tales-of-graces-f-tales-of-symphonia-chronicles.json) |
@@ -2095,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eternal Castle: Remastered | 112074 | [112074-the-eternal-castle-remastered.json](./112074-the-eternal-castle-remastered.json) |
 | The Eternal Fool | 217496 | [217496-the-eternal-fool.json](./217496-the-eternal-fool.json) |
 | The Eternal Mines | 379379 | [379379-the-eternal-mines.json](./379379-the-eternal-mines.json) |
+| The Eternal Woods | 414427 | [414427-the-eternal-woods.json](./414427-the-eternal-woods.json) |
 | The Exaggerated Epoch of Edward O'Hare | 147378 | [147378-the-exaggerated-epoch-of-edward-ohare.json](./147378-the-exaggerated-epoch-of-edward-ohare.json) |
 | The eXceed Collection | 64895 | [64895-the-exceed-collection.json](./64895-the-exceed-collection.json) |
 | The Exchange Student: Episode 2 - Point Club | 72024 | [72024-the-exchange-student-episode-2-point-club.json](./72024-the-exchange-student-episode-2-point-club.json) |
@@ -3101,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
+| The Memory Library | 414404 | [414404-the-memory-library.json](./414404-the-memory-library.json) |
 | The Memory of Eldurim | 16905 | [16905-the-memory-of-eldurim.json](./16905-the-memory-of-eldurim.json) |
 | The Mercer Slough and You | 145622 | [145622-the-mercer-slough-and-you.json](./145622-the-mercer-slough-and-you.json) |
 | The Mercury Man | 80879 | [80879-the-mercury-man.json](./80879-the-mercury-man.json) |
@@ -4511,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's No Way A Pastry Chef Could Be This Strong! | 82832 | [82832-theres-no-way-a-pastry-chef-could-be-this-strong.json](./82832-theres-no-way-a-pastry-chef-could-be-this-strong.json) |
 | There's Nothing Underground | 331290 | [331290-theres-nothing-underground.json](./331290-theres-nothing-underground.json) |
 | There's Poop In My Soup | 33315 | [33315-theres-poop-in-my-soup.json](./33315-theres-poop-in-my-soup.json) |
+| Therian Crush: Wild Animal Girls | 414453 | [414453-therian-crush-wild-animal-girls.json](./414453-therian-crush-wild-animal-girls.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
 | These Doomed Isles: The First God | 244276 | [244276-these-doomed-isles-the-first-god.json](./244276-these-doomed-isles-the-first-god.json) |
@@ -5563,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toadomination | 173243 | [173243-toadomination.json](./173243-toadomination.json) |
 | Toaplan Arcade Collection 3 | 325237 | [325237-toaplan-arcade-collection-3.json](./325237-toaplan-arcade-collection-3.json) |
 | Toaplan Arcade Collection 4 | 325236 | [325236-toaplan-arcade-collection-4.json](./325236-toaplan-arcade-collection-4.json) |
+| Toaplan Arcade Garage: Flying Fire Shark | 414454 | [414454-toaplan-arcade-garage-flying-fire-shark.json](./414454-toaplan-arcade-garage-flying-fire-shark.json) |
 | Toaplan Shooting Battle 1 | 125986 | [125986-toaplan-shooting-battle-1.json](./125986-toaplan-shooting-battle-1.json) |
 | Toaru Majutsu no Virtual-On | 55040 | [55040-toaru-majutsu-no-virtual-on.json](./55040-toaru-majutsu-no-virtual-on.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
