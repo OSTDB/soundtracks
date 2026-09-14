@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imaginator | 122419 | [122419-imaginator.json](./122419-imaginator.json) |
 | Imagine: Rescue Vet | 147432 | [147432-imagine-rescue-vet.json](./147432-imagine-rescue-vet.json) |
 | Imago | 97864 | [97864-imago.json](./97864-imago.json) |
+| iMahjong - Mahjong Pairs | 90041 | [90041-imahjong-mahjong-pairs.json](./90041-imahjong-mahjong-pairs.json) |
 | iMake IcePops | 101554 | [101554-imake-icepops.json](./101554-imake-icepops.json) |
 | Imaze.exe 2 | 113052 | [113052-imaze-exe-2.json](./113052-imaze-exe-2.json) |
 | Imhotep | 47248 | [47248-imhotep.json](./47248-imhotep.json) |
