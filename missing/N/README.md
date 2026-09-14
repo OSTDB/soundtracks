@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverseas | 301808 | [301808-neverseas.json](./301808-neverseas.json) |
 | Neversong | 133261 | [133261-neversong.json](./133261-neversong.json) |
 | NeverSynth | 225878 | [225878-neversynth.json](./225878-neversynth.json) |
+| Nevertales: Hidden Doorway - Collector's Edition | 416617 | [416617-nevertales-hidden-doorway-collectors-edition.json](./416617-nevertales-hidden-doorway-collectors-edition.json) |
 | Nevertales: Smoke and Mirrors HD | 108459 | [108459-nevertales-smoke-and-mirrors-hd.json](./108459-nevertales-smoke-and-mirrors-hd.json) |
 | Neverwinter Nights | 216 | [216-neverwinter-nights.json](./216-neverwinter-nights.json) |
 | Neverwinter Nights 2: Complete | 50322 | [50322-neverwinter-nights-2-complete.json](./50322-neverwinter-nights-2-complete.json) |
