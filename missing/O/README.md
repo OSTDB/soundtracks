@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Spin | 384495 | [384495-one-more-spin.json](./384495-one-more-spin.json) |
 | One more time... From the Top! | 178661 | [178661-one-more-time-from-the-top.json](./178661-one-more-time-from-the-top.json) |
 | One More Trail | 400855 | [400855-one-more-trail.json](./400855-one-more-trail.json) |
+| One More Wipe! | 389594 | [389594-one-more-wipe.json](./389594-one-more-wipe.json) |
 | One Night | 286505 | [286505-one-night.json](./286505-one-night.json) |
 | One Night 2: The Beyond | 111009 | [111009-one-night-2-the-beyond.json](./111009-one-night-2-the-beyond.json) |
 | One Night as Freddy | 257673 | [257673-one-night-as-freddy.json](./257673-one-night-as-freddy.json) |
