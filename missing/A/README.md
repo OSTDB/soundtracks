@@ -3217,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Avenger II | 51211 | [51211-astro-avenger-ii.json](./51211-astro-avenger-ii.json) |
 | Astro Bears Party | 54774 | [54774-astro-bears-party.json](./54774-astro-bears-party.json) |
 | Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
+| Astro Bot: Digital Deluxe Edition | 407460 | [407460-astro-bot-digital-deluxe-edition.json](./407460-astro-bot-digital-deluxe-edition.json) |
 | Astro Bot: Rescue Mission | 102129 | [102129-astro-bot-rescue-mission.json](./102129-astro-bot-rescue-mission.json) |
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
 | Astro Bot: Vicious Void | 331293 | [331293-astro-bot-vicious-void.json](./331293-astro-bot-vicious-void.json) |
