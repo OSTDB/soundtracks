@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T22:21:36.998Z",
-  "total_missing": 71427,
+  "generated_at": "2026-09-14T22:31:41.390Z",
+  "total_missing": 71437,
   "games": [
     {
       "igdb_id": 306086,
@@ -751,6 +751,11 @@
       "igdb_id": 326079,
       "game_name": "101 Cats in Singapore",
       "file": "missing/0-9/326079-101-cats-in-singapore.json"
+    },
+    {
+      "igdb_id": 382346,
+      "game_name": "101 Dogs Hidden in Australia",
+      "file": "missing/0-9/382346-101-dogs-hidden-in-australia.json"
     },
     {
       "igdb_id": 401547,
@@ -4746,11 +4751,6 @@
       "igdb_id": 18199,
       "game_name": "Aerobat",
       "file": "missing/A/18199-aerobat.json"
-    },
-    {
-      "igdb_id": 5351,
-      "game_name": "Aerobiz Supersonic",
-      "file": "missing/A/5351-aerobiz-supersonic.json"
     },
     {
       "igdb_id": 120425,
@@ -141853,6 +141853,11 @@
       "file": "missing/I/189191-imitating-zombies.json"
     },
     {
+      "igdb_id": 382343,
+      "game_name": "Imitation Girl",
+      "file": "missing/I/382343-imitation-girl.json"
+    },
+    {
       "igdb_id": 86769,
       "game_name": "IMM Defense",
       "file": "missing/I/86769-imm-defense.json"
@@ -158211,6 +158216,11 @@
       "igdb_id": 276194,
       "game_name": "Kosmos: The Discovery of Nature",
       "file": "missing/K/276194-kosmos-the-discovery-of-nature.json"
+    },
+    {
+      "igdb_id": 382345,
+      "game_name": "Kosmosis",
+      "file": "missing/K/382345-kosmosis.json"
     },
     {
       "igdb_id": 154561,
@@ -212328,6 +212338,11 @@
       "file": "missing/P/124178-pagui.json"
     },
     {
+      "igdb_id": 382342,
+      "game_name": "Pahtkest!",
+      "file": "missing/P/382342-pahtkest.json"
+    },
+    {
       "igdb_id": 409688,
       "game_name": "Paid by Blood",
       "file": "missing/P/409688-paid-by-blood.json"
@@ -225936,6 +225951,11 @@
       "igdb_id": 79900,
       "game_name": "Power Chess",
       "file": "missing/P/79900-power-chess.json"
+    },
+    {
+      "igdb_id": 382344,
+      "game_name": "Power Chips",
+      "file": "missing/P/382344-power-chips.json"
     },
     {
       "igdb_id": 42043,
@@ -263458,6 +263478,11 @@
       "file": "missing/S/186909-sky-races.json"
     },
     {
+      "igdb_id": 382347,
+      "game_name": "Sky Reach",
+      "file": "missing/S/382347-sky-reach.json"
+    },
+    {
       "igdb_id": 118332,
       "game_name": "Sky Realm: Essences",
       "file": "missing/S/118332-sky-realm-essences.json"
@@ -274941,6 +274966,11 @@
       "igdb_id": 68603,
       "game_name": "Sponchies",
       "file": "missing/S/68603-sponchies.json"
+    },
+    {
+      "igdb_id": 382339,
+      "game_name": "SpongeBob Big Guy Challenge",
+      "file": "missing/S/382339-spongebob-big-guy-challenge.json"
     },
     {
       "igdb_id": 8474,
@@ -314848,6 +314878,11 @@
       "file": "missing/T/314065-theres-an-only-one-way-exit.json"
     },
     {
+      "igdb_id": 382340,
+      "game_name": "There's Blood in my Soup",
+      "file": "missing/T/382340-theres-blood-in-my-soup.json"
+    },
+    {
       "igdb_id": 273630,
       "game_name": "There's No Easter Eggs",
       "file": "missing/T/273630-theres-no-easter-eggs.json"
@@ -323793,6 +323828,11 @@
       "file": "missing/T/227271-towerlands.json"
     },
     {
+      "igdb_id": 382337,
+      "game_name": "TowerMancer II",
+      "file": "missing/T/382337-towermancer-ii.json"
+    },
+    {
       "igdb_id": 318427,
       "game_name": "Towerø",
       "file": "missing/T/318427-tower.json"
@@ -328306,6 +328346,11 @@
       "igdb_id": 157197,
       "game_name": "Truck Truck",
       "file": "missing/T/157197-truck-truck.json"
+    },
+    {
+      "igdb_id": 382338,
+      "game_name": "Truckin' It!",
+      "file": "missing/T/382338-truckin-it.json"
     },
     {
       "igdb_id": 114961,
@@ -352076,6 +352121,11 @@
       "igdb_id": 386271,
       "game_name": "Yakuza: Like a Dragon - Limited Edition",
       "file": "missing/Y/386271-yakuza-like-a-dragon-limited-edition.json"
+    },
+    {
+      "igdb_id": 382341,
+      "game_name": "Yakuza: Like a Dragon - Pachislot Machines",
+      "file": "missing/Y/382341-yakuza-like-a-dragon-pachislot-machines.json"
     },
     {
       "igdb_id": 277306,
