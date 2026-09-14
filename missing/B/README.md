@@ -2391,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobun | 316089 | [316089-blobun.json](./316089-blobun.json) |
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
+| Block Arena | 384098 | [384098-block-arena.json](./384098-block-arena.json) |
 | Block Blast | 130896 | [130896-block-blast.json](./130896-block-blast.json) |
 | Block Bounce | 368489 | [368489-block-bounce.json](./368489-block-bounce.json) |
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
@@ -3201,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowerwhelm | 202423 | [202423-bowerwhelm.json](./202423-bowerwhelm.json) |
 | Bowl-O-Rama | 40271 | [40271-bowl-o-rama.json](./40271-bowl-o-rama.json) |
 | Bowled | 403557 | [403557-bowled.json](./403557-bowled.json) |
+| Bowlers | 384080 | [384080-bowlers.json](./384080-bowlers.json) |
 | Bowling | 131535 | [131535-bowling.json](./131535-bowling.json) |
 | Bowling | 291999 | [291999-bowling.json](./291999-bowling.json) |
 | Bowling | 300414 | [300414-bowling.json](./300414-bowling.json) |
