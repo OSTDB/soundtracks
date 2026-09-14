@@ -3786,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRSED: F.O.A.D. - Street Kid | 171060 | [171060-crsed-f-o-a-d-street-kid.json](./171060-crsed-f-o-a-d-street-kid.json) |
 | Crucial 2: The Refresh Update | 290398 | [290398-crucial-2-the-refresh-update.json](./290398-crucial-2-the-refresh-update.json) |
 | Crucible | 24653 | [24653-crucible.json](./24653-crucible.json) |
+| Crucible Falls: Together Forever | 96959 | [96959-crucible-falls-together-forever.json](./96959-crucible-falls-together-forever.json) |
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
