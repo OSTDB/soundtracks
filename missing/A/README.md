@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Racing 2 | 43930 | [43930-all-star-racing-2.json](./43930-all-star-racing-2.json) |
 | All Star Soccer | 81432 | [81432-all-star-soccer.json](./81432-all-star-soccer.json) |
 | All Star Tennis 2000 | 49880 | [49880-all-star-tennis-2000.json](./49880-all-star-tennis-2000.json) |
+| All That is Left | 384108 | [384108-all-that-is-left.json](./384108-all-that-is-left.json) |
 | All That Remains | 75789 | [75789-all-that-remains.json](./75789-all-that-remains.json) |
 | All The Colors That You Paint | 383376 | [383376-all-the-colors-that-you-paint.json](./383376-all-the-colors-that-you-paint.json) |
 | All the Delicate Duplicates | 26736 | [26736-all-the-delicate-duplicates.json](./26736-all-the-delicate-duplicates.json) |
@@ -1935,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Christmas Uni | 380395 | [380395-anime-christmas-uni.json](./380395-anime-christmas-uni.json) |
 | Anime Designer: Dragon Ball Z | 61024 | [61024-anime-designer-dragon-ball-z.json](./61024-anime-designer-dragon-ball-z.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
+| Anime Fantasy Jigsaw Puzzle 3D | 384067 | [384067-anime-fantasy-jigsaw-puzzle-3d.json](./384067-anime-fantasy-jigsaw-puzzle-3d.json) |
 | Anime Fart Simulator | 397648 | [397648-anime-fart-simulator.json](./397648-anime-fart-simulator.json) |
 | Anime Feet Aim Trainer | 371231 | [371231-anime-feet-aim-trainer.json](./371231-anime-feet-aim-trainer.json) |
 | Anime Freak FX Vol. 1 | 79350 | [79350-anime-freak-fx-vol-1.json](./79350-anime-freak-fx-vol-1.json) |
