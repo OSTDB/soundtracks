@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T19:18:54.318Z",
-  "total_missing": 70856,
+  "generated_at": "2026-09-14T19:21:31.418Z",
+  "total_missing": 70855,
   "games": [
     {
       "igdb_id": 306086,
@@ -4626,11 +4626,6 @@
       "igdb_id": 18199,
       "game_name": "Aerobat",
       "file": "missing/A/18199-aerobat.json"
-    },
-    {
-      "igdb_id": 5350,
-      "game_name": "Aerobiz",
-      "file": "missing/A/5350-aerobiz.json"
     },
     {
       "igdb_id": 5351,
