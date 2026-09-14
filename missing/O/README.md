@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O.M.G. 26: Our Mini Games | 110320 | [110320-o-m-g-26-our-mini-games.json](./110320-o-m-g-26-our-mini-games.json) |
 | O.T.D | 130330 | [130330-o-t-d.json](./130330-o-t-d.json) |
 | O'Leary Manager 2000 | 50550 | [50550-oleary-manager-2000.json](./50550-oleary-manager-2000.json) |
+| O2 | 407435 | [407435-o2.json](./407435-o2.json) |
 | O2Jam | 200163 | [200163-o2jam.json](./200163-o2jam.json) |
 | O2Jam | 72126 | [72126-o2jam.json](./72126-o2jam.json) |
 | O2Jam x DancingParty | 107799 | [107799-o2jam-x-dancingparty.json](./107799-o2jam-x-dancingparty.json) |
@@ -43,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
 | Oblivion | 77199 | [77199-oblivion.json](./77199-oblivion.json) |
 | Oblivion Congee | 183579 | [183579-oblivion-congee.json](./183579-oblivion-congee.json) |
+| Oblivion Maiden | 407419 | [407419-oblivion-maiden.json](./407419-oblivion-maiden.json) |
 | Obnulenie | 363905 | [363905-obnulenie.json](./363905-obnulenie.json) |
 | Obocchama Kun | 42040 | [42040-obocchama-kun.json](./42040-obocchama-kun.json) |
 | Obrum | 406129 | [406129-obrum.json](./406129-obrum.json) |
