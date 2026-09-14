@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taikou Risshiden V | 172698 | [172698-taikou-risshiden-v.json](./172698-taikou-risshiden-v.json) |
 | Taikyoku Igo: Goliath | 37797 | [37797-taikyoku-igo-goliath.json](./37797-taikyoku-igo-goliath.json) |
 | Taikyoku Igo: Idaten | 37796 | [37796-taikyoku-igo-idaten.json](./37796-taikyoku-igo-idaten.json) |
+| Tail and Сhaos | 410312 | [410312-tail-and-haos.json](./410312-tail-and-haos.json) |
 | Tail Drift | 17980 | [17980-tail-drift.json](./17980-tail-drift.json) |
 | Tail Gunner | 307611 | [307611-tail-gunner.json](./307611-tail-gunner.json) |
 | Tail of Glory | 390513 | [390513-tail-of-glory.json](./390513-tail-of-glory.json) |
@@ -1360,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apothecary's Apprentice | 177571 | [177571-the-apothecarys-apprentice.json](./177571-the-apothecarys-apprentice.json) |
 | The Apple of Our Time | 281374 | [281374-the-apple-of-our-time.json](./281374-the-apple-of-our-time.json) |
 | The Apple Tree | 208594 | [208594-the-apple-tree.json](./208594-the-apple-tree.json) |
+| The Apprentice | 410315 | [410315-the-apprentice.json](./410315-the-apprentice.json) |
 | The Apprentice: Los Angeles | 73815 | [73815-the-apprentice-los-angeles.json](./73815-the-apprentice-los-angeles.json) |
 | The ​Aquarium Does Not Dance | 243398 | [243398-the-aquarium-does-not-dance.json](./243398-the-aquarium-does-not-dance.json) |
 | The Aquarium of Luck | 85434 | [85434-the-aquarium-of-luck.json](./85434-the-aquarium-of-luck.json) |
@@ -1676,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chewllers | 151686 | [151686-the-chewllers.json](./151686-the-chewllers.json) |
 | The Chick C | 191265 | [191265-the-chick-c.json](./191265-the-chick-c.json) |
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
+| The Chilling Moment You Realize It: Creepy Meaning Psychological Test | 410366 | [410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json](./410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json) |
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
 | The Choreographist | 140564 | [140564-the-choreographist.json](./140564-the-choreographist.json) |
@@ -3287,6 +3290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The One Who Runs Away Is Chased | 410250 | [410250-the-one-who-runs-away-is-chased.json](./410250-the-one-who-runs-away-is-chased.json) |
 | The One Who Stands Behind | 258191 | [258191-the-one-who-stands-behind.json](./258191-the-one-who-stands-behind.json) |
 | The One: Chapter 2 | 244230 | [244230-the-one-chapter-2.json](./244230-the-one-chapter-2.json) |
+| The Ones Who Answered | 410340 | [410340-the-ones-who-answered.json](./410340-the-ones-who-answered.json) |
 | The Only One Girl 1stQ | 184049 | [184049-the-only-one-girl-1stq.json](./184049-the-only-one-girl-1stq.json) |
 | The Ooze | 46251 | [46251-the-ooze.json](./46251-the-ooze.json) |
 | The Operation Death Wing | 143654 | [143654-the-operation-death-wing.json](./143654-the-operation-death-wing.json) |
@@ -3908,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strongest Ancestor | 301614 | [301614-the-strongest-ancestor.json](./301614-the-strongest-ancestor.json) |
 | The Stronghold Collection | 27858 | [27858-the-stronghold-collection.json](./27858-the-stronghold-collection.json) |
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
+| The Subminer | 410344 | [410344-the-subminer.json](./410344-the-subminer.json) |
 | The Substance of Things | 174359 | [174359-the-substance-of-things.json](./174359-the-substance-of-things.json) |
 | The Succubi Trap | 74354 | [74354-the-succubi-trap.json](./74354-the-succubi-trap.json) |
 | The Sueño | 86088 | [86088-the-sueno.json](./86088-the-sueno.json) |
@@ -4251,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unspoken | 25908 | [25908-the-unspoken.json](./25908-the-unspoken.json) |
 | The Untitled Tower | 334500 | [334500-the-untitled-tower.json](./334500-the-untitled-tower.json) |
 | The Untouchable Man | 302391 | [302391-the-untouchable-man.json](./302391-the-untouchable-man.json) |
+| The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
@@ -4652,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
 | Thorne - Death Merchants | 33265 | [33265-thorne-death-merchants.json](./33265-thorne-death-merchants.json) |
+| Thorner | 410353 | [410353-thorner.json](./410353-thorner.json) |
 | Thorns & Spells | 47299 | [47299-thorns-and-spells.json](./47299-thorns-and-spells.json) |
 | Thoroughbred Breeder | 37789 | [37789-thoroughbred-breeder.json](./37789-thoroughbred-breeder.json) |
 | Thoroughbred Breeder II | 37788 | [37788-thoroughbred-breeder-ii.json](./37788-thoroughbred-breeder-ii.json) |
@@ -6320,7 +6327,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Scrappers | 333549 | [333549-toy-scrappers.json](./333549-toy-scrappers.json) |
 | Toy Shire | 253387 | [253387-toy-shire.json](./253387-toy-shire.json) |
 | Toy Shop | 21299 | [21299-toy-shop.json](./21299-toy-shop.json) |
+| Toy Soldiers: War Chest - Assassin’s Creed Pack | 410330 | [410330-toy-soldiers-war-chest-assassin-s-creed-pack.json](./410330-toy-soldiers-war-chest-assassin-s-creed-pack.json) |
+| Toy Soldiers: War Chest - Cobra Pack | 410323 | [410323-toy-soldiers-war-chest-cobra-pack.json](./410323-toy-soldiers-war-chest-cobra-pack.json) |
+| Toy Soldiers: War Chest - G.I. Joe Pack | 410322 | [410322-toy-soldiers-war-chest-g-i-joe-pack.json](./410322-toy-soldiers-war-chest-g-i-joe-pack.json) |
 | Toy Soldiers: War Chest - Hall of Fame Edition | 44532 | [44532-toy-soldiers-war-chest-hall-of-fame-edition.json](./44532-toy-soldiers-war-chest-hall-of-fame-edition.json) |
+| Toy Soldiers: War Chest - Masters of the Universe Pack | 410326 | [410326-toy-soldiers-war-chest-masters-of-the-universe-pack.json](./410326-toy-soldiers-war-chest-masters-of-the-universe-pack.json) |
 | Toy Story | 220099 | [220099-toy-story.json](./220099-toy-story.json) |
 | Toy Story 2: Buzz Lightyear to the Rescue! | 305791 | [305791-toy-story-2-buzz-lightyear-to-the-rescue.json](./305791-toy-story-2-buzz-lightyear-to-the-rescue.json) |
 | Toy Story 2: Operation Rescue Woody | 77330 | [77330-toy-story-2-operation-rescue-woody.json](./77330-toy-story-2-operation-rescue-woody.json) |
@@ -7150,6 +7161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucks and Things That Go Puzzle Game | 109022 | [109022-trucks-and-things-that-go-puzzle-game.json](./109022-trucks-and-things-that-go-puzzle-game.json) |
 | Trucksform3d Offroad 3D Shooting Bigfoot Endless Racing Truck | 102825 | [102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json](./102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json) |
 | Truco | 193408 | [193408-truco.json](./193408-truco.json) |
+| Truco Argentino | 410311 | [410311-truco-argentino.json](./410311-truco-argentino.json) |
 | Truco! | 259840 | [259840-truco.json](./259840-truco.json) |
 | Truco!: Chapter 1 | 259842 | [259842-truco-chapter-1.json](./259842-truco-chapter-1.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
