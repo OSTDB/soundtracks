@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T17:34:20.149Z",
-  "total_missing": 70580,
+  "generated_at": "2026-09-14T17:41:50.902Z",
+  "total_missing": 70579,
   "games": [
     {
       "igdb_id": 306086,
@@ -4566,11 +4566,6 @@
       "igdb_id": 18233,
       "game_name": "Aerial Assault",
       "file": "missing/A/18233-aerial-assault.json"
-    },
-    {
-      "igdb_id": 232175,
-      "game_name": "Aerial Austen",
-      "file": "missing/A/232175-aerial-austen.json"
     },
     {
       "igdb_id": 26123,
