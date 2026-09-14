@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T13:31:43.053Z",
-  "total_missing": 69920,
+  "generated_at": "2026-09-14T13:41:40.297Z",
+  "total_missing": 69923,
   "games": [
     {
       "igdb_id": 306086,
@@ -4436,11 +4436,6 @@
       "igdb_id": 211395,
       "game_name": "Adventures of the Old Testament: The Bible Video Game",
       "file": "missing/A/211395-adventures-of-the-old-testament-the-bible-video-game.json"
-    },
-    {
-      "igdb_id": 46016,
-      "game_name": "Adventures to Go!",
-      "file": "missing/A/46016-adventures-to-go.json"
     },
     {
       "igdb_id": 369557,
@@ -27131,6 +27126,11 @@
       "igdb_id": 405588,
       "game_name": "Beast Bastion",
       "file": "missing/B/405588-beast-bastion.json"
+    },
+    {
+      "igdb_id": 400358,
+      "game_name": "Beast Beat",
+      "file": "missing/B/400358-beast-beat.json"
     },
     {
       "igdb_id": 175381,
@@ -78666,6 +78666,11 @@
       "igdb_id": 411575,
       "game_name": "Dot Clicker",
       "file": "missing/D/411575-dot-clicker.json"
+    },
+    {
+      "igdb_id": 400361,
+      "game_name": "Dot Dash Defense",
+      "file": "missing/D/400361-dot-dash-defense.json"
     },
     {
       "igdb_id": 295803,
@@ -257608,6 +257613,11 @@
       "file": "missing/S/111061-skin-deep.json"
     },
     {
+      "igdb_id": 400360,
+      "game_name": "Skinator",
+      "file": "missing/S/400360-skinator.json"
+    },
+    {
       "igdb_id": 230292,
       "game_name": "Skincrawlers",
       "file": "missing/S/230292-skincrawlers.json"
@@ -294236,6 +294246,11 @@
       "igdb_id": 159809,
       "game_name": "The Craft of the Samurai",
       "file": "missing/T/159809-the-craft-of-the-samurai.json"
+    },
+    {
+      "igdb_id": 400355,
+      "game_name": "The Crane Rider's Tale",
+      "file": "missing/T/400355-the-crane-riders-tale.json"
     },
     {
       "igdb_id": 71000,
