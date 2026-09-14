@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
 | A Game About Fishing | 412382 | [412382-a-game-about-fishing.json](./412382-a-game-about-fishing.json) |
+| A Game About Getting Bigger | 405583 | [405583-a-game-about-getting-bigger.json](./405583-a-game-about-getting-bigger.json) |
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
 | A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
 | A Game of Dwarves: Star Dwarves | 171034 | [171034-a-game-of-dwarves-star-dwarves.json](./171034-a-game-of-dwarves-star-dwarves.json) |
@@ -380,7 +381,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
 | Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
 | Adventurer | 391046 | [391046-adventurer.json](./391046-adventurer.json) |
-| Adventurer Shop Simulator | 357784 | [357784-adventurer-shop-simulator.json](./357784-adventurer-shop-simulator.json) |
 | Adventurer's Gate | 357783 | [357783-adventurers-gate.json](./357783-adventurers-gate.json) |
 | Adventurers.io | 197371 | [197371-adventurers-io.json](./197371-adventurers-io.json) |
 | Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AeternoBlade II: Director's Rewind | 138202 | [138202-aeternoblade-ii-directors-rewind.json](./138202-aeternoblade-ii-directors-rewind.json) |
 | Aether | 357785 | [357785-aether.json](./357785-aether.json) |
 | Aether Brew | 357788 | [357788-aether-brew.json](./357788-aether-brew.json) |
+| Aether Crown | 405616 | [405616-aether-crown.json](./405616-aether-crown.json) |
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
 | Aether League | 382222 | [382222-aether-league.json](./382222-aether-league.json) |
 | Aether Singularity | 312381 | [312381-aether-singularity.json](./312381-aether-singularity.json) |
@@ -1008,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemia | 117032 | [117032-alchemia.json](./117032-alchemia.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
 | Alchemical Inc. | 190141 | [190141-alchemical-inc.json](./190141-alchemical-inc.json) |
+| Alchemist Chronicles | 405574 | [405574-alchemist-chronicles.json](./405574-alchemist-chronicles.json) |
 | Alchemist code | 75134 | [75134-alchemist-code.json](./75134-alchemist-code.json) |
 | Alchemist Tris's Desire | 211417 | [211417-alchemist-triss-desire.json](./211417-alchemist-triss-desire.json) |
 | Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
@@ -1956,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Jigsaw Girls: Christmas | 286515 | [286515-anime-jigsaw-girls-christmas.json](./286515-anime-jigsaw-girls-christmas.json) |
 | Anime Land | 91914 | [91914-anime-land.json](./91914-anime-land.json) |
 | Anime Love Chat Girls | 380394 | [380394-anime-love-chat-girls.json](./380394-anime-love-chat-girls.json) |
+| Anime Memes | 405608 | [405608-anime-memes.json](./405608-anime-memes.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
 | Anime Sexy Girl Puzzle: Hentai Game History Adventure | 267371 | [267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json](./267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json) |
@@ -2891,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Pet Chase | 70918 | [70918-arthurs-pet-chase.json](./70918-arthurs-pet-chase.json) |
 | Arthur's Reading Games | 59948 | [59948-arthurs-reading-games.json](./59948-arthurs-reading-games.json) |
 | Arthur's Revenge | 141141 | [141141-arthurs-revenge.json](./141141-arthurs-revenge.json) |
+| Arthur’s Tale | 405578 | [405578-arthur-s-tale.json](./405578-arthur-s-tale.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
 | Artifacts of Eternity | 337617 | [337617-artifacts-of-eternity.json](./337617-artifacts-of-eternity.json) |
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
@@ -2991,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
 | Ashen Knights: One Passage | 211181 | [211181-ashen-knights-one-passage.json](./211181-ashen-knights-one-passage.json) |
 | Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
+| Asher Descent | 405612 | [405612-asher-descent.json](./405612-asher-descent.json) |
 | Asheron's Call: Dark Majesty | 23735 | [23735-asherons-call-dark-majesty.json](./23735-asherons-call-dark-majesty.json) |
 | Asheron's Call: Throne of Destiny | 23736 | [23736-asherons-call-throne-of-destiny.json](./23736-asherons-call-throne-of-destiny.json) |
 | Ashes 2 | 119774 | [119774-ashes-2.json](./119774-ashes-2.json) |
