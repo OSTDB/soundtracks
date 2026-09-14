@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon on Mosaic: Anemone | 284345 | [284345-aeon-on-mosaic-anemone.json](./284345-aeon-on-mosaic-anemone.json) |
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
+| Aeonfall | 415912 | [415912-aeonfall.json](./415912-aeonfall.json) |
 | Aeons Past | 223482 | [223482-aeons-past.json](./223482-aeons-past.json) |
 | Aequitas Orbis | 75064 | [75064-aequitas-orbis.json](./75064-aequitas-orbis.json) |
 | Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
@@ -2707,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid: Revenge of Doh | 11756 | [11756-arkanoid-revenge-of-doh.json](./11756-arkanoid-revenge-of-doh.json) |
 | ArkanoidSmoking | 54452 | [54452-arkanoidsmoking.json](./54452-arkanoidsmoking.json) |
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
+| Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
 | Arlcoco: The One Winged Princess Pet | 82774 | [82774-arlcoco-the-one-winged-princess-pet.json](./82774-arlcoco-the-one-winged-princess-pet.json) |
 | Arlyeh Center for Heart Diseases | 271218 | [271218-arlyeh-center-for-heart-diseases.json](./271218-arlyeh-center-for-heart-diseases.json) |
