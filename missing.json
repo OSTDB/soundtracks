@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T13:49:23.482Z",
-  "total_missing": 69973,
+  "generated_at": "2026-09-14T13:51:38.873Z",
+  "total_missing": 69972,
   "games": [
     {
       "igdb_id": 306086,
@@ -4441,11 +4441,6 @@
       "igdb_id": 369557,
       "game_name": "Adventures with Alan Parkour 3D",
       "file": "missing/A/369557-adventures-with-alan-parkour-3d.json"
-    },
-    {
-      "igdb_id": 19403,
-      "game_name": "Adventures with Barbie: Ocean Discovery",
-      "file": "missing/A/19403-adventures-with-barbie-ocean-discovery.json"
     },
     {
       "igdb_id": 262400,
