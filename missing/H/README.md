@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Evolution Duality: Hacker Bootcamp | 171565 | [171565-hacker-evolution-duality-hacker-bootcamp.json](./171565-hacker-evolution-duality-hacker-bootcamp.json) |
 | Hacker Evolution Duality: Inception Part 2 | 171633 | [171633-hacker-evolution-duality-inception-part-2.json](./171633-hacker-evolution-duality-inception-part-2.json) |
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
+| Hacking Into Erebus | 412415 | [412415-hacking-into-erebus.json](./412415-hacking-into-erebus.json) |
 | HackLab | 185142 | [185142-hacklab.json](./185142-hacklab.json) |
 | Hacknet | 11707 | [11707-hacknet.json](./11707-hacknet.json) |
 | Hackshot | 173263 | [173263-hackshot.json](./173263-hackshot.json) |
@@ -949,7 +950,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbound | 139990 | [139990-hellbound.json](./139990-hellbound.json) |
 | Hellboy: The Science of Evil | 7007 | [7007-hellboy-the-science-of-evil.json](./7007-hellboy-the-science-of-evil.json) |
 | Hellcard | 127193 | [127193-hellcard.json](./127193-hellcard.json) |
+| Hellcrown | 412367 | [412367-hellcrown.json](./412367-hellcrown.json) |
 | Helldivers | 14523 | [14523-helldivers.json](./14523-helldivers.json) |
+| Helldivers 2: Devoid of Liberty | 412429 | [412429-helldivers-2-devoid-of-liberty.json](./412429-helldivers-2-devoid-of-liberty.json) |
 | Helldivers II: Super Citizen Edition | 267925 | [267925-helldivers-ii-super-citizen-edition.json](./267925-helldivers-ii-super-citizen-edition.json) |
 | Helldivers: A New Hell | 267932 | [267932-helldivers-a-new-hell.json](./267932-helldivers-a-new-hell.json) |
 | Helldivers: Dive Harder | 267938 | [267938-helldivers-dive-harder.json](./267938-helldivers-dive-harder.json) |
@@ -1544,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Pleasure: Closer and Closer | 409531 | [409531-hidden-pleasure-closer-and-closer.json](./409531-hidden-pleasure-closer-and-closer.json) |
 | Hidden Pointsman | 107124 | [107124-hidden-pointsman.json](./107124-hidden-pointsman.json) |
 | Hidden Portals: Eternal Balance | 416701 | [416701-hidden-portals-eternal-balance.json](./416701-hidden-portals-eternal-balance.json) |
+| Hidden Rabbit 2 | 412386 | [412386-hidden-rabbit-2.json](./412386-hidden-rabbit-2.json) |
 | Hidden Robo Cats | 287074 | [287074-hidden-robo-cats.json](./287074-hidden-robo-cats.json) |
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
@@ -2009,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homura: The Crimson Warriors - Deluxe Edition | 390530 | [390530-homura-the-crimson-warriors-deluxe-edition.json](./390530-homura-the-crimson-warriors-deluxe-edition.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honest Helper | 349324 | [349324-honest-helper.json](./349324-honest-helper.json) |
+| Honest War | 412353 | [412353-honest-war.json](./412353-honest-war.json) |
 | Honest Work | 416670 | [416670-honest-work.json](./416670-honest-work.json) |
 | Honey | 196245 | [196245-honey.json](./196245-honey.json) |
 | Honey Bee | 47211 | [47211-honey-bee.json](./47211-honey-bee.json) |
