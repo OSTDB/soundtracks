@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanyo Pachinko Paradise | 55926 | [55926-sanyo-pachinko-paradise.json](./55926-sanyo-pachinko-paradise.json) |
 | Sanyo Pachinko Paradise 2: Umi Monogatari Special | 55942 | [55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json](./55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json) |
 | Sanyo Pachinko Paradise 3 | 55927 | [55927-sanyo-pachinko-paradise-3.json](./55927-sanyo-pachinko-paradise-3.json) |
+| Sanzensekai no Ko wo Koroshi | 399061 | [399061-sanzensekai-no-ko-wo-koroshi.json](./399061-sanzensekai-no-ko-wo-koroshi.json) |
 | Saphyro | 164978 | [164978-saphyro.json](./164978-saphyro.json) |
 | Sapiens | 55032 | [55032-sapiens.json](./55032-sapiens.json) |
 | Sapiens League | 232437 | [232437-sapiens-league.json](./232437-sapiens-league.json) |
@@ -3627,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Who's Dr. Rabbit? | 291974 | [291974-so-whos-dr-rabbit.json](./291974-so-whos-dr-rabbit.json) |
 | So-Gnar | 176465 | [176465-so-gnar.json](./176465-so-gnar.json) |
 | Soak & Splash | 250948 | [250948-soak-and-splash.json](./250948-soak-and-splash.json) |
+| Soap Killer | 399075 | [399075-soap-killer.json](./399075-soap-killer.json) |
 | Soapy Tales | 392763 | [392763-soapy-tales.json](./392763-soapy-tales.json) |
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
@@ -5050,6 +5052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral Clicker | 110994 | [110994-spiral-clicker.json](./110994-spiral-clicker.json) |
 | Spiral House | 178015 | [178015-spiral-house.json](./178015-spiral-house.json) |
 | Spiral Wave | 42045 | [42045-spiral-wave.json](./42045-spiral-wave.json) |
+| Spiral!! | 399062 | [399062-spiral.json](./399062-spiral.json) |
 | Spiralagon | 122342 | [122342-spiralagon.json](./122342-spiralagon.json) |
 | Spire Horizon | 257687 | [257687-spire-horizon.json](./257687-spire-horizon.json) |
 | Spire Horizon Online | 304871 | [304871-spire-horizon-online.json](./304871-spire-horizon-online.json) |
@@ -7809,6 +7812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstar Chefs | 57666 | [57666-superstar-chefs.json](./57666-superstar-chefs.json) |
 | SuperStar Ebidan | 373026 | [373026-superstar-ebidan.json](./373026-superstar-ebidan.json) |
 | SuperStar JYPNation | 105971 | [105971-superstar-jypnation.json](./105971-superstar-jypnation.json) |
+| Superstar LDH | 399056 | [399056-superstar-ldh.json](./399056-superstar-ldh.json) |
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
 | Superstar Streetz | 186318 | [186318-superstar-streetz.json](./186318-superstar-streetz.json) |
 | Superstars V8: Next Challenge | 20499 | [20499-superstars-v8-next-challenge.json](./20499-superstars-v8-next-challenge.json) |
