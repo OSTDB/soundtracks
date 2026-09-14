@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinsei Game 64 | 3530 | [3530-jinsei-game-64.json](./3530-jinsei-game-64.json) |
 | Jinsei Game for Dreamcast | 131569 | [131569-jinsei-game-for-dreamcast.json](./131569-jinsei-game-for-dreamcast.json) |
 | Jīnyōng Qúnxiá Zhuán | 78043 | [78043-jinyong-qunxia-zhuan.json](./78043-jinyong-qunxia-zhuan.json) |
+| JiPS | 33203 | [33203-jips.json](./33203-jips.json) |
 | Jisatsu | 278971 | [278971-jisatsu.json](./278971-jisatsu.json) |
 | Jishogi | 199614 | [199614-jishogi.json](./199614-jishogi.json) |
 | Jissen Kyoutei | 42643 | [42643-jissen-kyoutei.json](./42643-jissen-kyoutei.json) |
