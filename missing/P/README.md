@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pangolin Love: Day 4 - The Philippines | 375815 | [375815-pangolin-love-day-4-the-philippines.json](./375815-pangolin-love-day-4-the-philippines.json) |
 | Panic | 245858 | [245858-panic.json](./245858-panic.json) |
 | Panic 64 | 130373 | [130373-panic-64.json](./130373-panic-64.json) |
+| Panic at Multiverse High! | 31660 | [31660-panic-at-multiverse-high.json](./31660-panic-at-multiverse-high.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
 | Panic Crisis Mage Attack | 128636 | [128636-panic-crisis-mage-attack.json](./128636-panic-crisis-mage-attack.json) |
 | Panic in the Park | 69251 | [69251-panic-in-the-park.json](./69251-panic-in-the-park.json) |
@@ -1478,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Lockdown | 133432 | [133432-pinball-lockdown.json](./133432-pinball-lockdown.json) |
 | Pinball M: Bethesda Pinball | 386717 | [386717-pinball-m-bethesda-pinball.json](./386717-pinball-m-bethesda-pinball.json) |
 | Pinball M: Duke Nukem's Big Shot Pinball | 276743 | [276743-pinball-m-duke-nukems-big-shot-pinball.json](./276743-pinball-m-duke-nukems-big-shot-pinball.json) |
+| Pinball Parlor | 31684 | [31684-pinball-parlor.json](./31684-pinball-parlor.json) |
 | Pinball Prelude | 15564 | [15564-pinball-prelude.json](./15564-pinball-prelude.json) |
 | Pinball Pulse: The Ancients Beckon | 67355 | [67355-pinball-pulse-the-ancients-beckon.json](./67355-pinball-pulse-the-ancients-beckon.json) |
 | Pinball Quest | 48026 | [48026-pinball-quest.json](./48026-pinball-quest.json) |
@@ -1981,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platinum Kill | 112272 | [112272-platinum-kill.json](./112272-platinum-kill.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
 | Platonic Paranoia | 117863 | [117863-platonic-paranoia.json](./117863-platonic-paranoia.json) |
+| Platro | 31346 | [31346-platro.json](./31346-platro.json) |
 | Platwormer | 181325 | [181325-platwormer.json](./181325-platwormer.json) |
 | Platypus Evolution | 268491 | [268491-platypus-evolution.json](./268491-platypus-evolution.json) |
 | Platypus II | 36229 | [36229-platypus-ii.json](./36229-platypus-ii.json) |
@@ -2762,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: Warhammer 40,000 Content Pack | 251220 | [251220-powerwash-simulator-warhammer-40-000-content-pack.json](./251220-powerwash-simulator-warhammer-40-000-content-pack.json) |
 | PowerZ | 146317 | [146317-powerz.json](./146317-powerz.json) |
 | Poy Poy | 45092 | [45092-poy-poy.json](./45092-poy-poy.json) |
+| Pozzo Jello Crusade | 31807 | [31807-pozzo-jello-crusade.json](./31807-pozzo-jello-crusade.json) |
 | PP: Pathetic Predator | 364479 | [364479-pp-pathetic-predator.json](./364479-pp-pathetic-predator.json) |
 | Ppoi: Hitonatsu no Keiken | 203373 | [203373-ppoi-hitonatsu-no-keiken.json](./203373-ppoi-hitonatsu-no-keiken.json) |
 | PQ: Practical Intelligence Quotient | 46019 | [46019-pq-practical-intelligence-quotient.json](./46019-pq-practical-intelligence-quotient.json) |
@@ -3562,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PumPum | 159883 | [159883-pumpum.json](./159883-pumpum.json) |
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
 | Punch Ball Mario Bros. | 91994 | [91994-punch-ball-mario-bros.json](./91994-punch-ball-mario-bros.json) |
+| Punch Bomb | 31852 | [31852-punch-bomb.json](./31852-punch-bomb.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
 | Punch Club: Deluxe Edition | 51882 | [51882-punch-club-deluxe-edition.json](./51882-punch-club-deluxe-edition.json) |
 | Punch Club: The Dark Fist | 18097 | [18097-punch-club-the-dark-fist.json](./18097-punch-club-the-dark-fist.json) |
