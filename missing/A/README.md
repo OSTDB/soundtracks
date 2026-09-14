@@ -405,7 +405,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ae | 184042 | [184042-ae.json](./184042-ae.json) |
 | Aeolis Tournament | 120419 | [120419-aeolis-tournament.json](./120419-aeolis-tournament.json) |
 | Aeon Flux | 15847 | [15847-aeon-flux.json](./15847-aeon-flux.json) |
-| Aeon on Mosaic: Anemone | 284345 | [284345-aeon-on-mosaic-anemone.json](./284345-aeon-on-mosaic-anemone.json) |
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aeonfall | 415912 | [415912-aeonfall.json](./415912-aeonfall.json) |
