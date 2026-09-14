@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports PGA Tour | 145232 | [145232-ea-sports-pga-tour.json](./145232-ea-sports-pga-tour.json) |
 | EA Sports UFC 3 | 75297 | [75297-ea-sports-ufc-3.json](./75297-ea-sports-ufc-3.json) |
 | EA Sports UFC 5: Mike Tyson | 297457 | [297457-ea-sports-ufc-5-mike-tyson.json](./297457-ea-sports-ufc-5-mike-tyson.json) |
+| EA Sports UFC 6: Ultimate Edition | 402962 | [402962-ea-sports-ufc-6-ultimate-edition.json](./402962-ea-sports-ufc-6-ultimate-edition.json) |
 | Eador: Masters of the Broken World | 7719 | [7719-eador-masters-of-the-broken-world.json](./7719-eador-masters-of-the-broken-world.json) |
 | Eador: Masters of the Broken World - Allied Forces | 9206 | [9206-eador-masters-of-the-broken-world-allied-forces.json](./9206-eador-masters-of-the-broken-world-allied-forces.json) |
 | Eagle | 13626 | [13626-eagle.json](./13626-eagle.json) |
@@ -206,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Sin: Confusion | 400239 | [400239-echoes-of-sin-confusion.json](./400239-echoes-of-sin-confusion.json) |
 | Echoes of Somewhere: Series 1 | 240801 | [240801-echoes-of-somewhere-series-1.json](./240801-echoes-of-somewhere-series-1.json) |
 | Echoes of Steel | 277851 | [277851-echoes-of-steel.json](./277851-echoes-of-steel.json) |
+| Echoes of Stella | 403011 | [403011-echoes-of-stella.json](./403011-echoes-of-stella.json) |
 | Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
 | Echoes of the Hive | 373523 | [373523-echoes-of-the-hive.json](./373523-echoes-of-the-hive.json) |
 | Echoes of the Past | 168391 | [168391-echoes-of-the-past.json](./168391-echoes-of-the-past.json) |
