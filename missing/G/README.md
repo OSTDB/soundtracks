@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations IV: Warlords | 277002 | [277002-galactic-civilizations-iv-warlords.json](./277002-galactic-civilizations-iv-warlords.json) |
 | Galactic Command Echo Squad SE | 17156 | [17156-galactic-command-echo-squad-se.json](./17156-galactic-command-echo-squad-se.json) |
 | Galactic Commandos | 250014 | [250014-galactic-commandos.json](./250014-galactic-commandos.json) |
+| Galactic Core: The Lost Fleet | 30100 | [30100-galactic-core-the-lost-fleet.json](./30100-galactic-core-the-lost-fleet.json) |
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
 | Galactic Empire | 240484 | [240484-galactic-empire.json](./240484-galactic-empire.json) |
 | Galactic Express | 381041 | [381041-galactic-express.json](./381041-galactic-express.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Domination | 15480 | [15480-global-domination.json](./15480-global-domination.json) |
 | Global Folktale | 254538 | [254538-global-folktale.json](./254538-global-folktale.json) |
 | Global Operations | 8744 | [8744-global-operations.json](./8744-global-operations.json) |
+| Global Outbreak: Doomsday Edition | 30254 | [30254-global-outbreak-doomsday-edition.json](./30254-global-outbreak-doomsday-edition.json) |
 | Global Shipping Simulator | 326414 | [326414-global-shipping-simulator.json](./326414-global-shipping-simulator.json) |
 | Global Soccer Manager 2015 | 98428 | [98428-global-soccer-manager-2015.json](./98428-global-soccer-manager-2015.json) |
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
@@ -1391,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Cart Race | 105919 | [105919-golf-cart-race.json](./105919-golf-cart-race.json) |
 | Golf Escape | 281387 | [281387-golf-escape.json](./281387-golf-escape.json) |
 | Golf For Fun in Ice | 173229 | [173229-golf-for-fun-in-ice.json](./173229-golf-for-fun-in-ice.json) |
+| Golf for Workgroups | 30109 | [30109-golf-for-workgroups.json](./30109-golf-for-workgroups.json) |
 | Golf Gang | 142998 | [142998-golf-gang.json](./142998-golf-gang.json) |
 | Golf Guys: Complete Edition | 283174 | [283174-golf-guys-complete-edition.json](./283174-golf-guys-complete-edition.json) |
 | Golf is Hard | 237963 | [237963-golf-is-hard.json](./237963-golf-is-hard.json) |
@@ -2053,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grottonnia | 171560 | [171560-grottonnia.json](./171560-grottonnia.json) |
 | Grouls | 329010 | [329010-grouls.json](./329010-grouls.json) |
 | Ground Attack | 84255 | [84255-ground-attack.json](./84255-ground-attack.json) |
+| Ground Control Anthology | 30240 | [30240-ground-control-anthology.json](./30240-ground-control-anthology.json) |
 | Ground Divers | 204436 | [204436-ground-divers.json](./204436-ground-divers.json) |
 | Ground Force Zero | 71550 | [71550-ground-force-zero.json](./71550-ground-force-zero.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
@@ -2314,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfighter | 347675 | [347675-gunfighter.json](./347675-gunfighter.json) |
 | Gunfighter | 95448 | [95448-gunfighter.json](./95448-gunfighter.json) |
 | Gunfire Reborn: Visitors of Spirit Realm | 213979 | [213979-gunfire-reborn-visitors-of-spirit-realm.json](./213979-gunfire-reborn-visitors-of-spirit-realm.json) |
+| GunFleet | 30023 | [30023-gunfleet.json](./30023-gunfleet.json) |
 | Gunfright | 14102 | [14102-gunfright.json](./14102-gunfright.json) |
 | GunGirl 2 | 23720 | [23720-gungirl-2.json](./23720-gungirl-2.json) |
 | Gungrave G.O.R.E: Blood Heat | 370130 | [370130-gungrave-g-o-r-e-blood-heat.json](./370130-gungrave-g-o-r-e-blood-heat.json) |
