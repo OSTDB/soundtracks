@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
+| Fantasy Blacksmith Simulator | 410333 | [410333-fantasy-blacksmith-simulator.json](./410333-fantasy-blacksmith-simulator.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
 | Fantasy Dash | 188027 | [188027-fantasy-dash.json](./188027-fantasy-dash.json) |
 | Fantasy Dynasty: Le Château Deretic | 99639 | [99639-fantasy-dynasty-le-chateau-deretic.json](./99639-fantasy-dynasty-le-chateau-deretic.json) |
@@ -841,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernageddon | 258196 | [258196-fernageddon.json](./258196-fernageddon.json) |
 | Fernandez Must Die | 12092 | [12092-fernandez-must-die.json](./12092-fernandez-must-die.json) |
 | Fernbus Simulator: Denmark | 254769 | [254769-fernbus-simulator-denmark.json](./254769-fernbus-simulator-denmark.json) |
+| Fernhoof Grove: Riding Academy | 410336 | [410336-fernhoof-grove-riding-academy.json](./410336-fernhoof-grove-riding-academy.json) |
 | Fernocity | 272014 | [272014-fernocity.json](./272014-fernocity.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259269 | [259269-ferrari-challenge-trofeo-pirelli.json](./259269-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259270 | [259270-ferrari-challenge-trofeo-pirelli.json](./259270-ferrari-challenge-trofeo-pirelli.json) |
@@ -1899,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flux Empyrean | 383372 | [383372-flux-empyrean.json](./383372-flux-empyrean.json) |
 | Flux Family Secrets: The Rabbit Hole | 209458 | [209458-flux-family-secrets-the-rabbit-hole.json](./209458-flux-family-secrets-the-rabbit-hole.json) |
 | Flux Family Secrets: The Ripple Effect | 144973 | [144973-flux-family-secrets-the-ripple-effect.json](./144973-flux-family-secrets-the-ripple-effect.json) |
+| Flux Heroes | 410314 | [410314-flux-heroes.json](./410314-flux-heroes.json) |
 | Flux8 | 50513 | [50513-flux8.json](./50513-flux8.json) |
 | Fly & Poop | 200182 | [200182-fly-and-poop.json](./200182-fly-and-poop.json) |
 | Fly a Kite | 365070 | [365070-fly-a-kite.json](./365070-fly-a-kite.json) |
@@ -2142,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forep Man | 121628 | [121628-forep-man.json](./121628-forep-man.json) |
 | Forest | 185166 | [185166-forest.json](./185166-forest.json) |
 | Forest | 187538 | [187538-forest.json](./187538-forest.json) |
+| Forest 6174 | 410354 | [410354-forest-6174.json](./410354-forest-6174.json) |
 | Forest Adventure | 195727 | [195727-forest-adventure.json](./195727-forest-adventure.json) |
 | Forest Battle | 166732 | [166732-forest-battle.json](./166732-forest-battle.json) |
 | Forest Camp Story | 174297 | [174297-forest-camp-story.json](./174297-forest-camp-story.json) |
@@ -2669,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Affirmations | 229071 | [229071-frog-affirmations.json](./229071-frog-affirmations.json) |
 | Frog And Roll | 266810 | [266810-frog-and-roll.json](./266810-frog-and-roll.json) |
 | Frog Detective 3: Corruption at Cowboy County | 161552 | [161552-frog-detective-3-corruption-at-cowboy-county.json](./161552-frog-detective-3-corruption-at-cowboy-county.json) |
+| Frog Fall | 410328 | [410328-frog-fall.json](./410328-frog-fall.json) |
 | Frog Fall Down | 192430 | [192430-frog-fall-down.json](./192430-frog-fall-down.json) |
 | Frog Familiar | 195734 | [195734-frog-familiar.json](./195734-frog-familiar.json) |
 | Frog Feast | 270407 | [270407-frog-feast.json](./270407-frog-feast.json) |
