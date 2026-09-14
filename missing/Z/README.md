@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Barricades | 103424 | [103424-zombie-barricades.json](./103424-zombie-barricades.json) |
 | Zombie Beyond Terror: FPS Survival | 196829 | [196829-zombie-beyond-terror-fps-survival.json](./196829-zombie-beyond-terror-fps-survival.json) |
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
+| Zombie Builder Defense | 111211 | [111211-zombie-builder-defense.json](./111211-zombie-builder-defense.json) |
 | Zombie Buster VR | 28886 | [28886-zombie-buster-vr.json](./28886-zombie-buster-vr.json) |
 | Zombie Clicker Defense | 83526 | [83526-zombie-clicker-defense.json](./83526-zombie-clicker-defense.json) |
 | Zombie Dead Smasher Shooter: Premium Edition | 283163 | [283163-zombie-dead-smasher-shooter-premium-edition.json](./283163-zombie-dead-smasher-shooter-premium-edition.json) |
