@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Panic | 50631 | [50631-fast-food-panic.json](./50631-fast-food-panic.json) |
 | Fast Food Rage | 386700 | [386700-fast-food-rage.json](./386700-fast-food-rage.json) |
 | Fast Food Rampage | 96680 | [96680-fast-food-rampage.json](./96680-fast-food-rampage.json) |
+| Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
 | FastBall 2 | 257370 | [257370-fastball-2.json](./257370-fastball-2.json) |
 | Faster Harder More Challenging Q*bert | 39671 | [39671-faster-harder-more-challenging-q-bert.json](./39671-faster-harder-more-challenging-q-bert.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Commander: First Response | 166188 | [166188-fire-commander-first-response.json](./166188-fire-commander-first-response.json) |
 | Fire Emblem 7 Legacy | 373022 | [373022-fire-emblem-7-legacy.json](./373022-fire-emblem-7-legacy.json) |
 | Fire Emblem 8: Self-Randomizing | 259869 | [259869-fire-emblem-8-self-randomizing.json](./259869-fire-emblem-8-self-randomizing.json) |
+| Fire Emblem 8R | 380529 | [380529-fire-emblem-8r.json](./380529-fire-emblem-8r.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
 | Fire Emblem: Blessed Heart | 214493 | [214493-fire-emblem-blessed-heart.json](./214493-fire-emblem-blessed-heart.json) |
 | Fire Emblem: Dark Lord and The Maiden of Light | 214537 | [214537-fire-emblem-dark-lord-and-the-maiden-of-light.json](./214537-fire-emblem-dark-lord-and-the-maiden-of-light.json) |
@@ -2696,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frenzy | 13717 | [13717-frenzy.json](./13717-frenzy.json) |
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
 | Fresh Tracks Snowboarding | 344907 | [344907-fresh-tracks-snowboarding.json](./344907-fresh-tracks-snowboarding.json) |
+| Fresh Tracks VR | 380569 | [380569-fresh-tracks-vr.json](./380569-fresh-tracks-vr.json) |
 | FreshWomen: Season 3 | 411674 | [411674-freshwomen-season-3.json](./411674-freshwomen-season-3.json) |
 | Freud Gate | 125200 | [125200-freud-gate.json](./125200-freud-gate.json) |
 | Freya's Potion Shop | 157702 | [157702-freyas-potion-shop.json](./157702-freyas-potion-shop.json) |
@@ -2823,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froglin Friend and the White Tower: Pt1 | 210692 | [210692-froglin-friend-and-the-white-tower-pt1.json](./210692-froglin-friend-and-the-white-tower-pt1.json) |
 | Frogman Magmaborn | 190144 | [190144-frogman-magmaborn.json](./190144-frogman-magmaborn.json) |
 | Frogs Also Struggle | 258202 | [258202-frogs-also-struggle.json](./258202-frogs-also-struggle.json) |
+| Frogshot Adventure | 380559 | [380559-frogshot-adventure.json](./380559-frogshot-adventure.json) |
 | FrogStatue | 104046 | [104046-frogstatue.json](./104046-frogstatue.json) |
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
