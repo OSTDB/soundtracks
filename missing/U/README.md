@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra CDi Soccer | 45904 | [45904-ultra-cdi-soccer.json](./45904-ultra-cdi-soccer.json) |
 | Ultra Fighters | 95454 | [95454-ultra-fighters.json](./95454-ultra-fighters.json) |
 | Ultra Foodmess: Deluxe Edition | 287114 | [287114-ultra-foodmess-deluxe-edition.json](./287114-ultra-foodmess-deluxe-edition.json) |
+| Ultra Frontier QQYYZZ | 387526 | [387526-ultra-frontier-qqyyzz.json](./387526-ultra-frontier-qqyyzz.json) |
 | Ultra Hyperball | 51950 | [51950-ultra-hyperball.json](./51950-ultra-hyperball.json) |
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
 | Ultra Mega Xtra Party Challenge | 201784 | [201784-ultra-mega-xtra-party-challenge.json](./201784-ultra-mega-xtra-party-challenge.json) |
@@ -776,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
 | Urban Jungle: Brother's Wedding Story | 401001 | [401001-urban-jungle-brothers-wedding-story.json](./401001-urban-jungle-brothers-wedding-story.json) |
 | Urban Mercenary | 146297 | [146297-urban-mercenary.json](./146297-urban-mercenary.json) |
+| Urban Myth.exe | 387551 | [387551-urban-myth-exe.json](./387551-urban-myth-exe.json) |
 | Urban Shadows Racing Tokyo | 371905 | [371905-urban-shadows-racing-tokyo.json](./371905-urban-shadows-racing-tokyo.json) |
 | Urban Street Fighting | 147476 | [147476-urban-street-fighting.json](./147476-urban-street-fighting.json) |
 | Urban Terror | 9532 | [9532-urban-terror.json](./9532-urban-terror.json) |
@@ -823,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UT Realms Reborn | 122992 | [122992-ut-realms-reborn.json](./122992-ut-realms-reborn.json) |
 | Uta Kumi 575 | 42670 | [42670-uta-kumi-575.json](./42670-uta-kumi-575.json) |
 | Utakata no R: Kako-hen Awayuki | 221743 | [221743-utakata-no-r-kako-hen-awayuki.json](./221743-utakata-no-r-kako-hen-awayuki.json) |
+| Utawarerumono: Past and Present Rediscovered | 387541 | [387541-utawarerumono-past-and-present-rediscovered.json](./387541-utawarerumono-past-and-present-rediscovered.json) |
 | Utherous | 60488 | [60488-utherous.json](./60488-utherous.json) |
 | Utility for the Soul | 312571 | [312571-utility-for-the-soul.json](./312571-utility-for-the-soul.json) |
 | Utopia 9: A Volatile Vacation | 20360 | [20360-utopia-9-a-volatile-vacation.json](./20360-utopia-9-a-volatile-vacation.json) |
