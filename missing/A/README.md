@@ -381,7 +381,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
 | Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
 | Adventurer | 391046 | [391046-adventurer.json](./391046-adventurer.json) |
-| Adventurer's Gate | 357783 | [357783-adventurers-gate.json](./357783-adventurers-gate.json) |
 | Adventurers.io | 197371 | [197371-adventurers-io.json](./197371-adventurers-io.json) |
 | Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
 | Adventures in Calculon | 357781 | [357781-adventures-in-calculon.json](./357781-adventures-in-calculon.json) |
