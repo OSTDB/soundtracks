@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Showdown | 141898 | [141898-santa-showdown.json](./141898-santa-showdown.json) |
 | Santa Simulator | 112993 | [112993-santa-simulator.json](./112993-santa-simulator.json) |
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
+| Santa's Big Adventures | 30075 | [30075-santas-big-adventures.json](./30075-santas-big-adventures.json) |
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
 | Santa's Factory | 279588 | [279588-santas-factory.json](./279588-santas-factory.json) |
 | Santa's Gifts | 225074 | [225074-santas-gifts.json](./225074-santas-gifts.json) |
@@ -519,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satella-Q: Nenmatsu Jumbo Takara Quiz | 234040 | [234040-satella-q-nenmatsu-jumbo-takara-quiz.json](./234040-satella-q-nenmatsu-jumbo-takara-quiz.json) |
 | Satellina | 128557 | [128557-satellina.json](./128557-satellina.json) |
 | Satellite Command | 31778 | [31778-satellite-command.json](./31778-satellite-command.json) |
+| Satellite Repairman | 30015 | [30015-satellite-repairman.json](./30015-satellite-repairman.json) |
 | SatelliTV | 386678 | [386678-satellitv.json](./386678-satellitv.json) |
 | Satisdom | 337095 | [337095-satisdom.json](./337095-satisdom.json) |
 | Satiszone | 332420 | [332420-satiszone.json](./332420-satiszone.json) |
@@ -757,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
 | Scopophobia | 361678 | [361678-scopophobia.json](./361678-scopophobia.json) |
 | Scorb VR | 75082 | [75082-scorb-vr.json](./75082-scorb-vr.json) |
+| Scorch | 30137 | [30137-scorch.json](./30137-scorch.json) |
 | Scorched 3D | 51249 | [51249-scorched-3d.json](./51249-scorched-3d.json) |
 | Scorched Earth | 14431 | [14431-scorched-earth.json](./14431-scorched-earth.json) |
 | Scorched Lands | 401536 | [401536-scorched-lands.json](./401536-scorched-lands.json) |
@@ -1822,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenmue III: Deluxe Edition | 154513 | [154513-shenmue-iii-deluxe-edition.json](./154513-shenmue-iii-deluxe-edition.json) |
 | Shennong: Taste of Illusion | 113015 | [113015-shennong-taste-of-illusion.json](./113015-shennong-taste-of-illusion.json) |
 | Shēnyuān | 165700 | [165700-shenyuan.json](./165700-shenyuan.json) |
+| Shenzhen Solitaire | 30085 | [30085-shenzhen-solitaire.json](./30085-shenzhen-solitaire.json) |
 | Shepherd of Light | 121594 | [121594-shepherd-of-light.json](./121594-shepherd-of-light.json) |
 | Shepherd's Crossing | 43270 | [43270-shepherds-crossing.json](./43270-shepherds-crossing.json) |
 | Shepherd's Eye | 288230 | [288230-shepherds-eye.json](./288230-shepherds-eye.json) |
@@ -6944,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dark Deception | 224549 | [224549-super-dark-deception.json](./224549-super-dark-deception.json) |
 | Super Darts VR | 111720 | [111720-super-darts-vr.json](./111720-super-darts-vr.json) |
 | Super Dash | 302361 | [302361-super-dash.json](./302361-super-dash.json) |
+| Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
 | Super Destronaut 2: Go Duck Yourself | 84917 | [84917-super-destronaut-2-go-duck-yourself.json](./84917-super-destronaut-2-go-duck-yourself.json) |
 | Super Destronaut 3D | 84916 | [84916-super-destronaut-3d.json](./84916-super-destronaut-3d.json) |
 | Super Destronaut DX | 104862 | [104862-super-destronaut-dx.json](./104862-super-destronaut-dx.json) |
