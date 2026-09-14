@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exclusive Memory | 319938 | [319938-exclusive-memory.json](./319938-exclusive-memory.json) |
 | Excubitor | 19332 | [19332-excubitor.json](./19332-excubitor.json) |
 | Excursus | 177025 | [177025-excursus.json](./177025-excursus.json) |
+| EXD: Extra Dimensional | 380540 | [380540-exd-extra-dimensional.json](./380540-exd-extra-dimensional.json) |
 | Execute Daddy: Papa ga Nandemo Shinu Game | 215889 | [215889-execute-daddy-papa-ga-nandemo-shinu-game.json](./215889-execute-daddy-papa-ga-nandemo-shinu-game.json) |
 | Executive Assault 2 | 110573 | [110573-executive-assault-2.json](./110573-executive-assault-2.json) |
 | Executive Command | 207842 | [207842-executive-command.json](./207842-executive-command.json) |
