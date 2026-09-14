@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangle | 274996 | [274996-dangle.json](./274996-dangle.json) |
 | Dango Thief | 242539 | [242539-dango-thief.json](./242539-dango-thief.json) |
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
+| Danko and treasure map | 29990 | [29990-danko-and-treasure-map.json](./29990-danko-and-treasure-map.json) |
 | DanLab's Golf | 315825 | [315825-danlabs-golf.json](./315825-danlabs-golf.json) |
 | DanMachi Battle Chronicle | 263485 | [263485-danmachi-battle-chronicle.json](./263485-danmachi-battle-chronicle.json) |
 | Danmakai: Red Forbidden Fruit | 140040 | [140040-danmakai-red-forbidden-fruit.json](./140040-danmakai-red-forbidden-fruit.json) |
@@ -493,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Frenzy | 280785 | [280785-darts-frenzy.json](./280785-darts-frenzy.json) |
 | Darumeshi Sports Store | 230306 | [230306-darumeshi-sports-store.json](./230306-darumeshi-sports-store.json) |
 | Darwin | 309853 | [309853-darwin.json](./309853-darwin.json) |
+| Darwin's Demons | 30105 | [30105-darwins-demons.json](./30105-darwins-demons.json) |
 | Darwin's Legacy | 184596 | [184596-darwins-legacy.json](./184596-darwins-legacy.json) |
 | Darwins Trash | 370149 | [370149-darwins-trash.json](./370149-darwins-trash.json) |
 | Das Boot: German U-Boat Simulation | 14332 | [14332-das-boot-german-u-boat-simulation.json](./14332-das-boot-german-u-boat-simulation.json) |
@@ -977,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
 | Deathbound: Accepted by Death | 320735 | [320735-deathbound-accepted-by-death.json](./320735-deathbound-accepted-by-death.json) |
 | Deathgarden: Bloodharvest | 119923 | [119923-deathgarden-bloodharvest.json](./119923-deathgarden-bloodharvest.json) |
+| Deathlike: Awakening | 30089 | [30089-deathlike-awakening.json](./30089-deathlike-awakening.json) |
 | Deathloop + Ghostwire: Tokyo Bundle | 281406 | [281406-deathloop-ghostwire-tokyo-bundle.json](./281406-deathloop-ghostwire-tokyo-bundle.json) |
 | Deathly Storm: The Edge of Life | 88184 | [88184-deathly-storm-the-edge-of-life.json](./88184-deathly-storm-the-edge-of-life.json) |
 | DeathMatch | 117685 | [117685-deathmatch.json](./117685-deathmatch.json) |
@@ -2916,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Nekketsu Monogatari 2 | 66084 | [66084-downtown-nekketsu-monogatari-2.json](./66084-downtown-nekketsu-monogatari-2.json) |
 | Downtown River City Baseball Story: Play Ball, Kunio! | 38277 | [38277-downtown-river-city-baseball-story-play-ball-kunio.json](./38277-downtown-river-city-baseball-story-play-ball-kunio.json) |
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
+| Downward Spiral: Prologue | 29981 | [29981-downward-spiral-prologue.json](./29981-downward-spiral-prologue.json) |
 | Downward: Enhanced Edition | 301912 | [301912-downward-enhanced-edition.json](./301912-downward-enhanced-edition.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
@@ -3556,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
 | Droplet Shuffle | 61057 | [61057-droplet-shuffle.json](./61057-droplet-shuffle.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
+| Dropzone | 30116 | [30116-dropzone.json](./30116-dropzone.json) |
 | DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
 | Drowned Helicopter | 166695 | [166695-drowned-helicopter.json](./166695-drowned-helicopter.json) |
