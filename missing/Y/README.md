@@ -327,6 +327,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys IV: Mask of the Sun | 15451 | [15451-ys-iv-mask-of-the-sun.json](./15451-ys-iv-mask-of-the-sun.json) |
 | Ys IV: The Dawn of Ys | 15452 | [15452-ys-iv-the-dawn-of-ys.json](./15452-ys-iv-the-dawn-of-ys.json) |
 | Ys IX: Monstrum Nox | 113431 | [113431-ys-ix-monstrum-nox.json](./113431-ys-ix-monstrum-nox.json) |
+| Ys IX: Monstrum Nox - Crimson King's "Monstrum Troupe" Costume | 411011 | [411011-ys-ix-monstrum-nox-crimson-kings-monstrum-troupe-costume.json](./411011-ys-ix-monstrum-nox-crimson-kings-monstrum-troupe-costume.json) |
+| Ys IX: Monstrum Nox - Doll's "Monstrum Troupe" Costume | 411012 | [411012-ys-ix-monstrum-nox-dolls-monstrum-troupe-costume.json](./411012-ys-ix-monstrum-nox-dolls-monstrum-troupe-costume.json) |
+| Ys IX: Monstrum Nox - Eyewear Set A | 411013 | [411013-ys-ix-monstrum-nox-eyewear-set-a.json](./411013-ys-ix-monstrum-nox-eyewear-set-a.json) |
+| Ys IX: Monstrum Nox - Eyewear Set B | 411014 | [411014-ys-ix-monstrum-nox-eyewear-set-b.json](./411014-ys-ix-monstrum-nox-eyewear-set-b.json) |
+| Ys IX: Monstrum Nox - Haute Cuisine Weapon Set | 411015 | [411015-ys-ix-monstrum-nox-haute-cuisine-weapon-set.json](./411015-ys-ix-monstrum-nox-haute-cuisine-weapon-set.json) |
+| Ys IX: Monstrum Nox - Hawk's "Monstrum Troupe" Costume | 411016 | [411016-ys-ix-monstrum-nox-hawks-monstrum-troupe-costume.json](./411016-ys-ix-monstrum-nox-hawks-monstrum-troupe-costume.json) |
+| Ys IX: Monstrum Nox - Monstrum Musings Set | 411017 | [411017-ys-ix-monstrum-nox-monstrum-musings-set.json](./411017-ys-ix-monstrum-nox-monstrum-musings-set.json) |
+| Ys IX: Monstrum Nox - Monstrum Troupe Costume Bundle | 411018 | [411018-ys-ix-monstrum-nox-monstrum-troupe-costume-bundle.json](./411018-ys-ix-monstrum-nox-monstrum-troupe-costume-bundle.json) |
+| Ys IX: Monstrum Nox - Renegade's "Monstrum Troupe" Costume | 411019 | [411019-ys-ix-monstrum-nox-renegades-monstrum-troupe-costume.json](./411019-ys-ix-monstrum-nox-renegades-monstrum-troupe-costume.json) |
+| Ys IX: Monstrum Nox - Ride-Along Aprilis | 411020 | [411020-ys-ix-monstrum-nox-ride-along-aprilis.json](./411020-ys-ix-monstrum-nox-ride-along-aprilis.json) |
+| Ys IX: Monstrum Nox - Ride-Along Geis | 411021 | [411021-ys-ix-monstrum-nox-ride-along-geis.json](./411021-ys-ix-monstrum-nox-ride-along-geis.json) |
+| Ys IX: Monstrum Nox - Ride-Along Morbihan | 411022 | [411022-ys-ix-monstrum-nox-ride-along-morbihan.json](./411022-ys-ix-monstrum-nox-ride-along-morbihan.json) |
+| Ys IX: Monstrum Nox - Ride-Along Raging Bull | 411023 | [411023-ys-ix-monstrum-nox-ride-along-raging-bull.json](./411023-ys-ix-monstrum-nox-ride-along-raging-bull.json) |
+| Ys IX: Monstrum Nox - Ride-Along White Cat | 411024 | [411024-ys-ix-monstrum-nox-ride-along-white-cat.json](./411024-ys-ix-monstrum-nox-ride-along-white-cat.json) |
+| Ys IX: Monstrum Nox - Unique Mask Set | 411025 | [411025-ys-ix-monstrum-nox-unique-mask-set.json](./411025-ys-ix-monstrum-nox-unique-mask-set.json) |
+| Ys IX: Monstrum Nox - Variety Mask Set | 411026 | [411026-ys-ix-monstrum-nox-variety-mask-set.json](./411026-ys-ix-monstrum-nox-variety-mask-set.json) |
+| Ys IX: Monstrum Nox - White Cat's "Monstrum Troupe" Costume | 411027 | [411027-ys-ix-monstrum-nox-white-cats-monstrum-troupe-costume.json](./411027-ys-ix-monstrum-nox-white-cats-monstrum-troupe-costume.json) |
 | Ys Online: The Call of Solum | 15458 | [15458-ys-online-the-call-of-solum.json](./15458-ys-online-the-call-of-solum.json) |
 | Ys Strategy | 15456 | [15456-ys-strategy.json](./15456-ys-strategy.json) |
 | Ys VI: The Ark of Napishtim | 15454 | [15454-ys-vi-the-ark-of-napishtim.json](./15454-ys-vi-the-ark-of-napishtim.json) |
