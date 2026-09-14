@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icebound Secrets: The Frostwood Bane | 378812 | [378812-icebound-secrets-the-frostwood-bane.json](./378812-icebound-secrets-the-frostwood-bane.json) |
 | Icebox | 22355 | [22355-icebox.json](./22355-icebox.json) |
 | Icebreaker 2 | 37121 | [37121-icebreaker-2.json](./37121-icebreaker-2.json) |
+| Icebroken | 410335 | [410335-icebroken.json](./410335-icebroken.json) |
 | Iceburg | 373525 | [373525-iceburg.json](./373525-iceburg.json) |
 | Icee Maker | 159259 | [159259-icee-maker.json](./159259-icee-maker.json) |
 | Icee Slush Rush | 352751 | [352751-icee-slush-rush.json](./352751-icee-slush-rush.json) |
