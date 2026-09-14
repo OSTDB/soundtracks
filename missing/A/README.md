@@ -402,7 +402,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
 | Adverse | 132254 | [132254-adverse.json](./132254-adverse.json) |
 | Ae | 184042 | [184042-ae.json](./184042-ae.json) |
-| Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
 | Aegis Kingdoms | 216463 | [216463-aegis-kingdoms.json](./216463-aegis-kingdoms.json) |
 | Aeolis Tournament | 120419 | [120419-aeolis-tournament.json](./120419-aeolis-tournament.json) |
 | Aeolwyn's Legacy | 200707 | [200707-aeolwyns-legacy.json](./200707-aeolwyns-legacy.json) |
