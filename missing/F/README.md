@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Velocity: Physics Combat | 74439 | [74439-fatal-velocity-physics-combat.json](./74439-fatal-velocity-physics-combat.json) |
 | Fatal: Unleashed Darkness | 348261 | [348261-fatal-unleashed-darkness.json](./348261-fatal-unleashed-darkness.json) |
 | Fate / Hollow Ataraxia: Limited Edition | 89862 | [89862-fate-hollow-ataraxia-limited-edition.json](./89862-fate-hollow-ataraxia-limited-edition.json) |
+| Fate & Inflation | 391721 | [391721-fate-and-inflation.json](./391721-fate-and-inflation.json) |
 | Fate Commander: Fighting | 273095 | [273095-fate-commander-fighting.json](./273095-fate-commander-fighting.json) |
 | Fate Dealer | 378160 | [378160-fate-dealer.json](./378160-fate-dealer.json) |
 | Fate Hunters | 107693 | [107693-fate-hunters.json](./107693-fate-hunters.json) |
@@ -784,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Featherfall | 129442 | [129442-featherfall.json](./129442-featherfall.json) |
 | Featherpunk Prime | 18404 | [18404-featherpunk-prime.json](./18404-featherpunk-prime.json) |
 | Fech the Ferret | 156607 | [156607-fech-the-ferret.json](./156607-fech-the-ferret.json) |
+| FED Chairman | 391733 | [391733-fed-chairman.json](./391733-fed-chairman.json) |
 | Feda: The Emblem of Justice | 42555 | [42555-feda-the-emblem-of-justice.json](./42555-feda-the-emblem-of-justice.json) |
 | Fedanheim | 415921 | [415921-fedanheim.json](./415921-fedanheim.json) |
 | Fedora Spade: Prologue | 57678 | [57678-fedora-spade-prologue.json](./57678-fedora-spade-prologue.json) |
@@ -869,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrum | 406729 | [406729-ferrum.json](./406729-ferrum.json) |
 | Ferrum inc | 199571 | [199571-ferrum-inc.json](./199571-ferrum-inc.json) |
 | Ferrum's Secrets: where is grandpa? | 34729 | [34729-ferrums-secrets-where-is-grandpa.json](./34729-ferrums-secrets-where-is-grandpa.json) |
+| Ferry Good Day | 391725 | [391725-ferry-good-day.json](./391725-ferry-good-day.json) |
 | Fest Guests | 302389 | [302389-fest-guests.json](./302389-fest-guests.json) |
 | Fester's Quest | 5343 | [5343-festers-quest.json](./5343-festers-quest.json) |
 | Festival of the Spirit | 183541 | [183541-festival-of-the-spirit.json](./183541-festival-of-the-spirit.json) |
@@ -1765,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Unlimited 2K17 | 87550 | [87550-flight-unlimited-2k17.json](./87550-flight-unlimited-2k17.json) |
 | Flight? Youth! | 395670 | [395670-flight-youth.json](./395670-flight-youth.json) |
 | FlightGear | 51200 | [51200-flightgear.json](./51200-flightgear.json) |
+| Flightless Fighters | 391710 | [391710-flightless-fighters.json](./391710-flightless-fighters.json) |
 | Flights of Fancy | 176954 | [176954-flights-of-fancy.json](./176954-flights-of-fancy.json) |
 | Flikken Game: De Achtervolging | 86032 | [86032-flikken-game-de-achtervolging.json](./86032-flikken-game-de-achtervolging.json) |
 | Flimbo's Quest | 12103 | [12103-flimbos-quest.json](./12103-flimbos-quest.json) |
@@ -2700,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendly Steps | 396887 | [396887-friendly-steps.json](./396887-friendly-steps.json) |
 | Friendly Warfare | 211938 | [211938-friendly-warfare.json](./211938-friendly-warfare.json) |
 | FriendOS | 374604 | [374604-friendos.json](./374604-friendos.json) |
+| Friends and Fangs | 391712 | [391712-friends-and-fangs.json](./391712-friends-and-fangs.json) |
 | Friends in a Room | 295770 | [295770-friends-in-a-room.json](./295770-friends-in-a-room.json) |
 | Friends Marble | 91337 | [91337-friends-marble.json](./91337-friends-marble.json) |
 | Friends of Little Yus | 191158 | [191158-friends-of-little-yus.json](./191158-friends-of-little-yus.json) |
@@ -2871,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Adventure | 214487 | [214487-fruit-adventure.json](./214487-fruit-adventure.json) |
 | Fruit Basket TV | 196858 | [196858-fruit-basket-tv.json](./196858-fruit-basket-tv.json) |
 | Fruit Bonanza | 195698 | [195698-fruit-bonanza.json](./195698-fruit-bonanza.json) |
+| Fruit Box Idle | 391746 | [391746-fruit-box-idle.json](./391746-fruit-box-idle.json) |
 | Fruit Catcher | 397067 | [397067-fruit-catcher.json](./397067-fruit-catcher.json) |
 | Fruit Clicker | 150646 | [150646-fruit-clicker.json](./150646-fruit-clicker.json) |
 | Fruit Cocktail | 257669 | [257669-fruit-cocktail.json](./257669-fruit-cocktail.json) |
