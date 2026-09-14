@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruiga Pirates: Cursed Seas | 301823 | [301823-ruiga-pirates-cursed-seas.json](./301823-ruiga-pirates-cursed-seas.json) |
 | Ruin Arm | 38292 | [38292-ruin-arm.json](./38292-ruin-arm.json) |
 | Ruin Raiders | 132787 | [132787-ruin-raiders.json](./132787-ruin-raiders.json) |
+| Ruin: Chapter 0 | 400981 | [400981-ruin-chapter-0.json](./400981-ruin-chapter-0.json) |
 | Ruindrift | 371883 | [371883-ruindrift.json](./371883-ruindrift.json) |
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
 | Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
