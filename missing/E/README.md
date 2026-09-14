@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essence Hunt | 177512 | [177512-essence-hunt.json](./177512-essence-hunt.json) |
 | Essence of Waluigi | 250044 | [250044-essence-of-waluigi.json](./250044-essence-of-waluigi.json) |
 | Essential Power | 369038 | [369038-essential-power.json](./369038-essential-power.json) |
+| Estancia Protocol Zero | 405609 | [405609-estancia-protocol-zero.json](./405609-estancia-protocol-zero.json) |
 | Esten | 186291 | [186291-esten.json](./186291-esten.json) |
 | Estencel | 207327 | [207327-estencel.json](./207327-estencel.json) |
 | Estigma | 142497 | [142497-estigma.json](./142497-estigma.json) |
