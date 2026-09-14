@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Revenge Pro | 43253 | [43253-rc-revenge-pro.json](./43253-rc-revenge-pro.json) |
 | RC SIM 2022 | 369554 | [369554-rc-sim-2022.json](./369554-rc-sim-2022.json) |
 | RC Toy Machines | 100173 | [100173-rc-toy-machines.json](./100173-rc-toy-machines.json) |
+| RC-AirSim - RC Model Airplane Flight Simulator | 31868 | [31868-rc-airsim-rc-model-airplane-flight-simulator.json](./31868-rc-airsim-rc-model-airplane-flight-simulator.json) |
 | RDF 1985 | 23838 | [23838-rdf-1985.json](./23838-rdf-1985.json) |
 | RDP-Files_ | 265673 | [265673-rdp-files.json](./265673-rdp-files.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #1 | 226977 | [226977-rds-the-official-drift-videogame-premium-cars-pack-1.json](./226977-rds-the-official-drift-videogame-premium-cars-pack-1.json) |
@@ -1311,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Dust | 175375 | [175375-retro-dust.json](./175375-retro-dust.json) |
 | Retro First Friday Collection #3 | 186295 | [186295-retro-first-friday-collection-3.json](./186295-retro-first-friday-collection-3.json) |
 | Retro First Friday Collection #4 | 186296 | [186296-retro-first-friday-collection-4.json](./186296-retro-first-friday-collection-4.json) |
+| Retro Football Boss | 31751 | [31751-retro-football-boss.json](./31751-retro-football-boss.json) |
 | Retro Game Crunch | 36349 | [36349-retro-game-crunch.json](./36349-retro-game-crunch.json) |
 | Retro Game Pack | 147902 | [147902-retro-game-pack.json](./147902-retro-game-pack.json) |
 | Retro Game Store Simulator | 331111 | [331111-retro-game-store-simulator.json](./331111-retro-game-store-simulator.json) |
@@ -2214,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
 | Rogue Slash | 117647 | [117647-rogue-slash.json](./117647-rogue-slash.json) |
 | Rogue Slime | 388018 | [388018-rogue-slime.json](./388018-rogue-slime.json) |
+| Rogue Stache | 31772 | [31772-rogue-stache.json](./31772-rogue-stache.json) |
 | Rogue Star ACE | 91334 | [91334-rogue-star-ace.json](./91334-rogue-star-ace.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
