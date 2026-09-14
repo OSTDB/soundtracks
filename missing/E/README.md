@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy: Zero | 127887 | [127887-entropy-zero.json](./127887-entropy-zero.json) |
 | Entropy: Zero 2 | 188671 | [188671-entropy-zero-2.json](./188671-entropy-zero-2.json) |
 | Envoy of Nezphere | 105309 | [105309-envoy-of-nezphere.json](./105309-envoy-of-nezphere.json) |
+| Envy the Dead | 33227 | [33227-envy-the-dead.json](./33227-envy-the-dead.json) |
 | Enworden | 211713 | [211713-enworden.json](./211713-enworden.json) |
 | Enyla X | 149598 | [149598-enyla-x.json](./149598-enyla-x.json) |
 | Enyo Arcade | 17802 | [17802-enyo-arcade.json](./17802-enyo-arcade.json) |
