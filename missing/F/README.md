@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmageddon | 362279 | [362279-farmageddon.json](./362279-farmageddon.json) |
 | Farmageddon: Undead | 302380 | [302380-farmageddon-undead.json](./302380-farmageddon-undead.json) |
 | Farmburgh | 236263 | [236263-farmburgh.json](./236263-farmburgh.json) |
+| Farmch Revolution | 390648 | [390648-farmch-revolution.json](./390648-farmch-revolution.json) |
 | Farmcraft 2 | 411590 | [411590-farmcraft-2.json](./411590-farmcraft-2.json) |
 | Farmer Adventure | 186831 | [186831-farmer-adventure.json](./186831-farmer-adventure.json) |
 | Farmer and Zombie | 286008 | [286008-farmer-and-zombie.json](./286008-farmer-and-zombie.json) |
@@ -631,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Week: Junior Stylist | 79893 | [79893-fashion-week-junior-stylist.json](./79893-fashion-week-junior-stylist.json) |
 | Fashion World: Premium Edition | 308804 | [308804-fashion-world-premium-edition.json](./308804-fashion-world-premium-edition.json) |
 | FashionVerse | 296068 | [296068-fashionverse.json](./296068-fashionverse.json) |
+| Fast & Fractured | 390642 | [390642-fast-and-fractured.json](./390642-fast-and-fractured.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r | 150132 | [150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json](./150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Complete Edition | 218500 | [218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json](./218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
@@ -1470,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing for a Living | 293618 | [293618-fishing-for-a-living.json](./293618-fishing-for-a-living.json) |
 | Fishing For Cats | 309685 | [309685-fishing-for-cats.json](./309685-fishing-for-cats.json) |
 | Fishing Freaks: Bass Rise Plus | 123044 | [123044-fishing-freaks-bass-rise-plus.json](./123044-fishing-freaks-bass-rise-plus.json) |
+| Fishing Inc | 390614 | [390614-fishing-inc.json](./390614-fishing-inc.json) |
 | Fishing Kingdom | 195226 | [195226-fishing-kingdom.json](./195226-fishing-kingdom.json) |
 | Fishing Kings | 92522 | [92522-fishing-kings.json](./92522-fishing-kings.json) |
 | Fishing Koushien II | 123045 | [123045-fishing-koushien-ii.json](./123045-fishing-koushien-ii.json) |
@@ -2630,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeInfantry | 291224 | [291224-freeinfantry.json](./291224-freeinfantry.json) |
 | Freeing Quency | 179192 | [179192-freeing-quency.json](./179192-freeing-quency.json) |
 | FreeJack | 51276 | [51276-freejack.json](./51276-freejack.json) |
+| Freelance Dead | 390663 | [390663-freelance-dead.json](./390663-freelance-dead.json) |
 | Freelance Simulator: Game Developer Edition | 100874 | [100874-freelance-simulator-game-developer-edition.json](./100874-freelance-simulator-game-developer-edition.json) |
 | Freelance Trucker: Insurance Fraud Edition | 150644 | [150644-freelance-trucker-insurance-fraud-edition.json](./150644-freelance-trucker-insurance-fraud-edition.json) |
 | Freelancer Simulator 2 | 135308 | [135308-freelancer-simulator-2.json](./135308-freelancer-simulator-2.json) |
