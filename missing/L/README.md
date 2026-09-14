@@ -1801,6 +1801,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Everything: Chapter 1 | 299161 | [299161-lost-everything-chapter-1.json](./299161-lost-everything-chapter-1.json) |
 | Lost Existence | 126912 | [126912-lost-existence.json](./126912-lost-existence.json) |
 | Lost For Swords | 274511 | [274511-lost-for-swords.json](./274511-lost-for-swords.json) |
+| Lost Friends | 393621 | [393621-lost-friends.json](./393621-lost-friends.json) |
+| Lost Friends 2: Reason for Tears | 393622 | [393622-lost-friends-2-reason-for-tears.json](./393622-lost-friends-2-reason-for-tears.json) |
+| Lost Friends 3: Never Return | 393623 | [393623-lost-friends-3-never-return.json](./393623-lost-friends-3-never-return.json) |
 | Lost Garden | 334714 | [334714-lost-garden.json](./334714-lost-garden.json) |
 | Lost Girl In Mirror | 259820 | [259820-lost-girl-in-mirror.json](./259820-lost-girl-in-mirror.json) |
 | Lost God | 24939 | [24939-lost-god.json](./24939-lost-god.json) |
