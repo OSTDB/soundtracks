@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeout | 306368 | [306368-takeout.json](./306368-takeout.json) |
 | Takeout food | 107902 | [107902-takeout-food.json](./107902-takeout-food.json) |
 | Takeover | 304587 | [304587-takeover.json](./304587-takeover.json) |
+| Takeover | 405600 | [405600-takeover.json](./405600-takeover.json) |
 | Takeover Trail | 395577 | [395577-takeover-trail.json](./395577-takeover-trail.json) |
 | Takepoint.io | 194571 | [194571-takepoint-io.json](./194571-takepoint-io.json) |
 | Takeyariman | 222300 | [222300-takeyariman.json](./222300-takeyariman.json) |
@@ -3156,6 +3157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mind's Eclipse | 76579 | [76579-the-minds-eclipse.json](./76579-the-minds-eclipse.json) |
 | The Mindwarp | 206169 | [206169-the-mindwarp.json](./206169-the-mindwarp.json) |
 | The Mine | 13739 | [13739-the-mine.json](./13739-the-mine.json) |
+| The Ministry for Anomaly Observation | 405582 | [405582-the-ministry-for-anomaly-observation.json](./405582-the-ministry-for-anomaly-observation.json) |
 | The Mirror Circle | 382746 | [382746-the-mirror-circle.json](./382746-the-mirror-circle.json) |
 | The Mirror Dimension | 260655 | [260655-the-mirror-dimension.json](./260655-the-mirror-dimension.json) |
 | The Mirror Mysteries | 61578 | [61578-the-mirror-mysteries.json](./61578-the-mirror-mysteries.json) |
