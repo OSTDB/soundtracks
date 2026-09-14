@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
 | Second Thoughts | 203543 | [203543-second-thoughts.json](./203543-second-thoughts.json) |
 | Second Wave | 242250 | [242250-second-wave.json](./242250-second-wave.json) |
+| Second Wind | 390123 | [390123-second-wind.json](./390123-second-wind.json) |
 | Second World: Air War S | 113002 | [113002-second-world-air-war-s.json](./113002-second-world-air-war-s.json) |
 | Seconds Time's the Charm | 326602 | [326602-seconds-times-the-charm.json](./326602-seconds-times-the-charm.json) |
 | SecondSpeed | 28782 | [28782-secondspeed.json](./28782-secondspeed.json) |
@@ -1576,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
 | Shadow Quest | 326959 | [326959-shadow-quest.json](./326959-shadow-quest.json) |
 | Shadow Racer | 120344 | [120344-shadow-racer.json](./120344-shadow-racer.json) |
+| Shadow Rasa | 390147 | [390147-shadow-rasa.json](./390147-shadow-rasa.json) |
 | Shadow Redemption | 169398 | [169398-shadow-redemption.json](./169398-shadow-redemption.json) |
 | Shadow Runner | 116287 | [116287-shadow-runner.json](./116287-shadow-runner.json) |
 | Shadow Saw Us | 408072 | [408072-shadow-saw-us.json](./408072-shadow-saw-us.json) |
@@ -2428,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Night | 110391 | [110391-silent-night.json](./110391-silent-night.json) |
 | Silent Night: A Christmas Delivery | 158667 | [158667-silent-night-a-christmas-delivery.json](./158667-silent-night-a-christmas-delivery.json) |
 | Silent Nights | 240787 | [240787-silent-nights.json](./240787-silent-nights.json) |
+| Silent Numbers | 390104 | [390104-silent-numbers.json](./390104-silent-numbers.json) |
 | Silent Ops | 332433 | [332433-silent-ops.json](./332433-silent-ops.json) |
 | Silent Paradise Anthology | 402901 | [402901-silent-paradise-anthology.json](./402901-silent-paradise-anthology.json) |
 | Silent Reel | 367979 | [367979-silent-reel.json](./367979-silent-reel.json) |
@@ -3035,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
 | Slavoj Zizek Makes A Twine Game | 139418 | [139418-slavoj-zizek-makes-a-twine-game.json](./139418-slavoj-zizek-makes-a-twine-game.json) |
 | Slay | 104693 | [104693-slay.json](./104693-slay.json) |
+| Slay All Bosses: Idle | 390114 | [390114-slay-all-bosses-idle.json](./390114-slay-all-bosses-idle.json) |
 | Slay and Spray Exterminators | 384512 | [384512-slay-and-spray-exterminators.json](./384512-slay-and-spray-exterminators.json) |
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
@@ -3367,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smol Adventure | 353893 | [353893-smol-adventure.json](./353893-smol-adventure.json) |
 | Smol Gods | 332407 | [332407-smol-gods.json](./332407-smol-gods.json) |
 | Smol Kobold Garden | 340933 | [340933-smol-kobold-garden.json](./340933-smol-kobold-garden.json) |
+| Smol Toad | 390127 | [390127-smol-toad.json](./390127-smol-toad.json) |
 | Smolsies | 127989 | [127989-smolsies.json](./127989-smolsies.json) |
 | Smooth Criminal | 91913 | [91913-smooth-criminal.json](./91913-smooth-criminal.json) |
 | Smooth Mover | 120956 | [120956-smooth-mover.json](./120956-smooth-mover.json) |
@@ -4476,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ace | 100161 | [100161-space-ace.json](./100161-space-ace.json) |
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
+| Space Adventure | 390112 | [390112-space-adventure.json](./390112-space-adventure.json) |
 | Space Adventure Laika | 128634 | [128634-space-adventure-laika.json](./128634-space-adventure-laika.json) |
 | Space Adventure Zodiac | 406168 | [406168-space-adventure-zodiac.json](./406168-space-adventure-zodiac.json) |
 | Space Adventure: Escape from Siphilus 1b | 219587 | [219587-space-adventure-escape-from-siphilus-1b.json](./219587-space-adventure-escape-from-siphilus-1b.json) |
@@ -7679,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ryu World | 172687 | [172687-super-ryu-world.json](./172687-super-ryu-world.json) |
 | Super Samtong | 92509 | [92509-super-samtong.json](./92509-super-samtong.json) |
 | Super Sans Race Running | 221710 | [221710-super-sans-race-running.json](./221710-super-sans-race-running.json) |
+| Super Scary Cylinder | 390135 | [390135-super-scary-cylinder.json](./390135-super-scary-cylinder.json) |
 | Super Schwarzschild | 41996 | [41996-super-schwarzschild.json](./41996-super-schwarzschild.json) |
 | Super Scope 15 | 271240 | [271240-super-scope-15.json](./271240-super-scope-15.json) |
 | Super Scoundrel Solitaire | 400868 | [400868-super-scoundrel-solitaire.json](./400868-super-scoundrel-solitaire.json) |
@@ -8380,6 +8387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synapses | 302131 | [302131-synapses.json](./302131-synapses.json) |
 | Synapsis | 299759 | [299759-synapsis.json](./299759-synapsis.json) |
 | Synapsis 2 | 299760 | [299760-synapsis-2.json](./299760-synapsis-2.json) |
+| Sync Together | 390109 | [390109-sync-together.json](./390109-sync-together.json) |
 | Sync: Party Hard | 146845 | [146845-sync-party-hard.json](./146845-sync-party-hard.json) |
 | Synced | 121751 | [121751-synced.json](./121751-synced.json) |
 | Synced: Season 1 - Lambent Dawn Trailer | 365090 | [365090-synced-season-1-lambent-dawn-trailer.json](./365090-synced-season-1-lambent-dawn-trailer.json) |
