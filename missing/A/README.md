@@ -367,7 +367,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
 | Adventure Mosaics: Autumn Journey | 246958 | [246958-adventure-mosaics-autumn-journey.json](./246958-adventure-mosaics-autumn-journey.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
-| Adventure of a Digger | 103425 | [103425-adventure-of-a-digger.json](./103425-adventure-of-a-digger.json) |
 | Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
 | Adventure of Priestess | 200125 | [200125-adventure-of-priestess.json](./200125-adventure-of-priestess.json) |
