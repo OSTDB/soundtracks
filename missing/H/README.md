@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Hanako | 232445 | [232445-hentai-hanako.json](./232445-hentai-hanako.json) |
 | Hentai Harem | 367976 | [367976-hentai-harem.json](./367976-hentai-harem.json) |
 | Hentai Homewrecker | 297799 | [297799-hentai-homewrecker.json](./297799-hentai-homewrecker.json) |
+| Hentai House: Next Door | 403713 | [403713-hentai-house-next-door.json](./403713-hentai-house-next-door.json) |
 | Hentai Jigsaw Puzzle Collection: Autumn | 371234 | [371234-hentai-jigsaw-puzzle-collection-autumn.json](./371234-hentai-jigsaw-puzzle-collection-autumn.json) |
 | Hentai Jigsaw Puzzle Collection: Christmas Edition | 235476 | [235476-hentai-jigsaw-puzzle-collection-christmas-edition.json](./235476-hentai-jigsaw-puzzle-collection-christmas-edition.json) |
 | Hentai Jigsaw Puzzle Collection: Spring Edition | 263218 | [263218-hentai-jigsaw-puzzle-collection-spring-edition.json](./263218-hentai-jigsaw-puzzle-collection-spring-edition.json) |
@@ -1148,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Pussy 4 | 214188 | [214188-hentai-pussy-4.json](./214188-hentai-pussy-4.json) |
 | Hentai Puzzle Lamunation | 134620 | [134620-hentai-puzzle-lamunation.json](./134620-hentai-puzzle-lamunation.json) |
 | Hentai Puzzle Logic Game | 110379 | [110379-hentai-puzzle-logic-game.json](./110379-hentai-puzzle-logic-game.json) |
+| Hentai Puzzle Simulator 2 | 403716 | [403716-hentai-puzzle-simulator-2.json](./403716-hentai-puzzle-simulator-2.json) |
 | Hentai Puzzle Simulator 3 | 409530 | [409530-hentai-puzzle-simulator-3.json](./409530-hentai-puzzle-simulator-3.json) |
 | Hentai Puzzle XXX | 378807 | [378807-hentai-puzzle-xxx.json](./378807-hentai-puzzle-xxx.json) |
 | Hentai Sexy Nurses | 222284 | [222284-hentai-sexy-nurses.json](./222284-hentai-sexy-nurses.json) |
@@ -1365,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex | 72028 | [72028-hex.json](./72028-hex.json) |
 | Hex & Agon | 144351 | [144351-hex-and-agon.json](./144351-hex-and-agon.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
+| Hex Pipe | 403665 | [403665-hex-pipe.json](./403665-hex-pipe.json) |
 | Hex Pool | 40172 | [40172-hex-pool.json](./40172-hex-pool.json) |
 | Hex Rally Racers | 201251 | [201251-hex-rally-racers.json](./201251-hex-rally-racers.json) |
 | Hex Two | 102218 | [102218-hex-two.json](./102218-hex-two.json) |
@@ -1551,11 +1554,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Sherlock Holmes Mystery Case - The Big Apartment: My Mysterious House - The Big Hotel | 86723 | [86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json](./86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json) |
 | Hidden Objects: Victoria in Egypt - Cheops Pyramid | 200197 | [200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json](./200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json) |
 | Hidden Oddities | 302099 | [302099-hidden-oddities.json](./302099-hidden-oddities.json) |
+| Hidden Oddities in Everyday Life Mystery | 403715 | [403715-hidden-oddities-in-everyday-life-mystery.json](./403715-hidden-oddities-in-everyday-life-mystery.json) |
 | Hidden Paradise: Aloha with Love - Collector's Edition | 362831 | [362831-hidden-paradise-aloha-with-love-collectors-edition.json](./362831-hidden-paradise-aloha-with-love-collectors-edition.json) |
 | Hidden Pass | 253352 | [253352-hidden-pass.json](./253352-hidden-pass.json) |
 | Hidden Paws Mystery | 109412 | [109412-hidden-paws-mystery.json](./109412-hidden-paws-mystery.json) |
 | Hidden Photo Mysteries: The Truth Gets Scary | 415060 | [415060-hidden-photo-mysteries-the-truth-gets-scary.json](./415060-hidden-photo-mysteries-the-truth-gets-scary.json) |
 | Hidden Pleasure: Closer and Closer | 409531 | [409531-hidden-pleasure-closer-and-closer.json](./409531-hidden-pleasure-closer-and-closer.json) |
+| Hidden Pleasure: Faster and Faster | 403714 | [403714-hidden-pleasure-faster-and-faster.json](./403714-hidden-pleasure-faster-and-faster.json) |
 | Hidden Pleasure: More and More | 409662 | [409662-hidden-pleasure-more-and-more.json](./409662-hidden-pleasure-more-and-more.json) |
 | Hidden Pointsman | 107124 | [107124-hidden-pointsman.json](./107124-hidden-pointsman.json) |
 | Hidden Portals: Eternal Balance | 416701 | [416701-hidden-portals-eternal-balance.json](./416701-hidden-portals-eternal-balance.json) |
@@ -2558,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunger Crunch | 233210 | [233210-hunger-crunch.json](./233210-hunger-crunch.json) |
 | Hunger Dungeon | 25850 | [25850-hunger-dungeon.json](./25850-hunger-dungeon.json) |
 | Hunger Dungeon: Deluxe Edition | 53193 | [53193-hunger-dungeon-deluxe-edition.json](./53193-hunger-dungeon-deluxe-edition.json) |
+| Hunger Lane | 403687 | [403687-hunger-lane.json](./403687-hunger-lane.json) |
 | Hunger of The Elder Slime | 180846 | [180846-hunger-of-the-elder-slime.json](./180846-hunger-of-the-elder-slime.json) |
 | Hungrities | 386695 | [386695-hungrities.json](./386695-hungrities.json) |
 | Hungry Cat Nonogram | 207862 | [207862-hungry-cat-nonogram.json](./207862-hungry-cat-nonogram.json) |
