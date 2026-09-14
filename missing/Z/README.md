@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombiU | 1591 | [1591-zombiu.json](./1591-zombiu.json) |
 | ZombLabs | 31891 | [31891-zomblabs.json](./31891-zomblabs.json) |
 | ZombMe | 343795 | [343795-zombme.json](./343795-zombme.json) |
+| Zombobox: Bredo Story | 405602 | [405602-zombobox-bredo-story.json](./405602-zombobox-bredo-story.json) |
 | Zombotron | 77488 | [77488-zombotron.json](./77488-zombotron.json) |
 | Zombreak: The Last Escape | 250970 | [250970-zombreak-the-last-escape.json](./250970-zombreak-the-last-escape.json) |
 | Zombs.io | 76570 | [76570-zombs-io.json](./76570-zombs-io.json) |
