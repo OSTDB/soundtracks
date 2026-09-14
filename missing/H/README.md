@@ -620,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hausmeister | 207313 | [207313-hausmeister.json](./207313-hausmeister.json) |
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Have You Herd? | 235970 | [235970-have-you-herd.json](./235970-have-you-herd.json) |
+| Have You Seen the Moon? | 407400 | [407400-have-you-seen-the-moon.json](./407400-have-you-seen-the-moon.json) |
 | Haven & Hearth | 213961 | [213961-haven-and-hearth.json](./213961-haven-and-hearth.json) |
 | Haven & Hearth | 328235 | [328235-haven-and-hearth.json](./328235-haven-and-hearth.json) |
 | Haven & Hearth | 94176 | [94176-haven-and-hearth.json](./94176-haven-and-hearth.json) |
