@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pang & Bang | 110963 | [110963-pang-and-bang.json](./110963-pang-and-bang.json) |
 | Pang: Magical Michael | 66524 | [66524-pang-magical-michael.json](./66524-pang-magical-michael.json) |
 | Pangemic | 30818 | [30818-pangemic.json](./30818-pangemic.json) |
+| Pango Blocks | 87889 | [87889-pango-blocks.json](./87889-pango-blocks.json) |
 | Pango Build City | 89761 | [89761-pango-build-city.json](./89761-pango-build-city.json) |
 | Pango Hide and seek | 90706 | [90706-pango-hide-and-seek.json](./90706-pango-hide-and-seek.json) |
 | Pangolin Love: Day 1 - Ghana | 375812 | [375812-pangolin-love-day-1-ghana.json](./375812-pangolin-love-day-1-ghana.json) |
@@ -520,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkan: Iron Strategy | 7701 | [7701-parkan-iron-strategy.json](./7701-parkan-iron-strategy.json) |
 | Parkan: The Imperial Chronicles | 7700 | [7700-parkan-the-imperial-chronicles.json](./7700-parkan-the-imperial-chronicles.json) |
 | Parkasaurus: Sea Monsters | 195749 | [195749-parkasaurus-sea-monsters.json](./195749-parkasaurus-sea-monsters.json) |
+| Parker & Lane | 87999 | [87999-parker-and-lane.json](./87999-parker-and-lane.json) |
 | Parking 3D - Car Parking | 102206 | [102206-parking-3d-car-parking.json](./102206-parking-3d-car-parking.json) |
 | Parking Attendant | 151186 | [151186-parking-attendant.json](./151186-parking-attendant.json) |
 | Parking Attendant Simulator | 326379 | [326379-parking-attendant-simulator.json](./326379-parking-attendant-simulator.json) |
@@ -578,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Hard Tycoon | 23180 | [23180-party-hard-tycoon.json](./23180-party-hard-tycoon.json) |
 | Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
 | Party Jousting | 33608 | [33608-party-jousting.json](./33608-party-jousting.json) |
+| Party Makeover Salon | 87923 | [87923-party-makeover-salon.json](./87923-party-makeover-salon.json) |
 | Party Mashup | 137613 | [137613-party-mashup.json](./137613-party-mashup.json) |
 | Party Party Time | 231043 | [231043-party-party-time.json](./231043-party-party-time.json) |
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
@@ -1964,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platformer Saga | 336375 | [336375-platformer-saga.json](./336375-platformer-saga.json) |
 | Platformica | 57054 | [57054-platformica.json](./57054-platformica.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
+| Plati Nalog: Favorite Russian Game | 88083 | [88083-plati-nalog-favorite-russian-game.json](./88083-plati-nalog-favorite-russian-game.json) |
 | Platinum Demo: Final Fantasy XV | 299106 | [299106-platinum-demo-final-fantasy-xv.json](./299106-platinum-demo-final-fantasy-xv.json) |
 | Platinum Kill | 112272 | [112272-platinum-kill.json](./112272-platinum-kill.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
@@ -2352,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Atv Offroad | 309872 | [309872-police-atv-offroad.json](./309872-police-atv-offroad.json) |
 | Police Car Drift Simulator | 223986 | [223986-police-car-drift-simulator.json](./223986-police-car-drift-simulator.json) |
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
+| Police Chopper | 87917 | [87917-police-chopper.json](./87917-police-chopper.json) |
 | Police Enforcement VR : 1-K-27 | 97014 | [97014-police-enforcement-vr-1-k-27.json](./97014-police-enforcement-vr-1-k-27.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
 | Police on Duty 2 | 295773 | [295773-police-on-duty-2.json](./295773-police-on-duty-2.json) |
@@ -2427,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polynomial 2 | 24967 | [24967-polynomial-2.json](./24967-polynomial-2.json) |
 | PolyPine | 278973 | [278973-polypine.json](./278973-polypine.json) |
 | Polyrhythm Mania | 182445 | [182445-polyrhythm-mania.json](./182445-polyrhythm-mania.json) |
+| Polyroll | 87936 | [87936-polyroll.json](./87936-polyroll.json) |
 | Polyrun | 120960 | [120960-polyrun.json](./120960-polyrun.json) |
 | Polyslime | 173230 | [173230-polyslime.json](./173230-polyslime.json) |
 | Polystars | 70998 | [70998-polystars.json](./70998-polystars.json) |
