@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chachacha Slot | 87296 | [87296-chachacha-slot.json](./87296-chachacha-slot.json) |
 | Chadboy | 241618 | [241618-chadboy.json](./241618-chadboy.json) |
 | Chai | 236280 | [236280-chai.json](./236280-chai.json) |
+| Chai Glide | 414443 | [414443-chai-glide.json](./414443-chai-glide.json) |
 | Chain Break | 159355 | [159355-chain-break.json](./159355-chain-break.json) |
 | Chain Champs | 177011 | [177011-chain-champs.json](./177011-chain-champs.json) |
 | Chain Crusher | 124771 | [124771-chain-crusher.json](./124771-chain-crusher.json) |
@@ -2136,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaning Simulator | 374584 | [374584-cleaning-simulator.json](./374584-cleaning-simulator.json) |
 | Cleaning Simulator: Ultimate Mess | 407359 | [407359-cleaning-simulator-ultimate-mess.json](./407359-cleaning-simulator-ultimate-mess.json) |
 | Cleaning Up! | 360587 | [360587-cleaning-up.json](./360587-cleaning-up.json) |
+| Cleanup On Aisle 3 | 414428 | [414428-cleanup-on-aisle-3.json](./414428-cleanup-on-aisle-3.json) |
 | Clear The Coast | 270692 | [270692-clear-the-coast.json](./270692-clear-the-coast.json) |
 | Clear Vision 4 | 174814 | [174814-clear-vision-4.json](./174814-clear-vision-4.json) |
 | Cleimos | 260945 | [260945-cleimos.json](./260945-cleimos.json) |
@@ -4134,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cunsus Kart | 143003 | [143003-cunsus-kart.json](./143003-cunsus-kart.json) |
 | Cunt Wars | 140570 | [140570-cunt-wars.json](./140570-cunt-wars.json) |
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
+| Cup Heroes: Beginner Merge Bundle | 414455 | [414455-cup-heroes-beginner-merge-bundle.json](./414455-cup-heroes-beginner-merge-bundle.json) |
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
 | Cupcake Clicker 4 | 231381 | [231381-cupcake-clicker-4.json](./231381-cupcake-clicker-4.json) |
 | Cuphead | 237497 | [237497-cuphead.json](./237497-cuphead.json) |
