@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Moon Rabbit: AFK RPG | 204487 | [204487-idle-moon-rabbit-afk-rpg.json](./204487-idle-moon-rabbit-afk-rpg.json) |
 | Idle Mythical Beasts | 387327 | [387327-idle-mythical-beasts.json](./387327-idle-mythical-beasts.json) |
 | Idle Ocean Cleaner Eco Tycoon | 247211 | [247211-idle-ocean-cleaner-eco-tycoon.json](./247211-idle-ocean-cleaner-eco-tycoon.json) |
+| Idle of the Dead | 413772 | [413772-idle-of-the-dead.json](./413772-idle-of-the-dead.json) |
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
 | Idle Pinball | 330171 | [330171-idle-pinball.json](./330171-idle-pinball.json) |
 | Idle Pixel Crush - Ball Crush | 105876 | [105876-idle-pixel-crush-ball-crush.json](./105876-idle-pixel-crush-ball-crush.json) |
@@ -1270,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iris | 223674 | [223674-iris.json](./223674-iris.json) |
 | Iris Dissolution | 337116 | [337116-iris-dissolution.json](./337116-iris-dissolution.json) |
 | Iris School of Wizardry: Vinculum Hearts | 110982 | [110982-iris-school-of-wizardry-vinculum-hearts.json](./110982-iris-school-of-wizardry-vinculum-hearts.json) |
+| Iris: I'm Reflecting in the Silence | 413771 | [413771-iris-im-reflecting-in-the-silence.json](./413771-iris-im-reflecting-in-the-silence.json) |
 | Iris's Adventure: Time Travel | 231941 | [231941-iriss-adventure-time-travel.json](./231941-iriss-adventure-time-travel.json) |
 | IrisPlus | 110377 | [110377-irisplus.json](./110377-irisplus.json) |
 | Irium | 91889 | [91889-irium.json](./91889-irium.json) |
