@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterpark Simulator | 348648 | [348648-waterpark-simulator.json](./348648-waterpark-simulator.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
+| Wave Circles | 117840 | [117840-wave-circles.json](./117840-wave-circles.json) |
 | Wave Race 64 | 3629 | [3629-wave-race-64.json](./3629-wave-race-64.json) |
 | Wave Rally | 43304 | [43304-wave-rally.json](./43304-wave-rally.json) |
 | Wave Rave | 341912 | [341912-wave-rave.json](./341912-wave-rave.json) |
@@ -851,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When I Reincarnate, I'm a Cube!? | 153970 | [153970-when-i-reincarnate-im-a-cube.json](./153970-when-i-reincarnate-im-a-cube.json) |
 | When I Said "It's Ok To Be Cringe" I Didn't Mean Like That | 300677 | [300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json](./300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json) |
 | When I was a boycow | 178675 | [178675-when-i-was-a-boycow.json](./178675-when-i-was-a-boycow.json) |
+| When I Was Young | 117549 | [117549-when-i-was-young.json](./117549-when-i-was-young.json) |
 | When it Rains Red | 382211 | [382211-when-it-rains-red.json](./382211-when-it-rains-red.json) |
 | When It Rains, I Want to Disappear off Somewhere | 243143 | [243143-when-it-rains-i-want-to-disappear-off-somewhere.json](./243143-when-it-rains-i-want-to-disappear-off-somewhere.json) |
 | When Night Comes | 249197 | [249197-when-night-comes.json](./249197-when-night-comes.json) |
@@ -1691,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordspionage | 175391 | [175391-wordspionage.json](./175391-wordspionage.json) |
 | Wordsplash! | 28814 | [28814-wordsplash.json](./28814-wordsplash.json) |
 | Wordsweeper by Powgi | 121643 | [121643-wordsweeper-by-powgi.json](./121643-wordsweeper-by-powgi.json) |
+| WordZap | 117962 | [117962-wordzap.json](./117962-wordzap.json) |
 | Work Beasts | 304023 | [304023-work-beasts.json](./304023-work-beasts.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
 | Work Life Balance | 372470 | [372470-work-life-balance.json](./372470-work-life-balance.json) |
@@ -1896,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds of Legend: Son of the Empire | 71521 | [71521-worlds-of-legend-son-of-the-empire.json](./71521-worlds-of-legend-son-of-the-empire.json) |
 | Worlds of Magic | 9336 | [9336-worlds-of-magic.json](./9336-worlds-of-magic.json) |
 | WorldShards | 224584 | [224584-worldshards.json](./224584-worldshards.json) |
+| Worldwide Sports Fishing | 117556 | [117556-worldwide-sports-fishing.json](./117556-worldwide-sports-fishing.json) |
 | Worldy Cup | 31854 | [31854-worldy-cup.json](./31854-worldy-cup.json) |
 | Worm AR | 234597 | [234597-worm-ar.json](./234597-worm-ar.json) |
 | Worm Dungeon | 135878 | [135878-worm-dungeon.json](./135878-worm-dungeon.json) |
@@ -2074,5 +2078,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyrm Climb | 305795 | [305795-wyrm-climb.json](./305795-wyrm-climb.json) |
 | WyrmBound | 290721 | [290721-wyrmbound.json](./290721-wyrmbound.json) |
 | Wyrmhole: The Forbidden Knowledge | 253384 | [253384-wyrmhole-the-forbidden-knowledge.json](./253384-wyrmhole-the-forbidden-knowledge.json) |
+| Wytchsun: Elleros Origins | 117544 | [117544-wytchsun-elleros-origins.json](./117544-wytchsun-elleros-origins.json) |
 | Wyvern Studios Solitaire: 30th Aniversary Edition | 289861 | [289861-wyvern-studios-solitaire-30th-aniversary-edition.json](./289861-wyvern-studios-solitaire-30th-aniversary-edition.json) |
 | WYzards | 275017 | [275017-wyzards.json](./275017-wyzards.json) |
