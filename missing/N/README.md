@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee in King Arthur's Court | 32989 | [32989-new-yankee-in-king-arthurs-court.json](./32989-new-yankee-in-king-arthurs-court.json) |
 | New Yankee in King Arthur's Court 2 | 31855 | [31855-new-yankee-in-king-arthurs-court-2.json](./31855-new-yankee-in-king-arthurs-court-2.json) |
 | New Yankee in Santa's Service | 32990 | [32990-new-yankee-in-santas-service.json](./32990-new-yankee-in-santas-service.json) |
+| New Yankee: Jelly Chaos - Collector's Edition | 417515 | [417515-new-yankee-jelly-chaos-collectors-edition.json](./417515-new-yankee-jelly-chaos-collectors-edition.json) |
 | New Yankee: Under the Genie's Thumb | 170500 | [170500-new-yankee-under-the-genies-thumb.json](./170500-new-yankee-under-the-genies-thumb.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
 | New Year's Eve 2020 | 127187 | [127187-new-years-eve-2020.json](./127187-new-years-eve-2020.json) |
@@ -1536,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonstop Balls | 87731 | [87731-nonstop-balls.json](./87731-nonstop-balls.json) |
 | Nonstop Game | 208966 | [208966-nonstop-game.json](./208966-nonstop-game.json) |
 | Noodle Fight | 269313 | [269313-noodle-fight.json](./269313-noodle-fight.json) |
+| Noodle Jump | 417502 | [417502-noodle-jump.json](./417502-noodle-jump.json) |
 | Noodle Party | 209680 | [209680-noodle-party.json](./209680-noodle-party.json) |
 | Noodles! | 90541 | [90541-noodles.json](./90541-noodles.json) |
 | Nook Fall: West Town | 341485 | [341485-nook-fall-west-town.json](./341485-nook-fall-west-town.json) |
