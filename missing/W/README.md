@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Wheels | 8880 | [8880-wacky-wheels.json](./8880-wacky-wheels.json) |
 | Wacky Wings VR | 30162 | [30162-wacky-wings-vr.json](./30162-wacky-wings-vr.json) |
 | Wacky World of Sports | 5260 | [5260-wacky-world-of-sports.json](./5260-wacky-world-of-sports.json) |
+| Waddle Dev Vs Kirby Dark Dawn | 395700 | [395700-waddle-dev-vs-kirby-dark-dawn.json](./395700-waddle-dev-vs-kirby-dark-dawn.json) |
 | Waddle Home | 25568 | [25568-waddle-home.json](./25568-waddle-home.json) |
 | Waddle Paddle | 365718 | [365718-waddle-paddle.json](./365718-waddle-paddle.json) |
 | Wag | 312562 | [312562-wag.json](./312562-wag.json) |
@@ -69,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakdoo Random Defence | 188098 | [188098-wakdoo-random-defence.json](./188098-wakdoo-random-defence.json) |
 | Wake | 95390 | [95390-wake.json](./95390-wake.json) |
 | Wake Up | 22435 | [22435-wake-up.json](./22435-wake-up.json) |
+| Wake up, Az. | 395691 | [395691-wake-up-az.json](./395691-wake-up-az.json) |
 | Wake Up, Good Guardian! | 107866 | [107866-wake-up-good-guardian.json](./107866-wake-up-good-guardian.json) |
 | Wake Up, Lia! | 410370 | [410370-wake-up-lia.json](./410370-wake-up-lia.json) |
 | Wakeari! | 22473 | [22473-wakeari.json](./22473-wakeari.json) |
@@ -190,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted: Yokai Uprising | 309889 | [309889-wanted-yokai-uprising.json](./309889-wanted-yokai-uprising.json) |
 | Wanting Shock | 361675 | [361675-wanting-shock.json](./361675-wanting-shock.json) |
 | Wanting Wings | 278705 | [278705-wanting-wings.json](./278705-wanting-wings.json) |
+| Waochi! Math Homerun | 395686 | [395686-waochi-math-homerun.json](./395686-waochi-math-homerun.json) |
 | War | 255331 | [255331-war.json](./255331-war.json) |
 | War 2: Victory | 254168 | [254168-war-2-victory.json](./254168-war-2-victory.json) |
 | War 2410 | 38398 | [38398-war-2410.json](./38398-war-2410.json) |
@@ -1534,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Hero: Animals vs. Robots | 312541 | [312541-wolf-hero-animals-vs-robots.json](./312541-wolf-hero-animals-vs-robots.json) |
 | Wolf Knight Memoir | 278982 | [278982-wolf-knight-memoir.json](./278982-wolf-knight-memoir.json) |
 | Wolf or Boy | 117709 | [117709-wolf-or-boy.json](./117709-wolf-or-boy.json) |
+| Wolf Pack: Howling Spirits | 395665 | [395665-wolf-pack-howling-spirits.json](./395665-wolf-pack-howling-spirits.json) |
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
 | Wolf West | 261826 | [261826-wolf-west.json](./261826-wolf-west.json) |
