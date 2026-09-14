@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violence Fight | 39608 | [39608-violence-fight.json](./39608-violence-fight.json) |
 | Violent Agent | 189206 | [189206-violent-agent.json](./189206-violent-agent.json) |
 | Violent Cheese Crusader | 183531 | [183531-violent-cheese-crusader.json](./183531-violent-cheese-crusader.json) |
+| Violent Rush | 388216 | [388216-violent-rush.json](./388216-violent-rush.json) |
 | Violent Vectors | 68872 | [68872-violent-vectors.json](./68872-violent-vectors.json) |
 | Violent Vengeance: The Universe Hero | 365667 | [365667-violent-vengeance-the-universe-hero.json](./365667-violent-vengeance-the-universe-hero.json) |
 | Violent Witches: the Vindicator | 158188 | [158188-violent-witches-the-vindicator.json](./158188-violent-witches-the-vindicator.json) |
@@ -785,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Nomads | 240777 | [240777-void-nomads.json](./240777-void-nomads.json) |
 | Void of Darkness | 26511 | [26511-void-of-darkness.json](./26511-void-of-darkness.json) |
 | Void of Space | 173295 | [173295-void-of-space.json](./173295-void-of-space.json) |
+| Void Phantom | 388256 | [388256-void-phantom.json](./388256-void-phantom.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
 | Void Salvage | 388936 | [388936-void-salvage.json](./388936-void-salvage.json) |
 | Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
