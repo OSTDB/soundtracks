@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway to the Moon | 32890 | [32890-highway-to-the-moon.json](./32890-highway-to-the-moon.json) |
 | Highway Trouble | 322597 | [322597-highway-trouble.json](./322597-highway-trouble.json) |
 | Highway Trouble 2 | 322599 | [322599-highway-trouble-2.json](./322599-highway-trouble-2.json) |
+| Highway Wars | 88041 | [88041-highway-wars.json](./88041-highway-wars.json) |
 | Higurashi no Naku Koro ni Hou: Hinamizawa Teiryuujo | 263492 | [263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json](./263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json) |
 | Higurashi no Naku Koro ni Hou: Kamikashimashi-hen | 263493 | [263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json](./263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json) |
 | Higurashi no Naku Koro ni Hou: Outbreak | 263490 | [263490-higurashi-no-naku-koro-ni-hou-outbreak.json](./263490-higurashi-no-naku-koro-ni-hou-outbreak.json) |
@@ -2163,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Life Adventures | 201794 | [201794-horse-life-adventures.json](./201794-horse-life-adventures.json) |
 | Horse Life: Find Horses in Open World, Survive in Wild Nature as a Foal or Pony | 253933 | [253933-horse-life-find-horses-in-open-world-survive-in-wild-nature-as-a-foal-or-pony.json](./253933-horse-life-find-horses-in-open-world-survive-in-wild-nature-as-a-foal-or-pony.json) |
 | Horse Magic | 406726 | [406726-horse-magic.json](./406726-horse-magic.json) |
+| Horse Park Tycoon | 87897 | [87897-horse-park-tycoon.json](./87897-horse-park-tycoon.json) |
 | Horse Racing | 47279 | [47279-horse-racing.json](./47279-horse-racing.json) |
 | Horse Racing Manager 2 | 67994 | [67994-horse-racing-manager-2.json](./67994-horse-racing-manager-2.json) |
 | Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
@@ -2686,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia U: Action Unleashed - Bonus Quest | 172172 | [172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json](./172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json) |
 | Hyperdimension Neptunia: Producing Perfection - Limited Edition | 89920 | [89920-hyperdimension-neptunia-producing-perfection-limited-edition.json](./89920-hyperdimension-neptunia-producing-perfection-limited-edition.json) |
 | Hyperflex Ultra | 355562 | [355562-hyperflex-ultra.json](./355562-hyperflex-ultra.json) |
+| Hypergate | 87985 | [87985-hypergate.json](./87985-hypergate.json) |
 | HyperGlide | 211194 | [211194-hyperglide.json](./211194-hyperglide.json) |
 | Hyperhell | 235965 | [235965-hyperhell.json](./235965-hyperhell.json) |
 | Hyperide VR | 75024 | [75024-hyperide-vr.json](./75024-hyperide-vr.json) |
