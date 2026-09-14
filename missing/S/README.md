@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save me Mr Tako: Tasukete Tako-San | 55175 | [55175-save-me-mr-tako-tasukete-tako-san.json](./55175-save-me-mr-tako-tasukete-tako-san.json) |
 | Save My Pet | 89278 | [89278-save-my-pet.json](./89278-save-my-pet.json) |
 | Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
+| Save Next Christmas | 397069 | [397069-save-next-christmas.json](./397069-save-next-christmas.json) |
 | Save Santa | 219611 | [219611-save-santa.json](./219611-save-santa.json) |
 | Save Snegurochka | 99021 | [99021-save-snegurochka.json](./99021-save-snegurochka.json) |
 | Save The Babies | 335260 | [335260-save-the-babies.json](./335260-save-the-babies.json) |
@@ -1096,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
 | Secrets by Episode | 332434 | [332434-secrets-by-episode.json](./332434-secrets-by-episode.json) |
+| Secrets of Blinck Island | 397077 | [397077-secrets-of-blinck-island.json](./397077-secrets-of-blinck-island.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
 | Secrets of Magic: The Book of Spells | 33245 | [33245-secrets-of-magic-the-book-of-spells.json](./33245-secrets-of-magic-the-book-of-spells.json) |
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
@@ -1384,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setsuna ni Kakeru Koi Hanabi | 302683 | [302683-setsuna-ni-kakeru-koi-hanabi.json](./302683-setsuna-ni-kakeru-koi-hanabi.json) |
 | Setsuna ni Kakeru Koi Hanabi | 339821 | [339821-setsuna-ni-kakeru-koi-hanabi.json](./339821-setsuna-ni-kakeru-koi-hanabi.json) |
 | Setteeh | 312883 | [312883-setteeh.json](./312883-setteeh.json) |
+| Settle | 397075 | [397075-settle.json](./397075-settle.json) |
 | Settle and Battle: New Empires | 324295 | [324295-settle-and-battle-new-empires.json](./324295-settle-and-battle-new-empires.json) |
 | Settlements Rising | 245838 | [245838-settlements-rising.json](./245838-settlements-rising.json) |
 | Settlemoon | 253593 | [253593-settlemoon.json](./253593-settlemoon.json) |
@@ -6844,6 +6847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
 | Suika Monsters | 387352 | [387352-suika-monsters.json](./387352-suika-monsters.json) |
 | Suika Shapes | 276165 | [276165-suika-shapes.json](./276165-suika-shapes.json) |
+| Suika Wan! | 397064 | [397064-suika-wan.json](./397064-suika-wan.json) |
 | Suikan Quest | 82857 | [82857-suikan-quest.json](./82857-suikan-quest.json) |
 | Suikarad Gold | 280766 | [280766-suikarad-gold.json](./280766-suikarad-gold.json) |
 | Suikoden: Star Leap | 334108 | [334108-suikoden-star-leap.json](./334108-suikoden-star-leap.json) |
@@ -7475,6 +7479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: The Star Kingdom | 324112 | [324112-super-mario-the-star-kingdom.json](./324112-super-mario-the-star-kingdom.json) |
 | Super Mario: The Trip | 277045 | [277045-super-mario-the-trip.json](./277045-super-mario-the-trip.json) |
 | Super Mario's Jammin' Journey 64 | 135163 | [135163-super-marios-jammin-journey-64.json](./135163-super-marios-jammin-journey-64.json) |
+| Super Mariofell 64 | 397048 | [397048-super-mariofell-64.json](./397048-super-mariofell-64.json) |
 | Super Marisa World | 77351 | [77351-super-marisa-world.json](./77351-super-marisa-world.json) |
 | Super Market | 320533 | [320533-super-market.json](./320533-super-market.json) |
 | Super Markup Man | 32037 | [32037-super-markup-man.json](./32037-super-markup-man.json) |
