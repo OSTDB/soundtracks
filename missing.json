@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T14:21:32.280Z",
-  "total_missing": 70069,
+  "generated_at": "2026-09-14T14:31:33.862Z",
+  "total_missing": 70081,
   "games": [
     {
       "igdb_id": 306086,
@@ -4461,11 +4461,6 @@
       "igdb_id": 184042,
       "game_name": "Ae",
       "file": "missing/A/184042-ae.json"
-    },
-    {
-      "igdb_id": 279599,
-      "game_name": "AE Mini Game Collection",
-      "file": "missing/A/279599-ae-mini-game-collection.json"
     },
     {
       "igdb_id": 125943,
@@ -25366,6 +25361,11 @@
       "igdb_id": 27128,
       "game_name": "Battalion Commander",
       "file": "missing/B/27128-battalion-commander.json"
+    },
+    {
+      "igdb_id": 398478,
+      "game_name": "Batter Bear",
+      "file": "missing/B/398478-batter-bear.json"
     },
     {
       "igdb_id": 329039,
@@ -70678,6 +70678,11 @@
       "file": "missing/D/106560-delta-horizon.json"
     },
     {
+      "igdb_id": 398464,
+      "game_name": "Delta Manager",
+      "file": "missing/D/398464-delta-manager.json"
+    },
+    {
       "igdb_id": 390011,
       "game_name": "Delta Online",
       "file": "missing/D/390011-delta-online.json"
@@ -73531,6 +73536,11 @@
       "igdb_id": 277024,
       "game_name": "Die Cook",
       "file": "missing/D/277024-die-cook.json"
+    },
+    {
+      "igdb_id": 398477,
+      "game_name": "Die DillyBillys",
+      "file": "missing/D/398477-die-dillybillys.json"
     },
     {
       "igdb_id": 302665,
@@ -99633,6 +99643,11 @@
       "file": "missing/F/89874-final-fantasy-anthology-collectors-package.json"
     },
     {
+      "igdb_id": 398468,
+      "game_name": "Final Fantasy Blackmoon Prophecy Remake",
+      "file": "missing/F/398468-final-fantasy-blackmoon-prophecy-remake.json"
+    },
+    {
       "igdb_id": 84188,
       "game_name": "Final Fantasy for Android",
       "file": "missing/F/84188-final-fantasy-for-android.json"
@@ -119698,6 +119713,11 @@
       "file": "missing/G/289345-greyish-white.json"
     },
     {
+      "igdb_id": 398466,
+      "game_name": "Grid Crypt",
+      "file": "missing/G/398466-grid-crypt.json"
+    },
+    {
       "igdb_id": 94220,
       "game_name": "Grid Iron 2",
       "file": "missing/G/94220-grid-iron-2.json"
@@ -133126,6 +133146,11 @@
       "igdb_id": 200149,
       "game_name": "HopDodge",
       "file": "missing/H/200149-hopdodge.json"
+    },
+    {
+      "igdb_id": 398473,
+      "game_name": "Hope 01",
+      "file": "missing/H/398473-hope-01.json"
     },
     {
       "igdb_id": 337992,
@@ -175888,6 +175913,11 @@
       "file": "missing/M/97354-megamorph.json"
     },
     {
+      "igdb_id": 398461,
+      "game_name": "Megapain",
+      "file": "missing/M/398461-megapain.json"
+    },
+    {
       "igdb_id": 138754,
       "game_name": "MegaPak 1",
       "file": "missing/M/138754-megapak-1.json"
@@ -183341,6 +183371,11 @@
       "igdb_id": 204490,
       "game_name": "Moeru Danmaku STG Moedan",
       "file": "missing/M/204490-moeru-danmaku-stg-moedan.json"
+    },
+    {
+      "igdb_id": 398475,
+      "game_name": "Moeru Mahjong: Moejong!",
+      "file": "missing/M/398475-moeru-mahjong-moejong.json"
     },
     {
       "igdb_id": 213382,
@@ -221813,6 +221848,11 @@
       "file": "missing/P/47272-power-pete.json"
     },
     {
+      "igdb_id": 398471,
+      "game_name": "Power Pets",
+      "file": "missing/P/398471-power-pets.json"
+    },
+    {
       "igdb_id": 146913,
       "game_name": "Power Pipes",
       "file": "missing/P/146913-power-pipes.json"
@@ -237621,6 +237661,11 @@
       "igdb_id": 36079,
       "game_name": "Rift's Cave",
       "file": "missing/R/36079-rifts-cave.json"
+    },
+    {
+      "igdb_id": 398474,
+      "game_name": "Riftborne",
+      "file": "missing/R/398474-riftborne.json"
     },
     {
       "igdb_id": 417536,
@@ -307413,6 +307458,11 @@
       "file": "missing/T/370106-the-uninvited-2-let-nothing-you-dismay.json"
     },
     {
+      "igdb_id": 398460,
+      "game_name": "The Universal Symphony",
+      "file": "missing/T/398460-the-universal-symphony.json"
+    },
+    {
       "igdb_id": 9943,
       "game_name": "The Universim",
       "file": "missing/T/9943-the-universim.json"
@@ -308306,6 +308356,11 @@
       "igdb_id": 108955,
       "game_name": "The Wizards Pet",
       "file": "missing/T/108955-the-wizards-pet.json"
+    },
+    {
+      "igdb_id": 398476,
+      "game_name": "The Woman Above",
+      "file": "missing/T/398476-the-woman-above.json"
     },
     {
       "igdb_id": 327585,
@@ -324136,6 +324191,11 @@
       "igdb_id": 90587,
       "game_name": "Tyrfing Cycle |Vanilla|",
       "file": "missing/T/90587-tyrfing-cycle-vanilla.json"
+    },
+    {
+      "igdb_id": 398472,
+      "game_name": "Tyto",
+      "file": "missing/T/398472-tyto.json"
     },
     {
       "igdb_id": 33243,
