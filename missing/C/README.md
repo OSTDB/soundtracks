@@ -2445,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Kings: The Complete Season | 328460 | [328460-college-kings-the-complete-season.json](./328460-college-kings-the-complete-season.json) |
 | College Lacrosse 2011 | 61039 | [61039-college-lacrosse-2011.json](./61039-college-lacrosse-2011.json) |
 | College Lacrosse 2012 | 61036 | [61036-college-lacrosse-2012.json](./61036-college-lacrosse-2012.json) |
+| College Lacrosse 2014 | 87888 | [87888-college-lacrosse-2014.json](./87888-college-lacrosse-2014.json) |
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
 | Colliderscope | 109673 | [109673-colliderscope.json](./109673-colliderscope.json) |
@@ -2679,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Operations - Shifting Sands | 167866 | [167866-command-modern-operations-shifting-sands.json](./167866-command-modern-operations-shifting-sands.json) |
 | Command: Modern Operations - Shifting Sands | 75030 | [75030-command-modern-operations-shifting-sands.json](./75030-command-modern-operations-shifting-sands.json) |
 | Command: Modern Operations - Showcase Queen Elizabeth | 213026 | [213026-command-modern-operations-showcase-queen-elizabeth.json](./213026-command-modern-operations-showcase-queen-elizabeth.json) |
+| Command: Modern Operations - The Silent Service | 87941 | [87941-command-modern-operations-the-silent-service.json](./87941-command-modern-operations-the-silent-service.json) |
 | Command: Modern Operations Live - Aegean in Flames | 167869 | [167869-command-modern-operations-live-aegean-in-flames.json](./167869-command-modern-operations-live-aegean-in-flames.json) |
 | Command: Modern Operations Live - Kuril Sunrise | 167867 | [167867-command-modern-operations-live-kuril-sunrise.json](./167867-command-modern-operations-live-kuril-sunrise.json) |
 | Command: Modern Operations Live - The King of the Border | 167868 | [167868-command-modern-operations-live-the-king-of-the-border.json](./167868-command-modern-operations-live-the-king-of-the-border.json) |
@@ -2814,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo Bongo | 5669 | [5669-congo-bongo.json](./5669-congo-bongo.json) |
 | Congo Merc | 31821 | [31821-congo-merc.json](./31821-congo-merc.json) |
 | Congo the Movie: The Secret of Zinj | 38289 | [38289-congo-the-movie-the-secret-of-zinj.json](./38289-congo-the-movie-the-secret-of-zinj.json) |
+| Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
 | Conker's Other Bad Fur Day | 77970 | [77970-conkers-other-bad-fur-day.json](./77970-conkers-other-bad-fur-day.json) |
 | Conker's Pocket Tales | 1424 | [1424-conkers-pocket-tales.json](./1424-conkers-pocket-tales.json) |
 | Connect | 314051 | [314051-connect.json](./314051-connect.json) |
