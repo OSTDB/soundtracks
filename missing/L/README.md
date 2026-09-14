@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Panda's Candy Shop | 231932 | [231932-little-pandas-candy-shop.json](./231932-little-pandas-candy-shop.json) |
 | Little Panda's Restaurant | 239916 | [239916-little-pandas-restaurant.json](./239916-little-pandas-restaurant.json) |
 | Little People | 57039 | [57039-little-people.json](./57039-little-people.json) |
+| Little Petsville Desktop | 401641 | [401641-little-petsville-desktop.json](./401641-little-petsville-desktop.json) |
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
 | Little Porp | 236301 | [236301-little-porp.json](./236301-little-porp.json) |
 | Little Postman | 247758 | [247758-little-postman.json](./247758-little-postman.json) |
