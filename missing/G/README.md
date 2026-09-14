@@ -2149,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gui Chu Da Mao Xian | 369566 | [369566-gui-chu-da-mao-xian.json](./369566-gui-chu-da-mao-xian.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
 | Guided Meditation VR | 34577 | [34577-guided-meditation-vr.json](./34577-guided-meditation-vr.json) |
+| Guild Commander | 36097 | [36097-guild-commander.json](./36097-guild-commander.json) |
 | Guild Masters | 110317 | [110317-guild-masters.json](./110317-guild-masters.json) |
 | Guild of Greats | 137024 | [137024-guild-of-greats.json](./137024-guild-of-greats.json) |
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
@@ -2381,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger Trainer | 33158 | [33158-gunslinger-trainer.json](./33158-gunslinger-trainer.json) |
 | Gunslinger: Zombie Survival | 226762 | [226762-gunslinger-zombie-survival.json](./226762-gunslinger-zombie-survival.json) |
 | Gunslingers of the Wasteland vs. The Zombies from Mars | 170503 | [170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json](./170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json) |
+| Gunslugs 2 | 35977 | [35977-gunslugs-2.json](./35977-gunslugs-2.json) |
 | Gunsmith Simulator | 133405 | [133405-gunsmith-simulator.json](./133405-gunsmith-simulator.json) |
 | GunSoul Girl 2 | 213000 | [213000-gunsoul-girl-2.json](./213000-gunsoul-girl-2.json) |
 | Gunspell: Steam Edition | 36221 | [36221-gunspell-steam-edition.json](./36221-gunspell-steam-edition.json) |
