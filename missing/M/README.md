@@ -4381,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bullied Bride | 112950 | [112950-my-bullied-bride.json](./112950-my-bullied-bride.json) |
 | My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
 | My Cake Shop HD | 104607 | [104607-my-cake-shop-hd.json](./104607-my-cake-shop-hd.json) |
+| My Cannibal Family | 404918 | [404918-my-cannibal-family.json](./404918-my-cannibal-family.json) |
 | My Car My Life | 373542 | [373542-my-car-my-life.json](./373542-my-car-my-life.json) |
 | My Car Salon Pro | 323166 | [323166-my-car-salon-pro.json](./323166-my-car-salon-pro.json) |
 | My Cat | 222880 | [222880-my-cat.json](./222880-my-cat.json) |
