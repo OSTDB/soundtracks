@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifting Unlimited | 302109 | [302109-lifting-unlimited.json](./302109-lifting-unlimited.json) |
 | Light 'em Up | 204495 | [204495-light-em-up.json](./204495-light-em-up.json) |
 | Light & Shadow | 226425 | [226425-light-and-shadow.json](./226425-light-and-shadow.json) |
+| Light A Way | 80873 | [80873-light-a-way.json](./80873-light-a-way.json) |
 | Light and Dance VR | 29904 | [29904-light-and-dance-vr.json](./29904-light-and-dance-vr.json) |
 | Light Arrow is Missing | 262674 | [262674-light-arrow-is-missing.json](./262674-light-arrow-is-missing.json) |
 | Light Bearers | 111032 | [111032-light-bearers.json](./111032-light-bearers.json) |
@@ -1141,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
 | Limits of Intelligence | 301821 | [301821-limits-of-intelligence.json](./301821-limits-of-intelligence.json) |
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
+| Linch | 80978 | [80978-linch.json](./80978-linch.json) |
 | Lincoln Green | 231086 | [231086-lincoln-green.json](./231086-lincoln-green.json) |
 | Lindsi Luna Blast | 62215 | [62215-lindsi-luna-blast.json](./62215-lindsi-luna-blast.json) |
 | Line 88 | 240472 | [240472-line-88.json](./240472-line-88.json) |
