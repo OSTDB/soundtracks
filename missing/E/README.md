@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Pixel War | 296391 | [296391-epic-pixel-war.json](./296391-epic-pixel-war.json) |
 | Epic Pizza | 277314 | [277314-epic-pizza.json](./277314-epic-pizza.json) |
 | Epic Prose: Special Edition | 52020 | [52020-epic-prose-special-edition.json](./52020-epic-prose-special-edition.json) |
+| Epic Quest of the 4 Crystals | 34695 | [34695-epic-quest-of-the-4-crystals.json](./34695-epic-quest-of-the-4-crystals.json) |
 | Epic Racers | 198460 | [198460-epic-racers.json](./198460-epic-racers.json) |
 | Epic Roller Coasters: Antarctica | 255133 | [255133-epic-roller-coasters-antarctica.json](./255133-epic-roller-coasters-antarctica.json) |
 | Epic Roller Coasters: Candyland | 243695 | [243695-epic-roller-coasters-candyland.json](./243695-epic-roller-coasters-candyland.json) |
@@ -1543,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
 | EvoLife | 323744 | [323744-evolife.json](./323744-evolife.json) |
 | Evolution | 178006 | [178006-evolution.json](./178006-evolution.json) |
+| Evolution | 34674 | [34674-evolution.json](./34674-evolution.json) |
 | Evolution | 370144 | [370144-evolution.json](./370144-evolution.json) |
 | Evolution Battle Simulator | 126610 | [126610-evolution-battle-simulator.json](./126610-evolution-battle-simulator.json) |
 | Evolution Board Game: Climate Expansion | 238214 | [238214-evolution-board-game-climate-expansion.json](./238214-evolution-board-game-climate-expansion.json) |
