@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector 666 | 308256 | [308256-sector-666.json](./308256-sector-666.json) |
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
 | Sector Alpha | 183518 | [183518-sector-alpha.json](./183518-sector-alpha.json) |
+| Sector Lockdown | 382335 | [382335-sector-lockdown.json](./382335-sector-lockdown.json) |
 | Sector Six | 32924 | [32924-sector-six.json](./32924-sector-six.json) |
 | Sector Strike | 145016 | [145016-sector-strike.json](./145016-sector-strike.json) |
 | Sector Zero | 35783 | [35783-sector-zero.json](./35783-sector-zero.json) |
@@ -1514,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Hentai Puzzle | 214189 | [214189-sexy-hentai-puzzle.json](./214189-sexy-hentai-puzzle.json) |
 | Sexy Invaders | 41355 | [41355-sexy-invaders.json](./41355-sexy-invaders.json) |
 | Sexy Ladies | 264633 | [264633-sexy-ladies.json](./264633-sexy-ladies.json) |
+| Sexy Match | 382281 | [382281-sexy-match.json](./382281-sexy-match.json) |
 | Sexy Memory Puzzle: Spanking Girls | 248658 | [248658-sexy-memory-puzzle-spanking-girls.json](./248658-sexy-memory-puzzle-spanking-girls.json) |
 | Sexy Sniper | 159814 | [159814-sexy-sniper.json](./159814-sexy-sniper.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
@@ -2941,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky of Tides | 122389 | [122389-sky-of-tides.json](./122389-sky-of-tides.json) |
 | Sky Patrol | 40793 | [40793-sky-patrol.json](./40793-sky-patrol.json) |
 | Sky Races | 186909 | [186909-sky-races.json](./186909-sky-races.json) |
+| Sky Reach | 382347 | [382347-sky-reach.json](./382347-sky-reach.json) |
 | Sky Realm: Essences | 118332 | [118332-sky-realm-essences.json](./118332-sky-realm-essences.json) |
 | Sky Reclaimers | 348247 | [348247-sky-reclaimers.json](./348247-sky-reclaimers.json) |
 | Sky Rollball | 28844 | [28844-sky-rollball.json](./28844-sky-rollball.json) |
@@ -5238,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splodge Royale | 190166 | [190166-splodge-royale.json](./190166-splodge-royale.json) |
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
 | Sponchies | 68603 | [68603-sponchies.json](./68603-sponchies.json) |
+| SpongeBob Big Guy Challenge | 382339 | [382339-spongebob-big-guy-challenge.json](./382339-spongebob-big-guy-challenge.json) |
 | SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
 | SpongeBob SolitairePants | 294177 | [294177-spongebob-solitairepants.json](./294177-spongebob-solitairepants.json) |
@@ -5310,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sportfischen Professional | 130851 | [130851-sportfischen-professional.json](./130851-sportfischen-professional.json) |
 | Sporting Triangles | 72062 | [72062-sporting-triangles.json](./72062-sporting-triangles.json) |
 | Sports Action Pak | 56456 | [56456-sports-action-pak.json](./56456-sports-action-pak.json) |
+| Sports Babes | 382284 | [382284-sports-babes.json](./382284-sports-babes.json) |
 | Sports Car Challenge 2 | 233243 | [233243-sports-car-challenge-2.json](./233243-sports-car-challenge-2.json) |
 | Sports Car Driver | 187493 | [187493-sports-car-driver.json](./187493-sports-car-driver.json) |
 | Sports Car Driving Simulator 2018 | 100867 | [100867-sports-car-driving-simulator-2018.json](./100867-sports-car-driving-simulator-2018.json) |
@@ -6169,6 +6174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
 | Steel Worker | 299481 | [299481-steel-worker.json](./299481-steel-worker.json) |
 | Steel Wound | 217310 | [217310-steel-wound.json](./217310-steel-wound.json) |
+| SteelBlade Shop Simulator | 382322 | [382322-steelblade-shop-simulator.json](./382322-steelblade-shop-simulator.json) |
 | Steelpaw | 124141 | [124141-steelpaw.json](./124141-steelpaw.json) |
 | SteelRacer | 250939 | [250939-steelracer.json](./250939-steelracer.json) |
 | Steelrising: Bastille Edition | 205569 | [205569-steelrising-bastille-edition.json](./205569-steelrising-bastille-edition.json) |
@@ -6547,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamline | 81180 | [81180-streamline.json](./81180-streamline.json) |
 | StreamWalker Tribes | 180252 | [180252-streamwalker-tribes.json](./180252-streamwalker-tribes.json) |
 | Strect | 413725 | [413725-strect.json](./413725-strect.json) |
+| Street & Girls | 382285 | [382285-street-and-girls.json](./382285-street-and-girls.json) |
 | Street Basket Challenge | 236833 | [236833-street-basket-challenge.json](./236833-street-basket-challenge.json) |
 | Street Beat | 69836 | [69836-street-beat.json](./69836-street-beat.json) |
 | Street Bike: Full Blast HD | 20742 | [20742-street-bike-full-blast-hd.json](./20742-street-bike-full-blast-hd.json) |
