@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
 | Valorbound | 222900 | [222900-valorbound.json](./222900-valorbound.json) |
 | Valve Complete Pack | 55025 | [55025-valve-complete-pack.json](./55025-valve-complete-pack.json) |
+| Valvontaa | 399057 | [399057-valvontaa.json](./399057-valvontaa.json) |
 | Valyria Tear | 60586 | [60586-valyria-tear.json](./60586-valyria-tear.json) |
 | Valzar | 34391 | [34391-valzar.json](./34391-valzar.json) |
 | Vampirdzhija Vjedogonia | 130309 | [130309-vampirdzhija-vjedogonia.json](./130309-vampirdzhija-vjedogonia.json) |
