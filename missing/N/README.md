@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Park Girls: Episode 2 - Happy Trails | 164444 | [164444-national-park-girls-episode-2-happy-trails.json](./164444-national-park-girls-episode-2-happy-trails.json) |
 | National Park Girls: Episode 3 - Daughter of Zion | 164445 | [164445-national-park-girls-episode-3-daughter-of-zion.json](./164445-national-park-girls-episode-3-daughter-of-zion.json) |
 | National Park Girls: Episode 4 - Eternal Evergreen Part 1 | 164446 | [164446-national-park-girls-episode-4-eternal-evergreen-part-1.json](./164446-national-park-girls-episode-4-eternal-evergreen-part-1.json) |
+| National Rugby Manager | 81005 | [81005-national-rugby-manager.json](./81005-national-rugby-manager.json) |
 | Nationality Guesser | 340229 | [340229-nationality-guesser.json](./340229-nationality-guesser.json) |
 | Nations At War Digital: Desert Heat Battlepack 1 | 166200 | [166200-nations-at-war-digital-desert-heat-battlepack-1.json](./166200-nations-at-war-digital-desert-heat-battlepack-1.json) |
 | Nations At War Digital: Desert Heat Battlepack 2 | 166199 | [166199-nations-at-war-digital-desert-heat-battlepack-2.json](./166199-nations-at-war-digital-desert-heat-battlepack-2.json) |
@@ -519,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis - RPG | 143084 | [143084-nemesis-rpg.json](./143084-nemesis-rpg.json) |
 | Nemesis '90 Kai | 314677 | [314677-nemesis-90-kai.json](./314677-nemesis-90-kai.json) |
 | Nemesis 2 | 1480 | [1480-nemesis-2.json](./1480-nemesis-2.json) |
+| Nemesis Realms | 80883 | [80883-nemesis-realms.json](./80883-nemesis-realms.json) |
 | Nemesis the Warlock | 37187 | [37187-nemesis-the-warlock.json](./37187-nemesis-the-warlock.json) |
 | Nemesis: The Final Challenge | 262391 | [262391-nemesis-the-final-challenge.json](./262391-nemesis-the-final-challenge.json) |
 | Nemesis: The Final Challenge | 262392 | [262392-nemesis-the-final-challenge.json](./262392-nemesis-the-final-challenge.json) |
