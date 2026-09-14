@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Face | 353895 | [353895-fish-face.json](./353895-fish-face.json) |
 | Fish Fight! | 332998 | [332998-fish-fight.json](./332998-fish-fight.json) |
 | Fish Fly Fever | 134685 | [134685-fish-fly-fever.json](./134685-fish-fly-fever.json) |
+| Fish for gold | 51584 | [51584-fish-for-gold.json](./51584-fish-for-gold.json) |
 | Fish For Reel | 87185 | [87185-fish-for-reel.json](./87185-fish-for-reel.json) |
 | Fish Game | 269021 | [269021-fish-game.json](./269021-fish-game.json) |
 | Fish Game | 381020 | [381020-fish-game.json](./381020-fish-game.json) |
