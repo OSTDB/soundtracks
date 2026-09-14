@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T07:34:03.251Z",
-  "total_missing": 68974,
+  "generated_at": "2026-09-14T07:41:32.957Z",
+  "total_missing": 68973,
   "games": [
     {
       "igdb_id": 306086,
@@ -4256,11 +4256,6 @@
       "igdb_id": 356071,
       "game_name": "Adventure Learning Inside Humans",
       "file": "missing/A/356071-adventure-learning-inside-humans.json"
-    },
-    {
-      "igdb_id": 149534,
-      "game_name": "Adventure Light",
-      "file": "missing/A/149534-adventure-light.json"
     },
     {
       "igdb_id": 246958,
