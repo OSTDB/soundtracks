@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Warrior: Dreamstate | 209714 | [209714-keyboard-warrior-dreamstate.json](./209714-keyboard-warrior-dreamstate.json) |
 | Keyg | 108385 | [108385-keyg.json](./108385-keyg.json) |
 | Keyhole Spy: Fantasy Passion | 110382 | [110382-keyhole-spy-fantasy-passion.json](./110382-keyhole-spy-fantasy-passion.json) |
+| Keyhole Spy: Frozen Hotties | 111266 | [111266-keyhole-spy-frozen-hotties.json](./111266-keyhole-spy-frozen-hotties.json) |
 | Keyhole Spy: Lots of Girls | 110383 | [110383-keyhole-spy-lots-of-girls.json](./110383-keyhole-spy-lots-of-girls.json) |
 | Keyhole Spy: Naughty Witches | 110380 | [110380-keyhole-spy-naughty-witches.json](./110380-keyhole-spy-naughty-witches.json) |
 | Keykode | 349867 | [349867-keykode.json](./349867-keykode.json) |
