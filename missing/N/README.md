@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Chaos Code (tentative title) | 131549 | [131549-new-chaos-code-tentative-title.json](./131549-new-chaos-code-tentative-title.json) |
 | New Christmas House Hidden Objects | 108450 | [108450-new-christmas-house-hidden-objects.json](./108450-new-christmas-house-hidden-objects.json) |
 | New Club Penguin | 246088 | [246088-new-club-penguin.json](./246088-new-club-penguin.json) |
+| New Dawn | 25819 | [25819-new-dawn.json](./25819-new-dawn.json) |
 | New Dungeons | 268777 | [268777-new-dungeons.json](./268777-new-dungeons.json) |
 | New England Detective: Breakfast in Boston | 119002 | [119002-new-england-detective-breakfast-in-boston.json](./119002-new-england-detective-breakfast-in-boston.json) |
 | New English Training: Learning with Tempo - Advanced Edition | 260942 | [260942-new-english-training-learning-with-tempo-advanced-edition.json](./260942-new-english-training-learning-with-tempo-advanced-edition.json) |
@@ -1678,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NPool: Snooker Mode | 314891 | [314891-npool-snooker-mode.json](./314891-npool-snooker-mode.json) |
 | NRA Gun Club | 20575 | [20575-nra-gun-club.json](./20575-nra-gun-club.json) |
 | Nrg | 174348 | [174348-nrg.json](./174348-nrg.json) |
+| NSFW: Not a Simulator for Working | 25606 | [25606-nsfw-not-a-simulator-for-working.json](./25606-nsfw-not-a-simulator-for-working.json) |
 | NSYNC: Get to the Show | 49955 | [49955-nsync-get-to-the-show.json](./49955-nsync-get-to-the-show.json) |
 | Nth Dimension[al] Hiking | 327183 | [327183-nth-dimension-al-hiking.json](./327183-nth-dimension-al-hiking.json) |
 | Nth^0: Infinity Reborn | 129799 | [129799-nth-0-infinity-reborn.json](./129799-nth-0-infinity-reborn.json) |
