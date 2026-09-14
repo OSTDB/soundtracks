@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | F-1 Chequered Flag | 59977 | [59977-f-1-chequered-flag.json](./59977-f-1-chequered-flag.json) |
+| F-1 Grand Prix 1996: Team Unei Simulation | 382916 | [382916-f-1-grand-prix-1996-team-unei-simulation.json](./382916-f-1-grand-prix-1996-team-unei-simulation.json) |
 | F-1 Grand Prix Part II | 38335 | [38335-f-1-grand-prix-part-ii.json](./38335-f-1-grand-prix-part-ii.json) |
 | F-1 Grand Prix Part III | 38362 | [38362-f-1-grand-prix-part-iii.json](./38362-f-1-grand-prix-part-iii.json) |
 | F-16 Combat Pilot | 12085 | [12085-f-16-combat-pilot.json](./12085-f-16-combat-pilot.json) |
@@ -705,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
 | Fate of the Seventh Scholar | 366260 | [366260-fate-of-the-seventh-scholar.json](./366260-fate-of-the-seventh-scholar.json) |
 | Fate's Reflection Tthe Case of Detective Kotomu | 348793 | [348793-fates-reflection-tthe-case-of-detective-kotomu.json](./348793-fates-reflection-tthe-case-of-detective-kotomu.json) |
+| Fate/Empire of Dirt: Made in Heaven | 382874 | [382874-fate-empire-of-dirt-made-in-heaven.json](./382874-fate-empire-of-dirt-made-in-heaven.json) |
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
 | Fate/Extella: Celebration Box | 140007 | [140007-fate-extella-celebration-box.json](./140007-fate-extella-celebration-box.json) |
 | Fate/Grand Order Lostbelt No. 1: Anastasia | 414302 | [414302-fate-grand-order-lostbelt-no-1-anastasia.json](./414302-fate-grand-order-lostbelt-no-1-anastasia.json) |
@@ -1945,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flufftopia: Fluffmazing Edition | 386272 | [386272-flufftopia-fluffmazing-edition.json](./386272-flufftopia-fluffmazing-edition.json) |
 | Fluffy | 29808 | [29808-fluffy.json](./29808-fluffy.json) |
 | Fluffy Bear | 79308 | [79308-fluffy-bear.json](./79308-fluffy-bear.json) |
+| Fluffy Chef | 382889 | [382889-fluffy-chef.json](./382889-fluffy-chef.json) |
 | Fluffy Creatures vs. The World | 28808 | [28808-fluffy-creatures-vs-the-world.json](./28808-fluffy-creatures-vs-the-world.json) |
 | Fluffy Doki Sunshine | 274980 | [274980-fluffy-doki-sunshine.json](./274980-fluffy-doki-sunshine.json) |
 | Fluffy Fall | 87172 | [87172-fluffy-fall.json](./87172-fluffy-fall.json) |
@@ -2064,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foes.io | 75135 | [75135-foes-io.json](./75135-foes-io.json) |
 | FOF: Fear Of Failure | 372496 | [372496-fof-fear-of-failure.json](./372496-fof-fear-of-failure.json) |
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
+| Foillower | 382923 | [382923-foillower.json](./382923-foillower.json) |
 | Fold & Cut | 255744 | [255744-fold-and-cut.json](./255744-fold-and-cut.json) |
 | Fold the World | 348800 | [348800-fold-the-world.json](./348800-fold-the-world.json) |
 | Folder Dungeon | 267357 | [267357-folder-dungeon.json](./267357-folder-dungeon.json) |
