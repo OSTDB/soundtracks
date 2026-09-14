@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Wave | 128583 | [128583-no-wave.json](./128583-no-wave.json) |
 | No Way Home | 117007 | [117007-no-way-home.json](./117007-no-way-home.json) |
 | No Way Out | 239677 | [239677-no-way-out.json](./239677-no-way-out.json) |
+| No Way Out | 30104 | [30104-no-way-out.json](./30104-no-way-out.json) |
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
 | No, Human | 93503 | [93503-no-human.json](./93503-no-human.json) |
@@ -1787,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyassembled! | 332979 | [332979-nyassembled.json](./332979-nyassembled.json) |
 | Nyctophilia | 34424 | [34424-nyctophilia.json](./34424-nyctophilia.json) |
 | Nyctophobia: Fear the Dark | 285444 | [285444-nyctophobia-fear-the-dark.json](./285444-nyctophobia-fear-the-dark.json) |
+| Nyheim | 30113 | [30113-nyheim.json](./30113-nyheim.json) |
 | Nyjah Huston: #Skatelife | 105907 | [105907-nyjah-huston-skatelife.json](./105907-nyjah-huston-skatelife.json) |
 | Nykra | 102195 | [102195-nykra.json](./102195-nykra.json) |
 | Nykrig | 184646 | [184646-nykrig.json](./184646-nykrig.json) |
