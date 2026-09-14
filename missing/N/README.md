@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Geometry Dash | 279004 | [279004-neon-geometry-dash.json](./279004-neon-geometry-dash.json) |
 | Neon Girls | 140563 | [140563-neon-girls.json](./140563-neon-girls.json) |
 | Neon Goddess | 278967 | [278967-neon-goddess.json](./278967-neon-goddess.json) |
+| Neon Hardcore | 51586 | [51586-neon-hardcore.json](./51586-neon-hardcore.json) |
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
 | Neon Junctions | 118352 | [118352-neon-junctions.json](./118352-neon-junctions.json) |
 | Neon Ladder | 311803 | [311803-neon-ladder.json](./311803-neon-ladder.json) |
@@ -867,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexomon | 88130 | [88130-nexomon.json](./88130-nexomon.json) |
 | Nexonauts | 336563 | [336563-nexonauts.json](./336563-nexonauts.json) |
 | Next 4 | 102440 | [102440-next-4.json](./102440-next-4.json) |
+| Next Day: Survival | 51495 | [51495-next-day-survival.json](./51495-next-day-survival.json) |
 | Next Earth: The Journey Trilogy | 149568 | [149568-next-earth-the-journey-trilogy.json](./149568-next-earth-the-journey-trilogy.json) |
 | Next Island | 92473 | [92473-next-island.json](./92473-next-island.json) |
 | Next Power | 242772 | [242772-next-power.json](./242772-next-power.json) |
