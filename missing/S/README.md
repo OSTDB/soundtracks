@@ -113,6 +113,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safecracker: The Ultimate Puzzle Adventure | 5135 | [5135-safecracker-the-ultimate-puzzle-adventure.json](./5135-safecracker-the-ultimate-puzzle-adventure.json) |
 | Safelight | 302926 | [302926-safelight.json](./302926-safelight.json) |
 | Safety Driving - The Motorbike Simulation | 54351 | [54351-safety-driving-the-motorbike-simulation.json](./54351-safety-driving-the-motorbike-simulation.json) |
+| Safety Driving Simulator: Car | 33311 | [33311-safety-driving-simulator-car.json](./33311-safety-driving-simulator-car.json) |
+| Safety Driving Simulator: Motorbike | 33312 | [33312-safety-driving-simulator-motorbike.json](./33312-safety-driving-simulator-motorbike.json) |
 | Safety Driving: The Safety Simulation - Car | 10804 | [10804-safety-driving-the-safety-simulation-car.json](./10804-safety-driving-the-safety-simulation-car.json) |
 | Safety First! | 32189 | [32189-safety-first.json](./32189-safety-first.json) |
 | Safety Instructions | 414290 | [414290-safety-instructions.json](./414290-safety-instructions.json) |
@@ -1073,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
 | Secrets by Episode | 332434 | [332434-secrets-by-episode.json](./332434-secrets-by-episode.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
+| Secrets of Magic: The Book of Spells | 33245 | [33245-secrets-of-magic-the-book-of-spells.json](./33245-secrets-of-magic-the-book-of-spells.json) |
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
 | Secrets of the Dark: Eclipse Mountain - Collector's Edition | 96752 | [96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json](./96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json) |
 | Secrets of the Dark: Mystery of the Ancestral Estate & Secrets of the Dark: The Flower of Shadow | 201813 | [201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json](./201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json) |
@@ -4605,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceman | 309854 | [309854-spaceman.json](./309854-spaceman.json) |
 | Spaceman Defender | 120371 | [120371-spaceman-defender.json](./120371-spaceman-defender.json) |
 | Spaceman Memories | 250972 | [250972-spaceman-memories.json](./250972-spaceman-memories.json) |
+| Spaceman Sparkles 3 | 33242 | [33242-spaceman-sparkles-3.json](./33242-spaceman-sparkles-3.json) |
 | Spacemancer | 200716 | [200716-spacemancer.json](./200716-spacemancer.json) |
 | SpaceMaster X-7 | 23844 | [23844-spacemaster-x-7.json](./23844-spacemaster-x-7.json) |
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
@@ -4871,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
 | Spider Ultimate | 100738 | [100738-spider-ultimate.json](./100738-spider-ultimate.json) |
+| Spider Wars | 33209 | [33209-spider-wars.json](./33209-spider-wars.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
 | Spider-Man | 220109 | [220109-spider-man.json](./220109-spider-man.json) |
 | Spider-Man | 248203 | [248203-spider-man.json](./248203-spider-man.json) |
