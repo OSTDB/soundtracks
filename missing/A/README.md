@@ -378,7 +378,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Rockstars of Ooo | 59923 | [59923-adventure-time-rockstars-of-ooo.json](./59923-adventure-time-rockstars-of-ooo.json) |
 | Adventure Value Pack #2 | 77327 | [77327-adventure-value-pack-2.json](./77327-adventure-value-pack-2.json) |
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
-| Adventure Workshop 4th-6th Grade 5th Edition | 72114 | [72114-adventure-workshop-4th-6th-grade-5th-edition.json](./72114-adventure-workshop-4th-6th-grade-5th-edition.json) |
 | Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
 | AdventureQuest Worlds: Infinity | 211394 | [211394-adventurequest-worlds-infinity.json](./211394-adventurequest-worlds-infinity.json) |
 | Adventurer | 391046 | [391046-adventurer.json](./391046-adventurer.json) |
