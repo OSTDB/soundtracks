@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
 | Focus | 242576 | [242576-focus.json](./242576-focus.json) |
 | Focus | 381028 | [381028-focus.json](./381028-focus.json) |
+| Focus | 407452 | [407452-focus.json](./407452-focus.json) |
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
 | Foddia | 332436 | [332436-foddia.json](./332436-foddia.json) |
