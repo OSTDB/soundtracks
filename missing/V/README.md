@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VirtualAbbey | 107131 | [107131-virtualabbey.json](./107131-virtualabbey.json) |
 | VirtualCast | 180212 | [180212-virtualcast.json](./180212-virtualcast.json) |
 | Virtuále: Heist Simulations | 338567 | [338567-virtuale-heist-simulations.json](./338567-virtuale-heist-simulations.json) |
+| Virtualis Galeria | 383505 | [383505-virtualis-galeria.json](./383505-virtualis-galeria.json) |
 | Virtually Board Snowboarding 2 | 202947 | [202947-virtually-board-snowboarding-2.json](./202947-virtually-board-snowboarding-2.json) |
 | Virtue | 282015 | [282015-virtue.json](./282015-virtue.json) |
 | Virus | 12812 | [12812-virus.json](./12812-virus.json) |
