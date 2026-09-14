@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Shadows of New York | 322399 | [322399-yakuza-shadows-of-new-york.json](./322399-yakuza-shadows-of-new-york.json) |
 | Yakuza: Dead Souls | 7489 | [7489-yakuza-dead-souls.json](./7489-yakuza-dead-souls.json) |
 | Yakuza: Like a Dragon | 36550 | [36550-yakuza-like-a-dragon.json](./36550-yakuza-like-a-dragon.json) |
+| Yakuza: Like a Dragon - Limited Edition | 386271 | [386271-yakuza-like-a-dragon-limited-edition.json](./386271-yakuza-like-a-dragon-limited-edition.json) |
 | Yama no Susume: Next Summit - Ano Yama ni, Mou Ichido | 277306 | [277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json](./277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json) |
 | Yamakawa Shuppansha Kanshuu: Shousetsu Nihonshi DS | 124153 | [124153-yamakawa-shuppansha-kanshuu-shousetsu-nihonshi-ds.json](./124153-yamakawa-shuppansha-kanshuu-shousetsu-nihonshi-ds.json) |
 | Yamakawa Shuppansha Kanshuu: Shousetsu Sekaishi DS | 124152 | [124152-yamakawa-shuppansha-kanshuu-shousetsu-sekaishi-ds.json](./124152-yamakawa-shuppansha-kanshuu-shousetsu-sekaishi-ds.json) |
@@ -173,6 +174,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Tamer | 193936 | [193936-yokai-tamer.json](./193936-yokai-tamer.json) |
 | Yokai's Secret | 138265 | [138265-yokais-secret.json](./138265-yokais-secret.json) |
 | Yokaiware | 186313 | [186313-yokaiware.json](./186313-yokaiware.json) |
+| Yokaizer: Kaiki-dou | 385721 | [385721-yokaizer-kaiki-dou.json](./385721-yokaizer-kaiki-dou.json) |
+| Yokaizer: Yuuki-dou | 385720 | [385720-yokaizer-yuuki-dou.json](./385720-yokaizer-yuuki-dou.json) |
 | YokeLight | 103421 | [103421-yokelight.json](./103421-yokelight.json) |
 | Yoko Redux: Dreams of a Blue Planet | 191240 | [191240-yoko-redux-dreams-of-a-blue-planet.json](./191240-yoko-redux-dreams-of-a-blue-planet.json) |
 | Yokoi-san Warp | 183022 | [183022-yokoi-san-warp.json](./183022-yokoi-san-warp.json) |
