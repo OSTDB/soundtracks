@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Story | 221190 | [221190-galactic-story.json](./221190-galactic-story.json) |
 | Galactic Traffic Control | 325839 | [325839-galactic-traffic-control.json](./325839-galactic-traffic-control.json) |
 | Galactic Vibes | 336890 | [336890-galactic-vibes.json](./336890-galactic-vibes.json) |
+| Galactic Warfare Collection | 414456 | [414456-galactic-warfare-collection.json](./414456-galactic-warfare-collection.json) |
 | Galactic Warp | 178637 | [178637-galactic-warp.json](./178637-galactic-warp.json) |
 | Galactic Warrior | 28817 | [28817-galactic-warrior.json](./28817-galactic-warrior.json) |
 | Galactic Wars | 133996 | [133996-galactic-wars.json](./133996-galactic-wars.json) |
@@ -2081,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groupel | 374057 | [374057-groupel.json](./374057-groupel.json) |
 | Groups of Seven | 335861 | [335861-groups-of-seven.json](./335861-groups-of-seven.json) |
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
+| Grow & Go: Cozy Deliveries | 414406 | [414406-grow-and-go-cozy-deliveries.json](./414406-grow-and-go-cozy-deliveries.json) |
 | Grow Beets Clicker | 259556 | [259556-grow-beets-clicker.json](./259556-grow-beets-clicker.json) |
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
 | Grow Golf | 394884 | [394884-grow-golf.json](./394884-grow-golf.json) |
