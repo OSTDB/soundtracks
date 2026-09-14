@@ -356,7 +356,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AdVenture Capitalist | 9591 | [9591-adventure-capitalist.json](./9591-adventure-capitalist.json) |
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
 | Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
-| Adventure Escape Room Bundle | 247492 | [247492-adventure-escape-room-bundle.json](./247492-adventure-escape-room-bundle.json) |
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
 | Adventure Hero | 105310 | [105310-adventure-hero.json](./105310-adventure-hero.json) |
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
