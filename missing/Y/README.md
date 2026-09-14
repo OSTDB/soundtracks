@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Had a Bad Dream | 405593 | [405593-you-had-a-bad-dream.json](./405593-you-had-a-bad-dream.json) |
 | You Have 10 Seconds | 31909 | [31909-you-have-10-seconds.json](./31909-you-have-10-seconds.json) |
 | You have a drunk friend | 111355 | [111355-you-have-a-drunk-friend.json](./111355-you-have-a-drunk-friend.json) |
+| You Have One Shot | 390120 | [390120-you-have-one-shot.json](./390120-you-have-one-shot.json) |
 | You Have to Go to Work | 176421 | [176421-you-have-to-go-to-work.json](./176421-you-have-to-go-to-work.json) |
 | You May | 229709 | [229709-you-may.json](./229709-you-may.json) |
 | Yóu Mèng Zhèng: Dreamfarer | 394196 | [394196-you-meng-zheng-dreamfarer.json](./394196-you-meng-zheng-dreamfarer.json) |
