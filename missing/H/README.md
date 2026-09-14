@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Skytree Village | 19393 | [19393-harvest-moon-skytree-village.json](./19393-harvest-moon-skytree-village.json) |
 | Harvest Reaper | 394903 | [394903-harvest-reaper.json](./394903-harvest-reaper.json) |
 | Harvest Season: Sudoku Puzzle | 241992 | [241992-harvest-season-sudoku-puzzle.json](./241992-harvest-season-sudoku-puzzle.json) |
+| Harvest Skies: Crop Dusting Simulator | 395693 | [395693-harvest-skies-crop-dusting-simulator.json](./395693-harvest-skies-crop-dusting-simulator.json) |
 | Harvest Them | 239295 | [239295-harvest-them.json](./239295-harvest-them.json) |
 | Harvest Uranus | 244514 | [244514-harvest-uranus.json](./244514-harvest-uranus.json) |
 | Harvest Village | 340417 | [340417-harvest-village.json](./340417-harvest-village.json) |
@@ -1823,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitler is My Crush: Love and Fascism | 318420 | [318420-hitler-is-my-crush-love-and-fascism.json](./318420-hitler-is-my-crush-love-and-fascism.json) |
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitler no Fukkatsu: Top Secret | 48580 | [48580-hitler-no-fukkatsu-top-secret.json](./48580-hitler-no-fukkatsu-top-secret.json) |
+| Hitmaker Tycoon | 395704 | [395704-hitmaker-tycoon.json](./395704-hitmaker-tycoon.json) |
 | Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
 | Hitman 3 | 134595 | [134595-hitman-3.json](./134595-hitman-3.json) |
 | Hitman 3: The Banker Pack | 357256 | [357256-hitman-3-the-banker-pack.json](./357256-hitman-3-the-banker-pack.json) |
@@ -2255,6 +2257,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
 | Horses of Hoofprint Bay | 376483 | [376483-horses-of-hoofprint-bay.json](./376483-horses-of-hoofprint-bay.json) |
 | Horses.io: Horse Herd Racing | 269010 | [269010-horses-io-horse-herd-racing.json](./269010-horses-io-horse-herd-racing.json) |
+| Horticular: Complete Edition | 395680 | [395680-horticular-complete-edition.json](./395680-horticular-complete-edition.json) |
+| Horticular: Frozen Frontier | 395687 | [395687-horticular-frozen-frontier.json](./395687-horticular-frozen-frontier.json) |
 | Hose Hero | 314032 | [314032-hose-hero.json](./314032-hose-hero.json) |
 | Hoshi & Ishi | 76673 | [76673-hoshi-and-ishi.json](./76673-hoshi-and-ishi.json) |
 | Hoshi no Kakera no Monogatari. Shikake-ban | 220328 | [220328-hoshi-no-kakera-no-monogatari-shikake-ban.json](./220328-hoshi-no-kakera-no-monogatari-shikake-ban.json) |
