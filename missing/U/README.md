@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman: Kaijuu Teikoku no Gyakushuu | 41333 | [41333-ultraman-kaijuu-teikoku-no-gyakushuu.json](./41333-ultraman-kaijuu-teikoku-no-gyakushuu.json) |
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
 | UltraNothing | 277832 | [277832-ultranothing.json](./277832-ultranothing.json) |
+| Ultrapool | 380523 | [380523-ultrapool.json](./380523-ultrapool.json) |
 | Ultrasecreto/Prólogo | 382239 | [382239-ultrasecreto-prologo.json](./382239-ultrasecreto-prologo.json) |
 | Ultrawings Flat | 113038 | [113038-ultrawings-flat.json](./113038-ultrawings-flat.json) |
 | Ultrazone | 268223 | [268223-ultrazone.json](./268223-ultrazone.json) |
@@ -399,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Zero | 33223 | [33223-under-zero.json](./33223-under-zero.json) |
 | Undercards | 57109 | [57109-undercards.json](./57109-undercards.json) |
 | Underchoice | 386844 | [386844-underchoice.json](./386844-underchoice.json) |
+| Undercity of Sin | 380547 | [380547-undercity-of-sin.json](./380547-undercity-of-sin.json) |
 | Undercore: The Tale of Hardcore | 50503 | [50503-undercore-the-tale-of-hardcore.json](./50503-undercore-the-tale-of-hardcore.json) |
 | Undercover | 321997 | [321997-undercover.json](./321997-undercover.json) |
 | Undercover AD2025 Kei | 86084 | [86084-undercover-ad2025-kei.json](./86084-undercover-ad2025-kei.json) |
