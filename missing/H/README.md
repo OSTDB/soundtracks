@@ -1249,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
 | Hero Well | 249200 | [249200-hero-well.json](./249200-hero-well.json) |
 | Hero World | 322376 | [322376-hero-world.json](./322376-hero-world.json) |
+| Hero x Hero | 406780 | [406780-hero-x-hero.json](./406780-hero-x-hero.json) |
 | Hero Zex | 191254 | [191254-hero-zex.json](./191254-hero-zex.json) |
 | Hero: Flood Rescue | 118428 | [118428-hero-flood-rescue.json](./118428-hero-flood-rescue.json) |
 | Hero's Descent | 74363 | [74363-heros-descent.json](./74363-heros-descent.json) |
