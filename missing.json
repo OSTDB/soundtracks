@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T09:19:03.820Z",
-  "total_missing": 69199,
+  "generated_at": "2026-09-14T09:21:38.685Z",
+  "total_missing": 69198,
   "games": [
     {
       "igdb_id": 306086,
@@ -4306,11 +4306,6 @@
       "igdb_id": 357782,
       "game_name": "Adventure Realm",
       "file": "missing/A/357782-adventure-realm.json"
-    },
-    {
-      "igdb_id": 69247,
-      "game_name": "Adventure Series 13+",
-      "file": "missing/A/69247-adventure-series-13.json"
     },
     {
       "igdb_id": 265404,
