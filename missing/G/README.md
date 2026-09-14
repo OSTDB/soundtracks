@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Studio Simulator | 115594 | [115594-game-studio-simulator.json](./115594-game-studio-simulator.json) |
 | Game Title: Lost Levels | 143097 | [143097-game-title-lost-levels.json](./143097-game-title-lost-levels.json) |
 | Game Tycoon | 127332 | [127332-game-tycoon.json](./127332-game-tycoon.json) |
+| Game Tycoon 1.5 | 16964 | [16964-game-tycoon-1-5.json](./16964-game-tycoon-1-5.json) |
 | Game Type DX | 208040 | [208040-game-type-dx.json](./208040-game-type-dx.json) |
 | Game with Car | 192895 | [192895-game-with-car.json](./192895-game-with-car.json) |
 | Game with Friends | 299748 | [299748-game-with-friends.json](./299748-game-with-friends.json) |
@@ -991,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
 | Gizmos: Spirit of the Christmas | 156678 | [156678-gizmos-spirit-of-the-christmas.json](./156678-gizmos-spirit-of-the-christmas.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
+| Glacier 3: The Meltdown | 16902 | [16902-glacier-3-the-meltdown.json](./16902-glacier-3-the-meltdown.json) |
 | Gladiator | 194615 | [194615-gladiator.json](./194615-gladiator.json) |
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
 | Gladiator School | 284329 | [284329-gladiator-school.json](./284329-gladiator-school.json) |
@@ -1038,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloaming Comedian Simulator | 259860 | [259860-gloaming-comedian-simulator.json](./259860-gloaming-comedian-simulator.json) |
 | Gloamryn | 346577 | [346577-gloamryn.json](./346577-gloamryn.json) |
 | Global Arcade Classics | 93502 | [93502-global-arcade-classics.json](./93502-global-arcade-classics.json) |
+| Global ATC Simulator | 16945 | [16945-global-atc-simulator.json](./16945-global-atc-simulator.json) |
 | Global Domination | 15480 | [15480-global-domination.json](./15480-global-domination.json) |
 | Global Folktale | 254538 | [254538-global-folktale.json](./254538-global-folktale.json) |
 | Global Operations | 8744 | [8744-global-operations.json](./8744-global-operations.json) |
@@ -1934,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridfire | 84226 | [84226-gridfire.json](./84226-gridfire.json) |
 | Gridiron Champions | 130407 | [130407-gridiron-champions.json](./130407-gridiron-champions.json) |
 | Gridiron Masters '98 | 401535 | [401535-gridiron-masters-98.json](./401535-gridiron-masters-98.json) |
+| Gridiron Solitaire | 16885 | [16885-gridiron-solitaire.json](./16885-gridiron-solitaire.json) |
 | Gridiron Thunder | 51171 | [51171-gridiron-thunder.json](./51171-gridiron-thunder.json) |
 | Gridiron! | 137091 | [137091-gridiron.json](./137091-gridiron.json) |
 | Gridkeeper | 355002 | [355002-gridkeeper.json](./355002-gridkeeper.json) |
@@ -2367,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns Boy | 158170 | [158170-guns-boy.json](./158170-guns-boy.json) |
 | Guns Craft Mod | 90708 | [90708-guns-craft-mod.json](./90708-guns-craft-mod.json) |
 | Guns GirlZ | 79282 | [79282-guns-girlz.json](./79282-guns-girlz.json) |
+| Guns n Zombies | 16854 | [16854-guns-n-zombies.json](./16854-guns-n-zombies.json) |
 | Guns N' Boxes | 24064 | [24064-guns-n-boxes.json](./24064-guns-n-boxes.json) |
 | Guns of Bullshit | 129723 | [129723-guns-of-bullshit.json](./129723-guns-of-bullshit.json) |
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
