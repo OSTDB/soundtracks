@@ -1484,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Storm | 102747 | [102747-mecha-storm.json](./102747-mecha-storm.json) |
 | Mecha's Negotiations | 363915 | [363915-mechas-negotiations.json](./363915-mechas-negotiations.json) |
 | Mechabellum | 240897 | [240897-mechabellum.json](./240897-mechabellum.json) |
+| MechaBlight | 390625 | [390625-mechablight.json](./390625-mechablight.json) |
 | Mechachain | 276738 | [276738-mechachain.json](./276738-mechachain.json) |
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
 | Mechanic Miner | 77754 | [77754-mechanic-miner.json](./77754-mechanic-miner.json) |
@@ -3763,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
 | Morkredd | 100157 | [100157-morkredd.json](./100157-morkredd.json) |
+| Morkull: Ascend to the Gods | 390674 | [390674-morkull-ascend-to-the-gods.json](./390674-morkull-ascend-to-the-gods.json) |
 | Morlush | 203563 | [203563-morlush.json](./203563-morlush.json) |
 | Mormonoids From The Deep | 246414 | [246414-mormonoids-from-the-deep.json](./246414-mormonoids-from-the-deep.json) |
 | Morn | 292313 | [292313-morn.json](./292313-morn.json) |
@@ -4231,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
 | Multirotor Sim 2 | 81234 | [81234-multirotor-sim-2.json](./81234-multirotor-sim-2.json) |
 | Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
+| Multiverse Idle | 390632 | [390632-multiverse-idle.json](./390632-multiverse-idle.json) |
 | MultiVersus: MVP Pack 2 | 316065 | [316065-multiversus-mvp-pack-2.json](./316065-multiversus-mvp-pack-2.json) |
 | MultiVersus: Season 4 | 330139 | [330139-multiversus-season-4.json](./330139-multiversus-season-4.json) |
 | MultiVersus: Season 5 | 330143 | [330143-multiversus-season-5.json](./330143-multiversus-season-5.json) |
@@ -4862,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Ruin: A New Dawn | 150619 | [150619-mystic-ruin-a-new-dawn.json](./150619-mystic-ruin-a-new-dawn.json) |
 | Mystic Store | 146889 | [146889-mystic-store.json](./146889-mystic-store.json) |
 | Mystic Strife | 278414 | [278414-mystic-strife.json](./278414-mystic-strife.json) |
+| Mystic Tavern | 390667 | [390667-mystic-tavern.json](./390667-mystic-tavern.json) |
 | Mystic Tower Legends | 341354 | [341354-mystic-tower-legends.json](./341354-mystic-tower-legends.json) |
 | Mystic Valley Battleground | 272564 | [272564-mystic-valley-battleground.json](./272564-mystic-valley-battleground.json) |
 | Mystic VR | 51940 | [51940-mystic-vr.json](./51940-mystic-vr.json) |
