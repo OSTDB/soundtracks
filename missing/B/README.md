@@ -2190,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blank Page | 303266 | [303266-blank-page.json](./303266-blank-page.json) |
 | Blank Relish | 292016 | [292016-blank-relish.json](./292016-blank-relish.json) |
 | Blanket Fort | 355539 | [355539-blanket-fort.json](./355539-blanket-fort.json) |
+| Blanket of Snow | 394362 | [394362-blanket-of-snow.json](./394362-blanket-of-snow.json) |
 | Blankos Block Party | 134573 | [134573-blankos-block-party.json](./134573-blankos-block-party.json) |
 | Blankspace | 184580 | [184580-blankspace.json](./184580-blankspace.json) |
 | Blanksword | 338720 | [338720-blanksword.json](./338720-blanksword.json) |
@@ -2230,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasterball 2: Revolution | 73221 | [73221-blasterball-2-revolution.json](./73221-blasterball-2-revolution.json) |
 | Blasteroids | 11967 | [11967-blasteroids.json](./11967-blasteroids.json) |
 | Blasteron | 75176 | [75176-blasteron.json](./75176-blasteron.json) |
+| Blastoids | 394380 | [394380-blastoids.json](./394380-blastoids.json) |
 | Blaston Spectator | 199641 | [199641-blaston-spectator.json](./199641-blaston-spectator.json) |
 | Blastron | 388732 | [388732-blastron.json](./388732-blastron.json) |
 | BlastZone 2 | 35756 | [35756-blastzone-2.json](./35756-blastzone-2.json) |
@@ -2520,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood-over- | 93069 | [93069-blood-over.json](./93069-blood-over.json) |
 | Blood, Fuel, Ammo & Speed | 265406 | [265406-blood-fuel-ammo-and-speed.json](./265406-blood-fuel-ammo-and-speed.json) |
 | Blood: One Unit Whole Blood | 36299 | [36299-blood-one-unit-whole-blood.json](./36299-blood-one-unit-whole-blood.json) |
+| Blood: Refreshed Supply - Death Wish | 394316 | [394316-blood-refreshed-supply-death-wish.json](./394316-blood-refreshed-supply-death-wish.json) |
 | Blood=Bullets | 320565 | [320565-blood-bullets.json](./320565-blood-bullets.json) |
 | Bloodball | 396427 | [396427-bloodball.json](./396427-bloodball.json) |
 | Bloodbath | 183067 | [183067-bloodbath.json](./183067-bloodbath.json) |
@@ -3799,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buhei | 265397 | [265397-buhei.json](./265397-buhei.json) |
 | Buick PGA Tour Courses | 100136 | [100136-buick-pga-tour-courses.json](./100136-buick-pga-tour-courses.json) |
 | Build & Battle | 166694 | [166694-build-and-battle.json](./166694-build-and-battle.json) |
+| Build A Bank Tycoon | 394381 | [394381-build-a-bank-tycoon.json](./394381-build-a-bank-tycoon.json) |
 | Build A Train 2 | 100728 | [100728-build-a-train-2.json](./100728-build-a-train-2.json) |
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
 | Build buildings | 105316 | [105316-build-buildings.json](./105316-build-buildings.json) |
@@ -4119,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BVOVB: Bruising Vengeance of the Vintage Boxer | 55125 | [55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json](./55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json) |
 | By Grit Alone | 306947 | [306947-by-grit-alone.json](./306947-by-grit-alone.json) |
 | By Moonlight | 114968 | [114968-by-moonlight.json](./114968-by-moonlight.json) |
+| By Sword & Road | 394371 | [394371-by-sword-and-road.json](./394371-by-sword-and-road.json) |
 | By the King's Command | 399008 | [399008-by-the-kings-command.json](./399008-by-the-kings-command.json) |
 | Byakuya Monogatari: Winchester-ke no Matsuei | 287633 | [287633-byakuya-monogatari-winchester-ke-no-matsuei.json](./287633-byakuya-monogatari-winchester-ke-no-matsuei.json) |
 | Bye Bye Bonnie | 415153 | [415153-bye-bye-bonnie.json](./415153-bye-bye-bonnie.json) |
