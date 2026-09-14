@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoidtrip | 344908 | [344908-zoidtrip.json](./344908-zoidtrip.json) |
 | Zoinho in the Garden of Fools | 217922 | [217922-zoinho-in-the-garden-of-fools.json](./217922-zoinho-in-the-garden-of-fools.json) |
 | Zoku Mikagura Shoujo Tanteidan: Kanketsuhen | 60574 | [60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json](./60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json) |
+| Zolana: Girl Galactic | 404943 | [404943-zolana-girl-galactic.json](./404943-zolana-girl-galactic.json) |
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
 | Zombapocalypse | 25753 | [25753-zombapocalypse.json](./25753-zombapocalypse.json) |
 | Zombasite | 20460 | [20460-zombasite.json](./20460-zombasite.json) |
