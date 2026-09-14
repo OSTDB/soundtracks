@@ -2582,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
 | Dominos Pro | 86873 | [86873-dominos-pro.json](./86873-dominos-pro.json) |
 | Dominus Galaxia | 124744 | [124744-dominus-galaxia.json](./124744-dominus-galaxia.json) |
+| Dominus Gladiatus | 404343 | [404343-dominus-gladiatus.json](./404343-dominus-gladiatus.json) |
 | Dominus Rage | 199615 | [199615-dominus-rage.json](./199615-dominus-rage.json) |
 | Domiverse | 81246 | [81246-domiverse.json](./81246-domiverse.json) |
 | DommeGer's Plane | 215373 | [215373-dommegers-plane.json](./215373-dommegers-plane.json) |
@@ -3345,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
 | Drawn to Kill | 60512 | [60512-drawn-to-kill.json](./60512-drawn-to-kill.json) |
 | Drawn to Light | 110305 | [110305-drawn-to-light.json](./110305-drawn-to-light.json) |
+| Drawn Together | 404311 | [404311-drawn-together.json](./404311-drawn-together.json) |
 | Drawn: Dark Flight - Collector's Edition | 33294 | [33294-drawn-dark-flight-collectors-edition.json](./33294-drawn-dark-flight-collectors-edition.json) |
 | Drawn: The Painted Tower | 11234 | [11234-drawn-the-painted-tower.json](./11234-drawn-the-painted-tower.json) |
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
