@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wag | 312562 | [312562-wag.json](./312562-wag.json) |
 | Wages of War: The Business of Battle | 70982 | [70982-wages-of-war-the-business-of-battle.json](./70982-wages-of-war-the-business-of-battle.json) |
 | WaggaSim | 312563 | [312563-waggasim.json](./312563-waggasim.json) |
+| Wagie Run | 404965 | [404965-wagie-run.json](./404965-wagie-run.json) |
 | Wai-wai Check 03/21 | 345494 | [345494-wai-wai-check-03-21.json](./345494-wai-wai-check-03-21.json) |
 | Wai-wai Check 11/15 | 345493 | [345493-wai-wai-check-11-15.json](./345493-wai-wai-check-11-15.json) |
 | Wai-wai Check 3-7 | 345497 | [345497-wai-wai-check-3-7.json](./345497-wai-wai-check-3-7.json) |
