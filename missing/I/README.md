@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incognito | 35782 | [35782-incognito.json](./35782-incognito.json) |
 | Incompatible Fusion Machine | 312585 | [312585-incompatible-fusion-machine.json](./312585-incompatible-fusion-machine.json) |
 | Incompatible Species | 55129 | [55129-incompatible-species.json](./55129-incompatible-species.json) |
+| Incorp Inc | 30135 | [30135-incorp-inc.json](./30135-incorp-inc.json) |
 | Incredible Dracula 4: Games of Gods | 119746 | [119746-incredible-dracula-4-games-of-gods.json](./119746-incredible-dracula-4-games-of-gods.json) |
 | Incredible Dracula II: The Last Call | 53224 | [53224-incredible-dracula-ii-the-last-call.json](./53224-incredible-dracula-ii-the-last-call.json) |
 | Incredible Dracula II: The Last Call - Collector's Edition | 29924 | [29924-incredible-dracula-ii-the-last-call-collectors-edition.json](./29924-incredible-dracula-ii-the-last-call-collectors-edition.json) |
@@ -1400,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Mine | 273959 | [273959-island-of-mine.json](./273959-island-of-mine.json) |
 | Island Paradise | 296939 | [296939-island-paradise.json](./296939-island-paradise.json) |
 | Island Peril | 57673 | [57673-island-peril.json](./57673-island-peril.json) |
+| Island Racer | 30039 | [30039-island-racer.json](./30039-island-racer.json) |
 | Island Raft Survival 2021: Ocean Escape | 163915 | [163915-island-raft-survival-2021-ocean-escape.json](./163915-island-raft-survival-2021-ocean-escape.json) |
 | Island Simulator 2016 | 31914 | [31914-island-simulator-2016.json](./31914-island-simulator-2016.json) |
 | Island Survival: Craft, Build, Grow | 314858 | [314858-island-survival-craft-build-grow.json](./314858-island-survival-craft-build-grow.json) |
