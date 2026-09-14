@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unoklive vs. Zuck | 182459 | [182459-unoklive-vs-zuck.json](./182459-unoklive-vs-zuck.json) |
 | Unolingo | 288195 | [288195-unolingo.json](./288195-unolingo.json) |
 | Unou Kaihatsu Series 10 Nontan to Issho Wai-wai Nippon | 303759 | [303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json](./303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json) |
+| Unova Nights | 410358 | [410358-unova-nights.json](./410358-unova-nights.json) |
 | Unpacking | 115843 | [115843-unpacking.json](./115843-unpacking.json) |
 | Unparallel | 127987 | [127987-unparallel.json](./127987-unparallel.json) |
 | Unpetrified: Echoes of Nature | 203925 | [203925-unpetrified-echoes-of-nature.json](./203925-unpetrified-echoes-of-nature.json) |
@@ -771,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urusei Yatsura: Endless Summer | 72697 | [72697-urusei-yatsura-endless-summer.json](./72697-urusei-yatsura-endless-summer.json) |
 | Us & Them | 17118 | [17118-us-and-them.json](./17118-us-and-them.json) |
 | US Coin | 86702 | [86702-us-coin.json](./86702-us-coin.json) |
+| US Conflict: Tank Battles | 410368 | [410368-us-conflict-tank-battles.json](./410368-us-conflict-tank-battles.json) |
 | US Police ATV Quad Bike Plane Transport Game | 100964 | [100964-us-police-atv-quad-bike-plane-transport-game.json](./100964-us-police-atv-quad-bike-plane-transport-game.json) |
 | US Spy: Mission in Russia | 129260 | [129260-us-spy-mission-in-russia.json](./129260-us-spy-mission-in-russia.json) |
 | Us vs. Them | 25631 | [25631-us-vs-them.json](./25631-us-vs-them.json) |
