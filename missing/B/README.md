@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallisticNG: Outer Reaches | 167304 | [167304-ballisticng-outer-reaches.json](./167304-ballisticng-outer-reaches.json) |
 | Balloball: Ribbit & Rescue | 388214 | [388214-balloball-ribbit-and-rescue.json](./388214-balloball-ribbit-and-rescue.json) |
 | Ballochet 3 | 79272 | [79272-ballochet-3.json](./79272-ballochet-3.json) |
+| Balloon Bros | 381095 | [381095-balloon-bros.json](./381095-balloon-bros.json) |
 | Balloon Challenge | 57632 | [57632-balloon-challenge.json](./57632-balloon-challenge.json) |
 | Balloon Chess | 339097 | [339097-balloon-chess.json](./339097-balloon-chess.json) |
 | Balloon Fast Run | 330185 | [330185-balloon-fast-run.json](./330185-balloon-fast-run.json) |
@@ -2394,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobufo | 219299 | [219299-blobufo.json](./219299-blobufo.json) |
 | Blobun | 316089 | [316089-blobun.json](./316089-blobun.json) |
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
+| Block ‘Em Sock ‘Em | 381135 | [381135-block-em-sock-em.json](./381135-block-em-sock-em.json) |
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
 | Block Arena | 384098 | [384098-block-arena.json](./384098-block-arena.json) |
 | Block Blast | 130896 | [130896-block-blast.json](./130896-block-blast.json) |
@@ -2702,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blunt Force | 26566 | [26566-blunt-force.json](./26566-blunt-force.json) |
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
 | Blurred Weird Night | 150647 | [150647-blurred-weird-night.json](./150647-blurred-weird-night.json) |
+| Blurry Shopping | 381098 | [381098-blurry-shopping.json](./381098-blurry-shopping.json) |
 | Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
 | Blyx | 272859 | [272859-blyx.json](./272859-blyx.json) |
 | BMX Pipe | 102770 | [102770-bmx-pipe.json](./102770-bmx-pipe.json) |
@@ -4147,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
 | Butterflies: Episode 1 - Rudies | 134666 | [134666-butterflies-episode-1-rudies.json](./134666-butterflies-episode-1-rudies.json) |
 | ButterFlight | 98934 | [98934-butterflight.json](./98934-butterflight.json) |
+| Butterfly Æffect: Papillons à Quatre Mains | 381148 | [381148-butterfly-ffect-papillons-a-quatre-mains.json](./381148-butterfly-ffect-papillons-a-quatre-mains.json) |
 | Butterfly Bundle | 218489 | [218489-butterfly-bundle.json](./218489-butterfly-bundle.json) |
 | Butterfly Collector | 183536 | [183536-butterfly-collector.json](./183536-butterfly-collector.json) |
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
