@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking Game 3D - Real City Driving School | 83585 | [83585-car-parking-game-3d-real-city-driving-school.json](./83585-car-parking-game-3d-real-city-driving-school.json) |
 | Car Parking Real Driving Sim | 274976 | [274976-car-parking-real-driving-sim.json](./274976-car-parking-real-driving-sim.json) |
 | Car Parking Simulator 3D Game | 105929 | [105929-car-parking-simulator-3d-game.json](./105929-car-parking-simulator-3d-game.json) |
+| Car Parkour Together | 381147 | [381147-car-parkour-together.json](./381147-car-parkour-together.json) |
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
 | Car Polo | 19371 | [19371-car-polo.json](./19371-car-polo.json) |
 | Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
@@ -502,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Tower Defence | 153458 | [153458-card-tower-defence.json](./153458-card-tower-defence.json) |
 | Card Town | 333966 | [333966-card-town.json](./333966-card-town.json) |
 | Card Trainer | 400869 | [400869-card-trainer.json](./400869-card-trainer.json) |
+| Card Wizard | 381123 | [381123-card-wizard.json](./381123-card-wizard.json) |
 | Card-en-Ciel | 292835 | [292835-card-en-ciel.json](./292835-card-en-ciel.json) |
 | Card&Casino | 399617 | [399617-card-and-casino.json](./399617-card-and-casino.json) |
 | Cardangels | 135161 | [135161-cardangels.json](./135161-cardangels.json) |
@@ -2095,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Sights: Hello Seattle! | 206350 | [206350-city-sights-hello-seattle.json](./206350-city-sights-hello-seattle.json) |
 | City Slicker | 12985 | [12985-city-slicker.json](./12985-city-slicker.json) |
 | City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
+| City States: Medieval | 381155 | [381155-city-states-medieval.json](./381155-city-states-medieval.json) |
 | City Super Hero 3D: Flying Legend Warriors Deluxe Simulator | 212276 | [212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json](./212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json) |
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
@@ -2238,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clever Girl | 184639 | [184639-clever-girl.json](./184639-clever-girl.json) |
 | Cliax Codec | 404970 | [404970-cliax-codec.json](./404970-cliax-codec.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
+| Click Cluck | 381145 | [381145-click-cluck.json](./381145-click-cluck.json) |
 | Click Defense | 119722 | [119722-click-defense.json](./119722-click-defense.json) |
 | Click Deity | 246660 | [246660-click-deity.json](./246660-click-deity.json) |
 | Click For Cash: Cashed Out | 265944 | [265944-click-for-cash-cashed-out.json](./265944-click-for-cash-cashed-out.json) |
@@ -3955,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
+| Cross Guardian | 381110 | [381110-cross-guardian.json](./381110-cross-guardian.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
@@ -4187,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Mythos RPG II | 82941 | [82941-cthulhu-mythos-rpg-ii.json](./82941-cthulhu-mythos-rpg-ii.json) |
 | Cthulhu Realms | 32510 | [32510-cthulhu-realms.json](./32510-cthulhu-realms.json) |
 | Cthulhu: Frozen Nightmare | 135269 | [135269-cthulhu-frozen-nightmare.json](./135269-cthulhu-frozen-nightmare.json) |
+| Cthuloop | 381119 | [381119-cthuloop.json](./381119-cthuloop.json) |
 | Cthuloot | 235448 | [235448-cthuloot.json](./235448-cthuloot.json) |
 | Ctrl CV | 101514 | [101514-ctrl-cv.json](./101514-ctrl-cv.json) |
 | Ctrl-U | 272863 | [272863-ctrl-u.json](./272863-ctrl-u.json) |
@@ -4270,6 +4276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubin II | 368485 | [368485-cubin-ii.json](./368485-cubin-ii.json) |
 | Cubinko | 234066 | [234066-cubinko.json](./234066-cubinko.json) |
 | Cubio | 321152 | [321152-cubio.json](./321152-cubio.json) |
+| Cubio | 381131 | [381131-cubio.json](./381131-cubio.json) |
 | Cubion | 75050 | [75050-cubion.json](./75050-cubion.json) |
 | Cubiques | 83541 | [83541-cubiques.json](./83541-cubiques.json) |
 | Cubis Creatures | 253017 | [253017-cubis-creatures.json](./253017-cubis-creatures.json) |
