@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
 | Fat Dot | 179145 | [179145-fat-dot.json](./179145-fat-dot.json) |
 | Fat Dude Simulator | 117567 | [117567-fat-dude-simulator.json](./117567-fat-dude-simulator.json) |
+| Fat Hobo: Hobocop Saves Christmas | 410970 | [410970-fat-hobo-hobocop-saves-christmas.json](./410970-fat-hobo-hobocop-saves-christmas.json) |
 | Fat Man Fights | 158720 | [158720-fat-man-fights.json](./158720-fat-man-fights.json) |
 | Fat Man Sam | 13712 | [13712-fat-man-sam.json](./13712-fat-man-sam.json) |
 | Fat Princess Adventures | 11199 | [11199-fat-princess-adventures.json](./11199-fat-princess-adventures.json) |
@@ -1021,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Vipers | 39471 | [39471-fighting-vipers.json](./39471-fighting-vipers.json) |
 | FightingChicken | 309675 | [309675-fightingchicken.json](./309675-fightingchicken.json) |
 | Fights in Tight Spaces: Weapon of Choice | 261775 | [261775-fights-in-tight-spaces-weapon-of-choice.json](./261775-fights-in-tight-spaces-weapon-of-choice.json) |
+| Fighty Driver | 411045 | [411045-fighty-driver.json](./411045-fighty-driver.json) |
 | Fignermukcre | 128627 | [128627-fignermukcre.json](./128627-fignermukcre.json) |
 | Figurality | 269020 | [269020-figurality.json](./269020-figurality.json) |
 | Figure Fantasy | 182491 | [182491-figure-fantasy.json](./182491-figure-fantasy.json) |
