@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Wheels | 59968 | [59968-wild-wheels.json](./59968-wild-wheels.json) |
 | Wild Wild West: The Steel Assassin | 70950 | [70950-wild-wild-west-the-steel-assassin.json](./70950-wild-wild-west-the-steel-assassin.json) |
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
+| Wild Wolf | 81013 | [81013-wild-wolf.json](./81013-wild-wolf.json) |
 | Wild Wolf Simulator 3D | 200662 | [200662-wild-wolf-simulator-3d.json](./200662-wild-wolf-simulator-3d.json) |
 | Wild world | 150629 | [150629-wild-world.json](./150629-wild-world.json) |
 | Wildagotchi: Virtual Pet - Deluxe Edition | 277304 | [277304-wildagotchi-virtual-pet-deluxe-edition.json](./277304-wildagotchi-virtual-pet-deluxe-edition.json) |
