@@ -433,7 +433,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerobiz Supersonic | 5351 | [5351-aerobiz-supersonic.json](./5351-aerobiz-supersonic.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
-| Aerofoil | 177006 | [177006-aerofoil.json](./177006-aerofoil.json) |
 | Aerolicious | 416623 | [416623-aerolicious.json](./416623-aerolicious.json) |
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
 | Aeronautica Imperialis: Flight Command | 132207 | [132207-aeronautica-imperialis-flight-command.json](./132207-aeronautica-imperialis-flight-command.json) |
