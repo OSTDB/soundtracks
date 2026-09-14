@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of the Shadow World | 267681 | [267681-tale-of-the-shadow-world.json](./267681-tale-of-the-shadow-world.json) |
 | Tale of the Singing Peaks | 301846 | [301846-tale-of-the-singing-peaks.json](./301846-tale-of-the-singing-peaks.json) |
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
+| Talebuilder | 382305 | [382305-talebuilder.json](./382305-talebuilder.json) |
 | Talents | 248320 | [248320-talents.json](./248320-talents.json) |
 | Tales & Dragons: Merge Puzzle | 254178 | [254178-tales-and-dragons-merge-puzzle.json](./254178-tales-and-dragons-merge-puzzle.json) |
 | Tales AFar | 233497 | [233497-tales-afar.json](./233497-tales-afar.json) |
@@ -3531,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Posthumous Investigation | 255719 | [255719-the-posthumous-investigation.json](./255719-the-posthumous-investigation.json) |
 | The Power | 137071 | [137071-the-power.json](./137071-the-power.json) |
 | The power of chaos | 118369 | [118369-the-power-of-chaos.json](./118369-the-power-of-chaos.json) |
+| The Power of Fish | 382321 | [382321-the-power-of-fish.json](./382321-the-power-of-fish.json) |
 | The Powerpuff Girls | 217930 | [217930-the-powerpuff-girls.json](./217930-the-powerpuff-girls.json) |
 | The Powerpuff Girls: Defenders of Townsville | 50484 | [50484-the-powerpuff-girls-defenders-of-townsville.json](./50484-the-powerpuff-girls-defenders-of-townsville.json) |
 | The Powerpuff Girls: Monkey Mania | 309101 | [309101-the-powerpuff-girls-monkey-mania.json](./309101-the-powerpuff-girls-monkey-mania.json) |
@@ -4683,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's a Butcher Around | 118016 | [118016-theres-a-butcher-around.json](./118016-theres-a-butcher-around.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
+| There's Blood in my Soup | 382340 | [382340-theres-blood-in-my-soup.json](./382340-theres-blood-in-my-soup.json) |
 | There's No Easter Eggs | 273630 | [273630-theres-no-easter-eggs.json](./273630-theres-no-easter-eggs.json) |
 | There's No Monsters | 306991 | [306991-theres-no-monsters.json](./306991-theres-no-monsters.json) |
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
@@ -4907,6 +4910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrunt! | 134682 | [134682-thrunt.json](./134682-thrunt.json) |
 | Thrushbriar Hall | 111031 | [111031-thrushbriar-hall.json](./111031-thrushbriar-hall.json) |
 | Thrust | 12967 | [12967-thrust.json](./12967-thrust.json) |
+| Thrust Issues | 382329 | [382329-thrust-issues.json](./382329-thrust-issues.json) |
 | Thrust Legend | 158151 | [158151-thrust-legend.json](./158151-thrust-legend.json) |
 | Thrust Master Deluxe | 258220 | [258220-thrust-master-deluxe.json](./258220-thrust-master-deluxe.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
@@ -6472,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towering | 230295 | [230295-towering.json](./230295-towering.json) |
 | Towering Rescue | 47263 | [47263-towering-rescue.json](./47263-towering-rescue.json) |
 | Towerlands | 227271 | [227271-towerlands.json](./227271-towerlands.json) |
+| TowerMancer II | 382337 | [382337-towermancer-ii.json](./382337-towermancer-ii.json) |
 | Towerø | 318427 | [318427-tower.json](./318427-tower.json) |
 | Towers | 105286 | [105286-towers.json](./105286-towers.json) |
 | Towers | 116967 | [116967-towers.json](./116967-towers.json) |
@@ -7375,6 +7380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
 | Truck Truck | 157197 | [157197-truck-truck.json](./157197-truck-truck.json) |
+| Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
 | Trucks and Things That Go Puzzle Game | 109022 | [109022-trucks-and-things-that-go-puzzle-game.json](./109022-trucks-and-things-that-go-puzzle-game.json) |
 | Trucksform3d Offroad 3D Shooting Bigfoot Endless Racing Truck | 102825 | [102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json](./102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json) |
@@ -7467,6 +7473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsunagaru Voiro Shooters vs. Space Kedamaki | 204732 | [204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json](./204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json) |
 | Tsunami Cruiser | 184655 | [184655-tsunami-cruiser.json](./184655-tsunami-cruiser.json) |
 | Tsunami Rider | 383939 | [383939-tsunami-rider.json](./383939-tsunami-rider.json) |
+| Tsundere Girls | 382282 | [382282-tsundere-girls.json](./382282-tsundere-girls.json) |
 | Tsundere Simulator 2 | 221389 | [221389-tsundere-simulator-2.json](./221389-tsundere-simulator-2.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
 | Tsuppari Concert | 385724 | [385724-tsuppari-concert.json](./385724-tsuppari-concert.json) |
