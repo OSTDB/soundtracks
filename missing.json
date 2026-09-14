@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T21:48:54.110Z",
-  "total_missing": 71331,
+  "generated_at": "2026-09-14T21:51:37.067Z",
+  "total_missing": 71330,
   "games": [
     {
       "igdb_id": 306086,
@@ -4721,11 +4721,6 @@
       "igdb_id": 199650,
       "game_name": "Aery: Vikings",
       "file": "missing/A/199650-aery-vikings.json"
-    },
-    {
-      "igdb_id": 346605,
-      "game_name": "Aesop Rock's Black Hole Superette Experience",
-      "file": "missing/A/346605-aesop-rocks-black-hole-superette-experience.json"
     },
     {
       "igdb_id": 14227,
