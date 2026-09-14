@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Racing | 186867 | [186867-rally-racing.json](./186867-rally-racing.json) |
 | Rally Rumble | 280787 | [280787-rally-rumble.json](./280787-rally-rumble.json) |
 | Rally Run | 237371 | [237371-rally-run.json](./237371-rally-run.json) |
+| Rally Shift | 399086 | [399086-rally-shift.json](./399086-rally-shift.json) |
 | Rally Speedway | 47213 | [47213-rally-speedway.json](./47213-rally-speedway.json) |
 | Rally TS | 406194 | [406194-rally-ts.json](./406194-rally-ts.json) |
 | Rally-X | 18620 | [18620-rally-x.json](./18620-rally-x.json) |
@@ -1233,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reset | 23906 | [23906-reset.json](./23906-reset.json) |
 | Reshape | 255729 | [255729-reshape.json](./255729-reshape.json) |
 | Reshape | 293634 | [293634-reshape.json](./293634-reshape.json) |
+| Reshine | 399078 | [399078-reshine.json](./399078-reshine.json) |
 | Resident Evil | 102722 | [102722-resident-evil.json](./102722-resident-evil.json) |
 | Resident Evil 0 | 15108 | [15108-resident-evil-0.json](./15108-resident-evil-0.json) |
 | Resident Evil 2: Collector's Edition | 105979 | [105979-resident-evil-2-collectors-edition.json](./105979-resident-evil-2-collectors-edition.json) |
