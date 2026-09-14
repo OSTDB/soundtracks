@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
 | Big Brother: The Game | 66035 | [66035-big-brother-the-game.json](./66035-big-brother-the-game.json) |
 | Big Buck Deer Hunting | 101469 | [101469-big-buck-deer-hunting.json](./101469-big-buck-deer-hunting.json) |
+| Big Buck Hunter Arcade | 33191 | [33191-big-buck-hunter-arcade.json](./33191-big-buck-hunter-arcade.json) |
 | Big Buck Hunter Pro Adventure | 328254 | [328254-big-buck-hunter-pro-adventure.json](./328254-big-buck-hunter-pro-adventure.json) |
 | Big Bucks: Trivia Quest | 312355 | [312355-big-bucks-trivia-quest.json](./312355-big-bucks-trivia-quest.json) |
 | Big Bug Bang: Le Retour de Commander Blood | 98921 | [98921-big-bug-bang-le-retour-de-commander-blood.json](./98921-big-bug-bang-le-retour-de-commander-blood.json) |
@@ -2943,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borodino | 14335 | [14335-borodino.json](./14335-borodino.json) |
 | Borrowed Book | 314071 | [314071-borrowed-book.json](./314071-borrowed-book.json) |
 | Borrowed Time | 12259 | [12259-borrowed-time.json](./12259-borrowed-time.json) |
+| Borstal | 33241 | [33241-borstal.json](./33241-borstal.json) |
 | Bosei Kanojo: Shikyuu Kikan-hen | 194638 | [194638-bosei-kanojo-shikyuu-kikan-hen.json](./194638-bosei-kanojo-shikyuu-kikan-hen.json) |
 | Boson X | 7730 | [7730-boson-x.json](./7730-boson-x.json) |
 | Bosorka | 223445 | [223445-bosorka.json](./223445-bosorka.json) |
@@ -3037,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundary Gate: Daughter of Kingdom | 45949 | [45949-boundary-gate-daughter-of-kingdom.json](./45949-boundary-gate-daughter-of-kingdom.json) |
 | Boundary Master | 311268 | [311268-boundary-master.json](./311268-boundary-master.json) |
 | Bounded Box | 176426 | [176426-bounded-box.json](./176426-bounded-box.json) |
+| Boundel | 33230 | [33230-boundel.json](./33230-boundel.json) |
 | Boundless | 369560 | [369560-boundless.json](./369560-boundless.json) |
 | Boundless Skies | 278969 | [278969-boundless-skies.json](./278969-boundless-skies.json) |
 | Bounters | 199119 | [199119-bounters.json](./199119-bounters.json) |
@@ -3529,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutalism22 | 244470 | [244470-brutalism22.json](./244470-brutalism22.json) |
 | Brutalist | 308250 | [308250-brutalist.json](./308250-brutalist.json) |
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
+| Brute | 33279 | [33279-brute.json](./33279-brute.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
 | Brutic | 280228 | [280228-brutic.json](./280228-brutic.json) |
 | Brutus | 178041 | [178041-brutus.json](./178041-brutus.json) |
