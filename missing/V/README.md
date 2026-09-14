@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viro Move | 131041 | [131041-viro-move.json](./131041-viro-move.json) |
 | Virocop | 69792 | [69792-virocop.json](./69792-virocop.json) |
 | ViroMove | 118443 | [118443-viromove.json](./118443-viromove.json) |
+| Vironics | 390121 | [390121-vironics.json](./390121-vironics.json) |
 | Virt-U-Mate | 156646 | [156646-virt-u-mate.json](./156646-virt-u-mate.json) |
 | Virtu-Pilot | 282019 | [282019-virtu-pilot.json](./282019-virtu-pilot.json) |
 | Virtua Cop | 199018 | [199018-virtua-cop.json](./199018-virtua-cop.json) |
@@ -703,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitality Girl | 147409 | [147409-vitality-girl.json](./147409-vitality-girl.json) |
 | Vitamin R | 59360 | [59360-vitamin-r.json](./59360-vitamin-r.json) |
 | Vitamin X | 69288 | [69288-vitamin-x.json](./69288-vitamin-x.json) |
+| Vitavania | 390673 | [390673-vitavania.json](./390673-vitavania.json) |
 | Viticulture | 200132 | [200132-viticulture.json](./200132-viticulture.json) |
 | Vitreous | 179717 | [179717-vitreous.json](./179717-vitreous.json) |
 | Vitriol | 301258 | [301258-vitriol.json](./301258-vitriol.json) |
