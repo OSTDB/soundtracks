@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untamed | 280233 | [280233-untamed.json](./280233-untamed.json) |
 | Untamed Kingdom | 274765 | [274765-untamed-kingdom.json](./274765-untamed-kingdom.json) |
 | Untamed Tactics | 158184 | [158184-untamed-tactics.json](./158184-untamed-tactics.json) |
+| Untergrund Raceways: Arena | 417518 | [417518-untergrund-raceways-arena.json](./417518-untergrund-raceways-arena.json) |
 | Until Daybreak | 243692 | [243692-until-daybreak.json](./243692-until-daybreak.json) |
 | Until I Have You | 24977 | [24977-until-i-have-you.json](./24977-until-i-have-you.json) |
 | Until Last Breath | 148539 | [148539-until-last-breath.json](./148539-until-last-breath.json) |
