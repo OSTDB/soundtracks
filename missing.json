@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T11:33:42.459Z",
-  "total_missing": 69635,
+  "generated_at": "2026-09-14T11:41:48.790Z",
+  "total_missing": 69634,
   "games": [
     {
       "igdb_id": 306086,
@@ -4376,11 +4376,6 @@
       "igdb_id": 62154,
       "game_name": "Adventures in Math",
       "file": "missing/A/62154-adventures-in-math.json"
-    },
-    {
-      "igdb_id": 66067,
-      "game_name": "Adventures in Odyssey and the Great Escape",
-      "file": "missing/A/66067-adventures-in-odyssey-and-the-great-escape.json"
     },
     {
       "igdb_id": 66070,
