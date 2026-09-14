@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 43: Izumi Jiken File Vol. 3 - Yujuku-hen | 221732 | [221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json](./221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json) |
 | G-Mode Archives 44: Dragon x Dragon | 241041 | [241041-g-mode-archives-44-dragon-x-dragon.json](./241041-g-mode-archives-44-dragon-x-dragon.json) |
 | G-Mode Archives+: Idol Janshi Suchie-Pai | 256268 | [256268-g-mode-archives-idol-janshi-suchie-pai.json](./256268-g-mode-archives-idol-janshi-suchie-pai.json) |
+| G-Mode Archives+: Kishinden Strike-G- | 412402 | [412402-g-mode-archives-kishinden-strike-g.json](./412402-g-mode-archives-kishinden-strike-g.json) |
 | G-Mode Archives+: Moe Pro - Moero!! Pro Yakyuu | 260682 | [260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json](./260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.3 - Sin | 260681 | [260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json](./260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
@@ -925,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimmick: Exact Mix | 206146 | [206146-gimmick-exact-mix.json](./206146-gimmick-exact-mix.json) |
 | Gimmick! 2 | 306562 | [306562-gimmick-2.json](./306562-gimmick-2.json) |
 | GimmickHeart | 253400 | [253400-gimmickheart.json](./253400-gimmickheart.json) |
+| Gin and Wall | 412365 | [412365-gin-and-wall.json](./412365-gin-and-wall.json) |
 | Gin Champion | 46581 | [46581-gin-champion.json](./46581-gin-champion.json) |
 | Gin's Gunstore | 355546 | [355546-gins-gunstore.json](./355546-gins-gunstore.json) |
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
@@ -961,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl!Panic!!! | 415108 | [415108-girl-panic.json](./415108-girl-panic.json) |
 | Girl's Blossom Project: Unbelievable Real Love | 245022 | [245022-girls-blossom-project-unbelievable-real-love.json](./245022-girls-blossom-project-unbelievable-real-love.json) |
 | Girl's Memories | 295569 | [295569-girls-memories.json](./295569-girls-memories.json) |
+| Girlfailure Art Club | 412374 | [412374-girlfailure-art-club.json](./412374-girlfailure-art-club.json) |
 | Girlfriend Cards | 106582 | [106582-girlfriend-cards.json](./106582-girlfriend-cards.json) |
 | Girlfriend from Hell | 278416 | [278416-girlfriend-from-hell.json](./278416-girlfriend-from-hell.json) |
 | Girlfriend Note | 58812 | [58812-girlfriend-note.json](./58812-girlfriend-note.json) |
@@ -1455,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomiboru | 333017 | [333017-gomiboru.json](./333017-gomiboru.json) |
 | Gomo | 7552 | [7552-gomo.json](./7552-gomo.json) |
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
+| Gone Exploring | 412409 | [412409-gone-exploring.json](./412409-gone-exploring.json) |
 | Gone Upstate | 152826 | [152826-gone-upstate.json](./152826-gone-upstate.json) |
 | Gongbat | 183011 | [183011-gongbat.json](./183011-gongbat.json) |
 | Gonne Wrong | 151142 | [151142-gonne-wrong.json](./151142-gonne-wrong.json) |
