@@ -2896,6 +2896,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes of the Abyss | 348246 | [348246-runes-of-the-abyss.json](./348246-runes-of-the-abyss.json) |
 | RuneScape Quests: One Piercing Note | 108958 | [108958-runescape-quests-one-piercing-note.json](./108958-runescape-quests-one-piercing-note.json) |
 | RuneScape: Dragonwilds | 337712 | [337712-runescape-dragonwilds.json](./337712-runescape-dragonwilds.json) |
+| Runeseekers | 381699 | [381699-runeseekers.json](./381699-runeseekers.json) |
+| Runeseekers 2 | 381721 | [381721-runeseekers-2.json](./381721-runeseekers-2.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
 | Runeth | 385723 | [385723-runeth.json](./385723-runeth.json) |
 | Runeverse | 137597 | [137597-runeverse.json](./137597-runeverse.json) |
