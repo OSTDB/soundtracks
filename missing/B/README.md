@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlebots | 200686 | [200686-battlebots.json](./200686-battlebots.json) |
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
 | Battlecaster | 188670 | [188670-battlecaster.json](./188670-battlecaster.json) |
+| Battlecaster 2 | 386231 | [386231-battlecaster-2.json](./386231-battlecaster-2.json) |
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
 | BattleCourt | 132219 | [132219-battlecourt.json](./132219-battlecourt.json) |
 | BattleCrew: Space Pirates | 26807 | [26807-battlecrew-space-pirates.json](./26807-battlecrew-space-pirates.json) |
@@ -1593,7 +1594,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Enemy Lines: Operation Arctic Hawk | 115599 | [115599-beyond-enemy-lines-operation-arctic-hawk.json](./115599-beyond-enemy-lines-operation-arctic-hawk.json) |
 | Beyond Flesh and Blood Episode 1 | 34740 | [34740-beyond-flesh-and-blood-episode-1.json](./34740-beyond-flesh-and-blood-episode-1.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
+| Beyond Lost Planets | 386300 | [386300-beyond-lost-planets.json](./386300-beyond-lost-planets.json) |
 | Beyond Magic | 32941 | [32941-beyond-magic.json](./32941-beyond-magic.json) |
+| Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
 | Beyond Protocol | 72646 | [72646-beyond-protocol.json](./72646-beyond-protocol.json) |
 | Beyond Senses | 124169 | [124169-beyond-senses.json](./124169-beyond-senses.json) |
 | Beyond Solar | 172135 | [172135-beyond-solar.json](./172135-beyond-solar.json) |
@@ -1618,7 +1621,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Underworld | 133371 | [133371-beyond-the-underworld.json](./133371-beyond-the-underworld.json) |
 | Beyond the Wall | 80968 | [80968-beyond-the-wall.json](./80968-beyond-the-wall.json) |
 | Beyond the Wall of Stars | 68684 | [68684-beyond-the-wall-of-stars.json](./68684-beyond-the-wall-of-stars.json) |
+| Beyond Up | 386297 | [386297-beyond-up.json](./386297-beyond-up.json) |
 | Beyond Your Wall | 369593 | [369593-beyond-your-wall.json](./369593-beyond-your-wall.json) |
+| Beyond Zero Line | 386299 | [386299-beyond-zero-line.json](./386299-beyond-zero-line.json) |
+| Beyond: Fire & Ice | 386301 | [386301-beyond-fire-and-ice.json](./386301-beyond-fire-and-ice.json) |
 | BeYourCat | 309851 | [309851-beyourcat.json](./309851-beyourcat.json) |
 | BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
 | BFDI: Branches | 305909 | [305909-bfdi-branches.json](./305909-bfdi-branches.json) |
@@ -2733,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba Tea Shop Simulator | 244236 | [244236-boba-tea-shop-simulator.json](./244236-boba-tea-shop-simulator.json) |
 | Bobbin's Quest | 67985 | [67985-bobbins-quest.json](./67985-bobbins-quest.json) |
 | Bobble Bash | 265657 | [265657-bobble-bash.json](./265657-bobble-bash.json) |
+| Bobble Shop Simulator | 386240 | [386240-bobble-shop-simulator.json](./386240-bobble-shop-simulator.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
 | Bobby Carrot 3: Evolution | 66136 | [66136-bobby-carrot-3-evolution.json](./66136-bobby-carrot-3-evolution.json) |
 | Bobby Carrot Forever | 51083 | [51083-bobby-carrot-forever.json](./51083-bobby-carrot-forever.json) |
@@ -3103,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Flip Challenge VR | 28798 | [28798-bottle-flip-challenge-vr.json](./28798-bottle-flip-challenge-vr.json) |
 | Bottle Flip VR | 159895 | [159895-bottle-flip-vr.json](./159895-bottle-flip-vr.json) |
 | Bottle It!: Beverage Simulator | 389971 | [389971-bottle-it-beverage-simulator.json](./389971-bottle-it-beverage-simulator.json) |
+| Bottle of Sickness | 386216 | [386216-bottle-of-sickness.json](./386216-bottle-of-sickness.json) |
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
 | Bottomless | 183596 | [183596-bottomless.json](./183596-bottomless.json) |
 | Bou Ningen Challenge! | 222520 | [222520-bou-ningen-challenge.json](./222520-bou-ningen-challenge.json) |
