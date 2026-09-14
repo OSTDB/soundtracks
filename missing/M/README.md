@@ -3003,8 +3003,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Mars Mobile | 213047 | [213047-mission-mars-mobile.json](./213047-mission-mars-mobile.json) |
 | Mission Ring Possible | 141901 | [141901-mission-ring-possible.json](./141901-mission-ring-possible.json) |
 | Mission Supernova | 93040 | [93040-mission-supernova.json](./93040-mission-supernova.json) |
+| Mission to Earth | 388212 | [388212-mission-to-earth.json](./388212-mission-to-earth.json) |
 | Mission To Mars 3D | 259566 | [259566-mission-to-mars-3d.json](./259566-mission-to-mars-3d.json) |
 | Mission to Neptune | 383370 | [383370-mission-to-neptune.json](./383370-mission-to-neptune.json) |
+| Mission to the Sun | 388210 | [388210-mission-to-the-sun.json](./388210-mission-to-the-sun.json) |
 | Mission Twentyeight | 193412 | [193412-mission-twentyeight.json](./193412-mission-twentyeight.json) |
 | Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
 | Mission: Driver | 210855 | [210855-mission-driver.json](./210855-mission-driver.json) |
@@ -4625,6 +4627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Only | 375859 | [375859-my-only.json](./375859-my-only.json) |
 | My Own Hero Party | 412980 | [412980-my-own-hero-party.json](./412980-my-own-hero-party.json) |
 | My Own Sweet Dionaea | 382213 | [382213-my-own-sweet-dionaea.json](./382213-my-own-sweet-dionaea.json) |
+| My Personal Hater | 388229 | [388229-my-personal-hater.json](./388229-my-personal-hater.json) |
 | My Pet Puppy 3D | 65470 | [65470-my-pet-puppy-3d.json](./65470-my-pet-puppy-3d.json) |
 | My Pet Rock | 195218 | [195218-my-pet-rock.json](./195218-my-pet-rock.json) |
 | My Peterinary | 298301 | [298301-my-peterinary.json](./298301-my-peterinary.json) |
@@ -4915,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Pearls: The Legend of Tirnanog | 73803 | [73803-mythic-pearls-the-legend-of-tirnanog.json](./73803-mythic-pearls-the-legend-of-tirnanog.json) |
 | Mythic Victory Arena | 31795 | [31795-mythic-victory-arena.json](./31795-mythic-victory-arena.json) |
 | Mythic Writer | 165654 | [165654-mythic-writer.json](./165654-mythic-writer.json) |
+| Mythic Yi | 388240 | [388240-mythic-yi.json](./388240-mythic-yi.json) |
 | Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
 | Mything | 381597 | [381597-mything.json](./381597-mything.json) |
 | Mythlands: Dragon Flight VR | 214178 | [214178-mythlands-dragon-flight-vr.json](./214178-mythlands-dragon-flight-vr.json) |
