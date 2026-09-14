@@ -945,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Shapes: Book One | 161392 | [161392-ink-shapes-book-one.json](./161392-ink-shapes-book-one.json) |
 | Ink. | 169442 | [169442-ink.json](./169442-ink.json) |
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
+| Inkremental | 397793 | [397793-inkremental.json](./397793-inkremental.json) |
 | Inkwellers | 333555 | [333555-inkwellers.json](./333555-inkwellers.json) |
 | Inky Caps Clash | 175428 | [175428-inky-caps-clash.json](./175428-inky-caps-clash.json) |
 | Inline | 81070 | [81070-inline.json](./81070-inline.json) |
