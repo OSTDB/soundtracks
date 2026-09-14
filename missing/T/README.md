@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Rivals | 417566 | [417566-tavern-rivals.json](./417566-tavern-rivals.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
 | Tavern Talk | 238488 | [238488-tavern-talk.json](./238488-tavern-talk.json) |
+| Tavern Tycoon: Brew & Brawl | 391758 | [391758-tavern-tycoon-brew-and-brawl.json](./391758-tavern-tycoon-brew-and-brawl.json) |
 | TavernHold | 361685 | [361685-tavernhold.json](./361685-tavernhold.json) |
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
@@ -1125,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tess and the Forgotten Friend | 58766 | [58766-tess-and-the-forgotten-friend.json](./58766-tess-and-the-forgotten-friend.json) |
 | Tess Elated | 114951 | [114951-tess-elated.json](./114951-tess-elated.json) |
 | Tessa's Fate | 140583 | [140583-tessas-fate.json](./140583-tessas-fate.json) |
+| Tessel Run | 391753 | [391753-tessel-run.json](./391753-tessel-run.json) |
 | Tesseract VR | 99602 | [99602-tesseract-vr.json](./99602-tesseract-vr.json) |
 | Test Drive 2001 | 49876 | [49876-test-drive-2001.json](./49876-test-drive-2001.json) |
 | Test Drive 4 | 78297 | [78297-test-drive-4.json](./78297-test-drive-4.json) |
@@ -1234,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThanksKilling Day | 223452 | [223452-thankskilling-day.json](./223452-thankskilling-day.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
+| That Friday Again | 391720 | [391720-that-friday-again.json](./391720-that-friday-again.json) |
 | That Gun Crafter Cat | 257934 | [257934-that-gun-crafter-cat.json](./257934-that-gun-crafter-cat.json) |
 | That Lava Escape Game | 128015 | [128015-that-lava-escape-game.json](./128015-that-lava-escape-game.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
@@ -3894,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sinking Structure, Clione, and Lost Child: Log5 | 195225 | [195225-the-sinking-structure-clione-and-lost-child-log5.json](./195225-the-sinking-structure-clione-and-lost-child-log5.json) |
 | The Siren's Song | 223454 | [223454-the-sirens-song.json](./223454-the-sirens-song.json) |
 | The Six Transgender Lesbian Goddesses of Love Are Having A Petty Argument, So They Try To Settle Things Alongside The Three Transgender Gay Gods of Flavor | 318796 | [318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json](./318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json) |
+| The Sixth Extinction | 391716 | [391716-the-sixth-extinction.json](./391716-the-sixth-extinction.json) |
 | The Sixth Prison | 184077 | [184077-the-sixth-prison.json](./184077-the-sixth-prison.json) |
 | The Skies | 26859 | [26859-the-skies.json](./26859-the-skies.json) |
 | The Skinwalker Investigations | 164973 | [164973-the-skinwalker-investigations.json](./164973-the-skinwalker-investigations.json) |
@@ -5487,6 +5491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeOut | 385582 | [385582-timeout.json](./385582-timeout.json) |
 | Timepiece Ensemble | 216242 | [216242-timepiece-ensemble.json](./216242-timepiece-ensemble.json) |
 | Timerunner | 161900 | [161900-timerunner.json](./161900-timerunner.json) |
+| Times | 391709 | [391709-times.json](./391709-times.json) |
 | Times & Galaxy | 248316 | [248316-times-and-galaxy.json](./248316-times-and-galaxy.json) |
 | Times Trials | 244245 | [244245-times-trials.json](./244245-times-trials.json) |
 | Times Turn | 185132 | [185132-times-turn.json](./185132-times-turn.json) |
@@ -6014,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Me | 11011 | [11011-too-many-me.json](./11011-too-many-me.json) |
 | Too Many Nights | 315475 | [315475-too-many-nights.json](./315475-too-many-nights.json) |
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
+| Tool Land | 391747 | [391747-tool-land.json](./391747-tool-land.json) |
 | Toolbox Tycoon | 362826 | [362826-toolbox-tycoon.json](./362826-toolbox-tycoon.json) |
 | Tools Up! Garden Party: Season Pass | 202935 | [202935-tools-up-garden-party-season-pass.json](./202935-tools-up-garden-party-season-pass.json) |
 | Toon Car: The Great Race | 206758 | [206758-toon-car-the-great-race.json](./206758-toon-car-the-great-race.json) |
@@ -6416,6 +6422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers of Mergethorne | 362818 | [362818-towers-of-mergethorne.json](./362818-towers-of-mergethorne.json) |
 | Towers of Scale | 381624 | [381624-towers-of-scale.json](./381624-towers-of-scale.json) |
 | Towers of Twilight | 53835 | [53835-towers-of-twilight.json](./53835-towers-of-twilight.json) |
+| Towers Saga | 391719 | [391719-towers-saga.json](./391719-towers-saga.json) |
 | Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
 | Towing Race | 239045 | [239045-towing-race.json](./239045-towing-race.json) |
 | Towing Simulator | 9451 | [9451-towing-simulator.json](./9451-towing-simulator.json) |
@@ -7686,6 +7693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
+| Type: Turbo | 391740 | [391740-type-turbo.json](./391740-type-turbo.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
 | Typeshift | 27884 | [27884-typeshift.json](./27884-typeshift.json) |
 | Typewriter Simulator | 177529 | [177529-typewriter-simulator.json](./177529-typewriter-simulator.json) |
