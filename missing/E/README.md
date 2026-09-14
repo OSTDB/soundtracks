@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Skater 2 | 71452 | [71452-epic-skater-2.json](./71452-epic-skater-2.json) |
 | Epic Snails | 68696 | [68696-epic-snails.json](./68696-epic-snails.json) |
 | Epic Tavern | 25644 | [25644-epic-tavern.json](./25644-epic-tavern.json) |
+| Epic Truck | 89796 | [89796-epic-truck.json](./89796-epic-truck.json) |
 | Epic Walk | 324881 | [324881-epic-walk.json](./324881-epic-walk.json) |
 | Epic War 1 | 86057 | [86057-epic-war-1.json](./86057-epic-war-1.json) |
 | Epic Zombies | 293620 | [293620-epic-zombies.json](./293620-epic-zombies.json) |
