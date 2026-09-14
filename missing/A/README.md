@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Raiders | 11114 | [11114-air-raiders.json](./11114-air-raiders.json) |
 | Air Rescue | 45671 | [45671-air-rescue.json](./45671-air-rescue.json) |
 | Air Soccer Impossible | 234072 | [234072-air-soccer-impossible.json](./234072-air-soccer-impossible.json) |
+| Air Threat | 97276 | [97276-air-threat.json](./97276-air-threat.json) |
 | Air Traffic Control | 15590 | [15590-air-traffic-control.json](./15590-air-traffic-control.json) |
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
 | Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
@@ -1130,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Trapped in Wonderland | 90668 | [90668-alice-trapped-in-wonderland.json](./90668-alice-trapped-in-wonderland.json) |
 | Alice: Adventures in Wonderland | 66129 | [66129-alice-adventures-in-wonderland.json](./66129-alice-adventures-in-wonderland.json) |
 | Alice! | 186324 | [186324-alice.json](./186324-alice.json) |
+| Alice's Adventures | 96939 | [96939-alices-adventures.json](./96939-alices-adventures.json) |
 | Alice's Adventures in Wonderland | 95466 | [95466-alices-adventures-in-wonderland.json](./95466-alices-adventures-in-wonderland.json) |
 | Alice's Burger Shop | 223485 | [223485-alices-burger-shop.json](./223485-alices-burger-shop.json) |
 | Alice's Jigsaw: Wonderland 2 | 102816 | [102816-alices-jigsaw-wonderland-2.json](./102816-alices-jigsaw-wonderland-2.json) |
