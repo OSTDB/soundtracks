@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayate no Gotoku! Ojousama Produce Daisakusen Boku Iro ni Somare! | 72684 | [72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json](./72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json) |
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
+| Hazar | 384068 | [384068-hazar.json](./384068-hazar.json) |
 | Hazard Level | 177007 | [177007-hazard-level.json](./177007-hazard-level.json) |
 | Hazard Pay | 291764 | [291764-hazard-pay.json](./291764-hazard-pay.json) |
 | Hazardous Journey | 110332 | [110332-hazardous-journey.json](./110332-hazardous-journey.json) |
