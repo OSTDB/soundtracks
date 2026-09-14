@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Peace: Legends - Chapter 1 | 168864 | [168864-lands-of-peace-legends-chapter-1.json](./168864-lands-of-peace-legends-chapter-1.json) |
 | Landscaper Simulator | 406691 | [406691-landscaper-simulator.json](./406691-landscaper-simulator.json) |
 | Landshay: Event Night | 186348 | [186348-landshay-event-night.json](./186348-landshay-event-night.json) |
+| Lane of the Eternal Night | 406207 | [406207-lane-of-the-eternal-night.json](./406207-lane-of-the-eternal-night.json) |
 | Lane Splitter | 233227 | [233227-lane-splitter.json](./233227-lane-splitter.json) |
 | Lanescape | 203570 | [203570-lanescape.json](./203570-lanescape.json) |
 | Làngjì Sānguó | 150636 | [150636-langji-sanguo.json](./150636-langji-sanguo.json) |
