@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Ditch Day | 10796 | [10796-return-to-ditch-day.json](./10796-return-to-ditch-day.json) |
 | Return to Dust | 271737 | [271737-return-to-dust.json](./271737-return-to-dust.json) |
 | Return to Earth 2130 | 157182 | [157182-return-to-earth-2130.json](./157182-return-to-earth-2130.json) |
+| Return to Grisly Manor | 88046 | [88046-return-to-grisly-manor.json](./88046-return-to-grisly-manor.json) |
 | Return to Long Shadows | 406091 | [406091-return-to-long-shadows.json](./406091-return-to-long-shadows.json) |
 | Return to Mysterious Island | 17052 | [17052-return-to-mysterious-island.json](./17052-return-to-mysterious-island.json) |
 | Return to Nangrim | 116280 | [116280-return-to-nangrim.json](./116280-return-to-nangrim.json) |
@@ -2545,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Romances: Battle of the Woods - Collector's Edition | 224741 | [224741-royal-romances-battle-of-the-woods-collectors-edition.json](./224741-royal-romances-battle-of-the-woods-collectors-edition.json) |
 | Royal Romances: The Power of Chosen One DLC | 256003 | [256003-royal-romances-the-power-of-chosen-one-dlc.json](./256003-royal-romances-the-power-of-chosen-one-dlc.json) |
 | Royal Settlement 1450 | 54353 | [54353-royal-settlement-1450.json](./54353-royal-settlement-1450.json) |
+| Royal Trouble: Hidden Adventures | 87899 | [87899-royal-trouble-hidden-adventures.json](./87899-royal-trouble-hidden-adventures.json) |
 | Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
 | Royalevia | 254764 | [254764-royalevia.json](./254764-royalevia.json) |
 | Rozalin and the Palace of Flowers | 150669 | [150669-rozalin-and-the-palace-of-flowers.json](./150669-rozalin-and-the-palace-of-flowers.json) |
