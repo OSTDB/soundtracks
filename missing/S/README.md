@@ -526,6 +526,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satellite Repairman | 30015 | [30015-satellite-repairman.json](./30015-satellite-repairman.json) |
 | SatelliTV | 386678 | [386678-satellitv.json](./386678-satellitv.json) |
 | Satisdom | 337095 | [337095-satisdom.json](./337095-satisdom.json) |
+| Satisfactory 1.1 | 402387 | [402387-satisfactory-1-1.json](./402387-satisfactory-1-1.json) |
+| Satisfactory 1.2 | 402388 | [402388-satisfactory-1-2.json](./402388-satisfactory-1-2.json) |
 | Satiszone | 332420 | [332420-satiszone.json](./332420-satiszone.json) |
 | Satogaeri | 192382 | [192382-satogaeri.json](./192382-satogaeri.json) |
 | Satori | 336391 | [336391-satori.json](./336391-satori.json) |
@@ -1705,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Suitable | 165616 | [165616-shape-suitable.json](./165616-shape-suitable.json) |
 | Shape TD | 186833 | [186833-shape-td.json](./186833-shape-td.json) |
 | Shape Theory | 244486 | [244486-shape-theory.json](./244486-shape-theory.json) |
+| Shape Together | 402374 | [402374-shape-together.json](./402374-shape-together.json) |
 | Shape Wars | 414440 | [414440-shape-wars.json](./414440-shape-wars.json) |
 | Shapefall | 295554 | [295554-shapefall.json](./295554-shapefall.json) |
 | Shapefighter | 333401 | [333401-shapefighter.json](./333401-shapefighter.json) |
@@ -7793,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Snowboarding | 9277 | [9277-supreme-snowboarding.json](./9277-supreme-snowboarding.json) |
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Supreme Warrior | 298560 | [298560-supreme-warrior.json](./298560-supreme-warrior.json) |
+| Suprotyv | 402376 | [402376-suprotyv.json](./402376-suprotyv.json) |
 | Surabaya Inferno | 150676 | [150676-surabaya-inferno.json](./150676-surabaya-inferno.json) |
 | Surbird | 292555 | [292555-surbird.json](./292555-surbird.json) |
 | Sure Shot | 355543 | [355543-sure-shot.json](./355543-sure-shot.json) |
