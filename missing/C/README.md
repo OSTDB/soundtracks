@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain MaCaw | 110165 | [110165-captain-macaw.json](./110165-captain-macaw.json) |
 | Captain Meow | 239672 | [239672-captain-meow.json](./239672-captain-meow.json) |
 | Captain Morgane and the Golden Turtle | 6654 | [6654-captain-morgane-and-the-golden-turtle.json](./6654-captain-morgane-and-the-golden-turtle.json) |
+| Captain of Industry: Trains Expansion | 388973 | [388973-captain-of-industry-trains-expansion.json](./388973-captain-of-industry-trains-expansion.json) |
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
 | Captain Planet | 69790 | [69790-captain-planet.json](./69790-captain-planet.json) |
 | Captain Puff MacFly | 361728 | [361728-captain-puff-macfly.json](./361728-captain-puff-macfly.json) |
@@ -1038,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Shooting Collection | 159258 | [159258-cave-shooting-collection.json](./159258-cave-shooting-collection.json) |
 | Cave Swing | 242564 | [242564-cave-swing.json](./242564-cave-swing.json) |
 | Cave Walker | 73226 | [73226-cave-walker.json](./73226-cave-walker.json) |
+| Cave! Cave! Deus Videt. | 388940 | [388940-cave-cave-deus-videt.json](./388940-cave-cave-deus-videt.json) |
 | Caved-in | 249797 | [249797-caved-in.json](./249797-caved-in.json) |
 | CaveFiction | 216789 | [216789-cavefiction.json](./216789-cavefiction.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
@@ -2574,6 +2576,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colloc | 120424 | [120424-colloc.json](./120424-colloc.json) |
 | Colmen's Quest | 175955 | [175955-colmens-quest.json](./175955-colmens-quest.json) |
 | CoLoBot | 80574 | [80574-colobot.json](./80574-colobot.json) |
+| Coloco | 388960 | [388960-coloco.json](./388960-coloco.json) |
+| ColocoDX | 388962 | [388962-colocodx.json](./388962-colocodx.json) |
 | Colonia | 207511 | [207511-colonia.json](./207511-colonia.json) |
 | Colonial Conquest | 97307 | [97307-colonial-conquest.json](./97307-colonial-conquest.json) |
 | Colonies | 118353 | [118353-colonies.json](./118353-colonies.json) |
@@ -2581,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonizer | 244468 | [244468-colonizer.json](./244468-colonizer.json) |
 | Colonus | 413051 | [413051-colonus.json](./413051-colonus.json) |
 | Colony | 76645 | [76645-colony.json](./76645-colony.json) |
+| Colony 28 | 388929 | [388929-colony-28.json](./388929-colony-28.json) |
 | Colony 37 | 355554 | [355554-colony-37.json](./355554-colony-37.json) |
 | Colony Antares | 150682 | [150682-colony-antares.json](./150682-colony-antares.json) |
 | Colony Assault | 34554 | [34554-colony-assault.json](./34554-colony-assault.json) |
@@ -2927,6 +2932,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ConcernedApe's Haunted Chocolatier | 178101 | [178101-concernedapes-haunted-chocolatier.json](./178101-concernedapes-haunted-chocolatier.json) |
 | Concert | 247542 | [247542-concert.json](./247542-concert.json) |
 | Concerto Gate | 94709 | [94709-concerto-gate.json](./94709-concerto-gate.json) |
+| Concerto on White: Cajon Story - Pykamia Music Pack Vol.1 | 388966 | [388966-concerto-on-white-cajon-story-pykamia-music-pack-vol-1.json](./388966-concerto-on-white-cajon-story-pykamia-music-pack-vol-1.json) |
+| Concerto on White: Cajon Story - Pykamia Music Pack Vol.2 | 388969 | [388969-concerto-on-white-cajon-story-pykamia-music-pack-vol-2.json](./388969-concerto-on-white-cajon-story-pykamia-music-pack-vol-2.json) |
+| Concerto on White: Cajon Story - Touhou Project Music Pack | 388970 | [388970-concerto-on-white-cajon-story-touhou-project-music-pack.json](./388970-concerto-on-white-cajon-story-touhou-project-music-pack.json) |
 | Conclave | 36120 | [36120-conclave.json](./36120-conclave.json) |
 | Concourse X-Ray | 179172 | [179172-concourse-x-ray.json](./179172-concourse-x-ray.json) |
 | Concrete Genie: Digital Deluxe Edition | 132227 | [132227-concrete-genie-digital-deluxe-edition.json](./132227-concrete-genie-digital-deluxe-edition.json) |
