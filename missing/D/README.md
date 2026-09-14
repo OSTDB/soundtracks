@@ -3565,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifty Drive | 112271 | [112271-drifty-drive.json](./112271-drifty-drive.json) |
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
+| Drill Deep | 400957 | [400957-drill-deep.json](./400957-drill-deep.json) |
 | Drill Keeper | 253370 | [253370-drill-keeper.json](./253370-drill-keeper.json) |
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
 | Drills VR | 109066 | [109066-drills-vr.json](./109066-drills-vr.json) |
@@ -3970,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Universe | 185665 | [185665-dungeon-universe.json](./185665-dungeon-universe.json) |
 | Dungeon Vixens: A Tale of Temptation | 278985 | [278985-dungeon-vixens-a-tale-of-temptation.json](./278985-dungeon-vixens-a-tale-of-temptation.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
+| Dungeon Within | 400992 | [400992-dungeon-within.json](./400992-dungeon-within.json) |
 | Dungeon World | 304886 | [304886-dungeon-world.json](./304886-dungeon-world.json) |
 | Dungeon X Dungeon | 104118 | [104118-dungeon-x-dungeon.json](./104118-dungeon-x-dungeon.json) |
 | Dungeon X Pixel Hero VIP | 107164 | [107164-dungeon-x-pixel-hero-vip.json](./107164-dungeon-x-pixel-hero-vip.json) |
@@ -4049,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk Park | 400854 | [400854-dusk-park.json](./400854-dusk-park.json) |
 | Dusk Pub | 224771 | [224771-dusk-pub.json](./224771-dusk-pub.json) |
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
+| Dusklight | 401002 | [401002-dusklight.json](./401002-dusklight.json) |
 | Dusklight Manor | 255096 | [255096-dusklight-manor.json](./255096-dusklight-manor.json) |
 | Dusky Depths | 273628 | [273628-dusky-depths.json](./273628-dusky-depths.json) |
 | Dust & Letters | 402915 | [402915-dust-and-letters.json](./402915-dust-and-letters.json) |
