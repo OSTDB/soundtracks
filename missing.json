@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T14:11:46.223Z",
-  "total_missing": 70020,
+  "generated_at": "2026-09-14T14:19:15.335Z",
+  "total_missing": 70070,
   "games": [
     {
       "igdb_id": 306086,
@@ -5558,6 +5558,61 @@
       "file": "missing/A/265403-age-of-goblins.json"
     },
     {
+      "igdb_id": 399092,
+      "game_name": "Age of Gods",
+      "file": "missing/A/399092-age-of-gods.json"
+    },
+    {
+      "igdb_id": 399102,
+      "game_name": "Age of Gods: Drakonis Faction",
+      "file": "missing/A/399102-age-of-gods-drakonis-faction.json"
+    },
+    {
+      "igdb_id": 399094,
+      "game_name": "Age of Gods: Equinox Campaign",
+      "file": "missing/A/399094-age-of-gods-equinox-campaign.json"
+    },
+    {
+      "igdb_id": 399103,
+      "game_name": "Age of Gods: Igneous Faction",
+      "file": "missing/A/399103-age-of-gods-igneous-faction.json"
+    },
+    {
+      "igdb_id": 399093,
+      "game_name": "Age of Gods: Necros Campaign",
+      "file": "missing/A/399093-age-of-gods-necros-campaign.json"
+    },
+    {
+      "igdb_id": 399095,
+      "game_name": "Age of Gods: Necros Faction",
+      "file": "missing/A/399095-age-of-gods-necros-faction.json"
+    },
+    {
+      "igdb_id": 399097,
+      "game_name": "Age of Gods: Nordheim Faction",
+      "file": "missing/A/399097-age-of-gods-nordheim-faction.json"
+    },
+    {
+      "igdb_id": 399100,
+      "game_name": "Age of Gods: Sanctus Campaign",
+      "file": "missing/A/399100-age-of-gods-sanctus-campaign.json"
+    },
+    {
+      "igdb_id": 399099,
+      "game_name": "Age of Gods: Skyborne Faction",
+      "file": "missing/A/399099-age-of-gods-skyborne-faction.json"
+    },
+    {
+      "igdb_id": 399101,
+      "game_name": "Age of Gods: Spirit Faction",
+      "file": "missing/A/399101-age-of-gods-spirit-faction.json"
+    },
+    {
+      "igdb_id": 399098,
+      "game_name": "Age of Gods: Tribal Faction",
+      "file": "missing/A/399098-age-of-gods-tribal-faction.json"
+    },
+    {
       "igdb_id": 61074,
       "game_name": "Age of Grit",
       "file": "missing/A/61074-age-of-grit.json"
@@ -7306,6 +7361,11 @@
       "igdb_id": 179689,
       "game_name": "AL: A Choose Your Own Adventure",
       "file": "missing/A/179689-al-a-choose-your-own-adventure.json"
+    },
+    {
+      "igdb_id": 399066,
+      "game_name": "AL: Artificial Life",
+      "file": "missing/A/399066-al-artificial-life.json"
     },
     {
       "igdb_id": 60017,
@@ -13761,6 +13821,11 @@
       "igdb_id": 367951,
       "game_name": "Appa",
       "file": "missing/A/367951-appa.json"
+    },
+    {
+      "igdb_id": 399090,
+      "game_name": "Appalachian Onslaught",
+      "file": "missing/A/399090-appalachian-onslaught.json"
     },
     {
       "igdb_id": 244774,
@@ -61123,9 +61188,49 @@
       "file": "missing/C/321118-crossclimb.json"
     },
     {
+      "igdb_id": 399085,
+      "game_name": "Crosscountry BC",
+      "file": "missing/C/399085-crosscountry-bc.json"
+    },
+    {
+      "igdb_id": 399068,
+      "game_name": "Crosscountry California",
+      "file": "missing/C/399068-crosscountry-california.json"
+    },
+    {
+      "igdb_id": 399084,
+      "game_name": "Crosscountry Canada Photo Safari",
+      "file": "missing/C/399084-crosscountry-canada-photo-safari.json"
+    },
+    {
+      "igdb_id": 399076,
+      "game_name": "Crosscountry Canada Platinum",
+      "file": "missing/C/399076-crosscountry-canada-platinum.json"
+    },
+    {
+      "igdb_id": 399071,
+      "game_name": "Crosscountry North Dakota",
+      "file": "missing/C/399071-crosscountry-north-dakota.json"
+    },
+    {
+      "igdb_id": 399070,
+      "game_name": "Crosscountry Texas",
+      "file": "missing/C/399070-crosscountry-texas.json"
+    },
+    {
+      "igdb_id": 399067,
+      "game_name": "Crosscountry USA",
+      "file": "missing/C/399067-crosscountry-usa.json"
+    },
+    {
       "igdb_id": 71484,
       "game_name": "Crosscountry USA 2",
       "file": "missing/C/71484-crosscountry-usa-2.json"
+    },
+    {
+      "igdb_id": 399082,
+      "game_name": "Crosscountry USA Photo Safari",
+      "file": "missing/C/399082-crosscountry-usa-photo-safari.json"
     },
     {
       "igdb_id": 183045,
@@ -66938,6 +67043,11 @@
       "file": "missing/D/383944-data-restored.json"
     },
     {
+      "igdb_id": 399058,
+      "game_name": "Data Trader",
+      "file": "missing/D/399058-data-trader.json"
+    },
+    {
       "igdb_id": 260146,
       "game_name": "Data.Expand",
       "file": "missing/D/260146-data-expand.json"
@@ -67676,6 +67786,11 @@
       "igdb_id": 36781,
       "game_name": "Dead Alliance",
       "file": "missing/D/36781-dead-alliance.json"
+    },
+    {
+      "igdb_id": 399087,
+      "game_name": "Dead Before Work: The Commute",
+      "file": "missing/D/399087-dead-before-work-the-commute.json"
     },
     {
       "igdb_id": 8429,
@@ -90748,6 +90863,21 @@
       "file": "missing/E/299430-escape-from-sunveil-starport.json"
     },
     {
+      "igdb_id": 399106,
+      "game_name": "Escape from Tarkov: Bear - Arktika",
+      "file": "missing/E/399106-escape-from-tarkov-bear-arktika.json"
+    },
+    {
+      "igdb_id": 399107,
+      "game_name": "Escape from Tarkov: Usec - AC Ranger Green",
+      "file": "missing/E/399107-escape-from-tarkov-usec-ac-ranger-green.json"
+    },
+    {
+      "igdb_id": 399105,
+      "game_name": "Escape from Tarkov: Usec - Fahrenheit",
+      "file": "missing/E/399105-escape-from-tarkov-usec-fahrenheit.json"
+    },
+    {
       "igdb_id": 103256,
       "game_name": "Escape from Tethys",
       "file": "missing/E/103256-escape-from-tethys.json"
@@ -91591,6 +91721,11 @@
       "igdb_id": 339116,
       "game_name": "Eternal Tree",
       "file": "missing/E/339116-eternal-tree.json"
+    },
+    {
+      "igdb_id": 399083,
+      "game_name": "Eternal Troops",
+      "file": "missing/E/399083-eternal-troops.json"
     },
     {
       "igdb_id": 64961,
@@ -97891,6 +98026,11 @@
       "igdb_id": 143693,
       "game_name": "Fear surrounds",
       "file": "missing/F/143693-fear-surrounds.json"
+    },
+    {
+      "igdb_id": 399074,
+      "game_name": "Fear Tall Grass",
+      "file": "missing/F/399074-fear-tall-grass.json"
     },
     {
       "igdb_id": 132250,
@@ -134443,6 +134583,11 @@
       "file": "missing/H/177496-how-are-you-doing.json"
     },
     {
+      "igdb_id": 399104,
+      "game_name": "How Asian Parents went to School",
+      "file": "missing/H/399104-how-asian-parents-went-to-school.json"
+    },
+    {
       "igdb_id": 179721,
       "game_name": "How Do You Reckon?",
       "file": "missing/H/179721-how-do-you-reckon.json"
@@ -151996,6 +152141,11 @@
       "igdb_id": 84211,
       "game_name": "Killerball",
       "file": "missing/K/84211-killerball.json"
+    },
+    {
+      "igdb_id": 399088,
+      "game_name": "Killing Baby Hitler",
+      "file": "missing/K/399088-killing-baby-hitler.json"
     },
     {
       "igdb_id": 59412,
@@ -189143,6 +189293,11 @@
       "file": "missing/M/304583-my-bath-tub-companion.json"
     },
     {
+      "igdb_id": 399059,
+      "game_name": "My Beautiful Faraway, Please Don't Be Cruel to Me",
+      "file": "missing/M/399059-my-beautiful-faraway-please-dont-be-cruel-to-me.json"
+    },
+    {
       "igdb_id": 245887,
       "game_name": "My Best Friend Kouta",
       "file": "missing/M/245887-my-best-friend-kouta.json"
@@ -197058,6 +197213,11 @@
       "file": "missing/N/54454-nightmare-at-the-lighthouse.json"
     },
     {
+      "igdb_id": 399096,
+      "game_name": "Nightmare Before Blackgate",
+      "file": "missing/N/399096-nightmare-before-blackgate.json"
+    },
+    {
       "igdb_id": 270671,
       "game_name": "Nightmare Below Disney",
       "file": "missing/N/270671-nightmare-below-disney.json"
@@ -198498,6 +198658,11 @@
       "file": "missing/N/115048-no-love.json"
     },
     {
+      "igdb_id": 399069,
+      "game_name": "No Love: 2009",
+      "file": "missing/N/399069-no-love-2009.json"
+    },
+    {
       "igdb_id": 92496,
       "game_name": "No Luca No",
       "file": "missing/N/92496-no-luca-no.json"
@@ -198521,6 +198686,11 @@
       "igdb_id": 397678,
       "game_name": "No Man's Sky: Xeno Arena",
       "file": "missing/N/397678-no-mans-sky-xeno-arena.json"
+    },
+    {
+      "igdb_id": 399063,
+      "game_name": "No More Cows",
+      "file": "missing/N/399063-no-more-cows.json"
     },
     {
       "igdb_id": 355548,
@@ -201171,6 +201341,11 @@
       "igdb_id": 247537,
       "game_name": "Octavio Camacho",
       "file": "missing/O/247537-octavio-camacho.json"
+    },
+    {
+      "igdb_id": 399055,
+      "game_name": "Octillery Vs. Collection",
+      "file": "missing/O/399055-octillery-vs-collection.json"
     },
     {
       "igdb_id": 301022,
@@ -230793,6 +230968,11 @@
       "file": "missing/R/237371-rally-run.json"
     },
     {
+      "igdb_id": 399086,
+      "game_name": "Rally Shift",
+      "file": "missing/R/399086-rally-shift.json"
+    },
+    {
       "igdb_id": 47213,
       "game_name": "Rally Speedway",
       "file": "missing/R/47213-rally-speedway.json"
@@ -235161,6 +235341,11 @@
       "igdb_id": 293634,
       "game_name": "Reshape",
       "file": "missing/R/293634-reshape.json"
+    },
+    {
+      "igdb_id": 399078,
+      "game_name": "Reshine",
+      "file": "missing/R/399078-reshine.json"
     },
     {
       "igdb_id": 102722,
@@ -246376,6 +246561,11 @@
       "igdb_id": 55927,
       "game_name": "Sanyo Pachinko Paradise 3",
       "file": "missing/S/55927-sanyo-pachinko-paradise-3.json"
+    },
+    {
+      "igdb_id": 399061,
+      "game_name": "Sanzensekai no Ko wo Koroshi",
+      "file": "missing/S/399061-sanzensekai-no-ko-wo-koroshi.json"
     },
     {
       "igdb_id": 164978,
@@ -262063,6 +262253,11 @@
       "file": "missing/S/250948-soak-and-splash.json"
     },
     {
+      "igdb_id": 399075,
+      "game_name": "Soap Killer",
+      "file": "missing/S/399075-soap-killer.json"
+    },
+    {
       "igdb_id": 392763,
       "game_name": "Soapy Tales",
       "file": "missing/S/392763-soapy-tales.json"
@@ -269176,6 +269371,11 @@
       "igdb_id": 42045,
       "game_name": "Spiral Wave",
       "file": "missing/S/42045-spiral-wave.json"
+    },
+    {
+      "igdb_id": 399062,
+      "game_name": "Spiral!!",
+      "file": "missing/S/399062-spiral.json"
     },
     {
       "igdb_id": 122342,
@@ -282973,6 +283173,11 @@
       "file": "missing/S/105971-superstar-jypnation.json"
     },
     {
+      "igdb_id": 399056,
+      "game_name": "Superstar LDH",
+      "file": "missing/S/399056-superstar-ldh.json"
+    },
+    {
       "igdb_id": 231631,
       "game_name": "Superstar Shootout",
       "file": "missing/S/231631-superstar-shootout.json"
@@ -286491,6 +286696,11 @@
       "igdb_id": 305544,
       "game_name": "Tailor Tales - Aiden Plus",
       "file": "missing/T/305544-tailor-tales-aiden-plus.json"
+    },
+    {
+      "igdb_id": 399054,
+      "game_name": "Tailor Tales: Eeyok Plus",
+      "file": "missing/T/399054-tailor-tales-eeyok-plus.json"
     },
     {
       "igdb_id": 305543,
@@ -292006,6 +292216,11 @@
       "igdb_id": 200147,
       "game_name": "The A-Team",
       "file": "missing/T/200147-the-a-team.json"
+    },
+    {
+      "igdb_id": 399073,
+      "game_name": "The Abandoned House in Yeongdeok",
+      "file": "missing/T/399073-the-abandoned-house-in-yeongdeok.json"
     },
     {
       "igdb_id": 17628,
@@ -310228,6 +310443,11 @@
       "file": "missing/T/305036-tides-of-tomorrow.json"
     },
     {
+      "igdb_id": 399091,
+      "game_name": "Tides of Tomorrow: Delta Agent Pack",
+      "file": "missing/T/399091-tides-of-tomorrow-delta-agent-pack.json"
+    },
+    {
       "igdb_id": 412273,
       "game_name": "Tidewatch",
       "file": "missing/T/412273-tidewatch.json"
@@ -326783,6 +327003,11 @@
       "file": "missing/U/398974-unleash.json"
     },
     {
+      "igdb_id": 399081,
+      "game_name": "Unless Terminalia",
+      "file": "missing/U/399081-unless-terminalia.json"
+    },
+    {
       "igdb_id": 151127,
       "game_name": "Unlife",
       "file": "missing/U/151127-unlife.json"
@@ -327241,6 +327466,11 @@
       "igdb_id": 148539,
       "game_name": "Until Last Breath",
       "file": "missing/U/148539-until-last-breath.json"
+    },
+    {
+      "igdb_id": 399077,
+      "game_name": "Until the Last Philomel",
+      "file": "missing/U/399077-until-the-last-philomel.json"
     },
     {
       "igdb_id": 400949,
@@ -328886,6 +329116,11 @@
       "igdb_id": 55025,
       "game_name": "Valve Complete Pack",
       "file": "missing/V/55025-valve-complete-pack.json"
+    },
+    {
+      "igdb_id": 399057,
+      "game_name": "Valvontaa",
+      "file": "missing/V/399057-valvontaa.json"
     },
     {
       "igdb_id": 60586,
@@ -334938,6 +335173,11 @@
       "file": "missing/W/378158-warhound.json"
     },
     {
+      "igdb_id": 399080,
+      "game_name": "Wario and the Tower of Garlic",
+      "file": "missing/W/399080-wario-and-the-tower-of-garlic.json"
+    },
+    {
       "igdb_id": 1698,
       "game_name": "Wario Land 3",
       "file": "missing/W/1698-wario-land-3.json"
@@ -335666,6 +335906,11 @@
       "igdb_id": 260169,
       "game_name": "Water Me & You",
       "file": "missing/W/260169-water-me-and-you.json"
+    },
+    {
+      "igdb_id": 399065,
+      "game_name": "Water of M",
+      "file": "missing/W/399065-water-of-m.json"
     },
     {
       "igdb_id": 96974,
@@ -347006,6 +347251,11 @@
       "igdb_id": 202348,
       "game_name": "Yume Iro",
       "file": "missing/Y/202348-yume-iro.json"
+    },
+    {
+      "igdb_id": 399060,
+      "game_name": "Yume ka Utsutsu ka Matryoshka",
+      "file": "missing/Y/399060-yume-ka-utsutsu-ka-matryoshka.json"
     },
     {
       "igdb_id": 319019,
