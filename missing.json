@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T13:21:35.118Z",
-  "total_missing": 69910,
+  "generated_at": "2026-09-14T13:31:43.053Z",
+  "total_missing": 69920,
   "games": [
     {
       "igdb_id": 306086,
@@ -4431,11 +4431,6 @@
       "igdb_id": 53166,
       "game_name": "Adventures of the Cat Leopold",
       "file": "missing/A/53166-adventures-of-the-cat-leopold.json"
-    },
-    {
-      "igdb_id": 394187,
-      "game_name": "Adventures of the Mysterious World: The Lost of the Hearts",
-      "file": "missing/A/394187-adventures-of-the-mysterious-world-the-lost-of-the-hearts.json"
     },
     {
       "igdb_id": 211395,
@@ -44091,6 +44086,11 @@
       "igdb_id": 194037,
       "game_name": "Caravan Stories: Academy of Magic",
       "file": "missing/C/194037-caravan-stories-academy-of-magic.json"
+    },
+    {
+      "igdb_id": 400367,
+      "game_name": "Caravana 2000",
+      "file": "missing/C/400367-caravana-2000.json"
     },
     {
       "igdb_id": 143717,
@@ -88766,6 +88766,11 @@
       "igdb_id": 140540,
       "game_name": "End of Sonic Inflation",
       "file": "missing/E/140540-end-of-sonic-inflation.json"
+    },
+    {
+      "igdb_id": 400374,
+      "game_name": "End of Starchild",
+      "file": "missing/E/400374-end-of-starchild.json"
     },
     {
       "igdb_id": 200105,
@@ -165118,6 +165123,11 @@
       "file": "missing/L/65466-lots-of-guns.json"
     },
     {
+      "igdb_id": 400371,
+      "game_name": "LotS: Light on the Sea",
+      "file": "missing/L/400371-lots-light-on-the-sea.json"
+    },
+    {
       "igdb_id": 312352,
       "game_name": "Lotto Fun",
       "file": "missing/L/312352-lotto-fun.json"
@@ -228733,6 +228743,11 @@
       "file": "missing/Q/102961-qybe.json"
     },
     {
+      "igdb_id": 400364,
+      "game_name": "R for Revenge",
+      "file": "missing/R/400364-r-for-revenge.json"
+    },
+    {
       "igdb_id": 93531,
       "game_name": "R no Shosai",
       "file": "missing/R/93531-r-no-shosai.json"
@@ -236521,6 +236536,11 @@
       "igdb_id": 382771,
       "game_name": "Ribbeat",
       "file": "missing/R/382771-ribbeat.json"
+    },
+    {
+      "igdb_id": 400368,
+      "game_name": "Ribbit Jump",
+      "file": "missing/R/400368-ribbit-jump.json"
     },
     {
       "igdb_id": 341867,
@@ -247986,6 +248006,11 @@
       "igdb_id": 105974,
       "game_name": "Screens Up by Nickelodeon",
       "file": "missing/S/105974-screens-up-by-nickelodeon.json"
+    },
+    {
+      "igdb_id": 400373,
+      "game_name": "Screensavers VR",
+      "file": "missing/S/400373-screensavers-vr.json"
     },
     {
       "igdb_id": 25903,
@@ -274053,6 +274078,11 @@
       "file": "missing/S/369037-step-away.json"
     },
     {
+      "igdb_id": 400365,
+      "game_name": "Step Into the Dark",
+      "file": "missing/S/400365-step-into-the-dark.json"
+    },
+    {
       "igdb_id": 215711,
       "game_name": "Step Journey",
       "file": "missing/S/215711-step-journey.json"
@@ -290863,6 +290893,11 @@
       "file": "missing/T/274181-testing-facility.json"
     },
     {
+      "igdb_id": 400370,
+      "game_name": "Tet Story",
+      "file": "missing/T/400370-tet-story.json"
+    },
+    {
       "igdb_id": 186336,
       "game_name": "Tether",
       "file": "missing/T/186336-tether.json"
@@ -292156,6 +292191,11 @@
       "igdb_id": 14269,
       "game_name": "The Art of Chess",
       "file": "missing/T/14269-the-art-of-chess.json"
+    },
+    {
+      "igdb_id": 400362,
+      "game_name": "The Art of Creation",
+      "file": "missing/T/400362-the-art-of-creation.json"
     },
     {
       "igdb_id": 14270,
@@ -302818,6 +302858,11 @@
       "file": "missing/T/46601-the-quiz-gear-fight.json"
     },
     {
+      "igdb_id": 400366,
+      "game_name": "The Quiz Quest",
+      "file": "missing/T/400366-the-quiz-quest.json"
+    },
+    {
       "igdb_id": 51612,
       "game_name": "The Rabbit and the Owl",
       "file": "missing/T/51612-the-rabbit-and-the-owl.json"
@@ -306461,6 +306506,11 @@
       "igdb_id": 114357,
       "game_name": "The Trials of Olympus 2: Wrath of the Gods",
       "file": "missing/T/114357-the-trials-of-olympus-2-wrath-of-the-gods.json"
+    },
+    {
+      "igdb_id": 400372,
+      "game_name": "The Trials: Chapter Two",
+      "file": "missing/T/400372-the-trials-chapter-two.json"
     },
     {
       "igdb_id": 190189,
