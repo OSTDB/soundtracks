@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
 | Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
+| Paid by Blood | 409688 | [409688-paid-by-blood.json](./409688-paid-by-blood.json) |
 | Paimordle | 243974 | [243974-paimordle.json](./243974-paimordle.json) |
 | Pain | 7387 | [7387-pain.json](./7387-pain.json) |
 | Pain is the Best Medicine | 292007 | [292007-pain-is-the-best-medicine.json](./292007-pain-is-the-best-medicine.json) |
@@ -1056,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petadachi | 225876 | [225876-petadachi.json](./225876-petadachi.json) |
 | Pétanque Master | 93518 | [93518-petanque-master.json](./93518-petanque-master.json) |
 | Petdise Tycoon | 242232 | [242232-petdise-tycoon.json](./242232-petdise-tycoon.json) |
+| Pete | 409638 | [409638-pete.json](./409638-pete.json) |
 | Pete Sampras Tennis 96 | 70943 | [70943-pete-sampras-tennis-96.json](./70943-pete-sampras-tennis-96.json) |
 | Pete Sampras Tennis 97 | 57672 | [57672-pete-sampras-tennis-97.json](./57672-pete-sampras-tennis-97.json) |
 | Pete's Peril | 215697 | [215697-petes-peril.json](./215697-petes-peril.json) |
