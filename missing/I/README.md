@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Fear | 274498 | [274498-invisible-fear.json](./274498-invisible-fear.json) |
 | Invisible Mind | 32029 | [32029-invisible-mind.json](./32029-invisible-mind.json) |
 | Invisible Parties | 7869 | [7869-invisible-parties.json](./7869-invisible-parties.json) |
+| Invisible War Revised | 404339 | [404339-invisible-war-revised.json](./404339-invisible-war-revised.json) |
 | Invisible: Story Extension | 168364 | [168364-invisible-story-extension.json](./168364-invisible-story-extension.json) |
 | Invitation to Fear | 188611 | [188611-invitation-to-fear.json](./188611-invitation-to-fear.json) |
 | Invizimals | 2994 | [2994-invizimals.json](./2994-invizimals.json) |
