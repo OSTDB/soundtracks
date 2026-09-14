@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: A Wonderful Life | 3384 | [3384-harvest-moon-a-wonderful-life.json](./3384-harvest-moon-a-wonderful-life.json) |
 | Harvest Moon: A Wonderful Life Special Edition | 20482 | [20482-harvest-moon-a-wonderful-life-special-edition.json](./20482-harvest-moon-a-wonderful-life-special-edition.json) |
 | Harvest Moon: Back to Nature | 3380 | [3380-harvest-moon-back-to-nature.json](./3380-harvest-moon-back-to-nature.json) |
+| Harvest Moon: Echoes of Teradea | 400976 | [400976-harvest-moon-echoes-of-teradea.json](./400976-harvest-moon-echoes-of-teradea.json) |
 | Harvest Moon: Hero of Leaf Valley | 42887 | [42887-harvest-moon-hero-of-leaf-valley.json](./42887-harvest-moon-hero-of-leaf-valley.json) |
 | Harvest Moon: Intuitive Ranch Master | 219076 | [219076-harvest-moon-intuitive-ranch-master.json](./219076-harvest-moon-intuitive-ranch-master.json) |
 | Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
@@ -626,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Have You Herd? | 235970 | [235970-have-you-herd.json](./235970-have-you-herd.json) |
 | Have You Seen the Moon? | 407400 | [407400-have-you-seen-the-moon.json](./407400-have-you-seen-the-moon.json) |
+| Havelyn | 401019 | [401019-havelyn.json](./401019-havelyn.json) |
 | Haven & Hearth | 213961 | [213961-haven-and-hearth.json](./213961-haven-and-hearth.json) |
 | Haven & Hearth | 328235 | [328235-haven-and-hearth.json](./328235-haven-and-hearth.json) |
 | Haven & Hearth | 94176 | [94176-haven-and-hearth.json](./94176-haven-and-hearth.json) |
@@ -2343,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HotHead | 110340 | [110340-hothead.json](./110340-hothead.json) |
 | HotHead Heights | 215377 | [215377-hothead-heights.json](./215377-hothead-heights.json) |
 | Hotline Miami: Collected Edition | 77985 | [77985-hotline-miami-collected-edition.json](./77985-hotline-miami-collected-edition.json) |
+| Hotline Miami: Redux-Redux | 400935 | [400935-hotline-miami-redux-redux.json](./400935-hotline-miami-redux-redux.json) |
 | Hototogisu | 64355 | [64355-hototogisu.json](./64355-hototogisu.json) |
 | Hotpot Defense | 348245 | [348245-hotpot-defense.json](./348245-hotpot-defense.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
@@ -2807,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
 | Hypnosis: Quiet Nights | 352744 | [352744-hypnosis-quiet-nights.json](./352744-hypnosis-quiet-nights.json) |
 | Hypnospace Enforcer | 216271 | [216271-hypnospace-enforcer.json](./216271-hypnospace-enforcer.json) |
+| Hypogeal | 401015 | [401015-hypogeal.json](./401015-hypogeal.json) |
 | Hypogean Descent | 266791 | [266791-hypogean-descent.json](./266791-hypogean-descent.json) |
 | Hyposphere | 33020 | [33020-hyposphere.json](./33020-hyposphere.json) |
 | Hypotheses on the Symmetry between Vision and Hands | 294157 | [294157-hypotheses-on-the-symmetry-between-vision-and-hands.json](./294157-hypotheses-on-the-symmetry-between-vision-and-hands.json) |
