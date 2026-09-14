@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joker Poker: Video Poker | 146862 | [146862-joker-poker-video-poker.json](./146862-joker-poker-video-poker.json) |
 | Jolly Jam | 56432 | [56432-jolly-jam.json](./56432-jolly-jam.json) |
 | Jolly Join | 58754 | [58754-jolly-join.json](./58754-jolly-join.json) |
+| Jolly Match 3 MR | 380576 | [380576-jolly-match-3-mr.json](./380576-jolly-match-3-mr.json) |
 | Jolly Putt: Mini Golf & Arcade | 258705 | [258705-jolly-putt-mini-golf-and-arcade.json](./258705-jolly-putt-mini-golf-and-arcade.json) |
 | Jolly's Hardcore Mod | 269866 | [269866-jollys-hardcore-mod.json](./269866-jollys-hardcore-mod.json) |
 | JollyWorld | 162408 | [162408-jollyworld.json](./162408-jollyworld.json) |
