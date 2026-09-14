@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GlassBox | 195249 | [195249-glassbox.json](./195249-glassbox.json) |
 | Glasses and Girls | 248930 | [248930-glasses-and-girls.json](./248930-glasses-and-girls.json) |
 | Glassfall | 250017 | [250017-glassfall.json](./250017-glassfall.json) |
+| Glenwich Idle MMO | 397790 | [397790-glenwich-idle-mmo.json](./397790-glenwich-idle-mmo.json) |
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
@@ -1801,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Defender | 121772 | [121772-graveyard-defender.json](./121772-graveyard-defender.json) |
 | Graveyard Dude | 340203 | [340203-graveyard-dude.json](./340203-graveyard-dude.json) |
 | Graveyard Ghoul! | 133999 | [133999-graveyard-ghoul.json](./133999-graveyard-ghoul.json) |
+| Graveyard Keeper II | 397817 | [397817-graveyard-keeper-ii.json](./397817-graveyard-keeper-ii.json) |
 | Graveyard Orbit | 407329 | [407329-graveyard-orbit.json](./407329-graveyard-orbit.json) |
 | Graveyard Shift | 216230 | [216230-graveyard-shift.json](./216230-graveyard-shift.json) |
 | Graveyard Shift | 271588 | [271588-graveyard-shift.json](./271588-graveyard-shift.json) |
