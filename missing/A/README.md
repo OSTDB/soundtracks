@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wushu 2 | 26643 | [26643-age-of-wushu-2.json](./26643-age-of-wushu-2.json) |
 | Agelast | 223484 | [223484-agelast.json](./223484-agelast.json) |
 | Agency 13 | 357800 | [357800-agency-13.json](./357800-agency-13.json) |
+| Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent 9 | 113742 | [113742-agent-9.json](./113742-agent-9.json) |
 | Agent Alice | 60490 | [60490-agent-alice.json](./60490-agent-alice.json) |
 | Agent Angels | 63274 | [63274-agent-angels.json](./63274-agent-angels.json) |
@@ -2167,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anuto TD | 207846 | [207846-anuto-td.json](./207846-anuto-td.json) |
 | Anvil | 226234 | [226234-anvil.json](./226234-anvil.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
+| Anykey Simulator | 31787 | [31787-anykey-simulator.json](./31787-anykey-simulator.json) |
 | Anytime Pool | 65488 | [65488-anytime-pool.json](./65488-anytime-pool.json) |
 | AnyWay! | 102412 | [102412-anyway.json](./102412-anyway.json) |
 | Anywhere You've Been | 178601 | [178601-anywhere-youve-been.json](./178601-anywhere-youve-been.json) |
@@ -3557,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon | 23068 | [23068-avalon.json](./23068-avalon.json) |
 | Avalon Crew | 386705 | [386705-avalon-crew.json](./386705-avalon-crew.json) |
 | Avalon Heroes | 63886 | [63886-avalon-heroes.json](./63886-avalon-heroes.json) |
+| Avalon Legends Solitaire 2 | 31720 | [31720-avalon-legends-solitaire-2.json](./31720-avalon-legends-solitaire-2.json) |
 | Avalon Lords | 137012 | [137012-avalon-lords.json](./137012-avalon-lords.json) |
 | Avalon Lords: Dawn Rises | 20464 | [20464-avalon-lords-dawn-rises.json](./20464-avalon-lords-dawn-rises.json) |
 | Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
