@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Stadium Heisei-ban | 46605 | [46605-gear-stadium-heisei-ban.json](./46605-gear-stadium-heisei-ban.json) |
 | Gear Up: Premium | 90552 | [90552-gear-up-premium.json](./90552-gear-up-premium.json) |
 | Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
+| Gear.Club Unlimited 3 | 381154 | [381154-gear-club-unlimited-3.json](./381154-gear-club-unlimited-3.json) |
 | Gear.Club Unlimited 3: Career Start Pack | 385185 | [385185-gear-club-unlimited-3-career-start-pack.json](./385185-gear-club-unlimited-3-career-start-pack.json) |
 | Gear.Club Unlimited 3: Customization Pack | 385184 | [385184-gear-club-unlimited-3-customization-pack.json](./385184-gear-club-unlimited-3-customization-pack.json) |
 | Gear.Club Unlimited 3: Deluxe Edition | 385200 | [385200-gear-club-unlimited-3-deluxe-edition.json](./385200-gear-club-unlimited-3-deluxe-edition.json) |
@@ -1534,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Children Say Grace | 404251 | [404251-good-children-say-grace.json](./404251-good-children-say-grace.json) |
 | Good Company | 107754 | [107754-good-company.json](./107754-good-company.json) |
 | Good Doggo | 99627 | [99627-good-doggo.json](./99627-good-doggo.json) |
+| Good Dreams | 381132 | [381132-good-dreams.json](./381132-good-dreams.json) |
 | Good Folk Cafe | 394821 | [394821-good-folk-cafe.json](./394821-good-folk-cafe.json) |
 | Good Game | 215358 | [215358-good-game.json](./215358-good-game.json) |
 | Good Girl | 107880 | [107880-good-girl.json](./107880-good-girl.json) |
@@ -1549,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Luck Crossing | 344393 | [344393-good-luck-crossing.json](./344393-good-luck-crossing.json) |
 | Good Mahjong | 88276 | [88276-good-mahjong.json](./88276-good-mahjong.json) |
 | Good Morgan Eve | 332443 | [332443-good-morgan-eve.json](./332443-good-morgan-eve.json) |
+| Good Morning | 381133 | [381133-good-morning.json](./381133-good-morning.json) |
 | Good Morning Is A Social Construct | 231393 | [231393-good-morning-is-a-social-construct.json](./231393-good-morning-is-a-social-construct.json) |
 | Good Morning, Radio | 203365 | [203365-good-morning-radio.json](./203365-good-morning-radio.json) |
 | Good Mourning | 148556 | [148556-good-mourning.json](./148556-good-mourning.json) |
@@ -1561,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Pizza, Great Pizza: Villa Vista Set - Chapter 5 | 266522 | [266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json](./266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json) |
 | Good puzzle | 155651 | [155651-good-puzzle.json](./155651-good-puzzle.json) |
 | Good puzzle: Castles | 161364 | [161364-good-puzzle-castles.json](./161364-good-puzzle-castles.json) |
+| Good Soup | 381134 | [381134-good-soup.json](./381134-good-soup.json) |
 | Goodbye Cendrillon | 285991 | [285991-goodbye-cendrillon.json](./285991-goodbye-cendrillon.json) |
 | Goodbye, Doggy | 135905 | [135905-goodbye-doggy.json](./135905-goodbye-doggy.json) |
 | Goodbye.Monster | 323716 | [323716-goodbye-monster.json](./323716-goodbye-monster.json) |
