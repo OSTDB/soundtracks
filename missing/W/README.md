@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood for the Trees | 176958 | [176958-wood-for-the-trees.json](./176958-wood-for-the-trees.json) |
 | Wood Nuts & Bolts Puzzle | 331341 | [331341-wood-nuts-and-bolts-puzzle.json](./331341-wood-nuts-and-bolts-puzzle.json) |
 | Wood Puzzle | 208942 | [208942-wood-puzzle.json](./208942-wood-puzzle.json) |
+| Wood'N'Destroy | 396367 | [396367-woodndestroy.json](./396367-woodndestroy.json) |
 | Woodcutter Simulator 2013 | 16900 | [16900-woodcutter-simulator-2013.json](./16900-woodcutter-simulator-2013.json) |
 | Wooden House | 23726 | [23726-wooden-house.json](./23726-wooden-house.json) |
 | Wooden Nickel | 115663 | [115663-wooden-nickel.json](./115663-wooden-nickel.json) |
