@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Pro Shops: The Strike - Championship Edition | 110428 | [110428-bass-pro-shops-the-strike-championship-edition.json](./110428-bass-pro-shops-the-strike-championship-edition.json) |
 | Bass Rush Dream | 67301 | [67301-bass-rush-dream.json](./67301-bass-rush-dream.json) |
 | Bass Strike | 43286 | [43286-bass-strike.json](./43286-bass-strike.json) |
+| Bassai-Dai | 403654 | [403654-bassai-dai.json](./403654-bassai-dai.json) |
 | Bassing Beat | 285997 | [285997-bassing-beat.json](./285997-bassing-beat.json) |
 | Bassing Beat 2 | 285998 | [285998-bassing-beat-2.json](./285998-bassing-beat-2.json) |
 | Bassmaster Fishing 2022 | 169996 | [169996-bassmaster-fishing-2022.json](./169996-bassmaster-fishing-2022.json) |
@@ -1304,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
+| Becoming a Legend: New Advent | 403671 | [403671-becoming-a-legend-new-advent.json](./403671-becoming-a-legend-new-advent.json) |
 | Becoming None | 417527 | [417527-becoming-none.json](./417527-becoming-none.json) |
 | Becoming Omega | 146838 | [146838-becoming-omega.json](./146838-becoming-omega.json) |
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
