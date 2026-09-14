@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Showdown | 141898 | [141898-santa-showdown.json](./141898-santa-showdown.json) |
 | Santa Simulator | 112993 | [112993-santa-simulator.json](./112993-santa-simulator.json) |
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
+| Santa With Gun | 382878 | [382878-santa-with-gun.json](./382878-santa-with-gun.json) |
 | Santa's Big Adventures | 30075 | [30075-santas-big-adventures.json](./30075-santas-big-adventures.json) |
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
 | Santa's Factory | 279588 | [279588-santas-factory.json](./279588-santas-factory.json) |
@@ -5062,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
+| Spibee | 382930 | [382930-spibee.json](./382930-spibee.json) |
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider and Web | 91916 | [91916-spider-and-web.json](./91916-spider-and-web.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
@@ -5240,7 +5242,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
 | SpongeBob SolitairePants | 294177 | [294177-spongebob-solitairepants.json](./294177-spongebob-solitairepants.json) |
 | SpongeBob SquarePants | 220120 | [220120-spongebob-squarepants.json](./220120-spongebob-squarepants.json) |
+| SpongeBob SquarePants Boating School | 382924 | [382924-spongebob-squarepants-boating-school.json](./382924-spongebob-squarepants-boating-school.json) |
+| SpongeBob SquarePants Bubble Ball | 382921 | [382921-spongebob-squarepants-bubble-ball.json](./382921-spongebob-squarepants-bubble-ball.json) |
+| SpongeBob SquarePants Bubblegram | 382926 | [382926-spongebob-squarepants-bubblegram.json](./382926-spongebob-squarepants-bubblegram.json) |
 | SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
+| SpongeBob SquarePants Talking Heads | 382919 | [382919-spongebob-squarepants-talking-heads.json](./382919-spongebob-squarepants-talking-heads.json) |
 | SpongeBob SquarePants: Bikini Bottom 500 | 220117 | [220117-spongebob-squarepants-bikini-bottom-500.json](./220117-spongebob-squarepants-bikini-bottom-500.json) |
 | SpongeBob SquarePants: Bundle | 286514 | [286514-spongebob-squarepants-bundle.json](./286514-spongebob-squarepants-bundle.json) |
 | SpongeBob SquarePants: Dilly Dabber | 220119 | [220119-spongebob-squarepants-dilly-dabber.json](./220119-spongebob-squarepants-dilly-dabber.json) |
@@ -6785,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Rosa | 16951 | [16951-sub-rosa.json](./16951-sub-rosa.json) |
 | Sub Stalker | 93053 | [93053-sub-stalker.json](./93053-sub-stalker.json) |
 | Sub Terra Draconis | 57099 | [57099-sub-terra-draconis.json](./57099-sub-terra-draconis.json) |
+| Sub Terra Draconis: Hidden Glade | 382887 | [382887-sub-terra-draconis-hidden-glade.json](./382887-sub-terra-draconis-hidden-glade.json) |
 | Sub Wars | 104699 | [104699-sub-wars.json](./104699-sub-wars.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
 | Subconsciousism | 396225 | [396225-subconsciousism.json](./396225-subconsciousism.json) |
@@ -7934,7 +7941,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superkid | 123064 | [123064-superkid.json](./123064-superkid.json) |
 | Superku | 34343 | [34343-superku.json](./34343-superku.json) |
 | SuperLandlady | 237657 | [237657-superlandlady.json](./237657-superlandlady.json) |
+| SuperLite 1500 Series: Lode Runner 2 | 382928 | [382928-superlite-1500-series-lode-runner-2.json](./382928-superlite-1500-series-lode-runner-2.json) |
 | SuperLite 1500 Series: Qix 2000 | 97320 | [97320-superlite-1500-series-qix-2000.json](./97320-superlite-1500-series-qix-2000.json) |
+| SuperLite 1500 Series: Shinsei Toire no Kakosan | 382913 | [382913-superlite-1500-series-shinsei-toire-no-kakosan.json](./382913-superlite-1500-series-shinsei-toire-no-kakosan.json) |
 | SuperLite 1500: Crazy Balloon 2000 | 97323 | [97323-superlite-1500-crazy-balloon-2000.json](./97323-superlite-1500-crazy-balloon-2000.json) |
 | SuperLite 2000: Oekaki Puzzle | 386127 | [386127-superlite-2000-oekaki-puzzle.json](./386127-superlite-2000-oekaki-puzzle.json) |
 | SuperLite 3in1 Series: Nankuro Shuu | 386217 | [386217-superlite-3in1-series-nankuro-shuu.json](./386217-superlite-3in1-series-nankuro-shuu.json) |
