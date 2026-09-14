@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple Panic! | 337652 | [337652-pineapple-panic.json](./337652-pineapple-panic.json) |
 | Pineapple Smash Crew | 16330 | [16330-pineapple-smash-crew.json](./16330-pineapple-smash-crew.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
+| Pinewood Island | 69388 | [69388-pinewood-island.json](./69388-pinewood-island.json) |
 | Ping | 307600 | [307600-ping.json](./307600-ping.json) |
 | Ping | 90641 | [90641-ping.json](./90641-ping.json) |
 | Ping & Pong | 400909 | [400909-ping-and-pong.json](./400909-ping-and-pong.json) |
@@ -2504,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Fiction | 302129 | [302129-poop-fiction.json](./302129-poop-fiction.json) |
 | Poop Killer | 222320 | [222320-poop-killer.json](./222320-poop-killer.json) |
 | Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
+| PooSky | 68615 | [68615-poosky.json](./68615-poosky.json) |
 | Pooyan | 297493 | [297493-pooyan.json](./297493-pooyan.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
 | Pop Frenzy! | 108983 | [108983-pop-frenzy.json](./108983-pop-frenzy.json) |
@@ -3658,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putin Life | 130049 | [130049-putin-life.json](./130049-putin-life.json) |
 | Putin, Boobs and Trump | 96940 | [96940-putin-boobs-and-trump.json](./96940-putin-boobs-and-trump.json) |
 | Putrefaction | 26533 | [26533-putrefaction.json](./26533-putrefaction.json) |
+| Putrefaction 2: Rumble in the Hometown | 68797 | [68797-putrefaction-2-rumble-in-the-hometown.json](./68797-putrefaction-2-rumble-in-the-hometown.json) |
 | Putrefier | 256824 | [256824-putrefier.json](./256824-putrefier.json) |
 | Putt Nutz | 59458 | [59458-putt-nutz.json](./59458-putt-nutz.json) |
 | Putt Putt Golf | 41311 | [41311-putt-putt-golf.json](./41311-putt-putt-golf.json) |
