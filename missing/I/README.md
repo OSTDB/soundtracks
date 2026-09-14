@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Shooter | 267960 | [267960-idol-shooter.json](./267960-idol-shooter.json) |
 | Idol Showdown | 243747 | [243747-idol-showdown.json](./243747-idol-showdown.json) |
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
+| Idols of Ash | 397084 | [397084-idols-of-ash.json](./397084-idols-of-ash.json) |
 | Idolz | 348248 | [348248-idolz.json](./348248-idolz.json) |
 | Idtipsa | 201838 | [201838-idtipsa.json](./201838-idtipsa.json) |
 | Idun | 237048 | [237048-idun.json](./237048-idun.json) |
@@ -1502,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
 | IT Specialist Simulator | 346606 | [346606-it-specialist-simulator.json](./346606-it-specialist-simulator.json) |
 | It sucks to be a succulent | 179668 | [179668-it-sucks-to-be-a-succulent.json](./179668-it-sucks-to-be-a-succulent.json) |
+| It Sucks to Be Us | 397062 | [397062-it-sucks-to-be-us.json](./397062-it-sucks-to-be-us.json) |
 | It sucks, y'know | 302661 | [302661-it-sucks-yknow.json](./302661-it-sucks-yknow.json) |
 | It Takes Two to Tangle | 321129 | [321129-it-takes-two-to-tangle.json](./321129-it-takes-two-to-tangle.json) |
 | It Was You | 333019 | [333019-it-was-you.json](./333019-it-was-you.json) |
