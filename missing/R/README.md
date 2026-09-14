@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
 | Reflex | 86345 | [86345-reflex.json](./86345-reflex.json) |
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
+| Refrain Blue | 395006 | [395006-refrain-blue.json](./395006-refrain-blue.json) |
 | Refrain Love 2 | 55116 | [55116-refrain-love-2.json](./55116-refrain-love-2.json) |
 | Refrain Love: Anata ni Aitai | 64892 | [64892-refrain-love-anata-ni-aitai.json](./64892-refrain-love-anata-ni-aitai.json) |
 | Refuge | 226969 | [226969-refuge.json](./226969-refuge.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose City Revenge: The Beginning | 220632 | [220632-rose-city-revenge-the-beginning.json](./220632-rose-city-revenge-the-beginning.json) |
 | Rose Guns Days: Season 1 | 274213 | [274213-rose-guns-days-season-1.json](./274213-rose-guns-days-season-1.json) |
 | Rose Guns Days: Season 1 | 326598 | [326598-rose-guns-days-season-1.json](./326598-rose-guns-days-season-1.json) |
+| Rose Hips | 395037 | [395037-rose-hips.json](./395037-rose-hips.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
 | Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
