@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayra Online | 139405 | [139405-kayra-online.json](./139405-kayra-online.json) |
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
+| Kaze no Tayori 2 | 403039 | [403039-kaze-no-tayori-2.json](./403039-kaze-no-tayori-2.json) |
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
 | Kazoku Keikaku Soshite Mata Kazoku Keikaku o | 237408 | [237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json](./237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json) |
 | Kazoku Minna no Nouryoku Trainer | 327595 | [327595-kazoku-minna-no-nouryoku-trainer.json](./327595-kazoku-minna-no-nouryoku-trainer.json) |
@@ -345,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeping It Shrimple | 236544 | [236544-keeping-it-shrimple.json](./236544-keeping-it-shrimple.json) |
 | Keepsake | 17243 | [17243-keepsake.json](./17243-keepsake.json) |
 | KeepUp Survival | 143688 | [143688-keepup-survival.json](./143688-keepup-survival.json) |
+| Keepy Up | 400344 | [400344-keepy-up.json](./400344-keepy-up.json) |
 | Keepy Uppy | 229353 | [229353-keepy-uppy.json](./229353-keepy-uppy.json) |
 | Keg Bearer | 200127 | [200127-keg-bearer.json](./200127-keg-bearer.json) |
 | Keiji J.B. Harold no Jikenbo: Murder Club | 272022 | [272022-keiji-j-b-harold-no-jikenbo-murder-club.json](./272022-keiji-j-b-harold-no-jikenbo-murder-club.json) |
@@ -813,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kioh Gyoku | 123607 | [123607-kioh-gyoku.json](./123607-kioh-gyoku.json) |
 | Kioku | 309886 | [309886-kioku.json](./309886-kioku.json) |
 | Kioku Hanabi | 309356 | [309356-kioku-hanabi.json](./309356-kioku-hanabi.json) |
+| Kipi Oppi | 403043 | [403043-kipi-oppi.json](./403043-kipi-oppi.json) |
 | Kipidon: We Will Always Love You | 337455 | [337455-kipidon-we-will-always-love-you.json](./337455-kipidon-we-will-always-love-you.json) |
 | KIPP: Untouched | 225632 | [225632-kipp-untouched.json](./225632-kipp-untouched.json) |
 | Kira Kira | 140523 | [140523-kira-kira.json](./140523-kira-kira.json) |
@@ -967,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knee-deep in 2023 | 261822 | [261822-knee-deep-in-2023.json](./261822-knee-deep-in-2023.json) |
 | Knee-Deep in Kdizd | 260668 | [260668-knee-deep-in-kdizd.json](./260668-knee-deep-in-kdizd.json) |
 | Knell | 412371 | [412371-knell.json](./412371-knell.json) |
+| Knick Knack Stack | 400351 | [400351-knick-knack-stack.json](./400351-knick-knack-stack.json) |
 | Knife Club VR | 68607 | [68607-knife-club-vr.json](./68607-knife-club-vr.json) |
 | Knife Flip - Hit Geometry Cube | 104666 | [104666-knife-flip-hit-geometry-cube.json](./104666-knife-flip-hit-geometry-cube.json) |
 | Knife road | 122434 | [122434-knife-road.json](./122434-knife-road.json) |
