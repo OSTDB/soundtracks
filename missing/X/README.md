@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xonox Double-Ender: Tomarc the Barbarian & Motocross Racer | 40743 | [40743-xonox-double-ender-tomarc-the-barbarian-and-motocross-racer.json](./40743-xonox-double-ender-tomarc-the-barbarian-and-motocross-racer.json) |
 | Xoo: Xeno Xafari | 149000 | [149000-xoo-xeno-xafari.json](./149000-xoo-xeno-xafari.json) |
 | Xoo: Xeno Xafari | 387523 | [387523-xoo-xeno-xafari.json](./387523-xoo-xeno-xafari.json) |
+| Xorbius | 384665 | [384665-xorbius.json](./384665-xorbius.json) |
 | Xordle | 197903 | [197903-xordle.json](./197903-xordle.json) |
 | XP Racing | 289880 | [289880-xp-racing.json](./289880-xp-racing.json) |
 | XP8 | 15569 | [15569-xp8.json](./15569-xp8.json) |
