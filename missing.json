@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T05:03:59.919Z",
-  "total_missing": 68551,
+  "generated_at": "2026-09-14T05:11:40.331Z",
+  "total_missing": 68550,
   "games": [
     {
       "igdb_id": 306086,
@@ -4181,11 +4181,6 @@
       "igdb_id": 9591,
       "game_name": "AdVenture Capitalist",
       "file": "missing/A/9591-adventure-capitalist.json"
-    },
-    {
-      "igdb_id": 121627,
-      "game_name": "Adventure Cop 2",
-      "file": "missing/A/121627-adventure-cop-2.json"
     },
     {
       "igdb_id": 94691,
