@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T00:33:43.220Z",
-  "total_missing": 67855,
+  "generated_at": "2026-09-14T00:41:30.816Z",
+  "total_missing": 67854,
   "games": [
     {
       "igdb_id": 306086,
@@ -4041,11 +4041,6 @@
       "igdb_id": 377088,
       "game_name": "Adrift",
       "file": "missing/A/377088-adrift.json"
-    },
-    {
-      "igdb_id": 108984,
-      "game_name": "ADsteroids",
-      "file": "missing/A/108984-adsteroids.json"
     },
     {
       "igdb_id": 111066,
