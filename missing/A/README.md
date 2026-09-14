@@ -373,7 +373,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
-| Adventure Time: Finn and Jake Investigations | 11320 | [11320-adventure-time-finn-and-jake-investigations.json](./11320-adventure-time-finn-and-jake-investigations.json) |
 | Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! | 2797 | [2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json](./2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json) |
 | Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! - Collector's Edition | 89898 | [89898-adventure-time-hey-ice-king-whyd-you-steal-our-garbage-collectors-edition.json](./89898-adventure-time-hey-ice-king-whyd-you-steal-our-garbage-collectors-edition.json) |
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
