@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V.G. Re-birth | 180273 | [180273-v-g-re-birth.json](./180273-v-g-re-birth.json) |
 | V.O.I.D.: Vexation of Infinite Dungeons | 245886 | [245886-v-o-i-d-vexation-of-infinite-dungeons.json](./245886-v-o-i-d-vexation-of-infinite-dungeons.json) |
 | V.O.S.S. Turbo | 215918 | [215918-v-o-s-s-turbo.json](./215918-v-o-s-s-turbo.json) |
+| V.T. | 103838 | [103838-v-t.json](./103838-v-t.json) |
 | V64 | 283733 | [283733-v64.json](./283733-v64.json) |
 | V696 | 186819 | [186819-v696.json](./186819-v696.json) |
 | V8 Challenge | 69886 | [69886-v8-challenge.json](./69886-v8-challenge.json) |
@@ -449,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victorious Boxers: Revolution | 5256 | [5256-victorious-boxers-revolution.json](./5256-victorious-boxers-revolution.json) |
 | Victorious Nine II | 72116 | [72116-victorious-nine-ii.json](./72116-victorious-nine-ii.json) |
 | Victory | 95445 | [95445-victory.json](./95445-victory.json) |
+| Victory At Sea Pacific | 104004 | [104004-victory-at-sea-pacific.json](./104004-victory-at-sea-pacific.json) |
 | Victory Day | 226742 | [226742-victory-day.json](./226742-victory-day.json) |
 | Victory Heat Rally | 142489 | [142489-victory-heat-rally.json](./142489-victory-heat-rally.json) |
 | Victory is Justice! | 117092 | [117092-victory-is-justice.json](./117092-victory-is-justice.json) |
