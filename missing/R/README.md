@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenis Prologue 01 | 116336 | [116336-revenis-prologue-01.json](./116336-revenis-prologue-01.json) |
 | Reverberant | 128619 | [128619-reverberant.json](./128619-reverberant.json) |
 | Reverend | 339622 | [339622-reverend.json](./339622-reverend.json) |
+| Reverend: Surf 'n Sin | 380554 | [380554-reverend-surf-n-sin.json](./380554-reverend-surf-n-sin.json) |
 | Reverie | 114417 | [114417-reverie.json](./114417-reverie.json) |
 | Reverie | 254161 | [254161-reverie.json](./254161-reverie.json) |
 | Reverie | 256825 | [256825-reverie.json](./256825-reverie.json) |
@@ -2771,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Sevens 23 | 240817 | [240817-rugby-sevens-23.json](./240817-rugby-sevens-23.json) |
 | Rugby Union Team Manager 4 | 225072 | [225072-rugby-union-team-manager-4.json](./225072-rugby-union-team-manager-4.json) |
 | Rugby World Cup 2015 | 20861 | [20861-rugby-world-cup-2015.json](./20861-rugby-world-cup-2015.json) |
+| Rugged Rovers | 380548 | [380548-rugged-rovers.json](./380548-rugged-rovers.json) |
 | Rugida | 169384 | [169384-rugida.json](./169384-rugida.json) |
 | Rugon | 108991 | [108991-rugon.json](./108991-rugon.json) |
 | Rugrats in Paris: The Movie | 2792 | [2792-rugrats-in-paris-the-movie.json](./2792-rugrats-in-paris-the-movie.json) |
