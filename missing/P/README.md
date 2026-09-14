@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Cats | 411573 | [411573-paddle-cats.json](./411573-paddle-cats.json) |
 | Paddle Combat | 164441 | [164441-paddle-combat.json](./164441-paddle-combat.json) |
 | Paddle Together | 366244 | [366244-paddle-together.json](./366244-paddle-together.json) |
+| Paddler | 403650 | [403650-paddler.json](./403650-paddler.json) |
 | Paddles | 214545 | [214545-paddles.json](./214545-paddles.json) |
 | Padel Pro World Tour | 409553 | [409553-padel-pro-world-tour.json](./409553-padel-pro-world-tour.json) |
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
@@ -948,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Universe Play with Gravity | 99545 | [99545-perfect-universe-play-with-gravity.json](./99545-perfect-universe-play-with-gravity.json) |
 | Perfect Wedding Solitaire | 386126 | [386126-perfect-wedding-solitaire.json](./386126-perfect-wedding-solitaire.json) |
 | Perfect World | 8747 | [8747-perfect-world.json](./8747-perfect-world.json) |
+| Perfectdom | 403661 | [403661-perfectdom.json](./403661-perfectdom.json) |
 | Perfection | 239906 | [239906-perfection.json](./239906-perfection.json) |
 | Perfection of Wisdom | 35605 | [35605-perfection-of-wisdom.json](./35605-perfection-of-wisdom.json) |
 | PerfectLover | 128000 | [128000-perfectlover.json](./128000-perfectlover.json) |
