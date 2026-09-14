@@ -1688,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explore Jam 2 | 275322 | [275322-explore-jam-2.json](./275322-explore-jam-2.json) |
 | Explore Jam 3 | 275318 | [275318-explore-jam-3.json](./275318-explore-jam-3.json) |
 | Explore the Grotto | 307580 | [307580-explore-the-grotto.json](./307580-explore-the-grotto.json) |
+| Explore Titanic | 86853 | [86853-explore-titanic.json](./86853-explore-titanic.json) |
 | Explorers of Esmar | 323178 | [323178-explorers-of-esmar.json](./323178-explorers-of-esmar.json) |
 | Explorers of Space | 47265 | [47265-explorers-of-space.json](./47265-explorers-of-space.json) |
 | Explorers: Deluxe Edition | 152280 | [152280-explorers-deluxe-edition.json](./152280-explorers-deluxe-edition.json) |
