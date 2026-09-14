@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Battle Heroes | 24564 | [24564-ninja-battle-heroes.json](./24564-ninja-battle-heroes.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Bullets | 25755 | [25755-ninja-bullets.json](./25755-ninja-bullets.json) |
+| Ninja Cats vs Samurai Dogs | 16795 | [16795-ninja-cats-vs-samurai-dogs.json](./16795-ninja-cats-vs-samurai-dogs.json) |
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
 | Ninja Clan | 311498 | [311498-ninja-clan.json](./311498-ninja-clan.json) |
 | Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
