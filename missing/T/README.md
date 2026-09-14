@@ -2947,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
 | The Legend of White Whale | 243945 | [243945-the-legend-of-white-whale.json](./243945-the-legend-of-white-whale.json) |
 | The Legend of Xanadu | 73824 | [73824-the-legend-of-xanadu.json](./73824-the-legend-of-xanadu.json) |
+| The Legend of You | 390139 | [390139-the-legend-of-you.json](./390139-the-legend-of-you.json) |
 | The Legend of Zelda Ocarina of Time 3D: First Edition | 89904 | [89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json](./89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json) |
 | The Legend of Zelda XD2: Mercuris' Chess | 243666 | [243666-the-legend-of-zelda-xd2-mercuris-chess.json](./243666-the-legend-of-zelda-xd2-mercuris-chess.json) |
 | The Legend of Zelda: 3rd Quest | 256296 | [256296-the-legend-of-zelda-3rd-quest.json](./256296-the-legend-of-zelda-3rd-quest.json) |
@@ -3053,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Drift | 392303 | [392303-the-long-drift.json](./392303-the-long-drift.json) |
 | The Long Gate | 127215 | [127215-the-long-gate.json](./127215-the-long-gate.json) |
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
+| The Long Way Home | 390118 | [390118-the-long-way-home.json](./390118-the-long-way-home.json) |
 | The Long Winter: I Am Not an Animal | 390646 | [390646-the-long-winter-i-am-not-an-animal.json](./390646-the-long-winter-i-am-not-an-animal.json) |
 | The Longest Drift | 175441 | [175441-the-longest-drift.json](./175441-the-longest-drift.json) |
 | The Longest Five Minutes | 44078 | [44078-the-longest-five-minutes.json](./44078-the-longest-five-minutes.json) |
@@ -3763,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: Rise of Cultures | 132810 | [132810-the-settlers-rise-of-cultures.json](./132810-the-settlers-rise-of-cultures.json) |
 | The Seven Bad Apples | 382748 | [382748-the-seven-bad-apples.json](./382748-the-seven-bad-apples.json) |
 | The Seven Cities of Gold | 8994 | [8994-the-seven-cities-of-gold.json](./8994-the-seven-cities-of-gold.json) |
+| The Seven Days I Spent With You | 390146 | [390146-the-seven-days-i-spent-with-you.json](./390146-the-seven-days-i-spent-with-you.json) |
 | The seven deadly seas | 122396 | [122396-the-seven-deadly-seas.json](./122396-the-seven-deadly-seas.json) |
 | The Seven Deadly Sins: Idle Adventure | 315273 | [315273-the-seven-deadly-sins-idle-adventure.json](./315273-the-seven-deadly-sins-idle-adventure.json) |
 | The Seven Games of the Soul | 13775 | [13775-the-seven-games-of-the-soul.json](./13775-the-seven-games-of-the-soul.json) |
@@ -4587,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zoo Race | 9097 | [9097-the-zoo-race.json](./9097-the-zoo-race.json) |
 | The Zvengers: Infinity Defense | 328472 | [328472-the-zvengers-infinity-defense.json](./328472-the-zvengers-infinity-defense.json) |
 | The Zwuggels: Beach Holidays | 51555 | [51555-the-zwuggels-beach-holidays.json](./51555-the-zwuggels-beach-holidays.json) |
+| The Zyrdain Sands | 390100 | [390100-the-zyrdain-sands.json](./390100-the-zyrdain-sands.json) |
 | The_Painther | 410884 | [410884-the-painther.json](./410884-the-painther.json) |
 | The.Thend.End | 112992 | [112992-the-thend-end.json](./112992-the-thend-end.json) |
 | Theatre of Death | 15483 | [15483-theatre-of-death.json](./15483-theatre-of-death.json) |
@@ -6160,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Esports Action Manager | 117036 | [117036-total-esports-action-manager.json](./117036-total-esports-action-manager.json) |
 | Total Extreme Wrestling 2016 | 27681 | [27681-total-extreme-wrestling-2016.json](./27681-total-extreme-wrestling-2016.json) |
 | Total Football Online | 406683 | [406683-total-football-online.json](./406683-total-football-online.json) |
+| Total Incremental Battle | 390134 | [390134-total-incremental-battle.json](./390134-total-incremental-battle.json) |
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
 | Total Pinball 25: 3D Tables | 206745 | [206745-total-pinball-25-3d-tables.json](./206745-total-pinball-25-3d-tables.json) |
 | Total Reload | 248661 | [248661-total-reload.json](./248661-total-reload.json) |
@@ -6537,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
+| Traders Life Simulator | 390101 | [390101-traders-life-simulator.json](./390101-traders-life-simulator.json) |
 | Tradewinds Caravan | 59455 | [59455-tradewinds-caravan.json](./59455-tradewinds-caravan.json) |
 | Tradewinds Legends | 59454 | [59454-tradewinds-legends.json](./59454-tradewinds-legends.json) |
 | Tradewinds Odyssey | 59456 | [59456-tradewinds-odyssey.json](./59456-tradewinds-odyssey.json) |
