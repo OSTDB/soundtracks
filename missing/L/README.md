@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LBX: Little Battlers eXperience | 11257 | [11257-lbx-little-battlers-experience.json](./11257-lbx-little-battlers-experience.json) |
 | LCD Dream Escalator | 180784 | [180784-lcd-dream-escalator.json](./180784-lcd-dream-escalator.json) |
 | LCD Dungeon System | 94173 | [94173-lcd-dungeon-system.json](./94173-lcd-dungeon-system.json) |
+| LCD Head Chaser | 385730 | [385730-lcd-head-chaser.json](./385730-lcd-head-chaser.json) |
 | LDS Articles of Faith | 102738 | [102738-lds-articles-of-faith.json](./102738-lds-articles-of-faith.json) |
 | LDS Fun | 100939 | [100939-lds-fun.json](./100939-lds-fun.json) |
 | Le Avventure di Blue | 228418 | [228418-le-avventure-di-blue.json](./228418-le-avventure-di-blue.json) |
@@ -684,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legenne | 70381 | [70381-legenne.json](./70381-legenne.json) |
 | Leggite Luta Livre | 198482 | [198482-leggite-luta-livre.json](./198482-leggite-luta-livre.json) |
 | Legion of Judgment: Fallen Angel | 238755 | [238755-legion-of-judgment-fallen-angel.json](./238755-legion-of-judgment-fallen-angel.json) |
+| Legion Saga III | 385746 | [385746-legion-saga-iii.json](./385746-legion-saga-iii.json) |
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
 | Legion: Dead Metal | 249214 | [249214-legion-dead-metal.json](./249214-legion-dead-metal.json) |
 | Legions of Death | 37085 | [37085-legions-of-death.json](./37085-legions-of-death.json) |
@@ -2068,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loya | 239661 | [239661-loya.json](./239661-loya.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
+| LSI Puzzle: Last One | 385752 | [385752-lsi-puzzle-last-one.json](./385752-lsi-puzzle-last-one.json) |
 | Lu[Idle] | 321738 | [321738-lu-idle.json](./321738-lu-idle.json) |
 | Lua Bingo | 87136 | [87136-lua-bingo.json](./87136-lua-bingo.json) |
 | Luànshì Yúnyān | 398456 | [398456-luanshi-yunyan.json](./398456-luanshi-yunyan.json) |
