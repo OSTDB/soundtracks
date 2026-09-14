@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naxat Open | 37707 | [37707-naxat-open.json](./37707-naxat-open.json) |
 | Nazar | 319003 | [319003-nazar.json](./319003-nazar.json) |
 | NaziShootout | 88054 | [88054-nazishootout.json](./88054-nazishootout.json) |
+| Nazo no Chinbotsusen | 385713 | [385713-nazo-no-chinbotsusen.json](./385713-nazo-no-chinbotsusen.json) |
 | Nazo no Mini Game: Choigae | 222525 | [222525-nazo-no-mini-game-choigae.json](./222525-nazo-no-mini-game-choigae.json) |
 | Nazo no Minigame | 63902 | [63902-nazo-no-minigame.json](./63902-nazo-no-minigame.json) |
 | Nazo Puyo | 45260 | [45260-nazo-puyo.json](./45260-nazo-puyo.json) |
@@ -1448,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Throwing | 341487 | [341487-no-throwing.json](./341487-no-throwing.json) |
 | No Ticket Back: Craft, Survive & Escape | 290945 | [290945-no-ticket-back-craft-survive-and-escape.json](./290945-no-ticket-back-craft-survive-and-escape.json) |
 | No Time Left | 104111 | [104111-no-time-left.json](./104111-no-time-left.json) |
+| No Time Left | 385729 | [385729-no-time-left.json](./385729-no-time-left.json) |
 | No Time to Build | 337484 | [337484-no-time-to-build.json](./337484-no-time-to-build.json) |
 | No Time to Relax | 111370 | [111370-no-time-to-relax.json](./111370-no-time-to-relax.json) |
 | No toilet paper!! | 151682 | [151682-no-toilet-paper.json](./151682-no-toilet-paper.json) |
@@ -1650,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostra | 415122 | [415122-nostra.json](./415122-nostra.json) |
 | Nostradamus | 40257 | [40257-nostradamus.json](./40257-nostradamus.json) |
 | Nostradamus - The Four Horsemen of the Apocalypse | 83508 | [83508-nostradamus-the-four-horsemen-of-the-apocalypse.json](./83508-nostradamus-the-four-horsemen-of-the-apocalypse.json) |
+| Nostradamus no Daiyogen | 385708 | [385708-nostradamus-no-daiyogen.json](./385708-nostradamus-no-daiyogen.json) |
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
 | Not a Customer | 406711 | [406711-not-a-customer.json](./406711-not-a-customer.json) |
 | Not A Fake Game | 366868 | [366868-not-a-fake-game.json](./366868-not-a-fake-game.json) |
