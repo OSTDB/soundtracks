@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Escape | 400220 | [400220-baby-escape.json](./400220-baby-escape.json) |
 | Baby Ghost: Jump Away With Jewel | 175361 | [175361-baby-ghost-jump-away-with-jewel.json](./175361-baby-ghost-jump-away-with-jewel.json) |
 | Baby Goat Billy | 159826 | [159826-baby-goat-billy.json](./159826-baby-goat-billy.json) |
+| Baby Hands | 68834 | [68834-baby-hands.json](./68834-baby-hands.json) |
 | Baby Killer | 117733 | [117733-baby-killer.json](./117733-baby-killer.json) |
 | Baby Lite A Line | 100171 | [100171-baby-lite-a-line.json](./100171-baby-lite-a-line.json) |
 | Baby Panda's Airport | 105968 | [105968-baby-pandas-airport.json](./105968-baby-pandas-airport.json) |
@@ -2145,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastboard: Casso | 203907 | [203907-blastboard-casso.json](./203907-blastboard-casso.json) |
 | Blasted GutZ | 391619 | [391619-blasted-gutz.json](./391619-blasted-gutz.json) |
 | Blasten!! | 161408 | [161408-blasten.json](./161408-blasten.json) |
+| Blaster Cop | 68759 | [68759-blaster-cop.json](./68759-blaster-cop.json) |
 | Blaster Master Zero II | 116416 | [116416-blaster-master-zero-ii.json](./116416-blaster-master-zero-ii.json) |
 | Blaster Master: Enemy Below | 49840 | [49840-blaster-master-enemy-below.json](./49840-blaster-master-enemy-below.json) |
 | Blaster Simulator | 9387 | [9387-blaster-simulator.json](./9387-blaster-simulator.json) |
@@ -2373,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Bananas | 367947 | [367947-blood-and-bananas.json](./367947-blood-and-bananas.json) |
 | Blood & Dungeon | 292545 | [292545-blood-and-dungeon.json](./292545-blood-and-dungeon.json) |
 | Blood & Gold: Caribbean! - The Zombiest Adventures | 124837 | [124837-blood-and-gold-caribbean-the-zombiest-adventures.json](./124837-blood-and-gold-caribbean-the-zombiest-adventures.json) |
+| Blood Ancestors | 68712 | [68712-blood-ancestors.json](./68712-blood-ancestors.json) |
 | Blood And Fear: Part 1 | 293104 | [293104-blood-and-fear-part-1.json](./293104-blood-and-fear-part-1.json) |
 | Blood and Jade | 62706 | [62706-blood-and-jade.json](./62706-blood-and-jade.json) |
 | Blood and Ruby | 135251 | [135251-blood-and-ruby.json](./135251-blood-and-ruby.json) |
