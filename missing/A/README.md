@@ -335,7 +335,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
-| Adv770 | 305203 | [305203-adv770.json](./305203-adv770.json) |
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
 | Advance Wars 2: Black Hole Rising | 236815 | [236815-advance-wars-2-black-hole-rising.json](./236815-advance-wars-2-black-hole-rising.json) |
 | Advanced Daisenryaku: Deutsch Dengeki Sakusen | 65524 | [65524-advanced-daisenryaku-deutsch-dengeki-sakusen.json](./65524-advanced-daisenryaku-deutsch-dengeki-sakusen.json) |
