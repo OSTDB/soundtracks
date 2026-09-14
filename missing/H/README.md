@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hako | 22468 | [22468-hako.json](./22468-hako.json) |
 | Hako Maze | 409686 | [409686-hako-maze.json](./409686-hako-maze.json) |
 | HakoBoy! Hakozume Box | 81428 | [81428-hakoboy-hakozume-box.json](./81428-hakoboy-hakozume-box.json) |
+| Hakoniwa Electric | 399739 | [399739-hakoniwa-electric.json](./399739-hakoniwa-electric.json) |
 | Hakoniwa Explorer Plus | 101606 | [101606-hakoniwa-explorer-plus.json](./101606-hakoniwa-explorer-plus.json) |
 | Hakou Watcher | 253936 | [253936-hakou-watcher.json](./253936-hakou-watcher.json) |
 | Hakuda's Wife Visiting | 151695 | [151695-hakudas-wife-visiting.json](./151695-hakudas-wife-visiting.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Fantasy Chicks | 253935 | [253935-hentai-fantasy-chicks.json](./253935-hentai-fantasy-chicks.json) |
 | Hentai Foot Fetish | 404940 | [404940-hentai-foot-fetish.json](./404940-hentai-foot-fetish.json) |
 | Hentai Fox | 310938 | [310938-hentai-fox.json](./310938-hentai-fox.json) |
+| Hentai Furry Pig | 399712 | [399712-hentai-furry-pig.json](./399712-hentai-furry-pig.json) |
 | Hentai Gallery: Hot Fantasy | 378805 | [378805-hentai-gallery-hot-fantasy.json](./378805-hentai-gallery-hot-fantasy.json) |
 | Hentai Gallery: Lovely Angels | 381004 | [381004-hentai-gallery-lovely-angels.json](./381004-hentai-gallery-lovely-angels.json) |
 | Hentai Gallery: Secret Beauties | 378806 | [378806-hentai-gallery-secret-beauties.json](./378806-hentai-gallery-secret-beauties.json) |
@@ -1631,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High on Life: High on Knife | 253091 | [253091-high-on-life-high-on-knife.json](./253091-high-on-life-high-on-knife.json) |
 | High Rise | 229051 | [229051-high-rise.json](./229051-high-rise.json) |
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
+| High Rollers: Dice Drop Duel | 399737 | [399737-high-rollers-dice-drop-duel.json](./399737-high-rollers-dice-drop-duel.json) |
 | High School Crush | 86812 | [86812-high-school-crush.json](./86812-high-school-crush.json) |
 | High School Daze: Afterschool Stories | 264349 | [264349-high-school-daze-afterschool-stories.json](./264349-high-school-daze-afterschool-stories.json) |
 | High School Daze: Junior Year | 264348 | [264348-high-school-daze-junior-year.json](./264348-high-school-daze-junior-year.json) |
