@@ -1510,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Stallion P | 59387 | [59387-derby-stallion-p.json](./59387-derby-stallion-p.json) |
 | Derby Time Online | 7287 | [7287-derby-time-online.json](./7287-derby-time-online.json) |
 | Dere. Some Answers Before I... | 258696 | [258696-dere-some-answers-before-i.json](./258696-dere-some-answers-before-i.json) |
+| Derealization | 381096 | [381096-derealization.json](./381096-derealization.json) |
 | Derealized | 241630 | [241630-derealized.json](./241630-derealized.json) |
 | Dereism | 216237 | [216237-dereism.json](./216237-dereism.json) |
 | Derelict | 168384 | [168384-derelict.json](./168384-derelict.json) |
@@ -2234,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: Emotional Rescue | 362263 | [362263-disney-dreamlight-valley-emotional-rescue.json](./362263-disney-dreamlight-valley-emotional-rescue.json) |
 | Disney Dreamlight Valley: Missions in Uncharted Space | 228430 | [228430-disney-dreamlight-valley-missions-in-uncharted-space.json](./228430-disney-dreamlight-valley-missions-in-uncharted-space.json) |
 | Disney Dreamlight Valley: Return to Beast's Castle | 371229 | [371229-disney-dreamlight-valley-return-to-beasts-castle.json](./371229-disney-dreamlight-valley-return-to-beasts-castle.json) |
+| Disney Dreamlight Valley: The Winter Ball | 381099 | [381099-disney-dreamlight-valley-the-winter-ball.json](./381099-disney-dreamlight-valley-the-winter-ball.json) |
 | Disney Dreamlight Valley: Whispers of the Wind | 397675 | [397675-disney-dreamlight-valley-whispers-of-the-wind.json](./397675-disney-dreamlight-valley-whispers-of-the-wind.json) |
 | Disney DVD Game World: Disney Dogs Edition | 228445 | [228445-disney-dvd-game-world-disney-dogs-edition.json](./228445-disney-dvd-game-world-disney-dogs-edition.json) |
 | Disney Emoji Blitz | 89817 | [89817-disney-emoji-blitz.json](./89817-disney-emoji-blitz.json) |
