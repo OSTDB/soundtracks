@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T12:48:56.419Z",
-  "total_missing": 69846,
+  "generated_at": "2026-09-14T12:51:40.449Z",
+  "total_missing": 69845,
   "games": [
     {
       "igdb_id": 306086,
@@ -4411,11 +4411,6 @@
       "igdb_id": 149549,
       "game_name": "Adventures of Megara: Demeter's Cat-astrophe",
       "file": "missing/A/149549-adventures-of-megara-demeters-cat-astrophe.json"
-    },
-    {
-      "igdb_id": 130934,
-      "game_name": "Adventures of musical tones and their notes",
-      "file": "missing/A/130934-adventures-of-musical-tones-and-their-notes.json"
     },
     {
       "igdb_id": 101639,
