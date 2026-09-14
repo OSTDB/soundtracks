@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.O.V.A. Legacy | 39004 | [39004-n-o-v-a-legacy.json](./39004-n-o-v-a-legacy.json) |
 | N+ | 8749 | [8749-n.json](./8749-n.json) |
 | N0-Exit | 31987 | [31987-n0-exit.json](./31987-n0-exit.json) |
+| N00b's Guide | 404956 | [404956-n00bs-guide.json](./404956-n00bs-guide.json) |
 | N1RV Ann-A: Cyberpunk Bartender Action | 109582 | [109582-n1rv-ann-a-cyberpunk-bartender-action.json](./109582-n1rv-ann-a-cyberpunk-bartender-action.json) |
 | N3Rally | 310204 | [310204-n3rally.json](./310204-n3rally.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
