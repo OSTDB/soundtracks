@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whirlo | 46588 | [46588-whirlo.json](./46588-whirlo.json) |
 | Whirlwind of Vietnam | 72714 | [72714-whirlwind-of-vietnam.json](./72714-whirlwind-of-vietnam.json) |
 | Whirlybird | 230852 | [230852-whirlybird.json](./230852-whirlybird.json) |
+| Whisker Wanderlust: Unwritten Chapter | 391183 | [391183-whisker-wanderlust-unwritten-chapter.json](./391183-whisker-wanderlust-unwritten-chapter.json) |
 | Whisker Waters | 266497 | [266497-whisker-waters.json](./266497-whisker-waters.json) |
 | Whiskered Away | 105385 | [105385-whiskered-away.json](./105385-whiskered-away.json) |
 | Whiskered Away | 196888 | [196888-whiskered-away.json](./196888-whiskered-away.json) |
@@ -1450,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withered: A visual novel | 178017 | [178017-withered-a-visual-novel.json](./178017-withered-a-visual-novel.json) |
 | Withering Flowers | 260421 | [260421-withering-flowers.json](./260421-withering-flowers.json) |
 | Withering Realms | 329964 | [329964-withering-realms.json](./329964-withering-realms.json) |
+| Within | 391217 | [391217-within.json](./391217-within.json) |
 | Within a Rose | 72361 | [72361-within-a-rose.json](./72361-within-a-rose.json) |
 | Within His View | 379868 | [379868-within-his-view.json](./379868-within-his-view.json) |
 | Within the Backrooms | 220634 | [220634-within-the-backrooms.json](./220634-within-the-backrooms.json) |
