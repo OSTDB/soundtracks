@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Manoir de L'Étrange | 25752 | [25752-le-manoir-de-letrange.json](./25752-le-manoir-de-letrange.json) |
 | Le Miroir d'Ozivior | 413609 | [413609-le-miroir-dozivior.json](./413609-le-miroir-dozivior.json) |
 | Le Mystère de Kikekankoi | 93005 | [93005-le-mystere-de-kikekankoi.json](./93005-le-mystere-de-kikekankoi.json) |
+| Le Mystère de la fleur de verre | 413039 | [413039-le-mystere-de-la-fleur-de-verre.json](./413039-le-mystere-de-la-fleur-de-verre.json) |
 | Le Pacte | 304056 | [304056-le-pacte.json](./304056-le-pacte.json) |
 | Le Parcours | 89734 | [89734-le-parcours.json](./89734-le-parcours.json) |
 | Le Pompier | 346064 | [346064-le-pompier.json](./346064-le-pompier.json) |
@@ -1416,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live or Die: Survival | 106527 | [106527-live-or-die-survival.json](./106527-live-or-die-survival.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
 | Live Portrait Maker | 101497 | [101497-live-portrait-maker.json](./101497-live-portrait-maker.json) |
+| Live Rise!!: 4K Fever | 413072 | [413072-live-rise-4k-fever.json](./413072-live-rise-4k-fever.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
 | Lives so Sweet | 124199 | [124199-lives-so-sweet.json](./124199-lives-so-sweet.json) |
 | LiveStream | 394170 | [394170-livestream.json](./394170-livestream.json) |
@@ -1662,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
 | Loot or Die | 31403 | [31403-loot-or-die.json](./31403-loot-or-die.json) |
 | Loot Scoot | 386702 | [386702-loot-scoot.json](./386702-loot-scoot.json) |
+| Loot Survivors | 413098 | [413098-loot-survivors.json](./413098-loot-survivors.json) |
 | Loot Train | 166154 | [166154-loot-train.json](./166154-loot-train.json) |
 | Lootale Slash | 398330 | [398330-lootale-slash.json](./398330-lootale-slash.json) |
 | Lootbag Tactics | 409527 | [409527-lootbag-tactics.json](./409527-lootbag-tactics.json) |
