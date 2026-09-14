@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
 | Last Outlander | 224028 | [224028-last-outlander.json](./224028-last-outlander.json) |
 | Last Outpost | 302110 | [302110-last-outpost.json](./302110-last-outpost.json) |
+| Last Pill Bar | 415880 | [415880-last-pill-bar.json](./415880-last-pill-bar.json) |
 | Last Pirate: Survival Island | 193960 | [193960-last-pirate-survival-island.json](./193960-last-pirate-survival-island.json) |
 | Last Pizza Slice | 178591 | [178591-last-pizza-slice.json](./178591-last-pizza-slice.json) |
 | Last Protection | 122374 | [122374-last-protection.json](./122374-last-protection.json) |
@@ -427,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Caverns 2 | 57079 | [57079-lazy-caverns-2.json](./57079-lazy-caverns-2.json) |
 | Lazy Caverns Attack!! | 57078 | [57078-lazy-caverns-attack.json](./57078-lazy-caverns-attack.json) |
 | Lazy Galaxy: Rebel Story | 102624 | [102624-lazy-galaxy-rebel-story.json](./102624-lazy-galaxy-rebel-story.json) |
+| Lazy Paper | 415884 | [415884-lazy-paper.json](./415884-lazy-paper.json) |
 | Lazy Pirates | 180752 | [180752-lazy-pirates.json](./180752-lazy-pirates.json) |
 | Lazy Sweet Tycoon | 156121 | [156121-lazy-sweet-tycoon.json](./156121-lazy-sweet-tycoon.json) |
 | LazyTown Live! The Pirate Adventure | 199039 | [199039-lazytown-live-the-pirate-adventure.json](./199039-lazytown-live-the-pirate-adventure.json) |
@@ -773,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leprechaun Twins | 307313 | [307313-leprechaun-twins.json](./307313-leprechaun-twins.json) |
 | Lernen Leicht Gemacht! Für Junggebliebene | 81389 | [81389-lernen-leicht-gemacht-fur-junggebliebene.json](./81389-lernen-leicht-gemacht-fur-junggebliebene.json) |
 | Lerry the Cube | 102117 | [102117-lerry-the-cube.json](./102117-lerry-the-cube.json) |
+| Les Cartes Poker | 415968 | [415968-les-cartes-poker.json](./415968-les-cartes-poker.json) |
 | Les Guignols de l'info: Le Cauchemar de PPD | 306964 | [306964-les-guignols-de-linfo-le-cauchemar-de-ppd.json](./306964-les-guignols-de-linfo-le-cauchemar-de-ppd.json) |
 | Les Habitants Del Soleil | 177993 | [177993-les-habitants-del-soleil.json](./177993-les-habitants-del-soleil.json) |
 | Les Heures Bleues: Sang sur pierre à Pétrichor | 394172 | [394172-les-heures-bleues-sang-sur-pierre-a-petrichor.json](./394172-les-heures-bleues-sang-sur-pierre-a-petrichor.json) |
