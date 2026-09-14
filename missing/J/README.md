@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Rush | 236304 | [236304-jet-rush.json](./236304-jet-rush.json) |
 | Jet Set Luis | 45343 | [45343-jet-set-luis.json](./45343-jet-set-luis.json) |
 | Jet Set Radio | 279629 | [279629-jet-set-radio.json](./279629-jet-set-radio.json) |
+| Jet Set Radio | 398453 | [398453-jet-set-radio.json](./398453-jet-set-radio.json) |
 | Jet Set Willy | 8170 | [8170-jet-set-willy.json](./8170-jet-set-willy.json) |
 | Jet Ski Driving | 231943 | [231943-jet-ski-driving.json](./231943-jet-ski-driving.json) |
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
