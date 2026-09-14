@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date with Detective Wolf | 303276 | [303276-date-with-detective-wolf.json](./303276-date-with-detective-wolf.json) |
 | Date with Falco | 339267 | [339267-date-with-falco.json](./339267-date-with-falco.json) |
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
+| Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
 | Dating Simulator | 162431 | [162431-dating-simulator.json](./162431-dating-simulator.json) |
 | Dato of Srivijaya | 156679 | [156679-dato-of-srivijaya.json](./156679-dato-of-srivijaya.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discharge | 117040 | [117040-discharge.json](./117040-discharge.json) |
 | Dischord | 119001 | [119001-dischord.json](./119001-dischord.json) |
 | Discin | 295797 | [295797-discin.json](./295797-discin.json) |
+| Disciple | 401667 | [401667-disciple.json](./401667-disciple.json) |
 | Disciples II Mobile | 314309 | [314309-disciples-ii-mobile.json](./314309-disciples-ii-mobile.json) |
 | Disciples II: Dark Prophecy | 6542 | [6542-disciples-ii-dark-prophecy.json](./6542-disciples-ii-dark-prophecy.json) |
 | Disciples II: Gallean's Return | 19351 | [19351-disciples-ii-galleans-return.json](./19351-disciples-ii-galleans-return.json) |
@@ -2677,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald's Alphabet Chase | 57631 | [57631-donalds-alphabet-chase.json](./57631-donalds-alphabet-chase.json) |
 | Dong Wu: Odyssey | 269032 | [269032-dong-wu-odyssey.json](./269032-dong-wu-odyssey.json) |
 | Dōngfāng Jiànjī zài Xīfāng Lǚxíng de Gùshì | 157212 | [157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json](./157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json) |
+| Donkee's Adventure | 401638 | [401638-donkees-adventure.json](./401638-donkees-adventure.json) |
 | Donkey BoM | 398315 | [398315-donkey-bom.json](./398315-donkey-bom.json) |
 | Donkey King Arcade Game | 96713 | [96713-donkey-king-arcade-game.json](./96713-donkey-king-arcade-game.json) |
 | Donkey Kong | 1089 | [1089-donkey-kong.json](./1089-donkey-kong.json) |
@@ -3355,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawing Evolution | 181314 | [181314-drawing-evolution.json](./181314-drawing-evolution.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
+| Drawn Before | 401615 | [401615-drawn-before.json](./401615-drawn-before.json) |
 | Drawn to Kill | 60512 | [60512-drawn-to-kill.json](./60512-drawn-to-kill.json) |
 | Drawn to Light | 110305 | [110305-drawn-to-light.json](./110305-drawn-to-light.json) |
 | Drawn Together | 404311 | [404311-drawn-together.json](./404311-drawn-together.json) |
