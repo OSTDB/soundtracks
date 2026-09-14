@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Shift VR | 48000 | [48000-nano-shift-vr.json](./48000-nano-shift-vr.json) |
 | NanoApostle | 279485 | [279485-nanoapostle.json](./279485-nanoapostle.json) |
 | Nanobots | 281389 | [281389-nanobots.json](./281389-nanobots.json) |
+| Nanobots | 33325 | [33325-nanobots.json](./33325-nanobots.json) |
 | Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
 | Nanoka Project | 226763 | [226763-nanoka-project.json](./226763-nanoka-project.json) |
