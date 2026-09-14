@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T18:19:17.964Z",
-  "total_missing": 70694,
+  "generated_at": "2026-09-14T18:21:40.797Z",
+  "total_missing": 70693,
   "games": [
     {
       "igdb_id": 306086,
@@ -4586,11 +4586,6 @@
       "igdb_id": 157134,
       "game_name": "Aeris & Zack",
       "file": "missing/A/157134-aeris-and-zack.json"
-    },
-    {
-      "igdb_id": 115715,
-      "game_name": "Aero Attack: Retro Space Shooter",
-      "file": "missing/A/115715-aero-attack-retro-space-shooter.json"
     },
     {
       "igdb_id": 335094,
