@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Secrets: The Blood Vow - Collector's Edition | 362829 | [362829-halloween-secrets-the-blood-vow-collectors-edition.json](./362829-halloween-secrets-the-blood-vow-collectors-edition.json) |
 | Halloween Sinister Trivia | 274488 | [274488-halloween-sinister-trivia.json](./274488-halloween-sinister-trivia.json) |
 | Halloween Stories: Inspiration's Spark - Collector's Edition | 362849 | [362849-halloween-stories-inspirations-spark-collectors-edition.json](./362849-halloween-stories-inspirations-spark-collectors-edition.json) |
+| Halloween Stories: The Death Card | 416609 | [416609-halloween-stories-the-death-card.json](./416609-halloween-stories-the-death-card.json) |
 | Halloween Stories: Written in Blood - Collector's Edition | 362850 | [362850-halloween-stories-written-in-blood-collectors-edition.json](./362850-halloween-stories-written-in-blood-collectors-edition.json) |
 | Halloween Tripeaks | 61047 | [61047-halloween-tripeaks.json](./61047-halloween-tripeaks.json) |
 | Halloween Trouble 2 | 155647 | [155647-halloween-trouble-2.json](./155647-halloween-trouble-2.json) |
@@ -862,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heiwa Pachinko World 64 | 3510 | [3510-heiwa-pachinko-world-64.json](./3510-heiwa-pachinko-world-64.json) |
 | Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
+| Helena: Cloud District | 416638 | [416638-helena-cloud-district.json](./416638-helena-cloud-district.json) |
 | Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
 | Helga the Viking Warrior 8: Valhalla's Last War | 417509 | [417509-helga-the-viking-warrior-8-valhallas-last-war.json](./417509-helga-the-viking-warrior-8-valhallas-last-war.json) |
 | Heli Commando in Hell | 124752 | [124752-heli-commando-in-hell.json](./124752-heli-commando-in-hell.json) |
@@ -1413,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
 | Hey Duggee: The Big Outdoor App | 88308 | [88308-hey-duggee-the-big-outdoor-app.json](./88308-hey-duggee-the-big-outdoor-app.json) |
 | Hey Ma I'm a Dragon Now | 279586 | [279586-hey-ma-im-a-dragon-now.json](./279586-hey-ma-im-a-dragon-now.json) |
+| Hey, Don't Look at Me | 416644 | [416644-hey-dont-look-at-me.json](./416644-hey-dont-look-at-me.json) |
 | Hey! Stop! | 40735 | [40735-hey-stop.json](./40735-hey-stop.json) |
 | HeyBot! HeyboHeybo! HeyBoTournament! | 135165 | [135165-heybot-heyboheybo-heybotournament.json](./135165-heybot-heyboheybo-heybotournament.json) |
 | hhGregg's Quest for Coupons | 125942 | [125942-hhgreggs-quest-for-coupons.json](./125942-hhgreggs-quest-for-coupons.json) |
@@ -1535,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Paws Mystery | 109412 | [109412-hidden-paws-mystery.json](./109412-hidden-paws-mystery.json) |
 | Hidden Pleasure: Closer and Closer | 409531 | [409531-hidden-pleasure-closer-and-closer.json](./409531-hidden-pleasure-closer-and-closer.json) |
 | Hidden Pointsman | 107124 | [107124-hidden-pointsman.json](./107124-hidden-pointsman.json) |
+| Hidden Portals: Eternal Balance | 416701 | [416701-hidden-portals-eternal-balance.json](./416701-hidden-portals-eternal-balance.json) |
 | Hidden Robo Cats | 287074 | [287074-hidden-robo-cats.json](./287074-hidden-robo-cats.json) |
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
@@ -1697,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himawari no Kyoukai to Nagai Natsuyasumi | 137108 | [137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json](./137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json) |
 | Himawari to Koi no Kioku | 194574 | [194574-himawari-to-koi-no-kioku.json](./194574-himawari-to-koi-no-kioku.json) |
 | Hime Hibi Zoku! 2 Gakki: New Princess Days!! | 59372 | [59372-hime-hibi-zoku-2-gakki-new-princess-days.json](./59372-hime-hibi-zoku-2-gakki-new-princess-days.json) |
+| Hime to Otome no Yakimochi Love | 416692 | [416692-hime-to-otome-no-yakimochi-love.json](./416692-hime-to-otome-no-yakimochi-love.json) |
 | Hime's Blossom | 249473 | [249473-himes-blossom.json](./249473-himes-blossom.json) |
 | Himehibi: New Princess Days Zoku! Nigakki | 218483 | [218483-himehibi-new-princess-days-zoku-nigakki.json](./218483-himehibi-new-princess-days-zoku-nigakki.json) |
 | Himehibi: New Princess Days Zoku! Nigakki Portable | 218485 | [218485-himehibi-new-princess-days-zoku-nigakki-portable.json](./218485-himehibi-new-princess-days-zoku-nigakki-portable.json) |
@@ -1996,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homura: The Crimson Warriors - Deluxe Edition | 390530 | [390530-homura-the-crimson-warriors-deluxe-edition.json](./390530-homura-the-crimson-warriors-deluxe-edition.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honest Helper | 349324 | [349324-honest-helper.json](./349324-honest-helper.json) |
+| Honest Work | 416670 | [416670-honest-work.json](./416670-honest-work.json) |
 | Honey | 196245 | [196245-honey.json](./196245-honey.json) |
 | Honey Bee | 47211 | [47211-honey-bee.json](./47211-honey-bee.json) |
 | Honey Bunny | 265699 | [265699-honey-bunny.json](./265699-honey-bunny.json) |
@@ -2572,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter: Avendzer Dragon | 145646 | [145646-hunter-avendzer-dragon.json](./145646-hunter-avendzer-dragon.json) |
 | Hunter: The Reckoning - The Beast of Glenkildove | 250960 | [250960-hunter-the-reckoning-the-beast-of-glenkildove.json](./250960-hunter-the-reckoning-the-beast-of-glenkildove.json) |
 | Hunter's Arena: Revolution | 367978 | [367978-hunters-arena-revolution.json](./367978-hunters-arena-revolution.json) |
+| Hunter's Journey: Tears of the Lake | 416706 | [416706-hunters-journey-tears-of-the-lake.json](./416706-hunters-journey-tears-of-the-lake.json) |
 | Hunter's Journey: Tears of the Lake - Collector's Edition | 362844 | [362844-hunters-journey-tears-of-the-lake-collectors-edition.json](./362844-hunters-journey-tears-of-the-lake-collectors-edition.json) |
 | Hunter's Moon | 144939 | [144939-hunters-moon.json](./144939-hunters-moon.json) |
 | Hunter's Seal | 365681 | [365681-hunters-seal.json](./365681-hunters-seal.json) |
