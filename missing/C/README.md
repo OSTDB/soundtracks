@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candelabra Estoscerro | 143077 | [143077-candelabra-estoscerro.json](./143077-candelabra-estoscerro.json) |
 | Candice DeBebe's Incredibly Trick Lifestyle | 33246 | [33246-candice-debebes-incredibly-trick-lifestyle.json](./33246-candice-debebes-incredibly-trick-lifestyle.json) |
 | Candice DeBebe's Scandalous Secrets | 110931 | [110931-candice-debebes-scandalous-secrets.json](./110931-candice-debebes-scandalous-secrets.json) |
+| Candivity: Platinum Edition | 385194 | [385194-candivity-platinum-edition.json](./385194-candivity-platinum-edition.json) |
 | Candivity: Snow & Sand Edition | 400197 | [400197-candivity-snow-and-sand-edition.json](./400197-candivity-snow-and-sand-edition.json) |
 | Candle Flame in the Wind | 284327 | [284327-candle-flame-in-the-wind.json](./284327-candle-flame-in-the-wind.json) |
 | Candle Prick | 185609 | [185609-candle-prick.json](./185609-candle-prick.json) |
@@ -2647,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Color Trigger | 400352 | [400352-color-trigger.json](./400352-color-trigger.json) |
 | Color Water Sort: Complete Edition | 308798 | [308798-color-water-sort-complete-edition.json](./308798-color-water-sort-complete-edition.json) |
+| Color Water Sort: Gold Edition | 385195 | [385195-color-water-sort-gold-edition.json](./385195-color-water-sort-gold-edition.json) |
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
@@ -3132,6 +3134,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking | 314874 | [314874-cooking.json](./314874-cooking.json) |
 | Cooking Academy Fire and Knives | 17826 | [17826-cooking-academy-fire-and-knives.json](./17826-cooking-academy-fire-and-knives.json) |
 | Cooking Arena | 259586 | [259586-cooking-arena.json](./259586-cooking-arena.json) |
+| Cooking Arena Culinary Legends | 385177 | [385177-cooking-arena-culinary-legends.json](./385177-cooking-arena-culinary-legends.json) |
+| Cooking Arena World Tour Edition | 385196 | [385196-cooking-arena-world-tour-edition.json](./385196-cooking-arena-world-tour-edition.json) |
 | Cooking Arena: 3 in 1 Edition | 283176 | [283176-cooking-arena-3-in-1-edition.json](./283176-cooking-arena-3-in-1-edition.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
 | Cooking Arena: Sushi Master | 308810 | [308810-cooking-arena-sushi-master.json](./308810-cooking-arena-sushi-master.json) |
@@ -3995,6 +3999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Land | 159844 | [159844-crown-land.json](./159844-crown-land.json) |
 | Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
 | Crown of Pain | 192880 | [192880-crown-of-pain.json](./192880-crown-of-pain.json) |
+| Crown of Silence | 385220 | [385220-crown-of-silence.json](./385220-crown-of-silence.json) |
 | Crown of the Empire: Temple of Resurrection - Collector's Edition | 417514 | [417514-crown-of-the-empire-temple-of-resurrection-collectors-edition.json](./417514-crown-of-the-empire-temple-of-resurrection-collectors-edition.json) |
 | Crown of the Empire: Timeloop - Collector's Edition | 356113 | [356113-crown-of-the-empire-timeloop-collectors-edition.json](./356113-crown-of-the-empire-timeloop-collectors-edition.json) |
 | Crown Solitaire: Card Game | 96714 | [96714-crown-solitaire-card-game.json](./96714-crown-solitaire-card-game.json) |
