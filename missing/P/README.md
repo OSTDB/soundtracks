@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PizzaBoy | 319955 | [319955-pizzaboy.json](./319955-pizzaboy.json) |
 | Pizzaïolo-Ninja | 374603 | [374603-pizzaiolo-ninja.json](./374603-pizzaiolo-ninja.json) |
 | PizzaMaker | 362821 | [362821-pizzamaker.json](./362821-pizzamaker.json) |
+| Pizzarian | 36010 | [36010-pizzarian.json](./36010-pizzarian.json) |
 | PJ Masks Power Heroes: Mighty Alliance | 282048 | [282048-pj-masks-power-heroes-mighty-alliance.json](./282048-pj-masks-power-heroes-mighty-alliance.json) |
 | Pj Masks: Heroes of the Night | 148527 | [148527-pj-masks-heroes-of-the-night.json](./148527-pj-masks-heroes-of-the-night.json) |
 | PJ Masks: Heroes of the Night - Complete Edition | 214727 | [214727-pj-masks-heroes-of-the-night-complete-edition.json](./214727-pj-masks-heroes-of-the-night-complete-edition.json) |
@@ -1920,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetoids | 210873 | [210873-planetoids.json](./210873-planetoids.json) |
 | Planetoids | 45353 | [45353-planetoids.json](./45353-planetoids.json) |
 | Planets 3 | 137026 | [137026-planets-3.json](./137026-planets-3.json) |
+| Planetship | 36098 | [36098-planetship.json](./36098-planetship.json) |
 | PlanetSmith | 263777 | [263777-planetsmith.json](./263777-planetsmith.json) |
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
 | Planitis | 212290 | [212290-planitis.json](./212290-planitis.json) |
@@ -2787,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator: Hunting Grounds - Yautja Edition | 320763 | [320763-predator-hunting-grounds-yautja-edition.json](./320763-predator-hunting-grounds-yautja-edition.json) |
 | Predatory Islands | 251832 | [251832-predatory-islands.json](./251832-predatory-islands.json) |
 | Predefined | 253585 | [253585-predefined.json](./253585-predefined.json) |
+| Predestination | 35997 | [35997-predestination.json](./35997-predestination.json) |
 | Predictile | 304890 | [304890-predictile.json](./304890-predictile.json) |
 | Pregnancy | 35722 | [35722-pregnancy.json](./35722-pregnancy.json) |
 | Pregnant Mom Virtual Family Neighbor Helper | 96001 | [96001-pregnant-mom-virtual-family-neighbor-helper.json](./96001-pregnant-mom-virtual-family-neighbor-helper.json) |
@@ -3196,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Glasloc | 253577 | [253577-project-glasloc.json](./253577-project-glasloc.json) |
 | Project GR-5LYR: Galactic Relocation | 108422 | [108422-project-gr-5lyr-galactic-relocation.json](./108422-project-gr-5lyr-galactic-relocation.json) |
 | Project Gravity | 139385 | [139385-project-gravity.json](./139385-project-gravity.json) |
+| Project Green Beat | 36017 | [36017-project-green-beat.json](./36017-project-green-beat.json) |
 | Project Guard | 84805 | [84805-project-guard.json](./84805-project-guard.json) |
 | Project H.A.Z.A.R.D | 216218 | [216218-project-h-a-z-a-r-d.json](./216218-project-h-a-z-a-r-d.json) |
 | Project Hailstorm | 331144 | [331144-project-hailstorm.json](./331144-project-hailstorm.json) |
@@ -3527,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse of Love | 258719 | [258719-pulse-of-love.json](./258719-pulse-of-love.json) |
 | PulseChaser | 112320 | [112320-pulsechaser.json](./112320-pulsechaser.json) |
 | Pulseman | 45760 | [45760-pulseman.json](./45760-pulseman.json) |
+| Pulsen | 35985 | [35985-pulsen.json](./35985-pulsen.json) |
 | PulzAR | 93544 | [93544-pulzar.json](./93544-pulzar.json) |
 | Pum | 119053 | [119053-pum.json](./119053-pum.json) |
 | Pummel Party | 105322 | [105322-pummel-party.json](./105322-pummel-party.json) |
