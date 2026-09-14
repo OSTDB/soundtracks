@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveKami -Divinity Stage- | 26541 | [26541-lovekami-divinity-stage.json](./26541-lovekami-divinity-stage.json) |
 | Loveland | 144917 | [144917-loveland.json](./144917-loveland.json) |
 | Lovelink | 204709 | [204709-lovelink.json](./204709-lovelink.json) |
+| LoveLive! Superstar!! Memory Collect | 386836 | [386836-lovelive-superstar-memory-collect.json](./386836-lovelive-superstar-memory-collect.json) |
 | Lovelorn Sanatorium Ⅲ | 239654 | [239654-lovelorn-sanatorium-iii.json](./239654-lovelorn-sanatorium-iii.json) |
 | Lovelove Boin: High-handed Girl's Boobs | 97374 | [97374-lovelove-boin-high-handed-girls-boobs.json](./97374-lovelove-boin-high-handed-girls-boobs.json) |
 | Lovely Anime Puzzle: Spring | 398328 | [398328-lovely-anime-puzzle-spring.json](./398328-lovely-anime-puzzle-spring.json) |
