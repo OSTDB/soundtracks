@@ -1669,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Adventure | 153958 | [153958-rift-adventure.json](./153958-rift-adventure.json) |
 | Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
 | Rift Fishing | 380422 | [380422-rift-fishing.json](./380422-rift-fishing.json) |
+| Rift Investigations | 402992 | [402992-rift-investigations.json](./402992-rift-investigations.json) |
 | Rift Mobile | 38902 | [38902-rift-mobile.json](./38902-rift-mobile.json) |
 | Rift of the Necrodancer: Undertale - "Spider Dance" - Toby Fox | 398364 | [398364-rift-of-the-necrodancer-undertale-spider-dance-toby-fox.json](./398364-rift-of-the-necrodancer-undertale-spider-dance-toby-fox.json) |
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
@@ -1906,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Spirits | 41998 | [41998-road-spirits.json](./41998-road-spirits.json) |
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
 | Road to Beta | 86114 | [86114-road-to-beta.json](./86114-road-to-beta.json) |
+| Road to Empress II | 403017 | [403017-road-to-empress-ii.json](./403017-road-to-empress-ii.json) |
 | Road to Exotics! | 275337 | [275337-road-to-exotics.json](./275337-road-to-exotics.json) |
 | Road to Fame | 367408 | [367408-road-to-fame.json](./367408-road-to-fame.json) |
 | Road to Mechalopolis | 413009 | [413009-road-to-mechalopolis.json](./413009-road-to-mechalopolis.json) |
@@ -2133,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Rumble | 144974 | [144974-rocket-rumble.json](./144974-rocket-rumble.json) |
 | Rocket Rush | 99633 | [99633-rocket-rush.json](./99633-rocket-rush.json) |
 | Rocket Science | 232417 | [232417-rocket-science.json](./232417-rocket-science.json) |
+| Rocket Shooting | 403001 | [403001-rocket-shooting.json](./403001-rocket-shooting.json) |
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
 | Rocket Valet! Galaxy Landing Service | 212818 | [212818-rocket-valet-galaxy-landing-service.json](./212818-rocket-valet-galaxy-landing-service.json) |
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
