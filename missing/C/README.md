@@ -1243,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Change: A Homeless Survival Experience - Living City Expansion | 199664 | [199664-change-a-homeless-survival-experience-living-city-expansion.json](./199664-change-a-homeless-survival-experience-living-city-expansion.json) |
 | Changelog | 360569 | [360569-changelog.json](./360569-changelog.json) |
 | Changes | 152903 | [152903-changes.json](./152903-changes.json) |
+| Channel 64 | 395048 | [395048-channel-64.json](./395048-channel-64.json) |
 | Channel Surfing | 356111 | [356111-channel-surfing.json](./356111-channel-surfing.json) |
 | Chant | 125948 | [125948-chant.json](./125948-chant.json) |
 | Chantelise - A Tale of Two Sisters | 12525 | [12525-chantelise-a-tale-of-two-sisters.json](./12525-chantelise-a-tale-of-two-sisters.json) |
@@ -3294,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
 | Cosmos Crash VR | 31761 | [31761-cosmos-crash-vr.json](./31761-cosmos-crash-vr.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
+| Cosmos no Sora ni | 395012 | [395012-cosmos-no-sora-ni.json](./395012-cosmos-no-sora-ni.json) |
 | Cosmos Quest II: To Find a Sun | 98471 | [98471-cosmos-quest-ii-to-find-a-sun.json](./98471-cosmos-quest-ii-to-find-a-sun.json) |
 | Cosmos Quest III: The Mines of Isagor | 98474 | [98474-cosmos-quest-iii-the-mines-of-isagor.json](./98474-cosmos-quest-iii-the-mines-of-isagor.json) |
 | Cosmos Quest IV: The Ayatolian March | 98473 | [98473-cosmos-quest-iv-the-ayatolian-march.json](./98473-cosmos-quest-iv-the-ayatolian-march.json) |
@@ -3999,6 +4001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushed Baseball | 49306 | [49306-crushed-baseball.json](./49306-crushed-baseball.json) |
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
 | Crushing on the Clock | 376461 | [376461-crushing-on-the-clock.json](./376461-crushing-on-the-clock.json) |
+| Crustacean Frustration | 395021 | [395021-crustacean-frustration.json](./395021-crustacean-frustration.json) |
 | Crux: The Great Outdoors | 200161 | [200161-crux-the-great-outdoors.json](./200161-crux-the-great-outdoors.json) |
 | Cruxade | 212246 | [212246-cruxade.json](./212246-cruxade.json) |
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
