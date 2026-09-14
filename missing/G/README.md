@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
 | Game Over II | 46658 | [46658-game-over-ii.json](./46658-game-over-ii.json) |
 | Game Over Quest | 122330 | [122330-game-over-quest.json](./122330-game-over-quest.json) |
+| Game Over! | 380539 | [380539-game-over.json](./380539-game-over.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
@@ -1126,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
 | Glory Warrior: Lord of Darkness | 32963 | [32963-glory-warrior-lord-of-darkness.json](./32963-glory-warrior-lord-of-darkness.json) |
 | Glory's Witness | 161407 | [161407-glorys-witness.json](./161407-glorys-witness.json) |
+| Glove Pilot | 380537 | [380537-glove-pilot.json](./380537-glove-pilot.json) |
 | Glow Chess | 106583 | [106583-glow-chess.json](./106583-glow-chess.json) |
 | Glow Hockey 2 | 228068 | [228068-glow-hockey-2.json](./228068-glow-hockey-2.json) |
 | Glow Hockey 2 HD | 91984 | [91984-glow-hockey-2-hd.json](./91984-glow-hockey-2-hd.json) |
@@ -1765,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto III: 10 Year Anniversary Edition | 22930 | [22930-grand-theft-auto-iii-10-year-anniversary-edition.json](./22930-grand-theft-auto-iii-10-year-anniversary-edition.json) |
 | Grand Theft Auto III: The Definitive Edition | 178123 | [178123-grand-theft-auto-iii-the-definitive-edition.json](./178123-grand-theft-auto-iii-the-definitive-edition.json) |
 | Grand Theft Auto Online | 134710 | [134710-grand-theft-auto-online.json](./134710-grand-theft-auto-online.json) |
+| Grand Theft Auto Online: A Safehouse in the Hills | 380532 | [380532-grand-theft-auto-online-a-safehouse-in-the-hills.json](./380532-grand-theft-auto-online-a-safehouse-in-the-hills.json) |
 | Grand Theft Auto Online: Los Santos Drug Wars | 239053 | [239053-grand-theft-auto-online-los-santos-drug-wars.json](./239053-grand-theft-auto-online-los-santos-drug-wars.json) |
 | Grand Theft Auto Online: Los Santos Tuners | 239051 | [239051-grand-theft-auto-online-los-santos-tuners.json](./239051-grand-theft-auto-online-los-santos-tuners.json) |
 | Grand Theft Auto Online: The Cayo Perico Heist | 239050 | [239050-grand-theft-auto-online-the-cayo-perico-heist.json](./239050-grand-theft-auto-online-the-cayo-perico-heist.json) |
@@ -2190,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grumpy Cat's Worst Game Ever | 98930 | [98930-grumpy-cats-worst-game-ever.json](./98930-grumpy-cats-worst-game-ever.json) |
 | Grumpy Witch | 115015 | [115015-grumpy-witch.json](./115015-grumpy-witch.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
+| Grundlewhack | 380527 | [380527-grundlewhack.json](./380527-grundlewhack.json) |
 | Gruniożerca Trilogy | 371253 | [371253-gruniozerca-trilogy.json](./371253-gruniozerca-trilogy.json) |
 | Grunn | 281353 | [281353-grunn.json](./281353-grunn.json) |
 | GSIII: Combat Flight Simulator - Heroes of the MIG Alley | 97914 | [97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json](./97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json) |
