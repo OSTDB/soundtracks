@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Frame | 321739 | [321739-fatal-frame.json](./321739-fatal-frame.json) |
 | Fatal Frame | 5106 | [5106-fatal-frame.json](./5106-fatal-frame.json) |
 | Fatal Frame: Maiden of Black Water - Digital Deluxe Edition | 188050 | [188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json](./188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json) |
+| Fatal Frontier 1869 | 396362 | [396362-fatal-frontier-1869.json](./396362-fatal-frontier-1869.json) |
 | Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
 | Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
 | Fatal Fury: City of the Wolves - Ken | 317831 | [317831-fatal-fury-city-of-the-wolves-ken.json](./317831-fatal-fury-city-of-the-wolves-ken.json) |
@@ -719,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Father's Day | 213858 | [213858-fathers-day.json](./213858-fathers-day.json) |
 | Father's Island | 33072 | [33072-fathers-island.json](./33072-fathers-island.json) |
 | Fathom | 10966 | [10966-fathom.json](./10966-fathom.json) |
+| Fathom's End | 396401 | [396401-fathoms-end.json](./396401-fathoms-end.json) |
 | Fathomless | 415095 | [415095-fathomless.json](./415095-fathomless.json) |
 | Fathoms | 415121 | [415121-fathoms.json](./415121-fathoms.json) |
 | Fatimopolis | 409636 | [409636-fatimopolis.json](./409636-fatimopolis.json) |
@@ -844,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fenimore Fillmore: The Westerner | 27496 | [27496-fenimore-fillmore-the-westerner.json](./27496-fenimore-fillmore-the-westerner.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
 | Feodika | 382777 | [382777-feodika.json](./382777-feodika.json) |
+| Ferarum | 396366 | [396366-ferarum.json](./396366-ferarum.json) |
 | Fergus the Fly | 29641 | [29641-fergus-the-fly.json](./29641-fergus-the-fly.json) |
 | Feria 3000 | 391057 | [391057-feria-3000.json](./391057-feria-3000.json) |
 | Feria d'Arles | 126394 | [126394-feria-darles.json](./126394-feria-darles.json) |
@@ -877,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
 | Fey: Distant Daydream | 189201 | [189201-fey-distant-daydream.json](./189201-fey-distant-daydream.json) |
+| Feyhearth: the Art of Handling Extraordinary Clientele | 396354 | [396354-feyhearth-the-art-of-handling-extraordinary-clientele.json](./396354-feyhearth-the-art-of-handling-extraordinary-clientele.json) |
 | Fez II | 63291 | [63291-fez-ii.json](./63291-fez-ii.json) |
 | Fez Pocket Edition | 78543 | [78543-fez-pocket-edition.json](./78543-fez-pocket-edition.json) |
 | FF Link | 311806 | [311806-ff-link.json](./311806-ff-link.json) |
