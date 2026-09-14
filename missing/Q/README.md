@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
 | Qualia | 77279 | [77279-qualia.json](./77279-qualia.json) |
 | Qualia's Sweets Craft | 165658 | [165658-qualias-sweets-craft.json](./165658-qualias-sweets-craft.json) |
+| Quan min zhao bu tong | 402360 | [402360-quan-min-zhao-bu-tong.json](./402360-quan-min-zhao-bu-tong.json) |
 | Quán Zhàn Tiānxià | 156616 | [156616-quan-zhan-tianxia.json](./156616-quan-zhan-tianxia.json) |
 | Quandaries | 94166 | [94166-quandaries.json](./94166-quandaries.json) |
 | Quandino | 275911 | [275911-quandino.json](./275911-quandino.json) |
