@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
 | Adventure Inlay: Safari Edition | 52550 | [52550-adventure-inlay-safari-edition.json](./52550-adventure-inlay-safari-edition.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
+| Adventure Master | 381130 | [381130-adventure-master.json](./381130-adventure-master.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
@@ -444,7 +445,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | Aether | 357785 | [357785-aether.json](./357785-aether.json) |
-| Aether Brew | 357788 | [357788-aether-brew.json](./357788-aether-brew.json) |
 | Aether Crown | 405616 | [405616-aether-crown.json](./405616-aether-crown.json) |
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
 | Aether League | 382222 | [382222-aether-league.json](./382222-aether-league.json) |
@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alder's Blood: Prologue | 129232 | [129232-alders-blood-prologue.json](./129232-alders-blood-prologue.json) |
 | Aldora | 304614 | [304614-aldora.json](./304614-aldora.json) |
 | Aldoria | 322382 | [322382-aldoria.json](./322382-aldoria.json) |
+| Aldradah: Tome of Mist Realm | 381101 | [381101-aldradah-tome-of-mist-realm.json](./381101-aldradah-tome-of-mist-realm.json) |
 | Aldriak: The Advent of a New World | 149569 | [149569-aldriak-the-advent-of-a-new-world.json](./149569-aldriak-the-advent-of-a-new-world.json) |
 | Aldro | 247747 | [247747-aldro.json](./247747-aldro.json) |
 | Aldroy: Chapter 1 | 133959 | [133959-aldroy-chapter-1.json](./133959-aldroy-chapter-1.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alienoid | 57685 | [57685-alienoid.json](./57685-alienoid.json) |
 | Aliens | 186868 | [186868-aliens.json](./186868-aliens.json) |
 | Aliens After Ava | 211212 | [211212-aliens-after-ava.json](./211212-aliens-after-ava.json) |
+| Aliens Doom 3: Aliens vs Predator | 381150 | [381150-aliens-doom-3-aliens-vs-predator.json](./381150-aliens-doom-3-aliens-vs-predator.json) |
 | Aliens Go Home Run! | 26835 | [26835-aliens-go-home-run.json](./26835-aliens-go-home-run.json) |
 | Aliens Invaded Our Planet | 103642 | [103642-aliens-invaded-our-planet.json](./103642-aliens-invaded-our-planet.json) |
 | Aliens Like Milk | 200186 | [200186-aliens-like-milk.json](./200186-aliens-like-milk.json) |
@@ -1606,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amour Libre: Free Love | 129794 | [129794-amour-libre-free-love.json](./129794-amour-libre-free-love.json) |
 | Amped 3 | 5483 | [5483-amped-3.json](./5483-amped-3.json) |
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
+| Amphis Game | 381122 | [381122-amphis-game.json](./381122-amphis-game.json) |
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
 | Ampsball | 398443 | [398443-ampsball.json](./398443-ampsball.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
@@ -2840,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: World War | 44994 | [44994-army-men-world-war.json](./44994-army-men-world-war.json) |
 | Army Men: World War - Final Front | 43948 | [43948-army-men-world-war-final-front.json](./43948-army-men-world-war-final-front.json) |
 | Army Moves | 11916 | [11916-army-moves.json](./11916-army-moves.json) |
+| Army of Darkness Doom 2 Total Conversion | 381149 | [381149-army-of-darkness-doom-2-total-conversion.json](./381149-army-of-darkness-doom-2-total-conversion.json) |
 | Army of Pixels | 34757 | [34757-army-of-pixels.json](./34757-army-of-pixels.json) |
 | Army of Ruin | 219057 | [219057-army-of-ruin.json](./219057-army-of-ruin.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim - Halloween | 172178 | [172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json](./172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json) |
@@ -3384,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 2: Lost Legends & The Secret Fairy - Premium Box | 139998 | [139998-atelier-ryza-2-lost-legends-and-the-secret-fairy-premium-box.json](./139998-atelier-ryza-2-lost-legends-and-the-secret-fairy-premium-box.json) |
 | Atelier Ryza 2: Lost Legends & The Secret Fairy - Special Collection Box | 140002 | [140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json](./140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json) |
 | Atelier Ryza 2: Lost Legends & the Secret Fairy DX | 359425 | [359425-atelier-ryza-2-lost-legends-and-the-secret-fairy-dx.json](./359425-atelier-ryza-2-lost-legends-and-the-secret-fairy-dx.json) |
+| Atelier Ryza 3: Alchemist of the End & the Secret Key - Premium Box | 381105 | [381105-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-premium-box.json](./381105-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-premium-box.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key DX | 359427 | [359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json](./359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json) |
 | Atelier Ryza 3: Endless Summer Splash! Costume Set | 242543 | [242543-atelier-ryza-3-endless-summer-splash-costume-set.json](./242543-atelier-ryza-3-endless-summer-splash-costume-set.json) |
 | Atelier Ryza 3: Summer Look Costume Set | 242544 | [242544-atelier-ryza-3-summer-look-costume-set.json](./242544-atelier-ryza-3-summer-look-costume-set.json) |
