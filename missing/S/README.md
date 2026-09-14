@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarab | 84223 | [84223-scarab.json](./84223-scarab.json) |
 | Scarab Shooter | 72065 | [72065-scarab-shooter.json](./72065-scarab-shooter.json) |
 | Scarecrow vs. Big Butt Birds | 296389 | [296389-scarecrow-vs-big-butt-birds.json](./296389-scarecrow-vs-big-butt-birds.json) |
+| Scarecrow: Heart of Straw | 408146 | [408146-scarecrow-heart-of-straw.json](./408146-scarecrow-heart-of-straw.json) |
 | Scarecrows of Illyria | 211758 | [211758-scarecrows-of-illyria.json](./211758-scarecrows-of-illyria.json) |
 | Scared of Zombies | 371860 | [371860-scared-of-zombies.json](./371860-scared-of-zombies.json) |
 | Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
@@ -4713,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SparkMutts | 211214 | [211214-sparkmutts.json](./211214-sparkmutts.json) |
 | Sparkster: Rocket Knight Adventures 2 | 1264 | [1264-sparkster-rocket-knight-adventures-2.json](./1264-sparkster-rocket-knight-adventures-2.json) |
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
+| Sparrow Country | 408157 | [408157-sparrow-country.json](./408157-sparrow-country.json) |
 | Sparrow Solitaire | 209649 | [209649-sparrow-solitaire.json](./209649-sparrow-solitaire.json) |
 | SparSpecial | 292547 | [292547-sparspecial.json](./292547-sparspecial.json) |
 | Spartacus Legends | 2326 | [2326-spartacus-legends.json](./2326-spartacus-legends.json) |
@@ -6149,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
 | Stlthscpe | 284320 | [284320-stlthscpe.json](./284320-stlthscpe.json) |
 | Stock Car Extreme | 16966 | [16966-stock-car-extreme.json](./16966-stock-car-extreme.json) |
+| Stock Car USA | 408152 | [408152-stock-car-usa.json](./408152-stock-car-usa.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
 | Stoked | 7195 | [7195-stoked.json](./7195-stoked.json) |
@@ -7371,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: The Second Reality Project - Reloaded | 202377 | [202377-super-mario-world-the-second-reality-project-reloaded.json](./202377-super-mario-world-the-second-reality-project-reloaded.json) |
 | Super Mario World: The Second Reality Project 2 - Zycloboo's Challenge | 202378 | [202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json](./202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json) |
 | Super Mario World: Tsunami Island | 215149 | [215149-super-mario-world-tsunami-island.json](./215149-super-mario-world-tsunami-island.json) |
+| Super Mario Worldle | 408138 | [408138-super-mario-worldle.json](./408138-super-mario-worldle.json) |
 | Super Mario XP: Super Mario Land | 324082 | [324082-super-mario-xp-super-mario-land.json](./324082-super-mario-xp-super-mario-land.json) |
 | Super Mario: Endless Earth | 135177 | [135177-super-mario-endless-earth.json](./135177-super-mario-endless-earth.json) |
 | Super Mario: Magnum Opus | 250041 | [250041-super-mario-magnum-opus.json](./250041-super-mario-magnum-opus.json) |
