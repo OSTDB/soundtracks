@@ -124,6 +124,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tag War VR | 336904 | [336904-tag-war-vr.json](./336904-tag-war-vr.json) |
 | Tag.Io | 129726 | [129726-tag-io.json](./129726-tag-io.json) |
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
+| Tago Akira no Atama no Taisou Dai-2-Shuu: Ginga Oudan Nazotoki Adventure | 402967 | [402967-tago-akira-no-atama-no-taisou-dai-2-shuu-ginga-oudan-nazotoki-adventure.json](./402967-tago-akira-no-atama-no-taisou-dai-2-shuu-ginga-oudan-nazotoki-adventure.json) |
+| Tago Akira no Atama no Taisou Dai-3-Shuu: Fushigi no Kuni no Nazotoki Otogibanashi | 402968 | [402968-tago-akira-no-atama-no-taisou-dai-3-shuu-fushigi-no-kuni-no-nazotoki-otogibanashi.json](./402968-tago-akira-no-atama-no-taisou-dai-3-shuu-fushigi-no-kuni-no-nazotoki-otogibanashi.json) |
+| Tago Akira no Atama no Taisou Dai-4-Shuu: Time Machine no Nazotoki Daibouken | 402969 | [402969-tago-akira-no-atama-no-taisou-dai-4-shuu-time-machine-no-nazotoki-daibouken.json](./402969-tago-akira-no-atama-no-taisou-dai-4-shuu-time-machine-no-nazotoki-daibouken.json) |
 | TagPro | 9604 | [9604-tagpro.json](./9604-tagpro.json) |
 | Tahl: Uncover the Evil Within | 145617 | [145617-tahl-uncover-the-evil-within.json](./145617-tahl-uncover-the-evil-within.json) |
 | Tahn | 126046 | [126046-tahn.json](./126046-tahn.json) |
@@ -953,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengai Makyou: Daiyon no Mokushiroku - The Apocalypse IV | 80577 | [80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json](./80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json) |
 | Tengai Makyou: Dennou Karakuri Kakutou-den | 45952 | [45952-tengai-makyou-dennou-karakuri-kakutou-den.json](./45952-tengai-makyou-dennou-karakuri-kakutou-den.json) |
 | Tengai Makyou: Fuun Kabuki-den | 71530 | [71530-tengai-makyou-fuun-kabuki-den.json](./71530-tengai-makyou-fuun-kabuki-den.json) |
+| Tengu Halloween | 403038 | [403038-tengu-halloween.json](./403038-tengu-halloween.json) |
 | Tengu no Kassha: Shoot and Embodiment! | 342037 | [342037-tengu-no-kassha-shoot-and-embodiment.json](./342037-tengu-no-kassha-shoot-and-embodiment.json) |
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
 | Tenka Hyakken: Zan | 76569 | [76569-tenka-hyakken-zan.json](./76569-tenka-hyakken-zan.json) |
@@ -1724,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
 | The Clockwork Labyrinth | 166704 | [166704-the-clockwork-labyrinth.json](./166704-the-clockwork-labyrinth.json) |
 | The Clotted Island | 128591 | [128591-the-clotted-island.json](./128591-the-clotted-island.json) |
+| The Cloudberry Abyss | 402998 | [402998-the-cloudberry-abyss.json](./402998-the-cloudberry-abyss.json) |
 | The Clown | 260975 | [260975-the-clown.json](./260975-the-clown.json) |
 | The Club | 6940 | [6940-the-club.json](./6940-the-club.json) |
 | The Clutch: Remastered | 186864 | [186864-the-clutch-remastered.json](./186864-the-clutch-remastered.json) |
@@ -2737,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land of the Scurvy Dog | 176447 | [176447-the-land-of-the-scurvy-dog.json](./176447-the-land-of-the-scurvy-dog.json) |
 | The Land: Elf no Mori | 302963 | [302963-the-land-elf-no-mori.json](./302963-the-land-elf-no-mori.json) |
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
+| The Larper | 402988 | [402988-the-larper.json](./402988-the-larper.json) |
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
 | The Last Blade 2 | 76045 | [76045-the-last-blade-2.json](./76045-the-last-blade-2.json) |
@@ -2818,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Stand Legacy Collection | 158727 | [158727-the-last-stand-legacy-collection.json](./158727-the-last-stand-legacy-collection.json) |
 | The Last Stand: Union City | 61586 | [61586-the-last-stand-union-city.json](./61586-the-last-stand-union-city.json) |
 | The Last Sunshine: Rekindled | 150612 | [150612-the-last-sunshine-rekindled.json](./150612-the-last-sunshine-rekindled.json) |
+| The Last Tale | 403004 | [403004-the-last-tale.json](./403004-the-last-tale.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
 | The Last Tiger | 295285 | [295285-the-last-tiger.json](./295285-the-last-tiger.json) |
 | The Last Train | 109625 | [109625-the-last-train.json](./109625-the-last-train.json) |
@@ -2968,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Acre | 25680 | [25680-the-little-acre.json](./25680-the-little-acre.json) |
 | The Little Drone 2 | 172202 | [172202-the-little-drone-2.json](./172202-the-little-drone-2.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
+| The Little Land | 403022 | [403022-the-little-land.json](./403022-the-little-land.json) |
 | The Little Match Girl 2: Annus Evertens | 290400 | [290400-the-little-match-girl-2-annus-evertens.json](./290400-the-little-match-girl-2-annus-evertens.json) |
 | The Little Match Girl 4: Crown of Pearls | 290406 | [290406-the-little-match-girl-4-crown-of-pearls.json](./290406-the-little-match-girl-4-crown-of-pearls.json) |
 | The Little Match Girl against the Universal Sisterhood of Naughty Little Girls | 290407 | [290407-the-little-match-girl-against-the-universal-sisterhood-of-naughty-little-girls.json](./290407-the-little-match-girl-against-the-universal-sisterhood-of-naughty-little-girls.json) |
@@ -3144,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Medium + Observer: System Redux + Darq: Complete Edition Bundle | 166687 | [166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json](./166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json) |
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
+| The Membrane | 403012 | [403012-the-membrane.json](./403012-the-membrane.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
 | The Memory Library | 414404 | [414404-the-memory-library.json](./414404-the-memory-library.json) |
 | The Memory of Eldurim | 16905 | [16905-the-memory-of-eldurim.json](./16905-the-memory-of-eldurim.json) |
@@ -4483,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
 | The Worlds Best Board Games | 51208 | [51208-the-worlds-best-board-games.json](./51208-the-worlds-best-board-games.json) |
 | The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
+| The Wreck That Should Not Be | 403016 | [403016-the-wreck-that-should-not-be.json](./403016-the-wreck-that-should-not-be.json) |
 | The Wrestling Game | 368474 | [368474-the-wrestling-game.json](./368474-the-wrestling-game.json) |
 | The Wrong Floor | 391069 | [391069-the-wrong-floor.json](./391069-the-wrong-floor.json) |
 | The Wylde | 23875 | [23875-the-wylde.json](./23875-the-wylde.json) |
@@ -4678,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Onion | 271243 | [271243-this-onion.json](./271243-this-onion.json) |
 | This Panda Needs You | 185652 | [185652-this-panda-needs-you.json](./185652-this-panda-needs-you.json) |
 | This Rain Will Never End | 169462 | [169462-this-rain-will-never-end.json](./169462-this-rain-will-never-end.json) |
+| This Short Indie Game Made Me Miss My Friends: Rainy Plays Lonely Game Livestream | 403029 | [403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json](./403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json) |
 | This Thing of Ours | 214162 | [214162-this-thing-of-ours.json](./214162-this-thing-of-ours.json) |
 | This War of Mine: Complete Edition | 111817 | [111817-this-war-of-mine-complete-edition.json](./111817-this-war-of-mine-complete-edition.json) |
 | This War of Mine: Stories - Father's Promise | 75871 | [75871-this-war-of-mine-stories-fathers-promise.json](./75871-this-war-of-mine-stories-fathers-promise.json) |
