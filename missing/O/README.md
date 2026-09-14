@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onegai AiPri | 396935 | [396935-onegai-aipri.json](./396935-onegai-aipri.json) |
 | OneHit | 75104 | [75104-onehit.json](./75104-onehit.json) |
 | Oneiro Man | 299779 | [299779-oneiro-man.json](./299779-oneiro-man.json) |
+| Oneirophobia | 391714 | [391714-oneirophobia.json](./391714-oneirophobia.json) |
 | Oneiros | 102965 | [102965-oneiros.json](./102965-oneiros.json) |
 | OneJump | 131619 | [131619-onejump.json](./131619-onejump.json) |
 | OneKind | 302372 | [302372-onekind.json](./302372-onekind.json) |
