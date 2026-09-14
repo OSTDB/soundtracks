@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballz: Farm | 81063 | [81063-ballz-farm.json](./81063-ballz-farm.json) |
 | BallzOut | 147941 | [147941-ballzout.json](./147941-ballzout.json) |
 | Baloo and the Big Blue | 296066 | [296066-baloo-and-the-big-blue.json](./296066-baloo-and-the-big-blue.json) |
+| Balorizon | 401632 | [401632-balorizon.json](./401632-balorizon.json) |
 | Balrog | 166781 | [166781-balrog.json](./166781-balrog.json) |
 | Balrog Sampler | 24903 | [24903-balrog-sampler.json](./24903-balrog-sampler.json) |
 | Baltron | 48588 | [48588-baltron.json](./48588-baltron.json) |
@@ -1547,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between Adventures Idle | 365079 | [365079-between-adventures-idle.json](./365079-between-adventures-idle.json) |
 | Between Heaven and Hell | 72033 | [72033-between-heaven-and-hell.json](./72033-between-heaven-and-hell.json) |
 | Between Planets | 121005 | [121005-between-planets.json](./121005-between-planets.json) |
+| Between Stops | 401640 | [401640-between-stops.json](./401640-between-stops.json) |
 | Between them | 149536 | [149536-between-them.json](./149536-between-them.json) |
 | Between Time: Escape Room | 164977 | [164977-between-time-escape-room.json](./164977-between-time-escape-room.json) |
 | Between Worlds | 181388 | [181388-between-worlds.json](./181388-between-worlds.json) |
@@ -3535,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brix and Trix | 237955 | [237955-brix-and-trix.json](./237955-brix-and-trix.json) |
 | Brix VR | 116324 | [116324-brix-vr.json](./116324-brix-vr.json) |
 | Broadside | 34450 | [34450-broadside.json](./34450-broadside.json) |
+| Broadside Bets | 401617 | [401617-broadside-bets.json](./401617-broadside-bets.json) |
 | Brobot | 159866 | [159866-brobot.json](./159866-brobot.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
 | Broke Brodie | 362856 | [362856-broke-brodie.json](./362856-broke-brodie.json) |
@@ -4092,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By the King's Command | 399008 | [399008-by-the-kings-command.json](./399008-by-the-kings-command.json) |
 | Byakuya Monogatari: Winchester-ke no Matsuei | 287633 | [287633-byakuya-monogatari-winchester-ke-no-matsuei.json](./287633-byakuya-monogatari-winchester-ke-no-matsuei.json) |
 | Bye Bye Bonnie | 415153 | [415153-bye-bye-bonnie.json](./415153-bye-bye-bonnie.json) |
+| Bye Sweet Carole: Deluxe Edition | 401673 | [401673-bye-sweet-carole-deluxe-edition.json](./401673-bye-sweet-carole-deluxe-edition.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
 | Bygone Dreams | 149522 | [149522-bygone-dreams.json](./149522-bygone-dreams.json) |
 | Bygone Worlds: Jerusalem | 74446 | [74446-bygone-worlds-jerusalem.json](./74446-bygone-worlds-jerusalem.json) |
