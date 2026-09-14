@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Javaders | 128578 | [128578-javaders.json](./128578-javaders.json) |
 | Jawbreaker | 177551 | [177551-jawbreaker.json](./177551-jawbreaker.json) |
 | Jawbreaker | 339639 | [339639-jawbreaker.json](./339639-jawbreaker.json) |
+| Jawed | 408909 | [408909-jawed.json](./408909-jawed.json) |
 | Jaws of Hell | 349322 | [349322-jaws-of-hell.json](./349322-jaws-of-hell.json) |
 | Jayce | 177500 | [177500-jayce.json](./177500-jayce.json) |
 | Jazz and Faust | 127331 | [127331-jazz-and-faust.json](./127331-jazz-and-faust.json) |
