@@ -3094,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison of Nightmare | 311245 | [311245-prison-of-nightmare.json](./311245-prison-of-nightmare.json) |
 | Prison Out | 365071 | [365071-prison-out.json](./365071-prison-out.json) |
 | Prison Princess | 127335 | [127335-prison-princess.json](./127335-prison-princess.json) |
+| Prison Run | 394998 | [394998-prison-run.json](./394998-prison-run.json) |
 | Prison Run and Gun | 33672 | [33672-prison-run-and-gun.json](./33672-prison-run-and-gun.json) |
 | Prison Tycoon 4: Supermax | 14882 | [14882-prison-tycoon-4-supermax.json](./14882-prison-tycoon-4-supermax.json) |
 | Prison Tycoon: Alcatraz | 14883 | [14883-prison-tycoon-alcatraz.json](./14883-prison-tycoon-alcatraz.json) |
