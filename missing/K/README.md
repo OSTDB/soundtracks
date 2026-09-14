@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kattish | 218726 | [218726-kattish.json](./218726-kattish.json) |
 | Kattobi! Warabe Ji | 63296 | [63296-kattobi-warabe-ji.json](./63296-kattobi-warabe-ji.json) |
 | Kattonauten | 180844 | [180844-kattonauten.json](./180844-kattonauten.json) |
+| Katy and Bob: Safari Cafe | 103882 | [103882-katy-and-bob-safari-cafe.json](./103882-katy-and-bob-safari-cafe.json) |
 | Katy Perry Revenge | 66038 | [66038-katy-perry-revenge.json](./66038-katy-perry-revenge.json) |
 | Katy Perry Revenge 2 | 66036 | [66036-katy-perry-revenge-2.json](./66036-katy-perry-revenge-2.json) |
 | Katyusha | 75917 | [75917-katyusha.json](./75917-katyusha.json) |
@@ -558,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killcolor | 296925 | [296925-killcolor.json](./296925-killcolor.json) |
 | Killer Aces Volleyball | 352226 | [352226-killer-aces-volleyball.json](./352226-killer-aces-volleyball.json) |
 | Killer and Strawberry Plus | 172750 | [172750-killer-and-strawberry-plus.json](./172750-killer-and-strawberry-plus.json) |
+| Killer Backflip 999 | 103474 | [103474-killer-backflip-999.json](./103474-killer-backflip-999.json) |
 | Killer Bean Unleashed | 262652 | [262652-killer-bean-unleashed.json](./262652-killer-bean-unleashed.json) |
 | Killer Dog | 135814 | [135814-killer-dog.json](./135814-killer-dog.json) |
 | Killer Gorilla | 13733 | [13733-killer-gorilla.json](./13733-killer-gorilla.json) |
