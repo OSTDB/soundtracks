@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune: New Second Edition | 209617 | [209617-wheel-of-fortune-new-second-edition.json](./209617-wheel-of-fortune-new-second-edition.json) |
 | Wheel of Fortune: Pogo Edition | 355010 | [355010-wheel-of-fortune-pogo-edition.json](./355010-wheel-of-fortune-pogo-edition.json) |
 | Wheel of Fortune: Show Puzzles | 87370 | [87370-wheel-of-fortune-show-puzzles.json](./87370-wheel-of-fortune-show-puzzles.json) |
+| Wheel Saint: Hellride | 384669 | [384669-wheel-saint-hellride.json](./384669-wheel-saint-hellride.json) |
 | Wheelie | 23069 | [23069-wheelie.json](./23069-wheelie.json) |
 | Wheelie 2 | 239892 | [239892-wheelie-2.json](./239892-wheelie-2.json) |
 | Wheelie King 3D | 104656 | [104656-wheelie-king-3d.json](./104656-wheelie-king-3d.json) |
@@ -1777,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words Guesser | 314664 | [314664-words-guesser.json](./314664-words-guesser.json) |
 | Words Scramble: Cities | 245329 | [245329-words-scramble-cities.json](./245329-words-scramble-cities.json) |
 | Words With Freds | 192956 | [192956-words-with-freds.json](./192956-words-with-freds.json) |
+| Words with Gizmos | 384679 | [384679-words-with-gizmos.json](./384679-words-with-gizmos.json) |
 | Words-Attack | 40747 | [40747-words-attack.json](./40747-words-attack.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
 | Wordslop | 402911 | [402911-wordslop.json](./402911-wordslop.json) |
