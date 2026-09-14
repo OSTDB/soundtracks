@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekobabaa: Melonbooks Omake Tokubetsu-hen | 212253 | [212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json](./212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json) |
 | Nekoglai Simulator | 193409 | [193409-nekoglai-simulator.json](./193409-nekoglai-simulator.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
+| Nekome: Nazi Hunter | 388249 | [388249-nekome-nazi-hunter.json](./388249-nekome-nazi-hunter.json) |
 | Nekopara Extra | 106416 | [106416-nekopara-extra.json](./106416-nekopara-extra.json) |
 | Nekopara Vol. 1 | 26653 | [26653-nekopara-vol-1.json](./26653-nekopara-vol-1.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
@@ -887,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NewPark Simon XL | 101507 | [101507-newpark-simon-xl.json](./101507-newpark-simon-xl.json) |
 | Newspaper Puzzle Challenge: Sudoku Edition | 210035 | [210035-newspaper-puzzle-challenge-sudoku-edition.json](./210035-newspaper-puzzle-challenge-sudoku-edition.json) |
 | Newton's House of Forces | 163948 | [163948-newtons-house-of-forces.json](./163948-newtons-house-of-forces.json) |
+| Newton's Promise | 388246 | [388246-newtons-promise.json](./388246-newtons-promise.json) |
 | Nex Machina | 26202 | [26202-nex-machina.json](./26202-nex-machina.json) |
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
 | Nexomon | 88130 | [88130-nexomon.json](./88130-nexomon.json) |
@@ -1076,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Wordsmith | 64985 | [64985-night-of-the-wordsmith.json](./64985-night-of-the-wordsmith.json) |
 | Night of Wolves | 257968 | [257968-night-of-wolves.json](./257968-night-of-wolves.json) |
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
+| Night Ranger | 388213 | [388213-night-ranger.json](./388213-night-ranger.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
 | Night School | 406088 | [406088-night-school.json](./406088-night-school.json) |
 | Night Shift: 1999 | 366829 | [366829-night-shift-1999.json](./366829-night-shift-1999.json) |
@@ -1144,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightmareBullet | 105364 | [105364-nightmarebullet.json](./105364-nightmarebullet.json) |
 | Nightmares from the Deep 3: Davy Jones | 17140 | [17140-nightmares-from-the-deep-3-davy-jones.json](./17140-nightmares-from-the-deep-3-davy-jones.json) |
 | NightmareZ | 31849 | [31849-nightmarez.json](./31849-nightmarez.json) |
+| NightReaper2 | 388192 | [388192-nightreaper2.json](./388192-nightreaper2.json) |
 | Nights into Dreams | 199025 | [199025-nights-into-dreams.json](./199025-nights-into-dreams.json) |
 | Nights of Azure 2: Bonus Costume - Blue High School Uniform | 396394 | [396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json](./396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json) |
 | Nights To Remember | 263772 | [263772-nights-to-remember.json](./263772-nights-to-remember.json) |
