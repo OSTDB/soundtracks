@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T07:49:00.683Z",
-  "total_missing": 69023,
+  "generated_at": "2026-09-14T07:51:31.958Z",
+  "total_missing": 69022,
   "games": [
     {
       "igdb_id": 306086,
@@ -4261,11 +4261,6 @@
       "igdb_id": 265665,
       "game_name": "Adventure Kitty: Drill Buster",
       "file": "missing/A/265665-adventure-kitty-drill-buster.json"
-    },
-    {
-      "igdb_id": 356071,
-      "game_name": "Adventure Learning Inside Humans",
-      "file": "missing/A/356071-adventure-learning-inside-humans.json"
     },
     {
       "igdb_id": 246958,
