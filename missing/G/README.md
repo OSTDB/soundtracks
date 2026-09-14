@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Race Yourself | 200137 | [200137-go-race-yourself.json](./200137-go-race-yourself.json) |
 | Go to Heck | 214154 | [214154-go-to-heck.json](./214154-go-to-heck.json) |
 | Go to Hell | 211432 | [211432-go-to-hell.json](./211432-go-to-hell.json) |
+| Go to It | 110944 | [110944-go-to-it.json](./110944-go-to-it.json) |
 | Go to Ten | 100940 | [100940-go-to-ten.json](./100940-go-to-ten.json) |
 | Go Up Frog | 401521 | [401521-go-up-frog.json](./401521-go-up-frog.json) |
 | Go West | 133998 | [133998-go-west.json](./133998-go-west.json) |
