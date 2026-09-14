@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T04:49:15.217Z",
-  "total_missing": 68503,
+  "generated_at": "2026-09-14T04:51:28.109Z",
+  "total_missing": 68502,
   "games": [
     {
       "igdb_id": 306086,
@@ -4171,11 +4171,6 @@
       "igdb_id": 249451,
       "game_name": "Adventure Ball 3D Balancer",
       "file": "missing/A/249451-adventure-ball-3d-balancer.json"
-    },
-    {
-      "igdb_id": 45360,
-      "game_name": "Adventure C Ship of Doom",
-      "file": "missing/A/45360-adventure-c-ship-of-doom.json"
     },
     {
       "igdb_id": 72641,
