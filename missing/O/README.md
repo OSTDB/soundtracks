@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ortho | 152322 | [152322-ortho.json](./152322-ortho.json) |
 | Ortunia Mysteries: Where Did Everybody Go? | 323519 | [323519-ortunia-mysteries-where-did-everybody-go.json](./323519-ortunia-mysteries-where-did-everybody-go.json) |
 | Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
+| OS:Path | 97084 | [97084-os-path.json](./97084-os-path.json) |
 | Osananajimi Ojou-sama to H de Himitsu na Dousei Seikatsu | 396903 | [396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json](./396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json) |
 | Osawari Hockey Enko-chan | 235769 | [235769-osawari-hockey-enko-chan.json](./235769-osawari-hockey-enko-chan.json) |
 | Oscar der Ballonfahrer taucht unter | 86031 | [86031-oscar-der-ballonfahrer-taucht-unter.json](./86031-oscar-der-ballonfahrer-taucht-unter.json) |
