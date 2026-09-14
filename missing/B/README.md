@@ -2781,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokura no Terebi Game Kentei | 69296 | [69296-bokura-no-terebi-game-kentei.json](./69296-bokura-no-terebi-game-kentei.json) |
 | Bola | 92445 | [92445-bola.json](./92445-bola.json) |
 | Bold | 243680 | [243680-bold.json](./243680-bold.json) |
+| Bold: Networked Newt Action | 397821 | [397821-bold-networked-newt-action.json](./397821-bold-networked-newt-action.json) |
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
 | Boll Deluxe | 134084 | [134084-boll-deluxe.json](./134084-boll-deluxe.json) |
 | Boll's Journey | 365065 | [365065-bolls-journey.json](./365065-bolls-journey.json) |
@@ -2875,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonelab | 198230 | [198230-bonelab.json](./198230-bonelab.json) |
 | Boneless VR | 302352 | [302352-boneless-vr.json](./302352-boneless-vr.json) |
 | Bonerdale | 221762 | [221762-bonerdale.json](./221762-bonerdale.json) |
+| Bonereader | 397769 | [397769-bonereader.json](./397769-bonereader.json) |
 | Bones 'n' Bullets | 118303 | [118303-bones-n-bullets.json](./118303-bones-n-bullets.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
 | Bones: Lab Panic | 58811 | [58811-bones-lab-panic.json](./58811-bones-lab-panic.json) |
@@ -2995,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Deluxe Edition | 116995 | [116995-borderlands-3-deluxe-edition.json](./116995-borderlands-3-deluxe-edition.json) |
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
+| Borderlands Mobile | 397810 | [397810-borderlands-mobile.json](./397810-borderlands-mobile.json) |
 | Borderlands Triple Pack | 268734 | [268734-borderlands-triple-pack.json](./268734-borderlands-triple-pack.json) |
 | Borderlands: Game of the Year Enhanced | 118993 | [118993-borderlands-game-of-the-year-enhanced.json](./118993-borderlands-game-of-the-year-enhanced.json) |
 | Borderlands: The Handsome Collection | 14548 | [14548-borderlands-the-handsome-collection.json](./14548-borderlands-the-handsome-collection.json) |
@@ -3110,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Butt Castle | 379345 | [379345-bouncy-butt-castle.json](./379345-bouncy-butt-castle.json) |
 | Bouncy Cat | 158169 | [158169-bouncy-cat.json](./158169-bouncy-cat.json) |
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
+| Bouncy Kingdoms | 397768 | [397768-bouncy-kingdoms.json](./397768-bouncy-kingdoms.json) |
 | Bouncy Smash | 89184 | [89184-bouncy-smash.json](./89184-bouncy-smash.json) |
 | Bouncy! Trampoline | 233520 | [233520-bouncy-trampoline.json](./233520-bouncy-trampoline.json) |
 | Bound | 14790 | [14790-bound.json](./14790-bound.json) |
@@ -3589,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bros Survivors | 404928 | [404928-bros-survivors.json](./404928-bros-survivors.json) |
 | Brotato + Space Gladiators Bundle | 259575 | [259575-brotato-space-gladiators-bundle.json](./259575-brotato-space-gladiators-bundle.json) |
 | Brotato: Nintendo Switch 2 Edition | 378791 | [378791-brotato-nintendo-switch-2-edition.json](./378791-brotato-nintendo-switch-2-edition.json) |
+| Brotato: Primal Dread | 397816 | [397816-brotato-primal-dread.json](./397816-brotato-primal-dread.json) |
 | BrothelManager | 18109 | [18109-brothelmanager.json](./18109-brothelmanager.json) |
 | Brother Wings | 29912 | [29912-brother-wings.json](./29912-brother-wings.json) |
 | Brotherhood of Ruin 2024: Element Temple Research Complex | 311464 | [311464-brotherhood-of-ruin-2024-element-temple-research-complex.json](./311464-brotherhood-of-ruin-2024-element-temple-research-complex.json) |
