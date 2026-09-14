@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O.J.'s All-American Race to Acquittal | 298307 | [298307-o-j-s-all-american-race-to-acquittal.json](./298307-o-j-s-all-american-race-to-acquittal.json) |
 | O.M.G. 26: Our Mini Games | 110320 | [110320-o-m-g-26-our-mini-games.json](./110320-o-m-g-26-our-mini-games.json) |
 | O.T.D | 130330 | [130330-o-t-d.json](./130330-o-t-d.json) |
+| O.U.T.T. | 400324 | [400324-o-u-t-t.json](./400324-o-u-t-t.json) |
 | O'Leary Manager 2000 | 50550 | [50550-oleary-manager-2000.json](./50550-oleary-manager-2000.json) |
 | O2 | 407435 | [407435-o2.json](./407435-o2.json) |
 | O2Jam | 200163 | [200163-o2jam.json](./200163-o2jam.json) |
@@ -506,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On a Roll 3D: Levels 7 - 9 | 197382 | [197382-on-a-roll-3d-levels-7-9.json](./197382-on-a-roll-3d-levels-7-9.json) |
 | On a Summer Night | 263773 | [263773-on-a-summer-night.json](./263773-on-a-summer-night.json) |
 | On Board Remastered | 109665 | [109665-on-board-remastered.json](./109665-on-board-remastered.json) |
+| On Constant Delay | 400296 | [400296-on-constant-delay.json](./400296-on-constant-delay.json) |
 | On Duty | 130378 | [130378-on-duty.json](./130378-on-duty.json) |
 | On Earth as in Hell: Woytons Plague | 218739 | [218739-on-earth-as-in-hell-woytons-plague.json](./218739-on-earth-as-in-hell-woytons-plague.json) |
 | On Him Their Lives Depend 01 | 271996 | [271996-on-him-their-lives-depend-01.json](./271996-on-him-their-lives-depend-01.json) |
@@ -892,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
 | Operencia: The Stolen Sun - Explorer's Edition | 154541 | [154541-operencia-the-stolen-sun-explorers-edition.json](./154541-operencia-the-stolen-sun-explorers-edition.json) |
 | Operius DX | 347184 | [347184-operius-dx.json](./347184-operius-dx.json) |
+| Ophelia´s Paradise | 400313 | [400313-ophelia-s-paradise.json](./400313-ophelia-s-paradise.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
 | Oppai Muse | 203383 | [203383-oppai-muse.json](./203383-oppai-muse.json) |
