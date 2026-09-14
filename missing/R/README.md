@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick Dangerous 2 | 12203 | [12203-rick-dangerous-2.json](./12203-rick-dangerous-2.json) |
 | Rick Ribbit in Ark Noodle's Math Challenge | 62688 | [62688-rick-ribbit-in-ark-noodles-math-challenge.json](./62688-rick-ribbit-in-ark-noodles-math-challenge.json) |
 | Rick Ribbit: Adventures in Early Learning | 62689 | [62689-rick-ribbit-adventures-in-early-learning.json](./62689-rick-ribbit-adventures-in-early-learning.json) |
+| Rickdle | 396406 | [396406-rickdle.json](./396406-rickdle.json) |
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
@@ -2290,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogueborne Fury | 293629 | [293629-rogueborne-fury.json](./293629-rogueborne-fury.json) |
 | Roguebound Pirates | 365092 | [365092-roguebound-pirates.json](./365092-roguebound-pirates.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
+| Roguefort | 396405 | [396405-roguefort.json](./396405-roguefort.json) |
 | RogueJack: Roguelike Blackjack | 133370 | [133370-roguejack-roguelike-blackjack.json](./133370-roguejack-roguelike-blackjack.json) |
 | Roguelands | 19748 | [19748-roguelands.json](./19748-roguelands.json) |
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
@@ -2358,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Revolt | 244500 | [244500-rolling-revolt.json](./244500-rolling-revolt.json) |
 | Rolling Rush | 223168 | [223168-rolling-rush.json](./223168-rolling-rush.json) |
 | Rolling Sky New | 227502 | [227502-rolling-sky-new.json](./227502-rolling-sky-new.json) |
+| Rolling Star: Tomomi Another Story | 396379 | [396379-rolling-star-tomomi-another-story.json](./396379-rolling-star-tomomi-another-story.json) |
 | Rolling Thunder | 12846 | [12846-rolling-thunder.json](./12846-rolling-thunder.json) |
 | Rolling Toolman | 248683 | [248683-rolling-toolman.json](./248683-rolling-toolman.json) |
 | Rolling Valley | 192876 | [192876-rolling-valley.json](./192876-rolling-valley.json) |
@@ -2365,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollout | 31870 | [31870-rollout.json](./31870-rollout.json) |
 | RollTheEarth | 103437 | [103437-rolltheearth.json](./103437-rolltheearth.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
+| Roly Poly Roundup | 396415 | [396415-roly-poly-roundup.json](./396415-roly-poly-roundup.json) |
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
 | Rom Rom Stadium | 64377 | [64377-rom-rom-stadium.json](./64377-rom-rom-stadium.json) |
 | ROM: Extraction | 26549 | [26549-rom-extraction.json](./26549-rom-extraction.json) |
