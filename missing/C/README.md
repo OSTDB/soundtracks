@@ -1334,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
 | Cheapshot | 130885 | [130885-cheapshot.json](./130885-cheapshot.json) |
+| CheatCheat | 402363 | [402363-cheatcheat.json](./402363-cheatcheat.json) |
 | Check in the Back | 183010 | [183010-check-in-the-back.json](./183010-check-in-the-back.json) |
 | Check In, Knock Out | 59936 | [59936-check-in-knock-out.json](./59936-check-in-knock-out.json) |
 | Check it Out! | 196918 | [196918-check-it-out.json](./196918-check-it-out.json) |
@@ -2809,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commune Corvidae | 142399 | [142399-commune-corvidae.json](./142399-commune-corvidae.json) |
 | Communication Game | 312918 | [312918-communication-game.json](./312918-communication-game.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
+| Community Button | 402383 | [402383-community-button.json](./402383-community-button.json) |
 | Community Garden | 68589 | [68589-community-garden.json](./68589-community-garden.json) |
 | Community Inc | 40546 | [40546-community-inc.json](./40546-community-inc.json) |
 | Commute | 135279 | [135279-commute.json](./135279-commute.json) |
