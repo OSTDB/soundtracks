@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Wizard | 5374 | [5374-dark-wizard.json](./5374-dark-wizard.json) |
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
+| DarkBazaar | 393654 | [393654-darkbazaar.json](./393654-darkbazaar.json) |
 | DarkBind | 197330 | [197330-darkbind.json](./197330-darkbind.json) |
 | Darkblade Ascent | 249201 | [249201-darkblade-ascent.json](./249201-darkblade-ascent.json) |
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Wanderer über dem Säuremeer | 271231 | [271231-der-wanderer-uber-dem-sauremeer.json](./271231-der-wanderer-uber-dem-sauremeer.json) |
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
 | Der Zorn Gottes | 308241 | [308241-der-zorn-gottes.json](./308241-der-zorn-gottes.json) |
+| Derace | 393602 | [393602-derace.json](./393602-derace.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
 | Derby Quest: Horse Manager HD | 246429 | [246429-derby-quest-horse-manager-hd.json](./246429-derby-quest-horse-manager-hd.json) |
 | Derby Stallion | 137021 | [137021-derby-stallion.json](./137021-derby-stallion.json) |
@@ -2190,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored: Void Walker Arsenal | 14571 | [14571-dishonored-void-walker-arsenal.json](./14571-dishonored-void-walker-arsenal.json) |
 | Dishwasher | 103436 | [103436-dishwasher.json](./103436-dishwasher.json) |
 | Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
+| Disillusioned Reunion | 393607 | [393607-disillusioned-reunion.json](./393607-disillusioned-reunion.json) |
 | Disillusions Manga Horror | 9825 | [9825-disillusions-manga-horror.json](./9825-disillusions-manga-horror.json) |
 | Disjunction | 112005 | [112005-disjunction.json](./112005-disjunction.json) |
 | Disk NG 1 | 220140 | [220140-disk-ng-1.json](./220140-disk-ng-1.json) |
@@ -3546,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dredge: The Pale Reach | 270502 | [270502-dredge-the-pale-reach.json](./270502-dredge-the-pale-reach.json) |
 | Dreem Ascension | 393506 | [393506-dreem-ascension.json](./393506-dreem-ascension.json) |
 | Drehmal: Apotheosis | 336548 | [336548-drehmal-apotheosis.json](./336548-drehmal-apotheosis.json) |
+| Dremica | 393655 | [393655-dremica.json](./393655-dremica.json) |
 | Dresden Files Cooperative Card Game: Dead Ends | 170488 | [170488-dresden-files-cooperative-card-game-dead-ends.json](./170488-dresden-files-cooperative-card-game-dead-ends.json) |
 | Dresden Files Cooperative Card Game: Fan Favorites | 266499 | [266499-dresden-files-cooperative-card-game-fan-favorites.json](./266499-dresden-files-cooperative-card-game-fan-favorites.json) |
 | Dresden Files Cooperative Card Game: Helping Hands | 170491 | [170491-dresden-files-cooperative-card-game-helping-hands.json](./170491-dresden-files-cooperative-card-game-helping-hands.json) |
