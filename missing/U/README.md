@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upheaval | 228064 | [228064-upheaval.json](./228064-upheaval.json) |
 | Upheaveal | 216994 | [216994-upheaveal.json](./216994-upheaveal.json) |
 | Uphill | 306090 | [306090-uphill.json](./306090-uphill.json) |
+| Upload | 382312 | [382312-upload.json](./382312-upload.json) |
 | Upload Aliens | 390102 | [390102-upload-aliens.json](./390102-upload-aliens.json) |
 | Upload Simulator | 215676 | [215676-upload-simulator.json](./215676-upload-simulator.json) |
 | Upload Simulator Silicon | 315282 | [315282-upload-simulator-silicon.json](./315282-upload-simulator-silicon.json) |
