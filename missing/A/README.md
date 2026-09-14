@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Forever Solitude | 211396 | [211396-a-forever-solitude.json](./211396-a-forever-solitude.json) |
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
+| A Game About Fishing | 412382 | [412382-a-game-about-fishing.json](./412382-a-game-about-fishing.json) |
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
 | A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
 | A Game of Dwarves: Star Dwarves | 171034 | [171034-a-game-of-dwarves-star-dwarves.json](./171034-a-game-of-dwarves-star-dwarves.json) |
@@ -618,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
 | Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
+| Age of Clicks | 412397 | [412397-age-of-clicks.json](./412397-age-of-clicks.json) |
 | Age of Conan: Secrets of Dragon's Spine | 27653 | [27653-age-of-conan-secrets-of-dragons-spine.json](./27653-age-of-conan-secrets-of-dragons-spine.json) |
 | Age of Conan: The Savage Coast Of Turan | 27652 | [27652-age-of-conan-the-savage-coast-of-turan.json](./27652-age-of-conan-the-savage-coast-of-turan.json) |
 | Age of Conan: Unchained | 16402 | [16402-age-of-conan-unchained.json](./16402-age-of-conan-unchained.json) |
@@ -2584,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arclands | 156147 | [156147-arclands.json](./156147-arclands.json) |
 | Arco | 263903 | [263903-arco.json](./263903-arco.json) |
 | Arcobaleno! | 59394 | [59394-arcobaleno.json](./59394-arcobaleno.json) |
+| Arcostate | 412355 | [412355-arcostate.json](./412355-arcostate.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
 | Arctic | 56479 | [56479-arctic.json](./56479-arctic.json) |
 | Arctic Adventure | 8488 | [8488-arctic-adventure.json](./8488-arctic-adventure.json) |
@@ -3579,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avarice | 217859 | [217859-avarice.json](./217859-avarice.json) |
 | Avatar 2 Way of Watter: Porn Game | 287101 | [287101-avatar-2-way-of-watter-porn-game.json](./287101-avatar-2-way-of-watter-porn-game.json) |
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
+| Avatar Legends: The Fighting Game - Deluxe Edition | 412376 | [412376-avatar-legends-the-fighting-game-deluxe-edition.json](./412376-avatar-legends-the-fighting-game-deluxe-edition.json) |
 | Avatar Ninja! | 94738 | [94738-avatar-ninja.json](./94738-avatar-ninja.json) |
 | Avatar: The Last Airbender | 210487 | [210487-avatar-the-last-airbender.json](./210487-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender - Into the Inferno | 210251 | [210251-avatar-the-last-airbender-into-the-inferno.json](./210251-avatar-the-last-airbender-into-the-inferno.json) |
