@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T04:19:21.564Z",
-  "total_missing": 68439,
+  "generated_at": "2026-09-14T04:21:29.819Z",
+  "total_missing": 68438,
   "games": [
     {
       "igdb_id": 306086,
@@ -4156,11 +4156,6 @@
       "igdb_id": 33017,
       "game_name": "Adventure Apes and the Mayan Mystery",
       "file": "missing/A/33017-adventure-apes-and-the-mayan-mystery.json"
-    },
-    {
-      "igdb_id": 45354,
-      "game_name": "Adventure B: Inca Curse",
-      "file": "missing/A/45354-adventure-b-inca-curse.json"
     },
     {
       "igdb_id": 249451,
