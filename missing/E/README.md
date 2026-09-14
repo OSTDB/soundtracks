@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elona | 50403 | [50403-elona.json](./50403-elona.json) |
 | Elona Mobile | 194018 | [194018-elona-mobile.json](./194018-elona-mobile.json) |
 | Eloquence | 172742 | [172742-eloquence.json](./172742-eloquence.json) |
+| Elpis | 381140 | [381140-elpis.json](./381140-elpis.json) |
 | Elrentaros Wanderings | 230621 | [230621-elrentaros-wanderings.json](./230621-elrentaros-wanderings.json) |
 | Elsewar | 415130 | [415130-elsewar.json](./415130-elsewar.json) |
 | Elsewhere High: Chapter 2 - A Visual Novel | 168866 | [168866-elsewhere-high-chapter-2-a-visual-novel.json](./168866-elsewhere-high-chapter-2-a-visual-novel.json) |
