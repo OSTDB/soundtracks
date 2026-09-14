@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
 | Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
 | Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
+| Calpria | 416686 | [416686-calpria.json](./416686-calpria.json) |
 | CalQ | 61569 | [61569-calq.json](./61569-calq.json) |
 | Caltron 6-in-1 | 81250 | [81250-caltron-6-in-1.json](./81250-caltron-6-in-1.json) |
 | Calvin's Gallery | 377043 | [377043-calvins-gallery.json](./377043-calvins-gallery.json) |
@@ -872,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs 1: Demon War | 43505 | [43505-catacombs-1-demon-war.json](./43505-catacombs-1-demon-war.json) |
 | Cataegis : The White Wind | 35920 | [35920-cataegis-the-white-wind.json](./35920-cataegis-the-white-wind.json) |
 | Catagrams | 333575 | [333575-catagrams.json](./333575-catagrams.json) |
+| Catal Carta | 416639 | [416639-catal-carta.json](./416639-catal-carta.json) |
 | Cataline | 209710 | [209710-cataline.json](./209710-cataline.json) |
 | Catalyst | 114333 | [114333-catalyst.json](./114333-catalyst.json) |
 | Catan | 175914 | [175914-catan.json](./175914-catan.json) |
@@ -1558,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: Heavenfall Secrets Collector's Edition | 263508 | [263508-chimeras-heavenfall-secrets-collectors-edition.json](./263508-chimeras-heavenfall-secrets-collectors-edition.json) |
 | Chimeras: Inhuman Nature | 417544 | [417544-chimeras-inhuman-nature.json](./417544-chimeras-inhuman-nature.json) |
 | Chimeras: Mortal Medicine | 417570 | [417570-chimeras-mortal-medicine.json](./417570-chimeras-mortal-medicine.json) |
+| Chimeras: The Lost Film | 416624 | [416624-chimeras-the-lost-film.json](./416624-chimeras-the-lost-film.json) |
 | Chimeras: Tune of Revenge | 63816 | [63816-chimeras-tune-of-revenge.json](./63816-chimeras-tune-of-revenge.json) |
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
 | Chimp Memory | 319391 | [319391-chimp-memory.json](./319391-chimp-memory.json) |
@@ -3074,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Hustlers | 369034 | [369034-core-hustlers.json](./369034-core-hustlers.json) |
 | Core Masters | 62771 | [62771-core-masters.json](./62771-core-masters.json) |
 | Core of Darkness | 117681 | [117681-core-of-darkness.json](./117681-core-of-darkness.json) |
+| Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
 | Corepunk | 127513 | [127513-corepunk.json](./127513-corepunk.json) |
 | Coreupt | 130328 | [130328-coreupt.json](./130328-coreupt.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
@@ -3336,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Days | 209604 | [209604-cozy-days.json](./209604-cozy-days.json) |
 | Cozy Designer | 295783 | [295783-cozy-designer.json](./295783-cozy-designer.json) |
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
+| Cozy Fishing Life | 416673 | [416673-cozy-fishing-life.json](./416673-cozy-fishing-life.json) |
 | Cozy Grove | 144800 | [144800-cozy-grove.json](./144800-cozy-grove.json) |
 | Cozy Grove + New Neighbears Bundle | 199635 | [199635-cozy-grove-new-neighbears-bundle.json](./199635-cozy-grove-new-neighbears-bundle.json) |
 | Cozy Hamlets | 290441 | [290441-cozy-hamlets.json](./290441-cozy-hamlets.json) |
@@ -3671,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
 | Crime Passional | 236286 | [236286-crime-passional.json](./236286-crime-passional.json) |
 | Crime Secrets: Crimson Lily | 32930 | [32930-crime-secrets-crimson-lily.json](./32930-crime-secrets-crimson-lily.json) |
+| Crime Shadows: Stolen Spotlight - Collector's Edition | 416616 | [416616-crime-shadows-stolen-spotlight-collectors-edition.json](./416616-crime-shadows-stolen-spotlight-collectors-edition.json) |
 | Crime Simulator: Playgrounds | 415075 | [415075-crime-simulator-playgrounds.json](./415075-crime-simulator-playgrounds.json) |
 | Crime Wave | 23837 | [23837-crime-wave.json](./23837-crime-wave.json) |
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
