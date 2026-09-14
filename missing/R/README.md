@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Rumble | 280787 | [280787-rally-rumble.json](./280787-rally-rumble.json) |
 | Rally Run | 237371 | [237371-rally-run.json](./237371-rally-run.json) |
 | Rally Speedway | 47213 | [47213-rally-speedway.json](./47213-rally-speedway.json) |
+| Rally TS | 406194 | [406194-rally-ts.json](./406194-rally-ts.json) |
 | Rally-X | 18620 | [18620-rally-x.json](./18620-rally-x.json) |
 | Rally45 | 89279 | [89279-rally45.json](./89279-rally45.json) |
 | Rallycross Track Racing | 221383 | [221383-rallycross-track-racing.json](./221383-rallycross-track-racing.json) |
@@ -2226,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Labyrinth | 249195 | [249195-rogue-labyrinth.json](./249195-rogue-labyrinth.json) |
 | Rogue Loops | 323755 | [323755-rogue-loops.json](./323755-rogue-loops.json) |
 | Rogue Lords: Day One Edition | 199631 | [199631-rogue-lords-day-one-edition.json](./199631-rogue-lords-day-one-edition.json) |
+| Rogue Mate | 406201 | [406201-rogue-mate.json](./406201-rogue-mate.json) |
 | Rogue Monster Theolodorus | 335283 | [335283-rogue-monster-theolodorus.json](./335283-rogue-monster-theolodorus.json) |
 | Rogue North | 151132 | [151132-rogue-north.json](./151132-rogue-north.json) |
 | Rogue Nova | 270926 | [270926-rogue-nova.json](./270926-rogue-nova.json) |
@@ -2911,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustled Pete | 212822 | [212822-rustled-pete.json](./212822-rustled-pete.json) |
 | Rustler | 99302 | [99302-rustler.json](./99302-rustler.json) |
 | Rustling Leaves | 249781 | [249781-rustling-leaves.json](./249781-rustling-leaves.json) |
+| Rustmourne | 406184 | [406184-rustmourne.json](./406184-rustmourne.json) |
 | Rusty | 239074 | [239074-rusty.json](./239074-rusty.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
 | Rusty Lake: Roots | 25222 | [25222-rusty-lake-roots.json](./25222-rusty-lake-roots.json) |
