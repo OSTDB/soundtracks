@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Defenders Premium Defense | 200156 | [200156-neon-defenders-premium-defense.json](./200156-neon-defenders-premium-defense.json) |
 | Neon Depth | 168333 | [168333-neon-depth.json](./168333-neon-depth.json) |
 | Neon District | 124201 | [124201-neon-district.json](./124201-neon-district.json) |
+| Neon Dodge | 391749 | [391749-neon-dodge.json](./391749-neon-dodge.json) |
 | Neon Drift Ultra | 412997 | [412997-neon-drift-ultra.json](./412997-neon-drift-ultra.json) |
 | Neon Drive | 31180 | [31180-neon-drive.json](./31180-neon-drive.json) |
 | Neon Express | 310723 | [310723-neon-express.json](./310723-neon-express.json) |
@@ -716,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuro Hacker | 278733 | [278733-neuro-hacker.json](./278733-neuro-hacker.json) |
 | Neuro Hunter | 71491 | [71491-neuro-hunter.json](./71491-neuro-hunter.json) |
 | Neuro Nightmare | 340949 | [340949-neuro-nightmare.json](./340949-neuro-nightmare.json) |
+| NeuroCorp | 391735 | [391735-neurocorp.json](./391735-neurocorp.json) |
 | Neurocracy | 172662 | [172662-neurocracy.json](./172662-neurocracy.json) |
 | Neurocracy 2.049 | 257097 | [257097-neurocracy-2-049.json](./257097-neurocracy-2-049.json) |
 | Neurokino Retrograde | 321120 | [321120-neurokino-retrograde.json](./321120-neurokino-retrograde.json) |
@@ -1652,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Just An Ordinary Ballerina | 60018 | [60018-not-just-an-ordinary-ballerina.json](./60018-not-just-an-ordinary-ballerina.json) |
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
 | Not Meow Purroblem | 247539 | [247539-not-meow-purroblem.json](./247539-not-meow-purroblem.json) |
+| Not My Hand | 391744 | [391744-not-my-hand.json](./391744-not-my-hand.json) |
 | Not Only Nine | 243672 | [243672-not-only-nine.json](./243672-not-only-nine.json) |
 | Not Our Home 2 | 156649 | [156649-not-our-home-2.json](./156649-not-our-home-2.json) |
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
