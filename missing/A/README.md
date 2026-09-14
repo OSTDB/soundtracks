@@ -372,7 +372,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
-| Adventure Rock | 293939 | [293939-adventure-rock.json](./293939-adventure-rock.json) |
 | Adventure Series 13+ | 69247 | [69247-adventure-series-13.json](./69247-adventure-series-13.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
 | Adventure Time Game Wizard: Draw Your Own Adventure Time Games | 88096 | [88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json](./88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json) |
