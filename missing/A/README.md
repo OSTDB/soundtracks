@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
 | Angst: A Tale of Survival | 320716 | [320716-angst-a-tale-of-survival.json](./320716-angst-a-tale-of-survival.json) |
 | Angus Hates Aliens | 33165 | [33165-angus-hates-aliens.json](./33165-angus-hates-aliens.json) |
+| Anhedonia: Sanctuary of Ash | 408915 | [408915-anhedonia-sanctuary-of-ash.json](./408915-anhedonia-sanctuary-of-ash.json) |
 | Ani Idle | 351027 | [351027-ani-idle.json](./351027-ani-idle.json) |
 | Ani Leaving Sirius | 189120 | [189120-ani-leaving-sirius.json](./189120-ani-leaving-sirius.json) |
 | Anicca | 208058 | [208058-anicca.json](./208058-anicca.json) |
@@ -1994,6 +1995,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annexation | 404838 | [404838-annexation.json](./404838-annexation.json) |
 | Annie and the AI | 223489 | [223489-annie-and-the-ai.json](./223489-annie-and-the-ai.json) |
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
+| Anno 117: Pax Romana - Blooming Cities Pack | 408893 | [408893-anno-117-pax-romana-blooming-cities-pack.json](./408893-anno-117-pax-romana-blooming-cities-pack.json) |
+| Anno 117: Pax Romana - Marvellous Mosaic Pack | 408894 | [408894-anno-117-pax-romana-marvellous-mosaic-pack.json](./408894-anno-117-pax-romana-marvellous-mosaic-pack.json) |
+| Anno 117: Pax Romana - Year 1 Pass | 408895 | [408895-anno-117-pax-romana-year-1-pass.json](./408895-anno-117-pax-romana-year-1-pass.json) |
 | Anno 1404: Gold Edition | 27913 | [27913-anno-1404-gold-edition.json](./27913-anno-1404-gold-edition.json) |
 | Anno 1701 A.D.: Gold Edition | 180265 | [180265-anno-1701-a-d-gold-edition.json](./180265-anno-1701-a-d-gold-edition.json) |
 | Anno 1701: Limited Edition | 180266 | [180266-anno-1701-limited-edition.json](./180266-anno-1701-limited-edition.json) |
