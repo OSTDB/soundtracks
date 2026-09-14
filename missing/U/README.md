@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Tournament 2004: Editor's Choice Edition | 27811 | [27811-unreal-tournament-2004-editors-choice-edition.json](./27811-unreal-tournament-2004-editors-choice-edition.json) |
 | Unreal Vendetta | 213414 | [213414-unreal-vendetta.json](./213414-unreal-vendetta.json) |
 | Unrecord | 246417 | [246417-unrecord.json](./246417-unrecord.json) |
+| Unregret | 386243 | [386243-unregret.json](./386243-unregret.json) |
 | UnRequited | 201311 | [201311-unrequited.json](./201311-unrequited.json) |
 | Unrestrained | 231356 | [231356-unrestrained.json](./231356-unrestrained.json) |
 | Unriddle | 187435 | [187435-unriddle.json](./187435-unriddle.json) |
@@ -726,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up Up & Down! | 312324 | [312324-up-up-and-down.json](./312324-up-up-and-down.json) |
 | Up With Doznik | 312569 | [312569-up-with-doznik.json](./312569-up-with-doznik.json) |
 | Upbeat | 390130 | [390130-upbeat.json](./390130-upbeat.json) |
+| Upbeat Melody Project | 386257 | [386257-upbeat-melody-project.json](./386257-upbeat-melody-project.json) |
 | UPgrade | 124754 | [124754-upgrade.json](./124754-upgrade.json) |
 | Upgrade Complete | 196800 | [196800-upgrade-complete.json](./196800-upgrade-complete.json) |
 | Upgrade Complete 2 | 196801 | [196801-upgrade-complete-2.json](./196801-upgrade-complete-2.json) |
