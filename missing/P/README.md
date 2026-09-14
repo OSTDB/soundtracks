@@ -3489,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proof of Existence | 405467 | [405467-proof-of-existence.json](./405467-proof-of-existence.json) |
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
+| Propaganda vs. Zombies 2 | 391742 | [391742-propaganda-vs-zombies-2.json](./391742-propaganda-vs-zombies-2.json) |
 | Propagate | 366218 | [366218-propagate.json](./366218-propagate.json) |
 | Propeller Arena: Aviation Battle Championship | 46555 | [46555-propeller-arena-aviation-battle-championship.json](./46555-propeller-arena-aviation-battle-championship.json) |
 | Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
