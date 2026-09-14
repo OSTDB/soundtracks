@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T20:49:05.604Z",
-  "total_missing": 71183,
+  "generated_at": "2026-09-14T20:51:35.414Z",
+  "total_missing": 71182,
   "games": [
     {
       "igdb_id": 306086,
@@ -4691,11 +4691,6 @@
       "igdb_id": 124175,
       "game_name": "Aeronaut",
       "file": "missing/A/124175-aeronaut.json"
-    },
-    {
-      "igdb_id": 249483,
-      "game_name": "Aeroplanes",
-      "file": "missing/A/249483-aeroplanes.json"
     },
     {
       "igdb_id": 105296,
