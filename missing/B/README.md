@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul 2010 | 69259 | [69259-baseball-mogul-2010.json](./69259-baseball-mogul-2010.json) |
 | Baseball Mogul 2013 | 60000 | [60000-baseball-mogul-2013.json](./60000-baseball-mogul-2013.json) |
 | Baseball Mogul 2014 | 60011 | [60011-baseball-mogul-2014.json](./60011-baseball-mogul-2014.json) |
+| Baseball Mogul 2015 | 34798 | [34798-baseball-mogul-2015.json](./34798-baseball-mogul-2015.json) |
 | Baseball Mogul 2018 | 99042 | [99042-baseball-mogul-2018.json](./99042-baseball-mogul-2018.json) |
 | Baseball Mogul 2021 | 144946 | [144946-baseball-mogul-2021.json](./144946-baseball-mogul-2021.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
@@ -1532,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Divinity | 9781 | [9781-beyond-divinity.json](./9781-beyond-divinity.json) |
 | Beyond El Dorado | 58841 | [58841-beyond-el-dorado.json](./58841-beyond-el-dorado.json) |
 | Beyond Enemy Lines: Operation Arctic Hawk | 115599 | [115599-beyond-enemy-lines-operation-arctic-hawk.json](./115599-beyond-enemy-lines-operation-arctic-hawk.json) |
+| Beyond Flesh and Blood Episode 1 | 34740 | [34740-beyond-flesh-and-blood-episode-1.json](./34740-beyond-flesh-and-blood-episode-1.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
 | Beyond Magic | 32941 | [32941-beyond-magic.json](./32941-beyond-magic.json) |
 | Beyond Protocol | 72646 | [72646-beyond-protocol.json](./72646-beyond-protocol.json) |
@@ -2147,10 +2149,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastboard | 129124 | [129124-blastboard.json](./129124-blastboard.json) |
 | Blastboard: Casso | 203907 | [203907-blastboard-casso.json](./203907-blastboard-casso.json) |
 | Blasted GutZ | 391619 | [391619-blasted-gutz.json](./391619-blasted-gutz.json) |
+| Blasted Road Terror | 34658 | [34658-blasted-road-terror.json](./34658-blasted-road-terror.json) |
 | Blasten!! | 161408 | [161408-blasten.json](./161408-blasten.json) |
 | Blaster Cop | 68759 | [68759-blaster-cop.json](./68759-blaster-cop.json) |
 | Blaster Master Zero II | 116416 | [116416-blaster-master-zero-ii.json](./116416-blaster-master-zero-ii.json) |
 | Blaster Master: Enemy Below | 49840 | [49840-blaster-master-enemy-below.json](./49840-blaster-master-enemy-below.json) |
+| Blaster Shooter GunGuy! | 34672 | [34672-blaster-shooter-gunguy.json](./34672-blaster-shooter-gunguy.json) |
 | Blaster Simulator | 9387 | [9387-blaster-simulator.json](./9387-blaster-simulator.json) |
 | Blaster Squad | 132215 | [132215-blaster-squad.json](./132215-blaster-squad.json) |
 | Blaster! | 26483 | [26483-blaster.json](./26483-blaster.json) |
