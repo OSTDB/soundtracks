@@ -3085,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Roundabout | 268201 | [268201-the-magic-roundabout.json](./268201-the-magic-roundabout.json) |
 | The Magic School Bus Explores the Ocean | 138253 | [138253-the-magic-school-bus-explores-the-ocean.json](./138253-the-magic-school-bus-explores-the-ocean.json) |
 | The Magical Unicorn | 145611 | [145611-the-magical-unicorn.json](./145611-the-magical-unicorn.json) |
+| The Magician VR: The Cursed Wand | 406169 | [406169-the-magician-vr-the-cursed-wand.json](./406169-the-magician-vr-the-cursed-wand.json) |
 | The Magician's Research | 123571 | [123571-the-magicians-research.json](./123571-the-magicians-research.json) |
 | The Magistrate | 247750 | [247750-the-magistrate.json](./247750-the-magistrate.json) |
 | The Magnet: First Night | 181299 | [181299-the-magnet-first-night.json](./181299-the-magnet-first-night.json) |
@@ -3285,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oblivion Asylum | 117676 | [117676-the-oblivion-asylum.json](./117676-the-oblivion-asylum.json) |
 | The Obscura Experiment | 239652 | [239652-the-obscura-experiment.json](./239652-the-obscura-experiment.json) |
 | The Observed | 182555 | [182555-the-observed.json](./182555-the-observed.json) |
+| The Obsessive Shadow: Chapter 2 | 406179 | [406179-the-obsessive-shadow-chapter-2.json](./406179-the-obsessive-shadow-chapter-2.json) |
 | The Occupant | 74432 | [74432-the-occupant.json](./74432-the-occupant.json) |
 | The Ocean | 143678 | [143678-the-ocean.json](./143678-the-ocean.json) |
 | The Odarian Accounts | 218705 | [218705-the-odarian-accounts.json](./218705-the-odarian-accounts.json) |
@@ -4859,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticket to Ride: USA 1910 | 154473 | [154473-ticket-to-ride-usa-1910.json](./154473-ticket-to-ride-usa-1910.json) |
 | Ticket to Ride: USA 1910 Ticket Pack | 311992 | [311992-ticket-to-ride-usa-1910-ticket-pack.json](./311992-ticket-to-ride-usa-1910-ticket-pack.json) |
 | Ticket to Ride: Winter | 375176 | [375176-ticket-to-ride-winter.json](./375176-ticket-to-ride-winter.json) |
+| Tickets, Please! | 406202 | [406202-tickets-please.json](./406202-tickets-please.json) |
 | Ticking Tea Time | 327184 | [327184-ticking-tea-time.json](./327184-ticking-tea-time.json) |
 | Ticktock | 104010 | [104010-ticktock.json](./104010-ticktock.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
@@ -6297,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower!3D: KSEA Airport | 161316 | [161316-tower-3d-ksea-airport.json](./161316-tower-3d-ksea-airport.json) |
 | Tower!3D: OMDB Airport | 161315 | [161315-tower-3d-omdb-airport.json](./161315-tower-3d-omdb-airport.json) |
 | Tower!3D: PHNL Airport | 161313 | [161313-tower-3d-phnl-airport.json](./161313-tower-3d-phnl-airport.json) |
+| Tower.Defense(): Program the Fight | 406215 | [406215-tower-defense-program-the-fight.json](./406215-tower-defense-program-the-fight.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
 | Towerful Defense: A Rogue TD - The First Expansion | 385554 | [385554-towerful-defense-a-rogue-td-the-first-expansion.json](./385554-towerful-defense-a-rogue-td-the-first-expansion.json) |
