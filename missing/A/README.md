@@ -352,6 +352,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adlib | 112303 | [112303-adlib.json](./112303-adlib.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
+| Adrenaline Overload Bundle | 396439 | [396439-adrenaline-overload-bundle.json](./396439-adrenaline-overload-bundle.json) |
+| Adrenaline Rush 4‑Pack | 396438 | [396438-adrenaline-rush-4-pack.json](./396438-adrenaline-rush-4-pack.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
@@ -608,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires: Pocket PC Edition | 145568 | [145568-age-of-empires-pocket-pc-edition.json](./145568-age-of-empires-pocket-pc-edition.json) |
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Expansion | 391049 | [391049-age-of-expansion.json](./391049-age-of-expansion.json) |
+| Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
 | Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
@@ -1040,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleste Collection | 139997 | [139997-aleste-collection.json](./139997-aleste-collection.json) |
 | Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
+| Alex and Der Murder | 396378 | [396378-alex-and-der-murder.json](./396378-alex-and-der-murder.json) |
 | Alex Hill: Whispers at White Oak Inn | 288752 | [288752-alex-hill-whispers-at-white-oak-inn.json](./288752-alex-hill-whispers-at-white-oak-inn.json) |
 | Alex Hunter: Lord of the Mind HD | 105936 | [105936-alex-hunter-lord-of-the-mind-hd.json](./105936-alex-hunter-lord-of-the-mind-hd.json) |
 | Alex Kidd and the Miracle Gems | 376442 | [376442-alex-kidd-and-the-miracle-gems.json](./376442-alex-kidd-and-the-miracle-gems.json) |
@@ -1249,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Grown Up Krazy Karts | 321770 | [321770-all-grown-up-krazy-karts.json](./321770-all-grown-up-krazy-karts.json) |
 | All Guns on Deck | 17681 | [17681-all-guns-on-deck.json](./17681-all-guns-on-deck.json) |
 | All Hail the Cook-o-tron | 139464 | [139464-all-hail-the-cook-o-tron.json](./139464-all-hail-the-cook-o-tron.json) |
+| All Hail the Heat Death! | 396357 | [396357-all-hail-the-heat-death.json](./396357-all-hail-the-heat-death.json) |
 | All Hands on Deck | 216465 | [216465-all-hands-on-deck.json](./216465-all-hands-on-deck.json) |
 | All Humans Must Die! | 183557 | [183557-all-humans-must-die.json](./183557-all-humans-must-die.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
@@ -1298,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Baseball 2001 | 69229 | [69229-all-star-baseball-2001.json](./69229-all-star-baseball-2001.json) |
 | All-Star Baseball 2003 | 11557 | [11557-all-star-baseball-2003.json](./11557-all-star-baseball-2003.json) |
 | All-Star Slammin' D-Ball | 43929 | [43929-all-star-slammin-d-ball.json](./43929-all-star-slammin-d-ball.json) |
+| All‑Stars 4‑Game Collection | 396440 | [396440-all-stars-4-game-collection.json](./396440-all-stars-4-game-collection.json) |
 | Alla Prima | 207315 | [207315-alla-prima.json](./207315-alla-prima.json) |
 | Allakin | 217307 | [217307-allakin.json](./217307-allakin.json) |
 | Allan Border's Cricket | 77392 | [77392-allan-borders-cricket.json](./77392-allan-borders-cricket.json) |
@@ -1424,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaekata wa Kanojo Nari ni | 55880 | [55880-amaekata-wa-kanojo-nari-ni.json](./55880-amaekata-wa-kanojo-nari-ni.json) |
 | Amaemi: Longing for you | 206335 | [206335-amaemi-longing-for-you.json](./206335-amaemi-longing-for-you.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
+| Amalgam | 396419 | [396419-amalgam.json](./396419-amalgam.json) |
 | Amamane | 121724 | [121724-amamane.json](./121724-amamane.json) |
 | Amanatsu Location | 413057 | [413057-amanatsu-location.json](./413057-amanatsu-location.json) |
 | Amanda Stories | 262405 | [262405-amanda-stories.json](./262405-amanda-stories.json) |
@@ -1946,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: College Love | 378779 | [378779-anime-girls-college-love.json](./378779-anime-girls-college-love.json) |
 | Anime Girls: Extended Edition | 277305 | [277305-anime-girls-extended-edition.json](./277305-anime-girls-extended-edition.json) |
 | Anime Girls: Lady Liberty | 314880 | [314880-anime-girls-lady-liberty.json](./314880-anime-girls-lady-liberty.json) |
+| Anime Girls: Stellar Invasion | 396432 | [396432-anime-girls-stellar-invasion.json](./396432-anime-girls-stellar-invasion.json) |
 | Anime Girls: Tactical Assault | 402306 | [402306-anime-girls-tactical-assault.json](./402306-anime-girls-tactical-assault.json) |
 | Anime Hero Zero | 292011 | [292011-anime-hero-zero.json](./292011-anime-hero-zero.json) |
 | Anime Hero Zero 2 | 292013 | [292013-anime-hero-zero-2.json](./292013-anime-hero-zero-2.json) |
@@ -2161,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
 | Anuto TD | 207846 | [207846-anuto-td.json](./207846-anuto-td.json) |
 | Anvil | 226234 | [226234-anvil.json](./226234-anvil.json) |
+| Anvil Survivors | 396403 | [396403-anvil-survivors.json](./396403-anvil-survivors.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
 | Any Other Color | 408133 | [408133-any-other-color.json](./408133-any-other-color.json) |
 | Anykey Simulator | 31787 | [31787-anykey-simulator.json](./31787-anykey-simulator.json) |
