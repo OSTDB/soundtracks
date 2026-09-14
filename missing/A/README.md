@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
 | AllFive XP | 307280 | [307280-allfive-xp.json](./307280-allfive-xp.json) |
 | Alliance at War | 193992 | [193992-alliance-at-war.json](./193992-alliance-at-war.json) |
+| Alliance Tales: Battle for the Frontier | 380568 | [380568-alliance-tales-battle-for-the-frontier.json](./380568-alliance-tales-battle-for-the-frontier.json) |
 | Alliance: Future Combat | 61681 | [61681-alliance-future-combat.json](./61681-alliance-future-combat.json) |
 | Alliance: Heroes of the Spire | 76545 | [76545-alliance-heroes-of-the-spire.json](./76545-alliance-heroes-of-the-spire.json) |
 | Allied Star Police | 22336 | [22336-allied-star-police.json](./22336-allied-star-police.json) |
