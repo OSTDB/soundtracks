@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
 | Factory of Sweets | 151129 | [151129-factory-of-sweets.json](./151129-factory-of-sweets.json) |
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
+| Factory Time | 382325 | [382325-factory-time.json](./382325-factory-time.json) |
 | Factory Town | 105292 | [105292-factory-town.json](./105292-factory-town.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Factotum 90 | 21317 | [21317-factotum-90.json](./21317-factotum-90.json) |
@@ -696,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Twelve | 28801 | [28801-fatal-twelve.json](./28801-fatal-twelve.json) |
 | Fatal Velocity: Physics Combat | 74439 | [74439-fatal-velocity-physics-combat.json](./74439-fatal-velocity-physics-combat.json) |
 | Fatal: Unleashed Darkness | 348261 | [348261-fatal-unleashed-darkness.json](./348261-fatal-unleashed-darkness.json) |
+| Fatberg | 382298 | [382298-fatberg.json](./382298-fatberg.json) |
 | Fate / Hollow Ataraxia: Limited Edition | 89862 | [89862-fate-hollow-ataraxia-limited-edition.json](./89862-fate-hollow-ataraxia-limited-edition.json) |
 | Fate & Inflation | 391721 | [391721-fate-and-inflation.json](./391721-fate-and-inflation.json) |
 | Fate Commander: Fighting | 273095 | [273095-fate-commander-fighting.json](./273095-fate-commander-fighting.json) |
@@ -1376,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firelore: Short Tales | 333391 | [333391-firelore-short-tales.json](./333391-firelore-short-tales.json) |
 | Firemakaf | 178606 | [178606-firemakaf.json](./178606-firemakaf.json) |
 | Fireman Titan Fights Games | 105934 | [105934-fireman-titan-fights-games.json](./105934-fireman-titan-fights-games.json) |
+| FireMatch Empire | 382319 | [382319-firematch-empire.json](./382319-firematch-empire.json) |
 | Fireplace | 68630 | [68630-fireplace.json](./68630-fireplace.json) |
 | Fireplace Simulator | 337615 | [337615-fireplace-simulator.json](./337615-fireplace-simulator.json) |
 | Fireside Hero | 191854 | [191854-fireside-hero.json](./191854-fireside-hero.json) |
@@ -3169,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Sex: The Gym | 203539 | [203539-futanari-sex-the-gym.json](./203539-futanari-sex-the-gym.json) |
 | Futanari Sex: Unexpected Roomate | 222288 | [222288-futanari-sex-unexpected-roomate.json](./222288-futanari-sex-unexpected-roomate.json) |
 | Futanari Vampire Girlfriend | 163978 | [163978-futanari-vampire-girlfriend.json](./163978-futanari-vampire-girlfriend.json) |
+| Futanari's Sex World! | 382314 | [382314-futanaris-sex-world.json](./382314-futanaris-sex-world.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futari ha Pretty Cure Splash Star: Panpaka Game de Zekkou-chou! | 168329 | [168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json](./168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
