@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear War | 12189 | [12189-nuclear-war.json](./12189-nuclear-war.json) |
 | NuclearDanger | 180806 | [180806-nucleardanger.json](./180806-nucleardanger.json) |
 | NuclearRifle | 384527 | [384527-nuclearrifle.json](./384527-nuclearrifle.json) |
+| Nuclecard | 380538 | [380538-nuclecard.json](./380538-nuclecard.json) |
 | Nucleuz Underground | 309369 | [309369-nucleuz-underground.json](./309369-nucleuz-underground.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
 | Nudel Tag | 270113 | [270113-nudel-tag.json](./270113-nudel-tag.json) |
