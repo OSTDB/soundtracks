@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T13:01:39.092Z",
-  "total_missing": 69858,
+  "generated_at": "2026-09-14T13:11:40.061Z",
+  "total_missing": 69861,
   "games": [
     {
       "igdb_id": 306086,
@@ -4421,11 +4421,6 @@
       "igdb_id": 168858,
       "game_name": "Adventures of Sadukar: Chapter I",
       "file": "missing/A/168858-adventures-of-sadukar-chapter-i.json"
-    },
-    {
-      "igdb_id": 152853,
-      "game_name": "Adventures of The Carrot Captain",
-      "file": "missing/A/152853-adventures-of-the-carrot-captain.json"
     },
     {
       "igdb_id": 53166,
@@ -95513,6 +95508,11 @@
       "file": "missing/F/414444-false-love-ghost-or-not.json"
     },
     {
+      "igdb_id": 401006,
+      "game_name": "False Positive Paradox",
+      "file": "missing/F/401006-false-positive-paradox.json"
+    },
+    {
       "igdb_id": 28785,
       "game_name": "False Shelter",
       "file": "missing/F/28785-false-shelter.json"
@@ -138173,6 +138173,11 @@
       "file": "missing/I/95215-idol-manager.json"
     },
     {
+      "igdb_id": 401008,
+      "game_name": "Idol Manager: Virtual Venture",
+      "file": "missing/I/401008-idol-manager-virtual-venture.json"
+    },
+    {
       "igdb_id": 283713,
       "game_name": "Idol Project",
       "file": "missing/I/283713-idol-project.json"
@@ -142626,6 +142631,11 @@
       "igdb_id": 29711,
       "game_name": "Iron Armada",
       "file": "missing/I/29711-iron-armada.json"
+    },
+    {
+      "igdb_id": 401010,
+      "game_name": "Iron Bramble",
+      "file": "missing/I/401010-iron-bramble.json"
     },
     {
       "igdb_id": 340762,
@@ -307956,6 +307966,11 @@
       "igdb_id": 33315,
       "game_name": "There's Poop In My Soup",
       "file": "missing/T/33315-theres-poop-in-my-soup.json"
+    },
+    {
+      "igdb_id": 401007,
+      "game_name": "There’s Something Wrong With the Hero’s Choices",
+      "file": "missing/T/401007-there-s-something-wrong-with-the-hero-s-choices.json"
     },
     {
       "igdb_id": 414453,
