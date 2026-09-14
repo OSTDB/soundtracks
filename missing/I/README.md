@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperial Destiny: Path of Gold | 231939 | [231939-imperial-destiny-path-of-gold.json](./231939-imperial-destiny-path-of-gold.json) |
 | Imperial Hero | 58747 | [58747-imperial-hero.json](./58747-imperial-hero.json) |
 | Imperial Storm | 249218 | [249218-imperial-storm.json](./249218-imperial-storm.json) |
+| Imperialism: The Dark Continent | 97113 | [97113-imperialism-the-dark-continent.json](./97113-imperialism-the-dark-continent.json) |
 | Imperialist | 400247 | [400247-imperialist.json](./400247-imperialist.json) |
 | Imperian | 78655 | [78655-imperian.json](./78655-imperian.json) |
 | Imperium Revolution | 188564 | [188564-imperium-revolution.json](./188564-imperium-revolution.json) |
