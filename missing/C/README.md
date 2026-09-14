@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Cowboy | 398367 | [398367-cardboard-cowboy.json](./398367-cardboard-cowboy.json) |
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
 | Cardboard Ground | 119730 | [119730-cardboard-ground.json](./119730-cardboard-ground.json) |
+| Cardborne | 390144 | [390144-cardborne.json](./390144-cardborne.json) |
 | Cardbot | 159819 | [159819-cardbot.json](./159819-cardbot.json) |
 | Cardcaptor Sakura: Repaint Record | 137637 | [137637-cardcaptor-sakura-repaint-record.json](./137637-cardcaptor-sakura-repaint-record.json) |
 | CardCraft | 76552 | [76552-cardcraft.json](./76552-cardcraft.json) |
