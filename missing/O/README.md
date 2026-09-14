@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Military Camp: Commander Goals | 288214 | [288214-one-military-camp-commander-goals.json](./288214-one-military-camp-commander-goals.json) |
 | One minute of death | 112936 | [112936-one-minute-of-death.json](./112936-one-minute-of-death.json) |
 | One More Brick | 87170 | [87170-one-more-brick.json](./87170-one-more-brick.json) |
+| One More Dig! | 405576 | [405576-one-more-dig.json](./405576-one-more-dig.json) |
 | One More Dream | 216981 | [216981-one-more-dream.json](./216981-one-more-dream.json) |
 | One More Dungeon 2 | 157115 | [157115-one-more-dungeon-2.json](./157115-one-more-dungeon-2.json) |
 | One More Experiment | 346576 | [346576-one-more-experiment.json](./346576-one-more-experiment.json) |
@@ -929,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbit Drop | 120339 | [120339-orbit-drop.json](./120339-orbit-drop.json) |
+| Orbit One | 405604 | [405604-orbit-one.json](./405604-orbit-one.json) |
 | Orbit Quest | 107201 | [107201-orbit-quest.json](./107201-orbit-quest.json) |
 | Orbital 1 | 96089 | [96089-orbital-1.json](./96089-orbital-1.json) |
 | Orbital Bombardment | 237078 | [237078-orbital-bombardment.json](./237078-orbital-bombardment.json) |
