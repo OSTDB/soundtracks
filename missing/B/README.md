@@ -1592,8 +1592,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Solar | 172135 | [172135-beyond-solar.json](./172135-beyond-solar.json) |
 | Beyond the Abyss | 86126 | [86126-beyond-the-abyss.json](./86126-beyond-the-abyss.json) |
 | Beyond the Black Hole | 73792 | [73792-beyond-the-black-hole.json](./73792-beyond-the-black-hole.json) |
+| Beyond the Curtain | 392280 | [392280-beyond-the-curtain.json](./392280-beyond-the-curtain.json) |
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
 | Beyond the Evil | 161365 | [161365-beyond-the-evil.json](./161365-beyond-the-evil.json) |
+| Beyond the Eyes | 392264 | [392264-beyond-the-eyes.json](./392264-beyond-the-eyes.json) |
 | Beyond the Future: Fix the Time Arrows | 44588 | [44588-beyond-the-future-fix-the-time-arrows.json](./44588-beyond-the-future-fix-the-time-arrows.json) |
 | Beyond the Grove | 341905 | [341905-beyond-the-grove.json](./341905-beyond-the-grove.json) |
 | Beyond the Harbor: R | 212251 | [212251-beyond-the-harbor-r.json](./212251-beyond-the-harbor-r.json) |
@@ -3231,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
 | Boxman Adventures | 203896 | [203896-boxman-adventures.json](./203896-boxman-adventures.json) |
 | Boxocost | 144962 | [144962-boxocost.json](./144962-boxocost.json) |
+| Boxpast Lov3you | 392301 | [392301-boxpast-lov3you.json](./392301-boxpast-lov3you.json) |
 | BoxRunner | 107901 | [107901-boxrunner.json](./107901-boxrunner.json) |
 | BoxTheTop | 113730 | [113730-boxthetop.json](./113730-boxthetop.json) |
 | Boxville | 190160 | [190160-boxville.json](./190160-boxville.json) |
@@ -3783,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Quest | 287641 | [287641-bug-quest.json](./287641-bug-quest.json) |
 | Bug Village | 94203 | [94203-bug-village.json](./94203-bug-village.json) |
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
+| BuGarden | 392302 | [392302-bugarden.json](./392302-bugarden.json) |
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
 | Buggle Blast | 255721 | [255721-buggle-blast.json](./255721-buggle-blast.json) |
