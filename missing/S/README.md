@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samsara Room | 300426 | [300426-samsara-room.json](./300426-samsara-room.json) |
 | Samsung Pro Cricket | 356656 | [356656-samsung-pro-cricket.json](./356656-samsung-pro-cricket.json) |
 | Samudai | 35927 | [35927-samudai.json](./35927-samudai.json) |
+| Samuel Prince Attorney at Law: Chapter 4 | 397791 | [397791-samuel-prince-attorney-at-law-chapter-4.json](./397791-samuel-prince-attorney-at-law-chapter-4.json) |
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
 | Samurai | 140531 | [140531-samurai.json](./140531-samurai.json) |
 | Samurai Aces | 39844 | [39844-samurai-aces.json](./39844-samurai-aces.json) |
@@ -2018,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinzen Hollow | 292512 | [292512-shinzen-hollow.json](./292512-shinzen-hollow.json) |
 | Shiori no Kotoha: Dark Reflections | 186841 | [186841-shiori-no-kotoha-dark-reflections.json](./186841-shiori-no-kotoha-dark-reflections.json) |
 | Ship Adventure | 179185 | [179185-ship-adventure.json](./179185-ship-adventure.json) |
+| Ship Graveyard Simulator 3 | 397763 | [397763-ship-graveyard-simulator-3.json](./397763-ship-graveyard-simulator-3.json) |
 | Ship Graveyard Simulator: Submarines | 197405 | [197405-ship-graveyard-simulator-submarines.json](./197405-ship-graveyard-simulator-submarines.json) |
 | Ship It | 31747 | [31747-ship-it.json](./31747-ship-it.json) |
 | Ship Miner | 402999 | [402999-ship-miner.json](./402999-ship-miner.json) |
@@ -2785,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
 | Sketch! Run! | 105886 | [105886-sketch-run.json](./105886-sketch-run.json) |
+| Sketchbook Squad | 397778 | [397778-sketchbook-squad.json](./397778-sketchbook-squad.json) |
 | Sketchfab VR | 32920 | [32920-sketchfab-vr.json](./32920-sketchfab-vr.json) |
 | Sketchful.io | 122975 | [122975-sketchful-io.json](./122975-sketchful-io.json) |
 | Sketchy | 54461 | [54461-sketchy.json](./54461-sketchy.json) |
@@ -3568,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
 | SnowBall Champions | 239632 | [239632-snowball-champions.json](./239632-snowball-champions.json) |
 | Snowball Fall Down | 208622 | [208622-snowball-fall-down.json](./208622-snowball-fall-down.json) |
+| Snowball Fight | 397795 | [397795-snowball-fight.json](./397795-snowball-fight.json) |
 | Snowball Fight At Christmas | 165020 | [165020-snowball-fight-at-christmas.json](./165020-snowball-fight-at-christmas.json) |
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
 | Snowbird Solitaire | 354998 | [354998-snowbird-solitaire.json](./354998-snowbird-solitaire.json) |
@@ -3600,8 +3604,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRacer: Ramps | 246963 | [246963-snowracer-ramps.json](./246963-snowracer-ramps.json) |
 | SnowRunner + Expeditions: A MudRunner Game Bundle | 398397 | [398397-snowrunner-expeditions-a-mudrunner-game-bundle.json](./398397-snowrunner-expeditions-a-mudrunner-game-bundle.json) |
 | SnowRunner: 3-Year Anniversary Edition | 230833 | [230833-snowrunner-3-year-anniversary-edition.json](./230833-snowrunner-3-year-anniversary-edition.json) |
+| SnowRunner: 5-Year Anniversary Edition | 397767 | [397767-snowrunner-5-year-anniversary-edition.json](./397767-snowrunner-5-year-anniversary-edition.json) |
+| SnowRunner: Dragon Wagons Dual Pack | 397800 | [397800-snowrunner-dragon-wagons-dual-pack.json](./397800-snowrunner-dragon-wagons-dual-pack.json) |
 | SnowRunner: Freightliner & Western Star Dual Pack | 366855 | [366855-snowrunner-freightliner-and-western-star-dual-pack.json](./366855-snowrunner-freightliner-and-western-star-dual-pack.json) |
 | SnowRunner: Jeep Dual Pack | 169995 | [169995-snowrunner-jeep-dual-pack.json](./169995-snowrunner-jeep-dual-pack.json) |
+| SnowRunner: Kenworth Dual Pack | 397798 | [397798-snowrunner-kenworth-dual-pack.json](./397798-snowrunner-kenworth-dual-pack.json) |
+| SnowRunner: Mack Dual Pack | 397797 | [397797-snowrunner-mack-dual-pack.json](./397797-snowrunner-mack-dual-pack.json) |
+| SnowRunner: Mercedes-Benz Trucks Dual Pack 1 | 397801 | [397801-snowrunner-mercedes-benz-trucks-dual-pack-1.json](./397801-snowrunner-mercedes-benz-trucks-dual-pack-1.json) |
+| SnowRunner: Pathfinders Vinyl Wrap Pack | 397799 | [397799-snowrunner-pathfinders-vinyl-wrap-pack.json](./397799-snowrunner-pathfinders-vinyl-wrap-pack.json) |
 | SnowRunner: Save the Day Vinyl Wrap Pack | 230830 | [230830-snowrunner-save-the-day-vinyl-wrap-pack.json](./230830-snowrunner-save-the-day-vinyl-wrap-pack.json) |
 | SnowRunner: Season 14 - Reap and Sow | 336931 | [336931-snowrunner-season-14-reap-and-sow.json](./336931-snowrunner-season-14-reap-and-sow.json) |
 | SnowRunner: Season 16 - High Voltage | 397654 | [397654-snowrunner-season-16-high-voltage.json](./397654-snowrunner-season-16-high-voltage.json) |
@@ -7785,6 +7795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
 | Superman: The Mysterious Mr. Mist | 73324 | [73324-superman-the-mysterious-mr-mist.json](./73324-superman-the-mysterious-mr-mist.json) |
+| Supermaneuver | 397777 | [397777-supermaneuver.json](./397777-supermaneuver.json) |
 | Supermarket | 329556 | [329556-supermarket.json](./329556-supermarket.json) |
 | Supermarket & Clothing Store Simulator | 404258 | [404258-supermarket-and-clothing-store-simulator.json](./404258-supermarket-and-clothing-store-simulator.json) |
 | Supermarket 3D Tycoon Business Simulator | 317231 | [317231-supermarket-3d-tycoon-business-simulator.json](./317231-supermarket-3d-tycoon-business-simulator.json) |
