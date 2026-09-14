@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manny's 2 | 329018 | [329018-mannys-2.json](./329018-mannys-2.json) |
 | Manny's Murderous Movie Theater: The Snackbar Simulator | 370718 | [370718-mannys-murderous-movie-theater-the-snackbar-simulator.json](./370718-mannys-murderous-movie-theater-the-snackbar-simulator.json) |
 | Manonnikki | 229698 | [229698-manonnikki.json](./229698-manonnikki.json) |
+| Manor Dynasty Strategy | 397065 | [397065-manor-dynasty-strategy.json](./397065-manor-dynasty-strategy.json) |
 | Manor of Mysteries | 265149 | [265149-manor-of-mysteries.json](./265149-manor-of-mysteries.json) |
 | Mansion | 269861 | [269861-mansion.json](./269861-mansion.json) |
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
@@ -1438,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
 | Meaning | 82891 | [82891-meaning.json](./82891-meaning.json) |
 | Meaningful Adventures | 218479 | [218479-meaningful-adventures.json](./218479-meaningful-adventures.json) |
+| Meaningless Tragedy | 397046 | [397046-meaningless-tragedy.json](./397046-meaningless-tragedy.json) |
 | Meanwhile | 22329 | [22329-meanwhile.json](./22329-meanwhile.json) |
 | Mearth | 197875 | [197875-mearth.json](./197875-mearth.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
@@ -1542,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
 | Medieval Delivery | 263519 | [263519-medieval-delivery.json](./263519-medieval-delivery.json) |
 | Medieval Dynasty: Echoes of Nature | 366852 | [366852-medieval-dynasty-echoes-of-nature.json](./366852-medieval-dynasty-echoes-of-nature.json) |
+| Medieval Escape 2 | 397066 | [397066-medieval-escape-2.json](./397066-medieval-escape-2.json) |
 | Medieval Fantasy: Jigsaw Puzzle | 313148 | [313148-medieval-fantasy-jigsaw-puzzle.json](./313148-medieval-fantasy-jigsaw-puzzle.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Eerie Darkness | 314889 | [314889-medieval-fantasy-jigsaw-puzzle-eerie-darkness.json](./314889-medieval-fantasy-jigsaw-puzzle-eerie-darkness.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Emperor Edition | 315870 | [315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json](./315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json) |
