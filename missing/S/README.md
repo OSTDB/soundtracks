@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
 | SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
+| SCP: The Beginning | 390659 | [390659-scp-the-beginning.json](./390659-scp-the-beginning.json) |
 | SCP: Unity | 130903 | [130903-scp-unity.json](./130903-scp-unity.json) |
 | SCP: Unknown. | 95998 | [95998-scp-unknown.json](./95998-scp-unknown.json) |
 | SCP: Valravn | 280174 | [280174-scp-valravn.json](./280174-scp-valravn.json) |
@@ -1805,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Hourglass | 133422 | [133422-shattered-hourglass.json](./133422-shattered-hourglass.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
 | Shattered Planet | 17510 | [17510-shattered-planet.json](./17510-shattered-planet.json) |
+| Shattered Realm Rebirth | 390666 | [390666-shattered-realm-rebirth.json](./390666-shattered-realm-rebirth.json) |
 | Shattered Runes | 151154 | [151154-shattered-runes.json](./151154-shattered-runes.json) |
 | Shattered Sky | 244502 | [244502-shattered-sky.json](./244502-shattered-sky.json) |
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
@@ -1850,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shei Toule Wo de Nu Pengyou | 322344 | [322344-shei-toule-wo-de-nu-pengyou.json](./322344-shei-toule-wo-de-nu-pengyou.json) |
 | Shelf | 278694 | [278694-shelf.json](./278694-shelf.json) |
 | Shell Corp | 129748 | [129748-shell-corp.json](./129748-shell-corp.json) |
+| Shell Increment | 390654 | [390654-shell-increment.json](./390654-shell-increment.json) |
 | Shell Kingdom | 185087 | [185087-shell-kingdom.json](./185087-shell-kingdom.json) |
 | Shell of a King | 250961 | [250961-shell-of-a-king.json](./250961-shell-of-a-king.json) |
 | Shell Shatter | 243969 | [243969-shell-shatter.json](./243969-shell-shatter.json) |
@@ -2133,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot the Robots VR | 278998 | [278998-shoot-the-robots-vr.json](./278998-shoot-the-robots-vr.json) |
 | Shoot the Zombirds VR | 115698 | [115698-shoot-the-zombirds-vr.json](./115698-shoot-the-zombirds-vr.json) |
 | Shoot Them | 126559 | [126559-shoot-them.json](./126559-shoot-them.json) |
+| Shoot Till You Meet Death | 390624 | [390624-shoot-till-you-meet-death.json](./390624-shoot-till-you-meet-death.json) |
 | Shoot to Escape | 231901 | [231901-shoot-to-escape.json](./231901-shoot-to-escape.json) |
 | Shoot to Pleasure | 310735 | [310735-shoot-to-pleasure.json](./310735-shoot-to-pleasure.json) |
 | Shoot Your Friends | 154562 | [154562-shoot-your-friends.json](./154562-shoot-your-friends.json) |
@@ -2339,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Swap | 216263 | [216263-side-swap.json](./216263-side-swap.json) |
 | Side Swipers | 280783 | [280783-side-swipers.json](./280783-side-swipers.json) |
 | Side to Side | 128569 | [128569-side-to-side.json](./128569-side-to-side.json) |
+| Side Whoop | 390656 | [390656-side-whoop.json](./390656-side-whoop.json) |
 | Sidekick High | 185070 | [185070-sidekick-high.json](./185070-sidekick-high.json) |
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
 | SideQuest Hunters | 360017 | [360017-sidequest-hunters.json](./360017-sidequest-hunters.json) |
@@ -2380,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | Sign of the Sun | 69878 | [69878-sign-of-the-sun.json](./69878-sign-of-the-sun.json) |
 | Signal Garden | 400311 | [400311-signal-garden.json](./400311-signal-garden.json) |
+| Signal Hill | 390655 | [390655-signal-hill.json](./390655-signal-hill.json) |
 | Signal Ops | 16734 | [16734-signal-ops.json](./16734-signal-ops.json) |
 | Signal13 | 410346 | [410346-signal13.json](./410346-signal13.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
@@ -3126,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime | 407438 | [407438-slime.json](./407438-slime.json) |
 | Slime Age: Parody MMORPG Clicker | 108411 | [108411-slime-age-parody-mmorpg-clicker.json](./108411-slime-age-parody-mmorpg-clicker.json) |
 | Slime and Rancher | 102756 | [102756-slime-and-rancher.json](./102756-slime-and-rancher.json) |
+| Slime Buddy Time | 390626 | [390626-slime-buddy-time.json](./390626-slime-buddy-time.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
 | Slime Coming | 301812 | [301812-slime-coming.json](./301812-slime-coming.json) |
 | Slime Cores | 298056 | [298056-slime-cores.json](./298056-slime-cores.json) |
@@ -5391,6 +5398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares | 101610 | [101610-squares.json](./101610-squares.json) |
 | Squares | 59961 | [59961-squares.json](./59961-squares.json) |
 | Squares of Hell | 304612 | [304612-squares-of-hell.json](./304612-squares-of-hell.json) |
+| Squareverse | 390664 | [390664-squareverse.json](./390664-squareverse.json) |
 | Squarez: Escape The Squares | 262357 | [262357-squarez-escape-the-squares.json](./262357-squarez-escape-the-squares.json) |
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
 | Squeakross: Free Content Update | 392279 | [392279-squeakross-free-content-update.json](./392279-squeakross-free-content-update.json) |
@@ -5782,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbrew Station: Symbiotic Sprout Unit | 374089 | [374089-starbrew-station-symbiotic-sprout-unit.json](./374089-starbrew-station-symbiotic-sprout-unit.json) |
 | Starbrew Station: The Galactic Tycoon Unit | 374092 | [374092-starbrew-station-the-galactic-tycoon-unit.json](./374092-starbrew-station-the-galactic-tycoon-unit.json) |
 | Starbucks | 378167 | [378167-starbucks.json](./378167-starbucks.json) |
+| Starburst Fever Night | 390669 | [390669-starburst-fever-night.json](./390669-starburst-fever-night.json) |
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
 | Starcaller | 142496 | [142496-starcaller.json](./142496-starcaller.json) |
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
@@ -6424,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strat-O-Gems Deluxe | 40751 | [40751-strat-o-gems-deluxe.json](./40751-strat-o-gems-deluxe.json) |
 | Stratagem | 289311 | [289311-stratagem.json](./289311-stratagem.json) |
 | Stratajong | 57653 | [57653-stratajong.json](./57653-stratajong.json) |
+| Stratapath TD | 390662 | [390662-stratapath-td.json](./390662-stratapath-td.json) |
 | Strategems | 353271 | [353271-strategems.json](./353271-strategems.json) |
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
@@ -6694,6 +6704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Camera | 255992 | [255992-stupid-camera.json](./255992-stupid-camera.json) |
 | Stupid Clicker Game | 26554 | [26554-stupid-clicker-game.json](./26554-stupid-clicker-game.json) |
 | Stupid Space Shooter | 310759 | [310759-stupid-space-shooter.json](./310759-stupid-space-shooter.json) |
+| Stupid Spaceships | 390622 | [390622-stupid-spaceships.json](./390622-stupid-spaceships.json) |
 | SturmFront - The Mutant War | 15394 | [15394-sturmfront-the-mutant-war.json](./15394-sturmfront-the-mutant-war.json) |
 | SturmFront: The Mutant War - Farewell Edition | 215362 | [215362-sturmfront-the-mutant-war-farewell-edition.json](./215362-sturmfront-the-mutant-war-farewell-edition.json) |
 | Sturmwind | 9126 | [9126-sturmwind.json](./9126-sturmwind.json) |
