@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T16:19:11.533Z",
-  "total_missing": 70433,
+  "generated_at": "2026-09-14T16:21:37.569Z",
+  "total_missing": 70432,
   "games": [
     {
       "igdb_id": 306086,
@@ -4516,11 +4516,6 @@
       "igdb_id": 15847,
       "game_name": "Aeon Flux",
       "file": "missing/A/15847-aeon-flux.json"
-    },
-    {
-      "igdb_id": 284345,
-      "game_name": "Aeon on Mosaic: Anemone",
-      "file": "missing/A/284345-aeon-on-mosaic-anemone.json"
     },
     {
       "igdb_id": 223483,
