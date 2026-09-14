@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War In Heaven | 216487 | [216487-war-in-heaven.json](./216487-war-in-heaven.json) |
 | War in Russia | 24916 | [24916-war-in-russia.json](./24916-war-in-russia.json) |
 | War in Space | 111010 | [111010-war-in-space.json](./111010-war-in-space.json) |
+| War in Spain 1936-39 | 388197 | [388197-war-in-spain-1936-39.json](./388197-war-in-spain-1936-39.json) |
 | War in the Pacific | 27643 | [27643-war-in-the-pacific.json](./27643-war-in-the-pacific.json) |
 | War In Zone | 408053 | [408053-war-in-zone.json](./408053-war-in-zone.json) |
 | War is Heck Collection | 53883 | [53883-war-is-heck-collection.json](./53883-war-is-heck-collection.json) |
@@ -1931,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer: Winning Eleven 2010 - Arcade Championship | 64960 | [64960-world-soccer-winning-eleven-2010-arcade-championship.json](./64960-world-soccer-winning-eleven-2010-arcade-championship.json) |
 | World Soccer: Winning Eleven 7 | 77321 | [77321-world-soccer-winning-eleven-7.json](./77321-world-soccer-winning-eleven-7.json) |
 | World Sports Competition | 37731 | [37731-world-sports-competition.json](./37731-world-sports-competition.json) |
+| World Strategy War | 388261 | [388261-world-strategy-war.json](./388261-world-strategy-war.json) |
 | World Subway Simulator | 89234 | [89234-world-subway-simulator.json](./89234-world-subway-simulator.json) |
 | World Sweeper | 415917 | [415917-world-sweeper.json](./415917-world-sweeper.json) |
 | World Tennis Stars | 49349 | [49349-world-tennis-stars.json](./49349-world-tennis-stars.json) |
