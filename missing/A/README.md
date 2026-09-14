@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Igo 2003 | 269325 | [269325-ai-igo-2003.json](./269325-ai-igo-2003.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
+| AI Protocol | 393603 | [393603-ai-protocol.json](./393603-ai-protocol.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
 | AI Shogi 2003 | 269328 | [269328-ai-shogi-2003.json](./269328-ai-shogi-2003.json) |
 | AI Solitaire: Handsome Heroes | 304005 | [304005-ai-solitaire-handsome-heroes.json](./304005-ai-solitaire-handsome-heroes.json) |
@@ -1421,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
 | Always Remember Me | 36356 | [36356-always-remember-me.json](./36356-always-remember-me.json) |
 | Always Sunset | 413736 | [413736-always-sunset.json](./413736-always-sunset.json) |
+| Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
 | Amaekata wa Kanojo Nari ni | 55880 | [55880-amaekata-wa-kanojo-nari-ni.json](./55880-amaekata-wa-kanojo-nari-ni.json) |
@@ -1748,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Beats! 1st Beat | 11414 | [11414-angel-beats-1st-beat.json](./11414-angel-beats-1st-beat.json) |
 | Angel Droid | 221193 | [221193-angel-droid.json](./221193-angel-droid.json) |
 | Angel Engine | 387370 | [387370-angel-engine.json](./387370-angel-engine.json) |
+| Angel Garden | 393606 | [393606-angel-garden.json](./393606-angel-garden.json) |
 | Angel Gate | 242241 | [242241-angel-gate.json](./242241-angel-gate.json) |
 | Angel Hua Yin | 339843 | [339843-angel-hua-yin.json](./339843-angel-hua-yin.json) |
 | Angel in Danger | 61072 | [61072-angel-in-danger.json](./61072-angel-in-danger.json) |
@@ -1970,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Vampire Slayer | 118421 | [118421-anime-vampire-slayer.json](./118421-anime-vampire-slayer.json) |
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
 | Anime-dle | 337089 | [337089-anime-dle.json](./337089-anime-dle.json) |
+| Anime: Fantasy Uni | 393625 | [393625-anime-fantasy-uni.json](./393625-anime-fantasy-uni.json) |
 | Animentals | 387361 | [387361-animentals.json](./387361-animentals.json) |
 | Animetic Story Game 1: Cardcaptor Sakura | 132867 | [132867-animetic-story-game-1-cardcaptor-sakura.json](./132867-animetic-story-game-1-cardcaptor-sakura.json) |
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
