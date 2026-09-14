@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Kindergarten | 123589 | [123589-jumpstart-kindergarten.json](./123589-jumpstart-kindergarten.json) |
 | JumpStart Math for Kindergarteners | 300415 | [300415-jumpstart-math-for-kindergarteners.json](./300415-jumpstart-math-for-kindergarteners.json) |
 | JumpStart Math for Second Graders | 129147 | [129147-jumpstart-math-for-second-graders.json](./129147-jumpstart-math-for-second-graders.json) |
+| JumpStart Pre-K | 407433 | [407433-jumpstart-pre-k.json](./407433-jumpstart-pre-k.json) |
 | JumpStart Preschool | 315521 | [315521-jumpstart-preschool.json](./315521-jumpstart-preschool.json) |
 | JumpStart Reading for Second Graders | 144929 | [144929-jumpstart-reading-for-second-graders.json](./144929-jumpstart-reading-for-second-graders.json) |
 | JumpStart: Dino Adventure Field Trip | 49923 | [49923-jumpstart-dino-adventure-field-trip.json](./49923-jumpstart-dino-adventure-field-trip.json) |
