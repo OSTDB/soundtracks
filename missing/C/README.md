@@ -1894,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cì Shā | 158675 | [158675-ci-sha.json](./158675-ci-sha.json) |
 | Ciao Bella: la Bella Romanza | 133957 | [133957-ciao-bella-la-bella-romanza.json](./133957-ciao-bella-la-bella-romanza.json) |
 | Cicadas | 61599 | [61599-cicadas.json](./61599-cicadas.json) |
+| Cicadia | 408916 | [408916-cicadia.json](./408916-cicadia.json) |
 | Ciconia When They Cry: Phase 2 | 273097 | [273097-ciconia-when-they-cry-phase-2.json](./273097-ciconia-when-they-cry-phase-2.json) |
 | Cidadão de SP Simulator | 317576 | [317576-cidadao-de-sp-simulator.json](./317576-cidadao-de-sp-simulator.json) |
 | Ciel Nosurge | 24929 | [24929-ciel-nosurge.json](./24929-ciel-nosurge.json) |
@@ -3660,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Corridors | 23902 | [23902-creepy-corridors.json](./23902-creepy-corridors.json) |
 | Creepy Dungeons Heroes | 226744 | [226744-creepy-dungeons-heroes.json](./226744-creepy-dungeons-heroes.json) |
 | Creepy Tale 3: Ingrid Penance | 211024 | [211024-creepy-tale-3-ingrid-penance.json](./211024-creepy-tale-3-ingrid-penance.json) |
+| CreepyDates | 408876 | [408876-creepydates.json](./408876-creepydates.json) |
 | Creepypasta Land | 130346 | [130346-creepypasta-land.json](./130346-creepypasta-land.json) |
 | Creepypasta Land 2: SCP Force | 130349 | [130349-creepypasta-land-2-scp-force.json](./130349-creepypasta-land-2-scp-force.json) |
 | Creepytape Rewind: Not From Here | 399002 | [399002-creepytape-rewind-not-from-here.json](./399002-creepytape-rewind-not-from-here.json) |
@@ -4067,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Royale | 269035 | [269035-cube-royale.json](./269035-cube-royale.json) |
 | Cube Runner | 30128 | [30128-cube-runner.json](./30128-cube-runner.json) |
 | Cube Rush | 112340 | [112340-cube-rush.json](./112340-cube-rush.json) |
+| Cube School | 408905 | [408905-cube-school.json](./408905-cube-school.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
 | Cube Snap 2 | 86882 | [86882-cube-snap-2.json](./86882-cube-snap-2.json) |
 | Cube Way | 75902 | [75902-cube-way.json](./75902-cube-way.json) |
