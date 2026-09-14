@@ -1490,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturnal Visitors: Book One | 370152 | [370152-nocturnal-visitors-book-one.json](./370152-nocturnal-visitors-book-one.json) |
 | Nocturnal Whispers | 356632 | [356632-nocturnal-whispers.json](./356632-nocturnal-whispers.json) |
 | Nocturnarya: Collector's Edition | 362846 | [362846-nocturnarya-collectors-edition.json](./362846-nocturnarya-collectors-edition.json) |
+| Nocturne | 402375 | [402375-nocturne.json](./402375-nocturne.json) |
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
 | Nocturne Maze: Shadows in the Hedge | 374079 | [374079-nocturne-maze-shadows-in-the-hedge.json](./374079-nocturne-maze-shadows-in-the-hedge.json) |
 | Nocturne of Steel | 107893 | [107893-nocturne-of-steel.json](./107893-nocturne-of-steel.json) |
@@ -1789,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuns With Guns | 115642 | [115642-nuns-with-guns.json](./115642-nuns-with-guns.json) |
 | Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
+| Nurny Battles HD | 402380 | [402380-nurny-battles-hd.json](./402380-nurny-battles-hd.json) |
 | Nurse Call: Koi no Nurse Call | 324135 | [324135-nurse-call-koi-no-nurse-call.json](./324135-nurse-call-koi-no-nurse-call.json) |
 | Nurse Enjoy Gyaru Pack | 186233 | [186233-nurse-enjoy-gyaru-pack.json](./186233-nurse-enjoy-gyaru-pack.json) |
 | Nurse Love Addiction | 32511 | [32511-nurse-love-addiction.json](./32511-nurse-love-addiction.json) |
