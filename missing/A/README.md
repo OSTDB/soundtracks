@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Few Days With: The Fairies | 392953 | [392953-a-few-days-with-the-fairies.json](./392953-a-few-days-with-the-fairies.json) |
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
 | A Flappy Bird in Real Life | 111077 | [111077-a-flappy-bird-in-real-life.json](./111077-a-flappy-bird-in-real-life.json) |
+| A Forest | 387527 | [387527-a-forest.json](./387527-a-forest.json) |
 | A Forever Solitude | 211396 | [211396-a-forever-solitude.json](./211396-a-forever-solitude.json) |
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
@@ -143,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Step Into Darkness | 29815 | [29815-a-step-into-darkness.json](./29815-a-step-into-darkness.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
 | A Story of Us: Ep. 1 - First Memories | 115043 | [115043-a-story-of-us-ep-1-first-memories.json](./115043-a-story-of-us-ep-1-first-memories.json) |
+| A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
 | A Tale about Tail | 185079 | [185079-a-tale-about-tail.json](./185079-a-tale-about-tail.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
@@ -1666,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anastasia to 7-nin no Himegami: Inmon no Rakuin | 108978 | [108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json](./108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json) |
 | Anata dake no Private Lesson: DS de Hajimeru Tipness no Yoga | 269550 | [269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json](./269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json) |
 | Anata o Yurusanai | 59396 | [59396-anata-o-yurusanai.json](./59396-anata-o-yurusanai.json) |
+| Anbar | 387545 | [387545-anbar.json](./387545-anbar.json) |
 | Ancestors Legacy: Special Edition | 124820 | [124820-ancestors-legacy-special-edition.json](./124820-ancestors-legacy-special-edition.json) |
 | Ancestral | 318397 | [318397-ancestral.json](./318397-ancestral.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
