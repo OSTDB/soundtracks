@@ -1958,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyingChicken | 371894 | [371894-flyingchicken.json](./371894-flyingchicken.json) |
 | Flyland Wars: 2 Not Yours Mine | 173785 | [173785-flyland-wars-2-not-yours-mine.json](./173785-flyland-wars-2-not-yours-mine.json) |
 | Flynguin Station | 121006 | [121006-flynguin-station.json](./121006-flynguin-station.json) |
+| Flyon RC | 406173 | [406173-flyon-rc.json](./406173-flyon-rc.json) |
 | Flyto | 244480 | [244480-flyto.json](./244480-flyto.json) |
 | FlyWings 2018 Flight Simulator: Aerobatic Family | 168883 | [168883-flywings-2018-flight-simulator-aerobatic-family.json](./168883-flywings-2018-flight-simulator-aerobatic-family.json) |
 | FlyWings 2018 Flight Simulator: Air Race Family | 168884 | [168884-flywings-2018-flight-simulator-air-race-family.json](./168884-flywings-2018-flight-simulator-air-race-family.json) |
