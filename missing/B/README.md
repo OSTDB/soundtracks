@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.C. II: Grog's Revenge | 13875 | [13875-b-c-ii-grogs-revenge.json](./13875-b-c-ii-grogs-revenge.json) |
 | B.C. Piezophile | 239637 | [239637-b-c-piezophile.json](./239637-b-c-piezophile.json) |
 | B.D.K | 170986 | [170986-b-d-k.json](./170986-b-d-k.json) |
+| B.I.D. | 390619 | [390619-b-i-d.json](./390619-b-i-d.json) |
 | B.M.G 19: Bike Messenger Go! | 115707 | [115707-b-m-g-19-bike-messenger-go.json](./115707-b-m-g-19-bike-messenger-go.json) |
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
 | B.o.o.o. | 178676 | [178676-b-o-o-o.json](./178676-b-o-o-o.json) |
@@ -1508,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
 | Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
 | Berserk Boy | 150032 | [150032-berserk-boy.json](./150032-berserk-boy.json) |
+| Berserker 2: The Saga of Hilde | 390633 | [390633-berserker-2-the-saga-of-hilde.json](./390633-berserker-2-the-saga-of-hilde.json) |
 | Bertie the Stableboy | 265410 | [265410-bertie-the-stableboy.json](./265410-bertie-the-stableboy.json) |
 | Berty the Giraffe | 344391 | [344391-berty-the-giraffe.json](./344391-berty-the-giraffe.json) |
 | Berusky | 135275 | [135275-berusky.json](./135275-berusky.json) |
@@ -3849,6 +3851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulbs 2.0 | 306353 | [306353-bulbs-2-0.json](./306353-bulbs-2-0.json) |
 | Bulby: Diamond Course | 33042 | [33042-bulby-diamond-course.json](./33042-bulby-diamond-course.json) |
 | Bule Form | 158224 | [158224-bule-form.json](./158224-bule-form.json) |
+| Bulk | 390638 | [390638-bulk.json](./390638-bulk.json) |
 | Bull Fighter | 40273 | [40273-bull-fighter.json](./40273-bull-fighter.json) |
 | Bull-Bia Ricky | 291456 | [291456-bull-bia-ricky.json](./291456-bull-bia-ricky.json) |
 | Bulldozer Bob | 146921 | [146921-bulldozer-bob.json](./146921-bulldozer-bob.json) |
