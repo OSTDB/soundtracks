@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
 | Utsusemi no Meguri | 69323 | [69323-utsusemi-no-meguri.json](./69323-utsusemi-no-meguri.json) |
 | Utter Inverse | 213415 | [213415-utter-inverse.json](./213415-utter-inverse.json) |
+| UtuRoom | 416648 | [416648-uturoom.json](./416648-uturoom.json) |
 | Uuno Turhapuro muuttaa maalle | 9074 | [9074-uuno-turhapuro-muuttaa-maalle.json](./9074-uuno-turhapuro-muuttaa-maalle.json) |
 | UvsU | 258704 | [258704-uvsu.json](./258704-uvsu.json) |
 | UWAR | 338579 | [338579-uwar.json](./338579-uwar.json) |
