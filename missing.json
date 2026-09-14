@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T03:33:49.889Z",
-  "total_missing": 68326,
+  "generated_at": "2026-09-14T03:41:39.781Z",
+  "total_missing": 68325,
   "games": [
     {
       "igdb_id": 306086,
@@ -4136,11 +4136,6 @@
       "igdb_id": 34557,
       "game_name": "Advanced Gaming Platform: Epica",
       "file": "missing/A/34557-advanced-gaming-platform-epica.json"
-    },
-    {
-      "igdb_id": 63246,
-      "game_name": "Advanced Strategic Command",
-      "file": "missing/A/63246-advanced-strategic-command.json"
     },
     {
       "igdb_id": 296352,
