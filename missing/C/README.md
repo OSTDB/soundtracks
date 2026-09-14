@@ -2686,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Black Sea | 77292 | [77292-combat-mission-black-sea.json](./77292-combat-mission-black-sea.json) |
 | Combat Mission: Final Blitzkrieg - Downfall | 288220 | [288220-combat-mission-final-blitzkrieg-downfall.json](./288220-combat-mission-final-blitzkrieg-downfall.json) |
 | Combat Mission: Red Thunder | 77293 | [77293-combat-mission-red-thunder.json](./77293-combat-mission-red-thunder.json) |
+| Combat Research Division: Spider Unit | 408187 | [408187-combat-research-division-spider-unit.json](./408187-combat-research-division-spider-unit.json) |
 | Combat rush | 108403 | [108403-combat-rush.json](./108403-combat-rush.json) |
 | Combat Survivors | 402266 | [402266-combat-survivors.json](./402266-combat-survivors.json) |
 | Combat Wings | 138170 | [138170-combat-wings.json](./138170-combat-wings.json) |
