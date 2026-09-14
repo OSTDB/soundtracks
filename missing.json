@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T12:34:08.073Z",
-  "total_missing": 69797,
+  "generated_at": "2026-09-14T12:41:42.635Z",
+  "total_missing": 69796,
   "games": [
     {
       "igdb_id": 306086,
@@ -4406,11 +4406,6 @@
       "igdb_id": 58245,
       "game_name": "Adventures of Jack: Platformer",
       "file": "missing/A/58245-adventures-of-jack-platformer.json"
-    },
-    {
-      "igdb_id": 50500,
-      "game_name": "Adventures of Maddog Williams in the Dungeons of Duridian",
-      "file": "missing/A/50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json"
     },
     {
       "igdb_id": 149549,
