@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger City | 279591 | [279591-danger-city.json](./279591-danger-city.json) |
 | Danger Close! | 76658 | [76658-danger-close.json](./76658-danger-close.json) |
 | Danger Course VR | 124231 | [124231-danger-course-vr.json](./124231-danger-course-vr.json) |
+| Danger Crew | 117623 | [117623-danger-crew.json](./117623-danger-crew.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
@@ -1197,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
 | Delicious: Emily's Big Surprise | 322569 | [322569-delicious-emilys-big-surprise.json](./322569-delicious-emilys-big-surprise.json) |
 | Delicious: Emily's Honeymoon Cruise | 145628 | [145628-delicious-emilys-honeymoon-cruise.json](./145628-delicious-emilys-honeymoon-cruise.json) |
+| Delicious: Emily's Road Trip | 117545 | [117545-delicious-emilys-road-trip.json](./117545-delicious-emilys-road-trip.json) |
 | Delicious: Emily's Taste of Fame | 89222 | [89222-delicious-emilys-taste-of-fame.json](./89222-delicious-emilys-taste-of-fame.json) |
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
 | Delilah | 217340 | [217340-delilah.json](./217340-delilah.json) |
@@ -3455,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Your Car | 199629 | [199629-drive-your-car.json](./199629-drive-your-car.json) |
 | Driveby Gangster | 34452 | [34452-driveby-gangster.json](./34452-driveby-gangster.json) |
 | DriveCrazy | 151746 | [151746-drivecrazy.json](./151746-drivecrazy.json) |
+| Driven Out | 117524 | [117524-driven-out.json](./117524-driven-out.json) |
 | Driver | 675 | [675-driver.json](./675-driver.json) |
 | Driver Dan's Story Train | 269827 | [269827-driver-dans-story-train.json](./269827-driver-dans-story-train.json) |
 | Driver: San Francisco | 554 | [554-driver-san-francisco.json](./554-driver-san-francisco.json) |
@@ -3805,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon RPG Pikudan 2 | 222324 | [222324-dungeon-rpg-pikudan-2.json](./222324-dungeon-rpg-pikudan-2.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Rush | 105304 | [105304-dungeon-rush.json](./105304-dungeon-rush.json) |
+| Dungeon Scavenger | 117620 | [117620-dungeon-scavenger.json](./117620-dungeon-scavenger.json) |
 | Dungeon Scroll | 174314 | [174314-dungeon-scroll.json](./174314-dungeon-scroll.json) |
 | Dungeon Settlers | 288782 | [288782-dungeon-settlers.json](./288782-dungeon-settlers.json) |
 | Dungeon Shifters | 364507 | [364507-dungeon-shifters.json](./364507-dungeon-shifters.json) |
@@ -3918,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustino 64 | 295809 | [295809-dustino-64.json](./295809-dustino-64.json) |
 | Dustland | 260393 | [260393-dustland.json](./260393-dustland.json) |
 | Dustland Delivery | 302379 | [302379-dustland-delivery.json](./302379-dustland-delivery.json) |
+| Dustnet | 117904 | [117904-dustnet.json](./117904-dustnet.json) |
 | Dustopia | 295810 | [295810-dustopia.json](./295810-dustopia.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
 | Dusty Raging Fist | 63798 | [63798-dusty-raging-fist.json](./63798-dusty-raging-fist.json) |
