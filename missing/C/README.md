@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Agents | 38963 | [38963-call-of-agents.json](./38963-call-of-agents.json) |
 | Call of Antia | 200141 | [200141-call-of-antia.json](./200141-call-of-antia.json) |
 | Call of Atlantis: Treasures of Poseidon - Collector's Edition | 355541 | [355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json](./355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json) |
+| Call of Cutie | 411724 | [411724-call-of-cutie.json](./411724-call-of-cutie.json) |
 | Call of Duty 2 | 119160 | [119160-call-of-duty-2.json](./119160-call-of-duty-2.json) |
 | Call of Duty 4: Modern Warfare | 135294 | [135294-call-of-duty-4-modern-warfare.json](./135294-call-of-duty-4-modern-warfare.json) |
 | Call of Duty 4: Modern Warfare - Game of the Year Edition | 290723 | [290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json](./290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json) |
@@ -689,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway Paradise | 36279 | [36279-castaway-paradise.json](./36279-castaway-paradise.json) |
 | Castaways VR | 120341 | [120341-castaways-vr.json](./120341-castaways-vr.json) |
 | Castelian | 295029 | [295029-castelian.json](./295029-castelian.json) |
+| Castellan | 411700 | [411700-castellan.json](./411700-castellan.json) |
 | Caster's Trap | 130339 | [130339-casters-trap.json](./130339-casters-trap.json) |
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
 | Castle | 166672 | [166672-castle.json](./166672-castle.json) |
@@ -2924,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of Mars | 40728 | [40728-conquest-of-mars.json](./40728-conquest-of-mars.json) |
 | Conquest of the Crystal Palace | 48068 | [48068-conquest-of-the-crystal-palace.json](./48068-conquest-of-the-crystal-palace.json) |
 | Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
+| Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
 | Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
 | Conquista: Tide of Wills | 415116 | [415116-conquista-tide-of-wills.json](./415116-conquista-tide-of-wills.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
@@ -3346,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowhop | 239631 | [239631-cowhop.json](./239631-cowhop.json) |
 | Cowpocalypse | 118382 | [118382-cowpocalypse.json](./118382-cowpocalypse.json) |
 | Cowpocalypse | 274776 | [274776-cowpocalypse.json](./274776-cowpocalypse.json) |
+| Cows Gone Mad: Battle for Pasture Prime | 411676 | [411676-cows-gone-mad-battle-for-pasture-prime.json](./411676-cows-gone-mad-battle-for-pasture-prime.json) |
 | Cozmic Fantasy 2: Bouken Shounen Pan | 251628 | [251628-cozmic-fantasy-2-bouken-shounen-pan.json](./251628-cozmic-fantasy-2-bouken-shounen-pan.json) |
 | Cozy | 179745 | [179745-cozy.json](./179745-cozy.json) |
 | Cozy Cards | 209616 | [209616-cozy-cards.json](./209616-cozy-cards.json) |
@@ -3751,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crispy Cheese | 218148 | [218148-crispy-cheese.json](./218148-crispy-cheese.json) |
 | Crispy Chicken Speedmap Session 02 | 312892 | [312892-crispy-chicken-speedmap-session-02.json](./312892-crispy-chicken-speedmap-session-02.json) |
 | Criss Cross | 67520 | [67520-criss-cross.json](./67520-criss-cross.json) |
+| Cristal Absoluto | 411734 | [411734-cristal-absoluto.json](./411734-cristal-absoluto.json) |
 | Critical Annihilation | 36027 | [36027-critical-annihilation.json](./36027-critical-annihilation.json) |
 | Critical Bullet: 7th Target | 72121 | [72121-critical-bullet-7th-target.json](./72121-critical-bullet-7th-target.json) |
 | Critical Mass | 9810 | [9810-critical-mass.json](./9810-critical-mass.json) |
@@ -3771,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croak Cafe: From Pond to Plate | 311487 | [311487-croak-cafe-from-pond-to-plate.json](./311487-croak-cafe-from-pond-to-plate.json) |
 | Croaka-Crawla | 319576 | [319576-croaka-crawla.json](./319576-croaka-crawla.json) |
 | Croaking Around | 265696 | [265696-croaking-around.json](./265696-croaking-around.json) |
+| Croc 2: Kingdom of the Gobbos | 411706 | [411706-croc-2-kingdom-of-the-gobbos.json](./411706-croc-2-kingdom-of-the-gobbos.json) |
 | Croc Legend of the Gobbos | 315020 | [315020-croc-legend-of-the-gobbos.json](./315020-croc-legend-of-the-gobbos.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
 | Crocodile Blood: The Final Moments of Kurumizawa Keiko | 394154 | [394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json](./394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json) |
@@ -3864,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of the Empire: Timeloop - Collector's Edition | 356113 | [356113-crown-of-the-empire-timeloop-collectors-edition.json](./356113-crown-of-the-empire-timeloop-collectors-edition.json) |
 | Crown Solitaire: Card Game | 96714 | [96714-crown-solitaire-card-game.json](./96714-crown-solitaire-card-game.json) |
 | Crown's Trial | 402270 | [402270-crowns-trial.json](./402270-crowns-trial.json) |
+| Crownbane | 411701 | [411701-crownbane.json](./411701-crownbane.json) |
 | Crownborne | 405528 | [405528-crownborne.json](./405528-crownborne.json) |
 | Crownbreakers | 348230 | [348230-crownbreakers.json](./348230-crownbreakers.json) |
 | Crowning Calamity | 284332 | [284332-crowning-calamity.json](./284332-crowning-calamity.json) |
