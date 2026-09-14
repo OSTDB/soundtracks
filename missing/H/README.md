@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Dirt Bike | 87720 | [87720-hardcore-dirt-bike.json](./87720-hardcore-dirt-bike.json) |
 | Hardcore Dirt Bike 2 | 97918 | [97918-hardcore-dirt-bike-2.json](./97918-hardcore-dirt-bike-2.json) |
 | Hardcore Parkour | 119765 | [119765-hardcore-parkour.json](./119765-hardcore-parkour.json) |
+| Hardcore Soldier | 406214 | [406214-hardcore-soldier.json](./406214-hardcore-soldier.json) |
 | Harder | 334707 | [334707-harder.json](./334707-harder.json) |
 | Hardhat Wombat | 244511 | [244511-hardhat-wombat.json](./244511-hardhat-wombat.json) |
 | Hardlight | 138829 | [138829-hardlight.json](./138829-hardlight.json) |
@@ -609,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted: Live | 220868 | [220868-haunted-live.json](./220868-haunted-live.json) |
 | Haunted: The Chronicles | 249211 | [249211-haunted-the-chronicles.json](./249211-haunted-the-chronicles.json) |
 | Haunted? | 265980 | [265980-haunted.json](./265980-haunted.json) |
+| Hauntify Mixed Reality | 406176 | [406176-hauntify-mixed-reality.json](./406176-hauntify-mixed-reality.json) |
 | Hauntii | 217008 | [217008-hauntii.json](./217008-hauntii.json) |
 | Haunting Ground | 14605 | [14605-haunting-ground.json](./14605-haunting-ground.json) |
 | Haunting Mysteries: The Island of Lost Souls - Collector's Edition | 355528 | [355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json](./355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json) |
@@ -2093,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
 | Hook Master | 152939 | [152939-hook-master.json](./152939-hook-master.json) |
 | Hook Worlds | 91941 | [91941-hook-worlds.json](./91941-hook-worlds.json) |
+| Hook-Kick | 406219 | [406219-hook-kick.json](./406219-hook-kick.json) |
 | Hook, Line, and Spelunker | 214730 | [214730-hook-line-and-spelunker.json](./214730-hook-line-and-spelunker.json) |
 | Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
 | HookCat | 159267 | [159267-hookcat.json](./159267-hookcat.json) |
