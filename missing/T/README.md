@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
 | TeaChess | 188036 | [188036-teachess.json](./188036-teachess.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
+| TeaKnights | 408906 | [408906-teaknights.json](./408906-teaknights.json) |
 | Teal'c's Revenge | 62673 | [62673-tealcs-revenge.json](./62673-tealcs-revenge.json) |
 | Team 47 GoMan | 180229 | [180229-team-47-goman.json](./180229-team-47-goman.json) |
 | Team Assault: Baptism of Fire | 66032 | [66032-team-assault-baptism-of-fire.json](./66032-team-assault-baptism-of-fire.json) |
@@ -1786,9 +1787,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew | 2137 | [2137-the-crew.json](./2137-the-crew.json) |
 | The Crew 2: Steelbook Gold Edition | 122358 | [122358-the-crew-2-steelbook-gold-edition.json](./122358-the-crew-2-steelbook-gold-edition.json) |
 | The Crew: Motorfest | 234256 | [234256-the-crew-motorfest.json](./234256-the-crew-motorfest.json) |
+| The Crew: Motorfest - Alfa Romeo Double Car Pack | 408888 | [408888-the-crew-motorfest-alfa-romeo-double-car-pack.json](./408888-the-crew-motorfest-alfa-romeo-double-car-pack.json) |
+| The Crew: Motorfest - BMW Double Car Pack | 408887 | [408887-the-crew-motorfest-bmw-double-car-pack.json](./408887-the-crew-motorfest-bmw-double-car-pack.json) |
+| The Crew: Motorfest - Chase Squad Pack | 408883 | [408883-the-crew-motorfest-chase-squad-pack.json](./408883-the-crew-motorfest-chase-squad-pack.json) |
 | The Crew: Motorfest - Dodge Pack | 408787 | [408787-the-crew-motorfest-dodge-pack.json](./408787-the-crew-motorfest-dodge-pack.json) |
 | The Crew: Motorfest - Drift Pack | 408788 | [408788-the-crew-motorfest-drift-pack.json](./408788-the-crew-motorfest-drift-pack.json) |
+| The Crew: Motorfest - Ford Triple Car Pack | 408885 | [408885-the-crew-motorfest-ford-triple-car-pack.json](./408885-the-crew-motorfest-ford-triple-car-pack.json) |
+| The Crew: Motorfest - Porsche Triple Car Pack | 408886 | [408886-the-crew-motorfest-porsche-triple-car-pack.json](./408886-the-crew-motorfest-porsche-triple-car-pack.json) |
+| The Crew: Motorfest - Season 10 | 408914 | [408914-the-crew-motorfest-season-10.json](./408914-the-crew-motorfest-season-10.json) |
+| The Crew: Motorfest - Season 9 | 408911 | [408911-the-crew-motorfest-season-9.json](./408911-the-crew-motorfest-season-9.json) |
 | The Crew: Motorfest - Year 2 Pass | 335098 | [335098-the-crew-motorfest-year-2-pass.json](./335098-the-crew-motorfest-year-2-pass.json) |
+| The Crew: Motorfest - Year 3 Pass | 408884 | [408884-the-crew-motorfest-year-3-pass.json](./408884-the-crew-motorfest-year-3-pass.json) |
 | The Crew: Wild Run Edition | 166227 | [166227-the-crew-wild-run-edition.json](./166227-the-crew-wild-run-edition.json) |
 | The Cricket C | 230301 | [230301-the-cricket-c.json](./230301-the-cricket-c.json) |
 | The Criminal | 383398 | [383398-the-criminal.json](./383398-the-criminal.json) |
@@ -2831,6 +2840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Eratus: Dragonlord | 167268 | [167268-the-legend-of-eratus-dragonlord.json](./167268-the-legend-of-eratus-dragonlord.json) |
 | The Legend of Excalipurr | 28892 | [28892-the-legend-of-excalipurr.json](./28892-the-legend-of-excalipurr.json) |
 | The Legend of Fidex | 145606 | [145606-the-legend-of-fidex.json](./145606-the-legend-of-fidex.json) |
+| The Legend of Fireball | 408921 | [408921-the-legend-of-fireball.json](./408921-the-legend-of-fireball.json) |
 | The Legend of Fjarri | 153369 | [153369-the-legend-of-fjarri.json](./153369-the-legend-of-fjarri.json) |
 | The Legend of GEML: Awakening | 307589 | [307589-the-legend-of-geml-awakening.json](./307589-the-legend-of-geml-awakening.json) |
 | The Legend of Gwen | 223177 | [223177-the-legend-of-gwen.json](./223177-the-legend-of-gwen.json) |
@@ -4046,6 +4056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tiger T | 210668 | [210668-the-tiger-t.json](./210668-the-tiger-t.json) |
 | The Tiny Bang Story HD | 100154 | [100154-the-tiny-bang-story-hd.json](./100154-the-tiny-bang-story-hd.json) |
 | The Tiny Tale 2 | 35975 | [35975-the-tiny-tale-2.json](./35975-the-tiny-tale-2.json) |
+| The Tolerance Group | 408940 | [408940-the-tolerance-group.json](./408940-the-tolerance-group.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
 | The Tomorrow Corporation Collection | 124784 | [124784-the-tomorrow-corporation-collection.json](./124784-the-tomorrow-corporation-collection.json) |
 | The Tour | 179178 | [179178-the-tour.json](./179178-the-tour.json) |
@@ -5765,7 +5776,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell: Pandora Tomorrow | 874 | [874-tom-clancys-splinter-cell-pandora-tomorrow.json](./874-tom-clancys-splinter-cell-pandora-tomorrow.json) |
 | Tom Clancy's SSN | 57686 | [57686-tom-clancys-ssn.json](./57686-tom-clancys-ssn.json) |
 | Tom Clancy’s The Division - Definitive Edition | 394852 | [394852-tom-clancy-s-the-division-definitive-edition.json](./394852-tom-clancy-s-the-division-definitive-edition.json) |
+| Tom Clancy's The Division 2: Fang Pack | 408900 | [408900-tom-clancys-the-division-2-fang-pack.json](./408900-tom-clancys-the-division-2-fang-pack.json) |
 | Tom Clancy's The Division 2: Gold Steelbook Edition | 79862 | [79862-tom-clancys-the-division-2-gold-steelbook-edition.json](./79862-tom-clancys-the-division-2-gold-steelbook-edition.json) |
+| Tom Clancy’s The Division 2: Into the Dark Bundle | 408897 | [408897-tom-clancy-s-the-division-2-into-the-dark-bundle.json](./408897-tom-clancy-s-the-division-2-into-the-dark-bundle.json) |
+| Tom Clancy’s The Division 2: Shady Pack | 408898 | [408898-tom-clancy-s-the-division-2-shady-pack.json](./408898-tom-clancy-s-the-division-2-shady-pack.json) |
 | Tom Clancy's The Division 2: Warlord of New York - Season 1: Shadow Tide | 217527 | [217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json](./217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json) |
 | Tom Clancy's The Division 2: Warlords of New York | 129847 | [129847-tom-clancys-the-division-2-warlords-of-new-york.json](./129847-tom-clancys-the-division-2-warlords-of-new-york.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 10: Price of Power | 217537 | [217537-tom-clancys-the-division-2-warlords-of-new-york-season-10-price-of-power.json](./217537-tom-clancys-the-division-2-warlords-of-new-york-season-10-price-of-power.json) |
