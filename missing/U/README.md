@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubu | 356618 | [356618-ubu.json](./356618-ubu.json) |
 | UBV Volley 2011 | 87225 | [87225-ubv-volley-2011.json](./87225-ubv-volley-2011.json) |
 | UC Love | 238218 | [238218-uc-love.json](./238218-uc-love.json) |
+| Uchi No Heya! | 403050 | [403050-uchi-no-heya.json](./403050-uchi-no-heya.json) |
 | Uchi Tore: Saitan 4-fun Kin Tore & Yuusansou Undou | 276469 | [276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json](./276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json) |
 | Uchu Mega Fight | 196791 | [196791-uchu-mega-fight.json](./196791-uchu-mega-fight.json) |
 | Ucieczka | 398338 | [398338-ucieczka.json](./398338-ucieczka.json) |
@@ -210,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra SCSIcide | 40732 | [40732-ultra-scsicide.json](./40732-ultra-scsicide.json) |
 | Ultra Violet | 150057 | [150057-ultra-violet.json](./150057-ultra-violet.json) |
 | Ultra Vleurette | 267356 | [267356-ultra-vleurette.json](./267356-ultra-vleurette.json) |
+| Ultra Void | 402985 | [402985-ultra-void.json](./402985-ultra-void.json) |
 | Ultra Vortek | 40822 | [40822-ultra-vortek.json](./40822-ultra-vortek.json) |
 | Ultra0 | 391033 | [391033-ultra0.json](./391033-ultra0.json) |
 | Ultrabox | 267943 | [267943-ultrabox.json](./267943-ultrabox.json) |
