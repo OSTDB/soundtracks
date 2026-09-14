@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariposa and the Galaxy Man | 191904 | [191904-mariposa-and-the-galaxy-man.json](./191904-mariposa-and-the-galaxy-man.json) |
 | Marisa's Marvelous Magic Shop | 126940 | [126940-marisas-marvelous-magic-shop.json](./126940-marisas-marvelous-magic-shop.json) |
 | Mark My Words | 360016 | [360016-mark-my-words.json](./360016-mark-my-words.json) |
+| Mark of the Deep: Deluxe Edition | 402957 | [402957-mark-of-the-deep-deluxe-edition.json](./402957-mark-of-the-deep-deluxe-edition.json) |
 | Mark of the Ninja: Remastered | 94969 | [94969-mark-of-the-ninja-remastered.json](./94969-mark-of-the-ninja-remastered.json) |
 | Mark the Headless Chicken | 391616 | [391616-mark-the-headless-chicken.json](./391616-mark-the-headless-chicken.json) |
 | Mark-I: Mission Pilot | 156632 | [156632-mark-i-mission-pilot.json](./156632-mark-i-mission-pilot.json) |
@@ -1207,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match 3 Fantasy | 197389 | [197389-match-3-fantasy.json](./197389-match-3-fantasy.json) |
 | Match 3 Revolution | 34498 | [34498-match-3-revolution.json](./34498-match-3-revolution.json) |
 | Match it | 337989 | [337989-match-it.json](./337989-match-it.json) |
+| Match It | 402993 | [402993-match-it.json](./402993-match-it.json) |
 | Match It Fast | 104091 | [104091-match-it-fast.json](./104091-match-it-fast.json) |
 | Match It Sexy | 260383 | [260383-match-it-sexy.json](./260383-match-it-sexy.json) |
 | Match Kill Survive | 309679 | [309679-match-kill-survive.json](./309679-match-kill-survive.json) |
@@ -3482,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Memory | 247498 | [247498-monster-memory.json](./247498-monster-memory.json) |
 | Monster Menu: The Scavenger's Cookbook | 216579 | [216579-monster-menu-the-scavengers-cookbook.json](./216579-monster-menu-the-scavengers-cookbook.json) |
 | Monster Merchant | 370669 | [370669-monster-merchant.json](./370669-monster-merchant.json) |
+| Monster Mercs | 402979 | [402979-monster-mercs.json](./402979-monster-mercs.json) |
 | Monster Milktruck! | 145670 | [145670-monster-milktruck.json](./145670-monster-milktruck.json) |
 | Monster Mind | 137004 | [137004-monster-mind.json](./137004-monster-mind.json) |
 | Monster Mingle | 23222 | [23222-monster-mingle.json](./23222-monster-mingle.json) |
@@ -3929,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
+| Motorcycle Girl | 402984 | [402984-motorcycle-girl.json](./402984-motorcycle-girl.json) |
 | Motorcycle Mechanic Simulator 2021 | 142478 | [142478-motorcycle-mechanic-simulator-2021.json](./142478-motorcycle-mechanic-simulator-2021.json) |
 | Motorcycle Racing VR | 226725 | [226725-motorcycle-racing-vr.json](./226725-motorcycle-racing-vr.json) |
 | Motorcycle RPG | 196815 | [196815-motorcycle-rpg.json](./196815-motorcycle-rpg.json) |
@@ -4505,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lewd Adventure | 341350 | [341350-my-lewd-adventure.json](./341350-my-lewd-adventure.json) |
 | My Liege | 289317 | [289317-my-liege.json](./289317-my-liege.json) |
 | My Life Changed | 165708 | [165708-my-life-changed.json](./165708-my-life-changed.json) |
+| My Life in a Monster Girl Paradise | 403025 | [403025-my-life-in-a-monster-girl-paradise.json](./403025-my-life-in-a-monster-girl-paradise.json) |
 | My Life: Pet Vet | 220875 | [220875-my-life-pet-vet.json](./220875-my-life-pet-vet.json) |
 | My Lil' Donut | 31971 | [31971-my-lil-donut.json](./31971-my-lil-donut.json) |
 | My Little Cemetery | 294173 | [294173-my-little-cemetery.json](./294173-my-little-cemetery.json) |
