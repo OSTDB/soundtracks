@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T11:51:33.732Z",
-  "total_missing": 69683,
+  "generated_at": "2026-09-14T12:01:36.321Z",
+  "total_missing": 69696,
   "games": [
     {
       "igdb_id": 306086,
@@ -4386,11 +4386,6 @@
       "igdb_id": 66066,
       "game_name": "Adventures in Odyssey! The Sword of the Spirit",
       "file": "missing/A/66066-adventures-in-odyssey-the-sword-of-the-spirit.json"
-    },
-    {
-      "igdb_id": 23739,
-      "game_name": "Adventures in the Galaxy of Fantabulous Wonderment",
-      "file": "missing/A/23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json"
     },
     {
       "igdb_id": 8130,
@@ -42681,6 +42676,11 @@
       "igdb_id": 237635,
       "game_name": "Callbreak League",
       "file": "missing/C/237635-callbreak-league.json"
+    },
+    {
+      "igdb_id": 403030,
+      "game_name": "Calling",
+      "file": "missing/C/403030-calling.json"
     },
     {
       "igdb_id": 173248,
@@ -105283,6 +105283,11 @@
       "file": "missing/F/383943-fortnite-festival-season-1.json"
     },
     {
+      "igdb_id": 403035,
+      "game_name": "Fortnite Festival: Season 14",
+      "file": "missing/F/403035-fortnite-festival-season-14.json"
+    },
+    {
       "igdb_id": 299445,
       "game_name": "Fortnite Festival: Season 3",
       "file": "missing/F/299445-fortnite-festival-season-3.json"
@@ -124516,6 +124521,11 @@
       "igdb_id": 229054,
       "game_name": "Hat Tricks: Hare in Box",
       "file": "missing/H/229054-hat-tricks-hare-in-box.json"
+    },
+    {
+      "igdb_id": 403040,
+      "game_name": "Hatate-chan no Joshi Ryoku Training!",
+      "file": "missing/H/403040-hatate-chan-no-joshi-ryoku-training.json"
     },
     {
       "igdb_id": 40175,
@@ -146258,6 +146268,11 @@
       "file": "missing/J/82781-jk-resistance-dark-side.json"
     },
     {
+      "igdb_id": 403045,
+      "game_name": "JKRobots",
+      "file": "missing/J/403045-jkrobots.json"
+    },
+    {
       "igdb_id": 164969,
       "game_name": "JMPR",
       "file": "missing/J/164969-jmpr.json"
@@ -150028,6 +150043,11 @@
       "file": "missing/K/408763-kaze-no-keishousha.json"
     },
     {
+      "igdb_id": 403039,
+      "game_name": "Kaze no Tayori 2",
+      "file": "missing/K/403039-kaze-no-tayori-2.json"
+    },
+    {
       "igdb_id": 340786,
       "game_name": "Kazekao",
       "file": "missing/K/340786-kazekao.json"
@@ -152546,6 +152566,11 @@
       "igdb_id": 309356,
       "game_name": "Kioku Hanabi",
       "file": "missing/K/309356-kioku-hanabi.json"
+    },
+    {
+      "igdb_id": 403043,
+      "game_name": "Kipi Oppi",
+      "file": "missing/K/403043-kipi-oppi.json"
     },
     {
       "igdb_id": 337455,
@@ -218358,6 +218383,11 @@
       "file": "missing/P/323177-pokemon-go-dual-destiny.json"
     },
     {
+      "igdb_id": 403036,
+      "game_name": "Pokémon Go: Forever Forward",
+      "file": "missing/P/403036-pokemon-go-forever-forward.json"
+    },
+    {
       "igdb_id": 316620,
       "game_name": "Pokémon Go: Max Out",
       "file": "missing/P/316620-pokemon-go-max-out.json"
@@ -226066,6 +226096,16 @@
       "igdb_id": 174366,
       "game_name": "Puzzle Pests",
       "file": "missing/P/174366-puzzle-pests.json"
+    },
+    {
+      "igdb_id": 403041,
+      "game_name": "Puzzle Photographer",
+      "file": "missing/P/403041-puzzle-photographer.json"
+    },
+    {
+      "igdb_id": 403044,
+      "game_name": "Puzzle Photographer 2: Fairy Vacation",
+      "file": "missing/P/403044-puzzle-photographer-2-fairy-vacation.json"
     },
     {
       "igdb_id": 70416,
@@ -289073,6 +289113,11 @@
       "file": "missing/T/71530-tengai-makyou-fuun-kabuki-den.json"
     },
     {
+      "igdb_id": 403038,
+      "game_name": "Tengu Halloween",
+      "file": "missing/T/403038-tengu-halloween.json"
+    },
+    {
       "igdb_id": 342037,
       "game_name": "Tengu no Kassha: Shoot and Embodiment!",
       "file": "missing/T/342037-tengu-no-kassha-shoot-and-embodiment.json"
@@ -307698,6 +307743,11 @@
       "file": "missing/T/169462-this-rain-will-never-end.json"
     },
     {
+      "igdb_id": 403029,
+      "game_name": "This Short Indie Game Made Me Miss My Friends: Rainy Plays Lonely Game Livestream",
+      "file": "missing/T/403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json"
+    },
+    {
       "igdb_id": 214162,
       "game_name": "This Thing of Ours",
       "file": "missing/T/214162-this-thing-of-ours.json"
@@ -322553,6 +322603,11 @@
       "file": "missing/U/238218-uc-love.json"
     },
     {
+      "igdb_id": 403050,
+      "game_name": "Uchi No Heya!",
+      "file": "missing/U/403050-uchi-no-heya.json"
+    },
+    {
       "igdb_id": 276469,
       "game_name": "Uchi Tore: Saitan 4-fun Kin Tore & Yuusansou Undou",
       "file": "missing/U/276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json"
@@ -327591,6 +327646,11 @@
       "igdb_id": 221718,
       "game_name": "Vanilla: Made to Order",
       "file": "missing/V/221718-vanilla-made-to-order.json"
+    },
+    {
+      "igdb_id": 403042,
+      "game_name": "Vanished Maiden",
+      "file": "missing/V/403042-vanished-maiden.json"
     },
     {
       "igdb_id": 18694,
@@ -334971,6 +335031,11 @@
       "igdb_id": 132264,
       "game_name": "Welcome To Chichester OVN 3: The Mysterious Affair at the Violet Hotel",
       "file": "missing/W/132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json"
+    },
+    {
+      "igdb_id": 403033,
+      "game_name": "Welcome to Elite Cafe",
+      "file": "missing/W/403033-welcome-to-elite-cafe.json"
     },
     {
       "igdb_id": 150624,
