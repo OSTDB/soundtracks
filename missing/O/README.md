@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
 | Oshirikko Venus | 194580 | [194580-oshirikko-venus.json](./194580-oshirikko-venus.json) |
 | Oshirikko Venus 2 | 194581 | [194581-oshirikko-venus-2.json](./194581-oshirikko-venus-2.json) |
+| Osman Ghazi: Ottoman Rising | 382297 | [382297-osman-ghazi-ottoman-rising.json](./382297-osman-ghazi-ottoman-rising.json) |
 | Osminog Adventures: The Lost Island | 222909 | [222909-osminog-adventures-the-lost-island.json](./222909-osminog-adventures-the-lost-island.json) |
 | Osmo Coding Jam | 100164 | [100164-osmo-coding-jam.json](./100164-osmo-coding-jam.json) |
 | Osmo Monster | 104667 | [104667-osmo-monster.json](./104667-osmo-monster.json) |
