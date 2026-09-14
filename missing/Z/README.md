@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombasite | 20460 | [20460-zombasite.json](./20460-zombasite.json) |
 | Zombeat | 79946 | [79946-zombeat.json](./79946-zombeat.json) |
 | Zombeer: Delivery Mission | 159824 | [159824-zombeer-delivery-mission.json](./159824-zombeer-delivery-mission.json) |
+| Zombeo and Vampireta | 399696 | [399696-zombeo-and-vampireta.json](./399696-zombeo-and-vampireta.json) |
 | Zombi Rockstar | 245844 | [245844-zombi-rockstar.json](./245844-zombi-rockstar.json) |
 | Zombidle | 70384 | [70384-zombidle.json](./70384-zombidle.json) |
 | Zombie Accountant | 66159 | [66159-zombie-accountant.json](./66159-zombie-accountant.json) |
