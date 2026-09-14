@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Dogs: To Each His Own - Hero of the Nation | 171618 | [171618-sea-dogs-to-each-his-own-hero-of-the-nation.json](./171618-sea-dogs-to-each-his-own-hero-of-the-nation.json) |
 | Sea Fishing Simulator | 129741 | [129741-sea-fishing-simulator.json](./129741-sea-fishing-simulator.json) |
 | Sea Hawk | 23911 | [23911-sea-hawk.json](./23911-sea-hawk.json) |
+| Sea Hunter Idle | 399703 | [399703-sea-hunter-idle.json](./399703-sea-hunter-idle.json) |
 | Sea Legends | 146227 | [146227-sea-legends.json](./146227-sea-legends.json) |
 | Sea Legends | 293633 | [293633-sea-legends.json](./293633-sea-legends.json) |
 | Sea Monster Attacks Hunter | 176446 | [176446-sea-monster-attacks-hunter.json](./176446-sea-monster-attacks-hunter.json) |
@@ -1152,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeker | 114385 | [114385-seeker.json](./114385-seeker.json) |
 | Seeker Eye | 413757 | [413757-seeker-eye.json](./413757-seeker-eye.json) |
 | Seeker of the Ruins | 331304 | [331304-seeker-of-the-ruins.json](./331304-seeker-of-the-ruins.json) |
+| Seeker Shrine | 399735 | [399735-seeker-shrine.json](./399735-seeker-shrine.json) |
 | Seekers Aeterna | 217339 | [217339-seekers-aeterna.json](./217339-seekers-aeterna.json) |
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
 | Seeking Asylum: The Game | 390522 | [390522-seeking-asylum-the-game.json](./390522-seeking-asylum-the-game.json) |
@@ -2379,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Authority: Blood & Bourbon | 415876 | [415876-silent-authority-blood-and-bourbon.json](./415876-silent-authority-blood-and-bourbon.json) |
 | Silent Breath | 287462 | [287462-silent-breath.json](./287462-silent-breath.json) |
 | Silent Castle | 212491 | [212491-silent-castle.json](./212491-silent-castle.json) |
+| Silent Castle | 399717 | [399717-silent-castle.json](./399717-silent-castle.json) |
 | Silent Escape: Induction | 127945 | [127945-silent-escape-induction.json](./127945-silent-escape-induction.json) |
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
 | Silent Frontiers | 304606 | [304606-silent-frontiers.json](./304606-silent-frontiers.json) |
@@ -2668,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SinsFromGod | 139422 | [139422-sinsfromgod.json](./139422-sinsfromgod.json) |
 | Sintropia Fruits Together | 388053 | [388053-sintropia-fruits-together.json](./388053-sintropia-fruits-together.json) |
 | Sionan | 230260 | [230260-sionan.json](./230260-sionan.json) |
+| Sionic Love | 399711 | [399711-sionic-love.json](./399711-sionic-love.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
 | Sir Fallen: Supporter Pack | 312008 | [312008-sir-fallen-supporter-pack.json](./312008-sir-fallen-supporter-pack.json) |
@@ -2964,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam City with Scottie Pippen | 298559 | [298559-slam-city-with-scottie-pippen.json](./298559-slam-city-with-scottie-pippen.json) |
 | Slam Dunk | 92986 | [92986-slam-dunk.json](./92986-slam-dunk.json) |
 | Slam Dunk - The best basketball game 2018 | 106631 | [106631-slam-dunk-the-best-basketball-game-2018.json](./106631-slam-dunk-the-best-basketball-game-2018.json) |
+| Slam Poets | 399698 | [399698-slam-poets.json](./399698-slam-poets.json) |
 | Slam Tilt | 70944 | [70944-slam-tilt.json](./70944-slam-tilt.json) |
 | Slam! | 94696 | [94696-slam.json](./94696-slam.json) |
 | Slammer Caps Xtreme | 358854 | [358854-slammer-caps-xtreme.json](./358854-slammer-caps-xtreme.json) |
@@ -3186,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slots of Poker at Aces Casino | 147974 | [147974-slots-of-poker-at-aces-casino.json](./147974-slots-of-poker-at-aces-casino.json) |
 | Slots of the Season | 147975 | [147975-slots-of-the-season.json](./147975-slots-of-the-season.json) |
 | Slots Royale: 777 Casino Games | 231072 | [231072-slots-royale-777-casino-games.json](./231072-slots-royale-777-casino-games.json) |
+| SlotsNStocks | 399718 | [399718-slotsnstocks.json](./399718-slotsnstocks.json) |
 | Slotter Mania 8 | 78653 | [78653-slotter-mania-8.json](./78653-slotter-mania-8.json) |
 | Slotter Mania P: Tetsuya Shinjuku vs Ueno | 62738 | [62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json](./62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json) |
 | Slotter Up Core 7: Dekitou da! Street Fighter II | 55060 | [55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json](./55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json) |
@@ -3699,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokobear: Spring | 219592 | [219592-sokobear-spring.json](./219592-sokobear-spring.json) |
 | Sokobot | 189150 | [189150-sokobot.json](./189150-sokobot.json) |
 | Sokocat - Islands | 147449 | [147449-sokocat-islands.json](./147449-sokocat-islands.json) |
+| Sokocat: Castaway | 399689 | [399689-sokocat-castaway.json](./399689-sokocat-castaway.json) |
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
@@ -3864,6 +3871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Synergy | 210883 | [210883-some-synergy.json](./210883-some-synergy.json) |
 | Someday | 120923 | [120923-someday.json](./120923-someday.json) |
 | Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
+| Someone’s Ghost Photos | 399721 | [399721-someone-s-ghost-photos.json](./399721-someone-s-ghost-photos.json) |
 | Someone's Here | 410921 | [410921-someones-here.json](./410921-someones-here.json) |
 | Someplace Else | 136387 | [136387-someplace-else.json](./136387-someplace-else.json) |
 | Something Dark Beyond The Light | 353871 | [353871-something-dark-beyond-the-light.json](./353871-something-dark-beyond-the-light.json) |
@@ -7047,6 +7055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chroma Bots: Season One | 283682 | [283682-super-chroma-bots-season-one.json](./283682-super-chroma-bots-season-one.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
 | Super Chuckie Egg | 96709 | [96709-super-chuckie-egg.json](./96709-super-chuckie-egg.json) |
+| Super City | 399730 | [399730-super-city.json](./399730-super-city.json) |
 | Super Clash Crossover | 120413 | [120413-super-clash-crossover.json](./120413-super-clash-crossover.json) |
 | Super Climb Up!! | 377053 | [377053-super-climb-up.json](./377053-super-climb-up.json) |
 | Super Cloudbuilt | 27396 | [27396-super-cloudbuilt.json](./27396-super-cloudbuilt.json) |
@@ -8075,6 +8084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetheart | 415166 | [415166-sweetheart.json](./415166-sweetheart.json) |
 | Sweetie Candy Maze: Blackberry | 412383 | [412383-sweetie-candy-maze-blackberry.json](./412383-sweetie-candy-maze-blackberry.json) |
 | Sweetie Candy Maze: Brown Chocolate | 398322 | [398322-sweetie-candy-maze-brown-chocolate.json](./398322-sweetie-candy-maze-brown-chocolate.json) |
+| Sweetie Candy Maze: Lime | 399728 | [399728-sweetie-candy-maze-lime.json](./399728-sweetie-candy-maze-lime.json) |
 | Sweetie Candy Maze: Violet Plum | 406218 | [406218-sweetie-candy-maze-violet-plum.json](./406218-sweetie-candy-maze-violet-plum.json) |
 | Sweets and Swipes | 259555 | [259555-sweets-and-swipes.json](./259555-sweets-and-swipes.json) |
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
