@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
 | Electron Handsome Boy | 201312 | [201312-electron-handsome-boy.json](./201312-electron-handsome-boy.json) |
+| Electronauts | 81056 | [81056-electronauts.json](./81056-electronauts.json) |
 | Electronia | 55918 | [55918-electronia.json](./55918-electronia.json) |
 | Electronic Shop Simulator | 344354 | [344354-electronic-shop-simulator.json](./344354-electronic-shop-simulator.json) |
 | Electronic World Z | 150698 | [150698-electronic-world-z.json](./150698-electronic-world-z.json) |
@@ -1087,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
 | Escape DuckZ! | 329019 | [329019-escape-duckz.json](./329019-escape-duckz.json) |
 | Escape Evolution | 179180 | [179180-escape-evolution.json](./179180-escape-evolution.json) |
+| Escape Expert | 81116 | [81116-escape-expert.json](./81116-escape-expert.json) |
 | Escape First | 97243 | [97243-escape-first.json](./97243-escape-first.json) |
 | Escape First 3 | 131778 | [131778-escape-first-3.json](./131778-escape-first-3.json) |
 | Escape from 1927 | 240498 | [240498-escape-from-1927.json](./240498-escape-from-1927.json) |
@@ -1205,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eschalism | 385574 | [385574-eschalism.json](./385574-eschalism.json) |
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
 | Escort Alia | 241363 | [241363-escort-alia.json](./241363-escort-alia.json) |
+| Escort Commander | 80998 | [80998-escort-commander.json](./80998-escort-commander.json) |
 | Eskimo Games | 80527 | [80527-eskimo-games.json](./80527-eskimo-games.json) |
 | Eslander | 120993 | [120993-eslander.json](./120993-eslander.json) |
 | EsoTarot VR | 236270 | [236270-esotarot-vr.json](./236270-esotarot-vr.json) |
@@ -1235,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Sunday Night NFL | 5382 | [5382-espn-sunday-night-nfl.json](./5382-espn-sunday-night-nfl.json) |
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
 | Esport Club Tycoon | 197370 | [197370-esport-club-tycoon.json](./197370-esport-club-tycoon.json) |
+| ESport Manager | 81150 | [81150-esport-manager.json](./81150-esport-manager.json) |
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
 | Essence Hunt | 177512 | [177512-essence-hunt.json](./177512-essence-hunt.json) |
 | Essence of Waluigi | 250044 | [250044-essence-of-waluigi.json](./250044-essence-of-waluigi.json) |
@@ -1684,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explode on Contact | 148546 | [148546-explode-on-contact.json](./148546-explode-on-contact.json) |
 | Exploding Fist | 48584 | [48584-exploding-fist.json](./48584-exploding-fist.json) |
 | Exploding Kittens | 88938 | [88938-exploding-kittens.json](./88938-exploding-kittens.json) |
+| Explomania | 81033 | [81033-explomania.json](./81033-explomania.json) |
 | Explore Jam 1 | 275319 | [275319-explore-jam-1.json](./275319-explore-jam-1.json) |
 | Explore Jam 2 | 275322 | [275322-explore-jam-2.json](./275322-explore-jam-2.json) |
 | Explore Jam 3 | 275318 | [275318-explore-jam-3.json](./275318-explore-jam-3.json) |
