@@ -2286,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Dash Deluxe | 96724 | [96724-hotel-dash-deluxe.json](./96724-hotel-dash-deluxe.json) |
 | Hotel Dash Suite Success | 16171 | [16171-hotel-dash-suite-success.json](./16171-hotel-dash-suite-success.json) |
 | Hotel Detective | 71468 | [71468-hotel-detective.json](./71468-hotel-detective.json) |
+| Hotel Empire: Check Inn | 413097 | [413097-hotel-empire-check-inn.json](./413097-hotel-empire-check-inn.json) |
 | Hotel for Dogs | 21256 | [21256-hotel-for-dogs.json](./21256-hotel-for-dogs.json) |
 | Hotel Giant: Edition 2012 | 53200 | [53200-hotel-giant-edition-2012.json](./53200-hotel-giant-edition-2012.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
