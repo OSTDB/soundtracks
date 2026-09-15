@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T02:31:43.047Z",
-  "total_missing": 72105,
+  "generated_at": "2026-09-15T02:41:42.709Z",
+  "total_missing": 72110,
   "games": [
     {
       "igdb_id": 306086,
@@ -4931,11 +4931,6 @@
       "igdb_id": 270142,
       "game_name": "Aethus",
       "file": "missing/A/270142-aethus.json"
-    },
-    {
-      "igdb_id": 142476,
-      "game_name": "Aethyr",
-      "file": "missing/A/142476-aethyr.json"
     },
     {
       "igdb_id": 83540,
@@ -72438,6 +72433,11 @@
       "file": "missing/D/214509-dehoarder-2.json"
     },
     {
+      "igdb_id": 374723,
+      "game_name": "Dehydration",
+      "file": "missing/D/374723-dehydration.json"
+    },
+    {
       "igdb_id": 382280,
       "game_name": "Deimos Hotel",
       "file": "missing/D/382280-deimos-hotel.json"
@@ -92421,6 +92421,11 @@
       "igdb_id": 188671,
       "game_name": "Entropy: Zero 2",
       "file": "missing/E/188671-entropy-zero-2.json"
+    },
+    {
+      "igdb_id": 374724,
+      "game_name": "EnvironmentZ",
+      "file": "missing/E/374724-environmentz.json"
     },
     {
       "igdb_id": 105309,
@@ -170138,6 +170143,11 @@
       "file": "missing/L/108989-lost-wage-rampage.json"
     },
     {
+      "igdb_id": 374721,
+      "game_name": "Lost Wiki: Kozlovka",
+      "file": "missing/L/374721-lost-wiki-kozlovka.json"
+    },
+    {
       "igdb_id": 395555,
       "game_name": "Lost Zion",
       "file": "missing/L/395555-lost-zion.json"
@@ -206231,6 +206241,11 @@
       "igdb_id": 52645,
       "game_name": "Nutjitsu: Reforged",
       "file": "missing/N/52645-nutjitsu-reforged.json"
+    },
+    {
+      "igdb_id": 374725,
+      "game_name": "NutritionZ",
+      "file": "missing/N/374725-nutritionz.json"
     },
     {
       "igdb_id": 299170,
@@ -292318,6 +292333,11 @@
       "file": "missing/S/280060-swarm-2.json"
     },
     {
+      "igdb_id": 374722,
+      "game_name": "Swarm Me",
+      "file": "missing/S/374722-swarm-me.json"
+    },
+    {
       "igdb_id": 68837,
       "game_name": "Swarm Queen",
       "file": "missing/S/68837-swarm-queen.json"
@@ -342896,6 +342916,11 @@
       "igdb_id": 338557,
       "game_name": "Vythzkel of City Dinasty",
       "file": "missing/V/338557-vythzkel-of-city-dinasty.json"
+    },
+    {
+      "igdb_id": 374717,
+      "game_name": "Vyzyvatel",
+      "file": "missing/V/374717-vyzyvatel.json"
     },
     {
       "igdb_id": 125428,
