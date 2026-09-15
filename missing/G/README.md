@@ -892,6 +892,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostly Simulator: Your Neighboring Ghost Story Collection | 407411 | [407411-ghostly-simulator-your-neighboring-ghost-story-collection.json](./407411-ghostly-simulator-your-neighboring-ghost-story-collection.json) |
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
 | Ghostrunner II | 250617 | [250617-ghostrunner-ii.json](./250617-ghostrunner-ii.json) |
+| Ghostrunner II: Anniversary Pack | 371319 | [371319-ghostrunner-ii-anniversary-pack.json](./371319-ghostrunner-ii-anniversary-pack.json) |
+| Ghostrunner II: Endless Moto Mode | 371318 | [371318-ghostrunner-ii-endless-moto-mode.json](./371318-ghostrunner-ii-endless-moto-mode.json) |
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
