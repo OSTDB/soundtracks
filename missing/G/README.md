@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambler Jiko Chuushinha | 64340 | [64340-gambler-jiko-chuushinha.json](./64340-gambler-jiko-chuushinha.json) |
 | Gambler Jiko Chuushinha 2 | 267650 | [267650-gambler-jiko-chuushinha-2.json](./267650-gambler-jiko-chuushinha-2.json) |
 | Gambler: Queen's Cup | 360589 | [360589-gambler-queens-cup.json](./360589-gambler-queens-cup.json) |
+| Gambler’s Loop | 348862 | [348862-gambler-s-loop.json](./348862-gambler-s-loop.json) |
 | Game | 346610 | [346610-game.json](./346610-game.json) |
 | Game & Watch Donkey Kong Jr | 339261 | [339261-game-and-watch-donkey-kong-jr.json](./339261-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Donkey Kong Jr. | 206932 | [206932-game-and-watch-donkey-kong-jr.json](./206932-game-and-watch-donkey-kong-jr.json) |
@@ -479,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gastova: The Witches of Arkana | 130955 | [130955-gastova-the-witches-of-arkana.json](./130955-gastova-the-witches-of-arkana.json) |
 | Gastronomie | 220319 | [220319-gastronomie.json](./220319-gastronomie.json) |
 | Gasu: The Hugging Dragon | 177486 | [177486-gasu-the-hugging-dragon.json](./177486-gasu-the-hugging-dragon.json) |
+| Gat Rat | 348830 | [348830-gat-rat.json](./348830-gat-rat.json) |
 | Gatari: Sand on Teeth | 78584 | [78584-gatari-sand-on-teeth.json](./78584-gatari-sand-on-teeth.json) |
 | Gate 88 | 77982 | [77982-gate-88.json](./77982-gate-88.json) |
 | Gate Builders | 197414 | [197414-gate-builders.json](./197414-gate-builders.json) |
@@ -1866,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Gunners | 219805 | [219805-grapple-gunners.json](./219805-grapple-gunners.json) |
 | Grapple the Abyss! | 182974 | [182974-grapple-the-abyss.json](./182974-grapple-the-abyss.json) |
 | Grapple Whip | 120360 | [120360-grapple-whip.json](./120360-grapple-whip.json) |
+| Grappling Bagel | 348870 | [348870-grappling-bagel.json](./348870-grappling-bagel.json) |
 | Grappling Hook | 21106 | [21106-grappling-hook.json](./21106-grappling-hook.json) |
 | Grashers | 124247 | [124247-grashers.json](./124247-grashers.json) |
 | Grass Life Sim | 328450 | [328450-grass-life-sim.json](./328450-grass-life-sim.json) |
@@ -1986,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great North Shelter 2 | 238491 | [238491-great-north-shelter-2.json](./238491-great-north-shelter-2.json) |
 | Great Old One - Arrival | 105303 | [105303-great-old-one-arrival.json](./105303-great-old-one-arrival.json) |
 | Great Paintings VR | 156103 | [156103-great-paintings-vr.json](./156103-great-paintings-vr.json) |
+| Great Personality: Guardians | 348841 | [348841-great-personality-guardians.json](./348841-great-personality-guardians.json) |
 | Great Powers | 291482 | [291482-great-powers.json](./291482-great-powers.json) |
 | Great Time Trio Remake | 306684 | [306684-great-time-trio-remake.json](./306684-great-time-trio-remake.json) |
 | Great Toilet Simulator | 222289 | [222289-great-toilet-simulator.json](./222289-great-toilet-simulator.json) |
@@ -2005,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Guns | 40556 | [40556-greedy-guns.json](./40556-greedy-guns.json) |
 | Greedy Maze | 136459 | [136459-greedy-maze.json](./136459-greedy-maze.json) |
 | Greedy Penguins | 20715 | [20715-greedy-penguins.json](./20715-greedy-penguins.json) |
+| Greedy Squad | 348856 | [348856-greedy-squad.json](./348856-greedy-squad.json) |
 | GreedyCraft | 204701 | [204701-greedycraft.json](./204701-greedycraft.json) |
 | Green Day Revenge | 66074 | [66074-green-day-revenge.json](./66074-green-day-revenge.json) |
 | Green Eyed Monster | 184034 | [184034-green-eyed-monster.json](./184034-green-eyed-monster.json) |
