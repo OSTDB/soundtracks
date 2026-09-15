@@ -3534,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom Universe | 18180 | [18180-atom-universe.json](./18180-atom-universe.json) |
 | Atom-X | 111755 | [111755-atom-x.json](./111755-atom-x.json) |
 | Atomaders | 94264 | [94264-atomaders.json](./94264-atomaders.json) |
+| Atomfall: Wicked Isle | 344476 | [344476-atomfall-wicked-isle.json](./344476-atomfall-wicked-isle.json) |
 | AtomHex | 67943 | [67943-atomhex.json](./67943-atomhex.json) |
 | Atomic 79 | 30119 | [30119-atomic-79.json](./30119-atomic-79.json) |
 | Atomic Bomber | 96671 | [96671-atomic-bomber.json](./96671-atomic-bomber.json) |
