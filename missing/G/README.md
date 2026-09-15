@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: The Game | 8731 | [8731-godzilla-the-game.json](./8731-godzilla-the-game.json) |
 | Godzilla: The Series | 75893 | [75893-godzilla-the-series.json](./75893-godzilla-the-series.json) |
 | Goemon: Mononoke Sugoroku | 3507 | [3507-goemon-mononoke-sugoroku.json](./3507-goemon-mononoke-sugoroku.json) |
+| Goethe's Last Laugh | 376569 | [376569-goethes-last-laugh.json](./376569-goethes-last-laugh.json) |
 | Goetia: The Infinite Tower | 222511 | [222511-goetia-the-infinite-tower.json](./222511-goetia-the-infinite-tower.json) |
 | GoetiaX | 145665 | [145665-goetiax.json](./145665-goetiax.json) |
 | GoGo Sentai Boukenger Kazu to Katachi wo Oboeyou! | 327590 | [327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json](./327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json) |
