@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Nuit | 261807 | [261807-la-nuit.json](./261807-la-nuit.json) |
 | La Odisea del Fracaso III | 323540 | [323540-la-odisea-del-fracaso-iii.json](./323540-la-odisea-del-fracaso-iii.json) |
 | La pesadilla de Illojuan | 302719 | [302719-la-pesadilla-de-illojuan.json](./302719-la-pesadilla-de-illojuan.json) |
+| La torre de Mario | 374170 | [374170-la-torre-de-mario.json](./374170-la-torre-de-mario.json) |
 | La Ultima Comida | 153427 | [153427-la-ultima-comida.json](./153427-la-ultima-comida.json) |
 | La Vie en Rose | 183071 | [183071-la-vie-en-rose.json](./183071-la-vie-en-rose.json) |
 | La Vie La Rue | 199617 | [199617-la-vie-la-rue.json](./199617-la-vie-la-rue.json) |
@@ -976,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lgnorant girl doll | 114994 | [114994-lgnorant-girl-doll.json](./114994-lgnorant-girl-doll.json) |
 | Lhama Clicker | 236545 | [236545-lhama-clicker.json](./236545-lhama-clicker.json) |
 | Lǐ Shì Qírén Yì Wén Lù | 367402 | [367402-li-shi-qiren-yi-wen-lu.json](./367402-li-shi-qiren-yi-wen-lu.json) |
+| Li Shui | 374138 | [374138-li-shui.json](./374138-li-shui.json) |
 | Li'l Rumble | 284353 | [284353-lil-rumble.json](./284353-lil-rumble.json) |
 | Liam FitzRoy Kills Everyone: The Game Part Zero | 278746 | [278746-liam-fitzroy-kills-everyone-the-game-part-zero.json](./278746-liam-fitzroy-kills-everyone-the-game-part-zero.json) |
 | Liàn yǔ wèi xiē zhī yǔ | 367448 | [367448-lian-yu-wei-xie-zhi-yu.json](./367448-lian-yu-wei-xie-zhi-yu.json) |
@@ -1659,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Mountains: Downhill - Rivera's Revenge | 274479 | [274479-lonely-mountains-downhill-riveras-revenge.json](./274479-lonely-mountains-downhill-riveras-revenge.json) |
 | Lonely Path | 250006 | [250006-lonely-path.json](./250006-lonely-path.json) |
 | Lonely People Potion Shop | 152279 | [152279-lonely-people-potion-shop.json](./152279-lonely-people-potion-shop.json) |
+| Lonely Planet | 374174 | [374174-lonely-planet.json](./374174-lonely-planet.json) |
 | Lonely shooter | 111680 | [111680-lonely-shooter.json](./111680-lonely-shooter.json) |
 | Lonely Sun | 25266 | [25266-lonely-sun.json](./25266-lonely-sun.json) |
 | Lonely Things | 181887 | [181887-lonely-things.json](./181887-lonely-things.json) |
@@ -2093,6 +2096,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Poly Flight Simulator | 411572 | [411572-low-poly-flight-simulator.json](./411572-low-poly-flight-simulator.json) |
 | Low_Signal | 353278 | [353278-low-signal.json](./353278-low-signal.json) |
 | Low-Fi | 125401 | [125401-low-fi.json](./125401-low-fi.json) |
+| Löwenzahn 3: Geschichten aus Natur, Umwelt und Technik | 374188 | [374188-lowenzahn-3-geschichten-aus-natur-umwelt-und-technik.json](./374188-lowenzahn-3-geschichten-aus-natur-umwelt-und-technik.json) |
+| Löwenzahn 4: Geschichten aus Natur, Umwelt und Technik | 374189 | [374189-lowenzahn-4-geschichten-aus-natur-umwelt-und-technik.json](./374189-lowenzahn-4-geschichten-aus-natur-umwelt-und-technik.json) |
+| Löwenzahn 5: Geschichten aus Natur, Umwelt und Technik | 374190 | [374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json](./374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json) |
+| Löwenzahn 6: Geschichten aus Natur, Umwelt und Technik | 374191 | [374191-lowenzahn-6-geschichten-aus-natur-umwelt-und-technik.json](./374191-lowenzahn-6-geschichten-aus-natur-umwelt-und-technik.json) |
+| Löwenzahn 7: Geschichten aus Natur, Umwelt und Technik | 374192 | [374192-lowenzahn-7-geschichten-aus-natur-umwelt-und-technik.json](./374192-lowenzahn-7-geschichten-aus-natur-umwelt-und-technik.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
 | Lowrider Hopping | 287087 | [287087-lowrider-hopping.json](./287087-lowrider-hopping.json) |
@@ -2189,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion | 339799 | [339799-luigis-mansion.json](./339799-luigis-mansion.json) |
 | Luigi's Mansion 3 | 109455 | [109455-luigis-mansion-3.json](./109455-luigis-mansion-3.json) |
 | Luigi's Mansion 3: Multiplayer Pack - Part 2 | 127550 | [127550-luigis-mansion-3-multiplayer-pack-part-2.json](./127550-luigis-mansion-3-multiplayer-pack-part-2.json) |
+| Luigi's Mansion 64.5: Super Player Mode | 374176 | [374176-luigis-mansion-64-5-super-player-mode.json](./374176-luigis-mansion-64-5-super-player-mode.json) |
 | Luigi's Mansion: Extra Tangy | 313113 | [313113-luigis-mansion-extra-tangy.json](./313113-luigis-mansion-extra-tangy.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
