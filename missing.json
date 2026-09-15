@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T12:41:34.440Z",
-  "total_missing": 73848,
+  "generated_at": "2026-09-15T12:48:35.628Z",
+  "total_missing": 73898,
   "games": [
     {
       "igdb_id": 306086,
@@ -37778,6 +37778,11 @@
       "file": "missing/B/214541-boomer.json"
     },
     {
+      "igdb_id": 355616,
+      "game_name": "Boomer Brawler",
+      "file": "missing/B/355616-boomer-brawler.json"
+    },
+    {
       "igdb_id": 297248,
       "game_name": "Boomerang RPG",
       "file": "missing/B/297248-boomerang-rpg.json"
@@ -63331,6 +63336,11 @@
       "igdb_id": 23902,
       "game_name": "Creepy Corridors",
       "file": "missing/C/23902-creepy-corridors.json"
+    },
+    {
+      "igdb_id": 355609,
+      "game_name": "Creepy Dungeons",
+      "file": "missing/C/355609-creepy-dungeons.json"
     },
     {
       "igdb_id": 226744,
@@ -164963,6 +164973,11 @@
       "file": "missing/L/269563-lakeside.json"
     },
     {
+      "igdb_id": 355614,
+      "game_name": "Lakeside Has No Lake!!",
+      "file": "missing/L/355614-lakeside-has-no-lake.json"
+    },
+    {
       "igdb_id": 285477,
       "game_name": "Lakesider: Above and Below",
       "file": "missing/L/285477-lakesider-above-and-below.json"
@@ -177206,6 +177221,11 @@
       "igdb_id": 371352,
       "game_name": "Mage of Tempest Castle",
       "file": "missing/M/371352-mage-of-tempest-castle.json"
+    },
+    {
+      "igdb_id": 355615,
+      "game_name": "Mage Outbreak",
+      "file": "missing/M/355615-mage-outbreak.json"
     },
     {
       "igdb_id": 402284,
@@ -200461,6 +200481,11 @@
       "igdb_id": 388229,
       "game_name": "My Personal Hater",
       "file": "missing/M/388229-my-personal-hater.json"
+    },
+    {
+      "igdb_id": 355617,
+      "game_name": "My Pet Femboy",
+      "file": "missing/M/355617-my-pet-femboy.json"
     },
     {
       "igdb_id": 65470,
@@ -223953,6 +223978,11 @@
       "file": "missing/P/99545-perfect-universe-play-with-gravity.json"
     },
     {
+      "igdb_id": 355619,
+      "game_name": "Perfect Victim",
+      "file": "missing/P/355619-perfect-victim.json"
+    },
+    {
       "igdb_id": 386126,
       "game_name": "Perfect Wedding Solitaire",
       "file": "missing/P/386126-perfect-wedding-solitaire.json"
@@ -230918,6 +230948,201 @@
       "file": "missing/P/341913-pokemon-awakening.json"
     },
     {
+      "igdb_id": 355623,
+      "game_name": "Pokémon Battle Card e+: 08-B001 - Pokémon Breeder no Mami",
+      "file": "missing/P/355623-pokemon-battle-card-e-08-b001-pokemon-breeder-no-mami.json"
+    },
+    {
+      "igdb_id": 355624,
+      "game_name": "Pokémon Battle Card e+: 08-B002 - Iseki Mania no Toshitsugu",
+      "file": "missing/P/355624-pokemon-battle-card-e-08-b002-iseki-mania-no-toshitsugu.json"
+    },
+    {
+      "igdb_id": 355625,
+      "game_name": "Pokémon Battle Card e+: 08-B003 - Tatsujin no Koto",
+      "file": "missing/P/355625-pokemon-battle-card-e-08-b003-tatsujin-no-koto.json"
+    },
+    {
+      "igdb_id": 355626,
+      "game_name": "Pokémon Battle Card e+: 08-B004 - Karate-ou no Masaru",
+      "file": "missing/P/355626-pokemon-battle-card-e-08-b004-karate-ou-no-masaru.json"
+    },
+    {
+      "igdb_id": 355627,
+      "game_name": "Pokémon Battle Card e+: 08-B005 - Ukiwa Girl no Harue",
+      "file": "missing/P/355627-pokemon-battle-card-e-08-b005-ukiwa-girl-no-harue.json"
+    },
+    {
+      "igdb_id": 355628,
+      "game_name": "Pokémon Battle Card e+: 08-B006 - Ninja Gokko no Yuu",
+      "file": "missing/P/355628-pokemon-battle-card-e-08-b006-ninja-gokko-no-yuu.json"
+    },
+    {
+      "igdb_id": 355629,
+      "game_name": "Pokémon Battle Card e+: 08-B007 - Obocchama no Matsuo",
+      "file": "missing/P/355629-pokemon-battle-card-e-08-b007-obocchama-no-matsuo.json"
+    },
+    {
+      "igdb_id": 355630,
+      "game_name": "Pokémon Battle Card e+: 08-B008 - Dragon Tsukai no Kuen",
+      "file": "missing/P/355630-pokemon-battle-card-e-08-b008-dragon-tsukai-no-kuen.json"
+    },
+    {
+      "igdb_id": 355632,
+      "game_name": "Pokémon Battle Card e+: 08-B009 - Elite Trainer no Shizu",
+      "file": "missing/P/355632-pokemon-battle-card-e-08-b009-elite-trainer-no-shizu.json"
+    },
+    {
+      "igdb_id": 355633,
+      "game_name": "Pokémon Battle Card e+: 08-B010 - Obocchama no Junpei",
+      "file": "missing/P/355633-pokemon-battle-card-e-08-b010-obocchama-no-junpei.json"
+    },
+    {
+      "igdb_id": 355634,
+      "game_name": "Pokémon Battle Card e+: 08-B011 - Campfire no Joe",
+      "file": "missing/P/355634-pokemon-battle-card-e-08-b011-campfire-no-joe.json"
+    },
+    {
+      "igdb_id": 355635,
+      "game_name": "Pokémon Battle Card e+: 08-B012 - Gentleman no Fiennes",
+      "file": "missing/P/355635-pokemon-battle-card-e-08-b012-gentleman-no-fiennes.json"
+    },
+    {
+      "igdb_id": 355636,
+      "game_name": "Pokémon Battle Card e+: 08-B013 - Karate-ou no Danpei",
+      "file": "missing/P/355636-pokemon-battle-card-e-08-b013-karate-ou-no-danpei.json"
+    },
+    {
+      "igdb_id": 355637,
+      "game_name": "Pokémon Battle Card e+: 08-B014 - Otona no Onee-san no Yuka",
+      "file": "missing/P/355637-pokemon-battle-card-e-08-b014-otona-no-onee-san-no-yuka.json"
+    },
+    {
+      "igdb_id": 355638,
+      "game_name": "Pokémon Battle Card e+: 08-B015 - Miniskirt no Youko",
+      "file": "missing/P/355638-pokemon-battle-card-e-08-b015-miniskirt-no-youko.json"
+    },
+    {
+      "igdb_id": 355639,
+      "game_name": "Pokémon Battle Card e+: 08-B016 - Occult Mania no Fukune",
+      "file": "missing/P/355639-pokemon-battle-card-e-08-b016-occult-mania-no-fukune.json"
+    },
+    {
+      "igdb_id": 355640,
+      "game_name": "Pokémon Battle Card e+: 08-B017 - Psychicher no Kiyoshi",
+      "file": "missing/P/355640-pokemon-battle-card-e-08-b017-psychicher-no-kiyoshi.json"
+    },
+    {
+      "igdb_id": 355641,
+      "game_name": "Pokémon Battle Card e+: 08-B018 - Ninja Gokko no Toshinao",
+      "file": "missing/P/355641-pokemon-battle-card-e-08-b018-ninja-gokko-no-toshinao.json"
+    },
+    {
+      "igdb_id": 355642,
+      "game_name": "Pokémon Battle Card e+: 08-B019 - Tori Tsukai no Otoya",
+      "file": "missing/P/355642-pokemon-battle-card-e-08-b019-tori-tsukai-no-otoya.json"
+    },
+    {
+      "igdb_id": 355643,
+      "game_name": "Pokémon Battle Card e+: 08-B020 - Triathlete no Natsuko",
+      "file": "missing/P/355643-pokemon-battle-card-e-08-b020-triathlete-no-natsuko.json"
+    },
+    {
+      "igdb_id": 355644,
+      "game_name": "Pokémon Battle Card e+: 08-B021 - Occult Mania no Sadayo",
+      "file": "missing/P/355644-pokemon-battle-card-e-08-b021-occult-mania-no-sadayo.json"
+    },
+    {
+      "igdb_id": 355645,
+      "game_name": "Pokémon Battle Card e+: 08-B022 - Pokémon Collector no Junji",
+      "file": "missing/P/355645-pokemon-battle-card-e-08-b022-pokemon-collector-no-junji.json"
+    },
+    {
+      "igdb_id": 355646,
+      "game_name": "Pokémon Battle Card e+: 08-B023 - Pokémon Breeder no Shinji",
+      "file": "missing/P/355646-pokemon-battle-card-e-08-b023-pokemon-breeder-no-shinji.json"
+    },
+    {
+      "igdb_id": 355647,
+      "game_name": "Pokémon Battle Card e+: 08-B024 - Tatsujin no Fugen",
+      "file": "missing/P/355647-pokemon-battle-card-e-08-b024-tatsujin-no-fugen.json"
+    },
+    {
+      "igdb_id": 355648,
+      "game_name": "Pokémon Battle Card e+: 08-B025 - Occult Mania no Rina",
+      "file": "missing/P/355648-pokemon-battle-card-e-08-b025-occult-mania-no-rina.json"
+    },
+    {
+      "igdb_id": 355649,
+      "game_name": "Pokémon Battle Card e+: 08-B026 - Ninja Gokko no Ruizou",
+      "file": "missing/P/355649-pokemon-battle-card-e-08-b026-ninja-gokko-no-ruizou.json"
+    },
+    {
+      "igdb_id": 355650,
+      "game_name": "Pokémon Battle Card e+: 08-B027 - Triathlete no Nozomu",
+      "file": "missing/P/355650-pokemon-battle-card-e-08-b027-triathlete-no-nozomu.json"
+    },
+    {
+      "igdb_id": 355651,
+      "game_name": "Pokémon Battle Card e+: 08-B028 - Guitarist no Kyouhei",
+      "file": "missing/P/355651-pokemon-battle-card-e-08-b028-guitarist-no-kyouhei.json"
+    },
+    {
+      "igdb_id": 355652,
+      "game_name": "Pokémon Battle Card e+: 08-B029 - Mushi Tori Shounen no Yukio",
+      "file": "missing/P/355652-pokemon-battle-card-e-08-b029-mushi-tori-shounen-no-yukio.json"
+    },
+    {
+      "igdb_id": 355653,
+      "game_name": "Pokémon Battle Card e+: 08-B030 - Daisuki Club no Makio",
+      "file": "missing/P/355653-pokemon-battle-card-e-08-b030-daisuki-club-no-makio.json"
+    },
+    {
+      "igdb_id": 355654,
+      "game_name": "Pokémon Battle Card e+: 08-B031 - Battle Girl no Noriko",
+      "file": "missing/P/355654-pokemon-battle-card-e-08-b031-battle-girl-no-noriko.json"
+    },
+    {
+      "igdb_id": 355655,
+      "game_name": "Pokémon Battle Card e+: 08-B032 - Pokémon Ranger no Hoyoshi",
+      "file": "missing/P/355655-pokemon-battle-card-e-08-b032-pokemon-ranger-no-hoyoshi.json"
+    },
+    {
+      "igdb_id": 355656,
+      "game_name": "Pokémon Battle Card e+: 08-B033 - Juku Kaeri no Tomoyasu",
+      "file": "missing/P/355656-pokemon-battle-card-e-08-b033-juku-kaeri-no-tomoyasu.json"
+    },
+    {
+      "igdb_id": 355657,
+      "game_name": "Pokémon Battle Card e+: 08-B034 - Gentleman no Anthony",
+      "file": "missing/P/355657-pokemon-battle-card-e-08-b034-gentleman-no-anthony.json"
+    },
+    {
+      "igdb_id": 355658,
+      "game_name": "Pokémon Battle Card e+: 08-B035 - Triathlete no Ryou",
+      "file": "missing/P/355658-pokemon-battle-card-e-08-b035-triathlete-no-ryou.json"
+    },
+    {
+      "igdb_id": 355659,
+      "game_name": "Pokémon Battle Card e+: 08-B036 - Guitarist no Daikichi",
+      "file": "missing/P/355659-pokemon-battle-card-e-08-b036-guitarist-no-daikichi.json"
+    },
+    {
+      "igdb_id": 355660,
+      "game_name": "Pokémon Battle Card e+: 08-B037 - Pokémon Breeder no Shigenobu",
+      "file": "missing/P/355660-pokemon-battle-card-e-08-b037-pokemon-breeder-no-shigenobu.json"
+    },
+    {
+      "igdb_id": 355661,
+      "game_name": "Pokémon Battle Card e+: 08-B038 - Pokémon Ranger Reina",
+      "file": "missing/P/355661-pokemon-battle-card-e-08-b038-pokemon-ranger-reina.json"
+    },
+    {
+      "igdb_id": 355631,
+      "game_name": "Pokémon Battle Card e+: 08-K007 - Ginema no Mi",
+      "file": "missing/P/355631-pokemon-battle-card-e-08-k007-ginema-no-mi.json"
+    },
+    {
       "igdb_id": 220853,
       "game_name": "Pokémon Battle e Card: Freezing Ray",
       "file": "missing/P/220853-pokemon-battle-e-card-freezing-ray.json"
@@ -237176,6 +237401,11 @@
       "igdb_id": 330537,
       "game_name": "Prop Haunt",
       "file": "missing/P/330537-prop-haunt.json"
+    },
+    {
+      "igdb_id": 355620,
+      "game_name": "Prop Sumo",
+      "file": "missing/P/355620-prop-sumo.json"
     },
     {
       "igdb_id": 391742,
@@ -331593,6 +331823,11 @@
       "file": "missing/T/2650-tom-and-jerry-in-war-of-the-whiskers.json"
     },
     {
+      "igdb_id": 355622,
+      "game_name": "Tom and Jerry: Refriger-Raiders",
+      "file": "missing/T/355622-tom-and-jerry-refriger-raiders.json"
+    },
+    {
       "igdb_id": 43283,
       "game_name": "Tom Clancy's Action Pack Limited Edition",
       "file": "missing/T/43283-tom-clancys-action-pack-limited-edition.json"
@@ -336388,6 +336623,11 @@
       "file": "missing/T/221156-trains-through-electric-storms.json"
     },
     {
+      "igdb_id": 355613,
+      "game_name": "Trainwatch",
+      "file": "missing/T/355613-trainwatch.json"
+    },
+    {
       "igdb_id": 306100,
       "game_name": "Trainz 2022: SA CL Class - RailPower Pack",
       "file": "missing/T/306100-trainz-2022-sa-cl-class-railpower-pack.json"
@@ -337876,6 +338116,11 @@
       "igdb_id": 345485,
       "game_name": "Tree Kingdoms",
       "file": "missing/T/345485-tree-kingdoms.json"
+    },
+    {
+      "igdb_id": 355611,
+      "game_name": "Tree n Ant",
+      "file": "missing/T/355611-tree-n-ant.json"
     },
     {
       "igdb_id": 272823,
@@ -368556,6 +368801,11 @@
       "igdb_id": 197319,
       "game_name": "Zombies Around Us",
       "file": "missing/Z/197319-zombies-around-us.json"
+    },
+    {
+      "igdb_id": 355618,
+      "game_name": "Zombies Ate My Femboy",
+      "file": "missing/Z/355618-zombies-ate-my-femboy.json"
     },
     {
       "igdb_id": 166718,
