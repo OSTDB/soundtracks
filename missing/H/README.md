@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa Faction 2 | 57043 | [57043-hexa-faction-2.json](./57043-hexa-faction-2.json) |
 | Hexa Fusion 2048 | 364558 | [364558-hexa-fusion-2048.json](./364558-hexa-fusion-2048.json) |
 | Hexa Puzzle Saga | 248330 | [248330-hexa-puzzle-saga.json](./248330-hexa-puzzle-saga.json) |
+| Hexa Road | 353958 | [353958-hexa-road.json](./353958-hexa-road.json) |
 | Hexa's Gone | 393499 | [393499-hexas-gone.json](./393499-hexas-gone.json) |
 | Hexachess | 374634 | [374634-hexachess.json](./374634-hexachess.json) |
 | HexaCycle | 115643 | [115643-hexacycle.json](./115643-hexacycle.json) |
@@ -1523,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexplorando | 291778 | [291778-hexplorando.json](./291778-hexplorando.json) |
 | HeXpunk | 343246 | [343246-hexpunk.json](./343246-hexpunk.json) |
 | HexRoller | 253015 | [253015-hexroller.json](./253015-hexroller.json) |
+| Hextalia | 353966 | [353966-hextalia.json](./353966-hextalia.json) |
 | HexTD | 212834 | [212834-hextd.json](./212834-hextd.json) |
 | Hexterminate | 133411 | [133411-hexterminate.json](./133411-hexterminate.json) |
 | HextriX | 105912 | [105912-hextrix.json](./105912-hextrix.json) |
