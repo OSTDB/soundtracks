@@ -2352,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Raiders | 59983 | [59983-cloud-raiders.json](./59983-cloud-raiders.json) |
 | Cloud Sculptor | 406126 | [406126-cloud-sculptor.json](./406126-cloud-sculptor.json) |
 | Cloud Serpent | 185658 | [185658-cloud-serpent.json](./185658-cloud-serpent.json) |
+| Cloud to Gold | 371346 | [371346-cloud-to-gold.json](./371346-cloud-to-gold.json) |
 | Cloudbase Prime | 31803 | [31803-cloudbase-prime.json](./31803-cloudbase-prime.json) |
 | Cloudborn | 68714 | [68714-cloudborn.json](./68714-cloudborn.json) |
 | CloudBound | 31374 | [31374-cloudbound.json](./31374-cloudbound.json) |
@@ -2450,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cockatrice Attacking the city | 120970 | [120970-cockatrice-attacking-the-city.json](./120970-cockatrice-attacking-the-city.json) |
 | Cocked and Loaded | 278671 | [278671-cocked-and-loaded.json](./278671-cocked-and-loaded.json) |
 | Cockhead | 130937 | [130937-cockhead.json](./130937-cockhead.json) |
+| Cockroach Clicker | 371337 | [371337-cockroach-clicker.json](./371337-cockroach-clicker.json) |
 | Cockroach VR | 31361 | [31361-cockroach-vr.json](./31361-cockroach-vr.json) |
 | Cocktail Magic | 260411 | [260411-cocktail-magic.json](./260411-cocktail-magic.json) |
 | Cocktail Paradise | 68632 | [68632-cocktail-paradise.json](./68632-cocktail-paradise.json) |
@@ -3224,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
 | Coop Tank War | 111008 | [111008-coop-tank-war.json](./111008-coop-tank-war.json) |
 | Coopbots | 272862 | [272862-coopbots.json](./272862-coopbots.json) |
+| Cooperate with Yourself | 371338 | [371338-cooperate-with-yourself.json](./371338-cooperate-with-yourself.json) |
 | CoopRooms | 347156 | [347156-cooprooms.json](./347156-cooprooms.json) |
 | CoopValor 2056: Ukraine WW3 | 256292 | [256292-coopvalor-2056-ukraine-ww3.json](./256292-coopvalor-2056-ukraine-ww3.json) |
 | CoopValor WW2 Battle of the Bulge | 263522 | [263522-coopvalor-ww2-battle-of-the-bulge.json](./263522-coopvalor-ww2-battle-of-the-bulge.json) |
@@ -4640,6 +4643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cylindrix | 73318 | [73318-cylindrix.json](./73318-cylindrix.json) |
 | Cylor vs. the Bullets From Hell | 123612 | [123612-cylor-vs-the-bullets-from-hell.json](./123612-cylor-vs-the-bullets-from-hell.json) |
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
+| Cynabre | 371334 | [371334-cynabre.json](./371334-cynabre.json) |
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
 | Cynthia: Hidden in the Moonshadow - Complete Edition | 283152 | [283152-cynthia-hidden-in-the-moonshadow-complete-edition.json](./283152-cynthia-hidden-in-the-moonshadow-complete-edition.json) |
