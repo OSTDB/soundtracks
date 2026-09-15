@@ -907,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Legend | 102755 | [102755-infinite-legend.json](./102755-infinite-legend.json) |
 | Infinite Library | 318186 | [318186-infinite-library.json](./318186-infinite-library.json) |
 | Infinite Links | 194185 | [194185-infinite-links.json](./194185-infinite-links.json) |
+| Infinite Lives | 354536 | [354536-infinite-lives.json](./354536-infinite-lives.json) |
 | Infinite Monkey Autocorrect | 89205 | [89205-infinite-monkey-autocorrect.json](./89205-infinite-monkey-autocorrect.json) |
 | Infinite Monkey Clicker | 387328 | [387328-infinite-monkey-clicker.json](./387328-infinite-monkey-clicker.json) |
 | Infinite Monkeys | 57095 | [57095-infinite-monkeys.json](./57095-infinite-monkeys.json) |
@@ -1603,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Hard Being a Meatball | 132808 | [132808-its-hard-being-a-meatball.json](./132808-its-hard-being-a-meatball.json) |
 | It's Literally Just Mowing | 210675 | [210675-its-literally-just-mowing.json](./210675-its-literally-just-mowing.json) |
 | It's Mealtime! | 167247 | [167247-its-mealtime.json](./167247-its-mealtime.json) |
+| It's Not Like I LIke You | 354538 | [354538-its-not-like-i-like-you.json](./354538-its-not-like-i-like-you.json) |
 | It's Not Me, It's My Basement | 176514 | [176514-its-not-me-its-my-basement.json](./176514-its-not-me-its-my-basement.json) |
 | It's Not You, It's M.E | 379960 | [379960-its-not-you-its-m-e.json](./379960-its-not-you-its-m-e.json) |
 | It's OK to Fail | 278407 | [278407-its-ok-to-fail.json](./278407-its-ok-to-fail.json) |
