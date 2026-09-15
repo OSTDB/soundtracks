@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little City | 9544 | [9544-little-city.json](./9544-little-city.json) |
 | Little Corners | 353890 | [353890-little-corners.json](./353890-little-corners.json) |
 | Little Critters 2 | 305179 | [305179-little-critters-2.json](./305179-little-critters-2.json) |
+| Little Crossroads | 374710 | [374710-little-crossroads.json](./374710-little-crossroads.json) |
 | Little Devourers | 169454 | [169454-little-devourers.json](./169454-little-devourers.json) |
 | Little Diggel | 29764 | [29764-little-diggel.json](./29764-little-diggel.json) |
 | Little Doll Queen | 260377 | [260377-little-doll-queen.json](./260377-little-doll-queen.json) |
@@ -1929,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Twins 2 | 173308 | [173308-lost-twins-2.json](./173308-lost-twins-2.json) |
 | Lost Verses | 323523 | [323523-lost-verses.json](./323523-lost-verses.json) |
 | Lost Wage Rampage | 108989 | [108989-lost-wage-rampage.json](./108989-lost-wage-rampage.json) |
+| Lost Wiki: Kozlovka | 374721 | [374721-lost-wiki-kozlovka.json](./374721-lost-wiki-kozlovka.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
 | Lostade | 377694 | [377694-lostade.json](./377694-lostade.json) |
 | Losted Mind | 348256 | [348256-losted-mind.json](./348256-losted-mind.json) |
