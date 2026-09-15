@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Party | 401696 | [401696-raccoon-party.json](./401696-raccoon-party.json) |
 | Raccoon Roller | 211218 | [211218-raccoon-roller.json](./211218-raccoon-roller.json) |
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
+| Raccoon Valley Tycoon | 373083 | [373083-raccoon-valley-tycoon.json](./373083-raccoon-valley-tycoon.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Driver: Grid Reloaded | 44555 | [44555-race-driver-grid-reloaded.json](./44555-race-driver-grid-reloaded.json) |
@@ -136,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
 | Radia Senki: Reimeihen | 48686 | [48686-radia-senki-reimeihen.json](./48686-radia-senki-reimeihen.json) |
+| Radiant Click | 373105 | [373105-radiant-click.json](./373105-radiant-click.json) |
 | Radiant Defense | 17442 | [17442-radiant-defense.json](./17442-radiant-defense.json) |
 | Radiant Flux: Hyperfractal 4.0 | 233009 | [233009-radiant-flux-hyperfractal-4-0.json](./233009-radiant-flux-hyperfractal-4-0.json) |
 | Radiant Princess: Poni Ceres | 331115 | [331115-radiant-princess-poni-ceres.json](./331115-radiant-princess-poni-ceres.json) |
@@ -2812,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin Arm | 38292 | [38292-ruin-arm.json](./38292-ruin-arm.json) |
 | Ruin Raiders | 132787 | [132787-ruin-raiders.json](./132787-ruin-raiders.json) |
 | Ruin: Chapter 0 | 400981 | [400981-ruin-chapter-0.json](./400981-ruin-chapter-0.json) |
+| Ruina | 373073 | [373073-ruina.json](./373073-ruina.json) |
 | Ruindrift | 371883 | [371883-ruindrift.json](./371883-ruindrift.json) |
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
 | Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
