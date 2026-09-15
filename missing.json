@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T16:51:39.914Z",
-  "total_missing": 74682,
+  "generated_at": "2026-09-15T17:01:39.848Z",
+  "total_missing": 74692,
   "games": [
     {
       "igdb_id": 306086,
@@ -5391,11 +5391,6 @@
       "igdb_id": 193934,
       "game_name": "Age of Chaos: Legends",
       "file": "missing/A/193934-age-of-chaos-legends.json"
-    },
-    {
-      "igdb_id": 412397,
-      "game_name": "Age of Clicks",
-      "file": "missing/A/412397-age-of-clicks.json"
     },
     {
       "igdb_id": 27653,
@@ -21331,6 +21326,11 @@
       "igdb_id": 171087,
       "game_name": "Automobilista: Snetterton",
       "file": "missing/A/171087-automobilista-snetterton.json"
+    },
+    {
+      "igdb_id": 346163,
+      "game_name": "AutoParts Simulator",
+      "file": "missing/A/346163-autoparts-simulator.json"
     },
     {
       "igdb_id": 197392,
@@ -69298,6 +69298,11 @@
       "file": "missing/D/339794-dance-dance-dance.json"
     },
     {
+      "igdb_id": 346162,
+      "game_name": "DanceMela",
+      "file": "missing/D/346162-dancemela.json"
+    },
+    {
       "igdb_id": 108988,
       "game_name": "Dancerush Stardom",
       "file": "missing/D/108988-dancerush-stardom.json"
@@ -83576,6 +83581,11 @@
       "igdb_id": 158231,
       "game_name": "Dooria",
       "file": "missing/D/158231-dooria.json"
+    },
+    {
+      "igdb_id": 346154,
+      "game_name": "Doorka",
+      "file": "missing/D/346154-doorka.json"
     },
     {
       "igdb_id": 168388,
@@ -108103,6 +108113,11 @@
       "file": "missing/F/25744-fishing-paradise-3d.json"
     },
     {
+      "igdb_id": 346157,
+      "game_name": "Fishing Pond Simulator",
+      "file": "missing/F/346157-fishing-pond-simulator.json"
+    },
+    {
       "igdb_id": 335089,
       "game_name": "Fishing Sea Adventure",
       "file": "missing/F/335089-fishing-sea-adventure.json"
@@ -117761,6 +117776,11 @@
       "igdb_id": 325839,
       "game_name": "Galactic Traffic Control",
       "file": "missing/G/325839-galactic-traffic-control.json"
+    },
+    {
+      "igdb_id": 346159,
+      "game_name": "Galactic Veins",
+      "file": "missing/G/346159-galactic-veins.json"
     },
     {
       "igdb_id": 336890,
@@ -138858,6 +138878,11 @@
       "file": "missing/H/209652-hiddenverse-the-iron-tower.json"
     },
     {
+      "igdb_id": 346160,
+      "game_name": "Hide 'n Heist",
+      "file": "missing/H/346160-hide-n-heist.json"
+    },
+    {
       "igdb_id": 188552,
       "game_name": "Hide & Seek World",
       "file": "missing/H/188552-hide-and-seek-world.json"
@@ -152793,6 +152818,11 @@
       "file": "missing/I/323548-isekaing-from-zero-to-zero.json"
     },
     {
+      "igdb_id": 346161,
+      "game_name": "Isekat: Crushed by a Computer, My Beloved Kitten is Transported to a Fantasy World where its Typing Skills Save the Kingdom!",
+      "file": "missing/I/346161-isekat-crushed-by-a-computer-my-beloved-kitten-is-transported-to-a-fantasy-world-where-its-typing-skills-save-the-kingdom.json"
+    },
+    {
       "igdb_id": 256524,
       "game_name": "ISEPS Idle Particle Simulator",
       "file": "missing/I/256524-iseps-idle-particle-simulator.json"
@@ -157481,6 +157511,11 @@
       "igdb_id": 380445,
       "game_name": "Juiced 2: Hot Import Nights",
       "file": "missing/J/380445-juiced-2-hot-import-nights.json"
+    },
+    {
+      "igdb_id": 346158,
+      "game_name": "Juicy Blast",
+      "file": "missing/J/346158-juicy-blast.json"
     },
     {
       "igdb_id": 133437,
@@ -178956,6 +178991,11 @@
       "igdb_id": 83550,
       "game_name": "Madness of the Architect",
       "file": "missing/M/83550-madness-of-the-architect.json"
+    },
+    {
+      "igdb_id": 346156,
+      "game_name": "Madness of the Science",
+      "file": "missing/M/346156-madness-of-the-science.json"
     },
     {
       "igdb_id": 386873,
@@ -207291,6 +207331,11 @@
       "igdb_id": 31180,
       "game_name": "Neon Drive",
       "file": "missing/N/31180-neon-drive.json"
+    },
+    {
+      "igdb_id": 346155,
+      "game_name": "Neon Eclipse: Dominium",
+      "file": "missing/N/346155-neon-eclipse-dominium.json"
     },
     {
       "igdb_id": 310723,
@@ -326596,6 +326641,11 @@
       "igdb_id": 120952,
       "game_name": "The Tower 2",
       "file": "missing/T/120952-the-tower-2.json"
+    },
+    {
+      "igdb_id": 346153,
+      "game_name": "The Tower of Eden",
+      "file": "missing/T/346153-the-tower-of-eden.json"
     },
     {
       "igdb_id": 347232,
