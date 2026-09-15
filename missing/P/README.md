@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasol Stars: The Story of Bubble Bobble III | 42101 | [42101-parasol-stars-the-story-of-bubble-bobble-iii.json](./42101-parasol-stars-the-story-of-bubble-bobble-iii.json) |
 | Parasomnia Verum | 153972 | [153972-parasomnia-verum.json](./153972-parasomnia-verum.json) |
 | Paratopic: Definitive Cut | 107740 | [107740-paratopic-definitive-cut.json](./107740-paratopic-definitive-cut.json) |
+| Paratopic: Overdub | 349384 | [349384-paratopic-overdub.json](./349384-paratopic-overdub.json) |
 | Paratroopers | 24986 | [24986-paratroopers.json](./24986-paratroopers.json) |
 | Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
 | Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
@@ -871,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedal Rebel VR | 280750 | [280750-pedal-rebel-vr.json](./280750-pedal-rebel-vr.json) |
 | Pedal to the Metal | 214485 | [214485-pedal-to-the-metal.json](./214485-pedal-to-the-metal.json) |
 | Pedal Up! | 244809 | [244809-pedal-up.json](./244809-pedal-up.json) |
+| Peddlers Between Pulsars | 349399 | [349399-peddlers-between-pulsars.json](./349399-peddlers-between-pulsars.json) |
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
 | Peek a Rabbit! | 395666 | [395666-peek-a-rabbit.json](./395666-peek-a-rabbit.json) |
@@ -3059,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Ups that Kill! | 51165 | [51165-power-ups-that-kill.json](./51165-power-ups-that-kill.json) |
 | Power, Corruption & Lies | 57646 | [57646-power-corruption-and-lies.json](./57646-power-corruption-and-lies.json) |
 | Powerama | 60582 | [60582-powerama.json](./60582-powerama.json) |
+| PowerCharge | 349398 | [349398-powercharge.json](./349398-powercharge.json) |
 | Powercity 9000 | 26634 | [26634-powercity-9000.json](./26634-powercity-9000.json) |
 | Powered Platformer Bundle | 314861 | [314861-powered-platformer-bundle.json](./314861-powered-platformer-bundle.json) |
 | Powerful Wind, Slicked-back Hair, But It’s a Game | 393484 | [393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json](./393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json) |
@@ -3486,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profundus | 341468 | [341468-profundus.json](./341468-profundus.json) |
 | Progear: Airplane Shooter | 231908 | [231908-progear-airplane-shooter.json](./231908-progear-airplane-shooter.json) |
 | Program Pack 4 | 319591 | [319591-program-pack-4.json](./319591-program-pack-4.json) |
+| Program Penguin | 349405 | [349405-program-penguin.json](./349405-program-penguin.json) |
 | Programa do Ratinho | 163360 | [163360-programa-do-ratinho.json](./163360-programa-do-ratinho.json) |
 | Programmer Dungeon Knightress | 199566 | [199566-programmer-dungeon-knightress.json](./199566-programmer-dungeon-knightress.json) |
 | Progress | 40171 | [40171-progress.json](./40171-progress.json) |
