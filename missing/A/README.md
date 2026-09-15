@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abysm 2: Spirit Falcon | 201230 | [201230-abysm-2-spirit-falcon.json](./201230-abysm-2-spirit-falcon.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
 | Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
+| Abyss Eschaton Survivors | 348852 | [348852-abyss-eschaton-survivors.json](./348852-abyss-eschaton-survivors.json) |
 | Abyss Odyssey | 14414 | [14414-abyss-odyssey.json](./14414-abyss-odyssey.json) |
 | Abyss of Doom | 403689 | [403689-abyss-of-doom.json](./403689-abyss-of-doom.json) |
 | Abyss of Dungeons | 306976 | [306976-abyss-of-dungeons.json](./306976-abyss-of-dungeons.json) |
@@ -2100,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Day of Chikan! Vol7 Cool Beauty Schoolgirl in a Band | 82931 | [82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json](./82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json) |
 | Another Day? | 409695 | [409695-another-day.json](./409695-another-day.json) |
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
+| Another Game About Clicking | 348859 | [348859-another-game-about-clicking.json](./348859-another-game-about-clicking.json) |
 | Another Hardcore Game | 110995 | [110995-another-hardcore-game.json](./110995-another-hardcore-game.json) |
 | Another Head | 323759 | [323759-another-head.json](./323759-another-head.json) |
 | Another Heaven | 382277 | [382277-another-heaven.json](./382277-another-heaven.json) |
