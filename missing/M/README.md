@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario in the Dreamscape | 296093 | [296093-mario-in-the-dreamscape.json](./296093-mario-in-the-dreamscape.json) |
 | Mario Is Missing! | 210223 | [210223-mario-is-missing.json](./210223-mario-is-missing.json) |
 | Mario Kart 64 HD | 229075 | [229075-mario-kart-64-hd.json](./229075-mario-kart-64-hd.json) |
+| Mario Kart 64 ITEM BLAST | 374679 | [374679-mario-kart-64-item-blast.json](./374679-mario-kart-64-item-blast.json) |
 | Mario Kart 64: Amped Up - Version 3 | 358307 | [358307-mario-kart-64-amped-up-version-3.json](./358307-mario-kart-64-amped-up-version-3.json) |
 | Mario Kart 64: Hooting Time | 248303 | [248303-mario-kart-64-hooting-time.json](./248303-mario-kart-64-hooting-time.json) |
 | Mario Kart 64: Mega Mushroom Blast | 266208 | [266208-mario-kart-64-mega-mushroom-blast.json](./266208-mario-kart-64-mega-mushroom-blast.json) |
@@ -1401,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Girl | 253907 | [253907-maze-girl.json](./253907-maze-girl.json) |
 | Maze Gold Run | 127267 | [127267-maze-gold-run.json](./127267-maze-gold-run.json) |
 | Maze in Your Mind | 351598 | [351598-maze-in-your-mind.json](./351598-maze-in-your-mind.json) |
+| Maze It Out | 374730 | [374730-maze-it-out.json](./374730-maze-it-out.json) |
 | Maze Lord | 33305 | [33305-maze-lord.json](./33305-maze-lord.json) |
 | Maze Madness | 101598 | [101598-maze-madness.json](./101598-maze-madness.json) |
 | Maze Maid | 287656 | [287656-maze-maid.json](./287656-maze-maid.json) |
