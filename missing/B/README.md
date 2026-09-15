@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bevel's Painting | 121030 | [121030-bevels-painting.json](./121030-bevels-painting.json) |
 | Beverly Hills Models | 201264 | [201264-beverly-hills-models.json](./201264-beverly-hills-models.json) |
 | Beware | 102780 | [102780-beware.json](./102780-beware.json) |
+| Beware of Dog | 378883 | [378883-beware-of-dog.json](./378883-beware-of-dog.json) |
 | Beware of Falling Angels | 262982 | [262982-beware-of-falling-angels.json](./262982-beware-of-falling-angels.json) |
 | Beware of the Blob | 137652 | [137652-beware-of-the-blob.json](./137652-beware-of-the-blob.json) |
 | Beware the Ghost | 176474 | [176474-beware-the-ghost.json](./176474-beware-the-ghost.json) |
@@ -1604,6 +1605,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beware Tomorrow | 320765 | [320765-beware-tomorrow.json](./320765-beware-tomorrow.json) |
 | Bewitched Hearts | 179703 | [179703-bewitched-hearts.json](./179703-bewitched-hearts.json) |
 | Bewitching Boba | 388701 | [388701-bewitching-boba.json](./388701-bewitching-boba.json) |
+| Beyblade x Evobattle: Digital Beybooster Metal Coat | 378877 | [378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json](./378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json) |
+| Beyblade x Evobattle: Digital Beybooster Vol. 2 | 378878 | [378878-beyblade-x-evobattle-digital-beybooster-vol-2.json](./378878-beyblade-x-evobattle-digital-beybooster-vol-2.json) |
+| Beyblade x Evobattle: Digital Beybooster Vol. 3 | 378879 | [378879-beyblade-x-evobattle-digital-beybooster-vol-3.json](./378879-beyblade-x-evobattle-digital-beybooster-vol-3.json) |
 | Beyblade: Metal Fusion Cyber Pegasus | 48033 | [48033-beyblade-metal-fusion-cyber-pegasus.json](./48033-beyblade-metal-fusion-cyber-pegasus.json) |
 | Beyond | 222887 | [222887-beyond.json](./222887-beyond.json) |
 | Beyond a Steel Sky | 116634 | [116634-beyond-a-steel-sky.json](./116634-beyond-a-steel-sky.json) |
