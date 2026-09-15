@@ -473,7 +473,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | AFK Industarry | 405469 | [405469-afk-industarry.json](./405469-afk-industarry.json) |
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
-| African Adventure: In Search of Dr. Livingston | 366265 | [366265-african-adventure-in-search-of-dr-livingston.json](./366265-african-adventure-in-search-of-dr-livingston.json) |
 | Afrika Korps | 14228 | [14228-afrika-korps.json](./14228-afrika-korps.json) |
 | Afrikan Tähti | 174367 | [174367-afrikan-tahti.json](./174367-afrikan-tahti.json) |
 | Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
