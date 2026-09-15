@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word of the Law: Death Mask - Collector's Edition | 186850 | [186850-word-of-the-law-death-mask-collectors-edition.json](./186850-word-of-the-law-death-mask-collectors-edition.json) |
 | Word On The Hook | 304022 | [304022-word-on-the-hook.json](./304022-word-on-the-hook.json) |
 | Word Party | 85494 | [85494-word-party.json](./85494-word-party.json) |
+| Word Puttz | 361232 | [361232-word-puttz.json](./361232-word-puttz.json) |
 | Word Quest Fantasy | 385067 | [385067-word-quest-fantasy.json](./385067-word-quest-fantasy.json) |
 | Word Quest Space | 378773 | [378773-word-quest-space.json](./378773-word-quest-space.json) |
 | Word Quest: Horror | 402932 | [402932-word-quest-horror.json](./402932-word-quest-horror.json) |
