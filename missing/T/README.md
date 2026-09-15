@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team:Cars | 138238 | [138238-team-cars.json](./138238-team-cars.json) |
 | Team17 Collection 1 | 241979 | [241979-team17-collection-1.json](./241979-team17-collection-1.json) |
 | Teamchef | 93006 | [93006-teamchef.json](./93006-teamchef.json) |
+| Teamfight Manager 2 | 369638 | [369638-teamfight-manager-2.json](./369638-teamfight-manager-2.json) |
 | TeamPlay | 163976 | [163976-teamplay.json](./163976-teamplay.json) |
 | Teaparty in Candyworld | 357226 | [357226-teaparty-in-candyworld.json](./357226-teaparty-in-candyworld.json) |
 | Teapot Poppers | 146915 | [146915-teapot-poppers.json](./146915-teapot-poppers.json) |
@@ -7435,6 +7436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron: Identity | 216277 | [216277-tron-identity.json](./216277-tron-identity.json) |
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
 | Trophy | 143070 | [143070-trophy.json](./143070-trophy.json) |
+| Trophy Truck Racing Tour | 369650 | [369650-trophy-truck-racing-tour.json](./369650-trophy-truck-racing-tour.json) |
 | Tropi | 209654 | [209654-tropi.json](./209654-tropi.json) |
 | Tropic Isle | 130866 | [130866-tropic-isle.json](./130866-tropic-isle.json) |
 | Tropical Air hockey | 129349 | [129349-tropical-air-hockey.json](./129349-tropical-air-hockey.json) |
@@ -7521,6 +7523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
 | Trump Collection GB | 82137 | [82137-trump-collection-gb.json](./82137-trump-collection-gb.json) |
 | Trump Jigsaw | 339283 | [339283-trump-jigsaw.json](./339283-trump-jigsaw.json) |
+| Trump vs Harris Clicker | 369646 | [369646-trump-vs-harris-clicker.json](./369646-trump-vs-harris-clicker.json) |
 | Trump! Jump | 256262 | [256262-trump-jump.json](./256262-trump-jump.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
 | Trundle | 93599 | [93599-trundle.json](./93599-trundle.json) |
