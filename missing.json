@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T16:19:07.454Z",
-  "total_missing": 74586,
+  "generated_at": "2026-09-15T16:21:39.985Z",
+  "total_missing": 74585,
   "games": [
     {
       "igdb_id": 306086,
@@ -5361,11 +5361,6 @@
       "igdb_id": 349927,
       "game_name": "Against Twilight",
       "file": "missing/A/349927-against-twilight.json"
-    },
-    {
-      "igdb_id": 372561,
-      "game_name": "Agalta II",
-      "file": "missing/A/372561-agalta-ii.json"
     },
     {
       "igdb_id": 269042,
