@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe Survivors | 236279 | [236279-universe-survivors.json](./236279-universe-survivors.json) |
 | Universe: Unknown | 73224 | [73224-universe-unknown.json](./73224-universe-unknown.json) |
 | University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
+| Univocity | 339916 | [339916-univocity.json](./339916-univocity.json) |
 | Unkillable Robots | 306342 | [306342-unkillable-robots.json](./306342-unkillable-robots.json) |
 | Unkilled | 28821 | [28821-unkilled.json](./28821-unkilled.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
