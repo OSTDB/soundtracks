@@ -893,6 +893,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss in Hell | 298298 | [298298-kiss-in-hell.json](./298298-kiss-in-hell.json) |
 | Kiss Kara Hajimaru Gyaru no Koi: Kurumi no Uwasa to Honto no Kimochi | 186229 | [186229-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi.json](./186229-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi.json) |
 | Kiss Kara Hajimaru Gyaru no Koi: Kurumi no Uwasa to Honto no Kimochi - Premium Edition | 186230 | [186230-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi-premium-edition.json](./186230-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi-premium-edition.json) |
+| Kiss Monster | 366906 | [366906-kiss-monster.json](./366906-kiss-monster.json) |
+| Kiss Monster 2 | 366915 | [366915-kiss-monster-2.json](./366915-kiss-monster-2.json) |
 | Kiss My Camera | 227262 | [227262-kiss-my-camera.json](./227262-kiss-my-camera.json) |
 | Kiss Pinball | 43917 | [43917-kiss-pinball.json](./43917-kiss-pinball.json) |
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
