@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry HD Collection | 20734 | [20734-devil-may-cry-hd-collection.json](./20734-devil-may-cry-hd-collection.json) |
 | Devil May Cry HD Collection & 4 Special Edition Bundle | 218517 | [218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json](./218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json) |
 | Devil of the Mirror | 182987 | [182987-devil-of-the-mirror.json](./182987-devil-of-the-mirror.json) |
+| Devil Spire Falls | 341018 | [341018-devil-spire-falls.json](./341018-devil-spire-falls.json) |
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
 | Devil Under Sun | 113653 | [113653-devil-under-sun.json](./113653-devil-under-sun.json) |
 | Devil World | 4612 | [4612-devil-world.json](./4612-devil-world.json) |
@@ -2181,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Run SE | 64965 | [64965-dino-run-se.json](./64965-dino-run-se.json) |
 | Dino Safari 2 | 96771 | [96771-dino-safari-2.json](./96771-dino-safari-2.json) |
 | Dino Safari: Evolution-U | 100927 | [100927-dino-safari-evolution-u.json](./100927-dino-safari-evolution-u.json) |
+| Dino SpeedBoat | 341024 | [341024-dino-speedboat.json](./341024-dino-speedboat.json) |
 | Dino Surf | 239895 | [239895-dino-surf.json](./239895-dino-surf.json) |
 | Dino Tamers | 146333 | [146333-dino-tamers.json](./146333-dino-tamers.json) |
 | Dino Tribe: New Era | 309366 | [309366-dino-tribe-new-era.json](./309366-dino-tribe-new-era.json) |
@@ -3042,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomer | 189104 | [189104-doomer.json](./189104-doomer.json) |
 | DoomGals | 202836 | [202836-doomgals.json](./202836-doomgals.json) |
 | Doomriderz | 372451 | [372451-doomriderz.json](./372451-doomriderz.json) |
+| Dooms | 340999 | [340999-dooms.json](./340999-dooms.json) |
 | Dooms Knight | 87914 | [87914-dooms-knight.json](./87914-dooms-knight.json) |
 | Doomsday | 368044 | [368044-doomsday.json](./368044-doomsday.json) |
 | Doomsday Blues | 13604 | [13604-doomsday-blues.json](./13604-doomsday-blues.json) |
@@ -3593,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
 | Draw Around | 142402 | [142402-draw-around.json](./142402-draw-around.json) |
+| Draw Breaker | 341058 | [341058-draw-breaker.json](./341058-draw-breaker.json) |
 | Draw From Earth | 163914 | [163914-draw-from-earth.json](./163914-draw-from-earth.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
@@ -3836,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Deep | 400957 | [400957-drill-deep.json](./400957-drill-deep.json) |
 | Drill Keeper | 253370 | [253370-drill-keeper.json](./253370-drill-keeper.json) |
 | Drill Rift | 355128 | [355128-drill-rift.json](./355128-drill-rift.json) |
+| Drill Space | 341037 | [341037-drill-space.json](./341037-drill-space.json) |
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
 | Drills VR | 109066 | [109066-drills-vr.json](./109066-drills-vr.json) |
 | Drink | 178604 | [178604-drink.json](./178604-drink.json) |
