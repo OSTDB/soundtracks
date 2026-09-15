@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deepest Castle | 400872 | [400872-the-deepest-castle.json](./400872-the-deepest-castle.json) |
 | The Deer | 117688 | [117688-the-deer.json](./117688-the-deer.json) |
 | The Defenders: The Second Wave | 35708 | [35708-the-defenders-the-second-wave.json](./35708-the-defenders-the-second-wave.json) |
+| The Defiant | 375948 | [375948-the-defiant.json](./375948-the-defiant.json) |
 | The Deletion | 34768 | [34768-the-deletion.json](./34768-the-deletion.json) |
 | The Demon Lord and the Guardian Knights | 134641 | [134641-the-demon-lord-and-the-guardian-knights.json](./134641-the-demon-lord-and-the-guardian-knights.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
@@ -3058,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lesser Evil | 176507 | [176507-the-lesser-evil.json](./176507-the-lesser-evil.json) |
 | The Leviathan's Fantasy: DLC | 289327 | [289327-the-leviathans-fantasy-dlc.json](./289327-the-leviathans-fantasy-dlc.json) |
 | The Leviathan's Fantasy: Mechanical Crisis | 329013 | [329013-the-leviathans-fantasy-mechanical-crisis.json](./329013-the-leviathans-fantasy-mechanical-crisis.json) |
+| The Lewd Deal | 375971 | [375971-the-lewd-deal.json](./375971-the-lewd-deal.json) |
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
 | The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
 | The Library of Babble | 121620 | [121620-the-library-of-babble.json](./121620-the-library-of-babble.json) |
@@ -4503,6 +4505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wailing of the Forest | 385062 | [385062-the-wailing-of-the-forest.json](./385062-the-wailing-of-the-forest.json) |
 | The Wait | 128605 | [128605-the-wait.json](./128605-the-wait.json) |
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
+| The Walk | 375939 | [375939-the-walk.json](./375939-the-walk.json) |
 | The Walking Dead: Aftermath | 410938 | [410938-the-walking-dead-aftermath.json](./410938-the-walking-dead-aftermath.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
 | The Walking Dead: March to War | 25642 | [25642-the-walking-dead-march-to-war.json](./25642-the-walking-dead-march-to-war.json) |
@@ -7587,6 +7590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
 | Tuneria | 140025 | [140025-tuneria.json](./140025-tuneria.json) |
 | Tung Tung Together: Online Deathrun Party | 390634 | [390634-tung-tung-together-online-deathrun-party.json](./390634-tung-tung-together-online-deathrun-party.json) |
+| Tungtung's Nightmare | 375934 | [375934-tungtungs-nightmare.json](./375934-tungtungs-nightmare.json) |
 | Tungulus | 47986 | [47986-tungulus.json](./47986-tungulus.json) |
 | Tunguska: Legend of Faith | 43901 | [43901-tunguska-legend-of-faith.json](./43901-tunguska-legend-of-faith.json) |
 | Tunguska: The Visitation | 152320 | [152320-tunguska-the-visitation.json](./152320-tunguska-the-visitation.json) |
