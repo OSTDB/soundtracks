@@ -524,7 +524,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
 | Agalta II | 372561 | [372561-agalta-ii.json](./372561-agalta-ii.json) |
 | Agame | 269042 | [269042-agame.json](./269042-agame.json) |
-| Agapan | 35878 | [35878-agapan.json](./35878-agapan.json) |
 | Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
 | Agartha-S | 111653 | [111653-agartha-s.json](./111653-agartha-s.json) |
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
