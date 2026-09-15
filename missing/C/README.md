@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Crunch | 105954 | [105954-card-crunch.json](./105954-card-crunch.json) |
 | Card Cultivation | 369080 | [369080-card-cultivation.json](./369080-card-cultivation.json) |
 | Card Escape: Plane Crash | 188113 | [188113-card-escape-plane-crash.json](./188113-card-escape-plane-crash.json) |
+| Card Fable Quest | 334188 | [334188-card-fable-quest.json](./334188-card-fable-quest.json) |
 | Card Fuse | 278167 | [278167-card-fuse.json](./278167-card-fuse.json) |
 | Card Games Mega Collection | 104032 | [104032-card-games-mega-collection.json](./104032-card-games-mega-collection.json) |
 | Card Gauntlet | 335363 | [335363-card-gauntlet.json](./335363-card-gauntlet.json) |
@@ -1040,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Huddled Together | 277839 | [277839-cats-huddled-together.json](./277839-cats-huddled-together.json) |
 | Cats in Cozy Rooms | 332980 | [332980-cats-in-cozy-rooms.json](./332980-cats-in-cozy-rooms.json) |
 | Cats in Hell | 201768 | [201768-cats-in-hell.json](./201768-cats-in-hell.json) |
+| Cats Logic | 334092 | [334092-cats-logic.json](./334092-cats-logic.json) |
 | Cats n Wires | 177476 | [177476-cats-n-wires.json](./177476-cats-n-wires.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
 | Cats on Streets | 275033 | [275033-cats-on-streets.json](./275033-cats-on-streets.json) |
@@ -1277,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained Together | 265111 | [265111-chained-together.json](./265111-chained-together.json) |
 | Chainmap Chaos | 271232 | [271232-chainmap-chaos.json](./271232-chainmap-chaos.json) |
 | ChainMonsters | 124148 | [124148-chainmonsters.json](./124148-chainmonsters.json) |
+| Chains Of Reality | 334196 | [334196-chains-of-reality.json](./334196-chains-of-reality.json) |
 | Chains on Sand | 372001 | [372001-chains-on-sand.json](./372001-chains-on-sand.json) |
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
@@ -1762,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
 | Chiyo | 266815 | [266815-chiyo.json](./266815-chiyo.json) |
 | Chkn | 34021 | [34021-chkn.json](./34021-chkn.json) |
+| Chlorofell | 334156 | [334156-chlorofell.json](./334156-chlorofell.json) |
 | ChloroLink | 374061 | [374061-chlorolink.json](./374061-chlorolink.json) |
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
 | Cho Chabudai Gaeshi | 94174 | [94174-cho-chabudai-gaeshi.json](./94174-cho-chabudai-gaeshi.json) |
@@ -2251,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
 | Clad in Iron: Sakhalin 1904 | 111222 | [111222-clad-in-iron-sakhalin-1904.json](./111222-clad-in-iron-sakhalin-1904.json) |
+| Clad In Iron: War of The Pacific 1879 | 334186 | [334186-clad-in-iron-war-of-the-pacific-1879.json](./334186-clad-in-iron-war-of-the-pacific-1879.json) |
 | Claim the Forest: Settling Peace | 399618 | [399618-claim-the-forest-settling-peace.json](./399618-claim-the-forest-settling-peace.json) |
 | Claims & Caverns | 414284 | [414284-claims-and-caverns.json](./414284-claims-and-caverns.json) |
 | Clair Obscur: Expedition 33 – Deluxe Edition | 333209 | [333209-clair-obscur-expedition-33-deluxe-edition.json](./333209-clair-obscur-expedition-33-deluxe-edition.json) |
@@ -2331,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claw Machine Sim | 259013 | [259013-claw-machine-sim.json](./259013-claw-machine-sim.json) |
 | Clawed | 342028 | [342028-clawed.json](./342028-clawed.json) |
 | Clawless Coin | 405526 | [405526-clawless-coin.json](./405526-clawless-coin.json) |
+| Clawsome | 334203 | [334203-clawsome.json](./334203-clawsome.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
 | Clay Puzzle | 391201 | [391201-clay-puzzle.json](./391201-clay-puzzle.json) |
@@ -4214,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Cross Seekers | 258987 | [258987-cross-seekers.json](./258987-cross-seekers.json) |
 | Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
+| Cross The Boundaries | 334182 | [334182-cross-the-boundaries.json](./334182-cross-the-boundaries.json) |
 | Crossbar Kevin | 246961 | [246961-crossbar-kevin.json](./246961-crossbar-kevin.json) |
 | Crossbars | 353963 | [353963-crossbars.json](./353963-crossbars.json) |
 | crossbeats REV. | 126033 | [126033-crossbeats-rev.json](./126033-crossbeats-rev.json) |
@@ -4726,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
 | Cursor Story | 237355 | [237355-cursor-story.json](./237355-cursor-story.json) |
 | Cursorcana | 343240 | [343240-cursorcana.json](./343240-cursorcana.json) |
+| CursorLublub | 334207 | [334207-cursorlublub.json](./334207-cursorlublub.json) |
 | Curtain Drop | 352828 | [352828-curtain-drop.json](./352828-curtain-drop.json) |
 | Curtiss | 40739 | [40739-curtiss.json](./40739-curtiss.json) |
 | Curupira | 218484 | [218484-curupira.json](./218484-curupira.json) |
