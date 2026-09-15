@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Jr: Root of Evil | 90656 | [90656-death-jr-root-of-evil.json](./90656-death-jr-root-of-evil.json) |
 | Death Jr. | 45988 | [45988-death-jr.json](./45988-death-jr.json) |
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
+| Death March | 365791 | [365791-death-march.json](./365791-death-march.json) |
 | Death Mask | 359982 | [359982-death-mask.json](./359982-death-mask.json) |
 | Death Match | 416694 | [416694-death-match.json](./416694-death-match.json) |
 | Death Maze | 109613 | [109613-death-maze.json](./109613-death-maze.json) |
@@ -1085,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckstrander | 257938 | [257938-deckstrander.json](./257938-deckstrander.json) |
 | Decktamer | 291367 | [291367-decktamer.json](./291367-decktamer.json) |
 | Deco: Block Simulator | 151661 | [151661-deco-block-simulator.json](./151661-deco-block-simulator.json) |
+| Decommissioned Tech Repair Mechanic Simulator 2099 | 365763 | [365763-decommissioned-tech-repair-mechanic-simulator-2099.json](./365763-decommissioned-tech-repair-mechanic-simulator-2099.json) |
 | Decommissioner | 186252 | [186252-decommissioner.json](./186252-decommissioner.json) |
 | Decompose With Me | 408160 | [408160-decompose-with-me.json](./408160-decompose-with-me.json) |
 | Decomposition | 339791 | [339791-decomposition.json](./339791-decomposition.json) |
