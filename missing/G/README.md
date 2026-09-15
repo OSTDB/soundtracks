@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Meets Princess | 82841 | [82841-girl-meets-princess.json](./82841-girl-meets-princess.json) |
 | Girl Nail Art | 87708 | [87708-girl-nail-art.json](./87708-girl-nail-art.json) |
 | Girl Next Door | 169406 | [169406-girl-next-door.json](./169406-girl-next-door.json) |
+| Girl Purgatoriem | 343365 | [343365-girl-purgatoriem.json](./343365-girl-purgatoriem.json) |
 | Girl Raid | 195172 | [195172-girl-raid.json](./195172-girl-raid.json) |
 | Girl Terminal | 410241 | [410241-girl-terminal.json](./410241-girl-terminal.json) |
 | Girl Who Cried Wolf | 298891 | [298891-girl-who-cried-wolf.json](./298891-girl-who-cried-wolf.json) |
@@ -2409,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero | 1285 | [1285-guitar-hero.json](./1285-guitar-hero.json) |
 | Guitar Hero II | 2670 | [2670-guitar-hero-ii.json](./2670-guitar-hero-ii.json) |
 | Guitar Hero III: Game Hits | 360102 | [360102-guitar-hero-iii-game-hits.json](./360102-guitar-hero-iii-game-hits.json) |
+| Guitar Hero III: ZV K-ON! 10th Anniversary - 2nd Version | 343370 | [343370-guitar-hero-iii-zv-k-on-10th-anniversary-2nd-version.json](./343370-guitar-hero-iii-zv-k-on-10th-anniversary-2nd-version.json) |
 | Guitar Hero World Tour: Definitive Edition | 187448 | [187448-guitar-hero-world-tour-definitive-edition.json](./187448-guitar-hero-world-tour-definitive-edition.json) |
 | Guitar Hero: On Tour - Decades | 7089 | [7089-guitar-hero-on-tour-decades.json](./7089-guitar-hero-on-tour-decades.json) |
 | Guitar Hero: Van Halen | 2675 | [2675-guitar-hero-van-halen.json](./2675-guitar-hero-van-halen.json) |
