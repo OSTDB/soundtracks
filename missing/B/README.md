@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Queen - "Bohemian Rhapsody" | 357228 | [357228-beat-saber-queen-bohemian-rhapsody.json](./357228-beat-saber-queen-bohemian-rhapsody.json) |
 | Beat Saber: Queen - "We Will Rock You" | 357225 | [357225-beat-saber-queen-we-will-rock-you.json](./357225-beat-saber-queen-we-will-rock-you.json) |
 | Beat Saber: Queen Music Pack | 250646 | [250646-beat-saber-queen-music-pack.json](./250646-beat-saber-queen-music-pack.json) |
+| Beat Saber: Rock Mixtape | 357351 | [357351-beat-saber-rock-mixtape.json](./357351-beat-saber-rock-mixtape.json) |
 | Beat Saber: Skrillex – "Bangarang (feat. Sirah)" | 357245 | [357245-beat-saber-skrillex-bangarang-feat-sirah.json](./357245-beat-saber-skrillex-bangarang-feat-sirah.json) |
 | Beat Saber: Skrillex – "Scary Monsters and Nice Sprites" | 357244 | [357244-beat-saber-skrillex-scary-monsters-and-nice-sprites.json](./357244-beat-saber-skrillex-scary-monsters-and-nice-sprites.json) |
 | Beat Saber: Skrillex & Wolfgang Gartner – "The Devil’s Den" | 357243 | [357243-beat-saber-skrillex-and-wolfgang-gartner-the-devil-s-den.json](./357243-beat-saber-skrillex-and-wolfgang-gartner-the-devil-s-den.json) |
@@ -2750,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blowup!! | 233246 | [233246-blowup.json](./233246-blowup.json) |
 | Blox | 18322 | [18322-blox.json](./18322-blox.json) |
 | Blox 3D | 100146 | [100146-blox-3d.json](./100146-blox-3d.json) |
+| BloxAR | 357299 | [357299-bloxar.json](./357299-bloxar.json) |
 | Bloxicus | 122428 | [122428-bloxicus.json](./122428-bloxicus.json) |
 | Bloxiq VR | 31828 | [31828-bloxiq-vr.json](./31828-bloxiq-vr.json) |
 | Bloxs | 244791 | [244791-bloxs.json](./244791-bloxs.json) |
@@ -3755,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Lines | 107175 | [107175-broken-lines.json](./107175-broken-lines.json) |
 | Broken Metal | 111038 | [111038-broken-metal.json](./111038-broken-metal.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
+| Broken Pact | 357319 | [357319-broken-pact.json](./357319-broken-pact.json) |
 | Broken Ranks | 162520 | [162520-broken-ranks.json](./162520-broken-ranks.json) |
 | Broken Robot | 152840 | [152840-broken-robot.json](./152840-broken-robot.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
