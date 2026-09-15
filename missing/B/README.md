@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band of Monsters | 38950 | [38950-band-of-monsters.json](./38950-band-of-monsters.json) |
 | Band Saga | 60563 | [60563-band-saga.json](./60563-band-saga.json) |
 | Band Space | 223432 | [223432-band-space.json](./223432-band-space.json) |
+| Band Together | 358417 | [358417-band-together.json](./358417-band-together.json) |
 | Band Wagon | 91435 | [91435-band-wagon.json](./91435-band-wagon.json) |
 | Bandana City | 93067 | [93067-bandana-city.json](./93067-bandana-city.json) |
 | Bandido | 264322 | [264322-bandido.json](./264322-bandido.json) |
@@ -1221,6 +1222,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear in the Snow | 362882 | [362882-bear-in-the-snow.json](./362882-bear-in-the-snow.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear Surfin Mega Wave | 200638 | [200638-bear-surfin-mega-wave.json](./200638-bear-surfin-mega-wave.json) |
+| Bear vs. Wolf Jigsaw Puzzle | 357865 | [357865-bear-vs-wolf-jigsaw-puzzle.json](./357865-bear-vs-wolf-jigsaw-puzzle.json) |
+| Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 1 | 357866 | [357866-bear-vs-wolf-jigsaw-puzzle-expansion-pack-1.json](./357866-bear-vs-wolf-jigsaw-puzzle-expansion-pack-1.json) |
+| Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 2 | 357867 | [357867-bear-vs-wolf-jigsaw-puzzle-expansion-pack-2.json](./357867-bear-vs-wolf-jigsaw-puzzle-expansion-pack-2.json) |
+| Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 3 | 357868 | [357868-bear-vs-wolf-jigsaw-puzzle-expansion-pack-3.json](./357868-bear-vs-wolf-jigsaw-puzzle-expansion-pack-3.json) |
+| Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 4 | 357869 | [357869-bear-vs-wolf-jigsaw-puzzle-expansion-pack-4.json](./357869-bear-vs-wolf-jigsaw-puzzle-expansion-pack-4.json) |
+| Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 5 | 357870 | [357870-bear-vs-wolf-jigsaw-puzzle-expansion-pack-5.json](./357870-bear-vs-wolf-jigsaw-puzzle-expansion-pack-5.json) |
 | Bear With Me: The Complete Collection | 116990 | [116990-bear-with-me-the-complete-collection.json](./116990-bear-with-me-the-complete-collection.json) |
 | Bear With Me: The Lost Robots | 117105 | [117105-bear-with-me-the-lost-robots.json](./117105-bear-with-me-the-lost-robots.json) |
 | Bear's Restaurant | 151754 | [151754-bears-restaurant.json](./151754-bears-restaurant.json) |
@@ -1360,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Japanese Scenery: Animated Jigsaws | 31695 | [31695-beautiful-japanese-scenery-animated-jigsaws.json](./31695-beautiful-japanese-scenery-animated-jigsaws.json) |
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
+| Beauty Jigsaw: Image Pack | 357874 | [357874-beauty-jigsaw-image-pack.json](./357874-beauty-jigsaw-image-pack.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Beauty vs. Zombie | 309844 | [309844-beauty-vs-zombie.json](./309844-beauty-vs-zombie.json) |
 | Beaver Creek | 360060 | [360060-beaver-creek.json](./360060-beaver-creek.json) |
@@ -3712,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Briks Head to Head | 187547 | [187547-briks-head-to-head.json](./187547-briks-head-to-head.json) |
 | Brilliance shines in Zhejiang | 201797 | [201797-brilliance-shines-in-zhejiang.json](./201797-brilliance-shines-in-zhejiang.json) |
 | Brilliant Bob | 19484 | [19484-brilliant-bob.json](./19484-brilliant-bob.json) |
+| Brilliant Jigsaw | 357871 | [357871-brilliant-jigsaw.json](./357871-brilliant-jigsaw.json) |
 | Brimstone Brawlers | 105267 | [105267-brimstone-brawlers.json](./105267-brimstone-brawlers.json) |
 | Brincando com Ariê | 341885 | [341885-brincando-com-arie.json](./341885-brincando-com-arie.json) |
 | Brinefall | 190220 | [190220-brinefall.json](./190220-brinefall.json) |
