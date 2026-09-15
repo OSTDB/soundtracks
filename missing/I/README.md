@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Out at The Top of the World | 318790 | [318790-inside-out-at-the-top-of-the-world.json](./318790-inside-out-at-the-top-of-the-world.json) |
 | Inside Pete Premium | 245323 | [245323-inside-pete-premium.json](./245323-inside-pete-premium.json) |
 | Inside the Clockwork Pussy | 280202 | [280202-inside-the-clockwork-pussy.json](./280202-inside-the-clockwork-pussy.json) |
+| Inside the Crow's Nest | 353383 | [353383-inside-the-crows-nest.json](./353383-inside-the-crows-nest.json) |
 | Inside the Memories | 152862 | [152862-inside-the-memories.json](./152862-inside-the-memories.json) |
 | Inside The Mind Of Irene Moroz | 409701 | [409701-inside-the-mind-of-irene-moroz.json](./409701-inside-the-mind-of-irene-moroz.json) |
 | Inside Trader: The Authentic Stock Trading Game | 94246 | [94246-inside-trader-the-authentic-stock-trading-game.json](./94246-inside-trader-the-authentic-stock-trading-game.json) |
