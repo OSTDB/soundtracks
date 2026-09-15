@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T07:34:26.435Z",
-  "total_missing": 73003,
+  "generated_at": "2026-09-15T07:41:47.782Z",
+  "total_missing": 73002,
   "games": [
     {
       "igdb_id": 306086,
@@ -5081,11 +5081,6 @@
       "igdb_id": 5356,
       "game_name": "After Burner III",
       "file": "missing/A/5356-after-burner-iii.json"
-    },
-    {
-      "igdb_id": 158213,
-      "game_name": "After Crisis: Snowstorm",
-      "file": "missing/A/158213-after-crisis-snowstorm.json"
     },
     {
       "igdb_id": 357793,
