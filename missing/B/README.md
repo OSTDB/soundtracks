@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Pixel's Survival | 76680 | [76680-battle-pixels-survival.json](./76680-battle-pixels-survival.json) |
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
 | Battle Princess Madelyn: Royal Edition | 147930 | [147930-battle-princess-madelyn-royal-edition.json](./147930-battle-princess-madelyn-royal-edition.json) |
+| Battle Puzzle 2048: Wicked Witches | 370801 | [370801-battle-puzzle-2048-wicked-witches.json](./370801-battle-puzzle-2048-wicked-witches.json) |
 | Battle Racing Stars | 138719 | [138719-battle-racing-stars.json](./138719-battle-racing-stars.json) |
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
 | Battle Raper | 22407 | [22407-battle-raper.json](./22407-battle-raper.json) |
@@ -1196,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
 | Beans Dash | 256255 | [256255-beans-dash.json](./256255-beans-dash.json) |
+| Bear Adventure | 370762 | [370762-bear-adventure.json](./370762-bear-adventure.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear Surfin Mega Wave | 200638 | [200638-bear-surfin-mega-wave.json](./200638-bear-surfin-mega-wave.json) |
 | Bear With Me: The Complete Collection | 116990 | [116990-bear-with-me-the-complete-collection.json](./116990-bear-with-me-the-complete-collection.json) |
@@ -2081,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
 | BK: OSRS | 313105 | [313105-bk-osrs.json](./313105-bk-osrs.json) |
 | BL Werewolf:Doki-Doki Summer vacation | 373633 | [373633-bl-werewolf-doki-doki-summer-vacation.json](./373633-bl-werewolf-doki-doki-summer-vacation.json) |
+| Blablublas Battle Royale Shooter | 370787 | [370787-blablublas-battle-royale-shooter.json](./370787-blablublas-battle-royale-shooter.json) |
 | Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
 | Black Bass with Blue Marlin | 43881 | [43881-black-bass-with-blue-marlin.json](./43881-black-bass-with-blue-marlin.json) |
@@ -2140,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
 | Black Queen | 13697 | [13697-black-queen.json](./13697-black-queen.json) |
+| Black Rainbow | 370780 | [370780-black-rainbow.json](./370780-black-rainbow.json) |
 | Black River | 29661 | [29661-black-river.json](./29661-black-river.json) |
 | Black Robinia | 59420 | [59420-black-robinia.json](./59420-black-robinia.json) |
 | Black Rose | 33253 | [33253-black-rose.json](./33253-black-rose.json) |
@@ -2902,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Disposer | 210638 | [210638-bomb-disposer.json](./210638-bomb-disposer.json) |
 | Bomb It 7 | 387553 | [387553-bomb-it-7.json](./387553-bomb-it-7.json) |
 | Bomb Jack Twin | 39652 | [39652-bomb-jack-twin.json](./39652-bomb-jack-twin.json) |
+| Bomb Kitten | 370788 | [370788-bomb-kitten.json](./370788-bomb-kitten.json) |
 | Bomb Labyrinth | 99623 | [99623-bomb-labyrinth.json](./99623-bomb-labyrinth.json) |
 | Bomb Riders | 108407 | [108407-bomb-riders.json](./108407-bomb-riders.json) |
 | Bomb Rush Cyberfunk: Exclusive Edition | 379972 | [379972-bomb-rush-cyberfunk-exclusive-edition.json](./379972-bomb-rush-cyberfunk-exclusive-edition.json) |
