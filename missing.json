@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T05:07:03.232Z",
-  "total_missing": 72564,
+  "generated_at": "2026-09-15T05:11:38.063Z",
+  "total_missing": 72563,
   "games": [
     {
       "igdb_id": 306086,
@@ -5006,11 +5006,6 @@
       "igdb_id": 14228,
       "game_name": "Afrika Korps",
       "file": "missing/A/14228-afrika-korps.json"
-    },
-    {
-      "igdb_id": 20030,
-      "game_name": "Afro Samurai 2: Revenge of Kuma",
-      "file": "missing/A/20030-afro-samurai-2-revenge-of-kuma.json"
     },
     {
       "igdb_id": 246670,
