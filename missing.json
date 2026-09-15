@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T08:04:30.407Z",
-  "total_missing": 73100,
+  "generated_at": "2026-09-15T08:11:42.641Z",
+  "total_missing": 73099,
   "games": [
     {
       "igdb_id": 306086,
@@ -5096,11 +5096,6 @@
       "igdb_id": 339803,
       "game_name": "After Friday",
       "file": "missing/A/339803-after-friday.json"
-    },
-    {
-      "igdb_id": 239347,
-      "game_name": "After Gym",
-      "file": "missing/A/239347-after-gym.json"
     },
     {
       "igdb_id": 366912,
