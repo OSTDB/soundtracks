@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage World: The Wizard's Stone | 169419 | [169419-mage-world-the-wizards-stone.json](./169419-mage-world-the-wizards-stone.json) |
 | Mage: Enchanted | 169946 | [169946-mage-enchanted.json](./169946-mage-enchanted.json) |
 | Magekeepers | 302359 | [302359-magekeepers.json](./302359-magekeepers.json) |
+| Magenta Arcade II | 373639 | [373639-magenta-arcade-ii.json](./373639-magenta-arcade-ii.json) |
 | Magerealm: Rise of Chaos | 12874 | [12874-magerealm-rise-of-chaos.json](./12874-magerealm-rise-of-chaos.json) |
 | MageRun | 192361 | [192361-magerun.json](./192361-magerun.json) |
 | Maggie's Apartment | 50504 | [50504-maggies-apartment.json](./50504-maggies-apartment.json) |
@@ -2196,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Exodus: Aurora Limited Edition | 109587 | [109587-metro-exodus-aurora-limited-edition.json](./109587-metro-exodus-aurora-limited-edition.json) |
 | Metro Exodus: Gold Edition | 95059 | [95059-metro-exodus-gold-edition.json](./95059-metro-exodus-gold-edition.json) |
 | Metro Exodus: Sam's Story | 121756 | [121756-metro-exodus-sams-story.json](./121756-metro-exodus-sams-story.json) |
+| Metro Rivals: New York | 373617 | [373617-metro-rivals-new-york.json](./373617-metro-rivals-new-york.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
 | Metro-Cross | 39688 | [39688-metro-cross.json](./39688-metro-cross.json) |
 | Metro-Police | 19586 | [19586-metro-police.json](./19586-metro-police.json) |
@@ -2610,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimics the Bots | 238514 | [238514-mimics-the-bots.json](./238514-mimics-the-bots.json) |
 | Mimizu Panzer | 267645 | [267645-mimizu-panzer.json](./267645-mimizu-panzer.json) |
 | Mimpi Hidden Objects | 242561 | [242561-mimpi-hidden-objects.json](./242561-mimpi-hidden-objects.json) |
+| Mina | 373622 | [373622-mina.json](./373622-mina.json) |
 | Mina & Michi | 152408 | [152408-mina-and-michi.json](./152408-mina-and-michi.json) |
 | Mina the Hollower GBC Demake | 305750 | [305750-mina-the-hollower-gbc-demake.json](./305750-mina-the-hollower-gbc-demake.json) |
 | Minable & Create | 155123 | [155123-minable-and-create.json](./155123-minable-and-create.json) |
@@ -3081,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
 | Mithral Gun | 196330 | [196330-mithral-gun.json](./196330-mithral-gun.json) |
+| Mitla | 373657 | [373657-mitla.json](./373657-mitla.json) |
 | Mitos.is: The Game | 34786 | [34786-mitos-is-the-game.json](./34786-mitos-is-the-game.json) |
 | Mitrasphere | 146911 | [146911-mitrasphere.json](./146911-mitrasphere.json) |
 | Mitsuge! Megami-sama | 329951 | [329951-mitsuge-megami-sama.json](./329951-mitsuge-megami-sama.json) |
@@ -4533,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Confounding Cat is Criminally Cute! | 284911 | [284911-my-confounding-cat-is-criminally-cute.json](./284911-my-confounding-cat-is-criminally-cute.json) |
 | My Cool Diner | 200150 | [200150-my-cool-diner.json](./200150-my-cool-diner.json) |
 | My Coworkers Are Made Of Static | 401490 | [401490-my-coworkers-are-made-of-static.json](./401490-my-coworkers-are-made-of-static.json) |
+| My Cozy Aquarium | 373615 | [373615-my-cozy-aquarium.json](./373615-my-cozy-aquarium.json) |
 | My Creampie Heaven | 173815 | [173815-my-creampie-heaven.json](./173815-my-creampie-heaven.json) |
 | My Cute Unicorns: Coloring Book | 212272 | [212272-my-cute-unicorns-coloring-book.json](./212272-my-cute-unicorns-coloring-book.json) |
 | My Cute, Pure Boyfriend | 303274 | [303274-my-cute-pure-boyfriend.json](./303274-my-cute-pure-boyfriend.json) |
@@ -4660,6 +4665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Universe: Demodium | 286542 | [286542-my-little-universe-demodium.json](./286542-my-little-universe-demodium.json) |
 | My Little Work: Garage | 89180 | [89180-my-little-work-garage.json](./89180-my-little-work-garage.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
+| My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
