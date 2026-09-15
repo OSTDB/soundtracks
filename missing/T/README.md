@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
 | Terraria 2 | 3021 | [3021-terraria-2.json](./3021-terraria-2.json) |
 | Terraria: Calamity Mod | 141229 | [141229-terraria-calamity-mod.json](./141229-terraria-calamity-mod.json) |
+| Terraria: Lunar Veil Mod | 361816 | [361816-terraria-lunar-veil-mod.json](./361816-terraria-lunar-veil-mod.json) |
 | Terraria: Otherworld | 25677 | [25677-terraria-otherworld.json](./25677-terraria-otherworld.json) |
 | TerrariaCraft | 300699 | [300699-terrariacraft.json](./300699-terrariacraft.json) |
 | TerraScape | 239642 | [239642-terrascape.json](./239642-terrascape.json) |
@@ -1198,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Testing Facility | 274181 | [274181-testing-facility.json](./274181-testing-facility.json) |
 | Tet Story | 400370 | [400370-tet-story.json](./400370-tet-story.json) |
 | Tether | 186336 | [186336-tether.json](./186336-tether.json) |
+| Tetjis | 361756 | [361756-tetjis.json](./361756-tetjis.json) |
 | Tetnis | 93522 | [93522-tetnis.json](./93522-tetnis.json) |
 | Tetr.io: Season 2 | 363973 | [363973-tetr-io-season-2.json](./363973-tetr-io-season-2.json) |
 | Tetra for Nintendo Switch: International Edition | 187462 | [187462-tetra-for-nintendo-switch-international-edition.json](./187462-tetra-for-nintendo-switch-international-edition.json) |
@@ -2392,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
 | The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
 | The Flow | 140544 | [140544-the-flow.json](./140544-the-flow.json) |
+| The Flower | 361747 | [361747-the-flower.json](./361747-the-flower.json) |
 | The Flying Feathers | 247768 | [247768-the-flying-feathers.json](./247768-the-flying-feathers.json) |
 | The Flying Jet | 366223 | [366223-the-flying-jet.json](./366223-the-flying-jet.json) |
 | The Fog | 305143 | [305143-the-fog.json](./305143-the-fog.json) |
@@ -3850,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sea Lion | 386845 | [386845-the-sea-lion.json](./386845-the-sea-lion.json) |
 | The Séance of Blake Manor | 335833 | [335833-the-seance-of-blake-manor.json](./335833-the-seance-of-blake-manor.json) |
 | The Search | 30193 | [30193-the-search.json](./30193-the-search.json) |
+| The Search For Above Average Life | 361752 | [361752-the-search-for-above-average-life.json](./361752-the-search-for-above-average-life.json) |
 | The Search For Sonic Mania 2 | 352175 | [352175-the-search-for-sonic-mania-2.json](./352175-the-search-for-sonic-mania-2.json) |
 | The Search for Tikiman | 265679 | [265679-the-search-for-tikiman.json](./265679-the-search-for-tikiman.json) |
 | The Search Master: Metal Gear Solid Edition | 270390 | [270390-the-search-master-metal-gear-solid-edition.json](./270390-the-search-master-metal-gear-solid-edition.json) |
@@ -3943,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sign | 241634 | [241634-the-sign.json](./241634-the-sign.json) |
 | The Signifier: Deluxe Edition | 154550 | [154550-the-signifier-deluxe-edition.json](./154550-the-signifier-deluxe-edition.json) |
 | The Silence | 185625 | [185625-the-silence.json](./185625-the-silence.json) |
+| The Silence After | 361769 | [361769-the-silence-after.json](./361769-the-silence-after.json) |
 | The Silent Age | 11444 | [11444-the-silent-age.json](./11444-the-silent-age.json) |
 | The Silent Cartographer: Evolved | 375319 | [375319-the-silent-cartographer-evolved.json](./375319-the-silent-cartographer-evolved.json) |
 | The Silent Islands | 211939 | [211939-the-silent-islands.json](./211939-the-silent-islands.json) |
@@ -4726,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yawhg | 3031 | [3031-the-yawhg.json](./3031-the-yawhg.json) |
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
 | The Yellow Quiz | 114365 | [114365-the-yellow-quiz.json](./114365-the-yellow-quiz.json) |
+| The You Quiz | 361757 | [361757-the-you-quiz.json](./361757-the-you-quiz.json) |
 | The You Testament | 59920 | [59920-the-you-testament.json](./59920-the-you-testament.json) |
 | The You Testament: The 2D Coming | 234312 | [234312-the-you-testament-the-2d-coming.json](./234312-the-you-testament-the-2d-coming.json) |
 | The Youthdrainers | 34701 | [34701-the-youthdrainers.json](./34701-the-youthdrainers.json) |
@@ -6217,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Stewart's All American Racing Bundle | 141785 | [141785-tony-stewarts-all-american-racing-bundle.json](./141785-tony-stewarts-all-american-racing-bundle.json) |
 | Tony Stewart's All-American Racing | 139980 | [139980-tony-stewarts-all-american-racing.json](./139980-tony-stewarts-all-american-racing.json) |
 | Tony Stewart's All-American Racing: Texas Motor Speedway Dirt Track | 167851 | [167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json](./167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json) |
+| Tony's Crispy Crisps | 361745 | [361745-tonys-crispy-crisps.json](./361745-tonys-crispy-crisps.json) |
 | Tonzurakko | 66630 | [66630-tonzurakko.json](./66630-tonzurakko.json) |
 | Too Deep To Quit | 397820 | [397820-too-deep-to-quit.json](./397820-too-deep-to-quit.json) |
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
