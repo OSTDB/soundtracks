@@ -1915,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extra Story of God's One Day World | 162853 | [162853-extra-story-of-gods-one-day-world.json](./162853-extra-story-of-gods-one-day-world.json) |
 | Extra Terrestrial Perception | 44615 | [44615-extra-terrestrial-perception.json](./44615-extra-terrestrial-perception.json) |
 | Extra Terrestrials | 40778 | [40778-extra-terrestrials.json](./40778-extra-terrestrials.json) |
+| ExtracTD | 337675 | [337675-extractd.json](./337675-extractd.json) |
 | Extraordinary Detective Marshall | 299728 | [299728-extraordinary-detective-marshall.json](./299728-extraordinary-detective-marshall.json) |
 | Extravaganza Rising | 32078 | [32078-extravaganza-rising.json](./32078-extravaganza-rising.json) |
 | Extreme Angler | 72051 | [72051-extreme-angler.json](./72051-extreme-angler.json) |
