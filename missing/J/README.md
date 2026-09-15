@@ -606,6 +606,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JonTron: Bird vs. Camel | 12201 | [12201-jontron-bird-vs-camel.json](./12201-jontron-bird-vs-camel.json) |
 | Joongboongi's Adventure | 340775 | [340775-joongboongis-adventure.json](./340775-joongboongis-adventure.json) |
 | JoonGo Playground | 112268 | [112268-joongo-playground.json](./112268-joongo-playground.json) |
+| Jordan vs. Bird | 361785 | [361785-jordan-vs-bird.json](./361785-jordan-vs-bird.json) |
+| Jordan vs. Bird: One on One | 361783 | [361783-jordan-vs-bird-one-on-one.json](./361783-jordan-vs-bird-one-on-one.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy | 207334 | [207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json](./207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json) |
 | Joryuu Janshi ni Chousen | 97861 | [97861-joryuu-janshi-ni-chousen.json](./97861-joryuu-janshi-ni-chousen.json) |
 | Joryuu Janshi ni Chousen GB: Watashi-tachi ni Chousen Shite ne! | 97857 | [97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json](./97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json) |
@@ -903,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Another Christmas | 272033 | [272033-just-another-christmas.json](./272033-just-another-christmas.json) |
 | Just another generic: FPS | 291219 | [291219-just-another-generic-fps.json](./291219-just-another-generic-fps.json) |
 | Just Another Platformer | 316052 | [316052-just-another-platformer.json](./316052-just-another-platformer.json) |
+| Just Another Pong Clone | 361736 | [361736-just-another-pong-clone.json](./361736-just-another-pong-clone.json) |
 | Just Another Runner | 204109 | [204109-just-another-runner.json](./204109-just-another-runner.json) |
 | Just Bat: VR Cricket | 31362 | [31362-just-bat-vr-cricket.json](./31362-just-bat-vr-cricket.json) |
 | Just Cause | 1042 | [1042-just-cause.json](./1042-just-cause.json) |
