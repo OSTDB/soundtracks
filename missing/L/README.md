@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Adventurer III | 83547 | [83547-little-adventurer-iii.json](./83547-little-adventurer-iii.json) |
 | Little Airplane 3D for kids: learn colors, numbers | 101495 | [101495-little-airplane-3d-for-kids-learn-colors-numbers.json](./101495-little-airplane-3d-for-kids-learn-colors-numbers.json) |
 | Little Alchemy | 38911 | [38911-little-alchemy.json](./38911-little-alchemy.json) |
+| Little Amazon | 356196 | [356196-little-amazon.json](./356196-little-amazon.json) |
 | Little Artist - Drawing and Coloring Book | 104598 | [104598-little-artist-drawing-and-coloring-book.json](./104598-little-artist-drawing-and-coloring-book.json) |
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
 | Little Backpack | 407408 | [407408-little-backpack.json](./407408-little-backpack.json) |
