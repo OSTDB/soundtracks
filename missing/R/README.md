@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Knights | 153929 | [153929-rhythm-knights.json](./153929-rhythm-knights.json) |
 | Rhythm League Heroes | 276181 | [276181-rhythm-league-heroes.json](./276181-rhythm-league-heroes.json) |
 | Rhythm Lust Girl 2 | 249786 | [249786-rhythm-lust-girl-2.json](./249786-rhythm-lust-girl-2.json) |
+| Rhythm of Earth | 375289 | [375289-rhythm-of-earth.json](./375289-rhythm-of-earth.json) |
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
 | Rhythm Realm | 248040 | [248040-rhythm-realm.json](./248040-rhythm-realm.json) |
 | Rhythm Rewind | 177995 | [177995-rhythm-rewind.json](./177995-rhythm-rewind.json) |
