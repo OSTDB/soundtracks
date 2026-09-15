@@ -502,7 +502,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After-Image | 362285 | [362285-after-image.json](./362285-after-image.json) |
 | Afterblast | 164434 | [164434-afterblast.json](./164434-afterblast.json) |
 | Afterbright | 357794 | [357794-afterbright.json](./357794-afterbright.json) |
-| Afterimage Mobile | 297224 | [297224-afterimage-mobile.json](./297224-afterimage-mobile.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
 | Afterlife | 264043 | [264043-afterlife.json](./264043-afterlife.json) |
 | Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
