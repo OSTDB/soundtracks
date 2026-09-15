@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find It - Tap the Different | 55102 | [55102-find-it-tap-the-different.json](./55102-find-it-tap-the-different.json) |
+| Find Kittens 7: Cookie Town | 379970 | [379970-find-kittens-7-cookie-town.json](./379970-find-kittens-7-cookie-town.json) |
 | Find Kittens 8: Happy New Year | 379381 | [379381-find-kittens-8-happy-new-year.json](./379381-find-kittens-8-happy-new-year.json) |
 | Find Kittens 9: Aliens | 386690 | [386690-find-kittens-9-aliens.json](./386690-find-kittens-9-aliens.json) |
 | Find Me A Good One | 128635 | [128635-find-me-a-good-one.json](./128635-find-me-a-good-one.json) |
