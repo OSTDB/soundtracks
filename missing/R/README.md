@@ -3100,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush'n Attack | 90990 | [90990-rushn-attack.json](./90990-rushn-attack.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
 | Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
+| Rushing Beat X: Return of Brawl Brothers | 345566 | [345566-rushing-beat-x-return-of-brawl-brothers.json](./345566-rushing-beat-x-return-of-brawl-brothers.json) |
 | Rushing Heroes | 65472 | [65472-rushing-heroes.json](./65472-rushing-heroes.json) |
 | Rushing Punch | 270675 | [270675-rushing-punch.json](./270675-rushing-punch.json) |
 | RushLane | 243679 | [243679-rushlane.json](./243679-rushlane.json) |
@@ -3114,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Driver | 197376 | [197376-russian-driver.json](./197376-russian-driver.json) |
 | Russian Drunken Boxers | 158697 | [158697-russian-drunken-boxers.json](./158697-russian-drunken-boxers.json) |
 | Russian Fight Simulator | 263767 | [263767-russian-fight-simulator.json](./263767-russian-fight-simulator.json) |
+| Russian Fishing | 345561 | [345561-russian-fishing.json](./345561-russian-fishing.json) |
 | Russian Life Simulator | 118022 | [118022-russian-life-simulator.json](./118022-russian-life-simulator.json) |
 | Russian Pawn Store | 211749 | [211749-russian-pawn-store.json](./211749-russian-pawn-store.json) |
 | Russian Peace Duck: Take My Nalogi | 96614 | [96614-russian-peace-duck-take-my-nalogi.json](./96614-russian-peace-duck-take-my-nalogi.json) |
@@ -3164,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
 | Ruthnar Online | 293325 | [293325-ruthnar-online.json](./293325-ruthnar-online.json) |
 | Rutterkin | 416685 | [416685-rutterkin.json](./416685-rutterkin.json) |
+| Ruyn HD | 345565 | [345565-ruyn-hd.json](./345565-ruyn-hd.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
 | Ruzzle Adventure | 38910 | [38910-ruzzle-adventure.json](./38910-ruzzle-adventure.json) |
