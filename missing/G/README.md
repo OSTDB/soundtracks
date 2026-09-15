@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye, Doggy | 135905 | [135905-goodbye-doggy.json](./135905-goodbye-doggy.json) |
 | Goodbye.Monster | 323716 | [323716-goodbye-monster.json](./323716-goodbye-monster.json) |
 | Goodfolks | 61704 | [61704-goodfolks.json](./61704-goodfolks.json) |
+| GoodGod | 355080 | [355080-goodgod.json](./355080-goodgod.json) |
 | Goodness Rakes | 231607 | [231607-goodness-rakes.json](./231607-goodness-rakes.json) |
 | Goodnight | 299122 | [299122-goodnight.json](./299122-goodnight.json) |
 | GoodNight | 193404 | [193404-goodnight.json](./193404-goodnight.json) |
@@ -2566,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger: Zombie Survival | 226762 | [226762-gunslinger-zombie-survival.json](./226762-gunslinger-zombie-survival.json) |
 | Gunslingers of the Wasteland vs. The Zombies from Mars | 170503 | [170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json](./170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json) |
 | Gunslugs 2 | 35977 | [35977-gunslugs-2.json](./35977-gunslugs-2.json) |
+| Gunsmith | 355085 | [355085-gunsmith.json](./355085-gunsmith.json) |
 | Gunsmith Simulator | 133405 | [133405-gunsmith-simulator.json](./133405-gunsmith-simulator.json) |
 | GunSoul Girl 2 | 213000 | [213000-gunsoul-girl-2.json](./213000-gunsoul-girl-2.json) |
 | Gunspell: Steam Edition | 36221 | [36221-gunspell-steam-edition.json](./36221-gunspell-steam-edition.json) |
