@@ -3315,6 +3315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy! Trampoline | 233520 | [233520-bouncy-trampoline.json](./233520-bouncy-trampoline.json) |
 | Bound | 14790 | [14790-bound.json](./14790-bound.json) |
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
+| Bound Between Desks | 347765 | [347765-bound-between-desks.json](./347765-bound-between-desks.json) |
 | Bound By A Curse | 402365 | [402365-bound-by-a-curse.json](./402365-bound-by-a-curse.json) |
 | Bound By Blood | 140545 | [140545-bound-by-blood.json](./140545-bound-by-blood.json) |
 | Bound By Havoc | 384646 | [384646-bound-by-havoc.json](./384646-bound-by-havoc.json) |
