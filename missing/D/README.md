@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
 | Dahliphoria | 224768 | [224768-dahliphoria.json](./224768-dahliphoria.json) |
+| Dai Datsugoku! Hell chama Prison no Yabou | 353376 | [353376-dai-datsugoku-hell-chama-prison-no-yabou.json](./353376-dai-datsugoku-hell-chama-prison-no-yabou.json) |
 | Dai-2-ji Super Robot Taisen | 48636 | [48636-dai-2-ji-super-robot-taisen.json](./48636-dai-2-ji-super-robot-taisen.json) |
 | Dai-2-ji Super Robot Taisen G | 221400 | [221400-dai-2-ji-super-robot-taisen-g.json](./221400-dai-2-ji-super-robot-taisen-g.json) |
 | Dai-2-ji Super Robot Taisen OG | 7264 | [7264-dai-2-ji-super-robot-taisen-og.json](./7264-dai-2-ji-super-robot-taisen-og.json) |
@@ -966,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
 | Death Alley | 179681 | [179681-death-alley.json](./179681-death-alley.json) |
 | Death and Betrayal in Romania: A Dana Knightstone Novel - Collector's Edition | 107838 | [107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json](./107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json) |
+| Death and Tactics | 353364 | [353364-death-and-tactics.json](./353364-death-and-tactics.json) |
 | Death and Taxes | 126835 | [126835-death-and-taxes.json](./126835-death-and-taxes.json) |
 | Death Angel Trial | 284334 | [284334-death-angel-trial.json](./284334-death-angel-trial.json) |
 | Death at Sycamore Hall | 388250 | [388250-death-at-sycamore-hall.json](./388250-death-at-sycamore-hall.json) |
@@ -2065,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digseum | 325317 | [325317-digseum.json](./325317-digseum.json) |
 | Dik Journey | 310920 | [310920-dik-journey.json](./310920-dik-journey.json) |
 | Dilarara!! | 82876 | [82876-dilarara.json](./82876-dilarara.json) |
+| Dilemma: The Game | 353363 | [353363-dilemma-the-game.json](./353363-dilemma-the-game.json) |
 | Dilemo | 283684 | [283684-dilemo.json](./283684-dilemo.json) |
 | Dillo Guy | 293890 | [293890-dillo-guy.json](./293890-dillo-guy.json) |
 | Dillon's Dead-Heat Breakers | 90687 | [90687-dillons-dead-heat-breakers.json](./90687-dillons-dead-heat-breakers.json) |
@@ -3680,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
 | DreamPusher | 368047 | [368047-dreampusher.json](./368047-dreampusher.json) |
+| Dreamrealm's Tower of Despair | 353379 | [353379-dreamrealms-tower-of-despair.json](./353379-dreamrealms-tower-of-despair.json) |
 | Dreams and Nightmares | 146277 | [146277-dreams-and-nightmares.json](./146277-dreams-and-nightmares.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
 | Dreams of Joy Departed | 317581 | [317581-dreams-of-joy-departed.json](./317581-dreams-of-joy-departed.json) |
