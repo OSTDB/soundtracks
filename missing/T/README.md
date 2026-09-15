@@ -4160,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
 | The Static | 408196 | [408196-the-static.json](./408196-the-static.json) |
+| The Statue Got Me High | 358371 | [358371-the-statue-got-me-high.json](./358371-the-statue-got-me-high.json) |
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
 | The Sting! | 11851 | [11851-the-sting.json](./11851-the-sting.json) |
 | The Stone of Destiny | 284322 | [284322-the-stone-of-destiny.json](./284322-the-stone-of-destiny.json) |
@@ -4269,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tenth Minute | 400243 | [400243-the-tenth-minute.json](./400243-the-tenth-minute.json) |
 | The Terminator | 4372 | [4372-the-terminator.json](./4372-the-terminator.json) |
 | The Terminator | 7688 | [7688-the-terminator.json](./7688-the-terminator.json) |
+| The Terminator 2029: Deluxe CD Edition | 358341 | [358341-the-terminator-2029-deluxe-cd-edition.json](./358341-the-terminator-2029-deluxe-cd-edition.json) |
 | The Terminator 2029: Operation Scour | 15508 | [15508-the-terminator-2029-operation-scour.json](./15508-the-terminator-2029-operation-scour.json) |
 | The Terminator: Future Shock | 8413 | [8413-the-terminator-future-shock.json](./8413-the-terminator-future-shock.json) |
 | The Terrible Old Man: Collector's Edition | 156100 | [156100-the-terrible-old-man-collectors-edition.json](./156100-the-terrible-old-man-collectors-edition.json) |
@@ -5904,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Crown | 182530 | [182530-to-the-crown.json](./182530-to-the-crown.json) |
 | To The Dark Tower | 119006 | [119006-to-the-dark-tower.json](./119006-to-the-dark-tower.json) |
 | To the End 2 | 174304 | [174304-to-the-end-2.json](./174304-to-the-end-2.json) |
+| To The Grave: The Hunters of Faenora | 358385 | [358385-to-the-grave-the-hunters-of-faenora.json](./358385-to-the-grave-the-hunters-of-faenora.json) |
 | To the HeIghts of My Heart | 178044 | [178044-to-the-heights-of-my-heart.json](./178044-to-the-heights-of-my-heart.json) |
 | To the Home | 405478 | [405478-to-the-home.json](./405478-to-the-home.json) |
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
@@ -7236,6 +7239,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
 | Traumatarium | 268457 | [268457-traumatarium.json](./268457-traumatarium.json) |
 | Travel Bug | 86096 | [86096-travel-bug.json](./86096-travel-bug.json) |
+| Travel Cuisine 2: Sweet Life | 358405 | [358405-travel-cuisine-2-sweet-life.json](./358405-travel-cuisine-2-sweet-life.json) |
+| Travel Cuisine 3: The Sea of Flavours - Collector's Edition | 358404 | [358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json](./358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json) |
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
 | Travel Junction | 335859 | [335859-travel-junction.json](./335859-travel-junction.json) |
 | Travel Mosaics 3: Tokyo Animated | 134058 | [134058-travel-mosaics-3-tokyo-animated.json](./134058-travel-mosaics-3-tokyo-animated.json) |
