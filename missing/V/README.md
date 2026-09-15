@@ -594,6 +594,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viper | 12901 | [12901-viper.json](./12901-viper.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
+| Virago World | 374738 | [374738-virago-world.json](./374738-virago-world.json) |
+| Virago: Herstory 2 | 374735 | [374735-virago-herstory-2.json](./374735-virago-herstory-2.json) |
 | Viral Firar | 166698 | [166698-viral-firar.json](./166698-viral-firar.json) |
 | Viral Quarantine | 116404 | [116404-viral-quarantine.json](./116404-viral-quarantine.json) |
 | Viral Survival | 85475 | [85475-viral-survival.json](./85475-viral-survival.json) |
@@ -1030,4 +1032,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vyanka's Memories | 307943 | [307943-vyankas-memories.json](./307943-vyankas-memories.json) |
 | Vysions | 290957 | [290957-vysions.json](./290957-vysions.json) |
 | Vythzkel of City Dinasty | 338557 | [338557-vythzkel-of-city-dinasty.json](./338557-vythzkel-of-city-dinasty.json) |
+| Vyun, Kosmeya, and the Witch's Curse | 374714 | [374714-vyun-kosmeya-and-the-witchs-curse.json](./374714-vyun-kosmeya-and-the-witchs-curse.json) |
+| Vyzyvatel | 374717 | [374717-vyzyvatel.json](./374717-vyzyvatel.json) |
 | VZfit Play | 125428 | [125428-vzfit-play.json](./125428-vzfit-play.json) |
