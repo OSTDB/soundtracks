@@ -3359,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Raze | 320535 | [320535-cosmic-raze.json](./320535-cosmic-raze.json) |
 | Cosmic Reach | 292852 | [292852-cosmic-reach.json](./292852-cosmic-reach.json) |
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
+| Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
 | Cosmic Tank | 141200 | [141200-cosmic-tank.json](./141200-cosmic-tank.json) |
 | Cosmic Tankinator | 292548 | [292548-cosmic-tankinator.json](./292548-cosmic-tankinator.json) |
 | Cosmic Trail | 75818 | [75818-cosmic-trail.json](./75818-cosmic-trail.json) |
@@ -3582,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft the Mapcrafter: Gathering Magic Words | 151676 | [151676-craft-the-mapcrafter-gathering-magic-words.json](./151676-craft-the-mapcrafter-gathering-magic-words.json) |
 | Craft The World: Invasion | 286536 | [286536-craft-the-world-invasion.json](./286536-craft-the-world-invasion.json) |
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
+| Craft. Sell. Goblin. Repeat. | 374665 | [374665-craft-sell-goblin-repeat.json](./374665-craft-sell-goblin-repeat.json) |
 | Craftaway | 355032 | [355032-craftaway.json](./355032-craftaway.json) |
 | Crafter | 326042 | [326042-crafter.json](./326042-crafter.json) |
 | Crafter Game - Incremental Puzzle RPG Game | 25737 | [25737-crafter-game-incremental-puzzle-rpg-game.json](./25737-crafter-game-incremental-puzzle-rpg-game.json) |
@@ -4110,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
 | Cryght | 188029 | [188029-cryght.json](./188029-cryght.json) |
 | Crymachina | 240141 | [240141-crymachina.json](./240141-crymachina.json) |
+| Cryo | 374688 | [374688-cryo.json](./374688-cryo.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
 | Cryoloop | 141809 | [141809-cryoloop.json](./141809-cryoloop.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
@@ -4378,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious Expedition 2 Bundle | 218688 | [218688-curious-expedition-2-bundle.json](./218688-curious-expedition-2-bundle.json) |
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
 | Curling World Cup | 98983 | [98983-curling-world-cup.json](./98983-curling-world-cup.json) |
+| Current: The Flow | 374713 | [374713-current-the-flow.json](./374713-current-the-flow.json) |
 | Curro Jimenez | 272298 | [272298-curro-jimenez.json](./272298-curro-jimenez.json) |
 | CurryKitten FPV Simulator | 169443 | [169443-currykitten-fpv-simulator.json](./169443-currykitten-fpv-simulator.json) |
 | Curse in our heads | 103452 | [103452-curse-in-our-heads.json](./103452-curse-in-our-heads.json) |
