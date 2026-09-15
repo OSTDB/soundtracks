@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bicho | 223474 | [223474-bicho.json](./223474-bicho.json) |
 | Bickadoodle | 185088 | [185088-bickadoodle.json](./185088-bickadoodle.json) |
 | Bicolor | 208385 | [208385-bicolor.json](./208385-bicolor.json) |
+| BiColor: Lazy Eye Game Trainer | 360672 | [360672-bicolor-lazy-eye-game-trainer.json](./360672-bicolor-lazy-eye-game-trainer.json) |
 | Bicycle Casino | 5747 | [5747-bicycle-casino.json](./5747-bicycle-casino.json) |
 | Bicycle Tour | 234606 | [234606-bicycle-tour.json](./234606-bicycle-tour.json) |
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
@@ -2322,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Off Far Away | 203910 | [203910-blast-off-far-away.json](./203910-blast-off-far-away.json) |
 | Blast Pulser | 179121 | [179121-blast-pulser.json](./179121-blast-pulser.json) |
 | Blast Radius | 270662 | [270662-blast-radius.json](./270662-blast-radius.json) |
+| Blast Radius | 360660 | [360660-blast-radius.json](./360660-blast-radius.json) |
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
 | Blast Valley: Flip the Gun | 96015 | [96015-blast-valley-flip-the-gun.json](./96015-blast-valley-flip-the-gun.json) |
 | Blast X | 97819 | [97819-blast-x.json](./97819-blast-x.json) |
