@@ -6937,6 +6937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker Soccer Euro 2012 | 51168 | [51168-striker-soccer-euro-2012.json](./51168-striker-soccer-euro-2012.json) |
 | Strikers | 219577 | [219577-strikers.json](./219577-strikers.json) |
 | Strikers 1945 III for Nintendo Switch | 212270 | [212270-strikers-1945-iii-for-nintendo-switch.json](./212270-strikers-1945-iii-for-nintendo-switch.json) |
+| Strikewave: Nightly Underground Fighter | 349945 | [349945-strikewave-nightly-underground-fighter.json](./349945-strikewave-nightly-underground-fighter.json) |
 | Strimko | 54408 | [54408-strimko.json](./54408-strimko.json) |
 | Strimpland | 395698 | [395698-strimpland.json](./395698-strimpland.json) |
 | String Rush | 173236 | [173236-string-rush.json](./173236-string-rush.json) |
