@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T23:21:44.245Z",
-  "total_missing": 75786,
+  "generated_at": "2026-09-15T23:31:36.164Z",
+  "total_missing": 75785,
   "games": [
     {
       "igdb_id": 306086,
@@ -5586,11 +5586,6 @@
       "igdb_id": 350402,
       "game_name": "Age of Respair",
       "file": "missing/A/350402-age-of-respair.json"
-    },
-    {
-      "igdb_id": 9430,
-      "game_name": "Age of Sail",
-      "file": "missing/A/9430-age-of-sail.json"
     },
     {
       "igdb_id": 9429,
