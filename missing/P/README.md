@@ -1991,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelvader | 335923 | [335923-pixelvader.json](./335923-pixelvader.json) |
 | Pixelz - Color by Number Pixel Art Coloring Book | 104616 | [104616-pixelz-color-by-number-pixel-art-coloring-book.json](./104616-pixelz-color-by-number-pixel-art-coloring-book.json) |
 | Pixeria | 210682 | [210682-pixeria.json](./210682-pixeria.json) |
+| Pixeria | 347234 | [347234-pixeria.json](./347234-pixeria.json) |
 | PixEvo: The Fountain | 191901 | [191901-pixevo-the-fountain.json](./191901-pixevo-the-fountain.json) |
 | Pixgun | 348234 | [348234-pixgun.json](./348234-pixgun.json) |
 | Pixicharm: Acornflare | 389416 | [389416-pixicharm-acornflare.json](./389416-pixicharm-acornflare.json) |
