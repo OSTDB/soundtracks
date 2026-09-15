@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tartarus | 256845 | [256845-tartarus.json](./256845-tartarus.json) |
 | Tartarus | 29147 | [29147-tartarus.json](./29147-tartarus.json) |
 | Tarutobi | 371917 | [371917-tarutobi.json](./371917-tarutobi.json) |
+| Tarvos Desolation | 345044 | [345044-tarvos-desolation.json](./345044-tarvos-desolation.json) |
 | Tarzan | 25728 | [25728-tarzan.json](./25728-tarzan.json) |
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
@@ -1975,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crimson Crown | 15532 | [15532-the-crimson-crown.json](./15532-the-crimson-crown.json) |
 | The Crimson Debt | 290408 | [290408-the-crimson-debt.json](./290408-the-crimson-debt.json) |
 | The Crimson Diamond: Chapter 1 | 129722 | [129722-the-crimson-diamond-chapter-1.json](./129722-the-crimson-diamond-chapter-1.json) |
+| The Crimson Line | 345043 | [345043-the-crimson-line.json](./345043-the-crimson-line.json) |
 | The Crimson Maid | 279002 | [279002-the-crimson-maid.json](./279002-the-crimson-maid.json) |
 | The Crisis Zone | 257117 | [257117-the-crisis-zone.json](./257117-the-crisis-zone.json) |
 | The Croaker: The Ice | 306058 | [306058-the-croaker-the-ice.json](./306058-the-croaker-the-ice.json) |
@@ -3715,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The PowerPuff Girls: Relish Rampage | 19415 | [19415-the-powerpuff-girls-relish-rampage.json](./19415-the-powerpuff-girls-relish-rampage.json) |
 | The Preschoolers: Season 1 - Extended Edition | 233006 | [233006-the-preschoolers-season-1-extended-edition.json](./233006-the-preschoolers-season-1-extended-edition.json) |
 | The President | 209640 | [209640-the-president.json](./209640-the-president.json) |
+| The Presidential Assassins | 345004 | [345004-the-presidential-assassins.json](./345004-the-presidential-assassins.json) |
 | The Price is Right | 78446 | [78446-the-price-is-right.json](./78446-the-price-is-right.json) |
 | The Price Is Right | 220105 | [220105-the-price-is-right.json](./220105-the-price-is-right.json) |
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
@@ -4006,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
 | The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
+| The Shafts of Damnation | 345016 | [345016-the-shafts-of-damnation.json](./345016-the-shafts-of-damnation.json) |
 | The Shame of a Daydreamer | 349394 | [349394-the-shame-of-a-daydreamer.json](./349394-the-shame-of-a-daydreamer.json) |
 | The Shape of Heart | 31840 | [31840-the-shape-of-heart.json](./31840-the-shape-of-heart.json) |
 | The Shape of Things | 211729 | [211729-the-shape-of-things.json](./211729-the-shape-of-things.json) |
@@ -4864,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatrhythm: Final Bar Line - Xenogears Pack | 354511 | [354511-theatrhythm-final-bar-line-xenogears-pack.json](./354511-theatrhythm-final-bar-line-xenogears-pack.json) |
 | Theatrics | 260678 | [260678-theatrics.json](./260678-theatrics.json) |
 | TheBestiary | 196894 | [196894-thebestiary.json](./196894-thebestiary.json) |
+| TheBoll | 345033 | [345033-theboll.json](./345033-theboll.json) |
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
 | TheC64 Mini: Black Edition | 360591 | [360591-thec64-mini-black-edition.json](./360591-thec64-mini-black-edition.json) |
 | Theft Ride Legacy | 250391 | [250391-theft-ride-legacy.json](./250391-theft-ride-legacy.json) |
@@ -5082,6 +5087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms: Bond | 402358 | [402358-three-kingdoms-bond.json](./402358-three-kingdoms-bond.json) |
 | Three Kingdoms: Hero Wars | 208053 | [208053-three-kingdoms-hero-wars.json](./208053-three-kingdoms-hero-wars.json) |
 | Three Kingdoms: Legends of Heroes | 108406 | [108406-three-kingdoms-legends-of-heroes.json](./108406-three-kingdoms-legends-of-heroes.json) |
+| Three Kingdoms: Shu-han Chronicles | 345028 | [345028-three-kingdoms-shu-han-chronicles.json](./345028-three-kingdoms-shu-han-chronicles.json) |
 | Three Kingdoms: The Last Warlord - The Age of Turbulence | 171574 | [171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json](./171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json) |
 | Three Legions: Erosion of the Abyss | 346569 | [346569-three-legions-erosion-of-the-abyss.json](./346569-three-legions-erosion-of-the-abyss.json) |
 | Three Mazeketeers | 192869 | [192869-three-mazeketeers.json](./192869-three-mazeketeers.json) |
@@ -5251,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidal Tribe | 116582 | [116582-tidal-tribe.json](./116582-tidal-tribe.json) |
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
 | Tide: 1927 | 368034 | [368034-tide-1927.json](./368034-tide-1927.json) |
+| Tides of the Endless | 345037 | [345037-tides-of-the-endless.json](./345037-tides-of-the-endless.json) |
 | Tides of Tomorrow | 305036 | [305036-tides-of-tomorrow.json](./305036-tides-of-tomorrow.json) |
 | Tides of Tomorrow: Delta Agent Pack | 399091 | [399091-tides-of-tomorrow-delta-agent-pack.json](./399091-tides-of-tomorrow-delta-agent-pack.json) |
 | Tidewatch | 412273 | [412273-tidewatch.json](./412273-tidewatch.json) |
