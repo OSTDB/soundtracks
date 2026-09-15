@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T15:19:19.010Z",
-  "total_missing": 74390,
+  "generated_at": "2026-09-15T15:21:33.333Z",
+  "total_missing": 74389,
   "games": [
     {
       "igdb_id": 306086,
@@ -5321,11 +5321,6 @@
       "igdb_id": 269042,
       "game_name": "Agame",
       "file": "missing/A/269042-agame.json"
-    },
-    {
-      "igdb_id": 332833,
-      "game_name": "Agapito's Crazy Adventure",
-      "file": "missing/A/332833-agapitos-crazy-adventure.json"
     },
     {
       "igdb_id": 111653,
