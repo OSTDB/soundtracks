@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy-Bake Treats! | 411605 | [411605-easy-bake-treats.json](./411605-easy-bake-treats.json) |
 | Easy-Peasy Tic Tac Toe | 88317 | [88317-easy-peasy-tic-tac-toe.json](./88317-easy-peasy-tic-tac-toe.json) |
 | EasyAim Trainer | 339648 | [339648-easyaim-trainer.json](./339648-easyaim-trainer.json) |
+| Easyland 3 | 379973 | [379973-easyland-3.json](./379973-easyland-3.json) |
 | Eat Bananas | 213399 | [213399-eat-bananas.json](./213399-eat-bananas.json) |
 | Eat It | 414313 | [414313-eat-it.json](./414313-eat-it.json) |
 | Eat More Vegetables! | 157206 | [157206-eat-more-vegetables.json](./157206-eat-more-vegetables.json) |
