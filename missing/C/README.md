@@ -2218,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
 | Classic Mario World: The Magic Crystals | 191909 | [191909-classic-mario-world-the-magic-crystals.json](./191909-classic-mario-world-the-magic-crystals.json) |
+| Classic Max Lite | 359478 | [359478-classic-max-lite.json](./359478-classic-max-lite.json) |
 | Classic NES Series: Dr. Mario | 18064 | [18064-classic-nes-series-dr-mario.json](./18064-classic-nes-series-dr-mario.json) |
 | Classic Pool and Cyber Pool Bundle | 251804 | [251804-classic-pool-and-cyber-pool-bundle.json](./251804-classic-pool-and-cyber-pool-bundle.json) |
 | Classic Racing Pack: Moto Roader MC + Rider's Spirits | 317238 | [317238-classic-racing-pack-moto-roader-mc-riders-spirits.json](./317238-classic-racing-pack-moto-roader-mc-riders-spirits.json) |
