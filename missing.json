@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T15:49:12.184Z",
-  "total_missing": 74489,
+  "generated_at": "2026-09-15T15:51:44.284Z",
+  "total_missing": 74488,
   "games": [
     {
       "igdb_id": 306086,
@@ -5341,11 +5341,6 @@
       "igdb_id": 269042,
       "game_name": "Agame",
       "file": "missing/A/269042-agame.json"
-    },
-    {
-      "igdb_id": 111653,
-      "game_name": "Agartha-S",
-      "file": "missing/A/111653-agartha-s.json"
     },
     {
       "igdb_id": 135245,
