@@ -343,6 +343,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Sectors | 375254 | [375254-uncharted-sectors.json](./375254-uncharted-sectors.json) |
 | Uncharted Tides: Port Royal | 121450 | [121450-uncharted-tides-port-royal.json](./121450-uncharted-tides-port-royal.json) |
 | Uncharted Tides: Port Royal | 400940 | [400940-uncharted-tides-port-royal.json](./400940-uncharted-tides-port-royal.json) |
+| Uncharted Waters | 351120 | [351120-uncharted-waters.json](./351120-uncharted-waters.json) |
+| Uncharted Waters | 351137 | [351137-uncharted-waters.json](./351137-uncharted-waters.json) |
 | Uncharted Waters: New Horizons | 102810 | [102810-uncharted-waters-new-horizons.json](./102810-uncharted-waters-new-horizons.json) |
 | Uncharted Waters: New Horizons | 38412 | [38412-uncharted-waters-new-horizons.json](./38412-uncharted-waters-new-horizons.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
@@ -639,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnatural Selection | 94207 | [94207-unnatural-selection.json](./94207-unnatural-selection.json) |
 | Unnatural: Season Two | 247760 | [247760-unnatural-season-two.json](./247760-unnatural-season-two.json) |
 | UnNecessary | 316983 | [316983-unnecessary.json](./316983-unnecessary.json) |
+| UnNethack | 351140 | [351140-unnethack.json](./351140-unnethack.json) |
 | Unno | 235227 | [235227-unno.json](./235227-unno.json) |
 | Uno 2 Go | 229062 | [229062-uno-2-go.json](./229062-uno-2-go.json) |
 | Uno DX | 91956 | [91956-uno-dx.json](./91956-uno-dx.json) |
