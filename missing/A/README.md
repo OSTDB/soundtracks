@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across | 30823 | [30823-across.json](./30823-across.json) |
 | Across Kiloparsecs | 259022 | [259022-across-kiloparsecs.json](./259022-across-kiloparsecs.json) |
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
+| Across the Obelisk: Necropolis Of The Damned | 378904 | [378904-across-the-obelisk-necropolis-of-the-damned.json](./378904-across-the-obelisk-necropolis-of-the-damned.json) |
 | Across the Obelisk: Sigrun, the Valkyrie | 357779 | [357779-across-the-obelisk-sigrun-the-valkyrie.json](./357779-across-the-obelisk-sigrun-the-valkyrie.json) |
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
@@ -2732,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ariel's Daily Grind | 223492 | [223492-ariels-daily-grind.json](./223492-ariels-daily-grind.json) |
 | Arifureta: From Commonplace to World's Strongest - Rebellion Soul | 390534 | [390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json](./390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json) |
 | Arima Lodge | 326630 | [326630-arima-lodge.json](./326630-arima-lodge.json) |
+| Arindama | 378898 | [378898-arindama.json](./378898-arindama.json) |
 | Arinn | 261787 | [261787-arinn.json](./261787-arinn.json) |
 | Aripi | 158136 | [158136-aripi.json](./158136-aripi.json) |
 | Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
@@ -3665,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
 | Avatar Legends: The Fighting Game - Deluxe Edition | 412376 | [412376-avatar-legends-the-fighting-game-deluxe-edition.json](./412376-avatar-legends-the-fighting-game-deluxe-edition.json) |
 | Avatar Ninja! | 94738 | [94738-avatar-ninja.json](./94738-avatar-ninja.json) |
+| Avatar: Ice Wars | 378930 | [378930-avatar-ice-wars.json](./378930-avatar-ice-wars.json) |
 | Avatar: The Last Airbender | 210487 | [210487-avatar-the-last-airbender.json](./210487-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender - Earth Rumble | 406777 | [406777-avatar-the-last-airbender-earth-rumble.json](./406777-avatar-the-last-airbender-earth-rumble.json) |
 | Avatar: The Last Airbender - Into the Inferno | 210251 | [210251-avatar-the-last-airbender-into-the-inferno.json](./210251-avatar-the-last-airbender-into-the-inferno.json) |
