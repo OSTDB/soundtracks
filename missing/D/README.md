@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
 | Dark Wizard | 5374 | [5374-dark-wizard.json](./5374-dark-wizard.json) |
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
+| Dark Zodiac | 343338 | [343338-dark-zodiac.json](./343338-dark-zodiac.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
 | DarkBazaar | 393654 | [393654-darkbazaar.json](./393654-darkbazaar.json) |
 | DarkBind | 197330 | [197330-darkbind.json](./197330-darkbind.json) |
@@ -926,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Footprints | 295791 | [295791-deadly-footprints.json](./295791-deadly-footprints.json) |
 | Deadly Infestation | 190157 | [190157-deadly-infestation.json](./190157-deadly-infestation.json) |
 | Deadly Joy | 334503 | [334503-deadly-joy.json](./334503-deadly-joy.json) |
+| Deadly Kiss | 343351 | [343351-deadly-kiss.json](./343351-deadly-kiss.json) |
 | Deadly Maze | 156601 | [156601-deadly-maze.json](./156601-deadly-maze.json) |
 | Deadly Metal | 31788 | [31788-deadly-metal.json](./31788-deadly-metal.json) |
 | Deadly Metropolis | 359516 | [359516-deadly-metropolis.json](./359516-deadly-metropolis.json) |
@@ -2823,8 +2825,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Click The Flower | 394317 | [394317-dont-click-the-flower.json](./394317-dont-click-the-flower.json) |
 | Don't Crash: The Political Game | 159863 | [159863-dont-crash-the-political-game.json](./159863-dont-crash-the-political-game.json) |
 | Don't Cut Your Hand 2 | 158729 | [158729-dont-cut-your-hand-2.json](./158729-dont-cut-your-hand-2.json) |
+| Don't Die | 343339 | [343339-dont-die.json](./343339-dont-die.json) |
 | Don't Die Dateless, Dummy! | 33198 | [33198-dont-die-dateless-dummy.json](./33198-dont-die-dateless-dummy.json) |
 | Don't Die, Mr. Robot! | 52178 | [52178-dont-die-mr-robot.json](./52178-dont-die-mr-robot.json) |
+| Don't Die! | 343340 | [343340-dont-die.json](./343340-dont-die.json) |
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
 | Don't Drown | 342084 | [342084-dont-drown.json](./342084-dont-drown.json) |
