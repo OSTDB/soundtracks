@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T02:21:52.277Z",
-  "total_missing": 72094,
+  "generated_at": "2026-09-15T02:31:43.047Z",
+  "total_missing": 72105,
   "games": [
     {
       "igdb_id": 306086,
@@ -4916,11 +4916,6 @@
       "igdb_id": 357787,
       "game_name": "Aether Effect",
       "file": "missing/A/357787-aether-effect.json"
-    },
-    {
-      "igdb_id": 312381,
-      "game_name": "Aether Singularity",
-      "file": "missing/A/312381-aether-singularity.json"
     },
     {
       "igdb_id": 235487,
@@ -69521,6 +69516,11 @@
       "igdb_id": 294689,
       "game_name": "Days With Ollie",
       "file": "missing/D/294689-days-with-ollie.json"
+    },
+    {
+      "igdb_id": 374727,
+      "game_name": "Days Without Incident",
+      "file": "missing/D/374727-days-without-incident.json"
     },
     {
       "igdb_id": 198465,
@@ -179103,6 +179103,11 @@
       "file": "missing/M/351598-maze-in-your-mind.json"
     },
     {
+      "igdb_id": 374730,
+      "game_name": "Maze It Out",
+      "file": "missing/M/374730-maze-it-out.json"
+    },
+    {
       "igdb_id": 33305,
       "game_name": "Maze Lord",
       "file": "missing/M/33305-maze-lord.json"
@@ -214198,6 +214203,11 @@
       "file": "missing/P/255984-painfighting.json"
     },
     {
+      "igdb_id": 374737,
+      "game_name": "Painkiller: Night Watch Pack",
+      "file": "missing/P/374737-painkiller-night-watch-pack.json"
+    },
+    {
       "igdb_id": 77308,
       "game_name": "Painkiller: Purgatory HD",
       "file": "missing/P/77308-painkiller-purgatory-hd.json"
@@ -245483,6 +245493,21 @@
       "file": "missing/R/314239-roadcraft.json"
     },
     {
+      "igdb_id": 374731,
+      "game_name": "RoadCraft: Aramatsu Bowhead 30T",
+      "file": "missing/R/374731-roadcraft-aramatsu-bowhead-30t.json"
+    },
+    {
+      "igdb_id": 374733,
+      "game_name": "RoadCraft: Invictus Type A Scout",
+      "file": "missing/R/374733-roadcraft-invictus-type-a-scout.json"
+    },
+    {
+      "igdb_id": 374732,
+      "game_name": "RoadCraft: Rebuild Edition",
+      "file": "missing/R/374732-roadcraft-rebuild-edition.json"
+    },
+    {
       "igdb_id": 24850,
       "game_name": "Roadracer Bowler",
       "file": "missing/R/24850-roadracer-bowler.json"
@@ -247251,6 +247276,11 @@
       "igdb_id": 291769,
       "game_name": "RogueLive",
       "file": "missing/R/291769-roguelive.json"
+    },
+    {
+      "igdb_id": 374728,
+      "game_name": "Roguemon",
+      "file": "missing/R/374728-roguemon.json"
     },
     {
       "igdb_id": 183014,
@@ -276371,6 +276401,11 @@
       "igdb_id": 45280,
       "game_name": "Spelunker: Collection",
       "file": "missing/S/45280-spelunker-collection.json"
+    },
+    {
+      "igdb_id": 374726,
+      "game_name": "Spelunkery",
+      "file": "missing/S/374726-spelunkery.json"
     },
     {
       "igdb_id": 310742,
@@ -315188,6 +315223,11 @@
       "file": "missing/T/124784-the-tomorrow-corporation-collection.json"
     },
     {
+      "igdb_id": 374729,
+      "game_name": "The Tooth Fae",
+      "file": "missing/T/374729-the-tooth-fae.json"
+    },
+    {
       "igdb_id": 179178,
       "game_name": "The Tour",
       "file": "missing/T/179178-the-tour.json"
@@ -340668,6 +340708,16 @@
       "file": "missing/V/341886-viquim.json"
     },
     {
+      "igdb_id": 374738,
+      "game_name": "Virago World",
+      "file": "missing/V/374738-virago-world.json"
+    },
+    {
+      "igdb_id": 374735,
+      "game_name": "Virago: Herstory 2",
+      "file": "missing/V/374735-virago-herstory-2.json"
+    },
+    {
       "igdb_id": 166698,
       "game_name": "Viral Firar",
       "file": "missing/V/166698-viral-firar.json"
@@ -342876,6 +342926,11 @@
       "igdb_id": 130855,
       "game_name": "W.H.A.L.E.",
       "file": "missing/W/130855-w-h-a-l-e.json"
+    },
+    {
+      "igdb_id": 374736,
+      "game_name": "W.I.M.S.",
+      "file": "missing/W/374736-w-i-m-s.json"
     },
     {
       "igdb_id": 309875,
