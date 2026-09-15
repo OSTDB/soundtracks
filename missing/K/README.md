@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissed by the Baddest Bidder: Living Together - Shuichi | 238184 | [238184-kissed-by-the-baddest-bidder-living-together-shuichi.json](./238184-kissed-by-the-baddest-bidder-living-together-shuichi.json) |
 | Kissed by the Baddest Bidder: Secrets from the Past - Eisuke | 238225 | [238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json](./238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json) |
 | Kissed by the Baddest Bidder: Secrets from the Past - Soryu | 238226 | [238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json](./238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json) |
+| Kissrim | 378917 | [378917-kissrim.json](./378917-kissrim.json) |
 | Kisten Royale | 352228 | [352228-kisten-royale.json](./352228-kisten-royale.json) |
 | Kit Cat | 297806 | [297806-kit-cat.json](./297806-kit-cat.json) |
 | Kita e. Photo Memories | 239082 | [239082-kita-e-photo-memories.json](./239082-kita-e-photo-memories.json) |
