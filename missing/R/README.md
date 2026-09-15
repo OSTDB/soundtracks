@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Rush | 86216 | [86216-rayman-rush.json](./86216-rayman-rush.json) |
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
+| RaynGames | 355087 | [355087-rayngames.json](./355087-rayngames.json) |
 | RayStorm | 45089 | [45089-raystorm.json](./45089-raystorm.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
@@ -886,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Crow Mysteries: Legion | 9410 | [9410-red-crow-mysteries-legion.json](./9410-red-crow-mysteries-legion.json) |
 | Red Crucible: Phoenix Rising | 240786 | [240786-red-crucible-phoenix-rising.json](./240786-red-crucible-phoenix-rising.json) |
 | Red Dead Online | 141338 | [141338-red-dead-online.json](./141338-red-dead-online.json) |
+| Red Dead Redemption: Gunslingers | 355106 | [355106-red-dead-redemption-gunslingers.json](./355106-red-dead-redemption-gunslingers.json) |
 | Red Dead Redemption: Liars and Cheats | 114990 | [114990-red-dead-redemption-liars-and-cheats.json](./114990-red-dead-redemption-liars-and-cheats.json) |
 | Red Dead Redemption: Myths and Mavericks | 43356 | [43356-red-dead-redemption-myths-and-mavericks.json](./43356-red-dead-redemption-myths-and-mavericks.json) |
 | Red Dead Redemption: Undead Nightmare | 3735 | [3735-red-dead-redemption-undead-nightmare.json](./3735-red-dead-redemption-undead-nightmare.json) |
@@ -2844,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby 20 | 122704 | [122704-rugby-20.json](./122704-rugby-20.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
+| Rugby League 26 | 355082 | [355082-rugby-league-26.json](./355082-rugby-league-26.json) |
 | Rugby League 3 | 23364 | [23364-rugby-league-3.json](./23364-rugby-league-3.json) |
 | Rugby League Live 4 | 43061 | [43061-rugby-league-live-4.json](./43061-rugby-league-live-4.json) |
 | Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
