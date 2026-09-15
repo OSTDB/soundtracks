@@ -1648,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between the Lines | 380008 | [380008-between-the-lines.json](./380008-between-the-lines.json) |
 | Between them | 149536 | [149536-between-them.json](./149536-between-them.json) |
 | Between Time: Escape Room | 164977 | [164977-between-time-escape-room.json](./164977-between-time-escape-room.json) |
+| Between Two Worlds | 352826 | [352826-between-two-worlds.json](./352826-between-two-worlds.json) |
 | Between Worlds | 181388 | [181388-between-worlds.json](./181388-between-worlds.json) |
 | Bevel's Painting | 121030 | [121030-bevels-painting.json](./121030-bevels-painting.json) |
 | Beverly Hills Models | 201264 | [201264-beverly-hills-models.json](./201264-beverly-hills-models.json) |
@@ -2137,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Bass with Blue Marlin | 43881 | [43881-black-bass-with-blue-marlin.json](./43881-black-bass-with-blue-marlin.json) |
 | Black Bass: Lure Fishing | 7787 | [7787-black-bass-lure-fishing.json](./7787-black-bass-lure-fishing.json) |
 | Black Beacon: Forsaken Eternity | 349327 | [349327-black-beacon-forsaken-eternity.json](./349327-black-beacon-forsaken-eternity.json) |
+| Black Beacon: Whispers of the Stars | 352859 | [352859-black-beacon-whispers-of-the-stars.json](./352859-black-beacon-whispers-of-the-stars.json) |
 | Black Belt | 12257 | [12257-black-belt.json](./12257-black-belt.json) |
 | Black Belt | 29134 | [29134-black-belt.json](./29134-black-belt.json) |
 | Black Belt Challenge | 49310 | [49310-black-belt-challenge.json](./49310-black-belt-challenge.json) |
