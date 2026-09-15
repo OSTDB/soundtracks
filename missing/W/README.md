@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Tripod? | 180801 | [180801-wheres-my-tripod.json](./180801-wheres-my-tripod.json) |
 | Where's Our Ouis? | 408927 | [408927-wheres-our-ouis.json](./408927-wheres-our-ouis.json) |
 | Where's Tess | 298869 | [298869-wheres-tess.json](./298869-wheres-tess.json) |
+| Where's That Clown?! | 367487 | [367487-wheres-that-clown.json](./367487-wheres-that-clown.json) |
 | Where's the Fck*ng Light - VR | 30948 | [30948-wheres-the-fck-ng-light-vr.json](./30948-wheres-the-fck-ng-light-vr.json) |
 | Where’s the Food!? | 378787 | [378787-where-s-the-food.json](./378787-where-s-the-food.json) |
 | Where’s the Insect? | 378788 | [378788-where-s-the-insect.json](./378788-where-s-the-insect.json) |
@@ -1390,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
 | Winning Tactics | 368492 | [368492-winning-tactics.json](./368492-winning-tactics.json) |
 | WinPlex | 94723 | [94723-winplex.json](./94723-winplex.json) |
+| Winslow | 367483 | [367483-winslow.json](./367483-winslow.json) |
 | Winter | 194559 | [194559-winter.json](./194559-winter.json) |
 | Winter Challenge | 131520 | [131520-winter-challenge.json](./131520-winter-challenge.json) |
 | Winter Cometh | 122400 | [122400-winter-cometh.json](./122400-winter-cometh.json) |
