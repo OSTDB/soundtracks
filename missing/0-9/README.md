@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 67 | 388231 | [388231-67.json](./388231-67.json) |
 | 67 Game Online | 395009 | [395009-67-game-online.json](./395009-67-game-online.json) |
 | 688 Attack Sub | 5338 | [5338-688-attack-sub.json](./5338-688-attack-sub.json) |
+| 69 | 334791 | [334791-69.json](./334791-69.json) |
 | 69 Andariel Hot | 208630 | [208630-69-andariel-hot.json](./208630-69-andariel-hot.json) |
 | 69 Hitomi Love | 173837 | [173837-69-hitomi-love.json](./173837-69-hitomi-love.json) |
 | 69 Samantha Love | 195723 | [195723-69-samantha-love.json](./195723-69-samantha-love.json) |
