@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T02:51:31.127Z",
-  "total_missing": 72159,
+  "generated_at": "2026-09-15T03:01:45.519Z",
+  "total_missing": 72170,
   "games": [
     {
       "igdb_id": 306086,
@@ -4941,11 +4941,6 @@
       "igdb_id": 145216,
       "game_name": "AEW: Fight Forever",
       "file": "missing/A/145216-aew-fight-forever.json"
-    },
-    {
-      "igdb_id": 357790,
-      "game_name": "Afei's Trouble",
-      "file": "missing/A/357790-afeis-trouble.json"
     },
     {
       "igdb_id": 32355,
@@ -171108,6 +171103,31 @@
       "file": "missing/0-9/98944-owca-g-ow.json"
     },
     {
+      "igdb_id": 374188,
+      "game_name": "Löwenzahn 3: Geschichten aus Natur, Umwelt und Technik",
+      "file": "missing/L/374188-lowenzahn-3-geschichten-aus-natur-umwelt-und-technik.json"
+    },
+    {
+      "igdb_id": 374189,
+      "game_name": "Löwenzahn 4: Geschichten aus Natur, Umwelt und Technik",
+      "file": "missing/L/374189-lowenzahn-4-geschichten-aus-natur-umwelt-und-technik.json"
+    },
+    {
+      "igdb_id": 374190,
+      "game_name": "Löwenzahn 5: Geschichten aus Natur, Umwelt und Technik",
+      "file": "missing/L/374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json"
+    },
+    {
+      "igdb_id": 374191,
+      "game_name": "Löwenzahn 6: Geschichten aus Natur, Umwelt und Technik",
+      "file": "missing/L/374191-lowenzahn-6-geschichten-aus-natur-umwelt-und-technik.json"
+    },
+    {
+      "igdb_id": 374192,
+      "game_name": "Löwenzahn 7: Geschichten aus Natur, Umwelt und Technik",
+      "file": "missing/L/374192-lowenzahn-7-geschichten-aus-natur-umwelt-und-technik.json"
+    },
+    {
       "igdb_id": 208016,
       "game_name": "Lowlife",
       "file": "missing/L/208016-lowlife.json"
@@ -281588,6 +281608,11 @@
       "file": "missing/S/151181-starshot.json"
     },
     {
+      "igdb_id": 374184,
+      "game_name": "Starshot",
+      "file": "missing/S/374184-starshot.json"
+    },
+    {
       "igdb_id": 251581,
       "game_name": "Starsiege: Deadzone",
       "file": "missing/S/251581-starsiege-deadzone.json"
@@ -292313,6 +292338,11 @@
       "file": "missing/S/124238-sushiparty2.json"
     },
     {
+      "igdb_id": 374193,
+      "game_name": "Suspecto",
+      "file": "missing/S/374193-suspecto.json"
+    },
+    {
       "igdb_id": 329393,
       "game_name": "Suspense: Madman's Dreams",
       "file": "missing/S/329393-suspense-madmans-dreams.json"
@@ -298678,6 +298708,11 @@
       "file": "missing/T/118958-tekken-7-ultimate-tekken-bowl-and-additional-costumes.json"
     },
     {
+      "igdb_id": 374182,
+      "game_name": "Tekken 8: Armor King",
+      "file": "missing/T/374182-tekken-8-armor-king.json"
+    },
+    {
       "igdb_id": 414330,
       "game_name": "Tekken 8: Character Costume - Aurora Outfit Pack",
       "file": "missing/T/414330-tekken-8-character-costume-aurora-outfit-pack.json"
@@ -298691,6 +298726,16 @@
       "igdb_id": 283759,
       "game_name": "Tekken 8: Launch Edition",
       "file": "missing/T/283759-tekken-8-launch-edition.json"
+    },
+    {
+      "igdb_id": 374185,
+      "game_name": "Tekken 8: Miary Zo",
+      "file": "missing/T/374185-tekken-8-miary-zo.json"
+    },
+    {
+      "igdb_id": 374187,
+      "game_name": "Tekken 8: Pac-Pixels",
+      "file": "missing/T/374187-tekken-8-pac-pixels.json"
     },
     {
       "igdb_id": 333580,
@@ -332943,6 +332988,11 @@
       "file": "missing/T/166205-twilight-wars-declassified.json"
     },
     {
+      "igdb_id": 374180,
+      "game_name": "Twilight's Folclore",
+      "file": "missing/T/374180-twilights-folclore.json"
+    },
+    {
       "igdb_id": 12805,
       "game_name": "Twilight's Ransom",
       "file": "missing/T/12805-twilights-ransom.json"
@@ -336831,6 +336881,11 @@
       "igdb_id": 323515,
       "game_name": "Unprotected",
       "file": "missing/U/323515-unprotected.json"
+    },
+    {
+      "igdb_id": 374183,
+      "game_name": "Unquiet Grey",
+      "file": "missing/U/374183-unquiet-grey.json"
     },
     {
       "igdb_id": 404959,
