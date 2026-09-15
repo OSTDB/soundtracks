@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T21:48:53.657Z",
-  "total_missing": 75524,
+  "generated_at": "2026-09-15T21:51:29.815Z",
+  "total_missing": 75523,
   "games": [
     {
       "igdb_id": 306086,
@@ -5536,11 +5536,6 @@
       "igdb_id": 399095,
       "game_name": "Age of Gods: Necros Faction",
       "file": "missing/A/399095-age-of-gods-necros-faction.json"
-    },
-    {
-      "igdb_id": 399098,
-      "game_name": "Age of Gods: Tribal Faction",
-      "file": "missing/A/399098-age-of-gods-tribal-faction.json"
     },
     {
       "igdb_id": 188228,
