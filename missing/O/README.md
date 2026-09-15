@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | O Conde de Monte Cristo | 293914 | [293914-o-conde-de-monte-cristo.json](./293914-o-conde-de-monte-cristo.json) |
 | O Rei | 121649 | [121649-o-rei.json](./121649-o-rei.json) |
+| O-Bot The Robot | 336608 | [336608-o-bot-the-robot.json](./336608-o-bot-the-robot.json) |
 | O-Bot The Robot 2 | 266225 | [266225-o-bot-the-robot-2.json](./266225-o-bot-the-robot-2.json) |
 | O.B.O.L | 402359 | [402359-o-b-o-l.json](./402359-o-b-o-l.json) |
 | O.J.'s All-American Race to Acquittal | 298307 | [298307-o-j-s-all-american-race-to-acquittal.json](./298307-o-j-s-all-american-race-to-acquittal.json) |
@@ -461,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omicron: Coronavirus Battlegrounds | 393453 | [393453-omicron-coronavirus-battlegrounds.json](./393453-omicron-coronavirus-battlegrounds.json) |
 | Omicrox | 361803 | [361803-omicrox.json](./361803-omicrox.json) |
 | Omikron: The Nomad Soul | 1982 | [1982-omikron-the-nomad-soul.json](./1982-omikron-the-nomad-soul.json) |
+| Ominoflux | 336595 | [336595-ominoflux.json](./336595-ominoflux.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
 | Ominous Horizons: A Paladin's Calling | 69877 | [69877-ominous-horizons-a-paladins-calling.json](./69877-ominous-horizons-a-paladins-calling.json) |
 | Ominous Objects: Lumina Camera HD | 106645 | [106645-ominous-objects-lumina-camera-hd.json](./106645-ominous-objects-lumina-camera-hd.json) |
