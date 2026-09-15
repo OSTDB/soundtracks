@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Reality | 130307 | [130307-no-reality.json](./130307-no-reality.json) |
 | No Recollection: Swimsuit DLC! | 315486 | [315486-no-recollection-swimsuit-dlc.json](./315486-no-recollection-swimsuit-dlc.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
+| No Retreat! the Russian Front | 348867 | [348867-no-retreat-the-russian-front.json](./348867-no-retreat-the-russian-front.json) |
 | No Rules Box! | 301815 | [301815-no-rules-box.json](./301815-no-rules-box.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
 | No Signal Escape Room | 413624 | [413624-no-signal-escape-room.json](./413624-no-signal-escape-room.json) |
