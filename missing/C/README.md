@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Shop Simulator: Sweet Start | 346682 | [346682-candy-shop-simulator-sweet-start.json](./346682-candy-shop-simulator-sweet-start.json) |
 | Candy Snake Master | 83573 | [83573-candy-snake-master.json](./83573-candy-snake-master.json) |
 | Candy Star Break | 96009 | [96009-candy-star-break.json](./96009-candy-star-break.json) |
+| Candy Storm Bunny Catcher | 342727 | [342727-candy-storm-bunny-catcher.json](./342727-candy-storm-bunny-catcher.json) |
 | Candy Thieves: Tale of Gnomes | 90577 | [90577-candy-thieves-tale-of-gnomes.json](./90577-candy-thieves-tale-of-gnomes.json) |
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
 | Candy War | 402991 | [402991-candy-war.json](./402991-candy-war.json) |
@@ -894,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Lobster Simulator | 253401 | [253401-cat-lobster-simulator.json](./253401-cat-lobster-simulator.json) |
 | Cat Meat | 32911 | [32911-cat-meat.json](./32911-cat-meat.json) |
 | Cat Meme Clicker | 391214 | [391214-cat-meme-clicker.json](./391214-cat-meme-clicker.json) |
+| Cat Named Mojave | 342774 | [342774-cat-named-mojave.json](./342774-cat-named-mojave.json) |
 | Cat Needs | 244768 | [244768-cat-needs.json](./244768-cat-needs.json) |
 | Cat or Ice Cream? | 183543 | [183543-cat-or-ice-cream.json](./183543-cat-or-ice-cream.json) |
 | Cat Pipes | 244275 | [244275-cat-pipes.json](./244275-cat-pipes.json) |
@@ -1960,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Arcadia | 123541 | [123541-chronicles-of-arcadia.json](./123541-chronicles-of-arcadia.json) |
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
+| Chronicles of Middle Ages | 342761 | [342761-chronicles-of-middle-ages.json](./342761-chronicles-of-middle-ages.json) |
 | Chronicles of Refugia | 213401 | [213401-chronicles-of-refugia.json](./213401-chronicles-of-refugia.json) |
 | Chronicles of the Celestial Way | 347221 | [347221-chronicles-of-the-celestial-way.json](./347221-chronicles-of-the-celestial-way.json) |
 | Chronicles of the Great Wilderness | 339109 | [339109-chronicles-of-the-great-wilderness.json](./339109-chronicles-of-the-great-wilderness.json) |
@@ -2609,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coded Black | 347784 | [347784-coded-black.json](./347784-coded-black.json) |
 | Codedoor | 281997 | [281997-codedoor.json](./281997-codedoor.json) |
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
+| Codename Kids Next Door: Operation B.E.S.T. | 342736 | [342736-codename-kids-next-door-operation-b-e-s-t.json](./342736-codename-kids-next-door-operation-b-e-s-t.json) |
 | Codename Kids Next Door: Tummy Trouble | 349934 | [349934-codename-kids-next-door-tummy-trouble.json](./349934-codename-kids-next-door-tummy-trouble.json) |
 | Codename Nemesis | 113646 | [113646-codename-nemesis.json](./113646-codename-nemesis.json) |
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
@@ -3146,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confined: Leaving OKB-134 | 291489 | [291489-confined-leaving-okb-134.json](./291489-confined-leaving-okb-134.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
 | Conflict 3048 | 193406 | [193406-conflict-3048.json](./193406-conflict-3048.json) |
+| Conflict Resolution | 342747 | [342747-conflict-resolution.json](./342747-conflict-resolution.json) |
 | Conflict: Desert Storm | 3863 | [3863-conflict-desert-storm.json](./3863-conflict-desert-storm.json) |
 | Conflict: Global Terror | 5785 | [5785-conflict-global-terror.json](./5785-conflict-global-terror.json) |
 | Conflict: Korea the First Year 1950-1951 | 77318 | [77318-conflict-korea-the-first-year-1950-1951.json](./77318-conflict-korea-the-first-year-1950-1951.json) |
