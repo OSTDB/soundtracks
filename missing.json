@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T23:51:38.187Z",
-  "total_missing": 71654,
+  "generated_at": "2026-09-15T00:01:35.991Z",
+  "total_missing": 71656,
   "games": [
     {
       "igdb_id": 306086,
@@ -4816,11 +4816,6 @@
       "igdb_id": 312381,
       "game_name": "Aether Singularity",
       "file": "missing/A/312381-aether-singularity.json"
-    },
-    {
-      "igdb_id": 184062,
-      "game_name": "Aether: A Heroic Fantasy RPG",
-      "file": "missing/A/184062-aether-a-heroic-fantasy-rpg.json"
     },
     {
       "igdb_id": 235487,
@@ -28448,6 +28443,11 @@
       "file": "missing/B/62197-beetlenaut.json"
     },
     {
+      "igdb_id": 380013,
+      "game_name": "Before",
+      "file": "missing/B/380013-before.json"
+    },
+    {
       "igdb_id": 205248,
       "game_name": "Before Fate",
       "file": "missing/B/205248-before-fate.json"
@@ -29003,6 +29003,11 @@
       "file": "missing/B/111630-beneath-the-surface.json"
     },
     {
+      "igdb_id": 380012,
+      "game_name": "Beneath The Surface",
+      "file": "missing/B/380012-beneath-the-surface.json"
+    },
+    {
       "igdb_id": 319393,
       "game_name": "Beneath the Waves",
       "file": "missing/B/319393-beneath-the-waves.json"
@@ -29151,6 +29156,11 @@
       "igdb_id": 94168,
       "game_name": "Berlitz* French Translator",
       "file": "missing/B/94168-berlitz-french-translator.json"
+    },
+    {
+      "igdb_id": 380011,
+      "game_name": "Bermuda",
+      "file": "missing/B/380011-bermuda.json"
     },
     {
       "igdb_id": 43365,
