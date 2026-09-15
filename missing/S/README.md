@@ -2136,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shit Storm | 81100 | [81100-shit-storm.json](./81100-shit-storm.json) |
 | Shitataru Ano Ko: Drenched Girls | 271505 | [271505-shitataru-ano-ko-drenched-girls.json](./271505-shitataru-ano-ko-drenched-girls.json) |
 | Shitataru Nikki | 257085 | [257085-shitataru-nikki.json](./257085-shitataru-nikki.json) |
+| Shitlings | 369626 | [369626-shitlings.json](./369626-shitlings.json) |
 | Shitsuji ga Aruji wo Erabu Toki | 216245 | [216245-shitsuji-ga-aruji-wo-erabu-toki.json](./216245-shitsuji-ga-aruji-wo-erabu-toki.json) |
 | Shiver: Poltergeist - Collector's Edition | 30895 | [30895-shiver-poltergeist-collectors-edition.json](./30895-shiver-poltergeist-collectors-edition.json) |
 | Shivering Stone | 274484 | [274484-shivering-stone.json](./274484-shivering-stone.json) |
@@ -3046,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
 | Skylanders: Trap Team | 8509 | [8509-skylanders-trap-team.json](./8509-skylanders-trap-team.json) |
 | Skylark 64 | 306066 | [306066-skylark-64.json](./306066-skylark-64.json) |
+| Skylax! The Lab Runner | 369664 | [369664-skylax-the-lab-runner.json](./369664-skylax-the-lab-runner.json) |
 | SkyLife: VoxelSurvival | 149050 | [149050-skylife-voxelsurvival.json](./149050-skylife-voxelsurvival.json) |
 | Skyline Blade | 248058 | [248058-skyline-blade.json](./248058-skyline-blade.json) |
 | Skynet Rising : Portal to the Past | 25738 | [25738-skynet-rising-portal-to-the-past.json](./25738-skynet-rising-portal-to-the-past.json) |
@@ -5322,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Happens | 400899 | [400899-split-happens.json](./400899-split-happens.json) |
 | Split Personalities | 73323 | [73323-split-personalities.json](./73323-split-personalities.json) |
 | Split Polarity: The Science Puzzle Arcade Game! | 273408 | [273408-split-polarity-the-science-puzzle-arcade-game.json](./273408-split-polarity-the-science-puzzle-arcade-game.json) |
+| Split Souls | 369634 | [369634-split-souls.json](./369634-split-souls.json) |
 | Split Tactics | 386281 | [386281-split-tactics.json](./386281-split-tactics.json) |
 | Split Times | 368502 | [368502-split-times.json](./368502-split-times.json) |
 | Split/Second | 2150 | [2150-split-second.json](./2150-split-second.json) |
@@ -7646,6 +7649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario All-Stars: Limited Edition | 84920 | [84920-super-mario-all-stars-limited-edition.json](./84920-super-mario-all-stars-limited-edition.json) |
 | Super Mario and the Cursed Castles | 135216 | [135216-super-mario-and-the-cursed-castles.json](./135216-super-mario-and-the-cursed-castles.json) |
 | Super Mario and the Marvel Adventure | 135178 | [135178-super-mario-and-the-marvel-adventure.json](./135178-super-mario-and-the-marvel-adventure.json) |
+| Super Mario Bomber | 369660 | [369660-super-mario-bomber.json](./369660-super-mario-bomber.json) |
 | Super Mario brasileiro | 267931 | [267931-super-mario-brasileiro.json](./267931-super-mario-brasileiro.json) |
 | Super Mario Bros 3000 | 250057 | [250057-super-mario-bros-3000.json](./250057-super-mario-bros-3000.json) |
 | Super Mario Bros Galaxy DS | 146354 | [146354-super-mario-bros-galaxy-ds.json](./146354-super-mario-bros-galaxy-ds.json) |
@@ -8066,6 +8070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
 | SuperHyperCube | 20332 | [20332-superhypercube.json](./20332-superhypercube.json) |
+| Superior IQ | 369637 | [369637-superior-iq.json](./369637-superior-iq.json) |
 | Superkid | 123064 | [123064-superkid.json](./123064-superkid.json) |
 | Superku | 34343 | [34343-superku.json](./34343-superku.json) |
 | SuperLandlady | 237657 | [237657-superlandlady.json](./237657-superlandlady.json) |
