@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami and Miko | 370148 | [370148-kami-and-miko.json](./370148-kami-and-miko.json) |
 | Kami Kamera | 341881 | [341881-kami-kamera.json](./341881-kami-kamera.json) |
 | Kami no Me no Aeon: Zenpen | 341326 | [341326-kami-no-me-no-aeon-zenpen.json](./341326-kami-no-me-no-aeon-zenpen.json) |
+| Kami Quest: Enter the Imagynasium | 361762 | [361762-kami-quest-enter-the-imagynasium.json](./361762-kami-quest-enter-the-imagynasium.json) |
 | Kami-sama no Shippo: Etogami-sama-tachi no Ongaeshi | 194608 | [194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json](./194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json) |
 | Kami: Parade of Senses | 286000 | [286000-kami-parade-of-senses.json](./286000-kami-parade-of-senses.json) |
 | Kami: The Great Guardian | 408034 | [408034-kami-the-great-guardian.json](./408034-kami-the-great-guardian.json) |
@@ -615,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Time | 4334 | [4334-killing-time.json](./4334-killing-time.json) |
 | Killing Tragedy Samsara | 372999 | [372999-killing-tragedy-samsara.json](./372999-killing-tragedy-samsara.json) |
 | Killing Zone | 20596 | [20596-killing-zone.json](./20596-killing-zone.json) |
+| Killover | 361815 | [361815-killover.json](./361815-killover.json) |
 | Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
 | Killzone | 1865 | [1865-killzone.json](./1865-killzone.json) |
 | Killzone: Special Limited Edition | 43261 | [43261-killzone-special-limited-edition.json](./43261-killzone-special-limited-edition.json) |
