@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T07:20:25.564Z",
-  "total_missing": 72955,
+  "generated_at": "2026-09-15T07:21:49.007Z",
+  "total_missing": 72954,
   "games": [
     {
       "igdb_id": 306086,
@@ -5071,11 +5071,6 @@
       "igdb_id": 5356,
       "game_name": "After Burner III",
       "file": "missing/A/5356-after-burner-iii.json"
-    },
-    {
-      "igdb_id": 7748,
-      "game_name": "After Burst",
-      "file": "missing/A/7748-after-burst.json"
     },
     {
       "igdb_id": 158213,
