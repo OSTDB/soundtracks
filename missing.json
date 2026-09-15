@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T03:33:54.282Z",
-  "total_missing": 72272,
+  "generated_at": "2026-09-15T03:41:32.096Z",
+  "total_missing": 72271,
   "games": [
     {
       "igdb_id": 306086,
@@ -4961,11 +4961,6 @@
       "igdb_id": 405469,
       "game_name": "AFK Industarry",
       "file": "missing/A/405469-afk-industarry.json"
-    },
-    {
-      "igdb_id": 347169,
-      "game_name": "AFK Shift",
-      "file": "missing/A/347169-afk-shift.json"
     },
     {
       "igdb_id": 179206,
