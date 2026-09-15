@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Rats: Parasomnia | 127919 | [127919-half-rats-parasomnia.json](./127919-half-rats-parasomnia.json) |
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
 | Halfquake Trilogy | 127942 | [127942-halfquake-trilogy.json](./127942-halfquake-trilogy.json) |
+| Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
 | Halley's Big Catch | 417530 | [417530-halleys-big-catch.json](./417530-halleys-big-catch.json) |
 | Halley's Dream | 169372 | [169372-halleys-dream.json](./169372-halleys-dream.json) |
 | Hallo Spaceboy | 102217 | [102217-hallo-spaceboy.json](./102217-hallo-spaceboy.json) |
