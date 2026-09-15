@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samsara | 249503 | [249503-samsara.json](./249503-samsara.json) |
 | Samsara Room | 300426 | [300426-samsara-room.json](./300426-samsara-room.json) |
 | Samsung Pro Cricket | 356656 | [356656-samsung-pro-cricket.json](./356656-samsung-pro-cricket.json) |
+| Samu | 378279 | [378279-samu.json](./378279-samu.json) |
 | Samudai | 35927 | [35927-samudai.json](./35927-samudai.json) |
 | Samuel Prince Attorney at Law: Chapter 4 | 397791 | [397791-samuel-prince-attorney-at-law-chapter-4.json](./397791-samuel-prince-attorney-at-law-chapter-4.json) |
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
@@ -2132,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shodankurai Nintei: Shodan Pro Mahjong | 38368 | [38368-shodankurai-nintei-shodan-pro-mahjong.json](./38368-shodankurai-nintei-shodan-pro-mahjong.json) |
 | Shodo | 151139 | [151139-shodo.json](./151139-shodo.json) |
 | Shodot | 244267 | [244267-shodot.json](./244267-shodot.json) |
+| Shoe Salesman Mania | 378280 | [378280-shoe-salesman-mania.json](./378280-shoe-salesman-mania.json) |
 | Shoebill | 151119 | [151119-shoebill.json](./151119-shoebill.json) |
 | Shogi Nyuumon | 126014 | [126014-shogi-nyuumon.json](./126014-shogi-nyuumon.json) |
 | Shogi Saikyou | 38299 | [38299-shogi-saikyou.json](./38299-shogi-saikyou.json) |
@@ -3214,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime World | 41999 | [41999-slime-world.json](./41999-slime-world.json) |
 | Slime-san | 28069 | [28069-slime-san.json](./28069-slime-san.json) |
 | Slime:Evo | 143021 | [143021-slime-evo.json](./143021-slime-evo.json) |
+| Slime's Journey | 378316 | [378316-slimes-journey.json](./378316-slimes-journey.json) |
 | Slimebrawl | 75061 | [75061-slimebrawl.json](./75061-slimebrawl.json) |
 | Slimed | 186273 | [186273-slimed.json](./186273-slimed.json) |
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
@@ -3305,13 +3308,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slyme Breaker | 248336 | [248336-slyme-breaker.json](./248336-slyme-breaker.json) |
 | SM Word | 93041 | [93041-sm-word.json](./93041-sm-word.json) |
 | SM64 Colorful Stars | 313109 | [313109-sm64-colorful-stars.json](./313109-sm64-colorful-stars.json) |
+| SM64 Coop Deluxe: Mario in the Multiverse | 378261 | [378261-sm64-coop-deluxe-mario-in-the-multiverse.json](./378261-sm64-coop-deluxe-mario-in-the-multiverse.json) |
 | SM64 Coop DX: Bananza Kong | 386853 | [386853-sm64-coop-dx-bananza-kong.json](./386853-sm64-coop-dx-bananza-kong.json) |
 | SM64 Power Star Madness | 358286 | [358286-sm64-power-star-madness.json](./358286-sm64-power-star-madness.json) |
+| SM64 Royal Legacy PC Port | 378269 | [378269-sm64-royal-legacy-pc-port.json](./378269-sm64-royal-legacy-pc-port.json) |
 | SM64 Sapphire | 133993 | [133993-sm64-sapphire.json](./133993-sm64-sapphire.json) |
+| SM64 Sapphire PC Port | 378272 | [378272-sm64-sapphire-pc-port.json](./378272-sm64-sapphire-pc-port.json) |
 | SM64 Shining Stars Repainted | 135169 | [135169-sm64-shining-stars-repainted.json](./135169-sm64-shining-stars-repainted.json) |
 | SM64 The Dark Stars | 386848 | [386848-sm64-the-dark-stars.json](./386848-sm64-the-dark-stars.json) |
 | SM64 The Green Stars | 132830 | [132830-sm64-the-green-stars.json](./132830-sm64-the-green-stars.json) |
+| SM64 TsucnenT's Treasures PC Port | 378273 | [378273-sm64-tsucnents-treasures-pc-port.json](./378273-sm64-tsucnents-treasures-pc-port.json) |
 | SM64: Rocky Mountain Revisited | 256295 | [256295-sm64-rocky-mountain-revisited.json](./256295-sm64-rocky-mountain-revisited.json) |
+| SM64EX Coop: Lug's Delightful Dioramas | 378300 | [378300-sm64ex-coop-lugs-delightful-dioramas.json](./378300-sm64ex-coop-lugs-delightful-dioramas.json) |
+| SM64EX Coop: Odyssey Mario's Moveset - Rebirth | 378302 | [378302-sm64ex-coop-odyssey-marios-moveset-rebirth.json](./378302-sm64ex-coop-odyssey-marios-moveset-rebirth.json) |
+| SM64EX Coop: SM64 - Shining Stars | 378266 | [378266-sm64ex-coop-sm64-shining-stars.json](./378266-sm64ex-coop-sm64-shining-stars.json) |
+| SM64EX Coop: SM64 Sapphire | 378265 | [378265-sm64ex-coop-sm64-sapphire.json](./378265-sm64ex-coop-sm64-sapphire.json) |
+| SM64EX Coop: SM64 Trouble Town | 378264 | [378264-sm64ex-coop-sm64-trouble-town.json](./378264-sm64ex-coop-sm64-trouble-town.json) |
+| SM64EX Coop: Star Revenge 2 - Night of Doom | 378298 | [378298-sm64ex-coop-star-revenge-2-night-of-doom.json](./378298-sm64ex-coop-star-revenge-2-night-of-doom.json) |
+| SM64EX Coop: Star Revenge 4 - The Kedama Takeover 64 | 378267 | [378267-sm64ex-coop-star-revenge-4-the-kedama-takeover-64.json](./378267-sm64ex-coop-star-revenge-4-the-kedama-takeover-64.json) |
+| SM64EX Coop: Super Mario 64 Moonshine | 378301 | [378301-sm64ex-coop-super-mario-64-moonshine.json](./378301-sm64ex-coop-super-mario-64-moonshine.json) |
+| SM64EX Coop: Yoshi's Adventure 64 | 378263 | [378263-sm64ex-coop-yoshis-adventure-64.json](./378263-sm64ex-coop-yoshis-adventure-64.json) |
+| SM74&EE | 378288 | [378288-sm74-and-ee.json](./378288-sm74-and-ee.json) |
 | Smack Monkey | 332989 | [332989-smack-monkey.json](./332989-smack-monkey.json) |
 | Smack Some Smackers | 77400 | [77400-smack-some-smackers.json](./77400-smack-some-smackers.json) |
 | Smack Wacker | 68668 | [68668-smack-wacker.json](./68668-smack-wacker.json) |
@@ -5347,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Party | 110057 | [110057-sports-party.json](./110057-sports-party.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
+| Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
 | Spot the Differences | 44502 | [44502-spot-the-differences.json](./44502-spot-the-differences.json) |
 | Spot The Differences 2020 | 284338 | [284338-spot-the-differences-2020.json](./284338-spot-the-differences-2020.json) |
@@ -5707,8 +5725,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Renegades | 94816 | [94816-star-renegades.json](./94816-star-renegades.json) |
 | Star Renegades: Total Lunarcy | 166215 | [166215-star-renegades-total-lunarcy.json](./166215-star-renegades-total-lunarcy.json) |
 | Star Revenge 1: Star Takeover | 132841 | [132841-star-revenge-1-star-takeover.json](./132841-star-revenge-1-star-takeover.json) |
+| Star Revenge 1: Star Takeover PC | 378289 | [378289-star-revenge-1-star-takeover-pc.json](./378289-star-revenge-1-star-takeover-pc.json) |
 | Star Revenge 1.5: Star Takeover Redone | 180247 | [180247-star-revenge-1-5-star-takeover-redone.json](./180247-star-revenge-1-5-star-takeover-redone.json) |
 | Star Revenge 2: Act 1 to the Moon | 180248 | [180248-star-revenge-2-act-1-to-the-moon.json](./180248-star-revenge-2-act-1-to-the-moon.json) |
+| Star Revenge 2: Night of Doom PC | 378290 | [378290-star-revenge-2-night-of-doom-pc.json](./378290-star-revenge-2-night-of-doom-pc.json) |
+| Star Revenge 2.5: Remnant of Doom PC | 378297 | [378297-star-revenge-2-5-remnant-of-doom-pc.json](./378297-star-revenge-2-5-remnant-of-doom-pc.json) |
+| Star Revenge 6.5: Wrath of The Dim. Flower PC Port | 378270 | [378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json](./378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json) |
+| Star Revenge Redone PC | 378291 | [378291-star-revenge-redone-pc.json](./378291-star-revenge-redone-pc.json) |
 | Star Ronin | 320744 | [320744-star-ronin.json](./320744-star-ronin.json) |
 | Star Ruler | 9556 | [9556-star-ruler.json](./9556-star-ruler.json) |
 | Star Ruler 2 | 19170 | [19170-star-ruler-2.json](./19170-star-ruler-2.json) |
