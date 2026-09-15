@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gear | 25182 | [25182-pixel-gear.json](./25182-pixel-gear.json) |
 | Pixel Gun 2 | 406834 | [406834-pixel-gun-2.json](./406834-pixel-gun-2.json) |
 | Pixel Gun 3D: PC Edition | 261628 | [261628-pixel-gun-3d-pc-edition.json](./261628-pixel-gun-3d-pc-edition.json) |
+| Pixel Gun Battle | 370201 | [370201-pixel-gun-battle.json](./370201-pixel-gun-battle.json) |
 | Pixel Gunmen | 226772 | [226772-pixel-gunmen.json](./226772-pixel-gunmen.json) |
 | Pixel Hentai Mosaic | 103789 | [103789-pixel-hentai-mosaic.json](./103789-pixel-hentai-mosaic.json) |
 | Pixel Heroes: Tales of Emond | 294690 | [294690-pixel-heroes-tales-of-emond.json](./294690-pixel-heroes-tales-of-emond.json) |
