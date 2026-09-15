@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paid in Blood | 392268 | [392268-paid-in-blood.json](./392268-paid-in-blood.json) |
 | Paimordle | 243974 | [243974-paimordle.json](./243974-paimordle.json) |
 | Pain | 7387 | [7387-pain.json](./7387-pain.json) |
+| Pain 'n Dave: The Maze of Malice | 360678 | [360678-pain-n-dave-the-maze-of-malice.json](./360678-pain-n-dave-the-maze-of-malice.json) |
 | Pain is the Best Medicine | 292007 | [292007-pain-is-the-best-medicine.json](./292007-pain-is-the-best-medicine.json) |
 | Pain Train | 29911 | [29911-pain-train.json](./29911-pain-train.json) |
 | Painajainen | 84220 | [84220-painajainen.json](./84220-painajainen.json) |
@@ -642,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pashtet | 113705 | [113705-pashtet.json](./113705-pashtet.json) |
 | Paskal's Path | 213646 | [213646-paskals-path.json](./213646-paskals-path.json) |
 | Paso Comic PuruPuru Paradise: Santa Claus Tokushuu | 62213 | [62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json](./62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json) |
+| PASS | 360680 | [360680-pass.json](./360680-pass.json) |
 | Pass On | 183076 | [183076-pass-on.json](./183076-pass-on.json) |
 | Pass the Bomb | 67946 | [67946-pass-the-bomb.json](./67946-pass-the-bomb.json) |
 | Pass the Pigs | 18271 | [18271-pass-the-pigs.json](./18271-pass-the-pigs.json) |
@@ -769,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawn Planet: First Sales | 306351 | [306351-pawn-planet-first-sales.json](./306351-pawn-planet-first-sales.json) |
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
 | Pawn Tactics | 26487 | [26487-pawn-tactics.json](./26487-pawn-tactics.json) |
+| Pawn.OS() | 360647 | [360647-pawn-os.json](./360647-pawn-os.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
 | Pawns Survival | 390002 | [390002-pawns-survival.json](./390002-pawns-survival.json) |
 | Pawnshop No. 17 | 386290 | [386290-pawnshop-no-17.json](./386290-pawnshop-no-17.json) |
@@ -1941,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelords | 406208 | [406208-pixelords.json](./406208-pixelords.json) |
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
 | Pixelpusher | 177003 | [177003-pixelpusher.json](./177003-pixelpusher.json) |
+| PixelRulers | 360681 | [360681-pixelrulers.json](./360681-pixelrulers.json) |
 | Pixels Defense | 60003 | [60003-pixels-defense.json](./60003-pixels-defense.json) |
 | Pixels Guide to Staying Dead | 109771 | [109771-pixels-guide-to-staying-dead.json](./109771-pixels-guide-to-staying-dead.json) |
 | Pixels N Pistols | 246950 | [246950-pixels-n-pistols.json](./246950-pixels-n-pistols.json) |
