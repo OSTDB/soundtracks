@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk in the Rain | 185092 | [185092-walk-in-the-rain.json](./185092-walk-in-the-rain.json) |
 | Walk on the Ground Simulator | 120945 | [120945-walk-on-the-ground-simulator.json](./120945-walk-on-the-ground-simulator.json) |
 | Walk the Fort | 115605 | [115605-walk-the-fort.json](./115605-walk-the-fort.json) |
+| Walk The Frog | 348324 | [348324-walk-the-frog.json](./348324-walk-the-frog.json) |
 | Walk With Me | 128002 | [128002-walk-with-me.json](./128002-walk-with-me.json) |
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
 | Walkabout Mini Golf: Alice's Adventures in Wonderland | 380577 | [380577-walkabout-mini-golf-alices-adventures-in-wonderland.json](./380577-walkabout-mini-golf-alices-adventures-in-wonderland.json) |
