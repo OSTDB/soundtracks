@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adibou d'chou au cirque | 242534 | [242534-adibou-dchou-au-cirque.json](./242534-adibou-dchou-au-cirque.json) |
 | Adlib | 112303 | [112303-adlib.json](./112303-adlib.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
+| Adorate | 362874 | [362874-adorate.json](./362874-adorate.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adrenaline Overload Bundle | 396439 | [396439-adrenaline-overload-bundle.json](./396439-adrenaline-overload-bundle.json) |
 | Adrenaline Rush 4‑Pack | 396438 | [396438-adrenaline-rush-4-pack.json](./396438-adrenaline-rush-4-pack.json) |
@@ -1325,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alligori | 272866 | [272866-alligori.json](./272866-alligori.json) |
 | Allora and the Broken Portal | 125382 | [125382-allora-and-the-broken-portal.json](./125382-allora-and-the-broken-portal.json) |
 | Allotropy | 169472 | [169472-allotropy.json](./169472-allotropy.json) |
+| Allumeria | 362894 | [362894-allumeria.json](./362894-allumeria.json) |
 | Alluna and Brie | 117033 | [117033-alluna-and-brie.json](./117033-alluna-and-brie.json) |
 | Almastriga: Relics of Azathoth | 156618 | [156618-almastriga-relics-of-azathoth.json](./156618-almastriga-relics-of-azathoth.json) |
 | Almos a Dream Painter's Tale | 415125 | [415125-almos-a-dream-painters-tale.json](./415125-almos-a-dream-painters-tale.json) |
@@ -2637,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architect | 326623 | [326623-architect.json](./326623-architect.json) |
 | Architects of Shangri-La | 167839 | [167839-architects-of-shangri-la.json](./167839-architects-of-shangri-la.json) |
 | Architecture Zeitgeist | 249770 | [249770-architecture-zeitgeist.json](./249770-architecture-zeitgeist.json) |
+| Archiver | 362909 | [362909-archiver.json](./362909-archiver.json) |
 | Archmage Ricka | 211440 | [211440-archmage-ricka.json](./211440-archmage-ricka.json) |
 | Archmage Rises | 31937 | [31937-archmage-rises.json](./31937-archmage-rises.json) |
 | Archon | 5539 | [5539-archon.json](./5539-archon.json) |
@@ -3051,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asgard's Wrath | 115031 | [115031-asgards-wrath.json](./115031-asgards-wrath.json) |
 | Asghan 2 | 10864 | [10864-asghan-2.json](./10864-asghan-2.json) |
 | Asghan: The Dragon Slayer | 10860 | [10860-asghan-the-dragon-slayer.json](./10860-asghan-the-dragon-slayer.json) |
+| Asgore Runs Over Dess: The Game | 362905 | [362905-asgore-runs-over-dess-the-game.json](./362905-asgore-runs-over-dess-the-game.json) |
 | Ash | 127264 | [127264-ash.json](./127264-ash.json) |
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
 | Ash of Gods: Arena | 133417 | [133417-ash-of-gods-arena.json](./133417-ash-of-gods-arena.json) |
