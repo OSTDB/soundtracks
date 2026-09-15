@@ -1947,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelldom | 330101 | [330101-shelldom.json](./330101-shelldom.json) |
 | Shelled Flame | 182528 | [182528-shelled-flame.json](./182528-shelled-flame.json) |
 | Shelley Duvall's It's a Bird's Life | 79294 | [79294-shelley-duvalls-its-a-birds-life.json](./79294-shelley-duvalls-its-a-birds-life.json) |
+| Shellguard: Starbound Expansion Remastered | 357316 | [357316-shellguard-starbound-expansion-remastered.json](./357316-shellguard-starbound-expansion-remastered.json) |
 | Shellie's Secret | 378169 | [378169-shellies-secret.json](./378169-shellies-secret.json) |
 | Shells Delivery | 267918 | [267918-shells-delivery.json](./267918-shells-delivery.json) |
 | Shells Delivery Deluxe | 267917 | [267917-shells-delivery-deluxe.json](./267917-shells-delivery-deluxe.json) |
@@ -1990,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Horse's Horror Academy | 125468 | [125468-sherlock-horses-horror-academy.json](./125468-sherlock-horses-horror-academy.json) |
 | Sherlock Purr 2: Deluxe Edition | 314890 | [314890-sherlock-purr-2-deluxe-edition.json](./314890-sherlock-purr-2-deluxe-edition.json) |
 | Sherlock Purr: Extended Edition | 243369 | [243369-sherlock-purr-extended-edition.json](./243369-sherlock-purr-extended-edition.json) |
+| Sherlock: Hidden Object & Match-3 Mystery | 357304 | [357304-sherlock-hidden-object-and-match-3-mystery.json](./357304-sherlock-hidden-object-and-match-3-mystery.json) |
 | Sherman Commander | 155650 | [155650-sherman-commander.json](./155650-sherman-commander.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
@@ -2465,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sierra Ridge Technologies | 349315 | [349315-sierra-ridge-technologies.json](./349315-sierra-ridge-technologies.json) |
 | Sierra's 3-D Helicopter Simulator | 72087 | [72087-sierras-3-d-helicopter-simulator.json](./72087-sierras-3-d-helicopter-simulator.json) |
 | Sift Heads | 209633 | [209633-sift-heads.json](./209633-sift-heads.json) |
+| Sift Heads 0: The Starting Point | 357302 | [357302-sift-heads-0-the-starting-point.json](./357302-sift-heads-0-the-starting-point.json) |
 | Sift Heads 1: Remasterized | 359423 | [359423-sift-heads-1-remasterized.json](./359423-sift-heads-1-remasterized.json) |
 | Sift Heads Reborn | 191898 | [191898-sift-heads-reborn.json](./191898-sift-heads-reborn.json) |
 | Sift Heads World: Act 1 - Deadly Newcomer | 191902 | [191902-sift-heads-world-act-1-deadly-newcomer.json](./191902-sift-heads-world-act-1-deadly-newcomer.json) |
@@ -3278,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
 | Slime Legion | 242238 | [242238-slime-legion.json](./242238-slime-legion.json) |
 | Slime Maker Factory: Fun Play | 106522 | [106522-slime-maker-factory-fun-play.json](./106522-slime-maker-factory-fun-play.json) |
+| Slime Management | 357349 | [357349-slime-management.json](./357349-slime-management.json) |
 | Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
 | Slime Rancher | 16287 | [16287-slime-rancher.json](./16287-slime-rancher.json) |
 | Slime Ranger | 221159 | [221159-slime-ranger.json](./221159-slime-ranger.json) |
@@ -3890,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
 | Sock It | 196236 | [196236-sock-it.json](./196236-sock-it.json) |
 | Sock Monster | 143012 | [143012-sock-monster.json](./143012-sock-monster.json) |
+| Socks & Pants | 357300 | [357300-socks-and-pants.json](./357300-socks-and-pants.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
 | Sod | 180238 | [180238-sod.json](./180238-sod.json) |
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
@@ -5904,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Tactics Redux: Expeditions | 169952 | [169952-star-tactics-redux-expeditions.json](./169952-star-tactics-redux-expeditions.json) |
 | Star Tank | 169457 | [169457-star-tank.json](./169457-star-tank.json) |
 | Star Tower | 373537 | [373537-star-tower.json](./373537-star-tower.json) |
+| Star Tracer | 357305 | [357305-star-tracer.json](./357305-star-tracer.json) |
 | Star Traders: 4X Empires | 36124 | [36124-star-traders-4x-empires.json](./36124-star-traders-4x-empires.json) |
 | Star Trek | 11485 | [11485-star-trek.json](./11485-star-trek.json) |
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
@@ -6027,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starboard | 192366 | [192366-starboard.json](./192366-starboard.json) |
 | Starboi | 360603 | [360603-starboi.json](./360603-starboi.json) |
 | Starboost EX | 123636 | [123636-starboost-ex.json](./123636-starboost-ex.json) |
+| StarBooze Reborn | 357314 | [357314-starbooze-reborn.json](./357314-starbooze-reborn.json) |
 | Starborn Space | 115027 | [115027-starborn-space.json](./115027-starborn-space.json) |
 | Starborn Survivor | 306711 | [306711-starborn-survivor.json](./306711-starborn-survivor.json) |
 | Starborne: Frontiers | 242221 | [242221-starborne-frontiers.json](./242221-starborne-frontiers.json) |
@@ -6226,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsphere | 34321 | [34321-starsphere.json](./34321-starsphere.json) |
 | Starstride | 264622 | [264622-starstride.json](./264622-starstride.json) |
 | Starstruck | 239651 | [239651-starstruck.json](./239651-starstruck.json) |
+| Starsuits! (Remastered+ Edition) | 357317 | [357317-starsuits-remastered-edition.json](./357317-starsuits-remastered-edition.json) |
 | Starsweep | 9529 | [9529-starsweep.json](./9529-starsweep.json) |
 | Start the Party! Save the World! | 20731 | [20731-start-the-party-save-the-world.json](./20731-start-the-party-save-the-world.json) |
 | Start Your Engines Bundle | 173789 | [173789-start-your-engines-bundle.json](./173789-start-your-engines-bundle.json) |
