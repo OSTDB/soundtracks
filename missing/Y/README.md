@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your God Is False | 336903 | [336903-your-god-is-false.json](./336903-your-god-is-false.json) |
 | Your House | 274758 | [274758-your-house.json](./274758-your-house.json) |
 | Your Human is Sick | 149008 | [149008-your-human-is-sick.json](./149008-your-human-is-sick.json) |
+| Your Judgment, Inquisitor | 361240 | [361240-your-judgment-inquisitor.json](./361240-your-judgment-inquisitor.json) |
 | Your Last Xmas | 280186 | [280186-your-last-xmas.json](./280186-your-last-xmas.json) |
 | Your Lucky Charm | 264048 | [264048-your-lucky-charm.json](./264048-your-lucky-charm.json) |
 | Your Majesty | 186280 | [186280-your-majesty.json](./186280-your-majesty.json) |
