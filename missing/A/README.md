@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline | 319565 | [319565-airline.json](./319565-airline.json) |
 | Airline Commander | 106592 | [106592-airline-commander.json](./106592-airline-commander.json) |
 | Airline Commander: A Real Flight Experience | 106598 | [106598-airline-commander-a-real-flight-experience.json](./106598-airline-commander-a-real-flight-experience.json) |
+| Airline Empire: Stewardess Simulator | 370786 | [370786-airline-empire-stewardess-simulator.json](./370786-airline-empire-stewardess-simulator.json) |
 | Airline Flight Attendant Simulator VR | 236016 | [236016-airline-flight-attendant-simulator-vr.json](./236016-airline-flight-attendant-simulator-vr.json) |
 | Airline Tycoon 2: Falcon Lines | 52568 | [52568-airline-tycoon-2-falcon-lines.json](./52568-airline-tycoon-2-falcon-lines.json) |
 | Airline Tycoon 2: Gold Edition | 52569 | [52569-airline-tycoon-2-gold-edition.json](./52569-airline-tycoon-2-gold-edition.json) |
@@ -1984,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Jigsaw Girls: Christmas | 286515 | [286515-anime-jigsaw-girls-christmas.json](./286515-anime-jigsaw-girls-christmas.json) |
 | Anime Land | 91914 | [91914-anime-land.json](./91914-anime-land.json) |
 | Anime Love Chat Girls | 380394 | [380394-anime-love-chat-girls.json](./380394-anime-love-chat-girls.json) |
+| Anime Manga Style Girl: Color By Number Pixel Art Coloring | 370758 | [370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json](./370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json) |
 | Anime Memes | 405608 | [405608-anime-memes.json](./405608-anime-memes.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
@@ -2571,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Plunder | 373538 | [373538-arcane-plunder.json](./373538-arcane-plunder.json) |
 | Arcane Raise: Deluxe Edition | 52595 | [52595-arcane-raise-deluxe-edition.json](./52595-arcane-raise-deluxe-edition.json) |
 | Arcane ReRaise: Deluxe Edition | 52594 | [52594-arcane-reraise-deluxe-edition.json](./52594-arcane-reraise-deluxe-edition.json) |
+| Arcane Rift | 370766 | [370766-arcane-rift.json](./370766-arcane-rift.json) |
 | Arcane Rings | 352167 | [352167-arcane-rings.json](./352167-arcane-rings.json) |
 | Arcane Saga Online | 63304 | [63304-arcane-saga-online.json](./63304-arcane-saga-online.json) |
 | Arcane Shores | 343800 | [343800-arcane-shores.json](./343800-arcane-shores.json) |
@@ -2653,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Cave | 98987 | [98987-arctic-cave.json](./98987-arctic-cave.json) |
 | Arctic Combat | 63888 | [63888-arctic-combat.json](./63888-arctic-combat.json) |
 | Arctic Digger TCG Collection | 358873 | [358873-arctic-digger-tcg-collection.json](./358873-arctic-digger-tcg-collection.json) |
+| Arctic Drive | 370782 | [370782-arctic-drive.json](./370782-arctic-drive.json) |
 | Arctic Isolation | 371330 | [371330-arctic-isolation.json](./371330-arctic-isolation.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
 | Arctic Zone | 210639 | [210639-arctic-zone.json](./210639-arctic-zone.json) |
