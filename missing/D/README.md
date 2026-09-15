@@ -2853,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donnie's Delicious Nuclear Funeral | 390521 | [390521-donnies-delicious-nuclear-funeral.json](./390521-donnies-delicious-nuclear-funeral.json) |
 | Donny Donut: Dokrats | 265689 | [265689-donny-donut-dokrats.json](./265689-donny-donut-dokrats.json) |
 | Donsol | 177521 | [177521-donsol.json](./177521-donsol.json) |
+| Dont Jump: Gamesforfarm | 364592 | [364592-dont-jump-gamesforfarm.json](./364592-dont-jump-gamesforfarm.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
 | Dontdy | 156108 | [156108-dontdy.json](./156108-dontdy.json) |
 | Donut Arena | 190137 | [190137-donut-arena.json](./190137-donut-arena.json) |
@@ -4060,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Danger Traps 2 | 372543 | [372543-dungeon-danger-traps-2.json](./372543-dungeon-danger-traps-2.json) |
 | Dungeon Deathball | 102922 | [102922-dungeon-deathball.json](./102922-dungeon-deathball.json) |
 | Dungeon Defenders II: Heartwarming Bundle | 90701 | [90701-dungeon-defenders-ii-heartwarming-bundle.json](./90701-dungeon-defenders-ii-heartwarming-bundle.json) |
+| Dungeon Defenders: Warden Hero DLC | 364559 | [364559-dungeon-defenders-warden-hero-dlc.json](./364559-dungeon-defenders-warden-hero-dlc.json) |
 | Dungeon Delver | 151135 | [151135-dungeon-delver.json](./151135-dungeon-delver.json) |
 | Dungeon Digger | 304001 | [304001-dungeon-digger.json](./304001-dungeon-digger.json) |
 | Dungeon Display | 159867 | [159867-dungeon-display.json](./159867-dungeon-display.json) |
