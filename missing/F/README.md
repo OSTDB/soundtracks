@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faded Monsuta | 350999 | [350999-faded-monsuta.json](./350999-faded-monsuta.json) |
 | Faded Solitude | 364553 | [364553-faded-solitude.json](./364553-faded-solitude.json) |
 | Faded Stories: Greenberg | 190176 | [190176-faded-stories-greenberg.json](./190176-faded-stories-greenberg.json) |
+| Fadedlands: The Reckless Squad | 348316 | [348316-fadedlands-the-reckless-squad.json](./348316-fadedlands-the-reckless-squad.json) |
 | Fadin's Vacation in the Parallel Kingdom | 299740 | [299740-fadins-vacation-in-the-parallel-kingdom.json](./299740-fadins-vacation-in-the-parallel-kingdom.json) |
 | Fading Afternoon | 166734 | [166734-fading-afternoon.json](./166734-fading-afternoon.json) |
 | Fading Earth | 260704 | [260704-fading-earth.json](./260704-fading-earth.json) |
@@ -590,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm2 + | 406082 | [406082-farm2.json](./406082-farm2.json) |
 | Farmageddon | 362279 | [362279-farmageddon.json](./362279-farmageddon.json) |
 | Farmageddon: Undead | 302380 | [302380-farmageddon-undead.json](./302380-farmageddon-undead.json) |
+| Farmbotic | 348350 | [348350-farmbotic.json](./348350-farmbotic.json) |
 | Farmburgh | 236263 | [236263-farmburgh.json](./236263-farmburgh.json) |
 | Farmch Revolution | 390648 | [390648-farmch-revolution.json](./390648-farmch-revolution.json) |
 | Farmcraft 2 | 411590 | [411590-farmcraft-2.json](./411590-farmcraft-2.json) |
@@ -637,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fart Up | 299455 | [299455-fart-up.json](./299455-fart-up.json) |
 | Farthest Frontier | 142688 | [142688-farthest-frontier.json](./142688-farthest-frontier.json) |
 | Farting Simulator | 315285 | [315285-farting-simulator.json](./315285-farting-simulator.json) |
+| Fartonauts | 348358 | [348358-fartonauts.json](./348358-fartonauts.json) |
 | Farwake | 403666 | [403666-farwake.json](./403666-farwake.json) |
 | FarWest Colony | 269019 | [269019-farwest-colony.json](./269019-farwest-colony.json) |
 | Fasaria World Online | 34530 | [34530-fasaria-world-online.json](./34530-fasaria-world-online.json) |
@@ -1765,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlashGal | 39580 | [39580-flashgal.json](./39580-flashgal.json) |
 | Flashing Lights: Thunder Sport Sedan Pack (Police, Fire, EMS) | 277591 | [277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json](./277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json) |
 | Flashlight Sim | 304602 | [304602-flashlight-sim.json](./304602-flashlight-sim.json) |
+| Flashloop | 348337 | [348337-flashloop.json](./348337-flashloop.json) |
 | Flashout III | 199568 | [199568-flashout-iii.json](./199568-flashout-iii.json) |
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
 | Flat Path | 31734 | [31734-flat-path.json](./31734-flat-path.json) |
