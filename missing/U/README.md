@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Defeat HD | 43951 | [43951-under-defeat-hd.json](./43951-under-defeat-hd.json) |
 | Under Defeat HD: Deluxe Edition | 20239 | [20239-under-defeat-hd-deluxe-edition.json](./20239-under-defeat-hd-deluxe-edition.json) |
 | Under Defeat HD+ | 21016 | [21016-under-defeat-hd.json](./21016-under-defeat-hd.json) |
+| Under Destruction | 356760 | [356760-under-destruction.json](./356760-under-destruction.json) |
 | Under Night In-Birth II: Character - Uzuki | 309084 | [309084-under-night-in-birth-ii-character-uzuki.json](./309084-under-night-in-birth-ii-character-uzuki.json) |
 | Under Night In-Bright II Sys:Celes - Deluxe Edition | 277303 | [277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json](./277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json) |
 | Under Oath | 193989 | [193989-under-oath.json](./193989-under-oath.json) |
@@ -464,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater Affect | 113000 | [113000-underwater-affect.json](./113000-underwater-affect.json) |
 | Underwater Diving | 224547 | [224547-underwater-diving.json](./224547-underwater-diving.json) |
 | Underwater Life | 148514 | [148514-underwater-life.json](./148514-underwater-life.json) |
+| Underwheels | 355073 | [355073-underwheels.json](./355073-underwheels.json) |
 | Underworld | 349298 | [349298-underworld.json](./349298-underworld.json) |
 | Underworld Capital Incident | 146232 | [146232-underworld-capital-incident.json](./146232-underworld-capital-incident.json) |
 | Underworld Dreams | 127209 | [127209-underworld-dreams.json](./127209-underworld-dreams.json) |
@@ -724,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled: The flower game | 181899 | [181899-untitled-the-flower-game.json](./181899-untitled-the-flower-game.json) |
 | Untold Legends: The Warrior's Code | 23006 | [23006-untold-legends-the-warriors-code.json](./23006-untold-legends-the-warriors-code.json) |
 | Untold Stories 01: Goliath | 406718 | [406718-untold-stories-01-goliath.json](./406718-untold-stories-01-goliath.json) |
+| Untold Stories 3: Myriad Caves | 355115 | [355115-untold-stories-3-myriad-caves.json](./355115-untold-stories-3-myriad-caves.json) |
 | Untold Tales: A Scarlet Way | 312567 | [312567-untold-tales-a-scarlet-way.json](./312567-untold-tales-a-scarlet-way.json) |
 | Untouchable | 101594 | [101594-untouchable.json](./101594-untouchable.json) |
 | Untravelled Planet | 325270 | [325270-untravelled-planet.json](./325270-untravelled-planet.json) |
