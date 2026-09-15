@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T11:01:37.127Z",
-  "total_missing": 73567,
+  "generated_at": "2026-09-15T11:11:40.088Z",
+  "total_missing": 73584,
   "games": [
     {
       "igdb_id": 306086,
@@ -5186,11 +5186,6 @@
       "igdb_id": 164979,
       "game_name": "Afterlife Beans",
       "file": "missing/A/164979-afterlife-beans.json"
-    },
-    {
-      "igdb_id": 191828,
-      "game_name": "Afterlife Work",
-      "file": "missing/A/191828-afterlife-work.json"
     },
     {
       "igdb_id": 306641,
@@ -24356,6 +24351,11 @@
       "igdb_id": 223432,
       "game_name": "Band Space",
       "file": "missing/B/223432-band-space.json"
+    },
+    {
+      "igdb_id": 358417,
+      "game_name": "Band Together",
+      "file": "missing/B/358417-band-together.json"
     },
     {
       "igdb_id": 91435,
@@ -68768,6 +68768,11 @@
       "file": "missing/D/72647-danzai-no-maria-the-exorcism-of-maria.json"
     },
     {
+      "igdb_id": 358414,
+      "game_name": "Danzai Shitsu II",
+      "file": "missing/D/358414-danzai-shitsu-ii.json"
+    },
+    {
       "igdb_id": 374621,
       "game_name": "Dāo Qūqū",
       "file": "missing/D/374621-dao-ququ.json"
@@ -71008,14 +71013,59 @@
       "file": "missing/D/283185-dead-by-daylight-old-wounds-pack.json"
     },
     {
+      "igdb_id": 358419,
+      "game_name": "Dead by Daylight: Resident Evil - Chris Redfield",
+      "file": "missing/D/358419-dead-by-daylight-resident-evil-chris-redfield.json"
+    },
+    {
+      "igdb_id": 358416,
+      "game_name": "Dead by Daylight: Resident Evil - Claire Redfield",
+      "file": "missing/D/358416-dead-by-daylight-resident-evil-claire-redfield.json"
+    },
+    {
+      "igdb_id": 358418,
+      "game_name": "Dead by Daylight: Resident Evil - Sheva Alomar",
+      "file": "missing/D/358418-dead-by-daylight-resident-evil-sheva-alomar.json"
+    },
+    {
       "igdb_id": 203959,
       "game_name": "Dead by Daylight: Roots of Dread",
       "file": "missing/D/203959-dead-by-daylight-roots-of-dread.json"
     },
     {
+      "igdb_id": 358413,
+      "game_name": "Dead by Daylight: Silent Hill - Cybil Bennett",
+      "file": "missing/D/358413-dead-by-daylight-silent-hill-cybil-bennett.json"
+    },
+    {
+      "igdb_id": 358415,
+      "game_name": "Dead by Daylight: Silent Hill - James Sunderland",
+      "file": "missing/D/358415-dead-by-daylight-silent-hill-james-sunderland.json"
+    },
+    {
+      "igdb_id": 358411,
+      "game_name": "Dead by Daylight: Silent Hill - Lisa Garland",
+      "file": "missing/D/358411-dead-by-daylight-silent-hill-lisa-garland.json"
+    },
+    {
       "igdb_id": 139976,
       "game_name": "Dead by Daylight: Silent Hill Edition",
       "file": "missing/D/139976-dead-by-daylight-silent-hill-edition.json"
+    },
+    {
+      "igdb_id": 358410,
+      "game_name": "Dead by Daylight: Stranger Things - Jonathan Byers",
+      "file": "missing/D/358410-dead-by-daylight-stranger-things-jonathan-byers.json"
+    },
+    {
+      "igdb_id": 358407,
+      "game_name": "Dead by Daylight: The Walking Dead",
+      "file": "missing/D/358407-dead-by-daylight-the-walking-dead.json"
+    },
+    {
+      "igdb_id": 358409,
+      "game_name": "Dead by Daylight: The Walking Dead - Daryl Dixon",
+      "file": "missing/D/358409-dead-by-daylight-the-walking-dead-daryl-dixon.json"
     },
     {
       "igdb_id": 109718,
@@ -92293,6 +92343,11 @@
       "file": "missing/E/250355-elven-rivers-ii-new-horizons-collectors-edition.json"
     },
     {
+      "igdb_id": 358406,
+      "game_name": "Elven Rivers VI: Guardians of Hope - Collector's Edition",
+      "file": "missing/E/358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json"
+    },
+    {
       "igdb_id": 239643,
       "game_name": "Elven Rivers: The Forgotten Lands - Collector's Edition",
       "file": "missing/E/239643-elven-rivers-the-forgotten-lands-collectors-edition.json"
@@ -92731,6 +92786,11 @@
       "igdb_id": 180783,
       "game_name": "Emoceans",
       "file": "missing/E/180783-emoceans.json"
+    },
+    {
+      "igdb_id": 358403,
+      "game_name": "Emogame 1: A Get-Up Kidnapping!",
+      "file": "missing/E/358403-emogame-1-a-get-up-kidnapping.json"
     },
     {
       "igdb_id": 125941,
@@ -155623,6 +155683,11 @@
       "file": "missing/J/129147-jumpstart-math-for-second-graders.json"
     },
     {
+      "igdb_id": 358412,
+      "game_name": "JumpStart Phonics",
+      "file": "missing/J/358412-jumpstart-phonics.json"
+    },
+    {
       "igdb_id": 407433,
       "game_name": "JumpStart Pre-K",
       "file": "missing/J/407433-jumpstart-pre-k.json"
@@ -166396,6 +166461,11 @@
       "igdb_id": 358317,
       "game_name": "Left 4 Dead 2 Beta Pack",
       "file": "missing/L/358317-left-4-dead-2-beta-pack.json"
+    },
+    {
+      "igdb_id": 358402,
+      "game_name": "Left 4 Dead 2: Nightmare",
+      "file": "missing/L/358402-left-4-dead-2-nightmare.json"
     },
     {
       "igdb_id": 119066,
@@ -213516,6 +213586,11 @@
       "igdb_id": 410246,
       "game_name": "Once Upon A Katamari: Rolling Live Highlights",
       "file": "missing/O/410246-once-upon-a-katamari-rolling-live-highlights.json"
+    },
+    {
+      "igdb_id": 358401,
+      "game_name": "Once Upon a Kingdom",
+      "file": "missing/O/358401-once-upon-a-kingdom.json"
     },
     {
       "igdb_id": 115656,
@@ -336181,6 +336256,16 @@
       "igdb_id": 86096,
       "game_name": "Travel Bug",
       "file": "missing/T/86096-travel-bug.json"
+    },
+    {
+      "igdb_id": 358405,
+      "game_name": "Travel Cuisine 2: Sweet Life",
+      "file": "missing/T/358405-travel-cuisine-2-sweet-life.json"
+    },
+    {
+      "igdb_id": 358404,
+      "game_name": "Travel Cuisine 3: The Sea of Flavours - Collector's Edition",
+      "file": "missing/T/358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json"
     },
     {
       "igdb_id": 250655,
