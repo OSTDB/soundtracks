@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varicella | 9519 | [9519-varicella.json](./9519-varicella.json) |
 | VariTale | 71508 | [71508-varitale.json](./71508-varitale.json) |
 | Varkon | 95368 | [95368-varkon.json](./95368-varkon.json) |
+| Varlet | 341552 | [341552-varlet.json](./341552-varlet.json) |
 | Varooom 3D | 181877 | [181877-varooom-3d.json](./181877-varooom-3d.json) |
 | Varsapura | 378268 | [378268-varsapura.json](./378268-varsapura.json) |
 | Vasilisa the Beautiful | 360566 | [360566-vasilisa-the-beautiful.json](./360566-vasilisa-the-beautiful.json) |
