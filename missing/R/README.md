@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Justice | 85769 | [85769-raging-justice.json](./85769-raging-justice.json) |
 | Ragnagard | 40201 | [40201-ragnagard.json](./40201-ragnagard.json) |
 | Ragnania HD | 109711 | [109711-ragnania-hd.json](./109711-ragnania-hd.json) |
+| Ragnar | 352296 | [352296-ragnar.json](./352296-ragnar.json) |
 | Ragnar's Chinese Memory Game | 156112 | [156112-ragnars-chinese-memory-game.json](./156112-ragnars-chinese-memory-game.json) |
 | Ragnarok Battle Offline: Extra Scenario 1 | 67953 | [67953-ragnarok-battle-offline-extra-scenario-1.json](./67953-ragnarok-battle-offline-extra-scenario-1.json) |
 | Ragnarok Battle Offline: Extra Scenario 2 | 67951 | [67951-ragnarok-battle-offline-extra-scenario-2.json](./67951-ragnarok-battle-offline-extra-scenario-2.json) |
@@ -1507,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant Knight | 322602 | [322602-revenant-knight.json](./322602-revenant-knight.json) |
 | Revenant Survivors | 400235 | [400235-revenant-survivors.json](./400235-revenant-survivors.json) |
 | Revenant: In Memory Of The Day | 334494 | [334494-revenant-in-memory-of-the-day.json](./334494-revenant-in-memory-of-the-day.json) |
+| Revenant: Through the Veil | 352288 | [352288-revenant-through-the-veil.json](./352288-revenant-through-the-veil.json) |
 | Revenants: Spirit & Mind | 190154 | [190154-revenants-spirit-and-mind.json](./190154-revenants-spirit-and-mind.json) |
 | Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
 | Revenge of Justice | 122349 | [122349-revenge-of-justice.json](./122349-revenge-of-justice.json) |
@@ -1769,11 +1771,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Fishing | 380422 | [380422-rift-fishing.json](./380422-rift-fishing.json) |
 | Rift Investigations | 402992 | [402992-rift-investigations.json](./402992-rift-investigations.json) |
 | Rift Mobile | 38902 | [38902-rift-mobile.json](./38902-rift-mobile.json) |
+| Rift of the NecroDancer: Celeste - "Confronting Myself" | 352268 | [352268-rift-of-the-necrodancer-celeste-confronting-myself.json](./352268-rift-of-the-necrodancer-celeste-confronting-myself.json) |
+| Rift of the NecroDancer: Celeste - "Reach for the Summit" | 352270 | [352270-rift-of-the-necrodancer-celeste-reach-for-the-summit.json](./352270-rift-of-the-necrodancer-celeste-reach-for-the-summit.json) |
+| Rift of the NecroDancer: Celeste - "Resurrections" | 352269 | [352269-rift-of-the-necrodancer-celeste-resurrections.json](./352269-rift-of-the-necrodancer-celeste-resurrections.json) |
+| Rift of the NecroDancer: Celeste - "Scattered and Lost" | 352267 | [352267-rift-of-the-necrodancer-celeste-scattered-and-lost.json](./352267-rift-of-the-necrodancer-celeste-scattered-and-lost.json) |
+| Rift of the NecroDancer: Hatsune Miku - "Intergalactic Bound" | 352279 | [352279-rift-of-the-necrodancer-hatsune-miku-intergalactic-bound.json](./352279-rift-of-the-necrodancer-hatsune-miku-intergalactic-bound.json) |
+| Rift of the NecroDancer: Hatsune Miku - "Just 1dB Louder" | 352278 | [352278-rift-of-the-necrodancer-hatsune-miku-just-1db-louder.json](./352278-rift-of-the-necrodancer-hatsune-miku-just-1db-louder.json) |
+| Rift of the NecroDancer: Hatsune Miku - "M@gical Cure! Love Shot!" | 352276 | [352276-rift-of-the-necrodancer-hatsune-miku-m-gical-cure-love-shot.json](./352276-rift-of-the-necrodancer-hatsune-miku-m-gical-cure-love-shot.json) |
+| Rift of the NecroDancer: Hatsune Miku - "MikuFiesta" | 352275 | [352275-rift-of-the-necrodancer-hatsune-miku-mikufiesta.json](./352275-rift-of-the-necrodancer-hatsune-miku-mikufiesta.json) |
+| Rift of the NecroDancer: Hatsune Miku - "Radiant Revival" | 352277 | [352277-rift-of-the-necrodancer-hatsune-miku-radiant-revival.json](./352277-rift-of-the-necrodancer-hatsune-miku-radiant-revival.json) |
+| Rift of the NecroDancer: hololive - "Ahoy!! Warera Takara Kane Kaizoku-dan☆" | 352283 | [352283-rift-of-the-necrodancer-hololive-ahoy-warera-takara-kane-kaizoku-dan.json](./352283-rift-of-the-necrodancer-hololive-ahoy-warera-takara-kane-kaizoku-dan.json) |
+| Rift of the NecroDancer: hololive - "Bibbidiba" | 352280 | [352280-rift-of-the-necrodancer-hololive-bibbidiba.json](./352280-rift-of-the-necrodancer-hololive-bibbidiba.json) |
+| Rift of the NecroDancer: hololive - "Carbonated Love" | 352281 | [352281-rift-of-the-necrodancer-hololive-carbonated-love.json](./352281-rift-of-the-necrodancer-hololive-carbonated-love.json) |
+| Rift of the NecroDancer: hololive - "Play Dice!" | 352284 | [352284-rift-of-the-necrodancer-hololive-play-dice.json](./352284-rift-of-the-necrodancer-hololive-play-dice.json) |
+| Rift of the NecroDancer: Hololive - "Reflect" | 352282 | [352282-rift-of-the-necrodancer-hololive-reflect.json](./352282-rift-of-the-necrodancer-hololive-reflect.json) |
 | Rift of the NecroDancer: Monstercat - "Crab Rave" | 375961 | [375961-rift-of-the-necrodancer-monstercat-crab-rave.json](./375961-rift-of-the-necrodancer-monstercat-crab-rave.json) |
 | Rift of the NecroDancer: Monstercat - "Final Boss" | 375959 | [375959-rift-of-the-necrodancer-monstercat-final-boss.json](./375959-rift-of-the-necrodancer-monstercat-final-boss.json) |
 | Rift of the NecroDancer: Monstercat - "New Game" | 375958 | [375958-rift-of-the-necrodancer-monstercat-new-game.json](./375958-rift-of-the-necrodancer-monstercat-new-game.json) |
 | Rift of the NecroDancer: Monstercat - "PLAY" | 375962 | [375962-rift-of-the-necrodancer-monstercat-play.json](./375962-rift-of-the-necrodancer-monstercat-play.json) |
 | Rift of the NecroDancer: Monstercat - "Waiting For You feat. Joanna Jones" | 375960 | [375960-rift-of-the-necrodancer-monstercat-waiting-for-you-feat-joanna-jones.json](./375960-rift-of-the-necrodancer-monstercat-waiting-for-you-feat-joanna-jones.json) |
+| Rift of the NecroDancer: Pizza Tower - "It's Pizza Time!" | 352271 | [352271-rift-of-the-necrodancer-pizza-tower-its-pizza-time.json](./352271-rift-of-the-necrodancer-pizza-tower-its-pizza-time.json) |
+| Rift of the NecroDancer: Pizza Tower - "The Death That I Deservioli" | 352272 | [352272-rift-of-the-necrodancer-pizza-tower-the-death-that-i-deservioli.json](./352272-rift-of-the-necrodancer-pizza-tower-the-death-that-i-deservioli.json) |
+| Rift of the NecroDancer: Pizza Tower - "Unexpectancy, Pt. 3" | 352273 | [352273-rift-of-the-necrodancer-pizza-tower-unexpectancy-pt-3.json](./352273-rift-of-the-necrodancer-pizza-tower-unexpectancy-pt-3.json) |
+| Rift of the NecroDancer: Pizza Tower - "World Wide Noise" | 352274 | [352274-rift-of-the-necrodancer-pizza-tower-world-wide-noise.json](./352274-rift-of-the-necrodancer-pizza-tower-world-wide-noise.json) |
 | Rift of the NecroDancer: Shovel Knight - "An Underlying Problem (The Lost City)" - Jake Kaufman | 375964 | [375964-rift-of-the-necrodancer-shovel-knight-an-underlying-problem-the-lost-city-jake-kaufman.json](./375964-rift-of-the-necrodancer-shovel-knight-an-underlying-problem-the-lost-city-jake-kaufman.json) |
 | Rift of the NecroDancer: Shovel Knight - "High Above the Land (The Flying Machine)" - Jake Kaufman | 375965 | [375965-rift-of-the-necrodancer-shovel-knight-high-above-the-land-the-flying-machine-jake-kaufman.json](./375965-rift-of-the-necrodancer-shovel-knight-high-above-the-land-the-flying-machine-jake-kaufman.json) |
 | Rift of the NecroDancer: Shovel Knight - "In the Halls of the Usurper (Pridemoor Keep)" - Jake Kaufman | 375966 | [375966-rift-of-the-necrodancer-shovel-knight-in-the-halls-of-the-usurper-pridemoor-keep-jake-kaufman.json](./375966-rift-of-the-necrodancer-shovel-knight-in-the-halls-of-the-usurper-pridemoor-keep-jake-kaufman.json) |
@@ -3129,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
 | RWBY: Amity Arena | 107151 | [107151-rwby-amity-arena.json](./107151-rwby-amity-arena.json) |
 | RWBY: Vale of Darkness | 236806 | [236806-rwby-vale-of-darkness.json](./236806-rwby-vale-of-darkness.json) |
+| RWSD | 352286 | [352286-rwsd.json](./352286-rwsd.json) |
 | RX10-40 | 324312 | [324312-rx10-40.json](./324312-rx10-40.json) |
 | RXN: Raijin | 77386 | [77386-rxn-raijin.json](./77386-rxn-raijin.json) |
 | Ryan's Pack | 131602 | [131602-ryans-pack.json](./131602-ryans-pack.json) |
