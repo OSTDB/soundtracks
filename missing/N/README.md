@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negi Sho-gi: Negi Massigura | 311286 | [311286-negi-sho-gi-negi-massigura.json](./311286-negi-sho-gi-negi-massigura.json) |
 | Negima!? Magister Negi Magi: Neo-Pactio Fight!! | 72653 | [72653-negima-magister-negi-magi-neo-pactio-fight.json](./72653-negima-magister-negi-magi-neo-pactio-fight.json) |
 | Negligee: Love Stories | 111743 | [111743-negligee-love-stories.json](./111743-negligee-love-stories.json) |
+| Negotiations Have Failed! | 374179 | [374179-negotiations-have-failed.json](./374179-negotiations-have-failed.json) |
 | Nehonobasa | 306676 | [306676-nehonobasa.json](./306676-nehonobasa.json) |
 | Neighbor | 144366 | [144366-neighbor.json](./144366-neighbor.json) |
 | Neighbor | 181842 | [181842-neighbor.json](./181842-neighbor.json) |
@@ -1095,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Slashers: Remake | 290795 | [290795-night-slashers-remake.json](./290795-night-slashers-remake.json) |
 | Night Slave | 45974 | [45974-night-slave.json](./45974-night-slave.json) |
 | Night Stalkers | 190128 | [190128-night-stalkers.json](./190128-night-stalkers.json) |
+| Night Thoughts | 374171 | [374171-night-thoughts.json](./374171-night-thoughts.json) |
 | Night Trap | 2486 | [2486-night-trap.json](./2486-night-trap.json) |
 | Night Trap | 298556 | [298556-night-trap.json](./298556-night-trap.json) |
 | Night Trap: 25th Anniversary Edition | 28249 | [28249-night-trap-25th-anniversary-edition.json](./28249-night-trap-25th-anniversary-edition.json) |
@@ -1844,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nusrat | 19495 | [19495-nusrat.json](./19495-nusrat.json) |
 | Nutjitsu | 19966 | [19966-nutjitsu.json](./19966-nutjitsu.json) |
 | Nutjitsu: Reforged | 52645 | [52645-nutjitsu-reforged.json](./52645-nutjitsu-reforged.json) |
+| NutritionZ | 374725 | [374725-nutritionz.json](./374725-nutritionz.json) |
 | Nutty | 299170 | [299170-nutty.json](./299170-nutty.json) |
 | Nutz Revenge | 302942 | [302942-nutz-revenge.json](./302942-nutz-revenge.json) |
 | Nǚwáng | 407321 | [407321-nuwang.json](./407321-nuwang.json) |
