@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperwork | 374620 | [374620-paperwork.json](./374620-paperwork.json) |
 | Papi Chocolate | 87107 | [87107-papi-chocolate.json](./87107-papi-chocolate.json) |
 | PapiCatch | 87241 | [87241-papicatch.json](./87241-papicatch.json) |
+| Papier Julien | 337711 | [337711-papier-julien.json](./337711-papier-julien.json) |
 | PapiFlap | 87249 | [87249-papiflap.json](./87249-papiflap.json) |
 | PapiJump | 72701 | [72701-papijump.json](./72701-papijump.json) |
 | PapiMountain | 87234 | [87234-papimountain.json](./87234-papimountain.json) |
@@ -874,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pearl Fishery: Quest for the Mega Pearl | 296372 | [296372-pearl-fishery-quest-for-the-mega-pearl.json](./296372-pearl-fishery-quest-for-the-mega-pearl.json) |
 | Pearl Harbor: Zero Hour | 72057 | [72057-pearl-harbor-zero-hour.json](./72057-pearl-harbor-zero-hour.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
+| Pearlessential | 337732 | [337732-pearlessential.json](./337732-pearlessential.json) |
 | Pearls of the Oceans | 164974 | [164974-pearls-of-the-oceans.json](./164974-pearls-of-the-oceans.json) |
 | Peas Adventure | 117034 | [117034-peas-adventure.json](./117034-peas-adventure.json) |
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
@@ -1741,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
 | Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
+| Pioneer | 337737 | [337737-pioneer.json](./337737-pioneer.json) |
 | Pioneer | 61666 | [61666-pioneer.json](./61666-pioneer.json) |
 | Pioneer Lands | 59430 | [59430-pioneer-lands.json](./59430-pioneer-lands.json) |
 | Pioneers | 63237 | [63237-pioneers.json](./63237-pioneers.json) |
@@ -3014,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Posthuman: Sanctuary | 105270 | [105270-posthuman-sanctuary.json](./105270-posthuman-sanctuary.json) |
 | Postie | 345599 | [345599-postie.json](./345599-postie.json) |
 | Postknight | 27329 | [27329-postknight.json](./27329-postknight.json) |
+| Postknight World | 337704 | [337704-postknight-world.json](./337704-postknight-world.json) |
 | Postman Pat | 72122 | [72122-postman-pat.json](./72122-postman-pat.json) |
 | Postman Pat 2 | 68691 | [68691-postman-pat-2.json](./68691-postman-pat-2.json) |
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
