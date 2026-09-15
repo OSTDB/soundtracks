@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CloserTo | 396374 | [396374-closerto.json](./396374-closerto.json) |
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
+| Clothing Boutique Simulator: Store Manager | 370802 | [370802-clothing-boutique-simulator-store-manager.json](./370802-clothing-boutique-simulator-store-manager.json) |
 | Clotilde Soffritti in Never Double Park your Spaceship | 217876 | [217876-clotilde-soffritti-in-never-double-park-your-spaceship.json](./217876-clotilde-soffritti-in-never-double-park-your-spaceship.json) |
 | Clotilde Soffritti in: Never Buy a Used Spaceship | 217875 | [217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json](./217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json) |
 | Cloud Castle | 275874 | [275874-cloud-castle.json](./275874-cloud-castle.json) |
@@ -2826,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Survivors | 402266 | [402266-combat-survivors.json](./402266-combat-survivors.json) |
 | Combat Wings | 138170 | [138170-combat-wings.json](./138170-combat-wings.json) |
 | Combat Wings: Battle of Britain | 9800 | [9800-combat-wings-battle-of-britain.json](./9800-combat-wings-battle-of-britain.json) |
+| Combat Zone | 370794 | [370794-combat-zone.json](./370794-combat-zone.json) |
 | Combatant | 193407 | [193407-combatant.json](./193407-combatant.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
 | Combined_Arms | 143116 | [143116-combined-arms.json](./143116-combined-arms.json) |
@@ -3485,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courier Chief Tycoon | 237086 | [237086-courier-chief-tycoon.json](./237086-courier-chief-tycoon.json) |
 | Court of Ashes | 120941 | [120941-court-of-ashes.json](./120941-court-of-ashes.json) |
 | Court of Darkness: Captivation's Kiss | 399622 | [399622-court-of-darkness-captivations-kiss.json](./399622-court-of-darkness-captivations-kiss.json) |
+| Court of Darkness: Temptation's Kiss | 370803 | [370803-court-of-darkness-temptations-kiss.json](./370803-court-of-darkness-temptations-kiss.json) |
 | Courting Death | 318791 | [318791-courting-death.json](./318791-courting-death.json) |
 | Courtroom Chaos: Starring Arnold Schwarzenegger | 410347 | [410347-courtroom-chaos-starring-arnold-schwarzenegger.json](./410347-courtroom-chaos-starring-arnold-schwarzenegger.json) |
 | Courtroom Chaos: Starring Snoop Dogg | 371262 | [371262-courtroom-chaos-starring-snoop-dogg.json](./371262-courtroom-chaos-starring-snoop-dogg.json) |
@@ -3597,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft the Mapcrafter: Gathering Magic Words | 151676 | [151676-craft-the-mapcrafter-gathering-magic-words.json](./151676-craft-the-mapcrafter-gathering-magic-words.json) |
 | Craft The World: Invasion | 286536 | [286536-craft-the-world-invasion.json](./286536-craft-the-world-invasion.json) |
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
+| Craft Your Way | 370804 | [370804-craft-your-way.json](./370804-craft-your-way.json) |
 | Craft. Sell. Goblin. Repeat. | 374665 | [374665-craft-sell-goblin-repeat.json](./374665-craft-sell-goblin-repeat.json) |
 | Craftaway | 355032 | [355032-craftaway.json](./355032-craftaway.json) |
 | Crafter | 326042 | [326042-crafter.json](./326042-crafter.json) |
@@ -4423,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Woney | 365066 | [365066-curse-of-woney.json](./365066-curse-of-woney.json) |
 | Curse Removal Service | 218150 | [218150-curse-removal-service.json](./218150-curse-removal-service.json) |
 | Curse the Cursor | 369028 | [369028-curse-the-cursor.json](./369028-curse-the-cursor.json) |
+| Curse Words | 370775 | [370775-curse-words.json](./370775-curse-words.json) |
 | Cursed 2 | 196786 | [196786-cursed-2.json](./196786-cursed-2.json) |
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
