@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
 | Election | 13630 | [13630-election.json](./13630-election.json) |
+| Election Day | 340995 | [340995-election-day.json](./340995-election-day.json) |
 | Election Day | 415126 | [415126-election-day.json](./415126-election-day.json) |
 | Election Train | 406206 | [406206-election-train.json](./406206-election-train.json) |
 | Electric Crayon Deluxe: Teenage Mutant Hero Turtles - World Tour | 78007 | [78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json](./78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json) |
