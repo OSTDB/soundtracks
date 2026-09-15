@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desires of a Dragon Prince | 298893 | [298893-desires-of-a-dragon-prince.json](./298893-desires-of-a-dragon-prince.json) |
 | Desires of a Vampire | 298892 | [298892-desires-of-a-vampire.json](./298892-desires-of-a-vampire.json) |
 | Desk Deck Heroes | 303472 | [303472-desk-deck-heroes.json](./303472-desk-deck-heroes.json) |
+| Deskape | 371304 | [371304-deskape.json](./371304-deskape.json) |
 | Desktop Defender | 371976 | [371976-desktop-defender.json](./371976-desktop-defender.json) |
 | Desktop Dodgeball 2 | 317224 | [317224-desktop-dodgeball-2.json](./317224-desktop-dodgeball-2.json) |
 | Desktop Dungeons | 8998 | [8998-desktop-dungeons.json](./8998-desktop-dungeons.json) |
@@ -2061,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Attack | 343258 | [343258-dino-attack.json](./343258-dino-attack.json) |
 | Dino Breeder | 64981 | [64981-dino-breeder.json](./64981-dino-breeder.json) |
 | Dino Breeder 2 | 63853 | [63853-dino-breeder-2.json](./63853-dino-breeder-2.json) |
+| Dino Bros | 371323 | [371323-dino-bros.json](./371323-dino-bros.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
 | Dino Crisis: 5th Anniversary | 161345 | [161345-dino-crisis-5th-anniversary.json](./161345-dino-crisis-5th-anniversary.json) |
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
@@ -3697,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Dangerously! | 411661 | [411661-drive-dangerously.json](./411661-drive-dangerously.json) |
 | Drive Drift X | 187487 | [187487-drive-drift-x.json](./187487-drive-drift-x.json) |
 | Drive for Your Life | 116722 | [116722-drive-for-your-life.json](./116722-drive-for-your-life.json) |
+| Drive Mad | 371327 | [371327-drive-mad.json](./371327-drive-mad.json) |
 | Drive Me Broke | 373107 | [373107-drive-me-broke.json](./373107-drive-me-broke.json) |
 | Drive Megapolis | 31659 | [31659-drive-megapolis.json](./31659-drive-megapolis.json) |
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
@@ -3891,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducks Ahoy! | 76603 | [76603-ducks-ahoy.json](./76603-ducks-ahoy.json) |
 | Ducks in Disguise | 411621 | [411621-ducks-in-disguise.json](./411621-ducks-in-disguise.json) |
 | Duckside | 295239 | [295239-duckside.json](./295239-duckside.json) |
+| DuckStruck | 371326 | [371326-duckstruck.json](./371326-duckstruck.json) |
 | DuckTales: Scrooge's Loot | 78640 | [78640-ducktales-scrooges-loot.json](./78640-ducktales-scrooges-loot.json) |
 | Ducktopia | 169388 | [169388-ducktopia.json](./169388-ducktopia.json) |
 | Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
