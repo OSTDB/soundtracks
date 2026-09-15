@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
 | Paper Dash: City Hustle | 287072 | [287072-paper-dash-city-hustle.json](./287072-paper-dash-city-hustle.json) |
+| Paper Department | 374156 | [374156-paper-department.json](./374156-paper-department.json) |
 | Paper Drifter | 236826 | [236826-paper-drifter.json](./236826-paper-drifter.json) |
 | Paper Dungeons Crawler | 95573 | [95573-paper-dungeons-crawler.json](./95573-paper-dungeons-crawler.json) |
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
@@ -619,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
 | Party Party Time + Party Harder Pack | 232993 | [232993-party-party-time-party-harder-pack.json](./232993-party-party-time-party-harder-pack.json) |
 | Party Party Time + Ultra Pack Set | 260684 | [260684-party-party-time-ultra-pack-set.json](./260684-party-party-time-ultra-pack-set.json) |
+| Party Party Time 2: Lively Party Pack | 374168 | [374168-party-party-time-2-lively-party-pack.json](./374168-party-party-time-2-lively-party-pack.json) |
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
 | Party Party Time: Happy Happy Pack | 259855 | [259855-party-party-time-happy-happy-pack.json](./259855-party-party-time-happy-happy-pack.json) |
 | Party Party Time: Party Harder Pack | 233000 | [233000-party-party-time-party-harder-pack.json](./233000-party-party-time-party-harder-pack.json) |
@@ -1261,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney - Trials and Tribulations | 1428 | [1428-phoenix-wright-ace-attorney-trials-and-tribulations.json](./1428-phoenix-wright-ace-attorney-trials-and-tribulations.json) |
 | Phoenix Wright: Ace Attorney - Trials and Tribulations | 221287 | [221287-phoenix-wright-ace-attorney-trials-and-tribulations.json](./221287-phoenix-wright-ace-attorney-trials-and-tribulations.json) |
 | Phoenix Wright: Ace Attorney - Truth and Consequences | 302651 | [302651-phoenix-wright-ace-attorney-truth-and-consequences.json](./302651-phoenix-wright-ace-attorney-truth-and-consequences.json) |
+| Phoenix Wright: Ace Attorney – Presumption of Guilt | 374129 | [374129-phoenix-wright-ace-attorney-presumption-of-guilt.json](./374129-phoenix-wright-ace-attorney-presumption-of-guilt.json) |
 | Phoenix Wright: Ace Attorney Trilogy - E-Capcom Limited Edition | 205266 | [205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json](./205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json) |
 | Phoenix Wright: Comeback & Turnabout | 305194 | [305194-phoenix-wright-comeback-and-turnabout.json](./305194-phoenix-wright-comeback-and-turnabout.json) |
 | Phoenix Wright: Hidden Traces | 305192 | [305192-phoenix-wright-hidden-traces.json](./305192-phoenix-wright-hidden-traces.json) |
@@ -1782,11 +1785,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch Color by Number: Miniatures | 409552 | [409552-pixel-cross-stitch-color-by-number-miniatures.json](./409552-pixel-cross-stitch-color-by-number-miniatures.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Miniatures Pack | 377602 | [377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json](./377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Pack 3 | 377606 | [377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json](./377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json) |
+| Pixel Cross Stitch: Color by Number - Back To School Pack | 374125 | [374125-pixel-cross-stitch-color-by-number-back-to-school-pack.json](./374125-pixel-cross-stitch-color-by-number-back-to-school-pack.json) |
 | Pixel Cross Stitch: Color by Number - Christmas Baubles Pack 3 | 377604 | [377604-pixel-cross-stitch-color-by-number-christmas-baubles-pack-3.json](./377604-pixel-cross-stitch-color-by-number-christmas-baubles-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Christmas Pack 3 | 377605 | [377605-pixel-cross-stitch-color-by-number-christmas-pack-3.json](./377605-pixel-cross-stitch-color-by-number-christmas-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack 3 | 377607 | [377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json](./377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Halloween Minis Pack | 377609 | [377609-pixel-cross-stitch-color-by-number-halloween-minis-pack.json](./377609-pixel-cross-stitch-color-by-number-halloween-minis-pack.json) |
 | Pixel Cross Stitch: Color by Number - Halloween Pack 2 | 377608 | [377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json](./377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json) |
+| Pixel Cross Stitch: Color by Number - Simple Nature Pack 2 | 374127 | [374127-pixel-cross-stitch-color-by-number-simple-nature-pack-2.json](./374127-pixel-cross-stitch-color-by-number-simple-nature-pack-2.json) |
+| Pixel Cross Stitch: Color by Number - Simple Patterns Pack 5 | 374128 | [374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json](./374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json) |
+| Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack | 374126 | [374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json](./374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json) |
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack 2 | 377603 | [377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json](./377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json) |
 | Pixel Cup Soccer 16 | 39001 | [39001-pixel-cup-soccer-16.json](./39001-pixel-cup-soccer-16.json) |
 | Pixel Drifters | 234320 | [234320-pixel-drifters.json](./234320-pixel-drifters.json) |
@@ -2580,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polybius Invaders | 173786 | [173786-polybius-invaders.json](./173786-polybius-invaders.json) |
 | Polybius Invaders 2 | 270948 | [270948-polybius-invaders-2.json](./270948-polybius-invaders-2.json) |
 | Polyblicy | 145019 | [145019-polyblicy.json](./145019-polyblicy.json) |
+| Polybomber | 374140 | [374140-polybomber.json](./374140-polybomber.json) |
 | PolyBoost | 172681 | [172681-polyboost.json](./172681-polyboost.json) |
 | Polybot-7 | 97849 | [97849-polybot-7.json](./97849-polybot-7.json) |
 | Polychoron | 151664 | [151664-polychoron.json](./151664-polychoron.json) |
@@ -3688,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pteranodon | 260700 | [260700-pteranodon.json](./260700-pteranodon.json) |
 | Pterodactyl Attack | 284910 | [284910-pterodactyl-attack.json](./284910-pterodactyl-attack.json) |
 | Pteroglider | 93590 | [93590-pteroglider.json](./93590-pteroglider.json) |
+| Ptolem's Singing Catacombs | 374177 | [374177-ptolems-singing-catacombs.json](./374177-ptolems-singing-catacombs.json) |
 | PTS: Coach | 383395 | [383395-pts-coach.json](./383395-pts-coach.json) |
 | Pub Fascination | 226735 | [226735-pub-fascination.json](./226735-pub-fascination.json) |
 | Pub Games | 399605 | [399605-pub-games.json](./399605-pub-games.json) |
