@@ -2170,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimslair | 391587 | [391587-grimslair.json](./391587-grimslair.json) |
 | Grimstorm | 191881 | [191881-grimstorm.json](./191881-grimstorm.json) |
 | Grimville: The Gift of Darkness | 96760 | [96760-grimville-the-gift-of-darkness.json](./96760-grimville-the-gift-of-darkness.json) |
+| Grimwar | 343915 | [343915-grimwar.json](./343915-grimwar.json) |
 | Grin Bandana | 54475 | [54475-grin-bandana.json](./54475-grin-bandana.json) |
 | Grind Hockey | 269330 | [269330-grind-hockey.json](./269330-grind-hockey.json) |
 | Grind Mindset | 368578 | [368578-grind-mindset.json](./368578-grind-mindset.json) |
@@ -2665,4 +2666,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyro Gear Tournament+ | 211733 | [211733-gyro-gear-tournament.json](./211733-gyro-gear-tournament.json) |
 | Gyro Star VIP | 106553 | [106553-gyro-star-vip.json](./106553-gyro-star-vip.json) |
 | Gyrodine | 39682 | [39682-gyrodine.json](./39682-gyrodine.json) |
+| Gyruss | 343878 | [343878-gyruss.json](./343878-gyruss.json) |
+| Gyruss | 343879 | [343879-gyruss.json](./343879-gyruss.json) |
 | Gythol Granditti: The Crypt of Darkness | 120411 | [120411-gythol-granditti-the-crypt-of-darkness.json](./120411-gythol-granditti-the-crypt-of-darkness.json) |
