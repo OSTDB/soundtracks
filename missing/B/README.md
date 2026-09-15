@@ -1383,6 +1383,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle Junior DS | 92471 | [92471-beetle-junior-ds.json](./92471-beetle-junior-ds.json) |
 | Beetlenaut | 62197 | [62197-beetlenaut.json](./62197-beetlenaut.json) |
 | Before | 380013 | [380013-before.json](./380013-before.json) |
+| Before Exit: Gas Station - Daylight DLC | 378305 | [378305-before-exit-gas-station-daylight-dlc.json](./378305-before-exit-gas-station-daylight-dlc.json) |
+| Before Exit: Gas Station - Midnight DLC | 378304 | [378304-before-exit-gas-station-midnight-dlc.json](./378304-before-exit-gas-station-midnight-dlc.json) |
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
 | Before the Sun Sets | 384619 | [384619-before-the-sun-sets.json](./384619-before-the-sun-sets.json) |
@@ -1484,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben Jordan: Paranormal Investigator - Case 4: Horror at Number 50 | 70981 | [70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json](./70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json) |
 | Ben Jordan: Paranormal Investigator - Case 6: Scourge of the Sea People | 73276 | [73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json](./73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json) |
 | Ben Tennyson: Ace Attorney | 308534 | [308534-ben-tennyson-ace-attorney.json](./308534-ben-tennyson-ace-attorney.json) |
+| Ben the Binder | 378303 | [378303-ben-the-binder.json](./378303-ben-the-binder.json) |
 | Ben There, Dan That! | 9541 | [9541-ben-there-dan-that.json](./9541-ben-there-dan-that.json) |
 | Bendy's Nightmare Run | 414307 | [414307-bendys-nightmare-run.json](./414307-bendys-nightmare-run.json) |
 | Beneath | 240509 | [240509-beneath.json](./240509-beneath.json) |
