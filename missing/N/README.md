@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcissu 3rd -Die Dritte Welt- | 93513 | [93513-narcissu-3rd-die-dritte-welt.json](./93513-narcissu-3rd-die-dritte-welt.json) |
 | Narcissu: A Little Iris | 127324 | [127324-narcissu-a-little-iris.json](./127324-narcissu-a-little-iris.json) |
 | Narcissus | 335682 | [335682-narcissus.json](./335682-narcissus.json) |
+| Narco Express | 353399 | [353399-narco-express.json](./353399-narco-express.json) |
 | Narco Terror | 16446 | [16446-narco-terror.json](./16446-narco-terror.json) |
 | NarcoGuerra | 50217 | [50217-narcoguerra.json](./50217-narcoguerra.json) |
 | Narcolepsy | 91415 | [91415-narcolepsy.json](./91415-narcolepsy.json) |
