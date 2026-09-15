@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T14:18:54.488Z",
-  "total_missing": 74195,
+  "generated_at": "2026-09-15T14:21:43.072Z",
+  "total_missing": 74194,
   "games": [
     {
       "igdb_id": 306086,
@@ -5286,11 +5286,6 @@
       "igdb_id": 356650,
       "game_name": "Against the Storm: Nightwatchers",
       "file": "missing/A/356650-against-the-storm-nightwatchers.json"
-    },
-    {
-      "igdb_id": 389992,
-      "game_name": "Against Wokou Frontline",
-      "file": "missing/A/389992-against-wokou-frontline.json"
     },
     {
       "igdb_id": 372558,
