@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatimopolis | 409636 | [409636-fatimopolis.json](./409636-fatimopolis.json) |
 | Fatrifice | 244496 | [244496-fatrifice.json](./244496-fatrifice.json) |
 | Fatrifice 2 | 262941 | [262941-fatrifice-2.json](./262941-fatrifice-2.json) |
+| Fatrifice 3 | 334211 | [334211-fatrifice-3.json](./334211-fatrifice-3.json) |
 | FatSheep Crisis | 247763 | [247763-fatsheep-crisis.json](./247763-fatsheep-crisis.json) |
 | Fatty Fight | 256544 | [256544-fatty-fight.json](./256544-fatty-fight.json) |
 | Fatty Maze's Adventures | 35723 | [35723-fatty-mazes-adventures.json](./35723-fatty-mazes-adventures.json) |
@@ -2666,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
 | FPS Arena Online | 195707 | [195707-fps-arena-online.json](./195707-fps-arena-online.json) |
 | FPS Hero | 386284 | [386284-fps-hero.json](./386284-fps-hero.json) |
+| FPS Infinite | 334154 | [334154-fps-infinite.json](./334154-fps-infinite.json) |
 | FPS Robot Attack Minigame | 371303 | [371303-fps-robot-attack-minigame.json](./371303-fps-robot-attack-minigame.json) |
 | FPS Shooting Master | 102748 | [102748-fps-shooting-master.json](./102748-fps-shooting-master.json) |
 | FPS Trainer | 94177 | [94177-fps-trainer.json](./94177-fps-trainer.json) |
@@ -3203,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Run | 257410 | [257410-fun-run.json](./257410-fun-run.json) |
 | Fun Run 3 | 57120 | [57120-fun-run-3.json](./57120-fun-run-3.json) |
 | Fun Run 4 | 257400 | [257400-fun-run-4.json](./257400-fun-run-4.json) |
+| Fun School | 334200 | [334200-fun-school.json](./334200-fun-school.json) |
 | Fun Times at Homer's | 383384 | [383384-fun-times-at-homers.json](./383384-fun-times-at-homers.json) |
 | Fun VR Farm | 113675 | [113675-fun-vr-farm.json](./113675-fun-vr-farm.json) |
 | Fun With the Fitzgeralds | 262946 | [262946-fun-with-the-fitzgeralds.json](./262946-fun-with-the-fitzgeralds.json) |
