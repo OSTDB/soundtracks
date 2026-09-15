@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unshaded | 167783 | [167783-unshaded.json](./167783-unshaded.json) |
 | Unsighted | 111815 | [111815-unsighted.json](./111815-unsighted.json) |
 | Unsolicited | 185647 | [185647-unsolicited.json](./185647-unsolicited.json) |
+| Unsolved Case: Ash and Secrets | 340997 | [340997-unsolved-case-ash-and-secrets.json](./340997-unsolved-case-ash-and-secrets.json) |
 | Unsolved Case: Ash and Secrets - Collector's Edition | 338584 | [338584-unsolved-case-ash-and-secrets-collectors-edition.json](./338584-unsolved-case-ash-and-secrets-collectors-edition.json) |
 | Unsolved Case: Killer Popularity DLC | 289325 | [289325-unsolved-case-killer-popularity-dlc.json](./289325-unsolved-case-killer-popularity-dlc.json) |
 | Unsolved Case: The Scarlet Hyacinth - Collector's Edition | 256273 | [256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json](./256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json) |
