@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T11:51:33.295Z",
-  "total_missing": 73733,
+  "generated_at": "2026-09-15T12:01:46.033Z",
+  "total_missing": 73745,
   "games": [
     {
       "igdb_id": 306086,
@@ -5213,11 +5213,6 @@
       "file": "missing/A/121650-aftermoor.json"
     },
     {
-      "igdb_id": 414319,
-      "game_name": "Afternoon Frontline",
-      "file": "missing/A/414319-afternoon-frontline.json"
-    },
-    {
       "igdb_id": 394314,
       "game_name": "AfterQuest",
       "file": "missing/A/394314-afterquest.json"
@@ -9821,6 +9816,11 @@
       "igdb_id": 272840,
       "game_name": "Amanda the Adventurer 2",
       "file": "missing/A/272840-amanda-the-adventurer-2.json"
+    },
+    {
+      "igdb_id": 356767,
+      "game_name": "Amanda's Magic Book 11: Fractured Reflections",
+      "file": "missing/A/356767-amandas-magic-book-11-fractured-reflections.json"
     },
     {
       "igdb_id": 237070,
@@ -93383,6 +93383,11 @@
       "file": "missing/E/386123-enchanted-solitaire-2.json"
     },
     {
+      "igdb_id": 356763,
+      "game_name": "Enchanted Stories: Mystic Woods - Collector's Edition",
+      "file": "missing/E/356763-enchanted-stories-mystic-woods-collectors-edition.json"
+    },
+    {
       "igdb_id": 73789,
       "game_name": "Enchanter Trilogy",
       "file": "missing/E/73789-enchanter-trilogy.json"
@@ -126601,6 +126606,11 @@
       "igdb_id": 155796,
       "game_name": "Growing Up",
       "file": "missing/G/155796-growing-up.json"
+    },
+    {
+      "igdb_id": 356751,
+      "game_name": "Growing Wild",
+      "file": "missing/G/356751-growing-wild.json"
     },
     {
       "igdb_id": 21311,
@@ -239758,6 +239768,11 @@
       "file": "missing/Q/94181-qrank.json"
     },
     {
+      "igdb_id": 356758,
+      "game_name": "Qreate",
+      "file": "missing/Q/356758-qreate.json"
+    },
+    {
       "igdb_id": 319593,
       "game_name": "QS Asteroids",
       "file": "missing/Q/319593-qs-asteroids.json"
@@ -243456,6 +243471,11 @@
       "igdb_id": 357262,
       "game_name": "Rat's Contracts",
       "file": "missing/R/357262-rats-contracts.json"
+    },
+    {
+      "igdb_id": 356766,
+      "game_name": "Rat's Lair",
+      "file": "missing/R/356766-rats-lair.json"
     },
     {
       "igdb_id": 269853,
@@ -260671,6 +260691,11 @@
       "igdb_id": 151165,
       "game_name": "Scoober Splat!",
       "file": "missing/S/151165-scoober-splat.json"
+    },
+    {
+      "igdb_id": 356757,
+      "game_name": "Scooby Doc 4: The Destroyer",
+      "file": "missing/S/356757-scooby-doc-4-the-destroyer.json"
     },
     {
       "igdb_id": 337126,
@@ -290128,6 +290153,11 @@
       "file": "missing/S/186597-strange-horticulture.json"
     },
     {
+      "igdb_id": 356764,
+      "game_name": "Strange Investigations: Truth Will Out - Collector's Edition",
+      "file": "missing/S/356764-strange-investigations-truth-will-out-collectors-edition.json"
+    },
+    {
       "igdb_id": 201842,
       "game_name": "Strange Memo",
       "file": "missing/S/201842-strange-memo.json"
@@ -318388,6 +318418,11 @@
       "file": "missing/T/184040-the-old-mill.json"
     },
     {
+      "igdb_id": 356756,
+      "game_name": "The Old Ways",
+      "file": "missing/T/356756-the-old-ways.json"
+    },
+    {
       "igdb_id": 190721,
       "game_name": "The Oldest Edda",
       "file": "missing/T/190721-the-oldest-edda.json"
@@ -333973,6 +334008,11 @@
       "file": "missing/T/148565-tower-of-waifus-2.json"
     },
     {
+      "igdb_id": 356769,
+      "game_name": "Tower of Wishes 4: Shaka",
+      "file": "missing/T/356769-tower-of-wishes-4-shaka.json"
+    },
+    {
       "igdb_id": 115661,
       "game_name": "Tower Princess",
       "file": "missing/T/115661-tower-princess.json"
@@ -336546,6 +336586,11 @@
       "igdb_id": 47945,
       "game_name": "Transformers: War for Cybertron - Decepticons",
       "file": "missing/T/47945-transformers-war-for-cybertron-decepticons.json"
+    },
+    {
+      "igdb_id": 356761,
+      "game_name": "Transfusion",
+      "file": "missing/T/356761-transfusion.json"
     },
     {
       "igdb_id": 327847,
@@ -342881,6 +342926,11 @@
       "igdb_id": 21016,
       "game_name": "Under Defeat HD+",
       "file": "missing/U/21016-under-defeat-hd.json"
+    },
+    {
+      "igdb_id": 356760,
+      "game_name": "Under Destruction",
+      "file": "missing/U/356760-under-destruction.json"
     },
     {
       "igdb_id": 309084,
@@ -356938,6 +356988,11 @@
       "file": "missing/W/382219-wilderlands.json"
     },
     {
+      "igdb_id": 356754,
+      "game_name": "Wilderlocke",
+      "file": "missing/W/356754-wilderlocke.json"
+    },
+    {
       "igdb_id": 83504,
       "game_name": "Wildermyth",
       "file": "missing/W/83504-wildermyth.json"
@@ -356971,6 +357026,11 @@
       "igdb_id": 274474,
       "game_name": "WildFront",
       "file": "missing/W/274474-wildfront.json"
+    },
+    {
+      "igdb_id": 356753,
+      "game_name": "Wildheart Gourmet",
+      "file": "missing/W/356753-wildheart-gourmet.json"
     },
     {
       "igdb_id": 324076,
