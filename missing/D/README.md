@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days with Evraco: The Blind witch in Blue Forest | 392944 | [392944-days-with-evraco-the-blind-witch-in-blue-forest.json](./392944-days-with-evraco-the-blind-witch-in-blue-forest.json) |
 | Days With Girlfriends Ⅲ | 391601 | [391601-days-with-girlfriends-iii.json](./391601-days-with-girlfriends-iii.json) |
 | Days with Girlfriends: Kello & Cammy | 375954 | [375954-days-with-girlfriends-kello-and-cammy.json](./375954-days-with-girlfriends-kello-and-cammy.json) |
+| Days with My Lonely Teacher | 346666 | [346666-days-with-my-lonely-teacher.json](./346666-days-with-my-lonely-teacher.json) |
 | Days With Ollie | 294689 | [294689-days-with-ollie.json](./294689-days-with-ollie.json) |
 | Days Without Incident | 374727 | [374727-days-without-incident.json](./374727-days-without-incident.json) |
 | Dayshift at Freddy's | 198465 | [198465-dayshift-at-freddys.json](./198465-dayshift-at-freddys.json) |
@@ -834,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive Xtreme 3 Fortune: Collector's Edition | 166233 | [166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json](./166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json) |
 | Dead or Alive Xtreme: Venus Vacation | 68297 | [68297-dead-or-alive-xtreme-venus-vacation.json](./68297-dead-or-alive-xtreme-venus-vacation.json) |
 | Dead or Alive: Dimensions | 1396 | [1396-dead-or-alive-dimensions.json](./1396-dead-or-alive-dimensions.json) |
+| Dead Pixels | 346658 | [346658-dead-pixels.json](./346658-dead-pixels.json) |
 | Dead Pixels | 5448 | [5448-dead-pixels.json](./5448-dead-pixels.json) |
 | Dead Raid | 140516 | [140516-dead-raid.json](./140516-dead-raid.json) |
 | Dead Reckoner | 406220 | [406220-dead-reckoner.json](./406220-dead-reckoner.json) |
@@ -1108,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
 | Deck of Ashes: Complete Edition | 196816 | [196816-deck-of-ashes-complete-edition.json](./196816-deck-of-ashes-complete-edition.json) |
 | Deck of Bullets | 258462 | [258462-deck-of-bullets.json](./258462-deck-of-bullets.json) |
+| Deck of Destiny: Battleforge | 346667 | [346667-deck-of-destiny-battleforge.json](./346667-deck-of-destiny-battleforge.json) |
 | Deck of Life | 212831 | [212831-deck-of-life.json](./212831-deck-of-life.json) |
 | Deck of Memories | 348344 | [348344-deck-of-memories.json](./348344-deck-of-memories.json) |
 | Deck of Souls | 252356 | [252356-deck-of-souls.json](./252356-deck-of-souls.json) |
@@ -2090,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dilemma: The Game | 353363 | [353363-dilemma-the-game.json](./353363-dilemma-the-game.json) |
 | Dilemo | 283684 | [283684-dilemo.json](./283684-dilemo.json) |
 | Dillo Guy | 293890 | [293890-dillo-guy.json](./293890-dillo-guy.json) |
+| Dillo's Dilemma | 346692 | [346692-dillos-dilemma.json](./346692-dillos-dilemma.json) |
 | Dillon's Dead-Heat Breakers | 90687 | [90687-dillons-dead-heat-breakers.json](./90687-dillons-dead-heat-breakers.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
 | Diluvium | 64890 | [64890-diluvium.json](./64890-diluvium.json) |
@@ -2731,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll | 97852 | [97852-doll.json](./97852-doll.json) |
 | Doll Defenders | 293622 | [293622-doll-defenders.json](./293622-doll-defenders.json) |
 | Doll Explorer Prologue | 151658 | [151658-doll-explorer-prologue.json](./151658-doll-explorer-prologue.json) |
+| Doll INC | 346690 | [346690-doll-inc.json](./346690-doll-inc.json) |
 | Doll Parts | 347793 | [347793-doll-parts.json](./347793-doll-parts.json) |
 | Doll Recollect | 299737 | [299737-doll-recollect.json](./299737-doll-recollect.json) |
 | Doll's Ingram | 131585 | [131585-dolls-ingram.json](./131585-dolls-ingram.json) |
@@ -2985,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
 | Doom 64 | 3471 | [3471-doom-64.json](./3471-doom-64.json) |
+| Doom 64 Reloaded | 346668 | [346668-doom-64-reloaded.json](./346668-doom-64-reloaded.json) |
 | DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
 | Doom Days: Fire Shooter | 226761 | [226761-doom-days-fire-shooter.json](./226761-doom-days-fire-shooter.json) |
@@ -3013,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | Doom: The Dark Ages - Revelations | 405075 | [405075-doom-the-dark-ages-revelations.json](./405075-doom-the-dark-ages-revelations.json) |
 | Doom: The Gallery Experience | 327632 | [327632-doom-the-gallery-experience.json](./327632-doom-the-gallery-experience.json) |
+| Doomclock | 346677 | [346677-doomclock.json](./346677-doomclock.json) |
 | Doomdark's Revenge | 12992 | [12992-doomdarks-revenge.json](./12992-doomdarks-revenge.json) |
 | Doomed Detective Game | 336542 | [336542-doomed-detective-game.json](./336542-doomed-detective-game.json) |
 | Doomed Heretic | 104599 | [104599-doomed-heretic.json](./104599-doomed-heretic.json) |
