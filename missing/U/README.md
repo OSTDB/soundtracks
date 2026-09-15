@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Defense Force: Sword and Sorcery and Swarm of Insects | 270108 | [270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json](./270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json) |
 | Underground Dungeon | 192418 | [192418-underground-dungeon.json](./192418-underground-dungeon.json) |
 | Underground Life | 172676 | [172676-underground-life.json](./172676-underground-life.json) |
+| Underground Nomads | 369094 | [369094-underground-nomads.json](./369094-underground-nomads.json) |
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
 | Underground Security Inc | 367984 | [367984-underground-security-inc.json](./367984-underground-security-inc.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
