@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T09:49:11.963Z",
-  "total_missing": 73408,
+  "generated_at": "2026-09-15T09:51:34.892Z",
+  "total_missing": 73407,
   "games": [
     {
       "igdb_id": 306086,
@@ -5146,11 +5146,6 @@
       "igdb_id": 387356,
       "game_name": "After the Wane",
       "file": "missing/A/387356-after-the-wane.json"
-    },
-    {
-      "igdb_id": 278173,
-      "game_name": "After War Town",
-      "file": "missing/A/278173-after-war-town.json"
     },
     {
       "igdb_id": 360586,
