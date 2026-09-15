@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Leo | 6855 | [6855-r-type-leo.json](./6855-r-type-leo.json) |
 | R-Type Tactics II: Operation Bitter Chocolate | 44505 | [44505-r-type-tactics-ii-operation-bitter-chocolate.json](./44505-r-type-tactics-ii-operation-bitter-chocolate.json) |
 | R.A.I.L. Together | 409644 | [409644-r-a-i-l-together.json](./409644-r-a-i-l-together.json) |
+| R.A.T.: Human Error – Episode One | 350507 | [350507-r-a-t-human-error-episode-one.json](./350507-r-a-t-human-error-episode-one.json) |
 | R.B.I. Baseball 15 | 17962 | [17962-r-b-i-baseball-15.json](./17962-r-b-i-baseball-15.json) |
 | R.B.I. Baseball 16 | 23379 | [23379-r-b-i-baseball-16.json](./23379-r-b-i-baseball-16.json) |
 | R.B.I. Baseball 17 | 51539 | [51539-r-b-i-baseball-17.json](./51539-r-b-i-baseball-17.json) |
@@ -982,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Terrors | 94776 | [94776-redemption-cemetery-terrors.json](./94776-redemption-cemetery-terrors.json) |
 | Redemption: Eternal Quest | 34754 | [34754-redemption-eternal-quest.json](./34754-redemption-eternal-quest.json) |
 | RedEx | 163956 | [163956-redex.json](./163956-redex.json) |
+| Redfall: Steelbook Launch Edition | 350534 | [350534-redfall-steelbook-launch-edition.json](./350534-redfall-steelbook-launch-edition.json) |
 | Redfoot Bluefoot Dancing | 41965 | [41965-redfoot-bluefoot-dancing.json](./41965-redfoot-bluefoot-dancing.json) |
 | Redie | 25954 | [25954-redie.json](./25954-redie.json) |
 | Reditus: Ashes of Heremus | 230535 | [230535-reditus-ashes-of-heremus.json](./230535-reditus-ashes-of-heremus.json) |
@@ -1133,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relax It's Aqua | 149544 | [149544-relax-its-aqua.json](./149544-relax-its-aqua.json) |
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
 | Relaxing Farm: Merge Tales | 348805 | [348805-relaxing-farm-merge-tales.json](./348805-relaxing-farm-merge-tales.json) |
+| Relaxing Fishing | 350509 | [350509-relaxing-fishing.json](./350509-relaxing-fishing.json) |
 | Relaxing Kite | 148571 | [148571-relaxing-kite.json](./148571-relaxing-kite.json) |
 | Relaxing Rain Sounds: Amayadori | 151669 | [151669-relaxing-rain-sounds-amayadori.json](./151669-relaxing-rain-sounds-amayadori.json) |
 | Relaxing Time: Paradise Resort - Collector's Edition | 304591 | [304591-relaxing-time-paradise-resort-collectors-edition.json](./304591-relaxing-time-paradise-resort-collectors-edition.json) |
@@ -1222,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
 | Renowned Explorers: Definitive Edition | 124777 | [124777-renowned-explorers-definitive-edition.json](./124777-renowned-explorers-definitive-edition.json) |
+| Rent a Girl | 350491 | [350491-rent-a-girl.json](./350491-rent-a-girl.json) |
 | Rent a Girlfriend: The Horizon Line and Her in a Swimsuit | 323726 | [323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json](./323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json) |
 | Rent Please!: Landlord Sim | 247214 | [247214-rent-please-landlord-sim.json](./247214-rent-please-landlord-sim.json) |
 | Renters Revenge | 75177 | [75177-renters-revenge.json](./75177-renters-revenge.json) |
@@ -2418,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue's Tale | 16875 | [16875-rogues-tale.json](./16875-rogues-tale.json) |
 | Rogueblock | 382770 | [382770-rogueblock.json](./382770-rogueblock.json) |
 | Rogueborne Fury | 293629 | [293629-rogueborne-fury.json](./293629-rogueborne-fury.json) |
+| Roguebots Arena | 350504 | [350504-roguebots-arena.json](./350504-roguebots-arena.json) |
 | Roguebound Pirates | 365092 | [365092-roguebound-pirates.json](./365092-roguebound-pirates.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
 | Roguefort | 396405 | [396405-roguefort.json](./396405-roguefort.json) |
