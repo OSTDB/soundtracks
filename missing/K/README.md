@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kandagawa Jet Girls | 121202 | [121202-kandagawa-jet-girls.json](./121202-kandagawa-jet-girls.json) |
 | Kandagawa Jet Girls: Ikaruga & Yomi Character Set | 225914 | [225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json](./225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json) |
 | Kandidatos | 146303 | [146303-kandidatos.json](./146303-kandidatos.json) |
+| Kando Realm | 356684 | [356684-kando-realm.json](./356684-kando-realm.json) |
 | Kandra the Moonwalker | 186842 | [186842-kandra-the-moonwalker.json](./186842-kandra-the-moonwalker.json) |
 | Kane & Lynch Collection | 53243 | [53243-kane-and-lynch-collection.json](./53243-kane-and-lynch-collection.json) |
 | Kanenone Dynatic: Green Green | 294727 | [294727-kanenone-dynatic-green-green.json](./294727-kanenone-dynatic-green-green.json) |
@@ -367,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keith Van Eron's Pro Soccer | 15264 | [15264-keith-van-erons-pro-soccer.json](./15264-keith-van-erons-pro-soccer.json) |
 | Keizudo | 169395 | [169395-keizudo.json](./169395-keizudo.json) |
 | Keke in the Caves of Peril | 230262 | [230262-keke-in-the-caves-of-peril.json](./230262-keke-in-the-caves-of-peril.json) |
+| Kelime Oyunu | 356692 | [356692-kelime-oyunu.json](./356692-kelime-oyunu.json) |
 | Kellogg's Marvel's Civil War VR | 322365 | [322365-kelloggs-marvels-civil-war-vr.json](./322365-kelloggs-marvels-civil-war-vr.json) |
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
 | Kells | 156604 | [156604-kells.json](./156604-kells.json) |
