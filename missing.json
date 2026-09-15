@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T05:34:10.088Z",
-  "total_missing": 72661,
+  "generated_at": "2026-09-15T05:41:33.317Z",
+  "total_missing": 72660,
   "games": [
     {
       "igdb_id": 306086,
@@ -5021,11 +5021,6 @@
       "igdb_id": 188632,
       "game_name": "After a Long Journey",
       "file": "missing/A/188632-after-a-long-journey.json"
-    },
-    {
-      "igdb_id": 200148,
-      "game_name": "After Burner",
-      "file": "missing/A/200148-after-burner.json"
     },
     {
       "igdb_id": 200166,
