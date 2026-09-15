@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T09:21:34.767Z",
-  "total_missing": 73310,
+  "generated_at": "2026-09-15T09:34:07.803Z",
+  "total_missing": 73359,
   "games": [
     {
       "igdb_id": 306086,
@@ -5138,11 +5138,6 @@
       "file": "missing/A/196313-after-the-fall-launch-edition.json"
     },
     {
-      "igdb_id": 211423,
-      "game_name": "After the Inferno",
-      "file": "missing/A/211423-after-the-inferno.json"
-    },
-    {
       "igdb_id": 387356,
       "game_name": "After the Wane",
       "file": "missing/A/387356-after-the-wane.json"
@@ -7386,6 +7381,11 @@
       "igdb_id": 215375,
       "game_name": "Akumajou Dracula",
       "file": "missing/A/215375-akumajou-dracula.json"
+    },
+    {
+      "igdb_id": 361222,
+      "game_name": "Akumanor Gaiden",
+      "file": "missing/A/361222-akumanor-gaiden.json"
     },
     {
       "igdb_id": 393458,
@@ -14858,6 +14858,11 @@
       "file": "missing/A/392764-arcade-archives-2-adventure-canoe.json"
     },
     {
+      "igdb_id": 361238,
+      "game_name": "Arcade Archives 2: Aqua Jet",
+      "file": "missing/A/361238-arcade-archives-2-aqua-jet.json"
+    },
+    {
       "igdb_id": 377686,
       "game_name": "Arcade Archives 2: Galactic Warriors",
       "file": "missing/A/377686-arcade-archives-2-galactic-warriors.json"
@@ -14896,6 +14901,11 @@
       "igdb_id": 392765,
       "game_name": "Arcade Archives: Adventure Canoe",
       "file": "missing/A/392765-arcade-archives-adventure-canoe.json"
+    },
+    {
+      "igdb_id": 361237,
+      "game_name": "Arcade Archives: Aqua Jet",
+      "file": "missing/A/361237-arcade-archives-aqua-jet.json"
     },
     {
       "igdb_id": 99546,
@@ -28916,6 +28926,11 @@
       "igdb_id": 145648,
       "game_name": "Bed Survival",
       "file": "missing/B/145648-bed-survival.json"
+    },
+    {
+      "igdb_id": 361220,
+      "game_name": "BederSnake",
+      "file": "missing/B/361220-bedersnake.json"
     },
     {
       "igdb_id": 55098,
@@ -63648,6 +63663,11 @@
       "file": "missing/C/265696-croaking-around.json"
     },
     {
+      "igdb_id": 361224,
+      "game_name": "Croakspire",
+      "file": "missing/C/361224-croakspire.json"
+    },
+    {
       "igdb_id": 411706,
       "game_name": "Croc 2: Kingdom of the Gobbos",
       "file": "missing/C/411706-croc-2-kingdom-of-the-gobbos.json"
@@ -90591,6 +90611,11 @@
       "igdb_id": 266157,
       "game_name": "eFootball 2024",
       "file": "missing/E/266157-efootball-2024.json"
+    },
+    {
+      "igdb_id": 361243,
+      "game_name": "eFootball: Mourinho Edition 2026",
+      "file": "missing/E/361243-efootball-mourinho-edition-2026.json"
     },
     {
       "igdb_id": 362884,
@@ -127148,9 +127173,24 @@
       "file": "missing/G/19858-gundam-breaker-3.json"
     },
     {
+      "igdb_id": 361236,
+      "game_name": "Gundam Breaker 4: Diorama Pack 4 - Beach Set & Effect",
+      "file": "missing/G/361236-gundam-breaker-4-diorama-pack-4-beach-set-and-effect.json"
+    },
+    {
       "igdb_id": 328995,
       "game_name": "Gundam Breaker 4: Diorama Pack Set",
       "file": "missing/G/328995-gundam-breaker-4-diorama-pack-set.json"
+    },
+    {
+      "igdb_id": 361234,
+      "game_name": "Gundam Breaker 4: Story Mission DLC 4 - Battle Fiercely",
+      "file": "missing/G/361234-gundam-breaker-4-story-mission-dlc-4-battle-fiercely.json"
+    },
+    {
+      "igdb_id": 361235,
+      "game_name": "Gundam Breaker 4: Story Mission DLC 5 - Beyond Borders",
+      "file": "missing/G/361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json"
     },
     {
       "igdb_id": 183567,
@@ -134606,6 +134646,11 @@
       "igdb_id": 118428,
       "game_name": "Hero: Flood Rescue",
       "file": "missing/H/118428-hero-flood-rescue.json"
+    },
+    {
+      "igdb_id": 361242,
+      "game_name": "Hero's Advent",
+      "file": "missing/H/361242-heros-advent.json"
     },
     {
       "igdb_id": 74363,
@@ -170138,6 +170183,11 @@
       "file": "missing/L/108968-little-lovers-2nd-yui.json"
     },
     {
+      "igdb_id": 361225,
+      "game_name": "Little Lures",
+      "file": "missing/L/361225-little-lures.json"
+    },
+    {
       "igdb_id": 116355,
       "game_name": "Little Mage",
       "file": "missing/L/116355-little-mage.json"
@@ -179468,14 +179518,39 @@
       "file": "missing/M/361161-mario-kart-tour-2nd-anniversary-tour.json"
     },
     {
+      "igdb_id": 361196,
+      "game_name": "Mario Kart Tour: Animal Tour",
+      "file": "missing/M/361196-mario-kart-tour-animal-tour.json"
+    },
+    {
+      "igdb_id": 361192,
+      "game_name": "Mario Kart Tour: Anniversary Tour",
+      "file": "missing/M/361192-mario-kart-tour-anniversary-tour.json"
+    },
+    {
       "igdb_id": 361162,
       "game_name": "Mario Kart Tour: Autumn Tour",
       "file": "missing/M/361162-mario-kart-tour-autumn-tour.json"
     },
     {
+      "igdb_id": 361195,
+      "game_name": "Mario Kart Tour: Autumn Tour",
+      "file": "missing/M/361195-mario-kart-tour-autumn-tour.json"
+    },
+    {
       "igdb_id": 361140,
       "game_name": "Mario Kart Tour: Berlin Tour",
       "file": "missing/M/361140-mario-kart-tour-berlin-tour.json"
+    },
+    {
+      "igdb_id": 361190,
+      "game_name": "Mario Kart Tour: Bowser Tour",
+      "file": "missing/M/361190-mario-kart-tour-bowser-tour.json"
+    },
+    {
+      "igdb_id": 361208,
+      "game_name": "Mario Kart Tour: Bowser Tour",
+      "file": "missing/M/361208-mario-kart-tour-bowser-tour.json"
     },
     {
       "igdb_id": 361148,
@@ -179493,9 +179568,19 @@
       "file": "missing/M/361124-mario-kart-tour-cooking-tour.json"
     },
     {
+      "igdb_id": 361203,
+      "game_name": "Mario Kart Tour: Doctor Tour",
+      "file": "missing/M/361203-mario-kart-tour-doctor-tour.json"
+    },
+    {
       "igdb_id": 361127,
       "game_name": "Mario Kart Tour: Exploration Tour",
       "file": "missing/M/361127-mario-kart-tour-exploration-tour.json"
+    },
+    {
+      "igdb_id": 361202,
+      "game_name": "Mario Kart Tour: Exploration Tour",
+      "file": "missing/M/361202-mario-kart-tour-exploration-tour.json"
     },
     {
       "igdb_id": 361122,
@@ -179518,9 +179603,19 @@
       "file": "missing/M/361163-mario-kart-tour-halloween-tour.json"
     },
     {
+      "igdb_id": 361193,
+      "game_name": "Mario Kart Tour: Halloween Tour",
+      "file": "missing/M/361193-mario-kart-tour-halloween-tour.json"
+    },
+    {
       "igdb_id": 361167,
       "game_name": "Mario Kart Tour: Holiday Tour",
       "file": "missing/M/361167-mario-kart-tour-holiday-tour.json"
+    },
+    {
+      "igdb_id": 361198,
+      "game_name": "Mario Kart Tour: Holiday Tour",
+      "file": "missing/M/361198-mario-kart-tour-holiday-tour.json"
     },
     {
       "igdb_id": 338539,
@@ -179558,14 +179653,34 @@
       "file": "missing/M/361144-mario-kart-tour-mario-tour.json"
     },
     {
+      "igdb_id": 361204,
+      "game_name": "Mario Kart Tour: Mario Tour",
+      "file": "missing/M/361204-mario-kart-tour-mario-tour.json"
+    },
+    {
       "igdb_id": 361136,
       "game_name": "Mario Kart Tour: Mario vs. Luigi Tour",
       "file": "missing/M/361136-mario-kart-tour-mario-vs-luigi-tour.json"
     },
     {
+      "igdb_id": 361191,
+      "game_name": "Mario Kart Tour: Mario vs. Luigi Tour",
+      "file": "missing/M/361191-mario-kart-tour-mario-vs-luigi-tour.json"
+    },
+    {
+      "igdb_id": 361211,
+      "game_name": "Mario Kart Tour: Mario vs. Luigi Tour",
+      "file": "missing/M/361211-mario-kart-tour-mario-vs-luigi-tour.json"
+    },
+    {
       "igdb_id": 361155,
       "game_name": "Mario Kart Tour: Mario vs. Peach Tour",
       "file": "missing/M/361155-mario-kart-tour-mario-vs-peach-tour.json"
+    },
+    {
+      "igdb_id": 361209,
+      "game_name": "Mario Kart Tour: Mii Tour",
+      "file": "missing/M/361209-mario-kart-tour-mii-tour.json"
     },
     {
       "igdb_id": 361139,
@@ -179578,9 +179693,24 @@
       "file": "missing/M/338538-mario-kart-tour-new-years-tour.json"
     },
     {
+      "igdb_id": 361199,
+      "game_name": "Mario Kart Tour: New Year's Tour",
+      "file": "missing/M/361199-mario-kart-tour-new-years-tour.json"
+    },
+    {
+      "igdb_id": 361212,
+      "game_name": "Mario Kart Tour: Night Tour",
+      "file": "missing/M/361212-mario-kart-tour-night-tour.json"
+    },
+    {
       "igdb_id": 361146,
       "game_name": "Mario Kart Tour: Ninja Tour",
       "file": "missing/M/361146-mario-kart-tour-ninja-tour.json"
+    },
+    {
+      "igdb_id": 361205,
+      "game_name": "Mario Kart Tour: Ninja Tour",
+      "file": "missing/M/361205-mario-kart-tour-ninja-tour.json"
     },
     {
       "igdb_id": 361151,
@@ -179593,6 +179723,11 @@
       "file": "missing/M/361125-mario-kart-tour-peach-tour.json"
     },
     {
+      "igdb_id": 361197,
+      "game_name": "Mario Kart Tour: Peach vs. Bowser Tour",
+      "file": "missing/M/361197-mario-kart-tour-peach-vs-bowser-tour.json"
+    },
+    {
       "igdb_id": 361142,
       "game_name": "Mario Kart Tour: Peach vs. Daisy Tour",
       "file": "missing/M/361142-mario-kart-tour-peach-vs-daisy-tour.json"
@@ -179603,9 +179738,19 @@
       "file": "missing/M/361169-mario-kart-tour-penguin-tour.json"
     },
     {
+      "igdb_id": 361214,
+      "game_name": "Mario Kart Tour: Pipe Tour",
+      "file": "missing/M/361214-mario-kart-tour-pipe-tour.json"
+    },
+    {
       "igdb_id": 361129,
       "game_name": "Mario Kart Tour: Pirate Tour",
       "file": "missing/M/361129-mario-kart-tour-pirate-tour.json"
+    },
+    {
+      "igdb_id": 361210,
+      "game_name": "Mario Kart Tour: Princess Tour",
+      "file": "missing/M/361210-mario-kart-tour-princess-tour.json"
     },
     {
       "igdb_id": 361138,
@@ -179623,6 +179768,16 @@
       "file": "missing/M/361166-mario-kart-tour-space-tour.json"
     },
     {
+      "igdb_id": 361200,
+      "game_name": "Mario Kart Tour: Space Tour",
+      "file": "missing/M/361200-mario-kart-tour-space-tour.json"
+    },
+    {
+      "igdb_id": 361207,
+      "game_name": "Mario Kart Tour: Spring Tour",
+      "file": "missing/M/361207-mario-kart-tour-spring-tour.json"
+    },
+    {
       "igdb_id": 361130,
       "game_name": "Mario Kart Tour: Summer Festival Tour",
       "file": "missing/M/361130-mario-kart-tour-summer-festival-tour.json"
@@ -179633,9 +179788,24 @@
       "file": "missing/M/361152-mario-kart-tour-summer-tour.json"
     },
     {
+      "igdb_id": 361217,
+      "game_name": "Mario Kart Tour: Summer Tour",
+      "file": "missing/M/361217-mario-kart-tour-summer-tour.json"
+    },
+    {
+      "igdb_id": 361218,
+      "game_name": "Mario Kart Tour: Sundae Tour",
+      "file": "missing/M/361218-mario-kart-tour-sundae-tour.json"
+    },
+    {
       "igdb_id": 361135,
       "game_name": "Mario Kart Tour: Sunset Tour",
       "file": "missing/M/361135-mario-kart-tour-sunset-tour.json"
+    },
+    {
+      "igdb_id": 361215,
+      "game_name": "Mario Kart Tour: Sunshine Tour",
+      "file": "missing/M/361215-mario-kart-tour-sunshine-tour.json"
     },
     {
       "igdb_id": 361131,
@@ -179668,6 +179838,11 @@
       "file": "missing/M/361149-mario-kart-tour-trick-tour.json"
     },
     {
+      "igdb_id": 361216,
+      "game_name": "Mario Kart Tour: Vacation Tour",
+      "file": "missing/M/361216-mario-kart-tour-vacation-tour.json"
+    },
+    {
       "igdb_id": 338540,
       "game_name": "Mario Kart Tour: Valentine's Tour",
       "file": "missing/M/338540-mario-kart-tour-valentines-tour.json"
@@ -179693,6 +179868,11 @@
       "file": "missing/M/361137-mario-kart-tour-winter-tour.json"
     },
     {
+      "igdb_id": 361201,
+      "game_name": "Mario Kart Tour: Winter Tour",
+      "file": "missing/M/361201-mario-kart-tour-winter-tour.json"
+    },
+    {
       "igdb_id": 361120,
       "game_name": "Mario Kart Tour: Yoshi Tour",
       "file": "missing/M/361120-mario-kart-tour-yoshi-tour.json"
@@ -179701,6 +179881,11 @@
       "igdb_id": 361145,
       "game_name": "Mario Kart Tour: Yoshi Tour",
       "file": "missing/M/361145-mario-kart-tour-yoshi-tour.json"
+    },
+    {
+      "igdb_id": 361206,
+      "game_name": "Mario Kart Tour: Yoshi Tour",
+      "file": "missing/M/361206-mario-kart-tour-yoshi-tour.json"
     },
     {
       "igdb_id": 146289,
@@ -188581,6 +188766,11 @@
       "igdb_id": 27763,
       "game_name": "Mind-Machine Interface",
       "file": "missing/M/27763-mind-machine-interface.json"
+    },
+    {
+      "igdb_id": 361239,
+      "game_name": "Mind's Eye Macrogolf",
+      "file": "missing/M/361239-minds-eye-macrogolf.json"
     },
     {
       "igdb_id": 71529,
@@ -226373,6 +226563,11 @@
       "file": "missing/P/377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json"
     },
     {
+      "igdb_id": 361226,
+      "game_name": "Pixel Cross Stitch: Color by Number - Vacations Pack",
+      "file": "missing/P/361226-pixel-cross-stitch-color-by-number-vacations-pack.json"
+    },
+    {
       "igdb_id": 39001,
       "game_name": "Pixel Cup Soccer 16",
       "file": "missing/P/39001-pixel-cup-soccer-16.json"
@@ -229673,6 +229868,11 @@
       "file": "missing/P/313116-pokemon-royal.json"
     },
     {
+      "igdb_id": 361219,
+      "game_name": "Pokémon Royal Sapphire",
+      "file": "missing/P/361219-pokemon-royal-sapphire.json"
+    },
+    {
       "igdb_id": 172758,
       "game_name": "Pokémon Royal Version",
       "file": "missing/P/172758-pokemon-royal-version.json"
@@ -231526,6 +231726,11 @@
       "igdb_id": 349873,
       "game_name": "PossiblyAxolotl's PlayPack",
       "file": "missing/P/349873-possiblyaxolotls-playpack.json"
+    },
+    {
+      "igdb_id": 361241,
+      "game_name": "Possum Boy!: The Ballad of Joey Virginia",
+      "file": "missing/P/361241-possum-boy-the-ballad-of-joey-virginia.json"
     },
     {
       "igdb_id": 274208,
@@ -235808,6 +236013,11 @@
       "file": "missing/P/99579-prsi.json"
     },
     {
+      "igdb_id": 361231,
+      "game_name": "Prueba Humana",
+      "file": "missing/P/361231-prueba-humana.json"
+    },
+    {
       "igdb_id": 294134,
       "game_name": "Prune & Milo",
       "file": "missing/P/294134-prune-and-milo.json"
@@ -239491,6 +239701,11 @@
       "igdb_id": 227881,
       "game_name": "Quiz Thiz USA: Gold Edition",
       "file": "missing/Q/227881-quiz-thiz-usa-gold-edition.json"
+    },
+    {
+      "igdb_id": 361230,
+      "game_name": "Quiz VS!",
+      "file": "missing/Q/361230-quiz-vs.json"
     },
     {
       "igdb_id": 221386,
@@ -278988,6 +279203,11 @@
       "file": "missing/S/360563-space-hitchhiker-stop.json"
     },
     {
+      "igdb_id": 361227,
+      "game_name": "Space Hole",
+      "file": "missing/S/361227-space-hole.json"
+    },
+    {
       "igdb_id": 156675,
       "game_name": "Space Hole 2020",
       "file": "missing/S/156675-space-hole-2020.json"
@@ -289461,6 +289681,11 @@
       "igdb_id": 69278,
       "game_name": "Strike Witches: Doki! Otome Darake no Jouriku Sakusen",
       "file": "missing/S/69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json"
+    },
+    {
+      "igdb_id": 361229,
+      "game_name": "Strikeforce",
+      "file": "missing/S/361229-strikeforce.json"
     },
     {
       "igdb_id": 339655,
@@ -300796,6 +301021,11 @@
       "igdb_id": 178068,
       "game_name": "Tales of the Black Death",
       "file": "missing/T/178068-tales-of-the-black-death.json"
+    },
+    {
+      "igdb_id": 361233,
+      "game_name": "Tales of the Cryptozoo",
+      "file": "missing/T/361233-tales-of-the-cryptozoo.json"
     },
     {
       "igdb_id": 204112,
@@ -319831,6 +320061,11 @@
       "igdb_id": 390661,
       "game_name": "The Story of Mikagoyama",
       "file": "missing/T/390661-the-story-of-mikagoyama.json"
+    },
+    {
+      "igdb_id": 361223,
+      "game_name": "The Story of Red Cloud",
+      "file": "missing/T/361223-the-story-of-red-cloud.json"
     },
     {
       "igdb_id": 144241,
@@ -357573,6 +357808,11 @@
       "file": "missing/W/85494-word-party.json"
     },
     {
+      "igdb_id": 361232,
+      "game_name": "Word Puttz",
+      "file": "missing/W/361232-word-puttz.json"
+    },
+    {
       "igdb_id": 385067,
       "game_name": "Word Quest Fantasy",
       "file": "missing/W/385067-word-quest-fantasy.json"
@@ -362691,6 +362931,11 @@
       "igdb_id": 149008,
       "game_name": "Your Human is Sick",
       "file": "missing/Y/149008-your-human-is-sick.json"
+    },
+    {
+      "igdb_id": 361240,
+      "game_name": "Your Judgment, Inquisitor",
+      "file": "missing/Y/361240-your-judgment-inquisitor.json"
     },
     {
       "igdb_id": 280186,
