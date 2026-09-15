@@ -2308,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fierce Livid | 271764 | [271764-the-fierce-livid.json](./271764-the-fierce-livid.json) |
 | The Fiery Crater | 268474 | [268474-the-fiery-crater.json](./268474-the-fiery-crater.json) |
 | The Fiery Descent | 268475 | [268475-the-fiery-descent.json](./268475-the-fiery-descent.json) |
+| The Fifth Bell | 370770 | [370770-the-fifth-bell.json](./370770-the-fifth-bell.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
 | The Fifth Rite | 250951 | [250951-the-fifth-rite.json](./250951-the-fifth-rite.json) |
 | The Fight for Glorton | 196797 | [196797-the-fight-for-glorton.json](./196797-the-fight-for-glorton.json) |
@@ -3419,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
 | The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
 | The NetherWorld | 271766 | [271766-the-netherworld.json](./271766-the-netherworld.json) |
+| The Never-Ending Sleepover | 370785 | [370785-the-never-ending-sleepover.json](./370785-the-never-ending-sleepover.json) |
 | The Neverending Story II | 80515 | [80515-the-neverending-story-ii.json](./80515-the-neverending-story-ii.json) |
 | The Neverhood | 2164 | [2164-the-neverhood.json](./2164-the-neverhood.json) |
 | The New Addams Family | 5345 | [5345-the-new-addams-family.json](./5345-the-new-addams-family.json) |
@@ -6240,6 +6242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torch 2081 | 86047 | [86047-torch-2081.json](./86047-torch-2081.json) |
 | Torch of Shadows | 374074 | [374074-torch-of-shadows.json](./374074-torch-of-shadows.json) |
 | Torchbear | 341898 | [341898-torchbear.json](./341898-torchbear.json) |
+| Torched | 370799 | [370799-torched.json](./370799-torched.json) |
 | Torches of Fate | 133458 | [133458-torches-of-fate.json](./133458-torches-of-fate.json) |
 | Torchlight: Infinite | 174897 | [174897-torchlight-infinite.json](./174897-torchlight-infinite.json) |
 | Torchure | 180183 | [180183-torchure.json](./180183-torchure.json) |
@@ -7373,6 +7376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
 | Trivia Crack Adventure | 208370 | [208370-trivia-crack-adventure.json](./208370-trivia-crack-adventure.json) |
 | Trivia Crack Explorer | 208369 | [208369-trivia-crack-explorer.json](./208369-trivia-crack-explorer.json) |
+| Trivia Fantasy | 370767 | [370767-trivia-fantasy.json](./370767-trivia-fantasy.json) |
 | Trivia for Dummies | 187456 | [187456-trivia-for-dummies.json](./187456-trivia-for-dummies.json) |
 | Trivia Night | 41955 | [41955-trivia-night.json](./41955-trivia-night.json) |
 | Trivia Party | 195270 | [195270-trivia-party.json](./195270-trivia-party.json) |
