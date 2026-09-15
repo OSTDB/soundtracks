@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T08:11:42.641Z",
-  "total_missing": 73099,
+  "generated_at": "2026-09-15T08:18:47.053Z",
+  "total_missing": 73149,
   "games": [
     {
       "igdb_id": 306086,
@@ -14136,6 +14136,11 @@
       "igdb_id": 346614,
       "game_name": "ApocaShift",
       "file": "missing/A/346614-apocashift.json"
+    },
+    {
+      "igdb_id": 363427,
+      "game_name": "Apoclone",
+      "file": "missing/A/363427-apoclone.json"
     },
     {
       "igdb_id": 119059,
@@ -140598,6 +140603,11 @@
       "file": "missing/H/136400-how-to-win.json"
     },
     {
+      "igdb_id": 363437,
+      "game_name": "How Your Package Gets Delivered",
+      "file": "missing/H/363437-how-your-package-gets-delivered.json"
+    },
+    {
       "igdb_id": 258192,
       "game_name": "How!?",
       "file": "missing/H/258192-how.json"
@@ -150771,6 +150781,56 @@
       "igdb_id": 363412,
       "game_name": "IWL: Interstellar Wrestling League - 036: Mod - Jacob's Ladder",
       "file": "missing/I/363412-iwl-interstellar-wrestling-league-036-mod-jacobs-ladder.json"
+    },
+    {
+      "igdb_id": 363424,
+      "game_name": "IWL: Interstellar Wrestling League - 045: Finishing - Davey Jones Locker",
+      "file": "missing/I/363424-iwl-interstellar-wrestling-league-045-finishing-davey-jones-locker.json"
+    },
+    {
+      "igdb_id": 363425,
+      "game_name": "IWL: Interstellar Wrestling League - 046: Finishing - The Banana Split",
+      "file": "missing/I/363425-iwl-interstellar-wrestling-league-046-finishing-the-banana-split.json"
+    },
+    {
+      "igdb_id": 363426,
+      "game_name": "IWL: Interstellar Wrestling League - 047: Finishing - The Freedom Fryer",
+      "file": "missing/I/363426-iwl-interstellar-wrestling-league-047-finishing-the-freedom-fryer.json"
+    },
+    {
+      "igdb_id": 363428,
+      "game_name": "IWL: Interstellar Wrestling League - 048: Finishing - The Ecto-Squeeze",
+      "file": "missing/I/363428-iwl-interstellar-wrestling-league-048-finishing-the-ecto-squeeze.json"
+    },
+    {
+      "igdb_id": 363430,
+      "game_name": "IWL: Interstellar Wrestling League - 049: Mod - Max Mercury Meyiotos",
+      "file": "missing/I/363430-iwl-interstellar-wrestling-league-049-mod-max-mercury-meyiotos.json"
+    },
+    {
+      "igdb_id": 363431,
+      "game_name": "IWL: Interstellar Wrestling League - 050: Mod - Panules",
+      "file": "missing/I/363431-iwl-interstellar-wrestling-league-050-mod-panules.json"
+    },
+    {
+      "igdb_id": 363432,
+      "game_name": "IWL: Interstellar Wrestling League - 051: Mod - Unum Herculaum",
+      "file": "missing/I/363432-iwl-interstellar-wrestling-league-051-mod-unum-herculaum.json"
+    },
+    {
+      "igdb_id": 363433,
+      "game_name": "IWL: Interstellar Wrestling League - 052: Mod - Unum Pan Daum",
+      "file": "missing/I/363433-iwl-interstellar-wrestling-league-052-mod-unum-pan-daum.json"
+    },
+    {
+      "igdb_id": 363435,
+      "game_name": "IWL: Interstellar Wrestling League - 053: Mod - Atlury",
+      "file": "missing/I/363435-iwl-interstellar-wrestling-league-053-mod-atlury.json"
+    },
+    {
+      "igdb_id": 363436,
+      "game_name": "IWL: Interstellar Wrestling League - 054: Mod - Tria Pan 3",
+      "file": "missing/I/363436-iwl-interstellar-wrestling-league-054-mod-tria-pan-3.json"
     },
     {
       "igdb_id": 32979,
@@ -163146,6 +163206,11 @@
       "igdb_id": 40218,
       "game_name": "Labyrinth Runner",
       "file": "missing/L/40218-labyrinth-runner.json"
+    },
+    {
+      "igdb_id": 363434,
+      "game_name": "Labyrinth Sword Princess",
+      "file": "missing/L/363434-labyrinth-sword-princess.json"
     },
     {
       "igdb_id": 370666,
@@ -179916,6 +179981,171 @@
       "igdb_id": 363910,
       "game_name": "Marvel Heroes",
       "file": "missing/M/363910-marvel-heroes.json"
+    },
+    {
+      "igdb_id": 363438,
+      "game_name": "Marvel Heroes: 001 - Character: Spider-Man",
+      "file": "missing/M/363438-marvel-heroes-001-character-spider-man.json"
+    },
+    {
+      "igdb_id": 363439,
+      "game_name": "Marvel Heroes: 002 - Character: Captain America",
+      "file": "missing/M/363439-marvel-heroes-002-character-captain-america.json"
+    },
+    {
+      "igdb_id": 363440,
+      "game_name": "Marvel Heroes: 003 - Character: Hulk",
+      "file": "missing/M/363440-marvel-heroes-003-character-hulk.json"
+    },
+    {
+      "igdb_id": 363441,
+      "game_name": "Marvel Heroes: 004 - Character: Thor",
+      "file": "missing/M/363441-marvel-heroes-004-character-thor.json"
+    },
+    {
+      "igdb_id": 363442,
+      "game_name": "Marvel Heroes: 005 - Character: Wolverine",
+      "file": "missing/M/363442-marvel-heroes-005-character-wolverine.json"
+    },
+    {
+      "igdb_id": 363443,
+      "game_name": "Marvel Heroes: 006 - Character: Human Torch",
+      "file": "missing/M/363443-marvel-heroes-006-character-human-torch.json"
+    },
+    {
+      "igdb_id": 363444,
+      "game_name": "Marvel Heroes: 007 - Character: Iron Man",
+      "file": "missing/M/363444-marvel-heroes-007-character-iron-man.json"
+    },
+    {
+      "igdb_id": 363445,
+      "game_name": "Marvel Heroes: 008 - Character: Storm",
+      "file": "missing/M/363445-marvel-heroes-008-character-storm.json"
+    },
+    {
+      "igdb_id": 363446,
+      "game_name": "Marvel Heroes: 009 - Character: Elektra",
+      "file": "missing/M/363446-marvel-heroes-009-character-elektra.json"
+    },
+    {
+      "igdb_id": 363447,
+      "game_name": "Marvel Heroes: 010 - Character: Thing",
+      "file": "missing/M/363447-marvel-heroes-010-character-thing.json"
+    },
+    {
+      "igdb_id": 363448,
+      "game_name": "Marvel Heroes: 011 - Character: Daredevil",
+      "file": "missing/M/363448-marvel-heroes-011-character-daredevil.json"
+    },
+    {
+      "igdb_id": 363449,
+      "game_name": "Marvel Heroes: 012 - Area Mod: Municipal Mayhem",
+      "file": "missing/M/363449-marvel-heroes-012-area-mod-municipal-mayhem.json"
+    },
+    {
+      "igdb_id": 363450,
+      "game_name": "Marvel Heroes: 013 - Area Mod: Jungle Tech",
+      "file": "missing/M/363450-marvel-heroes-013-area-mod-jungle-tech.json"
+    },
+    {
+      "igdb_id": 363451,
+      "game_name": "Marvel Heroes: 014 - Area Mod: Mount Fury",
+      "file": "missing/M/363451-marvel-heroes-014-area-mod-mount-fury.json"
+    },
+    {
+      "igdb_id": 363452,
+      "game_name": "Marvel Heroes: 015 - Area Mod: Space-Station Omega",
+      "file": "missing/M/363452-marvel-heroes-015-area-mod-space-station-omega.json"
+    },
+    {
+      "igdb_id": 363453,
+      "game_name": "Marvel Heroes: 016 - Area Mod: Rat House Rumble",
+      "file": "missing/M/363453-marvel-heroes-016-area-mod-rat-house-rumble.json"
+    },
+    {
+      "igdb_id": 363454,
+      "game_name": "Marvel Heroes: 017 - Area Mod: Dread Field",
+      "file": "missing/M/363454-marvel-heroes-017-area-mod-dread-field.json"
+    },
+    {
+      "igdb_id": 363455,
+      "game_name": "Marvel Heroes: 018 - Area Mod: Techno Terror",
+      "file": "missing/M/363455-marvel-heroes-018-area-mod-techno-terror.json"
+    },
+    {
+      "igdb_id": 363456,
+      "game_name": "Marvel Heroes: 019 - Area Mod: Chaos Laboratories",
+      "file": "missing/M/363456-marvel-heroes-019-area-mod-chaos-laboratories.json"
+    },
+    {
+      "igdb_id": 363457,
+      "game_name": "Marvel Heroes: 020 - Area Mod: Desolation Flats",
+      "file": "missing/M/363457-marvel-heroes-020-area-mod-desolation-flats.json"
+    },
+    {
+      "igdb_id": 363458,
+      "game_name": "Marvel Heroes: 021 - Area Mod: Target X",
+      "file": "missing/M/363458-marvel-heroes-021-area-mod-target-x.json"
+    },
+    {
+      "igdb_id": 363461,
+      "game_name": "Marvel Heroes: 022 - Area Mod: Wretched Acres",
+      "file": "missing/M/363461-marvel-heroes-022-area-mod-wretched-acres.json"
+    },
+    {
+      "igdb_id": 363462,
+      "game_name": "Marvel Heroes: 023 - Area Mod: Back-Alley Bust Up",
+      "file": "missing/M/363462-marvel-heroes-023-area-mod-back-alley-bust-up.json"
+    },
+    {
+      "igdb_id": 363463,
+      "game_name": "Marvel Heroes: 024 - Area Mod: Drab Town",
+      "file": "missing/M/363463-marvel-heroes-024-area-mod-drab-town.json"
+    },
+    {
+      "igdb_id": 363464,
+      "game_name": "Marvel Heroes: 025 - Area Mod: Scraps",
+      "file": "missing/M/363464-marvel-heroes-025-area-mod-scraps.json"
+    },
+    {
+      "igdb_id": 363465,
+      "game_name": "Marvel Heroes: 026 - Area Mod: Fire Island Station",
+      "file": "missing/M/363465-marvel-heroes-026-area-mod-fire-island-station.json"
+    },
+    {
+      "igdb_id": 363466,
+      "game_name": "Marvel Heroes: 027 - Area Mod: Cavern Clash",
+      "file": "missing/M/363466-marvel-heroes-027-area-mod-cavern-clash.json"
+    },
+    {
+      "igdb_id": 363467,
+      "game_name": "Marvel Heroes: 028 - Area Mod: Force Factor",
+      "file": "missing/M/363467-marvel-heroes-028-area-mod-force-factor.json"
+    },
+    {
+      "igdb_id": 363468,
+      "game_name": "Marvel Heroes: 029 - Area Mod: Vanguard Forest",
+      "file": "missing/M/363468-marvel-heroes-029-area-mod-vanguard-forest.json"
+    },
+    {
+      "igdb_id": 363469,
+      "game_name": "Marvel Heroes: 030 - Area Mod: Mountain Meltdown",
+      "file": "missing/M/363469-marvel-heroes-030-area-mod-mountain-meltdown.json"
+    },
+    {
+      "igdb_id": 363471,
+      "game_name": "Marvel Heroes: 031 - Area Mod: Wastes of Warfare",
+      "file": "missing/M/363471-marvel-heroes-031-area-mod-wastes-of-warfare.json"
+    },
+    {
+      "igdb_id": 363472,
+      "game_name": "Marvel Heroes: 032 - Area Mod: Last Chance Bog",
+      "file": "missing/M/363472-marvel-heroes-032-area-mod-last-chance-bog.json"
+    },
+    {
+      "igdb_id": 363473,
+      "game_name": "Marvel Heroes: 033 - Area Mod: Tunnels of Terror",
+      "file": "missing/M/363473-marvel-heroes-033-area-mod-tunnels-of-terror.json"
     },
     {
       "igdb_id": 319970,
@@ -206813,6 +207043,11 @@
       "file": "missing/N/292303-nixxsz-maids-blazing.json"
     },
     {
+      "igdb_id": 363459,
+      "game_name": "Nixy and the Seeds of Doom",
+      "file": "missing/N/363459-nixy-and-the-seeds-of-doom.json"
+    },
+    {
       "igdb_id": 342051,
       "game_name": "NLdle",
       "file": "missing/N/342051-nldle.json"
@@ -225131,6 +225366,11 @@
       "igdb_id": 92460,
       "game_name": "Pirate Gold",
       "file": "missing/P/92460-pirate-gold.json"
+    },
+    {
+      "igdb_id": 363429,
+      "game_name": "Pirate Guy",
+      "file": "missing/P/363429-pirate-guy.json"
     },
     {
       "igdb_id": 62695,
@@ -261746,6 +261986,11 @@
       "igdb_id": 189129,
       "game_name": "Seventh Angel",
       "file": "missing/S/189129-seventh-angel.json"
+    },
+    {
+      "igdb_id": 363470,
+      "game_name": "Sever the Wicked!",
+      "file": "missing/S/363470-sever-the-wicked.json"
     },
     {
       "igdb_id": 196235,
@@ -355146,6 +355391,11 @@
       "igdb_id": 87260,
       "game_name": "WitchSpring",
       "file": "missing/W/87260-witchspring.json"
+    },
+    {
+      "igdb_id": 363460,
+      "game_name": "WitchSpring R: The Follower’s Fall",
+      "file": "missing/W/363460-witchspring-r-the-follower-s-fall.json"
     },
     {
       "igdb_id": 102813,
