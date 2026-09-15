@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T06:21:35.049Z",
-  "total_missing": 72806,
+  "generated_at": "2026-09-15T06:31:36.703Z",
+  "total_missing": 72808,
   "games": [
     {
       "igdb_id": 306086,
@@ -5046,11 +5046,6 @@
       "igdb_id": 148489,
       "game_name": "Afraid of the Night",
       "file": "missing/A/148489-afraid-of-the-night.json"
-    },
-    {
-      "igdb_id": 14228,
-      "game_name": "Afrika Korps",
-      "file": "missing/A/14228-afrika-korps.json"
     },
     {
       "igdb_id": 365088,
@@ -60871,6 +60866,11 @@
       "igdb_id": 330129,
       "game_name": "Courageous Reasoning Nori 9 Reasoning Tournament Sticking Nori",
       "file": "missing/C/330129-courageous-reasoning-nori-9-reasoning-tournament-sticking-nori.json"
+    },
+    {
+      "igdb_id": 366943,
+      "game_name": "Courier Bay",
+      "file": "missing/C/366943-courier-bay.json"
     },
     {
       "igdb_id": 399597,
@@ -207528,6 +207528,11 @@
       "file": "missing/N/225067-nothing-to-declare.json"
     },
     {
+      "igdb_id": 366945,
+      "game_name": "Nothing To Declare",
+      "file": "missing/N/366945-nothing-to-declare.json"
+    },
+    {
       "igdb_id": 237620,
       "game_name": "Nothing to Lose",
       "file": "missing/N/237620-nothing-to-lose.json"
@@ -220736,6 +220741,11 @@
       "igdb_id": 63242,
       "game_name": "Performous",
       "file": "missing/P/63242-performous.json"
+    },
+    {
+      "igdb_id": 366944,
+      "game_name": "Perfume Atelier",
+      "file": "missing/P/366944-perfume-atelier.json"
     },
     {
       "igdb_id": 114945,
