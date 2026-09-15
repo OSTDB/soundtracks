@@ -2055,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detail: Episode 3 - Devil in the Detail | 171613 | [171613-the-detail-episode-3-devil-in-the-detail.json](./171613-the-detail-episode-3-devil-in-the-detail.json) |
 | The Detective of the Red Horns | 96710 | [96710-the-detective-of-the-red-horns.json](./96710-the-detective-of-the-red-horns.json) |
 | The Detective Reaper Invites | 265962 | [265962-the-detective-reaper-invites.json](./265962-the-detective-reaper-invites.json) |
+| The Detectorist Guild | 373609 | [373609-the-detectorist-guild.json](./373609-the-detectorist-guild.json) |
 | The Detroit After | 199123 | [199123-the-detroit-after.json](./199123-the-detroit-after.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
@@ -2596,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
 | The Heroic Legend of Eagarlnia: Expansion Pack | 199651 | [199651-the-heroic-legend-of-eagarlnia-expansion-pack.json](./199651-the-heroic-legend-of-eagarlnia-expansion-pack.json) |
 | The Hidden | 85437 | [85437-the-hidden.json](./85437-the-hidden.json) |
+| The High Tower | 373613 | [373613-the-high-tower.json](./373613-the-high-tower.json) |
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
 | The History Channel: Civil War - Secret Missions | 47404 | [47404-the-history-channel-civil-war-secret-missions.json](./47404-the-history-channel-civil-war-secret-missions.json) |
 | The History Channel: Crusades - Quest for Power | 69799 | [69799-the-history-channel-crusades-quest-for-power.json](./69799-the-history-channel-crusades-quest-for-power.json) |
@@ -4734,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therapist: Mind Manager | 246116 | [246116-therapist-mind-manager.json](./246116-therapist-mind-manager.json) |
 | Therapy Simulator 2023 | 248078 | [248078-therapy-simulator-2023.json](./248078-therapy-simulator-2023.json) |
 | There a no Armadillos in this game | 129212 | [129212-there-a-no-armadillos-in-this-game.json](./129212-there-a-no-armadillos-in-this-game.json) |
+| There Are People In Your Walls | 373644 | [373644-there-are-people-in-your-walls.json](./373644-there-are-people-in-your-walls.json) |
 | There Aren't Really Words... | 135852 | [135852-there-arent-really-words.json](./135852-there-arent-really-words.json) |
 | There Can Be Only One | 181893 | [181893-there-can-be-only-one.json](./181893-there-can-be-only-one.json) |
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
@@ -5093,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tien Len: Killer 13 | 175422 | [175422-tien-len-killer-13.json](./175422-tien-len-killer-13.json) |
 | Tierra: Adventure Mystery | 174306 | [174306-tierra-adventure-mystery.json](./174306-tierra-adventure-mystery.json) |
 | Tiger & Bunny: Hero's Day | 63842 | [63842-tiger-and-bunny-heros-day.json](./63842-tiger-and-bunny-heros-day.json) |
+| Tiger Casino & Slot Game | 373625 | [373625-tiger-casino-and-slot-game.json](./373625-tiger-casino-and-slot-game.json) |
 | Tiger Fighter 1931: MP061 | 173757 | [173757-tiger-fighter-1931-mp061.json](./173757-tiger-fighter-1931-mp061.json) |
 | Tiger Fighter 1931: MP062 | 173742 | [173742-tiger-fighter-1931-mp062.json](./173742-tiger-fighter-1931-mp062.json) |
 | Tiger Fighter 1931: MP065 | 173746 | [173746-tiger-fighter-1931-mp065.json](./173746-tiger-fighter-1931-mp065.json) |
@@ -6162,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Wars: Tank Battles | 87898 | [87898-toon-wars-tank-battles.json](./87898-toon-wars-tank-battles.json) |
 | TooneQuest | 407402 | [407402-toonequest.json](./407402-toonequest.json) |
 | Toontown Online | 25326 | [25326-toontown-online.json](./25326-toontown-online.json) |
+| Toontown Rewritten: Clear Coasts | 373635 | [373635-toontown-rewritten-clear-coasts.json](./373635-toontown-rewritten-clear-coasts.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
 | Tootuff | 125952 | [125952-tootuff.json](./125952-tootuff.json) |
 | Tootuff: Mission Nadia | 48037 | [48037-tootuff-mission-nadia.json](./48037-tootuff-mission-nadia.json) |
@@ -7134,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Adventure World | 58243 | [58243-treasure-adventure-world.json](./58243-treasure-adventure-world.json) |
 | Treasure Bolt | 81213 | [81213-treasure-bolt.json](./81213-treasure-bolt.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
+| Treasure Drop | 373651 | [373651-treasure-drop.json](./373651-treasure-drop.json) |
 | Treasure Drop: Complete Edition | 385211 | [385211-treasure-drop-complete-edition.json](./385211-treasure-drop-complete-edition.json) |
 | Treasure Gear | 130357 | [130357-treasure-gear.json](./130357-treasure-gear.json) |
 | Treasure Hunt | 12969 | [12969-treasure-hunt.json](./12969-treasure-hunt.json) |
