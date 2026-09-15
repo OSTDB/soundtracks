@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMG-Z | 20633 | [20633-omg-z.json](./20633-omg-z.json) |
 | Omi Oh My AI | 215393 | [215393-omi-oh-my-ai.json](./215393-omi-oh-my-ai.json) |
 | Omicron: Coronavirus Battlegrounds | 393453 | [393453-omicron-coronavirus-battlegrounds.json](./393453-omicron-coronavirus-battlegrounds.json) |
+| Omicrox | 361803 | [361803-omicrox.json](./361803-omicrox.json) |
 | Omikron: The Nomad Soul | 1982 | [1982-omikron-the-nomad-soul.json](./1982-omikron-the-nomad-soul.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
 | Ominous Horizons: A Paladin's Calling | 69877 | [69877-ominous-horizons-a-paladins-calling.json](./69877-ominous-horizons-a-paladins-calling.json) |
@@ -869,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Nectar | 416628 | [416628-open-nectar.json](./416628-open-nectar.json) |
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
 | Open School World | 297505 | [297505-open-school-world.json](./297505-open-school-world.json) |
+| Open Source Objects: The Game | 361751 | [361751-open-source-objects-the-game.json](./361751-open-source-objects-the-game.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
 | Open Star Fighter | 339288 | [339288-open-star-fighter.json](./339288-open-star-fighter.json) |
 | Open The Gate: Just A Little | 381672 | [381672-open-the-gate-just-a-little.json](./381672-open-the-gate-just-a-little.json) |
