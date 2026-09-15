@@ -459,7 +459,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
-| Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | Aether | 357785 | [357785-aether.json](./357785-aether.json) |
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
