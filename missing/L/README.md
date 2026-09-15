@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late For Class: Variety King | 191252 | [191252-late-for-class-variety-king.json](./191252-late-for-class-variety-king.json) |
 | Late for Love | 176517 | [176517-late-for-love.json](./176517-late-for-love.json) |
 | Late Night 1320 | 115654 | [115654-late-night-1320.json](./115654-late-night-1320.json) |
+| Late Night Mop: Minimum Wage | 376605 | [376605-late-night-mop-minimum-wage.json](./376605-late-night-mop-minimum-wage.json) |
 | Late Night Shift | 334692 | [334692-late-night-shift.json](./334692-late-night-shift.json) |
 | Late Night Talks | 225267 | [225267-late-night-talks.json](./225267-late-night-talks.json) |
 | Late Night Wanderer | 98476 | [98476-late-night-wanderer.json](./98476-late-night-wanderer.json) |
@@ -517,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap to the Top+ | 267077 | [267077-leap-to-the-top.json](./267077-leap-to-the-top.json) |
 | Leap up no Justu: Double | 278410 | [278410-leap-up-no-justu-double.json](./278410-leap-up-no-justu-double.json) |
 | Leap: A Dragon's Adventure | 392788 | [392788-leap-a-dragons-adventure.json](./392788-leap-a-dragons-adventure.json) |
+| Leaper | 376574 | [376574-leaper.json](./376574-leaper.json) |
 | LeapLand Adventures | 230275 | [230275-leapland-adventures.json](./230275-leapland-adventures.json) |
 | Learn & Discover Home | 326588 | [326588-learn-and-discover-home.json](./326588-learn-and-discover-home.json) |
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
@@ -1395,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nightmares III: The Backstage | 375185 | [375185-little-nightmares-iii-the-backstage.json](./375185-little-nightmares-iii-the-backstage.json) |
 | Little Nightmares: Enhanced Edition | 350903 | [350903-little-nightmares-enhanced-edition.json](./350903-little-nightmares-enhanced-edition.json) |
 | Little Number Daycare: Learn, Count, Say, Play for Toddlers | 409538 | [409538-little-number-daycare-learn-count-say-play-for-toddlers.json](./409538-little-number-daycare-learn-count-say-play-for-toddlers.json) |
+| Little Old One and the Witch | 376548 | [376548-little-old-one-and-the-witch.json](./376548-little-old-one-and-the-witch.json) |
 | Little One | 399702 | [399702-little-one.json](./399702-little-one.json) |
 | Little Panda's Camping Trip | 105963 | [105963-little-pandas-camping-trip.json](./105963-little-pandas-camping-trip.json) |
 | Little Panda's Candy Shop | 231932 | [231932-little-pandas-candy-shop.json](./231932-little-pandas-candy-shop.json) |
@@ -2094,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
 | LSI Puzzle: Last One | 385752 | [385752-lsi-puzzle-last-one.json](./385752-lsi-puzzle-last-one.json) |
+| Lu Dreams | 376606 | [376606-lu-dreams.json](./376606-lu-dreams.json) |
 | Lu[Idle] | 321738 | [321738-lu-idle.json](./321738-lu-idle.json) |
 | Lua Bingo | 87136 | [87136-lua-bingo.json](./87136-lua-bingo.json) |
 | Luànshì Yúnyān | 398456 | [398456-luanshi-yunyan.json](./398456-luanshi-yunyan.json) |
