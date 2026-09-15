@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T04:48:59.296Z",
-  "total_missing": 72516,
+  "generated_at": "2026-09-15T04:51:37.918Z",
+  "total_missing": 72515,
   "games": [
     {
       "igdb_id": 306086,
@@ -4996,11 +4996,6 @@
       "igdb_id": 148489,
       "game_name": "Afraid of the Night",
       "file": "missing/A/148489-afraid-of-the-night.json"
-    },
-    {
-      "igdb_id": 366265,
-      "game_name": "African Adventure: In Search of Dr. Livingston",
-      "file": "missing/A/366265-african-adventure-in-search-of-dr-livingston.json"
     },
     {
       "igdb_id": 14228,
