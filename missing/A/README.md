@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algebra Fish | 102760 | [102760-algebra-fish.json](./102760-algebra-fish.json) |
 | Algebra Ridge | 150695 | [150695-algebra-ridge.json](./150695-algebra-ridge.json) |
 | Algodoo | 140601 | [140601-algodoo.json](./140601-algodoo.json) |
+| Algos United: Live! | 336627 | [336627-algos-united-live.json](./336627-algos-united-live.json) |
 | Alia's Carnival! Sacrament | 14857 | [14857-alias-carnival-sacrament.json](./14857-alias-carnival-sacrament.json) |
 | Alian | 288751 | [288751-alian.json](./288751-alian.json) |
 | Alias Underground Episode 1: SD-6 Agent Training | 367409 | [367409-alias-underground-episode-1-sd-6-agent-training.json](./367409-alias-underground-episode-1-sd-6-agent-training.json) |
@@ -1239,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Racing 2 | 43930 | [43930-all-star-racing-2.json](./43930-all-star-racing-2.json) |
 | All Star Soccer | 81432 | [81432-all-star-soccer.json](./81432-all-star-soccer.json) |
 | All Star Tennis 2000 | 49880 | [49880-all-star-tennis-2000.json](./49880-all-star-tennis-2000.json) |
+| All that Glitters | 336600 | [336600-all-that-glitters.json](./336600-all-that-glitters.json) |
 | All That is Left | 384108 | [384108-all-that-is-left.json](./384108-all-that-is-left.json) |
 | All That Remains | 75789 | [75789-all-that-remains.json](./75789-all-that-remains.json) |
 | All The Colors That You Paint | 383376 | [383376-all-the-colors-that-you-paint.json](./383376-all-the-colors-that-you-paint.json) |
@@ -1440,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazin' George 2: Digital Deluxe | 212279 | [212279-amazin-george-2-digital-deluxe.json](./212279-amazin-george-2-digital-deluxe.json) |
 | Amazing Adventures Riddle of the Two Knights | 52584 | [52584-amazing-adventures-riddle-of-the-two-knights.json](./52584-amazing-adventures-riddle-of-the-two-knights.json) |
 | Amazing Adventures: The Forgotten Dynasty | 61675 | [61675-amazing-adventures-the-forgotten-dynasty.json](./61675-amazing-adventures-the-forgotten-dynasty.json) |
+| Amazing Animals Activity Center | 336615 | [336615-amazing-animals-activity-center.json](./336615-amazing-animals-activity-center.json) |
 | Amazing Breaker | 65493 | [65493-amazing-breaker.json](./65493-amazing-breaker.json) |
 | Amazing Chicken Adventures | 173262 | [173262-amazing-chicken-adventures.json](./173262-amazing-chicken-adventures.json) |
 | Amazing Crime Rope Stickman | 296072 | [296072-amazing-crime-rope-stickman.json](./296072-amazing-crime-rope-stickman.json) |
