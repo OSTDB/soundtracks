@@ -1522,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex | 322575 | [322575-hex.json](./322575-hex.json) |
 | Hex | 72028 | [72028-hex.json](./72028-hex.json) |
 | Hex & Agon | 144351 | [144351-hex-and-agon.json](./144351-hex-and-agon.json) |
+| Hex and Chill | 335365 | [335365-hex-and-chill.json](./335365-hex-and-chill.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
 | Hex Pipe | 403665 | [403665-hex-pipe.json](./403665-hex-pipe.json) |
 | Hex Pool | 40172 | [40172-hex-pool.json](./40172-hex-pool.json) |
@@ -1796,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Five! | 132819 | [132819-high-five.json](./132819-high-five.json) |
 | High Fructose | 277011 | [277011-high-fructose.json](./277011-high-fructose.json) |
 | High Heat Major League Baseball 2002 | 49399 | [49399-high-heat-major-league-baseball-2002.json](./49399-high-heat-major-league-baseball-2002.json) |
+| High Mountain Abbey | 335370 | [335370-high-mountain-abbey.json](./335370-high-mountain-abbey.json) |
 | High Noon Drifter | 141868 | [141868-high-noon-drifter.json](./141868-high-noon-drifter.json) |
 | High on Life: High on Knife | 253091 | [253091-high-on-life-high-on-knife.json](./253091-high-on-life-high-on-knife.json) |
 | High Pines | 377676 | [377676-high-pines.json](./377676-high-pines.json) |
@@ -1897,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikeback | 176492 | [176492-hikeback.json](./176492-hikeback.json) |
 | Hikensha | 229694 | [229694-hikensha.json](./229694-hikensha.json) |
 | Hikibyou2 | 273923 | [273923-hikibyou2.json](./273923-hikibyou2.json) |
+| HikiDama | 335358 | [335358-hikidama.json](./335358-hikidama.json) |
 | Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
 | Hill 4x4 Tuning Rivals | 255733 | [255733-hill-4x4-tuning-rivals.json](./255733-hill-4x4-tuning-rivals.json) |
 | Hill Climbing 2 | 213385 | [213385-hill-climbing-2.json](./213385-hill-climbing-2.json) |
@@ -2024,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitozuma Sentai Aisaiger | 65519 | [65519-hitozuma-sentai-aisaiger.json](./65519-hitozuma-sentai-aisaiger.json) |
 | Hitstream | 268454 | [268454-hitstream.json](./268454-hitstream.json) |
 | Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
+| Hivaneph: The Legend of Elles | 335372 | [335372-hivaneph-the-legend-of-elles.json](./335372-hivaneph-the-legend-of-elles.json) |
 | Hive | 5604 | [5604-hive.json](./5604-hive.json) |
 | Hive Defender | 190193 | [190193-hive-defender.json](./190193-hive-defender.json) |
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
