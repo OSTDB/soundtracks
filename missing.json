@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T21:31:31.723Z",
-  "total_missing": 75468,
+  "generated_at": "2026-09-15T21:41:37.353Z",
+  "total_missing": 75474,
   "games": [
     {
       "igdb_id": 306086,
@@ -5531,11 +5531,6 @@
       "igdb_id": 188228,
       "game_name": "Age of History II",
       "file": "missing/A/188228-age-of-history-ii.json"
-    },
-    {
-      "igdb_id": 365778,
-      "game_name": "Age of Mechs",
-      "file": "missing/A/365778-age-of-mechs.json"
     },
     {
       "igdb_id": 317873,
@@ -38231,6 +38226,11 @@
       "igdb_id": 55327,
       "game_name": "Books",
       "file": "missing/B/55327-books.json"
+    },
+    {
+      "igdb_id": 337720,
+      "game_name": "Bookshop Simulator",
+      "file": "missing/B/337720-bookshop-simulator.json"
     },
     {
       "igdb_id": 62950,
@@ -79223,6 +79223,11 @@
       "file": "missing/D/184105-die-totenmaske.json"
     },
     {
+      "igdb_id": 337723,
+      "game_name": "Die ultimative Brettspiele-Sammlung: Die beliebtesten Brettspiele für die ganze Familie",
+      "file": "missing/D/337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json"
+    },
+    {
       "igdb_id": 191183,
       "game_name": "Die, A.I.",
       "file": "missing/D/191183-die-a-i.json"
@@ -110926,6 +110931,11 @@
       "igdb_id": 79314,
       "game_name": "Flip Out",
       "file": "missing/F/79314-flip-out.json"
+    },
+    {
+      "igdb_id": 337724,
+      "game_name": "Flip Out Rush",
+      "file": "missing/F/337724-flip-out-rush.json"
     },
     {
       "igdb_id": 40799,
@@ -189873,6 +189883,11 @@
       "file": "missing/M/25664-meikyuu-xross-blood.json"
     },
     {
+      "igdb_id": 337719,
+      "game_name": "Meine Eigene Traumstadt",
+      "file": "missing/M/337719-meine-eigene-traumstadt.json"
+    },
+    {
       "igdb_id": 204688,
       "game_name": "Meine Tierarztpraxis: SOS am Ozean",
       "file": "missing/M/204688-meine-tierarztpraxis-sos-am-ozean.json"
@@ -196011,6 +196026,11 @@
       "igdb_id": 301848,
       "game_name": "Mirrorscape: Outdoor Starter Pack",
       "file": "missing/M/301848-mirrorscape-outdoor-starter-pack.json"
+    },
+    {
+      "igdb_id": 337725,
+      "game_name": "Misa",
+      "file": "missing/M/337725-misa.json"
     },
     {
       "igdb_id": 125425,
@@ -273488,6 +273508,11 @@
       "file": "missing/S/135913-shin-megami-tensei-iii-nocturne-hd-remaster.json"
     },
     {
+      "igdb_id": 337718,
+      "game_name": "Shin Megami Tensei III: Nocturne - HD Remaster",
+      "file": "missing/S/337718-shin-megami-tensei-iii-nocturne-hd-remaster.json"
+    },
+    {
       "igdb_id": 336554,
       "game_name": "Shin Megami Tensei III: Nocturne - HD Remaster: Chronicle Pack",
       "file": "missing/S/336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json"
@@ -287891,6 +287916,11 @@
       "igdb_id": 169417,
       "game_name": "Space Rescue: Code Pink",
       "file": "missing/S/169417-space-rescue-code-pink.json"
+    },
+    {
+      "igdb_id": 337722,
+      "game_name": "Space Restaurant",
+      "file": "missing/S/337722-space-restaurant.json"
     },
     {
       "igdb_id": 158217,
