@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermin Control | 334483 | [334483-vermin-control.json](./334483-vermin-control.json) |
 | Verminator | 55202 | [55202-verminator.json](./55202-verminator.json) |
 | Vermintide Collection | 107265 | [107265-vermintide-collection.json](./107265-vermintide-collection.json) |
+| Vermis | 342745 | [342745-vermis.json](./342745-vermis.json) |
 | Verne World | 37772 | [37772-verne-world.json](./37772-verne-world.json) |
 | Veronica | 343792 | [343792-veronica.json](./343792-veronica.json) |
 | Versailles II | 53873 | [53873-versailles-ii.json](./53873-versailles-ii.json) |
