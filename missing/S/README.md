@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered God - Quest for the Divine Relic | 41935 | [41935-shattered-god-quest-for-the-divine-relic.json](./41935-shattered-god-quest-for-the-divine-relic.json) |
 | Shattered Haven | 9407 | [9407-shattered-haven.json](./9407-shattered-haven.json) |
 | Shattered Hourglass | 133422 | [133422-shattered-hourglass.json](./133422-shattered-hourglass.json) |
+| Shattered Lands | 346660 | [346660-shattered-lands.json](./346660-shattered-lands.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
 | Shattered Planet | 17510 | [17510-shattered-planet.json](./17510-shattered-planet.json) |
 | Shattered Realm Rebirth | 390666 | [390666-shattered-realm-rebirth.json](./390666-shattered-realm-rebirth.json) |
@@ -5791,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalker Together | 327831 | [327831-stalker-together.json](./327831-stalker-together.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
 | Stampede | 5704 | [5704-stampede.json](./5704-stampede.json) |
+| Stamps ‘n Papers | 346694 | [346694-stamps-n-papers.json](./346694-stamps-n-papers.json) |
 | StanÇact: Sexy Tenacious Girls | 264621 | [264621-stancact-sexy-tenacious-girls.json](./264621-stancact-sexy-tenacious-girls.json) |
 | Stand My Heroes | 197377 | [197377-stand-my-heroes.json](./197377-stand-my-heroes.json) |
 | Stand O'Food | 66976 | [66976-stand-ofood.json](./66976-stand-ofood.json) |
@@ -7131,6 +7133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Train Simulator 2D | 88647 | [88647-subway-train-simulator-2d.json](./88647-subway-train-simulator-2d.json) |
 | Subwaydle | 228717 | [228717-subwaydle.json](./228717-subwaydle.json) |
 | Subwords | 173801 | [173801-subwords.json](./173801-subwords.json) |
+| Success in Progress | 346679 | [346679-success-in-progress.json](./346679-success-in-progress.json) |
 | Successfully Learning German: Year 3 | 85407 | [85407-successfully-learning-german-year-3.json](./85407-successfully-learning-german-year-3.json) |
 | Successfully Learning German: Year 4 | 85406 | [85406-successfully-learning-german-year-4.json](./85406-successfully-learning-german-year-4.json) |
 | Successor of the Moon | 115578 | [115578-successor-of-the-moon.json](./115578-successor-of-the-moon.json) |
