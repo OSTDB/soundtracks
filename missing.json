@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T10:49:10.495Z",
-  "total_missing": 73569,
+  "generated_at": "2026-09-15T10:51:37.465Z",
+  "total_missing": 73568,
   "games": [
     {
       "igdb_id": 306086,
@@ -5176,11 +5176,6 @@
       "igdb_id": 357794,
       "game_name": "Afterbright",
       "file": "missing/A/357794-afterbright.json"
-    },
-    {
-      "igdb_id": 297224,
-      "game_name": "Afterimage Mobile",
-      "file": "missing/A/297224-afterimage-mobile.json"
     },
     {
       "igdb_id": 175,
