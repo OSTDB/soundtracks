@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Game in Roaring ’20s | 248064 | [248064-tennis-game-in-roaring-20s.json](./248064-tennis-game-in-roaring-20s.json) |
 | Tennis Kings VR | 89257 | [89257-tennis-kings-vr.json](./89257-tennis-kings-vr.json) |
 | Tennis Life | 333532 | [333532-tennis-life.json](./333532-tennis-life.json) |
+| Tennis Manager 25 | 338259 | [338259-tennis-manager-25.json](./338259-tennis-manager-25.json) |
 | Tennis Masters Series | 18334 | [18334-tennis-masters-series.json](./18334-tennis-masters-series.json) |
 | Tennis Menace | 47262 | [47262-tennis-menace.json](./47262-tennis-menace.json) |
 | Tennis no Ouji-sama Motto Gakuensai no Ouji-sama: More Sweet Edition | 205063 | [205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json](./205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json) |
@@ -1326,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thailand Bus Simulator | 384617 | [384617-thailand-bus-simulator.json](./384617-thailand-bus-simulator.json) |
 | Thalassic | 238728 | [238728-thalassic.json](./238728-thalassic.json) |
 | Thalassic Dice | 347776 | [347776-thalassic-dice.json](./347776-thalassic-dice.json) |
+| Thalassomania | 338295 | [338295-thalassomania.json](./338295-thalassomania.json) |
 | Thalassophobia | 303799 | [303799-thalassophobia.json](./303799-thalassophobia.json) |
 | Thalu: Dreamtime is Now | 113707 | [113707-thalu-dreamtime-is-now.json](./113707-thalu-dreamtime-is-now.json) |
 | Thamz in a Wheelchair | 268720 | [268720-thamz-in-a-wheelchair.json](./268720-thamz-in-a-wheelchair.json) |
@@ -2014,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse | 356144 | [356144-the-curse.json](./356144-the-curse.json) |
 | The Curse of Aristotle | 251241 | [251241-the-curse-of-aristotle.json](./251241-the-curse-of-aristotle.json) |
 | The Curse of Azriel | 317821 | [317821-the-curse-of-azriel.json](./317821-the-curse-of-azriel.json) |
+| The Curse of Karlanrik | 338275 | [338275-the-curse-of-karlanrik.json](./338275-the-curse-of-karlanrik.json) |
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
 | The Curse of Ra | 127340 | [127340-the-curse-of-ra.json](./127340-the-curse-of-ra.json) |
 | The Curse of the Egyptian Pyramid: Remaster Edition | 278698 | [278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json](./278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json) |
@@ -4937,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
 | There the Light | 117846 | [117846-there-the-light.json](./117846-there-the-light.json) |
 | There Was a Caveman | 34339 | [34339-there-was-a-caveman.json](./34339-there-was-a-caveman.json) |
+| There Was Something In That Room | 338273 | [338273-there-was-something-in-that-room.json](./338273-there-was-something-in-that-room.json) |
 | There's a Butcher Around | 118016 | [118016-theres-a-butcher-around.json](./118016-theres-a-butcher-around.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
@@ -5822,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timension | 75059 | [75059-timension.json](./75059-timension.json) |
 | TimeOut | 385582 | [385582-timeout.json](./385582-timeout.json) |
 | Timepiece Ensemble | 216242 | [216242-timepiece-ensemble.json](./216242-timepiece-ensemble.json) |
+| Timerift Raiders: The Past Awakens | 338268 | [338268-timerift-raiders-the-past-awakens.json](./338268-timerift-raiders-the-past-awakens.json) |
 | Timerunner | 161900 | [161900-timerunner.json](./161900-timerunner.json) |
 | Times | 391709 | [391709-times.json](./391709-times.json) |
 | Times & Galaxy | 248316 | [248316-times-and-galaxy.json](./248316-times-and-galaxy.json) |
@@ -6750,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Dream 2 | 382927 | [382927-tower-dream-2.json](./382927-tower-dream-2.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
+| Tower O-ven | 338261 | [338261-tower-o-ven.json](./338261-tower-o-ven.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
 | Tower of Babel | 74349 | [74349-tower-of-babel.json](./74349-tower-of-babel.json) |
