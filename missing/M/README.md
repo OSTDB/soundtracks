@@ -1079,6 +1079,39 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel End Time Arena | 89254 | [89254-marvel-end-time-arena.json](./89254-marvel-end-time-arena.json) |
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
 | Marvel Heroes | 363910 | [363910-marvel-heroes.json](./363910-marvel-heroes.json) |
+| Marvel Heroes: 001 - Character: Spider-Man | 363438 | [363438-marvel-heroes-001-character-spider-man.json](./363438-marvel-heroes-001-character-spider-man.json) |
+| Marvel Heroes: 002 - Character: Captain America | 363439 | [363439-marvel-heroes-002-character-captain-america.json](./363439-marvel-heroes-002-character-captain-america.json) |
+| Marvel Heroes: 003 - Character: Hulk | 363440 | [363440-marvel-heroes-003-character-hulk.json](./363440-marvel-heroes-003-character-hulk.json) |
+| Marvel Heroes: 004 - Character: Thor | 363441 | [363441-marvel-heroes-004-character-thor.json](./363441-marvel-heroes-004-character-thor.json) |
+| Marvel Heroes: 005 - Character: Wolverine | 363442 | [363442-marvel-heroes-005-character-wolverine.json](./363442-marvel-heroes-005-character-wolverine.json) |
+| Marvel Heroes: 006 - Character: Human Torch | 363443 | [363443-marvel-heroes-006-character-human-torch.json](./363443-marvel-heroes-006-character-human-torch.json) |
+| Marvel Heroes: 007 - Character: Iron Man | 363444 | [363444-marvel-heroes-007-character-iron-man.json](./363444-marvel-heroes-007-character-iron-man.json) |
+| Marvel Heroes: 008 - Character: Storm | 363445 | [363445-marvel-heroes-008-character-storm.json](./363445-marvel-heroes-008-character-storm.json) |
+| Marvel Heroes: 009 - Character: Elektra | 363446 | [363446-marvel-heroes-009-character-elektra.json](./363446-marvel-heroes-009-character-elektra.json) |
+| Marvel Heroes: 010 - Character: Thing | 363447 | [363447-marvel-heroes-010-character-thing.json](./363447-marvel-heroes-010-character-thing.json) |
+| Marvel Heroes: 011 - Character: Daredevil | 363448 | [363448-marvel-heroes-011-character-daredevil.json](./363448-marvel-heroes-011-character-daredevil.json) |
+| Marvel Heroes: 012 - Area Mod: Municipal Mayhem | 363449 | [363449-marvel-heroes-012-area-mod-municipal-mayhem.json](./363449-marvel-heroes-012-area-mod-municipal-mayhem.json) |
+| Marvel Heroes: 013 - Area Mod: Jungle Tech | 363450 | [363450-marvel-heroes-013-area-mod-jungle-tech.json](./363450-marvel-heroes-013-area-mod-jungle-tech.json) |
+| Marvel Heroes: 014 - Area Mod: Mount Fury | 363451 | [363451-marvel-heroes-014-area-mod-mount-fury.json](./363451-marvel-heroes-014-area-mod-mount-fury.json) |
+| Marvel Heroes: 015 - Area Mod: Space-Station Omega | 363452 | [363452-marvel-heroes-015-area-mod-space-station-omega.json](./363452-marvel-heroes-015-area-mod-space-station-omega.json) |
+| Marvel Heroes: 016 - Area Mod: Rat House Rumble | 363453 | [363453-marvel-heroes-016-area-mod-rat-house-rumble.json](./363453-marvel-heroes-016-area-mod-rat-house-rumble.json) |
+| Marvel Heroes: 017 - Area Mod: Dread Field | 363454 | [363454-marvel-heroes-017-area-mod-dread-field.json](./363454-marvel-heroes-017-area-mod-dread-field.json) |
+| Marvel Heroes: 018 - Area Mod: Techno Terror | 363455 | [363455-marvel-heroes-018-area-mod-techno-terror.json](./363455-marvel-heroes-018-area-mod-techno-terror.json) |
+| Marvel Heroes: 019 - Area Mod: Chaos Laboratories | 363456 | [363456-marvel-heroes-019-area-mod-chaos-laboratories.json](./363456-marvel-heroes-019-area-mod-chaos-laboratories.json) |
+| Marvel Heroes: 020 - Area Mod: Desolation Flats | 363457 | [363457-marvel-heroes-020-area-mod-desolation-flats.json](./363457-marvel-heroes-020-area-mod-desolation-flats.json) |
+| Marvel Heroes: 021 - Area Mod: Target X | 363458 | [363458-marvel-heroes-021-area-mod-target-x.json](./363458-marvel-heroes-021-area-mod-target-x.json) |
+| Marvel Heroes: 022 - Area Mod: Wretched Acres | 363461 | [363461-marvel-heroes-022-area-mod-wretched-acres.json](./363461-marvel-heroes-022-area-mod-wretched-acres.json) |
+| Marvel Heroes: 023 - Area Mod: Back-Alley Bust Up | 363462 | [363462-marvel-heroes-023-area-mod-back-alley-bust-up.json](./363462-marvel-heroes-023-area-mod-back-alley-bust-up.json) |
+| Marvel Heroes: 024 - Area Mod: Drab Town | 363463 | [363463-marvel-heroes-024-area-mod-drab-town.json](./363463-marvel-heroes-024-area-mod-drab-town.json) |
+| Marvel Heroes: 025 - Area Mod: Scraps | 363464 | [363464-marvel-heroes-025-area-mod-scraps.json](./363464-marvel-heroes-025-area-mod-scraps.json) |
+| Marvel Heroes: 026 - Area Mod: Fire Island Station | 363465 | [363465-marvel-heroes-026-area-mod-fire-island-station.json](./363465-marvel-heroes-026-area-mod-fire-island-station.json) |
+| Marvel Heroes: 027 - Area Mod: Cavern Clash | 363466 | [363466-marvel-heroes-027-area-mod-cavern-clash.json](./363466-marvel-heroes-027-area-mod-cavern-clash.json) |
+| Marvel Heroes: 028 - Area Mod: Force Factor | 363467 | [363467-marvel-heroes-028-area-mod-force-factor.json](./363467-marvel-heroes-028-area-mod-force-factor.json) |
+| Marvel Heroes: 029 - Area Mod: Vanguard Forest | 363468 | [363468-marvel-heroes-029-area-mod-vanguard-forest.json](./363468-marvel-heroes-029-area-mod-vanguard-forest.json) |
+| Marvel Heroes: 030 - Area Mod: Mountain Meltdown | 363469 | [363469-marvel-heroes-030-area-mod-mountain-meltdown.json](./363469-marvel-heroes-030-area-mod-mountain-meltdown.json) |
+| Marvel Heroes: 031 - Area Mod: Wastes of Warfare | 363471 | [363471-marvel-heroes-031-area-mod-wastes-of-warfare.json](./363471-marvel-heroes-031-area-mod-wastes-of-warfare.json) |
+| Marvel Heroes: 032 - Area Mod: Last Chance Bog | 363472 | [363472-marvel-heroes-032-area-mod-last-chance-bog.json](./363472-marvel-heroes-032-area-mod-last-chance-bog.json) |
+| Marvel Heroes: 033 - Area Mod: Tunnels of Terror | 363473 | [363473-marvel-heroes-033-area-mod-tunnels-of-terror.json](./363473-marvel-heroes-033-area-mod-tunnels-of-terror.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
 | Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
 | Marvel Rivals: Season 2 - Hellfire Gala | 339814 | [339814-marvel-rivals-season-2-hellfire-gala.json](./339814-marvel-rivals-season-2-hellfire-gala.json) |
