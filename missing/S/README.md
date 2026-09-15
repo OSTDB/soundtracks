@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura School Simulator | 208944 | [208944-sakura-school-simulator.json](./208944-sakura-school-simulator.json) |
 | Sakura Succubus 2 | 146837 | [146837-sakura-succubus-2.json](./146837-sakura-succubus-2.json) |
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
+| Sakura Succubus 8 | 353952 | [353952-sakura-succubus-8.json](./353952-sakura-succubus-8.json) |
 | Sakura Sunshine | 215911 | [215911-sakura-sunshine.json](./215911-sakura-sunshine.json) |
 | Sakura Sweetheart | 135893 | [135893-sakura-sweetheart.json](./135893-sakura-sweetheart.json) |
 | Sakura Swim Club | 34461 | [34461-sakura-swim-club.json](./34461-sakura-swim-club.json) |
@@ -4828,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Junkies | 37080 | [37080-space-junkies.json](./37080-space-junkies.json) |
 | Space Kabaam: Dagger | 392284 | [392284-space-kabaam-dagger.json](./392284-space-kabaam-dagger.json) |
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
+| Space Kabaam: Neon III | 353968 | [353968-space-kabaam-neon-iii.json](./353968-space-kabaam-neon-iii.json) |
 | Space Kadet | 123598 | [123598-space-kadet.json](./123598-space-kadet.json) |
 | Space Kids | 69806 | [69806-space-kids.json](./69806-space-kids.json) |
 | Space Komandirovka | 119703 | [119703-space-komandirovka.json](./119703-space-komandirovka.json) |
@@ -6268,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stary | 113644 | [113644-stary.json](./113644-stary.json) |
 | Starzzle | 382218 | [382218-starzzle.json](./382218-starzzle.json) |
 | Stash: A Card Looter | 367473 | [367473-stash-a-card-looter.json](./367473-stash-a-card-looter.json) |
+| Stasis Bundle | 353984 | [353984-stasis-bundle.json](./353984-stasis-bundle.json) |
 | Stasis: Bone Totem | 140866 | [140866-stasis-bone-totem.json](./140866-stasis-bone-totem.json) |
 | Stasis: Deluxe Edition | 51894 | [51894-stasis-deluxe-edition.json](./51894-stasis-deluxe-edition.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
@@ -6416,6 +6419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Echoes: Brave Trial | 263746 | [263746-stellar-echoes-brave-trial.json](./263746-stellar-echoes-brave-trial.json) |
 | Stellar Echoes: Maze Shooter | 263748 | [263748-stellar-echoes-maze-shooter.json](./263748-stellar-echoes-maze-shooter.json) |
 | Stellar Echoes: Ultimate Challenge | 263749 | [263749-stellar-echoes-ultimate-challenge.json](./263749-stellar-echoes-ultimate-challenge.json) |
+| Stellar Freight: Echoes of the Void | 353977 | [353977-stellar-freight-echoes-of-the-void.json](./353977-stellar-freight-echoes-of-the-void.json) |
 | Stellar Initiative | 261784 | [261784-stellar-initiative.json](./261784-stellar-initiative.json) |
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
 | Stellar Monarch: The Age of Technology | 171028 | [171028-stellar-monarch-the-age-of-technology.json](./171028-stellar-monarch-the-age-of-technology.json) |
@@ -7067,6 +7071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subwar 2050 Complete | 51935 | [51935-subwar-2050-complete.json](./51935-subwar-2050-complete.json) |
 | Subway Adventure | 135861 | [135861-subway-adventure.json](./135861-subway-adventure.json) |
 | Subway Exorcist Girl | 329389 | [329389-subway-exorcist-girl.json](./329389-subway-exorcist-girl.json) |
+| Subway Invasion | 353969 | [353969-subway-invasion.json](./353969-subway-invasion.json) |
 | Subway Midnight | 175934 | [175934-subway-midnight.json](./175934-subway-midnight.json) |
 | Subway Rider - Train Rush | 106567 | [106567-subway-rider-train-rush.json](./106567-subway-rider-train-rush.json) |
 | Subway Simulator | 87982 | [87982-subway-simulator.json](./87982-subway-simulator.json) |
