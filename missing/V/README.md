@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Therapist: Complete Edition | 403560 | [403560-vampire-therapist-complete-edition.json](./403560-vampire-therapist-complete-edition.json) |
 | Vampire Therapist: Couples Therapy | 398340 | [398340-vampire-therapist-couples-therapy.json](./398340-vampire-therapist-couples-therapy.json) |
 | Vampire vs. Devil | 145688 | [145688-vampire-vs-devil.json](./145688-vampire-vs-devil.json) |
+| Vampire: No Survivors | 364597 | [364597-vampire-no-survivors.json](./364597-vampire-no-survivors.json) |
 | Vampire: The Masquerade - Bloodhunt | 152087 | [152087-vampire-the-masquerade-bloodhunt.json](./152087-vampire-the-masquerade-bloodhunt.json) |
 | Vampire: The Masquerade - Bloodlines 2 - Loose Cannon | 370209 | [370209-vampire-the-masquerade-bloodlines-2-loose-cannon.json](./370209-vampire-the-masquerade-bloodlines-2-loose-cannon.json) |
 | Vampire: The Masquerade - Bloodlines 2 - The Flower & the Flame | 370208 | [370208-vampire-the-masquerade-bloodlines-2-the-flower-and-the-flame.json](./370208-vampire-the-masquerade-bloodlines-2-the-flower-and-the-flame.json) |
@@ -873,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volty's Quest | 181848 | [181848-voltys-quest.json](./181848-voltys-quest.json) |
 | Volume | 9647 | [9647-volume.json](./9647-volume.json) |
 | Volvalis | 200702 | [200702-volvalis.json](./200702-volvalis.json) |
+| VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
 | Voodoo Nights | 77329 | [77329-voodoo-nights.json](./77329-voodoo-nights.json) |
 | Voodoo Vince | 5466 | [5466-voodoo-vince.json](./5466-voodoo-vince.json) |
 | Voodoom | 312561 | [312561-voodoom.json](./312561-voodoom.json) |
