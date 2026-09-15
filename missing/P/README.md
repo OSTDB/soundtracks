@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paiteo: Yeongung-eul Gidalimyeo | 98430 | [98430-paiteo-yeongung-eul-gidalimyeo.json](./98430-paiteo-yeongung-eul-gidalimyeo.json) |
 | Pakku Pony | 374671 | [374671-pakku-pony.json](./374671-pakku-pony.json) |
 | Pako | 9568 | [9568-pako.json](./9568-pako.json) |
+| Pako 4 | 339925 | [339925-pako-4.json](./339925-pako-4.json) |
 | Pako Highway | 212448 | [212448-pako-highway.json](./212448-pako-highway.json) |
 | Pakoombo | 201792 | [201792-pakoombo.json](./201792-pakoombo.json) |
 | Pal Go | 343831 | [343831-pal-go.json](./343831-pal-go.json) |
@@ -469,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradoxical Heat | 327179 | [327179-paradoxical-heat.json](./327179-paradoxical-heat.json) |
 | Paradroid | 22518 | [22518-paradroid.json](./22518-paradroid.json) |
 | Paragnosia | 320184 | [320184-paragnosia.json](./320184-paragnosia.json) |
+| Paragon of Time | 339907 | [339907-paragon-of-time.json](./339907-paragon-of-time.json) |
 | Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
 | Paragon Sex A Doll | 356065 | [356065-paragon-sex-a-doll.json](./356065-paragon-sex-a-doll.json) |
 | Parallax | 271743 | [271743-parallax.json](./271743-parallax.json) |
