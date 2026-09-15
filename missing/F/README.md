@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairest | 290390 | [290390-fairest.json](./290390-fairest.json) |
 | Fairgames | 250615 | [250615-fairgames.json](./250615-fairgames.json) |
 | Fairground 2 | 103532 | [103532-fairground-2.json](./103532-fairground-2.json) |
+| Fairground Online | 347225 | [347225-fairground-online.json](./347225-fairground-online.json) |
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
 | Fairvalley VR | 116401 | [116401-fairvalley-vr.json](./116401-fairvalley-vr.json) |
@@ -775,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faunamorph | 257965 | [257965-faunamorph.json](./257965-faunamorph.json) |
 | Faust Duel | 373112 | [373112-faust-duel.json](./373112-faust-duel.json) |
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
+| Favela Defender | 347229 | [347229-favela-defender.json](./347229-favela-defender.json) |
 | Fax These to Smith!!! | 128562 | [128562-fax-these-to-smith.json](./128562-fax-these-to-smith.json) |
 | Faye Falling | 189136 | [189136-faye-falling.json](./189136-faye-falling.json) |
 | Faye: A Tale of Shadow | 192885 | [192885-faye-a-tale-of-shadow.json](./192885-faye-a-tale-of-shadow.json) |
@@ -1273,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Me A Good One | 128635 | [128635-find-me-a-good-one.json](./128635-find-me-a-good-one.json) |
 | Find Me in the Maze | 214733 | [214733-find-me-in-the-maze.json](./214733-find-me-in-the-maze.json) |
 | Find Meow in Wild West | 356748 | [356748-find-meow-in-wild-west.json](./356748-find-meow-in-wild-west.json) |
+| Find My Frogs | 347218 | [347218-find-my-frogs.json](./347218-find-my-frogs.json) |
 | Find My Frogs: Branches | 362893 | [362893-find-my-frogs-branches.json](./362893-find-my-frogs-branches.json) |
 | Find My Weiner | 292292 | [292292-find-my-weiner.json](./292292-find-my-weiner.json) |
 | Find Room 96 | 291457 | [291457-find-room-96.json](./291457-find-room-96.json) |
@@ -1399,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Sale | 165694 | [165694-fire-sale.json](./165694-fire-sale.json) |
 | Fire Trap | 39551 | [39551-fire-trap.json](./39551-fire-trap.json) |
 | Fire Truck | 40039 | [40039-fire-truck.json](./40039-fire-truck.json) |
+| Fire Up: Football Manager | 347236 | [347236-fire-up-football-manager.json](./347236-fire-up-football-manager.json) |
 | Fire Up! | 87659 | [87659-fire-up.json](./87659-fire-up.json) |
 | Fire With Fire: Online Tower Attack and Defense | 35714 | [35714-fire-with-fire-online-tower-attack-and-defense.json](./35714-fire-with-fire-online-tower-attack-and-defense.json) |
 | Fire Woman: Matoi Gumi | 45958 | [45958-fire-woman-matoi-gumi.json](./45958-fire-woman-matoi-gumi.json) |
@@ -1735,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappatron: Episode 4 (Chapters 11 - 13) | 168845 | [168845-flappatron-episode-4-chapters-11-13.json](./168845-flappatron-episode-4-chapters-11-13.json) |
 | FlapPing | 40718 | [40718-flapping.json](./40718-flapping.json) |
 | Flappy 2: The Resurrection of Blue Star | 62199 | [62199-flappy-2-the-resurrection-of-blue-star.json](./62199-flappy-2-the-resurrection-of-blue-star.json) |
+| Flappy Bat 3 | 347231 | [347231-flappy-bat-3.json](./347231-flappy-bat-3.json) |
 | Flappy Bee | 169471 | [169471-flappy-bee.json](./169471-flappy-bee.json) |
 | Flappy Bird | 298312 | [298312-flappy-bird.json](./298312-flappy-bird.json) |
 | Flappy Bird | 339269 | [339269-flappy-bird.json](./339269-flappy-bird.json) |
