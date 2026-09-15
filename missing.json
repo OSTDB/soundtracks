@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T00:41:44.287Z",
-  "total_missing": 71754,
+  "generated_at": "2026-09-15T00:49:07.818Z",
+  "total_missing": 71804,
   "games": [
     {
       "igdb_id": 306086,
@@ -4341,6 +4341,11 @@
       "igdb_id": 357777,
       "game_name": "Across the Obelisk: Bernard, the Alchemist",
       "file": "missing/A/357777-across-the-obelisk-bernard-the-alchemist.json"
+    },
+    {
+      "igdb_id": 378904,
+      "game_name": "Across the Obelisk: Necropolis Of The Damned",
+      "file": "missing/A/378904-across-the-obelisk-necropolis-of-the-damned.json"
     },
     {
       "igdb_id": 357779,
@@ -16303,6 +16308,11 @@
       "file": "missing/A/326630-arima-lodge.json"
     },
     {
+      "igdb_id": 378898,
+      "game_name": "Arindama",
+      "file": "missing/A/378898-arindama.json"
+    },
+    {
       "igdb_id": 261787,
       "game_name": "Arinn",
       "file": "missing/A/261787-arinn.json"
@@ -20971,6 +20981,11 @@
       "igdb_id": 94738,
       "game_name": "Avatar Ninja!",
       "file": "missing/A/94738-avatar-ninja.json"
+    },
+    {
+      "igdb_id": 378930,
+      "game_name": "Avatar: Ice Wars",
+      "file": "missing/A/378930-avatar-ice-wars.json"
     },
     {
       "igdb_id": 210487,
@@ -29768,6 +29783,11 @@
       "file": "missing/B/102780-beware.json"
     },
     {
+      "igdb_id": 378883,
+      "game_name": "Beware of Dog",
+      "file": "missing/B/378883-beware-of-dog.json"
+    },
+    {
       "igdb_id": 262982,
       "game_name": "Beware of Falling Angels",
       "file": "missing/B/262982-beware-of-falling-angels.json"
@@ -29801,6 +29821,21 @@
       "igdb_id": 388701,
       "game_name": "Bewitching Boba",
       "file": "missing/B/388701-bewitching-boba.json"
+    },
+    {
+      "igdb_id": 378877,
+      "game_name": "Beyblade x Evobattle: Digital Beybooster Metal Coat",
+      "file": "missing/B/378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json"
+    },
+    {
+      "igdb_id": 378878,
+      "game_name": "Beyblade x Evobattle: Digital Beybooster Vol. 2",
+      "file": "missing/B/378878-beyblade-x-evobattle-digital-beybooster-vol-2.json"
+    },
+    {
+      "igdb_id": 378879,
+      "game_name": "Beyblade x Evobattle: Digital Beybooster Vol. 3",
+      "file": "missing/B/378879-beyblade-x-evobattle-digital-beybooster-vol-3.json"
     },
     {
       "igdb_id": 48033,
@@ -49923,6 +49958,11 @@
       "file": "missing/C/313120-cheestrings-quiz.json"
     },
     {
+      "igdb_id": 378899,
+      "game_name": "Cheesy Chaser",
+      "file": "missing/C/378899-cheesy-chaser.json"
+    },
+    {
       "igdb_id": 346050,
       "game_name": "Cheetah",
       "file": "missing/C/346050-cheetah.json"
@@ -50316,6 +50356,11 @@
       "igdb_id": 55247,
       "game_name": "Chessaria: The Tactical Adventure",
       "file": "missing/C/55247-chessaria-the-tactical-adventure.json"
+    },
+    {
+      "igdb_id": 378891,
+      "game_name": "Chesscape Room",
+      "file": "missing/C/378891-chesscape-room.json"
     },
     {
       "igdb_id": 78700,
@@ -92083,6 +92128,11 @@
       "file": "missing/E/363898-entropy.json"
     },
     {
+      "igdb_id": 378919,
+      "game_name": "Entropy graze",
+      "file": "missing/E/378919-entropy-graze.json"
+    },
+    {
       "igdb_id": 127887,
       "game_name": "Entropy: Zero",
       "file": "missing/E/127887-entropy-zero.json"
@@ -94231,6 +94281,11 @@
       "igdb_id": 356654,
       "game_name": "Euro Truck Simulator 2: Farm Machinery",
       "file": "missing/E/356654-euro-truck-simulator-2-farm-machinery.json"
+    },
+    {
+      "igdb_id": 378923,
+      "game_name": "Euro Truck Simulator 2: Forest Machinery",
+      "file": "missing/E/378923-euro-truck-simulator-2-forest-machinery.json"
     },
     {
       "igdb_id": 165013,
@@ -111828,6 +111883,21 @@
       "file": "missing/F/31623-funk-unplugged.json"
     },
     {
+      "igdb_id": 378880,
+      "game_name": "Funko Fusion Deluxe Edition: Fantastik Plastik Pack 1 - Monkey Assassin + Sam (Retail Only)",
+      "file": "missing/F/378880-funko-fusion-deluxe-edition-fantastik-plastik-pack-1-monkey-assassin-sam-retail-only.json"
+    },
+    {
+      "igdb_id": 378881,
+      "game_name": "Funko Fusion Deluxe Edition: Fantastik Plastik Pack 2 - Rocko Billy, Chet (Retails Only)",
+      "file": "missing/F/378881-funko-fusion-deluxe-edition-fantastik-plastik-pack-2-rocko-billy-chet-retails-only.json"
+    },
+    {
+      "igdb_id": 378882,
+      "game_name": "Funko Fusion Deluxe Edition: Fantastik Plastik Pack 4 - T-Bone + El Diablo (Retails Only)",
+      "file": "missing/F/378882-funko-fusion-deluxe-edition-fantastik-plastik-pack-4-t-bone-el-diablo-retails-only.json"
+    },
+    {
       "igdb_id": 39685,
       "game_name": "Funky Fish",
       "file": "missing/F/39685-funky-fish.json"
@@ -118626,6 +118696,11 @@
       "igdb_id": 89981,
       "game_name": "Go Guess",
       "file": "missing/G/89981-go-guess.json"
+    },
+    {
+      "igdb_id": 378910,
+      "game_name": "Go Hell Go Gou: Tsukiotoshitego",
+      "file": "missing/G/378910-go-hell-go-gou-tsukiotoshitego.json"
     },
     {
       "igdb_id": 210886,
@@ -157418,6 +157493,11 @@
       "file": "missing/K/238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json"
     },
     {
+      "igdb_id": 378917,
+      "game_name": "Kissrim",
+      "file": "missing/K/378917-kissrim.json"
+    },
+    {
       "igdb_id": 352228,
       "game_name": "Kisten Royale",
       "file": "missing/K/352228-kisten-royale.json"
@@ -169131,6 +169211,11 @@
       "igdb_id": 200193,
       "game_name": "Lost Horizon",
       "file": "missing/L/200193-lost-horizon.json"
+    },
+    {
+      "igdb_id": 378896,
+      "game_name": "Lost Host",
+      "file": "missing/L/378896-lost-host.json"
     },
     {
       "igdb_id": 125381,
@@ -189063,6 +189148,26 @@
       "file": "missing/M/412283-monster-hunter-stories-3-twisted-reflection-accessory-royal-monocle.json"
     },
     {
+      "igdb_id": 378869,
+      "game_name": "Monster Hunter Stories 3: Twisted Reflection - Goss Hairagy",
+      "file": "missing/M/378869-monster-hunter-stories-3-twisted-reflection-goss-hairagy.json"
+    },
+    {
+      "igdb_id": 378870,
+      "game_name": "Monster Hunter Stories 3: Twisted Reflection - Hellfire Tail",
+      "file": "missing/M/378870-monster-hunter-stories-3-twisted-reflection-hellfire-tail.json"
+    },
+    {
+      "igdb_id": 378874,
+      "game_name": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Thea: Canyne Ward",
+      "file": "missing/M/378874-monster-hunter-stories-3-twisted-reflection-layered-armor-for-thea-canyne-ward.json"
+    },
+    {
+      "igdb_id": 378872,
+      "game_name": "Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Relaxed-acabra",
+      "file": "missing/M/378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json"
+    },
+    {
       "igdb_id": 78629,
       "game_name": "Monster Hunter Tri: Classic Controller Pro Pack",
       "file": "missing/M/78629-monster-hunter-tri-classic-controller-pro-pack.json"
@@ -201718,6 +201823,11 @@
       "file": "missing/N/406088-night-school.json"
     },
     {
+      "igdb_id": 378911,
+      "game_name": "Night Seeker",
+      "file": "missing/N/378911-night-seeker.json"
+    },
+    {
       "igdb_id": 366829,
       "game_name": "Night Shift: 1999",
       "file": "missing/N/366829-night-shift-1999.json"
@@ -203093,6 +203203,11 @@
       "file": "missing/N/411561-nioh-3-hell-rising.json"
     },
     {
+      "igdb_id": 378922,
+      "game_name": "Nion Forge",
+      "file": "missing/N/378922-nion-forge.json"
+    },
+    {
       "igdb_id": 189161,
       "game_name": "Nios",
       "file": "missing/N/189161-nios.json"
@@ -203951,6 +204066,11 @@
       "igdb_id": 182463,
       "game_name": "Nodrog's Fortress",
       "file": "missing/N/182463-nodrogs-fortress.json"
+    },
+    {
+      "igdb_id": 378906,
+      "game_name": "Nodwar",
+      "file": "missing/N/378906-nodwar.json"
     },
     {
       "igdb_id": 102484,
@@ -212733,6 +212853,11 @@
       "file": "missing/O/301251-owe-money-pay-money.json"
     },
     {
+      "igdb_id": 378912,
+      "game_name": "Owl Bounce",
+      "file": "missing/O/378912-owl-bounce.json"
+    },
+    {
       "igdb_id": 359432,
       "game_name": "Owl Glider Adventure",
       "file": "missing/O/359432-owl-glider-adventure.json"
@@ -218453,6 +218578,11 @@
       "file": "missing/P/396924-pets-and-friends-easter-bundle.json"
     },
     {
+      "igdb_id": 378873,
+      "game_name": "Pets and Friends: Christmas Pack",
+      "file": "missing/P/378873-pets-and-friends-christmas-pack.json"
+    },
+    {
       "igdb_id": 400207,
       "game_name": "Pets and Friends: Cuties Bundle",
       "file": "missing/P/400207-pets-and-friends-cuties-bundle.json"
@@ -222908,6 +223038,11 @@
       "file": "missing/P/26522-planet-r-12.json"
     },
     {
+      "igdb_id": 378862,
+      "game_name": "Planet Romance Girls: Conquer the Zodiac Horoscope",
+      "file": "missing/P/378862-planet-romance-girls-conquer-the-zodiac-horoscope.json"
+    },
+    {
       "igdb_id": 292556,
       "game_name": "Planet Royale",
       "file": "missing/P/292556-planet-royale.json"
@@ -226386,6 +226521,16 @@
       "igdb_id": 103523,
       "game_name": "Poptropica Worlds",
       "file": "missing/P/103523-poptropica-worlds.json"
+    },
+    {
+      "igdb_id": 378876,
+      "game_name": "Popucom x Arknights Collab Outfit Pack",
+      "file": "missing/P/378876-popucom-x-arknights-collab-outfit-pack.json"
+    },
+    {
+      "igdb_id": 378875,
+      "game_name": "Popucom: Too Many Clothes Pack",
+      "file": "missing/P/378875-popucom-too-many-clothes-pack.json"
     },
     {
       "igdb_id": 387497,
@@ -232526,6 +232671,26 @@
       "igdb_id": 32936,
       "game_name": "Puzzle Galaxies",
       "file": "missing/P/32936-puzzle-galaxies.json"
+    },
+    {
+      "igdb_id": 378863,
+      "game_name": "Puzzle Galaxy: Beautiful Paintings - 47 new puzzles",
+      "file": "missing/P/378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json"
+    },
+    {
+      "igdb_id": 378866,
+      "game_name": "Puzzle Galaxy: Complete Bundle",
+      "file": "missing/P/378866-puzzle-galaxy-complete-bundle.json"
+    },
+    {
+      "igdb_id": 378864,
+      "game_name": "Puzzle Galaxy: Moody Pics - 57 new puzzles",
+      "file": "missing/P/378864-puzzle-galaxy-moody-pics-57-new-puzzles.json"
+    },
+    {
+      "igdb_id": 378865,
+      "game_name": "Puzzle Galaxy: Pet Show - 57 new puzzles",
+      "file": "missing/P/378865-puzzle-galaxy-pet-show-57-new-puzzles.json"
     },
     {
       "igdb_id": 263775,
@@ -240483,6 +240648,11 @@
       "file": "missing/R/278968-renaissance-kingdom-wars.json"
     },
     {
+      "igdb_id": 378901,
+      "game_name": "Renard's Skin Care Routine",
+      "file": "missing/R/378901-renards-skin-care-routine.json"
+    },
+    {
       "igdb_id": 120925,
       "game_name": "Rencia",
       "file": "missing/R/120925-rencia.json"
@@ -241006,6 +241176,11 @@
       "igdb_id": 77341,
       "game_name": "Resident Evil Mercenaries Vs.",
       "file": "missing/R/77341-resident-evil-mercenaries-vs.json"
+    },
+    {
+      "igdb_id": 378871,
+      "game_name": "Resident Evil Requiem: Deluxe Kit",
+      "file": "missing/R/378871-resident-evil-requiem-deluxe-kit.json"
     },
     {
       "igdb_id": 392779,
@@ -248313,6 +248488,11 @@
       "file": "missing/R/244269-rubber-royale.json"
     },
     {
+      "igdb_id": 378890,
+      "game_name": "Rubbish Island",
+      "file": "missing/R/378890-rubbish-island.json"
+    },
+    {
       "igdb_id": 359414,
       "game_name": "Rubble the Engineer",
       "file": "missing/R/359414-rubble-the-engineer.json"
@@ -249396,6 +249576,11 @@
       "igdb_id": 54352,
       "game_name": "Rush for the Bomb",
       "file": "missing/R/54352-rush-for-the-bomb.json"
+    },
+    {
+      "igdb_id": 378895,
+      "game_name": "Rush Grotto",
+      "file": "missing/R/378895-rush-grotto.json"
     },
     {
       "igdb_id": 220878,
@@ -266813,6 +266998,11 @@
       "file": "missing/S/396422-smashmak.json"
     },
     {
+      "igdb_id": 378902,
+      "game_name": "Smashometry",
+      "file": "missing/S/378902-smashometry.json"
+    },
+    {
       "igdb_id": 178088,
       "game_name": "Smashpunks",
       "file": "missing/S/178088-smashpunks.json"
@@ -281868,6 +282058,11 @@
       "file": "missing/S/246426-stone-wheel.json"
     },
     {
+      "igdb_id": 378924,
+      "game_name": "Stonebound",
+      "file": "missing/S/378924-stonebound.json"
+    },
+    {
       "igdb_id": 352202,
       "game_name": "Stoned",
       "file": "missing/S/352202-stoned.json"
@@ -291338,6 +291533,11 @@
       "file": "missing/S/255751-sweet-sort.json"
     },
     {
+      "igdb_id": 378897,
+      "game_name": "Sweet Starlight Sisters",
+      "file": "missing/S/378897-sweet-starlight-sisters.json"
+    },
+    {
       "igdb_id": 195196,
       "game_name": "Sweet Surge",
       "file": "missing/S/195196-sweet-surge.json"
@@ -294248,6 +294448,11 @@
       "file": "missing/T/127249-tales-of-beasteria.json"
     },
     {
+      "igdb_id": 378867,
+      "game_name": "Tales of Berseria Remastered: Super Growth Support Herb Set",
+      "file": "missing/T/378867-tales-of-berseria-remastered-super-growth-support-herb-set.json"
+    },
+    {
       "igdb_id": 1203,
       "game_name": "Tales of Destiny 2",
       "file": "missing/T/1203-tales-of-destiny-2.json"
@@ -296296,6 +296501,11 @@
       "igdb_id": 238488,
       "game_name": "Tavern Talk",
       "file": "missing/T/238488-tavern-talk.json"
+    },
+    {
+      "igdb_id": 378868,
+      "game_name": "Tavern Talk + Pirate Palooza (Costume AOC)",
+      "file": "missing/T/378868-tavern-talk-pirate-palooza-costume-aoc.json"
     },
     {
       "igdb_id": 391758,
@@ -299826,6 +300036,11 @@
       "igdb_id": 240241,
       "game_name": "The Ape Painting",
       "file": "missing/T/240241-the-ape-painting.json"
+    },
+    {
+      "igdb_id": 378905,
+      "game_name": "The Aperture Dilemma",
+      "file": "missing/T/378905-the-aperture-dilemma.json"
     },
     {
       "igdb_id": 177571,
@@ -309346,6 +309561,11 @@
       "igdb_id": 100730,
       "game_name": "The Most Addicting Sheep Game",
       "file": "missing/T/100730-the-most-addicting-sheep-game.json"
+    },
+    {
+      "igdb_id": 378887,
+      "game_name": "The Most Annoying Game Ever",
+      "file": "missing/T/378887-the-most-annoying-game-ever.json"
     },
     {
       "igdb_id": 221758,
@@ -329108,6 +329328,11 @@
       "file": "missing/T/89185-tripeaks-solitaire-card-game.json"
     },
     {
+      "igdb_id": 378920,
+      "game_name": "Triphammer",
+      "file": "missing/T/378920-triphammer.json"
+    },
+    {
       "igdb_id": 277861,
       "game_name": "Triple",
       "file": "missing/T/277861-triple.json"
@@ -334511,6 +334736,31 @@
       "igdb_id": 251594,
       "game_name": "Unimime: Unicycle Madness",
       "file": "missing/U/251594-unimime-unicycle-madness.json"
+    },
+    {
+      "igdb_id": 378908,
+      "game_name": "Uninvited",
+      "file": "missing/U/378908-uninvited.json"
+    },
+    {
+      "igdb_id": 378909,
+      "game_name": "Uninvited",
+      "file": "missing/U/378909-uninvited.json"
+    },
+    {
+      "igdb_id": 378913,
+      "game_name": "Uninvited",
+      "file": "missing/U/378913-uninvited.json"
+    },
+    {
+      "igdb_id": 378914,
+      "game_name": "Uninvited",
+      "file": "missing/U/378914-uninvited.json"
+    },
+    {
+      "igdb_id": 378915,
+      "game_name": "Uninvited",
+      "file": "missing/U/378915-uninvited.json"
     },
     {
       "igdb_id": 35912,
