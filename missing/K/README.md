@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwie vs. Desert | 290913 | [290913-kiwie-vs-desert.json](./290913-kiwie-vs-desert.json) |
 | KiwiFlight | 306707 | [306707-kiwiflight.json](./306707-kiwiflight.json) |
 | Kiwis Can't Fly | 306691 | [306691-kiwis-cant-fly.json](./306691-kiwis-cant-fly.json) |
+| Kizuna Kirameku Koi Iroha | 339373 | [339373-kizuna-kirameku-koi-iroha.json](./339373-kizuna-kirameku-koi-iroha.json) |
 | Kkokko Industry | 371981 | [371981-kkokko-industry.json](./371981-kkokko-industry.json) |
 | KKuTuDotNet | 143754 | [143754-kkutudotnet.json](./143754-kkutudotnet.json) |
 | Klabi | 33029 | [33029-klabi.json](./33029-klabi.json) |
