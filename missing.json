@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T20:11:32.565Z",
-  "total_missing": 75216,
+  "generated_at": "2026-09-15T20:18:20.749Z",
+  "total_missing": 75266,
   "games": [
     {
       "igdb_id": 306086,
@@ -131208,6 +131208,11 @@
       "file": "missing/H/301810-h-girl-4.json"
     },
     {
+      "igdb_id": 340474,
+      "game_name": "H Index",
+      "file": "missing/H/340474-h-index.json"
+    },
+    {
       "igdb_id": 91338,
       "game_name": "h Simply Go",
       "file": "missing/H/91338-h-simply-go.json"
@@ -137418,6 +137423,21 @@
       "file": "missing/H/378807-hentai-puzzle-xxx.json"
     },
     {
+      "igdb_id": 340448,
+      "game_name": "Hentai Rika",
+      "file": "missing/H/340448-hentai-rika.json"
+    },
+    {
+      "igdb_id": 340449,
+      "game_name": "Hentai Sally",
+      "file": "missing/H/340449-hentai-sally.json"
+    },
+    {
+      "igdb_id": 340450,
+      "game_name": "Hentai Senpai: Goth Feet",
+      "file": "missing/H/340450-hentai-senpai-goth-feet.json"
+    },
+    {
       "igdb_id": 222284,
       "game_name": "Hentai Sexy Nurses",
       "file": "missing/H/222284-hentai-sexy-nurses.json"
@@ -137446,6 +137466,11 @@
       "igdb_id": 338002,
       "game_name": "Hentai Shop Simulator",
       "file": "missing/H/338002-hentai-shop-simulator.json"
+    },
+    {
+      "igdb_id": 340451,
+      "game_name": "Hentai Slash",
+      "file": "missing/H/340451-hentai-slash.json"
     },
     {
       "igdb_id": 315868,
@@ -137483,6 +137508,11 @@
       "file": "missing/H/274475-hentai-stars-ultimate-edition.json"
     },
     {
+      "igdb_id": 340452,
+      "game_name": "Hentai Step Milf",
+      "file": "missing/H/340452-hentai-step-milf.json"
+    },
+    {
       "igdb_id": 146282,
       "game_name": "Hentai Sudoku",
       "file": "missing/H/146282-hentai-sudoku.json"
@@ -137503,6 +137533,11 @@
       "file": "missing/H/389605-hentai-tales-breeding-order-2050.json"
     },
     {
+      "igdb_id": 340453,
+      "game_name": "Hentai Tales: Bunny Hole",
+      "file": "missing/H/340453-hentai-tales-bunny-hole.json"
+    },
+    {
       "igdb_id": 389607,
       "game_name": "Hentai Tales: Creampie Cuckold Wife",
       "file": "missing/H/389607-hentai-tales-creampie-cuckold-wife.json"
@@ -137511,6 +137546,26 @@
       "igdb_id": 389606,
       "game_name": "Hentai Tales: Office Sex Handler",
       "file": "missing/H/389606-hentai-tales-office-sex-handler.json"
+    },
+    {
+      "igdb_id": 340454,
+      "game_name": "Hentai Tales: Saimin Kouhai",
+      "file": "missing/H/340454-hentai-tales-saimin-kouhai.json"
+    },
+    {
+      "igdb_id": 340455,
+      "game_name": "Hentai Tales: Scent Of Mixed",
+      "file": "missing/H/340455-hentai-tales-scent-of-mixed.json"
+    },
+    {
+      "igdb_id": 340456,
+      "game_name": "Hentai Tales: Taboo Sisters",
+      "file": "missing/H/340456-hentai-tales-taboo-sisters.json"
+    },
+    {
+      "igdb_id": 340457,
+      "game_name": "Hentai Tales: The Brave and Demon",
+      "file": "missing/H/340457-hentai-tales-the-brave-and-demon.json"
     },
     {
       "igdb_id": 389604,
@@ -137523,9 +137578,19 @@
       "file": "missing/H/401532-hentai-tales-triangle-that-wants-me-all.json"
     },
     {
+      "igdb_id": 340458,
+      "game_name": "Hentai Uni 3",
+      "file": "missing/H/340458-hentai-uni-3.json"
+    },
+    {
       "igdb_id": 367510,
       "game_name": "Hentai Unlimited",
       "file": "missing/H/367510-hentai-unlimited.json"
+    },
+    {
+      "igdb_id": 340459,
+      "game_name": "Hentai USSR",
+      "file": "missing/H/340459-hentai-ussr.json"
     },
     {
       "igdb_id": 147408,
@@ -137553,9 +137618,34 @@
       "file": "missing/H/296949-hentai-witch.json"
     },
     {
+      "igdb_id": 340460,
+      "game_name": "Hentai World Bikini",
+      "file": "missing/H/340460-hentai-world-bikini.json"
+    },
+    {
       "igdb_id": 349956,
       "game_name": "Hentai World Bunny",
       "file": "missing/H/349956-hentai-world-bunny.json"
+    },
+    {
+      "igdb_id": 340461,
+      "game_name": "Hentai World Festival",
+      "file": "missing/H/340461-hentai-world-festival.json"
+    },
+    {
+      "igdb_id": 340462,
+      "game_name": "Hentai World Slice",
+      "file": "missing/H/340462-hentai-world-slice.json"
+    },
+    {
+      "igdb_id": 340463,
+      "game_name": "Hentai World Succubus",
+      "file": "missing/H/340463-hentai-world-succubus.json"
+    },
+    {
+      "igdb_id": 340464,
+      "game_name": "Hentai World Winter",
+      "file": "missing/H/340464-hentai-world-winter.json"
     },
     {
       "igdb_id": 259578,
@@ -137788,6 +137878,11 @@
       "file": "missing/H/190138-hereford-1642.json"
     },
     {
+      "igdb_id": 340465,
+      "game_name": "Heresis",
+      "file": "missing/H/340465-heresis.json"
+    },
+    {
       "igdb_id": 34240,
       "game_name": "Heresy",
       "file": "missing/H/34240-heresy.json"
@@ -137941,6 +138036,11 @@
       "igdb_id": 173232,
       "game_name": "Hero or Foe",
       "file": "missing/H/173232-hero-or-foe.json"
+    },
+    {
+      "igdb_id": 340466,
+      "game_name": "Hero Pack",
+      "file": "missing/H/340466-hero-pack.json"
     },
     {
       "igdb_id": 156651,
@@ -138678,9 +138778,19 @@
       "file": "missing/H/353958-hexa-road.json"
     },
     {
+      "igdb_id": 340468,
+      "game_name": "Hexa TD: Free Game",
+      "file": "missing/H/340468-hexa-td-free-game.json"
+    },
+    {
       "igdb_id": 393499,
       "game_name": "Hexa's Gone",
       "file": "missing/H/393499-hexas-gone.json"
+    },
+    {
+      "igdb_id": 340467,
+      "game_name": "HexaBeat!",
+      "file": "missing/H/340467-hexabeat.json"
     },
     {
       "igdb_id": 374634,
@@ -138831,6 +138941,11 @@
       "igdb_id": 68621,
       "game_name": "Hexement",
       "file": "missing/H/68621-hexement.json"
+    },
+    {
+      "igdb_id": 340469,
+      "game_name": "HexenHold",
+      "file": "missing/H/340469-hexenhold.json"
     },
     {
       "igdb_id": 147416,
@@ -139148,6 +139263,11 @@
       "file": "missing/H/108-hidden-and-dangerous-devils-bridge.json"
     },
     {
+      "igdb_id": 340470,
+      "game_name": "Hidden Among Thieves",
+      "file": "missing/H/340470-hidden-among-thieves.json"
+    },
+    {
       "igdb_id": 289343,
       "game_name": "Hidden Animals Find : Detective Neko",
       "file": "missing/H/289343-hidden-animals-find-detective-neko.json"
@@ -139206,6 +139326,16 @@
       "igdb_id": 244274,
       "game_name": "Hidden Cats in Town",
       "file": "missing/H/244274-hidden-cats-in-town.json"
+    },
+    {
+      "igdb_id": 340471,
+      "game_name": "Hidden Cats of Mayan",
+      "file": "missing/H/340471-hidden-cats-of-mayan.json"
+    },
+    {
+      "igdb_id": 340472,
+      "game_name": "Hidden Cats of Shanghai",
+      "file": "missing/H/340472-hidden-cats-of-shanghai.json"
     },
     {
       "igdb_id": 412261,
@@ -139696,6 +139826,11 @@
       "igdb_id": 258194,
       "game_name": "Hidden Series 1",
       "file": "missing/H/258194-hidden-series-1.json"
+    },
+    {
+      "igdb_id": 340473,
+      "game_name": "Hidden Space Station Top-Down 3D",
+      "file": "missing/H/340473-hidden-space-station-top-down-3d.json"
     },
     {
       "igdb_id": 269007,
@@ -141168,6 +141303,11 @@
       "file": "missing/H/244996-hlina.json"
     },
     {
+      "igdb_id": 340476,
+      "game_name": "Ho-Ho-Maze!",
+      "file": "missing/H/340476-ho-ho-maze.json"
+    },
+    {
       "igdb_id": 400216,
       "game_name": "Ho'omana'o Mau: A Somber Daydream",
       "file": "missing/H/400216-hoomanao-mau-a-somber-daydream.json"
@@ -141281,6 +141421,11 @@
       "igdb_id": 15504,
       "game_name": "Hockey League Simulator II",
       "file": "missing/H/15504-hockey-league-simulator-ii.json"
+    },
+    {
+      "igdb_id": 340475,
+      "game_name": "Hockey Legacy Manager 25",
+      "file": "missing/H/340475-hockey-legacy-manager-25.json"
     },
     {
       "igdb_id": 117837,
@@ -141518,6 +141663,11 @@
       "file": "missing/H/362852-holiday-in-europe-netherlands-dreams-collectors-edition.json"
     },
     {
+      "igdb_id": 340477,
+      "game_name": "Holiday in Europe: Wonders of Germany - Collector's Edition",
+      "file": "missing/H/340477-holiday-in-europe-wonders-of-germany-collectors-edition.json"
+    },
+    {
       "igdb_id": 215684,
       "game_name": "Holiday Jigsaw: Christmas 2",
       "file": "missing/H/215684-holiday-jigsaw-christmas-2.json"
@@ -141718,6 +141868,11 @@
       "file": "missing/H/28897-holobunnies-the-bittersweet-adventure.json"
     },
     {
+      "igdb_id": 340478,
+      "game_name": "HoloCall: Send Your Cheers!",
+      "file": "missing/H/340478-holocall-send-your-cheers.json"
+    },
+    {
       "igdb_id": 348243,
       "game_name": "Hololive Gorogoro Mountain",
       "file": "missing/H/348243-hololive-gorogoro-mountain.json"
@@ -141741,6 +141896,11 @@
       "igdb_id": 361794,
       "game_name": "HoloRun",
       "file": "missing/H/361794-holorun.json"
+    },
+    {
+      "igdb_id": 340479,
+      "game_name": "HoloSona5",
+      "file": "missing/H/340479-holosona5.json"
     },
     {
       "igdb_id": 210245,
@@ -142693,6 +142853,11 @@
       "file": "missing/H/206945-hop-for-the-best.json"
     },
     {
+      "igdb_id": 340481,
+      "game_name": "Hop N' Swap",
+      "file": "missing/H/340481-hop-n-swap.json"
+    },
+    {
       "igdb_id": 149014,
       "game_name": "Hop Skip Jump",
       "file": "missing/H/149014-hop-skip-jump.json"
@@ -142716,6 +142881,11 @@
       "igdb_id": 43182,
       "game_name": "Hop Step Sing! Kiss x Kiss x Kiss",
       "file": "missing/H/43182-hop-step-sing-kiss-x-kiss-x-kiss.json"
+    },
+    {
+      "igdb_id": 340483,
+      "game_name": "Hop Step Sing! Summer Live 2023",
+      "file": "missing/H/340483-hop-step-sing-summer-live-2023.json"
     },
     {
       "igdb_id": 254792,
@@ -142796,6 +142966,11 @@
       "igdb_id": 238519,
       "game_name": "Hope's End",
       "file": "missing/H/238519-hopes-end.json"
+    },
+    {
+      "igdb_id": 340480,
+      "game_name": "Hopeguard",
+      "file": "missing/H/340480-hopeguard.json"
     },
     {
       "igdb_id": 211205,
@@ -143021,6 +143196,11 @@
       "igdb_id": 156628,
       "game_name": "Horny Honey",
       "file": "missing/H/156628-horny-honey.json"
+    },
+    {
+      "igdb_id": 340484,
+      "game_name": "Horny Housewives 2",
+      "file": "missing/H/340484-horny-housewives-2.json"
     },
     {
       "igdb_id": 368046,
@@ -143306,6 +143486,11 @@
       "igdb_id": 395687,
       "game_name": "Horticular: Frozen Frontier",
       "file": "missing/H/395687-horticular-frozen-frontier.json"
+    },
+    {
+      "igdb_id": 340485,
+      "game_name": "Horus Idle",
+      "file": "missing/H/340485-horus-idle.json"
     },
     {
       "igdb_id": 314032,
@@ -143603,6 +143788,11 @@
       "file": "missing/H/101570-hot-shots-soccer.json"
     },
     {
+      "igdb_id": 340487,
+      "game_name": "Hot Slice: Lust Exposed",
+      "file": "missing/H/340487-hot-slice-lust-exposed.json"
+    },
+    {
       "igdb_id": 152920,
       "game_name": "Hot Slide",
       "file": "missing/H/152920-hot-slide.json"
@@ -143846,6 +144036,11 @@
       "igdb_id": 333351,
       "game_name": "Hotel Tales",
       "file": "missing/H/333351-hotel-tales.json"
+    },
+    {
+      "igdb_id": 340486,
+      "game_name": "Hotel Tome ws",
+      "file": "missing/H/340486-hotel-tome-ws.json"
     },
     {
       "igdb_id": 102406,
@@ -144198,6 +144393,11 @@
       "file": "missing/H/18903-hover-junkers.json"
     },
     {
+      "igdb_id": 340488,
+      "game_name": "Hover Rev Hispeed Burst",
+      "file": "missing/H/340488-hover-rev-hispeed-burst.json"
+    },
+    {
       "igdb_id": 244796,
       "game_name": "Hover Rider",
       "file": "missing/H/244796-hover-rider.json"
@@ -144336,6 +144536,31 @@
       "igdb_id": 250353,
       "game_name": "How Many Deaths to Clear?",
       "file": "missing/H/250353-how-many-deaths-to-clear.json"
+    },
+    {
+      "igdb_id": 340489,
+      "game_name": "How Much Items: Animals",
+      "file": "missing/H/340489-how-much-items-animals.json"
+    },
+    {
+      "igdb_id": 340490,
+      "game_name": "How Much Items: Fishes",
+      "file": "missing/H/340490-how-much-items-fishes.json"
+    },
+    {
+      "igdb_id": 340491,
+      "game_name": "How Much Items: Food",
+      "file": "missing/H/340491-how-much-items-food.json"
+    },
+    {
+      "igdb_id": 340492,
+      "game_name": "How Much Items: Vegetation",
+      "file": "missing/H/340492-how-much-items-vegetation.json"
+    },
+    {
+      "igdb_id": 340493,
+      "game_name": "How Much Items: Weapon",
+      "file": "missing/H/340493-how-much-items-weapon.json"
     },
     {
       "igdb_id": 373080,
@@ -145338,6 +145563,11 @@
       "file": "missing/H/409533-hunter-desert-simulator-sniper-rifle.json"
     },
     {
+      "igdb_id": 340494,
+      "game_name": "Hunter Hitman",
+      "file": "missing/H/340494-hunter-hitman.json"
+    },
+    {
       "igdb_id": 200113,
       "game_name": "Hunter Island: Monsters & Dragons",
       "file": "missing/H/200113-hunter-island-monsters-and-dragons.json"
@@ -146128,9 +146358,24 @@
       "file": "missing/H/89920-hyperdimension-neptunia-producing-perfection-limited-edition.json"
     },
     {
+      "igdb_id": 340495,
+      "game_name": "Hyperdrive Horizon",
+      "file": "missing/H/340495-hyperdrive-horizon.json"
+    },
+    {
+      "igdb_id": 340496,
+      "game_name": "Hyperfight 2",
+      "file": "missing/H/340496-hyperfight-2.json"
+    },
+    {
       "igdb_id": 355562,
       "game_name": "Hyperflex Ultra",
       "file": "missing/H/355562-hyperflex-ultra.json"
+    },
+    {
+      "igdb_id": 340497,
+      "game_name": "HyperFlight",
+      "file": "missing/H/340497-hyperflight.json"
     },
     {
       "igdb_id": 87985,
@@ -189261,6 +189506,11 @@
       "igdb_id": 340415,
       "game_name": "Meltylancer Re-inforce",
       "file": "missing/M/340415-meltylancer-re-inforce.json"
+    },
+    {
+      "igdb_id": 340482,
+      "game_name": "Meltylancer Re-inforce: Special Edition",
+      "file": "missing/M/340482-meltylancer-re-inforce-special-edition.json"
     },
     {
       "igdb_id": 340399,
