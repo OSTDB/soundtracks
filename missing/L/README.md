@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Licca-chan ni Naritai! | 58848 | [58848-licca-chan-ni-naritai.json](./58848-licca-chan-ni-naritai.json) |
 | Lich Legend | 159238 | [159238-lich-legend.json](./159238-lich-legend.json) |
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
+| Lichgate: Tower Survivor | 357846 | [357846-lichgate-tower-survivor.json](./357846-lichgate-tower-survivor.json) |
 | Lichtung | 415105 | [415105-lichtung.json](./415105-lichtung.json) |
 | Lickspittles | 392814 | [392814-lickspittles.json](./392814-lickspittles.json) |
 | Lidar Exploration Program | 291468 | [291468-lidar-exploration-program.json](./291468-lidar-exploration-program.json) |
@@ -1120,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light the Way | 248286 | [248286-light-the-way.json](./248286-light-the-way.json) |
 | Light the World | 165628 | [165628-light-the-world.json](./165628-light-the-world.json) |
 | Light Tomb | 358937 | [358937-light-tomb.json](./358937-light-tomb.json) |
+| Light Towers | 357847 | [357847-light-towers.json](./357847-light-towers.json) |
 | Light Up the Dark | 404960 | [404960-light-up-the-dark.json](./404960-light-up-the-dark.json) |
 | Light Up the Room | 161371 | [161371-light-up-the-room.json](./161371-light-up-the-room.json) |
 | Light-Bringer | 360644 | [360644-light-bringer.json](./360644-light-bringer.json) |
