@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Farming | 259583 | [259583-call-of-farming.json](./259583-call-of-farming.json) |
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
 | Call of Fries | 116977 | [116977-call-of-fries.json](./116977-call-of-fries.json) |
+| Call of Hentai Neko | 367511 | [367511-call-of-hentai-neko.json](./367511-call-of-hentai-neko.json) |
 | Call of Juarez | 429 | [429-call-of-juarez.json](./429-call-of-juarez.json) |
 | Call of Myth | 153969 | [153969-call-of-myth.json](./153969-call-of-myth.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
@@ -1056,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
 | Cave Oasis at Shylake | 380423 | [380423-cave-oasis-at-shylake.json](./380423-cave-oasis-at-shylake.json) |
 | Cave of Avarice | 166680 | [166680-cave-of-avarice.json](./166680-cave-of-avarice.json) |
+| Cave of Gurg | 367488 | [367488-cave-of-gurg.json](./367488-cave-of-gurg.json) |
 | Cave of Illusions | 125116 | [125116-cave-of-illusions.json](./125116-cave-of-illusions.json) |
 | Cave of the Skinwalker | 358856 | [358856-cave-of-the-skinwalker.json](./358856-cave-of-the-skinwalker.json) |
 | Cave of Treats | 408803 | [408803-cave-of-treats.json](./408803-cave-of-treats.json) |
@@ -1380,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase: Animatronics | 232697 | [232697-chase-animatronics.json](./232697-chase-animatronics.json) |
 | Chase: Hollywood Stunt Driver | 5774 | [5774-chase-hollywood-stunt-driver.json](./5774-chase-hollywood-stunt-driver.json) |
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
+| Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
 | ChatBBT | 291451 | [291451-chatbbt.json](./291451-chatbbt.json) |
@@ -3852,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepshow | 272838 | [272838-creepshow.json](./272838-creepshow.json) |
 | Creepslore | 195165 | [195165-creepslore.json](./195165-creepslore.json) |
 | Creepy & Cute Pixel Plushy Craft | 336900 | [336900-creepy-and-cute-pixel-plushy-craft.json](./336900-creepy-and-cute-pixel-plushy-craft.json) |
+| Creepy Camping | 367515 | [367515-creepy-camping.json](./367515-creepy-camping.json) |
 | Creepy Claus | 322373 | [322373-creepy-claus.json](./322373-creepy-claus.json) |
 | Creepy Corridors | 23902 | [23902-creepy-corridors.json](./23902-creepy-corridors.json) |
 | Creepy Dungeons Heroes | 226744 | [226744-creepy-dungeons-heroes.json](./226744-creepy-dungeons-heroes.json) |
@@ -3928,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Hotel | 121645 | [121645-crimson-hotel.json](./121645-crimson-hotel.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
 | Crimson Katana Exa Label | 365112 | [365112-crimson-katana-exa-label.json](./365112-crimson-katana-exa-label.json) |
+| Crimson Knight | 367525 | [367525-crimson-knight.json](./367525-crimson-knight.json) |
 | Crimson Memories | 68887 | [68887-crimson-memories.json](./68887-crimson-memories.json) |
 | Crimson Moon | 389428 | [389428-crimson-moon.json](./389428-crimson-moon.json) |
 | Crimson Realms: Relics of the Forgotten World | 389959 | [389959-crimson-realms-relics-of-the-forgotten-world.json](./389959-crimson-realms-relics-of-the-forgotten-world.json) |
