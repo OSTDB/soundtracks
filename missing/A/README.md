@@ -1827,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Hatchery Island | 280801 | [280801-angry-birds-hatchery-island.json](./280801-angry-birds-hatchery-island.json) |
 | Angry Birds Kingdom | 240247 | [240247-angry-birds-kingdom.json](./240247-angry-birds-kingdom.json) |
 | Angry Birds Racing | 226776 | [226776-angry-birds-racing.json](./226776-angry-birds-racing.json) |
+| Angry Birds Refresh | 357348 | [357348-angry-birds-refresh.json](./357348-angry-birds-refresh.json) |
 | Angry Birds Seasons HD | 102139 | [102139-angry-birds-seasons-hd.json](./102139-angry-birds-seasons-hd.json) |
 | Angry Birds Star Wars II | 19272 | [19272-angry-birds-star-wars-ii.json](./19272-angry-birds-star-wars-ii.json) |
 | Angry Brainless Bovines | 140607 | [140607-angry-brainless-bovines.json](./140607-angry-brainless-bovines.json) |
@@ -2351,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
 | Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
 | Aquanaut's Holiday: Hidden Memories | 7271 | [7271-aquanauts-holiday-hidden-memories.json](./7271-aquanauts-holiday-hidden-memories.json) |
+| Aquanima | 357313 | [357313-aquanima.json](./357313-aquanima.json) |
 | Aquanoid | 46629 | [46629-aquanoid.json](./46629-aquanoid.json) |
 | Aquanore | 376451 | [376451-aquanore.json](./376451-aquanore.json) |
 | Aquapark io: Animals DLC | 263524 | [263524-aquapark-io-animals-dlc.json](./263524-aquapark-io-animals-dlc.json) |
@@ -2729,7 +2731,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argh! Earthlings! | 175435 | [175435-argh-earthlings.json](./175435-argh-earthlings.json) |
 | Arghh, There's a Killer Chasing Me! | 188114 | [188114-arghh-theres-a-killer-chasing-me.json](./188114-arghh-theres-a-killer-chasing-me.json) |
 | Argonauts Agency: Ares Games | 360665 | [360665-argonauts-agency-ares-games.json](./360665-argonauts-agency-ares-games.json) |
+| Argonauts Agency: Captive of Circe - Collectors Edition | 357334 | [357334-argonauts-agency-captive-of-circe-collectors-edition.json](./357334-argonauts-agency-captive-of-circe-collectors-edition.json) |
 | Argonauts Agency: Chair of Hephaestus | 188084 | [188084-argonauts-agency-chair-of-hephaestus.json](./188084-argonauts-agency-chair-of-hephaestus.json) |
+| Argonauts Agency: Chair of Hephaestus - Collector's Edition | 357335 | [357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json](./357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json) |
+| Argonauts Agency: Glove of Midas - Collector's Edition | 357336 | [357336-argonauts-agency-glove-of-midas-collectors-edition.json](./357336-argonauts-agency-glove-of-midas-collectors-edition.json) |
 | Argonauts Agency: Pandora's Box | 117094 | [117094-argonauts-agency-pandoras-box.json](./117094-argonauts-agency-pandoras-box.json) |
 | Argonauts Agency: When Spring Withered | 412260 | [412260-argonauts-agency-when-spring-withered.json](./412260-argonauts-agency-when-spring-withered.json) |
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
