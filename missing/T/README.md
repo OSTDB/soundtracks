@@ -3091,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
 | The Library of Babble | 121620 | [121620-the-library-of-babble.json](./121620-the-library-of-babble.json) |
 | The Life and Suffering of Sir Brante | 138871 | [138871-the-life-and-suffering-of-sir-brante.json](./138871-the-life-and-suffering-of-sir-brante.json) |
+| The Life and Times of Daniel Vastberaden | 368571 | [368571-the-life-and-times-of-daniel-vastberaden.json](./368571-the-life-and-times-of-daniel-vastberaden.json) |
 | The Life of Me | 314662 | [314662-the-life-of-me.json](./314662-the-life-of-me.json) |
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
 | The Lifetime | 218473 | [218473-the-lifetime.json](./218473-the-lifetime.json) |
@@ -5674,6 +5675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
 | Tiny Barbarian DX | 16693 | [16693-tiny-barbarian-dx.json](./16693-tiny-barbarian-dx.json) |
 | Tiny Biomes | 385071 | [385071-tiny-biomes.json](./385071-tiny-biomes.json) |
+| Tiny Boxes | 368574 | [368574-tiny-boxes.json](./368574-tiny-boxes.json) |
 | Tiny Brains | 7649 | [7649-tiny-brains.json](./7649-tiny-brains.json) |
 | Tiny Bunny | 131653 | [131653-tiny-bunny.json](./131653-tiny-bunny.json) |
 | Tiny Candy Guardian | 264034 | [264034-tiny-candy-guardian.json](./264034-tiny-candy-guardian.json) |
@@ -7466,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico Trilogy | 53860 | [53860-tropico-trilogy.json](./53860-tropico-trilogy.json) |
 | Tropico: Paradise Island | 11029 | [11029-tropico-paradise-island.json](./11029-tropico-paradise-island.json) |
 | Tropix 2: Quest for the Golden Banana | 53859 | [53859-tropix-2-quest-for-the-golden-banana.json](./53859-tropix-2-quest-for-the-golden-banana.json) |
+| TropTopia | 368560 | [368560-troptopia.json](./368560-troptopia.json) |
 | TrotMania IV: Euphorius | 313471 | [313471-trotmania-iv-euphorius.json](./313471-trotmania-iv-euphorius.json) |
 | TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
 | Trouble Comes Twice: Bonus Stories | 295266 | [295266-trouble-comes-twice-bonus-stories.json](./295266-trouble-comes-twice-bonus-stories.json) |
