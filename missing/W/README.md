@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakfu: Ouginak Pack | 225873 | [225873-wakfu-ouginak-pack.json](./225873-wakfu-ouginak-pack.json) |
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
 | Waking Nightmare | 181849 | [181849-waking-nightmare.json](./181849-waking-nightmare.json) |
+| Waking Nightmares | 375287 | [375287-waking-nightmares.json](./375287-waking-nightmares.json) |
 | Waking the Glares - Chapter I and II | 56430 | [56430-waking-the-glares-chapter-i-and-ii.json](./56430-waking-the-glares-chapter-i-and-ii.json) |
 | Waking Up To You | 395038 | [395038-waking-up-to-you.json](./395038-waking-up-to-you.json) |
 | Waking Violet | 103415 | [103415-waking-violet.json](./103415-waking-violet.json) |
@@ -524,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wastelanders | 362823 | [362823-wastelanders.json](./362823-wastelanders.json) |
 | Wat? | 244277 | [244277-wat.json](./244277-wat.json) |
 | Wataju: My Super Fulfilling Real Life | 216786 | [216786-wataju-my-super-fulfilling-real-life.json](./216786-wataju-my-super-fulfilling-real-life.json) |
+| Watamari Part2: A Fake Marriage? | 375295 | [375295-watamari-part2-a-fake-marriage.json](./375295-watamari-part2-a-fake-marriage.json) |
 | Watashi no Happy Manner Book | 287631 | [287631-watashi-no-happy-manner-book.json](./287631-watashi-no-happy-manner-book.json) |
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
@@ -772,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Dreamscape | 103442 | [103442-welcome-to-the-dreamscape.json](./103442-welcome-to-the-dreamscape.json) |
 | Welcome to the Galaxy | 178639 | [178639-welcome-to-the-galaxy.json](./178639-welcome-to-the-galaxy.json) |
 | Welcome to the Game 2+ | 265928 | [265928-welcome-to-the-game-2.json](./265928-welcome-to-the-game-2.json) |
+| Welcome to the Game III | 375315 | [375315-welcome-to-the-game-iii.json](./375315-welcome-to-the-game-iii.json) |
 | Welcome to the Kawai | 97837 | [97837-welcome-to-the-kawai.json](./97837-welcome-to-the-kawai.json) |
 | Welcome to the World of ZJ the Ball | 215121 | [215121-welcome-to-the-world-of-zj-the-ball.json](./215121-welcome-to-the-world-of-zj-the-ball.json) |
 | Welcome to your Life | 403672 | [403672-welcome-to-your-life.json](./403672-welcome-to-your-life.json) |
