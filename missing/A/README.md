@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
 | A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
 | A Game of Dwarves: Star Dwarves | 171034 | [171034-a-game-of-dwarves-star-dwarves.json](./171034-a-game-of-dwarves-star-dwarves.json) |
+| A Game That Rhymes With Grug | 351703 | [351703-a-game-that-rhymes-with-grug.json](./351703-a-game-that-rhymes-with-grug.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
@@ -523,7 +524,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against Light | 180187 | [180187-against-light.json](./180187-against-light.json) |
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
 | Agalta | 372558 | [372558-agalta.json](./372558-agalta.json) |
-| Agalta 3 | 372562 | [372562-agalta-3.json](./372562-agalta-3.json) |
 | Agalta II | 372561 | [372561-agalta-ii.json](./372561-agalta-ii.json) |
 | Agame | 269042 | [269042-agame.json](./269042-agame.json) |
 | Agapan | 35878 | [35878-agapan.json](./35878-agapan.json) |
@@ -2934,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
 | Arrow Bingo | 382773 | [382773-arrow-bingo.json](./382773-arrow-bingo.json) |
 | Arrow Busters | 97349 | [97349-arrow-busters.json](./97349-arrow-busters.json) |
+| Arrow Dungeon | 351720 | [351720-arrow-dungeon.json](./351720-arrow-dungeon.json) |
 | Arrow Patterns | 267361 | [267361-arrow-patterns.json](./267361-arrow-patterns.json) |
 | Arrow Snake | 135874 | [135874-arrow-snake.json](./135874-arrow-snake.json) |
 | Arrow Tourney | 127924 | [127924-arrow-tourney.json](./127924-arrow-tourney.json) |
