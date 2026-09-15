@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T08:34:17.630Z",
-  "total_missing": 73197,
+  "generated_at": "2026-09-15T08:41:35.132Z",
+  "total_missing": 73196,
   "games": [
     {
       "igdb_id": 306086,
@@ -5111,11 +5111,6 @@
       "igdb_id": 366912,
       "game_name": "After Hell Freezes Over",
       "file": "missing/A/366912-after-hell-freezes-over.json"
-    },
-    {
-      "igdb_id": 178036,
-      "game_name": "After School",
-      "file": "missing/A/178036-after-school.json"
     },
     {
       "igdb_id": 235465,
