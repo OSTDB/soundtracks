@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee in the Valley | 250384 | [250384-bee-in-the-valley.json](./250384-bee-in-the-valley.json) |
 | Bee Leader | 208409 | [208409-bee-leader.json](./208409-bee-leader.json) |
 | Bee Magic | 314254 | [314254-bee-magic.json](./314254-bee-magic.json) |
+| Bee Movie Game | 372566 | [372566-bee-movie-game.json](./372566-bee-movie-game.json) |
 | Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
 | Bee Streamer Idler | 392773 | [392773-bee-streamer-idler.json](./392773-bee-streamer-idler.json) |
 | Bee-Ball | 40720 | [40720-bee-ball.json](./40720-bee-ball.json) |
@@ -2303,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasterball 2: Revolution | 73221 | [73221-blasterball-2-revolution.json](./73221-blasterball-2-revolution.json) |
 | Blasteroids | 11967 | [11967-blasteroids.json](./11967-blasteroids.json) |
 | Blasteron | 75176 | [75176-blasteron.json](./75176-blasteron.json) |
+| BlastMorph: Pinball | 372572 | [372572-blastmorph-pinball.json](./372572-blastmorph-pinball.json) |
 | Blastoids | 394380 | [394380-blastoids.json](./394380-blastoids.json) |
 | Blaston Spectator | 199641 | [199641-blaston-spectator.json](./199641-blaston-spectator.json) |
 | Blastron | 388732 | [388732-blastron.json](./388732-blastron.json) |
