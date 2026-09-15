@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
 | Last Bone | 406785 | [406785-last-bone.json](./406785-last-bone.json) |
+| Last Box Standing May Go On | 336625 | [336625-last-box-standing-may-go-on.json](./336625-last-box-standing-may-go-on.json) |
 | Last Breath | 373619 | [373619-last-breath.json](./373619-last-breath.json) |
 | Last Breath | 413756 | [413756-last-breath.json](./413756-last-breath.json) |
 | Last Bullet | 405595 | [405595-last-bullet.json](./405595-last-bullet.json) |
