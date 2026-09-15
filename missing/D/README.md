@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daigasso! Band Brothers P | 64394 | [64394-daigasso-band-brothers-p.json](./64394-daigasso-band-brothers-p.json) |
 | Daigasso! Band Brothers Request Selection | 69240 | [69240-daigasso-band-brothers-request-selection.json](./69240-daigasso-band-brothers-request-selection.json) |
 | Daikon Set | 55911 | [55911-daikon-set.json](./55911-daikon-set.json) |
+| Daikoukai Jidai IV: Porto Estado - Power Up Kit | 351127 | [351127-daikoukai-jidai-iv-porto-estado-power-up-kit.json](./351127-daikoukai-jidai-iv-porto-estado-power-up-kit.json) |
 | Daikoukai Jidai V | 56530 | [56530-daikoukai-jidai-v.json](./56530-daikoukai-jidai-v.json) |
 | Daiku no Gen-san: Kachi-kachi no Tonkachi ga Kachi | 50563 | [50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json](./50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json) |
 | Daily Chthonicle | 57103 | [57103-daily-chthonicle.json](./57103-daily-chthonicle.json) |
@@ -1337,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
 | Delivery Driver Service | 302378 | [302378-delivery-driver-service.json](./302378-delivery-driver-service.json) |
 | Delivery Express | 303468 | [303468-delivery-express.json](./303468-delivery-express.json) |
+| Delivery Hot | 351125 | [351125-delivery-hot.json](./351125-delivery-hot.json) |
 | Delivery INC | 211732 | [211732-delivery-inc.json](./211732-delivery-inc.json) |
 | Delivery INC: Large Cargo | 274759 | [274759-delivery-inc-large-cargo.json](./274759-delivery-inc-large-cargo.json) |
 | Delivery Issues | 369017 | [369017-delivery-issues.json](./369017-delivery-issues.json) |
@@ -1540,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth Hunter 2: Scuba Kids - Hidden Treasures | 167274 | [167274-depth-hunter-2-scuba-kids-hidden-treasures.json](./167274-depth-hunter-2-scuba-kids-hidden-treasures.json) |
 | Depth Hunter 2: Treasure Hunter | 167272 | [167272-depth-hunter-2-treasure-hunter.json](./167272-depth-hunter-2-treasure-hunter.json) |
 | Depth Loop | 317854 | [317854-depth-loop.json](./317854-depth-loop.json) |
+| Depths Of Apollyon | 351123 | [351123-depths-of-apollyon.json](./351123-depths-of-apollyon.json) |
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
 | Depths of Sanity | 55071 | [55071-depths-of-sanity.json](./55071-depths-of-sanity.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
@@ -2020,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
 | Diggers | 37101 | [37101-diggers.json](./37101-diggers.json) |
 | Digging a Hole 2025 | 335955 | [335955-digging-a-hole-2025.json](./335955-digging-a-hole-2025.json) |
+| Digging A Hole: Journey to the Core | 351095 | [351095-digging-a-hole-journey-to-the-core.json](./351095-digging-a-hole-journey-to-the-core.json) |
 | Digging a Hole... with a Spoon... Escape from Alcatraz | 383483 | [383483-digging-a-hole-with-a-spoon-escape-from-alcatraz.json](./383483-digging-a-hole-with-a-spoon-escape-from-alcatraz.json) |
 | Digging Dogs | 357862 | [357862-digging-dogs.json](./357862-digging-dogs.json) |
 | Digging Down | 384532 | [384532-digging-down.json](./384532-digging-down.json) |
@@ -2522,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DnB Starfighter | 356735 | [356735-dnb-starfighter.json](./356735-dnb-starfighter.json) |
 | DND | 2888 | [2888-dnd.json](./2888-dnd.json) |
 | DnD Dice | 105951 | [105951-dnd-dice.json](./105951-dnd-dice.json) |
+| DNetHack | 351129 | [351129-dnethack.json](./351129-dnethack.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
@@ -3145,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doughlings Bundle | 196810 | [196810-doughlings-bundle.json](./196810-doughlings-bundle.json) |
 | Douglas Rockmoor | 69305 | [69305-douglas-rockmoor.json](./69305-douglas-rockmoor.json) |
 | Douglas Rockmoor 2 | 69309 | [69309-douglas-rockmoor-2.json](./69309-douglas-rockmoor-2.json) |
+| Doukeshi Satsujin Jiken | 351082 | [351082-doukeshi-satsujin-jiken.json](./351082-doukeshi-satsujin-jiken.json) |
 | Doukutsu Demake | 183019 | [183019-doukutsu-demake.json](./183019-doukutsu-demake.json) |
 | Doukyuu-sei | 59997 | [59997-doukyuu-sei.json](./59997-doukyuu-sei.json) |
 | Doukyuusei Classmates | 41993 | [41993-doukyuusei-classmates.json](./41993-doukyuusei-classmates.json) |
