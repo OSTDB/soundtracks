@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchpop | 390142 | [390142-witchpop.json](./390142-witchpop.json) |
 | WitchRider | 312543 | [312543-witchrider.json](./312543-witchrider.json) |
 | WitchSpring | 87260 | [87260-witchspring.json](./87260-witchspring.json) |
+| WitchSpring R: The Follower’s Fall | 363460 | [363460-witchspring-r-the-follower-s-fall.json](./363460-witchspring-r-the-follower-s-fall.json) |
 | WitchSpring2 | 102813 | [102813-witchspring2.json](./102813-witchspring2.json) |
 | Witchworker | 405611 | [405611-witchworker.json](./405611-witchworker.json) |
 | Witchy Wonderland | 344348 | [344348-witchy-wonderland.json](./344348-witchy-wonderland.json) |
