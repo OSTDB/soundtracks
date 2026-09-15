@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's War | 224214 | [224214-heros-war.json](./224214-heros-war.json) |
 | HeroBattle | 369647 | [369647-herobattle.json](./369647-herobattle.json) |
 | Herobotix | 55204 | [55204-herobotix.json](./55204-herobotix.json) |
+| Heroes & Dice | 348833 | [348833-heroes-and-dice.json](./348833-heroes-and-dice.json) |
 | Heroes & Generals: GE Giga Pack | 161911 | [161911-heroes-and-generals-ge-giga-pack.json](./161911-heroes-and-generals-ge-giga-pack.json) |
 | Heroes & Generals: GE Mega Pack | 161916 | [161916-heroes-and-generals-ge-mega-pack.json](./161916-heroes-and-generals-ge-mega-pack.json) |
 | Heroes & Generals: GE Soldier Pack - Light Tanker | 161910 | [161910-heroes-and-generals-ge-soldier-pack-light-tanker.json](./161910-heroes-and-generals-ge-soldier-pack-light-tanker.json) |
