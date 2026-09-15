@@ -1027,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Tormention: The Complete Trilogy | 261287 | [261287-death-tormention-the-complete-trilogy.json](./261287-death-tormention-the-complete-trilogy.json) |
 | Death Tour | 242798 | [242798-death-tour.json](./242798-death-tour.json) |
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
+| Death Train!!! Samara – Voronezh. | 362357 | [362357-death-train-samara-voronezh.json](./362357-death-train-samara-voronezh.json) |
 | Death Upon An Austrian Sonata: A Dana Knightstone Novel | 132803 | [132803-death-upon-an-austrian-sonata-a-dana-knightstone-novel.json](./132803-death-upon-an-austrian-sonata-a-dana-knightstone-novel.json) |
 | Death Upon Us | 150615 | [150615-death-upon-us.json](./150615-death-upon-us.json) |
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
@@ -2381,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Desert | 388234 | [388234-distant-desert.json](./388234-distant-desert.json) |
 | Distant Flux: System Initializing | 346563 | [346563-distant-flux-system-initializing.json](./346563-distant-flux-system-initializing.json) |
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
+| Distant Sunlight, Endless Regrets | 362338 | [362338-distant-sunlight-endless-regrets.json](./362338-distant-sunlight-endless-regrets.json) |
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
 | Distant Worlds 2 | 138722 | [138722-distant-worlds-2.json](./138722-distant-worlds-2.json) |
 | Distant Worlds 2: Return of the Shakturi | 324930 | [324930-distant-worlds-2-return-of-the-shakturi.json](./324930-distant-worlds-2-return-of-the-shakturi.json) |
@@ -3942,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
 | Ducky Dash | 320761 | [320761-ducky-dash.json](./320761-ducky-dash.json) |
 | Dude Cops | 107195 | [107195-dude-cops.json](./107195-dude-cops.json) |
+| Dude My House Is Haunted | 362354 | [362354-dude-my-house-is-haunted.json](./362354-dude-my-house-is-haunted.json) |
 | Dude Perfect HD | 86892 | [86892-dude-perfect-hd.json](./86892-dude-perfect-hd.json) |
 | Dude Simulator 3 | 144297 | [144297-dude-simulator-3.json](./144297-dude-simulator-3.json) |
 | Dude The Dark Agent | 399691 | [399691-dude-the-dark-agent.json](./399691-dude-the-dark-agent.json) |
@@ -4254,6 +4257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustland Delivery | 302379 | [302379-dustland-delivery.json](./302379-dustland-delivery.json) |
 | Dustnet | 117904 | [117904-dustnet.json](./117904-dustnet.json) |
 | Dustopia | 295810 | [295810-dustopia.json](./295810-dustopia.json) |
+| Dusttale: The Genocide's End | 362333 | [362333-dusttale-the-genocides-end.json](./362333-dusttale-the-genocides-end.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
 | Dusty Raging Fist | 63798 | [63798-dusty-raging-fist.json](./63798-dusty-raging-fist.json) |
 | Dusty's Challenge | 359392 | [359392-dustys-challenge.json](./359392-dustys-challenge.json) |
