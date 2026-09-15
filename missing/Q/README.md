@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Thiz Spain: Gold Edition | 232717 | [232717-quiz-thiz-spain-gold-edition.json](./232717-quiz-thiz-spain-gold-edition.json) |
 | Quiz Thiz Spain: Silver Edition | 232716 | [232716-quiz-thiz-spain-silver-edition.json](./232716-quiz-thiz-spain-silver-edition.json) |
 | Quiz Thiz USA: Gold Edition | 227881 | [227881-quiz-thiz-usa-gold-edition.json](./227881-quiz-thiz-usa-gold-edition.json) |
+| Quiz VS! | 361230 | [361230-quiz-vs.json](./361230-quiz-vs.json) |
 | Quiz.com | 221386 | [221386-quiz-com.json](./221386-quiz-com.json) |
 | Quizania | 62704 | [62704-quizania.json](./62704-quizania.json) |
 | Quizball Goal | 94167 | [94167-quizball-goal.json](./94167-quizball-goal.json) |
