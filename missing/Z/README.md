@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZooKeeper Simulator | 127218 | [127218-zookeeper-simulator.json](./127218-zookeeper-simulator.json) |
 | Zookeeper World | 170542 | [170542-zookeeper-world.json](./170542-zookeeper-world.json) |
 | Zoolovelogy | 236504 | [236504-zoolovelogy.json](./236504-zoolovelogy.json) |
+| Zoom: Paparazzi in Action | 344453 | [344453-zoom-paparazzi-in-action.json](./344453-zoom-paparazzi-in-action.json) |
 | Zoom! | 28001 | [28001-zoom.json](./28001-zoom.json) |
 | Zooma: Chapter 2 - "Cave" | 168375 | [168375-zooma-chapter-2-cave.json](./168375-zooma-chapter-2-cave.json) |
 | Zooma:Chapter 3 - "Shadow Valley" | 168374 | [168374-zooma-chapter-3-shadow-valley.json](./168374-zooma-chapter-3-shadow-valley.json) |
