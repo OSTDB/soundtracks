@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 4: Clan 'Mech Pak | 78009 | [78009-mechwarrior-4-clan-mech-pak.json](./78009-mechwarrior-4-clan-mech-pak.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
 | MechWarrior 5: Mercenaries - Chaos Reign | 402396 | [402396-mechwarrior-5-mercenaries-chaos-reign.json](./402396-mechwarrior-5-mercenaries-chaos-reign.json) |
+| MechWarrior 5: Mercenaries - Shadow of Kerensky | 351086 | [351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json](./351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json) |
 | MechWarrior Online: Apache Legendary Mech Pack | 357326 | [357326-mechwarrior-online-apache-legendary-mech-pack.json](./357326-mechwarrior-online-apache-legendary-mech-pack.json) |
 | MechWarrior Online: Argent Legendary Mech Pack | 357327 | [357327-mechwarrior-online-argent-legendary-mech-pack.json](./357327-mechwarrior-online-argent-legendary-mech-pack.json) |
 | MechWarrior Online: Arges Legendary Mech Pack | 357339 | [357339-mechwarrior-online-arges-legendary-mech-pack.json](./357339-mechwarrior-online-arges-legendary-mech-pack.json) |
@@ -2037,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Holders: The Colors II | 392171 | [392171-memory-holders-the-colors-ii.json](./392171-memory-holders-the-colors-ii.json) |
 | Memory I | 68610 | [68610-memory-i.json](./68610-memory-i.json) |
 | Memory Illusions | 157199 | [157199-memory-illusions.json](./157199-memory-illusions.json) |
+| Memory Lost - Shift Edition | 351138 | [351138-memory-lost-shift-edition.json](./351138-memory-lost-shift-edition.json) |
 | Memory Mastermind | 61068 | [61068-memory-mastermind.json](./61068-memory-mastermind.json) |
 | Memory Match Saga: Expansion Pack 1 | 167320 | [167320-memory-match-saga-expansion-pack-1.json](./167320-memory-match-saga-expansion-pack-1.json) |
 | Memory Match Saga: Expansion Pack 10 | 167329 | [167329-memory-match-saga-expansion-pack-10.json](./167329-memory-match-saga-expansion-pack-10.json) |
@@ -3098,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirai | 200755 | [200755-mirai.json](./200755-mirai.json) |
 | Mirai Ninja: Keigumo Kinin Gaiden | 70997 | [70997-mirai-ninja-keigumo-kinin-gaiden.json](./70997-mirai-ninja-keigumo-kinin-gaiden.json) |
 | Mirai Shounen Conan | 42021 | [42021-mirai-shounen-conan.json](./42021-mirai-shounen-conan.json) |
+| Mirai's Midnight Stream | 351085 | [351085-mirais-midnight-stream.json](./351085-mirais-midnight-stream.json) |
 | Mirai's Midnight Training | 399715 | [399715-mirais-midnight-training.json](./399715-mirais-midnight-training.json) |
 | Mírame | 271728 | [271728-mirame.json](./271728-mirame.json) |
 | Miraneko | 404307 | [404307-miraneko.json](./404307-miraneko.json) |
