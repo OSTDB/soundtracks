@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T18:04:14.917Z",
-  "total_missing": 74861,
+  "generated_at": "2026-09-15T18:11:35.887Z",
+  "total_missing": 74860,
   "games": [
     {
       "igdb_id": 306086,
@@ -5426,11 +5426,6 @@
       "igdb_id": 309860,
       "game_name": "Age of Defense: Prehistory",
       "file": "missing/A/309860-age-of-defense-prehistory.json"
-    },
-    {
-      "igdb_id": 132173,
-      "game_name": "Age of Emerald",
-      "file": "missing/A/132173-age-of-emerald.json"
     },
     {
       "igdb_id": 144346,
