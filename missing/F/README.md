@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Blocks | 105389 | [105389-falling-blocks.json](./105389-falling-blocks.json) |
 | Falling Down XR | 269013 | [269013-falling-down-xr.json](./269013-falling-down-xr.json) |
 | Falling for Yaoguais | 333569 | [333569-falling-for-yaoguais.json](./333569-falling-for-yaoguais.json) |
+| Falling Guys | 361739 | [361739-falling-guys.json](./361739-falling-guys.json) |
 | Falling Into You | 218165 | [218165-falling-into-you.json](./218165-falling-into-you.json) |
 | Falling Kwadrats | 179203 | [179203-falling-kwadrats.json](./179203-falling-kwadrats.json) |
 | Falling Out | 125402 | [125402-falling-out.json](./125402-falling-out.json) |
@@ -1563,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishy2 | 129381 | [129381-fishy2.json](./129381-fishy2.json) |
 | Fisraduth: Castle of Tyramis | 321337 | [321337-fisraduth-castle-of-tyramis.json](./321337-fisraduth-castle-of-tyramis.json) |
 | Fission | 381021 | [381021-fission.json](./381021-fission.json) |
+| Fissure | 361809 | [361809-fissure.json](./361809-fissure.json) |
 | Fist of Awesome | 17501 | [17501-fist-of-awesome.json](./17501-fist-of-awesome.json) |
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
 | Fist Puncher | 9088 | [9088-fist-puncher.json](./9088-fist-puncher.json) |
@@ -2047,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Corps: Gold | 209461 | [209461-flying-corps-gold.json](./209461-flying-corps-gold.json) |
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
 | Flying Frogs | 209462 | [209462-flying-frogs.json](./209462-flying-frogs.json) |
+| Flying Guys | 361741 | [361741-flying-guys.json](./361741-flying-guys.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
 | Flying Motorcycle Simulator Pro | 87258 | [87258-flying-motorcycle-simulator-pro.json](./87258-flying-motorcycle-simulator-pro.json) |
 | Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
@@ -2285,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Plague | 109712 | [109712-forest-plague.json](./109712-forest-plague.json) |
 | Forest Pop | 218724 | [218724-forest-pop.json](./218724-forest-pop.json) |
 | Forest Ranger Services: Episode 1 | 340232 | [340232-forest-ranger-services-episode-1.json](./340232-forest-ranger-services-episode-1.json) |
+| Forest Restoration | 361744 | [361744-forest-restoration.json](./361744-forest-restoration.json) |
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
 | Forest Survival | 381032 | [381032-forest-survival.json](./381032-forest-survival.json) |
 | Forest Time | 373517 | [373517-forest-time.json](./373517-forest-time.json) |
@@ -2305,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forevolution | 209709 | [209709-forevolution.json](./209709-forevolution.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
+| Forge the Fates | 361765 | [361765-forge-the-fates.json](./361765-forge-the-fates.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
 | Forged in Fire: Master Smith | 397087 | [397087-forged-in-fire-master-smith.json](./397087-forged-in-fire-master-smith.json) |
 | Forged of Blood | 27954 | [27954-forged-of-blood.json](./27954-forged-of-blood.json) |
@@ -2476,6 +2481,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 4: Car Pass | 365709 | [365709-forza-horizon-4-car-pass.json](./365709-forza-horizon-4-car-pass.json) |
 | Forza Horizon 4: Expansions Bundle | 136391 | [136391-forza-horizon-4-expansions-bundle.json](./136391-forza-horizon-4-expansions-bundle.json) |
 | Forza Horizon 4: Welcome Pack | 365712 | [365712-forza-horizon-4-welcome-pack.json](./365712-forza-horizon-4-welcome-pack.json) |
+| Forza Horizon 5 Nissan Heritage Car Pack | 361777 | [361777-forza-horizon-5-nissan-heritage-car-pack.json](./361777-forza-horizon-5-nissan-heritage-car-pack.json) |
+| Forza Horizon 5 Universal Icons Car Pack | 361779 | [361779-forza-horizon-5-universal-icons-car-pack.json](./361779-forza-horizon-5-universal-icons-car-pack.json) |
 | Forza Horizon 5: American Automotive Car Pack | 275616 | [275616-forza-horizon-5-american-automotive-car-pack.json](./275616-forza-horizon-5-american-automotive-car-pack.json) |
 | Forza Horizon 5: Apex Allstars Car Pack | 305531 | [305531-forza-horizon-5-apex-allstars-car-pack.json](./305531-forza-horizon-5-apex-allstars-car-pack.json) |
 | Forza Horizon 5: Car Pass | 293918 | [293918-forza-horizon-5-car-pass.json](./293918-forza-horizon-5-car-pass.json) |
@@ -2485,9 +2492,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport: 2016 Ligier #11 Eurointernational JS P3 | 305542 | [305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json](./305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json) |
 | Forza Motorsport: 2018 Lamborghini #63 Squadra Corse Huracán Super Trofeo Evo | 285479 | [285479-forza-motorsport-2018-lamborghini-63-squadra-corse-huracan-super-trofeo-evo.json](./285479-forza-motorsport-2018-lamborghini-63-squadra-corse-huracan-super-trofeo-evo.json) |
 | Forza Motorsport: 2019 McLaren Senna GTR | 286540 | [286540-forza-motorsport-2019-mclaren-senna-gtr.json](./286540-forza-motorsport-2019-mclaren-senna-gtr.json) |
+| Forza Motorsport: 2024 Ford Mustang Dark Horse | 361778 | [361778-forza-motorsport-2024-ford-mustang-dark-horse.json](./361778-forza-motorsport-2024-ford-mustang-dark-horse.json) |
 | Forza Motorsport: Deluxe Edition | 271467 | [271467-forza-motorsport-deluxe-edition.json](./271467-forza-motorsport-deluxe-edition.json) |
 | Forza Motorsport: Porsche 963 Combo | 316395 | [316395-forza-motorsport-porsche-963-combo.json](./316395-forza-motorsport-porsche-963-combo.json) |
 | Forza Motorsport: Premium Add-Ons Bundle | 271472 | [271472-forza-motorsport-premium-add-ons-bundle.json](./271472-forza-motorsport-premium-add-ons-bundle.json) |
+| Forza Motorsport: Racing Heroes Car Pack | 361776 | [361776-forza-motorsport-racing-heroes-car-pack.json](./361776-forza-motorsport-racing-heroes-car-pack.json) |
 | Forza Polpo | 137632 | [137632-forza-polpo.json](./137632-forza-polpo.json) |
 | Forza Street: Tap to Race | 237369 | [237369-forza-street-tap-to-race.json](./237369-forza-street-tap-to-race.json) |
 | Fossil Corner | 150075 | [150075-fossil-corner.json](./150075-fossil-corner.json) |
