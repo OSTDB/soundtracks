@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T02:18:52.913Z",
-  "total_missing": 72095,
+  "generated_at": "2026-09-15T02:21:52.277Z",
+  "total_missing": 72094,
   "games": [
     {
       "igdb_id": 306086,
@@ -4911,11 +4911,6 @@
       "igdb_id": 218138,
       "game_name": "Aestik",
       "file": "missing/A/218138-aestik.json"
-    },
-    {
-      "igdb_id": 357785,
-      "game_name": "Aether",
-      "file": "missing/A/357785-aether.json"
     },
     {
       "igdb_id": 357787,
