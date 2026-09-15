@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman's Revenge | 67973 | [67973-hangmans-revenge.json](./67973-hangmans-revenge.json) |
 | HangOutGame | 166755 | [166755-hangoutgame.json](./166755-hangoutgame.json) |
 | Hangover | 389994 | [389994-hangover.json](./389994-hangover.json) |
+| Hangoverse: Season 1 | 370755 | [370755-hangoverse-season-1.json](./370755-hangoverse-season-1.json) |
 | Hangzo | 141238 | [141238-hangzo.json](./141238-hangzo.json) |
 | Hank Loves the Beach | 240797 | [240797-hank-loves-the-beach.json](./240797-hank-loves-the-beach.json) |
 | Hank: Drowning on Dry Land | 195168 | [195168-hank-drowning-on-dry-land.json](./195168-hank-drowning-on-dry-land.json) |
@@ -1003,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfighter | 92458 | [92458-hellfighter.json](./92458-hellfighter.json) |
 | Hellfire | 319022 | [319022-hellfire.json](./319022-hellfire.json) |
 | Hellfire | 321796 | [321796-hellfire.json](./321796-hellfire.json) |
+| Hellfire | 370763 | [370763-hellfire.json](./370763-hellfire.json) |
 | Hellfire Poncho | 283754 | [283754-hellfire-poncho.json](./283754-hellfire-poncho.json) |
 | Hellfire Saga | 234906 | [234906-hellfire-saga.json](./234906-hellfire-saga.json) |
 | HellFire: The Summoning | 27690 | [27690-hellfire-the-summoning.json](./27690-hellfire-the-summoning.json) |
@@ -1119,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clicker: Bethy Is Streaming | 389609 | [389609-hentai-clicker-bethy-is-streaming.json](./389609-hentai-clicker-bethy-is-streaming.json) |
 | Hentai Clicker: Cassandra Is Streaming | 389616 | [389616-hentai-clicker-cassandra-is-streaming.json](./389616-hentai-clicker-cassandra-is-streaming.json) |
 | Hentai Clicker: Eva Is Streaming | 389610 | [389610-hentai-clicker-eva-is-streaming.json](./389610-hentai-clicker-eva-is-streaming.json) |
+| Hentai Clicker: Hanma Is Streaming | 370768 | [370768-hentai-clicker-hanma-is-streaming.json](./370768-hentai-clicker-hanma-is-streaming.json) |
 | Hentai Clicker: Sayuri Is Streaming | 389613 | [389613-hentai-clicker-sayuri-is-streaming.json](./389613-hentai-clicker-sayuri-is-streaming.json) |
 | Hentai Clicker: Selena Is Streaming | 389611 | [389611-hentai-clicker-selena-is-streaming.json](./389611-hentai-clicker-selena-is-streaming.json) |
 | Hentai Clicker: Stella Is Streaming | 389615 | [389615-hentai-clicker-stella-is-streaming.json](./389615-hentai-clicker-stella-is-streaming.json) |
