@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
 | A Lost Land | 384655 | [384655-a-lost-land.json](./384655-a-lost-land.json) |
+| A Love Story: My Best Friend | 334090 | [334090-a-love-story-my-best-friend.json](./334090-a-love-story-my-best-friend.json) |
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
 | A Lucky Hunt With: Ione | 392956 | [392956-a-lucky-hunt-with-ione.json](./392956-a-lucky-hunt-with-ione.json) |
 | A Mage Reborn | 207342 | [207342-a-mage-reborn.json](./207342-a-mage-reborn.json) |
@@ -2309,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aporkalypse: Pigs of Doom | 333544 | [333544-aporkalypse-pigs-of-doom.json](./333544-aporkalypse-pigs-of-doom.json) |
 | Apostasy | 104063 | [104063-apostasy.json](./104063-apostasy.json) |
 | Apoth | 238509 | [238509-apoth.json](./238509-apoth.json) |
+| Apothecurse | 334175 | [334175-apothecurse.json](./334175-apothecurse.json) |
 | Apotheker | 141880 | [141880-apotheker.json](./141880-apotheker.json) |
 | Apotheon | 9016 | [9016-apotheon.json](./9016-apotheon.json) |
 | Apotheosis | 211437 | [211437-apotheosis.json](./211437-apotheosis.json) |
@@ -2463,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Chopper 1 | 362353 | [362353-arcade-archives-chopper-1.json](./362353-arcade-archives-chopper-1.json) |
 | Arcade Archives: City Connection | 99558 | [99558-arcade-archives-city-connection.json](./99558-arcade-archives-city-connection.json) |
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
+| Arcade Archives: Dead Connection | 334087 | [334087-arcade-archives-dead-connection.json](./334087-arcade-archives-dead-connection.json) |
 | Arcade Archives: Donkey Kong 3 | 117018 | [117018-arcade-archives-donkey-kong-3.json](./117018-arcade-archives-donkey-kong-3.json) |
 | Arcade Archives: Double Dragon II - The Revenge | 99570 | [99570-arcade-archives-double-dragon-ii-the-revenge.json](./99570-arcade-archives-double-dragon-ii-the-revenge.json) |
 | Arcade Archives: Dragon Saber | 209646 | [209646-arcade-archives-dragon-saber.json](./209646-arcade-archives-dragon-saber.json) |
