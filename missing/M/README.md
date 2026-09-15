@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
 | Mage of Tempest Castle | 371352 | [371352-mage-of-tempest-castle.json](./371352-mage-of-tempest-castle.json) |
+| Mage Outbreak | 355615 | [355615-mage-outbreak.json](./355615-mage-outbreak.json) |
 | Mage Recall | 402284 | [402284-mage-recall.json](./402284-mage-recall.json) |
 | Mage VR -Mini Version- | 114344 | [114344-mage-vr-mini-version.json](./114344-mage-vr-mini-version.json) |
 | Mage VR: The Lost Memories | 115619 | [115619-mage-vr-the-lost-memories.json](./115619-mage-vr-the-lost-memories.json) |
@@ -4862,6 +4863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Own Hero Party | 412980 | [412980-my-own-hero-party.json](./412980-my-own-hero-party.json) |
 | My Own Sweet Dionaea | 382213 | [382213-my-own-sweet-dionaea.json](./382213-my-own-sweet-dionaea.json) |
 | My Personal Hater | 388229 | [388229-my-personal-hater.json](./388229-my-personal-hater.json) |
+| My Pet Femboy | 355617 | [355617-my-pet-femboy.json](./355617-my-pet-femboy.json) |
 | My Pet Puppy 3D | 65470 | [65470-my-pet-puppy-3d.json](./65470-my-pet-puppy-3d.json) |
 | My Pet Rock | 195218 | [195218-my-pet-rock.json](./195218-my-pet-rock.json) |
 | My Peterinary | 298301 | [298301-my-peterinary.json](./298301-my-peterinary.json) |
