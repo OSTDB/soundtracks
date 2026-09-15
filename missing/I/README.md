@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Tran Sit | 184612 | [184612-in-tran-sit.json](./184612-in-tran-sit.json) |
 | In Vein | 181320 | [181320-in-vein.json](./181320-in-vein.json) |
 | In Verbis Virtus | 16560 | [16560-in-verbis-virtus.json](./16560-in-verbis-virtus.json) |
+| In Your Flesh | 364596 | [364596-in-your-flesh.json](./364596-in-your-flesh.json) |
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
 | In-Flight Tetris | 145631 | [145631-in-flight-tetris.json](./145631-in-flight-tetris.json) |
 | Inari | 277605 | [277605-inari.json](./277605-inari.json) |
