@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy Bird | 128602 | [128602-legacy-bird.json](./128602-legacy-bird.json) |
 | Legacy of Aeroja | 193480 | [193480-legacy-of-aeroja.json](./193480-legacy-of-aeroja.json) |
 | Legacy of Ancestors | 346589 | [346589-legacy-of-ancestors.json](./346589-legacy-of-ancestors.json) |
+| Legacy of Defense | 345015 | [345015-legacy-of-defense.json](./345015-legacy-of-defense.json) |
 | Legacy of Dorn: Herald of Oblivion | 31692 | [31692-legacy-of-dorn-herald-of-oblivion.json](./31692-legacy-of-dorn-herald-of-oblivion.json) |
 | Legacy of Epstein: Bad Omen | 244478 | [244478-legacy-of-epstein-bad-omen.json](./244478-legacy-of-epstein-bad-omen.json) |
 | Legacy of Flan | 243942 | [243942-legacy-of-flan.json](./243942-legacy-of-flan.json) |
