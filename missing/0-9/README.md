@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: World Tour - Asia | 102732 | [102732-1001-jigsaw-world-tour-asia.json](./102732-1001-jigsaw-world-tour-asia.json) |
 | 1001-Kai-me no Aoi Tsuki | 98429 | [98429-1001-kai-me-no-aoi-tsuki.json](./98429-1001-kai-me-no-aoi-tsuki.json) |
 | 101 Cats in Hanoi | 400875 | [400875-101-cats-in-hanoi.json](./400875-101-cats-in-hanoi.json) |
+| 101 Cats in Indonesia | 366304 | [366304-101-cats-in-indonesia.json](./366304-101-cats-in-indonesia.json) |
 | 101 Cats in Madrid | 326082 | [326082-101-cats-in-madrid.json](./326082-101-cats-in-madrid.json) |
 | 101 Cats in Milan | 337608 | [337608-101-cats-in-milan.json](./337608-101-cats-in-milan.json) |
 | 101 Cats in Paris | 337610 | [337610-101-cats-in-paris.json](./337610-101-cats-in-paris.json) |
