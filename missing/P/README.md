@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peas Adventure | 117034 | [117034-peas-adventure.json](./117034-peas-adventure.json) |
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
 | Pebble | 188610 | [188610-pebble.json](./188610-pebble.json) |
+| Pebble Knights | 347758 | [347758-pebble-knights.json](./347758-pebble-knights.json) |
 | Pebbles Quest | 324337 | [324337-pebbles-quest.json](./324337-pebbles-quest.json) |
 | Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
 | Pecker | 244272 | [244272-pecker.json](./244272-pecker.json) |
@@ -1257,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
 | Phase | 377172 | [377172-phase.json](./377172-phase.json) |
 | Phase | 72078 | [72078-phase.json](./72078-phase.json) |
+| Phase Cross | 347787 | [347787-phase-cross.json](./347787-phase-cross.json) |
 | Phase Line: Raider Assault | 239667 | [239667-phase-line-raider-assault.json](./239667-phase-line-raider-assault.json) |
 | Phase Runner | 92490 | [92490-phase-runner.json](./92490-phase-runner.json) |
 | Phase Shift | 50165 | [50165-phase-shift.json](./50165-phase-shift.json) |
@@ -2684,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
 | Politiks | 391176 | [391176-politiks.json](./391176-politiks.json) |
 | Pollinate or Die | 381615 | [381615-pollinate-or-die.json](./381615-pollinate-or-die.json) |
+| Pollucean | 347792 | [347792-pollucean.json](./347792-pollucean.json) |
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
 | Pollux | 40255 | [40255-pollux.json](./40255-pollux.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
