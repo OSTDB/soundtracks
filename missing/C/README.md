@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheesecake Cult: Unholy Feast | 275579 | [275579-cheesecake-cult-unholy-feast.json](./275579-cheesecake-cult-unholy-feast.json) |
 | Cheesequest | 213022 | [213022-cheesequest.json](./213022-cheesequest.json) |
 | Cheestrings Quiz | 313120 | [313120-cheestrings-quiz.json](./313120-cheestrings-quiz.json) |
+| Cheesy Chaser | 378899 | [378899-cheesy-chaser.json](./378899-cheesy-chaser.json) |
 | Cheetah | 346050 | [346050-cheetah.json](./346050-cheetah.json) |
 | Cheetahmen | 243939 | [243939-cheetahmen.json](./243939-cheetahmen.json) |
 | Cheezure | 316094 | [316094-cheezure.json](./316094-cheezure.json) |
@@ -1484,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess+ | 102828 | [102828-chess.json](./102828-chess.json) |
 | Chess88 | 92998 | [92998-chess88.json](./92998-chess88.json) |
 | Chessaria: The Tactical Adventure | 55247 | [55247-chessaria-the-tactical-adventure.json](./55247-chessaria-the-tactical-adventure.json) |
+| Chesscape Room | 378891 | [378891-chesscape-room.json](./378891-chesscape-room.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
 | Chesskoban Bishop | 189106 | [189106-chesskoban-bishop.json](./189106-chesskoban-bishop.json) |
 | Chesskoban Cyber | 195144 | [195144-chesskoban-cyber.json](./195144-chesskoban-cyber.json) |
