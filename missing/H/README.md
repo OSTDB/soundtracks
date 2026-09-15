@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty: Sweet Little Shops | 206159 | [206159-hello-kitty-sweet-little-shops.json](./206159-hello-kitty-sweet-little-shops.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
 | Hello Lady! Complete Edition | 187447 | [187447-hello-lady-complete-edition.json](./187447-hello-lady-complete-edition.json) |
+| Hello Loaf | 367496 | [367496-hello-loaf.json](./367496-hello-loaf.json) |
 | Hello Neighbor 2: Deluxe Edition | 196805 | [196805-hello-neighbor-2-deluxe-edition.json](./196805-hello-neighbor-2-deluxe-edition.json) |
 | Hello Neighbor: Hide and Seek | 107614 | [107614-hello-neighbor-hide-and-seek.json](./107614-hello-neighbor-hide-and-seek.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
@@ -1230,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Office Sex Handler | 389606 | [389606-hentai-tales-office-sex-handler.json](./389606-hentai-tales-office-sex-handler.json) |
 | Hentai Tales: The Red Act In Lockdown | 389604 | [389604-hentai-tales-the-red-act-in-lockdown.json](./389604-hentai-tales-the-red-act-in-lockdown.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
+| Hentai Unlimited | 367510 | [367510-hentai-unlimited.json](./367510-hentai-unlimited.json) |
 | Hentai VR 3 | 147408 | [147408-hentai-vr-3.json](./147408-hentai-vr-3.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
 | Hentai Waifu 101 | 156098 | [156098-hentai-waifu-101.json](./156098-hentai-waifu-101.json) |
@@ -1825,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himiko: I Must Kill Chikushoumaru | 82790 | [82790-himiko-i-must-kill-chikushoumaru.json](./82790-himiko-i-must-kill-chikushoumaru.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan II | 66055 | [66055-himitsu-chouhou-buin-00nanako-chan-ii.json](./66055-himitsu-chouhou-buin-00nanako-chan-ii.json) |
 | Himitsu no AiPri | 284918 | [284918-himitsu-no-aipri.json](./284918-himitsu-no-aipri.json) |
+| Himmapan Marshmello Saga | 367516 | [367516-himmapan-marshmello-saga.json](./367516-himmapan-marshmello-saga.json) |
 | Hina-chan Breaker: 2nd Break | 212293 | [212293-hina-chan-breaker-2nd-break.json](./212293-hina-chan-breaker-2nd-break.json) |
 | Hina-chan no Yakiniku Party | 208404 | [208404-hina-chan-no-yakiniku-party.json](./208404-hina-chan-no-yakiniku-party.json) |
 | Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible | 194557 | [194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json](./194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json) |
