@@ -1789,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Hou: Hinamizawa Teiryuujo | 263492 | [263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json](./263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json) |
 | Higurashi no Naku Koro ni Hou: Kamikashimashi-hen | 263493 | [263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json](./263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json) |
 | Higurashi no Naku Koro ni Hou: Outbreak | 263490 | [263490-higurashi-no-naku-koro-ni-hou-outbreak.json](./263490-higurashi-no-naku-koro-ni-hou-outbreak.json) |
+| Higurashi no Naku Koro ni Jan: Gouka Genteiban na no desu yo Box | 352787 | [352787-higurashi-no-naku-koro-ni-jan-gouka-genteiban-na-no-desu-yo-box.json](./352787-higurashi-no-naku-koro-ni-jan-gouka-genteiban-na-no-desu-yo-box.json) |
 | Higurashi no Naku Koro ni Kizuna Volume II: Sou | 111749 | [111749-higurashi-no-naku-koro-ni-kizuna-volume-ii-sou.json](./111749-higurashi-no-naku-koro-ni-kizuna-volume-ii-sou.json) |
 | Higurashi no Naku Koro ni Kizuna Volume IV: Kizuna | 67278 | [67278-higurashi-no-naku-koro-ni-kizuna-volume-iv-kizuna.json](./67278-higurashi-no-naku-koro-ni-kizuna-volume-iv-kizuna.json) |
 | Higurashi no Naku Koro ni Kizuna: Alternative Hirukowashi-hen | 262970 | [262970-higurashi-no-naku-koro-ni-kizuna-alternative-hirukowashi-hen.json](./262970-higurashi-no-naku-koro-ni-kizuna-alternative-hirukowashi-hen.json) |
