@@ -2105,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Simulator Extremes: Ocean Cruise Ship | 10827 | [10827-ship-simulator-extremes-ocean-cruise-ship.json](./10827-ship-simulator-extremes-ocean-cruise-ship.json) |
 | Ship Simulator Extremes: Offshore Vessel | 10828 | [10828-ship-simulator-extremes-offshore-vessel.json](./10828-ship-simulator-extremes-offshore-vessel.json) |
 | Ship Simulator Extremes: Sigita Pack | 10829 | [10829-ship-simulator-extremes-sigita-pack.json](./10829-ship-simulator-extremes-sigita-pack.json) |
+| ShipCrafter | 371975 | [371975-shipcrafter.json](./371975-shipcrafter.json) |
 | Shiperoids | 31853 | [31853-shiperoids.json](./31853-shiperoids.json) |
 | ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
 | ShipRect | 212797 | [212797-shiprect.json](./212797-shiprect.json) |
@@ -2733,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Hospital | 296384 | [296384-sinister-hospital.json](./296384-sinister-hospital.json) |
 | Sinister Mansion | 297798 | [297798-sinister-mansion.json](./297798-sinister-mansion.json) |
 | Sinister Night | 200670 | [200670-sinister-night.json](./200670-sinister-night.json) |
+| Sinister Remains | 372020 | [372020-sinister-remains.json](./372020-sinister-remains.json) |
 | Sinister Zombies | 95604 | [95604-sinister-zombies.json](./95604-sinister-zombies.json) |
 | Sinistrous | 153423 | [153423-sinistrous.json](./153423-sinistrous.json) |
 | Sink and Score | 373658 | [373658-sink-and-score.json](./373658-sink-and-score.json) |
@@ -3258,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sling Junior | 261800 | [261800-sling-junior.json](./261800-sling-junior.json) |
 | Sling Kings: Supercharged Chess | 236020 | [236020-sling-kings-supercharged-chess.json](./236020-sling-kings-supercharged-chess.json) |
 | Sling Ming | 74400 | [74400-sling-ming.json](./74400-sling-ming.json) |
+| Slingbox | 371995 | [371995-slingbox.json](./371995-slingbox.json) |
 | Slinger | 255955 | [255955-slinger.json](./255955-slinger.json) |
 | Slingo 15th Anniversary Edition | 208976 | [208976-slingo-15th-anniversary-edition.json](./208976-slingo-15th-anniversary-edition.json) |
 | Slingo Quest Hawaii | 73807 | [73807-slingo-quest-hawaii.json](./73807-slingo-quest-hawaii.json) |
@@ -3842,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sogo Vego | 161353 | [161353-sogo-vego.json](./161353-sogo-vego.json) |
 | Sohee | 355020 | [355020-sohee.json](./355020-sohee.json) |
 | Soi Kano: Gyutto Dakishimete | 98376 | [98376-soi-kano-gyutto-dakishimete.json](./98376-soi-kano-gyutto-dakishimete.json) |
+| Soilborn: Ant Empire | 372003 | [372003-soilborn-ant-empire.json](./372003-soilborn-ant-empire.json) |
 | Sojourn Past | 291473 | [291473-sojourn-past.json](./291473-sojourn-past.json) |
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
 | Sok Min | 96888 | [96888-sok-min.json](./96888-sok-min.json) |
@@ -4449,6 +4453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul at Stake | 103949 | [103949-soul-at-stake.json](./103949-soul-at-stake.json) |
 | Soul Awakening Adventure | 273093 | [273093-soul-awakening-adventure.json](./273093-soul-awakening-adventure.json) |
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
+| Soul Demon Hunters | 371977 | [371977-soul-demon-hunters.json](./371977-soul-demon-hunters.json) |
 | Soul Destiny | 125967 | [125967-soul-destiny.json](./125967-soul-destiny.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
 | Soul Eater: Battle Resonance | 44527 | [44527-soul-eater-battle-resonance.json](./44527-soul-eater-battle-resonance.json) |
@@ -4456,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Essence | 174827 | [174827-soul-essence.json](./174827-soul-essence.json) |
 | Soul Fjord | 51174 | [51174-soul-fjord.json](./51174-soul-fjord.json) |
 | Soul Force | 177566 | [177566-soul-force.json](./177566-soul-force.json) |
+| Soul Gather | 372012 | [372012-soul-gather.json](./372012-soul-gather.json) |
 | Soul Getter | 63294 | [63294-soul-getter.json](./63294-soul-getter.json) |
 | Soul Grabber | 83537 | [83537-soul-grabber.json](./83537-soul-grabber.json) |
 | Soul Grinder | 184649 | [184649-soul-grinder.json](./184649-soul-grinder.json) |
@@ -5345,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooker | 403027 | [403027-spooker.json](./403027-spooker.json) |
 | Spookity Hollow | 170549 | [170549-spookity-hollow.json](./170549-spookity-hollow.json) |
 | Spooklands | 61064 | [61064-spooklands.json](./61064-spooklands.json) |
+| Spookshow | 371956 | [371956-spookshow.json](./371956-spookshow.json) |
 | Spookulele | 204715 | [204715-spookulele.json](./204715-spookulele.json) |
 | Spookware: Watch Party | 189180 | [189180-spookware-watch-party.json](./189180-spookware-watch-party.json) |
 | SpookWave | 183065 | [183065-spookwave.json](./183065-spookwave.json) |
@@ -5605,6 +5612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacks: Space! | 238520 | [238520-stacks-space.json](./238520-stacks-space.json) |
 | Stacky Hero | 227866 | [227866-stacky-hero.json](./227866-stacky-hero.json) |
 | StackZap | 337983 | [337983-stackzap.json](./337983-stackzap.json) |
+| Stadium | 371967 | [371967-stadium.json](./371967-stadium.json) |
 | Stadium Cross | 123004 | [123004-stadium-cross.json](./123004-stadium-cross.json) |
 | Stadium Games | 49384 | [49384-stadium-games.json](./49384-stadium-games.json) |
 | Staff Only | 139432 | [139432-staff-only.json](./139432-staff-only.json) |
