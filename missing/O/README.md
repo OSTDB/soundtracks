@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out in Space | 218472 | [218472-out-in-space.json](./218472-out-in-space.json) |
 | Out in Space Bundle: Tin Can & Orbit.Industries | 266246 | [266246-out-in-space-bundle-tin-can-and-orbit-industries.json](./266246-out-in-space-bundle-tin-can-and-orbit-industries.json) |
 | Out of Ammo | 177536 | [177536-out-of-ammo.json](./177536-out-of-ammo.json) |
+| Out of Body | 377171 | [377171-out-of-body.json](./377171-out-of-body.json) |
 | Out of Brakes: Endless Racer | 232155 | [232155-out-of-brakes-endless-racer.json](./232155-out-of-brakes-endless-racer.json) |
 | Out Of Cash (Sin Blanca) | 379897 | [379897-out-of-cash-sin-blanca.json](./379897-out-of-cash-sin-blanca.json) |
 | Out of Control | 40775 | [40775-out-of-control.json](./40775-out-of-control.json) |
@@ -1252,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outatime | 215913 | [215913-outatime.json](./215913-outatime.json) |
 | Outbound: School Bus Adventures | 401492 | [401492-outbound-school-bus-adventures.json](./401492-outbound-school-bus-adventures.json) |
 | Outbreak | 26909 | [26909-outbreak.json](./26909-outbreak.json) |
+| Outbreak | 377163 | [377163-outbreak.json](./377163-outbreak.json) |
 | Outbreak 2030 | 237076 | [237076-outbreak-2030.json](./237076-outbreak-2030.json) |
 | Outbreak Contagion Co-Op Collection | 340740 | [340740-outbreak-contagion-co-op-collection.json](./340740-outbreak-contagion-co-op-collection.json) |
 | Outbreak Diamond Collection | 200177 | [200177-outbreak-diamond-collection.json](./200177-outbreak-diamond-collection.json) |
