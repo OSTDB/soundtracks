@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Rondo of the Night | 394858 | [394858-castlevania-rondo-of-the-night.json](./394858-castlevania-rondo-of-the-night.json) |
 | Castlevania: Symphony of Horrors | 376583 | [376583-castlevania-symphony-of-horrors.json](./376583-castlevania-symphony-of-horrors.json) |
 | Castlevania: Symphony of the Night | 222227 | [222227-castlevania-symphony-of-the-night.json](./222227-castlevania-symphony-of-the-night.json) |
+| Castlevania: Symphony of the Night - Reborn | 338814 | [338814-castlevania-symphony-of-the-night-reborn.json](./338814-castlevania-symphony-of-the-night-reborn.json) |
 | Castlevania: Symphony of the Night Randomizer | 218152 | [218152-castlevania-symphony-of-the-night-randomizer.json](./218152-castlevania-symphony-of-the-night-randomizer.json) |
 | Castlevania: The Adventure | 1118 | [1118-castlevania-the-adventure.json](./1118-castlevania-the-adventure.json) |
 | Castlevania: The Adventure ReBirth | 1146 | [1146-castlevania-the-adventure-rebirth.json](./1146-castlevania-the-adventure-rebirth.json) |
@@ -1446,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkmate Heroines | 391068 | [391068-checkmate-heroines.json](./391068-checkmate-heroines.json) |
 | Checkmate in the Wild West: Chess Adventure | 373534 | [373534-checkmate-in-the-wild-west-chess-adventure.json](./373534-checkmate-in-the-wild-west-chess-adventure.json) |
 | Checkpoint Gary | 281371 | [281371-checkpoint-gary.json](./281371-checkpoint-gary.json) |
+| Checkpoint Madness HD | 338829 | [338829-checkpoint-madness-hd.json](./338829-checkpoint-madness-hd.json) |
 | Cheddly and Cloud's Crazy Adventure | 332222 | [332222-cheddly-and-clouds-crazy-adventure.json](./332222-cheddly-and-clouds-crazy-adventure.json) |
 | Cheddly and Cloud's Crazy Adventure 2 | 332261 | [332261-cheddly-and-clouds-crazy-adventure-2.json](./332261-cheddly-and-clouds-crazy-adventure-2.json) |
 | Chee-Chai Alien | 79920 | [79920-chee-chai-alien.json](./79920-chee-chai-alien.json) |
@@ -1987,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
 | ChronoBlade | 63877 | [63877-chronoblade.json](./63877-chronoblade.json) |
 | ChronoBreach | 117045 | [117045-chronobreach.json](./117045-chronobreach.json) |
+| Chronoclasm | 338810 | [338810-chronoclasm.json](./338810-chronoclasm.json) |
 | ChronoClone | 301280 | [301280-chronoclone.json](./301280-chronoclone.json) |
 | ChronoCodex | 237053 | [237053-chronocodex.json](./237053-chronocodex.json) |
 | Chronodog: Earth Defender | 185067 | [185067-chronodog-earth-defender.json](./185067-chronodog-earth-defender.json) |
@@ -4495,6 +4498,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube World | 195215 | [195215-cube-world.json](./195215-cube-world.json) |
 | Cube Zoid | 176466 | [176466-cube-zoid.json](./176466-cube-zoid.json) |
 | Cube: Gardens of Zen | 69210 | [69210-cube-gardens-of-zen.json](./69210-cube-gardens-of-zen.json) |
+| Cube's Kaizo World | 338841 | [338841-cubes-kaizo-world.json](./338841-cubes-kaizo-world.json) |
+| Cube's Kaizo World 2 | 338842 | [338842-cubes-kaizo-world-2.json](./338842-cubes-kaizo-world-2.json) |
+| Cube's Kaizo World 3 | 338843 | [338843-cubes-kaizo-world-3.json](./338843-cubes-kaizo-world-3.json) |
+| Cube's Kaizo World 4 | 338844 | [338844-cubes-kaizo-world-4.json](./338844-cubes-kaizo-world-4.json) |
 | CubeBall VR | 28806 | [28806-cubeball-vr.json](./28806-cubeball-vr.json) |
 | CubeCaust | 412300 | [412300-cubecaust.json](./412300-cubecaust.json) |
 | Cubed | 120996 | [120996-cubed.json](./120996-cubed.json) |
