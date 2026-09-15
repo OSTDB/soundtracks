@@ -2640,8 +2640,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood and Zombies: Gold Edition | 241966 | [241966-blood-and-zombies-gold-edition.json](./241966-blood-and-zombies-gold-edition.json) |
 | Blood Bar Tycoon | 290914 | [290914-blood-bar-tycoon.json](./290914-blood-bar-tycoon.json) |
 | Blood Bond: Into the Shroud | 105276 | [105276-blood-bond-into-the-shroud.json](./105276-blood-bond-into-the-shroud.json) |
+| Blood Bowl 2: Chaos Dwarfs | 341551 | [341551-blood-bowl-2-chaos-dwarfs.json](./341551-blood-bowl-2-chaos-dwarfs.json) |
 | Blood Bowl 2: Khemri | 150608 | [150608-blood-bowl-2-khemri.json](./150608-blood-bowl-2-khemri.json) |
 | Blood Bowl 2: Lizardmen | 52649 | [52649-blood-bowl-2-lizardmen.json](./52649-blood-bowl-2-lizardmen.json) |
+| Blood Bowl 2: Norse | 341549 | [341549-blood-bowl-2-norse.json](./341549-blood-bowl-2-norse.json) |
+| Blood Bowl 2: Nurgle | 341550 | [341550-blood-bowl-2-nurgle.json](./341550-blood-bowl-2-nurgle.json) |
 | Blood Bowl 2: The Necromantic | 52651 | [52651-blood-bowl-2-the-necromantic.json](./52651-blood-bowl-2-the-necromantic.json) |
 | Blood Bowl 2: Undead | 52650 | [52650-blood-bowl-2-undead.json](./52650-blood-bowl-2-undead.json) |
 | Blood Bowl 2: Wood Elves | 52648 | [52648-blood-bowl-2-wood-elves.json](./52648-blood-bowl-2-wood-elves.json) |
