@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
 | Pao Pao Party | 184609 | [184609-pao-pao-party.json](./184609-pao-pao-party.json) |
+| Papa Needs a Headshot | 360095 | [360095-papa-needs-a-headshot.json](./360095-papa-needs-a-headshot.json) |
 | Papa Pear Saga | 18062 | [18062-papa-pear-saga.json](./18062-papa-pear-saga.json) |
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
@@ -621,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Harvest | 365751 | [365751-party-harvest.json](./365751-party-harvest.json) |
 | Party Jousting | 33608 | [33608-party-jousting.json](./33608-party-jousting.json) |
 | Party Makeover Salon | 87923 | [87923-party-makeover-salon.json](./87923-party-makeover-salon.json) |
+| Party Management | 360067 | [360067-party-management.json](./360067-party-management.json) |
 | Party Mashup | 137613 | [137613-party-mashup.json](./137613-party-mashup.json) |
 | Party Party Time | 231043 | [231043-party-party-time.json](./231043-party-party-time.json) |
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
@@ -887,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peki Manor | 212464 | [212464-peki-manor.json](./212464-peki-manor.json) |
 | Pekin Express - La Route de l'Himalaya | 145698 | [145698-pekin-express-la-route-de-lhimalaya.json](./145698-pekin-express-la-route-de-lhimalaya.json) |
 | Pekka Kana 2 | 94449 | [94449-pekka-kana-2.json](./94449-pekka-kana-2.json) |
+| Pekku | 360061 | [360061-pekku.json](./360061-pekku.json) |
 | Peklo | 266230 | [266230-peklo.json](./266230-peklo.json) |
 | Pekoe | 136988 | [136988-pekoe.json](./136988-pekoe.json) |
 | Pelagicland | 320177 | [320177-pelagicland.json](./320177-pelagicland.json) |
@@ -2861,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post-Soviet Yandere | 159838 | [159838-post-soviet-yandere.json](./159838-post-soviet-yandere.json) |
 | Postal 2: A Very Postal Christmas | 129788 | [129788-postal-2-a-very-postal-christmas.json](./129788-postal-2-a-very-postal-christmas.json) |
 | Postal 2: A Week in Paradise | 129789 | [129789-postal-2-a-week-in-paradise.json](./129789-postal-2-a-week-in-paradise.json) |
+| Postal 2: CO-OP | 360077 | [360077-postal-2-co-op.json](./360077-postal-2-co-op.json) |
 | Postal: Redux | 8716 | [8716-postal-redux.json](./8716-postal-redux.json) |
 | Postcard Through Time | 417581 | [417581-postcard-through-time.json](./417581-postcard-through-time.json) |
 | Postfrost | 247751 | [247751-postfrost.json](./247751-postfrost.json) |
@@ -3182,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
+| Princess Paloma's Rescue | 360109 | [360109-princess-palomas-rescue.json](./360109-princess-palomas-rescue.json) |
 | Princess Peach Sex Hack | 294709 | [294709-princess-peach-sex-hack.json](./294709-princess-peach-sex-hack.json) |
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
 | Princess Princess: Himetachi no Abunai Houkago | 72671 | [72671-princess-princess-himetachi-no-abunai-houkago.json](./72671-princess-princess-himetachi-no-abunai-houkago.json) |
