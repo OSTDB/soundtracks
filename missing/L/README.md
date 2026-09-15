@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
 | Last Wish | 111074 | [111074-last-wish.json](./111074-last-wish.json) |
+| Last Word | 342169 | [342169-last-word.json](./342169-last-word.json) |
 | Last Year | 19819 | [19819-last-year.json](./19819-last-year.json) |
 | Last Z: Survival Shooter | 375192 | [375192-last-z-survival-shooter.json](./375192-last-z-survival-shooter.json) |
 | Last-Hit Defense | 224027 | [224027-last-hit-defense.json](./224027-last-hit-defense.json) |
@@ -526,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Fighters | 107159 | [107159-league-of-fighters.json](./107159-league-of-fighters.json) |
 | League Of Guessing | 31381 | [31381-league-of-guessing.json](./31381-league-of-guessing.json) |
 | League of Kingdoms | 188647 | [188647-league-of-kingdoms.json](./188647-league-of-kingdoms.json) |
+| League of Legends: 2025 Season Two - Spirit Blossom Beyond | 342170 | [342170-league-of-legends-2025-season-two-spirit-blossom-beyond.json](./342170-league-of-legends-2025-season-two-spirit-blossom-beyond.json) |
 | League of Light | 47277 | [47277-league-of-light.json](./47277-league-of-light.json) |
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
 | League of Stickman: (Dreamsky)Warriors | 105871 | [105871-league-of-stickman-dreamsky-warriors.json](./105871-league-of-stickman-dreamsky-warriors.json) |
@@ -894,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
 | Let's Fight!! Nokachan | 381117 | [381117-lets-fight-nokachan.json](./381117-lets-fight-nokachan.json) |
 | Let's Fish! Hooked On | 21022 | [21022-lets-fish-hooked-on.json](./21022-lets-fish-hooked-on.json) |
+| Let's Get Bakin' | 342130 | [342130-lets-get-bakin.json](./342130-lets-get-bakin.json) |
 | Let's Get Fit at Midnight, Shall We? | 296931 | [296931-lets-get-fit-at-midnight-shall-we.json](./296931-lets-get-fit-at-midnight-shall-we.json) |
 | Let's Get Rich | 112316 | [112316-lets-get-rich.json](./112316-lets-get-rich.json) |
 | Let's Go Camping | 220143 | [220143-lets-go-camping.json](./220143-lets-go-camping.json) |
