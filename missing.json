@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T22:48:55.810Z",
-  "total_missing": 75718,
+  "generated_at": "2026-09-15T22:51:32.193Z",
+  "total_missing": 75717,
   "games": [
     {
       "igdb_id": 306086,
@@ -5566,11 +5566,6 @@
       "igdb_id": 211422,
       "game_name": "Age of Solitaire: Build Civilization",
       "file": "missing/A/211422-age-of-solitaire-build-civilization.json"
-    },
-    {
-      "igdb_id": 254542,
-      "game_name": "Age of Time",
-      "file": "missing/A/254542-age-of-time.json"
     },
     {
       "igdb_id": 176477,
