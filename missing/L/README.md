@@ -996,6 +996,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
 | Liberation | 249813 | [249813-liberation.json](./249813-liberation.json) |
+| Liberation Army | 364590 | [364590-liberation-army.json](./364590-liberation-army.json) |
+| Liberation Army Plus | 364593 | [364593-liberation-army-plus.json](./364593-liberation-army-plus.json) |
 | Liberation Circuit | 185085 | [185085-liberation-circuit.json](./185085-liberation-circuit.json) |
 | Liberation Maiden: SIN | 52548 | [52548-liberation-maiden-sin.json](./52548-liberation-maiden-sin.json) |
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
