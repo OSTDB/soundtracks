@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshiwara Higanbana: Kuon no Chigiri | 110335 | [110335-yoshiwara-higanbana-kuon-no-chigiri.json](./110335-yoshiwara-higanbana-kuon-no-chigiri.json) |
 | Yots | 408062 | [408062-yots.json](./408062-yots.json) |
 | Yotsunoha ~A Journey of Sincerity~ | 140528 | [140528-yotsunoha-a-journey-of-sincerity.json](./140528-yotsunoha-a-journey-of-sincerity.json) |
+| You and I, at the End of That Summer | 375293 | [375293-you-and-i-at-the-end-of-that-summer.json](./375293-you-and-i-at-the-end-of-that-summer.json) |
 | You and Me and Her: A Love Story | 133256 | [133256-you-and-me-and-her-a-love-story.json](./133256-you-and-me-and-her-a-love-story.json) |
 | You Are A Pilot | 189148 | [189148-you-are-a-pilot.json](./189148-you-are-a-pilot.json) |
 | You Are a Torpedo AI | 75777 | [75777-you-are-a-torpedo-ai.json](./75777-you-are-a-torpedo-ai.json) |
