@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Blinck Island | 397077 | [397077-secrets-of-blinck-island.json](./397077-secrets-of-blinck-island.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
 | Secrets of Magic: The Book of Spells | 33245 | [33245-secrets-of-magic-the-book-of-spells.json](./33245-secrets-of-magic-the-book-of-spells.json) |
+| Secrets of Salem: Shadow of the Witch - Collector's Edition | 341022 | [341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json](./341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json) |
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
 | Secrets of the Dark: Eclipse Mountain - Collector's Edition | 96752 | [96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json](./96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json) |
 | Secrets of the Dark: Mystery of the Ancestral Estate & Secrets of the Dark: The Flower of Shadow | 201813 | [201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json](./201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json) |
@@ -1285,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seize the Cheese | 386875 | [386875-seize-the-cheese.json](./386875-seize-the-cheese.json) |
 | Seize the Clay | 118957 | [118957-seize-the-clay.json](./118957-seize-the-clay.json) |
 | Seizure of Territories | 240802 | [240802-seizure-of-territories.json](./240802-seizure-of-territories.json) |
+| Sejm The Game | 341051 | [341051-sejm-the-game.json](./341051-sejm-the-game.json) |
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
 | Sekai de Ichiban Dame na Koi | 413068 | [413068-sekai-de-ichiban-dame-na-koi.json](./413068-sekai-de-ichiban-dame-na-koi.json) |
 | Sekai de Ichiban Kimi ga Suki! | 270691 | [270691-sekai-de-ichiban-kimi-ga-suki.json](./270691-sekai-de-ichiban-kimi-ga-suki.json) |
@@ -6567,6 +6569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steven Seagal Is The Final Option | 38300 | [38300-steven-seagal-is-the-final-option.json](./38300-steven-seagal-is-the-final-option.json) |
 | Steven Spielberg's Director's Chair | 69814 | [69814-steven-spielbergs-directors-chair.json](./69814-steven-spielbergs-directors-chair.json) |
 | Steven Universe: Save the Light & OK K.O.! Let's Play Heroes Combo Pack | 107150 | [107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json](./107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json) |
+| Stevo Life | 341016 | [341016-stevo-life.json](./341016-stevo-life.json) |
 | Stewie Talking Electronic Pinball | 218441 | [218441-stewie-talking-electronic-pinball.json](./218441-stewie-talking-electronic-pinball.json) |
 | Stick 'Em Up 2: Paper Adventures - Starter Edition | 89634 | [89634-stick-em-up-2-paper-adventures-starter-edition.json](./89634-stick-em-up-2-paper-adventures-starter-edition.json) |
 | Stick A Round | 352788 | [352788-stick-a-round.json](./352788-stick-a-round.json) |
@@ -8906,6 +8909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Bruno Mars - "Runaway Baby" | 356079 | [356079-synth-riders-bruno-mars-runaway-baby.json](./356079-synth-riders-bruno-mars-runaway-baby.json) |
 | Synth Riders: Caravan Palace - "Lone Digger" | 356191 | [356191-synth-riders-caravan-palace-lone-digger.json](./356191-synth-riders-caravan-palace-lone-digger.json) |
 | Synth Riders: Caravan Palace - "Tattoos" | 356183 | [356183-synth-riders-caravan-palace-tattoos.json](./356183-synth-riders-caravan-palace-tattoos.json) |
+| Synth Riders: Challenges+ Update | 341049 | [341049-synth-riders-challenges-update.json](./341049-synth-riders-challenges-update.json) |
 | Synth Riders: Cut Capers - "Let's Start Again (Odd Chap Remix)" | 288234 | [288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json](./288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json) |
 | Synth Riders: Daryl Hall & John Oates - "Out of Touch" | 353389 | [353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json](./353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json) |
 | Synth Riders: Groovin' Essentials | 356180 | [356180-synth-riders-groovin-essentials.json](./356180-synth-riders-groovin-essentials.json) |
