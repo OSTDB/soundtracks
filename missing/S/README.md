@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scars of Summer: After | 381696 | [381696-scars-of-summer-after.json](./381696-scars-of-summer-after.json) |
 | Scary 8 Bits | 404207 | [404207-scary-8-bits.json](./404207-scary-8-bits.json) |
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
+| Scary Game | 356148 | [356148-scary-game.json](./356148-scary-game.json) |
 | Scary Goat 2017 | 89987 | [89987-scary-goat-2017.json](./89987-scary-goat-2017.json) |
 | Scary Granny | 370183 | [370183-scary-granny.json](./370183-scary-granny.json) |
 | Scary Hospital Horror Game | 157214 | [157214-scary-hospital-horror-game.json](./157214-scary-hospital-horror-game.json) |
@@ -2207,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shokrok Throwdown | 73283 | [73283-shokrok-throwdown.json](./73283-shokrok-throwdown.json) |
 | Shoku Iku Series 1: Soreike! Anpanman: Sukikirai Nai Ko Genki na Ko! | 327607 | [327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json](./327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json) |
 | Shokugeki no Soma: Yuujou to Kizuna no Hitosara | 222523 | [222523-shokugeki-no-soma-yuujou-to-kizuna-no-hitosara.json](./222523-shokugeki-no-soma-yuujou-to-kizuna-no-hitosara.json) |
+| Shokuho | 356163 | [356163-shokuho.json](./356163-shokuho.json) |
 | Shokuma Gaiden 3 | 97375 | [97375-shokuma-gaiden-3.json](./97375-shokuma-gaiden-3.json) |
 | Shokuo Shoujo | 158152 | [158152-shokuo-shoujo.json](./158152-shokuo-shoujo.json) |
 | Shokutama | 97828 | [97828-shokutama.json](./97828-shokutama.json) |
@@ -5977,6 +5979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Battlefront - Elite Squadron | 192925 | [192925-star-wars-battlefront-elite-squadron.json](./192925-star-wars-battlefront-elite-squadron.json) |
 | Star Wars: Bounty Hunter | 307040 | [307040-star-wars-bounty-hunter.json](./307040-star-wars-bounty-hunter.json) |
 | Star Wars: Commander | 19429 | [19429-star-wars-commander.json](./19429-star-wars-commander.json) |
+| Star Wars: Conquest | 356198 | [356198-star-wars-conquest.json](./356198-star-wars-conquest.json) |
 | Star Wars: Dark Forces Remaster | 262973 | [262973-star-wars-dark-forces-remaster.json](./262973-star-wars-dark-forces-remaster.json) |
 | Star Wars: Demolition | 143 | [143-star-wars-demolition.json](./143-star-wars-demolition.json) |
 | Star Wars: DroidWorks | 95480 | [95480-star-wars-droidworks.json](./95480-star-wars-droidworks.json) |
@@ -6952,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold: Warlords - The Mongol Empire Campaign | 186879 | [186879-stronghold-warlords-the-mongol-empire-campaign.json](./186879-stronghold-warlords-the-mongol-empire-campaign.json) |
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
 | Strontium Dog: The Killing | 38924 | [38924-strontium-dog-the-killing.json](./38924-strontium-dog-the-killing.json) |
+| Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
 | Stuart Little 2 | 27628 | [27628-stuart-little-2.json](./27628-stuart-little-2.json) |
@@ -8764,21 +8768,33 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Bad Religion - "21st Century (Digital Boy)" | 356085 | [356085-synth-riders-bad-religion-21st-century-digital-boy.json](./356085-synth-riders-bad-religion-21st-century-digital-boy.json) |
 | Synth Riders: Balduin, Wolfgang Lohr - "Magic Man" | 288233 | [288233-synth-riders-balduin-wolfgang-lohr-magic-man.json](./288233-synth-riders-balduin-wolfgang-lohr-magic-man.json) |
 | Synth Riders: Bruno Mars - "Runaway Baby" | 356079 | [356079-synth-riders-bruno-mars-runaway-baby.json](./356079-synth-riders-bruno-mars-runaway-baby.json) |
+| Synth Riders: Caravan Palace - "Lone Digger" | 356191 | [356191-synth-riders-caravan-palace-lone-digger.json](./356191-synth-riders-caravan-palace-lone-digger.json) |
+| Synth Riders: Caravan Palace - "Tattoos" | 356183 | [356183-synth-riders-caravan-palace-tattoos.json](./356183-synth-riders-caravan-palace-tattoos.json) |
 | Synth Riders: Cut Capers - "Let's Start Again (Odd Chap Remix)" | 288234 | [288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json](./288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json) |
+| Synth Riders: Groovin' Essentials | 356180 | [356180-synth-riders-groovin-essentials.json](./356180-synth-riders-groovin-essentials.json) |
 | Synth Riders: Infected Mushroom - "Black Velvet" (feat. Ninet Tayeb) | 364550 | [364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json](./364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json) |
 | Synth Riders: Infected Mushroom Music Pack | 364551 | [364551-synth-riders-infected-mushroom-music-pack.json](./364551-synth-riders-infected-mushroom-music-pack.json) |
 | Synth Riders: Jamie Berry - "Guilty Pleasure" | 288238 | [288238-synth-riders-jamie-berry-guilty-pleasure.json](./288238-synth-riders-jamie-berry-guilty-pleasure.json) |
+| Synth Riders: Lindsey Stirling - "First Light" | 356173 | [356173-synth-riders-lindsey-stirling-first-light.json](./356173-synth-riders-lindsey-stirling-first-light.json) |
 | Synth Riders: Lindsey Stirling - "Mirage" | 356082 | [356082-synth-riders-lindsey-stirling-mirage.json](./356082-synth-riders-lindsey-stirling-mirage.json) |
 | Synth Riders: Monstercat Music Pack | 382180 | [382180-synth-riders-monstercat-music-pack.json](./382180-synth-riders-monstercat-music-pack.json) |
 | Synth Riders: Muse - "Pressure" | 356083 | [356083-synth-riders-muse-pressure.json](./356083-synth-riders-muse-pressure.json) |
+| Synth Riders: Muse - "Reapers" | 356174 | [356174-synth-riders-muse-reapers.json](./356174-synth-riders-muse-reapers.json) |
+| Synth Riders: Muse - "Uprising" | 356176 | [356176-synth-riders-muse-uprising.json](./356176-synth-riders-muse-uprising.json) |
+| Synth Riders: Muse Music Pack & Experience | 356175 | [356175-synth-riders-muse-music-pack-and-experience.json](./356175-synth-riders-muse-music-pack-and-experience.json) |
+| Synth Riders: Nitro Fun - "New Game" | 356184 | [356184-synth-riders-nitro-fun-new-game.json](./356184-synth-riders-nitro-fun-new-game.json) |
 | Synth Riders: Silk Sonic - "Skate" | 356116 | [356116-synth-riders-silk-sonic-skate.json](./356116-synth-riders-silk-sonic-skate.json) |
+| Synth Riders: Starcadian - "Manuals" | 356172 | [356172-synth-riders-starcadian-manuals.json](./356172-synth-riders-starcadian-manuals.json) |
 | Synth Riders: Starcadian - "New Cydonia" | 356080 | [356080-synth-riders-starcadian-new-cydonia.json](./356080-synth-riders-starcadian-new-cydonia.json) |
+| Synth Riders: Starcadian - "Supersymmetry" | 356179 | [356179-synth-riders-starcadian-supersymmetry.json](./356179-synth-riders-starcadian-supersymmetry.json) |
 | Synth Riders: Swingrowers - "Butterfly" | 356084 | [356084-synth-riders-swingrowers-butterfly.json](./356084-synth-riders-swingrowers-butterfly.json) |
 | Synth Riders: Swingrowers - "Rose" | 288235 | [288235-synth-riders-swingrowers-rose.json](./288235-synth-riders-swingrowers-rose.json) |
 | Synth Riders: Synthwave Essentials 3 Music Pack | 382181 | [382181-synth-riders-synthwave-essentials-3-music-pack.json](./382181-synth-riders-synthwave-essentials-3-music-pack.json) |
 | Synth Riders: Tamela D'Amico, Wolfgang Lohr - "Boring 20s" | 288237 | [288237-synth-riders-tamela-damico-wolfgang-lohr-boring-20s.json](./288237-synth-riders-tamela-damico-wolfgang-lohr-boring-20s.json) |
+| Synth Riders: The Midnight - "Days of Thunder" | 356192 | [356192-synth-riders-the-midnight-days-of-thunder.json](./356192-synth-riders-the-midnight-days-of-thunder.json) |
 | Synth Riders: The Midnight - "Sunset" | 356081 | [356081-synth-riders-the-midnight-sunset.json](./356081-synth-riders-the-midnight-sunset.json) |
 | Synth Riders: The Smile - "Zero Sum" | 364552 | [364552-synth-riders-the-smile-zero-sum.json](./364552-synth-riders-the-smile-zero-sum.json) |
+| Synth Riders: Tokyo Machine - "Turbo" | 356171 | [356171-synth-riders-tokyo-machine-turbo.json](./356171-synth-riders-tokyo-machine-turbo.json) |
 | Synth War Tactics | 151188 | [151188-synth-war-tactics.json](./151188-synth-war-tactics.json) |
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
 | Synther | 99008 | [99008-synther.json](./99008-synther.json) |
