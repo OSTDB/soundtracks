@@ -2099,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Door Museum | 177483 | [177483-the-door-museum.json](./177483-the-door-museum.json) |
 | The Dot | 226205 | [226205-the-dot.json](./226205-the-dot.json) |
 | The Downgeon | 137640 | [137640-the-downgeon.json](./137640-the-downgeon.json) |
+| The Dowsing | 369085 | [369085-the-dowsing.json](./369085-the-dowsing.json) |
 | The Drafting Table | 231645 | [231645-the-drafting-table.json](./231645-the-drafting-table.json) |
 | The Dragon and the Djinn | 189166 | [189166-the-dragon-and-the-djinn.json](./189166-the-dragon-and-the-djinn.json) |
 | The Dragon Apprentice | 196883 | [196883-the-dragon-apprentice.json](./196883-the-dragon-apprentice.json) |
@@ -2971,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Wizard: A Goblin Detective Mystery | 389956 | [389956-the-last-wizard-a-goblin-detective-mystery.json](./389956-the-last-wizard-a-goblin-detective-mystery.json) |
 | The Last Worlds: Crossed Souls | 374130 | [374130-the-last-worlds-crossed-souls.json](./374130-the-last-worlds-crossed-souls.json) |
 | The Last Wulin | 156148 | [156148-the-last-wulin.json](./156148-the-last-wulin.json) |
+| The Last Zone | 369123 | [369123-the-last-zone.json](./369123-the-last-zone.json) |
 | The Late D. Flate's Great Estate | 188090 | [188090-the-late-d-flates-great-estate.json](./188090-the-late-d-flates-great-estate.json) |
 | The Lattice Grimoire | 120396 | [120396-the-lattice-grimoire.json](./120396-the-lattice-grimoire.json) |
 | The Lawnmower Man | 388206 | [388206-the-lawnmower-man.json](./388206-the-lawnmower-man.json) |
@@ -3812,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scourge Project: Episodes 1 and 2 | 51294 | [51294-the-scourge-project-episodes-1-and-2.json](./51294-the-scourge-project-episodes-1-and-2.json) |
 | The Scramble Vice | 266468 | [266468-the-scramble-vice.json](./266468-the-scramble-vice.json) |
 | The Scrapper | 306645 | [306645-the-scrapper.json](./306645-the-scrapper.json) |
+| The Screen | 369116 | [369116-the-screen.json](./369116-the-screen.json) |
 | The Scruffs | 73776 | [73776-the-scruffs.json](./73776-the-scruffs.json) |
 | The Scrungeon Depths | 74471 | [74471-the-scrungeon-depths.json](./74471-the-scrungeon-depths.json) |
 | The Sea Has No Claim | 185646 | [185646-the-sea-has-no-claim.json](./185646-the-sea-has-no-claim.json) |
@@ -4623,6 +4626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wind: A Story of Surrender | 152838 | [152838-the-wind-a-story-of-surrender.json](./152838-the-wind-a-story-of-surrender.json) |
 | The Wind's Disciple | 265935 | [265935-the-winds-disciple.json](./265935-the-winds-disciple.json) |
 | The Window 8 | 348228 | [348228-the-window-8.json](./348228-the-window-8.json) |
+| The Window 8: Millennium | 369105 | [369105-the-window-8-millennium.json](./369105-the-window-8-millennium.json) |
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
 | The Winter | 209684 | [209684-the-winter.json](./209684-the-winter.json) |
 | The Winter Games | 264346 | [264346-the-winter-games.json](./264346-the-winter-games.json) |
@@ -7294,6 +7298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribulum | 410983 | [410983-tribulum.json](./410983-tribulum.json) |
 | Tribute | 293387 | [293387-tribute.json](./293387-tribute.json) |
 | Trick DS Ban: Kakushigami no Sumu Yakata | 329949 | [329949-trick-ds-ban-kakushigami-no-sumu-yakata.json](./329949-trick-ds-ban-kakushigami-no-sumu-yakata.json) |
+| Trick Eight | 369088 | [369088-trick-eight.json](./369088-trick-eight.json) |
 | Trick or Alice | 251191 | [251191-trick-or-alice.json](./251191-trick-or-alice.json) |
 | Trick or Beat | 404236 | [404236-trick-or-beat.json](./404236-trick-or-beat.json) |
 | Trick or Treat | 197386 | [197386-trick-or-treat.json](./197386-trick-or-treat.json) |
