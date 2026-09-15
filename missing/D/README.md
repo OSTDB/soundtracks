@@ -2759,6 +2759,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DommeGer's Plane | 215373 | [215373-dommegers-plane.json](./215373-dommegers-plane.json) |
 | Domo Jump | 63307 | [63307-domo-jump.json](./63307-domo-jump.json) |
 | Domo-kun no Card-e: Domo-kun no Fushigi Terebi - Meisou Domo | 220851 | [220851-domo-kun-no-card-e-domo-kun-no-fushigi-terebi-meisou-domo.json](./220851-domo-kun-no-card-e-domo-kun-no-fushigi-terebi-meisou-domo.json) |
+| Domo-kun no Card-e: Game - Koro-koro Domo | 352824 | [352824-domo-kun-no-card-e-game-koro-koro-domo.json](./352824-domo-kun-no-card-e-game-koro-koro-domo.json) |
+| Domo-kun no Card-e: Kyougi - Curling (Domo-kun) | 352801 | [352801-domo-kun-no-card-e-kyougi-curling-domo-kun.json](./352801-domo-kun-no-card-e-kyougi-curling-domo-kun.json) |
+| Domo-kun no Card-e: Kyougi - Figure Skate | 352794 | [352794-domo-kun-no-card-e-kyougi-figure-skate.json](./352794-domo-kun-no-card-e-kyougi-figure-skate.json) |
+| Domo-kun no Card-e: Kyougi - Jump | 352795 | [352795-domo-kun-no-card-e-kyougi-jump.json](./352795-domo-kun-no-card-e-kyougi-jump.json) |
+| Domo-kun no Card-e: Kyougi - Snowboard | 352797 | [352797-domo-kun-no-card-e-kyougi-snowboard.json](./352797-domo-kun-no-card-e-kyougi-snowboard.json) |
+| Domo-kun no Card-e: Kyougi - Speed Skate (Domo-kun) | 352799 | [352799-domo-kun-no-card-e-kyougi-speed-skate-domo-kun.json](./352799-domo-kun-no-card-e-kyougi-speed-skate-domo-kun.json) |
+| Domo-kun no Card-e: Winter Pack | 352825 | [352825-domo-kun-no-card-e-winter-pack.json](./352825-domo-kun-no-card-e-winter-pack.json) |
 | Domum | 211965 | [211965-domum.json](./211965-domum.json) |
 | Don Bluth Presents Dragon's Lair 20th Anniversary Special Edition | 84222 | [84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json](./84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json) |
 | Don Dim Dum | 248899 | [248899-don-dim-dum.json](./248899-don-dim-dum.json) |
@@ -3620,6 +3627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Hollow | 350416 | [350416-dream-hollow.json](./350416-dream-hollow.json) |
 | Dream Home | 127082 | [127082-dream-home.json](./127082-dream-home.json) |
 | Dream Hopper | 200139 | [200139-dream-hopper.json](./200139-dream-hopper.json) |
+| Dream Hospital | 352861 | [352861-dream-hospital.json](./352861-dream-hospital.json) |
 | Dream Hotel Master | 303492 | [303492-dream-hotel-master.json](./303492-dream-hotel-master.json) |
 | Dream Invader | 220330 | [220330-dream-invader.json](./220330-dream-invader.json) |
 | Dream Island: A Skyward Journey | 281380 | [281380-dream-island-a-skyward-journey.json](./281380-dream-island-a-skyward-journey.json) |
