@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T21:21:37.816Z",
-  "total_missing": 75459,
+  "generated_at": "2026-09-15T21:31:31.723Z",
+  "total_missing": 75468,
   "games": [
     {
       "igdb_id": 306086,
@@ -5526,11 +5526,6 @@
       "igdb_id": 399098,
       "game_name": "Age of Gods: Tribal Faction",
       "file": "missing/A/399098-age-of-gods-tribal-faction.json"
-    },
-    {
-      "igdb_id": 61074,
-      "game_name": "Age of Grit",
-      "file": "missing/A/61074-age-of-grit.json"
     },
     {
       "igdb_id": 188228,
@@ -41221,6 +41216,11 @@
       "igdb_id": 35857,
       "game_name": "Bridge Creator 2015",
       "file": "missing/B/35857-bridge-creator-2015.json"
+    },
+    {
+      "igdb_id": 337726,
+      "game_name": "Bridge Encounter",
+      "file": "missing/B/337726-bridge-encounter.json"
     },
     {
       "igdb_id": 83475,
@@ -116041,6 +116041,11 @@
       "igdb_id": 273912,
       "game_name": "Frog Jump",
       "file": "missing/F/273912-frog-jump.json"
+    },
+    {
+      "igdb_id": 337730,
+      "game_name": "Frog Legs",
+      "file": "missing/F/337730-frog-legs.json"
     },
     {
       "igdb_id": 66061,
@@ -221448,6 +221453,11 @@
       "file": "missing/O/304892-ore-no-yome-vr.json"
     },
     {
+      "igdb_id": 337727,
+      "game_name": "Ore to Omae ga Ai ni Tsuite Kataru dake",
+      "file": "missing/O/337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json"
+    },
+    {
       "igdb_id": 303221,
       "game_name": "Ore'n: Battle Meme Chronicle",
       "file": "missing/O/303221-oren-battle-meme-chronicle.json"
@@ -227978,6 +227988,11 @@
       "file": "missing/P/314054-pearl-rising.json"
     },
     {
+      "igdb_id": 337732,
+      "game_name": "Pearlessential",
+      "file": "missing/P/337732-pearlessential.json"
+    },
+    {
       "igdb_id": 164974,
       "game_name": "Pearls of the Oceans",
       "file": "missing/P/164974-pearls-of-the-oceans.json"
@@ -232311,6 +232326,11 @@
       "igdb_id": 223129,
       "game_name": "Piofiore: Episodio 1926 Limited Edition",
       "file": "missing/P/223129-piofiore-episodio-1926-limited-edition.json"
+    },
+    {
+      "igdb_id": 337737,
+      "game_name": "Pioneer",
+      "file": "missing/P/337737-pioneer.json"
     },
     {
       "igdb_id": 61666,
@@ -251733,6 +251753,11 @@
       "file": "missing/R/96035-red-storm-survival.json"
     },
     {
+      "igdb_id": 337733,
+      "game_name": "Red Supreme",
+      "file": "missing/R/337733-red-supreme.json"
+    },
+    {
       "igdb_id": 180769,
       "game_name": "Red Tag Rendezvous",
       "file": "missing/R/180769-red-tag-rendezvous.json"
@@ -257278,6 +257303,11 @@
       "file": "missing/R/33140-road-madness.json"
     },
     {
+      "igdb_id": 337729,
+      "game_name": "Road Motel Simulator",
+      "file": "missing/R/337729-road-motel-simulator.json"
+    },
+    {
       "igdb_id": 41936,
       "game_name": "Road of Danger",
       "file": "missing/R/41936-road-of-danger.json"
@@ -261386,6 +261416,11 @@
       "igdb_id": 159871,
       "game_name": "Ruby Heart",
       "file": "missing/R/159871-ruby-heart.json"
+    },
+    {
+      "igdb_id": 337734,
+      "game_name": "Ruby Journey",
+      "file": "missing/R/337734-ruby-journey.json"
     },
     {
       "igdb_id": 303243,
@@ -268526,6 +268561,11 @@
       "igdb_id": 182971,
       "game_name": "Second Chance",
       "file": "missing/S/182971-second-chance.json"
+    },
+    {
+      "igdb_id": 337728,
+      "game_name": "Second Chances",
+      "file": "missing/S/337728-second-chances.json"
     },
     {
       "igdb_id": 35641,
@@ -300361,6 +300401,11 @@
       "igdb_id": 322980,
       "game_name": "Sunforge Solar Survival",
       "file": "missing/S/322980-sunforge-solar-survival.json"
+    },
+    {
+      "igdb_id": 337731,
+      "game_name": "Sungaia Saga",
+      "file": "missing/S/337731-sungaia-saga.json"
     },
     {
       "igdb_id": 75147,
