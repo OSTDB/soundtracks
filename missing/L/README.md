@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Photographer | 367995 | [367995-late-photographer.json](./367995-late-photographer.json) |
 | Late Photographer 4 | 199567 | [199567-late-photographer-4.json](./199567-late-photographer-4.json) |
 | Late Photographer 6 | 228086 | [228086-late-photographer-6.json](./228086-late-photographer-6.json) |
+| Late Stage Capitalism | 355125 | [355125-late-stage-capitalism.json](./355125-late-stage-capitalism.json) |
 | Late Work | 177487 | [177487-late-work.json](./177487-late-work.json) |
 | Later Daters: Part One and Two | 238183 | [238183-later-daters-part-one-and-two.json](./238183-later-daters-part-one-and-two.json) |
 | Lateral Thinking Together | 372493 | [372493-lateral-thinking-together.json](./372493-lateral-thinking-together.json) |
@@ -754,6 +755,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Racers | 343274 | [343274-lego-racers.json](./343274-lego-racers.json) |
 | LEGO Racers 2 | 390 | [390-lego-racers-2.json](./390-lego-racers-2.json) |
 | LEGO Racers: The Video Game | 341908 | [341908-lego-racers-the-video-game.json](./341908-lego-racers-the-video-game.json) |
+| Lego Star Wars the Force Awakens - First Order Siege of Takodana Level Pack | 355113 | [355113-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-level-pack.json](./355113-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-level-pack.json) |
+| Lego Star Wars the Force Awakens - Star Wars Rebels Character Pack | 355112 | [355112-lego-star-wars-the-force-awakens-star-wars-rebels-character-pack.json](./355112-lego-star-wars-the-force-awakens-star-wars-rebels-character-pack.json) |
+| Lego Star Wars the Force Awakens - The Freemaker Adventures Character Pack | 355114 | [355114-lego-star-wars-the-force-awakens-the-freemaker-adventures-character-pack.json](./355114-lego-star-wars-the-force-awakens-the-freemaker-adventures-character-pack.json) |
 | LEGO Star Wars: Castaways | 182441 | [182441-lego-star-wars-castaways.json](./182441-lego-star-wars-castaways.json) |
 | LEGO Star Wars: The Force Awakens - Deluxe Edition | 53271 | [53271-lego-star-wars-the-force-awakens-deluxe-edition.json](./53271-lego-star-wars-the-force-awakens-deluxe-edition.json) |
 | LEGO Star Wars: The Force Awakens - Escape From Starkiller Base | 138165 | [138165-lego-star-wars-the-force-awakens-escape-from-starkiller-base.json](./138165-lego-star-wars-the-force-awakens-escape-from-starkiller-base.json) |
@@ -1914,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Heart of Chernobyl: Survival | 314864 | [314864-lost-in-heart-of-chernobyl-survival.json](./314864-lost-in-heart-of-chernobyl-survival.json) |
 | Lost in Hieroglyphs: A Hidden Objects Expedition | 317020 | [317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json](./317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json) |
 | Lost in Limbo | 307932 | [307932-lost-in-limbo.json](./307932-lost-in-limbo.json) |
+| Lost in Loss | 355104 | [355104-lost-in-loss.json](./355104-lost-in-loss.json) |
 | Lost in LS | 328221 | [328221-lost-in-ls.json](./328221-lost-in-ls.json) |
 | Lost in Memory | 228087 | [228087-lost-in-memory.json](./228087-lost-in-memory.json) |
 | Lost in Paradise | 20528 | [20528-lost-in-paradise.json](./20528-lost-in-paradise.json) |
@@ -2182,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Adventure Idle RPG | 143079 | [143079-lucid-adventure-idle-rpg.json](./143079-lucid-adventure-idle-rpg.json) |
 | Lucid Deep | 132774 | [132774-lucid-deep.json](./132774-lucid-deep.json) |
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
+| Lucid Nightmares | 355126 | [355126-lucid-nightmares.json](./355126-lucid-nightmares.json) |
 | Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | Lucifer Ring | 43873 | [43873-lucifer-ring.json](./43873-lucifer-ring.json) |
