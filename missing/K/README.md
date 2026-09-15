@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kai-Ri-Sei Million Arthur: Ring | 318432 | [318432-kai-ri-sei-million-arthur-ring.json](./318432-kai-ri-sei-million-arthur-ring.json) |
 | Kai.Ren | 174877 | [174877-kai-ren.json](./174877-kai-ren.json) |
 | Kaia's Ascent | 337995 | [337995-kaias-ascent.json](./337995-kaias-ascent.json) |
+| Kaido Genkai | 349376 | [349376-kaido-genkai.json](./349376-kaido-genkai.json) |
 | Kaigrad | 163969 | [163969-kaigrad.json](./163969-kaigrad.json) |
 | Kaiju Catastrophe | 217331 | [217331-kaiju-catastrophe.json](./217331-kaiju-catastrophe.json) |
 | Kaiju Cleanup | 370709 | [370709-kaiju-cleanup.json](./370709-kaiju-cleanup.json) |
