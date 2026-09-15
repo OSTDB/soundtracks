@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Lookouts | 300385 | [300385-little-lookouts.json](./300385-little-lookouts.json) |
 | Little Lovers | 108969 | [108969-little-lovers.json](./108969-little-lovers.json) |
 | Little Lovers 2nd. Yui | 108968 | [108968-little-lovers-2nd-yui.json](./108968-little-lovers-2nd-yui.json) |
+| Little Lures | 361225 | [361225-little-lures.json](./361225-little-lures.json) |
 | Little Mage | 116355 | [116355-little-mage.json](./116355-little-mage.json) |
 | Little Magic | 267646 | [267646-little-magic.json](./267646-little-magic.json) |
 | Little Magic | 38383 | [38383-little-magic.json](./38383-little-magic.json) |
