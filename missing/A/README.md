@@ -485,7 +485,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner III | 365185 | [365185-after-burner-iii.json](./365185-after-burner-iii.json) |
 | After Burner III | 5356 | [5356-after-burner-iii.json](./5356-after-burner-iii.json) |
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
-| After Dark VR | 187533 | [187533-after-dark-vr.json](./187533-after-dark-vr.json) |
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
 | After Grow | 372578 | [372578-after-grow.json](./372578-after-grow.json) |
 | After Gym | 239347 | [239347-after-gym.json](./239347-after-gym.json) |
