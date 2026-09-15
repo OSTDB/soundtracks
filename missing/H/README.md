@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitme | 178096 | [178096-hitme.json](./178096-hitme.json) |
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
 | Hitokata | 337114 | [337114-hitokata.json](./337114-hitokata.json) |
+| Hitori | 334771 | [334771-hitori.json](./334771-hitori.json) |
 | Hitori Kakurenbo | 150131 | [150131-hitori-kakurenbo.json](./150131-hitori-kakurenbo.json) |
 | Hitori Kakurenbo Online | 187450 | [187450-hitori-kakurenbo-online.json](./187450-hitori-kakurenbo-online.json) |
 | Hitotsu Tobashi Renai V | 217545 | [217545-hitotsu-tobashi-renai-v.json](./217545-hitotsu-tobashi-renai-v.json) |
