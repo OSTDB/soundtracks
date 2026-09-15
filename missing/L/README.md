@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Mina | 252994 | [252994-la-mina.json](./252994-la-mina.json) |
 | La Nuit | 261807 | [261807-la-nuit.json](./261807-la-nuit.json) |
 | La Odisea del Fracaso III | 323540 | [323540-la-odisea-del-fracaso-iii.json](./323540-la-odisea-del-fracaso-iii.json) |
+| La Pasion XR | 341033 | [341033-la-pasion-xr.json](./341033-la-pasion-xr.json) |
 | La pesadilla de Illojuan | 302719 | [302719-la-pesadilla-de-illojuan.json](./302719-la-pesadilla-de-illojuan.json) |
 | La torre de Mario | 374170 | [374170-la-torre-de-mario.json](./374170-la-torre-de-mario.json) |
 | La Ultima Comida | 153427 | [153427-la-ultima-comida.json](./153427-la-ultima-comida.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last dungeon of defeat - Humiliation for female warrior Erina | 134627 | [134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json](./134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json) |
 | Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
 | Last Epoch: Shattered Omens | 408917 | [408917-last-epoch-shattered-omens.json](./408917-last-epoch-shattered-omens.json) |
+| Last Epoch: Tombs of the Erased | 341008 | [341008-last-epoch-tombs-of-the-erased.json](./341008-last-epoch-tombs-of-the-erased.json) |
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
 | Last Floor | 400252 | [400252-last-floor.json](./400252-last-floor.json) |
 | Last Friend | 91968 | [91968-last-friend.json](./91968-last-friend.json) |
