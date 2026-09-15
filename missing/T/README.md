@@ -594,6 +594,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
 | Tansaikigou: Sec Life, Monochrome Cube | 376603 | [376603-tansaikigou-sec-life-monochrome-cube.json](./376603-tansaikigou-sec-life-monochrome-cube.json) |
 | Tantal | 159801 | [159801-tantal.json](./159801-tantal.json) |
+| Tantei Jinguji Saburo Series No. 02: Yokohama-ko Renzoku Satsujin Jiken | 347247 | [347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json](./347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json) |
+| Tantei Jinguji Saburo Series No. 03: Kiken na Futari | 347248 | [347248-tantei-jinguji-saburo-series-no-03-kiken-na-futari.json](./347248-tantei-jinguji-saburo-series-no-03-kiken-na-futari.json) |
+| Tantei Jinguji Saburo Series No. 04: Toki no Sugiyuku Mama ni... | 347250 | [347250-tantei-jinguji-saburo-series-no-04-toki-no-sugiyuku-mama-ni.json](./347250-tantei-jinguji-saburo-series-no-04-toki-no-sugiyuku-mama-ni.json) |
+| Tantei Jinguji Saburo Series No. 05: Akai Me no Tora | 347251 | [347251-tantei-jinguji-saburo-series-no-05-akai-me-no-tora.json](./347251-tantei-jinguji-saburo-series-no-05-akai-me-no-tora.json) |
+| Tantei Jinguji Saburo Series No. 06: 6-mai no Hankou | 347252 | [347252-tantei-jinguji-saburo-series-no-06-6-mai-no-hankou.json](./347252-tantei-jinguji-saburo-series-no-06-6-mai-no-hankou.json) |
+| Tantei Jinguji Saburo Series No. 07: Bouen wo Sagase! | 347253 | [347253-tantei-jinguji-saburo-series-no-07-bouen-wo-sagase.json](./347253-tantei-jinguji-saburo-series-no-07-bouen-wo-sagase.json) |
+| Tantei Jinguji Saburo Series No. 08: Aoi Me no Ryuu | 347254 | [347254-tantei-jinguji-saburo-series-no-08-aoi-me-no-ryuu.json](./347254-tantei-jinguji-saburo-series-no-08-aoi-me-no-ryuu.json) |
+| Tantei Jinguji Saburo Series No. 09: Quito no Yoru | 347255 | [347255-tantei-jinguji-saburo-series-no-09-quito-no-yoru.json](./347255-tantei-jinguji-saburo-series-no-09-quito-no-yoru.json) |
+| Tantei Jinguji Saburo Series No. 10: Shikaku no Wana | 347256 | [347256-tantei-jinguji-saburo-series-no-10-shikaku-no-wana.json](./347256-tantei-jinguji-saburo-series-no-10-shikaku-no-wana.json) |
+| Tantei Jinguji Saburo Series No. 11: Inu to Yobareta Otoko | 347257 | [347257-tantei-jinguji-saburo-series-no-11-inu-to-yobareta-otoko.json](./347257-tantei-jinguji-saburo-series-no-11-inu-to-yobareta-otoko.json) |
+| Tantei Jinguji Saburo Series No. 12: Futa-iro no Shoujo | 347259 | [347259-tantei-jinguji-saburo-series-no-12-futa-iro-no-shoujo.json](./347259-tantei-jinguji-saburo-series-no-12-futa-iro-no-shoujo.json) |
+| Tantei Jinguji Saburo Series No. 13: Inochi Tatsu Kokugen | 347260 | [347260-tantei-jinguji-saburo-series-no-13-inochi-tatsu-kokugen.json](./347260-tantei-jinguji-saburo-series-no-13-inochi-tatsu-kokugen.json) |
+| Tantei Jinguji Saburo Series No. 14: Takusareta Yubiwa | 347262 | [347262-tantei-jinguji-saburo-series-no-14-takusareta-yubiwa.json](./347262-tantei-jinguji-saburo-series-no-14-takusareta-yubiwa.json) |
+| Tantei Jinguji Saburo Series No. 15: Shingi no Hazama | 347263 | [347263-tantei-jinguji-saburo-series-no-15-shingi-no-hazama.json](./347263-tantei-jinguji-saburo-series-no-15-shingi-no-hazama.json) |
+| Tantei Jinguji Saburo Series No. 16: Tsubaki no Yukue | 347264 | [347264-tantei-jinguji-saburo-series-no-16-tsubaki-no-yukue.json](./347264-tantei-jinguji-saburo-series-no-16-tsubaki-no-yukue.json) |
+| Tantei Jinguji Saburo Series No. 17: Akenai Yoru ni | 347266 | [347266-tantei-jinguji-saburo-series-no-17-akenai-yoru-ni.json](./347266-tantei-jinguji-saburo-series-no-17-akenai-yoru-ni.json) |
+| Tantei Jinguji Saburo Series No. 18: Kadan no Itte | 347267 | [347267-tantei-jinguji-saburo-series-no-18-kadan-no-itte.json](./347267-tantei-jinguji-saburo-series-no-18-kadan-no-itte.json) |
+| Tantei Jinguji Saburo Series No. 19: Rensa Suru Noroi | 347269 | [347269-tantei-jinguji-saburo-series-no-19-rensa-suru-noroi.json](./347269-tantei-jinguji-saburo-series-no-19-rensa-suru-noroi.json) |
+| Tantei Jinguji Saburo Series No. 20: Naki Ko no Shouzou | 347271 | [347271-tantei-jinguji-saburo-series-no-20-naki-ko-no-shouzou.json](./347271-tantei-jinguji-saburo-series-no-20-naki-ko-no-shouzou.json) |
+| Tantei Jinguji Saburo Series No. 21: Oni-hime-den | 347272 | [347272-tantei-jinguji-saburo-series-no-21-oni-hime-den.json](./347272-tantei-jinguji-saburo-series-no-21-oni-hime-den.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Kouhen | 41414 | [41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json](./41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Zenpen | 41413 | [41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json](./41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json) |
 | Tantei Jinguji Saburo: Shinjuku Chuuou Kouen Satsujin Jiken | 41412 | [41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json](./41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json) |
@@ -4375,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
 | The Tower | 366928 | [366928-the-tower.json](./366928-the-tower.json) |
 | The Tower 2 | 120952 | [120952-the-tower-2.json](./120952-the-tower-2.json) |
+| The Tower of Shadows | 347232 | [347232-the-tower-of-shadows.json](./347232-the-tower-of-shadows.json) |
 | The Tower of TigerQiuQiu 2: 1942-J20 | 157690 | [157690-the-tower-of-tigerqiuqiu-2-1942-j20.json](./157690-the-tower-of-tigerqiuqiu-2-1942-j20.json) |
 | The Tower of TigerQiuQiu 2: 1952 M0 | 173714 | [173714-the-tower-of-tigerqiuqiu-2-1952-m0.json](./173714-the-tower-of-tigerqiuqiu-2-1952-m0.json) |
 | The Tower of TigerQiuQiu 2: 1952 M1 | 173734 | [173734-the-tower-of-tigerqiuqiu-2-1952-m1.json](./173734-the-tower-of-tigerqiuqiu-2-1952-m1.json) |
@@ -5172,6 +5193,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiamat's Drink | 127198 | [127198-tiamats-drink.json](./127198-tiamats-drink.json) |
 | Tiān Yuán Chuánshuō | 407320 | [407320-tian-yuan-chuanshuo.json](./407320-tian-yuan-chuanshuo.json) |
 | Tiana's Fishing Diary | 390640 | [390640-tianas-fishing-diary.json](./390640-tianas-fishing-diary.json) |
+| Tiāndào: Gōngdé Chāojí Bāo | 347223 | [347223-tiandao-gongde-chaoji-bao.json](./347223-tiandao-gongde-chaoji-bao.json) |
+| Tiāndào: Gōngdé Dà Lǐ Bāo | 347224 | [347224-tiandao-gongde-da-li-bao.json](./347224-tiandao-gongde-da-li-bao.json) |
 | Tianlao Sokoban | 107820 | [107820-tianlao-sokoban.json](./107820-tianlao-sokoban.json) |
 | Tiānqì | 167820 | [167820-tianqi.json](./167820-tianqi.json) |
 | Tiānrén zhī Xuè: Ancient Relic | 394213 | [394213-tianren-zhi-xue-ancient-relic.json](./394213-tianren-zhi-xue-ancient-relic.json) |
@@ -7926,6 +7949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok: Rage Wars | 1327 | [1327-turok-rage-wars.json](./1327-turok-rage-wars.json) |
 | Turquoise | 389596 | [389596-turquoise.json](./389596-turquoise.json) |
 | TurretCraft | 34272 | [34272-turretcraft.json](./34272-turretcraft.json) |
+| TurretGirls | 347243 | [347243-turretgirls.json](./347243-turretgirls.json) |
 | Turrican 3 | 12803 | [12803-turrican-3.json](./12803-turrican-3.json) |
 | Turrican III | 37098 | [37098-turrican-iii.json](./37098-turrican-iii.json) |
 | Turte | 309885 | [309885-turte.json](./309885-turte.json) |
