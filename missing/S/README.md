@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Jump | 219603 | [219603-shadow-jump.json](./219603-shadow-jump.json) |
 | Shadow Knight | 227519 | [227519-shadow-knight.json](./227519-shadow-knight.json) |
 | Shadow Land | 242558 | [242558-shadow-land.json](./242558-shadow-land.json) |
+| Shadow Mansion 2 | 374144 | [374144-shadow-mansion-2.json](./374144-shadow-mansion-2.json) |
 | Shadow Mantis | 377086 | [377086-shadow-mantis.json](./377086-shadow-mantis.json) |
 | Shadow Matching Puzzles | 231904 | [231904-shadow-matching-puzzles.json](./231904-shadow-matching-puzzles.json) |
 | Shadow Mist | 28905 | [28905-shadow-mist.json](./28905-shadow-mist.json) |
@@ -3103,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay and Spray Exterminators | 384512 | [384512-slay-and-spray-exterminators.json](./384512-slay-and-spray-exterminators.json) |
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
+| Slay the King | 374164 | [374164-slay-the-king.json](./374164-slay-the-king.json) |
 | Slay the Spire II | 296831 | [296831-slay-the-spire-ii.json](./296831-slay-the-spire-ii.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
 | Slayblade | 394830 | [394830-slayblade.json](./394830-slayblade.json) |
@@ -3485,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snaaker & Friends | 169393 | [169393-snaaker-and-friends.json](./169393-snaaker-and-friends.json) |
 | Snaccoon | 214496 | [214496-snaccoon.json](./214496-snaccoon.json) |
 | Snack and Quack | 366221 | [366221-snack-and-quack.json](./366221-snack-and-quack.json) |
+| Snack Attack | 374133 | [374133-snack-attack.json](./374133-snack-attack.json) |
 | Snack Invaders | 392275 | [392275-snack-invaders.json](./392275-snack-invaders.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
@@ -4223,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Putter | 261251 | [261251-sonic-putter.json](./261251-sonic-putter.json) |
 | Sonic QWERTY | 266511 | [266511-sonic-qwerty.json](./266511-sonic-qwerty.json) |
 | Sonic Racers | 333936 | [333936-sonic-racers.json](./333936-sonic-racers.json) |
+| Sonic Racing: CrossWorlds - "Blue Star" Extreme Gear | 374160 | [374160-sonic-racing-crossworlds-blue-star-extreme-gear.json](./374160-sonic-racing-crossworlds-blue-star-extreme-gear.json) |
 | Sonic Racing: CrossWorlds - Avatar Legends Pack | 375167 | [375167-sonic-racing-crossworlds-avatar-legends-pack.json](./375167-sonic-racing-crossworlds-avatar-legends-pack.json) |
 | Sonic Racing: CrossWorlds - Pac-Man Pack | 375170 | [375170-sonic-racing-crossworlds-pac-man-pack.json](./375170-sonic-racing-crossworlds-pac-man-pack.json) |
 | Sonic Racing: CrossWorlds - SpongeBob SquarePants Pack | 375166 | [375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json](./375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json) |
@@ -6101,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship: Turret Mode | 354428 | [354428-starship-turret-mode.json](./354428-starship-turret-mode.json) |
 | Starships Unlimited | 72128 | [72128-starships-unlimited.json](./72128-starships-unlimited.json) |
 | Starshot | 151181 | [151181-starshot.json](./151181-starshot.json) |
+| Starshot | 374184 | [374184-starshot.json](./374184-starshot.json) |
 | Starsiege: Deadzone | 251581 | [251581-starsiege-deadzone.json](./251581-starsiege-deadzone.json) |
 | Starsiege: Tribes | 881 | [881-starsiege-tribes.json](./881-starsiege-tribes.json) |
 | Starsphere | 34321 | [34321-starsphere.json](./34321-starsphere.json) |
@@ -8246,6 +8251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi vs. Remilia Scarlet | 206739 | [206739-sushi-vs-remilia-scarlet.json](./206739-sushi-vs-remilia-scarlet.json) |
 | SushiCup Legend | 342618 | [342618-sushicup-legend.json](./342618-sushicup-legend.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
+| Suspecto | 374193 | [374193-suspecto.json](./374193-suspecto.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
 | Suspension Railroad Simulator | 85414 | [85414-suspension-railroad-simulator.json](./85414-suspension-railroad-simulator.json) |
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
@@ -8498,6 +8504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Bones 5 | 360592 | [360592-swords-and-bones-5.json](./360592-swords-and-bones-5.json) |
 | Swords & Bones: Complete Edition | 250365 | [250365-swords-and-bones-complete-edition.json](./250365-swords-and-bones-complete-edition.json) |
 | Swords & Darkness | 85411 | [85411-swords-and-darkness.json](./85411-swords-and-darkness.json) |
+| Swords & Slippers | 374141 | [374141-swords-and-slippers.json](./374141-swords-and-slippers.json) |
 | Swords & Soldiers | 210258 | [210258-swords-and-soldiers.json](./210258-swords-and-soldiers.json) |
 | Swords & Soldiers | 210261 | [210261-swords-and-soldiers.json](./210261-swords-and-soldiers.json) |
 | Swords & Soldiers | 210262 | [210262-swords-and-soldiers.json](./210262-swords-and-soldiers.json) |
