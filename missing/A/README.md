@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About Frontlines | 411697 | [411697-about-frontlines.json](./411697-about-frontlines.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
 | Above Eden | 400942 | [400942-above-eden.json](./400942-above-eden.json) |
+| Above the Snow | 349373 | [349373-above-the-snow.json](./349373-above-the-snow.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
 | Abrix the robot | 33018 | [33018-abrix-the-robot.json](./33018-abrix-the-robot.json) |
@@ -2145,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Answered Prayers | 145035 | [145035-answered-prayers.json](./145035-answered-prayers.json) |
 | Ant Empire | 109705 | [109705-ant-empire.json](./109705-ant-empire.json) |
 | Ant Farm Simulator | 277847 | [277847-ant-farm-simulator.json](./277847-ant-farm-simulator.json) |
+| Ant Guardians | 349395 | [349395-ant-guardians.json](./349395-ant-guardians.json) |
 | Ant Keeping Simulator | 293092 | [293092-ant-keeping-simulator.json](./293092-ant-keeping-simulator.json) |
 | Ant Nation | 210250 | [210250-ant-nation.json](./210250-ant-nation.json) |
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
@@ -3589,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attorney Online | 290388 | [290388-attorney-online.json](./290388-attorney-online.json) |
 | Attouteki Yuugi: Mugen Souls Z | 44589 | [44589-attouteki-yuugi-mugen-souls-z.json](./44589-attouteki-yuugi-mugen-souls-z.json) |
 | Attract Fragments 5 | 119747 | [119747-attract-fragments-5.json](./119747-attract-fragments-5.json) |
+| Attrax | 349381 | [349381-attrax.json](./349381-attrax.json) |
 | Attrition | 378197 | [378197-attrition.json](./378197-attrition.json) |
 | Atum | 128624 | [128624-atum.json](./128624-atum.json) |
 | ATV Madness | 88324 | [88324-atv-madness.json](./88324-atv-madness.json) |
@@ -3635,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Dusk: Steam Age | 34581 | [34581-aurora-dusk-steam-age.json](./34581-aurora-dusk-steam-age.json) |
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
 | Aurora Nova | 269044 | [269044-aurora-nova.json](./269044-aurora-nova.json) |
+| Aurora: Genesis | 349367 | [349367-aurora-genesis.json](./349367-aurora-genesis.json) |
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
 | Aurum | 373636 | [373636-aurum.json](./373636-aurum.json) |
@@ -3755,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avenir Tower | 332414 | [332414-avenir-tower.json](./332414-avenir-tower.json) |
 | Aventador Drift Simulator 2 | 104649 | [104649-aventador-drift-simulator-2.json](./104649-aventador-drift-simulator-2.json) |
 | Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
+| Average Human Ball Game | 349368 | [349368-average-human-ball-game.json](./349368-average-human-ball-game.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
 | Avernum | 19580 | [19580-avernum.json](./19580-avernum.json) |
 | Avernum 2 | 19581 | [19581-avernum-2.json](./19581-avernum-2.json) |
