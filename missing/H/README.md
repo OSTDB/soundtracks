@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hail Britannia | 340408 | [340408-hail-britannia.json](./340408-hail-britannia.json) |
 | Hail to the Chimp | 7005 | [7005-hail-to-the-chimp.json](./7005-hail-to-the-chimp.json) |
 | Hailey | 109738 | [109738-hailey.json](./109738-hailey.json) |
+| Hailstorm | 363955 | [363955-hailstorm.json](./363955-hailstorm.json) |
 | Hailstorm | 68171 | [68171-hailstorm.json](./68171-hailstorm.json) |
 | Hair Bows | 156125 | [156125-hair-bows.json](./156125-hair-bows.json) |
 | Hair Dash | 123038 | [123038-hair-dash.json](./123038-hair-dash.json) |
@@ -1865,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hired Team: Trial Gold | 73849 | [73849-hired-team-trial-gold.json](./73849-hired-team-trial-gold.json) |
 | Hiro's Harvest Season | 76532 | [76532-hiros-harvest-season.json](./76532-hiros-harvest-season.json) |
 | Hirocato: The Delivery Hero | 253934 | [253934-hirocato-the-delivery-hero.json](./253934-hirocato-the-delivery-hero.json) |
+| Hiromechia | 363935 | [363935-hiromechia.json](./363935-hiromechia.json) |
 | Hiryuu no Ken II: Dragon no Tsubasa | 64447 | [64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json](./64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json) |
 | His Majesty's Ship Impetuous | 55838 | [55838-his-majestys-ship-impetuous.json](./55838-his-majestys-ship-impetuous.json) |
 | HIS: Heroes in the Sky | 35933 | [35933-his-heroes-in-the-sky.json](./35933-his-heroes-in-the-sky.json) |
@@ -2565,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Many Deaths to Clear? | 250353 | [250353-how-many-deaths-to-clear.json](./250353-how-many-deaths-to-clear.json) |
 | How Should I Keep a House Squeaky Clean, With a Filthy Little Neighbour Ghost? | 373080 | [373080-how-should-i-keep-a-house-squeaky-clean-with-a-filthy-little-neighbour-ghost.json](./373080-how-should-i-keep-a-house-squeaky-clean-with-a-filthy-little-neighbour-ghost.json) |
 | How The Grinch Stole Christmas!: Dr. Seuss Mobile | 84195 | [84195-how-the-grinch-stole-christmas-dr-seuss-mobile.json](./84195-how-the-grinch-stole-christmas-dr-seuss-mobile.json) |
+| How the Leopard Got His Spots | 363985 | [363985-how-the-leopard-got-his-spots.json](./363985-how-the-leopard-got-his-spots.json) |
 | How the Little Match Girl Got Her Colt Paterson Revolver, and Taught a Virtue to a Goblin | 290403 | [290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json](./290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json) |
 | How the Little Match Girl Met the Queen of Vampires | 290404 | [290404-how-the-little-match-girl-met-the-queen-of-vampires.json](./290404-how-the-little-match-girl-met-the-queen-of-vampires.json) |
 | How They Found Silence | 169987 | [169987-how-they-found-silence.json](./169987-how-they-found-silence.json) |
