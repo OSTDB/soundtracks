@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Efi | 176508 | [176508-efi.json](./176508-efi.json) |
 | EFO: Escape From Outerworld | 165674 | [165674-efo-escape-from-outerworld.json](./165674-efo-escape-from-outerworld.json) |
 | eFootball 2024 | 266157 | [266157-efootball-2024.json](./266157-efootball-2024.json) |
+| eFootball: Mourinho Edition 2026 | 361243 | [361243-efootball-mourinho-edition-2026.json](./361243-efootball-mourinho-edition-2026.json) |
 | EFourGames | 362884 | [362884-efourgames.json](./362884-efourgames.json) |
 | Efpiyes | 234045 | [234045-efpiyes.json](./234045-efpiyes.json) |
 | EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
