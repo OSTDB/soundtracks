@@ -1276,11 +1276,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
 | Sellsword | 405535 | [405535-sellsword.json](./405535-sellsword.json) |
 | Selsoviet | 411699 | [411699-selsoviet.json](./411699-selsoviet.json) |
+| Selve | 369109 | [369109-selve.json](./369109-selve.json) |
 | Semantica: Semantic game | 231905 | [231905-semantica-semantic-game.json](./231905-semantica-semantic-game.json) |
 | Semantics | 388255 | [388255-semantics.json](./388255-semantics.json) |
 | Semblance | 55173 | [55173-semblance.json](./55173-semblance.json) |
 | Semispheres | 17990 | [17990-semispheres.json](./17990-semispheres.json) |
 | Semmelweis | 238752 | [238752-semmelweis.json](./238752-semmelweis.json) |
+| Semo | 369104 | [369104-semo.json](./369104-semo.json) |
 | Semper Fidelis: Marine Corps | 73830 | [73830-semper-fidelis-marine-corps.json](./73830-semper-fidelis-marine-corps.json) |
 | Semu | 265123 | [265123-semu.json](./265123-semu.json) |
 | Sen no Hatou, Tsukisome no Kouki: Hana Akari | 374662 | [374662-sen-no-hatou-tsukisome-no-kouki-hana-akari.json](./374662-sen-no-hatou-tsukisome-no-kouki-hana-akari.json) |
@@ -2256,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Circuit | 193440 | [193440-short-circuit.json](./193440-short-circuit.json) |
 | Short Memories | 340372 | [340372-short-memories.json](./340372-short-memories.json) |
 | Short Night | 266773 | [266773-short-night.json](./266773-short-night.json) |
+| Short Short Fictions | 369103 | [369103-short-short-fictions.json](./369103-short-short-fictions.json) |
 | Short Snow | 309867 | [309867-short-snow.json](./309867-short-snow.json) |
 | Short Trip | 324905 | [324905-short-trip.json](./324905-short-trip.json) |
 | Shortest Trip to Earth | 108656 | [108656-shortest-trip-to-earth.json](./108656-shortest-trip-to-earth.json) |
@@ -4366,6 +4369,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Scorched Quest | 198565 | [198565-sonic-scorched-quest.json](./198565-sonic-scorched-quest.json) |
 | Sonic: The Chaos Effect | 330712 | [330712-sonic-the-chaos-effect.json](./330712-sonic-the-chaos-effect.json) |
 | Sonic.Exe 2: The Game | 341904 | [341904-sonic-exe-2-the-game.json](./341904-sonic-exe-2-the-game.json) |
+| Sonic.exe: Dark Souls | 369107 | [369107-sonic-exe-dark-souls.json](./369107-sonic-exe-dark-souls.json) |
+| Sonic.exe: Dark Souls Remake | 369098 | [369098-sonic-exe-dark-souls-remake.json](./369098-sonic-exe-dark-souls-remake.json) |
 | Sonic's Casino Poker | 261291 | [261291-sonics-casino-poker.json](./261291-sonics-casino-poker.json) |
 | Sonic's Edusoft | 63901 | [63901-sonics-edusoft.json](./63901-sonics-edusoft.json) |
 | Sonic's Napoleon | 261289 | [261289-sonics-napoleon.json](./261289-sonics-napoleon.json) |
@@ -4938,6 +4943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark Man | 40169 | [40169-spark-man.json](./40169-spark-man.json) |
 | Spark Of Nature | 291471 | [291471-spark-of-nature.json](./291471-spark-of-nature.json) |
 | Spark Protocol | 413036 | [413036-spark-protocol.json](./413036-spark-protocol.json) |
+| Spark! Photon Blast | 369082 | [369082-spark-photon-blast.json](./369082-spark-photon-blast.json) |
 | Sparked | 382199 | [382199-sparked.json](./382199-sparked.json) |
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
 | Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
@@ -5444,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SPQR: The Empire's Darkest Hour | 73328 | [73328-spqr-the-empires-darkest-hour.json](./73328-spqr-the-empires-darkest-hour.json) |
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
 | Spray | 5192 | [5192-spray.json](./5192-spray.json) |
+| Spray N' Pray | 369125 | [369125-spray-n-pray.json](./369125-spray-n-pray.json) |
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
 | Spread: Transmission | 241387 | [241387-spread-transmission.json](./241387-spread-transmission.json) |
 | Spreadstorm | 76542 | [76542-spreadstorm.json](./76542-spreadstorm.json) |
@@ -8161,6 +8168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
 | Surface | 395545 | [395545-surface.json](./395545-surface.json) |
 | Surface Breaker | 383954 | [383954-surface-breaker.json](./383954-surface-breaker.json) |
+| Surface Labyrinth Kurumabu | 369091 | [369091-surface-labyrinth-kurumabu.json](./369091-surface-labyrinth-kurumabu.json) |
 | Surface: Alone in the Mist | 26712 | [26712-surface-alone-in-the-mist.json](./26712-surface-alone-in-the-mist.json) |
 | Surface: Alone in the Mist - Collector's Edition | 89943 | [89943-surface-alone-in-the-mist-collectors-edition.json](./89943-surface-alone-in-the-mist-collectors-edition.json) |
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
