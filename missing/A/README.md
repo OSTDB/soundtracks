@@ -467,7 +467,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeve:Zero Gravity | 83540 | [83540-aeve-zero-gravity.json](./83540-aeve-zero-gravity.json) |
 | AEW: Fight Forever | 145216 | [145216-aew-fight-forever.json](./145216-aew-fight-forever.json) |
 | Affairs of the Court: Choice of Romance | 32355 | [32355-affairs-of-the-court-choice-of-romance.json](./32355-affairs-of-the-court-choice-of-romance.json) |
-| Affairs of the Court: Deluxe Edition | 52574 | [52574-affairs-of-the-court-deluxe-edition.json](./52574-affairs-of-the-court-deluxe-edition.json) |
 | Affectus | 146347 | [146347-affectus.json](./146347-affectus.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | AFK Heroes | 194034 | [194034-afk-heroes.json](./194034-afk-heroes.json) |
