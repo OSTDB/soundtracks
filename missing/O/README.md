@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Mind | 238496 | [238496-our-mind.json](./238496-our-mind.json) |
 | Our Ninja World | 199106 | [199106-our-ninja-world.json](./199106-our-ninja-world.json) |
 | Our Place | 179155 | [179155-our-place.json](./179155-our-place.json) |
+| Our Summer Festival 2 | 352266 | [352266-our-summer-festival-2.json](./352266-our-summer-festival-2.json) |
 | Our Tribe Above All | 263774 | [263774-our-tribe-above-all.json](./263774-our-tribe-above-all.json) |
 | Our Two Bedroom Story | 134016 | [134016-our-two-bedroom-story.json](./134016-our-two-bedroom-story.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Akiyoshi | 238194 | [238194-our-two-bedroom-story-heres-to-the-birthday-boy-akiyoshi.json](./238194-our-two-bedroom-story-heres-to-the-birthday-boy-akiyoshi.json) |
