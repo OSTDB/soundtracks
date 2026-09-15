@@ -450,7 +450,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
-| Aequitas Orbis | 75064 | [75064-aequitas-orbis.json](./75064-aequitas-orbis.json) |
 | Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
 | AereA: Deluxe Edition | 52576 | [52576-aerea-deluxe-edition.json](./52576-aerea-deluxe-edition.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
@@ -2280,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
 | Apocalypse Z: Survival | 129803 | [129803-apocalypse-z-survival.json](./129803-apocalypse-z-survival.json) |
 | Apocalypse: The Game | 61615 | [61615-apocalypse-the-game.json](./61615-apocalypse-the-game.json) |
+| Apocalypter | 378318 | [378318-apocalypter.json](./378318-apocalypter.json) |
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
 | ApocaShift | 346614 | [346614-apocashift.json](./346614-apocashift.json) |
 | Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
