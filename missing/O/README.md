@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Gate: Companion#1 DLC | 289328 | [289328-one-more-gate-companion-1-dlc.json](./289328-one-more-gate-companion-1-dlc.json) |
 | One More Gate: Companion#2 DLC | 289329 | [289329-one-more-gate-companion-2-dlc.json](./289329-one-more-gate-companion-2-dlc.json) |
 | One More Gate: Companion#3 DLC | 289330 | [289330-one-more-gate-companion-3-dlc.json](./289330-one-more-gate-companion-3-dlc.json) |
+| One More Gem | 374167 | [374167-one-more-gem.json](./374167-one-more-gem.json) |
 | One More Line | 35584 | [35584-one-more-line.json](./35584-one-more-line.json) |
 | One More Night | 292296 | [292296-one-more-night.json](./292296-one-more-night.json) |
 | One More Question | 341506 | [341506-one-more-question.json](./341506-one-more-question.json) |
@@ -780,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online Open World RPG | 234078 | [234078-online-open-world-rpg.json](./234078-online-open-world-rpg.json) |
 | Online Retro Tennis | 156702 | [156702-online-retro-tennis.json](./156702-online-retro-tennis.json) |
 | OnlineCTR | 313093 | [313093-onlinectr.json](./313093-onlinectr.json) |
+| Only Animals | 374151 | [374151-only-animals.json](./374151-only-animals.json) |
 | Only Arrows | 323513 | [323513-only-arrows.json](./323513-only-arrows.json) |
 | Only Ban! | 258699 | [258699-only-ban.json](./258699-only-ban.json) |
 | Only Climber 2 | 315279 | [315279-only-climber-2.json](./315279-only-climber-2.json) |
