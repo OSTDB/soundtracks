@@ -549,7 +549,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
-| Age of Goblins | 265403 | [265403-age-of-goblins.json](./265403-age-of-goblins.json) |
 | Age of Gods | 399092 | [399092-age-of-gods.json](./399092-age-of-gods.json) |
 | Age of Gods: Drakonis Faction | 399102 | [399102-age-of-gods-drakonis-faction.json](./399102-age-of-gods-drakonis-faction.json) |
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
