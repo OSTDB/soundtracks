@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeepney Simulator 2 | 292301 | [292301-jeepney-simulator-2.json](./292301-jeepney-simulator-2.json) |
 | Jeff Gordon XS Racing | 49888 | [49888-jeff-gordon-xs-racing.json](./49888-jeff-gordon-xs-racing.json) |
 | Jeff the Janitor | 337491 | [337491-jeff-the-janitor.json](./337491-jeff-the-janitor.json) |
+| Jeff the Skinner | 348314 | [348314-jeff-the-skinner.json](./348314-jeff-the-skinner.json) |
 | Jeff-16 | 150638 | [150638-jeff-16.json](./150638-jeff-16.json) |
 | JEFN | 256529 | [256529-jefn.json](./256529-jefn.json) |
 | Jelda II | 78705 | [78705-jelda-ii.json](./78705-jelda-ii.json) |
