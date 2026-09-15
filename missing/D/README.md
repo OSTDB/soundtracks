@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dairy of the Dead | 339362 | [339362-dairy-of-the-dead.json](./339362-dairy-of-the-dead.json) |
 | Daisenryaku Daitoua Kouboushi DX: Dai-ni-ji Sekai Taisen | 123011 | [123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json](./123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
+| Daisy's Garden | 336605 | [336605-daisys-garden.json](./336605-daisys-garden.json) |
 | Daito Giken Koushiki Pachi-Slot Simulator: Hihouden - Ossu! Banchou: Yoshimune DS | 269571 | [269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json](./269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json) |
 | Daitoride | 93512 | [93512-daitoride.json](./93512-daitoride.json) |
 | Daiz | 239901 | [239901-daiz.json](./239901-daiz.json) |
@@ -598,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date A Live: Rio Reincarnation | 87742 | [87742-date-a-live-rio-reincarnation.json](./87742-date-a-live-rio-reincarnation.json) |
 | Date A Live: Rio Reincarnation HD - Limited Edition | 96104 | [96104-date-a-live-rio-reincarnation-hd-limited-edition.json](./96104-date-a-live-rio-reincarnation-hd-limited-edition.json) |
 | Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
+| Date Nite | 336598 | [336598-date-nite.json](./336598-date-nite.json) |
 | Date or Destiny: Kiss or Miss | 348880 | [348880-date-or-destiny-kiss-or-miss.json](./348880-date-or-destiny-kiss-or-miss.json) |
 | Date or Die | 56508 | [56508-date-or-die.json](./56508-date-or-die.json) |
 | Date the Difference | 392299 | [392299-date-the-difference.json](./392299-date-the-difference.json) |
@@ -1526,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Den of the Defiant | 303471 | [303471-den-of-the-defiant.json](./303471-den-of-the-defiant.json) |
 | Den-Den: Tokyo Horror | 345507 | [345507-den-den-tokyo-horror.json](./345507-den-den-tokyo-horror.json) |
 | Den-ou Suikoden | 91947 | [91947-den-ou-suikoden.json](./91947-den-ou-suikoden.json) |
+| Den' Rozhdeniya 2 | 336609 | [336609-den-rozhdeniya-2.json](./336609-den-rozhdeniya-2.json) |
 | Denbora | 326067 | [326067-denbora.json](./326067-denbora.json) |
 | Dendam | 262104 | [262104-dendam.json](./262104-dendam.json) |
 | Dendron 64 | 401493 | [401493-dendron-64.json](./401493-dendron-64.json) |
@@ -2307,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Party | 134081 | [134081-disc-party.json](./134081-disc-party.json) |
 | Disc Room | 131614 | [131614-disc-room.json](./131614-disc-room.json) |
 | Disc Station #12 | 266479 | [266479-disc-station-12.json](./266479-disc-station-12.json) |
+| Disc Station 98 #2 | 336602 | [336602-disc-station-98-2.json](./336602-disc-station-98-2.json) |
 | Disc Station MSX #09 | 266482 | [266482-disc-station-msx-09.json](./266482-disc-station-msx-09.json) |
 | Disc Station MSX #11 | 266489 | [266489-disc-station-msx-11.json](./266489-disc-station-msx-11.json) |
 | Discharge | 117040 | [117040-discharge.json](./117040-discharge.json) |
@@ -2821,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominus Gladiatus | 404343 | [404343-dominus-gladiatus.json](./404343-dominus-gladiatus.json) |
 | Dominus Rage | 199615 | [199615-dominus-rage.json](./199615-dominus-rage.json) |
 | Domiverse | 81246 | [81246-domiverse.json](./81246-domiverse.json) |
+| Domkey Kong | 336638 | [336638-domkey-kong.json](./336638-domkey-kong.json) |
 | DommeGer's Plane | 215373 | [215373-dommegers-plane.json](./215373-dommegers-plane.json) |
 | Domo Jump | 63307 | [63307-domo-jump.json](./63307-domo-jump.json) |
 | Domo-kun no Card-e: Domo-kun no Fushigi Terebi - Meisou Domo | 220851 | [220851-domo-kun-no-card-e-domo-kun-no-fushigi-terebi-meisou-domo.json](./220851-domo-kun-no-card-e-domo-kun-no-fushigi-terebi-meisou-domo.json) |
@@ -3663,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreadBound | 382895 | [382895-dreadbound.json](./382895-dreadbound.json) |
 | Dreader | 176487 | [176487-dreader.json](./176487-dreader.json) |
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
+| DreadHaven: The Last Colony | 336597 | [336597-dreadhaven-the-last-colony.json](./336597-dreadhaven-the-last-colony.json) |
 | Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
 | Dreadnought Tartarus | 383481 | [383481-dreadnought-tartarus.json](./383481-dreadnought-tartarus.json) |
