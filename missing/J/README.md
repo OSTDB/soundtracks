@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellyboom | 73239 | [73239-jellyboom.json](./73239-jellyboom.json) |
 | JellyCar | 95422 | [95422-jellycar.json](./95422-jellycar.json) |
 | Jellyfish Archipelago | 272019 | [272019-jellyfish-archipelago.json](./272019-jellyfish-archipelago.json) |
+| Jellyfish Blind Box | 365149 | [365149-jellyfish-blind-box.json](./365149-jellyfish-blind-box.json) |
 | Jellyfish Season | 109726 | [109726-jellyfish-season.json](./109726-jellyfish-season.json) |
 | Jellyfishers | 143088 | [143088-jellyfishers.json](./143088-jellyfishers.json) |
 | Jen Saves Ben | 223704 | [223704-jen-saves-ben.json](./223704-jen-saves-ben.json) |
@@ -740,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump or Roll Game | 246987 | [246987-jump-or-roll-game.json](./246987-jump-or-roll-game.json) |
 | Jump Sky-High Collection | 334097 | [334097-jump-sky-high-collection.json](./334097-jump-sky-high-collection.json) |
 | Jump Start Crazy Karts | 50638 | [50638-jump-start-crazy-karts.json](./50638-jump-start-crazy-karts.json) |
+| Jump the Crank | 365143 | [365143-jump-the-crank.json](./365143-jump-the-crank.json) |
 | Jump to Die!! | 29758 | [29758-jump-to-die.json](./29758-jump-to-die.json) |
 | Jump To Stratos | 376567 | [376567-jump-to-stratos.json](./376567-jump-to-stratos.json) |
 | Jump to Win | 22367 | [22367-jump-to-win.json](./22367-jump-to-win.json) |
