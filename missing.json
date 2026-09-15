@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T17:21:33.774Z",
-  "total_missing": 74747,
+  "generated_at": "2026-09-15T17:31:44.023Z",
+  "total_missing": 74757,
   "games": [
     {
       "igdb_id": 306086,
@@ -5408,11 +5408,6 @@
       "file": "missing/A/36268-age-of-conquest-iv.json"
     },
     {
-      "igdb_id": 159424,
-      "game_name": "Age of Darkness: Final Stand",
-      "file": "missing/A/159424-age-of-darkness-final-stand.json"
-    },
-    {
       "igdb_id": 309860,
       "game_name": "Age of Defense: Prehistory",
       "file": "missing/A/309860-age-of-defense-prehistory.json"
@@ -9438,6 +9433,11 @@
       "file": "missing/A/361730-alpha-point.json"
     },
     {
+      "igdb_id": 345614,
+      "game_name": "Alpha Response",
+      "file": "missing/A/345614-alpha-response.json"
+    },
+    {
       "igdb_id": 147448,
       "game_name": "Alpha Sea",
       "file": "missing/A/147448-alpha-sea.json"
@@ -9806,6 +9806,11 @@
       "igdb_id": 206335,
       "game_name": "Amaemi: Longing for you",
       "file": "missing/A/206335-amaemi-longing-for-you.json"
+    },
+    {
+      "igdb_id": 345603,
+      "game_name": "Amagami GS",
+      "file": "missing/A/345603-amagami-gs.json"
     },
     {
       "igdb_id": 381003,
@@ -28741,6 +28746,11 @@
       "igdb_id": 340954,
       "game_name": "Beat Ball",
       "file": "missing/B/340954-beat-ball.json"
+    },
+    {
+      "igdb_id": 345615,
+      "game_name": "Beat Ball 2",
+      "file": "missing/B/345615-beat-ball-2.json"
     },
     {
       "igdb_id": 253039,
@@ -57311,6 +57321,11 @@
       "igdb_id": 74409,
       "game_name": "Coffeetime Crosswords",
       "file": "missing/C/74409-coffeetime-crosswords.json"
+    },
+    {
+      "igdb_id": 345613,
+      "game_name": "Coffie Simulator",
+      "file": "missing/C/345613-coffie-simulator.json"
     },
     {
       "igdb_id": 179704,
@@ -89313,6 +89328,16 @@
       "file": "missing/D/21140-dungeon-hunter-alliance.json"
     },
     {
+      "igdb_id": 345605,
+      "game_name": "Dungeon Janitor",
+      "file": "missing/D/345605-dungeon-janitor.json"
+    },
+    {
+      "igdb_id": 345607,
+      "game_name": "Dungeon Janitor",
+      "file": "missing/D/345607-dungeon-janitor.json"
+    },
+    {
       "igdb_id": 20093,
       "game_name": "Dungeon Keeper",
       "file": "missing/D/20093-dungeon-keeper.json"
@@ -115256,6 +115281,11 @@
       "igdb_id": 162905,
       "game_name": "Frontier",
       "file": "missing/F/162905-frontier.json"
+    },
+    {
+      "igdb_id": 345611,
+      "game_name": "Frontier Force",
+      "file": "missing/F/345611-frontier-force.json"
     },
     {
       "igdb_id": 337478,
@@ -237588,6 +237618,11 @@
       "file": "missing/P/105361-primitive-survival.json"
     },
     {
+      "igdb_id": 345608,
+      "game_name": "Primland Tale",
+      "file": "missing/P/345608-primland-tale.json"
+    },
+    {
       "igdb_id": 271724,
       "game_name": "Primo",
       "file": "missing/P/271724-primo.json"
@@ -261578,6 +261613,11 @@
       "file": "missing/S/192397-salamander.json"
     },
     {
+      "igdb_id": 345604,
+      "game_name": "Sales Birdman",
+      "file": "missing/S/345604-sales-birdman.json"
+    },
+    {
       "igdb_id": 104692,
       "game_name": "Saliens",
       "file": "missing/S/104692-saliens.json"
@@ -280036,6 +280076,11 @@
       "igdb_id": 243953,
       "game_name": "Software Tycoon: Der Spielemanager",
       "file": "missing/S/243953-software-tycoon-der-spielemanager.json"
+    },
+    {
+      "igdb_id": 345606,
+      "game_name": "SOG: Vietnam",
+      "file": "missing/S/345606-sog-vietnam.json"
     },
     {
       "igdb_id": 161353,
@@ -324391,6 +324436,11 @@
       "igdb_id": 120389,
       "game_name": "The Saga of Nino's Transmigration",
       "file": "missing/T/120389-the-saga-of-ninos-transmigration.json"
+    },
+    {
+      "igdb_id": 345609,
+      "game_name": "The Saga of the Candy Scroll",
+      "file": "missing/T/345609-the-saga-of-the-candy-scroll.json"
     },
     {
       "igdb_id": 376560,
