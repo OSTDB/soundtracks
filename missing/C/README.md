@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call to Arms: Gates of Hell - Talvisota | 203893 | [203893-call-to-arms-gates-of-hell-talvisota.json](./203893-call-to-arms-gates-of-hell-talvisota.json) |
 | Call to Arms: Panzer Elite | 353292 | [353292-call-to-arms-panzer-elite.json](./353292-call-to-arms-panzer-elite.json) |
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
+| Caller of the Crows | 348857 | [348857-caller-of-the-crows.json](./348857-caller-of-the-crows.json) |
 | Calling | 403030 | [403030-calling.json](./403030-calling.json) |
 | Calluna | 173248 | [173248-calluna.json](./173248-calluna.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
@@ -2436,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudsea | 196871 | [196871-cloudsea.json](./196871-cloudsea.json) |
 | Cloudsong | 377684 | [377684-cloudsong.json](./377684-cloudsong.json) |
 | CloudStudy | 296358 | [296358-cloudstudy.json](./296358-cloudstudy.json) |
+| Cloudtop Chaos | 348858 | [348858-cloudtop-chaos.json](./348858-cloudtop-chaos.json) |
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
 | Clouzy! | 136984 | [136984-clouzy.json](./136984-clouzy.json) |
 | Clover Day's Plus | 254554 | [254554-clover-days-plus.json](./254554-clover-days-plus.json) |
@@ -2634,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Abyss | 275906 | [275906-cold-abyss.json](./275906-cold-abyss.json) |
 | Cold Alley | 74335 | [74335-cold-alley.json](./74335-cold-alley.json) |
 | Cold Bite | 115008 | [115008-cold-bite.json](./115008-cold-bite.json) |
+| Cold Boot | 348876 | [348876-cold-boot.json](./348876-cold-boot.json) |
 | Cold Case Files | 57683 | [57683-cold-case-files.json](./57683-cold-case-files.json) |
 | Cold Depth | 157202 | [157202-cold-depth.json](./157202-cold-depth.json) |
 | Cold Harvest | 191195 | [191195-cold-harvest.json](./191195-cold-harvest.json) |
@@ -4274,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic Glaze Mirror | 391174 | [391174-cryptic-glaze-mirror.json](./391174-cryptic-glaze-mirror.json) |
 | Cryptid | 253569 | [253569-cryptid.json](./253569-cryptid.json) |
 | Cryptid | 327188 | [327188-cryptid.json](./327188-cryptid.json) |
+| Cryptid Engine | 348861 | [348861-cryptid-engine.json](./348861-cryptid-engine.json) |
 | Cryptid Time | 320134 | [320134-cryptid-time.json](./320134-cryptid-time.json) |
 | Cryptmaster | 213029 | [213029-cryptmaster.json](./213029-cryptmaster.json) |
 | Crypto Fantasy: The Scrolls of Kouga | 335695 | [335695-crypto-fantasy-the-scrolls-of-kouga.json](./335695-crypto-fantasy-the-scrolls-of-kouga.json) |
@@ -4424,6 +4428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CUBG: Car unknown battlegrounds | 120994 | [120994-cubg-car-unknown-battlegrounds.json](./120994-cubg-car-unknown-battlegrounds.json) |
 | Cubians VR | 29919 | [29919-cubians-vr.json](./29919-cubians-vr.json) |
 | Cubic Castles | 17727 | [17727-cubic-castles.json](./17727-cubic-castles.json) |
+| Cubic Cosmos | 348835 | [348835-cubic-cosmos.json](./348835-cubic-cosmos.json) |
 | Cubic Figures | 215112 | [215112-cubic-figures.json](./215112-cubic-figures.json) |
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
 | Cubic Juice | 158221 | [158221-cubic-juice.json](./158221-cubic-juice.json) |
