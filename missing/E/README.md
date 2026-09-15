@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Either Eye | 389442 | [389442-either-eye.json](./389442-either-eye.json) |
 | Eizo Play: Megumi | 69857 | [69857-eizo-play-megumi.json](./69857-eizo-play-megumi.json) |
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
+| Eko Eko Azarak: Wizard of Darkness | 376543 | [376543-eko-eko-azarak-wizard-of-darkness.json](./376543-eko-eko-azarak-wizard-of-darkness.json) |
 | Ekoh Beach | 189109 | [189109-ekoh-beach.json](./189109-ekoh-beach.json) |
 | El Capitán Trueno | 100184 | [100184-el-capitan-trueno.json](./100184-el-capitan-trueno.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
@@ -536,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EleMetals: Deluxe Edition | 212283 | [212283-elemetals-deluxe-edition.json](./212283-elemetals-deluxe-edition.json) |
 | ElePass: Only Elephants Can Unlock the Passcode | 317855 | [317855-elepass-only-elephants-can-unlock-the-passcode.json](./317855-elepass-only-elephants-can-unlock-the-passcode.json) |
 | Elephant Hunter Hunter | 133991 | [133991-elephant-hunter-hunter.json](./133991-elephant-hunter-hunter.json) |
+| Elestrals Awakened | 376549 | [376549-elestrals-awakened.json](./376549-elestrals-awakened.json) |
 | Elestrals Clash! | 356622 | [356622-elestrals-clash.json](./356622-elestrals-clash.json) |
 | Eletar Hero | 188673 | [188673-eletar-hero.json](./188673-eletar-hero.json) |
 | Elette Fragments | 126657 | [126657-elette-fragments.json](./126657-elette-fragments.json) |
@@ -657,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embraced | 299429 | [299429-embraced.json](./299429-embraced.json) |
 | Embraced by Autumn | 154032 | [154032-embraced-by-autumn.json](./154032-embraced-by-autumn.json) |
 | Embracing Darkness | 235483 | [235483-embracing-darkness.json](./235483-embracing-darkness.json) |
+| Embryogenesis | 376614 | [376614-embryogenesis.json](./376614-embryogenesis.json) |
 | Embuscade | 179734 | [179734-embuscade.json](./179734-embuscade.json) |
 | Emerald Bathhouse | 268776 | [268776-emerald-bathhouse.json](./268776-emerald-bathhouse.json) |
 | Emerald Isle | 13635 | [13635-emerald-isle.json](./13635-emerald-isle.json) |
