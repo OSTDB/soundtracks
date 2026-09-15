@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
 | Gallery Hero | 110301 | [110301-gallery-hero.json](./110301-gallery-hero.json) |
+| Gallery Theft | 348312 | [348312-gallery-theft.json](./348312-gallery-theft.json) |
 | Gallery: Coloring book & decor | 322558 | [322558-gallery-coloring-book-and-decor.json](./322558-gallery-coloring-book-and-decor.json) |
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
@@ -2060,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grems | 386710 | [386710-grems.json](./386710-grems.json) |
 | Grendel's Revenge | 370678 | [370678-grendels-revenge.json](./370678-grendels-revenge.json) |
 | Grenouilles 3D | 401550 | [401550-grenouilles-3d.json](./401550-grenouilles-3d.json) |
+| Greta Sees Ghosts! | 348348 | [348348-greta-sees-ghosts.json](./348348-greta-sees-ghosts.json) |
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
 | Grey Bones | 164505 | [164505-grey-bones.json](./164505-grey-bones.json) |
 | Grey Cubes | 35226 | [35226-grey-cubes.json](./35226-grey-cubes.json) |
