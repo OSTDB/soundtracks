@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Takes No Argument[s] | 172163 | [172163-goblin-takes-no-argument-s.json](./172163-goblin-takes-no-argument-s.json) |
 | Goblin Times | 127378 | [127378-goblin-times.json](./127378-goblin-times.json) |
 | Goblin treasure | 129716 | [129716-goblin-treasure.json](./129716-goblin-treasure.json) |
+| Goblin: Mutation | 366331 | [366331-goblin-mutation.json](./366331-goblin-mutation.json) |
 | Goblin.Life | 172190 | [172190-goblin-life.json](./172190-goblin-life.json) |
 | Goblin's Bizarre Adventure | 273644 | [273644-goblins-bizarre-adventure.json](./273644-goblins-bizarre-adventure.json) |
 | Goblin's Expedition | 217014 | [217014-goblins-expedition.json](./217014-goblins-expedition.json) |
