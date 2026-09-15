@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T01:18:51.627Z",
-  "total_missing": 71901,
+  "generated_at": "2026-09-15T01:21:45.760Z",
+  "total_missing": 71900,
   "games": [
     {
       "igdb_id": 306086,
@@ -4861,11 +4861,6 @@
       "igdb_id": 148507,
       "game_name": "Aeon's End: The Depths",
       "file": "missing/A/148507-aeons-end-the-depths.json"
-    },
-    {
-      "igdb_id": 52576,
-      "game_name": "AereA: Deluxe Edition",
-      "file": "missing/A/52576-aerea-deluxe-edition.json"
     },
     {
       "igdb_id": 18233,
