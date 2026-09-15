@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Pigeons 4 | 377680 | [377680-i-commissioned-some-pigeons-4.json](./377680-i-commissioned-some-pigeons-4.json) |
 | I Commissioned Some Snails | 288783 | [288783-i-commissioned-some-snails.json](./288783-i-commissioned-some-snails.json) |
 | I Commissioned Some Snails 2 | 337083 | [337083-i-commissioned-some-snails-2.json](./337083-i-commissioned-some-snails-2.json) |
+| I Commissioned Some Snails 4 | 360653 | [360653-i-commissioned-some-snails-4.json](./360653-i-commissioned-some-snails-4.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
 | I Did a Bad Thing | 229370 | [229370-i-did-a-bad-thing.json](./229370-i-did-a-bad-thing.json) |
 | I Did it Mum! Picture Book | 48040 | [48040-i-did-it-mum-picture-book.json](./48040-i-did-it-mum-picture-book.json) |
@@ -885,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Ball Well | 384513 | [384513-infinite-ball-well.json](./384513-infinite-ball-well.json) |
 | Infinite Blue | 337650 | [337650-infinite-blue.json](./337650-infinite-blue.json) |
 | Infinite Borders | 264030 | [264030-infinite-borders.json](./264030-infinite-borders.json) |
+| Infinite Canyon | 360646 | [360646-infinite-canyon.json](./360646-infinite-canyon.json) |
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
 | Infinite Construction | 192442 | [192442-infinite-construction.json](./192442-infinite-construction.json) |
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
