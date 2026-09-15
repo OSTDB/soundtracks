@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Boom - Defend Planet | 108487 | [108487-galaxy-boom-defend-planet.json](./108487-galaxy-boom-defend-planet.json) |
 | Galaxy Bowling | 101540 | [101540-galaxy-bowling.json](./101540-galaxy-bowling.json) |
 | Galaxy Cannon Rider | 33051 | [33051-galaxy-cannon-rider.json](./33051-galaxy-cannon-rider.json) |
+| Galaxy Defense War | 372018 | [372018-galaxy-defense-war.json](./372018-galaxy-defense-war.json) |
 | Galaxy Defense: Fortress TD | 344951 | [344951-galaxy-defense-fortress-td.json](./344951-galaxy-defense-fortress-td.json) |
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
 | Galaxy Fight: Universal Warriors | 39531 | [39531-galaxy-fight-universal-warriors.json](./39531-galaxy-fight-universal-warriors.json) |
@@ -1615,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
 | Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
+| Gore | 371991 | [371991-gore.json](./371991-gore.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
 | Goreagulation | 223461 | [223461-goreagulation.json](./223461-goreagulation.json) |
 | Goreball | 122348 | [122348-goreball.json](./122348-goreball.json) |
@@ -1876,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Mius Front - Bird Grove | 219807 | [219807-graviteam-tactics-mius-front-bird-grove.json](./219807-graviteam-tactics-mius-front-bird-grove.json) |
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
+| Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
 | Gravitrex Plus | 63811 | [63811-gravitrex-plus.json](./63811-gravitrex-plus.json) |
 | Gravitronix | 21035 | [21035-gravitronix.json](./21035-gravitronix.json) |
 | Gravity | 177540 | [177540-gravity.json](./177540-gravity.json) |
@@ -2302,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear 20th Anniversary Pack: Day One Edition | 386270 | [386270-guilty-gear-20th-anniversary-pack-day-one-edition.json](./386270-guilty-gear-20th-anniversary-pack-day-one-edition.json) |
 | Guilty Gear Petit | 9147 | [9147-guilty-gear-petit.json](./9147-guilty-gear-petit.json) |
 | Guilty Gear Petit 2 | 9148 | [9148-guilty-gear-petit-2.json](./9148-guilty-gear-petit-2.json) |
+| Guilty Gear Strive: In the Name of Peace | 372007 | [372007-guilty-gear-strive-in-the-name-of-peace.json](./372007-guilty-gear-strive-in-the-name-of-peace.json) |
 | Guilty Gear X | 9141 | [9141-guilty-gear-x.json](./9141-guilty-gear-x.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors Zato-One | 344378 | [344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json](./344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json) |
 | Guilty Gear Xrd: Revelator | 13620 | [13620-guilty-gear-xrd-revelator.json](./13620-guilty-gear-xrd-revelator.json) |
