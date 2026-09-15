@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are A Pilot | 189148 | [189148-you-are-a-pilot.json](./189148-you-are-a-pilot.json) |
 | You Are a Torpedo AI | 75777 | [75777-you-are-a-torpedo-ai.json](./75777-you-are-a-torpedo-ai.json) |
 | You Are Being Followed | 152293 | [152293-you-are-being-followed.json](./152293-you-are-being-followed.json) |
+| You Are Grounded | 370191 | [370191-you-are-grounded.json](./370191-you-are-grounded.json) |
 | You Are Not A Banana | 36016 | [36016-you-are-not-a-banana.json](./36016-you-are-not-a-banana.json) |
 | You Are Not the Hero | 16909 | [16909-you-are-not-the-hero.json](./16909-you-are-not-the-hero.json) |
 | You Are Peter Shorts | 248919 | [248919-you-are-peter-shorts.json](./248919-you-are-peter-shorts.json) |
