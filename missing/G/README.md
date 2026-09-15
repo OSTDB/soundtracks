@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed 3: Old Enemies Returning | 115702 | [115702-greed-3-old-enemies-returning.json](./115702-greed-3-old-enemies-returning.json) |
 | Greed Champions | 402386 | [402386-greed-champions.json](./402386-greed-champions.json) |
 | Greed City | 341900 | [341900-greed-city.json](./341900-greed-city.json) |
+| Greed Forest | 336617 | [336617-greed-forest.json](./336617-greed-forest.json) |
 | Greed Realm | 278991 | [278991-greed-realm.json](./278991-greed-realm.json) |
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
@@ -2344,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guerilla Bob | 94760 | [94760-guerilla-bob.json](./94760-guerilla-bob.json) |
 | Guerilla Cinema // Guerilla Theater | 394838 | [394838-guerilla-cinema-guerilla-theater.json](./394838-guerilla-cinema-guerilla-theater.json) |
 | Guerra Sangrenta | 258694 | [258694-guerra-sangrenta.json](./258694-guerra-sangrenta.json) |
+| Guerra Tribal | 336616 | [336616-guerra-tribal.json](./336616-guerra-tribal.json) |
 | Guerrière Lyewärd | 244995 | [244995-guerriere-lyeward.json](./244995-guerriere-lyeward.json) |
 | Guerrilla Bob | 92530 | [92530-guerrilla-bob.json](./92530-guerrilla-bob.json) |
 | Guerrilla Gardening | 182531 | [182531-guerrilla-gardening.json](./182531-guerrilla-gardening.json) |
