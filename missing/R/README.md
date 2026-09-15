@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Rivals | 38904 | [38904-racing-rivals.json](./38904-racing-rivals.json) |
 | Racing Royale | 390012 | [390012-racing-royale.json](./390012-racing-royale.json) |
 | Racing Rush | 234608 | [234608-racing-rush.json](./234608-racing-rush.json) |
+| Racing Skill | 358355 | [358355-racing-skill.json](./358355-racing-skill.json) |
 | Racing Stars | 295274 | [295274-racing-stars.json](./295274-racing-stars.json) |
 | Racing Xtreme: Fast Rally Driver 3D | 192909 | [192909-racing-xtreme-fast-rally-driver-3d.json](./192909-racing-xtreme-fast-rally-driver-3d.json) |
 | Racing: 4 Games on One Game Pak | 84175 | [84175-racing-4-games-on-one-game-pak.json](./84175-racing-4-games-on-one-game-pak.json) |
@@ -1617,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Knights | 153929 | [153929-rhythm-knights.json](./153929-rhythm-knights.json) |
 | Rhythm League Heroes | 276181 | [276181-rhythm-league-heroes.json](./276181-rhythm-league-heroes.json) |
 | Rhythm Lust Girl 2 | 249786 | [249786-rhythm-lust-girl-2.json](./249786-rhythm-lust-girl-2.json) |
+| Rhythm of Annihilation | 358373 | [358373-rhythm-of-annihilation.json](./358373-rhythm-of-annihilation.json) |
 | Rhythm of Earth | 375289 | [375289-rhythm-of-earth.json](./375289-rhythm-of-earth.json) |
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
 | Rhythm Realm | 248040 | [248040-rhythm-realm.json](./248040-rhythm-realm.json) |
@@ -2358,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Planet | 197343 | [197343-rogue-planet.json](./197343-rogue-planet.json) |
 | Rogue Planet | 91355 | [91355-rogue-planet.json](./91355-rogue-planet.json) |
 | Rogue Princess | 211750 | [211750-rogue-princess.json](./211750-rogue-princess.json) |
+| Rogue Raccoon | 358356 | [358356-rogue-raccoon.json](./358356-rogue-raccoon.json) |
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Rampage | 334130 | [334130-rogue-rampage.json](./334130-rogue-rampage.json) |
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
@@ -2824,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rucoy 2: Mirror World MMORPG | 231916 | [231916-rucoy-2-mirror-world-mmorpg.json](./231916-rucoy-2-mirror-world-mmorpg.json) |
 | Rucoy Online | 76572 | [76572-rucoy-online.json](./76572-rucoy-online.json) |
 | Rudo Resurrection | 66646 | [66646-rudo-resurrection.json](./66646-rudo-resurrection.json) |
+| Rudolph the Red-Nosed Reindeer | 358391 | [358391-rudolph-the-red-nosed-reindeer.json](./358391-rudolph-the-red-nosed-reindeer.json) |
 | Rudra no Hihou | 15838 | [15838-rudra-no-hihou.json](./15838-rudra-no-hihou.json) |
 | Rue | 165663 | [165663-rue.json](./165663-rue.json) |
 | Ruff Trigger: The Vanocore Conspiracy | 20539 | [20539-ruff-trigger-the-vanocore-conspiracy.json](./20539-ruff-trigger-the-vanocore-conspiracy.json) |
