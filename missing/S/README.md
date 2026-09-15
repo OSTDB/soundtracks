@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Same-X | 64429 | [64429-same-x.json](./64429-same-x.json) |
 | Samedi Manor | 260672 | [260672-samedi-manor.json](./260672-samedi-manor.json) |
 | SameGame | 339279 | [339279-samegame.json](./339279-samegame.json) |
+| SameGame | 366909 | [366909-samegame.json](./366909-samegame.json) |
 | SameGame | 64430 | [64430-samegame.json](./64430-samegame.json) |
 | SameGame - Colors | 86068 | [86068-samegame-colors.json](./86068-samegame-colors.json) |
 | SameGame - Shapes | 86069 | [86069-samegame-shapes.json](./86069-samegame-shapes.json) |
@@ -650,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scales of Stardust | 185076 | [185076-scales-of-stardust.json](./185076-scales-of-stardust.json) |
 | Scaling the Sky | 128618 | [128618-scaling-the-sky.json](./128618-scaling-the-sky.json) |
 | Scam Artist | 413774 | [413774-scam-artist.json](./413774-scam-artist.json) |
+| Scamster Kombat | 366931 | [366931-scamster-kombat.json](./366931-scamster-kombat.json) |
 | Scan Hunter: Sen-nen Kaigyo wo Oe! | 56528 | [56528-scan-hunter-sen-nen-kaigyo-wo-oe.json](./56528-scan-hunter-sen-nen-kaigyo-wo-oe.json) |
 | Scandinavian Cottage Survival Simulator | 360000 | [360000-scandinavian-cottage-survival-simulator.json](./360000-scandinavian-cottage-survival-simulator.json) |
 | Scanline | 180810 | [180810-scanline.json](./180810-scanline.json) |
@@ -2218,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Covid | 195713 | [195713-shooting-covid.json](./195713-shooting-covid.json) |
 | Shooting Fever | 64888 | [64888-shooting-fever.json](./64888-shooting-fever.json) |
 | Shooting Game Kari | 211718 | [211718-shooting-game-kari.json](./211718-shooting-game-kari.json) |
+| Shooting Master | 366914 | [366914-shooting-master.json](./366914-shooting-master.json) |
 | Shooting Range by Thornbury Software | 84871 | [84871-shooting-range-by-thornbury-software.json](./84871-shooting-range-by-thornbury-software.json) |
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
@@ -3316,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slordax: The Unknown Enemy | 73244 | [73244-slordax-the-unknown-enemy.json](./73244-slordax-the-unknown-enemy.json) |
 | Slot & Learn Hangul | 409555 | [409555-slot-and-learn-hangul.json](./409555-slot-and-learn-hangul.json) |
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
+| Slot Machine | 366920 | [366920-slot-machine.json](./366920-slot-machine.json) |
 | Slot or Not | 373519 | [373519-slot-or-not.json](./373519-slot-or-not.json) |
 | Slot Waste | 306706 | [306706-slot-waste.json](./306706-slot-waste.json) |
 | Slot! | 76551 | [76551-slot.json](./76551-slot.json) |
@@ -4775,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Marshals 2 | 38944 | [38944-space-marshals-2.json](./38944-space-marshals-2.json) |
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
 | Space Marshals Collection | 327207 | [327207-space-marshals-collection.json](./327207-space-marshals-collection.json) |
+| Space Mash | 366877 | [366877-space-mash.json](./366877-space-mash.json) |
 | Space Maze | 345522 | [345522-space-maze.json](./345522-space-maze.json) |
 | Space Mechanic Simulator | 90650 | [90650-space-mechanic-simulator.json](./90650-space-mechanic-simulator.json) |
 | Space Memory TDG | 412970 | [412970-space-memory-tdg.json](./412970-space-memory-tdg.json) |
@@ -6455,6 +6460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
 | Still Dark at Dawn | 111028 | [111028-still-dark-at-dawn.json](./111028-still-dark-at-dawn.json) |
 | Still Heroes | 197963 | [197963-still-heroes.json](./197963-still-heroes.json) |
+| Still House | 366887 | [366887-still-house.json](./366887-still-house.json) |
 | Still Joking | 221425 | [221425-still-joking.json](./221425-still-joking.json) |
 | Still Life 2 - Director's Cut | 100723 | [100723-still-life-2-directors-cut.json](./100723-still-life-2-directors-cut.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
@@ -7106,6 +7112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suidou Kozou | 91949 | [91949-suidou-kozou.json](./91949-suidou-kozou.json) |
 | Suigetsu 2 | 93515 | [93515-suigetsu-2.json](./93515-suigetsu-2.json) |
 | Suika Dish More Plates | 276166 | [276166-suika-dish-more-plates.json](./276166-suika-dish-more-plates.json) |
+| Suika Game Planet | 366891 | [366891-suika-game-planet.json](./366891-suika-game-planet.json) |
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
 | Suika Monsters | 387352 | [387352-suika-monsters.json](./387352-suika-monsters.json) |
 | Suika Shapes | 276165 | [276165-suika-shapes.json](./276165-suika-shapes.json) |
@@ -7704,6 +7711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
 | Super Mario Flash 2: SMW Remake | 198502 | [198502-super-mario-flash-2-smw-remake.json](./198502-super-mario-flash-2-smw-remake.json) |
 | Super Mario Flashback | 134075 | [134075-super-mario-flashback.json](./134075-super-mario-flashback.json) |
+| Super Mario Galaxy | 366899 | [366899-super-mario-galaxy.json](./366899-super-mario-galaxy.json) |
 | Super Mario Galaxy 2 | 366900 | [366900-super-mario-galaxy-2.json](./366900-super-mario-galaxy-2.json) |
 | Super Mario Galaxy 63 | 294714 | [294714-super-mario-galaxy-63.json](./294714-super-mario-galaxy-63.json) |
 | Super Mario Golden Hour | 394337 | [394337-super-mario-golden-hour.json](./394337-super-mario-golden-hour.json) |
