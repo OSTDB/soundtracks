@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T23:49:08.539Z",
-  "total_missing": 75849,
+  "generated_at": "2026-09-15T23:51:30.952Z",
+  "total_missing": 75848,
   "games": [
     {
       "igdb_id": 306086,
@@ -5596,11 +5596,6 @@
       "igdb_id": 188228,
       "game_name": "Age of History II",
       "file": "missing/A/188228-age-of-history-ii.json"
-    },
-    {
-      "igdb_id": 350402,
-      "game_name": "Age of Respair",
-      "file": "missing/A/350402-age-of-respair.json"
     },
     {
       "igdb_id": 9429,
