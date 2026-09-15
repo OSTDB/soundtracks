@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T10:04:00.956Z",
-  "total_missing": 73456,
+  "generated_at": "2026-09-15T10:11:40.944Z",
+  "total_missing": 73455,
   "games": [
     {
       "igdb_id": 306086,
@@ -5156,11 +5156,6 @@
       "igdb_id": 141798,
       "game_name": "After-H : Zombies",
       "file": "missing/A/141798-after-h-zombies.json"
-    },
-    {
-      "igdb_id": 141797,
-      "game_name": "After-H: Battle Arena",
-      "file": "missing/A/141797-after-h-battle-arena.json"
     },
     {
       "igdb_id": 141799,
