@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emi-chan no Moero Yakyuuken | 41373 | [41373-emi-chan-no-moero-yakyuuken.json](./41373-emi-chan-no-moero-yakyuuken.json) |
 | Emily Enough: Imprisoned | 71474 | [71474-emily-enough-imprisoned.json](./71474-emily-enough-imprisoned.json) |
 | Emily vs. the Unstable Creatures | 180853 | [180853-emily-vs-the-unstable-creatures.json](./180853-emily-vs-the-unstable-creatures.json) |
+| Emily's Bizarre Dreams | 343344 | [343344-emilys-bizarre-dreams.json](./343344-emilys-bizarre-dreams.json) |
 | Emily's Hotel Solitaire | 227854 | [227854-emilys-hotel-solitaire.json](./227854-emilys-hotel-solitaire.json) |
 | Emin's Journey | 291754 | [291754-emins-journey.json](./291754-emins-journey.json) |
 | Emio: The Smiling Man - Famicom Detective Club | 308052 | [308052-emio-the-smiling-man-famicom-detective-club.json](./308052-emio-the-smiling-man-famicom-detective-club.json) |
