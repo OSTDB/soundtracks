@@ -1984,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Meowbolt | 337986 | [337986-pixicharm-meowbolt.json](./337986-pixicharm-meowbolt.json) |
 | Pixicharm: Spartunex | 361698 | [361698-pixicharm-spartunex.json](./361698-pixicharm-spartunex.json) |
 | Pixicharm: Speedy Squire | 335964 | [335964-pixicharm-speedy-squire.json](./335964-pixicharm-speedy-squire.json) |
+| Pixicharm: TuttiRun | 353972 | [353972-pixicharm-tuttirun.json](./353972-pixicharm-tuttirun.json) |
 | Pixicharm: Vesprax | 377706 | [377706-pixicharm-vesprax.json](./377706-pixicharm-vesprax.json) |
 | Pixie Pete | 25688 | [25688-pixie-pete.json](./25688-pixie-pete.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
@@ -3867,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pudding: Lyre Knight | 375851 | [375851-pudding-lyre-knight.json](./375851-pudding-lyre-knight.json) |
 | Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
 | Puff Love Story | 371903 | [371903-puff-love-story.json](./371903-puff-love-story.json) |
+| Puff Up: Classic Edition | 353983 | [353983-puff-up-classic-edition.json](./353983-puff-up-classic-edition.json) |
 | Puffins: Island Adventure | 68030 | [68030-puffins-island-adventure.json](./68030-puffins-island-adventure.json) |
 | Puffins: Let's Fish! | 84802 | [84802-puffins-lets-fish.json](./84802-puffins-lets-fish.json) |
 | Puffins: Let's Roll | 66695 | [66695-puffins-lets-roll.json](./66695-puffins-lets-roll.json) |
