@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bead | 90636 | [90636-bead.json](./90636-bead.json) |
 | Beam Invader | 255363 | [255363-beam-invader.json](./255363-beam-invader.json) |
 | Beam Moto Driver Playground | 368027 | [368027-beam-moto-driver-playground.json](./368027-beam-moto-driver-playground.json) |
+| Beam Time | 366287 | [366287-beam-time.json](./366287-beam-time.json) |
 | Beambender | 14293 | [14293-beambender.json](./14293-beambender.json) |
 | Beamdown | 338198 | [338198-beamdown.json](./338198-beamdown.json) |
 | Bean | 370205 | [370205-bean.json](./370205-bean.json) |
@@ -1375,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee in the Valley | 250384 | [250384-bee-in-the-valley.json](./250384-bee-in-the-valley.json) |
 | Bee Leader | 208409 | [208409-bee-leader.json](./208409-bee-leader.json) |
 | Bee Magic | 314254 | [314254-bee-magic.json](./314254-bee-magic.json) |
+| Bee Master | 366282 | [366282-bee-master.json](./366282-bee-master.json) |
 | Bee Movie Game | 372566 | [372566-bee-movie-game.json](./372566-bee-movie-game.json) |
 | Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
 | Bee Streamer Idler | 392773 | [392773-bee-streamer-idler.json](./392773-bee-streamer-idler.json) |
@@ -2231,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacktail | 152129 | [152129-blacktail.json](./152129-blacktail.json) |
 | Blackthorn Arena | 127233 | [127233-blackthorn-arena.json](./127233-blackthorn-arena.json) |
 | BlackThorne Keep: Chronicles | 159262 | [159262-blackthorne-keep-chronicles.json](./159262-blackthorne-keep-chronicles.json) |
+| Blacktop Hustle | 365741 | [365741-blacktop-hustle.json](./365741-blacktop-hustle.json) |
 | Blackwater | 6917 | [6917-blackwater.json](./6917-blackwater.json) |
 | Blackwater 100 | 92540 | [92540-blackwater-100.json](./92540-blackwater-100.json) |
 | Blackwater Exchange | 407396 | [407396-blackwater-exchange.json](./407396-blackwater-exchange.json) |
@@ -3654,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge-It | 12983 | [12983-bridge-it.json](./12983-bridge-it.json) |
 | Bridge! 3 | 124145 | [124145-bridge-3.json](./124145-bridge-3.json) |
 | Bridge! 3: The Construction Game | 125372 | [125372-bridge-3-the-construction-game.json](./125372-bridge-3-the-construction-game.json) |
+| BridgeBreaker | 365785 | [365785-bridgebreaker.json](./365785-bridgebreaker.json) |
 | BridgeFix 2=3-1 | 158731 | [158731-bridgefix-2-3-1.json](./158731-bridgefix-2-3-1.json) |
 | Bridget Bishop | 400317 | [400317-bridget-bishop.json](./400317-bridget-bishop.json) |
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
