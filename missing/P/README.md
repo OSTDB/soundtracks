@@ -1882,9 +1882,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Ultimate Jigsaw | 240242 | [240242-pixel-puzzles-ultimate-jigsaw.json](./240242-pixel-puzzles-ultimate-jigsaw.json) |
 | Pixel Puzzles Ultimate Jigsaw: Civil Unrest | 293072 | [293072-pixel-puzzles-ultimate-jigsaw-civil-unrest.json](./293072-pixel-puzzles-ultimate-jigsaw-civil-unrest.json) |
 | Pixel Puzzles Ultimate Jigsaw: Variety Pack 23 | 293071 | [293071-pixel-puzzles-ultimate-jigsaw-variety-pack-23.json](./293071-pixel-puzzles-ultimate-jigsaw-variety-pack-23.json) |
+| Pixel Puzzles Ultimate: Bioframe | 357884 | [357884-pixel-puzzles-ultimate-bioframe.json](./357884-pixel-puzzles-ultimate-bioframe.json) |
+| Pixel Puzzles Ultimate: Colorful 2 | 357885 | [357885-pixel-puzzles-ultimate-colorful-2.json](./357885-pixel-puzzles-ultimate-colorful-2.json) |
+| Pixel Puzzles Ultimate: Dino Park | 357886 | [357886-pixel-puzzles-ultimate-dino-park.json](./357886-pixel-puzzles-ultimate-dino-park.json) |
+| Pixel Puzzles Ultimate: Light Trail | 357887 | [357887-pixel-puzzles-ultimate-light-trail.json](./357887-pixel-puzzles-ultimate-light-trail.json) |
 | Pixel Puzzles Ultimate: Puzzle Pack 2000 AD | 163416 | [163416-pixel-puzzles-ultimate-puzzle-pack-2000-ad.json](./163416-pixel-puzzles-ultimate-puzzle-pack-2000-ad.json) |
 | Pixel Puzzles Ultimate: Sunflowers | 148510 | [148510-pixel-puzzles-ultimate-sunflowers.json](./148510-pixel-puzzles-ultimate-sunflowers.json) |
 | Pixel Puzzles Ultimate: Variety Pack 10 | 148493 | [148493-pixel-puzzles-ultimate-variety-pack-10.json](./148493-pixel-puzzles-ultimate-variety-pack-10.json) |
+| Pixel Puzzles Ultimate: Variety Pack 24 | 357889 | [357889-pixel-puzzles-ultimate-variety-pack-24.json](./357889-pixel-puzzles-ultimate-variety-pack-24.json) |
+| Pixel Puzzles Ultimate: Variety Pack 25 | 357890 | [357890-pixel-puzzles-ultimate-variety-pack-25.json](./357890-pixel-puzzles-ultimate-variety-pack-25.json) |
+| Pixel Puzzles Ultimate: Variety Pack 26 | 357891 | [357891-pixel-puzzles-ultimate-variety-pack-26.json](./357891-pixel-puzzles-ultimate-variety-pack-26.json) |
 | Pixel Puzzles Winter Jigsaws | 389415 | [389415-pixel-puzzles-winter-jigsaws.json](./389415-pixel-puzzles-winter-jigsaws.json) |
 | Pixel Puzzles World War II Jigsaws | 263779 | [263779-pixel-puzzles-world-war-ii-jigsaws.json](./263779-pixel-puzzles-world-war-ii-jigsaws.json) |
 | Pixel Puzzles World War II Jigsaws: Battle of Hürtgen Forest | 267064 | [267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json](./267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json) |
