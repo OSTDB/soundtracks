@@ -2623,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Level Pack | 289884 | [289884-silver-level-pack.json](./289884-silver-level-pack.json) |
 | Silver Malfeasant | 345001 | [345001-silver-malfeasant.json](./345001-silver-malfeasant.json) |
 | Silver Millennium | 40251 | [40251-silver-millennium.json](./40251-silver-millennium.json) |
+| Silver Palace | 343335 | [343335-silver-palace.json](./343335-silver-palace.json) |
 | Silver Sonic: The Crystal Islands | 302142 | [302142-silver-sonic-the-crystal-islands.json](./302142-silver-sonic-the-crystal-islands.json) |
 | Silver Star Japan Table Games | 144997 | [144997-silver-star-japan-table-games.json](./144997-silver-star-japan-table-games.json) |
 | Silver Star Reversi | 67963 | [67963-silver-star-reversi.json](./67963-silver-star-reversi.json) |
@@ -2848,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins of the Demon RPG | 33004 | [33004-sins-of-the-demon-rpg.json](./33004-sins-of-the-demon-rpg.json) |
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
 | SinsFromGod | 139422 | [139422-sinsfromgod.json](./139422-sinsfromgod.json) |
+| Sintesoft 2.0 | 343319 | [343319-sintesoft-2-0.json](./343319-sintesoft-2-0.json) |
 | Sintropia Fruits Together | 388053 | [388053-sintropia-fruits-together.json](./388053-sintropia-fruits-together.json) |
 | Sionan | 230260 | [230260-sionan.json](./230260-sionan.json) |
 | Sionic Love | 399711 | [399711-sionic-love.json](./399711-sionic-love.json) |
@@ -6090,6 +6092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Best of PC | 75085 | [75085-star-wars-the-best-of-pc.json](./75085-star-wars-the-best-of-pc.json) |
 | Star Wars: The Clone Wars | 3760 | [3760-star-wars-the-clone-wars.json](./3760-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 78357 | [78357-star-wars-the-clone-wars.json](./78357-star-wars-the-clone-wars.json) |
+| Star Wars: The Clone Wars - Path of the Jedi | 343373 | [343373-star-wars-the-clone-wars-path-of-the-jedi.json](./343373-star-wars-the-clone-wars-path-of-the-jedi.json) |
 | Star Wars: The Empire Strikes Back | 12732 | [12732-star-wars-the-empire-strikes-back.json](./12732-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 219021 | [219021-star-wars-the-empire-strikes-back.json](./219021-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
@@ -6831,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
 | Strawberry Blasted Sky Glide | 143681 | [143681-strawberry-blasted-sky-glide.json](./143681-strawberry-blasted-sky-glide.json) |
 | Strawberry Chocolate | 367495 | [367495-strawberry-chocolate.json](./367495-strawberry-chocolate.json) |
+| Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
 | Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
@@ -7000,6 +7004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker Soccer Euro 2012 | 51168 | [51168-striker-soccer-euro-2012.json](./51168-striker-soccer-euro-2012.json) |
 | Strikers | 219577 | [219577-strikers.json](./219577-strikers.json) |
 | Strikers 1945 III for Nintendo Switch | 212270 | [212270-strikers-1945-iii-for-nintendo-switch.json](./212270-strikers-1945-iii-for-nintendo-switch.json) |
+| Strikers Club | 343323 | [343323-strikers-club.json](./343323-strikers-club.json) |
 | Strikewave: Nightly Underground Fighter | 349945 | [349945-strikewave-nightly-underground-fighter.json](./349945-strikewave-nightly-underground-fighter.json) |
 | Strimko | 54408 | [54408-strimko.json](./54408-strimko.json) |
 | Strimpland | 395698 | [395698-strimpland.json](./395698-strimpland.json) |
