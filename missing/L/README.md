@@ -1545,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loaders, Inc. | 392148 | [392148-loaders-inc.json](./392148-loaders-inc.json) |
 | Loading Screen Simulator | 43136 | [43136-loading-screen-simulator.json](./43136-loading-screen-simulator.json) |
 | Loading Zone | 193469 | [193469-loading-zone.json](./193469-loading-zone.json) |
+| Loading... | 365761 | [365761-loading.json](./365761-loading.json) |
 | Loaf: The Video Game | 408148 | [408148-loaf-the-video-game.json](./408148-loaf-the-video-game.json) |
 | Loaf's Adventure | 408147 | [408147-loafs-adventure.json](./408147-loafs-adventure.json) |
 | Loafing Town | 369064 | [369064-loafing-town.json](./369064-loafing-town.json) |
@@ -2225,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lulu's Temple | 195696 | [195696-lulus-temple.json](./195696-lulus-temple.json) |
 | LumaWorlds | 411677 | [411677-lumaworlds.json](./411677-lumaworlds.json) |
 | Lumba: Redux | 210890 | [210890-lumba-redux.json](./210890-lumba-redux.json) |
+| Lumber and Plunder | 365748 | [365748-lumber-and-plunder.json](./365748-lumber-and-plunder.json) |
 | Lumber Inc Tycoon | 255759 | [255759-lumber-inc-tycoon.json](./255759-lumber-inc-tycoon.json) |
 | Lumber King | 54474 | [54474-lumber-king.json](./54474-lumber-king.json) |
 | Lumberhill | 111771 | [111771-lumberhill.json](./111771-lumberhill.json) |
