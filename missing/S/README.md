@@ -6182,6 +6182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
 | Stary | 113644 | [113644-stary.json](./113644-stary.json) |
 | Starzzle | 382218 | [382218-starzzle.json](./382218-starzzle.json) |
+| Stash: A Card Looter | 367473 | [367473-stash-a-card-looter.json](./367473-stash-a-card-looter.json) |
 | Stasis: Bone Totem | 140866 | [140866-stasis-bone-totem.json](./140866-stasis-bone-totem.json) |
 | Stasis: Deluxe Edition | 51894 | [51894-stasis-deluxe-edition.json](./51894-stasis-deluxe-edition.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
@@ -6649,6 +6650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straw Path | 416675 | [416675-straw-path.json](./416675-straw-path.json) |
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
 | Strawberry Blasted Sky Glide | 143681 | [143681-strawberry-blasted-sky-glide.json](./143681-strawberry-blasted-sky-glide.json) |
+| Strawberry Chocolate | 367495 | [367495-strawberry-chocolate.json](./367495-strawberry-chocolate.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
 | Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
@@ -6877,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Student Transfer | 191892 | [191892-student-transfer.json](./191892-student-transfer.json) |
 | Students' Horrible Stories: FIN | 147417 | [147417-students-horrible-stories-fin.json](./147417-students-horrible-stories-fin.json) |
 | Studio 100 Speeleiland | 130913 | [130913-studio-100-speeleiland.json](./130913-studio-100-speeleiland.json) |
+| Study Arcade | 367497 | [367497-study-arcade.json](./367497-study-arcade.json) |
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
 | Stuff'd | 228472 | [228472-stuffd.json](./228472-stuffd.json) |
 | Stuffed | 140522 | [140522-stuffed.json](./140522-stuffed.json) |
