@@ -554,7 +554,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gods | 399092 | [399092-age-of-gods.json](./399092-age-of-gods.json) |
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
 | Age of Gods: Necros Faction | 399095 | [399095-age-of-gods-necros-faction.json](./399095-age-of-gods-necros-faction.json) |
-| Age of Gods: Sanctus Campaign | 399100 | [399100-age-of-gods-sanctus-campaign.json](./399100-age-of-gods-sanctus-campaign.json) |
 | Age of Gods: Spirit Faction | 399101 | [399101-age-of-gods-spirit-faction.json](./399101-age-of-gods-spirit-faction.json) |
 | Age of Gods: Tribal Faction | 399098 | [399098-age-of-gods-tribal-faction.json](./399098-age-of-gods-tribal-faction.json) |
 | Age of Grit | 61074 | [61074-age-of-grit.json](./61074-age-of-grit.json) |
