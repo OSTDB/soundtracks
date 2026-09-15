@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
 | Beards vs. Claws | 399695 | [399695-beards-vs-claws.json](./399695-beards-vs-claws.json) |
 | Bearly Baking | 355040 | [355040-bearly-baking.json](./355040-bearly-baking.json) |
+| Bearly Chillin' | 363976 | [363976-bearly-chillin.json](./363976-bearly-chillin.json) |
 | BearPit | 338719 | [338719-bearpit.json](./338719-bearpit.json) |
 | Bearricade | 327199 | [327199-bearricade.json](./327199-bearricade.json) |
 | Bearslayer | 33059 | [33059-bearslayer.json](./33059-bearslayer.json) |
@@ -1465,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below | 377564 | [377564-below.json](./377564-below.json) |
 | Below Benni's | 335249 | [335249-below-bennis.json](./335249-below-bennis.json) |
 | Below Nowhere | 343824 | [343824-below-nowhere.json](./343824-below-nowhere.json) |
+| Below the Crown | 363946 | [363946-below-the-crown.json](./363946-below-the-crown.json) |
 | Below the Ocean | 173312 | [173312-below-the-ocean.json](./173312-below-the-ocean.json) |
 | Beluflin: Beautiful Luminous Flying Insects | 325268 | [325268-beluflin-beautiful-luminous-flying-insects.json](./325268-beluflin-beautiful-luminous-flying-insects.json) |
 | Beluga | 256857 | [256857-beluga.json](./256857-beluga.json) |
@@ -1658,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
 | Beyond Protocol | 72646 | [72646-beyond-protocol.json](./72646-beyond-protocol.json) |
 | Beyond Senses | 124169 | [124169-beyond-senses.json](./124169-beyond-senses.json) |
+| Beyond Silence | 363964 | [363964-beyond-silence.json](./363964-beyond-silence.json) |
 | Beyond Solar | 172135 | [172135-beyond-solar.json](./172135-beyond-solar.json) |
 | Beyond the Abyss | 86126 | [86126-beyond-the-abyss.json](./86126-beyond-the-abyss.json) |
 | Beyond the Black Hole | 73792 | [73792-beyond-the-black-hole.json](./73792-beyond-the-black-hole.json) |
@@ -2047,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Evolution | 35966 | [35966-bit-evolution.json](./35966-bit-evolution.json) |
 | Bit Generations: Boundish | 94200 | [94200-bit-generations-boundish.json](./94200-bit-generations-boundish.json) |
 | Bit Generations: Dialhex | 251173 | [251173-bit-generations-dialhex.json](./251173-bit-generations-dialhex.json) |
+| Bit Lost | 363963 | [363963-bit-lost.json](./363963-bit-lost.json) |
 | Bit Orchard: Animal Valley - Complete Edition | 232997 | [232997-bit-orchard-animal-valley-complete-edition.json](./232997-bit-orchard-animal-valley-complete-edition.json) |
 | Bit Orchard: Animal Valley - Magnificent Edition | 260697 | [260697-bit-orchard-animal-valley-magnificent-edition.json](./260697-bit-orchard-animal-valley-magnificent-edition.json) |
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
@@ -2425,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlindSide | 64386 | [64386-blindside.json](./64386-blindside.json) |
 | Blindsight: War of the Wardens | 248889 | [248889-blindsight-war-of-the-wardens.json](./248889-blindsight-war-of-the-wardens.json) |
 | Blinest | 228731 | [228731-blinest.json](./228731-blinest.json) |
+| Bling Bling Bankruptcy | 363943 | [363943-bling-bling-bankruptcy.json](./363943-bling-bling-bankruptcy.json) |
 | Blink | 413761 | [413761-blink.json](./413761-blink.json) |
 | Blink and Die Replay | 319351 | [319351-blink-and-die-replay.json](./319351-blink-and-die-replay.json) |
 | Blink: Rogues | 110324 | [110324-blink-rogues.json](./110324-blink-rogues.json) |
@@ -2524,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocker.io | 194036 | [194036-blocker-io.json](./194036-blocker-io.json) |
 | Blockfeet | 411708 | [411708-blockfeet.json](./411708-blockfeet.json) |
 | Blockforge | 73271 | [73271-blockforge.json](./73271-blockforge.json) |
+| Blockfusion | 363977 | [363977-blockfusion.json](./363977-blockfusion.json) |
 | Blockhead | 14323 | [14323-blockhead.json](./14323-blockhead.json) |
 | Blockhead II | 14324 | [14324-blockhead-ii.json](./14324-blockhead-ii.json) |
 | Blockman Returns | 56427 | [56427-blockman-returns.json](./56427-blockman-returns.json) |
