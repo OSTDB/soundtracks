@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T21:19:03.858Z",
-  "total_missing": 75460,
+  "generated_at": "2026-09-15T21:21:37.816Z",
+  "total_missing": 75459,
   "games": [
     {
       "igdb_id": 306086,
@@ -5521,11 +5521,6 @@
       "igdb_id": 399095,
       "game_name": "Age of Gods: Necros Faction",
       "file": "missing/A/399095-age-of-gods-necros-faction.json"
-    },
-    {
-      "igdb_id": 399101,
-      "game_name": "Age of Gods: Spirit Faction",
-      "file": "missing/A/399101-age-of-gods-spirit-faction.json"
     },
     {
       "igdb_id": 399098,
