@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T10:51:37.465Z",
-  "total_missing": 73568,
+  "generated_at": "2026-09-15T11:01:37.127Z",
+  "total_missing": 73567,
   "games": [
     {
       "igdb_id": 306086,
@@ -5181,11 +5181,6 @@
       "igdb_id": 175,
       "game_name": "Afterlife",
       "file": "missing/A/175-afterlife.json"
-    },
-    {
-      "igdb_id": 264043,
-      "game_name": "Afterlife",
-      "file": "missing/A/264043-afterlife.json"
     },
     {
       "igdb_id": 164979,
