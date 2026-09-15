@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daneta2 | 125455 | [125455-daneta2.json](./125455-daneta2.json) |
 | Danganronpa 1-2 Reload | 42914 | [42914-danganronpa-1-2-reload.json](./42914-danganronpa-1-2-reload.json) |
 | Danganronpa 2: Goodbye Despair - Anniversary Edition | 152400 | [152400-danganronpa-2-goodbye-despair-anniversary-edition.json](./152400-danganronpa-2-goodbye-despair-anniversary-edition.json) |
+| Danganronpa 2x2 | 366895 | [366895-danganronpa-2x2.json](./366895-danganronpa-2x2.json) |
 | Danganronpa Absolute Vindication | 304350 | [304350-danganronpa-absolute-vindication.json](./304350-danganronpa-absolute-vindication.json) |
 | Danganronpa Another Episode: Ultra Despair Girls - Limited Edition | 42675 | [42675-danganronpa-another-episode-ultra-despair-girls-limited-edition.json](./42675-danganronpa-another-episode-ultra-despair-girls-limited-edition.json) |
 | Danganronpa Blowback: The Stage of Repeated Despair and Hope | 304343 | [304343-danganronpa-blowback-the-stage-of-repeated-despair-and-hope.json](./304343-danganronpa-blowback-the-stage-of-repeated-despair-and-hope.json) |
@@ -1352,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delving Deep | 226748 | [226748-delving-deep.json](./226748-delving-deep.json) |
 | DEM_Stage_Zero | 127369 | [127369-dem-stage-zero.json](./127369-dem-stage-zero.json) |
 | DeMagnete VR | 115066 | [115066-demagnete-vr.json](./115066-demagnete-vr.json) |
+| Demand Dial Exorcist | 366888 | [366888-demand-dial-exorcist.json](./366888-demand-dial-exorcist.json) |
 | Demencia | 202352 | [202352-demencia.json](./202352-demencia.json) |
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
 | Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
@@ -2288,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Magical Dice | 55158 | [55158-disney-magical-dice.json](./55158-disney-magical-dice.json) |
 | Disney Magical World 2: Enchanted Edition | 172428 | [172428-disney-magical-world-2-enchanted-edition.json](./172428-disney-magical-world-2-enchanted-edition.json) |
 | Disney Mickey's Typing Adventure | 35796 | [35796-disney-mickeys-typing-adventure.json](./35796-disney-mickeys-typing-adventure.json) |
+| Disney Miraness Fitness | 366901 | [366901-disney-miraness-fitness.json](./366901-disney-miraness-fitness.json) |
 | Disney Piglet's Special Day | 220130 | [220130-disney-piglets-special-day.json](./220130-disney-piglets-special-day.json) |
 | Disney Princess | 230556 | [230556-disney-princess.json](./230556-disney-princess.json) |
 | Disney Princess: Enchanted Journey | 17829 | [17829-disney-princess-enchanted-journey.json](./17829-disney-princess-enchanted-journey.json) |
@@ -2439,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJLand | 371909 | [371909-djland.json](./371909-djland.json) |
 | DJMax Portable: Clazziquai Edition | 79327 | [79327-djmax-portable-clazziquai-edition.json](./79327-djmax-portable-clazziquai-edition.json) |
 | DJMax Respect | 28192 | [28192-djmax-respect.json](./28192-djmax-respect.json) |
+| DJMax Respect V: Arcaea Pack | 366929 | [366929-djmax-respect-v-arcaea-pack.json](./366929-djmax-respect-v-arcaea-pack.json) |
 | DJMax Respect V: Emotional Sense Pack | 225060 | [225060-djmax-respect-v-emotional-sense-pack.json](./225060-djmax-respect-v-emotional-sense-pack.json) |
 | DJMax Respect V: Ez2on Pack | 239342 | [239342-djmax-respect-v-ez2on-pack.json](./239342-djmax-respect-v-ez2on-pack.json) |
 | DJMax Respect V: Groove Coaster Pack | 225059 | [225059-djmax-respect-v-groove-coaster-pack.json](./225059-djmax-respect-v-groove-coaster-pack.json) |
@@ -3711,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink Beer, Neglect Family | 185673 | [185673-drink-beer-neglect-family.json](./185673-drink-beer-neglect-family.json) |
 | Drinkbox Vita Collection | 99542 | [99542-drinkbox-vita-collection.json](./99542-drinkbox-vita-collection.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
+| Drive | 366908 | [366908-drive.json](./366908-drive.json) |
 | Drive 4 Survival | 139390 | [139390-drive-4-survival.json](./139390-drive-4-survival.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
 | Drive Beyond Horizons | 290959 | [290959-drive-beyond-horizons.json](./290959-drive-beyond-horizons.json) |
@@ -3988,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dummynation | 196265 | [196265-dummynation.json](./196265-dummynation.json) |
 | Dump Truck Offroad Driver 3D | 104638 | [104638-dump-truck-offroad-driver-3d.json](./104638-dump-truck-offroad-driver-3d.json) |
 | Dumpling Together | 339108 | [339108-dumpling-together.json](./339108-dumpling-together.json) |
+| Dumpster Divers | 366903 | [366903-dumpster-divers.json](./366903-dumpster-divers.json) |
 | Dumpster Gang | 415120 | [415120-dumpster-gang.json](./415120-dumpster-gang.json) |
 | Dùn | 367443 | [367443-dun.json](./367443-dun.json) |
 | Dun Dam: Dungeons & Dam | 69298 | [69298-dun-dam-dungeons-and-dam.json](./69298-dun-dam-dungeons-and-dam.json) |
