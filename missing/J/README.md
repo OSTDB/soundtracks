@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jabberwocky | 112284 | [112284-jabberwocky.json](./112284-jabberwocky.json) |
 | Jabberwocky | 181861 | [181861-jabberwocky.json](./181861-jabberwocky.json) |
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
+| Jack | 369658 | [369658-jack.json](./369658-jack.json) |
 | Jack and the Beanstalk | 25724 | [25724-jack-and-the-beanstalk.json](./25724-jack-and-the-beanstalk.json) |
 | Jack and the Beanstalk | 394188 | [394188-jack-and-the-beanstalk.json](./394188-jack-and-the-beanstalk.json) |
 | Jack and the Beanstalk Jigsaw Puzzle | 163406 | [163406-jack-and-the-beanstalk-jigsaw-puzzle.json](./163406-jack-and-the-beanstalk-jigsaw-puzzle.json) |
@@ -934,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Keep Digging | 304370 | [304370-just-keep-digging.json](./304370-just-keep-digging.json) |
 | Just Keep Running | 248325 | [248325-just-keep-running.json](./248325-just-keep-running.json) |
 | Just Kiss Him Already! | 225310 | [225310-just-kiss-him-already.json](./225310-just-kiss-him-already.json) |
+| Just Made a MageTower | 369628 | [369628-just-made-a-magetower.json](./369628-just-made-a-magetower.json) |
 | Just Me and Only Me Against the World | 176437 | [176437-just-me-and-only-me-against-the-world.json](./176437-just-me-and-only-me-against-the-world.json) |
 | Just Move On! | 329005 | [329005-just-move-on.json](./329005-just-move-on.json) |
 | Just One | 231354 | [231354-just-one.json](./231354-just-one.json) |
