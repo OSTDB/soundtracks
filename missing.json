@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T12:01:46.033Z",
-  "total_missing": 73745,
+  "generated_at": "2026-09-15T12:11:34.392Z",
+  "total_missing": 73751,
   "games": [
     {
       "igdb_id": 306086,
@@ -5216,11 +5216,6 @@
       "igdb_id": 394314,
       "game_name": "AfterQuest",
       "file": "missing/A/394314-afterquest.json"
-    },
-    {
-      "igdb_id": 253377,
-      "game_name": "Aftershock: Coastline",
-      "file": "missing/A/253377-aftershock-coastline.json"
     },
     {
       "igdb_id": 69816,
@@ -20021,6 +20016,16 @@
       "igdb_id": 172822,
       "game_name": "Atelier Sophie 2: The Alchemist of the Mysterious Dream",
       "file": "missing/A/172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json"
+    },
+    {
+      "igdb_id": 356743,
+      "game_name": "Atelier Yumia: Fantasy Academy Costume Set",
+      "file": "missing/A/356743-atelier-yumia-fantasy-academy-costume-set.json"
+    },
+    {
+      "igdb_id": 356745,
+      "game_name": "Atelier Yumia: The Art of Aladiss Expansion Pack",
+      "file": "missing/A/356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json"
     },
     {
       "igdb_id": 273078,
@@ -80023,6 +80028,11 @@
       "file": "missing/D/310407-dna-season-2-episode-3.json"
     },
     {
+      "igdb_id": 356735,
+      "game_name": "DnB Starfighter",
+      "file": "missing/D/356735-dnb-starfighter.json"
+    },
+    {
       "igdb_id": 2888,
       "game_name": "DND",
       "file": "missing/D/2888-dnd.json"
@@ -84561,6 +84571,11 @@
       "igdb_id": 328277,
       "game_name": "Dragon Ruins II",
       "file": "missing/D/328277-dragon-ruins-ii.json"
+    },
+    {
+      "igdb_id": 356739,
+      "game_name": "Dragon Ruins II: Aftermath",
+      "file": "missing/D/356739-dragon-ruins-ii-aftermath.json"
     },
     {
       "igdb_id": 122988,
@@ -105206,6 +105221,11 @@
       "igdb_id": 214733,
       "game_name": "Find Me in the Maze",
       "file": "missing/F/214733-find-me-in-the-maze.json"
+    },
+    {
+      "igdb_id": 356748,
+      "game_name": "Find Meow in Wild West",
+      "file": "missing/F/356748-find-meow-in-wild-west.json"
     },
     {
       "igdb_id": 362893,
@@ -289193,6 +289213,11 @@
       "file": "missing/S/233777-stick-war-saga.json"
     },
     {
+      "igdb_id": 356738,
+      "game_name": "Sticker Business",
+      "file": "missing/S/356738-sticker-business.json"
+    },
+    {
       "igdb_id": 396195,
       "game_name": "Stickerino",
       "file": "missing/S/396195-stickerino.json"
@@ -357091,6 +357116,11 @@
       "igdb_id": 270106,
       "game_name": "Wildmagic Wizardry",
       "file": "missing/W/270106-wildmagic-wizardry.json"
+    },
+    {
+      "igdb_id": 356747,
+      "game_name": "Wilds of the Realmwalker",
+      "file": "missing/W/356747-wilds-of-the-realmwalker.json"
     },
     {
       "igdb_id": 79877,
