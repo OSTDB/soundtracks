@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbra Fields | 272571 | [272571-umbra-fields.json](./272571-umbra-fields.json) |
 | Umbra Flora | 386886 | [386886-umbra-flora.json](./386886-umbra-flora.json) |
 | Umbra Sepulcri | 215678 | [215678-umbra-sepulcri.json](./215678-umbra-sepulcri.json) |
+| Umbra Survivors | 379956 | [379956-umbra-survivors.json](./379956-umbra-survivors.json) |
 | Umbra: Journey Home | 173300 | [173300-umbra-journey-home.json](./173300-umbra-journey-home.json) |
 | Umbral | 273389 | [273389-umbral.json](./273389-umbral.json) |
 | Umbral Core | 219257 | [219257-umbral-core.json](./219257-umbral-core.json) |
@@ -834,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ushio to Tora | 38380 | [38380-ushio-to-tora.json](./38380-ushio-to-tora.json) |
 | UsoNatsu: The Summer Romance Bloomed From a Lie | 234340 | [234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json](./234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json) |
 | Usotsuki Game | 83528 | [83528-usotsuki-game.json](./83528-usotsuki-game.json) |
+| Ustje | 379983 | [379983-ustje.json](./379983-ustje.json) |
 | Usual June | 279615 | [279615-usual-june.json](./279615-usual-june.json) |
 | Usurper of Fire | 408035 | [408035-usurper-of-fire.json](./408035-usurper-of-fire.json) |
 | UT Realms Reborn | 122992 | [122992-ut-realms-reborn.json](./122992-ut-realms-reborn.json) |
