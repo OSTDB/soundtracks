@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch: Color by Number - Simple Patterns Pack 5 | 374128 | [374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json](./374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json) |
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack | 374126 | [374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json](./374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json) |
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack 2 | 377603 | [377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json](./377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json) |
+| Pixel Cross Stitch: Color by Number - Vacations Pack | 361226 | [361226-pixel-cross-stitch-color-by-number-vacations-pack.json](./361226-pixel-cross-stitch-color-by-number-vacations-pack.json) |
 | Pixel Cup Soccer 16 | 39001 | [39001-pixel-cup-soccer-16.json](./39001-pixel-cup-soccer-16.json) |
 | Pixel Drifters | 234320 | [234320-pixel-drifters.json](./234320-pixel-drifters.json) |
 | Pixel Driver | 185656 | [185656-pixel-driver.json](./185656-pixel-driver.json) |
@@ -2475,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Revelation | 226211 | [226211-pokemon-revelation.json](./226211-pokemon-revelation.json) |
 | Pokemon Roulette | 365067 | [365067-pokemon-roulette.json](./365067-pokemon-roulette.json) |
 | Pokémon Royal | 313116 | [313116-pokemon-royal.json](./313116-pokemon-royal.json) |
+| Pokémon Royal Sapphire | 361219 | [361219-pokemon-royal-sapphire.json](./361219-pokemon-royal-sapphire.json) |
 | Pokémon Royal Version | 172758 | [172758-pokemon-royal-version.json](./172758-pokemon-royal-version.json) |
 | Pokémon Ruby Version | 355535 | [355535-pokemon-ruby-version.json](./355535-pokemon-ruby-version.json) |
 | Pokémon Run & Bun | 246077 | [246077-pokemon-run-and-bun.json](./246077-pokemon-run-and-bun.json) |
@@ -2846,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Posibility | 127367 | [127367-posibility.json](./127367-posibility.json) |
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
 | PossiblyAxolotl's PlayPack | 349873 | [349873-possiblyaxolotls-playpack.json](./349873-possiblyaxolotls-playpack.json) |
+| Possum Boy!: The Ballad of Joey Virginia | 361241 | [361241-possum-boy-the-ballad-of-joey-virginia.json](./361241-possum-boy-the-ballad-of-joey-virginia.json) |
 | Post | 274208 | [274208-post.json](./274208-post.json) |
 | Post Apocalypse | 130355 | [130355-post-apocalypse.json](./130355-post-apocalypse.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
@@ -3702,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prowler | 55085 | [55085-prowler.json](./55085-prowler.json) |
 | Proxima | 406840 | [406840-proxima.json](./406840-proxima.json) |
 | Prší | 99579 | [99579-prsi.json](./99579-prsi.json) |
+| Prueba Humana | 361231 | [361231-prueba-humana.json](./361231-prueba-humana.json) |
 | Prune & Milo | 294134 | [294134-prune-and-milo.json](./294134-prune-and-milo.json) |
 | Prussia's Glory | 77384 | [77384-prussias-glory.json](./77384-prussias-glory.json) |
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
