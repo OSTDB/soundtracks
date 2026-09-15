@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundry | 317025 | [317025-laundry.json](./317025-laundry.json) |
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
 | Laundry Simulator | 326396 | [326396-laundry-simulator.json](./326396-laundry-simulator.json) |
+| Laura Lustful Secrets | 360078 | [360078-laura-lustful-secrets.json](./360078-laura-lustful-secrets.json) |
 | Laura's Happy Adventures | 66703 | [66703-lauras-happy-adventures.json](./66703-lauras-happy-adventures.json) |
 | Lauras Tierklinik | 163974 | [163974-lauras-tierklinik.json](./163974-lauras-tierklinik.json) |
 | Laurel's Day | 393486 | [393486-laurels-day.json](./393486-laurels-day.json) |
@@ -1163,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Dragon: Infinite Wealth - Yakuza CD Collection Set | 288218 | [288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json](./288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Collector's Edition | 327838 | [327838-like-a-dragon-pirate-yakuza-in-hawaii-collectors-edition.json](./327838-like-a-dragon-pirate-yakuza-in-hawaii-collectors-edition.json) |
 | Like a Hot Knife Through Butter | 223127 | [223127-like-a-hot-knife-through-butter.json](./223127-like-a-hot-knife-through-butter.json) |
+| Like A Normal Fish | 360073 | [360073-like-a-normal-fish.json](./360073-like-a-normal-fish.json) |
 | Like a Pizza | 208933 | [208933-like-a-pizza.json](./208933-like-a-pizza.json) |
 | Like an Angel | 173824 | [173824-like-an-angel.json](./173824-like-an-angel.json) |
 | Like Clockwork | 181924 | [181924-like-clockwork.json](./181924-like-clockwork.json) |
@@ -1387,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Kingdoms: Chapters 1-3 | 262930 | [262930-little-kingdoms-chapters-1-3.json](./262930-little-kingdoms-chapters-1-3.json) |
 | Little Kitten: My Favorite Cat | 200119 | [200119-little-kitten-my-favorite-cat.json](./200119-little-kitten-my-favorite-cat.json) |
 | Little Kitty Meow | 403717 | [403717-little-kitty-meow.json](./403717-little-kitty-meow.json) |
+| Little Kitty, Big City: Picture Purrfect | 360076 | [360076-little-kitty-big-city-picture-purrfect.json](./360076-little-kitty-big-city-picture-purrfect.json) |
 | Little Kong: Jungle Fun | 219285 | [219285-little-kong-jungle-fun.json](./219285-little-kong-jungle-fun.json) |
 | Little Laps | 349326 | [349326-little-laps.json](./349326-little-laps.json) |
 | Little League World Series Baseball 2008 | 47953 | [47953-little-league-world-series-baseball-2008.json](./47953-little-league-world-series-baseball-2008.json) |
