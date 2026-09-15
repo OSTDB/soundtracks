@@ -1832,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Trickster: Parkour Simulator | 96708 | [96708-flip-trickster-parkour-simulator.json](./96708-flip-trickster-parkour-simulator.json) |
 | Flip Words | 77381 | [77381-flip-words.json](./77381-flip-words.json) |
 | Flip! The Cartoon Strategy Game | 57086 | [57086-flip-the-cartoon-strategy-game.json](./57086-flip-the-cartoon-strategy-game.json) |
+| Flipbomb | 371348 | [371348-flipbomb.json](./371348-flipbomb.json) |
 | FlipBook | 315831 | [315831-flipbook.json](./315831-flipbook.json) |
 | Fliplomacy | 103399 | [103399-fliplomacy.json](./103399-fliplomacy.json) |
 | Flipnote Studio | 85636 | [85636-flipnote-studio.json](./85636-flipnote-studio.json) |
@@ -2542,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
 | FPS Arena Online | 195707 | [195707-fps-arena-online.json](./195707-fps-arena-online.json) |
 | FPS Hero | 386284 | [386284-fps-hero.json](./386284-fps-hero.json) |
+| FPS Robot Attack Minigame | 371303 | [371303-fps-robot-attack-minigame.json](./371303-fps-robot-attack-minigame.json) |
 | FPS Shooting Master | 102748 | [102748-fps-shooting-master.json](./102748-fps-shooting-master.json) |
 | FPS Trainer | 94177 | [94177-fps-trainer.json](./94177-fps-trainer.json) |
 | FPV Air 2: Bando Freestyler | 172099 | [172099-fpv-air-2-bando-freestyler.json](./172099-fpv-air-2-bando-freestyler.json) |
@@ -2995,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuga: Melodies of Steel 2 - Tail Concerto Costume Pack | 259584 | [259584-fuga-melodies-of-steel-2-tail-concerto-costume-pack.json](./259584-fuga-melodies-of-steel-2-tail-concerto-costume-pack.json) |
 | Fuga: Melodies of Steel 2 - Ultimate Edition | 283150 | [283150-fuga-melodies-of-steel-2-ultimate-edition.json](./283150-fuga-melodies-of-steel-2-ultimate-edition.json) |
 | Fuga: Melodies of Steel 3 | 307648 | [307648-fuga-melodies-of-steel-3.json](./307648-fuga-melodies-of-steel-3.json) |
+| Fuga: Melodies of Steel 3 - Season Pass | 371315 | [371315-fuga-melodies-of-steel-3-season-pass.json](./371315-fuga-melodies-of-steel-3-season-pass.json) |
 | Fuggedaboutit Farm | 372996 | [372996-fuggedaboutit-farm.json](./372996-fuggedaboutit-farm.json) |
 | Fugue | 104072 | [104072-fugue.json](./104072-fugue.json) |
 | Fugue in Void | 105212 | [105212-fugue-in-void.json](./105212-fugue-in-void.json) |
