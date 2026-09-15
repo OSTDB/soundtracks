@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tet Story | 400370 | [400370-tet-story.json](./400370-tet-story.json) |
 | Tether | 186336 | [186336-tether.json](./186336-tether.json) |
 | Tetnis | 93522 | [93522-tetnis.json](./93522-tetnis.json) |
+| Tetr.io: Season 2 | 363973 | [363973-tetr-io-season-2.json](./363973-tetr-io-season-2.json) |
 | Tetra for Nintendo Switch: International Edition | 187462 | [187462-tetra-for-nintendo-switch-international-edition.json](./187462-tetra-for-nintendo-switch-international-edition.json) |
 | Tetra Troopers | 379371 | [379371-tetra-troopers.json](./379371-tetra-troopers.json) |
 | Tetra's Escape | 106530 | [106530-tetras-escape.json](./106530-tetras-escape.json) |
@@ -1524,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bad Gravedigger | 104073 | [104073-the-bad-gravedigger.json](./104073-the-bad-gravedigger.json) |
 | The Bad Son | 192888 | [192888-the-bad-son.json](./192888-the-bad-son.json) |
 | The Bakery Tales | 328475 | [328475-the-bakery-tales.json](./328475-the-bakery-tales.json) |
+| The Ball | 363961 | [363961-the-ball.json](./363961-the-ball.json) |
 | The Ball | 9402 | [9402-the-ball.json](./9402-the-ball.json) |
 | The Ball Adventure | 148535 | [148535-the-ball-adventure.json](./148535-the-ball-adventure.json) |
 | The Ball Flow: Nature and Light | 199597 | [199597-the-ball-flow-nature-and-light.json](./199597-the-ball-flow-nature-and-light.json) |
@@ -7532,6 +7534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulation 19 | 111747 | [111747-truck-simulation-19.json](./111747-truck-simulation-19.json) |
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
 | Truck Simulator 3 | 231069 | [231069-truck-simulator-3.json](./231069-truck-simulator-3.json) |
+| Truck Simulator Big Rigs | 363941 | [363941-truck-simulator-big-rigs.json](./363941-truck-simulator-big-rigs.json) |
 | Truck Simulator Collection | 275886 | [275886-truck-simulator-collection.json](./275886-truck-simulator-collection.json) |
 | Truck Simulator Drive USA: EVO | 383516 | [383516-truck-simulator-drive-usa-evo.json](./383516-truck-simulator-drive-usa-evo.json) |
 | Truck Simulator PRO 2 | 88947 | [88947-truck-simulator-pro-2.json](./88947-truck-simulator-pro-2.json) |
@@ -7762,6 +7765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnabouts of the Father | 303254 | [303254-turnabouts-of-the-father.json](./303254-turnabouts-of-the-father.json) |
 | TurnBreak | 343278 | [343278-turnbreak.json](./343278-turnbreak.json) |
 | Turned Into Turrets | 377082 | [377082-turned-into-turrets.json](./377082-turned-into-turrets.json) |
+| Turning Manor | 363953 | [363953-turning-manor.json](./363953-turning-manor.json) |
 | Turnip Boy Robs a Bank | 217645 | [217645-turnip-boy-robs-a-bank.json](./217645-turnip-boy-robs-a-bank.json) |
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
 | Turochamp | 232670 | [232670-turochamp.json](./232670-turochamp.json) |
