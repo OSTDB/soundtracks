@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T20:18:20.749Z",
-  "total_missing": 75266,
+  "generated_at": "2026-09-15T20:21:50.039Z",
+  "total_missing": 75265,
   "games": [
     {
       "igdb_id": 306086,
@@ -5491,11 +5491,6 @@
       "igdb_id": 399092,
       "game_name": "Age of Gods",
       "file": "missing/A/399092-age-of-gods.json"
-    },
-    {
-      "igdb_id": 399102,
-      "game_name": "Age of Gods: Drakonis Faction",
-      "file": "missing/A/399102-age-of-gods-drakonis-faction.json"
     },
     {
       "igdb_id": 399094,
