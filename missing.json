@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T01:33:43.173Z",
-  "total_missing": 71949,
+  "generated_at": "2026-09-15T01:41:38.845Z",
+  "total_missing": 71948,
   "games": [
     {
       "igdb_id": 306086,
@@ -4871,11 +4871,6 @@
       "igdb_id": 290947,
       "game_name": "Aerial_Knight's We Never Yield",
       "file": "missing/A/290947-aerial-knights-we-never-yield.json"
-    },
-    {
-      "igdb_id": 157134,
-      "game_name": "Aeris & Zack",
-      "file": "missing/A/157134-aeris-and-zack.json"
     },
     {
       "igdb_id": 335094,
