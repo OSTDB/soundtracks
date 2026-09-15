@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make the Border Great Again: Visa Officer Simulator | 326401 | [326401-make-the-border-great-again-visa-officer-simulator.json](./326401-make-the-border-great-again-visa-officer-simulator.json) |
 | Make the Burger | 143663 | [143663-make-the-burger.json](./143663-make-the-burger.json) |
 | Make The Dead Dead Again | 386246 | [386246-make-the-dead-dead-again.json](./386246-make-the-dead-dead-again.json) |
+| Make the Empire Great Again | 373081 | [373081-make-the-empire-great-again.json](./373081-make-the-empire-great-again.json) |
 | Make the World a Better Place | 248326 | [248326-make-the-world-a-better-place.json](./248326-make-the-world-a-better-place.json) |
 | Make Them Stop | 240791 | [240791-make-them-stop.json](./240791-make-them-stop.json) |
 | Make War Not Love 5 | 88234 | [88234-make-war-not-love-5.json](./88234-make-war-not-love-5.json) |
@@ -594,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Manager | 291255 | [291255-mall-manager.json](./291255-mall-manager.json) |
 | Mall Simulator | 326402 | [326402-mall-simulator.json](./326402-mall-simulator.json) |
 | Mall Together | 400213 | [400213-mall-together.json](./400213-mall-together.json) |
+| Malleus Maleficarum | 373104 | [373104-malleus-maleficarum.json](./373104-malleus-maleficarum.json) |
 | Malleus Maleficarum: The Witch of San Ignacio | 318794 | [318794-malleus-maleficarum-the-witch-of-san-ignacio.json](./318794-malleus-maleficarum-the-witch-of-san-ignacio.json) |
 | Malody V | 190191 | [190191-malody-v.json](./190191-malody-v.json) |
 | Malon & The Legend of Zelda: Master of Time | 400991 | [400991-malon-and-the-legend-of-zelda-master-of-time.json](./400991-malon-and-the-legend-of-zelda-master-of-time.json) |
@@ -3497,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Force | 49390 | [49390-monster-force.json](./49390-monster-force.json) |
 | Monster Forest | 383949 | [383949-monster-forest.json](./383949-monster-forest.json) |
 | Monster Galaxy | 197943 | [197943-monster-galaxy.json](./197943-monster-galaxy.json) |
+| Monster Gals: Voyage | 373100 | [373100-monster-gals-voyage.json](./373100-monster-gals-voyage.json) |
 | Monster Girl Clinic | 412305 | [412305-monster-girl-clinic.json](./412305-monster-girl-clinic.json) |
 | Monster Girl Dreams | 138832 | [138832-monster-girl-dreams.json](./138832-monster-girl-dreams.json) |
 | Monster Girl Dungeon | 166214 | [166214-monster-girl-dungeon.json](./166214-monster-girl-dungeon.json) |
@@ -3574,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster League | 110497 | [110497-monster-league.json](./110497-monster-league.json) |
 | Monster Legend | 158134 | [158134-monster-legend.json](./158134-monster-legend.json) |
 | Monster Legends | 224007 | [224007-monster-legends.json](./224007-monster-legends.json) |
+| Monster Looter | 373075 | [373075-monster-looter.json](./373075-monster-looter.json) |
 | Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
 | Monster Maker | 220645 | [220645-monster-maker.json](./220645-monster-maker.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
