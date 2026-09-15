@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Wrath of the Righteous - Game of the Year Edition | 331855 | [331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json](./331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json) |
 | Pathfinder: Wrath of the Righteous - Love Beyond Death | 186869 | [186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json](./186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json) |
 | Pathfinder: Wrath of the Righteous - The Treasure of the Midnight Isles | 215691 | [215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json](./215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json) |
+| Pathless Maze TD | 352293 | [352293-pathless-maze-td.json](./352293-pathless-maze-td.json) |
 | Pathless Woods | 172705 | [172705-pathless-woods.json](./172705-pathless-woods.json) |
 | PathoBlasta VS | 276188 | [276188-pathoblasta-vs.json](./276188-pathoblasta-vs.json) |
 | Pathogen | 213588 | [213588-pathogen.json](./213588-pathogen.json) |
