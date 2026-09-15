@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamers Choice | 86083 | [86083-gamers-choice.json](./86083-gamers-choice.json) |
 | Gamers Pack | 72043 | [72043-gamers-pack.json](./72043-gamers-pack.json) |
 | Games 1 | 319581 | [319581-games-1.json](./319581-games-1.json) |
+| Games 4 Boys | 344446 | [344446-games-4-boys.json](./344446-games-4-boys.json) |
 | Games Advent Calendar: 25 Days - 25 Surprises | 265160 | [265160-games-advent-calendar-25-days-25-surprises.json](./265160-games-advent-calendar-25-days-25-surprises.json) |
 | Games Explosion | 18260 | [18260-games-explosion.json](./18260-games-explosion.json) |
 | Games for Toddlers 2 | 147977 | [147977-games-for-toddlers-2.json](./147977-games-for-toddlers-2.json) |
