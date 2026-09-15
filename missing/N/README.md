@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare: The Origins | 173218 | [173218-nightmare-the-origins.json](./173218-nightmare-the-origins.json) |
 | Nightmare's Revenge | 322006 | [322006-nightmares-revenge.json](./322006-nightmares-revenge.json) |
 | NightmareBullet | 105364 | [105364-nightmarebullet.json](./105364-nightmarebullet.json) |
+| Nightmarena | 372547 | [372547-nightmarena.json](./372547-nightmarena.json) |
 | Nightmares from the Deep 3: Davy Jones | 17140 | [17140-nightmares-from-the-deep-3-davy-jones.json](./17140-nightmares-from-the-deep-3-davy-jones.json) |
 | NightmareZ | 31849 | [31849-nightmarez.json](./31849-nightmarez.json) |
 | NightReaper2 | 388192 | [388192-nightreaper2.json](./388192-nightreaper2.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
 | Nova Impact | 405521 | [405521-nova-impact.json](./405521-nova-impact.json) |
 | Nova Jumper | 414388 | [414388-nova-jumper.json](./414388-nova-jumper.json) |
+| Nova Survivors | 372542 | [372542-nova-survivors.json](./372542-nova-survivors.json) |
 | Nova: The Birth | 138830 | [138830-nova-the-birth.json](./138830-nova-the-birth.json) |
 | Nova's Adventure | 316397 | [316397-novas-adventure.json](./316397-novas-adventure.json) |
 | Novastella Island | 221189 | [221189-novastella-island.json](./221189-novastella-island.json) |
