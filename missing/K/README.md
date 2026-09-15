@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Bali | 50547 | [50547-king-of-bali.json](./50547-king-of-bali.json) |
 | King of BMX | 91979 | [91979-king-of-bmx.json](./91979-king-of-bmx.json) |
 | King of Booze: Drinking Game | 31590 | [31590-king-of-booze-drinking-game.json](./31590-king-of-booze-drinking-game.json) |
+| King of Bugs | 348317 | [348317-king-of-bugs.json](./348317-king-of-bugs.json) |
 | King of Cooking | 151158 | [151158-king-of-cooking.json](./151158-king-of-cooking.json) |
 | King of Defense 2: Epic TD | 227512 | [227512-king-of-defense-2-epic-td.json](./227512-king-of-defense-2-epic-td.json) |
 | King of Defense: Merge TD | 239046 | [239046-king-of-defense-merge-td.json](./239046-king-of-defense-merge-td.json) |
