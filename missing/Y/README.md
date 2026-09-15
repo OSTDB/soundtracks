@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Channel | 228425 | [228425-your-channel.json](./228425-your-channel.json) |
 | Your City in 3D | 158662 | [158662-your-city-in-3d.json](./158662-your-city-in-3d.json) |
 | Your Dead Majesty | 149021 | [149021-your-dead-majesty.json](./149021-your-dead-majesty.json) |
+| Your Digital Cookbook | 365738 | [365738-your-digital-cookbook.json](./365738-your-digital-cookbook.json) |
 | Your Future 2 Future Prediction | 276455 | [276455-your-future-2-future-prediction.json](./276455-your-future-2-future-prediction.json) |
 | Your God Is False | 336903 | [336903-your-god-is-false.json](./336903-your-god-is-false.json) |
 | Your House | 274758 | [274758-your-house.json](./274758-your-house.json) |
