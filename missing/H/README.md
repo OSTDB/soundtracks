@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HelloWorld: Escape | 369582 | [369582-helloworld-escape.json](./369582-helloworld-escape.json) |
 | Hellpit | 228448 | [228448-hellpit.json](./228448-hellpit.json) |
 | Hellpoint: Ultimate Edition | 209688 | [209688-hellpoint-ultimate-edition.json](./209688-hellpoint-ultimate-edition.json) |
+| HellPunk: Purgatorium | 349925 | [349925-hellpunk-purgatorium.json](./349925-hellpunk-purgatorium.json) |
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
 | Hellrooms | 324322 | [324322-hellrooms.json](./324322-hellrooms.json) |
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
@@ -1264,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Waifu 101 | 156098 | [156098-hentai-waifu-101.json](./156098-hentai-waifu-101.json) |
 | Hentai Waifu II | 286497 | [286497-hentai-waifu-ii.json](./286497-hentai-waifu-ii.json) |
 | Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
+| Hentai World Bunny | 349956 | [349956-hentai-world-bunny.json](./349956-hentai-world-bunny.json) |
 | Hentai World: Definitive Edition | 259578 | [259578-hentai-world-definitive-edition.json](./259578-hentai-world-definitive-edition.json) |
 | Hentai World: Expanded Edition | 260683 | [260683-hentai-world-expanded-edition.json](./260683-hentai-world-expanded-edition.json) |
 | Hentai World: Ultimate Edition | 256266 | [256266-hentai-world-ultimate-edition.json](./256266-hentai-world-ultimate-edition.json) |
@@ -1840,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
 | Hill 4x4 Tuning Rivals | 255733 | [255733-hill-4x4-tuning-rivals.json](./255733-hill-4x4-tuning-rivals.json) |
 | Hill Climbing 2 | 213385 | [213385-hill-climbing-2.json](./213385-hill-climbing-2.json) |
+| Hill Defender | 349933 | [349933-hill-defender.json](./349933-hill-defender.json) |
 | Hillbilly Apocalypse | 111709 | [111709-hillbilly-apocalypse.json](./111709-hillbilly-apocalypse.json) |
 | Hillbilly Organ Grinder | 60527 | [60527-hillbilly-organ-grinder.json](./60527-hillbilly-organ-grinder.json) |
 | Hills & Hollows | 141876 | [141876-hills-and-hollows.json](./141876-hills-and-hollows.json) |
@@ -2454,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Runback: VR Runner | 68656 | [68656-hot-runback-vr-runner.json](./68656-hot-runback-vr-runner.json) |
 | Hot Shot | 317877 | [317877-hot-shot.json](./317877-hot-shot.json) |
 | Hot Shot Burn | 121036 | [121036-hot-shot-burn.json](./121036-hot-shot-burn.json) |
+| Hot Shot Monkey | 349931 | [349931-hot-shot-monkey.json](./349931-hot-shot-monkey.json) |
 | Hot Shots Golf Fore! | 204439 | [204439-hot-shots-golf-fore.json](./204439-hot-shots-golf-fore.json) |
 | Hot Shots Golf: Open Tee 2 | 21050 | [21050-hot-shots-golf-open-tee-2.json](./21050-hot-shots-golf-open-tee-2.json) |
 | Hot Shots Soccer | 101570 | [101570-hot-shots-soccer.json](./101570-hot-shots-soccer.json) |
@@ -2904,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Hardcore | 129529 | [129529-hyper-hardcore.json](./129529-hyper-hardcore.json) |
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
+| Hyper Metroid Super | 349938 | [349938-hyper-metroid-super.json](./349938-hyper-metroid-super.json) |
 | Hyper Olympic: Challenge 5 | 385738 | [385738-hyper-olympic-challenge-5.json](./385738-hyper-olympic-challenge-5.json) |
 | Hyper Olympic: Jumping Type | 385734 | [385734-hyper-olympic-jumping-type.json](./385734-hyper-olympic-jumping-type.json) |
 | Hyper Paddle Block Rusher | 222323 | [222323-hyper-paddle-block-rusher.json](./222323-hyper-paddle-block-rusher.json) |
