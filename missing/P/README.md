@@ -1948,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Restorer: Image Folder 4 | 353417 | [353417-pixel-restorer-image-folder-4.json](./353417-pixel-restorer-image-folder-4.json) |
 | Pixel Restorer: Image Folder 5 | 353418 | [353418-pixel-restorer-image-folder-5.json](./353418-pixel-restorer-image-folder-5.json) |
 | Pixel Restorer: Image Folder 6 | 353419 | [353419-pixel-restorer-image-folder-6.json](./353419-pixel-restorer-image-folder-6.json) |
+| Pixel Rift Adventure | 342737 | [342737-pixel-rift-adventure.json](./342737-pixel-rift-adventure.json) |
 | Pixel Ripped 1978 | 242384 | [242384-pixel-ripped-1978.json](./242384-pixel-ripped-1978.json) |
 | Pixel Robot Return | 186319 | [186319-pixel-robot-return.json](./186319-pixel-robot-return.json) |
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
@@ -2523,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Fuso's Meteor | 359983 | [359983-pokemon-fusos-meteor.json](./359983-pokemon-fusos-meteor.json) |
 | Pokémon Gadir | 232692 | [232692-pokemon-gadir.json](./232692-pokemon-gadir.json) |
 | Pokémon Gaia Version | 136997 | [136997-pokemon-gaia-version.json](./136997-pokemon-gaia-version.json) |
+| Pokémon Gamma Emerald | 342762 | [342762-pokemon-gamma-emerald.json](./342762-pokemon-gamma-emerald.json) |
 | Pokémon Go: Dual Destiny | 323177 | [323177-pokemon-go-dual-destiny.json](./323177-pokemon-go-dual-destiny.json) |
 | Pokémon Go: Forever Forward | 403036 | [403036-pokemon-go-forever-forward.json](./403036-pokemon-go-forever-forward.json) |
 | Pokémon Go: Max Out | 316620 | [316620-pokemon-go-max-out.json](./316620-pokemon-go-max-out.json) |
@@ -3198,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Don’t Want You to Die | 392298 | [392298-pretty-girls-don-t-want-you-to-die.json](./392298-pretty-girls-don-t-want-you-to-die.json) |
 | Pretty Girls Escape | 204088 | [204088-pretty-girls-escape.json](./204088-pretty-girls-escape.json) |
 | Pretty Girls Four Kings Solitaire | 195797 | [195797-pretty-girls-four-kings-solitaire.json](./195797-pretty-girls-four-kings-solitaire.json) |
+| Pretty Girls Game Collection 4 | 342770 | [342770-pretty-girls-game-collection-4.json](./342770-pretty-girls-game-collection-4.json) |
 | Pretty Girls Mahjong Solitaire | 34716 | [34716-pretty-girls-mahjong-solitaire.json](./34716-pretty-girls-mahjong-solitaire.json) |
 | Pretty Girls Panic! | 30181 | [30181-pretty-girls-panic.json](./30181-pretty-girls-panic.json) |
 | Pretty girls teach beefy guys | 161329 | [161329-pretty-girls-teach-beefy-guys.json](./161329-pretty-girls-teach-beefy-guys.json) |
@@ -3460,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Probe Team | 128600 | [128600-probe-team.json](./128600-probe-team.json) |
 | ProBee | 208376 | [208376-probee.json](./208376-probee.json) |
 | Problem Animals | 193488 | [193488-problem-animals.json](./193488-problem-animals.json) |
+| Problems and Solutions | 342733 | [342733-problems-and-solutions.json](./342733-problems-and-solutions.json) |
 | Probotector | 186202 | [186202-probotector.json](./186202-probotector.json) |
 | Procedural Realms | 228701 | [228701-procedural-realms.json](./228701-procedural-realms.json) |
 | Procedural Soccer | 173228 | [173228-procedural-soccer.json](./173228-procedural-soccer.json) |
@@ -3702,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project_Escape | 133418 | [133418-project-escape.json](./133418-project-escape.json) |
 | Project-Blemmyes | 172704 | [172704-project-blemmyes.json](./172704-project-blemmyes.json) |
 | Project-X Special Edition & F17 Challenge | 71537 | [71537-project-x-special-edition-and-f17-challenge.json](./71537-project-x-special-edition-and-f17-challenge.json) |
+| Project; Virai: Doomer's Life Escape | 342758 | [342758-project-virai-doomers-life-escape.json](./342758-project-virai-doomers-life-escape.json) |
 | Project: Aftershock | 390126 | [390126-project-aftershock.json](./390126-project-aftershock.json) |
 | Project: Another Use - Graftage | 374080 | [374080-project-another-use-graftage.json](./374080-project-another-use-graftage.json) |
 | Project: Bits | 29741 | [29741-project-bits.json](./29741-project-bits.json) |
