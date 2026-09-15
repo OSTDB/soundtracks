@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
 | 1Second | 363873 | [363873-1second.json](./363873-1second.json) |
 | 1st Core | 103444 | [103444-1st-core.json](./103444-1st-core.json) |
+| 1st Homizio | 378278 | [378278-1st-homizio.json](./378278-1st-homizio.json) |
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
 | 2 Days to Vegas | 27751 | [27751-2-days-to-vegas.json](./27751-2-days-to-vegas.json) |
 | 2 Fast 4 Gnomz | 8618 | [8618-2-fast-4-gnomz.json](./8618-2-fast-4-gnomz.json) |
