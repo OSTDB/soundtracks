@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyna | 224781 | [224781-voyna.json](./224781-voyna.json) |
 | VPet-Simulator | 292021 | [292021-vpet-simulator.json](./292021-vpet-simulator.json) |
 | VPetlings | 395580 | [395580-vpetlings.json](./395580-vpetlings.json) |
+| VPN Simulator | 371306 | [371306-vpn-simulator.json](./371306-vpn-simulator.json) |
 | VR AirHockey | 195221 | [195221-vr-airhockey.json](./195221-vr-airhockey.json) |
 | VR Angry Cow Farm Simulator | 109021 | [109021-vr-angry-cow-farm-simulator.json](./109021-vr-angry-cow-farm-simulator.json) |
 | VR Animal Kids Rumble | 371902 | [371902-vr-animal-kids-rumble.json](./371902-vr-animal-kids-rumble.json) |
