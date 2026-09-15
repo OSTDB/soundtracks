@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once in my Head | 192966 | [192966-once-in-my-head.json](./192966-once-in-my-head.json) |
 | Once Inside | 181368 | [181368-once-inside.json](./181368-once-inside.json) |
 | Once On a Windswept Night | 29631 | [29631-once-on-a-windswept-night.json](./29631-once-on-a-windswept-night.json) |
+| Once Up | 345005 | [345005-once-up.json](./345005-once-up.json) |
 | Once Upon a Breeze | 163989 | [163989-once-upon-a-breeze.json](./163989-once-upon-a-breeze.json) |
 | Once Upon A Card | 408765 | [408765-once-upon-a-card.json](./408765-once-upon-a-card.json) |
 | Once Upon a Child - Full Stop | 375294 | [375294-once-upon-a-child-full-stop.json](./375294-once-upon-a-child-full-stop.json) |
@@ -590,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once' | 113662 | [113662-once.json](./113662-once.json) |
 | Once10 | 113664 | [113664-once10.json](./113664-once10.json) |
 | OncPangTzu Man | 116341 | [116341-oncpangtzu-man.json](./116341-oncpangtzu-man.json) |
+| Ondal | 345022 | [345022-ondal.json](./345022-ondal.json) |
 | One Bear Army | 272275 | [272275-one-bear-army.json](./272275-one-bear-army.json) |
 | One Bit | 48007 | [48007-one-bit.json](./48007-one-bit.json) |
 | One Bullet left | 28888 | [28888-one-bullet-left.json](./28888-one-bullet-left.json) |
@@ -847,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ookibloks | 34516 | [34516-ookibloks.json](./34516-ookibloks.json) |
 | Ookouchi Gengorou Ikka | 247528 | [247528-ookouchi-gengorou-ikka.json](./247528-ookouchi-gengorou-ikka.json) |
 | Oolite | 47274 | [47274-oolite.json](./47274-oolite.json) |
+| Oolo | 345036 | [345036-oolo.json](./345036-oolo.json) |
 | Oom | 252765 | [252765-oom.json](./252765-oom.json) |
 | Oompas Outrageous Rush | 373556 | [373556-oompas-outrageous-rush.json](./373556-oompas-outrageous-rush.json) |
 | Oona the Druid's Path | 143031 | [143031-oona-the-druids-path.json](./143031-oona-the-druids-path.json) |
