@@ -2671,6 +2671,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Craze | 210863 | [210863-college-craze.json](./210863-college-craze.json) |
 | College Football Revamped | 150058 | [150058-college-football-revamped.json](./150058-college-football-revamped.json) |
 | College Hoops 2K6 | 5782 | [5782-college-hoops-2k6.json](./5782-college-hoops-2k6.json) |
+| College Kings 2: Episode 2 "The Pool Party" Reworked | 354495 | [354495-college-kings-2-episode-2-the-pool-party-reworked.json](./354495-college-kings-2-episode-2-the-pool-party-reworked.json) |
+| College Kings 2: Episode 3 "Back To Basics" | 354498 | [354498-college-kings-2-episode-3-back-to-basics.json](./354498-college-kings-2-episode-3-back-to-basics.json) |
 | College Kings 2: Episodes 4 & 5 "Moving Out" | 284908 | [284908-college-kings-2-episodes-4-and-5-moving-out.json](./284908-college-kings-2-episodes-4-and-5-moving-out.json) |
 | College Kings: The Complete Season | 328460 | [328460-college-kings-the-complete-season.json](./328460-college-kings-the-complete-season.json) |
 | College Lacrosse 2011 | 61039 | [61039-college-lacrosse-2011.json](./61039-college-lacrosse-2011.json) |
@@ -3177,6 +3179,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: JCB Pack | 246399 | [246399-construction-simulator-jcb-pack.json](./246399-construction-simulator-jcb-pack.json) |
 | Construction Simulator: Spaceport Bundle | 277569 | [277569-construction-simulator-spaceport-bundle.json](./277569-construction-simulator-spaceport-bundle.json) |
 | Construction Simulator: Year 1 Season Pass | 246401 | [246401-construction-simulator-year-1-season-pass.json](./246401-construction-simulator-year-1-season-pass.json) |
+| Construction: Action - Map: Ampharos | 354492 | [354492-construction-action-map-ampharos.json](./354492-construction-action-map-ampharos.json) |
+| Construction: Action - Map: Arcanine | 354493 | [354493-construction-action-map-arcanine.json](./354493-construction-action-map-arcanine.json) |
+| Construction: Action - Map: Elekid | 354494 | [354494-construction-action-map-elekid.json](./354494-construction-action-map-elekid.json) |
+| Construction: Action - Map: Entei | 354499 | [354499-construction-action-map-entei.json](./354499-construction-action-map-entei.json) |
+| Construction: Action - Map: Exeggutor | 354500 | [354500-construction-action-map-exeggutor.json](./354500-construction-action-map-exeggutor.json) |
+| Construction: Action - Map: Houndoom | 354501 | [354501-construction-action-map-houndoom.json](./354501-construction-action-map-houndoom.json) |
+| Construction: Action - Map: Jumpluff | 354502 | [354502-construction-action-map-jumpluff.json](./354502-construction-action-map-jumpluff.json) |
+| Construction: Action - Map: Lure Ball | 354514 | [354514-construction-action-map-lure-ball.json](./354514-construction-action-map-lure-ball.json) |
+| Construction: Action - Map: Muk | 354504 | [354504-construction-action-map-muk.json](./354504-construction-action-map-muk.json) |
+| Construction: Action - Map: Parasect | 354506 | [354506-construction-action-map-parasect.json](./354506-construction-action-map-parasect.json) |
+| Construction: Action - Map: Primeape | 354508 | [354508-construction-action-map-primeape.json](./354508-construction-action-map-primeape.json) |
+| Construction: Action - Player: E-46-# - Desert Shaman | 354489 | [354489-construction-action-player-e-46-desert-shaman.json](./354489-construction-action-player-e-46-desert-shaman.json) |
+| Construction: Action - Player: E-48-# - Underground Expedition | 354491 | [354491-construction-action-player-e-48-underground-expedition.json](./354491-construction-action-player-e-48-underground-expedition.json) |
+| Construction: Action - Player: F-47-# - Fisherman | 354490 | [354490-construction-action-player-f-47-fisherman.json](./354490-construction-action-player-f-47-fisherman.json) |
+| Construction: Action - Player: F-48-# - Apricorn Maker | 354484 | [354484-construction-action-player-f-48-apricorn-maker.json](./354484-construction-action-player-f-48-apricorn-maker.json) |
 | Consume Thy Flesh: The Pumpkin Smashing Sim | 189137 | [189137-consume-thy-flesh-the-pumpkin-smashing-sim.json](./189137-consume-thy-flesh-the-pumpkin-smashing-sim.json) |
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
 | Containment Initiative: PC Standalone | 99583 | [99583-containment-initiative-pc-standalone.json](./99583-containment-initiative-pc-standalone.json) |
