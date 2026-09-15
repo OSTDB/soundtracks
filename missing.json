@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T09:19:15.115Z",
-  "total_missing": 73311,
+  "generated_at": "2026-09-15T09:21:34.767Z",
+  "total_missing": 73310,
   "games": [
     {
       "igdb_id": 306086,
@@ -5131,11 +5131,6 @@
       "igdb_id": 119330,
       "game_name": "After the Fall",
       "file": "missing/A/119330-after-the-fall.json"
-    },
-    {
-      "igdb_id": 204497,
-      "game_name": "After the Fall: Frontrunner Season",
-      "file": "missing/A/204497-after-the-fall-frontrunner-season.json"
     },
     {
       "igdb_id": 196313,
