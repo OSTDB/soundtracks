@@ -3064,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash of Gods: Universe Bundle | 257096 | [257096-ash-of-gods-universe-bundle.json](./257096-ash-of-gods-universe-bundle.json) |
 | Ash of War | 109684 | [109684-ash-of-war.json](./109684-ash-of-war.json) |
 | Ash Pines: The Motel | 361695 | [361695-ash-pines-the-motel.json](./361695-ash-pines-the-motel.json) |
+| Ash Warden | 361767 | [361767-ash-warden.json](./361767-ash-warden.json) |
 | Ash. | 76669 | [76669-ash.json](./76669-ash.json) |
 | AshBall | 373653 | [373653-ashball.json](./373653-ashball.json) |
 | Ashen Arrows | 211413 | [211413-ashen-arrows.json](./211413-ashen-arrows.json) |
