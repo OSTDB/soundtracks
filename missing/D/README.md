@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls: Collector's Edition | 44607 | [44607-dark-souls-collectors-edition.json](./44607-dark-souls-collectors-edition.json) |
 | Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
+| Dark Static | 362886 | [362886-dark-static.json](./362886-dark-static.json) |
 | Dark Summoner | 38900 | [38900-dark-summoner.json](./38900-dark-summoner.json) |
 | Dark Sun | 278964 | [278964-dark-sun.json](./278964-dark-sun.json) |
 | Dark Sun: Shattered Lands | 2466 | [2466-dark-sun-shattered-lands.json](./2466-dark-sun-shattered-lands.json) |
@@ -958,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
 | Death Cargo | 55130 | [55130-death-cargo.json](./55130-death-cargo.json) |
 | Death Climbing | 332981 | [332981-death-climbing.json](./332981-death-climbing.json) |
+| Death Comes Skiing | 362888 | [362888-death-comes-skiing.json](./362888-death-comes-skiing.json) |
 | Death Corridor | 230862 | [230862-death-corridor.json](./230862-death-corridor.json) |
 | Death Crimson 2: Meranito no Saidan | 60497 | [60497-death-crimson-2-meranito-no-saidan.json](./60497-death-crimson-2-meranito-no-saidan.json) |
 | Death Crown | 90270 | [90270-death-crown.json](./90270-death-crown.json) |
@@ -1505,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DEPO: Death Epileptic Pixel Origins | 207316 | [207316-depo-death-epileptic-pixel-origins.json](./207316-depo-death-epileptic-pixel-origins.json) |
 | Deponia: The Complete Journey | 17224 | [17224-deponia-the-complete-journey.json](./17224-deponia-the-complete-journey.json) |
 | DepowerBall | 126607 | [126607-depowerball.json](./126607-depowerball.json) |
+| Depression Level 50 | 362878 | [362878-depression-level-50.json](./362878-depression-level-50.json) |
 | Depression the Game | 103456 | [103456-depression-the-game.json](./103456-depression-the-game.json) |
 | Depth Hunter 2: Ocean Mysteries | 167273 | [167273-depth-hunter-2-ocean-mysteries.json](./167273-depth-hunter-2-ocean-mysteries.json) |
 | Depth Hunter 2: Scuba Kids - Hidden Treasures | 167274 | [167274-depth-hunter-2-scuba-kids-hidden-treasures.json](./167274-depth-hunter-2-scuba-kids-hidden-treasures.json) |
@@ -2017,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Devil Saga: Avatar Tuner - A's Test Server | 136416 | [136416-digital-devil-saga-avatar-tuner-as-test-server.json](./136416-digital-devil-saga-avatar-tuner-as-test-server.json) |
 | Digital Eclipse Arcade: Invasion of the Buffet Snatchers | 236851 | [236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json](./236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json) |
 | Digital Eclipse Arcade: Q.P.I.D. | 239655 | [239655-digital-eclipse-arcade-q-p-i-d.json](./239655-digital-eclipse-arcade-q-p-i-d.json) |
+| Digital Eclipse: Cyberpunk Survivor | 362924 | [362924-digital-eclipse-cyberpunk-survivor.json](./362924-digital-eclipse-cyberpunk-survivor.json) |
 | Digital Glider Airman | 143655 | [143655-digital-glider-airman.json](./143655-digital-glider-airman.json) |
 | Digital Jigsaw Puzzle | 104015 | [104015-digital-jigsaw-puzzle.json](./104015-digital-jigsaw-puzzle.json) |
 | Digital Paint: Paintball 2 | 67950 | [67950-digital-paint-paintball-2.json](./67950-digital-paint-paintball-2.json) |
