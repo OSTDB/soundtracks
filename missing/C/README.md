@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Cafe 101 | 243115 | [243115-cat-cafe-101.json](./243115-cat-cafe-101.json) |
 | Cat Cafe Simulator | 301266 | [301266-cat-cafe-simulator.json](./301266-cat-cafe-simulator.json) |
 | Cat Cafe: Dessert Panic | 241991 | [241991-cat-cafe-dessert-panic.json](./241991-cat-cafe-dessert-panic.json) |
+| Cat Calculations | 337670 | [337670-cat-calculations.json](./337670-cat-calculations.json) |
 | Cat Capacity | 173304 | [173304-cat-capacity.json](./173304-cat-capacity.json) |
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
@@ -3712,7 +3713,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Liora | 400883 | [400883-cozy-liora.json](./400883-cozy-liora.json) |
 | Cozy Marbles | 292519 | [292519-cozy-marbles.json](./292519-cozy-marbles.json) |
 | Cozy Night | 295784 | [295784-cozy-night.json](./295784-cozy-night.json) |
+| Cozy Night | 337709 | [337709-cozy-night.json](./337709-cozy-night.json) |
 | Cozy Offroad Simulator Together | 405571 | [405571-cozy-offroad-simulator-together.json](./405571-cozy-offroad-simulator-together.json) |
+| Cozy Sanctuary | 337692 | [337692-cozy-sanctuary.json](./337692-cozy-sanctuary.json) |
 | Cozy Solitaire | 339330 | [339330-cozy-solitaire.json](./339330-cozy-solitaire.json) |
 | Cozy Space | 260426 | [260426-cozy-space.json](./260426-cozy-space.json) |
 | Cozy Sudoku | 339331 | [339331-cozy-sudoku.json](./339331-cozy-sudoku.json) |
