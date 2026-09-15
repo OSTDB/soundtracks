@@ -4008,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croak Cafe: From Pond to Plate | 311487 | [311487-croak-cafe-from-pond-to-plate.json](./311487-croak-cafe-from-pond-to-plate.json) |
 | Croaka-Crawla | 319576 | [319576-croaka-crawla.json](./319576-croaka-crawla.json) |
 | Croaking Around | 265696 | [265696-croaking-around.json](./265696-croaking-around.json) |
+| Croakspire | 361224 | [361224-croakspire.json](./361224-croakspire.json) |
 | Croc 2: Kingdom of the Gobbos | 411706 | [411706-croc-2-kingdom-of-the-gobbos.json](./411706-croc-2-kingdom-of-the-gobbos.json) |
 | Croc Legend of the Gobbos | 315020 | [315020-croc-legend-of-the-gobbos.json](./315020-croc-legend-of-the-gobbos.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
