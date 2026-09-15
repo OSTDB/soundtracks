@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T05:19:04.954Z",
-  "total_missing": 72613,
+  "generated_at": "2026-09-15T05:21:38.209Z",
+  "total_missing": 72612,
   "games": [
     {
       "igdb_id": 306086,
@@ -5011,11 +5011,6 @@
       "igdb_id": 246670,
       "game_name": "Afrodite The Game",
       "file": "missing/A/246670-afrodite-the-game.json"
-    },
-    {
-      "igdb_id": 179156,
-      "game_name": "After",
-      "file": "missing/A/179156-after.json"
     },
     {
       "igdb_id": 188632,
