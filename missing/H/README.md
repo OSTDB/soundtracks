@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Empire | 31693 | [31693-happy-empire.json](./31693-happy-empire.json) |
 | Happy Empire 2: The Lost Relic | 105989 | [105989-happy-empire-2-the-lost-relic.json](./105989-happy-empire-2-the-lost-relic.json) |
 | Happy Feet | 3940 | [3940-happy-feet.json](./3940-happy-feet.json) |
+| Happy Feet Two | 345552 | [345552-happy-feet-two.json](./345552-happy-feet-two.json) |
 | Happy Fishing | 61559 | [61559-happy-fishing.json](./61559-happy-fishing.json) |
 | Happy Fox | 89280 | [89280-happy-fox.json](./89280-happy-fox.json) |
 | Happy Furry Restaurant | 340411 | [340411-happy-furry-restaurant.json](./340411-happy-furry-restaurant.json) |
@@ -784,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of the Woods | 102326 | [102326-heart-of-the-woods.json](./102326-heart-of-the-woods.json) |
 | Heart Piano Tiles | 96697 | [96697-heart-piano-tiles.json](./96697-heart-piano-tiles.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
+| Heart-Warming Deliveries | 345598 | [345598-heart-warming-deliveries.json](./345598-heart-warming-deliveries.json) |
 | Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
 | Heart's Medicine Collection | 53176 | [53176-hearts-medicine-collection.json](./53176-hearts-medicine-collection.json) |
 | Heart&Slash | 17911 | [17911-heart-and-slash.json](./17911-heart-and-slash.json) |
@@ -1634,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Kingdom: Top-Down 3D | 257068 | [257068-hidden-kingdom-top-down-3d.json](./257068-hidden-kingdom-top-down-3d.json) |
 | Hidden Lands | 343784 | [343784-hidden-lands.json](./343784-hidden-lands.json) |
 | Hidden Legacy: Dark Heirloom - Collector's Edition | 360637 | [360637-hidden-legacy-dark-heirloom-collectors-edition.json](./360637-hidden-legacy-dark-heirloom-collectors-edition.json) |
+| Hidden Memories | 345564 | [345564-hidden-memories.json](./345564-hidden-memories.json) |
 | Hidden Mysteries: Return to Titanic | 206730 | [206730-hidden-mysteries-return-to-titanic.json](./206730-hidden-mysteries-return-to-titanic.json) |
 | Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
@@ -2181,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homesickened | 244991 | [244991-homesickened.json](./244991-homesickened.json) |
 | Homesickness | 344341 | [344341-homesickness.json](./344341-homesickness.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
+| Homeward in the Roil | 345596 | [345596-homeward-in-the-roil.json](./345596-homeward-in-the-roil.json) |
 | Homewords | 153947 | [153947-homewords.json](./153947-homewords.json) |
 | Homework is Crazy | 118334 | [118334-homework-is-crazy.json](./118334-homework-is-crazy.json) |
 | Homework Salesman | 181926 | [181926-homework-salesman.json](./181926-homework-salesman.json) |
