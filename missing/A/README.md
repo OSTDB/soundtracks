@@ -525,7 +525,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
 | Against Twilight | 349927 | [349927-against-twilight.json](./349927-against-twilight.json) |
-| Agalta II | 372561 | [372561-agalta-ii.json](./372561-agalta-ii.json) |
 | Agame | 269042 | [269042-agame.json](./269042-agame.json) |
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
 | Agatha Christie: Death on the Nile | 21134 | [21134-agatha-christie-death-on-the-nile.json](./21134-agatha-christie-death-on-the-nile.json) |
