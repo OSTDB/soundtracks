@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Bricks | 121035 | [121035-beautiful-bricks.json](./121035-beautiful-bricks.json) |
 | Beautiful Checkers | 338207 | [338207-beautiful-checkers.json](./338207-beautiful-checkers.json) |
 | Beautiful Chicken | 174804 | [174804-beautiful-chicken.json](./174804-beautiful-chicken.json) |
+| Beautiful Dangerous | 343371 | [343371-beautiful-dangerous.json](./343371-beautiful-dangerous.json) |
 | Beautiful Desolation | 56914 | [56914-beautiful-desolation.json](./56914-beautiful-desolation.json) |
 | Beautiful Indie Worlds Bundle | 246112 | [246112-beautiful-indie-worlds-bundle.json](./246112-beautiful-indie-worlds-bundle.json) |
 | Beautiful Japanese Scenery: Animated Jigsaws | 31695 | [31695-beautiful-japanese-scenery-animated-jigsaws.json](./31695-beautiful-japanese-scenery-animated-jigsaws.json) |
@@ -1995,6 +1996,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle Heroes: DOOM | 135832 | [135832-bionicle-heroes-doom.json](./135832-bionicle-heroes-doom.json) |
 | Bionicle: City of Legends | 175995 | [175995-bionicle-city-of-legends.json](./175995-bionicle-city-of-legends.json) |
 | Bionicle: Command The Toa Mahri | 343282 | [343282-bionicle-command-the-toa-mahri.json](./343282-bionicle-command-the-toa-mahri.json) |
+| Bionicle: Glatorian Arena | 343354 | [343354-bionicle-glatorian-arena.json](./343354-bionicle-glatorian-arena.json) |
+| Bionicle: Glatorian Arena 2 | 343358 | [343358-bionicle-glatorian-arena-2.json](./343358-bionicle-glatorian-arena-2.json) |
 | Bionicle: Masks of Power | 141873 | [141873-bionicle-masks-of-power.json](./141873-bionicle-masks-of-power.json) |
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
 | Biophobia | 343832 | [343832-biophobia.json](./343832-biophobia.json) |
@@ -3106,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonza Planet | 354445 | [354445-bonza-planet.json](./354445-bonza-planet.json) |
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
 | Bonzala | 269595 | [269595-bonzala.json](./269595-bonzala.json) |
+| Boo Boo Booster | 343325 | [343325-boo-boo-booster.json](./343325-boo-boo-booster.json) |
 | Boo Breakers: The Ghostening | 30808 | [30808-boo-breakers-the-ghostening.json](./30808-boo-breakers-the-ghostening.json) |
 | Boobs on Island | 97179 | [97179-boobs-on-island.json](./97179-boobs-on-island.json) |
 | Boobs Saga | 89322 | [89322-boobs-saga.json](./89322-boobs-saga.json) |
