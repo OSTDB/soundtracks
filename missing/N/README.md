@@ -206,6 +206,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nascar Racing | 199011 | [199011-nascar-racing.json](./199011-nascar-racing.json) |
 | NASCAR Racing | 45224 | [45224-nascar-racing.json](./45224-nascar-racing.json) |
 | NASCAR Rivals: 2022 Patriotic Pack | 231360 | [231360-nascar-rivals-2022-patriotic-pack.json](./231360-nascar-rivals-2022-patriotic-pack.json) |
+| NASCAR Unleashed | 334075 | [334075-nascar-unleashed.json](./334075-nascar-unleashed.json) |
+| NASCAR Unleashed | 334076 | [334076-nascar-unleashed.json](./334076-nascar-unleashed.json) |
 | Nascar Web Racing | 209153 | [209153-nascar-web-racing.json](./209153-nascar-web-racing.json) |
 | NASCAR: Dirt to Daytona | 2898 | [2898-nascar-dirt-to-daytona.json](./2898-nascar-dirt-to-daytona.json) |
 | Naser: Son of Man | 138240 | [138240-naser-son-of-man.json](./138240-naser-son-of-man.json) |
@@ -770,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Ending Dungeon | 193932 | [193932-never-ending-dungeon.json](./193932-never-ending-dungeon.json) |
 | Never Ending Night | 35919 | [35919-never-ending-night.json](./35919-never-ending-night.json) |
 | Never Experiment On Cats! | 332830 | [332830-never-experiment-on-cats.json](./332830-never-experiment-on-cats.json) |
+| Never Fall | 334187 | [334187-never-fall.json](./334187-never-fall.json) |
 | Never Forgotten | 239639 | [239639-never-forgotten.json](./239639-never-forgotten.json) |
 | Never Immortal | 235741 | [235741-never-immortal.json](./235741-never-immortal.json) |
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
@@ -1478,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Reality | 130307 | [130307-no-reality.json](./130307-no-reality.json) |
 | No Recollection: Swimsuit DLC! | 315486 | [315486-no-recollection-swimsuit-dlc.json](./315486-no-recollection-swimsuit-dlc.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
+| No Rest for the Weary | 334198 | [334198-no-rest-for-the-weary.json](./334198-no-rest-for-the-weary.json) |
 | No Retreat! the Russian Front | 348867 | [348867-no-retreat-the-russian-front.json](./348867-no-retreat-the-russian-front.json) |
 | No Rules Box! | 301815 | [301815-no-rules-box.json](./301815-no-rules-box.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
