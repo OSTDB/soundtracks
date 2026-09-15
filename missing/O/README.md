@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
 | Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
 | Odyssey: Realm of Echoes | 341499 | [341499-odyssey-realm-of-echoes.json](./341499-odyssey-realm-of-echoes.json) |
+| Oedo Developer | 369089 | [369089-oedo-developer.json](./369089-oedo-developer.json) |
 | Oedo Trigger VR!! | 263229 | [263229-oedo-trigger-vr.json](./263229-oedo-trigger-vr.json) |
 | Oedo Trigger!! | 235735 | [235735-oedo-trigger.json](./235735-oedo-trigger.json) |
 | Oekaki Nokoshite Print Shichaou! Set | 327629 | [327629-oekaki-nokoshite-print-shichaou-set.json](./327629-oekaki-nokoshite-print-shichaou-set.json) |
@@ -1165,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otsuge Uranai nan desu | 69268 | [69268-otsuge-uranai-nan-desu.json](./69268-otsuge-uranai-nan-desu.json) |
 | Otter Ocean | 242786 | [242786-otter-ocean.json](./242786-otter-ocean.json) |
 | Otter of My Life | 104662 | [104662-otter-of-my-life.json](./104662-otter-of-my-life.json) |
+| Otter Yakuza | 369113 | [369113-otter-yakuza.json](./369113-otter-yakuza.json) |
 | OtterBash | 50524 | [50524-otterbash.json](./50524-otterbash.json) |
 | Otteretto | 229048 | [229048-otteretto.json](./229048-otteretto.json) |
 | Otto Matic | 67426 | [67426-otto-matic.json](./67426-otto-matic.json) |
@@ -1373,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Alps: King of the Mountain | 135802 | [135802-over-the-alps-king-of-the-mountain.json](./135802-over-the-alps-king-of-the-mountain.json) |
 | Over the Counter | 186813 | [186813-over-the-counter.json](./186813-over-the-counter.json) |
 | Over the Net | 87181 | [87181-over-the-net.json](./87181-over-the-net.json) |
+| Over the Radio | 369086 | [369086-over-the-radio.json](./369086-over-the-radio.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
 | Overboard | 122430 | [122430-overboard.json](./122430-overboard.json) |
