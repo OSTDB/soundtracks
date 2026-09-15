@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth of Fortune | 174322 | [174322-rebirth-of-fortune.json](./174322-rebirth-of-fortune.json) |
 | Rebirth-Land of Zombies | 189122 | [189122-rebirth-land-of-zombies.json](./189122-rebirth-land-of-zombies.json) |
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
+| Rebloom | 351101 | [351101-rebloom.json](./351101-rebloom.json) |
 | Rebolt | 360062 | [360062-rebolt.json](./360062-rebolt.json) |
 | Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
 | ReBoot | 51953 | [51953-reboot.json](./51953-reboot.json) |
@@ -1422,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
 | Retro Racer | 148469 | [148469-retro-racer.json](./148469-retro-racer.json) |
 | Retro Racing 2 | 373614 | [373614-retro-racing-2.json](./373614-retro-racing-2.json) |
+| Retro Rail Go! | 351104 | [351104-retro-rail-go.json](./351104-retro-rail-go.json) |
 | Retro Revolution 2 | 63230 | [63230-retro-revolution-2.json](./63230-retro-revolution-2.json) |
 | Retro Rewind: Video Store Simulator | 346334 | [346334-retro-rewind-video-store-simulator.json](./346334-retro-rewind-video-store-simulator.json) |
 | Retro Road Rumble | 84843 | [84843-retro-road-rumble.json](./84843-retro-road-rumble.json) |
