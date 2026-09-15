@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decay Z : Space Survival | 107152 | [107152-decay-z-space-survival.json](./107152-decay-z-space-survival.json) |
 | Decay: The Mare - Episode 1 | 79950 | [79950-decay-the-mare-episode-1.json](./79950-decay-the-mare-episode-1.json) |
 | Decay: The Mare - Episode 2 | 79949 | [79949-decay-the-mare-episode-2.json](./79949-decay-the-mare-episode-2.json) |
+| Decayed Evil | 368032 | [368032-decayed-evil.json](./368032-decayed-evil.json) |
 | Decaying Flowers | 98459 | [98459-decaying-flowers.json](./98459-decaying-flowers.json) |
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Deceit 2 | 239561 | [239561-deceit-2.json](./239561-deceit-2.json) |
@@ -1653,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Chaser | 114413 | [114413-destiny-chaser.json](./114413-destiny-chaser.json) |
 | Destiny Connect: Tick-Tock Travelers | 112082 | [112082-destiny-connect-tick-tock-travelers.json](./112082-destiny-connect-tick-tock-travelers.json) |
 | Destiny Duel | 236546 | [236546-destiny-duel.json](./236546-destiny-duel.json) |
+| Destiny Is Dice | 368043 | [368043-destiny-is-dice.json](./368043-destiny-is-dice.json) |
 | Destiny Island | 158686 | [158686-destiny-island.json](./158686-destiny-island.json) |
 | Destiny of Altrais | 103427 | [103427-destiny-of-altrais.json](./103427-destiny-of-altrais.json) |
 | Destiny of an Emperor | 48064 | [48064-destiny-of-an-emperor.json](./48064-destiny-of-an-emperor.json) |
@@ -2929,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoomGals | 202836 | [202836-doomgals.json](./202836-doomgals.json) |
 | Doomriderz | 372451 | [372451-doomriderz.json](./372451-doomriderz.json) |
 | Dooms Knight | 87914 | [87914-dooms-knight.json](./87914-dooms-knight.json) |
+| Doomsday | 368044 | [368044-doomsday.json](./368044-doomsday.json) |
 | Doomsday Blues | 13604 | [13604-doomsday-blues.json](./13604-doomsday-blues.json) |
 | Doomsday Cleaner | 320542 | [320542-doomsday-cleaner.json](./320542-doomsday-cleaner.json) |
 | Doomsday Comet 2 | 175337 | [175337-doomsday-comet-2.json](./175337-doomsday-comet-2.json) |
@@ -3003,6 +3006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
 | Dororo: Jigoku Emaki no Shou | 353899 | [353899-dororo-jigoku-emaki-no-shou.json](./353899-dororo-jigoku-emaki-no-shou.json) |
 | Dorotea | 372576 | [372576-dorotea.json](./372576-dorotea.json) |
+| Dorothy's Job | 368016 | [368016-dorothys-job.json](./368016-dorothys-job.json) |
 | Dorothy's Magical Journey in Oz | 410213 | [410213-dorothys-magical-journey-in-oz.json](./410213-dorothys-magical-journey-in-oz.json) |
 | Dorpie | 360015 | [360015-dorpie.json](./360015-dorpie.json) |
 | Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
@@ -3610,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamless Girl: Deluxe Edtion Plus | 335097 | [335097-dreamless-girl-deluxe-edtion-plus.json](./335097-dreamless-girl-deluxe-edtion-plus.json) |
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
+| DreamPusher | 368047 | [368047-dreampusher.json](./368047-dreampusher.json) |
 | Dreams and Nightmares | 146277 | [146277-dreams-and-nightmares.json](./146277-dreams-and-nightmares.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
 | Dreams of Joy Departed | 317581 | [317581-dreams-of-joy-departed.json](./317581-dreams-of-joy-departed.json) |
