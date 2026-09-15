@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Remember the Light | 152864 | [152864-i-remember-the-light.json](./152864-i-remember-the-light.json) |
 | I Remember the Rain | 223669 | [223669-i-remember-the-rain.json](./223669-i-remember-the-rain.json) |
 | I Remember This Dream | 314905 | [314905-i-remember-this-dream.json](./314905-i-remember-this-dream.json) |
+| I Saw a Flying Saucer | 369092 | [369092-i-saw-a-flying-saucer.json](./369092-i-saw-a-flying-saucer.json) |
 | I Scream Ice Cream | 358298 | [358298-i-scream-ice-cream.json](./358298-i-scream-ice-cream.json) |
 | I See You | 113642 | [113642-i-see-you.json](./113642-i-see-you.json) |
 | I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
@@ -665,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Death We Love | 329374 | [329374-in-death-we-love.json](./329374-in-death-we-love.json) |
 | In Drmzzz | 225288 | [225288-in-drmzzz.json](./225288-in-drmzzz.json) |
 | In Essence: Nil - MaidxMan / Chapel | 340750 | [340750-in-essence-nil-maidxman-chapel.json](./340750-in-essence-nil-maidxman-chapel.json) |
+| In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
 | In Memory of Titan | 69314 | [69314-in-memory-of-titan.json](./69314-in-memory-of-titan.json) |
 | In My Shadow | 140488 | [140488-in-my-shadow.json](./140488-in-my-shadow.json) |
 | In Other Waters | 86504 | [86504-in-other-waters.json](./86504-in-other-waters.json) |
@@ -1166,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Rally Championship | 50210 | [50210-international-rally-championship.json](./50210-international-rally-championship.json) |
 | International Rugby Challenge | 73281 | [73281-international-rugby-challenge.json](./73281-international-rugby-challenge.json) |
 | International Soccer | 201305 | [201305-international-soccer.json](./201305-international-soccer.json) |
+| International Speedway | 369129 | [369129-international-speedway.json](./369129-international-speedway.json) |
 | International Super Karts | 43332 | [43332-international-super-karts.json](./43332-international-super-karts.json) |
 | International Superstar Soccer '98 | 3514 | [3514-international-superstar-soccer-98.json](./3514-international-superstar-soccer-98.json) |
 | International Superstar Soccer 2000 | 220857 | [220857-international-superstar-soccer-2000.json](./220857-international-superstar-soccer-2000.json) |
