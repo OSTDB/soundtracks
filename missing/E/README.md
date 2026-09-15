@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers of Caerus | 64975 | [64975-embers-of-caerus.json](./64975-embers-of-caerus.json) |
 | Embers of the Empire | 402913 | [402913-embers-of-the-empire.json](./402913-embers-of-the-empire.json) |
 | Embers of the Zombie Battlemage: Halloween | 211755 | [211755-embers-of-the-zombie-battlemage-halloween.json](./211755-embers-of-the-zombie-battlemage-halloween.json) |
+| EmberStride | 374137 | [374137-emberstride.json](./374137-emberstride.json) |
 | Emberwake | 320530 | [320530-emberwake.json](./320530-emberwake.json) |
 | Emberwing: Lost Legacy - Collector's Edition | 416612 | [416612-emberwing-lost-legacy-collectors-edition.json](./416612-emberwing-lost-legacy-collectors-edition.json) |
 | Embr | 117312 | [117312-embr.json](./117312-embr.json) |
@@ -1057,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epithymía | 352759 | [352759-epithymia.json](./352759-epithymia.json) |
 | Epoch | 16939 | [16939-epoch.json](./16939-epoch.json) |
 | Epoch | 24889 | [24889-epoch.json](./24889-epoch.json) |
+| Epoch Cycle | 374134 | [374134-epoch-cycle.json](./374134-epoch-cycle.json) |
 | Epoch Reset | 380414 | [380414-epoch-reset.json](./380414-epoch-reset.json) |
 | Epochs of Fire | 333009 | [333009-epochs-of-fire.json](./333009-epochs-of-fire.json) |
 | Epos 11 | 355525 | [355525-epos-11.json](./355525-epos-11.json) |
@@ -1132,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eSail | 89648 | [89648-esail.json](./89648-esail.json) |
 | Esau's World | 294150 | [294150-esaus-world.json](./294150-esaus-world.json) |
 | Esc-8-bit | 114369 | [114369-esc-8-bit.json](./114369-esc-8-bit.json) |
+| Esc/ape | 374142 | [374142-esc-ape.json](./374142-esc-ape.json) |
 | Escalation VR! | 150110 | [150110-escalation-vr.json](./150110-escalation-vr.json) |
 | Escalation! | 150099 | [150099-escalation.json](./150099-escalation.json) |
 | Escape | 175910 | [175910-escape.json](./175910-escape.json) |
