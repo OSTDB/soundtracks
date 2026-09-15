@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins Please | 260405 | [260405-goblins-please.json](./260405-goblins-please.json) |
 | GoBlock's Impossible Medley | 28884 | [28884-goblocks-impossible-medley.json](./28884-goblocks-impossible-medley.json) |
 | Goblr: Goblin Date Night Simulator | 238719 | [238719-goblr-goblin-date-night-simulator.json](./238719-goblr-goblin-date-night-simulator.json) |
+| Gobo & Spike | 357303 | [357303-gobo-and-spike.json](./357303-gobo-and-spike.json) |
 | Gobo’s Arena | 260173 | [260173-gobo-s-arena.json](./260173-gobo-s-arena.json) |
 | Gobot | 153987 | [153987-gobot.json](./153987-gobot.json) |
 | Gobotix: Duo | 376435 | [376435-gobotix-duo.json](./376435-gobotix-duo.json) |
