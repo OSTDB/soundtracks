@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Nectaris | 42009 | [42009-neo-nectaris.json](./42009-neo-nectaris.json) |
 | Neo Planet | 61574 | [61574-neo-planet.json](./61574-neo-planet.json) |
 | Neo Racing Genesis | 305747 | [305747-neo-racing-genesis.json](./305747-neo-racing-genesis.json) |
+| Neo Static | 336607 | [336607-neo-static.json](./336607-neo-static.json) |
 | Neo Steam: The Shattered Continent | 51198 | [51198-neo-steam-the-shattered-continent.json](./51198-neo-steam-the-shattered-continent.json) |
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
