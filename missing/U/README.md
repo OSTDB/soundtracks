@@ -527,6 +527,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unikitty! Save the Kingdom! | 199029 | [199029-unikitty-save-the-kingdom.json](./199029-unikitty-save-the-kingdom.json) |
 | Unimersiv | 51918 | [51918-unimersiv.json](./51918-unimersiv.json) |
 | Unimime: Unicycle Madness | 251594 | [251594-unimime-unicycle-madness.json](./251594-unimime-unicycle-madness.json) |
+| Uninvited | 378908 | [378908-uninvited.json](./378908-uninvited.json) |
+| Uninvited | 378909 | [378909-uninvited.json](./378909-uninvited.json) |
+| Uninvited | 378913 | [378913-uninvited.json](./378913-uninvited.json) |
+| Uninvited | 378914 | [378914-uninvited.json](./378914-uninvited.json) |
+| Uninvited | 378915 | [378915-uninvited.json](./378915-uninvited.json) |
 | Uninvited: MacVenture Series | 35912 | [35912-uninvited-macventure-series.json](./35912-uninvited-macventure-series.json) |
 | Union | 226751 | [226751-union.json](./226751-union.json) |
 | Union of Gnomes | 213004 | [213004-union-of-gnomes.json](./213004-union-of-gnomes.json) |
