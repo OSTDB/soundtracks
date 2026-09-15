@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2022: Deluxe Edition | 182474 | [182474-just-dance-2022-deluxe-edition.json](./182474-just-dance-2022-deluxe-edition.json) |
 | Just Dance 2022: Ultimate Edition | 196292 | [196292-just-dance-2022-ultimate-edition.json](./196292-just-dance-2022-ultimate-edition.json) |
 | Just Dance 2026 Edition | 381725 | [381725-just-dance-2026-edition.json](./381725-just-dance-2026-edition.json) |
+| Just Dance 3: Target Exclusive Edition | 375276 | [375276-just-dance-3-target-exclusive-edition.json](./375276-just-dance-3-target-exclusive-edition.json) |
 | Just Dance 4 | 3255 | [3255-just-dance-4.json](./3255-just-dance-4.json) |
 | Just Dance Wii U | 15560 | [15560-just-dance-wii-u.json](./15560-just-dance-wii-u.json) |
 | Just Dance: Decades of Hits | 409690 | [409690-just-dance-decades-of-hits.json](./409690-just-dance-decades-of-hits.json) |
