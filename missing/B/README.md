@@ -2222,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mesa: Classic | 283761 | [283761-black-mesa-classic.json](./283761-black-mesa-classic.json) |
 | Black Mirror: Thronglets | 339816 | [339816-black-mirror-thronglets.json](./339816-black-mirror-thronglets.json) |
 | Black Monday | 94217 | [94217-black-monday.json](./94217-black-monday.json) |
+| Black Myth: Heaven | 339342 | [339342-black-myth-heaven.json](./339342-black-myth-heaven.json) |
 | Black Omens: House of Crimson Silk | 387539 | [387539-black-omens-house-of-crimson-silk.json](./387539-black-omens-house-of-crimson-silk.json) |
 | Black Out. | 297808 | [297808-black-out.json](./297808-black-out.json) |
 | Black Paradox Reloaded | 349393 | [349393-black-paradox-reloaded.json](./349393-black-paradox-reloaded.json) |
