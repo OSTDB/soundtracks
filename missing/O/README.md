@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Empires | 67317 | [67317-outer-empires.json](./67317-outer-empires.json) |
 | Outer Outage | 265964 | [265964-outer-outage.json](./265964-outer-outage.json) |
 | Outer Rat | 143020 | [143020-outer-rat.json](./143020-outer-rat.json) |
+| Outer Zone | 350505 | [350505-outer-zone.json](./350505-outer-zone.json) |
 | Outer-Rim Pod Digger | 66058 | [66058-outer-rim-pod-digger.json](./66058-outer-rim-pod-digger.json) |
 | Outergalactic Aliens Pinball | 173237 | [173237-outergalactic-aliens-pinball.json](./173237-outergalactic-aliens-pinball.json) |
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
