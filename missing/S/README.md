@@ -2329,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shred BackCountry | 174268 | [174268-shred-backcountry.json](./174268-shred-backcountry.json) |
 | Shred-A-Bunch! | 248030 | [248030-shred-a-bunch.json](./248030-shred-a-bunch.json) |
 | Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
+| Shredmill | 362906 | [362906-shredmill.json](./362906-shredmill.json) |
 | Shredz64 | 84268 | [84268-shredz64.json](./84268-shredz64.json) |
 | Shrek 2: Castle Run | 230273 | [230273-shrek-2-castle-run.json](./230273-shrek-2-castle-run.json) |
 | Shrek Game Land Activity Center | 9208 | [9208-shrek-game-land-activity-center.json](./9208-shrek-game-land-activity-center.json) |
@@ -2962,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
 | Skull Island: Rise of Kong - Colossal Pack | 272584 | [272584-skull-island-rise-of-kong-colossal-pack.json](./272584-skull-island-rise-of-kong-colossal-pack.json) |
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
+| Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
 | Skulldash Expanded Edition | 142416 | [142416-skulldash-expanded-edition.json](./142416-skulldash-expanded-edition.json) |
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
@@ -3084,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
 | Skyscraper | 9422 | [9422-skyscraper.json](./9422-skyscraper.json) |
 | Skyscraper Simulator | 9421 | [9421-skyscraper-simulator.json](./9421-skyscraper-simulator.json) |
+| SkyShard | 362918 | [362918-skyshard.json](./362918-skyshard.json) |
 | Skyshine's Bedlam | 12637 | [12637-skyshines-bedlam.json](./12637-skyshines-bedlam.json) |
 | Skyshine's Bedlam Redux! | 51904 | [51904-skyshines-bedlam-redux.json](./51904-skyshines-bedlam-redux.json) |
 | Skyshine's Bedlam: Deluxe Edition | 51905 | [51905-skyshines-bedlam-deluxe-edition.json](./51905-skyshines-bedlam-deluxe-edition.json) |
@@ -4403,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic's Casino Poker | 261291 | [261291-sonics-casino-poker.json](./261291-sonics-casino-poker.json) |
 | Sonic's Edusoft | 63901 | [63901-sonics-edusoft.json](./63901-sonics-edusoft.json) |
 | Sonic's Napoleon | 261289 | [261289-sonics-napoleon.json](./261289-sonics-napoleon.json) |
+| Sonic's Speedway | 362898 | [362898-sonics-speedway.json](./362898-sonics-speedway.json) |
 | Sonic's Vacation | 330531 | [330531-sonics-vacation.json](./330531-sonics-vacation.json) |
 | Sonic2.EXE | 313712 | [313712-sonic2-exe.json](./313712-sonic2-exe.json) |
 | SonicE | 330709 | [330709-sonice.json](./330709-sonice.json) |
@@ -4454,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer's Choice: Angel or Demon? Steam Version | 246657 | [246657-sorcerers-choice-angel-or-demon-steam-version.json](./246657-sorcerers-choice-angel-or-demon-steam-version.json) |
 | Sorcerers of Kinetics | 30824 | [30824-sorcerers-of-kinetics.json](./30824-sorcerers-of-kinetics.json) |
 | Sorceress Elisha's Hypnotized & Lent-Out Log | 98452 | [98452-sorceress-elishas-hypnotized-and-lent-out-log.json](./98452-sorceress-elishas-hypnotized-and-lent-out-log.json) |
+| Sorceress Services | 362889 | [362889-sorceress-services.json](./362889-sorceress-services.json) |
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
@@ -5870,6 +5875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
 | Star Trek | 326626 | [326626-star-trek.json](./326626-star-trek.json) |
 | Star Trek Alien Domain: Incursion | 123597 | [123597-star-trek-alien-domain-incursion.json](./123597-star-trek-alien-domain-incursion.json) |
+| Star Trek First Contact | 362902 | [362902-star-trek-first-contact.json](./362902-star-trek-first-contact.json) |
 | Star Trek III | 69258 | [69258-star-trek-iii.json](./69258-star-trek-iii.json) |
 | Star Trek Online | 7584 | [7584-star-trek-online.json](./7584-star-trek-online.json) |
 | Star Trek Online: Agents of Yesterday | 23285 | [23285-star-trek-online-agents-of-yesterday.json](./23285-star-trek-online-agents-of-yesterday.json) |
