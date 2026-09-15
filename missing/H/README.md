@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haus | 377074 | [377074-haus.json](./377074-haus.json) |
 | Hausmeister | 207313 | [207313-hausmeister.json](./207313-hausmeister.json) |
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
+| Haut | 349382 | [349382-haut.json](./349382-haut.json) |
 | Have You Herd? | 235970 | [235970-have-you-herd.json](./235970-have-you-herd.json) |
 | Have You Seen the Moon? | 407400 | [407400-have-you-seen-the-moon.json](./407400-have-you-seen-the-moon.json) |
 | Havelyn | 401019 | [401019-havelyn.json](./401019-havelyn.json) |
