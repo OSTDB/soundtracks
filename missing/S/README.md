@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Ghouls | 194655 | [194655-sad-ghouls.json](./194655-sad-ghouls.json) |
 | Sad RPG | 124135 | [124135-sad-rpg.json](./124135-sad-rpg.json) |
 | Sad Virus Foodland | 367389 | [367389-sad-virus-foodland.json](./367389-sad-virus-foodland.json) |
+| Sad Virus Land | 366318 | [366318-sad-virus-land.json](./366318-sad-virus-land.json) |
 | Sad Virus Military | 398324 | [398324-sad-virus-military.json](./398324-sad-virus-military.json) |
 | Sad Virus Shitcoin | 387494 | [387494-sad-virus-shitcoin.json](./387494-sad-virus-shitcoin.json) |
 | Sadboy | 113682 | [113682-sadboy.json](./113682-sadboy.json) |
@@ -1794,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapefall | 295554 | [295554-shapefall.json](./295554-shapefall.json) |
 | Shapefighter | 333401 | [333401-shapefighter.json](./333401-shapefighter.json) |
 | Shapeguard | 264023 | [264023-shapeguard.json](./264023-shapeguard.json) |
+| Shapeland | 366298 | [366298-shapeland.json](./366298-shapeland.json) |
 | ShapeNeon Chaos | 157119 | [157119-shapeneon-chaos.json](./157119-shapeneon-chaos.json) |
 | Shaper | 240810 | [240810-shaper.json](./240810-shaper.json) |
 | Shaper Runners | 231903 | [231903-shaper-runners.json](./231903-shaper-runners.json) |
@@ -1819,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
 | Shards of Hope | 184044 | [184044-shards-of-hope.json](./184044-shards-of-hope.json) |
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
+| Shards of the Library | 366296 | [366296-shards-of-the-library.json](./366296-shards-of-the-library.json) |
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Sharin no Kuni, Yuukyuu no Shounenshoujo | 79858 | [79858-sharin-no-kuni-yuukyuu-no-shounenshoujo.json](./79858-sharin-no-kuni-yuukyuu-no-shounenshoujo.json) |
@@ -3195,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice It! | 147957 | [147957-slice-it.json](./147957-slice-it.json) |
 | Slice N' Hook | 67335 | [67335-slice-n-hook.json](./67335-slice-n-hook.json) |
 | Slice of Life Fantasy | 191192 | [191192-slice-of-life-fantasy.json](./191192-slice-of-life-fantasy.json) |
+| Slice Surge | 366327 | [366327-slice-surge.json](./366327-slice-surge.json) |
 | Slice the Ice | 75779 | [75779-slice-the-ice.json](./75779-slice-the-ice.json) |
 | Slice To Meet You | 409583 | [409583-slice-to-meet-you.json](./409583-slice-to-meet-you.json) |
 | Slice&Dice | 345526 | [345526-slice-and-dice.json](./345526-slice-and-dice.json) |
@@ -4457,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry Sir, I'm out of controls | 184581 | [184581-sorry-sir-im-out-of-controls.json](./184581-sorry-sir-im-out-of-controls.json) |
 | Sorry, We're Open | 200176 | [200176-sorry-were-open.json](./200176-sorry-were-open.json) |
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
+| Sorry! I surrounded beauty! | 366288 | [366288-sorry-i-surrounded-beauty.json](./366288-sorry-i-surrounded-beauty.json) |
 | Sort Them Ducks | 412357 | [412357-sort-them-ducks.json](./412357-sort-them-ducks.json) |
 | Sorted | 392265 | [392265-sorted.json](./392265-sorted.json) |
 | Sorted! | 219586 | [219586-sorted.json](./219586-sorted.json) |
@@ -4595,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
+| Sous Raccoon | 366299 | [366299-sous-raccoon.json](./366299-sous-raccoon.json) |
 | Soushuu Senshinkan Gakuen Bansenjin | 137082 | [137082-soushuu-senshinkan-gakuen-bansenjin.json](./137082-soushuu-senshinkan-gakuen-bansenjin.json) |
 | Souten Koihime: Dawn of Sovereignty | 411657 | [411657-souten-koihime-dawn-of-sovereignty.json](./411657-souten-koihime-dawn-of-sovereignty.json) |
 | South Park | 198486 | [198486-south-park.json](./198486-south-park.json) |
@@ -5574,6 +5580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares | 101610 | [101610-squares.json](./101610-squares.json) |
 | Squares | 59961 | [59961-squares.json](./59961-squares.json) |
 | Squares of Hell | 304612 | [304612-squares-of-hell.json](./304612-squares-of-hell.json) |
+| Squares Proximity | 366332 | [366332-squares-proximity.json](./366332-squares-proximity.json) |
 | Squareverse | 390664 | [390664-squareverse.json](./390664-squareverse.json) |
 | Squarez: Escape The Squares | 262357 | [262357-squarez-escape-the-squares.json](./262357-squarez-escape-the-squares.json) |
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
@@ -6610,6 +6617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Night | 32248 | [32248-strange-night.json](./32248-strange-night.json) |
 | Strange Nightmares | 161895 | [161895-strange-nightmares.json](./161895-strange-nightmares.json) |
 | Strange Parallel: Sele | 291245 | [291245-strange-parallel-sele.json](./291245-strange-parallel-sele.json) |
+| Strange Pet World | 366308 | [366308-strange-pet-world.json](./366308-strange-pet-world.json) |
 | Strange Place | 351615 | [351615-strange-place.json](./351615-strange-place.json) |
 | Strange Pong | 339659 | [339659-strange-pong.json](./339659-strange-pong.json) |
 | Strange Pool | 331879 | [331879-strange-pool.json](./331879-strange-pool.json) |
@@ -7062,6 +7070,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Universe | 122322 | [122322-sudoku-universe.json](./122322-sudoku-universe.json) |
 | Sudoku Uno | 87305 | [87305-sudoku-uno.json](./87305-sudoku-uno.json) |
 | Sudoku XP | 278700 | [278700-sudoku-xp.json](./278700-sudoku-xp.json) |
+| Sudoku-Color | 366325 | [366325-sudoku-color.json](./366325-sudoku-color.json) |
+| Sudoku-Duo | 366290 | [366290-sudoku-duo.json](./366290-sudoku-duo.json) |
+| Sudoku-Edge | 366289 | [366289-sudoku-edge.json](./366289-sudoku-edge.json) |
+| Sudoku-Mini | 366324 | [366324-sudoku-mini.json](./366324-sudoku-mini.json) |
+| Sudoku-Pro | 366323 | [366323-sudoku-pro.json](./366323-sudoku-pro.json) |
 | Sudoku: Casual Board Game | 250393 | [250393-sudoku-casual-board-game.json](./250393-sudoku-casual-board-game.json) |
 | Sudoku: The Clean One | 180244 | [180244-sudoku-the-clean-one.json](./180244-sudoku-the-clean-one.json) |
 | Sudoku: Unlimited Expansion | 405622 | [405622-sudoku-unlimited-expansion.json](./405622-sudoku-unlimited-expansion.json) |
