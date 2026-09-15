@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XS Moto | 205811 | [205811-xs-moto.json](./205811-xs-moto.json) |
 | XS Moto | 49350 | [49350-xs-moto.json](./49350-xs-moto.json) |
 | Xscorch | 63240 | [63240-xscorch.json](./63240-xscorch.json) |
+| XSpelunker | 360106 | [360106-xspelunker.json](./360106-xspelunker.json) |
 | Xtom 3D | 45978 | [45978-xtom-3d.json](./45978-xtom-3d.json) |
 | Xtraction Royale | 115728 | [115728-xtraction-royale.json](./115728-xtraction-royale.json) |
 | Xtractor Defender | 111672 | [111672-xtractor-defender.json](./111672-xtractor-defender.json) |
