@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Run | 305745 | [305745-diamond-run.json](./305745-diamond-run.json) |
 | Diamond Runway | 398417 | [398417-diamond-runway.json](./398417-diamond-runway.json) |
 | Diamond Skee-Ball | 209611 | [209611-diamond-skee-ball.json](./209611-diamond-skee-ball.json) |
+| Diamond Star Adventure | 378294 | [378294-diamond-star-adventure.json](./378294-diamond-star-adventure.json) |
 | Diamond Trust of London | 9138 | [9138-diamond-trust-of-london.json](./9138-diamond-trust-of-london.json) |
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
 | Diǎnchū Gè Sānguó | 413033 | [413033-dianchu-ge-sanguo.json](./413033-dianchu-ge-sanguo.json) |
