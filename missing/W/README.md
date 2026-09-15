@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walt Disney's Snow White and the Seven Dwarfs | 59938 | [59938-walt-disneys-snow-white-and-the-seven-dwarfs.json](./59938-walt-disneys-snow-white-and-the-seven-dwarfs.json) |
 | Walt Disney's The Jungle Book | 123599 | [123599-walt-disneys-the-jungle-book.json](./123599-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book: Mowgli's Wild Adventure | 49922 | [49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json](./49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json) |
+| Walthros | 353366 | [353366-walthros.json](./353366-walthros.json) |
 | Waluigi's Taco Stand | 135227 | [135227-waluigis-taco-stand.json](./135227-waluigis-taco-stand.json) |
 | Wampee Helicopters | 117714 | [117714-wampee-helicopters.json](./117714-wampee-helicopters.json) |
 | Wan Chai Connection | 62134 | [62134-wan-chai-connection.json](./62134-wan-chai-connection.json) |
@@ -655,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are So Cooked | 388939 | [388939-we-are-so-cooked.json](./388939-we-are-so-cooked.json) |
 | We Are Stardust | 299162 | [299162-we-are-stardust.json](./299162-we-are-stardust.json) |
 | We Are the Dwarves | 15485 | [15485-we-are-the-dwarves.json](./15485-we-are-the-dwarves.json) |
+| We are the Literature Club | 353411 | [353411-we-are-the-literature-club.json](./353411-we-are-the-literature-club.json) |
 | We Bare Bears: Bearsketball | 196864 | [196864-we-bare-bears-bearsketball.json](./196864-we-bare-bears-bearsketball.json) |
 | We Belong Dead | 406217 | [406217-we-belong-dead.json](./406217-we-belong-dead.json) |
 | We Build Below | 361760 | [361760-we-build-below.json](./361760-we-build-below.json) |
