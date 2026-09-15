@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing: Breakthrough Gaming Arcade | 145668 | [145668-racing-breakthrough-gaming-arcade.json](./145668-racing-breakthrough-gaming-arcade.json) |
 | Rack | 140574 | [140574-rack.json](./140574-rack.json) |
 | Rack 'Em Up | 66717 | [66717-rack-em-up.json](./66717-rack-em-up.json) |
+| Rack and Run | 338805 | [338805-rack-and-run.json](./338805-rack-and-run.json) |
 | Rack Attack! | 342613 | [342613-rack-attack.json](./342613-rack-attack.json) |
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
@@ -1562,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie | 114417 | [114417-reverie.json](./114417-reverie.json) |
 | Reverie | 254161 | [254161-reverie.json](./254161-reverie.json) |
 | Reverie | 256825 | [256825-reverie.json](./256825-reverie.json) |
+| Reverie | 338839 | [338839-reverie.json](./338839-reverie.json) |
 | Reverie: A Heroes Tale | 89951 | [89951-reverie-a-heroes-tale.json](./89951-reverie-a-heroes-tale.json) |
 | Reversal | 78717 | [78717-reversal.json](./78717-reversal.json) |
 | Reversal of Deck | 283717 | [283717-reversal-of-deck.json](./283717-reversal-of-deck.json) |
@@ -3017,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
 | Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
 | Run! | 219064 | [219064-run.json](./219064-run.json) |
+| Run! Goddess | 338796 | [338796-run-goddess.json](./338796-run-goddess.json) |
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
 | Run!!! | 148492 | [148492-run.json](./148492-run.json) |
 | Run!!! | 87729 | [87729-run.json](./87729-run.json) |
