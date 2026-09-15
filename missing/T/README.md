@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Agaris: The Legendary Rion | 225102 | [225102-tales-of-agaris-the-legendary-rion.json](./225102-tales-of-agaris-the-legendary-rion.json) |
 | Tales of Ancient Nights | 114334 | [114334-tales-of-ancient-nights.json](./114334-tales-of-ancient-nights.json) |
 | Tales of Aravorn: Seasons Of The Wolf - Bad Blood | 171632 | [171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json](./171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json) |
+| Tales of Argento: Spirit of the Goddess | 379433 | [379433-tales-of-argento-spirit-of-the-goddess.json](./379433-tales-of-argento-spirit-of-the-goddess.json) |
 | Tales of Arise: Beyond the Dawn | 266719 | [266719-tales-of-arise-beyond-the-dawn.json](./266719-tales-of-arise-beyond-the-dawn.json) |
 | Tales of Arise: Beyond the Dawn - Attachment Pack | 293401 | [293401-tales-of-arise-beyond-the-dawn-attachment-pack.json](./293401-tales-of-arise-beyond-the-dawn-attachment-pack.json) |
 | Tales of Arise: Premium Edition | 146339 | [146339-tales-of-arise-premium-edition.json](./146339-tales-of-arise-premium-edition.json) |
@@ -304,10 +305,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Beasteria | 127249 | [127249-tales-of-beasteria.json](./127249-tales-of-beasteria.json) |
 | Tales of Destiny 2 | 1203 | [1203-tales-of-destiny-2.json](./1203-tales-of-destiny-2.json) |
 | Tales of Destiny: Director's Cut | 80500 | [80500-tales-of-destiny-directors-cut.json](./80500-tales-of-destiny-directors-cut.json) |
+| Tales of Echoes of the Symphony of Mana | 379434 | [379434-tales-of-echoes-of-the-symphony-of-mana.json](./379434-tales-of-echoes-of-the-symphony-of-mana.json) |
 | Tales of Elastic Boy: Mission 1 | 85418 | [85418-tales-of-elastic-boy-mission-1.json](./85418-tales-of-elastic-boy-mission-1.json) |
 | Tales of Escape: Cold As Ice | 172119 | [172119-tales-of-escape-cold-as-ice.json](./172119-tales-of-escape-cold-as-ice.json) |
 | Tales of Escape: Sleepy Hollow VR | 148500 | [148500-tales-of-escape-sleepy-hollow-vr.json](./148500-tales-of-escape-sleepy-hollow-vr.json) |
 | Tales of Fandom Vol. 1: Cress Version | 100158 | [100158-tales-of-fandom-vol-1-cress-version.json](./100158-tales-of-fandom-vol-1-cress-version.json) |
+| Tales of Fear: Episode Zero | 379432 | [379432-tales-of-fear-episode-zero.json](./379432-tales-of-fear-episode-zero.json) |
+| Tales of Fearless | 379435 | [379435-tales-of-fearless.json](./379435-tales-of-fearless.json) |
 | Tales of Formentera | 414437 | [414437-tales-of-formentera.json](./414437-tales-of-formentera.json) |
 | Tales of Glacier VR | 57036 | [57036-tales-of-glacier-vr.json](./57036-tales-of-glacier-vr.json) |
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
@@ -331,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
 | Tales of Spark | 225103 | [225103-tales-of-spark.json](./225103-tales-of-spark.json) |
+| Tales of Survival Horror | 379431 | [379431-tales-of-survival-horror.json](./379431-tales-of-survival-horror.json) |
 | Tales of Symphonia: Dawn of the New World | 222629 | [222629-tales-of-symphonia-dawn-of-the-new-world.json](./222629-tales-of-symphonia-dawn-of-the-new-world.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
 | Tales of Terror: House on the Hill - Collector's Edition | 74351 | [74351-tales-of-terror-house-on-the-hill-collectors-edition.json](./74351-tales-of-terror-house-on-the-hill-collectors-edition.json) |
@@ -350,11 +355,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of The White Knight | 320546 | [320546-tales-of-the-white-knight.json](./320546-tales-of-the-white-knight.json) |
 | Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
 | Tales of Tyria | 135808 | [135808-tales-of-tyria.json](./135808-tales-of-tyria.json) |
+| Tales of Valkyrie | 379436 | [379436-tales-of-valkyrie.json](./379436-tales-of-valkyrie.json) |
+| Tales of Violet Valley | 379437 | [379437-tales-of-violet-valley.json](./379437-tales-of-violet-valley.json) |
 | Tales Of Wedding Rings VR | 110075 | [110075-tales-of-wedding-rings-vr.json](./110075-tales-of-wedding-rings-vr.json) |
 | Tales of Wild | 152376 | [152376-tales-of-wild.json](./152376-tales-of-wild.json) |
+| Tales of Wind Online | 379438 | [379438-tales-of-wind-online.json](./379438-tales-of-wind-online.json) |
 | Tales of Windy Land | 66046 | [66046-tales-of-windy-land.json](./66046-tales-of-windy-land.json) |
 | Tales of Xillia | 1212 | [1212-tales-of-xillia.json](./1212-tales-of-xillia.json) |
 | Tales of Xillia Remastered: Super Growth Support Herb Set | 375173 | [375173-tales-of-xillia-remastered-super-growth-support-herb-set.json](./375173-tales-of-xillia-remastered-super-growth-support-herb-set.json) |
+| Tales of Zizada | 379440 | [379440-tales-of-zizada.json](./379440-tales-of-zizada.json) |
 | Tales to Enjoy! Little Red Riding Hood | 85428 | [85428-tales-to-enjoy-little-red-riding-hood.json](./85428-tales-to-enjoy-little-red-riding-hood.json) |
 | Tales to Enjoy! Puss In Boots | 85427 | [85427-tales-to-enjoy-puss-in-boots.json](./85427-tales-to-enjoy-puss-in-boots.json) |
 | Tales to Enjoy! The Ugly Duckling | 85426 | [85426-tales-to-enjoy-the-ugly-duckling.json](./85426-tales-to-enjoy-the-ugly-duckling.json) |
@@ -4128,6 +4137,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Two Nekos | 310201 | [310201-the-tale-of-two-nekos.json](./310201-the-tale-of-two-nekos.json) |
 | The Tales of Bayun | 200111 | [200111-the-tales-of-bayun.json](./200111-the-tales-of-bayun.json) |
 | The Tales of Bearsworth Manor: Puzzling Pages | 85446 | [85446-the-tales-of-bearsworth-manor-puzzling-pages.json](./85446-the-tales-of-bearsworth-manor-puzzling-pages.json) |
+| The Tales of the Magical Space Dough: Rebaked | 379439 | [379439-the-tales-of-the-magical-space-dough-rebaked.json](./379439-the-tales-of-the-magical-space-dough-rebaked.json) |
+| The Tales of Wonderlend | 379441 | [379441-the-tales-of-wonderlend.json](./379441-the-tales-of-wonderlend.json) |
 | The Talos Principle II: Road to Elysium | 305040 | [305040-the-talos-principle-ii-road-to-elysium.json](./305040-the-talos-principle-ii-road-to-elysium.json) |
 | The Talos Principle III | 401496 | [401496-the-talos-principle-iii.json](./401496-the-talos-principle-iii.json) |
 | The Talos Principle VR | 36775 | [36775-the-talos-principle-vr.json](./36775-the-talos-principle-vr.json) |
@@ -4189,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing You Can't Defeat | 251239 | [251239-the-thing-you-cant-defeat.json](./251239-the-thing-you-cant-defeat.json) |
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
 | The Three Decoders 1 - Riddle of the Ring | 58777 | [58777-the-three-decoders-1-riddle-of-the-ring.json](./58777-the-three-decoders-1-riddle-of-the-ring.json) |
+| The Three Kingdoms: The Tales of Jian An | 379442 | [379442-the-three-kingdoms-the-tales-of-jian-an.json](./379442-the-three-kingdoms-the-tales-of-jian-an.json) |
 | The Three Musketeers | 186262 | [186262-the-three-musketeers.json](./186262-the-three-musketeers.json) |
 | The Three Musketeers: One For All! | 20486 | [20486-the-three-musketeers-one-for-all.json](./20486-the-three-musketeers-one-for-all.json) |
 | The Three Stooges | 25690 | [25690-the-three-stooges.json](./25690-the-three-stooges.json) |
@@ -6400,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Gensokyo Survivors | 248043 | [248043-touhou-gensokyo-survivors.json](./248043-touhou-gensokyo-survivors.json) |
 | Touhou: Heart of the Tiger | 209140 | [209140-touhou-heart-of-the-tiger.json](./209140-touhou-heart-of-the-tiger.json) |
 | Touhou: Hotline Sanzu | 317239 | [317239-touhou-hotline-sanzu.json](./317239-touhou-hotline-sanzu.json) |
+| Touhou: Tales of the Scarlet | 379443 | [379443-touhou-tales-of-the-scarlet.json](./379443-touhou-tales-of-the-scarlet.json) |
 | Touhou: Unmei no Hoshi | 181928 | [181928-touhou-unmei-no-hoshi.json](./181928-touhou-unmei-no-hoshi.json) |
 | Touka Gettan: Koufuu no Ryouou | 287638 | [287638-touka-gettan-koufuu-no-ryouou.json](./287638-touka-gettan-koufuu-no-ryouou.json) |
 | Touka Gettan: Koufuu no Ryouou Deluxe Pack | 287640 | [287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json](./287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json) |
