@@ -545,7 +545,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
 | Age of Empires III: The Asian Dynasties Mobile | 145574 | [145574-age-of-empires-iii-the-asian-dynasties-mobile.json](./145574-age-of-empires-iii-the-asian-dynasties-mobile.json) |
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
-| Age of Expansion | 391049 | [391049-age-of-expansion.json](./391049-age-of-expansion.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
 | Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
@@ -1279,6 +1278,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alley Master | 40243 | [40243-alley-master.json](./40243-alley-master.json) |
 | Alley Oops | 79283 | [79283-alley-oops.json](./79283-alley-oops.json) |
 | Alleykat | 28850 | [28850-alleykat.json](./28850-alleykat.json) |
+| AlleyRat | 342175 | [342175-alleyrat.json](./342175-alleyrat.json) |
+| AlleyStrat | 342176 | [342176-alleystrat.json](./342176-alleystrat.json) |
 | Alleyway | 7751 | [7751-alleyway.json](./7751-alleyway.json) |
 | Allez Raconte | 269548 | [269548-allez-raconte.json](./269548-allez-raconte.json) |
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
