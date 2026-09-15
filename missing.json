@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T18:21:38.493Z",
-  "total_missing": 74909,
+  "generated_at": "2026-09-15T18:31:40.662Z",
+  "total_missing": 74919,
   "games": [
     {
       "igdb_id": 306086,
@@ -5436,11 +5436,6 @@
       "igdb_id": 197890,
       "game_name": "Age of Empires II: Definitive Edition - Dynasties of India",
       "file": "missing/A/197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json"
-    },
-    {
-      "igdb_id": 2950,
-      "game_name": "Age of Empires II: HD Edition",
-      "file": "missing/A/2950-age-of-empires-ii-hd-edition.json"
     },
     {
       "igdb_id": 9951,
@@ -16651,6 +16646,11 @@
       "igdb_id": 366210,
       "game_name": "Arisen Force: LifeDevotee",
       "file": "missing/A/366210-arisen-force-lifedevotee.json"
+    },
+    {
+      "igdb_id": 343913,
+      "game_name": "Aristocratic Potato",
+      "file": "missing/A/343913-aristocratic-potato.json"
     },
     {
       "igdb_id": 180233,
@@ -52011,6 +52011,11 @@
       "igdb_id": 23714,
       "game_name": "Chessmaster",
       "file": "missing/C/23714-chessmaster.json"
+    },
+    {
+      "igdb_id": 343921,
+      "game_name": "Chessmaster",
+      "file": "missing/C/343921-chessmaster.json"
     },
     {
       "igdb_id": 344953,
@@ -128218,6 +128223,11 @@
       "file": "missing/G/96760-grimville-the-gift-of-darkness.json"
     },
     {
+      "igdb_id": 343915,
+      "game_name": "Grimwar",
+      "file": "missing/G/343915-grimwar.json"
+    },
+    {
       "igdb_id": 54475,
       "game_name": "Grin Bandana",
       "file": "missing/G/54475-grin-bandana.json"
@@ -130766,6 +130776,11 @@
       "igdb_id": 170537,
       "game_name": "Ha_Bits",
       "file": "missing/H/170537-ha-bits.json"
+    },
+    {
+      "igdb_id": 343911,
+      "game_name": "Ha-ha-ho-ho-horror",
+      "file": "missing/H/343911-ha-ha-ho-ho-horror.json"
     },
     {
       "igdb_id": 113710,
@@ -148543,6 +148558,11 @@
       "file": "missing/I/243937-illuminator.json"
     },
     {
+      "igdb_id": 343923,
+      "game_name": "Illuminum",
+      "file": "missing/I/343923-illuminum.json"
+    },
+    {
       "igdb_id": 211960,
       "game_name": "Illusion",
       "file": "missing/I/211960-illusion.json"
@@ -149631,6 +149651,11 @@
       "igdb_id": 53227,
       "game_name": "Incredible Dracula: The Last Call Collector's Edition",
       "file": "missing/I/53227-incredible-dracula-the-last-call-collectors-edition.json"
+    },
+    {
+      "igdb_id": 343924,
+      "game_name": "Incredible Ink",
+      "file": "missing/I/343924-incredible-ink.json"
     },
     {
       "igdb_id": 158719,
@@ -170926,6 +170951,11 @@
       "igdb_id": 376486,
       "game_name": "Let Me Inside",
       "file": "missing/L/376486-let-me-inside.json"
+    },
+    {
+      "igdb_id": 343920,
+      "game_name": "Let Sleeping Dogs Lie",
+      "file": "missing/L/343920-let-sleeping-dogs-lie.json"
     },
     {
       "igdb_id": 257928,
@@ -218788,6 +218818,11 @@
       "file": "missing/O/89985-open-rails.json"
     },
     {
+      "igdb_id": 343918,
+      "game_name": "Open Saber Plus",
+      "file": "missing/O/343918-open-saber-plus.json"
+    },
+    {
       "igdb_id": 297505,
       "game_name": "Open School World",
       "file": "missing/O/297505-open-school-world.json"
@@ -232721,6 +232756,11 @@
       "igdb_id": 77968,
       "game_name": "Plants vs. Zombies Adventures",
       "file": "missing/P/77968-plants-vs-zombies-adventures.json"
+    },
+    {
+      "igdb_id": 343926,
+      "game_name": "Plants vs. Zombies Delturbia",
+      "file": "missing/P/343926-plants-vs-zombies-delturbia.json"
     },
     {
       "igdb_id": 11148,
@@ -252621,6 +252661,11 @@
       "igdb_id": 340220,
       "game_name": "Reverse 1999: Farewell, Rayashki",
       "file": "missing/R/340220-reverse-1999-farewell-rayashki.json"
+    },
+    {
+      "igdb_id": 343912,
+      "game_name": "Reverse 1999: Folie et Déraison",
+      "file": "missing/R/343912-reverse-1999-folie-et-deraison.json"
     },
     {
       "igdb_id": 340217,
@@ -278591,6 +278636,11 @@
       "igdb_id": 234901,
       "game_name": "Smileys War",
       "file": "missing/S/234901-smileys-war.json"
+    },
+    {
+      "igdb_id": 343919,
+      "game_name": "Smiling Terror",
+      "file": "missing/S/343919-smiling-terror.json"
     },
     {
       "igdb_id": 183610,
