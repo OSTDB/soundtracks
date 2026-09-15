@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T00:33:35.770Z",
-  "total_missing": 71755,
+  "generated_at": "2026-09-15T00:41:44.287Z",
+  "total_missing": 71754,
   "games": [
     {
       "igdb_id": 306086,
@@ -4836,11 +4836,6 @@
       "igdb_id": 369557,
       "game_name": "Adventures with Alan Parkour 3D",
       "file": "missing/A/369557-adventures-with-alan-parkour-3d.json"
-    },
-    {
-      "igdb_id": 262400,
-      "game_name": "Adventures With Oslo: World of Water",
-      "file": "missing/A/262400-adventures-with-oslo-world-of-water.json"
     },
     {
       "igdb_id": 184042,
