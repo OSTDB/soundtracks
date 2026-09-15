@@ -2197,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Monday | 94217 | [94217-black-monday.json](./94217-black-monday.json) |
 | Black Omens: House of Crimson Silk | 387539 | [387539-black-omens-house-of-crimson-silk.json](./387539-black-omens-house-of-crimson-silk.json) |
 | Black Out. | 297808 | [297808-black-out.json](./297808-black-out.json) |
+| Black Paradox Reloaded | 349393 | [349393-black-paradox-reloaded.json](./349393-black-paradox-reloaded.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
 | Black Queen | 13697 | [13697-black-queen.json](./13697-black-queen.json) |
@@ -3044,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombproof Bob | 241612 | [241612-bombproof-bob.json](./241612-bombproof-bob.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
+| Bombun | 349366 | [349366-bombun.json](./349366-bombun.json) |
 | Bombyx | 123639 | [123639-bombyx.json](./123639-bombyx.json) |
 | Bomcat | 362329 | [362329-bomcat.json](./362329-bomcat.json) |
 | Bonanza Burger | 288779 | [288779-bonanza-burger.json](./288779-bonanza-burger.json) |
@@ -3419,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxocost | 144962 | [144962-boxocost.json](./144962-boxocost.json) |
 | Boxpast Lov3you | 392301 | [392301-boxpast-lov3you.json](./392301-boxpast-lov3you.json) |
 | BoxRunner | 107901 | [107901-boxrunner.json](./107901-boxrunner.json) |
+| Boxstacker | 349369 | [349369-boxstacker.json](./349369-boxstacker.json) |
 | BoxTheTop | 113730 | [113730-boxthetop.json](./113730-boxthetop.json) |
 | Boxville | 190160 | [190160-boxville.json](./190160-boxville.json) |
 | Boxville 2: Collector's Edition | 402954 | [402954-boxville-2-collectors-edition.json](./402954-boxville-2-collectors-edition.json) |
