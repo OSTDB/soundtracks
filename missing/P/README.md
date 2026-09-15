@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peek a Rabbit! | 395666 | [395666-peek-a-rabbit.json](./395666-peek-a-rabbit.json) |
 | Peekaboo Collection - 3 Tales of Horror | 132347 | [132347-peekaboo-collection-3-tales-of-horror.json](./132347-peekaboo-collection-3-tales-of-horror.json) |
 | Peeking at the peak | 278387 | [278387-peeking-at-the-peak.json](./278387-peeking-at-the-peak.json) |
+| Peel a Banana | 368557 | [368557-peel-a-banana.json](./368557-peel-a-banana.json) |
 | Peer Gynt the Game | 126586 | [126586-peer-gynt-the-game.json](./126586-peer-gynt-the-game.json) |
 | Peer to Peer | 306646 | [306646-peer-to-peer.json](./306646-peer-to-peer.json) |
 | Peerless Destiny | 294995 | [294995-peerless-destiny.json](./294995-peerless-destiny.json) |
@@ -1455,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon Protocol | 245880 | [245880-pigeon-protocol.json](./245880-pigeon-protocol.json) |
 | Pigeon West: Call of Gun. Isekai | 340394 | [340394-pigeon-west-call-of-gun-isekai.json](./340394-pigeon-west-call-of-gun-isekai.json) |
 | Pigeon West: El Diablo | 340393 | [340393-pigeon-west-el-diablo.json](./340393-pigeon-west-el-diablo.json) |
+| Pigeon: A Love Story | 368542 | [368542-pigeon-a-love-story.json](./368542-pigeon-a-love-story.json) |
 | Piggy Go | 212489 | [212489-piggy-go.json](./212489-piggy-go.json) |
 | Piggy Monte | 415154 | [415154-piggy-monte.json](./415154-piggy-monte.json) |
 | Piggy Only Up | 408835 | [408835-piggy-only-up.json](./408835-piggy-only-up.json) |
@@ -2001,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plagueworld: Expansion Pack | 167316 | [167316-plagueworld-expansion-pack.json](./167316-plagueworld-expansion-pack.json) |
 | Plain Sight | 8585 | [8585-plain-sight.json](./8585-plain-sight.json) |
 | Plain Song | 368501 | [368501-plain-song.json](./368501-plain-song.json) |
+| Plain Song: Christmas Special | 368544 | [368544-plain-song-christmas-special.json](./368544-plain-song-christmas-special.json) |
 | Plain Tic Tac Toe | 89281 | [89281-plain-tic-tac-toe.json](./89281-plain-tic-tac-toe.json) |
 | Plain Video Poker | 84814 | [84814-plain-video-poker.json](./84814-plain-video-poker.json) |
 | Plains of Havoc | 289306 | [289306-plains-of-havoc.json](./289306-plains-of-havoc.json) |
@@ -3508,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Scav | 173279 | [173279-project-scav.json](./173279-project-scav.json) |
 | Project Screwed | 236293 | [236293-project-screwed.json](./236293-project-screwed.json) |
 | Project Sekuter | 317606 | [317606-project-sekuter.json](./317606-project-sekuter.json) |
+| Project Sever | 368581 | [368581-project-sever.json](./368581-project-sever.json) |
 | Project SF2 | 174833 | [174833-project-sf2.json](./174833-project-sf2.json) |
 | Project Shiver Wing | 212452 | [212452-project-shiver-wing.json](./212452-project-shiver-wing.json) |
 | Project Shore | 103516 | [103516-project-shore.json](./103516-project-shore.json) |
