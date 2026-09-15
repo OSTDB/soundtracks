@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daimaou no Bijutsukan to Kaitoudan | 140003 | [140003-daimaou-no-bijutsukan-to-kaitoudan.json](./140003-daimaou-no-bijutsukan-to-kaitoudan.json) |
 | DaiPyooon | 252155 | [252155-daipyooon.json](./252155-daipyooon.json) |
 | Dairantou Kanoair Smash 2002 | 196867 | [196867-dairantou-kanoair-smash-2002.json](./196867-dairantou-kanoair-smash-2002.json) |
+| Dairy of the Dead | 339362 | [339362-dairy-of-the-dead.json](./339362-dairy-of-the-dead.json) |
 | Daisenryaku Daitoua Kouboushi DX: Dai-ni-ji Sekai Taisen | 123011 | [123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json](./123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
 | Daito Giken Koushiki Pachi-Slot Simulator: Hihouden - Ossu! Banchou: Yoshimune DS | 269571 | [269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json](./269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json) |
@@ -321,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark and Light: Tales of Gaia | 51999 | [51999-dark-and-light-tales-of-gaia.json](./51999-dark-and-light-tales-of-gaia.json) |
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
 | Dark Arcana: The Carnival | 10137 | [10137-dark-arcana-the-carnival.json](./10137-dark-arcana-the-carnival.json) |
+| Dark Assassin: Trial Chambers | 339363 | [339363-dark-assassin-trial-chambers.json](./339363-dark-assassin-trial-chambers.json) |
 | Dark Break | 64887 | [64887-dark-break.json](./64887-dark-break.json) |
 | Dark Canvas Collection | 146305 | [146305-dark-canvas-collection.json](./146305-dark-canvas-collection.json) |
 | Dark Castle | 12034 | [12034-dark-castle.json](./12034-dark-castle.json) |
@@ -369,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Flowers | 157135 | [157135-dark-flowers.json](./157135-dark-flowers.json) |
 | Dark Forester | 35760 | [35760-dark-forester.json](./35760-dark-forester.json) |
 | Dark Frontiers | 203362 | [203362-dark-frontiers.json](./203362-dark-frontiers.json) |
+| Dark Goddess of Destruction | 339364 | [339364-dark-goddess-of-destruction.json](./339364-dark-goddess-of-destruction.json) |
 | Dark Grid | 373014 | [373014-dark-grid.json](./373014-dark-grid.json) |
 | Dark Half | 42562 | [42562-dark-half.json](./42562-dark-half.json) |
 | Dark Harvest: Ascension | 224577 | [224577-dark-harvest-ascension.json](./224577-dark-harvest-ascension.json) |
@@ -379,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Incursion | 38958 | [38958-dark-incursion.json](./38958-dark-incursion.json) |
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
 | Dark Island | 147961 | [147961-dark-island.json](./147961-dark-island.json) |
+| Dark Jump: Endless Ascent | 339365 | [339365-dark-jump-endless-ascent.json](./339365-dark-jump-endless-ascent.json) |
 | Dark Legacy | 314034 | [314034-dark-legacy.json](./314034-dark-legacy.json) |
 | Dark Lord | 227272 | [227272-dark-lord.json](./227272-dark-lord.json) |
 | Dark Lord's Maze | 209472 | [209472-dark-lords-maze.json](./209472-dark-lords-maze.json) |
@@ -387,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Messiah of Might and Magic | 2369 | [2369-dark-messiah-of-might-and-magic.json](./2369-dark-messiah-of-might-and-magic.json) |
 | Dark Messiah of Might and Magic: Elements | 78210 | [78210-dark-messiah-of-might-and-magic-elements.json](./78210-dark-messiah-of-might-and-magic-elements.json) |
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
+| Dark Moon Deities | 339366 | [339366-dark-moon-deities.json](./339366-dark-moon-deities.json) |
 | Dark Nebula: Episode One | 67242 | [67242-dark-nebula-episode-one.json](./67242-dark-nebula-episode-one.json) |
 | Dark Neighbors | 351612 | [351612-dark-neighbors.json](./351612-dark-neighbors.json) |
 | Dark Nest: Snake Contract | 368580 | [368580-dark-nest-snake-contract.json](./368580-dark-nest-snake-contract.json) |
@@ -558,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash'n'Drops | 389587 | [389587-dashndrops.json](./389587-dashndrops.json) |
 | DashBored | 32847 | [32847-dashbored.json](./32847-dashbored.json) |
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
+| DashFire | 339367 | [339367-dashfire.json](./339367-dashfire.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
 | Dasshutsu Game: Momo | 220309 | [220309-dasshutsu-game-momo.json](./220309-dasshutsu-game-momo.json) |
@@ -695,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dayshift at Freddy's | 198465 | [198465-dayshift-at-freddys.json](./198465-dayshift-at-freddys.json) |
 | DayZ | 2117 | [2117-dayz.json](./2117-dayz.json) |
 | Dazzeloids | 64351 | [64351-dazzeloids.json](./64351-dazzeloids.json) |
+| DBall | 339368 | [339368-dball.json](./339368-dball.json) |
 | DC Battle Arena | 137600 | [137600-dc-battle-arena.json](./137600-dc-battle-arena.json) |
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
 | DC Comics Super Heroes: The Watchtower | 220122 | [220122-dc-comics-super-heroes-the-watchtower.json](./220122-dc-comics-super-heroes-the-watchtower.json) |
@@ -853,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising/Gears of War | 141217 | [141217-dead-rising-gears-of-war.json](./141217-dead-rising-gears-of-war.json) |
 | Dead Rose | 404237 | [404237-dead-rose.json](./404237-dead-rose.json) |
 | Dead Route | 87095 | [87095-dead-route.json](./87095-dead-route.json) |
+| Dead Sale | 339369 | [339369-dead-sale.json](./339369-dead-sale.json) |
 | Dead Scrap | 303466 | [303466-dead-scrap.json](./303466-dead-scrap.json) |
 | Dead Sea | 25514 | [25514-dead-sea.json](./25514-dead-sea.json) |
 | Dead Secret | 14403 | [14403-dead-secret.json](./14403-dead-secret.json) |
@@ -987,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death and Taxes | 126835 | [126835-death-and-taxes.json](./126835-death-and-taxes.json) |
 | Death Angel Trial | 284334 | [284334-death-angel-trial.json](./284334-death-angel-trial.json) |
 | Death at Sycamore Hall | 388250 | [388250-death-at-sycamore-hall.json](./388250-death-at-sycamore-hall.json) |
+| Death Becomes You: Yuri Onsen Vacation | 339370 | [339370-death-becomes-you-yuri-onsen-vacation.json](./339370-death-becomes-you-yuri-onsen-vacation.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
 | Death Burger | 364506 | [364506-death-burger.json](./364506-death-burger.json) |
 | Death By Chatter | 322934 | [322934-death-by-chatter.json](./322934-death-by-chatter.json) |
