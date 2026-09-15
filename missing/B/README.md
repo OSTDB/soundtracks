@@ -3126,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomby | 179147 | [179147-boomby.json](./179147-boomby.json) |
 | Boomcestors | 367961 | [367961-boomcestors.json](./367961-boomcestors.json) |
 | Boomer | 214541 | [214541-boomer.json](./214541-boomer.json) |
+| Boomer Brawler | 355616 | [355616-boomer-brawler.json](./355616-boomer-brawler.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | Boomlings | 61067 | [61067-boomlings.json](./61067-boomlings.json) |
 | Boomlings MatchUp | 61066 | [61066-boomlings-matchup.json](./61066-boomlings-matchup.json) |
