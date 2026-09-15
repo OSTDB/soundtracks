@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TDS: War Games | 203541 | [203541-tds-war-games.json](./203541-tds-war-games.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
+| Teach My Little Sister How to Drive | 373092 | [373092-teach-my-little-sister-how-to-drive.json](./373092-teach-my-little-sister-how-to-drive.json) |
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
 | TeaChess | 188036 | [188036-teachess.json](./188036-teachess.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
@@ -4075,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit | 172144 | [172144-the-spirit.json](./172144-the-spirit.json) |
 | The Spirit Lift | 217312 | [217312-the-spirit-lift.json](./217312-the-spirit-lift.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
+| The Spiriting Away of Saooni Village | 373094 | [373094-the-spiriting-away-of-saooni-village.json](./373094-the-spiriting-away-of-saooni-village.json) |
 | The SpongeBob SquarePants Movie 3D | 135811 | [135811-the-spongebob-squarepants-movie-3d.json](./135811-the-spongebob-squarepants-movie-3d.json) |
 | The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
 | The Sporting News Baseball | 55154 | [55154-the-sporting-news-baseball.json](./55154-the-sporting-news-baseball.json) |
@@ -4969,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Years | 232989 | [232989-through-the-years.json](./232989-through-the-years.json) |
 | Through Time the Girl Puzzle | 262933 | [262933-through-time-the-girl-puzzle.json](./262933-through-time-the-girl-puzzle.json) |
 | ThrounnelVR | 31877 | [31877-throunnelvr.json](./31877-throunnelvr.json) |
+| Throw Anything: Zombie Invaders | 373090 | [373090-throw-anything-zombie-invaders.json](./373090-throw-anything-zombie-invaders.json) |
 | Throw Bro | 302350 | [302350-throw-bro.json](./302350-throw-bro.json) |
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
@@ -5676,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Garden | 300390 | [300390-tiny-garden.json](./300390-tiny-garden.json) |
 | Tiny Gods of the Nile | 191197 | [191197-tiny-gods-of-the-nile.json](./191197-tiny-gods-of-the-nile.json) |
 | Tiny Heist | 26670 | [26670-tiny-heist.json](./26670-tiny-heist.json) |
+| Tiny Hell | 373069 | [373069-tiny-hell.json](./373069-tiny-hell.json) |
 | Tiny Hero Courier | 330140 | [330140-tiny-hero-courier.json](./330140-tiny-hero-courier.json) |
 | Tiny Heroes | 22317 | [22317-tiny-heroes.json](./22317-tiny-heroes.json) |
 | Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
@@ -5891,6 +5895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Zone | 304586 | [304586-toilet-zone.json](./304586-toilet-zone.json) |
 | Toilet Zone 2 | 337643 | [337643-toilet-zone-2.json](./337643-toilet-zone-2.json) |
 | ToiTony | 272277 | [272277-toitony.json](./272277-toitony.json) |
+| Tojibo | 373101 | [373101-tojibo.json](./373101-tojibo.json) |
 | Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
 | Toki | 12228 | [12228-toki.json](./12228-toki.json) |
 | Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
@@ -6086,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tombs & Treasure | 215142 | [215142-tombs-and-treasure.json](./215142-tombs-and-treasure.json) |
 | Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
 | Tomcat | 74428 | [74428-tomcat.json](./74428-tomcat.json) |
+| Tome | 373070 | [373070-tome.json](./373070-tome.json) |
 | Tome of Heroes | 48675 | [48675-tome-of-heroes.json](./48675-tome-of-heroes.json) |
 | Tomeling | 85448 | [85448-tomeling.json](./85448-tomeling.json) |
 | Tomeling in Trouble | 85447 | [85447-tomeling-in-trouble.json](./85447-tomeling-in-trouble.json) |
@@ -6344,6 +6350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Spies! Cyber Mission | 302511 | [302511-totally-spies-cyber-mission.json](./302511-totally-spies-cyber-mission.json) |
 | Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
 | Totally Spies! Totally Party | 5238 | [5238-totally-spies-totally-party.json](./5238-totally-spies-totally-party.json) |
+| Totally Tuberz | 373074 | [373074-totally-tuberz.json](./373074-totally-tuberz.json) |
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
 | Tôtem | 133974 | [133974-totem.json](./133974-totem.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
@@ -7875,6 +7882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typhoon Force: Storm Fighter | 176991 | [176991-typhoon-force-storm-fighter.json](./176991-typhoon-force-storm-fighter.json) |
 | Typical | 108664 | [108664-typical.json](./108664-typical.json) |
 | Typical NPC | 412263 | [412263-typical-npc.json](./412263-typical-npc.json) |
+| Typing Break | 373079 | [373079-typing-break.json](./373079-typing-break.json) |
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
 | Typing Karaoke | 64362 | [64362-typing-karaoke.json](./64362-typing-karaoke.json) |
 | Typing Ninja | 290943 | [290943-typing-ninja.json](./290943-typing-ninja.json) |
