@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T00:51:35.481Z",
-  "total_missing": 71803,
+  "generated_at": "2026-09-15T01:04:08.622Z",
+  "total_missing": 71852,
   "games": [
     {
       "igdb_id": 306086,
@@ -1156,6 +1156,11 @@
       "igdb_id": 103444,
       "game_name": "1st Core",
       "file": "missing/0-9/103444-1st-core.json"
+    },
+    {
+      "igdb_id": 378278,
+      "game_name": "1st Homizio",
+      "file": "missing/0-9/378278-1st-homizio.json"
     },
     {
       "igdb_id": 262086,
@@ -4851,11 +4856,6 @@
       "igdb_id": 148507,
       "game_name": "Aeon's End: The Depths",
       "file": "missing/A/148507-aeons-end-the-depths.json"
-    },
-    {
-      "igdb_id": 75064,
-      "game_name": "Aequitas Orbis",
-      "file": "missing/A/75064-aequitas-orbis.json"
     },
     {
       "igdb_id": 27794,
@@ -14036,6 +14036,11 @@
       "igdb_id": 61615,
       "game_name": "Apocalypse: The Game",
       "file": "missing/A/61615-apocalypse-the-game.json"
+    },
+    {
+      "igdb_id": 378318,
+      "game_name": "Apocalypter",
+      "file": "missing/A/378318-apocalypter.json"
     },
     {
       "igdb_id": 189189,
@@ -28708,6 +28713,16 @@
       "file": "missing/B/380013-before.json"
     },
     {
+      "igdb_id": 378305,
+      "game_name": "Before Exit: Gas Station - Daylight DLC",
+      "file": "missing/B/378305-before-exit-gas-station-daylight-dlc.json"
+    },
+    {
+      "igdb_id": 378304,
+      "game_name": "Before Exit: Gas Station - Midnight DLC",
+      "file": "missing/B/378304-before-exit-gas-station-midnight-dlc.json"
+    },
+    {
       "igdb_id": 205248,
       "game_name": "Before Fate",
       "file": "missing/B/205248-before-fate.json"
@@ -29211,6 +29226,11 @@
       "igdb_id": 308534,
       "game_name": "Ben Tennyson: Ace Attorney",
       "file": "missing/B/308534-ben-tennyson-ace-attorney.json"
+    },
+    {
+      "igdb_id": 378303,
+      "game_name": "Ben the Binder",
+      "file": "missing/B/378303-ben-the-binder.json"
     },
     {
       "igdb_id": 9541,
@@ -60553,6 +60573,11 @@
       "file": "missing/C/260426-cozy-space.json"
     },
     {
+      "igdb_id": 378283,
+      "game_name": "Cozy Toy Shop",
+      "file": "missing/C/378283-cozy-toy-shop.json"
+    },
+    {
       "igdb_id": 406805,
       "game_name": "Cozy Twinkie",
       "file": "missing/C/406805-cozy-twinkie.json"
@@ -75151,6 +75176,11 @@
       "igdb_id": 209611,
       "game_name": "Diamond Skee-Ball",
       "file": "missing/D/209611-diamond-skee-ball.json"
+    },
+    {
+      "igdb_id": 378294,
+      "game_name": "Diamond Star Adventure",
+      "file": "missing/D/378294-diamond-star-adventure.json"
     },
     {
       "igdb_id": 9138,
@@ -93028,6 +93058,11 @@
       "file": "missing/E/256851-escape-from-castle-chezcrea.json"
     },
     {
+      "igdb_id": 378314,
+      "game_name": "Escape From Cluckov",
+      "file": "missing/E/378314-escape-from-cluckov.json"
+    },
+    {
       "igdb_id": 45931,
       "game_name": "Escape from Cyber City",
       "file": "missing/E/45931-escape-from-cyber-city.json"
@@ -99268,6 +99303,11 @@
       "file": "missing/F/45953-farland-story-fx.json"
     },
     {
+      "igdb_id": 378287,
+      "game_name": "Farlands: Tiny Harvest",
+      "file": "missing/F/378287-farlands-tiny-harvest.json"
+    },
+    {
       "igdb_id": 142862,
       "game_name": "Farlight 84",
       "file": "missing/F/142862-farlight-84.json"
@@ -101696,6 +101736,11 @@
       "igdb_id": 87038,
       "game_name": "Fight List - Categories Game",
       "file": "missing/F/87038-fight-list-categories-game.json"
+    },
+    {
+      "igdb_id": 378308,
+      "game_name": "Fight Me",
+      "file": "missing/F/378308-fight-me.json"
     },
     {
       "igdb_id": 5835,
@@ -116118,6 +116163,11 @@
       "file": "missing/G/97282-gensei-suikoden.json"
     },
     {
+      "igdb_id": 378320,
+      "game_name": "Genshin Impact: A Nocturne of the Far North",
+      "file": "missing/G/378320-genshin-impact-a-nocturne-of-the-far-north.json"
+    },
+    {
       "igdb_id": 259867,
       "game_name": "Genshin Impact: As Light Rain Falls Without Reason",
       "file": "missing/G/259867-genshin-impact-as-light-rain-falls-without-reason.json"
@@ -117851,6 +117901,11 @@
       "igdb_id": 104098,
       "game_name": "Girls X Battle: GXB Global",
       "file": "missing/G/104098-girls-x-battle-gxb-global.json"
+    },
+    {
+      "igdb_id": 378284,
+      "game_name": "Girls, I Just Want to Get Paid!",
+      "file": "missing/G/378284-girls-i-just-want-to-get-paid.json"
     },
     {
       "igdb_id": 219796,
@@ -130821,6 +130876,11 @@
       "igdb_id": 379354,
       "game_name": "Hello, Kami-sama Worker",
       "file": "missing/H/379354-hello-kami-sama-worker.json"
+    },
+    {
+      "igdb_id": 378319,
+      "game_name": "Hello, Yoshi!",
+      "file": "missing/H/378319-hello-yoshi.json"
     },
     {
       "igdb_id": 179173,
@@ -147468,6 +147528,11 @@
       "file": "missing/I/309684-isles-of-silence.json"
     },
     {
+      "igdb_id": 378286,
+      "game_name": "Isles of Wrath",
+      "file": "missing/I/378286-isles-of-wrath.json"
+    },
+    {
       "igdb_id": 87703,
       "game_name": "iSnake",
       "file": "missing/I/87703-isnake.json"
@@ -154468,6 +154533,11 @@
       "file": "missing/K/361717-katze-stuck-in-the-toilet-64.json"
     },
     {
+      "igdb_id": 378295,
+      "game_name": "Katze Stuck in the Toilet 64 PC",
+      "file": "missing/K/378295-katze-stuck-in-the-toilet-64-pc.json"
+    },
+    {
       "igdb_id": 68020,
       "game_name": "Kava Tina Story",
       "file": "missing/K/68020-kava-tina-story.json"
@@ -155773,6 +155843,11 @@
       "file": "missing/K/292293-kill-me-if-you-can.json"
     },
     {
+      "igdb_id": 378317,
+      "game_name": "Kill Me If You Can: Multiplayer Edition",
+      "file": "missing/K/378317-kill-me-if-you-can-multiplayer-edition.json"
+    },
+    {
       "igdb_id": 121728,
       "game_name": "Kill PC",
       "file": "missing/K/121728-kill-pc.json"
@@ -156331,6 +156406,11 @@
       "igdb_id": 69839,
       "game_name": "King Arthur's K.O.R.T.",
       "file": "missing/K/69839-king-arthurs-k-o-r-t.json"
+    },
+    {
+      "igdb_id": 378293,
+      "game_name": "King Boo's Revenge PC",
+      "file": "missing/K/378293-king-boos-revenge-pc.json"
     },
     {
       "igdb_id": 73223,
@@ -170806,6 +170886,11 @@
       "igdb_id": 198463,
       "game_name": "Lug's Delightful Dioramas",
       "file": "missing/L/198463-lugs-delightful-dioramas.json"
+    },
+    {
+      "igdb_id": 378296,
+      "game_name": "Lug's Delightful Dioramas PC",
+      "file": "missing/L/378296-lugs-delightful-dioramas-pc.json"
     },
     {
       "igdb_id": 87201,
@@ -191031,6 +191116,11 @@
       "igdb_id": 229714,
       "game_name": "Mortal Shell: Rotten Autumn",
       "file": "missing/M/229714-mortal-shell-rotten-autumn.json"
+    },
+    {
+      "igdb_id": 378282,
+      "game_name": "Mortal Trap Dungeon",
+      "file": "missing/M/378282-mortal-trap-dungeon.json"
     },
     {
       "igdb_id": 74333,
@@ -216321,6 +216411,11 @@
       "igdb_id": 195773,
       "game_name": "Path of Destruction",
       "file": "missing/P/195773-path-of-destruction.json"
+    },
+    {
+      "igdb_id": 378276,
+      "game_name": "Path of Exile 2: The Last of the Druids",
+      "file": "missing/P/378276-path-of-exile-2-the-last-of-the-druids.json"
     },
     {
       "igdb_id": 142400,
@@ -251633,6 +251728,11 @@
       "file": "missing/S/356656-samsung-pro-cricket.json"
     },
     {
+      "igdb_id": 378279,
+      "game_name": "Samu",
+      "file": "missing/S/378279-samu.json"
+    },
+    {
       "igdb_id": 35927,
       "game_name": "Samudai",
       "file": "missing/S/35927-samudai.json"
@@ -260738,6 +260838,11 @@
       "file": "missing/S/244267-shodot.json"
     },
     {
+      "igdb_id": 378280,
+      "game_name": "Shoe Salesman Mania",
+      "file": "missing/S/378280-shoe-salesman-mania.json"
+    },
+    {
       "igdb_id": 151119,
       "game_name": "Shoebill",
       "file": "missing/S/151119-shoebill.json"
@@ -266148,6 +266253,11 @@
       "file": "missing/S/143021-slime-evo.json"
     },
     {
+      "igdb_id": 378316,
+      "game_name": "Slime's Journey",
+      "file": "missing/S/378316-slimes-journey.json"
+    },
+    {
       "igdb_id": 75061,
       "game_name": "Slimebrawl",
       "file": "missing/S/75061-slimebrawl.json"
@@ -266603,6 +266713,11 @@
       "file": "missing/S/313109-sm64-colorful-stars.json"
     },
     {
+      "igdb_id": 378261,
+      "game_name": "SM64 Coop Deluxe: Mario in the Multiverse",
+      "file": "missing/S/378261-sm64-coop-deluxe-mario-in-the-multiverse.json"
+    },
+    {
       "igdb_id": 386853,
       "game_name": "SM64 Coop DX: Bananza Kong",
       "file": "missing/S/386853-sm64-coop-dx-bananza-kong.json"
@@ -266613,9 +266728,19 @@
       "file": "missing/S/358286-sm64-power-star-madness.json"
     },
     {
+      "igdb_id": 378269,
+      "game_name": "SM64 Royal Legacy PC Port",
+      "file": "missing/S/378269-sm64-royal-legacy-pc-port.json"
+    },
+    {
       "igdb_id": 133993,
       "game_name": "SM64 Sapphire",
       "file": "missing/S/133993-sm64-sapphire.json"
+    },
+    {
+      "igdb_id": 378272,
+      "game_name": "SM64 Sapphire PC Port",
+      "file": "missing/S/378272-sm64-sapphire-pc-port.json"
     },
     {
       "igdb_id": 135169,
@@ -266633,9 +266758,64 @@
       "file": "missing/S/132830-sm64-the-green-stars.json"
     },
     {
+      "igdb_id": 378273,
+      "game_name": "SM64 TsucnenT's Treasures PC Port",
+      "file": "missing/S/378273-sm64-tsucnents-treasures-pc-port.json"
+    },
+    {
       "igdb_id": 256295,
       "game_name": "SM64: Rocky Mountain Revisited",
       "file": "missing/S/256295-sm64-rocky-mountain-revisited.json"
+    },
+    {
+      "igdb_id": 378300,
+      "game_name": "SM64EX Coop: Lug's Delightful Dioramas",
+      "file": "missing/S/378300-sm64ex-coop-lugs-delightful-dioramas.json"
+    },
+    {
+      "igdb_id": 378302,
+      "game_name": "SM64EX Coop: Odyssey Mario's Moveset - Rebirth",
+      "file": "missing/S/378302-sm64ex-coop-odyssey-marios-moveset-rebirth.json"
+    },
+    {
+      "igdb_id": 378266,
+      "game_name": "SM64EX Coop: SM64 - Shining Stars",
+      "file": "missing/S/378266-sm64ex-coop-sm64-shining-stars.json"
+    },
+    {
+      "igdb_id": 378265,
+      "game_name": "SM64EX Coop: SM64 Sapphire",
+      "file": "missing/S/378265-sm64ex-coop-sm64-sapphire.json"
+    },
+    {
+      "igdb_id": 378264,
+      "game_name": "SM64EX Coop: SM64 Trouble Town",
+      "file": "missing/S/378264-sm64ex-coop-sm64-trouble-town.json"
+    },
+    {
+      "igdb_id": 378298,
+      "game_name": "SM64EX Coop: Star Revenge 2 - Night of Doom",
+      "file": "missing/S/378298-sm64ex-coop-star-revenge-2-night-of-doom.json"
+    },
+    {
+      "igdb_id": 378267,
+      "game_name": "SM64EX Coop: Star Revenge 4 - The Kedama Takeover 64",
+      "file": "missing/S/378267-sm64ex-coop-star-revenge-4-the-kedama-takeover-64.json"
+    },
+    {
+      "igdb_id": 378301,
+      "game_name": "SM64EX Coop: Super Mario 64 Moonshine",
+      "file": "missing/S/378301-sm64ex-coop-super-mario-64-moonshine.json"
+    },
+    {
+      "igdb_id": 378263,
+      "game_name": "SM64EX Coop: Yoshi's Adventure 64",
+      "file": "missing/S/378263-sm64ex-coop-yoshis-adventure-64.json"
+    },
+    {
+      "igdb_id": 378288,
+      "game_name": "SM74&EE",
+      "file": "missing/S/378288-sm74-and-ee.json"
     },
     {
       "igdb_id": 332989,
@@ -276813,6 +276993,11 @@
       "file": "missing/S/94717-spot-pool.json"
     },
     {
+      "igdb_id": 378285,
+      "game_name": "Spot the Cat",
+      "file": "missing/S/378285-spot-the-cat.json"
+    },
+    {
       "igdb_id": 324123,
       "game_name": "Spot The Difference: Classic Finding Puzzle",
       "file": "missing/S/324123-spot-the-difference-classic-finding-puzzle.json"
@@ -278613,6 +278798,11 @@
       "file": "missing/S/132841-star-revenge-1-star-takeover.json"
     },
     {
+      "igdb_id": 378289,
+      "game_name": "Star Revenge 1: Star Takeover PC",
+      "file": "missing/S/378289-star-revenge-1-star-takeover-pc.json"
+    },
+    {
       "igdb_id": 180247,
       "game_name": "Star Revenge 1.5: Star Takeover Redone",
       "file": "missing/S/180247-star-revenge-1-5-star-takeover-redone.json"
@@ -278621,6 +278811,26 @@
       "igdb_id": 180248,
       "game_name": "Star Revenge 2: Act 1 to the Moon",
       "file": "missing/S/180248-star-revenge-2-act-1-to-the-moon.json"
+    },
+    {
+      "igdb_id": 378290,
+      "game_name": "Star Revenge 2: Night of Doom PC",
+      "file": "missing/S/378290-star-revenge-2-night-of-doom-pc.json"
+    },
+    {
+      "igdb_id": 378297,
+      "game_name": "Star Revenge 2.5: Remnant of Doom PC",
+      "file": "missing/S/378297-star-revenge-2-5-remnant-of-doom-pc.json"
+    },
+    {
+      "igdb_id": 378270,
+      "game_name": "Star Revenge 6.5: Wrath of The Dim. Flower PC Port",
+      "file": "missing/S/378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json"
+    },
+    {
+      "igdb_id": 378291,
+      "game_name": "Star Revenge Redone PC",
+      "file": "missing/S/378291-star-revenge-redone-pc.json"
     },
     {
       "igdb_id": 320744,
@@ -297423,6 +297633,11 @@
       "file": "missing/T/316625-teknokinetica.json"
     },
     {
+      "igdb_id": 378262,
+      "game_name": "Teko",
+      "file": "missing/T/378262-teko.json"
+    },
+    {
       "igdb_id": 237343,
       "game_name": "Tekoha: A Tale Among the Stars",
       "file": "missing/T/237343-tekoha-a-tale-among-the-stars.json"
@@ -297771,6 +297986,11 @@
       "igdb_id": 217256,
       "game_name": "Ten Dates",
       "file": "missing/T/217256-ten-dates.json"
+    },
+    {
+      "igdb_id": 378271,
+      "game_name": "Ten Deadly Games",
+      "file": "missing/T/378271-ten-deadly-games.json"
     },
     {
       "igdb_id": 309358,
@@ -322133,6 +322353,11 @@
       "file": "missing/T/404933-toil-and-trubble.json"
     },
     {
+      "igdb_id": 378306,
+      "game_name": "Toilet 8",
+      "file": "missing/T/378306-toilet-8.json"
+    },
+    {
       "igdb_id": 273945,
       "game_name": "Toilet Fight: Open World",
       "file": "missing/T/273945-toilet-fight-open-world.json"
@@ -330153,6 +330378,11 @@
       "file": "missing/T/93599-trundle.json"
     },
     {
+      "igdb_id": 378310,
+      "game_name": "Trust",
+      "file": "missing/T/378310-trust.json"
+    },
+    {
       "igdb_id": 401484,
       "game_name": "Trust & Safety: Armed Conflict",
       "file": "missing/T/401484-trust-and-safety-armed-conflict.json"
@@ -337713,6 +337943,11 @@
       "file": "missing/V/181877-varooom-3d.json"
     },
     {
+      "igdb_id": 378268,
+      "game_name": "Varsapura",
+      "file": "missing/V/378268-varsapura.json"
+    },
+    {
       "igdb_id": 360566,
       "game_name": "Vasilisa the Beautiful",
       "file": "missing/V/360566-vasilisa-the-beautiful.json"
@@ -338451,6 +338686,11 @@
       "igdb_id": 312910,
       "game_name": "Verse Hopper",
       "file": "missing/V/312910-verse-hopper.json"
+    },
+    {
+      "igdb_id": 378312,
+      "game_name": "Verse Project",
+      "file": "missing/V/378312-verse-project.json"
     },
     {
       "igdb_id": 141800,
@@ -347491,6 +347731,11 @@
       "igdb_id": 126619,
       "game_name": "Wild Terra 2: New Lands",
       "file": "missing/W/126619-wild-terra-2-new-lands.json"
+    },
+    {
+      "igdb_id": 378307,
+      "game_name": "Wild Terra 2: New Lands - Cultist Pack",
+      "file": "missing/W/378307-wild-terra-2-new-lands-cultist-pack.json"
     },
     {
       "igdb_id": 95453,
