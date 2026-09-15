@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T07:49:14.849Z",
-  "total_missing": 73052,
+  "generated_at": "2026-09-15T07:51:46.410Z",
+  "total_missing": 73051,
   "games": [
     {
       "igdb_id": 306086,
@@ -5086,11 +5086,6 @@
       "igdb_id": 357793,
       "game_name": "After Dark",
       "file": "missing/A/357793-after-dark.json"
-    },
-    {
-      "igdb_id": 187533,
-      "game_name": "After Dark VR",
-      "file": "missing/A/187533-after-dark-vr.json"
     },
     {
       "igdb_id": 339803,
