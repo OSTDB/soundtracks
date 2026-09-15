@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
 | The Death of the Video Star | 365182 | [365182-the-death-of-the-video-star.json](./365182-the-death-of-the-video-star.json) |
 | The Death of Zoe | 159841 | [159841-the-death-of-zoe.json](./159841-the-death-of-zoe.json) |
+| The Deathmind | 353381 | [353381-the-deathmind.json](./353381-the-deathmind.json) |
 | The Deceived Man | 310421 | [310421-the-deceived-man.json](./310421-the-deceived-man.json) |
 | The December Job | 386871 | [386871-the-december-job.json](./386871-the-december-job.json) |
 | The Decline of Grandidier | 395592 | [395592-the-decline-of-grandidier.json](./395592-the-decline-of-grandidier.json) |
