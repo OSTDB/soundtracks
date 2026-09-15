@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn. Legacy | 403688 | [403688-saturn-legacy.json](./403688-saturn-legacy.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
+| Saucer Destruction 3: Armagedon | 337204 | [337204-saucer-destruction-3-armagedon.json](./337204-saucer-destruction-3-armagedon.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
 | Sauna | 178039 | [178039-sauna.json](./178039-sauna.json) |
 | Sauna Mario World | 338838 | [338838-sauna-mario-world.json](./338838-sauna-mario-world.json) |
@@ -1309,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Select Oblige | 321778 | [321778-select-oblige.json](./321778-select-oblige.json) |
 | Select Quiz | 386283 | [386283-select-quiz.json](./386283-select-quiz.json) |
 | Selena's Charm 2: Enchanted Garden | 417511 | [417511-selenas-charm-2-enchanted-garden.json](./417511-selenas-charm-2-enchanted-garden.json) |
+| Selene | 337167 | [337167-selene.json](./337167-selene.json) |
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
 | Self Reflection | 178011 | [178011-self-reflection.json](./178011-self-reflection.json) |
@@ -1617,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shades of Doom | 71518 | [71518-shades-of-doom.json](./71518-shades-of-doom.json) |
 | Shades of Manhattan 2 | 182453 | [182453-shades-of-manhattan-2.json](./182453-shades-of-manhattan-2.json) |
 | Shades: Shadow Fight Roguelike | 300698 | [300698-shades-shadow-fight-roguelike.json](./300698-shades-shadow-fight-roguelike.json) |
+| Shadey's Quest | 337154 | [337154-shadeys-quest.json](./337154-shadeys-quest.json) |
 | ShadO | 10820 | [10820-shado.json](./10820-shado.json) |
 | Shadoblitz | 345034 | [345034-shadoblitz.json](./345034-shadoblitz.json) |
 | Shadow | 324309 | [324309-shadow.json](./324309-shadow.json) |
@@ -2870,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
 | SinsFromGod | 139422 | [139422-sinsfromgod.json](./139422-sinsfromgod.json) |
 | Sintesoft 2.0 | 343319 | [343319-sintesoft-2-0.json](./343319-sintesoft-2-0.json) |
+| Sintropia | 337161 | [337161-sintropia.json](./337161-sintropia.json) |
 | Sintropia Fruits Together | 388053 | [388053-sintropia-fruits-together.json](./388053-sintropia-fruits-together.json) |
 | Sionan | 230260 | [230260-sionan.json](./230260-sionan.json) |
 | Sionic Love | 399711 | [399711-sionic-love.json](./399711-sionic-love.json) |
@@ -4310,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Classic 2 | 175975 | [175975-sonic-classic-2.json](./175975-sonic-classic-2.json) |
 | Sonic Coconut Hunter | 330532 | [330532-sonic-coconut-hunter.json](./330532-sonic-coconut-hunter.json) |
 | Sonic Color Contrast | 129145 | [129145-sonic-color-contrast.json](./129145-sonic-color-contrast.json) |
+| Sonic Color Cursed | 337168 | [337168-sonic-color-cursed.json](./337168-sonic-color-cursed.json) |
 | Sonic Colors: Ultimate | 150005 | [150005-sonic-colors-ultimate.json](./150005-sonic-colors-ultimate.json) |
 | Sonic Colors: Ultimate - 30th Anniversary Pack | 150157 | [150157-sonic-colors-ultimate-30th-anniversary-pack.json](./150157-sonic-colors-ultimate-30th-anniversary-pack.json) |
 | Sonic Darts | 261252 | [261252-sonic-darts.json](./261252-sonic-darts.json) |
@@ -4317,6 +4322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Dash 2: Sonic Boom | 38695 | [38695-sonic-dash-2-sonic-boom.json](./38695-sonic-dash-2-sonic-boom.json) |
 | Sonic Dash Quiz | 261292 | [261292-sonic-dash-quiz.json](./261292-sonic-dash-quiz.json) |
 | Sonic Daybreak | 370215 | [370215-sonic-daybreak.json](./370215-sonic-daybreak.json) |
+| Sonic Debut | 337169 | [337169-sonic-debut.json](./337169-sonic-debut.json) |
 | Sonic Definitive | 370216 | [370216-sonic-definitive.json](./370216-sonic-definitive.json) |
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
 | Sonic Dreams Collection | 11656 | [11656-sonic-dreams-collection.json](./11656-sonic-dreams-collection.json) |
@@ -4324,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Elementals | 333959 | [333959-sonic-elementals.json](./333959-sonic-elementals.json) |
 | Sonic ERaZor | 198564 | [198564-sonic-erazor.json](./198564-sonic-erazor.json) |
 | Sonic Escape | 370218 | [370218-sonic-escape.json](./370218-sonic-escape.json) |
+| Sonic Essence | 337174 | [337174-sonic-essence.json](./337174-sonic-essence.json) |
 | Sonic FGX 2 | 352169 | [352169-sonic-fgx-2.json](./352169-sonic-fgx-2.json) |
 | Sonic Forces + Super Monkey Ball: Banana Blitz HD Double Pack | 139951 | [139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json](./139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json) |
 | Sonic Forces Overclocked | 280749 | [280749-sonic-forces-overclocked.json](./280749-sonic-forces-overclocked.json) |
@@ -4509,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Death Days | 331711 | [331711-sonic-death-days.json](./331711-sonic-death-days.json) |
 | Sonic: Eternal Flare | 330698 | [330698-sonic-eternal-flare.json](./330698-sonic-eternal-flare.json) |
 | Sonic: Into the Void | 256299 | [256299-sonic-into-the-void.json](./256299-sonic-into-the-void.json) |
+| Sonic: Lost in Nightmare World | 337171 | [337171-sonic-lost-in-nightmare-world.json](./337171-sonic-lost-in-nightmare-world.json) |
 | Sonic: Maniac Adventure | 334141 | [334141-sonic-maniac-adventure.json](./334141-sonic-maniac-adventure.json) |
 | Sonic: Power Rings | 330699 | [330699-sonic-power-rings.json](./330699-sonic-power-rings.json) |
 | Sonic: Project Survival | 246089 | [246089-sonic-project-survival.json](./246089-sonic-project-survival.json) |
@@ -5116,10 +5124,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark | 212450 | [212450-spark.json](./212450-spark.json) |
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
+| Spark in Sonic After the Sequel | 337170 | [337170-spark-in-sonic-after-the-sequel.json](./337170-spark-in-sonic-after-the-sequel.json) |
 | Spark in the Dark | 140616 | [140616-spark-in-the-dark.json](./140616-spark-in-the-dark.json) |
 | Spark Man | 40169 | [40169-spark-man.json](./40169-spark-man.json) |
 | Spark Of Nature | 291471 | [291471-spark-of-nature.json](./291471-spark-of-nature.json) |
 | Spark Protocol | 413036 | [413036-spark-protocol.json](./413036-spark-protocol.json) |
+| Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
 | Spark! Photon Blast | 369082 | [369082-spark-photon-blast.json](./369082-spark-photon-blast.json) |
 | Sparked | 382199 | [382199-sparked.json](./382199-sparked.json) |
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
@@ -6234,6 +6244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlite: Defender of Justice Ultimate HD Edition | 232982 | [232982-starlite-defender-of-justice-ultimate-hd-edition.json](./232982-starlite-defender-of-justice-ultimate-hd-edition.json) |
 | Starloom | 382769 | [382769-starloom.json](./382769-starloom.json) |
 | StarMaker | 125965 | [125965-starmaker.json](./125965-starmaker.json) |
+| Starmaker Story | 337187 | [337187-starmaker-story.json](./337187-starmaker-story.json) |
 | Starman in space | 88240 | [88240-starman-in-space.json](./88240-starman-in-space.json) |
 | Starman: Tale of Light | 104681 | [104681-starman-tale-of-light.json](./104681-starman-tale-of-light.json) |
 | Starona | 142386 | [142386-starona.json](./142386-starona.json) |
@@ -7122,6 +7133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Driver Collection | 328478 | [328478-stunt-driver-collection.json](./328478-stunt-driver-collection.json) |
 | Stunt Flyer | 66617 | [66617-stunt-flyer.json](./66617-stunt-flyer.json) |
 | Stunt Legends | 219583 | [219583-stunt-legends.json](./219583-stunt-legends.json) |
+| Stunt Master | 337190 | [337190-stunt-master.json](./337190-stunt-master.json) |
 | Stunt Paradise 2 | 389435 | [389435-stunt-paradise-2.json](./389435-stunt-paradise-2.json) |
 | Stunt Race | 395000 | [395000-stunt-race.json](./395000-stunt-race.json) |
 | Stunt Rush: 3D Buggy Racing | 246985 | [246985-stunt-rush-3d-buggy-racing.json](./246985-stunt-rush-3d-buggy-racing.json) |
