@@ -1543,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Blonde | 370759 | [370759-sexy-blonde.json](./370759-sexy-blonde.json) |
 | Sexy Comedy: It Was a Mistake | 110529 | [110529-sexy-comedy-it-was-a-mistake.json](./110529-sexy-comedy-it-was-a-mistake.json) |
 | Sexy Elf | 226199 | [226199-sexy-elf.json](./226199-sexy-elf.json) |
+| Sexy Erotic Xtreme Club | 362363 | [362363-sexy-erotic-xtreme-club.json](./362363-sexy-erotic-xtreme-club.json) |
 | Sexy Futa: Mecha Battles of Islands | 310424 | [310424-sexy-futa-mecha-battles-of-islands.json](./310424-sexy-futa-mecha-battles-of-islands.json) |
 | Sexy Girl Next Door: Virtual Valentine Sex | 311991 | [311991-sexy-girl-next-door-virtual-valentine-sex.json](./311991-sexy-girl-next-door-virtual-valentine-sex.json) |
 | Sexy Girls | 111721 | [111721-sexy-girls.json](./111721-sexy-girls.json) |
@@ -2551,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silk & Sorrow | 415870 | [415870-silk-and-sorrow.json](./415870-silk-and-sorrow.json) |
 | Silkroad 8 | 394157 | [394157-silkroad-8.json](./394157-silkroad-8.json) |
 | Silky Road | 355565 | [355565-silky-road.json](./355565-silky-road.json) |
+| Silky Winds | 362348 | [362348-silky-winds.json](./362348-silky-winds.json) |
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
 | Silly Scribbles | 285965 | [285965-silly-scribbles.json](./285965-silly-scribbles.json) |
@@ -3730,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Bros. Wonderland | 309256 | [309256-snow-bros-wonderland.json](./309256-snow-bros-wonderland.json) |
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
 | Snow Drop | 71444 | [71444-snow-drop.json](./71444-snow-drop.json) |
+| Snow Fall | 362355 | [362355-snow-fall.json](./362355-snow-fall.json) |
 | Snow Fight | 316096 | [316096-snow-fight.json](./316096-snow-fight.json) |
 | Snow Games VR | 29782 | [29782-snow-games-vr.json](./29782-snow-games-vr.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
@@ -5475,6 +5478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot The Differences 2020 | 284338 | [284338-spot-the-differences-2020.json](./284338-spot-the-differences-2020.json) |
 | Spot the Differences: Party! | 84897 | [84897-spot-the-differences-party.json](./84897-spot-the-differences-party.json) |
 | Spot the Dot | 149563 | [149563-spot-the-dot.json](./149563-spot-the-dot.json) |
+| Spot the Wrong Character | 362361 | [362361-spot-the-wrong-character.json](./362361-spot-the-wrong-character.json) |
 | Spot Zero | 338744 | [338744-spot-zero.json](./338744-spot-zero.json) |
 | Spot: The Cool Adventure | 66020 | [66020-spot-the-cool-adventure.json](./66020-spot-the-cool-adventure.json) |
 | Spot: The Video Game | 339277 | [339277-spot-the-video-game.json](./339277-spot-the-video-game.json) |
@@ -7196,6 +7200,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Funland | 87556 | [87556-summer-funland.json](./87556-summer-funland.json) |
 | Summer Games 3D | 88164 | [88164-summer-games-3d.json](./88164-summer-games-3d.json) |
+| Summer Games Challenge: Jumping & Shooting | 362362 | [362362-summer-games-challenge-jumping-and-shooting.json](./362362-summer-games-challenge-jumping-and-shooting.json) |
+| Summer Games Challenge: Running | 362345 | [362345-summer-games-challenge-running.json](./362345-summer-games-challenge-running.json) |
+| Summer Games Challenge: Swimming | 362346 | [362346-summer-games-challenge-swimming.json](./362346-summer-games-challenge-swimming.json) |
+| Summer Games Challenge: Throwing & Lifting | 362347 | [362347-summer-games-challenge-throwing-and-lifting.json](./362347-summer-games-challenge-throwing-and-lifting.json) |
 | Summer Games II | 297508 | [297508-summer-games-ii.json](./297508-summer-games-ii.json) |
 | Summer Horrordays | 177492 | [177492-summer-horrordays.json](./177492-summer-horrordays.json) |
 | Summer in Mara + Deiland Bundle | 188018 | [188018-summer-in-mara-deiland-bundle.json](./188018-summer-in-mara-deiland-bundle.json) |
@@ -8044,6 +8052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Strong Warriors | 64922 | [64922-super-strong-warriors.json](./64922-super-strong-warriors.json) |
 | Super Stunt Spectacular | 208350 | [208350-super-stunt-spectacular.json](./208350-super-stunt-spectacular.json) |
 | Super Stuntman | 55083 | [55083-super-stuntman.json](./55083-super-stuntman.json) |
+| Super Sucker: Clever Edition | 362371 | [362371-super-sucker-clever-edition.json](./362371-super-sucker-clever-edition.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
 | Super Surf Bros | 128609 | [128609-super-surf-bros.json](./128609-super-surf-bros.json) |
 | Super Sushi Roll | 219575 | [219575-super-sushi-roll.json](./219575-super-sushi-roll.json) |
