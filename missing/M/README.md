@@ -5244,6 +5244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Writer | 165654 | [165654-mythic-writer.json](./165654-mythic-writer.json) |
 | Mythic Yi | 388240 | [388240-mythic-yi.json](./388240-mythic-yi.json) |
 | Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
+| Mythical Ruins | 338285 | [338285-mythical-ruins.json](./338285-mythical-ruins.json) |
 | MythicZon | 348310 | [348310-mythiczon.json](./348310-mythiczon.json) |
 | Mything | 381597 | [381597-mything.json](./381597-mything.json) |
 | Mythlands: Dragon Flight VR | 214178 | [214178-mythlands-dragon-flight-vr.json](./214178-mythlands-dragon-flight-vr.json) |
