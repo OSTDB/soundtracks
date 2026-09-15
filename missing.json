@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T09:01:40.023Z",
-  "total_missing": 73257,
+  "generated_at": "2026-09-15T09:11:42.505Z",
+  "total_missing": 73261,
   "games": [
     {
       "igdb_id": 306086,
@@ -5126,11 +5126,6 @@
       "igdb_id": 377042,
       "game_name": "After the Curtain Call",
       "file": "missing/A/377042-after-the-curtain-call.json"
-    },
-    {
-      "igdb_id": 183009,
-      "game_name": "After the End with Miaobot",
-      "file": "missing/A/183009-after-the-end-with-miaobot.json"
     },
     {
       "igdb_id": 119330,
@@ -23216,6 +23211,11 @@
       "igdb_id": 379998,
       "game_name": "Bad Trip",
       "file": "missing/B/379998-bad-trip.json"
+    },
+    {
+      "igdb_id": 361788,
+      "game_name": "Bad Vaxx",
+      "file": "missing/B/361788-bad-vaxx.json"
     },
     {
       "igdb_id": 189204,
@@ -121198,6 +121198,11 @@
       "file": "missing/G/261783-goblin-survivors.json"
     },
     {
+      "igdb_id": 361792,
+      "game_name": "Goblin Sushi",
+      "file": "missing/G/361792-goblin-sushi.json"
+    },
+    {
       "igdb_id": 172163,
       "game_name": "Goblin Takes No Argument[s]",
       "file": "missing/G/172163-goblin-takes-no-argument-s.json"
@@ -175111,6 +175116,11 @@
       "igdb_id": 301254,
       "game_name": "Machine Challenger",
       "file": "missing/M/301254-machine-challenger.json"
+    },
+    {
+      "igdb_id": 361793,
+      "game_name": "Machine Craft: Scrap Survival",
+      "file": "missing/M/361793-machine-craft-scrap-survival.json"
     },
     {
       "igdb_id": 221751,
@@ -247211,6 +247221,11 @@
       "igdb_id": 81387,
       "game_name": "Revolution",
       "file": "missing/R/81387-revolution.json"
+    },
+    {
+      "igdb_id": 361790,
+      "game_name": "Revolution Editions: Shadow & Steel",
+      "file": "missing/R/361790-revolution-editions-shadow-and-steel.json"
     },
     {
       "igdb_id": 297876,
@@ -366021,6 +366036,11 @@
       "igdb_id": 402944,
       "game_name": "Zoria: Age of Shattering - Ancestors' Weapon Pack",
       "file": "missing/Z/402944-zoria-age-of-shattering-ancestors-weapon-pack.json"
+    },
+    {
+      "igdb_id": 361789,
+      "game_name": "Zorlok",
+      "file": "missing/Z/361789-zorlok.json"
     },
     {
       "igdb_id": 208413,
