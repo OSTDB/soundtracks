@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WhiteJill | 355572 | [355572-whitejill.json](./355572-whitejill.json) |
 | Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
 | Whiteverse: No Country for Old Men | 121690 | [121690-whiteverse-no-country-for-old-men.json](./121690-whiteverse-no-country-for-old-men.json) |
+| WhiteWash | 370774 | [370774-whitewash.json](./370774-whitewash.json) |
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
 | Whizz | 12825 | [12825-whizz.json](./12825-whizz.json) |
 | Who Am I: The Tale of Dorothy | 96654 | [96654-who-am-i-the-tale-of-dorothy.json](./96654-who-am-i-the-tale-of-dorothy.json) |
@@ -1934,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Sea Battle | 59962 | [59962-world-of-sea-battle.json](./59962-world-of-sea-battle.json) |
 | World of Slime | 415114 | [415114-world-of-slime.json](./415114-world-of-slime.json) |
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
+| World Of Sports | 370756 | [370756-world-of-sports.json](./370756-world-of-sports.json) |
 | World of Subways Vol.3: Circle Line | 79924 | [79924-world-of-subways-vol-3-circle-line.json](./79924-world-of-subways-vol-3-circle-line.json) |
 | World of Subways: Volume 1 - The Path | 36284 | [36284-world-of-subways-volume-1-the-path.json](./36284-world-of-subways-volume-1-the-path.json) |
 | World of Subways: Volume 2 - U7 Berlin | 17999 | [17999-world-of-subways-volume-2-u7-berlin.json](./17999-world-of-subways-volume-2-u7-berlin.json) |
