@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanae no Chou Tokkyuu: TheExpressTrial | 206929 | [206929-sanae-no-chou-tokkyuu-theexpresstrial.json](./206929-sanae-no-chou-tokkyuu-theexpresstrial.json) |
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
 | Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
+| Sanatorium | 375324 | [375324-sanatorium.json](./375324-sanatorium.json) |
 | Sanctale | 350431 | [350431-sanctale.json](./350431-sanctale.json) |
 | Sancticide | 291154 | [291154-sancticide.json](./291154-sancticide.json) |
 | Sanction | 203533 | [203533-sanction.json](./203533-sanction.json) |
@@ -1476,6 +1477,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Diary: Futanari Jail | 286533 | [286533-sex-diary-futanari-jail.json](./286533-sex-diary-futanari-jail.json) |
 | Sex Doll K-Pop Idol | 243155 | [243155-sex-doll-k-pop-idol.json](./243155-sex-doll-k-pop-idol.json) |
 | Sex Dorm | 349868 | [349868-sex-dorm.json](./349868-sex-dorm.json) |
+| Sex Game: Naughty Couple - Episode 5 | 375267 | [375267-sex-game-naughty-couple-episode-5.json](./375267-sex-game-naughty-couple-episode-5.json) |
+| Sex Game: Naughty Couple - Episode 6 | 375272 | [375272-sex-game-naughty-couple-episode-6.json](./375272-sex-game-naughty-couple-episode-6.json) |
+| Sex Game: Naughty Girls - Episode 5 | 375270 | [375270-sex-game-naughty-girls-episode-5.json](./375270-sex-game-naughty-girls-episode-5.json) |
+| Sex Game: Naughty Girls - Episode 6 | 375271 | [375271-sex-game-naughty-girls-episode-6.json](./375271-sex-game-naughty-girls-episode-6.json) |
+| Sex Game: Threesome - Episode 4 | 375268 | [375268-sex-game-threesome-episode-4.json](./375268-sex-game-threesome-episode-4.json) |
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
 | Sex Office Story | 171580 | [171580-sex-office-story.json](./171580-sex-office-story.json) |
@@ -2184,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot-No-Shoot | 107805 | [107805-shoot-no-shoot.json](./107805-shoot-no-shoot.json) |
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
+| Shooter95 | 375307 | [375307-shooter95.json](./375307-shooter95.json) |
 | Shooters, Ready! | 335670 | [335670-shooters-ready.json](./335670-shooters-ready.json) |
 | ShootersPool | 123540 | [123540-shooterspool.json](./123540-shooterspool.json) |
 | Shooterspool: Billiards Simulation | 127333 | [127333-shooterspool-billiards-simulation.json](./127333-shooterspool-billiards-simulation.json) |
@@ -4273,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 2: Pink Edition | 43319 | [43319-sonic-the-hedgehog-2-pink-edition.json](./43319-sonic-the-hedgehog-2-pink-edition.json) |
 | Sonic The Hedgehog 2D | 314902 | [314902-sonic-the-hedgehog-2d.json](./314902-sonic-the-hedgehog-2d.json) |
 | Sonic the Hedgehog 3 | 239071 | [239071-sonic-the-hedgehog-3.json](./239071-sonic-the-hedgehog-3.json) |
+| Sonic the Hedgehog 3 | 375301 | [375301-sonic-the-hedgehog-3.json](./375301-sonic-the-hedgehog-3.json) |
 | Sonic the Hedgehog Classic Heroes | 129159 | [129159-sonic-the-hedgehog-classic-heroes.json](./129159-sonic-the-hedgehog-classic-heroes.json) |
 | Sonic the Hedgehog DVD | 334139 | [334139-sonic-the-hedgehog-dvd.json](./334139-sonic-the-hedgehog-dvd.json) |
 | Sonic the Hedgehog Extreme Boarding | 198563 | [198563-sonic-the-hedgehog-extreme-boarding.json](./198563-sonic-the-hedgehog-extreme-boarding.json) |
@@ -5233,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirited Heart Deluxe | 17286 | [17286-spirited-heart-deluxe.json](./17286-spirited-heart-deluxe.json) |
 | Spirited Soul | 61124 | [61124-spirited-soul.json](./61124-spirited-soul.json) |
 | Spiritfall | 188946 | [188946-spiritfall.json](./188946-spiritfall.json) |
+| Spiritfarer: Netflix Edition | 375281 | [375281-spiritfarer-netflix-edition.json](./375281-spiritfarer-netflix-edition.json) |
 | Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
 | Spirits of Lunara | 383364 | [383364-spirits-of-lunara.json](./383364-spirits-of-lunara.json) |
