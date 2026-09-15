@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
 | Warrior Maiden | 210861 | [210861-warrior-maiden.json](./210861-warrior-maiden.json) |
+| Warrior Maiden Lecia and the Lost Fortress | 373646 | [373646-warrior-maiden-lecia-and-the-lost-fortress.json](./373646-warrior-maiden-lecia-and-the-lost-fortress.json) |
 | Warrior Quest | 412378 | [412378-warrior-quest.json](./412378-warrior-quest.json) |
 | Warrior's Reward | 370710 | [370710-warriors-reward.json](./370710-warriors-reward.json) |
 | Warriors | 377151 | [377151-warriors.json](./377151-warriors.json) |
@@ -520,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wastebraver: A Tiny Survival Tale | 207348 | [207348-wastebraver-a-tiny-survival-tale.json](./207348-wastebraver-a-tiny-survival-tale.json) |
 | Wasted | 17925 | [17925-wasted.json](./17925-wasted.json) |
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
+| Wasteland Alone | 373640 | [373640-wasteland-alone.json](./373640-wasteland-alone.json) |
 | Wasteland Angel | 9388 | [9388-wasteland-angel.json](./9388-wasteland-angel.json) |
 | Wasteland Billionaire | 221391 | [221391-wasteland-billionaire.json](./221391-wasteland-billionaire.json) |
 | Wasteland Chronicles | 316648 | [316648-wasteland-chronicles.json](./316648-wasteland-chronicles.json) |
