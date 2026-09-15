@@ -3383,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashing Star | 202855 | [202855-smashing-star.json](./202855-smashing-star.json) |
 | Smashing the Battle Ghost Soul | 165617 | [165617-smashing-the-battle-ghost-soul.json](./165617-smashing-the-battle-ghost-soul.json) |
 | Smashmak | 396422 | [396422-smashmak.json](./396422-smashmak.json) |
+| Smashometry | 378902 | [378902-smashometry.json](./378902-smashometry.json) |
 | Smashpunks | 178088 | [178088-smashpunks.json](./178088-smashpunks.json) |
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
 | Smeesa Street | 239641 | [239641-smeesa-street.json](./239641-smeesa-street.json) |
@@ -6394,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Tales | 34386 | [34386-stone-tales.json](./34386-stone-tales.json) |
 | Stone Wars | 91938 | [91938-stone-wars.json](./91938-stone-wars.json) |
 | Stone Wheel | 246426 | [246426-stone-wheel.json](./246426-stone-wheel.json) |
+| Stonebound | 378924 | [378924-stonebound.json](./378924-stonebound.json) |
 | Stoned | 352202 | [352202-stoned.json](./352202-stoned.json) |
 | Stonefly | 144171 | [144171-stonefly.json](./144171-stonefly.json) |
 | Stoneguard | 285983 | [285983-stoneguard.json](./285983-stoneguard.json) |
@@ -8288,6 +8290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Science: The Girls of Silversee Castle | 239656 | [239656-sweet-science-the-girls-of-silversee-castle.json](./239656-sweet-science-the-girls-of-silversee-castle.json) |
 | Sweet Shine | 159825 | [159825-sweet-shine.json](./159825-sweet-shine.json) |
 | Sweet Sort | 255751 | [255751-sweet-sort.json](./255751-sweet-sort.json) |
+| Sweet Starlight Sisters | 378897 | [378897-sweet-starlight-sisters.json](./378897-sweet-starlight-sisters.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Survival | 392910 | [392910-sweet-survival.json](./392910-sweet-survival.json) |
 | Sweet Survivors: Gold Edition | 385210 | [385210-sweet-survivors-gold-edition.json](./385210-sweet-survivors-gold-edition.json) |
