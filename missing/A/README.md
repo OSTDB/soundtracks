@@ -521,7 +521,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Again | 177548 | [177548-again.json](./177548-again.json) |
 | Against All Odds | 228719 | [228719-against-all-odds.json](./228719-against-all-odds.json) |
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
-| Against Light | 180187 | [180187-against-light.json](./180187-against-light.json) |
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
 | Agalta | 372558 | [372558-agalta.json](./372558-agalta.json) |
 | Agalta II | 372561 | [372561-agalta-ii.json](./372561-agalta-ii.json) |
