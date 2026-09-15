@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Mystic: Enchanted Edition | 378206 | [378206-kid-mystic-enchanted-edition.json](./378206-kid-mystic-enchanted-edition.json) |
 | Kid Niki: Radical Ninja | 39465 | [39465-kid-niki-radical-ninja.json](./39465-kid-niki-radical-ninja.json) |
 | Kid no Hore Hore Daisakusen | 40237 | [40237-kid-no-hore-hore-daisakusen.json](./40237-kid-no-hore-hore-daisakusen.json) |
+| Kid Paddle: Blorks Invasion | 365189 | [365189-kid-paddle-blorks-invasion.json](./365189-kid-paddle-blorks-invasion.json) |
 | Kid Paddle: Lost in the Game | 268186 | [268186-kid-paddle-lost-in-the-game.json](./268186-kid-paddle-lost-in-the-game.json) |
 | Kid Pilot | 375866 | [375866-kid-pilot.json](./375866-kid-pilot.json) |
 | Kid Speedy | 135867 | [135867-kid-speedy.json](./135867-kid-speedy.json) |
