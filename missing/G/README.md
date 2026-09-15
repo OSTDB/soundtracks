@@ -1655,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonya Fighter: Jiggly Haptic Edition | 146316 | [146316-goonya-fighter-jiggly-haptic-edition.json](./146316-goonya-fighter-jiggly-haptic-edition.json) |
 | Goonya Monster: Battle Pass - Eternal Pass + Infinity Cookie | 301019 | [301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json](./301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json) |
 | Goop Snake | 364564 | [364564-goop-snake.json](./364564-goop-snake.json) |
+| Goos Hunt | 337182 | [337182-goos-hunt.json](./337182-goos-hunt.json) |
 | Goose Goose Duck | 144442 | [144442-goose-goose-duck.json](./144442-goose-goose-duck.json) |
 | Goose Simulator | 199063 | [199063-goose-simulator.json](./199063-goose-simulator.json) |
 | Goose.io | 130858 | [130858-goose-io.json](./130858-goose-io.json) |
