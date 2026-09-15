@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Plum Grove: Deluxe Edition | 401668 | [401668-echoes-of-the-plum-grove-deluxe-edition.json](./401668-echoes-of-the-plum-grove-deluxe-edition.json) |
 | Echoes of the Scourge | 398979 | [398979-echoes-of-the-scourge.json](./398979-echoes-of-the-scourge.json) |
 | Echoes of the Woods | 303512 | [303512-echoes-of-the-woods.json](./303512-echoes-of-the-woods.json) |
+| Echoes of Tomorrow | 369643 | [369643-echoes-of-tomorrow.json](./369643-echoes-of-tomorrow.json) |
 | Echoes of Undeath | 355019 | [355019-echoes-of-undeath.json](./355019-echoes-of-undeath.json) |
 | Echoes of Vision | 321776 | [321776-echoes-of-vision.json](./321776-echoes-of-vision.json) |
 | Echoes of You | 252365 | [252365-echoes-of-you.json](./252365-echoes-of-you.json) |
@@ -274,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Tactics | 325448 | [325448-eden-tactics.json](./325448-eden-tactics.json) |
 | Eden Warrior | 303506 | [303506-eden-warrior.json](./303506-eden-warrior.json) |
 | Eden: A Genesis Through Time | 290722 | [290722-eden-a-genesis-through-time.json](./290722-eden-a-genesis-through-time.json) |
+| Eden: New Dawn | 369642 | [369642-eden-new-dawn.json](./369642-eden-new-dawn.json) |
 | Eden.schemata(); | 151707 | [151707-eden-schemata.json](./151707-eden-schemata.json) |
 | Eden's Inferno | 353304 | [353304-edens-inferno.json](./353304-edens-inferno.json) |
 | Eden's Last Sunrise | 190187 | [190187-edens-last-sunrise.json](./190187-edens-last-sunrise.json) |
