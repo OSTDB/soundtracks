@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Caliber Dash | 334119 | [334119-100-caliber-dash.json](./334119-100-caliber-dash.json) |
 | 100 Camp Cats | 351684 | [351684-100-camp-cats.json](./351684-100-camp-cats.json) |
 | 100 Candy Cats | 347753 | [347753-100-candy-cats.json](./347753-100-candy-cats.json) |
+| 100 Cats Istanbul | 334173 | [334173-100-cats-istanbul.json](./334173-100-cats-istanbul.json) |
 | 100 China Cats | 315289 | [315289-100-china-cats.json](./315289-100-china-cats.json) |
 | 100 Christmas Hidden Cats | 378185 | [378185-100-christmas-hidden-cats.json](./378185-100-christmas-hidden-cats.json) |
 | 100 Classic Book Collection | 47939 | [47939-100-classic-book-collection.json](./47939-100-classic-book-collection.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball Pool | 39185 | [39185-8-ball-pool.json](./39185-8-ball-pool.json) |
 | 8 Bit Fighters | 233495 | [233495-8-bit-fighters.json](./233495-8-bit-fighters.json) |
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
+| 8 Yous+ | 334089 | [334089-8-yous.json](./334089-8-yous.json) |
 | 8-Bit Complete Collection | 52540 | [52540-8-bit-complete-collection.json](./52540-8-bit-complete-collection.json) |
 | 8-Bit Hordes | 21414 | [21414-8-bit-hordes.json](./21414-8-bit-hordes.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
