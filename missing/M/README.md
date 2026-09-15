@@ -1604,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
 | Mechanic Miner | 77754 | [77754-mechanic-miner.json](./77754-mechanic-miner.json) |
 | Mechanica | 129155 | [129155-mechanica.json](./129155-mechanica.json) |
+| Mechanical Chess: Real-time | 357309 | [357309-mechanical-chess-real-time.json](./357309-mechanical-chess-real-time.json) |
 | Mechanical Gods | 245881 | [245881-mechanical-gods.json](./245881-mechanical-gods.json) |
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
 | Mechanical Violator Hakaider: Last Judgement | 66147 | [66147-mechanical-violator-hakaider-last-judgement.json](./66147-mechanical-violator-hakaider-last-judgement.json) |
@@ -1629,7 +1630,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 4: Clan 'Mech Pak | 78009 | [78009-mechwarrior-4-clan-mech-pak.json](./78009-mechwarrior-4-clan-mech-pak.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
 | MechWarrior 5: Mercenaries - Chaos Reign | 402396 | [402396-mechwarrior-5-mercenaries-chaos-reign.json](./402396-mechwarrior-5-mercenaries-chaos-reign.json) |
+| MechWarrior Online: Apache Legendary Mech Pack | 357326 | [357326-mechwarrior-online-apache-legendary-mech-pack.json](./357326-mechwarrior-online-apache-legendary-mech-pack.json) |
+| MechWarrior Online: Argent Legendary Mech Pack | 357327 | [357327-mechwarrior-online-argent-legendary-mech-pack.json](./357327-mechwarrior-online-argent-legendary-mech-pack.json) |
+| MechWarrior Online: Arges Legendary Mech Pack | 357339 | [357339-mechwarrior-online-arges-legendary-mech-pack.json](./357339-mechwarrior-online-arges-legendary-mech-pack.json) |
 | MechWarrior Online: Black Hawk-Ku Mech Pack | 305533 | [305533-mechwarrior-online-black-hawk-ku-mech-pack.json](./305533-mechwarrior-online-black-hawk-ku-mech-pack.json) |
+| MechWarrior Online: Blight Legendary Mech Pack | 357329 | [357329-mechwarrior-online-blight-legendary-mech-pack.json](./357329-mechwarrior-online-blight-legendary-mech-pack.json) |
+| MechWarrior Online: Desperada Legendary Mech Pack | 357338 | [357338-mechwarrior-online-desperada-legendary-mech-pack.json](./357338-mechwarrior-online-desperada-legendary-mech-pack.json) |
+| MechWarrior Online: Gauntlet Mech Pack | 357320 | [357320-mechwarrior-online-gauntlet-mech-pack.json](./357320-mechwarrior-online-gauntlet-mech-pack.json) |
+| MechWarrior Online: Gausszilla Legendary Mech Pack | 357341 | [357341-mechwarrior-online-gausszilla-legendary-mech-pack.json](./357341-mechwarrior-online-gausszilla-legendary-mech-pack.json) |
+| MechWarrior Online: Hashké and Abaddon Legendary Mech Pack | 357330 | [357330-mechwarrior-online-hashke-and-abaddon-legendary-mech-pack.json](./357330-mechwarrior-online-hashke-and-abaddon-legendary-mech-pack.json) |
+| MechWarrior Online: Moonwalker Legendary Mech Pack | 357331 | [357331-mechwarrior-online-moonwalker-legendary-mech-pack.json](./357331-mechwarrior-online-moonwalker-legendary-mech-pack.json) |
+| MechWarrior Online: Naomi Legendary Mech Pack | 357325 | [357325-mechwarrior-online-naomi-legendary-mech-pack.json](./357325-mechwarrior-online-naomi-legendary-mech-pack.json) |
+| MechWarrior Online: Noble Legendary Mech Pack | 357321 | [357321-mechwarrior-online-noble-legendary-mech-pack.json](./357321-mechwarrior-online-noble-legendary-mech-pack.json) |
+| MechWarrior Online: Red Reaper II Legendary Mech Pack | 357328 | [357328-mechwarrior-online-red-reaper-ii-legendary-mech-pack.json](./357328-mechwarrior-online-red-reaper-ii-legendary-mech-pack.json) |
+| MechWarrior Online: Sigma Legendary Mech Pack | 357322 | [357322-mechwarrior-online-sigma-legendary-mech-pack.json](./357322-mechwarrior-online-sigma-legendary-mech-pack.json) |
+| MechWarrior Online: Spectre Legendary Mech Pack | 357324 | [357324-mechwarrior-online-spectre-legendary-mech-pack.json](./357324-mechwarrior-online-spectre-legendary-mech-pack.json) |
+| MechWarrior Online: Spitfire Legendary Mech Pack | 357343 | [357343-mechwarrior-online-spitfire-legendary-mech-pack.json](./357343-mechwarrior-online-spitfire-legendary-mech-pack.json) |
+| MechWarrior Online: Starshot Legendary Mech Pack | 357323 | [357323-mechwarrior-online-starshot-legendary-mech-pack.json](./357323-mechwarrior-online-starshot-legendary-mech-pack.json) |
+| MechWarrior Online: Stone Crusher Legendary Mech Pack | 357340 | [357340-mechwarrior-online-stone-crusher-legendary-mech-pack.json](./357340-mechwarrior-online-stone-crusher-legendary-mech-pack.json) |
 | MechWarrior Tactics | 94184 | [94184-mechwarrior-tactics.json](./94184-mechwarrior-tactics.json) |
 | MechWarrior: Living Legends | 51237 | [51237-mechwarrior-living-legends.json](./51237-mechwarrior-living-legends.json) |
 | Medabots 4 | 55141 | [55141-medabots-4.json](./55141-medabots-4.json) |
@@ -1776,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network Chrono X | 137585 | [137585-mega-man-battle-network-chrono-x.json](./137585-mega-man-battle-network-chrono-x.json) |
 | Mega Man Battle Network Legacy Collection | 206810 | [206810-mega-man-battle-network-legacy-collection.json](./206810-mega-man-battle-network-legacy-collection.json) |
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
+| Mega Man DOS Remake | 357337 | [357337-mega-man-dos-remake.json](./357337-mega-man-dos-remake.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
 | Mega Man Legends 3 Project | 78003 | [78003-mega-man-legends-3-project.json](./78003-mega-man-legends-3-project.json) |
 | Mega Man Network Transmission | 1766 | [1766-mega-man-network-transmission.json](./1766-mega-man-network-transmission.json) |
