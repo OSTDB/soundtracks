@@ -141,6 +141,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Rose in the Twilight | 52042 | [52042-a-rose-in-the-twilight.json](./52042-a-rose-in-the-twilight.json) |
 | A Rose in the Twilight: Digital Bloodlust Edition | 52564 | [52564-a-rose-in-the-twilight-digital-bloodlust-edition.json](./52564-a-rose-in-the-twilight-digital-bloodlust-edition.json) |
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
+| A Sexy Tour With Marie | 368576 | [368576-a-sexy-tour-with-marie.json](./368576-a-sexy-tour-with-marie.json) |
+| A Sexy Tour With Stella | 368573 | [368573-a-sexy-tour-with-stella.json](./368573-a-sexy-tour-with-stella.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
 | A Shooty Bit | 32977 | [32977-a-shooty-bit.json](./32977-a-shooty-bit.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
@@ -336,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Dummy | 110387 | [110387-achievement-dummy.json](./110387-achievement-dummy.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
 | Achievement Lurker: Easiest Cosmetic Numbers | 90120 | [90120-achievement-lurker-easiest-cosmetic-numbers.json](./90120-achievement-lurker-easiest-cosmetic-numbers.json) |
+| Achievement Monster | 368535 | [368535-achievement-monster.json](./368535-achievement-monster.json) |
 | Achilles vs. Turtles | 183020 | [183020-achilles-vs-turtles.json](./183020-achilles-vs-turtles.json) |
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
@@ -2595,6 +2598,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arch Rivals | 4515 | [4515-arch-rivals.json](./4515-arch-rivals.json) |
 | Arch Virtual HQ | 105888 | [105888-arch-virtual-hq.json](./105888-arch-virtual-hq.json) |
 | Archaeogem | 219060 | [219060-archaeogem.json](./219060-archaeogem.json) |
+| Archaeology: Grass Farm | 368559 | [368559-archaeology-grass-farm.json](./368559-archaeology-grass-farm.json) |
+| Archaeology: Grass Kingdom | 368562 | [368562-archaeology-grass-kingdom.json](./368562-archaeology-grass-kingdom.json) |
 | Archangel | 26504 | [26504-archangel.json](./26504-archangel.json) |
 | Archangel | 74276 | [74276-archangel.json](./74276-archangel.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
