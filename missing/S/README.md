@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
 | Sir Fallen: Supporter Pack | 312008 | [312008-sir-fallen-supporter-pack.json](./312008-sir-fallen-supporter-pack.json) |
 | Sir Fred | 270668 | [270668-sir-fred.json](./270668-sir-fred.json) |
+| Sir Noggin | 376556 | [376556-sir-noggin.json](./376556-sir-noggin.json) |
 | Sir Stretchalot: The Plight of the Elves | 216227 | [216227-sir-stretchalot-the-plight-of-the-elves.json](./216227-sir-stretchalot-the-plight-of-the-elves.json) |
 | Sir Whoopass & Switchball HD Bundle | 244792 | [244792-sir-whoopass-and-switchball-hd-bundle.json](./244792-sir-whoopass-and-switchball-hd-bundle.json) |
 | Sir! I'd Like to Report a Bug! | 34702 | [34702-sir-id-like-to-report-a-bug.json](./34702-sir-id-like-to-report-a-bug.json) |
@@ -3680,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
 | Snow World | 176972 | [176972-snow-world.json](./176972-snow-world.json) |
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
+| Snow! | 376566 | [376566-snow.json](./376566-snow.json) |
 | SnowBall Champions | 239632 | [239632-snowball-champions.json](./239632-snowball-champions.json) |
 | Snowball Fall Down | 208622 | [208622-snowball-fall-down.json](./208622-snowball-fall-down.json) |
 | Snowball Fight | 397795 | [397795-snowball-fight.json](./397795-snowball-fight.json) |
@@ -5351,6 +5353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Ultra Ultimate | 328829 | [328829-sport-and-fun-swimming-ultra-ultimate.json](./328829-sport-and-fun-swimming-ultra-ultimate.json) |
 | Sport Freaks | 45906 | [45906-sport-freaks.json](./45906-sport-freaks.json) |
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
+| Sportaldislexicartaphobia | 376533 | [376533-sportaldislexicartaphobia.json](./376533-sportaldislexicartaphobia.json) |
 | Sportball Challenge | 54394 | [54394-sportball-challenge.json](./54394-sportball-challenge.json) |
 | Sportfischen Professional | 130851 | [130851-sportfischen-professional.json](./130851-sportfischen-professional.json) |
 | Sporting Triangles | 72062 | [72062-sporting-triangles.json](./72062-sporting-triangles.json) |
@@ -8287,6 +8290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweatshop HD | 15448 | [15448-sweatshop-hd.json](./15448-sweatshop-hd.json) |
 | Sweeky Land | 145608 | [145608-sweeky-land.json](./145608-sweeky-land.json) |
 | Sweep | 163964 | [163964-sweep.json](./163964-sweep.json) |
+| Sweep Strike | 376540 | [376540-sweep-strike.json](./376540-sweep-strike.json) |
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
 | Sweepminer | 377044 | [377044-sweepminer.json](./377044-sweepminer.json) |
 | Sweet Adventure | 392916 | [392916-sweet-adventure.json](./392916-sweet-adventure.json) |
