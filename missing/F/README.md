@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight the Landlord | 165017 | [165017-fight-the-landlord.json](./165017-fight-the-landlord.json) |
 | Fight To The Death | 288200 | [288200-fight-to-the-death.json](./288200-fight-to-the-death.json) |
 | Fight Until Death | 219783 | [219783-fight-until-death.json](./219783-fight-until-death.json) |
+| Fight With Valkyries | 368565 | [368565-fight-with-valkyries.json](./368565-fight-with-valkyries.json) |
 | Fight'N Rage | 59573 | [59573-fightn-rage.json](./59573-fightn-rage.json) |
 | FightBit | 250956 | [250956-fightbit.json](./250956-fightbit.json) |
 | FightBots | 259859 | [259859-fightbots.json](./259859-fightbots.json) |
