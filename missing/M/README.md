@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megachud | 349946 | [349946-megachud.json](./349946-megachud.json) |
 | Megacobra vs. Sharkbat | 368563 | [368563-megacobra-vs-sharkbat.json](./368563-megacobra-vs-sharkbat.json) |
 | Megacop | 117663 | [117663-megacop.json](./117663-megacop.json) |
+| Megadeka | 344474 | [344474-megadeka.json](./344474-megadeka.json) |
 | Megadimension Neptunia VII: Party Character - God Eater | 238177 | [238177-megadimension-neptunia-vii-party-character-god-eater.json](./238177-megadimension-neptunia-vii-party-character-god-eater.json) |
 | Megadimension Neptunia VII: Party Character - Nitroplus | 238178 | [238178-megadimension-neptunia-vii-party-character-nitroplus.json](./238178-megadimension-neptunia-vii-party-character-nitroplus.json) |
 | Megadimension Neptunia VII: Party Character - Umio & Nepgya | 238179 | [238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json](./238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json) |
@@ -2333,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteoroids | 307592 | [307592-meteoroids.json](./307592-meteoroids.json) |
 | Meteors | 13737 | [13737-meteors.json](./13737-meteors.json) |
 | Meteos | 1165 | [1165-meteos.json](./1165-meteos.json) |
+| Meteos Astro Blocks | 344473 | [344473-meteos-astro-blocks.json](./344473-meteos-astro-blocks.json) |
 | Method of Entry | 329369 | [329369-method-of-entry.json](./329369-method-of-entry.json) |
 | Methods 4: The Best Detective | 322596 | [322596-methods-4-the-best-detective.json](./322596-methods-4-the-best-detective.json) |
 | Methods: Detective Competition | 319558 | [319558-methods-detective-competition.json](./319558-methods-detective-competition.json) |
