@@ -567,7 +567,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
 | Age of Respair | 350402 | [350402-age-of-respair.json](./350402-age-of-respair.json) |
-| Age of Sail | 9430 | [9430-age-of-sail.json](./9430-age-of-sail.json) |
 | Age of Sail II: Privateer's Bounty | 9429 | [9429-age-of-sail-ii-privateers-bounty.json](./9429-age-of-sail-ii-privateers-bounty.json) |
 | Age of Solitaire: Build Civilization | 211422 | [211422-age-of-solitaire-build-civilization.json](./211422-age-of-solitaire-build-civilization.json) |
 | Age of Trades | 176477 | [176477-age-of-trades.json](./176477-age-of-trades.json) |
