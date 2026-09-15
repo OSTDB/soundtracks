@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Box Simulator: Crimson Fire | 232983 | [232983-loot-box-simulator-crimson-fire.json](./232983-loot-box-simulator-crimson-fire.json) |
 | Loot Box Simulator: Heroes of the Dark Age | 232984 | [232984-loot-box-simulator-heroes-of-the-dark-age.json](./232984-loot-box-simulator-heroes-of-the-dark-age.json) |
 | Loot Box Simulator: RPG Anime Girls | 216225 | [216225-loot-box-simulator-rpg-anime-girls.json](./216225-loot-box-simulator-rpg-anime-girls.json) |
+| Loot Goblin Inc. | 337672 | [337672-loot-goblin-inc.json](./337672-loot-goblin-inc.json) |
 | Loot Goblin: An Idle Adventure | 389592 | [389592-loot-goblin-an-idle-adventure.json](./389592-loot-goblin-an-idle-adventure.json) |
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
 | Loot Loop | 391204 | [391204-loot-loop.json](./391204-loot-loop.json) |
