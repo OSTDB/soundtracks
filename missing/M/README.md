@@ -2726,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Norse Mythology Bonus Skins | 322957 | [322957-minecraft-norse-mythology-bonus-skins.json](./322957-minecraft-norse-mythology-bonus-skins.json) |
 | Minecraft: Ocean Heroes | 347685 | [347685-minecraft-ocean-heroes.json](./347685-minecraft-ocean-heroes.json) |
 | Minecraft: Operation Aorta | 324882 | [324882-minecraft-operation-aorta.json](./324882-minecraft-operation-aorta.json) |
+| Minecraft: Owls Add-On | 370764 | [370764-minecraft-owls-add-on.json](./370764-minecraft-owls-add-on.json) |
 | Minecraft: Phantom Frames | 324890 | [324890-minecraft-phantom-frames.json](./324890-minecraft-phantom-frames.json) |
 | Minecraft: Plastic Texture Pack | 255347 | [255347-minecraft-plastic-texture-pack.json](./255347-minecraft-plastic-texture-pack.json) |
 | Minecraft: Power Grid Hero | 315516 | [315516-minecraft-power-grid-hero.json](./315516-minecraft-power-grid-hero.json) |
@@ -4832,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mygnar | 151130 | [151130-mygnar.json](./151130-mygnar.json) |
 | Myha: Return to the Lost Island | 116558 | [116558-myha-return-to-the-lost-island.json](./116558-myha-return-to-the-lost-island.json) |
 | MyHoriZen | 153935 | [153935-myhorizen.json](./153935-myhorizen.json) |
+| MyKonami Slots | 370753 | [370753-mykonami-slots.json](./370753-mykonami-slots.json) |
 | Myles Wright: Ace Attorney | 303775 | [303775-myles-wright-ace-attorney.json](./303775-myles-wright-ace-attorney.json) |
 | Mylk | 146830 | [146830-mylk.json](./146830-mylk.json) |
 | Mylo uronil | 110143 | [110143-mylo-uronil.json](./110143-mylo-uronil.json) |
@@ -5012,4 +5014,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Spirit Wolf - Collector's Edition | 83555 | [83555-myths-of-the-world-spirit-wolf-collectors-edition.json](./83555-myths-of-the-world-spirit-wolf-collectors-edition.json) |
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
 | Mytran Wars | 19202 | [19202-mytran-wars.json](./19202-mytran-wars.json) |
+| MyVegas Blackjack | 370751 | [370751-myvegas-blackjack.json](./370751-myvegas-blackjack.json) |
 | MyVegas Slots | 323168 | [323168-myvegas-slots.json](./323168-myvegas-slots.json) |
