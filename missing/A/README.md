@@ -513,7 +513,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermath | 35770 | [35770-aftermath.json](./35770-aftermath.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
-| Afterslave | 210857 | [210857-afterslave.json](./210857-afterslave.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
 | AfterZoom | 84884 | [84884-afterzoom.json](./84884-afterzoom.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
