@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Game | 269021 | [269021-fish-game.json](./269021-fish-game.json) |
 | Fish Game | 381020 | [381020-fish-game.json](./381020-fish-game.json) |
 | Fish Heroes | 237367 | [237367-fish-heroes.json](./237367-fish-heroes.json) |
+| Fish Hunters: The Most Ridiculous Fishing Simulator | 337714 | [337714-fish-hunters-the-most-ridiculous-fishing-simulator.json](./337714-fish-hunters-the-most-ridiculous-fishing-simulator.json) |
 | Fish Idle 2: Underwater Mystery | 304607 | [304607-fish-idle-2-underwater-mystery.json](./304607-fish-idle-2-underwater-mystery.json) |
 | Fish Kingdoms | 231938 | [231938-fish-kingdoms.json](./231938-fish-kingdoms.json) |
 | Fish Kiss | 184088 | [184088-fish-kiss.json](./184088-fish-kiss.json) |
@@ -1905,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip of Light | 185119 | [185119-flip-of-light.json](./185119-flip-of-light.json) |
 | Flip or Flop: Home Edition | 209453 | [209453-flip-or-flop-home-edition.json](./209453-flip-or-flop-home-edition.json) |
 | Flip Out | 79314 | [79314-flip-out.json](./79314-flip-out.json) |
+| Flip Out Rush | 337724 | [337724-flip-out-rush.json](./337724-flip-out-rush.json) |
 | Flip Out! | 40799 | [40799-flip-out.json](./40799-flip-out.json) |
 | Flip Tale | 133381 | [133381-flip-tale.json](./133381-flip-tale.json) |
 | Flip Trickster | 89215 | [89215-flip-trickster.json](./89215-flip-trickster.json) |
@@ -2928,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
+| Frog Legs | 337730 | [337730-frog-legs.json](./337730-frog-legs.json) |
 | Frog Minutes | 66061 | [66061-frog-minutes.json](./66061-frog-minutes.json) |
 | Frog Odyssey | 369622 | [369622-frog-odyssey.json](./369622-frog-odyssey.json) |
 | Frog on Ice | 100884 | [100884-frog-on-ice.json](./100884-frog-on-ice.json) |
