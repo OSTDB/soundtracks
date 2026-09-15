@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banner Kings | 356153 | [356153-banner-kings.json](./356153-banner-kings.json) |
 | Banner of the Maid: Miss Elisa's Journal | 169950 | [169950-banner-of-the-maid-miss-elisas-journal.json](./169950-banner-of-the-maid-miss-elisas-journal.json) |
 | Banner of the Maid: The Oriental Pirate | 169949 | [169949-banner-of-the-maid-the-oriental-pirate.json](./169949-banner-of-the-maid-the-oriental-pirate.json) |
+| BannerBound | 345032 | [345032-bannerbound.json](./345032-bannerbound.json) |
 | Banneret | 398398 | [398398-banneret.json](./398398-banneret.json) |
 | Bannerlands | 413683 | [413683-bannerlands.json](./413683-bannerlands.json) |
 | Bannerman | 70395 | [70395-bannerman.json](./70395-bannerman.json) |
@@ -1105,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlejack: Blackjack RPG | 91992 | [91992-battlejack-blackjack-rpg.json](./91992-battlejack-blackjack-rpg.json) |
 | Battlemals | 26695 | [26695-battlemals.json](./26695-battlemals.json) |
 | Battlemaster | 11947 | [11947-battlemaster.json](./11947-battlemaster.json) |
+| Battlement | 345010 | [345010-battlement.json](./345010-battlement.json) |
 | Battlemon | 359514 | [359514-battlemon.json](./359514-battlemon.json) |
 | Battlemon League | 100933 | [100933-battlemon-league.json](./100933-battlemon-league.json) |
 | BattleMore | 111689 | [111689-battlemore.json](./111689-battlemore.json) |
@@ -1251,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearslayer | 33059 | [33059-bearslayer.json](./33059-bearslayer.json) |
 | Bearstone Campsite | 346607 | [346607-bearstone-campsite.json](./346607-bearstone-campsite.json) |
 | Beast Agenda 2030 | 106539 | [106539-beast-agenda-2030.json](./106539-beast-agenda-2030.json) |
+| Beast and Cleaver | 345021 | [345021-beast-and-cleaver.json](./345021-beast-and-cleaver.json) |
 | Beast and Princess | 136469 | [136469-beast-and-princess.json](./136469-beast-and-princess.json) |
 | Beast and Princess: In Blossom | 136470 | [136470-beast-and-princess-in-blossom.json](./136470-beast-and-princess-in-blossom.json) |
 | Beast Bastion | 405588 | [405588-beast-bastion.json](./405588-beast-bastion.json) |
@@ -1810,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Klondike: FreeCell Solitaire | 289855 | [289855-big-klondike-freecell-solitaire.json](./289855-big-klondike-freecell-solitaire.json) |
 | Big League Slugger Baseball | 43878 | [43878-big-league-slugger-baseball.json](./43878-big-league-slugger-baseball.json) |
 | Big League Sports | 20223 | [20223-big-league-sports.json](./20223-big-league-sports.json) |
+| Big Loot | 345048 | [345048-big-loot.json](./345048-big-loot.json) |
 | Big Mac: The Mad Maintenance Man | 47221 | [47221-big-mac-the-mad-maintenance-man.json](./47221-big-mac-the-mad-maintenance-man.json) |
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
 | Big Names Bonanza | 19683 | [19683-big-names-bonanza.json](./19683-big-names-bonanza.json) |
