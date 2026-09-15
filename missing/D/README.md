@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dante's Inferno: Trials of St. Lucia | 21747 | [21747-dantes-inferno-trials-of-st-lucia.json](./21747-dantes-inferno-trials-of-st-lucia.json) |
 | Dantes Bullet Inferno | 129749 | [129749-dantes-bullet-inferno.json](./129749-dantes-bullet-inferno.json) |
 | Danzai no Maria: The Exorcism of Maria | 72647 | [72647-danzai-no-maria-the-exorcism-of-maria.json](./72647-danzai-no-maria-the-exorcism-of-maria.json) |
+| Danzai Shitsu II | 358414 | [358414-danzai-shitsu-ii.json](./358414-danzai-shitsu-ii.json) |
 | Dāo Qūqū | 374621 | [374621-dao-ququ.json](./374621-dao-ququ.json) |
 | Darco: Reign of Elements | 90092 | [90092-darco-reign-of-elements.json](./90092-darco-reign-of-elements.json) |
 | Dardeep | 232967 | [232967-dardeep.json](./232967-dardeep.json) |
@@ -734,8 +735,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Hellraiser Chapter | 167819 | [167819-dead-by-daylight-hellraiser-chapter.json](./167819-dead-by-daylight-hellraiser-chapter.json) |
 | Dead by Daylight: Macabre Tales Pack | 283186 | [283186-dead-by-daylight-macabre-tales-pack.json](./283186-dead-by-daylight-macabre-tales-pack.json) |
 | Dead by Daylight: Old Wounds Pack | 283185 | [283185-dead-by-daylight-old-wounds-pack.json](./283185-dead-by-daylight-old-wounds-pack.json) |
+| Dead by Daylight: Resident Evil - Chris Redfield | 358419 | [358419-dead-by-daylight-resident-evil-chris-redfield.json](./358419-dead-by-daylight-resident-evil-chris-redfield.json) |
+| Dead by Daylight: Resident Evil - Claire Redfield | 358416 | [358416-dead-by-daylight-resident-evil-claire-redfield.json](./358416-dead-by-daylight-resident-evil-claire-redfield.json) |
+| Dead by Daylight: Resident Evil - Sheva Alomar | 358418 | [358418-dead-by-daylight-resident-evil-sheva-alomar.json](./358418-dead-by-daylight-resident-evil-sheva-alomar.json) |
 | Dead by Daylight: Roots of Dread | 203959 | [203959-dead-by-daylight-roots-of-dread.json](./203959-dead-by-daylight-roots-of-dread.json) |
+| Dead by Daylight: Silent Hill - Cybil Bennett | 358413 | [358413-dead-by-daylight-silent-hill-cybil-bennett.json](./358413-dead-by-daylight-silent-hill-cybil-bennett.json) |
+| Dead by Daylight: Silent Hill - James Sunderland | 358415 | [358415-dead-by-daylight-silent-hill-james-sunderland.json](./358415-dead-by-daylight-silent-hill-james-sunderland.json) |
+| Dead by Daylight: Silent Hill - Lisa Garland | 358411 | [358411-dead-by-daylight-silent-hill-lisa-garland.json](./358411-dead-by-daylight-silent-hill-lisa-garland.json) |
 | Dead by Daylight: Silent Hill Edition | 139976 | [139976-dead-by-daylight-silent-hill-edition.json](./139976-dead-by-daylight-silent-hill-edition.json) |
+| Dead by Daylight: Stranger Things - Jonathan Byers | 358410 | [358410-dead-by-daylight-stranger-things-jonathan-byers.json](./358410-dead-by-daylight-stranger-things-jonathan-byers.json) |
+| Dead by Daylight: The Walking Dead | 358407 | [358407-dead-by-daylight-the-walking-dead.json](./358407-dead-by-daylight-the-walking-dead.json) |
+| Dead by Daylight: The Walking Dead - Daryl Dixon | 358409 | [358409-dead-by-daylight-the-walking-dead-daryl-dixon.json](./358409-dead-by-daylight-the-walking-dead-daryl-dixon.json) |
 | Dead by Wheel: Battle Royal | 109718 | [109718-dead-by-wheel-battle-royal.json](./109718-dead-by-wheel-battle-royal.json) |
 | Dead by zero | 95996 | [95996-dead-by-zero.json](./95996-dead-by-zero.json) |
 | Dead Cells: Everyone is Here! | 221962 | [221962-dead-cells-everyone-is-here.json](./221962-dead-cells-everyone-is-here.json) |
@@ -1596,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Rigs | 134060 | [134060-desert-rigs.json](./134060-desert-rigs.json) |
 | Desert Rush | 265430 | [265430-desert-rush.json](./265430-desert-rush.json) |
 | Desert Storm | 270687 | [270687-desert-storm.json](./270687-desert-storm.json) |
+| Desert Thunder | 358380 | [358380-desert-thunder.json](./358380-desert-thunder.json) |
 | Desert Tycoon | 256251 | [256251-desert-tycoon.json](./256251-desert-tycoon.json) |
 | Deserted Island | 138823 | [138823-deserted-island.json](./138823-deserted-island.json) |
 | Deserter Simulator | 34791 | [34791-deserter-simulator.json](./34791-deserter-simulator.json) |
@@ -1676,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Limited Edition | 132151 | [132151-destiny-2-limited-edition.json](./132151-destiny-2-limited-edition.json) |
 | Destiny 2: The Witch Queen - Season of the Seraph | 228435 | [228435-destiny-2-the-witch-queen-season-of-the-seraph.json](./228435-destiny-2-the-witch-queen-season-of-the-seraph.json) |
 | Destiny Chaser | 114413 | [114413-destiny-chaser.json](./114413-destiny-chaser.json) |
+| Destiny Code | 358379 | [358379-destiny-code.json](./358379-destiny-code.json) |
 | Destiny Connect: Tick-Tock Travelers | 112082 | [112082-destiny-connect-tick-tock-travelers.json](./112082-destiny-connect-tick-tock-travelers.json) |
 | Destiny Duel | 236546 | [236546-destiny-duel.json](./236546-destiny-duel.json) |
 | Destiny Is Dice | 368043 | [368043-destiny-is-dice.json](./368043-destiny-is-dice.json) |
@@ -2131,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
 | Dinobreak: Gaiden Collection | 334111 | [334111-dinobreak-gaiden-collection.json](./334111-dinobreak-gaiden-collection.json) |
 | Dinofurie | 332417 | [332417-dinofurie.json](./332417-dinofurie.json) |
+| DinoGore | 358348 | [358348-dinogore.json](./358348-dinogore.json) |
 | Dinogotchi | 173311 | [173311-dinogotchi.json](./173311-dinogotchi.json) |
 | DinoKnights | 107802 | [107802-dinoknights.json](./107802-dinoknights.json) |
 | Dinoku | 83533 | [83533-dinoku.json](./83533-dinoku.json) |
@@ -3237,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Racer: Pro Tuner | 63250 | [63250-drag-racer-pro-tuner.json](./63250-drag-racer-pro-tuner.json) |
 | Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
 | Dragenas | 297804 | [297804-dragenas.json](./297804-dragenas.json) |
+| Dragged Deep | 358364 | [358364-dragged-deep.json](./358364-dragged-deep.json) |
 | DragKnockFight | 218124 | [218124-dragknockfight.json](./218124-dragknockfight.json) |
 | Dragluttony | 190230 | [190230-dragluttony.json](./190230-dragluttony.json) |
 | Drago Noka | 203939 | [203939-drago-noka.json](./203939-drago-noka.json) |
@@ -3970,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Due to Rain | 309343 | [309343-due-to-rain.json](./309343-due-to-rain.json) |
 | Duel | 181915 | [181915-duel.json](./181915-duel.json) |
 | Duel Arms | 100744 | [100744-duel-arms.json](./100744-duel-arms.json) |
+| Duel Champions | 358362 | [358362-duel-champions.json](./358362-duel-champions.json) |
 | Duel Jousting | 75770 | [75770-duel-jousting.json](./75770-duel-jousting.json) |
 | Duel Masters: Shadow of the Code | 49402 | [49402-duel-masters-shadow-of-the-code.json](./49402-duel-masters-shadow-of-the-code.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
