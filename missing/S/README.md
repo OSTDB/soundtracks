@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saku Saku: Love Blooms with the Cherry Blossoms | 72366 | [72366-saku-saku-love-blooms-with-the-cherry-blossoms.json](./72366-saku-saku-love-blooms-with-the-cherry-blossoms.json) |
 | Saku the Covert Agent | 310181 | [310181-saku-the-covert-agent.json](./310181-saku-the-covert-agent.json) |
 | Sakumon | 412956 | [412956-sakumon.json](./412956-sakumon.json) |
+| Sakuna: Hinuka Junreitan | 359480 | [359480-sakuna-hinuka-junreitan.json](./359480-sakuna-hinuka-junreitan.json) |
 | Sakuna: Of Rice and Ruin - Divine Edition | 139978 | [139978-sakuna-of-rice-and-ruin-divine-edition.json](./139978-sakuna-of-rice-and-ruin-divine-edition.json) |
 | Sakunaverse | 363980 | [363980-sakunaverse.json](./363980-sakunaverse.json) |
 | Sakura Alien | 186848 | [186848-sakura-alien.json](./186848-sakura-alien.json) |
@@ -3480,6 +3481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashmak | 396422 | [396422-smashmak.json](./396422-smashmak.json) |
 | Smashometry | 378902 | [378902-smashometry.json](./378902-smashometry.json) |
 | Smashpunks | 178088 | [178088-smashpunks.json](./178088-smashpunks.json) |
+| SMBX: Level Contest Japan | 359515 | [359515-smbx-level-contest-japan.json](./359515-smbx-level-contest-japan.json) |
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
 | Smeesa Street | 239641 | [239641-smeesa-street.json](./239641-smeesa-street.json) |
 | Smells Like a Mushroom | 240795 | [240795-smells-like-a-mushroom.json](./240795-smells-like-a-mushroom.json) |
@@ -6266,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Alive | 258444 | [258444-stay-alive.json](./258444-stay-alive.json) |
 | Stay Alive | 339667 | [339667-stay-alive.json](./339667-stay-alive.json) |
 | Stay Alive, My Son VR | 293637 | [293637-stay-alive-my-son-vr.json](./293637-stay-alive-my-son-vr.json) |
+| Stay Dead | 359518 | [359518-stay-dead.json](./359518-stay-dead.json) |
 | Stay Home | 184055 | [184055-stay-home.json](./184055-stay-home.json) |
 | Stay Home It Rains Outside | 316406 | [316406-stay-home-it-rains-outside.json](./316406-stay-home-it-rains-outside.json) |
 | Stay in | 237056 | [237056-stay-in.json](./237056-stay-in.json) |
@@ -8515,6 +8518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetie Candy Maze: Blackberry | 412383 | [412383-sweetie-candy-maze-blackberry.json](./412383-sweetie-candy-maze-blackberry.json) |
 | Sweetie Candy Maze: Brown Chocolate | 398322 | [398322-sweetie-candy-maze-brown-chocolate.json](./398322-sweetie-candy-maze-brown-chocolate.json) |
 | Sweetie Candy Maze: Lime | 399728 | [399728-sweetie-candy-maze-lime.json](./399728-sweetie-candy-maze-lime.json) |
+| Sweetie Candy Maze: Red Cherry | 359517 | [359517-sweetie-candy-maze-red-cherry.json](./359517-sweetie-candy-maze-red-cherry.json) |
 | Sweetie Candy Maze: Violet Plum | 406218 | [406218-sweetie-candy-maze-violet-plum.json](./406218-sweetie-candy-maze-violet-plum.json) |
 | Sweets and Swipes | 259555 | [259555-sweets-and-swipes.json](./259555-sweets-and-swipes.json) |
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
