@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T14:34:32.963Z",
-  "total_missing": 74243,
+  "generated_at": "2026-09-15T14:41:44.391Z",
+  "total_missing": 74242,
   "games": [
     {
       "igdb_id": 306086,
@@ -5296,11 +5296,6 @@
       "igdb_id": 173293,
       "game_name": "Against Ether",
       "file": "missing/A/173293-against-ether.json"
-    },
-    {
-      "igdb_id": 180187,
-      "game_name": "Against Light",
-      "file": "missing/A/180187-against-light.json"
     },
     {
       "igdb_id": 356650,
