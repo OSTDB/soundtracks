@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hate Heroes | 98988 | [98988-i-hate-heroes.json](./98988-i-hate-heroes.json) |
 | I hate this game | 114278 | [114278-i-hate-this-game.json](./114278-i-hate-this-game.json) |
 | I Have an Item | 384113 | [384113-i-have-an-item.json](./384113-i-have-an-item.json) |
+| I Have Died | 375956 | [375956-i-have-died.json](./375956-i-have-died.json) |
 | I Have Hired This Anime Girl to Talk to You | 275003 | [275003-i-have-hired-this-anime-girl-to-talk-to-you.json](./275003-i-have-hired-this-anime-girl-to-talk-to-you.json) |
 | I Hear Them | 398454 | [398454-i-hear-them.json](./398454-i-hear-them.json) |
 | I heard a dog barking | 177522 | [177522-i-heard-a-dog-barking.json](./177522-i-heard-a-dog-barking.json) |
@@ -197,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
 | I'm on Merrymaking Watch | 237948 | [237948-im-on-merrymaking-watch.json](./237948-im-on-merrymaking-watch.json) |
 | I'm Only Sleeping | 71001 | [71001-im-only-sleeping.json](./71001-im-only-sleeping.json) |
+| I'm Struggling | 375936 | [375936-im-struggling.json](./375936-im-struggling.json) |
 | I'm the dirt-for art | 120948 | [120948-im-the-dirt-for-art.json](./120948-im-the-dirt-for-art.json) |
 | I'm the Policeman | 278704 | [278704-im-the-policeman.json](./278704-im-the-policeman.json) |
 | I'm Truely a Good Guy! | 337483 | [337483-im-truely-a-good-guy.json](./337483-im-truely-a-good-guy.json) |
@@ -521,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion | 81280 | [81280-illusion.json](./81280-illusion.json) |
 | Illusion Connect | 139382 | [139382-illusion-connect.json](./139382-illusion-connect.json) |
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
+| Illusion of Being: Chapter 1 | 375953 | [375953-illusion-of-being-chapter-1.json](./375953-illusion-of-being-chapter-1.json) |
 | Illusion of L'Phalcia | 39010 | [39010-illusion-of-lphalcia.json](./39010-illusion-of-lphalcia.json) |
 | Illusions 360 | 67971 | [67971-illusions-360.json](./67971-illusions-360.json) |
 | Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
@@ -781,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indigo Prophecy | 410247 | [410247-indigo-prophecy.json](./410247-indigo-prophecy.json) |
 | Indistinguishable | 400964 | [400964-indistinguishable.json](./400964-indistinguishable.json) |
 | IndividuaLand | 211763 | [211763-individualand.json](./211763-individualand.json) |
+| Indomitable Spirit | 375985 | [375985-indomitable-spirit.json](./375985-indomitable-spirit.json) |
 | Indonesian Dominatrixes Are the Best | 385705 | [385705-indonesian-dominatrixes-are-the-best.json](./385705-indonesian-dominatrixes-are-the-best.json) |
 | Indoor Air Soccer | 175338 | [175338-indoor-air-soccer.json](./175338-indoor-air-soccer.json) |
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
@@ -1490,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle o' Little Men | 310409 | [310409-isle-o-little-men.json](./310409-isle-o-little-men.json) |
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
 | Isle of Jura | 167395 | [167395-isle-of-jura.json](./167395-isle-of-jura.json) |
+| Isle of Lament | 375990 | [375990-isle-of-lament.json](./375990-isle-of-lament.json) |
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | Isles of Wrath | 378286 | [378286-isles-of-wrath.json](./378286-isles-of-wrath.json) |
