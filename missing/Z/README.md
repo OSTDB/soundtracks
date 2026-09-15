@@ -30,13 +30,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zabugorie: The Fairy Planet | 57638 | [57638-zabugorie-the-fairy-planet.json](./57638-zabugorie-the-fairy-planet.json) |
 | Zac's Batting Academy | 234595 | [234595-zacs-batting-academy.json](./234595-zacs-batting-academy.json) |
 | Zaccaria Pinball | 33463 | [33463-zaccaria-pinball.json](./33463-zaccaria-pinball.json) |
+| Zaccaria Pinball: Blackbelt Deluxe Pinball Table | 349924 | [349924-zaccaria-pinball-blackbelt-deluxe-pinball-table.json](./349924-zaccaria-pinball-blackbelt-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Clown Deluxe Pinball Table | 349914 | [349914-zaccaria-pinball-clown-deluxe-pinball-table.json](./349914-zaccaria-pinball-clown-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Deluxe Table Pack 2 | 411006 | [411006-zaccaria-pinball-deluxe-table-pack-2.json](./411006-zaccaria-pinball-deluxe-table-pack-2.json) |
 | Zaccaria Pinball: Deluxe Table Pack 3 | 411007 | [411007-zaccaria-pinball-deluxe-table-pack-3.json](./411007-zaccaria-pinball-deluxe-table-pack-3.json) |
+| Zaccaria Pinball: Earth Wind Fire Deluxe Pinball Table | 349922 | [349922-zaccaria-pinball-earth-wind-fire-deluxe-pinball-table.json](./349922-zaccaria-pinball-earth-wind-fire-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Electro-Mechanical Table Pack 2 | 411008 | [411008-zaccaria-pinball-electro-mechanical-table-pack-2.json](./411008-zaccaria-pinball-electro-mechanical-table-pack-2.json) |
+| Zaccaria Pinball: Future World Deluxe Pinball Table | 349923 | [349923-zaccaria-pinball-future-world-deluxe-pinball-table.json](./349923-zaccaria-pinball-future-world-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Magic Castle Deluxe Pinball Table | 349915 | [349915-zaccaria-pinball-magic-castle-deluxe-pinball-table.json](./349915-zaccaria-pinball-magic-castle-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Moon Flight Deluxe Pinball Table | 349918 | [349918-zaccaria-pinball-moon-flight-deluxe-pinball-table.json](./349918-zaccaria-pinball-moon-flight-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Pinball Champ Deluxe Pinball Table | 349919 | [349919-zaccaria-pinball-pinball-champ-deluxe-pinball-table.json](./349919-zaccaria-pinball-pinball-champ-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Pool Champion 2018 Table | 156105 | [156105-zaccaria-pinball-pool-champion-2018-table.json](./156105-zaccaria-pinball-pool-champion-2018-table.json) |
 | Zaccaria Pinball: Postal 2 Table Pack | 215390 | [215390-zaccaria-pinball-postal-2-table-pack.json](./215390-zaccaria-pinball-postal-2-table-pack.json) |
 | Zaccaria Pinball: Shooting the Rapids | 156099 | [156099-zaccaria-pinball-shooting-the-rapids.json](./156099-zaccaria-pinball-shooting-the-rapids.json) |
+| Zaccaria Pinball: Shooting the Rapids Deluxe Pinball Table | 349920 | [349920-zaccaria-pinball-shooting-the-rapids-deluxe-pinball-table.json](./349920-zaccaria-pinball-shooting-the-rapids-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Soccer Kings Deluxe Pinball Table | 349917 | [349917-zaccaria-pinball-soccer-kings-deluxe-pinball-table.json](./349917-zaccaria-pinball-soccer-kings-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Solid-State Table Pack 3 | 411009 | [411009-zaccaria-pinball-solid-state-table-pack-3.json](./411009-zaccaria-pinball-solid-state-table-pack-3.json) |
+| Zaccaria Pinball: Supersonic Deluxe Pinball Table | 349916 | [349916-zaccaria-pinball-supersonic-deluxe-pinball-table.json](./349916-zaccaria-pinball-supersonic-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Tropical Deluxe Pinball Table | 349921 | [349921-zaccaria-pinball-tropical-deluxe-pinball-table.json](./349921-zaccaria-pinball-tropical-deluxe-pinball-table.json) |
 | Zach-Like | 119788 | [119788-zach-like.json](./119788-zach-like.json) |
 | Zack Y | 109724 | [109724-zack-y.json](./109724-zack-y.json) |
 | Zadel Princess | 191827 | [191827-zadel-princess.json](./191827-zadel-princess.json) |
