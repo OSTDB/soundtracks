@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find My Frogs: Branches | 362893 | [362893-find-my-frogs-branches.json](./362893-find-my-frogs-branches.json) |
 | Find My Weiner | 292292 | [292292-find-my-weiner.json](./292292-find-my-weiner.json) |
 | Find Room 96 | 291457 | [291457-find-room-96.json](./291457-find-room-96.json) |
+| Find Sort Match | 358351 | [358351-find-sort-match.json](./358351-find-sort-match.json) |
 | Find the Bug | 234076 | [234076-find-the-bug.json](./234076-find-the-bug.json) |
 | Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
