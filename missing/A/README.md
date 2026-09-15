@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
+| A Tome in the Attic | 363975 | [363975-a-tome-in-the-attic.json](./363975-a-tome-in-the-attic.json) |
 | A Total War Saga: Troy - Limited Edition | 139940 | [139940-a-total-war-saga-troy-limited-edition.json](./139940-a-total-war-saga-troy-limited-edition.json) |
 | A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
 | A Transitional Eve | 397044 | [397044-a-transitional-eve.json](./397044-a-transitional-eve.json) |
@@ -486,7 +487,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner III | 5356 | [5356-after-burner-iii.json](./5356-after-burner-iii.json) |
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
-| After Grow | 372578 | [372578-after-grow.json](./372578-after-grow.json) |
 | After Gym | 239347 | [239347-after-gym.json](./239347-after-gym.json) |
 | After Hell Freezes Over | 366912 | [366912-after-hell-freezes-over.json](./366912-after-hell-freezes-over.json) |
 | After Hours Athletes | 44603 | [44603-after-hours-athletes.json](./44603-after-hours-athletes.json) |
@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleph Null | 31809 | [31809-aleph-null.json](./31809-aleph-null.json) |
 | Alert | 14236 | [14236-alert.json](./14236-alert.json) |
 | Alert X: Ostatnia Nadzieja Ziemi | 14237 | [14237-alert-x-ostatnia-nadzieja-ziemi.json](./14237-alert-x-ostatnia-nadzieja-ziemi.json) |
+| Alertes Spéciales | 363969 | [363969-alertes-speciales.json](./363969-alertes-speciales.json) |
 | Aleste Collection | 139997 | [139997-aleste-collection.json](./139997-aleste-collection.json) |
 | Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
@@ -2309,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apotheosis Engine | 399701 | [399701-apotheosis-engine.json](./399701-apotheosis-engine.json) |
 | Apox: Legend | 167853 | [167853-apox-legend.json](./167853-apox-legend.json) |
 | App Co Tycoon | 211438 | [211438-app-co-tycoon.json](./211438-app-co-tycoon.json) |
+| App Empire Tycoon | 363957 | [363957-app-empire-tycoon.json](./363957-app-empire-tycoon.json) |
 | Appa | 367951 | [367951-appa.json](./367951-appa.json) |
 | Appalachian Onslaught | 399090 | [399090-appalachian-onslaught.json](./399090-appalachian-onslaught.json) |
 | Appearances | 244774 | [244774-appearances.json](./244774-appearances.json) |
@@ -3179,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Gunners HD Edition | 87854 | [87854-assault-gunners-hd-edition.json](./87854-assault-gunners-hd-edition.json) |
 | Assault Mayhem | 351607 | [351607-assault-mayhem.json](./351607-assault-mayhem.json) |
 | Assault on Arnhem | 33307 | [33307-assault-on-arnhem.json](./33307-assault-on-arnhem.json) |
+| Assault on Hartblood Hotel | 363989 | [363989-assault-on-hartblood-hotel.json](./363989-assault-on-hartblood-hotel.json) |
 | Assault on Port Stanley | 12981 | [12981-assault-on-port-stanley.json](./12981-assault-on-port-stanley.json) |
 | Assault on Tei Tenga | 144264 | [144264-assault-on-tei-tenga.json](./144264-assault-on-tei-tenga.json) |
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
