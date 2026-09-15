@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannibals and Missionaries | 355524 | [355524-cannibals-and-missionaries.json](./355524-cannibals-and-missionaries.json) |
 | Cannon | 178038 | [178038-cannon.json](./178038-cannon.json) |
 | Cannon Army | 152349 | [152349-cannon-army.json](./152349-cannon-army.json) |
+| Cannon Ball | 366921 | [366921-cannon-ball.json](./366921-cannon-ball.json) |
 | Cannon Ball | 95431 | [95431-cannon-ball.json](./95431-cannon-ball.json) |
 | Cannon Basket HD | 232177 | [232177-cannon-basket-hd.json](./232177-cannon-basket-hd.json) |
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
@@ -3500,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courageous Reasoning Nori 6 MikiEdition Last | 298567 | [298567-courageous-reasoning-nori-6-mikiedition-last.json](./298567-courageous-reasoning-nori-6-mikiedition-last.json) |
 | Courageous Reasoning Nori 7 New World | 309077 | [309077-courageous-reasoning-nori-7-new-world.json](./309077-courageous-reasoning-nori-7-new-world.json) |
 | Courageous Reasoning Nori 9 Reasoning Tournament Sticking Nori | 330129 | [330129-courageous-reasoning-nori-9-reasoning-tournament-sticking-nori.json](./330129-courageous-reasoning-nori-9-reasoning-tournament-sticking-nori.json) |
+| Courier Bay | 366943 | [366943-courier-bay.json](./366943-courier-bay.json) |
 | Courier Beware | 399597 | [399597-courier-beware.json](./399597-courier-beware.json) |
 | Courier Chief Tycoon | 237086 | [237086-courier-chief-tycoon.json](./237086-courier-chief-tycoon.json) |
 | Court of Ashes | 120941 | [120941-court-of-ashes.json](./120941-court-of-ashes.json) |
@@ -4430,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Anabelle | 122826 | [122826-curse-of-anabelle.json](./122826-curse-of-anabelle.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
 | Curse of Deflection | 404204 | [404204-curse-of-deflection.json](./404204-curse-of-deflection.json) |
+| Curse of Dominion | 366886 | [366886-curse-of-dominion.json](./366886-curse-of-dominion.json) |
 | Curse of Greed: Ultimate | 176973 | [176973-curse-of-greed-ultimate.json](./176973-curse-of-greed-ultimate.json) |
 | Curse of Issyos | 137101 | [137101-curse-of-issyos.json](./137101-curse-of-issyos.json) |
 | Curse of Mermos | 35678 | [35678-curse-of-mermos.json](./35678-curse-of-mermos.json) |
