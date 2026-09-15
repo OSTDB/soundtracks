@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
+| Seance | 358955 | [358955-seance.json](./358955-seance.json) |
 | Seaquest DSV | 45591 | [45591-seaquest-dsv.json](./45591-seaquest-dsv.json) |
 | SeaQuest DSV | 138802 | [138802-seaquest-dsv.json](./138802-seaquest-dsv.json) |
 | SeaQuest Dungeon | 379346 | [379346-seaquest-dungeon.json](./379346-seaquest-dungeon.json) |
@@ -1740,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Brook - A Dark Mystery Text Adventure | 30903 | [30903-shady-brook-a-dark-mystery-text-adventure.json](./30903-shady-brook-a-dark-mystery-text-adventure.json) |
 | Shady Business | 195198 | [195198-shady-business.json](./195198-shady-business.json) |
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
+| Shafted | 358931 | [358931-shafted.json](./358931-shafted.json) |
 | Shaiya | 85841 | [85841-shaiya.json](./85841-shaiya.json) |
 | Shake | 383508 | [383508-shake.json](./383508-shake.json) |
 | Shake Kids | 108959 | [108959-shake-kids.json](./108959-shake-kids.json) |
@@ -3237,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide On Ice | 243714 | [243714-slide-on-ice.json](./243714-slide-on-ice.json) |
 | Slide Princess: Dungeon Escape | 403018 | [403018-slide-princess-dungeon-escape.json](./403018-slide-princess-dungeon-escape.json) |
 | Slide Ride Arcade | 32985 | [32985-slide-ride-arcade.json](./32985-slide-ride-arcade.json) |
+| Slide Soldiers | 358951 | [358951-slide-soldiers.json](./358951-slide-soldiers.json) |
 | Slide to Solve | 329592 | [329592-slide-to-solve.json](./329592-slide-to-solve.json) |
 | Slide Viking: Treasure's Path | 395664 | [395664-slide-viking-treasures-path.json](./395664-slide-viking-treasures-path.json) |
 | Slide! Throw! Snow Party | 379977 | [379977-slide-throw-snow-party.json](./379977-slide-throw-snow-party.json) |
@@ -3428,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Boy's Gameroom II | 208958 | [208958-smart-boys-gameroom-ii.json](./208958-smart-boys-gameroom-ii.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
+| Smart Frog | 358941 | [358941-smart-frog.json](./358941-smart-frog.json) |
 | Smart Games Puzzle Challenge 2 | 73256 | [73256-smart-games-puzzle-challenge-2.json](./73256-smart-games-puzzle-challenge-2.json) |
 | Smart Girl's Playhouse Mini | 21011 | [21011-smart-girls-playhouse-mini.json](./21011-smart-girls-playhouse-mini.json) |
 | Smart Moves Bundle | 218459 | [218459-smart-moves-bundle.json](./218459-smart-moves-bundle.json) |
@@ -4518,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukou Akki Muramasa: Janen-hen | 170502 | [170502-soukou-akki-muramasa-janen-hen.json](./170502-soukou-akki-muramasa-janen-hen.json) |
 | Soukou Kihei Votoms: The Battling Road | 38273 | [38273-soukou-kihei-votoms-the-battling-road.json](./38273-soukou-kihei-votoms-the-battling-road.json) |
 | Soul | 199577 | [199577-soul.json](./199577-soul.json) |
+| Soul Apocalypto | 358927 | [358927-soul-apocalypto.json](./358927-soul-apocalypto.json) |
 | Soul at Stake | 103949 | [103949-soul-at-stake.json](./103949-soul-at-stake.json) |
 | Soul Awakening Adventure | 273093 | [273093-soul-awakening-adventure.json](./273093-soul-awakening-adventure.json) |
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
@@ -4719,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Debris | 103533 | [103533-space-debris.json](./103533-space-debris.json) |
 | Space Defend | 246424 | [246424-space-defend.json](./246424-space-defend.json) |
 | Space Demon Combat Tactics III | 186334 | [186334-space-demon-combat-tactics-iii.json](./186334-space-demon-combat-tactics-iii.json) |
+| Space Depot | 358901 | [358901-space-depot.json](./358901-space-depot.json) |
 | Space Digger | 263743 | [263743-space-digger.json](./263743-space-digger.json) |
 | Space Dogo | 264628 | [264628-space-dogo.json](./264628-space-dogo.json) |
 | Space Dragons | 188618 | [188618-space-dragons.json](./188618-space-dragons.json) |
@@ -4825,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mechanic Simulator | 90650 | [90650-space-mechanic-simulator.json](./90650-space-mechanic-simulator.json) |
 | Space Memory TDG | 412970 | [412970-space-memory-tdg.json](./412970-space-memory-tdg.json) |
 | Space Memory: Fairies | 412387 | [412387-space-memory-fairies.json](./412387-space-memory-fairies.json) |
+| Space Memory: Predators | 358897 | [358897-space-memory-predators.json](./358897-space-memory-predators.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Miner: Idle Adventures | 276173 | [276173-space-miner-idle-adventures.json](./276173-space-miner-idle-adventures.json) |
 | Space Miner: Platinum Edition | 100155 | [100155-space-miner-platinum-edition.json](./100155-space-miner-platinum-edition.json) |
@@ -5546,6 +5553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout Crafter | 329587 | [329587-sprout-crafter.json](./329587-sprout-crafter.json) |
 | Sprout Lands | 193481 | [193481-sprout-lands.json](./193481-sprout-lands.json) |
 | Sprout Valley Big Pack | 328993 | [328993-sprout-valley-big-pack.json](./328993-sprout-valley-big-pack.json) |
+| Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
 | Sprucerio | 257408 | [257408-sprucerio.json](./257408-sprucerio.json) |
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
@@ -7876,6 +7884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monsters | 295015 | [295015-super-monsters.json](./295015-super-monsters.json) |
 | Super Motherload | 20078 | [20078-super-motherload.json](./20078-super-motherload.json) |
 | Super Move Fun | 246421 | [246421-super-move-fun.json](./246421-super-move-fun.json) |
+| Super Move Quest | 358909 | [358909-super-move-quest.json](./358909-super-move-quest.json) |
 | Super Movie Tycoon | 346616 | [346616-super-movie-tycoon.json](./346616-super-movie-tycoon.json) |
 | Super Mumtaz Bros. | 183613 | [183613-super-mumtaz-bros.json](./183613-super-mumtaz-bros.json) |
 | Super Mustache | 24616 | [24616-super-mustache.json](./24616-super-mustache.json) |
