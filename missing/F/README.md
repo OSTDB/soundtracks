@@ -2686,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freelance Simulator: Game Developer Edition | 100874 | [100874-freelance-simulator-game-developer-edition.json](./100874-freelance-simulator-game-developer-edition.json) |
 | Freelance Trucker: Insurance Fraud Edition | 150644 | [150644-freelance-trucker-insurance-fraud-edition.json](./150644-freelance-trucker-insurance-fraud-edition.json) |
 | Freelancer Simulator 2 | 135308 | [135308-freelancer-simulator-2.json](./135308-freelancer-simulator-2.json) |
+| Freelancers: Rogue Skies | 372528 | [372528-freelancers-rogue-skies.json](./372528-freelancers-rogue-skies.json) |
 | Freeland | 316098 | [316098-freeland.json](./316098-freeland.json) |
 | Freeline! | 404923 | [404923-freeline.json](./404923-freeline.json) |
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
