@@ -507,6 +507,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimai DX Universe Plus | 331677 | [331677-maimai-dx-universe-plus.json](./331677-maimai-dx-universe-plus.json) |
 | Maimai Milk | 331127 | [331127-maimai-milk.json](./331127-maimai-milk.json) |
 | Maimai Milk Plus | 331132 | [331132-maimai-milk-plus.json](./331132-maimai-milk-plus.json) |
+| Maimaimaigoen: Episode 1 - Welcome to Uropia | 343898 | [343898-maimaimaigoen-episode-1-welcome-to-uropia.json](./343898-maimaimaigoen-episode-1-welcome-to-uropia.json) |
+| Maimaimaigoen: Episode 2 - Promises and Crayons | 343901 | [343901-maimaimaigoen-episode-2-promises-and-crayons.json](./343901-maimaimaigoen-episode-2-promises-and-crayons.json) |
+| Maimaimaigoen: Episode 3 - The Divided Children | 343902 | [343902-maimaimaigoen-episode-3-the-divided-children.json](./343902-maimaimaigoen-episode-3-the-divided-children.json) |
 | Main Action | 254777 | [254777-main-action.json](./254777-main-action.json) |
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
 | Mainly at Rest | 165669 | [165669-mainly-at-rest.json](./165669-mainly-at-rest.json) |
@@ -2868,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Caves & Cliffs - Part II | 223159 | [223159-minecraft-caves-and-cliffs-part-ii.json](./223159-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Conservation Quest | 324883 | [324883-minecraft-conservation-quest.json](./324883-minecraft-conservation-quest.json) |
 | Minecraft: Dairycraft | 366815 | [366815-minecraft-dairycraft.json](./366815-minecraft-dairycraft.json) |
+| Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
 | Minecraft: Frozen | 254125 | [254125-minecraft-frozen.json](./254125-minecraft-frozen.json) |
 | Minecraft: Good Night's Sleep | 326994 | [326994-minecraft-good-nights-sleep.json](./326994-minecraft-good-nights-sleep.json) |
 | Minecraft: Heat Wave Survival | 324712 | [324712-minecraft-heat-wave-survival.json](./324712-minecraft-heat-wave-survival.json) |
@@ -2895,7 +2899,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Cake Is A Lie | 325863 | [325863-minecraft-the-cake-is-a-lie.json](./325863-minecraft-the-cake-is-a-lie.json) |
 | Minecraft: The Traveling Trader | 322955 | [322955-minecraft-the-traveling-trader.json](./322955-minecraft-the-traveling-trader.json) |
 | Minecraft: The Wild Update | 223161 | [223161-minecraft-the-wild-update.json](./223161-minecraft-the-wild-update.json) |
+| Minecraft: Time Capsule | 343905 | [343905-minecraft-time-capsule.json](./343905-minecraft-time-capsule.json) |
 | Minecraft: Tricky Trials | 272821 | [272821-minecraft-tricky-trials.json](./272821-minecraft-tricky-trials.json) |
+| Minecraft: Uncrafting Items Mod | 343906 | [343906-minecraft-uncrafting-items-mod.json](./343906-minecraft-uncrafting-items-mod.json) |
 | MInecraft: Weapon Fusion 2 | 333585 | [333585-minecraft-weapon-fusion-2.json](./333585-minecraft-weapon-fusion-2.json) |
 | Minecraft: Winter Whimsy Skin Pack | 324892 | [324892-minecraft-winter-whimsy-skin-pack.json](./324892-minecraft-winter-whimsy-skin-pack.json) |
 | Minecraftle | 306695 | [306695-minecraftle.json](./306695-minecraftle.json) |
@@ -2981,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Map | 178016 | [178016-mini-map.json](./178016-mini-map.json) |
 | Mini Matches | 121597 | [121597-mini-matches.json](./121597-mini-matches.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
+| Mini Monsters | 343907 | [343907-mini-monsters.json](./343907-mini-monsters.json) |
 | Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
 | Mini Motor Racing X: Digital Deluxe Edition | 132167 | [132167-mini-motor-racing-x-digital-deluxe-edition.json](./132167-mini-motor-racing-x-digital-deluxe-edition.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
@@ -3656,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Bar | 240784 | [240784-monster-bar.json](./240784-monster-bar.json) |
 | Monster Bash | 18059 | [18059-monster-bash.json](./18059-monster-bash.json) |
 | Monster Battle | 302368 | [302368-monster-battle.json](./302368-monster-battle.json) |
+| Monster Battles | 343864 | [343864-monster-battles.json](./343864-monster-battles.json) |
 | Monster Block Game | 235236 | [235236-monster-block-game.json](./235236-monster-block-game.json) |
 | Monster Bomber | 20617 | [20617-monster-bomber.json](./20617-monster-bomber.json) |
 | Monster Box | 68717 | [68717-monster-box.json](./68717-monster-box.json) |
