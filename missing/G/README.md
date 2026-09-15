@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Natsuki-san | 270676 | [270676-ganbare-natsuki-san.json](./270676-ganbare-natsuki-san.json) |
 | Ganbare Neo Poke-Kun | 43970 | [43970-ganbare-neo-poke-kun.json](./43970-ganbare-neo-poke-kun.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
+| Gangs of Asia | 360068 | [360068-gangs-of-asia.json](./360068-gangs-of-asia.json) |
 | Gangs Town Story | 197333 | [197333-gangs-town-story.json](./197333-gangs-town-story.json) |
 | Gangsta Bean | 234931 | [234931-gangsta-bean.json](./234931-gangsta-bean.json) |
 | Gangsta Bean 2 | 261296 | [261296-gangsta-bean-2.json](./261296-gangsta-bean-2.json) |
@@ -959,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigachess: Brilliant Blitz Level Pack | 166224 | [166224-gigachess-brilliant-blitz-level-pack.json](./166224-gigachess-brilliant-blitz-level-pack.json) |
 | Gigadyne Voltraid | 413721 | [413721-gigadyne-voltraid.json](./413721-gigadyne-voltraid.json) |
 | Gigant | 212830 | [212830-gigant.json](./212830-gigant.json) |
+| Gigantes Ex Machina | 360052 | [360052-gigantes-ex-machina.json](./360052-gigantes-ex-machina.json) |
 | Gigantic Gear | 299729 | [299729-gigantic-gear.json](./299729-gigantic-gear.json) |
 | Gigantosaurus Dino Kart | 219436 | [219436-gigantosaurus-dino-kart.json](./219436-gigantosaurus-dino-kart.json) |
 | Gigantosaurus Dino Sports | 300466 | [300466-gigantosaurus-dino-sports.json](./300466-gigantosaurus-dino-sports.json) |
@@ -1065,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
 | Glass Hearts | 221191 | [221191-glass-hearts.json](./221191-glass-hearts.json) |
 | Glass Horizon | 322604 | [322604-glass-horizon.json](./322604-glass-horizon.json) |
+| Glass Joe's Punch Out!! | 360100 | [360100-glass-joes-punch-out.json](./360100-glass-joes-punch-out.json) |
 | Glass Masquerade 2: Illusions | 109763 | [109763-glass-masquerade-2-illusions.json](./109763-glass-masquerade-2-illusions.json) |
 | Glass Masquerade 3: Honeylines | 249809 | [249809-glass-masquerade-3-honeylines.json](./249809-glass-masquerade-3-honeylines.json) |
 | Glass Tactics | 244518 | [244518-glass-tactics.json](./244518-glass-tactics.json) |
@@ -2359,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Girl Match 3 | 193930 | [193930-guitar-girl-match-3.json](./193930-guitar-girl-match-3.json) |
 | Guitar Hero | 1285 | [1285-guitar-hero.json](./1285-guitar-hero.json) |
 | Guitar Hero II | 2670 | [2670-guitar-hero-ii.json](./2670-guitar-hero-ii.json) |
+| Guitar Hero III: Game Hits | 360102 | [360102-guitar-hero-iii-game-hits.json](./360102-guitar-hero-iii-game-hits.json) |
 | Guitar Hero World Tour: Definitive Edition | 187448 | [187448-guitar-hero-world-tour-definitive-edition.json](./187448-guitar-hero-world-tour-definitive-edition.json) |
 | Guitar Hero: On Tour - Decades | 7089 | [7089-guitar-hero-on-tour-decades.json](./7089-guitar-hero-on-tour-decades.json) |
 | Guitar Hero: Van Halen | 2675 | [2675-guitar-hero-van-halen.json](./2675-guitar-hero-van-halen.json) |
