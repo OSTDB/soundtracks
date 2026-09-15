@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
 | Dark Nebula: Episode One | 67242 | [67242-dark-nebula-episode-one.json](./67242-dark-nebula-episode-one.json) |
 | Dark Neighbors | 351612 | [351612-dark-neighbors.json](./351612-dark-neighbors.json) |
+| Dark Nest: Snake Contract | 368580 | [368580-dark-nest-snake-contract.json](./368580-dark-nest-snake-contract.json) |
 | Dark Nights | 138769 | [138769-dark-nights.json](./138769-dark-nights.json) |
 | Dark Old Sun II: Unspace | 217005 | [217005-dark-old-sun-ii-unspace.json](./217005-dark-old-sun-ii-unspace.json) |
 | Dark Orbit | 125371 | [125371-dark-orbit.json](./125371-dark-orbit.json) |
@@ -530,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash & Swing | 245845 | [245845-dash-and-swing.json](./245845-dash-and-swing.json) |
 | Dash and Fire | 155668 | [155668-dash-and-fire.json](./155668-dash-and-fire.json) |
 | Dash and Slash | 199587 | [199587-dash-and-slash.json](./199587-dash-and-slash.json) |
+| Dash Connect 2 | 368577 | [368577-dash-connect-2.json](./368577-dash-connect-2.json) |
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
 | Dash Valley | 108447 | [108447-dash-valley.json](./108447-dash-valley.json) |
@@ -1590,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desires of a Vampire | 298892 | [298892-desires-of-a-vampire.json](./298892-desires-of-a-vampire.json) |
 | Desk Deck Heroes | 303472 | [303472-desk-deck-heroes.json](./303472-desk-deck-heroes.json) |
 | Deskape | 371304 | [371304-deskape.json](./371304-deskape.json) |
+| Desktop Blocks | 368549 | [368549-desktop-blocks.json](./368549-desktop-blocks.json) |
 | Desktop Defender | 371976 | [371976-desktop-defender.json](./371976-desktop-defender.json) |
 | Desktop Dodgeball 2 | 317224 | [317224-desktop-dodgeball-2.json](./317224-desktop-dodgeball-2.json) |
 | Desktop Dungeons | 8998 | [8998-desktop-dungeons.json](./8998-desktop-dungeons.json) |
@@ -2757,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Panic | 13603 | [13603-dont-panic.json](./13603-dont-panic.json) |
 | Don't Pause Game! | 389988 | [389988-dont-pause-game.json](./389988-dont-pause-game.json) |
 | Don't Play With Dolls | 105282 | [105282-dont-play-with-dolls.json](./105282-dont-play-with-dolls.json) |
+| Don't Pop My Bubble | 368539 | [368539-dont-pop-my-bubble.json](./368539-dont-pop-my-bubble.json) |
 | Don't Pray to Satan | 89953 | [89953-dont-pray-to-satan.json](./89953-dont-pray-to-satan.json) |
 | Don't Push Your Luck | 400304 | [400304-dont-push-your-luck.json](./400304-dont-push-your-luck.json) |
 | Don't Shoot the Puppy | 136454 | [136454-dont-shoot-the-puppy.json](./136454-dont-shoot-the-puppy.json) |
@@ -3591,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamHero | 373118 | [373118-dreamhero.json](./373118-dreamhero.json) |
 | Dreamians: Card Battle | 304891 | [304891-dreamians-card-battle.json](./304891-dreamians-card-battle.json) |
 | Dreamin' Cat | 276714 | [276714-dreamin-cat.json](./276714-dreamin-cat.json) |
+| Dreaming | 368552 | [368552-dreaming.json](./368552-dreaming.json) |
 | Dreaming | 370777 | [370777-dreaming.json](./370777-dreaming.json) |
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
 | Dreaming by day | 182982 | [182982-dreaming-by-day.json](./182982-dreaming-by-day.json) |
