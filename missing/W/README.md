@@ -1744,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word After Word | 134653 | [134653-word-after-word.json](./134653-word-after-word.json) |
 | Word Beach: Word Games for Fun | 87733 | [87733-word-beach-word-games-for-fun.json](./87733-word-beach-word-games-for-fun.json) |
 | Word Bird Supreme | 415954 | [415954-word-bird-supreme.json](./415954-word-bird-supreme.json) |
+| Word Blitz | 371332 | [371332-word-blitz.json](./371332-word-blitz.json) |
 | Word Blocked | 63824 | [63824-word-blocked.json](./63824-word-blocked.json) |
 | Word Bomb | 365087 | [365087-word-bomb.json](./365087-word-bomb.json) |
 | Word Bound - Word Game Puzzles | 105869 | [105869-word-bound-word-game-puzzles.json](./105869-word-bound-word-game-puzzles.json) |
