@@ -1790,6 +1790,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus: Rising - Additional Character: Wilnas | 373630 | [373630-granblue-fantasy-versus-rising-additional-character-wilnas.json](./373630-granblue-fantasy-versus-rising-additional-character-wilnas.json) |
 | Granblue Fantasy Versus: Rising - Character Costume Unadulterated Amour Belial | 373628 | [373628-granblue-fantasy-versus-rising-character-costume-unadulterated-amour-belial.json](./373628-granblue-fantasy-versus-rising-character-costume-unadulterated-amour-belial.json) |
 | Granblue Fantasy Versus: Rising - Color Set 5 | 334145 | [334145-granblue-fantasy-versus-rising-color-set-5.json](./334145-granblue-fantasy-versus-rising-color-set-5.json) |
+| Granblue Fantasy Versus: Rising - Color Set 6 | 334146 | [334146-granblue-fantasy-versus-rising-color-set-6.json](./334146-granblue-fantasy-versus-rising-color-set-6.json) |
+| Granblue Fantasy Versus: Rising - Color Set Battle Pass Pack 1 | 334147 | [334147-granblue-fantasy-versus-rising-color-set-battle-pass-pack-1.json](./334147-granblue-fantasy-versus-rising-color-set-battle-pass-pack-1.json) |
+| Granblue Fantasy Versus: Rising - Color Set Battle Pass Pack 2 | 334148 | [334148-granblue-fantasy-versus-rising-color-set-battle-pass-pack-2.json](./334148-granblue-fantasy-versus-rising-color-set-battle-pass-pack-2.json) |
 | Granblue Fantasy Versus: Rising - Color Set Battle Pass Pack 4 | 373629 | [373629-granblue-fantasy-versus-rising-color-set-battle-pass-pack-4.json](./373629-granblue-fantasy-versus-rising-color-set-battle-pass-pack-4.json) |
 | Granblue Fantasy Versus: Rising - Crimson Bomber: Zeta | 334143 | [334143-granblue-fantasy-versus-rising-crimson-bomber-zeta.json](./334143-granblue-fantasy-versus-rising-crimson-bomber-zeta.json) |
 | Granblue Fantasy Versus: Rising - Deluxe Character Pass | 332823 | [332823-granblue-fantasy-versus-rising-deluxe-character-pass.json](./332823-granblue-fantasy-versus-rising-deluxe-character-pass.json) |
@@ -2556,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunhed: Taikai | 42025 | [42025-gunhed-taikai.json](./42025-gunhed-taikai.json) |
 | Gunkour | 150085 | [150085-gunkour.json](./150085-gunkour.json) |
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
+| Gunlocked 2 | 334208 | [334208-gunlocked-2.json](./334208-gunlocked-2.json) |
 | Gunlok | 25008 | [25008-gunlok.json](./25008-gunlok.json) |
 | Gunlord X | 108254 | [108254-gunlord-x.json](./108254-gunlord-x.json) |
 | Gunma no Yabou for Nintendo 3DS | 222294 | [222294-gunma-no-yabou-for-nintendo-3ds.json](./222294-gunma-no-yabou-for-nintendo-3ds.json) |
