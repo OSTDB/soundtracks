@@ -487,7 +487,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner III | 5356 | [5356-after-burner-iii.json](./5356-after-burner-iii.json) |
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
-| After Gym | 239347 | [239347-after-gym.json](./239347-after-gym.json) |
 | After Hell Freezes Over | 366912 | [366912-after-hell-freezes-over.json](./366912-after-hell-freezes-over.json) |
 | After Hours Athletes | 44603 | [44603-after-hours-athletes.json](./44603-after-hours-athletes.json) |
 | After School | 178036 | [178036-after-school.json](./178036-after-school.json) |
