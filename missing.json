@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T16:33:59.097Z",
-  "total_missing": 74634,
+  "generated_at": "2026-09-15T16:41:36.284Z",
+  "total_missing": 74633,
   "games": [
     {
       "igdb_id": 306086,
@@ -5381,11 +5381,6 @@
       "igdb_id": 21134,
       "game_name": "Agatha Christie: Death on the Nile",
       "file": "missing/A/21134-agatha-christie-death-on-the-nile.json"
-    },
-    {
-      "igdb_id": 349849,
-      "game_name": "Age of Ashes: Dark Nuns",
-      "file": "missing/A/349849-age-of-ashes-dark-nuns.json"
     },
     {
       "igdb_id": 207506,
