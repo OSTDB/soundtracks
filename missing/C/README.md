@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl & Doggirl Cafe | 199057 | [199057-catgirl-and-doggirl-cafe.json](./199057-catgirl-and-doggirl-cafe.json) |
 | Catgirl Aim Trainer | 310213 | [310213-catgirl-aim-trainer.json](./310213-catgirl-aim-trainer.json) |
 | Catgirl Lover | 127927 | [127927-catgirl-lover.json](./127927-catgirl-lover.json) |
+| Catharage | 355098 | [355098-catharage.json](./355098-catharage.json) |
 | Catharsis | 195791 | [195791-catharsis.json](./195791-catharsis.json) |
 | Cathedral: Crow's Curse | 352757 | [352757-cathedral-crows-curse.json](./352757-cathedral-crows-curse.json) |
 | Catherine | 2151 | [2151-catherine.json](./2151-catherine.json) |
@@ -1984,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
 | Chunithm Verse | 335960 | [335960-chunithm-verse.json](./335960-chunithm-verse.json) |
 | Chunithm X-Verse-X International Version | 397774 | [397774-chunithm-x-verse-x-international-version.json](./397774-chunithm-x-verse-x-international-version.json) |
+| Chunk | 355072 | [355072-chunk.json](./355072-chunk.json) |
 | Chunkers | 207347 | [207347-chunkers.json](./207347-chunkers.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
 | Church Era | 118391 | [118391-church-era.json](./118391-church-era.json) |
@@ -2479,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutter Puzzle Magazine Vol. 15 No. 1: Collector's Edition | 281999 | [281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json](./281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json) |
 | CMYP | 234603 | [234603-cmyp.json](./234603-cmyp.json) |
 | Co Operation: MultiTurn | 217500 | [217500-co-operation-multiturn.json](./217500-co-operation-multiturn.json) |
+| Co-op Kaiju Horror Cooking | 355090 | [355090-co-op-kaiju-horror-cooking.json](./355090-co-op-kaiju-horror-cooking.json) |
 | Coach Bus Driving Simulator | 308809 | [308809-coach-bus-driving-simulator.json](./308809-coach-bus-driving-simulator.json) |
 | Coagula Mappack #3 | 271482 | [271482-coagula-mappack-3.json](./271482-coagula-mappack-3.json) |
 | Coagula3: Bone | 271499 | [271499-coagula3-bone.json](./271499-coagula3-bone.json) |
@@ -4227,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto-Fascist | 364561 | [364561-crypto-fascist.json](./364561-crypto-fascist.json) |
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
 | Cryptoforce | 247500 | [247500-cryptoforce.json](./247500-cryptoforce.json) |
+| Cryptogram | 355105 | [355105-cryptogram.json](./355105-cryptogram.json) |
 | Cryptogram | 413000 | [413000-cryptogram.json](./413000-cryptogram.json) |
 | Cryptonaut | 190132 | [190132-cryptonaut.json](./190132-cryptonaut.json) |
 | CryptoQuiz | 108443 | [108443-cryptoquiz.json](./108443-cryptoquiz.json) |
