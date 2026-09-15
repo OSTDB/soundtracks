@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shade | 79903 | [79903-shade.json](./79903-shade.json) |
 | Shade Hunters | 291225 | [291225-shade-hunters.json](./291225-shade-hunters.json) |
 | Shade Silver | 297215 | [297215-shade-silver.json](./297215-shade-silver.json) |
+| Shade Silver 2 a Walk in the Darkness | 345008 | [345008-shade-silver-2-a-walk-in-the-darkness.json](./345008-shade-silver-2-a-walk-in-the-darkness.json) |
 | Shade: The Border Collie Flycatcher | 241623 | [241623-shade-the-border-collie-flycatcher.json](./241623-shade-the-border-collie-flycatcher.json) |
 | Shades | 319026 | [319026-shades.json](./319026-shades.json) |
 | Shades of Black | 36009 | [36009-shades-of-black.json](./36009-shades-of-black.json) |
@@ -1604,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shades of Manhattan 2 | 182453 | [182453-shades-of-manhattan-2.json](./182453-shades-of-manhattan-2.json) |
 | Shades: Shadow Fight Roguelike | 300698 | [300698-shades-shadow-fight-roguelike.json](./300698-shades-shadow-fight-roguelike.json) |
 | ShadO | 10820 | [10820-shado.json](./10820-shado.json) |
+| Shadoblitz | 345034 | [345034-shadoblitz.json](./345034-shadoblitz.json) |
 | Shadow | 324309 | [324309-shadow.json](./324309-shadow.json) |
 | Shadow Among Nove | 297218 | [297218-shadow-among-nove.json](./297218-shadow-among-nove.json) |
 | Shadow and Bone: Enter the Fold | 204448 | [204448-shadow-and-bone-enter-the-fold.json](./204448-shadow-and-bone-enter-the-fold.json) |
@@ -2001,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheriff Looper | 383344 | [383344-sheriff-looper.json](./383344-sheriff-looper.json) |
 | Sheriff Rage | 172199 | [172199-sheriff-rage.json](./172199-sheriff-rage.json) |
 | Sherlock has a Clue | 310949 | [310949-sherlock-has-a-clue.json](./310949-sherlock-has-a-clue.json) |
+| Sherlock Holmes i el cas d'Arthur Gordon Pym | 345023 | [345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json](./345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json) |
 | Sherlock Holmes: Chapter One - Beyond a Joke | 186894 | [186894-sherlock-holmes-chapter-one-beyond-a-joke.json](./186894-sherlock-holmes-chapter-one-beyond-a-joke.json) |
 | Sherlock Holmes: Consulting Detective | 5435 | [5435-sherlock-holmes-consulting-detective.json](./5435-sherlock-holmes-consulting-detective.json) |
 | Sherlock Holmes: Crimes & Punishments | 5541 | [5541-sherlock-holmes-crimes-and-punishments.json](./5541-sherlock-holmes-crimes-and-punishments.json) |
@@ -2612,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
 | Silver Falls: Guardians And Metal Exterminators S | 283722 | [283722-silver-falls-guardians-and-metal-exterminators-s.json](./283722-silver-falls-guardians-and-metal-exterminators-s.json) |
 | Silver Level Pack | 289884 | [289884-silver-level-pack.json](./289884-silver-level-pack.json) |
+| Silver Malfeasant | 345001 | [345001-silver-malfeasant.json](./345001-silver-malfeasant.json) |
 | Silver Millennium | 40251 | [40251-silver-millennium.json](./40251-silver-millennium.json) |
 | Silver Sonic: The Crystal Islands | 302142 | [302142-silver-sonic-the-crystal-islands.json](./302142-silver-sonic-the-crystal-islands.json) |
 | Silver Star Japan Table Games | 144997 | [144997-silver-star-japan-table-games.json](./144997-silver-star-japan-table-games.json) |
@@ -7096,6 +7100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Duel | 97352 | [97352-sub-duel.json](./97352-sub-duel.json) |
 | Sub Game | 316079 | [316079-sub-game.json](./316079-sub-game.json) |
 | Sub Hunt | 5707 | [5707-sub-hunt.json](./5707-sub-hunt.json) |
+| Sub Optimal Co. | 345047 | [345047-sub-optimal-co.json](./345047-sub-optimal-co.json) |
 | Sub Rebellion | 43329 | [43329-sub-rebellion.json](./43329-sub-rebellion.json) |
 | Sub Rosa | 16951 | [16951-sub-rosa.json](./16951-sub-rosa.json) |
 | Sub Stalker | 93053 | [93053-sub-stalker.json](./93053-sub-stalker.json) |
@@ -8495,6 +8500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor: Stay in the Light | 232980 | [232980-survivor-stay-in-the-light.json](./232980-survivor-stay-in-the-light.json) |
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
 | Survivors Left: X | 124177 | [124177-survivors-left-x.json](./124177-survivors-left-x.json) |
+| Survivors SymphonYs | 345007 | [345007-survivors-symphonys.json](./345007-survivors-symphonys.json) |
 | Survivors Will | 250347 | [250347-survivors-will.json](./250347-survivors-will.json) |
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
 | Sus! | 377065 | [377065-sus.json](./377065-sus.json) |
@@ -8511,6 +8517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi vs. Remilia Scarlet | 206739 | [206739-sushi-vs-remilia-scarlet.json](./206739-sushi-vs-remilia-scarlet.json) |
 | SushiCat: Bento | 363948 | [363948-sushicat-bento.json](./363948-sushicat-bento.json) |
 | SushiCup Legend | 342618 | [342618-sushicup-legend.json](./342618-sushicup-legend.json) |
+| Sushininjarobot TD | 345038 | [345038-sushininjarobot-td.json](./345038-sushininjarobot-td.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
 | Suspecto | 374193 | [374193-suspecto.json](./374193-suspecto.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
