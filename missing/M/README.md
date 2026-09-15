@@ -3262,6 +3262,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mnemonic Devices | 177509 | [177509-mnemonic-devices.json](./177509-mnemonic-devices.json) |
 | MNOZ: My Nuclear Octopus 2 | 408048 | [408048-mnoz-my-nuclear-octopus-2.json](./408048-mnoz-my-nuclear-octopus-2.json) |
 | Mo the Frog | 111675 | [111675-mo-the-frog.json](./111675-mo-the-frog.json) |
+| Mó Xiān Cǎihóng Qiú | 359473 | [359473-mo-xian-caihong-qiu.json](./359473-mo-xian-caihong-qiu.json) |
+| Mó Xiān Duì Duì Pèng | 359472 | [359472-mo-xian-dui-dui-peng.json](./359472-mo-xian-dui-dui-peng.json) |
 | Moadra | 190169 | [190169-moadra.json](./190169-moadra.json) |
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
