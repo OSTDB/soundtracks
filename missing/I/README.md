@@ -67,6 +67,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Mice 3 | 287067 | [287067-i-commissioned-some-mice-3.json](./287067-i-commissioned-some-mice-3.json) |
 | I Commissioned Some Mice 4 | 287068 | [287068-i-commissioned-some-mice-4.json](./287068-i-commissioned-some-mice-4.json) |
 | I Commissioned Some Mice 5 | 287069 | [287069-i-commissioned-some-mice-5.json](./287069-i-commissioned-some-mice-5.json) |
+| I Commissioned Some Pigeons 3 | 377679 | [377679-i-commissioned-some-pigeons-3.json](./377679-i-commissioned-some-pigeons-3.json) |
+| I Commissioned Some Pigeons 4 | 377680 | [377680-i-commissioned-some-pigeons-4.json](./377680-i-commissioned-some-pigeons-4.json) |
 | I Commissioned Some Snails | 288783 | [288783-i-commissioned-some-snails.json](./288783-i-commissioned-some-snails.json) |
 | I Commissioned Some Snails 2 | 337083 | [337083-i-commissioned-some-snails-2.json](./337083-i-commissioned-some-snails-2.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
