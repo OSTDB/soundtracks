@@ -2239,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayAgain 2: The Golden Legend | 367482 | [367482-playagain-2-the-golden-legend.json](./367482-playagain-2-the-golden-legend.json) |
 | Playback '94: Episode 1 - Post Office | 407410 | [407410-playback-94-episode-1-post-office.json](./407410-playback-94-episode-1-post-office.json) |
 | Playback Trauma: The Beach | 159888 | [159888-playback-trauma-the-beach.json](./159888-playback-trauma-the-beach.json) |
+| Playbook VR | 344434 | [344434-playbook-vr.json](./344434-playbook-vr.json) |
 | PlayBound | 126662 | [126662-playbound.json](./126662-playbound.json) |
 | Playboy: The Mansion - Private Party | 68037 | [68037-playboy-the-mansion-private-party.json](./68037-playboy-the-mansion-private-party.json) |
 | Playdate Bunny Bundle | 245320 | [245320-playdate-bunny-bundle.json](./245320-playdate-bunny-bundle.json) |
