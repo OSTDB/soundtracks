@@ -4307,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubot | 36000 | [36000-cubot.json](./36000-cubot.json) |
 | Cuboyd | 290708 | [290708-cuboyd.json](./290708-cuboyd.json) |
 | Cubrick | 28792 | [28792-cubrick.json](./28792-cubrick.json) |
+| Cubuleto | 374124 | [374124-cubuleto.json](./374124-cubuleto.json) |
 | Cubway | 31800 | [31800-cubway.json](./31800-cubway.json) |
 | Cuby Bop | 39675 | [39675-cuby-bop.json](./39675-cuby-bop.json) |
 | CubyJump | 110308 | [110308-cubyjump.json](./110308-cubyjump.json) |
@@ -4494,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Heroes | 343802 | [343802-cute-heroes.json](./343802-cute-heroes.json) |
 | Cute Honey: Special Edition | 236017 | [236017-cute-honey-special-edition.json](./236017-cute-honey-special-edition.json) |
 | Cute Kaizo World | 208401 | [208401-cute-kaizo-world.json](./208401-cute-kaizo-world.json) |
+| Cute Mold | 374161 | [374161-cute-mold.json](./374161-cute-mold.json) |
 | Cute Pet Doctor Care | 228113 | [228113-cute-pet-doctor-care.json](./228113-cute-pet-doctor-care.json) |
 | Cute Puzzle | 111015 | [111015-cute-puzzle.json](./111015-cute-puzzle.json) |
 | Cute Puzzle MAX | 111079 | [111079-cute-puzzle-max.json](./111079-cute-puzzle-max.json) |
