@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
 | A western love story but with no horse | 176961 | [176961-a-western-love-story-but-with-no-horse.json](./176961-a-western-love-story-but-with-no-horse.json) |
+| A Whisper in the Twilight: Chapter Two | 338298 | [338298-a-whisper-in-the-twilight-chapter-two.json](./338298-a-whisper-in-the-twilight-chapter-two.json) |
 | A Wild Heist | 390106 | [390106-a-wild-heist.json](./390106-a-wild-heist.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
@@ -2428,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Style: Happy Ocean | 200678 | [200678-arc-style-happy-ocean.json](./200678-arc-style-happy-ocean.json) |
 | Arc Symphony | 74332 | [74332-arc-symphony.json](./74332-arc-symphony.json) |
 | Arc TCG | 290934 | [290934-arc-tcg.json](./290934-arc-tcg.json) |
+| Arc Tracker | 338265 | [338265-arc-tracker.json](./338265-arc-tracker.json) |
 | ARCA Sim Racing 08' | 197936 | [197936-arca-sim-racing-08.json](./197936-arca-sim-racing-08.json) |
 | ARCA Sim Racing X | 197923 | [197923-arca-sim-racing-x.json](./197923-arca-sim-racing-x.json) |
 | Arca's Path | 103053 | [103053-arcas-path.json](./103053-arcas-path.json) |
