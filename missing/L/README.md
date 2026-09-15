@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lanterns | 89967 | [89967-lanterns.json](./89967-lanterns.json) |
 | Lanternwood | 375827 | [375827-lanternwood.json](./375827-lanternwood.json) |
 | Lapis x Labyrinth: Limited Edition | 107260 | [107260-lapis-x-labyrinth-limited-edition.json](./107260-lapis-x-labyrinth-limited-edition.json) |
+| Lapistasia | 377675 | [377675-lapistasia.json](./377675-lapistasia.json) |
 | Laplace | 109651 | [109651-laplace.json](./109651-laplace.json) |
 | Laplace M | 126047 | [126047-laplace-m.json](./126047-laplace-m.json) |
 | Lapse | 111699 | [111699-lapse.json](./111699-lapse.json) |
@@ -1923,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Verses | 323523 | [323523-lost-verses.json](./323523-lost-verses.json) |
 | Lost Wage Rampage | 108989 | [108989-lost-wage-rampage.json](./108989-lost-wage-rampage.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
+| Lostade | 377694 | [377694-lostade.json](./377694-lostade.json) |
 | Losted Mind | 348256 | [348256-losted-mind.json](./348256-losted-mind.json) |
 | LostHero | 138248 | [138248-losthero.json](./138248-losthero.json) |
 | Lot Lizard | 294178 | [294178-lot-lizard.json](./294178-lot-lizard.json) |
