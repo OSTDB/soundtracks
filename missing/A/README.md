@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hollow Doorway | 94785 | [94785-a-hollow-doorway.json](./94785-a-hollow-doorway.json) |
 | A Host of Gentle Terrors | 136437 | [136437-a-host-of-gentle-terrors.json](./136437-a-host-of-gentle-terrors.json) |
 | A House 4 Alesa | 305785 | [305785-a-house-4-alesa.json](./305785-a-house-4-alesa.json) |
+| A House of Endless Windows | 345040 | [345040-a-house-of-endless-windows.json](./345040-a-house-of-endless-windows.json) |
 | A House That Glows | 389593 | [389593-a-house-that-glows.json](./389593-a-house-that-glows.json) |
 | A housewife Hiroko Yamaguchi is reborn in the alternative world with her husband | 82927 | [82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json](./82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json) |
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
@@ -260,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
 | Above Eden | 400942 | [400942-above-eden.json](./400942-above-eden.json) |
 | Above the Snow | 349373 | [349373-above-the-snow.json](./349373-above-the-snow.json) |
+| Abra-cooking-dabra | 345039 | [345039-abra-cooking-dabra.json](./345039-abra-cooking-dabra.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
 | Abrix the robot | 33018 | [33018-abrix-the-robot.json](./33018-abrix-the-robot.json) |
@@ -1724,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And Around Goes the Clock | 364514 | [364514-and-around-goes-the-clock.json](./364514-and-around-goes-the-clock.json) |
 | And I Made Sure to Hold Your Head Sideways | 138781 | [138781-and-i-made-sure-to-hold-your-head-sideways.json](./138781-and-i-made-sure-to-hold-your-head-sideways.json) |
 | And I Must Scream | 115597 | [115597-and-i-must-scream.json](./115597-and-i-must-scream.json) |
+| And I'll Never Leave | 345009 | [345009-and-ill-never-leave.json](./345009-and-ill-never-leave.json) |
 | And Roger | 324784 | [324784-and-roger.json](./324784-and-roger.json) |
 | And Yet It Moves | 9772 | [9772-and-yet-it-moves.json](./9772-and-yet-it-moves.json) |
 | Andalusian Roulette | 303789 | [303789-andalusian-roulette.json](./303789-andalusian-roulette.json) |
@@ -3505,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athletyx | 123069 | [123069-athletyx.json](./123069-athletyx.json) |
 | Athopiu Complete | 52623 | [52623-athopiu-complete.json](./52623-athopiu-complete.json) |
 | Athos | 265413 | [265413-athos.json](./265413-athos.json) |
+| Athyra: Rock, Paper, Scissors | 345025 | [345025-athyra-rock-paper-scissors.json](./345025-athyra-rock-paper-scissors.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
 | Atlantic Edge | 107935 | [107935-atlantic-edge.json](./107935-atlantic-edge.json) |
