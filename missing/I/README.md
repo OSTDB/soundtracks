@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invention 7 | 340760 | [340760-invention-7.json](./340760-invention-7.json) |
 | Inventor Labs | 94242 | [94242-inventor-labs.json](./94242-inventor-labs.json) |
 | Inventor’s Cabin | 381622 | [381622-inventor-s-cabin.json](./381622-inventor-s-cabin.json) |
+| Inventory Full | 338833 | [338833-inventory-full.json](./338833-inventory-full.json) |
 | Inventris TD | 319009 | [319009-inventris-td.json](./319009-inventris-td.json) |
 | Inverness Nights | 134676 | [134676-inverness-nights.json](./134676-inverness-nights.json) |
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
