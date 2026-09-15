@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Mercenary | 129127 | [129127-red-mercenary.json](./129127-red-mercenary.json) |
 | Red Moon | 382317 | [382317-red-moon.json](./382317-red-moon.json) |
 | Red Moon: Lost Days | 192893 | [192893-red-moon-lost-days.json](./192893-red-moon-lost-days.json) |
+| Red Night | 334163 | [334163-red-night.json](./334163-red-night.json) |
 | Red Ninja: End of Honor | 6000 | [6000-red-ninja-end-of-honor.json](./6000-red-ninja-end-of-honor.json) |
 | Red Nose Guy Gauntlet Inc.: The Burnout | 371328 | [371328-red-nose-guy-gauntlet-inc-the-burnout.json](./371328-red-nose-guy-gauntlet-inc-the-burnout.json) |
 | Red Pixel | 59925 | [59925-red-pixel.json](./59925-red-pixel.json) |
@@ -1611,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revival and Exploration | 252130 | [252130-revival-and-exploration.json](./252130-revival-and-exploration.json) |
 | Revival AO | 212245 | [212245-revival-ao.json](./212245-revival-ao.json) |
 | Revival of the Road | 83496 | [83496-revival-of-the-road.json](./83496-revival-of-the-road.json) |
+| Revive | 334183 | [334183-revive.json](./334183-revive.json) |
 | Revive & Repeat | 391731 | [391731-revive-and-repeat.json](./391731-revive-and-repeat.json) |
 | Revive The Town! | 353372 | [353372-revive-the-town.json](./353372-revive-the-town.json) |
 | Revive: C64 Classics | 84199 | [84199-revive-c64-classics.json](./84199-revive-c64-classics.json) |
@@ -2134,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robber | 254535 | [254535-robber.json](./254535-robber.json) |
 | Robber | 385579 | [385579-robber.json](./385579-robber.json) |
 | Robber Knight | 204068 | [204068-robber-knight.json](./204068-robber-knight.json) |
+| Robbery Day | 334206 | [334206-robbery-day.json](./334206-robbery-day.json) |
 | Robbery Madness: Thief Games | 219782 | [219782-robbery-madness-thief-games.json](./219782-robbery-madness-thief-games.json) |
 | Robby's Day Out | 181850 | [181850-robbys-day-out.json](./181850-robbys-day-out.json) |
 | Robert D. Anderson & the Legacy of Cthulhu | 20772 | [20772-robert-d-anderson-and-the-legacy-of-cthulhu.json](./20772-robert-d-anderson-and-the-legacy-of-cthulhu.json) |
@@ -2732,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Rose Riddle: Fairy Tale Detective - Collector's Edition | 343359 | [343359-rose-riddle-fairy-tale-detective-collectors-edition.json](./343359-rose-riddle-fairy-tale-detective-collectors-edition.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
+| Roses Shoot Red, Violets Shoot Blue | 334167 | [334167-roses-shoot-red-violets-shoot-blue.json](./334167-roses-shoot-red-violets-shoot-blue.json) |
 | Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
 | Rosie's Rampage | 391170 | [391170-rosies-rampage.json](./391170-rosies-rampage.json) |
 | Roswell Conspiracies: Aliens, Myths & Legends | 49883 | [49883-roswell-conspiracies-aliens-myths-and-legends.json](./49883-roswell-conspiracies-aliens-myths-and-legends.json) |
