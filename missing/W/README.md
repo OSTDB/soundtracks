@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why | 257413 | [257413-why.json](./257413-why.json) |
 | Why Chicken? Why? | 114973 | [114973-why-chicken-why.json](./114973-why-chicken-why.json) |
 | Why Did The Chicken Cross The Road? | 310753 | [310753-why-did-the-chicken-cross-the-road.json](./310753-why-did-the-chicken-cross-the-road.json) |
+| Why Did You Leave Me Like This? | 365771 | [365771-why-did-you-leave-me-like-this.json](./365771-why-did-you-leave-me-like-this.json) |
 | Why Do Boys Play Games? | 346579 | [346579-why-do-boys-play-games.json](./346579-why-do-boys-play-games.json) |
 | Why Don't They Laugh? | 312558 | [312558-why-dont-they-laugh.json](./312558-why-dont-they-laugh.json) |
 | Why Me | 377147 | [377147-why-me.json](./377147-why-me.json) |
