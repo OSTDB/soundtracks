@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T03:19:03.186Z",
-  "total_missing": 72224,
+  "generated_at": "2026-09-15T03:21:36.439Z",
+  "total_missing": 72223,
   "games": [
     {
       "igdb_id": 306086,
@@ -4951,11 +4951,6 @@
       "igdb_id": 32355,
       "game_name": "Affairs of the Court: Choice of Romance",
       "file": "missing/A/32355-affairs-of-the-court-choice-of-romance.json"
-    },
-    {
-      "igdb_id": 146347,
-      "game_name": "Affectus",
-      "file": "missing/A/146347-affectus.json"
     },
     {
       "igdb_id": 357796,
