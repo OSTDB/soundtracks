@@ -479,7 +479,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affairs of the Court: Choice of Romance | 32355 | [32355-affairs-of-the-court-choice-of-romance.json](./32355-affairs-of-the-court-choice-of-romance.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
-| Afrika Korps | 14228 | [14228-afrika-korps.json](./14228-afrika-korps.json) |
 | After Burner | 365088 | [365088-after-burner.json](./365088-after-burner.json) |
 | After Burner | 365089 | [365089-after-burner.json](./365089-after-burner.json) |
 | After Burner | 365100 | [365100-after-burner.json](./365100-after-burner.json) |
