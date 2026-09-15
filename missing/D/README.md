@@ -4140,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Lords: The Orb and the Oracle | 72614 | [72614-dungeon-lords-the-orb-and-the-oracle.json](./72614-dungeon-lords-the-orb-and-the-oracle.json) |
 | Dungeon Man | 277272 | [277272-dungeon-man.json](./277272-dungeon-man.json) |
 | Dungeon Mania | 252153 | [252153-dungeon-mania.json](./252153-dungeon-mania.json) |
+| Dungeon Market Simulator | 354516 | [354516-dungeon-market-simulator.json](./354516-dungeon-market-simulator.json) |
 | Dungeon Master | 220842 | [220842-dungeon-master.json](./220842-dungeon-master.json) |
 | Dungeon Master 2K | 200101 | [200101-dungeon-master-2k.json](./200101-dungeon-master-2k.json) |
 | Dungeon Master II: The Legend of Skullkeep | 2503 | [2503-dungeon-master-ii-the-legend-of-skullkeep.json](./2503-dungeon-master-ii-the-legend-of-skullkeep.json) |
