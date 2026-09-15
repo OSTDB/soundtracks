@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T04:19:38.587Z",
-  "total_missing": 72418,
+  "generated_at": "2026-09-15T04:21:50.694Z",
+  "total_missing": 72417,
   "games": [
     {
       "igdb_id": 306086,
@@ -4981,11 +4981,6 @@
       "igdb_id": 405469,
       "game_name": "AFK Industarry",
       "file": "missing/A/405469-afk-industarry.json"
-    },
-    {
-      "igdb_id": 47306,
-      "game_name": "AFL Live 2004",
-      "file": "missing/A/47306-afl-live-2004.json"
     },
     {
       "igdb_id": 73847,
