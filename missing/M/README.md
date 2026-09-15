@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoirs of Murder: Resorting to Revenge | 322579 | [322579-memoirs-of-murder-resorting-to-revenge.json](./322579-memoirs-of-murder-resorting-to-revenge.json) |
 | Memoirs of Murder: Welcome to Hidden Pines | 322578 | [322578-memoirs-of-murder-welcome-to-hidden-pines.json](./322578-memoirs-of-murder-welcome-to-hidden-pines.json) |
 | Memolith: Forsaken by Light | 399744 | [399744-memolith-forsaken-by-light.json](./399744-memolith-forsaken-by-light.json) |
+| Memology | 375957 | [375957-memology.json](./375957-memology.json) |
 | Memorel Restoration Project | 380525 | [380525-memorel-restoration-project.json](./380525-memorel-restoration-project.json) |
 | Memori | 251579 | [251579-memori.json](./251579-memori.json) |
 | Memoria | 191172 | [191172-memoria.json](./191172-memoria.json) |
@@ -3489,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Dreams | 138832 | [138832-monster-girl-dreams.json](./138832-monster-girl-dreams.json) |
 | Monster Girl Dungeon | 166214 | [166214-monster-girl-dungeon.json](./166214-monster-girl-dungeon.json) |
 | Monster Girl Fantasy | 116339 | [116339-monster-girl-fantasy.json](./116339-monster-girl-fantasy.json) |
+| Monster Girl Jungle | 375969 | [375969-monster-girl-jungle.json](./375969-monster-girl-jungle.json) |
 | Monster Girl Maker 2 | 362265 | [362265-monster-girl-maker-2.json](./362265-monster-girl-maker-2.json) |
 | Monster Girl Prom | 96672 | [96672-monster-girl-prom.json](./96672-monster-girl-prom.json) |
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
