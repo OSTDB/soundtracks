@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Moriviha: Deadly Secret | 276162 | [276162-tales-of-moriviha-deadly-secret.json](./276162-tales-of-moriviha-deadly-secret.json) |
 | Tales of Nebezem RPG: Red Peril | 115609 | [115609-tales-of-nebezem-rpg-red-peril.json](./115609-tales-of-nebezem-rpg-red-peril.json) |
 | Tales of Nebezem: Elemental Link | 86749 | [86749-tales-of-nebezem-elemental-link.json](./86749-tales-of-nebezem-elemental-link.json) |
+| Tales of Phantasia: Cross Edition | 351694 | [351694-tales-of-phantasia-cross-edition.json](./351694-tales-of-phantasia-cross-edition.json) |
 | Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
@@ -1249,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Effect: Connected | 135999 | [135999-tetris-effect-connected.json](./135999-tetris-effect-connected.json) |
 | Tetris Evolution | 2631 | [2631-tetris-evolution.json](./2631-tetris-evolution.json) |
 | Tetris Giant | 92457 | [92457-tetris-giant.json](./92457-tetris-giant.json) |
+| Tetris Jr. | 351732 | [351732-tetris-jr.json](./351732-tetris-jr.json) |
 | Tetris Keyring Arcade | 234080 | [234080-tetris-keyring-arcade.json](./234080-tetris-keyring-arcade.json) |
 | Tetris Kiwamemichi | 137623 | [137623-tetris-kiwamemichi.json](./137623-tetris-kiwamemichi.json) |
 | Tetris MicroCard | 234081 | [234081-tetris-microcard.json](./234081-tetris-microcard.json) |
@@ -1653,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Pepper Crew | 184629 | [184629-the-black-pepper-crew.json](./184629-the-black-pepper-crew.json) |
 | The Black Pool | 226447 | [226447-the-black-pool.json](./226447-the-black-pool.json) |
 | The Black Rose | 124260 | [124260-the-black-rose.json](./124260-the-black-rose.json) |
+| The Black Signal | 351709 | [351709-the-black-signal.json](./351709-the-black-signal.json) |
 | The Black Tower | 58827 | [58827-the-black-tower.json](./58827-the-black-tower.json) |
 | The Black Watchmen | 27707 | [27707-the-black-watchmen.json](./27707-the-black-watchmen.json) |
 | The Black Watchmen: Alone in the Dark Web | 170484 | [170484-the-black-watchmen-alone-in-the-dark-web.json](./170484-the-black-watchmen-alone-in-the-dark-web.json) |
@@ -1804,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
 | The Chaste Full-Metal Maiden - Leiria | 124262 | [124262-the-chaste-full-metal-maiden-leiria.json](./124262-the-chaste-full-metal-maiden-leiria.json) |
 | The Cheetah Girls | 49367 | [49367-the-cheetah-girls.json](./49367-the-cheetah-girls.json) |
+| The Chess | 351729 | [351729-the-chess.json](./351729-the-chess.json) |
 | The Chewllers | 151686 | [151686-the-chewllers.json](./151686-the-chewllers.json) |
 | The Chick C | 191265 | [191265-the-chick-c.json](./191265-the-chick-c.json) |
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
@@ -3002,6 +3006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sacrifice: Forbidden Ties | 225680 | [225680-the-last-sacrifice-forbidden-ties.json](./225680-the-last-sacrifice-forbidden-ties.json) |
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
+| The Last Shot: Arcades | 351723 | [351723-the-last-shot-arcades.json](./351723-the-last-shot-arcades.json) |
 | The Last Soldier | 109768 | [109768-the-last-soldier.json](./109768-the-last-soldier.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
 | The Last Stand | 344396 | [344396-the-last-stand.json](./344396-the-last-stand.json) |
@@ -6422,6 +6427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Annihilation: The Core Contingency | 71462 | [71462-total-annihilation-the-core-contingency.json](./71462-total-annihilation-the-core-contingency.json) |
 | Total Apocalypse | 273128 | [273128-total-apocalypse.json](./273128-total-apocalypse.json) |
 | Total Arcade Racing | 132563 | [132563-total-arcade-racing.json](./132563-total-arcade-racing.json) |
+| Total Driftin': Touge Dreams | 351713 | [351713-total-driftin-touge-dreams.json](./351713-total-driftin-touge-dreams.json) |
 | Total Esports Action Manager | 117036 | [117036-total-esports-action-manager.json](./117036-total-esports-action-manager.json) |
 | Total Extreme Wrestling 2016 | 27681 | [27681-total-extreme-wrestling-2016.json](./27681-total-extreme-wrestling-2016.json) |
 | Total Football Online | 406683 | [406683-total-football-online.json](./406683-total-football-online.json) |
@@ -7292,6 +7298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Riddles: Trip to France | 41937 | [41937-travel-riddles-trip-to-france.json](./41937-travel-riddles-trip-to-france.json) |
 | Travel Riddles: Trip to Italy | 41938 | [41938-travel-riddles-trip-to-italy.json](./41938-travel-riddles-trip-to-italy.json) |
 | Travel to GolemPark | 199100 | [199100-travel-to-golempark.json](./199100-travel-to-golempark.json) |
+| Travel With Dinosaurs | 351710 | [351710-travel-with-dinosaurs.json](./351710-travel-with-dinosaurs.json) |
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
 | Traveler's Refrain | 287784 | [287784-travelers-refrain.json](./287784-travelers-refrain.json) |
 | Traveler's Refrain x Dreamscaper | 396437 | [396437-travelers-refrain-x-dreamscaper.json](./396437-travelers-refrain-x-dreamscaper.json) |
@@ -7667,6 +7674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucksform3d Offroad 3D Shooting Bigfoot Endless Racing Truck | 102825 | [102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json](./102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json) |
 | Truco | 193408 | [193408-truco.json](./193408-truco.json) |
 | Truco Argentino | 410311 | [410311-truco-argentino.json](./410311-truco-argentino.json) |
+| Truco Blyts | 351735 | [351735-truco-blyts.json](./351735-truco-blyts.json) |
 | Truco! | 259840 | [259840-truco.json](./259840-truco.json) |
 | Truco!: Chapter 1 | 259842 | [259842-truco-chapter-1.json](./259842-truco-chapter-1.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
@@ -7733,6 +7741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Marketplace: Northeast Corridor Scenario Pack 02 | 227291 | [227291-ts-marketplace-northeast-corridor-scenario-pack-02.json](./227291-ts-marketplace-northeast-corridor-scenario-pack-02.json) |
 | TS Marketplace: Renewable Energy Pack | 227300 | [227300-ts-marketplace-renewable-energy-pack.json](./227300-ts-marketplace-renewable-energy-pack.json) |
 | TSA Frisky VR | 89964 | [89964-tsa-frisky-vr.json](./89964-tsa-frisky-vr.json) |
+| Tsan-shadow Ninja | 351724 | [351724-tsan-shadow-ninja.json](./351724-tsan-shadow-ninja.json) |
 | Tsjost's Heroic Soup Bazooka | 222902 | [222902-tsjosts-heroic-soup-bazooka.json](./222902-tsjosts-heroic-soup-bazooka.json) |
 | Tsubaki Hata | 226203 | [226203-tsubaki-hata.json](./226203-tsubaki-hata.json) |
 | Tsubasa Heaven | 406831 | [406831-tsubasa-heaven.json](./406831-tsubasa-heaven.json) |
@@ -7844,6 +7853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
 | Turbo Tempest | 153953 | [153953-turbo-tempest.json](./153953-turbo-tempest.json) |
 | Turbo Trax | 12802 | [12802-turbo-trax.json](./12802-turbo-trax.json) |
+| Turbo Truck Islands | 351719 | [351719-turbo-truck-islands.json](./351719-turbo-truck-islands.json) |
 | Turbo trucks | 44635 | [44635-turbo-trucks.json](./44635-turbo-trucks.json) |
 | Turbo Turtle Adventure | 49345 | [49345-turbo-turtle-adventure.json](./49345-turbo-turtle-adventure.json) |
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
