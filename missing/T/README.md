@@ -2269,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elven Forest VR | 384633 | [384633-the-elven-forest-vr.json](./384633-the-elven-forest-vr.json) |
 | The Elysian Field | 153976 | [153976-the-elysian-field.json](./153976-the-elysian-field.json) |
 | The Elysian Fields and Other Greek Myths | 122985 | [122985-the-elysian-fields-and-other-greek-myths.json](./122985-the-elysian-fields-and-other-greek-myths.json) |
+| The Ember Guardian | 342161 | [342161-the-ember-guardian.json](./342161-the-ember-guardian.json) |
 | The Eminence in Shadow: Master of Garden | 227490 | [227490-the-eminence-in-shadow-master-of-garden.json](./227490-the-eminence-in-shadow-master-of-garden.json) |
 | The Empathy Algorithm | 387999 | [387999-the-empathy-algorithm.json](./387999-the-empathy-algorithm.json) |
 | The Emperor and State | 278977 | [278977-the-emperor-and-state.json](./278977-the-emperor-and-state.json) |
@@ -2487,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Village | 337488 | [337488-the-forgotten-village.json](./337488-the-forgotten-village.json) |
 | The Forgotten Village of Gondomayit | 268215 | [268215-the-forgotten-village-of-gondomayit.json](./268215-the-forgotten-village-of-gondomayit.json) |
 | The Forlorn | 415163 | [415163-the-forlorn.json](./415163-the-forlorn.json) |
+| The Fortune Teller Game | 342178 | [342178-the-fortune-teller-game.json](./342178-the-fortune-teller-game.json) |
 | The Founders of Daytona Beach Also Founded Dayton, Ohio | 360606 | [360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json](./360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json) |
 | The Four Old Gods | 136442 | [136442-the-four-old-gods.json](./136442-the-four-old-gods.json) |
 | The Fourth Generation | 72693 | [72693-the-fourth-generation.json](./72693-the-fourth-generation.json) |
@@ -2878,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Judgment Collection | 342629 | [342629-the-judgment-collection.json](./342629-the-judgment-collection.json) |
 | The Jumping Bagel | 223150 | [223150-the-jumping-bagel.json](./223150-the-jumping-bagel.json) |
 | The Jumping Bagel: Turbo | 223152 | [223152-the-jumping-bagel-turbo.json](./223152-the-jumping-bagel-turbo.json) |
+| The Jumping Bird | 342155 | [342155-the-jumping-bird.json](./342155-the-jumping-bird.json) |
 | The Jumping Bonbon Match 3 | 359979 | [359979-the-jumping-bonbon-match-3.json](./359979-the-jumping-bonbon-match-3.json) |
 | The Jumping Brownie | 209644 | [209644-the-jumping-brownie.json](./209644-the-jumping-brownie.json) |
 | The Jumping Brownie: Turbo | 209645 | [209645-the-jumping-brownie-turbo.json](./209645-the-jumping-brownie-turbo.json) |
@@ -3253,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Drift | 392303 | [392303-the-long-drift.json](./392303-the-long-drift.json) |
 | The Long Gate | 127215 | [127215-the-long-gate.json](./127215-the-long-gate.json) |
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
+| The Long Tale | 342144 | [342144-the-long-tale.json](./342144-the-long-tale.json) |
 | The Long Way Home | 390118 | [390118-the-long-way-home.json](./390118-the-long-way-home.json) |
 | The Long Winter: I Am Not an Animal | 390646 | [390646-the-long-winter-i-am-not-an-animal.json](./390646-the-long-winter-i-am-not-an-animal.json) |
 | The Longest Drift | 175441 | [175441-the-longest-drift.json](./175441-the-longest-drift.json) |
@@ -3803,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rainman | 301835 | [301835-the-rainman.json](./301835-the-rainman.json) |
 | The Rainsdowne Players | 97926 | [97926-the-rainsdowne-players.json](./97926-the-rainsdowne-players.json) |
 | The Rainy Port Keelung | 35758 | [35758-the-rainy-port-keelung.json](./35758-the-rainy-port-keelung.json) |
+| The Rake: Back To Asylum | 342135 | [342135-the-rake-back-to-asylum.json](./342135-the-rake-back-to-asylum.json) |
 | The Ramp | 159248 | [159248-the-ramp.json](./159248-the-ramp.json) |
 | The Ranchers | 142498 | [142498-the-ranchers.json](./142498-the-ranchers.json) |
 | The Ransom of Atawallpa | 337644 | [337644-the-ransom-of-atawallpa.json](./337644-the-ransom-of-atawallpa.json) |
@@ -6373,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Kittens | 269839 | [269839-too-many-kittens.json](./269839-too-many-kittens.json) |
 | Too Many Me | 11011 | [11011-too-many-me.json](./11011-too-many-me.json) |
 | Too Many Nights | 315475 | [315475-too-many-nights.json](./315475-too-many-nights.json) |
+| Too Many Ninjas! | 342165 | [342165-too-many-ninjas.json](./342165-too-many-ninjas.json) |
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
 | Tool Land | 391747 | [391747-tool-land.json](./391747-tool-land.json) |
 | Toolbox Tycoon | 362826 | [362826-toolbox-tycoon.json](./362826-toolbox-tycoon.json) |
@@ -6835,6 +6841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | TOY DJ - An Electronic Music Rhythm Game | 100909 | [100909-toy-dj-an-electronic-music-rhythm-game.json](./100909-toy-dj-an-electronic-music-rhythm-game.json) |
+| Toy Drop Balance Challenge | 342152 | [342152-toy-drop-balance-challenge.json](./342152-toy-drop-balance-challenge.json) |
 | Toy Factory | 206712 | [206712-toy-factory.json](./206712-toy-factory.json) |
 | Toy Goblins | 57035 | [57035-toy-goblins.json](./57035-toy-goblins.json) |
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
@@ -6939,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailmarks | 391079 | [391079-trailmarks.json](./391079-trailmarks.json) |
 | Trailpa | 256518 | [256518-trailpa.json](./256518-trailpa.json) |
 | TrailRail | 366850 | [366850-trailrail.json](./366850-trailrail.json) |
+| Trails | 342158 | [342158-trails.json](./342158-trails.json) |
 | Trails in the Sky 1st Chapter: Steelbook Edition | 351131 | [351131-trails-in-the-sky-1st-chapter-steelbook-edition.json](./351131-trails-in-the-sky-1st-chapter-steelbook-edition.json) |
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
