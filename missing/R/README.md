@@ -2513,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Toolman | 248683 | [248683-rolling-toolman.json](./248683-rolling-toolman.json) |
 | Rolling Valley | 192876 | [192876-rolling-valley.json](./192876-rolling-valley.json) |
 | RollingSky | 129747 | [129747-rollingsky.json](./129747-rollingsky.json) |
+| Rollo Pollo | 348352 | [348352-rollo-pollo.json](./348352-rollo-pollo.json) |
 | Rollout | 31870 | [31870-rollout.json](./31870-rollout.json) |
 | RollTheEarth | 103437 | [103437-rolltheearth.json](./103437-rolltheearth.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
@@ -3139,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustler | 99302 | [99302-rustler.json](./99302-rustler.json) |
 | Rustling Leaves | 249781 | [249781-rustling-leaves.json](./249781-rustling-leaves.json) |
 | Rustmourne | 406184 | [406184-rustmourne.json](./406184-rustmourne.json) |
+| RustNaut | 348308 | [348308-rustnaut.json](./348308-rustnaut.json) |
 | Rusty | 239074 | [239074-rusty.json](./239074-rusty.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
 | Rusty Lake: Roots | 25222 | [25222-rusty-lake-roots.json](./25222-rusty-lake-roots.json) |
