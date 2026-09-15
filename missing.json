@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T10:19:12.096Z",
-  "total_missing": 73505,
+  "generated_at": "2026-09-15T10:21:44.657Z",
+  "total_missing": 73504,
   "games": [
     {
       "igdb_id": 306086,
@@ -5161,11 +5161,6 @@
       "igdb_id": 141799,
       "game_name": "After-H: Legend of Mars",
       "file": "missing/A/141799-after-h-legend-of-mars.json"
-    },
-    {
-      "igdb_id": 362257,
-      "game_name": "After-H: Moon of the Dead",
-      "file": "missing/A/362257-after-h-moon-of-the-dead.json"
     },
     {
       "igdb_id": 362285,
