@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
 | Scavenger | 74443 | [74443-scavenger.json](./74443-scavenger.json) |
 | Scavenger Skirmish: Mortal World | 105372 | [105372-scavenger-skirmish-mortal-world.json](./105372-scavenger-skirmish-mortal-world.json) |
+| Scavenger T.O.M | 365179 | [365179-scavenger-t-o-m.json](./365179-scavenger-t-o-m.json) |
 | Scavenger VR | 277837 | [277837-scavenger-vr.json](./277837-scavenger-vr.json) |
 | Scavengers | 91041 | [91041-scavengers.json](./91041-scavengers.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
@@ -2278,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
+| Shotgun Science | 365155 | [365155-shotgun-science.json](./365155-shotgun-science.json) |
 | Shotgun Symphony | 144262 | [144262-shotgun-symphony.json](./144262-shotgun-symphony.json) |
 | Shothop | 396417 | [396417-shothop.json](./396417-shothop.json) |
 | Shougakusei no Uchi ni Oboetai Eitango | 260693 | [260693-shougakusei-no-uchi-ni-oboetai-eitango.json](./260693-shougakusei-no-uchi-ni-oboetai-eitango.json) |
@@ -4784,6 +4786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mages: Dimension 33 | 153417 | [153417-space-mages-dimension-33.json](./153417-space-mages-dimension-33.json) |
 | Space Major Miner | 207324 | [207324-space-major-miner.json](./207324-space-major-miner.json) |
 | Space man adventure dash | 99662 | [99662-space-man-adventure-dash.json](./99662-space-man-adventure-dash.json) |
+| Space Mantlet | 365148 | [365148-space-mantlet.json](./365148-space-mantlet.json) |
 | Space Marauder | 49968 | [49968-space-marauder.json](./49968-space-marauder.json) |
 | Space Marshals 2 | 38944 | [38944-space-marshals-2.json](./38944-space-marshals-2.json) |
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
@@ -7799,6 +7802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Meat Shooter: Happy Meat Winter | 172116 | [172116-super-meat-shooter-happy-meat-winter.json](./172116-super-meat-shooter-happy-meat-winter.json) |
 | Super Mecha Lifter 4000 | 363916 | [363916-super-mecha-lifter-4000.json](./363916-super-mecha-lifter-4000.json) |
 | Super Mega Lucky Box | 234599 | [234599-super-mega-lucky-box.json](./234599-super-mega-lucky-box.json) |
+| Super Mega Runners | 365137 | [365137-super-mega-runners.json](./365137-super-mega-runners.json) |
 | Super Metroid and A Link to the Past Crossover Randomizer | 210231 | [210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json](./210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json) |
 | Super Metroid CRE | 255374 | [255374-super-metroid-cre.json](./255374-super-metroid-cre.json) |
 | Super Metroid CRE 2 | 255373 | [255373-super-metroid-cre-2.json](./255373-super-metroid-cre-2.json) |
@@ -8287,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Apocalypse | 404208 | [404208-survive-the-apocalypse.json](./404208-survive-the-apocalypse.json) |
 | Survive the Backrooms! | 192961 | [192961-survive-the-backrooms.json](./192961-survive-the-backrooms.json) |
 | Survive the Forest | 219572 | [219572-survive-the-forest.json](./219572-survive-the-forest.json) |
+| Survive the Grid | 365162 | [365162-survive-the-grid.json](./365162-survive-the-grid.json) |
 | Survive the Hill | 187524 | [187524-survive-the-hill.json](./187524-survive-the-hill.json) |
 | Survive the Labyrinth | 343833 | [343833-survive-the-labyrinth.json](./343833-survive-the-labyrinth.json) |
 | Survive the Swarm | 348784 | [348784-survive-the-swarm.json](./348784-survive-the-swarm.json) |
@@ -8707,6 +8712,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthrome | 316614 | [316614-synthrome.json](./316614-synthrome.json) |
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
 | Synthwave Hop | 172198 | [172198-synthwave-hop.json](./172198-synthwave-hop.json) |
+| Syobon Action 2 HD | 365136 | [365136-syobon-action-2-hd.json](./365136-syobon-action-2-hd.json) |
+| Syobon Action HD | 365135 | [365135-syobon-action-hd.json](./365135-syobon-action-hd.json) |
 | Syobon Action NES Edition | 198474 | [198474-syobon-action-nes-edition.json](./198474-syobon-action-nes-edition.json) |
 | Syon | 296383 | [296383-syon.json](./296383-syon.json) |
 | Syphon Filter | 4115 | [4115-syphon-filter.json](./4115-syphon-filter.json) |
