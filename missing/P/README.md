@@ -4128,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Game | 263775 | [263775-puzzle-game.json](./263775-puzzle-game.json) |
 | Puzzle Game | 366919 | [366919-puzzle-game.json](./366919-puzzle-game.json) |
 | Puzzle Game | 97201 | [97201-puzzle-game.json](./97201-puzzle-game.json) |
+| Puzzle Games for Children | 352830 | [352830-puzzle-games-for-children.json](./352830-puzzle-games-for-children.json) |
 | Puzzle Girls: Celia | 163913 | [163913-puzzle-girls-celia.json](./163913-puzzle-girls-celia.json) |
 | Puzzle Islands: Ancient & Modern - Bundle | 340743 | [340743-puzzle-islands-ancient-and-modern-bundle.json](./340743-puzzle-islands-ancient-and-modern-bundle.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
