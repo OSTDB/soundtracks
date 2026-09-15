@@ -619,6 +619,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
 | Mamiya | 145621 | [145621-mamiya.json](./145621-mamiya.json) |
 | Mamiya: Complete Collection | 405491 | [405491-mamiya-complete-collection.json](./405491-mamiya-complete-collection.json) |
+| Mamiya: Downfall | 368583 | [368583-mamiya-downfall.json](./368583-mamiya-downfall.json) |
+| Mamiya: FallDown | 368564 | [368564-mamiya-falldown.json](./368564-mamiya-falldown.json) |
 | Mamizou's Mimic Check | 338698 | [338698-mamizous-mimic-check.json](./338698-mamizous-mimic-check.json) |
 | Mammoth Mini Golf AR | 87202 | [87202-mammoth-mini-golf-ar.json](./87202-mammoth-mini-golf-ar.json) |
 | Mammy Talk DS | 130391 | [130391-mammy-talk-ds.json](./130391-mammy-talk-ds.json) |
@@ -1583,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Battlefields: Black Edition | 33081 | [33081-medieval-battlefields-black-edition.json](./33081-medieval-battlefields-black-edition.json) |
 | Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
 | Medieval Castle Siege Defense vs. Invaders | 406083 | [406083-medieval-castle-siege-defense-vs-invaders.json](./406083-medieval-castle-siege-defense-vs-invaders.json) |
+| Medieval Coin Hunt | 368540 | [368540-medieval-coin-hunt.json](./368540-medieval-coin-hunt.json) |
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
 | Medieval Delivery | 263519 | [263519-medieval-delivery.json](./263519-medieval-delivery.json) |
 | Medieval Dynasty: Echoes of Nature | 366852 | [366852-medieval-dynasty-echoes-of-nature.json](./366852-medieval-dynasty-echoes-of-nature.json) |
@@ -1744,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megabat | 253913 | [253913-megabat.json](./253913-megabat.json) |
 | Megabonk | 327405 | [327405-megabonk.json](./327405-megabonk.json) |
 | Megabonk Smash | 376471 | [376471-megabonk-smash.json](./376471-megabonk-smash.json) |
+| Megacobra vs. Sharkbat | 368563 | [368563-megacobra-vs-sharkbat.json](./368563-megacobra-vs-sharkbat.json) |
 | Megacop | 117663 | [117663-megacop.json](./117663-megacop.json) |
 | Megadimension Neptunia VII: Party Character - God Eater | 238177 | [238177-megadimension-neptunia-vii-party-character-god-eater.json](./238177-megadimension-neptunia-vii-party-character-god-eater.json) |
 | Megadimension Neptunia VII: Party Character - Nitroplus | 238178 | [238178-megadimension-neptunia-vii-party-character-nitroplus.json](./238178-megadimension-neptunia-vii-party-character-nitroplus.json) |
@@ -1847,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melvor Idle | 141130 | [141130-melvor-idle.json](./141130-melvor-idle.json) |
 | Melvor Idle: Atlas of Discovery | 259837 | [259837-melvor-idle-atlas-of-discovery.json](./259837-melvor-idle-atlas-of-discovery.json) |
 | Melvor Idle: Into the Abyss | 298026 | [298026-melvor-idle-into-the-abyss.json](./298026-melvor-idle-into-the-abyss.json) |
+| Memasiki | 368567 | [368567-memasiki.json](./368567-memasiki.json) |
 | Memasiki po Classice | 404875 | [404875-memasiki-po-classice.json](./404875-memasiki-po-classice.json) |
 | Membrane | 377596 | [377596-membrane.json](./377596-membrane.json) |
 | Meme Barley-Break | 112351 | [112351-meme-barley-break.json](./112351-meme-barley-break.json) |
@@ -2084,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Brigade Tactics Versus | 256254 | [256254-metal-brigade-tactics-versus.json](./256254-metal-brigade-tactics-versus.json) |
 | Metal Bunny | 309894 | [309894-metal-bunny.json](./309894-metal-bunny.json) |
 | Metal Coffin | 335256 | [335256-metal-coffin.json](./335256-metal-coffin.json) |
+| Metal Crisis | 368579 | [368579-metal-crisis.json](./368579-metal-crisis.json) |
 | Metal Detecting Simulator | 235768 | [235768-metal-detecting-simulator.json](./235768-metal-detecting-simulator.json) |
 | Metal Dogs: New Dog Addition - Labrador Retriever | 302919 | [302919-metal-dogs-new-dog-addition-labrador-retriever.json](./302919-metal-dogs-new-dog-addition-labrador-retriever.json) |
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
@@ -2974,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
 | Mirror Mirror | 340938 | [340938-mirror-mirror.json](./340938-mirror-mirror.json) |
 | Mirror Mysteries | 17204 | [17204-mirror-mysteries.json](./17204-mirror-mysteries.json) |
+| Mirror Quest Dog and Cat | 368566 | [368566-mirror-quest-dog-and-cat.json](./368566-mirror-quest-dog-and-cat.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
 | Mirror's Edge 2D | 77347 | [77347-mirrors-edge-2d.json](./77347-mirrors-edge-2d.json) |
 | Mirrorama | 186824 | [186824-mirrorama.json](./186824-mirrorama.json) |
