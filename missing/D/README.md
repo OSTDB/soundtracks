@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Cavern | 278723 | [278723-dark-cavern.json](./278723-dark-cavern.json) |
 | Dark Chaser | 109034 | [109034-dark-chaser.json](./109034-dark-chaser.json) |
 | Dark City Trouble Nights | 266817 | [266817-dark-city-trouble-nights.json](./266817-dark-city-trouble-nights.json) |
+| Dark City: Amsterdam Collector's Edition | 337180 | [337180-dark-city-amsterdam-collectors-edition.json](./337180-dark-city-amsterdam-collectors-edition.json) |
 | Dark City: Barcelona Collector's Edition | 362832 | [362832-dark-city-barcelona-collectors-edition.json](./362832-dark-city-barcelona-collectors-edition.json) |
 | Dark City: London | 376568 | [376568-dark-city-london.json](./376568-dark-city-london.json) |
 | Dark City: Munich - Collector's Edition | 376578 | [376578-dark-city-munich-collectors-edition.json](./376578-dark-city-munich-collectors-edition.json) |
@@ -1083,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Walk | 217295 | [217295-death-walk.json](./217295-death-walk.json) |
 | Death Waves | 114978 | [114978-death-waves.json](./114978-death-waves.json) |
 | Death Wore Endless Feathers | 168383 | [168383-death-wore-endless-feathers.json](./168383-death-wore-endless-feathers.json) |
+| Death Worm | 337201 | [337201-death-worm.json](./337201-death-worm.json) |
 | Death, Soul & Robots | 245854 | [245854-death-soul-and-robots.json](./245854-death-soul-and-robots.json) |
 | Death? Preposterous! | 133985 | [133985-death-preposterous.json](./133985-death-preposterous.json) |
 | Death's Life | 32030 | [32030-deaths-life.json](./32030-deaths-life.json) |
@@ -1749,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
 | Destiny's Sword | 117061 | [117061-destinys-sword.json](./117061-destinys-sword.json) |
+| Destroy All Cars | 337203 | [337203-destroy-all-cars.json](./337203-destroy-all-cars.json) |
 | Destroy All Humans! Path of the Furon | 2717 | [2717-destroy-all-humans-path-of-the-furon.json](./2717-destroy-all-humans-path-of-the-furon.json) |
 | Destroy All Humans!: Clone Carnage | 203364 | [203364-destroy-all-humans-clone-carnage.json](./203364-destroy-all-humans-clone-carnage.json) |
 | Destroy Blocks | 296642 | [296642-destroy-blocks.json](./296642-destroy-blocks.json) |
@@ -2476,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Desert | 388234 | [388234-distant-desert.json](./388234-distant-desert.json) |
 | Distant Flux: System Initializing | 346563 | [346563-distant-flux-system-initializing.json](./346563-distant-flux-system-initializing.json) |
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
+| Distant Realm | 337160 | [337160-distant-realm.json](./337160-distant-realm.json) |
 | Distant Sunlight, Endless Regrets | 362338 | [362338-distant-sunlight-endless-regrets.json](./362338-distant-sunlight-endless-regrets.json) |
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
 | Distant Worlds 2 | 138722 | [138722-distant-worlds-2.json](./138722-distant-worlds-2.json) |
