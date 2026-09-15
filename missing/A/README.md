@@ -552,7 +552,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
 | Age of Gods | 399092 | [399092-age-of-gods.json](./399092-age-of-gods.json) |
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
-| Age of Gods: Necros Campaign | 399093 | [399093-age-of-gods-necros-campaign.json](./399093-age-of-gods-necros-campaign.json) |
 | Age of Gods: Necros Faction | 399095 | [399095-age-of-gods-necros-faction.json](./399095-age-of-gods-necros-faction.json) |
 | Age of Gods: Nordheim Faction | 399097 | [399097-age-of-gods-nordheim-faction.json](./399097-age-of-gods-nordheim-faction.json) |
 | Age of Gods: Sanctus Campaign | 399100 | [399100-age-of-gods-sanctus-campaign.json](./399100-age-of-gods-sanctus-campaign.json) |
