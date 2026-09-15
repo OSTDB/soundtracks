@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Sin: Greed | 107734 | [107734-path-of-sin-greed.json](./107734-path-of-sin-greed.json) |
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
 | Path of the Warrior | 127351 | [127351-path-of-the-warrior.json](./127351-path-of-the-warrior.json) |
+| Path of the Zenith Master | 372016 | [372016-path-of-the-zenith-master.json](./372016-path-of-the-zenith-master.json) |
 | Path of War | 31783 | [31783-path-of-war.json](./31783-path-of-war.json) |
 | Path of Wuxia | 138747 | [138747-path-of-wuxia.json](./138747-path-of-wuxia.json) |
 | Path Out | 74116 | [74116-path-out.json](./74116-path-out.json) |
@@ -862,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PeeWee Purpdrank's Foenem Clicker | 403014 | [403014-peewee-purpdranks-foenem-clicker.json](./403014-peewee-purpdranks-foenem-clicker.json) |
 | Peg Solitaire | 57062 | [57062-peg-solitaire.json](./57062-peg-solitaire.json) |
 | Pegafuerte el Terrible | 249479 | [249479-pegafuerte-el-terrible.json](./249479-pegafuerte-el-terrible.json) |
+| Peganomics | 371999 | [371999-peganomics.json](./371999-peganomics.json) |
 | Pegasis | 298866 | [298866-pegasis.json](./298866-pegasis.json) |
 | Peggle | 3751 | [3751-peggle.json](./3751-peggle.json) |
 | Peggle | 95409 | [95409-peggle.json](./95409-peggle.json) |
@@ -2010,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Alpha | 28070 | [28070-planet-alpha.json](./28070-planet-alpha.json) |
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
+| Planet Coaster 2: Bonus Ride Collection | 371960 | [371960-planet-coaster-2-bonus-ride-collection.json](./371960-planet-coaster-2-bonus-ride-collection.json) |
 | Planet Coaster 2: Deluxe Edition | 331854 | [331854-planet-coaster-2-deluxe-edition.json](./331854-planet-coaster-2-deluxe-edition.json) |
 | Planet Collectors: Episode Earth | 193423 | [193423-planet-collectors-episode-earth.json](./193423-planet-collectors-episode-earth.json) |
 | Planet Craft | 181310 | [181310-planet-craft.json](./181310-planet-craft.json) |
@@ -3102,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince & Excalibur | 174309 | [174309-prince-and-excalibur.json](./174309-prince-and-excalibur.json) |
 | Prince Akazaka x Princess | 220653 | [220653-prince-akazaka-x-princess.json](./220653-prince-akazaka-x-princess.json) |
 | Prince Maker-Braveness | 254544 | [254544-prince-maker-braveness.json](./254544-prince-maker-braveness.json) |
+| Prince of Darkness Jr. | 371973 | [371973-prince-of-darkness-jr.json](./371973-prince-of-darkness-jr.json) |
 | Prince of Egypt | 404332 | [404332-prince-of-egypt.json](./404332-prince-of-egypt.json) |
 | Prince of Persia | 284776 | [284776-prince-of-persia.json](./284776-prince-of-persia.json) |
 | Prince of Persia 2: The Shadow and the Flame | 3164 | [3164-prince-of-persia-2-the-shadow-and-the-flame.json](./3164-prince-of-persia-2-the-shadow-and-the-flame.json) |
@@ -3871,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purpose Calling | 295795 | [295795-purpose-calling.json](./295795-purpose-calling.json) |
 | Purranoia | 385218 | [385218-purranoia.json](./385218-purranoia.json) |
 | Purrdy's Race | 335111 | [335111-purrdys-race.json](./335111-purrdys-race.json) |
+| Purrfect Stall | 371958 | [371958-purrfect-stall.json](./371958-purrfect-stall.json) |
 | Purrfect Tanks: The Yarnpocalypse | 391064 | [391064-purrfect-tanks-the-yarnpocalypse.json](./391064-purrfect-tanks-the-yarnpocalypse.json) |
 | Purrplate | 372987 | [372987-purrplate.json](./372987-purrplate.json) |
 | Purrrfect Love | 204066 | [204066-purrrfect-love.json](./204066-purrrfect-love.json) |
