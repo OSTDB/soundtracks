@@ -1082,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seashells | 197922 | [197922-seashells.json](./197922-seashells.json) |
 | Seashine | 143091 | [143091-seashine.json](./143091-seashine.json) |
 | Seasick | 219617 | [219617-seasick.json](./219617-seasick.json) |
+| Seaside Fireflies | 336612 | [336612-seaside-fireflies.json](./336612-seaside-fireflies.json) |
 | Seaside Special | 47199 | [47199-seaside-special.json](./47199-seaside-special.json) |
 | Season 31 | 370675 | [370675-season-31.json](./370675-season-31.json) |
 | Season Marbles: Autumn | 337628 | [337628-season-marbles-autumn.json](./337628-season-marbles-autumn.json) |
@@ -2169,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsetsu Mahou Shoujo | 131589 | [131589-shinsetsu-mahou-shoujo.json](./131589-shinsetsu-mahou-shoujo.json) |
 | Shinsetsu Shiawase Usagi F: Yuujou Yori mo Aiyoku | 277859 | [277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json](./277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json) |
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
+| Shiny Sisters | 336596 | [336596-shiny-sisters.json](./336596-shiny-sisters.json) |
 | Shiny-Man-Adventures | 211751 | [211751-shiny-man-adventures.json](./211751-shiny-man-adventures.json) |
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
 | Shinyaku Boushi Sekai | 396208 | [396208-shinyaku-boushi-sekai.json](./396208-shinyaku-boushi-sekai.json) |
@@ -2248,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi Shodan Icchokusen | 42032 | [42032-shogi-shodan-icchokusen.json](./42032-shogi-shodan-icchokusen.json) |
 | Shogi Shoshisha Muyo | 42031 | [42031-shogi-shoshisha-muyo.json](./42031-shogi-shoshisha-muyo.json) |
 | Shogi Wars | 312359 | [312359-shogi-wars.json](./312359-shogi-wars.json) |
+| Shogun Castle | 336590 | [336590-shogun-castle.json](./336590-shogun-castle.json) |
 | Shogun Warriors | 39584 | [39584-shogun-warriors.json](./39584-shogun-warriors.json) |
 | Shogun: Total War - Mongol Invasion | 443 | [443-shogun-total-war-mongol-invasion.json](./443-shogun-total-war-mongol-invasion.json) |
 | Shogun's Blade | 43293 | [43293-shoguns-blade.json](./43293-shoguns-blade.json) |
@@ -3010,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski-World Simulator 2012 | 54364 | [54364-ski-world-simulator-2012.json](./54364-ski-world-simulator-2012.json) |
 | Skibi's Castle TD 2 | 348357 | [348357-skibis-castle-td-2.json](./348357-skibis-castle-td-2.json) |
 | Skibidi Mahr Simulator 64 | 339822 | [339822-skibidi-mahr-simulator-64.json](./339822-skibidi-mahr-simulator-64.json) |
+| Skibidi Revenge | 336601 | [336601-skibidi-revenge.json](./336601-skibidi-revenge.json) |
 | Skibidi Toilet | 278399 | [278399-skibidi-toilet.json](./278399-skibidi-toilet.json) |
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
@@ -3090,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Island | 308257 | [308257-sky-island.json](./308257-sky-island.json) |
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
+| Sky Jumping | 336626 | [336626-sky-jumping.json](./336626-sky-jumping.json) |
 | Sky Kingdoms | 54366 | [54366-sky-kingdoms.json](./54366-sky-kingdoms.json) |
 | Sky Kingdoms - Castle Siege | 100747 | [100747-sky-kingdoms-castle-siege.json](./100747-sky-kingdoms-castle-siege.json) |
 | Sky Love Girls: Flight Attendant Crush | 370797 | [370797-sky-love-girls-flight-attendant-crush.json](./370797-sky-love-girls-flight-attendant-crush.json) |
@@ -3923,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Many Cubes | 31791 | [31791-so-many-cubes.json](./31791-so-many-cubes.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
 | So Much Stuff 2: Collector's Edition | 290425 | [290425-so-much-stuff-2-collectors-edition.json](./290425-so-much-stuff-2-collectors-edition.json) |
+| So Much Stuff 5: Mix-Knacks | 336631 | [336631-so-much-stuff-5-mix-knacks.json](./336631-so-much-stuff-5-mix-knacks.json) |
 | So Much Stuff: Collector's Edition | 251596 | [251596-so-much-stuff-collectors-edition.json](./251596-so-much-stuff-collectors-edition.json) |
 | So Who's Dr. Rabbit? | 291974 | [291974-so-whos-dr-rabbit.json](./291974-so-whos-dr-rabbit.json) |
 | So-Gnar | 176465 | [176465-so-gnar.json](./176465-so-gnar.json) |
@@ -6400,6 +6406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Mind | 20123 | [20123-state-of-mind.json](./20123-state-of-mind.json) |
 | State of War | 94231 | [94231-state-of-war.json](./94231-state-of-war.json) |
 | State of War 2: Arcon | 64986 | [64986-state-of-war-2-arcon.json](./64986-state-of-war-2-arcon.json) |
+| State Your Business | 336620 | [336620-state-your-business.json](./336620-state-your-business.json) |
 | State Z | 406836 | [406836-state-z.json](./406836-state-z.json) |
 | States, Firms, and Households | 33122 | [33122-states-firms-and-households.json](./33122-states-firms-and-households.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
@@ -6576,6 +6583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: MegaCorp | 111331 | [111331-stellaris-megacorp.json](./111331-stellaris-megacorp.json) |
 | Stellaris: Overlord | 196297 | [196297-stellaris-overlord.json](./196297-stellaris-overlord.json) |
 | Stellaris: Plantoids Species Pack | 215399 | [215399-stellaris-plantoids-species-pack.json](./215399-stellaris-plantoids-species-pack.json) |
+| Stellaris: Shadows of the Shroud | 336603 | [336603-stellaris-shadows-of-the-shroud.json](./336603-stellaris-shadows-of-the-shroud.json) |
 | Stellaris: Toxoids | 218170 | [218170-stellaris-toxoids.json](./218170-stellaris-toxoids.json) |
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
 | Stellights | 102102 | [102102-stellights.json](./102102-stellights.json) |
