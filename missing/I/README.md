@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion Machine | 110597 | [110597-invasion-machine.json](./110597-invasion-machine.json) |
 | Invasion of The Halloween Fiends | 318436 | [318436-invasion-of-the-halloween-fiends.json](./318436-invasion-of-the-halloween-fiends.json) |
 | Invasion of the Zombie Monsters | 197857 | [197857-invasion-of-the-zombie-monsters.json](./197857-invasion-of-the-zombie-monsters.json) |
+| Invasion Omega | 339899 | [339899-invasion-omega.json](./339899-invasion-omega.json) |
 | Invasive Species | 367507 | [367507-invasive-species.json](./367507-invasive-species.json) |
 | Invaxion | 109323 | [109323-invaxion.json](./109323-invaxion.json) |
 | Invector: Rhythm Galaxy - Latin Power Song Pack | 265249 | [265249-invector-rhythm-galaxy-latin-power-song-pack.json](./265249-invector-rhythm-galaxy-latin-power-song-pack.json) |
@@ -1424,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Man | 257213 | [257213-iron-man.json](./257213-iron-man.json) |
 | Iron Marines Invasion | 216257 | [216257-iron-marines-invasion.json](./216257-iron-marines-invasion.json) |
 | Iron Master: The Legendary Blacksmith | 67991 | [67991-iron-master-the-legendary-blacksmith.json](./67991-iron-master-the-legendary-blacksmith.json) |
+| Iron Onslaught | 339917 | [339917-iron-onslaught.json](./339917-iron-onslaught.json) |
 | Iron Order 1919 | 196333 | [196333-iron-order-1919.json](./196333-iron-order-1919.json) |
 | Iron Rain | 346591 | [346591-iron-rain.json](./346591-iron-rain.json) |
 | Iron Ranger | 351009 | [351009-iron-ranger.json](./351009-iron-ranger.json) |
