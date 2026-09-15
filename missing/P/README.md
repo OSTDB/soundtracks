@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Ripped 1978 | 242384 | [242384-pixel-ripped-1978.json](./242384-pixel-ripped-1978.json) |
 | Pixel Robot Return | 186319 | [186319-pixel-robot-return.json](./186319-pixel-robot-return.json) |
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
+| Pixel Shinobi | 373089 | [373089-pixel-shinobi.json](./373089-pixel-shinobi.json) |
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
 | Pixel Storm | 182547 | [182547-pixel-storm.json](./182547-pixel-storm.json) |
@@ -1959,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Parking | 115057 | [115057-pizza-parking.json](./115057-pizza-parking.json) |
 | Pizza Pony | 180852 | [180852-pizza-pony.json](./180852-pizza-pony.json) |
 | Pizza Simulator Together | 326382 | [326382-pizza-simulator-together.json](./326382-pizza-simulator-together.json) |
+| Pizza Syndicate | 373071 | [373071-pizza-syndicate.json](./373071-pizza-syndicate.json) |
 | Pizza the Pie | 175357 | [175357-pizza-the-pie.json](./175357-pizza-the-pie.json) |
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
 | Pizza Tycoon 2 | 51885 | [51885-pizza-tycoon-2.json](./51885-pizza-tycoon-2.json) |
@@ -2113,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlateUp!: Collector's Edition | 247191 | [247191-plateup-collectors-edition.json](./247191-plateup-collectors-edition.json) |
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
 | Platform Adventure | 213936 | [213936-platform-adventure.json](./213936-platform-adventure.json) |
+| Platform Anomaly | 373068 | [373068-platform-anomaly.json](./373068-platform-anomaly.json) |
 | Platform Roll | 207535 | [207535-platform-roll.json](./207535-platform-roll.json) |
 | Platform Run | 324296 | [324296-platform-run.json](./324296-platform-run.json) |
 | Platform Tower | 249230 | [249230-platform-tower.json](./249230-platform-tower.json) |
@@ -2963,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
+| Pray or Die: Tactical Defense | 373114 | [373114-pray-or-die-tactical-defense.json](./373114-pray-or-die-tactical-defense.json) |
 | Pre Post-Modernistic Post-Ironic Dadaism: Dating Simulator | 306969 | [306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json](./306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json) |
 | Pre-RON MI5 Bob | 71007 | [71007-pre-ron-mi5-bob.json](./71007-pre-ron-mi5-bob.json) |
 | Prechara! Daifugo | 283757 | [283757-prechara-daifugo.json](./283757-prechara-daifugo.json) |
