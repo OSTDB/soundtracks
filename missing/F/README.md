@@ -2790,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Mario's Madness | 202414 | [202414-friday-night-funkin-marios-madness.json](./202414-friday-night-funkin-marios-madness.json) |
 | Friday Night Funkin': Miku Full Week | 206925 | [206925-friday-night-funkin-miku-full-week.json](./206925-friday-night-funkin-miku-full-week.json) |
 | Friday Night Funkin': Pibby Corrupted Kitchen Gun | 269295 | [269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json](./269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json) |
+| Friday Night Funkin': Sprite Corruption | 352831 | [352831-friday-night-funkin-sprite-corruption.json](./352831-friday-night-funkin-sprite-corruption.json) |
 | Friday Night Funkin': Super Idol | 231382 | [231382-friday-night-funkin-super-idol.json](./231382-friday-night-funkin-super-idol.json) |
 | Friday Night Funkin': V.S. Father Foundest | 200665 | [200665-friday-night-funkin-v-s-father-foundest.json](./200665-friday-night-funkin-v-s-father-foundest.json) |
 | Friday Night Funkin': V.S. Whitty | 165075 | [165075-friday-night-funkin-v-s-whitty.json](./165075-friday-night-funkin-v-s-whitty.json) |
