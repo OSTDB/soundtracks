@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SameGame - Shapes | 86069 | [86069-samegame-shapes.json](./86069-samegame-shapes.json) |
 | SameGame Fighter | 64436 | [64436-samegame-fighter.json](./64436-samegame-fighter.json) |
 | SameGame HD | 64432 | [64432-samegame-hd.json](./64432-samegame-hd.json) |
+| Samgugji: Paewang | 368040 | [368040-samgugji-paewang.json](./368040-samgugji-paewang.json) |
 | Samhain | 179687 | [179687-samhain.json](./179687-samhain.json) |
 | Sami | 367959 | [367959-sami.json](./367959-sami.json) |
 | Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
@@ -3882,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
+| Sokomine | 368039 | [368039-sokomine.json](./368039-sokomine.json) |
 | Sokomonster + Sokolab + Feed Your Cat | 335101 | [335101-sokomonster-sokolab-feed-your-cat.json](./335101-sokomonster-sokolab-feed-your-cat.json) |
 | SokoNature | 324666 | [324666-sokonature.json](./324666-sokonature.json) |
 | Sokorun: One Box | 209673 | [209673-sokorun-one-box.json](./209673-sokorun-one-box.json) |
@@ -7058,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
 | Sue Shi Survival | 219584 | [219584-sue-shi-survival.json](./219584-sue-shi-survival.json) |
 | Suez Canal Bulldozer | 181865 | [181865-suez-canal-bulldozer.json](./181865-suez-canal-bulldozer.json) |
+| Suez Canal Girl | 368042 | [368042-suez-canal-girl.json](./368042-suez-canal-girl.json) |
 | Suffer | 110650 | [110650-suffer.json](./110650-suffer.json) |
 | SUGA: Survival Game | 376470 | [376470-suga-survival-game.json](./376470-suga-survival-game.json) |
 | Sugar Bear | 255121 | [255121-sugar-bear.json](./255121-sugar-bear.json) |
