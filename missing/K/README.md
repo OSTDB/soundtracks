@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Defending | 31350 | [31350-keep-defending.json](./31350-keep-defending.json) |
 | Keep Fe Chicken | 179133 | [179133-keep-fe-chicken.json](./179133-keep-fe-chicken.json) |
 | Keep Flip | 264594 | [264594-keep-flip.json](./264594-keep-flip.json) |
+| Keep Gambling | 372530 | [372530-keep-gambling.json](./372530-keep-gambling.json) |
 | Keep Going | 312576 | [312576-keep-going.json](./312576-keep-going.json) |
 | Keep Her Safe | 414300 | [414300-keep-her-safe.json](./414300-keep-her-safe.json) |
 | Keep it Live | 194666 | [194666-keep-it-live.json](./194666-keep-it-live.json) |
@@ -1295,6 +1296,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kube Kreatures: Bleached White | 386274 | [386274-kube-kreatures-bleached-white.json](./386274-kube-kreatures-bleached-white.json) |
 | Kubic | 283143 | [283143-kubic.json](./283143-kubic.json) |
 | Kubika | 390136 | [390136-kubika.json](./390136-kubika.json) |
+| Kubikon 3D: Arctic DLC | 372539 | [372539-kubikon-3d-arctic-dlc.json](./372539-kubikon-3d-arctic-dlc.json) |
+| Kubikon 3D: Cyberpunk DLC | 372551 | [372551-kubikon-3d-cyberpunk-dlc.json](./372551-kubikon-3d-cyberpunk-dlc.json) |
+| Kubikon 3D: Pirates DLC | 372550 | [372550-kubikon-3d-pirates-dlc.json](./372550-kubikon-3d-pirates-dlc.json) |
+| Kubikon 3D: Warehouse DLC | 372552 | [372552-kubikon-3d-warehouse-dlc.json](./372552-kubikon-3d-warehouse-dlc.json) |
 | Kubits Gallery | 296690 | [296690-kubits-gallery.json](./296690-kubits-gallery.json) |
 | Kubo 3 | 159353 | [159353-kubo-3.json](./159353-kubo-3.json) |
 | Kubus | 80580 | [80580-kubus.json](./80580-kubus.json) |
