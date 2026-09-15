@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: V.E.R.T.E.X. Pack | 226974 | [226974-redout-v-e-r-t-e-x-pack.json](./226974-redout-v-e-r-t-e-x-pack.json) |
 | ReDraft: The Fantasy Football Simulator | 414361 | [414361-redraft-the-fantasy-football-simulator.json](./414361-redraft-the-fantasy-football-simulator.json) |
 | ReDrawn: The Painted Tower | 188035 | [188035-redrawn-the-painted-tower.json](./188035-redrawn-the-painted-tower.json) |
+| ReDrop | 347773 | [347773-redrop.json](./347773-redrop.json) |
 | Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
 | Redstream | 392134 | [392134-redstream.json](./392134-redstream.json) |
 | Redstream Dispatch | 397059 | [397059-redstream-dispatch.json](./397059-redstream-dispatch.json) |
@@ -1249,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repentless | 213640 | [213640-repentless.json](./213640-repentless.json) |
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
 | Replaced | 152244 | [152244-replaced.json](./152244-replaced.json) |
+| Replay Value: Second Hand Games | 347748 | [347748-replay-value-second-hand-games.json](./347748-replay-value-second-hand-games.json) |
 | Replay: A Puzzle Game | 157200 | [157200-replay-a-puzzle-game.json](./157200-replay-a-puzzle-game.json) |
 | Replica Club Route D | 404249 | [404249-replica-club-route-d.json](./404249-replica-club-route-d.json) |
 | Replica Island | 61625 | [61625-replica-island.json](./61625-replica-island.json) |
