@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
 | Fantasy Blacksmith Simulator | 410333 | [410333-fantasy-blacksmith-simulator.json](./410333-fantasy-blacksmith-simulator.json) |
+| Fantasy Burger | 354537 | [354537-fantasy-burger.json](./354537-fantasy-burger.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
 | Fantasy Dash | 188027 | [188027-fantasy-dash.json](./188027-fantasy-dash.json) |
 | Fantasy Dynasty: Le Château Deretic | 99639 | [99639-fantasy-dynasty-le-chateau-deretic.json](./99639-fantasy-dynasty-le-chateau-deretic.json) |
@@ -3030,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruitwolf | 183017 | [183017-fruitwolf.json](./183017-fruitwolf.json) |
 | Fruity Fauna | 374146 | [374146-fruity-fauna.json](./374146-fruity-fauna.json) |
 | Frutakia | 299776 | [299776-frutakia.json](./299776-frutakia.json) |
+| Frutiger Aero | 354488 | [354488-frutiger-aero.json](./354488-frutiger-aero.json) |
 | Frutiger Space | 366227 | [366227-frutiger-space.json](./366227-frutiger-space.json) |
 | Frutz | 405530 | [405530-frutz.json](./405530-frutz.json) |
 | FTB Academy | 396938 | [396938-ftb-academy.json](./396938-ftb-academy.json) |
