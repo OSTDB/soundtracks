@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetship | 36098 | [36098-planetship.json](./36098-planetship.json) |
 | PlanetSmith | 263777 | [263777-planetsmith.json](./263777-planetsmith.json) |
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
+| PlanetX | 368004 | [368004-planetx.json](./368004-planetx.json) |
 | Planitis | 212290 | [212290-planitis.json](./212290-planitis.json) |
 | Plank! | 105913 | [105913-plank.json](./105913-plank.json) |
 | Plannes | 26168 | [26168-plannes.json](./26168-plannes.json) |
@@ -3099,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime T!me: Der Fernsehmanager | 98938 | [98938-prime-t-me-der-fernsehmanager.json](./98938-prime-t-me-der-fernsehmanager.json) |
 | Prime World | 15037 | [15037-prime-world.json](./15037-prime-world.json) |
 | Prime World: Alchemy | 63306 | [63306-prime-world-alchemy.json](./63306-prime-world-alchemy.json) |
+| Prime World: Classic | 368006 | [368006-prime-world-classic.json](./368006-prime-world-classic.json) |
 | Prime World: Defenders | 16507 | [16507-prime-world-defenders.json](./16507-prime-world-defenders.json) |
 | Prime World: Defenders 2 | 112944 | [112944-prime-world-defenders-2.json](./112944-prime-world-defenders-2.json) |
 | Primedice | 76563 | [76563-primedice.json](./76563-primedice.json) |
@@ -3865,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Hentai: Gallery | 385082 | [385082-pure-hentai-gallery.json](./385082-pure-hentai-gallery.json) |
 | Pure Hentai: Moments | 385081 | [385081-pure-hentai-moments.json](./385081-pure-hentai-moments.json) |
 | Pure Hold'em | 17840 | [17840-pure-holdem.json](./17840-pure-holdem.json) |
+| Pure Love | 368048 | [368048-pure-love.json](./368048-pure-love.json) |
 | Pure Mini Golf | 188100 | [188100-pure-mini-golf.json](./188100-pure-mini-golf.json) |
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
 | Pure Pinball 2.0 Redux | 51881 | [51881-pure-pinball-2-0-redux.json](./51881-pure-pinball-2-0-redux.json) |
