@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T20:48:49.852Z",
-  "total_missing": 75363,
+  "generated_at": "2026-09-15T20:51:35.797Z",
+  "total_missing": 75362,
   "games": [
     {
       "igdb_id": 306086,
@@ -5506,11 +5506,6 @@
       "igdb_id": 399095,
       "game_name": "Age of Gods: Necros Faction",
       "file": "missing/A/399095-age-of-gods-necros-faction.json"
-    },
-    {
-      "igdb_id": 399097,
-      "game_name": "Age of Gods: Nordheim Faction",
-      "file": "missing/A/399097-age-of-gods-nordheim-faction.json"
     },
     {
       "igdb_id": 399100,
