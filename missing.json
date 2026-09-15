@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T10:11:40.944Z",
-  "total_missing": 73455,
+  "generated_at": "2026-09-15T10:19:12.096Z",
+  "total_missing": 73505,
   "games": [
     {
       "igdb_id": 306086,
@@ -23503,6 +23503,11 @@
       "file": "missing/B/373012-balaball.json"
     },
     {
+      "igdb_id": 359469,
+      "game_name": "Balala Dà Zhuǎnhuàn",
+      "file": "missing/B/359469-balala-da-zhuanhuan.json"
+    },
+    {
       "igdb_id": 201325,
       "game_name": "Balam and the Spirit Within",
       "file": "missing/B/201325-balam-and-the-spirit-within.json"
@@ -27526,6 +27531,11 @@
       "igdb_id": 11947,
       "game_name": "Battlemaster",
       "file": "missing/B/11947-battlemaster.json"
+    },
+    {
+      "igdb_id": 359514,
+      "game_name": "Battlemon",
+      "file": "missing/B/359514-battlemon.json"
     },
     {
       "igdb_id": 100933,
@@ -54738,6 +54748,11 @@
       "file": "missing/C/191909-classic-mario-world-the-magic-crystals.json"
     },
     {
+      "igdb_id": 359478,
+      "game_name": "Classic Max Lite",
+      "file": "missing/C/359478-classic-max-lite.json"
+    },
+    {
       "igdb_id": 18064,
       "game_name": "Classic NES Series: Dr. Mario",
       "file": "missing/C/18064-classic-nes-series-dr-mario.json"
@@ -69038,6 +69053,11 @@
       "file": "missing/D/410975-dark-earth.json"
     },
     {
+      "igdb_id": 359526,
+      "game_name": "Dark Eden Umbra",
+      "file": "missing/D/359526-dark-eden-umbra.json"
+    },
+    {
       "igdb_id": 213974,
       "game_name": "Dark Egg",
       "file": "missing/D/213974-dark-egg.json"
@@ -71776,6 +71796,11 @@
       "igdb_id": 31788,
       "game_name": "Deadly Metal",
       "file": "missing/D/31788-deadly-metal.json"
+    },
+    {
+      "igdb_id": 359516,
+      "game_name": "Deadly Metropolis",
+      "file": "missing/D/359516-deadly-metropolis.json"
     },
     {
       "igdb_id": 326599,
@@ -76371,6 +76396,11 @@
       "igdb_id": 43896,
       "game_name": "Devilman",
       "file": "missing/D/43896-devilman.json"
+    },
+    {
+      "igdb_id": 359520,
+      "game_name": "Devils Due",
+      "file": "missing/D/359520-devils-due.json"
     },
     {
       "igdb_id": 294738,
@@ -144103,6 +144133,11 @@
       "file": "missing/I/372013-iblis3-phenomena.json"
     },
     {
+      "igdb_id": 359476,
+      "game_name": "IBloxx",
+      "file": "missing/I/359476-ibloxx.json"
+    },
+    {
       "igdb_id": 66626,
       "game_name": "IBM: Cityone, A Smarter Planet Game",
       "file": "missing/I/66626-ibm-cityone-a-smarter-planet-game.json"
@@ -191603,6 +191638,16 @@
       "file": "missing/M/111675-mo-the-frog.json"
     },
     {
+      "igdb_id": 359473,
+      "game_name": "Mó Xiān Cǎihóng Qiú",
+      "file": "missing/M/359473-mo-xian-caihong-qiu.json"
+    },
+    {
+      "igdb_id": 359472,
+      "game_name": "Mó Xiān Duì Duì Pèng",
+      "file": "missing/M/359472-mo-xian-dui-dui-peng.json"
+    },
+    {
       "igdb_id": 190169,
       "game_name": "Moadra",
       "file": "missing/M/190169-moadra.json"
@@ -203981,6 +204026,11 @@
       "igdb_id": 124201,
       "game_name": "Neon District",
       "file": "missing/N/124201-neon-district.json"
+    },
+    {
+      "igdb_id": 359521,
+      "game_name": "Neon Divide",
+      "file": "missing/N/359521-neon-divide.json"
     },
     {
       "igdb_id": 391749,
@@ -221608,6 +221658,11 @@
       "file": "missing/P/314862-pawfect-cat-mansion.json"
     },
     {
+      "igdb_id": 359528,
+      "game_name": "Pawker",
+      "file": "missing/P/359528-pawker.json"
+    },
+    {
       "igdb_id": 406833,
       "game_name": "PawMart Tiny Market",
       "file": "missing/P/406833-pawmart-tiny-market.json"
@@ -231563,6 +231618,11 @@
       "file": "missing/P/7133-popcap-arcade-vol-2.json"
     },
     {
+      "igdb_id": 359519,
+      "game_name": "Popcorn Popstars",
+      "file": "missing/P/359519-popcorn-popstars.json"
+    },
+    {
       "igdb_id": 232703,
       "game_name": "Popeye",
       "file": "missing/P/232703-popeye.json"
@@ -240526,6 +240586,11 @@
       "igdb_id": 44555,
       "game_name": "Race Driver: Grid Reloaded",
       "file": "missing/R/44555-race-driver-grid-reloaded.json"
+    },
+    {
+      "igdb_id": 359481,
+      "game_name": "Race For Nuts",
+      "file": "missing/R/359481-race-for-nuts.json"
     },
     {
       "igdb_id": 167759,
@@ -256816,6 +256881,11 @@
       "igdb_id": 412956,
       "game_name": "Sakumon",
       "file": "missing/S/412956-sakumon.json"
+    },
+    {
+      "igdb_id": 359480,
+      "game_name": "Sakuna: Hinuka Junreitan",
+      "file": "missing/S/359480-sakuna-hinuka-junreitan.json"
     },
     {
       "igdb_id": 139978,
@@ -273163,6 +273233,11 @@
       "file": "missing/S/178088-smashpunks.json"
     },
     {
+      "igdb_id": 359515,
+      "game_name": "SMBX: Level Contest Japan",
+      "file": "missing/S/359515-smbx-level-contest-japan.json"
+    },
+    {
       "igdb_id": 328243,
       "game_name": "SMBX2 Demo Stages",
       "file": "missing/S/328243-smbx2-demo-stages.json"
@@ -287093,6 +287168,11 @@
       "file": "missing/S/293637-stay-alive-my-son-vr.json"
     },
     {
+      "igdb_id": 359518,
+      "game_name": "Stay Dead",
+      "file": "missing/S/359518-stay-dead.json"
+    },
+    {
       "igdb_id": 184055,
       "game_name": "Stay Home",
       "file": "missing/S/184055-stay-home.json"
@@ -298336,6 +298416,11 @@
       "igdb_id": 399728,
       "game_name": "Sweetie Candy Maze: Lime",
       "file": "missing/S/399728-sweetie-candy-maze-lime.json"
+    },
+    {
+      "igdb_id": 359517,
+      "game_name": "Sweetie Candy Maze: Red Cherry",
+      "file": "missing/S/359517-sweetie-candy-maze-red-cherry.json"
     },
     {
       "igdb_id": 406218,
@@ -325233,6 +325318,11 @@
       "file": "missing/T/156131-tianxian-bian.json"
     },
     {
+      "igdb_id": 359470,
+      "game_name": "Tiào Tiào Xiǎo Miánmián",
+      "file": "missing/T/359470-tiao-tiao-xiao-mianmian.json"
+    },
+    {
       "igdb_id": 86102,
       "game_name": "Tiara Concerto",
       "file": "missing/T/86102-tiara-concerto.json"
@@ -333833,14 +333923,69 @@
       "file": "missing/T/269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json"
     },
     {
+      "igdb_id": 359492,
+      "game_name": "Train Sim World 5: Berninalinie: Tirano - Ospizio Bernina Route Add-On",
+      "file": "missing/T/359492-train-sim-world-5-berninalinie-tirano-ospizio-bernina-route-add-on.json"
+    },
+    {
+      "igdb_id": 359508,
+      "game_name": "Train Sim World 5: Birmingham Cross-City Line: Lichfield - Bromsgrove & Redditch Route Add-On",
+      "file": "missing/T/359508-train-sim-world-5-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json"
+    },
+    {
+      "igdb_id": 359505,
+      "game_name": "Train Sim World 5: BNSF SD70ACe",
+      "file": "missing/T/359505-train-sim-world-5-bnsf-sd70ace.json"
+    },
+    {
+      "igdb_id": 359498,
+      "game_name": "Train Sim World 5: BR Class 20 'Chopper' Loco Add-On",
+      "file": "missing/T/359498-train-sim-world-5-br-class-20-chopper-loco-add-on.json"
+    },
+    {
       "igdb_id": 359971,
       "game_name": "Train Sim World 5: BR Class 33 Add-On",
       "file": "missing/T/359971-train-sim-world-5-br-class-33-add-on.json"
     },
     {
+      "igdb_id": 359506,
+      "game_name": "Train Sim World 5: BR Class 52 Add-On",
+      "file": "missing/T/359506-train-sim-world-5-br-class-52-add-on.json"
+    },
+    {
       "igdb_id": 366834,
       "game_name": "Train Sim World 5: BR Class 86/2 & Mk2f Coaches",
       "file": "missing/T/366834-train-sim-world-5-br-class-86-2-and-mk2f-coaches.json"
+    },
+    {
+      "igdb_id": 359493,
+      "game_name": "Train Sim World 5: Cajon Pass: Barstow - San Bernardino Route Add-On",
+      "file": "missing/T/359493-train-sim-world-5-cajon-pass-barstow-san-bernardino-route-add-on.json"
+    },
+    {
+      "igdb_id": 359500,
+      "game_name": "Train Sim World 5: Caltrain MP36PH-3C Baby Bullet Loco Add-On",
+      "file": "missing/T/359500-train-sim-world-5-caltrain-mp36ph-3c-baby-bullet-loco-add-on.json"
+    },
+    {
+      "igdb_id": 359496,
+      "game_name": "Train Sim World 5: Cargo Line Vol. 1 - Petroleum",
+      "file": "missing/T/359496-train-sim-world-5-cargo-line-vol-1-petroleum.json"
+    },
+    {
+      "igdb_id": 359507,
+      "game_name": "Train Sim World 5: Centro Regional Railways BR Class 323 Add-On",
+      "file": "missing/T/359507-train-sim-world-5-centro-regional-railways-br-class-323-add-on.json"
+    },
+    {
+      "igdb_id": 359510,
+      "game_name": "Train Sim World 5: Clinchfield Railroad: Elkhorn - Dante Route Add-On",
+      "file": "missing/T/359510-train-sim-world-5-clinchfield-railroad-elkhorn-dante-route-add-on.json"
+    },
+    {
+      "igdb_id": 359502,
+      "game_name": "Train Sim World 5: CSX C40-8W Loco Add-On",
+      "file": "missing/T/359502-train-sim-world-5-csx-c40-8w-loco-add-on.json"
     },
     {
       "igdb_id": 359972,
@@ -333853,6 +333998,11 @@
       "file": "missing/T/359975-train-sim-world-5-db-br-182-loco.json"
     },
     {
+      "igdb_id": 359486,
+      "game_name": "Train Sim World 5: DB BR 187 Loco Add-On",
+      "file": "missing/T/359486-train-sim-world-5-db-br-187-loco-add-on.json"
+    },
+    {
       "igdb_id": 359977,
       "game_name": "Train Sim World 5: Dispolok BR 182 Add-On",
       "file": "missing/T/359977-train-sim-world-5-dispolok-br-182-add-on.json"
@@ -333861,6 +334011,11 @@
       "igdb_id": 336939,
       "game_name": "Train Sim World 5: Dutch Regional Edition",
       "file": "missing/T/336939-train-sim-world-5-dutch-regional-edition.json"
+    },
+    {
+      "igdb_id": 359497,
+      "game_name": "Train Sim World 5: East Coastway: Brighton - Eastbourne & Seaford Route Add-On",
+      "file": "missing/T/359497-train-sim-world-5-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json"
     },
     {
       "igdb_id": 359978,
@@ -333873,9 +334028,24 @@
       "file": "missing/T/320762-train-sim-world-5-german-regional-edition.json"
     },
     {
+      "igdb_id": 359495,
+      "game_name": "Train Sim World 5: Glossop Line: Manchester - Hadfield & Glossop Route Add-On",
+      "file": "missing/T/359495-train-sim-world-5-glossop-line-manchester-hadfield-and-glossop-route-add-on.json"
+    },
+    {
+      "igdb_id": 359501,
+      "game_name": "Train Sim World 5: Harlem Line: Grand Central Terminal - North White Plains Route Add-On",
+      "file": "missing/T/359501-train-sim-world-5-harlem-line-grand-central-terminal-north-white-plains-route-add-on.json"
+    },
+    {
       "igdb_id": 359970,
       "game_name": "Train Sim World 5: Horseshoe Curve: Altoona - Johnstown & South Fork Route Add-On",
       "file": "missing/T/359970-train-sim-world-5-horseshoe-curve-altoona-johnstown-and-south-fork-route-add-on.json"
+    },
+    {
+      "igdb_id": 359499,
+      "game_name": "Train Sim World 5: Main-Spessart Bahn: Aschaffenburg - Gemunden Route Add-On",
+      "file": "missing/T/359499-train-sim-world-5-main-spessart-bahn-aschaffenburg-gemunden-route-add-on.json"
     },
     {
       "igdb_id": 366842,
@@ -333893,14 +334063,74 @@
       "file": "missing/T/402356-train-sim-world-5-pfalzische-ludwigsbahn-mannheim-kaiserslautern.json"
     },
     {
+      "igdb_id": 359511,
+      "game_name": "Train Sim World 5: Rail Operations Group BR Class 37/7 Add-On",
+      "file": "missing/T/359511-train-sim-world-5-rail-operations-group-br-class-37-7-add-on.json"
+    },
+    {
+      "igdb_id": 359512,
+      "game_name": "Train Sim World 5: RhB Arosa Aggregates Pack",
+      "file": "missing/T/359512-train-sim-world-5-rhb-arosa-aggregates-pack.json"
+    },
+    {
+      "igdb_id": 359491,
+      "game_name": "Train Sim World 5: Rhein-Ruhr Osten: Wuppertal - Hagen Route Add-On",
+      "file": "missing/T/359491-train-sim-world-5-rhein-ruhr-osten-wuppertal-hagen-route-add-on.json"
+    },
+    {
+      "igdb_id": 359489,
+      "game_name": "Train Sim World 5: S-Bahn Zentralschweiz: Luzern - Sursee Route Add-On",
+      "file": "missing/T/359489-train-sim-world-5-s-bahn-zentralschweiz-luzern-sursee-route-add-on.json"
+    },
+    {
       "igdb_id": 359974,
       "game_name": "Train Sim World 5: Santa Fe F7 Add-On",
       "file": "missing/T/359974-train-sim-world-5-santa-fe-f7-add-on.json"
     },
     {
+      "igdb_id": 359513,
+      "game_name": "Train Sim World 5: Schnellfahrstrecke Koln-Aachen Route Add-On",
+      "file": "missing/T/359513-train-sim-world-5-schnellfahrstrecke-koln-aachen-route-add-on.json"
+    },
+    {
+      "igdb_id": 359487,
+      "game_name": "Train Sim World 5: ScotRail BR Class 158 Sprinter DMU Add-On",
+      "file": "missing/T/359487-train-sim-world-5-scotrail-br-class-158-sprinter-dmu-add-on.json"
+    },
+    {
+      "igdb_id": 359488,
+      "game_name": "Train Sim World 5: ScotRail Express: Edinburgh - Glasgow Route Add-On",
+      "file": "missing/T/359488-train-sim-world-5-scotrail-express-edinburgh-glasgow-route-add-on.json"
+    },
+    {
+      "igdb_id": 359484,
+      "game_name": "Train Sim World 5: Southern BR Class 313 EMU",
+      "file": "missing/T/359484-train-sim-world-5-southern-br-class-313-emu.json"
+    },
+    {
+      "igdb_id": 359485,
+      "game_name": "Train Sim World 5: Thameslink BR Class 700/0 EMU Add-On",
+      "file": "missing/T/359485-train-sim-world-5-thameslink-br-class-700-0-emu-add-on.json"
+    },
+    {
       "igdb_id": 402357,
       "game_name": "Train Sim World 5: West Coast Main Line: Preston - Carlisle",
       "file": "missing/T/402357-train-sim-world-5-west-coast-main-line-preston-carlisle.json"
+    },
+    {
+      "igdb_id": 359494,
+      "game_name": "Train Sim World 5: West Cornwall Local: Penzance - St Austell & St Ives Route",
+      "file": "missing/T/359494-train-sim-world-5-west-cornwall-local-penzance-st-austell-and-st-ives-route.json"
+    },
+    {
+      "igdb_id": 359504,
+      "game_name": "Train Sim World 5: West Cornwall Steam Railtour Add-On",
+      "file": "missing/T/359504-train-sim-world-5-west-cornwall-steam-railtour-add-on.json"
+    },
+    {
+      "igdb_id": 359490,
+      "game_name": "Train Sim World 5: West Somerset Railway Route Add-On",
+      "file": "missing/T/359490-train-sim-world-5-west-somerset-railway-route-add-on.json"
     },
     {
       "igdb_id": 363370,
@@ -342493,6 +342723,11 @@
       "file": "missing/U/258741-universal-conquest.json"
     },
     {
+      "igdb_id": 359525,
+      "game_name": "Universal Hologram",
+      "file": "missing/U/359525-universal-hologram.json"
+    },
+    {
       "igdb_id": 91955,
       "game_name": "Universal Nuts",
       "file": "missing/U/91955-universal-nuts.json"
@@ -346126,6 +346361,11 @@
       "igdb_id": 141800,
       "game_name": "Verse Surf",
       "file": "missing/V/141800-verse-surf.json"
+    },
+    {
+      "igdb_id": 359524,
+      "game_name": "Verses",
+      "file": "missing/V/359524-verses.json"
     },
     {
       "igdb_id": 125947,
@@ -361391,6 +361631,16 @@
       "igdb_id": 184095,
       "game_name": "Xiào Ào Jiānghú 2 Wàizhuàn: Dōngfāng Zàiqǐ",
       "file": "missing/X/184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json"
+    },
+    {
+      "igdb_id": 359475,
+      "game_name": "Xiǎo Qiàn Dàmàoxiǎn",
+      "file": "missing/X/359475-xiao-qian-damaoxian.json"
+    },
+    {
+      "igdb_id": 359474,
+      "game_name": "Xiǎo Qiān Mófǎ Zhèng",
+      "file": "missing/X/359474-xiao-qian-mofa-zheng.json"
     },
     {
       "igdb_id": 147369,
