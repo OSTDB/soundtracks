@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
 | Washed Up! | 104040 | [104040-washed-up.json](./104040-washed-up.json) |
+| Washeteria | 353965 | [353965-washeteria.json](./353965-washeteria.json) |
 | Wasm4nia | 307615 | [307615-wasm4nia.json](./307615-wasm4nia.json) |
 | Waste | 200703 | [200703-waste.json](./200703-waste.json) |
 | Waste Cleaner | 61614 | [61614-waste-cleaner.json](./61614-waste-cleaner.json) |
@@ -2254,7 +2255,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
 | WWE 2K24 | 283600 | [283600-wwe-2k24.json](./283600-wwe-2k24.json) |
 | WWE 2K25: Deadman Edition | 335095 | [335095-wwe-2k25-deadman-edition.json](./335095-wwe-2k25-deadman-edition.json) |
+| WWE 2K25: Deadman Edition Bonus Pack | 353986 | [353986-wwe-2k25-deadman-edition-bonus-pack.json](./353986-wwe-2k25-deadman-edition-bonus-pack.json) |
+| WWE 2K25: Dunk & Destruction Pack | 353987 | [353987-wwe-2k25-dunk-and-destruction-pack.json](./353987-wwe-2k25-dunk-and-destruction-pack.json) |
+| WWE 2K25: Fearless Pack | 353988 | [353988-wwe-2k25-fearless-pack.json](./353988-wwe-2k25-fearless-pack.json) |
+| WWE 2K25: New Wave Pack | 353989 | [353989-wwe-2k25-new-wave-pack.json](./353989-wwe-2k25-new-wave-pack.json) |
 | WWE 2K25: The Bloodline Edition | 335096 | [335096-wwe-2k25-the-bloodline-edition.json](./335096-wwe-2k25-the-bloodline-edition.json) |
+| WWE 2K25: The Bloodline Edition Bonus Pack | 353990 | [353990-wwe-2k25-the-bloodline-edition-bonus-pack.json](./353990-wwe-2k25-the-bloodline-edition-bonus-pack.json) |
+| WWE 2K25: WrestleMania 41 Pack | 353991 | [353991-wwe-2k25-wrestlemania-41-pack.json](./353991-wwe-2k25-wrestlemania-41-pack.json) |
+| WWE 2K25: Wyatt Sicks Pack | 353992 | [353992-wwe-2k25-wyatt-sicks-pack.json](./353992-wwe-2k25-wyatt-sicks-pack.json) |
 | WWE Presents: Rockpocalypse | 63263 | [63263-wwe-presents-rockpocalypse.json](./63263-wwe-presents-rockpocalypse.json) |
 | WWE SmackDown! Shut Your Mouth | 6461 | [6461-wwe-smackdown-shut-your-mouth.json](./6461-wwe-smackdown-shut-your-mouth.json) |
 | WWE SuperCard | 79072 | [79072-wwe-supercard.json](./79072-wwe-supercard.json) |
