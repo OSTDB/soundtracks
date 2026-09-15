@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HappyFunland | 215689 | [215689-happyfunland.json](./215689-happyfunland.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
 | Haprokon | 115636 | [115636-haprokon.json](./115636-haprokon.json) |
+| Här Kommer Pippi Långstrump | 337184 | [337184-har-kommer-pippi-langstrump.json](./337184-har-kommer-pippi-langstrump.json) |
 | Harambe Kong | 82032 | [82032-harambe-kong.json](./82032-harambe-kong.json) |
 | Haramimura: When a Wife Becomes a Villager | 388721 | [388721-haramimura-when-a-wife-becomes-a-villager.json](./388721-haramimura-when-a-wife-becomes-a-villager.json) |
 | Harassment ni Ki wo Tsukete | 251609 | [251609-harassment-ni-ki-wo-tsukete.json](./251609-harassment-ni-ki-wo-tsukete.json) |
@@ -1031,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbrella | 345003 | [345003-hellbrella.json](./345003-hellbrella.json) |
 | Hellcam | 354486 | [354486-hellcam.json](./354486-hellcam.json) |
 | Hellcard | 127193 | [127193-hellcard.json](./127193-hellcard.json) |
+| Hellcats: Missions at Leyte Gulf | 337196 | [337196-hellcats-missions-at-leyte-gulf.json](./337196-hellcats-missions-at-leyte-gulf.json) |
 | Hellcrown | 412367 | [412367-hellcrown.json](./412367-hellcrown.json) |
 | Helldivers | 14523 | [14523-helldivers.json](./14523-helldivers.json) |
 | Helldivers 2: Devoid of Liberty | 412429 | [412429-helldivers-2-devoid-of-liberty.json](./412429-helldivers-2-devoid-of-liberty.json) |
@@ -1113,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, Goodbye, Summer Girl | 151721 | [151721-hello-goodbye-summer-girl.json](./151721-hello-goodbye-summer-girl.json) |
 | Hello, Kami-sama Worker | 379354 | [379354-hello-kami-sama-worker.json](./379354-hello-kami-sama-worker.json) |
 | Hello, Yoshi! | 378319 | [378319-hello-yoshi.json](./378319-hello-yoshi.json) |
+| Hello, your order... | 337153 | [337153-hello-your-order.json](./337153-hello-your-order.json) |
 | Hello: A Talking Simulator | 179173 | [179173-hello-a-talking-simulator.json](./179173-hello-a-talking-simulator.json) |
 | Hello! From Hallowville | 178573 | [178573-hello-from-hallowville.json](./178573-hello-from-hallowville.json) |
 | Hello! Lady Lynn: Yume no wo Heya ni Youkoso! | 293909 | [293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json](./293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json) |
