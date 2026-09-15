@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vindicators | 12871 | [12871-vindicators.json](./12871-vindicators.json) |
 | Vindicta Arcade | 88229 | [88229-vindicta-arcade.json](./88229-vindicta-arcade.json) |
 | Vindictive Drive | 31913 | [31913-vindictive-drive.json](./31913-vindictive-drive.json) |
+| Vindilis | 373088 | [373088-vindilis.json](./373088-vindilis.json) |
 | Vine | 128625 | [128625-vine.json](./128625-vine.json) |
 | Vine Realms | 135907 | [135907-vine-realms.json](./135907-vine-realms.json) |
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
@@ -681,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtualis Galeria | 383505 | [383505-virtualis-galeria.json](./383505-virtualis-galeria.json) |
 | Virtually Board Snowboarding 2 | 202947 | [202947-virtually-board-snowboarding-2.json](./202947-virtually-board-snowboarding-2.json) |
 | Virtue | 282015 | [282015-virtue.json](./282015-virtue.json) |
+| Virtuoso GP Race: On | 373077 | [373077-virtuoso-gp-race-on.json](./373077-virtuoso-gp-race-on.json) |
 | Virus | 12812 | [12812-virus.json](./12812-virus.json) |
 | VIrus Killer | 186834 | [186834-virus-killer.json](./186834-virus-killer.json) |
 | Virus Madness: Dungeons of your Body | 161373 | [161373-virus-madness-dungeons-of-your-body.json](./161373-virus-madness-dungeons-of-your-body.json) |
