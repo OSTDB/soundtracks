@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Terroretra In Space | 217870 | [217870-castle-terroretra-in-space.json](./217870-castle-terroretra-in-space.json) |
 | Castle Torgeath: Descent into Darkness | 26590 | [26590-castle-torgeath-descent-into-darkness.json](./26590-castle-torgeath-descent-into-darkness.json) |
 | Castle Werewolf | 29609 | [29609-castle-werewolf.json](./29609-castle-werewolf.json) |
+| Castle Wreck | 373638 | [373638-castle-wreck.json](./373638-castle-wreck.json) |
 | Castle: Daybreak | 166166 | [166166-castle-daybreak.json](./166166-castle-daybreak.json) |
 | Castle: Never Judge a Book by its Cover | 17407 | [17407-castle-never-judge-a-book-by-its-cover.json](./17407-castle-never-judge-a-book-by-its-cover.json) |
 | Castle's Adventure | 245542 | [245542-castles-adventure.json](./245542-castles-adventure.json) |
@@ -1457,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess '98 | 204703 | [204703-chess-98.json](./204703-chess-98.json) |
 | Chess & Backgammon Classics | 79907 | [79907-chess-and-backgammon-classics.json](./79907-chess-and-backgammon-classics.json) |
 | Chess 432 | 403662 | [403662-chess-432.json](./403662-chess-432.json) |
+| Chess Arena | 373648 | [373648-chess-arena.json](./373648-chess-arena.json) |
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
 | Chess Cartoons | 196826 | [196826-chess-cartoons.json](./196826-chess-cartoons.json) |
 | Chess Cats | 248068 | [248068-chess-cats.json](./248068-chess-cats.json) |
@@ -4053,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownbane | 411701 | [411701-crownbane.json](./411701-crownbane.json) |
 | Crownborne | 405528 | [405528-crownborne.json](./405528-crownborne.json) |
 | Crownbreakers | 348230 | [348230-crownbreakers.json](./348230-crownbreakers.json) |
+| Crownfall: Young Hero | 373649 | [373649-crownfall-young-hero.json](./373649-crownfall-young-hero.json) |
 | Crowning Calamity | 284332 | [284332-crowning-calamity.json](./284332-crowning-calamity.json) |
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
 | Crowntakers | 10070 | [10070-crowntakers.json](./10070-crowntakers.json) |
@@ -4398,6 +4401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Deadwood | 172152 | [172152-curse-of-the-deadwood.json](./172152-curse-of-the-deadwood.json) |
 | Curse of the Draugr Kings | 244767 | [244767-curse-of-the-draugr-kings.json](./244767-curse-of-the-draugr-kings.json) |
 | Curse of the Dungeon | 126580 | [126580-curse-of-the-dungeon.json](./126580-curse-of-the-dungeon.json) |
+| Curse of the Forsaken | 373610 | [373610-curse-of-the-forsaken.json](./373610-curse-of-the-forsaken.json) |
 | Curse of the Lich King | 178005 | [178005-curse-of-the-lich-king.json](./178005-curse-of-the-lich-king.json) |
 | Curse of The Lineage | 375835 | [375835-curse-of-the-lineage.json](./375835-curse-of-the-lineage.json) |
 | Curse of the Sea Rats | 121712 | [121712-curse-of-the-sea-rats.json](./121712-curse-of-the-sea-rats.json) |
