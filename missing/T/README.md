@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from Ahrum | 175981 | [175981-tales-from-ahrum.json](./175981-tales-from-ahrum.json) |
 | Tales from Centropolis | 244239 | [244239-tales-from-centropolis.json](./244239-tales-from-centropolis.json) |
 | Tales From Deep Space | 94751 | [94751-tales-from-deep-space.json](./94751-tales-from-deep-space.json) |
+| Tales from Floating Abyss | 377705 | [377705-tales-from-floating-abyss.json](./377705-tales-from-floating-abyss.json) |
 | Tales From Galaxy 34 | 113027 | [113027-tales-from-galaxy-34.json](./113027-tales-from-galaxy-34.json) |
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
 | Tales from the Commonwealth | 356619 | [356619-tales-from-the-commonwealth.json](./356619-tales-from-the-commonwealth.json) |
@@ -710,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Cards | 129098 | [129098-tavern-cards.json](./129098-tavern-cards.json) |
 | Tavern Deep Cauldron | 401024 | [401024-tavern-deep-cauldron.json](./401024-tavern-deep-cauldron.json) |
 | Tavern Girl | 290949 | [290949-tavern-girl.json](./290949-tavern-girl.json) |
+| Tavern Master: Pirates Retreat | 377716 | [377716-tavern-master-pirates-retreat.json](./377716-tavern-master-pirates-retreat.json) |
 | Tavern of Empire | 248670 | [248670-tavern-of-empire.json](./248670-tavern-of-empire.json) |
 | Tavern Rivals | 417566 | [417566-tavern-rivals.json](./417566-tavern-rivals.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
@@ -1811,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
 | The Colony | 178020 | [178020-the-colony.json](./178020-the-colony.json) |
 | The Colored Moth | 184070 | [184070-the-colored-moth.json](./184070-the-colored-moth.json) |
+| The Colorful Biplane | 377719 | [377719-the-colorful-biplane.json](./377719-the-colorful-biplane.json) |
 | The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
 | The Colour Beyond: A Zeroth Kind | 409590 | [409590-the-colour-beyond-a-zeroth-kind.json](./409590-the-colour-beyond-a-zeroth-kind.json) |
 | The Coma 2: Vicious Sisters - Deluxe Edition | 154510 | [154510-the-coma-2-vicious-sisters-deluxe-edition.json](./154510-the-coma-2-vicious-sisters-deluxe-edition.json) |
@@ -2760,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Chocolate | 231371 | [231371-the-jumping-chocolate.json](./231371-the-jumping-chocolate.json) |
 | The Jumping Chocolate: Turbo | 231372 | [231372-the-jumping-chocolate-turbo.json](./231372-the-jumping-chocolate-turbo.json) |
 | The Jumping Food Delivery | 359991 | [359991-the-jumping-food-delivery.json](./359991-the-jumping-food-delivery.json) |
+| The Jumping Food Racing | 377709 | [377709-the-jumping-food-racing.json](./377709-the-jumping-food-racing.json) |
 | The Jumping Food Racing 2 | 380407 | [380407-the-jumping-food-racing-2.json](./380407-the-jumping-food-racing-2.json) |
 | The Jumping Fries | 204078 | [204078-the-jumping-fries.json](./204078-the-jumping-fries.json) |
 | The Jumping Noodles: Turbo | 212792 | [212792-the-jumping-noodles-turbo.json](./212792-the-jumping-noodles-turbo.json) |
@@ -3347,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Munsters | 37103 | [37103-the-munsters.json](./37103-the-munsters.json) |
 | The Muppets: On with the Show! | 49321 | [49321-the-muppets-on-with-the-show.json](./49321-the-muppets-on-with-the-show.json) |
 | The Murder Hotel | 247770 | [247770-the-murder-hotel.json](./247770-the-murder-hotel.json) |
+| The Murder of Ava Monroe | 377685 | [377685-the-murder-of-ava-monroe.json](./377685-the-murder-of-ava-monroe.json) |
 | The Murder of Sonic the Hedgehog | 243385 | [243385-the-murder-of-sonic-the-hedgehog.json](./243385-the-murder-of-sonic-the-hedgehog.json) |
 | The Murderer | 69801 | [69801-the-murderer.json](./69801-the-murderer.json) |
 | The Muse | 319556 | [319556-the-muse.json](./319556-the-muse.json) |
@@ -5982,6 +5987,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division 2: Fang Pack | 408900 | [408900-tom-clancys-the-division-2-fang-pack.json](./408900-tom-clancys-the-division-2-fang-pack.json) |
 | Tom Clancy's The Division 2: Gold Steelbook Edition | 79862 | [79862-tom-clancys-the-division-2-gold-steelbook-edition.json](./79862-tom-clancys-the-division-2-gold-steelbook-edition.json) |
 | Tom Clancy’s The Division 2: Into the Dark Bundle | 408897 | [408897-tom-clancy-s-the-division-2-into-the-dark-bundle.json](./408897-tom-clancy-s-the-division-2-into-the-dark-bundle.json) |
+| Tom Clancy's The Division 2: New York DLC Bundle | 377722 | [377722-tom-clancys-the-division-2-new-york-dlc-bundle.json](./377722-tom-clancys-the-division-2-new-york-dlc-bundle.json) |
+| Tom Clancy’s The Division 2: Red Eye Pack | 377721 | [377721-tom-clancy-s-the-division-2-red-eye-pack.json](./377721-tom-clancy-s-the-division-2-red-eye-pack.json) |
 | Tom Clancy’s The Division 2: Shady Pack | 408898 | [408898-tom-clancy-s-the-division-2-shady-pack.json](./408898-tom-clancy-s-the-division-2-shady-pack.json) |
 | Tom Clancy's The Division 2: Warlord of New York - Season 1: Shadow Tide | 217527 | [217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json](./217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json) |
 | Tom Clancy's The Division 2: Warlords of New York | 129847 | [129847-tom-clancys-the-division-2-warlords-of-new-york.json](./129847-tom-clancys-the-division-2-warlords-of-new-york.json) |
@@ -6059,6 +6066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomorrow | 34383 | [34383-tomorrow.json](./34383-tomorrow.json) |
 | Tomorrow Don't Come: Vicious Cycle | 172124 | [172124-tomorrow-dont-come-vicious-cycle.json](./172124-tomorrow-dont-come-vicious-cycle.json) |
 | Tomorrow for Mar | 199608 | [199608-tomorrow-for-mar.json](./199608-tomorrow-for-mar.json) |
+| Tomorrowness | 377682 | [377682-tomorrowness.json](./377682-tomorrowness.json) |
 | Tomotoru: Hello Kitty Happy Life | 188628 | [188628-tomotoru-hello-kitty-happy-life.json](./188628-tomotoru-hello-kitty-happy-life.json) |
 | Tomoyo After: It's a Wonderful Life | 7218 | [7218-tomoyo-after-its-a-wonderful-life.json](./7218-tomoyo-after-its-a-wonderful-life.json) |
 | TomTom Adventures | 82851 | [82851-tomtom-adventures.json](./82851-tomtom-adventures.json) |
@@ -7198,6 +7206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle Strategy | 318779 | [318779-triangle-strategy.json](./318779-triangle-strategy.json) |
 | Triangle Wing XXXX | 133461 | [133461-triangle-wing-xxxx.json](./133461-triangle-wing-xxxx.json) |
 | TrianGo | 130898 | [130898-triango.json](./130898-triango.json) |
+| Triarchy | 377667 | [377667-triarchy.json](./377667-triarchy.json) |
 | Tribal Pass | 32646 | [32646-tribal-pass.json](./32646-tribal-pass.json) |
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
 | Tribal Wars | 148522 | [148522-tribal-wars.json](./148522-tribal-wars.json) |
@@ -7687,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twenty One | 395559 | [395559-twenty-one.json](./395559-twenty-one.json) |
 | Twerk it Girl! | 238510 | [238510-twerk-it-girl.json](./238510-twerk-it-girl.json) |
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
+| Twhols | 377717 | [377717-twhols.json](./377717-twhols.json) |
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
 | Twilight Flight | 403709 | [403709-twilight-flight.json](./403709-twilight-flight.json) |
 | Twilight Gallery | 382197 | [382197-twilight-gallery.json](./382197-twilight-gallery.json) |
