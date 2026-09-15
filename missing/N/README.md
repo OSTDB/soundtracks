@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromunda: Underhive Wars - Van Saar Gang | 162857 | [162857-necromunda-underhive-wars-van-saar-gang.json](./162857-necromunda-underhive-wars-van-saar-gang.json) |
 | Necronator | 304048 | [304048-necronator.json](./304048-necronator.json) |
 | Necronator 2 | 304049 | [304049-necronator-2.json](./304049-necronator-2.json) |
+| NecroNegate | 337162 | [337162-necronegate.json](./337162-necronegate.json) |
 | NecroNomNomNom: Eldritch Horror Dating | 220638 | [220638-necronomnomnom-eldritch-horror-dating.json](./220638-necronomnomnom-eldritch-horror-dating.json) |
 | Necrophobia | 211715 | [211715-necrophobia.json](./211715-necrophobia.json) |
 | Necrophobia | 296345 | [296345-necrophobia.json](./296345-necrophobia.json) |
