@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ines | 340925 | [340925-ines.json](./340925-ines.json) |
 | Inescapable VR: Underground | 51571 | [51571-inescapable-vr-underground.json](./51571-inescapable-vr-underground.json) |
 | Inescapable: No Rules, No Rescue | 244764 | [244764-inescapable-no-rules-no-rescue.json](./244764-inescapable-no-rules-no-rescue.json) |
+| iNetHack | 351126 | [351126-inethack.json](./351126-inethack.json) |
 | Inexplicable Geeks: RestoreTheMillerCut | 253924 | [253924-inexplicable-geeks-restorethemillercut.json](./253924-inexplicable-geeks-restorethemillercut.json) |
 | Infamous Second Son - Special Edition | 89873 | [89873-infamous-second-son-special-edition.json](./89873-infamous-second-son-special-edition.json) |
 | Infamous: First Light | 7328 | [7328-infamous-first-light.json](./7328-infamous-first-light.json) |
