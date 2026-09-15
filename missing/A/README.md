@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
 | A Border With No End | 414416 | [414416-a-border-with-no-end.json](./414416-a-border-with-no-end.json) |
+| A Brat's Journey: A Rose Playing Game | 372579 | [372579-a-brats-journey-a-rose-playing-game.json](./372579-a-brats-journey-a-rose-playing-game.json) |
 | A Brief Tale | 411683 | [411683-a-brief-tale.json](./411683-a-brief-tale.json) |
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Business Tycoon | 68025 | [68025-a-business-tycoon.json](./68025-a-business-tycoon.json) |
@@ -470,7 +471,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | AFK Industarry | 405469 | [405469-afk-industarry.json](./405469-afk-industarry.json) |
 | AFL 99 | 60580 | [60580-afl-99.json](./60580-afl-99.json) |
-| AFL Live 2003 | 47307 | [47307-afl-live-2003.json](./47307-afl-live-2003.json) |
 | AFL Live 2004 | 47306 | [47306-afl-live-2004.json](./47306-afl-live-2004.json) |
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
 | After Dark VR | 187533 | [187533-after-dark-vr.json](./187533-after-dark-vr.json) |
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
+| After Grow | 372578 | [372578-after-grow.json](./372578-after-grow.json) |
 | After Gym | 239347 | [239347-after-gym.json](./239347-after-gym.json) |
 | After Hours Athletes | 44603 | [44603-after-hours-athletes.json](./44603-after-hours-athletes.json) |
 | After School | 178036 | [178036-after-school.json](./178036-after-school.json) |
