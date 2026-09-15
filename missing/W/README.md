@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Remains | 124265 | [124265-war-remains.json](./124265-war-remains.json) |
 | War Robots: Frontiers - Lancelot Rising | 335099 | [335099-war-robots-frontiers-lancelot-rising.json](./335099-war-robots-frontiers-lancelot-rising.json) |
 | War Robots: Planet Defender | 127379 | [127379-war-robots-planet-defender.json](./127379-war-robots-planet-defender.json) |
+| War Room | 335325 | [335325-war-room.json](./335325-war-room.json) |
 | War Saber | 137689 | [137689-war-saber.json](./137689-war-saber.json) |
 | War Selection | 116499 | [116499-war-selection.json](./116499-war-selection.json) |
 | War Smith | 132203 | [132203-war-smith.json](./132203-war-smith.json) |
@@ -2165,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Would you rather?! | 90677 | [90677-would-you-rather.json](./90677-would-you-rather.json) |
 | Would You Sell Your Soul? 2 | 303265 | [303265-would-you-sell-your-soul-2.json](./303265-would-you-sell-your-soul-2.json) |
 | Would You Still Love Me if I Was a Worm? | 372585 | [372585-would-you-still-love-me-if-i-was-a-worm.json](./372585-would-you-still-love-me-if-i-was-a-worm.json) |
+| Would You Still Love Me? | 335321 | [335321-would-you-still-love-me.json](./335321-would-you-still-love-me.json) |
 | Wound Man | 273385 | [273385-wound-man.json](./273385-wound-man.json) |
 | Wounds 4 Hard Medication | 181291 | [181291-wounds-4-hard-medication.json](./181291-wounds-4-hard-medication.json) |
 | Wove | 369024 | [369024-wove.json](./369024-wove.json) |
