@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youtuber Boys: Love Behind the Camera | 403722 | [403722-youtuber-boys-love-behind-the-camera.json](./403722-youtuber-boys-love-behind-the-camera.json) |
 | Youtubers Life: Gaming Channel | 88942 | [88942-youtubers-life-gaming-channel.json](./88942-youtubers-life-gaming-channel.json) |
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
+| Yoyo Punk | 349375 | [349375-yoyo-punk.json](./349375-yoyo-punk.json) |
 | YoyoMonkeyAdventure | 149036 | [149036-yoyomonkeyadventure.json](./149036-yoyomonkeyadventure.json) |
 | Yozemi no Center Shoujun Series: Eigo-hen | 321355 | [321355-yozemi-no-center-shoujun-series-eigo-hen.json](./321355-yozemi-no-center-shoujun-series-eigo-hen.json) |
 | YRek Lost In Portals | 166757 | [166757-yrek-lost-in-portals.json](./166757-yrek-lost-in-portals.json) |
