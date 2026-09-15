@@ -2047,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Grail for Dummies | 400327 | [400327-holy-grail-for-dummies.json](./400327-holy-grail-for-dummies.json) |
 | Holy Grain | 305778 | [305778-holy-grain.json](./305778-holy-grain.json) |
 | Holy Horror Mansion | 317593 | [317593-holy-horror-mansion.json](./317593-holy-horror-mansion.json) |
+| Holy Intentions | 369081 | [369081-holy-intentions.json](./369081-holy-intentions.json) |
 | Holy Journey of Salvation | 249801 | [249801-holy-journey-of-salvation.json](./249801-holy-journey-of-salvation.json) |
 | Holy Knight Bitch | 82902 | [82902-holy-knight-bitch.json](./82902-holy-knight-bitch.json) |
 | Holy Potatoes! A Weapon Shop?!: Spud Tales - Journey to Olympus | 124836 | [124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json](./124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json) |
@@ -2189,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honshougi: Naitou 9 Dan Shougi Hiden | 267667 | [267667-honshougi-naitou-9-dan-shougi-hiden.json](./267667-honshougi-naitou-9-dan-shougi-hiden.json) |
 | Hontou ni Atta Real Otogi-banashi | 251611 | [251611-hontou-ni-atta-real-otogi-banashi.json](./251611-hontou-ni-atta-real-otogi-banashi.json) |
 | Hontou no Negaigoto | 413744 | [413744-hontou-no-negaigoto.json](./413744-hontou-no-negaigoto.json) |
+| Honu | 369079 | [369079-honu.json](./369079-honu.json) |
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
 | Hoodwink | 20820 | [20820-hoodwink.json](./20820-hoodwink.json) |
 | Hoofdrekenen | 98950 | [98950-hoofdrekenen.json](./98950-hoofdrekenen.json) |
