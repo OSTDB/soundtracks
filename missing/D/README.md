@@ -1041,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Orb | 72629 | [72629-death-orb.json](./72629-death-orb.json) |
 | Death Park 2: Horror Clown | 251232 | [251232-death-park-2-horror-clown.json](./251232-death-park-2-horror-clown.json) |
 | Death Penalty | 401555 | [401555-death-penalty.json](./401555-death-penalty.json) |
+| Death Pit Explorer | 339929 | [339929-death-pit-explorer.json](./339929-death-pit-explorer.json) |
 | Death Race | 110376 | [110376-death-race.json](./110376-death-race.json) |
 | Death Race | 8561 | [8561-death-race.json](./8561-death-race.json) |
 | Death Race Outer Space | 239676 | [239676-death-race-outer-space.json](./239676-death-race-outer-space.json) |
@@ -2151,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinner Bell | 60005 | [60005-dinner-bell.json](./60005-dinner-bell.json) |
 | Dinner for Pigeons | 168385 | [168385-dinner-for-pigeons.json](./168385-dinner-for-pigeons.json) |
 | Dino | 267359 | [267359-dino.json](./267359-dino.json) |
+| Dino & Chill | 339938 | [339938-dino-and-chill.json](./339938-dino-and-chill.json) |
 | Dino Attack | 343258 | [343258-dino-attack.json](./343258-dino-attack.json) |
 | Dino Breeder | 64981 | [64981-dino-breeder.json](./64981-dino-breeder.json) |
 | Dino Breeder 2 | 63853 | [63853-dino-breeder-2.json](./63853-dino-breeder-2.json) |
@@ -3077,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
 | Doorways | 185655 | [185655-doorways.json](./185655-doorways.json) |
 | Doorways: Old Prototype | 26528 | [26528-doorways-old-prototype.json](./26528-doorways-old-prototype.json) |
+| Doorz | 339939 | [339939-doorz.json](./339939-doorz.json) |
 | Dopamine | 295798 | [295798-dopamine.json](./295798-dopamine.json) |
 | Dopamix | 222327 | [222327-dopamix.json](./222327-dopamix.json) |
 | DopeMine Arena | 194556 | [194556-dopemine-arena.json](./194556-dopemine-arena.json) |
@@ -4148,6 +4151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunes of Valor | 303498 | [303498-dunes-of-valor.json](./303498-dunes-of-valor.json) |
 | Dung Beetle | 75116 | [75116-dung-beetle.json](./75116-dung-beetle.json) |
 | Dung Slinger | 410342 | [410342-dung-slinger.json](./410342-dung-slinger.json) |
+| Dungemon | 339930 | [339930-dungemon.json](./339930-dungemon.json) |
 | Dungen | 169436 | [169436-dungen.json](./169436-dungen.json) |
 | Dungeon | 86095 | [86095-dungeon.json](./86095-dungeon.json) |
 | Dungeon & Burglar | 195149 | [195149-dungeon-and-burglar.json](./195149-dungeon-and-burglar.json) |
