@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back Again | 192507 | [192507-back-again.json](./192507-back-again.json) |
 | Back Alley Chronicle: Episode Saeki | 397092 | [397092-back-alley-chronicle-episode-saeki.json](./397092-back-alley-chronicle-episode-saeki.json) |
 | Back From Hell | 24877 | [24877-back-from-hell.json](./24877-back-from-hell.json) |
+| Back from the other world, I missed love | 337707 | [337707-back-from-the-other-world-i-missed-love.json](./337707-back-from-the-other-world-i-missed-love.json) |
 | Back In 1995 64 | 85503 | [85503-back-in-1995-64.json](./85503-back-in-1995-64.json) |
 | Back Rank Chess: Zombie Strike | 289341 | [289341-back-rank-chess-zombie-strike.json](./289341-back-rank-chess-zombie-strike.json) |
 | Back Rooms: Ground Zero | 250641 | [250641-back-rooms-ground-zero.json](./250641-back-rooms-ground-zero.json) |
@@ -1572,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Cherry Trees | 90567 | [90567-beneath-the-cherry-trees.json](./90567-beneath-the-cherry-trees.json) |
 | Beneath the Lighthouse | 59378 | [59378-beneath-the-lighthouse.json](./59378-beneath-the-lighthouse.json) |
 | Beneath the Mountain | 173299 | [173299-beneath-the-mountain.json](./173299-beneath-the-mountain.json) |
+| Beneath The Rooftop Sky | 337696 | [337696-beneath-the-rooftop-sky.json](./337696-beneath-the-rooftop-sky.json) |
 | Beneath the Surface | 111630 | [111630-beneath-the-surface.json](./111630-beneath-the-surface.json) |
 | Beneath The Surface | 380012 | [380012-beneath-the-surface.json](./380012-beneath-the-surface.json) |
 | Beneath the Waves | 319393 | [319393-beneath-the-waves.json](./319393-beneath-the-waves.json) |
@@ -2747,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodia | 118394 | [118394-bloodia.json](./118394-bloodia.json) |
 | BloodKeeper | 143037 | [143037-bloodkeeper.json](./143037-bloodkeeper.json) |
 | Bloodless Heart | 366879 | [366879-bloodless-heart.json](./366879-bloodless-heart.json) |
+| Bloodletter | 337717 | [337717-bloodletter.json](./337717-bloodletter.json) |
 | Bloodline | 338252 | [338252-bloodline.json](./338252-bloodline.json) |
 | Bloodline Champions: Huntress Pack | 27657 | [27657-bloodline-champions-huntress-pack.json](./27657-bloodline-champions-huntress-pack.json) |
 | Bloodline Champions: Warchief Pack | 27655 | [27655-bloodline-champions-warchief-pack.json](./27655-bloodline-champions-warchief-pack.json) |
@@ -3168,6 +3171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
 | Bookmark Hero | 404936 | [404936-bookmark-hero.json](./404936-bookmark-hero.json) |
 | Books | 55327 | [55327-books.json](./55327-books.json) |
+| Bookshop Simulator | 337720 | [337720-bookshop-simulator.json](./337720-bookshop-simulator.json) |
 | Bookstore Dream | 62950 | [62950-bookstore-dream.json](./62950-bookstore-dream.json) |
 | Bookworm | 8325 | [8325-bookworm.json](./8325-bookworm.json) |
 | Bookworm Adventures Deluxe | 353868 | [353868-bookworm-adventures-deluxe.json](./353868-bookworm-adventures-deluxe.json) |
@@ -3649,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Limit | 91945 | [91945-break-limit.json](./91945-break-limit.json) |
 | Break My Case | 333943 | [333943-break-my-case.json](./333943-break-my-case.json) |
 | Break Nine: World Billiards Tournament | 5755 | [5755-break-nine-world-billiards-tournament.json](./5755-break-nine-world-billiards-tournament.json) |
+| Break Point | 337697 | [337697-break-point.json](./337697-break-point.json) |
 | Break Space: Out of Bounds | 158694 | [158694-break-space-out-of-bounds.json](./158694-break-space-out-of-bounds.json) |
 | Break Street | 25783 | [25783-break-street.json](./25783-break-street.json) |
 | Break Tactics | 85516 | [85516-break-tactics.json](./85516-break-tactics.json) |
@@ -3765,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Constructor: The Walking Dead | 137291 | [137291-bridge-constructor-the-walking-dead.json](./137291-bridge-constructor-the-walking-dead.json) |
 | Bridge Constructor: Ultimate Edition | 129195 | [129195-bridge-constructor-ultimate-edition.json](./129195-bridge-constructor-ultimate-edition.json) |
 | Bridge Creator 2015 | 35857 | [35857-bridge-creator-2015.json](./35857-bridge-creator-2015.json) |
+| Bridge Encounter | 337726 | [337726-bridge-encounter.json](./337726-bridge-encounter.json) |
 | Bridge for Windows | 83475 | [83475-bridge-for-windows.json](./83475-bridge-for-windows.json) |
 | Bridge hand Composer | 87317 | [87317-bridge-hand-composer.json](./87317-bridge-hand-composer.json) |
 | Bridge Hunter | 260167 | [260167-bridge-hunter.json](./260167-bridge-hunter.json) |
