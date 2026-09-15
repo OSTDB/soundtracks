@@ -3532,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Dentetsu: 20 Shuunen | 64420 | [64420-momotaro-dentetsu-20-shuunen.json](./64420-momotaro-dentetsu-20-shuunen.json) |
 | Momotaro Douchuuki | 64421 | [64421-momotaro-douchuuki.json](./64421-momotaro-douchuuki.json) |
 | Momotaro Matsuri: Ishikawa Rokuemon no Maki | 64407 | [64407-momotaro-matsuri-ishikawa-rokuemon-no-maki.json](./64407-momotaro-matsuri-ishikawa-rokuemon-no-maki.json) |
+| Momotaro no Onigashima Kouryaku-sen: Kaguya-hime wo Sukuidase!!! | 349410 | [349410-momotaro-no-onigashima-kouryaku-sen-kaguya-hime-wo-sukuidase.json](./349410-momotaro-no-onigashima-kouryaku-sen-kaguya-hime-wo-sukuidase.json) |
 | Momotaro Thunderbolt 2 | 64422 | [64422-momotaro-thunderbolt-2.json](./64422-momotaro-thunderbolt-2.json) |
 | Momotarou | 318770 | [318770-momotarou.json](./318770-momotarou.json) |
 | Mon-cuties for All | 134679 | [134679-mon-cuties-for-all.json](./134679-mon-cuties-for-all.json) |
@@ -3916,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonchrome. | 382931 | [382931-moonchrome.json](./382931-moonchrome.json) |
 | Moondusk Masquerade | 334499 | [334499-moondusk-masquerade.json](./334499-moondusk-masquerade.json) |
 | Moonfall Voyage | 264052 | [264052-moonfall-voyage.json](./264052-moonfall-voyage.json) |
+| Moonfell: The Tides of Aether | 349388 | [349388-moonfell-the-tides-of-aether.json](./349388-moonfell-the-tides-of-aether.json) |
 | Moonflower | 224580 | [224580-moonflower.json](./224580-moonflower.json) |
 | MoonHack | 408042 | [408042-moonhack.json](./408042-moonhack.json) |
 | Moonland | 270707 | [270707-moonland.json](./270707-moonland.json) |
@@ -3955,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
 | Mooon | 276742 | [276742-mooon.json](./276742-mooon.json) |
 | Moop | 179665 | [179665-moop.json](./179665-moop.json) |
+| Moor Rail | 349370 | [349370-moor-rail.json](./349370-moor-rail.json) |
 | Moorhen 3: The Chicken Chase! | 49438 | [49438-moorhen-3-the-chicken-chase.json](./49438-moorhen-3-the-chicken-chase.json) |
 | Moorhen Playsuit | 364584 | [364584-moorhen-playsuit.json](./364584-moorhen-playsuit.json) |
 | Moorhen Seasons | 282544 | [282544-moorhen-seasons.json](./282544-moorhen-seasons.json) |
