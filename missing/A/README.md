@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of the Cat Leopold | 53166 | [53166-adventures-of-the-cat-leopold.json](./53166-adventures-of-the-cat-leopold.json) |
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
+| Aenigmarch | 360655 | [360655-aenigmarch.json](./360655-aenigmarch.json) |
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
@@ -1458,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze: Halloween | 110183 | [110183-amaze-halloween.json](./110183-amaze-halloween.json) |
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
 | Amaze'd | 105299 | [105299-amazed.json](./105299-amazed.json) |
+| Amazeballs! | 360668 | [360668-amazeballs.json](./360668-amazeballs.json) |
 | AmazeBowl | 104070 | [104070-amazebowl.json](./104070-amazebowl.json) |
 | Amazed | 14251 | [14251-amazed.json](./14251-amazed.json) |
 | Amazed | 171573 | [171573-amazed.json](./171573-amazed.json) |
@@ -2730,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argentum Online | 93135 | [93135-argentum-online.json](./93135-argentum-online.json) |
 | Argh! Earthlings! | 175435 | [175435-argh-earthlings.json](./175435-argh-earthlings.json) |
 | Arghh, There's a Killer Chasing Me! | 188114 | [188114-arghh-theres-a-killer-chasing-me.json](./188114-arghh-theres-a-killer-chasing-me.json) |
+| Argonauts Agency: Ares Games | 360665 | [360665-argonauts-agency-ares-games.json](./360665-argonauts-agency-ares-games.json) |
 | Argonauts Agency: Chair of Hephaestus | 188084 | [188084-argonauts-agency-chair-of-hephaestus.json](./188084-argonauts-agency-chair-of-hephaestus.json) |
 | Argonauts Agency: Pandora's Box | 117094 | [117094-argonauts-agency-pandoras-box.json](./117094-argonauts-agency-pandoras-box.json) |
 | Argonauts Agency: When Spring Withered | 412260 | [412260-argonauts-agency-when-spring-withered.json](./412260-argonauts-agency-when-spring-withered.json) |
