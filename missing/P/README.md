@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Brigade | 69488 | [69488-phantom-brigade.json](./69488-phantom-brigade.json) |
 | Phantom City | 317826 | [317826-phantom-city.json](./317826-phantom-city.json) |
 | Phantom Club | 55017 | [55017-phantom-club.json](./55017-phantom-club.json) |
+| Phantom Demon Siege | 345026 | [345026-phantom-demon-siege.json](./345026-phantom-demon-siege.json) |
 | Phantom Doctrine: Deluxe Edition | 107257 | [107257-phantom-doctrine-deluxe-edition.json](./107257-phantom-doctrine-deluxe-edition.json) |
 | Phantom Doctrine: Halloween Scare Tactics | 171081 | [171081-phantom-doctrine-halloween-scare-tactics.json](./171081-phantom-doctrine-halloween-scare-tactics.json) |
 | Phantom Dust | 7341 | [7341-phantom-dust.json](./7341-phantom-dust.json) |
@@ -1534,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilgrim | 301813 | [301813-pilgrim.json](./301813-pilgrim.json) |
 | Pilgrim of Darkness | 346145 | [346145-pilgrim-of-darkness.json](./346145-pilgrim-of-darkness.json) |
 | Pill Cosbi | 74359 | [74359-pill-cosbi.json](./74359-pill-cosbi.json) |
+| Pill Fight | 345017 | [345017-pill-fight.json](./345017-pill-fight.json) |
 | Pillar of Gods | 337077 | [337077-pillar-of-gods.json](./337077-pillar-of-gods.json) |
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
 | Pillars of Eternity II: Deadfire | 26951 | [26951-pillars-of-eternity-ii-deadfire.json](./26951-pillars-of-eternity-ii-deadfire.json) |
@@ -2699,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pollux | 40255 | [40255-pollux.json](./40255-pollux.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
+| Polterquest | 345027 | [345027-polterquest.json](./345027-polterquest.json) |
 | Poly Bridge 3 | 243400 | [243400-poly-bridge-3.json](./243400-poly-bridge-3.json) |
 | Poly City : Vengeance | 114423 | [114423-poly-city-vengeance.json](./114423-poly-city-vengeance.json) |
 | Poly Jigsaw: Dogs | 248665 | [248665-poly-jigsaw-dogs.json](./248665-poly-jigsaw-dogs.json) |
