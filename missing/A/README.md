@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gods: Tribal Faction | 399098 | [399098-age-of-gods-tribal-faction.json](./399098-age-of-gods-tribal-faction.json) |
 | Age of Grit | 61074 | [61074-age-of-grit.json](./61074-age-of-grit.json) |
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
+| Age of Mechs | 365778 | [365778-age-of-mechs.json](./365778-age-of-mechs.json) |
 | Age of Mythology: Retold - Immortal Pillars | 317873 | [317873-age-of-mythology-retold-immortal-pillars.json](./317873-age-of-mythology-retold-immortal-pillars.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
 | Age of Ottoman | 200739 | [200739-age-of-ottoman.json](./200739-age-of-ottoman.json) |
@@ -1345,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Machine | 363909 | [363909-alone-in-the-machine.json](./363909-alone-in-the-machine.json) |
 | Alone in the Outback | 226215 | [226215-alone-in-the-outback.json](./226215-alone-in-the-outback.json) |
 | Alone in the School | 302385 | [302385-alone-in-the-school.json](./302385-alone-in-the-school.json) |
+| Alone To Melt | 365753 | [365753-alone-to-melt.json](./365753-alone-to-melt.json) |
 | Alone Without Her | 19380 | [19380-alone-without-her.json](./19380-alone-without-her.json) |
 | Alone: Mnemophobia | 377076 | [377076-alone-mnemophobia.json](./377076-alone-mnemophobia.json) |
 | Alone? | 24926 | [24926-alone.json](./24926-alone.json) |
@@ -2119,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Try 2 | 291460 | [291460-another-try-2.json](./291460-another-try-2.json) |
 | Another Warfare | 156662 | [156662-another-warfare.json](./156662-another-warfare.json) |
 | Another World Adventures | 379448 | [379448-another-world-adventures.json](./379448-another-world-adventures.json) |
+| Another World: Lost In Heart | 365735 | [365735-another-world-lost-in-heart.json](./365735-another-world-lost-in-heart.json) |
 | Another World: Pirates And The Great Old Gods | 379450 | [379450-another-world-pirates-and-the-great-old-gods.json](./379450-another-world-pirates-and-the-great-old-gods.json) |
 | Another's Memories | 374049 | [374049-anothers-memories.json](./374049-anothers-memories.json) |
 | Anoun | 384681 | [384681-anoun.json](./384681-anoun.json) |
@@ -3572,6 +3575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audo | 181348 | [181348-audo.json](./181348-audo.json) |
 | Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
 | Augie Doggie and Doggie Daddy | 67274 | [67274-augie-doggie-and-doggie-daddy.json](./67274-augie-doggie-and-doggie-daddy.json) |
+| Augment Anthem | 365733 | [365733-augment-anthem.json](./365733-augment-anthem.json) |
 | Augmented Fear | 376547 | [376547-augmented-fear.json](./376547-augmented-fear.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
 | August Night | 217858 | [217858-august-night.json](./217858-august-night.json) |
