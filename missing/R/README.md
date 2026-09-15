@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repulsor | 199593 | [199593-repulsor.json](./199593-repulsor.json) |
 | Requia Online | 175329 | [175329-requia-online.json](./175329-requia-online.json) |
 | Requie-mu | 292859 | [292859-requie-mu.json](./292859-requie-mu.json) |
+| Requiem | 377166 | [377166-requiem.json](./377166-requiem.json) |
 | Requiem Hurts | 22404 | [22404-requiem-hurts.json](./22404-requiem-hurts.json) |
 | Requiem Hurts: Rainy Escape | 22405 | [22405-requiem-hurts-rainy-escape.json](./22405-requiem-hurts-rainy-escape.json) |
 | Requiem Reverie | 284898 | [284898-requiem-reverie.json](./284898-requiem-reverie.json) |
