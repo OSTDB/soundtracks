@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T20:04:06.240Z",
-  "total_missing": 75217,
+  "generated_at": "2026-09-15T20:11:32.565Z",
+  "total_missing": 75216,
   "games": [
     {
       "igdb_id": 306086,
@@ -5486,11 +5486,6 @@
       "igdb_id": 41959,
       "game_name": "Age of Gladiators II",
       "file": "missing/A/41959-age-of-gladiators-ii.json"
-    },
-    {
-      "igdb_id": 265403,
-      "game_name": "Age of Goblins",
-      "file": "missing/A/265403-age-of-goblins.json"
     },
     {
       "igdb_id": 399092,
