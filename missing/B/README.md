@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barry the Bunny | 151187 | [151187-barry-the-bunny.json](./151187-barry-the-bunny.json) |
 | Bart Bash | 350404 | [350404-bart-bash.json](./350404-bart-bash.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
+| Bartholomew.exe | 358899 | [358899-bartholomew-exe.json](./358899-bartholomew-exe.json) |
 | Bartolomeu Odyssey | 248891 | [248891-bartolomeu-odyssey.json](./248891-bartolomeu-odyssey.json) |
 | Barton Lynch Pro Surfing | 272292 | [272292-barton-lynch-pro-surfing.json](./272292-barton-lynch-pro-surfing.json) |
 | Barton Lynch Pro Surfing 2022 | 196295 | [196295-barton-lynch-pro-surfing-2022.json](./196295-barton-lynch-pro-surfing-2022.json) |
@@ -3618,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breeder | 41329 | [41329-breeder.json](./41329-breeder.json) |
 | Breeze Girl | 193991 | [193991-breeze-girl.json](./193991-breeze-girl.json) |
 | Breeze of Ashes | 332251 | [332251-breeze-of-ashes.json](./332251-breeze-of-ashes.json) |
+| Breeze of Passion | 358979 | [358979-breeze-of-passion.json](./358979-breeze-of-passion.json) |
 | Breezy Paws | 274735 | [274735-breezy-paws.json](./274735-breezy-paws.json) |
 | Brelok: Nezumi-tachi no Dasshutsu | 330509 | [330509-brelok-nezumi-tachi-no-dasshutsu.json](./330509-brelok-nezumi-tachi-no-dasshutsu.json) |
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
@@ -4165,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Buck$ | 76595 | [76595-buried-buck.json](./76595-buried-buck.json) |
 | Buried Chambers | 129704 | [129704-buried-chambers.json](./129704-buried-chambers.json) |
 | Burn Depth | 203891 | [203891-burn-depth.json](./203891-burn-depth.json) |
+| Burn The Witch: Toll of the Bell Bearer | 358957 | [358957-burn-the-witch-toll-of-the-bell-bearer.json](./358957-burn-the-witch-toll-of-the-bell-bearer.json) |
 | Burn Them | 255137 | [255137-burn-them.json](./255137-burn-them.json) |
 | Burn-9 | 404870 | [404870-burn-9.json](./404870-burn-9.json) |
 | Burn:Cycle | 45942 | [45942-burn-cycle.json](./45942-burn-cycle.json) |
@@ -4287,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button City: Soccer Days | 252771 | [252771-button-city-soccer-days.json](./252771-button-city-soccer-days.json) |
 | Button Game: 10 Minutes War | 368484 | [368484-button-game-10-minutes-war.json](./368484-button-game-10-minutes-war.json) |
 | Button Man | 295280 | [295280-button-man.json](./295280-button-man.json) |
+| Button Sorter | 358934 | [358934-button-sorter.json](./358934-button-sorter.json) |
 | Button Tales: Way Home | 156188 | [156188-button-tales-way-home.json](./156188-button-tales-way-home.json) |
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
 | Buy Low Sell High | 109707 | [109707-buy-low-sell-high.json](./109707-buy-low-sell-high.json) |
