@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Capt Crabs a Slimy Adventure | 249821 | [249821-capt-crabs-a-slimy-adventure.json](./249821-capt-crabs-a-slimy-adventure.json) |
+| Captain 25 | 346086 | [346086-captain-25.json](./346086-captain-25.json) |
 | Captain Alexia | 181907 | [181907-captain-alexia.json](./181907-captain-alexia.json) |
 | Captain America and the Avengers | 275028 | [275028-captain-america-and-the-avengers.json](./275028-captain-america-and-the-avengers.json) |
 | Captain America and the Avengers | 275030 | [275030-captain-america-and-the-avengers.json](./275030-captain-america-and-the-avengers.json) |
@@ -467,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parkour Together | 381147 | [381147-car-parkour-together.json](./381147-car-parkour-together.json) |
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
 | Car Polo | 19371 | [19371-car-polo.json](./19371-car-polo.json) |
+| Car Race | 346087 | [346087-car-race.json](./346087-car-race.json) |
 | Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
@@ -1234,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerulean Days | 258996 | [258996-cerulean-days.json](./258996-cerulean-days.json) |
 | CFG: Combat for General | 235478 | [235478-cfg-combat-for-general.json](./235478-cfg-combat-for-general.json) |
 | CFL Football '99 | 78671 | [78671-cfl-football-99.json](./78671-cfl-football-99.json) |
+| CG Mukashi Banashi: Jiisan 2-do Bikkuri!! | 346144 | [346144-cg-mukashi-banashi-jiisan-2-do-bikkuri.json](./346144-cg-mukashi-banashi-jiisan-2-do-bikkuri.json) |
 | CGA Pumpkin Carver | 179741 | [179741-cga-pumpkin-carver.json](./179741-cga-pumpkin-carver.json) |
 | Cgencore | 115028 | [115028-cgencore.json](./115028-cgencore.json) |
 | CGI: The Game | 234075 | [234075-cgi-the-game.json](./234075-cgi-the-game.json) |
@@ -1427,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers | 131515 | [131515-checkers.json](./131515-checkers.json) |
 | Checkers Challenge | 88173 | [88173-checkers-challenge.json](./88173-checkers-challenge.json) |
 | Checkers Gold | 100162 | [100162-checkers-gold.json](./100162-checkers-gold.json) |
+| Checkers Master | 346113 | [346113-checkers-master.json](./346113-checkers-master.json) |
 | Checkers Quest Bundle | 231068 | [231068-checkers-quest-bundle.json](./231068-checkers-quest-bundle.json) |
 | Checkers RPG: Online Battles | 261829 | [261829-checkers-rpg-online-battles.json](./261829-checkers-rpg-online-battles.json) |
 | Checkers Saga | 58275 | [58275-checkers-saga.json](./58275-checkers-saga.json) |
@@ -1507,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
 | Chess Master | 245540 | [245540-chess-master.json](./245540-chess-master.json) |
+| Chess Master | 346114 | [346114-chess-master.json](./346114-chess-master.json) |
 | Chess Mega Bundle | 152872 | [152872-chess-mega-bundle.json](./152872-chess-mega-bundle.json) |
 | Chess Minimal | 147955 | [147955-chess-minimal.json](./147955-chess-minimal.json) |
 | Chess Mix | 135240 | [135240-chess-mix.json](./135240-chess-mix.json) |
@@ -3506,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Police Galivan | 28825 | [28825-cosmo-police-galivan.json](./28825-cosmo-police-galivan.json) |
 | Cosmo Race | 196335 | [196335-cosmo-race.json](./196335-cosmo-race.json) |
 | Cosmo Ranger: S.O.L. AD 2000 | 72068 | [72068-cosmo-ranger-s-o-l-ad-2000.json](./72068-cosmo-ranger-s-o-l-ad-2000.json) |
+| Cosmo-Champion | 346089 | [346089-cosmo-champion.json](./346089-cosmo-champion.json) |
 | Cosmo's Delivery and Logistics | 269037 | [269037-cosmos-delivery-and-logistics.json](./269037-cosmos-delivery-and-logistics.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
 | Cosmodread | 144994 | [144994-cosmodread.json](./144994-cosmodread.json) |
@@ -3738,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafty Fox | 181328 | [181328-crafty-fox.json](./181328-crafty-fox.json) |
 | Crafty Lands | 249462 | [249462-crafty-lands.json](./249462-crafty-lands.json) |
 | Crafty Racer | 285481 | [285481-crafty-racer.json](./285481-crafty-racer.json) |
+| CragEx-5 | 346125 | [346125-cragex-5.json](./346125-cragex-5.json) |
 | Craggenrock | 207498 | [207498-craggenrock.json](./207498-craggenrock.json) |
 | Craggfall | 415157 | [415157-craggfall.json](./415157-craggfall.json) |
 | Cramit's Keep | 186846 | [186846-cramits-keep.json](./186846-cramits-keep.json) |
