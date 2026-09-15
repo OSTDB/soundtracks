@@ -1888,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Game | 99636 | [99636-sheep-game.json](./99636-sheep-game.json) |
 | Sheep happens | 19500 | [19500-sheep-happens.json](./19500-sheep-happens.json) |
 | Sheep in Love | 245017 | [245017-sheep-in-love.json](./245017-sheep-in-love.json) |
+| Sheep Island | 373072 | [373072-sheep-island.json](./373072-sheep-island.json) |
 | Sheep Launcher 2 | 233524 | [233524-sheep-launcher-2.json](./233524-sheep-launcher-2.json) |
 | Sheep Legion - turn-based tactical RPG game | 174321 | [174321-sheep-legion-turn-based-tactical-rpg-game.json](./174321-sheep-legion-turn-based-tactical-rpg-game.json) |
 | Sheep Monologue | 383506 | [383506-sheep-monologue.json](./383506-sheep-monologue.json) |
@@ -3244,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
 | SlimeJumper: Ultimate Jump | 156639 | [156639-slimejumper-ultimate-jump.json](./156639-slimejumper-ultimate-jump.json) |
 | SlimeTrials | 185607 | [185607-slimetrials.json](./185607-slimetrials.json) |
+| Slimeward | 373084 | [373084-slimeward.json](./373084-slimeward.json) |
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
 | Slimoid | 185608 | [185608-slimoid.json](./185608-slimoid.json) |
 | Slimy | 181321 | [181321-slimy.json](./181321-slimy.json) |
@@ -5332,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
+| Spongiorno: Schwammfred Moving Company | 373082 | [373082-spongiorno-schwammfred-moving-company.json](./373082-spongiorno-schwammfred-moving-company.json) |
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
 | Spoofs Playland | 373552 | [373552-spoofs-playland.json](./373552-spoofs-playland.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
