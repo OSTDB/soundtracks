@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T03:11:32.875Z",
-  "total_missing": 72174,
+  "generated_at": "2026-09-15T03:19:03.186Z",
+  "total_missing": 72224,
   "games": [
     {
       "igdb_id": 306086,
@@ -781,6 +781,11 @@
       "igdb_id": 386868,
       "game_name": "101 Dogs Hidden in Los Angeles",
       "file": "missing/0-9/386868-101-dogs-hidden-in-los-angeles.json"
+    },
+    {
+      "igdb_id": 374136,
+      "game_name": "101 Dogs Hidden in Shanghai",
+      "file": "missing/0-9/374136-101-dogs-hidden-in-shanghai.json"
     },
     {
       "igdb_id": 180204,
@@ -13866,6 +13871,11 @@
       "igdb_id": 284366,
       "game_name": "Aperture: Salt Mines",
       "file": "missing/A/284366-aperture-salt-mines.json"
+    },
+    {
+      "igdb_id": 374123,
+      "game_name": "Apes Warfare",
+      "file": "missing/A/374123-apes-warfare.json"
     },
     {
       "igdb_id": 5728,
@@ -29558,6 +29568,11 @@
       "file": "missing/B/247779-berry-hunt-survivors.json"
     },
     {
+      "igdb_id": 374169,
+      "game_name": "Berrywitched! The Harvest",
+      "file": "missing/B/374169-berrywitched-the-harvest.json"
+    },
+    {
       "igdb_id": 150032,
       "game_name": "Berserk Boy",
       "file": "missing/B/150032-berserk-boy.json"
@@ -42058,6 +42073,11 @@
       "file": "missing/B/153923-bunny-flush.json"
     },
     {
+      "igdb_id": 374150,
+      "game_name": "Bunny Forest",
+      "file": "missing/B/374150-bunny-forest.json"
+    },
+    {
       "igdb_id": 201844,
       "game_name": "Bunny Girl Story",
       "file": "missing/B/201844-bunny-girl-story.json"
@@ -42936,6 +42956,11 @@
       "igdb_id": 188682,
       "game_name": "Buy Me Some Soup",
       "file": "missing/B/188682-buy-me-some-soup.json"
+    },
+    {
+      "igdb_id": 374158,
+      "game_name": "Buy Sell",
+      "file": "missing/B/374158-buy-sell.json"
     },
     {
       "igdb_id": 394869,
@@ -64608,6 +64633,11 @@
       "file": "missing/C/28792-cubrick.json"
     },
     {
+      "igdb_id": 374124,
+      "game_name": "Cubuleto",
+      "file": "missing/C/374124-cubuleto.json"
+    },
+    {
       "igdb_id": 31800,
       "game_name": "Cubway",
       "file": "missing/C/31800-cubway.json"
@@ -65541,6 +65571,11 @@
       "igdb_id": 208401,
       "game_name": "Cute Kaizo World",
       "file": "missing/C/208401-cute-kaizo-world.json"
+    },
+    {
+      "igdb_id": 374161,
+      "game_name": "Cute Mold",
+      "file": "missing/C/374161-cute-mold.json"
     },
     {
       "igdb_id": 228113,
@@ -90863,6 +90898,11 @@
       "file": "missing/E/211755-embers-of-the-zombie-battlemage-halloween.json"
     },
     {
+      "igdb_id": 374137,
+      "game_name": "EmberStride",
+      "file": "missing/E/374137-emberstride.json"
+    },
+    {
       "igdb_id": 320530,
       "game_name": "Emberwake",
       "file": "missing/E/320530-emberwake.json"
@@ -92883,6 +92923,11 @@
       "file": "missing/E/24889-epoch.json"
     },
     {
+      "igdb_id": 374134,
+      "game_name": "Epoch Cycle",
+      "file": "missing/E/374134-epoch-cycle.json"
+    },
+    {
       "igdb_id": 380414,
       "game_name": "Epoch Reset",
       "file": "missing/E/380414-epoch-reset.json"
@@ -93256,6 +93301,11 @@
       "igdb_id": 114369,
       "game_name": "Esc-8-bit",
       "file": "missing/E/114369-esc-8-bit.json"
+    },
+    {
+      "igdb_id": 374142,
+      "game_name": "Esc/ape",
+      "file": "missing/E/374142-esc-ape.json"
     },
     {
       "igdb_id": 150110,
@@ -111806,6 +111856,11 @@
       "igdb_id": 183017,
       "game_name": "Fruitwolf",
       "file": "missing/F/183017-fruitwolf.json"
+    },
+    {
+      "igdb_id": 374146,
+      "game_name": "Fruity Fauna",
+      "file": "missing/F/374146-fruity-fauna.json"
     },
     {
       "igdb_id": 299776,
@@ -144678,6 +144733,11 @@
       "file": "missing/I/224548-infected-friend.json"
     },
     {
+      "igdb_id": 374135,
+      "game_name": "Infected Love: The Fatal Experiment",
+      "file": "missing/I/374135-infected-love-the-fatal-experiment.json"
+    },
+    {
       "igdb_id": 231078,
       "game_name": "Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry",
       "file": "missing/I/231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json"
@@ -149476,6 +149536,11 @@
       "igdb_id": 126016,
       "game_name": "Jammin'",
       "file": "missing/J/126016-jammin.json"
+    },
+    {
+      "igdb_id": 374155,
+      "game_name": "Jamp",
+      "file": "missing/J/374155-jamp.json"
     },
     {
       "igdb_id": 43318,
@@ -160813,6 +160878,11 @@
       "file": "missing/L/302719-la-pesadilla-de-illojuan.json"
     },
     {
+      "igdb_id": 374170,
+      "game_name": "La torre de Mario",
+      "file": "missing/L/374170-la-torre-de-mario.json"
+    },
+    {
       "igdb_id": 153427,
       "game_name": "La Ultima Comida",
       "file": "missing/L/153427-la-ultima-comida.json"
@@ -165511,6 +165581,11 @@
       "igdb_id": 367402,
       "game_name": "Lǐ Shì Qírén Yì Wén Lù",
       "file": "missing/L/367402-li-shi-qiren-yi-wen-lu.json"
+    },
+    {
+      "igdb_id": 374138,
+      "game_name": "Li Shui",
+      "file": "missing/L/374138-li-shui.json"
     },
     {
       "igdb_id": 284353,
@@ -173658,6 +173733,11 @@
       "file": "missing/M/248684-magic-machine-gun.json"
     },
     {
+      "igdb_id": 374147,
+      "game_name": "Magic Maho: Dream Runner",
+      "file": "missing/M/374147-magic-maho-dream-runner.json"
+    },
+    {
       "igdb_id": 415129,
       "game_name": "Magic Market World",
       "file": "missing/M/415129-magic-market-world.json"
@@ -177806,6 +177886,11 @@
       "igdb_id": 314072,
       "game_name": "Mary Had A Lost Lamb",
       "file": "missing/M/314072-mary-had-a-lost-lamb.json"
+    },
+    {
+      "igdb_id": 374154,
+      "game_name": "Mary Jane",
+      "file": "missing/M/374154-mary-jane.json"
     },
     {
       "igdb_id": 64921,
@@ -182381,6 +182466,11 @@
       "igdb_id": 51184,
       "game_name": "Merlin Racing",
       "file": "missing/M/51184-merlin-racing.json"
+    },
+    {
+      "igdb_id": 374165,
+      "game_name": "Merlin Survivors",
+      "file": "missing/M/374165-merlin-survivors.json"
     },
     {
       "igdb_id": 45913,
@@ -187288,6 +187378,11 @@
       "file": "missing/M/260677-missing.json"
     },
     {
+      "igdb_id": 374163,
+      "game_name": "Missing",
+      "file": "missing/M/374163-missing.json"
+    },
+    {
       "igdb_id": 125405,
       "game_name": "Missing Blue",
       "file": "missing/M/125405-missing-blue.json"
@@ -192031,6 +192126,11 @@
       "igdb_id": 115683,
       "game_name": "Mostly Scared of Spiders",
       "file": "missing/M/115683-mostly-scared-of-spiders.json"
+    },
+    {
+      "igdb_id": 374166,
+      "game_name": "Mot's 8-Ball Pool",
+      "file": "missing/M/374166-mots-8-ball-pool.json"
     },
     {
       "igdb_id": 393480,
@@ -202683,6 +202783,11 @@
       "file": "missing/N/190128-night-stalkers.json"
     },
     {
+      "igdb_id": 374171,
+      "game_name": "Night Thoughts",
+      "file": "missing/N/374171-night-thoughts.json"
+    },
+    {
       "igdb_id": 2486,
       "game_name": "Night Trap",
       "file": "missing/N/2486-night-trap.json"
@@ -209683,6 +209788,11 @@
       "file": "missing/O/289330-one-more-gate-companion-3-dlc.json"
     },
     {
+      "igdb_id": 374167,
+      "game_name": "One More Gem",
+      "file": "missing/O/374167-one-more-gem.json"
+    },
+    {
       "igdb_id": 35584,
       "game_name": "One More Line",
       "file": "missing/O/35584-one-more-line.json"
@@ -210441,6 +210551,11 @@
       "igdb_id": 313093,
       "game_name": "OnlineCTR",
       "file": "missing/O/313093-onlinectr.json"
+    },
+    {
+      "igdb_id": 374151,
+      "game_name": "Only Animals",
+      "file": "missing/O/374151-only-animals.json"
     },
     {
       "igdb_id": 323513,
@@ -215603,6 +215718,11 @@
       "file": "missing/P/287072-paper-dash-city-hustle.json"
     },
     {
+      "igdb_id": 374156,
+      "game_name": "Paper Department",
+      "file": "missing/P/374156-paper-department.json"
+    },
+    {
       "igdb_id": 236826,
       "game_name": "Paper Drifter",
       "file": "missing/P/236826-paper-drifter.json"
@@ -216896,6 +217016,11 @@
       "igdb_id": 260684,
       "game_name": "Party Party Time + Ultra Pack Set",
       "file": "missing/P/260684-party-party-time-ultra-pack-set.json"
+    },
+    {
+      "igdb_id": 374168,
+      "game_name": "Party Party Time 2: Lively Party Pack",
+      "file": "missing/P/374168-party-party-time-2-lively-party-pack.json"
     },
     {
       "igdb_id": 324133,
@@ -220108,6 +220233,11 @@
       "file": "missing/P/302651-phoenix-wright-ace-attorney-truth-and-consequences.json"
     },
     {
+      "igdb_id": 374129,
+      "game_name": "Phoenix Wright: Ace Attorney – Presumption of Guilt",
+      "file": "missing/P/374129-phoenix-wright-ace-attorney-presumption-of-guilt.json"
+    },
+    {
       "igdb_id": 205266,
       "game_name": "Phoenix Wright: Ace Attorney Trilogy - E-Capcom Limited Edition",
       "file": "missing/P/205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json"
@@ -222713,6 +222843,11 @@
       "file": "missing/P/377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json"
     },
     {
+      "igdb_id": 374125,
+      "game_name": "Pixel Cross Stitch: Color by Number - Back To School Pack",
+      "file": "missing/P/374125-pixel-cross-stitch-color-by-number-back-to-school-pack.json"
+    },
+    {
       "igdb_id": 377604,
       "game_name": "Pixel Cross Stitch: Color by Number - Christmas Baubles Pack 3",
       "file": "missing/P/377604-pixel-cross-stitch-color-by-number-christmas-baubles-pack-3.json"
@@ -222736,6 +222871,21 @@
       "igdb_id": 377608,
       "game_name": "Pixel Cross Stitch: Color by Number - Halloween Pack 2",
       "file": "missing/P/377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json"
+    },
+    {
+      "igdb_id": 374127,
+      "game_name": "Pixel Cross Stitch: Color by Number - Simple Nature Pack 2",
+      "file": "missing/P/374127-pixel-cross-stitch-color-by-number-simple-nature-pack-2.json"
+    },
+    {
+      "igdb_id": 374128,
+      "game_name": "Pixel Cross Stitch: Color by Number - Simple Patterns Pack 5",
+      "file": "missing/P/374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json"
+    },
+    {
+      "igdb_id": 374126,
+      "game_name": "Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack",
+      "file": "missing/P/374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json"
     },
     {
       "igdb_id": 377603,
@@ -226701,6 +226851,11 @@
       "igdb_id": 145019,
       "game_name": "Polyblicy",
       "file": "missing/P/145019-polyblicy.json"
+    },
+    {
+      "igdb_id": 374140,
+      "game_name": "Polybomber",
+      "file": "missing/P/374140-polybomber.json"
     },
     {
       "igdb_id": 172681,
@@ -237681,6 +237836,11 @@
       "igdb_id": 234604,
       "game_name": "Ramped Up!",
       "file": "missing/R/234604-ramped-up.json"
+    },
+    {
+      "igdb_id": 374162,
+      "game_name": "Ramshackle",
+      "file": "missing/R/374162-ramshackle.json"
     },
     {
       "igdb_id": 30805,
@@ -259073,6 +259233,11 @@
       "file": "missing/S/242558-shadow-land.json"
     },
     {
+      "igdb_id": 374144,
+      "game_name": "Shadow Mansion 2",
+      "file": "missing/S/374144-shadow-mansion-2.json"
+    },
+    {
       "igdb_id": 377086,
       "game_name": "Shadow Mantis",
       "file": "missing/S/377086-shadow-mantis.json"
@@ -266638,6 +266803,11 @@
       "file": "missing/S/340364-slay-the-demon-queen.json"
     },
     {
+      "igdb_id": 374164,
+      "game_name": "Slay the King",
+      "file": "missing/S/374164-slay-the-king.json"
+    },
+    {
       "igdb_id": 296831,
       "game_name": "Slay the Spire II",
       "file": "missing/S/296831-slay-the-spire-ii.json"
@@ -268546,6 +268716,11 @@
       "igdb_id": 366221,
       "game_name": "Snack and Quack",
       "file": "missing/S/366221-snack-and-quack.json"
+    },
+    {
+      "igdb_id": 374133,
+      "game_name": "Snack Attack",
+      "file": "missing/S/374133-snack-attack.json"
     },
     {
       "igdb_id": 392275,
@@ -272236,6 +272411,11 @@
       "igdb_id": 333936,
       "game_name": "Sonic Racers",
       "file": "missing/S/333936-sonic-racers.json"
+    },
+    {
+      "igdb_id": 374160,
+      "game_name": "Sonic Racing: CrossWorlds - \"Blue Star\" Extreme Gear",
+      "file": "missing/S/374160-sonic-racing-crossworlds-blue-star-extreme-gear.json"
     },
     {
       "igdb_id": 375167,
@@ -293623,6 +293803,11 @@
       "file": "missing/S/85411-swords-and-darkness.json"
     },
     {
+      "igdb_id": 374141,
+      "game_name": "Swords & Slippers",
+      "file": "missing/S/374141-swords-and-slippers.json"
+    },
+    {
       "igdb_id": 210258,
       "game_name": "Swords & Soldiers",
       "file": "missing/S/210258-swords-and-soldiers.json"
@@ -296798,9 +296983,19 @@
       "file": "missing/T/62187-tangled.json"
     },
     {
+      "igdb_id": 374152,
+      "game_name": "Tangled Slug",
+      "file": "missing/T/374152-tangled-slug.json"
+    },
+    {
       "igdb_id": 74328,
       "game_name": "Tangled Tales",
       "file": "missing/T/74328-tangled-tales.json"
+    },
+    {
+      "igdb_id": 374157,
+      "game_name": "Tangled Words",
+      "file": "missing/T/374157-tangled-words.json"
     },
     {
       "igdb_id": 38754,
@@ -298463,6 +298658,11 @@
       "file": "missing/T/36002-teddy-floppy-ear-mountain-adventure.json"
     },
     {
+      "igdb_id": 374149,
+      "game_name": "Teddy Horses",
+      "file": "missing/T/374149-teddy-horses.json"
+    },
+    {
       "igdb_id": 323534,
       "game_name": "Teddy Roller 1",
       "file": "missing/T/323534-teddy-roller-1.json"
@@ -298918,6 +299118,11 @@
       "file": "missing/T/188079-telethugs.json"
     },
     {
+      "igdb_id": 374153,
+      "game_name": "Teletubbies get Fucked",
+      "file": "missing/T/374153-teletubbies-get-fucked.json"
+    },
+    {
       "igdb_id": 325257,
       "game_name": "Teletubbies: Jigsaw",
       "file": "missing/T/325257-teletubbies-jigsaw.json"
@@ -299211,6 +299416,11 @@
       "igdb_id": 241392,
       "game_name": "Ten Seconds Trillion",
       "file": "missing/T/241392-ten-seconds-trillion.json"
+    },
+    {
+      "igdb_id": 374132,
+      "game_name": "Ten++",
+      "file": "missing/T/374132-ten.json"
     },
     {
       "igdb_id": 129152,
@@ -309066,6 +309276,11 @@
       "igdb_id": 389956,
       "game_name": "The Last Wizard: A Goblin Detective Mystery",
       "file": "missing/T/389956-the-last-wizard-a-goblin-detective-mystery.json"
+    },
+    {
+      "igdb_id": 374130,
+      "game_name": "The Last Worlds: Crossed Souls",
+      "file": "missing/T/374130-the-last-worlds-crossed-souls.json"
     },
     {
       "igdb_id": 156148,
@@ -319063,6 +319278,11 @@
       "file": "missing/T/102179-through-the-mist-and-sky.json"
     },
     {
+      "igdb_id": 374131,
+      "game_name": "Through the Nest",
+      "file": "missing/T/374131-through-the-nest.json"
+    },
+    {
       "igdb_id": 339294,
       "game_name": "Through the Wall",
       "file": "missing/T/339294-through-the-wall.json"
@@ -322846,6 +323066,11 @@
       "igdb_id": 181362,
       "game_name": "Tinyverse",
       "file": "missing/T/181362-tinyverse.json"
+    },
+    {
+      "igdb_id": 374173,
+      "game_name": "Tip-Toeing Around an Empty House",
+      "file": "missing/T/374173-tip-toeing-around-an-empty-house.json"
     },
     {
       "igdb_id": 178578,
@@ -327791,6 +328016,11 @@
       "igdb_id": 212828,
       "game_name": "Trails of the Ancestors",
       "file": "missing/T/212828-trails-of-the-ancestors.json"
+    },
+    {
+      "igdb_id": 374159,
+      "game_name": "Train Cargo: Nightshift",
+      "file": "missing/T/374159-train-cargo-nightshift.json"
     },
     {
       "igdb_id": 109578,
@@ -344758,6 +344988,11 @@
       "file": "missing/W/353310-warframe-gunblade-battlekit.json"
     },
     {
+      "igdb_id": 374143,
+      "game_name": "Warframe: Initiate Power Pack",
+      "file": "missing/W/374143-warframe-initiate-power-pack.json"
+    },
+    {
       "igdb_id": 200659,
       "game_name": "Warframe: Shadows of the Dead",
       "file": "missing/W/200659-warframe-shadows-of-the-dead.json"
@@ -347573,6 +347808,11 @@
       "file": "missing/W/158684-what-trash.json"
     },
     {
+      "igdb_id": 374148,
+      "game_name": "What Was Home",
+      "file": "missing/W/374148-what-was-home.json"
+    },
+    {
       "igdb_id": 31396,
       "game_name": "What Would You Do?",
       "file": "missing/W/31396-what-would-you-do.json"
@@ -348596,6 +348836,11 @@
       "igdb_id": 352190,
       "game_name": "White Night",
       "file": "missing/W/352190-white-night.json"
+    },
+    {
+      "igdb_id": 374145,
+      "game_name": "White Noise: Ghost Signal",
+      "file": "missing/W/374145-white-noise-ghost-signal.json"
     },
     {
       "igdb_id": 76663,
@@ -354876,6 +355121,11 @@
       "igdb_id": 146884,
       "game_name": "Xeno Shooter",
       "file": "missing/X/146884-xeno-shooter.json"
+    },
+    {
+      "igdb_id": 374139,
+      "game_name": "Xeno Strikers Hyper Squadron",
+      "file": "missing/X/374139-xeno-strikers-hyper-squadron.json"
     },
     {
       "igdb_id": 357259,
