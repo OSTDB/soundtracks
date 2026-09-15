@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make it! Oden | 328503 | [328503-make-it-oden.json](./328503-make-it-oden.json) |
 | Make it! Shaved Ice | 409545 | [409545-make-it-shaved-ice.json](./409545-make-it-shaved-ice.json) |
 | Make Magic Great Again | 391031 | [391031-make-magic-great-again.json](./391031-make-magic-great-again.json) |
+| Make Merits in Another World | 370193 | [370193-make-merits-in-another-world.json](./370193-make-merits-in-another-world.json) |
 | Make Moku Proud | 395568 | [395568-make-moku-proud.json](./395568-make-moku-proud.json) |
 | Make My Life Worse | 318788 | [318788-make-my-life-worse.json](./318788-make-my-life-worse.json) |
 | Make Route | 109658 | [109658-make-route.json](./109658-make-route.json) |
@@ -726,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaoMaoMao | 392300 | [392300-maomaomao.json](./392300-maomaomao.json) |
 | Maoten | 194576 | [194576-maoten.json](./194576-maoten.json) |
 | Maou's Crucible | 381740 | [381740-maous-crucible.json](./381740-maous-crucible.json) |
+| Màoxiǎn Xiǎofēnduì | 370228 | [370228-maoxian-xiaofendui.json](./370228-maoxian-xiaofendui.json) |
 | Map Snap | 112338 | [112338-map-snap.json](./112338-map-snap.json) |
 | MapGame | 341893 | [341893-mapgame.json](./341893-mapgame.json) |
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
@@ -2882,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimate | 410917 | [410917-minimate.json](./410917-minimate.json) |
 | Minimo | 401502 | [401502-minimo.json](./401502-minimo.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
+| Mining And Achievements | 370179 | [370179-mining-and-achievements.json](./370179-mining-and-achievements.json) |
 | Mining Cats | 191156 | [191156-mining-cats.json](./191156-mining-cats.json) |
 | Mining Copper | 224545 | [224545-mining-copper.json](./224545-mining-copper.json) |
 | Mining Factory | 226197 | [226197-mining-factory.json](./226197-mining-factory.json) |
@@ -4187,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Do!'s Castle | 24408 | [24408-mr-do-s-castle.json](./24408-mr-do-s-castle.json) |
 | Mr. Donovan | 28769 | [28769-mr-donovan.json](./28769-mr-donovan.json) |
 | Mr. Driller | 254519 | [254519-mr-driller.json](./254519-mr-driller.json) |
+| Mr. Driller | 370220 | [370220-mr-driller.json](./370220-mr-driller.json) |
 | Mr. Drumstix' Music Studio | 69232 | [69232-mr-drumstix-music-studio.json](./69232-mr-drumstix-music-studio.json) |
 | Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
