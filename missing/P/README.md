@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Mania | 62763 | [62763-parking-mania.json](./62763-parking-mania.json) |
 | Parking Masters | 313135 | [313135-parking-masters.json](./313135-parking-masters.json) |
 | Parking Masters: Bus Driver | 313513 | [313513-parking-masters-bus-driver.json](./313513-parking-masters-bus-driver.json) |
+| Parking Pro: Top-Down Challenge | 334081 | [334081-parking-pro-top-down-challenge.json](./334081-parking-pro-top-down-challenge.json) |
 | Parking Problem | 397068 | [397068-parking-problem.json](./397068-parking-problem.json) |
 | Parking Simulator | 188094 | [188094-parking-simulator.json](./188094-parking-simulator.json) |
 | Parking Ticket Mayhem | 391221 | [391221-parking-ticket-mayhem.json](./391221-parking-ticket-mayhem.json) |
@@ -2043,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixeria | 347234 | [347234-pixeria.json](./347234-pixeria.json) |
 | PixEvo: The Fountain | 191901 | [191901-pixevo-the-fountain.json](./191901-pixevo-the-fountain.json) |
 | Pixgun | 348234 | [348234-pixgun.json](./348234-pixgun.json) |
+| Pixicharm Collection 2 | 334080 | [334080-pixicharm-collection-2.json](./334080-pixicharm-collection-2.json) |
 | Pixicharm: Acornflare | 389416 | [389416-pixicharm-acornflare.json](./389416-pixicharm-acornflare.json) |
 | Pixicharm: Cavrielle | 374716 | [374716-pixicharm-cavrielle.json](./374716-pixicharm-cavrielle.json) |
 | Pixicharm: Celestibun | 378768 | [378768-pixicharm-celestibun.json](./378768-pixicharm-celestibun.json) |
@@ -2075,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Panic! | 393469 | [393469-pizza-panic.json](./393469-pizza-panic.json) |
 | Pizza Parking | 115057 | [115057-pizza-parking.json](./115057-pizza-parking.json) |
 | Pizza Pony | 180852 | [180852-pizza-pony.json](./180852-pizza-pony.json) |
+| Pizza Rogue: P.P.M.P.D.E.S. | 334218 | [334218-pizza-rogue-p-p-m-p-d-e-s.json](./334218-pizza-rogue-p-p-m-p-d-e-s.json) |
 | Pizza Simulator Together | 326382 | [326382-pizza-simulator-together.json](./326382-pizza-simulator-together.json) |
 | Pizza Syndicate | 373071 | [373071-pizza-syndicate.json](./373071-pizza-syndicate.json) |
 | Pizza the Pie | 175357 | [175357-pizza-the-pie.json](./175357-pizza-the-pie.json) |
@@ -3829,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propaganda vs. Zombies 2 | 391742 | [391742-propaganda-vs-zombies-2.json](./391742-propaganda-vs-zombies-2.json) |
 | Propagate | 366218 | [366218-propagate.json](./366218-propagate.json) |
 | Propeller Arena: Aviation Battle Championship | 46555 | [46555-propeller-arena-aviation-battle-championship.json](./46555-propeller-arena-aviation-battle-championship.json) |
+| Propeller Pete | 334178 | [334178-propeller-pete.json](./334178-propeller-pete.json) |
 | Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | Prophet Margin | 376537 | [376537-prophet-margin.json](./376537-prophet-margin.json) |
@@ -3982,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puckman | 47280 | [47280-puckman.json](./47280-puckman.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
 | Pudding | 312022 | [312022-pudding.json](./312022-pudding.json) |
+| Pudding Frog | 334201 | [334201-pudding-frog.json](./334201-pudding-frog.json) |
 | Pudding Juice | 301840 | [301840-pudding-juice.json](./301840-pudding-juice.json) |
 | Pudding Up! | 371324 | [371324-pudding-up.json](./371324-pudding-up.json) |
 | Pudding: Lyre Knight | 375851 | [375851-pudding-lyre-knight.json](./375851-pudding-lyre-knight.json) |
