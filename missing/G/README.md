@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: US Weapons Pack 2 | 234925 | [234925-generation-zero-us-weapons-pack-2.json](./234925-generation-zero-us-weapons-pack-2.json) |
 | Generative Quest | 267414 | [267414-generative-quest.json](./267414-generative-quest.json) |
 | Generic Brazilian Favela Game with Generic Enemies 2003 | 264894 | [264894-generic-brazilian-favela-game-with-generic-enemies-2003.json](./264894-generic-brazilian-favela-game-with-generic-enemies-2003.json) |
+| Generic Fighter Maybe | 358350 | [358350-generic-fighter-maybe.json](./358350-generic-fighter-maybe.json) |
 | Genesis | 127265 | [127265-genesis.json](./127265-genesis.json) |
 | Genesis | 381046 | [381046-genesis.json](./381046-genesis.json) |
 | Genesis | 381047 | [381047-genesis.json](./381047-genesis.json) |
@@ -1824,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Liberty City Stories | 309110 | [309110-grand-theft-auto-liberty-city-stories.json](./309110-grand-theft-auto-liberty-city-stories.json) |
 | Grand Theft Auto: Liberty City Stories | 3263 | [3263-grand-theft-auto-liberty-city-stories.json](./3263-grand-theft-auto-liberty-city-stories.json) |
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
+| Grand Theft Auto: Torcidas | 358395 | [358395-grand-theft-auto-torcidas.json](./358395-grand-theft-auto-torcidas.json) |
 | Grand Theft Auto: Vice City - The Definitive Edition | 178125 | [178125-grand-theft-auto-vice-city-the-definitive-edition.json](./178125-grand-theft-auto-vice-city-the-definitive-edition.json) |
 | Grand Theft Auto: Vice City Stories | 3262 | [3262-grand-theft-auto-vice-city-stories.json](./3262-grand-theft-auto-vice-city-stories.json) |
 | Grand Theft Rome | 193441 | [193441-grand-theft-rome.json](./193441-grand-theft-rome.json) |
