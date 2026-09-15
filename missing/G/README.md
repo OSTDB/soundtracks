@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Toy Showdown | 251838 | [251838-great-toy-showdown.json](./251838-great-toy-showdown.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
 | Grederys | 201226 | [201226-grederys.json](./201226-grederys.json) |
+| Greeblings | 351110 | [351110-greeblings.json](./351110-greeblings.json) |
 | Greebly Gambit | 407336 | [407336-greebly-gambit.json](./407336-greebly-gambit.json) |
 | Greed 3: Old Enemies Returning | 115702 | [115702-greed-3-old-enemies-returning.json](./115702-greed-3-old-enemies-returning.json) |
 | Greed Champions | 402386 | [402386-greed-champions.json](./402386-greed-champions.json) |
