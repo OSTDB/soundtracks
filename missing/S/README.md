@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Experiments | 363962 | [363962-scp-experiments.json](./363962-scp-experiments.json) |
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
+| SCP: Run For Freedom | 338266 | [338266-scp-run-for-freedom.json](./338266-scp-run-for-freedom.json) |
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
 | SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
 | SCP: The Beginning | 390659 | [390659-scp-the-beginning.json](./390659-scp-the-beginning.json) |
@@ -2945,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate Tribe | 303232 | [303232-skate-tribe.json](./303232-skate-tribe.json) |
 | Skateball | 45329 | [45329-skateball.json](./45329-skateball.json) |
 | Skateboard Drifting Simulator with Maxwell Cat: The Game | 259231 | [259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json](./259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json) |
+| Skateboard Knight | 338300 | [338300-skateboard-knight.json](./338300-skateboard-knight.json) |
 | Skateboard Party 2 | 38937 | [38937-skateboard-party-2.json](./38937-skateboard-party-2.json) |
 | Skateboard Party 3 | 38936 | [38936-skateboard-party-3.json](./38936-skateboard-party-3.json) |
 | Skateboarding | 358842 | [358842-skateboarding.json](./358842-skateboarding.json) |
@@ -4907,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Kabaam: Neon III | 353968 | [353968-space-kabaam-neon-iii.json](./353968-space-kabaam-neon-iii.json) |
 | Space Kadet | 123598 | [123598-space-kadet.json](./123598-space-kadet.json) |
 | Space Kids | 69806 | [69806-space-kids.json](./69806-space-kids.json) |
+| Space Kitten: An Easy Survival Game | 338272 | [338272-space-kitten-an-easy-survival-game.json](./338272-space-kitten-an-easy-survival-game.json) |
 | Space Komandirovka | 119703 | [119703-space-komandirovka.json](./119703-space-komandirovka.json) |
 | Space Legends: At the Edge of the Universe | 17948 | [17948-space-legends-at-the-edge-of-the-universe.json](./17948-space-legends-at-the-edge-of-the-universe.json) |
 | Space Leprechaun | 75029 | [75029-space-leprechaun.json](./75029-space-leprechaun.json) |
@@ -5070,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | SpacerX: Dome Survivals | 55101 | [55101-spacerx-dome-survivals.json](./55101-spacerx-dome-survivals.json) |
 | SpaceShift | 393610 | [393610-spaceshift.json](./393610-spaceshift.json) |
+| Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
 | SpaceSlog | 197908 | [197908-spaceslog.json](./197908-spaceslog.json) |
 | SpaceSoldier3D | 320160 | [320160-spacesoldier3d.json](./320160-spacesoldier3d.json) |
@@ -7302,6 +7306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
 | Sugar Overdrive | 332985 | [332985-sugar-overdrive.json](./332985-sugar-overdrive.json) |
 | Sugar Rush | 58209 | [58209-sugar-rush.json](./58209-sugar-rush.json) |
+| Sugar Siege | 338270 | [338270-sugar-siege.json](./338270-sugar-siege.json) |
 | Sugar Style | 141795 | [141795-sugar-style.json](./141795-sugar-style.json) |
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
@@ -7485,6 +7490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
 | Sunset Drive 1986 | 141133 | [141133-sunset-drive-1986.json](./141133-sunset-drive-1986.json) |
 | Sunset Giant | 114391 | [114391-sunset-giant.json](./114391-sunset-giant.json) |
+| Sunset High | 338267 | [338267-sunset-high.json](./338267-sunset-high.json) |
 | Sunset Irreligion | 325252 | [325252-sunset-irreligion.json](./325252-sunset-irreligion.json) |
 | Sunset Kingdom | 129027 | [129027-sunset-kingdom.json](./129027-sunset-kingdom.json) |
 | Sunset Mall: Classic | 201244 | [201244-sunset-mall-classic.json](./201244-sunset-mall-classic.json) |
@@ -8335,6 +8341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superdimensional | 181381 | [181381-superdimensional.json](./181381-superdimensional.json) |
 | SuperDog | 409683 | [409683-superdog.json](./409683-superdog.json) |
 | Superfighter | 325272 | [325272-superfighter.json](./325272-superfighter.json) |
+| Superfighters of Survival | 338292 | [338292-superfighters-of-survival.json](./338292-superfighters-of-survival.json) |
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
 | Superhero Girl Salon: Kids Makeup and Dressup Game | 88037 | [88037-superhero-girl-salon-kids-makeup-and-dressup-game.json](./88037-superhero-girl-salon-kids-makeup-and-dressup-game.json) |
@@ -8550,6 +8557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor: Stay in the Light | 232980 | [232980-survivor-stay-in-the-light.json](./232980-survivor-stay-in-the-light.json) |
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
 | Survivors Left: X | 124177 | [124177-survivors-left-x.json](./124177-survivors-left-x.json) |
+| Survivors Of The Zombie World | 338294 | [338294-survivors-of-the-zombie-world.json](./338294-survivors-of-the-zombie-world.json) |
 | Survivors SymphonYs | 345007 | [345007-survivors-symphonys.json](./345007-survivors-symphonys.json) |
 | Survivors Will | 250347 | [250347-survivors-will.json](./250347-survivors-will.json) |
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
