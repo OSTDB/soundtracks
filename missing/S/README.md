@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safety Instructions | 414290 | [414290-safety-instructions.json](./414290-safety-instructions.json) |
 | Safo and The Moon Warriors | 381107 | [381107-safo-and-the-moon-warriors.json](./381107-safo-and-the-moon-warriors.json) |
 | Saga | 266812 | [266812-saga.json](./266812-saga.json) |
+| SaGa 2: A Haniwa's Contingency | 360104 | [360104-saga-2-a-haniwas-contingency.json](./360104-saga-2-a-haniwas-contingency.json) |
 | SaGa Frontier 2 Remastered | 294870 | [294870-saga-frontier-2-remastered.json](./294870-saga-frontier-2-remastered.json) |
 | Saga of Sins | 211238 | [211238-saga-of-sins.json](./211238-saga-of-sins.json) |
 | Saga of the Moon Priestess | 274507 | [274507-saga-of-the-moon-priestess.json](./274507-saga-of-the-moon-priestess.json) |
@@ -166,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Moon | 38280 | [38280-sailor-moon.json](./38280-sailor-moon.json) |
 | Sailor Moon RevengeX | 279589 | [279589-sailor-moon-revengex.json](./279589-sailor-moon-revengex.json) |
 | Sailor Moon S: Kotaete Moon Call! | 230284 | [230284-sailor-moon-s-kotaete-moon-call.json](./230284-sailor-moon-s-kotaete-moon-call.json) |
+| Sailor Zombie: AKB48 Arcade Edition | 360054 | [360054-sailor-zombie-akb48-arcade-edition.json](./360054-sailor-zombie-akb48-arcade-edition.json) |
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
 | Sailwind | 180225 | [180225-sailwind.json](./180225-sailwind.json) |
 | Saily Seas | 297507 | [297507-saily-seas.json](./297507-saily-seas.json) |
@@ -749,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Crisis | 391605 | [391605-school-crisis.json](./391605-school-crisis.json) |
 | School Days | 371896 | [371896-school-days.json](./371896-school-days.json) |
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
+| School Exit Class 8 | 360079 | [360079-school-exit-class-8.json](./360079-school-exit-class-8.json) |
 | School Idol QT Cool | 127933 | [127933-school-idol-qt-cool.json](./127933-school-idol-qt-cool.json) |
 | School Life Simulator | 97049 | [97049-school-life-simulator.json](./97049-school-life-simulator.json) |
 | School Maze | 72059 | [72059-school-maze.json](./72059-school-maze.json) |
@@ -5286,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
 | Spinning Around | 75790 | [75790-spinning-around.json](./75790-spinning-around.json) |
+| Spinning Scarecrow | 360096 | [360096-spinning-scarecrow.json](./360096-spinning-scarecrow.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | SpinOff | 199054 | [199054-spinoff.json](./199054-spinoff.json) |
 | SpinShuffle | 413752 | [413752-spinshuffle.json](./413752-spinshuffle.json) |
