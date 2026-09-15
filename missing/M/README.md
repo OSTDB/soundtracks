@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malin Kundang: an Indonesian Folklore | 330546 | [330546-malin-kundang-an-indonesian-folklore.json](./330546-malin-kundang-an-indonesian-folklore.json) |
 | Malkin: The Cairn and the Crossroads | 285449 | [285449-malkin-the-cairn-and-the-crossroads.json](./285449-malkin-the-cairn-and-the-crossroads.json) |
 | Malkyrs: Arenas of Eternity | 74365 | [74365-malkyrs-arenas-of-eternity.json](./74365-malkyrs-arenas-of-eternity.json) |
+| Mall Control | 358898 | [358898-mall-control.json](./358898-mall-control.json) |
 | Mall Manager | 291255 | [291255-mall-manager.json](./291255-mall-manager.json) |
 | Mall Simulator | 326402 | [326402-mall-simulator.json](./326402-mall-simulator.json) |
 | Mall Together | 400213 | [400213-mall-together.json](./400213-mall-together.json) |
@@ -1409,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maverick Bird | 62172 | [62172-maverick-bird.json](./62172-maverick-bird.json) |
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
 | Mawaskes | 45999 | [45999-mawaskes.json](./45999-mawaskes.json) |
+| Mawkey The Last Macaw | 358950 | [358950-mawkey-the-last-macaw.json](./358950-mawkey-the-last-macaw.json) |
 | Mawthorne 2 | 382210 | [382210-mawthorne-2.json](./382210-mawthorne-2.json) |
 | Max & the Magic Marker | 5000 | [5000-max-and-the-magic-marker.json](./5000-max-and-the-magic-marker.json) |
 | Max and the Magic Marker: Gold Edition | 52571 | [52571-max-and-the-magic-marker-gold-edition.json](./52571-max-and-the-magic-marker-gold-edition.json) |
