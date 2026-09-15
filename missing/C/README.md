@@ -2676,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Hunter | 331678 | [331678-coin-hunter.json](./331678-coin-hunter.json) |
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
 | Coin Master | 87020 | [87020-coin-master.json](./87020-coin-master.json) |
+| Coin Rush | 336594 | [336594-coin-rush.json](./336594-coin-rush.json) |
 | Coin Slots Live | 386856 | [386856-coin-slots-live.json](./386856-coin-slots-live.json) |
 | Coin Toss Rainbow Simulator | 272871 | [272871-coin-toss-rainbow-simulator.json](./272871-coin-toss-rainbow-simulator.json) |
 | Coin$ Pusher Ltd | 408089 | [408089-coin-pusher-ltd.json](./408089-coin-pusher-ltd.json) |
@@ -2767,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonia | 207511 | [207511-colonia.json](./207511-colonia.json) |
 | Colonial Conquest | 97307 | [97307-colonial-conquest.json](./97307-colonial-conquest.json) |
 | Colonies | 118353 | [118353-colonies.json](./118353-colonies.json) |
+| Colonisator | 336634 | [336634-colonisator.json](./336634-colonisator.json) |
 | Colonist | 130901 | [130901-colonist.json](./130901-colonist.json) |
 | Colonizer | 244468 | [244468-colonizer.json](./244468-colonizer.json) |
 | Colonus | 413051 | [413051-colonus.json](./413051-colonus.json) |
@@ -3283,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
 | Continental Drift | 135834 | [135834-continental-drift.json](./135834-continental-drift.json) |
+| Contingency Plan | 336632 | [336632-contingency-plan.json](./336632-contingency-plan.json) |
 | Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
 | Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
 | Contra | 186226 | [186226-contra.json](./186226-contra.json) |
@@ -3508,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Collapse | 275327 | [275327-cosmic-collapse.json](./275327-cosmic-collapse.json) |
 | Cosmic Commando | 60518 | [60518-cosmic-commando.json](./60518-cosmic-commando.json) |
 | Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
+| Cosmic Cosmonaut | 336641 | [336641-cosmic-cosmonaut.json](./336641-cosmic-cosmonaut.json) |
 | Cosmic Cowboy | 413070 | [413070-cosmic-cowboy.json](./413070-cosmic-cowboy.json) |
 | Cosmic Cruiser | 210871 | [210871-cosmic-cruiser.json](./210871-cosmic-cruiser.json) |
 | Cosmic Cruncher | 59448 | [59448-cosmic-cruncher.json](./59448-cosmic-cruncher.json) |
@@ -3601,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
 | Countdown | 95417 | [95417-countdown.json](./95417-countdown.json) |
+| CountDown | 336629 | [336629-countdown.json](./336629-countdown.json) |
 | Countdown to Doom | 13706 | [13706-countdown-to-doom.json](./13706-countdown-to-doom.json) |
 | Countdown to Meltdown | 12947 | [12947-countdown-to-meltdown.json](./12947-countdown-to-meltdown.json) |
 | Counter Attack | 152291 | [152291-counter-attack.json](./152291-counter-attack.json) |
