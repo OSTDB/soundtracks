@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T14:49:08.747Z",
-  "total_missing": 74292,
+  "generated_at": "2026-09-15T14:51:47.304Z",
+  "total_missing": 74291,
   "games": [
     {
       "igdb_id": 306086,
@@ -5301,11 +5301,6 @@
       "igdb_id": 356650,
       "game_name": "Against the Storm: Nightwatchers",
       "file": "missing/A/356650-against-the-storm-nightwatchers.json"
-    },
-    {
-      "igdb_id": 372558,
-      "game_name": "Agalta",
-      "file": "missing/A/372558-agalta.json"
     },
     {
       "igdb_id": 372561,
