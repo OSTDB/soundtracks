@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
 | Radia Senki: Reimeihen | 48686 | [48686-radia-senki-reimeihen.json](./48686-radia-senki-reimeihen.json) |
+| Radial Fusion | 357306 | [357306-radial-fusion.json](./357306-radial-fusion.json) |
 | Radiant Click | 373105 | [373105-radiant-click.json](./373105-radiant-click.json) |
 | Radiant Defense | 17442 | [17442-radiant-defense.json](./17442-radiant-defense.json) |
 | Radiant Flux: Hyperfractal 4.0 | 233009 | [233009-radiant-flux-hyperfractal-4-0.json](./233009-radiant-flux-hyperfractal-4-0.json) |
