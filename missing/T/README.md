@@ -2700,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infected | 138726 | [138726-the-infected.json](./138726-the-infected.json) |
 | The Infecting 3 | 190155 | [190155-the-infecting-3.json](./190155-the-infecting-3.json) |
 | The Infernal Return | 195156 | [195156-the-infernal-return.json](./195156-the-infernal-return.json) |
+| The Infernalist | 371355 | [371355-the-infernalist.json](./371355-the-infernalist.json) |
 | The Initial | 44187 | [44187-the-initial.json](./44187-the-initial.json) |
 | The Initiate | 44181 | [44181-the-initiate.json](./44181-the-initiate.json) |
 | The Inkspire | 416676 | [416676-the-inkspire.json](./416676-the-inkspire.json) |
@@ -2871,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
 | The Last Blade 2 | 76045 | [76045-the-last-blade-2.json](./76045-the-last-blade-2.json) |
+| The Last Bug | 371339 | [371339-the-last-bug.json](./371339-the-last-bug.json) |
 | The Last Bullet | 117784 | [117784-the-last-bullet.json](./117784-the-last-bullet.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
@@ -3021,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Sword and Fairy 5 | 57033 | [57033-the-legend-of-sword-and-fairy-5.json](./57033-the-legend-of-sword-and-fairy-5.json) |
 | The Legend of Sword and Fairy 6 | 57034 | [57034-the-legend-of-sword-and-fairy-6.json](./57034-the-legend-of-sword-and-fairy-6.json) |
 | The Legend of Sword and Fairy 7: Dreamlike World | 235192 | [235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json](./235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json) |
+| The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
 | The Legend of White Whale | 243945 | [243945-the-legend-of-white-whale.json](./243945-the-legend-of-white-whale.json) |
 | The Legend of Xanadu | 73824 | [73824-the-legend-of-xanadu.json](./73824-the-legend-of-xanadu.json) |
@@ -5764,6 +5767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titans: Dawn of Tribes | 109056 | [109056-titans-dawn-of-tribes.json](./109056-titans-dawn-of-tribes.json) |
 | Titenic | 10841 | [10841-titenic.json](./10841-titenic.json) |
 | Titleless Tale | 304002 | [304002-titleless-tale.json](./304002-titleless-tale.json) |
+| Tits Okay Tits Fine | 371361 | [371361-tits-okay-tits-fine.json](./371361-tits-okay-tits-fine.json) |
 | TitTok 2 | 173222 | [173222-tittok-2.json](./173222-tittok-2.json) |
 | TitTok Kitty: Pussy | 235183 | [235183-tittok-kitty-pussy.json](./235183-tittok-kitty-pussy.json) |
 | Titty World | 334675 | [334675-titty-world.json](./334675-titty-world.json) |
