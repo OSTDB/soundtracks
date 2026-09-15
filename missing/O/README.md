@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O.M.N.I.S.: Overnight Train | 357346 | [357346-o-m-n-i-s-overnight-train.json](./357346-o-m-n-i-s-overnight-train.json) |
 | O.T.D | 130330 | [130330-o-t-d.json](./130330-o-t-d.json) |
 | O.U.T.T. | 400324 | [400324-o-u-t-t.json](./400324-o-u-t-t.json) |
+| O.W.L.: One Wave Length | 341579 | [341579-o-w-l-one-wave-length.json](./341579-o-w-l-one-wave-length.json) |
 | O'Leary Manager 2000 | 50550 | [50550-oleary-manager-2000.json](./50550-oleary-manager-2000.json) |
 | O2 | 407435 | [407435-o2.json](./407435-o2.json) |
 | O2Jam | 200163 | [200163-o2jam.json](./200163-o2jam.json) |
