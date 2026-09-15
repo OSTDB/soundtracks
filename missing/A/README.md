@@ -475,7 +475,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
 | Afrika Korps | 14228 | [14228-afrika-korps.json](./14228-afrika-korps.json) |
 | Afrodite The Game | 246670 | [246670-afrodite-the-game.json](./246670-afrodite-the-game.json) |
-| After | 179156 | [179156-after.json](./179156-after.json) |
 | After a Long Journey | 188632 | [188632-after-a-long-journey.json](./188632-after-a-long-journey.json) |
 | After All Enema Masochist Daughter Miki | 82932 | [82932-after-all-enema-masochist-daughter-miki.json](./82932-after-all-enema-masochist-daughter-miki.json) |
 | After Burner | 200148 | [200148-after-burner.json](./200148-after-burner.json) |
