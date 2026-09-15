@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Christmas Uni | 380395 | [380395-anime-christmas-uni.json](./380395-anime-christmas-uni.json) |
 | Anime Designer: Dragon Ball Z | 61024 | [61024-anime-designer-dragon-ball-z.json](./61024-anime-designer-dragon-ball-z.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
+| Anime Dream Match: Dogs | 357863 | [357863-anime-dream-match-dogs.json](./357863-anime-dream-match-dogs.json) |
 | Anime Dream Match: Rodents | 362349 | [362349-anime-dream-match-rodents.json](./362349-anime-dream-match-rodents.json) |
 | Anime Fantasy Jigsaw Puzzle 3D | 384067 | [384067-anime-fantasy-jigsaw-puzzle-3d.json](./384067-anime-fantasy-jigsaw-puzzle-3d.json) |
 | Anime Fart Simulator | 397648 | [397648-anime-fart-simulator.json](./397648-anime-fart-simulator.json) |
@@ -1971,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Hero Zero | 292011 | [292011-anime-hero-zero.json](./292011-anime-hero-zero.json) |
 | Anime Hero Zero 2 | 292013 | [292013-anime-hero-zero-2.json](./292013-anime-hero-zero-2.json) |
 | Anime Hero Zero 3 | 292014 | [292014-anime-hero-zero-3.json](./292014-anime-hero-zero-3.json) |
+| Anime Jigsaw | 357872 | [357872-anime-jigsaw.json](./357872-anime-jigsaw.json) |
 | Anime Jigsaw Girls: Christmas | 286515 | [286515-anime-jigsaw-girls-christmas.json](./286515-anime-jigsaw-girls-christmas.json) |
 | Anime Land | 91914 | [91914-anime-land.json](./91914-anime-land.json) |
 | Anime Love Chat Girls | 380394 | [380394-anime-love-chat-girls.json](./380394-anime-love-chat-girls.json) |
@@ -2950,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Style: Zengage | 69293 | [69293-art-style-zengage.json](./69293-art-style-zengage.json) |
 | Art Together | 347165 | [347165-art-together.json](./347165-art-together.json) |
 | Art-O-Ween: Night at the Gallery | 236811 | [236811-art-o-ween-night-at-the-gallery.json](./236811-art-o-ween-night-at-the-gallery.json) |
+| Art-Therapy: Jigsaw Puzzle | 357873 | [357873-art-therapy-jigsaw-puzzle.json](./357873-art-therapy-jigsaw-puzzle.json) |
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
 | Artemis: Book One | 239288 | [239288-artemis-book-one.json](./239288-artemis-book-one.json) |
 | Artemishea | 150617 | [150617-artemishea.json](./150617-artemishea.json) |
