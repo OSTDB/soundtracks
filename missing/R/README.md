@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rag Doll Kung Fu: Black Belt Edition | 201793 | [201793-rag-doll-kung-fu-black-belt-edition.json](./201793-rag-doll-kung-fu-black-belt-edition.json) |
 | RaGaBa | 27780 | [27780-ragaba.json](./27780-ragaba.json) |
 | RagBlo Set2 | 97824 | [97824-ragblo-set2.json](./97824-ragblo-set2.json) |
+| Ragdoll Boxing Multiplayer | 360670 | [360670-ragdoll-boxing-multiplayer.json](./360670-ragdoll-boxing-multiplayer.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
 | Ragdoll Laser Battle | 163979 | [163979-ragdoll-laser-battle.json](./163979-ragdoll-laser-battle.json) |
 | Ragdoll Masters | 78684 | [78684-ragdoll-masters.json](./78684-ragdoll-masters.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reap: We Reap What Crawls | 363874 | [363874-reap-we-reap-what-crawls.json](./363874-reap-we-reap-what-crawls.json) |
 | Reaper Actual | 352748 | [352748-reaper-actual.json](./352748-reaper-actual.json) |
 | Reaper Hunt: Survivor | 345495 | [345495-reaper-hunt-survivor.json](./345495-reaper-hunt-survivor.json) |
+| Reaper Recon | 360639 | [360639-reaper-recon.json](./360639-reaper-recon.json) |
 | Reaper's Awakening! | 363896 | [363896-reapers-awakening.json](./363896-reapers-awakening.json) |
 | Reaper's Isle | 255968 | [255968-reapers-isle.json](./255968-reapers-isle.json) |
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
@@ -1161,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RemiFla Spirits 2 | 213957 | [213957-remifla-spirits-2.json](./213957-remifla-spirits-2.json) |
 | Remilia's Challenge | 369571 | [369571-remilias-challenge.json](./369571-remilias-challenge.json) |
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
+| Reminiscence | 360643 | [360643-reminiscence.json](./360643-reminiscence.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
 | Remnant Frontier: Survival | 373001 | [373001-remnant-frontier-survival.json](./373001-remnant-frontier-survival.json) |
 | Remnant Generation: Prologue | 392293 | [392293-remnant-generation-prologue.json](./392293-remnant-generation-prologue.json) |
