@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Rally | 43304 | [43304-wave-rally.json](./43304-wave-rally.json) |
 | Wave Rave | 341912 | [341912-wave-rave.json](./341912-wave-rave.json) |
 | Wave Rider | 161399 | [161399-wave-rider.json](./161399-wave-rider.json) |
+| Wave Scanner | 352836 | [352836-wave-scanner.json](./352836-wave-scanner.json) |
 | Wave Shark | 142397 | [142397-wave-shark.json](./142397-wave-shark.json) |
 | Wave Weaver | 289899 | [289899-wave-weaver.json](./289899-wave-weaver.json) |
 | Waveat | 362808 | [362808-waveat.json](./362808-waveat.json) |
