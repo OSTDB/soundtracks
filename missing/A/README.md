@@ -565,7 +565,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Sail II: Privateer's Bounty | 9429 | [9429-age-of-sail-ii-privateers-bounty.json](./9429-age-of-sail-ii-privateers-bounty.json) |
 | Age of Solitaire: Build Civilization | 211422 | [211422-age-of-solitaire-build-civilization.json](./211422-age-of-solitaire-build-civilization.json) |
 | Age of Trades | 176477 | [176477-age-of-trades.json](./176477-age-of-trades.json) |
-| Age of Viking Conquest | 109424 | [109424-age-of-viking-conquest.json](./109424-age-of-viking-conquest.json) |
 | Age of War | 18348 | [18348-age-of-war.json](./18348-age-of-war.json) |
 | Age of Water: The First Voyage | 293080 | [293080-age-of-water-the-first-voyage.json](./293080-age-of-water-the-first-voyage.json) |
 | Age of Wonders 4: Archon Prophecy | 325846 | [325846-age-of-wonders-4-archon-prophecy.json](./325846-age-of-wonders-4-archon-prophecy.json) |
@@ -1410,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanda's Magic Book 5: Hansel and Gretel | 237070 | [237070-amandas-magic-book-5-hansel-and-gretel.json](./237070-amandas-magic-book-5-hansel-and-gretel.json) |
 | Amanda's Sticker Book 2: Amazing Wldlife | 115704 | [115704-amandas-sticker-book-2-amazing-wldlife.json](./115704-amandas-sticker-book-2-amazing-wldlife.json) |
 | Amaneku Tenshi ni Yakusoku wo | 381633 | [381633-amaneku-tenshi-ni-yakusoku-wo.json](./381633-amaneku-tenshi-ni-yakusoku-wo.json) |
+| Amanita August | 334793 | [334793-amanita-august.json](./334793-amanita-august.json) |
 | Amant | 258183 | [258183-amant.json](./258183-amant.json) |
 | Amanthi | 141853 | [141853-amanthi.json](./141853-amanthi.json) |
 | Amaranth III | 69264 | [69264-amaranth-iii.json](./69264-amaranth-iii.json) |
