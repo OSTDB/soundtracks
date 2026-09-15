@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Love 2069 | 247739 | [247739-machine-love-2069.json](./247739-machine-love-2069.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
 | Machine of Madness | 409547 | [409547-machine-of-madness.json](./409547-machine-of-madness.json) |
+| Machine Tower 2984 | 357848 | [357848-machine-tower-2984.json](./357848-machine-tower-2984.json) |
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
 | Machinicide | 196962 | [196962-machinicide.json](./196962-machinicide.json) |
 | Machinika Museum | 163777 | [163777-machinika-museum.json](./163777-machinika-museum.json) |
@@ -1678,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Fantasy: Jigsaw Puzzle - Fantastic Beasts | 313149 | [313149-medieval-fantasy-jigsaw-puzzle-fantastic-beasts.json](./313149-medieval-fantasy-jigsaw-puzzle-fantastic-beasts.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Great Warriors | 313151 | [313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json](./313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json) |
 | Medieval Hero | 153367 | [153367-medieval-hero.json](./153367-medieval-hero.json) |
+| Medieval Horse Dealer Simulator | 357857 | [357857-medieval-horse-dealer-simulator.json](./357857-medieval-horse-dealer-simulator.json) |
 | Medieval Idle: Quest | 249185 | [249185-medieval-idle-quest.json](./249185-medieval-idle-quest.json) |
 | Medieval II: Total War | 440 | [440-medieval-ii-total-war.json](./440-medieval-ii-total-war.json) |
 | Medieval II: Total War - Gold Edition | 28983 | [28983-medieval-ii-total-war-gold-edition.json](./28983-medieval-ii-total-war-gold-edition.json) |
