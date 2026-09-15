@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Is Dead | 2940 | [2940-killer-is-dead.json](./2940-killer-is-dead.json) |
 | Killer Karaoke: el juego | 245308 | [245308-killer-karaoke-el-juego.json](./245308-killer-karaoke-el-juego.json) |
 | Killer Zombie Hunt | 276484 | [276484-killer-zombie-hunt.json](./276484-killer-zombie-hunt.json) |
+| Killer: Rewind | 345018 | [345018-killer-rewind.json](./345018-killer-rewind.json) |
 | Killer7 | 3966 | [3966-killer7.json](./3966-killer7.json) |
 | Killerball | 84211 | [84211-killerball.json](./84211-killerball.json) |
 | Killing Baby Hitler | 399088 | [399088-killing-baby-hitler.json](./399088-killing-baby-hitler.json) |
