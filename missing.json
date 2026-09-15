@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T08:49:08.453Z",
-  "total_missing": 73246,
+  "generated_at": "2026-09-15T09:01:40.023Z",
+  "total_missing": 73257,
   "games": [
     {
       "igdb_id": 306086,
@@ -5121,11 +5121,6 @@
       "igdb_id": 180815,
       "game_name": "After Sun",
       "file": "missing/A/180815-after-sun.json"
-    },
-    {
-      "igdb_id": 361684,
-      "game_name": "After The Afterlife",
-      "file": "missing/A/361684-after-the-afterlife.json"
     },
     {
       "igdb_id": 377042,
@@ -74268,6 +74263,11 @@
       "file": "missing/D/215904-demon-path-tower-of-armagor.json"
     },
     {
+      "igdb_id": 361797,
+      "game_name": "DeMon Researcher",
+      "file": "missing/D/361797-demon-researcher.json"
+    },
+    {
       "igdb_id": 299451,
       "game_name": "Demon RPG",
       "file": "missing/D/299451-demon-rpg.json"
@@ -76451,6 +76451,11 @@
       "igdb_id": 26706,
       "game_name": "Dialogue: A Writer's Story",
       "file": "missing/D/26706-dialogue-a-writers-story.json"
+    },
+    {
+      "igdb_id": 361796,
+      "game_name": "Dialoop",
+      "file": "missing/D/361796-dialoop.json"
     },
     {
       "igdb_id": 59921,
@@ -80321,6 +80326,11 @@
       "igdb_id": 333928,
       "game_name": "Doki Doki A Slice Of Life",
       "file": "missing/D/333928-doki-doki-a-slice-of-life.json"
+    },
+    {
+      "igdb_id": 361806,
+      "game_name": "Doki Doki A Summer's Requiem",
+      "file": "missing/D/361806-doki-doki-a-summers-requiem.json"
     },
     {
       "igdb_id": 314043,
@@ -94423,6 +94433,11 @@
       "file": "missing/E/233531-eras-of-alchemy.json"
     },
     {
+      "igdb_id": 361802,
+      "game_name": "Erase: Missing Link",
+      "file": "missing/E/361802-erase-missing-link.json"
+    },
+    {
       "igdb_id": 339263,
       "game_name": "Eraser",
       "file": "missing/E/339263-eraser.json"
@@ -106241,6 +106256,11 @@
       "igdb_id": 381021,
       "game_name": "Fission",
       "file": "missing/F/381021-fission.json"
+    },
+    {
+      "igdb_id": 361809,
+      "game_name": "Fissure",
+      "file": "missing/F/361809-fissure.json"
     },
     {
       "igdb_id": 17501,
@@ -138111,6 +138131,11 @@
       "igdb_id": 33147,
       "game_name": "Holopoint",
       "file": "missing/H/33147-holopoint.json"
+    },
+    {
+      "igdb_id": 361794,
+      "game_name": "HoloRun",
+      "file": "missing/H/361794-holorun.json"
     },
     {
       "igdb_id": 210245,
@@ -185198,6 +185223,11 @@
       "file": "missing/M/309337-merge-marbles.json"
     },
     {
+      "igdb_id": 361798,
+      "game_name": "Merge Match March",
+      "file": "missing/M/361798-merge-match-march.json"
+    },
+    {
       "igdb_id": 212482,
       "game_name": "Merge Mayor",
       "file": "missing/M/212482-merge-mayor.json"
@@ -206548,6 +206578,11 @@
       "file": "missing/N/16795-ninja-cats-vs-samurai-dogs.json"
     },
     {
+      "igdb_id": 361799,
+      "game_name": "Ninja Cats: Tactics",
+      "file": "missing/N/361799-ninja-cats-tactics.json"
+    },
+    {
       "igdb_id": 233763,
       "game_name": "Ninja Chicken 2",
       "file": "missing/N/233763-ninja-chicken-2.json"
@@ -212011,6 +212046,11 @@
       "igdb_id": 393453,
       "game_name": "Omicron: Coronavirus Battlegrounds",
       "file": "missing/O/393453-omicron-coronavirus-battlegrounds.json"
+    },
+    {
+      "igdb_id": 361803,
+      "game_name": "Omicrox",
+      "file": "missing/O/361803-omicrox.json"
     },
     {
       "igdb_id": 1982,
@@ -231701,6 +231741,11 @@
       "igdb_id": 149041,
       "game_name": "Power of Slide",
       "file": "missing/P/149041-power-of-slide.json"
+    },
+    {
+      "igdb_id": 361807,
+      "game_name": "Power of the Horde",
+      "file": "missing/P/361807-power-of-the-horde.json"
     },
     {
       "igdb_id": 74364,
@@ -258683,6 +258728,11 @@
       "file": "missing/S/383358-schola-spiritus.json"
     },
     {
+      "igdb_id": 361808,
+      "game_name": "Scholar Adventure: Mystery of Silence",
+      "file": "missing/S/361808-scholar-adventure-mystery-of-silence.json"
+    },
+    {
       "igdb_id": 188615,
       "game_name": "Scholar of the Arcane Arts",
       "file": "missing/S/188615-scholar-of-the-arcane-arts.json"
@@ -272451,6 +272501,11 @@
       "igdb_id": 26693,
       "game_name": "Smite Rivals",
       "file": "missing/S/26693-smite-rivals.json"
+    },
+    {
+      "igdb_id": 361801,
+      "game_name": "Smith & Dungeon",
+      "file": "missing/S/361801-smith-and-dungeon.json"
     },
     {
       "igdb_id": 111093,
