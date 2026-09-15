@@ -2688,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Settlement 1450 | 54353 | [54353-royal-settlement-1450.json](./54353-royal-settlement-1450.json) |
 | Royal Trouble: Hidden Adventures | 87899 | [87899-royal-trouble-hidden-adventures.json](./87899-royal-trouble-hidden-adventures.json) |
 | Royal Verdict | 391160 | [391160-royal-verdict.json](./391160-royal-verdict.json) |
+| Royal Watch: The Throne's Duty | 379976 | [379976-royal-watch-the-thrones-duty.json](./379976-royal-watch-the-thrones-duty.json) |
 | Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
 | Royalevia | 254764 | [254764-royalevia.json](./254764-royalevia.json) |
 | Rozalin and the Palace of Flowers | 150669 | [150669-rozalin-and-the-palace-of-flowers.json](./150669-rozalin-and-the-palace-of-flowers.json) |
