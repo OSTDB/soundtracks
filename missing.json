@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T16:49:06.136Z",
-  "total_missing": 74683,
+  "generated_at": "2026-09-15T16:51:39.914Z",
+  "total_missing": 74682,
   "games": [
     {
       "igdb_id": 306086,
@@ -5386,11 +5386,6 @@
       "igdb_id": 207506,
       "game_name": "Age of Barbarians Chronicles",
       "file": "missing/A/207506-age-of-barbarians-chronicles.json"
-    },
-    {
-      "igdb_id": 319975,
-      "game_name": "Age of Castles",
-      "file": "missing/A/319975-age-of-castles.json"
     },
     {
       "igdb_id": 193934,
