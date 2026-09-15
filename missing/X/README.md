@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenia is Online | 403680 | [403680-xenia-is-online.json](./403680-xenia-is-online.json) |
 | Xenno the Rogue | 183075 | [183075-xenno-the-rogue.json](./183075-xenno-the-rogue.json) |
 | Xeno Shooter | 146884 | [146884-xeno-shooter.json](./146884-xeno-shooter.json) |
+| Xeno Strikers Hyper Squadron | 374139 | [374139-xeno-strikers-hyper-squadron.json](./374139-xeno-strikers-hyper-squadron.json) |
 | Xeno's Adventure | 357259 | [357259-xenos-adventure.json](./357259-xenos-adventure.json) |
 | Xenoage Plus | 145605 | [145605-xenoage-plus.json](./145605-xenoage-plus.json) |
 | Xenoage: Knight of the Rihas | 145575 | [145575-xenoage-knight-of-the-rihas.json](./145575-xenoage-knight-of-the-rihas.json) |
