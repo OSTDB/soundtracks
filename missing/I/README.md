@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inverted | 32209 | [32209-inverted.json](./32209-inverted.json) |
 | Inverted Dreams | 390111 | [390111-inverted-dreams.json](./390111-inverted-dreams.json) |
 | Inverted Space | 176990 | [176990-inverted-space.json](./176990-inverted-space.json) |
+| Invertinator | 350525 | [350525-invertinator.json](./350525-invertinator.json) |
 | Invest | 94215 | [94215-invest.json](./94215-invest.json) |
 | Investation | 92527 | [92527-investation.json](./92527-investation.json) |
 | Investigation Stories: Gunsound | 369552 | [369552-investigation-stories-gunsound.json](./369552-investigation-stories-gunsound.json) |
@@ -1369,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irem Arcade 1 | 214546 | [214546-irem-arcade-1.json](./214546-irem-arcade-1.json) |
 | Irene: Journey To The North | 335071 | [335071-irene-journey-to-the-north.json](./335071-irene-journey-to-the-north.json) |
 | Irheobeorin Jeguk | 145580 | [145580-irheobeorin-jeguk.json](./145580-irheobeorin-jeguk.json) |
+| Iridescent Crown | 350515 | [350515-iridescent-crown.json](./350515-iridescent-crown.json) |
 | Iris | 223674 | [223674-iris.json](./223674-iris.json) |
 | Iris | 388935 | [388935-iris.json](./388935-iris.json) |
 | Iris Dissolution | 337116 | [337116-iris-dissolution.json](./337116-iris-dissolution.json) |
