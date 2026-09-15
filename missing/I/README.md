@@ -946,6 +946,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Versus | 143697 | [143697-infinite-versus.json](./143697-infinite-versus.json) |
 | Infinite Word Search Puzzles | 87658 | [87658-infinite-word-search-puzzles.json](./87658-infinite-word-search-puzzles.json) |
 | Infinite World | 102936 | [102936-infinite-world.json](./102936-infinite-world.json) |
+| Infinitely Up | 335340 | [335340-infinitely-up.json](./335340-infinitely-up.json) |
+| Infinitely Up 2 | 335339 | [335339-infinitely-up-2.json](./335339-infinitely-up-2.json) |
+| Infinitely Up 3 | 335338 | [335338-infinitely-up-3.json](./335338-infinitely-up-3.json) |
+| Infinitely Up 4 | 335337 | [335337-infinitely-up-4.json](./335337-infinitely-up-4.json) |
+| Infinitely Up 5 | 335336 | [335336-infinitely-up-5.json](./335336-infinitely-up-5.json) |
+| Infinitely Up: Skip Figure | 335333 | [335333-infinitely-up-skip-figure.json](./335333-infinitely-up-skip-figure.json) |
+| Infinitely Up: Turn the Figure | 335334 | [335334-infinitely-up-turn-the-figure.json](./335334-infinitely-up-turn-the-figure.json) |
 | Infinitroid | 70380 | [70380-infinitroid.json](./70380-infinitroid.json) |
 | Infinitum: Deluxe Edition | 53232 | [53232-infinitum-deluxe-edition.json](./53232-infinitum-deluxe-edition.json) |
 | Infinitum: The Backrooms Story | 258179 | [258179-infinitum-the-backrooms-story.json](./258179-infinitum-the-backrooms-story.json) |
@@ -1019,7 +1026,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink & Paper: DoodleCut - Animals DLC | 385181 | [385181-ink-and-paper-doodlecut-animals-dlc.json](./385181-ink-and-paper-doodlecut-animals-dlc.json) |
 | Ink & Paper: DoodleCut - Complete Edition | 385202 | [385202-ink-and-paper-doodlecut-complete-edition.json](./385202-ink-and-paper-doodlecut-complete-edition.json) |
 | Ink & Paper: DoodleCut - Space DLC | 385180 | [385180-ink-and-paper-doodlecut-space-dlc.json](./385180-ink-and-paper-doodlecut-space-dlc.json) |
+| Ink Adventure | 335327 | [335327-ink-adventure.json](./335327-ink-adventure.json) |
 | Ink and Intrigue | 340753 | [340753-ink-and-intrigue.json](./340753-ink-and-intrigue.json) |
+| Ink Hero | 335331 | [335331-ink-hero.json](./335331-ink-hero.json) |
 | Ink of Fate | 278970 | [278970-ink-of-fate.json](./278970-ink-of-fate.json) |
 | Ink Paper Minesweeper: L'animal dans la décoration Free Pack | 336346 | [336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json](./336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json) |
 | Ink Paper Minesweeper: Traditional Japanese Paintings Pack | 336345 | [336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json](./336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json) |
