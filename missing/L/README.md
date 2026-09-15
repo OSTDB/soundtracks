@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lampyridae Matsuri | 185594 | [185594-lampyridae-matsuri.json](./185594-lampyridae-matsuri.json) |
 | Lán Shízhàn Duì | 158649 | [158649-lan-shizhan-dui.json](./158649-lan-shizhan-dui.json) |
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
+| Lancer Tactics | 375255 | [375255-lancer-tactics.json](./375255-lancer-tactics.json) |
 | Land Air Sea Warfare HD | 109017 | [109017-land-air-sea-warfare-hd.json](./109017-land-air-sea-warfare-hd.json) |
 | Land Develop | 387330 | [387330-land-develop.json](./387330-land-develop.json) |
 | Land Drifters | 238746 | [238746-land-drifters.json](./238746-land-drifters.json) |
@@ -1501,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liyf | 275349 | [275349-liyf.json](./275349-liyf.json) |
 | Lizard | 19574 | [19574-lizard.json](./19574-lizard.json) |
 | Lizard | 89223 | [89223-lizard.json](./89223-lizard.json) |
+| Lizard Brain | 375283 | [375283-lizard-brain.json](./375283-lizard-brain.json) |
 | Lizard Crash | 25759 | [25759-lizard-crash.json](./25759-lizard-crash.json) |
 | Lizard Lady vs the Cats | 152856 | [152856-lizard-lady-vs-the-cats.json](./152856-lizard-lady-vs-the-cats.json) |
 | Lizard Quest! | 244471 | [244471-lizard-quest.json](./244471-lizard-quest.json) |
