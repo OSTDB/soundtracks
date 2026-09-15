@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.O.V.E.R. | 401624 | [401624-r-o-v-e-r.json](./401624-r-o-v-e-r.json) |
 | R.P.G | 234326 | [234326-r-p-g.json](./234326-r-p-g.json) |
 | R.U.R.U.R.: Petit Prince | 59363 | [59363-r-u-r-u-r-petit-prince.json](./59363-r-u-r-u-r-petit-prince.json) |
+| R/A\W | 341548 | [341548-r-a-w.json](./341548-r-a-w.json) |
 | R/C Sports: Copter Challenge | 202927 | [202927-r-c-sports-copter-challenge.json](./202927-r-c-sports-copter-challenge.json) |
 | R2 Online: Reign of Revolution | 91269 | [91269-r2-online-reign-of-revolution.json](./91269-r2-online-reign-of-revolution.json) |
 | R2Beat | 108993 | [108993-r2beat.json](./108993-r2beat.json) |
