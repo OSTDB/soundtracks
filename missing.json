@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T10:31:45.405Z",
-  "total_missing": 73515,
+  "generated_at": "2026-09-15T10:41:39.989Z",
+  "total_missing": 73519,
   "games": [
     {
       "igdb_id": 306086,
@@ -5171,11 +5171,6 @@
       "igdb_id": 164434,
       "game_name": "Afterblast",
       "file": "missing/A/164434-afterblast.json"
-    },
-    {
-      "igdb_id": 357792,
-      "game_name": "Afterblast",
-      "file": "missing/A/357792-afterblast.json"
     },
     {
       "igdb_id": 357794,
@@ -100393,6 +100388,11 @@
       "file": "missing/F/324085-family-feud-2010-edition.json"
     },
     {
+      "igdb_id": 358962,
+      "game_name": "Family Feud: Battle of the Sexes",
+      "file": "missing/F/358962-family-feud-battle-of-the-sexes.json"
+    },
+    {
       "igdb_id": 391196,
       "game_name": "Family Fun Pack",
       "file": "missing/F/391196-family-fun-pack.json"
@@ -125963,6 +125963,11 @@
       "file": "missing/G/383978-groove-coaster-4ex-infinity-highway.json"
     },
     {
+      "igdb_id": 358959,
+      "game_name": "Groove Coaster: Bad Apple!! feat. nomico",
+      "file": "missing/G/358959-groove-coaster-bad-apple-feat-nomico.json"
+    },
+    {
       "igdb_id": 361704,
       "game_name": "Groove Coaster: Darius Cozmic Collection Pack",
       "file": "missing/G/361704-groove-coaster-darius-cozmic-collection-pack.json"
@@ -144436,6 +144441,11 @@
       "igdb_id": 122398,
       "game_name": "Ichor",
       "file": "missing/I/122398-ichor.json"
+    },
+    {
+      "igdb_id": 358958,
+      "game_name": "Ichor Burns",
+      "file": "missing/I/358958-ichor-burns.json"
     },
     {
       "igdb_id": 415923,
@@ -313478,6 +313488,11 @@
       "file": "missing/T/371355-the-infernalist.json"
     },
     {
+      "igdb_id": 358963,
+      "game_name": "The Inferno",
+      "file": "missing/T/358963-the-inferno.json"
+    },
+    {
       "igdb_id": 44187,
       "game_name": "The Initial",
       "file": "missing/T/44187-the-initial.json"
@@ -359196,6 +359211,11 @@
       "igdb_id": 46779,
       "game_name": "World Heroes Perfect",
       "file": "missing/W/46779-world-heroes-perfect.json"
+    },
+    {
+      "igdb_id": 358960,
+      "game_name": "World Heroes Supreme Justice Extra",
+      "file": "missing/W/358960-world-heroes-supreme-justice-extra.json"
     },
     {
       "igdb_id": 119779,
