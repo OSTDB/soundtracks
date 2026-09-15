@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dallas Quest | 47218 | [47218-the-dallas-quest.json](./47218-the-dallas-quest.json) |
 | The Dama | 101503 | [101503-the-dama.json](./101503-the-dama.json) |
 | The Damned Forest | 69200 | [69200-the-damned-forest.json](./69200-the-damned-forest.json) |
+| The Dance of Maple Leaves | 346670 | [346670-the-dance-of-maple-leaves.json](./346670-the-dance-of-maple-leaves.json) |
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
 | The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
 | The Dark Arrival: Shadows of the Past | 343269 | [343269-the-dark-arrival-shadows-of-the-past.json](./343269-the-dark-arrival-shadows-of-the-past.json) |
@@ -2740,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hundred Line: Last Defense Academy - Digital Deluxe Edition | 338007 | [338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json](./338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json) |
 | The Hundred Line: Last Defense Academy - Nintendo Switch Version with Sleeve | 385732 | [385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json](./385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json) |
 | The Hundred Year Kingdom | 151737 | [151737-the-hundred-year-kingdom.json](./151737-the-hundred-year-kingdom.json) |
+| The Hundred Youkai Master | 346674 | [346674-the-hundred-youkai-master.json](./346674-the-hundred-youkai-master.json) |
 | The Hunger Games Adventures | 57708 | [57708-the-hunger-games-adventures.json](./57708-the-hunger-games-adventures.json) |
 | The Hungry Witch and the Gourmet Dish | 185157 | [185157-the-hungry-witch-and-the-gourmet-dish.json](./185157-the-hungry-witch-and-the-gourmet-dish.json) |
 | The Hunt | 37053 | [37053-the-hunt.json](./37053-the-hunt.json) |
@@ -2945,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ladle Fly | 179723 | [179723-the-ladle-fly.json](./179723-the-ladle-fly.json) |
 | The Lady | 35989 | [35989-the-lady.json](./35989-the-lady.json) |
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
+| The Lamb of the Sabbath is Standing Upon the Hill | 346651 | [346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json](./346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json) |
 | The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
 | The Land | 64929 | [64929-the-land.json](./64929-the-land.json) |
 | The Land Before Time: Activity Center | 229378 | [229378-the-land-before-time-activity-center.json](./229378-the-land-before-time-activity-center.json) |
@@ -6255,6 +6258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Towers | 99610 | [99610-tomb-towers.json](./99610-tomb-towers.json) |
 | Tomba! 2: The Evil Swine Return | 4100 | [4100-tomba-2-the-evil-swine-return.json](./4100-tomba-2-the-evil-swine-return.json) |
 | Tombed | 242820 | [242820-tombed.json](./242820-tombed.json) |
+| Tombers | 346656 | [346656-tombers.json](./346656-tombers.json) |
 | Tombo Breaker VR | 88254 | [88254-tombo-breaker-vr.json](./88254-tombo-breaker-vr.json) |
 | Tombo Survivor | 157167 | [157167-tombo-survivor.json](./157167-tombo-survivor.json) |
 | Tomboy Adventure | 154577 | [154577-tomboy-adventure.json](./154577-tomboy-adventure.json) |
@@ -7442,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
+| Tretrais | 346675 | [346675-tretrais.json](./346675-tretrais.json) |
 | Trevor Sorensen's Star Legions | 54398 | [54398-trevor-sorensens-star-legions.json](./54398-trevor-sorensens-star-legions.json) |
 | TRex Hero | 306381 | [306381-trex-hero.json](./306381-trex-hero.json) |
 | Tri Focuser: Outside the Traditional World | 246673 | [246673-tri-focuser-outside-the-traditional-world.json](./246673-tri-focuser-outside-the-traditional-world.json) |
@@ -7988,6 +7993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twenties Flappers vs. The Mummy | 269836 | [269836-twenties-flappers-vs-the-mummy.json](./269836-twenties-flappers-vs-the-mummy.json) |
 | Twenty | 59389 | [59389-twenty.json](./59389-twenty.json) |
 | Twenty One | 395559 | [395559-twenty-one.json](./395559-twenty-one.json) |
+| Twenty Six | 346662 | [346662-twenty-six.json](./346662-twenty-six.json) |
 | Twerk it Girl! | 238510 | [238510-twerk-it-girl.json](./238510-twerk-it-girl.json) |
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
 | Twhols | 377717 | [377717-twhols.json](./377717-twhols.json) |
