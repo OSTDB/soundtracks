@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T10:21:44.657Z",
-  "total_missing": 73504,
+  "generated_at": "2026-09-15T10:31:45.405Z",
+  "total_missing": 73515,
   "games": [
     {
       "igdb_id": 306086,
@@ -5166,11 +5166,6 @@
       "igdb_id": 362285,
       "game_name": "After-Image",
       "file": "missing/A/362285-after-image.json"
-    },
-    {
-      "igdb_id": 97940,
-      "game_name": "After-school Maihime Club: Girl's Holiday",
-      "file": "missing/A/97940-after-school-maihime-club-girls-holiday.json"
     },
     {
       "igdb_id": 164434,
@@ -40146,6 +40141,11 @@
       "igdb_id": 332251,
       "game_name": "Breeze of Ashes",
       "file": "missing/B/332251-breeze-of-ashes.json"
+    },
+    {
+      "igdb_id": 358979,
+      "game_name": "Breeze of Passion",
+      "file": "missing/B/358979-breeze-of-passion.json"
     },
     {
       "igdb_id": 274735,
@@ -93458,6 +93458,11 @@
       "file": "missing/E/183532-endless-pursuit.json"
     },
     {
+      "igdb_id": 358964,
+      "game_name": "Endless Reach",
+      "file": "missing/E/358964-endless-reach.json"
+    },
+    {
       "igdb_id": 235740,
       "game_name": "Endless Samurai",
       "file": "missing/E/235740-endless-samurai.json"
@@ -107518,6 +107523,11 @@
       "file": "missing/F/18087-flewn.json"
     },
     {
+      "igdb_id": 358973,
+      "game_name": "Flex City",
+      "file": "missing/F/358973-flex-city.json"
+    },
+    {
       "igdb_id": 147979,
       "game_name": "Flexibility and Girls",
       "file": "missing/F/147979-flexibility-and-girls.json"
@@ -113408,6 +113418,11 @@
       "file": "missing/F/269023-frostfire-battle-frenzy.json"
     },
     {
+      "igdb_id": 358967,
+      "game_name": "Frostliner",
+      "file": "missing/F/358967-frostliner.json"
+    },
+    {
       "igdb_id": 117420,
       "game_name": "Frostpunk: Console Edition",
       "file": "missing/F/117420-frostpunk-console-edition.json"
@@ -116211,6 +116226,11 @@
       "igdb_id": 177018,
       "game_name": "Galaxystrife",
       "file": "missing/G/177018-galaxystrife.json"
+    },
+    {
+      "igdb_id": 358965,
+      "game_name": "Galazer Deluxe",
+      "file": "missing/G/358965-galazer-deluxe.json"
     },
     {
       "igdb_id": 343250,
@@ -121586,6 +121606,11 @@
       "igdb_id": 31730,
       "game_name": "Gochi-Show!",
       "file": "missing/G/31730-gochi-show.json"
+    },
+    {
+      "igdb_id": 358972,
+      "game_name": "God bless, or Goddess",
+      "file": "missing/G/358972-god-bless-or-goddess.json"
     },
     {
       "igdb_id": 232460,
@@ -148076,6 +148101,11 @@
       "igdb_id": 29869,
       "game_name": "Inner silence",
       "file": "missing/I/29869-inner-silence.json"
+    },
+    {
+      "igdb_id": 358966,
+      "game_name": "Inner Voice",
+      "file": "missing/I/358966-inner-voice.json"
     },
     {
       "igdb_id": 35879,
@@ -221288,6 +221318,11 @@
       "file": "missing/P/310958-path-of-exile-settlers-of-kalguur.json"
     },
     {
+      "igdb_id": 358971,
+      "game_name": "Path of Gear: Blacksmith’s Legend",
+      "file": "missing/P/358971-path-of-gear-blacksmith-s-legend.json"
+    },
+    {
       "igdb_id": 278142,
       "game_name": "Path of Heaven",
       "file": "missing/P/278142-path-of-heaven.json"
@@ -236521,6 +236556,11 @@
       "igdb_id": 389465,
       "game_name": "Psycho Simulator",
       "file": "missing/P/389465-psycho-simulator.json"
+    },
+    {
+      "igdb_id": 358969,
+      "game_name": "Psycho Strafe",
+      "file": "missing/P/358969-psycho-strafe.json"
     },
     {
       "igdb_id": 55193,
@@ -255516,6 +255556,11 @@
       "igdb_id": 193948,
       "game_name": "Rust Knight",
       "file": "missing/R/193948-rust-knight.json"
+    },
+    {
+      "igdb_id": 358975,
+      "game_name": "Rust Mobile",
+      "file": "missing/R/358975-rust-mobile.json"
     },
     {
       "igdb_id": 341511,
@@ -318953,6 +318998,11 @@
       "file": "missing/T/386286-the-scaling.json"
     },
     {
+      "igdb_id": 358976,
+      "game_name": "The Scarecrow Knight",
+      "file": "missing/T/358976-the-scarecrow-knight.json"
+    },
+    {
       "igdb_id": 231348,
       "game_name": "The Scarlet Demonslayer",
       "file": "missing/T/231348-the-scarlet-demonslayer.json"
@@ -357281,6 +357331,11 @@
       "igdb_id": 386254,
       "game_name": "Wittengrad Is No More",
       "file": "missing/W/386254-wittengrad-is-no-more.json"
+    },
+    {
+      "igdb_id": 358978,
+      "game_name": "Wittle Defender",
+      "file": "missing/W/358978-wittle-defender.json"
     },
     {
       "igdb_id": 162406,
