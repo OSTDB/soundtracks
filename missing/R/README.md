@@ -2790,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPGirl | 297210 | [297210-rpgirl.json](./297210-rpgirl.json) |
 | RPS Duel | 366932 | [366932-rps-duel.json](./366932-rps-duel.json) |
 | RPS Saga | 38994 | [38994-rps-saga.json](./38994-rps-saga.json) |
+| RpVoid | 354505 | [354505-rpvoid.json](./354505-rpvoid.json) |
 | Rrggbb | 178004 | [178004-rrggbb.json](./178004-rrggbb.json) |
 | RRRR 2 | 117081 | [117081-rrrr-2.json](./117081-rrrr-2.json) |
 | RRWard02 | 274209 | [274209-rrward02.json](./274209-rrward02.json) |
