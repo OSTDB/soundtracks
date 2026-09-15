@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Angel Challenge | 195253 | [195253-wind-angel-challenge.json](./195253-wind-angel-challenge.json) |
 | Wind Angel III | 195186 | [195186-wind-angel-iii.json](./195186-wind-angel-iii.json) |
 | Wind Fantasy Double Cross | 408793 | [408793-wind-fantasy-double-cross.json](./408793-wind-fantasy-double-cross.json) |
+| Wind Fantasy II: Alive | 350516 | [350516-wind-fantasy-ii-alive.json](./350516-wind-fantasy-ii-alive.json) |
 | Wind Force | 116984 | [116984-wind-force.json](./116984-wind-force.json) |
 | Wind Love | 259589 | [259589-wind-love.json](./259589-wind-love.json) |
 | Wind Peaks 2 | 236284 | [236284-wind-peaks-2.json](./236284-wind-peaks-2.json) |
