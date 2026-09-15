@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphageddon | 293086 | [293086-alphageddon.json](./293086-alphageddon.json) |
 | AlphaSwap | 234071 | [234071-alphaswap.json](./234071-alphaswap.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
+| Alpine Sky | 352793 | [352793-alpine-sky.json](./352793-alpine-sky.json) |
 | Alpine Train 3D | 90709 | [90709-alpine-train-3d.json](./90709-alpine-train-3d.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
 | Alt254 | 135287 | [135287-alt254.json](./135287-alt254.json) |
@@ -1388,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alteredblood+ | 398990 | [398990-alteredblood.json](./398990-alteredblood.json) |
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
 | Alteric | 32358 | [32358-alteric.json](./32358-alteric.json) |
+| AlterLife | 352860 | [352860-alterlife.json](./352860-alterlife.json) |
 | Alternate Worlds | 62768 | [62768-alternate-worlds.json](./62768-alternate-worlds.json) |
 | Alternative Alliance Alpha | 347713 | [347713-alternative-alliance-alpha.json](./347713-alternative-alliance-alpha.json) |
 | Alternative Girls 2 | 216215 | [216215-alternative-girls-2.json](./216215-alternative-girls-2.json) |
