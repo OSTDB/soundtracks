@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RadioWave | 301273 | [301273-radiowave.json](./301273-radiowave.json) |
 | Radirgy Noa Massive | 7152 | [7152-radirgy-noa-massive.json](./7152-radirgy-noa-massive.json) |
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
+| Radium Lux | 349392 | [349392-radium-lux.json](./349392-radium-lux.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
 | Rafflesia | 40167 | [40167-rafflesia.json](./40167-rafflesia.json) |
 | Raft Survival Evolve Simulator | 103521 | [103521-raft-survival-evolve-simulator.json](./103521-raft-survival-evolve-simulator.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Heroes: Molten Menace | 209168 | [209168-rescue-heroes-molten-menace.json](./209168-rescue-heroes-molten-menace.json) |
 | Rescue HQ: The Tycoon - Coastguard | 155039 | [155039-rescue-hq-the-tycoon-coastguard.json](./155039-rescue-hq-the-tycoon-coastguard.json) |
 | Rescue Mael! | 185105 | [185105-rescue-mael.json](./185105-rescue-mael.json) |
+| Rescue Ops: Wildfire | 349412 | [349412-rescue-ops-wildfire.json](./349412-rescue-ops-wildfire.json) |
 | Rescue Quest | 346597 | [346597-rescue-quest.json](./346597-rescue-quest.json) |
 | Rescue Quest Gold: Collector's Edition | 203375 | [203375-rescue-quest-gold-collectors-edition.json](./203375-rescue-quest-gold-collectors-edition.json) |
 | Rescue Raiders | 25777 | [25777-rescue-raiders.json](./25777-rescue-raiders.json) |
@@ -1391,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurface | 406681 | [406681-resurface.json](./406681-resurface.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
 | Resurrection Core | 335267 | [335267-resurrection-core.json](./335267-resurrection-core.json) |
+| Resurrection of Santiago | 349385 | [349385-resurrection-of-santiago.json](./349385-resurrection-of-santiago.json) |
 | Resurrector | 126624 | [126624-resurrector.json](./126624-resurrector.json) |
 | Resurviv.biz: Battle Royale | 373642 | [373642-resurviv-biz-battle-royale.json](./373642-resurviv-biz-battle-royale.json) |
 | Resver | 392273 | [392273-resver.json](./392273-resver.json) |
