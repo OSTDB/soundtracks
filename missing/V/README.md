@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampyr: Special Edition | 139984 | [139984-vampyr-special-edition.json](./139984-vampyr-special-edition.json) |
 | Vampyre Crusade | 317002 | [317002-vampyre-crusade.json](./317002-vampyre-crusade.json) |
 | Van Helsing sniper Zx100 | 85470 | [85470-van-helsing-sniper-zx100.json](./85470-van-helsing-sniper-zx100.json) |
+| Van Life: Home Simulator | 370793 | [370793-van-life-home-simulator.json](./370793-van-life-home-simulator.json) |
 | Van Van Up! | 188067 | [188067-van-van-up.json](./188067-van-van-up.json) |
 | Van-Gale: The War of Neo-Century | 246410 | [246410-van-gale-the-war-of-neo-century.json](./246410-van-gale-the-war-of-neo-century.json) |
 | Vanakan 405 | 382291 | [382291-vanakan-405.json](./382291-vanakan-405.json) |
@@ -549,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Meow | 327172 | [327172-village-meow.json](./327172-village-meow.json) |
 | Village Merchant | 377167 | [377167-village-merchant.json](./377167-village-merchant.json) |
 | Village of the Ages | 369042 | [369042-village-of-the-ages.json](./369042-village-of-the-ages.json) |
+| Village Supermarket Simulator: Old Times Edition | 370800 | [370800-village-supermarket-simulator-old-times-edition.json](./370800-village-supermarket-simulator-old-times-edition.json) |
 | Village Tanuki | 185138 | [185138-village-tanuki.json](./185138-village-tanuki.json) |
 | Village Tycoon: Farm City Simulator | 275035 | [275035-village-tycoon-farm-city-simulator.json](./275035-village-tycoon-farm-city-simulator.json) |
 | VillageBlade | 192875 | [192875-villageblade.json](./192875-villageblade.json) |
