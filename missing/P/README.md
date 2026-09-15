@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile 2: The Last of the Druids | 378276 | [378276-path-of-exile-2-the-last-of-the-druids.json](./378276-path-of-exile-2-the-last-of-the-druids.json) |
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
 | Path of Exile: Settlers of Kalguur | 310958 | [310958-path-of-exile-settlers-of-kalguur.json](./310958-path-of-exile-settlers-of-kalguur.json) |
+| Path of Gear: Blacksmith’s Legend | 358971 | [358971-path-of-gear-blacksmith-s-legend.json](./358971-path-of-gear-blacksmith-s-legend.json) |
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
@@ -2776,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PoPoLoCrois Monogatari: Narcia no Namida to Yousei no Fue | 82802 | [82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json](./82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json) |
 | Popoposan | 329555 | [329555-popoposan.json](./329555-popoposan.json) |
 | PoPoRoGue | 79937 | [79937-poporogue.json](./79937-poporogue.json) |
+| Poppet Quest | 358933 | [358933-poppet-quest.json](./358933-poppet-quest.json) |
 | Poppi | 181301 | [181301-poppi.json](./181301-poppi.json) |
 | Poppin' Donuts | 157215 | [157215-poppin-donuts.json](./157215-poppin-donuts.json) |
 | Poppit! Party | 354993 | [354993-poppit-party.json](./354993-poppit-party.json) |
@@ -3742,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Dream | 42420 | [42420-psycho-dream.json](./42420-psycho-dream.json) |
 | Psycho Pigs | 59949 | [59949-psycho-pigs.json](./59949-psycho-pigs.json) |
 | Psycho Simulator | 389465 | [389465-psycho-simulator.json](./389465-psycho-simulator.json) |
+| Psycho Strafe | 358969 | [358969-psycho-strafe.json](./358969-psycho-strafe.json) |
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
 | Psycho-Pass: Mandatory Happiness - Limited Edition | 166186 | [166186-psycho-pass-mandatory-happiness-limited-edition.json](./166186-psycho-pass-mandatory-happiness-limited-edition.json) |
 | Psycho-unstable Journey | 180792 | [180792-psycho-unstable-journey.json](./180792-psycho-unstable-journey.json) |
