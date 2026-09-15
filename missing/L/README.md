@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Star | 316097 | [316097-last-star.json](./316097-last-star.json) |
 | Last Stop | 345518 | [345518-last-stop.json](./345518-last-stop.json) |
 | Last Striker | 40270 | [40270-last-striker.json](./40270-last-striker.json) |
+| Last Summer at Camp Apocalypse Blood: 101 Ways to Not Capture Bigfoot | 349939 | [349939-last-summer-at-camp-apocalypse-blood-101-ways-to-not-capture-bigfoot.json](./349939-last-summer-at-camp-apocalypse-blood-101-ways-to-not-capture-bigfoot.json) |
 | Last Survivor | 74411 | [74411-last-survivor.json](./74411-last-survivor.json) |
 | Last Survivor | 81430 | [81430-last-survivor.json](./81430-last-survivor.json) |
 | Last Survivor | 89997 | [89997-last-survivor.json](./89997-last-survivor.json) |
@@ -1230,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Death | 340921 | [340921-liminal-death.json](./340921-liminal-death.json) |
 | Liminal Doom | 252724 | [252724-liminal-doom.json](./252724-liminal-doom.json) |
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
+| Liminal Lane | 349957 | [349957-liminal-lane.json](./349957-liminal-lane.json) |
 | Liminal Point | 330566 | [330566-liminal-point.json](./330566-liminal-point.json) |
 | Liminal Sick Pizza Blue | 398480 | [398480-liminal-sick-pizza-blue.json](./398480-liminal-sick-pizza-blue.json) |
 | Liminal Spaces Jam | 323735 | [323735-liminal-spaces-jam.json](./323735-liminal-spaces-jam.json) |
