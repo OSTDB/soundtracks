@@ -465,7 +465,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
 | Aethus | 270142 | [270142-aethus.json](./270142-aethus.json) |
 | Aeve:Zero Gravity | 83540 | [83540-aeve-zero-gravity.json](./83540-aeve-zero-gravity.json) |
-| Aevenn | 185113 | [185113-aevenn.json](./185113-aevenn.json) |
 | AEW: Fight Forever | 145216 | [145216-aew-fight-forever.json](./145216-aew-fight-forever.json) |
 | Afei's Trouble | 357790 | [357790-afeis-trouble.json](./357790-afeis-trouble.json) |
 | Affairs of the Court: Choice of Romance | 32355 | [32355-affairs-of-the-court-choice-of-romance.json](./32355-affairs-of-the-court-choice-of-romance.json) |
