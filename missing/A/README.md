@@ -458,7 +458,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
-| Aery VR: Little Bird Adventure | 356072 | [356072-aery-vr-little-bird-adventure.json](./356072-aery-vr-little-bird-adventure.json) |
 | Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | Aether | 357785 | [357785-aether.json](./357785-aether.json) |
@@ -2187,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antonball Deluxe | 139595 | [139595-antonball-deluxe.json](./139595-antonball-deluxe.json) |
 | Antonball Deluxe Lite | 153463 | [153463-antonball-deluxe-lite.json](./153463-antonball-deluxe-lite.json) |
 | Antonblast | 201752 | [201752-antonblast.json](./201752-antonblast.json) |
+| Antonblast 64 | 375976 | [375976-antonblast-64.json](./375976-antonblast-64.json) |
 | AntQueen 3D | 117642 | [117642-antqueen-3d.json](./117642-antqueen-3d.json) |
 | Antrabhara | 223491 | [223491-antrabhara.json](./223491-antrabhara.json) |
 | Ants in Space! | 248031 | [248031-ants-in-space.json](./248031-ants-in-space.json) |
@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanight | 25760 | [25760-arcanight.json](./25760-arcanight.json) |
 | Arcanion: Tale of Magi | 149026 | [149026-arcanion-tale-of-magi.json](./149026-arcanion-tale-of-magi.json) |
 | Arcanoid Breakout | 147468 | [147468-arcanoid-breakout.json](./147468-arcanoid-breakout.json) |
+| Arcany | 375981 | [375981-arcany.json](./375981-arcany.json) |
 | ArcaPinball: NeoWorlds | 146892 | [146892-arcapinball-neoworlds.json](./146892-arcapinball-neoworlds.json) |
 | Arcatopia | 194014 | [194014-arcatopia.json](./194014-arcatopia.json) |
 | Arcaxer | 145565 | [145565-arcaxer.json](./145565-arcaxer.json) |
@@ -3296,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Engineers | 249798 | [249798-astro-engineers.json](./249798-astro-engineers.json) |
 | Astro Fang: Super Machine | 48608 | [48608-astro-fang-super-machine.json](./48608-astro-fang-super-machine.json) |
 | Astro Fighter | 23049 | [23049-astro-fighter.json](./23049-astro-fighter.json) |
+| Astro Fighters 2 | 375991 | [375991-astro-fighters-2.json](./375991-astro-fighters-2.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
