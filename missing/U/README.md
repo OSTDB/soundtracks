@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
 | Ultra Mega Xtra Party Challenge | 201784 | [201784-ultra-mega-xtra-party-challenge.json](./201784-ultra-mega-xtra-party-challenge.json) |
 | Ultra Ninja Soul | 151755 | [151755-ultra-ninja-soul.json](./151755-ultra-ninja-soul.json) |
+| Ultra Nothing | 377674 | [377674-ultra-nothing.json](./377674-ultra-nothing.json) |
 | Ultra Rhythm | 227876 | [227876-ultra-rhythm.json](./227876-ultra-rhythm.json) |
 | Ultra SCSIcide | 40732 | [40732-ultra-scsicide.json](./40732-ultra-scsicide.json) |
 | Ultra Violet | 150057 | [150057-ultra-violet.json](./150057-ultra-violet.json) |
