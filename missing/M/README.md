@@ -1151,7 +1151,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Heroes: 033 - Area Mod: Tunnels of Terror | 363473 | [363473-marvel-heroes-033-area-mod-tunnels-of-terror.json](./363473-marvel-heroes-033-area-mod-tunnels-of-terror.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
 | Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
+| Marvel Rivals: Pick-Up Bundle | 355093 | [355093-marvel-rivals-pick-up-bundle.json](./355093-marvel-rivals-pick-up-bundle.json) |
+| Marvel Rivals: PlayStation Exclusive | 355092 | [355092-marvel-rivals-playstation-exclusive.json](./355092-marvel-rivals-playstation-exclusive.json) |
 | Marvel Rivals: Season 2 - Hellfire Gala | 339814 | [339814-marvel-rivals-season-2-hellfire-gala.json](./339814-marvel-rivals-season-2-hellfire-gala.json) |
+| Marvel Rivals: Season 2 Bundle | 355094 | [355094-marvel-rivals-season-2-bundle.json](./355094-marvel-rivals-season-2-bundle.json) |
 | Marvel Rivals: Season 4 - Heart of the Dragon | 367417 | [367417-marvel-rivals-season-4-heart-of-the-dragon.json](./367417-marvel-rivals-season-4-heart-of-the-dragon.json) |
 | Marvel Spider-Man Unlimited | 89103 | [89103-marvel-spider-man-unlimited.json](./89103-marvel-spider-man-unlimited.json) |
 | Marvel Super Hero Squad | 4997 | [4997-marvel-super-hero-squad.json](./4997-marvel-super-hero-squad.json) |
@@ -2780,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind-Blowing Girls 3 | 163995 | [163995-mind-blowing-girls-3.json](./163995-mind-blowing-girls-3.json) |
 | Mind-Machine Interface | 27763 | [27763-mind-machine-interface.json](./27763-mind-machine-interface.json) |
 | Mind's Eye Macrogolf | 361239 | [361239-minds-eye-macrogolf.json](./361239-minds-eye-macrogolf.json) |
+| Mindaro | 355123 | [355123-mindaro.json](./355123-mindaro.json) |
 | Mindbender | 71529 | [71529-mindbender.json](./71529-mindbender.json) |
 | Mindblower Pack | 78023 | [78023-mindblower-pack.json](./78023-mindblower-pack.json) |
 | Mindcell | 166159 | [166159-mindcell.json](./166159-mindcell.json) |
@@ -3323,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Battle Operation | 44580 | [44580-mobile-suit-gundam-battle-operation.json](./44580-mobile-suit-gundam-battle-operation.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy | 178045 | [178045-mobile-suit-gundam-battle-operation-code-fairy.json](./178045-mobile-suit-gundam-battle-operation-code-fairy.json) |
 | Mobile Suit Gundam: Climax U.C. | 68012 | [68012-mobile-suit-gundam-climax-u-c.json](./68012-mobile-suit-gundam-climax-u-c.json) |
+| Mobile Suit Gundam: Extreme Versus 2 - Infinite Boost | 355089 | [355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json](./355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json) |
 | Mobile Suit Gundam: Extreme vs. Maxi Boost | 79865 | [79865-mobile-suit-gundam-extreme-vs-maxi-boost.json](./79865-mobile-suit-gundam-extreme-vs-maxi-boost.json) |
 | Mobile Suit Gundam: Extreme Vs.2 XBoost | 196283 | [196283-mobile-suit-gundam-extreme-vs-2-xboost.json](./196283-mobile-suit-gundam-extreme-vs-2-xboost.json) |
 | Mobile Suit Gundam: Lost War Chronicles | 66609 | [66609-mobile-suit-gundam-lost-war-chronicles.json](./66609-mobile-suit-gundam-lost-war-chronicles.json) |
