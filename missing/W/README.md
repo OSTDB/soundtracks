@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of The Abyss | 301269 | [301269-whispers-of-the-abyss.json](./301269-whispers-of-the-abyss.json) |
 | Whispers of The Shadow | 312550 | [312550-whispers-of-the-shadow.json](./312550-whispers-of-the-shadow.json) |
 | Whispers of the Tallgrass | 398959 | [398959-whispers-of-the-tallgrass.json](./398959-whispers-of-the-tallgrass.json) |
+| Whispers of the Void | 358378 | [358378-whispers-of-the-void.json](./358378-whispers-of-the-void.json) |
 | Whispers of West Grove | 237045 | [237045-whispers-of-west-grove.json](./237045-whispers-of-west-grove.json) |
 | Whispers: Last Hope | 29720 | [29720-whispers-last-hope.json](./29720-whispers-last-hope.json) |
 | Whisperstring | 329970 | [329970-whisperstring.json](./329970-whisperstring.json) |
@@ -1551,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witness the Dark #1: Bloody Burger | 404336 | [404336-witness-the-dark-1-bloody-burger.json](./404336-witness-the-dark-1-bloody-burger.json) |
 | Wits of Gods | 208062 | [208062-wits-of-gods.json](./208062-wits-of-gods.json) |
 | Wittengrad Is No More | 386254 | [386254-wittengrad-is-no-more.json](./386254-wittengrad-is-no-more.json) |
+| Wittle Defender | 358978 | [358978-wittle-defender.json](./358978-wittle-defender.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
 | Wizard Battle | 121638 | [121638-wizard-battle.json](./121638-wizard-battle.json) |
 | Wizard Bros | 158233 | [158233-wizard-bros.json](./158233-wizard-bros.json) |
@@ -1923,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Heroes 2 Jet | 201268 | [201268-world-heroes-2-jet.json](./201268-world-heroes-2-jet.json) |
 | World Heroes Anthology | 20993 | [20993-world-heroes-anthology.json](./20993-world-heroes-anthology.json) |
 | World Heroes Perfect | 46779 | [46779-world-heroes-perfect.json](./46779-world-heroes-perfect.json) |
+| World Heroes Supreme Justice Extra | 358960 | [358960-world-heroes-supreme-justice-extra.json](./358960-world-heroes-supreme-justice-extra.json) |
 | World Leader Card Game | 119779 | [119779-world-leader-card-game.json](./119779-world-leader-card-game.json) |
 | World Mosaics | 135246 | [135246-world-mosaics.json](./135246-world-mosaics.json) |
 | World Mosaics 2 | 135247 | [135247-world-mosaics-2.json](./135247-world-mosaics-2.json) |
