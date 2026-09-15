@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vincemus: Air Combat | 195259 | [195259-vincemus-air-combat.json](./195259-vincemus-air-combat.json) |
 | Vincent | 242243 | [242243-vincent.json](./242243-vincent.json) |
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
+| Vínculo | 355077 | [355077-vinculo.json](./355077-vinculo.json) |
 | Vind | 115721 | [115721-vind.json](./115721-vind.json) |
 | Vindefiant | 296366 | [296366-vindefiant.json](./296366-vindefiant.json) |
 | Vindicators | 12871 | [12871-vindicators.json](./12871-vindicators.json) |
@@ -603,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viorate no Atelier: Gramnad no Renkinjutsushi 2 | 26515 | [26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json](./26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json) |
 | Vip Em Up - The action movies stars beat em up Ep.0 ( beta ) | 114348 | [114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json](./114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json) |
 | Viper | 12901 | [12901-viper.json](./12901-viper.json) |
+| Viper Thunderground | 355099 | [355099-viper-thunderground.json](./355099-viper-thunderground.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
 | Virago World | 374738 | [374738-virago-world.json](./374738-virago-world.json) |
@@ -640,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Cameraman Part 4: Toya Shiori | 217878 | [217878-virtual-cameraman-part-4-toya-shiori.json](./217878-virtual-cameraman-part-4-toya-shiori.json) |
 | Virtual Cameraman Part 5: Anzo Ari | 216769 | [216769-virtual-cameraman-part-5-anzo-ari.json](./216769-virtual-cameraman-part-5-anzo-ari.json) |
 | Virtual Chess | 351645 | [351645-virtual-chess.json](./351645-virtual-chess.json) |
+| Virtual Double Yakuman | 355119 | [355119-virtual-double-yakuman.json](./355119-virtual-double-yakuman.json) |
 | Virtual Dream | 312578 | [312578-virtual-dream.json](./312578-virtual-dream.json) |
 | Virtual Driving School | 404840 | [404840-virtual-driving-school.json](./404840-virtual-driving-school.json) |
 | Virtual Earth Online | 106642 | [106642-virtual-earth-online.json](./106642-virtual-earth-online.json) |
@@ -651,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual girl save virtual boy | 282016 | [282016-virtual-girl-save-virtual-boy.json](./282016-virtual-girl-save-virtual-boy.json) |
 | Virtual Goaltender | 86861 | [86861-virtual-goaltender.json](./86861-virtual-goaltender.json) |
 | Virtual Grand Prix 2 | 79281 | [79281-virtual-grand-prix-2.json](./79281-virtual-grand-prix-2.json) |
+| Virtual Gunman | 355117 | [355117-virtual-gunman.json](./355117-virtual-gunman.json) |
 | Virtual Hero VR | 118995 | [118995-virtual-hero-vr.json](./118995-virtual-hero-vr.json) |
 | Virtual Horse Ranch II | 73250 | [73250-virtual-horse-ranch-ii.json](./73250-virtual-horse-ranch-ii.json) |
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
