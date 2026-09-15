@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
 | Beans Dash | 256255 | [256255-beans-dash.json](./256255-beans-dash.json) |
 | Bear Adventure | 370762 | [370762-bear-adventure.json](./370762-bear-adventure.json) |
+| Bear in the Snow | 362882 | [362882-bear-in-the-snow.json](./362882-bear-in-the-snow.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear Surfin Mega Wave | 200638 | [200638-bear-surfin-mega-wave.json](./200638-bear-surfin-mega-wave.json) |
 | Bear With Me: The Complete Collection | 116990 | [116990-bear-with-me-the-complete-collection.json](./116990-bear-with-me-the-complete-collection.json) |
@@ -1677,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Illusions | 387324 | [387324-beyond-the-illusions.json](./387324-beyond-the-illusions.json) |
 | Beyond the Kingdom | 294736 | [294736-beyond-the-kingdom.json](./294736-beyond-the-kingdom.json) |
 | Beyond the Kingdom 2 | 294737 | [294737-beyond-the-kingdom-2.json](./294737-beyond-the-kingdom-2.json) |
+| Beyond the Rust | 362895 | [362895-beyond-the-rust.json](./362895-beyond-the-rust.json) |
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
 | Beyond the Stars VR | 119721 | [119721-beyond-the-stars-vr.json](./119721-beyond-the-stars-vr.json) |
 | Beyond the Sunset | 68671 | [68671-beyond-the-sunset.json](./68671-beyond-the-sunset.json) |
@@ -2258,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of God 2 | 174805 | [174805-blade-of-god-2.json](./174805-blade-of-god-2.json) |
 | Blade of Jinshu | 364573 | [364573-blade-of-jinshu.json](./364573-blade-of-jinshu.json) |
 | Blade of Ten | 207318 | [207318-blade-of-ten.json](./207318-blade-of-ten.json) |
+| Blade of the Overlord | 362879 | [362879-blade-of-the-overlord.json](./362879-blade-of-the-overlord.json) |
 | Blade Reborn: Forge Your Destiny | 102787 | [102787-blade-reborn-forge-your-destiny.json](./102787-blade-reborn-forge-your-destiny.json) |
 | Blade Runner 2033: Labyrinth | 255093 | [255093-blade-runner-2033-labyrinth.json](./255093-blade-runner-2033-labyrinth.json) |
 | Blade Strangers | 37032 | [37032-blade-strangers.json](./37032-blade-strangers.json) |
@@ -3023,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonereader | 397769 | [397769-bonereader.json](./397769-bonereader.json) |
 | Bones 'n' Bullets | 118303 | [118303-bones-n-bullets.json](./118303-bones-n-bullets.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
+| Bones of the Earth | 362880 | [362880-bones-of-the-earth.json](./362880-bones-of-the-earth.json) |
 | Bones: Lab Panic | 58811 | [58811-bones-lab-panic.json](./58811-bones-lab-panic.json) |
 | Bones: Wandering Soul | 347678 | [347678-bones-wandering-soul.json](./347678-bones-wandering-soul.json) |
 | Bonesaw: The Game | 65432 | [65432-bonesaw-the-game.json](./65432-bonesaw-the-game.json) |
