@@ -564,7 +564,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Sail | 9430 | [9430-age-of-sail.json](./9430-age-of-sail.json) |
 | Age of Sail II: Privateer's Bounty | 9429 | [9429-age-of-sail-ii-privateers-bounty.json](./9429-age-of-sail-ii-privateers-bounty.json) |
 | Age of Solitaire: Build Civilization | 211422 | [211422-age-of-solitaire-build-civilization.json](./211422-age-of-solitaire-build-civilization.json) |
-| Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
 | Age of Trades | 176477 | [176477-age-of-trades.json](./176477-age-of-trades.json) |
 | Age of Viking Conquest | 109424 | [109424-age-of-viking-conquest.json](./109424-age-of-viking-conquest.json) |
 | Age of War | 18348 | [18348-age-of-war.json](./18348-age-of-war.json) |
