@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Chaos | 40726 | [40726-universal-chaos.json](./40726-universal-chaos.json) |
 | Universal Combat | 70975 | [70975-universal-combat.json](./70975-universal-combat.json) |
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
+| Universal Hologram | 359525 | [359525-universal-hologram.json](./359525-universal-hologram.json) |
 | Universal Nuts | 91955 | [91955-universal-nuts.json](./91955-universal-nuts.json) |
 | Universal Power | 276154 | [276154-universal-power.json](./276154-universal-power.json) |
 | Universal Slot Street | 220297 | [220297-universal-slot-street.json](./220297-universal-slot-street.json) |
