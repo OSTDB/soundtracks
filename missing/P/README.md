@@ -3410,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Cartaphilus | 266796 | [266796-project-cartaphilus.json](./266796-project-cartaphilus.json) |
 | Project Cataclysm | 393653 | [393653-project-cataclysm.json](./393653-project-cataclysm.json) |
 | Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
+| Project Cobalt | 366310 | [366310-project-cobalt.json](./366310-project-cobalt.json) |
 | Project Confrontation | 57051 | [57051-project-confrontation.json](./57051-project-confrontation.json) |
 | Project Crimson | 166735 | [166735-project-crimson.json](./166735-project-crimson.json) |
 | Project D | 255117 | [255117-project-d.json](./255117-project-d.json) |
