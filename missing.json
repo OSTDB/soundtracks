@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T19:04:14.783Z",
-  "total_missing": 75023,
+  "generated_at": "2026-09-15T19:11:31.182Z",
+  "total_missing": 75022,
   "games": [
     {
       "igdb_id": 306086,
@@ -5456,11 +5456,6 @@
       "igdb_id": 145574,
       "game_name": "Age of Empires III: The Asian Dynasties Mobile",
       "file": "missing/A/145574-age-of-empires-iii-the-asian-dynasties-mobile.json"
-    },
-    {
-      "igdb_id": 221950,
-      "game_name": "Age of Empires IV: Anniversary Edition",
-      "file": "missing/A/221950-age-of-empires-iv-anniversary-edition.json"
     },
     {
       "igdb_id": 145568,
