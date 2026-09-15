@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Crusher | 202845 | [202845-hell-crusher.json](./202845-hell-crusher.json) |
 | Hell Dive | 324307 | [324307-hell-dive.json](./324307-hell-dive.json) |
 | Hell Forged | 141139 | [141139-hell-forged.json](./141139-hell-forged.json) |
+| Hell Froze Over | 342151 | [342151-hell-froze-over.json](./342151-hell-froze-over.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
 | Hell Ground | 256827 | [256827-hell-ground.json](./256827-hell-ground.json) |
 | Hell Guide | 130852 | [130852-hell-guide.json](./130852-hell-guide.json) |
