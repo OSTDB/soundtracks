@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Buddies | 101523 | [101523-tank-buddies.json](./101523-tank-buddies.json) |
 | Tank Bung | 110965 | [110965-tank-bung.json](./110965-tank-bung.json) |
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
+| Tank Domination | 343877 | [343877-tank-domination.json](./343877-tank-domination.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
 | Tank Force | 81329 | [81329-tank-force.json](./81329-tank-force.json) |
 | Tank Game | 69315 | [69315-tank-game.json](./69315-tank-game.json) |
@@ -3619,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Side | 308545 | [308545-the-other-side.json](./308545-the-other-side.json) |
 | The other side: My own horror | 161402 | [161402-the-other-side-my-own-horror.json](./161402-the-other-side-my-own-horror.json) |
 | The Other: Rosie's Road of Love | 147394 | [147394-the-other-rosies-road-of-love.json](./147394-the-other-rosies-road-of-love.json) |
+| The Others | 343852 | [343852-the-others.json](./343852-the-others.json) |
 | The Otter Ways | 288778 | [288778-the-otter-ways.json](./288778-the-otter-ways.json) |
 | The Otterman Empire | 126964 | [126964-the-otterman-empire.json](./126964-the-otterman-empire.json) |
 | The Ourboros King | 215374 | [215374-the-ourboros-king.json](./215374-the-ourboros-king.json) |
@@ -8182,4 +8184,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyto Ecology: Himalayas Ecosystem | 171002 | [171002-tyto-ecology-himalayas-ecosystem.json](./171002-tyto-ecology-himalayas-ecosystem.json) |
 | Tyto Online | 30789 | [30789-tyto-online.json](./30789-tyto-online.json) |
 | Tzakol in Exile | 189112 | [189112-tzakol-in-exile.json](./189112-tzakol-in-exile.json) |
+| Tzimtzum | 343856 | [343856-tzimtzum.json](./343856-tzimtzum.json) |
 | Tzompantli | 30941 | [30941-tzompantli.json](./30941-tzompantli.json) |
