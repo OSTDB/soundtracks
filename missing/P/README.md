@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Cafe | 132184 | [132184-penguin-cafe.json](./132184-penguin-cafe.json) |
 | Penguin Chat 2 | 353302 | [353302-penguin-chat-2.json](./353302-penguin-chat-2.json) |
 | Penguin Colony | 354409 | [354409-penguin-colony.json](./354409-penguin-colony.json) |
+| Penguin Flight: Beyond The Clouds | 342149 | [342149-penguin-flight-beyond-the-clouds.json](./342149-penguin-flight-beyond-the-clouds.json) |
 | Penguin Helper | 302112 | [302112-penguin-helper.json](./302112-penguin-helper.json) |
 | Penguin Hotel 2: Snake Penguin Ambition | 333533 | [333533-penguin-hotel-2-snake-penguin-ambition.json](./333533-penguin-hotel-2-snake-penguin-ambition.json) |
 | Penguin Land | 365677 | [365677-penguin-land.json](./365677-penguin-land.json) |
@@ -2662,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polda | 9713 | [9713-polda.json](./9713-polda.json) |
 | Polda 7 | 205730 | [205730-polda-7.json](./205730-polda-7.json) |
 | Pole Position | 5691 | [5691-pole-position.json](./5691-pole-position.json) |
+| Pole Riders | 342166 | [342166-pole-riders.json](./342166-pole-riders.json) |
 | Polegli | 57115 | [57115-polegli.json](./57115-polegli.json) |
 | Polgar: Magic Detective | 191175 | [191175-polgar-magic-detective.json](./191175-polgar-magic-detective.json) |
 | Police & Gang | 385740 | [385740-police-and-gang.json](./385740-police-and-gang.json) |
@@ -3945,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse | 392257 | [392257-pulse.json](./392257-pulse.json) |
 | Pulse Cage Episode 1 | 25629 | [25629-pulse-cage-episode-1.json](./25629-pulse-cage-episode-1.json) |
 | Pulse of Love | 258719 | [258719-pulse-of-love.json](./258719-pulse-of-love.json) |
+| Pulse Phobia | 342133 | [342133-pulse-phobia.json](./342133-pulse-phobia.json) |
 | PulseChaser | 112320 | [112320-pulsechaser.json](./112320-pulsechaser.json) |
 | Pulseman | 45760 | [45760-pulseman.json](./45760-pulseman.json) |
 | Pulsen | 35985 | [35985-pulsen.json](./35985-pulsen.json) |
