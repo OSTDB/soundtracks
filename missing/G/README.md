@@ -2527,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunnRunner | 117063 | [117063-gunnrunner.json](./117063-gunnrunner.json) |
 | GunnVR | 29908 | [29908-gunnvr.json](./29908-gunnvr.json) |
 | Gunny | 117721 | [117721-gunny.json](./117721-gunny.json) |
+| GunOre | 350511 | [350511-gunore.json](./350511-gunore.json) |
 | Gunparade March | 64893 | [64893-gunparade-march.json](./64893-gunparade-march.json) |
 | Gunparade Orchestra: Ao no Shou | 64891 | [64891-gunparade-orchestra-ao-no-shou.json](./64891-gunparade-orchestra-ao-no-shou.json) |
 | Gunple: Gunman's Proof | 42590 | [42590-gunple-gunmans-proof.json](./42590-gunple-gunmans-proof.json) |
