@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magna Braban: Henreki no Yuusha | 38374 | [38374-magna-braban-henreki-no-yuusha.json](./38374-magna-braban-henreki-no-yuusha.json) |
 | Magna Fortuna | 171590 | [171590-magna-fortuna.json](./171590-magna-fortuna.json) |
 | Magna Regna | 211926 | [211926-magna-regna.json](./211926-magna-regna.json) |
+| Magnat | 365757 | [365757-magnat.json](./365757-magnat.json) |
 | Magnate: Robot Idle Tycoon | 268449 | [268449-magnate-robot-idle-tycoon.json](./268449-magnate-robot-idle-tycoon.json) |
 | Magnavody | 277610 | [277610-magnavody.json](./277610-magnavody.json) |
 | Magnetic Billiards | 47276 | [47276-magnetic-billiards.json](./47276-magnetic-billiards.json) |
@@ -1505,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
 | Mech Farmer | 150696 | [150696-mech-farmer.json](./150696-mech-farmer.json) |
+| Mech in the City | 365779 | [365779-mech-in-the-city.json](./365779-mech-in-the-city.json) |
 | Mech Marines: Steel March | 36112 | [36112-mech-marines-steel-march.json](./36112-mech-marines-steel-march.json) |
 | Mech n' Parcel | 135831 | [135831-mech-n-parcel.json](./135831-mech-n-parcel.json) |
 | Mech Ops 2092 | 401622 | [401622-mech-ops-2092.json](./401622-mech-ops-2092.json) |
@@ -1514,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
 | Mech_Romancer | 134590 | [134590-mech-romancer.json](./134590-mech-romancer.json) |
 | Mecha Ace | 17745 | [17745-mecha-ace.json](./17745-mecha-ace.json) |
+| Mecha Jump | 365786 | [365786-mecha-jump.json](./365786-mecha-jump.json) |
 | Mecha Knights: Nightmare 2 | 377069 | [377069-mecha-knights-nightmare-2.json](./377069-mecha-knights-nightmare-2.json) |
 | Mecha Ritz: Steel Rondo 2.0 | 229042 | [229042-mecha-ritz-steel-rondo-2-0.json](./229042-mecha-ritz-steel-rondo-2-0.json) |
 | Mecha Storm | 102747 | [102747-mecha-storm.json](./102747-mecha-storm.json) |
@@ -4486,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musicus! | 185708 | [185708-musicus.json](./185708-musicus.json) |
 | MusicVR Episode 1: Tr3s Lunas | 70978 | [70978-musicvr-episode-1-tr3s-lunas.json](./70978-musicvr-episode-1-tr3s-lunas.json) |
 | MusicVR Episode 2: Maestro | 71447 | [71447-musicvr-episode-2-maestro.json](./71447-musicvr-episode-2-maestro.json) |
+| Musketeer | 365793 | [365793-musketeer.json](./365793-musketeer.json) |
 | Musketeer Growth | 208967 | [208967-musketeer-growth.json](./208967-musketeer-growth.json) |
 | Must Flee | 223434 | [223434-must-flee.json](./223434-must-flee.json) |
 | Musuko to Oyome-sama: Wakeari Tsuma ha Jirai-kei Doronuma Story | 240229 | [240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json](./240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json) |
