@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeppelin | 23871 | [23871-zeppelin.json](./23871-zeppelin.json) |
 | Zera: Myths Awaken | 115069 | [115069-zera-myths-awaken.json](./115069-zera-myths-awaken.json) |
 | Zeran's Folly | 54496 | [54496-zerans-folly.json](./54496-zerans-folly.json) |
+| Zereoton Hauntings | 360662 | [360662-zereoton-hauntings.json](./360662-zereoton-hauntings.json) |
 | Zeriliah Chronicles | 153924 | [153924-zeriliah-chronicles.json](./153924-zeriliah-chronicles.json) |
 | Zerko | 289878 | [289878-zerko.json](./289878-zerko.json) |
 | Zero 5 | 40818 | [40818-zero-5.json](./40818-zero-5.json) |
@@ -408,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Survival | 212487 | [212487-zombie-survival.json](./212487-zombie-survival.json) |
 | Zombie Survival | 231077 | [231077-zombie-survival.json](./231077-zombie-survival.json) |
 | Zombie Survival 3D | 409578 | [409578-zombie-survival-3d.json](./409578-zombie-survival-3d.json) |
+| Zombie Survivor | 360682 | [360682-zombie-survivor.json](./360682-zombie-survivor.json) |
 | Zombie Sweeper | 99580 | [99580-zombie-sweeper.json](./99580-zombie-sweeper.json) |
 | Zombie Swipeout | 254555 | [254555-zombie-swipeout.json](./254555-zombie-swipeout.json) |
 | Zombie Tactics | 314671 | [314671-zombie-tactics.json](./314671-zombie-tactics.json) |
