@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T14:11:40.844Z",
-  "total_missing": 74145,
+  "generated_at": "2026-09-15T14:18:54.488Z",
+  "total_missing": 74195,
   "games": [
     {
       "igdb_id": 306086,
@@ -28553,6 +28553,11 @@
       "file": "missing/B/105294-beasts-and-chests.json"
     },
     {
+      "igdb_id": 352255,
+      "game_name": "Beasts of Fortune",
+      "file": "missing/B/352255-beasts-of-fortune.json"
+    },
+    {
       "igdb_id": 265940,
       "game_name": "Beasts of Horror",
       "file": "missing/B/265940-beasts-of-horror.json"
@@ -29611,6 +29616,11 @@
       "igdb_id": 255344,
       "game_name": "Belladonna's Flight",
       "file": "missing/B/255344-belladonnas-flight.json"
+    },
+    {
+      "igdb_id": 352257,
+      "game_name": "Bellatores",
+      "file": "missing/B/352257-bellatores.json"
     },
     {
       "igdb_id": 150127,
@@ -32296,6 +32306,11 @@
       "igdb_id": 299741,
       "game_name": "Bird Jumper",
       "file": "missing/B/299741-bird-jumper.json"
+    },
+    {
+      "igdb_id": 352264,
+      "game_name": "Bird Like",
+      "file": "missing/B/352264-bird-like.json"
     },
     {
       "igdb_id": 65254,
@@ -48623,6 +48638,11 @@
       "file": "missing/C/114333-catalyst.json"
     },
     {
+      "igdb_id": 352260,
+      "game_name": "Catalyst",
+      "file": "missing/C/352260-catalyst.json"
+    },
+    {
       "igdb_id": 175914,
       "game_name": "Catan",
       "file": "missing/C/175914-catan.json"
@@ -59506,6 +59526,11 @@
       "igdb_id": 300700,
       "game_name": "Connect the World",
       "file": "missing/C/300700-connect-the-world.json"
+    },
+    {
+      "igdb_id": 352256,
+      "game_name": "Connect Word",
+      "file": "missing/C/352256-connect-word.json"
     },
     {
       "igdb_id": 87696,
@@ -112243,6 +112268,11 @@
       "file": "missing/F/149535-four-course-combat.json"
     },
     {
+      "igdb_id": 352265,
+      "game_name": "Four Divine Abidings",
+      "file": "missing/F/352265-four-divine-abidings.json"
+    },
+    {
       "igdb_id": 67269,
       "game_name": "Four Flush",
       "file": "missing/F/67269-four-flush.json"
@@ -112566,6 +112596,11 @@
       "igdb_id": 26551,
       "game_name": "Fracture the Flag",
       "file": "missing/F/26551-fracture-the-flag.json"
+    },
+    {
+      "igdb_id": 352290,
+      "game_name": "Fractured Balance",
+      "file": "missing/F/352290-fractured-balance.json"
     },
     {
       "igdb_id": 102871,
@@ -114611,6 +114646,11 @@
       "igdb_id": 349325,
       "game_name": "Fruit Mart Simulator",
       "file": "missing/F/349325-fruit-mart-simulator.json"
+    },
+    {
+      "igdb_id": 352285,
+      "game_name": "Fruit Ninja vs Skittles",
+      "file": "missing/F/352285-fruit-ninja-vs-skittles.json"
     },
     {
       "igdb_id": 400979,
@@ -116793,6 +116833,11 @@
       "file": "missing/G/75190-galactic-orbital-death-sport.json"
     },
     {
+      "igdb_id": 352259,
+      "game_name": "Galactic Overlord",
+      "file": "missing/G/352259-galactic-overlord.json"
+    },
+    {
       "igdb_id": 208049,
       "game_name": "Galactic Pioneer",
       "file": "missing/G/208049-galactic-pioneer.json"
@@ -117563,6 +117608,11 @@
       "file": "missing/G/348766-game-of-hearts.json"
     },
     {
+      "igdb_id": 352258,
+      "game_name": "Game of Hearts",
+      "file": "missing/G/352258-game-of-hearts.json"
+    },
+    {
       "igdb_id": 194023,
       "game_name": "Game of Legends: Rise of Champions",
       "file": "missing/G/194023-game-of-legends-rise-of-champions.json"
@@ -118086,6 +118136,11 @@
       "igdb_id": 295257,
       "game_name": "Garden City Bundle",
       "file": "missing/G/295257-garden-city-bundle.json"
+    },
+    {
+      "igdb_id": 352263,
+      "game_name": "Garden Hunt",
+      "file": "missing/G/352263-garden-hunt.json"
     },
     {
       "igdb_id": 198625,
@@ -130133,6 +130188,11 @@
       "file": "missing/H/294436-halloween-the-twelve-cards-curse.json"
     },
     {
+      "igdb_id": 352304,
+      "game_name": "Halloweenies",
+      "file": "missing/H/352304-halloweenies.json"
+    },
+    {
       "igdb_id": 135866,
       "game_name": "Hallrunner",
       "file": "missing/H/135866-hallrunner.json"
@@ -131501,6 +131561,11 @@
       "igdb_id": 94221,
       "game_name": "Hardline",
       "file": "missing/H/94221-hardline.json"
+    },
+    {
+      "igdb_id": 352289,
+      "game_name": "Hardly Workin'",
+      "file": "missing/H/352289-hardly-workin.json"
     },
     {
       "igdb_id": 29976,
@@ -148691,6 +148756,11 @@
       "igdb_id": 39013,
       "game_name": "Infinite Dunamis",
       "file": "missing/I/39013-infinite-dunamis.json"
+    },
+    {
+      "igdb_id": 352291,
+      "game_name": "Infinite Einstein Tiles",
+      "file": "missing/I/352291-infinite-einstein-tiles.json"
     },
     {
       "igdb_id": 362908,
@@ -176081,6 +176151,11 @@
       "igdb_id": 335659,
       "game_name": "Luigi: Insanity",
       "file": "missing/L/335659-luigi-insanity.json"
+    },
+    {
+      "igdb_id": 352300,
+      "game_name": "Luigi's Boo Hunt",
+      "file": "missing/L/352300-luigis-boo-hunt.json"
     },
     {
       "igdb_id": 259267,
@@ -218363,6 +218438,11 @@
       "file": "missing/O/179155-our-place.json"
     },
     {
+      "igdb_id": 352266,
+      "game_name": "Our Summer Festival 2",
+      "file": "missing/O/352266-our-summer-festival-2.json"
+    },
+    {
       "igdb_id": 263774,
       "game_name": "Our Tribe Above All",
       "file": "missing/O/263774-our-tribe-above-all.json"
@@ -223221,6 +223301,11 @@
       "igdb_id": 215691,
       "game_name": "Pathfinder: Wrath of the Righteous - The Treasure of the Midnight Isles",
       "file": "missing/P/215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json"
+    },
+    {
+      "igdb_id": 352293,
+      "game_name": "Pathless Maze TD",
+      "file": "missing/P/352293-pathless-maze-td.json"
     },
     {
       "igdb_id": 172705,
@@ -243488,6 +243573,11 @@
       "file": "missing/R/109711-ragnania-hd.json"
     },
     {
+      "igdb_id": 352296,
+      "game_name": "Ragnar",
+      "file": "missing/R/352296-ragnar.json"
+    },
+    {
       "igdb_id": 156112,
       "game_name": "Ragnar's Chinese Memory Game",
       "file": "missing/R/156112-ragnars-chinese-memory-game.json"
@@ -249963,6 +250053,11 @@
       "file": "missing/R/334494-revenant-in-memory-of-the-day.json"
     },
     {
+      "igdb_id": 352288,
+      "game_name": "Revenant: Through the Veil",
+      "file": "missing/R/352288-revenant-through-the-veil.json"
+    },
+    {
       "igdb_id": 190154,
       "game_name": "Revenants: Spirit & Mind",
       "file": "missing/R/190154-revenants-spirit-and-mind.json"
@@ -251273,6 +251368,76 @@
       "file": "missing/R/38902-rift-mobile.json"
     },
     {
+      "igdb_id": 352268,
+      "game_name": "Rift of the NecroDancer: Celeste - \"Confronting Myself\"",
+      "file": "missing/R/352268-rift-of-the-necrodancer-celeste-confronting-myself.json"
+    },
+    {
+      "igdb_id": 352270,
+      "game_name": "Rift of the NecroDancer: Celeste - \"Reach for the Summit\"",
+      "file": "missing/R/352270-rift-of-the-necrodancer-celeste-reach-for-the-summit.json"
+    },
+    {
+      "igdb_id": 352269,
+      "game_name": "Rift of the NecroDancer: Celeste - \"Resurrections\"",
+      "file": "missing/R/352269-rift-of-the-necrodancer-celeste-resurrections.json"
+    },
+    {
+      "igdb_id": 352267,
+      "game_name": "Rift of the NecroDancer: Celeste - \"Scattered and Lost\"",
+      "file": "missing/R/352267-rift-of-the-necrodancer-celeste-scattered-and-lost.json"
+    },
+    {
+      "igdb_id": 352279,
+      "game_name": "Rift of the NecroDancer: Hatsune Miku - \"Intergalactic Bound\"",
+      "file": "missing/R/352279-rift-of-the-necrodancer-hatsune-miku-intergalactic-bound.json"
+    },
+    {
+      "igdb_id": 352278,
+      "game_name": "Rift of the NecroDancer: Hatsune Miku - \"Just 1dB Louder\"",
+      "file": "missing/R/352278-rift-of-the-necrodancer-hatsune-miku-just-1db-louder.json"
+    },
+    {
+      "igdb_id": 352276,
+      "game_name": "Rift of the NecroDancer: Hatsune Miku - \"M@gical Cure! Love Shot!\"",
+      "file": "missing/R/352276-rift-of-the-necrodancer-hatsune-miku-m-gical-cure-love-shot.json"
+    },
+    {
+      "igdb_id": 352275,
+      "game_name": "Rift of the NecroDancer: Hatsune Miku - \"MikuFiesta\"",
+      "file": "missing/R/352275-rift-of-the-necrodancer-hatsune-miku-mikufiesta.json"
+    },
+    {
+      "igdb_id": 352277,
+      "game_name": "Rift of the NecroDancer: Hatsune Miku - \"Radiant Revival\"",
+      "file": "missing/R/352277-rift-of-the-necrodancer-hatsune-miku-radiant-revival.json"
+    },
+    {
+      "igdb_id": 352283,
+      "game_name": "Rift of the NecroDancer: hololive - \"Ahoy!! Warera Takara Kane Kaizoku-dan☆\"",
+      "file": "missing/R/352283-rift-of-the-necrodancer-hololive-ahoy-warera-takara-kane-kaizoku-dan.json"
+    },
+    {
+      "igdb_id": 352280,
+      "game_name": "Rift of the NecroDancer: hololive - \"Bibbidiba\"",
+      "file": "missing/R/352280-rift-of-the-necrodancer-hololive-bibbidiba.json"
+    },
+    {
+      "igdb_id": 352281,
+      "game_name": "Rift of the NecroDancer: hololive - \"Carbonated Love\"",
+      "file": "missing/R/352281-rift-of-the-necrodancer-hololive-carbonated-love.json"
+    },
+    {
+      "igdb_id": 352284,
+      "game_name": "Rift of the NecroDancer: hololive - \"Play Dice!\"",
+      "file": "missing/R/352284-rift-of-the-necrodancer-hololive-play-dice.json"
+    },
+    {
+      "igdb_id": 352282,
+      "game_name": "Rift of the NecroDancer: Hololive - \"Reflect\"",
+      "file": "missing/R/352282-rift-of-the-necrodancer-hololive-reflect.json"
+    },
+    {
       "igdb_id": 375961,
       "game_name": "Rift of the NecroDancer: Monstercat - \"Crab Rave\"",
       "file": "missing/R/375961-rift-of-the-necrodancer-monstercat-crab-rave.json"
@@ -251296,6 +251461,26 @@
       "igdb_id": 375960,
       "game_name": "Rift of the NecroDancer: Monstercat - \"Waiting For You feat. Joanna Jones\"",
       "file": "missing/R/375960-rift-of-the-necrodancer-monstercat-waiting-for-you-feat-joanna-jones.json"
+    },
+    {
+      "igdb_id": 352271,
+      "game_name": "Rift of the NecroDancer: Pizza Tower - \"It's Pizza Time!\"",
+      "file": "missing/R/352271-rift-of-the-necrodancer-pizza-tower-its-pizza-time.json"
+    },
+    {
+      "igdb_id": 352272,
+      "game_name": "Rift of the NecroDancer: Pizza Tower - \"The Death That I Deservioli\"",
+      "file": "missing/R/352272-rift-of-the-necrodancer-pizza-tower-the-death-that-i-deservioli.json"
+    },
+    {
+      "igdb_id": 352273,
+      "game_name": "Rift of the NecroDancer: Pizza Tower - \"Unexpectancy, Pt. 3\"",
+      "file": "missing/R/352273-rift-of-the-necrodancer-pizza-tower-unexpectancy-pt-3.json"
+    },
+    {
+      "igdb_id": 352274,
+      "game_name": "Rift of the NecroDancer: Pizza Tower - \"World Wide Noise\"",
+      "file": "missing/R/352274-rift-of-the-necrodancer-pizza-tower-world-wide-noise.json"
     },
     {
       "igdb_id": 375964,
@@ -258071,6 +258256,11 @@
       "igdb_id": 236806,
       "game_name": "RWBY: Vale of Darkness",
       "file": "missing/R/236806-rwby-vale-of-darkness.json"
+    },
+    {
+      "igdb_id": 352286,
+      "game_name": "RWSD",
+      "file": "missing/R/352286-rwsd.json"
     },
     {
       "igdb_id": 324312,
@@ -277023,6 +277213,11 @@
       "file": "missing/S/316096-snow-fight.json"
     },
     {
+      "igdb_id": 352295,
+      "game_name": "Snow Forest",
+      "file": "missing/S/352295-snow-forest.json"
+    },
+    {
       "igdb_id": 29782,
       "game_name": "Snow Games VR",
       "file": "missing/S/29782-snow-games-vr.json"
@@ -279131,6 +279326,11 @@
       "igdb_id": 310952,
       "game_name": "Sonic 2006",
       "file": "missing/S/310952-sonic-2006.json"
+    },
+    {
+      "igdb_id": 352302,
+      "game_name": "Sonic 2006 2D",
+      "file": "missing/S/352302-sonic-2006-2d.json"
     },
     {
       "igdb_id": 201293,
@@ -283028,6 +283228,11 @@
       "file": "missing/S/95397-spacebound.json"
     },
     {
+      "igdb_id": 352297,
+      "game_name": "SpaceCorp: 2025-2300AD",
+      "file": "missing/S/352297-spacecorp-2025-2300ad.json"
+    },
+    {
       "igdb_id": 296360,
       "game_name": "Spaced Out",
       "file": "missing/S/296360-spaced-out.json"
@@ -286366,6 +286571,11 @@
       "igdb_id": 208591,
       "game_name": "Square",
       "file": "missing/S/208591-square.json"
+    },
+    {
+      "igdb_id": 352292,
+      "game_name": "Square & Circles",
+      "file": "missing/S/352292-square-and-circles.json"
     },
     {
       "igdb_id": 7815,
@@ -300883,6 +301093,11 @@
       "file": "missing/S/258992-sweet-girl-gurumelo.json"
     },
     {
+      "igdb_id": 352294,
+      "game_name": "Sweet Girls Collection",
+      "file": "missing/S/352294-sweet-girls-collection.json"
+    },
+    {
       "igdb_id": 207810,
       "game_name": "Sweet Home: Design & Blast",
       "file": "missing/S/207810-sweet-home-design-and-blast.json"
@@ -308028,6 +308243,11 @@
       "file": "missing/T/158701-terminal-singularity.json"
     },
     {
+      "igdb_id": 352299,
+      "game_name": "Terminal Toilet Simulator",
+      "file": "missing/T/352299-terminal-toilet-simulator.json"
+    },
+    {
       "igdb_id": 273403,
       "game_name": "Terminal V",
       "file": "missing/T/273403-terminal-v.json"
@@ -308066,6 +308286,11 @@
       "igdb_id": 185151,
       "game_name": "Terminull",
       "file": "missing/T/185151-terminull.json"
+    },
+    {
+      "igdb_id": 352261,
+      "game_name": "Terminus",
+      "file": "missing/T/352261-terminus.json"
     },
     {
       "igdb_id": 230287,
@@ -315876,6 +316101,11 @@
       "igdb_id": 17440,
       "game_name": "The House",
       "file": "missing/T/17440-the-house.json"
+    },
+    {
+      "igdb_id": 352303,
+      "game_name": "The House",
+      "file": "missing/T/352303-the-house.json"
     },
     {
       "igdb_id": 189124,
@@ -332163,6 +332393,11 @@
       "file": "missing/T/405478-to-the-home.json"
     },
     {
+      "igdb_id": 352287,
+      "game_name": "To the Kingdom",
+      "file": "missing/T/352287-to-the-kingdom.json"
+    },
+    {
       "igdb_id": 331128,
       "game_name": "To the Mountain",
       "file": "missing/T/331128-to-the-mountain.json"
@@ -334268,6 +334503,11 @@
       "file": "missing/T/180183-torchure.json"
     },
     {
+      "igdb_id": 352262,
+      "game_name": "Torchure",
+      "file": "missing/T/352262-torchure.json"
+    },
+    {
       "igdb_id": 144687,
       "game_name": "Toree 3D",
       "file": "missing/T/144687-toree-3d.json"
@@ -335651,6 +335891,11 @@
       "igdb_id": 54466,
       "game_name": "Tower and Guardian",
       "file": "missing/T/54466-tower-and-guardian.json"
+    },
+    {
+      "igdb_id": 352301,
+      "game_name": "Tower Attack",
+      "file": "missing/T/352301-tower-attack.json"
     },
     {
       "igdb_id": 9453,
@@ -340566,6 +340811,11 @@
       "igdb_id": 298050,
       "game_name": "Trouble of Tabu",
       "file": "missing/T/298050-trouble-of-tabu.json"
+    },
+    {
+      "igdb_id": 352254,
+      "game_name": "Troubled Waters",
+      "file": "missing/T/352254-troubled-waters.json"
     },
     {
       "igdb_id": 129346,
