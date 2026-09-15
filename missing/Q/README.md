@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Lake | 26604 | [26604-quantum-lake.json](./26604-quantum-lake.json) |
 | Quantum Legend - vr show | 115604 | [115604-quantum-legend-vr-show.json](./115604-quantum-legend-vr-show.json) |
 | Quantum Lock | 34189 | [34189-quantum-lock.json](./34189-quantum-lock.json) |
+| Quantum of Hope | 352846 | [352846-quantum-of-hope.json](./352846-quantum-of-hope.json) |
 | Quantum Phantom Basketball | 252766 | [252766-quantum-phantom-basketball.json](./252766-quantum-phantom-basketball.json) |
 | Quantum Qitty | 180799 | [180799-quantum-qitty.json](./180799-quantum-qitty.json) |
 | Quantum Rush Champions | 17726 | [17726-quantum-rush-champions.json](./17726-quantum-rush-champions.json) |
