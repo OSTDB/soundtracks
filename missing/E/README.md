@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of You | 252365 | [252365-echoes-of-you.json](./252365-echoes-of-you.json) |
 | Echoes of You | 306346 | [306346-echoes-of-you.json](./306346-echoes-of-you.json) |
 | Echoes: Operation Stranglehold | 334666 | [334666-echoes-operation-stranglehold.json](./334666-echoes-operation-stranglehold.json) |
+| Echoes: Season 1 - Greenhearth | 366902 | [366902-echoes-season-1-greenhearth.json](./366902-echoes-season-1-greenhearth.json) |
 | EchoEvade | 386295 | [386295-echoevade.json](./386295-echoevade.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
 | EchtegP | 254789 | [254789-echtegp.json](./254789-echtegp.json) |
