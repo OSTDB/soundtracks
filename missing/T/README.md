@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taboo Trial: Deluxe Edition | 315850 | [315850-taboo-trial-deluxe-edition.json](./315850-taboo-trial-deluxe-edition.json) |
 | Taboo Village: Romance Card Game | 415953 | [415953-taboo-village-romance-card-game.json](./415953-taboo-village-romance-card-game.json) |
 | Tabu Oyunu XL - Pro | 105950 | [105950-tabu-oyunu-xl-pro.json](./105950-tabu-oyunu-xl-pro.json) |
+| Tabula | 376545 | [376545-tabula.json](./376545-tabula.json) |
 | Tabulo | 337994 | [337994-tabulo.json](./337994-tabulo.json) |
 | Tachanka Simulator | 312906 | [312906-tachanka-simulator.json](./312906-tachanka-simulator.json) |
 | Tachyon Fire | 410916 | [410916-tachyon-fire.json](./410916-tachyon-fire.json) |
@@ -571,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
 | Tanokai Chapter 1 | 178571 | [178571-tanokai-chapter-1.json](./178571-tanokai-chapter-1.json) |
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
+| Tansaikigou: Sec Life, Monochrome Cube | 376603 | [376603-tansaikigou-sec-life-monochrome-cube.json](./376603-tansaikigou-sec-life-monochrome-cube.json) |
 | Tantal | 159801 | [159801-tantal.json](./159801-tantal.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Kouhen | 41414 | [41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json](./41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Zenpen | 41413 | [41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json](./41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json) |
@@ -1595,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bigs 2 | 4716 | [4716-the-bigs-2.json](./4716-the-bigs-2.json) |
 | The Bikini Bottom Massacre | 269582 | [269582-the-bikini-bottom-massacre.json](./269582-the-bikini-bottom-massacre.json) |
 | The Binding of You | 83551 | [83551-the-binding-of-you.json](./83551-the-binding-of-you.json) |
+| The Biorift | 376550 | [376550-the-biorift.json](./376550-the-biorift.json) |
 | The Bird Museum | 182545 | [182545-the-bird-museum.json](./182545-the-bird-museum.json) |
 | The Bird's Realm 3 | 201805 | [201805-the-birds-realm-3.json](./201805-the-birds-realm-3.json) |
 | The Bitmap Brothers Collection 2 | 325242 | [325242-the-bitmap-brothers-collection-2.json](./325242-the-bitmap-brothers-collection-2.json) |
@@ -1906,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crown of Wu | 198497 | [198497-the-crown-of-wu.json](./198497-the-crown-of-wu.json) |
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
+| The Cryptokiller | 376542 | [376542-the-cryptokiller.json](./376542-the-cryptokiller.json) |
 | The Crypts | 268469 | [268469-the-crypts.json](./268469-the-crypts.json) |
 | The Crypts of Anak Shaba | 30188 | [30188-the-crypts-of-anak-shaba.json](./30188-the-crypts-of-anak-shaba.json) |
 | The Crystal Golem | 152273 | [152273-the-crystal-golem.json](./152273-the-crystal-golem.json) |
@@ -3129,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Corsairs of Umbar | 275928 | [275928-the-lord-of-the-rings-online-corsairs-of-umbar.json](./275928-the-lord-of-the-rings-online-corsairs-of-umbar.json) |
 | The Lord of the Rings Online: Fate of Gundabad | 275926 | [275926-the-lord-of-the-rings-online-fate-of-gundabad.json](./275926-the-lord-of-the-rings-online-fate-of-gundabad.json) |
 | The Lord of the Rings Online: Kingdoms of Harad | 380534 | [380534-the-lord-of-the-rings-online-kingdoms-of-harad.json](./380534-the-lord-of-the-rings-online-kingdoms-of-harad.json) |
+| The Lord of the Rings Online: Legacy of Morgoth | 376581 | [376581-the-lord-of-the-rings-online-legacy-of-morgoth.json](./376581-the-lord-of-the-rings-online-legacy-of-morgoth.json) |
 | The Lord of the Rings Online: Minas Morgul | 275924 | [275924-the-lord-of-the-rings-online-minas-morgul.json](./275924-the-lord-of-the-rings-online-minas-morgul.json) |
 | The Lord of the Rings Online: Quest Pack: Legacy of the Necromancer | 384536 | [384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json](./384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json) |
 | The Lord of the Rings Online: Quest Pack: The Vales of Anduin | 384540 | [384540-the-lord-of-the-rings-online-quest-pack-the-vales-of-anduin.json](./384540-the-lord-of-the-rings-online-quest-pack-the-vales-of-anduin.json) |
@@ -3718,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road to Hades | 96354 | [96354-the-road-to-hades.json](./96354-the-road-to-hades.json) |
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
 | The Rocket Jumper | 232965 | [232965-the-rocket-jumper.json](./232965-the-rocket-jumper.json) |
+| The Rodionov postulate (pale-particle duality) | 376607 | [376607-the-rodionov-postulate-pale-particle-duality.json](./376607-the-rodionov-postulate-pale-particle-duality.json) |
 | The Rolling Room | 309893 | [309893-the-rolling-room.json](./309893-the-rolling-room.json) |
 | The Rollingball's Melody | 34308 | [34308-the-rollingballs-melody.json](./34308-the-rollingballs-melody.json) |
 | The Roof | 23418 | [23418-the-roof.json](./23418-the-roof.json) |
@@ -3754,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
 | The Safeguard Garrison 2 | 28899 | [28899-the-safeguard-garrison-2.json](./28899-the-safeguard-garrison-2.json) |
 | The Saga of Nino's Transmigration | 120389 | [120389-the-saga-of-ninos-transmigration.json](./120389-the-saga-of-ninos-transmigration.json) |
+| The Saint Wife’s Newlywed Trials | 376560 | [376560-the-saint-wife-s-newlywed-trials.json](./376560-the-saint-wife-s-newlywed-trials.json) |
 | The Salatroitsk Incident | 180807 | [180807-the-salatroitsk-incident.json](./180807-the-salatroitsk-incident.json) |
 | The Salt Fortress | 28860 | [28860-the-salt-fortress.json](./28860-the-salt-fortress.json) |
 | The Sandbox | 182468 | [182468-the-sandbox.json](./182468-the-sandbox.json) |
@@ -6061,6 +6068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TomeNet | 98397 | [98397-tomenet.json](./98397-tomenet.json) |
 | Tomes and Quests: Nemesis Campaign | 241665 | [241665-tomes-and-quests-nemesis-campaign.json](./241665-tomes-and-quests-nemesis-campaign.json) |
 | Tomica de Asobou! | 327612 | [327612-tomica-de-asobou.json](./327612-tomica-de-asobou.json) |
+| Tomika Town o Tsukurou! | 376536 | [376536-tomika-town-o-tsukurou.json](./376536-tomika-town-o-tsukurou.json) |
 | Tommy Is My Hero! | 272853 | [272853-tommy-is-my-hero.json](./272853-tommy-is-my-hero.json) |
 | Tommygun's Frag | 387516 | [387516-tommyguns-frag.json](./387516-tommyguns-frag.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
@@ -7430,6 +7438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator Drive USA: EVO | 383516 | [383516-truck-simulator-drive-usa-evo.json](./383516-truck-simulator-drive-usa-evo.json) |
 | Truck Simulator PRO 2 | 88947 | [88947-truck-simulator-pro-2.json](./88947-truck-simulator-pro-2.json) |
 | Truck Simulator PRO 2016 | 89133 | [89133-truck-simulator-pro-2016.json](./89133-truck-simulator-pro-2016.json) |
+| Truck Simulator US Driver | 376580 | [376580-truck-simulator-us-driver.json](./376580-truck-simulator-us-driver.json) |
 | Truck Simulator: European Roads | 383514 | [383514-truck-simulator-european-roads.json](./383514-truck-simulator-european-roads.json) |
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
