@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigface Marsh | 179179 | [179179-bigface-marsh.json](./179179-bigface-marsh.json) |
 | BigFool | 307942 | [307942-bigfool.json](./307942-bigfool.json) |
 | Bigfoot Bonkers | 18117 | [18117-bigfoot-bonkers.json](./18117-bigfoot-bonkers.json) |
+| Bigfoot Hunting | 353950 | [353950-bigfoot-hunting.json](./353950-bigfoot-hunting.json) |
 | Bigfoot Monster Hunter | 97050 | [97050-bigfoot-monster-hunter.json](./97050-bigfoot-monster-hunter.json) |
 | Bigfoot vs. Scots | 244257 | [244257-bigfoot-vs-scots.json](./244257-bigfoot-vs-scots.json) |
 | Biggest Impossible Ramp Ever | 100895 | [100895-biggest-impossible-ramp-ever.json](./100895-biggest-impossible-ramp-ever.json) |
@@ -2255,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Bay | 150604 | [150604-blacksmith-bay.json](./150604-blacksmith-bay.json) |
 | Blacksmith Forger | 231063 | [231063-blacksmith-forger.json](./231063-blacksmith-forger.json) |
 | Blacksmith Legends | 159348 | [159348-blacksmith-legends.json](./159348-blacksmith-legends.json) |
+| Blacksmith Simulator | 353951 | [353951-blacksmith-simulator.json](./353951-blacksmith-simulator.json) |
 | Blacksmith Village | 156109 | [156109-blacksmith-village.json](./156109-blacksmith-village.json) |
 | Blacksmith War | 201803 | [201803-blacksmith-war.json](./201803-blacksmith-war.json) |
 | Blacksmith Weapon Merchant | 213987 | [213987-blacksmith-weapon-merchant.json](./213987-blacksmith-weapon-merchant.json) |
