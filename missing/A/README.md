@@ -448,7 +448,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of the Cat Leopold | 53166 | [53166-adventures-of-the-cat-leopold.json](./53166-adventures-of-the-cat-leopold.json) |
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
-| Ae | 184042 | [184042-ae.json](./184042-ae.json) |
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aequitas Orbis | 75064 | [75064-aequitas-orbis.json](./75064-aequitas-orbis.json) |
