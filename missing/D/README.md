@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadwater Saloon | 190136 | [190136-deadwater-saloon.json](./190136-deadwater-saloon.json) |
 | DeadWire | 332252 | [332252-deadwire.json](./332252-deadwire.json) |
 | Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
+| Deadzone: Rogue - Apophis | 373616 | [373616-deadzone-rogue-apophis.json](./373616-deadzone-rogue-apophis.json) |
 | Dealer's Life | 114063 | [114063-dealers-life.json](./114063-dealers-life.json) |
 | Dear Blue | 297470 | [297470-dear-blue.json](./297470-dear-blue.json) |
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
@@ -1072,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
 | Deckline | 342637 | [342637-deckline.json](./342637-deckline.json) |
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
+| Deckout | 373663 | [373663-deckout.json](./373663-deckout.json) |
 | Decks & Dungeons | 149574 | [149574-decks-and-dungeons.json](./149574-decks-and-dungeons.json) |
 | Deckstrander | 257938 | [257938-deckstrander.json](./257938-deckstrander.json) |
 | Decktamer | 291367 | [291367-decktamer.json](./291367-decktamer.json) |
@@ -3496,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Bubblez | 103491 | [103491-dream-bubblez.json](./103491-dream-bubblez.json) |
 | Dream C Club: Host Girls on Stage | 62711 | [62711-dream-c-club-host-girls-on-stage.json](./62711-dream-c-club-host-girls-on-stage.json) |
 | Dream Car Racing 3D | 32896 | [32896-dream-car-racing-3d.json](./32896-dream-car-racing-3d.json) |
+| Dream Cat Paradise | 374175 | [374175-dream-cat-paradise.json](./374175-dream-cat-paradise.json) |
 | Dream Catchers | 164448 | [164448-dream-catchers.json](./164448-dream-catchers.json) |
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
 | Dream Chronicles 2: The Eternal Maze | 50502 | [50502-dream-chronicles-2-the-eternal-maze.json](./50502-dream-chronicles-2-the-eternal-maze.json) |
