@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggerland: Souzou he no Tabidachi | 41338 | [41338-eggerland-souzou-he-no-tabidachi.json](./41338-eggerland-souzou-he-no-tabidachi.json) |
 | Egghead Gumpty | 210852 | [210852-egghead-gumpty.json](./210852-egghead-gumpty.json) |
 | Eggies | 233770 | [233770-eggies.json](./233770-eggies.json) |
+| Egglets: The Long 10 Days | 372022 | [372022-egglets-the-long-10-days.json](./372022-egglets-the-long-10-days.json) |
 | Egglia Rebirth | 187474 | [187474-egglia-rebirth.json](./187474-egglia-rebirth.json) |
 | Egglia: Legend of the Redcap Offline | 107144 | [107144-egglia-legend-of-the-redcap-offline.json](./107144-egglia-legend-of-the-redcap-offline.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
@@ -1391,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etherium | 401481 | [401481-etherium.json](./401481-etherium.json) |
 | Etherjump | 219071 | [219071-etherjump.json](./219071-etherjump.json) |
 | Ethernal War | 152855 | [152855-ethernal-war.json](./152855-ethernal-war.json) |
+| Ethernia | 371979 | [371979-ethernia.json](./371979-ethernia.json) |
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
 | Eto-cetera In no Maki | 113729 | [113729-eto-cetera-in-no-maki.json](./113729-eto-cetera-in-no-maki.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
@@ -1671,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
 | Ex/l | 376446 | [376446-ex-l.json](./376446-ex-l.json) |
 | Ex0 Escape | 211208 | [211208-ex0-escape.json](./211208-ex0-escape.json) |
+| Exanimora | 371959 | [371959-exanimora.json](./371959-exanimora.json) |
 | Exanimum: The Silent Call | 290410 | [290410-exanimum-the-silent-call.json](./290410-exanimum-the-silent-call.json) |
 | Excalibur 2555 A.D. | 15514 | [15514-excalibur-2555-a-d.json](./15514-excalibur-2555-a-d.json) |
 | Excavate Diamond | 228111 | [228111-excavate-diamond.json](./228111-excavate-diamond.json) |
