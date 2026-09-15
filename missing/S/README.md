@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safe Journey | 175941 | [175941-safe-journey.json](./175941-safe-journey.json) |
 | Safe Robber | 256283 | [256283-safe-robber.json](./256283-safe-robber.json) |
 | Safe Squares | 159833 | [159833-safe-squares.json](./159833-safe-squares.json) |
+| Safe Zone | 342744 | [342744-safe-zone.json](./342744-safe-zone.json) |
 | Safebreaker | 296373 | [296373-safebreaker.json](./296373-safebreaker.json) |
 | Safecracker | 24002 | [24002-safecracker.json](./24002-safecracker.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
@@ -1446,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Service of Five Graces | 395046 | [395046-service-of-five-graces.json](./395046-service-of-five-graces.json) |
 | Sesame Street Beat | 220108 | [220108-sesame-street-beat.json](./220108-sesame-street-beat.json) |
 | Sesame Street Fighter | 339673 | [339673-sesame-street-fighter.json](./339673-sesame-street-fighter.json) |
+| Sesame Street Mecha Builders | 342765 | [342765-sesame-street-mecha-builders.json](./342765-sesame-street-mecha-builders.json) |
 | Sesame Street Sports | 49916 | [49916-sesame-street-sports.json](./49916-sesame-street-sports.json) |
 | Sesame Street: 1-2-3 | 78035 | [78035-sesame-street-1-2-3.json](./78035-sesame-street-1-2-3.json) |
 | Sesame Street: Elmo Says | 384072 | [384072-sesame-street-elmo-says.json](./384072-sesame-street-elmo-says.json) |
@@ -1503,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sever the Wicked! | 363470 | [363470-sever-the-wicked.json](./363470-sever-the-wicked.json) |
 | Severance | 196235 | [196235-severance.json](./196235-severance.json) |
 | Severance | 327843 | [327843-severance.json](./327843-severance.json) |
+| Severed Love | 342754 | [342754-severed-love.json](./342754-severed-love.json) |
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
 | Sewage | 202329 | [202329-sewage.json](./202329-sewage.json) |
 | Sewer Call | 407454 | [407454-sewer-call.json](./407454-sewer-call.json) |
@@ -2791,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
 | Singalongsong | 302932 | [302932-singalongsong.json](./302932-singalongsong.json) |
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
+| Single's Inferno: Choices | 342743 | [342743-singles-inferno-choices.json](./342743-singles-inferno-choices.json) |
 | Singmetosleep | 392762 | [392762-singmetosleep.json](./392762-singmetosleep.json) |
 | SingStar | 15180 | [15180-singstar.json](./15180-singstar.json) |
 | Singstar Aprés-Ski Party | 136394 | [136394-singstar-apres-ski-party.json](./136394-singstar-apres-ski-party.json) |
@@ -4673,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulless | 195790 | [195790-soulless.json](./195790-soulless.json) |
 | Soulmask | 272600 | [272600-soulmask.json](./272600-soulmask.json) |
 | Soulmask: Shifting Sands | 370724 | [370724-soulmask-shifting-sands.json](./370724-soulmask-shifting-sands.json) |
+| SoulPactum | 342773 | [342773-soulpactum.json](./342773-soulpactum.json) |
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
 | Souls | 261255 | [261255-souls.json](./261255-souls.json) |
 | Souls Divided | 410228 | [410228-souls-divided.json](./410228-souls-divided.json) |
@@ -4886,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Junkies | 37080 | [37080-space-junkies.json](./37080-space-junkies.json) |
 | Space Kabaam: Dagger | 392284 | [392284-space-kabaam-dagger.json](./392284-space-kabaam-dagger.json) |
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
+| Space KaBAAM: Neon II | 342725 | [342725-space-kabaam-neon-ii.json](./342725-space-kabaam-neon-ii.json) |
 | Space Kabaam: Neon III | 353968 | [353968-space-kabaam-neon-iii.json](./353968-space-kabaam-neon-iii.json) |
 | Space Kadet | 123598 | [123598-space-kadet.json](./123598-space-kadet.json) |
 | Space Kids | 69806 | [69806-space-kids.json](./69806-space-kids.json) |
@@ -7478,6 +7484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine Farm | 333005 | [333005-sunshine-farm.json](./333005-sunshine-farm.json) |
 | Sunshine Heavy Industries | 146834 | [146834-sunshine-heavy-industries.json](./146834-sunshine-heavy-industries.json) |
 | Sunshine Island | 237647 | [237647-sunshine-island.json](./237647-sunshine-island.json) |
+| Sunshine Love | 342763 | [342763-sunshine-love.json](./342763-sunshine-love.json) |
 | Sunshine Mahou no Mori | 66062 | [66062-sunshine-mahou-no-mori.json](./66062-sunshine-mahou-no-mori.json) |
 | Sunshine Secret Book 64 | 132838 | [132838-sunshine-secret-book-64.json](./132838-sunshine-secret-book-64.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
