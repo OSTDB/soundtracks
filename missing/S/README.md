@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scenery Disk 6 | 86024 | [86024-scenery-disk-6.json](./86024-scenery-disk-6.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
 | Scent of Sorrow | 362290 | [362290-scent-of-sorrow.json](./362290-scent-of-sorrow.json) |
+| Scepter of Kzirgla | 356688 | [356688-scepter-of-kzirgla.json](./356688-scepter-of-kzirgla.json) |
 | Sceptorn | 391211 | [391211-sceptorn.json](./391211-sceptorn.json) |
 | Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
 | SchattenJagd | 98954 | [98954-schattenjagd.json](./98954-schattenjagd.json) |
@@ -788,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scions of Fate | 72656 | [72656-scions-of-fate.json](./72656-scions-of-fate.json) |
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
 | Scoober Splat! | 151165 | [151165-scoober-splat.json](./151165-scoober-splat.json) |
+| Scooby Doc 4: The Destroyer | 356757 | [356757-scooby-doc-4-the-destroyer.json](./356757-scooby-doc-4-the-destroyer.json) |
 | Scooby Doo: Horror of the High Seas - Episode 3: Reef Relief | 337126 | [337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json](./337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json) |
 | Scooby Doo: The Motion Picture | 57641 | [57641-scooby-doo-the-motion-picture.json](./57641-scooby-doo-the-motion-picture.json) |
 | Scooby-Doo | 2856 | [2856-scooby-doo.json](./2856-scooby-doo.json) |
@@ -3212,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepy Sunday | 152834 | [152834-sleepy-sunday.json](./152834-sleepy-sunday.json) |
 | Sleeve Shock | 257956 | [257956-sleeve-shock.json](./257956-sleeve-shock.json) |
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
+| Slender Man Retro | 356683 | [356683-slender-man-retro.json](./356683-slender-man-retro.json) |
 | Slender Man: Chapter 1 - Alone | 63821 | [63821-slender-man-chapter-1-alone.json](./63821-slender-man-chapter-1-alone.json) |
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
@@ -6487,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Up | 319949 | [319949-stick-up.json](./319949-stick-up.json) |
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
+| Sticker Business | 356738 | [356738-sticker-business.json](./356738-sticker-business.json) |
 | Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
 | Stickfight Battle | 197328 | [197328-stickfight-battle.json](./197328-stickfight-battle.json) |
 | Stickman 3D Tennis: Deluxe | 404210 | [404210-stickman-3d-tennis-deluxe.json](./404210-stickman-3d-tennis-deluxe.json) |
@@ -6679,6 +6683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Horizons | 384499 | [384499-strange-horizons.json](./384499-strange-horizons.json) |
 | Strange Horticulture | 186597 | [186597-strange-horticulture.json](./186597-strange-horticulture.json) |
+| Strange Investigations: Truth Will Out - Collector's Edition | 356764 | [356764-strange-investigations-truth-will-out-collectors-edition.json](./356764-strange-investigations-truth-will-out-collectors-edition.json) |
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
 | Strange New Tides | 339660 | [339660-strange-new-tides.json](./339660-strange-new-tides.json) |
 | Strange Night | 32248 | [32248-strange-night.json](./32248-strange-night.json) |
@@ -7251,6 +7256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Horrordays | 177492 | [177492-summer-horrordays.json](./177492-summer-horrordays.json) |
 | Summer in Mara + Deiland Bundle | 188018 | [188018-summer-in-mara-deiland-bundle.json](./188018-summer-in-mara-deiland-bundle.json) |
 | Summer In Memoria | 196784 | [196784-summer-in-memoria.json](./196784-summer-in-memoria.json) |
+| Summer In The City | 356733 | [356733-summer-in-the-city.json](./356733-summer-in-the-city.json) |
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
