@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T11:49:09.525Z",
-  "total_missing": 73734,
+  "generated_at": "2026-09-15T11:51:33.295Z",
+  "total_missing": 73733,
   "games": [
     {
       "igdb_id": 306086,
@@ -5206,11 +5206,6 @@
       "igdb_id": 35770,
       "game_name": "Aftermath",
       "file": "missing/A/35770-aftermath.json"
-    },
-    {
-      "igdb_id": 63880,
-      "game_name": "Aftermoon",
-      "file": "missing/A/63880-aftermoon.json"
     },
     {
       "igdb_id": 121650,
