@@ -514,7 +514,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
-| AfterZoom | 84884 | [84884-afterzoom.json](./84884-afterzoom.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
 | AG Drive | 54693 | [54693-ag-drive.json](./54693-ag-drive.json) |
 | Again | 117019 | [117019-again.json](./117019-again.json) |
