@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth and Sky | 9427 | [9427-earth-and-sky.json](./9427-earth-and-sky.json) |
 | Earth and Sky 2: Another Earth, Another Sky | 9504 | [9504-earth-and-sky-2-another-earth-another-sky.json](./9504-earth-and-sky-2-another-earth-another-sky.json) |
 | Earth and Sky 3: Luminous Horizon | 9505 | [9505-earth-and-sky-3-luminous-horizon.json](./9505-earth-and-sky-3-luminous-horizon.json) |
+| Earth Atlantis 2 | 352842 | [352842-earth-atlantis-2.json](./352842-earth-atlantis-2.json) |
 | Earth Brigades | 204085 | [204085-earth-brigades.json](./204085-earth-brigades.json) |
 | Earth Command | 45933 | [45933-earth-command.json](./45933-earth-command.json) |
 | Earth Defender | 112318 | [112318-earth-defender.json](./112318-earth-defender.json) |
@@ -897,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
 | Endless Silent Night | 404330 | [404330-endless-silent-night.json](./404330-endless-silent-night.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
+| Endless TV Tycoon | 352855 | [352855-endless-tv-tycoon.json](./352855-endless-tv-tycoon.json) |
 | Endless Voyage | 150090 | [150090-endless-voyage.json](./150090-endless-voyage.json) |
 | Endless War | 234911 | [234911-endless-war.json](./234911-endless-war.json) |
 | Endless War 2 | 234916 | [234916-endless-war-2.json](./234916-endless-war-2.json) |
