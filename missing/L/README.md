@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is a Race | 199086 | [199086-life-is-a-race.json](./199086-life-is-a-race.json) |
 | Life is Magic | 64426 | [64426-life-is-magic.json](./64426-life-is-magic.json) |
 | Life is Strange 2: Episode 4 - Faith | 119055 | [119055-life-is-strange-2-episode-4-faith.json](./119055-life-is-strange-2-episode-4-faith.json) |
+| Life is Strange Collection | 361759 | [361759-life-is-strange-collection.json](./361759-life-is-strange-collection.json) |
 | Life is Strange: Before the Storm - Deluxe Edition | 53273 | [53273-life-is-strange-before-the-storm-deluxe-edition.json](./53273-life-is-strange-before-the-storm-deluxe-edition.json) |
 | Life is Strange: Before the Storm Remastered | 144776 | [144776-life-is-strange-before-the-storm-remastered.json](./144776-life-is-strange-before-the-storm-remastered.json) |
 | Life is Strange: True Colors | 144765 | [144765-life-is-strange-true-colors.json](./144765-life-is-strange-true-colors.json) |
@@ -1216,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminalphobia | 149555 | [149555-liminalphobia.json](./149555-liminalphobia.json) |
 | Liminoid | 413643 | [413643-liminoid.json](./413643-liminoid.json) |
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
+| Limit Zero Breakers | 361763 | [361763-limit-zero-breakers.json](./361763-limit-zero-breakers.json) |
 | Limits of Intelligence | 301821 | [301821-limits-of-intelligence.json](./301821-limits-of-intelligence.json) |
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
 | Linch | 80978 | [80978-linch.json](./80978-linch.json) |
@@ -1599,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked in Love: The Office | 407465 | [407465-locked-in-love-the-office.json](./407465-locked-in-love-the-office.json) |
 | Locked Together | 405617 | [405617-locked-together.json](./405617-locked-together.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
+| LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
 | Loco-Sort | 272265 | [272265-loco-sort.json](./272265-loco-sort.json) |
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
 | Locomotion | 117048 | [117048-locomotion.json](./117048-locomotion.json) |
@@ -2320,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
 | Lupin the 3rd: The Shooting | 39594 | [39594-lupin-the-3rd-the-shooting.json](./39594-lupin-the-3rd-the-shooting.json) |
 | Lupo Alberto: The VideoGame | 98958 | [98958-lupo-alberto-the-videogame.json](./98958-lupo-alberto-the-videogame.json) |
+| Luqman Reloaded | 361742 | [361742-luqman-reloaded.json](./361742-luqman-reloaded.json) |
 | Lure | 139953 | [139953-lure.json](./139953-lure.json) |
 | Lurk and Rouse | 217316 | [217316-lurk-and-rouse.json](./217316-lurk-and-rouse.json) |
 | Lurk in Abyss | 390141 | [390141-lurk-in-abyss.json](./390141-lurk-in-abyss.json) |
