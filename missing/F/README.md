@@ -2393,11 +2393,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortix 2 | 15024 | [15024-fortix-2.json](./15024-fortix-2.json) |
 | Fortnight: Elite Commando Action 2 | 103396 | [103396-fortnight-elite-commando-action-2.json](./103396-fortnight-elite-commando-action-2.json) |
 | Fortnite Ballistic | 325281 | [325281-fortnite-ballistic.json](./325281-fortnite-ballistic.json) |
+| Fortnite Festival: Better Off Alone | 372011 | [372011-fortnite-festival-better-off-alone.json](./372011-fortnite-festival-better-off-alone.json) |
+| Fortnite Festival: Born This Way | 372008 | [372008-fortnite-festival-born-this-way.json](./372008-fortnite-festival-born-this-way.json) |
+| Fortnite Festival: Radioactive | 372009 | [372009-fortnite-festival-radioactive.json](./372009-fortnite-festival-radioactive.json) |
 | Fortnite Festival: Season 1 | 383943 | [383943-fortnite-festival-season-1.json](./383943-fortnite-festival-season-1.json) |
 | Fortnite Festival: Season 11 | 384110 | [384110-fortnite-festival-season-11.json](./384110-fortnite-festival-season-11.json) |
 | Fortnite Festival: Season 12 | 384111 | [384111-fortnite-festival-season-12.json](./384111-fortnite-festival-season-12.json) |
 | Fortnite Festival: Season 14 | 403035 | [403035-fortnite-festival-season-14.json](./403035-fortnite-festival-season-14.json) |
 | Fortnite Festival: Season 3 | 299445 | [299445-fortnite-festival-season-3.json](./299445-fortnite-festival-season-3.json) |
+| Fortnite Festival: Uptown Funk | 372010 | [372010-fortnite-festival-uptown-funk.json](./372010-fortnite-festival-uptown-funk.json) |
 | Fortnite OG | 324915 | [324915-fortnite-og.json](./324915-fortnite-og.json) |
 | Fortnite Reload | 324921 | [324921-fortnite-reload.json](./324921-fortnite-reload.json) |
 | Fortnite: Agency Renegades Pack | 325855 | [325855-fortnite-agency-renegades-pack.json](./325855-fortnite-agency-renegades-pack.json) |
