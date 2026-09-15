@@ -1604,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Investigation: Who Did It? | 177042 | [177042-hidden-investigation-who-did-it.json](./177042-hidden-investigation-who-did-it.json) |
 | Hidden Kingdom: Top-Down 3D | 257068 | [257068-hidden-kingdom-top-down-3d.json](./257068-hidden-kingdom-top-down-3d.json) |
 | Hidden Lands | 343784 | [343784-hidden-lands.json](./343784-hidden-lands.json) |
+| Hidden Legacy: Dark Heirloom - Collector's Edition | 360637 | [360637-hidden-legacy-dark-heirloom-collectors-edition.json](./360637-hidden-legacy-dark-heirloom-collectors-edition.json) |
 | Hidden Mysteries: Return to Titanic | 206730 | [206730-hidden-mysteries-return-to-titanic.json](./206730-hidden-mysteries-return-to-titanic.json) |
 | Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
@@ -1981,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoD: On open seas | 90612 | [90612-hod-on-open-seas.json](./90612-hod-on-open-seas.json) |
 | Hodl: The God of Crypto | 97922 | [97922-hodl-the-god-of-crypto.json](./97922-hodl-the-god-of-crypto.json) |
 | HodlGod | 175895 | [175895-hodlgod.json](./175895-hodlgod.json) |
+| Hog Heist | 360645 | [360645-hog-heist.json](./360645-hog-heist.json) |
 | Hoggy 2 | 28916 | [28916-hoggy-2.json](./28916-hoggy-2.json) |
 | Hoglands | 231651 | [231651-hoglands.json](./231651-hoglands.json) |
 | Hogwash | 125386 | [125386-hogwash.json](./125386-hogwash.json) |
@@ -2231,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook Master | 152939 | [152939-hook-master.json](./152939-hook-master.json) |
 | Hook Worlds | 91941 | [91941-hook-worlds.json](./91941-hook-worlds.json) |
 | Hook-Kick | 406219 | [406219-hook-kick.json](./406219-hook-kick.json) |
+| Hook, Line, and Axe | 360652 | [360652-hook-line-and-axe.json](./360652-hook-line-and-axe.json) |
 | Hook, Line, and Spelunker | 214730 | [214730-hook-line-and-spelunker.json](./214730-hook-line-and-spelunker.json) |
 | Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
 | HookCat | 159267 | [159267-hookcat.json](./159267-hookcat.json) |
@@ -2693,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanity Is Dead | 181302 | [181302-humanity-is-dead.json](./181302-humanity-is-dead.json) |
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
 | Humanity's Fall | 392296 | [392296-humanitys-fall.json](./392296-humanitys-fall.json) |
+| Humanity's Last Hope | 360657 | [360657-humanitys-last-hope.json](./360657-humanitys-last-hope.json) |
 | Humankind: Cultures of Africa | 188046 | [188046-humankind-cultures-of-africa.json](./188046-humankind-cultures-of-africa.json) |
 | Humankind: Cultures of Latin America | 204362 | [204362-humankind-cultures-of-latin-america.json](./204362-humankind-cultures-of-latin-america.json) |
 | Humankind: Day One Edition | 139935 | [139935-humankind-day-one-edition.json](./139935-humankind-day-one-edition.json) |
