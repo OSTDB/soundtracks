@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
 | Fallow | 56437 | [56437-fallow.json](./56437-fallow.json) |
+| Fallsaga | 355127 | [355127-fallsaga.json](./355127-fallsaga.json) |
 | Fallstreak 2: Traum | 364604 | [364604-fallstreak-2-traum.json](./364604-fallstreak-2-traum.json) |
 | Falnarion Tactics: Oathbreaker | 158730 | [158730-falnarion-tactics-oathbreaker.json](./158730-falnarion-tactics-oathbreaker.json) |
 | False Front | 97920 | [97920-false-front.json](./97920-false-front.json) |
@@ -1081,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Fury | 44627 | [44627-fighting-fury.json](./44627-fighting-fury.json) |
 | Fighting Hero | 48582 | [48582-fighting-hero.json](./48582-fighting-hero.json) |
 | Fighting Hero III | 48581 | [48581-fighting-hero-iii.json](./48581-fighting-hero-iii.json) |
+| Fighting Ice Hockey | 355122 | [355122-fighting-ice-hockey.json](./355122-fighting-ice-hockey.json) |
 | Fighting Layer | 39552 | [39552-fighting-layer.json](./39552-fighting-layer.json) |
 | Fighting of School | 306953 | [306953-fighting-of-school.json](./306953-fighting-of-school.json) |
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
@@ -3031,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frutiger Space | 366227 | [366227-frutiger-space.json](./366227-frutiger-space.json) |
 | Frutz | 405530 | [405530-frutz.json](./405530-frutz.json) |
 | FTB Academy | 396938 | [396938-ftb-academy.json](./396938-ftb-academy.json) |
+| FTB Evolution | 355091 | [355091-ftb-evolution.json](./355091-ftb-evolution.json) |
 | FTD: Fixin' to Die | 177560 | [177560-ftd-fixin-to-die.json](./177560-ftd-fixin-to-die.json) |
 | FTL: Advanced Edition | 20098 | [20098-ftl-advanced-edition.json](./20098-ftl-advanced-edition.json) |
 | FTL: Multiverse | 203369 | [203369-ftl-multiverse.json](./203369-ftl-multiverse.json) |
