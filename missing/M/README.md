@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Màoxiǎn Xiǎofēnduì | 370228 | [370228-maoxian-xiaofendui.json](./370228-maoxian-xiaofendui.json) |
 | Map Snap | 112338 | [112338-map-snap.json](./112338-map-snap.json) |
 | MapGame | 341893 | [341893-mapgame.json](./341893-mapgame.json) |
+| Maple and Aluna | 369124 | [369124-maple-and-aluna.json](./369124-maple-and-aluna.json) |
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
 | MapleStory | 9804 | [9804-maplestory.json](./9804-maplestory.json) |
 | MapleStory Classic | 411557 | [411557-maplestory-classic.json](./411557-maplestory-classic.json) |
@@ -3349,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mominesweeper | 224005 | [224005-mominesweeper.json](./224005-mominesweeper.json) |
 | Mommy Don't Hurt Me Mommy Don't Hurt Me Mommy Don't Hurt Me | 398327 | [398327-mommy-dont-hurt-me-mommy-dont-hurt-me-mommy-dont-hurt-me.json](./398327-mommy-dont-hurt-me-mommy-dont-hurt-me-mommy-dont-hurt-me.json) |
 | Mommy-Goddess of Unconditional Love ~Wow, You Sure Gave It Your All Out There!~ | 353289 | [353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json](./353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json) |
+| Momo Bunny: Cash Me or Crash Me!! | 369117 | [369117-momo-bunny-cash-me-or-crash-me.json](./369117-momo-bunny-cash-me-or-crash-me.json) |
 | Momo Mother Bird: Final Story | 209483 | [209483-momo-mother-bird-final-story.json](./209483-momo-mother-bird-final-story.json) |
 | Momo.exe 2 | 110175 | [110175-momo-exe-2.json](./110175-momo-exe-2.json) |
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
@@ -4087,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
 | Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
 | Mount Farewell | 221178 | [221178-mount-farewell.json](./221178-mount-farewell.json) |
+| Mount Lomyst | 369112 | [369112-mount-lomyst.json](./369112-mount-lomyst.json) |
 | Mountain 78 | 338212 | [338212-mountain-78.json](./338212-mountain-78.json) |
 | Mountain Biker | 116402 | [116402-mountain-biker.json](./116402-mountain-biker.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
