@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QS Asteroids | 319593 | [319593-qs-asteroids.json](./319593-qs-asteroids.json) |
 | QS Defender | 319594 | [319594-qs-defender.json](./319594-qs-defender.json) |
 | QS Scramble | 319595 | [319595-qs-scramble.json](./319595-qs-scramble.json) |
+| Quaantuum Strike | 336021 | [336021-quaantuum-strike.json](./336021-quaantuum-strike.json) |
 | Quacker Blaster | 63286 | [63286-quacker-blaster.json](./63286-quacker-blaster.json) |
 | Quacktown Smackdown | 239062 | [239062-quacktown-smackdown.json](./239062-quacktown-smackdown.json) |
 | Quad Dice Defence | 195157 | [195157-quad-dice-defence.json](./195157-quad-dice-defence.json) |
