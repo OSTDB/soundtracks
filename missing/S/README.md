@@ -3623,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Party | 29906 | [29906-snake-party.json](./29906-snake-party.json) |
 | Snake Pass | 19220 | [19220-snake-pass.json](./19220-snake-pass.json) |
 | Snake Plissken's Escape | 67295 | [67295-snake-plisskens-escape.json](./67295-snake-plisskens-escape.json) |
+| Snake Princess | 350536 | [350536-snake-princess.json](./350536-snake-princess.json) |
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
 | Snake Roy | 210642 | [210642-snake-roy.json](./210642-snake-roy.json) |
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
@@ -6119,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
 | StarGazers | 245873 | [245873-stargazers.json](./245873-stargazers.json) |
+| Stargazing 64 | 350523 | [350523-stargazing-64.json](./350523-stargazing-64.json) |
 | Stargazing: Genesis | 195705 | [195705-stargazing-genesis.json](./195705-stargazing-genesis.json) |
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
@@ -6569,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Dark at Dawn | 111028 | [111028-still-dark-at-dawn.json](./111028-still-dark-at-dawn.json) |
 | Still Heroes | 197963 | [197963-still-heroes.json](./197963-still-heroes.json) |
 | Still House | 366887 | [366887-still-house.json](./366887-still-house.json) |
+| Still It Runs | 350527 | [350527-still-it-runs.json](./350527-still-it-runs.json) |
 | Still Joking | 221425 | [221425-still-joking.json](./221425-still-joking.json) |
 | Still Life 2 - Director's Cut | 100723 | [100723-still-life-2-directors-cut.json](./100723-still-life-2-directors-cut.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
@@ -6940,6 +6943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | String Theory | 294149 | [294149-string-theory.json](./294149-string-theory.json) |
 | String.io | 108445 | [108445-string-io.json](./108445-string-io.json) |
 | Strinova | 260136 | [260136-strinova.json](./260136-strinova.json) |
+| Strinova Mobile | 350533 | [350533-strinova-mobile.json](./350533-strinova-mobile.json) |
 | Strip 4: Classmate Study | 130057 | [130057-strip-4-classmate-study.json](./130057-strip-4-classmate-study.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
@@ -8019,6 +8023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Retro Retry | 273399 | [273399-super-retro-retry.json](./273399-super-retro-retry.json) |
 | Super Retro World | 157172 | [157172-super-retro-world.json](./157172-super-retro-world.json) |
 | Super Rhythm Duel | 127213 | [127213-super-rhythm-duel.json](./127213-super-rhythm-duel.json) |
+| Super Rising Ball | 350485 | [350485-super-rising-ball.json](./350485-super-rising-ball.json) |
 | Super Robolom | 83485 | [83485-super-robolom.json](./83485-super-robolom.json) |
 | Super Robot Taisen A Portable | 79841 | [79841-super-robot-taisen-a-portable.json](./79841-super-robot-taisen-a-portable.json) |
 | Super Robot Taisen F | 46667 | [46667-super-robot-taisen-f.json](./46667-super-robot-taisen-f.json) |
