@@ -1112,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
 | Deck Warlords | 110304 | [110304-deck-warlords.json](./110304-deck-warlords.json) |
 | Deck'n'Bag | 402362 | [402362-decknbag.json](./402362-decknbag.json) |
+| Deckbane | 347782 | [347782-deckbane.json](./347782-deckbane.json) |
 | DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
 | Deckline | 342637 | [342637-deckline.json](./342637-deckline.json) |
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
@@ -2726,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll | 97852 | [97852-doll.json](./97852-doll.json) |
 | Doll Defenders | 293622 | [293622-doll-defenders.json](./293622-doll-defenders.json) |
 | Doll Explorer Prologue | 151658 | [151658-doll-explorer-prologue.json](./151658-doll-explorer-prologue.json) |
+| Doll Parts | 347793 | [347793-doll-parts.json](./347793-doll-parts.json) |
 | Doll Recollect | 299737 | [299737-doll-recollect.json](./299737-doll-recollect.json) |
 | Doll's Ingram | 131585 | [131585-dolls-ingram.json](./131585-dolls-ingram.json) |
 | Dollal Simulator 2018 | 89261 | [89261-dollal-simulator-2018.json](./89261-dollal-simulator-2018.json) |
@@ -3020,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Blues | 13604 | [13604-doomsday-blues.json](./13604-doomsday-blues.json) |
 | Doomsday Cleaner | 320542 | [320542-doomsday-cleaner.json](./320542-doomsday-cleaner.json) |
 | Doomsday Comet 2 | 175337 | [175337-doomsday-comet-2.json](./175337-doomsday-comet-2.json) |
+| Doomsday Dealer | 347769 | [347769-doomsday-dealer.json](./347769-doomsday-dealer.json) |
 | Doomsday Derby | 249192 | [249192-doomsday-derby.json](./249192-doomsday-derby.json) |
 | Doomsday Dispute | 192386 | [192386-doomsday-dispute.json](./192386-doomsday-dispute.json) |
 | Doomsday of UAC | 252367 | [252367-doomsday-of-uac.json](./252367-doomsday-of-uac.json) |
@@ -3595,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
 | Dread X Collection 3 | 140041 | [140041-dread-x-collection-3.json](./140041-dread-x-collection-3.json) |
 | Dread X Collection: The Hunt | 145624 | [145624-dread-x-collection-the-hunt.json](./145624-dread-x-collection-the-hunt.json) |
+| Dreadbone | 347786 | [347786-dreadbone.json](./347786-dreadbone.json) |
 | DreadBound | 382895 | [382895-dreadbound.json](./382895-dreadbound.json) |
 | Dreader | 176487 | [176487-dreader.json](./176487-dreader.json) |
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
