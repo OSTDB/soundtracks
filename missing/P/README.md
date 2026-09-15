@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi Para 15: Super Sea in Okinawa 2 | 65538 | [65538-pachi-para-15-super-sea-in-okinawa-2.json](./65538-pachi-para-15-super-sea-in-okinawa-2.json) |
 | Pachi-Pachi Typing | 397100 | [397100-pachi-pachi-typing.json](./397100-pachi-pachi-typing.json) |
 | Pachicom | 41396 | [41396-pachicom.json](./41396-pachicom.json) |
+| Pachiko | 357310 | [357310-pachiko.json](./357310-pachiko.json) |
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
 | Pachinko GP | 41395 | [41395-pachinko-gp.json](./41395-pachinko-gp.json) |
 | Pachinko Kamen Rider | 91885 | [91885-pachinko-kamen-rider.json](./91885-pachinko-kamen-rider.json) |
@@ -161,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PaintBall War 2 | 154464 | [154464-paintball-war-2.json](./154464-paintball-war-2.json) |
 | Paintboss - Car Painting VR | 75909 | [75909-paintboss-car-painting-vr.json](./75909-paintboss-car-painting-vr.json) |
 | Paintbrush Warrior | 339130 | [339130-paintbrush-warrior.json](./339130-paintbrush-warrior.json) |
+| Paintcan Panic | 357352 | [357352-paintcan-panic.json](./357352-paintcan-panic.json) |
 | Painted Kingdoms | 392796 | [392796-painted-kingdoms.json](./392796-painted-kingdoms.json) |
 | Painted Legend | 31896 | [31896-painted-legend.json](./31896-painted-legend.json) |
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
@@ -2504,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Snap 3DS | 401507 | [401507-pokemon-snap-3ds.json](./401507-pokemon-snap-3ds.json) |
 | Pokémon Solar Eclipse | 399594 | [399594-pokemon-solar-eclipse.json](./399594-pokemon-solar-eclipse.json) |
 | Pokémon Stadium 2 | 2290 | [2290-pokemon-stadium-2.json](./2290-pokemon-stadium-2.json) |
+| Pokémon Stadium Club | 357347 | [357347-pokemon-stadium-club.json](./357347-pokemon-stadium-club.json) |
 | Pokémon Starwish | 394849 | [394849-pokemon-starwish.json](./394849-pokemon-starwish.json) |
 | Pokémon Sweet 2th | 141822 | [141822-pokemon-sweet-2th.json](./141822-pokemon-sweet-2th.json) |
 | Pokémon Sword & Pokémon Shield Double Pack | 115652 | [115652-pokemon-sword-and-pokemon-shield-double-pack.json](./115652-pokemon-sword-and-pokemon-shield-double-pack.json) |
