@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Duty 1 | 249444 | [249444-little-duty-1.json](./249444-little-duty-1.json) |
 | Little Fighter 2 | 8700 | [8700-little-fighter-2.json](./8700-little-fighter-2.json) |
 | Little Fighter Online | 79905 | [79905-little-fighter-online.json](./79905-little-fighter-online.json) |
+| Little Fish Seek to Live On | 370189 | [370189-little-fish-seek-to-live-on.json](./370189-little-fish-seek-to-live-on.json) |
 | Little Fox: Bubble Spinner | 296074 | [296074-little-fox-bubble-spinner.json](./296074-little-fox-bubble-spinner.json) |
 | Little Friends: Dogs & Cats | 110337 | [110337-little-friends-dogs-and-cats.json](./110337-little-friends-dogs-and-cats.json) |
 | Little Frog Game | 229057 | [229057-little-frog-game.json](./229057-little-frog-game.json) |
@@ -1397,9 +1398,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nemo and the Guardians of Slumberland | 204380 | [204380-little-nemo-and-the-guardians-of-slumberland.json](./204380-little-nemo-and-the-guardians-of-slumberland.json) |
 | Little Nemo the Clown | 213609 | [213609-little-nemo-the-clown.json](./213609-little-nemo-the-clown.json) |
 | Little Nightmares II: Deluxe Edition | 154511 | [154511-little-nightmares-ii-deluxe-edition.json](./154511-little-nightmares-ii-deluxe-edition.json) |
+| Little Nightmares III: Dark Six Costumes Set | 370223 | [370223-little-nightmares-iii-dark-six-costumes-set.json](./370223-little-nightmares-iii-dark-six-costumes-set.json) |
+| Little Nightmares III: Ferryman Costumes Set | 370222 | [370222-little-nightmares-iii-ferryman-costumes-set.json](./370222-little-nightmares-iii-ferryman-costumes-set.json) |
 | Little Nightmares III: Klonoa Costumes Set | 375186 | [375186-little-nightmares-iii-klonoa-costumes-set.json](./375186-little-nightmares-iii-klonoa-costumes-set.json) |
 | Little Nightmares III: Nomes Costumes Set | 375187 | [375187-little-nightmares-iii-nomes-costumes-set.json](./375187-little-nightmares-iii-nomes-costumes-set.json) |
+| Little Nightmares III: Residents Costumes Pack | 370221 | [370221-little-nightmares-iii-residents-costumes-pack.json](./370221-little-nightmares-iii-residents-costumes-pack.json) |
 | Little Nightmares III: Second Additional Chapter | 375188 | [375188-little-nightmares-iii-second-additional-chapter.json](./375188-little-nightmares-iii-second-additional-chapter.json) |
+| Little Nightmares III: Secrets of The Spiral - Expansion Pass | 370224 | [370224-little-nightmares-iii-secrets-of-the-spiral-expansion-pass.json](./370224-little-nightmares-iii-secrets-of-the-spiral-expansion-pass.json) |
 | Little Nightmares III: The Backstage | 375185 | [375185-little-nightmares-iii-the-backstage.json](./375185-little-nightmares-iii-the-backstage.json) |
 | Little Nightmares: Enhanced Edition | 350903 | [350903-little-nightmares-enhanced-edition.json](./350903-little-nightmares-enhanced-edition.json) |
 | Little Number Daycare: Learn, Count, Say, Play for Toddlers | 409538 | [409538-little-number-daycare-learn-count-say-play-for-toddlers.json](./409538-little-number-daycare-learn-count-say-play-for-toddlers.json) |
@@ -1410,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Panda's Restaurant | 239916 | [239916-little-pandas-restaurant.json](./239916-little-pandas-restaurant.json) |
 | Little People | 57039 | [57039-little-people.json](./57039-little-people.json) |
 | Little Petsville Desktop | 401641 | [401641-little-petsville-desktop.json](./401641-little-petsville-desktop.json) |
+| Little Pilot | 370227 | [370227-little-pilot.json](./370227-little-pilot.json) |
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
 | Little Planet: Holiday Update | 380572 | [380572-little-planet-holiday-update.json](./380572-little-planet-holiday-update.json) |
 | Little Porp | 236301 | [236301-little-porp.json](./236301-little-porp.json) |
