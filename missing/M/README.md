@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MistWorld the after2 | 215367 | [215367-mistworld-the-after2.json](./215367-mistworld-the-after2.json) |
 | Misty Blue | 64387 | [64387-misty-blue.json](./64387-misty-blue.json) |
 | Misty's Idle Fishing | 372531 | [372531-mistys-idle-fishing.json](./372531-mistys-idle-fishing.json) |
+| Misuzu no Kuni | 341591 | [341591-misuzu-no-kuni.json](./341591-misuzu-no-kuni.json) |
 | Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
@@ -4501,6 +4502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mühle-Online | 84275 | [84275-muhle-online.json](./84275-muhle-online.json) |
 | Mujina: Maze Game VR | 261504 | [261504-mujina-maze-game-vr.json](./261504-mujina-maze-game-vr.json) |
 | Mukaeute Uchuu Gundan Galack | 66130 | [66130-mukaeute-uchuu-gundan-galack.json](./66130-mukaeute-uchuu-gundan-galack.json) |
+| Mukougawa no Reisetsu | 341594 | [341594-mukougawa-no-reisetsu.json](./341594-mukougawa-no-reisetsu.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
 | Multi Level Car Parking Simulator | 255738 | [255738-multi-level-car-parking-simulator.json](./255738-multi-level-car-parking-simulator.json) |
 | Multi Maze 3D | 221380 | [221380-multi-maze-3d.json](./221380-multi-maze-3d.json) |
