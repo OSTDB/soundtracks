@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Angel | 9388 | [9388-wasteland-angel.json](./9388-wasteland-angel.json) |
 | Wasteland Billionaire | 221391 | [221391-wasteland-billionaire.json](./221391-wasteland-billionaire.json) |
 | Wasteland Chronicles | 316648 | [316648-wasteland-chronicles.json](./316648-wasteland-chronicles.json) |
+| WasteLand Express | 368025 | [368025-wasteland-express.json](./368025-wasteland-express.json) |
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
 | Wastelanders | 362823 | [362823-wastelanders.json](./362823-wastelanders.json) |
 | Wat? | 244277 | [244277-wat.json](./244277-wat.json) |
@@ -1270,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will Walker | 147377 | [147377-will-walker.json](./147377-will-walker.json) |
 | Will Willis and the Temple of Hacha'Kyum | 70368 | [70368-will-willis-and-the-temple-of-hachakyum.json](./70368-will-willis-and-the-temple-of-hachakyum.json) |
 | Will: A Wonderful World | 34657 | [34657-will-a-wonderful-world.json](./34657-will-a-wonderful-world.json) |
+| Will: The Beginning | 368050 | [368050-will-the-beginning.json](./368050-will-the-beginning.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
 | Williams Arcade's Greatest Hits | 287084 | [287084-williams-arcades-greatest-hits.json](./287084-williams-arcades-greatest-hits.json) |
@@ -1437,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wired | 105334 | [105334-wired.json](./105334-wired.json) |
 | Wired | 307616 | [307616-wired.json](./307616-wired.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
+| Wise Escape From Prison | 368022 | [368022-wise-escape-from-prison.json](./368022-wise-escape-from-prison.json) |
 | Wise in the Heights | 358330 | [358330-wise-in-the-heights.json](./358330-wise-in-the-heights.json) |
 | Wiseguys | 123538 | [123538-wiseguys.json](./123538-wiseguys.json) |
 | Wish | 196225 | [196225-wish.json](./196225-wish.json) |
