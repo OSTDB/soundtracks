@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero x Hero | 406780 | [406780-hero-x-hero.json](./406780-hero-x-hero.json) |
 | Hero Zex | 191254 | [191254-hero-zex.json](./191254-hero-zex.json) |
 | Hero: Flood Rescue | 118428 | [118428-hero-flood-rescue.json](./118428-hero-flood-rescue.json) |
+| Hero's Advent | 361242 | [361242-heros-advent.json](./361242-heros-advent.json) |
 | Hero's Descent | 74363 | [74363-heros-descent.json](./74363-heros-descent.json) |
 | Hero's Everyday Life | 157706 | [157706-heros-everyday-life.json](./157706-heros-everyday-life.json) |
 | Hero's Hand | 335866 | [335866-heros-hand.json](./335866-heros-hand.json) |
@@ -2061,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
 | Holonglide | 106611 | [106611-holonglide.json](./106611-holonglide.json) |
 | Holopoint | 33147 | [33147-holopoint.json](./33147-holopoint.json) |
+| HoloRun | 361794 | [361794-holorun.json](./361794-holorun.json) |
 | Holotyping | 210245 | [210245-holotyping.json](./210245-holotyping.json) |
 | Holotz's Castle | 62145 | [62145-holotzs-castle.json](./62145-holotzs-castle.json) |
 | Holstin | 229035 | [229035-holstin.json](./229035-holstin.json) |
