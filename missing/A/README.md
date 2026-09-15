@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Rus vs. Lizards | 277013 | [277013-ancient-rus-vs-lizards.json](./277013-ancient-rus-vs-lizards.json) |
 | Ancient Russian Life Simulator | 278177 | [278177-ancient-russian-life-simulator.json](./278177-ancient-russian-life-simulator.json) |
 | Ancient Sacrifice | 236297 | [236297-ancient-sacrifice.json](./236297-ancient-sacrifice.json) |
+| Ancient Shadows: Awakening | 351121 | [351121-ancient-shadows-awakening.json](./351121-ancient-shadows-awakening.json) |
 | Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
 | Ancient Stories: Gods of Egypt | 119684 | [119684-ancient-stories-gods-of-egypt.json](./119684-ancient-stories-gods-of-egypt.json) |
 | Ancient Swarm | 410345 | [410345-ancient-swarm.json](./410345-ancient-swarm.json) |
@@ -2935,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Busters | 97349 | [97349-arrow-busters.json](./97349-arrow-busters.json) |
 | Arrow Dungeon | 351720 | [351720-arrow-dungeon.json](./351720-arrow-dungeon.json) |
 | Arrow Patterns | 267361 | [267361-arrow-patterns.json](./267361-arrow-patterns.json) |
+| Arrow Rain | 351122 | [351122-arrow-rain.json](./351122-arrow-rain.json) |
 | Arrow Snake | 135874 | [135874-arrow-snake.json](./135874-arrow-snake.json) |
 | Arrow Tourney | 127924 | [127924-arrow-tourney.json](./127924-arrow-tourney.json) |
 | Arrow Ventura VR | 132853 | [132853-arrow-ventura-vr.json](./132853-arrow-ventura-vr.json) |
