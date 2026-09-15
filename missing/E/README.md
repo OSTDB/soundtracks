@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
 | Eco Shooter: Plant 530 | 20506 | [20506-eco-shooter-plant-530.json](./20506-eco-shooter-plant-530.json) |
 | Eco-Creatures: Save the Forest | 21280 | [21280-eco-creatures-save-the-forest.json](./21280-eco-creatures-save-the-forest.json) |
+| Ecoco de Fight! | 342129 | [342129-ecoco-de-fight.json](./342129-ecoco-de-fight.json) |
 | EcoDriver | 233527 | [233527-ecodriver.json](./233527-ecodriver.json) |
 | EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
 | EcoQuest II: Lost Secret of the Rainforest | 7694 | [7694-ecoquest-ii-lost-secret-of-the-rainforest.json](./7694-ecoquest-ii-lost-secret-of-the-rainforest.json) |
@@ -1616,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
 | Evertree Inn | 30187 | [30187-evertree-inn.json](./30187-evertree-inn.json) |
 | Everwarder | 275578 | [275578-everwarder.json](./275578-everwarder.json) |
+| Everwind | 342138 | [342138-everwind.json](./342138-everwind.json) |
 | Every Child of Hameln | 413056 | [413056-every-child-of-hameln.json](./413056-every-child-of-hameln.json) |
 | Every Day Is Halloween | 280759 | [280759-every-day-is-halloween.json](./280759-every-day-is-halloween.json) |
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
