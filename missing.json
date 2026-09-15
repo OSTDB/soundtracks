@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T11:33:58.588Z",
-  "total_missing": 73684,
+  "generated_at": "2026-09-15T11:49:09.525Z",
+  "total_missing": 73734,
   "games": [
     {
       "igdb_id": 306086,
@@ -11818,6 +11818,11 @@
       "file": "missing/A/226776-angry-birds-racing.json"
     },
     {
+      "igdb_id": 357348,
+      "game_name": "Angry Birds Refresh",
+      "file": "missing/A/357348-angry-birds-refresh.json"
+    },
+    {
       "igdb_id": 102139,
       "game_name": "Angry Birds Seasons HD",
       "file": "missing/A/102139-angry-birds-seasons-hd.json"
@@ -14458,6 +14463,11 @@
       "file": "missing/A/7271-aquanauts-holiday-hidden-memories.json"
     },
     {
+      "igdb_id": 357313,
+      "game_name": "Aquanima",
+      "file": "missing/A/357313-aquanima.json"
+    },
+    {
       "igdb_id": 46629,
       "game_name": "Aquanoid",
       "file": "missing/A/46629-aquanoid.json"
@@ -16353,9 +16363,24 @@
       "file": "missing/A/360665-argonauts-agency-ares-games.json"
     },
     {
+      "igdb_id": 357334,
+      "game_name": "Argonauts Agency: Captive of Circe - Collectors Edition",
+      "file": "missing/A/357334-argonauts-agency-captive-of-circe-collectors-edition.json"
+    },
+    {
       "igdb_id": 188084,
       "game_name": "Argonauts Agency: Chair of Hephaestus",
       "file": "missing/A/188084-argonauts-agency-chair-of-hephaestus.json"
+    },
+    {
+      "igdb_id": 357335,
+      "game_name": "Argonauts Agency: Chair of Hephaestus - Collector's Edition",
+      "file": "missing/A/357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json"
+    },
+    {
+      "igdb_id": 357336,
+      "game_name": "Argonauts Agency: Glove of Midas - Collector's Edition",
+      "file": "missing/A/357336-argonauts-agency-glove-of-midas-collectors-edition.json"
     },
     {
       "igdb_id": 117094,
@@ -28643,6 +28668,11 @@
       "file": "missing/B/250646-beat-saber-queen-music-pack.json"
     },
     {
+      "igdb_id": 357351,
+      "game_name": "Beat Saber: Rock Mixtape",
+      "file": "missing/B/357351-beat-saber-rock-mixtape.json"
+    },
+    {
       "igdb_id": 357245,
       "game_name": "Beat Saber: Skrillex – \"Bangarang (feat. Sirah)\"",
       "file": "missing/B/357245-beat-saber-skrillex-bangarang-feat-sirah.json"
@@ -35843,6 +35873,11 @@
       "file": "missing/B/100146-blox-3d.json"
     },
     {
+      "igdb_id": 357299,
+      "game_name": "BloxAR",
+      "file": "missing/B/357299-bloxar.json"
+    },
+    {
       "igdb_id": 122428,
       "game_name": "Bloxicus",
       "file": "missing/B/122428-bloxicus.json"
@@ -40866,6 +40901,11 @@
       "igdb_id": 237041,
       "game_name": "Broken Note",
       "file": "missing/B/237041-broken-note.json"
+    },
+    {
+      "igdb_id": 357319,
+      "game_name": "Broken Pact",
+      "file": "missing/B/357319-broken-pact.json"
     },
     {
       "igdb_id": 162520,
@@ -55601,6 +55641,11 @@
       "igdb_id": 294143,
       "game_name": "Clone Hero: Guitar Hero Tracklist",
       "file": "missing/C/294143-clone-hero-guitar-hero-tracklist.json"
+    },
+    {
+      "igdb_id": 357350,
+      "game_name": "Clone-A-Doodle-Doo",
+      "file": "missing/C/357350-clone-a-doodle-doo.json"
     },
     {
       "igdb_id": 322999,
@@ -70683,6 +70728,11 @@
       "file": "missing/D/193506-daydream-mosaics-2-juliettes-tale.json"
     },
     {
+      "igdb_id": 357307,
+      "game_name": "Daydream Mosaics: Juliette's Collection",
+      "file": "missing/D/357307-daydream-mosaics-juliettes-collection.json"
+    },
+    {
       "igdb_id": 201240,
       "game_name": "Daydream: When Butterflies Dance",
       "file": "missing/D/201240-daydream-when-butterflies-dance.json"
@@ -83311,6 +83361,11 @@
       "igdb_id": 3475,
       "game_name": "Dr. Mario 64",
       "file": "missing/D/3475-dr-mario-64.json"
+    },
+    {
+      "igdb_id": 357345,
+      "game_name": "Dr. Mario Mania",
+      "file": "missing/D/357345-dr-mario-mania.json"
     },
     {
       "igdb_id": 42602,
@@ -109633,6 +109688,11 @@
       "file": "missing/F/109721-food-drive.json"
     },
     {
+      "igdb_id": 357318,
+      "game_name": "Food Fight",
+      "file": "missing/F/357318-food-fight.json"
+    },
+    {
       "igdb_id": 209465,
       "game_name": "Food Frenzy",
       "file": "missing/F/209465-food-frenzy.json"
@@ -111271,6 +111331,11 @@
       "igdb_id": 218172,
       "game_name": "Fortuna",
       "file": "missing/F/218172-fortuna.json"
+    },
+    {
+      "igdb_id": 357312,
+      "game_name": "Fortune",
+      "file": "missing/F/357312-fortune.json"
     },
     {
       "igdb_id": 105324,
@@ -121891,6 +121956,11 @@
       "igdb_id": 238719,
       "game_name": "Goblr: Goblin Date Night Simulator",
       "file": "missing/G/238719-goblr-goblin-date-night-simulator.json"
+    },
+    {
+      "igdb_id": 357303,
+      "game_name": "Gobo & Spike",
+      "file": "missing/G/357303-gobo-and-spike.json"
     },
     {
       "igdb_id": 260173,
@@ -144188,6 +144258,11 @@
       "file": "missing/I/40789-i-want-my-mommy.json"
     },
     {
+      "igdb_id": 357315,
+      "game_name": "I Want to Drive That Van",
+      "file": "missing/I/357315-i-want-to-drive-that-van.json"
+    },
+    {
       "igdb_id": 130363,
       "game_name": "I Want to Go to Mars",
       "file": "missing/I/130363-i-want-to-go-to-mars.json"
@@ -161151,6 +161226,11 @@
       "igdb_id": 2713,
       "game_name": "Kirby 64: The Crystal Shards",
       "file": "missing/K/2713-kirby-64-the-crystal-shards.json"
+    },
+    {
+      "igdb_id": 357344,
+      "game_name": "Kirby Air Ride Deluxe",
+      "file": "missing/K/357344-kirby-air-ride-deluxe.json"
     },
     {
       "igdb_id": 298856,
@@ -183878,6 +183958,11 @@
       "file": "missing/M/129155-mechanica.json"
     },
     {
+      "igdb_id": 357309,
+      "game_name": "Mechanical Chess: Real-time",
+      "file": "missing/M/357309-mechanical-chess-real-time.json"
+    },
+    {
       "igdb_id": 245881,
       "game_name": "Mechanical Gods",
       "file": "missing/M/245881-mechanical-gods.json"
@@ -184003,9 +184088,94 @@
       "file": "missing/M/402396-mechwarrior-5-mercenaries-chaos-reign.json"
     },
     {
+      "igdb_id": 357326,
+      "game_name": "MechWarrior Online: Apache Legendary Mech Pack",
+      "file": "missing/M/357326-mechwarrior-online-apache-legendary-mech-pack.json"
+    },
+    {
+      "igdb_id": 357327,
+      "game_name": "MechWarrior Online: Argent Legendary Mech Pack",
+      "file": "missing/M/357327-mechwarrior-online-argent-legendary-mech-pack.json"
+    },
+    {
+      "igdb_id": 357339,
+      "game_name": "MechWarrior Online: Arges Legendary Mech Pack",
+      "file": "missing/M/357339-mechwarrior-online-arges-legendary-mech-pack.json"
+    },
+    {
       "igdb_id": 305533,
       "game_name": "MechWarrior Online: Black Hawk-Ku Mech Pack",
       "file": "missing/M/305533-mechwarrior-online-black-hawk-ku-mech-pack.json"
+    },
+    {
+      "igdb_id": 357329,
+      "game_name": "MechWarrior Online: Blight Legendary Mech Pack",
+      "file": "missing/M/357329-mechwarrior-online-blight-legendary-mech-pack.json"
+    },
+    {
+      "igdb_id": 357338,
+      "game_name": "MechWarrior Online: Desperada Legendary Mech Pack",
+      "file": "missing/M/357338-mechwarrior-online-desperada-legendary-mech-pack.json"
+    },
+    {
+      "igdb_id": 357320,
+      "game_name": "MechWarrior Online: Gauntlet Mech Pack",
+      "file": "missing/M/357320-mechwarrior-online-gauntlet-mech-pack.json"
+    },
+    {
+      "igdb_id": 357341,
+      "game_name": "MechWarrior Online: Gausszilla Legendary Mech Pack",
+      "file": "missing/M/357341-mechwarrior-online-gausszilla-legendary-mech-pack.json"
+    },
+    {
+      "igdb_id": 357330,
+      "game_name": "MechWarrior Online: Hashké and Abaddon Legendary Mech Pack",
+      "file": "missing/M/357330-mechwarrior-online-hashke-and-abaddon-legendary-mech-pack.json"
+    },
+    {
+      "igdb_id": 357331,
+      "game_name": "MechWarrior Online: Moonwalker Legendary Mech Pack",
+      "file": "missing/M/357331-mechwarrior-online-moonwalker-legendary-mech-pack.json"
+    },
+    {
+      "igdb_id": 357325,
+      "game_name": "MechWarrior Online: Naomi Legendary Mech Pack",
+      "file": "missing/M/357325-mechwarrior-online-naomi-legendary-mech-pack.json"
+    },
+    {
+      "igdb_id": 357321,
+      "game_name": "MechWarrior Online: Noble Legendary Mech Pack",
+      "file": "missing/M/357321-mechwarrior-online-noble-legendary-mech-pack.json"
+    },
+    {
+      "igdb_id": 357328,
+      "game_name": "MechWarrior Online: Red Reaper II Legendary Mech Pack",
+      "file": "missing/M/357328-mechwarrior-online-red-reaper-ii-legendary-mech-pack.json"
+    },
+    {
+      "igdb_id": 357322,
+      "game_name": "MechWarrior Online: Sigma Legendary Mech Pack",
+      "file": "missing/M/357322-mechwarrior-online-sigma-legendary-mech-pack.json"
+    },
+    {
+      "igdb_id": 357324,
+      "game_name": "MechWarrior Online: Spectre Legendary Mech Pack",
+      "file": "missing/M/357324-mechwarrior-online-spectre-legendary-mech-pack.json"
+    },
+    {
+      "igdb_id": 357343,
+      "game_name": "MechWarrior Online: Spitfire Legendary Mech Pack",
+      "file": "missing/M/357343-mechwarrior-online-spitfire-legendary-mech-pack.json"
+    },
+    {
+      "igdb_id": 357323,
+      "game_name": "MechWarrior Online: Starshot Legendary Mech Pack",
+      "file": "missing/M/357323-mechwarrior-online-starshot-legendary-mech-pack.json"
+    },
+    {
+      "igdb_id": 357340,
+      "game_name": "MechWarrior Online: Stone Crusher Legendary Mech Pack",
+      "file": "missing/M/357340-mechwarrior-online-stone-crusher-legendary-mech-pack.json"
     },
     {
       "igdb_id": 94184,
@@ -184736,6 +184906,11 @@
       "igdb_id": 409541,
       "game_name": "Mega Man Cyber Wave Pack",
       "file": "missing/M/409541-mega-man-cyber-wave-pack.json"
+    },
+    {
+      "igdb_id": 357337,
+      "game_name": "Mega Man DOS Remake",
+      "file": "missing/M/357337-mega-man-dos-remake.json"
     },
     {
       "igdb_id": 269874,
@@ -204443,6 +204618,11 @@
       "file": "missing/N/31986-neo-now.json"
     },
     {
+      "igdb_id": 357308,
+      "game_name": "Neo: The Rainbow Sorcerer",
+      "file": "missing/N/357308-neo-the-rainbow-sorcerer.json"
+    },
+    {
       "igdb_id": 141192,
       "game_name": "NEO: The World Ends with You",
       "file": "missing/N/141192-neo-the-world-ends-with-you.json"
@@ -211101,6 +211281,11 @@
       "igdb_id": 110320,
       "game_name": "O.M.G. 26: Our Mini Games",
       "file": "missing/O/110320-o-m-g-26-our-mini-games.json"
+    },
+    {
+      "igdb_id": 357346,
+      "game_name": "O.M.N.I.S.: Overnight Train",
+      "file": "missing/O/357346-o-m-n-i-s-overnight-train.json"
     },
     {
       "igdb_id": 130330,
@@ -218733,6 +218918,11 @@
       "file": "missing/P/41396-pachicom.json"
     },
     {
+      "igdb_id": 357310,
+      "game_name": "Pachiko",
+      "file": "missing/P/357310-pachiko.json"
+    },
+    {
       "igdb_id": 188665,
       "game_name": "Pachillinko",
       "file": "missing/P/188665-pachillinko.json"
@@ -219226,6 +219416,11 @@
       "igdb_id": 339130,
       "game_name": "Paintbrush Warrior",
       "file": "missing/P/339130-paintbrush-warrior.json"
+    },
+    {
+      "igdb_id": 357352,
+      "game_name": "Paintcan Panic",
+      "file": "missing/P/357352-paintcan-panic.json"
     },
     {
       "igdb_id": 392796,
@@ -230943,6 +231138,11 @@
       "file": "missing/P/2290-pokemon-stadium-2.json"
     },
     {
+      "igdb_id": 357347,
+      "game_name": "Pokémon Stadium Club",
+      "file": "missing/P/357347-pokemon-stadium-club.json"
+    },
+    {
       "igdb_id": 394849,
       "game_name": "Pokémon Starwish",
       "file": "missing/P/394849-pokemon-starwish.json"
@@ -241556,6 +241756,11 @@
       "igdb_id": 48686,
       "game_name": "Radia Senki: Reimeihen",
       "file": "missing/R/48686-radia-senki-reimeihen.json"
+    },
+    {
+      "igdb_id": 357306,
+      "game_name": "Radial Fusion",
+      "file": "missing/R/357306-radial-fusion.json"
     },
     {
       "igdb_id": 373105,
@@ -266268,6 +266473,11 @@
       "file": "missing/S/79294-shelley-duvalls-its-a-birds-life.json"
     },
     {
+      "igdb_id": 357316,
+      "game_name": "Shellguard: Starbound Expansion Remastered",
+      "file": "missing/S/357316-shellguard-starbound-expansion-remastered.json"
+    },
+    {
       "igdb_id": 378169,
       "game_name": "Shellie's Secret",
       "file": "missing/S/378169-shellies-secret.json"
@@ -266481,6 +266691,11 @@
       "igdb_id": 243369,
       "game_name": "Sherlock Purr: Extended Edition",
       "file": "missing/S/243369-sherlock-purr-extended-edition.json"
+    },
+    {
+      "igdb_id": 357304,
+      "game_name": "Sherlock: Hidden Object & Match-3 Mystery",
+      "file": "missing/S/357304-sherlock-hidden-object-and-match-3-mystery.json"
     },
     {
       "igdb_id": 155650,
@@ -268856,6 +269071,11 @@
       "igdb_id": 209633,
       "game_name": "Sift Heads",
       "file": "missing/S/209633-sift-heads.json"
+    },
+    {
+      "igdb_id": 357302,
+      "game_name": "Sift Heads 0: The Starting Point",
+      "file": "missing/S/357302-sift-heads-0-the-starting-point.json"
     },
     {
       "igdb_id": 359423,
@@ -272923,6 +273143,11 @@
       "file": "missing/S/106522-slime-maker-factory-fun-play.json"
     },
     {
+      "igdb_id": 357349,
+      "game_name": "Slime Management",
+      "file": "missing/S/357349-slime-management.json"
+    },
+    {
       "igdb_id": 185619,
       "game_name": "Slime on Hole",
       "file": "missing/S/185619-slime-on-hole.json"
@@ -275981,6 +276206,11 @@
       "igdb_id": 143012,
       "game_name": "Sock Monster",
       "file": "missing/S/143012-sock-monster.json"
+    },
+    {
+      "igdb_id": 357300,
+      "game_name": "Socks & Pants",
+      "file": "missing/S/357300-socks-and-pants.json"
     },
     {
       "igdb_id": 208623,
@@ -286053,6 +286283,11 @@
       "file": "missing/S/373537-star-tower.json"
     },
     {
+      "igdb_id": 357305,
+      "game_name": "Star Tracer",
+      "file": "missing/S/357305-star-tracer.json"
+    },
+    {
       "igdb_id": 36124,
       "game_name": "Star Traders: 4X Empires",
       "file": "missing/S/36124-star-traders-4x-empires.json"
@@ -286666,6 +286901,11 @@
       "igdb_id": 123636,
       "game_name": "Starboost EX",
       "file": "missing/S/123636-starboost-ex.json"
+    },
+    {
+      "igdb_id": 357314,
+      "game_name": "StarBooze Reborn",
+      "file": "missing/S/357314-starbooze-reborn.json"
     },
     {
       "igdb_id": 115027,
@@ -287661,6 +287901,11 @@
       "igdb_id": 239651,
       "game_name": "Starstruck",
       "file": "missing/S/239651-starstruck.json"
+    },
+    {
+      "igdb_id": 357317,
+      "game_name": "Starsuits! (Remastered+ Edition)",
+      "file": "missing/S/357317-starsuits-remastered-edition.json"
     },
     {
       "igdb_id": 9529,
@@ -303461,6 +303706,11 @@
       "igdb_id": 117073,
       "game_name": "Tanks Endeavor",
       "file": "missing/T/117073-tanks-endeavor.json"
+    },
+    {
+      "igdb_id": 357342,
+      "game_name": "Tanks Rebirth",
+      "file": "missing/T/357342-tanks-rebirth.json"
     },
     {
       "igdb_id": 208938,
