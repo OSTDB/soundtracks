@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping! | 79906 | [79906-ping.json](./79906-ping.json) |
 | Pinga Ponga | 31850 | [31850-pinga-ponga.json](./31850-pinga-ponga.json) |
 | Pingball Ultra | 106537 | [106537-pingball-ultra.json](./106537-pingball-ultra.json) |
+| Pingbert's Snow Ride | 379963 | [379963-pingberts-snow-ride.json](./379963-pingberts-snow-ride.json) |
 | Pingcheng Chronicles | 316650 | [316650-pingcheng-chronicles.json](./316650-pingcheng-chronicles.json) |
 | Pinging | 255976 | [255976-pinging.json](./255976-pinging.json) |
 | Pingo Puzzle Poker | 51167 | [51167-pingo-puzzle-poker.json](./51167-pingo-puzzle-poker.json) |
@@ -1947,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PizzaBoy | 319955 | [319955-pizzaboy.json](./319955-pizzaboy.json) |
 | Pizzaïolo-Ninja | 374603 | [374603-pizzaiolo-ninja.json](./374603-pizzaiolo-ninja.json) |
 | PizzaMaker | 362821 | [362821-pizzamaker.json](./362821-pizzamaker.json) |
+| Pizzapocalypse 2 | 379971 | [379971-pizzapocalypse-2.json](./379971-pizzapocalypse-2.json) |
 | Pizzarian | 36010 | [36010-pizzarian.json](./36010-pizzarian.json) |
 | PJ Masks Power Heroes: Mighty Alliance | 282048 | [282048-pj-masks-power-heroes-mighty-alliance.json](./282048-pj-masks-power-heroes-mighty-alliance.json) |
 | Pj Masks: Heroes of the Night | 148527 | [148527-pj-masks-heroes-of-the-night.json](./148527-pj-masks-heroes-of-the-night.json) |
@@ -2626,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Island 2: Panda Circus | 279613 | [279613-pony-island-2-panda-circus.json](./279613-pony-island-2-panda-circus.json) |
 | Pony Sisters Pet Hospital | 101584 | [101584-pony-sisters-pet-hospital.json](./101584-pony-sisters-pet-hospital.json) |
 | Pony Snow Run | 96704 | [96704-pony-snow-run.json](./96704-pony-snow-run.json) |
+| Pony vs. Pony | 379982 | [379982-pony-vs-pony.json](./379982-pony-vs-pony.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
 | Poogers | 223131 | [223131-poogers.json](./223131-poogers.json) |
