@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O.B.O.L | 402359 | [402359-o-b-o-l.json](./402359-o-b-o-l.json) |
 | O.J.'s All-American Race to Acquittal | 298307 | [298307-o-j-s-all-american-race-to-acquittal.json](./298307-o-j-s-all-american-race-to-acquittal.json) |
 | O.M.G. 26: Our Mini Games | 110320 | [110320-o-m-g-26-our-mini-games.json](./110320-o-m-g-26-our-mini-games.json) |
+| O.M.N.I.S.: Overnight Train | 357346 | [357346-o-m-n-i-s-overnight-train.json](./357346-o-m-n-i-s-overnight-train.json) |
 | O.T.D | 130330 | [130330-o-t-d.json](./130330-o-t-d.json) |
 | O.U.T.T. | 400324 | [400324-o-u-t-t.json](./400324-o-u-t-t.json) |
 | O'Leary Manager 2000 | 50550 | [50550-oleary-manager-2000.json](./50550-oleary-manager-2000.json) |
