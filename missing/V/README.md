@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verse Hopper | 312910 | [312910-verse-hopper.json](./312910-verse-hopper.json) |
 | Verse Project | 378312 | [378312-verse-project.json](./378312-verse-project.json) |
 | Verse Surf | 141800 | [141800-verse-surf.json](./141800-verse-surf.json) |
+| Verses | 359524 | [359524-verses.json](./359524-verses.json) |
 | Version Fille | 125947 | [125947-version-fille.json](./125947-version-fille.json) |
 | Versus One | 391755 | [391755-versus-one.json](./391755-versus-one.json) |
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
