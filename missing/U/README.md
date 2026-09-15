@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity-chan's Action Shooting | 362813 | [362813-unity-chans-action-shooting.json](./362813-unity-chans-action-shooting.json) |
 | Univers 11: Under the Sky | 195721 | [195721-univers-11-under-the-sky.json](./195721-univers-11-under-the-sky.json) |
 | Universal Boxing Manager | 70942 | [70942-universal-boxing-manager.json](./70942-universal-boxing-manager.json) |
+| Universal Car Ball | 345030 | [345030-universal-car-ball.json](./345030-universal-car-ball.json) |
 | Universal Chaos | 40726 | [40726-universal-chaos.json](./40726-universal-chaos.json) |
 | Universal Combat | 70975 | [70975-universal-combat.json](./70975-universal-combat.json) |
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
@@ -728,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Space Game | 153441 | [153441-untitled-space-game.json](./153441-untitled-space-game.json) |
 | Untitled Tomb Runner | 361743 | [361743-untitled-tomb-runner.json](./361743-untitled-tomb-runner.json) |
 | Untitled: The flower game | 181899 | [181899-untitled-the-flower-game.json](./181899-untitled-the-flower-game.json) |
+| Unto the Aurora | 344999 | [344999-unto-the-aurora.json](./344999-unto-the-aurora.json) |
 | Untold Legends: The Warrior's Code | 23006 | [23006-untold-legends-the-warriors-code.json](./23006-untold-legends-the-warriors-code.json) |
 | Untold Stories 01: Goliath | 406718 | [406718-untold-stories-01-goliath.json](./406718-untold-stories-01-goliath.json) |
 | Untold Stories 3: Myriad Caves | 355115 | [355115-untold-stories-3-myriad-caves.json](./355115-untold-stories-3-myriad-caves.json) |
