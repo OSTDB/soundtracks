@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can't buy me love! | 363940 | [363940-cant-buy-me-love.json](./363940-cant-buy-me-love.json) |
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
 | Can't Stop Running | 391080 | [391080-cant-stop-running.json](./391080-cant-stop-running.json) |
+| Can't You Run? | 343850 | [343850-cant-you-run.json](./343850-cant-you-run.json) |
 | Canada Break | 208582 | [208582-canada-break.json](./208582-canada-break.json) |
 | Canada Break: Head to Head | 209618 | [209618-canada-break-head-to-head.json](./209618-canada-break-head-to-head.json) |
 | Canal Control | 243702 | [243702-canal-control.json](./243702-canal-control.json) |
@@ -1448,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheerleader Champion Dance Off | 86808 | [86808-cheerleader-champion-dance-off.json](./86808-cheerleader-champion-dance-off.json) |
 | Cheese Banquet Advanced | 294695 | [294695-cheese-banquet-advanced.json](./294695-cheese-banquet-advanced.json) |
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
+| Cheese is the Reason | 343889 | [343889-cheese-is-the-reason.json](./343889-cheese-is-the-reason.json) |
 | Cheese Quest 3D: The Brother Lady Saga | 234896 | [234896-cheese-quest-3d-the-brother-lady-saga.json](./234896-cheese-quest-3d-the-brother-lady-saga.json) |
 | Cheese Runner | 209474 | [209474-cheese-runner.json](./209474-cheese-runner.json) |
 | Cheese Terminator | 105404 | [105404-cheese-terminator.json](./105404-cheese-terminator.json) |
@@ -1543,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chesskoban Bishop | 189106 | [189106-chesskoban-bishop.json](./189106-chesskoban-bishop.json) |
 | Chesskoban Cyber | 195144 | [195144-chesskoban-cyber.json](./195144-chesskoban-cyber.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
+| Chessmaster | 343921 | [343921-chessmaster.json](./343921-chessmaster.json) |
 | Chessmaster Live: Calvert Chess Set | 344953 | [344953-chessmaster-live-calvert-chess-set.json](./344953-chessmaster-live-calvert-chess-set.json) |
 | Chessmaster Live: Classic Set | 347216 | [347216-chessmaster-live-classic-set.json](./347216-chessmaster-live-classic-set.json) |
 | Chessmaster Live: Egypt Chess Set | 347215 | [347215-chessmaster-live-egypt-chess-set.json](./347215-chessmaster-live-egypt-chess-set.json) |
@@ -1801,8 +1804,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Suey | 47297 | [47297-chop-suey.json](./47297-chop-suey.json) |
 | Chop Sushi | 18252 | [18252-chop-sushi.json](./18252-chop-sushi.json) |
 | Chopcremental | 349329 | [349329-chopcremental.json](./349329-chopcremental.json) |
+| Choplifter | 343893 | [343893-choplifter.json](./343893-choplifter.json) |
+| Choplifter | 343894 | [343894-choplifter.json](./343894-choplifter.json) |
 | Choplifter HD | 15158 | [15158-choplifter-hd.json](./15158-choplifter-hd.json) |
 | Choplifter II: Rescue Survive | 7823 | [7823-choplifter-ii-rescue-survive.json](./7823-choplifter-ii-rescue-survive.json) |
+| Choplifter! | 343884 | [343884-choplifter.json](./343884-choplifter.json) |
+| Choplifter! | 343885 | [343885-choplifter.json](./343885-choplifter.json) |
+| Choplifter! | 343886 | [343886-choplifter.json](./343886-choplifter.json) |
+| Choplifter! | 343887 | [343887-choplifter.json](./343887-choplifter.json) |
+| Choplifter! | 343888 | [343888-choplifter.json](./343888-choplifter.json) |
+| Choplifter! | 343890 | [343890-choplifter.json](./343890-choplifter.json) |
+| Choplifter! | 343891 | [343891-choplifter.json](./343891-choplifter.json) |
+| Choplifter! | 343897 | [343897-choplifter.json](./343897-choplifter.json) |
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
 | Chopper Battle New Horizon | 75767 | [75767-chopper-battle-new-horizon.json](./75767-chopper-battle-new-horizon.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
@@ -2367,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Astro Planet | 386870 | [386870-clicker-astro-planet.json](./386870-clicker-astro-planet.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
 | ClickeRogue | 242547 | [242547-clickerogue.json](./242547-clickerogue.json) |
+| Clickertale 2 | 343883 | [343883-clickertale-2.json](./343883-clickertale-2.json) |
 | ClickMonster | 158661 | [158661-clickmonster.json](./158661-clickmonster.json) |
 | Clicko | 351597 | [351597-clicko.json](./351597-clicko.json) |
 | Clickomania! | 64437 | [64437-clickomania.json](./64437-clickomania.json) |
