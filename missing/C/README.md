@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chariot Race | 47244 | [47244-chariot-race.json](./47244-chariot-race.json) |
 | Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
 | Charles: The Full Story | 281991 | [281991-charles-the-full-story.json](./281991-charles-the-full-story.json) |
+| Charlie and The Chocolate Factory DVD Games | 343343 | [343343-charlie-and-the-chocolate-factory-dvd-games.json](./343343-charlie-and-the-chocolate-factory-dvd-games.json) |
 | Charlie Foxtrot & The Galaxy of Tomorrow | 166692 | [166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json](./166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json) |
 | Charlie Murder | 19914 | [19914-charlie-murder.json](./19914-charlie-murder.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
@@ -1412,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase: Animatronics | 232697 | [232697-chase-animatronics.json](./232697-chase-animatronics.json) |
 | Chase: Hollywood Stunt Driver | 5774 | [5774-chase-hollywood-stunt-driver.json](./5774-chase-hollywood-stunt-driver.json) |
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
+| Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
@@ -2398,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb Challenge: Castle | 213019 | [213019-climb-challenge-castle.json](./213019-climb-challenge-castle.json) |
 | Climb Fling | 239636 | [239636-climb-fling.json](./239636-climb-fling.json) |
 | Climb It | 273910 | [273910-climb-it.json](./273910-climb-it.json) |
+| Climb out of Hell | 343322 | [343322-climb-out-of-hell.json](./343322-climb-out-of-hell.json) |
 | Climb the Tower | 157208 | [157208-climb-the-tower.json](./157208-climb-the-tower.json) |
 | Climb the Tower | 268185 | [268185-climb-the-tower.json](./268185-climb-the-tower.json) |
 | Climber | 269843 | [269843-climber.json](./269843-climber.json) |
@@ -3459,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrosion Protocol | 377073 | [377073-corrosion-protocol.json](./377073-corrosion-protocol.json) |
 | Corrosion: Cold Winter Waiting | 126027 | [126027-corrosion-cold-winter-waiting.json](./126027-corrosion-cold-winter-waiting.json) |
 | Corru.Observer | 241239 | [241239-corru-observer.json](./241239-corru-observer.json) |
+| Corrupt | 343328 | [343328-corrupt.json](./343328-corrupt.json) |
 | Corrupt | 67916 | [67916-corrupt.json](./67916-corrupt.json) |
 | Corrupt Life | 98457 | [98457-corrupt-life.json](./98457-corrupt-life.json) |
 | Corrupt Political | 219302 | [219302-corrupt-political.json](./219302-corrupt-political.json) |
