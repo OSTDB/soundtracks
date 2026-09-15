@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Comic: The Adventure | 48110 | [48110-captain-comic-the-adventure.json](./48110-captain-comic-the-adventure.json) |
 | Captain Commando | 19821 | [19821-captain-commando.json](./19821-captain-commando.json) |
 | Captain Contraband | 129201 | [129201-captain-contraband.json](./129201-captain-contraband.json) |
+| Captain Corgi: Planetary Problem Solver | 369090 | [369090-captain-corgi-planetary-problem-solver.json](./369090-captain-corgi-planetary-problem-solver.json) |
 | Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
 | Captain Disaster in: Death Has A Million Stomping Boots | 133978 | [133978-captain-disaster-in-death-has-a-million-stomping-boots.json](./133978-captain-disaster-in-death-has-a-million-stomping-boots.json) |
 | Captain Explosion | 179152 | [179152-captain-explosion.json](./179152-captain-explosion.json) |
@@ -483,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Colony | 383343 | [383343-card-colony.json](./383343-card-colony.json) |
 | Card Crawl 2 | 404815 | [404815-card-crawl-2.json](./404815-card-crawl-2.json) |
 | Card Crunch | 105954 | [105954-card-crunch.json](./105954-card-crunch.json) |
+| Card Cultivation | 369080 | [369080-card-cultivation.json](./369080-card-cultivation.json) |
 | Card Escape: Plane Crash | 188113 | [188113-card-escape-plane-crash.json](./188113-card-escape-plane-crash.json) |
 | Card Fuse | 278167 | [278167-card-fuse.json](./278167-card-fuse.json) |
 | Card Games Mega Collection | 104032 | [104032-card-games-mega-collection.json](./104032-card-games-mega-collection.json) |
@@ -603,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpenter Genzo: Robot Empire | 55937 | [55937-carpenter-genzo-robot-empire.json](./55937-carpenter-genzo-robot-empire.json) |
 | Carperation | 163973 | [163973-carperation.json](./163973-carperation.json) |
 | Carpet Shark | 214513 | [214513-carpet-shark.json](./214513-carpet-shark.json) |
+| Carpieces | 369127 | [369127-carpieces.json](./369127-carpieces.json) |
 | Carpocalypse | 179123 | [179123-carpocalypse.json](./179123-carpocalypse.json) |
 | Carprogram | 273379 | [273379-carprogram.json](./273379-carprogram.json) |
 | Carrera | 295031 | [295031-carrera.json](./295031-carrera.json) |
@@ -898,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Kiss | 152296 | [152296-cats-kiss.json](./152296-cats-kiss.json) |
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
 | Cat's Vote | 274509 | [274509-cats-vote.json](./274509-cats-vote.json) |
+| Cat's Wars | 369097 | [369097-cats-wars.json](./369097-cats-wars.json) |
 | Cat&rooms | 119711 | [119711-cat-and-rooms.json](./119711-cat-and-rooms.json) |
 | Cataclismo | 250162 | [250162-cataclismo.json](./250162-cataclismo.json) |
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
@@ -1898,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
 | Chrono Ark: High Roller | 314900 | [314900-chrono-ark-high-roller.json](./314900-chrono-ark-high-roller.json) |
 | Chrono Crystal: Giant Gate DLC | 253386 | [253386-chrono-crystal-giant-gate-dlc.json](./253386-chrono-crystal-giant-gate-dlc.json) |
+| Chrono Impact | 369095 | [369095-chrono-impact.json](./369095-chrono-impact.json) |
 | Chrono Mirror | 276696 | [276696-chrono-mirror.json](./276696-chrono-mirror.json) |
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
 | Chrono Trigger | 20398 | [20398-chrono-trigger.json](./20398-chrono-trigger.json) |
@@ -1947,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuggington: Babysitter Brewster | 230548 | [230548-chuggington-babysitter-brewster.json](./230548-chuggington-babysitter-brewster.json) |
 | Chuhou Joutai | 133460 | [133460-chuhou-joutai.json](./133460-chuhou-joutai.json) |
 | Chukcha v Bolshom Gorode | 403576 | [403576-chukcha-v-bolshom-gorode.json](./403576-chukcha-v-bolshom-gorode.json) |
+| Chukgwi | 369102 | [369102-chukgwi.json](./369102-chukgwi.json) |
 | Chulip | 20657 | [20657-chulip.json](./20657-chulip.json) |
 | Chungus Rampage in Big Forest | 143068 | [143068-chungus-rampage-in-big-forest.json](./143068-chungus-rampage-in-big-forest.json) |
 | Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
@@ -2309,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climbing Challenge | 246434 | [246434-climbing-challenge.json](./246434-climbing-challenge.json) |
 | Climbing Simplified | 392812 | [392812-climbing-simplified.json](./392812-climbing-simplified.json) |
 | Climbing The Eidolon | 383513 | [383513-climbing-the-eidolon.json](./383513-climbing-the-eidolon.json) |
+| Clinch Legends | 369101 | [369101-clinch-legends.json](./369101-clinch-legends.json) |
 | Clinton vs. Trump: Head Soccer Challenge | 261526 | [261526-clinton-vs-trump-head-soccer-challenge.json](./261526-clinton-vs-trump-head-soccer-challenge.json) |
 | Clione's Bomb-Bomb Sweeper | 369050 | [369050-cliones-bomb-bomb-sweeper.json](./369050-cliones-bomb-bomb-sweeper.json) |
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
@@ -2963,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes: Modern Combat | 127895 | [127895-company-of-heroes-modern-combat.json](./127895-company-of-heroes-modern-combat.json) |
 | Compartmentalize | 326610 | [326610-compartmentalize.json](./326610-compartmentalize.json) |
 | Compassion | 179680 | [179680-compassion.json](./179680-compassion.json) |
+| Compensated Girl | 369100 | [369100-compensated-girl.json](./369100-compensated-girl.json) |
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
 | Compilation Assassin's Creed: Brotherhood + Revelations | 151207 | [151207-compilation-assassins-creed-brotherhood-revelations.json](./151207-compilation-assassins-creed-brotherhood-revelations.json) |
 | Compilation I Tom Clancy's Ghost Recon: Advanced Warfighter 2 + Tom Clancy's EndWar | 84163 | [84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json](./84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json) |
@@ -3540,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Designer | 295783 | [295783-cozy-designer.json](./295783-cozy-designer.json) |
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
 | Cozy Fishing Life | 416673 | [416673-cozy-fishing-life.json](./416673-cozy-fishing-life.json) |
+| Cozy Forest | 369084 | [369084-cozy-forest.json](./369084-cozy-forest.json) |
 | Cozy Grove | 144800 | [144800-cozy-grove.json](./144800-cozy-grove.json) |
 | Cozy Grove + New Neighbears Bundle | 199635 | [199635-cozy-grove-new-neighbears-bundle.json](./199635-cozy-grove-new-neighbears-bundle.json) |
 | Cozy Hamlets | 290441 | [290441-cozy-hamlets.json](./290441-cozy-hamlets.json) |
@@ -4092,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crucible | 24653 | [24653-crucible.json](./24653-crucible.json) |
 | Crucible Falls: Together Forever | 96959 | [96959-crucible-falls-together-forever.json](./96959-crucible-falls-together-forever.json) |
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
+| Crude Oil | 369093 | [369093-crude-oil.json](./369093-crude-oil.json) |
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
