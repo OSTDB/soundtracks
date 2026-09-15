@@ -2153,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dragoness: Command of the Flame | 211984 | [211984-the-dragoness-command-of-the-flame.json](./211984-the-dragoness-command-of-the-flame.json) |
 | The Dragonspire | 306087 | [306087-the-dragonspire.json](./306087-the-dragonspire.json) |
 | The Drawnjuring | 311807 | [311807-the-drawnjuring.json](./311807-the-drawnjuring.json) |
+| The Drawstring Dungeon | 348864 | [348864-the-drawstring-dungeon.json](./348864-the-drawstring-dungeon.json) |
 | The Dream Alchemist | 179696 | [179696-the-dream-alchemist.json](./179696-the-dream-alchemist.json) |
 | The Dream Globe | 371989 | [371989-the-dream-globe.json](./371989-the-dream-globe.json) |
 | The Dream Libra Had | 158714 | [158714-the-dream-libra-had.json](./158714-the-dream-libra-had.json) |
@@ -3967,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shade Forest | 319028 | [319028-the-shade-forest.json](./319028-the-shade-forest.json) |
 | The Shadow in the Cathedral | 10939 | [10939-the-shadow-in-the-cathedral.json](./10939-the-shadow-in-the-cathedral.json) |
 | The Shadow of Shadows | 377047 | [377047-the-shadow-of-shadows.json](./377047-the-shadow-of-shadows.json) |
+| The Shadow of the Warring States Period | 348872 | [348872-the-shadow-of-the-warring-states-period.json](./348872-the-shadow-of-the-warring-states-period.json) |
 | The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
 | The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
