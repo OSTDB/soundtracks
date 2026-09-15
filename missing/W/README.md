@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
 | Wild West Survivors | 403721 | [403721-wild-west-survivors.json](./403721-wild-west-survivors.json) |
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
+| Wild West: The Last Cowboy | 372534 | [372534-wild-west-the-last-cowboy.json](./372534-wild-west-the-last-cowboy.json) |
 | Wild Western | 18060 | [18060-wild-western.json](./18060-wild-western.json) |
 | Wild Wheels | 59968 | [59968-wild-wheels.json](./59968-wild-wheels.json) |
 | Wild Wild West: The Steel Assassin | 70950 | [70950-wild-wild-west-the-steel-assassin.json](./70950-wild-wild-west-the-steel-assassin.json) |
@@ -2094,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Would You Love Me If I Was a Snake? | 400346 | [400346-would-you-love-me-if-i-was-a-snake.json](./400346-would-you-love-me-if-i-was-a-snake.json) |
 | Would you rather?! | 90677 | [90677-would-you-rather.json](./90677-would-you-rather.json) |
 | Would You Sell Your Soul? 2 | 303265 | [303265-would-you-sell-your-soul-2.json](./303265-would-you-sell-your-soul-2.json) |
+| Would You Still Love Me if I Was a Worm? | 372585 | [372585-would-you-still-love-me-if-i-was-a-worm.json](./372585-would-you-still-love-me-if-i-was-a-worm.json) |
 | Wound Man | 273385 | [273385-wound-man.json](./273385-wound-man.json) |
 | Wounds 4 Hard Medication | 181291 | [181291-wounds-4-hard-medication.json](./181291-wounds-4-hard-medication.json) |
 | Wove | 369024 | [369024-wove.json](./369024-wove.json) |
@@ -2183,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wushu Chronicles 2 | 171024 | [171024-wushu-chronicles-2.json](./171024-wushu-chronicles-2.json) |
 | Wuthering Waves: All Silent Souls Can Sing | 326608 | [326608-wuthering-waves-all-silent-souls-can-sing.json](./326608-wuthering-waves-all-silent-souls-can-sing.json) |
 | Wuthering Waves: Blade of Past Resounds, Lingering Dream Hymns | 409689 | [409689-wuthering-waves-blade-of-past-resounds-lingering-dream-hymns.json](./409689-wuthering-waves-blade-of-past-resounds-lingering-dream-hymns.json) |
+| Wuthering Waves: Dawn Breaks on Dark Tides | 372570 | [372570-wuthering-waves-dawn-breaks-on-dark-tides.json](./372570-wuthering-waves-dawn-breaks-on-dark-tides.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
 | Wuthering Waves: When the Night Knocks | 321376 | [321376-wuthering-waves-when-the-night-knocks.json](./321376-wuthering-waves-when-the-night-knocks.json) |
 | Wuxia Master | 109703 | [109703-wuxia-master.json](./109703-wuxia-master.json) |
