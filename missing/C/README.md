@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Eat by Yourself | 76660 | [76660-can-you-eat-by-yourself.json](./76660-can-you-eat-by-yourself.json) |
 | Can You Escape Modern Office | 167290 | [167290-can-you-escape-modern-office.json](./167290-can-you-escape-modern-office.json) |
 | Can You Escape- Jail Break | 106550 | [106550-can-you-escape-jail-break.json](./106550-can-you-escape-jail-break.json) |
+| Can't buy me love! | 363940 | [363940-cant-buy-me-love.json](./363940-cant-buy-me-love.json) |
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
 | Can't Stop Running | 391080 | [391080-cant-stop-running.json](./391080-cant-stop-running.json) |
 | Canada Break | 208582 | [208582-canada-break.json](./208582-canada-break.json) |
@@ -1306,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Breaker | 76597 | [76597-chaos-breaker.json](./76597-chaos-breaker.json) |
 | Chaos Caves | 113680 | [113680-chaos-caves.json](./113680-chaos-caves.json) |
 | Chaos Code: Exact Xeno Attack | 348232 | [348232-chaos-code-exact-xeno-attack.json](./348232-chaos-code-exact-xeno-attack.json) |
+| Chaos Coin | 363951 | [363951-chaos-coin.json](./363951-chaos-coin.json) |
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
@@ -1570,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Fraction | 94687 | [94687-chicken-fraction.json](./94687-chicken-fraction.json) |
 | Chicken Freeze! | 206968 | [206968-chicken-freeze.json](./206968-chicken-freeze.json) |
 | Chicken Fries | 377072 | [377072-chicken-fries.json](./377072-chicken-fries.json) |
+| Chicken Grow | 363967 | [363967-chicken-grow.json](./363967-chicken-grow.json) |
 | Chicken Gun | 413002 | [413002-chicken-gun.json](./413002-chicken-gun.json) |
 | Chicken Hill | 324310 | [324310-chicken-hill.json](./324310-chicken-hill.json) |
 | Chicken in the Darkness | 110341 | [110341-chicken-in-the-darkness.json](./110341-chicken-in-the-darkness.json) |
@@ -2868,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come Home: Premium Edition | 238762 | [238762-come-home-premium-edition.json](./238762-come-home-premium-edition.json) |
 | Come Inside My Inner World | 156615 | [156615-come-inside-my-inner-world.json](./156615-come-inside-my-inner-world.json) |
 | Come on Kitty | 214521 | [214521-come-on-kitty.json](./214521-come-on-kitty.json) |
+| Come Out, Cat | 363947 | [363947-come-out-cat.json](./363947-come-out-cat.json) |
 | Come To Dust | 283730 | [283730-come-to-dust.json](./283730-come-to-dust.json) |
 | Come to Jesus | 179726 | [179726-come-to-jesus.json](./179726-come-to-jesus.json) |
 | Come with Me | 147401 | [147401-come-with-me.json](./147401-come-with-me.json) |
@@ -3459,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Games' New Game Bundle | 196811 | [196811-cotton-games-new-game-bundle.json](./196811-cotton-games-new-game-bundle.json) |
 | Couch Installation Service | 158679 | [158679-couch-installation-service.json](./158679-couch-installation-service.json) |
 | Couch Party Game Night | 109655 | [109655-couch-party-game-night.json](./109655-couch-party-game-night.json) |
+| Couch Racers | 363960 | [363960-couch-racers.json](./363960-couch-racers.json) |
 | Couch Storm: Battle Royale | 119735 | [119735-couch-storm-battle-royale.json](./119735-couch-storm-battle-royale.json) |
 | Couch Versus | 113669 | [113669-couch-versus.json](./113669-couch-versus.json) |
 | Count 427 | 287624 | [287624-count-427.json](./287624-count-427.json) |
@@ -4027,6 +4032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Guardian | 381110 | [381110-cross-guardian.json](./381110-cross-guardian.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
+| Cross Pix 2 | 363970 | [363970-cross-pix-2.json](./363970-cross-pix-2.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Cross Seekers | 258987 | [258987-cross-seekers.json](./258987-cross-seekers.json) |
 | Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
