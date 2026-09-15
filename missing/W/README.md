@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallenda | 111627 | [111627-wallenda.json](./111627-wallenda.json) |
 | Wallrun Dot Love | 185068 | [185068-wallrun-dot-love.json](./185068-wallrun-dot-love.json) |
 | Walls | 275006 | [275006-walls.json](./275006-walls.json) |
+| WallSmashers | 334168 | [334168-wallsmashers.json](./334168-wallsmashers.json) |
 | Wally wo Sagase! Ehon no Kuni no Daibouken! | 37769 | [37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json](./37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json) |
 | Walpurgis Night: Unmyeong-ui Gil 2 | 145620 | [145620-walpurgis-night-unmyeong-ui-gil-2.json](./145620-walpurgis-night-unmyeong-ui-gil-2.json) |
 | Walpurgis Quintet | 205253 | [205253-walpurgis-quintet.json](./205253-walpurgis-quintet.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wega & The Lost Media | 358293 | [358293-wega-and-the-lost-media.json](./358293-wega-and-the-lost-media.json) |
 | Wega: Lost in the Outer Reaches | 213406 | [213406-wega-lost-in-the-outer-reaches.json](./213406-wega-lost-in-the-outer-reaches.json) |
 | Weggye's Adventures | 240785 | [240785-weggyes-adventures.json](./240785-weggyes-adventures.json) |
+| WeightWare | 334162 | [334162-weightware.json](./334162-weightware.json) |
 | Weihnachtsquiz | 98946 | [98946-weihnachtsquiz.json](./98946-weihnachtsquiz.json) |
 | Weinende Rose | 140584 | [140584-weinende-rose.json](./140584-weinende-rose.json) |
 | Weird Al's Great Adventure | 55933 | [55933-weird-als-great-adventure.json](./55933-weird-als-great-adventure.json) |
@@ -986,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whenever You Can Breathe | 203378 | [203378-whenever-you-can-breathe.json](./203378-whenever-you-can-breathe.json) |
 | Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
 | Where Are They? | 300688 | [300688-where-are-they.json](./300688-where-are-they.json) |
+| Where Are You, Diamond | 334185 | [334185-where-are-you-diamond.json](./334185-where-are-you-diamond.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
 | Where Cards Fall | 27271 | [27271-where-cards-fall.json](./27271-where-cards-fall.json) |
 | Where Did I Put It? | 223472 | [223472-where-did-i-put-it.json](./223472-where-did-i-put-it.json) |
@@ -2157,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worry | 91960 | [91960-worry.json](./91960-worry.json) |
 | Worship | 144971 | [144971-worship.json](./144971-worship.json) |
 | Worshippers of Cthulhu | 292876 | [292876-worshippers-of-cthulhu.json](./292876-worshippers-of-cthulhu.json) |
+| Worshippers of the Gain | 334172 | [334172-worshippers-of-the-gain.json](./334172-worshippers-of-the-gain.json) |
 | Worst Case | 320552 | [320552-worst-case.json](./320552-worst-case.json) |
 | Worst Coach in the World | 289893 | [289893-worst-coach-in-the-world.json](./289893-worst-coach-in-the-world.json) |
 | Worst Dating Sim | 178658 | [178658-worst-dating-sim.json](./178658-worst-dating-sim.json) |
