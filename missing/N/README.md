@@ -1522,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nock & Load | 341482 | [341482-nock-and-load.json](./341482-nock-and-load.json) |
 | Nock: Hidden Arrow | 31389 | [31389-nock-hidden-arrow.json](./31389-nock-hidden-arrow.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
+| Noctuary: New Journey | 370210 | [370210-noctuary-new-journey.json](./370210-noctuary-new-journey.json) |
 | Nocturnal | 234740 | [234740-nocturnal.json](./234740-nocturnal.json) |
 | Nocturnal Echoes | 414419 | [414419-nocturnal-echoes.json](./414419-nocturnal-echoes.json) |
 | Nocturnal Nemesis | 341483 | [341483-nocturnal-nemesis.json](./341483-nocturnal-nemesis.json) |
