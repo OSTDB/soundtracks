@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T04:34:09.313Z",
-  "total_missing": 72467,
+  "generated_at": "2026-09-15T04:41:47.014Z",
+  "total_missing": 72466,
   "games": [
     {
       "igdb_id": 306086,
@@ -4991,11 +4991,6 @@
       "igdb_id": 405469,
       "game_name": "AFK Industarry",
       "file": "missing/A/405469-afk-industarry.json"
-    },
-    {
-      "igdb_id": 73847,
-      "game_name": "AFL Premiership 2005",
-      "file": "missing/A/73847-afl-premiership-2005.json"
     },
     {
       "igdb_id": 148489,
