@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khatyrka: Prelude | 229967 | [229967-khatyrka-prelude.json](./229967-khatyrka-prelude.json) |
 | Khemia | 136460 | [136460-khemia.json](./136460-khemia.json) |
 | Khio | 136458 | [136458-khio.json](./136458-khio.json) |
+| Khnum Fire | 370211 | [370211-khnum-fire.json](./370211-khnum-fire.json) |
 | Khospis | 110338 | [110338-khospis.json](./110338-khospis.json) |
 | Khuga Bash! | 276196 | [276196-khuga-bash.json](./276196-khuga-bash.json) |
 | Khumba: The Game | 61116 | [61116-khumba-the-game.json](./61116-khumba-the-game.json) |
