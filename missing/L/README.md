@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Odisea del Fracaso III | 323540 | [323540-la-odisea-del-fracaso-iii.json](./323540-la-odisea-del-fracaso-iii.json) |
 | La Pasion XR | 341033 | [341033-la-pasion-xr.json](./341033-la-pasion-xr.json) |
 | La pesadilla de Illojuan | 302719 | [302719-la-pesadilla-de-illojuan.json](./302719-la-pesadilla-de-illojuan.json) |
+| La storia della Arcana Famiglia: Rinato | 339376 | [339376-la-storia-della-arcana-famiglia-rinato.json](./339376-la-storia-della-arcana-famiglia-rinato.json) |
 | La torre de Mario | 374170 | [374170-la-torre-de-mario.json](./374170-la-torre-de-mario.json) |
 | La Ultima Comida | 153427 | [153427-la-ultima-comida.json](./153427-la-ultima-comida.json) |
 | La Vie en Rose | 183071 | [183071-la-vie-en-rose.json](./183071-la-vie-en-rose.json) |
