@@ -530,7 +530,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
 | Agatha Christie: Death on the Nile | 21134 | [21134-agatha-christie-death-on-the-nile.json](./21134-agatha-christie-death-on-the-nile.json) |
 | Age Maniax: Isumi Yon Shimai Saigo no Hi | 305141 | [305141-age-maniax-isumi-yon-shimai-saigo-no-hi.json](./305141-age-maniax-isumi-yon-shimai-saigo-no-hi.json) |
-| Age of Aincrad | 223686 | [223686-age-of-aincrad.json](./223686-age-of-aincrad.json) |
 | Age of Ashes: Dark Nuns | 349849 | [349849-age-of-ashes-dark-nuns.json](./349849-age-of-ashes-dark-nuns.json) |
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
 | Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
@@ -1420,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaemi: Longing for you | 206335 | [206335-amaemi-longing-for-you.json](./206335-amaemi-longing-for-you.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
 | Amalgam | 396419 | [396419-amalgam.json](./396419-amalgam.json) |
+| Amalgun | 347764 | [347764-amalgun.json](./347764-amalgun.json) |
 | Amamane | 121724 | [121724-amamane.json](./121724-amamane.json) |
 | Amanatsu Location | 413057 | [413057-amanatsu-location.json](./413057-amanatsu-location.json) |
 | Amanda Stories | 262405 | [262405-amanda-stories.json](./262405-amanda-stories.json) |
@@ -3318,6 +3318,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
 | Astral Ooze | 348345 | [348345-astral-ooze.json](./348345-astral-ooze.json) |
+| Astral Sanctum | 347770 | [347770-astral-sanctum.json](./347770-astral-sanctum.json) |
+| Astral Savior | 347779 | [347779-astral-savior.json](./347779-astral-savior.json) |
 | Astral Sever | 414337 | [414337-astral-sever.json](./414337-astral-sever.json) |
 | Astral Terra | 16882 | [16882-astral-terra.json](./16882-astral-terra.json) |
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
