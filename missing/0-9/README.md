@@ -204,6 +204,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 150 Floors | 228439 | [228439-150-floors.json](./228439-150-floors.json) |
 | 1500 DS Spirits Vol. 4: Reversi | 100196 | [100196-1500-ds-spirits-vol-4-reversi.json](./100196-1500-ds-spirits-vol-4-reversi.json) |
 | 15th Prison | 316431 | [316431-15th-prison.json](./316431-15th-prison.json) |
+| 16 Brands Taiwan Mahjong 2 | 371335 | [371335-16-brands-taiwan-mahjong-2.json](./371335-16-brands-taiwan-mahjong-2.json) |
+| 16 Brands Taiwan Mahjong 3 | 371343 | [371343-16-brands-taiwan-mahjong-3.json](./371343-16-brands-taiwan-mahjong-3.json) |
 | 16 Personalities Simulator | 397789 | [397789-16-personalities-simulator.json](./397789-16-personalities-simulator.json) |
 | 16bit-Collection Athena Vol. 01 | 97891 | [97891-16bit-collection-athena-vol-01.json](./97891-16bit-collection-athena-vol-01.json) |
 | 16bit-Collection Culture Brain Vol. 02 | 97888 | [97888-16bit-collection-culture-brain-vol-02.json](./97888-16bit-collection-culture-brain-vol-02.json) |
