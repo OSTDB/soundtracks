@@ -494,7 +494,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Curtain Call | 377042 | [377042-after-the-curtain-call.json](./377042-after-the-curtain-call.json) |
 | After the Fall | 119330 | [119330-after-the-fall.json](./119330-after-the-fall.json) |
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
-| After the Inferno | 211423 | [211423-after-the-inferno.json](./211423-after-the-inferno.json) |
 | After the Wane | 387356 | [387356-after-the-wane.json](./387356-after-the-wane.json) |
 | After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
 | After War Town | 278173 | [278173-after-war-town.json](./278173-after-war-town.json) |
@@ -942,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akumajou Densetsu | 151162 | [151162-akumajou-densetsu.json](./151162-akumajou-densetsu.json) |
 | Akumajou Densetsu | 353301 | [353301-akumajou-densetsu.json](./353301-akumajou-densetsu.json) |
 | Akumajou Dracula | 215375 | [215375-akumajou-dracula.json](./215375-akumajou-dracula.json) |
+| Akumanor Gaiden | 361222 | [361222-akumanor-gaiden.json](./361222-akumanor-gaiden.json) |
 | Akumon Summoner | 393458 | [393458-akumon-summoner.json](./393458-akumon-summoner.json) |
 | Akunin-Akka | 389995 | [389995-akunin-akka.json](./389995-akunin-akka.json) |
 | Akuu Senki Raijin | 41340 | [41340-akuu-senki-raijin.json](./41340-akuu-senki-raijin.json) |
@@ -2431,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Action | 93560 | [93560-arcade-action.json](./93560-arcade-action.json) |
 | Arcade Apocalypse Bundle | 99559 | [99559-arcade-apocalypse-bundle.json](./99559-arcade-apocalypse-bundle.json) |
 | Arcade Archives 2: Adventure Canoe | 392764 | [392764-arcade-archives-2-adventure-canoe.json](./392764-arcade-archives-2-adventure-canoe.json) |
+| Arcade Archives 2: Aqua Jet | 361238 | [361238-arcade-archives-2-aqua-jet.json](./361238-arcade-archives-2-aqua-jet.json) |
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
 | Arcade Archives 2: Hyper Crash | 409672 | [409672-arcade-archives-2-hyper-crash.json](./409672-arcade-archives-2-hyper-crash.json) |
 | Arcade Archives 2: Moon Shuttle | 408159 | [408159-arcade-archives-2-moon-shuttle.json](./408159-arcade-archives-2-moon-shuttle.json) |
@@ -2439,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Tekken | 408158 | [408158-arcade-archives-2-tekken.json](./408158-arcade-archives-2-tekken.json) |
 | Arcade Archives: A-Jax | 99563 | [99563-arcade-archives-a-jax.json](./99563-arcade-archives-a-jax.json) |
 | Arcade Archives: Adventure Canoe | 392765 | [392765-arcade-archives-adventure-canoe.json](./392765-arcade-archives-adventure-canoe.json) |
+| Arcade Archives: Aqua Jet | 361237 | [361237-arcade-archives-aqua-jet.json](./361237-arcade-archives-aqua-jet.json) |
 | Arcade Archives: Armed F | 99546 | [99546-arcade-archives-armed-f.json](./99546-arcade-archives-armed-f.json) |
 | Arcade Archives: Bells & Whistles | 129192 | [129192-arcade-archives-bells-and-whistles.json](./129192-arcade-archives-bells-and-whistles.json) |
 | Arcade Archives: Blandia | 272855 | [272855-arcade-archives-blandia.json](./272855-arcade-archives-blandia.json) |
