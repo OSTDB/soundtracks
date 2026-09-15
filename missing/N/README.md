@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Escaper | 201266 | [201266-night-escaper.json](./201266-night-escaper.json) |
 | Night Flight | 297492 | [297492-night-flight.json](./297492-night-flight.json) |
 | Night Fright | 318402 | [318402-night-fright.json](./318402-night-fright.json) |
+| Night Furries | 367512 | [367512-night-furries.json](./367512-night-furries.json) |
 | Night Gal Summer | 229340 | [229340-night-gal-summer.json](./229340-night-gal-summer.json) |
 | Night Guard: The Last Shift | 177533 | [177533-night-guard-the-last-shift.json](./177533-night-guard-the-last-shift.json) |
 | Night Gunner: Final Mission | 55843 | [55843-night-gunner-final-mission.json](./55843-night-gunner-final-mission.json) |
