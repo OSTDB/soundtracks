@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Mutants & Monsters Mayhem | 146239 | [146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json](./146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge | 144465 | [144465-teenage-mutant-ninja-turtles-shredders-revenge.json](./144465-teenage-mutant-ninja-turtles-shredders-revenge.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
+| Teenage Mutant Ninja Turtles: Splintered Fate - Deluxe Edition | 351134 | [351134-teenage-mutant-ninja-turtles-splintered-fate-deluxe-edition.json](./351134-teenage-mutant-ninja-turtles-splintered-fate-deluxe-edition.json) |
 | Teenage Mutant Ninja Turtles: The HyperStone Heist | 4404 | [4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json](./4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json) |
 | Teenage Mutant Ninja Turtles: The Ninja Tribunal | 146242 | [146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json](./146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 134079 | [134079-teenage-mutant-ninja-turtles-tournament-fighters.json](./134079-teenage-mutant-ninja-turtles-tournament-fighters.json) |
@@ -1713,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brain's Brain Game | 307913 | [307913-the-brains-brain-game.json](./307913-the-brains-brain-game.json) |
 | The Brainies | 42634 | [42634-the-brainies.json](./42634-the-brainies.json) |
 | The Brave Mouse | 51513 | [51513-the-brave-mouse.json](./51513-the-brave-mouse.json) |
+| The Brave Never Alone | 351109 | [351109-the-brave-never-alone.json](./351109-the-brave-never-alone.json) |
 | The Bread Pub Brawlers | 86118 | [86118-the-bread-pub-brawlers.json](./86118-the-bread-pub-brawlers.json) |
 | The Bridge | 352753 | [352753-the-bridge.json](./352753-the-bridge.json) |
 | The Bridge | 8440 | [8440-the-bridge.json](./8440-the-bridge.json) |
@@ -3036,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lattice Grimoire | 120396 | [120396-the-lattice-grimoire.json](./120396-the-lattice-grimoire.json) |
 | The Lawnmower Man | 388206 | [388206-the-lawnmower-man.json](./388206-the-lawnmower-man.json) |
 | The Leak | 270109 | [270109-the-leak.json](./270109-the-leak.json) |
+| The Left Eye | 351114 | [351114-the-left-eye.json](./351114-the-left-eye.json) |
 | The Legacy | 378776 | [378776-the-legacy.json](./378776-the-legacy.json) |
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
 | The Legacy: Realm of Terror | 79233 | [79233-the-legacy-realm-of-terror.json](./79233-the-legacy-realm-of-terror.json) |
@@ -4488,6 +4491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tram | 413738 | [413738-the-tram.json](./413738-the-tram.json) |
 | The tram of wishes | 152836 | [152836-the-tram-of-wishes.json](./152836-the-tram-of-wishes.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
+| The Trap: Remake - Winter | 351098 | [351098-the-trap-remake-winter.json](./351098-the-trap-remake-winter.json) |
 | The Trasamire Campaigns | 213418 | [213418-the-trasamire-campaigns.json](./213418-the-trasamire-campaigns.json) |
 | The Trash Pack: The Gross Gang in Your Garbage | 9752 | [9752-the-trash-pack-the-gross-gang-in-your-garbage.json](./9752-the-trash-pack-the-gross-gang-in-your-garbage.json) |
 | The Traveller and the Mountain | 178570 | [178570-the-traveller-and-the-mountain.json](./178570-the-traveller-and-the-mountain.json) |
@@ -6560,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Healing Nature | 255135 | [255135-touhou-healing-nature.json](./255135-touhou-healing-nature.json) |
 | Touhou Ibunseki: Ayaria Dawn - ReCreation | 126924 | [126924-touhou-ibunseki-ayaria-dawn-recreation.json](./126924-touhou-ibunseki-ayaria-dawn-recreation.json) |
 | Touhou Infinite Nocturne | 342052 | [342052-touhou-infinite-nocturne.json](./342052-touhou-infinite-nocturne.json) |
+| Touhou Iyuushou: What the Bullet Hell?! | 351102 | [351102-touhou-iyuushou-what-the-bullet-hell.json](./351102-touhou-iyuushou-what-the-bullet-hell.json) |
 | Touhou Jaseishou: The Last Comer | 246672 | [246672-touhou-jaseishou-the-last-comer.json](./246672-touhou-jaseishou-the-last-comer.json) |
 | Touhou Kaikeidou: Marine Benefit | 280171 | [280171-touhou-kaikeidou-marine-benefit.json](./280171-touhou-kaikeidou-marine-benefit.json) |
 | Touhou Kobuto V: Burst Battle | 27261 | [27261-touhou-kobuto-v-burst-battle.json](./27261-touhou-kobuto-v-burst-battle.json) |
@@ -6858,6 +6863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailmarks | 391079 | [391079-trailmarks.json](./391079-trailmarks.json) |
 | Trailpa | 256518 | [256518-trailpa.json](./256518-trailpa.json) |
 | TrailRail | 366850 | [366850-trailrail.json](./366850-trailrail.json) |
+| Trails in the Sky 1st Chapter: Steelbook Edition | 351131 | [351131-trails-in-the-sky-1st-chapter-steelbook-edition.json](./351131-trails-in-the-sky-1st-chapter-steelbook-edition.json) |
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
 | Trails of the Ancestors | 212828 | [212828-trails-of-the-ancestors.json](./212828-trails-of-the-ancestors.json) |
@@ -7168,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trajes Fatais: Suits of Fate | 124245 | [124245-trajes-fatais-suits-of-fate.json](./124245-trajes-fatais-suits-of-fate.json) |
 | Trakonius | 268220 | [268220-trakonius.json](./268220-trakonius.json) |
 | Tralalero Tralala Elephant Runner | 385069 | [385069-tralalero-tralala-elephant-runner.json](./385069-tralalero-tralala-elephant-runner.json) |
+| Tralalero Tralala Wars | 351099 | [351099-tralalero-tralala-wars.json](./351099-tralalero-tralala-wars.json) |
 | Tralalero Tralala: Escape Backrooms | 367977 | [367977-tralalero-tralala-escape-backrooms.json](./367977-tralalero-tralala-escape-backrooms.json) |
 | Tramp | 55845 | [55845-tramp.json](./55845-tramp.json) |
 | Trampoline | 172661 | [172661-trampoline.json](./172661-trampoline.json) |
