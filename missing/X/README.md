@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmax KPI | 397086 | [397086-xmax-kpi.json](./397086-xmax-kpi.json) |
 | Xna | 45968 | [45968-xna.json](./45968-xna.json) |
 | XO | 110270 | [110270-xo.json](./110270-xo.json) |
+| XO Evolved | 368001 | [368001-xo-evolved.json](./368001-xo-evolved.json) |
 | XO Master | 237956 | [237956-xo-master.json](./237956-xo-master.json) |
 | XO Patterns | 27730 | [27730-xo-patterns.json](./27730-xo-patterns.json) |
 | Xob | 149609 | [149609-xob.json](./149609-xob.json) |
