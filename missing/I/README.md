@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
 | Inkoid | 390615 | [390615-inkoid.json](./390615-inkoid.json) |
 | Inkremental | 397793 | [397793-inkremental.json](./397793-inkremental.json) |
+| Inkronos | 345014 | [345014-inkronos.json](./345014-inkronos.json) |
 | Inkwellers | 333555 | [333555-inkwellers.json](./333555-inkwellers.json) |
 | Inky Caps Clash | 175428 | [175428-inky-caps-clash.json](./175428-inky-caps-clash.json) |
 | Inline | 81070 | [81070-inline.json](./81070-inline.json) |
