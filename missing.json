@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T13:34:20.352Z",
-  "total_missing": 74046,
+  "generated_at": "2026-09-15T13:49:09.251Z",
+  "total_missing": 74096,
   "games": [
     {
       "igdb_id": 306086,
@@ -2461,6 +2461,11 @@
       "igdb_id": 15582,
       "game_name": "747 Flight Simulator",
       "file": "missing/0-9/15582-747-flight-simulator.json"
+    },
+    {
+      "igdb_id": 353373,
+      "game_name": "75 Demons",
+      "file": "missing/0-9/353373-75-demons.json"
     },
     {
       "igdb_id": 271238,
@@ -10438,14 +10443,49 @@
       "file": "missing/A/197844-american-truck-simulator-2022.json"
     },
     {
+      "igdb_id": 353403,
+      "game_name": "American Truck Simulator: Christmas Paint Jobs Pack",
+      "file": "missing/A/353403-american-truck-simulator-christmas-paint-jobs-pack.json"
+    },
+    {
+      "igdb_id": 353410,
+      "game_name": "American Truck Simulator: Freightliner Cascadia (The Fifth Generation)",
+      "file": "missing/A/353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json"
+    },
+    {
       "igdb_id": 223687,
       "game_name": "American Truck Simulator: Goodyear Tires Pack",
       "file": "missing/A/223687-american-truck-simulator-goodyear-tires-pack.json"
     },
     {
+      "igdb_id": 353401,
+      "game_name": "American Truck Simulator: Halloween Paint Jobs Pack",
+      "file": "missing/A/353401-american-truck-simulator-halloween-paint-jobs-pack.json"
+    },
+    {
       "igdb_id": 223688,
       "game_name": "American Truck Simulator: Lode King & Prestige Trailers Pack",
       "file": "missing/A/223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json"
+    },
+    {
+      "igdb_id": 353408,
+      "game_name": "American Truck Simulator: Mack Pinnacle",
+      "file": "missing/A/353408-american-truck-simulator-mack-pinnacle.json"
+    },
+    {
+      "igdb_id": 353398,
+      "game_name": "American Truck Simulator: Pink Ribbon Charity Pack",
+      "file": "missing/A/353398-american-truck-simulator-pink-ribbon-charity-pack.json"
+    },
+    {
+      "igdb_id": 353405,
+      "game_name": "American Truck Simulator: Retrowave Paint Jobs Pack",
+      "file": "missing/A/353405-american-truck-simulator-retrowave-paint-jobs-pack.json"
+    },
+    {
+      "igdb_id": 353400,
+      "game_name": "American Truck Simulator: Space Paint Jobs Pack",
+      "file": "missing/A/353400-american-truck-simulator-space-paint-jobs-pack.json"
     },
     {
       "igdb_id": 268771,
@@ -10458,9 +10498,24 @@
       "file": "missing/A/120325-american-truck-simulator-utah.json"
     },
     {
+      "igdb_id": 353396,
+      "game_name": "American Truck Simulator: Valentine's Paint Jobs Pack",
+      "file": "missing/A/353396-american-truck-simulator-valentines-paint-jobs-pack.json"
+    },
+    {
+      "igdb_id": 353404,
+      "game_name": "American Truck Simulator: Volvo Construction Equipment",
+      "file": "missing/A/353404-american-truck-simulator-volvo-construction-equipment.json"
+    },
+    {
       "igdb_id": 211406,
       "game_name": "American Truck Simulator: Western Star 57X",
       "file": "missing/A/211406-american-truck-simulator-western-star-57x.json"
+    },
+    {
+      "igdb_id": 353402,
+      "game_name": "American Truck Simulator: Wheel Tuning Pack",
+      "file": "missing/A/353402-american-truck-simulator-wheel-tuning-pack.json"
     },
     {
       "igdb_id": 52581,
@@ -19558,6 +19613,11 @@
       "file": "missing/A/22270-astronot.json"
     },
     {
+      "igdb_id": 353380,
+      "game_name": "Astropark",
+      "file": "missing/A/353380-astropark.json"
+    },
+    {
       "igdb_id": 409682,
       "game_name": "Astrophidia",
       "file": "missing/A/409682-astrophidia.json"
@@ -23656,6 +23716,11 @@
       "igdb_id": 176497,
       "game_name": "Baldi's Basics 1 Year Birthday Bash!",
       "file": "missing/B/176497-baldis-basics-1-year-birthday-bash.json"
+    },
+    {
+      "igdb_id": 353384,
+      "game_name": "Baldi's Basics: Encounter Doors",
+      "file": "missing/B/353384-baldis-basics-encounter-doors.json"
     },
     {
       "igdb_id": 106637,
@@ -29343,6 +29408,11 @@
       "file": "missing/B/179700-befriendus.json"
     },
     {
+      "igdb_id": 353367,
+      "game_name": "Beggar to Emperor",
+      "file": "missing/B/353367-beggar-to-emperor.json"
+    },
+    {
       "igdb_id": 391612,
       "game_name": "Beggar's Life",
       "file": "missing/B/391612-beggars-life.json"
@@ -31296,6 +31366,11 @@
       "igdb_id": 100895,
       "game_name": "Biggest Impossible Ramp Ever",
       "file": "missing/B/100895-biggest-impossible-ramp-ever.json"
+    },
+    {
+      "igdb_id": 353385,
+      "game_name": "Biggest Piano",
+      "file": "missing/B/353385-biggest-piano.json"
     },
     {
       "igdb_id": 102379,
@@ -68178,6 +68253,11 @@
       "file": "missing/D/224768-dahliphoria.json"
     },
     {
+      "igdb_id": 353376,
+      "game_name": "Dai Datsugoku! Hell chama Prison no Yabou",
+      "file": "missing/D/353376-dai-datsugoku-hell-chama-prison-no-yabou.json"
+    },
+    {
       "igdb_id": 48636,
       "game_name": "Dai-2-ji Super Robot Taisen",
       "file": "missing/D/48636-dai-2-ji-super-robot-taisen.json"
@@ -72551,6 +72631,11 @@
       "igdb_id": 107838,
       "game_name": "Death and Betrayal in Romania: A Dana Knightstone Novel - Collector's Edition",
       "file": "missing/D/107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json"
+    },
+    {
+      "igdb_id": 353364,
+      "game_name": "Death and Tactics",
+      "file": "missing/D/353364-death-and-tactics.json"
     },
     {
       "igdb_id": 126835,
@@ -78046,6 +78131,11 @@
       "igdb_id": 82876,
       "game_name": "Dilarara!!",
       "file": "missing/D/82876-dilarara.json"
+    },
+    {
+      "igdb_id": 353363,
+      "game_name": "Dilemma: The Game",
+      "file": "missing/D/353363-dilemma-the-game.json"
     },
     {
       "igdb_id": 283684,
@@ -86121,6 +86211,11 @@
       "igdb_id": 368047,
       "game_name": "DreamPusher",
       "file": "missing/D/368047-dreampusher.json"
+    },
+    {
+      "igdb_id": 353379,
+      "game_name": "Dreamrealm's Tower of Despair",
+      "file": "missing/D/353379-dreamrealms-tower-of-despair.json"
     },
     {
       "igdb_id": 146277,
@@ -98038,6 +98133,11 @@
       "file": "missing/E/323744-evolife.json"
     },
     {
+      "igdb_id": 353371,
+      "game_name": "Evolized",
+      "file": "missing/E/353371-evolized.json"
+    },
+    {
       "igdb_id": 178006,
       "game_name": "Evolution",
       "file": "missing/E/178006-evolution.json"
@@ -102161,6 +102261,11 @@
       "igdb_id": 257967,
       "game_name": "Farm Manager World",
       "file": "missing/F/257967-farm-manager-world.json"
+    },
+    {
+      "igdb_id": 353382,
+      "game_name": "Farm of the Unseen",
+      "file": "missing/F/353382-farm-of-the-unseen.json"
     },
     {
       "igdb_id": 96696,
@@ -126978,6 +127083,11 @@
       "file": "missing/G/414406-grow-and-go-cozy-deliveries.json"
     },
     {
+      "igdb_id": 353394,
+      "game_name": "Grow a Girlfriend",
+      "file": "missing/G/353394-grow-a-girlfriend.json"
+    },
+    {
       "igdb_id": 259556,
       "game_name": "Grow Beets Clicker",
       "file": "missing/G/259556-grow-beets-clicker.json"
@@ -132491,6 +132601,11 @@
       "igdb_id": 291764,
       "game_name": "Hazard Pay",
       "file": "missing/H/291764-hazard-pay.json"
+    },
+    {
+      "igdb_id": 353393,
+      "game_name": "Hazard Versus",
+      "file": "missing/H/353393-hazard-versus.json"
     },
     {
       "igdb_id": 110332,
@@ -149328,6 +149443,11 @@
       "file": "missing/I/280202-inside-the-clockwork-pussy.json"
     },
     {
+      "igdb_id": 353383,
+      "game_name": "Inside the Crow's Nest",
+      "file": "missing/I/353383-inside-the-crows-nest.json"
+    },
+    {
       "igdb_id": 152862,
       "game_name": "Inside the Memories",
       "file": "missing/I/152862-inside-the-memories.json"
@@ -163098,6 +163218,11 @@
       "file": "missing/K/260941-kodoku-no-yurikago.json"
     },
     {
+      "igdb_id": 353375,
+      "game_name": "Kodomo-tachi no Kuni Magic Children",
+      "file": "missing/K/353375-kodomo-tachi-no-kuni-magic-children.json"
+    },
+    {
       "igdb_id": 50532,
       "game_name": "Koe",
       "file": "missing/K/50532-koe.json"
@@ -168768,6 +168893,11 @@
       "file": "missing/L/321117-leshy-prelude.json"
     },
     {
+      "igdb_id": 353374,
+      "game_name": "Leslie & Brianne's Galactic Rampage",
+      "file": "missing/L/353374-leslie-and-briannes-galactic-rampage.json"
+    },
+    {
       "igdb_id": 261556,
       "game_name": "Lessaria: Fantasy Kingdom Sim",
       "file": "missing/L/261556-lessaria-fantasy-kingdom-sim.json"
@@ -172826,6 +172956,11 @@
       "igdb_id": 339630,
       "game_name": "Logi Box",
       "file": "missing/L/339630-logi-box.json"
+    },
+    {
+      "igdb_id": 353412,
+      "game_name": "Logic Bombs",
+      "file": "missing/L/353412-logic-bombs.json"
     },
     {
       "igdb_id": 210854,
@@ -203208,6 +203343,11 @@
       "file": "missing/N/335682-narcissus.json"
     },
     {
+      "igdb_id": 353399,
+      "game_name": "Narco Express",
+      "file": "missing/N/353399-narco-express.json"
+    },
+    {
       "igdb_id": 16446,
       "game_name": "Narco Terror",
       "file": "missing/N/16446-narco-terror.json"
@@ -227808,6 +227948,11 @@
       "file": "missing/P/330529-pintar.json"
     },
     {
+      "igdb_id": 353377,
+      "game_name": "Pintern",
+      "file": "missing/P/353377-pintern.json"
+    },
+    {
       "igdb_id": 326968,
       "game_name": "Pinto",
       "file": "missing/P/326968-pinto.json"
@@ -228936,6 +229081,36 @@
       "igdb_id": 312026,
       "game_name": "Pixel Restorer",
       "file": "missing/P/312026-pixel-restorer.json"
+    },
+    {
+      "igdb_id": 353414,
+      "game_name": "Pixel Restorer: Image Folder 1",
+      "file": "missing/P/353414-pixel-restorer-image-folder-1.json"
+    },
+    {
+      "igdb_id": 353415,
+      "game_name": "Pixel Restorer: Image Folder 2",
+      "file": "missing/P/353415-pixel-restorer-image-folder-2.json"
+    },
+    {
+      "igdb_id": 353416,
+      "game_name": "Pixel Restorer: Image Folder 3",
+      "file": "missing/P/353416-pixel-restorer-image-folder-3.json"
+    },
+    {
+      "igdb_id": 353417,
+      "game_name": "Pixel Restorer: Image Folder 4",
+      "file": "missing/P/353417-pixel-restorer-image-folder-4.json"
+    },
+    {
+      "igdb_id": 353418,
+      "game_name": "Pixel Restorer: Image Folder 5",
+      "file": "missing/P/353418-pixel-restorer-image-folder-5.json"
+    },
+    {
+      "igdb_id": 353419,
+      "game_name": "Pixel Restorer: Image Folder 6",
+      "file": "missing/P/353419-pixel-restorer-image-folder-6.json"
     },
     {
       "igdb_id": 242384,
@@ -235823,6 +235998,11 @@
       "file": "missing/P/55474-prison-boss-vr.json"
     },
     {
+      "igdb_id": 353368,
+      "game_name": "Prison Break",
+      "file": "missing/P/353368-prison-break.json"
+    },
+    {
       "igdb_id": 75170,
       "game_name": "Prison Chainball Massacre",
       "file": "missing/P/75170-prison-chainball-massacre.json"
@@ -240486,6 +240666,11 @@
       "igdb_id": 295019,
       "game_name": "Pyramids and Aliens: Escape Room",
       "file": "missing/P/295019-pyramids-and-aliens-escape-room.json"
+    },
+    {
+      "igdb_id": 353395,
+      "game_name": "PyramidValley: Reborn",
+      "file": "missing/P/353395-pyramidvalley-reborn.json"
     },
     {
       "igdb_id": 397668,
@@ -249893,6 +250078,11 @@
       "file": "missing/R/391731-revive-and-repeat.json"
     },
     {
+      "igdb_id": 353372,
+      "game_name": "Revive The Town!",
+      "file": "missing/R/353372-revive-the-town.json"
+    },
+    {
       "igdb_id": 84199,
       "game_name": "Revive: C64 Classics",
       "file": "missing/R/84199-revive-c64-classics.json"
@@ -253991,6 +254181,11 @@
       "igdb_id": 414345,
       "game_name": "Rogue Waves",
       "file": "missing/R/414345-rogue-waves.json"
+    },
+    {
+      "igdb_id": 353409,
+      "game_name": "Rogue Words",
+      "file": "missing/R/353409-rogue-words.json"
     },
     {
       "igdb_id": 75766,
@@ -264886,6 +265081,11 @@
       "igdb_id": 348774,
       "game_name": "Serious Survivors",
       "file": "missing/S/348774-serious-survivors.json"
+    },
+    {
+      "igdb_id": 353386,
+      "game_name": "Serpent at the Vernissage",
+      "file": "missing/S/353386-serpent-at-the-vernissage.json"
     },
     {
       "igdb_id": 89291,
@@ -277948,6 +278148,11 @@
       "file": "missing/S/54388-solitaire-antics-ultimate-plus.json"
     },
     {
+      "igdb_id": 353365,
+      "game_name": "Solitaire Battle",
+      "file": "missing/S/353365-solitaire-battle.json"
+    },
+    {
       "igdb_id": 76589,
       "game_name": "Solitaire City",
       "file": "missing/S/76589-solitaire-city.json"
@@ -287248,6 +287453,11 @@
       "file": "missing/S/378291-star-revenge-redone-pc.json"
     },
     {
+      "igdb_id": 353391,
+      "game_name": "Star Rising",
+      "file": "missing/S/353391-star-rising.json"
+    },
+    {
       "igdb_id": 320744,
       "game_name": "Star Ronin",
       "file": "missing/S/320744-star-ronin.json"
@@ -290911,6 +291121,11 @@
       "igdb_id": 257115,
       "game_name": "Storia Stories",
       "file": "missing/S/257115-storia-stories.json"
+    },
+    {
+      "igdb_id": 353378,
+      "game_name": "Stories of Somnia",
+      "file": "missing/S/353378-stories-of-somnia.json"
     },
     {
       "igdb_id": 163943,
@@ -301693,6 +301908,11 @@
       "file": "missing/S/288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json"
     },
     {
+      "igdb_id": 353389,
+      "game_name": "Synth Riders: Daryl Hall & John Oates - \"Out of Touch\"",
+      "file": "missing/S/353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json"
+    },
+    {
       "igdb_id": 356180,
       "game_name": "Synth Riders: Groovin' Essentials",
       "file": "missing/S/356180-synth-riders-groovin-essentials.json"
@@ -301791,6 +302011,11 @@
       "igdb_id": 288237,
       "game_name": "Synth Riders: Tamela D'Amico, Wolfgang Lohr - \"Boring 20s\"",
       "file": "missing/S/288237-synth-riders-tamela-damico-wolfgang-lohr-boring-20s.json"
+    },
+    {
+      "igdb_id": 353390,
+      "game_name": "Synth Riders: The Cure - \"Just Like Heaven\"",
+      "file": "missing/S/353390-synth-riders-the-cure-just-like-heaven.json"
     },
     {
       "igdb_id": 356192,
@@ -301991,6 +302216,11 @@
       "igdb_id": 321959,
       "game_name": "System Reject",
       "file": "missing/S/321959-system-reject.json"
+    },
+    {
+      "igdb_id": 353370,
+      "game_name": "System Shock: Rewired",
+      "file": "missing/S/353370-system-shock-rewired.json"
     },
     {
       "igdb_id": 167763,
@@ -312301,6 +312531,11 @@
       "igdb_id": 159841,
       "game_name": "The Death of Zoe",
       "file": "missing/T/159841-the-death-of-zoe.json"
+    },
+    {
+      "igdb_id": 353381,
+      "game_name": "The Deathmind",
+      "file": "missing/T/353381-the-deathmind.json"
     },
     {
       "igdb_id": 310421,
@@ -352833,6 +353068,11 @@
       "file": "missing/W/49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json"
     },
     {
+      "igdb_id": 353366,
+      "game_name": "Walthros",
+      "file": "missing/W/353366-walthros.json"
+    },
+    {
       "igdb_id": 135227,
       "game_name": "Waluigi's Taco Stand",
       "file": "missing/W/135227-waluigis-taco-stand.json"
@@ -355371,6 +355611,11 @@
       "igdb_id": 15485,
       "game_name": "We Are the Dwarves",
       "file": "missing/W/15485-we-are-the-dwarves.json"
+    },
+    {
+      "igdb_id": 353411,
+      "game_name": "We are the Literature Club",
+      "file": "missing/W/353411-we-are-the-literature-club.json"
     },
     {
       "igdb_id": 196864,
@@ -365156,6 +365401,11 @@
       "igdb_id": 252137,
       "game_name": "Yatzy Addict+",
       "file": "missing/Y/252137-yatzy-addict.json"
+    },
+    {
+      "igdb_id": 353407,
+      "game_name": "Yawara!: Yawara no Seishun",
+      "file": "missing/Y/353407-yawara-yawara-no-seishun.json"
     },
     {
       "igdb_id": 337091,
