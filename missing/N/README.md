@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Park Girls: Episode 4 - Eternal Evergreen Part 1 | 164446 | [164446-national-park-girls-episode-4-eternal-evergreen-part-1.json](./164446-national-park-girls-episode-4-eternal-evergreen-part-1.json) |
 | National Rugby Manager | 81005 | [81005-national-rugby-manager.json](./81005-national-rugby-manager.json) |
 | Nationality Guesser | 340229 | [340229-nationality-guesser.json](./340229-nationality-guesser.json) |
+| Nations | 366326 | [366326-nations.json](./366326-nations.json) |
 | Nations At War Digital: Desert Heat Battlepack 1 | 166200 | [166200-nations-at-war-digital-desert-heat-battlepack-1.json](./166200-nations-at-war-digital-desert-heat-battlepack-1.json) |
 | Nations At War Digital: Desert Heat Battlepack 2 | 166199 | [166199-nations-at-war-digital-desert-heat-battlepack-2.json](./166199-nations-at-war-digital-desert-heat-battlepack-2.json) |
 | Nations At War Digital: Stalin's Triumph Battlepack 1 | 166197 | [166197-nations-at-war-digital-stalins-triumph-battlepack-1.json](./166197-nations-at-war-digital-stalins-triumph-battlepack-1.json) |
@@ -1814,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numachina | 350412 | [350412-numachina.json](./350412-numachina.json) |
 | Numb: Just Don't Think About It | 255103 | [255103-numb-just-dont-think-about-it.json](./255103-numb-just-dont-think-about-it.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
+| Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
 | Number Guesser | 97905 | [97905-number-guesser.json](./97905-number-guesser.json) |
 | Number Islands | 139923 | [139923-number-islands.json](./139923-number-islands.json) |
 | Number Master | 223995 | [223995-number-master.json](./223995-number-master.json) |
