@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks But No Tanks | 40724 | [40724-tanks-but-no-tanks.json](./40724-tanks-but-no-tanks.json) |
 | Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
+| Tanks Rebirth | 357342 | [357342-tanks-rebirth.json](./357342-tanks-rebirth.json) |
 | Tankura: Tango Crush - Kotoba Keshi Tango Puzzle Game | 208938 | [208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json](./208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json) |
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
 | Tanokai Chapter 1 | 178571 | [178571-tanokai-chapter-1.json](./178571-tanokai-chapter-1.json) |
