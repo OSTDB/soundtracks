@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Winter | 258172 | [258172-lost-in-winter.json](./258172-lost-in-winter.json) |
 | Lost in Yomori | 382283 | [382283-lost-in-yomori.json](./382283-lost-in-yomori.json) |
 | Lost Inside: Act 1 | 291751 | [291751-lost-inside-act-1.json](./291751-lost-inside-act-1.json) |
+| Lost Island | 350508 | [350508-lost-island.json](./350508-lost-island.json) |
 | Lost Isle | 269320 | [269320-lost-isle.json](./269320-lost-isle.json) |
 | Lost Judgment | 146851 | [146851-lost-judgment.json](./146851-lost-judgment.json) |
 | Lost Judgment: Detective Essentials Pack | 264067 | [264067-lost-judgment-detective-essentials-pack.json](./264067-lost-judgment-detective-essentials-pack.json) |
