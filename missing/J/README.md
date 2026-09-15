@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JR East Train Simulator: Senseki Line (Aobadori to Ishinomaki) 205-3100 series | 253926 | [253926-jr-east-train-simulator-senseki-line-aobadori-to-ishinomaki-205-3100-series.json](./253926-jr-east-train-simulator-senseki-line-aobadori-to-ishinomaki-205-3100-series.json) |
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
 | Jrago III Requiem of the Night | 390531 | [390531-jrago-iii-requiem-of-the-night.json](./390531-jrago-iii-requiem-of-the-night.json) |
+| JRoguePG | 346657 | [346657-jroguepg.json](./346657-jroguepg.json) |
 | Ju Ju Densetsu | 40202 | [40202-ju-ju-densetsu.json](./40202-ju-ju-densetsu.json) |
 | Ju-on: The Grudge | 4945 | [4945-ju-on-the-grudge.json](./4945-ju-on-the-grudge.json) |
 | Juanito Arcade Mayhem | 36629 | [36629-juanito-arcade-mayhem.json](./36629-juanito-arcade-mayhem.json) |
