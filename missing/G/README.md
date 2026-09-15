@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambler Jiko Chuushinha 2 | 267650 | [267650-gambler-jiko-chuushinha-2.json](./267650-gambler-jiko-chuushinha-2.json) |
 | Gambler: Queen's Cup | 360589 | [360589-gambler-queens-cup.json](./360589-gambler-queens-cup.json) |
 | Gambler’s Loop | 348862 | [348862-gambler-s-loop.json](./348862-gambler-s-loop.json) |
+| Gambling Forever | 347789 | [347789-gambling-forever.json](./347789-gambling-forever.json) |
 | Game | 346610 | [346610-game.json](./346610-game.json) |
 | Game & Watch Donkey Kong Jr | 339261 | [339261-game-and-watch-donkey-kong-jr.json](./339261-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Donkey Kong Jr. | 206932 | [206932-game-and-watch-donkey-kong-jr.json](./206932-game-and-watch-donkey-kong-jr.json) |
@@ -2220,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groovekeeper: Sort the Record Shop | 415165 | [415165-groovekeeper-sort-the-record-shop.json](./415165-groovekeeper-sort-the-record-shop.json) |
 | Grooverland | 230547 | [230547-grooverland.json](./230547-grooverland.json) |
 | Grooveyard | 321347 | [321347-grooveyard.json](./321347-grooveyard.json) |
+| Groovity | 347791 | [347791-groovity.json](./347791-groovity.json) |
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
 | Gross | 150091 | [150091-gross.json](./150091-gross.json) |
 | Grotesque Tactics: Evil Heroes | 18914 | [18914-grotesque-tactics-evil-heroes.json](./18914-grotesque-tactics-evil-heroes.json) |
@@ -2649,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyousatsu! Spirits: Final Version | 137598 | [137598-gyousatsu-spirits-final-version.json](./137598-gyousatsu-spirits-final-version.json) |
 | Gypsy | 24900 | [24900-gypsy.json](./24900-gypsy.json) |
 | Gyras: Rogue | 305540 | [305540-gyras-rogue.json](./305540-gyras-rogue.json) |
+| Gyre | 347749 | [347749-gyre.json](./347749-gyre.json) |
 | Gyro Gear Tournament+ | 211733 | [211733-gyro-gear-tournament.json](./211733-gyro-gear-tournament.json) |
 | Gyro Star VIP | 106553 | [106553-gyro-star-vip.json](./106553-gyro-star-vip.json) |
 | Gyrodine | 39682 | [39682-gyrodine.json](./39682-gyrodine.json) |
