@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
 | Endless History | 320771 | [320771-endless-history.json](./320771-endless-history.json) |
 | Endless Knight | 126901 | [126901-endless-knight.json](./126901-endless-knight.json) |
+| Endless Legend: Definitive Edition | 343851 | [343851-endless-legend-definitive-edition.json](./343851-endless-legend-definitive-edition.json) |
 | Endless Legend: Tempest | 24933 | [24933-endless-legend-tempest.json](./24933-endless-legend-tempest.json) |
 | Endless Love | 152933 | [152933-endless-love.json](./152933-endless-love.json) |
 | Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
@@ -1161,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erix | 274743 | [274743-erix.json](./274743-erix.json) |
 | Erk: Adventures in Stone Age Real Estate | 322347 | [322347-erk-adventures-in-stone-age-real-estate.json](./322347-erk-adventures-in-stone-age-real-estate.json) |
 | Erl | 362859 | [362859-erl.json](./362859-erl.json) |
+| Ero Condo: Remastered | 343882 | [343882-ero-condo-remastered.json](./343882-ero-condo-remastered.json) |
 | Ero Date | 107822 | [107822-ero-date.json](./107822-ero-date.json) |
 | Ero Zemi: Ecchi ni Yaru-ki ni ABC | 194579 | [194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json](./194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json) |
 | Eroblast: Playful Edition | 259572 | [259572-eroblast-playful-edition.json](./259572-eroblast-playful-edition.json) |
