@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against All Odds | 228719 | [228719-against-all-odds.json](./228719-against-all-odds.json) |
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
+| Against Twilight | 349927 | [349927-against-twilight.json](./349927-against-twilight.json) |
 | Agalta II | 372561 | [372561-agalta-ii.json](./372561-agalta-ii.json) |
 | Agame | 269042 | [269042-agame.json](./269042-agame.json) |
 | Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
@@ -695,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Igo 2003 | 269325 | [269325-ai-igo-2003.json](./269325-ai-igo-2003.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
+| AI Mahjong Selection | 349952 | [349952-ai-mahjong-selection.json](./349952-ai-mahjong-selection.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
 | AI Protocol | 393603 | [393603-ai-protocol.json](./393603-ai-protocol.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
@@ -3087,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash. | 76669 | [76669-ash.json](./76669-ash.json) |
 | AshBall | 373653 | [373653-ashball.json](./373653-ashball.json) |
 | Ashen Arrows | 211413 | [211413-ashen-arrows.json](./211413-ashen-arrows.json) |
+| Ashen Daughter | 349929 | [349929-ashen-daughter.json](./349929-ashen-daughter.json) |
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
 | Ashen Knights: One Passage | 211181 | [211181-ashen-knights-one-passage.json](./211181-ashen-knights-one-passage.json) |
 | Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
