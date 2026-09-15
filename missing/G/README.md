@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Senshi Dendoh | 19595 | [19595-gear-senshi-dendoh.json](./19595-gear-senshi-dendoh.json) |
 | Gear Slots | 389972 | [389972-gear-slots.json](./389972-gear-slots.json) |
 | Gear Stadium Heisei-ban | 46605 | [46605-gear-stadium-heisei-ban.json](./46605-gear-stadium-heisei-ban.json) |
+| Gear Up Einstein! | 342137 | [342137-gear-up-einstein.json](./342137-gear-up-einstein.json) |
 | Gear Up: Premium | 90552 | [90552-gear-up-premium.json](./90552-gear-up-premium.json) |
 | Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
 | Gear.Club Unlimited 3 | 381154 | [381154-gear-club-unlimited-3.json](./381154-gear-club-unlimited-3.json) |
@@ -2463,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Gun Pixies | 27281 | [27281-gun-gun-pixies.json](./27281-gun-gun-pixies.json) |
 | Gun Head Shot | 231935 | [231935-gun-head-shot.json](./231935-gun-head-shot.json) |
 | Gun Man | 346091 | [346091-gun-man.json](./346091-gun-man.json) |
+| Gun Mayhem | 342123 | [342123-gun-mayhem.json](./342123-gun-mayhem.json) |
 | Gun on the Chickahominy | 148473 | [148473-gun-on-the-chickahominy.json](./148473-gun-on-the-chickahominy.json) |
 | Gun Paradise | 348260 | [348260-gun-paradise.json](./348260-gun-paradise.json) |
 | Gun Party | 158227 | [158227-gun-party.json](./158227-gun-party.json) |
