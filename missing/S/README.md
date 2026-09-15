@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi Taisen 3 War Begins | 64974 | [64974-sangokushi-taisen-3-war-begins.json](./64974-sangokushi-taisen-3-war-begins.json) |
 | Sangokushi: Chuugen no Hasha | 64448 | [64448-sangokushi-chuugen-no-hasha.json](./64448-sangokushi-chuugen-no-hasha.json) |
 | SangRaciner | 244265 | [244265-sangraciner.json](./244265-sangraciner.json) |
+| Sanguinaria | 337674 | [337674-sanguinaria.json](./337674-sanguinaria.json) |
 | Sanguine | 260425 | [260425-sanguine.json](./260425-sanguine.json) |
 | Sanguine Holy Land | 299431 | [299431-sanguine-holy-land.json](./299431-sanguine-holy-land.json) |
 | Sanguine Melancholia | 138730 | [138730-sanguine-melancholia.json](./138730-sanguine-melancholia.json) |
@@ -1102,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Base | 388257 | [388257-second-base.json](./388257-second-base.json) |
 | Second Chance | 111668 | [111668-second-chance.json](./111668-second-chance.json) |
 | Second Chance | 182971 | [182971-second-chance.json](./182971-second-chance.json) |
+| Second Chances | 337728 | [337728-second-chances.json](./337728-second-chances.json) |
 | Second Coming: Tactical Training | 35641 | [35641-second-coming-tactical-training.json](./35641-second-coming-tactical-training.json) |
 | Second Death | 377178 | [377178-second-death.json](./377178-second-death.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
@@ -1216,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
 | Seedbo And That Time The Sun Exploded | 325829 | [325829-seedbo-and-that-time-the-sun-exploded.json](./325829-seedbo-and-that-time-the-sun-exploded.json) |
 | Seedborne Soldiers | 349390 | [349390-seedborne-soldiers.json](./349390-seedborne-soldiers.json) |
+| Seeds | 337669 | [337669-seeds.json](./337669-seeds.json) |
 | Seeds Life | 25756 | [25756-seeds-life.json](./25756-seeds-life.json) |
 | Seeds of Calamity | 194561 | [194561-seeds-of-calamity.json](./194561-seeds-of-calamity.json) |
 | Seeds of Hope: The Last Stand | 184561 | [184561-seeds-of-hope-the-last-stand.json](./184561-seeds-of-hope-the-last-stand.json) |
@@ -1508,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven: The Days Long Gone | 18908 | [18908-seven-the-days-long-gone.json](./18908-seven-the-days-long-gone.json) |
 | Sevenfall | 387540 | [387540-sevenfall.json](./387540-sevenfall.json) |
 | Seventh Angel | 189129 | [189129-seventh-angel.json](./189129-seventh-angel.json) |
+| Seventh Choir | 337713 | [337713-seventh-choir.json](./337713-seventh-choir.json) |
 | Sever the Wicked! | 363470 | [363470-sever-the-wicked.json](./363470-sever-the-wicked.json) |
 | Severance | 196235 | [196235-severance.json](./196235-severance.json) |
 | Severance | 327843 | [327843-severance.json](./327843-severance.json) |
@@ -1665,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Death 2: RPG Games | 323176 | [323176-shadow-of-death-2-rpg-games.json](./323176-shadow-of-death-2-rpg-games.json) |
 | Shadow of Death: Dark Knight | 100823 | [100823-shadow-of-death-dark-knight.json](./100823-shadow-of-death-dark-knight.json) |
 | Shadow of Ganymede | 43337 | [43337-shadow-of-ganymede.json](./43337-shadow-of-ganymede.json) |
+| Shadow of Light | 337686 | [337686-shadow-of-light.json](./337686-shadow-of-light.json) |
 | Shadow of Mammon | 258453 | [258453-shadow-of-mammon.json](./258453-shadow-of-mammon.json) |
 | Shadow of Paris | 385563 | [385563-shadow-of-paris.json](./385563-shadow-of-paris.json) |
 | Shadow of the Beast | 5434 | [5434-shadow-of-the-beast.json](./5434-shadow-of-the-beast.json) |
@@ -1739,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
 | Shadows Behind the Throne 2 | 158178 | [158178-shadows-behind-the-throne-2.json](./158178-shadows-behind-the-throne-2.json) |
+| Shadows Beneath the Badge: An Undercover Affair | 337705 | [337705-shadows-beneath-the-badge-an-undercover-affair.json](./337705-shadows-beneath-the-badge-an-undercover-affair.json) |
 | Shadows in the Dark | 217335 | [217335-shadows-in-the-dark.json](./217335-shadows-in-the-dark.json) |
 | Shadows in the Silence | 374081 | [374081-shadows-in-the-silence.json](./374081-shadows-in-the-silence.json) |
 | Shadows of a Sunless World | 183063 | [183063-shadows-of-a-sunless-world.json](./183063-shadows-of-a-sunless-world.json) |
@@ -2086,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei II Gaiden: Mato Houkai | 138168 | [138168-shin-megami-tensei-ii-gaiden-mato-houkai.json](./138168-shin-megami-tensei-ii-gaiden-mato-houkai.json) |
 | Shin Megami Tensei III: Nocturne | 336392 | [336392-shin-megami-tensei-iii-nocturne.json](./336392-shin-megami-tensei-iii-nocturne.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster | 135913 | [135913-shin-megami-tensei-iii-nocturne-hd-remaster.json](./135913-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
+| Shin Megami Tensei III: Nocturne - HD Remaster | 337718 | [337718-shin-megami-tensei-iii-nocturne-hd-remaster.json](./337718-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster: Chronicle Pack | 336554 | [336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json](./336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json) |
 | Shin Megami Tensei III: Nocturne Maniax Chronicle Edition | 231375 | [231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json](./231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of EXP | 315481 | [315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json](./315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json) |
@@ -4248,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & Sega All-Stars Racing Arcade | 280800 | [280800-sonic-and-sega-all-stars-racing-arcade.json](./280800-sonic-and-sega-all-stars-racing-arcade.json) |
 | Sonic & Shadow | 330516 | [330516-sonic-and-shadow.json](./330516-sonic-and-shadow.json) |
 | Sonic & Shadow | 336350 | [336350-sonic-and-shadow.json](./336350-sonic-and-shadow.json) |
+| Sonic 1 Pilot | 337708 | [337708-sonic-1-pilot.json](./337708-sonic-1-pilot.json) |
 | Sonic 1 Spike Bug Fix & Spindash | 198532 | [198532-sonic-1-spike-bug-fix-and-spindash.json](./198532-sonic-1-spike-bug-fix-and-spindash.json) |
 | Sonic 1: South Island Expedition | 215157 | [215157-sonic-1-south-island-expedition.json](./215157-sonic-1-south-island-expedition.json) |
 | Sonic 2: Chaos Adventure | 333957 | [333957-sonic-2-chaos-adventure.json](./333957-sonic-2-chaos-adventure.json) |
@@ -4967,6 +4975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
 | Space raven quest - Tiny planet | 120965 | [120965-space-raven-quest-tiny-planet.json](./120965-space-raven-quest-tiny-planet.json) |
 | Space Rescue: Code Pink | 169417 | [169417-space-rescue-code-pink.json](./169417-space-rescue-code-pink.json) |
+| Space Restaurant | 337722 | [337722-space-restaurant.json](./337722-space-restaurant.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
 | Space Riddle: Spaceship Puzzle | 248645 | [248645-space-riddle-spaceship-puzzle.json](./248645-space-riddle-spaceship-puzzle.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
@@ -6472,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Dragon Ex | 43341 | [43341-steel-dragon-ex.json](./43341-steel-dragon-ex.json) |
 | Steel Empire | 49383 | [49383-steel-empire.json](./49383-steel-empire.json) |
 | Steel Force | 39670 | [39670-steel-force.json](./39670-steel-force.json) |
+| Steel Hearts | 337703 | [337703-steel-hearts.json](./337703-steel-hearts.json) |
 | Steel Horizon | 20691 | [20691-steel-horizon.json](./20691-steel-horizon.json) |
 | Steel Hunters | 301568 | [301568-steel-hunters.json](./301568-steel-hunters.json) |
 | Steel Judgment | 329589 | [329589-steel-judgment.json](./329589-steel-judgment.json) |
@@ -6792,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strain | 237351 | [237351-strain.json](./237351-strain.json) |
 | Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
 | Strand | 320715 | [320715-strand.json](./320715-strand.json) |
+| Stranded | 337676 | [337676-stranded.json](./337676-stranded.json) |
 | Stranded at Sea | 365737 | [365737-stranded-at-sea.json](./365737-stranded-at-sea.json) |
 | Stranded Engineers | 273398 | [273398-stranded-engineers.json](./273398-stranded-engineers.json) |
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
@@ -7291,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku: Unlimited Expansion | 405622 | [405622-sudoku-unlimited-expansion.json](./405622-sudoku-unlimited-expansion.json) |
 | Sudoku! For Watch | 368475 | [368475-sudoku-for-watch.json](./368475-sudoku-for-watch.json) |
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
+| Sudokuro: Sudoku & Kakuro Games | 337677 | [337677-sudokuro-sudoku-and-kakuro-games.json](./337677-sudokuro-sudoku-and-kakuro-games.json) |
 | Sue Shi Survival | 219584 | [219584-sue-shi-survival.json](./219584-sue-shi-survival.json) |
 | Suez Canal Bulldozer | 181865 | [181865-suez-canal-bulldozer.json](./181865-suez-canal-bulldozer.json) |
 | Suez Canal Girl | 368042 | [368042-suez-canal-girl.json](./368042-suez-canal-girl.json) |
@@ -7469,6 +7481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunflower Maintenance | 186260 | [186260-sunflower-maintenance.json](./186260-sunflower-maintenance.json) |
 | Sunflower Stronghold | 384519 | [384519-sunflower-stronghold.json](./384519-sunflower-stronghold.json) |
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
+| Sungaia Saga | 337731 | [337731-sungaia-saga.json](./337731-sungaia-saga.json) |
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
 | Sunken Seeker | 386693 | [386693-sunken-seeker.json](./386693-sunken-seeker.json) |
