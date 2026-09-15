@@ -511,7 +511,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermath | 35770 | [35770-aftermath.json](./35770-aftermath.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
-| AfterShocked! | 69816 | [69816-aftershocked.json](./69816-aftershocked.json) |
 | Afterslave | 210857 | [210857-afterslave.json](./210857-afterslave.json) |
 | Aftertime | 211420 | [211420-aftertime.json](./211420-aftertime.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
