@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon: Total War - The Peninsular Campaign | 82109 | [82109-napoleon-total-war-the-peninsular-campaign.json](./82109-napoleon-total-war-the-peninsular-campaign.json) |
 | Napoleon's Campaigns | 21362 | [21362-napoleons-campaigns.json](./21362-napoleons-campaigns.json) |
 | Narabete Quiz Kotowaza Tsukurou | 251612 | [251612-narabete-quiz-kotowaza-tsukurou.json](./251612-narabete-quiz-kotowaza-tsukurou.json) |
+| Naraka Bladepoint: Playstation Plus Gift Pack S16 | 341001 | [341001-naraka-bladepoint-playstation-plus-gift-pack-s16.json](./341001-naraka-bladepoint-playstation-plus-gift-pack-s16.json) |
 | Narara Superboard: Hwansang Seoyugi | 145599 | [145599-narara-superboard-hwansang-seoyugi.json](./145599-narara-superboard-hwansang-seoyugi.json) |
 | Narborion by Night | 98479 | [98479-narborion-by-night.json](./98479-narborion-by-night.json) |
 | Narc | 307956 | [307956-narc.json](./307956-narc.json) |
