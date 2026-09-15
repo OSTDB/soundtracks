@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Enchantress: Legendary Heroes - Leader Pack DLC | 168370 | [168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json](./168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json) |
 | Fallen Enchantress: Legendary Heroes - Quest Pack DLC | 168379 | [168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json](./168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json) |
 | Fallen Enchantress: Legendary Heroes - The Dead World DLC | 168380 | [168380-fallen-enchantress-legendary-heroes-the-dead-world-dlc.json](./168380-fallen-enchantress-legendary-heroes-the-dead-world-dlc.json) |
+| Fallen Evolution | 334792 | [334792-fallen-evolution.json](./334792-fallen-evolution.json) |
 | Fallen Fates | 345579 | [345579-fallen-fates.json](./345579-fallen-fates.json) |
 | Fallen from Grace | 271220 | [271220-fallen-from-grace.json](./271220-fallen-from-grace.json) |
 | Fallen Haven: Liberation Day | 154493 | [154493-fallen-haven-liberation-day.json](./154493-fallen-haven-liberation-day.json) |
@@ -1657,6 +1658,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Girl - Studio Coach | 86814 | [86814-fitness-girl-studio-coach.json](./86814-fitness-girl-studio-coach.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
 | Fitting-In | 253942 | [253942-fitting-in.json](./253942-fitting-in.json) |
+| Fitzzle Adorable Puppies | 334783 | [334783-fitzzle-adorable-puppies.json](./334783-fitzzle-adorable-puppies.json) |
+| Fitzzle Mighty Bears | 334773 | [334773-fitzzle-mighty-bears.json](./334773-fitzzle-mighty-bears.json) |
+| Fitzzle Precious Dolphins | 334778 | [334778-fitzzle-precious-dolphins.json](./334778-fitzzle-precious-dolphins.json) |
+| Fitzzle Regal Tigers | 334777 | [334777-fitzzle-regal-tigers.json](./334777-fitzzle-regal-tigers.json) |
+| Fitzzle Wise Owls | 334779 | [334779-fitzzle-wise-owls.json](./334779-fitzzle-wise-owls.json) |
 | Fitzzle: Vicious Alligators | 108412 | [108412-fitzzle-vicious-alligators.json](./108412-fitzzle-vicious-alligators.json) |
 | Five A Day | 9135 | [9135-five-a-day.json](./9135-five-a-day.json) |
 | Five a Side Football 2024 | 267413 | [267413-five-a-side-football-2024.json](./267413-five-a-side-football-2024.json) |
@@ -3077,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Basket TV | 196858 | [196858-fruit-basket-tv.json](./196858-fruit-basket-tv.json) |
 | Fruit Bonanza | 195698 | [195698-fruit-bonanza.json](./195698-fruit-bonanza.json) |
 | Fruit Box Idle | 391746 | [391746-fruit-box-idle.json](./391746-fruit-box-idle.json) |
+| Fruit Candypop | 334755 | [334755-fruit-candypop.json](./334755-fruit-candypop.json) |
 | Fruit Catcher | 397067 | [397067-fruit-catcher.json](./397067-fruit-catcher.json) |
 | Fruit Clicker | 150646 | [150646-fruit-clicker.json](./150646-fruit-clicker.json) |
 | Fruit Cocktail | 257669 | [257669-fruit-cocktail.json](./257669-fruit-cocktail.json) |
@@ -3096,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Postal Service | 119777 | [119777-fruit-postal-service.json](./119777-fruit-postal-service.json) |
 | Fruit Salad Theory | 186807 | [186807-fruit-salad-theory.json](./186807-fruit-salad-theory.json) |
 | Fruit Slide | 359993 | [359993-fruit-slide.json](./359993-fruit-slide.json) |
+| Fruit Sudoku | 334750 | [334750-fruit-sudoku.json](./334750-fruit-sudoku.json) |
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
