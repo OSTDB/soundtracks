@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T03:01:45.519Z",
-  "total_missing": 72170,
+  "generated_at": "2026-09-15T03:11:32.875Z",
+  "total_missing": 72174,
   "games": [
     {
       "igdb_id": 306086,
@@ -4946,11 +4946,6 @@
       "igdb_id": 32355,
       "game_name": "Affairs of the Court: Choice of Romance",
       "file": "missing/A/32355-affairs-of-the-court-choice-of-romance.json"
-    },
-    {
-      "igdb_id": 52574,
-      "game_name": "Affairs of the Court: Deluxe Edition",
-      "file": "missing/A/52574-affairs-of-the-court-deluxe-edition.json"
     },
     {
       "igdb_id": 146347,
@@ -83736,6 +83731,11 @@
       "igdb_id": 32896,
       "game_name": "Dream Car Racing 3D",
       "file": "missing/D/32896-dream-car-racing-3d.json"
+    },
+    {
+      "igdb_id": 374175,
+      "game_name": "Dream Cat Paradise",
+      "file": "missing/D/374175-dream-cat-paradise.json"
     },
     {
       "igdb_id": 164448,
@@ -168928,6 +168928,11 @@
       "file": "missing/L/152279-lonely-people-potion-shop.json"
     },
     {
+      "igdb_id": 374174,
+      "game_name": "Lonely Planet",
+      "file": "missing/L/374174-lonely-planet.json"
+    },
+    {
       "igdb_id": 111680,
       "game_name": "Lonely shooter",
       "file": "missing/L/111680-lonely-shooter.json"
@@ -171606,6 +171611,11 @@
       "igdb_id": 127550,
       "game_name": "Luigi's Mansion 3: Multiplayer Pack - Part 2",
       "file": "missing/L/127550-luigis-mansion-3-multiplayer-pack-part-2.json"
+    },
+    {
+      "igdb_id": 374176,
+      "game_name": "Luigi's Mansion 64.5: Super Player Mode",
+      "file": "missing/L/374176-luigis-mansion-64-5-super-player-mode.json"
     },
     {
       "igdb_id": 313113,
@@ -199601,6 +199611,11 @@
       "igdb_id": 111743,
       "game_name": "Negligee: Love Stories",
       "file": "missing/N/111743-negligee-love-stories.json"
+    },
+    {
+      "igdb_id": 374179,
+      "game_name": "Negotiations Have Failed!",
+      "file": "missing/N/374179-negotiations-have-failed.json"
     },
     {
       "igdb_id": 306676,
@@ -232226,6 +232241,11 @@
       "igdb_id": 93590,
       "game_name": "Pteroglider",
       "file": "missing/P/93590-pteroglider.json"
+    },
+    {
+      "igdb_id": 374177,
+      "game_name": "Ptolem's Singing Catacombs",
+      "file": "missing/P/374177-ptolems-singing-catacombs.json"
     },
     {
       "igdb_id": 383395,
