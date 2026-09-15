@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse of Elysium | 295815 | [295815-eclipse-of-elysium.json](./295815-eclipse-of-elysium.json) |
 | Eclipse: Edge of Light | 27809 | [27809-eclipse-edge-of-light.json](./27809-eclipse-edge-of-light.json) |
 | Eclipse: Fall - Kami no Danzai | 379353 | [379353-eclipse-fall-kami-no-danzai.json](./379353-eclipse-fall-kami-no-danzai.json) |
+| Eclipse: Special Forces | 345002 | [345002-eclipse-special-forces.json](./345002-eclipse-special-forces.json) |
 | Eco City | 397760 | [397760-eco-city.json](./397760-eco-city.json) |
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
 | Eco Shooter: Plant 530 | 20506 | [20506-eco-shooter-plant-530.json](./20506-eco-shooter-plant-530.json) |
