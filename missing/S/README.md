@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
 | Sauna | 178039 | [178039-sauna.json](./178039-sauna.json) |
+| Saunageddon | 348837 | [348837-saunageddon.json](./348837-saunageddon.json) |
 | Saurian | 19384 | [19384-saurian.json](./19384-saurian.json) |
 | Sausage Cat | 320774 | [320774-sausage-cat.json](./320774-sausage-cat.json) |
 | Sausage Fiesta | 153363 | [153363-sausage-fiesta.json](./153363-sausage-fiesta.json) |
@@ -1142,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
 | Secret Paths to the Sea | 70382 | [70382-secret-paths-to-the-sea.json](./70382-secret-paths-to-the-sea.json) |
 | Secret Paws: Cozy Apartments | 363887 | [363887-secret-paws-cozy-apartments.json](./363887-secret-paws-cozy-apartments.json) |
+| Secret Paws: Cozy Offices | 348838 | [348838-secret-paws-cozy-offices.json](./348838-secret-paws-cozy-offices.json) |
 | Secret Pet Detective | 96574 | [96574-secret-pet-detective.json](./96574-secret-pet-detective.json) |
 | Secret Pet Playmate | 243930 | [243930-secret-pet-playmate.json](./243930-secret-pet-playmate.json) |
 | Secret Pie: End Roll | 298024 | [298024-secret-pie-end-roll.json](./298024-secret-pie-end-roll.json) |
@@ -2403,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuriken Block | 61058 | [61058-shuriken-block.json](./61058-shuriken-block.json) |
 | Shuriken Master! | 108493 | [108493-shuriken-master.json](./108493-shuriken-master.json) |
 | Shuriken Trigger | 326074 | [326074-shuriken-trigger.json](./326074-shuriken-trigger.json) |
+| Shuruka Boxing | 348844 | [348844-shuruka-boxing.json](./348844-shuruka-boxing.json) |
 | Shǔshān: Chū Zhāng Mǎiduàn Bǎn | 368536 | [368536-shushan-chu-zhang-maiduan-ban.json](./368536-shushan-chu-zhang-maiduan-ban.json) |
 | Shǔshān: Chū Zhāng Wǎngluò Bǎn | 368546 | [368546-shushan-chu-zhang-wangluo-ban.json](./368546-shushan-chu-zhang-wangluo-ban.json) |
 | Shǔshān: Chū Zhāng Zhèngshì Bǎn | 368575 | [368575-shushan-chu-zhang-zhengshi-ban.json](./368575-shushan-chu-zhang-zhengshi-ban.json) |
@@ -3297,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Experiments | 265148 | [265148-slime-experiments.json](./265148-slime-experiments.json) |
 | Slime Factory | 367980 | [367980-slime-factory.json](./367980-slime-factory.json) |
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
+| Slime Guy | 348881 | [348881-slime-guy.json](./348881-slime-guy.json) |
 | Slime Jumper | 34316 | [34316-slime-jumper.json](./34316-slime-jumper.json) |
 | Slime Killer | 163910 | [163910-slime-killer.json](./163910-slime-killer.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
@@ -4734,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space BloX | 119042 | [119042-space-blox.json](./119042-space-blox.json) |
 | Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
+| Space Bross | 348832 | [348832-space-bross.json](./348832-space-bross.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
 | Space Bust-A-Move | 20484 | [20484-space-bust-a-move.json](./20484-space-bust-a-move.json) |
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
@@ -5197,6 +5202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Defender | 215715 | [215715-spell-defender.json](./215715-spell-defender.json) |
 | Spell Disk | 240803 | [240803-spell-disk.json](./240803-spell-disk.json) |
 | Spell Disk Survivor | 259580 | [259580-spell-disk-survivor.json](./259580-spell-disk-survivor.json) |
+| Spell Magic | 348874 | [348874-spell-magic.json](./348874-spell-magic.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
 | Spell Spiral | 321343 | [321343-spell-spiral.json](./321343-spell-spiral.json) |
 | Spellbind | 18183 | [18183-spellbind.json](./18183-spellbind.json) |
@@ -5341,6 +5347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
 | Spinning Around | 75790 | [75790-spinning-around.json](./75790-spinning-around.json) |
+| Spinning My Wheel | 348866 | [348866-spinning-my-wheel.json](./348866-spinning-my-wheel.json) |
 | Spinning Scarecrow | 360096 | [360096-spinning-scarecrow.json](./360096-spinning-scarecrow.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | SpinOff | 199054 | [199054-spinoff.json](./199054-spinoff.json) |
@@ -5786,6 +5793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
 | Standby | 248069 | [248069-standby.json](./248069-standby.json) |
 | Standby | 26715 | [26715-standby.json](./26715-standby.json) |
+| StandOff | 348831 | [348831-standoff.json](./348831-standoff.json) |
 | Standoff Multiplayer | 138172 | [138172-standoff-multiplayer.json](./138172-standoff-multiplayer.json) |
 | Stanley: Wild for Sharks! | 70964 | [70964-stanley-wild-for-sharks.json](./70964-stanley-wild-for-sharks.json) |
 | Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
