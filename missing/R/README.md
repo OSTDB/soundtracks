@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainmaker: Ultimate Trading Game | 233215 | [233215-rainmaker-ultimate-trading-game.json](./233215-rainmaker-ultimate-trading-game.json) |
 | Rainshade | 204491 | [204491-rainshade.json](./204491-rainshade.json) |
 | Rainy attic room | 143090 | [143090-rainy-attic-room.json](./143090-rainy-attic-room.json) |
+| Rainy Blue: 6 Gatsu no Ame | 371955 | [371955-rainy-blue-6-gatsu-no-ame.json](./371955-rainy-blue-6-gatsu-no-ame.json) |
 | Rainy Butcher | 211937 | [211937-rainy-butcher.json](./211937-rainy-butcher.json) |
 | Rainy Day | 179673 | [179673-rainy-day.json](./179673-rainy-day.json) |
 | Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
@@ -919,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Solstice 2: Survivors - Condatis Group | 193437 | [193437-red-solstice-2-survivors-condatis-group.json](./193437-red-solstice-2-survivors-condatis-group.json) |
 | Red Sparrow | 38998 | [38998-red-sparrow.json](./38998-red-sparrow.json) |
 | Red Spider Anecdote: The Longest Nite | 324318 | [324318-red-spider-anecdote-the-longest-nite.json](./324318-red-spider-anecdote-the-longest-nite.json) |
+| Red Spider: Vengeance Remastered | 371969 | [371969-red-spider-vengeance-remastered.json](./371969-red-spider-vengeance-remastered.json) |
 | Red Square | 120977 | [120977-red-square.json](./120977-red-square.json) |
 | Red Square Escape 2 | 165612 | [165612-red-square-escape-2.json](./165612-red-square-escape-2.json) |
 | Red Stone Online | 35737 | [35737-red-stone-online.json](./35737-red-stone-online.json) |
