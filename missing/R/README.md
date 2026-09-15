@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
 | Ralph Breaks VR | 246638 | [246638-ralph-breaks-vr.json](./246638-ralph-breaks-vr.json) |
 | Ralsei's got a gun! | 175924 | [175924-ralseis-got-a-gun.json](./175924-ralseis-got-a-gun.json) |
+| RAM 1982 | 349953 | [349953-ram-1982.json](./349953-ram-1982.json) |
 | RAM Ghost | 171540 | [171540-ram-ghost.json](./171540-ram-ghost.json) |
 | Ram! | 94218 | [94218-ram.json](./94218-ram.json) |
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
@@ -917,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
 | Red Hero Adventure | 193442 | [193442-red-hero-adventure.json](./193442-red-hero-adventure.json) |
 | Red Horizon | 128643 | [128643-red-horizon.json](./128643-red-horizon.json) |
+| Red Imposter | 349926 | [349926-red-imposter.json](./349926-red-imposter.json) |
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
 | Red Johnson's Chronicles: One Against All | 25177 | [25177-red-johnsons-chronicles-one-against-all.json](./25177-red-johnsons-chronicles-one-against-all.json) |
 | Red Lake | 35589 | [35589-red-lake.json](./35589-red-lake.json) |
@@ -938,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rooms | 409642 | [409642-red-rooms.json](./409642-red-rooms.json) |
 | Red Rope: Don't Fall Behind + | 147950 | [147950-red-rope-dont-fall-behind.json](./147950-red-rope-dont-fall-behind.json) |
 | Red Rose Rising | 102202 | [102202-red-rose-rising.json](./102202-red-rose-rising.json) |
+| Red Rust Pioneers | 349941 | [349941-red-rust-pioneers.json](./349941-red-rust-pioneers.json) |
 | Red Sea Crossing | 40773 | [40773-red-sea-crossing.json](./40773-red-sea-crossing.json) |
 | Red Season | 381614 | [381614-red-season.json](./381614-red-season.json) |
 | Red Series | 270665 | [270665-red-series.json](./270665-red-series.json) |
