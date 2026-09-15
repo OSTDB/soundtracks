@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T00:01:35.991Z",
-  "total_missing": 71656,
+  "generated_at": "2026-09-15T00:11:41.232Z",
+  "total_missing": 71655,
   "games": [
     {
       "igdb_id": 306086,
@@ -4821,11 +4821,6 @@
       "igdb_id": 235487,
       "game_name": "Aether: Wizard Life",
       "file": "missing/A/235487-aether-wizard-life.json"
-    },
-    {
-      "igdb_id": 357789,
-      "game_name": "Aetherbound",
-      "file": "missing/A/357789-aetherbound.json"
     },
     {
       "igdb_id": 357786,
