@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weasel Words | 180823 | [180823-weasel-words.json](./180823-weasel-words.json) |
 | Weather Lord: Following the Princess | 96770 | [96770-weather-lord-following-the-princess.json](./96770-weather-lord-following-the-princess.json) |
 | Weather Lord: Following the Princess - Collector's Edition | 33164 | [33164-weather-lord-following-the-princess-collectors-edition.json](./33164-weather-lord-following-the-princess-collectors-edition.json) |
+| Weather Report | 362919 | [362919-weather-report.json](./362919-weather-report.json) |
 | Weaveborn Heroes | 323517 | [323517-weaveborn-heroes.json](./323517-weaveborn-heroes.json) |
 | Web City 1 | 82834 | [82834-web-city-1.json](./82834-web-city-1.json) |
 | Web Crawlies | 236523 | [236523-web-crawlies.json](./236523-web-crawlies.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why Did The Chicken Cross The Road? | 310753 | [310753-why-did-the-chicken-cross-the-road.json](./310753-why-did-the-chicken-cross-the-road.json) |
 | Why Did You Leave Me Like This? | 365771 | [365771-why-did-you-leave-me-like-this.json](./365771-why-did-you-leave-me-like-this.json) |
 | Why Do Boys Play Games? | 346579 | [346579-why-do-boys-play-games.json](./346579-why-do-boys-play-games.json) |
+| Why Does the Sea Cry So Much | 362887 | [362887-why-does-the-sea-cry-so-much.json](./362887-why-does-the-sea-cry-so-much.json) |
 | Why Don't They Laugh? | 312558 | [312558-why-dont-they-laugh.json](./312558-why-dont-they-laugh.json) |
 | Why Me | 377147 | [377147-why-me.json](./377147-why-me.json) |
 | Why So Evil | 9368 | [9368-why-so-evil.json](./9368-why-so-evil.json) |
