@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 14 Locks | 225637 | [225637-14-locks.json](./225637-14-locks.json) |
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
+| 1492: Colonization of the New World | 373086 | [373086-1492-colonization-of-the-new-world.json](./373086-1492-colonization-of-the-new-world.json) |
 | 14Days | 98412 | [98412-14days.json](./98412-14days.json) |
 | 15 in 1 Solitaire | 187457 | [187457-15-in-1-solitaire.json](./187457-15-in-1-solitaire.json) |
 | 15-in-1 Mega Bundle | 396436 | [396436-15-in-1-mega-bundle.json](./396436-15-in-1-mega-bundle.json) |
