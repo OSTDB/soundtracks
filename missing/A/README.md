@@ -1550,11 +1550,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator | 9667 | [9667-american-truck-simulator.json](./9667-american-truck-simulator.json) |
 | American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
 | American Truck Simulator 2022 | 197844 | [197844-american-truck-simulator-2022.json](./197844-american-truck-simulator-2022.json) |
+| American Truck Simulator: Christmas Paint Jobs Pack | 353403 | [353403-american-truck-simulator-christmas-paint-jobs-pack.json](./353403-american-truck-simulator-christmas-paint-jobs-pack.json) |
+| American Truck Simulator: Freightliner Cascadia (The Fifth Generation) | 353410 | [353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json](./353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json) |
 | American Truck Simulator: Goodyear Tires Pack | 223687 | [223687-american-truck-simulator-goodyear-tires-pack.json](./223687-american-truck-simulator-goodyear-tires-pack.json) |
+| American Truck Simulator: Halloween Paint Jobs Pack | 353401 | [353401-american-truck-simulator-halloween-paint-jobs-pack.json](./353401-american-truck-simulator-halloween-paint-jobs-pack.json) |
 | American Truck Simulator: Lode King & Prestige Trailers Pack | 223688 | [223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json](./223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json) |
+| American Truck Simulator: Mack Pinnacle | 353408 | [353408-american-truck-simulator-mack-pinnacle.json](./353408-american-truck-simulator-mack-pinnacle.json) |
+| American Truck Simulator: Pink Ribbon Charity Pack | 353398 | [353398-american-truck-simulator-pink-ribbon-charity-pack.json](./353398-american-truck-simulator-pink-ribbon-charity-pack.json) |
+| American Truck Simulator: Retrowave Paint Jobs Pack | 353405 | [353405-american-truck-simulator-retrowave-paint-jobs-pack.json](./353405-american-truck-simulator-retrowave-paint-jobs-pack.json) |
+| American Truck Simulator: Space Paint Jobs Pack | 353400 | [353400-american-truck-simulator-space-paint-jobs-pack.json](./353400-american-truck-simulator-space-paint-jobs-pack.json) |
 | American Truck Simulator: Special Transport | 268771 | [268771-american-truck-simulator-special-transport.json](./268771-american-truck-simulator-special-transport.json) |
 | American Truck Simulator: Utah | 120325 | [120325-american-truck-simulator-utah.json](./120325-american-truck-simulator-utah.json) |
+| American Truck Simulator: Valentine's Paint Jobs Pack | 353396 | [353396-american-truck-simulator-valentines-paint-jobs-pack.json](./353396-american-truck-simulator-valentines-paint-jobs-pack.json) |
+| American Truck Simulator: Volvo Construction Equipment | 353404 | [353404-american-truck-simulator-volvo-construction-equipment.json](./353404-american-truck-simulator-volvo-construction-equipment.json) |
 | American Truck Simulator: Western Star 57X | 211406 | [211406-american-truck-simulator-western-star-57x.json](./211406-american-truck-simulator-western-star-57x.json) |
+| American Truck Simulator: Wheel Tuning Pack | 353402 | [353402-american-truck-simulator-wheel-tuning-pack.json](./353402-american-truck-simulator-wheel-tuning-pack.json) |
 | American Trucker: The Simulation | 52581 | [52581-american-trucker-the-simulation.json](./52581-american-trucker-the-simulation.json) |
 | American Zombie: Election Year | 130325 | [130325-american-zombie-election-year.json](./130325-american-zombie-election-year.json) |
 | Americas Greatest Games | 206113 | [206113-americas-greatest-games.json](./206113-americas-greatest-games.json) |
@@ -3368,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronomica: The Quest for the Edge of the Universe | 71538 | [71538-astronomica-the-quest-for-the-edge-of-the-universe.json](./71538-astronomica-the-quest-for-the-edge-of-the-universe.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Astronot | 22270 | [22270-astronot.json](./22270-astronot.json) |
+| Astropark | 353380 | [353380-astropark.json](./353380-astropark.json) |
 | Astrophidia | 409682 | [409682-astrophidia.json](./409682-astrophidia.json) |
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
 | AstroRunner | 272858 | [272858-astrorunner.json](./272858-astrorunner.json) |
