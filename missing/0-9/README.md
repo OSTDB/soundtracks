@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dogs Hidden in Los Angeles | 386868 | [386868-101-dogs-hidden-in-los-angeles.json](./386868-101-dogs-hidden-in-los-angeles.json) |
 | 101 Dogs Hidden in Shanghai | 374136 | [374136-101-dogs-hidden-in-shanghai.json](./374136-101-dogs-hidden-in-shanghai.json) |
 | 101 Kid's Brainy Games | 180204 | [180204-101-kids-brainy-games.json](./180204-101-kids-brainy-games.json) |
+| 101 Okey Plus | 368033 | [368033-101-okey-plus.json](./368033-101-okey-plus.json) |
 | 101 Ways to Die | 16745 | [16745-101-ways-to-die.json](./16745-101-ways-to-die.json) |
 | 1024 Cement Mixer | 308273 | [308273-1024-cement-mixer.json](./308273-1024-cement-mixer.json) |
 | 103 | 108413 | [108413-103.json](./108413-103.json) |
