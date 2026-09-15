@@ -3785,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonLost | 387344 | [387344-moonlost.json](./387344-moonlost.json) |
 | MoonPong: Tales of Epic Lunacy | 213376 | [213376-moonpong-tales-of-epic-lunacy.json](./213376-moonpong-tales-of-epic-lunacy.json) |
 | Moonray | 133362 | [133362-moonray.json](./133362-moonray.json) |
+| Moonray: Battle Lands | 368045 | [368045-moonray-battle-lands.json](./368045-moonray-battle-lands.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
 | Moonscars | 194507 | [194507-moonscars.json](./194507-moonscars.json) |
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
