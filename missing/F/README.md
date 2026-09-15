@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
 | Factory Time | 382325 | [382325-factory-time.json](./382325-factory-time.json) |
 | Factory Town | 105292 | [105292-factory-town.json](./105292-factory-town.json) |
+| FactoryCapi | 338290 | [338290-factorycapi.json](./338290-factorycapi.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Factotum 90 | 21317 | [21317-factotum-90.json](./21317-factotum-90.json) |
 | Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
@@ -764,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fathom | 10966 | [10966-fathom.json](./10966-fathom.json) |
 | Fathom's End | 396401 | [396401-fathoms-end.json](./396401-fathoms-end.json) |
 | Fathomless | 415095 | [415095-fathomless.json](./415095-fathomless.json) |
+| Fathoms | 338287 | [338287-fathoms.json](./338287-fathoms.json) |
 | Fathoms | 415121 | [415121-fathoms.json](./415121-fathoms.json) |
 | Fatimopolis | 409636 | [409636-fatimopolis.json](./409636-fatimopolis.json) |
 | Fatrifice | 244496 | [244496-fatrifice.json](./244496-fatrifice.json) |
