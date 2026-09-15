@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labor Rights Funeral in Ukraine | 379962 | [379962-labor-rights-funeral-in-ukraine.json](./379962-labor-rights-funeral-in-ukraine.json) |
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
+| Labubu Games | 363968 | [363968-labubu-games.json](./363968-labubu-games.json) |
 | Laby to Panel de Shiritori | 325452 | [325452-laby-to-panel-de-shiritori.json](./325452-laby-to-panel-de-shiritori.json) |
 | Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
 | Labyrinth | 260387 | [260387-labyrinth.json](./260387-labyrinth.json) |
