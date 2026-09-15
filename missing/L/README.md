@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lesbian Mothman Hunters | 151751 | [151751-lesbian-mothman-hunters.json](./151751-lesbian-mothman-hunters.json) |
 | Lesbian Vampire Simulator | 177531 | [177531-lesbian-vampire-simulator.json](./177531-lesbian-vampire-simulator.json) |
 | Leshy Prelude | 321117 | [321117-leshy-prelude.json](./321117-leshy-prelude.json) |
+| Leslie & Brianne's Galactic Rampage | 353374 | [353374-leslie-and-briannes-galactic-rampage.json](./353374-leslie-and-briannes-galactic-rampage.json) |
 | Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
 | Lesson | 111658 | [111658-lesson.json](./111658-lesson.json) |
 | Lessons in Love | 182472 | [182472-lessons-in-love.json](./182472-lessons-in-love.json) |
@@ -1659,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log Truck | 101492 | [101492-log-truck.json](./101492-log-truck.json) |
 | Log.in | 133949 | [133949-log-in.json](./133949-log-in.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
+| Logic Bombs | 353412 | [353412-logic-bombs.json](./353412-logic-bombs.json) |
 | Logic Circuit: Marble Puzzle | 210854 | [210854-logic-circuit-marble-puzzle.json](./210854-logic-circuit-marble-puzzle.json) |
 | Logic Island | 256290 | [256290-logic-island.json](./256290-logic-island.json) |
 | Logic Mahjong Souryuu | 326087 | [326087-logic-mahjong-souryuu.json](./326087-logic-mahjong-souryuu.json) |
