@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring: Shadow of the Erdtree Edition | 287975 | [287975-elden-ring-shadow-of-the-erdtree-edition.json](./287975-elden-ring-shadow-of-the-erdtree-edition.json) |
 | Elder Sign: Omens | 16729 | [16729-elder-sign-omens.json](./16729-elder-sign-omens.json) |
 | Elder's Grace: Rise of the Mobley | 248667 | [248667-elders-grace-rise-of-the-mobley.json](./248667-elders-grace-rise-of-the-mobley.json) |
+| Eldercraft: Mountaineers | 336591 | [336591-eldercraft-mountaineers.json](./336591-eldercraft-mountaineers.json) |
 | Elderfeast | 408071 | [408071-elderfeast.json](./408071-elderfeast.json) |
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
 | Eldoria: The Cursed Crown | 310758 | [310758-eldoria-the-cursed-crown.json](./310758-eldoria-the-cursed-crown.json) |
@@ -1443,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Supreme | 210881 | [210881-eternal-supreme.json](./210881-eternal-supreme.json) |
 | Eternal Tree | 339116 | [339116-eternal-tree.json](./339116-eternal-tree.json) |
 | Eternal Troops | 399083 | [399083-eternal-troops.json](./399083-eternal-troops.json) |
+| Eternal Vampire | 336640 | [336640-eternal-vampire.json](./336640-eternal-vampire.json) |
 | Eternal Wheel | 64961 | [64961-eternal-wheel.json](./64961-eternal-wheel.json) |
 | Eternally Us | 123002 | [123002-eternally-us.json](./123002-eternally-us.json) |
 | Eternally Yours | 261545 | [261545-eternally-yours.json](./261545-eternally-yours.json) |
