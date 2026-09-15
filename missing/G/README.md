@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
 | Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
 | Gran Turismo 2000 | 298017 | [298017-gran-turismo-2000.json](./298017-gran-turismo-2000.json) |
+| Gran Turismo 4 Spec II | 336043 | [336043-gran-turismo-4-spec-ii.json](./336043-gran-turismo-4-spec-ii.json) |
 | Gran Turismo 4: Spec II | 339256 | [339256-gran-turismo-4-spec-ii.json](./339256-gran-turismo-4-spec-ii.json) |
 | Gran Turismo 5 Prologue | 1599 | [1599-gran-turismo-5-prologue.json](./1599-gran-turismo-5-prologue.json) |
 | Gran Turismo 5: Prologue Spec III | 77993 | [77993-gran-turismo-5-prologue-spec-iii.json](./77993-gran-turismo-5-prologue-spec-iii.json) |
@@ -1912,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravel: Armored Operation | 167805 | [167805-gravel-armored-operation.json](./167805-gravel-armored-operation.json) |
 | Gravelmon | 359996 | [359996-gravelmon.json](./359996-gravelmon.json) |
 | Gravels of Endless War | 149565 | [149565-gravels-of-endless-war.json](./149565-gravels-of-endless-war.json) |
+| Graven: Deluxe Edition | 336046 | [336046-graven-deluxe-edition.json](./336046-graven-deluxe-edition.json) |
 | Graveyard Defender | 121772 | [121772-graveyard-defender.json](./121772-graveyard-defender.json) |
 | Graveyard Dude | 340203 | [340203-graveyard-dude.json](./340203-graveyard-dude.json) |
 | Graveyard Ghoul! | 133999 | [133999-graveyard-ghoul.json](./133999-graveyard-ghoul.json) |
@@ -2137,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: Hidden Sins | 104659 | [104659-grim-facade-hidden-sins.json](./104659-grim-facade-hidden-sins.json) |
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
+| Grim Joggers | 336014 | [336014-grim-joggers.json](./336014-grim-joggers.json) |
 | Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
 | Grim Nights | 110185 | [110185-grim-nights.json](./110185-grim-nights.json) |
 | Grim Path | 393600 | [393600-grim-path.json](./393600-grim-path.json) |
