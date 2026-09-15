@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Job Shop Simulator | 107273 | [107273-virtual-job-shop-simulator.json](./107273-virtual-job-shop-simulator.json) |
 | Virtual Karting | 15567 | [15567-virtual-karting.json](./15567-virtual-karting.json) |
 | Virtual Karts | 92982 | [92982-virtual-karts.json](./92982-virtual-karts.json) |
+| Virtual Knee Surgery | 337200 | [337200-virtual-knee-surgery.json](./337200-virtual-knee-surgery.json) |
 | Virtual League Baseball 2 | 201263 | [201263-virtual-league-baseball-2.json](./201263-virtual-league-baseball-2.json) |
 | Virtual Love Secrets | 266785 | [266785-virtual-love-secrets.json](./266785-virtual-love-secrets.json) |
 | Virtual Maid Streamer Ramie | 187437 | [187437-virtual-maid-streamer-ramie.json](./187437-virtual-maid-streamer-ramie.json) |
