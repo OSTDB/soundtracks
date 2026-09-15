@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magocracy | 70339 | [70339-magocracy.json](./70339-magocracy.json) |
 | MaguMagu Pro | 165074 | [165074-magumagu-pro.json](./165074-magumagu-pro.json) |
 | Maguntsche: Chapter One Remastered | 168859 | [168859-maguntsche-chapter-one-remastered.json](./168859-maguntsche-chapter-one-remastered.json) |
+| Maguntsche: Chapter Two | 371971 | [371971-maguntsche-chapter-two.json](./371971-maguntsche-chapter-two.json) |
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
 | Magyarock VR | 198443 | [198443-magyarock-vr.json](./198443-magyarock-vr.json) |
 | Mah Jong Solitaire 2 | 86699 | [86699-mah-jong-solitaire-2.json](./86699-mah-jong-solitaire-2.json) |
