@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
 | Dating Simulator | 162431 | [162431-dating-simulator.json](./162431-dating-simulator.json) |
+| Dating Under the Comet | 345595 | [345595-dating-under-the-comet.json](./345595-dating-under-the-comet.json) |
 | Dato of Srivijaya | 156679 | [156679-dato-of-srivijaya.json](./156679-dato-of-srivijaya.json) |
 | Datswer | 35820 | [35820-datswer.json](./35820-datswer.json) |
 | Daughter of Essence | 158654 | [158654-daughter-of-essence.json](./158654-daughter-of-essence.json) |
@@ -902,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadbolt | 18389 | [18389-deadbolt.json](./18389-deadbolt.json) |
 | Deadboot | 360103 | [360103-deadboot.json](./360103-deadboot.json) |
 | Deadcam | 323190 | [323190-deadcam.json](./323190-deadcam.json) |
+| DeadCore Redux | 345547 | [345547-deadcore-redux.json](./345547-deadcore-redux.json) |
 | Deaded | 238738 | [238738-deaded.json](./238738-deaded.json) |
 | Deadeus | 122405 | [122405-deadeus.json](./122405-deadeus.json) |
 | DeadEye | 116340 | [116340-deadeye.json](./116340-deadeye.json) |
@@ -1800,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detonator | 263477 | [263477-detonator.json](./263477-detonator.json) |
 | Detourist | 278744 | [278744-detourist.json](./278744-detourist.json) |
 | Detox | 181882 | [181882-detox.json](./181882-detox.json) |
+| Detra | 345560 | [345560-detra.json](./345560-detra.json) |
 | Detritus | 192392 | [192392-detritus.json](./192392-detritus.json) |
 | Detuned | 239317 | [239317-detuned.json](./239317-detuned.json) |
 | Deus | 10858 | [10858-deus.json](./10858-deus.json) |
@@ -3243,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Panda Restaurant 2 | 344927 | [344927-dr-panda-restaurant-2.json](./344927-dr-panda-restaurant-2.json) |
 | Dr. Panda's Restaurant | 87345 | [87345-dr-pandas-restaurant.json](./87345-dr-pandas-restaurant.json) |
 | Dr. Paolo no Totteoki Video | 307968 | [307968-dr-paolo-no-totteoki-video.json](./307968-dr-paolo-no-totteoki-video.json) |
+| Dr. Parking 4 | 345600 | [345600-dr-parking-4.json](./345600-dr-parking-4.json) |
 | Dr. Planet | 295530 | [295530-dr-planet.json](./295530-dr-planet.json) |
 | Dr. Rin ni Kiitemite! Koi no Rin Fuusui | 65535 | [65535-dr-rin-ni-kiitemite-koi-no-rin-fuusui.json](./65535-dr-rin-ni-kiitemite-koi-no-rin-fuusui.json) |
 | Dr. Robotnik in Sonic the Hedgehog | 198517 | [198517-dr-robotnik-in-sonic-the-hedgehog.json](./198517-dr-robotnik-in-sonic-the-hedgehog.json) |
@@ -4187,6 +4191,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hunter | 332435 | [332435-dungeon-hunter.json](./332435-dungeon-hunter.json) |
 | Dungeon Hunter Champions | 97279 | [97279-dungeon-hunter-champions.json](./97279-dungeon-hunter-champions.json) |
 | Dungeon Hunter: Alliance | 21140 | [21140-dungeon-hunter-alliance.json](./21140-dungeon-hunter-alliance.json) |
+| Dungeon Janitor | 345605 | [345605-dungeon-janitor.json](./345605-dungeon-janitor.json) |
+| Dungeon Janitor | 345607 | [345607-dungeon-janitor.json](./345607-dungeon-janitor.json) |
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
 | Dungeon Land | 66059 | [66059-dungeon-land.json](./66059-dungeon-land.json) |
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
