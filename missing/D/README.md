@@ -2120,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Breeder | 64981 | [64981-dino-breeder.json](./64981-dino-breeder.json) |
 | Dino Breeder 2 | 63853 | [63853-dino-breeder-2.json](./63853-dino-breeder-2.json) |
 | Dino Bros | 371323 | [371323-dino-bros.json](./371323-dino-bros.json) |
+| Dino Chomp | 351695 | [351695-dino-chomp.json](./351695-dino-chomp.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
 | Dino Crisis: 5th Anniversary | 161345 | [161345-dino-crisis-5th-anniversary.json](./161345-dino-crisis-5th-anniversary.json) |
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
@@ -2138,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Master | 132161 | [132161-dino-master.json](./132161-dino-master.json) |
 | Dino Master | 69143 | [69143-dino-master.json](./69143-dino-master.json) |
 | Dino Merge Wars | 237631 | [237631-dino-merge-wars.json](./237631-dino-merge-wars.json) |
+| Dino Panic | 351680 | [351680-dino-panic.json](./351680-dino-panic.json) |
 | Dino Precision Platformer | 303476 | [303476-dino-precision-platformer.json](./303476-dino-precision-platformer.json) |
 | Dino R-r-age Defense | 88103 | [88103-dino-r-r-age-defense.json](./88103-dino-r-r-age-defense.json) |
 | Dino Rampage 3D | 106627 | [106627-dino-rampage-3d.json](./106627-dino-rampage-3d.json) |
