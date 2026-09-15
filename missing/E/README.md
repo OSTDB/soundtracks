@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enyo Arcade | 17802 | [17802-enyo-arcade.json](./17802-enyo-arcade.json) |
 | Enypnion Redreamed | 249812 | [249812-enypnion-redreamed.json](./249812-enypnion-redreamed.json) |
 | EOEOnline | 303515 | [303515-eoeonline.json](./303515-eoeonline.json) |
+| Eol-ui Moheom | 363981 | [363981-eol-ui-moheom.json](./363981-eol-ui-moheom.json) |
 | Eon Altar: Episode 2 - Whispers in the Catacombs | 24875 | [24875-eon-altar-episode-2-whispers-in-the-catacombs.json](./24875-eon-altar-episode-2-whispers-in-the-catacombs.json) |
 | Eon Altar: Episode I - The Battle for Tarnum | 24874 | [24874-eon-altar-episode-i-the-battle-for-tarnum.json](./24874-eon-altar-episode-i-the-battle-for-tarnum.json) |
 | Eona | 355025 | [355025-eona.json](./355025-eona.json) |
