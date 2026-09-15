@@ -2879,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Royale 4: Buccaneers | 154504 | [154504-port-royale-4-buccaneers.json](./154504-port-royale-4-buccaneers.json) |
 | Port Royale 4: Extended Edition | 154505 | [154505-port-royale-4-extended-edition.json](./154505-port-royale-4-extended-edition.json) |
 | Port Royale: Gold, Power and Pirates | 834 | [834-port-royale-gold-power-and-pirates.json](./834-port-royale-gold-power-and-pirates.json) |
+| Port Shipping Tycoon | 351718 | [351718-port-shipping-tycoon.json](./351718-port-shipping-tycoon.json) |
 | Portabellows | 247780 | [247780-portabellows.json](./247780-portabellows.json) |
 | Portable VR | 244232 | [244232-portable-vr.json](./244232-portable-vr.json) |
 | Portal | 14546 | [14546-portal.json](./14546-portal.json) |
