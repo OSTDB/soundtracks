@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajikise! | 265155 | [265155-hajikise.json](./265155-hajikise.json) |
 | Hajimeru Sekai no Risouron: Goodbye World Index | 337092 | [337092-hajimeru-sekai-no-risouron-goodbye-world-index.json](./337092-hajimeru-sekai-no-risouron-goodbye-world-index.json) |
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
+| Hajwala Drift X | 374677 | [374677-hajwala-drift-x.json](./374677-hajwala-drift-x.json) |
 | Hajwala Of Riyadh | 366215 | [366215-hajwala-of-riyadh.json](./366215-hajwala-of-riyadh.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
 | Hakkaku Doku | 323707 | [323707-hakkaku-doku.json](./323707-hakkaku-doku.json) |
@@ -2132,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honk III | 180779 | [180779-honk-iii.json](./180779-honk-iii.json) |
 | Honk of Heroes | 293641 | [293641-honk-of-heroes.json](./293641-honk-of-heroes.json) |
 | Honkai Impact 3rd | 96032 | [96032-honkai-impact-3rd.json](./96032-honkai-impact-3rd.json) |
+| Honkai Impact 3rd: A Lightful Love | 374675 | [374675-honkai-impact-3rd-a-lightful-love.json](./374675-honkai-impact-3rd-a-lightful-love.json) |
 | Honkai Impact 3rd: Crusade of Chasing Shadows | 304037 | [304037-honkai-impact-3rd-crusade-of-chasing-shadows.json](./304037-honkai-impact-3rd-crusade-of-chasing-shadows.json) |
 | Honkai Impact 3rd: Cutting Dreams at Dawn | 268770 | [268770-honkai-impact-3rd-cutting-dreams-at-dawn.json](./268770-honkai-impact-3rd-cutting-dreams-at-dawn.json) |
 | Honkai Impact 3rd: Elysian Reverie | 276496 | [276496-honkai-impact-3rd-elysian-reverie.json](./276496-honkai-impact-3rd-elysian-reverie.json) |
@@ -2708,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunted: One Step Too Far | 25874 | [25874-hunted-one-step-too-far.json](./25874-hunted-one-step-too-far.json) |
 | Hunted: The Demon's Forge | 505 | [505-hunted-the-demons-forge.json](./505-hunted-the-demons-forge.json) |
 | Hunter A Hunter | 192461 | [192461-hunter-a-hunter.json](./192461-hunter-a-hunter.json) |
+| Hunter and Tavern | 374664 | [374664-hunter-and-tavern.json](./374664-hunter-and-tavern.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
 | Hunter Desert Simulator: Sniper Rifle | 409533 | [409533-hunter-desert-simulator-sniper-rifle.json](./409533-hunter-desert-simulator-sniper-rifle.json) |
 | Hunter Island: Monsters & Dragons | 200113 | [200113-hunter-island-monsters-and-dragons.json](./200113-hunter-island-monsters-and-dragons.json) |
