@@ -734,10 +734,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of the Fallen | 223439 | [223439-realm-of-the-fallen.json](./223439-realm-of-the-fallen.json) |
 | Realm of the hero | 156128 | [156128-realm-of-the-hero.json](./156128-realm-of-the-hero.json) |
 | Realm of the Paladin: Deception's Plague | 171541 | [171541-realm-of-the-paladin-deceptions-plague.json](./171541-realm-of-the-paladin-deceptions-plague.json) |
+| Realm of Thrones | 356159 | [356159-realm-of-thrones.json](./356159-realm-of-thrones.json) |
 | Realm of Valor | 56503 | [56503-realm-of-valor.json](./56503-realm-of-valor.json) |
 | Realm Royale Shadowfall Bundle | 115647 | [115647-realm-royale-shadowfall-bundle.json](./115647-realm-royale-shadowfall-bundle.json) |
 | Realmguard | 404341 | [404341-realmguard.json](./404341-realmguard.json) |
 | Realms Edge | 368568 | [368568-realms-edge.json](./368568-realms-edge.json) |
+| Realms Forgotten | 356161 | [356161-realms-forgotten.json](./356161-realms-forgotten.json) |
 | Realms of Alterra | 301275 | [301275-realms-of-alterra.json](./301275-realms-of-alterra.json) |
 | Realms of Arkania Vol. 2: Star Trail | 70931 | [70931-realms-of-arkania-vol-2-star-trail.json](./70931-realms-of-arkania-vol-2-star-trail.json) |
 | Realms of Arkania: Blade of Destiny | 27345 | [27345-realms-of-arkania-blade-of-destiny.json](./27345-realms-of-arkania-blade-of-destiny.json) |
