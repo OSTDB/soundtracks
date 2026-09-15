@@ -127,6 +127,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon Live | 245322 | [245322-backgammon-live.json](./245322-backgammon-live.json) |
 | Backgammon Master | 346110 | [346110-backgammon-master.json](./346110-backgammon-master.json) |
 | Backgammon Online | 104123 | [104123-backgammon-online.json](./104123-backgammon-online.json) |
+| Backgammon Professional | 338799 | [338799-backgammon-professional.json](./338799-backgammon-professional.json) |
+| Backlash: A Turret Gunner Simulation | 338818 | [338818-backlash-a-turret-gunner-simulation.json](./338818-backlash-a-turret-gunner-simulation.json) |
 | Backlot: Hollywood Studio Tycoon | 416649 | [416649-backlot-hollywood-studio-tycoon.json](./416649-backlot-hollywood-studio-tycoon.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
 | Backpack Dungeon | 407407 | [407407-backpack-dungeon.json](./407407-backpack-dungeon.json) |
@@ -509,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie Worlds Collide | 135259 | [135259-banjo-kazooie-worlds-collide.json](./135259-banjo-kazooie-worlds-collide.json) |
 | Banjo-Kazooie: Bob-omb Battlefield | 201770 | [201770-banjo-kazooie-bob-omb-battlefield.json](./201770-banjo-kazooie-bob-omb-battlefield.json) |
 | Banjo-Kazooie: Donkey Kong Country | 201772 | [201772-banjo-kazooie-donkey-kong-country.json](./201772-banjo-kazooie-donkey-kong-country.json) |
+| Banjo-Kazooie: Fort Fun | 338821 | [338821-banjo-kazooie-fort-fun.json](./338821-banjo-kazooie-fort-fun.json) |
 | Banjo-Kazooie: Legend of the Crystal Jiggy | 172671 | [172671-banjo-kazooie-legend-of-the-crystal-jiggy.json](./172671-banjo-kazooie-legend-of-the-crystal-jiggy.json) |
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
 | Banjo-Threeie | 200644 | [200644-banjo-threeie.json](./200644-banjo-threeie.json) |
@@ -1237,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
 | Beans Dash | 256255 | [256255-beans-dash.json](./256255-beans-dash.json) |
 | Bear Adventure | 370762 | [370762-bear-adventure.json](./370762-bear-adventure.json) |
+| Bear Boy | 338827 | [338827-bear-boy.json](./338827-bear-boy.json) |
 | Bear in the Snow | 362882 | [362882-bear-in-the-snow.json](./362882-bear-in-the-snow.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear Surfin Mega Wave | 200638 | [200638-bear-surfin-mega-wave.json](./200638-bear-surfin-mega-wave.json) |
@@ -2505,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blink: The Last Night | 179722 | [179722-blink-the-last-night.json](./179722-blink-the-last-night.json) |
 | Blink's Pet Lizard | 413733 | [413733-blinks-pet-lizard.json](./413733-blinks-pet-lizard.json) |
 | Blinky's Adventure | 367949 | [367949-blinkys-adventure.json](./367949-blinkys-adventure.json) |
+| Blinky's Revenge | 338832 | [338832-blinkys-revenge.json](./338832-blinkys-revenge.json) |
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
 | Blips | 320157 | [320157-blips.json](./320157-blips.json) |
 | Blithe | 177528 | [177528-blithe.json](./177528-blithe.json) |
@@ -2527,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blix & Chocolate Mine | 145031 | [145031-blix-and-chocolate-mine.json](./145031-blix-and-chocolate-mine.json) |
 | Blizzard Blowout 64 | 177563 | [177563-blizzard-blowout-64.json](./177563-blizzard-blowout-64.json) |
 | Blob | 14319 | [14319-blob.json](./14319-blob.json) |
+| Blob Attack | 338812 | [338812-blob-attack.json](./338812-blob-attack.json) |
 | Blob Command | 265668 | [265668-blob-command.json](./265668-blob-command.json) |
 | Blob Command: New Attack | 265669 | [265669-blob-command-new-attack.json](./265669-blob-command-new-attack.json) |
 | Blob King | 124762 | [124762-blob-king.json](./124762-blob-king.json) |
@@ -3430,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box To The Beat VR: Electro Swing Pack | 310399 | [310399-box-to-the-beat-vr-electro-swing-pack.json](./310399-box-to-the-beat-vr-electro-swing-pack.json) |
 | Box To The Beat VR: Indie Electro Beats | 295260 | [295260-box-to-the-beat-vr-indie-electro-beats.json](./295260-box-to-the-beat-vr-indie-electro-beats.json) |
 | Box To The Beat VR: Shadow Dreams Pack | 263202 | [263202-box-to-the-beat-vr-shadow-dreams-pack.json](./263202-box-to-the-beat-vr-shadow-dreams-pack.json) |
+| Box World | 338824 | [338824-box-world.json](./338824-box-world.json) |
 | Box Zombies | 311783 | [311783-box-zombies.json](./311783-box-zombies.json) |
 | BOX: Space Station | 147383 | [147383-box-space-station.json](./147383-box-space-station.json) |
 | Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
@@ -3518,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrainBread | 138773 | [138773-brainbread.json](./138773-brainbread.json) |
 | brainCloud Bombers | 120400 | [120400-braincloud-bombers.json](./120400-braincloud-bombers.json) |
 | BrainRot | 336518 | [336518-brainrot.json](./336518-brainrot.json) |
+| Brainrot Dash | 338791 | [338791-brainrot-dash.json](./338791-brainrot-dash.json) |
 | Brainrot Survivors | 391041 | [391041-brainrot-survivors.json](./391041-brainrot-survivors.json) |
 | Brainrot Wars | 344965 | [344965-brainrot-wars.json](./344965-brainrot-wars.json) |
 | Brainrot: Animal Quizzes | 343259 | [343259-brainrot-animal-quizzes.json](./343259-brainrot-animal-quizzes.json) |
