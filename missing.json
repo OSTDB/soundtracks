@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T06:19:09.567Z",
-  "total_missing": 72807,
+  "generated_at": "2026-09-15T06:21:35.049Z",
+  "total_missing": 72806,
   "games": [
     {
       "igdb_id": 306086,
@@ -5041,11 +5041,6 @@
       "igdb_id": 357796,
       "game_name": "Affiliated Homies",
       "file": "missing/A/357796-affiliated-homies.json"
-    },
-    {
-      "igdb_id": 405469,
-      "game_name": "AFK Industarry",
-      "file": "missing/A/405469-afk-industarry.json"
     },
     {
       "igdb_id": 148489,
