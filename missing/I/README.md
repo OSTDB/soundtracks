@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icewind Dale: Complete | 143699 | [143699-icewind-dale-complete.json](./143699-icewind-dale-complete.json) |
 | Icewind Dale: Enhanced Edition | 36240 | [36240-icewind-dale-enhanced-edition.json](./36240-icewind-dale-enhanced-edition.json) |
 | Ichor | 122398 | [122398-ichor.json](./122398-ichor.json) |
+| Ichor Burns | 358958 | [358958-ichor-burns.json](./358958-ichor-burns.json) |
 | Ichorian Tales | 415923 | [415923-ichorian-tales.json](./415923-ichorian-tales.json) |
 | Ichorless | 365180 | [365180-ichorless.json](./365180-ichorless.json) |
 | Icing: Love Coating | 194541 | [194541-icing-love-coating.json](./194541-icing-love-coating.json) |
@@ -1014,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Life | 185081 | [185081-inner-life.json](./185081-inner-life.json) |
 | Inner Riddle | 96669 | [96669-inner-riddle.json](./96669-inner-riddle.json) |
 | Inner silence | 29869 | [29869-inner-silence.json](./29869-inner-silence.json) |
+| Inner Voice | 358966 | [358966-inner-voice.json](./358966-inner-voice.json) |
 | InnerCube | 35879 | [35879-innercube.json](./35879-innercube.json) |
 | Innergy | 81398 | [81398-innergy.json](./81398-innergy.json) |
 | Innocence or Money: Season 2 - Episode 1 | 340754 | [340754-innocence-or-money-season-2-episode-1.json](./340754-innocence-or-money-season-2-episode-1.json) |
@@ -1093,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InstaTok Tycoon | 301837 | [301837-instatok-tycoon.json](./301837-instatok-tycoon.json) |
 | Instinct | 286509 | [286509-instinct.json](./286509-instinct.json) |
 | Instinct: Survival | 118000 | [118000-instinct-survival.json](./118000-instinct-survival.json) |
+| Instruments of Peace | 358938 | [358938-instruments-of-peace.json](./358938-instruments-of-peace.json) |
 | Instruments of Power | 395696 | [395696-instruments-of-power.json](./395696-instruments-of-power.json) |
 | Insufficient Adjectives | 134621 | [134621-insufficient-adjectives.json](./134621-insufficient-adjectives.json) |
 | Insulted | 229676 | [229676-insulted.json](./229676-insulted.json) |
