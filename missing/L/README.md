@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Monster | 49920 | [49920-lil-monster.json](./49920-lil-monster.json) |
 | Lil' Robo | 331305 | [331305-lil-robo.json](./331305-lil-robo.json) |
 | Lili | 63277 | [63277-lili.json](./63277-lili.json) |
+| Lilia | 362325 | [362325-lilia.json](./362325-lilia.json) |
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
 | Lilith Rising: Season 2 | 296929 | [296929-lilith-rising-season-2.json](./296929-lilith-rising-season-2.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
@@ -1409,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nemo the Clown | 213609 | [213609-little-nemo-the-clown.json](./213609-little-nemo-the-clown.json) |
 | Little Nightmares II: Deluxe Edition | 154511 | [154511-little-nightmares-ii-deluxe-edition.json](./154511-little-nightmares-ii-deluxe-edition.json) |
 | Little Nightmares III: Dark Six Costumes Set | 370223 | [370223-little-nightmares-iii-dark-six-costumes-set.json](./370223-little-nightmares-iii-dark-six-costumes-set.json) |
+| Little Nightmares III: Deluxe Edition | 362374 | [362374-little-nightmares-iii-deluxe-edition.json](./362374-little-nightmares-iii-deluxe-edition.json) |
 | Little Nightmares III: Ferryman Costumes Set | 370222 | [370222-little-nightmares-iii-ferryman-costumes-set.json](./370222-little-nightmares-iii-ferryman-costumes-set.json) |
 | Little Nightmares III: Klonoa Costumes Set | 375186 | [375186-little-nightmares-iii-klonoa-costumes-set.json](./375186-little-nightmares-iii-klonoa-costumes-set.json) |
 | Little Nightmares III: Nomes Costumes Set | 375187 | [375187-little-nightmares-iii-nomes-costumes-set.json](./375187-little-nightmares-iii-nomes-costumes-set.json) |
@@ -1830,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Los Pilarcitos | 398368 | [398368-los-pilarcitos.json](./398368-los-pilarcitos.json) |
 | Lose Control | 178632 | [178632-lose-control.json](./178632-lose-control.json) |
 | Lose Your Head | 179125 | [179125-lose-your-head.json](./179125-lose-your-head.json) |
+| Lose Your Marbles | 362334 | [362334-lose-your-marbles.json](./362334-lose-your-marbles.json) |
 | Lose Your Marbles | 70330 | [70330-lose-your-marbles.json](./70330-lose-your-marbles.json) |
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Loss at Sea | 384114 | [384114-loss-at-sea.json](./384114-loss-at-sea.json) |
@@ -2128,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lowrider Hopping | 287087 | [287087-lowrider-hopping.json](./287087-lowrider-hopping.json) |
 | Lows Adventures | 214489 | [214489-lows-adventures.json](./214489-lows-adventures.json) |
 | Lowtide | 265981 | [265981-lowtide.json](./265981-lowtide.json) |
+| Lowtris | 362337 | [362337-lowtris.json](./362337-lowtris.json) |
 | Loya | 239661 | [239661-loya.json](./239661-loya.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
@@ -2198,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Blitz | 58751 | [58751-ludo-blitz.json](./58751-ludo-blitz.json) |
 | Ludo Online | 89583 | [89583-ludo-online.json](./89583-ludo-online.json) |
 | Ludo Ultimate Online Dice Game | 91343 | [91343-ludo-ultimate-online-dice-game.json](./91343-ludo-ultimate-online-dice-game.json) |
+| Ludo XXL 2 | 362369 | [362369-ludo-xxl-2.json](./362369-ludo-xxl-2.json) |
 | Ludomalica | 392278 | [392278-ludomalica.json](./392278-ludomalica.json) |
 | Ludu | 26491 | [26491-ludu.json](./26491-ludu.json) |
 | Ludum Creare | 176981 | [176981-ludum-creare.json](./176981-ludum-creare.json) |
