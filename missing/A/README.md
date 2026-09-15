@@ -3120,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes: 2063 - Enriched Edition | 184100 | [184100-ashes-2063-enriched-edition.json](./184100-ashes-2063-enriched-edition.json) |
 | Ashfall | 218167 | [218167-ashfall.json](./218167-ashfall.json) |
 | Ashforge: Whispers of the Deep | 358875 | [358875-ashforge-whispers-of-the-deep.json](./358875-ashforge-whispers-of-the-deep.json) |
+| Ashgard: Infinity Mask | 348320 | [348320-ashgard-infinity-mask.json](./348320-ashgard-infinity-mask.json) |
 | Ashgard: Tone Break | 199618 | [199618-ashgard-tone-break.json](./199618-ashgard-tone-break.json) |
 | Ashi Wash | 91967 | [91967-ashi-wash.json](./91967-ashi-wash.json) |
 | Ashigaru: The Last Shogun | 206309 | [206309-ashigaru-the-last-shogun.json](./206309-ashigaru-the-last-shogun.json) |
@@ -3316,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Divide | 277816 | [277816-astral-divide.json](./277816-astral-divide.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
+| Astral Ooze | 348345 | [348345-astral-ooze.json](./348345-astral-ooze.json) |
 | Astral Sever | 414337 | [414337-astral-sever.json](./414337-astral-sever.json) |
 | Astral Terra | 16882 | [16882-astral-terra.json](./16882-astral-terra.json) |
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
