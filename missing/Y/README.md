@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youso Warriors | 166208 | [166208-youso-warriors.json](./166208-youso-warriors.json) |
 | Youth Feather | 121705 | [121705-youth-feather.json](./121705-youth-feather.json) |
 | Youthink? | 102775 | [102775-youthink.json](./102775-youthink.json) |
+| YouTube: Missile Command | 337716 | [337716-youtube-missile-command.json](./337716-youtube-missile-command.json) |
 | Youtuber Boys: Love Behind the Camera | 403722 | [403722-youtuber-boys-love-behind-the-camera.json](./403722-youtuber-boys-love-behind-the-camera.json) |
 | Youtubers Life: Gaming Channel | 88942 | [88942-youtubers-life-gaming-channel.json](./88942-youtubers-life-gaming-channel.json) |
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
