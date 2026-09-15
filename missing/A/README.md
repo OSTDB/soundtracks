@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alias Underground Episode 9: Countdown | 367418 | [367418-alias-underground-episode-9-countdown.json](./367418-alias-underground-episode-9-countdown.json) |
 | Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
 | Alice and Smith: Complete Library | 52589 | [52589-alice-and-smith-complete-library.json](./52589-alice-and-smith-complete-library.json) |
+| Alice and the Magical Islands | 371312 | [371312-alice-and-the-magical-islands.json](./371312-alice-and-the-magical-islands.json) |
 | Alice Closet | 159283 | [159283-alice-closet.json](./159283-alice-closet.json) |
 | Alice in Dinerland | 257962 | [257962-alice-in-dinerland.json](./257962-alice-in-dinerland.json) |
 | Alice in the Nightmare Land | 267097 | [267097-alice-in-the-nightmare-land.json](./267097-alice-in-the-nightmare-land.json) |
@@ -2089,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Century's Episode | 9566 | [9566-another-centurys-episode.json](./9566-another-centurys-episode.json) |
 | Another Century's Episode: R | 7270 | [7270-another-centurys-episode-r.json](./7270-another-centurys-episode-r.json) |
 | Another Christmas Game | 326043 | [326043-another-christmas-game.json](./326043-another-christmas-game.json) |
+| Another Crabs Treasure Prototype | 371331 | [371331-another-crabs-treasure-prototype.json](./371331-another-crabs-treasure-prototype.json) |
 | Another Day | 254143 | [254143-another-day.json](./254143-another-day.json) |
 | Another Day of Chikan! Vol7 Cool Beauty Schoolgirl in a Band | 82931 | [82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json](./82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json) |
 | Another Day? | 409695 | [409695-another-day.json](./409695-another-day.json) |
@@ -2652,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Cave | 98987 | [98987-arctic-cave.json](./98987-arctic-cave.json) |
 | Arctic Combat | 63888 | [63888-arctic-combat.json](./63888-arctic-combat.json) |
 | Arctic Digger TCG Collection | 358873 | [358873-arctic-digger-tcg-collection.json](./358873-arctic-digger-tcg-collection.json) |
+| Arctic Isolation | 371330 | [371330-arctic-isolation.json](./371330-arctic-isolation.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
 | Arctic Zone | 210639 | [210639-arctic-zone.json](./210639-arctic-zone.json) |
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
