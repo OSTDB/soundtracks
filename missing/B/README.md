@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard | 142423 | [142423-backyard.json](./142423-backyard.json) |
 | Backyard Basketball | 69242 | [69242-backyard-basketball.json](./69242-backyard-basketball.json) |
 | Backyard Bounce | 20720 | [20720-backyard-bounce.json](./20720-backyard-bounce.json) |
+| Backyard Digger | 346673 | [346673-backyard-digger.json](./346673-backyard-digger.json) |
 | Backyard Football '99 | 366897 | [366897-backyard-football-99.json](./366897-backyard-football-99.json) |
 | Backyard Hockey 2005 | 46638 | [46638-backyard-hockey-2005.json](./46638-backyard-hockey-2005.json) |
 | Backyard Monsters | 159324 | [159324-backyard-monsters.json](./159324-backyard-monsters.json) |
@@ -1206,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beachside Blitz | 353315 | [353315-beachside-blitz.json](./353315-beachside-blitz.json) |
 | Beacon | 18200 | [18200-beacon.json](./18200-beacon.json) |
 | Beacon | 242575 | [242575-beacon.json](./242575-beacon.json) |
+| Beacon of Hope | 346661 | [346661-beacon-of-hope.json](./346661-beacon-of-hope.json) |
 | Beacon Patrol | 245848 | [245848-beacon-patrol.json](./245848-beacon-patrol.json) |
 | Beacon Pines | 143113 | [143113-beacon-pines.json](./143113-beacon-pines.json) |
 | Beacon Pines: Collector's Edition | 218692 | [218692-beacon-pines-collectors-edition.json](./218692-beacon-pines-collectors-edition.json) |
@@ -3785,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Metal | 111038 | [111038-broken-metal.json](./111038-broken-metal.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
 | Broken Pact | 357319 | [357319-broken-pact.json](./357319-broken-pact.json) |
+| Broken Paradox | 346689 | [346689-broken-paradox.json](./346689-broken-paradox.json) |
 | Broken Ranks | 162520 | [162520-broken-ranks.json](./162520-broken-ranks.json) |
 | Broken Robot | 152840 | [152840-broken-robot.json](./152840-broken-robot.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
@@ -4113,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buluk: Mayan Warfare | 125420 | [125420-buluk-mayan-warfare.json](./125420-buluk-mayan-warfare.json) |
 | Bulwark Evolution: Falconeer Chronicles | 214486 | [214486-bulwark-evolution-falconeer-chronicles.json](./214486-bulwark-evolution-falconeer-chronicles.json) |
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
+| Bumble Rumble | 346678 | [346678-bumble-rumble.json](./346678-bumble-rumble.json) |
 | Bumbledore | 16348 | [16348-bumbledore.json](./16348-bumbledore.json) |
 | Bumblepig | 94735 | [94735-bumblepig.json](./94735-bumblepig.json) |
 | BumbleTales | 294740 | [294740-bumbletales.json](./294740-bumbletales.json) |
