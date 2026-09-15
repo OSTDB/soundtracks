@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakehouse | 191189 | [191189-lakehouse.json](./191189-lakehouse.json) |
 | LakeQueen | 394130 | [394130-lakequeen.json](./394130-lakequeen.json) |
 | Lakeside | 269563 | [269563-lakeside.json](./269563-lakeside.json) |
+| Lakeside Has No Lake!! | 355614 | [355614-lakeside-has-no-lake.json](./355614-lakeside-has-no-lake.json) |
 | Lakesider: Above and Below | 285477 | [285477-lakesider-above-and-below.json](./285477-lakesider-above-and-below.json) |
 | Lala Hentai 2 | 375970 | [375970-lala-hentai-2.json](./375970-lala-hentai-2.json) |
 | Lama Drama FPS | 122370 | [122370-lama-drama-fps.json](./122370-lama-drama-fps.json) |
