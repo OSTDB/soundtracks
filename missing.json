@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T17:31:44.023Z",
-  "total_missing": 74757,
+  "generated_at": "2026-09-15T17:41:36.776Z",
+  "total_missing": 74762,
   "games": [
     {
       "igdb_id": 306086,
@@ -5413,11 +5413,6 @@
       "file": "missing/A/309860-age-of-defense-prehistory.json"
     },
     {
-      "igdb_id": 317827,
-      "game_name": "Age Of Dynasties",
-      "file": "missing/A/317827-age-of-dynasties.json"
-    },
-    {
       "igdb_id": 219260,
       "game_name": "Age of Dynasties: Shogun",
       "file": "missing/A/219260-age-of-dynasties-shogun.json"
@@ -9806,6 +9801,11 @@
       "igdb_id": 206335,
       "game_name": "Amaemi: Longing for you",
       "file": "missing/A/206335-amaemi-longing-for-you.json"
+    },
+    {
+      "igdb_id": 345602,
+      "game_name": "Amagami Chotto Omake Gekijou",
+      "file": "missing/A/345602-amagami-chotto-omake-gekijou.json"
     },
     {
       "igdb_id": 345603,
@@ -84608,6 +84608,11 @@
       "file": "missing/D/307968-dr-paolo-no-totteoki-video.json"
     },
     {
+      "igdb_id": 345600,
+      "game_name": "Dr. Parking 4",
+      "file": "missing/D/345600-dr-parking-4.json"
+    },
+    {
       "igdb_id": 295530,
       "game_name": "Dr. Planet",
       "file": "missing/D/295530-dr-planet.json"
@@ -107598,6 +107603,11 @@
       "file": "missing/F/337615-fireplace-simulator.json"
     },
     {
+      "igdb_id": 345597,
+      "game_name": "Fireside Feelings",
+      "file": "missing/F/345597-fireside-feelings.json"
+    },
+    {
       "igdb_id": 191854,
       "game_name": "Fireside Hero",
       "file": "missing/F/191854-fireside-hero.json"
@@ -125733,6 +125743,11 @@
       "file": "missing/G/244481-government-x.json"
     },
     {
+      "igdb_id": 345601,
+      "game_name": "Goya's Inferno",
+      "file": "missing/G/345601-goyas-inferno.json"
+    },
+    {
       "igdb_id": 42591,
       "game_name": "GP-1 Part II",
       "file": "missing/G/42591-gp-1-part-ii.json"
@@ -134346,6 +134361,11 @@
       "igdb_id": 278136,
       "game_name": "Heart-S-Truck",
       "file": "missing/H/278136-heart-s-truck.json"
+    },
+    {
+      "igdb_id": 345598,
+      "game_name": "Heart-Warming Deliveries",
+      "file": "missing/H/345598-heart-warming-deliveries.json"
     },
     {
       "igdb_id": 260384,
@@ -236241,6 +236261,11 @@
       "igdb_id": 105270,
       "game_name": "Posthuman: Sanctuary",
       "file": "missing/P/105270-posthuman-sanctuary.json"
+    },
+    {
+      "igdb_id": 345599,
+      "game_name": "Postie",
+      "file": "missing/P/345599-postie.json"
     },
     {
       "igdb_id": 27329,
