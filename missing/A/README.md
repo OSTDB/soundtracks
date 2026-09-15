@@ -540,7 +540,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
 | Age of Empires II Mobile | 144346 | [144346-age-of-empires-ii-mobile.json](./144346-age-of-empires-ii-mobile.json) |
 | Age of Empires II: Definitive Edition - Dynasties of India | 197890 | [197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json](./197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json) |
-| Age of Empires II: HD Edition | 2950 | [2950-age-of-empires-ii-hd-edition.json](./2950-age-of-empires-ii-hd-edition.json) |
 | Age of Empires II: HD Edition - The Forgotten | 9951 | [9951-age-of-empires-ii-hd-edition-the-forgotten.json](./9951-age-of-empires-ii-hd-edition-the-forgotten.json) |
 | Age of Empires II: The Conquerors | 599 | [599-age-of-empires-ii-the-conquerors.json](./599-age-of-empires-ii-the-conquerors.json) |
 | Age of Empires III Mobile | 144347 | [144347-age-of-empires-iii-mobile.json](./144347-age-of-empires-iii-mobile.json) |
@@ -2775,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
 | Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
 | Arisen Force: LifeDevotee | 366210 | [366210-arisen-force-lifedevotee.json](./366210-arisen-force-lifedevotee.json) |
+| Aristocratic Potato | 343913 | [343913-aristocratic-potato.json](./343913-aristocratic-potato.json) |
 | Aristoi | 180233 | [180233-aristoi.json](./180233-aristoi.json) |
 | Arizona Rose and the Pharaohs' Riddles | 29870 | [29870-arizona-rose-and-the-pharaohs-riddles.json](./29870-arizona-rose-and-the-pharaohs-riddles.json) |
 | Ark Bubble | 242562 | [242562-ark-bubble.json](./242562-ark-bubble.json) |
