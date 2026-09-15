@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: The Little Mermaid and the Purple Tide - Collector's Edition | 33232 | [33232-dark-parables-the-little-mermaid-and-the-purple-tide-collectors-edition.json](./33232-dark-parables-the-little-mermaid-and-the-purple-tide-collectors-edition.json) |
 | Dark Parables: The Match Girl's Lost Paradise | 123635 | [123635-dark-parables-the-match-girls-lost-paradise.json](./123635-dark-parables-the-match-girls-lost-paradise.json) |
 | Dark Parables: The Match Girl's Lost Paradise - Collector's Edition | 111694 | [111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json](./111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json) |
+| Dark Place | 366307 | [366307-dark-place.json](./366307-dark-place.json) |
 | Dark Place 1 | 272026 | [272026-dark-place-1.json](./272026-dark-place-1.json) |
 | Dark Place 2 | 272027 | [272027-dark-place-2.json](./272027-dark-place-2.json) |
 | Dark Place 3 | 272028 | [272028-dark-place-3.json](./272028-dark-place-3.json) |
@@ -714,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De-Exit: Eternal Matters | 172757 | [172757-de-exit-eternal-matters.json](./172757-de-exit-eternal-matters.json) |
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
 | De:Void | 135813 | [135813-de-void.json](./135813-de-void.json) |
+| Dead Above | 366309 | [366309-dead-above.json](./366309-dead-above.json) |
 | Dead Abyss | 321336 | [321336-dead-abyss.json](./321336-dead-abyss.json) |
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
 | Dead Before Work: The Commute | 399087 | [399087-dead-before-work-the-commute.json](./399087-dead-before-work-the-commute.json) |
@@ -2213,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples: Sacred Lands Gold | 11405 | [11405-disciples-sacred-lands-gold.json](./11405-disciples-sacred-lands-gold.json) |
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
 | Disco Bullets | 122371 | [122371-disco-bullets.json](./122371-disco-bullets.json) |
+| Disco Duck | 366317 | [366317-disco-duck.json](./366317-disco-duck.json) |
 | Disco Elysium: Game Boy Edition | 140050 | [140050-disco-elysium-game-boy-edition.json](./140050-disco-elysium-game-boy-edition.json) |
 | Disco Elysium: The Final Cut | 141540 | [141540-disco-elysium-the-final-cut.json](./141540-disco-elysium-the-final-cut.json) |
 | Disco Elysium: The Final Cut Bundle | 249486 | [249486-disco-elysium-the-final-cut-bundle.json](./249486-disco-elysium-the-final-cut-bundle.json) |
@@ -2867,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Cat | 343797 | [343797-doodle-cat.json](./343797-doodle-cat.json) |
 | Doodle Creatures HD | 100873 | [100873-doodle-creatures-hd.json](./100873-doodle-creatures-hd.json) |
 | Doodle Date | 96632 | [96632-doodle-date.json](./96632-doodle-date.json) |
+| Doodle Defense | 366295 | [366295-doodle-defense.json](./366295-doodle-defense.json) |
 | Doodle Devil: Dark Side | 386861 | [386861-doodle-devil-dark-side.json](./386861-doodle-devil-dark-side.json) |
 | Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
 | Doodle Escape | 338011 | [338011-doodle-escape.json](./338011-doodle-escape.json) |
