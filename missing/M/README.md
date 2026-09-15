@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maginary | 129163 | [129163-maginary.json](./129163-maginary.json) |
 | Magiopolis | 277048 | [277048-magiopolis.json](./277048-magiopolis.json) |
 | Magistrangers | 392793 | [392793-magistrangers.json](./392793-magistrangers.json) |
+| Magitech Requiem | 336011 | [336011-magitech-requiem.json](./336011-magitech-requiem.json) |
 | Magium | 207821 | [207821-magium.json](./207821-magium.json) |
 | Magma Chamber | 32968 | [32968-magma-chamber.json](./32968-magma-chamber.json) |
 | Magma Project Hacker | 41313 | [41313-magma-project-hacker.json](./41313-magma-project-hacker.json) |
@@ -441,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
+| Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
 | Mahjong Sengoku Monogatari | 37743 | [37743-mahjong-sengoku-monogatari.json](./37743-mahjong-sengoku-monogatari.json) |
 | Mahjong Taikai IV | 66091 | [66091-mahjong-taikai-iv.json](./66091-mahjong-taikai-iv.json) |
 | Mahjong Tales: Ancient Wisdom | 52577 | [52577-mahjong-tales-ancient-wisdom.json](./52577-mahjong-tales-ancient-wisdom.json) |
@@ -2749,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilkSnake: Torus Edition | 99573 | [99573-milksnake-torus-edition.json](./99573-milksnake-torus-edition.json) |
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
+| Milky Way Idle | 336018 | [336018-milky-way-idle.json](./336018-milky-way-idle.json) |
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
 | Millennium 2: Take Me Higher | 8179 | [8179-millennium-2-take-me-higher.json](./8179-millennium-2-take-me-higher.json) |
 | Millennium 3: Cry Wolf | 8180 | [8180-millennium-3-cry-wolf.json](./8180-millennium-3-cry-wolf.json) |
@@ -3364,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
 | Mob War | 90546 | [90546-mob-war.json](./90546-mob-war.json) |
 | Mob Wars: La Cosa Nostra | 125364 | [125364-mob-wars-la-cosa-nostra.json](./125364-mob-wars-la-cosa-nostra.json) |
+| Mobenium 2D | 336040 | [336040-mobenium-2d.json](./336040-mobenium-2d.json) |
 | Mobia's Trip | 364602 | [364602-mobias-trip.json](./364602-mobias-trip.json) |
 | Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
@@ -5095,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
 | MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
+| MySims Kingdom | 336028 | [336028-mysims-kingdom.json](./336028-mysims-kingdom.json) |
 | MySims SkyHeroes | 192926 | [192926-mysims-skyheroes.json](./192926-mysims-skyheroes.json) |
 | MySims SkyHeroes | 7093 | [7093-mysims-skyheroes.json](./7093-mysims-skyheroes.json) |
 | Myst | 236 | [236-myst.json](./236-myst.json) |
