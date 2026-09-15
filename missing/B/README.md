@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bar Simulator | 407335 | [407335-bar-simulator.json](./407335-bar-simulator.json) |
 | Bara Boarders | 183046 | [183046-bara-boarders.json](./183046-bara-boarders.json) |
 | Bara no Ki ni: Bara no Hanasaku | 56522 | [56522-bara-no-ki-ni-bara-no-hanasaku.json](./56522-bara-no-ki-ni-bara-no-hanasaku.json) |
+| Baraban: Master of Bargain | 367490 | [367490-baraban-master-of-bargain.json](./367490-baraban-master-of-bargain.json) |
 | Barack Fu: The Adventures of Dirty Barry | 407397 | [407397-barack-fu-the-adventures-of-dirty-barry.json](./407397-barack-fu-the-adventures-of-dirty-barry.json) |
 | Baraduke | 39856 | [39856-baraduke.json](./39856-baraduke.json) |
 | Barakel: The Fallen Angel | 175912 | [175912-barakel-the-fallen-angel.json](./175912-barakel-the-fallen-angel.json) |
