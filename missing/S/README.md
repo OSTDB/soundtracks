@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
 | Save the Reactor | 190174 | [190174-save-the-reactor.json](./190174-save-the-reactor.json) |
 | Save Them | 106536 | [106536-save-them.json](./106536-save-them.json) |
+| Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
 | Saviner | 383524 | [383524-saviner.json](./383524-saviner.json) |
 | Saving Clicklandia | 295017 | [295017-saving-clicklandia.json](./295017-saving-clicklandia.json) |
@@ -687,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary 8 Bits | 404207 | [404207-scary-8-bits.json](./404207-scary-8-bits.json) |
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
 | Scary Goat 2017 | 89987 | [89987-scary-goat-2017.json](./89987-scary-goat-2017.json) |
+| Scary Granny | 370183 | [370183-scary-granny.json](./370183-scary-granny.json) |
 | Scary Hospital Horror Game | 157214 | [157214-scary-hospital-horror-game.json](./157214-scary-hospital-horror-game.json) |
 | Scary Hotel | 148531 | [148531-scary-hotel.json](./148531-scary-hotel.json) |
 | Scary Math Teacher Boss Pranks | 303260 | [303260-scary-math-teacher-boss-pranks.json](./303260-scary-math-teacher-boss-pranks.json) |
@@ -2473,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill 3 | 222486 | [222486-silent-hill-3.json](./222486-silent-hill-3.json) |
 | Silent Hill Complete Set | 144966 | [144966-silent-hill-complete-set.json](./144966-silent-hill-complete-set.json) |
 | Silent Hill f | 222343 | [222343-silent-hill-f.json](./222343-silent-hill-f.json) |
+| Silent Hill f: Day One Edition | 370229 | [370229-silent-hill-f-day-one-edition.json](./370229-silent-hill-f-day-one-edition.json) |
 | Silent Hill f: Deluxe Edition | 347180 | [347180-silent-hill-f-deluxe-edition.json](./347180-silent-hill-f-deluxe-edition.json) |
 | Silent Hill f: Steelbook Edition | 381094 | [381094-silent-hill-f-steelbook-edition.json](./381094-silent-hill-f-steelbook-edition.json) |
 | Silent Hill: Book of Memories | 9714 | [9714-silent-hill-book-of-memories.json](./9714-silent-hill-book-of-memories.json) |
@@ -4136,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Arena 3 | 332260 | [332260-sonic-arena-3.json](./332260-sonic-arena-3.json) |
 | Sonic Arena: The Lost Chapters | 332257 | [332257-sonic-arena-the-lost-chapters.json](./332257-sonic-arena-the-lost-chapters.json) |
 | Sonic Ascends | 317611 | [317611-sonic-ascends.json](./317611-sonic-ascends.json) |
+| Sonic Astral Generations | 370199 | [370199-sonic-astral-generations.json](./370199-sonic-astral-generations.json) |
 | Sonic Axiom | 325848 | [325848-sonic-axiom.json](./325848-sonic-axiom.json) |
 | Sonic Battle Rush | 266507 | [266507-sonic-battle-rush.json](./266507-sonic-battle-rush.json) |
 | Sonic Billiards | 261246 | [261246-sonic-billiards.json](./261246-sonic-billiards.json) |
@@ -4144,6 +4148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Boom | 12855 | [12855-sonic-boom.json](./12855-sonic-boom.json) |
 | Sonic Bowling | 261248 | [261248-sonic-bowling.json](./261248-sonic-bowling.json) |
 | Sonic Bowling | 261293 | [261293-sonic-bowling.json](./261293-sonic-bowling.json) |
+| Sonic Breaking Point | 370212 | [370212-sonic-breaking-point.json](./370212-sonic-breaking-point.json) |
 | Sonic CD | 86807 | [86807-sonic-cd.json](./86807-sonic-cd.json) |
 | Sonic CD: Episode Metal | 201809 | [201809-sonic-cd-episode-metal.json](./201809-sonic-cd-episode-metal.json) |
 | Sonic CD++ | 198545 | [198545-sonic-cd.json](./198545-sonic-cd.json) |
@@ -4162,11 +4167,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Dash | 19506 | [19506-sonic-dash.json](./19506-sonic-dash.json) |
 | Sonic Dash 2: Sonic Boom | 38695 | [38695-sonic-dash-2-sonic-boom.json](./38695-sonic-dash-2-sonic-boom.json) |
 | Sonic Dash Quiz | 261292 | [261292-sonic-dash-quiz.json](./261292-sonic-dash-quiz.json) |
+| Sonic Daybreak | 370215 | [370215-sonic-daybreak.json](./370215-sonic-daybreak.json) |
+| Sonic Definitive | 370216 | [370216-sonic-definitive.json](./370216-sonic-definitive.json) |
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
 | Sonic Dreams Collection | 11656 | [11656-sonic-dreams-collection.json](./11656-sonic-dreams-collection.json) |
 | Sonic Drift | 45798 | [45798-sonic-drift.json](./45798-sonic-drift.json) |
 | Sonic Elementals | 333959 | [333959-sonic-elementals.json](./333959-sonic-elementals.json) |
 | Sonic ERaZor | 198564 | [198564-sonic-erazor.json](./198564-sonic-erazor.json) |
+| Sonic Escape | 370218 | [370218-sonic-escape.json](./370218-sonic-escape.json) |
 | Sonic FGX 2 | 352169 | [352169-sonic-fgx-2.json](./352169-sonic-fgx-2.json) |
 | Sonic Forces + Super Monkey Ball: Banana Blitz HD Double Pack | 139951 | [139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json](./139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json) |
 | Sonic Forces Overclocked | 280749 | [280749-sonic-forces-overclocked.json](./280749-sonic-forces-overclocked.json) |
@@ -6657,6 +6665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Basket Challenge | 236833 | [236833-street-basket-challenge.json](./236833-street-basket-challenge.json) |
 | Street Beat | 69836 | [69836-street-beat.json](./69836-street-beat.json) |
 | Street Bike: Full Blast HD | 20742 | [20742-street-bike-full-blast-hd.json](./20742-street-bike-full-blast-hd.json) |
+| Street Boss | 370180 | [370180-street-boss.json](./370180-street-boss.json) |
 | Street Boy | 220646 | [220646-street-boy.json](./220646-street-boy.json) |
 | Street Cat | 78041 | [78041-street-cat.json](./78041-street-cat.json) |
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
@@ -7756,6 +7765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Minecraft 64 DS | 270381 | [270381-super-minecraft-64-ds.json](./270381-super-minecraft-64-ds.json) |
 | Super MineSweeper | 309683 | [309683-super-minesweeper.json](./309683-super-minesweeper.json) |
 | Super Mombo Quest | 139438 | [139438-super-mombo-quest.json](./139438-super-mombo-quest.json) |
+| Super Momos Crushers | 370197 | [370197-super-momos-crushers.json](./370197-super-momos-crushers.json) |
 | Super Momotaro Dentetsu DX | 38344 | [38344-super-momotaro-dentetsu-dx.json](./38344-super-momotaro-dentetsu-dx.json) |
 | Super Momotaro Dentetsu II | 37810 | [37810-super-momotaro-dentetsu-ii.json](./37810-super-momotaro-dentetsu-ii.json) |
 | Super Momotaro Dentetsu III | 38343 | [38343-super-momotaro-dentetsu-iii.json](./38343-super-momotaro-dentetsu-iii.json) |
