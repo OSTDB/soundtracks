@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Skips | 398972 | [398972-scarlet-skips.json](./398972-scarlet-skips.json) |
 | Scarlet Sorceress | 382217 | [382217-scarlet-sorceress.json](./382217-scarlet-sorceress.json) |
 | Scarlet Thread | 290714 | [290714-scarlet-thread.json](./290714-scarlet-thread.json) |
+| Scarlet Wolf | 352841 | [352841-scarlet-wolf.json](./352841-scarlet-wolf.json) |
 | Scarlet's Haunted Hotel | 319373 | [319373-scarlets-haunted-hotel.json](./319373-scarlets-haunted-hotel.json) |
 | Scarlett Mysteries: Cursed Child | 37006 | [37006-scarlett-mysteries-cursed-child.json](./37006-scarlett-mysteries-cursed-child.json) |
 | ScarQuest | 301242 | [301242-scarquest.json](./301242-scarquest.json) |
@@ -2258,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Game Kari | 211718 | [211718-shooting-game-kari.json](./211718-shooting-game-kari.json) |
 | Shooting Master | 366914 | [366914-shooting-master.json](./366914-shooting-master.json) |
 | Shooting Range by Thornbury Software | 84871 | [84871-shooting-range-by-thornbury-software.json](./84871-shooting-range-by-thornbury-software.json) |
+| Shooting Star Rockman Wave Transer | 352786 | [352786-shooting-star-rockman-wave-transer.json](./352786-shooting-star-rockman-wave-transer.json) |
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
 | ShootX | 343260 | [343260-shootx.json](./343260-shootx.json) |
@@ -3154,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
 | Slash of Sword 2 | 254157 | [254157-slash-of-sword-2.json](./254157-slash-of-sword-2.json) |
 | Slashboy | 333393 | [333393-slashboy.json](./333393-slashboy.json) |
+| Slasher | 352843 | [352843-slasher.json](./352843-slasher.json) |
 | Slasher Lock | 184593 | [184593-slasher-lock.json](./184593-slasher-lock.json) |
 | Slashing Night | 340365 | [340365-slashing-night.json](./340365-slashing-night.json) |
 | Slashvival | 115001 | [115001-slashvival.json](./115001-slashvival.json) |
@@ -4114,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Someone’s Ghost Photos | 399721 | [399721-someone-s-ghost-photos.json](./399721-someone-s-ghost-photos.json) |
 | Someone's Here | 410921 | [410921-someones-here.json](./410921-someones-here.json) |
 | Someplace Else | 136387 | [136387-someplace-else.json](./136387-someplace-else.json) |
+| Something a Little Super | 352844 | [352844-something-a-little-super.json](./352844-something-a-little-super.json) |
 | Something Dark Beyond The Light | 353871 | [353871-something-dark-beyond-the-light.json](./353871-something-dark-beyond-the-light.json) |
 | Something in the Woods | 261263 | [261263-something-in-the-woods.json](./261263-something-in-the-woods.json) |
 | Something Is Wrong With My World Map | 315488 | [315488-something-is-wrong-with-my-world-map.json](./315488-something-is-wrong-with-my-world-map.json) |
@@ -4256,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Forces Overclocked | 280749 | [280749-sonic-forces-overclocked.json](./280749-sonic-forces-overclocked.json) |
 | Sonic Frontiers | 150010 | [150010-sonic-frontiers.json](./150010-sonic-frontiers.json) |
 | Sonic Frontiers 2D | 336348 | [336348-sonic-frontiers-2d.json](./336348-sonic-frontiers-2d.json) |
+| Sonic Frontiers: Holiday Cheer Suit | 352840 | [352840-sonic-frontiers-holiday-cheer-suit.json](./352840-sonic-frontiers-holiday-cheer-suit.json) |
 | Sonic Gallery | 330528 | [330528-sonic-gallery.json](./330528-sonic-gallery.json) |
 | Sonic Gammon | 261275 | [261275-sonic-gammon.json](./261275-sonic-gammon.json) |
 | Sonic Gather Battle | 227886 | [227886-sonic-gather-battle.json](./227886-sonic-gather-battle.json) |
@@ -5782,6 +5787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Boss | 75109 | [75109-star-boss.json](./75109-star-boss.json) |
 | Star Boy | 96676 | [96676-star-boy.json](./96676-star-boy.json) |
 | Star Cadre: Combat Class | 396216 | [396216-star-cadre-combat-class.json](./396216-star-cadre-combat-class.json) |
+| Star Carrier | 352785 | [352785-star-carrier.json](./352785-star-carrier.json) |
 | Star Castle PC | 95420 | [95420-star-castle-pc.json](./95420-star-castle-pc.json) |
 | Star Catcher | 391150 | [391150-star-catcher.json](./391150-star-catcher.json) |
 | Star Catcher: Heart Master | 362272 | [362272-star-catcher-heart-master.json](./362272-star-catcher-heart-master.json) |
@@ -6482,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steven Universe: Save the Light & OK K.O.! Let's Play Heroes Combo Pack | 107150 | [107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json](./107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json) |
 | Stewie Talking Electronic Pinball | 218441 | [218441-stewie-talking-electronic-pinball.json](./218441-stewie-talking-electronic-pinball.json) |
 | Stick 'Em Up 2: Paper Adventures - Starter Edition | 89634 | [89634-stick-em-up-2-paper-adventures-starter-edition.json](./89634-stick-em-up-2-paper-adventures-starter-edition.json) |
+| Stick A Round | 352788 | [352788-stick-a-round.json](./352788-stick-a-round.json) |
 | Stick Arena Ballistick | 69277 | [69277-stick-arena-ballistick.json](./69277-stick-arena-ballistick.json) |
 | Stick Battle: Warriors Fight | 208950 | [208950-stick-battle-warriors-fight.json](./208950-stick-battle-warriors-fight.json) |
 | Stick City Run 2 By Lettu Games | 232160 | [232160-stick-city-run-2-by-lettu-games.json](./232160-stick-city-run-2-by-lettu-games.json) |
