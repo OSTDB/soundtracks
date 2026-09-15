@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazo Puyo: Arle no Roux | 45258 | [45258-nazo-puyo-arle-no-roux.json](./45258-nazo-puyo-arle-no-roux.json) |
 | Nazo to Kioku no Labyrinth: Somewhere, elsewhere | 172743 | [172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json](./172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json) |
 | Nazo Waku Yakata: Oto no Ma ni Ma ni | 66047 | [66047-nazo-waku-yakata-oto-no-ma-ni-ma-ni.json](./66047-nazo-waku-yakata-oto-no-ma-ni-ma-ni.json) |
+| Nazojike Quiz! | 349943 | [349943-nazojike-quiz.json](./349943-nazojike-quiz.json) |
 | Nazoler Land Dai 2-gou | 41400 | [41400-nazoler-land-dai-2-gou.json](./41400-nazoler-land-dai-2-gou.json) |
 | Nazoler Land Dai 3-gou | 41399 | [41399-nazoler-land-dai-3-gou.json](./41399-nazoler-land-dai-3-gou.json) |
 | Nazoler Land Soukan-gou | 41398 | [41398-nazoler-land-soukan-gou.json](./41398-nazoler-land-soukan-gou.json) |
