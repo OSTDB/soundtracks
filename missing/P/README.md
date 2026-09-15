@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasmatron | 53165 | [53165-plasmatron.json](./53165-plasmatron.json) |
 | Plasmaworm | 93052 | [93052-plasmaworm.json](./93052-plasmaworm.json) |
 | Plaster World | 57067 | [57067-plaster-world.json](./57067-plaster-world.json) |
+| Plastic Battlegrounds | 363959 | [363959-plastic-battlegrounds.json](./363959-plastic-battlegrounds.json) |
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
 | Plastic Model | 229684 | [229684-plastic-model.json](./229684-plastic-model.json) |
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
