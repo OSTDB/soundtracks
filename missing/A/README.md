@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
 | Aircraft Carrier Survival | 139380 | [139380-aircraft-carrier-survival.json](./139380-aircraft-carrier-survival.json) |
 | Aircraft War: Extra Level Pack 2 | 263196 | [263196-aircraft-war-extra-level-pack-2.json](./263196-aircraft-war-extra-level-pack-2.json) |
+| Aircraft Wars | 341580 | [341580-aircraft-wars.json](./341580-aircraft-wars.json) |
 | Aircrafter | 379858 | [379858-aircrafter.json](./379858-aircrafter.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
 | AirFMC | 90201 | [90201-airfmc.json](./90201-airfmc.json) |
