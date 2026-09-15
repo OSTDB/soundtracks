@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revival AO | 212245 | [212245-revival-ao.json](./212245-revival-ao.json) |
 | Revival of the Road | 83496 | [83496-revival-of-the-road.json](./83496-revival-of-the-road.json) |
 | Revive & Repeat | 391731 | [391731-revive-and-repeat.json](./391731-revive-and-repeat.json) |
+| Revive The Town! | 353372 | [353372-revive-the-town.json](./353372-revive-the-town.json) |
 | Revive: C64 Classics | 84199 | [84199-revive-c64-classics.json](./84199-revive-c64-classics.json) |
 | Revived Souls | 163912 | [163912-revived-souls.json](./163912-revived-souls.json) |
 | Reviver: The Real-Time Adventure | 63884 | [63884-reviver-the-real-time-adventure.json](./63884-reviver-the-real-time-adventure.json) |
@@ -2386,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Trooper: Quartz Zone Massacre | 21262 | [21262-rogue-trooper-quartz-zone-massacre.json](./21262-rogue-trooper-quartz-zone-massacre.json) |
 | Rogue Warrior | 564 | [564-rogue-warrior.json](./564-rogue-warrior.json) |
 | Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
+| Rogue Words | 353409 | [353409-rogue-words.json](./353409-rogue-words.json) |
 | Rogue Zillion | 75766 | [75766-rogue-zillion.json](./75766-rogue-zillion.json) |
 | Rogue's Realm: The Old God | 306360 | [306360-rogues-realm-the-old-god.json](./306360-rogues-realm-the-old-god.json) |
 | Rogue's Tale | 16875 | [16875-rogues-tale.json](./16875-rogues-tale.json) |
