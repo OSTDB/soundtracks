@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: VR Mod | 221166 | [221166-half-life-vr-mod.json](./221166-half-life-vr-mod.json) |
 | Half-Rats: Parasomnia | 127919 | [127919-half-rats-parasomnia.json](./127919-half-rats-parasomnia.json) |
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
+| Halfmoon | 364583 | [364583-halfmoon.json](./364583-halfmoon.json) |
 | Halfquake Trilogy | 127942 | [127942-halfquake-trilogy.json](./127942-halfquake-trilogy.json) |
 | Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
 | Halley's Big Catch | 417530 | [417530-halleys-big-catch.json](./417530-halleys-big-catch.json) |
@@ -195,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Chaotic Edition | 271760 | [271760-halo-chaotic-edition.json](./271760-halo-chaotic-edition.json) |
 | Halo Infinite: Operation - Champions | 335851 | [335851-halo-infinite-operation-champions.json](./335851-halo-infinite-operation-champions.json) |
 | Halo Infinite: Operation - Great Journey | 335849 | [335849-halo-infinite-operation-great-journey.json](./335849-halo-infinite-operation-great-journey.json) |
+| Halo Infinite: Operation - Shadows | 364581 | [364581-halo-infinite-operation-shadows.json](./364581-halo-infinite-operation-shadows.json) |
 | Halo Infinite: Operation - Snowbound | 335848 | [335848-halo-infinite-operation-snowbound.json](./335848-halo-infinite-operation-snowbound.json) |
 | Halo Infinite: Operation - Warpath | 367399 | [367399-halo-infinite-operation-warpath.json](./367399-halo-infinite-operation-warpath.json) |
 | Halo Infinite: Operation Haloween II | 381717 | [381717-halo-infinite-operation-haloween-ii.json](./381717-halo-infinite-operation-haloween-ii.json) |
@@ -302,6 +304,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haneda Girl | 222901 | [222901-haneda-girl.json](./222901-haneda-girl.json) |
 | Hanerutchi | 229961 | [229961-hanerutchi.json](./229961-hanerutchi.json) |
 | Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
+| Hang-On | 364569 | [364569-hang-on.json](./364569-hang-on.json) |
+| Hang-On | 364571 | [364571-hang-on.json](./364571-hang-on.json) |
 | Hang-On & Astro Warrior | 86098 | [86098-hang-on-and-astro-warrior.json](./86098-hang-on-and-astro-warrior.json) |
 | Hangar 51: Classified Investigation | 382276 | [382276-hangar-51-classified-investigation.json](./382276-hangar-51-classified-investigation.json) |
 | Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
@@ -1458,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
 | Hexa Faction | 57044 | [57044-hexa-faction.json](./57044-hexa-faction.json) |
 | Hexa Faction 2 | 57043 | [57043-hexa-faction-2.json](./57043-hexa-faction-2.json) |
+| Hexa Fusion 2048 | 364558 | [364558-hexa-fusion-2048.json](./364558-hexa-fusion-2048.json) |
 | Hexa Puzzle Saga | 248330 | [248330-hexa-puzzle-saga.json](./248330-hexa-puzzle-saga.json) |
 | Hexa's Gone | 393499 | [393499-hexas-gone.json](./393499-hexas-gone.json) |
 | Hexachess | 374634 | [374634-hexachess.json](./374634-hexachess.json) |
