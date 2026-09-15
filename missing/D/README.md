@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days Under Custody | 34165 | [34165-days-under-custody.json](./34165-days-under-custody.json) |
 | Days with Evraco: The Blind witch in Blue Forest | 392944 | [392944-days-with-evraco-the-blind-witch-in-blue-forest.json](./392944-days-with-evraco-the-blind-witch-in-blue-forest.json) |
 | Days With Girlfriends Ⅲ | 391601 | [391601-days-with-girlfriends-iii.json](./391601-days-with-girlfriends-iii.json) |
+| Days with Girlfriends: Kello & Cammy | 375954 | [375954-days-with-girlfriends-kello-and-cammy.json](./375954-days-with-girlfriends-kello-and-cammy.json) |
 | Days With Ollie | 294689 | [294689-days-with-ollie.json](./294689-days-with-ollie.json) |
 | Dayshift at Freddy's | 198465 | [198465-dayshift-at-freddys.json](./198465-dayshift-at-freddys.json) |
 | DayZ | 2117 | [2117-dayz.json](./2117-dayz.json) |
@@ -4210,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light 2: Stay Human - Collector's Edition | 150146 | [150146-dying-light-2-stay-human-collectors-edition.json](./150146-dying-light-2-stay-human-collectors-edition.json) |
 | Dying Light: Enhanced Edition | 248317 | [248317-dying-light-enhanced-edition.json](./248317-dying-light-enhanced-edition.json) |
 | Dying Light: Platinum Edition | 152030 | [152030-dying-light-platinum-edition.json](./152030-dying-light-platinum-edition.json) |
+| Dying Night Sex with Zombi | 375952 | [375952-dying-night-sex-with-zombi.json](./375952-dying-night-sex-with-zombi.json) |
 | Dying Reign | 355560 | [355560-dying-reign.json](./355560-dying-reign.json) |
 | Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
 | Dying: Reborn + Dying: Reborn VR Bundle | 217861 | [217861-dying-reborn-dying-reborn-vr-bundle.json](./217861-dying-reborn-dying-reborn-vr-bundle.json) |
