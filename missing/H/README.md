@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
 | Hidden Cats | 183564 | [183564-hidden-cats.json](./183564-hidden-cats.json) |
 | Hidden Cats In Amusement Park | 263791 | [263791-hidden-cats-in-amusement-park.json](./263791-hidden-cats-in-amusement-park.json) |
+| Hidden Cats in Christmas | 379445 | [379445-hidden-cats-in-christmas.json](./379445-hidden-cats-in-christmas.json) |
 | Hidden Cats In Fallen Leaves Town | 311486 | [311486-hidden-cats-in-fallen-leaves-town.json](./311486-hidden-cats-in-fallen-leaves-town.json) |
 | Hidden Cats In Japanese Village | 305137 | [305137-hidden-cats-in-japanese-village.json](./305137-hidden-cats-in-japanese-village.json) |
 | Hidden Cats in Spooky Town | 266771 | [266771-hidden-cats-in-spooky-town.json](./266771-hidden-cats-in-spooky-town.json) |
