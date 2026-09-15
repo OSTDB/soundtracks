@@ -2147,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Comes From Above | 157715 | [157715-food-comes-from-above.json](./157715-food-comes-from-above.json) |
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
 | Food Drive | 109721 | [109721-food-drive.json](./109721-food-drive.json) |
+| Food Fight | 357318 | [357318-food-fight.json](./357318-food-fight.json) |
 | Food Frenzy | 209465 | [209465-food-frenzy.json](./209465-food-frenzy.json) |
 | Food From a Stranger | 378211 | [378211-food-from-a-stranger.json](./378211-food-from-a-stranger.json) |
 | Food From the Sky | 96966 | [96966-food-from-the-sky.json](./96966-food-from-the-sky.json) |
@@ -2475,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forts: High Seas | 195771 | [195771-forts-high-seas.json](./195771-forts-high-seas.json) |
 | Fortuito: Lost History | 156667 | [156667-fortuito-lost-history.json](./156667-fortuito-lost-history.json) |
 | Fortuna | 218172 | [218172-fortuna.json](./218172-fortuna.json) |
+| Fortune | 357312 | [357312-fortune.json](./357312-fortune.json) |
 | Fortune & Gloria | 105324 | [105324-fortune-and-gloria.json](./105324-fortune-and-gloria.json) |
 | Fortune Cookie | 340238 | [340238-fortune-cookie.json](./340238-fortune-cookie.json) |
 | Fortune Cookie | 59928 | [59928-fortune-cookie.json](./59928-fortune-cookie.json) |
