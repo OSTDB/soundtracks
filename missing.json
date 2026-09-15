@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T23:31:36.164Z",
-  "total_missing": 75785,
+  "generated_at": "2026-09-15T23:41:32.715Z",
+  "total_missing": 75799,
   "games": [
     {
       "igdb_id": 306086,
@@ -5591,11 +5591,6 @@
       "igdb_id": 9429,
       "game_name": "Age of Sail II: Privateer's Bounty",
       "file": "missing/A/9429-age-of-sail-ii-privateers-bounty.json"
-    },
-    {
-      "igdb_id": 211422,
-      "game_name": "Age of Solitaire: Build Civilization",
-      "file": "missing/A/211422-age-of-solitaire-build-civilization.json"
     },
     {
       "igdb_id": 176477,
@@ -19641,6 +19636,11 @@
       "igdb_id": 23049,
       "game_name": "Astro Fighter",
       "file": "missing/A/23049-astro-fighter.json"
+    },
+    {
+      "igdb_id": 334190,
+      "game_name": "Astro Fighters",
+      "file": "missing/A/334190-astro-fighters.json"
     },
     {
       "igdb_id": 375991,
@@ -47178,6 +47178,11 @@
       "file": "missing/C/188113-card-escape-plane-crash.json"
     },
     {
+      "igdb_id": 334188,
+      "game_name": "Card Fable Quest",
+      "file": "missing/C/334188-card-fable-quest.json"
+    },
+    {
       "igdb_id": 278167,
       "game_name": "Card Fuse",
       "file": "missing/C/278167-card-fuse.json"
@@ -55946,6 +55951,11 @@
       "igdb_id": 111222,
       "game_name": "Clad in Iron: Sakhalin 1904",
       "file": "missing/C/111222-clad-in-iron-sakhalin-1904.json"
+    },
+    {
+      "igdb_id": 334186,
+      "game_name": "Clad In Iron: War of The Pacific 1879",
+      "file": "missing/C/334186-clad-in-iron-war-of-the-pacific-1879.json"
     },
     {
       "igdb_id": 399618,
@@ -65766,6 +65776,11 @@
       "igdb_id": 122982,
       "game_name": "Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth",
       "file": "missing/C/122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json"
+    },
+    {
+      "igdb_id": 334182,
+      "game_name": "Cross The Boundaries",
+      "file": "missing/C/334182-cross-the-boundaries.json"
     },
     {
       "igdb_id": 246961,
@@ -139103,6 +139118,11 @@
       "file": "missing/H/94255-hermes.json"
     },
     {
+      "igdb_id": 334193,
+      "game_name": "Hermes' Runner",
+      "file": "missing/H/334193-hermes-runner.json"
+    },
+    {
       "igdb_id": 123013,
       "game_name": "Hermina to Culus: Lillie no Atelier Mou Hitotsu no Monogatari",
       "file": "missing/H/123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json"
@@ -151283,6 +151303,11 @@
       "file": "missing/I/182522-in-search-of-light.json"
     },
     {
+      "igdb_id": 334191,
+      "game_name": "In Search of Something",
+      "file": "missing/I/334191-in-search-of-something.json"
+    },
+    {
       "igdb_id": 69820,
       "game_name": "In Search of the Most Amazing Thing",
       "file": "missing/I/69820-in-search-of-the-most-amazing-thing.json"
@@ -161781,6 +161806,11 @@
       "igdb_id": 286009,
       "game_name": "Kaiju Cracking Corp",
       "file": "missing/K/286009-kaiju-cracking-corp.json"
+    },
+    {
+      "igdb_id": 334192,
+      "game_name": "Kaiju Evolution Survivor",
+      "file": "missing/K/334192-kaiju-evolution-survivor.json"
     },
     {
       "igdb_id": 384630,
@@ -190803,6 +190833,11 @@
       "file": "missing/M/138236-melbits-pod.json"
     },
     {
+      "igdb_id": 334189,
+      "game_name": "Melbourne: Route 96",
+      "file": "missing/M/334189-melbourne-route-96.json"
+    },
+    {
       "igdb_id": 270414,
       "game_name": "Melli's Retro Land",
       "file": "missing/M/270414-mellis-retro-land.json"
@@ -211246,6 +211281,11 @@
       "igdb_id": 332830,
       "game_name": "Never Experiment On Cats!",
       "file": "missing/N/332830-never-experiment-on-cats.json"
+    },
+    {
+      "igdb_id": 334187,
+      "game_name": "Never Fall",
+      "file": "missing/N/334187-never-fall.json"
     },
     {
       "igdb_id": 239639,
@@ -256043,6 +256083,11 @@
       "file": "missing/R/83496-revival-of-the-road.json"
     },
     {
+      "igdb_id": 334183,
+      "game_name": "Revive",
+      "file": "missing/R/334183-revive.json"
+    },
+    {
       "igdb_id": 391731,
       "game_name": "Revive & Repeat",
       "file": "missing/R/391731-revive-and-repeat.json"
@@ -267821,6 +267866,11 @@
       "igdb_id": 277837,
       "game_name": "Scavenger VR",
       "file": "missing/S/277837-scavenger-vr.json"
+    },
+    {
+      "igdb_id": 334184,
+      "game_name": "Scavenger Zero",
+      "file": "missing/S/334184-scavenger-zero.json"
     },
     {
       "igdb_id": 91041,
@@ -289806,6 +289856,11 @@
       "igdb_id": 167802,
       "game_name": "Spanish Rage",
       "file": "missing/S/167802-spanish-rage.json"
+    },
+    {
+      "igdb_id": 334194,
+      "game_name": "Spank The Idle Monkey",
+      "file": "missing/S/334194-spank-the-idle-monkey.json"
     },
     {
       "igdb_id": 254526,
@@ -338813,6 +338868,11 @@
       "file": "missing/T/222931-tinkertown-x-among-us.json"
     },
     {
+      "igdb_id": 334181,
+      "game_name": "Tint The Saver",
+      "file": "missing/T/334181-tint-the-saver.json"
+    },
+    {
       "igdb_id": 43902,
       "game_name": "TinTin: Destination Adventure",
       "file": "missing/T/43902-tintin-destination-adventure.json"
@@ -340916,6 +340976,11 @@
       "igdb_id": 158140,
       "game_name": "Tomb of Pharaohs",
       "file": "missing/T/158140-tomb-of-pharaohs.json"
+    },
+    {
+      "igdb_id": 334195,
+      "game_name": "Tomb of the Bloodletter",
+      "file": "missing/T/334195-tomb-of-the-bloodletter.json"
     },
     {
       "igdb_id": 199630,
@@ -365441,6 +365506,11 @@
       "igdb_id": 300688,
       "game_name": "Where Are They?",
       "file": "missing/W/300688-where-are-they.json"
+    },
+    {
+      "igdb_id": 334185,
+      "game_name": "Where Are You, Diamond",
+      "file": "missing/W/334185-where-are-you-diamond.json"
     },
     {
       "igdb_id": 136451,
