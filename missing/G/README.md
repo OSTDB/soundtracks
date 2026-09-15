@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genokids | 141137 | [141137-genokids.json](./141137-genokids.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
 | Gensei Suikoden | 97282 | [97282-gensei-suikoden.json](./97282-gensei-suikoden.json) |
+| Genshin Impact: A Nocturne of the Far North | 378320 | [378320-genshin-impact-a-nocturne-of-the-far-north.json](./378320-genshin-impact-a-nocturne-of-the-far-north.json) |
 | Genshin Impact: As Light Rain Falls Without Reason | 259867 | [259867-genshin-impact-as-light-rain-falls-without-reason.json](./259867-genshin-impact-as-light-rain-falls-without-reason.json) |
 | Genshin Impact: Augured Homecoming | 398426 | [398426-genshin-impact-augured-homecoming.json](./398426-genshin-impact-augured-homecoming.json) |
 | Genshin Impact: Incandescent Ode of Resurrection | 326604 | [326604-genshin-impact-incandescent-ode-of-resurrection.json](./326604-genshin-impact-incandescent-ode-of-resurrection.json) |
@@ -1022,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls und Panzer: Dream Tank Match - Premium Edition | 166182 | [166182-girls-und-panzer-dream-tank-match-premium-edition.json](./166182-girls-und-panzer-dream-tank-match-premium-edition.json) |
 | Girls VR | 109708 | [109708-girls-vr.json](./109708-girls-vr.json) |
 | Girls X Battle: GXB Global | 104098 | [104098-girls-x-battle-gxb-global.json](./104098-girls-x-battle-gxb-global.json) |
+| Girls, I Just Want to Get Paid! | 378284 | [378284-girls-i-just-want-to-get-paid.json](./378284-girls-i-just-want-to-get-paid.json) |
 | Girls! Girls! Girls!? | 219796 | [219796-girls-girls-girls.json](./219796-girls-girls-girls.json) |
 | Girls' Day Out | 407327 | [407327-girls-day-out.json](./407327-girls-day-out.json) |
 | Girls' Fashion Shoot | 79894 | [79894-girls-fashion-shoot.json](./79894-girls-fashion-shoot.json) |
