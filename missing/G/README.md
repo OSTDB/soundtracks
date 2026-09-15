@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates of Nowhere | 50892 | [50892-gates-of-nowhere.json](./50892-gates-of-nowhere.json) |
 | Gates of Yomi | 274480 | [274480-gates-of-yomi.json](./274480-gates-of-yomi.json) |
 | Gates to Terra II | 126646 | [126646-gates-to-terra-ii.json](./126646-gates-to-terra-ii.json) |
+| Gatestriders | 365750 | [365750-gatestriders.json](./365750-gatestriders.json) |
 | Gateway to English: Eigo de Go! | 245313 | [245313-gateway-to-english-eigo-de-go.json](./245313-gateway-to-english-eigo-de-go.json) |
 | Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
 | Gateway to the Kulikovo Field: The Battle of Yepifan | 276204 | [276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json](./276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json) |
@@ -1874,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraviFire | 144277 | [144277-gravifire.json](./144277-gravifire.json) |
 | Gravillipse | 252159 | [252159-gravillipse.json](./252159-gravillipse.json) |
 | GraviSound | 109701 | [109701-gravisound.json](./109701-gravisound.json) |
+| Gravit | 365754 | [365754-gravit.json](./365754-gravit.json) |
 | GraviT | 200696 | [200696-gravit.json](./200696-gravit.json) |
 | Gravitas | 134000 | [134000-gravitas.json](./134000-gravitas.json) |
 | Gravitas! | 259549 | [259549-gravitas.json](./259549-gravitas.json) |
@@ -1885,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
 | Gravitrex Plus | 63811 | [63811-gravitrex-plus.json](./63811-gravitrex-plus.json) |
+| Gravitrix | 365770 | [365770-gravitrix.json](./365770-gravitrix.json) |
 | Gravitronix | 21035 | [21035-gravitronix.json](./21035-gravitronix.json) |
 | Gravity | 177540 | [177540-gravity.json](./177540-gravity.json) |
 | Gravity | 361682 | [361682-gravity.json](./361682-gravity.json) |
@@ -1901,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Falls: Legend of the Gnome Gemulets | 44014 | [44014-gravity-falls-legend-of-the-gnome-gemulets.json](./44014-gravity-falls-legend-of-the-gnome-gemulets.json) |
 | Gravity Flip | 190204 | [190204-gravity-flip.json](./190204-gravity-flip.json) |
 | Gravity Games Bike: Street Vert Dirt | 5851 | [5851-gravity-games-bike-street-vert-dirt.json](./5851-gravity-games-bike-street-vert-dirt.json) |
+| Gravity Garden | 365759 | [365759-gravity-garden.json](./365759-gravity-garden.json) |
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
 | Gravity Kid | 171601 | [171601-gravity-kid.json](./171601-gravity-kid.json) |
 | Gravity Knight | 413008 | [413008-gravity-knight.json](./413008-gravity-knight.json) |
