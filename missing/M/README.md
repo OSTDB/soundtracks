@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
 | Mech_Romancer | 134590 | [134590-mech-romancer.json](./134590-mech-romancer.json) |
+| Mecha | 336622 | [336622-mecha.json](./336622-mecha.json) |
 | Mecha Ace | 17745 | [17745-mecha-ace.json](./17745-mecha-ace.json) |
 | Mecha Jump | 365786 | [365786-mecha-jump.json](./365786-mecha-jump.json) |
 | Mecha Knights: Nightmare 2 | 377069 | [377069-mecha-knights-nightmare-2.json](./377069-mecha-knights-nightmare-2.json) |
@@ -4151,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Shell: Enhanced Edition - Game of the Year Edition | 201782 | [201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json](./201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json) |
 | Mortal Shell: Rotten Autumn | 229714 | [229714-mortal-shell-rotten-autumn.json](./229714-mortal-shell-rotten-autumn.json) |
 | Mortal Trap Dungeon | 378282 | [378282-mortal-trap-dungeon.json](./378282-mortal-trap-dungeon.json) |
+| Mortal Void | 336628 | [336628-mortal-void.json](./336628-mortal-void.json) |
 | Mortal Weapon | 74333 | [74333-mortal-weapon.json](./74333-mortal-weapon.json) |
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
 | Mortality... Please | 417597 | [417597-mortality-please.json](./417597-mortality-please.json) |
@@ -4303,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motto!? Fushigi no Gensoukyou Plus: The Dungeon of Dreams and Magic | 206938 | [206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json](./206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json) |
 | Motto!? Fushigi no Gensoukyou Prologue: Chijou kara no Kyoui | 206939 | [206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json](./206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json) |
 | Motto!? Fushigi no Gensoukyou: Under the Moonlight | 206935 | [206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json](./206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json) |
+| Motus Paintball VR | 336593 | [336593-motus-paintball-vr.json](./336593-motus-paintball-vr.json) |
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
 | Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
 | Mount Farewell | 221178 | [221178-mount-farewell.json](./221178-mount-farewell.json) |
@@ -4823,6 +4826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Farm | 107900 | [107900-my-farm.json](./107900-my-farm.json) |
 | My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
 | My Favorite Dream Girls | 401695 | [401695-my-favorite-dream-girls.json](./401695-my-favorite-dream-girls.json) |
+| My Final Cursed Days - Cursed Transformation Version | 336621 | [336621-my-final-cursed-days-cursed-transformation-version.json](./336621-my-final-cursed-days-cursed-transformation-version.json) |
 | My First Date RPG | 169431 | [169431-my-first-date-rpg.json](./169431-my-first-date-rpg.json) |
 | My First Date RPG 2 | 196813 | [196813-my-first-date-rpg-2.json](./196813-my-first-date-rpg-2.json) |
 | My First Date RPG: Oriana - Story Three | 314024 | [314024-my-first-date-rpg-oriana-story-three.json](./314024-my-first-date-rpg-oriana-story-three.json) |
