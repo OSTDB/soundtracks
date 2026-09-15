@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T18:49:06.512Z",
-  "total_missing": 74975,
+  "generated_at": "2026-09-15T18:51:36.567Z",
+  "total_missing": 74974,
   "games": [
     {
       "igdb_id": 306086,
@@ -5446,11 +5446,6 @@
       "igdb_id": 144347,
       "game_name": "Age of Empires III Mobile",
       "file": "missing/A/144347-age-of-empires-iii-mobile.json"
-    },
-    {
-      "igdb_id": 55057,
-      "game_name": "Age of Empires III: Definitive Edition",
-      "file": "missing/A/55057-age-of-empires-iii-definitive-edition.json"
     },
     {
       "igdb_id": 202424,
