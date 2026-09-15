@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beam Invader | 255363 | [255363-beam-invader.json](./255363-beam-invader.json) |
 | Beambender | 14293 | [14293-beambender.json](./14293-beambender.json) |
 | Beamdown | 338198 | [338198-beamdown.json](./338198-beamdown.json) |
+| Bean | 370205 | [370205-bean.json](./370205-bean.json) |
 | Bean Battle Brawl | 338199 | [338199-bean-battle-brawl.json](./338199-bean-battle-brawl.json) |
 | Bean Battles | 106556 | [106556-bean-battles.json](./106556-bean-battles.json) |
 | Bean Story | 203904 | [203904-bean-story.json](./203904-bean-story.json) |
@@ -2566,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Code: Complete Edition | 52647 | [52647-blood-code-complete-edition.json](./52647-blood-code-complete-edition.json) |
 | Blood Expedition | 384638 | [384638-blood-expedition.json](./384638-blood-expedition.json) |
 | Blood Field | 153932 | [153932-blood-field.json](./153932-blood-field.json) |
+| Blood for the Throne | 370202 | [370202-blood-for-the-throne.json](./370202-blood-for-the-throne.json) |
 | Blood Gazm | 248672 | [248672-blood-gazm.json](./248672-blood-gazm.json) |
 | Blood Gear | 42020 | [42020-blood-gear.json](./42020-blood-gear.json) |
 | Blood II: Revelations | 127929 | [127929-blood-ii-revelations.json](./127929-blood-ii-revelations.json) |
@@ -2922,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombabomb! | 267092 | [267092-bombabomb.json](./267092-bombabomb.json) |
 | Bombagun | 188112 | [188112-bombagun.json](./188112-bombagun.json) |
 | Bombanana! | 404342 | [404342-bombanana.json](./404342-bombanana.json) |
+| Bombardiro Crocodilo Mission | 370195 | [370195-bombardiro-crocodilo-mission.json](./370195-bombardiro-crocodilo-mission.json) |
 | Bombardiro Crocodilo Simulator | 349300 | [349300-bombardiro-crocodilo-simulator.json](./349300-bombardiro-crocodilo-simulator.json) |
 | Bombarium | 179129 | [179129-bombarium.json](./179129-bombarium.json) |
 | Bombastic | 308253 | [308253-bombastic.json](./308253-bombastic.json) |
