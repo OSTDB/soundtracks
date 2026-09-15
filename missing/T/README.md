@@ -6029,6 +6029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToiTony | 272277 | [272277-toitony.json](./272277-toitony.json) |
 | Tojibo | 373101 | [373101-tojibo.json](./373101-tojibo.json) |
 | Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
+| Tokage Metro GB | 349947 | [349947-tokage-metro-gb.json](./349947-tokage-metro-gb.json) |
 | Toki | 12228 | [12228-toki.json](./12228-toki.json) |
 | Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
