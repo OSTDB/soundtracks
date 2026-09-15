@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Legends: Cursed Gift | 107115 | [107115-haunted-legends-cursed-gift.json](./107115-haunted-legends-cursed-gift.json) |
 | Haunted Legends: The Stone Guest - Collector's Edition | 99621 | [99621-haunted-legends-the-stone-guest-collectors-edition.json](./99621-haunted-legends-the-stone-guest-collectors-edition.json) |
 | Haunted Legends: The Undertaker | 140028 | [140028-haunted-legends-the-undertaker.json](./140028-haunted-legends-the-undertaker.json) |
+| Haunted Manager | 360081 | [360081-haunted-manager.json](./360081-haunted-manager.json) |
 | Haunted Manor 2 | 109018 | [109018-haunted-manor-2.json](./109018-haunted-manor-2.json) |
 | Haunted Manor: Lord of Mirrors | 140029 | [140029-haunted-manor-lord-of-mirrors.json](./140029-haunted-manor-lord-of-mirrors.json) |
 | Haunted Manor: Painted Beauties | 140030 | [140030-haunted-manor-painted-beauties.json](./140030-haunted-manor-painted-beauties.json) |
@@ -964,6 +965,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Inspector's Mod of Stupidity | 280765 | [280765-hell-inspectors-mod-of-stupidity.json](./280765-hell-inspectors-mod-of-stupidity.json) |
 | Hell Invades Heaven | 190165 | [190165-hell-invades-heaven.json](./190165-hell-invades-heaven.json) |
 | Hell is Us: Deluxe Edition | 331310 | [331310-hell-is-us-deluxe-edition.json](./331310-hell-is-us-deluxe-edition.json) |
+| Hell Is Us: Hollow Walker Pack | 360092 | [360092-hell-is-us-hollow-walker-pack.json](./360092-hell-is-us-hollow-walker-pack.json) |
+| Hell Is Us: Military Pack | 360094 | [360094-hell-is-us-military-pack.json](./360094-hell-is-us-military-pack.json) |
+| Hell is Us: Phol Guard Pack | 360093 | [360093-hell-is-us-phol-guard-pack.json](./360093-hell-is-us-phol-guard-pack.json) |
 | Hell Let Loose: Battle Scarred | 371226 | [371226-hell-let-loose-battle-scarred.json](./371226-hell-let-loose-battle-scarred.json) |
 | Hell Let Loose: Operation Overlord Units | 366854 | [366854-hell-let-loose-operation-overlord-units.json](./366854-hell-let-loose-operation-overlord-units.json) |
 | Hell Let Loose: Pea Dot | 312017 | [312017-hell-let-loose-pea-dot.json](./312017-hell-let-loose-pea-dot.json) |
@@ -1485,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexarium | 266818 | [266818-hexarium.json](./266818-hexarium.json) |
 | Hexaroma: Village Builder | 319598 | [319598-hexaroma-village-builder.json](./319598-hexaroma-village-builder.json) |
 | HexaTerra | 320564 | [320564-hexaterra.json](./320564-hexaterra.json) |
+| Hexavale | 360063 | [360063-hexavale.json](./360063-hexavale.json) |
 | HexaWars | 260151 | [260151-hexawars.json](./260151-hexawars.json) |
 | Hexaword | 386725 | [386725-hexaword.json](./386725-hexaword.json) |
 | Hexceed: Cogitare Pack | 224231 | [224231-hexceed-cogitare-pack.json](./224231-hexceed-cogitare-pack.json) |
