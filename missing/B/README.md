@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bengbo | 257104 | [257104-bengbo.json](./257104-bengbo.json) |
 | Benji and the Crystal of Light | 324325 | [324325-benji-and-the-crystal-of-light.json](./324325-benji-and-the-crystal-of-light.json) |
 | Benkei Gaiden | 80572 | [80572-benkei-gaiden.json](./80572-benkei-gaiden.json) |
+| Bennett Foddy's Speed Chess | 342167 | [342167-bennett-foddys-speed-chess.json](./342167-bennett-foddys-speed-chess.json) |
 | Bennu Bennu: Protect the Pyramid | 253378 | [253378-bennu-bennu-protect-the-pyramid.json](./253378-bennu-bennu-protect-the-pyramid.json) |
 | Bento Bugs | 329354 | [329354-bento-bugs.json](./329354-bento-bugs.json) |
 | Bepuzzled Jigsaw Puzzle: Aquatic | 241662 | [241662-bepuzzled-jigsaw-puzzle-aquatic.json](./241662-bepuzzled-jigsaw-puzzle-aquatic.json) |
@@ -3586,6 +3587,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawler Friends | 58185 | [58185-brawler-friends.json](./58185-brawler-friends.json) |
 | Brawler Friends | 58186 | [58186-brawler-friends.json](./58186-brawler-friends.json) |
 | Brawlers | 266240 | [266240-brawlers.json](./266240-brawlers.json) |
+| Brawlhalla x Guacamelee Crossover | 342146 | [342146-brawlhalla-x-guacamelee-crossover.json](./342146-brawlhalla-x-guacamelee-crossover.json) |
+| Brawlhalla X Year of Shadow Launch | 342153 | [342153-brawlhalla-x-year-of-shadow-launch.json](./342153-brawlhalla-x-year-of-shadow-launch.json) |
 | Brawlhalla: Autumn Championship 2018 Pack | 342628 | [342628-brawlhalla-autumn-championship-2018-pack.json](./342628-brawlhalla-autumn-championship-2018-pack.json) |
 | Brawlhalla: Bonus Pack 14 | 316624 | [316624-brawlhalla-bonus-pack-14.json](./316624-brawlhalla-bonus-pack-14.json) |
 | Brawlhalla: Spring Championship 2018 Pack | 342626 | [342626-brawlhalla-spring-championship-2018-pack.json](./342626-brawlhalla-spring-championship-2018-pack.json) |
