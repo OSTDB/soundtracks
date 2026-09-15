@@ -19,13 +19,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cafe at the End of the World | 389588 | [389588-a-cafe-at-the-end-of-the-world.json](./389588-a-cafe-at-the-end-of-the-world.json) |
 | A Café Couple's Joyful Life of Resistance | 343239 | [343239-a-cafe-couples-joyful-life-of-resistance.json](./343239-a-cafe-couples-joyful-life-of-resistance.json) |
 | A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
+| A Cat named Gossamergoober | 379457 | [379457-a-cat-named-gossamergoober.json](./379457-a-cat-named-gossamergoober.json) |
+| A Challenging Game About Parkour | 379464 | [379464-a-challenging-game-about-parkour.json](./379464-a-challenging-game-about-parkour.json) |
+| A Chicken In The Office | 379463 | [379463-a-chicken-in-the-office.json](./379463-a-chicken-in-the-office.json) |
+| A Christmas Carol: But With Anime Girls | 379470 | [379470-a-christmas-carol-but-with-anime-girls.json](./379470-a-christmas-carol-but-with-anime-girls.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
+| A Clareira | 379469 | [379469-a-clareira.json](./379469-a-clareira.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
 | A Collection of Bad Moments | 68618 | [68618-a-collection-of-bad-moments.json](./68618-a-collection-of-bad-moments.json) |
 | A Coloring Break: Expansion pack 6 | 357772 | [357772-a-coloring-break-expansion-pack-6.json](./357772-a-coloring-break-expansion-pack-6.json) |
 | A Coloring Break: Expansion pack 8 | 357774 | [357774-a-coloring-break-expansion-pack-8.json](./357774-a-coloring-break-expansion-pack-8.json) |
 | A Compendium of Ghosts | 102155 | [102155-a-compendium-of-ghosts.json](./102155-a-compendium-of-ghosts.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
+| A Cozy Classics: Color Lines | 379467 | [379467-a-cozy-classics-color-lines.json](./379467-a-cozy-classics-color-lines.json) |
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
@@ -184,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
+| A World At War Tactics | 379452 | [379452-a-world-at-war-tactics.json](./379452-a-world-at-war-tactics.json) |
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
 | A-10 Tank Killer | 14200 | [14200-a-10-tank-killer.json](./14200-a-10-tank-killer.json) |
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
@@ -282,12 +289,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
 | Accele Brid | 38353 | [38353-accele-brid.json](./38353-accele-brid.json) |
+| Accelerate | 379458 | [379458-accelerate.json](./379458-accelerate.json) |
 | Acceleration of Suguri X-Edition | 44596 | [44596-acceleration-of-suguri-x-edition.json](./44596-acceleration-of-suguri-x-edition.json) |
 | Acceleration of Suguri: X-Edition HD | 30251 | [30251-acceleration-of-suguri-x-edition-hd.json](./30251-acceleration-of-suguri-x-edition-hd.json) |
+| Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
+| Accidentally | 379460 | [379460-accidentally.json](./379460-accidentally.json) |
 | Accolade's Comics featuring Steve Keene Thrillseeker | 37156 | [37156-accolades-comics-featuring-steve-keene-thrillseeker.json](./37156-accolades-comics-featuring-steve-keene-thrillseeker.json) |
 | Accounting | 25251 | [25251-accounting.json](./25251-accounting.json) |
 | Accurate Shot | 288743 | [288743-accurate-shot.json](./288743-accurate-shot.json) |
+| Accurate Tag | 379461 | [379461-accurate-tag.json](./379461-accurate-tag.json) |
 | Ace Angler | 292017 | [292017-ace-angler.json](./292017-ace-angler.json) |
 | Ace Attorney Investigations 0: Quercus Alba Dating Simulator | 237350 | [237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json](./237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json) |
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
@@ -312,6 +323,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Ventura: Pet Detective - The Case of the Serial Shaver | 61643 | [61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json](./61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json) |
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aces of War | 45294 | [45294-aces-of-war.json](./45294-aces-of-war.json) |
+| Aces Over Airfields | 379462 | [379462-aces-over-airfields.json](./379462-aces-over-airfields.json) |
+| AceSurvivor | 379465 | [379465-acesurvivor.json](./379465-acesurvivor.json) |
 | Acheron's Souls | 150121 | [150121-acherons-souls.json](./150121-acherons-souls.json) |
 | Achievement Clicker 2020 | 104084 | [104084-achievement-clicker-2020.json](./104084-achievement-clicker-2020.json) |
 | Achievement Creator | 103757 | [103757-achievement-creator.json](./103757-achievement-creator.json) |
@@ -323,11 +336,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
+| Aconitum | 379468 | [379468-aconitum.json](./379468-aconitum.json) |
 | Acorn Hunt | 293078 | [293078-acorn-hunt.json](./293078-acorn-hunt.json) |
 | Acorn Tactics | 76573 | [76573-acorn-tactics.json](./76573-acorn-tactics.json) |
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
+| Acquaint | 379466 | [379466-acquaint.json](./379466-acquaint.json) |
 | Acquaria | 132868 | [132868-acquaria.json](./132868-acquaria.json) |
 | Acquisition War | 148502 | [148502-acquisition-war.json](./148502-acquisition-war.json) |
+| Acroama: Company of Strays | 379471 | [379471-acroama-company-of-strays.json](./379471-acroama-company-of-strays.json) |
 | Acrobat Star Show | 108440 | [108440-acrobat-star-show.json](./108440-acrobat-star-show.json) |
 | Across | 30823 | [30823-across.json](./30823-across.json) |
 | Across Kiloparsecs | 259022 | [259022-across-kiloparsecs.json](./259022-across-kiloparsecs.json) |
@@ -349,7 +365,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
+| Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
+| Active 2048 Body Control | 379473 | [379473-active-2048-body-control.json](./379473-active-2048-body-control.json) |
 | Active DBG: Brave's Rage | 233008 | [233008-active-dbg-braves-rage.json](./233008-active-dbg-braves-rage.json) |
 | Active Soccer 2019 | 117537 | [117537-active-soccer-2019.json](./117537-active-soccer-2019.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
@@ -358,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actua Ice Hockey 2 | 71553 | [71553-actua-ice-hockey-2.json](./71553-actua-ice-hockey-2.json) |
 | Actually Additions | 232420 | [232420-actually-additions.json](./232420-actually-additions.json) |
 | Actually: There's nothing | 141161 | [141161-actually-theres-nothing.json](./141161-actually-theres-nothing.json) |
+| Actuator: Overt Abnormality | 379474 | [379474-actuator-overt-abnormality.json](./379474-actuator-overt-abnormality.json) |
 | Ad Agency Tycoon | 137679 | [137679-ad-agency-tycoon.json](./137679-ad-agency-tycoon.json) |
 | Ad Astra | 45371 | [45371-ad-astra.json](./45371-ad-astra.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
@@ -375,12 +394,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrenaline Overload Bundle | 396439 | [396439-adrenaline-overload-bundle.json](./396439-adrenaline-overload-bundle.json) |
 | Adrenaline Rush 4‑Pack | 396438 | [396438-adrenaline-rush-4-pack.json](./396438-adrenaline-rush-4-pack.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
+| Aduk: Curse of the Spirits | 379478 | [379478-aduk-curse-of-the-spirits.json](./379478-aduk-curse-of-the-spirits.json) |
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
+| Advance, Fish! | 379476 | [379476-advance-fish.json](./379476-advance-fish.json) |
 | Advanced Dungeons & Dragons: DragonStrike | 48113 | [48113-advanced-dungeons-and-dragons-dragonstrike.json](./48113-advanced-dungeons-and-dragons-dragonstrike.json) |
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
+| Advanced Kick Challenge | 379477 | [379477-advanced-kick-challenge.json](./379477-advanced-kick-challenge.json) |
 | Advenger of Stuart | 236271 | [236271-advenger-of-stuart.json](./236271-advenger-of-stuart.json) |
+| Advent Calendar | 379475 | [379475-advent-calendar.json](./379475-advent-calendar.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
 | Adventure Apes and the Mayan Mystery | 33017 | [33017-adventure-apes-and-the-mayan-mystery.json](./33017-adventure-apes-and-the-mayan-mystery.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
@@ -397,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Master | 381130 | [381130-adventure-master.json](./381130-adventure-master.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
+| Adventure of Realms | 379480 | [379480-adventure-of-realms.json](./379480-adventure-of-realms.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
@@ -1000,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Unbound | 293084 | [293084-alchemy-unbound.json](./293084-alchemy-unbound.json) |
 | Alchemyland | 51562 | [51562-alchemyland.json](./51562-alchemyland.json) |
 | Alchera | 189141 | [189141-alchera.json](./189141-alchera.json) |
+| Alchimist: Secret of the Worlds | 379447 | [379447-alchimist-secret-of-the-worlds.json](./379447-alchimist-secret-of-the-worlds.json) |
 | Alcohol Empire | 199097 | [199097-alcohol-empire.json](./199097-alcohol-empire.json) |
 | AlcremieStudio | 319561 | [319561-alcremiestudio.json](./319561-alcremiestudio.json) |
 | Alder Choke | 217926 | [217926-alder-choke.json](./217926-alder-choke.json) |
@@ -1117,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Drug Lords: The Chyropian Connection | 14242 | [14242-alien-drug-lords-the-chyropian-connection.json](./14242-alien-drug-lords-the-chyropian-connection.json) |
 | Alien Egg: Ascent | 137671 | [137671-alien-egg-ascent.json](./137671-alien-egg-ascent.json) |
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
+| Alien Fish World VR | 379446 | [379446-alien-fish-world-vr.json](./379446-alien-fish-world-vr.json) |
 | Alien Frontier | 240500 | [240500-alien-frontier.json](./240500-alien-frontier.json) |
 | Alien Galaxy Clicker | 58255 | [58255-alien-galaxy-clicker.json](./58255-alien-galaxy-clicker.json) |
 | Alien Gate | 46611 | [46611-alien-gate.json](./46611-alien-gate.json) |
@@ -1658,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy: Wolf's Law - Summer Adventure | 226222 | [226222-anarchy-wolfs-law-summer-adventure.json](./226222-anarchy-wolfs-law-summer-adventure.json) |
 | AnarchyField: Infinite Euphoric Level Destruction | 273639 | [273639-anarchyfield-infinite-euphoric-level-destruction.json](./273639-anarchyfield-infinite-euphoric-level-destruction.json) |
 | Anarcute | 20471 | [20471-anarcute.json](./20471-anarcute.json) |
+| Anasozas: Another Surreal World | 379449 | [379449-anasozas-another-surreal-world.json](./379449-anasozas-another-surreal-world.json) |
 | Anastasia | 208394 | [208394-anastasia.json](./208394-anastasia.json) |
 | Anastasia to 7-nin no Himegami: Inmon no Rakuin | 108978 | [108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json](./108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json) |
 | Anata dake no Private Lesson: DS de Hajimeru Tipness no Yoga | 269550 | [269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json](./269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json) |
@@ -2092,6 +2119,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Try | 127097 | [127097-another-try.json](./127097-another-try.json) |
 | Another Try 2 | 291460 | [291460-another-try-2.json](./291460-another-try-2.json) |
 | Another Warfare | 156662 | [156662-another-warfare.json](./156662-another-warfare.json) |
+| Another World Adventures | 379448 | [379448-another-world-adventures.json](./379448-another-world-adventures.json) |
+| Another World: Pirates And The Great Old Gods | 379450 | [379450-another-world-pirates-and-the-great-old-gods.json](./379450-another-world-pirates-and-the-great-old-gods.json) |
 | Another's Memories | 374049 | [374049-anothers-memories.json](./374049-anothers-memories.json) |
 | Anoun | 384681 | [384681-anoun.json](./384681-anoun.json) |
 | Anovill | 355529 | [355529-anovill.json](./355529-anovill.json) |
@@ -3017,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
 | Ashen Knights: One Passage | 211181 | [211181-ashen-knights-one-passage.json](./211181-ashen-knights-one-passage.json) |
 | Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
+| Ashen World | 379451 | [379451-ashen-world.json](./379451-ashen-world.json) |
 | Asher Descent | 405612 | [405612-asher-descent.json](./405612-asher-descent.json) |
 | Asheron's Call: Dark Majesty | 23735 | [23735-asherons-call-dark-majesty.json](./23735-asherons-call-dark-majesty.json) |
 | Asheron's Call: Throne of Destiny | 23736 | [23736-asherons-call-throne-of-destiny.json](./23736-asherons-call-throne-of-destiny.json) |
