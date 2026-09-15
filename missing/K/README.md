@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiitsu | 96734 | [96734-kiitsu.json](./96734-kiitsu.json) |
 | Kikaijikake no Merceneria | 386112 | [386112-kikaijikake-no-merceneria.json](./386112-kikaijikake-no-merceneria.json) |
 | Kiki's Adventure | 125462 | [125462-kikis-adventure.json](./125462-kikis-adventure.json) |
+| Kiko's Apple Adventure | 336635 | [336635-kikos-apple-adventure.json](./336635-kikos-apple-adventure.json) |
 | Kikokugai | 232662 | [232662-kikokugai.json](./232662-kikokugai.json) |
 | Kikou Seiki Unitron | 43969 | [43969-kikou-seiki-unitron.json](./43969-kikou-seiki-unitron.json) |
 | Kikstart | 25966 | [25966-kikstart.json](./25966-kikstart.json) |
