@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblivion | 77199 | [77199-oblivion.json](./77199-oblivion.json) |
 | Oblivion Congee | 183579 | [183579-oblivion-congee.json](./183579-oblivion-congee.json) |
 | Oblivion Maiden | 407419 | [407419-oblivion-maiden.json](./407419-oblivion-maiden.json) |
+| Oblivium | 375318 | [375318-oblivium.json](./375318-oblivium.json) |
 | Obnulenie | 363905 | [363905-obnulenie.json](./363905-obnulenie.json) |
 | Obocchama Kun | 42040 | [42040-obocchama-kun.json](./42040-obocchama-kun.json) |
 | Obrum | 406129 | [406129-obrum.json](./406129-obrum.json) |
@@ -171,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oedo Trigger!! | 235735 | [235735-oedo-trigger.json](./235735-oedo-trigger.json) |
 | Oekaki Nokoshite Print Shichaou! Set | 327629 | [327629-oekaki-nokoshite-print-shichaou-set.json](./327629-oekaki-nokoshite-print-shichaou-set.json) |
 | Oekaki Programmer | 346041 | [346041-oekaki-programmer.json](./346041-oekaki-programmer.json) |
+| Oeuf | 375317 | [375317-oeuf.json](./375317-oeuf.json) |
 | Of Ash and Steel | 322389 | [322389-of-ash-and-steel.json](./322389-of-ash-and-steel.json) |
 | Of Blood and Descent | 317601 | [317601-of-blood-and-descent.json](./317601-of-blood-and-descent.json) |
 | Of Evil and Darkness | 129729 | [129729-of-evil-and-darkness.json](./129729-of-evil-and-darkness.json) |
@@ -558,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once On a Windswept Night | 29631 | [29631-once-on-a-windswept-night.json](./29631-once-on-a-windswept-night.json) |
 | Once Upon a Breeze | 163989 | [163989-once-upon-a-breeze.json](./163989-once-upon-a-breeze.json) |
 | Once Upon A Card | 408765 | [408765-once-upon-a-card.json](./408765-once-upon-a-card.json) |
+| Once Upon a Child - Full Stop | 375294 | [375294-once-upon-a-child-full-stop.json](./375294-once-upon-a-child-full-stop.json) |
 | Once Upon a Death | 115696 | [115696-once-upon-a-death.json](./115696-once-upon-a-death.json) |
 | Once upon a Dungeon II | 226727 | [226727-once-upon-a-dungeon-ii.json](./226727-once-upon-a-dungeon-ii.json) |
 | Once Upon a Jester | 159553 | [159553-once-upon-a-jester.json](./159553-once-upon-a-jester.json) |
@@ -642,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night At Freddy's | 273951 | [273951-one-night-at-freddys.json](./273951-one-night-at-freddys.json) |
 | One Night Heaven: Aka to Kuro no Hitobito ni Sasagu Hommage | 282563 | [282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json](./282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json) |
 | One Night In 2D | 370147 | [370147-one-night-in-2d.json](./370147-one-night-in-2d.json) |
+| One Night of Romance With My Waifu | 375274 | [375274-one-night-of-romance-with-my-waifu.json](./375274-one-night-of-romance-with-my-waifu.json) |
 | One Night on Halloween | 153418 | [153418-one-night-on-halloween.json](./153418-one-night-on-halloween.json) |
 | One Night with Clara | 171003 | [171003-one-night-with-clara.json](./171003-one-night-with-clara.json) |
 | One Night With Stalin | 392939 | [392939-one-night-with-stalin.json](./392939-one-night-with-stalin.json) |
