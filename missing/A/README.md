@@ -508,7 +508,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
 | Aftermath | 35770 | [35770-aftermath.json](./35770-aftermath.json) |
-| Aftermoon | 63880 | [63880-aftermoon.json](./63880-aftermoon.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
 | Afternoon Frontline | 414319 | [414319-afternoon-frontline.json](./414319-afternoon-frontline.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
