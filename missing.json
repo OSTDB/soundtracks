@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T16:21:39.985Z",
-  "total_missing": 74585,
+  "generated_at": "2026-09-15T16:33:59.097Z",
+  "total_missing": 74634,
   "games": [
     {
       "igdb_id": 306086,
@@ -3443,6 +3443,11 @@
       "file": "missing/A/229918-a-red-boat.json"
     },
     {
+      "igdb_id": 347228,
+      "game_name": "A Right to Rule",
+      "file": "missing/A/347228-a-right-to-rule.json"
+    },
+    {
       "igdb_id": 247777,
       "game_name": "A Rocket's Intensity",
       "file": "missing/A/247777-a-rockets-intensity.json"
@@ -5376,11 +5381,6 @@
       "igdb_id": 21134,
       "game_name": "Agatha Christie: Death on the Nile",
       "file": "missing/A/21134-agatha-christie-death-on-the-nile.json"
-    },
-    {
-      "igdb_id": 305141,
-      "game_name": "Age Maniax: Isumi Yon Shimai Saigo no Hi",
-      "file": "missing/A/305141-age-maniax-isumi-yon-shimai-saigo-no-hi.json"
     },
     {
       "igdb_id": 349849,
@@ -11876,6 +11876,11 @@
       "igdb_id": 386241,
       "game_name": "Angry Birds Boom!",
       "file": "missing/A/386241-angry-birds-boom.json"
+    },
+    {
+      "igdb_id": 347237,
+      "game_name": "Angry Birds Bounce",
+      "file": "missing/A/347237-angry-birds-bounce.json"
     },
     {
       "igdb_id": 280802,
@@ -51848,14 +51853,34 @@
       "file": "missing/C/344953-chessmaster-live-calvert-chess-set.json"
     },
     {
+      "igdb_id": 347216,
+      "game_name": "Chessmaster Live: Classic Set",
+      "file": "missing/C/347216-chessmaster-live-classic-set.json"
+    },
+    {
+      "igdb_id": 347215,
+      "game_name": "Chessmaster Live: Egypt Chess Set",
+      "file": "missing/C/347215-chessmaster-live-egypt-chess-set.json"
+    },
+    {
       "igdb_id": 347138,
       "game_name": "Chessmaster Live: Fork My Fruit",
       "file": "missing/C/347138-chessmaster-live-fork-my-fruit.json"
     },
     {
+      "igdb_id": 347214,
+      "game_name": "Chessmaster Live: Mongol Chess Set",
+      "file": "missing/C/347214-chessmaster-live-mongol-chess-set.json"
+    },
+    {
       "igdb_id": 347139,
       "game_name": "Chessmaster Live: Mushrooms Set",
       "file": "missing/C/347139-chessmaster-live-mushrooms-set.json"
+    },
+    {
+      "igdb_id": 347213,
+      "game_name": "Chessmaster Live: Pyramids Chess Set",
+      "file": "missing/C/347213-chessmaster-live-pyramids-chess-set.json"
     },
     {
       "igdb_id": 20777,
@@ -53831,6 +53856,11 @@
       "igdb_id": 213401,
       "game_name": "Chronicles of Refugia",
       "file": "missing/C/213401-chronicles-of-refugia.json"
+    },
+    {
+      "igdb_id": 347221,
+      "game_name": "Chronicles of the Celestial Way",
+      "file": "missing/C/347221-chronicles-of-the-celestial-way.json"
     },
     {
       "igdb_id": 339109,
@@ -57106,6 +57136,11 @@
       "igdb_id": 86994,
       "game_name": "CodyCross: Crossword Puzzles",
       "file": "missing/C/86994-codycross-crossword-puzzles.json"
+    },
+    {
+      "igdb_id": 347219,
+      "game_name": "Coffee & Boobs",
+      "file": "missing/C/347219-coffee-and-boobs.json"
     },
     {
       "igdb_id": 281377,
@@ -68448,6 +68483,11 @@
       "file": "missing/D/259017-da-paper-boy.json"
     },
     {
+      "igdb_id": 347226,
+      "game_name": "Dà Sānguó Shídài",
+      "file": "missing/D/347226-da-sanguo-shidai.json"
+    },
+    {
       "igdb_id": 89149,
       "game_name": "Da Vinci Pinball",
       "file": "missing/D/89149-da-vinci-pinball.json"
@@ -69311,6 +69351,11 @@
       "igdb_id": 267367,
       "game_name": "Dancing Sword",
       "file": "missing/D/267367-dancing-sword.json"
+    },
+    {
+      "igdb_id": 347249,
+      "game_name": "Dancing Wings: The Aerobatic Simulator",
+      "file": "missing/D/347249-dancing-wings-the-aerobatic-simulator.json"
     },
     {
       "igdb_id": 360059,
@@ -75098,6 +75143,11 @@
       "file": "missing/D/374683-deltarune-paraphrase-steamton-edition.json"
     },
     {
+      "igdb_id": 347258,
+      "game_name": "Deltarune Sakuya Battle",
+      "file": "missing/D/347258-deltarune-sakuya-battle.json"
+    },
+    {
       "igdb_id": 330549,
       "game_name": "Deltarune Wandering Makers: Pantheon of the Discarded",
       "file": "missing/D/330549-deltarune-wandering-makers-pantheon-of-the-discarded.json"
@@ -75621,6 +75671,11 @@
       "igdb_id": 237074,
       "game_name": "Demonic Labyrinth",
       "file": "missing/D/237074-demonic-labyrinth.json"
+    },
+    {
+      "igdb_id": 347239,
+      "game_name": "Demonk",
+      "file": "missing/D/347239-demonk.json"
     },
     {
       "igdb_id": 302122,
@@ -100873,6 +100928,11 @@
       "file": "missing/F/103532-fairground-2.json"
     },
     {
+      "igdb_id": 347225,
+      "game_name": "Fairground Online",
+      "file": "missing/F/347225-fairground-online.json"
+    },
+    {
       "igdb_id": 88278,
       "game_name": "Fairies Coloring Book +",
       "file": "missing/F/88278-fairies-coloring-book.json"
@@ -103978,6 +104038,11 @@
       "file": "missing/F/209669-faustian-bargain.json"
     },
     {
+      "igdb_id": 347229,
+      "game_name": "Favela Defender",
+      "file": "missing/F/347229-favela-defender.json"
+    },
+    {
       "igdb_id": 128562,
       "game_name": "Fax These to Smith!!!",
       "file": "missing/F/128562-fax-these-to-smith.json"
@@ -106468,6 +106533,11 @@
       "file": "missing/F/356748-find-meow-in-wild-west.json"
     },
     {
+      "igdb_id": 347218,
+      "game_name": "Find My Frogs",
+      "file": "missing/F/347218-find-my-frogs.json"
+    },
+    {
       "igdb_id": 362893,
       "game_name": "Find My Frogs: Branches",
       "file": "missing/F/362893-find-my-frogs-branches.json"
@@ -107096,6 +107166,11 @@
       "igdb_id": 40039,
       "game_name": "Fire Truck",
       "file": "missing/F/40039-fire-truck.json"
+    },
+    {
+      "igdb_id": 347236,
+      "game_name": "Fire Up: Football Manager",
+      "file": "missing/F/347236-fire-up-football-manager.json"
     },
     {
       "igdb_id": 87659,
@@ -108776,6 +108851,11 @@
       "igdb_id": 62199,
       "game_name": "Flappy 2: The Resurrection of Blue Star",
       "file": "missing/F/62199-flappy-2-the-resurrection-of-blue-star.json"
+    },
+    {
+      "igdb_id": 347231,
+      "game_name": "Flappy Bat 3",
+      "file": "missing/F/347231-flappy-bat-3.json"
     },
     {
       "igdb_id": 169471,
@@ -159908,6 +159988,11 @@
       "file": "missing/K/214750-karpar.json"
     },
     {
+      "igdb_id": 347246,
+      "game_name": "Kart Bros",
+      "file": "missing/K/347246-kart-bros.json"
+    },
+    {
       "igdb_id": 29686,
       "game_name": "Kart Chaser: The Boost VR",
       "file": "missing/K/29686-kart-chaser-the-boost-vr.json"
@@ -167991,6 +168076,11 @@
       "igdb_id": 193935,
       "game_name": "Law of Creation 2",
       "file": "missing/L/193935-law-of-creation-2.json"
+    },
+    {
+      "igdb_id": 347220,
+      "game_name": "Law School",
+      "file": "missing/L/347220-law-school.json"
     },
     {
       "igdb_id": 125472,
@@ -197213,6 +197303,11 @@
       "file": "missing/M/174274-montanablack-kylos-rescue.json"
     },
     {
+      "igdb_id": 347217,
+      "game_name": "Monterey Jack",
+      "file": "missing/M/347217-monterey-jack.json"
+    },
+    {
       "igdb_id": 91341,
       "game_name": "Montezuma Puzzle",
       "file": "missing/M/91341-montezuma-puzzle.json"
@@ -209713,6 +209808,11 @@
       "file": "missing/N/179679-nightmare-drive.json"
     },
     {
+      "igdb_id": 347222,
+      "game_name": "Nightmare Files: Stoned",
+      "file": "missing/N/347222-nightmare-files-stoned.json"
+    },
+    {
       "igdb_id": 120416,
       "game_name": "Nightmare Game",
       "file": "missing/N/120416-nightmare-game.json"
@@ -211566,6 +211666,11 @@
       "igdb_id": 208626,
       "game_name": "Nobunaga no Yabou: Oretachi no Sengoku",
       "file": "missing/N/208626-nobunaga-no-yabou-oretachi-no-sengoku.json"
+    },
+    {
+      "igdb_id": 347227,
+      "game_name": "Nobunaga's Ambition: Awakening - Set of 6 Scenarios",
+      "file": "missing/N/347227-nobunagas-ambition-awakening-set-of-6-scenarios.json"
     },
     {
       "igdb_id": 371347,
@@ -230891,6 +230996,11 @@
       "igdb_id": 210682,
       "game_name": "Pixeria",
       "file": "missing/P/210682-pixeria.json"
+    },
+    {
+      "igdb_id": 347234,
+      "game_name": "Pixeria",
+      "file": "missing/P/347234-pixeria.json"
     },
     {
       "igdb_id": 191901,
@@ -273293,6 +273403,11 @@
       "file": "missing/S/182502-simple-fps-aim-trainer.json"
     },
     {
+      "igdb_id": 347268,
+      "game_name": "Simple FPS Platformer",
+      "file": "missing/S/347268-simple-fps-platformer.json"
+    },
+    {
       "igdb_id": 121602,
       "game_name": "Simple Game",
       "file": "missing/S/121602-simple-game.json"
@@ -274061,6 +274176,11 @@
       "igdb_id": 54361,
       "game_name": "Sisters Secrecy: Arcanum Bloodlines - Collector's Edition",
       "file": "missing/S/54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json"
+    },
+    {
+      "igdb_id": 347270,
+      "game_name": "Sisyphe's Backspace",
+      "file": "missing/S/347270-sisyphes-backspace.json"
     },
     {
       "igdb_id": 340369,
@@ -297808,6 +297928,11 @@
       "file": "missing/S/102972-super-golf-2018.json"
     },
     {
+      "igdb_id": 347230,
+      "game_name": "Super Gorilla Quest 2: A Space Chimpanzee",
+      "file": "missing/S/347230-super-gorilla-quest-2-a-space-chimpanzee.json"
+    },
+    {
       "igdb_id": 15381,
       "game_name": "Super Grand Prix",
       "file": "missing/S/15381-super-grand-prix.json"
@@ -307251,6 +307376,106 @@
       "igdb_id": 159801,
       "game_name": "Tantal",
       "file": "missing/T/159801-tantal.json"
+    },
+    {
+      "igdb_id": 347247,
+      "game_name": "Tantei Jinguji Saburo Series No. 02: Yokohama-ko Renzoku Satsujin Jiken",
+      "file": "missing/T/347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json"
+    },
+    {
+      "igdb_id": 347248,
+      "game_name": "Tantei Jinguji Saburo Series No. 03: Kiken na Futari",
+      "file": "missing/T/347248-tantei-jinguji-saburo-series-no-03-kiken-na-futari.json"
+    },
+    {
+      "igdb_id": 347250,
+      "game_name": "Tantei Jinguji Saburo Series No. 04: Toki no Sugiyuku Mama ni...",
+      "file": "missing/T/347250-tantei-jinguji-saburo-series-no-04-toki-no-sugiyuku-mama-ni.json"
+    },
+    {
+      "igdb_id": 347251,
+      "game_name": "Tantei Jinguji Saburo Series No. 05: Akai Me no Tora",
+      "file": "missing/T/347251-tantei-jinguji-saburo-series-no-05-akai-me-no-tora.json"
+    },
+    {
+      "igdb_id": 347252,
+      "game_name": "Tantei Jinguji Saburo Series No. 06: 6-mai no Hankou",
+      "file": "missing/T/347252-tantei-jinguji-saburo-series-no-06-6-mai-no-hankou.json"
+    },
+    {
+      "igdb_id": 347253,
+      "game_name": "Tantei Jinguji Saburo Series No. 07: Bouen wo Sagase!",
+      "file": "missing/T/347253-tantei-jinguji-saburo-series-no-07-bouen-wo-sagase.json"
+    },
+    {
+      "igdb_id": 347254,
+      "game_name": "Tantei Jinguji Saburo Series No. 08: Aoi Me no Ryuu",
+      "file": "missing/T/347254-tantei-jinguji-saburo-series-no-08-aoi-me-no-ryuu.json"
+    },
+    {
+      "igdb_id": 347255,
+      "game_name": "Tantei Jinguji Saburo Series No. 09: Quito no Yoru",
+      "file": "missing/T/347255-tantei-jinguji-saburo-series-no-09-quito-no-yoru.json"
+    },
+    {
+      "igdb_id": 347256,
+      "game_name": "Tantei Jinguji Saburo Series No. 10: Shikaku no Wana",
+      "file": "missing/T/347256-tantei-jinguji-saburo-series-no-10-shikaku-no-wana.json"
+    },
+    {
+      "igdb_id": 347257,
+      "game_name": "Tantei Jinguji Saburo Series No. 11: Inu to Yobareta Otoko",
+      "file": "missing/T/347257-tantei-jinguji-saburo-series-no-11-inu-to-yobareta-otoko.json"
+    },
+    {
+      "igdb_id": 347259,
+      "game_name": "Tantei Jinguji Saburo Series No. 12: Futa-iro no Shoujo",
+      "file": "missing/T/347259-tantei-jinguji-saburo-series-no-12-futa-iro-no-shoujo.json"
+    },
+    {
+      "igdb_id": 347260,
+      "game_name": "Tantei Jinguji Saburo Series No. 13: Inochi Tatsu Kokugen",
+      "file": "missing/T/347260-tantei-jinguji-saburo-series-no-13-inochi-tatsu-kokugen.json"
+    },
+    {
+      "igdb_id": 347262,
+      "game_name": "Tantei Jinguji Saburo Series No. 14: Takusareta Yubiwa",
+      "file": "missing/T/347262-tantei-jinguji-saburo-series-no-14-takusareta-yubiwa.json"
+    },
+    {
+      "igdb_id": 347263,
+      "game_name": "Tantei Jinguji Saburo Series No. 15: Shingi no Hazama",
+      "file": "missing/T/347263-tantei-jinguji-saburo-series-no-15-shingi-no-hazama.json"
+    },
+    {
+      "igdb_id": 347264,
+      "game_name": "Tantei Jinguji Saburo Series No. 16: Tsubaki no Yukue",
+      "file": "missing/T/347264-tantei-jinguji-saburo-series-no-16-tsubaki-no-yukue.json"
+    },
+    {
+      "igdb_id": 347266,
+      "game_name": "Tantei Jinguji Saburo Series No. 17: Akenai Yoru ni",
+      "file": "missing/T/347266-tantei-jinguji-saburo-series-no-17-akenai-yoru-ni.json"
+    },
+    {
+      "igdb_id": 347267,
+      "game_name": "Tantei Jinguji Saburo Series No. 18: Kadan no Itte",
+      "file": "missing/T/347267-tantei-jinguji-saburo-series-no-18-kadan-no-itte.json"
+    },
+    {
+      "igdb_id": 347269,
+      "game_name": "Tantei Jinguji Saburo Series No. 19: Rensa Suru Noroi",
+      "file": "missing/T/347269-tantei-jinguji-saburo-series-no-19-rensa-suru-noroi.json"
+    },
+    {
+      "igdb_id": 347271,
+      "game_name": "Tantei Jinguji Saburo Series No. 20: Naki Ko no Shouzou",
+      "file": "missing/T/347271-tantei-jinguji-saburo-series-no-20-naki-ko-no-shouzou.json"
+    },
+    {
+      "igdb_id": 347272,
+      "game_name": "Tantei Jinguji Saburo Series No. 21: Oni-hime-den",
+      "file": "missing/T/347272-tantei-jinguji-saburo-series-no-21-oni-hime-den.json"
     },
     {
       "igdb_id": 41414,
@@ -326158,6 +326383,11 @@
       "file": "missing/T/120952-the-tower-2.json"
     },
     {
+      "igdb_id": 347232,
+      "game_name": "The Tower of Shadows",
+      "file": "missing/T/347232-the-tower-of-shadows.json"
+    },
+    {
       "igdb_id": 157690,
       "game_name": "The Tower of TigerQiuQiu 2: 1942-J20",
       "file": "missing/T/157690-the-tower-of-tigerqiuqiu-2-1942-j20.json"
@@ -330141,6 +330371,16 @@
       "igdb_id": 390640,
       "game_name": "Tiana's Fishing Diary",
       "file": "missing/T/390640-tianas-fishing-diary.json"
+    },
+    {
+      "igdb_id": 347223,
+      "game_name": "Tiāndào: Gōngdé Chāojí Bāo",
+      "file": "missing/T/347223-tiandao-gongde-chaoji-bao.json"
+    },
+    {
+      "igdb_id": 347224,
+      "game_name": "Tiāndào: Gōngdé Dà Lǐ Bāo",
+      "file": "missing/T/347224-tiandao-gongde-da-li-bao.json"
     },
     {
       "igdb_id": 107820,
@@ -343911,6 +344151,11 @@
       "igdb_id": 34272,
       "game_name": "TurretCraft",
       "file": "missing/T/34272-turretcraft.json"
+    },
+    {
+      "igdb_id": 347243,
+      "game_name": "TurretGirls",
+      "file": "missing/T/347243-turretgirls.json"
     },
     {
       "igdb_id": 12803,
