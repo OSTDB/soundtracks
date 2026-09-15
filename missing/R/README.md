@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollie | 143073 | [143073-rollie.json](./143073-rollie.json) |
 | Rolling Ball on Sky | 86734 | [86734-rolling-ball-on-sky.json](./86734-rolling-ball-on-sky.json) |
 | Rolling Balls | 193428 | [193428-rolling-balls.json](./193428-rolling-balls.json) |
+| Rolling Cube | 358942 | [358942-rolling-cube.json](./358942-rolling-cube.json) |
 | Rolling Ex.tre.me | 321752 | [321752-rolling-ex-tre-me.json](./321752-rolling-ex-tre-me.json) |
 | Rolling for Romance | 273954 | [273954-rolling-for-romance.json](./273954-rolling-for-romance.json) |
 | Rolling Hero | 404338 | [404338-rolling-hero.json](./404338-rolling-hero.json) |
@@ -3066,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust 'n Dust | 165693 | [165693-rust-n-dust.json](./165693-rust-n-dust.json) |
 | Rust in Peace | 271765 | [271765-rust-in-peace.json](./271765-rust-in-peace.json) |
 | Rust Knight | 193948 | [193948-rust-knight.json](./193948-rust-knight.json) |
+| Rust Mobile | 358975 | [358975-rust-mobile.json](./358975-rust-mobile.json) |
 | Rust Onslaught | 341511 | [341511-rust-onslaught.json](./341511-rust-onslaught.json) |
 | Rust Racers 2D | 126026 | [126026-rust-racers-2d.json](./126026-rust-racers-2d.json) |
 | Rust Rails | 267063 | [267063-rust-rails.json](./267063-rust-rails.json) |
