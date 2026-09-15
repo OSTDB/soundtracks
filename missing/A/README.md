@@ -504,7 +504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterbright | 357794 | [357794-afterbright.json](./357794-afterbright.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
 | Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
-| Afterlife Work | 191828 | [191828-afterlife-work.json](./191828-afterlife-work.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
 | Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
