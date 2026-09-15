@@ -3952,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter: Fashion Bird | 108444 | [108444-bubble-shooter-fashion-bird.json](./108444-bubble-shooter-fashion-bird.json) |
 | Bubble Shooter! Tournaments | 78387 | [78387-bubble-shooter-tournaments.json](./78387-bubble-shooter-tournaments.json) |
 | Bubble Spinner | 144252 | [144252-bubble-spinner.json](./144252-bubble-spinner.json) |
+| Bubble Surge | 343858 | [343858-bubble-surge.json](./343858-bubble-surge.json) |
 | Bubble Tanks | 210285 | [210285-bubble-tanks.json](./210285-bubble-tanks.json) |
 | Bubble Troops | 236531 | [236531-bubble-troops.json](./236531-bubble-troops.json) |
 | Bubble Truck | 235228 | [235228-bubble-truck.json](./235228-bubble-truck.json) |
