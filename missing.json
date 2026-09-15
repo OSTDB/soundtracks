@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T11:19:05.033Z",
-  "total_missing": 73634,
+  "generated_at": "2026-09-15T11:33:58.588Z",
+  "total_missing": 73684,
   "games": [
     {
       "igdb_id": 306086,
@@ -12428,6 +12428,11 @@
       "file": "missing/A/343237-anime-dream-match-boys.json"
     },
     {
+      "igdb_id": 357863,
+      "game_name": "Anime Dream Match: Dogs",
+      "file": "missing/A/357863-anime-dream-match-dogs.json"
+    },
+    {
       "igdb_id": 362349,
       "game_name": "Anime Dream Match: Rodents",
       "file": "missing/A/362349-anime-dream-match-rodents.json"
@@ -12536,6 +12541,11 @@
       "igdb_id": 292014,
       "game_name": "Anime Hero Zero 3",
       "file": "missing/A/292014-anime-hero-zero-3.json"
+    },
+    {
+      "igdb_id": 357872,
+      "game_name": "Anime Jigsaw",
+      "file": "missing/A/357872-anime-jigsaw.json"
     },
     {
       "igdb_id": 286515,
@@ -17456,6 +17466,11 @@
       "igdb_id": 236811,
       "game_name": "Art-O-Ween: Night at the Gallery",
       "file": "missing/A/236811-art-o-ween-night-at-the-gallery.json"
+    },
+    {
+      "igdb_id": 357873,
+      "game_name": "Art-Therapy: Jigsaw Puzzle",
+      "file": "missing/A/357873-art-therapy-jigsaw-puzzle.json"
     },
     {
       "igdb_id": 318766,
@@ -28188,6 +28203,36 @@
       "file": "missing/B/200638-bear-surfin-mega-wave.json"
     },
     {
+      "igdb_id": 357865,
+      "game_name": "Bear vs. Wolf Jigsaw Puzzle",
+      "file": "missing/B/357865-bear-vs-wolf-jigsaw-puzzle.json"
+    },
+    {
+      "igdb_id": 357866,
+      "game_name": "Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 1",
+      "file": "missing/B/357866-bear-vs-wolf-jigsaw-puzzle-expansion-pack-1.json"
+    },
+    {
+      "igdb_id": 357867,
+      "game_name": "Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 2",
+      "file": "missing/B/357867-bear-vs-wolf-jigsaw-puzzle-expansion-pack-2.json"
+    },
+    {
+      "igdb_id": 357868,
+      "game_name": "Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 3",
+      "file": "missing/B/357868-bear-vs-wolf-jigsaw-puzzle-expansion-pack-3.json"
+    },
+    {
+      "igdb_id": 357869,
+      "game_name": "Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 4",
+      "file": "missing/B/357869-bear-vs-wolf-jigsaw-puzzle-expansion-pack-4.json"
+    },
+    {
+      "igdb_id": 357870,
+      "game_name": "Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 5",
+      "file": "missing/B/357870-bear-vs-wolf-jigsaw-puzzle-expansion-pack-5.json"
+    },
+    {
       "igdb_id": 116990,
       "game_name": "Bear With Me: The Complete Collection",
       "file": "missing/B/116990-bear-with-me-the-complete-collection.json"
@@ -28881,6 +28926,11 @@
       "igdb_id": 211430,
       "game_name": "Beauty and the Beast",
       "file": "missing/B/211430-beauty-and-the-beast.json"
+    },
+    {
+      "igdb_id": 357874,
+      "game_name": "Beauty Jigsaw: Image Pack",
+      "file": "missing/B/357874-beauty-jigsaw-image-pack.json"
     },
     {
       "igdb_id": 273088,
@@ -40643,6 +40693,11 @@
       "file": "missing/B/19484-brilliant-bob.json"
     },
     {
+      "igdb_id": 357871,
+      "game_name": "Brilliant Jigsaw",
+      "file": "missing/B/357871-brilliant-jigsaw.json"
+    },
+    {
       "igdb_id": 105267,
       "game_name": "Brimstone Brawlers",
       "file": "missing/B/105267-brimstone-brawlers.json"
@@ -46458,6 +46513,11 @@
       "file": "missing/C/49368-care-bears-the-care-quests.json"
     },
     {
+      "igdb_id": 357850,
+      "game_name": "Care for your Horse",
+      "file": "missing/C/357850-care-for-your-horse.json"
+    },
+    {
       "igdb_id": 135830,
       "game_name": "Carena",
       "file": "missing/C/135830-carena.json"
@@ -50671,6 +50731,26 @@
       "igdb_id": 412309,
       "game_name": "Château Pluie: The New Cellar Keeper",
       "file": "missing/C/412309-chateau-pluie-the-new-cellar-keeper.json"
+    },
+    {
+      "igdb_id": 357875,
+      "game_name": "Château Royale Jigsaw",
+      "file": "missing/C/357875-chateau-royale-jigsaw.json"
+    },
+    {
+      "igdb_id": 357876,
+      "game_name": "Château Royale Jigsaw: Expansion Pack 1",
+      "file": "missing/C/357876-chateau-royale-jigsaw-expansion-pack-1.json"
+    },
+    {
+      "igdb_id": 357877,
+      "game_name": "Château Royale Jigsaw: Expansion Pack 2",
+      "file": "missing/C/357877-chateau-royale-jigsaw-expansion-pack-2.json"
+    },
+    {
+      "igdb_id": 357878,
+      "game_name": "Château Royale Jigsaw: Expansion Pack 3",
+      "file": "missing/C/357878-chateau-royale-jigsaw-expansion-pack-3.json"
     },
     {
       "igdb_id": 306678,
@@ -77428,6 +77508,11 @@
       "file": "missing/D/383483-digging-a-hole-with-a-spoon-escape-from-alcatraz.json"
     },
     {
+      "igdb_id": 357862,
+      "game_name": "Digging Dogs",
+      "file": "missing/D/357862-digging-dogs.json"
+    },
+    {
       "igdb_id": 384532,
       "game_name": "Digging Down",
       "file": "missing/D/384532-digging-down.json"
@@ -101038,6 +101123,16 @@
       "file": "missing/F/234341-fantasy-jigsaw-puzzles-northlands.json"
     },
     {
+      "igdb_id": 357879,
+      "game_name": "Fantasy Jigsaw Puzzles: The Great War",
+      "file": "missing/F/357879-fantasy-jigsaw-puzzles-the-great-war.json"
+    },
+    {
+      "igdb_id": 357880,
+      "game_name": "Fantasy Jigsaw Puzzles: The Orient",
+      "file": "missing/F/357880-fantasy-jigsaw-puzzles-the-orient.json"
+    },
+    {
       "igdb_id": 219290,
       "game_name": "Fantasy Kingdom: Fantasy Tiny Forest",
       "file": "missing/F/219290-fantasy-kingdom-fantasy-tiny-forest.json"
@@ -101911,6 +102006,11 @@
       "igdb_id": 87574,
       "game_name": "FarmVille: Tropic Escape",
       "file": "missing/F/87574-farmville-tropic-escape.json"
+    },
+    {
+      "igdb_id": 357881,
+      "game_name": "Farmyard Pals Jigsaw Puzzles",
+      "file": "missing/F/357881-farmyard-pals-jigsaw-puzzles.json"
     },
     {
       "igdb_id": 92980,
@@ -107738,6 +107838,11 @@
       "file": "missing/F/60023-flexible-survival.json"
     },
     {
+      "igdb_id": 357882,
+      "game_name": "FlexibleJigsaw: Journey",
+      "file": "missing/F/357882-flexiblejigsaw-journey.json"
+    },
+    {
       "igdb_id": 409649,
       "game_name": "Flick",
       "file": "missing/F/409649-flick.json"
@@ -112051,6 +112156,11 @@
       "igdb_id": 113667,
       "game_name": "Franky Lettuce",
       "file": "missing/F/113667-franky-lettuce.json"
+    },
+    {
+      "igdb_id": 357849,
+      "game_name": "Frantic Birdies",
+      "file": "missing/F/357849-frantic-birdies.json"
     },
     {
       "igdb_id": 42620,
@@ -136053,6 +136163,11 @@
       "file": "missing/H/135165-heybot-heyboheybo-heybotournament.json"
     },
     {
+      "igdb_id": 357851,
+      "game_name": "HgmGame Horse",
+      "file": "missing/H/357851-hgmgame-horse.json"
+    },
+    {
       "igdb_id": 125942,
       "game_name": "hhGregg's Quest for Coupons",
       "file": "missing/H/125942-hhgreggs-quest-for-coupons.json"
@@ -136966,6 +137081,11 @@
       "igdb_id": 233747,
       "game_name": "High Dive",
       "file": "missing/H/233747-high-dive.json"
+    },
+    {
+      "igdb_id": 357842,
+      "game_name": "High Dragon Tower",
+      "file": "missing/H/357842-high-dragon-tower.json"
     },
     {
       "igdb_id": 271207,
@@ -138196,6 +138316,11 @@
       "igdb_id": 388221,
       "game_name": "Hobble-Wobble",
       "file": "missing/H/388221-hobble-wobble.json"
+    },
+    {
+      "igdb_id": 357852,
+      "game_name": "Hobby Horse: First Ride",
+      "file": "missing/H/357852-hobby-horse-first-ride.json"
     },
     {
       "igdb_id": 74413,
@@ -140183,6 +140308,11 @@
       "file": "missing/H/178032-horse-divorce.json"
     },
     {
+      "igdb_id": 357853,
+      "game_name": "Horse Evolutions",
+      "file": "missing/H/357853-horse-evolutions.json"
+    },
+    {
       "igdb_id": 105275,
       "game_name": "Horse Farm",
       "file": "missing/H/105275-horse-farm.json"
@@ -140218,9 +140348,19 @@
       "file": "missing/H/396387-horse-magnifier.json"
     },
     {
+      "igdb_id": 357854,
+      "game_name": "Horse Manager",
+      "file": "missing/H/357854-horse-manager.json"
+    },
+    {
       "igdb_id": 87897,
       "game_name": "Horse Park Tycoon",
       "file": "missing/H/87897-horse-park-tycoon.json"
+    },
+    {
+      "igdb_id": 357855,
+      "game_name": "Horse Plinko",
+      "file": "missing/H/357855-horse-plinko.json"
     },
     {
       "igdb_id": 47279,
@@ -145338,6 +145478,11 @@
       "file": "missing/I/101522-idle-tower-tycoon.json"
     },
     {
+      "igdb_id": 357844,
+      "game_name": "Idle Towers",
+      "file": "missing/I/357844-idle-towers.json"
+    },
+    {
       "igdb_id": 227263,
       "game_name": "Idle Traffic Tycoon Game",
       "file": "missing/I/227263-idle-traffic-tycoon-game.json"
@@ -145396,6 +145541,11 @@
       "igdb_id": 261270,
       "game_name": "Idleplex",
       "file": "missing/I/261270-idleplex.json"
+    },
+    {
+      "igdb_id": 357843,
+      "game_name": "IdleTowerDefense",
+      "file": "missing/I/357843-idletowerdefense.json"
     },
     {
       "igdb_id": 237081,
@@ -147991,6 +148141,11 @@
       "igdb_id": 137928,
       "game_name": "Infinity Strash: Dragon Quest - The Adventure of Dai",
       "file": "missing/I/137928-infinity-strash-dragon-quest-the-adventure-of-dai.json"
+    },
+    {
+      "igdb_id": 357845,
+      "game_name": "Infinity Tower",
+      "file": "missing/I/357845-infinity-tower.json"
     },
     {
       "igdb_id": 167816,
@@ -153733,6 +153888,11 @@
       "file": "missing/J/345498-jigsaw-game-05-06.json"
     },
     {
+      "igdb_id": 357888,
+      "game_name": "Jigsaw Industry",
+      "file": "missing/J/357888-jigsaw-industry.json"
+    },
+    {
       "igdb_id": 390678,
       "game_name": "Jigsaw Jab",
       "file": "missing/J/390678-jigsaw-jab.json"
@@ -153791,6 +153951,11 @@
       "igdb_id": 243371,
       "game_name": "Jigsaw Masterpieces: Sweet Cakes",
       "file": "missing/J/243371-jigsaw-masterpieces-sweet-cakes.json"
+    },
+    {
+      "igdb_id": 357883,
+      "game_name": "Jigsaw Puzzle",
+      "file": "missing/J/357883-jigsaw-puzzle.json"
     },
     {
       "igdb_id": 263223,
@@ -154741,6 +154906,11 @@
       "igdb_id": 80600,
       "game_name": "Jonah: A VeggieTales Game",
       "file": "missing/J/80600-jonah-a-veggietales-game.json"
+    },
+    {
+      "igdb_id": 357856,
+      "game_name": "Jonald '06 or How a Tiny Horse Living in New York City Raised 250 US Dollars So They Could Buy a Nintedo Woo On Launch Day",
+      "file": "missing/J/357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json"
     },
     {
       "igdb_id": 149013,
@@ -168893,6 +169063,11 @@
       "file": "missing/L/138271-lichenia.json"
     },
     {
+      "igdb_id": 357846,
+      "game_name": "Lichgate: Tower Survivor",
+      "file": "missing/L/357846-lichgate-tower-survivor.json"
+    },
+    {
       "igdb_id": 415105,
       "game_name": "Lichtung",
       "file": "missing/L/415105-lichtung.json"
@@ -169361,6 +169536,11 @@
       "igdb_id": 358937,
       "game_name": "Light Tomb",
       "file": "missing/L/358937-light-tomb.json"
+    },
+    {
+      "igdb_id": 357847,
+      "game_name": "Light Towers",
+      "file": "missing/L/357847-light-towers.json"
     },
     {
       "igdb_id": 404960,
@@ -175976,6 +176156,11 @@
       "igdb_id": 409547,
       "game_name": "Machine of Madness",
       "file": "missing/M/409547-machine-of-madness.json"
+    },
+    {
+      "igdb_id": 357848,
+      "game_name": "Machine Tower 2984",
+      "file": "missing/M/357848-machine-tower-2984.json"
     },
     {
       "igdb_id": 103479,
@@ -184066,6 +184251,11 @@
       "igdb_id": 153367,
       "game_name": "Medieval Hero",
       "file": "missing/M/153367-medieval-hero.json"
+    },
+    {
+      "igdb_id": 357857,
+      "game_name": "Medieval Horse Dealer Simulator",
+      "file": "missing/M/357857-medieval-horse-dealer-simulator.json"
     },
     {
       "igdb_id": 249185,
@@ -227643,6 +227833,26 @@
       "file": "missing/P/293071-pixel-puzzles-ultimate-jigsaw-variety-pack-23.json"
     },
     {
+      "igdb_id": 357884,
+      "game_name": "Pixel Puzzles Ultimate: Bioframe",
+      "file": "missing/P/357884-pixel-puzzles-ultimate-bioframe.json"
+    },
+    {
+      "igdb_id": 357885,
+      "game_name": "Pixel Puzzles Ultimate: Colorful 2",
+      "file": "missing/P/357885-pixel-puzzles-ultimate-colorful-2.json"
+    },
+    {
+      "igdb_id": 357886,
+      "game_name": "Pixel Puzzles Ultimate: Dino Park",
+      "file": "missing/P/357886-pixel-puzzles-ultimate-dino-park.json"
+    },
+    {
+      "igdb_id": 357887,
+      "game_name": "Pixel Puzzles Ultimate: Light Trail",
+      "file": "missing/P/357887-pixel-puzzles-ultimate-light-trail.json"
+    },
+    {
       "igdb_id": 163416,
       "game_name": "Pixel Puzzles Ultimate: Puzzle Pack 2000 AD",
       "file": "missing/P/163416-pixel-puzzles-ultimate-puzzle-pack-2000-ad.json"
@@ -227656,6 +227866,21 @@
       "igdb_id": 148493,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack 10",
       "file": "missing/P/148493-pixel-puzzles-ultimate-variety-pack-10.json"
+    },
+    {
+      "igdb_id": 357889,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 24",
+      "file": "missing/P/357889-pixel-puzzles-ultimate-variety-pack-24.json"
+    },
+    {
+      "igdb_id": 357890,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 25",
+      "file": "missing/P/357890-pixel-puzzles-ultimate-variety-pack-25.json"
+    },
+    {
+      "igdb_id": 357891,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 26",
+      "file": "missing/P/357891-pixel-puzzles-ultimate-variety-pack-26.json"
     },
     {
       "igdb_id": 389415,
@@ -255043,6 +255268,11 @@
       "file": "missing/R/80537-rules.json"
     },
     {
+      "igdb_id": 357858,
+      "game_name": "Ruling Horsestown",
+      "file": "missing/R/357858-ruling-horsestown.json"
+    },
+    {
       "igdb_id": 306376,
       "game_name": "Rum N' Gold Royale",
       "file": "missing/R/306376-rum-n-gold-royale.json"
@@ -279418,6 +279648,11 @@
       "file": "missing/S/19279-sound-of-drop-fall-into-poison.json"
     },
     {
+      "igdb_id": 357859,
+      "game_name": "Sound of Horses",
+      "file": "missing/S/357859-sound-of-horses.json"
+    },
+    {
       "igdb_id": 360669,
       "game_name": "Sound of Summer Thunder",
       "file": "missing/S/360669-sound-of-summer-thunder.json"
@@ -280476,6 +280711,11 @@
       "igdb_id": 412970,
       "game_name": "Space Memory TDG",
       "file": "missing/S/412970-space-memory-tdg.json"
+    },
+    {
+      "igdb_id": 357864,
+      "game_name": "Space Memory: Dogs",
+      "file": "missing/S/357864-space-memory-dogs.json"
     },
     {
       "igdb_id": 412387,
@@ -289346,6 +289586,11 @@
       "igdb_id": 99666,
       "game_name": "Storm Generations",
       "file": "missing/S/99666-storm-generations.json"
+    },
+    {
+      "igdb_id": 357860,
+      "game_name": "Storm Horse Simulator",
+      "file": "missing/S/357860-storm-horse-simulator.json"
     },
     {
       "igdb_id": 10853,
@@ -359531,6 +359776,11 @@
       "igdb_id": 203554,
       "game_name": "Worker Riot",
       "file": "missing/W/203554-worker-riot.json"
+    },
+    {
+      "igdb_id": 357861,
+      "game_name": "Workhorse",
+      "file": "missing/W/357861-workhorse.json"
     },
     {
       "igdb_id": 408762,
