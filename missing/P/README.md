@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painajainen | 84220 | [84220-painajainen.json](./84220-painajainen.json) |
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
 | PainFighting | 255984 | [255984-painfighting.json](./255984-painfighting.json) |
+| Painkiller: Night Watch Pack | 374737 | [374737-painkiller-night-watch-pack.json](./374737-painkiller-night-watch-pack.json) |
 | Painkiller: Purgatory HD | 77308 | [77308-painkiller-purgatory-hd.json](./77308-painkiller-purgatory-hd.json) |
 | Painkiller: Recurring Evil | 1839 | [1839-painkiller-recurring-evil.json](./1839-painkiller-recurring-evil.json) |
 | Painkiller: Redemption | 1838 | [1838-painkiller-redemption.json](./1838-painkiller-redemption.json) |
@@ -186,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paisible Après-midi au Fil des Toiles | 178023 | [178023-paisible-apres-midi-au-fil-des-toiles.json](./178023-paisible-apres-midi-au-fil-des-toiles.json) |
 | Paitan Small Town | 159804 | [159804-paitan-small-town.json](./159804-paitan-small-town.json) |
 | Paiteo: Yeongung-eul Gidalimyeo | 98430 | [98430-paiteo-yeongung-eul-gidalimyeo.json](./98430-paiteo-yeongung-eul-gidalimyeo.json) |
+| Pakku Pony | 374671 | [374671-pakku-pony.json](./374671-pakku-pony.json) |
 | Pako | 9568 | [9568-pako.json](./9568-pako.json) |
 | Pako Highway | 212448 | [212448-pako-highway.json](./212448-pako-highway.json) |
 | Pakoombo | 201792 | [201792-pakoombo.json](./201792-pakoombo.json) |
@@ -772,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws of Fury | 181342 | [181342-paws-of-fury.json](./181342-paws-of-fury.json) |
 | Paws: A Shelter 2 Game | 17007 | [17007-paws-a-shelter-2-game.json](./17007-paws-a-shelter-2-game.json) |
 | Pawsitive | 298873 | [298873-pawsitive.json](./298873-pawsitive.json) |
+| Pawsome Resort | 374711 | [374711-pawsome-resort.json](./374711-pawsome-resort.json) |
 | Pax | 274201 | [274201-pax.json](./274201-pax.json) |
 | Pax Imperia | 95439 | [95439-pax-imperia.json](./95439-pax-imperia.json) |
 | Pax Nova | 111043 | [111043-pax-nova.json](./111043-pax-nova.json) |
@@ -1918,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixEvo: The Fountain | 191901 | [191901-pixevo-the-fountain.json](./191901-pixevo-the-fountain.json) |
 | Pixgun | 348234 | [348234-pixgun.json](./348234-pixgun.json) |
 | Pixicharm: Acornflare | 389416 | [389416-pixicharm-acornflare.json](./389416-pixicharm-acornflare.json) |
+| Pixicharm: Cavrielle | 374716 | [374716-pixicharm-cavrielle.json](./374716-pixicharm-cavrielle.json) |
 | Pixicharm: Celestibun | 378768 | [378768-pixicharm-celestibun.json](./378768-pixicharm-celestibun.json) |
 | Pixicharm: Goo Patrol | 373564 | [373564-pixicharm-goo-patrol.json](./373564-pixicharm-goo-patrol.json) |
 | Pixicharm: Hallowkinz | 378767 | [378767-pixicharm-hallowkinz.json](./378767-pixicharm-hallowkinz.json) |
@@ -3045,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Carnage: Extinction - Prehistoric Legacy | 241962 | [241962-primal-carnage-extinction-prehistoric-legacy.json](./241962-primal-carnage-extinction-prehistoric-legacy.json) |
 | Primal Carnage: Extinction - Ultimate Spitter Pack | 274974 | [274974-primal-carnage-extinction-ultimate-spitter-pack.json](./274974-primal-carnage-extinction-ultimate-spitter-pack.json) |
 | Primal Carnage: Genesis | 80564 | [80564-primal-carnage-genesis.json](./80564-primal-carnage-genesis.json) |
+| Primal Dinosaur Shooter: Dino Killer | 374672 | [374672-primal-dinosaur-shooter-dino-killer.json](./374672-primal-dinosaur-shooter-dino-killer.json) |
 | Primal Force Arena | 317842 | [317842-primal-force-arena.json](./317842-primal-force-arena.json) |
 | Primal Fray | 244469 | [244469-primal-fray.json](./244469-primal-fray.json) |
 | Primal Frost | 384059 | [384059-primal-frost.json](./384059-primal-frost.json) |
