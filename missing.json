@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T00:49:07.818Z",
-  "total_missing": 71804,
+  "generated_at": "2026-09-15T00:51:35.481Z",
+  "total_missing": 71803,
   "games": [
     {
       "igdb_id": 306086,
@@ -4841,11 +4841,6 @@
       "igdb_id": 369557,
       "game_name": "Adventures with Alan Parkour 3D",
       "file": "missing/A/369557-adventures-with-alan-parkour-3d.json"
-    },
-    {
-      "igdb_id": 184042,
-      "game_name": "Ae",
-      "file": "missing/A/184042-ae.json"
     },
     {
       "igdb_id": 223483,
