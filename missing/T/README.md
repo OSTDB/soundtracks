@@ -1650,6 +1650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
 | The Book of Yorle: Save the Village | 169964 | [169964-the-book-of-yorle-save-the-village.json](./169964-the-book-of-yorle-save-the-village.json) |
 | The Boondock Saints Video Game | 95391 | [95391-the-boondock-saints-video-game.json](./95391-the-boondock-saints-video-game.json) |
+| The Boons of IIUIR | 374690 | [374690-the-boons-of-iiuir.json](./374690-the-boons-of-iiuir.json) |
 | The Borderless | 406117 | [406117-the-borderless.json](./406117-the-borderless.json) |
 | The Boss Baby: Get That Baby! | 256853 | [256853-the-boss-baby-get-that-baby.json](./256853-the-boss-baby-get-that-baby.json) |
 | The Boss Gangster: Criminal Empire - From the Streets | 400956 | [400956-the-boss-gangster-criminal-empire-from-the-streets.json](./400956-the-boss-gangster-criminal-empire-from-the-streets.json) |
@@ -2019,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deed II | 122623 | [122623-the-deed-ii.json](./122623-the-deed-ii.json) |
 | The Deep | 169464 | [169464-the-deep.json](./169464-the-deep.json) |
 | The Deep Deep | 123073 | [123073-the-deep-deep.json](./123073-the-deep-deep.json) |
+| The Deep Library | 374691 | [374691-the-deep-library.json](./374691-the-deep-library.json) |
 | The Deep Ones | 246118 | [246118-the-deep-ones.json](./246118-the-deep-ones.json) |
 | The Deep: Ushinawareta Shinkai | 410223 | [410223-the-deep-ushinawareta-shinkai.json](./410223-the-deep-ushinawareta-shinkai.json) |
 | The Deepest Castle | 400872 | [400872-the-deepest-castle.json](./400872-the-deepest-castle.json) |
@@ -4242,6 +4244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tolerance Group | 408940 | [408940-the-tolerance-group.json](./408940-the-tolerance-group.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
 | The Tomorrow Corporation Collection | 124784 | [124784-the-tomorrow-corporation-collection.json](./124784-the-tomorrow-corporation-collection.json) |
+| The Tooth Fae | 374729 | [374729-the-tooth-fae.json](./374729-the-tooth-fae.json) |
 | The Tour | 179178 | [179178-the-tour.json](./179178-the-tour.json) |
 | The Tour | 282029 | [282029-the-tour.json](./282029-the-tour.json) |
 | The Tour of Duty | 145618 | [145618-the-tour-of-duty.json](./145618-the-tour-of-duty.json) |
