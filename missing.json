@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T05:48:52.477Z",
-  "total_missing": 72710,
+  "generated_at": "2026-09-15T05:51:32.012Z",
+  "total_missing": 72709,
   "games": [
     {
       "igdb_id": 306086,
@@ -5026,11 +5026,6 @@
       "igdb_id": 14228,
       "game_name": "Afrika Korps",
       "file": "missing/A/14228-afrika-korps.json"
-    },
-    {
-      "igdb_id": 246670,
-      "game_name": "Afrodite The Game",
-      "file": "missing/A/246670-afrodite-the-game.json"
     },
     {
       "igdb_id": 188632,
