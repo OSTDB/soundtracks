@@ -499,9 +499,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Escape: Plane Crash | 188113 | [188113-card-escape-plane-crash.json](./188113-card-escape-plane-crash.json) |
 | Card Fuse | 278167 | [278167-card-fuse.json](./278167-card-fuse.json) |
 | Card Games Mega Collection | 104032 | [104032-card-games-mega-collection.json](./104032-card-games-mega-collection.json) |
+| Card Gauntlet | 335363 | [335363-card-gauntlet.json](./335363-card-gauntlet.json) |
 | Card Girl Army | 195205 | [195205-card-girl-army.json](./195205-card-girl-army.json) |
 | Card Hunter | 17231 | [17231-card-hunter.json](./17231-card-hunter.json) |
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
+| Card Princess | 335330 | [335330-card-princess.json](./335330-card-princess.json) |
 | Card Quest | 32328 | [32328-card-quest.json](./32328-card-quest.json) |
 | Card Quest: Simple Card Game | 406084 | [406084-card-quest-simple-card-game.json](./406084-card-quest-simple-card-game.json) |
 | Card Racing Simulator: Otterrific Arcade | 217917 | [217917-card-racing-simulator-otterrific-arcade.json](./217917-card-racing-simulator-otterrific-arcade.json) |
@@ -1347,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
 | Chaos Front | 291490 | [291490-chaos-front.json](./291490-chaos-front.json) |
 | Chaos Galaxy 2 | 148997 | [148997-chaos-galaxy-2.json](./148997-chaos-galaxy-2.json) |
+| Chaos Hero | 335328 | [335328-chaos-hero.json](./335328-chaos-hero.json) |
 | Chaos Islands | 296395 | [296395-chaos-islands.json](./296395-chaos-islands.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
 | Chaos Machina | 331323 | [331323-chaos-machina.json](./331323-chaos-machina.json) |
@@ -3155,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condo | 349936 | [349936-condo.json](./349936-condo.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
 | Condor | 47268 | [47268-condor.json](./47268-condor.json) |
+| Conductor Cat | 335364 | [335364-conductor-cat.json](./335364-conductor-cat.json) |
 | Cones in Space | 254771 | [254771-cones-in-space.json](./254771-cones-in-space.json) |
 | Conexus | 202920 | [202920-conexus.json](./202920-conexus.json) |
 | Confabulation: Homestead | 244776 | [244776-confabulation-homestead.json](./244776-confabulation-homestead.json) |
@@ -3723,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Life Collection | 393632 | [393632-cozy-life-collection.json](./393632-cozy-life-collection.json) |
 | Cozy Liora | 400883 | [400883-cozy-liora.json](./400883-cozy-liora.json) |
 | Cozy Marbles | 292519 | [292519-cozy-marbles.json](./292519-cozy-marbles.json) |
+| Cozy Meadow | 335353 | [335353-cozy-meadow.json](./335353-cozy-meadow.json) |
 | Cozy Night | 295784 | [295784-cozy-night.json](./295784-cozy-night.json) |
 | Cozy Night | 337709 | [337709-cozy-night.json](./337709-cozy-night.json) |
 | Cozy Offroad Simulator Together | 405571 | [405571-cozy-offroad-simulator-together.json](./405571-cozy-offroad-simulator-together.json) |
@@ -3752,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab-Ball | 370111 | [370111-crab-ball.json](./370111-crab-ball.json) |
 | CrabbleUp | 295018 | [295018-crabbleup.json](./295018-crabbleup.json) |
 | Crabby Beach | 191830 | [191830-crabby-beach.json](./191830-crabby-beach.json) |
+| Crabby Fishes | 335367 | [335367-crabby-fishes.json](./335367-crabby-fishes.json) |
 | Crabity | 301807 | [301807-crabity.json](./301807-crabity.json) |
 | Crablike | 342058 | [342058-crablike.json](./342058-crablike.json) |
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
