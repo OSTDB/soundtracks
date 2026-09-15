@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected | 242548 | [242548-infected.json](./242548-infected.json) |
 | Infected | 44524 | [44524-infected.json](./44524-infected.json) |
 | Infected Friend | 224548 | [224548-infected-friend.json](./224548-infected-friend.json) |
+| Infected Love: The Fatal Experiment | 374135 | [374135-infected-love-the-fatal-experiment.json](./374135-infected-love-the-fatal-experiment.json) |
 | Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry | 231078 | [231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json](./231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json) |
 | Infected World | 412279 | [412279-infected-world.json](./412279-infected-world.json) |
 | Infection | 142474 | [142474-infection.json](./142474-infection.json) |
