@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
 | Chicky Woggy | 41421 | [41421-chicky-woggy.json](./41421-chicky-woggy.json) |
+| Chico's Rebound | 345050 | [345050-chicos-rebound.json](./345050-chicos-rebound.json) |
 | Chief's Quest | 111703 | [111703-chiefs-quest.json](./111703-chiefs-quest.json) |
 | Chigau!!!+ | 186231 | [186231-chigau.json](./186231-chigau.json) |
 | Chigau!!!+: Premium Edition | 186232 | [186232-chigau-premium-edition.json](./186232-chigau-premium-edition.json) |
@@ -2192,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Transport Simulator: Ultimate Public Bus 2020 | 197327 | [197327-city-transport-simulator-ultimate-public-bus-2020.json](./197327-city-transport-simulator-ultimate-public-bus-2020.json) |
 | City Turn | 311472 | [311472-city-turn.json](./311472-city-turn.json) |
 | City-Racing | 358887 | [358887-city-racing.json](./358887-city-racing.json) |
+| City: Battle Ground | 345012 | [345012-city-battle-ground.json](./345012-city-battle-ground.json) |
 | Citybound | 18151 | [18151-citybound.json](./18151-citybound.json) |
 | CityBuilder | 206348 | [206348-citybuilder.json](./206348-citybuilder.json) |
 | Cityconomy: Service for your City | 17494 | [17494-cityconomy-service-for-your-city.json](./17494-cityconomy-service-for-your-city.json) |
@@ -3944,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creator of Another World | 294167 | [294167-creator-of-another-world.json](./294167-creator-of-another-world.json) |
 | Creator's Asteroid | 191191 | [191191-creators-asteroid.json](./191191-creators-asteroid.json) |
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
+| Creature Containment | 345035 | [345035-creature-containment.json](./345035-creature-containment.json) |
 | Creature Crawl | 415903 | [415903-creature-crawl.json](./415903-creature-crawl.json) |
 | Creature Create | 80541 | [80541-creature-create.json](./80541-creature-create.json) |
 | Creature Creation Station | 343280 | [343280-creature-creation-station.json](./343280-creature-creation-station.json) |
@@ -3977,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Dungeons | 355609 | [355609-creepy-dungeons.json](./355609-creepy-dungeons.json) |
 | Creepy Dungeons Heroes | 226744 | [226744-creepy-dungeons-heroes.json](./226744-creepy-dungeons-heroes.json) |
 | Creepy Redneck Dinosaur Mansion 1 Re-Raptored | 356682 | [356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json](./356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json) |
+| Creepy Support | 345029 | [345029-creepy-support.json](./345029-creepy-support.json) |
 | Creepy Tale 3: Ingrid Penance | 211024 | [211024-creepy-tale-3-ingrid-penance.json](./211024-creepy-tale-3-ingrid-penance.json) |
 | CreepyDates | 408876 | [408876-creepydates.json](./408876-creepydates.json) |
 | Creepypasta Land | 130346 | [130346-creepypasta-land.json](./130346-creepypasta-land.json) |
@@ -4788,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunx | 261820 | [261820-cyberpunx.json](./261820-cyberpunx.json) |
 | Cyberqueen | 15447 | [15447-cyberqueen.json](./15447-cyberqueen.json) |
 | CyberQuest | 391581 | [391581-cyberquest.json](./391581-cyberquest.json) |
+| CyberRhapsody | 345000 | [345000-cyberrhapsody.json](./345000-cyberrhapsody.json) |
 | Cyberrrevolution | 180211 | [180211-cyberrrevolution.json](./180211-cyberrrevolution.json) |
 | Cyberscape | 235201 | [235201-cyberscape.json](./235201-cyberscape.json) |
 | CyberSeas | 324716 | [324716-cyberseas.json](./324716-cyberseas.json) |
