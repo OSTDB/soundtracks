@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Yuureikun MSX2 | 381705 | [381705-eggconsole-yuureikun-msx2.json](./381705-eggconsole-yuureikun-msx2.json) |
 | Eggconsole: Arugisu no Tsubasa | 385060 | [385060-eggconsole-arugisu-no-tsubasa.json](./385060-eggconsole-arugisu-no-tsubasa.json) |
 | Eggerland: Souzou he no Tabidachi | 41338 | [41338-eggerland-souzou-he-no-tabidachi.json](./41338-eggerland-souzou-he-no-tabidachi.json) |
+| EggGarden | 349402 | [349402-egggarden.json](./349402-egggarden.json) |
 | Egghead Gumpty | 210852 | [210852-egghead-gumpty.json](./210852-egghead-gumpty.json) |
 | Eggies | 233770 | [233770-eggies.json](./233770-eggies.json) |
 | Egglets: The Long 10 Days | 372022 | [372022-egglets-the-long-10-days.json](./372022-egglets-the-long-10-days.json) |
@@ -691,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embryogenesis | 376614 | [376614-embryogenesis.json](./376614-embryogenesis.json) |
 | Embuscade | 179734 | [179734-embuscade.json](./179734-embuscade.json) |
 | Emerald Bathhouse | 268776 | [268776-emerald-bathhouse.json](./268776-emerald-bathhouse.json) |
+| Emerald Dreams: Sanity - Platformer Quest | 349372 | [349372-emerald-dreams-sanity-platformer-quest.json](./349372-emerald-dreams-sanity-platformer-quest.json) |
 | Emerald Isle | 13635 | [13635-emerald-isle.json](./13635-emerald-isle.json) |
 | Emerald Isle | 318995 | [318995-emerald-isle.json](./318995-emerald-isle.json) |
 | Emerald Mine | 37100 | [37100-emerald-mine.json](./37100-emerald-mine.json) |
@@ -720,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emily's Hotel Solitaire | 227854 | [227854-emilys-hotel-solitaire.json](./227854-emilys-hotel-solitaire.json) |
 | Emin's Journey | 291754 | [291754-emins-journey.json](./291754-emins-journey.json) |
 | Emio: The Smiling Man - Famicom Detective Club | 308052 | [308052-emio-the-smiling-man-famicom-detective-club.json](./308052-emio-the-smiling-man-famicom-detective-club.json) |
+| Emirati Tales | 349378 | [349378-emirati-tales.json](./349378-emirati-tales.json) |
 | Emissary | 413714 | [413714-emissary.json](./413714-emissary.json) |
 | Emissary One | 411620 | [411620-emissary-one.json](./411620-emissary-one.json) |
 | Emlis | 304585 | [304585-emlis.json](./304585-emlis.json) |
