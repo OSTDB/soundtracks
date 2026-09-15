@@ -962,6 +962,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Ocean | 396412 | [396412-orange-ocean.json](./396412-orange-ocean.json) |
 | Orange Santa | 151131 | [151131-orange-santa.json](./151131-orange-santa.json) |
 | Orange Season | 34231 | [34231-orange-season.json](./34231-orange-season.json) |
+| Orangia | 366934 | [366934-orangia.json](./366934-orangia.json) |
+| Orangia DLC | 366935 | [366935-orangia-dlc.json](./366935-orangia-dlc.json) |
 | Orava | 377071 | [377071-orava.json](./377071-orava.json) |
 | Orb Boy | 180184 | [180184-orb-boy.json](./180184-orb-boy.json) |
 | Orb of Creation | 182972 | [182972-orb-of-creation.json](./182972-orb-of-creation.json) |
