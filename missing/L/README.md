@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightopus | 22316 | [22316-lightopus.json](./22316-lightopus.json) |
 | Lightout | 175388 | [175388-lightout.json](./175388-lightout.json) |
 | Lightracer: For Judge | 309845 | [309845-lightracer-for-judge.json](./309845-lightracer-for-judge.json) |
+| LightRay | 349403 | [349403-lightray.json](./349403-lightray.json) |
 | Lightrix | 372989 | [372989-lightrix.json](./372989-lightrix.json) |
 | Lightrock | 205065 | [205065-lightrock.json](./205065-lightrock.json) |
 | Lights and Shadow | 339287 | [339287-lights-and-shadow.json](./339287-lights-and-shadow.json) |
@@ -1730,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonelyland VR | 105988 | [105988-lonelyland-vr.json](./105988-lonelyland-vr.json) |
 | Loner_Dog://Snuff Puppy Carnage Society | 358384 | [358384-loner-dog-snuff-puppy-carnage-society.json](./358384-loner-dog-snuff-puppy-carnage-society.json) |
 | Loner's Spell | 182967 | [182967-loners-spell.json](./182967-loners-spell.json) |
+| Lonesome Road | 349408 | [349408-lonesome-road.json](./349408-lonesome-road.json) |
 | Lonewolf | 113977 | [113977-lonewolf.json](./113977-lonewolf.json) |
 | Long | 292006 | [292006-long.json](./292006-long.json) |
 | Long Count | 126622 | [126622-long-count.json](./126622-long-count.json) |
@@ -2365,6 +2367,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luòchén zhī Yù | 114382 | [114382-luochen-zhi-yu.json](./114382-luochen-zhi-yu.json) |
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
 | Lupin the 3rd: The Shooting | 39594 | [39594-lupin-the-3rd-the-shooting.json](./39594-lupin-the-3rd-the-shooting.json) |
+| Lupin the Third Part III: Jigoku no Kyuushutsu Sakusen | 349409 | [349409-lupin-the-third-part-iii-jigoku-no-kyuushutsu-sakusen.json](./349409-lupin-the-third-part-iii-jigoku-no-kyuushutsu-sakusen.json) |
+| Lupin the Third Part III: Sanjou! Kogane no Ude | 349411 | [349411-lupin-the-third-part-iii-sanjou-kogane-no-ude.json](./349411-lupin-the-third-part-iii-sanjou-kogane-no-ude.json) |
 | Lupo Alberto: The VideoGame | 98958 | [98958-lupo-alberto-the-videogame.json](./98958-lupo-alberto-the-videogame.json) |
 | Luqman Reloaded | 361742 | [361742-luqman-reloaded.json](./361742-luqman-reloaded.json) |
 | Lure | 139953 | [139953-lure.json](./139953-lure.json) |
