@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
 | Tempter | 309887 | [309887-tempter.json](./309887-tempter.json) |
+| Tempus | 377168 | [377168-tempus.json](./377168-tempus.json) |
 | Tempus Denique | 177998 | [177998-tempus-denique.json](./177998-tempus-denique.json) |
 | Temtem: Pioneers | 397815 | [397815-temtem-pioneers.json](./397815-temtem-pioneers.json) |
 | Ten Dates | 217256 | [217256-ten-dates.json](./217256-ten-dates.json) |
@@ -1089,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
 | Terminus Machina | 230287 | [230287-terminus-machina.json](./230287-terminus-machina.json) |
 | Terminus: Ultiverse | 288755 | [288755-terminus-ultiverse.json](./288755-terminus-ultiverse.json) |
+| Termite | 377177 | [377177-termite.json](./377177-termite.json) |
 | Terra | 295236 | [295236-terra.json](./295236-terra.json) |
 | Terra Alia | 279404 | [279404-terra-alia.json](./279404-terra-alia.json) |
 | Terra Cresta II | 37728 | [37728-terra-cresta-ii.json](./37728-terra-cresta-ii.json) |
@@ -4527,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warrior of Wisdom | 173784 | [173784-the-warrior-of-wisdom.json](./173784-the-warrior-of-wisdom.json) |
 | The Wars II Evolution | 255725 | [255725-the-wars-ii-evolution.json](./255725-the-wars-ii-evolution.json) |
 | The Wasted Knight | 207325 | [207325-the-wasted-knight.json](./207325-the-wasted-knight.json) |
+| The Watch | 377135 | [377135-the-watch.json](./377135-the-watch.json) |
 | The Watcher | 238515 | [238515-the-watcher.json](./238515-the-watcher.json) |
 | The Watcher | 413734 | [413734-the-watcher.json](./413734-the-watcher.json) |
 | The Watchmaker | 82091 | [82091-the-watchmaker.json](./82091-the-watchmaker.json) |
@@ -5026,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TIC's Revenge | 332243 | [332243-tics-revenge.json](./332243-tics-revenge.json) |
 | Tichi3D | 236830 | [236830-tichi3d.json](./236830-tichi3d.json) |
 | Tichu | 156643 | [156643-tichu.json](./156643-tichu.json) |
+| Tichu | 377164 | [377164-tichu.json](./377164-tichu.json) |
 | Tick Hop 2 | 391186 | [391186-tick-hop-2.json](./391186-tick-hop-2.json) |
 | Tick Tock Clock | 308235 | [308235-tick-tock-clock.json](./308235-tick-tock-clock.json) |
 | Ticket to Earth | 38757 | [38757-ticket-to-earth.json](./38757-ticket-to-earth.json) |
