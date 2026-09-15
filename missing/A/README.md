@@ -543,9 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II: HD Edition - The Forgotten | 9951 | [9951-age-of-empires-ii-hd-edition-the-forgotten.json](./9951-age-of-empires-ii-hd-edition-the-forgotten.json) |
 | Age of Empires III Mobile | 144347 | [144347-age-of-empires-iii-mobile.json](./144347-age-of-empires-iii-mobile.json) |
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
-| Age of Empires III: Definitive Edition - The Complete History | 205251 | [205251-age-of-empires-iii-definitive-edition-the-complete-history.json](./205251-age-of-empires-iii-definitive-edition-the-complete-history.json) |
 | Age of Empires III: The Asian Dynasties Mobile | 145574 | [145574-age-of-empires-iii-the-asian-dynasties-mobile.json](./145574-age-of-empires-iii-the-asian-dynasties-mobile.json) |
-| Age of Empires IV: Anniversary Edition | 221950 | [221950-age-of-empires-iv-anniversary-edition.json](./221950-age-of-empires-iv-anniversary-edition.json) |
 | Age of Empires: Pocket PC Edition | 145568 | [145568-age-of-empires-pocket-pc-edition.json](./145568-age-of-empires-pocket-pc-edition.json) |
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Expansion | 391049 | [391049-age-of-expansion.json](./391049-age-of-expansion.json) |
