@@ -4572,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Knight Prequel | 277857 | [277857-soul-knight-prequel.json](./277857-soul-knight-prequel.json) |
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
 | Soul Locus | 35754 | [35754-soul-locus.json](./35754-soul-locus.json) |
+| Soul Machine | 351707 | [351707-soul-machine.json](./351707-soul-machine.json) |
 | Soul Master | 180288 | [180288-soul-master.json](./180288-soul-master.json) |
 | Soul Master | 66669 | [66669-soul-master.json](./66669-soul-master.json) |
 | Soul Mates | 340400 | [340400-soul-mates.json](./340400-soul-mates.json) |
@@ -5871,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Impact | 117035 | [117035-star-impact.json](./117035-star-impact.json) |
 | Star in the Hollow | 217302 | [217302-star-in-the-hollow.json](./217302-star-in-the-hollow.json) |
 | Star Jolt | 127960 | [127960-star-jolt.json](./127960-star-jolt.json) |
+| Star Legacy | 351693 | [351693-star-legacy.json](./351693-star-legacy.json) |
 | Star Legacy VR | 261782 | [261782-star-legacy-vr.json](./261782-star-legacy-vr.json) |
 | Star Legends Pro (Dreamsky) | 97168 | [97168-star-legends-pro-dreamsky.json](./97168-star-legends-pro-dreamsky.json) |
 | Star Loot | 348259 | [348259-star-loot.json](./348259-star-loot.json) |
@@ -8168,6 +8170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
 | Super Ultimate Fighters X | 381710 | [381710-super-ultimate-fighters-x.json](./381710-super-ultimate-fighters-x.json) |
 | Super Ultra Monster Smash! | 51597 | [51597-super-ultra-monster-smash.json](./51597-super-ultra-monster-smash.json) |
+| Super Ultra Mustard Man | 351737 | [351737-super-ultra-mustard-man.json](./351737-super-ultra-mustard-man.json) |
 | Super Ultra Star Shooter | 85417 | [85417-super-ultra-star-shooter.json](./85417-super-ultra-star-shooter.json) |
 | Super Uwol | 299173 | [299173-super-uwol.json](./299173-super-uwol.json) |
 | Super Vadimka II: Revenge of Dr. Kulik | 194612 | [194612-super-vadimka-ii-revenge-of-dr-kulik.json](./194612-super-vadimka-ii-revenge-of-dr-kulik.json) |
