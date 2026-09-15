@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard EX | 115018 | [115018-cardfight-vanguard-ex.json](./115018-cardfight-vanguard-ex.json) |
 | Cardfight!! Vanguard Zero | 124770 | [124770-cardfight-vanguard-zero.json](./124770-cardfight-vanguard-zero.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
+| Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.2 DZ-BT05 Omniscient Awakening | 351113 | [351113-cardfight-vanguard-dear-days-2-card-unlock-vol-2-dz-bt05-omniscient-awakening.json](./351113-cardfight-vanguard-dear-days-2-card-unlock-vol-2-dz-bt05-omniscient-awakening.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.6 | 375180 | [375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json](./375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.7 | 375179 | [375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json](./375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.8 | 375178 | [375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json](./375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json) |
@@ -703,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Dash | 384544 | [384544-cash-dash.json](./384544-cash-dash.json) |
 | Cash Horse - Match 3 Puzzle Adventure | 141793 | [141793-cash-horse-match-3-puzzle-adventure.json](./141793-cash-horse-match-3-puzzle-adventure.json) |
 | Cash Sprint | 384674 | [384674-cash-sprint.json](./384674-cash-sprint.json) |
+| Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
 | Casino Boss Simulator | 278701 | [278701-casino-boss-simulator.json](./278701-casino-boss-simulator.json) |
 | Casino Casualty | 365099 | [365099-casino-casualty.json](./365099-casino-casualty.json) |
@@ -953,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Hina | 185590 | [185590-catch-hina.json](./185590-catch-hina.json) |
 | Catch Idle: Dimension Warp Story | 208038 | [208038-catch-idle-dimension-warp-story.json](./208038-catch-idle-dimension-warp-story.json) |
 | Catch Me If You Can | 143716 | [143716-catch-me-if-you-can.json](./143716-catch-me-if-you-can.json) |
+| Catch Me If You Can | 351088 | [351088-catch-me-if-you-can.json](./351088-catch-me-if-you-can.json) |
 | Catch My Color | 295275 | [295275-catch-my-color.json](./295275-catch-my-color.json) |
 | Catch Pokémon | 341322 | [341322-catch-pokemon.json](./341322-catch-pokemon.json) |
 | Catch the Balls | 348273 | [348273-catch-the-balls.json](./348273-catch-the-balls.json) |
@@ -1235,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chai Glide | 414443 | [414443-chai-glide.json](./414443-chai-glide.json) |
 | Chain Break | 159355 | [159355-chain-break.json](./159355-chain-break.json) |
 | Chain Champs | 177011 | [177011-chain-champs.json](./177011-chain-champs.json) |
+| Chain Corp | 351115 | [351115-chain-corp.json](./351115-chain-corp.json) |
 | Chain Crusher | 124771 | [124771-chain-crusher.json](./124771-chain-crusher.json) |
 | Chain of Eroticism | 163400 | [163400-chain-of-eroticism.json](./163400-chain-of-eroticism.json) |
 | Chain Quest | 200106 | [200106-chain-quest.json](./200106-chain-quest.json) |
@@ -1677,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
 | Chimp Memory | 319391 | [319391-chimp-memory.json](./319391-chimp-memory.json) |
 | Chimpact | 63851 | [63851-chimpact.json](./63851-chimpact.json) |
+| Chimpanzini Bananini | 351093 | [351093-chimpanzini-bananini.json](./351093-chimpanzini-bananini.json) |
 | Chimparty | 103404 | [103404-chimparty.json](./103404-chimparty.json) |
 | Chinatown | 272012 | [272012-chinatown.json](./272012-chinatown.json) |
 | Chinese Characters | 223507 | [223507-chinese-characters.json](./223507-chinese-characters.json) |
@@ -3342,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Miners | 384084 | [384084-core-miners.json](./384084-core-miners.json) |
 | Core of Darkness | 117681 | [117681-core-of-darkness.json](./117681-core-of-darkness.json) |
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
+| Core.Sys | 351094 | [351094-core-sys.json](./351094-core-sys.json) |
 | Corepunk | 127513 | [127513-corepunk.json](./127513-corepunk.json) |
 | Coreupt | 130328 | [130328-coreupt.json](./130328-coreupt.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
@@ -4460,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult Game | 362875 | [362875-cult-game.json](./362875-cult-game.json) |
 | Cult Master: Ultraman ni Miserarete | 60529 | [60529-cult-master-ultraman-ni-miserarete.json](./60529-cult-master-ultraman-ni-miserarete.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
+| Cult of Pin | 351132 | [351132-cult-of-pin.json](./351132-cult-of-pin.json) |
 | Cult of Shadows | 374069 | [374069-cult-of-shadows.json](./374069-cult-of-shadows.json) |
 | Cult of the Abyss | 122391 | [122391-cult-of-the-abyss.json](./122391-cult-of-the-abyss.json) |
 | Cult of the Cat | 269274 | [269274-cult-of-the-cat.json](./269274-cult-of-the-cat.json) |
