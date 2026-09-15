@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuman | 67330 | [67330-yakuman.json](./67330-yakuman.json) |
 | Yakuza 2 Restored | 349856 | [349856-yakuza-2-restored.json](./349856-yakuza-2-restored.json) |
 | Yakuza 5 Remastered | 103017 | [103017-yakuza-5-remastered.json](./103017-yakuza-5-remastered.json) |
+| Yakuza Kiwami & Yakuza Kiwami 2 Bundle | 370796 | [370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json](./370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json) |
 | Yakuza Kiwami 3 & Dark Ties: Flip Phone Customization Pack | 375193 | [375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json](./375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json) |
 | Yakuza Kiwami 3 & Dark Ties: Legendary BGM CD Pack | 375194 | [375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json](./375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json) |
 | Yakuza Kiwami 3 & Dark Ties: Legendary Lads & Gals Set | 375195 | [375195-yakuza-kiwami-3-and-dark-ties-legendary-lads-and-gals-set.json](./375195-yakuza-kiwami-3-and-dark-ties-legendary-lads-and-gals-set.json) |
@@ -449,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Nikki: Mod(ified) Project | 229682 | [229682-yume-nikki-mod-ified-project.json](./229682-yume-nikki-mod-ified-project.json) |
 | Yume Nikki: Solitude | 202349 | [202349-yume-nikki-solitude.json](./202349-yume-nikki-solitude.json) |
 | Yume Nisshi | 145033 | [145033-yume-nisshi.json](./145033-yume-nisshi.json) |
+| Yume no Tamakura | 370778 | [370778-yume-no-tamakura.json](./370778-yume-no-tamakura.json) |
 | Yume Oukoku to Nemureru 100-nin no Ouji-sama | 109062 | [109062-yume-oukoku-to-nemureru-100-nin-no-ouji-sama.json](./109062-yume-oukoku-to-nemureru-100-nin-no-ouji-sama.json) |
 | Yume Penguin Monogatari | 48596 | [48596-yume-penguin-monogatari.json](./48596-yume-penguin-monogatari.json) |
 | Yume Puzzle | 367953 | [367953-yume-puzzle.json](./367953-yume-puzzle.json) |
