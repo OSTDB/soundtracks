@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Fly Helicopters | 117104 | [117104-cats-fly-helicopters.json](./117104-cats-fly-helicopters.json) |
 | Cats Games + Say Cheese! + Soko Games | 335105 | [335105-cats-games-say-cheese-soko-games.json](./335105-cats-games-say-cheese-soko-games.json) |
 | Cats Hidden Around the World 2 | 306340 | [306340-cats-hidden-around-the-world-2.json](./306340-cats-hidden-around-the-world-2.json) |
+| Cats Hidden in Chang'an | 351716 | [351716-cats-hidden-in-changan.json](./351716-cats-hidden-in-changan.json) |
 | Cats Hidden in China | 272861 | [272861-cats-hidden-in-china.json](./272861-cats-hidden-in-china.json) |
 | Cats Hidden in Paris: Extra Level | 255705 | [255705-cats-hidden-in-paris-extra-level.json](./255705-cats-hidden-in-paris-extra-level.json) |
 | Cats Hiding in 3D | 318209 | [318209-cats-hiding-in-3d.json](./318209-cats-hiding-in-3d.json) |
@@ -3100,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
 | Conker's Other Bad Fur Day | 77970 | [77970-conkers-other-bad-fur-day.json](./77970-conkers-other-bad-fur-day.json) |
 | Conker's Pocket Tales | 1424 | [1424-conkers-pocket-tales.json](./1424-conkers-pocket-tales.json) |
+| Conlutus | 351717 | [351717-conlutus.json](./351717-conlutus.json) |
 | Connect | 314051 | [314051-connect.json](./314051-connect.json) |
 | Connect 4 | 79945 | [79945-connect-4.json](./79945-connect-4.json) |
 | Connect Dots | 396371 | [396371-connect-dots.json](./396371-connect-dots.json) |
@@ -3193,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction: Action - Map: Jumpluff | 354502 | [354502-construction-action-map-jumpluff.json](./354502-construction-action-map-jumpluff.json) |
 | Construction: Action - Map: Lure Ball | 354514 | [354514-construction-action-map-lure-ball.json](./354514-construction-action-map-lure-ball.json) |
 | Construction: Action - Map: Muk | 354504 | [354504-construction-action-map-muk.json](./354504-construction-action-map-muk.json) |
+| Construction: Action - Map: Oddish | 351676 | [351676-construction-action-map-oddish.json](./351676-construction-action-map-oddish.json) |
 | Construction: Action - Map: Parasect | 354506 | [354506-construction-action-map-parasect.json](./354506-construction-action-map-parasect.json) |
 | Construction: Action - Map: Primeape | 354508 | [354508-construction-action-map-primeape.json](./354508-construction-action-map-primeape.json) |
 | Construction: Action - Player: E-46-# - Desert Shaman | 354489 | [354489-construction-action-player-e-46-desert-shaman.json](./354489-construction-action-player-e-46-desert-shaman.json) |
