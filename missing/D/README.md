@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy Geometric Shapes | 172139 | [172139-destroy-geometric-shapes.json](./172139-destroy-geometric-shapes.json) |
 | Destroy the Castle | 349843 | [349843-destroy-the-castle.json](./349843-destroy-the-castle.json) |
 | Destroy the Cubes | 156133 | [156133-destroy-the-cubes.json](./156133-destroy-the-cubes.json) |
+| Destroy the Demon Army | 370196 | [370196-destroy-the-demon-army.json](./370196-destroy-the-demon-army.json) |
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
 | Destroy the Wall | 250938 | [250938-destroy-the-wall.json](./250938-destroy-the-wall.json) |
 | Destroy Your Home | 333531 | [333531-destroy-your-home.json](./333531-destroy-your-home.json) |
