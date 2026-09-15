@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Etheria | 266788 | [266788-echoes-of-etheria.json](./266788-echoes-of-etheria.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
+| Echoes of Nara | 348321 | [348321-echoes-of-nara.json](./348321-echoes-of-nara.json) |
 | Echoes of Nocturnal Chords | 284335 | [284335-echoes-of-nocturnal-chords.json](./284335-echoes-of-nocturnal-chords.json) |
 | Echoes of Sin: Confusion | 400239 | [400239-echoes-of-sin-confusion.json](./400239-echoes-of-sin-confusion.json) |
 | Echoes of Somewhere: Series 1 | 240801 | [240801-echoes-of-somewhere-series-1.json](./240801-echoes-of-somewhere-series-1.json) |
