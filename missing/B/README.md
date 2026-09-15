@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Legend of the Crystal Jiggy | 172671 | [172671-banjo-kazooie-legend-of-the-crystal-jiggy.json](./172671-banjo-kazooie-legend-of-the-crystal-jiggy.json) |
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
 | Banjo-Threeie | 200644 | [200644-banjo-threeie.json](./200644-banjo-threeie.json) |
+| Bank | 364595 | [364595-bank.json](./364595-bank.json) |
 | Bank Panic | 6083 | [6083-bank-panic.json](./6083-bank-panic.json) |
 | Bank Robber | 319569 | [319569-bank-robber.json](./319569-bank-robber.json) |
 | Bank Robbery Royale: Battle Simulator | 100937 | [100937-bank-robbery-royale-battle-simulator.json](./100937-bank-robbery-royale-battle-simulator.json) |
@@ -2251,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
 | Blade of God 2 | 174805 | [174805-blade-of-god-2.json](./174805-blade-of-god-2.json) |
+| Blade of Jinshu | 364573 | [364573-blade-of-jinshu.json](./364573-blade-of-jinshu.json) |
 | Blade of Ten | 207318 | [207318-blade-of-ten.json](./207318-blade-of-ten.json) |
 | Blade Reborn: Forge Your Destiny | 102787 | [102787-blade-reborn-forge-your-destiny.json](./102787-blade-reborn-forge-your-destiny.json) |
 | Blade Runner 2033: Labyrinth | 255093 | [255093-blade-runner-2033-labyrinth.json](./255093-blade-runner-2033-labyrinth.json) |
