@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T00:18:41.479Z",
-  "total_missing": 71705,
+  "generated_at": "2026-09-15T00:33:35.770Z",
+  "total_missing": 71755,
   "games": [
     {
       "igdb_id": 306086,
@@ -558,6 +558,11 @@
       "file": "missing/0-9/70890-100-pics-quiz.json"
     },
     {
+      "igdb_id": 379455,
+      "game_name": "100 Radioactive Cats",
+      "file": "missing/0-9/379455-100-radioactive-cats.json"
+    },
+    {
       "igdb_id": 22347,
       "game_name": "100 Rogues",
       "file": "missing/0-9/22347-100-rogues.json"
@@ -816,6 +821,11 @@
       "igdb_id": 258997,
       "game_name": "10Minutes",
       "file": "missing/0-9/258997-10minutes.json"
+    },
+    {
+      "igdb_id": 379454,
+      "game_name": "11 Trials of Raz",
+      "file": "missing/0-9/379454-11-trials-of-raz.json"
     },
     {
       "igdb_id": 213381,
@@ -2058,6 +2068,11 @@
       "file": "missing/0-9/342062-4004ripper.json"
     },
     {
+      "igdb_id": 379456,
+      "game_name": "404: Game Not Found",
+      "file": "missing/0-9/379456-404-game-not-found.json"
+    },
+    {
       "igdb_id": 157721,
       "game_name": "4096",
       "file": "missing/0-9/157721-4096.json"
@@ -2678,9 +2693,34 @@
       "file": "missing/A/183047-a-cat-cafe-story.json"
     },
     {
+      "igdb_id": 379457,
+      "game_name": "A Cat named Gossamergoober",
+      "file": "missing/A/379457-a-cat-named-gossamergoober.json"
+    },
+    {
+      "igdb_id": 379464,
+      "game_name": "A Challenging Game About Parkour",
+      "file": "missing/A/379464-a-challenging-game-about-parkour.json"
+    },
+    {
+      "igdb_id": 379463,
+      "game_name": "A Chicken In The Office",
+      "file": "missing/A/379463-a-chicken-in-the-office.json"
+    },
+    {
+      "igdb_id": 379470,
+      "game_name": "A Christmas Carol: But With Anime Girls",
+      "file": "missing/A/379470-a-christmas-carol-but-with-anime-girls.json"
+    },
+    {
       "igdb_id": 312366,
       "game_name": "A Christmas Gift: Timmy's Final Gift",
       "file": "missing/A/312366-a-christmas-gift-timmys-final-gift.json"
+    },
+    {
+      "igdb_id": 379469,
+      "game_name": "A Clareira",
+      "file": "missing/A/379469-a-clareira.json"
     },
     {
       "igdb_id": 245879,
@@ -2716,6 +2756,11 @@
       "igdb_id": 145672,
       "game_name": "A Cosmic Forest",
       "file": "missing/A/145672-a-cosmic-forest.json"
+    },
+    {
+      "igdb_id": 379467,
+      "game_name": "A Cozy Classics: Color Lines",
+      "file": "missing/A/379467-a-cozy-classics-color-lines.json"
     },
     {
       "igdb_id": 158223,
@@ -3508,6 +3553,11 @@
       "file": "missing/A/75164-a-wonder.json"
     },
     {
+      "igdb_id": 379452,
+      "game_name": "A World At War Tactics",
+      "file": "missing/A/379452-a-world-at-war-tactics.json"
+    },
+    {
       "igdb_id": 290919,
       "game_name": "A Zombie Tail",
       "file": "missing/A/290919-a-zombie-tail.json"
@@ -3998,6 +4048,11 @@
       "file": "missing/A/38353-accele-brid.json"
     },
     {
+      "igdb_id": 379458,
+      "game_name": "Accelerate",
+      "file": "missing/A/379458-accelerate.json"
+    },
+    {
       "igdb_id": 44596,
       "game_name": "Acceleration of Suguri X-Edition",
       "file": "missing/A/44596-acceleration-of-suguri-x-edition.json"
@@ -4008,9 +4063,19 @@
       "file": "missing/A/30251-acceleration-of-suguri-x-edition-hd.json"
     },
     {
+      "igdb_id": 379459,
+      "game_name": "Acceptable Losses",
+      "file": "missing/A/379459-acceptable-losses.json"
+    },
+    {
       "igdb_id": 174269,
       "game_name": "Access Code Zero",
       "file": "missing/A/174269-access-code-zero.json"
+    },
+    {
+      "igdb_id": 379460,
+      "game_name": "Accidentally",
+      "file": "missing/A/379460-accidentally.json"
     },
     {
       "igdb_id": 37156,
@@ -4026,6 +4091,11 @@
       "igdb_id": 288743,
       "game_name": "Accurate Shot",
       "file": "missing/A/288743-accurate-shot.json"
+    },
+    {
+      "igdb_id": 379461,
+      "game_name": "Accurate Tag",
+      "file": "missing/A/379461-accurate-tag.json"
     },
     {
       "igdb_id": 292017,
@@ -4148,6 +4218,16 @@
       "file": "missing/A/45294-aces-of-war.json"
     },
     {
+      "igdb_id": 379462,
+      "game_name": "Aces Over Airfields",
+      "file": "missing/A/379462-aces-over-airfields.json"
+    },
+    {
+      "igdb_id": 379465,
+      "game_name": "AceSurvivor",
+      "file": "missing/A/379465-acesurvivor.json"
+    },
+    {
       "igdb_id": 150121,
       "game_name": "Acheron's Souls",
       "file": "missing/A/150121-acherons-souls.json"
@@ -4203,6 +4283,11 @@
       "file": "missing/A/129795-acm-1918.json"
     },
     {
+      "igdb_id": 379468,
+      "game_name": "Aconitum",
+      "file": "missing/A/379468-aconitum.json"
+    },
+    {
       "igdb_id": 293078,
       "game_name": "Acorn Hunt",
       "file": "missing/A/293078-acorn-hunt.json"
@@ -4218,6 +4303,11 @@
       "file": "missing/A/307328-acorn-a-thon.json"
     },
     {
+      "igdb_id": 379466,
+      "game_name": "Acquaint",
+      "file": "missing/A/379466-acquaint.json"
+    },
+    {
       "igdb_id": 132868,
       "game_name": "Acquaria",
       "file": "missing/A/132868-acquaria.json"
@@ -4226,6 +4316,11 @@
       "igdb_id": 148502,
       "game_name": "Acquisition War",
       "file": "missing/A/148502-acquisition-war.json"
+    },
+    {
+      "igdb_id": 379471,
+      "game_name": "Acroama: Company of Strays",
+      "file": "missing/A/379471-acroama-company-of-strays.json"
     },
     {
       "igdb_id": 108440,
@@ -4333,9 +4428,19 @@
       "file": "missing/A/24858-action-quest.json"
     },
     {
+      "igdb_id": 379472,
+      "game_name": "Action Study Runner",
+      "file": "missing/A/379472-action-study-runner.json"
+    },
+    {
       "igdb_id": 107931,
       "game_name": "Actionpaint VR",
       "file": "missing/A/107931-actionpaint-vr.json"
+    },
+    {
+      "igdb_id": 379473,
+      "game_name": "Active 2048 Body Control",
+      "file": "missing/A/379473-active-2048-body-control.json"
     },
     {
       "igdb_id": 233008,
@@ -4376,6 +4481,11 @@
       "igdb_id": 141161,
       "game_name": "Actually: There's nothing",
       "file": "missing/A/141161-actually-theres-nothing.json"
+    },
+    {
+      "igdb_id": 379474,
+      "game_name": "Actuator: Overt Abnormality",
+      "file": "missing/A/379474-actuator-overt-abnormality.json"
     },
     {
       "igdb_id": 137679,
@@ -4463,6 +4573,11 @@
       "file": "missing/A/377088-adrift.json"
     },
     {
+      "igdb_id": 379478,
+      "game_name": "Aduk: Curse of the Spirits",
+      "file": "missing/A/379478-aduk-curse-of-the-spirits.json"
+    },
+    {
       "igdb_id": 111066,
       "game_name": "Adult Toy Store",
       "file": "missing/A/111066-adult-toy-store.json"
@@ -4478,6 +4593,11 @@
       "file": "missing/A/236813-advance-wars.json"
     },
     {
+      "igdb_id": 379476,
+      "game_name": "Advance, Fish!",
+      "file": "missing/A/379476-advance-fish.json"
+    },
+    {
       "igdb_id": 48113,
       "game_name": "Advanced Dungeons & Dragons: DragonStrike",
       "file": "missing/A/48113-advanced-dungeons-and-dragons-dragonstrike.json"
@@ -4488,9 +4608,19 @@
       "file": "missing/A/34557-advanced-gaming-platform-epica.json"
     },
     {
+      "igdb_id": 379477,
+      "game_name": "Advanced Kick Challenge",
+      "file": "missing/A/379477-advanced-kick-challenge.json"
+    },
+    {
       "igdb_id": 236271,
       "game_name": "Advenger of Stuart",
       "file": "missing/A/236271-advenger-of-stuart.json"
+    },
+    {
+      "igdb_id": 379475,
+      "game_name": "Advent Calendar",
+      "file": "missing/A/379475-advent-calendar.json"
     },
     {
       "igdb_id": 305193,
@@ -4571,6 +4701,11 @@
       "igdb_id": 227853,
       "game_name": "Adventure of Egypt",
       "file": "missing/A/227853-adventure-of-egypt.json"
+    },
+    {
+      "igdb_id": 379480,
+      "game_name": "Adventure of Realms",
+      "file": "missing/A/379480-adventure-of-realms.json"
     },
     {
       "igdb_id": 31817,
@@ -7598,6 +7733,11 @@
       "file": "missing/A/189141-alchera.json"
     },
     {
+      "igdb_id": 379447,
+      "game_name": "Alchimist: Secret of the Worlds",
+      "file": "missing/A/379447-alchimist-secret-of-the-worlds.json"
+    },
+    {
       "igdb_id": 199097,
       "game_name": "Alcohol Empire",
       "file": "missing/A/199097-alcohol-empire.json"
@@ -8181,6 +8321,11 @@
       "igdb_id": 195691,
       "game_name": "Alien Extraction",
       "file": "missing/A/195691-alien-extraction.json"
+    },
+    {
+      "igdb_id": 379446,
+      "game_name": "Alien Fish World VR",
+      "file": "missing/A/379446-alien-fish-world-vr.json"
     },
     {
       "igdb_id": 240500,
@@ -10893,6 +11038,11 @@
       "file": "missing/A/20471-anarcute.json"
     },
     {
+      "igdb_id": 379449,
+      "game_name": "Anasozas: Another Surreal World",
+      "file": "missing/A/379449-anasozas-another-surreal-world.json"
+    },
+    {
       "igdb_id": 208394,
       "game_name": "Anastasia",
       "file": "missing/A/208394-anastasia.json"
@@ -13061,6 +13211,16 @@
       "igdb_id": 156662,
       "game_name": "Another Warfare",
       "file": "missing/A/156662-another-warfare.json"
+    },
+    {
+      "igdb_id": 379448,
+      "game_name": "Another World Adventures",
+      "file": "missing/A/379448-another-world-adventures.json"
+    },
+    {
+      "igdb_id": 379450,
+      "game_name": "Another World: Pirates And The Great Old Gods",
+      "file": "missing/A/379450-another-world-pirates-and-the-great-old-gods.json"
     },
     {
       "igdb_id": 374049,
@@ -17716,6 +17876,11 @@
       "igdb_id": 299596,
       "game_name": "Ashen Sky",
       "file": "missing/A/299596-ashen-sky.json"
+    },
+    {
+      "igdb_id": 379451,
+      "game_name": "Ashen World",
+      "file": "missing/A/379451-ashen-world.json"
     },
     {
       "igdb_id": 405612,
@@ -29293,6 +29458,11 @@
       "file": "missing/B/150032-berserk-boy.json"
     },
     {
+      "igdb_id": 379453,
+      "game_name": "Berserk World",
+      "file": "missing/B/379453-berserk-world.json"
+    },
+    {
       "igdb_id": 390633,
       "game_name": "Berserker 2: The Saga of Hilde",
       "file": "missing/B/390633-berserker-2-the-saga-of-hilde.json"
@@ -32081,6 +32251,11 @@
       "igdb_id": 68600,
       "game_name": "Black Friday: The Game",
       "file": "missing/B/68600-black-friday-the-game.json"
+    },
+    {
+      "igdb_id": 379444,
+      "game_name": "Black Geyser: Couriers of Darkness - Tales of the Moon Cult",
+      "file": "missing/B/379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json"
     },
     {
       "igdb_id": 136436,
@@ -132898,6 +133073,11 @@
       "file": "missing/H/263791-hidden-cats-in-amusement-park.json"
     },
     {
+      "igdb_id": 379445,
+      "game_name": "Hidden Cats in Christmas",
+      "file": "missing/H/379445-hidden-cats-in-christmas.json"
+    },
+    {
       "igdb_id": 311486,
       "game_name": "Hidden Cats In Fallen Leaves Town",
       "file": "missing/H/311486-hidden-cats-in-fallen-leaves-town.json"
@@ -168371,6 +168551,11 @@
       "igdb_id": 166154,
       "game_name": "Loot Train",
       "file": "missing/L/166154-loot-train.json"
+    },
+    {
+      "igdb_id": 379479,
+      "game_name": "Loot Tycoon",
+      "file": "missing/L/379479-loot-tycoon.json"
     },
     {
       "igdb_id": 398330,
@@ -294038,6 +294223,11 @@
       "file": "missing/T/171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json"
     },
     {
+      "igdb_id": 379433,
+      "game_name": "Tales of Argento: Spirit of the Goddess",
+      "file": "missing/T/379433-tales-of-argento-spirit-of-the-goddess.json"
+    },
+    {
       "igdb_id": 266719,
       "game_name": "Tales of Arise: Beyond the Dawn",
       "file": "missing/T/266719-tales-of-arise-beyond-the-dawn.json"
@@ -294073,6 +294263,11 @@
       "file": "missing/T/80500-tales-of-destiny-directors-cut.json"
     },
     {
+      "igdb_id": 379434,
+      "game_name": "Tales of Echoes of the Symphony of Mana",
+      "file": "missing/T/379434-tales-of-echoes-of-the-symphony-of-mana.json"
+    },
+    {
       "igdb_id": 85418,
       "game_name": "Tales of Elastic Boy: Mission 1",
       "file": "missing/T/85418-tales-of-elastic-boy-mission-1.json"
@@ -294091,6 +294286,16 @@
       "igdb_id": 100158,
       "game_name": "Tales of Fandom Vol. 1: Cress Version",
       "file": "missing/T/100158-tales-of-fandom-vol-1-cress-version.json"
+    },
+    {
+      "igdb_id": 379432,
+      "game_name": "Tales of Fear: Episode Zero",
+      "file": "missing/T/379432-tales-of-fear-episode-zero.json"
+    },
+    {
+      "igdb_id": 379435,
+      "game_name": "Tales of Fearless",
+      "file": "missing/T/379435-tales-of-fearless.json"
     },
     {
       "igdb_id": 414437,
@@ -294208,6 +294413,11 @@
       "file": "missing/T/225103-tales-of-spark.json"
     },
     {
+      "igdb_id": 379431,
+      "game_name": "Tales of Survival Horror",
+      "file": "missing/T/379431-tales-of-survival-horror.json"
+    },
+    {
       "igdb_id": 222629,
       "game_name": "Tales of Symphonia: Dawn of the New World",
       "file": "missing/T/222629-tales-of-symphonia-dawn-of-the-new-world.json"
@@ -294303,6 +294513,16 @@
       "file": "missing/T/135808-tales-of-tyria.json"
     },
     {
+      "igdb_id": 379436,
+      "game_name": "Tales of Valkyrie",
+      "file": "missing/T/379436-tales-of-valkyrie.json"
+    },
+    {
+      "igdb_id": 379437,
+      "game_name": "Tales of Violet Valley",
+      "file": "missing/T/379437-tales-of-violet-valley.json"
+    },
+    {
       "igdb_id": 110075,
       "game_name": "Tales Of Wedding Rings VR",
       "file": "missing/T/110075-tales-of-wedding-rings-vr.json"
@@ -294311,6 +294531,11 @@
       "igdb_id": 152376,
       "game_name": "Tales of Wild",
       "file": "missing/T/152376-tales-of-wild.json"
+    },
+    {
+      "igdb_id": 379438,
+      "game_name": "Tales of Wind Online",
+      "file": "missing/T/379438-tales-of-wind-online.json"
     },
     {
       "igdb_id": 66046,
@@ -294326,6 +294551,11 @@
       "igdb_id": 375173,
       "game_name": "Tales of Xillia Remastered: Super Growth Support Herb Set",
       "file": "missing/T/375173-tales-of-xillia-remastered-super-growth-support-herb-set.json"
+    },
+    {
+      "igdb_id": 379440,
+      "game_name": "Tales of Zizada",
+      "file": "missing/T/379440-tales-of-zizada.json"
     },
     {
       "igdb_id": 85428,
@@ -313193,6 +313423,16 @@
       "file": "missing/T/85446-the-tales-of-bearsworth-manor-puzzling-pages.json"
     },
     {
+      "igdb_id": 379439,
+      "game_name": "The Tales of the Magical Space Dough: Rebaked",
+      "file": "missing/T/379439-the-tales-of-the-magical-space-dough-rebaked.json"
+    },
+    {
+      "igdb_id": 379441,
+      "game_name": "The Tales of Wonderlend",
+      "file": "missing/T/379441-the-tales-of-wonderlend.json"
+    },
+    {
       "igdb_id": 305040,
       "game_name": "The Talos Principle II: Road to Elysium",
       "file": "missing/T/305040-the-talos-principle-ii-road-to-elysium.json"
@@ -313496,6 +313736,11 @@
       "igdb_id": 58777,
       "game_name": "The Three Decoders 1 - Riddle of the Ring",
       "file": "missing/T/58777-the-three-decoders-1-riddle-of-the-ring.json"
+    },
+    {
+      "igdb_id": 379442,
+      "game_name": "The Three Kingdoms: The Tales of Jian An",
+      "file": "missing/T/379442-the-three-kingdoms-the-tales-of-jian-an.json"
     },
     {
       "igdb_id": 186262,
@@ -324551,6 +324796,11 @@
       "igdb_id": 317239,
       "game_name": "Touhou: Hotline Sanzu",
       "file": "missing/T/317239-touhou-hotline-sanzu.json"
+    },
+    {
+      "igdb_id": 379443,
+      "game_name": "Touhou: Tales of the Scarlet",
+      "file": "missing/T/379443-touhou-tales-of-the-scarlet.json"
     },
     {
       "igdb_id": 181928,
