@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Cardboard | 201286 | [201286-beneath-the-cardboard.json](./201286-beneath-the-cardboard.json) |
 | Beneath the Cherry Trees | 90567 | [90567-beneath-the-cherry-trees.json](./90567-beneath-the-cherry-trees.json) |
 | Beneath the Lighthouse | 59378 | [59378-beneath-the-lighthouse.json](./59378-beneath-the-lighthouse.json) |
+| Beneath the Mind | 336630 | [336630-beneath-the-mind.json](./336630-beneath-the-mind.json) |
 | Beneath the Mountain | 173299 | [173299-beneath-the-mountain.json](./173299-beneath-the-mountain.json) |
 | Beneath The Rooftop Sky | 337696 | [337696-beneath-the-rooftop-sky.json](./337696-beneath-the-rooftop-sky.json) |
 | Beneath the Surface | 111630 | [111630-beneath-the-surface.json](./111630-beneath-the-surface.json) |
