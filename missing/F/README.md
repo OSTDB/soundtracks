@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finnish Pub Simulator | 326424 | [326424-finnish-pub-simulator.json](./326424-finnish-pub-simulator.json) |
 | FINSummerVR | 104059 | [104059-finsummervr.json](./104059-finsummervr.json) |
 | Fio Fizhook | 296365 | [296365-fio-fizhook.json](./296365-fio-fizhook.json) |
+| Fir Flowers and Hyacinths | 369636 | [369636-fir-flowers-and-hyacinths.json](./369636-fir-flowers-and-hyacinths.json) |
 | Fira | 173315 | [173315-fira.json](./173315-fira.json) |
 | Fire & Ice: The Daring Adventures of Cool Coyote | 12099 | [12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json](./12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json) |
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
@@ -1626,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Roner's: Remastered | 330734 | [330734-five-nights-at-roners-remastered.json](./330734-five-nights-at-roners-remastered.json) |
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
 | Five Nights At Stickman | 89037 | [89037-five-nights-at-stickman.json](./89037-five-nights-at-stickman.json) |
+| Five Nights At Treasure Island Simulator | 369659 | [369659-five-nights-at-treasure-island-simulator.json](./369659-five-nights-at-treasure-island-simulator.json) |
 | Five Nights at Treasure Island: Room Zero | 272819 | [272819-five-nights-at-treasure-island-room-zero.json](./272819-five-nights-at-treasure-island-room-zero.json) |
 | Five Nights at Treasure Island: Sister Location | 274981 | [274981-five-nights-at-treasure-island-sister-location.json](./274981-five-nights-at-treasure-island-sister-location.json) |
 | Five Nights at Wario's 4 | 280770 | [280770-five-nights-at-warios-4.json](./280770-five-nights-at-warios-4.json) |
@@ -1706,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Wings | 226423 | [226423-flappy-wings.json](./226423-flappy-wings.json) |
 | Flappy Wings | 381022 | [381022-flappy-wings.json](./381022-flappy-wings.json) |
 | Flappy: The Angry Bird | 144272 | [144272-flappy-the-angry-bird.json](./144272-flappy-the-angry-bird.json) |
+| FlappyParrot | 369655 | [369655-flappyparrot.json](./369655-flappyparrot.json) |
 | Flare Nuinui Quest | 210244 | [210244-flare-nuinui-quest.json](./210244-flare-nuinui-quest.json) |
 | Flare Nuinui Quest | 320719 | [320719-flare-nuinui-quest.json](./320719-flare-nuinui-quest.json) |
 | Flarebound | 373621 | [373621-flarebound.json](./373621-flarebound.json) |
@@ -2113,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fooaaahh! | 182451 | [182451-fooaaahh.json](./182451-fooaaahh.json) |
 | Food And Hotel Simulator Bundle: Road Cafe & Motel Business & Street Food | 399634 | [399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json](./399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json) |
 | Food Chain | 209464 | [209464-food-chain.json](./209464-food-chain.json) |
+| Food Chain | 369644 | [369644-food-chain.json](./369644-food-chain.json) |
 | Food Comes From Above | 157715 | [157715-food-comes-from-above.json](./157715-food-comes-from-above.json) |
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
 | Food Drive | 109721 | [109721-food-drive.json](./109721-food-drive.json) |
@@ -2817,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
 | Frog Minutes | 66061 | [66061-frog-minutes.json](./66061-frog-minutes.json) |
+| Frog Odyssey | 369622 | [369622-frog-odyssey.json](./369622-frog-odyssey.json) |
 | Frog on Ice | 100884 | [100884-frog-on-ice.json](./100884-frog-on-ice.json) |
 | Frog Quest | 240235 | [240235-frog-quest.json](./240235-frog-quest.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
