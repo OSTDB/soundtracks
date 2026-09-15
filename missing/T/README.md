@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Attendant | 181289 | [181289-the-attendant.json](./181289-the-attendant.json) |
 | The Attic: A Mystery Puzzle Game | 412363 | [412363-the-attic-a-mystery-puzzle-game.json](./412363-the-attic-a-mystery-puzzle-game.json) |
 | The Attic's a Dungeon ?! | 176431 | [176431-the-attics-a-dungeon.json](./176431-the-attics-a-dungeon.json) |
+| The Auction Game | 337199 | [337199-the-auction-game.json](./337199-the-auction-game.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
 | The Avengers | 86108 | [86108-the-avengers.json](./86108-the-avengers.json) |
 | The Awakened Avenger | 372467 | [372467-the-awakened-avenger.json](./372467-the-awakened-avenger.json) |
@@ -1919,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma 3: Bloodlines - Overly Attractive Teacher Skin | 401681 | [401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json](./401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json) |
 | The Coma: Recut - Limited Edition | 166241 | [166241-the-coma-recut-limited-edition.json](./166241-the-coma-recut-limited-edition.json) |
 | The Coma: Triple Threat Bundle | 338010 | [338010-the-coma-triple-threat-bundle.json](./338010-the-coma-triple-threat-bundle.json) |
+| The Combatribes | 337198 | [337198-the-combatribes.json](./337198-the-combatribes.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
 | The Complex | 119178 | [119178-the-complex.json](./119178-the-complex.json) |
@@ -4026,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Spirits of Ra | 2893 | [2893-the-seven-spirits-of-ra.json](./2893-the-seven-spirits-of-ra.json) |
 | The Seven Years War (1756-1763) | 13666 | [13666-the-seven-years-war-1756-1763.json](./13666-the-seven-years-war-1756-1763.json) |
 | The Seven Years War (1756-1763): Pomeranian War | 171610 | [171610-the-seven-years-war-1756-1763-pomeranian-war.json](./171610-the-seven-years-war-1756-1763-pomeranian-war.json) |
+| The Seventh Floor | 337152 | [337152-the-seventh-floor.json](./337152-the-seventh-floor.json) |
 | The Seventh Seal | 389595 | [389595-the-seventh-seal.json](./389595-the-seventh-seal.json) |
 | The Several Journeys of Reemus Chapter 2: The All-Knowing Parasite | 110311 | [110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json](./110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json) |
 | The Sewer Goblet: The Wu-Tang Clan and the Wu-Tang Baby | 93504 | [93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json](./93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json) |
@@ -4418,6 +4421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing | 264859 | [264859-the-thing.json](./264859-the-thing.json) |
 | The Thing at the Window | 221750 | [221750-the-thing-at-the-window.json](./221750-the-thing-at-the-window.json) |
 | The Thing You Can't Defeat | 251239 | [251239-the-thing-you-cant-defeat.json](./251239-the-thing-you-cant-defeat.json) |
+| The Third Pig | 337176 | [337176-the-third-pig.json](./337176-the-third-pig.json) |
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
 | The Three Decoders 1 - Riddle of the Ring | 58777 | [58777-the-three-decoders-1-riddle-of-the-ring.json](./58777-the-three-decoders-1-riddle-of-the-ring.json) |
 | The Three Kingdoms: The Tales of Jian An | 379442 | [379442-the-three-kingdoms-the-tales-of-jian-an.json](./379442-the-three-kingdoms-the-tales-of-jian-an.json) |
@@ -6367,6 +6371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TonpaQuest | 178043 | [178043-tonpaquest.json](./178043-tonpaquest.json) |
 | Tony & Friends in Kellogg's Land | 58272 | [58272-tony-and-friends-in-kelloggs-land.json](./58272-tony-and-friends-in-kelloggs-land.json) |
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
+| Tony and Jennie | 337166 | [337166-tony-and-jennie.json](./337166-tony-and-jennie.json) |
 | Tony Hawk: Ride | 2701 | [2701-tony-hawk-ride.json](./2701-tony-hawk-ride.json) |
 | Tony Hawk: Shred | 5230 | [5230-tony-hawk-shred.json](./5230-tony-hawk-shred.json) |
 | Tony Hawk's American Sk8land | 364480 | [364480-tony-hawks-american-sk8land.json](./364480-tony-hawks-american-sk8land.json) |
@@ -8083,6 +8088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Syndrome Kyuumei-hen | 65454 | [65454-twilight-syndrome-kyuumei-hen.json](./65454-twilight-syndrome-kyuumei-hen.json) |
 | Twilight Syndrome Saikai | 65456 | [65456-twilight-syndrome-saikai.json](./65456-twilight-syndrome-saikai.json) |
 | Twilight Syndrome Tansaku-hen | 65452 | [65452-twilight-syndrome-tansaku-hen.json](./65452-twilight-syndrome-tansaku-hen.json) |
+| Twilight Tales: Hollow's Store | 337195 | [337195-twilight-tales-hollows-store.json](./337195-twilight-tales-hollows-store.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
 | Twilight Wars | 211227 | [211227-twilight-wars.json](./211227-twilight-wars.json) |
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
