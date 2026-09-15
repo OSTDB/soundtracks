@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appa | 367951 | [367951-appa.json](./367951-appa.json) |
 | Appalachian Onslaught | 399090 | [399090-appalachian-onslaught.json](./399090-appalachian-onslaught.json) |
 | Appearances | 244774 | [244774-appearances.json](./244774-appearances.json) |
+| Appeeling Personality | 346103 | [346103-appeeling-personality.json](./346103-appeeling-personality.json) |
 | Appetite for Detestation | 147482 | [147482-appetite-for-detestation.json](./147482-appetite-for-detestation.json) |
 | Apple Bag | 280197 | [280197-apple-bag.json](./280197-apple-bag.json) |
 | Apple Cider Spider | 12254 | [12254-apple-cider-spider.json](./12254-apple-cider-spider.json) |
@@ -3350,11 +3351,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
 | Astro Dash | 156655 | [156655-astro-dash.json](./156655-astro-dash.json) |
 | Astro Defender | 364560 | [364560-astro-defender.json](./364560-astro-defender.json) |
+| Astro Destroyers | 346131 | [346131-astro-destroyers.json](./346131-astro-destroyers.json) |
 | Astro Duel Deluxe + Astro Duel 2 | 386215 | [386215-astro-duel-deluxe-astro-duel-2.json](./386215-astro-duel-deluxe-astro-duel-2.json) |
 | Astro Engineers | 249798 | [249798-astro-engineers.json](./249798-astro-engineers.json) |
 | Astro Fang: Super Machine | 48608 | [48608-astro-fang-super-machine.json](./48608-astro-fang-super-machine.json) |
 | Astro Fighter | 23049 | [23049-astro-fighter.json](./23049-astro-fighter.json) |
 | Astro Fighters 2 | 375991 | [375991-astro-fighters-2.json](./375991-astro-fighters-2.json) |
+| Astro Galaxy | 346140 | [346140-astro-galaxy.json](./346140-astro-galaxy.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
