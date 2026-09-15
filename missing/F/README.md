@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
 | Fatal Fury: City of the Wolves - Ken | 317831 | [317831-fatal-fury-city-of-the-wolves-ken.json](./317831-fatal-fury-city-of-the-wolves-ken.json) |
 | Fatal Fury: City of the Wolves - Season Pass 1 | 317833 | [317833-fatal-fury-city-of-the-wolves-season-pass-1.json](./317833-fatal-fury-city-of-the-wolves-season-pass-1.json) |
+| Fatal Fury: Wild Ambition | 346147 | [346147-fatal-fury-wild-ambition.json](./346147-fatal-fury-wild-ambition.json) |
 | Fatal Gaming | 417494 | [417494-fatal-gaming.json](./417494-fatal-gaming.json) |
 | Fatal Gem VR | 30863 | [30863-fatal-gem-vr.json](./30863-fatal-gem-vr.json) |
 | Fatal Heritage | 75150 | [75150-fatal-heritage.json](./75150-fatal-heritage.json) |
@@ -1571,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Minigame 2 | 273921 | [273921-fishing-minigame-2.json](./273921-fishing-minigame-2.json) |
 | Fishing Online | 274975 | [274975-fishing-online.json](./274975-fishing-online.json) |
 | Fishing Paradise 3D | 25744 | [25744-fishing-paradise-3d.json](./25744-fishing-paradise-3d.json) |
+| Fishing Pond Simulator | 346157 | [346157-fishing-pond-simulator.json](./346157-fishing-pond-simulator.json) |
 | Fishing Sea Adventure | 335089 | [335089-fishing-sea-adventure.json](./335089-fishing-sea-adventure.json) |
 | Fishing Sim World: Bass Pro Shops Edition | 170481 | [170481-fishing-sim-world-bass-pro-shops-edition.json](./170481-fishing-sim-world-bass-pro-shops-edition.json) |
 | Fishing Sim World: Pro Tour - Bass Pro Shops Equipment Pack | 170476 | [170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json](./170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json) |
@@ -1593,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Tycoon Simulator | 356076 | [356076-fishing-tycoon-simulator.json](./356076-fishing-tycoon-simulator.json) |
 | Fishing Universe | 285986 | [285986-fishing-universe.json](./285986-fishing-universe.json) |
 | Fishing Universe Simulator | 114416 | [114416-fishing-universe-simulator.json](./114416-fishing-universe-simulator.json) |
+| Fishing Up | 346129 | [346129-fishing-up.json](./346129-fishing-up.json) |
 | Fishing: Barents Sea - King Crab | 111647 | [111647-fishing-barents-sea-king-crab.json](./111647-fishing-barents-sea-king-crab.json) |
 | Fishing: North Atlantic - Enhanced Edition | 188055 | [188055-fishing-north-atlantic-enhanced-edition.json](./188055-fishing-north-atlantic-enhanced-edition.json) |
 | Fishlets: Natural Decor Pack | 313679 | [313679-fishlets-natural-decor-pack.json](./313679-fishlets-natural-decor-pack.json) |
