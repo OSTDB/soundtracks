@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mekabolt+ | 192300 | [192300-mekabolt.json](./192300-mekabolt.json) |
 | MekaFighters | 146350 | [146350-mekafighters.json](./146350-mekafighters.json) |
 | Mekazoo | 19203 | [19203-mekazoo.json](./19203-mekazoo.json) |
+| Melancholia Maze | 366305 | [366305-melancholia-maze.json](./366305-melancholia-maze.json) |
 | Melancholic Night | 399688 | [399688-melancholic-night.json](./399688-melancholic-night.json) |
 | Melancholy Love | 139483 | [139483-melancholy-love.json](./139483-melancholy-love.json) |
 | Melbits POD | 138236 | [138236-melbits-pod.json](./138236-melbits-pod.json) |
@@ -2183,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metathrone | 173771 | [173771-metathrone.json](./173771-metathrone.json) |
 | MetaTron | 33213 | [33213-metatron.json](./33213-metatron.json) |
 | Metaverse Keeper | 111984 | [111984-metaverse-keeper.json](./111984-metaverse-keeper.json) |
+| Metawork: Antique Shop Simulator | 366330 | [366330-metawork-antique-shop-simulator.json](./366330-metawork-antique-shop-simulator.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
 | MetaWorld | 31841 | [31841-metaworld.json](./31841-metaworld.json) |
 | Metempsychosis | 104052 | [104052-metempsychosis.json](./104052-metempsychosis.json) |
@@ -3434,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Flight 2 | 257368 | [257368-monkey-flight-2.json](./257368-monkey-flight-2.json) |
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
 | Monkey Fright | 257405 | [257405-monkey-fright.json](./257405-monkey-fright.json) |
+| Monkey Fruit Fight! | 366302 | [366302-monkey-fruit-fight.json](./366302-monkey-fruit-fight.json) |
 | Monkey Gang | 351007 | [351007-monkey-gang.json](./351007-monkey-gang.json) |
 | Monkey GO Happy | 97313 | [97313-monkey-go-happy.json](./97313-monkey-go-happy.json) |
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
