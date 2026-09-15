@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City: Paris Collector's Edition | 190743 | [190743-dark-city-paris-collectors-edition.json](./190743-dark-city-paris-collectors-edition.json) |
 | Dark Colors | 190235 | [190235-dark-colors.json](./190235-dark-colors.json) |
 | Dark Communion | 314283 | [314283-dark-communion.json](./314283-dark-communion.json) |
+| Dark Confrontation Chapter 1 | 337679 | [337679-dark-confrontation-chapter-1.json](./337679-dark-confrontation-chapter-1.json) |
 | Dark Day Afternoon | 140598 | [140598-dark-day-afternoon.json](./140598-dark-day-afternoon.json) |
 | Dark Days of Horror | 102181 | [102181-dark-days-of-horror.json](./102181-dark-days-of-horror.json) |
 | Dark Days: Zombie Survival | 197372 | [197372-dark-days-zombie-survival.json](./197372-dark-days-zombie-survival.json) |
@@ -1694,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktopia: End of the Road | 232453 | [232453-desktopia-end-of-the-road.json](./232453-desktopia-end-of-the-road.json) |
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
 | Desolate City: The Bloody Dawn - Enhanced Edition | 113731 | [113731-desolate-city-the-bloody-dawn-enhanced-edition.json](./113731-desolate-city-the-bloody-dawn-enhanced-edition.json) |
+| Desolate Echoes | 337666 | [337666-desolate-echoes.json](./337666-desolate-echoes.json) |
 | Desolate Sands | 109697 | [109697-desolate-sands.json](./109697-desolate-sands.json) |
 | Desolated District | 253356 | [253356-desolated-district.json](./253356-desolated-district.json) |
 | Desolation | 284364 | [284364-desolation.json](./284364-desolation.json) |
@@ -2026,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Reise ins All | 127916 | [127916-die-reise-ins-all.json](./127916-die-reise-ins-all.json) |
 | Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
+| Die ultimative Brettspiele-Sammlung: Die beliebtesten Brettspiele für die ganze Familie | 337723 | [337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json](./337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json) |
 | Die, A.I. | 191183 | [191183-die-a-i.json](./191183-die-a-i.json) |
 | Die, Pablo! | 270119 | [270119-die-pablo.json](./270119-die-pablo.json) |
 | Dieathlon | 410981 | [410981-dieathlon.json](./410981-dieathlon.json) |
@@ -3557,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair: Daring Edition | 100722 | [100722-dragons-lair-daring-edition.json](./100722-dragons-lair-daring-edition.json) |
 | Dragon's Lair: The Legend | 117950 | [117950-dragons-lair-the-legend.json](./117950-dragons-lair-the-legend.json) |
 | Dragon's Playground | 178010 | [178010-dragons-playground.json](./178010-dragons-playground.json) |
+| Dragon's Valkyrie: Wings of Fire | 337667 | [337667-dragons-valkyrie-wings-of-fire.json](./337667-dragons-valkyrie-wings-of-fire.json) |
 | Dragon's Wake | 34533 | [34533-dragons-wake.json](./34533-dragons-wake.json) |
 | Dragon's Wandering Tavern | 153985 | [153985-dragons-wandering-tavern.json](./153985-dragons-wandering-tavern.json) |
 | Dragonbolt Vanguard | 55893 | [55893-dragonbolt-vanguard.json](./55893-dragonbolt-vanguard.json) |
