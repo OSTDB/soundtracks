@@ -4786,6 +4786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Whisper Soul | 232966 | [232966-the-whisper-soul.json](./232966-the-whisper-soul.json) |
 | The Whispering Bones | 389400 | [389400-the-whispering-bones.json](./389400-the-whispering-bones.json) |
+| The Whispering Woods | 335361 | [335361-the-whispering-woods.json](./335361-the-whispering-woods.json) |
 | The White Flower | 392801 | [392801-the-white-flower.json](./392801-the-white-flower.json) |
 | The White Hell | 390545 | [390545-the-white-hell.json](./390545-the-white-hell.json) |
 | The White Room | 309856 | [309856-the-white-room.json](./309856-the-white-room.json) |
