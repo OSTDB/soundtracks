@@ -2212,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
 | Disgaea 7: Vows of the Virtueless | 214530 | [214530-disgaea-7-vows-of-the-virtueless.json](./214530-disgaea-7-vows-of-the-virtueless.json) |
 | Disgaea Infinite | 21742 | [21742-disgaea-infinite.json](./21742-disgaea-infinite.json) |
+| Disgrace: When Our Beautiful World Disappears | 377707 | [377707-disgrace-when-our-beautiful-world-disappears.json](./377707-disgrace-when-our-beautiful-world-disappears.json) |
 | Disgraced Swordswoman Battle | 134605 | [134605-disgraced-swordswoman-battle.json](./134605-disgraced-swordswoman-battle.json) |
 | Disguised Blessing | 332991 | [332991-disguised-blessing.json](./332991-disguised-blessing.json) |
 | Dish Up Fruit | 302344 | [302344-dish-up-fruit.json](./302344-dish-up-fruit.json) |
