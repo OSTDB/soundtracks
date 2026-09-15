@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Dark Lord and The Maiden of Light | 214537 | [214537-fire-emblem-dark-lord-and-the-maiden-of-light.json](./214537-fire-emblem-dark-lord-and-the-maiden-of-light.json) |
 | Fire Emblem: Deity Device | 270674 | [270674-fire-emblem-deity-device.json](./270674-fire-emblem-deity-device.json) |
 | Fire Emblem: Dream of Five - Definitive Edition | 316621 | [316621-fire-emblem-dream-of-five-definitive-edition.json](./316621-fire-emblem-dream-of-five-definitive-edition.json) |
+| Fire Emblem: Fortune's Weave | 366896 | [366896-fire-emblem-fortunes-weave.json](./366896-fire-emblem-fortunes-weave.json) |
 | Fire Emblem: Four Kings - Deposition | 214495 | [214495-fire-emblem-four-kings-deposition.json](./214495-fire-emblem-four-kings-deposition.json) |
 | Fire Emblem: Gilmore Girls | 146274 | [146274-fire-emblem-gilmore-girls.json](./146274-fire-emblem-gilmore-girls.json) |
 | Fire Emblem: Host of the Dark | 296106 | [296106-fire-emblem-host-of-the-dark.json](./296106-fire-emblem-host-of-the-dark.json) |
