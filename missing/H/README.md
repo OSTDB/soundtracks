@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Rain: Director's Cut | 45279 | [45279-heavy-rain-directors-cut.json](./45279-heavy-rain-directors-cut.json) |
 | Heavy Rain: Special Edition | 103386 | [103386-heavy-rain-special-edition.json](./103386-heavy-rain-special-edition.json) |
 | Heavy Rockets | 237952 | [237952-heavy-rockets.json](./237952-heavy-rockets.json) |
+| Heavy Spoilers RPG: The True Identity of the Final Enemy is the Hero's Father | 347774 | [347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json](./347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json) |
 | Heavy Truck Simulator | 58250 | [58250-heavy-truck-simulator.json](./58250-heavy-truck-simulator.json) |
 | Heavy Water Jogger | 73812 | [73812-heavy-water-jogger.json](./73812-heavy-water-jogger.json) |
 | Heavy Weapon | 20397 | [20397-heavy-weapon.json](./20397-heavy-weapon.json) |
@@ -1177,7 +1178,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Fantasy Chicks | 253935 | [253935-hentai-fantasy-chicks.json](./253935-hentai-fantasy-chicks.json) |
 | Hentai Foot Fetish | 404940 | [404940-hentai-foot-fetish.json](./404940-hentai-foot-fetish.json) |
 | Hentai Fox | 310938 | [310938-hentai-fox.json](./310938-hentai-fox.json) |
+| Hentai Furry Bunny | 347768 | [347768-hentai-furry-bunny.json](./347768-hentai-furry-bunny.json) |
 | Hentai Furry Pig | 399712 | [399712-hentai-furry-pig.json](./399712-hentai-furry-pig.json) |
+| Hentai Furry Unicorny | 347771 | [347771-hentai-furry-unicorny.json](./347771-hentai-furry-unicorny.json) |
 | Hentai Gallery: Hot Fantasy | 378805 | [378805-hentai-gallery-hot-fantasy.json](./378805-hentai-gallery-hot-fantasy.json) |
 | Hentai Gallery: Lovely Angels | 381004 | [381004-hentai-gallery-lovely-angels.json](./381004-hentai-gallery-lovely-angels.json) |
 | Hentai Gallery: Perfect Bodies | 381706 | [381706-hentai-gallery-perfect-bodies.json](./381706-hentai-gallery-perfect-bodies.json) |
@@ -1785,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Game | 126611 | [126611-highway-game.json](./126611-highway-game.json) |
 | Highway Gas Gas | 296357 | [296357-highway-gas-gas.json](./296357-highway-gas-gas.json) |
 | Highway Haste | 146835 | [146835-highway-haste.json](./146835-highway-haste.json) |
+| Highway Hopper | 347797 | [347797-highway-hopper.json](./347797-highway-hopper.json) |
 | Highway Insanity | 107135 | [107135-highway-insanity.json](./107135-highway-insanity.json) |
 | Highway Noir | 381605 | [381605-highway-noir.json](./381605-highway-noir.json) |
 | Highway of death | 112998 | [112998-highway-of-death.json](./112998-highway-of-death.json) |
