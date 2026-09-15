@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patterns | 131534 | [131534-patterns.json](./131534-patterns.json) |
 | Patterns | 8441 | [8441-patterns.json](./8441-patterns.json) |
 | Patterns of the Oak | 358850 | [358850-patterns-of-the-oak.json](./358850-patterns-of-the-oak.json) |
+| Pau E Pedra | 362927 | [362927-pau-e-pedra.json](./362927-pau-e-pedra.json) |
 | Paul | 387499 | [387499-paul.json](./387499-paul.json) |
 | Paulo | 86056 | [86056-paulo.json](./86056-paulo.json) |
 | Pavor | 116378 | [116378-pavor.json](./116378-pavor.json) |
@@ -1423,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S4 | 132828 | [132828-picross-s4.json](./132828-picross-s4.json) |
 | Picross S8 | 219032 | [219032-picross-s8.json](./219032-picross-s8.json) |
 | Picross X: Picbits vs. Uzboross | 210672 | [210672-picross-x-picbits-vs-uzboross.json](./210672-picross-x-picbits-vs-uzboross.json) |
+| Picross-8 | 362915 | [362915-picross-8.json](./362915-picross-8.json) |
 | Picross: Lord of the Nazarick | 120899 | [120899-picross-lord-of-the-nazarick.json](./120899-picross-lord-of-the-nazarick.json) |
 | Picross.io | 126640 | [126640-picross-io.json](./126640-picross-io.json) |
 | PictoImage | 84824 | [84824-pictoimage.json](./84824-pictoimage.json) |
@@ -3795,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pullfrog | 152277 | [152277-pullfrog.json](./152277-pullfrog.json) |
 | Pulling Pin: Pull the Pin | 231910 | [231910-pulling-pin-pull-the-pin.json](./231910-pulling-pin-pull-the-pin.json) |
 | Pulling USA 2 | 86883 | [86883-pulling-usa-2.json](./86883-pulling-usa-2.json) |
+| Pulp Action Shotgun | 362876 | [362876-pulp-action-shotgun.json](./362876-pulp-action-shotgun.json) |
 | Pulp Race: Daft Enigma Fighter | 382780 | [382780-pulp-race-daft-enigma-fighter.json](./382780-pulp-race-daft-enigma-fighter.json) |
 | Pulsar | 167797 | [167797-pulsar.json](./167797-pulsar.json) |
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
