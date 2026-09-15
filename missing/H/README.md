@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
 | Heartstrings | 202371 | [202371-heartstrings.json](./202371-heartstrings.json) |
 | Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
+| Heat 'n Hit: The Blacksmith Simulator | 371962 | [371962-heat-n-hit-the-blacksmith-simulator.json](./371962-heat-n-hit-the-blacksmith-simulator.json) |
 | Heat Racing | 227256 | [227256-heat-racing.json](./227256-heat-racing.json) |
 | Heat Reborn | 140590 | [140590-heat-reborn.json](./140590-heat-reborn.json) |
 | Heat wave | 180850 | [180850-heat-wave.json](./180850-heat-wave.json) |
@@ -1397,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Battle | 89178 | [89178-heroic-battle.json](./89178-heroic-battle.json) |
 | Heroic City | 235776 | [235776-heroic-city.json](./235776-heroic-city.json) |
 | Heroic Defender GoFalcon | 363913 | [363913-heroic-defender-gofalcon.json](./363913-heroic-defender-gofalcon.json) |
+| Heroic Hop: A New Adventure Begins | 371985 | [371985-heroic-hop-a-new-adventure-begins.json](./371985-heroic-hop-a-new-adventure-begins.json) |
 | Heroic Kingdom: Origins | 293642 | [293642-heroic-kingdom-origins.json](./293642-heroic-kingdom-origins.json) |
 | Heroic Songs: The Remix! | 369057 | [369057-heroic-songs-the-remix.json](./369057-heroic-songs-the-remix.json) |
 | Heroic Syndrome | 206354 | [206354-heroic-syndrome.json](./206354-heroic-syndrome.json) |
@@ -1569,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Kingdom: Top-Down 3D | 257068 | [257068-hidden-kingdom-top-down-3d.json](./257068-hidden-kingdom-top-down-3d.json) |
 | Hidden Lands | 343784 | [343784-hidden-lands.json](./343784-hidden-lands.json) |
 | Hidden Mysteries: Return to Titanic | 206730 | [206730-hidden-mysteries-return-to-titanic.json](./206730-hidden-mysteries-return-to-titanic.json) |
+| Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
 | Hidden Object Ancient Dragons | 104624 | [104624-hidden-object-ancient-dragons.json](./104624-hidden-object-ancient-dragons.json) |
 | Hidden Object Bachelorette | 102733 | [102733-hidden-object-bachelorette.json](./102733-hidden-object-bachelorette.json) |
