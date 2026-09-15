@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RE: Castle Defense | 130367 | [130367-re-castle-defense.json](./130367-re-castle-defense.json) |
 | Re: Danganronpa Refresh Retreat | 304349 | [304349-re-danganronpa-refresh-retreat.json](./304349-re-danganronpa-refresh-retreat.json) |
 | Re: LieF ~Shin'ainaru Anata e~ | 144956 | [144956-re-lief-shinainaru-anata-e.json](./144956-re-lief-shinainaru-anata-e.json) |
+| Re: Pian | 368035 | [368035-re-pian.json](./368035-re-pian.json) |
 | RE: Prince of Nigeria | 126001 | [126001-re-prince-of-nigeria.json](./126001-re-prince-of-nigeria.json) |
 | Re: Survivor | 193430 | [193430-re-survivor.json](./193430-re-survivor.json) |
 | Re: Tree of Savior | 174808 | [174808-re-tree-of-savior.json](./174808-re-tree-of-savior.json) |
@@ -1657,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rickdle | 396406 | [396406-rickdle.json](./396406-rickdle.json) |
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
+| Ricochet | 368008 | [368008-ricochet.json](./368008-ricochet.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
 | Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
@@ -1733,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RiffTrax: The Game | 194462 | [194462-rifftrax-the-game.json](./194462-rifftrax-the-game.json) |
 | Rifle MarksMan | 119787 | [119787-rifle-marksman.json](./119787-rifle-marksman.json) |
 | Rifle Strike | 149539 | [149539-rifle-strike.json](./149539-rifle-strike.json) |
+| Rift | 368036 | [368036-rift.json](./368036-rift.json) |
 | Rift Adventure | 153958 | [153958-rift-adventure.json](./153958-rift-adventure.json) |
 | Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
 | Rift Fishing | 380422 | [380422-rift-fishing.json](./380422-rift-fishing.json) |
