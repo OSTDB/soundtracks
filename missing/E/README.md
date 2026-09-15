@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Boykisser | 278420 | [278420-escape-from-boykisser.json](./278420-escape-from-boykisser.json) |
 | Escape From Bunker | 308264 | [308264-escape-from-bunker.json](./308264-escape-from-bunker.json) |
 | Escape from Castle Chezcrea | 256851 | [256851-escape-from-castle-chezcrea.json](./256851-escape-from-castle-chezcrea.json) |
+| Escape From Cluckov | 378314 | [378314-escape-from-cluckov.json](./378314-escape-from-cluckov.json) |
 | Escape from Cyber City | 45931 | [45931-escape-from-cyber-city.json](./45931-escape-from-cyber-city.json) |
 | Escape From Darkmoor Manor | 36105 | [36105-escape-from-darkmoor-manor.json](./36105-escape-from-darkmoor-manor.json) |
 | Escape from Death | 270110 | [270110-escape-from-death.json](./270110-escape-from-death.json) |
