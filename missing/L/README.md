@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
 | Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
 | Light's End | 294179 | [294179-lights-end.json](./294179-lights-end.json) |
+| LightCells | 368582 | [368582-lightcells.json](./368582-lightcells.json) |
 | Lightening Force: Quest for the Darkstar | 46273 | [46273-lightening-force-quest-for-the-darkstar.json](./46273-lightening-force-quest-for-the-darkstar.json) |
 | Lighter | 114394 | [114394-lighter.json](./114394-lighter.json) |
 | Lightfish | 16271 | [16271-lightfish.json](./16271-lightfish.json) |
