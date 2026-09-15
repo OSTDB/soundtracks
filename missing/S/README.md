@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger Skirmish: Mortal World | 105372 | [105372-scavenger-skirmish-mortal-world.json](./105372-scavenger-skirmish-mortal-world.json) |
 | Scavenger T.O.M | 365179 | [365179-scavenger-t-o-m.json](./365179-scavenger-t-o-m.json) |
 | Scavenger VR | 277837 | [277837-scavenger-vr.json](./277837-scavenger-vr.json) |
+| Scavenger Zero | 334184 | [334184-scavenger-zero.json](./334184-scavenger-zero.json) |
 | Scavengers | 91041 | [91041-scavengers.json](./91041-scavengers.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
 | Scelestum | 175922 | [175922-scelestum.json](./175922-scelestum.json) |
@@ -3328,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slick Tricks: Potion Persuasion! | 386101 | [386101-slick-tricks-potion-persuasion.json](./386101-slick-tricks-potion-persuasion.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | Slide 2 Solve Puzzle | 175341 | [175341-slide-2-solve-puzzle.json](./175341-slide-2-solve-puzzle.json) |
+| Slide Defenders | 334079 | [334079-slide-defenders.json](./334079-slide-defenders.json) |
 | Slide Golf Mini | 234054 | [234054-slide-golf-mini.json](./234054-slide-golf-mini.json) |
 | Slide Hexagon | 358312 | [358312-slide-hexagon.json](./358312-slide-hexagon.json) |
 | Slide On Ice | 243714 | [243714-slide-on-ice.json](./243714-slide-on-ice.json) |
@@ -3731,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snaky Snake | 70996 | [70996-snaky-snake.json](./70996-snaky-snake.json) |
 | Snaky Survivor | 264624 | [264624-snaky-survivor.json](./264624-snaky-survivor.json) |
 | Snap & Grab | 347669 | [347669-snap-and-grab.json](./347669-snap-and-grab.json) |
+| Snap Flex | 334169 | [334169-snap-flex.json](./334169-snap-flex.json) |
 | Snap Game | 397705 | [397705-snap-game.json](./397705-snap-game.json) |
 | Snap Glide: Rhythm Dash | 414342 | [414342-snap-glide-rhythm-dash.json](./414342-snap-glide-rhythm-dash.json) |
 | Snap Jaw | 406216 | [406216-snap-jaw.json](./406216-snap-jaw.json) |
@@ -5131,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spanish 101 | 93542 | [93542-spanish-101.json](./93542-spanish-101.json) |
 | Spanish for Everyone! | 25018 | [25018-spanish-for-everyone.json](./25018-spanish-for-everyone.json) |
 | Spanish Rage | 167802 | [167802-spanish-rage.json](./167802-spanish-rage.json) |
+| Spank The Idle Monkey | 334194 | [334194-spank-the-idle-monkey.json](./334194-spank-the-idle-monkey.json) |
 | Spanky! | 254526 | [254526-spanky.json](./254526-spanky.json) |
 | Spar MMORPG | 130880 | [130880-spar-mmorpg.json](./130880-spar-mmorpg.json) |
 | Spare Change | 23869 | [23869-spare-change.json](./23869-spare-change.json) |
@@ -5426,6 +5430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
 | Spiders | 346138 | [346138-spiders.json](./346138-spiders.json) |
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
+| Spidle Tridle | 334166 | [334166-spidle-tridle.json](./334166-spidle-tridle.json) |
 | Spies & Soldiers | 132796 | [132796-spies-and-soldiers.json](./132796-spies-and-soldiers.json) |
 | Spiiiders | 61596 | [61596-spiiiders.json](./61596-spiiiders.json) |
 | Spike | 70349 | [70349-spike.json](./70349-spike.json) |
@@ -6183,6 +6188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
 | Starboard | 192366 | [192366-starboard.json](./192366-starboard.json) |
+| Starboard | 334157 | [334157-starboard.json](./334157-starboard.json) |
 | Starboi | 360603 | [360603-starboi.json](./360603-starboi.json) |
 | Starboost EX | 123636 | [123636-starboost-ex.json](./123636-starboost-ex.json) |
 | StarBooze Reborn | 357314 | [357314-starbooze-reborn.json](./357314-starbooze-reborn.json) |
@@ -6592,6 +6598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaren: Acrux | 132223 | [132223-stellaren-acrux.json](./132223-stellaren-acrux.json) |
 | StellarFish | 349312 | [349312-stellarfish.json](./349312-stellarfish.json) |
 | Stellario | 265150 | [265150-stellario.json](./265150-stellario.json) |
+| Stellarion | 334158 | [334158-stellarion.json](./334158-stellarion.json) |
 | Stellaris: Aquatics Species Pack | 218168 | [218168-stellaris-aquatics-species-pack.json](./218168-stellaris-aquatics-species-pack.json) |
 | Stellaris: Console Edition | 111150 | [111150-stellaris-console-edition.json](./111150-stellaris-console-edition.json) |
 | Stellaris: Distant Stars | 114427 | [114427-stellaris-distant-stars.json](./114427-stellaris-distant-stars.json) |
@@ -7418,6 +7425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumerian Six | 305175 | [305175-sumerian-six.json](./305175-sumerian-six.json) |
 | Sumeru | 32210 | [32210-sumeru.json](./32210-sumeru.json) |
 | Sumi Sumi | 108511 | [108511-sumi-sumi.json](./108511-sumi-sumi.json) |
+| Sumigami | 334171 | [334171-sumigami.json](./334171-sumigami.json) |
 | Sumiii | 219585 | [219585-sumiii.json](./219585-sumiii.json) |
 | SumiKen: Ink Blade Samurai | 208951 | [208951-sumiken-ink-blade-samurai.json](./208951-sumiken-ink-blade-samurai.json) |
 | Sumikko Gurashi: Sumikko Park he Youkoso | 55138 | [55138-sumikko-gurashi-sumikko-park-he-youkoso.json](./55138-sumikko-gurashi-sumikko-park-he-youkoso.json) |
@@ -8575,6 +8583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Forest | 219572 | [219572-survive-the-forest.json](./219572-survive-the-forest.json) |
 | Survive the Grid | 365162 | [365162-survive-the-grid.json](./365162-survive-the-grid.json) |
 | Survive the Hill | 187524 | [187524-survive-the-hill.json](./187524-survive-the-hill.json) |
+| Survive the Hunt | 334209 | [334209-survive-the-hunt.json](./334209-survive-the-hunt.json) |
 | Survive the Labyrinth | 343833 | [343833-survive-the-labyrinth.json](./343833-survive-the-labyrinth.json) |
 | Survive the Swarm | 348784 | [348784-survive-the-swarm.json](./348784-survive-the-swarm.json) |
 | Survive the Troll | 219571 | [219571-survive-the-troll.json](./219571-survive-the-troll.json) |
