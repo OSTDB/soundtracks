@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jibaku-kun: Zero no Ki no Kajitsu | 295036 | [295036-jibaku-kun-zero-no-ki-no-kajitsu.json](./295036-jibaku-kun-zero-no-ki-no-kajitsu.json) |
 | Jibchag-ui Mangja: Jib-eulobuteoui Talchul | 368041 | [368041-jibchag-ui-mangja-jib-eulobuteoui-talchul.json](./368041-jibchag-ui-mangja-jib-eulobuteoui-talchul.json) |
 | Jigdoku | 404203 | [404203-jigdoku.json](./404203-jigdoku.json) |
+| Jigen Bakudan Kaijo | 349942 | [349942-jigen-bakudan-kaijo.json](./349942-jigen-bakudan-kaijo.json) |
 | Jigoku Gokurakumaru | 215128 | [215128-jigoku-gokurakumaru.json](./215128-jigoku-gokurakumaru.json) |
 | Jigoku Hell | 178025 | [178025-jigoku-hell.json](./178025-jigoku-hell.json) |
 | Jigoku Meguri | 37709 | [37709-jigoku-meguri.json](./37709-jigoku-meguri.json) |
