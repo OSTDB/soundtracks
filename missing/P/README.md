@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Nova | 111043 | [111043-pax-nova.json](./111043-pax-nova.json) |
 | Pax Romana | 115512 | [115512-pax-romana.json](./115512-pax-romana.json) |
 | Pax Solis | 298291 | [298291-pax-solis.json](./298291-pax-solis.json) |
+| Pay for Picture: Vol.01 | 335335 | [335335-pay-for-picture-vol-01.json](./335335-pay-for-picture-vol-01.json) |
 | Pay Your Crimes | 339090 | [339090-pay-your-crimes.json](./339090-pay-your-crimes.json) |
 | Payback 2 | 212494 | [212494-payback-2.json](./212494-payback-2.json) |
 | Payback Showdown | 174876 | [174876-payback-showdown.json](./174876-payback-showdown.json) |
@@ -1195,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
 | Petroleum Explore: Drill & Sell | 227504 | [227504-petroleum-explore-drill-and-sell.json](./227504-petroleum-explore-drill-and-sell.json) |
 | Pets | 314303 | [314303-pets.json](./314303-pets.json) |
+| Pets and Friends | 335355 | [335355-pets-and-friends.json](./335355-pets-and-friends.json) |
 | Pets and Friends Easter Bundle | 396924 | [396924-pets-and-friends-easter-bundle.json](./396924-pets-and-friends-easter-bundle.json) |
 | Pets and Friends: Christmas Pack | 378873 | [378873-pets-and-friends-christmas-pack.json](./378873-pets-and-friends-christmas-pack.json) |
 | Pets and Friends: Cuties Bundle | 400207 | [400207-pets-and-friends-cuties-bundle.json](./400207-pets-and-friends-cuties-bundle.json) |
@@ -1468,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
 | Picross S Capcom Classics Edition | 378164 | [378164-picross-s-capcom-classics-edition.json](./378164-picross-s-capcom-classics-edition.json) |
+| Picross S Doraemon & F Characters Edition | 335349 | [335349-picross-s-doraemon-and-f-characters-edition.json](./335349-picross-s-doraemon-and-f-characters-edition.json) |
 | Picross S Konami Antiques Edition | 395594 | [395594-picross-s-konami-antiques-edition.json](./395594-picross-s-konami-antiques-edition.json) |
 | Picross S Namco Legendary Edition | 302101 | [302101-picross-s-namco-legendary-edition.json](./302101-picross-s-namco-legendary-edition.json) |
 | Picross S SNK Classics & Neo Geo Edition | 378165 | [378165-picross-s-snk-classics-and-neo-geo-edition.json](./378165-picross-s-snk-classics-and-neo-geo-edition.json) |
@@ -1908,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Isekai Quartet Adventure - Action Game | 152891 | [152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json](./152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json) |
 | Pixel Game Maker Series: Ninja Sneaking R | 215114 | [215114-pixel-game-maker-series-ninja-sneaking-r.json](./215114-pixel-game-maker-series-ninja-sneaking-r.json) |
 | Pixel Game Maker Series: Pearl vs Grey | 227845 | [227845-pixel-game-maker-series-pearl-vs-grey.json](./227845-pixel-game-maker-series-pearl-vs-grey.json) |
+| Pixel Game Maker Series: Rocket Frog | 335354 | [335354-pixel-game-maker-series-rocket-frog.json](./335354-pixel-game-maker-series-rocket-frog.json) |
 | Pixel Gangsters | 211184 | [211184-pixel-gangsters.json](./211184-pixel-gangsters.json) |
 | Pixel Gear | 25182 | [25182-pixel-gear.json](./25182-pixel-gear.json) |
 | Pixel Gun 2 | 406834 | [406834-pixel-gun-2.json](./406834-pixel-gun-2.json) |
@@ -3603,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Breach Online | 208965 | [208965-project-breach-online.json](./208965-project-breach-online.json) |
 | Project Bridge | 187432 | [187432-project-bridge.json](./187432-project-bridge.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
+| Project Carrot | 335324 | [335324-project-carrot.json](./335324-project-carrot.json) |
 | Project Cars: Digital Edition | 218478 | [218478-project-cars-digital-edition.json](./218478-project-cars-digital-edition.json) |
 | Project CARS: Logitech Livery Pack | 353279 | [353279-project-cars-logitech-livery-pack.json](./353279-project-cars-logitech-livery-pack.json) |
 | Project Cartaphilus | 266796 | [266796-project-cartaphilus.json](./266796-project-cartaphilus.json) |
