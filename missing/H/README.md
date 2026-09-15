@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hauntify Mixed Reality | 406176 | [406176-hauntify-mixed-reality.json](./406176-hauntify-mixed-reality.json) |
 | Hauntii | 217008 | [217008-hauntii.json](./217008-hauntii.json) |
 | Haunting Ground | 14605 | [14605-haunting-ground.json](./14605-haunting-ground.json) |
+| Haunting Memories | 337671 | [337671-haunting-memories.json](./337671-haunting-memories.json) |
 | Haunting Mysteries: The Island of Lost Souls - Collector's Edition | 355528 | [355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json](./355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json) |
 | Haunting of Mageburrow | 402361 | [402361-haunting-of-mageburrow.json](./402361-haunting-of-mageburrow.json) |
 | Haunting Record: Phantom Street | 326090 | [326090-haunting-record-phantom-street.json](./326090-haunting-record-phantom-street.json) |
@@ -769,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heal Them All | 34299 | [34299-heal-them-all.json](./34299-heal-them-all.json) |
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
 | Healer Simulator | 96675 | [96675-healer-simulator.json](./96675-healer-simulator.json) |
+| Healing Hearts | 337702 | [337702-healing-hearts.json](./337702-healing-hearts.json) |
 | Health Ninja | 365760 | [365760-health-ninja.json](./365760-health-ninja.json) |
 | Healthy Breakfast | 117674 | [117674-healthy-breakfast.json](./117674-healthy-breakfast.json) |
 | Healthy Hero: Tower Defense | 284921 | [284921-healthy-hero-tower-defense.json](./284921-healthy-hero-tower-defense.json) |
@@ -2228,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homesick | 11634 | [11634-homesick.json](./11634-homesick.json) |
 | Homesickened | 244991 | [244991-homesickened.json](./244991-homesickened.json) |
 | Homesickness | 344341 | [344341-homesickness.json](./344341-homesickness.json) |
+| Homestead Online | 337668 | [337668-homestead-online.json](./337668-homestead-online.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
 | Homeward in the Roil | 345596 | [345596-homeward-in-the-roil.json](./345596-homeward-in-the-roil.json) |
 | Homewords | 153947 | [153947-homewords.json](./153947-homewords.json) |
