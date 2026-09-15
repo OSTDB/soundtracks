@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4 | 356097 | [356097-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-4.json](./356097-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-4.json) |
 | Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 5 | 356098 | [356098-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-5.json](./356098-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-5.json) |
 | Taiko no Tatsujin: Rhythm Festival - Classical Pack | 376440 | [376440-taiko-no-tatsujin-rhythm-festival-classical-pack.json](./376440-taiko-no-tatsujin-rhythm-festival-classical-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - Dragon Ball Anime Songs Pack | 356187 | [356187-taiko-no-tatsujin-rhythm-festival-dragon-ball-anime-songs-pack.json](./356187-taiko-no-tatsujin-rhythm-festival-dragon-ball-anime-songs-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 1 | 356092 | [356092-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-1.json](./356092-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-1.json) |
 | Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 2 | 356093 | [356093-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-2.json](./356093-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-2.json) |
 | Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 3 | 356094 | [356094-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-3.json](./356094-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-3.json) |
@@ -161,8 +162,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythm Festival - Kagamine Rin, Kagamine Len Pack | 360066 | [360066-taiko-no-tatsujin-rhythm-festival-kagamine-rin-kagamine-len-pack.json](./360066-taiko-no-tatsujin-rhythm-festival-kagamine-rin-kagamine-len-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kamen Rider Opening Theme Songs Pack | 328994 | [328994-taiko-no-tatsujin-rhythm-festival-kamen-rider-opening-theme-songs-pack.json](./328994-taiko-no-tatsujin-rhythm-festival-kamen-rider-opening-theme-songs-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kawaii Pop Idol Pack | 376441 | [376441-taiko-no-tatsujin-rhythm-festival-kawaii-pop-idol-pack.json](./376441-taiko-no-tatsujin-rhythm-festival-kawaii-pop-idol-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - One Piece Anime Songs Pack | 356186 | [356186-taiko-no-tatsujin-rhythm-festival-one-piece-anime-songs-pack.json](./356186-taiko-no-tatsujin-rhythm-festival-one-piece-anime-songs-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1 | 356086 | [356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json](./356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json) |
 | Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 2 | 356087 | [356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json](./356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json) |
+| Taiko no Tatsujin: Rhythm Festival - Vocaloid Songs Collection | 356197 | [356197-taiko-no-tatsujin-rhythm-festival-vocaloid-songs-collection.json](./356197-taiko-no-tatsujin-rhythm-festival-vocaloid-songs-collection.json) |
 | Taiko no Tatsujin: The Drum Master! | 188551 | [188551-taiko-no-tatsujin-the-drum-master.json](./188551-taiko-no-tatsujin-the-drum-master.json) |
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack | 358952 | [358952-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack.json](./358952-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack.json) |
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack Vol. 2 | 358953 | [358953-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-2.json](./358953-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-2.json) |
@@ -1964,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curio Society: Eclipse Over Mesina | 19344 | [19344-the-curio-society-eclipse-over-mesina.json](./19344-the-curio-society-eclipse-over-mesina.json) |
 | The Curio Society: New Order HD | 91336 | [91336-the-curio-society-new-order-hd.json](./91336-the-curio-society-new-order-hd.json) |
 | The Curiosity | 311801 | [311801-the-curiosity.json](./311801-the-curiosity.json) |
+| The Curse | 356144 | [356144-the-curse.json](./356144-the-curse.json) |
 | The Curse of Aristotle | 251241 | [251241-the-curse-of-aristotle.json](./251241-the-curse-of-aristotle.json) |
 | The Curse of Azriel | 317821 | [317821-the-curse-of-azriel.json](./317821-the-curse-of-azriel.json) |
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
@@ -2926,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Craftsman | 229937 | [229937-the-last-craftsman.json](./229937-the-last-craftsman.json) |
 | The Last Crown: Midnight Horror | 17206 | [17206-the-last-crown-midnight-horror.json](./17206-the-last-crown-midnight-horror.json) |
 | The Last Crystal | 124138 | [124138-the-last-crystal.json](./124138-the-last-crystal.json) |
+| The Last Days of the Third Age | 356169 | [356169-the-last-days-of-the-third-age.json](./356169-the-last-days-of-the-third-age.json) |
 | The Last Delivery Man on Earth | 374593 | [374593-the-last-delivery-man-on-earth.json](./374593-the-last-delivery-man-on-earth.json) |
 | The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
 | The Last Driver | 343791 | [343791-the-last-driver.json](./343791-the-last-driver.json) |
@@ -3521,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Man Club | 59987 | [59987-the-old-man-club.json](./59987-the-old-man-club.json) |
 | The Old Man’s Will | 390660 | [390660-the-old-man-s-will.json](./390660-the-old-man-s-will.json) |
 | The Old Mill | 184040 | [184040-the-old-mill.json](./184040-the-old-mill.json) |
+| The Old Realms | 356162 | [356162-the-old-realms.json](./356162-the-old-realms.json) |
 | The Old Ways | 356756 | [356756-the-old-ways.json](./356756-the-old-ways.json) |
 | The Oldest Edda | 190721 | [190721-the-oldest-edda.json](./190721-the-oldest-edda.json) |
 | The Omega Stone: Riddle of the Sphinx II | 71524 | [71524-the-omega-stone-riddle-of-the-sphinx-ii.json](./71524-the-omega-stone-riddle-of-the-sphinx-ii.json) |
@@ -6568,6 +6574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Volleyball | 351605 | [351605-touhou-volleyball.json](./351605-touhou-volleyball.json) |
 | Touhou Witch's Night Market | 380424 | [380424-touhou-witchs-night-market.json](./380424-touhou-witchs-night-market.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
+| Touhou: Fading Illusion - Underworld Chapter | 356185 | [356185-touhou-fading-illusion-underworld-chapter.json](./356185-touhou-fading-illusion-underworld-chapter.json) |
 | Touhou: Fearless Frogslayer | 356088 | [356088-touhou-fearless-frogslayer.json](./356088-touhou-fearless-frogslayer.json) |
 | Touhou: Gensokyo Survivors | 248043 | [248043-touhou-gensokyo-survivors.json](./248043-touhou-gensokyo-survivors.json) |
 | Touhou: Heart of the Tiger | 209140 | [209140-touhou-heart-of-the-tiger.json](./209140-touhou-heart-of-the-tiger.json) |
