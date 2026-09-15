@@ -2279,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Girl | 113022 | [113022-shoot-girl.json](./113022-shoot-girl.json) |
 | Shoot Many Robots: Arena Kings | 64915 | [64915-shoot-many-robots-arena-kings.json](./64915-shoot-many-robots-arena-kings.json) |
 | Shoot n Scroll 3D | 261518 | [261518-shoot-n-scroll-3d.json](./261518-shoot-n-scroll-3d.json) |
+| Shoot Paint | 334747 | [334747-shoot-paint.json](./334747-shoot-paint.json) |
 | Shoot Shoot Nitori the Golden | 202949 | [202949-shoot-shoot-nitori-the-golden.json](./202949-shoot-shoot-nitori-the-golden.json) |
 | Shoot the Ball | 84872 | [84872-shoot-the-ball.json](./84872-shoot-the-ball.json) |
 | Shoot The Barrel | 290928 | [290928-shoot-the-barrel.json](./290928-shoot-the-barrel.json) |
@@ -4737,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulworker Academia | 143053 | [143053-soulworker-academia.json](./143053-soulworker-academia.json) |
 | SoulWorker: Anime Legends | 200736 | [200736-soulworker-anime-legends.json](./200736-soulworker-anime-legends.json) |
 | Soumei: Crescent Moon | 382781 | [382781-soumei-crescent-moon.json](./382781-soumei-crescent-moon.json) |
+| Sound Balling 3 | 334756 | [334756-sound-balling-3.json](./334756-sound-balling-3.json) |
 | Sound Garden | 243684 | [243684-sound-garden.json](./243684-sound-garden.json) |
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
 | Sound Lock | 261785 | [261785-sound-lock.json](./261785-sound-lock.json) |
@@ -5270,6 +5272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedboat Racing | 144387 | [144387-speedboat-racing.json](./144387-speedboat-racing.json) |
 | Speeder | 152934 | [152934-speeder.json](./152934-speeder.json) |
 | Speedin' Shotgun | 263500 | [263500-speedin-shotgun.json](./263500-speedin-shotgun.json) |
+| SpeedJumper | 334787 | [334787-speedjumper.json](./334787-speedjumper.json) |
 | Speedmapping Pack 189: Doom / Satanic Mechanisms | 312912 | [312912-speedmapping-pack-189-doom-satanic-mechanisms.json](./312912-speedmapping-pack-189-doom-satanic-mechanisms.json) |
 | Speedollama | 263766 | [263766-speedollama.json](./263766-speedollama.json) |
 | Speedpunk | 151147 | [151147-speedpunk.json](./151147-speedpunk.json) |
@@ -5473,6 +5476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Catcher 93' | 383357 | [383357-spirit-catcher-93.json](./383357-spirit-catcher-93.json) |
 | Spirit City: Lofi Sessions | 263016 | [263016-spirit-city-lofi-sessions.json](./263016-spirit-city-lofi-sessions.json) |
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
+| Spirit Drop | 334746 | [334746-spirit-drop.json](./334746-spirit-drop.json) |
 | Spirit Eyes | 211188 | [211188-spirit-eyes.json](./211188-spirit-eyes.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
 | Spirit Legends: Finding Balance - Collector's Edition | 338707 | [338707-spirit-legends-finding-balance-collectors-edition.json](./338707-spirit-legends-finding-balance-collectors-edition.json) |
@@ -5749,6 +5753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro: Season of Ice | 1587 | [1587-spyro-season-of-ice.json](./1587-spyro-season-of-ice.json) |
 | Spyro: Shadow Legacy | 1581 | [1581-spyro-shadow-legacy.json](./1581-spyro-shadow-legacy.json) |
 | Spyro: Year of the Dragon | 142243 | [142243-spyro-year-of-the-dragon.json](./142243-spyro-year-of-the-dragon.json) |
+| Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
 | Squad | 9495 | [9495-squad.json](./9495-squad.json) |
 | Squad 22: ZOV | 368503 | [368503-squad-22-zov.json](./368503-squad-22-zov.json) |
 | Squad Assault | 54395 | [54395-squad-assault.json](./54395-squad-assault.json) |
