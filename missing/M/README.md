@@ -1864,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoirs of Murder: Welcome to Hidden Pines | 322578 | [322578-memoirs-of-murder-welcome-to-hidden-pines.json](./322578-memoirs-of-murder-welcome-to-hidden-pines.json) |
 | Memolith: Forsaken by Light | 399744 | [399744-memolith-forsaken-by-light.json](./399744-memolith-forsaken-by-light.json) |
 | Memology | 375957 | [375957-memology.json](./375957-memology.json) |
+| Memology: Goyda | 372583 | [372583-memology-goyda.json](./372583-memology-goyda.json) |
 | Memorel Restoration Project | 380525 | [380525-memorel-restoration-project.json](./380525-memorel-restoration-project.json) |
 | Memori | 251579 | [251579-memori.json](./251579-memori.json) |
 | Memoria | 191172 | [191172-memoria.json](./191172-memoria.json) |
@@ -3082,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistwood Heroes | 29936 | [29936-mistwood-heroes.json](./29936-mistwood-heroes.json) |
 | MistWorld the after2 | 215367 | [215367-mistworld-the-after2.json](./215367-mistworld-the-after2.json) |
 | Misty Blue | 64387 | [64387-misty-blue.json](./64387-misty-blue.json) |
+| Misty's Idle Fishing | 372531 | [372531-mistys-idle-fishing.json](./372531-mistys-idle-fishing.json) |
 | Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
@@ -4230,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mroi | 333940 | [333940-mroi.json](./333940-mroi.json) |
 | Mrs. Fantastic's Freaky Figurine Shop | 166702 | [166702-mrs-fantastics-freaky-figurine-shop.json](./166702-mrs-fantastics-freaky-figurine-shop.json) |
 | Ms Jenkins Estate | 217300 | [217300-ms-jenkins-estate.json](./217300-ms-jenkins-estate.json) |
+| Ms Vampire Love to Date With Me | 372548 | [372548-ms-vampire-love-to-date-with-me.json](./372548-ms-vampire-love-to-date-with-me.json) |
 | Ms. Holmes: Letter M - Collector's Edition | 362847 | [362847-ms-holmes-letter-m-collectors-edition.json](./362847-ms-holmes-letter-m-collectors-edition.json) |
 | Ms. Holmes: The Adventure of the McKirk Ritual - Collector's Edition | 186333 | [186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json](./186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json) |
 | Ms. Holmes: The Monster of the Baskervilles - Collector's Edition | 119688 | [119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json](./119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json) |
@@ -4625,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Horse Stories: Sunny Edition | 308807 | [308807-my-horse-stories-sunny-edition.json](./308807-my-horse-stories-sunny-edition.json) |
 | My Hotel | 199122 | [199122-my-hotel.json](./199122-my-hotel.json) |
 | My Hotel Romance | 298900 | [298900-my-hotel-romance.json](./298900-my-hotel-romance.json) |
+| My Hotel Simulator | 372559 | [372559-my-hotel-simulator.json](./372559-my-hotel-simulator.json) |
 | My House and I Got Transported To Another World | 278147 | [278147-my-house-and-i-got-transported-to-another-world.json](./278147-my-house-and-i-got-transported-to-another-world.json) |
 | My Ice Cream Maker | 408069 | [408069-my-ice-cream-maker.json](./408069-my-ice-cream-maker.json) |
 | My Idle Witch | 395589 | [395589-my-idle-witch.json](./395589-my-idle-witch.json) |
