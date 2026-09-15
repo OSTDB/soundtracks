@@ -1199,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EruruAdventure | 97281 | [97281-eruruadventure.json](./97281-eruruadventure.json) |
 | Erusal | 31872 | [31872-erusal.json](./31872-erusal.json) |
 | Erwartung | 295014 | [295014-erwartung.json](./295014-erwartung.json) |
+| ES Games | 334784 | [334784-es-games.json](./334784-es-games.json) |
 | eSail | 89648 | [89648-esail.json](./89648-esail.json) |
 | Esau's World | 294150 | [294150-esaus-world.json](./294150-esaus-world.json) |
 | Esc-8-bit | 114369 | [114369-esc-8-bit.json](./114369-esc-8-bit.json) |
