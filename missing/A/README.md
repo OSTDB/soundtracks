@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pocket Full of Slagford | 404950 | [404950-a-pocket-full-of-slagford.json](./404950-a-pocket-full-of-slagford.json) |
 | A Potion For Chamomile | 196859 | [196859-a-potion-for-chamomile.json](./196859-a-potion-for-chamomile.json) |
 | A Quick Death | 41973 | [41973-a-quick-death.json](./41973-a-quick-death.json) |
+| A Recipe for Survival | 356142 | [356142-a-recipe-for-survival.json](./356142-a-recipe-for-survival.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Rose in the Twilight | 52042 | [52042-a-rose-in-the-twilight.json](./52042-a-rose-in-the-twilight.json) |
@@ -1528,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
 | American Civil War | 52582 | [52582-american-civil-war.json](./52582-american-civil-war.json) |
+| American Civil War Mod: Revived | 356166 | [356166-american-civil-war-mod-revived.json](./356166-american-civil-war-mod-revived.json) |
 | American Conquest: Anthology | 324664 | [324664-american-conquest-anthology.json](./324664-american-conquest-anthology.json) |
 | American Cooking Simulator: Multiplayer | 392810 | [392810-american-cooking-simulator-multiplayer.json](./392810-american-cooking-simulator-multiplayer.json) |
 | American Deer Hunter | 206112 | [206112-american-deer-hunter.json](./206112-american-deer-hunter.json) |
@@ -2037,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 2205: Season Pass | 180200 | [180200-anno-2205-season-pass.json](./180200-anno-2205-season-pass.json) |
 | Anno 2205: Tundra | 24871 | [24871-anno-2205-tundra.json](./24871-anno-2205-tundra.json) |
 | Anno 2205: Wildwater Bay | 24870 | [24870-anno-2205-wildwater-bay.json](./24870-anno-2205-wildwater-bay.json) |
+| Anno Domini 1259 | 356151 | [356151-anno-domini-1259.json](./356151-anno-domini-1259.json) |
 | Anno: Build An Empire | 344911 | [344911-anno-build-an-empire.json](./344911-anno-build-an-empire.json) |
 | Annoy This Guy | 290684 | [290684-annoy-this-guy.json](./290684-annoy-this-guy.json) |
 | Annoying Ball Game | 171598 | [171598-annoying-ball-game.json](./171598-annoying-ball-game.json) |
