@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A. Crackdown | 55091 | [55091-l-a-crackdown.json](./55091-l-a-crackdown.json) |
 | L.A. Meltdown 2047 | 308236 | [308236-l-a-meltdown-2047.json](./308236-l-a-meltdown-2047.json) |
 | L.A.2 | 135900 | [135900-l-a-2.json](./135900-l-a-2.json) |
+| L.C.D. Bowling | 346111 | [346111-l-c-d-bowling.json](./346111-l-c-d-bowling.json) |
 | L.O.C.K. | 144364 | [144364-l-o-c-k.json](./144364-l-o-c-k.json) |
 | L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
 | L'Impiccato in Italiano | 96042 | [96042-limpiccato-in-italiano.json](./96042-limpiccato-in-italiano.json) |
@@ -278,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LaserReimu | 324302 | [324302-laserreimu.json](./324302-laserreimu.json) |
 | LaserShotz | 159890 | [159890-lasershotz.json](./159890-lasershotz.json) |
 | Lassie | 43331 | [43331-lassie.json](./43331-lassie.json) |
+| Lasso | 346094 | [346094-lasso.json](./346094-lasso.json) |
 | Lasso Catch | 277575 | [277575-lasso-catch.json](./277575-lasso-catch.json) |
 | Last | 356627 | [356627-last.json](./356627-last.json) |
 | Last $50 | 400954 | [400954-last-50.json](./400954-last-50.json) |
@@ -1882,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Loss at Sea | 384114 | [384114-loss-at-sea.json](./384114-loss-at-sea.json) |
 | Lost | 186258 | [186258-lost.json](./186258-lost.json) |
+| Lost & Found: Inanimate Object Dating Agency | 346109 | [346109-lost-and-found-inanimate-object-dating-agency.json](./346109-lost-and-found-inanimate-object-dating-agency.json) |
 | Lost & Round | 153364 | [153364-lost-and-round.json](./153364-lost-and-round.json) |
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
 | Lost Alone | 167223 | [167223-lost-alone.json](./167223-lost-alone.json) |
