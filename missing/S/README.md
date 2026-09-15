@@ -2961,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Rodeo | 52004 | [52004-ski-rodeo.json](./52004-ski-rodeo.json) |
 | Ski Sniper | 36528 | [36528-ski-sniper.json](./36528-ski-sniper.json) |
 | Ski-World Simulator 2012 | 54364 | [54364-ski-world-simulator-2012.json](./54364-ski-world-simulator-2012.json) |
+| Skibi's Castle TD 2 | 348357 | [348357-skibis-castle-td-2.json](./348357-skibis-castle-td-2.json) |
 | Skibidi Mahr Simulator 64 | 339822 | [339822-skibidi-mahr-simulator-64.json](./339822-skibidi-mahr-simulator-64.json) |
 | Skibidi Toilet | 278399 | [278399-skibidi-toilet.json](./278399-skibidi-toilet.json) |
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
@@ -4111,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solse AI-Quest | 290938 | [290938-solse-ai-quest.json](./290938-solse-ai-quest.json) |
 | Solstice | 306355 | [306355-solstice.json](./306355-solstice.json) |
 | Solus | 137016 | [137016-solus.json](./137016-solus.json) |
+| Solus Machina | 348340 | [348340-solus-machina.json](./348340-solus-machina.json) |
 | Solve & Roll | 259552 | [259552-solve-and-roll.json](./259552-solve-and-roll.json) |
 | Solve This! Emoji Puzzle | 213596 | [213596-solve-this-emoji-puzzle.json](./213596-solve-this-emoji-puzzle.json) |
 | Solver: The Bank Quest | 71450 | [71450-solver-the-bank-quest.json](./71450-solver-the-bank-quest.json) |
@@ -6249,6 +6251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Force | 148491 | [148491-stars-force.json](./148491-stars-force.json) |
 | Stars in Shadow | 27089 | [27089-stars-in-shadow.json](./27089-stars-in-shadow.json) |
 | Stars in Shadow: Legacies | 124781 | [124781-stars-in-shadow-legacies.json](./124781-stars-in-shadow-legacies.json) |
+| Stars of Icarus | 348306 | [348306-stars-of-icarus.json](./348306-stars-of-icarus.json) |
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
 | Stars Survivor | 291481 | [291481-stars-survivor.json](./291481-stars-survivor.json) |
@@ -6805,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Quest | 142410 | [142410-stream-quest.json](./142410-stream-quest.json) |
 | Stream Quiz | 140027 | [140027-stream-quiz.json](./140027-stream-quiz.json) |
 | Stream Runners: Heroes | 232972 | [232972-stream-runners-heroes.json](./232972-stream-runners-heroes.json) |
+| Stream Stratos | 348323 | [348323-stream-stratos.json](./348323-stream-stratos.json) |
 | Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
 | Stream Train | 410341 | [410341-stream-train.json](./410341-stream-train.json) |
 | Stream Typers | 206738 | [206738-stream-typers.json](./206738-stream-typers.json) |
