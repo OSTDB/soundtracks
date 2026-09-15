@@ -2187,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Colony | 117788 | [117788-mermaid-colony.json](./117788-mermaid-colony.json) |
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
 | Mermaid Prism | 203341 | [203341-mermaid-prism.json](./203341-mermaid-prism.json) |
+| Mermaid Stories: Book 1 - The Lost Gift | 339377 | [339377-mermaid-stories-book-1-the-lost-gift.json](./339377-mermaid-stories-book-1-the-lost-gift.json) |
 | Mermaid Story | 219289 | [219289-mermaid-story.json](./219289-mermaid-story.json) |
 | Mermaid Swamp | 287635 | [287635-mermaid-swamp.json](./287635-mermaid-swamp.json) |
 | Mermaid Tail | 302132 | [302132-mermaid-tail.json](./302132-mermaid-tail.json) |
