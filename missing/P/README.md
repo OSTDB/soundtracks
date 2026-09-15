@@ -2461,6 +2461,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Breeder | 196863 | [196863-pokemon-breeder.json](./196863-pokemon-breeder.json) |
 | Pokémon CAWPS | 129809 | [129809-pokemon-cawps.json](./129809-pokemon-cawps.json) |
 | Pokémon Champions | 333568 | [333568-pokemon-champions.json](./333568-pokemon-champions.json) |
+| Pokémon Channel-e: Line Art Card - Jirachi | 354533 | [354533-pokemon-channel-e-line-art-card-jirachi.json](./354533-pokemon-channel-e-line-art-card-jirachi.json) |
+| Pokémon Channel-e: Line Art Card - The Kyogre Constellation | 354534 | [354534-pokemon-channel-e-line-art-card-the-kyogre-constellation.json](./354534-pokemon-channel-e-line-art-card-the-kyogre-constellation.json) |
+| Pokémon Channel-e: Line Art Card - The Pikachu Star | 354532 | [354532-pokemon-channel-e-line-art-card-the-pikachu-star.json](./354532-pokemon-channel-e-line-art-card-the-pikachu-star.json) |
 | Pokémon Clover | 129810 | [129810-pokemon-clover.json](./129810-pokemon-clover.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-P001 - Hunter no Bit | 355521 | [355521-pokemon-colosseum-double-battle-card-e-13-p001-hunter-no-bit.json](./355521-pokemon-colosseum-double-battle-card-e-13-p001-hunter-no-bit.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-P002 - Snatch-dan no Gaku | 355523 | [355523-pokemon-colosseum-double-battle-card-e-13-p002-snatch-dan-no-gaku.json](./355523-pokemon-colosseum-double-battle-card-e-13-p002-snatch-dan-no-gaku.json) |
@@ -2783,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool: 8 Ball Mania | 213386 | [213386-pool-8-ball-mania.json](./213386-pool-8-ball-mania.json) |
 | Pool! | 88287 | [88287-pool.json](./88287-pool.json) |
 | Poolcore | 238742 | [238742-poolcore.json](./238742-poolcore.json) |
+| Poolcore: Submersion | 354485 | [354485-poolcore-submersion.json](./354485-poolcore-submersion.json) |
 | Pools | 274791 | [274791-pools.json](./274791-pools.json) |
 | Poolside Girls Kiss: Passion Fruits Hotel Dating Sim | 362364 | [362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json](./362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json) |
 | Poop Fiction | 302129 | [302129-poop-fiction.json](./302129-poop-fiction.json) |
@@ -2914,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Posibility | 127367 | [127367-posibility.json](./127367-posibility.json) |
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
+| Possession Game | 354523 | [354523-possession-game.json](./354523-possession-game.json) |
 | PossiblyAxolotl's PlayPack | 349873 | [349873-possiblyaxolotls-playpack.json](./349873-possiblyaxolotls-playpack.json) |
 | Possum Boy!: The Ballad of Joey Virginia | 361241 | [361241-possum-boy-the-ballad-of-joey-virginia.json](./361241-possum-boy-the-ballad-of-joey-virginia.json) |
 | Post | 274208 | [274208-post.json](./274208-post.json) |
