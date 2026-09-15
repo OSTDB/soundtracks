@@ -1853,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binaural Odyssey | 153365 | [153365-binaural-odyssey.json](./153365-binaural-odyssey.json) |
 | Bind: Brain teaser puzzle game | 88292 | [88292-bind-brain-teaser-puzzle-game.json](./88292-bind-brain-teaser-puzzle-game.json) |
 | Binding of Elements | 249227 | [249227-binding-of-elements.json](./249227-binding-of-elements.json) |
+| Bing Chilling | 371333 | [371333-bing-chilling.json](./371333-bing-chilling.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Azure Dragon | 325436 | [325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json](./325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Black Tortoise | 325440 | [325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json](./325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Dragon Slayer | 325437 | [325437-bing-in-wonderland-wings-and-weapon-looks-dragon-slayer.json](./325437-bing-in-wonderland-wings-and-weapon-looks-dragon-slayer.json) |
