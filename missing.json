@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T12:48:35.628Z",
-  "total_missing": 73898,
+  "generated_at": "2026-09-15T12:51:40.364Z",
+  "total_missing": 73897,
   "games": [
     {
       "igdb_id": 306086,
@@ -5236,11 +5236,6 @@
       "igdb_id": 288746,
       "game_name": "Afterworld",
       "file": "missing/A/288746-afterworld.json"
-    },
-    {
-      "igdb_id": 84884,
-      "game_name": "AfterZoom",
-      "file": "missing/A/84884-afterzoom.json"
     },
     {
       "igdb_id": 284326,
