@@ -1696,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinono and the Magic Fiddle | 355101 | [355101-pinono-and-the-magic-fiddle.json](./355101-pinono-and-the-magic-fiddle.json) |
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
+| Pintern | 353377 | [353377-pintern.json](./353377-pintern.json) |
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
 | Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
@@ -1922,6 +1923,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Quest: The Lost Idols | 413680 | [413680-pixel-quest-the-lost-idols.json](./413680-pixel-quest-the-lost-idols.json) |
 | Pixel Rampage | 358334 | [358334-pixel-rampage.json](./358334-pixel-rampage.json) |
 | Pixel Restorer | 312026 | [312026-pixel-restorer.json](./312026-pixel-restorer.json) |
+| Pixel Restorer: Image Folder 1 | 353414 | [353414-pixel-restorer-image-folder-1.json](./353414-pixel-restorer-image-folder-1.json) |
+| Pixel Restorer: Image Folder 2 | 353415 | [353415-pixel-restorer-image-folder-2.json](./353415-pixel-restorer-image-folder-2.json) |
+| Pixel Restorer: Image Folder 3 | 353416 | [353416-pixel-restorer-image-folder-3.json](./353416-pixel-restorer-image-folder-3.json) |
+| Pixel Restorer: Image Folder 4 | 353417 | [353417-pixel-restorer-image-folder-4.json](./353417-pixel-restorer-image-folder-4.json) |
+| Pixel Restorer: Image Folder 5 | 353418 | [353418-pixel-restorer-image-folder-5.json](./353418-pixel-restorer-image-folder-5.json) |
+| Pixel Restorer: Image Folder 6 | 353419 | [353419-pixel-restorer-image-folder-6.json](./353419-pixel-restorer-image-folder-6.json) |
 | Pixel Ripped 1978 | 242384 | [242384-pixel-ripped-1978.json](./242384-pixel-ripped-1978.json) |
 | Pixel Robot Return | 186319 | [186319-pixel-robot-return.json](./186319-pixel-robot-return.json) |
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
@@ -3299,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Ball: Full Blown - Toxik Karess | 167222 | [167222-prison-ball-full-blown-toxik-karess.json](./167222-prison-ball-full-blown-toxik-karess.json) |
 | Prison Ball: Full Blown - Vast Shadows | 167217 | [167217-prison-ball-full-blown-vast-shadows.json](./167217-prison-ball-full-blown-vast-shadows.json) |
 | Prison Boss VR | 55474 | [55474-prison-boss-vr.json](./55474-prison-boss-vr.json) |
+| Prison Break | 353368 | [353368-prison-break.json](./353368-prison-break.json) |
 | Prison Chainball Massacre | 75170 | [75170-prison-chainball-massacre.json](./75170-prison-chainball-massacre.json) |
 | Prison City | 226729 | [226729-prison-city.json](./226729-prison-city.json) |
 | Prison Empire Tycoon: Idle Game | 231907 | [231907-prison-empire-tycoon-idle-game.json](./231907-prison-empire-tycoon-idle-game.json) |
@@ -4232,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid: Challenge of the Pharaoh's Dream | 266201 | [266201-pyramid-challenge-of-the-pharaohs-dream.json](./266201-pyramid-challenge-of-the-pharaohs-dream.json) |
 | Pyramida | 136491 | [136491-pyramida.json](./136491-pyramida.json) |
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
+| PyramidValley: Reborn | 353395 | [353395-pyramidvalley-reborn.json](./353395-pyramidvalley-reborn.json) |
 | Pyramis | 397668 | [397668-pyramis.json](./397668-pyramis.json) |
 | Pyratel | 308239 | [308239-pyratel.json](./308239-pyratel.json) |
 | Pyrite Heart | 17860 | [17860-pyrite-heart.json](./17860-pyrite-heart.json) |
