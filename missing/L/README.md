@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landing Hero: Haneda x 787 | 199108 | [199108-landing-hero-haneda-x-787.json](./199108-landing-hero-haneda-x-787.json) |
 | Landing High Japan | 129142 | [129142-landing-high-japan.json](./129142-landing-high-japan.json) |
 | Landlady Seduction Simulator | 326394 | [326394-landlady-seduction-simulator.json](./326394-landlady-seduction-simulator.json) |
+| Landline | 367526 | [367526-landline.json](./367526-landline.json) |
 | Landlord | 385584 | [385584-landlord.json](./385584-landlord.json) |
 | Landlord Tycoon | 127984 | [127984-landlord-tycoon.json](./127984-landlord-tycoon.json) |
 | Landmark | 9629 | [9629-landmark.json](./9629-landmark.json) |
@@ -870,6 +871,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
 | Let's Kill Hitler: The Game | 253914 | [253914-lets-kill-hitler-the-game.json](./253914-lets-kill-hitler-the-game.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
+| Let's Learn Korean! Hangul | 367521 | [367521-lets-learn-korean-hangul.json](./367521-lets-learn-korean-hangul.json) |
+| Let's Learn Korean! Vocabulary | 367522 | [367522-lets-learn-korean-vocabulary.json](./367522-lets-learn-korean-vocabulary.json) |
 | Let's Park: Backyard Edition | 214185 | [214185-lets-park-backyard-edition.json](./214185-lets-park-backyard-edition.json) |
 | Let's Play Cards Baccarat | 340915 | [340915-lets-play-cards-baccarat.json](./340915-lets-play-cards-baccarat.json) |
 | Let's Play Jigsaw Puzzles: A Journey Across Continents | 263210 | [263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json](./263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json) |
