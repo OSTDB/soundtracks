@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: Marked | 412314 | [412314-apex-legends-marked.json](./412314-apex-legends-marked.json) |
 | Apex Legends: PlayStation Plus Play Pack | 316623 | [316623-apex-legends-playstation-plus-play-pack.json](./316623-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
+| Apex Legends: Prodigy | 342775 | [342775-apex-legends-prodigy.json](./342775-apex-legends-prodigy.json) |
 | Apex Rebels | 275576 | [275576-apex-rebels.json](./275576-apex-rebels.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
 | Aphelion | 348192 | [348192-aphelion.json](./348192-aphelion.json) |
@@ -3428,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Dead of Night | 141235 | [141235-at-dead-of-night.json](./141235-at-dead-of-night.json) |
 | At Home Alone | 111237 | [111237-at-home-alone.json](./111237-at-home-alone.json) |
 | At Ishtar's Gate | 142493 | [142493-at-ishtars-gate.json](./142493-at-ishtars-gate.json) |
+| At Sixes and Sevens | 342771 | [342771-at-sixes-and-sevens.json](./342771-at-sixes-and-sevens.json) |
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
 | At the Heart of the Forest | 201303 | [201303-at-the-heart-of-the-forest.json](./201303-at-the-heart-of-the-forest.json) |
 | Atak | 226226 | [226226-atak.json](./226226-atak.json) |
