@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Shift | 334692 | [334692-late-night-shift.json](./334692-late-night-shift.json) |
 | Late Night Talks | 225267 | [225267-late-night-talks.json](./225267-late-night-talks.json) |
 | Late Night Wanderer | 98476 | [98476-late-night-wanderer.json](./98476-late-night-wanderer.json) |
+| Late Photographer | 367995 | [367995-late-photographer.json](./367995-late-photographer.json) |
 | Late Photographer 4 | 199567 | [199567-late-photographer-4.json](./199567-late-photographer-4.json) |
 | Late Photographer 6 | 228086 | [228086-late-photographer-6.json](./228086-late-photographer-6.json) |
 | Late Work | 177487 | [177487-late-work.json](./177487-late-work.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn & Discover Home | 326588 | [326588-learn-and-discover-home.json](./326588-learn-and-discover-home.json) |
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
+| Learn Programming: Python - Retro | 367998 | [367998-learn-programming-python-retro.json](./367998-learn-programming-python-retro.json) |
 | Learn Spanish! Easy Vocabulary | 371919 | [371919-learn-spanish-easy-vocabulary.json](./371919-learn-spanish-easy-vocabulary.json) |
 | Learn the Letters | 242554 | [242554-learn-the-letters.json](./242554-learn-the-letters.json) |
 | Learn to Play Chess with Fritz & Chesster | 323714 | [323714-learn-to-play-chess-with-fritz-and-chesster.json](./323714-learn-to-play-chess-with-fritz-and-chesster.json) |
