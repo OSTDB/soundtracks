@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyjah Huston: #Skatelife | 105907 | [105907-nyjah-huston-skatelife.json](./105907-nyjah-huston-skatelife.json) |
 | Nykra | 102195 | [102195-nykra.json](./102195-nykra.json) |
 | Nykrig | 184646 | [184646-nykrig.json](./184646-nykrig.json) |
+| Nylos | 335362 | [335362-nylos.json](./335362-nylos.json) |
 | Nymphomania Paradox | 82784 | [82784-nymphomania-paradox.json](./82784-nymphomania-paradox.json) |
 | Nyra: The Fall of Light | 390097 | [390097-nyra-the-fall-of-light.json](./390097-nyra-the-fall-of-light.json) |
 | NYT Crossplay: Play and Spell | 387535 | [387535-nyt-crossplay-play-and-spell.json](./387535-nyt-crossplay-play-and-spell.json) |
