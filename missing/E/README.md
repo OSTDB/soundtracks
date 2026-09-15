@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes: Season 1 - Greenhearth | 366902 | [366902-echoes-season-1-greenhearth.json](./366902-echoes-season-1-greenhearth.json) |
 | EchoEvade | 386295 | [386295-echoevade.json](./386295-echoevade.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
+| Echoveil: The Last Guest | 351708 | [351708-echoveil-the-last-guest.json](./351708-echoveil-the-last-guest.json) |
 | EchtegP | 254789 | [254789-echtegp.json](./254789-echtegp.json) |
 | Ecila | 257392 | [257392-ecila.json](./257392-ecila.json) |
 | Eclectic Custom Night | 317220 | [317220-eclectic-custom-night.json](./317220-eclectic-custom-night.json) |
@@ -325,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edwin Earstwhile: Medical Examiner | 404924 | [404924-edwin-earstwhile-medical-examiner.json](./404924-edwin-earstwhile-medical-examiner.json) |
 | EEK3 Virtual Show Floor | 145630 | [145630-eek3-virtual-show-floor.json](./145630-eek3-virtual-show-floor.json) |
 | Eerie Excavation | 301847 | [301847-eerie-excavation.json](./301847-eerie-excavation.json) |
+| Eerie Worlds | 351704 | [351704-eerie-worlds.json](./351704-eerie-worlds.json) |
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | EF-12: Fighting Game Maker | 57074 | [57074-ef-12-fighting-game-maker.json](./57074-ef-12-fighting-game-maker.json) |
 | Effacer: Hangman from the 25th Century | 45932 | [45932-effacer-hangman-from-the-25th-century.json](./45932-effacer-hangman-from-the-25th-century.json) |
@@ -382,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggplant | 338180 | [338180-eggplant.json](./338180-eggplant.json) |
 | Eggrolls Shoot | 379881 | [379881-eggrolls-shoot.json](./379881-eggrolls-shoot.json) |
 | Eggs of Steel: Charlie's Eggcellent Adventure | 68023 | [68023-eggs-of-steel-charlies-eggcellent-adventure.json](./68023-eggs-of-steel-charlies-eggcellent-adventure.json) |
+| Eggscape | 351688 | [351688-eggscape.json](./351688-eggscape.json) |
 | Eggstinct! | 392254 | [392254-eggstinct.json](./392254-eggstinct.json) |
 | Eggular Game | 307310 | [307310-eggular-game.json](./307310-eggular-game.json) |
 | Eggventure | 390125 | [390125-eggventure.json](./390125-eggventure.json) |
