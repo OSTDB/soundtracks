@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T15:04:25.532Z",
-  "total_missing": 74341,
+  "generated_at": "2026-09-15T15:11:38.365Z",
+  "total_missing": 74340,
   "games": [
     {
       "igdb_id": 306086,
@@ -5311,11 +5311,6 @@
       "igdb_id": 269042,
       "game_name": "Agame",
       "file": "missing/A/269042-agame.json"
-    },
-    {
-      "igdb_id": 35878,
-      "game_name": "Agapan",
-      "file": "missing/A/35878-agapan.json"
     },
     {
       "igdb_id": 332833,
