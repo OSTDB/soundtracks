@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy II | 145817 | [145817-final-fantasy-ii.json](./145817-final-fantasy-ii.json) |
 | Final Fantasy II | 271819 | [271819-final-fantasy-ii.json](./271819-final-fantasy-ii.json) |
 | Final Fantasy II | 387 | [387-final-fantasy-ii.json](./387-final-fantasy-ii.json) |
+| Final Fantasy II: Job System | 343369 | [343369-final-fantasy-ii-job-system.json](./343369-final-fantasy-ii-job-system.json) |
 | Final Fantasy III | 158982 | [158982-final-fantasy-iii.json](./158982-final-fantasy-iii.json) |
 | Final Fantasy IV | 158983 | [158983-final-fantasy-iv.json](./158983-final-fantasy-iv.json) |
 | Final Fantasy IV | 282725 | [282725-final-fantasy-iv.json](./282725-final-fantasy-iv.json) |
@@ -2200,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Monopoly | 348875 | [348875-food-truck-monopoly.json](./348875-food-truck-monopoly.json) |
 | Food Truck Shop Simulator | 350537 | [350537-food-truck-shop-simulator.json](./350537-food-truck-shop-simulator.json) |
 | Food Truck Tycoon: Asian Cuisine | 147922 | [147922-food-truck-tycoon-asian-cuisine.json](./147922-food-truck-tycoon-asian-cuisine.json) |
+| Food Truck VR | 343329 | [343329-food-truck-vr.json](./343329-food-truck-vr.json) |
 | Food Wagon | 333359 | [333359-food-wagon.json](./333359-food-wagon.json) |
 | FoodFighters | 286010 | [286010-foodfighters.json](./286010-foodfighters.json) |
 | Foodguessr | 293936 | [293936-foodguessr.json](./293936-foodguessr.json) |
