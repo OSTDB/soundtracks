@@ -2241,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackSteel | 105301 | [105301-blacksteel.json](./105301-blacksteel.json) |
 | Blacktail | 152129 | [152129-blacktail.json](./152129-blacktail.json) |
 | Blackthorn Arena | 127233 | [127233-blackthorn-arena.json](./127233-blackthorn-arena.json) |
+| Blackthorn Witch | 362326 | [362326-blackthorn-witch.json](./362326-blackthorn-witch.json) |
 | BlackThorne Keep: Chronicles | 159262 | [159262-blackthorne-keep-chronicles.json](./159262-blackthorne-keep-chronicles.json) |
 | Blacktop Hustle | 365741 | [365741-blacktop-hustle.json](./365741-blacktop-hustle.json) |
 | Blackwater | 6917 | [6917-blackwater.json](./6917-blackwater.json) |
@@ -2493,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Cat Space Golf | 104029 | [104029-block-cat-space-golf.json](./104029-block-cat-space-golf.json) |
 | Block Champ | 229936 | [229936-block-champ.json](./229936-block-champ.json) |
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
+| Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
 | Block In | 390148 | [390148-block-in.json](./390148-block-in.json) |
 | Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
@@ -3006,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
 | Bombyx | 123639 | [123639-bombyx.json](./123639-bombyx.json) |
+| Bomcat | 362329 | [362329-bomcat.json](./362329-bomcat.json) |
 | Bonanza Burger | 288779 | [288779-bonanza-burger.json](./288779-bonanza-burger.json) |
 | Bonbon | 74482 | [74482-bonbon.json](./74482-bonbon.json) |
 | Bond | 302388 | [302388-bond.json](./302388-bond.json) |
