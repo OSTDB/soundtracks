@@ -559,7 +559,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
 | Age of Gods: Necros Faction | 399095 | [399095-age-of-gods-necros-faction.json](./399095-age-of-gods-necros-faction.json) |
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
-| Age of Mythology: Retold - Immortal Pillars | 317873 | [317873-age-of-mythology-retold-immortal-pillars.json](./317873-age-of-mythology-retold-immortal-pillars.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
 | Age of Ottoman | 200739 | [200739-age-of-ottoman.json](./200739-age-of-ottoman.json) |
 | Age of Respair | 350402 | [350402-age-of-respair.json](./350402-age-of-respair.json) |
@@ -3421,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asylum 45 | 384666 | [384666-asylum-45.json](./384666-asylum-45.json) |
 | Asylum 626 | 309321 | [309321-asylum-626.json](./309321-asylum-626.json) |
 | Asylum K | 271993 | [271993-asylum-k.json](./271993-asylum-k.json) |
+| Asylum: Patient Zero | 337192 | [337192-asylum-patient-zero.json](./337192-asylum-patient-zero.json) |
 | Asym Altered Axis | 205794 | [205794-asym-altered-axis.json](./205794-asym-altered-axis.json) |
 | Asyula | 57030 | [57030-asyula.json](./57030-asyula.json) |
 | ASZG Project | 236296 | [236296-aszg-project.json](./236296-aszg-project.json) |
