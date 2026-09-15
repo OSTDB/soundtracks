@@ -849,6 +849,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeling Arrow | 208975 | [208975-feeling-arrow.json](./208975-feeling-arrow.json) |
 | Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
 | Fei Tian | 86105 | [86105-fei-tian.json](./86105-fei-tian.json) |
+| Fèitǔ Báixuěgōngzhǔ | 348855 | [348855-feitu-baixuegongzhu.json](./348855-feitu-baixuegongzhu.json) |
+| Feitu Huiguniang | 348846 | [348846-feitu-huiguniang.json](./348846-feitu-huiguniang.json) |
+| Fèitǔ Xiǎohóngmào | 348836 | [348836-feitu-xiaohongmao.json](./348836-feitu-xiaohongmao.json) |
 | Felicity's Door | 381104 | [381104-felicitys-door.json](./381104-felicitys-door.json) |
 | Feline | 171559 | [171559-feline.json](./171559-feline.json) |
 | Feline Fever Dream | 416641 | [416641-feline-fever-dream.json](./416641-feline-fever-dream.json) |
@@ -1826,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Soccer 15 | 58192 | [58192-flick-soccer-15.json](./58192-flick-soccer-15.json) |
 | Flick Soccer Brazil | 58193 | [58193-flick-soccer-brazil.json](./58193-flick-soccer-brazil.json) |
 | Flick Soccer France 2016 | 58204 | [58204-flick-soccer-france-2016.json](./58204-flick-soccer-france-2016.json) |
+| Flicker | 348871 | [348871-flicker.json](./348871-flicker.json) |
 | Flicker | 381024 | [381024-flicker.json](./381024-flicker.json) |
 | Flicklash | 259540 | [259540-flicklash.json](./259540-flicklash.json) |
 | Flickle | 383393 | [383393-flickle.json](./383393-flickle.json) |
@@ -2174,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food From the Sky | 96966 | [96966-food-from-the-sky.json](./96966-food-from-the-sky.json) |
 | Food Gang | 144361 | [144361-food-gang.json](./144361-food-gang.json) |
 | Food Guess: Pixel Art Trivia | 405477 | [405477-food-guess-pixel-art-trivia.json](./405477-food-guess-pixel-art-trivia.json) |
+| Food Truck Monopoly | 348875 | [348875-food-truck-monopoly.json](./348875-food-truck-monopoly.json) |
 | Food Truck Shop Simulator | 350537 | [350537-food-truck-shop-simulator.json](./350537-food-truck-shop-simulator.json) |
 | Food Truck Tycoon: Asian Cuisine | 147922 | [147922-food-truck-tycoon-asian-cuisine.json](./147922-food-truck-tycoon-asian-cuisine.json) |
 | Food Wagon | 333359 | [333359-food-wagon.json](./333359-food-wagon.json) |
@@ -2441,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Ones | 360008 | [360008-forsaken-ones.json](./360008-forsaken-ones.json) |
 | Forsaken Overlook | 256823 | [256823-forsaken-overlook.json](./256823-forsaken-overlook.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
+| Forsaken Valley | 348860 | [348860-forsaken-valley.json](./348860-forsaken-valley.json) |
 | Forsaken World Mobile | 27046 | [27046-forsaken-world-mobile.json](./27046-forsaken-world-mobile.json) |
 | Fort Apache | 132816 | [132816-fort-apache.json](./132816-fort-apache.json) |
 | Fort Apocalypse | 13850 | [13850-fort-apocalypse.json](./13850-fort-apocalypse.json) |
@@ -2696,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreaKick | 68626 | [68626-freakick.json](./68626-freakick.json) |
 | Freakin' Funky Fuzzballs | 15515 | [15515-freakin-funky-fuzzballs.json](./15515-freakin-funky-fuzzballs.json) |
 | Freakout: Calamity TV Show | 102150 | [102150-freakout-calamity-tv-show.json](./102150-freakout-calamity-tv-show.json) |
+| Freakshow | 348840 | [348840-freakshow.json](./348840-freakshow.json) |
 | Freakshow: Anniversary | 99575 | [99575-freakshow-anniversary.json](./99575-freakshow-anniversary.json) |
 | Freaky Awesome | 27711 | [27711-freaky-awesome.json](./27711-freaky-awesome.json) |
 | Freaky Fish DX | 185624 | [185624-freaky-fish-dx.json](./185624-freaky-fish-dx.json) |
