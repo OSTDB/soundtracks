@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud | 37112 | [37112-family-feud.json](./37112-family-feud.json) |
 | Family Feud & Friends | 86099 | [86099-family-feud-and-friends.json](./86099-family-feud-and-friends.json) |
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
+| Family Feud: Battle of the Sexes | 358962 | [358962-family-feud-battle-of-the-sexes.json](./358962-family-feud-battle-of-the-sexes.json) |
 | Family Fun Pack | 391196 | [391196-family-fun-pack.json](./391196-family-fun-pack.json) |
 | Family Game Night 4: The Game Show | 20220 | [20220-family-game-night-4-the-game-show.json](./20220-family-game-night-4-the-game-show.json) |
 | Family Games | 45930 | [45930-family-games.json](./45930-family-games.json) |
@@ -1241,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find It - Tap the Different | 55102 | [55102-find-it-tap-the-different.json](./55102-find-it-tap-the-different.json) |
+| Find Kittens 4: Aetherpunk | 358948 | [358948-find-kittens-4-aetherpunk.json](./358948-find-kittens-4-aetherpunk.json) |
 | Find Kittens 7: Cookie Town | 379970 | [379970-find-kittens-7-cookie-town.json](./379970-find-kittens-7-cookie-town.json) |
 | Find Kittens 8: Happy New Year | 379381 | [379381-find-kittens-8-happy-new-year.json](./379381-find-kittens-8-happy-new-year.json) |
 | Find Kittens 9: Aliens | 386690 | [386690-find-kittens-9-aliens.json](./386690-find-kittens-9-aliens.json) |
@@ -1779,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleshport | 173261 | [173261-fleshport.json](./173261-fleshport.json) |
 | FleurBirdShoot | 192931 | [192931-fleurbirdshoot.json](./192931-fleurbirdshoot.json) |
 | Flewn | 18087 | [18087-flewn.json](./18087-flewn.json) |
+| Flex City | 358973 | [358973-flex-city.json](./358973-flex-city.json) |
 | Flexibility and Girls | 147979 | [147979-flexibility-and-girls.json](./147979-flexibility-and-girls.json) |
 | Flexible Survival | 60023 | [60023-flexible-survival.json](./60023-flexible-survival.json) |
 | Flick | 409649 | [409649-flick.json](./409649-flick.json) |
@@ -2957,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostborn | 381040 | [381040-frostborn.json](./381040-frostborn.json) |
 | Frostborn: Coop Survival | 141199 | [141199-frostborn-coop-survival.json](./141199-frostborn-coop-survival.json) |
 | FrostFire: Battle Frenzy | 269023 | [269023-frostfire-battle-frenzy.json](./269023-frostfire-battle-frenzy.json) |
+| Frostliner | 358967 | [358967-frostliner.json](./358967-frostliner.json) |
 | Frostpunk: Console Edition | 117420 | [117420-frostpunk-console-edition.json](./117420-frostpunk-console-edition.json) |
 | Frostpunk: The Fall of Winterhome | 109637 | [109637-frostpunk-the-fall-of-winterhome.json](./109637-frostpunk-the-fall-of-winterhome.json) |
 | Frostveil: The Last Winter | 389580 | [389580-frostveil-the-last-winter.json](./389580-frostveil-the-last-winter.json) |
