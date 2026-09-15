@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrol Police: Job Simulator | 223984 | [223984-patrol-police-job-simulator.json](./223984-patrol-police-job-simulator.json) |
 | Patrolling the Highway | 359409 | [359409-patrolling-the-highway.json](./359409-patrolling-the-highway.json) |
 | Patron | 152393 | [152393-patron.json](./152393-patron.json) |
+| Pattern Thinking Puzzle Build It Before 10 | 362365 | [362365-pattern-thinking-puzzle-build-it-before-10.json](./362365-pattern-thinking-puzzle-build-it-before-10.json) |
 | Patterns | 131534 | [131534-patterns.json](./131534-patterns.json) |
 | Patterns | 8441 | [8441-patterns.json](./8441-patterns.json) |
 | Patterns of the Oak | 358850 | [358850-patterns-of-the-oak.json](./358850-patterns-of-the-oak.json) |
@@ -2714,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool! | 88287 | [88287-pool.json](./88287-pool.json) |
 | Poolcore | 238742 | [238742-poolcore.json](./238742-poolcore.json) |
 | Pools | 274791 | [274791-pools.json](./274791-pools.json) |
+| Poolside Girls Kiss: Passion Fruits Hotel Dating Sim | 362364 | [362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json](./362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json) |
 | Poop Fiction | 302129 | [302129-poop-fiction.json](./302129-poop-fiction.json) |
 | Poop Killer | 222320 | [222320-poop-killer.json](./222320-poop-killer.json) |
 | Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
@@ -3862,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PunPics | 233217 | [233217-punpics.json](./233217-punpics.json) |
 | Punt | 239675 | [239675-punt.json](./239675-punt.json) |
 | Punt: Rebirth | 401486 | [401486-punt-rebirth.json](./401486-punt-rebirth.json) |
+| Punyan Connecty | 362351 | [362351-punyan-connecty.json](./362351-punyan-connecty.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
 | Pupil: Wandering VR | 117834 | [117834-pupil-wandering-vr.json](./117834-pupil-wandering-vr.json) |
 | Puppet Kings | 82853 | [82853-puppet-kings.json](./82853-puppet-kings.json) |
