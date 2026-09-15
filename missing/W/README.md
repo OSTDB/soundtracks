@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Connect Puzzle | 213379 | [213379-water-connect-puzzle.json](./213379-water-connect-puzzle.json) |
 | Water Density | 76530 | [76530-water-density.json](./76530-water-density.json) |
 | Water Drift | 153381 | [153381-water-drift.json](./153381-water-drift.json) |
+| Water Horse | 363987 | [363987-water-horse.json](./363987-water-horse.json) |
 | Water Me & You | 260169 | [260169-water-me-and-you.json](./260169-water-me-and-you.json) |
 | Water of M | 399065 | [399065-water-of-m.json](./399065-water-of-m.json) |
 | Water Park: Fun Water Slides | 96974 | [96974-water-park-fun-water-slides.json](./96974-water-park-fun-water-slides.json) |
@@ -662,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Love Juggler | 59361 | [59361-we-love-juggler.json](./59361-we-love-juggler.json) |
 | We Love Katamari Reroll + Royal Reverie - Katamari Damacy Series Music Bundle | 272559 | [272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json](./272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json) |
 | We Love Katamari Reroll + Royal Reverie: Deluxe Edition | 251602 | [251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json](./251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json) |
+| We Need an Army | 363952 | [363952-we-need-an-army.json](./363952-we-need-an-army.json) |
 | We Need the Sun | 185610 | [185610-we-need-the-sun.json](./185610-we-need-the-sun.json) |
 | We Pretend | 410338 | [410338-we-pretend.json](./410338-we-pretend.json) |
 | We Rock: Drum King | 5127 | [5127-we-rock-drum-king.json](./5127-we-rock-drum-king.json) |
