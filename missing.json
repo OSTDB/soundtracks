@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T08:18:47.053Z",
-  "total_missing": 73149,
+  "generated_at": "2026-09-15T08:21:37.615Z",
+  "total_missing": 73148,
   "games": [
     {
       "igdb_id": 306086,
@@ -5101,11 +5101,6 @@
       "igdb_id": 366912,
       "game_name": "After Hell Freezes Over",
       "file": "missing/A/366912-after-hell-freezes-over.json"
-    },
-    {
-      "igdb_id": 44603,
-      "game_name": "After Hours Athletes",
-      "file": "missing/A/44603-after-hours-athletes.json"
     },
     {
       "igdb_id": 178036,
