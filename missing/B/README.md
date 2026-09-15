@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Drones: Red Rock Resistance | 226237 | [226237-battle-drones-red-rock-resistance.json](./226237-battle-drones-red-rock-resistance.json) |
 | Battle Ducks | 38979 | [38979-battle-ducks.json](./38979-battle-ducks.json) |
 | Battle Dungeon: Risen | 175438 | [175438-battle-dungeon-risen.json](./175438-battle-dungeon-risen.json) |
+| Battle Engine Aquila | 344462 | [344462-battle-engine-aquila.json](./344462-battle-engine-aquila.json) |
 | Battle Fighter | 55861 | [55861-battle-fighter.json](./55861-battle-fighter.json) |
 | Battle Fishing Masters | 190198 | [190198-battle-fishing-masters.json](./190198-battle-fishing-masters.json) |
 | Battle Fleet | 48586 | [48586-battle-fleet.json](./48586-battle-fleet.json) |
@@ -3012,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombanana! | 404342 | [404342-bombanana.json](./404342-bombanana.json) |
 | Bombardiro Crocodilo Mission | 370195 | [370195-bombardiro-crocodilo-mission.json](./370195-bombardiro-crocodilo-mission.json) |
 | Bombardiro Crocodilo Simulator | 349300 | [349300-bombardiro-crocodilo-simulator.json](./349300-bombardiro-crocodilo-simulator.json) |
+| Bombardiro Crocodilo: Italian Brainrot Simulator | 344481 | [344481-bombardiro-crocodilo-italian-brainrot-simulator.json](./344481-bombardiro-crocodilo-italian-brainrot-simulator.json) |
 | Bombarium | 179129 | [179129-bombarium.json](./179129-bombarium.json) |
 | Bombastic | 308253 | [308253-bombastic.json](./308253-bombastic.json) |
 | Bombball | 301584 | [301584-bombball.json](./301584-bombball.json) |
@@ -4152,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker 2322 | 196263 | [196263-bunker-2322.json](./196263-bunker-2322.json) |
 | Bunker 58 | 29638 | [29638-bunker-58.json](./29638-bunker-58.json) |
 | Bunker Builder Simulator | 217503 | [217503-bunker-builder-simulator.json](./217503-bunker-builder-simulator.json) |
+| Bunker Down | 344437 | [344437-bunker-down.json](./344437-bunker-down.json) |
 | Bunker Life | 220870 | [220870-bunker-life.json](./220870-bunker-life.json) |
 | Bunker of Barzai | 271460 | [271460-bunker-of-barzai.json](./271460-bunker-of-barzai.json) |
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
