@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T03:48:53.070Z",
-  "total_missing": 72321,
+  "generated_at": "2026-09-15T03:51:37.096Z",
+  "total_missing": 72320,
   "games": [
     {
       "igdb_id": 306086,
@@ -4966,11 +4966,6 @@
       "igdb_id": 405469,
       "game_name": "AFK Industarry",
       "file": "missing/A/405469-afk-industarry.json"
-    },
-    {
-      "igdb_id": 179206,
-      "game_name": "AFK Summoner",
-      "file": "missing/A/179206-afk-summoner.json"
     },
     {
       "igdb_id": 60580,
