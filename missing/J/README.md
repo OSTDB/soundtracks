@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack and the Beanstalk | 25724 | [25724-jack-and-the-beanstalk.json](./25724-jack-and-the-beanstalk.json) |
 | Jack and the Beanstalk | 394188 | [394188-jack-and-the-beanstalk.json](./394188-jack-and-the-beanstalk.json) |
 | Jack and the Beanstalk Jigsaw Puzzle | 163406 | [163406-jack-and-the-beanstalk-jigsaw-puzzle.json](./163406-jack-and-the-beanstalk-jigsaw-puzzle.json) |
+| Jack and the Beanstalk: A Hidden Story | 368037 | [368037-jack-and-the-beanstalk-a-hidden-story.json](./368037-jack-and-the-beanstalk-a-hidden-story.json) |
 | Jack Attack 2 | 210045 | [210045-jack-attack-2.json](./210045-jack-attack-2.json) |
 | Jack Axe: The Trial | 165622 | [165622-jack-axe-the-trial.json](./165622-jack-axe-the-trial.json) |
 | Jack Blacksmith | 231942 | [231942-jack-blacksmith.json](./231942-jack-blacksmith.json) |
@@ -374,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiànxí Sǐshén | 374622 | [374622-jianxi-sishen.json](./374622-jianxi-sishen.json) |
 | Jiànxiá Tú | 157674 | [157674-jianxia-tu.json](./157674-jianxia-tu.json) |
 | Jibaku-kun: Zero no Ki no Kajitsu | 295036 | [295036-jibaku-kun-zero-no-ki-no-kajitsu.json](./295036-jibaku-kun-zero-no-ki-no-kajitsu.json) |
+| Jibchag-ui Mangja: Jib-eulobuteoui Talchul | 368041 | [368041-jibchag-ui-mangja-jib-eulobuteoui-talchul.json](./368041-jibchag-ui-mangja-jib-eulobuteoui-talchul.json) |
 | Jigdoku | 404203 | [404203-jigdoku.json](./404203-jigdoku.json) |
 | Jigoku Gokurakumaru | 215128 | [215128-jigoku-gokurakumaru.json](./215128-jigoku-gokurakumaru.json) |
 | Jigoku Hell | 178025 | [178025-jigoku-hell.json](./178025-jigoku-hell.json) |
