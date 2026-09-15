@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die DillyBillys | 398477 | [398477-die-dillybillys.json](./398477-die-dillybillys.json) |
 | Die drei???: Plan der Chamäleonbande | 302665 | [302665-die-drei-plan-der-chamaleonbande.json](./302665-die-drei-plan-der-chamaleonbande.json) |
 | Die Erdnussbutter | 285978 | [285978-die-erdnussbutter.json](./285978-die-erdnussbutter.json) |
+| Die Fast | 338289 | [338289-die-fast.json](./338289-die-fast.json) |
 | Die for Valhalla! | 40868 | [40868-die-for-valhalla.json](./40868-die-for-valhalla.json) |
 | Die for Valhalla!: Special Edition | 122357 | [122357-die-for-valhalla-special-edition.json](./122357-die-for-valhalla-special-edition.json) |
 | Die Fugger | 86040 | [86040-die-fugger.json](./86040-die-fugger.json) |
@@ -2215,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur | 310972 | [310972-dinosaur.json](./310972-dinosaur.json) |
 | Dinosaur Adventure 3-D | 69808 | [69808-dinosaur-adventure-3-d.json](./69808-dinosaur-adventure-3-d.json) |
 | Dinosaur Battlegrounds | 57127 | [57127-dinosaur-battlegrounds.json](./57127-dinosaur-battlegrounds.json) |
+| Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
 | Dinosaur Hunter | 98984 | [98984-dinosaur-hunter.json](./98984-dinosaur-hunter.json) |
 | Dinosaur Hunter 2018 | 105858 | [105858-dinosaur-hunter-2018.json](./105858-dinosaur-hunter-2018.json) |
@@ -2239,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
 | Dinovaporate | 256562 | [256562-dinovaporate.json](./256562-dinovaporate.json) |
 | DinoVR | 114981 | [114981-dinovr.json](./114981-dinovr.json) |
+| Dinus Escape | 338293 | [338293-dinus-escape.json](./338293-dinus-escape.json) |
 | Dio Simulator Remastered | 201841 | [201841-dio-simulator-remastered.json](./201841-dio-simulator-remastered.json) |
 | Diode Arena | 207336 | [207336-diode-arena.json](./207336-diode-arena.json) |
 | Dionysus | 412410 | [412410-dionysus.json](./412410-dionysus.json) |
@@ -4414,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwango5 | 143038 | [143038-dwango5.json](./143038-dwango5.json) |
 | Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
 | Dwarf Land | 284905 | [284905-dwarf-land.json](./284905-dwarf-land.json) |
+| Dwarf Legacy | 338297 | [338297-dwarf-legacy.json](./338297-dwarf-legacy.json) |
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
 | Dwarfs & Witch | 346088 | [346088-dwarfs-and-witch.json](./346088-dwarfs-and-witch.json) |
 | Dwarfs Descent | 350420 | [350420-dwarfs-descent.json](./350420-dwarfs-descent.json) |
