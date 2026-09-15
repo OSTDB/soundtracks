@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven days with the Ghost | 110935 | [110935-seven-days-with-the-ghost.json](./110935-seven-days-with-the-ghost.json) |
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
+| Seven Hearts | 351108 | [351108-seven-hearts.json](./351108-seven-hearts.json) |
 | Seven Knights: Time Wanderer - Cosplay Costume Set | 237932 | [237932-seven-knights-time-wanderer-cosplay-costume-set.json](./237932-seven-knights-time-wanderer-cosplay-costume-set.json) |
 | Seven Knights: Time Wanderer - Special Edition | 238229 | [238229-seven-knights-time-wanderer-special-edition.json](./238229-seven-knights-time-wanderer-special-edition.json) |
 | Seven Little Spider Kittens | 276175 | [276175-seven-little-spider-kittens.json](./276175-seven-little-spider-kittens.json) |
@@ -1701,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowland | 119020 | [119020-shadowland.json](./119020-shadowland.json) |
 | Shadowland | 206147 | [206147-shadowland.json](./206147-shadowland.json) |
 | Shadowlands | 37128 | [37128-shadowlands.json](./37128-shadowlands.json) |
+| Shadowless | 351081 | [351081-shadowless.json](./351081-shadowless.json) |
 | ShadowLight Siblings | 314300 | [314300-shadowlight-siblings.json](./314300-shadowlight-siblings.json) |
 | Shadowlings | 103463 | [103463-shadowlings.json](./103463-shadowlings.json) |
 | Shadowmatic | 19496 | [19496-shadowmatic.json](./19496-shadowmatic.json) |
@@ -3155,6 +3157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash Arena: Online | 51943 | [51943-slash-arena-online.json](./51943-slash-arena-online.json) |
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
 | Slash of Sword 2 | 254157 | [254157-slash-of-sword-2.json](./254157-slash-of-sword-2.json) |
+| Slash'EM Extended | 351135 | [351135-slashem-extended.json](./351135-slashem-extended.json) |
 | Slashboy | 333393 | [333393-slashboy.json](./333393-slashboy.json) |
 | Slasher | 352843 | [352843-slasher.json](./352843-slasher.json) |
 | Slasher Lock | 184593 | [184593-slasher-lock.json](./184593-slasher-lock.json) |
@@ -4512,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcery Saga: Curse of the Great Curry God | 19915 | [19915-sorcery-saga-curse-of-the-great-curry-god.json](./19915-sorcery-saga-curse-of-the-great-curry-god.json) |
 | Sorcery! | 88541 | [88541-sorcery.json](./88541-sorcery.json) |
 | Sorcevival | 276169 | [276169-sorcevival.json](./276169-sorcevival.json) |
+| Sorcières & Compagnie | 351105 | [351105-sorcieres-and-compagnie.json](./351105-sorcieres-and-compagnie.json) |
 | Sore Ike! Anpanman: Hajimete Kaketa yo! Oboeta yo! Hiragana, Katakana: 50-on Board Kinou-tsuki | 300422 | [300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json](./300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json) |
 | Sore Jaa, Mata ne. | 201807 | [201807-sore-jaa-mata-ne.json](./201807-sore-jaa-mata-ne.json) |
 | Soreike! Anpanman Card de Tanoshiku ABC | 327608 | [327608-soreike-anpanman-card-de-tanoshiku-abc.json](./327608-soreike-anpanman-card-de-tanoshiku-abc.json) |
