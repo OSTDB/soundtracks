@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZeroSpace | 262659 | [262659-zerospace.json](./262659-zerospace.json) |
 | Zeroth Zone | 72133 | [72133-zeroth-zone.json](./72133-zeroth-zone.json) |
 | ZeroVector | 241638 | [241638-zerovector.json](./241638-zerovector.json) |
+| ZeroZeta | 361761 | [361761-zerozeta.json](./361761-zerozeta.json) |
 | Zerstört Zerstört | 128582 | [128582-zerstort-zerstort.json](./128582-zerstort-zerstort.json) |
 | ZEscape | 103502 | [103502-zescape.json](./103502-zescape.json) |
 | Zest & Goop | 183512 | [183512-zest-and-goop.json](./183512-zest-and-goop.json) |
@@ -512,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zootto Mahjong! | 37744 | [37744-zootto-mahjong.json](./37744-zootto-mahjong.json) |
 | ZooZooGo! | 64396 | [64396-zoozoogo.json](./64396-zoozoogo.json) |
 | Zoria: Age of Shattering - Ancestors' Weapon Pack | 402944 | [402944-zoria-age-of-shattering-ancestors-weapon-pack.json](./402944-zoria-age-of-shattering-ancestors-weapon-pack.json) |
+| Zorlok | 361789 | [361789-zorlok.json](./361789-zorlok.json) |
 | Zorpon | 208413 | [208413-zorpon.json](./208413-zorpon.json) |
 | Zorro | 81431 | [81431-zorro.json](./81431-zorro.json) |
 | Zorro: Quest for Justice | 60504 | [60504-zorro-quest-for-justice.json](./60504-zorro-quest-for-justice.json) |
