@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Girls: First Session | 396435 | [396435-photo-girls-first-session.json](./396435-photo-girls-first-session.json) |
 | Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
+| PhotoLoop | 361811 | [361811-photoloop.json](./361811-photoloop.json) |
 | Photomount | 384653 | [384653-photomount.json](./384653-photomount.json) |
 | Photon Blade | 404979 | [404979-photon-blade.json](./404979-photon-blade.json) |
 | Photon Cube | 104057 | [104057-photon-cube.json](./104057-photon-cube.json) |
@@ -1459,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig King | 407443 | [407443-pig-king.json](./407443-pig-king.json) |
 | Pig Skater Simulator | 164990 | [164990-pig-skater-simulator.json](./164990-pig-skater-simulator.json) |
 | Pig vs. Box | 366219 | [366219-pig-vs-box.json](./366219-pig-vs-box.json) |
+| Pigbert | 361766 | [361766-pigbert.json](./361766-pigbert.json) |
 | Pigeon | 311457 | [311457-pigeon.json](./311457-pigeon.json) |
 | Pigeon Hunter | 369121 | [369121-pigeon-hunter.json](./369121-pigeon-hunter.json) |
 | Pigeon Protocol | 245880 | [245880-pigeon-protocol.json](./245880-pigeon-protocol.json) |
@@ -2921,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Link VR | 31856 | [31856-power-link-vr.json](./31856-power-link-vr.json) |
 | Power of Seasons | 406717 | [406717-power-of-seasons.json](./406717-power-of-seasons.json) |
 | Power of Slide | 149041 | [149041-power-of-slide.json](./149041-power-of-slide.json) |
+| Power of the Horde | 361807 | [361807-power-of-the-horde.json](./361807-power-of-the-horde.json) |
 | Power of The Void | 74364 | [74364-power-of-the-void.json](./74364-power-of-the-void.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
 | Power Pete | 47272 | [47272-power-pete.json](./47272-power-pete.json) |
@@ -3938,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
 | Push-Up T-Rex | 243709 | [243709-push-up-t-rex.json](./243709-push-up-t-rex.json) |
 | Push:Block | 118951 | [118951-push-block.json](./118951-push-block.json) |
+| Push'n Pull | 361740 | [361740-pushn-pull.json](./361740-pushn-pull.json) |
 | Pushamo | 152281 | [152281-pushamo.json](./152281-pushamo.json) |
 | PushBoy - a Sokoban style puzzle game | 91332 | [91332-pushboy-a-sokoban-style-puzzle-game.json](./91332-pushboy-a-sokoban-style-puzzle-game.json) |
 | Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
