@@ -2783,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Morane: Science Fiction 1 | 55096 | [55096-bob-morane-science-fiction-1.json](./55096-bob-morane-science-fiction-1.json) |
 | Bob the Builder: Bob Builds A Park | 72055 | [72055-bob-the-builder-bob-builds-a-park.json](./72055-bob-the-builder-bob-builds-a-park.json) |
 | Bob the Builder: Build City | 91335 | [91335-bob-the-builder-build-city.json](./91335-bob-the-builder-build-city.json) |
+| Bob the Builder: Festival of Fun | 374680 | [374680-bob-the-builder-festival-of-fun.json](./374680-bob-the-builder-festival-of-fun.json) |
 | Bob the Builder: Fix it Fun! | 49879 | [49879-bob-the-builder-fix-it-fun.json](./49879-bob-the-builder-fix-it-fun.json) |
 | Bob vs the Mob | 57670 | [57670-bob-vs-the-mob.json](./57670-bob-vs-the-mob.json) |
 | Bob Wants to Go Home | 129744 | [129744-bob-wants-to-go-home.json](./129744-bob-wants-to-go-home.json) |
@@ -3637,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brighter Days | 391187 | [391187-brighter-days.json](./391187-brighter-days.json) |
 | Brightfall | 378215 | [378215-brightfall.json](./378215-brightfall.json) |
 | Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
+| Briks Boss Battle | 374669 | [374669-briks-boss-battle.json](./374669-briks-boss-battle.json) |
 | Briks Head to Head | 187547 | [187547-briks-head-to-head.json](./187547-briks-head-to-head.json) |
 | Brilliance shines in Zhejiang | 201797 | [201797-brilliance-shines-in-zhejiang.json](./201797-brilliance-shines-in-zhejiang.json) |
 | Brilliant Bob | 19484 | [19484-brilliant-bob.json](./19484-brilliant-bob.json) |
