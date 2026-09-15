@@ -4004,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buhei | 265397 | [265397-buhei.json](./265397-buhei.json) |
 | Buick PGA Tour Courses | 100136 | [100136-buick-pga-tour-courses.json](./100136-buick-pga-tour-courses.json) |
 | Build & Battle | 166694 | [166694-build-and-battle.json](./166694-build-and-battle.json) |
+| Build & Survive | 351722 | [351722-build-and-survive.json](./351722-build-and-survive.json) |
 | Build A Bank Tycoon | 394381 | [394381-build-a-bank-tycoon.json](./394381-build-a-bank-tycoon.json) |
 | Build A Train 2 | 100728 | [100728-build-a-train-2.json](./100728-build-a-train-2.json) |
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
