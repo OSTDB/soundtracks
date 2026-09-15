@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pangolin Love: Day 2 - India | 375813 | [375813-pangolin-love-day-2-india.json](./375813-pangolin-love-day-2-india.json) |
 | Pangolin Love: Day 3 - China | 375814 | [375814-pangolin-love-day-3-china.json](./375814-pangolin-love-day-3-china.json) |
 | Pangolin Love: Day 4 - The Philippines | 375815 | [375815-pangolin-love-day-4-the-philippines.json](./375815-pangolin-love-day-4-the-philippines.json) |
+| Pangs: You Are Hungry | 377697 | [377697-pangs-you-are-hungry.json](./377697-pangs-you-are-hungry.json) |
 | Panic | 245858 | [245858-panic.json](./245858-panic.json) |
 | Panic 64 | 130373 | [130373-panic-64.json](./130373-panic-64.json) |
 | Panic at Multiverse High! | 31660 | [31660-panic-at-multiverse-high.json](./31660-panic-at-multiverse-high.json) |
@@ -1589,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Science | 216248 | [216248-pinball-science.json](./216248-pinball-science.json) |
 | Pinball Shuffle | 88315 | [88315-pinball-shuffle.json](./88315-pinball-shuffle.json) |
 | Pinball Sniper | 344963 | [344963-pinball-sniper.json](./344963-pinball-sniper.json) |
+| Pinball Strike Arcade Rampage | 377720 | [377720-pinball-strike-arcade-rampage.json](./377720-pinball-strike-arcade-rampage.json) |
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
 | Pinball Wizard | 12959 | [12959-pinball-wizard.json](./12959-pinball-wizard.json) |
 | Pinball World | 51887 | [51887-pinball-world.json](./51887-pinball-world.json) |
@@ -1920,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Meowbolt | 337986 | [337986-pixicharm-meowbolt.json](./337986-pixicharm-meowbolt.json) |
 | Pixicharm: Spartunex | 361698 | [361698-pixicharm-spartunex.json](./361698-pixicharm-spartunex.json) |
 | Pixicharm: Speedy Squire | 335964 | [335964-pixicharm-speedy-squire.json](./335964-pixicharm-speedy-squire.json) |
+| Pixicharm: Vesprax | 377706 | [377706-pixicharm-vesprax.json](./377706-pixicharm-vesprax.json) |
 | Pixie Pete | 25688 | [25688-pixie-pete.json](./25688-pixie-pete.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
@@ -2383,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: Season of Heritage | 218486 | [218486-pokemon-go-season-of-heritage.json](./218486-pokemon-go-season-of-heritage.json) |
 | Pokémon Go: Season of Legends | 218502 | [218502-pokemon-go-season-of-legends.json](./218502-pokemon-go-season-of-legends.json) |
 | Pokémon Go: Season of Mischief | 218487 | [218487-pokemon-go-season-of-mischief.json](./218487-pokemon-go-season-of-mischief.json) |
+| Pokémon Goita | 377713 | [377713-pokemon-goita.json](./377713-pokemon-goita.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon Home | 141960 | [141960-pokemon-home.json](./141960-pokemon-home.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
