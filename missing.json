@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T19:34:16.956Z",
-  "total_missing": 75120,
+  "generated_at": "2026-09-15T19:41:38.042Z",
+  "total_missing": 75119,
   "games": [
     {
       "igdb_id": 306086,
@@ -5471,11 +5471,6 @@
       "igdb_id": 396377,
       "game_name": "Age of Explorers",
       "file": "missing/A/396377-age-of-explorers.json"
-    },
-    {
-      "igdb_id": 51550,
-      "game_name": "Age of Fear 3: The Legend",
-      "file": "missing/A/51550-age-of-fear-3-the-legend.json"
     },
     {
       "igdb_id": 9952,
