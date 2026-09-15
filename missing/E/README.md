@@ -1676,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
 | EvoLife | 323744 | [323744-evolife.json](./323744-evolife.json) |
+| Evolized | 353371 | [353371-evolized.json](./353371-evolized.json) |
 | Evolution | 178006 | [178006-evolution.json](./178006-evolution.json) |
 | Evolution | 34674 | [34674-evolution.json](./34674-evolution.json) |
 | Evolution | 370144 | [370144-evolution.json](./370144-evolution.json) |
