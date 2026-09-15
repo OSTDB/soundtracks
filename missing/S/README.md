@@ -4757,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
 | Space Hero Line | 43518 | [43518-space-hero-line.json](./43518-space-hero-line.json) |
 | Space Hitchhiker Stop | 360563 | [360563-space-hitchhiker-stop.json](./360563-space-hitchhiker-stop.json) |
+| Space Hole | 361227 | [361227-space-hole.json](./361227-space-hole.json) |
 | Space Hole 2020 | 156675 | [156675-space-hole-2020.json](./156675-space-hole-2020.json) |
 | Space Hood | 372450 | [372450-space-hood.json](./372450-space-hood.json) |
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
@@ -6852,6 +6853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike the Planets! | 226765 | [226765-strike-the-planets.json](./226765-strike-the-planets.json) |
 | Strike Wing: Raptor Rising | 3148 | [3148-strike-wing-raptor-rising.json](./3148-strike-wing-raptor-rising.json) |
 | Strike Witches: Doki! Otome Darake no Jouriku Sakusen | 69278 | [69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json](./69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json) |
+| Strikeforce | 361229 | [361229-strikeforce.json](./361229-strikeforce.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
 | Striker of Sky | 238498 | [238498-striker-of-sky.json](./238498-striker-of-sky.json) |
 | Striker Soccer Euro 2012 | 51168 | [51168-striker-soccer-euro-2012.json](./51168-striker-soccer-euro-2012.json) |
