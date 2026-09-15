@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ling Rise | 143665 | [143665-ling-rise.json](./143665-ling-rise.json) |
 | Linger | 139417 | [139417-linger.json](./139417-linger.json) |
 | LingerieS | 298038 | [298038-lingeries.json](./298038-lingeries.json) |
+| LingeriesOffice | 334786 | [334786-lingeriesoffice.json](./334786-lingeriesoffice.json) |
 | Lingering Legacy | 156086 | [156086-lingering-legacy.json](./156086-lingering-legacy.json) |
 | LingerToAlive | 231351 | [231351-lingertoalive.json](./231351-lingertoalive.json) |
 | Linggango | 383935 | [383935-linggango.json](./383935-linggango.json) |
