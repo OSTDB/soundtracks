@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem 8: Self-Randomizing | 259869 | [259869-fire-emblem-8-self-randomizing.json](./259869-fire-emblem-8-self-randomizing.json) |
 | Fire Emblem 8R | 380529 | [380529-fire-emblem-8r.json](./380529-fire-emblem-8r.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
+| Fire Emblem Wars | 338815 | [338815-fire-emblem-wars.json](./338815-fire-emblem-wars.json) |
 | Fire Emblem: Blessed Heart | 214493 | [214493-fire-emblem-blessed-heart.json](./214493-fire-emblem-blessed-heart.json) |
 | Fire Emblem: Dark Lord and The Maiden of Light | 214537 | [214537-fire-emblem-dark-lord-and-the-maiden-of-light.json](./214537-fire-emblem-dark-lord-and-the-maiden-of-light.json) |
 | Fire Emblem: Deity Device | 270674 | [270674-fire-emblem-deity-device.json](./270674-fire-emblem-deity-device.json) |
@@ -3130,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fukuro to Subaru | 326946 | [326946-fukuro-to-subaru.json](./326946-fukuro-to-subaru.json) |
 | Fulcrum Frenzy | 183006 | [183006-fulcrum-frenzy.json](./183006-fulcrum-frenzy.json) |
 | Fule | 305537 | [305537-fule.json](./305537-fule.json) |
+| Fulfill the Dream | 338811 | [338811-fulfill-the-dream.json](./338811-fulfill-the-dream.json) |
 | Full Auto 2: Battlelines | 197931 | [197931-full-auto-2-battlelines.json](./197931-full-auto-2-battlelines.json) |
 | Full Belly Breakout | 402912 | [402912-full-belly-breakout.json](./402912-full-belly-breakout.json) |
 | Full Blast Hitchhike | 344479 | [344479-full-blast-hitchhike.json](./344479-full-blast-hitchhike.json) |
