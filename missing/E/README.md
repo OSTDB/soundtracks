@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Memories | 386148 | [386148-enchanted-memories.json](./386148-enchanted-memories.json) |
 | Enchanted Solitaire | 386133 | [386133-enchanted-solitaire.json](./386133-enchanted-solitaire.json) |
 | Enchanted Solitaire 2 | 386123 | [386123-enchanted-solitaire-2.json](./386123-enchanted-solitaire-2.json) |
+| Enchanted Stories: Mystic Woods - Collector's Edition | 356763 | [356763-enchanted-stories-mystic-woods-collectors-edition.json](./356763-enchanted-stories-mystic-woods-collectors-edition.json) |
 | Enchanter Trilogy | 73789 | [73789-enchanter-trilogy.json](./73789-enchanter-trilogy.json) |
 | Encircled | 319977 | [319977-encircled.json](./319977-encircled.json) |
 | Enclave: Shadows of Twilight | 77980 | [77980-enclave-shadows-of-twilight.json](./77980-enclave-shadows-of-twilight.json) |
@@ -1348,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
 | Esport Club Tycoon | 197370 | [197370-esport-club-tycoon.json](./197370-esport-club-tycoon.json) |
 | ESport Manager | 81150 | [81150-esport-manager.json](./81150-esport-manager.json) |
+| Esports Team Manager | 356710 | [356710-esports-team-manager.json](./356710-esports-team-manager.json) |
 | Essence | 383502 | [383502-essence.json](./383502-essence.json) |
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
 | Essence Hunt | 177512 | [177512-essence-hunt.json](./177512-essence-hunt.json) |
