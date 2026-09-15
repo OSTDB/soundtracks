@@ -4217,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MSX Soccer | 94680 | [94680-msx-soccer.json](./94680-msx-soccer.json) |
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
 | MTB DirtCross | 298860 | [298860-mtb-dirtcross.json](./298860-mtb-dirtcross.json) |
+| MTF: Moth To a Flame | 379980 | [379980-mtf-moth-to-a-flame.json](./379980-mtf-moth-to-a-flame.json) |
 | Mtn Chaos | 257963 | [257963-mtn-chaos.json](./257963-mtn-chaos.json) |
 | MTV Remote Control | 18019 | [18019-mtv-remote-control.json](./18019-mtv-remote-control.json) |
 | MTV Sports: Pure Ride | 306635 | [306635-mtv-sports-pure-ride.json](./306635-mtv-sports-pure-ride.json) |
