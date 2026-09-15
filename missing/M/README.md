@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Games Tycoon | 13172 | [13172-mad-games-tycoon.json](./13172-mad-games-tycoon.json) |
 | Mad Gun Range VR Simulator | 115689 | [115689-mad-gun-range-vr-simulator.json](./115689-mad-gun-range-vr-simulator.json) |
 | Mad Head | 311471 | [311471-mad-head.json](./311471-mad-head.json) |
+| Mad Lab Roulette | 362925 | [362925-mad-lab-roulette.json](./362925-mad-lab-roulette.json) |
 | Mad Machines | 107156 | [107156-mad-machines.json](./107156-mad-machines.json) |
 | Mad Maestro! | 43634 | [43634-mad-maestro.json](./43634-mad-maestro.json) |
 | Mad Manuel | 103389 | [103389-mad-manuel.json](./103389-mad-manuel.json) |
@@ -2316,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
 | Mia | 169370 | [169370-mia.json](./169370-mia.json) |
 | Mia & Mio | 388752 | [388752-mia-and-mio.json](./388752-mia-and-mio.json) |
+| Mia Hamm Soccer | 362900 | [362900-mia-hamm-soccer.json](./362900-mia-hamm-soccer.json) |
 | MIA Online | 135806 | [135806-mia-online.json](./135806-mia-online.json) |
 | MIA: Memory Fragments | 404202 | [404202-mia-memory-fragments.json](./404202-mia-memory-fragments.json) |
 | Mia's Math Adventure: Just in Time! | 144378 | [144378-mias-math-adventure-just-in-time.json](./144378-mias-math-adventure-just-in-time.json) |
@@ -4911,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myles Wright: Ace Attorney | 303775 | [303775-myles-wright-ace-attorney.json](./303775-myles-wright-ace-attorney.json) |
 | Mylk | 146830 | [146830-mylk.json](./146830-mylk.json) |
 | Mylo uronil | 110143 | [110143-mylo-uronil.json](./110143-mylo-uronil.json) |
+| Myosotis | 362891 | [362891-myosotis.json](./362891-myosotis.json) |
 | MyPopgoes | 243687 | [243687-mypopgoes.json](./243687-mypopgoes.json) |
 | Myrddin | 174361 | [174361-myrddin.json](./174361-myrddin.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
