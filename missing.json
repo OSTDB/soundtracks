@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T22:04:04.960Z",
-  "total_missing": 75572,
+  "generated_at": "2026-09-15T22:11:36.064Z",
+  "total_missing": 75571,
   "games": [
     {
       "igdb_id": 306086,
@@ -5546,11 +5546,6 @@
       "igdb_id": 13186,
       "game_name": "Age of Mythology: Tale of the Dragon",
       "file": "missing/A/13186-age-of-mythology-tale-of-the-dragon.json"
-    },
-    {
-      "igdb_id": 200739,
-      "game_name": "Age of Ottoman",
-      "file": "missing/A/200739-age-of-ottoman.json"
     },
     {
       "igdb_id": 350402,
