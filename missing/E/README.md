@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Eye Mysteries in London | 73270 | [73270-eagle-eye-mysteries-in-london.json](./73270-eagle-eye-mysteries-in-london.json) |
 | Eagle Island | 28774 | [28774-eagle-island.json](./28774-eagle-island.json) |
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
+| Eagle Rising | 356154 | [356154-eagle-rising.json](./356154-eagle-rising.json) |
 | Eagle Simulator | 186817 | [186817-eagle-simulator.json](./186817-eagle-simulator.json) |
 | Eagle Simulator | 86727 | [86727-eagle-simulator.json](./86727-eagle-simulator.json) |
 | Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
@@ -116,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Day Solitaire | 339789 | [339789-easter-day-solitaire.json](./339789-easter-day-solitaire.json) |
 | Easter Egg | 127225 | [127225-easter-egg.json](./127225-easter-egg.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
+| Eastern Europe 1259 | 356157 | [356157-eastern-europe-1259.json](./356157-eastern-europe-1259.json) |
 | Eastern Europe Bus Sim | 232454 | [232454-eastern-europe-bus-sim.json](./232454-eastern-europe-bus-sim.json) |
 | Eastern Exorcist | 121235 | [121235-eastern-exorcist.json](./121235-eastern-exorcist.json) |
 | Eastern Market Murder | 174372 | [174372-eastern-market-murder.json](./174372-eastern-market-murder.json) |
@@ -762,6 +764,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires & Allies | 60553 | [60553-empires-and-allies.json](./60553-empires-and-allies.json) |
 | Empires II: What Would You Risk for World Conquest? | 100215 | [100215-empires-ii-what-would-you-risk-for-world-conquest.json](./100215-empires-ii-what-would-you-risk-for-world-conquest.json) |
 | Empires of Creation | 34179 | [34179-empires-of-creation.json](./34179-empires-of-creation.json) |
+| Empires of Europe 1100 | 356158 | [356158-empires-of-europe-1100.json](./356158-empires-of-europe-1100.json) |
+| Empires of Europe 1700 | 356164 | [356164-empires-of-europe-1700.json](./356164-empires-of-europe-1700.json) |
 | Empires of Steel | 353851 | [353851-empires-of-steel.json](./353851-empires-of-steel.json) |
 | Empires of the Undergrowth: Exploding Ants | 403591 | [403591-empires-of-the-undergrowth-exploding-ants.json](./403591-empires-of-the-undergrowth-exploding-ants.json) |
 | Empires of the Undergrowth: Supporter Pack | 403593 | [403593-empires-of-the-undergrowth-supporter-pack.json](./403593-empires-of-the-undergrowth-supporter-pack.json) |
