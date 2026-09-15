@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkstar: The Interactive Movie | 9118 | [9118-darkstar-the-interactive-movie.json](./9118-darkstar-the-interactive-movie.json) |
 | Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
 | Darkwind: War on Wheels | 17305 | [17305-darkwind-war-on-wheels.json](./17305-darkwind-war-on-wheels.json) |
+| Darkwing Duck R | 363974 | [363974-darkwing-duck-r.json](./363974-darkwing-duck-r.json) |
 | Darkwood | 17032 | [17032-darkwood.json](./17032-darkwood.json) |
 | Darkzan Adventure | 376558 | [376558-darkzan-adventure.json](./376558-darkzan-adventure.json) |
 | Darling Pet | 188590 | [188590-darling-pet.json](./188590-darling-pet.json) |
@@ -3284,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Sparking! Zero - Season Pass Bonus | 375181 | [375181-dragon-ball-sparking-zero-season-pass-bonus.json](./375181-dragon-ball-sparking-zero-season-pass-bonus.json) |
 | Dragon Ball: Sparking! Zero - Super Limit-Breaking NEO | 375182 | [375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json](./375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json) |
 | Dragon Ball: Strongest Warrior | 174895 | [174895-dragon-ball-strongest-warrior.json](./174895-dragon-ball-strongest-warrior.json) |
+| Dragon Ball: Xenoverse - Day One Edition | 363936 | [363936-dragon-ball-xenoverse-day-one-edition.json](./363936-dragon-ball-xenoverse-day-one-edition.json) |
 | Dragon Ball: Xenoverse 2 - Extra Pass | 117657 | [117657-dragon-ball-xenoverse-2-extra-pass.json](./117657-dragon-ball-xenoverse-2-extra-pass.json) |
 | Dragon Ball: Xenoverse 2 - Super Edition | 200692 | [200692-dragon-ball-xenoverse-2-super-edition.json](./200692-dragon-ball-xenoverse-2-super-edition.json) |
 | Dragon Ball: Xenoverse 2 - Super Pass | 117656 | [117656-dragon-ball-xenoverse-2-super-pass.json](./117656-dragon-ball-xenoverse-2-super-pass.json) |
@@ -4180,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Dreadrock | 194009 | [194009-dungeons-of-dreadrock.json](./194009-dungeons-of-dreadrock.json) |
 | Dungeons of Dredmor: Conquest of the Wizardlands | 172164 | [172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json](./172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json) |
 | Dungeons of Dusk | 380425 | [380425-dungeons-of-dusk.json](./380425-dungeons-of-dusk.json) |
+| Dungeons of Edera 2 | 363950 | [363950-dungeons-of-edera-2.json](./363950-dungeons-of-edera-2.json) |
 | Dungeons of Honor | 191193 | [191193-dungeons-of-honor.json](./191193-dungeons-of-honor.json) |
 | Dungeons of Kremlin: Remastered | 57038 | [57038-dungeons-of-kremlin-remastered.json](./57038-dungeons-of-kremlin-remastered.json) |
 | Dungeons of Legend: Cast Within | 115073 | [115073-dungeons-of-legend-cast-within.json](./115073-dungeons-of-legend-cast-within.json) |
