@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
 | G-Mode Archives+: Stella Deus - The Spirit of Darkness | 374605 | [374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json](./374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json) |
 | G-ump | 260398 | [260398-g-ump.json](./260398-g-ump.json) |
+| G-Zero World GP | 338830 | [338830-g-zero-world-gp.json](./338830-g-zero-world-gp.json) |
 | G-Zilla | 196271 | [196271-g-zilla.json](./196271-g-zilla.json) |
 | G:nom | 125389 | [125389-g-nom.json](./125389-g-nom.json) |
 | G.G Series: Tetsubou | 91391 | [91391-g-g-series-tetsubou.json](./91391-g-g-series-tetsubou.json) |
@@ -1093,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Joe's Punch Out!! | 360100 | [360100-glass-joes-punch-out.json](./360100-glass-joes-punch-out.json) |
 | Glass Masquerade 2: Illusions | 109763 | [109763-glass-masquerade-2-illusions.json](./109763-glass-masquerade-2-illusions.json) |
 | Glass Masquerade 3: Honeylines | 249809 | [249809-glass-masquerade-3-honeylines.json](./249809-glass-masquerade-3-honeylines.json) |
+| Glass Smash 64 | 338801 | [338801-glass-smash-64.json](./338801-glass-smash-64.json) |
 | Glass Tactics | 244518 | [244518-glass-tactics.json](./244518-glass-tactics.json) |
 | GlassBox | 195249 | [195249-glassbox.json](./195249-glassbox.json) |
 | Glasses and Girls | 248930 | [248930-glasses-and-girls.json](./248930-glasses-and-girls.json) |
@@ -1970,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Up | 318424 | [318424-gravity-up.json](./318424-gravity-up.json) |
 | Gravity Was A Mistake | 366830 | [366830-gravity-was-a-mistake.json](./366830-gravity-was-a-mistake.json) |
 | Gravity Waves | 253371 | [253371-gravity-waves.json](./253371-gravity-waves.json) |
+| Gravity: Sylux's Crusade | 338822 | [338822-gravity-syluxs-crusade.json](./338822-gravity-syluxs-crusade.json) |
 | GravityBall | 409647 | [409647-gravityball.json](./409647-gravityball.json) |
 | Gravulse | 141882 | [141882-gravulse.json](./141882-gravulse.json) |
 | Gravv: Between Two Worlds | 195725 | [195725-gravv-between-two-worlds.json](./195725-gravv-between-two-worlds.json) |
