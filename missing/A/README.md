@@ -568,7 +568,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
 | Age of Respair | 350402 | [350402-age-of-respair.json](./350402-age-of-respair.json) |
 | Age of Sail II: Privateer's Bounty | 9429 | [9429-age-of-sail-ii-privateers-bounty.json](./9429-age-of-sail-ii-privateers-bounty.json) |
-| Age of Solitaire: Build Civilization | 211422 | [211422-age-of-solitaire-build-civilization.json](./211422-age-of-solitaire-build-civilization.json) |
 | Age of Trades | 176477 | [176477-age-of-trades.json](./176477-age-of-trades.json) |
 | Age of War | 18348 | [18348-age-of-war.json](./18348-age-of-war.json) |
 | Age of Water: The First Voyage | 293080 | [293080-age-of-water-the-first-voyage.json](./293080-age-of-water-the-first-voyage.json) |
@@ -3368,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Engineers | 249798 | [249798-astro-engineers.json](./249798-astro-engineers.json) |
 | Astro Fang: Super Machine | 48608 | [48608-astro-fang-super-machine.json](./48608-astro-fang-super-machine.json) |
 | Astro Fighter | 23049 | [23049-astro-fighter.json](./23049-astro-fighter.json) |
+| Astro Fighters | 334190 | [334190-astro-fighters.json](./334190-astro-fighters.json) |
 | Astro Fighters 2 | 375991 | [375991-astro-fighters-2.json](./375991-astro-fighters-2.json) |
 | Astro Galaxy | 346140 | [346140-astro-galaxy.json](./346140-astro-galaxy.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
