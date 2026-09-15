@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetroon | 234594 | [234594-tetroon.json](./234594-tetroon.json) |
 | TetrotronVR | 114971 | [114971-tetrotronvr.json](./114971-tetrotronvr.json) |
 | Tetsu-pipe de Suika-wari | 220315 | [220315-tetsu-pipe-de-suika-wari.json](./220315-tetsu-pipe-de-suika-wari.json) |
+| Tetsudou Nippon! Real Pro Tokyo - Kanagawa! Tokyu Dentetsu-hen | 366913 | [366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json](./366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Aizu Tetsudou‑hen | 221946 | [221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json](./221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Akechi Tetsudou-hen | 241971 | [241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json](./241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Kikansha Thomas-hen - Ooigawa Tetsudou wo Hashirou! | 221731 | [221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json](./221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json) |
@@ -2213,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of Us | 115033 | [115033-the-end-of-us.json](./115033-the-end-of-us.json) |
 | The End: Inari's Quest | 77737 | [77737-the-end-inaris-quest.json](./77737-the-end-inaris-quest.json) |
 | The Endless Adventure | 165686 | [165686-the-endless-adventure.json](./165686-the-endless-adventure.json) |
+| The Endless Elegy at the Flowercape | 366936 | [366936-the-endless-elegy-at-the-flowercape.json](./366936-the-endless-elegy-at-the-flowercape.json) |
 | The Endless Express | 26669 | [26669-the-endless-express.json](./26669-the-endless-express.json) |
 | The Endless Journey | 81068 | [81068-the-endless-journey.json](./81068-the-endless-journey.json) |
 | The Endless Village | 401522 | [401522-the-endless-village.json](./401522-the-endless-village.json) |
@@ -2554,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greenskins | 74374 | [74374-the-greenskins.json](./74374-the-greenskins.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Ground Division | 139398 | [139398-the-ground-division.json](./139398-the-ground-division.json) |
+| The Groundskeeper | 366885 | [366885-the-groundskeeper.json](./366885-the-groundskeeper.json) |
 | The Growth Project | 26614 | [26614-the-growth-project.json](./26614-the-growth-project.json) |
 | The Grugs: Origins | 262969 | [262969-the-grugs-origins.json](./262969-the-grugs-origins.json) |
 | The Guardian and the Dreamer | 318801 | [318801-the-guardian-and-the-dreamer.json](./318801-the-guardian-and-the-dreamer.json) |
@@ -3951,6 +3954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Roaring Heights | 14585 | [14585-the-sims-3-roaring-heights.json](./14585-the-sims-3-roaring-heights.json) |
 | The Sims 3: Sunlit Tides | 14579 | [14579-the-sims-3-sunlit-tides.json](./14579-the-sims-3-sunlit-tides.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
+| The Sims 4 Love & Family Bundle | 366930 | [366930-the-sims-4-love-and-family-bundle.json](./366930-the-sims-4-love-and-family-bundle.json) |
 | The Sims 4: Artist Studio Kit | 317646 | [317646-the-sims-4-artist-studio-kit.json](./317646-the-sims-4-artist-studio-kit.json) |
 | The Sims 4: Back to School Bundle | 159331 | [159331-the-sims-4-back-to-school-bundle.json](./159331-the-sims-4-back-to-school-bundle.json) |
 | The Sims 4: Backyard Stuff | 121024 | [121024-the-sims-4-backyard-stuff.json](./121024-the-sims-4-backyard-stuff.json) |
@@ -4289,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tour of Duty | 145618 | [145618-the-tour-of-duty.json](./145618-the-tour-of-duty.json) |
 | The Touryst | 121748 | [121748-the-touryst.json](./121748-the-touryst.json) |
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
+| The Tower | 366928 | [366928-the-tower.json](./366928-the-tower.json) |
 | The Tower 2 | 120952 | [120952-the-tower-2.json](./120952-the-tower-2.json) |
 | The Tower of TigerQiuQiu 2: 1942-J20 | 157690 | [157690-the-tower-of-tigerqiuqiu-2-1942-j20.json](./157690-the-tower-of-tigerqiuqiu-2-1942-j20.json) |
 | The Tower of TigerQiuQiu 2: 1952 M0 | 173714 | [173714-the-tower-of-tigerqiuqiu-2-1952-m0.json](./173714-the-tower-of-tigerqiuqiu-2-1952-m0.json) |
@@ -6194,6 +6199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
 | Too Hot to Be True | 406715 | [406715-too-hot-to-be-true.json](./406715-too-hot-to-be-true.json) |
 | Too Hot to Handle: Love is a Game | 204449 | [204449-too-hot-to-handle-love-is-a-game.json](./204449-too-hot-to-handle-love-is-a-game.json) |
+| Too Many Bots | 366889 | [366889-too-many-bots.json](./366889-too-many-bots.json) |
 | Too Many Cooks | 375838 | [375838-too-many-cooks.json](./375838-too-many-cooks.json) |
 | Too Many Kittens | 269839 | [269839-too-many-kittens.json](./269839-too-many-kittens.json) |
 | Too Many Me | 11011 | [11011-too-many-me.json](./11011-too-many-me.json) |
