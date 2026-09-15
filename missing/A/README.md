@@ -482,9 +482,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner | 365088 | [365088-after-burner.json](./365088-after-burner.json) |
 | After Burner | 365100 | [365100-after-burner.json](./365100-after-burner.json) |
 | After Burner | 45347 | [45347-after-burner.json](./45347-after-burner.json) |
+| After Burner III | 365185 | [365185-after-burner-iii.json](./365185-after-burner-iii.json) |
 | After Burner III | 5356 | [5356-after-burner-iii.json](./5356-after-burner-iii.json) |
 | After Crisis: Snowstorm | 158213 | [158213-after-crisis-snowstorm.json](./158213-after-crisis-snowstorm.json) |
-| After Dark | 224745 | [224745-after-dark.json](./224745-after-dark.json) |
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
 | After Dark VR | 187533 | [187533-after-dark-vr.json](./187533-after-dark-vr.json) |
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlphaBounce | 66781 | [66781-alphabounce.json](./66781-alphabounce.json) |
 | Alphadia 2 | 38964 | [38964-alphadia-2.json](./38964-alphadia-2.json) |
 | Alphadia Genesis | 17849 | [17849-alphadia-genesis.json](./17849-alphadia-genesis.json) |
+| Alphadia III | 365177 | [365177-alphadia-iii.json](./365177-alphadia-iii.json) |
 | Alphageddon | 293086 | [293086-alphageddon.json](./293086-alphageddon.json) |
 | AlphaSwap | 234071 | [234071-alphaswap.json](./234071-alphaswap.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
@@ -2671,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardent Fever | 316980 | [316980-ardent-fever.json](./316980-ardent-fever.json) |
 | Ardent Seas | 146258 | [146258-ardent-seas.json](./146258-ardent-seas.json) |
 | Ardilous | 183523 | [183523-ardilous.json](./183523-ardilous.json) |
+| Ardor 2 | 365175 | [365175-ardor-2.json](./365175-ardor-2.json) |
 | Ardu Turf Masters | 340204 | [340204-ardu-turf-masters.json](./340204-ardu-turf-masters.json) |
 | Ardubullets | 381726 | [381726-ardubullets.json](./381726-ardubullets.json) |
 | Arduventure | 144324 | [144324-arduventure.json](./144324-arduventure.json) |
