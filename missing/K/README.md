@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepers | 257385 | [257385-keepers.json](./257385-keepers.json) |
 | Keepers 1477 | 306062 | [306062-keepers-1477.json](./306062-keepers-1477.json) |
 | Keepers of the Forest | 228085 | [228085-keepers-of-the-forest.json](./228085-keepers-of-the-forest.json) |
+| Keepers of the Keep | 346693 | [346693-keepers-of-the-keep.json](./346693-keepers-of-the-keep.json) |
 | Keepers Of The Lost Arts | 285465 | [285465-keepers-of-the-lost-arts.json](./285465-keepers-of-the-lost-arts.json) |
 | Keeping It Shrimple | 236544 | [236544-keeping-it-shrimple.json](./236544-keeping-it-shrimple.json) |
 | Keepsake | 17243 | [17243-keepsake.json](./17243-keepsake.json) |
