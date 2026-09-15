@@ -1647,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Architect's Adventure | 211403 | [211403-an-architects-adventure.json](./211403-an-architects-adventure.json) |
 | An Autumn With You | 181846 | [181846-an-autumn-with-you.json](./181846-an-autumn-with-you.json) |
 | An Aware Guy in the Past | 185621 | [185621-an-aware-guy-in-the-past.json](./185621-an-aware-guy-in-the-past.json) |
+| An Easter to Remember | 375298 | [375298-an-easter-to-remember.json](./375298-an-easter-to-remember.json) |
 | An Elder Scrolls Legend: Battlespire | 54 | [54-an-elder-scrolls-legend-battlespire.json](./54-an-elder-scrolls-legend-battlespire.json) |
 | An Elmwood Trail | 243410 | [243410-an-elmwood-trail.json](./243410-an-elmwood-trail.json) |
 | An English Haunting | 258723 | [258723-an-english-haunting.json](./258723-an-english-haunting.json) |
