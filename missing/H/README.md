@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Combat Evolved Anniversary | 2640 | [2640-halo-combat-evolved-anniversary.json](./2640-halo-combat-evolved-anniversary.json) |
 | Halo: Custom Edition | 243116 | [243116-halo-custom-edition.json](./243116-halo-custom-edition.json) |
 | Halo: GoldSource | 352185 | [352185-halo-goldsource.json](./352185-halo-goldsource.json) |
+| Halo: Operation - Solar Flare | 351087 | [351087-halo-operation-solar-flare.json](./351087-halo-operation-solar-flare.json) |
 | Halo: Reach - Legendary Edition | 43954 | [43954-halo-reach-legendary-edition.json](./43954-halo-reach-legendary-edition.json) |
 | Halo: The Master Chief Collection Season 1 - Noble | 205048 | [205048-halo-the-master-chief-collection-season-1-noble.json](./205048-halo-the-master-chief-collection-season-1-noble.json) |
 | Halo: The Master Chief Collection Season 2 - Spark | 205049 | [205049-halo-the-master-chief-collection-season-2-spark.json](./205049-halo-the-master-chief-collection-season-2-spark.json) |
@@ -2360,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Ken | 262374 | [262374-horror-ken.json](./262374-horror-ken.json) |
 | Horror Legends | 111603 | [111603-horror-legends.json](./111603-horror-legends.json) |
 | Horror Loop | 259590 | [259590-horror-loop.json](./259590-horror-loop.json) |
+| Horror Night with Tung Tung Tung Sahur | 351096 | [351096-horror-night-with-tung-tung-tung-sahur.json](./351096-horror-night-with-tung-tung-tung-sahur.json) |
 | Horror Night: Spooky Night Vol. 1 | 221735 | [221735-horror-night-spooky-night-vol-1.json](./221735-horror-night-spooky-night-vol-1.json) |
 | Horror Night: The Slenderman Takings | 236824 | [236824-horror-night-the-slenderman-takings.json](./236824-horror-night-the-slenderman-takings.json) |
 | Horror of the Deep | 30127 | [30127-horror-of-the-deep.json](./30127-horror-of-the-deep.json) |
