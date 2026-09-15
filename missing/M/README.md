@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
 | Magnetic Crane | 70952 | [70952-magnetic-crane.json](./70952-magnetic-crane.json) |
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
+| Magnets | 366911 | [366911-magnets.json](./366911-magnets.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
@@ -2851,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Royale | 201020 | [201020-mini-royale.json](./201020-mini-royale.json) |
 | Mini Speedy Racers | 240212 | [240212-mini-speedy-racers.json](./240212-mini-speedy-racers.json) |
 | Mini Star Quest | 344948 | [344948-mini-star-quest.json](./344948-mini-star-quest.json) |
+| Mini Stasol | 366918 | [366918-mini-stasol.json](./366918-mini-stasol.json) |
 | Mini Subway: Logic on the Metro Line | 209693 | [209693-mini-subway-logic-on-the-metro-line.json](./209693-mini-subway-logic-on-the-metro-line.json) |
 | Mini Tennis | 242560 | [242560-mini-tennis.json](./242560-mini-tennis.json) |
 | Mini Tennis Club | 298308 | [298308-mini-tennis-club.json](./298308-mini-tennis-club.json) |
@@ -3314,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogeko Castle | 213382 | [213382-mogeko-castle.json](./213382-mogeko-castle.json) |
 | Mogo Invasion | 48004 | [48004-mogo-invasion.json](./48004-mogo-invasion.json) |
 | Mogul Maniac | 40788 | [40788-mogul-maniac.json](./40788-mogul-maniac.json) |
+| Mogutte Nanbo | 366907 | [366907-mogutte-nanbo.json](./366907-mogutte-nanbo.json) |
 | Mohism | 152378 | [152378-mohism.json](./152378-mohism.json) |
 | Moi Mei: Hidden Objects | 199655 | [199655-moi-mei-hidden-objects.json](./199655-moi-mei-hidden-objects.json) |
 | Moira | 182523 | [182523-moira.json](./182523-moira.json) |
