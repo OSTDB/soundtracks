@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T06:05:01.833Z",
-  "total_missing": 72758,
+  "generated_at": "2026-09-15T06:11:33.762Z",
+  "total_missing": 72757,
   "games": [
     {
       "igdb_id": 306086,
@@ -5036,11 +5036,6 @@
       "igdb_id": 14228,
       "game_name": "Afrika Korps",
       "file": "missing/A/14228-afrika-korps.json"
-    },
-    {
-      "igdb_id": 188632,
-      "game_name": "After a Long Journey",
-      "file": "missing/A/188632-after-a-long-journey.json"
     },
     {
       "igdb_id": 365088,
