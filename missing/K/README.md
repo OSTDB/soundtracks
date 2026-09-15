@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Catastrophe | 217331 | [217331-kaiju-catastrophe.json](./217331-kaiju-catastrophe.json) |
 | Kaiju Cleanup | 370709 | [370709-kaiju-cleanup.json](./370709-kaiju-cleanup.json) |
 | Kaiju Cracking Corp | 286009 | [286009-kaiju-cracking-corp.json](./286009-kaiju-cracking-corp.json) |
+| Kaiju Evolution Survivor | 334192 | [334192-kaiju-evolution-survivor.json](./334192-kaiju-evolution-survivor.json) |
 | Kaiju Inc. | 384630 | [384630-kaiju-inc.json](./384630-kaiju-inc.json) |
 | Kaiju No. 8: The Game | 343892 | [343892-kaiju-no-8-the-game.json](./343892-kaiju-no-8-the-game.json) |
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
@@ -310,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Anime: Cute Boys Magic World | 409535 | [409535-kawaii-anime-cute-boys-magic-world.json](./409535-kawaii-anime-cute-boys-magic-world.json) |
 | Kawaii Anime: Cute Girls Magic World | 409685 | [409685-kawaii-anime-cute-girls-magic-world.json](./409685-kawaii-anime-cute-girls-magic-world.json) |
 | Kawaii Deathu Desu | 120089 | [120089-kawaii-deathu-desu.json](./120089-kawaii-deathu-desu.json) |
+| Kawaii Girls | 334088 | [334088-kawaii-girls.json](./334088-kawaii-girls.json) |
 | Kawaii Girls: Busty Bear | 378810 | [378810-kawaii-girls-busty-bear.json](./378810-kawaii-girls-busty-bear.json) |
 | Kawaii Hentai Girls 2 | 203553 | [203553-kawaii-hentai-girls-2.json](./203553-kawaii-hentai-girls-2.json) |
 | Kawaii Koneko DS 2 | 68005 | [68005-kawaii-koneko-ds-2.json](./68005-kawaii-koneko-ds-2.json) |
