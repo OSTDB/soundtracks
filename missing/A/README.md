@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I. Space Corps | 34206 | [34206-a-i-space-corps.json](./34206-a-i-space-corps.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
+| A'Jatt | 372556 | [372556-ajatt.json](./372556-ajatt.json) |
 | A/X-101 | 5360 | [5360-a-x-101.json](./5360-a-x-101.json) |
 | Aaahh!!! Real Monsters | 5339 | [5339-aaahh-real-monsters.json](./5339-aaahh-real-monsters.json) |
 | Aaero: Complete Edition | 113196 | [113196-aaero-complete-edition.json](./113196-aaero-complete-edition.json) |
@@ -555,6 +556,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against the Light | 412992 | [412992-against-the-light.json](./412992-against-the-light.json) |
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
 | Against Wokou Frontline | 389992 | [389992-against-wokou-frontline.json](./389992-against-wokou-frontline.json) |
+| Agalta | 372558 | [372558-agalta.json](./372558-agalta.json) |
+| Agalta 3 | 372562 | [372562-agalta-3.json](./372562-agalta-3.json) |
+| Agalta II | 372561 | [372561-agalta-ii.json](./372561-agalta-ii.json) |
 | Agame | 269042 | [269042-agame.json](./269042-agame.json) |
 | Agapan | 35878 | [35878-agapan.json](./35878-agapan.json) |
 | Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
@@ -2277,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - Museum of Horror! | 171089 | [171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json](./171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
+| Apocalypse Rush | 372545 | [372545-apocalypse-rush.json](./372545-apocalypse-rush.json) |
 | Apocalypse Z: Survival | 129803 | [129803-apocalypse-z-survival.json](./129803-apocalypse-z-survival.json) |
 | Apocalypse: The Game | 61615 | [61615-apocalypse-the-game.json](./61615-apocalypse-the-game.json) |
 | Apocalypter | 378318 | [378318-apocalypter.json](./378318-apocalypter.json) |
@@ -3102,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asleep: Act 1 | 209702 | [209702-asleep-act-1.json](./209702-asleep-act-1.json) |
 | Asmik-kun Land | 48616 | [48616-asmik-kun-land.json](./48616-asmik-kun-land.json) |
 | Asmik-kun World 2 | 7798 | [7798-asmik-kun-world-2.json](./7798-asmik-kun-world-2.json) |
+| ASMR Pressure Wash VR | 372540 | [372540-asmr-pressure-wash-vr.json](./372540-asmr-pressure-wash-vr.json) |
 | ASMR Slicing | 254179 | [254179-asmr-slicing.json](./254179-asmr-slicing.json) |
 | Asobu Rakugaki | 72690 | [72690-asobu-rakugaki.json](./72690-asobu-rakugaki.json) |
 | Asonde Igo ga Sara ni Tsuyoku Naru: Ginsei Igo DS Chuukyuu-hen | 269558 | [269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json](./269558-asonde-igo-ga-sara-ni-tsuyoku-naru-ginsei-igo-ds-chuukyuu-hen.json) |
