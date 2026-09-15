@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
 | The Artifact Protocol | 365775 | [365775-the-artifact-protocol.json](./365775-the-artifact-protocol.json) |
+| The Artifactory | 334179 | [334179-the-artifactory.json](./334179-the-artifactory.json) |
 | The Asafo Journey | 220672 | [220672-the-asafo-journey.json](./220672-the-asafo-journey.json) |
 | The Ascot | 298061 | [298061-the-ascot.json](./298061-the-ascot.json) |
 | The Asmodian Princesses and the Witch in the Forest | 199088 | [199088-the-asmodian-princesses-and-the-witch-in-the-forest.json](./199088-the-asmodian-princesses-and-the-witch-in-the-forest.json) |
@@ -2904,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Burger: Turbo | 209146 | [209146-the-jumping-burger-turbo.json](./209146-the-jumping-burger-turbo.json) |
 | The Jumping Burrito | 208381 | [208381-the-jumping-burrito.json](./208381-the-jumping-burrito.json) |
 | The Jumping Burrito: Turbo | 208382 | [208382-the-jumping-burrito-turbo.json](./208382-the-jumping-burrito-turbo.json) |
+| The Jumping Carrot Race | 334078 | [334078-the-jumping-carrot-race.json](./334078-the-jumping-carrot-race.json) |
 | The Jumping Cat | 392287 | [392287-the-jumping-cat.json](./392287-the-jumping-cat.json) |
 | The Jumping Choco Santa | 227839 | [227839-the-jumping-choco-santa.json](./227839-the-jumping-choco-santa.json) |
 | The Jumping Choco Santa: Turbo | 227840 | [227840-the-jumping-choco-santa-turbo.json](./227840-the-jumping-choco-santa-turbo.json) |
@@ -2999,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Blade 2 | 76045 | [76045-the-last-blade-2.json](./76045-the-last-blade-2.json) |
 | The Last Bug | 371339 | [371339-the-last-bug.json](./371339-the-last-bug.json) |
 | The Last Bullet | 117784 | [117784-the-last-bullet.json](./117784-the-last-bullet.json) |
+| The Last Camp | 334177 | [334177-the-last-camp.json](./334177-the-last-camp.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
 | The Last Cosmonaut | 413594 | [413594-the-last-cosmonaut.json](./413594-the-last-cosmonaut.json) |
@@ -4772,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way of Cooking | 292525 | [292525-the-way-of-cooking.json](./292525-the-way-of-cooking.json) |
 | The Way of Kings: Escape the Shattered Plains! | 88009 | [88009-the-way-of-kings-escape-the-shattered-plains.json](./88009-the-way-of-kings-escape-the-shattered-plains.json) |
 | The Way of Life: Free Edition | 36291 | [36291-the-way-of-life-free-edition.json](./36291-the-way-of-life-free-edition.json) |
+| The Way of the Tray: Japanese Restaurant Simulator | 334174 | [334174-the-way-of-the-tray-japanese-restaurant-simulator.json](./334174-the-way-of-the-tray-japanese-restaurant-simulator.json) |
 | The Way of Wine | 255983 | [255983-the-way-of-wine.json](./255983-the-way-of-wine.json) |
 | The Way Remastered | 96202 | [96202-the-way-remastered.json](./96202-the-way-remastered.json) |
 | The Way To Life | 329971 | [329971-the-way-to-life.json](./329971-the-way-to-life.json) |
@@ -5882,6 +5886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinkerQuarry | 47231 | [47231-tinkerquarry.json](./47231-tinkerquarry.json) |
 | TinkerTech | 310929 | [310929-tinkertech.json](./310929-tinkertech.json) |
 | Tinkertown x Among Us | 222931 | [222931-tinkertown-x-among-us.json](./222931-tinkertown-x-among-us.json) |
+| Tint The Saver | 334181 | [334181-tint-the-saver.json](./334181-tint-the-saver.json) |
 | TinTin: Destination Adventure | 43902 | [43902-tintin-destination-adventure.json](./43902-tintin-destination-adventure.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny Animal War | 193933 | [193933-tiny-animal-war.json](./193933-tiny-animal-war.json) |
@@ -6303,6 +6308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
 | Tomb of Horror | 356664 | [356664-tomb-of-horror.json](./356664-tomb-of-horror.json) |
 | Tomb of Pharaohs | 158140 | [158140-tomb-of-pharaohs.json](./158140-tomb-of-pharaohs.json) |
+| Tomb of the Bloodletter | 334195 | [334195-tomb-of-the-bloodletter.json](./334195-tomb-of-the-bloodletter.json) |
 | Tomb of the Dash | 199630 | [199630-tomb-of-the-dash.json](./199630-tomb-of-the-dash.json) |
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
 | Tomb Offering | 340944 | [340944-tomb-offering.json](./340944-tomb-offering.json) |
