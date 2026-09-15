@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camera Birds | 245319 | [245319-camera-birds.json](./245319-camera-birds.json) |
 | CameraBag 2 | 379380 | [379380-camerabag-2.json](./379380-camerabag-2.json) |
 | CamGirls Inc | 202386 | [202386-camgirls-inc.json](./202386-camgirls-inc.json) |
+| Camo Sniper | 337157 | [337157-camo-sniper.json](./337157-camo-sniper.json) |
 | Camp Counsellor Collector | 272271 | [272271-camp-counsellor-collector.json](./272271-camp-counsellor-collector.json) |
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
 | Camp Palut | 173827 | [173827-camp-palut.json](./173827-camp-palut.json) |
