@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
 | Rats Invasion | 96673 | [96673-rats-invasion.json](./96673-rats-invasion.json) |
 | Rats Invasion 2 | 86889 | [86889-rats-invasion-2.json](./86889-rats-invasion-2.json) |
+| Ratstronaut | 362912 | [362912-ratstronaut.json](./362912-ratstronaut.json) |
 | Ratten Reich: Dance of Kings | 149032 | [149032-ratten-reich-dance-of-kings.json](./149032-ratten-reich-dance-of-kings.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
 | Ratz Instagib | 9193 | [9193-ratz-instagib.json](./9193-ratz-instagib.json) |
