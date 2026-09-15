@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martin Wort's Special Report | 112310 | [112310-martin-worts-special-report.json](./112310-martin-worts-special-report.json) |
 | Marty and the Eldritch Horror | 176964 | [176964-marty-and-the-eldritch-horror.json](./176964-marty-and-the-eldritch-horror.json) |
 | Marty McFart | 183589 | [183589-marty-mcfart.json](./183589-marty-mcfart.json) |
+| Marty's Funducational Tour! | 348845 | [348845-martys-funducational-tour.json](./348845-martys-funducational-tour.json) |
 | Maru and her make-believe world | 166747 | [166747-maru-and-her-make-believe-world.json](./166747-maru-and-her-make-believe-world.json) |
 | Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
 | Maruja Mallo | 226732 | [226732-maruja-mallo.json](./226732-maruja-mallo.json) |
