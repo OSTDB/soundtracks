@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey, Don't Look at Me | 416644 | [416644-hey-dont-look-at-me.json](./416644-hey-dont-look-at-me.json) |
 | Hey! Stop! | 40735 | [40735-hey-stop.json](./40735-hey-stop.json) |
 | HeyBot! HeyboHeybo! HeyBoTournament! | 135165 | [135165-heybot-heyboheybo-heybotournament.json](./135165-heybot-heyboheybo-heybotournament.json) |
+| HgmGame Horse | 357851 | [357851-hgmgame-horse.json](./357851-hgmgame-horse.json) |
 | hhGregg's Quest for Coupons | 125942 | [125942-hhgreggs-quest-for-coupons.json](./125942-hhgreggs-quest-for-coupons.json) |
 | Hi Color | 228450 | [228450-hi-color.json](./228450-hi-color.json) |
 | Hi Eggplant: The Birth of Sprites | 245850 | [245850-hi-eggplant-the-birth-of-sprites.json](./245850-hi-eggplant-the-birth-of-sprites.json) |
@@ -1721,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Burger | 256257 | [256257-high-burger.json](./256257-high-burger.json) |
 | High Clouds | 372995 | [372995-high-clouds.json](./372995-high-clouds.json) |
 | High Dive | 233747 | [233747-high-dive.json](./233747-high-dive.json) |
+| High Dragon Tower | 357842 | [357842-high-dragon-tower.json](./357842-high-dragon-tower.json) |
 | High Energy Heroes | 271207 | [271207-high-energy-heroes.json](./271207-high-energy-heroes.json) |
 | High Five! | 132819 | [132819-high-five.json](./132819-high-five.json) |
 | High Fructose | 277011 | [277011-high-fructose.json](./277011-high-fructose.json) |
@@ -1967,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hob: The Definitive Edition | 116681 | [116681-hob-the-definitive-edition.json](./116681-hob-the-definitive-edition.json) |
 | Hobble | 192362 | [192362-hobble.json](./192362-hobble.json) |
 | Hobble-Wobble | 388221 | [388221-hobble-wobble.json](./388221-hobble-wobble.json) |
+| Hobby Horse: First Ride | 357852 | [357852-hobby-horse-first-ride.json](./357852-hobby-horse-first-ride.json) |
 | Hobby Module | 74413 | [74413-hobby-module.json](./74413-hobby-module.json) |
 | Hobgoblins Against Dwarfs | 296915 | [296915-hobgoblins-against-dwarfs.json](./296915-hobgoblins-against-dwarfs.json) |
 | Hobo 3: Wanted | 294723 | [294723-hobo-3-wanted.json](./294723-hobo-3-wanted.json) |
@@ -2364,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrors Above | 391185 | [391185-horrors-above.json](./391185-horrors-above.json) |
 | Horrors Glade | 333366 | [333366-horrors-glade.json](./333366-horrors-glade.json) |
 | Horse Divorce | 178032 | [178032-horse-divorce.json](./178032-horse-divorce.json) |
+| Horse Evolutions | 357853 | [357853-horse-evolutions.json](./357853-horse-evolutions.json) |
 | Horse Farm | 105275 | [105275-horse-farm.json](./105275-horse-farm.json) |
 | Horse Life | 47948 | [47948-horse-life.json](./47948-horse-life.json) |
 | Horse Life 3 | 151208 | [151208-horse-life-3.json](./151208-horse-life-3.json) |
@@ -2371,7 +2375,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Life: Find Horses in Open World, Survive in Wild Nature as a Foal or Pony | 253933 | [253933-horse-life-find-horses-in-open-world-survive-in-wild-nature-as-a-foal-or-pony.json](./253933-horse-life-find-horses-in-open-world-survive-in-wild-nature-as-a-foal-or-pony.json) |
 | Horse Magic | 406726 | [406726-horse-magic.json](./406726-horse-magic.json) |
 | Horse Magnifier | 396387 | [396387-horse-magnifier.json](./396387-horse-magnifier.json) |
+| Horse Manager | 357854 | [357854-horse-manager.json](./357854-horse-manager.json) |
 | Horse Park Tycoon | 87897 | [87897-horse-park-tycoon.json](./87897-horse-park-tycoon.json) |
+| Horse Plinko | 357855 | [357855-horse-plinko.json](./357855-horse-plinko.json) |
 | Horse Racing | 47279 | [47279-horse-racing.json](./47279-horse-racing.json) |
 | Horse Racing Manager 2 | 67994 | [67994-horse-racing-manager-2.json](./67994-horse-racing-manager-2.json) |
 | Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
