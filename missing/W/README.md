@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walfie's Nonograms | 389599 | [389599-walfies-nonograms.json](./389599-walfies-nonograms.json) |
 | Walk Home | 183069 | [183069-walk-home.json](./183069-walk-home.json) |
 | Walk in the Rain | 185092 | [185092-walk-in-the-rain.json](./185092-walk-in-the-rain.json) |
+| Walk of Life | 346648 | [346648-walk-of-life.json](./346648-walk-of-life.json) |
 | Walk on the Ground Simulator | 120945 | [120945-walk-on-the-ground-simulator.json](./120945-walk-on-the-ground-simulator.json) |
 | Walk the Fort | 115605 | [115605-walk-the-fort.json](./115605-walk-the-fort.json) |
 | Walk The Frog | 348324 | [348324-walk-the-frog.json](./348324-walk-the-frog.json) |
