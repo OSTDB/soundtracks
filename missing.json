@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T22:33:49.380Z",
-  "total_missing": 75669,
+  "generated_at": "2026-09-15T22:41:31.612Z",
+  "total_missing": 75668,
   "games": [
     {
       "igdb_id": 306086,
@@ -5561,11 +5561,6 @@
       "igdb_id": 9429,
       "game_name": "Age of Sail II: Privateer's Bounty",
       "file": "missing/A/9429-age-of-sail-ii-privateers-bounty.json"
-    },
-    {
-      "igdb_id": 115051,
-      "game_name": "Age of Solitaire",
-      "file": "missing/A/115051-age-of-solitaire.json"
     },
     {
       "igdb_id": 211422,
