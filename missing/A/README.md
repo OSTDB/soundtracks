@@ -1271,6 +1271,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All New World of Lemmings | 14246 | [14246-all-new-world-of-lemmings.json](./14246-all-new-world-of-lemmings.json) |
 | All On Board! | 305146 | [305146-all-on-board.json](./305146-all-on-board.json) |
+| All On Board!: Aye, Dark Overlord! | 374700 | [374700-all-on-board-aye-dark-overlord.json](./374700-all-on-board-aye-dark-overlord.json) |
+| All on Board!: Escape the Dark Castle | 374703 | [374703-all-on-board-escape-the-dark-castle.json](./374703-all-on-board-escape-the-dark-castle.json) |
+| All on Board!: Istanbul | 374704 | [374704-all-on-board-istanbul.json](./374704-all-on-board-istanbul.json) |
+| All on Board!: Rallyman GT | 374702 | [374702-all-on-board-rallyman-gt.json](./374702-all-on-board-rallyman-gt.json) |
+| All on Board!: Terraforming Mars | 374699 | [374699-all-on-board-terraforming-mars.json](./374699-all-on-board-terraforming-mars.json) |
+| All on Board!: The Binding of Isaac - Four Souls | 374705 | [374705-all-on-board-the-binding-of-isaac-four-souls.json](./374705-all-on-board-the-binding-of-isaac-four-souls.json) |
+| All on Board!: The Hunger | 374701 | [374701-all-on-board-the-hunger.json](./374701-all-on-board-the-hunger.json) |
 | All One | 41370 | [41370-all-one.json](./41370-all-one.json) |
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
 | All Our Asias | 68216 | [68216-all-our-asias.json](./68216-all-our-asias.json) |
@@ -2423,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
 | Arcade Archives 2: Hyper Crash | 409672 | [409672-arcade-archives-2-hyper-crash.json](./409672-arcade-archives-2-hyper-crash.json) |
 | Arcade Archives 2: Moon Shuttle | 408159 | [408159-arcade-archives-2-moon-shuttle.json](./408159-arcade-archives-2-moon-shuttle.json) |
+| Arcade Archives 2: Munch Mobile | 374668 | [374668-arcade-archives-2-munch-mobile.json](./374668-arcade-archives-2-munch-mobile.json) |
 | Arcade Archives 2: Syvalion | 410363 | [410363-arcade-archives-2-syvalion.json](./410363-arcade-archives-2-syvalion.json) |
 | Arcade Archives 2: Tekken | 408158 | [408158-arcade-archives-2-tekken.json](./408158-arcade-archives-2-tekken.json) |
 | Arcade Archives: A-Jax | 99563 | [99563-arcade-archives-a-jax.json](./99563-arcade-archives-a-jax.json) |
@@ -2952,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Girl 3 Plus | 22465 | [22465-artificial-girl-3-plus.json](./22465-artificial-girl-3-plus.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
 | Artika.1 | 74317 | [74317-artika-1.json](./74317-artika-1.json) |
+| ArtilleRoyalty | 374681 | [374681-artilleroyalty.json](./374681-artilleroyalty.json) |
 | Artillery | 93527 | [93527-artillery.json](./93527-artillery.json) |
 | Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
 | Artists of Fortune: Paint by Numbers! - Aquaris Planet | 191235 | [191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json](./191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json) |
