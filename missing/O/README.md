@@ -20,6 +20,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O2 | 407435 | [407435-o2.json](./407435-o2.json) |
 | O2Jam | 200163 | [200163-o2jam.json](./200163-o2jam.json) |
 | O2Jam | 72126 | [72126-o2jam.json](./72126-o2jam.json) |
+| O2Jam Analog | 337148 | [337148-o2jam-analog.json](./337148-o2jam-analog.json) |
+| O2Jam Pop | 337155 | [337155-o2jam-pop.json](./337155-o2jam-pop.json) |
+| O2Jam S | 337149 | [337149-o2jam-s.json](./337149-o2jam-s.json) |
 | O2Jam x DancingParty | 107799 | [107799-o2jam-x-dancingparty.json](./107799-o2jam-x-dancingparty.json) |
 | O2Jam: The Beginning | 390546 | [390546-o2jam-the-beginning.json](./390546-o2jam-the-beginning.json) |
 | Oak Adventure the Maze | 235473 | [235473-oak-adventure-the-maze.json](./235473-oak-adventure-the-maze.json) |
@@ -958,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oppai Puzzle L | 209481 | [209481-oppai-puzzle-l.json](./209481-oppai-puzzle-l.json) |
 | Oppaidius Tropical Cruise! | 126641 | [126641-oppaidius-tropical-cruise.json](./126641-oppaidius-tropical-cruise.json) |
 | Opposyte | 258459 | [258459-opposyte.json](./258459-opposyte.json) |
+| Opscam | 337156 | [337156-opscam.json](./337156-opscam.json) |
 | Optasia: The Last Visit | 391034 | [391034-optasia-the-last-visit.json](./391034-optasia-the-last-visit.json) |
 | Optica | 107226 | [107226-optica.json](./107226-optica.json) |
 | Optika | 32137 | [32137-optika.json](./32137-optika.json) |
