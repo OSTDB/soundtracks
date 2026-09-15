@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feng Shui: Meowjong | 348796 | [348796-feng-shui-meowjong.json](./348796-feng-shui-meowjong.json) |
 | Féngmó zhī Shí | 156692 | [156692-fengmo-zhi-shi.json](./156692-fengmo-zhi-shi.json) |
 | Fengse Huanxiang 5: Chi Yue Zhanzheng | 68690 | [68690-fengse-huanxiang-5-chi-yue-zhanzheng.json](./68690-fengse-huanxiang-5-chi-yue-zhanzheng.json) |
+| Fēngsè Huànxiǎng III: Zuì Yǔ Fá de Zhènhúngē | 350519 | [350519-fengse-huanxiang-iii-zui-yu-fa-de-zhenhunge.json](./350519-fengse-huanxiang-iii-zui-yu-fa-de-zhenhunge.json) |
 | Fēngshén Yīngjié Zhuán | 93061 | [93061-fengshen-yingjie-zhuan.json](./93061-fengshen-yingjie-zhuan.json) |
 | Fenimore Fillmore: The Westerner | 27496 | [27496-fenimore-fillmore-the-westerner.json](./27496-fenimore-fillmore-the-westerner.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
@@ -914,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fest Guests | 302389 | [302389-fest-guests.json](./302389-fest-guests.json) |
 | Fester's Quest | 5343 | [5343-festers-quest.json](./5343-festers-quest.json) |
 | Festival Journey: Highland Dreams - Collector's Edition | 386869 | [386869-festival-journey-highland-dreams-collectors-edition.json](./386869-festival-journey-highland-dreams-collectors-edition.json) |
+| Festival Journey: Venetian Masquerade - Collector's Edition | 350490 | [350490-festival-journey-venetian-masquerade-collectors-edition.json](./350490-festival-journey-venetian-masquerade-collectors-edition.json) |
 | Festival of the Spirit | 183541 | [183541-festival-of-the-spirit.json](./183541-festival-of-the-spirit.json) |
 | Fetch | 381016 | [381016-fetch.json](./381016-fetch.json) |
 | Fetch Quest | 140552 | [140552-fetch-quest.json](./140552-fetch-quest.json) |
@@ -977,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fields of Aaru | 400375 | [400375-fields-of-aaru.json](./400375-fields-of-aaru.json) |
 | Fields of Glory | 37111 | [37111-fields-of-glory.json](./37111-fields-of-glory.json) |
 | Fields of Mine | 372981 | [372981-fields-of-mine.json](./372981-fields-of-mine.json) |
+| Fiend Exile | 350520 | [350520-fiend-exile.json](./350520-fiend-exile.json) |
 | Fiend Hunter | 42000 | [42000-fiend-hunter.json](./42000-fiend-hunter.json) |
 | Fiend Hunter | 55897 | [55897-fiend-hunter.json](./55897-fiend-hunter.json) |
 | Fiend Legion | 110393 | [110393-fiend-legion.json](./110393-fiend-legion.json) |
@@ -1193,6 +1196,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV Mobile | 129157 | [129157-final-fantasy-xv-mobile.json](./129157-final-fantasy-xv-mobile.json) |
 | Final Fantasy XV: Episode Ardyn | 76430 | [76430-final-fantasy-xv-episode-ardyn.json](./76430-final-fantasy-xv-episode-ardyn.json) |
 | Final Fantasy XV: Episode Prompto | 37193 | [37193-final-fantasy-xv-episode-prompto.json](./37193-final-fantasy-xv-episode-prompto.json) |
+| Final Fantasy XV: Holiday Pack | 350499 | [350499-final-fantasy-xv-holiday-pack.json](./350499-final-fantasy-xv-holiday-pack.json) |
+| Final Fantasy XV: King's Knight Tee | 350501 | [350501-final-fantasy-xv-kings-knight-tee.json](./350501-final-fantasy-xv-kings-knight-tee.json) |
 | Final Fantasy XV: Pocket Edition HD | 108156 | [108156-final-fantasy-xv-pocket-edition-hd.json](./108156-final-fantasy-xv-pocket-edition-hd.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
@@ -1509,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Pond Park | 212819 | [212819-fish-pond-park.json](./212819-fish-pond-park.json) |
 | Fish Racer Arcade | 68628 | [68628-fish-racer-arcade.json](./68628-fish-racer-arcade.json) |
 | Fish Royale | 227500 | [227500-fish-royale.json](./227500-fish-royale.json) |
+| Fish Season | 350506 | [350506-fish-season.json](./350506-fish-season.json) |
 | Fish Swarm: Within Inches | 383962 | [383962-fish-swarm-within-inches.json](./383962-fish-swarm-within-inches.json) |
 | Fish Tales | 358849 | [358849-fish-tales.json](./358849-fish-tales.json) |
 | Fish Tank | 79228 | [79228-fish-tank.json](./79228-fish-tank.json) |
@@ -2165,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food From the Sky | 96966 | [96966-food-from-the-sky.json](./96966-food-from-the-sky.json) |
 | Food Gang | 144361 | [144361-food-gang.json](./144361-food-gang.json) |
 | Food Guess: Pixel Art Trivia | 405477 | [405477-food-guess-pixel-art-trivia.json](./405477-food-guess-pixel-art-trivia.json) |
+| Food Truck Shop Simulator | 350537 | [350537-food-truck-shop-simulator.json](./350537-food-truck-shop-simulator.json) |
 | Food Truck Tycoon: Asian Cuisine | 147922 | [147922-food-truck-tycoon-asian-cuisine.json](./147922-food-truck-tycoon-asian-cuisine.json) |
 | Food Wagon | 333359 | [333359-food-wagon.json](./333359-food-wagon.json) |
 | FoodFighters | 286010 | [286010-foodfighters.json](./286010-foodfighters.json) |
@@ -2640,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FragPunk: Toys Awaken - Season 2: Chapter 2 | 362276 | [362276-fragpunk-toys-awaken-season-2-chapter-2.json](./362276-fragpunk-toys-awaken-season-2-chapter-2.json) |
 | Fragrance Tale | 58175 | [58175-fragrance-tale.json](./58175-fragrance-tale.json) |
 | Fragrant Story and Papaya's Path | 315832 | [315832-fragrant-story-and-papayas-path.json](./315832-fragrant-story-and-papayas-path.json) |
+| Frak | 350484 | [350484-frak.json](./350484-frak.json) |
 | Frak! | 91894 | [91894-frak.json](./91894-frak.json) |
 | Frame Breaker | 304333 | [304333-frame-breaker.json](./304333-frame-breaker.json) |
 | Frame Cat | 353960 | [353960-frame-cat.json](./353960-frame-cat.json) |
