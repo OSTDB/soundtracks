@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T17:01:39.848Z",
-  "total_missing": 74692,
+  "generated_at": "2026-09-15T17:11:38.168Z",
+  "total_missing": 74698,
   "games": [
     {
       "igdb_id": 306086,
@@ -5396,11 +5396,6 @@
       "igdb_id": 27653,
       "game_name": "Age of Conan: Secrets of Dragon's Spine",
       "file": "missing/A/27653-age-of-conan-secrets-of-dragons-spine.json"
-    },
-    {
-      "igdb_id": 27652,
-      "game_name": "Age of Conan: The Savage Coast Of Turan",
-      "file": "missing/A/27652-age-of-conan-the-savage-coast-of-turan.json"
     },
     {
       "igdb_id": 16402,
@@ -50371,6 +50366,11 @@
       "igdb_id": 78671,
       "game_name": "CFL Football '99",
       "file": "missing/C/78671-cfl-football-99.json"
+    },
+    {
+      "igdb_id": 346144,
+      "game_name": "CG Mukashi Banashi: Jiisan 2-do Bikkuri!!",
+      "file": "missing/C/346144-cg-mukashi-banashi-jiisan-2-do-bikkuri.json"
     },
     {
       "igdb_id": 179741,
@@ -98988,6 +98988,11 @@
       "file": "missing/E/323744-evolife.json"
     },
     {
+      "igdb_id": 346152,
+      "game_name": "Evolit",
+      "file": "missing/E/346152-evolit.json"
+    },
+    {
       "igdb_id": 353371,
       "game_name": "Evolized",
       "file": "missing/E/353371-evolized.json"
@@ -103831,6 +103836,11 @@
       "igdb_id": 317833,
       "game_name": "Fatal Fury: City of the Wolves - Season Pass 1",
       "file": "missing/F/317833-fatal-fury-city-of-the-wolves-season-pass-1.json"
+    },
+    {
+      "igdb_id": 346147,
+      "game_name": "Fatal Fury: Wild Ambition",
+      "file": "missing/F/346147-fatal-fury-wild-ambition.json"
     },
     {
       "igdb_id": 417494,
@@ -147916,6 +147926,11 @@
       "igdb_id": 200996,
       "game_name": "Ikaruga",
       "file": "missing/I/200996-ikaruga.json"
+    },
+    {
+      "igdb_id": 346150,
+      "game_name": "Ikasama Mahjong",
+      "file": "missing/I/346150-ikasama-mahjong.json"
     },
     {
       "igdb_id": 229030,
@@ -210223,6 +210238,11 @@
       "file": "missing/N/68995-nightwolf-survive-the-megadome.json"
     },
     {
+      "igdb_id": 346143,
+      "game_name": "Nigredo",
+      "file": "missing/N/346143-nigredo.json"
+    },
+    {
       "igdb_id": 72337,
       "game_name": "Nihilist Simulator",
       "file": "missing/N/72337-nihilist-simulator.json"
@@ -228916,6 +228936,11 @@
       "igdb_id": 301813,
       "game_name": "Pilgrim",
       "file": "missing/P/301813-pilgrim.json"
+    },
+    {
+      "igdb_id": 346145,
+      "game_name": "Pilgrim of Darkness",
+      "file": "missing/P/346145-pilgrim-of-darkness.json"
     },
     {
       "igdb_id": 74359,
@@ -290811,6 +290836,11 @@
       "igdb_id": 87701,
       "game_name": "Starfront: Collision",
       "file": "missing/S/87701-starfront-collision.json"
+    },
+    {
+      "igdb_id": 346142,
+      "game_name": "Stargate",
+      "file": "missing/S/346142-stargate.json"
     },
     {
       "igdb_id": 379896,
