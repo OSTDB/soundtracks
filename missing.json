@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T18:31:40.662Z",
-  "total_missing": 74919,
+  "generated_at": "2026-09-15T18:41:33.807Z",
+  "total_missing": 74925,
   "games": [
     {
       "igdb_id": 306086,
@@ -5441,11 +5441,6 @@
       "igdb_id": 9951,
       "game_name": "Age of Empires II: HD Edition - The Forgotten",
       "file": "missing/A/9951-age-of-empires-ii-hd-edition-the-forgotten.json"
-    },
-    {
-      "igdb_id": 599,
-      "game_name": "Age of Empires II: The Conquerors",
-      "file": "missing/A/599-age-of-empires-ii-the-conquerors.json"
     },
     {
       "igdb_id": 144347,
@@ -193083,6 +193078,11 @@
       "file": "missing/M/366815-minecraft-dairycraft.json"
     },
     {
+      "igdb_id": 343904,
+      "game_name": "Minecraft: Echo Crystal",
+      "file": "missing/M/343904-minecraft-echo-crystal.json"
+    },
+    {
       "igdb_id": 254125,
       "game_name": "Minecraft: Frozen",
       "file": "missing/M/254125-minecraft-frozen.json"
@@ -193218,9 +193218,19 @@
       "file": "missing/M/223161-minecraft-the-wild-update.json"
     },
     {
+      "igdb_id": 343905,
+      "game_name": "Minecraft: Time Capsule",
+      "file": "missing/M/343905-minecraft-time-capsule.json"
+    },
+    {
       "igdb_id": 272821,
       "game_name": "Minecraft: Tricky Trials",
       "file": "missing/M/272821-minecraft-tricky-trials.json"
+    },
+    {
+      "igdb_id": 343906,
+      "game_name": "Minecraft: Uncrafting Items Mod",
+      "file": "missing/M/343906-minecraft-uncrafting-items-mod.json"
     },
     {
       "igdb_id": 333585,
@@ -193646,6 +193656,11 @@
       "igdb_id": 188109,
       "game_name": "Mini Mini-Golf",
       "file": "missing/M/188109-mini-mini-golf.json"
+    },
+    {
+      "igdb_id": 343907,
+      "game_name": "Mini Monsters",
+      "file": "missing/M/343907-mini-monsters.json"
     },
     {
       "igdb_id": 126194,
@@ -234738,6 +234753,11 @@
       "file": "missing/P/226210-pokemon-refined-gold.json"
     },
     {
+      "igdb_id": 343908,
+      "game_name": "Pokemon Reloaded",
+      "file": "missing/P/343908-pokemon-reloaded.json"
+    },
+    {
       "igdb_id": 226211,
       "game_name": "Pokémon Revelation",
       "file": "missing/P/226211-pokemon-revelation.json"
@@ -269896,6 +269916,16 @@
       "igdb_id": 84853,
       "game_name": "Shanghai Wii",
       "file": "missing/S/84853-shanghai-wii.json"
+    },
+    {
+      "igdb_id": 343909,
+      "game_name": "Shanghai: Dynasty",
+      "file": "missing/S/343909-shanghai-dynasty.json"
+    },
+    {
+      "igdb_id": 343910,
+      "game_name": "Shanghai: Dynasty",
+      "file": "missing/S/343910-shanghai-dynasty.json"
     },
     {
       "igdb_id": 71448,
