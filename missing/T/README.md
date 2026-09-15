@@ -2185,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Door Factory | 405529 | [405529-the-door-factory.json](./405529-the-door-factory.json) |
 | The Door in The Skybox | 400977 | [400977-the-door-in-the-skybox.json](./400977-the-door-in-the-skybox.json) |
 | The Door Museum | 177483 | [177483-the-door-museum.json](./177483-the-door-museum.json) |
+| The Doors That Led to Nowhere | 336604 | [336604-the-doors-that-led-to-nowhere.json](./336604-the-doors-that-led-to-nowhere.json) |
 | The Dot | 226205 | [226205-the-dot.json](./226205-the-dot.json) |
 | The Downgeon | 137640 | [137640-the-downgeon.json](./137640-the-downgeon.json) |
 | The Dowsing | 369085 | [369085-the-dowsing.json](./369085-the-dowsing.json) |
@@ -6799,6 +6800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Wishes 4: Shaka | 356769 | [356769-tower-of-wishes-4-shaka.json](./356769-tower-of-wishes-4-shaka.json) |
 | Tower Princess | 115661 | [115661-tower-princess.json](./115661-tower-princess.json) |
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
+| Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
 | Tower Walker: MMO Grind Simulator | 217504 | [217504-tower-walker-mmo-grind-simulator.json](./217504-tower-walker-mmo-grind-simulator.json) |
 | Tower War: Tactical Conquest | 245333 | [245333-tower-war-tactical-conquest.json](./245333-tower-war-tactical-conquest.json) |
