@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Jeez, Oh No, My Rabbits Are Gone! | 127201 | [127201-oh-jeez-oh-no-my-rabbits-are-gone.json](./127201-oh-jeez-oh-no-my-rabbits-are-gone.json) |
 | Oh Jellies! | 398442 | [398442-oh-jellies.json](./398442-oh-jellies.json) |
 | Oh My Cod!!: We Mer-Made For Each Other! | 302119 | [302119-oh-my-cod-we-mer-made-for-each-other.json](./302119-oh-my-cod-we-mer-made-for-each-other.json) |
+| Oh My Dog | 362890 | [362890-oh-my-dog.json](./362890-oh-my-dog.json) |
 | Oh My Goat | 51172 | [51172-oh-my-goat.json](./51172-oh-my-goat.json) |
 | Oh My God, Look At This Knight | 76640 | [76640-oh-my-god-look-at-this-knight.json](./76640-oh-my-god-look-at-this-knight.json) |
 | Oh My Gore! | 36231 | [36231-oh-my-gore.json](./36231-oh-my-gore.json) |
