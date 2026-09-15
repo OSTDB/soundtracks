@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible: Guarding the Globe | 257102 | [257102-invincible-guarding-the-globe.json](./257102-invincible-guarding-the-globe.json) |
 | Invisible | 131556 | [131556-invisible.json](./131556-invisible.json) |
 | Invisible | 178671 | [178671-invisible.json](./178671-invisible.json) |
+| Invisible | 377175 | [377175-invisible.json](./377175-invisible.json) |
 | Invisible Apartment | 35719 | [35719-invisible-apartment.json](./35719-invisible-apartment.json) |
 | Invisible Apartment 2 | 336913 | [336913-invisible-apartment-2.json](./336913-invisible-apartment-2.json) |
 | Invisible Apartment 2 | 34492 | [34492-invisible-apartment-2.json](./34492-invisible-apartment-2.json) |
