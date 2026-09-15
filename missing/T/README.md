@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerrariaCraft | 300699 | [300699-terrariacraft.json](./300699-terrariacraft.json) |
 | TerraScape | 239642 | [239642-terrascape.json](./239642-terrascape.json) |
 | TerraStorm | 289314 | [289314-terrastorm.json](./289314-terrastorm.json) |
+| TerraTech Legion | 348307 | [348307-terratech-legion.json](./348307-terratech-legion.json) |
 | TerraTech: Deluxe Edition | 51928 | [51928-terratech-deluxe-edition.json](./51928-terratech-deluxe-edition.json) |
 | Terre Scramble! | 260427 | [260427-terre-scramble.json](./260427-terre-scramble.json) |
 | Terrela | 27672 | [27672-terrela.json](./27672-terrela.json) |
@@ -1176,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorist Takedown: Payback | 54430 | [54430-terrorist-takedown-payback.json](./54430-terrorist-takedown-payback.json) |
 | TerrorMario! | 323754 | [323754-terrormario.json](./323754-terrormario.json) |
 | Terroro | 318493 | [318493-terroro.json](./318493-terroro.json) |
+| Terrors to Unveil: Day Off | 348313 | [348313-terrors-to-unveil-day-off.json](./348313-terrors-to-unveil-day-off.json) |
 | Terrors to Unveil: Intrusion | 344352 | [344352-terrors-to-unveil-intrusion.json](./344352-terrors-to-unveil-intrusion.json) |
 | Terrorween Playdate Bundle | 272820 | [272820-terrorween-playdate-bundle.json](./272820-terrorween-playdate-bundle.json) |
 | Terry The Turtle's Big Adventure | 315502 | [315502-terry-the-turtles-big-adventure.json](./315502-terry-the-turtles-big-adventure.json) |
@@ -3591,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Darkness | 274200 | [274200-the-outer-darkness.json](./274200-the-outer-darkness.json) |
 | The Outer Rim: Survivor | 97344 | [97344-the-outer-rim-survivor.json](./97344-the-outer-rim-survivor.json) |
 | The Outer Space Bugs | 224751 | [224751-the-outer-space-bugs.json](./224751-the-outer-space-bugs.json) |
+| The Outer Worlds 2: Premium Edition | 348309 | [348309-the-outer-worlds-2-premium-edition.json](./348309-the-outer-worlds-2-premium-edition.json) |
 | The Outer Worlds: Spacer's Choice Edition | 239999 | [239999-the-outer-worlds-spacers-choice-edition.json](./239999-the-outer-worlds-spacers-choice-edition.json) |
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
 | The Outlast Trials: Porcelain Observer Pack | 366838 | [366838-the-outlast-trials-porcelain-observer-pack.json](./366838-the-outlast-trials-porcelain-observer-pack.json) |
@@ -5112,6 +5115,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thugging | 370682 | [370682-thugging.json](./370682-thugging.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
+| Thumblemania | 348346 | [348346-thumblemania.json](./348346-thumblemania.json) |
+| Thumps & Blows | 348327 | [348327-thumps-and-blows.json](./348327-thumps-and-blows.json) |
 | Thunder Alley | 49340 | [49340-thunder-alley.json](./49340-thunder-alley.json) |
 | Thunder Blade | 12862 | [12862-thunder-blade.json](./12862-thunder-blade.json) |
 | Thunder Boy | 55186 | [55186-thunder-boy.json](./55186-thunder-boy.json) |
@@ -6652,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touryuu Densetsu: Elan Doree | 77295 | [77295-touryuu-densetsu-elan-doree.json](./77295-touryuu-densetsu-elan-doree.json) |
 | Toushin Toshi Girls Gift RPG | 175943 | [175943-toushin-toshi-girls-gift-rpg.json](./175943-toushin-toshi-girls-gift-rpg.json) |
 | Tover | 24994 | [24994-tover.json](./24994-tover.json) |
+| Tow Game | 348347 | [348347-tow-game.json](./348347-tow-game.json) |
 | Tow Truck | 104635 | [104635-tow-truck.json](./104635-tow-truck.json) |
 | Tow Truck: Max | 102137 | [102137-tow-truck-max.json](./102137-tow-truck-max.json) |
 | Towards the Pantheon | 25316 | [25316-towards-the-pantheon.json](./25316-towards-the-pantheon.json) |
