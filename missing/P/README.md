@@ -3041,6 +3041,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potionomics: Boss Finn Content Pack | 360595 | [360595-potionomics-boss-finn-content-pack.json](./360595-potionomics-boss-finn-content-pack.json) |
 | Potions War | 201802 | [201802-potions-war.json](./201802-potions-war.json) |
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
+| Potrick Snap | 341004 | [341004-potrick-snap.json](./341004-potrick-snap.json) |
+| Potrick Snap 2 | 341012 | [341012-potrick-snap-2.json](./341012-potrick-snap-2.json) |
 | Pots and Potions | 170540 | [170540-pots-and-potions.json](./170540-pots-and-potions.json) |
 | Potshot Pirates | 117750 | [117750-potshot-pirates.json](./117750-potshot-pirates.json) |
 | Potsworth & Co. | 95379 | [95379-potsworth-and-co.json](./95379-potsworth-and-co.json) |
