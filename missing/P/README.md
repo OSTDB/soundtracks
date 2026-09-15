@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Angel | 278141 | [278141-paradise-angel.json](./278141-paradise-angel.json) |
 | Paradise Architect | 274464 | [274464-paradise-architect.json](./274464-paradise-architect.json) |
 | Paradise checkers | 112946 | [112946-paradise-checkers.json](./112946-paradise-checkers.json) |
+| Paradise Cleaning: Days with Marie, My Love | 370754 | [370754-paradise-cleaning-days-with-marie-my-love.json](./370754-paradise-cleaning-days-with-marie-my-love.json) |
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
 | Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
 | Paradise Island | 377593 | [377593-paradise-island.json](./377593-paradise-island.json) |
@@ -2607,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyemisokos | 205572 | [205572-polyemisokos.json](./205572-polyemisokos.json) |
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
 | Polygeddon: Survive | 248035 | [248035-polygeddon-survive.json](./248035-polygeddon-survive.json) |
+| Polyglot Language Learning Quiz | 370760 | [370760-polyglot-language-learning-quiz.json](./370760-polyglot-language-learning-quiz.json) |
 | Polygon Base | 274207 | [274207-polygon-base.json](./274207-polygon-base.json) |
 | Polygon Flight | 89572 | [89572-polygon-flight.json](./89572-polygon-flight.json) |
 | Polygon Hunter VR | 186843 | [186843-polygon-hunter-vr.json](./186843-polygon-hunter-vr.json) |
@@ -2708,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | POP Station | 225629 | [225629-pop-station.json](./225629-pop-station.json) |
 | Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
+| Pop! Slots | 370752 | [370752-pop-slots.json](./370752-pop-slots.json) |
 | Pop'n Music | 281400 | [281400-popn-music.json](./281400-popn-music.json) |
 | Pop'n Music 3 Append Disc | 280791 | [280791-popn-music-3-append-disc.json](./280791-popn-music-3-append-disc.json) |
 | Pop'n Music 4: Append Disc | 283737 | [283737-popn-music-4-append-disc.json](./283737-popn-music-4-append-disc.json) |
@@ -4014,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Pests | 174366 | [174366-puzzle-pests.json](./174366-puzzle-pests.json) |
 | Puzzle Photographer | 403041 | [403041-puzzle-photographer.json](./403041-puzzle-photographer.json) |
 | Puzzle Photographer 2: Fairy Vacation | 403044 | [403044-puzzle-photographer-2-fairy-vacation.json](./403044-puzzle-photographer-2-fairy-vacation.json) |
+| Puzzle Piecer: Leaves of Autumn | 370779 | [370779-puzzle-piecer-leaves-of-autumn.json](./370779-puzzle-piecer-leaves-of-autumn.json) |
 | Puzzle Pleasant | 384070 | [384070-puzzle-pleasant.json](./384070-puzzle-pleasant.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
 | Puzzle Sages | 34493 | [34493-puzzle-sages.json](./34493-puzzle-sages.json) |
