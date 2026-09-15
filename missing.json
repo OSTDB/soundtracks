@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T12:34:04.409Z",
-  "total_missing": 73849,
+  "generated_at": "2026-09-15T12:41:34.440Z",
+  "total_missing": 73848,
   "games": [
     {
       "igdb_id": 306086,
@@ -5231,11 +5231,6 @@
       "igdb_id": 394314,
       "game_name": "AfterQuest",
       "file": "missing/A/394314-afterquest.json"
-    },
-    {
-      "igdb_id": 210857,
-      "game_name": "Afterslave",
-      "file": "missing/A/210857-afterslave.json"
     },
     {
       "igdb_id": 288746,
