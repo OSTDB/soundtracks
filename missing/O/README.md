@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Jester | 159553 | [159553-once-upon-a-jester.json](./159553-once-upon-a-jester.json) |
 | Once Upon a Katamari | 358526 | [358526-once-upon-a-katamari.json](./358526-once-upon-a-katamari.json) |
 | Once Upon A Katamari: Rolling Live Highlights | 410246 | [410246-once-upon-a-katamari-rolling-live-highlights.json](./410246-once-upon-a-katamari-rolling-live-highlights.json) |
+| Once Upon a Kingdom | 358401 | [358401-once-upon-a-kingdom.json](./358401-once-upon-a-kingdom.json) |
 | Once Upon A Life | 115656 | [115656-once-upon-a-life.json](./115656-once-upon-a-life.json) |
 | Once Upon A Plague | 184565 | [184565-once-upon-a-plague.json](./184565-once-upon-a-plague.json) |
 | Once Upon A Siege | 224765 | [224765-once-upon-a-siege.json](./224765-once-upon-a-siege.json) |
@@ -705,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Question and You'll Want to Share It! 1000 Trivia Quiz Questions | 409554 | [409554-one-question-and-youll-want-to-share-it-1000-trivia-quiz-questions.json](./409554-one-question-and-youll-want-to-share-it-1000-trivia-quiz-questions.json) |
 | One Room Hotel | 178654 | [178654-one-room-hotel.json](./178654-one-room-hotel.json) |
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
+| One Rotten Oath | 358376 | [358376-one-rotten-oath.json](./358376-one-rotten-oath.json) |
 | One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
 | One Shot | 179111 | [179111-one-shot.json](./179111-one-shot.json) |
 | One Shot Challenge | 390665 | [390665-one-shot-challenge.json](./390665-one-shot-challenge.json) |
@@ -1227,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Way | 104673 | [104673-our-way.json](./104673-our-way.json) |
 | Our Way | 169977 | [169977-our-way.json](./169977-our-way.json) |
 | Our Worlds | 130877 | [130877-our-worlds.json](./130877-our-worlds.json) |
+| Ouroboros Saiaku.exe: Crazy for you | 358363 | [358363-ouroboros-saiaku-exe-crazy-for-you.json](./358363-ouroboros-saiaku-exe-crazy-for-you.json) |
 | Ouroboros: Prelude | 68604 | [68604-ouroboros-prelude.json](./68604-ouroboros-prelude.json) |
 | Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
 | Out and About | 161379 | [161379-out-and-about.json](./161379-out-and-about.json) |
@@ -1385,6 +1388,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over Shooter | 339284 | [339284-over-shooter.json](./339284-over-shooter.json) |
 | Over the Alps: King of the Mountain | 135802 | [135802-over-the-alps-king-of-the-mountain.json](./135802-over-the-alps-king-of-the-mountain.json) |
 | Over the Counter | 186813 | [186813-over-the-counter.json](./186813-over-the-counter.json) |
+| Over the Hedge: Hammy Goes Nuts! | 358372 | [358372-over-the-hedge-hammy-goes-nuts.json](./358372-over-the-hedge-hammy-goes-nuts.json) |
+| Over the Hedge: Hammy Goes Nuts! | 358374 | [358374-over-the-hedge-hammy-goes-nuts.json](./358374-over-the-hedge-hammy-goes-nuts.json) |
 | Over the Net | 87181 | [87181-over-the-net.json](./87181-over-the-net.json) |
 | Over the Radio | 369086 | [369086-over-the-radio.json](./369086-over-the-radio.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
