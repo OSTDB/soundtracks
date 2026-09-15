@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: Premium Edition | 146339 | [146339-tales-of-arise-premium-edition.json](./146339-tales-of-arise-premium-edition.json) |
 | Tales of Arise: SAO Collaboration Pack | 259813 | [259813-tales-of-arise-sao-collaboration-pack.json](./259813-tales-of-arise-sao-collaboration-pack.json) |
 | Tales of Beasteria | 127249 | [127249-tales-of-beasteria.json](./127249-tales-of-beasteria.json) |
+| Tales of Berseria Remastered: Super Growth Support Herb Set | 378867 | [378867-tales-of-berseria-remastered-super-growth-support-herb-set.json](./378867-tales-of-berseria-remastered-super-growth-support-herb-set.json) |
 | Tales of Destiny 2 | 1203 | [1203-tales-of-destiny-2.json](./1203-tales-of-destiny-2.json) |
 | Tales of Destiny: Director's Cut | 80500 | [80500-tales-of-destiny-directors-cut.json](./80500-tales-of-destiny-directors-cut.json) |
 | Tales of Echoes of the Symphony of Mana | 379434 | [379434-tales-of-echoes-of-the-symphony-of-mana.json](./379434-tales-of-echoes-of-the-symphony-of-mana.json) |
@@ -713,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Rivals | 417566 | [417566-tavern-rivals.json](./417566-tavern-rivals.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
 | Tavern Talk | 238488 | [238488-tavern-talk.json](./238488-tavern-talk.json) |
+| Tavern Talk + Pirate Palooza (Costume AOC) | 378868 | [378868-tavern-talk-pirate-palooza-costume-aoc.json](./378868-tavern-talk-pirate-palooza-costume-aoc.json) |
 | Tavern Tycoon: Brew & Brawl | 391758 | [391758-tavern-tycoon-brew-and-brawl.json](./391758-tavern-tycoon-brew-and-brawl.json) |
 | TavernHold | 361685 | [361685-tavernhold.json](./361685-tavernhold.json) |
 | Tavernia | 391212 | [391212-tavernia.json](./391212-tavernia.json) |
@@ -1419,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
 | The Apartment 57 | 327867 | [327867-the-apartment-57.json](./327867-the-apartment-57.json) |
 | The Ape Painting | 240241 | [240241-the-ape-painting.json](./240241-the-ape-painting.json) |
+| The Aperture Dilemma | 378905 | [378905-the-aperture-dilemma.json](./378905-the-aperture-dilemma.json) |
 | The Apothecary's Apprentice | 177571 | [177571-the-apothecarys-apprentice.json](./177571-the-apothecarys-apprentice.json) |
 | The Apple Girl | 379969 | [379969-the-apple-girl.json](./379969-the-apple-girl.json) |
 | The Apple of Our Time | 281374 | [281374-the-apple-of-our-time.json](./281374-the-apple-of-our-time.json) |
@@ -3323,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mortuary Assistant | 133131 | [133131-the-mortuary-assistant.json](./133131-the-mortuary-assistant.json) |
 | The Mortuary Assistant: Definitive Edition | 312284 | [312284-the-mortuary-assistant-definitive-edition.json](./312284-the-mortuary-assistant-definitive-edition.json) |
 | The Most Addicting Sheep Game | 100730 | [100730-the-most-addicting-sheep-game.json](./100730-the-most-addicting-sheep-game.json) |
+| The Most Annoying Game Ever | 378887 | [378887-the-most-annoying-game-ever.json](./378887-the-most-annoying-game-ever.json) |
 | The Most Awesome Game Ever Made | 221758 | [221758-the-most-awesome-game-ever-made.json](./221758-the-most-awesome-game-ever-made.json) |
 | The Most Beautiful Room in the World | 273413 | [273413-the-most-beautiful-room-in-the-world.json](./273413-the-most-beautiful-room-in-the-world.json) |
 | The Most Searched Playground | 280229 | [280229-the-most-searched-playground.json](./280229-the-most-searched-playground.json) |
@@ -7275,6 +7279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip Time Collection | 328467 | [328467-trip-time-collection.json](./328467-trip-time-collection.json) |
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
 | TriPeaks Solitaire: Card Game | 89185 | [89185-tripeaks-solitaire-card-game.json](./89185-tripeaks-solitaire-card-game.json) |
+| Triphammer | 378920 | [378920-triphammer.json](./378920-triphammer.json) |
 | Triple | 277861 | [277861-triple.json](./277861-triple.json) |
 | Triple Action | 5709 | [5709-triple-action.json](./5709-triple-action.json) |
 | Triple Agent! | 75144 | [75144-triple-agent.json](./75144-triple-agent.json) |
