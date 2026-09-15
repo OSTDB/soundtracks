@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penalty Soccer 2012 | 259560 | [259560-penalty-soccer-2012.json](./259560-penalty-soccer-2012.json) |
 | Penance | 367401 | [367401-penance.json](./367401-penance.json) |
 | Penance | 370685 | [370685-penance.json](./370685-penance.json) |
+| Pencil Marks | 365144 | [365144-pencil-marks.json](./365144-pencil-marks.json) |
 | Pencil Plus: The Wrath of The Spankster | 242245 | [242245-pencil-plus-the-wrath-of-the-spankster.json](./242245-pencil-plus-the-wrath-of-the-spankster.json) |
 | Pendragon Rising | 34210 | [34210-pendragon-rising.json](./34210-pendragon-rising.json) |
 | Penelope Pendrick and the Art of Deceit | 316422 | [316422-penelope-pendrick-and-the-art-of-deceit.json](./316422-penelope-pendrick-and-the-art-of-deceit.json) |
@@ -3908,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Tanks: The Yarnpocalypse | 391064 | [391064-purrfect-tanks-the-yarnpocalypse.json](./391064-purrfect-tanks-the-yarnpocalypse.json) |
 | Purrplate | 372987 | [372987-purrplate.json](./372987-purrplate.json) |
 | Purrrfect Love | 204066 | [204066-purrrfect-love.json](./204066-purrrfect-love.json) |
+| Purrrification | 365161 | [365161-purrrification.json](./365161-purrrification.json) |
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
 | Purumui Purumui | 143677 | [143677-purumui-purumui.json](./143677-purumui-purumui.json) |
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
