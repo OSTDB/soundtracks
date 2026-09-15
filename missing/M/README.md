@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MFTK: Survivors | 408193 | [408193-mftk-survivors.json](./408193-mftk-survivors.json) |
 | MGP Manager | 260382 | [260382-mgp-manager.json](./260382-mgp-manager.json) |
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
+| Mhystaria | 347775 | [347775-mhystaria.json](./347775-mhystaria.json) |
 | Mia | 169370 | [169370-mia.json](./169370-mia.json) |
 | Mia & Mio | 388752 | [388752-mia-and-mio.json](./388752-mia-and-mio.json) |
 | Mia Hamm Soccer | 362900 | [362900-mia-hamm-soccer.json](./362900-mia-hamm-soccer.json) |
@@ -4006,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoriArashi | 205235 | [205235-moriarashi.json](./205235-moriarashi.json) |
 | Morikomori Life | 262977 | [262977-morikomori-life.json](./262977-morikomori-life.json) |
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
+| Morituria | 347798 | [347798-morituria.json](./347798-morituria.json) |
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
 | Morkredd | 100157 | [100157-morkredd.json](./100157-morkredd.json) |
 | Morkull: Ascend to the Gods | 390674 | [390674-morkull-ascend-to-the-gods.json](./390674-morkull-ascend-to-the-gods.json) |
@@ -4839,6 +4841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Life Changed | 165708 | [165708-my-life-changed.json](./165708-my-life-changed.json) |
 | My Life in a Monster Girl Paradise | 403025 | [403025-my-life-in-a-monster-girl-paradise.json](./403025-my-life-in-a-monster-girl-paradise.json) |
 | My Life: Pet Vet | 220875 | [220875-my-life-pet-vet.json](./220875-my-life-pet-vet.json) |
+| My Lil Afterlife | 347757 | [347757-my-lil-afterlife.json](./347757-my-lil-afterlife.json) |
 | My Lil' Donut | 31971 | [31971-my-lil-donut.json](./31971-my-lil-donut.json) |
 | My Little Cafe Nightmare | 348334 | [348334-my-little-cafe-nightmare.json](./348334-my-little-cafe-nightmare.json) |
 | My Little Cemetery | 294173 | [294173-my-little-cemetery.json](./294173-my-little-cemetery.json) |
