@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ànyán no Shénzú Ove: Fēng zhī Zhāng | 394202 | [394202-anyan-no-shenzu-ove-feng-zhi-zhang.json](./394202-anyan-no-shenzu-ove-feng-zhi-zhang.json) |
 | Ảo Mộng Tru Tiên | 380388 | [380388-ao-mong-tru-tien.json](./380388-ao-mong-tru-tien.json) |
 | Àohuáng Yì Jiànjué | 114337 | [114337-aohuang-yi-jianjue.json](./114337-aohuang-yi-jianjue.json) |
+| Är Alfons Åberg hemma? | 336033 | [336033-ar-alfons-aberg-hemma.json](./336033-ar-alfons-aberg-hemma.json) |
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
 | Āsh | 408828 | [408828-ash.json](./408828-ash.json) |
 | Łowca Głów | 98944 | [98944-owca-g-ow.json](./98944-owca-g-ow.json) |
