@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yadamon: Wonderland Dream | 37762 | [37762-yadamon-wonderland-dream.json](./37762-yadamon-wonderland-dream.json) |
 | Yaga: Roots of Evil | 186902 | [186902-yaga-roots-of-evil.json](./186902-yaga-roots-of-evil.json) |
 | YAGS: Falling For You | 228069 | [228069-yags-falling-for-you.json](./228069-yags-falling-for-you.json) |
+| Yagzz! | 343336 | [343336-yagzz.json](./343336-yagzz.json) |
 | Yahoo Pool | 86051 | [86051-yahoo-pool.json](./86051-yahoo-pool.json) |
 | Yahrit! | 105291 | [105291-yahrit.json](./105291-yahrit.json) |
 | Yahtzee | 40745 | [40745-yahtzee.json](./40745-yahtzee.json) |
