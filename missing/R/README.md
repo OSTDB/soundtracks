@@ -831,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReCharge RC | 233758 | [233758-recharge-rc.json](./233758-recharge-rc.json) |
 | ReCharge RC: High Voltage | 330565 | [330565-recharge-rc-high-voltage.json](./330565-recharge-rc-high-voltage.json) |
 | Recipe for Disaster | 146273 | [146273-recipe-for-disaster.json](./146273-recipe-for-disaster.json) |
+| Recital of the Heart | 335366 | [335366-recital-of-the-heart.json](./335366-recital-of-the-heart.json) |
 | Reckless Drive | 335266 | [335266-reckless-drive.json](./335266-reckless-drive.json) |
 | Reckless Driver | 204067 | [204067-reckless-driver.json](./204067-reckless-driver.json) |
 | Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
@@ -1661,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
 | Rhodes | 229023 | [229023-rhodes.json](./229023-rhodes.json) |
 | Rhyme Star | 361719 | [361719-rhyme-star.json](./361719-rhyme-star.json) |
+| Rhyolite | 335351 | [335351-rhyolite.json](./335351-rhyolite.json) |
 | Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
 | Rhythm Cat Pro | 86707 | [86707-rhythm-cat-pro.json](./86707-rhythm-cat-pro.json) |
@@ -1868,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rim: Battle Planets | 71747 | [71747-rim-battle-planets.json](./71747-rim-battle-planets.json) |
 | Rima: The Story Begins | 207859 | [207859-rima-the-story-begins.json](./207859-rima-the-story-begins.json) |
 | Rimebeard | 153974 | [153974-rimebeard.json](./153974-rimebeard.json) |
+| RimFolk | 335323 | [335323-rimfolk.json](./335323-rimfolk.json) |
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
 | RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
 | Ring Academy | 306957 | [306957-ring-academy.json](./306957-ring-academy.json) |
