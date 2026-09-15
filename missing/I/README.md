@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikari Warriors II: Victory Road | 48055 | [48055-ikari-warriors-ii-victory-road.json](./48055-ikari-warriors-ii-victory-road.json) |
 | Ikaros | 51955 | [51955-ikaros.json](./51955-ikaros.json) |
 | Ikaruga | 200996 | [200996-ikaruga.json](./200996-ikaruga.json) |
+| Ikasama Mahjong | 346150 | [346150-ikasama-mahjong.json](./346150-ikasama-mahjong.json) |
 | Ikemen Oukoku Joou to Shinjitsu no Kiss | 229030 | [229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json](./229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json) |
 | Ikemen Prince: Beauty and Her Beast | 229032 | [229032-ikemen-prince-beauty-and-her-beast.json](./229032-ikemen-prince-beauty-and-her-beast.json) |
 | Ikemen Villains: Wrapped in Wicked Romance | 229033 | [229033-ikemen-villains-wrapped-in-wicked-romance.json](./229033-ikemen-villains-wrapped-in-wicked-romance.json) |
@@ -875,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernium | 86337 | [86337-infernium.json](./86337-infernium.json) |
 | Inferno | 121614 | [121614-inferno.json](./121614-inferno.json) |
 | Inferno | 274190 | [274190-inferno.json](./274190-inferno.json) |
+| Inferno | 346092 | [346092-inferno.json](./346092-inferno.json) |
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
 | Inferno Protocol | 381679 | [381679-inferno-protocol.json](./381679-inferno-protocol.json) |
 | Inferno: Deathfield | 82051 | [82051-inferno-deathfield.json](./82051-inferno-deathfield.json) |
@@ -1294,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaded | 121698 | [121698-invaded.json](./121698-invaded.json) |
 | Invader Simulator | 351616 | [351616-invader-simulator.json](./351616-invader-simulator.json) |
 | Invaders | 271990 | [271990-invaders.json](./271990-invaders.json) |
+| Invaders | 346119 | [346119-invaders.json](./346119-invaders.json) |
 | Invaders | 374044 | [374044-invaders.json](./374044-invaders.json) |
 | Invaders 1978 | 72081 | [72081-invaders-1978.json](./72081-invaders-1978.json) |
 | Invaders! From Outer Space | 107930 | [107930-invaders-from-outer-space.json](./107930-invaders-from-outer-space.json) |
@@ -1487,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai x Isekai: Tsugi ha Dono Sakuhin wo | 367445 | [367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json](./367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json) |
 | Isekai: Slow Life | 261796 | [261796-isekai-slow-life.json](./261796-isekai-slow-life.json) |
 | Isekaing: From Zero to Zero | 323548 | [323548-isekaing-from-zero-to-zero.json](./323548-isekaing-from-zero-to-zero.json) |
+| Isekat: Crushed by a Computer, My Beloved Kitten is Transported to a Fantasy World where its Typing Skills Save the Kingdom! | 346161 | [346161-isekat-crushed-by-a-computer-my-beloved-kitten-is-transported-to-a-fantasy-world-where-its-typing-skills-save-the-kingdom.json](./346161-isekat-crushed-by-a-computer-my-beloved-kitten-is-transported-to-a-fantasy-world-where-its-typing-skills-save-the-kingdom.json) |
 | ISEPS Idle Particle Simulator | 256524 | [256524-iseps-idle-particle-simulator.json](./256524-iseps-idle-particle-simulator.json) |
 | Iseran: Isekai Rantou | 257675 | [257675-iseran-isekai-rantou.json](./257675-iseran-isekai-rantou.json) |
 | Isernsmith | 382331 | [382331-isernsmith.json](./382331-isernsmith.json) |
