@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Fun: 3-in-1 Collection | 196259 | [196259-jigsaw-fun-3-in-1-collection.json](./196259-jigsaw-fun-3-in-1-collection.json) |
 | Jigsaw Fun: Wonderful Nature | 187497 | [187497-jigsaw-fun-wonderful-nature.json](./187497-jigsaw-fun-wonderful-nature.json) |
 | Jigsaw Game 05/06 | 345498 | [345498-jigsaw-game-05-06.json](./345498-jigsaw-game-05-06.json) |
+| Jigsaw Industry | 357888 | [357888-jigsaw-industry.json](./357888-jigsaw-industry.json) |
 | Jigsaw Jab | 390678 | [390678-jigsaw-jab.json](./390678-jigsaw-jab.json) |
 | Jigsaw Madness | 43918 | [43918-jigsaw-madness.json](./43918-jigsaw-madness.json) |
 | Jigsaw Masterpieces | 147951 | [147951-jigsaw-masterpieces.json](./147951-jigsaw-masterpieces.json) |
@@ -409,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Juicy Fruits | 238230 | [238230-jigsaw-masterpieces-juicy-fruits.json](./238230-jigsaw-masterpieces-juicy-fruits.json) |
 | Jigsaw Masterpieces: Okinawa - Paradise in Japan | 238231 | [238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json](./238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json) |
 | Jigsaw Masterpieces: Sweet Cakes | 243371 | [243371-jigsaw-masterpieces-sweet-cakes.json](./243371-jigsaw-masterpieces-sweet-cakes.json) |
+| Jigsaw Puzzle | 357883 | [357883-jigsaw-puzzle.json](./357883-jigsaw-puzzle.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Jiu Jitsu | 243159 | [243159-jigsaw-puzzle-pack-pixel-puzzles-ultimate-jiu-jitsu.json](./243159-jigsaw-puzzle-pack-pixel-puzzles-ultimate-jiu-jitsu.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 7XS | 263506 | [263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json](./263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json) |
@@ -599,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolly's Hardcore Mod | 269866 | [269866-jollys-hardcore-mod.json](./269866-jollys-hardcore-mod.json) |
 | JollyWorld | 162408 | [162408-jollyworld.json](./162408-jollyworld.json) |
 | Jonah: A VeggieTales Game | 80600 | [80600-jonah-a-veggietales-game.json](./80600-jonah-a-veggietales-game.json) |
+| Jonald '06 or How a Tiny Horse Living in New York City Raised 250 US Dollars So They Could Buy a Nintedo Woo On Launch Day | 357856 | [357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json](./357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json) |
 | Jonas Willy Online | 149013 | [149013-jonas-willy-online.json](./149013-jonas-willy-online.json) |
 | Jonathan Kane: The Protector | 67261 | [67261-jonathan-kane-the-protector.json](./67261-jonathan-kane-the-protector.json) |
 | Jonathan's Adventure! Pricker Edition | 397783 | [397783-jonathans-adventure-pricker-edition.json](./397783-jonathans-adventure-pricker-edition.json) |
@@ -803,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Kindergarten | 123589 | [123589-jumpstart-kindergarten.json](./123589-jumpstart-kindergarten.json) |
 | JumpStart Math for Kindergarteners | 300415 | [300415-jumpstart-math-for-kindergarteners.json](./300415-jumpstart-math-for-kindergarteners.json) |
 | JumpStart Math for Second Graders | 129147 | [129147-jumpstart-math-for-second-graders.json](./129147-jumpstart-math-for-second-graders.json) |
+| JumpStart Phonics | 358412 | [358412-jumpstart-phonics.json](./358412-jumpstart-phonics.json) |
 | JumpStart Pre-K | 407433 | [407433-jumpstart-pre-k.json](./407433-jumpstart-pre-k.json) |
 | JumpStart Preschool | 315521 | [315521-jumpstart-preschool.json](./315521-jumpstart-preschool.json) |
 | JumpStart Reading for Second Graders | 144929 | [144929-jumpstart-reading-for-second-graders.json](./144929-jumpstart-reading-for-second-graders.json) |
