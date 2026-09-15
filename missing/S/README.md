@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Blade | 245852 | [245852-secret-blade.json](./245852-secret-blade.json) |
 | Secret Cat Forest | 206930 | [206930-secret-cat-forest.json](./206930-secret-cat-forest.json) |
 | Secret Cats: Easter | 368538 | [368538-secret-cats-easter.json](./368538-secret-cats-easter.json) |
+| Secret Cats: Ice Cream Day | 360648 | [360648-secret-cats-ice-cream-day.json](./360648-secret-cats-ice-cream-day.json) |
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
 | Secret City: Chalk of Fate - Collector's Edition | 129214 | [129214-secret-city-chalk-of-fate-collectors-edition.json](./129214-secret-city-chalk-of-fate-collectors-edition.json) |
 | Secret Collect. | 135848 | [135848-secret-collect.json](./135848-secret-collect.json) |
@@ -1985,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherman Commander | 155650 | [155650-sherman-commander.json](./155650-sherman-commander.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
+| Shi's Summer Battle | 360683 | [360683-shis-summer-battle.json](./360683-shis-summer-battle.json) |
 | Shia LaBeouf: Meme Master Dating Simulator | 12076 | [12076-shia-labeouf-meme-master-dating-simulator.json](./12076-shia-labeouf-meme-master-dating-simulator.json) |
 | Shiba Cafe | 177516 | [177516-shiba-cafe.json](./177516-shiba-cafe.json) |
 | Shiba Eternity | 221385 | [221385-shiba-eternity.json](./221385-shiba-eternity.json) |
@@ -2139,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipwreck | 35936 | [35936-shipwreck.json](./35936-shipwreck.json) |
 | Shipwreck Escape | 152827 | [152827-shipwreck-escape.json](./152827-shipwreck-escape.json) |
 | Shipwrecked 64 | 284041 | [284041-shipwrecked-64.json](./284041-shipwrecked-64.json) |
+| Shipwrecked: A Quick Automation | 360651 | [360651-shipwrecked-a-quick-automation.json](./360651-shipwrecked-a-quick-automation.json) |
 | Shiraha Kirameku Koi Shirabe | 194531 | [194531-shiraha-kirameku-koi-shirabe.json](./194531-shiraha-kirameku-koi-shirabe.json) |
 | Shirazu Yama | 196886 | [196886-shirazu-yama.json](./196886-shirazu-yama.json) |
 | Shire Scopes | 255126 | [255126-shire-scopes.json](./255126-shire-scopes.json) |
@@ -4605,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
 | Sound Lock | 261785 | [261785-sound-lock.json](./261785-sound-lock.json) |
 | Sound of Drop: Fall into Poison | 19279 | [19279-sound-of-drop-fall-into-poison.json](./19279-sound-of-drop-fall-into-poison.json) |
+| Sound of Summer Thunder | 360669 | [360669-sound-of-summer-thunder.json](./360669-sound-of-summer-thunder.json) |
 | Sound Shooting!! Rhythm Shooter | 362812 | [362812-sound-shooting-rhythm-shooter.json](./362812-sound-shooting-rhythm-shooter.json) |
 | Sound Slide | 114378 | [114378-sound-slide.json](./114378-sound-slide.json) |
 | Sound Soarer | 74357 | [74357-sound-soarer.json](./74357-sound-soarer.json) |
