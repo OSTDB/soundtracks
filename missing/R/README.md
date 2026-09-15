@@ -1170,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai 0 Kilometer | 61552 | [61552-renai-0-kilometer.json](./61552-renai-0-kilometer.json) |
 | Renai 0 Kilometer V | 216243 | [216243-renai-0-kilometer-v.json](./216243-renai-0-kilometer-v.json) |
 | Renaissance Kingdom Wars | 278968 | [278968-renaissance-kingdom-wars.json](./278968-renaissance-kingdom-wars.json) |
+| Renard's Skin Care Routine | 378901 | [378901-renards-skin-care-routine.json](./378901-renards-skin-care-routine.json) |
 | Rencia | 120925 | [120925-rencia.json](./120925-rencia.json) |
 | Rendering Ranger: R2 | 38369 | [38369-rendering-ranger-r2.json](./38369-rendering-ranger-r2.json) |
 | Rendezvous | 144977 | [144977-rendezvous.json](./144977-rendezvous.json) |
@@ -1275,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Confidential Report File #3 | 402392 | [402392-resident-evil-confidential-report-file-3.json](./402392-resident-evil-confidential-report-file-3.json) |
 | Resident Evil Confidential Report File #4 | 402393 | [402393-resident-evil-confidential-report-file-4.json](./402393-resident-evil-confidential-report-file-4.json) |
 | Resident Evil Mercenaries Vs. | 77341 | [77341-resident-evil-mercenaries-vs.json](./77341-resident-evil-mercenaries-vs.json) |
+| Resident Evil Requiem: Deluxe Kit | 378871 | [378871-resident-evil-requiem-deluxe-kit.json](./378871-resident-evil-requiem-deluxe-kit.json) |
 | Resident Evil Requiem: Lenticular Edition | 392779 | [392779-resident-evil-requiem-lenticular-edition.json](./392779-resident-evil-requiem-lenticular-edition.json) |
 | Resident Evil Requiem: Leon Must Die Forever | 400876 | [400876-resident-evil-requiem-leon-must-die-forever.json](./400876-resident-evil-requiem-leon-must-die-forever.json) |
 | Resident Evil Revelations 2: Season Pass | 254130 | [254130-resident-evil-revelations-2-season-pass.json](./254130-resident-evil-revelations-2-season-pass.json) |
@@ -2736,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Man | 185131 | [185131-rubber-man.json](./185131-rubber-man.json) |
 | Rubber Ninjas | 75143 | [75143-rubber-ninjas.json](./75143-rubber-ninjas.json) |
 | Rubber Royale | 244269 | [244269-rubber-royale.json](./244269-rubber-royale.json) |
+| Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
 | Rubble the Engineer | 359414 | [359414-rubble-the-engineer.json](./359414-rubble-the-engineer.json) |
 | Rubi: The Wayward Mira | 55180 | [55180-rubi-the-wayward-mira.json](./55180-rubi-the-wayward-mira.json) |
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
@@ -2953,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Back | 270680 | [270680-rush-back.json](./270680-rush-back.json) |
 | Rush For Glory | 10803 | [10803-rush-for-glory.json](./10803-rush-for-glory.json) |
 | Rush for the Bomb | 54352 | [54352-rush-for-the-bomb.json](./54352-rush-for-the-bomb.json) |
+| Rush Grotto | 378895 | [378895-rush-grotto.json](./378895-rush-grotto.json) |
 | Rush Hour Deluxe: The ultimate traffic jam game! | 220878 | [220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json](./220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json) |
 | Rush Legends PvP FPS | 231906 | [231906-rush-legends-pvp-fps.json](./231906-rush-legends-pvp-fps.json) |
 | Rush On | 253353 | [253353-rush-on.json](./253353-rush-on.json) |
