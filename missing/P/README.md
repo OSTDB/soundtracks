@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Rabbit Maze Mischief | 88192 | [88192-peter-rabbit-maze-mischief.json](./88192-peter-rabbit-maze-mischief.json) |
 | Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
 | Peter's Apostles | 351609 | [351609-peters-apostles.json](./351609-peters-apostles.json) |
+| Peter's House | 364585 | [364585-peters-house.json](./364585-peters-house.json) |
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
 | PetHotel | 101581 | [101581-pethotel.json](./101581-pethotel.json) |
 | Petit Petit Petit: Specter Pack | 289331 | [289331-petit-petit-petit-specter-pack.json](./289331-petit-petit-petit-specter-pack.json) |
