@@ -1112,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inter Milan Club Football 2005 | 267906 | [267906-inter-milan-club-football-2005.json](./267906-inter-milan-club-football-2005.json) |
 | Interactive Empathy | 392802 | [392802-interactive-empathy.json](./392802-interactive-empathy.json) |
 | Interactive meadow 64 | 178022 | [178022-interactive-meadow-64.json](./178022-interactive-meadow-64.json) |
+| Interactive Sex: BDSM | 371354 | [371354-interactive-sex-bdsm.json](./371354-interactive-sex-bdsm.json) |
 | Interactive Storybook DS: Series 3 | 269833 | [269833-interactive-storybook-ds-series-3.json](./269833-interactive-storybook-ds-series-3.json) |
 | Intercept | 234087 | [234087-intercept.json](./234087-intercept.json) |
 | Interceptor | 192153 | [192153-interceptor.json](./192153-interceptor.json) |
