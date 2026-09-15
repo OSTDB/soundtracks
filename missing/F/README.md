@@ -2961,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruits Jigsaw Puzzle | 88167 | [88167-fruits-jigsaw-puzzle.json](./88167-fruits-jigsaw-puzzle.json) |
 | Fruits of Fury | 413618 | [413618-fruits-of-fury.json](./413618-fruits-of-fury.json) |
 | Fruitwolf | 183017 | [183017-fruitwolf.json](./183017-fruitwolf.json) |
+| Fruity Fauna | 374146 | [374146-fruity-fauna.json](./374146-fruity-fauna.json) |
 | Frutakia | 299776 | [299776-frutakia.json](./299776-frutakia.json) |
 | Frutiger Space | 366227 | [366227-frutiger-space.json](./366227-frutiger-space.json) |
 | Frutz | 405530 | [405530-frutz.json](./405530-frutz.json) |
