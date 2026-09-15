@@ -4135,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic Chronicles Deluxe: Special Edition | 260688 | [260688-mosaic-chronicles-deluxe-special-edition.json](./260688-mosaic-chronicles-deluxe-special-edition.json) |
 | Mosaic Chronicles Deluxe: Ultimate Edition | 243366 | [243366-mosaic-chronicles-deluxe-ultimate-edition.json](./243366-mosaic-chronicles-deluxe-ultimate-edition.json) |
 | Mosaic of the Pharaohs | 337076 | [337076-mosaic-of-the-pharaohs.json](./337076-mosaic-of-the-pharaohs.json) |
+| Mosaic of the Strange | 345024 | [345024-mosaic-of-the-strange.json](./345024-mosaic-of-the-strange.json) |
 | Mosaic Quiz | 378814 | [378814-mosaic-quiz.json](./378814-mosaic-quiz.json) |
 | Mosaic Your Crush! | 161394 | [161394-mosaic-your-crush.json](./161394-mosaic-your-crush.json) |
 | Mosaica: Arboreal | 386877 | [386877-mosaica-arboreal.json](./386877-mosaica-arboreal.json) |
@@ -4901,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
 | My Only | 375859 | [375859-my-only.json](./375859-my-only.json) |
 | My Own Hero Party | 412980 | [412980-my-own-hero-party.json](./412980-my-own-hero-party.json) |
+| My Own Murder | 345049 | [345049-my-own-murder.json](./345049-my-own-murder.json) |
 | My Own Sweet Dionaea | 382213 | [382213-my-own-sweet-dionaea.json](./382213-my-own-sweet-dionaea.json) |
 | My Personal Hater | 388229 | [388229-my-personal-hater.json](./388229-my-personal-hater.json) |
 | My Pet Fan | 351721 | [351721-my-pet-fan.json](./351721-my-pet-fan.json) |
