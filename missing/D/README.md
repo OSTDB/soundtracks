@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance: UK | 95455 | [95455-dance-uk.json](./95455-dance-uk.json) |
 | Dance! Dance! Dance! | 132806 | [132806-dance-dance-dance.json](./132806-dance-dance-dance.json) |
 | Dance! Dance! Dance! | 339794 | [339794-dance-dance-dance.json](./339794-dance-dance-dance.json) |
+| DanceMela | 346162 | [346162-dancemela.json](./346162-dancemela.json) |
 | Dancerush Stardom | 108988 | [108988-dancerush-stardom.json](./108988-dancerush-stardom.json) |
 | Dances with Butterflies VR | 117088 | [117088-dances-with-butterflies-vr.json](./117088-dances-with-butterflies-vr.json) |
 | DanceStar: Party Hits | 44595 | [44595-dancestar-party-hits.json](./44595-dancestar-party-hits.json) |
@@ -1258,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 150104 | [150104-defender.json](./150104-defender.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
 | Defender | 287077 | [287077-defender.json](./287077-defender.json) |
+| Defender | 346133 | [346133-defender.json](./346133-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
 | Defender of the Crown | 1873 | [1873-defender-of-the-crown.json](./1873-defender-of-the-crown.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
@@ -2990,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
 | Doom 64 | 3471 | [3471-doom-64.json](./3471-doom-64.json) |
+| Doom 64 for Dreamcast | 346123 | [346123-doom-64-for-dreamcast.json](./346123-doom-64-for-dreamcast.json) |
 | Doom 64 Reloaded | 346668 | [346668-doom-64-reloaded.json](./346668-doom-64-reloaded.json) |
 | DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
@@ -3051,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door 2: Key - Path to Heaven | 171586 | [171586-door-2-key-path-to-heaven.json](./171586-door-2-key-path-to-heaven.json) |
 | Door Knocker | 122336 | [122336-door-knocker.json](./122336-door-knocker.json) |
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
+| Doorka | 346154 | [346154-doorka.json](./346154-doorka.json) |
 | Doors | 168388 | [168388-doors.json](./168388-doors.json) |
 | Doors | 16987 | [16987-doors.json](./16987-doors.json) |
 | Doors and Doors | 244498 | [244498-doors-and-doors.json](./244498-doors-and-doors.json) |
@@ -3385,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Boy | 108995 | [108995-dragon-boy.json](./108995-dragon-boy.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
 | Dragon Buster | 38035 | [38035-dragon-buster.json](./38035-dragon-buster.json) |
+| Dragon Castle | 346115 | [346115-dragon-castle.json](./346115-dragon-castle.json) |
 | Dragon Champions | 125473 | [125473-dragon-champions.json](./125473-dragon-champions.json) |
 | Dragon Chase | 113659 | [113659-dragon-chase.json](./113659-dragon-chase.json) |
 | Dragon City | 38877 | [38877-dragon-city.json](./38877-dragon-city.json) |
@@ -4367,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
 | Dwarf Land | 284905 | [284905-dwarf-land.json](./284905-dwarf-land.json) |
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
+| Dwarfs & Witch | 346088 | [346088-dwarfs-and-witch.json](./346088-dwarfs-and-witch.json) |
 | Dwarfs Descent | 350420 | [350420-dwarfs-descent.json](./350420-dwarfs-descent.json) |
 | Dwarfs F2P | 90631 | [90631-dwarfs-f2p.json](./90631-dwarfs-f2p.json) |
 | Dwarrows | 25229 | [25229-dwarrows.json](./25229-dwarrows.json) |
