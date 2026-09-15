@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T01:51:33.734Z",
-  "total_missing": 71997,
+  "generated_at": "2026-09-15T02:03:46.654Z",
+  "total_missing": 72046,
   "games": [
     {
       "igdb_id": 306086,
@@ -3478,6 +3478,11 @@
       "file": "missing/A/3137-a-vampyre-story-year-one.json"
     },
     {
+      "igdb_id": 375941,
+      "game_name": "A Very British Summer",
+      "file": "missing/A/375941-a-very-british-summer.json"
+    },
+    {
       "igdb_id": 280752,
       "game_name": "A Very Pilkington Christmas",
       "file": "missing/A/280752-a-very-pilkington-christmas.json"
@@ -4901,11 +4906,6 @@
       "igdb_id": 124175,
       "game_name": "Aeronaut",
       "file": "missing/A/124175-aeronaut.json"
-    },
-    {
-      "igdb_id": 356072,
-      "game_name": "Aery VR: Little Bird Adventure",
-      "file": "missing/A/356072-aery-vr-little-bird-adventure.json"
     },
     {
       "igdb_id": 14227,
@@ -13568,6 +13568,11 @@
       "file": "missing/A/201752-antonblast.json"
     },
     {
+      "igdb_id": 375976,
+      "game_name": "Antonblast 64",
+      "file": "missing/A/375976-antonblast-64.json"
+    },
+    {
       "igdb_id": 117642,
       "game_name": "AntQueen 3D",
       "file": "missing/A/117642-antqueen-3d.json"
@@ -15526,6 +15531,11 @@
       "igdb_id": 147468,
       "game_name": "Arcanoid Breakout",
       "file": "missing/A/147468-arcanoid-breakout.json"
+    },
+    {
+      "igdb_id": 375981,
+      "game_name": "Arcany",
+      "file": "missing/A/375981-arcany.json"
     },
     {
       "igdb_id": 146892,
@@ -19138,6 +19148,11 @@
       "file": "missing/A/23049-astro-fighter.json"
     },
     {
+      "igdb_id": 375991,
+      "game_name": "Astro Fighters 2",
+      "file": "missing/A/375991-astro-fighters-2.json"
+    },
+    {
       "igdb_id": 39656,
       "game_name": "Astro Invader",
       "file": "missing/A/39656-astro-invader.json"
@@ -21581,6 +21596,11 @@
       "igdb_id": 333357,
       "game_name": "Axom: Conquest",
       "file": "missing/A/333357-axom-conquest.json"
+    },
+    {
+      "igdb_id": 375949,
+      "game_name": "Axxx: Taught and Fucked",
+      "file": "missing/A/375949-axxx-taught-and-fucked.json"
     },
     {
       "igdb_id": 293648,
@@ -35606,6 +35626,11 @@
       "igdb_id": 406166,
       "game_name": "Board of the Future",
       "file": "missing/B/406166-board-of-the-future.json"
+    },
+    {
+      "igdb_id": 375945,
+      "game_name": "Boardfall",
+      "file": "missing/B/375945-boardfall.json"
     },
     {
       "igdb_id": 376538,
@@ -59463,6 +59488,11 @@
       "file": "missing/C/190745-corpsenia.json"
     },
     {
+      "igdb_id": 375975,
+      "game_name": "Corpus Machina",
+      "file": "missing/C/375975-corpus-machina.json"
+    },
+    {
       "igdb_id": 67525,
       "game_name": "Corral",
       "file": "missing/C/67525-corral.json"
@@ -63848,6 +63878,11 @@
       "file": "missing/C/342624-crystal-legends.json"
     },
     {
+      "igdb_id": 375950,
+      "game_name": "Crystal Maidens: Unleashed",
+      "file": "missing/C/375950-crystal-maidens-unleashed.json"
+    },
+    {
       "igdb_id": 107821,
       "game_name": "Crystal Path",
       "file": "missing/C/107821-crystal-path.json"
@@ -64541,6 +64576,11 @@
       "igdb_id": 341891,
       "game_name": "Cucina Stellata: Starred Cuisine",
       "file": "missing/C/341891-cucina-stellata-starred-cuisine.json"
+    },
+    {
+      "igdb_id": 375972,
+      "game_name": "Cuckold Life Simulator",
+      "file": "missing/C/375972-cuckold-life-simulator.json"
     },
     {
       "igdb_id": 316392,
@@ -69431,6 +69471,11 @@
       "igdb_id": 391601,
       "game_name": "Days With Girlfriends Ⅲ",
       "file": "missing/D/391601-days-with-girlfriends-iii.json"
+    },
+    {
+      "igdb_id": 375954,
+      "game_name": "Days with Girlfriends: Kello & Cammy",
+      "file": "missing/D/375954-days-with-girlfriends-kello-and-cammy.json"
     },
     {
       "igdb_id": 294689,
@@ -87196,6 +87241,11 @@
       "igdb_id": 152030,
       "game_name": "Dying Light: Platinum Edition",
       "file": "missing/D/152030-dying-light-platinum-edition.json"
+    },
+    {
+      "igdb_id": 375952,
+      "game_name": "Dying Night Sex with Zombi",
+      "file": "missing/D/375952-dying-night-sex-with-zombi.json"
     },
     {
       "igdb_id": 355560,
@@ -106108,6 +106158,11 @@
       "file": "missing/F/165034-flixy-cats.json"
     },
     {
+      "igdb_id": 375978,
+      "game_name": "Floain Plus",
+      "file": "missing/F/375978-floain-plus.json"
+    },
+    {
       "igdb_id": 257948,
       "game_name": "Float: Champions",
       "file": "missing/F/257948-float-champions.json"
@@ -112411,6 +112466,11 @@
       "igdb_id": 309687,
       "game_name": "Furry Sex Resort",
       "file": "missing/F/309687-furry-sex-resort.json"
+    },
+    {
+      "igdb_id": 375951,
+      "game_name": "Furry Sexy Girls",
+      "file": "missing/F/375951-furry-sexy-girls.json"
     },
     {
       "igdb_id": 165025,
@@ -128788,6 +128848,11 @@
       "file": "missing/H/316421-haunted-house-renovator-prologue.json"
     },
     {
+      "igdb_id": 375940,
+      "game_name": "Haunted Ice Cream",
+      "file": "missing/H/375940-haunted-ice-cream.json"
+    },
+    {
       "igdb_id": 116980,
       "game_name": "Haunted Jail: Alcatas",
       "file": "missing/H/116980-haunted-jail-alcatas.json"
@@ -131556,6 +131621,11 @@
       "igdb_id": 308801,
       "game_name": "Hentai Golf: Platinum Edition",
       "file": "missing/H/308801-hentai-golf-platinum-edition.json"
+    },
+    {
+      "igdb_id": 375979,
+      "game_name": "Hentai Gymnast Scarlett",
+      "file": "missing/H/375979-hentai-gymnast-scarlett.json"
     },
     {
       "igdb_id": 147452,
@@ -135708,6 +135778,11 @@
       "file": "missing/H/381684-hollow-knight-silksong-sea-of-sorrow.json"
     },
     {
+      "igdb_id": 375989,
+      "game_name": "Hollow Knight: The Glimmering Realm",
+      "file": "missing/H/375989-hollow-knight-the-glimmering-realm.json"
+    },
+    {
       "igdb_id": 311469,
       "game_name": "Hollow Minds",
       "file": "missing/H/311469-hollow-minds.json"
@@ -138833,6 +138908,11 @@
       "file": "missing/H/100889-human-evolution-clicker-game-rise-of-mankind.json"
     },
     {
+      "igdb_id": 375935,
+      "game_name": "Human Farm",
+      "file": "missing/H/375935-human-farm.json"
+    },
+    {
       "igdb_id": 291467,
       "game_name": "Human Milk Seller",
       "file": "missing/H/291467-human-milk-seller.json"
@@ -140723,6 +140803,11 @@
       "file": "missing/I/384113-i-have-an-item.json"
     },
     {
+      "igdb_id": 375956,
+      "game_name": "I Have Died",
+      "file": "missing/I/375956-i-have-died.json"
+    },
+    {
       "igdb_id": 275003,
       "game_name": "I Have Hired This Anime Girl to Talk to You",
       "file": "missing/I/275003-i-have-hired-this-anime-girl-to-talk-to-you.json"
@@ -141266,6 +141351,11 @@
       "igdb_id": 71001,
       "game_name": "I'm Only Sleeping",
       "file": "missing/I/71001-im-only-sleeping.json"
+    },
+    {
+      "igdb_id": 375936,
+      "game_name": "I'm Struggling",
+      "file": "missing/I/375936-im-struggling.json"
     },
     {
       "igdb_id": 120948,
@@ -142888,6 +142978,11 @@
       "file": "missing/I/292815-illusion-inexistante.json"
     },
     {
+      "igdb_id": 375953,
+      "game_name": "Illusion of Being: Chapter 1",
+      "file": "missing/I/375953-illusion-of-being-chapter-1.json"
+    },
+    {
       "igdb_id": 39010,
       "game_name": "Illusion of L'Phalcia",
       "file": "missing/I/39010-illusion-of-lphalcia.json"
@@ -144186,6 +144281,11 @@
       "igdb_id": 211763,
       "game_name": "IndividuaLand",
       "file": "missing/I/211763-individualand.json"
+    },
+    {
+      "igdb_id": 375985,
+      "game_name": "Indomitable Spirit",
+      "file": "missing/I/375985-indomitable-spirit.json"
     },
     {
       "igdb_id": 385705,
@@ -147731,6 +147831,11 @@
       "igdb_id": 167395,
       "game_name": "Isle of Jura",
       "file": "missing/I/167395-isle-of-jura.json"
+    },
+    {
+      "igdb_id": 375990,
+      "game_name": "Isle of Lament",
+      "file": "missing/I/375990-isle-of-lament.json"
     },
     {
       "igdb_id": 337082,
@@ -161031,6 +161136,11 @@
       "igdb_id": 285477,
       "game_name": "Lakesider: Above and Below",
       "file": "missing/L/285477-lakesider-above-and-below.json"
+    },
+    {
+      "igdb_id": 375970,
+      "game_name": "Lala Hentai 2",
+      "file": "missing/L/375970-lala-hentai-2.json"
     },
     {
       "igdb_id": 122370,
@@ -181153,6 +181263,11 @@
       "file": "missing/M/399744-memolith-forsaken-by-light.json"
     },
     {
+      "igdb_id": 375957,
+      "game_name": "Memology",
+      "file": "missing/M/375957-memology.json"
+    },
+    {
       "igdb_id": 380525,
       "game_name": "Memorel Restoration Project",
       "file": "missing/M/380525-memorel-restoration-project.json"
@@ -189321,6 +189436,11 @@
       "igdb_id": 116339,
       "game_name": "Monster Girl Fantasy",
       "file": "missing/M/116339-monster-girl-fantasy.json"
+    },
+    {
+      "igdb_id": 375969,
+      "game_name": "Monster Girl Jungle",
+      "file": "missing/M/375969-monster-girl-jungle.json"
     },
     {
       "igdb_id": 362265,
@@ -243868,6 +243988,61 @@
       "file": "missing/R/38902-rift-mobile.json"
     },
     {
+      "igdb_id": 375961,
+      "game_name": "Rift of the NecroDancer: Monstercat - \"Crab Rave\"",
+      "file": "missing/R/375961-rift-of-the-necrodancer-monstercat-crab-rave.json"
+    },
+    {
+      "igdb_id": 375959,
+      "game_name": "Rift of the NecroDancer: Monstercat - \"Final Boss\"",
+      "file": "missing/R/375959-rift-of-the-necrodancer-monstercat-final-boss.json"
+    },
+    {
+      "igdb_id": 375958,
+      "game_name": "Rift of the NecroDancer: Monstercat - \"New Game\"",
+      "file": "missing/R/375958-rift-of-the-necrodancer-monstercat-new-game.json"
+    },
+    {
+      "igdb_id": 375962,
+      "game_name": "Rift of the NecroDancer: Monstercat - \"PLAY\"",
+      "file": "missing/R/375962-rift-of-the-necrodancer-monstercat-play.json"
+    },
+    {
+      "igdb_id": 375960,
+      "game_name": "Rift of the NecroDancer: Monstercat - \"Waiting For You feat. Joanna Jones\"",
+      "file": "missing/R/375960-rift-of-the-necrodancer-monstercat-waiting-for-you-feat-joanna-jones.json"
+    },
+    {
+      "igdb_id": 375964,
+      "game_name": "Rift of the NecroDancer: Shovel Knight - \"An Underlying Problem (The Lost City)\" - Jake Kaufman",
+      "file": "missing/R/375964-rift-of-the-necrodancer-shovel-knight-an-underlying-problem-the-lost-city-jake-kaufman.json"
+    },
+    {
+      "igdb_id": 375965,
+      "game_name": "Rift of the NecroDancer: Shovel Knight - \"High Above the Land (The Flying Machine)\" - Jake Kaufman",
+      "file": "missing/R/375965-rift-of-the-necrodancer-shovel-knight-high-above-the-land-the-flying-machine-jake-kaufman.json"
+    },
+    {
+      "igdb_id": 375966,
+      "game_name": "Rift of the NecroDancer: Shovel Knight - \"In the Halls of the Usurper (Pridemoor Keep)\" - Jake Kaufman",
+      "file": "missing/R/375966-rift-of-the-necrodancer-shovel-knight-in-the-halls-of-the-usurper-pridemoor-keep-jake-kaufman.json"
+    },
+    {
+      "igdb_id": 375967,
+      "game_name": "Rift of the NecroDancer: Shovel Knight - \"La Danse Macabre (Lich Yard)\" - Jake Kaufman",
+      "file": "missing/R/375967-rift-of-the-necrodancer-shovel-knight-la-danse-macabre-lich-yard-jake-kaufman.json"
+    },
+    {
+      "igdb_id": 375963,
+      "game_name": "Rift of the NecroDancer: Shovel Knight - \"Main Theme\" - Jake Kaufman",
+      "file": "missing/R/375963-rift-of-the-necrodancer-shovel-knight-main-theme-jake-kaufman.json"
+    },
+    {
+      "igdb_id": 375968,
+      "game_name": "Rift of the NecroDancer: Shovel Knight - \"Strike the Earth! (Plains of Passage)\" - Jake Kaufman",
+      "file": "missing/R/375968-rift-of-the-necrodancer-shovel-knight-strike-the-earth-plains-of-passage-jake-kaufman.json"
+    },
+    {
       "igdb_id": 398364,
       "game_name": "Rift of the Necrodancer: Undertale - \"Spider Dance\" - Toby Fox",
       "file": "missing/R/398364-rift-of-the-necrodancer-undertale-spider-dance-toby-fox.json"
@@ -258078,6 +258253,11 @@
       "file": "missing/S/82840-sexual-slave-ayaka.json"
     },
     {
+      "igdb_id": 375977,
+      "game_name": "Sexuality with Girlfriends: Laler & Reese",
+      "file": "missing/S/375977-sexuality-with-girlfriends-laler-and-reese.json"
+    },
+    {
       "igdb_id": 259854,
       "game_name": "SexWife: No Limit",
       "file": "missing/S/259854-sexwife-no-limit.json"
@@ -259261,6 +259441,11 @@
       "igdb_id": 169452,
       "game_name": "Shanghai1920",
       "file": "missing/S/169452-shanghai1920.json"
+    },
+    {
+      "igdb_id": 375988,
+      "game_name": "Shanhe Remain",
+      "file": "missing/S/375988-shanhe-remain.json"
     },
     {
       "igdb_id": 377045,
@@ -265351,6 +265536,11 @@
       "igdb_id": 348247,
       "game_name": "Sky Reclaimers",
       "file": "missing/S/348247-sky-reclaimers.json"
+    },
+    {
+      "igdb_id": 375974,
+      "game_name": "Sky Resort 2",
+      "file": "missing/S/375974-sky-resort-2.json"
     },
     {
       "igdb_id": 28844,
@@ -283548,6 +283738,11 @@
       "file": "missing/S/384105-streamer-party.json"
     },
     {
+      "igdb_id": 375937,
+      "game_name": "Streamer Screamer",
+      "file": "missing/S/375937-streamer-screamer.json"
+    },
+    {
       "igdb_id": 413064,
       "game_name": "StreamerFun",
       "file": "missing/S/413064-streamerfun.json"
@@ -286373,6 +286568,11 @@
       "file": "missing/S/135159-sunrise-7.json"
     },
     {
+      "igdb_id": 375944,
+      "game_name": "Sunrise of the Time: End of Blue",
+      "file": "missing/S/375944-sunrise-of-the-time-end-of-blue.json"
+    },
+    {
       "igdb_id": 156124,
       "game_name": "SunSenSim",
       "file": "missing/S/156124-sunsensim.json"
@@ -286431,6 +286631,11 @@
       "igdb_id": 4370,
       "game_name": "Sunset Riders",
       "file": "missing/S/4370-sunset-riders.json"
+    },
+    {
+      "igdb_id": 375943,
+      "game_name": "Sunset Street Ninja",
+      "file": "missing/S/375943-sunset-street-ninja.json"
     },
     {
       "igdb_id": 145012,
@@ -289818,6 +290023,11 @@
       "file": "missing/S/395034-super-smash-bros-ultimate-animdude-moveset.json"
     },
     {
+      "igdb_id": 375986,
+      "game_name": "Super Smash Bros. Ultimate: Blood Falcon Moveset",
+      "file": "missing/S/375986-super-smash-bros-ultimate-blood-falcon-moveset.json"
+    },
+    {
       "igdb_id": 280797,
       "game_name": "Super Smash Bros. Ultimate: Competitive Playable Bosses",
       "file": "missing/S/280797-super-smash-bros-ultimate-competitive-playable-bosses.json"
@@ -289886,6 +290096,11 @@
       "igdb_id": 395035,
       "game_name": "Super Smash Bros. Ultimate: Ultron Moveset",
       "file": "missing/S/395035-super-smash-bros-ultimate-ultron-moveset.json"
+    },
+    {
+      "igdb_id": 375984,
+      "game_name": "Super Smash Bros. Ultimate: Vegeta Moveset",
+      "file": "missing/S/375984-super-smash-bros-ultimate-vegeta-moveset.json"
     },
     {
       "igdb_id": 395033,
@@ -303693,6 +303908,11 @@
       "file": "missing/T/35708-the-defenders-the-second-wave.json"
     },
     {
+      "igdb_id": 375948,
+      "game_name": "The Defiant",
+      "file": "missing/T/375948-the-defiant.json"
+    },
+    {
       "igdb_id": 34768,
       "game_name": "The Deletion",
       "file": "missing/T/34768-the-deletion.json"
@@ -308866,6 +309086,11 @@
       "igdb_id": 329013,
       "game_name": "The Leviathan's Fantasy: Mechanical Crisis",
       "file": "missing/T/329013-the-leviathans-fantasy-mechanical-crisis.json"
+    },
+    {
+      "igdb_id": 375971,
+      "game_name": "The Lewd Deal",
+      "file": "missing/T/375971-the-lewd-deal.json"
     },
     {
       "igdb_id": 322981,
@@ -316091,6 +316316,11 @@
       "igdb_id": 415904,
       "game_name": "The Wake of the Wyrm",
       "file": "missing/T/415904-the-wake-of-the-wyrm.json"
+    },
+    {
+      "igdb_id": 375939,
+      "game_name": "The Walk",
+      "file": "missing/T/375939-the-walk.json"
     },
     {
       "igdb_id": 410938,
@@ -331513,6 +331743,11 @@
       "file": "missing/T/390634-tung-tung-together-online-deathrun-party.json"
     },
     {
+      "igdb_id": 375934,
+      "game_name": "Tungtung's Nightmare",
+      "file": "missing/T/375934-tungtungs-nightmare.json"
+    },
+    {
       "igdb_id": 47986,
       "game_name": "Tungulus",
       "file": "missing/T/47986-tungulus.json"
@@ -339393,6 +339628,11 @@
       "file": "missing/V/243417-vessel-damage-control-trainer.json"
     },
     {
+      "igdb_id": 375938,
+      "game_name": "Vessels",
+      "file": "missing/V/375938-vessels.json"
+    },
+    {
       "igdb_id": 143715,
       "game_name": "Vessels of Decay",
       "file": "missing/V/143715-vessels-of-decay.json"
@@ -346686,6 +346926,11 @@
       "igdb_id": 132799,
       "game_name": "What the Pho: restaurant startup stories",
       "file": "missing/W/132799-what-the-pho-restaurant-startup-stories.json"
+    },
+    {
+      "igdb_id": 375983,
+      "game_name": "What the Stars Forgot",
+      "file": "missing/W/375983-what-the-stars-forgot.json"
     },
     {
       "igdb_id": 158684,
