@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Quick Death | 41973 | [41973-a-quick-death.json](./41973-a-quick-death.json) |
 | A Recipe for Survival | 356142 | [356142-a-recipe-for-survival.json](./356142-a-recipe-for-survival.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
+| A Right to Rule | 347228 | [347228-a-right-to-rule.json](./347228-a-right-to-rule.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Rose in the Twilight | 52042 | [52042-a-rose-in-the-twilight.json](./52042-a-rose-in-the-twilight.json) |
 | A Rose in the Twilight: Digital Bloodlust Edition | 52564 | [52564-a-rose-in-the-twilight-digital-bloodlust-edition.json](./52564-a-rose-in-the-twilight-digital-bloodlust-edition.json) |
@@ -1824,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Action! | 19274 | [19274-angry-birds-action.json](./19274-angry-birds-action.json) |
 | Angry Birds Block Quest | 321375 | [321375-angry-birds-block-quest.json](./321375-angry-birds-block-quest.json) |
 | Angry Birds Boom! | 386241 | [386241-angry-birds-boom.json](./386241-angry-birds-boom.json) |
+| Angry Birds Bounce | 347237 | [347237-angry-birds-bounce.json](./347237-angry-birds-bounce.json) |
 | Angry Birds Breaker | 280802 | [280802-angry-birds-breaker.json](./280802-angry-birds-breaker.json) |
 | Angry Birds Double Crossed | 240248 | [240248-angry-birds-double-crossed.json](./240248-angry-birds-double-crossed.json) |
 | Angry Birds Dream Blast | 114424 | [114424-angry-birds-dream-blast.json](./114424-angry-birds-dream-blast.json) |
