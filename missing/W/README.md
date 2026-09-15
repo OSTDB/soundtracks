@@ -413,6 +413,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario's Hint Art | 300685 | [300685-warios-hint-art.json](./300685-warios-hint-art.json) |
 | WarioWare D.I.Y. | 1708 | [1708-warioware-d-i-y.json](./1708-warioware-d-i-y.json) |
 | WarioWare Mouse Workz! | 250046 | [250046-warioware-mouse-workz.json](./250046-warioware-mouse-workz.json) |
+| WarioWare, Inc.: Mega Microgame$! | 341060 | [341060-warioware-inc-mega-microgame.json](./341060-warioware-inc-mega-microgame.json) |
+| WarioWare, Inc.: Mega Microgame$! | 341061 | [341061-warioware-inc-mega-microgame.json](./341061-warioware-inc-mega-microgame.json) |
+| WarioWare, Inc.: Mega Microgame$! | 341062 | [341062-warioware-inc-mega-microgame.json](./341062-warioware-inc-mega-microgame.json) |
 | Warja | 277295 | [277295-warja.json](./277295-warja.json) |
 | Warka Flarka Flim Flam | 29942 | [29942-warka-flarka-flim-flam.json](./29942-warka-flarka-flim-flam.json) |
 | Warkestra | 275336 | [275336-warkestra.json](./275336-warkestra.json) |
@@ -1260,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West C.O.W.-Boys of Moo Mesa | 39383 | [39383-wild-west-c-o-w-boys-of-moo-mesa.json](./39383-wild-west-c-o-w-boys-of-moo-mesa.json) |
 | Wild West Crops | 143637 | [143637-wild-west-crops.json](./143637-wild-west-crops.json) |
 | Wild West Fights: Girls Fighting World | 100751 | [100751-wild-west-fights-girls-fighting-world.json](./100751-wild-west-fights-girls-fighting-world.json) |
+| Wild West Pioneers | 341034 | [341034-wild-west-pioneers.json](./341034-wild-west-pioneers.json) |
 | Wild West Quest: Gold Rush | 100223 | [100223-wild-west-quest-gold-rush.json](./100223-wild-west-quest-gold-rush.json) |
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
 | Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
