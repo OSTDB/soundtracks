@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Element | 341307 | [341307-raw-element.json](./341307-raw-element.json) |
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
 | Rawshire the Last Hatchling | 158214 | [158214-rawshire-the-last-hatchling.json](./158214-rawshire-the-last-hatchling.json) |
+| Rax Runner! | 338288 | [338288-rax-runner.json](./338288-rax-runner.json) |
 | Ray Attack | 148470 | [148470-ray-attack.json](./148470-ray-attack.json) |
 | Ray Eager | 126593 | [126593-ray-eager.json](./126593-ray-eager.json) |
 | Ray Gigant | 11743 | [11743-ray-gigant.json](./11743-ray-gigant.json) |
@@ -1160,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relentless Rex | 110277 | [110277-relentless-rex.json](./110277-relentless-rex.json) |
 | Relevo's Snowboarding | 311986 | [311986-relevos-snowboarding.json](./311986-relevos-snowboarding.json) |
 | Relgiros | 274492 | [274492-relgiros.json](./274492-relgiros.json) |
+| Relic | 338301 | [338301-relic.json](./338301-relic.json) |
 | Relic Arena | 278976 | [278976-relic-arena.json](./278976-relic-arena.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
 | Relic Hunters Zero: Remix | 129846 | [129846-relic-hunters-zero-remix.json](./129846-relic-hunters-zero-remix.json) |
