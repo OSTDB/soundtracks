@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telomere | 148505 | [148505-telomere.json](./148505-telomere.json) |
 | Temari Trials | 359984 | [359984-temari-trials.json](./359984-temari-trials.json) |
 | Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
+| Tempaux | 354525 | [354525-tempaux.json](./354525-tempaux.json) |
 | Tempest | 143034 | [143034-tempest.json](./143034-tempest.json) |
 | Tempest 3000 | 51181 | [51181-tempest-3000.json](./51181-tempest-3000.json) |
 | Tempest 4000 | 54565 | [54565-tempest-4000.json](./54565-tempest-4000.json) |
@@ -2507,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girl in the Window | 221722 | [221722-the-girl-in-the-window.json](./221722-the-girl-in-the-window.json) |
 | The Girl on the Train | 74247 | [74247-the-girl-on-the-train.json](./74247-the-girl-on-the-train.json) |
 | The Girl Who Sees | 149576 | [149576-the-girl-who-sees.json](./149576-the-girl-who-sees.json) |
+| The Girl With The Bow | 354515 | [354515-the-girl-with-the-bow.json](./354515-the-girl-with-the-bow.json) |
 | The Girl's Moving Castle | 291759 | [291759-the-girls-moving-castle.json](./291759-the-girls-moving-castle.json) |
 | The Girlfriend From My Novel | 211727 | [211727-the-girlfriend-from-my-novel.json](./211727-the-girlfriend-from-my-novel.json) |
 | The Glass Staircase | 116968 | [116968-the-glass-staircase.json](./116968-the-glass-staircase.json) |
@@ -3184,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lone Alien | 237079 | [237079-the-lone-alien.json](./237079-the-lone-alien.json) |
 | The Lone Hero | 387522 | [387522-the-lone-hero.json](./387522-the-lone-hero.json) |
 | The Lone Island Survival | 68663 | [68663-the-lone-island-survival.json](./68663-the-lone-island-survival.json) |
+| The Lone Keeper | 354518 | [354518-the-lone-keeper.json](./354518-the-lone-keeper.json) |
 | The Lone Warrior | 37180 | [37180-the-lone-warrior.json](./37180-the-lone-warrior.json) |
 | The Loneliest Summer | 159827 | [159827-the-loneliest-summer.json](./159827-the-loneliest-summer.json) |
 | The Lonely Gorilla | 94769 | [94769-the-lonely-gorilla.json](./94769-the-lonely-gorilla.json) |
@@ -4792,6 +4795,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatre Tales | 117666 | [117666-theatre-tales.json](./117666-theatre-tales.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Collector's Edition | 89895 | [89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json](./89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Limited Edition | 89894 | [89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json](./89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json) |
+| Theatrhythm: Final Bar Line - Chrono Pack | 354543 | [354543-theatrhythm-final-bar-line-chrono-pack.json](./354543-theatrhythm-final-bar-line-chrono-pack.json) |
+| Theatrhythm: Final Bar Line - Live A Live Pack | 354519 | [354519-theatrhythm-final-bar-line-live-a-live-pack.json](./354519-theatrhythm-final-bar-line-live-a-live-pack.json) |
+| Theatrhythm: Final Bar Line - NieR Pack Vol. 2 | 354544 | [354544-theatrhythm-final-bar-line-nier-pack-vol-2.json](./354544-theatrhythm-final-bar-line-nier-pack-vol-2.json) |
+| Theatrhythm: Final Bar Line - Octopath Traveler Pack | 354512 | [354512-theatrhythm-final-bar-line-octopath-traveler-pack.json](./354512-theatrhythm-final-bar-line-octopath-traveler-pack.json) |
+| Theatrhythm: Final Bar Line - SaGa Pack | 354542 | [354542-theatrhythm-final-bar-line-saga-pack.json](./354542-theatrhythm-final-bar-line-saga-pack.json) |
+| Theatrhythm: Final Bar Line - SaGa Pack Vol. 2 | 354541 | [354541-theatrhythm-final-bar-line-saga-pack-vol-2.json](./354541-theatrhythm-final-bar-line-saga-pack-vol-2.json) |
+| Theatrhythm: Final Bar Line - Season Pass Vol. 1 | 354545 | [354545-theatrhythm-final-bar-line-season-pass-vol-1.json](./354545-theatrhythm-final-bar-line-season-pass-vol-1.json) |
+| Theatrhythm: Final Bar Line - Season Pass Vol. 2 | 354546 | [354546-theatrhythm-final-bar-line-season-pass-vol-2.json](./354546-theatrhythm-final-bar-line-season-pass-vol-2.json) |
+| Theatrhythm: Final Bar Line - The World Ends with You Pack | 354521 | [354521-theatrhythm-final-bar-line-the-world-ends-with-you-pack.json](./354521-theatrhythm-final-bar-line-the-world-ends-with-you-pack.json) |
+| Theatrhythm: Final Bar Line - Xenogears Pack | 354511 | [354511-theatrhythm-final-bar-line-xenogears-pack.json](./354511-theatrhythm-final-bar-line-xenogears-pack.json) |
 | Theatrics | 260678 | [260678-theatrics.json](./260678-theatrics.json) |
 | TheBestiary | 196894 | [196894-thebestiary.json](./196894-thebestiary.json) |
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
