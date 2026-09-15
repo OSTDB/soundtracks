@@ -1016,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Tower | 87670 | [87670-perfect-tower.json](./87670-perfect-tower.json) |
 | Perfect Universe | 15842 | [15842-perfect-universe.json](./15842-perfect-universe.json) |
 | Perfect Universe Play with Gravity | 99545 | [99545-perfect-universe-play-with-gravity.json](./99545-perfect-universe-play-with-gravity.json) |
+| Perfect Victim | 355619 | [355619-perfect-victim.json](./355619-perfect-victim.json) |
 | Perfect Wedding Solitaire | 386126 | [386126-perfect-wedding-solitaire.json](./386126-perfect-wedding-solitaire.json) |
 | Perfect World | 8747 | [8747-perfect-world.json](./8747-perfect-world.json) |
 | Perfectdom | 403661 | [403661-perfectdom.json](./403661-perfectdom.json) |
@@ -2409,6 +2410,45 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ashen Frost | 307289 | [307289-pokemon-ashen-frost.json](./307289-pokemon-ashen-frost.json) |
 | Pokémon AshGray Version | 143756 | [143756-pokemon-ashgray-version.json](./143756-pokemon-ashgray-version.json) |
 | Pokémon Awakening | 341913 | [341913-pokemon-awakening.json](./341913-pokemon-awakening.json) |
+| Pokémon Battle Card e+: 08-B001 - Pokémon Breeder no Mami | 355623 | [355623-pokemon-battle-card-e-08-b001-pokemon-breeder-no-mami.json](./355623-pokemon-battle-card-e-08-b001-pokemon-breeder-no-mami.json) |
+| Pokémon Battle Card e+: 08-B002 - Iseki Mania no Toshitsugu | 355624 | [355624-pokemon-battle-card-e-08-b002-iseki-mania-no-toshitsugu.json](./355624-pokemon-battle-card-e-08-b002-iseki-mania-no-toshitsugu.json) |
+| Pokémon Battle Card e+: 08-B003 - Tatsujin no Koto | 355625 | [355625-pokemon-battle-card-e-08-b003-tatsujin-no-koto.json](./355625-pokemon-battle-card-e-08-b003-tatsujin-no-koto.json) |
+| Pokémon Battle Card e+: 08-B004 - Karate-ou no Masaru | 355626 | [355626-pokemon-battle-card-e-08-b004-karate-ou-no-masaru.json](./355626-pokemon-battle-card-e-08-b004-karate-ou-no-masaru.json) |
+| Pokémon Battle Card e+: 08-B005 - Ukiwa Girl no Harue | 355627 | [355627-pokemon-battle-card-e-08-b005-ukiwa-girl-no-harue.json](./355627-pokemon-battle-card-e-08-b005-ukiwa-girl-no-harue.json) |
+| Pokémon Battle Card e+: 08-B006 - Ninja Gokko no Yuu | 355628 | [355628-pokemon-battle-card-e-08-b006-ninja-gokko-no-yuu.json](./355628-pokemon-battle-card-e-08-b006-ninja-gokko-no-yuu.json) |
+| Pokémon Battle Card e+: 08-B007 - Obocchama no Matsuo | 355629 | [355629-pokemon-battle-card-e-08-b007-obocchama-no-matsuo.json](./355629-pokemon-battle-card-e-08-b007-obocchama-no-matsuo.json) |
+| Pokémon Battle Card e+: 08-B008 - Dragon Tsukai no Kuen | 355630 | [355630-pokemon-battle-card-e-08-b008-dragon-tsukai-no-kuen.json](./355630-pokemon-battle-card-e-08-b008-dragon-tsukai-no-kuen.json) |
+| Pokémon Battle Card e+: 08-B009 - Elite Trainer no Shizu | 355632 | [355632-pokemon-battle-card-e-08-b009-elite-trainer-no-shizu.json](./355632-pokemon-battle-card-e-08-b009-elite-trainer-no-shizu.json) |
+| Pokémon Battle Card e+: 08-B010 - Obocchama no Junpei | 355633 | [355633-pokemon-battle-card-e-08-b010-obocchama-no-junpei.json](./355633-pokemon-battle-card-e-08-b010-obocchama-no-junpei.json) |
+| Pokémon Battle Card e+: 08-B011 - Campfire no Joe | 355634 | [355634-pokemon-battle-card-e-08-b011-campfire-no-joe.json](./355634-pokemon-battle-card-e-08-b011-campfire-no-joe.json) |
+| Pokémon Battle Card e+: 08-B012 - Gentleman no Fiennes | 355635 | [355635-pokemon-battle-card-e-08-b012-gentleman-no-fiennes.json](./355635-pokemon-battle-card-e-08-b012-gentleman-no-fiennes.json) |
+| Pokémon Battle Card e+: 08-B013 - Karate-ou no Danpei | 355636 | [355636-pokemon-battle-card-e-08-b013-karate-ou-no-danpei.json](./355636-pokemon-battle-card-e-08-b013-karate-ou-no-danpei.json) |
+| Pokémon Battle Card e+: 08-B014 - Otona no Onee-san no Yuka | 355637 | [355637-pokemon-battle-card-e-08-b014-otona-no-onee-san-no-yuka.json](./355637-pokemon-battle-card-e-08-b014-otona-no-onee-san-no-yuka.json) |
+| Pokémon Battle Card e+: 08-B015 - Miniskirt no Youko | 355638 | [355638-pokemon-battle-card-e-08-b015-miniskirt-no-youko.json](./355638-pokemon-battle-card-e-08-b015-miniskirt-no-youko.json) |
+| Pokémon Battle Card e+: 08-B016 - Occult Mania no Fukune | 355639 | [355639-pokemon-battle-card-e-08-b016-occult-mania-no-fukune.json](./355639-pokemon-battle-card-e-08-b016-occult-mania-no-fukune.json) |
+| Pokémon Battle Card e+: 08-B017 - Psychicher no Kiyoshi | 355640 | [355640-pokemon-battle-card-e-08-b017-psychicher-no-kiyoshi.json](./355640-pokemon-battle-card-e-08-b017-psychicher-no-kiyoshi.json) |
+| Pokémon Battle Card e+: 08-B018 - Ninja Gokko no Toshinao | 355641 | [355641-pokemon-battle-card-e-08-b018-ninja-gokko-no-toshinao.json](./355641-pokemon-battle-card-e-08-b018-ninja-gokko-no-toshinao.json) |
+| Pokémon Battle Card e+: 08-B019 - Tori Tsukai no Otoya | 355642 | [355642-pokemon-battle-card-e-08-b019-tori-tsukai-no-otoya.json](./355642-pokemon-battle-card-e-08-b019-tori-tsukai-no-otoya.json) |
+| Pokémon Battle Card e+: 08-B020 - Triathlete no Natsuko | 355643 | [355643-pokemon-battle-card-e-08-b020-triathlete-no-natsuko.json](./355643-pokemon-battle-card-e-08-b020-triathlete-no-natsuko.json) |
+| Pokémon Battle Card e+: 08-B021 - Occult Mania no Sadayo | 355644 | [355644-pokemon-battle-card-e-08-b021-occult-mania-no-sadayo.json](./355644-pokemon-battle-card-e-08-b021-occult-mania-no-sadayo.json) |
+| Pokémon Battle Card e+: 08-B022 - Pokémon Collector no Junji | 355645 | [355645-pokemon-battle-card-e-08-b022-pokemon-collector-no-junji.json](./355645-pokemon-battle-card-e-08-b022-pokemon-collector-no-junji.json) |
+| Pokémon Battle Card e+: 08-B023 - Pokémon Breeder no Shinji | 355646 | [355646-pokemon-battle-card-e-08-b023-pokemon-breeder-no-shinji.json](./355646-pokemon-battle-card-e-08-b023-pokemon-breeder-no-shinji.json) |
+| Pokémon Battle Card e+: 08-B024 - Tatsujin no Fugen | 355647 | [355647-pokemon-battle-card-e-08-b024-tatsujin-no-fugen.json](./355647-pokemon-battle-card-e-08-b024-tatsujin-no-fugen.json) |
+| Pokémon Battle Card e+: 08-B025 - Occult Mania no Rina | 355648 | [355648-pokemon-battle-card-e-08-b025-occult-mania-no-rina.json](./355648-pokemon-battle-card-e-08-b025-occult-mania-no-rina.json) |
+| Pokémon Battle Card e+: 08-B026 - Ninja Gokko no Ruizou | 355649 | [355649-pokemon-battle-card-e-08-b026-ninja-gokko-no-ruizou.json](./355649-pokemon-battle-card-e-08-b026-ninja-gokko-no-ruizou.json) |
+| Pokémon Battle Card e+: 08-B027 - Triathlete no Nozomu | 355650 | [355650-pokemon-battle-card-e-08-b027-triathlete-no-nozomu.json](./355650-pokemon-battle-card-e-08-b027-triathlete-no-nozomu.json) |
+| Pokémon Battle Card e+: 08-B028 - Guitarist no Kyouhei | 355651 | [355651-pokemon-battle-card-e-08-b028-guitarist-no-kyouhei.json](./355651-pokemon-battle-card-e-08-b028-guitarist-no-kyouhei.json) |
+| Pokémon Battle Card e+: 08-B029 - Mushi Tori Shounen no Yukio | 355652 | [355652-pokemon-battle-card-e-08-b029-mushi-tori-shounen-no-yukio.json](./355652-pokemon-battle-card-e-08-b029-mushi-tori-shounen-no-yukio.json) |
+| Pokémon Battle Card e+: 08-B030 - Daisuki Club no Makio | 355653 | [355653-pokemon-battle-card-e-08-b030-daisuki-club-no-makio.json](./355653-pokemon-battle-card-e-08-b030-daisuki-club-no-makio.json) |
+| Pokémon Battle Card e+: 08-B031 - Battle Girl no Noriko | 355654 | [355654-pokemon-battle-card-e-08-b031-battle-girl-no-noriko.json](./355654-pokemon-battle-card-e-08-b031-battle-girl-no-noriko.json) |
+| Pokémon Battle Card e+: 08-B032 - Pokémon Ranger no Hoyoshi | 355655 | [355655-pokemon-battle-card-e-08-b032-pokemon-ranger-no-hoyoshi.json](./355655-pokemon-battle-card-e-08-b032-pokemon-ranger-no-hoyoshi.json) |
+| Pokémon Battle Card e+: 08-B033 - Juku Kaeri no Tomoyasu | 355656 | [355656-pokemon-battle-card-e-08-b033-juku-kaeri-no-tomoyasu.json](./355656-pokemon-battle-card-e-08-b033-juku-kaeri-no-tomoyasu.json) |
+| Pokémon Battle Card e+: 08-B034 - Gentleman no Anthony | 355657 | [355657-pokemon-battle-card-e-08-b034-gentleman-no-anthony.json](./355657-pokemon-battle-card-e-08-b034-gentleman-no-anthony.json) |
+| Pokémon Battle Card e+: 08-B035 - Triathlete no Ryou | 355658 | [355658-pokemon-battle-card-e-08-b035-triathlete-no-ryou.json](./355658-pokemon-battle-card-e-08-b035-triathlete-no-ryou.json) |
+| Pokémon Battle Card e+: 08-B036 - Guitarist no Daikichi | 355659 | [355659-pokemon-battle-card-e-08-b036-guitarist-no-daikichi.json](./355659-pokemon-battle-card-e-08-b036-guitarist-no-daikichi.json) |
+| Pokémon Battle Card e+: 08-B037 - Pokémon Breeder no Shigenobu | 355660 | [355660-pokemon-battle-card-e-08-b037-pokemon-breeder-no-shigenobu.json](./355660-pokemon-battle-card-e-08-b037-pokemon-breeder-no-shigenobu.json) |
+| Pokémon Battle Card e+: 08-B038 - Pokémon Ranger Reina | 355661 | [355661-pokemon-battle-card-e-08-b038-pokemon-ranger-reina.json](./355661-pokemon-battle-card-e-08-b038-pokemon-ranger-reina.json) |
+| Pokémon Battle Card e+: 08-K007 - Ginema no Mi | 355631 | [355631-pokemon-battle-card-e-08-k007-ginema-no-mi.json](./355631-pokemon-battle-card-e-08-k007-ginema-no-mi.json) |
 | Pokémon Battle e Card: Freezing Ray | 220853 | [220853-pokemon-battle-e-card-freezing-ray.json](./220853-pokemon-battle-e-card-freezing-ray.json) |
 | Pokémon Battle Online | 323760 | [323760-pokemon-battle-online.json](./323760-pokemon-battle-online.json) |
 | Pokémon Battle Woods | 229043 | [229043-pokemon-battle-woods.json](./229043-pokemon-battle-woods.json) |
@@ -3661,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proof of Existence | 405467 | [405467-proof-of-existence.json](./405467-proof-of-existence.json) |
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
+| Prop Sumo | 355620 | [355620-prop-sumo.json](./355620-prop-sumo.json) |
 | Propaganda vs. Zombies 2 | 391742 | [391742-propaganda-vs-zombies-2.json](./391742-propaganda-vs-zombies-2.json) |
 | Propagate | 366218 | [366218-propagate.json](./366218-propagate.json) |
 | Propeller Arena: Aviation Battle Championship | 46555 | [46555-propeller-arena-aviation-battle-championship.json](./46555-propeller-arena-aviation-battle-championship.json) |
