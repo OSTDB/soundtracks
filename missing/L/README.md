@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labarynth of Legendary Loot | 143044 | [143044-labarynth-of-legendary-loot.json](./143044-labarynth-of-legendary-loot.json) |
 | Labhorror | 414405 | [414405-labhorror.json](./414405-labhorror.json) |
 | Lablue Horror | 411048 | [411048-lablue-horror.json](./411048-lablue-horror.json) |
+| Labor Rights Funeral in Ukraine | 379962 | [379962-labor-rights-funeral-in-ukraine.json](./379962-labor-rights-funeral-in-ukraine.json) |
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
 | Laby to Panel de Shiritori | 325452 | [325452-laby-to-panel-de-shiritori.json](./325452-laby-to-panel-de-shiritori.json) |
