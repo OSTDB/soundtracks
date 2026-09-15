@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
+| Terminal Shift | 355074 | [355074-terminal-shift.json](./355074-terminal-shift.json) |
 | Terminal Sickness | 110396 | [110396-terminal-sickness.json](./110396-terminal-sickness.json) |
 | Terminal Singularity | 158701 | [158701-terminal-singularity.json](./158701-terminal-singularity.json) |
 | Terminal V | 273403 | [273403-terminal-v.json](./273403-terminal-v.json) |
@@ -3440,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Murder of Sonic the Hedgehog | 243385 | [243385-the-murder-of-sonic-the-hedgehog.json](./243385-the-murder-of-sonic-the-hedgehog.json) |
 | The Murderer | 69801 | [69801-the-murderer.json](./69801-the-murderer.json) |
 | The Muse | 319556 | [319556-the-muse.json](./319556-the-muse.json) |
+| The Museum Sentinel | 355100 | [355100-the-museum-sentinel.json](./355100-the-museum-sentinel.json) |
 | The Mushrooms' Happy New Year | 396193 | [396193-the-mushrooms-happy-new-year.json](./396193-the-mushrooms-happy-new-year.json) |
 | The Mutineer | 139463 | [139463-the-mutineer.json](./139463-the-mutineer.json) |
 | The Mutton Horn: Jump Jump! | 105379 | [105379-the-mutton-horn-jump-jump.json](./105379-the-mutton-horn-jump-jump.json) |
@@ -6222,6 +6224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tongari Boushi to Mahou no Machi | 109053 | [109053-tongari-boushi-to-mahou-no-machi.json](./109053-tongari-boushi-to-mahou-no-machi.json) |
 | Tongari Boushi to Mahou no Omise | 109055 | [109055-tongari-boushi-to-mahou-no-omise.json](./109055-tongari-boushi-to-mahou-no-omise.json) |
 | Tongari Boushi to Oshare na Mahou Tsukai | 109054 | [109054-tongari-boushi-to-oshare-na-mahou-tsukai.json](./109054-tongari-boushi-to-oshare-na-mahou-tsukai.json) |
+| Tongue of Dog | 355084 | [355084-tongue-of-dog.json](./355084-tongue-of-dog.json) |
 | Toni Island Adventure | 288198 | [288198-toni-island-adventure.json](./288198-toni-island-adventure.json) |
 | Tonic Trouble | 3614 | [3614-tonic-trouble.json](./3614-tonic-trouble.json) |
 | Tonka Firefighter | 206757 | [206757-tonka-firefighter.json](./206757-tonka-firefighter.json) |
@@ -7474,6 +7477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity Trigger | 202850 | [202850-trinity-trigger.json](./202850-trinity-trigger.json) |
 | Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
 | Trinity Universe | 7474 | [7474-trinity-universe.json](./7474-trinity-universe.json) |
+| Trinkets | 355078 | [355078-trinkets.json](./355078-trinkets.json) |
 | Trinoline | 116366 | [116366-trinoline.json](./116366-trinoline.json) |
 | Trinoline: Genesis | 98374 | [98374-trinoline-genesis.json](./98374-trinoline-genesis.json) |
 | Trio | 90622 | [90622-trio.json](./90622-trio.json) |
