@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Military | 398324 | [398324-sad-virus-military.json](./398324-sad-virus-military.json) |
 | Sad Virus Shitcoin | 387494 | [387494-sad-virus-shitcoin.json](./387494-sad-virus-shitcoin.json) |
 | Sadboy | 113682 | [113682-sadboy.json](./113682-sadboy.json) |
+| Sadhana | 364598 | [364598-sadhana.json](./364598-sadhana.json) |
 | Sadko | 397674 | [397674-sadko.json](./397674-sadko.json) |
 | Sadoubu (Tea Ceremony Club) | 82946 | [82946-sadoubu-tea-ceremony-club.json](./82946-sadoubu-tea-ceremony-club.json) |
 | Sae | 276177 | [276177-sae.json](./276177-sae.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scram 20 | 79316 | [79316-scram-20.json](./79316-scram-20.json) |
 | Scramble | 246400 | [246400-scramble.json](./246400-scramble.json) |
 | Scramble | 297494 | [297494-scramble.json](./297494-scramble.json) |
+| Scramble of the Far East | 364555 | [364555-scramble-of-the-far-east.json](./364555-scramble-of-the-far-east.json) |
 | Scramble Spirits | 12847 | [12847-scramble-spirits.json](./12847-scramble-spirits.json) |
 | Scramble Up! | 324316 | [324316-scramble-up.json](./324316-scramble-up.json) |
 | Scrambled | 58163 | [58163-scrambled.json](./58163-scrambled.json) |
@@ -1579,6 +1581,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Blade | 20932 | [20932-shadow-blade.json](./20932-shadow-blade.json) |
 | Shadow Blade Zero | 174864 | [174864-shadow-blade-zero.json](./174864-shadow-blade-zero.json) |
 | Shadow Block | 28813 | [28813-shadow-block.json](./28813-shadow-block.json) |
+| Shadow Boxing | 364578 | [364578-shadow-boxing.json](./364578-shadow-boxing.json) |
+| Shadow Boxing 2 | 364579 | [364579-shadow-boxing-2.json](./364579-shadow-boxing-2.json) |
 | Shadow BoXR | 241368 | [241368-shadow-boxr.json](./241368-shadow-boxr.json) |
 | Shadow Bug | 44246 | [44246-shadow-bug.json](./44246-shadow-bug.json) |
 | Shadow Burglar | 191864 | [191864-shadow-burglar.json](./191864-shadow-burglar.json) |
@@ -4118,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songbird | 324103 | [324103-songbird.json](./324103-songbird.json) |
 | Songbringer: The Trial of Ren | 165014 | [165014-songbringer-the-trial-of-ren.json](./165014-songbringer-the-trial-of-ren.json) |
 | SongPop Party | 194563 | [194563-songpop-party.json](./194563-songpop-party.json) |
+| SongRunner | 364567 | [364567-songrunner.json](./364567-songrunner.json) |
 | Songs for a Hero | 222283 | [222283-songs-for-a-hero.json](./222283-songs-for-a-hero.json) |
 | Songs of Conquest | 119346 | [119346-songs-of-conquest.json](./119346-songs-of-conquest.json) |
 | Songs of Conquest: Rise Eternal | 302920 | [302920-songs-of-conquest-rise-eternal.json](./302920-songs-of-conquest-rise-eternal.json) |
@@ -5581,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
 | Squared: Adjacent Stones | 241996 | [241996-squared-adjacent-stones.json](./241996-squared-adjacent-stones.json) |
 | Squareface | 31585 | [31585-squareface.json](./31585-squareface.json) |
+| Squarely | 364574 | [364574-squarely.json](./364574-squarely.json) |
 | Squarena | 191829 | [191829-squarena.json](./191829-squarena.json) |
 | Squarepinski | 372994 | [372994-squarepinski.json](./372994-squarepinski.json) |
 | Squares | 101610 | [101610-squares.json](./101610-squares.json) |
@@ -7748,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Legend | 323751 | [323751-super-mario-legend.json](./323751-super-mario-legend.json) |
 | Super Mario Maker for Nintendo 3DS | 26157 | [26157-super-mario-maker-for-nintendo-3ds.json](./26157-super-mario-maker-for-nintendo-3ds.json) |
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
+| Super Mario Maker: Key Update! | 364580 | [364580-super-mario-maker-key-update.json](./364580-super-mario-maker-key-update.json) |
 | Super Mario Nation | 381728 | [381728-super-mario-nation.json](./381728-super-mario-nation.json) |
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
 | Super Mario Odyssey: 2D Mario in 3D! | 247533 | [247533-super-mario-odyssey-2d-mario-in-3d.json](./247533-super-mario-odyssey-2d-mario-in-3d.json) |
@@ -8686,6 +8693,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Balduin, Wolfgang Lohr - "Magic Man" | 288233 | [288233-synth-riders-balduin-wolfgang-lohr-magic-man.json](./288233-synth-riders-balduin-wolfgang-lohr-magic-man.json) |
 | Synth Riders: Bruno Mars - "Runaway Baby" | 356079 | [356079-synth-riders-bruno-mars-runaway-baby.json](./356079-synth-riders-bruno-mars-runaway-baby.json) |
 | Synth Riders: Cut Capers - "Let's Start Again (Odd Chap Remix)" | 288234 | [288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json](./288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json) |
+| Synth Riders: Infected Mushroom - "Black Velvet" (feat. Ninet Tayeb) | 364550 | [364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json](./364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json) |
+| Synth Riders: Infected Mushroom Music Pack | 364551 | [364551-synth-riders-infected-mushroom-music-pack.json](./364551-synth-riders-infected-mushroom-music-pack.json) |
 | Synth Riders: Jamie Berry - "Guilty Pleasure" | 288238 | [288238-synth-riders-jamie-berry-guilty-pleasure.json](./288238-synth-riders-jamie-berry-guilty-pleasure.json) |
 | Synth Riders: Lindsey Stirling - "Mirage" | 356082 | [356082-synth-riders-lindsey-stirling-mirage.json](./356082-synth-riders-lindsey-stirling-mirage.json) |
 | Synth Riders: Monstercat Music Pack | 382180 | [382180-synth-riders-monstercat-music-pack.json](./382180-synth-riders-monstercat-music-pack.json) |
@@ -8697,6 +8706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Synthwave Essentials 3 Music Pack | 382181 | [382181-synth-riders-synthwave-essentials-3-music-pack.json](./382181-synth-riders-synthwave-essentials-3-music-pack.json) |
 | Synth Riders: Tamela D'Amico, Wolfgang Lohr - "Boring 20s" | 288237 | [288237-synth-riders-tamela-damico-wolfgang-lohr-boring-20s.json](./288237-synth-riders-tamela-damico-wolfgang-lohr-boring-20s.json) |
 | Synth Riders: The Midnight - "Sunset" | 356081 | [356081-synth-riders-the-midnight-sunset.json](./356081-synth-riders-the-midnight-sunset.json) |
+| Synth Riders: The Smile - "Zero Sum" | 364552 | [364552-synth-riders-the-smile-zero-sum.json](./364552-synth-riders-the-smile-zero-sum.json) |
 | Synth War Tactics | 151188 | [151188-synth-war-tactics.json](./151188-synth-war-tactics.json) |
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
 | Synther | 99008 | [99008-synther.json](./99008-synther.json) |
