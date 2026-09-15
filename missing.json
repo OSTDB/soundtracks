@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T23:03:53.744Z",
-  "total_missing": 75766,
+  "generated_at": "2026-09-15T23:11:30.216Z",
+  "total_missing": 75765,
   "games": [
     {
       "igdb_id": 306086,
@@ -5576,11 +5576,6 @@
       "igdb_id": 399094,
       "game_name": "Age of Gods: Equinox Campaign",
       "file": "missing/A/399094-age-of-gods-equinox-campaign.json"
-    },
-    {
-      "igdb_id": 399095,
-      "game_name": "Age of Gods: Necros Faction",
-      "file": "missing/A/399095-age-of-gods-necros-faction.json"
     },
     {
       "igdb_id": 188228,
