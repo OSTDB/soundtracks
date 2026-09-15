@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elliot and the Musical Journey | 133415 | [133415-elliot-and-the-musical-journey.json](./133415-elliot-and-the-musical-journey.json) |
 | Ellipsis | 19862 | [19862-ellipsis.json](./19862-ellipsis.json) |
 | Ells Tales: Chairbound | 358388 | [358388-ells-tales-chairbound.json](./358388-ells-tales-chairbound.json) |
+| Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
 | Elminage Original | 21033 | [21033-elminage-original.json](./21033-elminage-original.json) |
 | Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
