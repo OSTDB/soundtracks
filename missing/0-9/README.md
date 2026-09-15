@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Los Angeles Cats | 334125 | [334125-100-los-angeles-cats.json](./334125-100-los-angeles-cats.json) |
 | 100 Men vs 1 Gorilla | 349879 | [349879-100-men-vs-1-gorilla.json](./349879-100-men-vs-1-gorilla.json) |
 | 100 Pics Quiz | 70890 | [70890-100-pics-quiz.json](./70890-100-pics-quiz.json) |
+| 100 Radioactive Cats | 379455 | [379455-100-radioactive-cats.json](./379455-100-radioactive-cats.json) |
 | 100 Rogues | 22347 | [22347-100-rogues.json](./22347-100-rogues.json) |
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
 | 100 Vacas | 138729 | [138729-100-vacas.json](./138729-100-vacas.json) |
@@ -169,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10KoyaNI | 382189 | [382189-10koyani.json](./382189-10koyani.json) |
 | 10mg Collection | 141158 | [141158-10mg-collection.json](./141158-10mg-collection.json) |
 | 10Minutes | 258997 | [258997-10minutes.json](./258997-10minutes.json) |
+| 11 Trials of Raz | 379454 | [379454-11-trials-of-raz.json](./379454-11-trials-of-raz.json) |
 | 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
 | 1193 Anno Domini: Merchants and Crusaders | 71494 | [71494-1193-anno-domini-merchants-and-crusaders.json](./71494-1193-anno-domini-merchants-and-crusaders.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
@@ -417,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
 | 40 Days | 76539 | [76539-40-days.json](./76539-40-days.json) |
 | 4004Ripper | 342062 | [342062-4004ripper.json](./342062-4004ripper.json) |
+| 404: Game Not Found | 379456 | [379456-404-game-not-found.json](./379456-404-game-not-found.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
 | 46 Okunen Monogatari: The Shinka Ron | 26675 | [26675-46-okunen-monogatari-the-shinka-ron.json](./26675-46-okunen-monogatari-the-shinka-ron.json) |
