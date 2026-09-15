@@ -2665,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rougelight | 86094 | [86094-rougelight.json](./86094-rougelight.json) |
 | Rough Justice: '84 | 133154 | [133154-rough-justice-84.json](./133154-rough-justice-84.json) |
 | Roulette | 147900 | [147900-roulette.json](./147900-roulette.json) |
+| Roulette | 366926 | [366926-roulette.json](./366926-roulette.json) |
 | Roulette Club | 368547 | [368547-roulette-club.json](./368547-roulette-club.json) |
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
 | Roulette Simulator 2024 | 266804 | [266804-roulette-simulator-2024.json](./266804-roulette-simulator-2024.json) |
@@ -2756,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Workshop Max | 232708 | [232708-rpg-workshop-max.json](./232708-rpg-workshop-max.json) |
 | RPG World Online | 93526 | [93526-rpg-world-online.json](./93526-rpg-world-online.json) |
 | RPGirl | 297210 | [297210-rpgirl.json](./297210-rpgirl.json) |
+| RPS Duel | 366932 | [366932-rps-duel.json](./366932-rps-duel.json) |
 | RPS Saga | 38994 | [38994-rps-saga.json](./38994-rps-saga.json) |
 | Rrggbb | 178004 | [178004-rrggbb.json](./178004-rrggbb.json) |
 | RRRR 2 | 117081 | [117081-rrrr-2.json](./117081-rrrr-2.json) |
