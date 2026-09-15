@@ -3310,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
 | Molly and the Gunmids | 185687 | [185687-molly-and-the-gunmids.json](./185687-molly-and-the-gunmids.json) |
+| Molly n' D.O.G.'s Records | 376609 | [376609-molly-n-d-o-g-s-records.json](./376609-molly-n-d-o-g-s-records.json) |
 | Molly: fear of clowns | 126613 | [126613-molly-fear-of-clowns.json](./126613-molly-fear-of-clowns.json) |
 | Moloch Kombinat | 410886 | [410886-moloch-kombinat.json](./410886-moloch-kombinat.json) |
 | Moloch's Priest | 144244 | [144244-molochs-priest.json](./144244-molochs-priest.json) |
@@ -3443,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
 | Monotose | 202316 | [202316-monotose.json](./202316-monotose.json) |
 | Monria | 22385 | [22385-monria.json](./22385-monria.json) |
+| Monroe Park | 376564 | [376564-monroe-park.json](./376564-monroe-park.json) |
 | Mons | 178008 | [178008-mons.json](./178008-mons.json) |
 | Monstabox | 334134 | [334134-monstabox.json](./334134-monstabox.json) |
 | MonStar | 193971 | [193971-monstar.json](./193971-monstar.json) |
@@ -4039,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorstorm: 3D Rift | 74322 | [74322-motorstorm-3d-rift.json](./74322-motorstorm-3d-rift.json) |
 | MotorStorm: Pacific Rift | 2554 | [2554-motorstorm-pacific-rift.json](./2554-motorstorm-pacific-rift.json) |
 | MotoRun | 166739 | [166739-motorun.json](./166739-motorun.json) |
+| Motoscafo | 376546 | [376546-motoscafo.json](./376546-motoscafo.json) |
 | Mots Croisés | 93557 | [93557-mots-croises.json](./93557-mots-croises.json) |
 | Motteke Tamago | 42015 | [42015-motteke-tamago.json](./42015-motteke-tamago.json) |
 | Motteke Tamago Ganbare Kamonohashi | 62206 | [62206-motteke-tamago-ganbare-kamonohashi.json](./62206-motteke-tamago-ganbare-kamonohashi.json) |
