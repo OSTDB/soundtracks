@@ -2388,6 +2388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climbing Simplified | 392812 | [392812-climbing-simplified.json](./392812-climbing-simplified.json) |
 | Climbing The Eidolon | 383513 | [383513-climbing-the-eidolon.json](./383513-climbing-the-eidolon.json) |
 | Clinch Legends | 369101 | [369101-clinch-legends.json](./369101-clinch-legends.json) |
+| CLINK | 345549 | [345549-clink.json](./345549-clink.json) |
 | Clinton vs. Trump: Head Soccer Challenge | 261526 | [261526-clinton-vs-trump-head-soccer-challenge.json](./261526-clinton-vs-trump-head-soccer-challenge.json) |
 | Clione's Bomb-Bomb Sweeper | 369050 | [369050-cliones-bomb-bomb-sweeper.json](./369050-cliones-bomb-bomb-sweeper.json) |
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
@@ -2618,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee/Break: Ocean Grey | 141796 | [141796-coffee-break-ocean-grey.json](./141796-coffee-break-ocean-grey.json) |
 | CoffeeBiz Tycoon | 111027 | [111027-coffeebiz-tycoon.json](./111027-coffeebiz-tycoon.json) |
 | Coffeetime Crosswords | 74409 | [74409-coffeetime-crosswords.json](./74409-coffeetime-crosswords.json) |
+| Coffie Simulator | 345613 | [345613-coffie-simulator.json](./345613-coffie-simulator.json) |
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
 | Cog Fire | 291483 | [291483-cog-fire.json](./291483-cog-fire.json) |
@@ -2728,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoLoBot | 80574 | [80574-colobot.json](./80574-colobot.json) |
 | Coloco | 388960 | [388960-coloco.json](./388960-coloco.json) |
 | ColocoDX | 388962 | [388962-colocodx.json](./388962-colocodx.json) |
+| Colonel Wasabi | 345577 | [345577-colonel-wasabi.json](./345577-colonel-wasabi.json) |
 | Colonia | 207511 | [207511-colonia.json](./207511-colonia.json) |
 | Colonial Conquest | 97307 | [97307-colonial-conquest.json](./97307-colonial-conquest.json) |
 | Colonies | 118353 | [118353-colonies.json](./118353-colonies.json) |
@@ -4085,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Mass | 9810 | [9810-critical-mass.json](./9810-critical-mass.json) |
 | Critical Ops: Reloaded | 233491 | [233491-critical-ops-reloaded.json](./233491-critical-ops-reloaded.json) |
 | Critical Point | 337490 | [337490-critical-point.json](./337490-critical-point.json) |
+| Critical Strike | 345571 | [345571-critical-strike.json](./345571-critical-strike.json) |
 | Criticality | 180788 | [180788-criticality.json](./180788-criticality.json) |
 | CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
