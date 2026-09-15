@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoms & Guns | 190201 | [190201-zoms-and-guns.json](./190201-zoms-and-guns.json) |
 | Zomzoms | 130381 | [130381-zomzoms.json](./130381-zomzoms.json) |
 | Zonbi Panic | 138734 | [138734-zonbi-panic.json](./138734-zonbi-panic.json) |
+| Zone | 358929 | [358929-zone.json](./358929-zone.json) |
 | Zone 300 | 255337 | [255337-zone-300.json](./255337-zone-300.json) |
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
 | Zone 404 | 388763 | [388763-zone-404.json](./388763-zone-404.json) |
