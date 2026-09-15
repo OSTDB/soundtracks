@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perimeter | 397689 | [397689-perimeter.json](./397689-perimeter.json) |
 | Period. The Game | 140546 | [140546-period-the-game.json](./140546-period-the-game.json) |
 | Periodic Deliveries | 127266 | [127266-periodic-deliveries.json](./127266-periodic-deliveries.json) |
+| Periphery | 377180 | [377180-periphery.json](./377180-periphery.json) |
 | Periphery Synthetic | 215696 | [215696-periphery-synthetic.json](./215696-periphery-synthetic.json) |
 | Perish the Thoth | 271458 | [271458-perish-the-thoth.json](./271458-perish-the-thoth.json) |
 | Perk Up | 372990 | [372990-perk-up.json](./372990-perk-up.json) |
@@ -1213,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaonic: Deluxe Edition | 166187 | [166187-pharaonic-deluxe-edition.json](./166187-pharaonic-deluxe-edition.json) |
 | Pharmacy 24 | 390643 | [390643-pharmacy-24.json](./390643-pharmacy-24.json) |
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
+| Phase | 377172 | [377172-phase.json](./377172-phase.json) |
 | Phase | 72078 | [72078-phase.json](./72078-phase.json) |
 | Phase Line: Raider Assault | 239667 | [239667-phase-line-raider-assault.json](./239667-phase-line-raider-assault.json) |
 | Phase Runner | 92490 | [92490-phase-runner.json](./92490-phase-runner.json) |
@@ -2666,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Fiction | 302129 | [302129-poop-fiction.json](./302129-poop-fiction.json) |
 | Poop Killer | 222320 | [222320-poop-killer.json](./222320-poop-killer.json) |
 | Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
+| Poorer Art | 377160 | [377160-poorer-art.json](./377160-poorer-art.json) |
 | PooSky | 68615 | [68615-poosky.json](./68615-poosky.json) |
 | Pooyan | 297493 | [297493-pooyan.json](./297493-pooyan.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
