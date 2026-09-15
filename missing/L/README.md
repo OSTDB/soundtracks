@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let me go | 120336 | [120336-let-me-go.json](./120336-let-me-go.json) |
 | Let Me In | 379885 | [379885-let-me-in.json](./379885-let-me-in.json) |
 | Let Me Inside | 376486 | [376486-let-me-inside.json](./376486-let-me-inside.json) |
+| Let Sleeping Dogs Lie | 343920 | [343920-let-sleeping-dogs-lie.json](./343920-let-sleeping-dogs-lie.json) |
 | Let Them Come: Onslaught | 257928 | [257928-let-them-come-onslaught.json](./257928-let-them-come-onslaught.json) |
 | Let There Be Cat! | 183539 | [183539-let-there-be-cat.json](./183539-let-there-be-cat.json) |
 | Let There Be Life | 35984 | [35984-let-there-be-life.json](./35984-let-there-be-life.json) |
@@ -1121,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Gravity Cube | 37042 | [37042-light-gravity-cube.json](./37042-light-gravity-cube.json) |
 | Light House Puzzle | 110969 | [110969-light-house-puzzle.json](./110969-light-house-puzzle.json) |
 | Light In Blood | 277003 | [277003-light-in-blood.json](./277003-light-in-blood.json) |
+| Light in the Woods | 343849 | [343849-light-in-the-woods.json](./343849-light-in-the-woods.json) |
 | Light Instinct | 357818 | [357818-light-instinct.json](./357818-light-instinct.json) |
 | Light of Atlantis | 253915 | [253915-light-of-atlantis.json](./253915-light-of-atlantis.json) |
 | Light Of Chaos | 304361 | [304361-light-of-chaos.json](./304361-light-of-chaos.json) |
