@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Deathly Hallows: Part 2 - The Mobile Game | 266199 | [266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json](./266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json) |
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
 | Harry Potter and the Half-Blood Prince | 266197 | [266197-harry-potter-and-the-half-blood-prince.json](./266197-harry-potter-and-the-half-blood-prince.json) |
+| Harry Potter and the Order of the Phoenix | 366316 | [366316-harry-potter-and-the-order-of-the-phoenix.json](./366316-harry-potter-and-the-order-of-the-phoenix.json) |
 | Harry Potter and the Prisoner of Azkaban | 3943 | [3943-harry-potter-and-the-prisoner-of-azkaban.json](./3943-harry-potter-and-the-prisoner-of-azkaban.json) |
 | Harry Potter and the Prisoner of Azkaban | 96159 | [96159-harry-potter-and-the-prisoner-of-azkaban.json](./96159-harry-potter-and-the-prisoner-of-azkaban.json) |
 | Harry Potter and the Prisoner of Azkaban: The Quest of Sir Cadogan | 266500 | [266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json](./266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json) |
@@ -1319,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Rescue | 319947 | [319947-hero-rescue.json](./319947-hero-rescue.json) |
 | Hero Rescue 3 | 233511 | [233511-hero-rescue-3.json](./233511-hero-rescue-3.json) |
 | Hero Rescue Agency | 409661 | [409661-hero-rescue-agency.json](./409661-hero-rescue-agency.json) |
+| Hero Secret Realm Survivor Roguelike | 366293 | [366293-hero-secret-realm-survivor-roguelike.json](./366293-hero-secret-realm-survivor-roguelike.json) |
 | Hero Siege Complete | 53188 | [53188-hero-siege-complete.json](./53188-hero-siege-complete.json) |
 | Hero Siege: Companion Bundle | 224234 | [224234-hero-siege-companion-bundle.json](./224234-hero-siege-companion-bundle.json) |
 | Hero Staff | 113655 | [113655-hero-staff.json](./113655-hero-staff.json) |
