@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
 | San Francisco Rush: Extreme Racing | 3595 | [3595-san-francisco-rush-extreme-racing.json](./3595-san-francisco-rush-extreme-racing.json) |
 | Sanabi | 144569 | [144569-sanabi.json](./144569-sanabi.json) |
+| Sanabi: A Haunted Day | 377665 | [377665-sanabi-a-haunted-day.json](./377665-sanabi-a-haunted-day.json) |
 | Sanabi: A Haunted Day - Signal Redux Edition | 396192 | [396192-sanabi-a-haunted-day-signal-redux-edition.json](./396192-sanabi-a-haunted-day-signal-redux-edition.json) |
 | Sanabi: Collector's Edition | 272293 | [272293-sanabi-collectors-edition.json](./272293-sanabi-collectors-edition.json) |
 | Sanae no Chou Tokkyuu: TheExpressTrial | 206929 | [206929-sanae-no-chou-tokkyuu-theexpresstrial.json](./206929-sanae-no-chou-tokkyuu-theexpresstrial.json) |
@@ -877,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapped | 243402 | [243402-scrapped.json](./243402-scrapped.json) |
 | Scrappy Stinks! | 307954 | [307954-scrappy-stinks.json](./307954-scrappy-stinks.json) |
 | Scraps and Patches | 111726 | [111726-scraps-and-patches.json](./111726-scraps-and-patches.json) |
+| Scraps of the Machine | 377683 | [377683-scraps-of-the-machine.json](./377683-scraps-of-the-machine.json) |
 | Scraps: Hellmouth Creek | 391580 | [391580-scraps-hellmouth-creek.json](./391580-scraps-hellmouth-creek.json) |
 | Scrapvival | 190150 | [190150-scrapvival.json](./190150-scrapvival.json) |
 | Scrapyard Robot Rampage | 115010 | [115010-scrapyard-robot-rampage.json](./115010-scrapyard-robot-rampage.json) |
@@ -3331,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM74&EE | 378288 | [378288-sm74-and-ee.json](./378288-sm74-and-ee.json) |
 | Smack Monkey | 332989 | [332989-smack-monkey.json](./332989-smack-monkey.json) |
 | Smack Some Smackers | 77400 | [77400-smack-some-smackers.json](./77400-smack-some-smackers.json) |
+| Smack Talk | 377698 | [377698-smack-talk.json](./377698-smack-talk.json) |
 | Smack Wacker | 68668 | [68668-smack-wacker.json](./68668-smack-wacker.json) |
 | Smackitball | 33036 | [33036-smackitball.json](./33036-smackitball.json) |
 | Small Arms | 18039 | [18039-small-arms.json](./18039-small-arms.json) |
@@ -3845,6 +3848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Raiders | 188554 | [188554-sol-raiders.json](./188554-sol-raiders.json) |
 | Sol Source Online | 26718 | [26718-sol-source-online.json](./26718-sol-source-online.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
+| Sol: Enchant | 377703 | [377703-sol-enchant.json](./377703-sol-enchant.json) |
 | Sol: Shogunate | 380406 | [380406-sol-shogunate.json](./380406-sol-shogunate.json) |
 | Sol705 | 89939 | [89939-sol705.json](./89939-sol705.json) |
 | Sola | 173223 | [173223-sola.json](./173223-sola.json) |
@@ -7773,6 +7777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
 | Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
+| Super Ranger | 377710 | [377710-super-ranger.json](./377710-super-ranger.json) |
 | Super Rare Mixtape: Horror Edition | 272829 | [272829-super-rare-mixtape-horror-edition.json](./272829-super-rare-mixtape-horror-edition.json) |
 | Super Real Hanafuda: Koi Koi Shimasho | 130299 | [130299-super-real-hanafuda-koi-koi-shimasho.json](./130299-super-real-hanafuda-koi-koi-shimasho.json) |
 | Super Real Mahjong Love 2~7! Special Edition | 342064 | [342064-super-real-mahjong-love-2-7-special-edition.json](./342064-super-real-mahjong-love-2-7-special-edition.json) |
@@ -8031,6 +8036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernatural Visual Novel: The Fourteenth Guzai Vol. 1 & 2 | 373524 | [373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json](./373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json) |
 | Supernormal | 278716 | [278716-supernormal.json](./278716-supernormal.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
+| Superpanel | 377702 | [377702-superpanel.json](./377702-superpanel.json) |
 | Superpopular | 127308 | [127308-superpopular.json](./127308-superpopular.json) |
 | SuperPro Snowboarding | 233525 | [233525-superpro-snowboarding.json](./233525-superpro-snowboarding.json) |
 | SuperQuest | 342636 | [342636-superquest.json](./342636-superquest.json) |
