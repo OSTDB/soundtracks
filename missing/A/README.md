@@ -560,7 +560,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gods: Necros Faction | 399095 | [399095-age-of-gods-necros-faction.json](./399095-age-of-gods-necros-faction.json) |
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
-| Age of Ottoman | 200739 | [200739-age-of-ottoman.json](./200739-age-of-ottoman.json) |
 | Age of Respair | 350402 | [350402-age-of-respair.json](./350402-age-of-respair.json) |
 | Age of Sail | 14229 | [14229-age-of-sail.json](./14229-age-of-sail.json) |
 | Age of Sail | 9430 | [9430-age-of-sail.json](./9430-age-of-sail.json) |
