@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Beach 3 | 22422 | [22422-sexy-beach-3.json](./22422-sexy-beach-3.json) |
 | Sexy Beach 3 Plus | 22463 | [22463-sexy-beach-3-plus.json](./22463-sexy-beach-3-plus.json) |
 | Sexy Beach Zero | 22423 | [22423-sexy-beach-zero.json](./22423-sexy-beach-zero.json) |
+| Sexy Blonde | 370759 | [370759-sexy-blonde.json](./370759-sexy-blonde.json) |
 | Sexy Comedy: It Was a Mistake | 110529 | [110529-sexy-comedy-it-was-a-mistake.json](./110529-sexy-comedy-it-was-a-mistake.json) |
 | Sexy Elf | 226199 | [226199-sexy-elf.json](./226199-sexy-elf.json) |
 | Sexy Futa: Mecha Battles of Islands | 310424 | [310424-sexy-futa-mecha-battles-of-islands.json](./310424-sexy-futa-mecha-battles-of-islands.json) |
@@ -2346,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shut In | 139469 | [139469-shut-in.json](./139469-shut-in.json) |
 | Shut the Box Infinity | 175324 | [175324-shut-the-box-infinity.json](./175324-shut-the-box-infinity.json) |
 | Shut Up, Rabbit! | 263744 | [263744-shut-up-rabbit.json](./263744-shut-up-rabbit.json) |
+| Shutdown. | 370772 | [370772-shutdown.json](./370772-shutdown.json) |
 | Shuten | 330164 | [330164-shuten.json](./330164-shuten.json) |
 | Shutter Chance Love | 72699 | [72699-shutter-chance-love.json](./72699-shutter-chance-love.json) |
 | Shutter Stroll | 134671 | [134671-shutter-stroll.json](./134671-shutter-stroll.json) |
@@ -2968,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
 | Sky Kingdoms | 54366 | [54366-sky-kingdoms.json](./54366-sky-kingdoms.json) |
 | Sky Kingdoms - Castle Siege | 100747 | [100747-sky-kingdoms-castle-siege.json](./100747-sky-kingdoms-castle-siege.json) |
+| Sky Love Girls: Flight Attendant Crush | 370797 | [370797-sky-love-girls-flight-attendant-crush.json](./370797-sky-love-girls-flight-attendant-crush.json) |
 | Sky Mad | 310184 | [310184-sky-mad.json](./310184-sky-mad.json) |
 | Sky Madness | 54367 | [54367-sky-madness.json](./54367-sky-madness.json) |
 | Sky Mates | 386888 | [386888-sky-mates.json](./386888-sky-mates.json) |
@@ -3585,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapper | 312320 | [312320-snapper.json](./312320-snapper.json) |
 | SnappleNoid | 61601 | [61601-snapplenoid.json](./61601-snapplenoid.json) |
 | Snappy Elf | 261516 | [261516-snappy-elf.json](./261516-snappy-elf.json) |
+| Snapshot Girls 3 | 370798 | [370798-snapshot-girls-3.json](./370798-snapshot-girls-3.json) |
 | Snapshot Oddities! Find What's Wrong | 390505 | [390505-snapshot-oddities-find-whats-wrong.json](./390505-snapshot-oddities-find-whats-wrong.json) |
 | Snapshots | 384076 | [384076-snapshots.json](./384076-snapshots.json) |
 | Snares of Ruin Zero | 112352 | [112352-snares-of-ruin-zero.json](./112352-snares-of-ruin-zero.json) |
