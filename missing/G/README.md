@@ -1277,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Slayer Another Adventurer: Nightmare Feast | 230618 | [230618-goblin-slayer-another-adventurer-nightmare-feast.json](./230618-goblin-slayer-another-adventurer-nightmare-feast.json) |
 | Goblin Squad - Total Division | 116293 | [116293-goblin-squad-total-division.json](./116293-goblin-squad-total-division.json) |
 | Goblin Survivors | 261783 | [261783-goblin-survivors.json](./261783-goblin-survivors.json) |
+| Goblin Sushi | 361792 | [361792-goblin-sushi.json](./361792-goblin-sushi.json) |
 | Goblin Takes No Argument[s] | 172163 | [172163-goblin-takes-no-argument-s.json](./172163-goblin-takes-no-argument-s.json) |
 | Goblin Times | 127378 | [127378-goblin-times.json](./127378-goblin-times.json) |
 | Goblin treasure | 129716 | [129716-goblin-treasure.json](./129716-goblin-treasure.json) |
@@ -2452,7 +2453,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Breaker | 45290 | [45290-gundam-breaker.json](./45290-gundam-breaker.json) |
 | Gundam Breaker 2 | 44552 | [44552-gundam-breaker-2.json](./44552-gundam-breaker-2.json) |
 | Gundam Breaker 3 | 19858 | [19858-gundam-breaker-3.json](./19858-gundam-breaker-3.json) |
+| Gundam Breaker 4: Diorama Pack 4 - Beach Set & Effect | 361236 | [361236-gundam-breaker-4-diorama-pack-4-beach-set-and-effect.json](./361236-gundam-breaker-4-diorama-pack-4-beach-set-and-effect.json) |
 | Gundam Breaker 4: Diorama Pack Set | 328995 | [328995-gundam-breaker-4-diorama-pack-set.json](./328995-gundam-breaker-4-diorama-pack-set.json) |
+| Gundam Breaker 4: Story Mission DLC 4 - Battle Fiercely | 361234 | [361234-gundam-breaker-4-story-mission-dlc-4-battle-fiercely.json](./361234-gundam-breaker-4-story-mission-dlc-4-battle-fiercely.json) |
+| Gundam Breaker 4: Story Mission DLC 5 - Beyond Borders | 361235 | [361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json](./361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json) |
 | Gundam Fights for Human Rights | 183567 | [183567-gundam-fights-for-human-rights.json](./183567-gundam-fights-for-human-rights.json) |
 | Gundam Online Wars | 79279 | [79279-gundam-online-wars.json](./79279-gundam-online-wars.json) |
 | Gundam Spirits | 226760 | [226760-gundam-spirits.json](./226760-gundam-spirits.json) |
