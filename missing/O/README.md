@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origins of Merlin: Muscles and Magic | 166710 | [166710-origins-of-merlin-muscles-and-magic.json](./166710-origins-of-merlin-muscles-and-magic.json) |
 | Origins TCG | 412262 | [412262-origins-tcg.json](./412262-origins-tcg.json) |
 | Orin Gamble | 396901 | [396901-orin-gamble.json](./396901-orin-gamble.json) |
+| Orion Defense | 348356 | [348356-orion-defense.json](./348356-orion-defense.json) |
 | Orion Everton: Mysteries of Metrosomia | 291774 | [291774-orion-everton-mysteries-of-metrosomia.json](./291774-orion-everton-mysteries-of-metrosomia.json) |
 | Orion shadow of jerboa | 127339 | [127339-orion-shadow-of-jerboa.json](./127339-orion-shadow-of-jerboa.json) |
 | Orion: Dino Beatdown - Jurassic Edition | 93631 | [93631-orion-dino-beatdown-jurassic-edition.json](./93631-orion-dino-beatdown-jurassic-edition.json) |
