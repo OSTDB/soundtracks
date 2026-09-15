@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M25 Racer | 12896 | [12896-m25-racer.json](./12896-m25-racer.json) |
 | M3 - Molesting the Match-3 Market | 94232 | [94232-m3-molesting-the-match-3-market.json](./94232-m3-molesting-the-match-3-market.json) |
 | M3 Sono Kuroki Hagane: Mission Memento Mori | 61663 | [61663-m3-sono-kuroki-hagane-mission-memento-mori.json](./61663-m3-sono-kuroki-hagane-mission-memento-mori.json) |
+| Ma première visite à la tour du sens | 345578 | [345578-ma-premiere-visite-a-la-tour-du-sens.json](./345578-ma-premiere-visite-a-la-tour-du-sens.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
@@ -159,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madness of the Architect | 83549 | [83549-madness-of-the-architect.json](./83549-madness-of-the-architect.json) |
 | Madness of the Architect | 83550 | [83550-madness-of-the-architect.json](./83550-madness-of-the-architect.json) |
+| Madness of the Science | 346156 | [346156-madness-of-the-science.json](./346156-madness-of-the-science.json) |
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
 | MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
 | Madojeongi: Secret of Elysium | 252163 | [252163-madojeongi-secret-of-elysium.json](./252163-madojeongi-secret-of-elysium.json) |
@@ -1870,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megabat | 253913 | [253913-megabat.json](./253913-megabat.json) |
 | Megabonk | 327405 | [327405-megabonk.json](./327405-megabonk.json) |
 | Megabonk Smash | 376471 | [376471-megabonk-smash.json](./376471-megabonk-smash.json) |
+| Megachess | 345590 | [345590-megachess.json](./345590-megachess.json) |
 | Megachud | 349946 | [349946-megachud.json](./349946-megachud.json) |
 | Megacobra vs. Sharkbat | 368563 | [368563-megacobra-vs-sharkbat.json](./368563-megacobra-vs-sharkbat.json) |
 | Megacop | 117663 | [117663-megacop.json](./117663-megacop.json) |
@@ -4488,6 +4491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
+| MultiEnding Heroes | 345558 | [345558-multiending-heroes.json](./345558-multiending-heroes.json) |
 | Multilytheus | 186271 | [186271-multilytheus.json](./186271-multilytheus.json) |
 | Multimaker | 109748 | [109748-multimaker.json](./109748-multimaker.json) |
 | Multimedia Dinosaurs | 98941 | [98941-multimedia-dinosaurs.json](./98941-multimedia-dinosaurs.json) |
