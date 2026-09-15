@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Defenders Premium Defense | 200156 | [200156-neon-defenders-premium-defense.json](./200156-neon-defenders-premium-defense.json) |
 | Neon Depth | 168333 | [168333-neon-depth.json](./168333-neon-depth.json) |
 | Neon District | 124201 | [124201-neon-district.json](./124201-neon-district.json) |
+| Neon Divide | 359521 | [359521-neon-divide.json](./359521-neon-divide.json) |
 | Neon Dodge | 391749 | [391749-neon-dodge.json](./391749-neon-dodge.json) |
 | Neon Drift Ultra | 412997 | [412997-neon-drift-ultra.json](./412997-neon-drift-ultra.json) |
 | Neon Drive | 31180 | [31180-neon-drive.json](./31180-neon-drive.json) |
@@ -1248,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Bullets | 25755 | [25755-ninja-bullets.json](./25755-ninja-bullets.json) |
 | Ninja Cats vs Samurai Dogs | 16795 | [16795-ninja-cats-vs-samurai-dogs.json](./16795-ninja-cats-vs-samurai-dogs.json) |
+| Ninja Cats: Tactics | 361799 | [361799-ninja-cats-tactics.json](./361799-ninja-cats-tactics.json) |
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
 | Ninja Clan | 311498 | [311498-ninja-clan.json](./311498-ninja-clan.json) |
 | Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
