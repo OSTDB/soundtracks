@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T19:48:39.353Z",
-  "total_missing": 75169,
+  "generated_at": "2026-09-15T19:51:38.115Z",
+  "total_missing": 75168,
   "games": [
     {
       "igdb_id": 306086,
@@ -5476,11 +5476,6 @@
       "igdb_id": 9952,
       "game_name": "Age of Fear: The Undead King",
       "file": "missing/A/9952-age-of-fear-the-undead-king.json"
-    },
-    {
-      "igdb_id": 33545,
-      "game_name": "Age of Gladiators",
-      "file": "missing/A/33545-age-of-gladiators.json"
     },
     {
       "igdb_id": 41959,
