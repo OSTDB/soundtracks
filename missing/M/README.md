@@ -2113,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Nights | 183540 | [183540-meow-nights.json](./183540-meow-nights.json) |
 | Meow Survivors | 389579 | [389579-meow-survivors.json](./389579-meow-survivors.json) |
 | Meow Time Machine: Munch | 335269 | [335269-meow-time-machine-munch.json](./335269-meow-time-machine-munch.json) |
+| Meow Time Machine: Newton | 339937 | [339937-meow-time-machine-newton.json](./339937-meow-time-machine-newton.json) |
 | Meow Tower: Nonogram | 221399 | [221399-meow-tower-nonogram.json](./221399-meow-tower-nonogram.json) |
 | Meow Weight Loss Diary | 352227 | [352227-meow-weight-loss-diary.json](./352227-meow-weight-loss-diary.json) |
 | Meower's Quest: Jasper's Tale | 104025 | [104025-meowers-quest-jaspers-tale.json](./104025-meowers-quest-jaspers-tale.json) |
@@ -3267,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MistWorld the after2 | 215367 | [215367-mistworld-the-after2.json](./215367-mistworld-the-after2.json) |
 | Misty Blue | 64387 | [64387-misty-blue.json](./64387-misty-blue.json) |
 | Misty's Idle Fishing | 372531 | [372531-mistys-idle-fishing.json](./372531-mistys-idle-fishing.json) |
+| Misty's Super Golf Solitaire | 339911 | [339911-mistys-super-golf-solitaire.json](./339911-mistys-super-golf-solitaire.json) |
 | Misuzu no Kuni | 341591 | [341591-misuzu-no-kuni.json](./341591-misuzu-no-kuni.json) |
 | Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
@@ -3947,6 +3949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Thirst | 310177 | [310177-moon-thirst.json](./310177-moon-thirst.json) |
 | Moon Waltz | 201291 | [201291-moon-waltz.json](./201291-moon-waltz.json) |
 | Moon Whistle | 166142 | [166142-moon-whistle.json](./166142-moon-whistle.json) |
+| Moon64 | 339946 | [339946-moon64.json](./339946-moon64.json) |
 | Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
 | Moonchrome. | 382931 | [382931-moonchrome.json](./382931-moonchrome.json) |
 | Moondusk Masquerade | 334499 | [334499-moondusk-masquerade.json](./334499-moondusk-masquerade.json) |
@@ -4123,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Apocalypse Pack | 302667 | [302667-mortal-kombat-x-apocalypse-pack.json](./302667-mortal-kombat-x-apocalypse-pack.json) |
 | Mortal Kombat X: Blue Steel Sub-Zero | 304364 | [304364-mortal-kombat-x-blue-steel-sub-zero.json](./304364-mortal-kombat-x-blue-steel-sub-zero.json) |
 | Mortal Kombat X: Brazil Pack | 304366 | [304366-mortal-kombat-x-brazil-pack.json](./304366-mortal-kombat-x-brazil-pack.json) |
+| Mortal Kombat X: Klassic Fatalities 1 | 339949 | [339949-mortal-kombat-x-klassic-fatalities-1.json](./339949-mortal-kombat-x-klassic-fatalities-1.json) |
 | Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
 | Mortal Kombat: Kollector's Edition | 44559 | [44559-mortal-kombat-kollectors-edition.json](./44559-mortal-kombat-kollectors-edition.json) |
 | Mortal Kombat: Komplete Edition | 2977 | [2977-mortal-kombat-komplete-edition.json](./2977-mortal-kombat-komplete-edition.json) |
@@ -4637,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museca | 57107 | [57107-museca.json](./57107-museca.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
+| Museums of History | 339921 | [339921-museums-of-history.json](./339921-museums-of-history.json) |
 | Mush Dash | 412392 | [412392-mush-dash.json](./412392-mush-dash.json) |
 | Mush Rush: Stock Market Tycoon | 250389 | [250389-mush-rush-stock-market-tycoon.json](./250389-mush-rush-stock-market-tycoon.json) |
 | Mushihimesama | 152398 | [152398-mushihimesama.json](./152398-mushihimesama.json) |
@@ -4844,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero and the King | 63265 | [63265-my-hero-and-the-king.json](./63265-my-hero-and-the-king.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
 | My Heroes: SEA | 142426 | [142426-my-heroes-sea.json](./142426-my-heroes-sea.json) |
+| My Hidden Dreams | 339928 | [339928-my-hidden-dreams.json](./339928-my-hidden-dreams.json) |
 | My High School Cat Girlfriend | 206155 | [206155-my-high-school-cat-girlfriend.json](./206155-my-high-school-cat-girlfriend.json) |
 | My Hole is a Mouth of Dirt | 131594 | [131594-my-hole-is-a-mouth-of-dirt.json](./131594-my-hole-is-a-mouth-of-dirt.json) |
 | My Home Design: Makeover Games | 239043 | [239043-my-home-design-makeover-games.json](./239043-my-home-design-makeover-games.json) |
@@ -5043,6 +5049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Virtual Friend | 330534 | [330534-my-virtual-friend.json](./330534-my-virtual-friend.json) |
 | My Virtual Pet Louie the Pug | 250019 | [250019-my-virtual-pet-louie-the-pug.json](./250019-my-virtual-pet-louie-the-pug.json) |
 | My Waifu Is A Tank Girl! | 391043 | [391043-my-waifu-is-a-tank-girl.json](./391043-my-waifu-is-a-tank-girl.json) |
+| My Wife | 339913 | [339913-my-wife.json](./339913-my-wife.json) |
 | My Wife is a Princess | 216992 | [216992-my-wife-is-a-princess.json](./216992-my-wife-is-a-princess.json) |
 | My Wife Sucked a Futanari's Toes | 341356 | [341356-my-wife-sucked-a-futanaris-toes.json](./341356-my-wife-sucked-a-futanaris-toes.json) |
 | My Witch Wants Elixirs! | 385715 | [385715-my-witch-wants-elixirs.json](./385715-my-witch-wants-elixirs.json) |
