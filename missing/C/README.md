@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CandyMouse | 241349 | [241349-candymouse.json](./241349-candymouse.json) |
 | Candypink | 176496 | [176496-candypink.json](./176496-candypink.json) |
 | CandyRain | 201307 | [201307-candyrain.json](./201307-candyrain.json) |
+| CandySnake | 334789 | [334789-candysnake.json](./334789-candysnake.json) |
 | CandyVenture | 113008 | [113008-candyventure.json](./113008-candyventure.json) |
 | Candyz | 206703 | [206703-candyz.json](./206703-candyz.json) |
 | CandyZoo 2 Electric Boogaloo | 133976 | [133976-candyzoo-2-electric-boogaloo.json](./133976-candyzoo-2-electric-boogaloo.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle Triangle Square | 257116 | [257116-circle-triangle-square.json](./257116-circle-triangle-square.json) |
 | Circle's End | 27670 | [27670-circles-end.json](./27670-circles-end.json) |
 | Circlebound | 384622 | [384622-circlebound.json](./384622-circlebound.json) |
+| Circlecers | 334790 | [334790-circlecers.json](./334790-circlecers.json) |
 | Circles | 33061 | [33061-circles.json](./33061-circles.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
 | Circoid | 296679 | [296679-circoid.json](./296679-circoid.json) |
@@ -2400,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
 | ClickeRogue | 242547 | [242547-clickerogue.json](./242547-clickerogue.json) |
 | Clickertale 2 | 343883 | [343883-clickertale-2.json](./343883-clickertale-2.json) |
+| Clickey | 334749 | [334749-clickey.json](./334749-clickey.json) |
 | ClickMonster | 158661 | [158661-clickmonster.json](./158661-clickmonster.json) |
 | Clicko | 351597 | [351597-clicko.json](./351597-clicko.json) |
 | Clickomania! | 64437 | [64437-clickomania.json](./64437-clickomania.json) |
@@ -2800,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Blind: The Game | 231397 | [231397-color-blind-the-game.json](./231397-color-blind-the-game.json) |
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
+| Color Cingdom | 334788 | [334788-color-cingdom.json](./334788-color-cingdom.json) |
 | Color Cube Spin | 28845 | [28845-color-cube-spin.json](./28845-color-cube-spin.json) |
 | Color Dark Castle | 334678 | [334678-color-dark-castle.json](./334678-color-dark-castle.json) |
 | Color DJ | 265418 | [265418-color-dj.json](./265418-color-dj.json) |
@@ -2919,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors! Platform | 199607 | [199607-colors-platform.json](./199607-colors-platform.json) |
 | Colors’ Heartbeat | 235480 | [235480-colors-heartbeat.json](./235480-colors-heartbeat.json) |
 | ColorSense | 182516 | [182516-colorsense.json](./182516-colorsense.json) |
+| ColorSpill Ball | 334751 | [334751-colorspill-ball.json](./334751-colorspill-ball.json) |
 | ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
 | ColorZ | 21043 | [21043-colorz.json](./21043-colorz.json) |
 | Colossal Cave VR | 253587 | [253587-colossal-cave-vr.json](./253587-colossal-cave-vr.json) |
