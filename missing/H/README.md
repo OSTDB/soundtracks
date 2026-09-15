@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heads-Up | 231634 | [231634-heads-up.json](./231634-heads-up.json) |
 | Heads-Up: Action Soccer | 208364 | [208364-heads-up-action-soccer.json](./208364-heads-up-action-soccer.json) |
 | Headshot | 91383 | [91383-headshot.json](./91383-headshot.json) |
+| Headshot Roulette | 356705 | [356705-headshot-roulette.json](./356705-headshot-roulette.json) |
 | Headspace | 385699 | [385699-headspace.json](./385699-headspace.json) |
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
 | Headwaters | 288768 | [288768-headwaters.json](./288768-headwaters.json) |
@@ -791,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeartFix Express | 391195 | [391195-heartfix-express.json](./391195-heartfix-express.json) |
 | Heartful Memories: Little Witch Parfait 2 | 332419 | [332419-heartful-memories-little-witch-parfait-2.json](./332419-heartful-memories-little-witch-parfait-2.json) |
 | Hearth's Light: Potion Shop | 239669 | [239669-hearths-light-potion-shop.json](./239669-hearths-light-potion-shop.json) |
+| Hearthguard | 356677 | [356677-hearthguard.json](./356677-hearthguard.json) |
 | Hearthstone: Forged in the Barrens | 143738 | [143738-hearthstone-forged-in-the-barrens.json](./143738-hearthstone-forged-in-the-barrens.json) |
 | Hearthstone: Fractured in Alterac Valley | 387383 | [387383-hearthstone-fractured-in-alterac-valley.json](./387383-hearthstone-fractured-in-alterac-valley.json) |
 | Hearthstone: Knights of the Frozen Throne | 52016 | [52016-hearthstone-knights-of-the-frozen-throne.json](./52016-hearthstone-knights-of-the-frozen-throne.json) |
