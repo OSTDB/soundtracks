@@ -483,7 +483,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner | 365100 | [365100-after-burner.json](./365100-after-burner.json) |
 | After Burner | 45347 | [45347-after-burner.json](./45347-after-burner.json) |
 | After Burner III | 5356 | [5356-after-burner-iii.json](./5356-after-burner-iii.json) |
-| After Burst | 7748 | [7748-after-burst.json](./7748-after-burst.json) |
 | After Crisis: Snowstorm | 158213 | [158213-after-crisis-snowstorm.json](./158213-after-crisis-snowstorm.json) |
 | After Dark | 224745 | [224745-after-dark.json](./224745-after-dark.json) |
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
