@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vektor 2089 | 134661 | [134661-vektor-2089.json](./134661-vektor-2089.json) |
 | Vektor Tank 3D+ | 85468 | [85468-vektor-tank-3d.json](./85468-vektor-tank-3d.json) |
 | Vektron Revenge | 33100 | [33100-vektron-revenge.json](./33100-vektron-revenge.json) |
+| Velana Adventures: Chapter I | 335348 | [335348-velana-adventures-chapter-i.json](./335348-velana-adventures-chapter-i.json) |
 | Velanit: The Forgotten Cottage | 403019 | [403019-velanit-the-forgotten-cottage.json](./403019-velanit-the-forgotten-cottage.json) |
 | Velato | 398989 | [398989-velato.json](./398989-velato.json) |
 | Velkyn | 282018 | [282018-velkyn.json](./282018-velkyn.json) |
@@ -486,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vicious, Fateful Memories | 108992 | [108992-vicious-fateful-memories.json](./108992-vicious-fateful-memories.json) |
 | Vicky | 138753 | [138753-vicky.json](./138753-vicky.json) |
 | Vicky Saves the Big Dumb World | 34415 | [34415-vicky-saves-the-big-dumb-world.json](./34415-vicky-saves-the-big-dumb-world.json) |
+| Victim.exe | 335344 | [335344-victim-exe.json](./335344-victim-exe.json) |
 | Victim's Tongue | 397765 | [397765-victims-tongue.json](./397765-victims-tongue.json) |
 | Victordle | 388749 | [388749-victordle.json](./388749-victordle.json) |
 | Victoria 3: Trains Bonus Pack | 289852 | [289852-victoria-3-trains-bonus-pack.json](./289852-victoria-3-trains-bonus-pack.json) |
