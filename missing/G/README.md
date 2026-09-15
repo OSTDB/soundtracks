@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goime 500 | 56535 | [56535-goime-500.json](./56535-goime-500.json) |
 | Goin Up | 245033 | [245033-goin-up.json](./245033-goin-up.json) |
 | Going Balls | 378161 | [378161-going-balls.json](./378161-going-balls.json) |
+| Going Dark | 338262 | [338262-going-dark.json](./338262-going-dark.json) |
 | Going Deeper! | 196301 | [196301-going-deeper.json](./196301-going-deeper.json) |
 | Going Down | 138786 | [138786-going-down.json](./138786-going-down.json) |
 | Going Down in Fishstory | 178012 | [178012-going-down-in-fishstory.json](./178012-going-down-in-fishstory.json) |
