@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fangs and Friends | 176436 | [176436-fangs-and-friends.json](./176436-fangs-and-friends.json) |
 | Fangs: The Saga of Wolf Blood | 221965 | [221965-fangs-the-saga-of-wolf-blood.json](./221965-fangs-the-saga-of-wolf-blood.json) |
+| Fangtopia | 349380 | [349380-fangtopia.json](./349380-fangtopia.json) |
 | Fania | 258471 | [258471-fania.json](./258471-fania.json) |
 | Fans Rush | 104700 | [104700-fans-rush.json](./104700-fans-rush.json) |
 | Fant Kids Animated Puzzle | 116982 | [116982-fant-kids-animated-puzzle.json](./116982-fant-kids-animated-puzzle.json) |
