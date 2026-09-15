@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art of GO | 14270 | [14270-the-art-of-go.json](./14270-the-art-of-go.json) |
 | The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
+| The Artifact Protocol | 365775 | [365775-the-artifact-protocol.json](./365775-the-artifact-protocol.json) |
 | The Asafo Journey | 220672 | [220672-the-asafo-journey.json](./220672-the-asafo-journey.json) |
 | The Ascot | 298061 | [298061-the-ascot.json](./298061-the-ascot.json) |
 | The Asmodian Princesses and the Witch in the Forest | 199088 | [199088-the-asmodian-princesses-and-the-witch-in-the-forest.json](./199088-the-asmodian-princesses-and-the-witch-in-the-forest.json) |
@@ -1514,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: Lost Tape | 197312 | [197312-the-backrooms-lost-tape.json](./197312-the-backrooms-lost-tape.json) |
 | The Backrooms: Lost to the Dark | 370141 | [370141-the-backrooms-lost-to-the-dark.json](./370141-the-backrooms-lost-to-the-dark.json) |
 | The Backrooms: Mass Extinction | 203558 | [203558-the-backrooms-mass-extinction.json](./203558-the-backrooms-mass-extinction.json) |
+| The Backrooms: Reset | 365740 | [365740-the-backrooms-reset.json](./365740-the-backrooms-reset.json) |
 | The Backrooms: Survival | 192975 | [192975-the-backrooms-survival.json](./192975-the-backrooms-survival.json) |
 | The Backrooms: You've Been Here Before | 276161 | [276161-the-backrooms-youve-been-here-before.json](./276161-the-backrooms-youve-been-here-before.json) |
 | The Backyardigans | 159264 | [159264-the-backyardigans.json](./159264-the-backyardigans.json) |
