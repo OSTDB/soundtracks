@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
 | Neo-Now! | 31986 | [31986-neo-now.json](./31986-neo-now.json) |
+| Neo: The Rainbow Sorcerer | 357308 | [357308-neo-the-rainbow-sorcerer.json](./357308-neo-the-rainbow-sorcerer.json) |
 | NEO: The World Ends with You | 141192 | [141192-neo-the-world-ends-with-you.json](./141192-neo-the-world-ends-with-you.json) |
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
