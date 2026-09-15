@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Kind To Yourself | 328241 | [328241-be-kind-to-yourself.json](./328241-be-kind-to-yourself.json) |
 | Be King | 254142 | [254142-be-king.json](./254142-be-king.json) |
 | Be Like Pac-Man and the Ghostly Adventures | 185672 | [185672-be-like-pac-man-and-the-ghostly-adventures.json](./185672-be-like-pac-man-and-the-ghostly-adventures.json) |
+| Be Lost | 369099 | [369099-be-lost.json](./369099-be-lost.json) |
 | Be Nunner | 391051 | [391051-be-nunner.json](./391051-be-nunner.json) |
 | Be the Ruler: Britannia | 112987 | [112987-be-the-ruler-britannia.json](./112987-be-the-ruler-britannia.json) |
 | BE Witches | 157163 | [157163-be-witches.json](./157163-be-witches.json) |
@@ -1625,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bewitched Hearts | 179703 | [179703-bewitched-hearts.json](./179703-bewitched-hearts.json) |
 | Bewitching Boba | 388701 | [388701-bewitching-boba.json](./388701-bewitching-boba.json) |
 | Bewitching Sinners Royal Blood | 375292 | [375292-bewitching-sinners-royal-blood.json](./375292-bewitching-sinners-royal-blood.json) |
+| Beyblade X Evobattle | 369115 | [369115-beyblade-x-evobattle.json](./369115-beyblade-x-evobattle.json) |
 | Beyblade x Evobattle: Digital Beybooster Metal Coat | 378877 | [378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json](./378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json) |
 | Beyblade x Evobattle: Digital Beybooster Vol. 2 | 378878 | [378878-beyblade-x-evobattle-digital-beybooster-vol-2.json](./378878-beyblade-x-evobattle-digital-beybooster-vol-2.json) |
 | Beyblade x Evobattle: Digital Beybooster Vol. 3 | 378879 | [378879-beyblade-x-evobattle-digital-beybooster-vol-3.json](./378879-beyblade-x-evobattle-digital-beybooster-vol-3.json) |
