@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T02:03:46.654Z",
-  "total_missing": 72046,
+  "generated_at": "2026-09-15T02:11:30.805Z",
+  "total_missing": 72045,
   "games": [
     {
       "igdb_id": 306086,
@@ -4906,11 +4906,6 @@
       "igdb_id": 124175,
       "game_name": "Aeronaut",
       "file": "missing/A/124175-aeronaut.json"
-    },
-    {
-      "igdb_id": 14227,
-      "game_name": "Aesop's Fables",
-      "file": "missing/A/14227-aesops-fables.json"
     },
     {
       "igdb_id": 218138,
