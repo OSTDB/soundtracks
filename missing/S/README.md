@@ -6236,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel | 329915 | [329915-steel.json](./329915-steel.json) |
 | Steel | 74310 | [74310-steel.json](./74310-steel.json) |
 | Steel and Flesh | 174850 | [174850-steel-and-flesh.json](./174850-steel-and-flesh.json) |
+| Steel Artery: Train City Builder | 371311 | [371311-steel-artery-train-city-builder.json](./371311-steel-artery-train-city-builder.json) |
 | Steel Battalion: Heavy Armor | 8547 | [8547-steel-battalion-heavy-armor.json](./8547-steel-battalion-heavy-armor.json) |
 | Steel Commanders | 323191 | [323191-steel-commanders.json](./323191-steel-commanders.json) |
 | Steel Covenant | 339665 | [339665-steel-covenant.json](./339665-steel-covenant.json) |
@@ -7555,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Luigi Bros. | 198471 | [198471-super-luigi-bros.json](./198471-super-luigi-bros.json) |
 | Super Luigi Trick or Treat | 314278 | [314278-super-luigi-trick-or-treat.json](./314278-super-luigi-trick-or-treat.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
+| Super Lumberjack | 371341 | [371341-super-lumberjack.json](./371341-super-lumberjack.json) |
 | Super Mabus Mania | 223160 | [223160-super-mabus-mania.json](./223160-super-mabus-mania.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
 | Super Magro World | 152315 | [152315-super-magro-world.json](./152315-super-magro-world.json) |
@@ -8370,6 +8372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Island | 392924 | [392924-sweet-island.json](./392924-sweet-island.json) |
 | Sweet Jewels | 359404 | [359404-sweet-jewels.json](./359404-sweet-jewels.json) |
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
+| Sweet Model | 371356 | [371356-sweet-model.json](./371356-sweet-model.json) |
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
 | Sweet Reversi | 208348 | [208348-sweet-reversi.json](./208348-sweet-reversi.json) |
 | Sweet Rock Paper Scissors | 392918 | [392918-sweet-rock-paper-scissors.json](./392918-sweet-rock-paper-scissors.json) |
