@@ -499,7 +499,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
 | After-H : Zombies | 141798 | [141798-after-h-zombies.json](./141798-after-h-zombies.json) |
 | After-H: Legend of Mars | 141799 | [141799-after-h-legend-of-mars.json](./141799-after-h-legend-of-mars.json) |
-| After-H: Moon of the Dead | 362257 | [362257-after-h-moon-of-the-dead.json](./362257-after-h-moon-of-the-dead.json) |
 | After-Image | 362285 | [362285-after-image.json](./362285-after-image.json) |
 | After-school Maihime Club: Girl's Holiday | 97940 | [97940-after-school-maihime-club-girls-holiday.json](./97940-after-school-maihime-club-girls-holiday.json) |
 | Afterblast | 164434 | [164434-afterblast.json](./164434-afterblast.json) |
