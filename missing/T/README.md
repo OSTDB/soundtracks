@@ -3027,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Mission | 55078 | [55078-the-last-mission.json](./55078-the-last-mission.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
+| The Last Oath | 339902 | [339902-the-last-oath.json](./339902-the-last-oath.json) |
 | The Last of the Summer Tank | 286014 | [286014-the-last-of-the-summer-tank.json](./286014-the-last-of-the-summer-tank.json) |
 | The Last of Them | 339800 | [339800-the-last-of-them.json](./339800-the-last-of-them.json) |
 | The Last of Us Complete | 340213 | [340213-the-last-of-us-complete.json](./340213-the-last-of-us-complete.json) |
@@ -3890,6 +3891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rollingball's Melody | 34308 | [34308-the-rollingballs-melody.json](./34308-the-rollingballs-melody.json) |
 | The Roof | 23418 | [23418-the-roof.json](./23418-the-roof.json) |
 | The Room | 11625 | [11625-the-room.json](./11625-the-room.json) |
+| The Room in a Glass Box | 339934 | [339934-the-room-in-a-glass-box.json](./339934-the-room-in-a-glass-box.json) |
 | The Room of Black & White | 34455 | [34455-the-room-of-black-and-white.json](./34455-the-room-of-black-and-white.json) |
 | The Room Syndrome | 124218 | [124218-the-room-syndrome.json](./124218-the-room-syndrome.json) |
 | The Room Tribute | 92463 | [92463-the-room-tribute.json](./92463-the-room-tribute.json) |
@@ -5045,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Football 2002 | 44626 | [44626-this-is-football-2002.json](./44626-this-is-football-2002.json) |
 | This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
 | This Is Love | 370673 | [370673-this-is-love.json](./370673-this-is-love.json) |
+| This Is Not A Love Letter | 339951 | [339951-this-is-not-a-love-letter.json](./339951-this-is-not-a-love-letter.json) |
 | This Is Not For You | 417522 | [417522-this-is-not-for-you.json](./417522-this-is-not-for-you.json) |
 | This is Pool | 109584 | [109584-this-is-pool.json](./109584-this-is-pool.json) |
 | This Is Snooker: Pool Deluxe Edition | 117022 | [117022-this-is-snooker-pool-deluxe-edition.json](./117022-this-is-snooker-pool-deluxe-edition.json) |
@@ -6029,6 +6032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the HeIghts of My Heart | 178044 | [178044-to-the-heights-of-my-heart.json](./178044-to-the-heights-of-my-heart.json) |
 | To the Home | 405478 | [405478-to-the-home.json](./405478-to-the-home.json) |
 | To the Kingdom | 352287 | [352287-to-the-kingdom.json](./352287-to-the-kingdom.json) |
+| To the Moon | 339932 | [339932-to-the-moon.json](./339932-to-the-moon.json) |
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
 | To the Rescue | 359443 | [359443-to-the-rescue.json](./359443-to-the-rescue.json) |
 | To the Rescue! 3 | 96038 | [96038-to-the-rescue-3.json](./96038-to-the-rescue-3.json) |
@@ -7407,6 +7411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traverse: Starlight & Prairie | 37782 | [37782-traverse-starlight-and-prairie.json](./37782-traverse-starlight-and-prairie.json) |
 | Travian: Kingdoms | 31910 | [31910-travian-kingdoms.json](./31910-travian-kingdoms.json) |
 | Travis Strikes Again: No More Heroes | 55195 | [55195-travis-strikes-again-no-more-heroes.json](./55195-travis-strikes-again-no-more-heroes.json) |
+| Trawler’s Empire | 339905 | [339905-trawler-s-empire.json](./339905-trawler-s-empire.json) |
 | Trax: Build it Race it | 105939 | [105939-trax-build-it-race-it.json](./105939-trax-build-it-race-it.json) |
 | Trax: The Robot Wars | 62160 | [62160-trax-the-robot-wars.json](./62160-trax-the-robot-wars.json) |
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
