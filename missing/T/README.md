@@ -499,7 +499,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangerine Panic | 280213 | [280213-tangerine-panic.json](./280213-tangerine-panic.json) |
 | Tangled | 230552 | [230552-tangled.json](./230552-tangled.json) |
 | Tangled | 62187 | [62187-tangled.json](./62187-tangled.json) |
+| Tangled Slug | 374152 | [374152-tangled-slug.json](./374152-tangled-slug.json) |
 | Tangled Tales | 74328 | [74328-tangled-tales.json](./74328-tangled-tales.json) |
+| Tangled Words | 374157 | [374157-tangled-words.json](./374157-tangled-words.json) |
 | Tangledeep | 38754 | [38754-tangledeep.json](./38754-tangledeep.json) |
 | Tangledeep: Dawn of Dragons | 154499 | [154499-tangledeep-dawn-of-dragons.json](./154499-tangledeep-dawn-of-dragons.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
@@ -832,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy Floppy Ear | 64894 | [64894-teddy-floppy-ear.json](./64894-teddy-floppy-ear.json) |
 | Teddy Floppy Ear: Kayaking | 36003 | [36003-teddy-floppy-ear-kayaking.json](./36003-teddy-floppy-ear-kayaking.json) |
 | Teddy Floppy Ear: Mountain Adventure | 36002 | [36002-teddy-floppy-ear-mountain-adventure.json](./36002-teddy-floppy-ear-mountain-adventure.json) |
+| Teddy Horses | 374149 | [374149-teddy-horses.json](./374149-teddy-horses.json) |
 | Teddy Roller 1 | 323534 | [323534-teddy-roller-1.json](./323534-teddy-roller-1.json) |
 | Teddy Terror | 25845 | [25845-teddy-terror.json](./25845-teddy-terror.json) |
 | Teddy Together | 85430 | [85430-teddy-together.json](./85430-teddy-together.json) |
@@ -885,9 +888,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 7: Originals Edition | 218481 | [218481-tekken-7-originals-edition.json](./218481-tekken-7-originals-edition.json) |
 | Tekken 7: Season Pass | 385588 | [385588-tekken-7-season-pass.json](./385588-tekken-7-season-pass.json) |
 | Tekken 7: Ultimate Tekken Bowl & Additional Costumes | 118958 | [118958-tekken-7-ultimate-tekken-bowl-and-additional-costumes.json](./118958-tekken-7-ultimate-tekken-bowl-and-additional-costumes.json) |
+| Tekken 8: Armor King | 374182 | [374182-tekken-8-armor-king.json](./374182-tekken-8-armor-king.json) |
 | Tekken 8: Character Costume - Aurora Outfit Pack | 414330 | [414330-tekken-8-character-costume-aurora-outfit-pack.json](./414330-tekken-8-character-costume-aurora-outfit-pack.json) |
 | Tekken 8: Eddy Gordo | 296675 | [296675-tekken-8-eddy-gordo.json](./296675-tekken-8-eddy-gordo.json) |
 | Tekken 8: Launch Edition | 283759 | [283759-tekken-8-launch-edition.json](./283759-tekken-8-launch-edition.json) |
+| Tekken 8: Miary Zo | 374185 | [374185-tekken-8-miary-zo.json](./374185-tekken-8-miary-zo.json) |
+| Tekken 8: Pac-Pixels | 374187 | [374187-tekken-8-pac-pixels.json](./374187-tekken-8-pac-pixels.json) |
 | Tekken 8: Phoenix Gate | 333580 | [333580-tekken-8-phoenix-gate.json](./333580-tekken-8-phoenix-gate.json) |
 | Tekken 8: Season 1 Character & Stage Pass | 347697 | [347697-tekken-8-season-1-character-and-stage-pass.json](./347697-tekken-8-season-1-character-and-stage-pass.json) |
 | Tekken 8: Season 2 - Deluxe Edition | 338222 | [338222-tekken-8-season-2-deluxe-edition.json](./338222-tekken-8-season-2-deluxe-edition.json) |
@@ -920,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telerotation | 397061 | [397061-telerotation.json](./397061-telerotation.json) |
 | Telescape | 267059 | [267059-telescape.json](./267059-telescape.json) |
 | Telethugs | 188079 | [188079-telethugs.json](./188079-telethugs.json) |
+| Teletubbies get Fucked | 374153 | [374153-teletubbies-get-fucked.json](./374153-teletubbies-get-fucked.json) |
 | Teletubbies: Jigsaw | 325257 | [325257-teletubbies-jigsaw.json](./325257-teletubbies-jigsaw.json) |
 | Teletubbies: Look! - Hide and Seek | 325259 | [325259-teletubbies-look-hide-and-seek.json](./325259-teletubbies-look-hide-and-seek.json) |
 | Teletubbies: My First App | 342650 | [342650-teletubbies-my-first-app.json](./342650-teletubbies-my-first-app.json) |
@@ -979,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Deadly Games | 378271 | [378271-ten-deadly-games.json](./378271-ten-deadly-games.json) |
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
+| Ten++ | 374132 | [374132-ten.json](./374132-ten.json) |
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
@@ -2950,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Weekend | 31890 | [31890-the-last-weekend.json](./31890-the-last-weekend.json) |
 | The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
 | The Last Wizard: A Goblin Detective Mystery | 389956 | [389956-the-last-wizard-a-goblin-detective-mystery.json](./389956-the-last-wizard-a-goblin-detective-mystery.json) |
+| The Last Worlds: Crossed Souls | 374130 | [374130-the-last-worlds-crossed-souls.json](./374130-the-last-worlds-crossed-souls.json) |
 | The Last Wulin | 156148 | [156148-the-last-wulin.json](./156148-the-last-wulin.json) |
 | The Late D. Flate's Great Estate | 188090 | [188090-the-late-d-flates-great-estate.json](./188090-the-late-d-flates-great-estate.json) |
 | The Lattice Grimoire | 120396 | [120396-the-lattice-grimoire.json](./120396-the-lattice-grimoire.json) |
@@ -4949,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Fragmentation | 147400 | [147400-through-the-fragmentation.json](./147400-through-the-fragmentation.json) |
 | Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
+| Through the Nest | 374131 | [374131-through-the-nest.json](./374131-through-the-nest.json) |
 | Through the Wall | 339294 | [339294-through-the-wall.json](./339294-through-the-wall.json) |
 | Through the Woods: Collector's Edition | 51920 | [51920-through-the-woods-collectors-edition.json](./51920-through-the-woods-collectors-edition.json) |
 | Through the Woods: Digital Collector's Edition | 53798 | [53798-through-the-woods-digital-collectors-edition.json](./53798-through-the-woods-digital-collectors-edition.json) |
@@ -5706,6 +5716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
 | Tinytopia | 131947 | [131947-tinytopia.json](./131947-tinytopia.json) |
 | Tinyverse | 181362 | [181362-tinyverse.json](./181362-tinyverse.json) |
+| Tip-Toeing Around an Empty House | 374173 | [374173-tip-toeing-around-an-empty-house.json](./374173-tip-toeing-around-an-empty-house.json) |
 | Tip-Up Ice Fishing | 178578 | [178578-tip-up-ice-fishing.json](./178578-tip-up-ice-fishing.json) |
 | Tippy Tree | 113041 | [113041-tippy-tree.json](./113041-tippy-tree.json) |
 | TipTop | 136413 | [136413-tiptop.json](./136413-tiptop.json) |
@@ -6695,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
 | Trails of the Ancestors | 212828 | [212828-trails-of-the-ancestors.json](./212828-trails-of-the-ancestors.json) |
+| Train Cargo: Nightshift | 374159 | [374159-train-cargo-nightshift.json](./374159-train-cargo-nightshift.json) |
 | Train Conductor World | 109578 | [109578-train-conductor-world.json](./109578-train-conductor-world.json) |
 | Train Driver Journey 2 - Iberia Interior | 88222 | [88222-train-driver-journey-2-iberia-interior.json](./88222-train-driver-journey-2-iberia-interior.json) |
 | Train Driver Journey 4 - Introduction to Steam | 86881 | [86881-train-driver-journey-4-introduction-to-steam.json](./86881-train-driver-journey-4-introduction-to-steam.json) |
@@ -7738,6 +7750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
 | Twilight Wars | 211227 | [211227-twilight-wars.json](./211227-twilight-wars.json) |
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
+| Twilight's Folclore | 374180 | [374180-twilights-folclore.json](./374180-twilights-folclore.json) |
 | Twilight's Ransom | 12805 | [12805-twilights-ransom.json](./12805-twilights-ransom.json) |
 | Twin Bill | 130868 | [130868-twin-bill.json](./130868-twin-bill.json) |
 | Twin Breaker: A Sacred Symbols Adventure | 130613 | [130613-twin-breaker-a-sacred-symbols-adventure.json](./130613-twin-breaker-a-sacred-symbols-adventure.json) |
