@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M. Stain | 356108 | [356108-m-stain.json](./356108-m-stain.json) |
 | M.A.C.H | 44508 | [44508-m-a-c-h.json](./44508-m-a-c-h.json) |
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
+| M.A.L.M.O: Scorched Earth | 358346 | [358346-m-a-l-m-o-scorched-earth.json](./358346-m-a-l-m-o-scorched-earth.json) |
 | M.A.Y.A | 397827 | [397827-m-a-y-a.json](./397827-m-a-y-a.json) |
 | M.C Kids | 2718 | [2718-m-c-kids.json](./2718-m-c-kids.json) |
 | M.E.C.H.A.: Memory Erasure Control of Hover Attractor | 348770 | [348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json](./348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json) |
@@ -765,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MAR WAR: The Evil Awakens | 83519 | [83519-mar-war-the-evil-awakens.json](./83519-mar-war-the-evil-awakens.json) |
 | Maracaïbo | 69832 | [69832-maracaibo.json](./69832-maracaibo.json) |
 | Marapets | 58762 | [58762-marapets.json](./58762-marapets.json) |
+| Marathon Recompiled | 358340 | [358340-marathon-recompiled.json](./358340-marathon-recompiled.json) |
 | Marauder | 55054 | [55054-marauder.json](./55054-marauder.json) |
 | Marauders | 132995 | [132995-marauders.json](./132995-marauders.json) |
 | Marbellous | 311465 | [311465-marbellous.json](./311465-marbellous.json) |
@@ -1409,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maveldor: Saga of the Twin Mirrors | 250941 | [250941-maveldor-saga-of-the-twin-mirrors.json](./250941-maveldor-saga-of-the-twin-mirrors.json) |
 | Maverick Bird | 62172 | [62172-maverick-bird.json](./62172-maverick-bird.json) |
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
+| Mawaranu Hoshi no Stellarium | 358343 | [358343-mawaranu-hoshi-no-stellarium.json](./358343-mawaranu-hoshi-no-stellarium.json) |
 | Mawaskes | 45999 | [45999-mawaskes.json](./45999-mawaskes.json) |
 | Mawkey The Last Macaw | 358950 | [358950-mawkey-the-last-macaw.json](./358950-mawkey-the-last-macaw.json) |
 | Mawthorne 2 | 382210 | [382210-mawthorne-2.json](./382210-mawthorne-2.json) |
@@ -2114,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Rainbow Friend | 224002 | [224002-merge-rainbow-friend.json](./224002-merge-rainbow-friend.json) |
 | Merge Town! | 87347 | [87347-merge-town.json](./87347-merge-town.json) |
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
+| Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
 | Merica Tale | 367500 | [367500-merica-tale.json](./367500-merica-tale.json) |
 | Meridian: Age of Invention | 34578 | [34578-meridian-age-of-invention.json](./34578-meridian-age-of-invention.json) |
 | Meridian: Squad 22 | 20453 | [20453-meridian-squad-22.json](./20453-meridian-squad-22.json) |
@@ -3504,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondo Pong | 40759 | [40759-mondo-pong.json](./40759-mondo-pong.json) |
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
 | Money Garden | 186269 | [186269-money-garden.json](./186269-money-garden.json) |
+| Money Laundering Simulator | 358344 | [358344-money-laundering-simulator.json](./358344-money-laundering-simulator.json) |
 | Money Loves Silence | 126608 | [126608-money-loves-silence.json](./126608-money-loves-silence.json) |
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
