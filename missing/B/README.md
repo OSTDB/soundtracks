@@ -2212,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackwater | 6917 | [6917-blackwater.json](./6917-blackwater.json) |
 | Blackwater 100 | 92540 | [92540-blackwater-100.json](./92540-blackwater-100.json) |
 | Blackwater Exchange | 407396 | [407396-blackwater-exchange.json](./407396-blackwater-exchange.json) |
+| Blackwood Division | 373110 | [373110-blackwood-division.json](./373110-blackwood-division.json) |
 | Blackwoods | 312577 | [312577-blackwoods.json](./312577-blackwoods.json) |
 | Blade | 14312 | [14312-blade.json](./14312-blade.json) |
 | Blade & Sorcery | 111474 | [111474-blade-and-sorcery.json](./111474-blade-and-sorcery.json) |
@@ -4011,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bump Jump | 210670 | [210670-bump-jump.json](./210670-bump-jump.json) |
 | Bumper | 31845 | [31845-bumper.json](./31845-bumper.json) |
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
+| Bumper Brawlers | 373078 | [373078-bumper-brawlers.json](./373078-bumper-brawlers.json) |
 | Bumper Wars | 71534 | [71534-bumper-wars.json](./71534-bumper-wars.json) |
 | Bumps | 21265 | [21265-bumps.json](./21265-bumps.json) |
 | Bumpy's Arcade Fantasy | 11724 | [11724-bumpys-arcade-fantasy.json](./11724-bumpys-arcade-fantasy.json) |
