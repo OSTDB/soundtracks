@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayala: The Game | 124134 | [124134-bayala-the-game.json](./124134-bayala-the-game.json) |
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
 | Bayonetta 2: First Print Edition | 51187 | [51187-bayonetta-2-first-print-edition.json](./51187-bayonetta-2-first-print-edition.json) |
+| Bazar Simulator Online | 377169 | [377169-bazar-simulator-online.json](./377169-bazar-simulator-online.json) |
 | Bazar Simulator: The Wan Story | 331338 | [331338-bazar-simulator-the-wan-story.json](./331338-bazar-simulator-the-wan-story.json) |
 | Bazooka Blitzkrieg | 42627 | [42627-bazooka-blitzkrieg.json](./42627-bazooka-blitzkrieg.json) |
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
@@ -2133,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Rose | 33253 | [33253-black-rose.json](./33253-black-rose.json) |
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
 | Black Sand Drift: Collector's Edition | 52627 | [52627-black-sand-drift-collectors-edition.json](./52627-black-sand-drift-collectors-edition.json) |
+| Black Screen | 377179 | [377179-black-screen.json](./377179-black-screen.json) |
 | Black Shadow | 14310 | [14310-black-shadow.json](./14310-black-shadow.json) |
 | Black Sheep | 172703 | [172703-black-sheep.json](./172703-black-sheep.json) |
 | Black Sign | 145592 | [145592-black-sign.json](./145592-black-sign.json) |
