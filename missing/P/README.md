@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perimeter | 397689 | [397689-perimeter.json](./397689-perimeter.json) |
 | Period. The Game | 140546 | [140546-period-the-game.json](./140546-period-the-game.json) |
 | Periodic Deliveries | 127266 | [127266-periodic-deliveries.json](./127266-periodic-deliveries.json) |
+| Periodic Table: Game | 356690 | [356690-periodic-table-game.json](./356690-periodic-table-game.json) |
 | Periphery | 377180 | [377180-periphery.json](./377180-periphery.json) |
 | Periphery Synthetic | 215696 | [215696-periphery-synthetic.json](./215696-periphery-synthetic.json) |
 | Perish the Thoth | 271458 | [271458-perish-the-thoth.json](./271458-perish-the-thoth.json) |
@@ -1110,9 +1111,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pestilence | 272272 | [272272-pestilence.json](./272272-pestilence.json) |
 | Pestis | 97921 | [97921-pestis.json](./97921-pestis.json) |
 | Pet Alien: An Intergalactic Puzzlepalooza | 8120 | [8120-pet-alien-an-intergalactic-puzzlepalooza.json](./8120-pet-alien-an-intergalactic-puzzlepalooza.json) |
+| Pet Buddies | 356732 | [356732-pet-buddies.json](./356732-pet-buddies.json) |
 | Pet Cats, Save the World | 144236 | [144236-pet-cats-save-the-world.json](./144236-pet-cats-save-the-world.json) |
 | Pet Cemetery | 302710 | [302710-pet-cemetery.json](./302710-pet-cemetery.json) |
 | Pet City | 279638 | [279638-pet-city.json](./279638-pet-city.json) |
+| Pet City | 356729 | [356729-pet-city.json](./356729-pet-city.json) |
+| Pet City 2 | 356731 | [356731-pet-city-2.json](./356731-pet-city-2.json) |
 | Pet Cube: Tower Stack | 242211 | [242211-pet-cube-tower-stack.json](./242211-pet-cube-tower-stack.json) |
 | Pet Dog | 178682 | [178682-pet-dog.json](./178682-pet-dog.json) |
 | Pet Kawaii Shop | 317211 | [317211-pet-kawaii-shop.json](./317211-pet-kawaii-shop.json) |
