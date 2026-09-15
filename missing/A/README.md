@@ -533,7 +533,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
 | Age of Conan: Secrets of Dragon's Spine | 27653 | [27653-age-of-conan-secrets-of-dragons-spine.json](./27653-age-of-conan-secrets-of-dragons-spine.json) |
 | Age of Conan: Unchained | 16402 | [16402-age-of-conan-unchained.json](./16402-age-of-conan-unchained.json) |
-| Age of Conquest III | 9949 | [9949-age-of-conquest-iii.json](./9949-age-of-conquest-iii.json) |
 | Age of Conquest IV | 36268 | [36268-age-of-conquest-iv.json](./36268-age-of-conquest-iv.json) |
 | Age of Darkness: Final Stand | 159424 | [159424-age-of-darkness-final-stand.json](./159424-age-of-darkness-final-stand.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
