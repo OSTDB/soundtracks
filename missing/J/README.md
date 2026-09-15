@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaguar XJ220 | 5395 | [5395-jaguar-xj220.json](./5395-jaguar-xj220.json) |
 | Jagun: Clash of Kingdoms | 120350 | [120350-jagun-clash-of-kingdoms.json](./120350-jagun-clash-of-kingdoms.json) |
 | Jahto: Savior of the Sky | 214152 | [214152-jahto-savior-of-the-sky.json](./214152-jahto-savior-of-the-sky.json) |
+| Jai Kali | 368556 | [368556-jai-kali.json](./368556-jai-kali.json) |
 | Jail Break | 28826 | [28826-jail-break.json](./28826-jail-break.json) |
 | Jailbird Nocturne | 364530 | [364530-jailbird-nocturne.json](./364530-jailbird-nocturne.json) |
 | Jailbreak Russia | 104023 | [104023-jailbreak-russia.json](./104023-jailbreak-russia.json) |
