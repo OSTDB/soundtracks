@@ -11,6 +11,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Dino's Jungle Adventure | 101630 | [101630-g-dinos-jungle-adventure.json](./101630-g-dinos-jungle-adventure.json) |
 | G-Force Fighters | 243938 | [243938-g-force-fighters.json](./243938-g-force-fighters.json) |
 | G-Hell | 415093 | [415093-g-hell.json](./415093-g-hell.json) |
+| G-LOC R360 | 363982 | [363982-g-loc-r360.json](./363982-g-loc-r360.json) |
+| G-LOC R360 | 363983 | [363983-g-loc-r360.json](./363983-g-loc-r360.json) |
+| G-LOC R360 | 363984 | [363984-g-loc-r360.json](./363984-g-loc-r360.json) |
 | G-man Invasion | 222304 | [222304-g-man-invasion.json](./222304-g-man-invasion.json) |
 | G-Mode Archives 06: Shijou Saikyou Miyamoto Julia | 137617 | [137617-g-mode-archives-06-shijou-saikyou-miyamoto-julia.json](./137617-g-mode-archives-06-shijou-saikyou-miyamoto-julia.json) |
 | G-Mode Archives 08: Pucchin Puzzle | 137678 | [137678-g-mode-archives-08-pucchin-puzzle.json](./137678-g-mode-archives-08-pucchin-puzzle.json) |
@@ -75,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakkoi 2: Unmei Ai ha Inochigake | 212262 | [212262-gakkoi-2-unmei-ai-ha-inochigake.json](./212262-gakkoi-2-unmei-ai-ha-inochigake.json) |
 | Gakkoi: Ai to Noroi to Valentine | 212263 | [212263-gakkoi-ai-to-noroi-to-valentine.json](./212263-gakkoi-ai-to-noroi-to-valentine.json) |
 | Gakkou de Atta Koii Hanashi | 212261 | [212261-gakkou-de-atta-koii-hanashi.json](./212261-gakkou-de-atta-koii-hanashi.json) |
+| Gakkou wo Tsukurou!! 2 | 363956 | [363956-gakkou-wo-tsukurou-2.json](./363956-gakkou-wo-tsukurou-2.json) |
 | Gakkyu Ou Yamazaki | 281423 | [281423-gakkyu-ou-yamazaki.json](./281423-gakkyu-ou-yamazaki.json) |
 | Gakkyuu-ou Yamazaki: Yamazaki Oukoku Daifunsou! | 130351 | [130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json](./130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json) |
 | Gakuen Battle Fishers: Yoky Shiimono wa Tsure | 281424 | [281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json](./281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json) |
@@ -441,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
 | Garten of Banban 0 | 320854 | [320854-garten-of-banban-0.json](./320854-garten-of-banban-0.json) |
 | Garten of Banban Bundle: 0 + 1 + 2 + 3 + 4 + 6 + 7 + 8 | 379359 | [379359-garten-of-banban-bundle-0-1-2-3-4-6-7-8.json](./379359-garten-of-banban-bundle-0-1-2-3-4-6-7-8.json) |
+| Garten of Banban: Last Ticket to the Abyss | 363986 | [363986-garten-of-banban-last-ticket-to-the-abyss.json](./363986-garten-of-banban-last-ticket-to-the-abyss.json) |
 | Gartic on Stream | 185152 | [185152-gartic-on-stream.json](./185152-gartic-on-stream.json) |
 | Garuda Emblem | 327176 | [327176-garuda-emblem.json](./327176-garuda-emblem.json) |
 | Garukilla | 92508 | [92508-garukilla.json](./92508-garukilla.json) |
@@ -1134,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory Hold | 151117 | [151117-glory-hold.json](./151117-glory-hold.json) |
 | Glory of the Survivor | 200134 | [200134-glory-of-the-survivor.json](./200134-glory-of-the-survivor.json) |
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
+| Glory to the Heroes | 363972 | [363972-glory-to-the-heroes.json](./363972-glory-to-the-heroes.json) |
 | Glory Warrior: Lord of Darkness | 32963 | [32963-glory-warrior-lord-of-darkness.json](./32963-glory-warrior-lord-of-darkness.json) |
 | Glory's Witness | 161407 | [161407-glorys-witness.json](./161407-glorys-witness.json) |
 | Glove Pilot | 380537 | [380537-glove-pilot.json](./380537-glove-pilot.json) |
@@ -1212,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go to Hell | 211432 | [211432-go-to-hell.json](./211432-go-to-hell.json) |
 | Go to It | 110944 | [110944-go-to-it.json](./110944-go-to-it.json) |
 | Go to Ten | 100940 | [100940-go-to-ten.json](./100940-go-to-ten.json) |
+| Go Up | 363958 | [363958-go-up.json](./363958-go-up.json) |
 | Go Up Frog | 401521 | [401521-go-up-frog.json](./401521-go-up-frog.json) |
 | Go West | 133998 | [133998-go-west.json](./133998-go-west.json) |
 | Go West! A Lucky Luke Adventure | 110321 | [110321-go-west-a-lucky-luke-adventure.json](./110321-go-west-a-lucky-luke-adventure.json) |
