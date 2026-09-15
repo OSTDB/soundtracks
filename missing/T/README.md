@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Borderless | 406117 | [406117-the-borderless.json](./406117-the-borderless.json) |
 | The Boss Baby: Get That Baby! | 256853 | [256853-the-boss-baby-get-that-baby.json](./256853-the-boss-baby-get-that-baby.json) |
 | The Boss Gangster: Criminal Empire - From the Streets | 400956 | [400956-the-boss-gangster-criminal-empire-from-the-streets.json](./400956-the-boss-gangster-criminal-empire-from-the-streets.json) |
+| The Bot Squad: Puzzle Battles | 344452 | [344452-the-bot-squad-puzzle-battles.json](./344452-the-bot-squad-puzzle-battles.json) |
 | The Botanist | 26425 | [26425-the-botanist.json](./26425-the-botanist.json) |
 | The Bou: Special Edition | 278745 | [278745-the-bou-special-edition.json](./278745-the-bou-special-edition.json) |
 | The Bouncing Ball | 195207 | [195207-the-bouncing-ball.json](./195207-the-bouncing-ball.json) |
@@ -2361,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall: Act I | 318971 | [318971-the-fall-act-i.json](./318971-the-fall-act-i.json) |
 | The Fallen Angels | 39581 | [39581-the-fallen-angels.json](./39581-the-fallen-angels.json) |
 | The Fallen Kingdom | 324298 | [324298-the-fallen-kingdom.json](./324298-the-fallen-kingdom.json) |
+| The Falling Star | 344441 | [344441-the-falling-star.json](./344441-the-falling-star.json) |
 | The Fame Game: Welcome to Hollywood | 362303 | [362303-the-fame-game-welcome-to-hollywood.json](./362303-the-fame-game-welcome-to-hollywood.json) |
 | The Fancy Pants Adventures: World 1 Remaster | 144384 | [144384-the-fancy-pants-adventures-world-1-remaster.json](./144384-the-fancy-pants-adventures-world-1-remaster.json) |
 | The Fancy Pants Adventures: World 2 | 66009 | [66009-the-fancy-pants-adventures-world-2.json](./66009-the-fancy-pants-adventures-world-2.json) |
@@ -3967,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
 | The Secrets of Hosea Freeman | 62691 | [62691-the-secrets-of-hosea-freeman.json](./62691-the-secrets-of-hosea-freeman.json) |
 | The Secrets of the Forest | 336562 | [336562-the-secrets-of-the-forest.json](./336562-the-secrets-of-the-forest.json) |
+| The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
@@ -4898,6 +4901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheoTown | 109152 | [109152-theotown.json](./109152-theotown.json) |
 | Therapist Simulator | 336378 | [336378-therapist-simulator.json](./336378-therapist-simulator.json) |
 | Therapist: Mind Manager | 246116 | [246116-therapist-mind-manager.json](./246116-therapist-mind-manager.json) |
+| Therapy Simulator | 344444 | [344444-therapy-simulator.json](./344444-therapy-simulator.json) |
 | Therapy Simulator 2023 | 248078 | [248078-therapy-simulator-2023.json](./248078-therapy-simulator-2023.json) |
 | There a no Armadillos in this game | 129212 | [129212-there-a-no-armadillos-in-this-game.json](./129212-there-a-no-armadillos-in-this-game.json) |
 | There Are People In Your Walls | 373644 | [373644-there-are-people-in-your-walls.json](./373644-there-are-people-in-your-walls.json) |
@@ -6936,6 +6940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Journey | 382209 | [382209-train-journey.json](./382209-train-journey.json) |
 | Train Mechanic Simulator 2017 | 27940 | [27940-train-mechanic-simulator-2017.json](./27940-train-mechanic-simulator-2017.json) |
 | Train Merger | 108472 | [108472-train-merger.json](./108472-train-merger.json) |
+| Train Miner | 344443 | [344443-train-miner.json](./344443-train-miner.json) |
 | Train No. 7 | 163960 | [163960-train-no-7.json](./163960-train-no-7.json) |
 | Train of Afterlife | 35939 | [35939-train-of-afterlife.json](./35939-train-of-afterlife.json) |
 | Train Sim World | 105877 | [105877-train-sim-world.json](./105877-train-sim-world.json) |
@@ -7284,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transport Fever 2 | 117820 | [117820-transport-fever-2.json](./117820-transport-fever-2.json) |
 | Transport Fever 2: Console Edition - Deluxe Edition | 241357 | [241357-transport-fever-2-console-edition-deluxe-edition.json](./241357-transport-fever-2-console-edition-deluxe-edition.json) |
 | Transport Fever 2: Deluxe Edition | 241359 | [241359-transport-fever-2-deluxe-edition.json](./241359-transport-fever-2-deluxe-edition.json) |
+| Transport Fever 3 | 344466 | [344466-transport-fever-3.json](./344466-transport-fever-3.json) |
 | Transport Giant: Down Under | 9445 | [9445-transport-giant-down-under.json](./9445-transport-giant-down-under.json) |
 | Transport Giant: Gold Edition 2012 | 53856 | [53856-transport-giant-gold-edition-2012.json](./53856-transport-giant-gold-edition-2012.json) |
 | Transport-inators of Doooom! | 230298 | [230298-transport-inators-of-doooom.json](./230298-transport-inators-of-doooom.json) |
@@ -7450,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trembling Dots | 128620 | [128620-trembling-dots.json](./128620-trembling-dots.json) |
 | Tremen | 166218 | [166218-tremen.json](./166218-tremen.json) |
 | Tremors: The Game | 127959 | [127959-tremors-the-game.json](./127959-tremors-the-game.json) |
+| Tren | 344455 | [344455-tren.json](./344455-tren.json) |
 | Trench Lord: Eastern Front | 369049 | [369049-trench-lord-eastern-front.json](./369049-trench-lord-eastern-front.json) |
 | Trench Runner! | 260984 | [260984-trench-runner.json](./260984-trench-runner.json) |
 | Trench Shooter: Warfare Tactics | 328468 | [328468-trench-shooter-warfare-tactics.json](./328468-trench-shooter-warfare-tactics.json) |
@@ -7844,6 +7851,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuri Tarou | 37779 | [37779-tsuri-tarou.json](./37779-tsuri-tarou.json) |
 | Tsuru Teruhito no Jissen Kabushiki Bi-Game | 59431 | [59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json](./59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json) |
 | Tsuukai Gyaguabanchuuru: Naruto Maki Hichou | 67264 | [67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json](./67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json) |
+| Tsuushin Taikyoku: Hayazashi Shogi Sandan | 344460 | [344460-tsuushin-taikyoku-hayazashi-shogi-sandan.json](./344460-tsuushin-taikyoku-hayazashi-shogi-sandan.json) |
+| Tsuushin Taikyoku: Igo Dojo 2700-mon | 344461 | [344461-tsuushin-taikyoku-igo-dojo-2700-mon.json](./344461-tsuushin-taikyoku-igo-dojo-2700-mon.json) |
 | Tsuushin Taisen Mahjong: Touryuumon | 67989 | [67989-tsuushin-taisen-mahjong-touryuumon.json](./67989-tsuushin-taisen-mahjong-touryuumon.json) |
 | Tsuyaga~ru | 163359 | [163359-tsuyaga-ru.json](./163359-tsuyaga-ru.json) |
 | Tsuyokiss Festival | 194587 | [194587-tsuyokiss-festival.json](./194587-tsuyokiss-festival.json) |
