@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Sagashi | 227270 | [227270-neko-sagashi.json](./227270-neko-sagashi.json) |
 | Neko Samurai | 212468 | [212468-neko-samurai.json](./212468-neko-samurai.json) |
 | Neko Secret: Homecoming | 200647 | [200647-neko-secret-homecoming.json](./200647-neko-secret-homecoming.json) |
+| Neko Times: Purrfect Shapes | 369629 | [369629-neko-times-purrfect-shapes.json](./369629-neko-times-purrfect-shapes.json) |
 | Neko Tissue | 370105 | [370105-neko-tissue.json](./370105-neko-tissue.json) |
 | Neko to Sakana | 188601 | [188601-neko-to-sakana.json](./188601-neko-to-sakana.json) |
 | Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
@@ -1463,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No toilet paper!! | 151682 | [151682-no-toilet-paper.json](./151682-no-toilet-paper.json) |
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
 | No Vacation for an Executioner | 305539 | [305539-no-vacation-for-an-executioner.json](./305539-no-vacation-for-an-executioner.json) |
+| No Walls in Heaven | 369657 | [369657-no-walls-in-heaven.json](./369657-no-walls-in-heaven.json) |
 | No Wave | 128583 | [128583-no-wave.json](./128583-no-wave.json) |
 | No Way Home | 117007 | [117007-no-way-home.json](./117007-no-way-home.json) |
 | No Way Out | 239677 | [239677-no-way-out.json](./239677-no-way-out.json) |
@@ -1608,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noonie | 99630 | [99630-noonie.json](./99630-noonie.json) |
 | Noor Quest | 91983 | [91983-noor-quest.json](./91983-noor-quest.json) |
 | Nope Nope Nurses | 215754 | [215754-nope-nope-nurses.json](./215754-nope-nope-nurses.json) |
+| Nophenia | 369651 | [369651-nophenia.json](./369651-nophenia.json) |
 | Nor'Easter | 119754 | [119754-noreaster.json](./119754-noreaster.json) |
 | Nora to Oujo to Noraneko Heart 2 | 205267 | [205267-nora-to-oujo-to-noraneko-heart-2.json](./205267-nora-to-oujo-to-noraneko-heart-2.json) |
 | Nora: In Search of Hidden Ingredients | 306334 | [306334-nora-in-search-of-hidden-ingredients.json](./306334-nora-in-search-of-hidden-ingredients.json) |
