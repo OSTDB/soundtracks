@@ -530,7 +530,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
 | Agatha Christie: Death on the Nile | 21134 | [21134-agatha-christie-death-on-the-nile.json](./21134-agatha-christie-death-on-the-nile.json) |
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
-| Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
 | Age of Clicks | 412397 | [412397-age-of-clicks.json](./412397-age-of-clicks.json) |
 | Age of Conan: Secrets of Dragon's Spine | 27653 | [27653-age-of-conan-secrets-of-dragons-spine.json](./27653-age-of-conan-secrets-of-dragons-spine.json) |
