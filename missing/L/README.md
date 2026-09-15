@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land Of Chasers | 278409 | [278409-land-of-chasers.json](./278409-land-of-chasers.json) |
 | Land of Futures | 294144 | [294144-land-of-futures.json](./294144-land-of-futures.json) |
 | Land of Glarefall | 352737 | [352737-land-of-glarefall.json](./352737-land-of-glarefall.json) |
+| Land of Idyllic Beauty | 348355 | [348355-land-of-idyllic-beauty.json](./348355-land-of-idyllic-beauty.json) |
 | Land of Illusion Starring Mickey Mouse | 8123 | [8123-land-of-illusion-starring-mickey-mouse.json](./8123-land-of-illusion-starring-mickey-mouse.json) |
 | Land of Puzzles: Elven Princess | 109767 | [109767-land-of-puzzles-elven-princess.json](./109767-land-of-puzzles-elven-princess.json) |
 | Land of the Dead: Road to Fiddler's Green | 5900 | [5900-land-of-the-dead-road-to-fiddlers-green.json](./5900-land-of-the-dead-road-to-fiddlers-green.json) |
@@ -403,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Photographer 6 | 228086 | [228086-late-photographer-6.json](./228086-late-photographer-6.json) |
 | Late Stage Capitalism | 355125 | [355125-late-stage-capitalism.json](./355125-late-stage-capitalism.json) |
 | Late Work | 177487 | [177487-late-work.json](./177487-late-work.json) |
+| Later | 348328 | [348328-later.json](./348328-later.json) |
 | Later Daters: Part One and Two | 238183 | [238183-later-daters-part-one-and-two.json](./238183-later-daters-part-one-and-two.json) |
 | Lateral Thinking Together | 372493 | [372493-lateral-thinking-together.json](./372493-lateral-thinking-together.json) |
 | Lattice 200EC7 | 143664 | [143664-lattice-200ec7.json](./143664-lattice-200ec7.json) |
