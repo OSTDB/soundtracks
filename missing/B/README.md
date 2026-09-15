@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barricade | 18116 | [18116-barricade.json](./18116-barricade.json) |
 | Barrier | 346049 | [346049-barrier.json](./346049-barrier.json) |
 | Barro 2020 | 123866 | [123866-barro-2020.json](./123866-barro-2020.json) |
+| Barro F25 | 339931 | [339931-barro-f25.json](./339931-barro-f25.json) |
 | Barro GT: Pack #1 | 298338 | [298338-barro-gt-pack-1.json](./298338-barro-gt-pack-1.json) |
 | Barro Racing | 156139 | [156139-barro-racing.json](./156139-barro-racing.json) |
 | Barro T23 | 246957 | [246957-barro-t23.json](./246957-barro-t23.json) |
@@ -1119,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battler | 290926 | [290926-battler.json](./290926-battler.json) |
 | Battlerite Royale | 107022 | [107022-battlerite-royale.json](./107022-battlerite-royale.json) |
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
+| Battlers of Ekrasys | 339948 | [339948-battlers-of-ekrasys.json](./339948-battlers-of-ekrasys.json) |
 | Battles Game | 370135 | [370135-battles-game.json](./370135-battles-game.json) |
 | Battles in Time | 69826 | [69826-battles-in-time.json](./69826-battles-in-time.json) |
 | Battles of Cardista | 356653 | [356653-battles-of-cardista.json](./356653-battles-of-cardista.json) |
@@ -2325,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Runner 2033: Labyrinth | 255093 | [255093-blade-runner-2033-labyrinth.json](./255093-blade-runner-2033-labyrinth.json) |
 | Blade Strangers | 37032 | [37032-blade-strangers.json](./37032-blade-strangers.json) |
 | Blade Tempest | 372454 | [372454-blade-tempest.json](./372454-blade-tempest.json) |
+| Blade vs. Undead | 339936 | [339936-blade-vs-undead.json](./339936-blade-vs-undead.json) |
 | Blade Warrior | 14313 | [14313-blade-warrior.json](./14313-blade-warrior.json) |
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
 | Blade's Legacy | 88081 | [88081-blades-legacy.json](./88081-blades-legacy.json) |
