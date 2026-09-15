@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptor Evolution: Complete Edition | 385207 | [385207-raptor-evolution-complete-edition.json](./385207-raptor-evolution-complete-edition.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapz | 264325 | [264325-rapz.json](./264325-rapz.json) |
+| Rare Collection 1 | 365170 | [365170-rare-collection-1.json](./365170-rare-collection-1.json) |
 | Rasant | 226455 | [226455-rasant.json](./226455-rasant.json) |
 | Rascal Revolt | 153444 | [153444-rascal-revolt.json](./153444-rascal-revolt.json) |
 | Rasen no Sora | 116337 | [116337-rasen-no-sora.json](./116337-rasen-no-sora.json) |
