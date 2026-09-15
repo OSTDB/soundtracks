@@ -1669,6 +1669,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IWL: Interstellar Wrestling League - 034: Mod - Roid Rager | 363408 | [363408-iwl-interstellar-wrestling-league-034-mod-roid-rager.json](./363408-iwl-interstellar-wrestling-league-034-mod-roid-rager.json) |
 | IWL: Interstellar Wrestling League - 035: Mod - Rain of Pain | 363410 | [363410-iwl-interstellar-wrestling-league-035-mod-rain-of-pain.json](./363410-iwl-interstellar-wrestling-league-035-mod-rain-of-pain.json) |
 | IWL: Interstellar Wrestling League - 036: Mod - Jacob's Ladder | 363412 | [363412-iwl-interstellar-wrestling-league-036-mod-jacobs-ladder.json](./363412-iwl-interstellar-wrestling-league-036-mod-jacobs-ladder.json) |
+| IWL: Interstellar Wrestling League - 045: Finishing - Davey Jones Locker | 363424 | [363424-iwl-interstellar-wrestling-league-045-finishing-davey-jones-locker.json](./363424-iwl-interstellar-wrestling-league-045-finishing-davey-jones-locker.json) |
+| IWL: Interstellar Wrestling League - 046: Finishing - The Banana Split | 363425 | [363425-iwl-interstellar-wrestling-league-046-finishing-the-banana-split.json](./363425-iwl-interstellar-wrestling-league-046-finishing-the-banana-split.json) |
+| IWL: Interstellar Wrestling League - 047: Finishing - The Freedom Fryer | 363426 | [363426-iwl-interstellar-wrestling-league-047-finishing-the-freedom-fryer.json](./363426-iwl-interstellar-wrestling-league-047-finishing-the-freedom-fryer.json) |
+| IWL: Interstellar Wrestling League - 048: Finishing - The Ecto-Squeeze | 363428 | [363428-iwl-interstellar-wrestling-league-048-finishing-the-ecto-squeeze.json](./363428-iwl-interstellar-wrestling-league-048-finishing-the-ecto-squeeze.json) |
+| IWL: Interstellar Wrestling League - 049: Mod - Max Mercury Meyiotos | 363430 | [363430-iwl-interstellar-wrestling-league-049-mod-max-mercury-meyiotos.json](./363430-iwl-interstellar-wrestling-league-049-mod-max-mercury-meyiotos.json) |
+| IWL: Interstellar Wrestling League - 050: Mod - Panules | 363431 | [363431-iwl-interstellar-wrestling-league-050-mod-panules.json](./363431-iwl-interstellar-wrestling-league-050-mod-panules.json) |
+| IWL: Interstellar Wrestling League - 051: Mod - Unum Herculaum | 363432 | [363432-iwl-interstellar-wrestling-league-051-mod-unum-herculaum.json](./363432-iwl-interstellar-wrestling-league-051-mod-unum-herculaum.json) |
+| IWL: Interstellar Wrestling League - 052: Mod - Unum Pan Daum | 363433 | [363433-iwl-interstellar-wrestling-league-052-mod-unum-pan-daum.json](./363433-iwl-interstellar-wrestling-league-052-mod-unum-pan-daum.json) |
+| IWL: Interstellar Wrestling League - 053: Mod - Atlury | 363435 | [363435-iwl-interstellar-wrestling-league-053-mod-atlury.json](./363435-iwl-interstellar-wrestling-league-053-mod-atlury.json) |
+| IWL: Interstellar Wrestling League - 054: Mod - Tria Pan 3 | 363436 | [363436-iwl-interstellar-wrestling-league-054-mod-tria-pan-3.json](./363436-iwl-interstellar-wrestling-league-054-mod-tria-pan-3.json) |
 | IWO: Bloodbath in the Bonins | 32979 | [32979-iwo-bloodbath-in-the-bonins.json](./32979-iwo-bloodbath-in-the-bonins.json) |
 | Ixion | 152258 | [152258-ixion.json](./152258-ixion.json) |
 | Ixion Saga | 152292 | [152292-ixion-saga.json](./152292-ixion-saga.json) |
