@@ -3056,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mint Works | 159818 | [159818-mint-works.json](./159818-mint-works.json) |
 | Mintroid | 188619 | [188619-mintroid.json](./188619-mintroid.json) |
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
+| Minute Cryptic | 356194 | [356194-minute-cryptic.json](./356194-minute-cryptic.json) |
 | Minute Fighter | 288766 | [288766-minute-fighter.json](./288766-minute-fighter.json) |
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
 | Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
@@ -4568,6 +4569,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Princess 3 | 212820 | [212820-muscle-princess-3.json](./212820-muscle-princess-3.json) |
 | Muscle Ranking Vol. 3: Saikyou no Challenger Tanjou! | 209614 | [209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json](./209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json) |
 | Muse Dash 2 | 400225 | [400225-muse-dash-2.json](./400225-muse-dash-2.json) |
+| Muse Dash: Just as Planned | 356178 | [356178-muse-dash-just-as-planned.json](./356178-muse-dash-just-as-planned.json) |
+| Muse Dash: Muse Plus | 356177 | [356177-muse-dash-muse-plus.json](./356177-muse-dash-muse-plus.json) |
 | Museca | 57107 | [57107-museca.json](./57107-museca.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
