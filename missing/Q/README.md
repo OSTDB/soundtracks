@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QotU | 308538 | [308538-qotu.json](./308538-qotu.json) |
 | QP Kiss | 188576 | [188576-qp-kiss.json](./188576-qp-kiss.json) |
 | Qrank | 94181 | [94181-qrank.json](./94181-qrank.json) |
+| Qreate | 356758 | [356758-qreate.json](./356758-qreate.json) |
 | QS Asteroids | 319593 | [319593-qs-asteroids.json](./319593-qs-asteroids.json) |
 | QS Defender | 319594 | [319594-qs-defender.json](./319594-qs-defender.json) |
 | QS Scramble | 319595 | [319595-qs-scramble.json](./319595-qs-scramble.json) |
@@ -152,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qubicks | 346599 | [346599-qubicks.json](./346599-qubicks.json) |
 | Qubit's Quest | 283762 | [283762-qubits-quest.json](./283762-qubits-quest.json) |
 | Qublyne Dungeons | 226435 | [226435-qublyne-dungeons.json](./226435-qublyne-dungeons.json) |
+| QUByte Classics: Beat 'Em Up Collection | 353981 | [353981-qubyte-classics-beat-em-up-collection.json](./353981-qubyte-classics-beat-em-up-collection.json) |
 | QUByte Classics: Gourmet Warriors | 263495 | [263495-qubyte-classics-gourmet-warriors.json](./263495-qubyte-classics-gourmet-warriors.json) |
 | QUByte Classics: The Samurai Collection | 223156 | [223156-qubyte-classics-the-samurai-collection.json](./223156-qubyte-classics-the-samurai-collection.json) |
 | Que Pasa Perro? | 86043 | [86043-que-pasa-perro.json](./86043-que-pasa-perro.json) |
