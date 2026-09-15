@@ -1964,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowers of Starlight | 264345 | [264345-flowers-of-starlight.json](./264345-flowers-of-starlight.json) |
 | Flowers: Kokoro no Hana | 308249 | [308249-flowers-kokoro-no-hana.json](./308249-flowers-kokoro-no-hana.json) |
 | Flowers: Le Volume sur Printemps | 33272 | [33272-flowers-le-volume-sur-printemps.json](./33272-flowers-le-volume-sur-printemps.json) |
+| Flowershop Master Yuukarin! | 365749 | [365749-flowershop-master-yuukarin.json](./365749-flowershop-master-yuukarin.json) |
 | FlowerStick | 125968 | [125968-flowerstick.json](./125968-flowerstick.json) |
 | Flowerworks | 67252 | [67252-flowerworks.json](./67252-flowerworks.json) |
 | Flowery Vale | 177048 | [177048-flowery-vale.json](./177048-flowery-vale.json) |
@@ -2721,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeze: The Escape | 79902 | [79902-freeze-the-escape.json](./79902-freeze-the-escape.json) |
 | Freezeer | 103630 | [103630-freezeer.json](./103630-freezeer.json) |
 | Fregocles y la Desinfección del Olimpo | 322551 | [322551-fregocles-y-la-desinfeccion-del-olimpo.json](./322551-fregocles-y-la-desinfeccion-del-olimpo.json) |
+| Freight Manager | 365742 | [365742-freight-manager.json](./365742-freight-manager.json) |
 | FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
 | FrenVania | 143047 | [143047-frenvania.json](./143047-frenvania.json) |
 | Frenzic: Overtime | 152926 | [152926-frenzic-overtime.json](./152926-frenzic-overtime.json) |
