@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T19:19:10.151Z",
-  "total_missing": 75072,
+  "generated_at": "2026-09-15T19:21:31.781Z",
+  "total_missing": 75071,
   "games": [
     {
       "igdb_id": 306086,
@@ -5461,11 +5461,6 @@
       "igdb_id": 145574,
       "game_name": "Age of Empires III: The Asian Dynasties Mobile",
       "file": "missing/A/145574-age-of-empires-iii-the-asian-dynasties-mobile.json"
-    },
-    {
-      "igdb_id": 145568,
-      "game_name": "Age of Empires: Pocket PC Edition",
-      "file": "missing/A/145568-age-of-empires-pocket-pc-edition.json"
     },
     {
       "igdb_id": 145567,
