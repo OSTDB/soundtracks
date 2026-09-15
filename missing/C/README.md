@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care Bears: Care-a-lot Jamboree | 65502 | [65502-care-bears-care-a-lot-jamboree.json](./65502-care-bears-care-a-lot-jamboree.json) |
 | Care Bears: Catch A Star! | 65505 | [65505-care-bears-catch-a-star.json](./65505-care-bears-catch-a-star.json) |
 | Care Bears: The Care Quests | 49368 | [49368-care-bears-the-care-quests.json](./49368-care-bears-the-care-quests.json) |
+| Care for your Horse | 357850 | [357850-care-for-your-horse.json](./357850-care-for-your-horse.json) |
 | Carena | 135830 | [135830-carena.json](./135830-carena.json) |
 | Caretaker Retribution | 34236 | [34236-caretaker-retribution.json](./34236-caretaker-retribution.json) |
 | Cargame | 143727 | [143727-cargame.json](./143727-cargame.json) |
@@ -1395,6 +1396,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
 | ChatBBT | 291451 | [291451-chatbbt.json](./291451-chatbbt.json) |
 | Château Pluie: The New Cellar Keeper | 412309 | [412309-chateau-pluie-the-new-cellar-keeper.json](./412309-chateau-pluie-the-new-cellar-keeper.json) |
+| Château Royale Jigsaw | 357875 | [357875-chateau-royale-jigsaw.json](./357875-chateau-royale-jigsaw.json) |
+| Château Royale Jigsaw: Expansion Pack 1 | 357876 | [357876-chateau-royale-jigsaw-expansion-pack-1.json](./357876-chateau-royale-jigsaw-expansion-pack-1.json) |
+| Château Royale Jigsaw: Expansion Pack 2 | 357877 | [357877-chateau-royale-jigsaw-expansion-pack-2.json](./357877-chateau-royale-jigsaw-expansion-pack-2.json) |
+| Château Royale Jigsaw: Expansion Pack 3 | 357878 | [357878-chateau-royale-jigsaw-expansion-pack-3.json](./357878-chateau-royale-jigsaw-expansion-pack-3.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
 | Cheapshot | 130885 | [130885-cheapshot.json](./130885-cheapshot.json) |
