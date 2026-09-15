@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Ring | 356066 | [356066-war-of-the-ring.json](./356066-war-of-the-ring.json) |
 | War of the Roses: Kingmaker | 11040 | [11040-war-of-the-roses-kingmaker.json](./11040-war-of-the-roses-kingmaker.json) |
 | War of the Seraphim | 117056 | [117056-war-of-the-seraphim.json](./117056-war-of-the-seraphim.json) |
+| War of the Three Kingdoms | 369624 | [369624-war-of-the-three-kingdoms.json](./369624-war-of-the-three-kingdoms.json) |
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
 | War of Wizards | 215666 | [215666-war-of-wizards.json](./215666-war-of-wizards.json) |
 | War of Zanzor III: Birth of Unity | 301825 | [301825-war-of-zanzor-iii-birth-of-unity.json](./301825-war-of-zanzor-iii-birth-of-unity.json) |
@@ -1742,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooo | 260979 | [260979-wooo.json](./260979-wooo.json) |
 | Wooo 2 | 260978 | [260978-wooo-2.json](./260978-wooo-2.json) |
 | Wor Games | 335847 | [335847-wor-games.json](./335847-wor-games.json) |
+| Word | 369619 | [369619-word.json](./369619-word.json) |
 | Word Ace | 61032 | [61032-word-ace.json](./61032-word-ace.json) |
 | Word After Word | 134653 | [134653-word-after-word.json](./134653-word-after-word.json) |
 | Word Beach: Word Games for Fun | 87733 | [87733-word-beach-word-games-for-fun.json](./87733-word-beach-word-games-for-fun.json) |
