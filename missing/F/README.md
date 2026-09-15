@@ -3182,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FuryDough | 300675 | [300675-furydough.json](./300675-furydough.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
 | Fuse | 381030 | [381030-fuse.json](./381030-fuse.json) |
+| FuSha: Overnight Stay | 366292 | [366292-fusha-overnight-stay.json](./366292-fusha-overnight-stay.json) |
 | Fushigi Deka | 59442 | [59442-fushigi-deka.json](./59442-fushigi-deka.json) |
 | Fushigi Densha | 143636 | [143636-fushigi-densha.json](./143636-fushigi-densha.json) |
 | Fushigi na Sekai no Kankou Nikki | 309359 | [309359-fushigi-na-sekai-no-kankou-nikki.json](./309359-fushigi-na-sekai-no-kankou-nikki.json) |
@@ -3207,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusion Nexus: Alchemic Evolution | 291776 | [291776-fusion-nexus-alchemic-evolution.json](./291776-fusion-nexus-alchemic-evolution.json) |
 | Fusion Paradox | 248662 | [248662-fusion-paradox.json](./248662-fusion-paradox.json) |
 | Fusion Shift | 132260 | [132260-fusion-shift.json](./132260-fusion-shift.json) |
+| Fusion Skills | 366319 | [366319-fusion-skills.json](./366319-fusion-skills.json) |
 | Fusion Wars | 19571 | [19571-fusion-wars.json](./19571-fusion-wars.json) |
 | Fusion: Genesis | 22935 | [22935-fusion-genesis.json](./22935-fusion-genesis.json) |
 | Fusionfall Heroes | 302950 | [302950-fusionfall-heroes.json](./302950-fusionfall-heroes.json) |
