@@ -529,7 +529,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agame | 269042 | [269042-agame.json](./269042-agame.json) |
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
 | Agatha Christie: Death on the Nile | 21134 | [21134-agatha-christie-death-on-the-nile.json](./21134-agatha-christie-death-on-the-nile.json) |
-| Agatha Knife | 28312 | [28312-agatha-knife.json](./28312-agatha-knife.json) |
 | Age Maniax: Isumi Yon Shimai Saigo no Hi | 305141 | [305141-age-maniax-isumi-yon-shimai-saigo-no-hi.json](./305141-age-maniax-isumi-yon-shimai-saigo-no-hi.json) |
 | Age of Aincrad | 223686 | [223686-age-of-aincrad.json](./223686-age-of-aincrad.json) |
 | Age of Ashes: Dark Nuns | 349849 | [349849-age-of-ashes-dark-nuns.json](./349849-age-of-ashes-dark-nuns.json) |
