@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me With Me | 224591 | [224591-me-with-me.json](./224591-me-with-me.json) |
 | Mea’s Saifu Collection Party | 411618 | [411618-mea-s-saifu-collection-party.json](./411618-mea-s-saifu-collection-party.json) |
 | Meadow Assault | 304582 | [304582-meadow-assault.json](./304582-meadow-assault.json) |
+| Meadowside Mayor | 354517 | [354517-meadowside-mayor.json](./354517-meadowside-mayor.json) |
 | Meal Quest | 376460 | [376460-meal-quest.json](./376460-meal-quest.json) |
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
 | Mean Beans | 236289 | [236289-mean-beans.json](./236289-mean-beans.json) |
