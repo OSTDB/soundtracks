@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
 | Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
+| Little World | 310031 | [310031-little-world.json](./310031-little-world.json) |
 | Little Wu Chang | 216797 | [216797-little-wu-chang.json](./216797-little-wu-chang.json) |
 | Little Yellow Submarine | 104689 | [104689-little-yellow-submarine.json](./104689-little-yellow-submarine.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
