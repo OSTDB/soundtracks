@@ -3806,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avaria: Iron Rule | 399009 | [399009-avaria-iron-rule.json](./399009-avaria-iron-rule.json) |
 | Avarice | 125408 | [125408-avarice.json](./125408-avarice.json) |
 | Avarice | 217859 | [217859-avarice.json](./217859-avarice.json) |
+| Avast: Scourge of Sea | 315094 | [315094-avast-scourge-of-sea.json](./315094-avast-scourge-of-sea.json) |
 | Avatar 2 Way of Watter: Porn Game | 287101 | [287101-avatar-2-way-of-watter-porn-game.json](./287101-avatar-2-way-of-watter-porn-game.json) |
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
 | Avatar Legends: The Fighting Game - Deluxe Edition | 412376 | [412376-avatar-legends-the-fighting-game-deluxe-edition.json](./412376-avatar-legends-the-fighting-game-deluxe-edition.json) |
