@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Dead Smasher Shooter: Premium Edition | 283163 | [283163-zombie-dead-smasher-shooter-premium-edition.json](./283163-zombie-dead-smasher-shooter-premium-edition.json) |
 | Zombie Defense: Emerald Edition | 400206 | [400206-zombie-defense-emerald-edition.json](./400206-zombie-defense-emerald-edition.json) |
 | Zombie Defense: Perfect Cut Edition | 284932 | [284932-zombie-defense-perfect-cut-edition.json](./284932-zombie-defense-perfect-cut-edition.json) |
+| Zombie Defense: Pew Pew Edition | 306518 | [306518-zombie-defense-pew-pew-edition.json](./306518-zombie-defense-pew-pew-edition.json) |
 | Zombie Derby | 96622 | [96622-zombie-derby.json](./96622-zombie-derby.json) |
 | Zombie Derby Collection | 280230 | [280230-zombie-derby-collection.json](./280230-zombie-derby-collection.json) |
 | Zombie Derby: Pixel Survival | 169364 | [169364-zombie-derby-pixel-survival.json](./169364-zombie-derby-pixel-survival.json) |
