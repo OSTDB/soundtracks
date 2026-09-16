@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KindergarTen 3: The Basement | 290696 | [290696-kindergarten-3-the-basement.json](./290696-kindergarten-3-the-basement.json) |
 | Kindergarten: Buddy Edition | 232999 | [232999-kindergarten-buddy-edition.json](./232999-kindergarten-buddy-edition.json) |
 | Kindled Cavern | 29816 | [29816-kindled-cavern.json](./29816-kindled-cavern.json) |
+| Kindred | 313888 | [313888-kindred.json](./313888-kindred.json) |
 | Kindred Fates | 129154 | [129154-kindred-fates.json](./129154-kindred-fates.json) |
 | Kindred Spirits Complete Collection | 53240 | [53240-kindred-spirits-complete-collection.json](./53240-kindred-spirits-complete-collection.json) |
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
@@ -949,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Monster | 366906 | [366906-kiss-monster.json](./366906-kiss-monster.json) |
 | Kiss Monster 2 | 366915 | [366915-kiss-monster-2.json](./366915-kiss-monster-2.json) |
 | Kiss My Camera | 227262 | [227262-kiss-my-camera.json](./227262-kiss-my-camera.json) |
+| Kiss of Death | 313875 | [313875-kiss-of-death.json](./313875-kiss-of-death.json) |
 | Kiss Pinball | 43917 | [43917-kiss-pinball.json](./43917-kiss-pinball.json) |
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
@@ -1469,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyojin-tachi | 260983 | [260983-kyojin-tachi.json](./260983-kyojin-tachi.json) |
 | Kyoki | 172160 | [172160-kyoki.json](./172160-kyoki.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
+| Kyoryu | 315130 | [315130-kyoryu.json](./315130-kyoryu.json) |
 | Kyoto | 128630 | [128630-kyoto.json](./128630-kyoto.json) |
 | Kyoto Maiko Monogatari | 333558 | [333558-kyoto-maiko-monogatari.json](./333558-kyoto-maiko-monogatari.json) |
 | Kyoufu no Kankin House | 251603 | [251603-kyoufu-no-kankin-house.json](./251603-kyoufu-no-kankin-house.json) |
