@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Ape: Tower Defense | 304009 | [304009-z-ape-tower-defense.json](./304009-z-ape-tower-defense.json) |
 | Z-axys | 102210 | [102210-z-axys.json](./102210-z-axys.json) |
 | Z-Exemplar | 26010 | [26010-z-exemplar.json](./26010-z-exemplar.json) |
+| Z-Factor | 305933 | [305933-z-factor.json](./305933-z-factor.json) |
 | Z-Grav: Clash | 263222 | [263222-z-grav-clash.json](./263222-z-grav-clash.json) |
 | Z-MMO | 55919 | [55919-z-mmo.json](./55919-z-mmo.json) |
 | Z-Rush Survival | 191818 | [191818-z-rush-survival.json](./191818-z-rush-survival.json) |
