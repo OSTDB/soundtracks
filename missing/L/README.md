@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavapools | 25000 | [25000-lavapools.json](./25000-lavapools.json) |
 | Lavender Laboratories | 184050 | [184050-lavender-laboratories.json](./184050-lavender-laboratories.json) |
 | Lavender Station | 404205 | [404205-lavender-station.json](./404205-lavender-station.json) |
+| Lavender's Botanicals | 295913 | [295913-lavenders-botanicals.json](./295913-lavenders-botanicals.json) |
 | Law Craft | 207832 | [207832-law-craft.json](./207832-law-craft.json) |
 | Law Mower | 41933 | [41933-law-mower.json](./41933-law-mower.json) |
 | Law of Creation 2 | 193935 | [193935-law-of-creation-2.json](./193935-law-of-creation-2.json) |
@@ -676,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Fairies | 73814 | [73814-legend-of-fairies.json](./73814-legend-of-fairies.json) |
 | Legend of Fighters | 62670 | [62670-legend-of-fighters.json](./62670-legend-of-fighters.json) |
 | Legend of Frog | 327576 | [327576-legend-of-frog.json](./327576-legend-of-frog.json) |
+| Legend of Gallant | 295915 | [295915-legend-of-gallant.json](./295915-legend-of-gallant.json) |
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
 | Legend of Heroes: Three Kingdoms | 333603 | [333603-legend-of-heroes-three-kingdoms.json](./333603-legend-of-heroes-three-kingdoms.json) |
 | Legend of Kingdoms | 224020 | [224020-legend-of-kingdoms.json](./224020-legend-of-kingdoms.json) |
@@ -1137,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
 | Life and Death: A Journey of Star-Crossed Lovers | 314296 | [314296-life-and-death-a-journey-of-star-crossed-lovers.json](./314296-life-and-death-a-journey-of-star-crossed-lovers.json) |
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
+| Life as a Lich | 295901 | [295901-life-as-a-lich.json](./295901-life-as-a-lich.json) |
 | Life as Designed | 153348 | [153348-life-as-designed.json](./153348-life-as-designed.json) |
 | Life Bubble | 300870 | [300870-life-bubble.json](./300870-life-bubble.json) |
 | Life Bubble: Gear Up Edition | 308806 | [308806-life-bubble-gear-up-edition.json](./308806-life-bubble-gear-up-edition.json) |
@@ -1194,9 +1197,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light & Shadow | 226425 | [226425-light-and-shadow.json](./226425-light-and-shadow.json) |
 | Light A Way | 80873 | [80873-light-a-way.json](./80873-light-a-way.json) |
 | Light and Dance VR | 29904 | [29904-light-and-dance-vr.json](./29904-light-and-dance-vr.json) |
+| Light and Shadow: Schatten über Empyria | 295902 | [295902-light-and-shadow-schatten-uber-empyria.json](./295902-light-and-shadow-schatten-uber-empyria.json) |
 | Light Arrow is Missing | 262674 | [262674-light-arrow-is-missing.json](./262674-light-arrow-is-missing.json) |
 | Light Bearers | 111032 | [111032-light-bearers.json](./111032-light-bearers.json) |
 | Light Bearers 2 | 303629 | [303629-light-bearers-2.json](./303629-light-bearers-2.json) |
+| Light Box | 295903 | [295903-light-box.json](./295903-light-box.json) |
 | Light Catcher | 100226 | [100226-light-catcher.json](./100226-light-catcher.json) |
 | Light De Deux | 338264 | [338264-light-de-deux.json](./338264-light-de-deux.json) |
 | Light Fall | 36620 | [36620-light-fall.json](./36620-light-fall.json) |
@@ -2093,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Yomori | 382283 | [382283-lost-in-yomori.json](./382283-lost-in-yomori.json) |
 | Lost Inside: Act 1 | 291751 | [291751-lost-inside-act-1.json](./291751-lost-inside-act-1.json) |
 | Lost Island | 350508 | [350508-lost-island.json](./350508-lost-island.json) |
+| Lost Island: Eternal Storm | 295916 | [295916-lost-island-eternal-storm.json](./295916-lost-island-eternal-storm.json) |
 | Lost Islands: Legend Pack | 326265 | [326265-lost-islands-legend-pack.json](./326265-lost-islands-legend-pack.json) |
 | Lost Islands: Pioneer Pack | 326266 | [326266-lost-islands-pioneer-pack.json](./326266-lost-islands-pioneer-pack.json) |
 | Lost Isle | 269320 | [269320-lost-isle.json](./269320-lost-isle.json) |
