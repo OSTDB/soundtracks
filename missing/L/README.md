@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Droplets | 159870 | [159870-laser-droplets.json](./159870-laser-droplets.json) |
 | Laser Fortress | 318757 | [318757-laser-fortress.json](./318757-laser-fortress.json) |
 | Laser Harp VR | 357218 | [357218-laser-harp-vr.json](./357218-laser-harp-vr.json) |
+| Laser Lightshow | 290555 | [290555-laser-lightshow.json](./290555-laser-lightshow.json) |
 | Laser Lords | 45919 | [45919-laser-lords.json](./45919-laser-lords.json) |
 | Laser Panic | 330314 | [330314-laser-panic.json](./330314-laser-panic.json) |
 | Laser Push | 176430 | [176430-laser-push.json](./176430-laser-push.json) |
@@ -549,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaderboard | 15246 | [15246-leaderboard.json](./15246-leaderboard.json) |
 | Leadersheep | 183509 | [183509-leadersheep.json](./183509-leadersheep.json) |
 | Leading Company | 46004 | [46004-leading-company.json](./46004-leading-company.json) |
+| Leaf Blowing Simulator | 290556 | [290556-leaf-blowing-simulator.json](./290556-leaf-blowing-simulator.json) |
 | Leaf Clicker: Grow Your Green Thumb! | 340908 | [340908-leaf-clicker-grow-your-green-thumb.json](./340908-leaf-clicker-grow-your-green-thumb.json) |
 | Leaf Me Alone | 408086 | [408086-leaf-me-alone.json](./408086-leaf-me-alone.json) |
 | Leaf on Wind | 149087 | [149087-leaf-on-wind.json](./149087-leaf-on-wind.json) |
@@ -1368,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
 | Line of Fire | 12178 | [12178-line-of-fire.json](./12178-line-of-fire.json) |
 | Line of Fire | 19487 | [19487-line-of-fire.json](./19487-line-of-fire.json) |
+| Line of Fire: Pirate Waltz | 290544 | [290544-line-of-fire-pirate-waltz.json](./290544-line-of-fire-pirate-waltz.json) |
 | Line of Sight: Starters Pack | 156102 | [156102-line-of-sight-starters-pack.json](./156102-line-of-sight-starters-pack.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
 | Line Up: Dots! | 243098 | [243098-line-up-dots.json](./243098-line-up-dots.json) |
@@ -1685,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living World Racing | 174792 | [174792-living-world-racing.json](./174792-living-world-racing.json) |
 | Living_City | 330830 | [330830-living-city.json](./330830-living-city.json) |
 | LivingForest | 306374 | [306374-livingforest.json](./306374-livingforest.json) |
+| Livingmare Cold Calls | 290559 | [290559-livingmare-cold-calls.json](./290559-livingmare-cold-calls.json) |
 | Livingstone Supongo | 37079 | [37079-livingstone-supongo.json](./37079-livingstone-supongo.json) |
 | Livli: A Sámi Story | 293894 | [293894-livli-a-sami-story.json](./293894-livli-a-sami-story.json) |
 | Livora | 402966 | [402966-livora.json](./402966-livora.json) |
@@ -2376,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
 | Lucian Bee's: Resurrection Supernova | 59424 | [59424-lucian-bees-resurrection-supernova.json](./59424-lucian-bees-resurrection-supernova.json) |
+| Lucid | 290530 | [290530-lucid.json](./290530-lucid.json) |
 | Lucid Adventure Idle RPG | 143079 | [143079-lucid-adventure-idle-rpg.json](./143079-lucid-adventure-idle-rpg.json) |
 | Lucid Deep | 132774 | [132774-lucid-deep.json](./132774-lucid-deep.json) |
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
