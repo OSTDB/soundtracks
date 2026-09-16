@@ -2012,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pix3D | 84819 | [84819-pix3d.json](./84819-pix3d.json) |
 | Pixadom | 317582 | [317582-pixadom.json](./317582-pixadom.json) |
 | Pixapple Adventure | 388011 | [388011-pixapple-adventure.json](./388011-pixapple-adventure.json) |
+| PixArk: Jade Elegance - A Theatrical Odyssey in the East | 291059 | [291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json](./291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json) |
 | Pixasso 2 | 165703 | [165703-pixasso-2.json](./165703-pixasso-2.json) |
 | Pixel Adventure: Exploration | 96005 | [96005-pixel-adventure-exploration.json](./96005-pixel-adventure-exploration.json) |
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
@@ -2445,6 +2446,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
 | Play for Love | 292008 | [292008-play-for-love.json](./292008-play-for-love.json) |
 | Play for Your Life | 55053 | [55053-play-for-your-life.json](./55053-play-for-your-life.json) |
+| Play Nintendo: Paint-By-Number | 291049 | [291049-play-nintendo-paint-by-number.json](./291049-play-nintendo-paint-by-number.json) |
+| Play Nintendo: Puzzles | 291047 | [291047-play-nintendo-puzzles.json](./291047-play-nintendo-puzzles.json) |
 | Play Nintendo: Skill Quizzes | 328062 | [328062-play-nintendo-skill-quizzes.json](./328062-play-nintendo-skill-quizzes.json) |
 | Play Outside Simulator | 189145 | [189145-play-outside-simulator.json](./189145-play-outside-simulator.json) |
 | Play Room 0g | 111017 | [111017-play-room-0g.json](./111017-play-room-0g.json) |
@@ -2518,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleonexia | 246119 | [246119-pleonexia.json](./246119-pleonexia.json) |
 | Plerbtonia | 320174 | [320174-plerbtonia.json](./320174-plerbtonia.json) |
 | Plinbo | 372560 | [372560-plinbo.json](./372560-plinbo.json) |
+| Plinio Needs a Hand | 291089 | [291089-plinio-needs-a-hand.json](./291089-plinio-needs-a-hand.json) |
 | Plinko Panic! | 189203 | [189203-plinko-panic.json](./189203-plinko-panic.json) |
 | Plobania 47/B | 400286 | [400286-plobania-47-b.json](./400286-plobania-47-b.json) |
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
@@ -3183,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Brawlers | 310746 | [310746-portal-brawlers.json](./310746-portal-brawlers.json) |
 | Portal Defense | 207516 | [207516-portal-defense.json](./207516-portal-defense.json) |
 | Portal done Half-Life Source | 323554 | [323554-portal-done-half-life-source.json](./323554-portal-done-half-life-source.json) |
+| Portal Dungeon: Character Pack - Hamster | 291085 | [291085-portal-dungeon-character-pack-hamster.json](./291085-portal-dungeon-character-pack-hamster.json) |
 | Portal Factory | 324335 | [324335-portal-factory.json](./324335-portal-factory.json) |
 | Portal Fantasy | 257931 | [257931-portal-fantasy.json](./257931-portal-fantasy.json) |
 | Portal Guardian | 389991 | [389991-portal-guardian.json](./389991-portal-guardian.json) |
@@ -3504,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prey of the Night | 325626 | [325626-prey-of-the-night.json](./325626-prey-of-the-night.json) |
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
 | Prezzemolo in una Giornata da Incubo | 93026 | [93026-prezzemolo-in-una-giornata-da-incubo.json](./93026-prezzemolo-in-una-giornata-da-incubo.json) |
+| Price of Power | 291069 | [291069-price-of-power.json](./291069-price-of-power.json) |
 | PriceGuessers | 394860 | [394860-priceguessers.json](./394860-priceguessers.json) |
 | Prickly Goo To The Rescue | 328051 | [328051-prickly-goo-to-the-rescue.json](./328051-prickly-goo-to-the-rescue.json) |
 | Pride FC: Fighting Championships | 18276 | [18276-pride-fc-fighting-championships.json](./18276-pride-fc-fighting-championships.json) |
