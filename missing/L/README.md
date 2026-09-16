@@ -797,6 +797,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Skywalker Saga - Classic Character Edition | 139937 | [139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json](./139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json) |
 | LEGO Stunt Rally | 4112 | [4112-lego-stunt-rally.json](./4112-lego-stunt-rally.json) |
 | LEGO Super Heroes: Thor | 228414 | [228414-lego-super-heroes-thor.json](./228414-lego-super-heroes-thor.json) |
+| LEGO Super Mario Goal | 328610 | [328610-lego-super-mario-goal.json](./328610-lego-super-mario-goal.json) |
+| LEGO Super Mario Jigsaw Puzzle | 328607 | [328607-lego-super-mario-jigsaw-puzzle.json](./328607-lego-super-mario-jigsaw-puzzle.json) |
 | LEGO Supersonic RC | 250613 | [250613-lego-supersonic-rc.json](./250613-lego-supersonic-rc.json) |
 | LEGO The Lord of the Rings: Toy Edition | 139957 | [139957-lego-the-lord-of-the-rings-toy-edition.json](./139957-lego-the-lord-of-the-rings-toy-edition.json) |
 | LEGO World Builder 2 | 243690 | [243690-lego-world-builder-2.json](./243690-lego-world-builder-2.json) |
