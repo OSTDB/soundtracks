@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Stormraiser Premium Edition | 218451 | [218451-century-age-of-ashes-stormraiser-premium-edition.json](./218451-century-age-of-ashes-stormraiser-premium-edition.json) |
 | Century: Age of Ashes - The Journeyer Edition | 218492 | [218492-century-age-of-ashes-the-journeyer-edition.json](./218492-century-age-of-ashes-the-journeyer-edition.json) |
 | Century: Age of Ashes - Valkurian Prelude Edition | 218491 | [218491-century-age-of-ashes-valkurian-prelude-edition.json](./218491-century-age-of-ashes-valkurian-prelude-edition.json) |
+| CEO City | 316287 | [316287-ceo-city.json](./316287-ceo-city.json) |
 | Cepheus Protocol | 127246 | [127246-cepheus-protocol.json](./127246-cepheus-protocol.json) |
 | Cepheus Protocol: Project Fenrir | 281986 | [281986-cepheus-protocol-project-fenrir.json](./281986-cepheus-protocol-project-fenrir.json) |
 | Ceradin | 126041 | [126041-ceradin.json](./126041-ceradin.json) |
