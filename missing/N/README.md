@@ -1580,7 +1580,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga no Yabou | 131537 | [131537-nobunaga-no-yabou.json](./131537-nobunaga-no-yabou.json) |
 | Nobunaga no Yabou 201X | 61101 | [61101-nobunaga-no-yabou-201x.json](./61101-nobunaga-no-yabou-201x.json) |
 | Nobunaga no Yabou DS 2 | 59379 | [59379-nobunaga-no-yabou-ds-2.json](./59379-nobunaga-no-yabou-ds-2.json) |
+| Nobunaga no Yabou: Bushou Fuuunroku | 307153 | [307153-nobunaga-no-yabou-bushou-fuuunroku.json](./307153-nobunaga-no-yabou-bushou-fuuunroku.json) |
+| Nobunaga no Yabou: Bushou Fuuunroku | 307155 | [307155-nobunaga-no-yabou-bushou-fuuunroku.json](./307155-nobunaga-no-yabou-bushou-fuuunroku.json) |
 | Nobunaga no Yabou: Oretachi no Sengoku | 208626 | [208626-nobunaga-no-yabou-oretachi-no-sengoku.json](./208626-nobunaga-no-yabou-oretachi-no-sengoku.json) |
+| Nobunaga no Yabou: Sengoku Gunyuuden | 307127 | [307127-nobunaga-no-yabou-sengoku-gunyuuden.json](./307127-nobunaga-no-yabou-sengoku-gunyuuden.json) |
+| Nobunaga no Yabou: Sengoku Gunyuuden | 307130 | [307130-nobunaga-no-yabou-sengoku-gunyuuden.json](./307130-nobunaga-no-yabou-sengoku-gunyuuden.json) |
+| Nobunaga no Yabou: Zenkoku-ban | 307121 | [307121-nobunaga-no-yabou-zenkoku-ban.json](./307121-nobunaga-no-yabou-zenkoku-ban.json) |
+| Nobunaga's Ambition | 307116 | [307116-nobunagas-ambition.json](./307116-nobunagas-ambition.json) |
+| Nobunaga's Ambition | 307119 | [307119-nobunagas-ambition.json](./307119-nobunagas-ambition.json) |
+| Nobunaga's Ambition | 307124 | [307124-nobunagas-ambition.json](./307124-nobunagas-ambition.json) |
+| Nobunaga's Ambition | 307131 | [307131-nobunagas-ambition.json](./307131-nobunagas-ambition.json) |
+| Nobunaga's Ambition II | 307125 | [307125-nobunagas-ambition-ii.json](./307125-nobunagas-ambition-ii.json) |
 | Nobunaga's Ambition: Awakening - Set of 6 Scenarios | 347227 | [347227-nobunagas-ambition-awakening-set-of-6-scenarios.json](./347227-nobunagas-ambition-awakening-set-of-6-scenarios.json) |
 | Nobunaga's Ambition: Hadou | 371347 | [371347-nobunagas-ambition-hadou.json](./371347-nobunagas-ambition-hadou.json) |
 | Nobunaga's Ambition: Hishou | 405470 | [405470-nobunagas-ambition-hishou.json](./405470-nobunagas-ambition-hishou.json) |
