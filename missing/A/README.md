@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromalius | 110880 | [110880-andromalius.json](./110880-andromalius.json) |
 | Andromeda Acolytes | 211400 | [211400-andromeda-acolytes.json](./211400-andromeda-acolytes.json) |
 | Andromeda Mission | 15571 | [15571-andromeda-mission.json](./15571-andromeda-mission.json) |
+| Andromeda One | 292695 | [292695-andromeda-one.json](./292695-andromeda-one.json) |
 | Andromeda Overdrive | 265420 | [265420-andromeda-overdrive.json](./265420-andromeda-overdrive.json) |
 | Andromeda Zombies Colonies | 233221 | [233221-andromeda-zombies-colonies.json](./233221-andromeda-zombies-colonies.json) |
 | Andromis | 377085 | [377085-andromis.json](./377085-andromis.json) |
