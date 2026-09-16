@@ -3175,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Forward | 383967 | [383967-frozen-forward.json](./383967-frozen-forward.json) |
 | Frozen Fruits | 307334 | [307334-frozen-fruits.json](./307334-frozen-fruits.json) |
 | Frozen Heart | 311460 | [311460-frozen-heart.json](./311460-frozen-heart.json) |
+| Frozen Honey ASMR: Sleek Edition | 306520 | [306520-frozen-honey-asmr-sleek-edition.json](./306520-frozen-honey-asmr-sleek-edition.json) |
 | Frozen Inferno | 328245 | [328245-frozen-inferno.json](./328245-frozen-inferno.json) |
 | Frozen Injustice: Fridge Adventures | 324334 | [324334-frozen-injustice-fridge-adventures.json](./324334-frozen-injustice-fridge-adventures.json) |
 | Frozen Memories | 129226 | [129226-frozen-memories.json](./129226-frozen-memories.json) |
