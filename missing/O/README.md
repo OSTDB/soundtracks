@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
 | Obscure Doubt | 117068 | [117068-obscure-doubt.json](./117068-obscure-doubt.json) |
 | Obscure Horrors | 386684 | [386684-obscure-horrors.json](./386684-obscure-horrors.json) |
+| Obscuria | 295906 | [295906-obscuria.json](./295906-obscuria.json) |
 | Obscuritas | 18431 | [18431-obscuritas.json](./18431-obscuritas.json) |
 | Obscurity | 99661 | [99661-obscurity.json](./99661-obscurity.json) |
 | Obscurum | 276184 | [276184-obscurum.json](./276184-obscurum.json) |
@@ -1488,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Hedge: Hammy Goes Nuts! | 358372 | [358372-over-the-hedge-hammy-goes-nuts.json](./358372-over-the-hedge-hammy-goes-nuts.json) |
 | Over the Hedge: Hammy Goes Nuts! | 358374 | [358374-over-the-hedge-hammy-goes-nuts.json](./358374-over-the-hedge-hammy-goes-nuts.json) |
 | Over the Hill | 329124 | [329124-over-the-hill.json](./329124-over-the-hill.json) |
+| Over the Net | 295907 | [295907-over-the-net.json](./295907-over-the-net.json) |
 | Over the Net | 87181 | [87181-over-the-net.json](./87181-over-the-net.json) |
 | Over the Radio | 369086 | [369086-over-the-radio.json](./369086-over-the-radio.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
