@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bridge | 352753 | [352753-the-bridge.json](./352753-the-bridge.json) |
 | The Bridge | 8440 | [8440-the-bridge.json](./8440-the-bridge.json) |
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
+| The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
 | The Brothers Hotel | 333084 | [333084-the-brothers-hotel.json](./333084-the-brothers-hotel.json) |
 | The Brutalist Volumes | 275316 | [275316-the-brutalist-volumes.json](./275316-the-brutalist-volumes.json) |
 | The Bubonicz | 384061 | [384061-the-bubonicz.json](./384061-the-bubonicz.json) |
