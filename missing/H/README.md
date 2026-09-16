@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haneda Girl | 222901 | [222901-haneda-girl.json](./222901-haneda-girl.json) |
 | Hanerutchi | 229961 | [229961-hanerutchi.json](./229961-hanerutchi.json) |
 | Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
+| Hang up Street | 333092 | [333092-hang-up-street.json](./333092-hang-up-street.json) |
 | Hang-On | 364569 | [364569-hang-on.json](./364569-hang-on.json) |
 | Hang-On | 364571 | [364571-hang-on.json](./364571-hang-on.json) |
 | Hang-On & Astro Warrior | 86098 | [86098-hang-on-and-astro-warrior.json](./86098-hang-on-and-astro-warrior.json) |
@@ -715,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayate no Gotoku! Boku ga Romeo de Romeo ga Boku de | 78727 | [78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json](./78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json) |
 | Hayate no Gotoku! Ojousama Produce Daisakusen Boku Iro ni Somare! | 72684 | [72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json](./72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json) |
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
+| Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
 | Hazar | 384068 | [384068-hazar.json](./384068-hazar.json) |
 | Hazard Level | 177007 | [177007-hazard-level.json](./177007-hazard-level.json) |
