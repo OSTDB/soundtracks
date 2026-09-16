@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Sagashi | 227270 | [227270-neko-sagashi.json](./227270-neko-sagashi.json) |
 | Neko Samurai | 212468 | [212468-neko-samurai.json](./212468-neko-samurai.json) |
 | Neko Secret: Homecoming | 200647 | [200647-neko-secret-homecoming.json](./200647-neko-secret-homecoming.json) |
+| Neko Simulator NekoZ | 297632 | [297632-neko-simulator-nekoz.json](./297632-neko-simulator-nekoz.json) |
 | Neko Times: Purrfect Shapes | 369629 | [369629-neko-times-purrfect-shapes.json](./369629-neko-times-purrfect-shapes.json) |
 | Neko Tissue | 370105 | [370105-neko-tissue.json](./370105-neko-tissue.json) |
 | Neko to Sakana | 188601 | [188601-neko-to-sakana.json](./188601-neko-to-sakana.json) |
