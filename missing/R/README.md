@@ -1962,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
 | Rim: Battle Planets | 71747 | [71747-rim-battle-planets.json](./71747-rim-battle-planets.json) |
 | Rima: The Story Begins | 207859 | [207859-rima-the-story-begins.json](./207859-rima-the-story-begins.json) |
+| Rimal Game | 290535 | [290535-rimal-game.json](./290535-rimal-game.json) |
 | Rimebeard | 153974 | [153974-rimebeard.json](./153974-rimebeard.json) |
 | RimFolk | 335323 | [335323-rimfolk.json](./335323-rimfolk.json) |
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
@@ -2198,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Mechalopolis | 413009 | [413009-road-to-mechalopolis.json](./413009-road-to-mechalopolis.json) |
 | Road to Morrow | 172669 | [172669-road-to-morrow.json](./172669-road-to-morrow.json) |
 | Road to Moscow | 25613 | [25613-road-to-moscow.json](./25613-road-to-moscow.json) |
+| Road To Valhalla: Carola | 290537 | [290537-road-to-valhalla-carola.json](./290537-road-to-valhalla-carola.json) |
 | Road to Vostok | 217304 | [217304-road-to-vostok.json](./217304-road-to-vostok.json) |
 | Road to Wealth | 348873 | [348873-road-to-wealth.json](./348873-road-to-wealth.json) |
 | Road Trip | 182553 | [182553-road-trip.json](./182553-road-trip.json) |
@@ -2825,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roots And Sprouts | 401539 | [401539-roots-and-sprouts.json](./401539-roots-and-sprouts.json) |
 | Roots Devour | 331443 | [331443-roots-devour.json](./331443-roots-devour.json) |
 | Roots Need Control 3.0 | 243121 | [243121-roots-need-control-3-0.json](./243121-roots-need-control-3-0.json) |
+| Roots of Fury | 290529 | [290529-roots-of-fury.json](./290529-roots-of-fury.json) |
 | Roots of Harmony | 320561 | [320561-roots-of-harmony.json](./320561-roots-of-harmony.json) |
 | Roots of Rebirth | 239644 | [239644-roots-of-rebirth.json](./239644-roots-of-rebirth.json) |
 | Rope | 138809 | [138809-rope.json](./138809-rope.json) |
