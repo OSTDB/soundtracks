@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life | 401474 | [401474-half-life.json](./401474-half-life.json) |
 | Half-Life 1 Anthology | 400309 | [400309-half-life-1-anthology.json](./400309-half-life-1-anthology.json) |
 | Half-Life 2 Classic | 128657 | [128657-half-life-2-classic.json](./128657-half-life-2-classic.json) |
+| Half-Life 2: Alone Mod | 323932 | [323932-half-life-2-alone-mod.json](./323932-half-life-2-alone-mod.json) |
 | Half-Life 2: Capture the Flag | 221720 | [221720-half-life-2-capture-the-flag.json](./221720-half-life-2-capture-the-flag.json) |
 | Half-Life 2: Collector's Edition | 237394 | [237394-half-life-2-collectors-edition.json](./237394-half-life-2-collectors-edition.json) |
 | Half-Life 2: MMod - Half-Life 2: Update | 267639 | [267639-half-life-2-mmod-half-life-2-update.json](./267639-half-life-2-mmod-half-life-2-update.json) |
@@ -1333,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HenTris 2: Shemales | 111209 | [111209-hentris-2-shemales.json](./111209-hentris-2-shemales.json) |
 | Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
 | Her | 105347 | [105347-her.json](./105347-her.json) |
+| Her Apartment | 323898 | [323898-her-apartment.json](./323898-her-apartment.json) |
 | Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
 | Her Knights: All for the Princess | 66048 | [66048-her-knights-all-for-the-princess.json](./66048-her-knights-all-for-the-princess.json) |
 | Her Knights: Kyrie Eleison | 145614 | [145614-her-knights-kyrie-eleison.json](./145614-her-knights-kyrie-eleison.json) |
@@ -1664,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
 | Hidden Collection | 86714 | [86714-hidden-collection.json](./86714-hidden-collection.json) |
 | Hidden Cubes | 74459 | [74459-hidden-cubes.json](./74459-hidden-cubes.json) |
+| Hidden Cursed Crypt | 323930 | [323930-hidden-cursed-crypt.json](./323930-hidden-cursed-crypt.json) |
 | Hidden Dose | 184598 | [184598-hidden-dose.json](./184598-hidden-dose.json) |
 | Hidden Dragon: Legend | 45095 | [45095-hidden-dragon-legend.json](./45095-hidden-dragon-legend.json) |
 | Hidden Dungeon Top-Down 3D | 222935 | [222935-hidden-dungeon-top-down-3d.json](./222935-hidden-dungeon-top-down-3d.json) |
