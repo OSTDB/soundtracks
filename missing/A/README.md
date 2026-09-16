@@ -632,7 +632,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
-| AI Shogi 2003 | 269328 | [269328-ai-shogi-2003.json](./269328-ai-shogi-2003.json) |
 | AI Solitaire: Handsome Heroes | 304005 | [304005-ai-solitaire-handsome-heroes.json](./304005-ai-solitaire-handsome-heroes.json) |
 | AI Solitaire: Lovely Ladies | 304006 | [304006-ai-solitaire-lovely-ladies.json](./304006-ai-solitaire-lovely-ladies.json) |
 | AI Unbound | 245865 | [245865-ai-unbound.json](./245865-ai-unbound.json) |
