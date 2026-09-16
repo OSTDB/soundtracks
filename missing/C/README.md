@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calypso's Calamity | 319243 | [319243-calypsos-calamity.json](./319243-calypsos-calamity.json) |
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
 | Cambell’s Oddity Box | 387368 | [387368-cambell-s-oddity-box.json](./387368-cambell-s-oddity-box.json) |
+| Cambo: Webbed Fist | 307126 | [307126-cambo-webbed-fist.json](./307126-cambo-webbed-fist.json) |
 | Cambria | 344349 | [344349-cambria.json](./344349-cambria.json) |
 | Cambrian Crawl | 404981 | [404981-cambrian-crawl.json](./404981-cambrian-crawl.json) |
 | Camega | 202808 | [202808-camega.json](./202808-camega.json) |
@@ -823,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Venia | 108423 | [108423-castle-of-venia.json](./108423-castle-of-venia.json) |
 | Castle of White Night | 197853 | [197853-castle-of-white-night.json](./197853-castle-of-white-night.json) |
 | Castle Push | 259856 | [259856-castle-push.json](./259856-castle-push.json) |
+| Castle Quest | 307104 | [307104-castle-quest.json](./307104-castle-quest.json) |
 | Castle Red | 123000 | [123000-castle-red.json](./123000-castle-red.json) |
 | Castle Rush | 185145 | [185145-castle-rush.json](./185145-castle-rush.json) |
 | Castle Rush | 234046 | [234046-castle-rush.json](./234046-castle-rush.json) |
@@ -1364,6 +1366,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
 | Championship Manager 2008 | 14840 | [14840-championship-manager-2008.json](./14840-championship-manager-2008.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
+| Championship Pool | 307111 | [307111-championship-pool.json](./307111-championship-pool.json) |
+| Championship Pool | 307113 | [307113-championship-pool.json](./307113-championship-pool.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
 | ChampionsTCG | 273920 | [273920-championstcg.json](./273920-championstcg.json) |
 | Champoo Club | 172200 | [172200-champoo-club.json](./172200-champoo-club.json) |
@@ -2098,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuckie Egg | 10235 | [10235-chuckie-egg.json](./10235-chuckie-egg.json) |
 | Chuckie Egg 2017 Challenges | 111642 | [111642-chuckie-egg-2017-challenges.json](./111642-chuckie-egg-2017-challenges.json) |
 | Chucky | 113717 | [113717-chucky.json](./113717-chucky.json) |
+| Chucky: Slash & Dash | 307138 | [307138-chucky-slash-and-dash.json](./307138-chucky-slash-and-dash.json) |
 | Chucky: The Road To Heaven | 235449 | [235449-chucky-the-road-to-heaven.json](./235449-chucky-the-road-to-heaven.json) |
 | Chuggington: Babysitter Brewster | 230548 | [230548-chuggington-babysitter-brewster.json](./230548-chuggington-babysitter-brewster.json) |
 | Chuhou Joutai | 133460 | [133460-chuhou-joutai.json](./133460-chuhou-joutai.json) |
@@ -3535,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core of Darkness | 117681 | [117681-core-of-darkness.json](./117681-core-of-darkness.json) |
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
 | Core.Sys | 351094 | [351094-core-sys.json](./351094-core-sys.json) |
+| Corecraft | 307107 | [307107-corecraft.json](./307107-corecraft.json) |
 | Corepunk | 127513 | [127513-corepunk.json](./127513-corepunk.json) |
 | Coreupt | 130328 | [130328-coreupt.json](./130328-coreupt.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
@@ -4511,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic Castle | 146854 | [146854-cryptic-castle.json](./146854-cryptic-castle.json) |
 | Cryptic Caverns | 173810 | [173810-cryptic-caverns.json](./173810-cryptic-caverns.json) |
 | Cryptic Glaze Mirror | 391174 | [391174-cryptic-glaze-mirror.json](./391174-cryptic-glaze-mirror.json) |
+| Cryptica | 307157 | [307157-cryptica.json](./307157-cryptica.json) |
 | Cryptid | 253569 | [253569-cryptid.json](./253569-cryptid.json) |
 | Cryptid | 327188 | [327188-cryptid.json](./327188-cryptid.json) |
 | Cryptid Engine | 348861 | [348861-cryptid-engine.json](./348861-cryptid-engine.json) |
