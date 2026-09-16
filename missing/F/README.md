@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.E.A.R. 3 | 514 | [514-f-e-a-r-3.json](./514-f-e-a-r-3.json) |
 | F.E.A.R. Extraction Point | 518 | [518-f-e-a-r-extraction-point.json](./518-f-e-a-r-extraction-point.json) |
 | F.E.A.R. Files | 5640 | [5640-f-e-a-r-files.json](./5640-f-e-a-r-files.json) |
+| F.E.A.R.: Complete Pack | 323910 | [323910-f-e-a-r-complete-pack.json](./323910-f-e-a-r-complete-pack.json) |
 | F.I.D.O. | 196787 | [196787-f-i-d-o.json](./196787-f-i-d-o.json) |
 | F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
 | F*ck the HELL out | 337150 | [337150-f-ck-the-hell-out.json](./337150-f-ck-the-hell-out.json) |
@@ -2550,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 3 - Season 2: Resistance | 194664 | [194664-fortnite-chapter-3-season-2-resistance.json](./194664-fortnite-chapter-3-season-2-resistance.json) |
 | Fortnite: Chapter 4 - Season 2: Mega | 241495 | [241495-fortnite-chapter-4-season-2-mega.json](./241495-fortnite-chapter-4-season-2-mega.json) |
 | Fortnite: Chapter 5 - Underground | 278837 | [278837-fortnite-chapter-5-underground.json](./278837-fortnite-chapter-5-underground.json) |
+| Fortnite: Chapter 6 - Season 1: Demon Hunters | 323914 | [323914-fortnite-chapter-6-season-1-demon-hunters.json](./323914-fortnite-chapter-6-season-1-demon-hunters.json) |
 | Fortnite: Chapter 7 - Season 2: Showdown | 394366 | [394366-fortnite-chapter-7-season-2-showdown.json](./394366-fortnite-chapter-7-season-2-showdown.json) |
 | Fortnite: Cuddle Buns Pack | 333587 | [333587-fortnite-cuddle-buns-pack.json](./333587-fortnite-cuddle-buns-pack.json) |
 | Fortnite: Darkest Grumblings Pack | 331962 | [331962-fortnite-darkest-grumblings-pack.json](./331962-fortnite-darkest-grumblings-pack.json) |
