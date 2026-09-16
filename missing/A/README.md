@@ -604,7 +604,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agents of Groove | 325644 | [325644-agents-of-groove.json](./325644-agents-of-groove.json) |
 | Agents of Mayhem: Lazarus Agent Pack | 169936 | [169936-agents-of-mayhem-lazarus-agent-pack.json](./169936-agents-of-mayhem-lazarus-agent-pack.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
-| Agony | 11890 | [11890-agony.json](./11890-agony.json) |
 | Agony VR | 197402 | [197402-agony-vr.json](./197402-agony-vr.json) |
 | Agony: Lords of Hell | 211421 | [211421-agony-lords-of-hell.json](./211421-agony-lords-of-hell.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
