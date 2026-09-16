@@ -636,6 +636,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Street Fighter II - 38. Rolling Nail | 388037 | [388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json](./388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json) |
 | Barcode Knight | 173808 | [173808-barcode-knight.json](./173808-barcode-knight.json) |
 | Barcode warriors | 140557 | [140557-barcode-warriors.json](./140557-barcode-warriors.json) |
+| Barcode World Senyou Card: Barrier Rod | 329746 | [329746-barcode-world-senyou-card-barrier-rod.json](./329746-barcode-world-senyou-card-barrier-rod.json) |
+| Barcode World Senyou Card: Carry (Dead Zone) | 329737 | [329737-barcode-world-senyou-card-carry-dead-zone.json](./329737-barcode-world-senyou-card-carry-dead-zone.json) |
+| Barcode World Senyou Card: Hebe | 329721 | [329721-barcode-world-senyou-card-hebe.json](./329721-barcode-world-senyou-card-hebe.json) |
+| Barcode World Senyou Card: Hebe no Boushi | 329748 | [329748-barcode-world-senyou-card-hebe-no-boushi.json](./329748-barcode-world-senyou-card-hebe-no-boushi.json) |
+| Barcode World Senyou Card: Jennifer | 329739 | [329739-barcode-world-senyou-card-jennifer.json](./329739-barcode-world-senyou-card-jennifer.json) |
+| Barcode World Senyou Card: Kane Gardner (Chou Wakusei Senki MetaFight) | 329738 | [329738-barcode-world-senyou-card-kane-gardner-chou-wakusei-senki-metafight.json](./329738-barcode-world-senyou-card-kane-gardner-chou-wakusei-senki-metafight.json) |
+| Barcode World Senyou Card: Kikanjuu | 329744 | [329744-barcode-world-senyou-card-kikanjuu.json](./329744-barcode-world-senyou-card-kikanjuu.json) |
+| Barcode World Senyou Card: Lucia (Madoola no Tsubasa) | 329740 | [329740-barcode-world-senyou-card-lucia-madoola-no-tsubasa.json](./329740-barcode-world-senyou-card-lucia-madoola-no-tsubasa.json) |
+| Barcode World Senyou Card: Neko no Kigurumi | 329751 | [329751-barcode-world-senyou-card-neko-no-kigurumi.json](./329751-barcode-world-senyou-card-neko-no-kigurumi.json) |
+| Barcode World Senyou Card: Nitro Gun | 329745 | [329745-barcode-world-senyou-card-nitro-gun.json](./329745-barcode-world-senyou-card-nitro-gun.json) |
+| Barcode World Senyou Card: O-chan | 329723 | [329723-barcode-world-senyou-card-o-chan.json](./329723-barcode-world-senyou-card-o-chan.json) |
+| Barcode World Senyou Card: Popoon | 329743 | [329743-barcode-world-senyou-card-popoon.json](./329743-barcode-world-senyou-card-popoon.json) |
+| Barcode World Senyou Card: Sukezaemon | 329742 | [329742-barcode-world-senyou-card-sukezaemon.json](./329742-barcode-world-senyou-card-sukezaemon.json) |
+| Barcode World Senyou Card: Vinyl no Katana | 329747 | [329747-barcode-world-senyou-card-vinyl-no-katana.json](./329747-barcode-world-senyou-card-vinyl-no-katana.json) |
+| Barcode World Senyou Card: Yumetaro & Ohagi (Gimmick) | 329741 | [329741-barcode-world-senyou-card-yumetaro-and-ohagi-gimmick.json](./329741-barcode-world-senyou-card-yumetaro-and-ohagi-gimmick.json) |
 | Bard to the Future | 36094 | [36094-bard-to-the-future.json](./36094-bard-to-the-future.json) |
 | Bard's Gold: Complete Edition | 214520 | [214520-bards-gold-complete-edition.json](./214520-bards-gold-complete-edition.json) |
 | Barda | 345592 | [345592-barda.json](./345592-barda.json) |
@@ -3897,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronkie the Bronchiasaurus | 42624 | [42624-bronkie-the-bronchiasaurus.json](./42624-bronkie-the-bronchiasaurus.json) |
 | Bronze Dragon: Conquest of Infinity | 122987 | [122987-bronze-dragon-conquest-of-infinity.json](./122987-bronze-dragon-conquest-of-infinity.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
+| Brookwood: Pocket Tactics | 329696 | [329696-brookwood-pocket-tactics.json](./329696-brookwood-pocket-tactics.json) |
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
 | Bros Survivors | 404928 | [404928-bros-survivors.json](./404928-bros-survivors.json) |
 | Brotato + Space Gladiators Bundle | 259575 | [259575-brotato-space-gladiators-bundle.json](./259575-brotato-space-gladiators-bundle.json) |
