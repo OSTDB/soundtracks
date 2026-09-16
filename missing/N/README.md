@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Kitties | 19593 | [19593-naughty-kitties.json](./19593-naughty-kitties.json) |
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
+| Nauticell | 324516 | [324516-nauticell.json](./324516-nauticell.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
 | Nautilus | 24937 | [24937-nautilus.json](./24937-nautilus.json) |
 | Nautilus Epoch | 166780 | [166780-nautilus-epoch.json](./166780-nautilus-epoch.json) |
@@ -921,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newly-wedded Woman Stealing Life | 279603 | [279603-newly-wedded-woman-stealing-life.json](./279603-newly-wedded-woman-stealing-life.json) |
 | NewPark Simon XL | 101507 | [101507-newpark-simon-xl.json](./101507-newpark-simon-xl.json) |
 | Newspaper Puzzle Challenge: Sudoku Edition | 210035 | [210035-newspaper-puzzle-challenge-sudoku-edition.json](./210035-newspaper-puzzle-challenge-sudoku-edition.json) |
+| Newsun | 324519 | [324519-newsun.json](./324519-newsun.json) |
 | Newton's House of Forces | 163948 | [163948-newtons-house-of-forces.json](./163948-newtons-house-of-forces.json) |
 | Newton's Promise | 388246 | [388246-newtons-promise.json](./388246-newtons-promise.json) |
 | Nex Machina | 26202 | [26202-nex-machina.json](./26202-nex-machina.json) |
