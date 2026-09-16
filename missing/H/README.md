@@ -1249,12 +1249,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls | 294164 | [294164-hentai-girls.json](./294164-hentai-girls.json) |
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
+| Hentai Girls: Fresh Firefighter | 300863 | [300863-hentai-girls-fresh-firefighter.json](./300863-hentai-girls-fresh-firefighter.json) |
 | Hentai Girls: Happy Edition | 290427 | [290427-hentai-girls-happy-edition.json](./290427-hentai-girls-happy-edition.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
 | Hentai Girls: Neko Pastry | 196785 | [196785-hentai-girls-neko-pastry.json](./196785-hentai-girls-neko-pastry.json) |
 | Hentai Girls: Paris Romance | 314871 | [314871-hentai-girls-paris-romance.json](./314871-hentai-girls-paris-romance.json) |
 | Hentai Girls: Platinum Edition | 283147 | [283147-hentai-girls-platinum-edition.json](./283147-hentai-girls-platinum-edition.json) |
 | Hentai Girls: Sexy Feet Goddesses | 296907 | [296907-hentai-girls-sexy-feet-goddesses.json](./296907-hentai-girls-sexy-feet-goddesses.json) |
+| Hentai Girls: Steamy Maid | 300864 | [300864-hentai-girls-steamy-maid.json](./300864-hentai-girls-steamy-maid.json) |
 | Hentai Girls: Ultra Extended | 308817 | [308817-hentai-girls-ultra-extended.json](./308817-hentai-girls-ultra-extended.json) |
 | Hentai Golf | 283177 | [283177-hentai-golf.json](./283177-hentai-golf.json) |
 | Hentai Golf: Complete + | 324468 | [324468-hentai-golf-complete.json](./324468-hentai-golf-complete.json) |
@@ -1324,7 +1326,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Ultra Deluxe | 316269 | [316269-hentai-stars-ultra-deluxe.json](./316269-hentai-stars-ultra-deluxe.json) |
 | Hentai Step Milf | 340452 | [340452-hentai-step-milf.json](./340452-hentai-step-milf.json) |
 | Hentai Sudoku | 146282 | [146282-hentai-sudoku.json](./146282-hentai-sudoku.json) |
+| Hentai Tales Bundle | 300866 | [300866-hentai-tales-bundle.json](./300866-hentai-tales-bundle.json) |
 | Hentai Tales Vol. 2: Hitomi and Sea Trip | 277309 | [277309-hentai-tales-vol-2-hitomi-and-sea-trip.json](./277309-hentai-tales-vol-2-hitomi-and-sea-trip.json) |
+| Hentai Tales Vol. 3 | 300865 | [300865-hentai-tales-vol-3.json](./300865-hentai-tales-vol-3.json) |
 | Hentai Tales: Academy's Record | 371357 | [371357-hentai-tales-academys-record.json](./371357-hentai-tales-academys-record.json) |
 | Hentai Tales: Breeding Order 2050 | 389605 | [389605-hentai-tales-breeding-order-2050.json](./389605-hentai-tales-breeding-order-2050.json) |
 | Hentai Tales: Bunny Hole | 340453 | [340453-hentai-tales-bunny-hole.json](./340453-hentai-tales-bunny-hole.json) |
