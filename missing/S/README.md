@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Bug | 44246 | [44246-shadow-bug.json](./44246-shadow-bug.json) |
 | Shadow Burglar | 191864 | [191864-shadow-burglar.json](./191864-shadow-burglar.json) |
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
+| Shadow City Mysteries: A Clockwork Noir | 290546 | [290546-shadow-city-mysteries-a-clockwork-noir.json](./290546-shadow-city-mysteries-a-clockwork-noir.json) |
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
 | Shadow Council: The Puppeteers | 102949 | [102949-shadow-council-the-puppeteers.json](./102949-shadow-council-the-puppeteers.json) |
 | Shadow Dancer | 308420 | [308420-shadow-dancer.json](./308420-shadow-dancer.json) |
@@ -3362,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap Fight | 37296 | [37296-slap-fight.json](./37296-slap-fight.json) |
 | Slap Shot | 81281 | [81281-slap-shot.json](./81281-slap-shot.json) |
 | Slap That | 311263 | [311263-slap-that.json](./311263-slap-that.json) |
+| Slap The King | 290552 | [290552-slap-the-king.json](./290552-slap-the-king.json) |
 | Slap-Shot! Hockey | 95424 | [95424-slap-shot-hockey.json](./95424-slap-shot-hockey.json) |
 | SlapGains | 413671 | [413671-slapgains.json](./413671-slapgains.json) |
 | Slappy Ass | 111121 | [111121-slappy-ass.json](./111121-slappy-ass.json) |
@@ -6139,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Sphere | 89999 | [89999-squirrel-sphere.json](./89999-squirrel-sphere.json) |
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
 | Squirreled Away | 314650 | [314650-squirreled-away.json](./314650-squirreled-away.json) |
+| Squirrels Gone Nuts | 290551 | [290551-squirrels-gone-nuts.json](./290551-squirrels-gone-nuts.json) |
 | Squish 'em | 23887 | [23887-squish-em.json](./23887-squish-em.json) |
 | Squish and the Corrupted Crystal | 47996 | [47996-squish-and-the-corrupted-crystal.json](./47996-squish-and-the-corrupted-crystal.json) |
 | Squish Machine | 113635 | [113635-squish-machine.json](./113635-squish-machine.json) |
@@ -7780,6 +7783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Game Planet | 366891 | [366891-suika-game-planet.json](./366891-suika-game-planet.json) |
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
 | Suika Monsters | 387352 | [387352-suika-monsters.json](./387352-suika-monsters.json) |
+| Suika Pets | 290549 | [290549-suika-pets.json](./290549-suika-pets.json) |
 | Suika Shapes | 276165 | [276165-suika-shapes.json](./276165-suika-shapes.json) |
 | Suika Wan! | 397064 | [397064-suika-wan.json](./397064-suika-wan.json) |
 | Suikan Quest | 82857 | [82857-suikan-quest.json](./82857-suikan-quest.json) |
@@ -9051,6 +9055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive: Battle Royale | 135817 | [135817-survive-battle-royale.json](./135817-survive-battle-royale.json) |
 | Survive: Frost Bite | 325710 | [325710-survive-frost-bite.json](./325710-survive-frost-bite.json) |
 | Survive.io Battle Ground | 100139 | [100139-survive-io-battle-ground.json](./100139-survive-io-battle-ground.json) |
+| Surviving Ceres | 290533 | [290533-surviving-ceres.json](./290533-surviving-ceres.json) |
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
 | Surviving Mars: Below and Beyond | 165620 | [165620-surviving-mars-below-and-beyond.json](./165620-surviving-mars-below-and-beyond.json) |
@@ -9081,6 +9086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors Of The Zombie World | 338294 | [338294-survivors-of-the-zombie-world.json](./338294-survivors-of-the-zombie-world.json) |
 | Survivors SymphonYs | 345007 | [345007-survivors-symphonys.json](./345007-survivors-symphonys.json) |
 | Survivors Will | 250347 | [250347-survivors-will.json](./250347-survivors-will.json) |
+| SUS | 290548 | [290548-sus.json](./290548-sus.json) |
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
 | Sus! | 377065 | [377065-sus.json](./377065-sus.json) |
 | Sushi Bar | 298874 | [298874-sushi-bar.json](./298874-sushi-bar.json) |
@@ -9245,6 +9251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetie Candy Maze: Violet Plum | 406218 | [406218-sweetie-candy-maze-violet-plum.json](./406218-sweetie-candy-maze-violet-plum.json) |
 | Sweets and Swipes | 259555 | [259555-sweets-and-swipes.json](./259555-sweets-and-swipes.json) |
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
+| Sweets Inc | 290531 | [290531-sweets-inc.json](./290531-sweets-inc.json) |
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
 | Sweety Sweets | 259024 | [259024-sweety-sweets.json](./259024-sweety-sweets.json) |
 | Swell | 262974 | [262974-swell.json](./262974-swell.json) |
@@ -9398,6 +9405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordsman | 7417 | [7417-swordsman.json](./7417-swordsman.json) |
 | Swordsman Night King | 401619 | [401619-swordsman-night-king.json](./401619-swordsman-night-king.json) |
 | Swordsman Online | 9738 | [9738-swordsman-online.json](./9738-swordsman-online.json) |
+| SwordSpin: Arena of Blades | 290547 | [290547-swordspin-arena-of-blades.json](./290547-swordspin-arena-of-blades.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
 | Syberia: Remastered | 344050 | [344050-syberia-remastered.json](./344050-syberia-remastered.json) |
