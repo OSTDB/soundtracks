@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary Grigsby's War in the Pacific | 69846 | [69846-gary-grigsbys-war-in-the-pacific.json](./69846-gary-grigsbys-war-in-the-pacific.json) |
 | Gary Grigsby's War in the West: Operation Torch | 154492 | [154492-gary-grigsbys-war-in-the-west-operation-torch.json](./154492-gary-grigsbys-war-in-the-west-operation-torch.json) |
 | Gary the Gull | 33169 | [33169-gary-the-gull.json](./33169-gary-the-gull.json) |
+| Gary's Fortune Telling Tent | 318643 | [318643-garys-fortune-telling-tent.json](./318643-garys-fortune-telling-tent.json) |
 | Gas Station Inc. | 255753 | [255753-gas-station-inc.json](./255753-gas-station-inc.json) |
 | Gas Station Manager 2026 | 393475 | [393475-gas-station-manager-2026.json](./393475-gas-station-manager-2026.json) |
 | Gas Station Simulator and Airstrip DLC Bundle | 286511 | [286511-gas-station-simulator-and-airstrip-dlc-bundle.json](./286511-gas-station-simulator-and-airstrip-dlc-bundle.json) |
