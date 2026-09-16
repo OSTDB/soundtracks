@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fēngshén Yīngjié Zhuán | 93061 | [93061-fengshen-yingjie-zhuan.json](./93061-fengshen-yingjie-zhuan.json) |
 | Fenimore Fillmore: The Westerner | 27496 | [27496-fenimore-fillmore-the-westerner.json](./27496-fenimore-fillmore-the-westerner.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
+| Fentanyl Edition | 327411 | [327411-fentanyl-edition.json](./327411-fentanyl-edition.json) |
 | Feodika | 382777 | [382777-feodika.json](./382777-feodika.json) |
 | Feral Echoes | 351689 | [351689-feral-echoes.json](./351689-feral-echoes.json) |
 | Ferarum | 396366 | [396366-ferarum.json](./396366-ferarum.json) |
@@ -3079,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostbitten | 199101 | [199101-frostbitten.json](./199101-frostbitten.json) |
 | Frostborn | 381040 | [381040-frostborn.json](./381040-frostborn.json) |
 | Frostborn: Coop Survival | 141199 | [141199-frostborn-coop-survival.json](./141199-frostborn-coop-survival.json) |
+| Frosted Love | 327402 | [327402-frosted-love.json](./327402-frosted-love.json) |
 | FrostFire: Battle Frenzy | 269023 | [269023-frostfire-battle-frenzy.json](./269023-frostfire-battle-frenzy.json) |
 | Frostliner | 358967 | [358967-frostliner.json](./358967-frostliner.json) |
 | Frostpunk: Console Edition | 117420 | [117420-frostpunk-console-edition.json](./117420-frostpunk-console-edition.json) |
