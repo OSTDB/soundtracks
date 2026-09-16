@@ -3703,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
 | Brain Teaser: Memory Limit | 117762 | [117762-brain-teaser-memory-limit.json](./117762-brain-teaser-memory-limit.json) |
 | Brain Test | 166733 | [166733-brain-test.json](./166733-brain-test.json) |
+| Brain Test 2: Tricky Stories | 297626 | [297626-brain-test-2-tricky-stories.json](./297626-brain-test-2-tricky-stories.json) |
 | Brain Tester: Mind Trick Quiz 2 | 301839 | [301839-brain-tester-mind-trick-quiz-2.json](./301839-brain-tester-mind-trick-quiz-2.json) |
 | Brain Vomits Garden | 203897 | [203897-brain-vomits-garden.json](./203897-brain-vomits-garden.json) |
 | Brain Wars | 83580 | [83580-brain-wars.json](./83580-brain-wars.json) |
@@ -3915,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breezy Paws | 274735 | [274735-breezy-paws.json](./274735-breezy-paws.json) |
 | Brelok: Nezumi-tachi no Dasshutsu | 330509 | [330509-brelok-nezumi-tachi-no-dasshutsu.json](./330509-brelok-nezumi-tachi-no-dasshutsu.json) |
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
+| Bretonne Lais | 297609 | [297609-bretonne-lais.json](./297609-bretonne-lais.json) |
 | Brett Hull Hockey | 42633 | [42633-brett-hull-hockey.json](./42633-brett-hull-hockey.json) |
 | Brew & Brawl: Gnomes vs. Dwarves | 140530 | [140530-brew-and-brawl-gnomes-vs-dwarves.json](./140530-brew-and-brawl-gnomes-vs-dwarves.json) |
 | Brewgether | 406123 | [406123-brewgether.json](./406123-brewgether.json) |
@@ -4308,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Builders of Greece | 217337 | [217337-builders-of-greece.json](./217337-builders-of-greece.json) |
 | Building & Co | 79285 | [79285-building-and-co.json](./79285-building-and-co.json) |
 | Building 37 | 185603 | [185603-building-37.json](./185603-building-37.json) |
+| Building Block Simulator | 297636 | [297636-building-block-simulator.json](./297636-building-block-simulator.json) |
 | Building Block: Castle & City Craft Simulator | 89277 | [89277-building-block-castle-and-city-craft-simulator.json](./89277-building-block-castle-and-city-craft-simulator.json) |
 | Building Blocks / Master Builder of Egypt | 81219 | [81219-building-blocks-master-builder-of-egypt.json](./81219-building-blocks-master-builder-of-egypt.json) |
 | Building our Futature | 223500 | [223500-building-our-futature.json](./223500-building-our-futature.json) |
