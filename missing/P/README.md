@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patchworld | 316399 | [316399-patchworld.json](./316399-patchworld.json) |
 | Path Ball | 341590 | [341590-path-ball.json](./341590-path-ball.json) |
 | Path of Achra | 222738 | [222738-path-of-achra.json](./222738-path-of-achra.json) |
+| Path of Ambition: The Sun Rise | 295375 | [295375-path-of-ambition-the-sun-rise.json](./295375-path-of-ambition-the-sun-rise.json) |
 | Path of Ascension | 259003 | [259003-path-of-ascension.json](./259003-path-of-ascension.json) |
 | Path of Destruction | 195773 | [195773-path-of-destruction.json](./195773-path-of-destruction.json) |
 | Path of Exile 2: The Last of the Druids | 378276 | [378276-path-of-exile-2-the-last-of-the-druids.json](./378276-path-of-exile-2-the-last-of-the-druids.json) |
@@ -2896,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Bowler 1st Frame | 294452 | [294452-polar-bowler-1st-frame.json](./294452-polar-bowler-1st-frame.json) |
 | Polar Panic | 21768 | [21768-polar-panic.json](./21768-polar-panic.json) |
 | Polar Panic | 275603 | [275603-polar-panic.json](./275603-polar-panic.json) |
+| Polar Pathways | 295386 | [295386-polar-pathways.json](./295386-polar-pathways.json) |
 | Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
 | Polary | 163953 | [163953-polary.json](./163953-polary.json) |
 | PolClash | 367964 | [367964-polclash.json](./367964-polclash.json) |
