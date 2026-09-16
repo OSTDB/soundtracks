@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga | 266812 | [266812-saga.json](./266812-saga.json) |
 | SaGa 2: A Haniwa's Contingency | 360104 | [360104-saga-2-a-haniwas-contingency.json](./360104-saga-2-a-haniwas-contingency.json) |
 | SaGa Frontier 2 Remastered | 294870 | [294870-saga-frontier-2-remastered.json](./294870-saga-frontier-2-remastered.json) |
+| Saga of Guardians | 322764 | [322764-saga-of-guardians.json](./322764-saga-of-guardians.json) |
 | Saga of Sins | 211238 | [211238-saga-of-sins.json](./211238-saga-of-sins.json) |
 | Saga of the Moon Priestess | 274507 | [274507-saga-of-the-moon-priestess.json](./274507-saga-of-the-moon-priestess.json) |
 | Saga of the Nine Worlds: The Gathering | 74311 | [74311-saga-of-the-nine-worlds-the-gathering.json](./74311-saga-of-the-nine-worlds-the-gathering.json) |
@@ -693,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarecrow: Heart of Straw | 408146 | [408146-scarecrow-heart-of-straw.json](./408146-scarecrow-heart-of-straw.json) |
 | Scarecrows of Illyria | 211758 | [211758-scarecrows-of-illyria.json](./211758-scarecrows-of-illyria.json) |
 | Scared of Zombies | 371860 | [371860-scared-of-zombies.json](./371860-scared-of-zombies.json) |
+| Scared Rider Xechs + Stardust Lovers | 322811 | [322811-scared-rider-xechs-stardust-lovers.json](./322811-scared-rider-xechs-stardust-lovers.json) |
 | Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
 | Scarf | 106836 | [106836-scarf.json](./106836-scarf.json) |
@@ -3390,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliiide! | 221757 | [221757-sliiide.json](./221757-sliiide.json) |
 | Sliko | 156141 | [156141-sliko.json](./156141-sliko.json) |
 | Slime | 407438 | [407438-slime.json](./407438-slime.json) |
+| Slime 3k: Demake | 322759 | [322759-slime-3k-demake.json](./322759-slime-3k-demake.json) |
 | Slime Age: Parody MMORPG Clicker | 108411 | [108411-slime-age-parody-mmorpg-clicker.json](./108411-slime-age-parody-mmorpg-clicker.json) |
 | Slime and Rancher | 102756 | [102756-slime-and-rancher.json](./102756-slime-and-rancher.json) |
 | Slime Buddy Time | 390626 | [390626-slime-buddy-time.json](./390626-slime-buddy-time.json) |
@@ -8128,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Deluxe | 49877 | [49877-super-mario-bros-deluxe.json](./49877-super-mario-bros-deluxe.json) |
 | Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
+| Super Mario Bros. MM | 322779 | [322779-super-mario-bros-mm.json](./322779-super-mario-bros-mm.json) |
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
 | Super Mario Bros. Wonder | 254339 | [254339-super-mario-bros-wonder.json](./254339-super-mario-bros-wonder.json) |
 | Super Mario Bros.: Raiders of the Painting Realms | 323897 | [323897-super-mario-bros-raiders-of-the-painting-realms.json](./323897-super-mario-bros-raiders-of-the-painting-realms.json) |
@@ -8141,6 +8145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
 | Super Mario Flash 2: SMW Remake | 198502 | [198502-super-mario-flash-2-smw-remake.json](./198502-super-mario-flash-2-smw-remake.json) |
 | Super Mario Flashback | 134075 | [134075-super-mario-flashback.json](./134075-super-mario-flashback.json) |
+| Super Mario Fusion: Revival | 322786 | [322786-super-mario-fusion-revival.json](./322786-super-mario-fusion-revival.json) |
 | Super Mario Galaxy | 366899 | [366899-super-mario-galaxy.json](./366899-super-mario-galaxy.json) |
 | Super Mario Galaxy 2 | 366900 | [366900-super-mario-galaxy-2.json](./366900-super-mario-galaxy-2.json) |
 | Super Mario Galaxy 63 | 294714 | [294714-super-mario-galaxy-63.json](./294714-super-mario-galaxy-63.json) |
@@ -8208,6 +8213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario's Jammin' Journey 64 | 135163 | [135163-super-marios-jammin-journey-64.json](./135163-super-marios-jammin-journey-64.json) |
 | Super Mariofell 64 | 397048 | [397048-super-mariofell-64.json](./397048-super-mariofell-64.json) |
 | Super Marisa World | 77351 | [77351-super-marisa-world.json](./77351-super-marisa-world.json) |
+| Super Marisa World Fusion | 322790 | [322790-super-marisa-world-fusion.json](./322790-super-marisa-world-fusion.json) |
 | Super Market | 320533 | [320533-super-market.json](./320533-super-market.json) |
 | Super Markup Man | 32037 | [32037-super-markup-man.json](./32037-super-markup-man.json) |
 | Super Masao 2 | 165061 | [165061-super-masao-2.json](./165061-super-masao-2.json) |
@@ -8497,6 +8503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tutor: Spelling | 59376 | [59376-super-tutor-spelling.json](./59376-super-tutor-spelling.json) |
 | Super Tyrone Land | 142464 | [142464-super-tyrone-land.json](./142464-super-tyrone-land.json) |
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
+| Super UDK & RU Country | 322792 | [322792-super-udk-and-ru-country.json](./322792-super-udk-and-ru-country.json) |
 | Super Ultimate Fighters X | 381710 | [381710-super-ultimate-fighters-x.json](./381710-super-ultimate-fighters-x.json) |
 | Super Ultra Monster Smash! | 51597 | [51597-super-ultra-monster-smash.json](./51597-super-ultra-monster-smash.json) |
 | Super Ultra Mustard Man | 351737 | [351737-super-ultra-mustard-man.json](./351737-super-ultra-mustard-man.json) |
