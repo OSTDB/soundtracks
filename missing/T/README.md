@@ -1293,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetra's Escape | 106530 | [106530-tetras-escape.json](./106530-tetras-escape.json) |
 | TetraLogical | 115531 | [115531-tetralogical.json](./115531-tetralogical.json) |
 | Tetraminis Deffect | 284352 | [284352-tetraminis-deffect.json](./284352-tetraminis-deffect.json) |
+| Tetraminos | 308977 | [308977-tetraminos.json](./308977-tetraminos.json) |
 | Tetraphobia | 124740 | [124740-tetraphobia.json](./124740-tetraphobia.json) |
 | Tetraspace | 59929 | [59929-tetraspace.json](./59929-tetraspace.json) |
 | TetraTower | 183506 | [183506-tetratower.json](./183506-tetratower.json) |
