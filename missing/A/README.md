@@ -620,7 +620,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
 | Ahegal | 110446 | [110446-ahegal.json](./110446-ahegal.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
-| Ahlman Arcade 2018 | 106546 | [106546-ahlman-arcade-2018.json](./106546-ahlman-arcade-2018.json) |
 | Ahmes | 200704 | [200704-ahmes.json](./200704-ahmes.json) |
 | Ahri and Bear | 166760 | [166760-ahri-and-bear.json](./166760-ahri-and-bear.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
