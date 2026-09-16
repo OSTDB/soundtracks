@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | illuminati Simulator VR | 156142 | [156142-illuminati-simulator-vr.json](./156142-illuminati-simulator-vr.json) |
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
 | Illuminum | 343923 | [343923-illuminum.json](./343923-illuminum.json) |
+| Illurama: Masters of Illusions | 316276 | [316276-illurama-masters-of-illusions.json](./316276-illurama-masters-of-illusions.json) |
 | Illusion | 211960 | [211960-illusion.json](./211960-illusion.json) |
 | Illusion | 81280 | [81280-illusion.json](./81280-illusion.json) |
 | Illusion Connect | 139382 | [139382-illusion-connect.json](./139382-illusion-connect.json) |
