@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T05:01:55.172Z",
-  "total_missing": 76684,
+  "generated_at": "2026-09-16T05:11:40.922Z",
+  "total_missing": 76690,
   "games": [
     {
       "igdb_id": 306086,
@@ -5388,6 +5388,11 @@
       "file": "missing/A/124175-aeronaut.json"
     },
     {
+      "igdb_id": 325102,
+      "game_name": "Aesthetic",
+      "file": "missing/A/325102-aesthetic.json"
+    },
+    {
       "igdb_id": 218138,
       "game_name": "Aestik",
       "file": "missing/A/218138-aestik.json"
@@ -5791,11 +5796,6 @@
       "igdb_id": 232449,
       "game_name": "Agent Roy: Zombie Hunt",
       "file": "missing/A/232449-agent-roy-zombie-hunt.json"
-    },
-    {
-      "igdb_id": 357802,
-      "game_name": "Agent Sirius",
-      "file": "missing/A/357802-agent-sirius.json"
     },
     {
       "igdb_id": 208011,
@@ -74038,6 +74038,11 @@
       "file": "missing/D/324908-dcs-world-uh-1h-peacekeeper-lebanon-campaign-by-flying-cyking.json"
     },
     {
+      "igdb_id": 325096,
+      "game_name": "DCS World: UH-1H Worlds Apart Stormfront Campaign by Low-Level-Heaven Mission Development",
+      "file": "missing/D/325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json"
+    },
+    {
       "igdb_id": 27782,
       "game_name": "DCS: Normandy 1944",
       "file": "missing/D/27782-dcs-normandy-1944.json"
@@ -83681,6 +83686,11 @@
       "igdb_id": 112281,
       "game_name": "Dodgeball Dino Duel",
       "file": "missing/D/112281-dodgeball-dino-duel.json"
+    },
+    {
+      "igdb_id": 325101,
+      "game_name": "DodgeCraft",
+      "file": "missing/D/325101-dodgecraft.json"
     },
     {
       "igdb_id": 213989,
@@ -112083,6 +112093,11 @@
       "file": "missing/F/23731-flappy-meatbag.json"
     },
     {
+      "igdb_id": 325099,
+      "game_name": "Flappy Monkey",
+      "file": "missing/F/325099-flappy-monkey.json"
+    },
+    {
       "igdb_id": 137665,
       "game_name": "Flappy Navalny",
       "file": "missing/F/137665-flappy-navalny.json"
@@ -138166,6 +138181,11 @@
       "igdb_id": 143005,
       "game_name": "Heated Battles Shooter",
       "file": "missing/H/143005-heated-battles-shooter.json"
+    },
+    {
+      "igdb_id": 325097,
+      "game_name": "Heathcliff: Fun with Spelling",
+      "file": "missing/H/325097-heathcliff-fun-with-spelling.json"
     },
     {
       "igdb_id": 401473,
@@ -290183,6 +290203,11 @@
       "file": "missing/S/237308-sonic-the-hedgehog-spinball.json"
     },
     {
+      "igdb_id": 325095,
+      "game_name": "Sonic the Hedgehog: The Blue Blur! Super Sonic - Quiz Game",
+      "file": "missing/S/325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json"
+    },
+    {
       "igdb_id": 330700,
       "game_name": "Sonic the Hedgehog: The Freedom Fighters",
       "file": "missing/S/330700-sonic-the-hedgehog-the-freedom-fighters.json"
@@ -335066,6 +335091,11 @@
       "igdb_id": 294438,
       "game_name": "The Super Mario Bros. Super Literature Club!",
       "file": "missing/T/294438-the-super-mario-bros-super-literature-club.json"
+    },
+    {
+      "igdb_id": 325094,
+      "game_name": "The Super Mario Bros. Super Show: Mario's Greatest Movie Moments - Quiz Game",
+      "file": "missing/T/325094-the-super-mario-bros-super-show-marios-greatest-movie-moments-quiz-game.json"
     },
     {
       "igdb_id": 135268,
