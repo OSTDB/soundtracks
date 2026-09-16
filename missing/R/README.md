@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
 | Raccoon Lagoon | 133388 | [133388-raccoon-lagoon.json](./133388-raccoon-lagoon.json) |
 | Raccoon Laundering | 307129 | [307129-raccoon-laundering.json](./307129-raccoon-laundering.json) |
+| Raccoon Out | 300017 | [300017-raccoon-out.json](./300017-raccoon-out.json) |
 | Raccoon Party | 401696 | [401696-raccoon-party.json](./401696-raccoon-party.json) |
 | Raccoon Roller | 211218 | [211218-raccoon-roller.json](./211218-raccoon-roller.json) |
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
@@ -3204,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
 | Running King | 83559 | [83559-running-king.json](./83559-running-king.json) |
 | Running Knight | 308401 | [308401-running-knight.json](./308401-running-knight.json) |
+| Running Late | 300029 | [300029-running-late.json](./300029-running-late.json) |
 | Running Late 2 | 256842 | [256842-running-late-2.json](./256842-running-late-2.json) |
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Out of Spice | 179143 | [179143-running-out-of-spice.json](./179143-running-out-of-spice.json) |
