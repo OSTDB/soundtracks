@@ -587,7 +587,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Intercept | 122635 | [122635-agent-intercept.json](./122635-agent-intercept.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
 | Agent of Strange | 355023 | [355023-agent-of-strange.json](./355023-agent-of-strange.json) |
-| Agent of Veil | 346595 | [346595-agent-of-veil.json](./346595-agent-of-veil.json) |
 | Agent Panda | 357801 | [357801-agent-panda.json](./357801-agent-panda.json) |
 | Agent Pigeon 7 | 374042 | [374042-agent-pigeon-7.json](./374042-agent-pigeon-7.json) |
 | Agent Roy: Secure the Temple | 229331 | [229331-agent-roy-secure-the-temple.json](./229331-agent-roy-secure-the-temple.json) |
@@ -1481,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber Time Pocket | 226220 | [226220-amber-time-pocket.json](./226220-amber-time-pocket.json) |
 | Amber's Airline: 7 Wonders | 116726 | [116726-ambers-airline-7-wonders.json](./116726-ambers-airline-7-wonders.json) |
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
+| Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
 | Ambient Water | 66606 | [66606-ambient-water.json](./66606-ambient-water.json) |
 | Ambitions: Birth of a President | 140568 | [140568-ambitions-birth-of-a-president.json](./140568-ambitions-birth-of-a-president.json) |
@@ -3371,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
 | Astro Bot: Vicious Void | 331293 | [331293-astro-bot-vicious-void.json](./331293-astro-bot-vicious-void.json) |
 | Astro Bot: Vicious Void Galaxy | 347137 | [347137-astro-bot-vicious-void-galaxy.json](./347137-astro-bot-vicious-void-galaxy.json) |
+| Astro Bot: Winter Wonder | 325698 | [325698-astro-bot-winter-wonder.json](./325698-astro-bot-winter-wonder.json) |
 | Astro Bouncer | 103472 | [103472-astro-bouncer.json](./103472-astro-bouncer.json) |
 | Astro Boy Dash | 58274 | [58274-astro-boy-dash.json](./58274-astro-boy-dash.json) |
 | Astro Boy Flight! | 58276 | [58276-astro-boy-flight.json](./58276-astro-boy-flight.json) |
