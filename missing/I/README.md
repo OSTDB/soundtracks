@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Borders | 264030 | [264030-infinite-borders.json](./264030-infinite-borders.json) |
 | Infinite Canyon | 360646 | [360646-infinite-canyon.json](./360646-infinite-canyon.json) |
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
+| Infinite Chump | 287750 | [287750-infinite-chump.json](./287750-infinite-chump.json) |
 | Infinite Construction | 192442 | [192442-infinite-construction.json](./192442-infinite-construction.json) |
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
@@ -1503,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Hunters | 296943 | [296943-iron-hunters.json](./296943-iron-hunters.json) |
 | Iron John Hawk: The Shards Of Power | 210025 | [210025-iron-john-hawk-the-shards-of-power.json](./210025-iron-john-hawk-the-shards-of-power.json) |
 | Iron Legacy | 400865 | [400865-iron-legacy.json](./400865-iron-legacy.json) |
+| Iron Line | 287785 | [287785-iron-line.json](./287785-iron-line.json) |
 | Iron Maiden: Legacy of the Beast | 16473 | [16473-iron-maiden-legacy-of-the-beast.json](./16473-iron-maiden-legacy-of-the-beast.json) |
 | Iron Man | 200688 | [200688-iron-man.json](./200688-iron-man.json) |
 | Iron Man | 257213 | [257213-iron-man.json](./257213-iron-man.json) |
