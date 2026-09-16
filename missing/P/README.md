@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
 | Parse Ally | 114442 | [114442-parse-ally.json](./114442-parse-ally.json) |
+| Parse-O-Rhythm | 305940 | [305940-parse-o-rhythm.json](./305940-parse-o-rhythm.json) |
 | Parsec | 341593 | [341593-parsec.json](./341593-parsec.json) |
 | Parsec Lost in Space | 255972 | [255972-parsec-lost-in-space.json](./255972-parsec-lost-in-space.json) |
 | Parsnip | 96108 | [96108-parsnip.json](./96108-parsnip.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penkura | 110860 | [110860-penkura.json](./110860-penkura.json) |
 | Penky | 267937 | [267937-penky.json](./267937-penky.json) |
 | Pennies 12 | 393636 | [393636-pennies-12.json](./393636-pennies-12.json) |
+| Pennon and Battle | 305919 | [305919-pennon-and-battle.json](./305919-pennon-and-battle.json) |
 | Penny Arcade Adventures: On the Rain-Slick | 144932 | [144932-penny-arcade-adventures-on-the-rain-slick.json](./144932-penny-arcade-adventures-on-the-rain-slick.json) |
 | Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness - Episode Two | 14917 | [14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json](./14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json) |
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 3 | 14980 | [14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json](./14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json) |
@@ -1162,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persha and the Magic Labyrinth: Arabian Nyaights | 264901 | [264901-persha-and-the-magic-labyrinth-arabian-nyaights.json](./264901-persha-and-the-magic-labyrinth-arabian-nyaights.json) |
 | Persha and the Magic Puzzle: Arabian Nyaights | 235210 | [235210-persha-and-the-magic-puzzle-arabian-nyaights.json](./235210-persha-and-the-magic-puzzle-arabian-nyaights.json) |
 | Persist | 223681 | [223681-persist.json](./223681-persist.json) |
+| Persnippety | 305942 | [305942-persnippety.json](./305942-persnippety.json) |
 | Perso | 30781 | [30781-perso.json](./30781-perso.json) |
 | Persona 2 Batsu: Infinity Mask | 138231 | [138231-persona-2-batsu-infinity-mask.json](./138231-persona-2-batsu-infinity-mask.json) |
 | Persona 2 Tsumi: Lost Memories | 138268 | [138268-persona-2-tsumi-lost-memories.json](./138268-persona-2-tsumi-lost-memories.json) |
@@ -1579,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross: Lord of the Nazarick | 120899 | [120899-picross-lord-of-the-nazarick.json](./120899-picross-lord-of-the-nazarick.json) |
 | Picross.io | 126640 | [126640-picross-io.json](./126640-picross-io.json) |
 | Picscape | 339347 | [339347-picscape.json](./339347-picscape.json) |
+| Picterra | 305957 | [305957-picterra.json](./305957-picterra.json) |
 | PictoImage | 84824 | [84824-pictoimage.json](./84824-pictoimage.json) |
 | PictoPull | 212811 | [212811-pictopull.json](./212811-pictopull.json) |
 | Pictorbit | 414358 | [414358-pictorbit.json](./414358-pictorbit.json) |
@@ -3799,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Cobalt | 366310 | [366310-project-cobalt.json](./366310-project-cobalt.json) |
 | Project Confrontation | 57051 | [57051-project-confrontation.json](./57051-project-confrontation.json) |
 | Project Crimson | 166735 | [166735-project-crimson.json](./166735-project-crimson.json) |
+| Project Cube | 305920 | [305920-project-cube.json](./305920-project-cube.json) |
 | Project D | 255117 | [255117-project-d.json](./255117-project-d.json) |
 | Project D | 305783 | [305783-project-d.json](./305783-project-d.json) |
 | Project D: Human Risen | 126632 | [126632-project-d-human-risen.json](./126632-project-d-human-risen.json) |
