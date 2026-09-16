@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Found Footage | 338186 | [338186-backrooms-found-footage.json](./338186-backrooms-found-footage.json) |
 | Backrooms: Hide Together | 340939 | [340939-backrooms-hide-together.json](./340939-backrooms-hide-together.json) |
 | BackRooms: Lost | 301270 | [301270-backrooms-lost.json](./301270-backrooms-lost.json) |
+| Backrooms: Lost Place | 290543 | [290543-backrooms-lost-place.json](./290543-backrooms-lost-place.json) |
 | Backrooms: Meg Archives | 292297 | [292297-backrooms-meg-archives.json](./292297-backrooms-meg-archives.json) |
 | Backrooms: One | 406835 | [406835-backrooms-one.json](./406835-backrooms-one.json) |
 | Backrooms: Perpetual | 205072 | [205072-backrooms-perpetual.json](./205072-backrooms-perpetual.json) |
@@ -2862,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood of Patriots | 86318 | [86318-blood-of-patriots.json](./86318-blood-of-patriots.json) |
 | Blood of Rations | 408031 | [408031-blood-of-rations.json](./408031-blood-of-rations.json) |
 | Blood of the Covenant | 217864 | [217864-blood-of-the-covenant.json](./217864-blood-of-the-covenant.json) |
+| Blood of the Elves | 290560 | [290560-blood-of-the-elves.json](./290560-blood-of-the-elves.json) |
 | Blood of the Killer | 178572 | [178572-blood-of-the-killer.json](./178572-blood-of-the-killer.json) |
 | Blood Omen 2: Legacy of Kain | 323372 | [323372-blood-omen-2-legacy-of-kain.json](./323372-blood-omen-2-legacy-of-kain.json) |
 | Blood Omen 2: Legacy of Kain | 3823 | [3823-blood-omen-2-legacy-of-kain.json](./3823-blood-omen-2-legacy-of-kain.json) |
