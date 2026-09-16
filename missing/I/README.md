@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolated | 86116 | [86116-isolated.json](./86116-isolated.json) |
 | Isolated Life | 156119 | [156119-isolated-life.json](./156119-isolated-life.json) |
 | Isolated Room | 229024 | [229024-isolated-room.json](./229024-isolated-room.json) |
+| Isolation | 293242 | [293242-isolation.json](./293242-isolation.json) |
 | Isolation | 29945 | [29945-isolation.json](./29945-isolation.json) |
 | Isolationist Nightclub Simulator | 148523 | [148523-isolationist-nightclub-simulator.json](./148523-isolationist-nightclub-simulator.json) |
 | Isolomus | 141814 | [141814-isolomus.json](./141814-isolomus.json) |
