@@ -636,6 +636,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Street Fighter II - 36. Bear Claw | 388035 | [388035-barcode-battler-ii-street-fighter-ii-36-bear-claw.json](./388035-barcode-battler-ii-street-fighter-ii-36-bear-claw.json) |
 | Barcode Battler II: Street Fighter II - 37. Double Knee Bomber | 388036 | [388036-barcode-battler-ii-street-fighter-ii-37-double-knee-bomber.json](./388036-barcode-battler-ii-street-fighter-ii-37-double-knee-bomber.json) |
 | Barcode Battler II: Street Fighter II - 38. Rolling Nail | 388037 | [388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json](./388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json) |
+| Barcode Battler II: Super Mario World - 1Up-Kinoko | 328648 | [328648-barcode-battler-ii-super-mario-world-1up-kinoko.json](./328648-barcode-battler-ii-super-mario-world-1up-kinoko.json) |
+| Barcode Battler II: Super Mario World - Bodypress | 328650 | [328650-barcode-battler-ii-super-mario-world-bodypress.json](./328650-barcode-battler-ii-super-mario-world-bodypress.json) |
+| Barcode Battler II: Super Mario World - Buibui | 328635 | [328635-barcode-battler-ii-super-mario-world-buibui.json](./328635-barcode-battler-ii-super-mario-world-buibui.json) |
+| Barcode Battler II: Super Mario World - Bul | 328640 | [328640-barcode-battler-ii-super-mario-world-bul.json](./328640-barcode-battler-ii-super-mario-world-bul.json) |
+| Barcode Battler II: Super Mario World - Chibi-Yossy | 328649 | [328649-barcode-battler-ii-super-mario-world-chibi-yossy.json](./328649-barcode-battler-ii-super-mario-world-chibi-yossy.json) |
+| Barcode Battler II: Super Mario World - Choropoo | 328634 | [328634-barcode-battler-ii-super-mario-world-choropoo.json](./328634-barcode-battler-ii-super-mario-world-choropoo.json) |
+| Barcode Battler II: Super Mario World - Gooska | 328636 | [328636-barcode-battler-ii-super-mario-world-gooska.json](./328636-barcode-battler-ii-super-mario-world-gooska.json) |
+| Barcode Battler II: Super Mario World - Hanachan | 328638 | [328638-barcode-battler-ii-super-mario-world-hanachan.json](./328638-barcode-battler-ii-super-mario-world-hanachan.json) |
+| Barcode Battler II: Super Mario World - Jugem | 328637 | [328637-barcode-battler-ii-super-mario-world-jugem.json](./328637-barcode-battler-ii-super-mario-world-jugem.json) |
+| Barcode Battler II: Super Mario World - Kamek | 328644 | [328644-barcode-battler-ii-super-mario-world-kamek.json](./328644-barcode-battler-ii-super-mario-world-kamek.json) |
+| Barcode Battler II: Super Mario World - Koopa | 328647 | [328647-barcode-battler-ii-super-mario-world-koopa.json](./328647-barcode-battler-ii-super-mario-world-koopa.json) |
+| Barcode Battler II: Super Mario World - Larry | 328639 | [328639-barcode-battler-ii-super-mario-world-larry.json](./328639-barcode-battler-ii-super-mario-world-larry.json) |
+| Barcode Battler II: Super Mario World - Ludwig | 328643 | [328643-barcode-battler-ii-super-mario-world-ludwig.json](./328643-barcode-battler-ii-super-mario-world-ludwig.json) |
+| Barcode Battler II: Super Mario World - Luigi | 328626 | [328626-barcode-battler-ii-super-mario-world-luigi.json](./328626-barcode-battler-ii-super-mario-world-luigi.json) |
+| Barcode Battler II: Super Mario World - Magnum-Killer | 328642 | [328642-barcode-battler-ii-super-mario-world-magnum-killer.json](./328642-barcode-battler-ii-super-mario-world-magnum-killer.json) |
+| Barcode Battler II: Super Mario World - Manto Game | 328632 | [328632-barcode-battler-ii-super-mario-world-manto-game.json](./328632-barcode-battler-ii-super-mario-world-manto-game.json) |
+| Barcode Battler II: Super Mario World - Manto-Hane | 328651 | [328651-barcode-battler-ii-super-mario-world-manto-hane.json](./328651-barcode-battler-ii-super-mario-world-manto-hane.json) |
+| Barcode Battler II: Super Mario World - Mario | 328625 | [328625-barcode-battler-ii-super-mario-world-mario.json](./328625-barcode-battler-ii-super-mario-world-mario.json) |
+| Barcode Battler II: Super Mario World - Mecha Koopa | 328646 | [328646-barcode-battler-ii-super-mario-world-mecha-koopa.json](./328646-barcode-battler-ii-super-mario-world-mecha-koopa.json) |
+| Barcode Battler II: Super Mario World - P-Pakkun | 328631 | [328631-barcode-battler-ii-super-mario-world-p-pakkun.json](./328631-barcode-battler-ii-super-mario-world-p-pakkun.json) |
+| Barcode Battler II: Super Mario World - Pata Pata | 328630 | [328630-barcode-battler-ii-super-mario-world-pata-pata.json](./328630-barcode-battler-ii-super-mario-world-pata-pata.json) |
+| Barcode Battler II: Super Mario World - Telesauls | 328628 | [328628-barcode-battler-ii-super-mario-world-telesauls.json](./328628-barcode-battler-ii-super-mario-world-telesauls.json) |
+| Barcode Battler II: Super Mario World - Togezo | 328633 | [328633-barcode-battler-ii-super-mario-world-togezo.json](./328633-barcode-battler-ii-super-mario-world-togezo.json) |
+| Barcode Battler II: Super Mario World - Unbaba | 328641 | [328641-barcode-battler-ii-super-mario-world-unbaba.json](./328641-barcode-battler-ii-super-mario-world-unbaba.json) |
+| Barcode Battler II: Super Mario World - Yossy | 328627 | [328627-barcode-battler-ii-super-mario-world-yossy.json](./328627-barcode-battler-ii-super-mario-world-yossy.json) |
 | Barcode Knight | 173808 | [173808-barcode-knight.json](./173808-barcode-knight.json) |
 | Barcode warriors | 140557 | [140557-barcode-warriors.json](./140557-barcode-warriors.json) |
 | Barcode World Senyou Card: Barrier Rod | 329746 | [329746-barcode-world-senyou-card-barrier-rod.json](./329746-barcode-world-senyou-card-barrier-rod.json) |
@@ -970,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Forever | 32879 | [32879-battle-forever.json](./32879-battle-forever.json) |
 | Battle Fortress Defence | 200114 | [200114-battle-fortress-defence.json](./200114-battle-fortress-defence.json) |
 | Battle Frenzy | 5361 | [5361-battle-frenzy.json](./5361-battle-frenzy.json) |
+| Battle Frenzy Collection | 328570 | [328570-battle-frenzy-collection.json](./328570-battle-frenzy-collection.json) |
 | Battle Gear | 223441 | [223441-battle-gear.json](./223441-battle-gear.json) |
 | Battle Gear 4 | 64964 | [64964-battle-gear-4.json](./64964-battle-gear-4.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
@@ -1391,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Them Up: Box Simulator | 234626 | [234626-beat-them-up-box-simulator.json](./234626-beat-them-up-box-simulator.json) |
 | Beat Them Up: Street Fight Band Simulator | 251598 | [251598-beat-them-up-street-fight-band-simulator.json](./251598-beat-them-up-street-fight-band-simulator.json) |
 | Beat Time | 91439 | [91439-beat-time.json](./91439-beat-time.json) |
+| Beat Up Bowser! | 328609 | [328609-beat-up-bowser.json](./328609-beat-up-bowser.json) |
 | Beat Vector | 393465 | [393465-beat-vector.json](./393465-beat-vector.json) |
 | Beat Weaver | 393657 | [393657-beat-weaver.json](./393657-beat-weaver.json) |
 | BeatBlasters III | 9045 | [9045-beatblasters-iii.json](./9045-beatblasters-iii.json) |
@@ -3476,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowmasters | 71911 | [71911-bowmasters.json](./71911-bowmasters.json) |
 | Bowmen | 129731 | [129731-bowmen.json](./129731-bowmen.json) |
 | Bows Space | 359396 | [359396-bows-space.json](./359396-bows-space.json) |
+| Bowser's Diary: Take the Quiz! | 328602 | [328602-bowsers-diary-take-the-quiz.json](./328602-bowsers-diary-take-the-quiz.json) |
 | Bowser's Fury | 142909 | [142909-bowsers-fury.json](./142909-bowsers-fury.json) |
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
 | Bowslinger | 33088 | [33088-bowslinger.json](./33088-bowslinger.json) |
@@ -4146,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build It: Miami Beach Resort | 341017 | [341017-build-it-miami-beach-resort.json](./341017-build-it-miami-beach-resort.json) |
 | Build Lands | 201239 | [201239-build-lands.json](./201239-build-lands.json) |
 | Build Royale | 112275 | [112275-build-royale.json](./112275-build-royale.json) |
+| Build The Sun | 328584 | [328584-build-the-sun.json](./328584-build-the-sun.json) |
 | Build Wars | 96664 | [96664-build-wars.json](./96664-build-wars.json) |
 | Build-A-Bear Workshop: Bear Valley | 104593 | [104593-build-a-bear-workshop-bear-valley.json](./104593-build-a-bear-workshop-bear-valley.json) |
 | BuildCraft | 232655 | [232655-buildcraft.json](./232655-buildcraft.json) |
