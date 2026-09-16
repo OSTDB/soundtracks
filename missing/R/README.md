@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race to Kyiv | 392804 | [392804-race-to-kyiv.json](./392804-race-to-kyiv.json) |
 | Race to Mars | 16737 | [16737-race-to-mars.json](./16737-race-to-mars.json) |
 | Race To The Sea | 372479 | [372479-race-to-the-sea.json](./372479-race-to-the-sea.json) |
+| Race Track Maniacs | 333527 | [333527-race-track-maniacs.json](./333527-race-track-maniacs.json) |
 | Race: Rocket Arena Car Extreme | 226724 | [226724-race-rocket-arena-car-extreme.json](./226724-race-rocket-arena-car-extreme.json) |
 | Race.a.bit | 36114 | [36114-race-a-bit.json](./36114-race-a-bit.json) |
 | Racecraft | 18188 | [18188-racecraft.json](./18188-racecraft.json) |
@@ -947,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Night | 334163 | [334163-red-night.json](./334163-red-night.json) |
 | Red Ninja: End of Honor | 6000 | [6000-red-ninja-end-of-honor.json](./6000-red-ninja-end-of-honor.json) |
 | Red Nose Guy Gauntlet Inc.: The Burnout | 371328 | [371328-red-nose-guy-gauntlet-inc-the-burnout.json](./371328-red-nose-guy-gauntlet-inc-the-burnout.json) |
+| Red or Blue | 333620 | [333620-red-or-blue.json](./333620-red-or-blue.json) |
 | Red Pixel | 59925 | [59925-red-pixel.json](./59925-red-pixel.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
 | Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
@@ -1001,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Grave Testimony - Collector's Edition | 102189 | [102189-redemption-cemetery-grave-testimony-collectors-edition.json](./102189-redemption-cemetery-grave-testimony-collectors-edition.json) |
 | Redemption Cemetery: Salvation of the Lost | 61077 | [61077-redemption-cemetery-salvation-of-the-lost.json](./61077-redemption-cemetery-salvation-of-the-lost.json) |
 | Redemption Cemetery: Terrors | 94776 | [94776-redemption-cemetery-terrors.json](./94776-redemption-cemetery-terrors.json) |
+| Redemption of Liuyin | 333635 | [333635-redemption-of-liuyin.json](./333635-redemption-of-liuyin.json) |
 | Redemption: Eternal Quest | 34754 | [34754-redemption-eternal-quest.json](./34754-redemption-eternal-quest.json) |
 | RedEx | 163956 | [163956-redex.json](./163956-redex.json) |
 | Redfall: Steelbook Launch Edition | 350534 | [350534-redfall-steelbook-launch-edition.json](./350534-redfall-steelbook-launch-edition.json) |
@@ -1989,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Sushi | 174287 | [174287-rising-sushi.json](./174287-rising-sushi.json) |
 | Rising Wan | 346139 | [346139-rising-wan.json](./346139-rising-wan.json) |
 | Rising: Hungry Lizard | 165638 | [165638-rising-hungry-lizard.json](./165638-rising-hungry-lizard.json) |
+| Risk & Riches | 333646 | [333646-risk-and-riches.json](./333646-risk-and-riches.json) |
 | Risk of Rain 2: Devotion Update | 306700 | [306700-risk-of-rain-2-devotion-update.json](./306700-risk-of-rain-2-devotion-update.json) |
 | Risk of Rain 2: Hallowed Concepts | 397819 | [397819-risk-of-rain-2-hallowed-concepts.json](./397819-risk-of-rain-2-hallowed-concepts.json) |
 | Risk of Rain Returns | 229794 | [229794-risk-of-rain-returns.json](./229794-risk-of-rain-returns.json) |
@@ -2767,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotor | 144254 | [144254-rotor.json](./144254-rotor.json) |
 | RotorScape | 311495 | [311495-rotorscape.json](./311495-rotorscape.json) |
 | Rotorsim: Helicopter Simulator | 348878 | [348878-rotorsim-helicopter-simulator.json](./348878-rotorsim-helicopter-simulator.json) |
+| Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
 | Rotting Crescendo | 136441 | [136441-rotting-crescendo.json](./136441-rotting-crescendo.json) |
 | Rotting Grief | 415068 | [415068-rotting-grief.json](./415068-rotting-grief.json) |
