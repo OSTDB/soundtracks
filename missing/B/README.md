@@ -3495,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
 | Bouncy Butt Castle | 379345 | [379345-bouncy-butt-castle.json](./379345-bouncy-butt-castle.json) |
 | Bouncy Cat | 158169 | [158169-bouncy-cat.json](./158169-bouncy-cat.json) |
+| Bouncy Chicken | 306529 | [306529-bouncy-chicken.json](./306529-bouncy-chicken.json) |
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
 | Bouncy Kingdoms | 397768 | [397768-bouncy-kingdoms.json](./397768-bouncy-kingdoms.json) |
 | Bouncy Smash | 89184 | [89184-bouncy-smash.json](./89184-bouncy-smash.json) |
@@ -4399,6 +4400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Bricks | 10855 | [10855-bunny-bricks.json](./10855-bunny-bricks.json) |
 | Bunny Bundle 2 | 196280 | [196280-bunny-bundle-2.json](./196280-bunny-bundle-2.json) |
 | Bunny Bunker | 312160 | [312160-bunny-bunker.json](./312160-bunny-bunker.json) |
+| Bunny E-shop | 306528 | [306528-bunny-e-shop.json](./306528-bunny-e-shop.json) |
 | Bunny Eureka | 221162 | [221162-bunny-eureka.json](./221162-bunny-eureka.json) |
 | Bunny Flush | 153923 | [153923-bunny-flush.json](./153923-bunny-flush.json) |
 | Bunny Forest | 374150 | [374150-bunny-forest.json](./374150-bunny-forest.json) |
