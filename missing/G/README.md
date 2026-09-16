@@ -2651,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
 | Gunwyrm | 176980 | [176980-gunwyrm.json](./176980-gunwyrm.json) |
 | GunZ: The Duel | 80594 | [80594-gunz-the-duel.json](./80594-gunz-the-duel.json) |
+| Gunzle: Clover And Claus | 331963 | [331963-gunzle-clover-and-claus.json](./331963-gunzle-clover-and-claus.json) |
 | Guójì Xiàngqí: Dānshuāngrén Duìzhàn Qípái Xiǎoyóuxì | 109011 | [109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json](./109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json) |
 | Gura's Adventure | 184097 | [184097-guras-adventure.json](./184097-guras-adventure.json) |
 | Guragura Oden | 296948 | [296948-guragura-oden.json](./296948-guragura-oden.json) |
