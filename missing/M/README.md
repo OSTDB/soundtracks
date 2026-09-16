@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magia Record | 231933 | [231933-magia-record.json](./231933-magia-record.json) |
 | Magia Story | 244762 | [244762-magia-story.json](./244762-magia-story.json) |
 | Magia X: Leta | 172158 | [172158-magia-x-leta.json](./172158-magia-x-leta.json) |
+| Magibrick | 290521 | [290521-magibrick.json](./290521-magibrick.json) |
 | Magic & Empire | 97380 | [97380-magic-and-empire.json](./97380-magic-and-empire.json) |
 | Magic & Mayhem: The Art of Magic | 70956 | [70956-magic-and-mayhem-the-art-of-magic.json](./70956-magic-and-mayhem-the-art-of-magic.json) |
 | Magic & Sanctuary | 219784 | [219784-magic-and-sanctuary.json](./219784-magic-and-sanctuary.json) |
@@ -765,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manifest | 128581 | [128581-manifest.json](./128581-manifest.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
 | Manifest No | 352162 | [352162-manifest-no.json](./352162-manifest-no.json) |
+| Manika | 290528 | [290528-manika.json](./290528-manika.json) |
 | Mankind | 260659 | [260659-mankind.json](./260659-mankind.json) |
 | Mankind Reborn | 98406 | [98406-mankind-reborn.json](./98406-mankind-reborn.json) |
 | Mankind's Last Stand | 253905 | [253905-mankinds-last-stand.json](./253905-mankinds-last-stand.json) |
@@ -1197,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marty and the Eldritch Horror | 176964 | [176964-marty-and-the-eldritch-horror.json](./176964-marty-and-the-eldritch-horror.json) |
 | Marty McFart | 183589 | [183589-marty-mcfart.json](./183589-marty-mcfart.json) |
 | Marty's Funducational Tour! | 348845 | [348845-martys-funducational-tour.json](./348845-martys-funducational-tour.json) |
+| Martyrdom | 290520 | [290520-martyrdom.json](./290520-martyrdom.json) |
 | Maru and her make-believe world | 166747 | [166747-maru-and-her-make-believe-world.json](./166747-maru-and-her-make-believe-world.json) |
 | Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
 | Maruja Mallo | 226732 | [226732-maruja-mallo.json](./226732-maruja-mallo.json) |
@@ -2799,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
 | Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
 | Midnight Mysteries: Devil on the Mississippi - Collector's Edition | 89860 | [89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json](./89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json) |
+| Midnight Racer | 290523 | [290523-midnight-racer.json](./290523-midnight-racer.json) |
 | Midnight Ramen Shop | 390098 | [390098-midnight-ramen-shop.json](./390098-midnight-ramen-shop.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Shifts with Femboy | 400315 | [400315-midnight-shifts-with-femboy.json](./400315-midnight-shifts-with-femboy.json) |
@@ -5579,6 +5583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Origin | 227265 | [227265-mythic-origin.json](./227265-mythic-origin.json) |
 | Mythic Origins | 207321 | [207321-mythic-origins.json](./207321-mythic-origins.json) |
 | Mythic Pearls: The Legend of Tirnanog | 73803 | [73803-mythic-pearls-the-legend-of-tirnanog.json](./73803-mythic-pearls-the-legend-of-tirnanog.json) |
+| Mythic Trials | 290534 | [290534-mythic-trials.json](./290534-mythic-trials.json) |
 | Mythic Victory Arena | 31795 | [31795-mythic-victory-arena.json](./31795-mythic-victory-arena.json) |
 | Mythic Writer | 165654 | [165654-mythic-writer.json](./165654-mythic-writer.json) |
 | Mythic Yi | 388240 | [388240-mythic-yi.json](./388240-mythic-yi.json) |
