@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Lost Ages Vol 1. | 298057 | [298057-tales-of-lost-ages-vol-1.json](./298057-tales-of-lost-ages-vol-1.json) |
 | Tales of Maj'Eyal: Embers of Rage | 51930 | [51930-tales-of-majeyal-embers-of-rage.json](./51930-tales-of-majeyal-embers-of-rage.json) |
 | Tales of Medieval Duelists | 389982 | [389982-tales-of-medieval-duelists.json](./389982-tales-of-medieval-duelists.json) |
+| Tales of Middle Earth | 326278 | [326278-tales-of-middle-earth.json](./326278-tales-of-middle-earth.json) |
 | Tales of Monkey Island: Chapter 3 - Lair of the Leviathan | 81269 | [81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json](./81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json) |
 | Tales of Moriviha: Deadly Secret | 276162 | [276162-tales-of-moriviha-deadly-secret.json](./276162-tales-of-moriviha-deadly-secret.json) |
 | Tales of Nebezem RPG: Red Peril | 115609 | [115609-tales-of-nebezem-rpg-red-peril.json](./115609-tales-of-nebezem-rpg-red-peril.json) |
@@ -2022,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crooked Man | 46989 | [46989-the-crooked-man.json](./46989-the-crooked-man.json) |
 | The Crosley Tower Horror | 399709 | [399709-the-crosley-tower-horror.json](./399709-the-crosley-tower-horror.json) |
 | The Crossroads | 179684 | [179684-the-crossroads.json](./179684-the-crossroads.json) |
+| The Crossroads | 326269 | [326269-the-crossroads.json](./326269-the-crossroads.json) |
 | The Crossroads | 411592 | [411592-the-crossroads.json](./411592-the-crossroads.json) |
 | The Crown of Leaves | 51446 | [51446-the-crown-of-leaves.json](./51446-the-crown-of-leaves.json) |
 | The Crown of Leaves: Chapter 2 | 168840 | [168840-the-crown-of-leaves-chapter-2.json](./168840-the-crown-of-leaves-chapter-2.json) |
@@ -4655,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tsar's Secret | 209475 | [209475-the-tsars-secret.json](./209475-the-tsars-secret.json) |
 | The Tudors | 10986 | [10986-the-tudors.json](./10986-the-tudors.json) |
 | The Tuesday Collection | 331403 | [331403-the-tuesday-collection.json](./331403-the-tuesday-collection.json) |
+| The Tunnels | 326279 | [326279-the-tunnels.json](./326279-the-tunnels.json) |
 | The Turgenev Study | 222885 | [222885-the-turgenev-study.json](./222885-the-turgenev-study.json) |
 | The Turing Test: Collector's Edition | 53784 | [53784-the-turing-test-collectors-edition.json](./53784-the-turing-test-collectors-edition.json) |
 | The Turnabout that Shouldn't Exist | 318786 | [318786-the-turnabout-that-shouldnt-exist.json](./318786-the-turnabout-that-shouldnt-exist.json) |
@@ -7016,6 +7019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tractor Racers | 392288 | [392288-tractor-racers.json](./392288-tractor-racers.json) |
 | Trade And Fight | 306366 | [306366-trade-and-fight.json](./306366-trade-and-fight.json) |
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
+| Trade Conquest | 326281 | [326281-trade-conquest.json](./326281-trade-conquest.json) |
 | Trade Post Forest | 258986 | [258986-trade-post-forest.json](./258986-trade-post-forest.json) |
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
@@ -7368,6 +7372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz: A New Era - Aerotrain | 156169 | [156169-trainz-a-new-era-aerotrain.json](./156169-trainz-a-new-era-aerotrain.json) |
 | Trainz: Classic Cabon City | 27895 | [27895-trainz-classic-cabon-city.json](./27895-trainz-classic-cabon-city.json) |
 | Trainz: Driver Edition | 206748 | [206748-trainz-driver-edition.json](./206748-trainz-driver-edition.json) |
+| Trait | 326271 | [326271-trait.json](./326271-trait.json) |
 | Trajectile | 91417 | [91417-trajectile.json](./91417-trajectile.json) |
 | Trajes Fatais: Suits of Fate | 124245 | [124245-trajes-fatais-suits-of-fate.json](./124245-trajes-fatais-suits-of-fate.json) |
 | Trakonius | 268220 | [268220-trakonius.json](./268220-trakonius.json) |
