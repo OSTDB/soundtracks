@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlock the King 2 | 127418 | [127418-unlock-the-king-2.json](./127418-unlock-the-king-2.json) |
 | Unlock the King 3 | 132700 | [132700-unlock-the-king-3.json](./132700-unlock-the-king-3.json) |
 | Unlog | 370705 | [370705-unlog.json](./370705-unlog.json) |
+| UnLoop | 311147 | [311147-unloop.json](./311147-unloop.json) |
 | Unluckily in Love | 224573 | [224573-unluckily-in-love.json](./224573-unluckily-in-love.json) |
 | Unlucky Mage | 85467 | [85467-unlucky-mage.json](./85467-unlucky-mage.json) |
 | Unlucky Mummy | 401627 | [401627-unlucky-mummy.json](./401627-unlucky-mummy.json) |
