@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Siege | 95467 | [95467-under-siege.json](./95467-under-siege.json) |
 | Under Spire | 117686 | [117686-under-spire.json](./117686-under-spire.json) |
 | Under the bed | 179728 | [179728-under-the-bed.json](./179728-under-the-bed.json) |
+| Under the Blue Horizon | 312722 | [312722-under-the-blue-horizon.json](./312722-under-the-blue-horizon.json) |
 | Under the Bridge | 221982 | [221982-under-the-bridge.json](./221982-under-the-bridge.json) |
 | Under The Concrete Wave | 306068 | [306068-under-the-concrete-wave.json](./306068-under-the-concrete-wave.json) |
 | Under the Farm | 184648 | [184648-under-the-farm.json](./184648-under-the-farm.json) |
