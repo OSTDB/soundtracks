@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Ranger | 15492 | [15492-gnome-ranger.json](./15492-gnome-ranger.json) |
 | Gnomecart Havoc | 319006 | [319006-gnomecart-havoc.json](./319006-gnomecart-havoc.json) |
 | Gnomes | 37182 | [37182-gnomes.json](./37182-gnomes.json) |
+| Gnomes and Knights | 317434 | [317434-gnomes-and-knights.json](./317434-gnomes-and-knights.json) |
 | Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
 | Gnomes Garden: Black Stones | 360576 | [360576-gnomes-garden-black-stones.json](./360576-gnomes-garden-black-stones.json) |
 | Gnomes Garden: Halloween | 110372 | [110372-gnomes-garden-halloween.json](./110372-gnomes-garden-halloween.json) |
