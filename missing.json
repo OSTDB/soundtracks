@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T11:31:36.639Z",
-  "total_missing": 77745,
+  "generated_at": "2026-09-16T11:41:37.822Z",
+  "total_missing": 77752,
   "games": [
     {
       "igdb_id": 306086,
@@ -5996,11 +5996,6 @@
       "igdb_id": 123609,
       "game_name": "Ahegao Academy",
       "file": "missing/A/123609-ahegao-academy.json"
-    },
-    {
-      "igdb_id": 106546,
-      "game_name": "Ahlman Arcade 2018",
-      "file": "missing/A/106546-ahlman-arcade-2018.json"
     },
     {
       "igdb_id": 200704,
@@ -104393,6 +104388,11 @@
       "file": "missing/F/3490-f-zero.json"
     },
     {
+      "igdb_id": 313346,
+      "game_name": "F-Zero DSX",
+      "file": "missing/F/313346-f-zero-dsx.json"
+    },
+    {
       "igdb_id": 135258,
       "game_name": "F-Zero X Climax",
       "file": "missing/F/135258-f-zero-x-climax.json"
@@ -192623,6 +192623,11 @@
       "file": "missing/M/219084-maternalbound-redux.json"
     },
     {
+      "igdb_id": 313344,
+      "game_name": "MaternalBound: An EarthBound & Mother 2 Bond!",
+      "file": "missing/M/313344-maternalbound-an-earthbound-and-mother-2-bond.json"
+    },
+    {
       "igdb_id": 139972,
       "game_name": "Math",
       "file": "missing/M/139972-math.json"
@@ -219736,6 +219741,11 @@
       "igdb_id": 300369,
       "game_name": "Nintendo MP3 Player",
       "file": "missing/N/300369-nintendo-mp3-player.json"
+    },
+    {
+      "igdb_id": 313341,
+      "game_name": "Nintendo Nightmare Deluxe",
+      "file": "missing/N/313341-nintendo-nightmare-deluxe.json"
     },
     {
       "igdb_id": 23255,
@@ -249303,6 +249313,11 @@
       "file": "missing/P/341554-project-gravity.json"
     },
     {
+      "igdb_id": 313340,
+      "game_name": "Project Green",
+      "file": "missing/P/313340-project-green.json"
+    },
+    {
       "igdb_id": 36017,
       "game_name": "Project Green Beat",
       "file": "missing/P/36017-project-green-beat.json"
@@ -250326,6 +250341,11 @@
       "igdb_id": 257969,
       "game_name": "Protect the Planet",
       "file": "missing/P/257969-protect-the-planet.json"
+    },
+    {
+      "igdb_id": 313343,
+      "game_name": "Protect Your Gold From Barack Obama",
+      "file": "missing/P/313343-protect-your-gold-from-barack-obama.json"
     },
     {
       "igdb_id": 192986,
@@ -289293,6 +289313,11 @@
       "file": "missing/S/396422-smashmak.json"
     },
     {
+      "igdb_id": 313342,
+      "game_name": "Smashmons: Spirit Red",
+      "file": "missing/S/313342-smashmons-spirit-red.json"
+    },
+    {
       "igdb_id": 378902,
       "game_name": "Smashometry",
       "file": "missing/S/378902-smashometry.json"
@@ -312116,6 +312141,11 @@
       "igdb_id": 294714,
       "game_name": "Super Mario Galaxy 63",
       "file": "missing/S/294714-super-mario-galaxy-63.json"
+    },
+    {
+      "igdb_id": 313339,
+      "game_name": "Super Mario Galaxy 64",
+      "file": "missing/S/313339-super-mario-galaxy-64.json"
     },
     {
       "igdb_id": 394337,
@@ -357341,6 +357371,11 @@
       "igdb_id": 313471,
       "game_name": "TrotMania IV: Euphorius",
       "file": "missing/T/313471-trotmania-iv-euphorius.json"
+    },
+    {
+      "igdb_id": 313338,
+      "game_name": "TrotMania V: Shrive",
+      "file": "missing/T/313338-trotmania-v-shrive.json"
     },
     {
       "igdb_id": 313470,
