@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Motion | 13639 | [13639-e-motion.json](./13639-e-motion.json) |
 | E-Reader 5-Card Sample Pack | 355538 | [355538-e-reader-5-card-sample-pack.json](./355538-e-reader-5-card-sample-pack.json) |
 | E-Shop Tycoon | 293624 | [293624-e-shop-tycoon.json](./293624-e-shop-tycoon.json) |
+| E-Tech Simulator | 308960 | [308960-e-tech-simulator.json](./308960-e-tech-simulator.json) |
 | E.E.R.I.E2 | 221760 | [221760-e-e-r-i-e2.json](./221760-e-e-r-i-e2.json) |
 | E.S.P. | 145658 | [145658-e-s-p.json](./145658-e-s-p.json) |
 | E.S.S. Mega | 84246 | [84246-e-s-s-mega.json](./84246-e-s-s-mega.json) |
