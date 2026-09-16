@@ -2742,6 +2742,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guntastic | 113024 | [113024-guntastic.json](./113024-guntastic.json) |
 | Gunter Abstrauer | 322771 | [322771-gunter-abstrauer.json](./322771-gunter-abstrauer.json) |
 | Guntris | 311824 | [311824-guntris.json](./311824-guntris.json) |
+| Gunvolt Records Cychronicle: Song Pack 6 | 294845 | [294845-gunvolt-records-cychronicle-song-pack-6.json](./294845-gunvolt-records-cychronicle-song-pack-6.json) |
+| Gunvolt Records Cychronicle: Song Pack 7 | 294846 | [294846-gunvolt-records-cychronicle-song-pack-7.json](./294846-gunvolt-records-cychronicle-song-pack-7.json) |
 | Gunwatch: Conflict Survival | 232459 | [232459-gunwatch-conflict-survival.json](./232459-gunwatch-conflict-survival.json) |
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
 | Gunwyrm | 176980 | [176980-gunwyrm.json](./176980-gunwyrm.json) |
