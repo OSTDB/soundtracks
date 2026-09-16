@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftercare Sessions | 322175 | [322175-aftercare-sessions.json](./322175-aftercare-sessions.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
 | Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
+| Afterlife Harem | 316822 | [316822-afterlife-harem.json](./316822-afterlife-harem.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
 | Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
 | Afterlight Catacombs | 320931 | [320931-afterlight-catacombs.json](./320931-afterlight-catacombs.json) |
@@ -2301,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
 | ApocaShift | 346614 | [346614-apocashift.json](./346614-apocashift.json) |
 | Apoclone | 363427 | [363427-apoclone.json](./363427-apoclone.json) |
+| Apocolypse: Vel | 316830 | [316830-apocolypse-vel.json](./316830-apocolypse-vel.json) |
 | Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
 | Apokalypsis | 30817 | [30817-apokalypsis.json](./30817-apokalypsis.json) |
 | Apollo 11 VR | 33145 | [33145-apollo-11-vr.json](./33145-apollo-11-vr.json) |
@@ -2347,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appli Archives: G-mode BurgerTime | 56422 | [56422-appli-archives-g-mode-burgertime.json](./56422-appli-archives-g-mode-burgertime.json) |
 | Appli Archives: Jaleco Momoko 1200% | 56418 | [56418-appli-archives-jaleco-momoko-1200.json](./56418-appli-archives-jaleco-momoko-1200.json) |
 | Appli Archives: Nippon Ichi Software Duologue | 56416 | [56416-appli-archives-nippon-ichi-software-duologue.json](./56416-appli-archives-nippon-ichi-software-duologue.json) |
+| Appointment with Death | 316831 | [316831-appointment-with-death.json](./316831-appointment-with-death.json) |
 | Approach Trainer | 14261 | [14261-approach-trainer.json](./14261-approach-trainer.json) |
 | Approaches | 185093 | [185093-approaches.json](./185093-approaches.json) |
 | Approaching Cao Army | 254773 | [254773-approaching-cao-army.json](./254773-approaching-cao-army.json) |
@@ -2437,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arazok's Tomb | 14264 | [14264-arazoks-tomb.json](./14264-arazoks-tomb.json) |
 | Arbalester | 39621 | [39621-arbalester.json](./39621-arbalester.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
+| Arborea: Magnicidio en la Corte | 316835 | [316835-arborea-magnicidio-en-la-corte.json](./316835-arborea-magnicidio-en-la-corte.json) |
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
 | ARC Continuum | 27671 | [27671-arc-continuum.json](./27671-arc-continuum.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
@@ -3639,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Lothal | 359445 | [359445-attack-on-lothal.json](./359445-attack-on-lothal.json) |
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
+| Attack on Titan Tribute Game 2 | 316810 | [316810-attack-on-titan-tribute-game-2.json](./316810-attack-on-titan-tribute-game-2.json) |
 | Attack on Titan: Assault | 105884 | [105884-attack-on-titan-assault.json](./105884-attack-on-titan-assault.json) |
 | Attack Only | 410224 | [410224-attack-only.json](./410224-attack-only.json) |
 | Attack Pla Rail | 123584 | [123584-attack-pla-rail.json](./123584-attack-pla-rail.json) |
