@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanda's Island | 48048 | [48048-nandas-island.json](./48048-nandas-island.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
 | Nangoku Shounen Papuwa-kun | 38389 | [38389-nangoku-shounen-papuwa-kun.json](./38389-nangoku-shounen-papuwa-kun.json) |
+| Nangol | 310064 | [310064-nangol.json](./310064-nangol.json) |
 | Nanika Game Online | 342086 | [342086-nanika-game-online.json](./342086-nanika-game-online.json) |
 | Naniwa Wangan Battle | 143672 | [143672-naniwa-wangan-battle.json](./143672-naniwa-wangan-battle.json) |
 | Nankin | 95374 | [95374-nankin.json](./95374-nankin.json) |
