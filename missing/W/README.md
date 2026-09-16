@@ -1456,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Cometh | 122400 | [122400-winter-cometh.json](./122400-winter-cometh.json) |
 | Winter Falling: Battle Tactics | 173251 | [173251-winter-falling-battle-tactics.json](./173251-winter-falling-battle-tactics.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
+| Winter Lord | 329133 | [329133-winter-lord.json](./329133-winter-lord.json) |
 | Winter Mosaics | 415908 | [415908-winter-mosaics.json](./415908-winter-mosaics.json) |
 | Winter Olympic Games | 365673 | [365673-winter-olympic-games.json](./365673-winter-olympic-games.json) |
 | Winter Olympic Games | 365674 | [365674-winter-olympic-games.json](./365674-winter-olympic-games.json) |
@@ -1787,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodle Tree Adventures Deluxe | 122354 | [122354-woodle-tree-adventures-deluxe.json](./122354-woodle-tree-adventures-deluxe.json) |
 | Woodle Tree Bundle | 173795 | [173795-woodle-tree-bundle.json](./173795-woodle-tree-bundle.json) |
 | Woodroid HD+ | 233742 | [233742-woodroid-hd.json](./233742-woodroid-hd.json) |
+| Woods of War | 329153 | [329153-woods-of-war.json](./329153-woods-of-war.json) |
 | Woodsy | 101602 | [101602-woodsy.json](./101602-woodsy.json) |
 | Woodturning 3D | 287664 | [287664-woodturning-3d.json](./287664-woodturning-3d.json) |
 | Woodville Chronicles | 415962 | [415962-woodville-chronicles.json](./415962-woodville-chronicles.json) |
