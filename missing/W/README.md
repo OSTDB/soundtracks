@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waking the Glares - Chapter I and II | 56430 | [56430-waking-the-glares-chapter-i-and-ii.json](./56430-waking-the-glares-chapter-i-and-ii.json) |
 | Waking Up To You | 395038 | [395038-waking-up-to-you.json](./395038-waking-up-to-you.json) |
 | Waking Violet | 103415 | [103415-waking-violet.json](./103415-waking-violet.json) |
+| Wakka Follow the Treasure Ring | 326246 | [326246-wakka-follow-the-treasure-ring.json](./326246-wakka-follow-the-treasure-ring.json) |
 | Waktunya Kerja! | 385599 | [385599-waktunya-kerja.json](./385599-waktunya-kerja.json) |
 | Waku Waku Sweets | 102782 | [102782-waku-waku-sweets.json](./102782-waku-waku-sweets.json) |
 | Waku Waku Sweets: Happy Sweets Making | 96093 | [96093-waku-waku-sweets-happy-sweets-making.json](./96093-waku-waku-sweets-happy-sweets-making.json) |
@@ -1857,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Quest Space | 378773 | [378773-word-quest-space.json](./378773-word-quest-space.json) |
 | Word Quest: Horror | 402932 | [402932-word-quest-horror.json](./402932-word-quest-horror.json) |
 | Word Quiz - Funny | 104686 | [104686-word-quiz-funny.json](./104686-word-quiz-funny.json) |
+| Word Rave | 326249 | [326249-word-rave.json](./326249-word-rave.json) |
 | Word Realms | 64912 | [64912-word-realms.json](./64912-word-realms.json) |
 | Word Rescue | 35506 | [35506-word-rescue.json](./35506-word-rescue.json) |
 | Word Scores | 344355 | [344355-word-scores.json](./344355-word-scores.json) |
