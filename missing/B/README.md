@@ -1629,8 +1629,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben There, Dan That! | 9541 | [9541-ben-there-dan-that.json](./9541-ben-there-dan-that.json) |
 | Bendy's Nightmare Run | 414307 | [414307-bendys-nightmare-run.json](./414307-bendys-nightmare-run.json) |
 | Beneath | 240509 | [240509-beneath.json](./240509-beneath.json) |
+| Beneath a Dead City | 327406 | [327406-beneath-a-dead-city.json](./327406-beneath-a-dead-city.json) |
 | Beneath Paris | 406793 | [406793-beneath-paris.json](./406793-beneath-paris.json) |
 | Beneath the Backrooms | 273368 | [273368-beneath-the-backrooms.json](./273368-beneath-the-backrooms.json) |
+| Beneath The Brine | 327376 | [327376-beneath-the-brine.json](./327376-beneath-the-brine.json) |
 | Beneath the Cardboard | 201286 | [201286-beneath-the-cardboard.json](./201286-beneath-the-cardboard.json) |
 | Beneath the Cherry Trees | 90567 | [90567-beneath-the-cherry-trees.json](./90567-beneath-the-cherry-trees.json) |
 | Beneath the Lighthouse | 59378 | [59378-beneath-the-lighthouse.json](./59378-beneath-the-lighthouse.json) |
