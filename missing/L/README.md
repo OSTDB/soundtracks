@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Diggel | 29764 | [29764-little-diggel.json](./29764-little-diggel.json) |
 | Little Doll Queen | 260377 | [260377-little-doll-queen.json](./260377-little-doll-queen.json) |
 | Little Dragons Café | 88887 | [88887-little-dragons-cafe.json](./88887-little-dragons-cafe.json) |
+| Little Duck Adventure | 303102 | [303102-little-duck-adventure.json](./303102-little-duck-adventure.json) |
 | Little Duty 1 | 249444 | [249444-little-duty-1.json](./249444-little-duty-1.json) |
 | Little Fighter 2 | 8700 | [8700-little-fighter-2.json](./8700-little-fighter-2.json) |
 | Little Fighter Online | 79905 | [79905-little-fighter-online.json](./79905-little-fighter-online.json) |
@@ -2372,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Pyramid Solitaire | 87295 | [87295-lucky-pyramid-solitaire.json](./87295-lucky-pyramid-solitaire.json) |
 | Lucky Rabbit Club | 380997 | [380997-lucky-rabbit-club.json](./380997-lucky-rabbit-club.json) |
 | Lucky Shelter | 373106 | [373106-lucky-shelter.json](./373106-lucky-shelter.json) |
+| Lucky Shot | 303107 | [303107-lucky-shot.json](./303107-lucky-shot.json) |
 | Lucky Shot | 402293 | [402293-lucky-shot.json](./402293-lucky-shot.json) |
 | Lucky Slots | 242551 | [242551-lucky-slots.json](./242551-lucky-slots.json) |
 | Lucky Spider Solitaire | 87141 | [87141-lucky-spider-solitaire.json](./87141-lucky-spider-solitaire.json) |
@@ -2494,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Jetman | 7852 | [7852-lunar-jetman.json](./7852-lunar-jetman.json) |
 | Lunar Laceration | 315716 | [315716-lunar-laceration.json](./315716-lunar-laceration.json) |
 | Lunar Lancer | 337090 | [337090-lunar-lancer.json](./337090-lunar-lancer.json) |
+| Lunar Lander Redux | 303081 | [303081-lunar-lander-redux.json](./303081-lunar-lander-redux.json) |
 | Lunar Laser | 241990 | [241990-lunar-laser.json](./241990-lunar-laser.json) |
 | Lunar Legacy | 248041 | [248041-lunar-legacy.json](./248041-lunar-legacy.json) |
 | Lunar Legend | 13907 | [13907-lunar-legend.json](./13907-lunar-legend.json) |
