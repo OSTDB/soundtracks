@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick Three!!! | 396238 | [396238-pick-three.json](./396238-pick-three.json) |
 | Pick-A-Gem | 59460 | [59460-pick-a-gem.json](./59460-pick-a-gem.json) |
 | Pickaxe Tower | 362860 | [362860-pickaxe-tower.json](./362860-pickaxe-tower.json) |
+| Picket Puzzle | 293778 | [293778-picket-puzzle.json](./293778-picket-puzzle.json) |
 | Pickle | 314264 | [314264-pickle.json](./314264-pickle.json) |
 | Pickle | 314284 | [314284-pickle.json](./314284-pickle.json) |
 | Pickle Frickle | 211717 | [211717-pickle-frickle.json](./211717-pickle-frickle.json) |
@@ -2904,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polda | 9713 | [9713-polda.json](./9713-polda.json) |
 | Polda 7 | 205730 | [205730-polda-7.json](./205730-polda-7.json) |
 | Pole Position | 5691 | [5691-pole-position.json](./5691-pole-position.json) |
+| Pole Position II | 293758 | [293758-pole-position-ii.json](./293758-pole-position-ii.json) |
 | Pole Riders | 342166 | [342166-pole-riders.json](./342166-pole-riders.json) |
 | Polegli | 57115 | [57115-polegli.json](./57115-polegli.json) |
 | Polgar: Magic Detective | 191175 | [191175-polgar-magic-detective.json](./191175-polgar-magic-detective.json) |
