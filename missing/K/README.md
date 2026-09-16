@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
 | Kazoku Keikaku Soshite Mata Kazoku Keikaku o | 237408 | [237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json](./237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json) |
 | Kazoku Minna no Nouryoku Trainer | 327595 | [327595-kazoku-minna-no-nouryoku-trainer.json](./327595-kazoku-minna-no-nouryoku-trainer.json) |
+| Kazu Aether Origins | 295891 | [295891-kazu-aether-origins.json](./295891-kazu-aether-origins.json) |
 | Kazu Corp: The Math Challenge | 107120 | [107120-kazu-corp-the-math-challenge.json](./107120-kazu-corp-the-math-challenge.json) |
 | Kazue World | 328056 | [328056-kazue-world.json](./328056-kazue-world.json) |
 | Kazue World 2 | 328055 | [328055-kazue-world-2.json](./328055-kazue-world-2.json) |
@@ -369,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Her Safe | 414300 | [414300-keep-her-safe.json](./414300-keep-her-safe.json) |
 | Keep it Live | 194666 | [194666-keep-it-live.json](./194666-keep-it-live.json) |
 | Keep It Running | 283747 | [283747-keep-it-running.json](./283747-keep-it-running.json) |
+| Keep It Steady! | 295893 | [295893-keep-it-steady.json](./295893-keep-it-steady.json) |
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
 | Keep Me Breathing | 176988 | [176988-keep-me-breathing.json](./176988-keep-me-breathing.json) |
 | Keep Me Posted | 223169 | [223169-keep-me-posted.json](./223169-keep-me-posted.json) |
@@ -382,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper: The Hunter of Insect | 68619 | [68619-keeper-the-hunter-of-insect.json](./68619-keeper-the-hunter-of-insect.json) |
 | Keepers | 257385 | [257385-keepers.json](./257385-keepers.json) |
 | Keepers 1477 | 306062 | [306062-keepers-1477.json](./306062-keepers-1477.json) |
+| Keepers of Ancient Lands | 295892 | [295892-keepers-of-ancient-lands.json](./295892-keepers-of-ancient-lands.json) |
 | Keepers of the Forest | 228085 | [228085-keepers-of-the-forest.json](./228085-keepers-of-the-forest.json) |
 | Keepers of the Keep | 346693 | [346693-keepers-of-the-keep.json](./346693-keepers-of-the-keep.json) |
 | Keepers Of The Lost Arts | 285465 | [285465-keepers-of-the-lost-arts.json](./285465-keepers-of-the-lost-arts.json) |
@@ -643,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Instinct 2 | 2930 | [2930-killer-instinct-2.json](./2930-killer-instinct-2.json) |
 | Killer Instinct: Definitive Edition | 25662 | [25662-killer-instinct-definitive-edition.json](./25662-killer-instinct-definitive-edition.json) |
 | Killer Is Dead | 2940 | [2940-killer-is-dead.json](./2940-killer-is-dead.json) |
+| Killer Junkyard | 295894 | [295894-killer-junkyard.json](./295894-killer-junkyard.json) |
 | Killer Karaoke: el juego | 245308 | [245308-killer-karaoke-el-juego.json](./245308-killer-karaoke-el-juego.json) |
 | Killer Zombie Hunt | 276484 | [276484-killer-zombie-hunt.json](./276484-killer-zombie-hunt.json) |
 | Killer: Rewind | 345018 | [345018-killer-rewind.json](./345018-killer-rewind.json) |
@@ -663,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Time: Resurrected | 304742 | [304742-killing-time-resurrected.json](./304742-killing-time-resurrected.json) |
 | Killing Tragedy Samsara | 372999 | [372999-killing-tragedy-samsara.json](./372999-killing-tragedy-samsara.json) |
 | Killing Zone | 20596 | [20596-killing-zone.json](./20596-killing-zone.json) |
+| Killmaiden | 295895 | [295895-killmaiden.json](./295895-killmaiden.json) |
 | Killover | 361815 | [361815-killover.json](./361815-killover.json) |
 | Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
 | Killzone | 1865 | [1865-killzone.json](./1865-killzone.json) |
@@ -705,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KindergarTen 3: The Basement | 290696 | [290696-kindergarten-3-the-basement.json](./290696-kindergarten-3-the-basement.json) |
 | Kindergarten: Buddy Edition | 232999 | [232999-kindergarten-buddy-edition.json](./232999-kindergarten-buddy-edition.json) |
 | Kindled Cavern | 29816 | [29816-kindled-cavern.json](./29816-kindled-cavern.json) |
+| Kindred | 295896 | [295896-kindred.json](./295896-kindred.json) |
 | Kindred | 313888 | [313888-kindred.json](./313888-kindred.json) |
 | Kindred Fates | 129154 | [129154-kindred-fates.json](./129154-kindred-fates.json) |
 | Kindred Spirits Complete Collection | 53240 | [53240-kindred-spirits-complete-collection.json](./53240-kindred-spirits-complete-collection.json) |
@@ -759,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Pyramid Thieves | 300867 | [300867-king-of-pyramid-thieves.json](./300867-king-of-pyramid-thieves.json) |
 | King of Queendoms | 110609 | [110609-king-of-queendoms.json](./110609-king-of-queendoms.json) |
 | King of Retail | 113053 | [113053-king-of-retail.json](./113053-king-of-retail.json) |
+| King of Retail 2 | 295897 | [295897-king-of-retail-2.json](./295897-king-of-retail-2.json) |
 | King of Seas | 136091 | [136091-king-of-seas.json](./136091-king-of-seas.json) |
 | King of Snatchers | 306338 | [306338-king-of-snatchers.json](./306338-king-of-snatchers.json) |
 | King of Space | 345515 | [345515-king-of-space.json](./345515-king-of-space.json) |
@@ -1106,10 +1113,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Guy: The Curse of the Seriously Evil, Evil Doers | 28816 | [28816-knight-guy-the-curse-of-the-seriously-evil-evil-doers.json](./28816-knight-guy-the-curse-of-the-seriously-evil-evil-doers.json) |
 | Knight Hero 2 Revenge idle RPG | 330519 | [330519-knight-hero-2-revenge-idle-rpg.json](./330519-knight-hero-2-revenge-idle-rpg.json) |
 | Knight in Time | 356114 | [356114-knight-in-time.json](./356114-knight-in-time.json) |
+| Knight Island | 295898 | [295898-knight-island.json](./295898-knight-island.json) |
 | Knight Leon | 84206 | [84206-knight-leon.json](./84206-knight-leon.json) |
 | Knight Light | 335278 | [335278-knight-light.json](./335278-knight-light.json) |
 | Knight Lolita | 303615 | [303615-knight-lolita.json](./303615-knight-lolita.json) |
 | Knight Lore | 309338 | [309338-knight-lore.json](./309338-knight-lore.json) |
+| Knight of Nevermore | 295899 | [295899-knight-of-nevermore.json](./295899-knight-of-nevermore.json) |
 | Knight of the Living Dead | 191885 | [191885-knight-of-the-living-dead.json](./191885-knight-of-the-living-dead.json) |
 | Knight of the Lust Temple | 134625 | [134625-knight-of-the-lust-temple.json](./134625-knight-of-the-lust-temple.json) |
 | Knight Shooter | 319943 | [319943-knight-shooter.json](./319943-knight-shooter.json) |
@@ -1202,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckles the Echidna in Sonic the Hedgehog | 129185 | [129185-knuckles-the-echidna-in-sonic-the-hedgehog.json](./129185-knuckles-the-echidna-in-sonic-the-hedgehog.json) |
 | Knuckles Treasure Hunt | 325852 | [325852-knuckles-treasure-hunt.json](./325852-knuckles-treasure-hunt.json) |
 | Knuckles' Emerald Hunt | 129184 | [129184-knuckles-emerald-hunt.json](./129184-knuckles-emerald-hunt.json) |
+| Knuffi | 295900 | [295900-knuffi.json](./295900-knuffi.json) |
 | Knytt Classic | 412975 | [412975-knytt-classic.json](./412975-knytt-classic.json) |
 | KO Chaos | 285456 | [285456-ko-chaos.json](./285456-ko-chaos.json) |
 | Kobayakawa-san is a Souls-like | 413066 | [413066-kobayakawa-san-is-a-souls-like.json](./413066-kobayakawa-san-is-a-souls-like.json) |
