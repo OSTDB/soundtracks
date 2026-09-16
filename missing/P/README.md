@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Arcade | 104623 | [104623-parkour-arcade.json](./104623-parkour-arcade.json) |
 | Parkour Assassin: Sprint Run 2 | 391037 | [391037-parkour-assassin-sprint-run-2.json](./391037-parkour-assassin-sprint-run-2.json) |
 | Parkour Chief: Chapter Secret Agent | 341595 | [341595-parkour-chief-chapter-secret-agent.json](./341595-parkour-chief-chapter-secret-agent.json) |
+| Parkour Every Day | 292167 | [292167-parkour-every-day.json](./292167-parkour-every-day.json) |
 | Parkour Flight | 86876 | [86876-parkour-flight.json](./86876-parkour-flight.json) |
 | Parkour Game 2 | 270957 | [270957-parkour-game-2.json](./270957-parkour-game-2.json) |
 | Parkour Master | 145024 | [145024-parkour-master.json](./145024-parkour-master.json) |
@@ -1130,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Circle: Stand Alone | 346650 | [346650-perfect-circle-stand-alone.json](./346650-perfect-circle-stand-alone.json) |
 | Perfect Dark | 1464 | [1464-perfect-dark.json](./1464-perfect-dark.json) |
 | Perfect Dark | 1466 | [1466-perfect-dark.json](./1466-perfect-dark.json) |
+| Perfect Dark Zero | 292158 | [292158-perfect-dark-zero.json](./292158-perfect-dark-zero.json) |
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
@@ -1675,6 +1677,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikes.io | 306978 | [306978-pikes-io.json](./306978-pikes-io.json) |
 | Pikmin | 2239 | [2239-pikmin.json](./2239-pikmin.json) |
 | Pikmin 2 | 84697 | [84697-pikmin-2.json](./84697-pikmin-2.json) |
+| Pikmin 2 Lands of Torture | 292126 | [292126-pikmin-2-lands-of-torture.json](./292126-pikmin-2-lands-of-torture.json) |
+| Pikmin 2 Power Cut Blackout | 292127 | [292127-pikmin-2-power-cut-blackout.json](./292127-pikmin-2-power-cut-blackout.json) |
 | Pikmin 2 Regrown | 299745 | [299745-pikmin-2-regrown.json](./299745-pikmin-2-regrown.json) |
 | Pikmin 2 WorldWide | 313357 | [313357-pikmin-2-worldwide.json](./313357-pikmin-2-worldwide.json) |
 | Pikmin 3 | 2241 | [2241-pikmin-3.json](./2241-pikmin-3.json) |
@@ -4497,6 +4501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W Hashiwokakero | 236816 | [236816-puzzle-by-nikoli-w-hashiwokakero.json](./236816-puzzle-by-nikoli-w-hashiwokakero.json) |
 | Puzzle by Nikoli W Heyawake | 230827 | [230827-puzzle-by-nikoli-w-heyawake.json](./230827-puzzle-by-nikoli-w-heyawake.json) |
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
+| Puzzle Chasers | 292140 | [292140-puzzle-chasers.json](./292140-puzzle-chasers.json) |
 | Puzzle Club | 218450 | [218450-puzzle-club.json](./218450-puzzle-club.json) |
 | Puzzle Collection | 201256 | [201256-puzzle-collection.json](./201256-puzzle-collection.json) |
 | Puzzle Cozy | 386692 | [386692-puzzle-cozy.json](./386692-puzzle-cozy.json) |
