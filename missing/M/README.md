@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Margrave Manor 3: The Curse of the Blacksmith's Heart | 210041 | [210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json](./210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json) |
 | Mari Is Home | 280180 | [280180-mari-is-home.json](./280180-mari-is-home.json) |
 | Mari's Magical Deliveries | 334204 | [334204-maris-magical-deliveries.json](./334204-maris-magical-deliveries.json) |
+| Maria | 308406 | [308406-maria.json](./308406-maria.json) |
 | Maria 2: Jutai Kokuchi no Nazo | 74346 | [74346-maria-2-jutai-kokuchi-no-nazo.json](./74346-maria-2-jutai-kokuchi-no-nazo.json) |
 | Maria/Alchemist: Synthetist Maria's Tragedy | 98455 | [98455-maria-alchemist-synthetist-marias-tragedy.json](./98455-maria-alchemist-synthetist-marias-tragedy.json) |
 | Mariam Game | 235484 | [235484-mariam-game.json](./235484-mariam-game.json) |
@@ -1531,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
 | May Club | 73791 | [73791-may-club.json](./73791-may-club.json) |
 | May I Take Your Order? | 123025 | [123025-may-i-take-your-order.json](./123025-may-i-take-your-order.json) |
+| May Your Memory Be a Blessing | 308422 | [308422-may-your-memory-be-a-blessing.json](./308422-may-your-memory-be-a-blessing.json) |
 | Maya Adventure | 235232 | [235232-maya-adventure.json](./235232-maya-adventure.json) |
 | Maya the Bee: Sweet Gold | 49328 | [49328-maya-the-bee-sweet-gold.json](./49328-maya-the-bee-sweet-gold.json) |
 | Maya the Bee: The Great Adventure | 49327 | [49327-maya-the-bee-the-great-adventure.json](./49327-maya-the-bee-the-great-adventure.json) |
@@ -1920,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X2: Proto Edition | 219083 | [219083-mega-man-x2-proto-edition.json](./219083-mega-man-x2-proto-edition.json) |
 | Mega Man X3: Proto Edition | 219082 | [219082-mega-man-x3-proto-edition.json](./219082-mega-man-x3-proto-edition.json) |
 | Mega Man X5 Improvement Project | 196256 | [196256-mega-man-x5-improvement-project.json](./196256-mega-man-x5-improvement-project.json) |
+| Mega Man X5: Improvement Project Addendum | 308384 | [308384-mega-man-x5-improvement-project-addendum.json](./308384-mega-man-x5-improvement-project-addendum.json) |
 | Mega Man X8 | 1748 | [1748-mega-man-x8.json](./1748-mega-man-x8.json) |
 | Mega Man Xtreme 2 | 1750 | [1750-mega-man-xtreme-2.json](./1750-mega-man-xtreme-2.json) |
 | Mega Man Zero | 1775 | [1775-mega-man-zero.json](./1775-mega-man-zero.json) |
@@ -4642,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man for iPad | 88813 | [88813-ms-pac-man-for-ipad.json](./88813-ms-pac-man-for-ipad.json) |
 | Ms. Pac-Man: Maze Madness | 3338 | [3338-ms-pac-man-maze-madness.json](./3338-ms-pac-man-maze-madness.json) |
 | Ms. Pac-Man: Quest for the Golden Maze | 71475 | [71475-ms-pac-man-quest-for-the-golden-maze.json](./71475-ms-pac-man-quest-for-the-golden-maze.json) |
+| Ms. Pac-Man: Speedup | 308393 | [308393-ms-pac-man-speedup.json](./308393-ms-pac-man-speedup.json) |
 | Ms. Rufiia's Struggle for Repayment: To Be a Lewd Arcdaemon | 82882 | [82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json](./82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json) |
 | Ms. Squeaker's Home for the Sick | 109402 | [109402-ms-squeakers-home-for-the-sick.json](./109402-ms-squeakers-home-for-the-sick.json) |
 | MSCR | 310930 | [310930-mscr.json](./310930-mscr.json) |
@@ -4759,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Diaries: Ankara | 88185 | [88185-murder-diaries-ankara.json](./88185-murder-diaries-ankara.json) |
 | Murder Hornets | 164967 | [164967-murder-hornets.json](./164967-murder-hornets.json) |
 | Murder in a Wheel | 62153 | [62153-murder-in-a-wheel.json](./62153-murder-in-a-wheel.json) |
+| Murder in the Maze | 308418 | [308418-murder-in-the-maze.json](./308418-murder-in-the-maze.json) |
 | Murder Is Game Over: Deal Killer | 255750 | [255750-murder-is-game-over-deal-killer.json](./255750-murder-is-game-over-deal-killer.json) |
 | Murder Is Game Over: Murder Otaku | 338721 | [338721-murder-is-game-over-murder-otaku.json](./338721-murder-is-game-over-murder-otaku.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
