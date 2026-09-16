@@ -3826,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland | 207308 | [207308-dreamland.json](./207308-dreamland.json) |
 | Dreamland Escape | 130338 | [130338-dreamland-escape.json](./130338-dreamland-escape.json) |
 | Dreamland Farm | 317223 | [317223-dreamland-farm.json](./317223-dreamland-farm.json) |
+| Dreamland Farm: Stone Fence and Tiles | 324477 | [324477-dreamland-farm-stone-fence-and-tiles.json](./324477-dreamland-farm-stone-fence-and-tiles.json) |
 | Dreamless | 320135 | [320135-dreamless.json](./320135-dreamless.json) |
 | Dreamless Girl: Deluxe Edtion Plus | 335097 | [335097-dreamless-girl-deluxe-edtion-plus.json](./335097-dreamless-girl-deluxe-edtion-plus.json) |
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
