@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Rolling-Plumber, Slither, Line, Fill & Fun! | 108486 | [108486-balls-rolling-plumber-slither-line-fill-and-fun.json](./108486-balls-rolling-plumber-slither-line-fill-and-fun.json) |
 | Balls! Balls! | 163395 | [163395-balls-balls.json](./163395-balls-balls.json) |
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
+| Bally Fears: The Introduction Game | 317403 | [317403-bally-fears-the-introduction-game.json](./317403-bally-fears-the-introduction-game.json) |
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
 | Bally Pin | 130870 | [130870-bally-pin.json](./130870-bally-pin.json) |
 | Ballz: Farm | 81063 | [81063-ballz-farm.json](./81063-ballz-farm.json) |
@@ -1777,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond a Steel Sky | 116634 | [116634-beyond-a-steel-sky.json](./116634-beyond-a-steel-sky.json) |
 | Beyond A Steel Sky: Utopia Edition | 170029 | [170029-beyond-a-steel-sky-utopia-edition.json](./170029-beyond-a-steel-sky-utopia-edition.json) |
 | Beyond Astra | 319187 | [319187-beyond-astra.json](./319187-beyond-astra.json) |
+| Beyond Border | 317417 | [317417-beyond-border.json](./317417-beyond-border.json) |
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
 | Beyond Citadel | 322842 | [322842-beyond-citadel.json](./322842-beyond-citadel.json) |
 | Beyond Despair | 26724 | [26724-beyond-despair.json](./26724-beyond-despair.json) |
@@ -1997,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
 | Billy Bob's Huntin'-n-Fishin' | 49913 | [49913-billy-bobs-huntin-n-fishin.json](./49913-billy-bobs-huntin-n-fishin.json) |
 | Billy Boy | 72130 | [72130-billy-boy.json](./72130-billy-boy.json) |
+| Billy Boy's Important Wine Lottery | 317404 | [317404-billy-boys-important-wine-lottery.json](./317404-billy-boys-important-wine-lottery.json) |
 | Billy Masters Was Right | 139402 | [139402-billy-masters-was-right.json](./139402-billy-masters-was-right.json) |
 | Billy Meets World | 121605 | [121605-billy-meets-world.json](./121605-billy-meets-world.json) |
 | Bilspel | 79334 | [79334-bilspel.json](./79334-bilspel.json) |
@@ -3067,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycam Onrecord | 365058 | [365058-bodycam-onrecord.json](./365058-bodycam-onrecord.json) |
 | Bodycam Police Simulator | 317218 | [317218-bodycam-police-simulator.json](./317218-bodycam-police-simulator.json) |
 | Bodycam Recorded | 377079 | [377079-bodycam-recorded.json](./377079-bodycam-recorded.json) |
+| Bodycam Shooter | 317436 | [317436-bodycam-shooter.json](./317436-bodycam-shooter.json) |
 | Bodyguard Task Force | 291252 | [291252-bodyguard-task-force.json](./291252-bodyguard-task-force.json) |
 | Bodyguard: Cellwars | 365160 | [365160-bodyguard-cellwars.json](./365160-bodyguard-cellwars.json) |
 | BodyRecords | 340943 | [340943-bodyrecords.json](./340943-bodyrecords.json) |
@@ -4414,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Alive: Breathless Rescue | 258999 | [258999-buried-alive-breathless-rescue.json](./258999-buried-alive-breathless-rescue.json) |
 | Buried Buck$ | 76595 | [76595-buried-buck.json](./76595-buried-buck.json) |
 | Buried Chambers | 129704 | [129704-buried-chambers.json](./129704-buried-chambers.json) |
+| Buried Memories | 317448 | [317448-buried-memories.json](./317448-buried-memories.json) |
 | Burn Depth | 203891 | [203891-burn-depth.json](./203891-burn-depth.json) |
 | Burn The Witch: Toll of the Bell Bearer | 358957 | [358957-burn-the-witch-toll-of-the-bell-bearer.json](./358957-burn-the-witch-toll-of-the-bell-bearer.json) |
 | Burn Them | 255137 | [255137-burn-them.json](./255137-burn-them.json) |
@@ -4422,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn. Pulse. Detach. | 143115 | [143115-burn-pulse-detach.json](./143115-burn-pulse-detach.json) |
 | Burned Horizons | 391166 | [391166-burned-horizons.json](./391166-burned-horizons.json) |
 | Burned One | 365157 | [365157-burned-one.json](./365157-burned-one.json) |
+| Burned Out | 317456 | [317456-burned-out.json](./317456-burned-out.json) |
 | Burnin' Rubber 6 | 320749 | [320749-burnin-rubber-6.json](./320749-burnin-rubber-6.json) |
 | Burnin' Rubber Shift | 237965 | [237965-burnin-rubber-shift.json](./237965-burnin-rubber-shift.json) |
 | Burninate the Barnyard | 231613 | [231613-burninate-the-barnyard.json](./231613-burninate-the-barnyard.json) |
