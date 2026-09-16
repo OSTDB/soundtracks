@@ -1648,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillowheads: It's Party Time | 137644 | [137644-pillowheads-its-party-time.json](./137644-pillowheads-its-party-time.json) |
 | Pilot Brothers | 25513 | [25513-pilot-brothers.json](./25513-pilot-brothers.json) |
 | Pilot Brothers 3D: The Case of the garden pests | 403598 | [403598-pilot-brothers-3d-the-case-of-the-garden-pests.json](./403598-pilot-brothers-3d-the-case-of-the-garden-pests.json) |
+| Pilot Light | 319204 | [319204-pilot-light.json](./319204-pilot-light.json) |
 | Pilot Rudder VR | 105340 | [105340-pilot-rudder-vr.json](./105340-pilot-rudder-vr.json) |
 | Pilot Rush | 243388 | [243388-pilot-rush.json](./243388-pilot-rush.json) |
 | Pilot Sophie | 96719 | [96719-pilot-sophie.json](./96719-pilot-sophie.json) |
@@ -2523,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket-Run Pool | 102094 | [102094-pocket-run-pool.json](./102094-pocket-run-pool.json) |
 | Pocketing the Ball | 294126 | [294126-pocketing-the-ball.json](./294126-pocketing-the-ball.json) |
 | PocketWarwick | 64345 | [64345-pocketwarwick.json](./64345-pocketwarwick.json) |
+| Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
 | Pocoman: Green Machine Level Pack | 262944 | [262944-pocoman-green-machine-level-pack.json](./262944-pocoman-green-machine-level-pack.json) |
 | Pocoyo Racing | 50939 | [50939-pocoyo-racing.json](./50939-pocoyo-racing.json) |
 | Pod | 86049 | [86049-pod.json](./86049-pod.json) |
