@@ -3861,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propagate | 366218 | [366218-propagate.json](./366218-propagate.json) |
 | Propeller Arena: Aviation Battle Championship | 46555 | [46555-propeller-arena-aviation-battle-championship.json](./46555-propeller-arena-aviation-battle-championship.json) |
 | Propeller Pete | 334178 | [334178-propeller-pete.json](./334178-propeller-pete.json) |
+| PropFight | 331438 | [331438-propfight.json](./331438-propfight.json) |
 | Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | Prophet Margin | 376537 | [376537-prophet-margin.json](./376537-prophet-margin.json) |
