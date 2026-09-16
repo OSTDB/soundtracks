@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambol 2 | 328061 | [328061-gambol-2.json](./328061-gambol-2.json) |
 | Game | 346610 | [346610-game.json](./346610-game.json) |
 | Game (not) Over | 333656 | [333656-game-not-over.json](./333656-game-not-over.json) |
+| Game & Lynx: Critter Championship | 297595 | [297595-game-and-lynx-critter-championship.json](./297595-game-and-lynx-critter-championship.json) |
 | Game & Watch Donkey Kong Jr | 339261 | [339261-game-and-watch-donkey-kong-jr.json](./339261-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Donkey Kong Jr. | 206932 | [206932-game-and-watch-donkey-kong-jr.json](./206932-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Mario's Cement Factory | 206933 | [206933-game-and-watch-marios-cement-factory.json](./206933-game-and-watch-marios-cement-factory.json) |
