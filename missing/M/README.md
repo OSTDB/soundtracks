@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cube in Strange World! | 306367 | [306367-magic-cube-in-strange-world.json](./306367-magic-cube-in-strange-world.json) |
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
 | Magic Fairy Tales: Barbie as Rapunzel | 19401 | [19401-magic-fairy-tales-barbie-as-rapunzel.json](./19401-magic-fairy-tales-barbie-as-rapunzel.json) |
+| Magic Farm | 298707 | [298707-magic-farm.json](./298707-magic-farm.json) |
 | Magic Forest Escape 3 | 315665 | [315665-magic-forest-escape-3.json](./315665-magic-forest-escape-3.json) |
 | Magic Forest Escape 4 | 315666 | [315666-magic-forest-escape-4.json](./315666-magic-forest-escape-4.json) |
 | Magic Forest Escape 5 | 315668 | [315668-magic-forest-escape-5.json](./315668-magic-forest-escape-5.json) |
@@ -3173,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Lucy | 403705 | [403705-mini-lucy.json](./403705-mini-lucy.json) |
 | Mini Map | 178016 | [178016-mini-map.json](./178016-mini-map.json) |
 | Mini Matches | 121597 | [121597-mini-matches.json](./121597-mini-matches.json) |
+| Mini Maze: Online | 298712 | [298712-mini-maze-online.json](./298712-mini-maze-online.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Monsters | 343907 | [343907-mini-monsters.json](./343907-mini-monsters.json) |
 | Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
