@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yami no Ryuuou Hadesu no Monshou | 202322 | [202322-yami-no-ryuuou-hadesu-no-monshou.json](./202322-yami-no-ryuuou-hadesu-no-monshou.json) |
 | Yamizome Liberator | 327834 | [327834-yamizome-liberator.json](./327834-yamizome-liberator.json) |
 | YamYam | 37760 | [37760-yamyam.json](./37760-yamyam.json) |
+| Yanchat | 333080 | [333080-yanchat.json](./333080-yanchat.json) |
 | Yandere Escape | 129125 | [129125-yandere-escape.json](./129125-yandere-escape.json) |
 | Yandere Lover | 82076 | [82076-yandere-lover.json](./82076-yandere-lover.json) |
 | Yandere Onii-san ni Sokubaku Kankin Sarechau Game! | 285990 | [285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json](./285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json) |
