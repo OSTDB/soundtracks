@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T16:57:36.613Z",
-  "total_missing": 78716,
+  "generated_at": "2026-09-16T17:04:16.089Z",
+  "total_missing": 78765,
   "games": [
     {
       "igdb_id": 306086,
@@ -3313,6 +3313,11 @@
       "file": "missing/A/235974-a-desert-christmas-story.json"
     },
     {
+      "igdb_id": 302498,
+      "game_name": "A Detective Game",
+      "file": "missing/A/302498-a-detective-game.json"
+    },
+    {
       "igdb_id": 27921,
       "game_name": "A Detective's Novel",
       "file": "missing/A/27921-a-detectives-novel.json"
@@ -5773,6 +5778,11 @@
       "file": "missing/A/124175-aeronaut.json"
     },
     {
+      "igdb_id": 302512,
+      "game_name": "Aery: Best of Bundle",
+      "file": "missing/A/302512-aery-best-of-bundle.json"
+    },
+    {
       "igdb_id": 325102,
       "game_name": "Aesthetic",
       "file": "missing/A/325102-aesthetic.json"
@@ -6181,11 +6191,6 @@
       "igdb_id": 391743,
       "game_name": "Aghaz",
       "file": "missing/A/391743-aghaz.json"
-    },
-    {
-      "igdb_id": 197402,
-      "game_name": "Agony VR",
-      "file": "missing/A/197402-agony-vr.json"
     },
     {
       "igdb_id": 211419,
@@ -10796,6 +10801,11 @@
       "igdb_id": 353401,
       "game_name": "American Truck Simulator: Halloween Paint Jobs Pack",
       "file": "missing/A/353401-american-truck-simulator-halloween-paint-jobs-pack.json"
+    },
+    {
+      "igdb_id": 302496,
+      "game_name": "American Truck Simulator: JCB Equipment Pack",
+      "file": "missing/A/302496-american-truck-simulator-jcb-equipment-pack.json"
     },
     {
       "igdb_id": 223688,
@@ -16601,6 +16611,11 @@
       "igdb_id": 303100,
       "game_name": "Archipelago",
       "file": "missing/A/303100-archipelago.json"
+    },
+    {
+      "igdb_id": 302497,
+      "game_name": "Archipelago Explorer",
+      "file": "missing/A/302497-archipelago-explorer.json"
     },
     {
       "igdb_id": 297787,
@@ -25161,6 +25176,11 @@
       "igdb_id": 105402,
       "game_name": "Ball Turn",
       "file": "missing/B/105402-ball-turn.json"
+    },
+    {
+      "igdb_id": 302492,
+      "game_name": "Ball-it Hell",
+      "file": "missing/B/302492-ball-it-hell.json"
     },
     {
       "igdb_id": 310927,
@@ -45763,6 +45783,11 @@
       "file": "missing/B/113043-burning-out.json"
     },
     {
+      "igdb_id": 302494,
+      "game_name": "Burning Questions",
+      "file": "missing/B/302494-burning-questions.json"
+    },
+    {
       "igdb_id": 180816,
       "game_name": "Burning Ravager",
       "file": "missing/B/180816-burning-ravager.json"
@@ -59196,6 +59221,11 @@
       "igdb_id": 322999,
       "game_name": "Clones Run",
       "file": "missing/C/322999-clones-run.json"
+    },
+    {
+      "igdb_id": 302489,
+      "game_name": "Cloning Chaos",
+      "file": "missing/C/302489-cloning-chaos.json"
     },
     {
       "igdb_id": 46580,
@@ -77103,6 +77133,11 @@
       "file": "missing/D/59421-dear-drops-distortion.json"
     },
     {
+      "igdb_id": 302490,
+      "game_name": "Dear Elonai",
+      "file": "missing/D/302490-dear-elonai.json"
+    },
+    {
       "igdb_id": 63266,
       "game_name": "Dear Esteban",
       "file": "missing/D/63266-dear-esteban.json"
@@ -81261,6 +81296,11 @@
       "igdb_id": 277290,
       "game_name": "Detective Dave",
       "file": "missing/D/277290-detective-dave.json"
+    },
+    {
+      "igdb_id": 302499,
+      "game_name": "Detective Diaries",
+      "file": "missing/D/302499-detective-diaries.json"
     },
     {
       "igdb_id": 320737,
@@ -85596,6 +85636,11 @@
       "igdb_id": 111708,
       "game_name": "Doctor Tsunami",
       "file": "missing/D/111708-doctor-tsunami.json"
+    },
+    {
+      "igdb_id": 302502,
+      "game_name": "Doctor Voldritch's experiment",
+      "file": "missing/D/302502-doctor-voldritchs-experiment.json"
     },
     {
       "igdb_id": 13597,
@@ -101883,6 +101928,11 @@
       "file": "missing/E/101498-escape-from-sin-city.json"
     },
     {
+      "igdb_id": 302507,
+      "game_name": "Escape from Somnium",
+      "file": "missing/E/302507-escape-from-somnium.json"
+    },
+    {
       "igdb_id": 299430,
       "game_name": "Escape From Sunveil Starport",
       "file": "missing/E/299430-escape-from-sunveil-starport.json"
@@ -103108,6 +103158,11 @@
       "file": "missing/E/259581-eukarion-tales-origins.json"
     },
     {
+      "igdb_id": 302513,
+      "game_name": "Euphoria Games Bundle",
+      "file": "missing/E/302513-euphoria-games-bundle.json"
+    },
+    {
       "igdb_id": 377048,
       "game_name": "Euphoria: Supreme Mechanics VR",
       "file": "missing/E/377048-euphoria-supreme-mechanics-vr.json"
@@ -103191,6 +103246,11 @@
       "igdb_id": 375302,
       "game_name": "Euro Truck Simulator 2: Isle of Ireland",
       "file": "missing/E/375302-euro-truck-simulator-2-isle-of-ireland.json"
+    },
+    {
+      "igdb_id": 302495,
+      "game_name": "Euro Truck Simulator 2: JCB Equipment Pack",
+      "file": "missing/E/302495-euro-truck-simulator-2-jcb-equipment-pack.json"
     },
     {
       "igdb_id": 266243,
@@ -153188,6 +153248,11 @@
       "file": "missing/H/216271-hypnospace-enforcer.json"
     },
     {
+      "igdb_id": 302509,
+      "game_name": "Hypnotica Quest",
+      "file": "missing/H/302509-hypnotica-quest.json"
+    },
+    {
       "igdb_id": 401015,
       "game_name": "Hypogeal",
       "file": "missing/H/401015-hypogeal.json"
@@ -192108,6 +192173,11 @@
       "file": "missing/M/291222-marble-meadows.json"
     },
     {
+      "igdb_id": 302526,
+      "game_name": "Marble Mechanics",
+      "file": "missing/M/302526-marble-mechanics.json"
+    },
+    {
       "igdb_id": 253025,
       "game_name": "Marble Monster",
       "file": "missing/M/253025-marble-monster.json"
@@ -197053,6 +197123,11 @@
       "file": "missing/M/304578-medival-hustle.json"
     },
     {
+      "igdb_id": 302505,
+      "game_name": "Medivination",
+      "file": "missing/M/302505-medivination.json"
+    },
+    {
       "igdb_id": 196889,
       "game_name": "Medusa Frontier",
       "file": "missing/M/196889-medusa-frontier.json"
@@ -198001,6 +198076,136 @@
       "igdb_id": 301015,
       "game_name": "Megaton Musashi W: V Navigator \"Korone Inugami\"",
       "file": "missing/M/301015-megaton-musashi-w-v-navigator-korone-inugami.json"
+    },
+    {
+      "igdb_id": 302533,
+      "game_name": "Megaton Musashi W: Wired - Attire: Arshem - Captain's Uniform",
+      "file": "missing/M/302533-megaton-musashi-w-wired-attire-arshem-captains-uniform.json"
+    },
+    {
+      "igdb_id": 302534,
+      "game_name": "Megaton Musashi W: Wired - Attire: Arshem - Dress",
+      "file": "missing/M/302534-megaton-musashi-w-wired-attire-arshem-dress.json"
+    },
+    {
+      "igdb_id": 302532,
+      "game_name": "Megaton Musashi W: Wired - Attire: Arshem - Yukata",
+      "file": "missing/M/302532-megaton-musashi-w-wired-attire-arshem-yukata.json"
+    },
+    {
+      "igdb_id": 302537,
+      "game_name": "Megaton Musashi W: Wired - Attire: Masamune - Casual",
+      "file": "missing/M/302537-megaton-musashi-w-wired-attire-masamune-casual.json"
+    },
+    {
+      "igdb_id": 302525,
+      "game_name": "Megaton Musashi W: Wired - Attire: Momoka - Yukata",
+      "file": "missing/M/302525-megaton-musashi-w-wired-attire-momoka-yukata.json"
+    },
+    {
+      "igdb_id": 302531,
+      "game_name": "Megaton Musashi W: Wired - Attire: Victor - Yukata",
+      "file": "missing/M/302531-megaton-musashi-w-wired-attire-victor-yukata.json"
+    },
+    {
+      "igdb_id": 302536,
+      "game_name": "Megaton Musashi W: Wired - Attire: Yamato - Student Uniform",
+      "file": "missing/M/302536-megaton-musashi-w-wired-attire-yamato-student-uniform.json"
+    },
+    {
+      "igdb_id": 302535,
+      "game_name": "Megaton Musashi W: Wired - Attire: Yamato - Yukata",
+      "file": "missing/M/302535-megaton-musashi-w-wired-attire-yamato-yukata.json"
+    },
+    {
+      "igdb_id": 302514,
+      "game_name": "Megaton Musashi W: Wired - Rogue: Arthur Riser - Dragon Green",
+      "file": "missing/M/302514-megaton-musashi-w-wired-rogue-arthur-riser-dragon-green.json"
+    },
+    {
+      "igdb_id": 302520,
+      "game_name": "Megaton Musashi W: Wired - Rogue: Bloody Zelle",
+      "file": "missing/M/302520-megaton-musashi-w-wired-rogue-bloody-zelle.json"
+    },
+    {
+      "igdb_id": 302524,
+      "game_name": "Megaton Musashi W: Wired - Rogue: Brahms Knight - Night Black",
+      "file": "missing/M/302524-megaton-musashi-w-wired-rogue-brahms-knight-night-black.json"
+    },
+    {
+      "igdb_id": 302523,
+      "game_name": "Megaton Musashi W: Wired - Rogue: Cybane - Tamahagane Silver",
+      "file": "missing/M/302523-megaton-musashi-w-wired-rogue-cybane-tamahagane-silver.json"
+    },
+    {
+      "igdb_id": 302522,
+      "game_name": "Megaton Musashi W: Wired - Rogue: Kaiser - Castle Snow",
+      "file": "missing/M/302522-megaton-musashi-w-wired-rogue-kaiser-castle-snow.json"
+    },
+    {
+      "igdb_id": 302516,
+      "game_name": "Megaton Musashi W: Wired - Rogue: Mad Bison - Demon Bordeaux",
+      "file": "missing/M/302516-megaton-musashi-w-wired-rogue-mad-bison-demon-bordeaux.json"
+    },
+    {
+      "igdb_id": 302518,
+      "game_name": "Megaton Musashi W: Wired - Rogue: Musashi - Samurai Red",
+      "file": "missing/M/302518-megaton-musashi-w-wired-rogue-musashi-samurai-red.json"
+    },
+    {
+      "igdb_id": 302521,
+      "game_name": "Megaton Musashi W: Wired - Rogue: Sparkman Wave - Zeus White",
+      "file": "missing/M/302521-megaton-musashi-w-wired-rogue-sparkman-wave-zeus-white.json"
+    },
+    {
+      "igdb_id": 302517,
+      "game_name": "Megaton Musashi W: Wired - V Navigator: Dragon",
+      "file": "missing/M/302517-megaton-musashi-w-wired-v-navigator-dragon.json"
+    },
+    {
+      "igdb_id": 302519,
+      "game_name": "Megaton Musashi W: Wired - V Navigator: Jibanyan",
+      "file": "missing/M/302519-megaton-musashi-w-wired-v-navigator-jibanyan.json"
+    },
+    {
+      "igdb_id": 302515,
+      "game_name": "Megaton Musashi W: Wired - V Navigator: Korone Inugami",
+      "file": "missing/M/302515-megaton-musashi-w-wired-v-navigator-korone-inugami.json"
+    },
+    {
+      "igdb_id": 302538,
+      "game_name": "Megaton Musashi W: Wired - Victory Pose: Bodybuilder",
+      "file": "missing/M/302538-megaton-musashi-w-wired-victory-pose-bodybuilder.json"
+    },
+    {
+      "igdb_id": 302527,
+      "game_name": "Megaton Musashi W: Wired - Victory Pose: Drums",
+      "file": "missing/M/302527-megaton-musashi-w-wired-victory-pose-drums.json"
+    },
+    {
+      "igdb_id": 302529,
+      "game_name": "Megaton Musashi W: Wired - Victory Pose: Fist Pump",
+      "file": "missing/M/302529-megaton-musashi-w-wired-victory-pose-fist-pump.json"
+    },
+    {
+      "igdb_id": 302528,
+      "game_name": "Megaton Musashi W: Wired - Victory Pose: Hero",
+      "file": "missing/M/302528-megaton-musashi-w-wired-victory-pose-hero.json"
+    },
+    {
+      "igdb_id": 302530,
+      "game_name": "Megaton Musashi W: Wired - Victory Pose: Kabuki",
+      "file": "missing/M/302530-megaton-musashi-w-wired-victory-pose-kabuki.json"
+    },
+    {
+      "igdb_id": 302539,
+      "game_name": "Megaton Musashi W: Wired - Victory Pose: Karate",
+      "file": "missing/M/302539-megaton-musashi-w-wired-victory-pose-karate.json"
+    },
+    {
+      "igdb_id": 302540,
+      "game_name": "Megaton Musashi W: Wired - Victory Pose: Robot Dance",
+      "file": "missing/M/302540-megaton-musashi-w-wired-victory-pose-robot-dance.json"
     },
     {
       "igdb_id": 46648,
@@ -200566,6 +200771,11 @@
       "igdb_id": 166151,
       "game_name": "Mezase! Senkyu Ou",
       "file": "missing/M/166151-mezase-senkyu-ou.json"
+    },
+    {
+      "igdb_id": 302504,
+      "game_name": "Mezma's Revenge",
+      "file": "missing/M/302504-mezmas-revenge.json"
     },
     {
       "igdb_id": 327597,
@@ -275313,6 +275523,11 @@
       "file": "missing/S/150115-saiaku-tantei-kanojo.json"
     },
     {
+      "igdb_id": 302503,
+      "game_name": "Saihai no Yukue",
+      "file": "missing/S/302503-saihai-no-yukue.json"
+    },
+    {
       "igdb_id": 204496,
       "game_name": "Saihate Hospital",
       "file": "missing/S/204496-saihate-hospital.json"
@@ -323973,6 +324188,11 @@
       "file": "missing/T/344922-talking-ginger-2.json"
     },
     {
+      "igdb_id": 302491,
+      "game_name": "Talking in Circles",
+      "file": "missing/T/302491-talking-in-circles.json"
+    },
+    {
       "igdb_id": 179159,
       "game_name": "Talking in the Distance",
       "file": "missing/T/179159-talking-in-the-distance.json"
@@ -331081,6 +331301,11 @@
       "igdb_id": 70371,
       "game_name": "The Case of the Muffin Diver",
       "file": "missing/T/70371-the-case-of-the-muffin-diver.json"
+    },
+    {
+      "igdb_id": 302500,
+      "game_name": "The Case of the Murdered Matriarch",
+      "file": "missing/T/302500-the-case-of-the-murdered-matriarch.json"
     },
     {
       "igdb_id": 306959,
@@ -347461,6 +347686,11 @@
       "igdb_id": 315296,
       "game_name": "There's No Santa",
       "file": "missing/T/315296-theres-no-santa.json"
+    },
+    {
+      "igdb_id": 302506,
+      "game_name": "There's No Socks",
+      "file": "missing/T/302506-theres-no-socks.json"
     },
     {
       "igdb_id": 302940,
@@ -372758,6 +372988,11 @@
       "file": "missing/V/9526-visions-of-aftermath-boomtown.json"
     },
     {
+      "igdb_id": 302510,
+      "game_name": "Visit Bloofpiter Today",
+      "file": "missing/V/302510-visit-bloofpiter-today.json"
+    },
+    {
       "igdb_id": 147469,
       "game_name": "Visit Once",
       "file": "missing/V/147469-visit-once.json"
@@ -379313,6 +379548,11 @@
       "file": "missing/W/140593-whats-in-the-attic.json"
     },
     {
+      "igdb_id": 302508,
+      "game_name": "What's on Agenda",
+      "file": "missing/W/302508-whats-on-agenda.json"
+    },
+    {
       "igdb_id": 278729,
       "game_name": "What's Outside",
       "file": "missing/W/278729-whats-outside.json"
@@ -380526,6 +380766,11 @@
       "igdb_id": 33112,
       "game_name": "Who Must Die",
       "file": "missing/W/33112-who-must-die.json"
+    },
+    {
+      "igdb_id": 302493,
+      "game_name": "Who Shot James R. Burnside?",
+      "file": "missing/W/302493-who-shot-james-r-burnside.json"
     },
     {
       "igdb_id": 247168,
