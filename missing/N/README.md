@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonocular | 181384 | [181384-nonocular.json](./181384-nonocular.json) |
 | Nonogram | 112360 | [112360-nonogram.json](./112360-nonogram.json) |
 | Nonogram - The Greatest Painter | 87774 | [87774-nonogram-the-greatest-painter.json](./87774-nonogram-the-greatest-painter.json) |
+| Nonogram 3D: Mega Puzzle | 289449 | [289449-nonogram-3d-mega-puzzle.json](./289449-nonogram-3d-mega-puzzle.json) |
 | Nonogram Animals | 305913 | [305913-nonogram-animals.json](./305913-nonogram-animals.json) |
 | Nonogram Desserts | 347759 | [347759-nonogram-desserts.json](./347759-nonogram-desserts.json) |
 | Nonogram Minimal | 197918 | [197918-nonogram-minimal.json](./197918-nonogram-minimal.json) |
@@ -1911,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Combat Ship | 252714 | [252714-nuclear-combat-ship.json](./252714-nuclear-combat-ship.json) |
 | Nuclear Contingency | 30963 | [30963-nuclear-contingency.json](./30963-nuclear-contingency.json) |
 | Nuclear Corps | 187519 | [187519-nuclear-corps.json](./187519-nuclear-corps.json) |
+| Nuclear Creatures | 288338 | [288338-nuclear-creatures.json](./288338-nuclear-creatures.json) |
 | Nuclear Day | 223996 | [223996-nuclear-day.json](./223996-nuclear-day.json) |
 | Nuclear Engineer Tycoon | 414331 | [414331-nuclear-engineer-tycoon.json](./414331-nuclear-engineer-tycoon.json) |
 | Nuclear Inc 2 | 100862 | [100862-nuclear-inc-2.json](./100862-nuclear-inc-2.json) |
