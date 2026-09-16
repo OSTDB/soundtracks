@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Venture | 217326 | [217326-gem-venture.json](./217326-gem-venture.json) |
 | Gem's Hentai: Ultimate Puzzle | 296674 | [296674-gems-hentai-ultimate-puzzle.json](./296674-gems-hentai-ultimate-puzzle.json) |
 | GemaBoy: Zero Origins | 208041 | [208041-gemaboy-zero-origins.json](./208041-gemaboy-zero-origins.json) |
+| Gemalomania | 313304 | [313304-gemalomania.json](./313304-gemalomania.json) |
 | Gemaze TD | 411665 | [411665-gemaze-td.json](./411665-gemaze-td.json) |
 | Gemblades | 386881 | [386881-gemblades.json](./386881-gemblades.json) |
 | GemCore | 214157 | [214157-gemcore.json](./214157-gemcore.json) |
@@ -2423,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
 | Guess Where You Are | 320164 | [320164-guess-where-you-are.json](./320164-guess-where-you-are.json) |
 | Guessed It! | 408027 | [408027-guessed-it.json](./408027-guessed-it.json) |
+| Guest House | 313349 | [313349-guest-house.json](./313349-guest-house.json) |
 | Guest Rush | 342728 | [342728-guest-rush.json](./342728-guest-rush.json) |
 | Gui Chu Da Mao Xian | 369566 | [369566-gui-chu-da-mao-xian.json](./369566-gui-chu-da-mao-xian.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
