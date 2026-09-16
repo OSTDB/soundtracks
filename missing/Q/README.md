@@ -160,6 +160,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QUByte Classics: Gourmet Warriors | 263495 | [263495-qubyte-classics-gourmet-warriors.json](./263495-qubyte-classics-gourmet-warriors.json) |
 | QUByte Classics: The Samurai Collection | 223156 | [223156-qubyte-classics-the-samurai-collection.json](./223156-qubyte-classics-the-samurai-collection.json) |
 | Que Pasa Perro? | 86043 | [86043-que-pasa-perro.json](./86043-que-pasa-perro.json) |
+| Quebrantar Chapter 3: The Frozen Spears | 315699 | [315699-quebrantar-chapter-3-the-frozen-spears.json](./315699-quebrantar-chapter-3-the-frozen-spears.json) |
+| Quebrantar: Caila The Witch | 315695 | [315695-quebrantar-caila-the-witch.json](./315695-quebrantar-caila-the-witch.json) |
+| Quebrantar: The Black Swamp | 315696 | [315696-quebrantar-the-black-swamp.json](./315696-quebrantar-the-black-swamp.json) |
 | Quecksilber | 245872 | [245872-quecksilber.json](./245872-quecksilber.json) |
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
 | Queen Elsa and Her Horse Girl Games | 107862 | [107862-queen-elsa-and-her-horse-girl-games.json](./107862-queen-elsa-and-her-horse-girl-games.json) |
