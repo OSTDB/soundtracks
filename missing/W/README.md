@@ -1742,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein 3D | 306982 | [306982-wolfenstein-3d.json](./306982-wolfenstein-3d.json) |
 | Wolfenstein 3D | 306984 | [306984-wolfenstein-3d.json](./306984-wolfenstein-3d.json) |
 | Wolfenstein 3D | 306985 | [306985-wolfenstein-3d.json](./306985-wolfenstein-3d.json) |
+| Wolfenstein 3D: Coffee Break | 308974 | [308974-wolfenstein-3d-coffee-break.json](./308974-wolfenstein-3d-coffee-break.json) |
 | Wolfenstein 3D: Second Encounter | 306961 | [306961-wolfenstein-3d-second-encounter.json](./306961-wolfenstein-3d-second-encounter.json) |
 | Wolfenstein 3D: Third Encounter | 306963 | [306963-wolfenstein-3d-third-encounter.json](./306963-wolfenstein-3d-third-encounter.json) |
 | Wolfenstein II: The Freedom Chronicles - Season Pass | 75847 | [75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json](./75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json) |
