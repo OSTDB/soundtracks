@@ -2390,6 +2390,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoop Fever | 90691 | [90691-hoop-fever.json](./90691-hoop-fever.json) |
 | Hoops: Shut Up and Jam | 245294 | [245294-hoops-shut-up-and-jam.json](./245294-hoops-shut-up-and-jam.json) |
 | Hoops: Shut Up and Jam 2 | 245293 | [245293-hoops-shut-up-and-jam-2.json](./245293-hoops-shut-up-and-jam-2.json) |
+| Hooray for Maths | 318034 | [318034-hooray-for-maths.json](./318034-hooray-for-maths.json) |
+| Hooray for Spelling | 318044 | [318044-hooray-for-spelling.json](./318044-hooray-for-spelling.json) |
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
 | Hop for the Best | 206945 | [206945-hop-for-the-best.json](./206945-hop-for-the-best.json) |
 | Hop N' Swap | 340481 | [340481-hop-n-swap.json](./340481-hop-n-swap.json) |
@@ -2492,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Royale | 153965 | [153965-horror-royale.json](./153965-horror-royale.json) |
 | Horror Run | 201237 | [201237-horror-run.json](./201237-horror-run.json) |
 | Horror Scary Granny Pink Barby | 231936 | [231936-horror-scary-granny-pink-barby.json](./231936-horror-scary-granny-pink-barby.json) |
+| Horror Simulator: Co-Op | 318059 | [318059-horror-simulator-co-op.json](./318059-horror-simulator-co-op.json) |
 | Horror Stories | 60496 | [60496-horror-stories.json](./60496-horror-stories.json) |
 | Horror Story | 42001 | [42001-horror-story.json](./42001-horror-story.json) |
 | Horror Tale 1: Kidnapper | 239049 | [239049-horror-tale-1-kidnapper.json](./239049-horror-tale-1-kidnapper.json) |
@@ -2637,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Story | 224754 | [224754-hotel-story.json](./224754-hotel-story.json) |
 | Hotel Tales | 333351 | [333351-hotel-tales.json](./333351-hotel-tales.json) |
 | Hotel Tome ws | 340486 | [340486-hotel-tome-ws.json](./340486-hotel-tome-ws.json) |
+| Hotelnomaly | 318062 | [318062-hotelnomaly.json](./318062-hotelnomaly.json) |
 | HotFloor | 102406 | [102406-hotfloor.json](./102406-hotfloor.json) |
 | HotHead | 110340 | [110340-hothead.json](./110340-hothead.json) |
 | HotHead Heights | 215377 | [215377-hothead-heights.json](./215377-hothead-heights.json) |
