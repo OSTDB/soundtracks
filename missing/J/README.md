@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy's No. 44 House | 356668 | [356668-jimmys-no-44-house.json](./356668-jimmys-no-44-house.json) |
 | Jimmy's Soccer Manager | 77377 | [77377-jimmys-soccer-manager.json](./77377-jimmys-soccer-manager.json) |
 | JimmyQuest | 299146 | [299146-jimmyquest.json](./299146-jimmyquest.json) |
+| JimsDay | 314501 | [314501-jimsday.json](./314501-jimsday.json) |
 | Jin & Jan | 318182 | [318182-jin-and-jan.json](./318182-jin-and-jan.json) |
 | Jin Lin Love Story | 106563 | [106563-jin-lin-love-story.json](./106563-jin-lin-love-story.json) |
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
