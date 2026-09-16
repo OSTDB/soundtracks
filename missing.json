@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T14:51:37.355Z",
-  "total_missing": 78336,
+  "generated_at": "2026-09-16T15:04:05.029Z",
+  "total_missing": 78385,
   "games": [
     {
       "igdb_id": 306086,
@@ -6098,11 +6098,6 @@
       "file": "missing/A/232449-agent-roy-zombie-hunt.json"
     },
     {
-      "igdb_id": 208011,
-      "game_name": "Agent Sorry",
-      "file": "missing/A/208011-agent-sorry.json"
-    },
-    {
       "igdb_id": 12247,
       "game_name": "Agent USA",
       "file": "missing/A/12247-agent-usa.json"
@@ -6561,6 +6556,11 @@
       "igdb_id": 43934,
       "game_name": "Air Hockey",
       "file": "missing/A/43934-air-hockey.json"
+    },
+    {
+      "igdb_id": 306526,
+      "game_name": "Air Hockey: Casual Table Arcade",
+      "file": "missing/A/306526-air-hockey-casual-table-arcade.json"
     },
     {
       "igdb_id": 239889,
@@ -14968,6 +14968,11 @@
       "file": "missing/A/63836-aqua-moto-racing-2.json"
     },
     {
+      "igdb_id": 306527,
+      "game_name": "Aqua Puzzle Adventures",
+      "file": "missing/A/306527-aqua-puzzle-adventures.json"
+    },
+    {
       "igdb_id": 6911,
       "game_name": "Aqua Teen Hunger Force Zombie Ninja Pro-Am",
       "file": "missing/A/6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json"
@@ -15701,6 +15706,11 @@
       "igdb_id": 300731,
       "game_name": "Arcade Archives: Rastan Saga",
       "file": "missing/A/300731-arcade-archives-rastan-saga.json"
+    },
+    {
+      "igdb_id": 306525,
+      "game_name": "Arcade Archives: Rastan Saga II",
+      "file": "missing/A/306525-arcade-archives-rastan-saga-ii.json"
     },
     {
       "igdb_id": 392771,
@@ -18111,6 +18121,11 @@
       "igdb_id": 6556,
       "game_name": "Art of Fighting 2",
       "file": "missing/A/6556-art-of-fighting-2.json"
+    },
+    {
+      "igdb_id": 306530,
+      "game_name": "Art of Glide II",
+      "file": "missing/A/306530-art-of-glide-ii.json"
     },
     {
       "igdb_id": 26721,
@@ -20566,6 +20581,11 @@
       "igdb_id": 201303,
       "game_name": "At the Heart of the Forest",
       "file": "missing/A/201303-at-the-heart-of-the-forest.json"
+    },
+    {
+      "igdb_id": 306512,
+      "game_name": "At Your Feet",
+      "file": "missing/A/306512-at-your-feet.json"
     },
     {
       "igdb_id": 226226,
@@ -40558,6 +40578,11 @@
       "file": "missing/B/158169-bouncy-cat.json"
     },
     {
+      "igdb_id": 306529,
+      "game_name": "Bouncy Chicken",
+      "file": "missing/B/306529-bouncy-chicken.json"
+    },
+    {
       "igdb_id": 242219,
       "game_name": "Bouncy Goal",
       "file": "missing/B/242219-bouncy-goal.json"
@@ -45076,6 +45101,11 @@
       "igdb_id": 312160,
       "game_name": "Bunny Bunker",
       "file": "missing/B/312160-bunny-bunker.json"
+    },
+    {
+      "igdb_id": 306528,
+      "game_name": "Bunny E-shop",
+      "file": "missing/B/306528-bunny-e-shop.json"
     },
     {
       "igdb_id": 221162,
@@ -57988,6 +58018,11 @@
       "file": "missing/C/56428-clash-of-warriors-9-legends.json"
     },
     {
+      "igdb_id": 306514,
+      "game_name": "Clasherball",
+      "file": "missing/C/306514-clasherball.json"
+    },
+    {
       "igdb_id": 353953,
       "game_name": "Classic Arcades: Pong",
       "file": "missing/C/353953-classic-arcades-pong.json"
@@ -68743,6 +68778,16 @@
       "file": "missing/C/308796-crypt-stalker-extended-edition.json"
     },
     {
+      "igdb_id": 306521,
+      "game_name": "Crypt Stalker: Happy Edition",
+      "file": "missing/C/306521-crypt-stalker-happy-edition.json"
+    },
+    {
+      "igdb_id": 306522,
+      "game_name": "Crypt Stalker: Ultimate Edition",
+      "file": "missing/C/306522-crypt-stalker-ultimate-edition.json"
+    },
+    {
       "igdb_id": 109072,
       "game_name": "Crypt Underworld",
       "file": "missing/C/109072-crypt-underworld.json"
@@ -69071,6 +69116,11 @@
       "igdb_id": 11648,
       "game_name": "Crystal Warriors",
       "file": "missing/C/11648-crystal-warriors.json"
+    },
+    {
+      "igdb_id": 306502,
+      "game_name": "Crystal Wish: Bits Collection",
+      "file": "missing/C/306502-crystal-wish-bits-collection.json"
     },
     {
       "igdb_id": 264888,
@@ -71546,6 +71596,11 @@
       "igdb_id": 283152,
       "game_name": "Cynthia: Hidden in the Moonshadow - Complete Edition",
       "file": "missing/C/283152-cynthia-hidden-in-the-moonshadow-complete-edition.json"
+    },
+    {
+      "igdb_id": 306491,
+      "game_name": "Cynthia: Hidden in the Moonshadow - Special Edition",
+      "file": "missing/C/306491-cynthia-hidden-in-the-moonshadow-special-edition.json"
     },
     {
       "igdb_id": 317261,
@@ -96818,6 +96873,11 @@
       "file": "missing/E/334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json"
     },
     {
+      "igdb_id": 306531,
+      "game_name": "Eggconsole Topple Zip PC-8801",
+      "file": "missing/E/306531-eggconsole-topple-zip-pc-8801.json"
+    },
+    {
       "igdb_id": 292867,
       "game_name": "Eggconsole Xak PC-8801mkIISR",
       "file": "missing/E/292867-eggconsole-xak-pc-8801mkiisr.json"
@@ -101606,6 +101666,11 @@
       "igdb_id": 152389,
       "game_name": "Escape Room Mystery Adventure: Enchanting Tales",
       "file": "missing/E/152389-escape-room-mystery-adventure-enchanting-tales.json"
+    },
+    {
+      "igdb_id": 306493,
+      "game_name": "Escape Room Ultimate Bundle",
+      "file": "missing/E/306493-escape-room-ultimate-bundle.json"
     },
     {
       "igdb_id": 244246,
@@ -120983,6 +121048,11 @@
       "file": "missing/F/311460-frozen-heart.json"
     },
     {
+      "igdb_id": 306520,
+      "game_name": "Frozen Honey ASMR: Sleek Edition",
+      "file": "missing/F/306520-frozen-honey-asmr-sleek-edition.json"
+    },
+    {
       "igdb_id": 328245,
       "game_name": "Frozen Inferno",
       "file": "missing/F/328245-frozen-inferno.json"
@@ -127523,6 +127593,11 @@
       "file": "missing/G/371318-ghostrunner-ii-endless-moto-mode.json"
     },
     {
+      "igdb_id": 306496,
+      "game_name": "Ghosts",
+      "file": "missing/G/306496-ghosts.json"
+    },
+    {
       "igdb_id": 178021,
       "game_name": "Ghosts 'n Goblins",
       "file": "missing/G/178021-ghosts-n-goblins.json"
@@ -129351,6 +129426,11 @@
       "igdb_id": 84873,
       "game_name": "Goat Runner",
       "file": "missing/G/84873-goat-runner.json"
+    },
+    {
+      "igdb_id": 306488,
+      "game_name": "Goat Simulator 3: Multiversal Traveler's Edition",
+      "file": "missing/G/306488-goat-simulator-3-multiversal-travelers-edition.json"
     },
     {
       "igdb_id": 305106,
@@ -170733,6 +170813,11 @@
       "file": "missing/K/44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json"
     },
     {
+      "igdb_id": 306474,
+      "game_name": "Kingdom Hearts III + Re Mind",
+      "file": "missing/K/306474-kingdom-hearts-iii-re-mind.json"
+    },
+    {
       "igdb_id": 187459,
       "game_name": "Kingdom Hearts III + Re Mind: Cloud Version",
       "file": "missing/K/187459-kingdom-hearts-iii-re-mind-cloud-version.json"
@@ -207668,6 +207753,11 @@
       "file": "missing/M/301852-moonstone-island-arcane-artifacts.json"
     },
     {
+      "igdb_id": 306524,
+      "game_name": "Moonstone Island: Deluxe Edition",
+      "file": "missing/M/306524-moonstone-island-deluxe-edition.json"
+    },
+    {
       "igdb_id": 293412,
       "game_name": "Moonstone Island: Designed for Lovers DLC Pack",
       "file": "missing/M/293412-moonstone-island-designed-for-lovers-dlc-pack.json"
@@ -213156,6 +213246,11 @@
       "igdb_id": 43165,
       "game_name": "My Time at Portia",
       "file": "missing/M/43165-my-time-at-portia.json"
+    },
+    {
+      "igdb_id": 306487,
+      "game_name": "My Time at Sandrock: Online",
+      "file": "missing/M/306487-my-time-at-sandrock-online.json"
     },
     {
       "igdb_id": 277822,
@@ -231078,6 +231173,11 @@
       "file": "missing/O/256264-outbreak-gwens-nightmare.json"
     },
     {
+      "igdb_id": 306486,
+      "game_name": "Outbreak: Heart and Brains Collection",
+      "file": "missing/O/306486-outbreak-heart-and-brains-collection.json"
+    },
+    {
       "igdb_id": 331429,
       "game_name": "Outbreak: Hideous Hallucinations Collection",
       "file": "missing/O/331429-outbreak-hideous-hallucinations-collection.json"
@@ -239138,6 +239238,11 @@
       "file": "missing/P/202320-phobia.json"
     },
     {
+      "igdb_id": 306479,
+      "game_name": "PhoboPhobia",
+      "file": "missing/P/306479-phobophobia.json"
+    },
+    {
       "igdb_id": 184093,
       "game_name": "Phobos",
       "file": "missing/P/184093-phobos.json"
@@ -239291,6 +239396,11 @@
       "igdb_id": 413602,
       "game_name": "Phoenix Wrong",
       "file": "missing/P/413602-phoenix-wrong.json"
+    },
+    {
+      "igdb_id": 306483,
+      "game_name": "Phoenix, Write!",
+      "file": "missing/P/306483-phoenix-write.json"
     },
     {
       "igdb_id": 313272,
@@ -264028,6 +264138,11 @@
       "file": "missing/R/409559-retro-asylum.json"
     },
     {
+      "igdb_id": 306533,
+      "game_name": "Retro Battle",
+      "file": "missing/R/306533-retro-battle.json"
+    },
+    {
       "igdb_id": 147913,
       "game_name": "Retro Classix 2-in-1 Pack: Gate of Doom & Wizard Fire",
       "file": "missing/R/147913-retro-classix-2-in-1-pack-gate-of-doom-and-wizard-fire.json"
@@ -268386,6 +268501,11 @@
       "igdb_id": 208387,
       "game_name": "Rocket Bunnies",
       "file": "missing/R/208387-rocket-bunnies.json"
+    },
+    {
+      "igdb_id": 306523,
+      "game_name": "Rocket Car: Ultimate Ball League Machines - Premium Edition",
+      "file": "missing/R/306523-rocket-car-ultimate-ball-league-machines-premium-edition.json"
     },
     {
       "igdb_id": 265427,
@@ -274698,6 +274818,11 @@
       "file": "missing/S/79851-salvation.json"
     },
     {
+      "igdb_id": 306490,
+      "game_name": "Salvation Hours",
+      "file": "missing/S/306490-salvation-hours.json"
+    },
+    {
       "igdb_id": 75183,
       "game_name": "Salvation in Corruption",
       "file": "missing/S/75183-salvation-in-corruption.json"
@@ -277821,6 +277946,11 @@
       "igdb_id": 58181,
       "game_name": "Scramblies",
       "file": "missing/S/58181-scramblies.json"
+    },
+    {
+      "igdb_id": 306498,
+      "game_name": "Scrap Age Survivors",
+      "file": "missing/S/306498-scrap-age-survivors.json"
     },
     {
       "igdb_id": 172130,
@@ -298643,6 +298773,16 @@
       "file": "missing/S/263380-space-harrier.json"
     },
     {
+      "igdb_id": 306472,
+      "game_name": "Space Harrier",
+      "file": "missing/S/306472-space-harrier.json"
+    },
+    {
+      "igdb_id": 306475,
+      "game_name": "Space Harrier",
+      "file": "missing/S/306475-space-harrier.json"
+    },
+    {
       "igdb_id": 341883,
       "game_name": "Space Harrier",
       "file": "missing/S/341883-space-harrier.json"
@@ -311918,6 +312058,26 @@
       "file": "missing/S/310176-sun-city.json"
     },
     {
+      "igdb_id": 306506,
+      "game_name": "Sun Haven: Bloom and Doom Pack",
+      "file": "missing/S/306506-sun-haven-bloom-and-doom-pack.json"
+    },
+    {
+      "igdb_id": 306507,
+      "game_name": "Sun Haven: Celestial Pack",
+      "file": "missing/S/306507-sun-haven-celestial-pack.json"
+    },
+    {
+      "igdb_id": 306505,
+      "game_name": "Sun Haven: Claws and Paws Pack",
+      "file": "missing/S/306505-sun-haven-claws-and-paws-pack.json"
+    },
+    {
+      "igdb_id": 306504,
+      "game_name": "Sun Haven: Deep Sea Pack",
+      "file": "missing/S/306504-sun-haven-deep-sea-pack.json"
+    },
+    {
       "igdb_id": 389574,
       "game_name": "Sun Haven: Emerald Elegance Pack",
       "file": "missing/S/389574-sun-haven-emerald-elegance-pack.json"
@@ -311933,9 +312093,19 @@
       "file": "missing/S/389569-sun-haven-once-upon-a-time-pack.json"
     },
     {
+      "igdb_id": 306503,
+      "game_name": "Sun Haven: Pop Sensation Pack",
+      "file": "missing/S/306503-sun-haven-pop-sensation-pack.json"
+    },
+    {
       "igdb_id": 389568,
       "game_name": "Sun Haven: Radiant Royalty Pack",
       "file": "missing/S/389568-sun-haven-radiant-royalty-pack.json"
+    },
+    {
+      "igdb_id": 306510,
+      "game_name": "Sun Haven: Snow Day Pack",
+      "file": "missing/S/306510-sun-haven-snow-day-pack.json"
     },
     {
       "igdb_id": 389571,
@@ -311948,6 +312118,16 @@
       "file": "missing/S/389572-sun-haven-squeaky-clean-pack.json"
     },
     {
+      "igdb_id": 306508,
+      "game_name": "Sun Haven: Starlight Pack",
+      "file": "missing/S/306508-sun-haven-starlight-pack.json"
+    },
+    {
+      "igdb_id": 306509,
+      "game_name": "Sun Haven: Sugar Rush Pack",
+      "file": "missing/S/306509-sun-haven-sugar-rush-pack.json"
+    },
+    {
       "igdb_id": 389573,
       "game_name": "Sun Haven: Tea Temple Pack",
       "file": "missing/S/389573-sun-haven-tea-temple-pack.json"
@@ -311956,6 +312136,11 @@
       "igdb_id": 389570,
       "game_name": "Sun Haven: Tis the Season Pack",
       "file": "missing/S/389570-sun-haven-tis-the-season-pack.json"
+    },
+    {
+      "igdb_id": 306511,
+      "game_name": "Sun Haven: Toy Pack",
+      "file": "missing/S/306511-sun-haven-toy-pack.json"
     },
     {
       "igdb_id": 385076,
@@ -312511,6 +312696,11 @@
       "igdb_id": 172655,
       "game_name": "Super Block",
       "file": "missing/S/172655-super-block.json"
+    },
+    {
+      "igdb_id": 306497,
+      "game_name": "Super Block Jump",
+      "file": "missing/S/306497-super-block-jump.json"
     },
     {
       "igdb_id": 91431,
@@ -318846,6 +319036,11 @@
       "igdb_id": 152896,
       "game_name": "Switch It",
       "file": "missing/S/152896-switch-it.json"
+    },
+    {
+      "igdb_id": 306517,
+      "game_name": "Switch Race",
+      "file": "missing/S/306517-switch-race.json"
     },
     {
       "igdb_id": 406772,
@@ -329938,6 +330133,11 @@
       "file": "missing/T/238210-the-collector.json"
     },
     {
+      "igdb_id": 306485,
+      "game_name": "The College Brickout",
+      "file": "missing/T/306485-the-college-brickout.json"
+    },
+    {
       "igdb_id": 18685,
       "game_name": "The Collider 2",
       "file": "missing/T/18685-the-collider-2.json"
@@ -331713,6 +331913,11 @@
       "file": "missing/T/57-the-elder-scrolls-iii-tribunal.json"
     },
     {
+      "igdb_id": 306484,
+      "game_name": "The Elder Scrolls Online Collection: Gold Road",
+      "file": "missing/T/306484-the-elder-scrolls-online-collection-gold-road.json"
+    },
+    {
       "igdb_id": 340745,
       "game_name": "The Elder Scrolls Online: 2025 Premium Edition",
       "file": "missing/T/340745-the-elder-scrolls-online-2025-premium-edition.json"
@@ -331726,6 +331931,11 @@
       "igdb_id": 237335,
       "game_name": "The Elder Scrolls Online: Clockwork City",
       "file": "missing/T/237335-the-elder-scrolls-online-clockwork-city.json"
+    },
+    {
+      "igdb_id": 306481,
+      "game_name": "The Elder Scrolls Online: Deluxe Collection - Gold Road",
+      "file": "missing/T/306481-the-elder-scrolls-online-deluxe-collection-gold-road.json"
     },
     {
       "igdb_id": 361156,
@@ -360283,6 +360493,11 @@
       "file": "missing/T/376580-truck-simulator-us-driver.json"
     },
     {
+      "igdb_id": 306513,
+      "game_name": "Truck Simulator USA & ATV Monster Rally Bundle",
+      "file": "missing/T/306513-truck-simulator-usa-and-atv-monster-rally-bundle.json"
+    },
+    {
       "igdb_id": 383514,
       "game_name": "Truck Simulator: European Roads",
       "file": "missing/T/383514-truck-simulator-european-roads.json"
@@ -369188,6 +369403,11 @@
       "file": "missing/V/292882-venus-voyager-2.json"
     },
     {
+      "igdb_id": 306516,
+      "game_name": "Vera Blanc: Supernatural Mysteries",
+      "file": "missing/V/306516-vera-blanc-supernatural-mysteries.json"
+    },
+    {
       "igdb_id": 215673,
       "game_name": "Vera: The Last Hope",
       "file": "missing/V/215673-vera-the-last-hope.json"
@@ -374068,6 +374288,11 @@
       "file": "missing/W/336934-war-thunder-ijn-yamashiro-pack.json"
     },
     {
+      "igdb_id": 306492,
+      "game_name": "War Thunder: Leopard 2A4M CAN Bundle",
+      "file": "missing/W/306492-war-thunder-leopard-2a4m-can-bundle.json"
+    },
+    {
       "igdb_id": 336935,
       "game_name": "War Thunder: Marder Clovis Pack",
       "file": "missing/W/336935-war-thunder-marder-clovis-pack.json"
@@ -374081,6 +374306,11 @@
       "igdb_id": 336936,
       "game_name": "War Thunder: Somua SM Pack",
       "file": "missing/W/336936-war-thunder-somua-sm-pack.json"
+    },
+    {
+      "igdb_id": 306494,
+      "game_name": "War Thunder: T-80U-E1 Bundle",
+      "file": "missing/W/306494-war-thunder-t-80u-e1-bundle.json"
     },
     {
       "igdb_id": 336937,
@@ -374446,6 +374676,11 @@
       "igdb_id": 289900,
       "game_name": "Warhammer 40,000: Battlesector - T'au",
       "file": "missing/W/289900-warhammer-40-000-battlesector-tau.json"
+    },
+    {
+      "igdb_id": 306489,
+      "game_name": "Warhammer 40,000: Boltgun - Forges of Corruption Edition",
+      "file": "missing/W/306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json"
     },
     {
       "igdb_id": 143650,
@@ -379276,6 +379511,11 @@
       "igdb_id": 403721,
       "game_name": "Wild West Survivors",
       "file": "missing/W/403721-wild-west-survivors.json"
+    },
+    {
+      "igdb_id": 306515,
+      "game_name": "Wild West Tycoon Empire",
+      "file": "missing/W/306515-wild-west-tycoon-empire.json"
     },
     {
       "igdb_id": 104075,
@@ -390446,6 +390686,11 @@
       "igdb_id": 284932,
       "game_name": "Zombie Defense: Perfect Cut Edition",
       "file": "missing/Z/284932-zombie-defense-perfect-cut-edition.json"
+    },
+    {
+      "igdb_id": 306518,
+      "game_name": "Zombie Defense: Pew Pew Edition",
+      "file": "missing/Z/306518-zombie-defense-pew-pew-edition.json"
     },
     {
       "igdb_id": 96622,
