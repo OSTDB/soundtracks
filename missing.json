@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T06:19:09.334Z",
-  "total_missing": 76855,
+  "generated_at": "2026-09-16T06:21:40.345Z",
+  "total_missing": 76854,
   "games": [
     {
       "igdb_id": 306086,
@@ -5826,11 +5826,6 @@
       "igdb_id": 169936,
       "game_name": "Agents of Mayhem: Lazarus Agent Pack",
       "file": "missing/A/169936-agents-of-mayhem-lazarus-agent-pack.json"
-    },
-    {
-      "igdb_id": 344343,
-      "game_name": "Aggi's Tiny Friends",
-      "file": "missing/A/344343-aggis-tiny-friends.json"
     },
     {
       "igdb_id": 39336,
