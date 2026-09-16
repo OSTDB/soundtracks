@@ -1219,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomscape | 253396 | [253396-gloomscape.json](./253396-gloomscape.json) |
 | Gloomsday | 285459 | [285459-gloomsday.json](./285459-gloomsday.json) |
 | Gloomy Island | 278133 | [278133-gloomy-island.json](./278133-gloomy-island.json) |
+| Glorg | 286653 | [286653-glorg.json](./286653-glorg.json) |
 | Glorgorian Weather Initiative | 393509 | [393509-glorgorian-weather-initiative.json](./393509-glorgorian-weather-initiative.json) |
 | Gloria in Somnium | 308426 | [308426-gloria-in-somnium.json](./308426-gloria-in-somnium.json) |
 | Gloria Sinica: Han Xiongnu Wars | 67930 | [67930-gloria-sinica-han-xiongnu-wars.json](./67930-gloria-sinica-han-xiongnu-wars.json) |
@@ -2445,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Realms RPG | 365188 | [365188-guardian-realms-rpg.json](./365188-guardian-realms-rpg.json) |
 | Guardian Realms TCG | 365187 | [365187-guardian-realms-tcg.json](./365187-guardian-realms-tcg.json) |
 | Guardian Recall | 123006 | [123006-guardian-recall.json](./123006-guardian-recall.json) |
+| Guardian Rock | 286655 | [286655-guardian-rock.json](./286655-guardian-rock.json) |
 | Guardian Sword | 26627 | [26627-guardian-sword.json](./26627-guardian-sword.json) |
 | Guardian Tactics: Deck of the Chosen | 292543 | [292543-guardian-tactics-deck-of-the-chosen.json](./292543-guardian-tactics-deck-of-the-chosen.json) |
 | Guardian Tales | 133433 | [133433-guardian-tales.json](./133433-guardian-tales.json) |
@@ -2779,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guru Logic | 84233 | [84233-guru-logic.json](./84233-guru-logic.json) |
 | Guru Meditation | 178091 | [178091-guru-meditation.json](./178091-guru-meditation.json) |
 | Gurugedara | 61620 | [61620-gurugedara.json](./61620-gurugedara.json) |
+| Gururin World | 286633 | [286633-gururin-world.json](./286633-gururin-world.json) |
 | Gütertrennung | 86017 | [86017-gutertrennung.json](./86017-gutertrennung.json) |
 | Guts and Syringes | 94766 | [94766-guts-and-syringes.json](./94766-guts-and-syringes.json) |
 | Guts'n | 40183 | [40183-gutsn.json](./40183-gutsn.json) |
