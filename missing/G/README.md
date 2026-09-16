@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldrush | 314035 | [314035-goldrush.json](./314035-goldrush.json) |
 | Goldspace | 184643 | [184643-goldspace.json](./184643-goldspace.json) |
 | GoldStorm Pirates | 326948 | [326948-goldstorm-pirates.json](./326948-goldstorm-pirates.json) |
+| Golem | 310610 | [310610-golem.json](./310610-golem.json) |
 | Golem Wars | 58752 | [58752-golem-wars.json](./58752-golem-wars.json) |
 | Golf | 131528 | [131528-golf.json](./131528-golf.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
@@ -2180,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridle | 372494 | [372494-gridle.json](./372494-gridle.json) |
 | Gridlock | 356703 | [356703-gridlock.json](./356703-gridlock.json) |
 | Gridlock Dungeon | 297221 | [297221-gridlock-dungeon.json](./297221-gridlock-dungeon.json) |
+| Gridrunner | 310566 | [310566-gridrunner.json](./310566-gridrunner.json) |
 | Gridrunner++ | 61033 | [61033-gridrunner.json](./61033-gridrunner.json) |
 | Grids of Thermometers | 296076 | [296076-grids-of-thermometers.json](./296076-grids-of-thermometers.json) |
 | Grids of World | 132269 | [132269-grids-of-world.json](./132269-grids-of-world.json) |
