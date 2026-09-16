@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic & Empire | 97380 | [97380-magic-and-empire.json](./97380-magic-and-empire.json) |
 | Magic & Mayhem: The Art of Magic | 70956 | [70956-magic-and-mayhem-the-art-of-magic.json](./70956-magic-and-mayhem-the-art-of-magic.json) |
 | Magic & Sanctuary | 219784 | [219784-magic-and-sanctuary.json](./219784-magic-and-sanctuary.json) |
+| Magic Academy | 311117 | [311117-magic-academy.json](./311117-magic-academy.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
 | Magic Balls | 263474 | [263474-magic-balls.json](./263474-magic-balls.json) |
@@ -312,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
 | Magic Paint | 88224 | [88224-magic-paint.json](./88224-magic-paint.json) |
 | Magic Paper | 250648 | [250648-magic-paper.json](./250648-magic-paper.json) |
+| Magic Patrol Envoy | 311135 | [311135-magic-patrol-envoy.json](./311135-magic-patrol-envoy.json) |
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
@@ -4440,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motto!? Fushigi no Gensoukyou Plus: The Dungeon of Dreams and Magic | 206938 | [206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json](./206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json) |
 | Motto!? Fushigi no Gensoukyou Prologue: Chijou kara no Kyoui | 206939 | [206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json](./206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json) |
 | Motto!? Fushigi no Gensoukyou: Under the Moonlight | 206935 | [206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json](./206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json) |
+| Motu | 311125 | [311125-motu.json](./311125-motu.json) |
 | Motu Patlu Bicycle Riding | 325120 | [325120-motu-patlu-bicycle-riding.json](./325120-motu-patlu-bicycle-riding.json) |
 | Motu Patlu BulbCreeker | 325116 | [325116-motu-patlu-bulbcreeker.json](./325116-motu-patlu-bulbcreeker.json) |
 | Motu Patlu Car Game | 325112 | [325112-motu-patlu-car-game.json](./325112-motu-patlu-car-game.json) |
