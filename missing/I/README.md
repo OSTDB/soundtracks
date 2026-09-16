@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Beast Hunter | 297222 | [297222-idle-beast-hunter.json](./297222-idle-beast-hunter.json) |
 | Idle Bouncer | 61644 | [61644-idle-bouncer.json](./61644-idle-bouncer.json) |
 | Idle Breakanoid | 383952 | [383952-idle-breakanoid.json](./383952-idle-breakanoid.json) |
+| Idle Breaker: Loot and Survive | 297597 | [297597-idle-breaker-loot-and-survive.json](./297597-idle-breaker-loot-and-survive.json) |
 | Idle Bubbles Cannon: Aim & Tap | 245336 | [245336-idle-bubbles-cannon-aim-and-tap.json](./245336-idle-bubbles-cannon-aim-and-tap.json) |
 | Idle Build RPG | 260166 | [260166-idle-build-rpg.json](./260166-idle-build-rpg.json) |
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
@@ -803,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Epic Breakers | 163968 | [163968-incremental-epic-breakers.json](./163968-incremental-epic-breakers.json) |
 | Incremental Epic Breakers: Automation Pack | 171032 | [171032-incremental-epic-breakers-automation-pack.json](./171032-incremental-epic-breakers-automation-pack.json) |
 | Incremental Epic Hero 2 | 197398 | [197398-incremental-epic-hero-2.json](./197398-incremental-epic-hero-2.json) |
+| Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
 | Incursion2D | 284887 | [284887-incursion2d.json](./284887-incursion2d.json) |
 | Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
 | Indekos | 328613 | [328613-indekos.json](./328613-indekos.json) |
@@ -1010,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity R | 340752 | [340752-infinity-r.json](./340752-infinity-r.json) |
 | Infinity Rising | 315056 | [315056-infinity-rising.json](./315056-infinity-rising.json) |
 | Infinity Run | 105875 | [105875-infinity-run.json](./105875-infinity-run.json) |
+| Infinity Runner Bot | 297639 | [297639-infinity-runner-bot.json](./297639-infinity-runner-bot.json) |
 | Infinity Slime Dungeon | 321754 | [321754-infinity-slime-dungeon.json](./321754-infinity-slime-dungeon.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai | 137928 | [137928-infinity-strash-dragon-quest-the-adventure-of-dai.json](./137928-infinity-strash-dragon-quest-the-adventure-of-dai.json) |
 | Infinity Tower | 357845 | [357845-infinity-tower.json](./357845-infinity-tower.json) |
