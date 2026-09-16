@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bipo's Adventure | 183018 | [183018-bipos-adventure.json](./183018-bipos-adventure.json) |
 | Bipolar Game | 32975 | [32975-bipolar-game.json](./32975-bipolar-game.json) |
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
+| Birchwood | 325714 | [325714-birchwood.json](./325714-birchwood.json) |
 | Bird | 159829 | [159829-bird.json](./159829-bird.json) |
 | Bird | 170496 | [170496-bird.json](./170496-bird.json) |
 | Bird | 380010 | [380010-bird.json](./380010-bird.json) |
@@ -2193,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
 | Bit Pit | 176429 | [176429-bit-pit.json](./176429-bit-pit.json) |
+| Bit-Cremental: Fishistry | 325629 | [325629-bit-cremental-fishistry.json](./325629-bit-cremental-fishistry.json) |
 | Bit.Trip Core | 15280 | [15280-bit-trip-core.json](./15280-bit-trip-core.json) |
 | BitBreaker | 97927 | [97927-bitbreaker.json](./97927-bitbreaker.json) |
 | BitBug | 181315 | [181315-bitbug.json](./181315-bitbug.json) |
@@ -3311,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booze Masters: Freezing Moonshine | 266821 | [266821-booze-masters-freezing-moonshine.json](./266821-booze-masters-freezing-moonshine.json) |
 | Bop It! Tetris | 229069 | [229069-bop-it-tetris.json](./229069-bop-it-tetris.json) |
 | Bop'n Rumble | 47219 | [47219-bopn-rumble.json](./47219-bopn-rumble.json) |
+| Bopimo! | 325696 | [325696-bopimo.json](./325696-bopimo.json) |
 | Boppin' | 14333 | [14333-boppin.json](./14333-boppin.json) |
 | Borbo's Quest | 178582 | [178582-borbos-quest.json](./178582-borbos-quest.json) |
 | Border Break | 81218 | [81218-border-break.json](./81218-border-break.json) |
@@ -3923,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broadside Bets | 401617 | [401617-broadside-bets.json](./401617-broadside-bets.json) |
 | Brobot | 159866 | [159866-brobot.json](./159866-brobot.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
+| Brok: Natal Tail, A New Christmas | 325648 | [325648-brok-natal-tail-a-new-christmas.json](./325648-brok-natal-tail-a-new-christmas.json) |
 | Broke Brodie | 362856 | [362856-broke-brodie.json](./362856-broke-brodie.json) |
 | Broke Girl | 118423 | [118423-broke-girl.json](./118423-broke-girl.json) |
 | Broke in Isekai | 310925 | [310925-broke-in-isekai.json](./310925-broke-in-isekai.json) |
