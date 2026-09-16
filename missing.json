@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T16:56:02.432Z",
-  "total_missing": 78717,
+  "generated_at": "2026-09-16T16:57:36.613Z",
+  "total_missing": 78716,
   "games": [
     {
       "igdb_id": 306086,
@@ -6176,11 +6176,6 @@
       "igdb_id": 225635,
       "game_name": "Agent Lovesdick",
       "file": "missing/A/225635-agent-lovesdick.json"
-    },
-    {
-      "igdb_id": 232449,
-      "game_name": "Agent Roy: Zombie Hunt",
-      "file": "missing/A/232449-agent-roy-zombie-hunt.json"
     },
     {
       "igdb_id": 391743,
