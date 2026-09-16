@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Termina Invasion | 294711 | [294711-termina-invasion.json](./294711-termina-invasion.json) |
 | Terminal | 177556 | [177556-terminal.json](./177556-terminal.json) |
 | Terminal | 253360 | [253360-terminal.json](./253360-terminal.json) |
+| Terminal City | 314463 | [314463-terminal-city.json](./314463-terminal-city.json) |
 | Terminal Compression | 331969 | [331969-terminal-compression.json](./331969-terminal-compression.json) |
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
@@ -2472,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
 | The Fifth Rite | 250951 | [250951-the-fifth-rite.json](./250951-the-fifth-rite.json) |
 | The Fight for Glorton | 196797 | [196797-the-fight-for-glorton.json](./196797-the-fight-for-glorton.json) |
+| The Fight of the Sumo-Hoppers | 314465 | [314465-the-fight-of-the-sumo-hoppers.json](./314465-the-fight-of-the-sumo-hoppers.json) |
 | The Final Ascent | 408826 | [408826-the-final-ascent.json](./408826-the-final-ascent.json) |
 | The Final Bastion | 238507 | [238507-the-final-bastion.json](./238507-the-final-bastion.json) |
 | The Final Battle | 69254 | [69254-the-final-battle.json](./69254-the-final-battle.json) |
@@ -2499,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Firm | 23407 | [23407-the-firm.json](./23407-the-firm.json) |
 | The First Berserker: Khazan - Deluxe Edition | 338028 | [338028-the-first-berserker-khazan-deluxe-edition.json](./338028-the-first-berserker-khazan-deluxe-edition.json) |
 | The First Berserker: Khazan - Deluxe Edition Upgrade | 338029 | [338029-the-first-berserker-khazan-deluxe-edition-upgrade.json](./338029-the-first-berserker-khazan-deluxe-edition-upgrade.json) |
+| The First Descendant: Season 1 | 314481 | [314481-the-first-descendant-season-1.json](./314481-the-first-descendant-season-1.json) |
 | The First Descendant: Season 4 | 408829 | [408829-the-first-descendant-season-4.json](./408829-the-first-descendant-season-4.json) |
 | The First Funky Fighter | 63295 | [63295-the-first-funky-fighter.json](./63295-the-first-funky-fighter.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
@@ -3146,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sacrifice: Blood King's Desire | 225676 | [225676-the-last-sacrifice-blood-kings-desire.json](./225676-the-last-sacrifice-blood-kings-desire.json) |
 | The Last Sacrifice: Blood King's Treasure | 225677 | [225677-the-last-sacrifice-blood-kings-treasure.json](./225677-the-last-sacrifice-blood-kings-treasure.json) |
 | The Last Sacrifice: Forbidden Ties | 225680 | [225680-the-last-sacrifice-forbidden-ties.json](./225680-the-last-sacrifice-forbidden-ties.json) |
+| The Last Scaler | 314466 | [314466-the-last-scaler.json](./314466-the-last-scaler.json) |
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
 | The Last Shot: Arcades | 351723 | [351723-the-last-shot-arcades.json](./351723-the-last-shot-arcades.json) |
@@ -4405,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strange Story of Brian Fisher: Chapter 2 | 168841 | [168841-the-strange-story-of-brian-fisher-chapter-2.json](./168841-the-strange-story-of-brian-fisher-chapter-2.json) |
 | The Stranger | 57143 | [57143-the-stranger.json](./57143-the-stranger.json) |
 | The Stranger From the Bus Stop | 332396 | [332396-the-stranger-from-the-bus-stop.json](./332396-the-stranger-from-the-bus-stop.json) |
+| The Strawman Augment | 314464 | [314464-the-strawman-augment.json](./314464-the-strawman-augment.json) |
 | The Stray Laboratory | 302668 | [302668-the-stray-laboratory.json](./302668-the-stray-laboratory.json) |
 | The Street 10 | 282031 | [282031-the-street-10.json](./282031-the-street-10.json) |
 | The Street King | 413727 | [413727-the-street-king.json](./413727-the-street-king.json) |
