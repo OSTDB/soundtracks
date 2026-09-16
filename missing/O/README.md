@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh, Bugger! | 347679 | [347679-oh-bugger.json](./347679-oh-bugger.json) |
 | Oh, Canada! | 371345 | [371345-oh-canada.json](./371345-oh-canada.json) |
 | Oh, Deer! | 80563 | [80563-oh-deer.json](./80563-oh-deer.json) |
+| Oh, Flock! | 304707 | [304707-oh-flock.json](./304707-oh-flock.json) |
 | Oh, Hel No! | 331664 | [331664-oh-hel-no.json](./331664-oh-hel-no.json) |
 | Oh, honey! Anime clicker! | 309379 | [309379-oh-honey-anime-clicker.json](./309379-oh-honey-anime-clicker.json) |
 | Oh, It's Christmas | 178623 | [178623-oh-its-christmas.json](./178623-oh-its-christmas.json) |
@@ -1225,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
 | Otome Chat Connection | 199051 | [199051-otome-chat-connection.json](./199051-otome-chat-connection.json) |
 | Otome ga Musubu Tsukiyo no Kirameki | 194593 | [194593-otome-ga-musubu-tsukiyo-no-kirameki.json](./194593-otome-ga-musubu-tsukiyo-no-kirameki.json) |
+| Otome Senki | 304733 | [304733-otome-senki.json](./304733-otome-senki.json) |
 | Otona no Gal Jan Kimi ni Hane Man | 248628 | [248628-otona-no-gal-jan-kimi-ni-hane-man.json](./248628-otona-no-gal-jan-kimi-ni-hane-man.json) |
 | Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
 | Otonari Koi Sensou! | 194547 | [194547-otonari-koi-sensou.json](./194547-otonari-koi-sensou.json) |
@@ -1434,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
 | Outriders: Complete Edition | 286513 | [286513-outriders-complete-edition.json](./286513-outriders-complete-edition.json) |
 | Outright | 149086 | [149086-outright.json](./149086-outright.json) |
+| OutRoad Fury | 304663 | [304663-outroad-fury.json](./304663-outroad-fury.json) |
 | Outrun | 325048 | [325048-outrun.json](./325048-outrun.json) |
 | OutRun | 307917 | [307917-outrun.json](./307917-outrun.json) |
 | OutRun | 307918 | [307918-outrun.json](./307918-outrun.json) |
