@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
 | Garbage Collect | 201223 | [201223-garbage-collect.json](./201223-garbage-collect.json) |
 | Garbage Collector | 376437 | [376437-garbage-collector.json](./376437-garbage-collector.json) |
+| Garbage Driver Truck Simulator 2025 | 319789 | [319789-garbage-driver-truck-simulator-2025.json](./319789-garbage-driver-truck-simulator-2025.json) |
 | Garbage Scow Captain | 317813 | [317813-garbage-scow-captain.json](./317813-garbage-scow-captain.json) |
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
 | Garbage Truck: Brushy Pick Up | 87273 | [87273-garbage-truck-brushy-pick-up.json](./87273-garbage-truck-brushy-pick-up.json) |
