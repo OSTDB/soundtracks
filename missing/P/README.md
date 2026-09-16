@@ -3530,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primedice | 76563 | [76563-primedice.json](./76563-primedice.json) |
 | Primeval | 158688 | [158688-primeval.json](./158688-primeval.json) |
 | Primeval Horizon | 295527 | [295527-primeval-horizon.json](./295527-primeval-horizon.json) |
+| Priministar | 294860 | [294860-priministar.json](./294860-priministar.json) |
 | Primit Shooter 2 | 270950 | [270950-primit-shooter-2.json](./270950-primit-shooter-2.json) |
 | Primitier | 140519 | [140519-primitier.json](./140519-primitier.json) |
 | Primitive Survival | 105361 | [105361-primitive-survival.json](./105361-primitive-survival.json) |
