@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Mess | 70987 | [70987-zombie-mess.json](./70987-zombie-mess.json) |
 | Zombie Misfits | 65533 | [65533-zombie-misfits.json](./65533-zombie-misfits.json) |
 | Zombie Murder Hell Arrives | 89946 | [89946-zombie-murder-hell-arrives.json](./89946-zombie-murder-hell-arrives.json) |
+| Zombie Night Defense | 300829 | [300829-zombie-night-defense.json](./300829-zombie-night-defense.json) |
 | Zombie Night Terror | 9546 | [9546-zombie-night-terror.json](./9546-zombie-night-terror.json) |
 | Zombie Nightmare | 74448 | [74448-zombie-nightmare.json](./74448-zombie-nightmare.json) |
 | Zombie Ninja Confessional | 128652 | [128652-zombie-ninja-confessional.json](./128652-zombie-ninja-confessional.json) |
@@ -432,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Survival | 212487 | [212487-zombie-survival.json](./212487-zombie-survival.json) |
 | Zombie Survival | 231077 | [231077-zombie-survival.json](./231077-zombie-survival.json) |
 | Zombie Survival 3D | 409578 | [409578-zombie-survival-3d.json](./409578-zombie-survival-3d.json) |
+| Zombie Survival: The Walking Pandemic | 300830 | [300830-zombie-survival-the-walking-pandemic.json](./300830-zombie-survival-the-walking-pandemic.json) |
 | Zombie Survivor | 360682 | [360682-zombie-survivor.json](./360682-zombie-survivor.json) |
 | Zombie Sweeper | 99580 | [99580-zombie-sweeper.json](./99580-zombie-sweeper.json) |
 | Zombie Swipeout | 254555 | [254555-zombie-swipeout.json](./254555-zombie-swipeout.json) |
