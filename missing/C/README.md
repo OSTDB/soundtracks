@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Creeps Battle | 105908 | [105908-castle-creeps-battle.json](./105908-castle-creeps-battle.json) |
 | Castle Crisis | 40782 | [40782-castle-crisis.json](./40782-castle-crisis.json) |
 | Castle Defender | 273909 | [273909-castle-defender.json](./273909-castle-defender.json) |
+| Castle Evalon | 323931 | [323931-castle-evalon.json](./323931-castle-evalon.json) |
 | Castle Explorer | 79838 | [79838-castle-explorer.json](./79838-castle-explorer.json) |
 | Castle Fantasia: Erencia Senki - Plus Stories | 408777 | [408777-castle-fantasia-erencia-senki-plus-stories.json](./408777-castle-fantasia-erencia-senki-plus-stories.json) |
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
@@ -1271,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceress and Orea | 96651 | [96651-ceress-and-orea.json](./96651-ceress-and-orea.json) |
 | Certain Death | 311466 | [311466-certain-death.json](./311466-certain-death.json) |
 | Cerulean Days | 258996 | [258996-cerulean-days.json](./258996-cerulean-days.json) |
+| Cerulean Tears | 323929 | [323929-cerulean-tears.json](./323929-cerulean-tears.json) |
 | CFG: Combat for General | 235478 | [235478-cfg-combat-for-general.json](./235478-cfg-combat-for-general.json) |
 | CFL Football '99 | 78671 | [78671-cfl-football-99.json](./78671-cfl-football-99.json) |
 | CG Mukashi Banashi: Jiisan 2-do Bikkuri!! | 346144 | [346144-cg-mukashi-banashi-jiisan-2-do-bikkuri.json](./346144-cg-mukashi-banashi-jiisan-2-do-bikkuri.json) |
@@ -4200,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis/Divider | 305153 | [305153-crisis-divider.json](./305153-crisis-divider.json) |
 | Crispy Cheese | 218148 | [218148-crispy-cheese.json](./218148-crispy-cheese.json) |
 | Crispy Chicken Speedmap Session 02 | 312892 | [312892-crispy-chicken-speedmap-session-02.json](./312892-crispy-chicken-speedmap-session-02.json) |
+| Crispy Chicken Speedmap Session 5: Paint It Doom | 323912 | [323912-crispy-chicken-speedmap-session-5-paint-it-doom.json](./323912-crispy-chicken-speedmap-session-5-paint-it-doom.json) |
 | Criss Cross | 67520 | [67520-criss-cross.json](./67520-criss-cross.json) |
 | Cristal Absoluto | 411734 | [411734-cristal-absoluto.json](./411734-cristal-absoluto.json) |
 | Critical Annihilation | 36027 | [36027-critical-annihilation.json](./36027-critical-annihilation.json) |
