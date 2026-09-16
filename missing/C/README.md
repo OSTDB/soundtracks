@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calvino Noir | 17713 | [17713-calvino-noir.json](./17713-calvino-noir.json) |
 | Calx | 203520 | [203520-calx.json](./203520-calx.json) |
 | Calypso | 140021 | [140021-calypso.json](./140021-calypso.json) |
+| Calypso's Calamity | 319243 | [319243-calypsos-calamity.json](./319243-calypsos-calamity.json) |
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
 | Cambell’s Oddity Box | 387368 | [387368-cambell-s-oddity-box.json](./387368-cambell-s-oddity-box.json) |
 | Cambria | 344349 | [344349-cambria.json](./344349-cambria.json) |
@@ -911,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Good Work | 309686 | [309686-cat-good-work.json](./309686-cat-good-work.json) |
 | Cat got Lost | 260670 | [260670-cat-got-lost.json](./260670-cat-got-lost.json) |
 | Cat Got Your Tongue | 360674 | [360674-cat-got-your-tongue.json](./360674-cat-got-your-tongue.json) |
+| Cat Guardian | 319201 | [319201-cat-guardian.json](./319201-cat-guardian.json) |
 | Cat Hits the Deck | 406209 | [406209-cat-hits-the-deck.json](./406209-cat-hits-the-deck.json) |
 | Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
 | Cat in the Box | 132754 | [132754-cat-in-the-box.json](./132754-cat-in-the-box.json) |
@@ -2134,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinema Manager | 157171 | [157171-cinema-manager.json](./157171-cinema-manager.json) |
 | Cinema Quest | 107249 | [107249-cinema-quest.json](./107249-cinema-quest.json) |
 | Cinema Theater Tycoon | 358377 | [358377-cinema-theater-tycoon.json](./358377-cinema-theater-tycoon.json) |
+| Cinematrix | 319218 | [319218-cinematrix.json](./319218-cinematrix.json) |
 | CineNerdle | 231638 | [231638-cinenerdle.json](./231638-cinenerdle.json) |
 | CineNerdle | 231639 | [231639-cinenerdle.json](./231639-cinenerdle.json) |
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
@@ -2250,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Rott: Streets of Rott | 29766 | [29766-city-of-rott-streets-of-rott.json](./29766-city-of-rott-streets-of-rott.json) |
 | City of Scrap | 183575 | [183575-city-of-scrap.json](./183575-city-of-scrap.json) |
 | City of Secrets 2: Episode 1 | 146872 | [146872-city-of-secrets-2-episode-1.json](./146872-city-of-secrets-2-episode-1.json) |
+| City of Stolen Worlds | 319210 | [319210-city-of-stolen-worlds.json](./319210-city-of-stolen-worlds.json) |
 | City of Stories: Stephan's Journey - Collector's Edition | 362835 | [362835-city-of-stories-stephans-journey-collectors-edition.json](./362835-city-of-stories-stephans-journey-collectors-edition.json) |
 | City of Stories: The Professor's Secret - Collector's Edition | 362839 | [362839-city-of-stories-the-professors-secret-collectors-edition.json](./362839-city-of-stories-the-professors-secret-collectors-edition.json) |
 | City of Thugs | 154025 | [154025-city-of-thugs.json](./154025-city-of-thugs.json) |
@@ -3577,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmetic Paradise: Princess Life | 130392 | [130392-cosmetic-paradise-princess-life.json](./130392-cosmetic-paradise-princess-life.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
 | Cosmic Break | 80556 | [80556-cosmic-break.json](./80556-cosmic-break.json) |
+| Cosmic Call | 319212 | [319212-cosmic-call.json](./319212-cosmic-call.json) |
 | Cosmic Cannon | 327195 | [327195-cosmic-cannon.json](./327195-cosmic-cannon.json) |
 | Cosmic Cash | 117782 | [117782-cosmic-cash.json](./117782-cosmic-cash.json) |
 | Cosmic Cat | 361677 | [361677-cosmic-cat.json](./361677-cosmic-cat.json) |
@@ -3678,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count Downula | 109040 | [109040-count-downula.json](./109040-count-downula.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
+| Countdown | 319236 | [319236-countdown.json](./319236-countdown.json) |
 | Countdown | 95417 | [95417-countdown.json](./95417-countdown.json) |
 | CountDown | 336629 | [336629-countdown.json](./336629-countdown.json) |
 | Countdown to Doom | 13706 | [13706-countdown-to-doom.json](./13706-countdown-to-doom.json) |
@@ -3893,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
 | Crapman | 70424 | [70424-crapman.json](./70424-crapman.json) |
 | Craps | 386682 | [386682-craps.json](./386682-craps.json) |
+| CrapShoot | 319239 | [319239-crapshoot.json](./319239-crapshoot.json) |
 | Crash 'n Burn | 95438 | [95438-crash-n-burn.json](./95438-crash-n-burn.json) |
 | Crash 'N' Burn | 5789 | [5789-crash-n-burn.json](./5789-crash-n-burn.json) |
 | Crash & Bump | 212807 | [212807-crash-and-bump.json](./212807-crash-and-bump.json) |
