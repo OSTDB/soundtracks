@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | namCollection | 94721 | [94721-namcollection.json](./94721-namcollection.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
 | Nameless | 256829 | [256829-nameless.json](./256829-nameless.json) |
+| Nameless | 294822 | [294822-nameless.json](./294822-nameless.json) |
 | Nameless Dreams: Endless Nightmares | 327186 | [327186-nameless-dreams-endless-nightmares.json](./327186-nameless-dreams-endless-nightmares.json) |
 | Nameless Kaizo World | 267914 | [267914-nameless-kaizo-world.json](./267914-nameless-kaizo-world.json) |
 | Nameless Kaizo World Light | 267915 | [267915-nameless-kaizo-world-light.json](./267915-nameless-kaizo-world-light.json) |
@@ -677,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon On! | 290433 | [290433-neon-on.json](./290433-neon-on.json) |
 | Neon On!: Bright Ideas | 290434 | [290434-neon-on-bright-ideas.json](./290434-neon-on-bright-ideas.json) |
 | Neon On!: Chain Lights | 290435 | [290435-neon-on-chain-lights.json](./290435-neon-on-chain-lights.json) |
+| Neon On!: Complete Edition | 294829 | [294829-neon-on-complete-edition.json](./294829-neon-on-complete-edition.json) |
 | Neon Orbit | 382772 | [382772-neon-orbit.json](./382772-neon-orbit.json) |
 | Neon Outlast | 195787 | [195787-neon-outlast.json](./195787-neon-outlast.json) |
 | Neon Parkour 2 | 253614 | [253614-neon-parkour-2.json](./253614-neon-parkour-2.json) |
@@ -1608,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition | 307124 | [307124-nobunagas-ambition.json](./307124-nobunagas-ambition.json) |
 | Nobunaga's Ambition | 307131 | [307131-nobunagas-ambition.json](./307131-nobunagas-ambition.json) |
 | Nobunaga's Ambition II | 307125 | [307125-nobunagas-ambition-ii.json](./307125-nobunagas-ambition-ii.json) |
+| Nobunaga's Ambition: Awakening - Scenario "Brotherly Revolt" | 294852 | [294852-nobunagas-ambition-awakening-scenario-brotherly-revolt.json](./294852-nobunagas-ambition-awakening-scenario-brotherly-revolt.json) |
 | Nobunaga's Ambition: Awakening - Set of 6 Scenarios | 347227 | [347227-nobunagas-ambition-awakening-set-of-6-scenarios.json](./347227-nobunagas-ambition-awakening-set-of-6-scenarios.json) |
 | Nobunaga's Ambition: Hadou | 371347 | [371347-nobunagas-ambition-hadou.json](./371347-nobunagas-ambition-hadou.json) |
 | Nobunaga's Ambition: Hishou | 405470 | [405470-nobunagas-ambition-hishou.json](./405470-nobunagas-ambition-hishou.json) |
