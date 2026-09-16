@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Top Management | 48712 | [48712-famicom-top-management.json](./48712-famicom-top-management.json) |
 | Famicom Wars | 72131 | [72131-famicom-wars.json](./72131-famicom-wars.json) |
 | Famicom Zenkoku Issei Quiz | 328605 | [328605-famicom-zenkoku-issei-quiz.json](./328605-famicom-zenkoku-issei-quiz.json) |
+| Famidash | 308404 | [308404-famidash.json](./308404-famidash.json) |
 | Familia | 125470 | [125470-familia.json](./125470-familia.json) |
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
 | Family | 138192 | [138192-family.json](./138192-family.json) |
@@ -1728,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Candy's DX | 266212 | [266212-five-nights-at-candys-dx.json](./266212-five-nights-at-candys-dx.json) |
 | Five Nights at Dream's​ | 387340 | [387340-five-nights-at-dreams.json](./387340-five-nights-at-dreams.json) |
 | Five Nights at Ethans | 194614 | [194614-five-nights-at-ethans.json](./194614-five-nights-at-ethans.json) |
+| Five Nights at Freddy's | 308405 | [308405-five-nights-at-freddys.json](./308405-five-nights-at-freddys.json) |
 | Five Nights at Freddy's | 339271 | [339271-five-nights-at-freddys.json](./339271-five-nights-at-freddys.json) |
 | Five Nights at Freddy's | 8499 | [8499-five-nights-at-freddys.json](./8499-five-nights-at-freddys.json) |
 | Five Nights at Freddy's 2 | 305746 | [305746-five-nights-at-freddys-2.json](./305746-five-nights-at-freddys-2.json) |
