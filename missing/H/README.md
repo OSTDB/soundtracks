@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
 | Hakkaku Doku | 323707 | [323707-hakkaku-doku.json](./323707-hakkaku-doku.json) |
 | Hakkenden | 327200 | [327200-hakkenden.json](./327200-hakkenden.json) |
+| Hakkenkast | 311673 | [311673-hakkenkast.json](./311673-hakkenkast.json) |
 | Hako | 22468 | [22468-hako.json](./22468-hako.json) |
 | Hako Maze | 409686 | [409686-hako-maze.json](./409686-hako-maze.json) |
 | HakoBoy! Hakozume Box | 81428 | [81428-hakoboy-hakozume-box.json](./81428-hakoboy-hakozume-box.json) |
@@ -1848,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Rise | 229051 | [229051-high-rise.json](./229051-high-rise.json) |
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
 | High Rollers: Dice Drop Duel | 399737 | [399737-high-rollers-dice-drop-duel.json](./399737-high-rollers-dice-drop-duel.json) |
+| High School Adventure | 311651 | [311651-high-school-adventure.json](./311651-high-school-adventure.json) |
 | High School Crush | 86812 | [86812-high-school-crush.json](./86812-high-school-crush.json) |
 | High School Daze: Afterschool Stories | 264349 | [264349-high-school-daze-afterschool-stories.json](./264349-high-school-daze-afterschool-stories.json) |
 | High School Daze: Junior Year | 264348 | [264348-high-school-daze-junior-year.json](./264348-high-school-daze-junior-year.json) |
@@ -2410,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooray for Maths | 318034 | [318034-hooray-for-maths.json](./318034-hooray-for-maths.json) |
 | Hooray for Spelling | 318044 | [318044-hooray-for-spelling.json](./318044-hooray-for-spelling.json) |
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
+| Hop 'N' Stack | 311665 | [311665-hop-n-stack.json](./311665-hop-n-stack.json) |
 | Hop for the Best | 206945 | [206945-hop-for-the-best.json](./206945-hop-for-the-best.json) |
 | Hop N' Swap | 340481 | [340481-hop-n-swap.json](./340481-hop-n-swap.json) |
 | Hop Skip Jump | 149014 | [149014-hop-skip-jump.json](./149014-hop-skip-jump.json) |
@@ -2846,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hudson Selection Vol. 2: Star Soldier | 43207 | [43207-hudson-selection-vol-2-star-soldier.json](./43207-hudson-selection-vol-2-star-soldier.json) |
 | Hudson Selection Vol. 3: PC Genjin - Pithecanthropus Computerurus | 50580 | [50580-hudson-selection-vol-3-pc-genjin-pithecanthropus-computerurus.json](./50580-hudson-selection-vol-3-pc-genjin-pithecanthropus-computerurus.json) |
 | Hudson Selection Vol. 4: Takahashi Meijin no Bouken-jima | 50574 | [50574-hudson-selection-vol-4-takahashi-meijin-no-bouken-jima.json](./50574-hudson-selection-vol-4-takahashi-meijin-no-bouken-jima.json) |
+| Hue Hop | 311642 | [311642-hue-hop.json](./311642-hue-hop.json) |
 | Huebi's Adventure | 394339 | [394339-huebis-adventure.json](./394339-huebis-adventure.json) |
 | HueBots | 34589 | [34589-huebots.json](./34589-huebots.json) |
 | Huenison | 34253 | [34253-huenison.json](./34253-huenison.json) |
