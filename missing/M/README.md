@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
 | Magical Cat Adventure | 39545 | [39545-magical-cat-adventure.json](./39545-magical-cat-adventure.json) |
+| Magical Chaser: Stardust of Dreams | 315061 | [315061-magical-chaser-stardust-of-dreams.json](./315061-magical-chaser-stardust-of-dreams.json) |
 | Magical Circle Guru-Guru: Stardust Adventure | 302653 | [302653-magical-circle-guru-guru-stardust-adventure.json](./302653-magical-circle-guru-guru-stardust-adventure.json) |
 | Magical Crystals | 39687 | [39687-magical-crystals.json](./39687-magical-crystals.json) |
 | Magical Date EX: Sotsugyou Kokuhaku Daisakusen | 69211 | [69211-magical-date-ex-sotsugyou-kokuhaku-daisakusen.json](./69211-magical-date-ex-sotsugyou-kokuhaku-daisakusen.json) |
@@ -1042,6 +1043,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Tennis: Ultra Smash | 11220 | [11220-mario-tennis-ultra-smash.json](./11220-mario-tennis-ultra-smash.json) |
 | Mario vs. Donkey Kong 2: March of the Minis - Cannon Kaos | 231640 | [231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json](./231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json) |
 | Mario vs. Donkey Kong Card e+ | 220855 | [220855-mario-vs-donkey-kong-card-e.json](./220855-mario-vs-donkey-kong-card-e.json) |
+| Mario vs. Obama! | 315045 | [315045-mario-vs-obama.json](./315045-mario-vs-obama.json) |
+| Mario vs. Tarzan | 315046 | [315046-mario-vs-tarzan.json](./315046-mario-vs-tarzan.json) |
 | Mario vs. Wario | 198475 | [198475-mario-vs-wario.json](./198475-mario-vs-wario.json) |
 | Mario vs. Windows 95 | 322773 | [322773-mario-vs-windows-95.json](./322773-mario-vs-windows-95.json) |
 | Mario: The Dark World | 324111 | [324111-mario-the-dark-world.json](./324111-mario-the-dark-world.json) |
@@ -1260,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask of Sanity | 121696 | [121696-mask-of-sanity.json](./121696-mask-of-sanity.json) |
 | Mask of the Plague Doctor | 129712 | [129712-mask-of-the-plague-doctor.json](./129712-mask-of-the-plague-doctor.json) |
 | Mask: Beyond Lies | 255988 | [255988-mask-beyond-lies.json](./255988-mask-beyond-lies.json) |
+| Maskarable | 315108 | [315108-maskarable.json](./315108-maskarable.json) |
 | Masked | 120940 | [120940-masked.json](./120940-masked.json) |
 | Masked and Mysterious | 75196 | [75196-masked-and-mysterious.json](./75196-masked-and-mysterious.json) |
 | Masked Forces 3 | 103600 | [103600-masked-forces-3.json](./103600-masked-forces-3.json) |
@@ -2231,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Numbers | 329197 | [329197-merge-numbers.json](./329197-merge-numbers.json) |
 | Merge Pineapple | 339286 | [339286-merge-pineapple.json](./339286-merge-pineapple.json) |
 | Merge Rainbow Friend | 224002 | [224002-merge-rainbow-friend.json](./224002-merge-rainbow-friend.json) |
+| Merge Studio: Fashion Makeover | 315111 | [315111-merge-studio-fashion-makeover.json](./315111-merge-studio-fashion-makeover.json) |
 | Merge Together | 323340 | [323340-merge-together.json](./323340-merge-together.json) |
 | Merge Town! | 87347 | [87347-merge-town.json](./87347-merge-town.json) |
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
@@ -2972,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Power Grid Hero | 315516 | [315516-minecraft-power-grid-hero.json](./315516-minecraft-power-grid-hero.json) |
 | Minecraft: Quantum Realm | 333582 | [333582-minecraft-quantum-realm.json](./333582-minecraft-quantum-realm.json) |
 | Minecraft: Sonic Texture Pack | 254791 | [254791-minecraft-sonic-texture-pack.json](./254791-minecraft-sonic-texture-pack.json) |
+| Minecraft: Stampy's Lovely World | 315117 | [315117-minecraft-stampys-lovely-world.json](./315117-minecraft-stampys-lovely-world.json) |
 | MInecraft: Star Wars Prequel Skin Pack | 302666 | [302666-minecraft-star-wars-prequel-skin-pack.json](./302666-minecraft-star-wars-prequel-skin-pack.json) |
 | Minecraft: Story Mode - Episode 1: The Order of the Stone | 85612 | [85612-minecraft-story-mode-episode-1-the-order-of-the-stone.json](./85612-minecraft-story-mode-episode-1-the-order-of-the-stone.json) |
 | Minecraft: Story Mode - Episode 5: Order Up! | 91295 | [91295-minecraft-story-mode-episode-5-order-up.json](./91295-minecraft-story-mode-episode-5-order-up.json) |
@@ -4306,11 +4312,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother of All Battles! | 338001 | [338001-mother-of-all-battles.json](./338001-mother-of-all-battles.json) |
 | Mother of Myth | 19643 | [19643-mother-of-myth.json](./19643-mother-of-myth.json) |
 | Mother, Player | 393489 | [393489-mother-player.json](./393489-mother-player.json) |
+| Mother: Beyond Bounds | 315107 | [315107-mother-beyond-bounds.json](./315107-mother-beyond-bounds.json) |
 | Mother: Encore | 259272 | [259272-mother-encore.json](./259272-mother-encore.json) |
 | Mother: Invasion from the Unknown | 378199 | [378199-mother-invasion-from-the-unknown.json](./378199-mother-invasion-from-the-unknown.json) |
+| Mother: Rebound | 315103 | [315103-mother-rebound.json](./315103-mother-rebound.json) |
+| Mother: Russia | 315095 | [315095-mother-russia.json](./315095-mother-russia.json) |
 | Mother's Home | 320534 | [320534-mothers-home.json](./320534-mothers-home.json) |
 | Motherbird: The Dark One | 239922 | [239922-motherbird-the-dark-one.json](./239922-motherbird-the-dark-one.json) |
 | Motherbored | 293623 | [293623-motherbored.json](./293623-motherbored.json) |
+| Motherfunkin | 315105 | [315105-motherfunkin.json](./315105-motherfunkin.json) |
 | Motherland | 229702 | [229702-motherland.json](./229702-motherland.json) |
 | Motherload: Goldium Edition | 186345 | [186345-motherload-goldium-edition.json](./186345-motherload-goldium-edition.json) |
 | Mothership | 262981 | [262981-mothership.json](./262981-mothership.json) |
@@ -5224,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MySims Kingdom | 336028 | [336028-mysims-kingdom.json](./336028-mysims-kingdom.json) |
 | MySims SkyHeroes | 192926 | [192926-mysims-skyheroes.json](./192926-mysims-skyheroes.json) |
 | MySims SkyHeroes | 7093 | [7093-mysims-skyheroes.json](./7093-mysims-skyheroes.json) |
+| MySims: Cozy Bundle | 315058 | [315058-mysims-cozy-bundle.json](./315058-mysims-cozy-bundle.json) |
 | Myst | 236 | [236-myst.json](./236-myst.json) |
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
 | Myst | 347130 | [347130-myst.json](./347130-myst.json) |
