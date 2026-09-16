@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jan Friend | 84230 | [84230-jan-friend.json](./84230-jan-friend.json) |
 | Jan Jan Paradise | 40191 | [40191-jan-jan-paradise.json](./40191-jan-jan-paradise.json) |
 | Jan Jan Paradise 2 | 40190 | [40190-jan-jan-paradise-2.json](./40190-jan-jan-paradise-2.json) |
+| Jan Ken Pro! | 333638 | [333638-jan-ken-pro.json](./333638-jan-ken-pro.json) |
 | Jan Sangoku Musou | 64360 | [64360-jan-sangoku-musou.json](./64360-jan-sangoku-musou.json) |
 | JanduSoft Games Bundle Vol. 1 | 247493 | [247493-jandusoft-games-bundle-vol-1.json](./247493-jandusoft-games-bundle-vol-1.json) |
 | Jane Angel 2: Fallen Heaven | 156606 | [156606-jane-angel-2-fallen-heaven.json](./156606-jane-angel-2-fallen-heaven.json) |
@@ -196,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japocaliptyca | 120358 | [120358-japocaliptyca.json](./120358-japocaliptyca.json) |
 | Jaques Roque | 35888 | [35888-jaques-roque.json](./35888-jaques-roque.json) |
 | Jar | 340768 | [340768-jar.json](./340768-jar.json) |
+| Jar Head Cauldron | 333633 | [333633-jar-head-cauldron.json](./333633-jar-head-cauldron.json) |
 | Jargon | 390629 | [390629-jargon.json](./390629-jargon.json) |
 | Jarinko Chie | 346029 | [346029-jarinko-chie.json](./346029-jarinko-chie.json) |
 | Jarnasmal | 405569 | [405569-jarnasmal.json](./405569-jarnasmal.json) |
