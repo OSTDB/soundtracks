@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Needle & Thread | 330155 | [330155-needle-and-thread.json](./330155-needle-and-thread.json) |
 | Neeko: Your 3D Interactive Monster | 262354 | [262354-neeko-your-3d-interactive-monster.json](./262354-neeko-your-3d-interactive-monster.json) |
 | NEET Simulator | 113768 | [113768-neet-simulator.json](./113768-neet-simulator.json) |
+| Nefarious Dreams | 330855 | [330855-nefarious-dreams.json](./330855-nefarious-dreams.json) |
 | Nefarium | 192452 | [192452-nefarium.json](./192452-nefarium.json) |
 | Neffy: Moonlight Labyrinth X | 369061 | [369061-neffy-moonlight-labyrinth-x.json](./369061-neffy-moonlight-labyrinth-x.json) |
 | Negaeba Kitto... | 202938 | [202938-negaeba-kitto.json](./202938-negaeba-kitto.json) |
