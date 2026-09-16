@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wailing Heights | 18969 | [18969-wailing-heights.json](./18969-wailing-heights.json) |
 | Wailing Heights: Deluxe Edition | 53881 | [53881-wailing-heights-deluxe-edition.json](./53881-wailing-heights-deluxe-edition.json) |
 | Waimanu: Grinding Block Adventure | 123628 | [123628-waimanu-grinding-block-adventure.json](./123628-waimanu-grinding-block-adventure.json) |
+| Wait What's That | 324507 | [324507-wait-whats-that.json](./324507-wait-whats-that.json) |
 | Wait: The Patient | 312564 | [312564-wait-the-patient.json](./312564-wait-the-patient.json) |
 | Wait! Where's My Lunch | 169390 | [169390-wait-wheres-my-lunch.json](./169390-wait-wheres-my-lunch.json) |
 | Waiting for an Egg | 404253 | [404253-waiting-for-an-egg.json](./404253-waiting-for-an-egg.json) |
@@ -2139,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Largest Pac-Man | 175992 | [175992-worlds-largest-pac-man.json](./175992-worlds-largest-pac-man.json) |
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
+| WorldNeverland: Elnea Kingdom - Fluffy Brown-Rabbit Suit | 324496 | [324496-worldneverland-elnea-kingdom-fluffy-brown-rabbit-suit.json](./324496-worldneverland-elnea-kingdom-fluffy-brown-rabbit-suit.json) |
 | WorldNeverland: White Modern Wedding Outfit Set | 298593 | [298593-worldneverland-white-modern-wedding-outfit-set.json](./298593-worldneverland-white-modern-wedding-outfit-set.json) |
 | WorldQuest | 101609 | [101609-worldquest.json](./101609-worldquest.json) |
 | Worlds | 381007 | [381007-worlds.json](./381007-worlds.json) |
