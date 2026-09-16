@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of 4 Swords | 360666 | [360666-master-of-4-swords.json](./360666-master-of-4-swords.json) |
 | Master of Bow | 328449 | [328449-master-of-bow.json](./328449-master-of-bow.json) |
 | Master of Chaos | 398362 | [398362-master-of-chaos.json](./398362-master-of-chaos.json) |
+| Master of Command | 298178 | [298178-master-of-command.json](./298178-master-of-command.json) |
 | Master of Dimensions | 7695 | [7695-master-of-dimensions.json](./7695-master-of-dimensions.json) |
 | Master of Earth | 211213 | [211213-master-of-earth.json](./211213-master-of-earth.json) |
 | Master of Epic | 62116 | [62116-master-of-epic.json](./62116-master-of-epic.json) |
@@ -3544,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mó Xiān Duì Duì Pèng | 359472 | [359472-mo-xian-dui-dui-peng.json](./359472-mo-xian-dui-dui-peng.json) |
 | Moadra | 190169 | [190169-moadra.json](./190169-moadra.json) |
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
+| Moaisland | 298140 | [298140-moaisland.json](./298140-moaisland.json) |
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
 | Mob Control: Complete Edition | 283169 | [283169-mob-control-complete-edition.json](./283169-mob-control-complete-edition.json) |
 | Mob Drop Castle | 406078 | [406078-mob-drop-castle.json](./406078-mob-drop-castle.json) |
@@ -4898,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murmuring of Moth Mouth | 417596 | [417596-murmuring-of-moth-mouth.json](./417596-murmuring-of-moth-mouth.json) |
 | Murnatan | 62718 | [62718-murnatan.json](./62718-murnatan.json) |
 | Murphy's Minerals | 330157 | [330157-murphys-minerals.json](./330157-murphys-minerals.json) |
+| Musa | 298186 | [298186-musa.json](./298186-musa.json) |
 | Musasabi | 122375 | [122375-musasabi.json](./122375-musasabi.json) |
 | Musashi no Bouken | 48688 | [48688-musashi-no-bouken.json](./48688-musashi-no-bouken.json) |
 | Musashi vs. Cthulhu | 127465 | [127465-musashi-vs-cthulhu.json](./127465-musashi-vs-cthulhu.json) |
