@@ -2468,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Tales: The Beggar | 149523 | [149523-horror-tales-the-beggar.json](./149523-horror-tales-the-beggar.json) |
 | Horror Tour | 209625 | [209625-horror-tour.json](./209625-horror-tour.json) |
 | Horror Ville Maze Escape | 119713 | [119713-horror-ville-maze-escape.json](./119713-horror-ville-maze-escape.json) |
+| HorrorCore: Maze and Pools of Horror | 331974 | [331974-horrorcore-maze-and-pools-of-horror.json](./331974-horrorcore-maze-and-pools-of-horror.json) |
 | HorrorMon Photography | 381670 | [381670-horrormon-photography.json](./381670-horrormon-photography.json) |
 | Horrors Above | 391185 | [391185-horrors-above.json](./391185-horrors-above.json) |
 | Horrors Glade | 333366 | [333366-horrors-glade.json](./333366-horrors-glade.json) |
