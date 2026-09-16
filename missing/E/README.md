@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Atlantis 2 | 352842 | [352842-earth-atlantis-2.json](./352842-earth-atlantis-2.json) |
 | Earth Brigades | 204085 | [204085-earth-brigades.json](./204085-earth-brigades.json) |
 | Earth Command | 45933 | [45933-earth-command.json](./45933-earth-command.json) |
+| Earth Craft | 299893 | [299893-earth-craft.json](./299893-earth-craft.json) |
 | Earth Defender | 112318 | [112318-earth-defender.json](./112318-earth-defender.json) |
 | Earth Defender One | 144273 | [144273-earth-defender-one.json](./144273-earth-defender-one.json) |
 | Earth Defense Force | 46666 | [46666-earth-defense-force.json](./46666-earth-defense-force.json) |
@@ -1351,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room Ultimate Bundle | 306493 | [306493-escape-room-ultimate-bundle.json](./306493-escape-room-ultimate-bundle.json) |
 | Escape Room: Bank Robbery Gone Wrong | 244246 | [244246-escape-room-bank-robbery-gone-wrong.json](./244246-escape-room-bank-robbery-gone-wrong.json) |
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
+| Escape Rooms Pack 1 | 299899 | [299899-escape-rooms-pack-1.json](./299899-escape-rooms-pack-1.json) |
 | Escape Rosecliff Island | 9830 | [9830-escape-rosecliff-island.json](./9830-escape-rosecliff-island.json) |
 | Escape Sequence | 411591 | [411591-escape-sequence.json](./411591-escape-sequence.json) |
 | Escape Simulator | 145439 | [145439-escape-simulator.json](./145439-escape-simulator.json) |
@@ -2043,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeball Master | 195272 | [195272-eyeball-master.json](./195272-eyeball-master.json) |
 | Eyeboss | 181906 | [181906-eyeboss.json](./181906-eyeboss.json) |
 | Eyeless | 269310 | [269310-eyeless.json](./269310-eyeless.json) |
+| Eyeless Jack | 300016 | [300016-eyeless-jack.json](./300016-eyeless-jack.json) |
 | Eyes | 299142 | [299142-eyes.json](./299142-eyes.json) |
 | Eyes of the Factory | 408185 | [408185-eyes-of-the-factory.json](./408185-eyes-of-the-factory.json) |
 | Eyes of the Killer | 150095 | [150095-eyes-of-the-killer.json](./150095-eyes-of-the-killer.json) |
