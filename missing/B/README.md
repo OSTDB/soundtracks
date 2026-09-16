@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance the Beam | 58218 | [58218-balance-the-beam.json](./58218-balance-the-beam.json) |
 | Balance: Umbilical Wake | 410977 | [410977-balance-umbilical-wake.json](./410977-balance-umbilical-wake.json) |
 | Balancefield | 180826 | [180826-balancefield.json](./180826-balancefield.json) |
+| Balatro: Cryptid | 331968 | [331968-balatro-cryptid.json](./331968-balatro-cryptid.json) |
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
@@ -2881,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
 | Blue Tower Chronicle | 413739 | [413739-blue-tower-chronicle.json](./413739-blue-tower-chronicle.json) |
 | Blue Wars | 193947 | [193947-blue-wars.json](./193947-blue-wars.json) |
+| Blue Wyrm | 331956 | [331956-blue-wyrm.json](./331956-blue-wyrm.json) |
 | Blue's Birthday | 229070 | [229070-blues-birthday.json](./229070-blues-birthday.json) |
 | Blue's Clues: Blue's Alphabet Book | 49911 | [49911-blues-clues-blues-alphabet-book.json](./49911-blues-clues-blues-alphabet-book.json) |
 | Blue's Clues: Preschool | 23776 | [23776-blues-clues-preschool.json](./23776-blues-clues-preschool.json) |
