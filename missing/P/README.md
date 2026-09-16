@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint School II | 46571 | [46571-paint-school-ii.json](./46571-paint-school-ii.json) |
 | Paint Shape Girl | 87131 | [87131-paint-shape-girl.json](./87131-paint-shape-girl.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
+| Paint-guin | 310060 | [310060-paint-guin.json](./310060-paint-guin.json) |
 | Paintball 3: Candy Match Factory | 270960 | [270960-paintball-3-candy-match-factory.json](./270960-paintball-3-candy-match-factory.json) |
 | Paintball Champs | 237386 | [237386-paintball-champs.json](./237386-paintball-champs.json) |
 | Paintball NET | 125951 | [125951-paintball-net.json](./125951-paintball-net.json) |
@@ -505,6 +506,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragnosia | 320184 | [320184-paragnosia.json](./320184-paragnosia.json) |
 | Paragon of Time | 339907 | [339907-paragon-of-time.json](./339907-paragon-of-time.json) |
 | Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
+| Paragon Pioneers 2: Happy Southburghs | 310045 | [310045-paragon-pioneers-2-happy-southburghs.json](./310045-paragon-pioneers-2-happy-southburghs.json) |
+| Paragon Pioneers 2: Turn the Orc Table | 310050 | [310050-paragon-pioneers-2-turn-the-orc-table.json](./310050-paragon-pioneers-2-turn-the-orc-table.json) |
 | Paragon Sex A Doll | 356065 | [356065-paragon-sex-a-doll.json](./356065-paragon-sex-a-doll.json) |
 | Parallax | 271743 | [271743-parallax.json](./271743-parallax.json) |
 | Parallax | 28847 | [28847-parallax.json](./28847-parallax.json) |
@@ -1218,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet City | 356729 | [356729-pet-city.json](./356729-pet-city.json) |
 | Pet City 2 | 356731 | [356731-pet-city-2.json](./356731-pet-city-2.json) |
 | Pet Clinic Simulator | 320372 | [320372-pet-clinic-simulator.json](./320372-pet-clinic-simulator.json) |
+| Pet Crossing | 310034 | [310034-pet-crossing.json](./310034-pet-crossing.json) |
 | Pet Cube: Tower Stack | 242211 | [242211-pet-cube-tower-stack.json](./242211-pet-cube-tower-stack.json) |
 | Pet Dog | 178682 | [178682-pet-dog.json](./178682-pet-dog.json) |
 | Pet Kawaii Shop | 317211 | [317211-pet-kawaii-shop.json](./317211-pet-kawaii-shop.json) |
@@ -4263,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pupil: Wandering VR | 117834 | [117834-pupil-wandering-vr.json](./117834-pupil-wandering-vr.json) |
 | Puppet Kings | 82853 | [82853-puppet-kings.json](./82853-puppet-kings.json) |
 | Puppet Master RPG | 94786 | [94786-puppet-master-rpg.json](./94786-puppet-master-rpg.json) |
+| Puppet Master: The Game - Dark Horse Skins | 310023 | [310023-puppet-master-the-game-dark-horse-skins.json](./310023-puppet-master-the-game-dark-horse-skins.json) |
 | Puppet Master: The Game - Movie Edition Blade + Execution | 278400 | [278400-puppet-master-the-game-movie-edition-blade-execution.json](./278400-puppet-master-the-game-movie-edition-blade-execution.json) |
 | Puppet Seed | 349954 | [349954-puppet-seed.json](./349954-puppet-seed.json) |
 | Puppet Tale | 242814 | [242814-puppet-tale.json](./242814-puppet-tale.json) |
