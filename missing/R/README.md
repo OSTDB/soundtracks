@@ -1494,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Wars | 156092 | [156092-retro-wars.json](./156092-retro-wars.json) |
 | Retro Wave | 306370 | [306370-retro-wave.json](./306370-retro-wave.json) |
 | Retro Wing Prime | 113034 | [113034-retro-wing-prime.json](./113034-retro-wing-prime.json) |
+| RetroBlazer | 322198 | [322198-retroblazer.json](./322198-retroblazer.json) |
 | Retrocade | 385593 | [385593-retrocade.json](./385593-retrocade.json) |
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
 | Retrofit: Overload | 66676 | [66676-retrofit-overload.json](./66676-retrofit-overload.json) |
