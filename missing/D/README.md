@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Summoner | 38900 | [38900-dark-summoner.json](./38900-dark-summoner.json) |
 | Dark Sun | 278964 | [278964-dark-sun.json](./278964-dark-sun.json) |
 | Dark Sun: Shattered Lands | 2466 | [2466-dark-sun-shattered-lands.json](./2466-dark-sun-shattered-lands.json) |
+| Dark Sword: The Light of Ainn | 295409 | [295409-dark-sword-the-light-of-ainn.json](./295409-dark-sword-the-light-of-ainn.json) |
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
 | Dark Tales: Edgar Allan Poe's Lenore - Collector's Edition | 370676 | [370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json](./370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Morella - Collector's Edition | 370677 | [370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json](./370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json) |
@@ -912,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Sector: Outbreak | 399733 | [399733-dead-sector-outbreak.json](./399733-dead-sector-outbreak.json) |
 | Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
 | Dead Shell | 193943 | [193943-dead-shell.json](./193943-dead-shell.json) |
+| Dead Shells | 295394 | [295394-dead-shells.json](./295394-dead-shells.json) |
 | Dead Shits | 129690 | [129690-dead-shits.json](./129690-dead-shits.json) |
 | Dead Silence: Echoes of the Damned | 336007 | [336007-dead-silence-echoes-of-the-damned.json](./336007-dead-silence-echoes-of-the-damned.json) |
 | Dead Simple 21 | 123565 | [123565-dead-simple-21.json](./123565-dead-simple-21.json) |
@@ -985,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Maze | 156601 | [156601-deadly-maze.json](./156601-deadly-maze.json) |
 | Deadly Metal | 31788 | [31788-deadly-metal.json](./31788-deadly-metal.json) |
 | Deadly Metropolis | 359516 | [359516-deadly-metropolis.json](./359516-deadly-metropolis.json) |
+| Deadly Parkour | 295407 | [295407-deadly-parkour.json](./295407-deadly-parkour.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
 | Deadly Sky | 51981 | [51981-deadly-sky.json](./51981-deadly-sky.json) |
 | Deadly Soccer | 242569 | [242569-deadly-soccer.json](./242569-deadly-soccer.json) |
@@ -2603,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
 | Distress: A Choice-Driven Sci-Fi Adventure | 110970 | [110970-distress-a-choice-driven-sci-fi-adventure.json](./110970-distress-a-choice-driven-sci-fi-adventure.json) |
 | Distressed | 320932 | [320932-distressed.json](./320932-distressed.json) |
+| District Panic | 295387 | [295387-district-panic.json](./295387-district-panic.json) |
 | District Steel | 28912 | [28912-district-steel.json](./28912-district-steel.json) |
 | DistroCards | 392807 | [392807-distrocards.json](./392807-distrocards.json) |
 | Disturbed 2 | 28904 | [28904-disturbed-2.json](./28904-disturbed-2.json) |
