@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Joe | 92462 | [92462-easy-joe.json](./92462-easy-joe.json) |
 | Easy puzzle: Bridges | 248921 | [248921-easy-puzzle-bridges.json](./248921-easy-puzzle-bridges.json) |
 | Easy puzzle: Landscape | 248928 | [248928-easy-puzzle-landscape.json](./248928-easy-puzzle-landscape.json) |
+| Easy puzzle: Streets | 287765 | [287765-easy-puzzle-streets.json](./287765-easy-puzzle-streets.json) |
 | Easy RTS | 303502 | [303502-easy-rts.json](./303502-easy-rts.json) |
 | Easy Simple Game | 212832 | [212832-easy-simple-game.json](./212832-easy-simple-game.json) |
 | Easy VTT | 269026 | [269026-easy-vtt.json](./269026-easy-vtt.json) |
