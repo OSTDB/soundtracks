@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Compendium of Ghosts | 102155 | [102155-a-compendium-of-ghosts.json](./102155-a-compendium-of-ghosts.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
 | A Cozy Classics: Color Lines | 379467 | [379467-a-cozy-classics-color-lines.json](./379467-a-cozy-classics-color-lines.json) |
+| A Dark Forest | 319186 | [319186-a-dark-forest.json](./319186-a-dark-forest.json) |
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
@@ -971,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Kidd: Radaxian In Turmoil | 326963 | [326963-alex-kidd-radaxian-in-turmoil.json](./326963-alex-kidd-radaxian-in-turmoil.json) |
 | Alex Kidd: The Lost Stars | 13678 | [13678-alex-kidd-the-lost-stars.json](./13678-alex-kidd-the-lost-stars.json) |
 | Alex the Allegator 2 | 306995 | [306995-alex-the-allegator-2.json](./306995-alex-the-allegator-2.json) |
+| Alex's Journey to the Grave | 319226 | [319226-alexs-journey-to-the-grave.json](./319226-alexs-journey-to-the-grave.json) |
 | Alexandra Fortune: Mystery of the Lunar Archipelago | 177047 | [177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json](./177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json) |
 | AlexCity 1: Bank Heist | 272009 | [272009-alexcity-1-bank-heist.json](./272009-alexcity-1-bank-heist.json) |
 | AlexCity 1: Bank Heist | 272010 | [272010-alexcity-1-bank-heist.json](./272010-alexcity-1-bank-heist.json) |
@@ -2122,6 +2124,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Try | 127097 | [127097-another-try.json](./127097-another-try.json) |
 | Another Try 2 | 291460 | [291460-another-try-2.json](./291460-another-try-2.json) |
 | Another Warfare | 156662 | [156662-another-warfare.json](./156662-another-warfare.json) |
+| Another Way of Gettin' Paid | 319234 | [319234-another-way-of-gettin-paid.json](./319234-another-way-of-gettin-paid.json) |
+| Another Way of Gettin' Paid | 319235 | [319235-another-way-of-gettin-paid.json](./319235-another-way-of-gettin-paid.json) |
 | Another World Adventures | 379448 | [379448-another-world-adventures.json](./379448-another-world-adventures.json) |
 | Another World for Dreamcast | 343875 | [343875-another-world-for-dreamcast.json](./343875-another-world-for-dreamcast.json) |
 | Another World: Lost In Heart | 365735 | [365735-another-world-lost-in-heart.json](./365735-another-world-lost-in-heart.json) |
@@ -3796,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
 | Avatar Legends: The Fighting Game - Deluxe Edition | 412376 | [412376-avatar-legends-the-fighting-game-deluxe-edition.json](./412376-avatar-legends-the-fighting-game-deluxe-edition.json) |
 | Avatar Ninja! | 94738 | [94738-avatar-ninja.json](./94738-avatar-ninja.json) |
+| Avatar: Frontiers of Pandora - Secrets of the Spire | 319229 | [319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json](./319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json) |
 | Avatar: Ice Wars | 378930 | [378930-avatar-ice-wars.json](./378930-avatar-ice-wars.json) |
 | Avatar: The Last Airbender | 210487 | [210487-avatar-the-last-airbender.json](./210487-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender - Earth Rumble | 406777 | [406777-avatar-the-last-airbender-earth-rumble.json](./406777-avatar-the-last-airbender-earth-rumble.json) |
