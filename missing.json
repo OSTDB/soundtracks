@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T04:49:06.647Z",
-  "total_missing": 76665,
+  "generated_at": "2026-09-16T04:51:40.384Z",
+  "total_missing": 76664,
   "games": [
     {
       "igdb_id": 306086,
@@ -5781,11 +5781,6 @@
       "igdb_id": 357801,
       "game_name": "Agent Panda",
       "file": "missing/A/357801-agent-panda.json"
-    },
-    {
-      "igdb_id": 229331,
-      "game_name": "Agent Roy: Secure the Temple",
-      "file": "missing/A/229331-agent-roy-secure-the-temple.json"
     },
     {
       "igdb_id": 232449,
