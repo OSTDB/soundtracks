@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.Q Intelligent Qube | 215363 | [215363-i-q-intelligent-qube.json](./215363-i-q-intelligent-qube.json) |
 | I.Rule | 208402 | [208402-i-rule.json](./208402-i-rule.json) |
 | I'd Kill You as a Worm | 331682 | [331682-id-kill-you-as-a-worm.json](./331682-id-kill-you-as-a-worm.json) |
+| I'd Kiss That Fish | 321616 | [321616-id-kiss-that-fish.json](./321616-id-kiss-that-fish.json) |
 | I'll Be Back to the Future with a Terminator | 395714 | [395714-ill-be-back-to-the-future-with-a-terminator.json](./395714-ill-be-back-to-the-future-with-a-terminator.json) |
 | I'll Do It Tomorrow | 278990 | [278990-ill-do-it-tomorrow.json](./278990-ill-do-it-tomorrow.json) |
 | I'll Put You In Debt | 82856 | [82856-ill-put-you-in-debt.json](./82856-ill-put-you-in-debt.json) |
@@ -706,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Passing | 125443 | [125443-in-passing.json](./125443-in-passing.json) |
 | In Search of Light | 182522 | [182522-in-search-of-light.json](./182522-in-search-of-light.json) |
 | In Search of Something | 334191 | [334191-in-search-of-something.json](./334191-in-search-of-something.json) |
+| In Search of the Golden Crops | 321596 | [321596-in-search-of-the-golden-crops.json](./321596-in-search-of-the-golden-crops.json) |
 | In Search of the Most Amazing Thing | 69820 | [69820-in-search-of-the-most-amazing-thing.json](./69820-in-search-of-the-most-amazing-thing.json) |
 | In Season | 340755 | [340755-in-season.json](./340755-in-season.json) |
 | In Silico | 348241 | [348241-in-silico.json](./348241-in-silico.json) |
@@ -1249,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Rally Championship | 50210 | [50210-international-rally-championship.json](./50210-international-rally-championship.json) |
 | International Rugby Challenge | 73281 | [73281-international-rugby-challenge.json](./73281-international-rugby-challenge.json) |
 | International Soccer | 201305 | [201305-international-soccer.json](./201305-international-soccer.json) |
+| International Soccer | 320986 | [320986-international-soccer.json](./320986-international-soccer.json) |
 | International Speedway | 369129 | [369129-international-speedway.json](./369129-international-speedway.json) |
 | International Super Karts | 43332 | [43332-international-super-karts.json](./43332-international-super-karts.json) |
 | International Superstar Soccer '98 | 3514 | [3514-international-superstar-soccer-98.json](./3514-international-superstar-soccer-98.json) |
