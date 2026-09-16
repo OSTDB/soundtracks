@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
 | A Friday Night Real Music Funkin Game | 325105 | [325105-a-friday-night-real-music-funkin-game.json](./325105-a-friday-night-real-music-funkin-game.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
+| A G-G-Ghost! | 311656 | [311656-a-g-g-ghost.json](./311656-a-g-g-ghost.json) |
 | A Game About Fishing | 412382 | [412382-a-game-about-fishing.json](./412382-a-game-about-fishing.json) |
 | A Game About Getting Bigger | 405583 | [405583-a-game-about-getting-bigger.json](./405583-a-game-about-getting-bigger.json) |
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
@@ -84,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
 | A Great Day at the Races | 45946 | [45946-a-great-day-at-the-races.json](./45946-a-great-day-at-the-races.json) |
 | A Guidebook of Babel | 149085 | [149085-a-guidebook-of-babel.json](./149085-a-guidebook-of-babel.json) |
+| A Gunshot in Room 37 | 311660 | [311660-a-gunshot-in-room-37.json](./311660-a-gunshot-in-room-37.json) |
 | A Harvesting Moon | 55089 | [55089-a-harvesting-moon.json](./55089-a-harvesting-moon.json) |
 | A Healer Only Lives Twice | 33255 | [33255-a-healer-only-lives-twice.json](./33255-a-healer-only-lives-twice.json) |
 | A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
@@ -100,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
+| A Knight's Pursuit | 311662 | [311662-a-knights-pursuit.json](./311662-a-knights-pursuit.json) |
 | A Knight's Quest | 109984 | [109984-a-knights-quest.json](./109984-a-knights-quest.json) |
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
@@ -154,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Right to Rule | 347228 | [347228-a-right-to-rule.json](./347228-a-right-to-rule.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
+| A Room You Can't Exit Unless You Find the Numbers | 311643 | [311643-a-room-you-cant-exit-unless-you-find-the-numbers.json](./311643-a-room-you-cant-exit-unless-you-find-the-numbers.json) |
 | A Rose in the Twilight | 52042 | [52042-a-rose-in-the-twilight.json](./52042-a-rose-in-the-twilight.json) |
 | A Rose in the Twilight: Digital Bloodlust Edition | 52564 | [52564-a-rose-in-the-twilight-digital-bloodlust-edition.json](./52564-a-rose-in-the-twilight-digital-bloodlust-edition.json) |
 | A Sandwich, A Leash, and A Storm | 337701 | [337701-a-sandwich-a-leash-and-a-storm.json](./337701-a-sandwich-a-leash-and-a-storm.json) |
@@ -163,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
 | A Shooty Bit | 32977 | [32977-a-shooty-bit.json](./32977-a-shooty-bit.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
+| A Simple Door | 311647 | [311647-a-simple-door.json](./311647-a-simple-door.json) |
 | A Simple Garbage Sorting Game | 329705 | [329705-a-simple-garbage-sorting-game.json](./329705-a-simple-garbage-sorting-game.json) |
 | A Simple Platformer | 339915 | [339915-a-simple-platformer.json](./339915-a-simple-platformer.json) |
 | A Sirius Game | 34694 | [34694-a-sirius-game.json](./34694-a-sirius-game.json) |
