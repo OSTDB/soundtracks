@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Super Ninja Plumbers | 222882 | [222882-teenage-super-ninja-plumbers.json](./222882-teenage-super-ninja-plumbers.json) |
 | Teenager vs.Tropical Mutants | 108414 | [108414-teenager-vs-tropical-mutants.json](./108414-teenager-vs-tropical-mutants.json) |
 | Teeny Heist | 83556 | [83556-teeny-heist.json](./83556-teeny-heist.json) |
+| Teeny Tiny Harbors | 319217 | [319217-teeny-tiny-harbors.json](./319217-teeny-tiny-harbors.json) |
 | Teeny Tiny Trains | 297228 | [297228-teeny-tiny-trains.json](./297228-teeny-tiny-trains.json) |
 | Teeny Titans: Teen Titans Go! | 38941 | [38941-teeny-titans-teen-titans-go.json](./38941-teeny-titans-teen-titans-go.json) |
 | Teeter | 205067 | [205067-teeter.json](./205067-teeter.json) |
@@ -4147,6 +4148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shape You Make When You Want Your Bones to Be Closest to the Surface | 123625 | [123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json](./123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json) |
 | The Shark T | 217911 | [217911-the-shark-t.json](./217911-the-shark-t.json) |
 | The Shark's Bathhouse | 271741 | [271741-the-sharks-bathhouse.json](./271741-the-sharks-bathhouse.json) |
+| The Shattered Knight of Elaria | 319231 | [319231-the-shattered-knight-of-elaria.json](./319231-the-shattered-knight-of-elaria.json) |
 | The Shattering: Secret Room | 155062 | [155062-the-shattering-secret-room.json](./155062-the-shattering-secret-room.json) |
 | The Shedding | 114372 | [114372-the-shedding.json](./114372-the-shedding.json) |
 | The Shenanigans of Cherry and Trix | 127374 | [127374-the-shenanigans-of-cherry-and-trix.json](./127374-the-shenanigans-of-cherry-and-trix.json) |
@@ -6888,6 +6890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tournament Tower | 273412 | [273412-tournament-tower.json](./273412-tournament-tower.json) |
 | Tournament: Blood & Steel | 119051 | [119051-tournament-blood-and-steel.json](./119051-tournament-blood-and-steel.json) |
 | Touryuu Densetsu: Elan Doree | 77295 | [77295-touryuu-densetsu-elan-doree.json](./77295-touryuu-densetsu-elan-doree.json) |
+| Toushin Gent | 319209 | [319209-toushin-gent.json](./319209-toushin-gent.json) |
 | Toushin Toshi Girls Gift RPG | 175943 | [175943-toushin-toshi-girls-gift-rpg.json](./175943-toushin-toshi-girls-gift-rpg.json) |
 | Tover | 24994 | [24994-tover.json](./24994-tover.json) |
 | Tow Game | 348347 | [348347-tow-game.json](./348347-tow-game.json) |
