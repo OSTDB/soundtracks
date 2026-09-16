@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Secretary: Ailey Edition | 338560 | [338560-vr-secretary-ailey-edition.json](./338560-vr-secretary-ailey-edition.json) |
 | VR Shooter Guns | 32867 | [32867-vr-shooter-guns.json](./32867-vr-shooter-guns.json) |
 | VR Skater | 146829 | [146829-vr-skater.json](./146829-vr-skater.json) |
+| VR Skater: SL Pro Series Tour | 296527 | [296527-vr-skater-sl-pro-series-tour.json](./296527-vr-skater-sl-pro-series-tour.json) |
 | VR Sky Walk | 189114 | [189114-vr-sky-walk.json](./189114-vr-sky-walk.json) |
 | VR Smash Park | 111716 | [111716-vr-smash-park.json](./111716-vr-smash-park.json) |
 | VR Sport and Cycling | 116304 | [116304-vr-sport-and-cycling.json](./116304-vr-sport-and-cycling.json) |
