@@ -2477,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquavias | 96757 | [96757-aquavias.json](./96757-aquavias.json) |
 | Aquaville | 373612 | [373612-aquaville.json](./373612-aquaville.json) |
 | Aquis | 293095 | [293095-aquis.json](./293095-aquis.json) |
+| Aquium | 290553 | [290553-aquium.json](./290553-aquium.json) |
 | Aqumana | 175376 | [175376-aqumana.json](./175376-aqumana.json) |
 | AR Basketball | 63247 | [63247-ar-basketball.json](./63247-ar-basketball.json) |
 | AR Darts | 55895 | [55895-ar-darts.json](./55895-ar-darts.json) |
@@ -3710,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atone | 277308 | [277308-atone.json](./277308-atone.json) |
 | Atonement | 379987 | [379987-atonement.json](./379987-atonement.json) |
 | Atonement | 379988 | [379988-atonement.json](./379988-atonement.json) |
+| Atoners: The Lost Epoch | 290517 | [290517-atoners-the-lost-epoch.json](./290517-atoners-the-lost-epoch.json) |
 | Atramentum VR | 29797 | [29797-atramentum-vr.json](./29797-atramentum-vr.json) |
 | Atrapa la Bandera | 204455 | [204455-atrapa-la-bandera.json](./204455-atrapa-la-bandera.json) |
 | Atria Valkyrie | 159806 | [159806-atria-valkyrie.json](./159806-atria-valkyrie.json) |
