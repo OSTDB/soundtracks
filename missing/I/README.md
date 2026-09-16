@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If Monks Had Macs... | 366833 | [366833-if-monks-had-macs.json](./366833-if-monks-had-macs.json) |
 | If My Heart Had Wings | 196874 | [196874-if-my-heart-had-wings.json](./196874-if-my-heart-had-wings.json) |
 | If Nil then | 201326 | [201326-if-nil-then.json](./201326-if-nil-then.json) |
+| If U Seek Amy | 327415 | [327415-if-u-seek-amy.json](./327415-if-u-seek-amy.json) |
 | If We Make It Home | 347790 | [347790-if-we-make-it-home.json](./347790-if-we-make-it-home.json) |
 | IF-16 Fighting Falcon | 368550 | [368550-if-16-fighting-falcon.json](./368550-if-16-fighting-falcon.json) |
 | iF-22 | 95458 | [95458-if-22.json](./95458-if-22.json) |
@@ -674,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impractical Spells | 295525 | [295525-impractical-spells.json](./295525-impractical-spells.json) |
 | Impresja | 47992 | [47992-impresja.json](./47992-impresja.json) |
 | Imprint | 397650 | [397650-imprint.json](./397650-imprint.json) |
+| Imprisoned | 327391 | [327391-imprisoned.json](./327391-imprisoned.json) |
 | Improbability | 311485 | [311485-improbability.json](./311485-improbability.json) |
 | Improbable Soccer | 141236 | [141236-improbable-soccer.json](./141236-improbable-soccer.json) |
 | Impulse | 137027 | [137027-impulse.json](./137027-impulse.json) |
@@ -712,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Black | 125370 | [125370-in-the-black.json](./125370-in-the-black.json) |
 | In the Box | 237655 | [237655-in-the-box.json](./237655-in-the-box.json) |
 | In the Bush | 173843 | [173843-in-the-bush.json](./173843-in-the-bush.json) |
+| In the Dark | 327429 | [327429-in-the-dark.json](./327429-in-the-dark.json) |
 | In The Dark | 353904 | [353904-in-the-dark.json](./353904-in-the-dark.json) |
 | In the Dead of Night | 73287 | [73287-in-the-dead-of-night.json](./73287-in-the-dead-of-night.json) |
 | In the Drift | 404847 | [404847-in-the-drift.json](./404847-in-the-drift.json) |
@@ -733,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Village of Grandfather: Summer,Sun,Heat. | 106576 | [106576-in-the-village-of-grandfather-summer-sun-heat.json](./106576-in-the-village-of-grandfather-summer-sun-heat.json) |
 | In the Wild | 190143 | [190143-in-the-wild.json](./190143-in-the-wild.json) |
 | In the Workplace of Madness | 207335 | [207335-in-the-workplace-of-madness.json](./207335-in-the-workplace-of-madness.json) |
+| In This House | 327375 | [327375-in-this-house.json](./327375-in-this-house.json) |
 | In Tran Sit | 184612 | [184612-in-tran-sit.json](./184612-in-tran-sit.json) |
 | In Vein | 181320 | [181320-in-vein.json](./181320-in-vein.json) |
 | In Verbis Virtus | 16560 | [16560-in-verbis-virtus.json](./16560-in-verbis-virtus.json) |
