@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T04:04:17.289Z",
-  "total_missing": 76547,
+  "generated_at": "2026-09-16T04:11:48.414Z",
+  "total_missing": 76546,
   "games": [
     {
       "igdb_id": 306086,
@@ -5761,11 +5761,6 @@
       "igdb_id": 122635,
       "game_name": "Agent Intercept",
       "file": "missing/A/122635-agent-intercept.json"
-    },
-    {
-      "igdb_id": 82884,
-      "game_name": "Agent Karen: Undercover Investigation of an Evil Organization",
-      "file": "missing/A/82884-agent-karen-undercover-investigation-of-an-evil-organization.json"
     },
     {
       "igdb_id": 225635,
