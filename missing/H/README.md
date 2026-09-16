@@ -2217,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hololive Gorogoro Mountain | 348243 | [348243-hololive-gorogoro-mountain.json](./348243-hololive-gorogoro-mountain.json) |
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
 | Holonglide | 106611 | [106611-holonglide.json](./106611-holonglide.json) |
+| Holonomy | 310570 | [310570-holonomy.json](./310570-holonomy.json) |
 | Holopoint | 33147 | [33147-holopoint.json](./33147-holopoint.json) |
 | HoloRun | 361794 | [361794-holorun.json](./361794-holorun.json) |
 | HoloSona5 | 340479 | [340479-holosona5.json](./340479-holosona5.json) |
