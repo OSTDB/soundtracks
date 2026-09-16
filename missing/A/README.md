@@ -610,7 +610,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agricultural Simulator 2011 | 9537 | [9537-agricultural-simulator-2011.json](./9537-agricultural-simulator-2011.json) |
-| Agricultural Simulator 2012 | 52573 | [52573-agricultural-simulator-2012.json](./52573-agricultural-simulator-2012.json) |
 | Agricultural Simulator 2013 | 50492 | [50492-agricultural-simulator-2013.json](./50492-agricultural-simulator-2013.json) |
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
 | Agriculture | 252389 | [252389-agriculture.json](./252389-agriculture.json) |
@@ -2334,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appetit | 325662 | [325662-appetit.json](./325662-appetit.json) |
 | Appetite for Detestation | 147482 | [147482-appetite-for-detestation.json](./147482-appetite-for-detestation.json) |
 | Apple Bag | 280197 | [280197-apple-bag.json](./280197-apple-bag.json) |
+| Apple Catch | 317457 | [317457-apple-catch.json](./317457-apple-catch.json) |
 | Apple Cider Spider | 12254 | [12254-apple-cider-spider.json](./12254-apple-cider-spider.json) |
 | Apple Jack | 91905 | [91905-apple-jack.json](./91905-apple-jack.json) |
 | Apple Jack 1&2 | 35716 | [35716-apple-jack-1-and-2.json](./35716-apple-jack-1-and-2.json) |
@@ -2732,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area 51/Maximum Force Duo | 39597 | [39597-area-51-maximum-force-duo.json](./39597-area-51-maximum-force-duo.json) |
 | Area Radar Controller | 15600 | [15600-area-radar-controller.json](./15600-area-radar-controller.json) |
 | Area-X | 35734 | [35734-area-x.json](./35734-area-x.json) |
+| Areena 4 | 317423 | [317423-areena-4.json](./317423-areena-4.json) |
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Arena | 326072 | [326072-arena.json](./326072-arena.json) |
 | Arena 2000 | 14265 | [14265-arena-2000.json](./14265-arena-2000.json) |
