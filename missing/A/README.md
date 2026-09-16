@@ -603,7 +603,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Agile Warrior F-111X | 43936 | [43936-agile-warrior-f-111x.json](./43936-agile-warrior-f-111x.json) |
 | Aglet: The Sneaker Game | 205586 | [205586-aglet-the-sneaker-game.json](./205586-aglet-the-sneaker-game.json) |
-| Agnostiko | 224212 | [224212-agnostiko.json](./224212-agnostiko.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
 | Agony Online | 191799 | [191799-agony-online.json](./191799-agony-online.json) |
 | Agony VR | 197402 | [197402-agony-vr.json](./197402-agony-vr.json) |
