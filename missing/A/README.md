@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
+| Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
@@ -591,7 +592,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent of Strange | 355023 | [355023-agent-of-strange.json](./355023-agent-of-strange.json) |
 | Agent Panda | 357801 | [357801-agent-panda.json](./357801-agent-panda.json) |
 | Agent Roy: Zombie Hunt | 232449 | [232449-agent-roy-zombie-hunt.json](./232449-agent-roy-zombie-hunt.json) |
-| Agent Sirius | 357802 | [357802-agent-sirius.json](./357802-agent-sirius.json) |
 | Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
 | Agent X | 23067 | [23067-agent-x.json](./23067-agent-x.json) |
