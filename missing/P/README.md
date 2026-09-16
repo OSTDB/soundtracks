@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painkiller: Purgatory HD | 77308 | [77308-painkiller-purgatory-hd.json](./77308-painkiller-purgatory-hd.json) |
 | Painkiller: Recurring Evil | 1839 | [1839-painkiller-recurring-evil.json](./1839-painkiller-recurring-evil.json) |
 | Painkiller: Redemption | 1838 | [1838-painkiller-redemption.json](./1838-painkiller-redemption.json) |
+| Painkiller: Special Edition | 317426 | [317426-painkiller-special-edition.json](./317426-painkiller-special-edition.json) |
 | PainStation | 175901 | [175901-painstation.json](./175901-painstation.json) |
 | Paint | 260171 | [260171-paint.json](./260171-paint.json) |
 | Paint Ball | 397656 | [397656-paint-ball.json](./397656-paint-ball.json) |
@@ -1508,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickle | 314264 | [314264-pickle.json](./314264-pickle.json) |
 | Pickle | 314284 | [314284-pickle.json](./314284-pickle.json) |
 | Pickle Frickle | 211717 | [211717-pickle-frickle.json](./211717-pickle-frickle.json) |
+| Pickle Pop | 317446 | [317446-pickle-pop.json](./317446-pickle-pop.json) |
 | Pickmos | 395697 | [395697-pickmos.json](./395697-pickmos.json) |
 | Pickochet | 388959 | [388959-pickochet.json](./388959-pickochet.json) |
 | Pickup Point Simulator | 304613 | [304613-pickup-point-simulator.json](./304613-pickup-point-simulator.json) |
@@ -2234,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Lana | 152071 | [152071-planet-of-lana.json](./152071-planet-of-lana.json) |
 | Planet of Lana II: Children of the Leaf | 348200 | [348200-planet-of-lana-ii-children-of-the-leaf.json](./348200-planet-of-lana-ii-children-of-the-leaf.json) |
 | Planet of the Ants | 347134 | [347134-planet-of-the-ants.json](./347134-planet-of-the-ants.json) |
+| Planet Oio | 317420 | [317420-planet-oio.json](./317420-planet-oio.json) |
 | Planet Omnia | 197912 | [197912-planet-omnia.json](./197912-planet-omnia.json) |
 | Planet Protector VR | 67939 | [67939-planet-protector-vr.json](./67939-planet-protector-vr.json) |
 | Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
@@ -3540,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Princess | 127335 | [127335-prison-princess.json](./127335-prison-princess.json) |
 | Prison Run | 394998 | [394998-prison-run.json](./394998-prison-run.json) |
 | Prison Run and Gun | 33672 | [33672-prison-run-and-gun.json](./33672-prison-run-and-gun.json) |
+| Prison Survival: Inmate Life Simulator | 317437 | [317437-prison-survival-inmate-life-simulator.json](./317437-prison-survival-inmate-life-simulator.json) |
 | Prison Tycoon 4: Supermax | 14882 | [14882-prison-tycoon-4-supermax.json](./14882-prison-tycoon-4-supermax.json) |
 | Prison Tycoon: Alcatraz | 14883 | [14883-prison-tycoon-alcatraz.json](./14883-prison-tycoon-alcatraz.json) |
 | Prison Tycoon: Under New Management | 152405 | [152405-prison-tycoon-under-new-management.json](./152405-prison-tycoon-under-new-management.json) |
@@ -3793,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Luna | 220659 | [220659-project-luna.json](./220659-project-luna.json) |
 | Project M | 127155 | [127155-project-m.json](./127155-project-m.json) |
 | Project M EX Remix | 202916 | [202916-project-m-ex-remix.json](./202916-project-m-ex-remix.json) |
+| Project MA | 317422 | [317422-project-ma.json](./317422-project-ma.json) |
 | Project Malice | 220660 | [220660-project-malice.json](./220660-project-malice.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
 | Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
