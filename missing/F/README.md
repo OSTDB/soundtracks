@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-18 Thunder Strike | 49931 | [49931-f-18-thunder-strike.json](./49931-f-18-thunder-strike.json) |
 | F-22 Interceptor | 19494 | [19494-f-22-interceptor.json](./19494-f-22-interceptor.json) |
 | F-4 Phantom II: Sky Defender | 253358 | [253358-f-4-phantom-ii-sky-defender.json](./253358-f-4-phantom-ii-sky-defender.json) |
+| F-out | 291616 | [291616-f-out.json](./291616-f-out.json) |
 | F-Rank Hero Story | 186323 | [186323-f-rank-hero-story.json](./186323-f-rank-hero-story.json) |
 | F-Stop Museum | 362288 | [362288-f-stop-museum.json](./362288-f-stop-museum.json) |
 | F-Zero | 3490 | [3490-f-zero.json](./3490-f-zero.json) |
@@ -1165,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
 | Fighting Soccer | 12097 | [12097-fighting-soccer.json](./12097-fighting-soccer.json) |
 | Fighting Steel: World War II Surface Combat 1939-1942 | 78006 | [78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json](./78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json) |
+| Fighting Vipers | 291605 | [291605-fighting-vipers.json](./291605-fighting-vipers.json) |
 | Fighting Vipers | 39471 | [39471-fighting-vipers.json](./39471-fighting-vipers.json) |
 | FightingChicken | 309675 | [309675-fightingchicken.json](./309675-fightingchicken.json) |
 | Fights in Tight Spaces: Weapon of Choice | 261775 | [261775-fights-in-tight-spaces-weapon-of-choice.json](./261775-fights-in-tight-spaces-weapon-of-choice.json) |
@@ -1771,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's AR Lite | 273955 | [273955-five-nights-at-freddys-ar-lite.json](./273955-five-nights-at-freddys-ar-lite.json) |
 | Five Nights at Freddy's AR: Special Delivery - Dark Circus: Encore! | 206706 | [206706-five-nights-at-freddys-ar-special-delivery-dark-circus-encore.json](./206706-five-nights-at-freddys-ar-special-delivery-dark-circus-encore.json) |
 | Five Nights at Freddy's Area 51 | 270670 | [270670-five-nights-at-freddys-area-51.json](./270670-five-nights-at-freddys-area-51.json) |
+| Five Nights at Freddy's Doom Mod Remake | 291606 | [291606-five-nights-at-freddys-doom-mod-remake.json](./291606-five-nights-at-freddys-doom-mod-remake.json) |
 | Five Nights at Freddy's Gameboy | 305749 | [305749-five-nights-at-freddys-gameboy.json](./305749-five-nights-at-freddys-gameboy.json) |
 | Five Nights at Freddy's Soulless Look | 383375 | [383375-five-nights-at-freddys-soulless-look.json](./383375-five-nights-at-freddys-soulless-look.json) |
 | Five Nights at Freddy's: Backlogged | 329023 | [329023-five-nights-at-freddys-backlogged.json](./329023-five-nights-at-freddys-backlogged.json) |
@@ -2536,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgetting Emily | 309680 | [309680-forgetting-emily.json](./309680-forgetting-emily.json) |
 | Forging Glory | 132814 | [132814-forging-glory.json](./132814-forging-glory.json) |
 | Forgiveness | 111471 | [111471-forgiveness.json](./111471-forgiveness.json) |
+| Forgiveness | 291580 | [291580-forgiveness.json](./291580-forgiveness.json) |
 | Forgiveness RPG: The First Chapter - Part Two | 294688 | [294688-forgiveness-rpg-the-first-chapter-part-two.json](./294688-forgiveness-rpg-the-first-chapter-part-two.json) |
 | Forgotten | 26702 | [26702-forgotten.json](./26702-forgotten.json) |
 | Forgotten 23 | 304661 | [304661-forgotten-23.json](./304661-forgotten-23.json) |
