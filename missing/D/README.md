@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D/Generation HD | 21318 | [21318-d-generation-hd.json](./21318-d-generation-hd.json) |
 | D1 Grand Prix | 20551 | [20551-d1-grand-prix.json](./20551-d1-grand-prix.json) |
 | D2 | 36736 | [36736-d2.json](./36736-d2.json) |
+| D3ad Hand | 315098 | [315098-d3ad-hand.json](./315098-d3ad-hand.json) |
 | D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
 | Dà Fùwēng | 125469 | [125469-da-fuweng.json](./125469-da-fuweng.json) |
@@ -1103,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Tour | 242798 | [242798-death-tour.json](./242798-death-tour.json) |
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
 | Death Train!!! Samara – Voronezh. | 362357 | [362357-death-train-samara-voronezh.json](./362357-death-train-samara-voronezh.json) |
+| Death Travelers | 315124 | [315124-death-travelers.json](./315124-death-travelers.json) |
 | Death Upon An Austrian Sonata: A Dana Knightstone Novel | 132803 | [132803-death-upon-an-austrian-sonata-a-dana-knightstone-novel.json](./132803-death-upon-an-austrian-sonata-a-dana-knightstone-novel.json) |
 | Death Upon Us | 150615 | [150615-death-upon-us.json](./150615-death-upon-us.json) |
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
@@ -1441,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Hummer Jevil | 352215 | [352215-deltarune-hummer-jevil.json](./352215-deltarune-hummer-jevil.json) |
 | Deltarune: Master Mode | 336354 | [336354-deltarune-master-mode.json](./336354-deltarune-master-mode.json) |
 | Deltarune: Survey Program | 397081 | [397081-deltarune-survey-program.json](./397081-deltarune-survey-program.json) |
+| Deltatraveler: Section 4 | 315072 | [315072-deltatraveler-section-4.json](./315072-deltatraveler-section-4.json) |
 | Deluge | 351644 | [351644-deluge.json](./351644-deluge.json) |
 | Deluge: Threnody of Crashing Waves | 173264 | [173264-deluge-threnody-of-crashing-waves.json](./173264-deluge-threnody-of-crashing-waves.json) |
 | Delusion Gallery | 178607 | [178607-delusion-gallery.json](./178607-delusion-gallery.json) |
@@ -2675,6 +2678,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Docking Doom | 271991 | [271991-docking-doom.json](./271991-docking-doom.json) |
 | Dockside Dreams: Fish & Cook Simulator | 373015 | [373015-dockside-dreams-fish-and-cook-simulator.json](./373015-dockside-dreams-fish-and-cook-simulator.json) |
 | Doctor Fizzwizzle's Animal Rescue | 50634 | [50634-doctor-fizzwizzles-animal-rescue.json](./50634-doctor-fizzwizzles-animal-rescue.json) |
+| Doctor Ku: The Alien Room | 315120 | [315120-doctor-ku-the-alien-room.json](./315120-doctor-ku-the-alien-room.json) |
+| Doctor Ku: The Cellar | 315097 | [315097-doctor-ku-the-cellar.json](./315097-doctor-ku-the-cellar.json) |
+| Doctor Ku: The Kitchen | 315099 | [315099-doctor-ku-the-kitchen.json](./315099-doctor-ku-the-kitchen.json) |
 | Doctor Nanobot | 207530 | [207530-doctor-nanobot.json](./207530-doctor-nanobot.json) |
 | Doctor Pigeon Simulator | 407360 | [407360-doctor-pigeon-simulator.json](./407360-doctor-pigeon-simulator.json) |
 | Doctor Root | 318980 | [318980-doctor-root.json](./318980-doctor-root.json) |
@@ -3521,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon City | 38877 | [38877-dragon-city.json](./38877-dragon-city.json) |
 | Dragon Coins | 63337 | [63337-dragon-coins.json](./63337-dragon-coins.json) |
 | Dragon Court | 281384 | [281384-dragon-court.json](./281384-dragon-court.json) |
+| Dragon Court: Revived | 315101 | [315101-dragon-court-revived.json](./315101-dragon-court-revived.json) |
 | Dragon Dance | 49940 | [49940-dragon-dance.json](./49940-dragon-dance.json) |
 | Dragon Dice | 69894 | [69894-dragon-dice.json](./69894-dragon-dice.json) |
 | Dragon Dodge Valley | 238743 | [238743-dragon-dodge-valley.json](./238743-dragon-dodge-valley.json) |
