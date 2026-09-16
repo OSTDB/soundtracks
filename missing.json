@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T09:48:57.273Z",
-  "total_missing": 77474,
+  "generated_at": "2026-09-16T09:51:46.821Z",
+  "total_missing": 77473,
   "games": [
     {
       "igdb_id": 306086,
@@ -5941,11 +5941,6 @@
       "igdb_id": 357804,
       "game_name": "Agora",
       "file": "missing/A/357804-agora.json"
-    },
-    {
-      "igdb_id": 9537,
-      "game_name": "Agricultural Simulator 2011",
-      "file": "missing/A/9537-agricultural-simulator-2011.json"
     },
     {
       "igdb_id": 50492,
