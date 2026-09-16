@@ -1377,6 +1377,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Solitaire Cube | 125938 | [125938-texas-solitaire-cube.json](./125938-texas-solitaire-cube.json) |
 | Texplore | 383946 | [383946-texplore.json](./383946-texplore.json) |
 | Text | 110635 | [110635-text.json](./110635-text.json) |
+| Text Adventure Engine | 295361 | [295361-text-adventure-engine.json](./295361-text-adventure-engine.json) |
+| Text Adventure Engine: Chicken Boy | 295362 | [295362-text-adventure-engine-chicken-boy.json](./295362-text-adventure-engine-chicken-boy.json) |
 | Text Dungeon: The Ring of Life | 407450 | [407450-text-dungeon-the-ring-of-life.json](./407450-text-dungeon-the-ring-of-life.json) |
 | Text Tiles | 46564 | [46564-text-tiles.json](./46564-text-tiles.json) |
 | Text Wall | 339272 | [339272-text-wall.json](./339272-text-wall.json) |
@@ -2851,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
 | The Horizon | 138184 | [138184-the-horizon.json](./138184-the-horizon.json) |
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
+| The Horror at Highrook | 295380 | [295380-the-horror-at-highrook.json](./295380-the-horror-at-highrook.json) |
 | The Horror Within | 255712 | [255712-the-horror-within.json](./255712-the-horror-within.json) |
 | The Horrorscope: Fatal Awakening | 166773 | [166773-the-horrorscope-fatal-awakening.json](./166773-the-horrorscope-fatal-awakening.json) |
 | The Horse Lord | 13727 | [13727-the-horse-lord.json](./13727-the-horse-lord.json) |
@@ -3734,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The NewZealand Story | 7628 | [7628-the-newzealand-story.json](./7628-the-newzealand-story.json) |
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
 | The Next Tetris | 51179 | [51179-the-next-tetris.json](./51179-the-next-tetris.json) |
+| The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
 | The Nightmare | 24860 | [24860-the-nightmare.json](./24860-the-nightmare.json) |
@@ -4762,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu: Warp Tiger | 157633 | [157633-the-tower-of-tigerqiuqiu-warp-tiger.json](./157633-the-tower-of-tigerqiuqiu-warp-tiger.json) |
 | The Tower of Wowers | 150068 | [150068-the-tower-of-wowers.json](./150068-the-tower-of-wowers.json) |
 | The Tower SP | 6639 | [6639-the-tower-sp.json](./6639-the-tower-sp.json) |
+| The Tower Stories Green 1 | 295378 | [295378-the-tower-stories-green-1.json](./295378-the-tower-stories-green-1.json) |
 | The Tower: The Order of XII | 117694 | [117694-the-tower-the-order-of-xii.json](./117694-the-tower-the-order-of-xii.json) |
 | The Towers | 406802 | [406802-the-towers.json](./406802-the-towers.json) |
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
@@ -8489,6 +8494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twitter Plays Snake | 339133 | [339133-twitter-plays-snake.json](./339133-twitter-plays-snake.json) |
 | Twixel | 9524 | [9524-twixel.json](./9524-twixel.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
+| Twizzle Puzzle: Rodents | 295379 | [295379-twizzle-puzzle-rodents.json](./295379-twizzle-puzzle-rodents.json) |
 | Two & One Hundred Ways Bundle | 188020 | [188020-two-and-one-hundred-ways-bundle.json](./188020-two-and-one-hundred-ways-bundle.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
