@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xīngjì Shéngé | 196875 | [196875-xingji-shenge.json](./196875-xingji-shenge.json) |
 | Xio: Survival | 193496 | [193496-xio-survival.json](./193496-xio-survival.json) |
 | Xion Leak | 216815 | [216815-xion-leak.json](./216815-xion-leak.json) |
+| Xióng Chuǎng Tiānxià | 325062 | [325062-xiong-chuang-tianxia.json](./325062-xiong-chuang-tianxia.json) |
 | xkcd: Hoverboard | 59459 | [59459-xkcd-hoverboard.json](./59459-xkcd-hoverboard.json) |
 | Xmas Boom | 254136 | [254136-xmas-boom.json](./254136-xmas-boom.json) |
 | Xmas Jam 2017 | 271230 | [271230-xmas-jam-2017.json](./271230-xmas-jam-2017.json) |
