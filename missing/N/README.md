@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick's Night Out | 123052 | [123052-nicks-night-out.json](./123052-nicks-night-out.json) |
 | Nickelback Revenge | 66043 | [66043-nickelback-revenge.json](./66043-nickelback-revenge.json) |
 | Nickelodeon All-Star Brawl 2: Costume Pack | 275617 | [275617-nickelodeon-all-star-brawl-2-costume-pack.json](./275617-nickelodeon-all-star-brawl-2-costume-pack.json) |
+| Nickelodeon All-Star Brawl 2: Iroh Brawl Pack | 313298 | [313298-nickelodeon-all-star-brawl-2-iroh-brawl-pack.json](./313298-nickelodeon-all-star-brawl-2-iroh-brawl-pack.json) |
 | Nickelodeon All-Star Brawl 2: Season Pass | 275618 | [275618-nickelodeon-all-star-brawl-2-season-pass.json](./275618-nickelodeon-all-star-brawl-2-season-pass.json) |
 | Nickelodeon All-Star Brawl 2: The Elastic Waistband Costume | 315081 | [315081-nickelodeon-all-star-brawl-2-the-elastic-waistband-costume.json](./315081-nickelodeon-all-star-brawl-2-the-elastic-waistband-costume.json) |
 | Nickelodeon All-Star Brawl: Hugh Neutron | 212790 | [212790-nickelodeon-all-star-brawl-hugh-neutron.json](./212790-nickelodeon-all-star-brawl-hugh-neutron.json) |
@@ -1418,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Mini Classics: UEFA Euro 2008 | 206389 | [206389-nintendo-mini-classics-uefa-euro-2008.json](./206389-nintendo-mini-classics-uefa-euro-2008.json) |
 | Nintendo Mini Classics: Zelda | 206370 | [206370-nintendo-mini-classics-zelda.json](./206370-nintendo-mini-classics-zelda.json) |
 | Nintendo MP3 Player | 300369 | [300369-nintendo-mp3-player.json](./300369-nintendo-mp3-player.json) |
+| Nintendo Nightmare Deluxe | 313341 | [313341-nintendo-nightmare-deluxe.json](./313341-nintendo-nightmare-deluxe.json) |
 | Nintendo Presents: Crossword Collection | 23255 | [23255-nintendo-presents-crossword-collection.json](./23255-nintendo-presents-crossword-collection.json) |
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
 | Nintendo World Championships: NES Edition | 299862 | [299862-nintendo-world-championships-nes-edition.json](./299862-nintendo-world-championships-nes-edition.json) |
