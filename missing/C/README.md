@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitalism II | 921 | [921-capitalism-ii.json](./921-capitalism-ii.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
+| Cappadocia Puzzle | 303065 | [303065-cappadocia-puzzle.json](./303065-cappadocia-puzzle.json) |
 | Capper | 384667 | [384667-capper.json](./384667-capper.json) |
 | Cappuchino Spoontforce Deluxe VI: Girl of the Boiling Fury | 181872 | [181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json](./181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json) |
 | Capria: Magic of the Elements | 33142 | [33142-capria-magic-of-the-elements.json](./33142-capria-magic-of-the-elements.json) |
@@ -760,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Noir | 29607 | [29607-casino-noir.json](./29607-casino-noir.json) |
 | Casino Pokies-CPC | 360590 | [360590-casino-pokies-cpc.json](./360590-casino-pokies-cpc.json) |
 | Casino Roulette Royal | 166682 | [166682-casino-roulette-royal.json](./166682-casino-roulette-royal.json) |
+| Casino World | 303087 | [303087-casino-world.json](./303087-casino-world.json) |
 | CasinoRPG | 82057 | [82057-casinorpg.json](./82057-casinorpg.json) |
 | Casper: Friends Around the World | 44956 | [44956-casper-friends-around-the-world.json](./44956-casper-friends-around-the-world.json) |
 | Cassandra's Fabulous Foray | 67931 | [67931-cassandras-fabulous-foray.json](./67931-cassandras-fabulous-foray.json) |
@@ -1322,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
 | Chained Horror Experiences | 258980 | [258980-chained-horror-experiences.json](./258980-chained-horror-experiences.json) |
+| Chained Runes | 303077 | [303077-chained-runes.json](./303077-chained-runes.json) |
 | Chained Sun | 382293 | [382293-chained-sun.json](./382293-chained-sun.json) |
 | Chained Survive Together | 320375 | [320375-chained-survive-together.json](./320375-chained-survive-together.json) |
 | Chained Together | 265111 | [265111-chained-together.json](./265111-chained-together.json) |
@@ -4344,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crops and Conveyors | 189126 | [189126-crops-and-conveyors.json](./189126-crops-and-conveyors.json) |
 | Croquet Pro | 111727 | [111727-croquet-pro.json](./111727-croquet-pro.json) |
 | Croquet Pro 2 | 111728 | [111728-croquet-pro-2.json](./111728-croquet-pro-2.json) |
+| Croquettes Gang | 303089 | [303089-croquettes-gang.json](./303089-croquettes-gang.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
@@ -4408,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Champ | 58273 | [58273-crossword-champ.json](./58273-crossword-champ.json) |
 | Crossword Dungeon | 208017 | [208017-crossword-dungeon.json](./208017-crossword-dungeon.json) |
 | Crossword Explorer | 406089 | [406089-crossword-explorer.json](./406089-crossword-explorer.json) |
+| Crossword Go | 303106 | [303106-crossword-go.json](./303106-crossword-go.json) |
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
