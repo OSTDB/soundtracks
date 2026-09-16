@@ -628,7 +628,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
-| Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
