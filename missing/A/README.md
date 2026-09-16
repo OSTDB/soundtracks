@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
+| A Ghost Party | 307744 | [307744-a-ghost-party.json](./307744-a-ghost-party.json) |
 | A Goblin's Quest to Leave Her House and Get a Gyro for Lunch Because She Was Hungry | 338807 | [338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json](./338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json) |
 | A God-Like Backhand! | 29786 | [29786-a-god-like-backhand.json](./29786-a-god-like-backhand.json) |
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
@@ -2238,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoki Densetsu Shoot! | 228474 | [228474-aoki-densetsu-shoot.json](./228474-aoki-densetsu-shoot.json) |
 | Aoki Ookami to Shiroki Mejika | 30922 | [30922-aoki-ookami-to-shiroki-mejika.json](./30922-aoki-ookami-to-shiroki-mejika.json) |
 | Aonar | 259292 | [259292-aonar.json](./259292-aonar.json) |
+| Aooni | 307751 | [307751-aooni.json](./307751-aooni.json) |
 | Aooni: The Horror of Blueberry Onsen | 341884 | [341884-aooni-the-horror-of-blueberry-onsen.json](./341884-aooni-the-horror-of-blueberry-onsen.json) |
 | AOS Manager | 120367 | [120367-aos-manager.json](./120367-aos-manager.json) |
 | Aozora Under Girls: Karsome Irony | 119755 | [119755-aozora-under-girls-karsome-irony.json](./119755-aozora-under-girls-karsome-irony.json) |
@@ -2996,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arson & Plunder: Unleashed | 36323 | [36323-arson-and-plunder-unleashed.json](./36323-arson-and-plunder-unleashed.json) |
 | ArsonVille | 25729 | [25729-arsonville.json](./25729-arsonville.json) |
 | Art Academy: First Semester | 79260 | [79260-art-academy-first-semester.json](./79260-art-academy-first-semester.json) |
+| Art Appreciation | 307736 | [307736-art-appreciation.json](./307736-art-appreciation.json) |
 | Art Attack | 366924 | [366924-art-attack.json](./366924-art-attack.json) |
 | Art by Numbers | 124140 | [124140-art-by-numbers.json](./124140-art-by-numbers.json) |
 | Art for Snakes | 315704 | [315704-art-for-snakes.json](./315704-art-for-snakes.json) |
@@ -3701,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | August Night | 217858 | [217858-august-night.json](./217858-august-night.json) |
 | Aum the Game | 369118 | [369118-aum-the-game.json](./369118-aum-the-game.json) |
 | Aunt Arctic Adventure | 14275 | [14275-aunt-arctic-adventure.json](./14275-aunt-arctic-adventure.json) |
+| Aunt Fatima | 307767 | [307767-aunt-fatima.json](./307767-aunt-fatima.json) |
 | Aura Aspic | 180236 | [180236-aura-aspic.json](./180236-aura-aspic.json) |
 | Aura Aura Climber | 66985 | [66985-aura-aura-climber.json](./66985-aura-aura-climber.json) |
 | Aura Farmers | 329698 | [329698-aura-farmers.json](./329698-aura-farmers.json) |
