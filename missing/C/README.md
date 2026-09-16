@@ -1853,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Suey | 47297 | [47297-chop-suey.json](./47297-chop-suey.json) |
 | Chop Sushi | 18252 | [18252-chop-sushi.json](./18252-chop-sushi.json) |
 | Chopcremental | 349329 | [349329-chopcremental.json](./349329-chopcremental.json) |
+| Choplifter | 320961 | [320961-choplifter.json](./320961-choplifter.json) |
 | Choplifter | 343893 | [343893-choplifter.json](./343893-choplifter.json) |
 | Choplifter | 343894 | [343894-choplifter.json](./343894-choplifter.json) |
 | Choplifter HD | 15158 | [15158-choplifter-hd.json](./15158-choplifter-hd.json) |
@@ -4261,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
+| Cross Edge Dash | 320956 | [320956-cross-edge-dash.json](./320956-cross-edge-dash.json) |
 | Cross Guardian | 381110 | [381110-cross-guardian.json](./381110-cross-guardian.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
