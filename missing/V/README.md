@@ -123,6 +123,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Chronicles 2 | 14674 | [14674-valkyria-chronicles-2.json](./14674-valkyria-chronicles-2.json) |
 | Valkyria Chronicles 2: DLC Pack 2 | 138838 | [138838-valkyria-chronicles-2-dlc-pack-2.json](./138838-valkyria-chronicles-2-dlc-pack-2.json) |
 | Valkyria Chronicles 4 | 75848 | [75848-valkyria-chronicles-4.json](./75848-valkyria-chronicles-4.json) |
+| Valkyria Chronicles 4: Advance Ops | 304734 | [304734-valkyria-chronicles-4-advance-ops.json](./304734-valkyria-chronicles-4-advance-ops.json) |
+| Valkyria Chronicles 4: Expert Level Skirmishes | 304755 | [304755-valkyria-chronicles-4-expert-level-skirmishes.json](./304755-valkyria-chronicles-4-expert-level-skirmishes.json) |
 | Valkyria Chronicles 4: Memoirs From Battle Edition | 132179 | [132179-valkyria-chronicles-4-memoirs-from-battle-edition.json](./132179-valkyria-chronicles-4-memoirs-from-battle-edition.json) |
 | Valkyria Chronicles Bundle | 138811 | [138811-valkyria-chronicles-bundle.json](./138811-valkyria-chronicles-bundle.json) |
 | Valkyria Chronicles: Challenge of the Edy Detachment | 138837 | [138837-valkyria-chronicles-challenge-of-the-edy-detachment.json](./138837-valkyria-chronicles-challenge-of-the-edy-detachment.json) |
@@ -839,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Authority | 355041 | [355041-void-authority.json](./355041-void-authority.json) |
 | Void Bastards | 111846 | [111846-void-bastards.json](./111846-void-bastards.json) |
 | Void Blitzing | 236505 | [236505-void-blitzing.json](./236505-void-blitzing.json) |
+| Void Carrier | 304698 | [304698-void-carrier.json](./304698-void-carrier.json) |
 | Void Climber | 316062 | [316062-void-climber.json](./316062-void-climber.json) |
 | Void Crawlers | 404966 | [404966-void-crawlers.json](./404966-void-crawlers.json) |
 | Void Dementia | 182492 | [182492-void-dementia.json](./182492-void-dementia.json) |
