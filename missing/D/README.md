@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Disciples II | 168324 | [168324-dark-disciples-ii.json](./168324-dark-disciples-ii.json) |
 | Dark Dive: The Last Tropic | 277021 | [277021-dark-dive-the-last-tropic.json](./277021-dark-dive-the-last-tropic.json) |
 | Dark Earth | 410975 | [410975-dark-earth.json](./410975-dark-earth.json) |
+| Dark Echo | 293776 | [293776-dark-echo.json](./293776-dark-echo.json) |
 | Dark Eden Umbra | 359526 | [359526-dark-eden-umbra.json](./359526-dark-eden-umbra.json) |
 | Dark Egg | 213974 | [213974-dark-egg.json](./213974-dark-egg.json) |
 | Dark Elf | 51570 | [51570-dark-elf.json](./51570-dark-elf.json) |
@@ -3685,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Side II: The Twisted Speare | 122988 | [122988-dragon-side-ii-the-twisted-speare.json](./122988-dragon-side-ii-the-twisted-speare.json) |
 | Dragon Simulator Multiplayer | 111350 | [111350-dragon-simulator-multiplayer.json](./111350-dragon-simulator-multiplayer.json) |
 | Dragon Sisters | 43265 | [43265-dragon-sisters.json](./43265-dragon-sisters.json) |
+| Dragon Slayer | 293747 | [293747-dragon-slayer.json](./293747-dragon-slayer.json) |
 | Dragon Slayer | 80519 | [80519-dragon-slayer.json](./80519-dragon-slayer.json) |
 | Dragon Slayer I | 344961 | [344961-dragon-slayer-i.json](./344961-dragon-slayer-i.json) |
 | Dragon Slayers | 123012 | [123012-dragon-slayers.json](./123012-dragon-slayers.json) |
