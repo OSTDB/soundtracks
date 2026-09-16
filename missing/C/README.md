@@ -3899,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cr4ckr | 339332 | [339332-cr4ckr.json](./339332-cr4ckr.json) |
 | Crab and Fish | 218701 | [218701-crab-and-fish.json](./218701-crab-and-fish.json) |
 | Crab Digger | 236850 | [236850-crab-digger.json](./236850-crab-digger.json) |
+| Crab Digger: Tropical Island | 300858 | [300858-crab-digger-tropical-island.json](./300858-crab-digger-tropical-island.json) |
 | Crab Game 2 | 323500 | [323500-crab-game-2.json](./323500-crab-game-2.json) |
 | Crab Island | 226775 | [226775-crab-island.json](./226775-crab-island.json) |
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
@@ -4128,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Snowboard | 87553 | [87553-crazy-snowboard.json](./87553-crazy-snowboard.json) |
 | Crazy Sonic | 352784 | [352784-crazy-sonic.json](./352784-crazy-sonic.json) |
 | Crazy Steam Bros 2 | 35640 | [35640-crazy-steam-bros-2.json](./35640-crazy-steam-bros-2.json) |
+| Crazy Stunt Driver: Extreme Racing Simulator | 300859 | [300859-crazy-stunt-driver-extreme-racing-simulator.json](./300859-crazy-stunt-driver-extreme-racing-simulator.json) |
 | Crazy Tapper + | 175343 | [175343-crazy-tapper.json](./175343-crazy-tapper.json) |
 | Crazy Taxi | 1805 | [1805-crazy-taxi.json](./1805-crazy-taxi.json) |
 | Crazy Taxi 2 | 1806 | [1806-crazy-taxi-2.json](./1806-crazy-taxi-2.json) |
@@ -4771,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culdcept Expansion | 361753 | [361753-culdcept-expansion.json](./361753-culdcept-expansion.json) |
 | Culdcept Revolt | 27258 | [27258-culdcept-revolt.json](./27258-culdcept-revolt.json) |
 | Culinarium | 322168 | [322168-culinarium.json](./322168-culinarium.json) |
+| Culinary Cooking Master Simulator | 300860 | [300860-culinary-cooking-master-simulator.json](./300860-culinary-cooking-master-simulator.json) |
 | Cult Game | 362875 | [362875-cult-game.json](./362875-cult-game.json) |
 | Cult Master: Ultraman ni Miserarete | 60529 | [60529-cult-master-ultraman-ni-miserarete.json](./60529-cult-master-ultraman-ni-miserarete.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
