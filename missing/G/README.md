@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaucho and the Grassland | 192368 | [192368-gaucho-and-the-grassland.json](./192368-gaucho-and-the-grassland.json) |
 | Gaudi: Barcelona no Kaze | 118312 | [118312-gaudi-barcelona-no-kaze.json](./118312-gaudi-barcelona-no-kaze.json) |
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
+| Gauntlet | 330890 | [330890-gauntlet.json](./330890-gauntlet.json) |
 | Gauntlet | 381045 | [381045-gauntlet.json](./381045-gauntlet.json) |
 | Gauntlet | 7294 | [7294-gauntlet.json](./7294-gauntlet.json) |
 | Gauntlet Dark Legacy | 3927 | [3927-gauntlet-dark-legacy.json](./3927-gauntlet-dark-legacy.json) |
