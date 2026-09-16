@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calling | 403030 | [403030-calling.json](./403030-calling.json) |
 | Calluna | 173248 | [173248-calluna.json](./173248-calluna.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
+| Calm Before The Storm | 316852 | [316852-calm-before-the-storm.json](./316852-calm-before-the-storm.json) |
 | Calm Down, Stalin VR | 286535 | [286535-calm-down-stalin-vr.json](./286535-calm-down-stalin-vr.json) |
 | Calm Down, Stalin: The First Person | 161351 | [161351-calm-down-stalin-the-first-person.json](./161351-calm-down-stalin-the-first-person.json) |
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
@@ -1462,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
+| ChatBattlers | 316821 | [316821-chatbattlers.json](./316821-chatbattlers.json) |
 | ChatBBT | 291451 | [291451-chatbbt.json](./291451-chatbbt.json) |
 | Château Pluie: The New Cellar Keeper | 412309 | [412309-chateau-pluie-the-new-cellar-keeper.json](./412309-chateau-pluie-the-new-cellar-keeper.json) |
 | Château Royale Jigsaw | 357875 | [357875-chateau-royale-jigsaw.json](./357875-chateau-royale-jigsaw.json) |
@@ -2379,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clawsome | 334203 | [334203-clawsome.json](./334203-clawsome.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
+| Clay Knight | 316853 | [316853-clay-knight.json](./316853-clay-knight.json) |
 | Clay Puzzle | 391201 | [391201-clay-puzzle.json](./391201-clay-puzzle.json) |
 | Clay Shooter | 192981 | [192981-clay-shooter.json](./192981-clay-shooter.json) |
 | Clayborn Idle | 382301 | [382301-clayborn-idle.json](./382301-clayborn-idle.json) |
@@ -3777,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowpocalypse | 118382 | [118382-cowpocalypse.json](./118382-cowpocalypse.json) |
 | Cowpocalypse | 274776 | [274776-cowpocalypse.json](./274776-cowpocalypse.json) |
 | Cows Gone Mad: Battle for Pasture Prime | 411676 | [411676-cows-gone-mad-battle-for-pasture-prime.json](./411676-cows-gone-mad-battle-for-pasture-prime.json) |
+| Cowtastic Cafe | 316823 | [316823-cowtastic-cafe.json](./316823-cowtastic-cafe.json) |
 | Cozmic Fantasy 2: Bouken Shounen Pan | 251628 | [251628-cozmic-fantasy-2-bouken-shounen-pan.json](./251628-cozmic-fantasy-2-bouken-shounen-pan.json) |
 | Cozy | 179745 | [179745-cozy.json](./179745-cozy.json) |
 | Cozy Cards | 209616 | [209616-cozy-cards.json](./209616-cozy-cards.json) |
