@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machigai-sagashi Daisousasen | 271506 | [271506-machigai-sagashi-daisousasen.json](./271506-machigai-sagashi-daisousasen.json) |
 | Machina | 184624 | [184624-machina.json](./184624-machina.json) |
 | Machina Blue | 415173 | [415173-machina-blue.json](./415173-machina-blue.json) |
+| Machina of the Farthest | 296489 | [296489-machina-of-the-farthest.json](./296489-machina-of-the-farthest.json) |
 | Machina of the Planet Tree -Unity Unions- | 138175 | [138175-machina-of-the-planet-tree-unity-unions.json](./138175-machina-of-the-planet-tree-unity-unions.json) |
 | Machina of the Planet Tree: Flying Dreamer | 59940 | [59940-machina-of-the-planet-tree-flying-dreamer.json](./59940-machina-of-the-planet-tree-flying-dreamer.json) |
 | Machinarium | 264876 | [264876-machinarium.json](./264876-machinarium.json) |
@@ -798,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Màoxiǎn Xiǎofēnduì | 370228 | [370228-maoxian-xiaofendui.json](./370228-maoxian-xiaofendui.json) |
 | Map Snap | 112338 | [112338-map-snap.json](./112338-map-snap.json) |
 | MapGame | 341893 | [341893-mapgame.json](./341893-mapgame.json) |
+| Maple & Rufus: The Water Robbery | 296490 | [296490-maple-and-rufus-the-water-robbery.json](./296490-maple-and-rufus-the-water-robbery.json) |
 | Maple and Aluna | 369124 | [369124-maple-and-aluna.json](./369124-maple-and-aluna.json) |
 | Maple Forest | 318604 | [318604-maple-forest.json](./318604-maple-forest.json) |
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
@@ -1273,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Wolverine | 168667 | [168667-marvels-wolverine.json](./168667-marvels-wolverine.json) |
 | Marvel's Wolverine: Digital Deluxe Edition | 407453 | [407453-marvels-wolverine-digital-deluxe-edition.json](./407453-marvels-wolverine-digital-deluxe-edition.json) |
 | Marvellous Inc. | 96638 | [96638-marvellous-inc.json](./96638-marvellous-inc.json) |
+| Marvellous Inc.: MarvGPT | 296521 | [296521-marvellous-inc-marvgpt.json](./296521-marvellous-inc-marvgpt.json) |
 | Marvellous Journeys Bundle | 196282 | [196282-marvellous-journeys-bundle.json](./196282-marvellous-journeys-bundle.json) |
 | Marvelous: Mouhitotsu no Takarajima | 15837 | [15837-marvelous-mouhitotsu-no-takarajima.json](./15837-marvelous-mouhitotsu-no-takarajima.json) |
 | Mary Had A Lost Lamb | 314072 | [314072-mary-had-a-lost-lamb.json](./314072-mary-had-a-lost-lamb.json) |
