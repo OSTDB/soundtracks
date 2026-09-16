@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack First!: Fight the Moles | 212268 | [212268-whack-first-fight-the-moles.json](./212268-whack-first-fight-the-moles.json) |
 | Whack Your Computer | 356717 | [356717-whack-your-computer.json](./356717-whack-your-computer.json) |
 | Whack-A-Friend | 85486 | [85486-whack-a-friend.json](./85486-whack-a-friend.json) |
+| Whack-a-Mole | 288363 | [288363-whack-a-mole.json](./288363-whack-a-mole.json) |
 | Whack-A-Monster | 410919 | [410919-whack-a-monster.json](./410919-whack-a-monster.json) |
 | Whacked! | 377148 | [377148-whacked.json](./377148-whacked.json) |
 | Whacky Ball | 243712 | [243712-whacky-ball.json](./243712-whacky-ball.json) |
