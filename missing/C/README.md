@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
 | Carnage Heart EXA | 46589 | [46589-carnage-heart-exa.json](./46589-carnage-heart-exa.json) |
 | Carnage Kart X | 318977 | [318977-carnage-kart-x.json](./318977-carnage-kart-x.json) |
+| Carnal Sins: Malum Incarnatum + Carne Vescens | 329693 | [329693-carnal-sins-malum-incarnatum-carne-vescens.json](./329693-carnal-sins-malum-incarnatum-carne-vescens.json) |
 | Carnasis | 360007 | [360007-carnasis.json](./360007-carnasis.json) |
 | Carnaval | 304055 | [304055-carnaval.json](./304055-carnaval.json) |
 | Carnica | 39636 | [39636-carnica.json](./39636-carnica.json) |
@@ -2591,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoBots | 62707 | [62707-cobots.json](./62707-cobots.json) |
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
+| Coca-Cola Lawnmower | 329722 | [329722-coca-cola-lawnmower.json](./329722-coca-cola-lawnmower.json) |
 | Cochonnet | 382750 | [382750-cochonnet.json](./382750-cochonnet.json) |
 | Cockatrice Attacking the city | 120970 | [120970-cockatrice-attacking-the-city.json](./120970-cockatrice-attacking-the-city.json) |
 | Cocked and Loaded | 278671 | [278671-cocked-and-loaded.json](./278671-cocked-and-loaded.json) |
