@@ -4059,6 +4059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Zone | 76535 | [76535-drift-zone.json](./76535-drift-zone.json) |
 | Drift Zone 2 | 174845 | [174845-drift-zone-2.json](./174845-drift-zone-2.json) |
 | Drift: When Worlds Collide | 71505 | [71505-drift-when-worlds-collide.json](./71505-drift-when-worlds-collide.json) |
+| Drifted | 287227 | [287227-drifted.json](./287227-drifted.json) |
 | Driftence | 190130 | [190130-driftence.json](./190130-driftence.json) |
 | Drifter | 16772 | [16772-drifter.json](./16772-drifter.json) |
 | Drifter Star: Evolution | 371872 | [371872-drifter-star-evolution.json](./371872-drifter-star-evolution.json) |
