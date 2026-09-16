@@ -2199,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Corps: Gold | 209461 | [209461-flying-corps-gold.json](./209461-flying-corps-gold.json) |
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
 | Flying Frogs | 209462 | [209462-flying-frogs.json](./209462-flying-frogs.json) |
+| Flying Frogs | 301991 | [301991-flying-frogs.json](./301991-flying-frogs.json) |
 | Flying Guys | 361741 | [361741-flying-guys.json](./361741-flying-guys.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
 | Flying Motorcycle Simulator Pro | 87258 | [87258-flying-motorcycle-simulator-pro.json](./87258-flying-motorcycle-simulator-pro.json) |
@@ -3422,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Boss | 215891 | [215891-furry-boss.json](./215891-furry-boss.json) |
 | Furry Came-a-Lot | 374050 | [374050-furry-came-a-lot.json](./374050-furry-came-a-lot.json) |
 | Furry Chronicles | 115612 | [115612-furry-chronicles.json](./115612-furry-chronicles.json) |
+| Furry Feet Girls | 301999 | [301999-furry-feet-girls.json](./301999-furry-feet-girls.json) |
 | Furry Fetishists | 286501 | [286501-furry-fetishists.json](./286501-furry-fetishists.json) |
 | Furry Futa | 239340 | [239340-furry-futa.json](./239340-furry-futa.json) |
 | Furry Hentai Quest | 192460 | [192460-furry-hentai-quest.json](./192460-furry-hentai-quest.json) |
