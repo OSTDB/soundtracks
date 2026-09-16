@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws & Claws Pampered Pets | 288196 | [288196-paws-and-claws-pampered-pets.json](./288196-paws-and-claws-pampered-pets.json) |
 | Paws & Claws Pet Vet: Australian Adventures | 47977 | [47977-paws-and-claws-pet-vet-australian-adventures.json](./47977-paws-and-claws-pet-vet-australian-adventures.json) |
 | Paws & Claws: Pet Resort | 18272 | [18272-paws-and-claws-pet-resort.json](./18272-paws-and-claws-pet-resort.json) |
+| Paws & Clean | 316847 | [316847-paws-and-clean.json](./316847-paws-and-clean.json) |
 | Paws & Perils: Out Of This World | 327386 | [327386-paws-and-perils-out-of-this-world.json](./327386-paws-and-perils-out-of-this-world.json) |
 | Paws and Leaves: A Last Tale | 211234 | [211234-paws-and-leaves-a-last-tale.json](./211234-paws-and-leaves-a-last-tale.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
@@ -3171,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Punch 2+ | 385569 | [385569-potion-punch-2.json](./385569-potion-punch-2.json) |
 | Potion Shop Simulator | 290953 | [290953-potion-shop-simulator.json](./290953-potion-shop-simulator.json) |
 | Potion Slingers | 248036 | [248036-potion-slingers.json](./248036-potion-slingers.json) |
+| Potion Stand Story | 316809 | [316809-potion-stand-story.json](./316809-potion-stand-story.json) |
 | Potionomics: Boss Finn Content Pack | 360595 | [360595-potionomics-boss-finn-content-pack.json](./360595-potionomics-boss-finn-content-pack.json) |
 | Potions War | 201802 | [201802-potions-war.json](./201802-potions-war.json) |
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
@@ -3386,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Overseer | 232964 | [232964-pretty-overseer.json](./232964-pretty-overseer.json) |
 | Pretty Rhythm: My Deco Rainbow Wedding | 141150 | [141150-pretty-rhythm-my-deco-rainbow-wedding.json](./141150-pretty-rhythm-my-deco-rainbow-wedding.json) |
 | Pretty Safe Airlines | 125480 | [125480-pretty-safe-airlines.json](./125480-pretty-safe-airlines.json) |
+| Pretty Soldier Sailor Moon S | 316798 | [316798-pretty-soldier-sailor-moon-s.json](./316798-pretty-soldier-sailor-moon-s.json) |
 | Prey of the Night | 325626 | [325626-prey-of-the-night.json](./325626-prey-of-the-night.json) |
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
 | Prezzemolo in una Giornata da Incubo | 93026 | [93026-prezzemolo-in-una-giornata-da-incubo.json](./93026-prezzemolo-in-una-giornata-da-incubo.json) |
@@ -3476,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
+| Princess Pajama | 316803 | [316803-princess-pajama.json](./316803-princess-pajama.json) |
 | Princess Paloma's Rescue | 360109 | [360109-princess-palomas-rescue.json](./360109-princess-palomas-rescue.json) |
 | Princess Peach Sex Hack | 294709 | [294709-princess-peach-sex-hack.json](./294709-princess-peach-sex-hack.json) |
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
@@ -4123,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
 | Puff Love Story | 371903 | [371903-puff-love-story.json](./371903-puff-love-story.json) |
 | Puff Up: Classic Edition | 353983 | [353983-puff-up-classic-edition.json](./353983-puff-up-classic-edition.json) |
+| Puff. | 316817 | [316817-puff.json](./316817-puff.json) |
 | Puffin Parcel Post | 346106 | [346106-puffin-parcel-post.json](./346106-puffin-parcel-post.json) |
 | Puffins: Island Adventure | 68030 | [68030-puffins-island-adventure.json](./68030-puffins-island-adventure.json) |
 | Puffins: Let's Fish! | 84802 | [84802-puffins-lets-fish.json](./84802-puffins-lets-fish.json) |
