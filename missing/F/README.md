@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisraduth: Castle of Tyramis | 321337 | [321337-fisraduth-castle-of-tyramis.json](./321337-fisraduth-castle-of-tyramis.json) |
 | Fission | 381021 | [381021-fission.json](./381021-fission.json) |
 | Fissure | 361809 | [361809-fissure.json](./361809-fissure.json) |
+| Fist Hell | 318602 | [318602-fist-hell.json](./318602-fist-hell.json) |
 | Fist of Awesome | 17501 | [17501-fist-of-awesome.json](./17501-fist-of-awesome.json) |
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
 | Fist Puncher | 9088 | [9088-fist-puncher.json](./9088-fist-puncher.json) |
