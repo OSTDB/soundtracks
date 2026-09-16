@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F/A-18C Inherent Resolve Campaign by Looking Glass | 325248 | [325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json](./325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json) |
 | DCS World: F/A-18C Rise of the Persian Lion Campaign | 162862 | [162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json](./162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json) |
 | DCS World: Hawk | 162864 | [162864-dcs-world-hawk.json](./162864-dcs-world-hawk.json) |
+| DCS World: Kola Map by Orbx | 310021 | [310021-dcs-world-kola-map-by-orbx.json](./310021-dcs-world-kola-map-by-orbx.json) |
 | DCS World: Marianas | 162859 | [162859-dcs-world-marianas.json](./162859-dcs-world-marianas.json) |
 | DCS World: MiG-29 | 162861 | [162861-dcs-world-mig-29.json](./162861-dcs-world-mig-29.json) |
 | DCS World: Mosquito FB VI - V for Victory Campaign by Reflected Simulations | 325251 | [325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json](./325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
 | Dig & Spike Volleyball | 94194 | [94194-dig-and-spike-volleyball.json](./94194-dig-and-spike-volleyball.json) |
+| Dig a Road | 310048 | [310048-dig-a-road.json](./310048-dig-a-road.json) |
 | Dig Baby Dig Company | 376450 | [376450-dig-baby-dig-company.json](./376450-dig-baby-dig-company.json) |
 | Dig Dug | 2636 | [2636-dig-dug.json](./2636-dig-dug.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
