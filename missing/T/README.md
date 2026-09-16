@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarot | 95371 | [95371-tarot.json](./95371-tarot.json) |
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
 | Tartapolis | 120954 | [120954-tartapolis.json](./120954-tartapolis.json) |
+| Tartaros | 320403 | [320403-tartaros.json](./320403-tartaros.json) |
 | Tartarus | 256845 | [256845-tartarus.json](./256845-tartarus.json) |
 | Tartarus | 29147 | [29147-tartarus.json](./29147-tartarus.json) |
 | Tarutobi | 371917 | [371917-tarutobi.json](./371917-tarutobi.json) |
@@ -802,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Run | 254752 | [254752-taxi-run.json](./254752-taxi-run.json) |
 | Taxi Sim 2016 | 262382 | [262382-taxi-sim-2016.json](./262382-taxi-sim-2016.json) |
 | Taxi Simulator | 343327 | [343327-taxi-simulator.json](./343327-taxi-simulator.json) |
+| Taxi Xtreme Urban Racer | 320368 | [320368-taxi-xtreme-urban-racer.json](./320368-taxi-xtreme-urban-racer.json) |
 | Taxi! | 9454 | [9454-taxi.json](./9454-taxi.json) |
 | TaxMan | 19478 | [19478-taxman.json](./19478-taxman.json) |
 | Tayal | 109622 | [109622-tayal.json](./109622-tayal.json) |
@@ -1757,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue Marlin | 48104 | [48104-the-blue-marlin.json](./48104-the-blue-marlin.json) |
 | The Blue-diamond Damsel in Distress | 336386 | [336386-the-blue-diamond-damsel-in-distress.json](./336386-the-blue-diamond-damsel-in-distress.json) |
 | The Bluecoats: North vs South - Limited Edition | 139929 | [139929-the-bluecoats-north-vs-south-limited-edition.json](./139929-the-bluecoats-north-vs-south-limited-edition.json) |
+| The Body Cam Project | 320376 | [320376-the-body-cam-project.json](./320376-the-body-cam-project.json) |
 | The Body Monstrous | 176502 | [176502-the-body-monstrous.json](./176502-the-body-monstrous.json) |
 | The Bog's Heart | 176963 | [176963-the-bogs-heart.json](./176963-the-bogs-heart.json) |
 | The Boggy Region | 260940 | [260940-the-boggy-region.json](./260940-the-boggy-region.json) |
@@ -7915,6 +7918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck & Camping Collection | 328466 | [328466-truck-and-camping-collection.json](./328466-truck-and-camping-collection.json) |
 | Truck & Logistics Simulator | 129757 | [129757-truck-and-logistics-simulator.json](./129757-truck-and-logistics-simulator.json) |
 | Truck Dismount | 19284 | [19284-truck-dismount.json](./19284-truck-dismount.json) |
+| Truck Driver Go | 320383 | [320383-truck-driver-go.json](./320383-truck-driver-go.json) |
 | Truck Driver: French Paint Jobs | 241067 | [241067-truck-driver-french-paint-jobs.json](./241067-truck-driver-french-paint-jobs.json) |
 | Truck Driver: German Paint Jobs | 241068 | [241068-truck-driver-german-paint-jobs.json](./241068-truck-driver-german-paint-jobs.json) |
 | Truck Driver: The American Dream - Freedom to Roam | 281428 | [281428-truck-driver-the-american-dream-freedom-to-roam.json](./281428-truck-driver-the-american-dream-freedom-to-roam.json) |
@@ -8034,6 +8038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukutte Utau: Saru Band | 230300 | [230300-tsukutte-utau-saru-band.json](./230300-tsukutte-utau-saru-band.json) |
 | Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
+| Tsunagari Chess School | 320379 | [320379-tsunagari-chess-school.json](./320379-tsunagari-chess-school.json) |
 | Tsunagaru Voiro Shooters vs. Space Kedamaki | 204732 | [204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json](./204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json) |
 | Tsunami Cruiser | 184655 | [184655-tsunami-cruiser.json](./184655-tsunami-cruiser.json) |
 | Tsunami Rider | 383939 | [383939-tsunami-rider.json](./383939-tsunami-rider.json) |
