@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Rank Hero Story | 186323 | [186323-f-rank-hero-story.json](./186323-f-rank-hero-story.json) |
 | F-Stop Museum | 362288 | [362288-f-stop-museum.json](./362288-f-stop-museum.json) |
 | F-Zero | 3490 | [3490-f-zero.json](./3490-f-zero.json) |
+| F-Zero DSX | 313346 | [313346-f-zero-dsx.json](./313346-f-zero-dsx.json) |
 | F-Zero X Climax | 135258 | [135258-f-zero-x-climax.json](./135258-f-zero-x-climax.json) |
 | F-Zero: Falcon Densetsu e+ - Big Blue: Pigeon | 329545 | [329545-f-zero-falcon-densetsu-e-big-blue-pigeon.json](./329545-f-zero-falcon-densetsu-e-big-blue-pigeon.json) |
 | F-Zero: Falcon Densetsu e+ - Great Star | 329563 | [329563-f-zero-falcon-densetsu-e-great-star.json](./329563-f-zero-falcon-densetsu-e-great-star.json) |
@@ -2581,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 2 Remix | 321386 | [321386-fortnite-chapter-2-remix.json](./321386-fortnite-chapter-2-remix.json) |
 | Fortnite: Chapter 3 - Season 2: Resistance | 194664 | [194664-fortnite-chapter-3-season-2-resistance.json](./194664-fortnite-chapter-3-season-2-resistance.json) |
 | Fortnite: Chapter 4 - Season 2: Mega | 241495 | [241495-fortnite-chapter-4-season-2-mega.json](./241495-fortnite-chapter-4-season-2-mega.json) |
+| Fortnite: Chapter 5 - Season 4: Absolute Doom | 313311 | [313311-fortnite-chapter-5-season-4-absolute-doom.json](./313311-fortnite-chapter-5-season-4-absolute-doom.json) |
 | Fortnite: Chapter 5 - Underground | 278837 | [278837-fortnite-chapter-5-underground.json](./278837-fortnite-chapter-5-underground.json) |
 | Fortnite: Chapter 6 - Season 1: Demon Hunters | 323914 | [323914-fortnite-chapter-6-season-1-demon-hunters.json](./323914-fortnite-chapter-6-season-1-demon-hunters.json) |
 | Fortnite: Chapter 7 - Season 2: Showdown | 394366 | [394366-fortnite-chapter-7-season-2-showdown.json](./394366-fortnite-chapter-7-season-2-showdown.json) |
@@ -2758,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | fragment:AM | 218146 | [218146-fragment-am.json](./218146-fragment-am.json) |
 | Fragmented | 21326 | [21326-fragmented.json](./21326-fragmented.json) |
 | Fragmented 6th | 348772 | [348772-fragmented-6th.json](./348772-fragmented-6th.json) |
+| Fragmented Almanac | 313285 | [313285-fragmented-almanac.json](./313285-fragmented-almanac.json) |
 | Fragmented City | 235756 | [235756-fragmented-city.json](./235756-fragmented-city.json) |
 | Fragmented Mind | 169477 | [169477-fragmented-mind.json](./169477-fragmented-mind.json) |
 | Fragments | 142384 | [142384-fragments.json](./142384-fragments.json) |
@@ -3023,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
+| FrogFlop | 313295 | [313295-frogflop.json](./313295-frogflop.json) |
 | Froggee | 93020 | [93020-froggee.json](./93020-froggee.json) |
 | Frogger | 218439 | [218439-frogger.json](./218439-frogger.json) |
 | Frogger | 240485 | [240485-frogger.json](./240485-frogger.json) |
