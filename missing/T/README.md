@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Ogre: The Knight of Lodis | 6635 | [6635-tactics-ogre-the-knight-of-lodis.json](./6635-tactics-ogre-the-knight-of-lodis.json) |
 | Tactics Returners | 345508 | [345508-tactics-returners.json](./345508-tactics-returners.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
+| Tactics Unlimited | 332564 | [332564-tactics-unlimited.json](./332564-tactics-unlimited.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
 | Tactile Wars | 76564 | [76564-tactile-wars.json](./76564-tactile-wars.json) |
 | Tactix | 379981 | [379981-tactix.json](./379981-tactix.json) |
@@ -569,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Tyranny | 289346 | [289346-tank-tyranny.json](./289346-tank-tyranny.json) |
 | Tank Universal: Challenger Eight | 72708 | [72708-tank-universal-challenger-eight.json](./72708-tank-universal-challenger-eight.json) |
 | Tank vs. Tank GOTY Edition | 395684 | [395684-tank-vs-tank-goty-edition.json](./395684-tank-vs-tank-goty-edition.json) |
+| Tank vs. Tank: Deluxe Edition | 332507 | [332507-tank-vs-tank-deluxe-edition.json](./332507-tank-vs-tank-deluxe-edition.json) |
 | Tank vs. Tank: Discovery Edition | 400205 | [400205-tank-vs-tank-discovery-edition.json](./400205-tank-vs-tank-discovery-edition.json) |
 | Tank War Defender 3 | 175405 | [175405-tank-war-defender-3.json](./175405-tank-war-defender-3.json) |
 | Tank War Nexus | 149080 | [149080-tank-war-nexus.json](./149080-tank-war-nexus.json) |
@@ -2692,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hardest Quiz - Impossible | 96054 | [96054-the-hardest-quiz-impossible.json](./96054-the-hardest-quiz-impossible.json) |
 | The Hardy Boys: Treasure on the Tracks | 21105 | [21105-the-hardy-boys-treasure-on-the-tracks.json](./21105-the-hardy-boys-treasure-on-the-tracks.json) |
 | The Harlem Shake vs. Gangnam Dance Game | 264355 | [264355-the-harlem-shake-vs-gangnam-dance-game.json](./264355-the-harlem-shake-vs-gangnam-dance-game.json) |
+| The Harmony Chronicles: Demon of the Void - Collector’s Edition | 332532 | [332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json](./332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json) |
 | The Harmony of Buku | 55921 | [55921-the-harmony-of-buku.json](./55921-the-harmony-of-buku.json) |
 | The Hat Man: Shadow Ward | 36355 | [36355-the-hat-man-shadow-ward.json](./36355-the-hat-man-shadow-ward.json) |
 | The Hateful Dead | 31367 | [31367-the-hateful-dead.json](./31367-the-hateful-dead.json) |
@@ -2908,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Brownie | 209644 | [209644-the-jumping-brownie.json](./209644-the-jumping-brownie.json) |
 | The Jumping Brownie: Turbo | 209645 | [209645-the-jumping-brownie-turbo.json](./209645-the-jumping-brownie-turbo.json) |
 | The Jumping Burger | 200724 | [200724-the-jumping-burger.json](./200724-the-jumping-burger.json) |
+| The Jumping Burger Climb | 332565 | [332565-the-jumping-burger-climb.json](./332565-the-jumping-burger-climb.json) |
 | The Jumping Burger: Turbo | 209146 | [209146-the-jumping-burger-turbo.json](./209146-the-jumping-burger-turbo.json) |
 | The Jumping Burrito | 208381 | [208381-the-jumping-burrito.json](./208381-the-jumping-burrito.json) |
 | The Jumping Burrito: Turbo | 208382 | [208382-the-jumping-burrito-turbo.json](./208382-the-jumping-burrito-turbo.json) |
@@ -6085,6 +6089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Home | 405478 | [405478-to-the-home.json](./405478-to-the-home.json) |
 | To the Kingdom | 352287 | [352287-to-the-kingdom.json](./352287-to-the-kingdom.json) |
 | To the Moon | 339932 | [339932-to-the-moon.json](./339932-to-the-moon.json) |
+| To the Moon: Sigmund Minisode 1 & 2 (Holiday Special) | 332533 | [332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json](./332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json) |
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
 | To the Rescue | 359443 | [359443-to-the-rescue.json](./359443-to-the-rescue.json) |
 | To the Rescue! 3 | 96038 | [96038-to-the-rescue-3.json](./96038-to-the-rescue-3.json) |
