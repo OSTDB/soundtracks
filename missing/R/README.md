@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Arcade Shop Simulator | 384086 | [384086-retro-arcade-shop-simulator.json](./384086-retro-arcade-shop-simulator.json) |
 | Retro Arcade: Space Invaders | 220106 | [220106-retro-arcade-space-invaders.json](./220106-retro-arcade-space-invaders.json) |
 | Retro Asylum | 409559 | [409559-retro-asylum.json](./409559-retro-asylum.json) |
+| Retro Battle | 306533 | [306533-retro-battle.json](./306533-retro-battle.json) |
 | Retro Classix 2-in-1 Pack: Gate of Doom & Wizard Fire | 147913 | [147913-retro-classix-2-in-1-pack-gate-of-doom-and-wizard-fire.json](./147913-retro-classix-2-in-1-pack-gate-of-doom-and-wizard-fire.json) |
 | Retro Classix 2-in-1 Pack: Heavy Barrel & Super Burger Time | 147896 | [147896-retro-classix-2-in-1-pack-heavy-barrel-and-super-burger-time.json](./147896-retro-classix-2-in-1-pack-heavy-barrel-and-super-burger-time.json) |
 | Retro Classix 2in1 pack: Bad Dudes & Two Crude Dudes | 147897 | [147897-retro-classix-2in1-pack-bad-dudes-and-two-crude-dudes.json](./147897-retro-classix-2in1-pack-bad-dudes-and-two-crude-dudes.json) |
@@ -2355,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
 | Rocket Buddies | 410356 | [410356-rocket-buddies.json](./410356-rocket-buddies.json) |
 | Rocket Bunnies | 208387 | [208387-rocket-bunnies.json](./208387-rocket-bunnies.json) |
+| Rocket Car: Ultimate Ball League Machines - Premium Edition | 306523 | [306523-rocket-car-ultimate-ball-league-machines-premium-edition.json](./306523-rocket-car-ultimate-ball-league-machines-premium-edition.json) |
 | Rocket Cars | 265427 | [265427-rocket-cars.json](./265427-rocket-cars.json) |
 | Rocket Chameleon | 58750 | [58750-rocket-chameleon.json](./58750-rocket-chameleon.json) |
 | Rocket Coaster | 82928 | [82928-rocket-coaster.json](./82928-rocket-coaster.json) |
