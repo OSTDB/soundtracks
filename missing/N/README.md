@@ -1017,10 +1017,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
 | NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
+| NHL 95 | 299309 | [299309-nhl-95.json](./299309-nhl-95.json) |
 | NHL 96 | 11650 | [11650-nhl-96.json](./11650-nhl-96.json) |
+| NHL 96 | 299310 | [299310-nhl-96.json](./299310-nhl-96.json) |
+| NHL 96 | 299311 | [299311-nhl-96.json](./299311-nhl-96.json) |
 | NHL 97 | 817 | [817-nhl-97.json](./817-nhl-97.json) |
 | NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
 | NHL Hitz 2003 | 4047 | [4047-nhl-hitz-2003.json](./4047-nhl-hitz-2003.json) |
+| NHL Hockey 2000 | 299312 | [299312-nhl-hockey-2000.json](./299312-nhl-hockey-2000.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
 | NHRA Championship Drag Racing | 18269 | [18269-nhra-championship-drag-racing.json](./18269-nhra-championship-drag-racing.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
