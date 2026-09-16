@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keatz: The Lonely Bird | 57042 | [57042-keatz-the-lonely-bird.json](./57042-keatz-the-lonely-bird.json) |
 | Kebab Chefs!: Restaurant Simulator | 156653 | [156653-kebab-chefs-restaurant-simulator.json](./156653-kebab-chefs-restaurant-simulator.json) |
 | Kebab Simulator: Taste Revolution | 336372 | [336372-kebab-simulator-taste-revolution.json](./336372-kebab-simulator-taste-revolution.json) |
+| Keep Deep Sheep | 333607 | [333607-keep-deep-sheep.json](./333607-keep-deep-sheep.json) |
 | Keep Defending | 31350 | [31350-keep-defending.json](./31350-keep-defending.json) |
 | Keep Fe Chicken | 179133 | [179133-keep-fe-chicken.json](./179133-keep-fe-chicken.json) |
 | Keep Flip | 264594 | [264594-keep-flip.json](./264594-keep-flip.json) |
@@ -447,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Key 2 | 369579 | [369579-key-2.json](./369579-key-2.json) |
 | Key Defence | 122339 | [122339-key-defence.json](./122339-key-defence.json) |
 | Key Finder | 358940 | [358940-key-finder.json](./358940-key-finder.json) |
+| Key Gunner | 333659 | [333659-key-gunner.json](./333659-key-gunner.json) |
 | Key Hunters DX | 266206 | [266206-key-hunters-dx.json](./266206-key-hunters-dx.json) |
 | Keyboard Kommander | 125418 | [125418-keyboard-kommander.json](./125418-keyboard-kommander.json) |
 | Keyboard Simulator | 360575 | [360575-keyboard-simulator.json](./360575-keyboard-simulator.json) |
@@ -1009,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klaus | 15488 | [15488-klaus.json](./15488-klaus.json) |
 | Klaus Lee: Thunderballs | 193201 | [193201-klaus-lee-thunderballs.json](./193201-klaus-lee-thunderballs.json) |
 | Klaws | 382877 | [382877-klaws.json](./382877-klaws.json) |
+| Klein v.0.1 | 333605 | [333605-klein-v-0-1.json](./333605-klein-v-0-1.json) |
 | Kleopatra | 213968 | [213968-kleopatra.json](./213968-kleopatra.json) |
 | Klepto | 297476 | [297476-klepto.json](./297476-klepto.json) |
 | Klepto Planet Attack | 176473 | [176473-klepto-planet-attack.json](./176473-klepto-planet-attack.json) |
