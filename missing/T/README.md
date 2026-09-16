@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TamaTown Tama-Go | 229958 | [229958-tamatown-tama-go.json](./229958-tamatown-tama-go.json) |
 | Tamaweb | 383530 | [383530-tamaweb.json](./383530-tamaweb.json) |
 | Tamaya | 55113 | [55113-tamaya.json](./55113-tamaya.json) |
+| Tamayoshi +Vance | 323359 | [323359-tamayoshi-vance.json](./323359-tamayoshi-vance.json) |
 | Tamayura Mirai | 240818 | [240818-tamayura-mirai.json](./240818-tamayura-mirai.json) |
 | Tambo: The Last Night | 389578 | [389578-tambo-the-last-night.json](./389578-tambo-the-last-night.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
@@ -3227,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Four Swords | 163572 | [163572-the-legend-of-zelda-four-swords.json](./163572-the-legend-of-zelda-four-swords.json) |
 | The Legend of Zelda: Fourth Quest | 150079 | [150079-the-legend-of-zelda-fourth-quest.json](./150079-the-legend-of-zelda-fourth-quest.json) |
 | The Legend of Zelda: Goddess of Wisdom | 275308 | [275308-the-legend-of-zelda-goddess-of-wisdom.json](./275308-the-legend-of-zelda-goddess-of-wisdom.json) |
+| The Legend of Zelda: Hall of the Dead | 323367 | [323367-the-legend-of-zelda-hall-of-the-dead.json](./323367-the-legend-of-zelda-hall-of-the-dead.json) |
 | The Legend of Zelda: Journey of a Day | 269848 | [269848-the-legend-of-zelda-journey-of-a-day.json](./269848-the-legend-of-zelda-journey-of-a-day.json) |
 | The Legend of Zelda: Just Beginning | 324079 | [324079-the-legend-of-zelda-just-beginning.json](./324079-the-legend-of-zelda-just-beginning.json) |
 | The Legend of Zelda: Link's Awakening | 1028 | [1028-the-legend-of-zelda-links-awakening.json](./1028-the-legend-of-zelda-links-awakening.json) |
@@ -3242,11 +3244,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Picross | 172690 | [172690-the-legend-of-zelda-picross.json](./172690-the-legend-of-zelda-picross.json) |
 | The Legend of Zelda: Sage Knight | 323756 | [323756-the-legend-of-zelda-sage-knight.json](./323756-the-legend-of-zelda-sage-knight.json) |
 | The Legend of Zelda: Skyward Sword HD Randomizer | 331139 | [331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json](./331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json) |
+| The Legend of Zelda: Specter's Oculus | 323365 | [323365-the-legend-of-zelda-specters-oculus.json](./323365-the-legend-of-zelda-specters-oculus.json) |
 | The Legend of Zelda: Spirit Tracks | 1038 | [1038-the-legend-of-zelda-spirit-tracks.json](./1038-the-legend-of-zelda-spirit-tracks.json) |
 | The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition | 338073 | [338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json](./338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json) |
 | The Legend of Zelda: Tears of the Kingdom Randomizer | 256282 | [256282-the-legend-of-zelda-tears-of-the-kingdom-randomizer.json](./256282-the-legend-of-zelda-tears-of-the-kingdom-randomizer.json) |
 | The Legend of Zelda: The Mini Quest | 275620 | [275620-the-legend-of-zelda-the-mini-quest.json](./275620-the-legend-of-zelda-the-mini-quest.json) |
 | The Legend of Zelda: The Missing Link | 136392 | [136392-the-legend-of-zelda-the-missing-link.json](./136392-the-legend-of-zelda-the-missing-link.json) |
+| The Legend of Zelda: The Shadowgazer | 323364 | [323364-the-legend-of-zelda-the-shadowgazer.json](./323364-the-legend-of-zelda-the-shadowgazer.json) |
 | The Legend of Zelda: The Wind Waker HD Randomizer | 332219 | [332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json](./332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json) |
 | The Legend of Zelda: The Wind Waker Multiplayer | 210653 | [210653-the-legend-of-zelda-the-wind-waker-multiplayer.json](./210653-the-legend-of-zelda-the-wind-waker-multiplayer.json) |
 | The Legend of Zelda: Third Quest | 150078 | [150078-the-legend-of-zelda-third-quest.json](./150078-the-legend-of-zelda-third-quest.json) |
@@ -3457,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mall Explodes! | 412999 | [412999-the-mall-explodes.json](./412999-the-mall-explodes.json) |
 | The Mammoth: A Cave Painting | 75768 | [75768-the-mammoth-a-cave-painting.json](./75768-the-mammoth-a-cave-painting.json) |
 | The Man Called Merc | 55045 | [55045-the-man-called-merc.json](./55045-the-man-called-merc.json) |
+| The Man Outside | 323396 | [323396-the-man-outside.json](./323396-the-man-outside.json) |
 | The Man Who Walked | 374051 | [374051-the-man-who-walked.json](./374051-the-man-who-walked.json) |
 | The Mandate | 61567 | [61567-the-mandate.json](./61567-the-mandate.json) |
 | The Manhole: New and Enhanced | 73310 | [73310-the-manhole-new-and-enhanced.json](./73310-the-manhole-new-and-enhanced.json) |
@@ -4310,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Space Opera "Dragon Eyes" | 125954 | [125954-the-space-opera-dragon-eyes.json](./125954-the-space-opera-dragon-eyes.json) |
 | The Spatials | 51520 | [51520-the-spatials.json](./51520-the-spatials.json) |
 | The Spatials Collection | 53775 | [53775-the-spatials-collection.json](./53775-the-spatials-collection.json) |
+| The Spearman | 323316 | [323316-the-spearman.json](./323316-the-spearman.json) |
 | The Specialists | 138772 | [138772-the-specialists.json](./138772-the-specialists.json) |
 | The Specter's Desire | 301824 | [301824-the-specters-desire.json](./301824-the-specters-desire.json) |
 | The Spectrum Retreat | 96065 | [96065-the-spectrum-retreat.json](./96065-the-spectrum-retreat.json) |
@@ -4691,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Twelve Slot Saloon | 311782 | [311782-the-twelve-slot-saloon.json](./311782-the-twelve-slot-saloon.json) |
 | The Twenty One | 210894 | [210894-the-twenty-one.json](./210894-the-twenty-one.json) |
 | The Twilight Zone | 12804 | [12804-the-twilight-zone.json](./12804-the-twilight-zone.json) |
+| The Twisted Dream | 323354 | [323354-the-twisted-dream.json](./323354-the-twisted-dream.json) |
 | The Twisting Trail of Clues | 295524 | [295524-the-twisting-trail-of-clues.json](./295524-the-twisting-trail-of-clues.json) |
 | The Two Body Problem | 411725 | [411725-the-two-body-problem.json](./411725-the-two-body-problem.json) |
 | The Two of Us | 185944 | [185944-the-two-of-us.json](./185944-the-two-of-us.json) |
