@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Plague | 109712 | [109712-forest-plague.json](./109712-forest-plague.json) |
 | Forest Pop | 218724 | [218724-forest-pop.json](./218724-forest-pop.json) |
 | Forest Ranger Services: Episode 1 | 340232 | [340232-forest-ranger-services-episode-1.json](./340232-forest-ranger-services-episode-1.json) |
+| Forest Reigns | 328032 | [328032-forest-reigns.json](./328032-forest-reigns.json) |
 | Forest Restoration | 361744 | [361744-forest-restoration.json](./361744-forest-restoration.json) |
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
 | Forest Survival | 381032 | [381032-forest-survival.json](./381032-forest-survival.json) |
