@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel Deluxe | 63897 | [63897-babel-deluxe.json](./63897-babel-deluxe.json) |
 | Babelomania | 318390 | [318390-babelomania.json](./318390-babelomania.json) |
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
+| Babies vs. Monsters | 304174 | [304174-babies-vs-monsters.json](./304174-babies-vs-monsters.json) |
 | Babka | 343254 | [343254-babka.json](./343254-babka.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
 | Baby Arms | 246432 | [246432-baby-arms.json](./246432-baby-arms.json) |
@@ -2887,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodRealm: War of Gods | 341055 | [341055-bloodrealm-war-of-gods.json](./341055-bloodrealm-war-of-gods.json) |
 | Bloodreaper | 308959 | [308959-bloodreaper.json](./308959-bloodreaper.json) |
 | Bloodroot | 296107 | [296107-bloodroot.json](./296107-bloodroot.json) |
+| Bloodrun | 304196 | [304196-bloodrun.json](./304196-bloodrun.json) |
 | BloodRush: Undying Wish | 255389 | [255389-bloodrush-undying-wish.json](./255389-bloodrush-undying-wish.json) |
 | Bloodscript//End | 409653 | [409653-bloodscript-end.json](./409653-bloodscript-end.json) |
 | Bloodshot | 398969 | [398969-bloodshot.json](./398969-bloodshot.json) |
@@ -3045,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob | 27700 | [27700-bob.json](./27700-bob.json) |
 | Bob & Bernard Against the Nazis | 120361 | [120361-bob-and-bernard-against-the-nazis.json](./120361-bob-and-bernard-against-the-nazis.json) |
 | Bob & Dob | 177570 | [177570-bob-and-dob.json](./177570-bob-and-dob.json) |
+| Bob and the Alien Fire Flies | 304224 | [304224-bob-and-the-alien-fire-flies.json](./304224-bob-and-the-alien-fire-flies.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
 | Bob Invasion | 294693 | [294693-bob-invasion.json](./294693-bob-invasion.json) |
 | Bob Morane: Chevalerie 1 | 55094 | [55094-bob-morane-chevalerie-1.json](./55094-bob-morane-chevalerie-1.json) |
