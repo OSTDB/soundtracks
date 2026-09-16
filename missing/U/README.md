@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Blackout | 34425 | [34425-undead-blackout.json](./34425-undead-blackout.json) |
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
+| Undead Kingdom Survivors | 303063 | [303063-undead-kingdom-survivors.json](./303063-undead-kingdom-survivors.json) |
 | Undead Knights | 23358 | [23358-undead-knights.json](./23358-undead-knights.json) |
 | Undead Mayhem | 277614 | [277614-undead-mayhem.json](./277614-undead-mayhem.json) |
 | Undead Pixels | 163365 | [163365-undead-pixels.json](./163365-undead-pixels.json) |
@@ -412,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Moon: Tsukiiro Ehon | 72682 | [72682-under-the-moon-tsukiiro-ehon.json](./72682-under-the-moon-tsukiiro-ehon.json) |
 | Under the Sand | 117364 | [117364-under-the-sand.json](./117364-under-the-sand.json) |
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
+| Under the Thorns | 304723 | [304723-under-the-thorns.json](./304723-under-the-thorns.json) |
 | Under the Witch: Beginnings | 267365 | [267365-under-the-witch-beginnings.json](./267365-under-the-witch-beginnings.json) |
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
 | Under Tower Idle | 405585 | [405585-under-tower-idle.json](./405585-under-tower-idle.json) |
@@ -608,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe Size Comparison VR | 295281 | [295281-universe-size-comparison-vr.json](./295281-universe-size-comparison-vr.json) |
 | Universe Survivors | 236279 | [236279-universe-survivors.json](./236279-universe-survivors.json) |
 | Universe: Unknown | 73224 | [73224-universe-unknown.json](./73224-universe-unknown.json) |
+| University Days: Season 1 | 303060 | [303060-university-days-season-1.json](./303060-university-days-season-1.json) |
 | University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
 | Univocity | 339916 | [339916-univocity.json](./339916-univocity.json) |
 | Unkillable Robots | 306342 | [306342-unkillable-robots.json](./306342-unkillable-robots.json) |
@@ -711,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsolved Case: Killer Popularity DLC | 289325 | [289325-unsolved-case-killer-popularity-dlc.json](./289325-unsolved-case-killer-popularity-dlc.json) |
 | Unsolved Case: The Scarlet Hyacinth - Collector's Edition | 256273 | [256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json](./256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json) |
 | Unsolved Case: The Scarlet Hyacinth - DLC | 256274 | [256274-unsolved-case-the-scarlet-hyacinth-dlc.json](./256274-unsolved-case-the-scarlet-hyacinth-dlc.json) |
+| Unsought | 303073 | [303073-unsought.json](./303073-unsought.json) |
 | Unsouled | 124772 | [124772-unsouled.json](./124772-unsouled.json) |
 | Unstable | 191248 | [191248-unstable.json](./191248-unstable.json) |
 | Unstable | 28858 | [28858-unstable.json](./28858-unstable.json) |
