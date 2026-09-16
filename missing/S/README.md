@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Save the World | 140878 | [140878-sam-and-max-save-the-world.json](./140878-sam-and-max-save-the-world.json) |
 | Sam & Max: Save the World | 862 | [862-sam-and-max-save-the-world.json](./862-sam-and-max-save-the-world.json) |
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
+| Samabake! Scramble | 318056 | [318056-samabake-scramble.json](./318056-samabake-scramble.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
 | Samantha Wins | 128561 | [128561-samantha-wins.json](./128561-samantha-wins.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
@@ -5444,6 +5445,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound Hearts | 286013 | [286013-spellbound-hearts.json](./286013-spellbound-hearts.json) |
 | Spellbound Schoolgirls! | 206950 | [206950-spellbound-schoolgirls.json](./206950-spellbound-schoolgirls.json) |
 | Spellbound Spire | 142428 | [142428-spellbound-spire.json](./142428-spellbound-spire.json) |
+| Spellbound! | 318020 | [318020-spellbound.json](./318020-spellbound.json) |
+| Spellbound! | 318021 | [318021-spellbound.json](./318021-spellbound.json) |
 | Spellbreak: Chapter 3 - The Wardens | 182495 | [182495-spellbreak-chapter-3-the-wardens.json](./182495-spellbreak-chapter-3-the-wardens.json) |
 | Spellbrew Express | 296361 | [296361-spellbrew-express.json](./296361-spellbrew-express.json) |
 | Spellcaster University | 111086 | [111086-spellcaster-university.json](./111086-spellcaster-university.json) |
@@ -5748,6 +5751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spoons Card Game | 102740 | [102740-spoons-card-game.json](./102740-spoons-card-game.json) |
 | Spoons III | 70369 | [70369-spoons-iii.json](./70369-spoons-iii.json) |
 | Spooples | 249806 | [249806-spooples.json](./249806-spooples.json) |
+| Spoopy Maryo | 318040 | [318040-spoopy-maryo.json](./318040-spoopy-maryo.json) |
 | Sporcle | 86844 | [86844-sporcle.json](./86844-sporcle.json) |
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
 | Spore Collection | 51900 | [51900-spore-collection.json](./51900-spore-collection.json) |
@@ -6927,6 +6931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stopping Santa | 335240 | [335240-stopping-santa.json](./335240-stopping-santa.json) |
 | StopSign | 167253 | [167253-stopsign.json](./167253-stopsign.json) |
 | Storage Anomaly | 325821 | [325821-storage-anomaly.json](./325821-storage-anomaly.json) |
+| Storage Guys | 318046 | [318046-storage-guys.json](./318046-storage-guys.json) |
 | Storage Master | 212483 | [212483-storage-master.json](./212483-storage-master.json) |
 | Storage Warfare | 303220 | [303220-storage-warfare.json](./303220-storage-warfare.json) |
 | Store It! | 355035 | [355035-store-it.json](./355035-store-it.json) |
@@ -8188,6 +8193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Kart: Double Dash Reverse Remake | 198453 | [198453-super-mario-kart-double-dash-reverse-remake.json](./198453-super-mario-kart-double-dash-reverse-remake.json) |
 | Super Mario Kart: F1 Tracks | 198446 | [198446-super-mario-kart-f1-tracks.json](./198446-super-mario-kart-f1-tracks.json) |
 | Super Mario Kart: Super Circuit Demake | 198458 | [198458-super-mario-kart-super-circuit-demake.json](./198458-super-mario-kart-super-circuit-demake.json) |
+| Super Mario Kingdom | 318036 | [318036-super-mario-kingdom.json](./318036-super-mario-kingdom.json) |
 | Super Mario Land Hack 2017: Tatanga's Revenge | 338813 | [338813-super-mario-land-hack-2017-tatangas-revenge.json](./338813-super-mario-land-hack-2017-tatangas-revenge.json) |
 | Super Mario Legend | 323751 | [323751-super-mario-legend.json](./323751-super-mario-legend.json) |
 | Super Mario Maker for Nintendo 3DS | 26157 | [26157-super-mario-maker-for-nintendo-3ds.json](./26157-super-mario-maker-for-nintendo-3ds.json) |
@@ -8228,13 +8234,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: Tsunami Island | 215149 | [215149-super-mario-world-tsunami-island.json](./215149-super-mario-world-tsunami-island.json) |
 | Super Mario World: VIP and Wall Mix 4 | 338804 | [338804-super-mario-world-vip-and-wall-mix-4.json](./338804-super-mario-world-vip-and-wall-mix-4.json) |
 | Super Mario Worldle | 408138 | [408138-super-mario-worldle.json](./408138-super-mario-worldle.json) |
+| Super Mario X | 318024 | [318024-super-mario-x.json](./318024-super-mario-x.json) |
 | Super Mario XP: Super Mario Land | 324082 | [324082-super-mario-xp-super-mario-land.json](./324082-super-mario-xp-super-mario-land.json) |
 | Super Mario: Blue Twilight | 330332 | [330332-super-mario-blue-twilight.json](./330332-super-mario-blue-twilight.json) |
 | Super Mario: Endless Earth | 135177 | [135177-super-mario-endless-earth.json](./135177-super-mario-endless-earth.json) |
 | Super Mario: Magnum Opus | 250041 | [250041-super-mario-magnum-opus.json](./250041-super-mario-magnum-opus.json) |
+| Super Mario: Red Scare 2 | 318038 | [318038-super-mario-red-scare-2.json](./318038-super-mario-red-scare-2.json) |
 | Super Mario: The Cursed Forest | 275565 | [275565-super-mario-the-cursed-forest.json](./275565-super-mario-the-cursed-forest.json) |
 | Super Mario: The Lost Dreams | 135168 | [135168-super-mario-the-lost-dreams.json](./135168-super-mario-the-lost-dreams.json) |
 | Super Mario: The New Beginning Revival | 339245 | [339245-super-mario-the-new-beginning-revival.json](./339245-super-mario-the-new-beginning-revival.json) |
+| Super Mario: The Project | 318027 | [318027-super-mario-the-project.json](./318027-super-mario-the-project.json) |
 | Super Mario: The Star Kingdom | 324112 | [324112-super-mario-the-star-kingdom.json](./324112-super-mario-the-star-kingdom.json) |
 | Super Mario: The Stellar Star Quest | 323356 | [323356-super-mario-the-stellar-star-quest.json](./323356-super-mario-the-stellar-star-quest.json) |
 | Super Mario: The Trip | 277045 | [277045-super-mario-the-trip.json](./277045-super-mario-the-trip.json) |
@@ -8261,6 +8270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid CRE 3 | 255371 | [255371-super-metroid-cre-3.json](./255371-super-metroid-cre-3.json) |
 | Super Metroid Eleven | 324514 | [324514-super-metroid-eleven.json](./324514-super-metroid-eleven.json) |
 | Super Metroid: Airy | 255322 | [255322-super-metroid-airy.json](./255322-super-metroid-airy.json) |
+| Super Metroid: Battle | 318017 | [318017-super-metroid-battle.json](./318017-super-metroid-battle.json) |
 | Super Metroid: Darkholme Hospital | 213039 | [213039-super-metroid-darkholme-hospital.json](./213039-super-metroid-darkholme-hospital.json) |
 | Super Metroid: Digital Cube | 255369 | [255369-super-metroid-digital-cube.json](./255369-super-metroid-digital-cube.json) |
 | Super Metroid: Fear | 255370 | [255370-super-metroid-fear.json](./255370-super-metroid-fear.json) |
@@ -8467,6 +8477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Solvers: Gizmos & Gadgets! | 46647 | [46647-super-solvers-gizmos-and-gadgets.json](./46647-super-solvers-gizmos-and-gadgets.json) |
 | Super Solvers: Midnight Rescue! | 46646 | [46646-super-solvers-midnight-rescue.json](./46646-super-solvers-midnight-rescue.json) |
 | Super Solvers: Treasure Mountain! | 70340 | [70340-super-solvers-treasure-mountain.json](./70340-super-solvers-treasure-mountain.json) |
+| Super Sonic Bros. | 318026 | [318026-super-sonic-bros.json](./318026-super-sonic-bros.json) |
 | Super Sonic Cooking | 336357 | [336357-super-sonic-cooking.json](./336357-super-sonic-cooking.json) |
 | Super Sonic in Sonic 3D | 198546 | [198546-super-sonic-in-sonic-3d.json](./198546-super-sonic-in-sonic-3d.json) |
 | Super Sonic in Sonic the Hedgehog | 198527 | [198527-super-sonic-in-sonic-the-hedgehog.json](./198527-super-sonic-in-sonic-the-hedgehog.json) |
