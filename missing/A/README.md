@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Defense 3 | 327421 | [327421-age-of-defense-3.json](./327421-age-of-defense-3.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
 | Age of Empires II Mobile | 144346 | [144346-age-of-empires-ii-mobile.json](./144346-age-of-empires-ii-mobile.json) |
+| Age of Empires II: Definitive Edition - Chronicles: Battle for Greece | 323348 | [323348-age-of-empires-ii-definitive-edition-chronicles-battle-for-greece.json](./323348-age-of-empires-ii-definitive-edition-chronicles-battle-for-greece.json) |
 | Age of Empires II: Definitive Edition - Dynasties of India | 197890 | [197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json](./197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json) |
 | Age of Empires II: HD Edition - The Forgotten | 9951 | [9951-age-of-empires-ii-hd-edition-the-forgotten.json](./9951-age-of-empires-ii-hd-edition-the-forgotten.json) |
 | Age of Empires III Mobile | 144347 | [144347-age-of-empires-iii-mobile.json](./144347-age-of-empires-iii-mobile.json) |
