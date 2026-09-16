@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculplings | 349407 | [349407-sculplings.json](./349407-sculplings.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
 | Sculpt People: Creative Edition | 308789 | [308789-sculpt-people-creative-edition.json](./308789-sculpt-people-creative-edition.json) |
+| Scum: Vehicle Skins Pack | 288905 | [288905-scum-vehicle-skins-pack.json](./288905-scum-vehicle-skins-pack.json) |
 | Scumball | 45361 | [45361-scumball.json](./45361-scumball.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
 | Scythe Shepard | 276717 | [276717-scythe-shepard.json](./276717-scythe-shepard.json) |
@@ -1262,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seduce, Breed, Conquer | 376448 | [376448-seduce-breed-conquer.json](./376448-seduce-breed-conquer.json) |
 | Seduced in the Sleepless City | 220877 | [220877-seduced-in-the-sleepless-city.json](./220877-seduced-in-the-sleepless-city.json) |
 | Seduction | 172708 | [172708-seduction.json](./172708-seduction.json) |
+| Seductive Shadows | 288916 | [288916-seductive-shadows.json](./288916-seductive-shadows.json) |
 | Seductive Solitude | 225080 | [225080-seductive-solitude.json](./225080-seductive-solitude.json) |
 | See | 141815 | [141815-see.json](./141815-see.json) |
 | See Me | 97903 | [97903-see-me.json](./97903-see-me.json) |
@@ -1625,6 +1627,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
 | Sex Inspector | 311144 | [311144-sex-inspector.json](./311144-sex-inspector.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
+| Sex Monsters for Sex Motel | 288886 | [288886-sex-monsters-for-sex-motel.json](./288886-sex-monsters-for-sex-motel.json) |
+| Sex Motel | 288885 | [288885-sex-motel.json](./288885-sex-motel.json) |
 | Sex Office Story | 171580 | [171580-sex-office-story.json](./171580-sex-office-story.json) |
 | Sex Play: BDSM | 263760 | [263760-sex-play-bdsm.json](./263760-sex-play-bdsm.json) |
 | Sex Play: The Sauna | 264636 | [264636-sex-play-the-sauna.json](./264636-sex-play-the-sauna.json) |
@@ -1639,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: Office Affairs | 385043 | [385043-sex-simulator-office-affairs.json](./385043-sex-simulator-office-affairs.json) |
 | Sex Simulator: Office Promotion | 266493 | [266493-sex-simulator-office-promotion.json](./266493-sex-simulator-office-promotion.json) |
 | Sex Simulator: Pool Party | 385045 | [385045-sex-simulator-pool-party.json](./385045-sex-simulator-pool-party.json) |
+| Sex Simulator: Roman Emperor | 288897 | [288897-sex-simulator-roman-emperor.json](./288897-sex-simulator-roman-emperor.json) |
 | Sex Story: Cuckold Life - Episode 4 | 263762 | [263762-sex-story-cuckold-life-episode-4.json](./263762-sex-story-cuckold-life-episode-4.json) |
 | Sex Story: Cuckold Life - Episode 5 | 264635 | [264635-sex-story-cuckold-life-episode-5.json](./264635-sex-story-cuckold-life-episode-5.json) |
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
@@ -1661,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Beach 3 Plus | 22463 | [22463-sexy-beach-3-plus.json](./22463-sexy-beach-3-plus.json) |
 | Sexy Beach Zero | 22423 | [22423-sexy-beach-zero.json](./22423-sexy-beach-zero.json) |
 | Sexy Blonde | 370759 | [370759-sexy-blonde.json](./370759-sexy-blonde.json) |
+| Sexy Boys for Sex Motel | 288892 | [288892-sexy-boys-for-sex-motel.json](./288892-sexy-boys-for-sex-motel.json) |
 | Sexy Comedy: It Was a Mistake | 110529 | [110529-sexy-comedy-it-was-a-mistake.json](./110529-sexy-comedy-it-was-a-mistake.json) |
 | Sexy Elf | 226199 | [226199-sexy-elf.json](./226199-sexy-elf.json) |
 | Sexy Erotic Xtreme Club | 362363 | [362363-sexy-erotic-xtreme-club.json](./362363-sexy-erotic-xtreme-club.json) |
@@ -8010,6 +8016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
 | Super Baseball | 81283 | [81283-super-baseball.json](./81283-super-baseball.json) |
 | Super Battle Golf: Attack on City | 410350 | [410350-super-battle-golf-attack-on-city.json](./410350-super-battle-golf-attack-on-city.json) |
+| Super Battle Polycars | 288874 | [288874-super-battle-polycars.json](./288874-super-battle-polycars.json) |
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
 | Super Beach Bros. Wii | 394336 | [394336-super-beach-bros-wii.json](./394336-super-beach-bros-wii.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
