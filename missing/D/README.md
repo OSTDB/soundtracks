@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathsmiles Mega Black Label | 79852 | [79852-deathsmiles-mega-black-label.json](./79852-deathsmiles-mega-black-label.json) |
 | Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
+| Debasing Grounds | 286682 | [286682-debasing-grounds.json](./286682-debasing-grounds.json) |
 | Debbie's Diner Derby | 394889 | [394889-debbies-diner-derby.json](./394889-debbies-diner-derby.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
 | Debris | 150097 | [150097-debris.json](./150097-debris.json) |
@@ -2045,6 +2046,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Digger Saga | 391081 | [391081-diamond-digger-saga.json](./391081-diamond-digger-saga.json) |
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
 | Diamond Giza | 157193 | [157193-diamond-giza.json](./157193-diamond-giza.json) |
+| Diamond Hollow | 286649 | [286649-diamond-hollow.json](./286649-diamond-hollow.json) |
+| Diamond Hollow II | 286650 | [286650-diamond-hollow-ii.json](./286650-diamond-hollow-ii.json) |
 | Diamond Joyce and the Secrets of Crystal Cave | 31960 | [31960-diamond-joyce-and-the-secrets-of-crystal-cave.json](./31960-diamond-joyce-and-the-secrets-of-crystal-cave.json) |
 | Diamond Lady | 81359 | [81359-diamond-lady.json](./81359-diamond-lady.json) |
 | Diamond Mind Baseball 8.0 | 94249 | [94249-diamond-mind-baseball-8-0.json](./94249-diamond-mind-baseball-8-0.json) |
@@ -3984,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
 | DreamPusher | 368047 | [368047-dreampusher.json](./368047-dreampusher.json) |
 | Dreamrealm's Tower of Despair | 353379 | [353379-dreamrealms-tower-of-despair.json](./353379-dreamrealms-tower-of-despair.json) |
+| Dreams | 286686 | [286686-dreams.json](./286686-dreams.json) |
 | Dreams and Nightmares | 146277 | [146277-dreams-and-nightmares.json](./146277-dreams-and-nightmares.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
 | Dreams of Joy Departed | 317581 | [317581-dreams-of-joy-departed.json](./317581-dreams-of-joy-departed.json) |
