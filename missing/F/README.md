@@ -1263,6 +1263,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy X/X-2 Ultimate Box | 301388 | [301388-final-fantasy-x-x-2-ultimate-box.json](./301388-final-fantasy-x-x-2-ultimate-box.json) |
 | Final Fantasy XI Online | 411 | [411-final-fantasy-xi-online.json](./411-final-fantasy-xi-online.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
+| Final Fantasy XIV Online: Complete Edition | 293775 | [293775-final-fantasy-xiv-online-complete-edition.json](./293775-final-fantasy-xiv-online-complete-edition.json) |
+| Final Fantasy XIV Online: Starter Edition | 293777 | [293777-final-fantasy-xiv-online-starter-edition.json](./293777-final-fantasy-xiv-online-starter-edition.json) |
 | Final Fantasy XIV: A Realm Reborn - Collector's Edition | 41839 | [41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json](./41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
@@ -1456,6 +1458,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: The Lonely Mirror | 273926 | [273926-fire-emblem-the-lonely-mirror.json](./273926-fire-emblem-the-lonely-mirror.json) |
 | Fire Emblem: Thracia 776 | 1437 | [1437-fire-emblem-thracia-776.json](./1437-fire-emblem-thracia-776.json) |
 | Fire Emblem: Three Houses - Cindered Shadows | 132224 | [132224-fire-emblem-three-houses-cindered-shadows.json](./132224-fire-emblem-three-houses-cindered-shadows.json) |
+| Fire Emblem: Three Houses - Expansion Pass | 293729 | [293729-fire-emblem-three-houses-expansion-pass.json](./293729-fire-emblem-three-houses-expansion-pass.json) |
+| Fire Emblem: Three Houses + Expansion Pass | 293730 | [293730-fire-emblem-three-houses-expansion-pass.json](./293730-fire-emblem-three-houses-expansion-pass.json) |
 | Fire Emblem: Vision Quest | 141237 | [141237-fire-emblem-vision-quest.json](./141237-fire-emblem-vision-quest.json) |
 | Fire Embrace: Erabareshi Chigyuu no Ken | 163923 | [163923-fire-embrace-erabareshi-chigyuu-no-ken.json](./163923-fire-embrace-erabareshi-chigyuu-no-ken.json) |
 | Fire Entrance | 374086 | [374086-fire-entrance.json](./374086-fire-entrance.json) |
@@ -1504,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighters: The Simulation | 32042 | [32042-firefighters-the-simulation.json](./32042-firefighters-the-simulation.json) |
 | Firefighting Rescue Simulator | 359988 | [359988-firefighting-rescue-simulator.json](./359988-firefighting-rescue-simulator.json) |
 | Firefighting Simulator: Ignite | 335254 | [335254-firefighting-simulator-ignite.json](./335254-firefighting-simulator-ignite.json) |
+| Firefleet | 293743 | [293743-firefleet.json](./293743-firefleet.json) |
 | Fireflies | 108671 | [108671-fireflies.json](./108671-fireflies.json) |
 | Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
 | FireFly | 381018 | [381018-firefly.json](./381018-firefly.json) |
@@ -2798,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fracas | 25691 | [25691-fracas.json](./25691-fracas.json) |
 | Fractal | 381036 | [381036-fractal.json](./381036-fractal.json) |
 | Fractal Glide | 263503 | [263503-fractal-glide.json](./263503-fractal-glide.json) |
+| Fractal Sailor | 293745 | [293745-fractal-sailor.json](./293745-fractal-sailor.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
 | Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
 | Fractium | 217512 | [217512-fractium.json](./217512-fractium.json) |
@@ -2965,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeze the Time | 187429 | [187429-freeze-the-time.json](./187429-freeze-the-time.json) |
 | Freeze: The Escape | 79902 | [79902-freeze-the-escape.json](./79902-freeze-the-escape.json) |
 | Freezeer | 103630 | [103630-freezeer.json](./103630-freezeer.json) |
+| Freezing Knights | 293750 | [293750-freezing-knights.json](./293750-freezing-knights.json) |
 | Fregocles y la Desinfección del Olimpo | 322551 | [322551-fregocles-y-la-desinfeccion-del-olimpo.json](./322551-fregocles-y-la-desinfeccion-del-olimpo.json) |
 | Freight Manager | 365742 | [365742-freight-manager.json](./365742-freight-manager.json) |
 | FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
