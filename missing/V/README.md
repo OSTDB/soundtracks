@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Age: Odin’s Warrior | 103414 | [103414-viking-age-odin-s-warrior.json](./103414-viking-age-odin-s-warrior.json) |
 | Viking Breaker | 346586 | [346586-viking-breaker.json](./346586-viking-breaker.json) |
 | Viking Brothers 2 | 53872 | [53872-viking-brothers-2.json](./53872-viking-brothers-2.json) |
+| Viking City Tycoon | 317441 | [317441-viking-city-tycoon.json](./317441-viking-city-tycoon.json) |
 | Viking Colony Builder Valhalla | 322979 | [322979-viking-colony-builder-valhalla.json](./322979-viking-colony-builder-valhalla.json) |
 | Viking Dodge | 7837 | [7837-viking-dodge.json](./7837-viking-dodge.json) |
 | Viking Farm | 396909 | [396909-viking-farm.json](./396909-viking-farm.json) |
@@ -605,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vindilis | 373088 | [373088-vindilis.json](./373088-vindilis.json) |
 | Vine | 128625 | [128625-vine.json](./128625-vine.json) |
 | Vine Realms | 135907 | [135907-vine-realms.json](./135907-vine-realms.json) |
+| Vine Time | 317424 | [317424-vine-time.json](./317424-vine-time.json) |
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
 | Vinegar Mutter | 386237 | [386237-vinegar-mutter.json](./386237-vinegar-mutter.json) |
 | Vinni Pukh i vse, vse, vse | 325045 | [325045-vinni-pukh-i-vse-vse-vse.json](./325045-vinni-pukh-i-vse-vse-vse.json) |
