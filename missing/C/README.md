@@ -2361,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
 | Clash of Vikings | 382912 | [382912-clash-of-vikings.json](./382912-clash-of-vikings.json) |
 | Clash of Warriors: 9 Legends | 56428 | [56428-clash-of-warriors-9-legends.json](./56428-clash-of-warriors-9-legends.json) |
+| Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
 | Classic Arcades: Pong | 353953 | [353953-classic-arcades-pong.json](./353953-classic-arcades-pong.json) |
 | Classic Basic Games | 86021 | [86021-classic-basic-games.json](./86021-classic-basic-games.json) |
 | Classic Card Games | 85539 | [85539-classic-card-games.json](./85539-classic-card-games.json) |
@@ -4512,6 +4513,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of the Undead | 24862 | [24862-crypt-of-the-undead.json](./24862-crypt-of-the-undead.json) |
 | Crypt Raider | 263476 | [263476-crypt-raider.json](./263476-crypt-raider.json) |
 | Crypt Stalker: Extended Edition | 308796 | [308796-crypt-stalker-extended-edition.json](./308796-crypt-stalker-extended-edition.json) |
+| Crypt Stalker: Happy Edition | 306521 | [306521-crypt-stalker-happy-edition.json](./306521-crypt-stalker-happy-edition.json) |
+| Crypt Stalker: Ultimate Edition | 306522 | [306522-crypt-stalker-ultimate-edition.json](./306522-crypt-stalker-ultimate-edition.json) |
 | Crypt Underworld | 109072 | [109072-crypt-underworld.json](./109072-crypt-underworld.json) |
 | Cryptic | 122425 | [122425-cryptic.json](./122425-cryptic.json) |
 | Cryptic Castle | 146854 | [146854-cryptic-castle.json](./146854-cryptic-castle.json) |
@@ -4578,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Towers 2 XL | 46642 | [46642-crystal-towers-2-xl.json](./46642-crystal-towers-2-xl.json) |
 | Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
 | Crystal Warriors | 11648 | [11648-crystal-warriors.json](./11648-crystal-warriors.json) |
+| Crystal Wish: Bits Collection | 306502 | [306502-crystal-wish-bits-collection.json](./306502-crystal-wish-bits-collection.json) |
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
 | Crystalborne: Heroes of Fate | 123036 | [123036-crystalborne-heroes-of-fate.json](./123036-crystalborne-heroes-of-fate.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
@@ -5073,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
 | Cynthia: Hidden in the Moonshadow - Complete Edition | 283152 | [283152-cynthia-hidden-in-the-moonshadow-complete-edition.json](./283152-cynthia-hidden-in-the-moonshadow-complete-edition.json) |
+| Cynthia: Hidden in the Moonshadow - Special Edition | 306491 | [306491-cynthia-hidden-in-the-moonshadow-special-edition.json](./306491-cynthia-hidden-in-the-moonshadow-special-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Summer Edition | 317261 | [317261-cynthia-hidden-in-the-moonshadow-summer-edition.json](./317261-cynthia-hidden-in-the-moonshadow-summer-edition.json) |
 | Cyoube | 302346 | [302346-cyoube.json](./302346-cyoube.json) |
 | Cypest Underground | 111734 | [111734-cypest-underground.json](./111734-cypest-underground.json) |
