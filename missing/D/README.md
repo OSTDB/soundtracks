@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating Sim! Luna's Lovely Summer | 329171 | [329171-dating-sim-lunas-lovely-summer.json](./329171-dating-sim-lunas-lovely-summer.json) |
 | Dating Sim! Re:Mastered | 329170 | [329170-dating-sim-re-mastered.json](./329170-dating-sim-re-mastered.json) |
 | Dating Simulator | 162431 | [162431-dating-simulator.json](./162431-dating-simulator.json) |
+| Dating Simulator 2025 | 288921 | [288921-dating-simulator-2025.json](./288921-dating-simulator-2025.json) |
 | Dating Under the Comet | 345595 | [345595-dating-under-the-comet.json](./345595-dating-under-the-comet.json) |
 | Dato of Srivijaya | 156679 | [156679-dato-of-srivijaya.json](./156679-dato-of-srivijaya.json) |
 | Datswer | 35820 | [35820-datswer.json](./35820-datswer.json) |
@@ -3384,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsu no Mori+ Card-e: Series 1 | 356635 | [356635-doubutsu-no-mori-card-e-series-1.json](./356635-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori+: Super Mario Bros | 360585 | [360585-doubutsu-no-mori-super-mario-bros.json](./360585-doubutsu-no-mori-super-mario-bros.json) |
 | Douche Bag | 51735 | [51735-douche-bag.json](./51735-douche-bag.json) |
+| DoudingMan: Expansion Packs | 288899 | [288899-doudingman-expansion-packs.json](./288899-doudingman-expansion-packs.json) |
 | Douga de Kiku Ano Kyoku no Rhythm Game | 301980 | [301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json](./301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json) |
 | Doughbee | 258727 | [258727-doughbee.json](./258727-doughbee.json) |
 | Doughlings Bundle | 196810 | [196810-doughlings-bundle.json](./196810-doughlings-bundle.json) |
