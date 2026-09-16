@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T14:49:19.727Z",
-  "total_missing": 78337,
+  "generated_at": "2026-09-16T14:51:37.355Z",
+  "total_missing": 78336,
   "games": [
     {
       "igdb_id": 306086,
@@ -6091,11 +6091,6 @@
       "igdb_id": 225635,
       "game_name": "Agent Lovesdick",
       "file": "missing/A/225635-agent-lovesdick.json"
-    },
-    {
-      "igdb_id": 357801,
-      "game_name": "Agent Panda",
-      "file": "missing/A/357801-agent-panda.json"
     },
     {
       "igdb_id": 232449,
