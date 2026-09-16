@@ -1284,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages Virtua Racing | 110062 | [110062-sega-ages-virtua-racing.json](./110062-sega-ages-virtua-racing.json) |
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
+| Sega Flipper | 308409 | [308409-sega-flipper.json](./308409-sega-flipper.json) |
 | Sega Genesis Classic Collection: Gold Edition | 51261 | [51261-sega-genesis-classic-collection-gold-edition.json](./51261-sega-genesis-classic-collection-gold-edition.json) |
 | Sega GT | 28838 | [28838-sega-gt.json](./28838-sega-gt.json) |
 | Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
@@ -1678,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
 | Shadow Council: The Puppeteers | 102949 | [102949-shadow-council-the-puppeteers.json](./102949-shadow-council-the-puppeteers.json) |
+| Shadow Dancer | 308420 | [308420-shadow-dancer.json](./308420-shadow-dancer.json) |
 | Shadow Dream | 330306 | [330306-shadow-dream.json](./330306-shadow-dream.json) |
 | Shadow Dwellers: Deliverance | 391729 | [391729-shadow-dwellers-deliverance.json](./391729-shadow-dwellers-deliverance.json) |
 | Shadow Eclipse | 166766 | [166766-shadow-eclipse.json](./166766-shadow-eclipse.json) |
@@ -2042,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell Out | 328047 | [328047-shell-out.json](./328047-shell-out.json) |
 | Shell Shatter | 243969 | [243969-shell-shatter.json](./243969-shell-shatter.json) |
 | Shell_Break | 112951 | [112951-shell-break.json](./112951-shell-break.json) |
+| Shell's Kitchen: Nico's Journey | 308378 | [308378-shells-kitchen-nicos-journey.json](./308378-shells-kitchen-nicos-journey.json) |
 | Shellax | 328266 | [328266-shellax.json](./328266-shellax.json) |
 | ShellBlast | 54391 | [54391-shellblast.json](./54391-shellblast.json) |
 | Shelldiver | 356430 | [356430-shelldiver.json](./356430-shelldiver.json) |
@@ -2715,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Creek Falls: Chapter 3 | 33534 | [33534-silver-creek-falls-chapter-3.json](./33534-silver-creek-falls-chapter-3.json) |
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
 | Silver Falls: Guardians And Metal Exterminators S | 283722 | [283722-silver-falls-guardians-and-metal-exterminators-s.json](./283722-silver-falls-guardians-and-metal-exterminators-s.json) |
+| Silver Gene: The Mutia Chronicle 1 | 308414 | [308414-silver-gene-the-mutia-chronicle-1.json](./308414-silver-gene-the-mutia-chronicle-1.json) |
 | Silver Level Pack | 289884 | [289884-silver-level-pack.json](./289884-silver-level-pack.json) |
 | Silver Malfeasant | 345001 | [345001-silver-malfeasant.json](./345001-silver-malfeasant.json) |
 | Silver Millennium | 40251 | [40251-silver-millennium.json](./40251-silver-millennium.json) |
