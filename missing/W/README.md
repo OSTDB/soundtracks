@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waiting For You At The End of Time | 335258 | [335258-waiting-for-you-at-the-end-of-time.json](./335258-waiting-for-you-at-the-end-of-time.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
 | Wakdoo Random Defence | 188098 | [188098-wakdoo-random-defence.json](./188098-wakdoo-random-defence.json) |
+| Wake | 307750 | [307750-wake.json](./307750-wake.json) |
 | Wake | 95390 | [95390-wake.json](./95390-wake.json) |
 | Wake the Dead | 313864 | [313864-wake-the-dead.json](./313864-wake-the-dead.json) |
 | Wake Up | 22435 | [22435-wake-up.json](./22435-wake-up.json) |
@@ -458,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords of the Deck | 301805 | [301805-warlords-of-the-deck.json](./301805-warlords-of-the-deck.json) |
 | Warlords.IO | 111729 | [111729-warlords-io.json](./111729-warlords-io.json) |
 | Warm Monkey | 331314 | [331314-warm-monkey.json](./331314-warm-monkey.json) |
+| Warm Potato | 307727 | [307727-warm-potato.json](./307727-warm-potato.json) |
 | WarMA | 103948 | [103948-warma.json](./103948-warma.json) |
 | Warmage | 280234 | [280234-warmage.json](./280234-warmage.json) |
 | WarMage | 26542 | [26542-warmage.json](./26542-warmage.json) |
@@ -1954,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
 | Wordish | 187434 | [187434-wordish.json](./187434-wordish.json) |
 | WordJong Arcade | 65492 | [65492-wordjong-arcade.json](./65492-wordjong-arcade.json) |
+| Wordkour | 307730 | [307730-wordkour.json](./307730-wordkour.json) |
 | Wordle DS | 265142 | [265142-wordle-ds.json](./265142-wordle-ds.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
 | Wordless Forest | 413778 | [413778-wordless-forest.json](./413778-wordless-forest.json) |
