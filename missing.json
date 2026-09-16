@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T18:04:14.915Z",
-  "total_missing": 78962,
+  "generated_at": "2026-09-16T18:19:05.523Z",
+  "total_missing": 79012,
   "games": [
     {
       "igdb_id": 306086,
@@ -5766,6 +5766,11 @@
       "igdb_id": 369557,
       "game_name": "Adventures with Alan Parkour 3D",
       "file": "missing/A/369557-adventures-with-alan-parkour-3d.json"
+    },
+    {
+      "igdb_id": 299301,
+      "game_name": "Aelfric the Wondrous",
+      "file": "missing/A/299301-aelfric-the-wondrous.json"
     },
     {
       "igdb_id": 360655,
@@ -21538,6 +21543,11 @@
       "file": "missing/A/36972-attack-of-the-earthlings.json"
     },
     {
+      "igdb_id": 299288,
+      "game_name": "Attack of the Earthlings Mobile",
+      "file": "missing/A/299288-attack-of-the-earthlings-mobile.json"
+    },
+    {
       "igdb_id": 119733,
       "game_name": "Attack of the Evil Poop",
       "file": "missing/A/119733-attack-of-the-evil-poop.json"
@@ -28291,6 +28301,11 @@
       "igdb_id": 332256,
       "game_name": "Battle Cars",
       "file": "missing/B/332256-battle-cars.json"
+    },
+    {
+      "igdb_id": 299252,
+      "game_name": "Battle Cats Quest",
+      "file": "missing/B/299252-battle-cats-quest.json"
     },
     {
       "igdb_id": 211426,
@@ -39788,6 +39803,11 @@
       "file": "missing/B/269595-bonzala.json"
     },
     {
+      "igdb_id": 299269,
+      "game_name": "Bonzo The Brave: Be Brave",
+      "file": "missing/B/299269-bonzo-the-brave-be-brave.json"
+    },
+    {
       "igdb_id": 343325,
       "game_name": "Boo Boo Booster",
       "file": "missing/B/343325-boo-boo-booster.json"
@@ -48441,6 +48461,11 @@
       "igdb_id": 66121,
       "game_name": "Capcom Generations 3: The First Generation",
       "file": "missing/C/66121-capcom-generations-3-the-first-generation.json"
+    },
+    {
+      "igdb_id": 299313,
+      "game_name": "Capcom Mystery Adventure Double Pack",
+      "file": "missing/C/299313-capcom-mystery-adventure-double-pack.json"
     },
     {
       "igdb_id": 44503,
@@ -82958,6 +82983,11 @@
       "file": "missing/D/87330-dig-out.json"
     },
     {
+      "igdb_id": 299295,
+      "game_name": "Dig VR",
+      "file": "missing/D/299295-dig-vr.json"
+    },
+    {
       "igdb_id": 228455,
       "game_name": "DIG: Deep In Galaxies",
       "file": "missing/D/228455-dig-deep-in-galaxies.json"
@@ -107631,6 +107661,11 @@
       "igdb_id": 158730,
       "game_name": "Falnarion Tactics: Oathbreaker",
       "file": "missing/F/158730-falnarion-tactics-oathbreaker.json"
+    },
+    {
+      "igdb_id": 299292,
+      "game_name": "Falrika the Alchemist",
+      "file": "missing/F/299292-falrika-the-alchemist.json"
     },
     {
       "igdb_id": 97920,
@@ -132573,6 +132608,11 @@
       "file": "missing/G/146864-gothic-masquerade-hd.json"
     },
     {
+      "igdb_id": 299293,
+      "game_name": "Gothic Remake Collector's Edition",
+      "file": "missing/G/299293-gothic-remake-collectors-edition.json"
+    },
+    {
       "igdb_id": 201260,
       "game_name": "Gothic Survival",
       "file": "missing/G/201260-gothic-survival.json"
@@ -141101,6 +141141,11 @@
       "igdb_id": 349382,
       "game_name": "Haut",
       "file": "missing/H/349382-haut.json"
+    },
+    {
+      "igdb_id": 299263,
+      "game_name": "Have You Heard",
+      "file": "missing/H/299263-have-you-heard.json"
     },
     {
       "igdb_id": 235970,
@@ -155933,6 +155978,11 @@
       "file": "missing/I/379905-idol-janshi-suchie-pai-iv-portable.json"
     },
     {
+      "igdb_id": 299296,
+      "game_name": "Idol Janshi Suchie-Pai: Milky no Yabou",
+      "file": "missing/I/299296-idol-janshi-suchie-pai-milky-no-yabou.json"
+    },
+    {
       "igdb_id": 405517,
       "game_name": "Idol Kingdom",
       "file": "missing/I/405517-idol-kingdom.json"
@@ -169976,6 +170026,11 @@
       "igdb_id": 279625,
       "game_name": "Kemuri",
       "file": "missing/K/279625-kemuri.json"
+    },
+    {
+      "igdb_id": 299308,
+      "game_name": "Ken Griffey Jr. Presents Major League Baseball",
+      "file": "missing/K/299308-ken-griffey-jr-presents-major-league-baseball.json"
     },
     {
       "igdb_id": 382786,
@@ -189968,6 +190023,11 @@
       "file": "missing/M/415129-magic-market-world.json"
     },
     {
+      "igdb_id": 299266,
+      "game_name": "Magic Math",
+      "file": "missing/M/299266-magic-math.json"
+    },
+    {
       "igdb_id": 182985,
       "game_name": "Magic Mirror Hall",
       "file": "missing/M/182985-magic-mirror-hall.json"
@@ -192546,6 +192606,11 @@
       "igdb_id": 358340,
       "game_name": "Marathon Recompiled",
       "file": "missing/M/358340-marathon-recompiled.json"
+    },
+    {
+      "igdb_id": 299291,
+      "game_name": "Marathon: Durandal",
+      "file": "missing/M/299291-marathon-durandal.json"
     },
     {
       "igdb_id": 55054,
@@ -205391,6 +205456,11 @@
       "igdb_id": 94702,
       "game_name": "Missing Dots Matrix",
       "file": "missing/M/94702-missing-dots-matrix.json"
+    },
+    {
+      "igdb_id": 299262,
+      "game_name": "Missing Friend: Icky Mr Fox",
+      "file": "missing/M/299262-missing-friend-icky-mr-fox.json"
     },
     {
       "igdb_id": 416625,
@@ -221268,9 +221338,24 @@
       "file": "missing/N/4045-nhl-2k3.json"
     },
     {
+      "igdb_id": 299309,
+      "game_name": "NHL 95",
+      "file": "missing/N/299309-nhl-95.json"
+    },
+    {
       "igdb_id": 11650,
       "game_name": "NHL 96",
       "file": "missing/N/11650-nhl-96.json"
+    },
+    {
+      "igdb_id": 299310,
+      "game_name": "NHL 96",
+      "file": "missing/N/299310-nhl-96.json"
+    },
+    {
+      "igdb_id": 299311,
+      "game_name": "NHL 96",
+      "file": "missing/N/299311-nhl-96.json"
     },
     {
       "igdb_id": 817,
@@ -221286,6 +221371,11 @@
       "igdb_id": 4047,
       "game_name": "NHL Hitz 2003",
       "file": "missing/N/4047-nhl-hitz-2003.json"
+    },
+    {
+      "igdb_id": 299312,
+      "game_name": "NHL Hockey 2000",
+      "file": "missing/N/299312-nhl-hockey-2000.json"
     },
     {
       "igdb_id": 42655,
@@ -236421,6 +236511,111 @@
       "igdb_id": 7388,
       "game_name": "Papo & Yo",
       "file": "missing/P/7388-papo-and-yo.json"
+    },
+    {
+      "igdb_id": 299275,
+      "game_name": "Papo Learn & Play",
+      "file": "missing/P/299275-papo-learn-and-play.json"
+    },
+    {
+      "igdb_id": 299258,
+      "game_name": "Papo Town Build Stories",
+      "file": "missing/P/299258-papo-town-build-stories.json"
+    },
+    {
+      "igdb_id": 299283,
+      "game_name": "Papo Town Countries",
+      "file": "missing/P/299283-papo-town-countries.json"
+    },
+    {
+      "igdb_id": 299276,
+      "game_name": "Papo Town Dessert Shop",
+      "file": "missing/P/299276-papo-town-dessert-shop.json"
+    },
+    {
+      "igdb_id": 299277,
+      "game_name": "Papo Town Food Street",
+      "file": "missing/P/299277-papo-town-food-street.json"
+    },
+    {
+      "igdb_id": 299280,
+      "game_name": "Papo Town Happy Festival",
+      "file": "missing/P/299280-papo-town-happy-festival.json"
+    },
+    {
+      "igdb_id": 299273,
+      "game_name": "Papo Town History Discovery China",
+      "file": "missing/P/299273-papo-town-history-discovery-china.json"
+    },
+    {
+      "igdb_id": 299256,
+      "game_name": "Papo Town Museum",
+      "file": "missing/P/299256-papo-town-museum.json"
+    },
+    {
+      "igdb_id": 299257,
+      "game_name": "Papo Town Pop Star",
+      "file": "missing/P/299257-papo-town-pop-star.json"
+    },
+    {
+      "igdb_id": 299255,
+      "game_name": "Papo Town Preschool",
+      "file": "missing/P/299255-papo-town-preschool.json"
+    },
+    {
+      "igdb_id": 299278,
+      "game_name": "Papo Town Restaurant",
+      "file": "missing/P/299278-papo-town-restaurant.json"
+    },
+    {
+      "igdb_id": 299259,
+      "game_name": "Papo Town Seasons",
+      "file": "missing/P/299259-papo-town-seasons.json"
+    },
+    {
+      "igdb_id": 299254,
+      "game_name": "Papo Town Space Explorer",
+      "file": "missing/P/299254-papo-town-space-explorer.json"
+    },
+    {
+      "igdb_id": 299286,
+      "game_name": "Papo Town Spaceship",
+      "file": "missing/P/299286-papo-town-spaceship.json"
+    },
+    {
+      "igdb_id": 299260,
+      "game_name": "Papo Town Spring Festival",
+      "file": "missing/P/299260-papo-town-spring-festival.json"
+    },
+    {
+      "igdb_id": 299253,
+      "game_name": "Papo Town Wedding Party",
+      "file": "missing/P/299253-papo-town-wedding-party.json"
+    },
+    {
+      "igdb_id": 299271,
+      "game_name": "Papo Town: Baby Nursery",
+      "file": "missing/P/299271-papo-town-baby-nursery.json"
+    },
+    {
+      "igdb_id": 299279,
+      "game_name": "Papo Town: Hospital Story",
+      "file": "missing/P/299279-papo-town-hospital-story.json"
+    },
+    {
+      "igdb_id": 299281,
+      "game_name": "Papo Town: Ocean Park",
+      "file": "missing/P/299281-papo-town-ocean-park.json"
+    },
+    {
+      "igdb_id": 299270,
+      "game_name": "Papo Town: Sweet Home",
+      "file": "missing/P/299270-papo-town-sweet-home.json"
+    },
+    {
+      "igdb_id": 299272,
+      "game_name": "Papo World Dinosaur Island",
+      "file": "missing/P/299272-papo-world-dinosaur-island.json"
     },
     {
       "igdb_id": 55107,
@@ -255838,6 +256033,31 @@
       "file": "missing/P/213610-purple-fantasy.json"
     },
     {
+      "igdb_id": 299282,
+      "game_name": "Purple Pink Coloring Book",
+      "file": "missing/P/299282-purple-pink-coloring-book.json"
+    },
+    {
+      "igdb_id": 299284,
+      "game_name": "Purple Pink English",
+      "file": "missing/P/299284-purple-pink-english.json"
+    },
+    {
+      "igdb_id": 299285,
+      "game_name": "Purple Pink Game Box",
+      "file": "missing/P/299285-purple-pink-game-box.json"
+    },
+    {
+      "igdb_id": 299287,
+      "game_name": "Purple Pink Jobs Mix",
+      "file": "missing/P/299287-purple-pink-jobs-mix.json"
+    },
+    {
+      "igdb_id": 299274,
+      "game_name": "Purple Pink Math",
+      "file": "missing/P/299274-purple-pink-math.json"
+    },
+    {
       "igdb_id": 298581,
       "game_name": "Purple Slime Production Line",
       "file": "missing/P/298581-purple-slime-production-line.json"
@@ -258281,6 +258501,11 @@
       "igdb_id": 294145,
       "game_name": "Questscape",
       "file": "missing/Q/294145-questscape.json"
+    },
+    {
+      "igdb_id": 299302,
+      "game_name": "Quetzal",
+      "file": "missing/Q/299302-quetzal.json"
     },
     {
       "igdb_id": 180255,
@@ -282423,6 +282648,11 @@
       "file": "missing/S/48632-sengoku-denshou.json"
     },
     {
+      "igdb_id": 299300,
+      "game_name": "Sengoku Gensokyo",
+      "file": "missing/S/299300-sengoku-gensokyo.json"
+    },
+    {
       "igdb_id": 62133,
       "game_name": "Sengoku Hime 4: Souhai Hyakkei, Hana Mamoru Chikai",
       "file": "missing/S/62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json"
@@ -300081,6 +300311,11 @@
       "igdb_id": 1565,
       "game_name": "SoulCalibur II",
       "file": "missing/S/1565-soulcalibur-ii.json"
+    },
+    {
+      "igdb_id": 299306,
+      "game_name": "SoulCalibur III: Arcade Edition",
+      "file": "missing/S/299306-soulcalibur-iii-arcade-edition.json"
     },
     {
       "igdb_id": 1013,
@@ -321448,6 +321683,11 @@
       "file": "missing/S/127231-swiper.json"
     },
     {
+      "igdb_id": 299289,
+      "game_name": "Swiper's Big Adventure",
+      "file": "missing/S/299289-swipers-big-adventure.json"
+    },
+    {
       "igdb_id": 405591,
       "game_name": "Swish Ball Clicker",
       "file": "missing/S/405591-swish-ball-clicker.json"
@@ -337186,6 +337426,11 @@
       "igdb_id": 225292,
       "game_name": "The I of It",
       "file": "missing/T/225292-the-i-of-it.json"
+    },
+    {
+      "igdb_id": 299261,
+      "game_name": "The Icky Mr Fox",
+      "file": "missing/T/299261-the-icky-mr-fox.json"
     },
     {
       "igdb_id": 79352,
@@ -360976,6 +361221,11 @@
       "igdb_id": 259538,
       "game_name": "Trapped in the Kanal",
       "file": "missing/T/259538-trapped-in-the-kanal.json"
+    },
+    {
+      "igdb_id": 299304,
+      "game_name": "Trapped Inside a Train (And There's Nothing You Can Do About It)",
+      "file": "missing/T/299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json"
     },
     {
       "igdb_id": 172194,
