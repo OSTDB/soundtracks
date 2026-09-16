@@ -4628,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing | 264857 | [264857-the-thing.json](./264857-the-thing.json) |
 | The Thing | 264859 | [264859-the-thing.json](./264859-the-thing.json) |
 | The Thing at the Window | 221750 | [221750-the-thing-at-the-window.json](./221750-the-thing-at-the-window.json) |
+| The Thing That Happened | 294284 | [294284-the-thing-that-happened.json](./294284-the-thing-that-happened.json) |
 | The Thing You Can't Defeat | 251239 | [251239-the-thing-you-cant-defeat.json](./251239-the-thing-you-cant-defeat.json) |
 | The Third Pig | 337176 | [337176-the-third-pig.json](./337176-the-third-pig.json) |
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
@@ -5103,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zombie Fortress | 327861 | [327861-the-zombie-fortress.json](./327861-the-zombie-fortress.json) |
 | The Zombie Slayers | 329958 | [329958-the-zombie-slayers.json](./329958-the-zombie-slayers.json) |
 | The Zombie Smasher | 219279 | [219279-the-zombie-smasher.json](./219279-the-zombie-smasher.json) |
+| The Zombie Wave | 294259 | [294259-the-zombie-wave.json](./294259-the-zombie-wave.json) |
 | The Zombie Wave: DLC | 298705 | [298705-the-zombie-wave-dlc.json](./298705-the-zombie-wave-dlc.json) |
 | The Zombie's Horror | 156085 | [156085-the-zombies-horror.json](./156085-the-zombies-horror.json) |
 | The Zombiest Adventures in the Perverted Age of Enlightenment With a Pinch of Woodpunk | 28909 | [28909-the-zombiest-adventures-in-the-perverted-age-of-enlightenment-with-a-pinch-of-woodpunk.json](./28909-the-zombiest-adventures-in-the-perverted-age-of-enlightenment-with-a-pinch-of-woodpunk.json) |
@@ -8554,6 +8556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type: Turbo | 391740 | [391740-type-turbo.json](./391740-type-turbo.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
 | Typeshift | 27884 | [27884-typeshift.json](./27884-typeshift.json) |
+| TypeSpell Journey | 294290 | [294290-typespell-journey.json](./294290-typespell-journey.json) |
 | Typewriter Simulator | 177529 | [177529-typewriter-simulator.json](./177529-typewriter-simulator.json) |
 | Typhon: Bot vs. Bot | 255134 | [255134-typhon-bot-vs-bot.json](./255134-typhon-bot-vs-bot.json) |
 | Typhoon Force: Storm Fighter | 176991 | [176991-typhoon-force-storm-fighter.json](./176991-typhoon-force-storm-fighter.json) |
