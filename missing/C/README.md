@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Generations 1: Wings of Destiny | 66122 | [66122-capcom-generations-1-wings-of-destiny.json](./66122-capcom-generations-1-wings-of-destiny.json) |
 | Capcom Generations 2: Chronicles of Arthur | 66123 | [66123-capcom-generations-2-chronicles-of-arthur.json](./66123-capcom-generations-2-chronicles-of-arthur.json) |
 | Capcom Generations 3: The First Generation | 66121 | [66121-capcom-generations-3-the-first-generation.json](./66121-capcom-generations-3-the-first-generation.json) |
+| Capcom Mystery Adventure Double Pack | 299313 | [299313-capcom-mystery-adventure-double-pack.json](./299313-capcom-mystery-adventure-double-pack.json) |
 | Capcom Puzzle World | 44503 | [44503-capcom-puzzle-world.json](./44503-capcom-puzzle-world.json) |
 | Capcom vs. SNK 2: Mark of the Millennium 2001 | 3846 | [3846-capcom-vs-snk-2-mark-of-the-millennium-2001.json](./3846-capcom-vs-snk-2-mark-of-the-millennium-2001.json) |
 | Capcom vs. SNK: Millennium Fight 2000 | 39593 | [39593-capcom-vs-snk-millennium-fight-2000.json](./39593-capcom-vs-snk-millennium-fight-2000.json) |
