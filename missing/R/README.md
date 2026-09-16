@@ -2464,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Bit | 110363 | [110363-rogue-bit.json](./110363-rogue-bit.json) |
 | Rogue Blaster | 232435 | [232435-rogue-blaster.json](./232435-rogue-blaster.json) |
 | Rogue Carrier | 409641 | [409641-rogue-carrier.json](./409641-rogue-carrier.json) |
+| Rogue Climber | 312746 | [312746-rogue-climber.json](./312746-rogue-climber.json) |
 | Rogue Company: Power Ballad Pack | 406820 | [406820-rogue-company-power-ballad-pack.json](./406820-rogue-company-power-ballad-pack.json) |
 | Rogue Company: Radioactive Revenant Pack | 406770 | [406770-rogue-company-radioactive-revenant-pack.json](./406770-rogue-company-radioactive-revenant-pack.json) |
 | Rogue Company: Season Three Starter Pack | 406821 | [406821-rogue-company-season-three-starter-pack.json](./406821-rogue-company-season-three-starter-pack.json) |
@@ -2497,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Rampage | 334130 | [334130-rogue-rampage.json](./334130-rogue-rampage.json) |
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
+| Rogue Rhythm | 312747 | [312747-rogue-rhythm.json](./312747-rogue-rhythm.json) |
 | Rogue Robot: Escape Protocol | 304616 | [304616-rogue-robot-escape-protocol.json](./304616-rogue-robot-escape-protocol.json) |
 | Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
