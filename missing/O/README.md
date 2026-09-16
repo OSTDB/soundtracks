@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Dark Dimensions Collection | 308579 | [308579-outbreak-dark-dimensions-collection.json](./308579-outbreak-dark-dimensions-collection.json) |
 | Outbreak: Genesis Collection | 331430 | [331430-outbreak-genesis-collection.json](./331430-outbreak-genesis-collection.json) |
 | Outbreak: Gwen's Nightmare | 256264 | [256264-outbreak-gwens-nightmare.json](./256264-outbreak-gwens-nightmare.json) |
+| Outbreak: Heart and Brains Collection | 306486 | [306486-outbreak-heart-and-brains-collection.json](./306486-outbreak-heart-and-brains-collection.json) |
 | Outbreak: Hideous Hallucinations Collection | 331429 | [331429-outbreak-hideous-hallucinations-collection.json](./331429-outbreak-hideous-hallucinations-collection.json) |
 | Outbreak: Loremaker Collection | 331431 | [331431-outbreak-loremaker-collection.json](./331431-outbreak-loremaker-collection.json) |
 | Outbreak: Palladium Collection | 196278 | [196278-outbreak-palladium-collection.json](./196278-outbreak-palladium-collection.json) |
