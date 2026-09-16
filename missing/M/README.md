@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
 | Marvel Rivals: Pick-Up Bundle | 355093 | [355093-marvel-rivals-pick-up-bundle.json](./355093-marvel-rivals-pick-up-bundle.json) |
 | Marvel Rivals: PlayStation Exclusive | 355092 | [355092-marvel-rivals-playstation-exclusive.json](./355092-marvel-rivals-playstation-exclusive.json) |
+| Marvel Rivals: Season 0 - Dooms' Rise | 325047 | [325047-marvel-rivals-season-0-dooms-rise.json](./325047-marvel-rivals-season-0-dooms-rise.json) |
 | Marvel Rivals: Season 2 - Hellfire Gala | 339814 | [339814-marvel-rivals-season-2-hellfire-gala.json](./339814-marvel-rivals-season-2-hellfire-gala.json) |
 | Marvel Rivals: Season 2 Bundle | 355094 | [355094-marvel-rivals-season-2-bundle.json](./355094-marvel-rivals-season-2-bundle.json) |
 | Marvel Rivals: Season 4 - Heart of the Dragon | 367417 | [367417-marvel-rivals-season-4-heart-of-the-dragon.json](./367417-marvel-rivals-season-4-heart-of-the-dragon.json) |
@@ -4341,6 +4342,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motto!? Fushigi no Gensoukyou Plus: The Dungeon of Dreams and Magic | 206938 | [206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json](./206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json) |
 | Motto!? Fushigi no Gensoukyou Prologue: Chijou kara no Kyoui | 206939 | [206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json](./206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json) |
 | Motto!? Fushigi no Gensoukyou: Under the Moonlight | 206935 | [206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json](./206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json) |
+| Motu Patlu Bicycle Riding | 325120 | [325120-motu-patlu-bicycle-riding.json](./325120-motu-patlu-bicycle-riding.json) |
+| Motu Patlu BulbCreeker | 325116 | [325116-motu-patlu-bulbcreeker.json](./325116-motu-patlu-bulbcreeker.json) |
+| Motu Patlu Car Game | 325112 | [325112-motu-patlu-car-game.json](./325112-motu-patlu-car-game.json) |
+| Motu Patlu Car Game 2 | 325117 | [325117-motu-patlu-car-game-2.json](./325117-motu-patlu-car-game-2.json) |
+| Motu Patlu Cricket Game | 325118 | [325118-motu-patlu-cricket-game.json](./325118-motu-patlu-cricket-game.json) |
+| Motu Patlu Cycling Adventure | 325111 | [325111-motu-patlu-cycling-adventure.json](./325111-motu-patlu-cycling-adventure.json) |
+| Motu Patlu Extreme Rush Rider | 325124 | [325124-motu-patlu-extreme-rush-rider.json](./325124-motu-patlu-extreme-rush-rider.json) |
+| Motu Patlu Horse Riding | 325119 | [325119-motu-patlu-horse-riding.json](./325119-motu-patlu-horse-riding.json) |
+| Motu Patlu Kung Fu Kings | 325115 | [325115-motu-patlu-kung-fu-kings.json](./325115-motu-patlu-kung-fu-kings.json) |
+| Motu Patlu Ludo | 325125 | [325125-motu-patlu-ludo.json](./325125-motu-patlu-ludo.json) |
+| Motu Patlu Mow My Garden | 325121 | [325121-motu-patlu-mow-my-garden.json](./325121-motu-patlu-mow-my-garden.json) |
+| Motu Patlu Save Friends | 325123 | [325123-motu-patlu-save-friends.json](./325123-motu-patlu-save-friends.json) |
+| Motu Patlu Super Duper Man | 325113 | [325113-motu-patlu-super-duper-man.json](./325113-motu-patlu-super-duper-man.json) |
+| Motu Patlu: Robot Transform | 325122 | [325122-motu-patlu-robot-transform.json](./325122-motu-patlu-robot-transform.json) |
 | Motus Paintball VR | 336593 | [336593-motus-paintball-vr.json](./336593-motus-paintball-vr.json) |
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
 | Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
