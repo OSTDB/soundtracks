@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T16:14:37.701Z",
-  "total_missing": 78570,
+  "generated_at": "2026-09-16T16:23:00.620Z",
+  "total_missing": 78573,
   "games": [
     {
       "igdb_id": 306086,
@@ -3278,6 +3278,11 @@
       "file": "missing/A/75803-a-day-for-a-kitten.json"
     },
     {
+      "igdb_id": 304221,
+      "game_name": "A Day for Soft Food",
+      "file": "missing/A/304221-a-day-for-soft-food.json"
+    },
+    {
       "igdb_id": 78681,
       "game_name": "A Day In the Life",
       "file": "missing/A/78681-a-day-in-the-life.json"
@@ -6186,11 +6191,6 @@
       "igdb_id": 274510,
       "game_name": "Agritopia",
       "file": "missing/A/274510-agritopia.json"
-    },
-    {
-      "igdb_id": 109720,
-      "game_name": "Ah, Love!",
-      "file": "missing/A/109720-ah-love.json"
     },
     {
       "igdb_id": 123609,
@@ -38431,6 +38431,11 @@
       "igdb_id": 177570,
       "game_name": "Bob & Dob",
       "file": "missing/B/177570-bob-and-dob.json"
+    },
+    {
+      "igdb_id": 304224,
+      "game_name": "Bob and the Alien Fire Flies",
+      "file": "missing/B/304224-bob-and-the-alien-fire-flies.json"
     },
     {
       "igdb_id": 181903,
@@ -275398,6 +275403,11 @@
       "file": "missing/S/69800-salmon-run.json"
     },
     {
+      "igdb_id": 304219,
+      "game_name": "Salomónico",
+      "file": "missing/S/304219-salomonico.json"
+    },
+    {
       "igdb_id": 68591,
       "game_name": "Saloon Showdown VR",
       "file": "missing/S/68591-saloon-showdown-vr.json"
@@ -281616,6 +281626,11 @@
       "igdb_id": 26160,
       "game_name": "Sethian",
       "file": "missing/S/26160-sethian.json"
+    },
+    {
+      "igdb_id": 304222,
+      "game_name": "Sets",
+      "file": "missing/S/304222-sets.json"
     },
     {
       "igdb_id": 163363,
