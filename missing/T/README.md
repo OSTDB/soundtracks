@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
 | Terraformers: Megastructures | 318782 | [318782-terraformers-megastructures.json](./318782-terraformers-megastructures.json) |
+| Terraformers: New Frontiers Bundle | 293763 | [293763-terraformers-new-frontiers-bundle.json](./293763-terraformers-new-frontiers-bundle.json) |
 | Terraformers: Supporter Edition | 271471 | [271471-terraformers-supporter-edition.json](./271471-terraformers-supporter-edition.json) |
 | Terraforming Mars: Colonies | 402404 | [402404-terraforming-mars-colonies.json](./402404-terraforming-mars-colonies.json) |
 | Terrafort | 285966 | [285966-terrafort.json](./285966-terrafort.json) |
@@ -2004,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
 | The Colour Beyond: A Zeroth Kind | 409590 | [409590-the-colour-beyond-a-zeroth-kind.json](./409590-the-colour-beyond-a-zeroth-kind.json) |
 | The Coma 2: Vicious Sisters - Deluxe Edition | 154510 | [154510-the-coma-2-vicious-sisters-deluxe-edition.json](./154510-the-coma-2-vicious-sisters-deluxe-edition.json) |
+| The Coma 2B: Catacomb | 293779 | [293779-the-coma-2b-catacomb.json](./293779-the-coma-2b-catacomb.json) |
 | The Coma 2B: Catacomb - The Gamer Youngho | 324473 | [324473-the-coma-2b-catacomb-the-gamer-youngho.json](./324473-the-coma-2b-catacomb-the-gamer-youngho.json) |
 | The Coma 2B: Catacomb - The Survivalist Youngho | 324474 | [324474-the-coma-2b-catacomb-the-survivalist-youngho.json](./324474-the-coma-2b-catacomb-the-survivalist-youngho.json) |
 | The Coma 3: Bloodlines - Autumn Girl Skin | 401675 | [401675-the-coma-3-bloodlines-autumn-girl-skin.json](./401675-the-coma-3-bloodlines-autumn-girl-skin.json) |
@@ -2920,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Immortal Lock | 308269 | [308269-the-immortal-lock.json](./308269-the-immortal-lock.json) |
 | The Immortal Mayor | 152377 | [152377-the-immortal-mayor.json](./152377-the-immortal-mayor.json) |
 | The Immortal Mayor: Kingdom of Women | 262077 | [262077-the-immortal-mayor-kingdom-of-women.json](./262077-the-immortal-mayor-kingdom-of-women.json) |
+| The Immortal Mayor: The Feather Kingdom | 293756 | [293756-the-immortal-mayor-the-feather-kingdom.json](./293756-the-immortal-mayor-the-feather-kingdom.json) |
 | The Impossible Quiz | 62166 | [62166-the-impossible-quiz.json](./62166-the-impossible-quiz.json) |
 | The Impossible Quiz 2 | 61548 | [61548-the-impossible-quiz-2.json](./61548-the-impossible-quiz-2.json) |
 | The Impossible Quiz Book | 61549 | [61549-the-impossible-quiz-book.json](./61549-the-impossible-quiz-book.json) |
@@ -3832,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Rim: Survivor | 97344 | [97344-the-outer-rim-survivor.json](./97344-the-outer-rim-survivor.json) |
 | The Outer Space Bugs | 224751 | [224751-the-outer-space-bugs.json](./224751-the-outer-space-bugs.json) |
 | The Outer Worlds 2: Premium Edition | 348309 | [348309-the-outer-worlds-2-premium-edition.json](./348309-the-outer-worlds-2-premium-edition.json) |
+| The Outer Worlds: Expansion Pass | 293732 | [293732-the-outer-worlds-expansion-pass.json](./293732-the-outer-worlds-expansion-pass.json) |
 | The Outer Worlds: Spacer's Choice Edition | 239999 | [239999-the-outer-worlds-spacers-choice-edition.json](./239999-the-outer-worlds-spacers-choice-edition.json) |
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
 | The Outlast Trials: Porcelain Observer Pack | 366838 | [366838-the-outlast-trials-porcelain-observer-pack.json](./366838-the-outlast-trials-porcelain-observer-pack.json) |
@@ -6113,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
+| Tin Can: Original Tracks | 293774 | [293774-tin-can-original-tracks.json](./293774-tin-can-original-tracks.json) |
 | Tin Star | 104677 | [104677-tin-star.json](./104677-tin-star.json) |
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
 | Tinboy | 34507 | [34507-tinboy.json](./34507-tinboy.json) |
