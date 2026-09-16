@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Boy | 365693 | [365693-jelly-boy.json](./365693-jelly-boy.json) |
 | Jelly Boy 2 | 38364 | [38364-jelly-boy-2.json](./38364-jelly-boy-2.json) |
 | Jelly Defense | 22206 | [22206-jelly-defense.json](./22206-jelly-defense.json) |
+| Jelly Escape | 286641 | [286641-jelly-escape.json](./286641-jelly-escape.json) |
 | Jelly Express | 199592 | [199592-jelly-express.json](./199592-jelly-express.json) |
 | Jelly Fruits Adventure: Magic Match 3 Puzzle | 262099 | [262099-jelly-fruits-adventure-magic-match-3-puzzle.json](./262099-jelly-fruits-adventure-magic-match-3-puzzle.json) |
 | Jelly God | 221721 | [221721-jelly-god.json](./221721-jelly-god.json) |
@@ -612,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Night Slashers | 111915 | [111915-johnny-turbos-arcade-night-slashers.json](./111915-johnny-turbos-arcade-night-slashers.json) |
 | Johnny Turbo's Arcade: Shoot Out | 105889 | [105889-johnny-turbos-arcade-shoot-out.json](./105889-johnny-turbos-arcade-shoot-out.json) |
 | Johnny Turbo's Arcade: Super Real Darwin | 146861 | [146861-johnny-turbos-arcade-super-real-darwin.json](./146861-johnny-turbos-arcade-super-real-darwin.json) |
+| Johnny Upgrade | 286642 | [286642-johnny-upgrade.json](./286642-johnny-upgrade.json) |
 | Johny Explorer | 231358 | [231358-johny-explorer.json](./231358-johny-explorer.json) |
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
 | Joinem | 40208 | [40208-joinem.json](./40208-joinem.json) |
@@ -857,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpOut | 300987 | [300987-jumpout.json](./300987-jumpout.json) |
 | Jumpscare to Live | 374715 | [374715-jumpscare-to-live.json](./374715-jumpscare-to-live.json) |
 | JumpSky | 74472 | [74472-jumpsky.json](./74472-jumpsky.json) |
+| JumpStart 1st Grade Reading | 286668 | [286668-jumpstart-1st-grade-reading.json](./286668-jumpstart-1st-grade-reading.json) |
 | JumpStart 3D Virtual World: Trouble in Town | 200191 | [200191-jumpstart-3d-virtual-world-trouble-in-town.json](./200191-jumpstart-3d-virtual-world-trouble-in-town.json) |
 | JumpStart Adventures 4th Grade: Haunted Island | 129146 | [129146-jumpstart-adventures-4th-grade-haunted-island.json](./129146-jumpstart-adventures-4th-grade-haunted-island.json) |
 | JumpStart Explorers | 129149 | [129149-jumpstart-explorers.json](./129149-jumpstart-explorers.json) |
