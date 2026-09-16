@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girls vs. Cat Aliens | 325847 | [325847-magical-girls-vs-cat-aliens.json](./325847-magical-girls-vs-cat-aliens.json) |
 | Magical Hike | 264592 | [264592-magical-hike.json](./264592-magical-hike.json) |
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
+| Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
 | Magical Pachinko Cotton | 43285 | [43285-magical-pachinko-cotton.json](./43285-magical-pachinko-cotton.json) |
 | Magical Paradise Train | 252990 | [252990-magical-paradise-train.json](./252990-magical-paradise-train.json) |
 | Magical Prisma | 130404 | [130404-magical-prisma.json](./130404-magical-prisma.json) |
