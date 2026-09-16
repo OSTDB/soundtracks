@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
+| A Date with Death: Beyond the Bet | 288917 | [288917-a-date-with-death-beyond-the-bet.json](./288917-a-date-with-death-beyond-the-bet.json) |
 | A Day at the Carnival | 55853 | [55853-a-day-at-the-carnival.json](./55853-a-day-at-the-carnival.json) |
 | A day for a kitten | 75803 | [75803-a-day-for-a-kitten.json](./75803-a-day-for-a-kitten.json) |
 | A Day for Soft Food | 304221 | [304221-a-day-for-soft-food.json](./304221-a-day-for-soft-food.json) |
@@ -490,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrift | 304673 | [304673-adrift.json](./304673-adrift.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
 | Aduk: Curse of the Spirits | 379478 | [379478-aduk-curse-of-the-spirits.json](./379478-aduk-curse-of-the-spirits.json) |
+| Adult for Sex Motel | 288894 | [288894-adult-for-sex-motel.json](./288894-adult-for-sex-motel.json) |
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
@@ -2012,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Fantasy Jigsaw Puzzle 3D | 384067 | [384067-anime-fantasy-jigsaw-puzzle-3d.json](./384067-anime-fantasy-jigsaw-puzzle-3d.json) |
 | Anime Fart Simulator | 397648 | [397648-anime-fart-simulator.json](./397648-anime-fart-simulator.json) |
 | Anime Feet Aim Trainer | 371231 | [371231-anime-feet-aim-trainer.json](./371231-anime-feet-aim-trainer.json) |
+| Anime for Sex Motel | 288890 | [288890-anime-for-sex-motel.json](./288890-anime-for-sex-motel.json) |
 | Anime Freak FX Vol. 1 | 79350 | [79350-anime-freak-fx-vol-1.json](./79350-anime-freak-fx-vol-1.json) |
 | Anime Freak FX Vol. 3 | 79354 | [79354-anime-freak-fx-vol-3.json](./79354-anime-freak-fx-vol-3.json) |
 | Anime Gacha! | 307275 | [307275-anime-gacha.json](./307275-anime-gacha.json) |
@@ -2443,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaDream | 330146 | [330146-aquadream.json](./330146-aquadream.json) |
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
+| AquaLife 3D | 288877 | [288877-aqualife-3d.json](./288877-aqualife-3d.json) |
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
 | Aquanaut | 297657 | [297657-aquanaut.json](./297657-aquanaut.json) |
 | Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
