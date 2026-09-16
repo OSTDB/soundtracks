@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depression Level 50 | 362878 | [362878-depression-level-50.json](./362878-depression-level-50.json) |
 | Depression the Game | 103456 | [103456-depression-the-game.json](./103456-depression-the-game.json) |
 | Deprision | 325707 | [325707-deprision.json](./325707-deprision.json) |
+| Depth Ascend | 311644 | [311644-depth-ascend.json](./311644-depth-ascend.json) |
 | Depth Hunter 2: Ocean Mysteries | 167273 | [167273-depth-hunter-2-ocean-mysteries.json](./167273-depth-hunter-2-ocean-mysteries.json) |
 | Depth Hunter 2: Scuba Kids - Hidden Treasures | 167274 | [167274-depth-hunter-2-scuba-kids-hidden-treasures.json](./167274-depth-hunter-2-scuba-kids-hidden-treasures.json) |
 | Depth Hunter 2: Treasure Hunter | 167272 | [167272-depth-hunter-2-treasure-hunter.json](./167272-depth-hunter-2-treasure-hunter.json) |
@@ -3942,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drew and the Floating Labyrinth | 35867 | [35867-drew-and-the-floating-labyrinth.json](./35867-drew-and-the-floating-labyrinth.json) |
 | Driar | 191911 | [191911-driar.json](./191911-driar.json) |
 | Dribble Skillz | 231635 | [231635-dribble-skillz.json](./231635-dribble-skillz.json) |
+| Drift 'N' Thrift | 311663 | [311663-drift-n-thrift.json](./311663-drift-n-thrift.json) |
 | Drift 19 | 47161 | [47161-drift-19.json](./47161-drift-19.json) |
 | Drift Alone | 126631 | [126631-drift-alone.json](./126631-drift-alone.json) |
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
@@ -4066,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
 | Droplet Shuffle | 61057 | [61057-droplet-shuffle.json](./61057-droplet-shuffle.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
+| Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
 | Dropzone | 30116 | [30116-dropzone.json](./30116-dropzone.json) |
 | Dropzone | 369616 | [369616-dropzone.json](./369616-dropzone.json) |
 | Dropzone | 369617 | [369617-dropzone.json](./369617-dropzone.json) |
