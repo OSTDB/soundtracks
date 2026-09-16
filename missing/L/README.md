@@ -1562,6 +1562,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigPlanet 2 Extras Edition | 414317 | [414317-littlebigplanet-2-extras-edition.json](./414317-littlebigplanet-2-extras-edition.json) |
 | LittleBigPlanet 2: Collector's Edition | 44554 | [44554-littlebigplanet-2-collectors-edition.json](./44554-littlebigplanet-2-collectors-edition.json) |
 | LittleBigPlanet 3: Baroque Costume | 326784 | [326784-littlebigplanet-3-baroque-costume.json](./326784-littlebigplanet-3-baroque-costume.json) |
+| LittleBigPlanet 3: Dead Space - Isaac Clarke Costume | 322199 | [322199-littlebigplanet-3-dead-space-isaac-clarke-costume.json](./322199-littlebigplanet-3-dead-space-isaac-clarke-costume.json) |
+| LittleBigPlanet 3: Fix Me Hook Hat T-shirt | 322200 | [322200-littlebigplanet-3-fix-me-hook-hat-t-shirt.json](./322200-littlebigplanet-3-fix-me-hook-hat-t-shirt.json) |
+| LittleBigPlanet 3: Line Infantry Costume | 322201 | [322201-littlebigplanet-3-line-infantry-costume.json](./322201-littlebigplanet-3-line-infantry-costume.json) |
+| LittleBigPlanet 3: Monkey King Costume | 322206 | [322206-littlebigplanet-3-monkey-king-costume.json](./322206-littlebigplanet-3-monkey-king-costume.json) |
+| LittleBigPlanet 3: Santa Hat And Beard Costume | 322203 | [322203-littlebigplanet-3-santa-hat-and-beard-costume.json](./322203-littlebigplanet-3-santa-hat-and-beard-costume.json) |
+| LittleBigPlanet 3: Sumo Wrestler Costume | 322205 | [322205-littlebigplanet-3-sumo-wrestler-costume.json](./322205-littlebigplanet-3-sumo-wrestler-costume.json) |
 | LittleBigPlanet HUB | 77349 | [77349-littlebigplanet-hub.json](./77349-littlebigplanet-hub.json) |
 | LittleBigPlanet PS Vita: DC Comics Premium Level Pack | 344442 | [344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json](./344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json) |
 | LittleBigPlanet: Pirates of the Caribbean Level Kit | 194642 | [194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json](./194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json) |
