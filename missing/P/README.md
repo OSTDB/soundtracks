@@ -3074,11 +3074,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Walker | 59954 | [59954-portal-walker.json](./59954-portal-walker.json) |
 | Portal War | 221752 | [221752-portal-war.json](./221752-portal-war.json) |
 | Portal with RTX | 218277 | [218277-portal-with-rtx.json](./218277-portal-with-rtx.json) |
+| Portal: Alive & Kicking | 322166 | [322166-portal-alive-and-kicking.json](./322166-portal-alive-and-kicking.json) |
+| Portal: Ambition | 322167 | [322167-portal-ambition.json](./322167-portal-ambition.json) |
 | Portal: Companion Collection | 191406 | [191406-portal-companion-collection.json](./191406-portal-companion-collection.json) |
 | Portal: Forever Testing | 208407 | [208407-portal-forever-testing.json](./208407-portal-forever-testing.json) |
 | Portal: Google Translate Edition | 313478 | [313478-portal-google-translate-edition.json](./313478-portal-google-translate-edition.json) |
+| Portal: Lost in Aperture | 322171 | [322171-portal-lost-in-aperture.json](./322171-portal-lost-in-aperture.json) |
 | Portal: Prelude | 136390 | [136390-portal-prelude.json](./136390-portal-prelude.json) |
+| Portal: Singularity Collapse | 322172 | [322172-portal-singularity-collapse.json](./322172-portal-singularity-collapse.json) |
 | Portal: Still Alive For PC | 136389 | [136389-portal-still-alive-for-pc.json](./136389-portal-still-alive-for-pc.json) |
+| Portal: System Failure | 322169 | [322169-portal-system-failure.json](./322169-portal-system-failure.json) |
 | Portal: The Flash Version | 11280 | [11280-portal-the-flash-version.json](./11280-portal-the-flash-version.json) |
 | Portalnauts | 60589 | [60589-portalnauts.json](./60589-portalnauts.json) |
 | PortalOne Arcade | 181305 | [181305-portalone-arcade.json](./181305-portalone-arcade.json) |
@@ -4232,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrplate | 372987 | [372987-purrplate.json](./372987-purrplate.json) |
 | Purrrfect Love | 204066 | [204066-purrrfect-love.json](./204066-purrrfect-love.json) |
 | Purrrification | 365161 | [365161-purrrification.json](./365161-purrrification.json) |
+| Purrrifiers: Cleaning Chaos | 322196 | [322196-purrrifiers-cleaning-chaos.json](./322196-purrrifiers-cleaning-chaos.json) |
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
 | Purumui Purumui | 143677 | [143677-purumui-purumui.json](./143677-purumui-purumui.json) |
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
