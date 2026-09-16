@@ -1315,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Jr. | 351732 | [351732-tetris-jr.json](./351732-tetris-jr.json) |
 | Tetris Keyring Arcade | 234080 | [234080-tetris-keyring-arcade.json](./234080-tetris-keyring-arcade.json) |
 | Tetris Kiwamemichi | 137623 | [137623-tetris-kiwamemichi.json](./137623-tetris-kiwamemichi.json) |
+| Tetris Kuromi Sanrio Key Chain Game Console | 321551 | [321551-tetris-kuromi-sanrio-key-chain-game-console.json](./321551-tetris-kuromi-sanrio-key-chain-game-console.json) |
 | Tetris MicroCard | 234081 | [234081-tetris-microcard.json](./234081-tetris-microcard.json) |
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
 | Tetris Plus | 20712 | [20712-tetris-plus.json](./20712-tetris-plus.json) |
@@ -3001,8 +3002,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIII: Nests Style Kyo | 404922 | [404922-the-king-of-fighters-xiii-nests-style-kyo.json](./404922-the-king-of-fighters-xiii-nests-style-kyo.json) |
 | The King of Fighters XIV | 18814 | [18814-the-king-of-fighters-xiv.json](./18814-the-king-of-fighters-xiv.json) |
 | The King of Fighters XIV Steam Edition | 36636 | [36636-the-king-of-fighters-xiv-steam-edition.json](./36636-the-king-of-fighters-xiv-steam-edition.json) |
+| The King of Fighters XIV: Blue Mary | 321571 | [321571-the-king-of-fighters-xiv-blue-mary.json](./321571-the-king-of-fighters-xiv-blue-mary.json) |
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
+| The King of Fighters XIV: Heidern | 321570 | [321570-the-king-of-fighters-xiv-heidern.json](./321570-the-king-of-fighters-xiv-heidern.json) |
+| The King of Fighters XIV: Najd | 321572 | [321572-the-king-of-fighters-xiv-najd.json](./321572-the-king-of-fighters-xiv-najd.json) |
 | The King Of FIghters XIV: Nightmare Geese Costume | 338177 | [338177-the-king-of-fighters-xiv-nightmare-geese-costume.json](./338177-the-king-of-fighters-xiv-nightmare-geese-costume.json) |
+| The King of Fighters XIV: Oswald | 321569 | [321569-the-king-of-fighters-xiv-oswald.json](./321569-the-king-of-fighters-xiv-oswald.json) |
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
@@ -3506,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
 | The Memory Library | 414404 | [414404-the-memory-library.json](./414404-the-memory-library.json) |
 | The Memory of Eldurim | 16905 | [16905-the-memory-of-eldurim.json](./16905-the-memory-of-eldurim.json) |
+| The Memory Thieves | 321599 | [321599-the-memory-thieves.json](./321599-the-memory-thieves.json) |
 | The Mercer Slough and You | 145622 | [145622-the-mercer-slough-and-you.json](./145622-the-mercer-slough-and-you.json) |
 | The Mercury Man | 80879 | [80879-the-mercury-man.json](./80879-the-mercury-man.json) |
 | The Mermaid Mask | 279369 | [279369-the-mermaid-mask.json](./279369-the-mermaid-mask.json) |
