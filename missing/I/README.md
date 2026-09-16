@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I-N-K | 229665 | [229665-i-n-k.json](./229665-i-n-k.json) |
 | I-War | 40820 | [40820-i-war.json](./40820-i-war.json) |
 | I, Ball II | 38927 | [38927-i-ball-ii.json](./38927-i-ball-ii.json) |
+| I, Chatbot: Aisylum | 290511 | [290511-i-chatbot-aisylum.json](./290511-i-chatbot-aisylum.json) |
 | I.C.O. | 178660 | [178660-i-c-o.json](./178660-i-c-o.json) |
 | I.G.I.-2: Covert Strike | 8559 | [8559-i-g-i-2-covert-strike.json](./8559-i-g-i-2-covert-strike.json) |
 | I.H.A.S | 224773 | [224773-i-h-a-s.json](./224773-i-h-a-s.json) |
@@ -334,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idiot Test | 122436 | [122436-idiot-test.json](./122436-idiot-test.json) |
 | Idle Acorns | 365117 | [365117-idle-acorns.json](./365117-idle-acorns.json) |
 | Idle Adventure | 75814 | [75814-idle-adventure.json](./75814-idle-adventure.json) |
+| Idle Animal Anatomy | 290515 | [290515-idle-animal-anatomy.json](./290515-idle-animal-anatomy.json) |
 | Idle Anomaly: Alien Control | 244998 | [244998-idle-anomaly-alien-control.json](./244998-idle-anomaly-alien-control.json) |
 | Idle Aqua Driller | 407342 | [407342-idle-aqua-driller.json](./407342-idle-aqua-driller.json) |
 | Idle Arcade Tycoon | 214171 | [214171-idle-arcade-tycoon.json](./214171-idle-arcade-tycoon.json) |
@@ -1444,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
 | IOI Collection | 154503 | [154503-ioi-collection.json](./154503-ioi-collection.json) |
 | Ion Shift | 257941 | [257941-ion-shift.json](./257941-ion-shift.json) |
+| Ion.A | 290541 | [290541-ion-a.json](./290541-ion-a.json) |
 | IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
 | Ionscape | 240199 | [240199-ionscape.json](./240199-ionscape.json) |
 | Ioretin | 349848 | [349848-ioretin.json](./349848-ioretin.json) |
