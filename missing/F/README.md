@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
 | Final Fantasy | 271227 | [271227-final-fantasy.json](./271227-final-fantasy.json) |
+| Final Fantasy | 286674 | [286674-final-fantasy.json](./286674-final-fantasy.json) |
 | Final Fantasy Agito | 7400 | [7400-final-fantasy-agito.json](./7400-final-fantasy-agito.json) |
 | Final Fantasy Anthology | 423 | [423-final-fantasy-anthology.json](./423-final-fantasy-anthology.json) |
 | Final Fantasy Anthology Collector's Package | 89874 | [89874-final-fantasy-anthology-collectors-package.json](./89874-final-fantasy-anthology-collectors-package.json) |
@@ -1840,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fizzy Factory | 262070 | [262070-fizzy-factory.json](./262070-fizzy-factory.json) |
 | Fjord battle racing | 50523 | [50523-fjord-battle-racing.json](./50523-fjord-battle-racing.json) |
 | FL Frisky Tom | 300009 | [300009-fl-frisky-tom.json](./300009-fl-frisky-tom.json) |
+| FL Tron | 286629 | [286629-fl-tron.json](./286629-fl-tron.json) |
 | Fl337 | 34361 | [34361-fl337.json](./34361-fl337.json) |
 | Flag Clicker | 304375 | [304375-flag-clicker.json](./304375-flag-clicker.json) |
 | Flag Color Number: Painting and Coloring | 147382 | [147382-flag-color-number-painting-and-coloring.json](./147382-flag-color-number-painting-and-coloring.json) |
@@ -1907,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaregate Network | 325286 | [325286-flaregate-network.json](./325286-flaregate-network.json) |
 | Flash and Die | 391167 | [391167-flash-and-die.json](./391167-flash-and-die.json) |
 | Flash Cat | 322349 | [322349-flash-cat.json](./322349-flash-cat.json) |
+| Flash Cycle 2 | 286631 | [286631-flash-cycle-2.json](./286631-flash-cycle-2.json) |
 | Flashback Legend | 49378 | [49378-flashback-legend.json](./49378-flashback-legend.json) |
 | Flashbound | 381023 | [381023-flashbound.json](./381023-flashbound.json) |
 | Flashcard Clash | 25734 | [25734-flashcard-clash.json](./25734-flashcard-clash.json) |
