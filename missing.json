@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T21:04:11.157Z",
-  "total_missing": 79562,
+  "generated_at": "2026-09-16T21:18:47.994Z",
+  "total_missing": 79612,
   "games": [
     {
       "igdb_id": 306086,
@@ -12036,6 +12036,11 @@
       "igdb_id": 15571,
       "game_name": "Andromeda Mission",
       "file": "missing/A/15571-andromeda-mission.json"
+    },
+    {
+      "igdb_id": 292695,
+      "game_name": "Andromeda One",
+      "file": "missing/A/292695-andromeda-one.json"
     },
     {
       "igdb_id": 265420,
@@ -25108,6 +25113,11 @@
       "file": "missing/B/235967-baker-business-3.json"
     },
     {
+      "igdb_id": 292692,
+      "game_name": "Bakery Magnate: Beginning",
+      "file": "missing/B/292692-bakery-magnate-beginning.json"
+    },
+    {
       "igdb_id": 338187,
       "game_name": "Bakery Shop Match Up",
       "file": "missing/B/338187-bakery-shop-match-up.json"
@@ -31173,6 +31183,11 @@
       "file": "missing/B/211430-beauty-and-the-beast.json"
     },
     {
+      "igdb_id": 292649,
+      "game_name": "Beauty and the Beast",
+      "file": "missing/B/292649-beauty-and-the-beast.json"
+    },
+    {
       "igdb_id": 357874,
       "game_name": "Beauty Jigsaw: Image Pack",
       "file": "missing/B/357874-beauty-jigsaw-image-pack.json"
@@ -31271,6 +31286,11 @@
       "igdb_id": 313125,
       "game_name": "Bed Bounce",
       "file": "missing/B/313125-bed-bounce.json"
+    },
+    {
+      "igdb_id": 292680,
+      "game_name": "Bed Lying Simulator: Girlfriend Experience",
+      "file": "missing/B/292680-bed-lying-simulator-girlfriend-experience.json"
     },
     {
       "igdb_id": 145648,
@@ -46233,6 +46253,11 @@
       "file": "missing/B/317448-buried-memories.json"
     },
     {
+      "igdb_id": 292650,
+      "game_name": "Burlesque",
+      "file": "missing/B/292650-burlesque.json"
+    },
+    {
       "igdb_id": 311118,
       "game_name": "Burn",
       "file": "missing/B/311118-burn.json"
@@ -56743,6 +56768,11 @@
       "file": "missing/C/349383-choppy-cuts.json"
     },
     {
+      "igdb_id": 292685,
+      "game_name": "Chords Enchanter",
+      "file": "missing/C/292685-chords-enchanter.json"
+    },
+    {
       "igdb_id": 245031,
       "game_name": "Choro Q",
       "file": "missing/C/245031-choro-q.json"
@@ -61636,6 +61666,11 @@
       "igdb_id": 130901,
       "game_name": "Colonist",
       "file": "missing/C/130901-colonist.json"
+    },
+    {
+      "igdb_id": 292687,
+      "game_name": "Colonization Simulator",
+      "file": "missing/C/292687-colonization-simulator.json"
     },
     {
       "igdb_id": 244468,
@@ -70026,6 +70061,11 @@
       "igdb_id": 213029,
       "game_name": "Cryptmaster",
       "file": "missing/C/213029-cryptmaster.json"
+    },
+    {
+      "igdb_id": 292683,
+      "game_name": "Crypto Crisis: Education Edition",
+      "file": "missing/C/292683-crypto-crisis-education-edition.json"
     },
     {
       "igdb_id": 335695,
@@ -106783,6 +106823,11 @@
       "file": "missing/E/249187-eye-of-saccharine.json"
     },
     {
+      "igdb_id": 292686,
+      "game_name": "Eye of the Beholder",
+      "file": "missing/E/292686-eye-of-the-beholder.json"
+    },
+    {
       "igdb_id": 393659,
       "game_name": "Eye of the Match",
       "file": "missing/E/393659-eye-of-the-match.json"
@@ -111548,6 +111593,11 @@
       "file": "missing/F/360573-female-swordsman.json"
     },
     {
+      "igdb_id": 292646,
+      "game_name": "Fembot Jigsaw",
+      "file": "missing/F/292646-fembot-jigsaw.json"
+    },
+    {
       "igdb_id": 219295,
       "game_name": "Femboy Bangers 2",
       "file": "missing/F/219295-femboy-bangers-2.json"
@@ -115223,6 +115273,11 @@
       "file": "missing/F/25744-fishing-paradise-3d.json"
     },
     {
+      "igdb_id": 292673,
+      "game_name": "Fishing Planet: Sport Kayak Pack",
+      "file": "missing/F/292673-fishing-planet-sport-kayak-pack.json"
+    },
+    {
       "igdb_id": 346157,
       "game_name": "Fishing Pond Simulator",
       "file": "missing/F/346157-fishing-pond-simulator.json"
@@ -118498,6 +118553,11 @@
       "file": "missing/F/320370-food-courier-bike-adventure.json"
     },
     {
+      "igdb_id": 292682,
+      "game_name": "Food Decisions",
+      "file": "missing/F/292682-food-decisions.json"
+    },
+    {
       "igdb_id": 316420,
       "game_name": "Food Delivery Simulator",
       "file": "missing/F/316420-food-delivery-simulator.json"
@@ -120461,6 +120521,11 @@
       "igdb_id": 305542,
       "game_name": "Forza Motorsport: 2016 Ligier #11 Eurointernational JS P3",
       "file": "missing/F/305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json"
+    },
+    {
+      "igdb_id": 292648,
+      "game_name": "Forza Motorsport: 2018 Cadillac #57 TA CTS-V",
+      "file": "missing/F/292648-forza-motorsport-2018-cadillac-57-ta-cts-v.json"
     },
     {
       "igdb_id": 285479,
@@ -129656,6 +129721,11 @@
       "igdb_id": 371319,
       "game_name": "Ghostrunner II: Anniversary Pack",
       "file": "missing/G/371319-ghostrunner-ii-anniversary-pack.json"
+    },
+    {
+      "igdb_id": 292679,
+      "game_name": "Ghostrunner II: Dragon Pack",
+      "file": "missing/G/292679-ghostrunner-ii-dragon-pack.json"
     },
     {
       "igdb_id": 371318,
@@ -146023,6 +146093,11 @@
       "file": "missing/H/127334-hero-must-die-again.json"
     },
     {
+      "igdb_id": 292647,
+      "game_name": "Hero of Fate: Darkness Land",
+      "file": "missing/H/292647-hero-of-fate-darkness-land.json"
+    },
+    {
       "igdb_id": 351679,
       "game_name": "Hero of Law",
       "file": "missing/H/351679-hero-of-law.json"
@@ -153856,6 +153931,11 @@
       "igdb_id": 253930,
       "game_name": "Hunt: Showdown 1896 - Myth of the Moors",
       "file": "missing/H/253930-hunt-showdown-1896-myth-of-the-moors.json"
+    },
+    {
+      "igdb_id": 292675,
+      "game_name": "Hunt: Showdown 1896 - Northern Justice",
+      "file": "missing/H/292675-hunt-showdown-1896-northern-justice.json"
     },
     {
       "igdb_id": 296920,
@@ -179988,6 +180068,11 @@
       "file": "missing/L/367998-learn-programming-python-retro.json"
     },
     {
+      "igdb_id": 292690,
+      "game_name": "Learn Spanish VR",
+      "file": "missing/L/292690-learn-spanish-vr.json"
+    },
+    {
       "igdb_id": 371919,
       "game_name": "Learn Spanish! Easy Vocabulary",
       "file": "missing/L/371919-learn-spanish-easy-vocabulary.json"
@@ -186466,6 +186551,11 @@
       "igdb_id": 247510,
       "game_name": "Looking for Aliens: Collector's Edition",
       "file": "missing/L/247510-looking-for-aliens-collectors-edition.json"
+    },
+    {
+      "igdb_id": 292678,
+      "game_name": "Looking For Cats In a Badly Drawn Forest: Extra Content",
+      "file": "missing/L/292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json"
     },
     {
       "igdb_id": 316653,
@@ -208656,6 +208746,11 @@
       "igdb_id": 223479,
       "game_name": "Mojo Melee",
       "file": "missing/M/223479-mojo-melee.json"
+    },
+    {
+      "igdb_id": 292684,
+      "game_name": "Mojo XXX",
+      "file": "missing/M/292684-mojo-xxx.json"
     },
     {
       "igdb_id": 119706,
@@ -233823,6 +233918,11 @@
       "file": "missing/O/183516-orkicidium.json"
     },
     {
+      "igdb_id": 292691,
+      "game_name": "Orlando Theme Park VR",
+      "file": "missing/O/292691-orlando-theme-park-vr.json"
+    },
+    {
       "igdb_id": 60506,
       "game_name": "Orly's Draw-A-Story",
       "file": "missing/O/60506-orlys-draw-a-story.json"
@@ -234356,6 +234456,16 @@
       "igdb_id": 153421,
       "game_name": "Oubey VR: Cosmic Voyage",
       "file": "missing/O/153421-oubey-vr-cosmic-voyage.json"
+    },
+    {
+      "igdb_id": 292688,
+      "game_name": "Oubey VR: Reise der Monaden",
+      "file": "missing/O/292688-oubey-vr-reise-der-monaden.json"
+    },
+    {
+      "igdb_id": 292693,
+      "game_name": "Oubey VR: Samurai",
+      "file": "missing/O/292693-oubey-vr-samurai.json"
     },
     {
       "igdb_id": 2869,
@@ -235626,6 +235736,11 @@
       "igdb_id": 293403,
       "game_name": "OverDrift Festival: Exclusive Cars Pack #2",
       "file": "missing/O/293403-overdrift-festival-exclusive-cars-pack-2.json"
+    },
+    {
+      "igdb_id": 292672,
+      "game_name": "OverDrift Festival: Exclusive Cars Pack#1",
+      "file": "missing/O/292672-overdrift-festival-exclusive-cars-pack-1.json"
     },
     {
       "igdb_id": 203565,
@@ -253333,6 +253448,11 @@
       "file": "missing/P/100726-president-pig.json"
     },
     {
+      "igdb_id": 292689,
+      "game_name": "Presidential Running Games",
+      "file": "missing/P/292689-presidential-running-games.json"
+    },
+    {
       "igdb_id": 88242,
       "game_name": "PreSim",
       "file": "missing/P/88242-presim.json"
@@ -270138,6 +270258,11 @@
       "file": "missing/R/277830-ride-5-dreamers-garage-pack.json"
     },
     {
+      "igdb_id": 292671,
+      "game_name": "Ride 5: Free Pack 05",
+      "file": "missing/R/292671-ride-5-free-pack-05.json"
+    },
+    {
       "igdb_id": 293410,
       "game_name": "Ride 5: Free Pack 06",
       "file": "missing/R/293410-ride-5-free-pack-06.json"
@@ -278403,6 +278528,11 @@
       "file": "missing/S/150115-saiaku-tantei-kanojo.json"
     },
     {
+      "igdb_id": 292674,
+      "game_name": "SaiBorRai",
+      "file": "missing/S/292674-saiborrai.json"
+    },
+    {
       "igdb_id": 302503,
       "game_name": "Saihai no Yukue",
       "file": "missing/S/302503-saihai-no-yukue.json"
@@ -278841,6 +278971,11 @@
       "igdb_id": 100216,
       "game_name": "Sakura Day 2 Mahjong",
       "file": "missing/S/100216-sakura-day-2-mahjong.json"
+    },
+    {
+      "igdb_id": 292694,
+      "game_name": "Sakura Dimensions",
+      "file": "missing/S/292694-sakura-dimensions.json"
     },
     {
       "igdb_id": 127212,
@@ -303223,6 +303358,11 @@
       "file": "missing/S/294265-space-combat.json"
     },
     {
+      "igdb_id": 292677,
+      "game_name": "Space Combat Simulator",
+      "file": "missing/S/292677-space-combat-simulator.json"
+    },
+    {
       "igdb_id": 255726,
       "game_name": "Space Combat: Galaxy Wars",
       "file": "missing/S/255726-space-combat-galaxy-wars.json"
@@ -325136,6 +325276,11 @@
       "igdb_id": 276159,
       "game_name": "Synthetic Soul",
       "file": "missing/S/276159-synthetic-soul.json"
+    },
+    {
+      "igdb_id": 292676,
+      "game_name": "Synthetic Soul 2",
+      "file": "missing/S/292676-synthetic-soul-2.json"
     },
     {
       "igdb_id": 310736,
@@ -349998,6 +350143,11 @@
       "file": "missing/T/125414-the-wager.json"
     },
     {
+      "igdb_id": 292681,
+      "game_name": "The Waifu Game",
+      "file": "missing/T/292681-the-waifu-game.json"
+    },
+    {
       "igdb_id": 385062,
       "game_name": "The Wailing of the Forest",
       "file": "missing/T/385062-the-wailing-of-the-forest.json"
@@ -362888,6 +363038,11 @@
       "file": "missing/T/205037-trainz-plus-cfr-b-26-26-098.json"
     },
     {
+      "igdb_id": 292659,
+      "game_name": "Trainz Plus: CFR Calatori ABmee 36-16 038",
+      "file": "missing/T/292659-trainz-plus-cfr-calatori-abmee-36-16-038.json"
+    },
+    {
       "igdb_id": 205043,
       "game_name": "Trainz Plus: CFR Calatori B 26-26 064",
       "file": "missing/T/205043-trainz-plus-cfr-calatori-b-26-26-064.json"
@@ -362896,6 +363051,26 @@
       "igdb_id": 205046,
       "game_name": "Trainz Plus: CFR Calatori B 26-26 186",
       "file": "missing/T/205046-trainz-plus-cfr-calatori-b-26-26-186.json"
+    },
+    {
+      "igdb_id": 292658,
+      "game_name": "Trainz Plus: CFR Calatori BDmee 84-16 002",
+      "file": "missing/T/292658-trainz-plus-cfr-calatori-bdmee-84-16-002.json"
+    },
+    {
+      "igdb_id": 292660,
+      "game_name": "Trainz Plus: CFR Calatori Bmee 26-16 096",
+      "file": "missing/T/292660-trainz-plus-cfr-calatori-bmee-26-16-096.json"
+    },
+    {
+      "igdb_id": 292657,
+      "game_name": "Trainz Plus: CFR Modernised Doubledecker Pack No. 1",
+      "file": "missing/T/292657-trainz-plus-cfr-modernised-doubledecker-pack-no-1.json"
+    },
+    {
+      "igdb_id": 292661,
+      "game_name": "Trainz Plus: CFR Modernised Doubledecker Pack No. 2",
+      "file": "missing/T/292661-trainz-plus-cfr-modernised-doubledecker-pack-no-2.json"
     },
     {
       "igdb_id": 205542,
@@ -362926,6 +363101,11 @@
       "igdb_id": 205560,
       "game_name": "Trainz Plus: ECML Edinburgh - Dundee",
       "file": "missing/T/205560-trainz-plus-ecml-edinburgh-dundee.json"
+    },
+    {
+      "igdb_id": 292663,
+      "game_name": "Trainz Plus: Ffestiniog Railway Alco 1265 Mountaineer",
+      "file": "missing/T/292663-trainz-plus-ffestiniog-railway-alco-1265-mountaineer.json"
     },
     {
       "igdb_id": 205550,
@@ -363011,6 +363191,11 @@
       "igdb_id": 205546,
       "game_name": "Trainz Plus: Pro Train - Class 68 TPN",
       "file": "missing/T/205546-trainz-plus-pro-train-class-68-tpn.json"
+    },
+    {
+      "igdb_id": 292662,
+      "game_name": "Trainz Plus: Pro Train - SD40-2 Loco Bundle 2",
+      "file": "missing/T/292662-trainz-plus-pro-train-sd40-2-loco-bundle-2.json"
     },
     {
       "igdb_id": 306105,
@@ -363113,9 +363298,34 @@
       "file": "missing/T/205038-trainz-railroad-simulator-2019-cfr-b-26-26-098.json"
     },
     {
+      "igdb_id": 292653,
+      "game_name": "Trainz Railroad Simulator 2019: CFR Calatori ABmee 36-16 038",
+      "file": "missing/T/292653-trainz-railroad-simulator-2019-cfr-calatori-abmee-36-16-038.json"
+    },
+    {
+      "igdb_id": 292652,
+      "game_name": "Trainz Railroad Simulator 2019: CFR Calatori BDmee 84-16 002",
+      "file": "missing/T/292652-trainz-railroad-simulator-2019-cfr-calatori-bdmee-84-16-002.json"
+    },
+    {
+      "igdb_id": 292664,
+      "game_name": "Trainz Railroad Simulator 2019: CFR Calatori Bmee 26-16 096",
+      "file": "missing/T/292664-trainz-railroad-simulator-2019-cfr-calatori-bmee-26-16-096.json"
+    },
+    {
       "igdb_id": 227282,
       "game_name": "Trainz Railroad Simulator 2019: CFR Gorlitz Doubledecker Pack",
       "file": "missing/T/227282-trainz-railroad-simulator-2019-cfr-gorlitz-doubledecker-pack.json"
+    },
+    {
+      "igdb_id": 292651,
+      "game_name": "Trainz Railroad Simulator 2019: CFR Modernised Doubledecker Pack No. 1",
+      "file": "missing/T/292651-trainz-railroad-simulator-2019-cfr-modernised-doubledecker-pack-no-1.json"
+    },
+    {
+      "igdb_id": 292665,
+      "game_name": "Trainz Railroad Simulator 2019: CFR Modernised Doubledecker Pack No. 2",
+      "file": "missing/T/292665-trainz-railroad-simulator-2019-cfr-modernised-doubledecker-pack-no-2.json"
     },
     {
       "igdb_id": 190711,
@@ -363188,6 +363398,11 @@
       "file": "missing/T/227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json"
     },
     {
+      "igdb_id": 292666,
+      "game_name": "Trainz Railroad Simulator 2019: Pro Train - SD40-2 Loco Bundle 2",
+      "file": "missing/T/292666-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-2.json"
+    },
+    {
       "igdb_id": 212242,
       "game_name": "Trainz Railroad Simulator 2019: Pro Train - TGV Duplex",
       "file": "missing/T/212242-trainz-railroad-simulator-2019-pro-train-tgv-duplex.json"
@@ -363243,6 +363458,11 @@
       "file": "missing/T/205039-trainz-railroad-simulator-2022-cfr-b-26-26-098.json"
     },
     {
+      "igdb_id": 292656,
+      "game_name": "Trainz Railroad Simulator 2022: CFR Calatori ABmee 36-16 038",
+      "file": "missing/T/292656-trainz-railroad-simulator-2022-cfr-calatori-abmee-36-16-038.json"
+    },
+    {
       "igdb_id": 205044,
       "game_name": "Trainz Railroad Simulator 2022: CFR Calatori B 26-26 064",
       "file": "missing/T/205044-trainz-railroad-simulator-2022-cfr-calatori-b-26-26-064.json"
@@ -363251,6 +363471,31 @@
       "igdb_id": 205045,
       "game_name": "Trainz Railroad Simulator 2022: CFR Calatori B 26-26 186",
       "file": "missing/T/205045-trainz-railroad-simulator-2022-cfr-calatori-b-26-26-186.json"
+    },
+    {
+      "igdb_id": 292655,
+      "game_name": "Trainz Railroad Simulator 2022: CFR Calatori BDmee 84-16 002",
+      "file": "missing/T/292655-trainz-railroad-simulator-2022-cfr-calatori-bdmee-84-16-002.json"
+    },
+    {
+      "igdb_id": 292670,
+      "game_name": "Trainz Railroad Simulator 2022: CFR Calatori Bmee 26-16 096",
+      "file": "missing/T/292670-trainz-railroad-simulator-2022-cfr-calatori-bmee-26-16-096.json"
+    },
+    {
+      "igdb_id": 292654,
+      "game_name": "Trainz Railroad Simulator 2022: CFR Modernised Doubledecker Pack No. 1",
+      "file": "missing/T/292654-trainz-railroad-simulator-2022-cfr-modernised-doubledecker-pack-no-1.json"
+    },
+    {
+      "igdb_id": 292669,
+      "game_name": "Trainz Railroad Simulator 2022: CFR Modernised Doubledecker Pack No. 2",
+      "file": "missing/T/292669-trainz-railroad-simulator-2022-cfr-modernised-doubledecker-pack-no-2.json"
+    },
+    {
+      "igdb_id": 292668,
+      "game_name": "Trainz Railroad Simulator 2022: Ffestiniog Railway Alco 1265 Mountaineer",
+      "file": "missing/T/292668-trainz-railroad-simulator-2022-ffestiniog-railway-alco-1265-mountaineer.json"
     },
     {
       "igdb_id": 285474,
@@ -363276,6 +363521,11 @@
       "igdb_id": 227275,
       "game_name": "Trainz Railroad Simulator 2022: Pro Train - DB Class 44",
       "file": "missing/T/227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json"
+    },
+    {
+      "igdb_id": 292667,
+      "game_name": "Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 2",
+      "file": "missing/T/292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json"
     },
     {
       "igdb_id": 212241,
