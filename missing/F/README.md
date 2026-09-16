@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
 | Fairvalley VR | 116401 | [116401-fairvalley-vr.json](./116401-fairvalley-vr.json) |
+| Fairway to Hell | 310032 | [310032-fairway-to-hell.json](./310032-fairway-to-hell.json) |
 | Fairy | 94681 | [94681-fairy.json](./94681-fairy.json) |
 | Fairy 2 | 216800 | [216800-fairy-2.json](./216800-fairy-2.json) |
 | Fairy and Devil | 155577 | [155577-fairy-and-devil.json](./155577-fairy-and-devil.json) |
@@ -1122,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter's History 2 | 58791 | [58791-fighters-history-2.json](./58791-fighters-history-2.json) |
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
 | Fighters' Glory | 129700 | [129700-fighters-glory.json](./129700-fighters-glory.json) |
+| FightGirl | 310025 | [310025-fightgirl.json](./310025-fightgirl.json) |
 | Fightin' Spirit | 12096 | [12096-fightin-spirit.json](./12096-fightin-spirit.json) |
 | Fighting Box | 68657 | [68657-fighting-box.json](./68657-fighting-box.json) |
 | Fighting Clans | 130224 | [130224-fighting-clans.json](./130224-fighting-clans.json) |
@@ -1341,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find This Pixel Anomaly | 320982 | [320982-find-this-pixel-anomaly.json](./320982-find-this-pixel-anomaly.json) |
 | Find Us Cats | 315297 | [315297-find-us-cats.json](./315297-find-us-cats.json) |
 | Find with Seoul: Story Puzzle | 253385 | [253385-find-with-seoul-story-puzzle.json](./253385-find-with-seoul-story-puzzle.json) |
+| Find X | 310038 | [310038-find-x.json](./310038-find-x.json) |
 | Find Yer Treasure! | 176454 | [176454-find-yer-treasure.json](./176454-find-yer-treasure.json) |
 | Finders Reapers | 124210 | [124210-finders-reapers.json](./124210-finders-reapers.json) |
 | Finders, Keepers | 139457 | [139457-finders-keepers.json](./139457-finders-keepers.json) |
@@ -1801,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flain: Tao force & Cubes | 153433 | [153433-flain-tao-force-and-cubes.json](./153433-flain-tao-force-and-cubes.json) |
 | Flair | 391197 | [391197-flair.json](./391197-flair.json) |
 | Flairtender | 29635 | [29635-flairtender.json](./29635-flairtender.json) |
+| Flaky Love | 310039 | [310039-flaky-love.json](./310039-flaky-love.json) |
 | Flame Gunner | 267397 | [267397-flame-gunner.json](./267397-flame-gunner.json) |
 | Flame Man | 96014 | [96014-flame-man.json](./96014-flame-man.json) |
 | Flame of Recca | 49412 | [49412-flame-of-recca.json](./49412-flame-of-recca.json) |
@@ -2358,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Enigma | 258450 | [258450-for-enigma.json](./258450-for-enigma.json) |
 | For Eternity | 110309 | [110309-for-eternity.json](./110309-for-eternity.json) |
 | For God's Sake, Help Him! | 373647 | [373647-for-gods-sake-help-him.json](./373647-for-gods-sake-help-him.json) |
+| For Hell's Sake | 310027 | [310027-for-hells-sake.json](./310027-for-hells-sake.json) |
 | For Honor: Assassin's Creed Shadows Hero Skin Bundle | 408889 | [408889-for-honor-assassins-creed-shadows-hero-skin-bundle.json](./408889-for-honor-assassins-creed-shadows-hero-skin-bundle.json) |
 | For Honor: Eivor Wolf-Kissed – Berserker Hero Skin | 408890 | [408890-for-honor-eivor-wolf-kissed-berserker-hero-skin.json](./408890-for-honor-eivor-wolf-kissed-berserker-hero-skin.json) |
 | For Honor: Ezio Auditore – Peacekeeper Hero Skin | 305765 | [305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json](./305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json) |
@@ -2808,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstein: Beyond the Time | 103752 | [103752-frankenstein-beyond-the-time.json](./103752-frankenstein-beyond-the-time.json) |
 | Frankenstein: Birth of a Myth | 109569 | [109569-frankenstein-birth-of-a-myth.json](./109569-frankenstein-birth-of-a-myth.json) |
 | Frankenstein: The Village | 177050 | [177050-frankenstein-the-village.json](./177050-frankenstein-the-village.json) |
+| Frankie and Suede Private Detectives | 310028 | [310028-frankie-and-suede-private-detectives.json](./310028-frankie-and-suede-private-detectives.json) |
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
 | Franklin the Turtle | 49400 | [49400-franklin-the-turtle.json](./49400-franklin-the-turtle.json) |
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
