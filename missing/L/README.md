@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Fighters | 62670 | [62670-legend-of-fighters.json](./62670-legend-of-fighters.json) |
 | Legend of Frog | 327576 | [327576-legend-of-frog.json](./327576-legend-of-frog.json) |
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
+| Legend of Heroes: Three Kingdoms | 333603 | [333603-legend-of-heroes-three-kingdoms.json](./333603-legend-of-heroes-three-kingdoms.json) |
 | Legend of Kingdoms | 224020 | [224020-legend-of-kingdoms.json](./224020-legend-of-kingdoms.json) |
 | Legend of Kunoichi | 59368 | [59368-legend-of-kunoichi.json](./59368-legend-of-kunoichi.json) |
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
@@ -1524,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
 | Little Triangle | 29985 | [29985-little-triangle.json](./29985-little-triangle.json) |
 | Little Trouble on Tribuda Island | 236281 | [236281-little-trouble-on-tribuda-island.json](./236281-little-trouble-on-tribuda-island.json) |
+| Little Wings Deliveries | 333658 | [333658-little-wings-deliveries.json](./333658-little-wings-deliveries.json) |
 | Little Witch | 145613 | [145613-little-witch.json](./145613-little-witch.json) |
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
@@ -1842,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootbox Gungeon | 179162 | [179162-lootbox-gungeon.json](./179162-lootbox-gungeon.json) |
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
 | LootLite | 144919 | [144919-lootlite.json](./144919-lootlite.json) |
+| LootOnline | 333592 | [333592-lootonline.json](./333592-lootonline.json) |
 | LootSlime | 397710 | [397710-lootslime.json](./397710-lootslime.json) |
 | LooWarVR | 31838 | [31838-loowarvr.json](./31838-loowarvr.json) |
 | Looxi | 343248 | [343248-looxi.json](./343248-looxi.json) |
