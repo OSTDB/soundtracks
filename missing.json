@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T20:34:06.604Z",
-  "total_missing": 79462,
+  "generated_at": "2026-09-16T20:49:03.375Z",
+  "total_missing": 79512,
   "games": [
     {
       "igdb_id": 306086,
@@ -2413,6 +2413,16 @@
       "file": "missing/0-9/271481-4-hours.json"
     },
     {
+      "igdb_id": 293738,
+      "game_name": "4 in 1: Hudson",
+      "file": "missing/0-9/293738-4-in-1-hudson.json"
+    },
+    {
+      "igdb_id": 293735,
+      "game_name": "4 in 1: Nintendo",
+      "file": "missing/0-9/293735-4-in-1-nintendo.json"
+    },
+    {
       "igdb_id": 294841,
       "game_name": "4 in a Row",
       "file": "missing/0-9/294841-4-in-a-row.json"
@@ -3401,6 +3411,11 @@
       "igdb_id": 278426,
       "game_name": "A different summer",
       "file": "missing/A/278426-a-different-summer.json"
+    },
+    {
+      "igdb_id": 293739,
+      "game_name": "A Difficult Game About Rolling: ReUpRise",
+      "file": "missing/A/293739-a-difficult-game-about-rolling-reuprise.json"
     },
     {
       "igdb_id": 319388,
@@ -6286,6 +6301,11 @@
       "igdb_id": 320973,
       "game_name": "Age of Heroes II: Underground Horror",
       "file": "missing/A/320973-age-of-heroes-ii-underground-horror.json"
+    },
+    {
+      "igdb_id": 293731,
+      "game_name": "Age of Wonders 4: Expansion Pass",
+      "file": "missing/A/293731-age-of-wonders-4-expansion-pass.json"
     },
     {
       "igdb_id": 31784,
@@ -9631,6 +9651,11 @@
       "igdb_id": 340383,
       "game_name": "Alone in the Dark 2",
       "file": "missing/A/340383-alone-in-the-dark-2.json"
+    },
+    {
+      "igdb_id": 293759,
+      "game_name": "Alone in the Dark: Digital Deluxe Edition",
+      "file": "missing/A/293759-alone-in-the-dark-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 266501,
@@ -69143,6 +69168,11 @@
       "file": "missing/C/243104-crossout-cleaner-starter-pack.json"
     },
     {
+      "igdb_id": 293760,
+      "game_name": "Crossout: Electric beetle",
+      "file": "missing/C/293760-crossout-electric-beetle.json"
+    },
+    {
       "igdb_id": 331996,
       "game_name": "Crossout: Horsemen of Apocalypse - Famine",
       "file": "missing/C/331996-crossout-horsemen-of-apocalypse-famine.json"
@@ -69166,6 +69196,11 @@
       "igdb_id": 235767,
       "game_name": "Crossout: Savior",
       "file": "missing/C/235767-crossout-savior.json"
+    },
+    {
+      "igdb_id": 293766,
+      "game_name": "Crossout: Steel shield",
+      "file": "missing/C/293766-crossout-steel-shield.json"
     },
     {
       "igdb_id": 379890,
@@ -74621,6 +74656,11 @@
       "igdb_id": 410975,
       "game_name": "Dark Earth",
       "file": "missing/D/410975-dark-earth.json"
+    },
+    {
+      "igdb_id": 293776,
+      "game_name": "Dark Echo",
+      "file": "missing/D/293776-dark-echo.json"
     },
     {
       "igdb_id": 359526,
@@ -91168,6 +91208,11 @@
       "file": "missing/D/43265-dragon-sisters.json"
     },
     {
+      "igdb_id": 293747,
+      "game_name": "Dragon Slayer",
+      "file": "missing/D/293747-dragon-slayer.json"
+    },
+    {
       "igdb_id": 80519,
       "game_name": "Dragon Slayer",
       "file": "missing/D/80519-dragon-slayer.json"
@@ -101531,6 +101576,31 @@
       "igdb_id": 43155,
       "game_name": "Enlightenment",
       "file": "missing/E/43155-enlightenment.json"
+    },
+    {
+      "igdb_id": 293769,
+      "game_name": "Enlisted: Calliope Squad",
+      "file": "missing/E/293769-enlisted-calliope-squad.json"
+    },
+    {
+      "igdb_id": 293772,
+      "game_name": "Enlisted: Fedorov MG Squad",
+      "file": "missing/E/293772-enlisted-fedorov-mg-squad.json"
+    },
+    {
+      "igdb_id": 293771,
+      "game_name": "Enlisted: M3A1 Squad",
+      "file": "missing/E/293771-enlisted-m3a1-squad.json"
+    },
+    {
+      "igdb_id": 293767,
+      "game_name": "Enlisted: Nambu Type 1 Squad",
+      "file": "missing/E/293767-enlisted-nambu-type-1-squad.json"
+    },
+    {
+      "igdb_id": 293770,
+      "game_name": "Enlisted: Sherman IC \"Firefly\" Squad",
+      "file": "missing/E/293770-enlisted-sherman-ic-firefly-squad.json"
     },
     {
       "igdb_id": 175880,
@@ -113023,6 +113093,16 @@
       "file": "missing/F/386-final-fantasy-xiv-online.json"
     },
     {
+      "igdb_id": 293775,
+      "game_name": "Final Fantasy XIV Online: Complete Edition",
+      "file": "missing/F/293775-final-fantasy-xiv-online-complete-edition.json"
+    },
+    {
+      "igdb_id": 293777,
+      "game_name": "Final Fantasy XIV Online: Starter Edition",
+      "file": "missing/F/293777-final-fantasy-xiv-online-starter-edition.json"
+    },
+    {
       "igdb_id": 41839,
       "game_name": "Final Fantasy XIV: A Realm Reborn - Collector's Edition",
       "file": "missing/F/41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json"
@@ -113988,6 +114068,16 @@
       "file": "missing/F/132224-fire-emblem-three-houses-cindered-shadows.json"
     },
     {
+      "igdb_id": 293729,
+      "game_name": "Fire Emblem: Three Houses - Expansion Pass",
+      "file": "missing/F/293729-fire-emblem-three-houses-expansion-pass.json"
+    },
+    {
+      "igdb_id": 293730,
+      "game_name": "Fire Emblem: Three Houses + Expansion Pass",
+      "file": "missing/F/293730-fire-emblem-three-houses-expansion-pass.json"
+    },
+    {
       "igdb_id": 141237,
       "game_name": "Fire Emblem: Vision Quest",
       "file": "missing/F/141237-fire-emblem-vision-quest.json"
@@ -114226,6 +114316,11 @@
       "igdb_id": 335254,
       "game_name": "Firefighting Simulator: Ignite",
       "file": "missing/F/335254-firefighting-simulator-ignite.json"
+    },
+    {
+      "igdb_id": 293743,
+      "game_name": "Firefleet",
+      "file": "missing/F/293743-firefleet.json"
     },
     {
       "igdb_id": 108671,
@@ -120698,6 +120793,11 @@
       "file": "missing/F/263503-fractal-glide.json"
     },
     {
+      "igdb_id": 293745,
+      "game_name": "Fractal Sailor",
+      "file": "missing/F/293745-fractal-sailor.json"
+    },
+    {
       "igdb_id": 121775,
       "game_name": "Fractalis",
       "file": "missing/F/121775-fractalis.json"
@@ -121531,6 +121631,11 @@
       "igdb_id": 103630,
       "game_name": "Freezeer",
       "file": "missing/F/103630-freezeer.json"
+    },
+    {
+      "igdb_id": 293750,
+      "game_name": "Freezing Knights",
+      "file": "missing/F/293750-freezing-knights.json"
     },
     {
       "igdb_id": 322551,
@@ -137226,6 +137331,11 @@
       "igdb_id": 2670,
       "game_name": "Guitar Hero II",
       "file": "missing/G/2670-guitar-hero-ii.json"
+    },
+    {
+      "igdb_id": 293740,
+      "game_name": "Guitar Hero II: Indonesia 2018",
+      "file": "missing/G/293740-guitar-hero-ii-indonesia-2018.json"
     },
     {
       "igdb_id": 360102,
@@ -154706,6 +154816,11 @@
       "igdb_id": 342046,
       "game_name": "Hyrax In The Rocks",
       "file": "missing/H/342046-hyrax-in-the-rocks.json"
+    },
+    {
+      "igdb_id": 293728,
+      "game_name": "Hyrule Warriors: Age of Calamity + Expansion Pass Bundle",
+      "file": "missing/H/293728-hyrule-warriors-age-of-calamity-expansion-pass-bundle.json"
     },
     {
       "igdb_id": 11193,
@@ -193863,6 +193978,11 @@
       "file": "missing/M/2710-mappy.json"
     },
     {
+      "igdb_id": 293754,
+      "game_name": "Mappy",
+      "file": "missing/M/293754-mappy.json"
+    },
+    {
       "igdb_id": 313132,
       "game_name": "Mappy",
       "file": "missing/M/313132-mappy.json"
@@ -205328,6 +205448,11 @@
       "file": "missing/M/416659-miner-2019er.json"
     },
     {
+      "igdb_id": 293746,
+      "game_name": "Miner 2049er",
+      "file": "missing/M/293746-miner-2049er.json"
+    },
+    {
       "igdb_id": 345471,
       "game_name": "Miner 2049er",
       "file": "missing/M/345471-miner-2049er.json"
@@ -211916,6 +212041,11 @@
       "igdb_id": 374166,
       "game_name": "Mot's 8-Ball Pool",
       "file": "missing/M/374166-mots-8-ball-pool.json"
+    },
+    {
+      "igdb_id": 293749,
+      "game_name": "Mot's Grand Prix",
+      "file": "missing/M/293749-mots-grand-prix.json"
     },
     {
       "igdb_id": 361768,
@@ -229823,6 +229953,11 @@
       "file": "missing/O/353282-olliolli-world-close-encounter-skate-deck.json"
     },
     {
+      "igdb_id": 293734,
+      "game_name": "OlliOlli World: Expansion Pass",
+      "file": "missing/O/293734-olliolli-world-expansion-pass.json"
+    },
+    {
       "igdb_id": 205034,
       "game_name": "OlliOlli World: Void Riders",
       "file": "missing/O/205034-olliolli-world-void-riders.json"
@@ -232526,6 +232661,11 @@
       "igdb_id": 152865,
       "game_name": "Operation F.A.T.E.",
       "file": "missing/O/152865-operation-f-a-t-e.json"
+    },
+    {
+      "igdb_id": 293744,
+      "game_name": "Operation Fireball",
+      "file": "missing/O/293744-operation-fireball.json"
     },
     {
       "igdb_id": 288,
@@ -243518,6 +243658,11 @@
       "file": "missing/P/362860-pickaxe-tower.json"
     },
     {
+      "igdb_id": 293778,
+      "game_name": "Picket Puzzle",
+      "file": "missing/P/293778-picket-puzzle.json"
+    },
+    {
       "igdb_id": 314264,
       "game_name": "Pickle",
       "file": "missing/P/314264-pickle.json"
@@ -250221,6 +250366,11 @@
       "igdb_id": 5691,
       "game_name": "Pole Position",
       "file": "missing/P/5691-pole-position.json"
+    },
+    {
+      "igdb_id": 293758,
+      "game_name": "Pole Position II",
+      "file": "missing/P/293758-pole-position-ii.json"
     },
     {
       "igdb_id": 342166,
@@ -261316,6 +261466,11 @@
       "igdb_id": 17442,
       "game_name": "Radiant Defense",
       "file": "missing/R/17442-radiant-defense.json"
+    },
+    {
+      "igdb_id": 293741,
+      "game_name": "Radiant Exodus",
+      "file": "missing/R/293741-radiant-exodus.json"
     },
     {
       "igdb_id": 233009,
@@ -282253,6 +282408,11 @@
       "file": "missing/S/297211-screen-wonders.json"
     },
     {
+      "igdb_id": 293733,
+      "game_name": "Screenbound",
+      "file": "missing/S/293733-screenbound.json"
+    },
+    {
       "igdb_id": 188603,
       "game_name": "ScreenPlay",
       "file": "missing/S/188603-screenplay.json"
@@ -283946,6 +284106,11 @@
       "igdb_id": 79259,
       "game_name": "Sega Vintage Collection: Alex Kidd & Co.",
       "file": "missing/S/79259-sega-vintage-collection-alex-kidd-and-co.json"
+    },
+    {
+      "igdb_id": 293742,
+      "game_name": "Sega World Drivers Championship",
+      "file": "missing/S/293742-sega-world-drivers-championship.json"
     },
     {
       "igdb_id": 46554,
@@ -286523,6 +286688,11 @@
       "file": "missing/S/237659-shadows-of-dungeon.json"
     },
     {
+      "igdb_id": 293751,
+      "game_name": "Shadows of Dunwich",
+      "file": "missing/S/293751-shadows-of-dunwich.json"
+    },
+    {
       "igdb_id": 227268,
       "game_name": "Shadows of Empires",
       "file": "missing/S/227268-shadows-of-empires.json"
@@ -286786,6 +286956,11 @@
       "igdb_id": 225671,
       "game_name": "Shall we date?: We the Girls",
       "file": "missing/S/225671-shall-we-date-we-the-girls.json"
+    },
+    {
+      "igdb_id": 293752,
+      "game_name": "Shallow End",
+      "file": "missing/S/293752-shallow-end.json"
     },
     {
       "igdb_id": 298187,
@@ -293473,6 +293648,11 @@
       "file": "missing/S/336626-sky-jumping.json"
     },
     {
+      "igdb_id": 293755,
+      "game_name": "Sky Kid",
+      "file": "missing/S/293755-sky-kid.json"
+    },
+    {
       "igdb_id": 54366,
       "game_name": "Sky Kingdoms",
       "file": "missing/S/54366-sky-kingdoms.json"
@@ -294886,6 +295066,11 @@
       "igdb_id": 16287,
       "game_name": "Slime Rancher",
       "file": "missing/S/16287-slime-rancher.json"
+    },
+    {
+      "igdb_id": 293761,
+      "game_name": "Slime Rancher Rainbow Bundle",
+      "file": "missing/S/293761-slime-rancher-rainbow-bundle.json"
     },
     {
       "igdb_id": 221159,
@@ -306556,6 +306741,11 @@
       "igdb_id": 382779,
       "game_name": "SpongeBob in Run For The Krusty Krab",
       "file": "missing/S/382779-spongebob-in-run-for-the-krusty-krab.json"
+    },
+    {
+      "igdb_id": 293737,
+      "game_name": "SpongeBob Laptop",
+      "file": "missing/S/293737-spongebob-laptop.json"
     },
     {
       "igdb_id": 294177,
@@ -331003,6 +331193,11 @@
       "file": "missing/T/318782-terraformers-megastructures.json"
     },
     {
+      "igdb_id": 293763,
+      "game_name": "Terraformers: New Frontiers Bundle",
+      "file": "missing/T/293763-terraformers-new-frontiers-bundle.json"
+    },
+    {
       "igdb_id": 271471,
       "game_name": "Terraformers: Supporter Edition",
       "file": "missing/T/271471-terraformers-supporter-edition.json"
@@ -334916,6 +335111,11 @@
       "igdb_id": 154510,
       "game_name": "The Coma 2: Vicious Sisters - Deluxe Edition",
       "file": "missing/T/154510-the-coma-2-vicious-sisters-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 293779,
+      "game_name": "The Coma 2B: Catacomb",
+      "file": "missing/T/293779-the-coma-2b-catacomb.json"
     },
     {
       "igdb_id": 324473,
@@ -339498,6 +339698,11 @@
       "file": "missing/T/262077-the-immortal-mayor-kingdom-of-women.json"
     },
     {
+      "igdb_id": 293756,
+      "game_name": "The Immortal Mayor: The Feather Kingdom",
+      "file": "missing/T/293756-the-immortal-mayor-the-feather-kingdom.json"
+    },
+    {
       "igdb_id": 62166,
       "game_name": "The Impossible Quiz",
       "file": "missing/T/62166-the-impossible-quiz.json"
@@ -344056,6 +344261,11 @@
       "igdb_id": 348309,
       "game_name": "The Outer Worlds 2: Premium Edition",
       "file": "missing/T/348309-the-outer-worlds-2-premium-edition.json"
+    },
+    {
+      "igdb_id": 293732,
+      "game_name": "The Outer Worlds: Expansion Pass",
+      "file": "missing/T/293732-the-outer-worlds-expansion-pass.json"
     },
     {
       "igdb_id": 239999,
@@ -355461,6 +355671,11 @@
       "igdb_id": 191816,
       "game_name": "Timruk",
       "file": "missing/T/191816-timruk.json"
+    },
+    {
+      "igdb_id": 293774,
+      "game_name": "Tin Can: Original Tracks",
+      "file": "missing/T/293774-tin-can-original-tracks.json"
     },
     {
       "igdb_id": 104677,
@@ -379453,6 +379668,11 @@
       "file": "missing/W/172187-war-theatre-blood-of-winter-beak-and-talon.json"
     },
     {
+      "igdb_id": 293764,
+      "game_name": "War Thunder - T-55AM-1 Pack",
+      "file": "missing/W/293764-war-thunder-t-55am-1-pack.json"
+    },
+    {
       "igdb_id": 316622,
       "game_name": "War Thunder: Ancient Helicopter Snail Bundle",
       "file": "missing/W/316622-war-thunder-ancient-helicopter-snail-bundle.json"
@@ -379471,6 +379691,11 @@
       "igdb_id": 336934,
       "game_name": "War Thunder: IJN Yamashiro Pack",
       "file": "missing/W/336934-war-thunder-ijn-yamashiro-pack.json"
+    },
+    {
+      "igdb_id": 293757,
+      "game_name": "War Thunder: IS-6 Pack",
+      "file": "missing/W/293757-war-thunder-is-6-pack.json"
     },
     {
       "igdb_id": 306492,
@@ -379496,6 +379721,11 @@
       "igdb_id": 306494,
       "game_name": "War Thunder: T-80U-E1 Bundle",
       "file": "missing/W/306494-war-thunder-t-80u-e1-bundle.json"
+    },
+    {
+      "igdb_id": 293762,
+      "game_name": "War Thunder: T29 Pack",
+      "file": "missing/W/293762-war-thunder-t29-pack.json"
     },
     {
       "igdb_id": 336937,
@@ -383636,6 +383866,11 @@
       "igdb_id": 95503,
       "game_name": "Whiplash",
       "file": "missing/W/95503-whiplash.json"
+    },
+    {
+      "igdb_id": 293768,
+      "game_name": "Whiplash Taxi Co",
+      "file": "missing/W/293768-whiplash-taxi-co.json"
     },
     {
       "igdb_id": 266486,
@@ -388598,6 +388833,11 @@
       "file": "missing/W/77961-world-of-tanks-generals.json"
     },
     {
+      "igdb_id": 293765,
+      "game_name": "World of Tanks: Advanced Marksman",
+      "file": "missing/W/293765-world-of-tanks-advanced-marksman.json"
+    },
+    {
       "igdb_id": 171010,
       "game_name": "World of Tanks: Blitz - Free Pack",
       "file": "missing/W/171010-world-of-tanks-blitz-free-pack.json"
@@ -388651,6 +388891,11 @@
       "igdb_id": 338220,
       "game_name": "World of Tanks: Modern Armor - Warlords Starter Pack",
       "file": "missing/W/338220-world-of-tanks-modern-armor-warlords-starter-pack.json"
+    },
+    {
+      "igdb_id": 293773,
+      "game_name": "World of Tanks: Modern Jumpstart",
+      "file": "missing/W/293773-world-of-tanks-modern-jumpstart.json"
     },
     {
       "igdb_id": 115673,
@@ -391586,6 +391831,11 @@
       "igdb_id": 40745,
       "game_name": "Yahtzee",
       "file": "missing/Y/40745-yahtzee.json"
+    },
+    {
+      "igdb_id": 293736,
+      "game_name": "Yahtzee Electronic",
+      "file": "missing/Y/293736-yahtzee-electronic.json"
     },
     {
       "igdb_id": 205809,
