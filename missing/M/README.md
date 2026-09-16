@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Machine Gun | 248684 | [248684-magic-machine-gun.json](./248684-magic-machine-gun.json) |
 | Magic Maho: Dream Runner | 374147 | [374147-magic-maho-dream-runner.json](./374147-magic-maho-dream-runner.json) |
 | Magic Market World | 415129 | [415129-magic-market-world.json](./415129-magic-market-world.json) |
+| Magic Math | 299266 | [299266-magic-math.json](./299266-magic-math.json) |
 | Magic Mirror Hall | 182985 | [182985-magic-mirror-hall.json](./182985-magic-mirror-hall.json) |
 | Magic MixUp | 58200 | [58200-magic-mixup.json](./58200-magic-mixup.json) |
 | Magic Mushrooms | 13735 | [13735-magic-mushrooms.json](./13735-magic-mushrooms.json) |
@@ -820,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maracaïbo | 69832 | [69832-maracaibo.json](./69832-maracaibo.json) |
 | Marapets | 58762 | [58762-marapets.json](./58762-marapets.json) |
 | Marathon Recompiled | 358340 | [358340-marathon-recompiled.json](./358340-marathon-recompiled.json) |
+| Marathon: Durandal | 299291 | [299291-marathon-durandal.json](./299291-marathon-durandal.json) |
 | Marauder | 55054 | [55054-marauder.json](./55054-marauder.json) |
 | Marauders | 132995 | [132995-marauders.json](./132995-marauders.json) |
 | Marbellous | 311465 | [311465-marbellous.json](./311465-marbellous.json) |
@@ -3389,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Children of Ann Siang Hill | 179113 | [179113-missing-children-of-ann-siang-hill.json](./179113-missing-children-of-ann-siang-hill.json) |
 | Missing Coordinates | 308272 | [308272-missing-coordinates.json](./308272-missing-coordinates.json) |
 | Missing Dots Matrix | 94702 | [94702-missing-dots-matrix.json](./94702-missing-dots-matrix.json) |
+| Missing Friend: Icky Mr Fox | 299262 | [299262-missing-friend-icky-mr-fox.json](./299262-missing-friend-icky-mr-fox.json) |
 | Missing Hearts: Crimson Cruise | 416625 | [416625-missing-hearts-crimson-cruise.json](./416625-missing-hearts-crimson-cruise.json) |
 | Missing Heroes | 224003 | [224003-missing-heroes.json](./224003-missing-heroes.json) |
 | Missing In Action | 40806 | [40806-missing-in-action.json](./40806-missing-in-action.json) |
