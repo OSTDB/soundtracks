@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juicy Blast | 346158 | [346158-juicy-blast.json](./346158-juicy-blast.json) |
 | Juicy Theater | 133437 | [133437-juicy-theater.json](./133437-juicy-theater.json) |
 | JuJuJu Club: Potsunen | 255353 | [255353-jujuju-club-potsunen.json](./255353-jujuju-club-potsunen.json) |
+| Jujutsu Kaisen: Cursed Clash - The Shibuya Incident | 307753 | [307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json](./307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json) |
 | Jukebeat | 79860 | [79860-jukebeat.json](./79860-jukebeat.json) |
 | July the Lost Child | 109699 | [109699-july-the-lost-child.json](./109699-july-the-lost-child.json) |
 | Jumala | 23829 | [23829-jumala.json](./23829-jumala.json) |
@@ -999,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Ignore Them: Brea's Story Tape 1 | 192456 | [192456-just-ignore-them-breas-story-tape-1.json](./192456-just-ignore-them-breas-story-tape-1.json) |
 | Just in Crime | 258982 | [258982-just-in-crime.json](./258982-just-in-crime.json) |
 | Just In Time Incorporated | 42925 | [42925-just-in-time-incorporated.json](./42925-just-in-time-incorporated.json) |
+| Just Jammin' | 307719 | [307719-just-jammin.json](./307719-just-jammin.json) |
 | Just Jump | 81016 | [81016-just-jump.json](./81016-just-jump.json) |
 | Just Keep Digging | 304370 | [304370-just-keep-digging.json](./304370-just-keep-digging.json) |
 | Just Keep Looting | 352837 | [352837-just-keep-looting.json](./352837-just-keep-looting.json) |
