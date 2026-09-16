@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kellogg's Marvel's Civil War VR | 322365 | [322365-kelloggs-marvels-civil-war-vr.json](./322365-kelloggs-marvels-civil-war-vr.json) |
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
 | Kells | 156604 | [156604-kells.json](./156604-kells.json) |
+| Kelp Keeper | 290557 | [290557-kelp-keeper.json](./290557-kelp-keeper.json) |
 | Kelvin and The Chateau | 162432 | [162432-kelvin-and-the-chateau.json](./162432-kelvin-and-the-chateau.json) |
 | Kemco RPG Omnibus | 130304 | [130304-kemco-rpg-omnibus.json](./130304-kemco-rpg-omnibus.json) |
 | Kemco RPG Selection Vol. 3 | 130312 | [130312-kemco-rpg-selection-vol-3.json](./130312-kemco-rpg-selection-vol-3.json) |
@@ -775,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Sports: New Japan Pro-Wrestling | 109574 | [109574-king-of-sports-new-japan-pro-wrestling.json](./109574-king-of-sports-new-japan-pro-wrestling.json) |
 | King of the Chat | 339918 | [339918-king-of-the-chat.json](./339918-king-of-the-chat.json) |
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
+| King of The Hill | 290519 | [290519-king-of-the-hill.json](./290519-king-of-the-hill.json) |
 | King of the Monsters | 6800 | [6800-king-of-the-monsters.json](./6800-king-of-the-monsters.json) |
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
 | King of the Pit | 165647 | [165647-king-of-the-pit.json](./165647-king-of-the-pit.json) |
