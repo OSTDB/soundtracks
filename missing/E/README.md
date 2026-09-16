@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Rivers VI: Guardians of Hope - Collector's Edition | 358406 | [358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json](./358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json) |
 | Elven Rivers: The Forgotten Lands - Collector's Edition | 239643 | [239643-elven-rivers-the-forgotten-lands-collectors-edition.json](./239643-elven-rivers-the-forgotten-lands-collectors-edition.json) |
 | Elven Warrior | 13634 | [13634-elven-warrior.json](./13634-elven-warrior.json) |
+| Elves | 295940 | [295940-elves.json](./295940-elves.json) |
 | Elves Jigsaw Puzzle Collection | 229041 | [229041-elves-jigsaw-puzzle-collection.json](./229041-elves-jigsaw-puzzle-collection.json) |
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
 | Elvin: The Water Sphere | 316059 | [316059-elvin-the-water-sphere.json](./316059-elvin-the-water-sphere.json) |
