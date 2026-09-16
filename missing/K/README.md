@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Amalur: Re-Reckoning - Fate Edition | 138198 | [138198-kingdoms-of-amalur-re-reckoning-fate-edition.json](./138198-kingdoms-of-amalur-re-reckoning-fate-edition.json) |
 | Kingdoms of Dice: The Elonia Chronicles | 360685 | [360685-kingdoms-of-dice-the-elonia-chronicles.json](./360685-kingdoms-of-dice-the-elonia-chronicles.json) |
 | Kingdoms of Germany | 65441 | [65441-kingdoms-of-germany.json](./65441-kingdoms-of-germany.json) |
+| Kingdoms of Lost Valleys | 311126 | [311126-kingdoms-of-lost-valleys.json](./311126-kingdoms-of-lost-valleys.json) |
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
 | Kingdoms of Merge & Magic | 231926 | [231926-kingdoms-of-merge-and-magic.json](./231926-kingdoms-of-merge-and-magic.json) |
 | Kingdoms: Merge & Build | 291982 | [291982-kingdoms-merge-and-build.json](./291982-kingdoms-merge-and-build.json) |
