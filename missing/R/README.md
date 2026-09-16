@@ -74,14 +74,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabit | 340935 | [340935-rabit.json](./340935-rabit.json) |
 | Raccoin: Coin Pusher Roguelike | 360748 | [360748-raccoin-coin-pusher-roguelike.json](./360748-raccoin-coin-pusher-roguelike.json) |
 | Raccoo Venture | 113876 | [113876-raccoo-venture.json](./113876-raccoo-venture.json) |
+| Raccoon & Possum Just Want to Read a Book | 307123 | [307123-raccoon-and-possum-just-want-to-read-a-book.json](./307123-raccoon-and-possum-just-want-to-read-a-book.json) |
 | Raccoon Arrival | 150627 | [150627-raccoon-arrival.json](./150627-raccoon-arrival.json) |
 | Raccoon Bubbles | 208963 | [208963-raccoon-bubbles.json](./208963-raccoon-bubbles.json) |
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
 | Raccoon Lagoon | 133388 | [133388-raccoon-lagoon.json](./133388-raccoon-lagoon.json) |
+| Raccoon Laundering | 307129 | [307129-raccoon-laundering.json](./307129-raccoon-laundering.json) |
 | Raccoon Party | 401696 | [401696-raccoon-party.json](./401696-raccoon-party.json) |
 | Raccoon Roller | 211218 | [211218-raccoon-roller.json](./211218-raccoon-roller.json) |
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
 | Raccoon Valley Tycoon | 373083 | [373083-raccoon-valley-tycoon.json](./373083-raccoon-valley-tycoon.json) |
+| Raccoonwave | 307120 | [307120-raccoonwave.json](./307120-raccoonwave.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Driver: Grid Reloaded | 44555 | [44555-race-driver-grid-reloaded.json](./44555-race-driver-grid-reloaded.json) |
