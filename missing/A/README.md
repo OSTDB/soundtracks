@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACE | 329190 | [329190-ace.json](./329190-ace.json) |
 | Ace Angler | 292017 | [292017-ace-angler.json](./292017-ace-angler.json) |
 | Ace Attorney Investigations 0: Quercus Alba Dating Simulator | 237350 | [237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json](./237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json) |
+| Ace Attorney Investigations 2: Prosecutor's Gambit | 307145 | [307145-ace-attorney-investigations-2-prosecutors-gambit.json](./307145-ace-attorney-investigations-2-prosecutors-gambit.json) |
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
 | Ace Attorney: The Dark Age of Love | 305190 | [305190-ace-attorney-the-dark-age-of-love.json](./305190-ace-attorney-the-dark-age-of-love.json) |
@@ -849,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akin | 32403 | [32403-akin.json](./32403-akin.json) |
 | Akin Vol 2 | 50505 | [50505-akin-vol-2.json](./50505-akin-vol-2.json) |
 | Akira | 14234 | [14234-akira.json](./14234-akira.json) |
+| Akirao: A Researcher Awakens | 307134 | [307134-akirao-a-researcher-awakens.json](./307134-akirao-a-researcher-awakens.json) |
 | Akita: King Pig Thinks Pink | 178098 | [178098-akita-king-pig-thinks-pink.json](./178098-akita-king-pig-thinks-pink.json) |
 | Akita: Legends Squad | 399611 | [399611-akita-legends-squad.json](./399611-akita-legends-squad.json) |
 | Akiya | 284926 | [284926-akiya.json](./284926-akiya.json) |
@@ -3656,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Hex Island | 239665 | [239665-attack-on-hex-island.json](./239665-attack-on-hex-island.json) |
 | Attack on King: Reloaded | 226225 | [226225-attack-on-king-reloaded.json](./226225-attack-on-king-reloaded.json) |
 | Attack on Lothal | 359445 | [359445-attack-on-lothal.json](./359445-attack-on-lothal.json) |
+| Attack on Mutation Station | 307118 | [307118-attack-on-mutation-station.json](./307118-attack-on-mutation-station.json) |
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
 | Attack on Titan Tribute Game 2 | 316810 | [316810-attack-on-titan-tribute-game-2.json](./316810-attack-on-titan-tribute-game-2.json) |
