@@ -2705,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragger | 94183 | [94183-fragger.json](./94183-fragger.json) |
 | Fragile Ascent | 292010 | [292010-fragile-ascent.json](./292010-fragile-ascent.json) |
 | Fragile Equilibrium | 113757 | [113757-fragile-equilibrium.json](./113757-fragile-equilibrium.json) |
+| Fragile Sun | 329194 | [329194-fragile-sun.json](./329194-fragile-sun.json) |
 | Fragment Collapse | 409678 | [409678-fragment-collapse.json](./409678-fragment-collapse.json) |
 | Fragment Hunters | 213009 | [213009-fragment-hunters.json](./213009-fragment-hunters.json) |
 | Fragment of Humanity | 224246 | [224246-fragment-of-humanity.json](./224246-fragment-of-humanity.json) |
@@ -2880,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Pibby Corrupted Kitchen Gun | 269295 | [269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json](./269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json) |
 | Friday Night Funkin': Sprite Corruption | 352831 | [352831-friday-night-funkin-sprite-corruption.json](./352831-friday-night-funkin-sprite-corruption.json) |
 | Friday Night Funkin': Super Idol | 231382 | [231382-friday-night-funkin-super-idol.json](./231382-friday-night-funkin-super-idol.json) |
+| Friday Night Funkin': The X Event | 329152 | [329152-friday-night-funkin-the-x-event.json](./329152-friday-night-funkin-the-x-event.json) |
 | Friday Night Funkin': V.S. Father Foundest | 200665 | [200665-friday-night-funkin-v-s-father-foundest.json](./200665-friday-night-funkin-v-s-father-foundest.json) |
 | Friday Night Funkin': V.S. Whitty | 165075 | [165075-friday-night-funkin-v-s-whitty.json](./165075-friday-night-funkin-v-s-whitty.json) |
 | Friday Night Funkin': Vs Ankha | 186302 | [186302-friday-night-funkin-vs-ankha.json](./186302-friday-night-funkin-vs-ankha.json) |
@@ -2892,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Vs. Nekomata Okayu | 226421 | [226421-friday-night-funkin-vs-nekomata-okayu.json](./226421-friday-night-funkin-vs-nekomata-okayu.json) |
 | Friday Night Funkin': vs. Reggie the Rat | 198491 | [198491-friday-night-funkin-vs-reggie-the-rat.json](./198491-friday-night-funkin-vs-reggie-the-rat.json) |
 | Friday Night Funkin': VS. Starlight Glimmer & Trixie | 202416 | [202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json](./202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json) |
+| Friday Night Funkin': vs. Zardy | 329149 | [329149-friday-night-funkin-vs-zardy.json](./329149-friday-night-funkin-vs-zardy.json) |
 | Friday Night Pixtor | 343820 | [343820-friday-night-pixtor.json](./343820-friday-night-pixtor.json) |
 | Friday the 13th Revisited | 395706 | [395706-friday-the-13th-revisited.json](./395706-friday-the-13th-revisited.json) |
 | Friday the 13th RPG: A Fan Game | 270660 | [270660-friday-the-13th-rpg-a-fan-game.json](./270660-friday-the-13th-rpg-a-fan-game.json) |
@@ -2996,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
+| Frogz | 329159 | [329159-frogz.json](./329159-frogz.json) |
 | From Basement with Love | 384057 | [384057-from-basement-with-love.json](./384057-from-basement-with-love.json) |
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
 | From Cheese | 370807 | [370807-from-cheese.json](./370807-from-cheese.json) |
