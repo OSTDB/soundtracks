@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Maze | 72059 | [72059-school-maze.json](./72059-school-maze.json) |
 | School of Dragons: How to Train Your Dragon | 36191 | [36191-school-of-dragons-how-to-train-your-dragon.json](./36191-school-of-dragons-how-to-train-your-dragon.json) |
 | School of Talent: Suzu-Route | 29932 | [29932-school-of-talent-suzu-route.json](./29932-school-of-talent-suzu-route.json) |
+| School Paranormal Laboratory | 294289 | [294289-school-paranormal-laboratory.json](./294289-school-paranormal-laboratory.json) |
 | School Race GP | 219281 | [219281-school-race-gp.json](./219281-school-race-gp.json) |
 | School Romance: Love or Lose | 250639 | [250639-school-romance-love-or-lose.json](./250639-school-romance-love-or-lose.json) |
 | School Tycoon | 9203 | [9203-school-tycoon.json](./9203-school-tycoon.json) |
@@ -3257,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Track | 54372 | [54372-sky-track.json](./54372-sky-track.json) |
 | Sky Trader | 29789 | [29789-sky-trader.json](./29789-sky-trader.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
+| Skybase | 294267 | [294267-skybase.json](./294267-skybase.json) |
 | Skybase: Space Station Simulator | 208952 | [208952-skybase-space-station-simulator.json](./208952-skybase-space-station-simulator.json) |
 | Skyblivion | 301423 | [301423-skyblivion.json](./301423-skyblivion.json) |
 | Skyblocker | 340388 | [340388-skyblocker.json](./340388-skyblocker.json) |
@@ -5096,6 +5098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
 | Space Colony HD | 51901 | [51901-space-colony-hd.json](./51901-space-colony-hd.json) |
+| Space Combat | 294265 | [294265-space-combat.json](./294265-space-combat.json) |
 | Space Combat: Galaxy Wars | 255726 | [255726-space-combat-galaxy-wars.json](./255726-space-combat-galaxy-wars.json) |
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
 | Space Commander: War and Trade | 146222 | [146222-space-commander-war-and-trade.json](./146222-space-commander-war-and-trade.json) |
@@ -5341,6 +5344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceBlocc | 193499 | [193499-spaceblocc.json](./193499-spaceblocc.json) |
 | SpaceBones | 353865 | [353865-spacebones.json](./353865-spacebones.json) |
 | Spaceborne Fighters | 392141 | [392141-spaceborne-fighters.json](./392141-spaceborne-fighters.json) |
+| Spaceborne Survivors | 294268 | [294268-spaceborne-survivors.json](./294268-spaceborne-survivors.json) |
 | Spacebound | 95397 | [95397-spacebound.json](./95397-spacebound.json) |
 | SpaceCorp: 2025-2300AD | 352297 | [352297-spacecorp-2025-2300ad.json](./352297-spacecorp-2025-2300ad.json) |
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
@@ -7863,6 +7867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Haven: Tea Temple Pack | 389573 | [389573-sun-haven-tea-temple-pack.json](./389573-sun-haven-tea-temple-pack.json) |
 | Sun Haven: Tis the Season Pack | 389570 | [389570-sun-haven-tis-the-season-pack.json](./389570-sun-haven-tis-the-season-pack.json) |
 | Sun Haven: Toy Pack | 306511 | [306511-sun-haven-toy-pack.json](./306511-sun-haven-toy-pack.json) |
+| Sun Is Dead | 294274 | [294274-sun-is-dead.json](./294274-sun-is-dead.json) |
 | Sun Meadow | 385076 | [385076-sun-meadow.json](./385076-sun-meadow.json) |
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
 | Sun Temple Shootout | 87697 | [87697-sun-temple-shootout.json](./87697-sun-temple-shootout.json) |
@@ -8467,6 +8472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Marisa World Fusion | 322790 | [322790-super-marisa-world-fusion.json](./322790-super-marisa-world-fusion.json) |
 | Super Market | 320533 | [320533-super-market.json](./320533-super-market.json) |
 | Super Markup Man | 32037 | [32037-super-markup-man.json](./32037-super-markup-man.json) |
+| Super Marlin Bros | 294279 | [294279-super-marlin-bros.json](./294279-super-marlin-bros.json) |
 | Super Masao 2 | 165061 | [165061-super-masao-2.json](./165061-super-masao-2.json) |
 | Super Maura Bros. 3 | 267386 | [267386-super-maura-bros-3.json](./267386-super-maura-bros-3.json) |
 | Super Maze Wars | 66647 | [66647-super-maze-wars.json](./66647-super-maze-wars.json) |
