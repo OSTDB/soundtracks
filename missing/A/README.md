@@ -626,7 +626,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agrou | 133456 | [133456-agrou.json](./133456-agrou.json) |
 | Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
-| Ahegal | 110446 | [110446-ahegal.json](./110446-ahegal.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
 | Ahmes | 200704 | [200704-ahmes.json](./200704-ahmes.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
