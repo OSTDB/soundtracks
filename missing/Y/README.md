@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yelling At Cats: The Game | 395727 | [395727-yelling-at-cats-the-game.json](./395727-yelling-at-cats-the-game.json) |
 | Yello Adventures | 242571 | [242571-yello-adventures.json](./242571-yello-adventures.json) |
 | Yellow Fins HD | 89574 | [89574-yellow-fins-hd.json](./89574-yellow-fins-hd.json) |
+| Yellow House | 309512 | [309512-yellow-house.json](./309512-yellow-house.json) |
 | Yellow or Red? | 174308 | [174308-yellow-or-red.json](./174308-yellow-or-red.json) |
 | Yellow Taxi Goes Vroom | 216805 | [216805-yellow-taxi-goes-vroom.json](./216805-yellow-taxi-goes-vroom.json) |
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
