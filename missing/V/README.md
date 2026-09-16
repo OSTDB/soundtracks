@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valfaris: Signature Edition | 210634 | [210634-valfaris-signature-edition.json](./210634-valfaris-signature-edition.json) |
 | Valgrave: Immortal Plains | 122395 | [122395-valgrave-immortal-plains.json](./122395-valgrave-immortal-plains.json) |
 | Valhalla | 23053 | [23053-valhalla.json](./23053-valhalla.json) |
+| Valhalla | 313350 | [313350-valhalla.json](./313350-valhalla.json) |
 | Valhalla & the Fortress of Eve | 12810 | [12810-valhalla-and-the-fortress-of-eve.json](./12810-valhalla-and-the-fortress-of-eve.json) |
 | Valhalla and the Lord of Infinity | 12811 | [12811-valhalla-and-the-lord-of-infinity.json](./12811-valhalla-and-the-lord-of-infinity.json) |
 | Valhalla Awaits | 334197 | [334197-valhalla-awaits.json](./334197-valhalla-awaits.json) |
@@ -658,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter 5 R | 94701 | [94701-virtua-fighter-5-r.json](./94701-virtua-fighter-5-r.json) |
 | Virtua Fighter 5 R.E.V.O. | 322751 | [322751-virtua-fighter-5-r-e-v-o.json](./322751-virtua-fighter-5-r-e-v-o.json) |
 | Virtua Fighter CG Portrait Series Vol. 8: Lion Rafale | 97818 | [97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json](./97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json) |
+| Virtua Striker | 313318 | [313318-virtua-striker.json](./313318-virtua-striker.json) |
 | Virtua Striker 2 | 39472 | [39472-virtua-striker-2.json](./39472-virtua-striker-2.json) |
 | Virtua Tennis 2009 | 5257 | [5257-virtua-tennis-2009.json](./5257-virtua-tennis-2009.json) |
 | Virtua Tennis 4 | 5258 | [5258-virtua-tennis-4.json](./5258-virtua-tennis-4.json) |
