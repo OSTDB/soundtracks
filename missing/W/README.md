@@ -283,9 +283,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Challenger DS Pack | 336933 | [336933-war-thunder-challenger-ds-pack.json](./336933-war-thunder-challenger-ds-pack.json) |
 | War Thunder: Ground Forces | 115024 | [115024-war-thunder-ground-forces.json](./115024-war-thunder-ground-forces.json) |
 | War Thunder: IJN Yamashiro Pack | 336934 | [336934-war-thunder-ijn-yamashiro-pack.json](./336934-war-thunder-ijn-yamashiro-pack.json) |
+| War Thunder: Leopard 2A4M CAN Bundle | 306492 | [306492-war-thunder-leopard-2a4m-can-bundle.json](./306492-war-thunder-leopard-2a4m-can-bundle.json) |
 | War Thunder: Marder Clovis Pack | 336935 | [336935-war-thunder-marder-clovis-pack.json](./336935-war-thunder-marder-clovis-pack.json) |
 | War Thunder: Reaper Pack | 156104 | [156104-war-thunder-reaper-pack.json](./156104-war-thunder-reaper-pack.json) |
 | War Thunder: Somua SM Pack | 336936 | [336936-war-thunder-somua-sm-pack.json](./336936-war-thunder-somua-sm-pack.json) |
+| War Thunder: T-80U-E1 Bundle | 306494 | [306494-war-thunder-t-80u-e1-bundle.json](./306494-war-thunder-t-80u-e1-bundle.json) |
 | War Thunder: Wyvern Pack | 336937 | [336937-war-thunder-wyvern-pack.json](./336937-war-thunder-wyvern-pack.json) |
 | War Times | 77376 | [77376-war-times.json](./77376-war-times.json) |
 | War to the Core | 249815 | [249815-war-to-the-core.json](./249815-war-to-the-core.json) |
@@ -359,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Armageddon - Golgotha | 53891 | [53891-warhammer-40-000-armageddon-golgotha.json](./53891-warhammer-40-000-armageddon-golgotha.json) |
 | Warhammer 40,000: Armageddon - Ork Hunters | 53888 | [53888-warhammer-40-000-armageddon-ork-hunters.json](./53888-warhammer-40-000-armageddon-ork-hunters.json) |
 | Warhammer 40,000: Battlesector - T'au | 289900 | [289900-warhammer-40-000-battlesector-tau.json](./289900-warhammer-40-000-battlesector-tau.json) |
+| Warhammer 40,000: Boltgun - Forges of Corruption Edition | 306489 | [306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json](./306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json) |
 | Warhammer 40,000: Dakka Squadron | 143650 | [143650-warhammer-40-000-dakka-squadron.json](./143650-warhammer-40-000-dakka-squadron.json) |
 | Warhammer 40,000: Dark Crusaders | 200657 | [200657-warhammer-40-000-dark-crusaders.json](./200657-warhammer-40-000-dark-crusaders.json) |
 | Warhammer 40,000: Dawn of War II - Retribution Chaos Space Marines Race Pack | 163389 | [163389-warhammer-40-000-dawn-of-war-ii-retribution-chaos-space-marines-race-pack.json](./163389-warhammer-40-000-dawn-of-war-ii-retribution-chaos-space-marines-race-pack.json) |
@@ -1325,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
 | Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
 | Wild West Survivors | 403721 | [403721-wild-west-survivors.json](./403721-wild-west-survivors.json) |
+| Wild West Tycoon Empire | 306515 | [306515-wild-west-tycoon-empire.json](./306515-wild-west-tycoon-empire.json) |
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
 | Wild West: The Last Cowboy | 372534 | [372534-wild-west-the-last-cowboy.json](./372534-wild-west-the-last-cowboy.json) |
 | Wild Western | 18060 | [18060-wild-western.json](./18060-wild-western.json) |
