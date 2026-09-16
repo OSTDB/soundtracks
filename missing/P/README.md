@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PainStation | 175901 | [175901-painstation.json](./175901-painstation.json) |
 | Paint | 260171 | [260171-paint.json](./260171-paint.json) |
 | Paint Ball | 397656 | [397656-paint-ball.json](./397656-paint-ball.json) |
+| Paint Boy | 328591 | [328591-paint-boy.json](./328591-paint-boy.json) |
 | Paint By Numbers: 8-Bit World Ep. 10 | 305506 | [305506-paint-by-numbers-8-bit-world-ep-10.json](./305506-paint-by-numbers-8-bit-world-ep-10.json) |
 | Paint By Numbers: 8-Bit World Ep. 11 | 305503 | [305503-paint-by-numbers-8-bit-world-ep-11.json](./305503-paint-by-numbers-8-bit-world-ep-11.json) |
 | Paint By Numbers: 8-Bit World Ep. 12 | 305507 | [305507-paint-by-numbers-8-bit-world-ep-12.json](./305507-paint-by-numbers-8-bit-world-ep-12.json) |
@@ -1110,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
 | Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
 | Persona 3 Reload: Digital Premium Edition | 262643 | [262643-persona-3-reload-digital-premium-edition.json](./262643-persona-3-reload-digital-premium-edition.json) |
+| Persona 3 Reload: FemC Reloaded Project | 328622 | [328622-persona-3-reload-femc-reloaded-project.json](./328622-persona-3-reload-femc-reloaded-project.json) |
 | Persona 3 Reload: Limited Box | 262641 | [262641-persona-3-reload-limited-box.json](./262641-persona-3-reload-limited-box.json) |
 | Persona 3 Reload: Persona 4 Golden Persona Set | 301578 | [301578-persona-3-reload-persona-4-golden-persona-set.json](./301578-persona-3-reload-persona-4-golden-persona-set.json) |
 | Persona 3 Reload: Persona 4 Golden Yasogami High Costume Set | 301567 | [301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json](./301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json) |
