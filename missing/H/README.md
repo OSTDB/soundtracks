@@ -3000,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Arcade | 210055 | [210055-hunting-arcade.json](./210055-hunting-arcade.json) |
 | Hunting fields of Jackals | 114966 | [114966-hunting-fields-of-jackals.json](./114966-hunting-fields-of-jackals.json) |
 | Hunting Moon vol.2 | 165022 | [165022-hunting-moon-vol-2.json](./165022-hunting-moon-vol-2.json) |
+| Hunting Seas | 312169 | [312169-hunting-seas.json](./312169-hunting-seas.json) |
 | Hunting Season | 210056 | [210056-hunting-season.json](./210056-hunting-season.json) |
 | Hunting Season 3D | 220830 | [220830-hunting-season-3d.json](./220830-hunting-season-3d.json) |
 | Hunting Simulator | 239044 | [239044-hunting-simulator.json](./239044-hunting-simulator.json) |
