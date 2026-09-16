@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Blocks Out | 254746 | [254746-tap-blocks-out.json](./254746-tap-blocks-out.json) |
 | Tap Boutique | 256535 | [256535-tap-boutique.json](./256535-tap-boutique.json) |
 | Tap Building | 212469 | [212469-tap-building.json](./212469-tap-building.json) |
+| Tap Cat RPG: Simple Emoji Cat Idle Game | 297642 | [297642-tap-cat-rpg-simple-emoji-cat-idle-game.json](./297642-tap-cat-rpg-simple-emoji-cat-idle-game.json) |
 | Tap Craft | 239048 | [239048-tap-craft.json](./239048-tap-craft.json) |
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
@@ -711,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
 | Tapocalypse | 30141 | [30141-tapocalypse.json](./30141-tapocalypse.json) |
+| Tapper Basic | 297607 | [297607-tapper-basic.json](./297607-tapper-basic.json) |
 | Tapper World Tour | 66079 | [66079-tapper-world-tour.json](./66079-tapper-world-tour.json) |
 | Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
@@ -2777,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hacker | 13724 | [13724-the-hacker.json](./13724-the-hacker.json) |
 | The Hacker 2.0 | 234051 | [234051-the-hacker-2-0.json](./234051-the-hacker-2-0.json) |
 | The Hallway: Escape Room | 264608 | [264608-the-hallway-escape-room.json](./264608-the-hallway-escape-room.json) |
+| The Hamiltonian Circuit | 297612 | [297612-the-hamiltonian-circuit.json](./297612-the-hamiltonian-circuit.json) |
 | The Hamlet | 326991 | [326991-the-hamlet.json](./326991-the-hamlet.json) |
 | The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
 | The Hand of Glory | 111103 | [111103-the-hand-of-glory.json](./111103-the-hand-of-glory.json) |
