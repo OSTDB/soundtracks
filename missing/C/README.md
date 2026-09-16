@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiralmori | 287634 | [287634-chiralmori.json](./287634-chiralmori.json) |
 | Chirashiiru | 325444 | [325444-chirashiiru.json](./325444-chirashiiru.json) |
 | ChiroTerra | 278168 | [278168-chiroterra.json](./278168-chiroterra.json) |
+| Chirp Song: Wings of Praise | 304748 | [304748-chirp-song-wings-of-praise.json](./304748-chirp-song-wings-of-praise.json) |
 | Chiseler | 361764 | [361764-chiseler.json](./361764-chiseler.json) |
 | Chishiki Runner | 114328 | [114328-chishiki-runner.json](./114328-chishiki-runner.json) |
 | Chitei Kekkadou: The Blood Flower Dungeon | 137616 | [137616-chitei-kekkadou-the-blood-flower-dungeon.json](./137616-chitei-kekkadou-the-blood-flower-dungeon.json) |
@@ -1924,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chotto Magic Taizen: Date Uranai | 220847 | [220847-chotto-magic-taizen-date-uranai.json](./220847-chotto-magic-taizen-date-uranai.json) |
 | Chotto Magic Taizen: Nenzu Camera | 220848 | [220848-chotto-magic-taizen-nenzu-camera.json](./220848-chotto-magic-taizen-nenzu-camera.json) |
 | Chotto Magic Taizen: Suki Kirai Hakkenki | 220846 | [220846-chotto-magic-taizen-suki-kirai-hakkenki.json](./220846-chotto-magic-taizen-suki-kirai-hakkenki.json) |
+| Chou à la Crème Collect | 304665 | [304665-chou-a-la-creme-collect.json](./304665-chou-a-la-creme-collect.json) |
 | Chou Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko | 95478 | [95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json](./95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json) |
 | Chou Ga Shin Zangard | 246106 | [246106-chou-ga-shin-zangard.json](./246106-chou-ga-shin-zangard.json) |
 | Chou Gekijouban Keroro Gunsou: Gekishin Dragon Warriors de Arimasu! | 69199 | [69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json](./69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json) |
@@ -2657,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coarse Blade | 332236 | [332236-coarse-blade.json](./332236-coarse-blade.json) |
 | Coast Defender | 269038 | [269038-coast-defender.json](./269038-coast-defender.json) |
 | Coast team | 118438 | [118438-coast-team.json](./118438-coast-team.json) |
+| Coastal Kingdoms | 304711 | [304711-coastal-kingdoms.json](./304711-coastal-kingdoms.json) |
 | Coastal Kitchen Simulator | 347721 | [347721-coastal-kitchen-simulator.json](./347721-coastal-kitchen-simulator.json) |
 | Coastal World | 325038 | [325038-coastal-world.json](./325038-coastal-world.json) |
 | Coastiality | 96668 | [96668-coastiality.json](./96668-coastiality.json) |
