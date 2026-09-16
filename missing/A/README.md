@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After-Image | 362285 | [362285-after-image.json](./362285-after-image.json) |
 | Afterblast | 164434 | [164434-afterblast.json](./164434-afterblast.json) |
 | Afterbright | 357794 | [357794-afterbright.json](./357794-afterbright.json) |
+| Aftercare Sessions | 322175 | [322175-aftercare-sessions.json](./322175-aftercare-sessions.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
 | Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
@@ -2344,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Approaching Cao Army | 254773 | [254773-approaching-cao-army.json](./254773-approaching-cao-army.json) |
 | Approximately Up | 377061 | [377061-approximately-up.json](./377061-approximately-up.json) |
 | Aprende con Horacio: La Gran Aventura de las Palabras | 283755 | [283755-aprende-con-horacio-la-gran-aventura-de-las-palabras.json](./283755-aprende-con-horacio-la-gran-aventura-de-las-palabras.json) |
+| Apricity | 322208 | [322208-apricity.json](./322208-apricity.json) |
 | Apricot Kernel | 364531 | [364531-apricot-kernel.json](./364531-apricot-kernel.json) |
 | April '86 | 251841 | [251841-april-86.json](./251841-april-86.json) |
 | April Was A Fool | 199052 | [199052-april-was-a-fool.json](./199052-april-was-a-fool.json) |
