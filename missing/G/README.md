@@ -448,6 +448,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield Kart 2: All You Can Drift | 345489 | [345489-garfield-kart-2-all-you-can-drift.json](./345489-garfield-kart-2-all-you-can-drift.json) |
 | Garfield Labyrinth | 153452 | [153452-garfield-labyrinth.json](./153452-garfield-labyrinth.json) |
 | Garfield Rush | 130887 | [130887-garfield-rush.json](./130887-garfield-rush.json) |
+| Garfield: A Tail of Two Kitties - Garfield's Maze Game | 325089 | [325089-garfield-a-tail-of-two-kitties-garfields-maze-game.json](./325089-garfield-a-tail-of-two-kitties-garfields-maze-game.json) |
+| Garfield: A Tail of Two Kitties - Odie's Photo Album Game | 325088 | [325088-garfield-a-tail-of-two-kitties-odies-photo-album-game.json](./325088-garfield-a-tail-of-two-kitties-odies-photo-album-game.json) |
 | Garfield: Big, Fat, Hairy Deal | 12111 | [12111-garfield-big-fat-hairy-deal.json](./12111-garfield-big-fat-hairy-deal.json) |
 | Garfield: Escape from Monday | 407405 | [407405-garfield-escape-from-monday.json](./407405-garfield-escape-from-monday.json) |
 | Garfield: Winter's Tail | 12112 | [12112-garfield-winters-tail.json](./12112-garfield-winters-tail.json) |
