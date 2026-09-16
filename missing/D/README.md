@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
 | Dear Diary | 370715 | [370715-dear-diary.json](./370715-dear-diary.json) |
 | Dear Drops Distortion | 59421 | [59421-dear-drops-distortion.json](./59421-dear-drops-distortion.json) |
+| Dear Elonai | 302490 | [302490-dear-elonai.json](./302490-dear-elonai.json) |
 | Dear Esteban | 63266 | [63266-dear-esteban.json](./63266-dear-esteban.json) |
 | Dear Esther | 3082 | [3082-dear-esther.json](./3082-dear-esther.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
@@ -1854,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Conan: Trick Trick Vol. 1 | 84172 | [84172-detective-conan-trick-trick-vol-1.json](./84172-detective-conan-trick-trick-vol-1.json) |
 | Detective Corgi and the Mysterious Mansion | 179753 | [179753-detective-corgi-and-the-mysterious-mansion.json](./179753-detective-corgi-and-the-mysterious-mansion.json) |
 | Detective Dave | 277290 | [277290-detective-dave.json](./277290-detective-dave.json) |
+| Detective Diaries | 302499 | [302499-detective-diaries.json](./302499-detective-diaries.json) |
 | Detective Eustaquio | 320737 | [320737-detective-eustaquio.json](./320737-detective-eustaquio.json) |
 | Detective Firefly | 348257 | [348257-detective-firefly.json](./348257-detective-firefly.json) |
 | Detective Frizbee | 332250 | [332250-detective-frizbee.json](./332250-detective-frizbee.json) |
@@ -2721,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Pigeon Simulator | 407360 | [407360-doctor-pigeon-simulator.json](./407360-doctor-pigeon-simulator.json) |
 | Doctor Root | 318980 | [318980-doctor-root.json](./318980-doctor-root.json) |
 | Doctor Tsunami | 111708 | [111708-doctor-tsunami.json](./111708-doctor-tsunami.json) |
+| Doctor Voldritch's experiment | 302502 | [302502-doctor-voldritchs-experiment.json](./302502-doctor-voldritchs-experiment.json) |
 | Doctor Who and the Mines of Terror | 13597 | [13597-doctor-who-and-the-mines-of-terror.json](./13597-doctor-who-and-the-mines-of-terror.json) |
 | Doctor Who and the Warlord | 66675 | [66675-doctor-who-and-the-warlord.json](./66675-doctor-who-and-the-warlord.json) |
 | Doctor Who Game Maker | 59457 | [59457-doctor-who-game-maker.json](./59457-doctor-who-game-maker.json) |
