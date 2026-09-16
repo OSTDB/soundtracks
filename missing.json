@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T21:49:05.797Z",
-  "total_missing": 79712,
+  "generated_at": "2026-09-16T22:03:48.008Z",
+  "total_missing": 79762,
   "games": [
     {
       "igdb_id": 306086,
@@ -2361,6 +2361,11 @@
       "igdb_id": 73260,
       "game_name": "3D Ultra Minigolf Adventures: Carnival",
       "file": "missing/0-9/73260-3d-ultra-minigolf-adventures-carnival.json"
+    },
+    {
+      "igdb_id": 291042,
+      "game_name": "3D3D",
+      "file": "missing/0-9/291042-3d3d.json"
     },
     {
       "igdb_id": 100219,
@@ -41088,6 +41093,11 @@
       "file": "missing/B/330147-bot-hunter.json"
     },
     {
+      "igdb_id": 291040,
+      "game_name": "Bot Patrol",
+      "file": "missing/B/291040-bot-patrol.json"
+    },
+    {
       "igdb_id": 104048,
       "game_name": "Bot Tales: The Crashed",
       "file": "missing/B/104048-bot-tales-the-crashed.json"
@@ -41971,6 +41981,11 @@
       "igdb_id": 373637,
       "game_name": "Boxhead: A Halloween Special",
       "file": "missing/B/373637-boxhead-a-halloween-special.json"
+    },
+    {
+      "igdb_id": 291083,
+      "game_name": "Boxhead: Immortal",
+      "file": "missing/B/291083-boxhead-immortal.json"
     },
     {
       "igdb_id": 109656,
@@ -46823,6 +46838,11 @@
       "file": "missing/B/175882-busty-balls-brick-breaker.json"
     },
     {
+      "igdb_id": 291068,
+      "game_name": "Busty Hentai Mosaic",
+      "file": "missing/B/291068-busty-hentai-mosaic.json"
+    },
+    {
       "igdb_id": 127964,
       "game_name": "Busty Maid: Creampie Heaven",
       "file": "missing/B/127964-busty-maid-creampie-heaven.json"
@@ -48011,6 +48031,11 @@
       "igdb_id": 308961,
       "game_name": "Call of Duty: Modern Warfare III - Season 5",
       "file": "missing/C/308961-call-of-duty-modern-warfare-iii-season-5.json"
+    },
+    {
+      "igdb_id": 291077,
+      "game_name": "Call of Duty: Modern Warfare III - Tech Luxe Pro Pack",
+      "file": "missing/C/291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json"
     },
     {
       "igdb_id": 292856,
@@ -61963,6 +61988,11 @@
       "file": "missing/C/124229-color-soul-memories.json"
     },
     {
+      "igdb_id": 291082,
+      "game_name": "Color Splash: Dinosaurs",
+      "file": "missing/C/291082-color-splash-dinosaurs.json"
+    },
+    {
       "igdb_id": 261509,
       "game_name": "Color Splash: Dogs",
       "file": "missing/C/261509-color-splash-dogs.json"
@@ -63918,6 +63948,11 @@
       "file": "missing/C/87696-connect-words.json"
     },
     {
+      "igdb_id": 291064,
+      "game_name": "Connected Hearts: Cost of Beauty DLC",
+      "file": "missing/C/291064-connected-hearts-cost-of-beauty-dlc.json"
+    },
+    {
       "igdb_id": 365708,
       "game_name": "Connected Hearts: Hour of the Witch - Collector's Edition",
       "file": "missing/C/365708-connected-hearts-hour-of-the-witch-collectors-edition.json"
@@ -64216,6 +64251,11 @@
       "igdb_id": 172128,
       "game_name": "Construct.AI",
       "file": "missing/C/172128-construct-ai.json"
+    },
+    {
+      "igdb_id": 291056,
+      "game_name": "Construct&Conquer: The Levant in the 12th Century",
+      "file": "missing/C/291056-construct-and-conquer-the-levant-in-the-12th-century.json"
     },
     {
       "igdb_id": 259233,
@@ -69853,6 +69893,11 @@
       "file": "missing/C/352851-crusader-kings-iii-coronations.json"
     },
     {
+      "igdb_id": 291080,
+      "game_name": "Crusader Kings III: Couture of the Capets",
+      "file": "missing/C/291080-crusader-kings-iii-couture-of-the-capets.json"
+    },
+    {
       "igdb_id": 352848,
       "game_name": "Crusader Kings III: Crowns of the World",
       "file": "missing/C/352848-crusader-kings-iii-crowns-of-the-world.json"
@@ -71951,6 +71996,11 @@
       "igdb_id": 222498,
       "game_name": "Custom Monsters",
       "file": "missing/C/222498-custom-monsters.json"
+    },
+    {
+      "igdb_id": 291054,
+      "game_name": "Custom Order Maid 3D2: It's a Night Magic Beauty Hair Set SP All in One Pack",
+      "file": "missing/C/291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json"
     },
     {
       "igdb_id": 298043,
@@ -83438,6 +83488,21 @@
       "file": "missing/D/333015-dice-with-the-devil-rerolled.json"
     },
     {
+      "igdb_id": 291087,
+      "game_name": "Dice-Zee!: Dice Pak - \"Autumn Auras\"",
+      "file": "missing/D/291087-dice-zee-dice-pak-autumn-auras.json"
+    },
+    {
+      "igdb_id": 291086,
+      "game_name": "Dice-Zee!: Dice Pak - \"Contemporary Cool\"",
+      "file": "missing/D/291086-dice-zee-dice-pak-contemporary-cool.json"
+    },
+    {
+      "igdb_id": 291088,
+      "game_name": "Dice-Zee!: Dice Pak - \"Serene Chromas\"",
+      "file": "missing/D/291088-dice-zee-dice-pak-serene-chromas.json"
+    },
+    {
       "igdb_id": 188041,
       "game_name": "Dice: Devils Game",
       "file": "missing/D/188041-dice-devils-game.json"
@@ -83596,6 +83661,11 @@
       "igdb_id": 398477,
       "game_name": "Die DillyBillys",
       "file": "missing/D/398477-die-dillybillys.json"
+    },
+    {
+      "igdb_id": 291073,
+      "game_name": "Die drei Freunde von der Reitschule",
+      "file": "missing/D/291073-die-drei-freunde-von-der-reitschule.json"
     },
     {
       "igdb_id": 302665,
@@ -107603,6 +107673,11 @@
       "file": "missing/F/243111-facewound.json"
     },
     {
+      "igdb_id": 291041,
+      "game_name": "Facility 079",
+      "file": "missing/F/291041-facility-079.json"
+    },
+    {
       "igdb_id": 285967,
       "game_name": "Facing Zombie,and 4 Walls",
       "file": "missing/F/285967-facing-zombie-and-4-walls.json"
@@ -118123,6 +118198,11 @@
       "file": "missing/F/230512-fly-guy.json"
     },
     {
+      "igdb_id": 291090,
+      "game_name": "Fly Hands",
+      "file": "missing/F/291090-fly-hands.json"
+    },
+    {
       "igdb_id": 306372,
       "game_name": "Fly Hard",
       "file": "missing/F/306372-fly-hard.json"
@@ -120671,6 +120751,11 @@
       "igdb_id": 293918,
       "game_name": "Forza Horizon 5: Car Pass",
       "file": "missing/F/293918-forza-horizon-5-car-pass.json"
+    },
+    {
+      "igdb_id": 291076,
+      "game_name": "Forza Horizon 5: Chinese Lucky Stars Car Pack",
+      "file": "missing/F/291076-forza-horizon-5-chinese-lucky-stars-car-pack.json"
     },
     {
       "igdb_id": 200693,
@@ -141108,6 +141193,11 @@
       "file": "missing/H/241373-happy-mouse.json"
     },
     {
+      "igdb_id": 291055,
+      "game_name": "Happy New Year, Zeliria!: Dragon!",
+      "file": "missing/H/291055-happy-new-year-zeliria-dragon.json"
+    },
+    {
       "igdb_id": 280767,
       "game_name": "Happy Night",
       "file": "missing/H/280767-happy-night.json"
@@ -144553,6 +144643,11 @@
       "file": "missing/H/125403-hellgate.json"
     },
     {
+      "igdb_id": 291043,
+      "game_name": "Hellgate",
+      "file": "missing/H/291043-hellgate.json"
+    },
+    {
       "igdb_id": 158718,
       "game_name": "Hellgate VR",
       "file": "missing/H/158718-hellgate-vr.json"
@@ -145653,6 +145748,11 @@
       "file": "missing/H/340449-hentai-sally.json"
     },
     {
+      "igdb_id": 291057,
+      "game_name": "Hentai Senpai: Cosmic Beauties - Premium Pack",
+      "file": "missing/H/291057-hentai-senpai-cosmic-beauties-premium-pack.json"
+    },
+    {
       "igdb_id": 340450,
       "game_name": "Hentai Senpai: Goth Feet",
       "file": "missing/H/340450-hentai-senpai-goth-feet.json"
@@ -145781,6 +145881,11 @@
       "igdb_id": 389607,
       "game_name": "Hentai Tales: Creampie Cuckold Wife",
       "file": "missing/H/389607-hentai-tales-creampie-cuckold-wife.json"
+    },
+    {
+      "igdb_id": 291094,
+      "game_name": "Hentai Tales: Mysterious Clinic",
+      "file": "missing/H/291094-hentai-tales-mysterious-clinic.json"
     },
     {
       "igdb_id": 389606,
@@ -152951,6 +153056,11 @@
       "igdb_id": 325267,
       "game_name": "Housekeeping to Room 501",
       "file": "missing/H/325267-housekeeping-to-room-501.json"
+    },
+    {
+      "igdb_id": 291063,
+      "game_name": "Housemates",
+      "file": "missing/H/291063-housemates.json"
     },
     {
       "igdb_id": 176484,
@@ -184803,6 +184913,11 @@
       "file": "missing/L/346039-little-bushman.json"
     },
     {
+      "igdb_id": 291075,
+      "game_name": "Little Busters! Perfect Edition: TV Anime Commemorative Edition",
+      "file": "missing/L/291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json"
+    },
+    {
       "igdb_id": 77302,
       "game_name": "Little Caesars Fractions Pizza",
       "file": "missing/L/77302-little-caesars-fractions-pizza.json"
@@ -187756,6 +187871,11 @@
       "igdb_id": 284909,
       "game_name": "Lost in Cairo",
       "file": "missing/L/284909-lost-in-cairo.json"
+    },
+    {
+      "igdb_id": 291093,
+      "game_name": "Lost In Failures",
+      "file": "missing/L/291093-lost-in-failures.json"
     },
     {
       "igdb_id": 314864,
@@ -194333,6 +194453,11 @@
       "file": "missing/M/265149-manor-of-mysteries.json"
     },
     {
+      "igdb_id": 291072,
+      "game_name": "Manor of Mystic Courtesans",
+      "file": "missing/M/291072-manor-of-mystic-courtesans.json"
+    },
+    {
       "igdb_id": 269861,
       "game_name": "Mansion",
       "file": "missing/M/269861-mansion.json"
@@ -199601,6 +199726,11 @@
       "igdb_id": 311804,
       "game_name": "Medieval Nightt: Part 1",
       "file": "missing/M/311804-medieval-nightt-part-1.json"
+    },
+    {
+      "igdb_id": 291067,
+      "game_name": "Medieval Sex Jigsaw",
+      "file": "missing/M/291067-medieval-sex-jigsaw.json"
     },
     {
       "igdb_id": 248047,
@@ -206493,6 +206623,11 @@
       "file": "missing/M/129742-mini-transport.json"
     },
     {
+      "igdb_id": 291066,
+      "game_name": "Mini Treasure Girl",
+      "file": "missing/M/291066-mini-treasure-girl.json"
+    },
+    {
       "igdb_id": 404217,
       "game_name": "Mini Warrior Defense",
       "file": "missing/M/404217-mini-warrior-defense.json"
@@ -207141,6 +207276,11 @@
       "igdb_id": 298564,
       "game_name": "Mirko Polo",
       "file": "missing/M/298564-mirko-polo.json"
+    },
+    {
+      "igdb_id": 291051,
+      "game_name": "Miro",
+      "file": "missing/M/291051-miro.json"
     },
     {
       "igdb_id": 327417,
@@ -215933,6 +216073,11 @@
       "file": "missing/M/243960-my-demonic-romance.json"
     },
     {
+      "igdb_id": 291091,
+      "game_name": "My Destiny Girls",
+      "file": "missing/M/291091-my-destiny-girls.json"
+    },
+    {
       "igdb_id": 301416,
       "game_name": "My Diamond Baby",
       "file": "missing/M/301416-my-diamond-baby.json"
@@ -216853,6 +216998,11 @@
       "file": "missing/M/415161-my-sexy-fairies.json"
     },
     {
+      "igdb_id": 291061,
+      "game_name": "My Sexy Neighbor",
+      "file": "missing/M/291061-my-sexy-neighbor.json"
+    },
+    {
       "igdb_id": 87882,
       "game_name": "My Shelf",
       "file": "missing/M/87882-my-shelf.json"
@@ -217146,6 +217296,11 @@
       "igdb_id": 148515,
       "game_name": "My Teacher is an Alien",
       "file": "missing/M/148515-my-teacher-is-an-alien.json"
+    },
+    {
+      "igdb_id": 291078,
+      "game_name": "My Thai Boyfriend",
+      "file": "missing/M/291078-my-thai-boyfriend.json"
     },
     {
       "igdb_id": 207540,
@@ -232103,6 +232258,11 @@
       "file": "missing/O/294853-one-piece-pirate-warriors-4-legend-dawn-pack.json"
     },
     {
+      "igdb_id": 291058,
+      "game_name": "One Piece: Pirate Warriors 4 - One Piece Film: Red Anime Song Pack",
+      "file": "missing/O/291058-one-piece-pirate-warriors-4-one-piece-film-red-anime-song-pack.json"
+    },
+    {
       "igdb_id": 283182,
       "game_name": "One Piece: Pirate Warriors 4 - One Piece Film: Red Pack",
       "file": "missing/O/283182-one-piece-pirate-warriors-4-one-piece-film-red-pack.json"
@@ -246513,6 +246673,11 @@
       "file": "missing/P/388011-pixapple-adventure.json"
     },
     {
+      "igdb_id": 291059,
+      "game_name": "PixArk: Jade Elegance - A Theatrical Odyssey in the East",
+      "file": "missing/P/291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json"
+    },
+    {
       "igdb_id": 165703,
       "game_name": "Pixasso 2",
       "file": "missing/P/165703-pixasso-2.json"
@@ -248678,6 +248843,16 @@
       "file": "missing/P/55053-play-for-your-life.json"
     },
     {
+      "igdb_id": 291049,
+      "game_name": "Play Nintendo: Paint-By-Number",
+      "file": "missing/P/291049-play-nintendo-paint-by-number.json"
+    },
+    {
+      "igdb_id": 291047,
+      "game_name": "Play Nintendo: Puzzles",
+      "file": "missing/P/291047-play-nintendo-puzzles.json"
+    },
+    {
       "igdb_id": 328062,
       "game_name": "Play Nintendo: Skill Quizzes",
       "file": "missing/P/328062-play-nintendo-skill-quizzes.json"
@@ -249041,6 +249216,11 @@
       "igdb_id": 372560,
       "game_name": "Plinbo",
       "file": "missing/P/372560-plinbo.json"
+    },
+    {
+      "igdb_id": 291089,
+      "game_name": "Plinio Needs a Hand",
+      "file": "missing/P/291089-plinio-needs-a-hand.json"
     },
     {
       "igdb_id": 189203,
@@ -252368,6 +252548,11 @@
       "file": "missing/P/323554-portal-done-half-life-source.json"
     },
     {
+      "igdb_id": 291085,
+      "game_name": "Portal Dungeon: Character Pack - Hamster",
+      "file": "missing/P/291085-portal-dungeon-character-pack-hamster.json"
+    },
+    {
       "igdb_id": 324335,
       "game_name": "Portal Factory",
       "file": "missing/P/324335-portal-factory.json"
@@ -253971,6 +254156,11 @@
       "igdb_id": 93026,
       "game_name": "Prezzemolo in una Giornata da Incubo",
       "file": "missing/P/93026-prezzemolo-in-una-giornata-da-incubo.json"
+    },
+    {
+      "igdb_id": 291069,
+      "game_name": "Price of Power",
+      "file": "missing/P/291069-price-of-power.json"
     },
     {
       "igdb_id": 394860,
@@ -271178,6 +271368,11 @@
       "file": "missing/R/345469-rimpark-a-burning-world.json"
     },
     {
+      "igdb_id": 291070,
+      "game_name": "RimWorld: Anomaly",
+      "file": "missing/R/291070-rimworld-anomaly.json"
+    },
+    {
       "igdb_id": 312014,
       "game_name": "RimWorld: Console Edition - Ideology",
       "file": "missing/R/312014-rimworld-console-edition-ideology.json"
@@ -275113,6 +275308,11 @@
       "file": "missing/R/312350-ronnie-osullivans-snooker.json"
     },
     {
+      "igdb_id": 291079,
+      "game_name": "Ronny's Climb",
+      "file": "missing/R/291079-ronnys-climb.json"
+    },
+    {
       "igdb_id": 264639,
       "game_name": "Ronshade",
       "file": "missing/R/264639-ronshade.json"
@@ -275221,6 +275421,11 @@
       "igdb_id": 116357,
       "game_name": "Rookie Tank",
       "file": "missing/R/116357-rookie-tank.json"
+    },
+    {
+      "igdb_id": 291092,
+      "game_name": "Room",
+      "file": "missing/R/291092-room.json"
     },
     {
       "igdb_id": 301855,
@@ -279791,6 +279996,11 @@
       "igdb_id": 128561,
       "game_name": "Samantha Wins",
       "file": "missing/S/128561-samantha-wins.json"
+    },
+    {
+      "igdb_id": 291084,
+      "game_name": "Samara",
+      "file": "missing/S/291084-samara.json"
     },
     {
       "igdb_id": 64423,
@@ -286978,6 +287188,11 @@
       "file": "missing/S/12221-shadow-of-the-beast-iii.json"
     },
     {
+      "igdb_id": 291048,
+      "game_name": "Shadow of the Devil",
+      "file": "missing/S/291048-shadow-of-the-devil.json"
+    },
+    {
       "igdb_id": 336006,
       "game_name": "Shadow of The Forgotten",
       "file": "missing/S/336006-shadow-of-the-forgotten.json"
@@ -288301,6 +288516,11 @@
       "igdb_id": 202146,
       "game_name": "Shatter Remastered Deluxe",
       "file": "missing/S/202146-shatter-remastered-deluxe.json"
+    },
+    {
+      "igdb_id": 291053,
+      "game_name": "Shatterbound",
+      "file": "missing/S/291053-shatterbound.json"
     },
     {
       "igdb_id": 96977,
@@ -308158,6 +308378,11 @@
       "file": "missing/S/266770-spring-hell.json"
     },
     {
+      "igdb_id": 291052,
+      "game_name": "Spring in Summer",
+      "file": "missing/S/291052-spring-in-summer.json"
+    },
+    {
       "igdb_id": 415910,
       "game_name": "Spring Mosaics",
       "file": "missing/S/415910-spring-mosaics.json"
@@ -318941,6 +319166,11 @@
       "igdb_id": 207834,
       "game_name": "Super Gravitron",
       "file": "missing/S/207834-super-gravitron.json"
+    },
+    {
+      "igdb_id": 291046,
+      "game_name": "Super Grid Runner",
+      "file": "missing/S/291046-super-grid-runner.json"
     },
     {
       "igdb_id": 57144,
@@ -372793,6 +373023,11 @@
       "file": "missing/U/361743-untitled-tomb-runner.json"
     },
     {
+      "igdb_id": 291039,
+      "game_name": "Untitled Zombie Game",
+      "file": "missing/U/291039-untitled-zombie-game.json"
+    },
+    {
       "igdb_id": 181899,
       "game_name": "Untitled: The flower game",
       "file": "missing/U/181899-untitled-the-flower-game.json"
@@ -385668,6 +385903,11 @@
       "file": "missing/W/127373-wienne.json"
     },
     {
+      "igdb_id": 291065,
+      "game_name": "Wife Massage",
+      "file": "missing/W/291065-wife-massage.json"
+    },
+    {
       "igdb_id": 205258,
       "game_name": "Wife Quest: Limited Edition",
       "file": "missing/W/205258-wife-quest-limited-edition.json"
@@ -386976,6 +387216,11 @@
       "igdb_id": 63866,
       "game_name": "Winter's Tail: How One Little Dolphin Learned to Swim Again",
       "file": "missing/W/63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json"
+    },
+    {
+      "igdb_id": 291095,
+      "game_name": "Winterclaw",
+      "file": "missing/W/291095-winterclaw.json"
     },
     {
       "igdb_id": 308238,
@@ -395381,6 +395626,11 @@
       "igdb_id": 318404,
       "game_name": "Yuri Paddle: An Anime Convention Murder Mystery",
       "file": "missing/Y/318404-yuri-paddle-an-anime-convention-murder-mystery.json"
+    },
+    {
+      "igdb_id": 291062,
+      "game_name": "Yuri Sword Saga",
+      "file": "missing/Y/291062-yuri-sword-saga.json"
     },
     {
       "igdb_id": 206157,
