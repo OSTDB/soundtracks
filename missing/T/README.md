@@ -1834,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brainies | 42634 | [42634-the-brainies.json](./42634-the-brainies.json) |
 | The Brave Mouse | 51513 | [51513-the-brave-mouse.json](./51513-the-brave-mouse.json) |
 | The Brave Never Alone | 351109 | [351109-the-brave-never-alone.json](./351109-the-brave-never-alone.json) |
+| The Brazil | 294851 | [294851-the-brazil.json](./294851-the-brazil.json) |
 | The Bread Pub Brawlers | 86118 | [86118-the-bread-pub-brawlers.json](./86118-the-bread-pub-brawlers.json) |
 | The Bridge | 352753 | [352753-the-bridge.json](./352753-the-bridge.json) |
 | The Bridge | 8440 | [8440-the-bridge.json](./8440-the-bridge.json) |
@@ -3155,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Federation Collection | 51924 | [51924-the-last-federation-collection.json](./51924-the-last-federation-collection.json) |
 | The Last Fighter | 209662 | [209662-the-last-fighter.json](./209662-the-last-fighter.json) |
 | The Last Flower | 146304 | [146304-the-last-flower.json](./146304-the-last-flower.json) |
+| The Last Flower | 294869 | [294869-the-last-flower.json](./294869-the-last-flower.json) |
 | The last four | 216794 | [216794-the-last-four.json](./216794-the-last-four.json) |
 | The Last Game | 362294 | [362294-the-last-game.json](./362294-the-last-game.json) |
 | The Last Gift | 381102 | [381102-the-last-gift.json](./381102-the-last-gift.json) |
@@ -4061,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revelation of Gensokyo | 157121 | [157121-the-revelation-of-gensokyo.json](./157121-the-revelation-of-gensokyo.json) |
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
 | The Reward of Cherishment and Eternity. | 329199 | [329199-the-reward-of-cherishment-and-eternity.json](./329199-the-reward-of-cherishment-and-eternity.json) |
+| The Rewinder: Definitive Edition | 294824 | [294824-the-rewinder-definitive-edition.json](./294824-the-rewinder-definitive-edition.json) |
 | The Rewinder: Root of Evil | 267364 | [267364-the-rewinder-root-of-evil.json](./267364-the-rewinder-root-of-evil.json) |
 | The Rhine Railway: Mannheim - Karlsruhe Collection | 53783 | [53783-the-rhine-railway-mannheim-karlsruhe-collection.json](./53783-the-rhine-railway-mannheim-karlsruhe-collection.json) |
 | The Rhymatory | 399736 | [399736-the-rhymatory.json](./399736-the-rhymatory.json) |
@@ -4396,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Colorful Stories - Happy Edition | 328792 | [328792-the-smurfs-colorful-stories-happy-edition.json](./328792-the-smurfs-colorful-stories-happy-edition.json) |
 | The Smurfs: Colorful Stories - Legendary Edition | 328793 | [328793-the-smurfs-colorful-stories-legendary-edition.json](./328793-the-smurfs-colorful-stories-legendary-edition.json) |
 | The Smurfs: Colorful Stories - Magnificent Edition | 328794 | [328794-the-smurfs-colorful-stories-magnificent-edition.json](./328794-the-smurfs-colorful-stories-magnificent-edition.json) |
+| The Smurfs: Colorful Stories - Personal Boards 5 | 294854 | [294854-the-smurfs-colorful-stories-personal-boards-5.json](./294854-the-smurfs-colorful-stories-personal-boards-5.json) |
 | The Smurfs: Colorful Stories - Personal Boards 6 | 298588 | [298588-the-smurfs-colorful-stories-personal-boards-6.json](./298588-the-smurfs-colorful-stories-personal-boards-6.json) |
 | The Smurfs: Colorful Stories - Platinum Edition | 328795 | [328795-the-smurfs-colorful-stories-platinum-edition.json](./328795-the-smurfs-colorful-stories-platinum-edition.json) |
 | The Smurfs: Colorful Stories - Premium Edition | 328796 | [328796-the-smurfs-colorful-stories-premium-edition.json](./328796-the-smurfs-colorful-stories-premium-edition.json) |
