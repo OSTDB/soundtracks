@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T04:31:39.269Z",
-  "total_missing": 76609,
+  "generated_at": "2026-09-16T04:41:37.334Z",
+  "total_missing": 76615,
   "games": [
     {
       "igdb_id": 306086,
@@ -5776,11 +5776,6 @@
       "igdb_id": 357801,
       "game_name": "Agent Panda",
       "file": "missing/A/357801-agent-panda.json"
-    },
-    {
-      "igdb_id": 374042,
-      "game_name": "Agent Pigeon 7",
-      "file": "missing/A/374042-agent-pigeon-7.json"
     },
     {
       "igdb_id": 229331,
@@ -39216,6 +39211,11 @@
       "igdb_id": 47219,
       "game_name": "Bop'n Rumble",
       "file": "missing/B/47219-bopn-rumble.json"
+    },
+    {
+      "igdb_id": 325696,
+      "game_name": "Bopimo!",
+      "file": "missing/B/325696-bopimo.json"
     },
     {
       "igdb_id": 14333,
@@ -86916,6 +86916,11 @@
       "igdb_id": 15489,
       "game_name": "Dr. Seuss: How the Grinch Stole Christmas!",
       "file": "missing/D/15489-dr-seuss-how-the-grinch-stole-christmas.json"
+    },
+    {
+      "igdb_id": 325695,
+      "game_name": "Dr. Seuss' How the Grinch Stole Christmas: Collector's Edition - Rhyme Time",
+      "file": "missing/D/325695-dr-seuss-how-the-grinch-stole-christmas-collectors-edition-rhyme-time.json"
     },
     {
       "igdb_id": 5814,
@@ -230763,6 +230768,11 @@
       "file": "missing/P/75896-patlabor-the-mobile-police.json"
     },
     {
+      "igdb_id": 325690,
+      "game_name": "Pato & Lobo",
+      "file": "missing/P/325690-pato-and-lobo.json"
+    },
+    {
       "igdb_id": 253376,
       "game_name": "Patou",
       "file": "missing/P/253376-patou.json"
@@ -252613,6 +252623,11 @@
       "file": "missing/R/237953-rally-point-3.json"
     },
     {
+      "igdb_id": 325692,
+      "game_name": "Rally Pro Contest",
+      "file": "missing/R/325692-rally-pro-contest.json"
+    },
+    {
       "igdb_id": 76648,
       "game_name": "Rally Racers",
       "file": "missing/R/76648-rally-racers.json"
@@ -252866,6 +252881,11 @@
       "igdb_id": 156602,
       "game_name": "Randomlands",
       "file": "missing/R/156602-randomlands.json"
+    },
+    {
+      "igdb_id": 325694,
+      "game_name": "Randotura",
+      "file": "missing/R/325694-randotura.json"
     },
     {
       "igdb_id": 326073,
@@ -285136,6 +285156,11 @@
       "igdb_id": 70329,
       "game_name": "SmileTris 3",
       "file": "missing/S/70329-smiletris-3.json"
+    },
+    {
+      "igdb_id": 325697,
+      "game_name": "Smiley Dusty",
+      "file": "missing/S/325697-smiley-dusty.json"
     },
     {
       "igdb_id": 140533,
@@ -326046,6 +326071,11 @@
       "igdb_id": 411613,
       "game_name": "The Grand Prismatic",
       "file": "missing/T/411613-the-grand-prismatic.json"
+    },
+    {
+      "igdb_id": 325693,
+      "game_name": "The Grandma from Coco in Sonic 1",
+      "file": "missing/T/325693-the-grandma-from-coco-in-sonic-1.json"
     },
     {
       "igdb_id": 163955,
