@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Beasts | 379860 | [379860-gem-beasts.json](./379860-gem-beasts.json) |
 | Gem Blast | 311785 | [311785-gem-blast.json](./311785-gem-blast.json) |
 | Gem Brawl Duel | 399732 | [399732-gem-brawl-duel.json](./399732-gem-brawl-duel.json) |
+| Gem Island | 326812 | [326812-gem-island.json](./326812-gem-island.json) |
 | Gem Jam | 130964 | [130964-gem-jam.json](./130964-gem-jam.json) |
 | Gem Miner: Dig Deeper | 296070 | [296070-gem-miner-dig-deeper.json](./296070-gem-miner-dig-deeper.json) |
 | Gem Phrase | 237379 | [237379-gem-phrase.json](./237379-gem-phrase.json) |
