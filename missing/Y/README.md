@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Shadows of New York | 322399 | [322399-yakuza-shadows-of-new-york.json](./322399-yakuza-shadows-of-new-york.json) |
 | Yakuza: Dead Souls | 7489 | [7489-yakuza-dead-souls.json](./7489-yakuza-dead-souls.json) |
 | Yakuza: Like a Dragon | 36550 | [36550-yakuza-like-a-dragon.json](./36550-yakuza-like-a-dragon.json) |
+| Yakuza: Like a Dragon - Legends Costume Set | 318035 | [318035-yakuza-like-a-dragon-legends-costume-set.json](./318035-yakuza-like-a-dragon-legends-costume-set.json) |
 | Yakuza: Like a Dragon - Limited Edition | 386271 | [386271-yakuza-like-a-dragon-limited-edition.json](./386271-yakuza-like-a-dragon-limited-edition.json) |
 | Yakuza: Like a Dragon - Pachislot Machines | 382341 | [382341-yakuza-like-a-dragon-pachislot-machines.json](./382341-yakuza-like-a-dragon-pachislot-machines.json) |
 | Yama no Susume: Next Summit - Ano Yama ni, Mou Ichido | 277306 | [277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json](./277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json) |
