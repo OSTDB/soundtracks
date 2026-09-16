@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis 2 | 1480 | [1480-nemesis-2.json](./1480-nemesis-2.json) |
 | Nemesis Realms | 80883 | [80883-nemesis-realms.json](./80883-nemesis-realms.json) |
 | Nemesis the Warlock | 37187 | [37187-nemesis-the-warlock.json](./37187-nemesis-the-warlock.json) |
+| Nemesis Z | 287211 | [287211-nemesis-z.json](./287211-nemesis-z.json) |
 | Nemesis: The Final Challenge | 262391 | [262391-nemesis-the-final-challenge.json](./262391-nemesis-the-final-challenge.json) |
 | Nemesis: The Final Challenge | 262392 | [262392-nemesis-the-final-challenge.json](./262392-nemesis-the-final-challenge.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
@@ -1785,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
 | Norukasoruka | 398984 | [398984-norukasoruka.json](./398984-norukasoruka.json) |
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
+| Nose | 287230 | [287230-nose.json](./287230-nose.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
 | NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
 | Nosos | 175885 | [175885-nosos.json](./175885-nosos.json) |
