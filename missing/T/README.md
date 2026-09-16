@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tee Off! | 95449 | [95449-tee-off.json](./95449-tee-off.json) |
 | Tee-riffic Golf. | 180775 | [180775-tee-riffic-golf.json](./180775-tee-riffic-golf.json) |
 | TeeDee | 327390 | [327390-teedee.json](./327390-teedee.json) |
+| TEEFAX: Cold Case | 289442 | [289442-teefax-cold-case.json](./289442-teefax-cold-case.json) |
 | Teel Me You! | 181361 | [181361-teel-me-you.json](./181361-teel-me-you.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
@@ -3889,6 +3890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
 | The Outlast Trials: Porcelain Observer Pack | 366838 | [366838-the-outlast-trials-porcelain-observer-pack.json](./366838-the-outlast-trials-porcelain-observer-pack.json) |
 | The Outlast Trials: Project Relapse | 342069 | [342069-the-outlast-trials-project-relapse.json](./342069-the-outlast-trials-project-relapse.json) |
+| The Outlast Trials: Reagent Starter Pack | 289436 | [289436-the-outlast-trials-reagent-starter-pack.json](./289436-the-outlast-trials-reagent-starter-pack.json) |
 | The Outlast Trials: Spelunking For Your Life Pack | 366837 | [366837-the-outlast-trials-spelunking-for-your-life-pack.json](./366837-the-outlast-trials-spelunking-for-your-life-pack.json) |
 | The Outlast Trials: Terrified Toddler Pack | 366835 | [366835-the-outlast-trials-terrified-toddler-pack.json](./366835-the-outlast-trials-terrified-toddler-pack.json) |
 | The Outlast Trials: World of Heavyweights Pack | 366839 | [366839-the-outlast-trials-world-of-heavyweights-pack.json](./366839-the-outlast-trials-world-of-heavyweights-pack.json) |
@@ -7601,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: PREG B16mnopux 039 | 205553 | [205553-trainz-plus-preg-b16mnopux-039.json](./205553-trainz-plus-preg-b16mnopux-039.json) |
 | Trainz Plus: PREG B16mnopux 087 | 205564 | [205564-trainz-plus-preg-b16mnopux-087.json](./205564-trainz-plus-preg-b16mnopux-087.json) |
 | Trainz Plus: Pro Train - Class 68 TPN | 205546 | [205546-trainz-plus-pro-train-class-68-tpn.json](./205546-trainz-plus-pro-train-class-68-tpn.json) |
+| Trainz Plus: Pro Train - SD40-2 Loco Bundle 1 | 289477 | [289477-trainz-plus-pro-train-sd40-2-loco-bundle-1.json](./289477-trainz-plus-pro-train-sd40-2-loco-bundle-1.json) |
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 2 | 292662 | [292662-trainz-plus-pro-train-sd40-2-loco-bundle-2.json](./292662-trainz-plus-pro-train-sd40-2-loco-bundle-2.json) |
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 4 | 306105 | [306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json](./306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json) |
 | Trainz Plus: Pro Train - Sequoia Valley | 306106 | [306106-trainz-plus-pro-train-sequoia-valley.json](./306106-trainz-plus-pro-train-sequoia-valley.json) |
@@ -7642,6 +7645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: Potteries Loop Line | 205042 | [205042-trainz-railroad-simulator-2019-potteries-loop-line.json](./205042-trainz-railroad-simulator-2019-potteries-loop-line.json) |
 | Trainz Railroad Simulator 2019: Pro Train - DB BR Class 85 001 | 211918 | [211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json](./211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json) |
 | Trainz Railroad Simulator 2019: Pro Train - DB Class 44 | 227274 | [227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json](./227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json) |
+| Trainz Railroad Simulator 2019: Pro Train - SD40-2 Loco Bundle 1 | 289475 | [289475-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-1.json](./289475-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2019: Pro Train - SD40-2 Loco Bundle 2 | 292666 | [292666-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-2.json](./292666-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-2.json) |
 | Trainz Railroad Simulator 2019: Pro Train - TGV Duplex | 212242 | [212242-trainz-railroad-simulator-2019-pro-train-tgv-duplex.json](./212242-trainz-railroad-simulator-2019-pro-train-tgv-duplex.json) |
 | Trainz Railroad Simulator 2019: Pro Train DB/DR Auxiliary Train | 237947 | [237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json](./237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json) |
@@ -7667,6 +7671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Port Saturn | 288211 | [288211-trainz-railroad-simulator-2022-port-saturn.json](./288211-trainz-railroad-simulator-2022-port-saturn.json) |
 | Trainz Railroad Simulator 2022: Potteries Loop Line | 205040 | [205040-trainz-railroad-simulator-2022-potteries-loop-line.json](./205040-trainz-railroad-simulator-2022-potteries-loop-line.json) |
 | Trainz Railroad Simulator 2022: Pro Train - DB Class 44 | 227275 | [227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json](./227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json) |
+| Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 1 | 289476 | [289476-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-1.json](./289476-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 2 | 292667 | [292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json](./292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json) |
 | Trainz Railroad Simulator 2022: Pro Train - TGV Duplex | 212241 | [212241-trainz-railroad-simulator-2022-pro-train-tgv-duplex.json](./212241-trainz-railroad-simulator-2022-pro-train-tgv-duplex.json) |
 | Trainz Railroad Simulator 2022: Pro Train DB/DR Auxiliary Train | 237945 | [237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json](./237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json) |
@@ -7966,6 +7971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Topaq | 99582 | [99582-trials-of-topaq.json](./99582-trials-of-topaq.json) |
 | Trials of Yarbil | 325835 | [325835-trials-of-yarbil.json](./325835-trials-of-yarbil.json) |
 | Trialspire | 397782 | [397782-trialspire.json](./397782-trialspire.json) |
+| Trianga's Project: Battle Splash 2.0 - Earth's Legacy M.A.I.A | 289466 | [289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json](./289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json) |
 | Triangle Defense | 371970 | [371970-triangle-defense.json](./371970-triangle-defense.json) |
 | Triangle Legacy Revolution | 112317 | [112317-triangle-legacy-revolution.json](./112317-triangle-legacy-revolution.json) |
 | Triangle Project Otome Visual Novels | 116382 | [116382-triangle-project-otome-visual-novels.json](./116382-triangle-project-otome-visual-novels.json) |
