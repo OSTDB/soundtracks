@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: Pirates Treasured Love in the Ocean | 225665 | [225665-shall-we-date-pirates-treasured-love-in-the-ocean.json](./225665-shall-we-date-pirates-treasured-love-in-the-ocean.json) |
 | Shall We Date?: War of Prayers - Inori no Otome | 225662 | [225662-shall-we-date-war-of-prayers-inori-no-otome.json](./225662-shall-we-date-war-of-prayers-inori-no-otome.json) |
 | Shall we date?: We the Girls | 225671 | [225671-shall-we-date-we-the-girls.json](./225671-shall-we-date-we-the-girls.json) |
+| Shallow Sea Roaming | 298187 | [298187-shallow-sea-roaming.json](./298187-shallow-sea-roaming.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
 | Shaman King: Master of Spirits | 6590 | [6590-shaman-king-master-of-spirits.json](./6590-shaman-king-master-of-spirits.json) |
@@ -2292,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipwrecked | 313859 | [313859-shipwrecked.json](./313859-shipwrecked.json) |
 | Shipwrecked 64 | 284041 | [284041-shipwrecked-64.json](./284041-shipwrecked-64.json) |
 | Shipwrecked: A Quick Automation | 360651 | [360651-shipwrecked-a-quick-automation.json](./360651-shipwrecked-a-quick-automation.json) |
+| Shipwrecked: Lost Colony | 298166 | [298166-shipwrecked-lost-colony.json](./298166-shipwrecked-lost-colony.json) |
 | Shiraha Kirameku Koi Shirabe | 194531 | [194531-shiraha-kirameku-koi-shirabe.json](./194531-shiraha-kirameku-koi-shirabe.json) |
 | Shirazu Yama | 196886 | [196886-shirazu-yama.json](./196886-shirazu-yama.json) |
 | Shire Scopes | 255126 | [255126-shire-scopes.json](./255126-shire-scopes.json) |
@@ -2625,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sierra Championship Boxing | 73238 | [73238-sierra-championship-boxing.json](./73238-sierra-championship-boxing.json) |
 | Sierra Ridge Technologies | 349315 | [349315-sierra-ridge-technologies.json](./349315-sierra-ridge-technologies.json) |
 | Sierra's 3-D Helicopter Simulator | 72087 | [72087-sierras-3-d-helicopter-simulator.json](./72087-sierras-3-d-helicopter-simulator.json) |
+| Sifera | 298147 | [298147-sifera.json](./298147-sifera.json) |
 | Sift Heads | 209633 | [209633-sift-heads.json](./209633-sift-heads.json) |
 | Sift Heads 0: The Starting Point | 357302 | [357302-sift-heads-0-the-starting-point.json](./357302-sift-heads-0-the-starting-point.json) |
 | Sift Heads 1: Remasterized | 359423 | [359423-sift-heads-1-remasterized.json](./359423-sift-heads-1-remasterized.json) |
@@ -3592,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sludgineers | 389622 | [389622-sludgineers.json](./389622-sludgineers.json) |
 | Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
 | Slugger 2 | 326802 | [326802-slugger-2.json](./326802-slugger-2.json) |
+| Sluggerpunk | 298141 | [298141-sluggerpunk.json](./298141-sluggerpunk.json) |
 | Sluggish Morss: Days of the Purple Sun | 30831 | [30831-sluggish-morss-days-of-the-purple-sun.json](./30831-sluggish-morss-days-of-the-purple-sun.json) |
 | Sluggy Jean Takes a Hike | 169365 | [169365-sluggy-jean-takes-a-hike.json](./169365-sluggy-jean-takes-a-hike.json) |
 | Slugmania | 225098 | [225098-slugmania.json](./225098-slugmania.json) |
@@ -6082,6 +6086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel and Nuts | 239645 | [239645-squirrel-and-nuts.json](./239645-squirrel-and-nuts.json) |
 | Squirrel Bobble | 246392 | [246392-squirrel-bobble.json](./246392-squirrel-bobble.json) |
 | Squirrel Day | 278693 | [278693-squirrel-day.json](./278693-squirrel-day.json) |
+| Squirrel Knight | 298145 | [298145-squirrel-knight.json](./298145-squirrel-knight.json) |
 | Squirrel Launcher | 230307 | [230307-squirrel-launcher.json](./230307-squirrel-launcher.json) |
 | Squirrel Sphere | 89999 | [89999-squirrel-sphere.json](./89999-squirrel-sphere.json) |
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
@@ -6891,6 +6896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: MegaCorp | 111331 | [111331-stellaris-megacorp.json](./111331-stellaris-megacorp.json) |
 | Stellaris: Overlord | 196297 | [196297-stellaris-overlord.json](./196297-stellaris-overlord.json) |
 | Stellaris: Plantoids Species Pack | 215399 | [215399-stellaris-plantoids-species-pack.json](./215399-stellaris-plantoids-species-pack.json) |
+| Stellaris: Season 08 | 298182 | [298182-stellaris-season-08.json](./298182-stellaris-season-08.json) |
 | Stellaris: Shadows of the Shroud | 336603 | [336603-stellaris-shadows-of-the-shroud.json](./336603-stellaris-shadows-of-the-shroud.json) |
 | Stellaris: Toxoids | 218170 | [218170-stellaris-toxoids.json](./218170-stellaris-toxoids.json) |
 | Stellarons Superstars: Detectives of the Scarlet Horizons | 300838 | [300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json](./300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json) |
@@ -7074,6 +7080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StopSign | 167253 | [167253-stopsign.json](./167253-stopsign.json) |
 | Storage Anomaly | 325821 | [325821-storage-anomaly.json](./325821-storage-anomaly.json) |
 | Storage Guys | 318046 | [318046-storage-guys.json](./318046-storage-guys.json) |
+| Storage Looter | 298154 | [298154-storage-looter.json](./298154-storage-looter.json) |
 | Storage Master | 212483 | [212483-storage-master.json](./212483-storage-master.json) |
 | Storage Warfare | 303220 | [303220-storage-warfare.json](./303220-storage-warfare.json) |
 | Store It! | 355035 | [355035-store-it.json](./355035-store-it.json) |
@@ -9292,6 +9299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Bones 4 | 296359 | [296359-swords-and-bones-4.json](./296359-swords-and-bones-4.json) |
 | Swords & Bones 5 | 360592 | [360592-swords-and-bones-5.json](./360592-swords-and-bones-5.json) |
 | Swords & Bones: Complete Edition | 250365 | [250365-swords-and-bones-complete-edition.json](./250365-swords-and-bones-complete-edition.json) |
+| Swords & Crystals: Dragon Hatchling Pet | 298185 | [298185-swords-and-crystals-dragon-hatchling-pet.json](./298185-swords-and-crystals-dragon-hatchling-pet.json) |
 | Swords & Darkness | 85411 | [85411-swords-and-darkness.json](./85411-swords-and-darkness.json) |
 | Swords & Slippers | 374141 | [374141-swords-and-slippers.json](./374141-swords-and-slippers.json) |
 | Swords & Soldiers | 210258 | [210258-swords-and-soldiers.json](./210258-swords-and-soldiers.json) |
