@@ -1723,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evocation | 270116 | [270116-evocation.json](./270116-evocation.json) |
 | Evocation: Oltre il Sogno | 242533 | [242533-evocation-oltre-il-sogno.json](./242533-evocation-oltre-il-sogno.json) |
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
+| Evoids | 331434 | [331434-evoids.json](./331434-evoids.json) |
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
 | EvoLife | 323744 | [323744-evolife.json](./323744-evolife.json) |
 | Evolit | 346152 | [346152-evolit.json](./346152-evolit.json) |
