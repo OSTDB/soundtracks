@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai-3-ji Super Robot Taisen | 42564 | [42564-dai-3-ji-super-robot-taisen.json](./42564-dai-3-ji-super-robot-taisen.json) |
 | Dai-3-ji Super Robot Taisen Alpha: Shuuen no Ginga he | 79338 | [79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json](./79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json) |
 | Dai-4-ji Super Robot Taisen | 42563 | [42563-dai-4-ji-super-robot-taisen.json](./42563-dai-4-ji-super-robot-taisen.json) |
+| Dai-chan's Great Adventure: World's End | 320366 | [320366-dai-chans-great-adventure-worlds-end.json](./320366-dai-chans-great-adventure-worlds-end.json) |
 | Daiblos Core | 413067 | [413067-daiblos-core.json](./413067-daiblos-core.json) |
 | Daibouken: Saint Elmos no Kiseki | 97337 | [97337-daibouken-saint-elmos-no-kiseki.json](./97337-daibouken-saint-elmos-no-kiseki.json) |
 | Daibutsu Paradise | 151748 | [151748-daibutsu-paradise.json](./151748-daibutsu-paradise.json) |
@@ -1232,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Hunter 2 | 95989 | [95989-deep-sea-hunter-2.json](./95989-deep-sea-hunter-2.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
+| Deep Snow Delivery | 320396 | [320396-deep-snow-delivery.json](./320396-deep-snow-delivery.json) |
 | Deep Soup | 406707 | [406707-deep-soup.json](./406707-deep-soup.json) |
 | Deep Space | 108405 | [108405-deep-space.json](./108405-deep-space.json) |
 | Deep Space | 237377 | [237377-deep-space.json](./237377-deep-space.json) |
@@ -3149,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors | 16987 | [16987-doors.json](./16987-doors.json) |
 | Doors and Doors | 244498 | [244498-doors-and-doors.json](./244498-doors-and-doors.json) |
 | Doors Closed | 415070 | [415070-doors-closed.json](./415070-doors-closed.json) |
+| Doors More Doors | 320347 | [320347-doors-more-doors.json](./320347-doors-more-doors.json) |
 | Doors of Doom | 13605 | [13605-doors-of-doom.json](./13605-doors-of-doom.json) |
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
 | Doorways | 185655 | [185655-doorways.json](./185655-doorways.json) |
@@ -4594,4 +4597,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dysto-wanderer | 319016 | [319016-dysto-wanderer.json](./319016-dysto-wanderer.json) |
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
 | Dystopia | 108428 | [108428-dystopia.json](./108428-dystopia.json) |
+| DZ & Riggy Vs. the Fantasy World | 320412 | [320412-dz-and-riggy-vs-the-fantasy-world.json](./320412-dz-and-riggy-vs-the-fantasy-world.json) |
 | Dziedzic: A Book of Unanswered Questions | 299735 | [299735-dziedzic-a-book-of-unanswered-questions.json](./299735-dziedzic-a-book-of-unanswered-questions.json) |
