@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrestrial | 311826 | [311826-terrestrial.json](./311826-terrestrial.json) |
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
+| Terror Diversion | 318013 | [318013-terror-diversion.json](./318013-terror-diversion.json) |
 | Terror Mod Ultraultimatum HD | 330547 | [330547-terror-mod-ultraultimatum-hd.json](./330547-terror-mod-ultraultimatum-hd.json) |
 | Terror of the Catacombs | 11046 | [11046-terror-of-the-catacombs.json](./11046-terror-of-the-catacombs.json) |
 | Terror of the Deep | 37178 | [37178-terror-of-the-deep.json](./37178-terror-of-the-deep.json) |
@@ -4778,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
+| The Vanished Soul | 318063 | [318063-the-vanished-soul.json](./318063-the-vanished-soul.json) |
 | The Vault | 295247 | [295247-the-vault.json](./295247-the-vault.json) |
 | The Vault | 97331 | [97331-the-vault.json](./97331-the-vault.json) |
 | The Vaults | 197914 | [197914-the-vaults.json](./197914-the-vaults.json) |
@@ -5927,6 +5929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Splatter | 110360 | [110360-time-splatter.json](./110360-time-splatter.json) |
 | Time Stand Still | 10992 | [10992-time-stand-still.json](./10992-time-stand-still.json) |
 | Time Stripper | 57633 | [57633-time-stripper.json](./57633-time-stripper.json) |
+| Time Tenshi | 318022 | [318022-time-tenshi.json](./318022-time-tenshi.json) |
 | Time Tenshi Paradox: Episode 2 | 96616 | [96616-time-tenshi-paradox-episode-2.json](./96616-time-tenshi-paradox-episode-2.json) |
 | Time to Die: Adventures | 53810 | [53810-time-to-die-adventures.json](./53810-time-to-die-adventures.json) |
 | Time to Fight | 114319 | [114319-time-to-fight.json](./114319-time-to-fight.json) |
@@ -8007,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try Not to Laugh | 102754 | [102754-try-not-to-laugh.json](./102754-try-not-to-laugh.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
 | Trying to Sing in Static | 230291 | [230291-trying-to-sing-in-static.json](./230291-trying-to-sing-in-static.json) |
+| Tryment | 318057 | [318057-tryment.json](./318057-tryment.json) |
 | Trypan | 392263 | [392263-trypan.json](./392263-trypan.json) |
 | TS Marketplace: 1800s Rolling Stock Pack 02 Add-On | 227296 | [227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json](./227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json) |
 | TS Marketplace: B&O Mountain Subdivision Scenario Pack 01 | 227287 | [227287-ts-marketplace-b-and-o-mountain-subdivision-scenario-pack-01.json](./227287-ts-marketplace-b-and-o-mountain-subdivision-scenario-pack-01.json) |
