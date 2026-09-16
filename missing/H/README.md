@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Fire | 268729 | [268729-heart-of-fire.json](./268729-heart-of-fire.json) |
 | Heart of Gold | 402263 | [402263-heart-of-gold.json](./402263-heart-of-gold.json) |
 | Heart Of Nadia | 288236 | [288236-heart-of-nadia.json](./288236-heart-of-nadia.json) |
+| Heart of the Hedgehog | 330288 | [330288-heart-of-the-hedgehog.json](./330288-heart-of-the-hedgehog.json) |
 | Heart of the Woods | 102326 | [102326-heart-of-the-woods.json](./102326-heart-of-the-woods.json) |
 | Heart Piano Tiles | 96697 | [96697-heart-piano-tiles.json](./96697-heart-piano-tiles.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
