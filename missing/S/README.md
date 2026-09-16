@@ -1550,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sevenfall | 387540 | [387540-sevenfall.json](./387540-sevenfall.json) |
 | Seventh Angel | 189129 | [189129-seventh-angel.json](./189129-seventh-angel.json) |
 | Seventh Choir | 337713 | [337713-seventh-choir.json](./337713-seventh-choir.json) |
+| Seventh Song | 309510 | [309510-seventh-song.json](./309510-seventh-song.json) |
 | Sever the Wicked! | 363470 | [363470-sever-the-wicked.json](./363470-sever-the-wicked.json) |
 | Severance | 196235 | [196235-severance.json](./196235-severance.json) |
 | Severance | 327843 | [327843-severance.json](./327843-severance.json) |
@@ -2364,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Game Kari | 211718 | [211718-shooting-game-kari.json](./211718-shooting-game-kari.json) |
 | Shooting Master | 366914 | [366914-shooting-master.json](./366914-shooting-master.json) |
 | Shooting Range by Thornbury Software | 84871 | [84871-shooting-range-by-thornbury-software.json](./84871-shooting-range-by-thornbury-software.json) |
+| Shooting Range Simulator | 309532 | [309532-shooting-range-simulator.json](./309532-shooting-range-simulator.json) |
 | Shooting Star Rockman Wave Transer | 352786 | [352786-shooting-star-rockman-wave-transer.json](./352786-shooting-star-rockman-wave-transer.json) |
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
@@ -4773,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman: Karada no Naka no Daibouken | 230278 | [230278-soreike-anpanman-karada-no-naka-no-daibouken.json](./230278-soreike-anpanman-karada-no-naka-no-daibouken.json) |
 | Soreike! Anpanman: Yukai nao Tanjoue | 230279 | [230279-soreike-anpanman-yukai-nao-tanjoue.json](./230279-soreike-anpanman-yukai-nao-tanjoue.json) |
 | Sorrow Asylum 2 | 264627 | [264627-sorrow-asylum-2.json](./264627-sorrow-asylum-2.json) |
+| Sorrow Asylum 3 | 309515 | [309515-sorrow-asylum-3.json](./309515-sorrow-asylum-3.json) |
 | Sorrowself | 143731 | [143731-sorrowself.json](./143731-sorrowself.json) |
 | Sorry About The Mess | 414322 | [414322-sorry-about-the-mess.json](./414322-sorry-about-the-mess.json) |
 | Sorry Sir, I'm out of controls | 184581 | [184581-sorry-sir-im-out-of-controls.json](./184581-sorry-sir-im-out-of-controls.json) |
@@ -8957,6 +8960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Hunt | 208347 | [208347-swamp-hunt.json](./208347-swamp-hunt.json) |
 | Swamp Sim | 345586 | [345586-swamp-sim.json](./345586-swamp-sim.json) |
 | Swamp Thing | 365685 | [365685-swamp-thing.json](./365685-swamp-thing.json) |
+| Swamped! | 309525 | [309525-swamped.json](./309525-swamped.json) |
 | Swampify | 305753 | [305753-swampify.json](./305753-swampify.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
 | Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
