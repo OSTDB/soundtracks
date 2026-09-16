@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
 | Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
+| Afterlight Catacombs | 320931 | [320931-afterlight-catacombs.json](./320931-afterlight-catacombs.json) |
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
 | Aftermath | 35770 | [35770-aftermath.json](./35770-aftermath.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
@@ -585,6 +586,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
 | Age of Gods | 399092 | [399092-age-of-gods.json](./399092-age-of-gods.json) |
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
+| Age of Heroes II: Underground Horror | 320973 | [320973-age-of-heroes-ii-underground-horror.json](./320973-age-of-heroes-ii-underground-horror.json) |
+| Age Of Heroes: Army Of Darkness | 320970 | [320970-age-of-heroes-army-of-darkness.json](./320970-age-of-heroes-army-of-darkness.json) |
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
 | Age of War | 18348 | [18348-age-of-war.json](./18348-age-of-war.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
@@ -604,7 +607,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agile Warrior F-111X | 43936 | [43936-agile-warrior-f-111x.json](./43936-agile-warrior-f-111x.json) |
 | Aglet: The Sneaker Game | 205586 | [205586-aglet-the-sneaker-game.json](./205586-aglet-the-sneaker-game.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
-| Agony Online | 191799 | [191799-agony-online.json](./191799-agony-online.json) |
 | Agony VR | 197402 | [197402-agony-vr.json](./197402-agony-vr.json) |
 | Agony: Lords of Hell | 211421 | [211421-agony-lords-of-hell.json](./211421-agony-lords-of-hell.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
@@ -1376,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alum | 26873 | [26873-alum.json](./26873-alum.json) |
 | Alundra | 1175 | [1175-alundra.json](./1175-alundra.json) |
 | Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
+| Alvin's Chipmunk Nut Goody Bars | 320993 | [320993-alvins-chipmunk-nut-goody-bars.json](./320993-alvins-chipmunk-nut-goody-bars.json) |
 | Alvo | 75119 | [75119-alvo.json](./75119-alvo.json) |
 | Alwa's Awakening | 10681 | [10681-alwas-awakening.json](./10681-alwas-awakening.json) |
 | Alwa's Awakening & Cathedral | 214532 | [214532-alwas-awakening-and-cathedral.json](./214532-alwas-awakening-and-cathedral.json) |
@@ -2069,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Loop | 293091 | [293091-anomaly-loop.json](./293091-anomaly-loop.json) |
 | Anomaly Observer | 353284 | [353284-anomaly-observer.json](./353284-anomaly-observer.json) |
 | Anomaly Patroller | 325240 | [325240-anomaly-patroller.json](./325240-anomaly-patroller.json) |
+| Anomaly President | 320975 | [320975-anomaly-president.json](./320975-anomaly-president.json) |
 | Anomaly Tunnel | 413595 | [413595-anomaly-tunnel.json](./413595-anomaly-tunnel.json) |
 | Anomaly: Warzone Earth | 8758 | [8758-anomaly-warzone-earth.json](./8758-anomaly-warzone-earth.json) |
 | Anomalytics: From the Files of the Arcane Statistics Authority | 293094 | [293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json](./293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json) |
@@ -2492,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Master of Weapon | 287109 | [287109-arcade-archives-master-of-weapon.json](./287109-arcade-archives-master-of-weapon.json) |
 | Arcade Archives: Mazinger Z | 249490 | [249490-arcade-archives-mazinger-z.json](./249490-arcade-archives-mazinger-z.json) |
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
+| Arcade Archives: Metamorphic Force | 320940 | [320940-arcade-archives-metamorphic-force.json](./320940-arcade-archives-metamorphic-force.json) |
 | Arcade Archives: Ninja Spirit | 120330 | [120330-arcade-archives-ninja-spirit.json](./120330-arcade-archives-ninja-spirit.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
