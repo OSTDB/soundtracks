@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Drill | 22364 | [22364-oil-drill.json](./22364-oil-drill.json) |
 | Oil Patch Simulations | 110366 | [110366-oil-patch-simulations.json](./110366-oil-patch-simulations.json) |
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
+| Oil Truck Transporter | 310055 | [310055-oil-truck-transporter.json](./310055-oil-truck-transporter.json) |
 | Oil Tycoon 2 | 219261 | [219261-oil-tycoon-2.json](./219261-oil-tycoon-2.json) |
 | Oink Royale | 185600 | [185600-oink-royale.json](./185600-oink-royale.json) |
 | Oirbo | 118398 | [118398-oirbo.json](./118398-oirbo.json) |
@@ -882,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oops! All Gyarus! | 294991 | [294991-oops-all-gyarus.json](./294991-oops-all-gyarus.json) |
 | Oops! Inc. Emergency Center | 395044 | [395044-oops-inc-emergency-center.json](./395044-oops-inc-emergency-center.json) |
 | Oops! You're the Hero! | 412427 | [412427-oops-youre-the-hero.json](./412427-oops-youre-the-hero.json) |
+| Oopz-Oofs | 310026 | [310026-oopz-oofs.json](./310026-oopz-oofs.json) |
 | Oort Online | 9551 | [9551-oort-online.json](./9551-oort-online.json) |
 | Ooze: Creepy Nights | 57695 | [57695-ooze-creepy-nights.json](./57695-ooze-creepy-nights.json) |
 | Oozing Blasphemy | 271241 | [271241-oozing-blasphemy.json](./271241-oozing-blasphemy.json) |
