@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlett Mysteries: Cursed Child | 37006 | [37006-scarlett-mysteries-cursed-child.json](./37006-scarlett-mysteries-cursed-child.json) |
 | ScarQuest | 301242 | [301242-scarquest.json](./301242-scarquest.json) |
 | Scarred | 264640 | [264640-scarred.json](./264640-scarred.json) |
+| Scarry Village | 301995 | [301995-scarry-village.json](./301995-scarry-village.json) |
 | Scars of Mars | 267687 | [267687-scars-of-mars.json](./267687-scars-of-mars.json) |
 | Scars of Summer | 169438 | [169438-scars-of-summer.json](./169438-scars-of-summer.json) |
 | Scars of Summer: After | 381696 | [381696-scars-of-summer-after.json](./381696-scars-of-summer-after.json) |
@@ -5835,6 +5836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Season | 361696 | [361696-spooky-season.json](./361696-spooky-season.json) |
 | Spooky Shelter | 242228 | [242228-spooky-shelter.json](./242228-spooky-shelter.json) |
 | Spooky Shooter 3D | 186802 | [186802-spooky-shooter-3d.json](./186802-spooky-shooter-3d.json) |
+| Spooky Shopping Tour! | 301966 | [301966-spooky-shopping-tour.json](./301966-spooky-shopping-tour.json) |
 | Spooky Solitaire: Halloween | 386149 | [386149-spooky-solitaire-halloween.json](./386149-spooky-solitaire-halloween.json) |
 | Spooky Spins Returns: Crazy Cash Edition - Slots | 276172 | [276172-spooky-spins-returns-crazy-cash-edition-slots.json](./276172-spooky-spins-returns-crazy-cash-edition-slots.json) |
 | Spooky Survivors | 333640 | [333640-spooky-survivors.json](./333640-spooky-survivors.json) |
@@ -7499,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
 | Submarine Samurai | 183556 | [183556-submarine-samurai.json](./183556-submarine-samurai.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
+| Submarines 2D | 301992 | [301992-submarines-2d.json](./301992-submarines-2d.json) |
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
@@ -9324,6 +9327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synaxarion Christian Stories: Great Martyr Christina of Tyre | 324476 | [324476-synaxarion-christian-stories-great-martyr-christina-of-tyre.json](./324476-synaxarion-christian-stories-great-martyr-christina-of-tyre.json) |
 | Sync Together | 390109 | [390109-sync-together.json](./390109-sync-together.json) |
 | Sync: Party Hard | 146845 | [146845-sync-party-hard.json](./146845-sync-party-hard.json) |
+| SYNC: Since You Never Came | 301950 | [301950-sync-since-you-never-came.json](./301950-sync-since-you-never-came.json) |
 | Synced | 121751 | [121751-synced.json](./121751-synced.json) |
 | Synced: Season 1 - Lambent Dawn Trailer | 365090 | [365090-synced-season-1-lambent-dawn-trailer.json](./365090-synced-season-1-lambent-dawn-trailer.json) |
 | Syncers | 368473 | [368473-syncers.json](./368473-syncers.json) |
