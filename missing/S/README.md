@@ -735,9 +735,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scars of Summer: After | 381696 | [381696-scars-of-summer-after.json](./381696-scars-of-summer-after.json) |
 | Scary 8 Bits | 404207 | [404207-scary-8-bits.json](./404207-scary-8-bits.json) |
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
+| Scary Doll: Twin Sister | 303094 | [303094-scary-doll-twin-sister.json](./303094-scary-doll-twin-sister.json) |
 | Scary Game | 356148 | [356148-scary-game.json](./356148-scary-game.json) |
 | Scary Goat 2017 | 89987 | [89987-scary-goat-2017.json](./89987-scary-goat-2017.json) |
 | Scary Granny | 370183 | [370183-scary-granny.json](./370183-scary-granny.json) |
+| Scary Horror Mansion | 303091 | [303091-scary-horror-mansion.json](./303091-scary-horror-mansion.json) |
 | Scary Hospital Horror Game | 157214 | [157214-scary-hospital-horror-game.json](./157214-scary-hospital-horror-game.json) |
 | Scary Hotel | 148531 | [148531-scary-hotel.json](./148531-scary-hotel.json) |
 | Scary Math Teacher Boss Pranks | 303260 | [303260-scary-math-teacher-boss-pranks.json](./303260-scary-math-teacher-boss-pranks.json) |
@@ -752,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Stranger 3D | 303249 | [303249-scary-stranger-3d.json](./303249-scary-stranger-3d.json) |
 | Scary Tales | 171587 | [171587-scary-tales.json](./171587-scary-tales.json) |
 | Scary Tales: Horror School | 337122 | [337122-scary-tales-horror-school.json](./337122-scary-tales-horror-school.json) |
+| Scary Wife Chapter 2 | 303092 | [303092-scary-wife-chapter-2.json](./303092-scary-wife-chapter-2.json) |
 | Scatch 2: The Painter Cat | 278983 | [278983-scatch-2-the-painter-cat.json](./278983-scatch-2-the-painter-cat.json) |
 | Scatterhoard | 185097 | [185097-scatterhoard.json](./185097-scatterhoard.json) |
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
@@ -795,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Crisis | 391605 | [391605-school-crisis.json](./391605-school-crisis.json) |
 | School Days | 371896 | [371896-school-days.json](./371896-school-days.json) |
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
+| School Days Simulator | 303080 | [303080-school-days-simulator.json](./303080-school-days-simulator.json) |
 | School Exit Class 8 | 360079 | [360079-school-exit-class-8.json](./360079-school-exit-class-8.json) |
 | School Idol QT Cool | 127933 | [127933-school-idol-qt-cool.json](./127933-school-idol-qt-cool.json) |
 | School Life Simulator | 97049 | [97049-school-life-simulator.json](./97049-school-life-simulator.json) |
@@ -1047,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Legends | 293633 | [293633-sea-legends.json](./293633-sea-legends.json) |
 | Sea Monster Attacks Hunter | 176446 | [176446-sea-monster-attacks-hunter.json](./176446-sea-monster-attacks-hunter.json) |
 | Sea of Brave: Aidan Adventure | 270125 | [270125-sea-of-brave-aidan-adventure.json](./270125-sea-of-brave-aidan-adventure.json) |
+| Sea of Brave: Beast Island | 303082 | [303082-sea-of-brave-beast-island.json](./303082-sea-of-brave-beast-island.json) |
 | Sea of Change | 302373 | [302373-sea-of-change.json](./302373-sea-of-change.json) |
 | Sea of Giants: Monument Island | 96046 | [96046-sea-of-giants-monument-island.json](./96046-sea-of-giants-monument-island.json) |
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
@@ -2467,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show do Milhão Volume 3 | 122362 | [122362-show-do-milhao-volume-3.json](./122362-show-do-milhao-volume-3.json) |
 | Show do Milho Grande | 359981 | [359981-show-do-milho-grande.json](./359981-show-do-milho-grande.json) |
 | Show It 2 Me | 81216 | [81216-show-it-2-me.json](./81216-show-it-2-me.json) |
+| Show Me How To Live | 303064 | [303064-show-me-how-to-live.json](./303064-show-me-how-to-live.json) |
 | Showdown at Willow Creek | 83599 | [83599-showdown-at-willow-creek.json](./83599-showdown-at-willow-creek.json) |
 | Showdown Bandit | 121497 | [121497-showdown-bandit.json](./121497-showdown-bandit.json) |
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
@@ -3704,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile | 129706 | [129706-smile.json](./129706-smile.json) |
 | Smile For Me: Collector's Edition | 229691 | [229691-smile-for-me-collectors-edition.json](./229691-smile-for-me-collectors-edition.json) |
 | Smile More | 395023 | [395023-smile-more.json](./395023-smile-more.json) |
+| Smile Simulation | 303078 | [303078-smile-simulation.json](./303078-smile-simulation.json) |
 | Smile Town | 338191 | [338191-smile-town.json](./338191-smile-town.json) |
 | SmileTris 2 | 70967 | [70967-smiletris-2.json](./70967-smiletris-2.json) |
 | SmileTris 3 | 70329 | [70329-smiletris-3.json](./70329-smiletris-3.json) |
@@ -5498,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway Challenge 2024 | 292550 | [292550-speedway-challenge-2024.json](./292550-speedway-challenge-2024.json) |
 | Speedway League | 54382 | [54382-speedway-league.json](./54382-speedway-league.json) |
 | Speedway/Tag | 92529 | [92529-speedway-tag.json](./92529-speedway-tag.json) |
+| Speedy 500 | 303110 | [303110-speedy-500.json](./303110-speedy-500.json) |
 | Speedy Biker Xtreme | 257366 | [257366-speedy-biker-xtreme.json](./257366-speedy-biker-xtreme.json) |
 | Speedy Golf | 174340 | [174340-speedy-golf.json](./174340-speedy-golf.json) |
 | Speedy Gonzales | 8077 | [8077-speedy-gonzales.json](./8077-speedy-gonzales.json) |
@@ -7764,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoning Pixel Dungeon | 176998 | [176998-summoning-pixel-dungeon.json](./176998-summoning-pixel-dungeon.json) |
 | Summoning: Ouija Best Practices | 387358 | [387358-summoning-ouija-best-practices.json](./387358-summoning-ouija-best-practices.json) |
 | Summum | 181402 | [181402-summum.json](./181402-summum.json) |
+| Sumo | 303084 | [303084-sumo.json](./303084-sumo.json) |
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
 | Sun Breed | 264037 | [264037-sun-breed.json](./264037-sun-breed.json) |
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
