@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
 | Eko Eko Azarak: Wizard of Darkness | 376543 | [376543-eko-eko-azarak-wizard-of-darkness.json](./376543-eko-eko-azarak-wizard-of-darkness.json) |
 | Ekoh Beach | 189109 | [189109-ekoh-beach.json](./189109-ekoh-beach.json) |
+| El Brujo | 320991 | [320991-el-brujo.json](./320991-el-brujo.json) |
 | El Capitán Trueno | 100184 | [100184-el-capitan-trueno.json](./100184-el-capitan-trueno.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
 | El Chavo | 79918 | [79918-el-chavo.json](./79918-el-chavo.json) |
@@ -450,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
 | El Hincha Rusia 2018 | 104053 | [104053-el-hincha-rusia-2018.json](./104053-el-hincha-rusia-2018.json) |
 | El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
+| El lacasito de Gandalf | 320990 | [320990-el-lacasito-de-gandalf.json](./320990-el-lacasito-de-gandalf.json) |
 | El Ladrón del Tiempo | 321134 | [321134-el-ladron-del-tiempo.json](./321134-el-ladron-del-tiempo.json) |
 | El Misterio del Nilo | 104590 | [104590-el-misterio-del-nilo.json](./104590-el-misterio-del-nilo.json) |
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
