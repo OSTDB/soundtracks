@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Again | 177548 | [177548-again.json](./177548-again.json) |
 | Against All Odds | 228719 | [228719-against-all-odds.json](./228719-against-all-odds.json) |
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
+| Against the Storm: Keepers of the Stone | 315116 | [315116-against-the-storm-keepers-of-the-stone.json](./315116-against-the-storm-keepers-of-the-stone.json) |
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
 | Against Twilight | 349927 | [349927-against-twilight.json](./349927-against-twilight.json) |
 | Agame | 269042 | [269042-agame.json](./269042-agame.json) |
@@ -614,7 +615,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricultural Simulator 2013 | 50492 | [50492-agricultural-simulator-2013.json](./50492-agricultural-simulator-2013.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
 | Agrou | 133456 | [133456-agrou.json](./133456-agrou.json) |
-| Aground Zero | 211418 | [211418-aground-zero.json](./211418-aground-zero.json) |
 | Aguante Imaginario | 107240 | [107240-aguante-imaginario.json](./107240-aguante-imaginario.json) |
 | Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
 | AH-3: ThunderStrike | 156159 | [156159-ah-3-thunderstrike.json](./156159-ah-3-thunderstrike.json) |
