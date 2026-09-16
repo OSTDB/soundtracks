@@ -1197,9 +1197,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Knows Where They're Going | 184053 | [184053-who-knows-where-theyre-going.json](./184053-who-knows-where-theyre-going.json) |
 | Who Must Die | 33112 | [33112-who-must-die.json](./33112-who-must-die.json) |
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
+| Who Wants To Be A Millionaire 2010 | 311654 | [311654-who-wants-to-be-a-millionaire-2010.json](./311654-who-wants-to-be-a-millionaire-2010.json) |
 | Who Wants to Be a Millionaire: 2012 Edition | 65596 | [65596-who-wants-to-be-a-millionaire-2012-edition.json](./65596-who-wants-to-be-a-millionaire-2012-edition.json) |
+| Who Wants to Be a Millionaire: 2nd Edition | 311655 | [311655-who-wants-to-be-a-millionaire-2nd-edition.json](./311655-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: Hitchcock DLC Pack | 289323 | [289323-who-wants-to-be-a-millionaire-hitchcock-dlc-pack.json](./289323-who-wants-to-be-a-millionaire-hitchcock-dlc-pack.json) |
 | Who Wants to Be A Millionaire: Microsoft Games DLC Pack | 318439 | [318439-who-wants-to-be-a-millionaire-microsoft-games-dlc-pack.json](./318439-who-wants-to-be-a-millionaire-microsoft-games-dlc-pack.json) |
+| Who Wants to Be a Millionaire: Music Edition | 311657 | [311657-who-wants-to-be-a-millionaire-music-edition.json](./311657-who-wants-to-be-a-millionaire-music-edition.json) |
 | Who Wants to Be a Millionaire: NBA/NHL/MLB/NFL DLC Pack | 289324 | [289324-who-wants-to-be-a-millionaire-nba-nhl-mlb-nfl-dlc-pack.json](./289324-who-wants-to-be-a-millionaire-nba-nhl-mlb-nfl-dlc-pack.json) |
 | Who Wants to Be a Millionaire: Party Edition | 44631 | [44631-who-wants-to-be-a-millionaire-party-edition.json](./44631-who-wants-to-be-a-millionaire-party-edition.json) |
 | Who Wants to Be A Millionaire: The Smurfs DLC Pack | 293389 | [293389-who-wants-to-be-a-millionaire-the-smurfs-dlc-pack.json](./293389-who-wants-to-be-a-millionaire-the-smurfs-dlc-pack.json) |
@@ -2331,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: Blade of Past Resounds, Lingering Dream Hymns | 409689 | [409689-wuthering-waves-blade-of-past-resounds-lingering-dream-hymns.json](./409689-wuthering-waves-blade-of-past-resounds-lingering-dream-hymns.json) |
 | Wuthering Waves: Dawn Breaks on Dark Tides | 372570 | [372570-wuthering-waves-dawn-breaks-on-dark-tides.json](./372570-wuthering-waves-dawn-breaks-on-dark-tides.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
+| Wuthering Waves: Thaw of Eons | 311653 | [311653-wuthering-waves-thaw-of-eons.json](./311653-wuthering-waves-thaw-of-eons.json) |
 | Wuthering Waves: When the Night Knocks | 321376 | [321376-wuthering-waves-when-the-night-knocks.json](./321376-wuthering-waves-when-the-night-knocks.json) |
 | Wuxia Master | 109703 | [109703-wuxia-master.json](./109703-wuxia-master.json) |
 | WW1 Game Series Bundle | 218465 | [218465-ww1-game-series-bundle.json](./218465-ww1-game-series-bundle.json) |
