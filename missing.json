@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T05:11:40.922Z",
-  "total_missing": 76690,
+  "generated_at": "2026-09-16T05:16:59.309Z",
+  "total_missing": 76689,
   "games": [
     {
       "igdb_id": 306086,
@@ -5746,21 +5746,6 @@
       "igdb_id": 18348,
       "game_name": "Age of War",
       "file": "missing/A/18348-age-of-war.json"
-    },
-    {
-      "igdb_id": 325846,
-      "game_name": "Age of Wonders 4: Archon Prophecy",
-      "file": "missing/A/325846-age-of-wonders-4-archon-prophecy.json"
-    },
-    {
-      "igdb_id": 325845,
-      "game_name": "Age of Wonders 4: Giant Kings",
-      "file": "missing/A/325845-age-of-wonders-4-giant-kings.json"
-    },
-    {
-      "igdb_id": 325844,
-      "game_name": "Age of Wonders 4: Ways of War",
-      "file": "missing/A/325844-age-of-wonders-4-ways-of-war.json"
     },
     {
       "igdb_id": 31784,
@@ -329586,6 +329571,16 @@
       "igdb_id": 3166,
       "game_name": "The Lion King",
       "file": "missing/T/3166-the-lion-king.json"
+    },
+    {
+      "igdb_id": 325093,
+      "game_name": "The Lion King: Platinum Edition - Timon And Pumbaa’s Virtual Safari Boat Tour",
+      "file": "missing/T/325093-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-boat-tour.json"
+    },
+    {
+      "igdb_id": 325092,
+      "game_name": "The Lion King: Platinum Edition - Timon And Pumbaa’s Virtual Safari Jeep Tour",
+      "file": "missing/T/325092-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-jeep-tour.json"
     },
     {
       "igdb_id": 168343,
