@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T05:16:00.013Z",
-  "total_soundtracks": 1450,
+  "generated_at": "2026-09-16T05:16:08.272Z",
+  "total_soundtracks": 1451,
   "games": [
     {
       "igdb_id": 7522,
@@ -549,6 +549,20 @@
         {
           "album_name": "Age of Wonders 4: Archon Prophecy (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6uwAw5HCaSTKwk6vTIes5G",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 325845,
+      "game_name": "Age of Wonders 4: Giant Kings",
+      "game_url": "https://ostdb.net/games/age-of-wonders-4-giant-kings",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27350eeff1e8514fdffdc49155a",
+      "albums": [
+        {
+          "album_name": "Age of Wonders 4: Giant Kings (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1ttx1rfEt3rq2K1H2GwzES",
           "apple_music_url": "",
           "album_link_url": ""
         }
