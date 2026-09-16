@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iltami | 311646 | [311646-iltami.json](./311646-iltami.json) |
 | Ilysia | 123575 | [123575-ilysia.json](./123575-ilysia.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
+| Ima Survivor | 305950 | [305950-ima-survivor.json](./305950-ima-survivor.json) |
 | Ima wo Ikinobite | 208611 | [208611-ima-wo-ikinobite.json](./208611-ima-wo-ikinobite.json) |
 | Imae: Guardian Girl | 387536 | [387536-imae-guardian-girl.json](./387536-imae-guardian-girl.json) |
 | Imagicard: PAW Patrol | 137612 | [137612-imagicard-paw-patrol.json](./137612-imagicard-paw-patrol.json) |
@@ -1713,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itadaki Street 2: Neon Sign ha Bara Iro ni | 38345 | [38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json](./38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json) |
 | Itadaki Street DS | 71885 | [71885-itadaki-street-ds.json](./71885-itadaki-street-ds.json) |
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
+| Itazura Madness | 305907 | [305907-itazura-madness.json](./305907-itazura-madness.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
 | Iter-8 | 316071 | [316071-iter-8.json](./316071-iter-8.json) |
 | Iteration Factor | 154573 | [154573-iteration-factor.json](./154573-iteration-factor.json) |
