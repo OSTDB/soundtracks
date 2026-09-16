@@ -593,7 +593,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
 | Agent X | 23067 | [23067-agent-x.json](./23067-agent-x.json) |
 | Agents of Groove | 325644 | [325644-agents-of-groove.json](./325644-agents-of-groove.json) |
-| Agents of Mayhem: Day One Edition | 52015 | [52015-agents-of-mayhem-day-one-edition.json](./52015-agents-of-mayhem-day-one-edition.json) |
 | Agents of Mayhem: Lazarus Agent Pack | 169936 | [169936-agents-of-mayhem-lazarus-agent-pack.json](./169936-agents-of-mayhem-lazarus-agent-pack.json) |
 | Agents of Shadow | 357803 | [357803-agents-of-shadow.json](./357803-agents-of-shadow.json) |
 | Agents of SomeCompany | 253374 | [253374-agents-of-somecompany.json](./253374-agents-of-somecompany.json) |
@@ -889,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akumanor Gaiden | 361222 | [361222-akumanor-gaiden.json](./361222-akumanor-gaiden.json) |
 | Akumon Summoner | 393458 | [393458-akumon-summoner.json](./393458-akumon-summoner.json) |
 | Akunin-Akka | 389995 | [389995-akunin-akka.json](./389995-akunin-akka.json) |
+| Akuro & Bahaku: Jungle Adventure | 325060 | [325060-akuro-and-bahaku-jungle-adventure.json](./325060-akuro-and-bahaku-jungle-adventure.json) |
 | Akuu Senki Raijin | 41340 | [41340-akuu-senki-raijin.json](./41340-akuu-senki-raijin.json) |
 | Akuya | 30891 | [30891-akuya.json](./30891-akuya.json) |
 | Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
@@ -2064,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anoldor | 181300 | [181300-anoldor.json](./181300-anoldor.json) |
 | Anolock | 211433 | [211433-anolock.json](./211433-anolock.json) |
 | Anomalice | 172695 | [172695-anomalice.json](./172695-anomalice.json) |
+| Anomalies Detective | 325068 | [325068-anomalies-detective.json](./325068-anomalies-detective.json) |
 | Anomalistic Revolution | 226235 | [226235-anomalistic-revolution.json](./226235-anomalistic-revolution.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
@@ -2217,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnyWay! | 102412 | [102412-anyway.json](./102412-anyway.json) |
 | Anywhere You've Been | 178601 | [178601-anywhere-youve-been.json](./178601-anywhere-youve-been.json) |
 | Anzeigenhauptmeister Simulator | 292510 | [292510-anzeigenhauptmeister-simulator.json](./292510-anzeigenhauptmeister-simulator.json) |
+| Anzu | 325056 | [325056-anzu.json](./325056-anzu.json) |
 | AO Tennis | 76726 | [76726-ao-tennis.json](./76726-ao-tennis.json) |
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
 | Aoi | 226233 | [226233-aoi.json](./226233-aoi.json) |
