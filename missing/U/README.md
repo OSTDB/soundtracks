@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unkore | 151750 | [151750-unkore.json](./151750-unkore.json) |
 | Unleash | 398974 | [398974-unleash.json](./398974-unleash.json) |
 | Unless Terminalia | 399081 | [399081-unless-terminalia.json](./399081-unless-terminalia.json) |
+| Unlich | 315711 | [315711-unlich.json](./315711-unlich.json) |
 | Unlife | 151127 | [151127-unlife.json](./151127-unlife.json) |
 | Unlimited | 268217 | [268217-unlimited.json](./268217-unlimited.json) |
 | Unlimited Adventures | 71492 | [71492-unlimited-adventures.json](./71492-unlimited-adventures.json) |
