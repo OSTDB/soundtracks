@@ -678,6 +678,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindred Fates | 129154 | [129154-kindred-fates.json](./129154-kindred-fates.json) |
 | Kindred Spirits Complete Collection | 53240 | [53240-kindred-spirits-complete-collection.json](./53240-kindred-spirits-complete-collection.json) |
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
+| Kinect Fun Labs: Air Band | 329731 | [329731-kinect-fun-labs-air-band.json](./329731-kinect-fun-labs-air-band.json) |
+| Kinect Fun Labs: I Am Super! | 329734 | [329734-kinect-fun-labs-i-am-super.json](./329734-kinect-fun-labs-i-am-super.json) |
+| Kinect Fun Labs: Kinect Googly Eyes | 329729 | [329729-kinect-fun-labs-kinect-googly-eyes.json](./329729-kinect-fun-labs-kinect-googly-eyes.json) |
+| Kinect Fun Labs: Kinect Rush Snapshot | 329735 | [329735-kinect-fun-labs-kinect-rush-snapshot.json](./329735-kinect-fun-labs-kinect-rush-snapshot.json) |
+| Kinect Fun Labs: Kinect Sparkler | 329730 | [329730-kinect-fun-labs-kinect-sparkler.json](./329730-kinect-fun-labs-kinect-sparkler.json) |
+| Kinect Fun Labs: Mutation Station | 329732 | [329732-kinect-fun-labs-mutation-station.json](./329732-kinect-fun-labs-mutation-station.json) |
 | Kinect Party | 20238 | [20238-kinect-party.json](./20238-kinect-party.json) |
 | Kinect PlayFit | 64925 | [64925-kinect-playfit.json](./64925-kinect-playfit.json) |
 | Kinect Sesame Street TV | 20235 | [20235-kinect-sesame-street-tv.json](./20235-kinect-sesame-street-tv.json) |
@@ -1444,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoufu no Kankin House | 251603 | [251603-kyoufu-no-kankin-house.json](./251603-kyoufu-no-kankin-house.json) |
 | Kyoufu Shinbun | 77394 | [77394-kyoufu-shinbun.json](./77394-kyoufu-shinbun.json) |
 | Kyoufu Shinbun Heisei-ban: Kaiki! Shinrei File | 336005 | [336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json](./336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json) |
+| Kyouryuu Ikusei Battle RPG: Kyouryuu Monster | 329749 | [329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json](./329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json) |
 | Kyouryuu Sentai Zyuranger | 48437 | [48437-kyouryuu-sentai-zyuranger.json](./48437-kyouryuu-sentai-zyuranger.json) |
 | Kyrie and Terra | 327182 | [327182-kyrie-and-terra.json](./327182-kyrie-and-terra.json) |
 | Kyub Crazy Colors | 265431 | [265431-kyub-crazy-colors.json](./265431-kyub-crazy-colors.json) |
