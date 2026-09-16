@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T11:48:59.395Z",
-  "total_missing": 77802,
+  "generated_at": "2026-09-16T11:51:45.555Z",
+  "total_missing": 77801,
   "games": [
     {
       "igdb_id": 306086,
@@ -6001,11 +6001,6 @@
       "igdb_id": 200704,
       "game_name": "Ahmes",
       "file": "missing/A/200704-ahmes.json"
-    },
-    {
-      "igdb_id": 166760,
-      "game_name": "Ahri and Bear",
-      "file": "missing/A/166760-ahri-and-bear.json"
     },
     {
       "igdb_id": 31563,
