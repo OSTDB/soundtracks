@@ -1486,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
 | Eternal Dungeon | 140589 | [140589-eternal-dungeon.json](./140589-eternal-dungeon.json) |
 | Eternal Empires | 74388 | [74388-eternal-empires.json](./74388-eternal-empires.json) |
+| Eternal End | 295369 | [295369-eternal-end.json](./295369-eternal-end.json) |
 | Eternal Escape: Castle of Shadows | 307108 | [307108-eternal-escape-castle-of-shadows.json](./307108-eternal-escape-castle-of-shadows.json) |
 | Eternal Evolution | 197358 | [197358-eternal-evolution.json](./197358-eternal-evolution.json) |
 | Eternal Fate | 15424 | [15424-eternal-fate.json](./15424-eternal-fate.json) |
