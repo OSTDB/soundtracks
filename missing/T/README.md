@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Collar | 268230 | [268230-the-collar.json](./268230-the-collar.json) |
 | The Collection | 296390 | [296390-the-collection.json](./296390-the-collection.json) |
 | The Collector | 238210 | [238210-the-collector.json](./238210-the-collector.json) |
+| The College Brickout | 306485 | [306485-the-college-brickout.json](./306485-the-college-brickout.json) |
 | The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
 | The Colony | 178020 | [178020-the-colony.json](./178020-the-colony.json) |
 | The Colored Moth | 184070 | [184070-the-colored-moth.json](./184070-the-colored-moth.json) |
@@ -2331,9 +2332,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
 | The Elder Scrolls Adventures: Redguard | 55 | [55-the-elder-scrolls-adventures-redguard.json](./55-the-elder-scrolls-adventures-redguard.json) |
 | The Elder Scrolls III: Tribunal | 57 | [57-the-elder-scrolls-iii-tribunal.json](./57-the-elder-scrolls-iii-tribunal.json) |
+| The Elder Scrolls Online Collection: Gold Road | 306484 | [306484-the-elder-scrolls-online-collection-gold-road.json](./306484-the-elder-scrolls-online-collection-gold-road.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
 | The Elder Scrolls Online: Blackwood | 143024 | [143024-the-elder-scrolls-online-blackwood.json](./143024-the-elder-scrolls-online-blackwood.json) |
 | The Elder Scrolls Online: Clockwork City | 237335 | [237335-the-elder-scrolls-online-clockwork-city.json](./237335-the-elder-scrolls-online-clockwork-city.json) |
+| The Elder Scrolls Online: Deluxe Collection - Gold Road | 306481 | [306481-the-elder-scrolls-online-deluxe-collection-gold-road.json](./306481-the-elder-scrolls-online-deluxe-collection-gold-road.json) |
 | The Elder Scrolls Online: Feast of Shadows | 361156 | [361156-the-elder-scrolls-online-feast-of-shadows.json](./361156-the-elder-scrolls-online-feast-of-shadows.json) |
 | The Elder Scrolls Online: Gold Road | 283120 | [283120-the-elder-scrolls-online-gold-road.json](./283120-the-elder-scrolls-online-gold-road.json) |
 | The Elder Scrolls Online: High Isle | 195342 | [195342-the-elder-scrolls-online-high-isle.json](./195342-the-elder-scrolls-online-high-isle.json) |
@@ -8045,6 +8048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator PRO 2 | 88947 | [88947-truck-simulator-pro-2.json](./88947-truck-simulator-pro-2.json) |
 | Truck Simulator PRO 2016 | 89133 | [89133-truck-simulator-pro-2016.json](./89133-truck-simulator-pro-2016.json) |
 | Truck Simulator US Driver | 376580 | [376580-truck-simulator-us-driver.json](./376580-truck-simulator-us-driver.json) |
+| Truck Simulator USA & ATV Monster Rally Bundle | 306513 | [306513-truck-simulator-usa-and-atv-monster-rally-bundle.json](./306513-truck-simulator-usa-and-atv-monster-rally-bundle.json) |
 | Truck Simulator: European Roads | 383514 | [383514-truck-simulator-european-roads.json](./383514-truck-simulator-european-roads.json) |
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
