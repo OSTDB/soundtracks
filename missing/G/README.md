@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostrunner II | 250617 | [250617-ghostrunner-ii.json](./250617-ghostrunner-ii.json) |
 | Ghostrunner II: Anniversary Pack | 371319 | [371319-ghostrunner-ii-anniversary-pack.json](./371319-ghostrunner-ii-anniversary-pack.json) |
 | Ghostrunner II: Endless Moto Mode | 371318 | [371318-ghostrunner-ii-endless-moto-mode.json](./371318-ghostrunner-ii-endless-moto-mode.json) |
+| Ghosts | 306496 | [306496-ghosts.json](./306496-ghosts.json) |
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
@@ -1322,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | goalunited PRO | 29778 | [29778-goalunited-pro.json](./29778-goalunited-pro.json) |
 | Goat of Duty | 118115 | [118115-goat-of-duty.json](./118115-goat-of-duty.json) |
 | Goat Runner | 84873 | [84873-goat-runner.json](./84873-goat-runner.json) |
+| Goat Simulator 3: Multiversal Traveler's Edition | 306488 | [306488-goat-simulator-3-multiversal-travelers-edition.json](./306488-goat-simulator-3-multiversal-travelers-edition.json) |
 | Goat Simulator 3: Multiverse of Nonsense | 305106 | [305106-goat-simulator-3-multiverse-of-nonsense.json](./305106-goat-simulator-3-multiverse-of-nonsense.json) |
 | Goat Simulator MMO Simulator | 88922 | [88922-goat-simulator-mmo-simulator.json](./88922-goat-simulator-mmo-simulator.json) |
 | Goat Simulator Waste of Space | 369590 | [369590-goat-simulator-waste-of-space.json](./369590-goat-simulator-waste-of-space.json) |
