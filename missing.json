@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T05:16:59.309Z",
-  "total_missing": 76689,
+  "generated_at": "2026-09-16T05:21:42.479Z",
+  "total_missing": 76688,
   "games": [
     {
       "igdb_id": 306086,
@@ -5796,11 +5796,6 @@
       "igdb_id": 23067,
       "game_name": "Agent X",
       "file": "missing/A/23067-agent-x.json"
-    },
-    {
-      "igdb_id": 132158,
-      "game_name": "Agent: osoboye zadaniye",
-      "file": "missing/A/132158-agent-osoboye-zadaniye.json"
     },
     {
       "igdb_id": 325644,
