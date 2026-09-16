@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ideabox | 125953 | [125953-ideabox.json](./125953-ideabox.json) |
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
 | Identikit | 210062 | [210062-identikit.json](./210062-identikit.json) |
+| Identity Escape | 315670 | [315670-identity-escape.json](./315670-identity-escape.json) |
 | Identity Sector | 119694 | [119694-identity-sector.json](./119694-identity-sector.json) |
 | Ideology in Friction: Append | 170990 | [170990-ideology-in-friction-append.json](./170990-ideology-in-friction-append.json) |
 | Ideology in Friction: Deluxe Edition | 186899 | [186899-ideology-in-friction-deluxe-edition.json](./186899-ideology-in-friction-deluxe-edition.json) |
