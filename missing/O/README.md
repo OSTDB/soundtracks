@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsidian Conflict | 142407 | [142407-obsidian-conflict.json](./142407-obsidian-conflict.json) |
 | Obsidian Crown | 124164 | [124164-obsidian-crown.json](./124164-obsidian-crown.json) |
 | Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
+| Obstacles Race | 288356 | [288356-obstacles-race.json](./288356-obstacles-race.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
 | Occult | 153954 | [153954-occult.json](./153954-occult.json) |
@@ -417,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OlliOlli World: Void Riders | 205034 | [205034-olliolli-world-void-riders.json](./205034-olliolli-world-void-riders.json) |
 | OlliOlli: Epic Combo Edition | 46025 | [46025-olliolli-epic-combo-edition.json](./46025-olliolli-epic-combo-edition.json) |
 | OlliOlli2: Welcome to Olliwood | 9523 | [9523-olliolli2-welcome-to-olliwood.json](./9523-olliolli2-welcome-to-olliwood.json) |
+| Olllo | 288313 | [288313-olllo.json](./288313-olllo.json) |
 | Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
 | Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
 | Olympia: Festival of the Gods | 341504 | [341504-olympia-festival-of-the-gods.json](./341504-olympia-festival-of-the-gods.json) |
@@ -1326,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Ctrl | 177519 | [177519-out-of-ctrl.json](./177519-out-of-ctrl.json) |
 | Out of Frame | 141886 | [141886-out-of-frame.json](./141886-out-of-frame.json) |
 | Out of Galaxy: Gin no Koushika | 408871 | [408871-out-of-galaxy-gin-no-koushika.json](./408871-out-of-galaxy-gin-no-koushika.json) |
+| Out of Gas | 288325 | [288325-out-of-gas.json](./288325-out-of-gas.json) |
 | Out of Hand: Deluxe | 330138 | [330138-out-of-hand-deluxe.json](./330138-out-of-hand-deluxe.json) |
 | Out of Hands | 211231 | [211231-out-of-hands.json](./211231-out-of-hands.json) |
 | Out Of Memories | 320933 | [320933-out-of-memories.json](./320933-out-of-memories.json) |
