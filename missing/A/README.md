@@ -617,7 +617,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agrou | 133456 | [133456-agrou.json](./133456-agrou.json) |
 | Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
-| Aha! More Photo Spot-the-Difference | 399609 | [399609-aha-more-photo-spot-the-difference.json](./399609-aha-more-photo-spot-the-difference.json) |
 | Aha! Shashin de Machigai-sagashi | 251626 | [251626-aha-shashin-de-machigai-sagashi.json](./251626-aha-shashin-de-machigai-sagashi.json) |
 | Ahegal | 110446 | [110446-ahegal.json](./110446-ahegal.json) |
 | Ahegal Seasons | 203381 | [203381-ahegal-seasons.json](./203381-ahegal-seasons.json) |
