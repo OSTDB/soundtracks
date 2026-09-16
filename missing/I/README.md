@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iconic | 356704 | [356704-iconic.json](./356704-iconic.json) |
 | Icontrivia: Guess the Character | 233746 | [233746-icontrivia-guess-the-character.json](./233746-icontrivia-guess-the-character.json) |
 | Icy Incline | 296919 | [296919-icy-incline.json](./296919-icy-incline.json) |
+| Icy Spell | 294863 | [294863-icy-spell.json](./294863-icy-spell.json) |
 | Icy Tower | 18095 | [18095-icy-tower.json](./18095-icy-tower.json) |
 | Icy Tower 2 | 326628 | [326628-icy-tower-2.json](./326628-icy-tower-2.json) |
 | Icy Tower Classic | 18096 | [18096-icy-tower-classic.json](./18096-icy-tower-classic.json) |
@@ -663,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperi | 75791 | [75791-imperi.json](./75791-imperi.json) |
 | Imperial Destiny: Path of Gold | 231939 | [231939-imperial-destiny-path-of-gold.json](./231939-imperial-destiny-path-of-gold.json) |
 | Imperial Hero | 58747 | [58747-imperial-hero.json](./58747-imperial-hero.json) |
+| Imperial Island 5: Ski Resort | 294858 | [294858-imperial-island-5-ski-resort.json](./294858-imperial-island-5-ski-resort.json) |
 | Imperial Storm | 249218 | [249218-imperial-storm.json](./249218-imperial-storm.json) |
 | Imperialism: The Dark Continent | 97113 | [97113-imperialism-the-dark-continent.json](./97113-imperialism-the-dark-continent.json) |
 | Imperialist | 400247 | [400247-imperialist.json](./400247-imperialist.json) |
@@ -979,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Sunshine Dust | 96731 | [96731-infinite-sunshine-dust.json](./96731-infinite-sunshine-dust.json) |
 | Infinite Veil | 379874 | [379874-infinite-veil.json](./379874-infinite-veil.json) |
 | Infinite Versus | 143697 | [143697-infinite-versus.json](./143697-infinite-versus.json) |
+| Infinite Void | 294868 | [294868-infinite-void.json](./294868-infinite-void.json) |
 | Infinite Word Search Puzzles | 87658 | [87658-infinite-word-search-puzzles.json](./87658-infinite-word-search-puzzles.json) |
 | Infinite World | 102936 | [102936-infinite-world.json](./102936-infinite-world.json) |
 | Infinitely Up | 335340 | [335340-infinitely-up.json](./335340-infinitely-up.json) |
