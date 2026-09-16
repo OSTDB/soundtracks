@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
 | A Day at the Carnival | 55853 | [55853-a-day-at-the-carnival.json](./55853-a-day-at-the-carnival.json) |
 | A day for a kitten | 75803 | [75803-a-day-for-a-kitten.json](./75803-a-day-for-a-kitten.json) |
+| A Day for Soft Food | 304221 | [304221-a-day-for-soft-food.json](./304221-a-day-for-soft-food.json) |
 | A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
@@ -626,7 +627,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
-| Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
