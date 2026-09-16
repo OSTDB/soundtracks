@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call From the Darkness | 337465 | [337465-call-from-the-darkness.json](./337465-call-from-the-darkness.json) |
 | Call Me Cera | 163982 | [163982-call-me-cera.json](./163982-call-me-cera.json) |
 | Call Me Emperor | 221961 | [221961-call-me-emperor.json](./221961-call-me-emperor.json) |
+| Call Me Hero | 305924 | [305924-call-me-hero.json](./305924-call-me-hero.json) |
 | Call of Agents | 38963 | [38963-call-of-agents.json](./38963-call-of-agents.json) |
 | Call of Antia | 200141 | [200141-call-of-antia.json](./200141-call-of-antia.json) |
 | Call of Atlantis: Treasures of Poseidon - Collector's Edition | 355541 | [355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json](./355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json) |
@@ -2722,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename Kids Next Door: Operation B.E.S.T. | 342736 | [342736-codename-kids-next-door-operation-b-e-s-t.json](./342736-codename-kids-next-door-operation-b-e-s-t.json) |
 | Codename Kids Next Door: Tummy Trouble | 349934 | [349934-codename-kids-next-door-tummy-trouble.json](./349934-codename-kids-next-door-tummy-trouble.json) |
 | Codename Nemesis | 113646 | [113646-codename-nemesis.json](./113646-codename-nemesis.json) |
+| Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
 | Codename: Panzers - Cold War | 15762 | [15762-codename-panzers-cold-war.json](./15762-codename-panzers-cold-war.json) |
 | Codename: Panzers - Phase One | 640 | [640-codename-panzers-phase-one.json](./640-codename-panzers-phase-one.json) |
@@ -3273,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confession Box | 417559 | [417559-confession-box.json](./417559-confession-box.json) |
 | Confession of the Golden Witch | 255386 | [255386-confession-of-the-golden-witch.json](./255386-confession-of-the-golden-witch.json) |
 | Confettied | 412395 | [412395-confettied.json](./412395-confettied.json) |
+| Confidential Mission | 305954 | [305954-confidential-mission.json](./305954-confidential-mission.json) |
 | Confined Space | 415101 | [415101-confined-space.json](./415101-confined-space.json) |
 | Confined: Leaving OKB-134 | 291489 | [291489-confined-leaving-okb-134.json](./291489-confined-leaving-okb-134.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
@@ -3938,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
+| Crank It Up! | 305911 | [305911-crank-it-up.json](./305911-crank-it-up.json) |
 | Crank Racing! | 413731 | [413731-crank-racing.json](./413731-crank-racing.json) |
 | Crank Sudoku | 383965 | [383965-crank-sudoku.json](./383965-crank-sudoku.json) |
 | Crank the Weasel | 65481 | [65481-crank-the-weasel.json](./65481-crank-the-weasel.json) |
@@ -4925,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Cats 2 | 195170 | [195170-cute-cats-2.json](./195170-cute-cats-2.json) |
 | Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
 | Cute Demon Crashers! | 58801 | [58801-cute-demon-crashers.json](./58801-cute-demon-crashers.json) |
+| Cute Dogs Slide | 305936 | [305936-cute-dogs-slide.json](./305936-cute-dogs-slide.json) |
 | Cute Finders | 381700 | [381700-cute-finders.json](./381700-cute-finders.json) |
 | Cute girl with uncle's leisure time | 278737 | [278737-cute-girl-with-uncles-leisure-time.json](./278737-cute-girl-with-uncles-leisure-time.json) |
 | Cute Heroes | 343802 | [343802-cute-heroes.json](./343802-cute-heroes.json) |
