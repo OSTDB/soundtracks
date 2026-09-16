@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare III - Season 3 | 298563 | [298563-call-of-duty-modern-warfare-iii-season-3.json](./298563-call-of-duty-modern-warfare-iii-season-3.json) |
 | Call of Duty: Modern Warfare III - Season 4 | 304046 | [304046-call-of-duty-modern-warfare-iii-season-4.json](./304046-call-of-duty-modern-warfare-iii-season-4.json) |
 | Call of Duty: Modern Warfare III - Season 5 | 308961 | [308961-call-of-duty-modern-warfare-iii-season-5.json](./308961-call-of-duty-modern-warfare-iii-season-5.json) |
+| Call of Duty: Modern Warfare III - Tech Luxe Pro Pack | 291077 | [291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json](./291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json) |
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
 | Call of Duty: Vanguard | 165067 | [165067-call-of-duty-vanguard.json](./165067-call-of-duty-vanguard.json) |
 | Call of Duty: Vanguard - Season Four | 205058 | [205058-call-of-duty-vanguard-season-four.json](./205058-call-of-duty-vanguard-season-four.json) |
@@ -2962,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Slayer | 121012 | [121012-color-slayer.json](./121012-color-slayer.json) |
 | Color SlayerS | 214500 | [214500-color-slayers.json](./214500-color-slayers.json) |
 | Color Soul: Memories | 124229 | [124229-color-soul-memories.json](./124229-color-soul-memories.json) |
+| Color Splash: Dinosaurs | 291082 | [291082-color-splash-dinosaurs.json](./291082-color-splash-dinosaurs.json) |
 | Color Splash: Dogs | 261509 | [261509-color-splash-dogs.json](./261509-color-splash-dogs.json) |
 | Color Splash: Fairies | 301834 | [301834-color-splash-fairies.json](./301834-color-splash-fairies.json) |
 | Color Splash: Fruits | 399729 | [399729-color-splash-fruits.json](./399729-color-splash-fruits.json) |
@@ -3353,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect the World | 300700 | [300700-connect-the-world.json](./300700-connect-the-world.json) |
 | Connect Word | 352256 | [352256-connect-word.json](./352256-connect-word.json) |
 | Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
+| Connected Hearts: Cost of Beauty DLC | 291064 | [291064-connected-hearts-cost-of-beauty-dlc.json](./291064-connected-hearts-cost-of-beauty-dlc.json) |
 | Connected Hearts: Hour of the Witch - Collector's Edition | 365708 | [365708-connected-hearts-hour-of-the-witch-collectors-edition.json](./365708-connected-hearts-hour-of-the-witch-collectors-edition.json) |
 | Connected Hearts: Hour of the Witch DLC | 360600 | [360600-connected-hearts-hour-of-the-witch-dlc.json](./360600-connected-hearts-hour-of-the-witch-dlc.json) |
 | Connectify | 190196 | [190196-connectify.json](./190196-connectify.json) |
@@ -3413,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construct Farm / Cat Simulator | 381715 | [381715-construct-farm-cat-simulator.json](./381715-construct-farm-cat-simulator.json) |
 | Construct: Escape the System | 27904 | [27904-construct-escape-the-system.json](./27904-construct-escape-the-system.json) |
 | Construct.AI | 172128 | [172128-construct-ai.json](./172128-construct-ai.json) |
+| Construct&Conquer: The Levant in the 12th Century | 291056 | [291056-construct-and-conquer-the-levant-in-the-12th-century.json](./291056-construct-and-conquer-the-levant-in-the-12th-century.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
 | Construction Simulator 2 | 87338 | [87338-construction-simulator-2.json](./87338-construction-simulator-2.json) |
 | Construction Simulator 2+3 | 139934 | [139934-construction-simulator-2-3.json](./139934-construction-simulator-2-3.json) |
@@ -4540,6 +4544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III: All Under Heaven | 352849 | [352849-crusader-kings-iii-all-under-heaven.json](./352849-crusader-kings-iii-all-under-heaven.json) |
 | Crusader Kings III: Chapter IV | 352850 | [352850-crusader-kings-iii-chapter-iv.json](./352850-crusader-kings-iii-chapter-iv.json) |
 | Crusader Kings III: Coronations | 352851 | [352851-crusader-kings-iii-coronations.json](./352851-crusader-kings-iii-coronations.json) |
+| Crusader Kings III: Couture of the Capets | 291080 | [291080-crusader-kings-iii-couture-of-the-capets.json](./291080-crusader-kings-iii-couture-of-the-capets.json) |
 | Crusader Kings III: Crowns of the World | 352848 | [352848-crusader-kings-iii-crowns-of-the-world.json](./352848-crusader-kings-iii-crowns-of-the-world.json) |
 | Crusader Kings III: Northern Lords | 164510 | [164510-crusader-kings-iii-northern-lords.json](./164510-crusader-kings-iii-northern-lords.json) |
 | Crusader Kings III: Royal Edition | 188022 | [188022-crusader-kings-iii-royal-edition.json](./188022-crusader-kings-iii-royal-edition.json) |
@@ -4960,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
 | Custom Monsters | 222498 | [222498-custom-monsters.json](./222498-custom-monsters.json) |
+| Custom Order Maid 3D2: It's a Night Magic Beauty Hair Set SP All in One Pack | 291054 | [291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json](./291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json) |
 | Custom Order Maid 3D2: It's a Night Magic the Arrival of Spring All In Pack | 298043 | [298043-custom-order-maid-3d2-its-a-night-magic-the-arrival-of-spring-all-in-pack.json](./298043-custom-order-maid-3d2-its-a-night-magic-the-arrival-of-spring-all-in-pack.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01 | 296663 | [296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json](./296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01fb | 296662 | [296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json](./296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json) |
