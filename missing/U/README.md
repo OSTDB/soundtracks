@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umurangi Generation | 131631 | [131631-umurangi-generation.json](./131631-umurangi-generation.json) |
 | Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
+| Un:logical | 320393 | [320393-un-logical.json](./320393-un-logical.json) |
 | Una Gesta Draconiana | 400870 | [400870-una-gesta-draconiana.json](./400870-una-gesta-draconiana.json) |
 | Unaided: 1939 | 31811 | [31811-unaided-1939.json](./31811-unaided-1939.json) |
 | Unakiri Action!: Kiritan-hou no Nazo | 204707 | [204707-unakiri-action-kiritan-hou-no-nazo.json](./204707-unakiri-action-kiritan-hou-no-nazo.json) |
