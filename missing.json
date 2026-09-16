@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T07:31:45.374Z",
-  "total_missing": 77028,
+  "generated_at": "2026-09-16T07:41:35.958Z",
+  "total_missing": 77034,
   "games": [
     {
       "igdb_id": 306086,
@@ -5866,11 +5866,6 @@
       "igdb_id": 11890,
       "game_name": "Agony",
       "file": "missing/A/11890-agony.json"
-    },
-    {
-      "igdb_id": 136415,
-      "game_name": "Agony of a Dying MMO",
-      "file": "missing/A/136415-agony-of-a-dying-mmo.json"
     },
     {
       "igdb_id": 191799,
@@ -124228,6 +124223,11 @@
       "file": "missing/G/326604-genshin-impact-incandescent-ode-of-resurrection.json"
     },
     {
+      "igdb_id": 321597,
+      "game_name": "Genshin Impact: Tapestry of Spirit and Flame",
+      "file": "missing/G/321597-genshin-impact-tapestry-of-spirit-and-flame.json"
+    },
+    {
       "igdb_id": 266492,
       "game_name": "Genshin Impact: To the Stars Shining in the Depths",
       "file": "missing/G/266492-genshin-impact-to-the-stars-shining-in-the-depths.json"
@@ -153441,6 +153441,11 @@
       "igdb_id": 334191,
       "game_name": "In Search of Something",
       "file": "missing/I/334191-in-search-of-something.json"
+    },
+    {
+      "igdb_id": 321596,
+      "game_name": "In Search of the Golden Crops",
+      "file": "missing/I/321596-in-search-of-the-golden-crops.json"
     },
     {
       "igdb_id": 69820,
@@ -209028,6 +209033,11 @@
       "file": "missing/M/118952-my-railroad.json"
     },
     {
+      "igdb_id": 321594,
+      "game_name": "My Raising Diary",
+      "file": "missing/M/321594-my-raising-diary.json"
+    },
+    {
       "igdb_id": 331693,
       "game_name": "My Real Desire",
       "file": "missing/M/331693-my-real-desire.json"
@@ -233886,6 +233896,11 @@
       "igdb_id": 324706,
       "game_name": "Persona 5 Dancing in Starlight: Picaresque Mouse Set",
       "file": "missing/P/324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json"
+    },
+    {
+      "igdb_id": 321602,
+      "game_name": "Persona 5 Pocket Edition",
+      "file": "missing/P/321602-persona-5-pocket-edition.json"
     },
     {
       "igdb_id": 261539,
@@ -289343,6 +289358,11 @@
       "file": "missing/S/146916-solitaire-dozen-gold.json"
     },
     {
+      "igdb_id": 321601,
+      "game_name": "Solitaire Grand Harvest",
+      "file": "missing/S/321601-solitaire-grand-harvest.json"
+    },
+    {
       "igdb_id": 156089,
       "game_name": "Solitaire Halloween Story",
       "file": "missing/S/156089-solitaire-halloween-story.json"
@@ -332098,6 +332118,11 @@
       "file": "missing/T/16905-the-memory-of-eldurim.json"
     },
     {
+      "igdb_id": 321599,
+      "game_name": "The Memory Thieves",
+      "file": "missing/T/321599-the-memory-thieves.json"
+    },
+    {
       "igdb_id": 145622,
       "game_name": "The Mercer Slough and You",
       "file": "missing/T/145622-the-mercer-slough-and-you.json"
@@ -368716,6 +368741,11 @@
       "igdb_id": 231062,
       "game_name": "Warp 7",
       "file": "missing/W/231062-warp-7.json"
+    },
+    {
+      "igdb_id": 321600,
+      "game_name": "Warp Cinema",
+      "file": "missing/W/321600-warp-cinema.json"
     },
     {
       "igdb_id": 360673,
