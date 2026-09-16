@@ -601,7 +601,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Agile Warrior F-111X | 43936 | [43936-agile-warrior-f-111x.json](./43936-agile-warrior-f-111x.json) |
 | Aglet: The Sneaker Game | 205586 | [205586-aglet-the-sneaker-game.json](./205586-aglet-the-sneaker-game.json) |
-| Aglobo | 342036 | [342036-aglobo.json](./342036-aglobo.json) |
 | Agma.io | 97302 | [97302-agma-io.json](./97302-agma-io.json) |
 | Agnostiko | 224212 | [224212-agnostiko.json](./224212-agnostiko.json) |
 | Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
