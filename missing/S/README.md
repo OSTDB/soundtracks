@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Invaders | 41355 | [41355-sexy-invaders.json](./41355-sexy-invaders.json) |
 | Sexy Ladies | 264633 | [264633-sexy-ladies.json](./264633-sexy-ladies.json) |
 | Sexy Match | 382281 | [382281-sexy-match.json](./382281-sexy-match.json) |
+| Sexy Memory Puzzle: Pool Massage | 319238 | [319238-sexy-memory-puzzle-pool-massage.json](./319238-sexy-memory-puzzle-pool-massage.json) |
 | Sexy Memory Puzzle: Spanking Girls | 248658 | [248658-sexy-memory-puzzle-spanking-girls.json](./248658-sexy-memory-puzzle-spanking-girls.json) |
 | Sexy Sniper | 159814 | [159814-sexy-sniper.json](./159814-sexy-sniper.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
@@ -5669,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splett | 342660 | [342660-splett.json](./342660-splett.json) |
 | Spliced | 218706 | [218706-spliced.json](./218706-spliced.json) |
 | Splinter Zone | 28867 | [28867-splinter-zone.json](./28867-splinter-zone.json) |
+| Splintered | 319206 | [319206-splintered.json](./319206-splintered.json) |
 | Splinterlands | 165055 | [165055-splinterlands.json](./165055-splinterlands.json) |
 | Splinterra | 306375 | [306375-splinterra.json](./306375-splinterra.json) |
 | Splinters of Regret | 193410 | [193410-splinters-of-regret.json](./193410-splinters-of-regret.json) |
@@ -7143,6 +7145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Champion Edition | 126095 | [126095-street-fighter-v-champion-edition.json](./126095-street-fighter-v-champion-edition.json) |
 | Street Fighter V: Cody Travers | 322209 | [322209-street-fighter-v-cody-travers.json](./322209-street-fighter-v-cody-travers.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
+| Street Fighter V: Juri Han | 319227 | [319227-street-fighter-v-juri-han.json](./319227-street-fighter-v-juri-han.json) |
 | Street Fighter V: Season 1-3 Nostalgia Costume Pack | 343900 | [343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json](./343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json) |
 | Street Fighter x All Capcom | 55064 | [55064-street-fighter-x-all-capcom.json](./55064-street-fighter-x-all-capcom.json) |
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
