@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rimebeard | 153974 | [153974-rimebeard.json](./153974-rimebeard.json) |
 | RimFolk | 335323 | [335323-rimfolk.json](./335323-rimfolk.json) |
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
+| RimWorld: Anomaly | 291070 | [291070-rimworld-anomaly.json](./291070-rimworld-anomaly.json) |
 | RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
 | Ring Academy | 306957 | [306957-ring-academy.json](./306957-ring-academy.json) |
 | Ring Battle | 361737 | [361737-ring-battle.json](./361737-ring-battle.json) |
@@ -2752,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
 | Ronnie O'Sullivan's Snooker | 312350 | [312350-ronnie-osullivans-snooker.json](./312350-ronnie-osullivans-snooker.json) |
+| Ronny's Climb | 291079 | [291079-ronnys-climb.json](./291079-ronnys-climb.json) |
 | Ronshade | 264639 | [264639-ronshade.json](./264639-ronshade.json) |
 | Ronza | 370781 | [370781-ronza.json](./370781-ronza.json) |
 | Roof Genocide | 193492 | [193492-roof-genocide.json](./193492-roof-genocide.json) |
@@ -2774,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rookie Boxing | 319776 | [319776-rookie-boxing.json](./319776-rookie-boxing.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
+| Room | 291092 | [291092-room.json](./291092-room.json) |
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
 | Room 40 | 120364 | [120364-room-40.json](./120364-room-40.json) |
 | Room 404 | 55191 | [55191-room-404.json](./55191-room-404.json) |
