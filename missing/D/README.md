@@ -2152,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Master | 239036 | [239036-dig-master.json](./239036-dig-master.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
 | Dig Out! | 87330 | [87330-dig-out.json](./87330-dig-out.json) |
+| Dig VR | 299295 | [299295-dig-vr.json](./299295-dig-vr.json) |
 | DIG: Deep In Galaxies | 228455 | [228455-dig-deep-in-galaxies.json](./228455-dig-deep-in-galaxies.json) |
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
 | Digdig | 316611 | [316611-digdig.json](./316611-digdig.json) |
