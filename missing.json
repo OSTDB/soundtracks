@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T13:49:28.164Z",
-  "total_missing": 78190,
+  "generated_at": "2026-09-16T13:51:43.530Z",
+  "total_missing": 78189,
   "games": [
     {
       "igdb_id": 306086,
@@ -6061,11 +6061,6 @@
       "igdb_id": 188228,
       "game_name": "Age of History II",
       "file": "missing/A/188228-age-of-history-ii.json"
-    },
-    {
-      "igdb_id": 18348,
-      "game_name": "Age of War",
-      "file": "missing/A/18348-age-of-war.json"
     },
     {
       "igdb_id": 31784,
