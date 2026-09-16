@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flan's BN | 346613 | [346613-flans-bn.json](./346613-flans-bn.json) |
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
 | Flap Demon | 158646 | [158646-flap-demon.json](./158646-flap-demon.json) |
+| Flap Happy | 307102 | [307102-flap-happy.json](./307102-flap-happy.json) |
 | FlapOTron | 58760 | [58760-flapotron.json](./58760-flapotron.json) |
 | Flappatron: Episode 2 (Chapters 4-7) | 168847 | [168847-flappatron-episode-2-chapters-4-7.json](./168847-flappatron-episode-2-chapters-4-7.json) |
 | Flappatron: Episode 3 (Chapters 8 - 10) | 168846 | [168846-flappatron-episode-3-chapters-8-10.json](./168846-flappatron-episode-3-chapters-8-10.json) |
