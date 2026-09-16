@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall-E | 220129 | [220129-wall-e.json](./220129-wall-e.json) |
 | Wall-E | 279597 | [279597-wall-e.json](./279597-wall-e.json) |
 | Wall$treet | 78664 | [78664-wall-treet.json](./78664-wall-treet.json) |
+| Wallace & Gromit Adventures | 320995 | [320995-wallace-and-gromit-adventures.json](./320995-wallace-and-gromit-adventures.json) |
 | Wallace & Gromit: The Big Fix Up | 321331 | [321331-wallace-and-gromit-the-big-fix-up.json](./321331-wallace-and-gromit-the-big-fix-up.json) |
 | Wallace & Gromit's Grand Adventures: Episode 1 - Fright of the Bumblebees | 115575 | [115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json](./115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json) |
 | Wallachia: Reign of Dracula | 100524 | [100524-wallachia-reign-of-dracula.json](./100524-wallachia-reign-of-dracula.json) |
@@ -592,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Density | 76530 | [76530-water-density.json](./76530-water-density.json) |
 | Water Drift | 153381 | [153381-water-drift.json](./153381-water-drift.json) |
 | Water Horse | 363987 | [363987-water-horse.json](./363987-water-horse.json) |
+| Water Level / B.l.u.e. Exploration | 320938 | [320938-water-level-b-l-u-e-exploration.json](./320938-water-level-b-l-u-e-exploration.json) |
 | Water Me & You | 260169 | [260169-water-me-and-you.json](./260169-water-me-and-you.json) |
 | Water of M | 399065 | [399065-water-of-m.json](./399065-water-of-m.json) |
 | Water Park: Fun Water Slides | 96974 | [96974-water-park-fun-water-slides.json](./96974-water-park-fun-water-slides.json) |
@@ -2271,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writer Tycoon | 346580 | [346580-writer-tycoon.json](./346580-writer-tycoon.json) |
 | Writer: Chapter 1 | 327616 | [327616-writer-chapter-1.json](./327616-writer-chapter-1.json) |
 | wrldDivision | 181379 | [181379-wrlddivision.json](./181379-wrlddivision.json) |
+| Wrong Door | 320958 | [320958-wrong-door.json](./320958-wrong-door.json) |
 | Wrong Floor | 177032 | [177032-wrong-floor.json](./177032-wrong-floor.json) |
 | Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
 | Wroth | 271744 | [271744-wroth.json](./271744-wroth.json) |
