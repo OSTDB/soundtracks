@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikuu Boukenki Zentrix | 210683 | [210683-jikuu-boukenki-zentrix.json](./210683-jikuu-boukenki-zentrix.json) |
 | Jikuu Tantei DD: Maboroshi no Lorelei | 57052 | [57052-jikuu-tantei-dd-maboroshi-no-lorelei.json](./57052-jikuu-tantei-dd-maboroshi-no-lorelei.json) |
 | Jikuu Yuuden: Debias | 48610 | [48610-jikuu-yuuden-debias.json](./48610-jikuu-yuuden-debias.json) |
+| Jill O' Lantern | 320971 | [320971-jill-o-lantern.json](./320971-jill-o-lantern.json) |
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
 | Jillian Michaels' Fitness Adventure | 20222 | [20222-jillian-michaels-fitness-adventure.json](./20222-jillian-michaels-fitness-adventure.json) |
 | Jim & Dill II: Bobson’s Revenge | 313150 | [313150-jim-and-dill-ii-bobson-s-revenge.json](./313150-jim-and-dill-ii-bobson-s-revenge.json) |
@@ -631,6 +632,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joninės | 273667 | [273667-jonines.json](./273667-jonines.json) |
 | Jonny Moseley: Mad Trix | 49336 | [49336-jonny-moseley-mad-trix.json](./49336-jonny-moseley-mad-trix.json) |
 | Jonny Quest in Doctor Zim's Underworld | 67275 | [67275-jonny-quest-in-doctor-zims-underworld.json](./67275-jonny-quest-in-doctor-zims-underworld.json) |
+| Jönssonligan: Går på djupet | 320950 | [320950-jonssonligan-gar-pa-djupet.json](./320950-jonssonligan-gar-pa-djupet.json) |
+| Jönssonligan: Jakten på Mjölner | 320949 | [320949-jonssonligan-jakten-pa-mjolner.json](./320949-jonssonligan-jakten-pa-mjolner.json) |
 | JonTron: Bird vs. Camel | 12201 | [12201-jontron-bird-vs-camel.json](./12201-jontron-bird-vs-camel.json) |
 | Joongboongi's Adventure | 340775 | [340775-joongboongis-adventure.json](./340775-joongboongis-adventure.json) |
 | JoonGo Playground | 112268 | [112268-joongo-playground.json](./112268-joongo-playground.json) |
