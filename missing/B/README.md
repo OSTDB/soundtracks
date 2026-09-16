@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellus Battle | 260157 | [260157-bellus-battle.json](./260157-bellus-battle.json) |
 | Bellwright | 244040 | [244040-bellwright.json](./244040-bellwright.json) |
 | Belongings | 158707 | [158707-belongings.json](./158707-belongings.json) |
+| Belote 3 in 1 | 326263 | [326263-belote-3-in-1.json](./326263-belote-3-in-1.json) |
 | Below | 377564 | [377564-below.json](./377564-below.json) |
 | Below Benni's | 335249 | [335249-below-bennis.json](./335249-below-bennis.json) |
 | Below Nowhere | 343824 | [343824-below-nowhere.json](./343824-below-nowhere.json) |
@@ -1628,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben Tennyson: Ace Attorney | 308534 | [308534-ben-tennyson-ace-attorney.json](./308534-ben-tennyson-ace-attorney.json) |
 | Ben the Binder | 378303 | [378303-ben-the-binder.json](./378303-ben-the-binder.json) |
 | Ben There, Dan That! | 9541 | [9541-ben-there-dan-that.json](./9541-ben-there-dan-that.json) |
+| Benchmark Your Skills | 326252 | [326252-benchmark-your-skills.json](./326252-benchmark-your-skills.json) |
 | Bendy's Nightmare Run | 414307 | [414307-bendys-nightmare-run.json](./414307-bendys-nightmare-run.json) |
 | Beneath | 240509 | [240509-beneath.json](./240509-beneath.json) |
 | Beneath a Dead City | 327406 | [327406-beneath-a-dead-city.json](./327406-beneath-a-dead-city.json) |
@@ -2699,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocksworld | 68685 | [68685-blocksworld.json](./68685-blocksworld.json) |
 | BlockTanks | 324917 | [324917-blocktanks.json](./324917-blocktanks.json) |
 | BlockTanks.io | 137629 | [137629-blocktanks-io.json](./137629-blocktanks-io.json) |
+| Blocktopia | 326241 | [326241-blocktopia.json](./326241-blocktopia.json) |
 | Blockudoku | 227479 | [227479-blockudoku.json](./227479-blockudoku.json) |
 | BlockUrbs | 338251 | [338251-blockurbs.json](./338251-blockurbs.json) |
 | Blockus' Adventures | 118344 | [118344-blockus-adventures.json](./118344-blockus-adventures.json) |
@@ -4463,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
 | Bustafellows | 114536 | [114536-bustafellows.json](./114536-bustafellows.json) |
 | Buster Bros. | 6823 | [6823-buster-bros.json](./6823-buster-bros.json) |
+| Buster Jam | 326285 | [326285-buster-jam.json](./326285-buster-jam.json) |
 | Buster Sword | 415963 | [415963-buster-sword.json](./415963-buster-sword.json) |
 | Buster's Tower Defense | 152330 | [152330-busters-tower-defense.json](./152330-busters-tower-defense.json) |
 | Bustin-Out | 64946 | [64946-bustin-out.json](./64946-bustin-out.json) |
