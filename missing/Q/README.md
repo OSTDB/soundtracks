@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qiángjūn | 98982 | [98982-qiangjun.json](./98982-qiangjun.json) |
 | Qianli: The Vastscape Scroll | 399598 | [399598-qianli-the-vastscape-scroll.json](./399598-qianli-the-vastscape-scroll.json) |
 | Qǐluó Sìshí Tán | 130935 | [130935-qiluo-sishi-tan.json](./130935-qiluo-sishi-tan.json) |
+| Qīngniǎo no Xūxiàng | 331944 | [331944-qingniao-no-xuxiang.json](./331944-qingniao-no-xuxiang.json) |
 | Qisah Tomang: Cycle Ends | 235989 | [235989-qisah-tomang-cycle-ends.json](./235989-qisah-tomang-cycle-ends.json) |
 | QiuQiu Town | 374612 | [374612-qiuqiu-town.json](./374612-qiuqiu-town.json) |
 | Qix | 12266 | [12266-qix.json](./12266-qix.json) |
@@ -203,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Hunter | 32396 | [32396-quest-hunter.json](./32396-quest-hunter.json) |
 | Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
 | Quest of Dungeons | 16932 | [16932-quest-of-dungeons.json](./16932-quest-of-dungeons.json) |
+| Quest of Legend | 334202 | [334202-quest-of-legend.json](./334202-quest-of-legend.json) |
 | Quest Room | 199565 | [199565-quest-room.json](./199565-quest-room.json) |
 | Quest room: Hanon | 110547 | [110547-quest-room-hanon.json](./110547-quest-room-hanon.json) |
 | Quest Rooms | 129252 | [129252-quest-rooms.json](./129252-quest-rooms.json) |
