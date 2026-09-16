@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vestige | 392262 | [392262-vestige.json](./392262-vestige.json) |
 | Vestria Story | 193940 | [193940-vestria-story.json](./193940-vestria-story.json) |
 | Vestron | 93018 | [93018-vestron.json](./93018-vestron.json) |
+| Vesuvius | 323332 | [323332-vesuvius.json](./323332-vesuvius.json) |
 | Vet Emergency | 93024 | [93024-vet-emergency.json](./93024-vet-emergency.json) |
 | Veteran Combat | 35710 | [35710-veteran-combat.json](./35710-veteran-combat.json) |
 | Vetica | 94192 | [94192-vetica.json](./94192-vetica.json) |
@@ -887,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volgarr the Viking II | 304741 | [304741-volgarr-the-viking-ii.json](./304741-volgarr-the-viking-ii.json) |
 | Volley & Tennis Bundle Blast | 196812 | [196812-volley-and-tennis-bundle-blast.json](./196812-volley-and-tennis-bundle-blast.json) |
 | Volleyball Challenge | 43244 | [43244-volleyball-challenge.json](./43244-volleyball-challenge.json) |
+| Volleyball Champions 3D | 323322 | [323322-volleyball-champions-3d.json](./323322-volleyball-champions-3d.json) |
 | Volleyball Trainer: The Legend of Sports | 224211 | [224211-volleyball-trainer-the-legend-of-sports.json](./224211-volleyball-trainer-the-legend-of-sports.json) |
 | Volleyfire | 66618 | [66618-volleyfire.json](./66618-volleyfire.json) |
 | Volly | 130859 | [130859-volly.json](./130859-volly.json) |
@@ -904,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volty's Quest | 181848 | [181848-voltys-quest.json](./181848-voltys-quest.json) |
 | Volume | 9647 | [9647-volume.json](./9647-volume.json) |
 | Volvalis | 200702 | [200702-volvalis.json](./200702-volvalis.json) |
+| Volvy’s Adventure: Reslimed | 323369 | [323369-volvy-s-adventure-reslimed.json](./323369-volvy-s-adventure-reslimed.json) |
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
 | Voodoo Nights | 77329 | [77329-voodoo-nights.json](./77329-voodoo-nights.json) |
 | Voodoo Vince | 5466 | [5466-voodoo-vince.json](./5466-voodoo-vince.json) |
