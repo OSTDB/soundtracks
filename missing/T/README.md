@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamadog | 227503 | [227503-tamadog.json](./227503-tamadog.json) |
 | Tamago | 369056 | [369056-tamago.json](./369056-tamago.json) |
 | Tamagotchi | 11284 | [11284-tamagotchi.json](./11284-tamagotchi.json) |
+| Tamagotchi | 301415 | [301415-tamagotchi.json](./301415-tamagotchi.json) |
 | Tamagotchi Angel | 320176 | [320176-tamagotchi-angel.json](./320176-tamagotchi-angel.json) |
 | Tamagotchi CD-ROM | 98933 | [98933-tamagotchi-cd-rom.json](./98933-tamagotchi-cd-rom.json) |
 | Tamagotchi Connection | 229942 | [229942-tamagotchi-connection.json](./229942-tamagotchi-connection.json) |
@@ -1052,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Pizza | 113763 | [113763-temple-of-pizza.json](./113763-temple-of-pizza.json) |
 | Temple of Rubbo | 191913 | [191913-temple-of-rubbo.json](./191913-temple-of-rubbo.json) |
 | Temple of Sandur | 376454 | [376454-temple-of-sandur.json](./376454-temple-of-sandur.json) |
+| Temple of Shadows | 301417 | [301417-temple-of-shadows.json](./301417-temple-of-shadows.json) |
 | Temple of Spider | 316982 | [316982-temple-of-spider.json](./316982-temple-of-spider.json) |
 | Temple of Tangram | 198519 | [198519-temple-of-tangram.json](./198519-temple-of-tangram.json) |
 | Temple of the Apsara | 31835 | [31835-temple-of-the-apsara.json](./31835-temple-of-the-apsara.json) |
@@ -1675,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
 | The Based Turnabout | 308419 | [308419-the-based-turnabout.json](./308419-the-based-turnabout.json) |
 | The Bastonnes | 204102 | [204102-the-bastonnes.json](./204102-the-bastonnes.json) |
+| The Batchelor | 301406 | [301406-the-batchelor.json](./301406-the-batchelor.json) |
 | The Bathhouse Restored Edition | 304047 | [304047-the-bathhouse-restored-edition.json](./304047-the-bathhouse-restored-edition.json) |
 | The Battle Cats | 59746 | [59746-the-battle-cats.json](./59746-the-battle-cats.json) |
 | The Battle for Sector 219 | 33184 | [33184-the-battle-for-sector-219.json](./33184-the-battle-for-sector-219.json) |
@@ -3735,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Normal Turnabout | 310410 | [310410-the-normal-turnabout.json](./310410-the-normal-turnabout.json) |
 | The North | 299771 | [299771-the-north.json](./299771-the-north.json) |
 | The North Pole | 127227 | [127227-the-north-pole.json](./127227-the-north-pole.json) |
+| The Northern Passage | 301414 | [301414-the-northern-passage.json](./301414-the-northern-passage.json) |
 | The Not-Deer Stew | 382797 | [382797-the-not-deer-stew.json](./382797-the-not-deer-stew.json) |
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
