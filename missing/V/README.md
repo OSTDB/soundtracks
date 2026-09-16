@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vine Realms | 135907 | [135907-vine-realms.json](./135907-vine-realms.json) |
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
 | Vinegar Mutter | 386237 | [386237-vinegar-mutter.json](./386237-vinegar-mutter.json) |
+| Vinni Pukh i vse, vse, vse | 325045 | [325045-vinni-pukh-i-vse-vse-vse.json](./325045-vinni-pukh-i-vse-vse-vse.json) |
 | Vinnie's Diary VR | 343333 | [343333-vinnies-diary-vr.json](./343333-vinnies-diary-vr.json) |
 | Vinyl Goddess from Mars | 70953 | [70953-vinyl-goddess-from-mars.json](./70953-vinyl-goddess-from-mars.json) |
 | Vinylove | 107246 | [107246-vinylove.json](./107246-vinylove.json) |
