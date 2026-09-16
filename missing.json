@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T03:48:56.086Z",
-  "total_missing": 76499,
+  "generated_at": "2026-09-16T03:51:49.686Z",
+  "total_missing": 76498,
   "games": [
     {
       "igdb_id": 306086,
@@ -5751,11 +5751,6 @@
       "igdb_id": 31784,
       "game_name": "Agenda",
       "file": "missing/A/31784-agenda.json"
-    },
-    {
-      "igdb_id": 86835,
-      "game_name": "Agent Gumball: Roguelike Spy Game",
-      "file": "missing/A/86835-agent-gumball-roguelike-spy-game.json"
     },
     {
       "igdb_id": 95462,
