@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaddicts 2 | 192891 | [192891-animaddicts-2.json](./192891-animaddicts-2.json) |
 | Animaddicts 3 | 195704 | [195704-animaddicts-3.json](./195704-animaddicts-3.json) |
 | Animagi | 377681 | [377681-animagi.json](./377681-animagi.json) |
+| Animal Away Jam | 297651 | [297651-animal-away-jam.json](./297651-animal-away-jam.json) |
 | Animal Bomber | 147466 | [147466-animal-bomber.json](./147466-animal-bomber.json) |
 | Animal Boxing | 68953 | [68953-animal-boxing.json](./68953-animal-boxing.json) |
 | Animal Breeder | 78715 | [78715-animal-breeder.json](./78715-animal-breeder.json) |
@@ -1902,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Farm Jigsaw Games for Toddlers, Babys and Kids | 295265 | [295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json](./295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json) |
 | Animal Farm Parking: Extended Edition | 283156 | [283156-animal-farm-parking-extended-edition.json](./283156-animal-farm-parking-extended-edition.json) |
 | Animal Football | 208375 | [208375-animal-football.json](./208375-animal-football.json) |
+| Animal Gem Puzzle | 297653 | [297653-animal-gem-puzzle.json](./297653-animal-gem-puzzle.json) |
 | Animal Genius | 397073 | [397073-animal-genius.json](./397073-animal-genius.json) |
 | Animal Inspector | 124753 | [124753-animal-inspector.json](./124753-animal-inspector.json) |
 | Animal Learning Puzzle for Toddlers and Kids | 147939 | [147939-animal-learning-puzzle-for-toddlers-and-kids.json](./147939-animal-learning-puzzle-for-toddlers-and-kids.json) |
@@ -1923,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Run for Kids | 381703 | [381703-animal-run-for-kids.json](./381703-animal-run-for-kids.json) |
 | Animal Sanctuary | 203882 | [203882-animal-sanctuary.json](./203882-animal-sanctuary.json) |
 | Animal School 1st Grade Games | 241356 | [241356-animal-school-1st-grade-games.json](./241356-animal-school-1st-grade-games.json) |
+| Animal School Simulator | 297646 | [297646-animal-school-simulator.json](./297646-animal-school-simulator.json) |
 | Animal Shelter Simulator | 130134 | [130134-animal-shelter-simulator.json](./130134-animal-shelter-simulator.json) |
 | Animal Shelter Simulator: Puppies & Kittens | 209661 | [209661-animal-shelter-simulator-puppies-and-kittens.json](./209661-animal-shelter-simulator-puppies-and-kittens.json) |
 | Animal Smash | 365068 | [365068-animal-smash.json](./365068-animal-smash.json) |
@@ -2409,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
+| Aquanaut | 297657 | [297657-aquanaut.json](./297657-aquanaut.json) |
 | Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
 | Aquanaut's Holiday: Hidden Memories | 7271 | [7271-aquanauts-holiday-hidden-memories.json](./7271-aquanauts-holiday-hidden-memories.json) |
 | Aquanima | 357313 | [357313-aquanima.json](./357313-aquanima.json) |
