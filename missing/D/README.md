@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Close! | 76658 | [76658-danger-close.json](./76658-danger-close.json) |
 | Danger Course VR | 124231 | [124231-danger-course-vr.json](./124231-danger-course-vr.json) |
 | Danger Crew | 117623 | [117623-danger-crew.json](./117623-danger-crew.json) |
+| Danger Dash | 332559 | [332559-danger-dash.json](./332559-danger-dash.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
@@ -1389,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
 | Delta Directive | 412266 | [412266-delta-directive.json](./412266-delta-directive.json) |
+| Delta Force: Black Hawk Down | 332541 | [332541-delta-force-black-hawk-down.json](./332541-delta-force-black-hawk-down.json) |
 | Delta Force: Land Warrior | 9350 | [9350-delta-force-land-warrior.json](./9350-delta-force-land-warrior.json) |
 | Delta Force: Xtreme | 1273 | [1273-delta-force-xtreme.json](./1273-delta-force-xtreme.json) |
 | Delta G | 112924 | [112924-delta-g.json](./112924-delta-g.json) |
@@ -2338,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Tomb | 217299 | [217299-disco-tomb.json](./217299-disco-tomb.json) |
 | Disco Zombie Fever | 240200 | [240200-disco-zombie-fever.json](./240200-disco-zombie-fever.json) |
 | Discode Reverse | 97366 | [97366-discode-reverse.json](./97366-discode-reverse.json) |
+| Discolored Bundle | 332504 | [332504-discolored-bundle.json](./332504-discolored-bundle.json) |
 | Disconcerting Unease 1 | 275313 | [275313-disconcerting-unease-1.json](./275313-disconcerting-unease-1.json) |
 | Disconcerting Unease 2 | 275320 | [275320-disconcerting-unease-2.json](./275320-disconcerting-unease-2.json) |
 | Disconcordia | 402940 | [402940-disconcordia.json](./402940-disconcordia.json) |
@@ -2786,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolce | 229972 | [229972-dolce.json](./229972-dolce.json) |
 | Doll | 97852 | [97852-doll.json](./97852-doll.json) |
 | Doll Defenders | 293622 | [293622-doll-defenders.json](./293622-doll-defenders.json) |
+| Doll Dress Up: Classy Edition | 332510 | [332510-doll-dress-up-classy-edition.json](./332510-doll-dress-up-classy-edition.json) |
 | Doll Explorer Prologue | 151658 | [151658-doll-explorer-prologue.json](./151658-doll-explorer-prologue.json) |
 | Doll INC | 346690 | [346690-doll-inc.json](./346690-doll-inc.json) |
 | Doll Parts | 347793 | [347793-doll-parts.json](./347793-doll-parts.json) |
@@ -4208,6 +4212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
 | Dungeon Adventure | 344358 | [344358-dungeon-adventure.json](./344358-dungeon-adventure.json) |
 | Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
+| Dungeon And Darkness | 332562 | [332562-dungeon-and-darkness.json](./332562-dungeon-and-darkness.json) |
 | Dungeon Apollonios | 391579 | [391579-dungeon-apollonios.json](./391579-dungeon-apollonios.json) |
 | Dungeon Arena | 163396 | [163396-dungeon-arena.json](./163396-dungeon-arena.json) |
 | Dungeon Arena: Arena Alien planet | 167843 | [167843-dungeon-arena-arena-alien-planet.json](./167843-dungeon-arena-arena-alien-planet.json) |
