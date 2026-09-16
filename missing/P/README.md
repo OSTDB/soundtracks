@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Flights | 235224 | [235224-paper-flights.json](./235224-paper-flights.json) |
 | Paper io 2: Complete Edition | 331857 | [331857-paper-io-2-complete-edition.json](./331857-paper-io-2-complete-edition.json) |
 | Paper io 2: Gold Edition | 395681 | [395681-paper-io-2-gold-edition.json](./395681-paper-io-2-gold-edition.json) |
+| Paper Luigi's Mansion | 323901 | [323901-paper-luigis-mansion.json](./323901-paper-luigis-mansion.json) |
 | Paper Mario Eggstraordinary Egg Hunt | 245039 | [245039-paper-mario-eggstraordinary-egg-hunt.json](./245039-paper-mario-eggstraordinary-egg-hunt.json) |
 | Paper Mario Multiplayer | 159325 | [159325-paper-mario-multiplayer.json](./159325-paper-mario-multiplayer.json) |
 | Paper Mario Randomizer | 304045 | [304045-paper-mario-randomizer.json](./304045-paper-mario-randomizer.json) |
@@ -530,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Realtor | 382903 | [382903-paranormal-realtor.json](./382903-paranormal-realtor.json) |
 | Paranormal Roulette | 365084 | [365084-paranormal-roulette.json](./365084-paranormal-roulette.json) |
 | Paranormal Simulator | 199591 | [199591-paranormal-simulator.json](./199591-paranormal-simulator.json) |
+| Paranormal Snap Shot | 323928 | [323928-paranormal-snap-shot.json](./323928-paranormal-snap-shot.json) |
 | Paranormal Territory 2 | 91974 | [91974-paranormal-territory-2.json](./91974-paranormal-territory-2.json) |
 | Paranormal Torment | 345546 | [345546-paranormal-torment.json](./345546-paranormal-torment.json) |
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
@@ -965,6 +967,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penalty Soccer 2012 | 259560 | [259560-penalty-soccer-2012.json](./259560-penalty-soccer-2012.json) |
 | Penance | 367401 | [367401-penance.json](./367401-penance.json) |
 | Penance | 370685 | [370685-penance.json](./370685-penance.json) |
+| Pencak Silat 1.2 | 323943 | [323943-pencak-silat-1-2.json](./323943-pencak-silat-1-2.json) |
+| Pencak Silat 2.1 | 323944 | [323944-pencak-silat-2-1.json](./323944-pencak-silat-2-1.json) |
 | Pencil Marks | 365144 | [365144-pencil-marks.json](./365144-pencil-marks.json) |
 | Pencil Plus: The Wrath of The Spankster | 242245 | [242245-pencil-plus-the-wrath-of-the-spankster.json](./242245-pencil-plus-the-wrath-of-the-spankster.json) |
 | Pendragon Rising | 34210 | [34210-pendragon-rising.json](./34210-pendragon-rising.json) |
@@ -1384,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Comeback & Turnabout | 305194 | [305194-phoenix-wright-comeback-and-turnabout.json](./305194-phoenix-wright-comeback-and-turnabout.json) |
 | Phoenix Wright: Hidden Traces | 305192 | [305192-phoenix-wright-hidden-traces.json](./305192-phoenix-wright-hidden-traces.json) |
 | Phoenix Wright: Legends of Liability | 305185 | [305185-phoenix-wright-legends-of-liability.json](./305185-phoenix-wright-legends-of-liability.json) |
+| Phoenix Wright: Oppressing Officials | 323907 | [323907-phoenix-wright-oppressing-officials.json](./323907-phoenix-wright-oppressing-officials.json) |
 | Phoenix Wright: Turnabout Cuddles! | 305187 | [305187-phoenix-wright-turnabout-cuddles.json](./305187-phoenix-wright-turnabout-cuddles.json) |
 | Phoenix Wrong | 413602 | [413602-phoenix-wrong.json](./413602-phoenix-wrong.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
@@ -2715,6 +2720,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
 | Pokémon Trading Card Game Pocket: Fantastical Parade | 387537 | [387537-pokemon-trading-card-game-pocket-fantastical-parade.json](./387537-pokemon-trading-card-game-pocket-fantastical-parade.json) |
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
+| Pokemon Twilight: Lunar | 323903 | [323903-pokemon-twilight-lunar.json](./323903-pokemon-twilight-lunar.json) |
+| Pokemon Twilight: Solar | 323904 | [323904-pokemon-twilight-solar.json](./323904-pokemon-twilight-solar.json) |
 | Pokemon Umbra Moon | 288202 | [288202-pokemon-umbra-moon.json](./288202-pokemon-umbra-moon.json) |
 | Pokémon Unbound | 141663 | [141663-pokemon-unbound.json](./141663-pokemon-unbound.json) |
 | Pokémon Unbreakable Ties | 271214 | [271214-pokemon-unbreakable-ties.json](./271214-pokemon-unbreakable-ties.json) |
