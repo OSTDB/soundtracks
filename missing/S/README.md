@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sawdust | 314039 | [314039-sawdust.json](./314039-sawdust.json) |
 | Sawmania | 355124 | [355124-sawmania.json](./355124-sawmania.json) |
 | Sawmill | 312894 | [312894-sawmill.json](./312894-sawmill.json) |
+| Say Cheese | 312157 | [312157-say-cheese.json](./312157-say-cheese.json) |
 | Sayaka | 29858 | [29858-sayaka.json](./29858-sayaka.json) |
 | Sayonara | 252989 | [252989-sayonara.json](./252989-sayonara.json) |
 | Sayonara Mr. Stealer | 388004 | [388004-sayonara-mr-stealer.json](./388004-sayonara-mr-stealer.json) |
@@ -1432,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentry: Obelisk of Dawn | 152898 | [152898-sentry-obelisk-of-dawn.json](./152898-sentry-obelisk-of-dawn.json) |
 | Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
 | Seoul Exorcist 1111 | 347761 | [347761-seoul-exorcist-1111.json](./347761-seoul-exorcist-1111.json) |
+| Seoul Station | 312196 | [312196-seoul-station.json](./312196-seoul-station.json) |
 | Separator | 411718 | [411718-separator.json](./411718-separator.json) |
 | Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
 | Sephiria | 278379 | [278379-sephiria.json](./278379-sephiria.json) |
@@ -2248,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShipCrafter | 371975 | [371975-shipcrafter.json](./371975-shipcrafter.json) |
 | Shiperoids | 31853 | [31853-shiperoids.json](./31853-shiperoids.json) |
 | ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
+| ShipOS 1994 | 312191 | [312191-shipos-1994.json](./312191-shipos-1994.json) |
 | ShipRect | 212797 | [212797-shiprect.json](./212797-shiprect.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
 | Ships Simulator 2024 | 219609 | [219609-ships-simulator-2024.json](./219609-ships-simulator-2024.json) |
@@ -4076,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
 | Sod | 180238 | [180238-sod.json](./180238-sod.json) |
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
+| Sodablood | 312174 | [312174-sodablood.json](./312174-sodablood.json) |
 | Sodium One | 45282 | [45282-sodium-one.json](./45282-sodium-one.json) |
 | Sofi Origins | 277607 | [277607-sofi-origins.json](./277607-sofi-origins.json) |
 | Sofia | 218734 | [218734-sofia.json](./218734-sofia.json) |
@@ -5725,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splitgate | 114684 | [114684-splitgate.json](./114684-splitgate.json) |
 | Splodey | 282965 | [282965-splodey.json](./282965-splodey.json) |
 | Splodge Royale | 190166 | [190166-splodge-royale.json](./190166-splodge-royale.json) |
+| Splort | 312175 | [312175-splort.json](./312175-splort.json) |
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
 | Sponchies | 68603 | [68603-sponchies.json](./68603-sponchies.json) |
 | SpongeBob Big Guy Challenge | 382339 | [382339-spongebob-big-guy-challenge.json](./382339-spongebob-big-guy-challenge.json) |
@@ -6836,6 +6841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Hero | 87175 | [87175-stick-hero.json](./87175-stick-hero.json) |
 | Stick Hunter: Exciting Ice Hockey | 48618 | [48618-stick-hunter-exciting-ice-hockey.json](./48618-stick-hunter-exciting-ice-hockey.json) |
 | Stick Infinite Kingdom | 310934 | [310934-stick-infinite-kingdom.json](./310934-stick-infinite-kingdom.json) |
+| Stick It! | 312183 | [312183-stick-it.json](./312183-stick-it.json) |
 | Stick Man Rescue | 44501 | [44501-stick-man-rescue.json](./44501-stick-man-rescue.json) |
 | Stick Nightmare | 41971 | [41971-stick-nightmare.json](./41971-stick-nightmare.json) |
 | Stick or Stone? | 176457 | [176457-stick-or-stone.json](./176457-stick-or-stone.json) |
