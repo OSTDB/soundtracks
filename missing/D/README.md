@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deleters | 405586 | [405586-deleters.json](./405586-deleters.json) |
 | Delia: The Traveling Witch | 252410 | [252410-delia-the-traveling-witch.json](./252410-delia-the-traveling-witch.json) |
 | DeliCat | 256533 | [256533-delicat.json](./256533-delicat.json) |
+| Delicious Donut | 290516 | [290516-delicious-donut.json](./290516-delicious-donut.json) |
 | Delicious Fruitworld | 173309 | [173309-delicious-fruitworld.json](./173309-delicious-fruitworld.json) |
 | Delicious Letters | 176982 | [176982-delicious-letters.json](./176982-delicious-letters.json) |
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
@@ -4269,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Adventure | 210646 | [210646-duck-adventure.json](./210646-duck-adventure.json) |
 | Duck Bow Hunt | 88217 | [88217-duck-bow-hunt.json](./88217-duck-bow-hunt.json) |
 | Duck Creator 2 | 306082 | [306082-duck-creator-2.json](./306082-duck-creator-2.json) |
+| Duck Dash | 290539 | [290539-duck-dash.json](./290539-duck-dash.json) |
 | Duck Dash Delivery | 398320 | [398320-duck-dash-delivery.json](./398320-duck-dash-delivery.json) |
 | Duck Detective: The Secret Salami | 279374 | [279374-duck-detective-the-secret-salami.json](./279374-duck-detective-the-secret-salami.json) |
 | Duck Duck Goose | 358870 | [358870-duck-duck-goose.json](./358870-duck-duck-goose.json) |
