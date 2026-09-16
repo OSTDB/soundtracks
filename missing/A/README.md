@@ -3489,6 +3489,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Hits 2006 | 70971 | [70971-atari-hits-2006.json](./70971-atari-hits-2006.json) |
 | Atari Karts | 40802 | [40802-atari-karts.json](./40802-atari-karts.json) |
 | Atari Lynx Collection 1 | 130345 | [130345-atari-lynx-collection-1.json](./130345-atari-lynx-collection-1.json) |
+| Atari Recharged: Volume One | 324499 | [324499-atari-recharged-volume-one.json](./324499-atari-recharged-volume-one.json) |
+| Atari Recharged: Volume Two | 324500 | [324500-atari-recharged-volume-two.json](./324500-atari-recharged-volume-two.json) |
 | Atari Video Cube | 12243 | [12243-atari-video-cube.json](./12243-atari-video-cube.json) |
 | Atax | 14274 | [14274-atax.json](./14274-atax.json) |
 | Ataxia | 259841 | [259841-ataxia.json](./259841-ataxia.json) |
