@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bagitman | 79324 | [79324-bagitman.json](./79324-bagitman.json) |
 | Bagman Comes Back | 185164 | [185164-bagman-comes-back.json](./185164-bagman-comes-back.json) |
 | Bah, Humbug! | 97350 | [97350-bah-humbug.json](./97350-bah-humbug.json) |
+| Bahamut Disco | 295932 | [295932-bahamut-disco.json](./295932-bahamut-disco.json) |
 | Bahamut Lagoon | 15843 | [15843-bahamut-lagoon.json](./15843-bahamut-lagoon.json) |
 | Bahari | 201306 | [201306-bahari.json](./201306-bahari.json) |
 | Bahnfrei | 398409 | [398409-bahnfrei.json](./398409-bahnfrei.json) |
@@ -4470,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
 | Burak Bahar's Unseen Anchor | 83594 | [83594-burak-bahars-unseen-anchor.json](./83594-burak-bahars-unseen-anchor.json) |
 | Buramato | 214744 | [214744-buramato.json](./214744-buramato.json) |
+| Burari Sekai Untei | 295914 | [295914-burari-sekai-untei.json](./295914-burari-sekai-untei.json) |
 | Burasagatte Iru Kiji | 261809 | [261809-burasagatte-iru-kiji.json](./261809-burasagatte-iru-kiji.json) |
 | Burg Battle | 153391 | [153391-burg-battle.json](./153391-burg-battle.json) |
 | Burg Schreckenstein: Der Dieb von Burg Schreckenstein | 376559 | [376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json](./376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json) |
