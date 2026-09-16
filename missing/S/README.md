@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvation Hours | 306490 | [306490-salvation-hours.json](./306490-salvation-hours.json) |
 | Salvation in Corruption | 75183 | [75183-salvation-in-corruption.json](./75183-salvation-in-corruption.json) |
 | Salvation Plan: Spirit Evil | 284336 | [284336-salvation-plan-spirit-evil.json](./284336-salvation-plan-spirit-evil.json) |
+| Salvatorem | 298714 | [298714-salvatorem.json](./298714-salvatorem.json) |
 | Sam & Max Save the World + Beyond Time and Space Bundle | 219053 | [219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json](./219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json) |
 | Sam & Max: Beyond Time and Space - Episode 1: Ice Station Santa | 27835 | [27835-sam-and-max-beyond-time-and-space-episode-1-ice-station-santa.json](./27835-sam-and-max-beyond-time-and-space-episode-1-ice-station-santa.json) |
 | Sam & Max: Beyond Time and Space - Episode 2: Moai Better Blues | 27836 | [27836-sam-and-max-beyond-time-and-space-episode-2-moai-better-blues.json](./27836-sam-and-max-beyond-time-and-space-episode-2-moai-better-blues.json) |
@@ -5000,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park Let's Go Tower Defense Play! | 1260 | [1260-south-park-lets-go-tower-defense-play.json](./1260-south-park-lets-go-tower-defense-play.json) |
 | South Park Rally | 1259 | [1259-south-park-rally.json](./1259-south-park-rally.json) |
 | South Park: Snow Day! | 261145 | [261145-south-park-snow-day.json](./261145-south-park-snow-day.json) |
+| South Park: Snow Day! - 420 Pack | 298710 | [298710-south-park-snow-day-420-pack.json](./298710-south-park-snow-day-420-pack.json) |
 | South Park: Snow Day! - Bigger, Longer & Uncut Anniversary Pack | 316256 | [316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json](./316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json) |
 | South Park: Snow Day! - Hammer | 324489 | [324489-south-park-snow-day-hammer.json](./324489-south-park-snow-day-hammer.json) |
 | South Park: Snow Day! - Nichole's Home Brew | 324478 | [324478-south-park-snow-day-nicholes-home-brew.json](./324478-south-park-snow-day-nicholes-home-brew.json) |
@@ -9380,6 +9382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Ark | 317234 | [317234-synth-ark.json](./317234-synth-ark.json) |
 | Synth Pong | 235759 | [235759-synth-pong.json](./235759-synth-pong.json) |
 | Synth Riders | 372492 | [372492-synth-riders.json](./372492-synth-riders.json) |
+| Synth Riders: A-ha - "Take On Me" | 298699 | [298699-synth-riders-a-ha-take-on-me.json](./298699-synth-riders-a-ha-take-on-me.json) |
 | Synth Riders: Bad Religion - "21st Century (Digital Boy)" | 356085 | [356085-synth-riders-bad-religion-21st-century-digital-boy.json](./356085-synth-riders-bad-religion-21st-century-digital-boy.json) |
 | Synth Riders: Balduin, Wolfgang Lohr - "Magic Man" | 288233 | [288233-synth-riders-balduin-wolfgang-lohr-magic-man.json](./288233-synth-riders-balduin-wolfgang-lohr-magic-man.json) |
 | Synth Riders: Bruno Mars - "Runaway Baby" | 356079 | [356079-synth-riders-bruno-mars-runaway-baby.json](./356079-synth-riders-bruno-mars-runaway-baby.json) |
@@ -9388,9 +9391,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Challenges+ Update | 341049 | [341049-synth-riders-challenges-update.json](./341049-synth-riders-challenges-update.json) |
 | Synth Riders: Cut Capers - "Let's Start Again (Odd Chap Remix)" | 288234 | [288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json](./288234-synth-riders-cut-capers-lets-start-again-odd-chap-remix.json) |
 | Synth Riders: Daryl Hall & John Oates - "Out of Touch" | 353389 | [353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json](./353389-synth-riders-daryl-hall-and-john-oates-out-of-touch.json) |
+| Synth Riders: Devo - "Whip It" | 298700 | [298700-synth-riders-devo-whip-it.json](./298700-synth-riders-devo-whip-it.json) |
 | Synth Riders: Groovin' Essentials | 356180 | [356180-synth-riders-groovin-essentials.json](./356180-synth-riders-groovin-essentials.json) |
 | Synth Riders: Infected Mushroom - "Black Velvet" (feat. Ninet Tayeb) | 364550 | [364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json](./364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json) |
 | Synth Riders: Infected Mushroom Music Pack | 364551 | [364551-synth-riders-infected-mushroom-music-pack.json](./364551-synth-riders-infected-mushroom-music-pack.json) |
+| Synth Riders: INXS - "New Sensation" | 298701 | [298701-synth-riders-inxs-new-sensation.json](./298701-synth-riders-inxs-new-sensation.json) |
 | Synth Riders: Jamie Berry - "Guilty Pleasure" | 288238 | [288238-synth-riders-jamie-berry-guilty-pleasure.json](./288238-synth-riders-jamie-berry-guilty-pleasure.json) |
 | Synth Riders: Lindsey Stirling - "First Light" | 356173 | [356173-synth-riders-lindsey-stirling-first-light.json](./356173-synth-riders-lindsey-stirling-first-light.json) |
 | Synth Riders: Lindsey Stirling - "Mirage" | 356082 | [356082-synth-riders-lindsey-stirling-mirage.json](./356082-synth-riders-lindsey-stirling-mirage.json) |
@@ -9400,10 +9405,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Muse - "Uprising" | 356176 | [356176-synth-riders-muse-uprising.json](./356176-synth-riders-muse-uprising.json) |
 | Synth Riders: Muse Music Pack & Experience | 356175 | [356175-synth-riders-muse-music-pack-and-experience.json](./356175-synth-riders-muse-music-pack-and-experience.json) |
 | Synth Riders: Nitro Fun - "New Game" | 356184 | [356184-synth-riders-nitro-fun-new-game.json](./356184-synth-riders-nitro-fun-new-game.json) |
+| Synth Riders: Phil Collins - "Sussudio" | 298702 | [298702-synth-riders-phil-collins-sussudio.json](./298702-synth-riders-phil-collins-sussudio.json) |
 | Synth Riders: Silk Sonic - "Skate" | 356116 | [356116-synth-riders-silk-sonic-skate.json](./356116-synth-riders-silk-sonic-skate.json) |
 | Synth Riders: Starcadian - "Manuals" | 356172 | [356172-synth-riders-starcadian-manuals.json](./356172-synth-riders-starcadian-manuals.json) |
 | Synth Riders: Starcadian - "New Cydonia" | 356080 | [356080-synth-riders-starcadian-new-cydonia.json](./356080-synth-riders-starcadian-new-cydonia.json) |
 | Synth Riders: Starcadian - "Supersymmetry" | 356179 | [356179-synth-riders-starcadian-supersymmetry.json](./356179-synth-riders-starcadian-supersymmetry.json) |
+| Synth Riders: Starship - "We Built This City" | 298703 | [298703-synth-riders-starship-we-built-this-city.json](./298703-synth-riders-starship-we-built-this-city.json) |
 | Synth Riders: Swingrowers - "Butterfly" | 356084 | [356084-synth-riders-swingrowers-butterfly.json](./356084-synth-riders-swingrowers-butterfly.json) |
 | Synth Riders: Swingrowers - "Rose" | 288235 | [288235-synth-riders-swingrowers-rose.json](./288235-synth-riders-swingrowers-rose.json) |
 | Synth Riders: Synthwave Essentials 3 Music Pack | 382181 | [382181-synth-riders-synthwave-essentials-3-music-pack.json](./382181-synth-riders-synthwave-essentials-3-music-pack.json) |
