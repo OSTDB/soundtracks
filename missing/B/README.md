@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacon in Zane | 399719 | [399719-bacon-in-zane.json](./399719-bacon-in-zane.json) |
 | Bacon Tales: Between Pigs and Wolves | 31919 | [31919-bacon-tales-between-pigs-and-wolves.json](./31919-bacon-tales-between-pigs-and-wolves.json) |
 | Bacon: The Game | 199079 | [199079-bacon-the-game.json](./199079-bacon-the-game.json) |
+| BaconX | 330862 | [330862-baconx.json](./330862-baconx.json) |
 | Bacteria Warfare | 309097 | [309097-bacteria-warfare.json](./309097-bacteria-warfare.json) |
 | Bacteria Wars | 165701 | [165701-bacteria-wars.json](./165701-bacteria-wars.json) |
 | Bacteria: Collector's Edition | 52620 | [52620-bacteria-collectors-edition.json](./52620-bacteria-collectors-edition.json) |
@@ -307,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance the Beam | 58218 | [58218-balance-the-beam.json](./58218-balance-the-beam.json) |
 | Balance: Umbilical Wake | 410977 | [410977-balance-umbilical-wake.json](./410977-balance-umbilical-wake.json) |
 | Balancefield | 180826 | [180826-balancefield.json](./180826-balancefield.json) |
+| Balancing Cats | 330833 | [330833-balancing-cats.json](./330833-balancing-cats.json) |
 | Balatro: Cryptid | 331968 | [331968-balatro-cryptid.json](./331968-balatro-cryptid.json) |
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
@@ -476,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band Wagon | 91435 | [91435-band-wagon.json](./91435-band-wagon.json) |
 | Bandana City | 93067 | [93067-bandana-city.json](./93067-bandana-city.json) |
 | Bandido | 264322 | [264322-bandido.json](./264322-bandido.json) |
+| Bandit | 330887 | [330887-bandit.json](./330887-bandit.json) |
 | Bandit | 379999 | [379999-bandit.json](./379999-bandit.json) |
 | Bandit Accountancy | 336923 | [336923-bandit-accountancy.json](./336923-bandit-accountancy.json) |
 | Bandit Emblem | 215148 | [215148-bandit-emblem.json](./215148-bandit-emblem.json) |
@@ -2894,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
 | BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
+| Blues Brothers S | 330865 | [330865-blues-brothers-s.json](./330865-blues-brothers-s.json) |
 | BlueTricks | 237087 | [237087-bluetricks.json](./237087-bluetricks.json) |
 | Bluey Wackadoo Watch | 230557 | [230557-bluey-wackadoo-watch.json](./230557-bluey-wackadoo-watch.json) |
 | Bluff: Fun Family Card Game | 227852 | [227852-bluff-fun-family-card-game.json](./227852-bluff-fun-family-card-game.json) |
@@ -3585,6 +3589,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Branmarker 2 | 64977 | [64977-branmarker-2.json](./64977-branmarker-2.json) |
 | Bras | 353918 | [353918-bras.json](./353918-bras.json) |
 | BrasFoot 2003 | 249466 | [249466-brasfoot-2003.json](./249466-brasfoot-2003.json) |
+| BrasFoot 2007 | 330851 | [330851-brasfoot-2007.json](./330851-brasfoot-2007.json) |
+| BrasFoot 2008 | 330852 | [330852-brasfoot-2008.json](./330852-brasfoot-2008.json) |
+| BrasFoot 2009 | 330853 | [330853-brasfoot-2009.json](./330853-brasfoot-2009.json) |
 | Brasília Defense | 404817 | [404817-brasilia-defense.json](./404817-brasilia-defense.json) |
 | Brass Lament | 343277 | [343277-brass-lament.json](./343277-brass-lament.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
