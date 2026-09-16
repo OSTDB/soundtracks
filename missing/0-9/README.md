@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #SelfieTennis | 34683 | [34683-selfietennis.json](./34683-selfietennis.json) |
 | #Wish travel, Super Puzzles Dream | 147423 | [147423-wish-travel-super-puzzles-dream.json](./147423-wish-travel-super-puzzles-dream.json) |
 | #womenUp, Super Puzzles Dream | 147437 | [147437-womenup-super-puzzles-dream.json](./147437-womenup-super-puzzles-dream.json) |
+| +1 | 308928 | [308928-1.json](./308928-1.json) |
 | > Terminal | 383380 | [383380-terminal.json](./383380-terminal.json) |
 | >Connect | 124224 | [124224-connect.json](./124224-connect.json) |
 | \|\|[}}}°.•°.°•..°•°[\|\|\|{{{ | 141830 | [141830-.json](./141830-.json) |
@@ -88,6 +89,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
 | 10 Minutes Till Dawn | 202828 | [202828-10-minutes-till-dawn.json](./202828-10-minutes-till-dawn.json) |
 | 10 Second Escape | 342742 | [342742-10-second-escape.json](./342742-10-second-escape.json) |
+| 10 Second Mixtape | 308935 | [308935-10-second-mixtape.json](./308935-10-second-mixtape.json) |
+| 10 Second Rule: Infinity Labo | 308934 | [308934-10-second-rule-infinity-labo.json](./308934-10-second-rule-infinity-labo.json) |
 | 10 Seconds | 105287 | [105287-10-seconds.json](./105287-10-seconds.json) |
 | 10 Talismans | 205801 | [205801-10-talismans.json](./205801-10-talismans.json) |
 | 10 Things You Can Be | 379985 | [379985-10-things-you-can-be.json](./379985-10-things-you-can-be.json) |
@@ -95,7 +98,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10-Pin Bowling | 153453 | [153453-10-pin-bowling.json](./153453-10-pin-bowling.json) |
 | 10-Yard Fight | 2733 | [2733-10-yard-fight.json](./2733-10-yard-fight.json) |
 | 10,000 Feet Below | 271729 | [271729-10-000-feet-below.json](./271729-10-000-feet-below.json) |
+| 10:59 | 308936 | [308936-10-59.json](./308936-10-59.json) |
 | 100 Africa Cats | 334117 | [334117-100-africa-cats.json](./334117-100-africa-cats.json) |
+| 100 Aliens Cats: Extra Content | 308929 | [308929-100-aliens-cats-extra-content.json](./308929-100-aliens-cats-extra-content.json) |
 | 100 Amsterdam Cats | 351683 | [351683-100-amsterdam-cats.json](./351683-100-amsterdam-cats.json) |
 | 100 Astro Cats | 347755 | [347755-100-astro-cats.json](./347755-100-astro-cats.json) |
 | 100 Balls | 331350 | [331350-100-balls.json](./331350-100-balls.json) |
@@ -104,11 +109,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Camp Cats | 351684 | [351684-100-camp-cats.json](./351684-100-camp-cats.json) |
 | 100 Candy Cats | 347753 | [347753-100-candy-cats.json](./347753-100-candy-cats.json) |
 | 100 Cats Istanbul | 334173 | [334173-100-cats-istanbul.json](./334173-100-cats-istanbul.json) |
+| 100 Cats London: Extra Content | 308930 | [308930-100-cats-london-extra-content.json](./308930-100-cats-london-extra-content.json) |
 | 100 China Cats | 315289 | [315289-100-china-cats.json](./315289-100-china-cats.json) |
 | 100 Christmas Hidden Cats | 378185 | [378185-100-christmas-hidden-cats.json](./378185-100-christmas-hidden-cats.json) |
 | 100 Classic Book Collection | 47939 | [47939-100-classic-book-collection.json](./47939-100-classic-book-collection.json) |
 | 100 Cyprus Cats | 334121 | [334121-100-cyprus-cats.json](./334121-100-cyprus-cats.json) |
 | 100 Demon Cats | 347752 | [347752-100-demon-cats.json](./347752-100-demon-cats.json) |
+| 100 Dogs | 308933 | [308933-100-dogs.json](./308933-100-dogs.json) |
 | 100 doors of artifact: Room Escape Challenge | 145001 | [145001-100-doors-of-artifact-room-escape-challenge.json](./145001-100-doors-of-artifact-room-escape-challenge.json) |
 | 100 Doors: Escape from Work | 167806 | [167806-100-doors-escape-from-work.json](./167806-100-doors-escape-from-work.json) |
 | 100 Dubai Cats | 334120 | [334120-100-dubai-cats.json](./334120-100-dubai-cats.json) |
@@ -119,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Capybaras | 321544 | [321544-100-hidden-capybaras.json](./321544-100-hidden-capybaras.json) |
 | 100 Hidden Cats: Ninja | 334123 | [334123-100-hidden-cats-ninja.json](./334123-100-hidden-cats-ninja.json) |
 | 100 Hidden Cats: Playground | 330560 | [330560-100-hidden-cats-playground.json](./330560-100-hidden-cats-playground.json) |
+| 100 Hidden Cthulhu Fish 2 | 308932 | [308932-100-hidden-cthulhu-fish-2.json](./308932-100-hidden-cthulhu-fish-2.json) |
 | 100 Hidden Frogs | 186155 | [186155-100-hidden-frogs.json](./186155-100-hidden-frogs.json) |
 | 100 Hiddensaurs: Greece | 318394 | [318394-100-hiddensaurs-greece.json](./318394-100-hiddensaurs-greece.json) |
 | 100 Hong Kong Cats | 351681 | [351681-100-hong-kong-cats.json](./351681-100-hong-kong-cats.json) |
@@ -172,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Chennai | 365159 | [365159-101-cats-in-chennai.json](./365159-101-cats-in-chennai.json) |
 | 101 Cats in Hanoi | 400875 | [400875-101-cats-in-hanoi.json](./400875-101-cats-in-hanoi.json) |
 | 101 Cats in Indonesia | 366304 | [366304-101-cats-in-indonesia.json](./366304-101-cats-in-indonesia.json) |
+| 101 Cats in Las Vegas | 308931 | [308931-101-cats-in-las-vegas.json](./308931-101-cats-in-las-vegas.json) |
 | 101 Cats in Madrid | 326082 | [326082-101-cats-in-madrid.json](./326082-101-cats-in-madrid.json) |
 | 101 Cats in Milan | 337608 | [337608-101-cats-in-milan.json](./337608-101-cats-in-milan.json) |
 | 101 Cats in Paris | 337610 | [337610-101-cats-in-paris.json](./337610-101-cats-in-paris.json) |
@@ -193,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
 | 1193 Anno Domini: Merchants and Crusaders | 71494 | [71494-1193-anno-domini-merchants-and-crusaders.json](./71494-1193-anno-domini-merchants-and-crusaders.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
+| 12 Hours Museum | 308938 | [308938-12-hours-museum.json](./308938-12-hours-museum.json) |
 | 12 Labours of Hercules II: The Cretan Bull | 35493 | [35493-12-labours-of-hercules-ii-the-cretan-bull.json](./35493-12-labours-of-hercules-ii-the-cretan-bull.json) |
 | 12 Labours of Hercules III: Girl Power | 35494 | [35494-12-labours-of-hercules-iii-girl-power.json](./35494-12-labours-of-hercules-iii-girl-power.json) |
 | 12 Labours of Hercules IV: Mother Nature | 26601 | [26601-12-labours-of-hercules-iv-mother-nature.json](./26601-12-labours-of-hercules-iv-mother-nature.json) |
@@ -310,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
 | 20 Words // 20 Seconds | 280751 | [280751-20-words-20-seconds.json](./280751-20-words-20-seconds.json) |
 | 20,000 Leagues Under the Sea: Extended Edition | 382906 | [382906-20-000-leagues-under-the-sea-extended-edition.json](./382906-20-000-leagues-under-the-sea-extended-edition.json) |
+| 200 Hidden House Cats | 308939 | [308939-200-hidden-house-cats.json](./308939-200-hidden-house-cats.json) |
 | 2001 A Space Oddysey | 377711 | [377711-2001-a-space-oddysey.json](./377711-2001-a-space-oddysey.json) |
 | 2003 AtariAge Holiday Cart | 70419 | [70419-2003-atariage-holiday-cart.json](./70419-2003-atariage-holiday-cart.json) |
 | 2004 Real Soccer | 116344 | [116344-2004-real-soccer.json](./116344-2004-real-soccer.json) |
@@ -317,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2006 Real Soccer | 116346 | [116346-2006-real-soccer.json](./116346-2006-real-soccer.json) |
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
 | 2029 Online | 27733 | [27733-2029-online.json](./27733-2029-online.json) |
+| 2033 The Order | 308940 | [308940-2033-the-order.json](./308940-2033-the-order.json) |
 | 2033: Das Erschwachen der Macht | 166165 | [166165-2033-das-erschwachen-der-macht.json](./166165-2033-das-erschwachen-der-macht.json) |
 | 2047 CCG | 205587 | [205587-2047-ccg.json](./205587-2047-ccg.json) |
 | 2048 | 270395 | [270395-2048.json](./270395-2048.json) |
@@ -337,19 +349,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 21 Gewinnt | 98932 | [98932-21-gewinnt.json](./98932-21-gewinnt.json) |
 | 21 Steps to Soul | 27115 | [27115-21-steps-to-soul.json](./27115-21-steps-to-soul.json) |
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
+| 21Pirates Card Game | 308941 | [308941-21pirates-card-game.json](./308941-21pirates-card-game.json) |
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
 | 24 Lustful Hours | 382296 | [382296-24-lustful-hours.json](./382296-24-lustful-hours.json) |
 | 24 Solar Terms | 158663 | [158663-24-solar-terms.json](./158663-24-solar-terms.json) |
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
+| 24H Stories: The Cabin In The Forest | 308942 | [308942-24h-stories-the-cabin-in-the-forest.json](./308942-24h-stories-the-cabin-in-the-forest.json) |
 | 256 cosas en común entre una cama, un libro y una cerveza | 331972 | [331972-256-cosas-en-comun-entre-una-cama-un-libro-y-una-cerveza.json](./331972-256-cosas-en-comun-entre-una-cama-un-libro-y-una-cerveza.json) |
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
 | 27 Survivors | 410329 | [410329-27-survivors.json](./410329-27-survivors.json) |
+| 28 | 308937 | [308937-28.json](./308937-28.json) |
 | 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
 | 28 Robots Later | 52546 | [52546-28-robots-later.json](./52546-28-robots-later.json) |
 | 280 Zzzap/Dodgem 2001 | 139471 | [139471-280-zzzap-dodgem-2001.json](./139471-280-zzzap-dodgem-2001.json) |
 | 286 Miles | 333601 | [333601-286-miles.json](./333601-286-miles.json) |
 | 2BBee | 261789 | [261789-2bbee.json](./261789-2bbee.json) |
+| 2D Dogfight: Sunset and Sunrise | 308943 | [308943-2d-dogfight-sunset-and-sunrise.json](./308943-2d-dogfight-sunset-and-sunrise.json) |
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
@@ -382,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-in-1 Christmas Collection | 331411 | [331411-3-in-1-christmas-collection.json](./331411-3-in-1-christmas-collection.json) |
 | 3:33 A.M. | 318976 | [318976-3-33-a-m.json](./318976-3-33-a-m.json) |
 | 30 Days of Tower | 290955 | [290955-30-days-of-tower.json](./290955-30-days-of-tower.json) |
+| 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
 | 30 Seconds to Jail | 97110 | [97110-30-seconds-to-jail.json](./97110-30-seconds-to-jail.json) |
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
@@ -428,8 +445,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
+| 3D Puzzle: Abandoned Prison | 308949 | [308949-3d-puzzle-abandoned-prison.json](./308949-3d-puzzle-abandoned-prison.json) |
 | 3D Puzzle: Colonial Graveyard | 337620 | [337620-3d-puzzle-colonial-graveyard.json](./337620-3d-puzzle-colonial-graveyard.json) |
+| 3D Puzzle: Hangar | 308948 | [308948-3d-puzzle-hangar.json](./308948-3d-puzzle-hangar.json) |
+| 3D Puzzle: Hospital 4 | 308950 | [308950-3d-puzzle-hospital-4.json](./308950-3d-puzzle-hospital-4.json) |
+| 3D Puzzle: OldHospital | 308947 | [308947-3d-puzzle-oldhospital.json](./308947-3d-puzzle-oldhospital.json) |
+| 3D Puzzle: OutPost | 308946 | [308946-3d-puzzle-outpost.json](./308946-3d-puzzle-outpost.json) |
 | 3D Puzzle: Pirates | 301037 | [301037-3d-puzzle-pirates.json](./301037-3d-puzzle-pirates.json) |
+| 3D Puzzle: Rusty | 308945 | [308945-3d-puzzle-rusty.json](./308945-3d-puzzle-rusty.json) |
+| 3D Puzzle: Sun Temple | 308951 | [308951-3d-puzzle-sun-temple.json](./308951-3d-puzzle-sun-temple.json) |
+| 3D Puzzle: Underground | 308944 | [308944-3d-puzzle-underground.json](./308944-3d-puzzle-underground.json) |
 | 3D Recon | 57651 | [57651-3d-recon.json](./57651-3d-recon.json) |
 | 3D Shooting Tsukuuru | 60581 | [60581-3d-shooting-tsukuuru.json](./60581-3d-shooting-tsukuuru.json) |
 | 3D Snake . io | 100864 | [100864-3d-snake-io.json](./100864-3d-snake-io.json) |
@@ -482,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
 | 4X4 Progress | 333648 | [333648-4x4-progress.json](./333648-4x4-progress.json) |
 | 5 Card Slingo | 321768 | [321768-5-card-slingo.json](./321768-5-card-slingo.json) |
+| 5 Days, Minimum Wage. | 308953 | [308953-5-days-minimum-wage.json](./308953-5-days-minimum-wage.json) |
 | 5 in 1 Mahjong | 79874 | [79874-5-in-1-mahjong.json](./79874-5-in-1-mahjong.json) |
 | 5 In One Fun Pak | 93568 | [93568-5-in-one-fun-pak.json](./93568-5-in-one-fun-pak.json) |
 | 5 Intelligent Strategy Games | 320405 | [320405-5-intelligent-strategy-games.json](./320405-5-intelligent-strategy-games.json) |
@@ -498,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5200 Menu | 93539 | [93539-5200-menu.json](./93539-5200-menu.json) |
 | 5D Diplomacy with Multiverse Time Travel | 330835 | [330835-5d-diplomacy-with-multiverse-time-travel.json](./330835-5d-diplomacy-with-multiverse-time-travel.json) |
 | 5G VR Football | 191163 | [191163-5g-vr-football.json](./191163-5g-vr-football.json) |
+| 5omeday | 308954 | [308954-5omeday.json](./308954-5omeday.json) |
 | 5Street | 23640 | [23640-5street.json](./23640-5street.json) |
 | 6 | 34296 | [34296-6.json](./34296-6.json) |
 | 6-gatsu no Kimi to Boku | 412403 | [412403-6-gatsu-no-kimi-to-boku.json](./412403-6-gatsu-no-kimi-to-boku.json) |
@@ -528,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Horizons | 210898 | [210898-7-horizons.json](./210898-7-horizons.json) |
 | 7 Little Words | 115641 | [115641-7-little-words.json](./115641-7-little-words.json) |
 | 7 Mages Complete | 52541 | [52541-7-mages-complete.json](./52541-7-mages-complete.json) |
+| 7 Meters Away: Oscar and the Cell of the Soul | 308955 | [308955-7-meters-away-oscar-and-the-cell-of-the-soul.json](./308955-7-meters-away-oscar-and-the-cell-of-the-soul.json) |
 | 7 Pillars | 41974 | [41974-7-pillars.json](./41974-7-pillars.json) |
 | 7 Planets | 175396 | [175396-7-planets.json](./175396-7-planets.json) |
 | 7 Sexy Sins | 127921 | [127921-7-sexy-sins.json](./127921-7-sexy-sins.json) |
@@ -572,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8Floor Bundle 4 in 1 Part 7 | 338027 | [338027-8floor-bundle-4-in-1-part-7.json](./338027-8floor-bundle-4-in-1-part-7.json) |
 | 8i | 32988 | [32988-8i.json](./32988-8i.json) |
 | 8th Avenue | 333576 | [333576-8th-avenue.json](./333576-8th-avenue.json) |
+| 8th Baspis | 308925 | [308925-8th-baspis.json](./308925-8th-baspis.json) |
 | 9 Classic Card & Board Games: No. 1 | 15584 | [15584-9-classic-card-and-board-games-no-1.json](./15584-9-classic-card-and-board-games-no-1.json) |
 | 9 Clues 2: The Ward | 35265 | [35265-9-clues-2-the-ward.json](./35265-9-clues-2-the-ward.json) |
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
