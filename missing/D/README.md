@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Reckoning: Last Battle | 402898 | [402898-days-of-reckoning-last-battle.json](./402898-days-of-reckoning-last-battle.json) |
 | Days of Saturn | 326062 | [326062-days-of-saturn.json](./326062-days-of-saturn.json) |
 | Days of the Divine | 243955 | [243955-days-of-the-divine.json](./243955-days-of-the-divine.json) |
+| Days of Thunder | 326790 | [326790-days-of-thunder.json](./326790-days-of-thunder.json) |
 | Days of Thunder: NASCAR Edition | 44594 | [44594-days-of-thunder-nascar-edition.json](./44594-days-of-thunder-nascar-edition.json) |
 | Days of War | 26403 | [26403-days-of-war.json](./26403-days-of-war.json) |
 | Days Under Custody | 34165 | [34165-days-under-custody.json](./34165-days-under-custody.json) |
@@ -1145,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck of Memories | 348344 | [348344-deck-of-memories.json](./348344-deck-of-memories.json) |
 | Deck of Souls | 252356 | [252356-deck-of-souls.json](./252356-deck-of-souls.json) |
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
+| Deck the Underhalls | 326803 | [326803-deck-the-underhalls.json](./326803-deck-the-underhalls.json) |
 | Deck Warlords | 110304 | [110304-deck-warlords.json](./110304-deck-warlords.json) |
 | Deck'n'Bag | 402362 | [402362-decknbag.json](./402362-decknbag.json) |
 | Deckbane | 347782 | [347782-deckbane.json](./347782-deckbane.json) |
