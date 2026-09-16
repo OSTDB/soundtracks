@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screen | 300716 | [300716-screen.json](./300716-screen.json) |
 | Screen Blaster | 101548 | [101548-screen-blaster.json](./101548-screen-blaster.json) |
 | Screen Boy | 364503 | [364503-screen-boy.json](./364503-screen-boy.json) |
+| Screen Cat | 328023 | [328023-screen-cat.json](./328023-screen-cat.json) |
 | Screen VR | 121596 | [121596-screen-vr.json](./121596-screen-vr.json) |
 | Screen Wonders | 297211 | [297211-screen-wonders.json](./297211-screen-wonders.json) |
 | ScreenPlay | 188603 | [188603-screenplay.json](./188603-screenplay.json) |
@@ -2003,8 +2004,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelf | 278694 | [278694-shelf.json](./278694-shelf.json) |
 | Shell Corp | 129748 | [129748-shell-corp.json](./129748-shell-corp.json) |
 | Shell Increment | 390654 | [390654-shell-increment.json](./390654-shell-increment.json) |
+| Shell Is Cool | 328048 | [328048-shell-is-cool.json](./328048-shell-is-cool.json) |
 | Shell Kingdom | 185087 | [185087-shell-kingdom.json](./185087-shell-kingdom.json) |
 | Shell of a King | 250961 | [250961-shell-of-a-king.json](./250961-shell-of-a-king.json) |
+| Shell Out | 328047 | [328047-shell-out.json](./328047-shell-out.json) |
 | Shell Shatter | 243969 | [243969-shell-shatter.json](./243969-shell-shatter.json) |
 | Shell_Break | 112951 | [112951-shell-break.json](./112951-shell-break.json) |
 | Shellax | 328266 | [328266-shellax.json](./328266-shellax.json) |
@@ -3639,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smithereens! | 22412 | [22412-smithereens.json](./22412-smithereens.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
+| Smoked Fish And Cabbage 3 | 328046 | [328046-smoked-fish-and-cabbage-3.json](./328046-smoked-fish-and-cabbage-3.json) |
 | Smokin' Guns - Shooting Gallery | 135854 | [135854-smokin-guns-shooting-gallery.json](./135854-smokin-guns-shooting-gallery.json) |
 | Smoking Guns: Shooting Gallery! | 77382 | [77382-smoking-guns-shooting-gallery.json](./77382-smoking-guns-shooting-gallery.json) |
 | Smoking Simulator | 201285 | [201285-smoking-simulator.json](./201285-smoking-simulator.json) |
@@ -8400,6 +8404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Swarm Smash | 147398 | [147398-super-swarm-smash.json](./147398-super-swarm-smash.json) |
 | Super Swing Golf: Season 2 | 5203 | [5203-super-swing-golf-season-2.json](./5203-super-swing-golf-season-2.json) |
 | Super Swunsh World | 214775 | [214775-super-swunsh-world.json](./214775-super-swunsh-world.json) |
+| Super Swunsh World 2 | 328044 | [328044-super-swunsh-world-2.json](./328044-super-swunsh-world-2.json) |
 | Super Taco Crew | 173845 | [173845-super-taco-crew.json](./173845-super-taco-crew.json) |
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
 | Super Tank Battle | 175369 | [175369-super-tank-battle.json](./175369-super-tank-battle.json) |
@@ -8828,6 +8833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Rock Paper Scissors | 392918 | [392918-sweet-rock-paper-scissors.json](./392918-sweet-rock-paper-scissors.json) |
 | Sweet Run | 392919 | [392919-sweet-run.json](./392919-sweet-run.json) |
 | Sweet Science: The Girls of Silversee Castle | 239656 | [239656-sweet-science-the-girls-of-silversee-castle.json](./239656-sweet-science-the-girls-of-silversee-castle.json) |
+| Sweet Shell | 328043 | [328043-sweet-shell.json](./328043-sweet-shell.json) |
 | Sweet Shine | 159825 | [159825-sweet-shine.json](./159825-sweet-shine.json) |
 | Sweet Sort | 255751 | [255751-sweet-sort.json](./255751-sweet-sort.json) |
 | Sweet Sport | 368572 | [368572-sweet-sport.json](./368572-sweet-sport.json) |
