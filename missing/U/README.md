@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Tycoon | 348764 | [348764-underworld-tycoon.json](./348764-underworld-tycoon.json) |
 | Underwurlde | 14588 | [14588-underwurlde.json](./14588-underwurlde.json) |
 | Undisputed | 146957 | [146957-undisputed.json](./146957-undisputed.json) |
+| Undisputed: Deluxe WBC Edition | 325656 | [325656-undisputed-deluxe-wbc-edition.json](./325656-undisputed-deluxe-wbc-edition.json) |
 | Undockable | 361782 | [361782-undockable.json](./361782-undockable.json) |
 | Undoing Evil | 195271 | [195271-undoing-evil.json](./195271-undoing-evil.json) |
 | Undress! | 369653 | [369653-undress.json](./369653-undress.json) |
