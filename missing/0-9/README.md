@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Keys to Your Heart | 231615 | [231615-100-keys-to-your-heart.json](./231615-100-keys-to-your-heart.json) |
 | 100 Los Angeles Cats | 334125 | [334125-100-los-angeles-cats.json](./334125-100-los-angeles-cats.json) |
 | 100 Men vs 1 Gorilla | 349879 | [349879-100-men-vs-1-gorilla.json](./349879-100-men-vs-1-gorilla.json) |
+| 100 Minutes of /vr/ | 300030 | [300030-100-minutes-of-vr.json](./300030-100-minutes-of-vr.json) |
 | 100 Pics Quiz | 70890 | [70890-100-pics-quiz.json](./70890-100-pics-quiz.json) |
 | 100 Radioactive Cats | 379455 | [379455-100-radioactive-cats.json](./379455-100-radioactive-cats.json) |
 | 100 Rogues | 22347 | [22347-100-rogues.json](./22347-100-rogues.json) |
@@ -408,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
 | 3030 Deathwar Redux | 32952 | [32952-3030-deathwar-redux.json](./32952-3030-deathwar-redux.json) |
+| 3059 | 300002 | [300002-3059.json](./300002-3059.json) |
 | 32, Dandelion Drift | 348227 | [348227-32-dandelion-drift.json](./348227-32-dandelion-drift.json) |
 | 32nd America's Cup: The Game | 72609 | [72609-32nd-americas-cup-the-game.json](./72609-32nd-americas-cup-the-game.json) |
 | 33 Rounds | 126563 | [126563-33-rounds.json](./126563-33-rounds.json) |
@@ -424,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3Buttons | 110352 | [110352-3buttons.json](./110352-3buttons.json) |
 | 3C Wonderland Coaster | 111071 | [111071-3c-wonderland-coaster.json](./111071-3c-wonderland-coaster.json) |
 | 3D Alien Syndrome | 202925 | [202925-3d-alien-syndrome.json](./202925-3d-alien-syndrome.json) |
+| 3D Ball Blaster | 300007 | [300007-3d-ball-blaster.json](./300007-3d-ball-blaster.json) |
 | 3D Basketball Champs Elite | 101467 | [101467-3d-basketball-champs-elite.json](./101467-3d-basketball-champs-elite.json) |
 | 3D Boxing | 12980 | [12980-3d-boxing.json](./12980-3d-boxing.json) |
 | 3D Brick Bustin Madness | 205832 | [205832-3d-brick-bustin-madness.json](./205832-3d-brick-bustin-madness.json) |
@@ -432,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Columns | 202926 | [202926-3d-columns.json](./202926-3d-columns.json) |
 | 3D Convoy | 15575 | [15575-3d-convoy.json](./15575-3d-convoy.json) |
 | 3D Creation Station | 64907 | [64907-3d-creation-station.json](./64907-3d-creation-station.json) |
+| 3D Cyber Puck | 300012 | [300012-3d-cyber-puck.json](./300012-3d-cyber-puck.json) |
 | 3D Dot Game Heroes | 7265 | [7265-3d-dot-game-heroes.json](./7265-3d-dot-game-heroes.json) |
 | 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
 | 3D Driving School | 52544 | [52544-3d-driving-school.json](./52544-3d-driving-school.json) |
@@ -505,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4K Adventure | 140624 | [140624-4k-adventure.json](./140624-4k-adventure.json) |
 | 4th Era: The RuneChild | 120320 | [120320-4th-era-the-runechild.json](./120320-4th-era-the-runechild.json) |
 | 4th Time's the Charm | 362913 | [362913-4th-times-the-charm.json](./362913-4th-times-the-charm.json) |
+| 4WD Wild Rally | 300005 | [300005-4wd-wild-rally.json](./300005-4wd-wild-rally.json) |
 | 4x4 Adventure Rocky Pathways | 320371 | [320371-4x4-adventure-rocky-pathways.json](./320371-4x4-adventure-rocky-pathways.json) |
 | 4x4 Dirt Track Forest Driving | 89197 | [89197-4x4-dirt-track-forest-driving.json](./89197-4x4-dirt-track-forest-driving.json) |
 | 4x4 EVO 2 | 5715 | [5715-4x4-evo-2.json](./5715-4x4-evo-2.json) |
