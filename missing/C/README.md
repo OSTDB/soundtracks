@@ -3700,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CountDown | 336629 | [336629-countdown.json](./336629-countdown.json) |
 | Countdown To Death | 315707 | [315707-countdown-to-death.json](./315707-countdown-to-death.json) |
 | Countdown to Doom | 13706 | [13706-countdown-to-doom.json](./13706-countdown-to-doom.json) |
+| Countdown to Extinction | 313858 | [313858-countdown-to-extinction.json](./313858-countdown-to-extinction.json) |
 | Countdown to Meltdown | 12947 | [12947-countdown-to-meltdown.json](./12947-countdown-to-meltdown.json) |
 | Counter Attack | 152291 | [152291-counter-attack.json](./152291-counter-attack.json) |
 | Counter Attack | 279009 | [279009-counter-attack.json](./279009-counter-attack.json) |
