@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Strike | 39752 | [39752-omega-strike.json](./39752-omega-strike.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
 | Omega Vanitas | 416607 | [416607-omega-vanitas.json](./416607-omega-vanitas.json) |
+| Omega Zone | 291607 | [291607-omega-zone.json](./291607-omega-zone.json) |
 | Omega-Altro | 156117 | [156117-omega-altro.json](./156117-omega-altro.json) |
 | Omega: The Beginning | 117700 | [117700-omega-the-beginning.json](./117700-omega-the-beginning.json) |
 | OmegaBot | 154001 | [154001-omegabot.json](./154001-omegabot.json) |
