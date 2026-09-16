@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T12:04:10.482Z",
-  "total_missing": 77850,
+  "generated_at": "2026-09-16T12:11:36.042Z",
+  "total_missing": 77849,
   "games": [
     {
       "igdb_id": 306086,
@@ -6011,11 +6011,6 @@
       "igdb_id": 31563,
       "game_name": "Ahros: One Warrior Chronicle",
       "file": "missing/A/31563-ahros-one-warrior-chronicle.json"
-    },
-    {
-      "igdb_id": 329034,
-      "game_name": "AI Asylum",
-      "file": "missing/A/329034-ai-asylum.json"
     },
     {
       "igdb_id": 304595,
