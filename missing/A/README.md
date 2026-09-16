@@ -623,7 +623,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Heroes II: Underground Horror | 320973 | [320973-age-of-heroes-ii-underground-horror.json](./320973-age-of-heroes-ii-underground-horror.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
-| Agent Roy: Zombie Hunt | 232449 | [232449-agent-roy-zombie-hunt.json](./232449-agent-roy-zombie-hunt.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Agony VR | 197402 | [197402-agony-vr.json](./197402-agony-vr.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
