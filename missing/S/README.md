@@ -4267,6 +4267,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
 | Some Assembly Required | 343827 | [343827-some-assembly-required.json](./343827-some-assembly-required.json) |
 | Some Peace of Mind | 22361 | [22361-some-peace-of-mind.json](./22361-some-peace-of-mind.json) |
+| Some Some Convenience Store: Adela After Story | 316253 | [316253-some-some-convenience-store-adela-after-story.json](./316253-some-some-convenience-store-adela-after-story.json) |
+| Some Some Convenience Store: After Stories Pass | 316254 | [316254-some-some-convenience-store-after-stories-pass.json](./316254-some-some-convenience-store-after-stories-pass.json) |
+| Some Some Convenience Store: Soohee After Story | 316252 | [316252-some-some-convenience-store-soohee-after-story.json](./316252-some-some-convenience-store-soohee-after-story.json) |
+| Some Some Convenience Store: Yena After Story | 316251 | [316251-some-some-convenience-store-yena-after-story.json](./316251-some-some-convenience-store-yena-after-story.json) |
 | Some Spring Days | 242540 | [242540-some-spring-days.json](./242540-some-spring-days.json) |
 | Some Synergy | 210883 | [210883-some-synergy.json](./210883-some-synergy.json) |
 | Someday | 120923 | [120923-someday.json](./120923-someday.json) |
@@ -4901,8 +4905,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park Let's Go Tower Defense Play! | 1260 | [1260-south-park-lets-go-tower-defense-play.json](./1260-south-park-lets-go-tower-defense-play.json) |
 | South Park Rally | 1259 | [1259-south-park-rally.json](./1259-south-park-rally.json) |
 | South Park: Snow Day! | 261145 | [261145-south-park-snow-day.json](./261145-south-park-snow-day.json) |
+| South Park: Snow Day! - Bigger, Longer & Uncut Anniversary Pack | 316256 | [316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json](./316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json) |
 | South Park: Snow Day! - Hammer | 324489 | [324489-south-park-snow-day-hammer.json](./324489-south-park-snow-day-hammer.json) |
 | South Park: Snow Day! - Nichole's Home Brew | 324478 | [324478-south-park-snow-day-nicholes-home-brew.json](./324478-south-park-snow-day-nicholes-home-brew.json) |
+| South Park: Snow Day! - Nonconformist Weapon Variation Pack | 316257 | [316257-south-park-snow-day-nonconformist-weapon-variation-pack.json](./316257-south-park-snow-day-nonconformist-weapon-variation-pack.json) |
+| South Park: Snow Day! - To Danse with the Veiled Horde | 316258 | [316258-south-park-snow-day-to-danse-with-the-veiled-horde.json](./316258-south-park-snow-day-to-danse-with-the-veiled-horde.json) |
 | South Park: The Fractured but Whole - Collector's Edition | 11003 | [11003-south-park-the-fractured-but-whole-collectors-edition.json](./11003-south-park-the-fractured-but-whole-collectors-edition.json) |
 | South Park: The Fractured but Whole - Remote Control Coon Mobile Bundle | 7394 | [7394-south-park-the-fractured-but-whole-remote-control-coon-mobile-bundle.json](./7394-south-park-the-fractured-but-whole-remote-control-coon-mobile-bundle.json) |
 | South Pole Bebop | 298875 | [298875-south-pole-bebop.json](./298875-south-pole-bebop.json) |
@@ -5795,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
+| Spot the Difference: Ukiyo-e Thirty-six Views of Mt. Fuji | 316242 | [316242-spot-the-difference-ukiyo-e-thirty-six-views-of-mt-fuji.json](./316242-spot-the-difference-ukiyo-e-thirty-six-views-of-mt-fuji.json) |
 | Spot the Differences | 44502 | [44502-spot-the-differences.json](./44502-spot-the-differences.json) |
 | Spot The Differences 2020 | 284338 | [284338-spot-the-differences-2020.json](./284338-spot-the-differences-2020.json) |
 | Spot the Differences: Party! | 84897 | [84897-spot-the-differences-party.json](./84897-spot-the-differences-party.json) |
@@ -5855,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout Valley Big Pack | 328993 | [328993-sprout-valley-big-pack.json](./328993-sprout-valley-big-pack.json) |
 | Sprout Valley: Friends Forever | 332505 | [332505-sprout-valley-friends-forever.json](./332505-sprout-valley-friends-forever.json) |
 | Sprout Valley: Friends Forever Expansion | 332526 | [332526-sprout-valley-friends-forever-expansion.json](./332526-sprout-valley-friends-forever-expansion.json) |
+| Sprout Valley: Nico's Skins | 316247 | [316247-sprout-valley-nicos-skins.json](./316247-sprout-valley-nicos-skins.json) |
 | Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
 | Sprucerio | 257408 | [257408-sprucerio.json](./257408-sprucerio.json) |
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
@@ -7569,6 +7578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Wan! | 397064 | [397064-suika-wan.json](./397064-suika-wan.json) |
 | Suikan Quest | 82857 | [82857-suikan-quest.json](./82857-suikan-quest.json) |
 | Suikarad Gold | 280766 | [280766-suikarad-gold.json](./280766-suikarad-gold.json) |
+| Suikawa Lead | 316290 | [316290-suikawa-lead.json](./316290-suikawa-lead.json) |
 | Suikoden: Star Leap | 334108 | [334108-suikoden-star-leap.json](./334108-suikoden-star-leap.json) |
 | Suikoden: Tenmei no Chikai | 351030 | [351030-suikoden-tenmei-no-chikai.json](./351030-suikoden-tenmei-no-chikai.json) |
 | Suiren | 131578 | [131578-suiren.json](./131578-suiren.json) |
@@ -8635,6 +8645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermaneuver | 397777 | [397777-supermaneuver.json](./397777-supermaneuver.json) |
 | Supermarket | 329556 | [329556-supermarket.json](./329556-supermarket.json) |
 | Supermarket & Clothing Store Simulator | 404258 | [404258-supermarket-and-clothing-store-simulator.json](./404258-supermarket-and-clothing-store-simulator.json) |
+| Supermarket 3D Tycoon Buisness Simulator | 316241 | [316241-supermarket-3d-tycoon-buisness-simulator.json](./316241-supermarket-3d-tycoon-buisness-simulator.json) |
 | Supermarket 3D Tycoon Business Simulator | 317231 | [317231-supermarket-3d-tycoon-business-simulator.json](./317231-supermarket-3d-tycoon-business-simulator.json) |
 | Supermarket CEO Simulator | 335949 | [335949-supermarket-ceo-simulator.json](./335949-supermarket-ceo-simulator.json) |
 | Supermarket CEO Simulator VR | 335950 | [335950-supermarket-ceo-simulator-vr.json](./335950-supermarket-ceo-simulator-vr.json) |
@@ -8643,6 +8654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Duck Dash | 221160 | [221160-supermarket-duck-dash.json](./221160-supermarket-duck-dash.json) |
 | Supermarket Grocery Simulator | 319774 | [319774-supermarket-grocery-simulator.json](./319774-supermarket-grocery-simulator.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
+| Supermarket Manager Empire 2024 | 316240 | [316240-supermarket-manager-empire-2024.json](./316240-supermarket-manager-empire-2024.json) |
 | Supermarket Manager Simulator | 314863 | [314863-supermarket-manager-simulator.json](./314863-supermarket-manager-simulator.json) |
 | Supermarket Shriek | 107170 | [107170-supermarket-shriek.json](./107170-supermarket-shriek.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
