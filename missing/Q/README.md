@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Rush Champions: Jump Start Tournament | 172121 | [172121-quantum-rush-champions-jump-start-tournament.json](./172121-quantum-rush-champions-jump-start-tournament.json) |
 | Quantum Threshold | 344962 | [344962-quantum-threshold.json](./344962-quantum-threshold.json) |
 | Quantum Tripper: Math | 267084 | [267084-quantum-tripper-math.json](./267084-quantum-tripper-math.json) |
+| Quantum Tripper: Max | 296520 | [296520-quantum-tripper-max.json](./296520-quantum-tripper-max.json) |
 | Quantum Void | 288758 | [288758-quantum-void.json](./288758-quantum-void.json) |
 | Quantum Witch | 323165 | [323165-quantum-witch.json](./323165-quantum-witch.json) |
 | Quarantine Area: Zombie Attack | 370791 | [370791-quarantine-area-zombie-attack.json](./370791-quarantine-area-zombie-attack.json) |
