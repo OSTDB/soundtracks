@@ -3320,6 +3320,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Sled | 130872 | [130872-power-sled.json](./130872-power-sled.json) |
 | Power Soccer | 320968 | [320968-power-soccer.json](./320968-power-soccer.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
+| Power Stakes | 301385 | [301385-power-stakes.json](./301385-power-stakes.json) |
+| Power Stakes 2 | 301386 | [301386-power-stakes-2.json](./301386-power-stakes-2.json) |
 | Power Stakes: Grade 1 | 141165 | [141165-power-stakes-grade-1.json](./141165-power-stakes-grade-1.json) |
 | Power Struggle | 55031 | [55031-power-struggle.json](./55031-power-struggle.json) |
 | Power to Play: The Game | 255082 | [255082-power-to-play-the-game.json](./255082-power-to-play-the-game.json) |
