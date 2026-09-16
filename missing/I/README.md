@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Cinema Tycoon | 369567 | [369567-idle-cinema-tycoon.json](./369567-idle-cinema-tycoon.json) |
 | Idle Colony | 299782 | [299782-idle-colony.json](./299782-idle-colony.json) |
 | Idle Colors | 402893 | [402893-idle-colors.json](./402893-idle-colors.json) |
+| Idle Craft | 333081 | [333081-idle-craft.json](./333081-idle-craft.json) |
 | Idle Cutter | 247213 | [247213-idle-cutter.json](./247213-idle-cutter.json) |
 | Idle Death Knight | 208031 | [208031-idle-death-knight.json](./208031-idle-death-knight.json) |
 | Idle Dessert Tycoon | 299452 | [299452-idle-dessert-tycoon.json](./299452-idle-dessert-tycoon.json) |
@@ -904,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiniboss | 134008 | [134008-infiniboss.json](./134008-infiniboss.json) |
 | Infinicity | 295262 | [295262-infinicity.json](./295262-infinicity.json) |
 | Infinifactory | 9649 | [9649-infinifactory.json](./9649-infinifactory.json) |
+| Infinimoes | 333654 | [333654-infinimoes.json](./333654-infinimoes.json) |
 | InfiniPicross 2.0: 100 Large Puzzles - Animals | 163426 | [163426-infinipicross-2-0-100-large-puzzles-animals.json](./163426-infinipicross-2-0-100-large-puzzles-animals.json) |
 | InfiniPicross 2.0: 100 Medium Puzzles | 163425 | [163425-infinipicross-2-0-100-medium-puzzles.json](./163425-infinipicross-2-0-100-medium-puzzles.json) |
 | InfiniPicross 3 | 251807 | [251807-infinipicross-3.json](./251807-infinipicross-3.json) |
@@ -1327,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasão | 299473 | [299473-invasao.json](./299473-invasao.json) |
 | Invasion | 95388 | [95388-invasion.json](./95388-invasion.json) |
 | Invasion - The Abductors | 39624 | [39624-invasion-the-abductors.json](./39624-invasion-the-abductors.json) |
+| Invasion 360 | 333665 | [333665-invasion-360.json](./333665-invasion-360.json) |
 | Invasion Eternity | 258218 | [258218-invasion-eternity.json](./258218-invasion-eternity.json) |
 | Invasion Force | 85518 | [85518-invasion-force.json](./85518-invasion-force.json) |
 | Invasion Machine | 110597 | [110597-invasion-machine.json](./110597-invasion-machine.json) |
