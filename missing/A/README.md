@@ -585,7 +585,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent Hugo | 95462 | [95462-agent-hugo.json](./95462-agent-hugo.json) |
 | Agent Intercept | 122635 | [122635-agent-intercept.json](./122635-agent-intercept.json) |
-| Agent Karen: Undercover Investigation of an Evil Organization | 82884 | [82884-agent-karen-undercover-investigation-of-an-evil-organization.json](./82884-agent-karen-undercover-investigation-of-an-evil-organization.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
 | Agent of Chaos | 157170 | [157170-agent-of-chaos.json](./157170-agent-of-chaos.json) |
 | Agent of Strange | 355023 | [355023-agent-of-strange.json](./355023-agent-of-strange.json) |
