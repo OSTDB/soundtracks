@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom: Infinite - Sigma | 161322 | [161322-marvel-vs-capcom-infinite-sigma.json](./161322-marvel-vs-capcom-infinite-sigma.json) |
 | Marvel vs. Capcom: Infinite - Venom | 161318 | [161318-marvel-vs-capcom-infinite-venom.json](./161318-marvel-vs-capcom-infinite-venom.json) |
 | Marvel vs. Capcom: Infinite - Winter Soldier | 161321 | [161321-marvel-vs-capcom-infinite-winter-soldier.json](./161321-marvel-vs-capcom-infinite-winter-soldier.json) |
+| Marvel vs. Capcom: Infinite & Beyond | 305345 | [305345-marvel-vs-capcom-infinite-and-beyond.json](./305345-marvel-vs-capcom-infinite-and-beyond.json) |
 | Marvel: Avengers Alliance 2 | 59380 | [59380-marvel-avengers-alliance-2.json](./59380-marvel-avengers-alliance-2.json) |
 | Marvel: Ultimate Alliance | 197883 | [197883-marvel-ultimate-alliance.json](./197883-marvel-ultimate-alliance.json) |
 | Marvel: Ultimate Alliance | 4999 | [4999-marvel-ultimate-alliance.json](./4999-marvel-ultimate-alliance.json) |
@@ -3294,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
 | Miscrits: World of Creatures | 98466 | [98466-miscrits-world-of-creatures.json](./98466-miscrits-world-of-creatures.json) |
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
+| Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
 | Misfolded | 109579 | [109579-misfolded.json](./109579-misfolded.json) |
 | Misfortune | 323937 | [323937-misfortune.json](./323937-misfortune.json) |
 | Mishap: An Accidental Haunting | 16162 | [16162-mishap-an-accidental-haunting.json](./16162-mishap-an-accidental-haunting.json) |
@@ -3308,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss It! | 283707 | [283707-miss-it.json](./283707-miss-it.json) |
 | Miss Kawaii 2 | 222941 | [222941-miss-kawaii-2.json](./222941-miss-kawaii-2.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
+| Miss Moonlight | 305354 | [305354-miss-moonlight.json](./305354-miss-moonlight.json) |
 | Miss Neko | 127915 | [127915-miss-neko.json](./127915-miss-neko.json) |
 | Miss Peach | 264593 | [264593-miss-peach.json](./264593-miss-peach.json) |
 | Miss Perfect Miss Ending | 320753 | [320753-miss-perfect-miss-ending.json](./320753-miss-perfect-miss-ending.json) |
@@ -4358,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mothballs | 179701 | [179701-mothballs.json](./179701-mothballs.json) |
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
 | Mother 1+2 | 78585 | [78585-mother-1-2.json](./78585-mother-1-2.json) |
+| Mother 2: Perfect Edition | 305370 | [305370-mother-2-perfect-edition.json](./305370-mother-2-perfect-edition.json) |
 | Mother 3.5 | 310951 | [310951-mother-3-5.json](./310951-mother-3-5.json) |
 | Mother Christmas | 394818 | [394818-mother-christmas.json](./394818-mother-christmas.json) |
 | Mother Fucker Galaxy | 254523 | [254523-mother-fucker-galaxy.json](./254523-mother-fucker-galaxy.json) |
@@ -4733,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
 | Multiverse Idle | 390632 | [390632-multiverse-idle.json](./390632-multiverse-idle.json) |
 | MultiVersus: MVP Pack 2 | 316065 | [316065-multiversus-mvp-pack-2.json](./316065-multiversus-mvp-pack-2.json) |
+| Multiversus: Season 1 - Puns & Villainy | 305377 | [305377-multiversus-season-1-puns-and-villainy.json](./305377-multiversus-season-1-puns-and-villainy.json) |
 | MultiVersus: Season 4 | 330139 | [330139-multiversus-season-4.json](./330139-multiversus-season-4.json) |
 | MultiVersus: Season 5 | 330143 | [330143-multiversus-season-5.json](./330143-multiversus-season-5.json) |
 | Multiwinia: Survival of the Flattest | 21273 | [21273-multiwinia-survival-of-the-flattest.json](./21273-multiwinia-survival-of-the-flattest.json) |
@@ -4770,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder at Homecoming | 313871 | [313871-murder-at-homecoming.json](./313871-murder-at-homecoming.json) |
 | Murder at Masquerade Manor | 223682 | [223682-murder-at-masquerade-manor.json](./223682-murder-at-masquerade-manor.json) |
 | Murder Avenue | 292531 | [292531-murder-avenue.json](./292531-murder-avenue.json) |
+| Murder by Candlelight | 305369 | [305369-murder-by-candlelight.json](./305369-murder-by-candlelight.json) |
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
 | Murder by Numbers | 123902 | [123902-murder-by-numbers.json](./123902-murder-by-numbers.json) |
 | Murder Diaries | 153948 | [153948-murder-diaries.json](./153948-murder-diaries.json) |
