@@ -1558,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa Faction 2 | 57043 | [57043-hexa-faction-2.json](./57043-hexa-faction-2.json) |
 | Hexa Fusion 2048 | 364558 | [364558-hexa-fusion-2048.json](./364558-hexa-fusion-2048.json) |
 | Hexa Puzzle Saga | 248330 | [248330-hexa-puzzle-saga.json](./248330-hexa-puzzle-saga.json) |
+| Hexa River | 320374 | [320374-hexa-river.json](./320374-hexa-river.json) |
 | Hexa Road | 353958 | [353958-hexa-road.json](./353958-hexa-road.json) |
 | Hexa TD: Free Game | 340468 | [340468-hexa-td-free-game.json](./340468-hexa-td-free-game.json) |
 | Hexa's Gone | 393499 | [393499-hexas-gone.json](./393499-hexas-gone.json) |
