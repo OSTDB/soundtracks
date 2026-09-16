@@ -578,7 +578,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Ways of War | 325844 | [325844-age-of-wonders-4-ways-of-war.json](./325844-age-of-wonders-4-ways-of-war.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent Alice | 60490 | [60490-agent-alice.json](./60490-agent-alice.json) |
-| Agent B0rk | 27914 | [27914-agent-b0rk.json](./27914-agent-b0rk.json) |
 | Agent Bob | 357799 | [357799-agent-bob.json](./357799-agent-bob.json) |
 | Agent Brain: Tricky Puzzles | 293079 | [293079-agent-brain-tricky-puzzles.json](./293079-agent-brain-tricky-puzzles.json) |
 | Agent Dark | 409693 | [409693-agent-dark.json](./409693-agent-dark.json) |
