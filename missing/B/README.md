@@ -3813,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadbox | 321736 | [321736-breadbox.json](./321736-breadbox.json) |
 | Breadieval | 361683 | [361683-breadieval.json](./361683-breadieval.json) |
 | BreadKnight Adventures | 355568 | [355568-breadknight-adventures.json](./355568-breadknight-adventures.json) |
+| Break an Egg | 305336 | [305336-break-an-egg.json](./305336-break-an-egg.json) |
 | Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
@@ -4369,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper Brawlers | 373078 | [373078-bumper-brawlers.json](./373078-bumper-brawlers.json) |
 | Bumper Wars | 71534 | [71534-bumper-wars.json](./71534-bumper-wars.json) |
 | Bumps | 21265 | [21265-bumps.json](./21265-bumps.json) |
+| Bumpy Jumpy | 305374 | [305374-bumpy-jumpy.json](./305374-bumpy-jumpy.json) |
 | Bumpy's Arcade Fantasy | 11724 | [11724-bumpys-arcade-fantasy.json](./11724-bumpys-arcade-fantasy.json) |
 | Bun | 172123 | [172123-bun.json](./172123-bun.json) |
 | Bun 'N' Gun | 265671 | [265671-bun-n-gun.json](./265671-bun-n-gun.json) |
