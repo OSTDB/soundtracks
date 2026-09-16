@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Emily's Road Trip | 117545 | [117545-delicious-emilys-road-trip.json](./117545-delicious-emilys-road-trip.json) |
 | Delicious: Emily's Taste of Fame | 89222 | [89222-delicious-emilys-taste-of-fame.json](./89222-delicious-emilys-taste-of-fame.json) |
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
+| Delightful Adventure: Enhanced | 307728 | [307728-delightful-adventure-enhanced.json](./307728-delightful-adventure-enhanced.json) |
 | Delilah | 217340 | [217340-delilah.json](./217340-delilah.json) |
 | Delirious | 183546 | [183546-delirious.json](./183546-delirious.json) |
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
@@ -3022,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald no Magical World GG2SMS | 369596 | [369596-donald-no-magical-world-gg2sms.json](./369596-donald-no-magical-world-gg2sms.json) |
 | Donald Trump's Real Estate Tycoon | 25706 | [25706-donald-trumps-real-estate-tycoon.json](./25706-donald-trumps-real-estate-tycoon.json) |
 | Donald's Alphabet Chase | 57631 | [57631-donalds-alphabet-chase.json](./57631-donalds-alphabet-chase.json) |
+| Dondgynns Auv Ye Wyrdd | 307769 | [307769-dondgynns-auv-ye-wyrdd.json](./307769-dondgynns-auv-ye-wyrdd.json) |
 | Dong Wu: Odyssey | 269032 | [269032-dong-wu-odyssey.json](./269032-dong-wu-odyssey.json) |
 | Dōngfāng Jiànjī zài Xīfāng Lǚxíng de Gùshì | 157212 | [157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json](./157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json) |
 | Donkee's Adventure | 401638 | [401638-donkees-adventure.json](./401638-donkees-adventure.json) |
@@ -3065,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Land | 1091 | [1091-donkey-kong-land.json](./1091-donkey-kong-land.json) |
 | Donkey Kong Land III | 1095 | [1095-donkey-kong-land-iii.json](./1095-donkey-kong-land-iii.json) |
 | Donkey Kong Redux | 331437 | [331437-donkey-kong-redux.json](./331437-donkey-kong-redux.json) |
+| Donkey Kong vs. K. Rool Challenge | 307722 | [307722-donkey-kong-vs-k-rool-challenge.json](./307722-donkey-kong-vs-k-rool-challenge.json) |
 | Donkey Kong-e | 170011 | [170011-donkey-kong-e.json](./170011-donkey-kong-e.json) |
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
 | Donkey Konga Beat | 231646 | [231646-donkey-konga-beat.json](./231646-donkey-konga-beat.json) |
@@ -3535,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Sparking! Zero - Season Pass Bonus | 375181 | [375181-dragon-ball-sparking-zero-season-pass-bonus.json](./375181-dragon-ball-sparking-zero-season-pass-bonus.json) |
 | Dragon Ball: Sparking! Zero - Super Limit-Breaking NEO | 375182 | [375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json](./375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json) |
 | Dragon Ball: Strongest Warrior | 174895 | [174895-dragon-ball-strongest-warrior.json](./174895-dragon-ball-strongest-warrior.json) |
+| Dragon Ball: The Breakers - Season 6 | 307756 | [307756-dragon-ball-the-breakers-season-6.json](./307756-dragon-ball-the-breakers-season-6.json) |
 | Dragon Ball: Xenoverse - Day One Edition | 363936 | [363936-dragon-ball-xenoverse-day-one-edition.json](./363936-dragon-ball-xenoverse-day-one-edition.json) |
 | Dragon Ball: Xenoverse 2 - Extra Pass | 117657 | [117657-dragon-ball-xenoverse-2-extra-pass.json](./117657-dragon-ball-xenoverse-2-extra-pass.json) |
 | Dragon Ball: Xenoverse 2 - Super Edition | 200692 | [200692-dragon-ball-xenoverse-2-super-edition.json](./200692-dragon-ball-xenoverse-2-super-edition.json) |
