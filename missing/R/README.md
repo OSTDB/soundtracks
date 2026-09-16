@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
 | Relentless | 129699 | [129699-relentless.json](./129699-relentless.json) |
+| Relentless Expanse | 322762 | [322762-relentless-expanse.json](./322762-relentless-expanse.json) |
 | Relentless Rex | 110277 | [110277-relentless-rex.json](./110277-relentless-rex.json) |
 | Relevo's Snowboarding | 311986 | [311986-relevos-snowboarding.json](./311986-relevos-snowboarding.json) |
 | Relgiros | 274492 | [274492-relgiros.json](./274492-relgiros.json) |
@@ -1291,6 +1292,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replica: Atomic Punk | 61045 | [61045-replica-atomic-punk.json](./61045-replica-atomic-punk.json) |
 | Replicart | 41390 | [41390-replicart.json](./41390-replicart.json) |
 | Replics | 129765 | [129765-replics.json](./129765-replics.json) |
+| Report One | 322808 | [322808-report-one.json](./322808-report-one.json) |
+| Report One: Operation Alive | 322809 | [322809-report-one-operation-alive.json](./322809-report-one-operation-alive.json) |
 | Reporter | 105975 | [105975-reporter.json](./105975-reporter.json) |
 | Repose | 272831 | [272831-repose.json](./272831-repose.json) |
 | Reprisal Universe | 8871 | [8871-reprisal-universe.json](./8871-reprisal-universe.json) |
@@ -2792,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotorsim: Helicopter Simulator | 348878 | [348878-rotorsim-helicopter-simulator.json](./348878-rotorsim-helicopter-simulator.json) |
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
+| Rottenroots | 322766 | [322766-rottenroots.json](./322766-rottenroots.json) |
 | Rotting Crescendo | 136441 | [136441-rotting-crescendo.json](./136441-rotting-crescendo.json) |
 | Rotting Grief | 415068 | [415068-rotting-grief.json](./415068-rotting-grief.json) |
 | Rotund Rebound | 117060 | [117060-rotund-rebound.json](./117060-rotund-rebound.json) |
