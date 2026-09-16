@@ -1458,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 3D Gamemaker | 270689 | [270689-the-3d-gamemaker.json](./270689-the-3d-gamemaker.json) |
 | The 3D Machine | 196817 | [196817-the-3d-machine.json](./196817-the-3d-machine.json) |
 | The 3rd Birthday | 7359 | [7359-the-3rd-birthday.json](./7359-the-3rd-birthday.json) |
+| The 4 Sins | 286656 | [286656-the-4-sins.json](./286656-the-4-sins.json) |
 | The 4th Unit | 78724 | [78724-the-4th-unit.json](./78724-the-4th-unit.json) |
 | The 4th Unit 2 | 78725 | [78725-the-4th-unit-2.json](./78725-the-4th-unit-2.json) |
 | The 4th Unit 3 - Dual Targets | 78726 | [78726-the-4th-unit-3-dual-targets.json](./78726-the-4th-unit-3-dual-targets.json) |
@@ -1870,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Burned Ground | 115701 | [115701-the-burned-ground.json](./115701-the-burned-ground.json) |
 | The Burnt School | 147978 | [147978-the-burnt-school.json](./147978-the-burnt-school.json) |
 | The Bus: Hamburg City | 371245 | [371245-the-bus-hamburg-city.json](./371245-the-bus-hamburg-city.json) |
+| The Bustling World | 286659 | [286659-the-bustling-world.json](./286659-the-bustling-world.json) |
 | The Butcher | 203534 | [203534-the-butcher.json](./203534-the-butcher.json) |
 | The Butterfly Dreams | 319021 | [319021-the-butterfly-dreams.json](./319021-the-butterfly-dreams.json) |
 | The Button Be | 213629 | [213629-the-button-be.json](./213629-the-button-be.json) |
@@ -6456,6 +6458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
 | Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
 | Together | 82054 | [82054-together.json](./82054-together.json) |
+| Together After Dark | 286654 | [286654-together-after-dark.json](./286654-together-after-dark.json) |
 | Together Bnb | 146310 | [146310-together-bnb.json](./146310-together-bnb.json) |
 | Together Tree: Romance 911 | 244494 | [244494-together-tree-romance-911.json](./244494-together-tree-romance-911.json) |
 | Together VR | 90151 | [90151-together-vr.json](./90151-together-vr.json) |
