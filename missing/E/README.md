@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronics Puzzle Lab 2 | 362342 | [362342-electronics-puzzle-lab-2.json](./362342-electronics-puzzle-lab-2.json) |
 | Elegant Sleuth: Mystic Family | 349311 | [349311-elegant-sleuth-mystic-family.json](./349311-elegant-sleuth-mystic-family.json) |
 | Elegy for Them Vigil | 315490 | [315490-elegy-for-them-vigil.json](./315490-elegy-for-them-vigil.json) |
+| Elegy of Fate | 305375 | [305375-elegy-of-fate.json](./305375-elegy-of-fate.json) |
 | ElektraGlide | 13632 | [13632-elektraglide.json](./13632-elektraglide.json) |
 | Elemates | 207525 | [207525-elemates.json](./207525-elemates.json) |
 | Elemencraft | 194012 | [194012-elemencraft.json](./194012-elemencraft.json) |
