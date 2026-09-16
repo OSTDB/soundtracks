@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Remember Me | 36356 | [36356-always-remember-me.json](./36356-always-remember-me.json) |
 | Always Sunset | 413736 | [413736-always-sunset.json](./413736-always-sunset.json) |
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
+| Am I Live | 333075 | [333075-am-i-live.json](./333075-am-i-live.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
 | Amaekata wa Kanojo Nari ni | 55880 | [55880-amaekata-wa-kanojo-nari-ni.json](./55880-amaekata-wa-kanojo-nari-ni.json) |
@@ -3866,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Girl | 149556 | [149556-axe-girl.json](./149556-axe-girl.json) |
 | Axe Over It | 144296 | [144296-axe-over-it.json](./144296-axe-over-it.json) |
 | Axe Prime | 115046 | [115046-axe-prime.json](./115046-axe-prime.json) |
+| Axe Slasher | 333065 | [333065-axe-slasher.json](./333065-axe-slasher.json) |
 | Axe Throw VR | 107850 | [107850-axe-throw-vr.json](./107850-axe-throw-vr.json) |
 | Axegend | 131596 | [131596-axegend.json](./131596-axegend.json) |
 | Axel City | 124767 | [124767-axel-city.json](./124767-axel-city.json) |
