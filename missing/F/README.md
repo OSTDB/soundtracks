@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find with Seoul: Story Puzzle | 253385 | [253385-find-with-seoul-story-puzzle.json](./253385-find-with-seoul-story-puzzle.json) |
 | Find X | 310038 | [310038-find-x.json](./310038-find-x.json) |
 | Find Yer Treasure! | 176454 | [176454-find-yer-treasure.json](./176454-find-yer-treasure.json) |
+| Find Your IF | 305349 | [305349-find-your-if.json](./305349-find-your-if.json) |
 | Finders Reapers | 124210 | [124210-finders-reapers.json](./124210-finders-reapers.json) |
 | Finders, Keepers | 139457 | [139457-finders-keepers.json](./139457-finders-keepers.json) |
 | Finding Alex | 344379 | [344379-finding-alex.json](./344379-finding-alex.json) |
@@ -1767,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights on the Toilet: Number 2 | 267388 | [267388-five-nights-on-the-toilet-number-2.json](./267388-five-nights-on-the-toilet-number-2.json) |
 | Five Nights with Floppa: R | 370213 | [370213-five-nights-with-floppa-r.json](./370213-five-nights-with-floppa-r.json) |
 | Five Nights With James | 212249 | [212249-five-nights-with-james.json](./212249-five-nights-with-james.json) |
+| Five Nights with Mac Tonight 2 | 305326 | [305326-five-nights-with-mac-tonight-2.json](./305326-five-nights-with-mac-tonight-2.json) |
 | Five Owls | 343867 | [343867-five-owls.json](./343867-five-owls.json) |
 | Five Seconds of Bad Music | 109619 | [109619-five-seconds-of-bad-music.json](./109619-five-seconds-of-bad-music.json) |
 | Five Star Games | 100129 | [100129-five-star-games.json](./100129-five-star-games.json) |
@@ -1969,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fling! | 264361 | [264361-fling.json](./264361-fling.json) |
 | Flint | 368493 | [368493-flint.json](./368493-flint.json) |
 | Flint: Treasure of Oblivion | 295635 | [295635-flint-treasure-of-oblivion.json](./295635-flint-treasure-of-oblivion.json) |
+| Flintlock: The Siege of Dawn - Deluxe Edition | 305332 | [305332-flintlock-the-siege-of-dawn-deluxe-edition.json](./305332-flintlock-the-siege-of-dawn-deluxe-edition.json) |
 | Flintstones & Jetsons: Timewarp | 46610 | [46610-flintstones-and-jetsons-timewarp.json](./46610-flintstones-and-jetsons-timewarp.json) |
 | Flintstones' Bedrock Boblseddin' Blowout | 196839 | [196839-flintstones-bedrock-boblseddin-blowout.json](./196839-flintstones-bedrock-boblseddin-blowout.json) |
 | Flip | 381025 | [381025-flip.json](./381025-flip.json) |
@@ -2756,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Robot Attack Minigame | 371303 | [371303-fps-robot-attack-minigame.json](./371303-fps-robot-attack-minigame.json) |
 | FPS Shooting Master | 102748 | [102748-fps-shooting-master.json](./102748-fps-shooting-master.json) |
 | FPS Trainer | 94177 | [94177-fps-trainer.json](./94177-fps-trainer.json) |
+| FPS80 | 305340 | [305340-fps80.json](./305340-fps80.json) |
 | FPV Air 2: Bando Freestyler | 172099 | [172099-fpv-air-2-bando-freestyler.json](./172099-fpv-air-2-bando-freestyler.json) |
 | FPV Battleground | 340243 | [340243-fpv-battleground.json](./340243-fpv-battleground.json) |
 | FPV Kamikaze Drone | 280172 | [280172-fpv-kamikaze-drone.json](./280172-fpv-kamikaze-drone.json) |
@@ -3312,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Chess: Platinum Edition | 283146 | [283146-fun-chess-platinum-edition.json](./283146-fun-chess-platinum-edition.json) |
 | Fun Feud Trivia | 208974 | [208974-fun-feud-trivia.json](./208974-fun-feud-trivia.json) |
 | Fun Fox’s Biscuit Bash | 397089 | [397089-fun-fox-s-biscuit-bash.json](./397089-fun-fox-s-biscuit-bash.json) |
+| Fun Fruit Merge | 305388 | [305388-fun-fruit-merge.json](./305388-fun-fruit-merge.json) |
 | Fun Infused Arcade | 260178 | [260178-fun-infused-arcade.json](./260178-fun-infused-arcade.json) |
 | Fun Pack | 319790 | [319790-fun-pack.json](./319790-fun-pack.json) |
 | Fun Park Simulator | 394165 | [394165-fun-park-simulator.json](./394165-fun-park-simulator.json) |
@@ -3364,6 +3369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Fingers | 99589 | [99589-funny-fingers.json](./99589-funny-fingers.json) |
 | Funny Panda | 189116 | [189116-funny-panda.json](./189116-funny-panda.json) |
 | Funny Pizza Land | 123615 | [123615-funny-pizza-land.json](./123615-funny-pizza-land.json) |
+| Funny Racer | 305350 | [305350-funny-racer.json](./305350-funny-racer.json) |
 | FunnyJoy: Brain on Line | 95999 | [95999-funnyjoy-brain-on-line.json](./95999-funnyjoy-brain-on-line.json) |
 | Funorbit | 415857 | [415857-funorbit.json](./415857-funorbit.json) |
 | FunPack: Mums | 177052 | [177052-funpack-mums.json](./177052-funpack-mums.json) |
