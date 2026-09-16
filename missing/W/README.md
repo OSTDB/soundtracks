@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word to your Sensei | 200123 | [200123-word-to-your-sensei.json](./200123-word-to-your-sensei.json) |
 | Word Tower Puzzle | 330728 | [330728-word-tower-puzzle.json](./330728-word-tower-puzzle.json) |
 | Word Town: New Crossword Games | 101541 | [101541-word-town-new-crossword-games.json](./101541-word-town-new-crossword-games.json) |
+| Word Trails | 305339 | [305339-word-trails.json](./305339-word-trails.json) |
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
 | Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
 | Word Warp | 377139 | [377139-word-warp.json](./377139-word-warp.json) |
