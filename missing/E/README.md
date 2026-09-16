@@ -1044,6 +1044,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enkate | 297090 | [297090-enkate.json](./297090-enkate.json) |
 | Enlightened Sentinel | 155667 | [155667-enlightened-sentinel.json](./155667-enlightened-sentinel.json) |
 | Enlightenment | 43155 | [43155-enlightenment.json](./43155-enlightenment.json) |
+| Enlisted: Calliope Squad | 293769 | [293769-enlisted-calliope-squad.json](./293769-enlisted-calliope-squad.json) |
+| Enlisted: Fedorov MG Squad | 293772 | [293772-enlisted-fedorov-mg-squad.json](./293772-enlisted-fedorov-mg-squad.json) |
+| Enlisted: M3A1 Squad | 293771 | [293771-enlisted-m3a1-squad.json](./293771-enlisted-m3a1-squad.json) |
+| Enlisted: Nambu Type 1 Squad | 293767 | [293767-enlisted-nambu-type-1-squad.json](./293767-enlisted-nambu-type-1-squad.json) |
+| Enlisted: Sherman IC "Firefly" Squad | 293770 | [293770-enlisted-sherman-ic-firefly-squad.json](./293770-enlisted-sherman-ic-firefly-squad.json) |
 | Ennuigi | 175880 | [175880-ennuigi.json](./175880-ennuigi.json) |
 | Ennuigi: A Time for Monsters | 396200 | [396200-ennuigi-a-time-for-monsters.json](./396200-ennuigi-a-time-for-monsters.json) |
 | Enoah's Quest | 303516 | [303516-enoahs-quest.json](./303516-enoahs-quest.json) |
