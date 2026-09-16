@@ -2644,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
 | Silent Hill 2: Special 2 Disc Set | 43277 | [43277-silent-hill-2-special-2-disc-set.json](./43277-silent-hill-2-special-2-disc-set.json) |
 | Silent Hill 3 | 222486 | [222486-silent-hill-3.json](./222486-silent-hill-3.json) |
+| Silent Hill 64 | 310573 | [310573-silent-hill-64.json](./310573-silent-hill-64.json) |
 | Silent Hill Complete Set | 144966 | [144966-silent-hill-complete-set.json](./144966-silent-hill-complete-set.json) |
 | Silent Hill f | 222343 | [222343-silent-hill-f.json](./222343-silent-hill-f.json) |
 | Silent Hill f: Day One Edition | 370229 | [370229-silent-hill-f-day-one-edition.json](./370229-silent-hill-f-day-one-edition.json) |
@@ -3601,6 +3602,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
+| Small Town Detective | 310585 | [310585-small-town-detective.json](./310585-small-town-detective.json) |
+| Small Town Detective in Where are Ray And Cooper | 310586 | [310586-small-town-detective-in-where-are-ray-and-cooper.json](./310586-small-town-detective-in-where-are-ray-and-cooper.json) |
 | Small Town Terrors: Galdor's Bluff | 79248 | [79248-small-town-terrors-galdors-bluff.json](./79248-small-town-terrors-galdors-bluff.json) |
 | Small Town Terrors: Pilgrim's Hook | 79249 | [79249-small-town-terrors-pilgrims-hook.json](./79249-small-town-terrors-pilgrims-hook.json) |
 | Small Town Terrors: Pilgrim's Hook - Collector's Edition | 36314 | [36314-small-town-terrors-pilgrims-hook-collectors-edition.json](./36314-small-town-terrors-pilgrims-hook-collectors-edition.json) |
@@ -4134,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Hemochroma | 138153 | [138153-sol-hemochroma.json](./138153-sol-hemochroma.json) |
 | Sol Protocol | 380566 | [380566-sol-protocol.json](./380566-sol-protocol.json) |
 | Sol Raiders | 188554 | [188554-sol-raiders.json](./188554-sol-raiders.json) |
+| Sol Sestancia | 310592 | [310592-sol-sestancia.json](./310592-sol-sestancia.json) |
 | Sol Source Online | 26718 | [26718-sol-source-online.json](./26718-sol-source-online.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
 | Sol: Enchant | 377703 | [377703-sol-enchant.json](./377703-sol-enchant.json) |
@@ -4917,6 +4921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soup | 188612 | [188612-soup.json](./188612-soup.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
 | Souper Bloody | 397651 | [397651-souper-bloody.json](./397651-souper-bloody.json) |
+| Soups Christmas | 310606 | [310606-soups-christmas.json](./310606-soups-christmas.json) |
 | Soupsoup | 265948 | [265948-soupsoup.json](./265948-soupsoup.json) |
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
