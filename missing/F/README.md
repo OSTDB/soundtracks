@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find It - Tap the Different | 55102 | [55102-find-it-tap-the-different.json](./55102-find-it-tap-the-different.json) |
+| Find it! Festival in the Hotel | 311629 | [311629-find-it-festival-in-the-hotel.json](./311629-find-it-festival-in-the-hotel.json) |
 | Find Kittens 4: Aetherpunk | 358948 | [358948-find-kittens-4-aetherpunk.json](./358948-find-kittens-4-aetherpunk.json) |
 | Find Kittens 7: Cookie Town | 379970 | [379970-find-kittens-7-cookie-town.json](./379970-find-kittens-7-cookie-town.json) |
 | Find Kittens 8: Happy New Year | 379381 | [379381-find-kittens-8-happy-new-year.json](./379381-find-kittens-8-happy-new-year.json) |
@@ -1558,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish | 314298 | [314298-fish.json](./314298-fish.json) |
 | Fish | 382202 | [382202-fish.json](./382202-fish.json) |
 | Fish Catcher | 105374 | [105374-fish-catcher.json](./105374-fish-catcher.json) |
+| Fish Chips and Bombs | 311637 | [311637-fish-chips-and-bombs.json](./311637-fish-chips-and-bombs.json) |
 | Fish Duel | 109686 | [109686-fish-duel.json](./109686-fish-duel.json) |
 | Fish Eyes | 383959 | [383959-fish-eyes.json](./383959-fish-eyes.json) |
 | Fish Face | 353895 | [353895-fish-face.json](./353895-fish-face.json) |
