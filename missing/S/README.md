@@ -2852,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Solitaire | 264616 | [264616-simple-solitaire.json](./264616-simple-solitaire.json) |
 | Simple Story: Alex - Two Guys | 172132 | [172132-simple-story-alex-two-guys.json](./172132-simple-story-alex-two-guys.json) |
 | Simple Tower Defense | 259287 | [259287-simple-tower-defense.json](./259287-simple-tower-defense.json) |
+| SimplePlanes 2 | 304696 | [304696-simpleplanes-2.json](./304696-simpleplanes-2.json) |
 | Simpler Times | 308240 | [308240-simpler-times.json](./308240-simpler-times.json) |
 | Simpli Casa | 381707 | [381707-simpli-casa.json](./381707-simpli-casa.json) |
 | Simply Chess | 17604 | [17604-simply-chess.json](./17604-simply-chess.json) |
@@ -3231,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skycity | 274216 | [274216-skycity.json](./274216-skycity.json) |
 | Skycliffs | 190727 | [190727-skycliffs.json](./190727-skycliffs.json) |
 | Skyclimbers | 135823 | [135823-skyclimbers.json](./135823-skyclimbers.json) |
+| SkyCop | 304659 | [304659-skycop.json](./304659-skycop.json) |
 | Skydance's Behemoth: Rites of Wrath | 347154 | [347154-skydances-behemoth-rites-of-wrath.json](./347154-skydances-behemoth-rites-of-wrath.json) |
 | SkyDive Racer | 233756 | [233756-skydive-racer.json](./233756-skydive-racer.json) |
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
@@ -4952,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souper Bloody | 397651 | [397651-souper-bloody.json](./397651-souper-bloody.json) |
 | Soups Christmas | 310606 | [310606-soups-christmas.json](./310606-soups-christmas.json) |
 | Soupsoup | 265948 | [265948-soupsoup.json](./265948-soupsoup.json) |
+| Souptown Matty | 304709 | [304709-souptown-matty.json](./304709-souptown-matty.json) |
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
@@ -5828,12 +5831,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky's Jump Scare Mansion: The Doll House | 140550 | [140550-spookys-jump-scare-mansion-the-doll-house.json](./140550-spookys-jump-scare-mansion-the-doll-house.json) |
 | Spoons Card Game | 102740 | [102740-spoons-card-game.json](./102740-spoons-card-game.json) |
 | Spoons III | 70369 | [70369-spoons-iii.json](./70369-spoons-iii.json) |
+| Spoop Troop | 304697 | [304697-spoop-troop.json](./304697-spoop-troop.json) |
 | Spooples | 249806 | [249806-spooples.json](./249806-spooples.json) |
 | Spoopy Maryo | 318040 | [318040-spoopy-maryo.json](./318040-spoopy-maryo.json) |
 | Sporcle | 86844 | [86844-sporcle.json](./86844-sporcle.json) |
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
 | Spore Collection | 51900 | [51900-spore-collection.json](./51900-spore-collection.json) |
 | Spore: Galactic Edition | 46617 | [46617-spore-galactic-edition.json](./46617-spore-galactic-edition.json) |
+| SporeBloom | 304716 | [304716-sporebloom.json](./304716-sporebloom.json) |
 | Sport & Fun: Swimming - Amazing Edition | 283165 | [283165-sport-and-fun-swimming-amazing-edition.json](./283165-sport-and-fun-swimming-amazing-edition.json) |
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
 | Sport & Fun: Swimming - Ultimate Edition | 243370 | [243370-sport-and-fun-swimming-ultimate-edition.json](./243370-sport-and-fun-swimming-ultimate-edition.json) |
@@ -8042,6 +8047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hero Demolition | 251595 | [251595-super-hero-demolition.json](./251595-super-hero-demolition.json) |
 | Super Hero Fight Club: Reloaded | 112984 | [112984-super-hero-fight-club-reloaded.json](./112984-super-hero-fight-club-reloaded.json) |
 | Super Hero Generation | 80615 | [80615-super-hero-generation.json](./80615-super-hero-generation.json) |
+| Super Hero I.T. Software | 304658 | [304658-super-hero-i-t-software.json](./304658-super-hero-i-t-software.json) |
 | Super Hero VR | 99637 | [99637-super-hero-vr.json](./99637-super-hero-vr.json) |
 | Super Heroine Chronicle | 63311 | [63311-super-heroine-chronicle.json](./63311-super-heroine-chronicle.json) |
 | Super High Ball: Pinball Platformer | 133372 | [133372-super-high-ball-pinball-platformer.json](./133372-super-high-ball-pinball-platformer.json) |
@@ -8120,6 +8126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Paris | 212239 | [212239-super-jigsaw-puzzle-generations-paris.json](./212239-super-jigsaw-puzzle-generations-paris.json) |
 | Super Jigsaw Puzzle: Generations - Portugal | 266808 | [266808-super-jigsaw-puzzle-generations-portugal.json](./266808-super-jigsaw-puzzle-generations-portugal.json) |
 | Super Jigsaw Puzzle: Generations - Puppies Puzzles | 155633 | [155633-super-jigsaw-puzzle-generations-puppies-puzzles.json](./155633-super-jigsaw-puzzle-generations-puppies-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Random Animals 4 | 304664 | [304664-super-jigsaw-puzzle-generations-random-animals-4.json](./304664-super-jigsaw-puzzle-generations-random-animals-4.json) |
 | Super Jigsaw Puzzle: Generations - Random Animals Puzzles | 155604 | [155604-super-jigsaw-puzzle-generations-random-animals-puzzles.json](./155604-super-jigsaw-puzzle-generations-random-animals-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Random Puzzles 2 | 155636 | [155636-super-jigsaw-puzzle-generations-random-puzzles-2.json](./155636-super-jigsaw-puzzle-generations-random-puzzles-2.json) |
 | Super Jigsaw Puzzle: Generations - Random Puzzles 3 | 155645 | [155645-super-jigsaw-puzzle-generations-random-puzzles-3.json](./155645-super-jigsaw-puzzle-generations-random-puzzles-3.json) |
