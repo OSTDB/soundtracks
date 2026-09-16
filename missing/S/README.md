@@ -1278,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seibu Keisatsu | 346045 | [346045-seibu-keisatsu.json](./346045-seibu-keisatsu.json) |
 | Seibu Keisatsu Part-III | 346046 | [346046-seibu-keisatsu-part-iii.json](./346046-seibu-keisatsu-part-iii.json) |
 | Seifuku Densetsu Pretty Fighter X | 64982 | [64982-seifuku-densetsu-pretty-fighter-x.json](./64982-seifuku-densetsu-pretty-fighter-x.json) |
+| Seifuku Kanojo 2 | 332551 | [332551-seifuku-kanojo-2.json](./332551-seifuku-kanojo-2.json) |
 | Seigi no Torishirabe | 240230 | [240230-seigi-no-torishirabe.json](./240230-seigi-no-torishirabe.json) |
 | Seijundrop | 252176 | [252176-seijundrop.json](./252176-seijundrop.json) |
 | Seiki: Ryoujoku no Kamen | 66052 | [66052-seiki-ryoujoku-no-kamen.json](./66052-seiki-ryoujoku-no-kamen.json) |
@@ -1753,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
 | Shadows Behind the Throne 2 | 158178 | [158178-shadows-behind-the-throne-2.json](./158178-shadows-behind-the-throne-2.json) |
 | Shadows Beneath the Badge: An Undercover Affair | 337705 | [337705-shadows-beneath-the-badge-an-undercover-affair.json](./337705-shadows-beneath-the-badge-an-undercover-affair.json) |
+| Shadows Fall | 332547 | [332547-shadows-fall.json](./332547-shadows-fall.json) |
 | Shadows in the Dark | 217335 | [217335-shadows-in-the-dark.json](./217335-shadows-in-the-dark.json) |
 | Shadows in the Silence | 374081 | [374081-shadows-in-the-silence.json](./374081-shadows-in-the-silence.json) |
 | Shadows of a Sunless World | 183063 | [183063-shadows-of-a-sunless-world.json](./183063-shadows-of-a-sunless-world.json) |
@@ -4117,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solidarność | 318229 | [318229-solidarnosc.json](./318229-solidarnosc.json) |
 | Solidus | 100745 | [100745-solidus.json](./100745-solidus.json) |
 | Solipsistic | 409582 | [409582-solipsistic.json](./409582-solipsistic.json) |
+| Solir | 332529 | [332529-solir.json](./332529-solir.json) |
 | Solitaire | 243701 | [243701-solitaire.json](./243701-solitaire.json) |
 | Solitaire | 246627 | [246627-solitaire.json](./246627-solitaire.json) |
 | Solitaire | 80744 | [80744-solitaire.json](./80744-solitaire.json) |
@@ -4348,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Dreams Collection | 11656 | [11656-sonic-dreams-collection.json](./11656-sonic-dreams-collection.json) |
 | Sonic Drift | 45798 | [45798-sonic-drift.json](./45798-sonic-drift.json) |
 | Sonic Elementals | 333959 | [333959-sonic-elementals.json](./333959-sonic-elementals.json) |
+| Sonic Epsilon | 332553 | [332553-sonic-epsilon.json](./332553-sonic-epsilon.json) |
 | Sonic ERaZor | 198564 | [198564-sonic-erazor.json](./198564-sonic-erazor.json) |
 | Sonic Escape | 370218 | [370218-sonic-escape.json](./370218-sonic-escape.json) |
 | Sonic Essence | 337174 | [337174-sonic-essence.json](./337174-sonic-essence.json) |
@@ -4498,6 +4502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Interactive Watch | 238200 | [238200-sonic-the-hedgehog-interactive-watch.json](./238200-sonic-the-hedgehog-interactive-watch.json) |
 | Sonic the Hedgehog Legacy Bundle | 339849 | [339849-sonic-the-hedgehog-legacy-bundle.json](./339849-sonic-the-hedgehog-legacy-bundle.json) |
 | Sonic the Hedgehog Megamix | 43320 | [43320-sonic-the-hedgehog-megamix.json](./43320-sonic-the-hedgehog-megamix.json) |
+| Sonic the Hedgehog PC | 332557 | [332557-sonic-the-hedgehog-pc.json](./332557-sonic-the-hedgehog-pc.json) |
 | Sonic the Hedgehog Revitalized | 326955 | [326955-sonic-the-hedgehog-revitalized.json](./326955-sonic-the-hedgehog-revitalized.json) |
 | Sonic the Hedgehog RPG: Entropy | 317585 | [317585-sonic-the-hedgehog-rpg-entropy.json](./317585-sonic-the-hedgehog-rpg-entropy.json) |
 | Sonic the Hedgehog RPG: In The Belly of The Beast | 317586 | [317586-sonic-the-hedgehog-rpg-in-the-belly-of-the-beast.json](./317586-sonic-the-hedgehog-rpg-in-the-belly-of-the-beast.json) |
@@ -5718,6 +5723,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout Crafter | 329587 | [329587-sprout-crafter.json](./329587-sprout-crafter.json) |
 | Sprout Lands | 193481 | [193481-sprout-lands.json](./193481-sprout-lands.json) |
 | Sprout Valley Big Pack | 328993 | [328993-sprout-valley-big-pack.json](./328993-sprout-valley-big-pack.json) |
+| Sprout Valley: Friends Forever | 332505 | [332505-sprout-valley-friends-forever.json](./332505-sprout-valley-friends-forever.json) |
+| Sprout Valley: Friends Forever Expansion | 332526 | [332526-sprout-valley-friends-forever-expansion.json](./332526-sprout-valley-friends-forever-expansion.json) |
 | Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
 | Sprucerio | 257408 | [257408-sprucerio.json](./257408-sprucerio.json) |
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
