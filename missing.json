@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T09:34:03.983Z",
-  "total_missing": 77425,
+  "generated_at": "2026-09-16T09:41:38.000Z",
+  "total_missing": 77424,
   "games": [
     {
       "igdb_id": 306086,
@@ -5936,11 +5936,6 @@
       "igdb_id": 50492,
       "game_name": "Agricultural Simulator 2013",
       "file": "missing/A/50492-agricultural-simulator-2013.json"
-    },
-    {
-      "igdb_id": 9954,
-      "game_name": "Agricultural Simulator: Historical Farming",
-      "file": "missing/A/9954-agricultural-simulator-historical-farming.json"
     },
     {
       "igdb_id": 252389,
