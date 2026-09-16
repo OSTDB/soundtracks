@@ -153,7 +153,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallenda | 111627 | [111627-wallenda.json](./111627-wallenda.json) |
 | Wallrun Dot Love | 185068 | [185068-wallrun-dot-love.json](./185068-wallrun-dot-love.json) |
 | Walls | 275006 | [275006-walls.json](./275006-walls.json) |
+| Walls of Rust | 287201 | [287201-walls-of-rust.json](./287201-walls-of-rust.json) |
 | WallSmashers | 334168 | [334168-wallsmashers.json](./334168-wallsmashers.json) |
+| WallWar | 287200 | [287200-wallwar.json](./287200-wallwar.json) |
 | Wally wo Sagase! Ehon no Kuni no Daibouken! | 37769 | [37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json](./37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json) |
 | Walpurgis Night: Unmyeong-ui Gil 2 | 145620 | [145620-walpurgis-night-unmyeong-ui-gil-2.json](./145620-walpurgis-night-unmyeong-ui-gil-2.json) |
 | Walpurgis Quintet | 205253 | [205253-walpurgis-quintet.json](./205253-walpurgis-quintet.json) |
@@ -1263,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why Do Boys Play Games? | 346579 | [346579-why-do-boys-play-games.json](./346579-why-do-boys-play-games.json) |
 | Why Does the Sea Cry So Much | 362887 | [362887-why-does-the-sea-cry-so-much.json](./362887-why-does-the-sea-cry-so-much.json) |
 | Why Don't They Laugh? | 312558 | [312558-why-dont-they-laugh.json](./312558-why-dont-they-laugh.json) |
+| Why God? | 287207 | [287207-why-god.json](./287207-why-god.json) |
 | Why Me | 377147 | [377147-why-me.json](./377147-why-me.json) |
 | Why So Evil | 9368 | [9368-why-so-evil.json](./9368-why-so-evil.json) |
 | Why So Evil 2: Dystopia | 35629 | [35629-why-so-evil-2-dystopia.json](./35629-why-so-evil-2-dystopia.json) |
