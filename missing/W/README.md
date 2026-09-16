@@ -2168,7 +2168,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Largest Pac-Man | 175992 | [175992-worlds-largest-pac-man.json](./175992-worlds-largest-pac-man.json) |
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
+| WorldNeverland: Elnea Kingdom - Ancestral Garb Set: Berry | 316264 | [316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json](./316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json) |
 | WorldNeverland: Elnea Kingdom - Fluffy Brown-Rabbit Suit | 324496 | [324496-worldneverland-elnea-kingdom-fluffy-brown-rabbit-suit.json](./324496-worldneverland-elnea-kingdom-fluffy-brown-rabbit-suit.json) |
+| WorldNeverland: Elnea Kingdom - Fluffy Panda Suit | 316265 | [316265-worldneverland-elnea-kingdom-fluffy-panda-suit.json](./316265-worldneverland-elnea-kingdom-fluffy-panda-suit.json) |
 | WorldNeverland: White Modern Wedding Outfit Set | 298593 | [298593-worldneverland-white-modern-wedding-outfit-set.json](./298593-worldneverland-white-modern-wedding-outfit-set.json) |
 | WorldQuest | 101609 | [101609-worldquest.json](./101609-worldquest.json) |
 | Worlds | 381007 | [381007-worlds.json](./381007-worlds.json) |
