@@ -1891,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
 | The Chaste Full-Metal Maiden - Leiria | 124262 | [124262-the-chaste-full-metal-maiden-leiria.json](./124262-the-chaste-full-metal-maiden-leiria.json) |
+| The Cheese Chase: Pizza Madness | 319772 | [319772-the-cheese-chase-pizza-madness.json](./319772-the-cheese-chase-pizza-madness.json) |
 | The Cheetah Girls | 49367 | [49367-the-cheetah-girls.json](./49367-the-cheetah-girls.json) |
 | The Chess | 351729 | [351729-the-chess.json](./351729-the-chess.json) |
 | The Chewllers | 151686 | [151686-the-chewllers.json](./151686-the-chewllers.json) |
@@ -2372,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escape Room Chronicles ep1: The Mysterious KumaDonald's | 324119 | [324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json](./324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json) |
 | The Escape Room Chronicles ep2: The Old School Building | 324120 | [324120-the-escape-room-chronicles-ep2-the-old-school-building.json](./324120-the-escape-room-chronicles-ep2-the-old-school-building.json) |
 | The Escape Room Chronicles ep3: The Southern Resort | 324121 | [324121-the-escape-room-chronicles-ep3-the-southern-resort.json](./324121-the-escape-room-chronicles-ep3-the-southern-resort.json) |
+| The Escapee | 319768 | [319768-the-escapee.json](./319768-the-escapee.json) |
 | The Escapist | 10794 | [10794-the-escapist.json](./10794-the-escapist.json) |
 | The Escapists + The Escapists 2 | 138193 | [138193-the-escapists-the-escapists-2.json](./138193-the-escapists-the-escapists-2.json) |
 | The Escapists: Duct Tapes Are Forever | 51927 | [51927-the-escapists-duct-tapes-are-forever.json](./51927-the-escapists-duct-tapes-are-forever.json) |
@@ -2737,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hardest Quiz - Impossible | 96054 | [96054-the-hardest-quiz-impossible.json](./96054-the-hardest-quiz-impossible.json) |
 | The Hardy Boys: Treasure on the Tracks | 21105 | [21105-the-hardy-boys-treasure-on-the-tracks.json](./21105-the-hardy-boys-treasure-on-the-tracks.json) |
 | The Harlem Shake vs. Gangnam Dance Game | 264355 | [264355-the-harlem-shake-vs-gangnam-dance-game.json](./264355-the-harlem-shake-vs-gangnam-dance-game.json) |
+| The Harmony Chronicles: Chaos Realms - Collector's Edition | 319771 | [319771-the-harmony-chronicles-chaos-realms-collectors-edition.json](./319771-the-harmony-chronicles-chaos-realms-collectors-edition.json) |
 | The Harmony Chronicles: Demon of the Void - Collector’s Edition | 332532 | [332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json](./332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json) |
 | The Harmony of Buku | 55921 | [55921-the-harmony-of-buku.json](./55921-the-harmony-of-buku.json) |
 | The Hat Man: Shadow Ward | 36355 | [36355-the-hat-man-shadow-ward.json](./36355-the-hat-man-shadow-ward.json) |
@@ -3947,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
 | The Ren & Stimpy Show: Veediots! | 365695 | [365695-the-ren-and-stimpy-show-veediots.json](./365695-the-ren-and-stimpy-show-veediots.json) |
 | The Renovator: Origins | 193413 | [193413-the-renovator-origins.json](./193413-the-renovator-origins.json) |
+| The Report: The Eastwind Creature | 319767 | [319767-the-report-the-eastwind-creature.json](./319767-the-report-the-eastwind-creature.json) |
 | The Repossessor | 81338 | [81338-the-repossessor.json](./81338-the-repossessor.json) |
 | The Research Facility No.507 | 90576 | [90576-the-research-facility-no-507.json](./90576-the-research-facility-no-507.json) |
 | The Reshaping of Googol 1B: The Tower | 299157 | [299157-the-reshaping-of-googol-1b-the-tower.json](./299157-the-reshaping-of-googol-1b-the-tower.json) |
@@ -7105,6 +7109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail Out: Steel Wheels | 267408 | [267408-trail-out-steel-wheels.json](./267408-trail-out-steel-wheels.json) |
 | TrailBlazer | 146868 | [146868-trailblazer.json](./146868-trailblazer.json) |
 | Trailblazers | 88383 | [88383-trailblazers.json](./88383-trailblazers.json) |
+| Trailcam | 319792 | [319792-trailcam.json](./319792-trailcam.json) |
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
@@ -7319,6 +7324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Your Brain | 234050 | [234050-train-your-brain.json](./234050-train-your-brain.json) |
 | Train Your Brain! Spot the Difference With Space Photos | 385070 | [385070-train-your-brain-spot-the-difference-with-space-photos.json](./385070-train-your-brain-spot-the-difference-with-space-photos.json) |
 | Train'em | 163971 | [163971-trainem.json](./163971-trainem.json) |
+| Trainee Death Simulator | 319810 | [319810-trainee-death-simulator.json](./319810-trainee-death-simulator.json) |
 | Training Hero | 239917 | [239917-training-hero.json](./239917-training-hero.json) |
 | Training Mode | 180276 | [180276-training-mode.json](./180276-training-mode.json) |
 | TrainingPeaks Virtual | 328624 | [328624-trainingpeaks-virtual.json](./328624-trainingpeaks-virtual.json) |
@@ -7662,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenches Generals | 85521 | [85521-trenches-generals.json](./85521-trenches-generals.json) |
 | TrenchesWIP | 120957 | [120957-trencheswip.json](./120957-trencheswip.json) |
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
+| Tres | 319800 | [319800-tres.json](./319800-tres.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
 | Tretrais | 346675 | [346675-tretrais.json](./346675-tretrais.json) |
@@ -8115,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
 | Turbo Booster | 265653 | [265653-turbo-booster.json](./265653-turbo-booster.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
+| Turbo Dismount 2 | 319769 | [319769-turbo-dismount-2.json](./319769-turbo-dismount-2.json) |
 | Turbo DX | 313106 | [313106-turbo-dx.json](./313106-turbo-dx.json) |
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
 | Turbo Hovercraft | 359418 | [359418-turbo-hovercraft.json](./359418-turbo-hovercraft.json) |
