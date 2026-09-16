@@ -4832,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MVP Baseball 2005 | 796 | [796-mvp-baseball-2005.json](./796-mvp-baseball-2005.json) |
 | MX 2002 Featuring Ricky Carmichael | 18265 | [18265-mx-2002-featuring-ricky-carmichael.json](./18265-mx-2002-featuring-ricky-carmichael.json) |
 | MX Bikes | 37424 | [37424-mx-bikes.json](./37424-mx-bikes.json) |
+| MX Dirt Bike: Unlimited Bike Experience | 317442 | [317442-mx-dirt-bike-unlimited-bike-experience.json](./317442-mx-dirt-bike-unlimited-bike-experience.json) |
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2023 | 274741 | [274741-mx-vs-atv-legends-gasgas-pack-2023.json](./274741-mx-vs-atv-legends-gasgas-pack-2023.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2025 | 356699 | [356699-mx-vs-atv-legends-gasgas-pack-2025.json](./356699-mx-vs-atv-legends-gasgas-pack-2025.json) |
