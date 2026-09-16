@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biscuit Mafia | 364537 | [364537-biscuit-mafia.json](./364537-biscuit-mafia.json) |
 | Biscuitts 4 | 147364 | [147364-biscuitts-4.json](./147364-biscuitts-4.json) |
 | Bishi Bachi Special 3 | 43866 | [43866-bishi-bachi-special-3.json](./43866-bishi-bachi-special-3.json) |
+| Bishi Bashi Special | 316812 | [316812-bishi-bashi-special.json](./316812-bishi-bashi-special.json) |
 | Bishi Bashi Special | 45047 | [45047-bishi-bashi-special.json](./45047-bishi-bashi-special.json) |
 | Bishi Bashi Special 3: Step Champ | 55867 | [55867-bishi-bashi-special-3-step-champ.json](./55867-bishi-bashi-special-3-step-champ.json) |
 | Bishojou Mahjong Club | 41339 | [41339-bishojou-mahjong-club.json](./41339-bishojou-mahjong-club.json) |
@@ -3225,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bones of the Earth | 362880 | [362880-bones-of-the-earth.json](./362880-bones-of-the-earth.json) |
 | Bones: Lab Panic | 58811 | [58811-bones-lab-panic.json](./58811-bones-lab-panic.json) |
 | Bones: Wandering Soul | 347678 | [347678-bones-wandering-soul.json](./347678-bones-wandering-soul.json) |
+| Bonesaw | 316799 | [316799-bonesaw.json](./316799-bonesaw.json) |
 | Bonesaw: The Game | 65432 | [65432-bonesaw-the-game.json](./65432-bonesaw-the-game.json) |
 | Bonesy | 143074 | [143074-bonesy.json](./143074-bonesy.json) |
 | Bonetale | 229380 | [229380-bonetale.json](./229380-bonetale.json) |
