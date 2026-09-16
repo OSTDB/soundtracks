@@ -1986,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Shift | 31801 | [31801-graveyard-shift.json](./31801-graveyard-shift.json) |
 | Graveyard Smash | 90583 | [90583-graveyard-smash.json](./90583-graveyard-smash.json) |
 | Graveyard Sprint | 245874 | [245874-graveyard-sprint.json](./245874-graveyard-sprint.json) |
+| GraveyardGambit | 308969 | [308969-graveyardgambit.json](./308969-graveyardgambit.json) |
 | Gravi Dot | 91909 | [91909-gravi-dot.json](./91909-gravi-dot.json) |
 | Gravico | 280776 | [280776-gravico.json](./280776-gravico.json) |
 | GraviFire | 144277 | [144277-gravifire.json](./144277-gravifire.json) |
