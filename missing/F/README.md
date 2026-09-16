@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Princess | 55909 | [55909-fallen-princess.json](./55909-fallen-princess.json) |
 | Fallen Region | 130253 | [130253-fallen-region.json](./130253-fallen-region.json) |
 | Fallen Relics | 360570 | [360570-fallen-relics.json](./360570-fallen-relics.json) |
+| Fallen Saint Yhoundeh | 295405 | [295405-fallen-saint-yhoundeh.json](./295405-fallen-saint-yhoundeh.json) |
 | Fallen Seeds | 270112 | [270112-fallen-seeds.json](./270112-fallen-seeds.json) |
 | Fallen Star | 322177 | [322177-fallen-star.json](./322177-fallen-star.json) |
 | Fallen: Town of Heritage and Makina the Blazing Hair | 82831 | [82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json](./82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json) |
@@ -854,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Unknown: Jamie Story | 351601 | [351601-fear-the-unknown-jamie-story.json](./351601-fear-the-unknown-jamie-story.json) |
 | Fear Virtual | 302098 | [302098-fear-virtual.json](./302098-fear-virtual.json) |
 | Fear: Call of the village. | 190731 | [190731-fear-call-of-the-village.json](./190731-fear-call-of-the-village.json) |
+| Fear: Ghosts of the Past | 295377 | [295377-fear-ghosts-of-the-past.json](./295377-fear-ghosts-of-the-past.json) |
 | Fearaphobia | 310957 | [310957-fearaphobia.json](./310957-fearaphobia.json) |
 | Fearbonding | 297073 | [297073-fearbonding.json](./297073-fearbonding.json) |
 | Fearful Symmetry | 336907 | [336907-fearful-symmetry.json](./336907-fearful-symmetry.json) |
