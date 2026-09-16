@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urinary Samus | 343367 | [343367-urinary-samus.json](./343367-urinary-samus.json) |
 | Urja | 36064 | [36064-urja.json](./36064-urja.json) |
 | URLIRL | 394837 | [394837-urlirl.json](./394837-urlirl.json) |
+| Urok | 319766 | [319766-urok.json](./319766-urok.json) |
 | Urotsukidouji | 123014 | [123014-urotsukidouji.json](./123014-urotsukidouji.json) |
 | Ursine Science | 260162 | [260162-ursine-science.json](./260162-ursine-science.json) |
 | Urtuk: The Desolation | 98073 | [98073-urtuk-the-desolation.json](./98073-urtuk-the-desolation.json) |
