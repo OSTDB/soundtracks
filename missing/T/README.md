@@ -4938,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wacky World of Miniature Golf | 45905 | [45905-the-wacky-world-of-miniature-golf.json](./45905-the-wacky-world-of-miniature-golf.json) |
 | The Wagadu Chronicles | 241973 | [241973-the-wagadu-chronicles.json](./241973-the-wagadu-chronicles.json) |
 | The Wager | 125414 | [125414-the-wager.json](./125414-the-wager.json) |
+| The Waifu Game | 292681 | [292681-the-waifu-game.json](./292681-the-waifu-game.json) |
 | The Wailing of the Forest | 385062 | [385062-the-wailing-of-the-forest.json](./385062-the-wailing-of-the-forest.json) |
 | The Wait | 128605 | [128605-the-wait.json](./128605-the-wait.json) |
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
@@ -7516,14 +7517,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: BR Diesel Brake Tenders | 306101 | [306101-trainz-plus-br-diesel-brake-tenders.json](./306101-trainz-plus-br-diesel-brake-tenders.json) |
 | Trainz Plus: C44aci Locomotive - ARG/Mineral Resources Pack | 306102 | [306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json](./306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json) |
 | Trainz Plus: CFR B 26-26 098 | 205037 | [205037-trainz-plus-cfr-b-26-26-098.json](./205037-trainz-plus-cfr-b-26-26-098.json) |
+| Trainz Plus: CFR Calatori ABmee 36-16 038 | 292659 | [292659-trainz-plus-cfr-calatori-abmee-36-16-038.json](./292659-trainz-plus-cfr-calatori-abmee-36-16-038.json) |
 | Trainz Plus: CFR Calatori B 26-26 064 | 205043 | [205043-trainz-plus-cfr-calatori-b-26-26-064.json](./205043-trainz-plus-cfr-calatori-b-26-26-064.json) |
 | Trainz Plus: CFR Calatori B 26-26 186 | 205046 | [205046-trainz-plus-cfr-calatori-b-26-26-186.json](./205046-trainz-plus-cfr-calatori-b-26-26-186.json) |
+| Trainz Plus: CFR Calatori BDmee 84-16 002 | 292658 | [292658-trainz-plus-cfr-calatori-bdmee-84-16-002.json](./292658-trainz-plus-cfr-calatori-bdmee-84-16-002.json) |
+| Trainz Plus: CFR Calatori Bmee 26-16 096 | 292660 | [292660-trainz-plus-cfr-calatori-bmee-26-16-096.json](./292660-trainz-plus-cfr-calatori-bmee-26-16-096.json) |
+| Trainz Plus: CFR Modernised Doubledecker Pack No. 1 | 292657 | [292657-trainz-plus-cfr-modernised-doubledecker-pack-no-1.json](./292657-trainz-plus-cfr-modernised-doubledecker-pack-no-1.json) |
+| Trainz Plus: CFR Modernised Doubledecker Pack No. 2 | 292661 | [292661-trainz-plus-cfr-modernised-doubledecker-pack-no-2.json](./292661-trainz-plus-cfr-modernised-doubledecker-pack-no-2.json) |
 | Trainz Plus: Chesapeake & Ohio K3-K3a 2-8-2 | 205542 | [205542-trainz-plus-chesapeake-and-ohio-k3-k3a-2-8-2.json](./205542-trainz-plus-chesapeake-and-ohio-k3-k3a-2-8-2.json) |
 | Trainz Plus: CO17-3373 | 205551 | [205551-trainz-plus-co17-3373.json](./205551-trainz-plus-co17-3373.json) |
 | Trainz Plus: CP SD40-2 #5865-5879 Dual Flags | 205566 | [205566-trainz-plus-cp-sd40-2-5865-5879-dual-flags.json](./205566-trainz-plus-cp-sd40-2-5865-5879-dual-flags.json) |
 | Trainz Plus: DBuz 747 Passenger Cars | 205557 | [205557-trainz-plus-dbuz-747-passenger-cars.json](./205557-trainz-plus-dbuz-747-passenger-cars.json) |
 | Trainz Plus: DR DBmtrue 215 | 205563 | [205563-trainz-plus-dr-dbmtrue-215.json](./205563-trainz-plus-dr-dbmtrue-215.json) |
 | Trainz Plus: ECML Edinburgh - Dundee | 205560 | [205560-trainz-plus-ecml-edinburgh-dundee.json](./205560-trainz-plus-ecml-edinburgh-dundee.json) |
+| Trainz Plus: Ffestiniog Railway Alco 1265 Mountaineer | 292663 | [292663-trainz-plus-ffestiniog-railway-alco-1265-mountaineer.json](./292663-trainz-plus-ffestiniog-railway-alco-1265-mountaineer.json) |
 | Trainz Plus: Florida Rail Road Museum Model Railroad | 205550 | [205550-trainz-plus-florida-rail-road-museum-model-railroad.json](./205550-trainz-plus-florida-rail-road-museum-model-railroad.json) |
 | Trainz Plus: Halloween Night on Kickstarter County | 205548 | [205548-trainz-plus-halloween-night-on-kickstarter-county.json](./205548-trainz-plus-halloween-night-on-kickstarter-county.json) |
 | Trainz Plus: Harvard Subdivision - Commuter Edition | 285473 | [285473-trainz-plus-harvard-subdivision-commuter-edition.json](./285473-trainz-plus-harvard-subdivision-commuter-edition.json) |
@@ -7541,6 +7548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: PREG B16mnopux 039 | 205553 | [205553-trainz-plus-preg-b16mnopux-039.json](./205553-trainz-plus-preg-b16mnopux-039.json) |
 | Trainz Plus: PREG B16mnopux 087 | 205564 | [205564-trainz-plus-preg-b16mnopux-087.json](./205564-trainz-plus-preg-b16mnopux-087.json) |
 | Trainz Plus: Pro Train - Class 68 TPN | 205546 | [205546-trainz-plus-pro-train-class-68-tpn.json](./205546-trainz-plus-pro-train-class-68-tpn.json) |
+| Trainz Plus: Pro Train - SD40-2 Loco Bundle 2 | 292662 | [292662-trainz-plus-pro-train-sd40-2-loco-bundle-2.json](./292662-trainz-plus-pro-train-sd40-2-loco-bundle-2.json) |
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 4 | 306105 | [306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json](./306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json) |
 | Trainz Plus: Pro Train - Sequoia Valley | 306106 | [306106-trainz-plus-pro-train-sequoia-valley.json](./306106-trainz-plus-pro-train-sequoia-valley.json) |
 | Trainz Plus: Pro Train - TGV Duplex | 212240 | [212240-trainz-plus-pro-train-tgv-duplex.json](./212240-trainz-plus-pro-train-tgv-duplex.json) |
@@ -7561,7 +7569,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2007 | 11015 | [11015-trainz-railroad-simulator-2007.json](./11015-trainz-railroad-simulator-2007.json) |
 | Trainz Railroad Simulator 2019: Centrella Sub Division | 190717 | [190717-trainz-railroad-simulator-2019-centrella-sub-division.json](./190717-trainz-railroad-simulator-2019-centrella-sub-division.json) |
 | Trainz Railroad Simulator 2019: CFR B 26-26 098 | 205038 | [205038-trainz-railroad-simulator-2019-cfr-b-26-26-098.json](./205038-trainz-railroad-simulator-2019-cfr-b-26-26-098.json) |
+| Trainz Railroad Simulator 2019: CFR Calatori ABmee 36-16 038 | 292653 | [292653-trainz-railroad-simulator-2019-cfr-calatori-abmee-36-16-038.json](./292653-trainz-railroad-simulator-2019-cfr-calatori-abmee-36-16-038.json) |
+| Trainz Railroad Simulator 2019: CFR Calatori BDmee 84-16 002 | 292652 | [292652-trainz-railroad-simulator-2019-cfr-calatori-bdmee-84-16-002.json](./292652-trainz-railroad-simulator-2019-cfr-calatori-bdmee-84-16-002.json) |
+| Trainz Railroad Simulator 2019: CFR Calatori Bmee 26-16 096 | 292664 | [292664-trainz-railroad-simulator-2019-cfr-calatori-bmee-26-16-096.json](./292664-trainz-railroad-simulator-2019-cfr-calatori-bmee-26-16-096.json) |
 | Trainz Railroad Simulator 2019: CFR Gorlitz Doubledecker Pack | 227282 | [227282-trainz-railroad-simulator-2019-cfr-gorlitz-doubledecker-pack.json](./227282-trainz-railroad-simulator-2019-cfr-gorlitz-doubledecker-pack.json) |
+| Trainz Railroad Simulator 2019: CFR Modernised Doubledecker Pack No. 1 | 292651 | [292651-trainz-railroad-simulator-2019-cfr-modernised-doubledecker-pack-no-1.json](./292651-trainz-railroad-simulator-2019-cfr-modernised-doubledecker-pack-no-1.json) |
+| Trainz Railroad Simulator 2019: CFR Modernised Doubledecker Pack No. 2 | 292665 | [292665-trainz-railroad-simulator-2019-cfr-modernised-doubledecker-pack-no-2.json](./292665-trainz-railroad-simulator-2019-cfr-modernised-doubledecker-pack-no-2.json) |
 | Trainz Railroad Simulator 2019: DB DBmu748 080 | 190711 | [190711-trainz-railroad-simulator-2019-db-dbmu748-080.json](./190711-trainz-railroad-simulator-2019-db-dbmu748-080.json) |
 | Trainz Railroad Simulator 2019: DR DBmtrue 215 | 190713 | [190713-trainz-railroad-simulator-2019-dr-dbmtrue-215.json](./190713-trainz-railroad-simulator-2019-dr-dbmtrue-215.json) |
 | Trainz Railroad Simulator 2019: DR/DB DBmtrue/DBmu748 Pack | 227284 | [227284-trainz-railroad-simulator-2019-dr-db-dbmtrue-dbmu748-pack.json](./227284-trainz-railroad-simulator-2019-dr-db-dbmtrue-dbmu748-pack.json) |
@@ -7576,6 +7589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: Potteries Loop Line | 205042 | [205042-trainz-railroad-simulator-2019-potteries-loop-line.json](./205042-trainz-railroad-simulator-2019-potteries-loop-line.json) |
 | Trainz Railroad Simulator 2019: Pro Train - DB BR Class 85 001 | 211918 | [211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json](./211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json) |
 | Trainz Railroad Simulator 2019: Pro Train - DB Class 44 | 227274 | [227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json](./227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json) |
+| Trainz Railroad Simulator 2019: Pro Train - SD40-2 Loco Bundle 2 | 292666 | [292666-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-2.json](./292666-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-2.json) |
 | Trainz Railroad Simulator 2019: Pro Train - TGV Duplex | 212242 | [212242-trainz-railroad-simulator-2019-pro-train-tgv-duplex.json](./212242-trainz-railroad-simulator-2019-pro-train-tgv-duplex.json) |
 | Trainz Railroad Simulator 2019: Pro Train DB/DR Auxiliary Train | 237947 | [237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json](./237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Railroad Simulator 2019: QR National GE C44aci | 213409 | [213409-trainz-railroad-simulator-2019-qr-national-ge-c44aci.json](./213409-trainz-railroad-simulator-2019-qr-national-ge-c44aci.json) |
@@ -7587,13 +7601,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: VR Healesville 1913-1920 TRS19 | 190707 | [190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json](./190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json) |
 | Trainz Railroad Simulator 2022 | 195792 | [195792-trainz-railroad-simulator-2022.json](./195792-trainz-railroad-simulator-2022.json) |
 | Trainz Railroad Simulator 2022: CFR B 26-26 098 | 205039 | [205039-trainz-railroad-simulator-2022-cfr-b-26-26-098.json](./205039-trainz-railroad-simulator-2022-cfr-b-26-26-098.json) |
+| Trainz Railroad Simulator 2022: CFR Calatori ABmee 36-16 038 | 292656 | [292656-trainz-railroad-simulator-2022-cfr-calatori-abmee-36-16-038.json](./292656-trainz-railroad-simulator-2022-cfr-calatori-abmee-36-16-038.json) |
 | Trainz Railroad Simulator 2022: CFR Calatori B 26-26 064 | 205044 | [205044-trainz-railroad-simulator-2022-cfr-calatori-b-26-26-064.json](./205044-trainz-railroad-simulator-2022-cfr-calatori-b-26-26-064.json) |
 | Trainz Railroad Simulator 2022: CFR Calatori B 26-26 186 | 205045 | [205045-trainz-railroad-simulator-2022-cfr-calatori-b-26-26-186.json](./205045-trainz-railroad-simulator-2022-cfr-calatori-b-26-26-186.json) |
+| Trainz Railroad Simulator 2022: CFR Calatori BDmee 84-16 002 | 292655 | [292655-trainz-railroad-simulator-2022-cfr-calatori-bdmee-84-16-002.json](./292655-trainz-railroad-simulator-2022-cfr-calatori-bdmee-84-16-002.json) |
+| Trainz Railroad Simulator 2022: CFR Calatori Bmee 26-16 096 | 292670 | [292670-trainz-railroad-simulator-2022-cfr-calatori-bmee-26-16-096.json](./292670-trainz-railroad-simulator-2022-cfr-calatori-bmee-26-16-096.json) |
+| Trainz Railroad Simulator 2022: CFR Modernised Doubledecker Pack No. 1 | 292654 | [292654-trainz-railroad-simulator-2022-cfr-modernised-doubledecker-pack-no-1.json](./292654-trainz-railroad-simulator-2022-cfr-modernised-doubledecker-pack-no-1.json) |
+| Trainz Railroad Simulator 2022: CFR Modernised Doubledecker Pack No. 2 | 292669 | [292669-trainz-railroad-simulator-2022-cfr-modernised-doubledecker-pack-no-2.json](./292669-trainz-railroad-simulator-2022-cfr-modernised-doubledecker-pack-no-2.json) |
+| Trainz Railroad Simulator 2022: Ffestiniog Railway Alco 1265 Mountaineer | 292668 | [292668-trainz-railroad-simulator-2022-ffestiniog-railway-alco-1265-mountaineer.json](./292668-trainz-railroad-simulator-2022-ffestiniog-railway-alco-1265-mountaineer.json) |
 | Trainz Railroad Simulator 2022: Harvard Subdivision - Commuter Edition | 285474 | [285474-trainz-railroad-simulator-2022-harvard-subdivision-commuter-edition.json](./285474-trainz-railroad-simulator-2022-harvard-subdivision-commuter-edition.json) |
 | Trainz Railroad Simulator 2022: NR Class Locomotive - JBR Indian Pacific Pack | 284917 | [284917-trainz-railroad-simulator-2022-nr-class-locomotive-jbr-indian-pacific-pack.json](./284917-trainz-railroad-simulator-2022-nr-class-locomotive-jbr-indian-pacific-pack.json) |
 | Trainz Railroad Simulator 2022: Port Saturn | 288211 | [288211-trainz-railroad-simulator-2022-port-saturn.json](./288211-trainz-railroad-simulator-2022-port-saturn.json) |
 | Trainz Railroad Simulator 2022: Potteries Loop Line | 205040 | [205040-trainz-railroad-simulator-2022-potteries-loop-line.json](./205040-trainz-railroad-simulator-2022-potteries-loop-line.json) |
 | Trainz Railroad Simulator 2022: Pro Train - DB Class 44 | 227275 | [227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json](./227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json) |
+| Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 2 | 292667 | [292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json](./292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json) |
 | Trainz Railroad Simulator 2022: Pro Train - TGV Duplex | 212241 | [212241-trainz-railroad-simulator-2022-pro-train-tgv-duplex.json](./212241-trainz-railroad-simulator-2022-pro-train-tgv-duplex.json) |
 | Trainz Railroad Simulator 2022: Pro Train DB/DR Auxiliary Train | 237945 | [237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json](./237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Railroad Simulator 2022: QR National GE C44aci | 213408 | [213408-trainz-railroad-simulator-2022-qr-national-ge-c44aci.json](./213408-trainz-railroad-simulator-2022-qr-national-ge-c44aci.json) |
