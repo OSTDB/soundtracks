@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rance III: Leazas Kanraku | 41406 | [41406-rance-iii-leazas-kanraku.json](./41406-rance-iii-leazas-kanraku.json) |
 | Rance IV: Kyoudan no Isan | 41405 | [41405-rance-iv-kyoudan-no-isan.json](./41405-rance-iv-kyoudan-no-isan.json) |
 | Rance Quest Magnum | 137669 | [137669-rance-quest-magnum.json](./137669-rance-quest-magnum.json) |
+| Rance VI Sonogo | 329187 | [329187-rance-vi-sonogo.json](./329187-rance-vi-sonogo.json) |
 | Ranch Mayhem | 298049 | [298049-ranch-mayhem.json](./298049-ranch-mayhem.json) |
 | Ranch Store Simulator | 333012 | [333012-ranch-store-simulator.json](./333012-ranch-store-simulator.json) |
 | Rancid | 124234 | [124234-rancid.json](./124234-rancid.json) |
@@ -969,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Siren: Space Defense | 111541 | [111541-red-siren-space-defense.json](./111541-red-siren-space-defense.json) |
 | Red Soil | 379372 | [379372-red-soil.json](./379372-red-soil.json) |
 | Red Solstice 2: Survivors - Condatis Group | 193437 | [193437-red-solstice-2-survivors-condatis-group.json](./193437-red-solstice-2-survivors-condatis-group.json) |
+| Red Solstice 2: Survivors - Ultimate Edition | 329198 | [329198-red-solstice-2-survivors-ultimate-edition.json](./329198-red-solstice-2-survivors-ultimate-edition.json) |
 | Red Sparrow | 38998 | [38998-red-sparrow.json](./38998-red-sparrow.json) |
 | Red Spider Anecdote: The Longest Nite | 324318 | [324318-red-spider-anecdote-the-longest-nite.json](./324318-red-spider-anecdote-the-longest-nite.json) |
 | Red Spider: Vengeance Remastered | 371969 | [371969-red-spider-vengeance-remastered.json](./371969-red-spider-vengeance-remastered.json) |
@@ -2359,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocking Legend | 132357 | [132357-rocking-legend.json](./132357-rocking-legend.json) |
 | Rocking on Heaven's Door | 176479 | [176479-rocking-on-heavens-door.json](./176479-rocking-on-heavens-door.json) |
 | RockinRoll | 78649 | [78649-rockinroll.json](./78649-rockinroll.json) |
+| Rockitty | 329116 | [329116-rockitty.json](./329116-rockitty.json) |
 | Rockland VR | 75031 | [75031-rockland-vr.json](./75031-rockland-vr.json) |
 | Rockman 2: Basic Master | 269878 | [269878-rockman-2-basic-master.json](./269878-rockman-2-basic-master.json) |
 | Rockman 2: Gray Zone | 269879 | [269879-rockman-2-gray-zone.json](./269879-rockman-2-gray-zone.json) |
@@ -2693,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoomRental | 94190 | [94190-roomrental.json](./94190-roomrental.json) |
 | Rooms | 388930 | [388930-rooms.json](./388930-rooms.json) |
 | Rooms: The Unsolvable Puzzle | 19018 | [19018-rooms-the-unsolvable-puzzle.json](./19018-rooms-the-unsolvable-puzzle.json) |
+| Roost | 329111 | [329111-roost.json](./329111-roost.json) |
 | Rooster | 62722 | [62722-rooster.json](./62722-rooster.json) |
 | Rooster II | 62696 | [62696-rooster-ii.json](./62696-rooster-ii.json) |
 | Rooster: Princess Rescue | 409558 | [409558-rooster-princess-rescue.json](./409558-rooster-princess-rescue.json) |
