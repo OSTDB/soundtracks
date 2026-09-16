@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Salvation | 79851 | [79851-salvation.json](./79851-salvation.json) |
+| Salvation Hours | 306490 | [306490-salvation-hours.json](./306490-salvation-hours.json) |
 | Salvation in Corruption | 75183 | [75183-salvation-in-corruption.json](./75183-salvation-in-corruption.json) |
 | Salvation Plan: Spirit Evil | 284336 | [284336-salvation-plan-spirit-evil.json](./284336-salvation-plan-spirit-evil.json) |
 | Sam & Max Save the World + Beyond Time and Space Bundle | 219053 | [219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json](./219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json) |
@@ -925,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrambled | 58163 | [58163-scrambled.json](./58163-scrambled.json) |
 | Scrambled Egg | 40198 | [40198-scrambled-egg.json](./40198-scrambled-egg.json) |
 | Scramblies | 58181 | [58181-scramblies.json](./58181-scramblies.json) |
+| Scrap Age Survivors | 306498 | [306498-scrap-age-survivors.json](./306498-scrap-age-survivors.json) |
 | Scrap Bringer | 172130 | [172130-scrap-bringer.json](./172130-scrap-bringer.json) |
 | Scrap Dealer Simulator | 334136 | [334136-scrap-dealer-simulator.json](./334136-scrap-dealer-simulator.json) |
 | Scrap Divers | 334102 | [334102-scrap-divers.json](./334102-scrap-divers.json) |
@@ -5089,6 +5091,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hack | 17680 | [17680-space-hack.json](./17680-space-hack.json) |
 | Space Harrier | 12857 | [12857-space-harrier.json](./12857-space-harrier.json) |
 | Space Harrier | 263380 | [263380-space-harrier.json](./263380-space-harrier.json) |
+| Space Harrier | 306472 | [306472-space-harrier.json](./306472-space-harrier.json) |
+| Space Harrier | 306475 | [306475-space-harrier.json](./306475-space-harrier.json) |
 | Space Harrier | 341883 | [341883-space-harrier.json](./341883-space-harrier.json) |
 | Space Harvest II | 97916 | [97916-space-harvest-ii.json](./97916-space-harvest-ii.json) |
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
@@ -7744,14 +7748,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
 | Sun Breed | 264037 | [264037-sun-breed.json](./264037-sun-breed.json) |
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
+| Sun Haven: Bloom and Doom Pack | 306506 | [306506-sun-haven-bloom-and-doom-pack.json](./306506-sun-haven-bloom-and-doom-pack.json) |
+| Sun Haven: Celestial Pack | 306507 | [306507-sun-haven-celestial-pack.json](./306507-sun-haven-celestial-pack.json) |
+| Sun Haven: Claws and Paws Pack | 306505 | [306505-sun-haven-claws-and-paws-pack.json](./306505-sun-haven-claws-and-paws-pack.json) |
+| Sun Haven: Deep Sea Pack | 306504 | [306504-sun-haven-deep-sea-pack.json](./306504-sun-haven-deep-sea-pack.json) |
 | Sun Haven: Emerald Elegance Pack | 389574 | [389574-sun-haven-emerald-elegance-pack.json](./389574-sun-haven-emerald-elegance-pack.json) |
 | Sun Haven: Flames and Ashes Pack | 389575 | [389575-sun-haven-flames-and-ashes-pack.json](./389575-sun-haven-flames-and-ashes-pack.json) |
 | Sun Haven: Once Upon a Time Pack | 389569 | [389569-sun-haven-once-upon-a-time-pack.json](./389569-sun-haven-once-upon-a-time-pack.json) |
+| Sun Haven: Pop Sensation Pack | 306503 | [306503-sun-haven-pop-sensation-pack.json](./306503-sun-haven-pop-sensation-pack.json) |
 | Sun Haven: Radiant Royalty Pack | 389568 | [389568-sun-haven-radiant-royalty-pack.json](./389568-sun-haven-radiant-royalty-pack.json) |
+| Sun Haven: Snow Day Pack | 306510 | [306510-sun-haven-snow-day-pack.json](./306510-sun-haven-snow-day-pack.json) |
 | Sun Haven: Snow Yeti Pack | 389571 | [389571-sun-haven-snow-yeti-pack.json](./389571-sun-haven-snow-yeti-pack.json) |
 | Sun Haven: Squeaky Clean Pack | 389572 | [389572-sun-haven-squeaky-clean-pack.json](./389572-sun-haven-squeaky-clean-pack.json) |
+| Sun Haven: Starlight Pack | 306508 | [306508-sun-haven-starlight-pack.json](./306508-sun-haven-starlight-pack.json) |
+| Sun Haven: Sugar Rush Pack | 306509 | [306509-sun-haven-sugar-rush-pack.json](./306509-sun-haven-sugar-rush-pack.json) |
 | Sun Haven: Tea Temple Pack | 389573 | [389573-sun-haven-tea-temple-pack.json](./389573-sun-haven-tea-temple-pack.json) |
 | Sun Haven: Tis the Season Pack | 389570 | [389570-sun-haven-tis-the-season-pack.json](./389570-sun-haven-tis-the-season-pack.json) |
+| Sun Haven: Toy Pack | 306511 | [306511-sun-haven-toy-pack.json](./306511-sun-haven-toy-pack.json) |
 | Sun Meadow | 385076 | [385076-sun-meadow.json](./385076-sun-meadow.json) |
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
 | Sun Temple Shootout | 87697 | [87697-sun-temple-shootout.json](./87697-sun-temple-shootout.json) |
@@ -7863,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Black Onyx | 48704 | [48704-super-black-onyx.json](./48704-super-black-onyx.json) |
 | Super Blasting Boy | 110977 | [110977-super-blasting-boy.json](./110977-super-blasting-boy.json) |
 | Super Block | 172655 | [172655-super-block.json](./172655-super-block.json) |
+| Super Block Jump | 306497 | [306497-super-block-jump.json](./306497-super-block-jump.json) |
 | Super Blocmania 3D + 3D Brick Blaster | 91431 | [91431-super-blocmania-3d-3d-brick-blaster.json](./91431-super-blocmania-3d-3d-brick-blaster.json) |
 | Super Bloo Kid Adventure | 219582 | [219582-super-bloo-kid-adventure.json](./219582-super-bloo-kid-adventure.json) |
 | Super Blood Hockey | 31160 | [31160-super-blood-hockey.json](./31160-super-blood-hockey.json) |
@@ -9130,6 +9144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch Dash Game | 262069 | [262069-switch-dash-game.json](./262069-switch-dash-game.json) |
 | Switch Galaxy Ultra | 35517 | [35517-switch-galaxy-ultra.json](./35517-switch-galaxy-ultra.json) |
 | Switch It | 152896 | [152896-switch-it.json](./152896-switch-it.json) |
+| Switch Race | 306517 | [306517-switch-race.json](./306517-switch-race.json) |
 | Switch Shapes | 406772 | [406772-switch-shapes.json](./406772-switch-shapes.json) |
 | Switch! | 92519 | [92519-switch.json](./92519-switch.json) |
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
