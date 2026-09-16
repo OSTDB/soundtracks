@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravensburger Puzzle | 25495 | [25495-ravensburger-puzzle.json](./25495-ravensburger-puzzle.json) |
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
+| Ravenwood Academy: A Wizard101 Story | 298165 | [298165-ravenwood-academy-a-wizard101-story.json](./298165-ravenwood-academy-a-wizard101-story.json) |
 | Ravenwood Drive | 311626 | [311626-ravenwood-drive.json](./311626-ravenwood-drive.json) |
 | Raving Mad | 93004 | [93004-raving-mad.json](./93004-raving-mad.json) |
 | Raving Rabbids: Travel in Time | 5116 | [5116-raving-rabbids-travel-in-time.json](./5116-raving-rabbids-travel-in-time.json) |
@@ -873,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckless Racing HD | 90542 | [90542-reckless-racing-hd.json](./90542-reckless-racing-hd.json) |
 | Reclaimer | 404308 | [404308-reclaimer.json](./404308-reclaimer.json) |
 | Reclamation | 268463 | [268463-reclamation.json](./268463-reclamation.json) |
+| Reclamation of Xanthros | 298177 | [298177-reclamation-of-xanthros.json](./298177-reclamation-of-xanthros.json) |
 | Recognition Test 23 | 246676 | [246676-recognition-test-23.json](./246676-recognition-test-23.json) |
 | Recoil Cluck | 290962 | [290962-recoil-cluck.json](./290962-recoil-cluck.json) |
 | Recoil Gunner | 208019 | [208019-recoil-gunner.json](./208019-recoil-gunner.json) |
@@ -1601,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reunition | 89208 | [89208-reunition.json](./89208-reunition.json) |
 | Reus 2: Grasslands | 401682 | [401682-reus-2-grasslands.json](./401682-reus-2-grasslands.json) |
 | Reus 2: Supporter Pack | 312031 | [312031-reus-2-supporter-pack.json](./312031-reus-2-supporter-pack.json) |
+| Réussir: Code de la Route - Bonus ASSR 1 - ASSR 2: Permis AM - French Highway Code | 298157 | [298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json](./298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json) |
 | Rev. Noir | 389436 | [389436-rev-noir.json](./389436-rev-noir.json) |
 | Rev'd Up Racing | 312195 | [312195-revd-up-racing.json](./312195-revd-up-racing.json) |
 | Revealed | 388705 | [388705-revealed.json](./388705-revealed.json) |
@@ -1996,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
 | Riptide GP2 | 16735 | [16735-riptide-gp2.json](./16735-riptide-gp2.json) |
 | Rise | 338219 | [338219-rise.json](./338219-rise.json) |
+| Rise & Muse | 298142 | [298142-rise-and-muse.json](./298142-rise-and-muse.json) |
 | Rise & Reign | 277277 | [277277-rise-and-reign.json](./277277-rise-and-reign.json) |
 | Rise & Shine | 6732 | [6732-rise-and-shine.json](./6732-rise-and-shine.json) |
 | Rise 2: Resurrection | 20256 | [20256-rise-2-resurrection.json](./20256-rise-2-resurrection.json) |
@@ -2272,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robosaurus | 264318 | [264318-robosaurus.json](./264318-robosaurus.json) |
 | RoboSkate | 139437 | [139437-roboskate.json](./139437-roboskate.json) |
 | RoboSport | 73231 | [73231-robosport.json](./73231-robosport.json) |
+| RoboSquad Revolution: Maverick Supporter Pack | 298183 | [298183-robosquad-revolution-maverick-supporter-pack.json](./298183-robosquad-revolution-maverick-supporter-pack.json) |
 | RoboSquare | 141205 | [141205-robosquare.json](./141205-robosquare.json) |
 | Robot Anarchy | 328496 | [328496-robot-anarchy.json](./328496-robot-anarchy.json) |
 | Robot Arena: Design & Destroy | 79323 | [79323-robot-arena-design-and-destroy.json](./79323-robot-arena-design-and-destroy.json) |
