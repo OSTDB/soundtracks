@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Memories: Complete Edition | 317259 | [317259-ecchi-memories-complete-edition.json](./317259-ecchi-memories-complete-edition.json) |
 | Ecchi Memory Game | 110966 | [110966-ecchi-memory-game.json](./110966-ecchi-memory-game.json) |
 | Ecchi na Seed | 97831 | [97831-ecchi-na-seed.json](./97831-ecchi-na-seed.json) |
+| Ecchi Paradise: Complete Edition | 294831 | [294831-ecchi-paradise-complete-edition.json](./294831-ecchi-paradise-complete-edition.json) |
 | Ecchi Secrets: Romantic Edition | 317258 | [317258-ecchi-secrets-romantic-edition.json](./317258-ecchi-secrets-romantic-edition.json) |
 | Ecchi Spirit | 147393 | [147393-ecchi-spirit.json](./147393-ecchi-spirit.json) |
 | Ecchi: Time to Oppai | 349303 | [349303-ecchi-time-to-oppai.json](./349303-ecchi-time-to-oppai.json) |
@@ -1223,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ero Zemi: Ecchi ni Yaru-ki ni ABC | 194579 | [194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json](./194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json) |
 | Eroblast: Playful Edition | 259572 | [259572-eroblast-playful-edition.json](./259572-eroblast-playful-edition.json) |
 | Erobos Heaven | 247514 | [247514-erobos-heaven.json](./247514-erobos-heaven.json) |
+| Erogods: Mirage | 294823 | [294823-erogods-mirage.json](./294823-erogods-mirage.json) |
 | Eros Fantasy | 199606 | [199606-eros-fantasy.json](./199606-eros-fantasy.json) |
 | Eros Myth | 176467 | [176467-eros-myth.json](./176467-eros-myth.json) |
 | Erotic Colouring Book | 110356 | [110356-erotic-colouring-book.json](./110356-erotic-colouring-book.json) |
