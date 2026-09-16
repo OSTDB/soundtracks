@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Desolation | 221742 | [221742-no-mans-sky-desolation.json](./221742-no-mans-sky-desolation.json) |
 | No Man's Sky: Nintendo Switch Edition | 191418 | [191418-no-mans-sky-nintendo-switch-edition.json](./191418-no-mans-sky-nintendo-switch-edition.json) |
 | No Man's Sky: Omega | 287088 | [287088-no-mans-sky-omega.json](./287088-no-mans-sky-omega.json) |
+| No Man's Sky: Worlds Part I | 308973 | [308973-no-mans-sky-worlds-part-i.json](./308973-no-mans-sky-worlds-part-i.json) |
 | No Man's Sky: Worlds Part II | 329714 | [329714-no-mans-sky-worlds-part-ii.json](./329714-no-mans-sky-worlds-part-ii.json) |
 | No Man's Sky: Xeno Arena | 397678 | [397678-no-mans-sky-xeno-arena.json](./397678-no-mans-sky-xeno-arena.json) |
 | No More Cows | 399063 | [399063-no-more-cows.json](./399063-no-more-cows.json) |
