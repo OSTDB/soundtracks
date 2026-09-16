@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Friend | 91968 | [91968-last-friend.json](./91968-last-friend.json) |
 | Last Gang Standing | 159843 | [159843-last-gang-standing.json](./159843-last-gang-standing.json) |
 | Last Group Out | 189196 | [189196-last-group-out.json](./189196-last-group-out.json) |
+| Last Half of Darkness | 312756 | [312756-last-half-of-darkness.json](./312756-last-half-of-darkness.json) |
 | Last Half of Darkness | 80604 | [80604-last-half-of-darkness.json](./80604-last-half-of-darkness.json) |
 | Last Half of Darkness 3 | 65483 | [65483-last-half-of-darkness-3.json](./65483-last-half-of-darkness-3.json) |
 | Last Half of Darkness II | 65484 | [65484-last-half-of-darkness-ii.json](./65484-last-half-of-darkness-ii.json) |
