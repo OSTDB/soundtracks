@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Course VR | 124231 | [124231-danger-course-vr.json](./124231-danger-course-vr.json) |
 | Danger Crew | 117623 | [117623-danger-crew.json](./117623-danger-crew.json) |
 | Danger Dash | 332559 | [332559-danger-dash.json](./332559-danger-dash.json) |
+| Danger Horizon | 329178 | [329178-danger-horizon.json](./329178-danger-horizon.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
@@ -609,6 +610,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
 | Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
+| Dating Sim | 329168 | [329168-dating-sim.json](./329168-dating-sim.json) |
+| Dating Sim! Luna's Lovely Summer | 329171 | [329171-dating-sim-lunas-lovely-summer.json](./329171-dating-sim-lunas-lovely-summer.json) |
+| Dating Sim! Re:Mastered | 329170 | [329170-dating-sim-re-mastered.json](./329170-dating-sim-re-mastered.json) |
 | Dating Simulator | 162431 | [162431-dating-simulator.json](./162431-dating-simulator.json) |
 | Dating Under the Comet | 345595 | [345595-dating-under-the-comet.json](./345595-dating-under-the-comet.json) |
 | Dato of Srivijaya | 156679 | [156679-dato-of-srivijaya.json](./156679-dato-of-srivijaya.json) |
@@ -1594,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths Of Apollyon | 351123 | [351123-depths-of-apollyon.json](./351123-depths-of-apollyon.json) |
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
 | Depths of Sanity | 55071 | [55071-depths-of-sanity.json](./55071-depths-of-sanity.json) |
+| Deputy Arsh | 329192 | [329192-deputy-arsh.json](./329192-deputy-arsh.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
 | Der blaue Kristall | 125956 | [125956-der-blaue-kristall.json](./125956-der-blaue-kristall.json) |
@@ -2611,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Kill Me Jacob!! JAM Ver. | 176482 | [176482-do-not-kill-me-jacob-jam-ver.json](./176482-do-not-kill-me-jacob-jam-ver.json) |
 | Do Not Look at the Moon | 309360 | [309360-do-not-look-at-the-moon.json](./309360-do-not-look-at-the-moon.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
+| Do or Die: Frontal Warfare | 329166 | [329166-do-or-die-frontal-warfare.json](./329166-do-or-die-frontal-warfare.json) |
 | Do or Die: Hunt to Survive | 235975 | [235975-do-or-die-hunt-to-survive.json](./235975-do-or-die-hunt-to-survive.json) |
 | Do You Even Brick?! | 401548 | [401548-do-you-even-brick.json](./401548-do-you-even-brick.json) |
 | Do you know de way | 89966 | [89966-do-you-know-de-way.json](./89966-do-you-know-de-way.json) |
@@ -3967,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
 | Drone Racer | 127200 | [127200-drone-racer.json](./127200-drone-racer.json) |
 | Drone Racer: Fly Stunt Simulator | 287663 | [287663-drone-racer-fly-stunt-simulator.json](./287663-drone-racer-fly-stunt-simulator.json) |
+| Drone Sector | 329148 | [329148-drone-sector.json](./329148-drone-sector.json) |
 | Drone Shadow Strike | 303262 | [303262-drone-shadow-strike.json](./303262-drone-shadow-strike.json) |
 | Drone Showcase | 186287 | [186287-drone-showcase.json](./186287-drone-showcase.json) |
 | Drone Simulator: Smash Zombies | 343249 | [343249-drone-simulator-smash-zombies.json](./343249-drone-simulator-smash-zombies.json) |
