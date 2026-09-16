@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
 | Escort Alia | 241363 | [241363-escort-alia.json](./241363-escort-alia.json) |
 | Escort Commander | 80998 | [80998-escort-commander.json](./80998-escort-commander.json) |
+| ESHQ | 327410 | [327410-eshq.json](./327410-eshq.json) |
 | Eskimo Games | 80527 | [80527-eskimo-games.json](./80527-eskimo-games.json) |
 | Eslander | 120993 | [120993-eslander.json](./120993-eslander.json) |
 | ESMO: Esports Manager Online | 375291 | [375291-esmo-esports-manager-online.json](./375291-esmo-esports-manager-online.json) |
