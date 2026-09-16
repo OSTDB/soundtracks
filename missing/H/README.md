@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
 | Helena: Cloud District | 416638 | [416638-helena-cloud-district.json](./416638-helena-cloud-district.json) |
+| Hélène est dans mon Ventre. | 310037 | [310037-helene-est-dans-mon-ventre.json](./310037-helene-est-dans-mon-ventre.json) |
 | Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
 | Helga the Viking Warrior 5: Dawn of Doom | 318609 | [318609-helga-the-viking-warrior-5-dawn-of-doom.json](./318609-helga-the-viking-warrior-5-dawn-of-doom.json) |
 | Helga the Viking Warrior 8: Valhalla's Last War | 417509 | [417509-helga-the-viking-warrior-8-valhallas-last-war.json](./417509-helga-the-viking-warrior-8-valhallas-last-war.json) |
