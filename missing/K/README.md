@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts HD 1.5 + 2.5 Remix | 27979 | [27979-kingdom-hearts-hd-1-5-2-5-remix.json](./27979-kingdom-hearts-hd-1-5-2-5-remix.json) |
 | Kingdom Hearts HD 1.5 Remix: Limited Edition | 81206 | [81206-kingdom-hearts-hd-1-5-remix-limited-edition.json](./81206-kingdom-hearts-hd-1-5-remix-limited-edition.json) |
 | Kingdom Hearts HD 2.8 Final Chapter Prologue: Limited Edition | 44535 | [44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json](./44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json) |
+| Kingdom Hearts III + Re Mind | 306474 | [306474-kingdom-hearts-iii-re-mind.json](./306474-kingdom-hearts-iii-re-mind.json) |
 | Kingdom Hearts III + Re Mind: Cloud Version | 187459 | [187459-kingdom-hearts-iii-re-mind-cloud-version.json](./187459-kingdom-hearts-iii-re-mind-cloud-version.json) |
 | Kingdom Hearts Integrum Masterpiece | 305216 | [305216-kingdom-hearts-integrum-masterpiece.json](./305216-kingdom-hearts-integrum-masterpiece.json) |
 | Kingdom Hearts Integrum Masterpiece for Cloud | 187460 | [187460-kingdom-hearts-integrum-masterpiece-for-cloud.json](./187460-kingdom-hearts-integrum-masterpiece-for-cloud.json) |
