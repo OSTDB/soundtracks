@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Joe | 263475 | [263475-ufo-joe.json](./263475-ufo-joe.json) |
 | UFO on Tape: First Contact | 117010 | [117010-ufo-on-tape-first-contact.json](./117010-ufo-on-tape-first-contact.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
+| UFO-Man | 320962 | [320962-ufo-man.json](./320962-ufo-man.json) |
 | UFO: Alien Invasion | 47271 | [47271-ufo-alien-invasion.json](./47271-ufo-alien-invasion.json) |
 | UFO: Extraterrestrials | 9437 | [9437-ufo-extraterrestrials.json](./9437-ufo-extraterrestrials.json) |
 | UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
