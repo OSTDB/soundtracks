@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seisai | 125997 | [125997-seisai.json](./125997-seisai.json) |
 | Seishin Hakai | 260976 | [260976-seishin-hakai.json](./260976-seishin-hakai.json) |
 | Seisho 1999 | 323919 | [323919-seisho-1999.json](./323919-seisho-1999.json) |
+| Seishoku ni Watashi wo | 321620 | [321620-seishoku-ni-watashi-wo.json](./321620-seishoku-ni-watashi-wo.json) |
 | Seishoujo Kantai Virgin Fleet | 290423 | [290423-seishoujo-kantai-virgin-fleet.json](./290423-seishoujo-kantai-virgin-fleet.json) |
 | Seishun Quiz Colorful High School | 247541 | [247541-seishun-quiz-colorful-high-school.json](./247541-seishun-quiz-colorful-high-school.json) |
 | Seiun Kamen Machineman: Dengeki Convert | 385750 | [385750-seiun-kamen-machineman-dengeki-convert.json](./385750-seiun-kamen-machineman-dengeki-convert.json) |
@@ -1745,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Wolf Mysteries: Cursed Wedding - Collector's Edition | 99620 | [99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json](./99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json) |
 | Shadow Wolf Mysteries: Cursed Wedding & Shadow Wolf Mysteries: Under the Crimson Moon | 201811 | [201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json](./201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json) |
 | Shadow's Bullet | 191871 | [191871-shadows-bullet.json](./191871-shadows-bullet.json) |
+| Shadow's Descent | 321530 | [321530-shadows-descent.json](./321530-shadows-descent.json) |
 | Shadow's Edge | 82154 | [82154-shadows-edge.json](./82154-shadows-edge.json) |
 | Shadowbane: The Rise of Chaos | 70972 | [70972-shadowbane-the-rise-of-chaos.json](./70972-shadowbane-the-rise-of-chaos.json) |
 | Shadowblade Knight Symphony | 313154 | [313154-shadowblade-knight-symphony.json](./313154-shadowblade-knight-symphony.json) |
@@ -2672,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
 | Silicone Heart | 358369 | [358369-silicone-heart.json](./358369-silicone-heart.json) |
+| SiliCorp Systems | 321550 | [321550-silicorp-systems.json](./321550-silicorp-systems.json) |
 | Silk & Sorrow | 415870 | [415870-silk-and-sorrow.json](./415870-silk-and-sorrow.json) |
 | Silkroad 8 | 394157 | [394157-silkroad-8.json](./394157-silkroad-8.json) |
 | Silky Road | 355565 | [355565-silky-road.json](./355565-silky-road.json) |
@@ -4185,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire de Kenshou | 220325 | [220325-solitaire-de-kenshou.json](./220325-solitaire-de-kenshou.json) |
 | Solitaire Deck | 406122 | [406122-solitaire-deck.json](./406122-solitaire-deck.json) |
 | Solitaire Dozen Gold | 146916 | [146916-solitaire-dozen-gold.json](./146916-solitaire-dozen-gold.json) |
+| Solitaire Grand Harvest | 321601 | [321601-solitaire-grand-harvest.json](./321601-solitaire-grand-harvest.json) |
 | Solitaire Halloween Story | 156089 | [156089-solitaire-halloween-story.json](./156089-solitaire-halloween-story.json) |
 | Solitaire Holiday Season | 386151 | [386151-solitaire-holiday-season.json](./386151-solitaire-holiday-season.json) |
 | Solitaire Home Story | 354999 | [354999-solitaire-home-story.json](./354999-solitaire-home-story.json) |
@@ -5441,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellcasting 301: Spring Break | 62143 | [62143-spellcasting-301-spring-break.json](./62143-spellcasting-301-spring-break.json) |
 | Spellcasting Collection | 115708 | [115708-spellcasting-collection.json](./115708-spellcasting-collection.json) |
 | Spellcats: Auto Card Tactics | 236288 | [236288-spellcats-auto-card-tactics.json](./236288-spellcats-auto-card-tactics.json) |
+| Spellchanted 2D Hidden Object Puzzle Adveture Tile-Matching | 321548 | [321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json](./321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
 | Spellfast | 70393 | [70393-spellfast.json](./70393-spellfast.json) |
 | SpellForce 2: Faith in Destiny - Scenario 1: Flink's Secret Diary | 144284 | [144284-spellforce-2-faith-in-destiny-scenario-1-flinks-secret-diary.json](./144284-spellforce-2-faith-in-destiny-scenario-1-flinks-secret-diary.json) |
@@ -7111,6 +7116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Battle Combination | 55065 | [55065-street-fighter-battle-combination.json](./55065-street-fighter-battle-combination.json) |
 | Street Fighter EX | 39319 | [39319-street-fighter-ex.json](./39319-street-fighter-ex.json) |
 | Street Fighter II | 321621 | [321621-street-fighter-ii.json](./321621-street-fighter-ii.json) |
+| Street Fighter II | 321622 | [321622-street-fighter-ii.json](./321622-street-fighter-ii.json) |
 | Street Fighter II Uno | 55063 | [55063-street-fighter-ii-uno.json](./55063-street-fighter-ii-uno.json) |
 | Street Fighter III 2nd Impact: Giant Attack | 6709 | [6709-street-fighter-iii-2nd-impact-giant-attack.json](./6709-street-fighter-iii-2nd-impact-giant-attack.json) |
 | Street Fighter III: Double Impact | 45194 | [45194-street-fighter-iii-double-impact.json](./45194-street-fighter-iii-double-impact.json) |
@@ -7510,6 +7516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugary Shifter | 314055 | [314055-sugary-shifter.json](./314055-sugary-shifter.json) |
 | Suggoi! Arcana Heart 2 | 243414 | [243414-suggoi-arcana-heart-2.json](./243414-suggoi-arcana-heart-2.json) |
 | Suggoi! Arcana Heart 2 | 243419 | [243419-suggoi-arcana-heart-2.json](./243419-suggoi-arcana-heart-2.json) |
+| Sugobencha: Dragon Master Silk Gaiden | 321539 | [321539-sugobencha-dragon-master-silk-gaiden.json](./321539-sugobencha-dragon-master-silk-gaiden.json) |
 | Sugoi Girls: Enchanting Elf | 328480 | [328480-sugoi-girls-enchanting-elf.json](./328480-sugoi-girls-enchanting-elf.json) |
 | Sugoi Girls: Mighty Mecha | 317230 | [317230-sugoi-girls-mighty-mecha.json](./317230-sugoi-girls-mighty-mecha.json) |
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
@@ -7523,6 +7530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide For Him | 153966 | [153966-suicide-for-him.json](./153966-suicide-for-him.json) |
 | Suicide Guy: Sleepin' Deeply | 102917 | [102917-suicide-guy-sleepin-deeply.json](./102917-suicide-guy-sleepin-deeply.json) |
 | Suicide Hero | 244279 | [244279-suicide-hero.json](./244279-suicide-hero.json) |
+| Suicide Squad: Kill the Justice League - Season 3: Season of Lawless | 321529 | [321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json](./321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json) |
 | Suicide Squad: Kill the Justice League - Season of Freeze | 317869 | [317869-suicide-squad-kill-the-justice-league-season-of-freeze.json](./317869-suicide-squad-kill-the-justice-league-season-of-freeze.json) |
 | Suicide Squad: Kill the Justice League - Season of the Joker | 317868 | [317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json](./317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json) |
 | Suidou Kozou | 91949 | [91949-suidou-kozou.json](./91949-suidou-kozou.json) |
@@ -8136,6 +8144,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
 | Super Mario Bros. MM | 322779 | [322779-super-mario-bros-mm.json](./322779-super-mario-bros-mm.json) |
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
+| Super Mario Bros. SNES Days | 321586 | [321586-super-mario-bros-snes-days.json](./321586-super-mario-bros-snes-days.json) |
+| Super Mario Bros. SNES Days 2 | 321585 | [321585-super-mario-bros-snes-days-2.json](./321585-super-mario-bros-snes-days-2.json) |
 | Super Mario Bros. Wonder | 254339 | [254339-super-mario-bros-wonder.json](./254339-super-mario-bros-wonder.json) |
 | Super Mario Bros.: Raiders of the Painting Realms | 323897 | [323897-super-mario-bros-raiders-of-the-painting-realms.json](./323897-super-mario-bros-raiders-of-the-painting-realms.json) |
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
