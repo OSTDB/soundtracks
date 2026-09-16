@@ -1400,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
+| Senseless | 312725 | [312725-senseless.json](./312725-senseless.json) |
 | Senses: Midnight | 153980 | [153980-senses-midnight.json](./153980-senses-midnight.json) |
 | Sensha SP | 222290 | [222290-sensha-sp.json](./222290-sensha-sp.json) |
 | Sensible Blood Rugby | 175879 | [175879-sensible-blood-rugby.json](./175879-sensible-blood-rugby.json) |
@@ -2877,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
 | Singalongsong | 302932 | [302932-singalongsong.json](./302932-singalongsong.json) |
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
+| Single Espresso | 312743 | [312743-single-espresso.json](./312743-single-espresso.json) |
 | Single's Inferno: Choices | 342743 | [342743-singles-inferno-choices.json](./342743-singles-inferno-choices.json) |
 | Singmetosleep | 392762 | [392762-singmetosleep.json](./392762-singmetosleep.json) |
 | SingStar | 15180 | [15180-singstar.json](./15180-singstar.json) |
@@ -5039,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
 | Space Fox Kimi: The Battle of Mochi Prime | 171563 | [171563-space-fox-kimi-the-battle-of-mochi-prime.json](./171563-space-fox-kimi-the-battle-of-mochi-prime.json) |
 | Space Fuss | 31387 | [31387-space-fuss.json](./31387-space-fuss.json) |
+| Space Game | 312741 | [312741-space-game.json](./312741-space-game.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
 | Space Gate Rush | 259565 | [259565-space-gate-rush.json](./259565-space-gate-rush.json) |
 | Space Girls | 68894 | [68894-space-girls.json](./68894-space-girls.json) |
@@ -5385,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Shades: Fragments | 191199 | [191199-spectral-shades-fragments.json](./191199-spectral-shades-fragments.json) |
 | Spectral Souls: Resurrection of the Ethereal Empires | 44519 | [44519-spectral-souls-resurrection-of-the-ethereal-empires.json](./44519-spectral-souls-resurrection-of-the-ethereal-empires.json) |
 | Spectral Survivor | 307581 | [307581-spectral-survivor.json](./307581-spectral-survivor.json) |
+| Spectralia | 312735 | [312735-spectralia.json](./312735-spectralia.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
@@ -5666,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirited Soul | 61124 | [61124-spirited-soul.json](./61124-spirited-soul.json) |
 | Spiritfall | 188946 | [188946-spiritfall.json](./188946-spiritfall.json) |
 | Spiritfarer: Netflix Edition | 375281 | [375281-spiritfarer-netflix-edition.json](./375281-spiritfarer-netflix-edition.json) |
+| Spiritgrapher: The Asylum 99 | 312737 | [312737-spiritgrapher-the-asylum-99.json](./312737-spiritgrapher-the-asylum-99.json) |
 | Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
 | Spirits of Lunara | 383364 | [383364-spirits-of-lunara.json](./383364-spirits-of-lunara.json) |
@@ -5947,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Head Zombies 2 - FPS Game | 99638 | [99638-square-head-zombies-2-fps-game.json](./99638-square-head-zombies-2-fps-game.json) |
 | Square It: An Electronic Game of Capture the Boxes | 217928 | [217928-square-it-an-electronic-game-of-capture-the-boxes.json](./217928-square-it-an-electronic-game-of-capture-the-boxes.json) |
 | Square n Fair | 29862 | [29862-square-n-fair.json](./29862-square-n-fair.json) |
+| Square of Joy | 312733 | [312733-square-of-joy.json](./312733-square-of-joy.json) |
 | Square Route | 98997 | [98997-square-route.json](./98997-square-route.json) |
 | Square Shooter | 108482 | [108482-square-shooter.json](./108482-square-shooter.json) |
 | Square: Trial and Error | 361781 | [361781-square-trial-and-error.json](./361781-square-trial-and-error.json) |
@@ -7099,6 +7105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Blasted Sky Glide | 143681 | [143681-strawberry-blasted-sky-glide.json](./143681-strawberry-blasted-sky-glide.json) |
 | Strawberry Chocolate | 367495 | [367495-strawberry-chocolate.json](./367495-strawberry-chocolate.json) |
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
+| Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
 | Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
@@ -7742,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
 | Sunrider: Liberation Day | 18176 | [18176-sunrider-liberation-day.json](./18176-sunrider-liberation-day.json) |
 | Sunrise 7 | 135159 | [135159-sunrise-7.json](./135159-sunrise-7.json) |
+| Sunrise Down | 312730 | [312730-sunrise-down.json](./312730-sunrise-down.json) |
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
 | SunSenSim | 156124 | [156124-sunsensim.json](./156124-sunsensim.json) |
 | Sunset Beach | 358397 | [358397-sunset-beach.json](./358397-sunset-beach.json) |
