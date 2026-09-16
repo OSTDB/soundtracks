@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T01:49:04.506Z",
-  "total_missing": 76212,
+  "generated_at": "2026-09-16T01:51:37.713Z",
+  "total_missing": 76211,
   "games": [
     {
       "igdb_id": 306086,
@@ -5681,11 +5681,6 @@
       "igdb_id": 325844,
       "game_name": "Age of Wonders 4: Ways of War",
       "file": "missing/A/325844-age-of-wonders-4-ways-of-war.json"
-    },
-    {
-      "igdb_id": 26643,
-      "game_name": "Age of Wushu 2",
-      "file": "missing/A/26643-age-of-wushu-2.json"
     },
     {
       "igdb_id": 31784,
