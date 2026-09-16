@@ -3129,6 +3129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Racing: Mini Cars Curling | 233755 | [233755-mini-racing-mini-cars-curling.json](./233755-mini-racing-mini-cars-curling.json) |
 | Mini Raid Leader | 398999 | [398999-mini-raid-leader.json](./398999-mini-raid-leader.json) |
 | Mini Ranger | 255127 | [255127-mini-ranger.json](./255127-mini-ranger.json) |
+| Mini Reaper | 307122 | [307122-mini-reaper.json](./307122-mini-reaper.json) |
 | Mini Rogue | 144376 | [144376-mini-rogue.json](./144376-mini-rogue.json) |
 | Mini Royale | 201020 | [201020-mini-royale.json](./201020-mini-royale.json) |
 | Mini Speedy Racers | 240212 | [240212-mini-speedy-racers.json](./240212-mini-speedy-racers.json) |
@@ -4670,6 +4671,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTV Sports: Snowboarding | 43858 | [43858-mtv-sports-snowboarding.json](./43858-mtv-sports-snowboarding.json) |
 | MTV Sports: T.J. Lavin's Ultimate BMX | 49964 | [49964-mtv-sports-t-j-lavins-ultimate-bmx.json](./49964-mtv-sports-t-j-lavins-ultimate-bmx.json) |
 | MTV Total Request Live Trivia | 57667 | [57667-mtv-total-request-live-trivia.json](./57667-mtv-total-request-live-trivia.json) |
+| MTV's Beavis and Butt-head | 307114 | [307114-mtvs-beavis-and-butt-head.json](./307114-mtvs-beavis-and-butt-head.json) |
+| MTV's Beavis and Butt-head | 307115 | [307115-mtvs-beavis-and-butt-head.json](./307115-mtvs-beavis-and-butt-head.json) |
 | MTV's Beavis and Butt-head: Bunghole in One | 8459 | [8459-mtvs-beavis-and-butt-head-bunghole-in-one.json](./8459-mtvs-beavis-and-butt-head-bunghole-in-one.json) |
 | MTV's Beavis and Butt-Head: Do U. | 8458 | [8458-mtvs-beavis-and-butt-head-do-u.json](./8458-mtvs-beavis-and-butt-head-do-u.json) |
 | MTV's Beavis and Butt-Head: Wiener Takes All | 66094 | [66094-mtvs-beavis-and-butt-head-wiener-takes-all.json](./66094-mtvs-beavis-and-butt-head-wiener-takes-all.json) |
@@ -4953,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
 | My Boyfriend's a Werecat! | 169362 | [169362-my-boyfriends-a-werecat.json](./169362-my-boyfriends-a-werecat.json) |
 | My Breast Friend Sally | 286500 | [286500-my-breast-friend-sally.json](./286500-my-breast-friend-sally.json) |
+| My Brick Breaker | 307158 | [307158-my-brick-breaker.json](./307158-my-brick-breaker.json) |
 | My Brother is a Superhero | 242559 | [242559-my-brother-is-a-superhero.json](./242559-my-brother-is-a-superhero.json) |
 | My Brother the Sacrifice | 123643 | [123643-my-brother-the-sacrifice.json](./123643-my-brother-the-sacrifice.json) |
 | My Bullied Bride | 112950 | [112950-my-bullied-bride.json](./112950-my-bullied-bride.json) |
