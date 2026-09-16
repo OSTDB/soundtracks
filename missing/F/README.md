@@ -2203,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Sushi | 337991 | [337991-flying-sushi.json](./337991-flying-sushi.json) |
 | Flying Tickets | 130873 | [130873-flying-tickets.json](./130873-flying-tickets.json) |
 | Flying Tigers: Shadows Over China - Paradise Island | 167208 | [167208-flying-tigers-shadows-over-china-paradise-island.json](./167208-flying-tigers-shadows-over-china-paradise-island.json) |
+| Flying Tobacco Eggs | 305922 | [305922-flying-tobacco-eggs.json](./305922-flying-tobacco-eggs.json) |
 | Flying Unicorn | 256532 | [256532-flying-unicorn.json](./256532-flying-unicorn.json) |
 | Flying Wizards | 412968 | [412968-flying-wizards.json](./412968-flying-wizards.json) |
 | FlyingChicken | 371894 | [371894-flyingchicken.json](./371894-flyingchicken.json) |
@@ -2399,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the People | 135844 | [135844-for-the-people.json](./135844-for-the-people.json) |
 | For the Revenge | 107921 | [107921-for-the-revenge.json](./107921-for-the-revenge.json) |
 | For What Will Come | 213010 | [213010-for-what-will-come.json](./213010-for-what-will-come.json) |
+| For Whom the Stars Shine | 305918 | [305918-for-whom-the-stars-shine.json](./305918-for-whom-the-stars-shine.json) |
 | Forbidden City Journey | 240778 | [240778-forbidden-city-journey.json](./240778-forbidden-city-journey.json) |
 | Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
 | Forbidden Ingress | 126566 | [126566-forbidden-ingress.json](./126566-forbidden-ingress.json) |
@@ -3505,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Racer 2000 | 248909 | [248909-future-racer-2000.json](./248909-future-racer-2000.json) |
 | Future Sense | 242202 | [242202-future-sense.json](./242202-future-sense.json) |
 | Future Shock | 13718 | [13718-future-shock.json](./13718-future-shock.json) |
+| Future Swashbuckler | 305945 | [305945-future-swashbuckler.json](./305945-future-swashbuckler.json) |
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
 | Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
 | Future Vibe Check | 335292 | [335292-future-vibe-check.json](./335292-future-vibe-check.json) |
