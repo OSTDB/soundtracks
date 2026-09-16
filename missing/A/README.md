@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | A'Jatt | 372556 | [372556-ajatt.json](./372556-ajatt.json) |
 | A/X-101 | 5360 | [5360-a-x-101.json](./5360-a-x-101.json) |
+| AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
 | Aaahh!!! Real Monsters | 5339 | [5339-aaahh-real-monsters.json](./5339-aaahh-real-monsters.json) |
 | Aaero + Aaero2 Bundle | 331448 | [331448-aaero-aaero2-bundle.json](./331448-aaero-aaero2-bundle.json) |
 | Aaero: Complete Edition | 113196 | [113196-aaero-complete-edition.json](./113196-aaero-complete-edition.json) |
@@ -619,7 +620,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
-| Agrou | 133456 | [133456-agrou.json](./133456-agrou.json) |
 | Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akita: King Pig Thinks Pink | 178098 | [178098-akita-king-pig-thinks-pink.json](./178098-akita-king-pig-thinks-pink.json) |
 | Akita: Legends Squad | 399611 | [399611-akita-legends-squad.json](./399611-akita-legends-squad.json) |
 | Akiya | 284926 | [284926-akiya.json](./284926-akiya.json) |
+| Akıllı Çay Bardağı | 304736 | [304736-ak-ll-cay-bardag.json](./304736-ak-ll-cay-bardag.json) |
 | Akka Arrh | 225592 | [225592-akka-arrh.json](./225592-akka-arrh.json) |
 | Aknadach | 391056 | [391056-aknadach.json](./391056-aknadach.json) |
 | Akron | 306990 | [306990-akron.json](./306990-akron.json) |
