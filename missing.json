@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T14:31:42.828Z",
-  "total_missing": 78288,
+  "generated_at": "2026-09-16T14:41:37.447Z",
+  "total_missing": 78287,
   "games": [
     {
       "igdb_id": 306086,
@@ -6086,11 +6086,6 @@
       "igdb_id": 225635,
       "game_name": "Agent Lovesdick",
       "file": "missing/A/225635-agent-lovesdick.json"
-    },
-    {
-      "igdb_id": 355023,
-      "game_name": "Agent of Strange",
-      "file": "missing/A/355023-agent-of-strange.json"
     },
     {
       "igdb_id": 357801,
