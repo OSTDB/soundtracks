@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pallas of Vines | 129762 | [129762-pallas-of-vines.json](./129762-pallas-of-vines.json) |
 | Pallet | 250971 | [250971-pallet.json](./250971-pallet.json) |
 | Palliative: Reach for an Angel | 191194 | [191194-palliative-reach-for-an-angel.json](./191194-palliative-reach-for-an-angel.json) |
+| Palm Cracker | 333625 | [333625-palm-cracker.json](./333625-palm-cracker.json) |
 | Palm Reading Premium | 111056 | [111056-palm-reading-premium.json](./111056-palm-reading-premium.json) |
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
@@ -272,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora | 238499 | [238499-pandora.json](./238499-pandora.json) |
 | Pandora | 249207 | [249207-pandora.json](./249207-pandora.json) |
 | Pandora Saga: Weapons of Balance | 78647 | [78647-pandora-saga-weapons-of-balance.json](./78647-pandora-saga-weapons-of-balance.json) |
+| Pandora's Doom: Apocalypse Hotline | 333602 | [333602-pandoras-doom-apocalypse-hotline.json](./333602-pandoras-doom-apocalypse-hotline.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
 | Panel de Pon | 150107 | [150107-panel-de-pon.json](./150107-panel-de-pon.json) |
 | Panel de Pon | 84157 | [84157-panel-de-pon.json](./84157-panel-de-pon.json) |
@@ -363,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
 | Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
+| Paper 2: Origami Refolded | 333641 | [333641-paper-2-origami-refolded.json](./333641-paper-2-origami-refolded.json) |
 | Paper Airplane Flying Game | 414452 | [414452-paper-airplane-flying-game.json](./414452-paper-airplane-flying-game.json) |
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
 | Paper Bride | 190178 | [190178-paper-bride.json](./190178-paper-bride.json) |
@@ -906,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peerless Destiny | 294995 | [294995-peerless-destiny.json](./294995-peerless-destiny.json) |
 | PeeWee Purpdrank's Foenem Clicker | 403014 | [403014-peewee-purpdranks-foenem-clicker.json](./403014-peewee-purpdranks-foenem-clicker.json) |
 | Peg Solitaire | 57062 | [57062-peg-solitaire.json](./57062-peg-solitaire.json) |
+| Pega Game | 333614 | [333614-pega-game.json](./333614-pega-game.json) |
 | Pegafuerte el Terrible | 249479 | [249479-pegafuerte-el-terrible.json](./249479-pegafuerte-el-terrible.json) |
 | Peganomics | 371999 | [371999-peganomics.json](./371999-peganomics.json) |
 | Pegasis | 298866 | [298866-pegasis.json](./298866-pegasis.json) |
@@ -1243,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom | 258994 | [258994-phantom.json](./258994-phantom.json) |
 | Phantom 9 | 416629 | [416629-phantom-9.json](./416629-phantom-9.json) |
 | Phantom Astronaut Lucid VR | 122340 | [122340-phantom-astronaut-lucid-vr.json](./122340-phantom-astronaut-lucid-vr.json) |
+| Phantom Asylum VR | 333651 | [333651-phantom-asylum-vr.json](./333651-phantom-asylum-vr.json) |
 | Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
@@ -1925,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Horizons | 341572 | [341572-pixel-horizons.json](./341572-pixel-horizons.json) |
 | Pixel House: Color by Number | 328494 | [328494-pixel-house-color-by-number.json](./328494-pixel-house-color-by-number.json) |
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
+| Pixel Miner | 333639 | [333639-pixel-miner.json](./333639-pixel-miner.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Origin | 104654 | [104654-pixel-origin.json](./104654-pixel-origin.json) |
 | Pixel Paint | 84818 | [84818-pixel-paint.json](./84818-pixel-paint.json) |
@@ -2054,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Meowbolt | 337986 | [337986-pixicharm-meowbolt.json](./337986-pixicharm-meowbolt.json) |
 | Pixicharm: Spartunex | 361698 | [361698-pixicharm-spartunex.json](./361698-pixicharm-spartunex.json) |
 | Pixicharm: Speedy Squire | 335964 | [335964-pixicharm-speedy-squire.json](./335964-pixicharm-speedy-squire.json) |
+| Pixicharm: Starry Blast | 333528 | [333528-pixicharm-starry-blast.json](./333528-pixicharm-starry-blast.json) |
 | Pixicharm: TuttiRun | 353972 | [353972-pixicharm-tuttirun.json](./353972-pixicharm-tuttirun.json) |
 | Pixicharm: Vesprax | 377706 | [377706-pixicharm-vesprax.json](./377706-pixicharm-vesprax.json) |
 | Pixie Pete | 25688 | [25688-pixie-pete.json](./25688-pixie-pete.json) |
@@ -2462,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo3D | 259015 | [259015-pogo3d.json](./259015-pogo3d.json) |
 | Pogoduck | 243965 | [243965-pogoduck.json](./243965-pogoduck.json) |
 | Pogoman GO! | 80514 | [80514-pogoman-go.json](./80514-pogoman-go.json) |
+| Pohinki Simulator | 333623 | [333623-pohinki-simulator.json](./333623-pohinki-simulator.json) |
 | Poi | 19278 | [19278-poi.json](./19278-poi.json) |
 | Poibos Part 1: Dasshutsu | 298547 | [298547-poibos-part-1-dasshutsu.json](./298547-poibos-part-1-dasshutsu.json) |
 | Point | 97929 | [97929-point.json](./97929-point.json) |
@@ -2564,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Empyrean | 221394 | [221394-pokemon-empyrean.json](./221394-pokemon-empyrean.json) |
 | Pokémon Eon Guardians | 241388 | [241388-pokemon-eon-guardians.json](./241388-pokemon-eon-guardians.json) |
 | Pokémon Ephemerald | 206144 | [206144-pokemon-ephemerald.json](./206144-pokemon-ephemerald.json) |
+| Pokémon Eterna Emoción | 333642 | [333642-pokemon-eterna-emocion.json](./333642-pokemon-eterna-emocion.json) |
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
 | Pokemon FireRed and LeafGreen+ | 288206 | [288206-pokemon-firered-and-leafgreen.json](./288206-pokemon-firered-and-leafgreen.json) |
 | Pokémon FR Advanced Challenge | 136412 | [136412-pokemon-fr-advanced-challenge.json](./136412-pokemon-fr-advanced-challenge.json) |
