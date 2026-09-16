@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Californication | 192403 | [192403-californication.json](./192403-californication.json) |
 | Californium | 18351 | [18351-californium.json](./18351-californium.json) |
 | Calipso | 39610 | [39610-calipso.json](./39610-calipso.json) |
+| Call Center | 287208 | [287208-call-center.json](./287208-call-center.json) |
 | Call Center Tycoon | 292311 | [292311-call-center-tycoon.json](./292311-call-center-tycoon.json) |
 | Call Each New Year | 104082 | [104082-call-each-new-year.json](./104082-call-each-new-year.json) |
 | Call From the Darkness | 337465 | [337465-call-from-the-darkness.json](./337465-call-from-the-darkness.json) |
@@ -2071,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronescher | 203929 | [203929-chronescher.json](./203929-chronescher.json) |
 | Chronical | 276695 | [276695-chronical.json](./276695-chronical.json) |
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
+| Chronicle Survivors | 287198 | [287198-chronicle-survivors.json](./287198-chronicle-survivors.json) |
 | Chronicle: RuneScape Legends | 19433 | [19433-chronicle-runescape-legends.json](./19433-chronicle-runescape-legends.json) |
 | Chronicles IV: Ebonheim | 358852 | [358852-chronicles-iv-ebonheim.json](./358852-chronicles-iv-ebonheim.json) |
 | Chronicles of 2 Heroes: Amaterasu's Wrath | 191850 | [191850-chronicles-of-2-heroes-amaterasus-wrath.json](./191850-chronicles-of-2-heroes-amaterasus-wrath.json) |
@@ -3138,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combined_Arms Gaiden | 143117 | [143117-combined-arms-gaiden.json](./143117-combined-arms-gaiden.json) |
 | Combo Babies | 167811 | [167811-combo-babies.json](./167811-combo-babies.json) |
 | Combo Fishing | 340206 | [340206-combo-fishing.json](./340206-combo-fishing.json) |
+| Combo Haven | 287212 | [287212-combo-haven.json](./287212-combo-haven.json) |
 | Combo Quest 2 | 102768 | [102768-combo-quest-2.json](./102768-combo-quest-2.json) |
 | Combotronica | 373093 | [373093-combotronica.json](./373093-combotronica.json) |
 | Come Back: Chapter 1 | 120426 | [120426-come-back-chapter-1.json](./120426-come-back-chapter-1.json) |
@@ -3739,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
 | Cosmic Run | 348341 | [348341-cosmic-run.json](./348341-cosmic-run.json) |
 | Cosmic Scramble | 372589 | [372589-cosmic-scramble.json](./372589-cosmic-scramble.json) |
+| Cosmic Slime Defense | 287202 | [287202-cosmic-slime-defense.json](./287202-cosmic-slime-defense.json) |
 | Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
 | Cosmic Tank | 141200 | [141200-cosmic-tank.json](./141200-cosmic-tank.json) |
 | Cosmic Tankinator | 292548 | [292548-cosmic-tankinator.json](./292548-cosmic-tankinator.json) |
