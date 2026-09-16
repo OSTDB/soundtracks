@@ -1916,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapeu | 215108 | [215108-shapeu.json](./215108-shapeu.json) |
 | Shapey Heads | 120351 | [120351-shapey-heads.json](./120351-shapey-heads.json) |
 | Shapey Heads | 241989 | [241989-shapey-heads.json](./241989-shapey-heads.json) |
+| Shapez 2: Supporter Edition | 314519 | [314519-shapez-2-supporter-edition.json](./314519-shapez-2-supporter-edition.json) |
 | Shapik: The Quest | 211742 | [211742-shapik-the-quest.json](./211742-shapik-the-quest.json) |
 | Shapo | 84898 | [84898-shapo.json](./84898-shapo.json) |
 | Shapy Road | 244805 | [244805-shapy-road.json](./244805-shapy-road.json) |
@@ -3460,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlimeTrials | 185607 | [185607-slimetrials.json](./185607-slimetrials.json) |
 | Slimeward | 373084 | [373084-slimeward.json](./373084-slimeward.json) |
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
+| Slimey Climbey Chambers | 314462 | [314462-slimey-climbey-chambers.json](./314462-slimey-climbey-chambers.json) |
 | Slimoid | 185608 | [185608-slimoid.json](./185608-slimoid.json) |
 | Slimy | 181321 | [181321-slimy.json](./181321-slimy.json) |
 | Slimy Snail Ride | 106571 | [106571-slimy-snail-ride.json](./106571-slimy-snail-ride.json) |
@@ -4480,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Jump | 133940 | [133940-sonic-jump.json](./133940-sonic-jump.json) |
 | Sonic Jump 2 | 133941 | [133941-sonic-jump-2.json](./133941-sonic-jump-2.json) |
 | Sonic Kart 3DX | 261278 | [261278-sonic-kart-3dx.json](./261278-sonic-kart-3dx.json) |
+| Sonic Legacy | 314502 | [314502-sonic-legacy.json](./314502-sonic-legacy.json) |
 | Sonic Liola: Begins | 330704 | [330704-sonic-liola-begins.json](./330704-sonic-liola-begins.json) |
 | Sonic Lost Adventure | 330302 | [330302-sonic-lost-adventure.json](./330302-sonic-lost-adventure.json) |
 | Sonic Lost World: Deadly Six Edition | 386277 | [386277-sonic-lost-world-deadly-six-edition.json](./386277-sonic-lost-world-deadly-six-edition.json) |
@@ -5802,6 +5805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Sports Illustrated: Championship Football & Baseball | 273410 | [273410-sports-illustrated-championship-football-and-baseball.json](./273410-sports-illustrated-championship-football-and-baseball.json) |
 | Sports Party | 110057 | [110057-sports-party.json](./110057-sports-party.json) |
+| Sports: Renovations | 314456 | [314456-sports-renovations.json](./314456-sports-renovations.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
