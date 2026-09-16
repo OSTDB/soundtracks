@@ -3994,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Valley: Panoramic Edition | 203331 | [203331-monument-valley-panoramic-edition.json](./203331-monument-valley-panoramic-edition.json) |
 | Monument: Ultimate Edition | 317249 | [317249-monument-ultimate-edition.json](./317249-monument-ultimate-edition.json) |
 | Monuments of Mars 2 | 300404 | [300404-monuments-of-mars-2.json](./300404-monuments-of-mars-2.json) |
+| Moo & Move | 316805 | [316805-moo-and-move.json](./316805-moo-and-move.json) |
 | Moo & Move: Extra Grazing Grounds | 328251 | [328251-moo-and-move-extra-grazing-grounds.json](./328251-moo-and-move-extra-grazing-grounds.json) |
 | Moo at the Moon | 71542 | [71542-moo-at-the-moon.json](./71542-moo-at-the-moon.json) |
 | Moo Who | 415097 | [415097-moo-who.json](./415097-moo-who.json) |
@@ -4922,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Empire | 149590 | [149590-my-empire.json](./149590-my-empire.json) |
 | My English Coach: Para Hispanoparlantes | 82064 | [82064-my-english-coach-para-hispanoparlantes.json](./82064-my-english-coach-para-hispanoparlantes.json) |
 | My Escort Company | 215916 | [215916-my-escort-company.json](./215916-my-escort-company.json) |
+| My European Trucking Skills | 316856 | [316856-my-european-trucking-skills.json](./316856-my-european-trucking-skills.json) |
 | My Everyday Life at Insect Academy | 364529 | [364529-my-everyday-life-at-insect-academy.json](./364529-my-everyday-life-at-insect-academy.json) |
 | My evil magician boss suddenly loves me?! | 385053 | [385053-my-evil-magician-boss-suddenly-loves-me.json](./385053-my-evil-magician-boss-suddenly-loves-me.json) |
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
@@ -5075,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Riding Stables 2: A New Adventure | 140008 | [140008-my-riding-stables-2-a-new-adventure.json](./140008-my-riding-stables-2-a-new-adventure.json) |
 | My Riding Stables: Life with Horses 2 | 109770 | [109770-my-riding-stables-life-with-horses-2.json](./109770-my-riding-stables-life-with-horses-2.json) |
 | My Rusty Submarine: New Waters | 358291 | [358291-my-rusty-submarine-new-waters.json](./358291-my-rusty-submarine-new-waters.json) |
+| My RV Skills | 316857 | [316857-my-rv-skills.json](./316857-my-rv-skills.json) |
 | My Sacred Shrine Maiden | 226420 | [226420-my-sacred-shrine-maiden.json](./226420-my-sacred-shrine-maiden.json) |
 | My Sail and My Sea | 133465 | [133465-my-sail-and-my-sea.json](./133465-my-sail-and-my-sea.json) |
 | My SameGame | 64433 | [64433-my-samegame.json](./64433-my-samegame.json) |
@@ -5162,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
 | My Trainer is a Futanari | 207328 | [207328-my-trainer-is-a-futanari.json](./207328-my-trainer-is-a-futanari.json) |
 | My Tribe 3D | 223991 | [223991-my-tribe-3d.json](./223991-my-tribe-3d.json) |
+| My U.S. Trucking Skills | 316855 | [316855-my-u-s-trucking-skills.json](./316855-my-u-s-trucking-skills.json) |
 | My Universe: My Baby - New Edition | 170028 | [170028-my-universe-my-baby-new-edition.json](./170028-my-universe-my-baby-new-edition.json) |
 | My Universe: Pets Edition | 221949 | [221949-my-universe-pets-edition.json](./221949-my-universe-pets-edition.json) |
 | My UnReal Pet | 158705 | [158705-my-unreal-pet.json](./158705-my-unreal-pet.json) |
