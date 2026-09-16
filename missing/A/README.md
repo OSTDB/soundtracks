@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alkimya: House of Wisdom | 415155 | [415155-alkimya-house-of-wisdom.json](./415155-alkimya-house-of-wisdom.json) |
 | All Aboard! The Train Defense Express | 337454 | [337454-all-aboard-the-train-defense-express.json](./337454-all-aboard-the-train-defense-express.json) |
 | All About America | 14245 | [14245-all-about-america.json](./14245-all-about-america.json) |
+| All About Maze | 326237 | [326237-all-about-maze.json](./326237-all-about-maze.json) |
 | All About The High Score | 276202 | [276202-all-about-the-high-score.json](./276202-all-about-the-high-score.json) |
 | All Abug! | 334745 | [334745-all-abug.json](./334745-all-abug.json) |
 | All Alone | 307276 | [307276-all-alone.json](./307276-all-alone.json) |
@@ -1263,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allan Poe's Nightmare | 112315 | [112315-allan-poes-nightmare.json](./112315-allan-poes-nightmare.json) |
 | AllBoomGame | 198489 | [198489-allboomgame.json](./198489-allboomgame.json) |
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
+| Alleviate | 326274 | [326274-alleviate.json](./326274-alleviate.json) |
 | Alley Cats | 206108 | [206108-alley-cats.json](./206108-alley-cats.json) |
 | Alley Master | 40243 | [40243-alley-master.json](./40243-alley-master.json) |
 | Alley Oops | 79283 | [79283-alley-oops.json](./79283-alley-oops.json) |
@@ -1728,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andarigas | 132767 | [132767-andarigas.json](./132767-andarigas.json) |
 | Andarilho | 33289 | [33289-andarilho.json](./33289-andarilho.json) |
 | AnderKant | 367493 | [367493-anderkant.json](./367493-anderkant.json) |
+| AnderKant 2 | 326243 | [326243-anderkant-2.json](./326243-anderkant-2.json) |
 | AnderKant 4 | 339935 | [339935-anderkant-4.json](./339935-anderkant-4.json) |
 | Andi-Land | 84203 | [84203-andi-land.json](./84203-andi-land.json) |
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
@@ -3595,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrocity: Field of Hands | 75137 | [75137-atrocity-field-of-hands.json](./75137-atrocity-field-of-hands.json) |
 | Atrofil: The Key | 127243 | [127243-atrofil-the-key.json](./127243-atrofil-the-key.json) |
 | Atrophia: Diseased Lands | 401026 | [401026-atrophia-diseased-lands.json](./401026-atrophia-diseased-lands.json) |
+| Atropos | 326240 | [326240-atropos.json](./326240-atropos.json) |
 | Attack Animal Gakuen | 48601 | [48601-attack-animal-gakuen.json](./48601-attack-animal-gakuen.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
 | Attack Force | 143056 | [143056-attack-force.json](./143056-attack-force.json) |
@@ -3719,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AutoDemo Levels in SADX | 198544 | [198544-autodemo-levels-in-sadx.json](./198544-autodemo-levels-in-sadx.json) |
 | Autoescuela Aprueba Conmigo | 86072 | [86072-autoescuela-aprueba-conmigo.json](./86072-autoescuela-aprueba-conmigo.json) |
 | AutoForge | 257105 | [257105-autoforge.json](./257105-autoforge.json) |
+| Autogiro | 326251 | [326251-autogiro.json](./326251-autogiro.json) |
 | Autograv | 288194 | [288194-autograv.json](./288194-autograv.json) |
 | AutoGuessr | 331319 | [331319-autoguessr.json](./331319-autoguessr.json) |
 | AutoHeroes | 248883 | [248883-autoheroes.json](./248883-autoheroes.json) |
