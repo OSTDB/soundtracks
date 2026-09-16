@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Star Trader PC-8801mkIISR | 314867 | [314867-eggconsole-star-trader-pc-8801mkiisr.json](./314867-eggconsole-star-trader-pc-8801mkiisr.json) |
 | Eggconsole The Legend of Heroes Saga PC-8801 | 334093 | [334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json](./334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json) |
 | Eggconsole Topple Zip PC-8801 | 306531 | [306531-eggconsole-topple-zip-pc-8801.json](./306531-eggconsole-topple-zip-pc-8801.json) |
+| Eggconsole Wanderers From Ys PC-8801mkIISR | 300861 | [300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json](./300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json) |
 | Eggconsole Xak PC-8801mkIISR | 292867 | [292867-eggconsole-xak-pc-8801mkiisr.json](./292867-eggconsole-xak-pc-8801mkiisr.json) |
 | Eggconsole Xanadu MSX | 378796 | [378796-eggconsole-xanadu-msx.json](./378796-eggconsole-xanadu-msx.json) |
 | Eggconsole Xanadu Scenario II PC-8801mkIISR | 314859 | [314859-eggconsole-xanadu-scenario-ii-pc-8801mkiisr.json](./314859-eggconsole-xanadu-scenario-ii-pc-8801mkiisr.json) |
@@ -1976,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exposed Reality | 70375 | [70375-exposed-reality.json](./70375-exposed-reality.json) |
 | Exposure | 362267 | [362267-exposure.json](./362267-exposure.json) |
 | Exposure Office Simulator | 309892 | [309892-exposure-office-simulator.json](./309892-exposure-office-simulator.json) |
+| Express Courier Pro: Urban Bike Delivery Simulator 2024! | 300862 | [300862-express-courier-pro-urban-bike-delivery-simulator-2024.json](./300862-express-courier-pro-urban-bike-delivery-simulator-2024.json) |
 | EXS1 EthnologySister: Cultural functionalism | 166171 | [166171-exs1-ethnologysister-cultural-functionalism.json](./166171-exs1-ethnologysister-cultural-functionalism.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Exterminate Zombies: Get Paid | 215930 | [215930-exterminate-zombies-get-paid.json](./215930-exterminate-zombies-get-paid.json) |
