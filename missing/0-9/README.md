@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Witch Cats | 347751 | [347751-100-witch-cats.json](./347751-100-witch-cats.json) |
 | 100 Women: Guess the Name of 100 Famous Women | 369054 | [369054-100-women-guess-the-name-of-100-famous-women.json](./369054-100-women-guess-the-name-of-100-famous-women.json) |
 | 100 Years' War | 96687 | [96687-100-years-war.json](./96687-100-years-war.json) |
+| 100-oku-hiki no Mona | 297640 | [297640-100-oku-hiki-no-mona.json](./297640-100-oku-hiki-no-mona.json) |
 | 100% Complete | 413678 | [413678-100-complete.json](./413678-100-complete.json) |
 | 100% Orange Juice | 11426 | [11426-100-orange-juice.json](./11426-100-orange-juice.json) |
 | 100% Orange Juice: Alicianrone & Teotoratta | 164469 | [164469-100-orange-juice-alicianrone-and-teotoratta.json](./164469-100-orange-juice-alicianrone-and-teotoratta.json) |
@@ -170,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Heads Among the Trees | 34360 | [34360-1000-heads-among-the-trees.json](./34360-1000-heads-among-the-trees.json) |
 | 1000 Hidden Snails | 203391 | [203391-1000-hidden-snails.json](./203391-1000-hidden-snails.json) |
 | 1000 Light-Years Away | 293938 | [293938-1000-light-years-away.json](./293938-1000-light-years-away.json) |
+| 1000 of Single Stroke | 297641 | [297641-1000-of-single-stroke.json](./297641-1000-of-single-stroke.json) |
 | 1000 Score: 2D Platformer | 389990 | [389990-1000-score-2d-platformer.json](./389990-1000-score-2d-platformer.json) |
 | 1000 Stages | 105308 | [105308-1000-stages.json](./105308-1000-stages.json) |
 | 1000: The All-Mother's Embrace | 326044 | [326044-1000-the-all-mothers-embrace.json](./326044-1000-the-all-mothers-embrace.json) |
