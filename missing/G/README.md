@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Gardener | 377587 | [377587-galactic-gardener.json](./377587-galactic-gardener.json) |
 | Galactic Gladiators | 186342 | [186342-galactic-gladiators.json](./186342-galactic-gladiators.json) |
 | Galactic Gladiators | 22488 | [22488-galactic-gladiators.json](./22488-galactic-gladiators.json) |
+| Galactic Guardian | 316807 | [316807-galactic-guardian.json](./316807-galactic-guardian.json) |
 | Galactic Gym: Fitness Center Management | 199610 | [199610-galactic-gym-fitness-center-management.json](./199610-galactic-gym-fitness-center-management.json) |
 | Galactic Harvester | 75905 | [75905-galactic-harvester.json](./75905-galactic-harvester.json) |
 | Galactic Invasion | 187502 | [187502-galactic-invasion.json](./187502-galactic-invasion.json) |
@@ -245,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
 | Galerians: Limited Edition | 146856 | [146856-galerians-limited-edition.json](./146856-galerians-limited-edition.json) |
 | Galga | 227882 | [227882-galga.json](./227882-galga.json) |
+| Galidor: Defenders of the Outer Dimension | 316808 | [316808-galidor-defenders-of-the-outer-dimension.json](./316808-galidor-defenders-of-the-outer-dimension.json) |
 | Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
 | Gallagant | 287652 | [287652-gallagant.json](./287652-gallagant.json) |
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
@@ -2592,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfight Arena | 373003 | [373003-gunfight-arena.json](./373003-gunfight-arena.json) |
 | Gunfighter | 347675 | [347675-gunfighter.json](./347675-gunfighter.json) |
 | Gunfighter | 95448 | [95448-gunfighter.json](./95448-gunfighter.json) |
+| Gunfire Reborn: Realm of Frost and Inkwash | 316833 | [316833-gunfire-reborn-realm-of-frost-and-inkwash.json](./316833-gunfire-reborn-realm-of-frost-and-inkwash.json) |
 | Gunfire Reborn: Visitors of Spirit Realm | 213979 | [213979-gunfire-reborn-visitors-of-spirit-realm.json](./213979-gunfire-reborn-visitors-of-spirit-realm.json) |
 | GunFleet | 30023 | [30023-gunfleet.json](./30023-gunfleet.json) |
 | Gunfright | 14102 | [14102-gunfright.json](./14102-gunfright.json) |
