@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War In Zone | 408053 | [408053-war-in-zone.json](./408053-war-in-zone.json) |
 | War is Heck Collection | 53883 | [53883-war-is-heck-collection.json](./53883-war-is-heck-collection.json) |
 | War Islands | 133376 | [133376-war-islands.json](./133376-war-islands.json) |
+| War Lords | 323323 | [323323-war-lords.json](./323323-war-lords.json) |
 | War Lords | 377155 | [377155-war-lords.json](./377155-war-lords.json) |
 | War Machine | 93015 | [93015-war-machine.json](./93015-war-machine.json) |
 | War Never Changes | 333590 | [333590-war-never-changes.json](./333590-war-never-changes.json) |
@@ -245,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Genesis III | 76613 | [76613-war-of-genesis-iii.json](./76613-war-of-genesis-iii.json) |
 | War of Gods Athena | 273640 | [273640-war-of-gods-athena.json](./273640-war-of-gods-athena.json) |
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
+| War of Nations | 323324 | [323324-war-of-nations.json](./323324-war-of-nations.json) |
 | War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
 | War of the Human Tanks - Complete Collection | 53884 | [53884-war-of-the-human-tanks-complete-collection.json](./53884-war-of-the-human-tanks-complete-collection.json) |
@@ -781,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird creatures | 30779 | [30779-weird-creatures.json](./30779-weird-creatures.json) |
 | Weird Dreams | 12232 | [12232-weird-dreams.json](./12232-weird-dreams.json) |
 | Weird Hat Fight | 201804 | [201804-weird-hat-fight.json](./201804-weird-hat-fight.json) |
+| Weird Pizza Dreams | 323344 | [323344-weird-pizza-dreams.json](./323344-weird-pizza-dreams.json) |
 | Weird Rituals in the Ancient Temples | 98403 | [98403-weird-rituals-in-the-ancient-temples.json](./98403-weird-rituals-in-the-ancient-temples.json) |
 | Weird Store | 252135 | [252135-weird-store.json](./252135-weird-store.json) |
 | Weird Water World | 409629 | [409629-weird-water-world.json](./409629-weird-water-world.json) |
@@ -856,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
 | West Sweety | 127019 | [127019-west-sweety.json](./127019-west-sweety.json) |
 | West Water | 196822 | [196822-west-water.json](./196822-west-water.json) |
+| Westbound: Perils Ranch | 323325 | [323325-westbound-perils-ranch.json](./323325-westbound-perils-ranch.json) |
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Westfall | 343252 | [343252-westfall.json](./343252-westfall.json) |
@@ -1877,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Game | 86915 | [86915-word-search-game.json](./86915-word-search-game.json) |
 | Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
 | Word Search Puzzle | 102213 | [102213-word-search-puzzle.json](./102213-word-search-puzzle.json) |
+| Word Search: Classic Game | 323326 | [323326-word-search-classic-game.json](./323326-word-search-classic-game.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
 | Word Soup | 23405 | [23405-word-soup.json](./23405-word-soup.json) |
 | Word Spinner | 71546 | [71546-word-spinner.json](./71546-word-spinner.json) |
@@ -1915,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
 | Wordless Forest | 413778 | [413778-wordless-forest.json](./413778-wordless-forest.json) |
 | Wordlike | 326808 | [326808-wordlike.json](./326808-wordlike.json) |
+| Wordly | 323327 | [323327-wordly.json](./323327-wordly.json) |
 | WordMaster | 207524 | [207524-wordmaster.json](./207524-wordmaster.json) |
 | Words | 197391 | [197391-words.json](./197391-words.json) |
 | Words Collide | 254165 | [254165-words-collide.json](./254165-words-collide.json) |
