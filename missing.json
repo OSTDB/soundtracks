@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T02:11:39.354Z",
-  "total_missing": 76212,
+  "generated_at": "2026-09-16T02:18:32.329Z",
+  "total_missing": 76262,
   "games": [
     {
       "igdb_id": 306086,
@@ -3596,6 +3596,11 @@
       "igdb_id": 52563,
       "game_name": "A Show of Hands",
       "file": "missing/A/52563-a-show-of-hands.json"
+    },
+    {
+      "igdb_id": 329705,
+      "game_name": "A Simple Garbage Sorting Game",
+      "file": "missing/A/329705-a-simple-garbage-sorting-game.json"
     },
     {
       "igdb_id": 339915,
@@ -9806,6 +9811,11 @@
       "igdb_id": 333075,
       "game_name": "Am I Live",
       "file": "missing/A/333075-am-i-live.json"
+    },
+    {
+      "igdb_id": 329692,
+      "game_name": "Am I Nima",
+      "file": "missing/A/329692-am-i-nima.json"
     },
     {
       "igdb_id": 173287,
@@ -21123,6 +21133,11 @@
       "file": "missing/A/66985-aura-aura-climber.json"
     },
     {
+      "igdb_id": 329698,
+      "game_name": "Aura Farmers",
+      "file": "missing/A/329698-aura-farmers.json"
+    },
+    {
       "igdb_id": 8746,
       "game_name": "Aura Kingdom",
       "file": "missing/A/8746-aura-kingdom.json"
@@ -25738,14 +25753,79 @@
       "file": "missing/B/140557-barcode-warriors.json"
     },
     {
+      "igdb_id": 329746,
+      "game_name": "Barcode World Senyou Card: Barrier Rod",
+      "file": "missing/B/329746-barcode-world-senyou-card-barrier-rod.json"
+    },
+    {
+      "igdb_id": 329737,
+      "game_name": "Barcode World Senyou Card: Carry (Dead Zone)",
+      "file": "missing/B/329737-barcode-world-senyou-card-carry-dead-zone.json"
+    },
+    {
+      "igdb_id": 329721,
+      "game_name": "Barcode World Senyou Card: Hebe",
+      "file": "missing/B/329721-barcode-world-senyou-card-hebe.json"
+    },
+    {
       "igdb_id": 329748,
       "game_name": "Barcode World Senyou Card: Hebe no Boushi",
       "file": "missing/B/329748-barcode-world-senyou-card-hebe-no-boushi.json"
     },
     {
+      "igdb_id": 329739,
+      "game_name": "Barcode World Senyou Card: Jennifer",
+      "file": "missing/B/329739-barcode-world-senyou-card-jennifer.json"
+    },
+    {
+      "igdb_id": 329738,
+      "game_name": "Barcode World Senyou Card: Kane Gardner (Chou Wakusei Senki MetaFight)",
+      "file": "missing/B/329738-barcode-world-senyou-card-kane-gardner-chou-wakusei-senki-metafight.json"
+    },
+    {
+      "igdb_id": 329744,
+      "game_name": "Barcode World Senyou Card: Kikanjuu",
+      "file": "missing/B/329744-barcode-world-senyou-card-kikanjuu.json"
+    },
+    {
+      "igdb_id": 329740,
+      "game_name": "Barcode World Senyou Card: Lucia (Madoola no Tsubasa)",
+      "file": "missing/B/329740-barcode-world-senyou-card-lucia-madoola-no-tsubasa.json"
+    },
+    {
+      "igdb_id": 329751,
+      "game_name": "Barcode World Senyou Card: Neko no Kigurumi",
+      "file": "missing/B/329751-barcode-world-senyou-card-neko-no-kigurumi.json"
+    },
+    {
+      "igdb_id": 329745,
+      "game_name": "Barcode World Senyou Card: Nitro Gun",
+      "file": "missing/B/329745-barcode-world-senyou-card-nitro-gun.json"
+    },
+    {
+      "igdb_id": 329723,
+      "game_name": "Barcode World Senyou Card: O-chan",
+      "file": "missing/B/329723-barcode-world-senyou-card-o-chan.json"
+    },
+    {
+      "igdb_id": 329743,
+      "game_name": "Barcode World Senyou Card: Popoon",
+      "file": "missing/B/329743-barcode-world-senyou-card-popoon.json"
+    },
+    {
+      "igdb_id": 329742,
+      "game_name": "Barcode World Senyou Card: Sukezaemon",
+      "file": "missing/B/329742-barcode-world-senyou-card-sukezaemon.json"
+    },
+    {
       "igdb_id": 329747,
       "game_name": "Barcode World Senyou Card: Vinyl no Katana",
       "file": "missing/B/329747-barcode-world-senyou-card-vinyl-no-katana.json"
+    },
+    {
+      "igdb_id": 329741,
+      "game_name": "Barcode World Senyou Card: Yumetaro & Ohagi (Gimmick)",
+      "file": "missing/B/329741-barcode-world-senyou-card-yumetaro-and-ohagi-gimmick.json"
     },
     {
       "igdb_id": 36094,
@@ -42053,6 +42133,11 @@
       "file": "missing/B/116514-brood.json"
     },
     {
+      "igdb_id": 329696,
+      "game_name": "Brookwood: Pocket Tactics",
+      "file": "missing/B/329696-brookwood-pocket-tactics.json"
+    },
+    {
       "igdb_id": 405525,
       "game_name": "Broom Racer",
       "file": "missing/B/405525-broom-racer.json"
@@ -47971,6 +48056,11 @@
       "igdb_id": 318977,
       "game_name": "Carnage Kart X",
       "file": "missing/C/318977-carnage-kart-x.json"
+    },
+    {
+      "igdb_id": 329693,
+      "game_name": "Carnal Sins: Malum Incarnatum + Carne Vescens",
+      "file": "missing/C/329693-carnal-sins-malum-incarnatum-carne-vescens.json"
     },
     {
       "igdb_id": 360007,
@@ -57871,6 +57961,11 @@
       "igdb_id": 263194,
       "game_name": "Cobra Kai 2: Dojos Rising Nemesis Pack",
       "file": "missing/C/263194-cobra-kai-2-dojos-rising-nemesis-pack.json"
+    },
+    {
+      "igdb_id": 329722,
+      "game_name": "Coca-Cola Lawnmower",
+      "file": "missing/C/329722-coca-cola-lawnmower.json"
     },
     {
       "igdb_id": 382750,
@@ -105948,6 +106043,11 @@
       "file": "missing/F/317832-fatal-fury-city-of-the-wolves-chun-li.json"
     },
     {
+      "igdb_id": 329713,
+      "game_name": "Fatal Fury: City of the Wolves - Deluxe Edition",
+      "file": "missing/F/329713-fatal-fury-city-of-the-wolves-deluxe-edition.json"
+    },
+    {
       "igdb_id": 317831,
       "game_name": "Fatal Fury: City of the Wolves - Ken",
       "file": "missing/F/317831-fatal-fury-city-of-the-wolves-ken.json"
@@ -126643,6 +126743,11 @@
       "file": "missing/G/178012-going-down-in-fishstory.json"
     },
     {
+      "igdb_id": 329727,
+      "game_name": "Going for Nuts",
+      "file": "missing/G/329727-going-for-nuts.json"
+    },
+    {
       "igdb_id": 205577,
       "game_name": "Going Into the Unknown",
       "file": "missing/G/205577-going-into-the-unknown.json"
@@ -128806,6 +128911,11 @@
       "igdb_id": 3262,
       "game_name": "Grand Theft Auto: Vice City Stories",
       "file": "missing/G/3262-grand-theft-auto-vice-city-stories.json"
+    },
+    {
+      "igdb_id": 329720,
+      "game_name": "Grand Theft Bubble",
+      "file": "missing/G/329720-grand-theft-bubble.json"
     },
     {
       "igdb_id": 193441,
@@ -157323,6 +157433,66 @@
       "file": "missing/J/3520-j-league-eleven-beat-1997.json"
     },
     {
+      "igdb_id": 329706,
+      "game_name": "J.League Excite Stage '94: AS Flügels",
+      "file": "missing/J/329706-j-league-excite-stage-94-as-flugels.json"
+    },
+    {
+      "igdb_id": 329709,
+      "game_name": "J.League Excite Stage '94: Bellmare",
+      "file": "missing/J/329709-j-league-excite-stage-94-bellmare.json"
+    },
+    {
+      "igdb_id": 329702,
+      "game_name": "J.League Excite Stage '94: JEF United",
+      "file": "missing/J/329702-j-league-excite-stage-94-jef-united.json"
+    },
+    {
+      "igdb_id": 329701,
+      "game_name": "J.League Excite Stage '94: Júbilo Iwata",
+      "file": "missing/J/329701-j-league-excite-stage-94-jubilo-iwata.json"
+    },
+    {
+      "igdb_id": 329711,
+      "game_name": "J.League Excite Stage '94: Kashima Antlers",
+      "file": "missing/J/329711-j-league-excite-stage-94-kashima-antlers.json"
+    },
+    {
+      "igdb_id": 329710,
+      "game_name": "J.League Excite Stage '94: Nagoya Grampus Eight",
+      "file": "missing/J/329710-j-league-excite-stage-94-nagoya-grampus-eight.json"
+    },
+    {
+      "igdb_id": 329704,
+      "game_name": "J.League Excite Stage '94: Nissan F.C. Yokohama Marinos",
+      "file": "missing/J/329704-j-league-excite-stage-94-nissan-f-c-yokohama-marinos.json"
+    },
+    {
+      "igdb_id": 329707,
+      "game_name": "J.League Excite Stage '94: Panasonic Gamba Osaka",
+      "file": "missing/J/329707-j-league-excite-stage-94-panasonic-gamba-osaka.json"
+    },
+    {
+      "igdb_id": 329708,
+      "game_name": "J.League Excite Stage '94: Red Diamonds",
+      "file": "missing/J/329708-j-league-excite-stage-94-red-diamonds.json"
+    },
+    {
+      "igdb_id": 329703,
+      "game_name": "J.League Excite Stage '94: Sanfreece Hiroshima FC",
+      "file": "missing/J/329703-j-league-excite-stage-94-sanfreece-hiroshima-fc.json"
+    },
+    {
+      "igdb_id": 329712,
+      "game_name": "J.League Excite Stage '94: Shimizu S-Pulse",
+      "file": "missing/J/329712-j-league-excite-stage-94-shimizu-s-pulse.json"
+    },
+    {
+      "igdb_id": 329700,
+      "game_name": "J.League Excite Stage '94: Verdy Yomiuri",
+      "file": "missing/J/329700-j-league-excite-stage-94-verdy-yomiuri.json"
+    },
+    {
       "igdb_id": 42657,
       "game_name": "J.League Excite Stage '96",
       "file": "missing/J/42657-j-league-excite-stage-96.json"
@@ -159471,6 +159641,11 @@
       "igdb_id": 164964,
       "game_name": "Jiguland",
       "file": "missing/J/164964-jiguland.json"
+    },
+    {
+      "igdb_id": 329715,
+      "game_name": "Jiji...Love",
+      "file": "missing/J/329715-jiji-love.json"
     },
     {
       "igdb_id": 41321,
@@ -165681,6 +165856,36 @@
       "igdb_id": 124804,
       "game_name": "Kindred Spirits on the Roof: Full Chorus",
       "file": "missing/K/124804-kindred-spirits-on-the-roof-full-chorus.json"
+    },
+    {
+      "igdb_id": 329731,
+      "game_name": "Kinect Fun Labs: Air Band",
+      "file": "missing/K/329731-kinect-fun-labs-air-band.json"
+    },
+    {
+      "igdb_id": 329734,
+      "game_name": "Kinect Fun Labs: I Am Super!",
+      "file": "missing/K/329734-kinect-fun-labs-i-am-super.json"
+    },
+    {
+      "igdb_id": 329729,
+      "game_name": "Kinect Fun Labs: Kinect Googly Eyes",
+      "file": "missing/K/329729-kinect-fun-labs-kinect-googly-eyes.json"
+    },
+    {
+      "igdb_id": 329735,
+      "game_name": "Kinect Fun Labs: Kinect Rush Snapshot",
+      "file": "missing/K/329735-kinect-fun-labs-kinect-rush-snapshot.json"
+    },
+    {
+      "igdb_id": 329730,
+      "game_name": "Kinect Fun Labs: Kinect Sparkler",
+      "file": "missing/K/329730-kinect-fun-labs-kinect-sparkler.json"
+    },
+    {
+      "igdb_id": 329732,
+      "game_name": "Kinect Fun Labs: Mutation Station",
+      "file": "missing/K/329732-kinect-fun-labs-mutation-station.json"
     },
     {
       "igdb_id": 20238,
@@ -176838,6 +177043,11 @@
       "file": "missing/L/333951-little-library.json"
     },
     {
+      "igdb_id": 329694,
+      "game_name": "Little Lighthouse of Horror",
+      "file": "missing/L/329694-little-lighthouse-of-horror.json"
+    },
+    {
       "igdb_id": 149097,
       "game_name": "Little Lives",
       "file": "missing/L/149097-little-lives.json"
@@ -187103,6 +187313,11 @@
       "file": "missing/M/381729-marioquest-2-sonic-returns.json"
     },
     {
+      "igdb_id": 329719,
+      "game_name": "Mariostro Strikers: Soccer League",
+      "file": "missing/M/329719-mariostro-strikers-soccer-league.json"
+    },
+    {
       "igdb_id": 395588,
       "game_name": "Mariposa",
       "file": "missing/M/395588-mariposa.json"
@@ -189491,6 +189706,11 @@
       "igdb_id": 414417,
       "game_name": "Maze of Doors",
       "file": "missing/M/414417-maze-of-doors.json"
+    },
+    {
+      "igdb_id": 329726,
+      "game_name": "Maze of Mayhem",
+      "file": "missing/M/329726-maze-of-mayhem.json"
     },
     {
       "igdb_id": 297510,
@@ -199611,6 +199831,11 @@
       "igdb_id": 333389,
       "game_name": "Mole: Great Adventure",
       "file": "missing/M/333389-mole-great-adventure.json"
+    },
+    {
+      "igdb_id": 329728,
+      "game_name": "Mole's Quest",
+      "file": "missing/M/329728-moles-quest.json"
     },
     {
       "igdb_id": 245050,
@@ -211688,6 +211913,11 @@
       "file": "missing/N/99597-neon-spaceboard.json"
     },
     {
+      "igdb_id": 329750,
+      "game_name": "Neon Spellstorm",
+      "file": "missing/N/329750-neon-spellstorm.json"
+    },
+    {
       "igdb_id": 158211,
       "game_name": "Neon Struct: Carrion Carrier",
       "file": "missing/N/158211-neon-struct-carrion-carrier.json"
@@ -215681,6 +215911,11 @@
       "igdb_id": 287088,
       "game_name": "No Man's Sky: Omega",
       "file": "missing/N/287088-no-mans-sky-omega.json"
+    },
+    {
+      "igdb_id": 329714,
+      "game_name": "No Man's Sky: Worlds Part II",
+      "file": "missing/N/329714-no-mans-sky-worlds-part-ii.json"
     },
     {
       "igdb_id": 397678,
@@ -241568,6 +241803,11 @@
       "file": "missing/P/60582-powerama.json"
     },
     {
+      "igdb_id": 329697,
+      "game_name": "Powerball: Monster's Quest",
+      "file": "missing/P/329697-powerball-monsters-quest.json"
+    },
+    {
       "igdb_id": 349398,
       "game_name": "PowerCharge",
       "file": "missing/P/349398-powercharge.json"
@@ -244521,6 +244761,11 @@
       "igdb_id": 330291,
       "game_name": "Project Shadow",
       "file": "missing/P/330291-project-shadow.json"
+    },
+    {
+      "igdb_id": 329733,
+      "game_name": "Project Shikai",
+      "file": "missing/P/329733-project-shikai.json"
     },
     {
       "igdb_id": 212452,
@@ -354691,6 +354936,11 @@
       "igdb_id": 331345,
       "game_name": "Undercraft",
       "file": "missing/U/331345-undercraft.json"
+    },
+    {
+      "igdb_id": 329717,
+      "game_name": "Undercreator",
+      "file": "missing/U/329717-undercreator.json"
     },
     {
       "igdb_id": 89325,
