@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hasbro Family Game Night: Volume 2 | 23253 | [23253-hasbro-family-game-night-volume-2.json](./23253-hasbro-family-game-night-volume-2.json) |
 | Hasbro Game Night for Nintendo Switch | 110394 | [110394-hasbro-game-night-for-nintendo-switch.json](./110394-hasbro-game-night-for-nintendo-switch.json) |
 | Hash Line | 120402 | [120402-hash-line.json](./120402-hash-line.json) |
+| Hashire Hebereke: EX | 325670 | [325670-hashire-hebereke-ex.json](./325670-hashire-hebereke-ex.json) |
 | Hashiriya Drifter | 186282 | [186282-hashiriya-drifter.json](./186282-hashiriya-drifter.json) |
 | Hashtag Dungeon | 35942 | [35942-hashtag-dungeon.json](./35942-hashtag-dungeon.json) |
 | HassleHeart | 35732 | [35732-hassleheart.json](./35732-hassleheart.json) |
@@ -2230,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Tech VR | 29891 | [29891-home-tech-vr.json](./29891-home-tech-vr.json) |
 | Home trip | 262103 | [262103-home-trip.json](./262103-home-trip.json) |
 | Home Wars | 43334 | [43334-home-wars.json](./43334-home-wars.json) |
+| Home_0 | 325661 | [325661-home-0.json](./325661-home-0.json) |
 | Home: Boov Pop! | 344931 | [344931-home-boov-pop.json](./344931-home-boov-pop.json) |
 | Home: Mother | 305762 | [305762-home-mother.json](./305762-home-mother.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
