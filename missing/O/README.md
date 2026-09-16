@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orixo Hex | 232165 | [232165-orixo-hex.json](./232165-orixo-hex.json) |
 | Ork Manager: Coal & Top hats | 125400 | [125400-ork-manager-coal-and-top-hats.json](./125400-ork-manager-coal-and-top-hats.json) |
 | Orkicidium | 183516 | [183516-orkicidium.json](./183516-orkicidium.json) |
+| Orlando Theme Park VR | 292691 | [292691-orlando-theme-park-vr.json](./292691-orlando-theme-park-vr.json) |
 | Orly's Draw-A-Story | 60506 | [60506-orlys-draw-a-story.json](./60506-orlys-draw-a-story.json) |
 | Orna | 105733 | [105733-orna.json](./105733-orna.json) |
 | Orphan Black: The Game | 27724 | [27724-orphan-black-the-game.json](./27724-orphan-black-the-game.json) |
@@ -1258,6 +1259,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ou Dorobou Jing: Devil Version | 146341 | [146341-ou-dorobou-jing-devil-version.json](./146341-ou-dorobou-jing-devil-version.json) |
 | Ou-sama Game | 70906 | [70906-ou-sama-game.json](./70906-ou-sama-game.json) |
 | Oubey VR: Cosmic Voyage | 153421 | [153421-oubey-vr-cosmic-voyage.json](./153421-oubey-vr-cosmic-voyage.json) |
+| Oubey VR: Reise der Monaden | 292688 | [292688-oubey-vr-reise-der-monaden.json](./292688-oubey-vr-reise-der-monaden.json) |
+| Oubey VR: Samurai | 292693 | [292693-oubey-vr-samurai.json](./292693-oubey-vr-samurai.json) |
 | Oubliette | 2869 | [2869-oubliette.json](./2869-oubliette.json) |
 | Ouch! So Many Beauties! | 298602 | [298602-ouch-so-many-beauties.json](./298602-ouch-so-many-beauties.json) |
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
@@ -1508,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcursed | 176494 | [176494-overcursed.json](./176494-overcursed.json) |
 | Overdose | 337695 | [337695-overdose.json](./337695-overdose.json) |
 | OverDrift Festival: Exclusive Cars Pack #2 | 293403 | [293403-overdrift-festival-exclusive-cars-pack-2.json](./293403-overdrift-festival-exclusive-cars-pack-2.json) |
+| OverDrift Festival: Exclusive Cars Pack#1 | 292672 | [292672-overdrift-festival-exclusive-cars-pack-1.json](./292672-overdrift-festival-exclusive-cars-pack-1.json) |
 | Overdrive | 203565 | [203565-overdrive.json](./203565-overdrive.json) |
 | Overdrive II: Shadow Battle | 323169 | [323169-overdrive-ii-shadow-battle.json](./323169-overdrive-ii-shadow-battle.json) |
 | Overdungeon - Mr.Almighty (Card Pack) | 208372 | [208372-overdungeon-mr-almighty-card-pack.json](./208372-overdungeon-mr-almighty-card-pack.json) |
