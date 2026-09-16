@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DaGame | 146238 | [146238-dagame.json](./146238-dagame.json) |
 | Dagat-i Kal Kal Kal | 63262 | [63262-dagat-i-kal-kal-kal.json](./63262-dagat-i-kal-kal-kal.json) |
 | Dagger Woods VR | 333016 | [333016-dagger-woods-vr.json](./333016-dagger-woods-vr.json) |
+| Dah-Varsity | 304205 | [304205-dah-varsity.json](./304205-dah-varsity.json) |
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
 | Dahliphoria | 224768 | [224768-dahliphoria.json](./224768-dahliphoria.json) |
@@ -348,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Colors | 190235 | [190235-dark-colors.json](./190235-dark-colors.json) |
 | Dark Communion | 314283 | [314283-dark-communion.json](./314283-dark-communion.json) |
 | Dark Confrontation Chapter 1 | 337679 | [337679-dark-confrontation-chapter-1.json](./337679-dark-confrontation-chapter-1.json) |
+| Dark Continent: Mist | 304167 | [304167-dark-continent-mist.json](./304167-dark-continent-mist.json) |
 | Dark Day Afternoon | 140598 | [140598-dark-day-afternoon.json](./140598-dark-day-afternoon.json) |
 | Dark Days of Horror | 102181 | [102181-dark-days-of-horror.json](./102181-dark-days-of-horror.json) |
 | Dark Days: Zombie Survival | 197372 | [197372-dark-days-zombie-survival.json](./197372-dark-days-zombie-survival.json) |
@@ -1826,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
 | Destroy the Wall | 250938 | [250938-destroy-the-wall.json](./250938-destroy-the-wall.json) |
 | Destroy Your Home | 333531 | [333531-destroy-your-home.json](./333531-destroy-your-home.json) |
+| Destroyer 7800 | 304197 | [304197-destroyer-7800.json](./304197-destroyer-7800.json) |
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
 | Destruction Derby 64 | 10686 | [10686-destruction-derby-64.json](./10686-destruction-derby-64.json) |
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
@@ -2064,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
 | Dicey Dungeons | 102420 | [102420-dicey-dungeons.json](./102420-dicey-dungeons.json) |
 | Dicey Dungeons Reunion | 208403 | [208403-dicey-dungeons-reunion.json](./208403-dicey-dungeons-reunion.json) |
+| Dick and Dom's Hoopla! | 304208 | [304208-dick-and-doms-hoopla.json](./304208-dick-and-doms-hoopla.json) |
 | Dick Tracy | 13058 | [13058-dick-tracy.json](./13058-dick-tracy.json) |
 | Dick Tracy | 316832 | [316832-dick-tracy.json](./316832-dick-tracy.json) |
 | Dick Tracy | 316839 | [316839-dick-tracy.json](./316839-dick-tracy.json) |
@@ -2861,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Simp Club | 245885 | [245885-doki-simp-club.json](./245885-doki-simp-club.json) |
 | Doki x Doki Sasete!! | 202815 | [202815-doki-x-doki-sasete.json](./202815-doki-x-doki-sasete.json) |
 | Doki-Doki Pretty League: Nekketsu Otome Seishunki | 306674 | [306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json](./306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json) |
+| Doki: Chapter 0 | 304217 | [304217-doki-chapter-0.json](./304217-doki-chapter-0.json) |
 | Doki! Doki! Yuuenchi: Crazy Land Daisakusen | 48663 | [48663-doki-doki-yuuenchi-crazy-land-daisakusen.json](./48663-doki-doki-yuuenchi-crazy-land-daisakusen.json) |
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
 | Dokkaebi Hentai Adventures | 88073 | [88073-dokkaebi-hentai-adventures.json](./88073-dokkaebi-hentai-adventures.json) |
