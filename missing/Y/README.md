@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Y-Tiles | 58248 | [58248-y-tiles.json](./58248-y-tiles.json) |
+| Y.M.C.A. | 333632 | [333632-y-m-c-a.json](./333632-y-m-c-a.json) |
 | Y2K: The Game | 84208 | [84208-y2k-the-game.json](./84208-y2k-the-game.json) |
 | Y2Kthulhu | 185072 | [185072-y2kthulhu.json](./185072-y2kthulhu.json) |
 | Yaad | 289879 | [289879-yaad.json](./289879-yaad.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YASG | 122326 | [122326-yasg.json](./122326-yasg.json) |
 | Yasha: Legends of the Demon Blade - Deluxe Edition | 351139 | [351139-yasha-legends-of-the-demon-blade-deluxe-edition.json](./351139-yasha-legends-of-the-demon-blade-deluxe-edition.json) |
 | Yashi - Sand Driver | 411675 | [411675-yashi-sand-driver.json](./411675-yashi-sand-driver.json) |
+| Yasuke Simulator | 333626 | [333626-yasuke-simulator.json](./333626-yasuke-simulator.json) |
 | Yasuke: A Lost Descendant | 222915 | [222915-yasuke-a-lost-descendant.json](./222915-yasuke-a-lost-descendant.json) |
 | Yasumeru | 202344 | [202344-yasumeru.json](./202344-yasumeru.json) |
 | Yatsu Hakamura | 191868 | [191868-yatsu-hakamura.json](./191868-yatsu-hakamura.json) |
@@ -309,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yōulì: Yasashii Lìxiǎn | 394186 | [394186-youli-yasashii-lixian.json](./394186-youli-yasashii-lixian.json) |
 | Youmais | 64341 | [64341-youmais.json](./64341-youmais.json) |
 | Youmu's Cube Adventure | 365153 | [365153-youmus-cube-adventure.json](./365153-youmus-cube-adventure.json) |
+| Young Bird Endless Flight | 333526 | [333526-young-bird-endless-flight.json](./333526-young-bird-endless-flight.json) |
 | Young Detective | 196304 | [196304-young-detective.json](./196304-young-detective.json) |
 | Young Dilbert Hi-Tech Hijinks | 70332 | [70332-young-dilbert-hi-tech-hijinks.json](./70332-young-dilbert-hi-tech-hijinks.json) |
 | Young Justice Shadow Mission | 80565 | [80565-young-justice-shadow-mission.json](./80565-young-justice-shadow-mission.json) |
