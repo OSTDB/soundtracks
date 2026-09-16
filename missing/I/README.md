@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Dracula: License to Relax - Collector's Edition | 341025 | [341025-incredible-dracula-license-to-relax-collectors-edition.json](./341025-incredible-dracula-license-to-relax-collectors-edition.json) |
 | Incredible Dracula: The Last Call Collector's Edition | 53227 | [53227-incredible-dracula-the-last-call-collectors-edition.json](./53227-incredible-dracula-the-last-call-collectors-edition.json) |
 | Incredible Ink | 343924 | [343924-incredible-ink.json](./343924-incredible-ink.json) |
+| Incredibous Shells | 328060 | [328060-incredibous-shells.json](./328060-incredibous-shells.json) |
 | IncrediBubble | 328581 | [328581-incredibubble.json](./328581-incredibubble.json) |
 | Increlution | 158719 | [158719-increlution.json](./158719-increlution.json) |
 | Incremental Epic Breakers | 163968 | [163968-incremental-epic-breakers.json](./163968-incremental-epic-breakers.json) |
