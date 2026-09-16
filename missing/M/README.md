@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maplewood Junior High: Multimedia Rocks | 310953 | [310953-maplewood-junior-high-multimedia-rocks.json](./310953-maplewood-junior-high-multimedia-rocks.json) |
 | Maplus: Portable Navi | 59369 | [59369-maplus-portable-navi.json](./59369-maplus-portable-navi.json) |
 | Mappy | 2710 | [2710-mappy.json](./2710-mappy.json) |
+| Mappy | 293754 | [293754-mappy.json](./293754-mappy.json) |
 | Mappy | 313132 | [313132-mappy.json](./313132-mappy.json) |
 | Mappy Kids | 48625 | [48625-mappy-kids.json](./48625-mappy-kids.json) |
 | Maps 4Matt | 312897 | [312897-maps-4matt.json](./312897-maps-4matt.json) |
@@ -3109,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minelvaton Saga: Ragon no Fukkatsu | 48687 | [48687-minelvaton-saga-ragon-no-fukkatsu.json](./48687-minelvaton-saga-ragon-no-fukkatsu.json) |
 | Minemaze | 196281 | [196281-minemaze.json](./196281-minemaze.json) |
 | Miner 2019er | 416659 | [416659-miner-2019er.json](./416659-miner-2019er.json) |
+| Miner 2049er | 293746 | [293746-miner-2049er.json](./293746-miner-2049er.json) |
 | Miner 2049er | 345471 | [345471-miner-2049er.json](./345471-miner-2049er.json) |
 | Miner 2049er | 345472 | [345472-miner-2049er.json](./345472-miner-2049er.json) |
 | Miner 2049er | 345474 | [345474-miner-2049er.json](./345474-miner-2049er.json) |
@@ -4427,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Most Scuffed Golf | 409632 | [409632-most-scuffed-golf.json](./409632-most-scuffed-golf.json) |
 | Mostly Scared of Spiders | 115683 | [115683-mostly-scared-of-spiders.json](./115683-mostly-scared-of-spiders.json) |
 | Mot's 8-Ball Pool | 374166 | [374166-mots-8-ball-pool.json](./374166-mots-8-ball-pool.json) |
+| Mot's Grand Prix | 293749 | [293749-mots-grand-prix.json](./293749-mots-grand-prix.json) |
 | Motamo | 361768 | [361768-motamo.json](./361768-motamo.json) |
 | Motarium | 393480 | [393480-motarium.json](./393480-motarium.json) |
 | MOTAS: Magnum Opus - The Alchemist's Shadow | 313281 | [313281-motas-magnum-opus-the-alchemists-shadow.json](./313281-motas-magnum-opus-the-alchemists-shadow.json) |
