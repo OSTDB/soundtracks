@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Dot Game Heroes | 7265 | [7265-3d-dot-game-heroes.json](./7265-3d-dot-game-heroes.json) |
 | 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
 | 3D Driving School | 52544 | [52544-3d-driving-school.json](./52544-3d-driving-school.json) |
+| 3D Escape Room: Detective Story | 333064 | [333064-3d-escape-room-detective-story.json](./333064-3d-escape-room-detective-story.json) |
 | 3D Escape Room: Mystic Manor | 348853 | [348853-3d-escape-room-mystic-manor.json](./348853-3d-escape-room-mystic-manor.json) |
 | 3D Fantasy Zone II W | 86818 | [86818-3d-fantasy-zone-ii-w.json](./86818-3d-fantasy-zone-ii-w.json) |
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
