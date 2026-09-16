@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
 | Wildekin | 362280 | [362280-wildekin.json](./362280-wildekin.json) |
 | WilderLands | 382219 | [382219-wilderlands.json](./382219-wilderlands.json) |
+| Wilderless | 301964 | [301964-wilderless.json](./301964-wilderless.json) |
 | Wilderlocke | 356754 | [356754-wilderlocke.json](./356754-wilderlocke.json) |
 | Wildermyth | 83504 | [83504-wildermyth.json](./83504-wildermyth.json) |
 | Wilderness | 377146 | [377146-wilderness.json](./377146-wilderness.json) |
@@ -2265,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wound Man | 273385 | [273385-wound-man.json](./273385-wound-man.json) |
 | Wounds 4 Hard Medication | 181291 | [181291-wounds-4-hard-medication.json](./181291-wounds-4-hard-medication.json) |
 | Wove | 369024 | [369024-wove.json](./369024-wove.json) |
+| Woyo!! | 301958 | [301958-woyo.json](./301958-woyo.json) |
 | WpnFire | 345516 | [345516-wpnfire.json](./345516-wpnfire.json) |
 | Wracing | 385722 | [385722-wracing.json](./385722-wracing.json) |
 | Wrack | 5596 | [5596-wrack.json](./5596-wrack.json) |
