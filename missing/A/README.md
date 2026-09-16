@@ -594,7 +594,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent X | 23067 | [23067-agent-x.json](./23067-agent-x.json) |
 | Agents of Groove | 325644 | [325644-agents-of-groove.json](./325644-agents-of-groove.json) |
 | Agents of Mayhem: Lazarus Agent Pack | 169936 | [169936-agents-of-mayhem-lazarus-agent-pack.json](./169936-agents-of-mayhem-lazarus-agent-pack.json) |
-| Agents of SomeCompany | 253374 | [253374-agents-of-somecompany.json](./253374-agents-of-somecompany.json) |
 | Aggi's Tiny Friends | 344343 | [344343-aggis-tiny-friends.json](./344343-aggis-tiny-friends.json) |
 | Aggres | 406171 | [406171-aggres.json](./406171-aggres.json) |
 | Aggressor | 169956 | [169956-aggressor.json](./169956-aggressor.json) |
