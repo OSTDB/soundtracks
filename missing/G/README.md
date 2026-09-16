@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
 | Ghostrunner II | 250617 | [250617-ghostrunner-ii.json](./250617-ghostrunner-ii.json) |
 | Ghostrunner II: Anniversary Pack | 371319 | [371319-ghostrunner-ii-anniversary-pack.json](./371319-ghostrunner-ii-anniversary-pack.json) |
+| Ghostrunner II: Dragon Pack | 292679 | [292679-ghostrunner-ii-dragon-pack.json](./292679-ghostrunner-ii-dragon-pack.json) |
 | Ghostrunner II: Endless Moto Mode | 371318 | [371318-ghostrunner-ii-endless-moto-mode.json](./371318-ghostrunner-ii-endless-moto-mode.json) |
 | Ghosts | 306496 | [306496-ghosts.json](./306496-ghosts.json) |
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
