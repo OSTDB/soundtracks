@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Brothers: Blazing Deserts | 155069 | [155069-battle-brothers-blazing-deserts.json](./155069-battle-brothers-blazing-deserts.json) |
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
+| Battle Cats Quest | 299252 | [299252-battle-cats-quest.json](./299252-battle-cats-quest.json) |
 | Battle Charge | 211426 | [211426-battle-charge.json](./211426-battle-charge.json) |
 | Battle Chasers: Nightwar | 12511 | [12511-battle-chasers-nightwar.json](./12511-battle-chasers-nightwar.json) |
 | Battle Checkers: Infinity War | 193959 | [193959-battle-checkers-infinity-war.json](./193959-battle-checkers-infinity-war.json) |
@@ -3291,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonza Planet | 354445 | [354445-bonza-planet.json](./354445-bonza-planet.json) |
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
 | Bonzala | 269595 | [269595-bonzala.json](./269595-bonzala.json) |
+| Bonzo The Brave: Be Brave | 299269 | [299269-bonzo-the-brave-be-brave.json](./299269-bonzo-the-brave-be-brave.json) |
 | Boo Boo Booster | 343325 | [343325-boo-boo-booster.json](./343325-boo-boo-booster.json) |
 | Boo Breakers: The Ghostening | 30808 | [30808-boo-breakers-the-ghostening.json](./30808-boo-breakers-the-ghostening.json) |
 | Boo! Are you scared? | 329128 | [329128-boo-are-you-scared.json](./329128-boo-are-you-scared.json) |
