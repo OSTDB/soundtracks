@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banishers: Ghosts of New Eden - Wanderer Set DLC | 312879 | [312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json](./312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json) |
 | Banishing Racer | 7763 | [7763-banishing-racer.json](./7763-banishing-racer.json) |
 | Banja | 93537 | [93537-banja.json](./93537-banja.json) |
+| Banja Band | 293216 | [293216-banja-band.json](./293216-banja-band.json) |
 | Banjo X | 194643 | [194643-banjo-x.json](./194643-banjo-x.json) |
 | Banjo-Kazooie & The Quest for Cake | 294713 | [294713-banjo-kazooie-and-the-quest-for-cake.json](./294713-banjo-kazooie-and-the-quest-for-cake.json) |
 | Banjo-Kazooie New Horizons | 135260 | [135260-banjo-kazooie-new-horizons.json](./135260-banjo-kazooie-new-horizons.json) |
@@ -616,12 +617,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie for Girls Soccer | 245563 | [245563-barbie-for-girls-soccer.json](./245563-barbie-for-girls-soccer.json) |
 | Barbie for Girls Softball | 245562 | [245562-barbie-for-girls-softball.json](./245562-barbie-for-girls-softball.json) |
 | Barbie Girl | 260128 | [260128-barbie-girl.json](./260128-barbie-girl.json) |
+| Barbie in the 12 Dancing Princesses | 293194 | [293194-barbie-in-the-12-dancing-princesses.json](./293194-barbie-in-the-12-dancing-princesses.json) |
 | Barbie Pet Rescue | 19402 | [19402-barbie-pet-rescue.json](./19402-barbie-pet-rescue.json) |
 | Barbie Sparkle Blast | 97319 | [97319-barbie-sparkle-blast.json](./97319-barbie-sparkle-blast.json) |
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
 | Barbie: Explorer | 3314 | [3314-barbie-explorer.json](./3314-barbie-explorer.json) |
 | Barbie: Gotta Have Games | 43884 | [43884-barbie-gotta-have-games.json](./43884-barbie-gotta-have-games.json) |
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
+| Barbie: Let’s Make Music | 293198 | [293198-barbie-let-s-make-music.json](./293198-barbie-let-s-make-music.json) |
+| Barbie: Puppy Water Sliders | 293193 | [293193-barbie-puppy-water-sliders.json](./293193-barbie-puppy-water-sliders.json) |
+| Barbie: Shoe Hunt | 293197 | [293197-barbie-shoe-hunt.json](./293197-barbie-shoe-hunt.json) |
 | Barbie's Team Gymnastics | 59942 | [59942-barbies-team-gymnastics.json](./59942-barbies-team-gymnastics.json) |
 | Barboozeled | 214732 | [214732-barboozeled.json](./214732-barboozeled.json) |
 | Barbuta | 317573 | [317573-barbuta.json](./317573-barbuta.json) |
@@ -716,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
 | Barf Royale | 401510 | [401510-barf-royale.json](./401510-barf-royale.json) |
 | Barfy's Adventure | 413718 | [413718-barfys-adventure.json](./413718-barfys-adventure.json) |
+| Bargain Basement | 293251 | [293251-bargain-basement.json](./293251-bargain-basement.json) |
 | Bargain Blocz | 235745 | [235745-bargain-blocz.json](./235745-bargain-blocz.json) |
 | Bargain Hunter | 110350 | [110350-bargain-hunter.json](./110350-bargain-hunter.json) |
 | Bargain Platfomer | 220352 | [220352-bargain-platfomer.json](./220352-bargain-platfomer.json) |
@@ -2080,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo | 206142 | [206142-bingo.json](./206142-bingo.json) |
 | Bingo | 86064 | [86064-bingo.json](./86064-bingo.json) |
 | Bingo 75 | 22429 | [22429-bingo-75.json](./22429-bingo-75.json) |
+| Bingo Beavers | 293232 | [293232-bingo-beavers.json](./293232-bingo-beavers.json) |
 | Bingo Beavers: Kitchen | 298035 | [298035-bingo-beavers-kitchen.json](./298035-bingo-beavers-kitchen.json) |
 | Bingo Betty | 377081 | [377081-bingo-betty.json](./377081-bingo-betty.json) |
 | Bingo Blitz️ | 181306 | [181306-bingo-blitz.json](./181306-bingo-blitz.json) |
@@ -3257,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombing Quest | 129796 | [129796-bombing-quest.json](./129796-bombing-quest.json) |
 | Bombing Wonderful | 228712 | [228712-bombing-wonderful.json](./228712-bombing-wonderful.json) |
 | Bombing!!: A Graffiti Sandbox | 144933 | [144933-bombing-a-graffiti-sandbox.json](./144933-bombing-a-graffiti-sandbox.json) |
+| Bombo | 293252 | [293252-bombo.json](./293252-bombo.json) |
 | Bombo Rumble | 239683 | [239683-bombo-rumble.json](./239683-bombo-rumble.json) |
 | Bomboban | 386102 | [386102-bomboban.json](./386102-bomboban.json) |
 | Bomboras Forever | 58173 | [58173-bomboras-forever.json](./58173-bomboras-forever.json) |
@@ -4623,6 +4631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
 | But That Was [Yesterday] | 203353 | [203353-but-that-was-yesterday.json](./203353-but-that-was-yesterday.json) |
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
+| Butch: Hard Guy | 293250 | [293250-butch-hard-guy.json](./293250-butch-hard-guy.json) |
 | Butcher Life Simulator | 391582 | [391582-butcher-life-simulator.json](./391582-butcher-life-simulator.json) |
 | Butcher's Creek | 260119 | [260119-butchers-creek.json](./260119-butchers-creek.json) |
 | ButcherBoy | 95605 | [95605-butcherboy.json](./95605-butcherboy.json) |
