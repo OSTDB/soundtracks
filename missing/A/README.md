@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Chicken In The Office | 379463 | [379463-a-chicken-in-the-office.json](./379463-a-chicken-in-the-office.json) |
 | A Christmas Carol: But With Anime Girls | 379470 | [379470-a-christmas-carol-but-with-anime-girls.json](./379470-a-christmas-carol-but-with-anime-girls.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
+| A Chronicle of Occultism in Skinnerburg | 304672 | [304672-a-chronicle-of-occultism-in-skinnerburg.json](./304672-a-chronicle-of-occultism-in-skinnerburg.json) |
 | A Clareira | 379469 | [379469-a-clareira.json](./379469-a-clareira.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
 | A Cold Day In Shell | 328068 | [328068-a-cold-day-in-shell.json](./328068-a-cold-day-in-shell.json) |
@@ -183,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Step Into Darkness | 29815 | [29815-a-step-into-darkness.json](./29815-a-step-into-darkness.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
 | A Story of Us: Ep. 1 - First Memories | 115043 | [115043-a-story-of-us-ep-1-first-memories.json](./115043-a-story-of-us-ep-1-first-memories.json) |
+| A Stranded Spark | 304676 | [304676-a-stranded-spark.json](./304676-a-stranded-spark.json) |
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
 | A Tale about Tail | 185079 | [185079-a-tale-about-tail.json](./185079-a-tale-about-tail.json) |
@@ -194,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Thief's Legacy | 52562 | [52562-a-thiefs-legacy.json](./52562-a-thiefs-legacy.json) |
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
+| A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
 | A Tome in the Attic | 363975 | [363975-a-tome-in-the-attic.json](./363975-a-tome-in-the-attic.json) |
 | A Total War Saga: Troy - Limited Edition | 139940 | [139940-a-total-war-saga-troy-limited-edition.json](./139940-a-total-war-saga-troy-limited-edition.json) |
@@ -250,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaahh!!! Real Monsters | 5339 | [5339-aaahh-real-monsters.json](./5339-aaahh-real-monsters.json) |
 | Aaero + Aaero2 Bundle | 331448 | [331448-aaero-aaero2-bundle.json](./331448-aaero-aaero2-bundle.json) |
 | Aaero: Complete Edition | 113196 | [113196-aaero-complete-edition.json](./113196-aaero-complete-edition.json) |
+| Aaero2 | 304670 | [304670-aaero2.json](./304670-aaero2.json) |
 | Aah Little Atlantis | 91911 | [91911-aah-little-atlantis.json](./91911-aah-little-atlantis.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
 | Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
@@ -271,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
+| Aberrant Nights | 304671 | [304671-aberrant-nights.json](./304671-aberrant-nights.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
 | Abiotic Factor | 219126 | [219126-abiotic-factor.json](./219126-abiotic-factor.json) |
@@ -463,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adrenaline Overload Bundle | 396439 | [396439-adrenaline-overload-bundle.json](./396439-adrenaline-overload-bundle.json) |
 | Adrenaline Rush 4‑Pack | 396438 | [396438-adrenaline-rush-4-pack.json](./396438-adrenaline-rush-4-pack.json) |
+| Adrift | 304673 | [304673-adrift.json](./304673-adrift.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
 | Aduk: Curse of the Spirits | 379478 | [379478-aduk-curse-of-the-spirits.json](./379478-aduk-curse-of-the-spirits.json) |
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
@@ -620,7 +626,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
-| Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
@@ -772,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport | 283155 | [283155-airport.json](./283155-airport.json) |
 | Airport | 346048 | [346048-airport.json](./346048-airport.json) |
 | Airport Administrator Simulator | 199598 | [199598-airport-administrator-simulator.json](./199598-airport-administrator-simulator.json) |
+| Airport Antiterror | 304674 | [304674-airport-antiterror.json](./304674-airport-antiterror.json) |
 | Airport Baggage Simulator | 372497 | [372497-airport-baggage-simulator.json](./372497-airport-baggage-simulator.json) |
 | Airport Boss | 297230 | [297230-airport-boss.json](./297230-airport-boss.json) |
 | Airport CEO | 52524 | [52524-airport-ceo.json](./52524-airport-ceo.json) |
@@ -1502,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Most Eligible: Book 1 | 313691 | [313691-americas-most-eligible-book-1.json](./313691-americas-most-eligible-book-1.json) |
 | America's Most Eligible: Book 2 | 313692 | [313692-americas-most-eligible-book-2.json](./313692-americas-most-eligible-book-2.json) |
 | America's Most Eligible: Book 3 | 313693 | [313693-americas-most-eligible-book-3.json](./313693-americas-most-eligible-book-3.json) |
+| America's Next Top Pornstar | 304675 | [304675-americas-next-top-pornstar.json](./304675-americas-next-top-pornstar.json) |
 | America's Test Kitchen: Let's Get Cooking | 24343 | [24343-americas-test-kitchen-lets-get-cooking.json](./24343-americas-test-kitchen-lets-get-cooking.json) |
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
@@ -3222,6 +3229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin of Monsters 2: Spacenator | 404810 | [404810-assassin-of-monsters-2-spacenator.json](./404810-assassin-of-monsters-2-spacenator.json) |
 | Assassin Of Spider | 384680 | [384680-assassin-of-spider.json](./384680-assassin-of-spider.json) |
 | Assassin Of Spider 2: 2099 | 404811 | [404811-assassin-of-spider-2-2099.json](./404811-assassin-of-spider-2-2099.json) |
+| Assassin's Alliance | 304680 | [304680-assassins-alliance.json](./304680-assassins-alliance.json) |
 | Assassin's Creed Brotherhood: The Da Vinci Disappearance | 8216 | [8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json](./8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json) |
 | Assassin's Creed Identity | 17028 | [17028-assassins-creed-identity.json](./17028-assassins-creed-identity.json) |
 | Assassin's Creed II Game of the Year Edition + Assassin's Creed | 353891 | [353891-assassins-creed-ii-game-of-the-year-edition-assassins-creed.json](./353891-assassins-creed-ii-game-of-the-year-edition-assassins-creed.json) |
@@ -3283,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assemblands | 339372 | [339372-assemblands.json](./339372-assemblands.json) |
 | Assemble | 266778 | [266778-assemble.json](./266778-assemble.json) |
 | Assemble the Car | 233488 | [233488-assemble-the-car.json](./233488-assemble-the-car.json) |
+| Assemble! | 304679 | [304679-assemble.json](./304679-assemble.json) |
 | Assembloids 2600 | 321557 | [321557-assembloids-2600.json](./321557-assembloids-2600.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
 | Assenizator | 355116 | [355116-assenizator.json](./355116-assenizator.json) |
@@ -3310,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
 | Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
 | Astate: La Malédiction des Templiers | 14271 | [14271-astate-la-malediction-des-templiers.json](./14271-astate-la-malediction-des-templiers.json) |
+| Astera | 304678 | [304678-astera.json](./304678-astera.json) |
 | Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
 | Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
@@ -3355,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Space Shooter | 178631 | [178631-asteroids-space-shooter.json](./178631-asteroids-space-shooter.json) |
 | Asteroids: Gunner | 64402 | [64402-asteroids-gunner.json](./64402-asteroids-gunner.json) |
 | AsteroidsHD | 18174 | [18174-asteroidshd.json](./18174-asteroidshd.json) |
+| Asteros | 304681 | [304681-asteros.json](./304681-asteros.json) |
 | Asthenia | 381637 | [381637-asthenia.json](./381637-asthenia.json) |
 | Astoaria | 226227 | [226227-astoaria.json](./226227-astoaria.json) |
 | Astonia 3 | 57661 | [57661-astonia-3.json](./57661-astonia-3.json) |
@@ -3380,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Divide | 277816 | [277816-astral-divide.json](./277816-astral-divide.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
+| Astral Maze: Escape the Horror | 304677 | [304677-astral-maze-escape-the-horror.json](./304677-astral-maze-escape-the-horror.json) |
 | Astral Ooze | 348345 | [348345-astral-ooze.json](./348345-astral-ooze.json) |
 | Astral Sanctum | 347770 | [347770-astral-sanctum.json](./347770-astral-sanctum.json) |
 | Astral Savior | 347779 | [347779-astral-savior.json](./347779-astral-savior.json) |
@@ -3441,6 +3453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrocat: Milky Way Journey | 196264 | [196264-astrocat-milky-way-journey.json](./196264-astrocat-milky-way-journey.json) |
 | Astrochibbi | 377677 | [377677-astrochibbi.json](./377677-astrochibbi.json) |
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
+| Astrodrifter | 304682 | [304682-astrodrifter.json](./304682-astrodrifter.json) |
 | Astroflux | 32875 | [32875-astroflux.json](./32875-astroflux.json) |
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
 | Astrogon | 139920 | [139920-astrogon.json](./139920-astrogon.json) |
@@ -3706,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augment Anthem | 365733 | [365733-augment-anthem.json](./365733-augment-anthem.json) |
 | Augmented Fear | 376547 | [376547-augmented-fear.json](./376547-augmented-fear.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
+| Augurium Mortis | 304685 | [304685-augurium-mortis.json](./304685-augurium-mortis.json) |
 | August Night | 217858 | [217858-august-night.json](./217858-august-night.json) |
 | Auld Lang Syne: Cat and Mouse | 305361 | [305361-auld-lang-syne-cat-and-mouse.json](./305361-auld-lang-syne-cat-and-mouse.json) |
 | Aum the Game | 369118 | [369118-aum-the-game.json](./369118-aum-the-game.json) |
@@ -3992,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztec Adventure | 45668 | [45668-aztec-adventure.json](./45668-aztec-adventure.json) |
 | Aztec Solitaire | 91345 | [91345-aztec-solitaire.json](./91345-aztec-solitaire.json) |
 | Aztec Tower | 114332 | [114332-aztec-tower.json](./114332-aztec-tower.json) |
+| Aztlán Codex: El códice de los ancestros | 304684 | [304684-aztlan-codex-el-codice-de-los-ancestros.json](./304684-aztlan-codex-el-codice-de-los-ancestros.json) |
 | Aztlan Uncovered | 201308 | [201308-aztlan-uncovered.json](./201308-aztlan-uncovered.json) |
 | AzuFight: Taisen Shiyo | 222541 | [222541-azufight-taisen-shiyo.json](./222541-azufight-taisen-shiyo.json) |
 | Azul Baronis | 331992 | [331992-azul-baronis.json](./331992-azul-baronis.json) |
