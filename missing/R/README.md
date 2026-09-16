@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recondo | 215888 | [215888-recondo.json](./215888-recondo.json) |
 | Reconnect | 161395 | [161395-reconnect.json](./161395-reconnect.json) |
 | Reconnoitre | 270128 | [270128-reconnoitre.json](./270128-reconnoitre.json) |
+| Reconquista | 319242 | [319242-reconquista.json](./319242-reconquista.json) |
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Record of Agarest War 2: Limited Edition | 44564 | [44564-record-of-agarest-war-2-limited-edition.json](./44564-record-of-agarest-war-2-limited-edition.json) |
 | Record of Agarest War Zero: Limited Edition | 43959 | [43959-record-of-agarest-war-zero-limited-edition.json](./43959-record-of-agarest-war-zero-limited-edition.json) |
