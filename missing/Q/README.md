@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Tripper: Max | 296520 | [296520-quantum-tripper-max.json](./296520-quantum-tripper-max.json) |
 | Quantum Void | 288758 | [288758-quantum-void.json](./288758-quantum-void.json) |
 | Quantum Witch | 323165 | [323165-quantum-witch.json](./323165-quantum-witch.json) |
+| Quarantine | 295910 | [295910-quarantine.json](./295910-quarantine.json) |
 | Quarantine Area: Zombie Attack | 370791 | [370791-quarantine-area-zombie-attack.json](./370791-quarantine-area-zombie-attack.json) |
 | Quarantine Circular | 102119 | [102119-quarantine-circular.json](./102119-quarantine-circular.json) |
 | Quarantine Lockdown Simulator: Zombie Border | 366217 | [366217-quarantine-lockdown-simulator-zombie-border.json](./366217-quarantine-lockdown-simulator-zombie-border.json) |
@@ -212,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
 | Quest of Dungeons | 16932 | [16932-quest-of-dungeons.json](./16932-quest-of-dungeons.json) |
 | Quest of Legend | 334202 | [334202-quest-of-legend.json](./334202-quest-of-legend.json) |
+| Quest of the Dragon Soul | 295926 | [295926-quest-of-the-dragon-soul.json](./295926-quest-of-the-dragon-soul.json) |
 | Quest Room | 199565 | [199565-quest-room.json](./199565-quest-room.json) |
 | Quest room: Hanon | 110547 | [110547-quest-room-hanon.json](./110547-quest-room-hanon.json) |
 | Quest Rooms | 129252 | [129252-quest-rooms.json](./129252-quest-rooms.json) |
