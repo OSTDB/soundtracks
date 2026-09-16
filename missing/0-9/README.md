@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2Dark: Deluxe Edition | 52545 | [52545-2dark-deluxe-edition.json](./52545-2dark-deluxe-edition.json) |
 | 2K Games Pack | 319564 | [319564-2k-games-pack.json](./319564-2k-games-pack.json) |
 | 2K Shells | 328033 | [328033-2k-shells.json](./328033-2k-shells.json) |
+| 2K1X Subzero Heroes | 304215 | [304215-2k1x-subzero-heroes.json](./304215-2k1x-subzero-heroes.json) |
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
 | 2weistein: The Curse of the Red Dragon | 147439 | [147439-2weistein-the-curse-of-the-red-dragon.json](./147439-2weistein-the-curse-of-the-red-dragon.json) |
 | 2weistein: The Curse of the Red Dragon 2 | 166158 | [166158-2weistein-the-curse-of-the-red-dragon-2.json](./166158-2weistein-the-curse-of-the-red-dragon-2.json) |
@@ -639,5 +640,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ​Our Life: Beginnings & Always - Cove Wedding Story | 187442 | [187442-our-life-beginnings-and-always-cove-wedding-story.json](./187442-our-life-beginnings-and-always-cove-wedding-story.json) |
 | ​Our Life: Beginnings & Always - Step 1 Expansion | 164528 | [164528-our-life-beginnings-and-always-step-1-expansion.json](./164528-our-life-beginnings-and-always-step-1-expansion.json) |
 | ​Our Life: Beginnings & Always - Step 2 Expansion | 164529 | [164529-our-life-beginnings-and-always-step-2-expansion.json](./164529-our-life-beginnings-and-always-step-2-expansion.json) |
+| ​Outer Wilds: A Thrilling Graphical Text Adventure | 304188 | [304188-outer-wilds-a-thrilling-graphical-text-adventure.json](./304188-outer-wilds-a-thrilling-graphical-text-adventure.json) |
 | Život Není Krásný: Poslední Exekuce | 401633 | [401633-zivot-neni-krasny-posledni-exekuce.json](./401633-zivot-neni-krasny-posledni-exekuce.json) |
 | 一>◇ | 100203 | [100203-.json](./100203-.json) |
