@@ -1567,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of 16 Sisters | 371864 | [371864-island-of-16-sisters.json](./371864-island-of-16-sisters.json) |
 | Island of 16 Sisters Part 2 | 371866 | [371866-island-of-16-sisters-part-2.json](./371866-island-of-16-sisters-part-2.json) |
 | Island of Aito | 199657 | [199657-island-of-aito.json](./199657-island-of-aito.json) |
+| Island of Despair | 326801 | [326801-island-of-despair.json](./326801-island-of-despair.json) |
 | Island of Enchantment | 296940 | [296940-island-of-enchantment.json](./296940-island-of-enchantment.json) |
 | Island of Hearts | 373514 | [373514-island-of-hearts.json](./373514-island-of-hearts.json) |
 | Island of Lust | 191220 | [191220-island-of-lust.json](./191220-island-of-lust.json) |
