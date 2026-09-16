@@ -2376,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirappen Restoration | 265700 | [265700-dirappen-restoration.json](./265700-dirappen-restoration.json) |
 | Dire Echo | 376541 | [376541-dire-echo.json](./376541-dire-echo.json) |
 | Direct | 70706 | [70706-direct.json](./70706-direct.json) |
+| Direct-X | 292146 | [292146-direct-x.json](./292146-direct-x.json) |
 | Direction! Level Up! | 306359 | [306359-direction-level-up.json](./306359-direction-level-up.json) |
 | DirectionDungeon! | 179200 | [179200-directiondungeon.json](./179200-directiondungeon.json) |
 | Director Manager Total | 344940 | [344940-director-manager-total.json](./344940-director-manager-total.json) |
@@ -3719,6 +3720,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon VR | 156091 | [156091-dragon-vr.json](./156091-dragon-vr.json) |
 | Dragon Warrior I & II | 205230 | [205230-dragon-warrior-i-and-ii.json](./205230-dragon-warrior-i-and-ii.json) |
 | Dragon Wars | 11406 | [11406-dragon-wars.json](./11406-dragon-wars.json) |
+| Dragon x Dragon | 292120 | [292120-dragon-x-dragon.json](./292120-dragon-x-dragon.json) |
+| Dragon x Dragon DX | 292123 | [292123-dragon-x-dragon-dx.json](./292123-dragon-x-dragon-dx.json) |
+| Dragon x Dragon: Complete Version | 292130 | [292130-dragon-x-dragon-complete-version.json](./292130-dragon-x-dragon-complete-version.json) |
 | Dragon's Bane | 148541 | [148541-dragons-bane.json](./148541-dragons-bane.json) |
 | Dragon's Crown Pro | 68283 | [68283-dragons-crown-pro.json](./68283-dragons-crown-pro.json) |
 | Dragon's Dogma II: Dark Arisen | 408164 | [408164-dragons-dogma-ii-dark-arisen.json](./408164-dragons-dogma-ii-dark-arisen.json) |
