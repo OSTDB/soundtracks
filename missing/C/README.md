@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
 | Car Go Fast | 206121 | [206121-car-go-fast.json](./206121-car-go-fast.json) |
+| Car Guy Soundboard | 323375 | [323375-car-guy-soundboard.json](./323375-car-guy-soundboard.json) |
 | Car Jamboree | 40232 | [40232-car-jamboree.json](./40232-car-jamboree.json) |
 | Car Mechanic Flipper | 113661 | [113661-car-mechanic-flipper.json](./113661-car-mechanic-flipper.json) |
 | Car Mechanic Manager | 34569 | [34569-car-mechanic-manager.json](./34569-car-mechanic-manager.json) |
@@ -1306,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chairs | 281987 | [281987-chairs.json](./281987-chairs.json) |
+| Chakana | 322805 | [322805-chakana.json](./322805-chakana.json) |
 | Chakravyuh | 133981 | [133981-chakravyuh.json](./133981-chakravyuh.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Challange of the Five Realms | 46576 | [46576-challange-of-the-five-realms.json](./46576-challange-of-the-five-realms.json) |
@@ -2511,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Grove | 59934 | [59934-cloud-grove.json](./59934-cloud-grove.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
 | Cloud of Souls | 25766 | [25766-cloud-of-souls.json](./25766-cloud-of-souls.json) |
+| Cloud Piercer | 322767 | [322767-cloud-piercer.json](./322767-cloud-piercer.json) |
 | Cloud Pirates | 27687 | [27687-cloud-pirates.json](./27687-cloud-pirates.json) |
 | Cloud Raiders | 59983 | [59983-cloud-raiders.json](./59983-cloud-raiders.json) |
 | Cloud Sculptor | 406126 | [406126-cloud-sculptor.json](./406126-cloud-sculptor.json) |
@@ -3043,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Tycoon | 349881 | [349881-comet-tycoon.json](./349881-comet-tycoon.json) |
 | Comfy Girl | 360608 | [360608-comfy-girl.json](./360608-comfy-girl.json) |
 | Comic Book Tycoon | 129620 | [129620-comic-book-tycoon.json](./129620-comic-book-tycoon.json) |
+| Comic Book Universe | 322774 | [322774-comic-book-universe.json](./322774-comic-book-universe.json) |
 | Comic Coloring Book: Complete Edition - Draw Extended | 263528 | [263528-comic-coloring-book-complete-edition-draw-extended.json](./263528-comic-coloring-book-complete-edition-draw-extended.json) |
 | Comic Days H | 97382 | [97382-comic-days-h.json](./97382-comic-days-h.json) |
 | Comic Party Portable | 59388 | [59388-comic-party-portable.json](./59388-comic-party-portable.json) |
