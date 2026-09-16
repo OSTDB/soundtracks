@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Lantern Battle Cards | 64339 | [64339-green-lantern-battle-cards.json](./64339-green-lantern-battle-cards.json) |
 | Green Lantern: Rise of the Manhunters | 4896 | [4896-green-lantern-rise-of-the-manhunters.json](./4896-green-lantern-rise-of-the-manhunters.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
+| Green Ogre Gives You Terrible Life Advice and Dies | 309507 | [309507-green-ogre-gives-you-terrible-life-advice-and-dies.json](./309507-green-ogre-gives-you-terrible-life-advice-and-dies.json) |
 | Green Project | 133419 | [133419-green-project.json](./133419-green-project.json) |
 | Green Run | 107197 | [107197-green-run.json](./107197-green-run.json) |
 | Green Sans | 232423 | [232423-green-sans.json](./232423-green-sans.json) |
