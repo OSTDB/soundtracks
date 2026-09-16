@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitals Quizzer: Globe Mode | 296525 | [296525-capitals-quizzer-globe-mode.json](./296525-capitals-quizzer-globe-mode.json) |
 | Capitals Quizzer: People Mode | 296526 | [296526-capitals-quizzer-people-mode.json](./296526-capitals-quizzer-people-mode.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
+| Capoo Pals for MAC Expansion Set | 289464 | [289464-capoo-pals-for-mac-expansion-set.json](./289464-capoo-pals-for-mac-expansion-set.json) |
 | Cappadocia Puzzle | 303065 | [303065-cappadocia-puzzle.json](./303065-cappadocia-puzzle.json) |
 | Capper | 384667 | [384667-capper.json](./384667-capper.json) |
 | Cappuchino Spoontforce Deluxe VI: Girl of the Boiling Fury | 181872 | [181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json](./181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json) |
@@ -1237,6 +1238,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
 | Cel Damage 2 | 143110 | [143110-cel-damage-2.json](./143110-cel-damage-2.json) |
 | Celebrating Lotería! | 375816 | [375816-celebrating-loteria.json](./375816-celebrating-loteria.json) |
+| Celebrities Hacked: Evelyn Photo Pack | 289470 | [289470-celebrities-hacked-evelyn-photo-pack.json](./289470-celebrities-hacked-evelyn-photo-pack.json) |
+| Celebrities Hacked: LatexUsagi Photo Pack | 289469 | [289469-celebrities-hacked-latexusagi-photo-pack.json](./289469-celebrities-hacked-latexusagi-photo-pack.json) |
+| Celebrities Hacked: NoirPetal Photo Pack | 289467 | [289467-celebrities-hacked-noirpetal-photo-pack.json](./289467-celebrities-hacked-noirpetal-photo-pack.json) |
+| Celebrities Hacked: PlushyPixel Photo Pack | 289468 | [289468-celebrities-hacked-plushypixel-photo-pack.json](./289468-celebrities-hacked-plushypixel-photo-pack.json) |
 | Celebrity Life | 157138 | [157138-celebrity-life.json](./157138-celebrity-life.json) |
 | Celebrity Slot Machine | 242550 | [242550-celebrity-slot-machine.json](./242550-celebrity-slot-machine.json) |
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
@@ -5040,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
 | Cyadonia | 99658 | [99658-cyadonia.json](./99658-cyadonia.json) |
 | Cyan Avenger | 278999 | [278999-cyan-avenger.json](./278999-cyan-avenger.json) |
+| Cyan's Snow House | 289446 | [289446-cyans-snow-house.json](./289446-cyans-snow-house.json) |
 | Cyanide & Happiness: Freakpocalypse - Episode 1 | 147983 | [147983-cyanide-and-happiness-freakpocalypse-episode-1.json](./147983-cyanide-and-happiness-freakpocalypse-episode-1.json) |
 | CybArena | 326244 | [326244-cybarena.json](./326244-cybarena.json) |
 | Cyber Agent | 132200 | [132200-cyber-agent.json](./132200-cyber-agent.json) |
