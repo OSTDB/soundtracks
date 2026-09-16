@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Craft | 239048 | [239048-tap-craft.json](./239048-tap-craft.json) |
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
+| Tap It Away | 304169 | [304169-tap-it-away.json](./304169-tap-it-away.json) |
 | Tap knife VIP | 105959 | [105959-tap-knife-vip.json](./105959-tap-knife-vip.json) |
 | Tap Master | 239038 | [239038-tap-master.json](./239038-tap-master.json) |
 | Tap Master: Mondrian | 333581 | [333581-tap-master-mondrian.json](./333581-tap-master-mondrian.json) |
@@ -751,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarutobi | 371917 | [371917-tarutobi.json](./371917-tarutobi.json) |
 | Tarvos Desolation | 345044 | [345044-tarvos-desolation.json](./345044-tarvos-desolation.json) |
 | Tarzan | 25728 | [25728-tarzan.json](./25728-tarzan.json) |
+| Tarzan | 304200 | [304200-tarzan.json](./304200-tarzan.json) |
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
 | Task Force 9 | 261788 | [261788-task-force-9.json](./261788-task-force-9.json) |
@@ -3942,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quarry | 194404 | [194404-the-quarry.json](./194404-the-quarry.json) |
 | The Queen of Battlers 2 | 324923 | [324923-the-queen-of-battlers-2.json](./324923-the-queen-of-battlers-2.json) |
 | The Queen TV-Game 2 | 147931 | [147931-the-queen-tv-game-2.json](./147931-the-queen-tv-game-2.json) |
+| The Queen's Footsteps | 304181 | [304181-the-queens-footsteps.json](./304181-the-queens-footsteps.json) |
 | The Queen's Gambit Chess | 204451 | [204451-the-queens-gambit-chess.json](./204451-the-queens-gambit-chess.json) |
 | The Queens Gondola | 404841 | [404841-the-queens-gondola.json](./404841-the-queens-gondola.json) |
 | The Quest for Achievements | 334744 | [334744-the-quest-for-achievements.json](./334744-the-quest-for-achievements.json) |
@@ -6088,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tint The Saver | 334181 | [334181-tint-the-saver.json](./334181-tint-the-saver.json) |
 | TinTin: Destination Adventure | 43902 | [43902-tintin-destination-adventure.json](./43902-tintin-destination-adventure.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
+| Tiny Adventure | 304163 | [304163-tiny-adventure.json](./304163-tiny-adventure.json) |
 | Tiny Animal War | 193933 | [193933-tiny-animal-war.json](./193933-tiny-animal-war.json) |
 | Tiny Arcade Racers | 201241 | [201241-tiny-arcade-racers.json](./201241-tiny-arcade-racers.json) |
 | Tiny Arcade Tetris | 234083 | [234083-tiny-arcade-tetris.json](./234083-tiny-arcade-tetris.json) |
@@ -6163,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
 | Tiny Wizard Tavern | 412388 | [412388-tiny-wizard-tavern.json](./412388-tiny-wizard-tavern.json) |
 | Tiny-Tasy Town | 103598 | [103598-tiny-tasy-town.json](./103598-tiny-tasy-town.json) |
+| Tinycraft | 303101 | [303101-tinycraft.json](./303101-tinycraft.json) |
 | TinyCraft Town | 362298 | [362298-tinycraft-town.json](./362298-tinycraft-town.json) |
 | TinyHoopers | 323964 | [323964-tinyhoopers.json](./323964-tinyhoopers.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
@@ -7068,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
 | Towerful Defense: A Rogue TD - The First Expansion | 385554 | [385554-towerful-defense-a-rogue-td-the-first-expansion.json](./385554-towerful-defense-a-rogue-td-the-first-expansion.json) |
+| Towerheart | 303076 | [303076-towerheart.json](./303076-towerheart.json) |
 | Towering | 230295 | [230295-towering.json](./230295-towering.json) |
 | Towering Rescue | 47263 | [47263-towering-rescue.json](./47263-towering-rescue.json) |
 | Towerlands | 227271 | [227271-towerlands.json](./227271-towerlands.json) |
@@ -8444,6 +8450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two & One Hundred Ways Bundle | 188020 | [188020-two-and-one-hundred-ways-bundle.json](./188020-two-and-one-hundred-ways-bundle.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
+| Two Days to the Race | 304179 | [304179-two-days-to-the-race.json](./304179-two-days-to-the-race.json) |
 | Two Die | 142501 | [142501-two-die.json](./142501-two-die.json) |
 | Two Doors | 305928 | [305928-two-doors.json](./305928-two-doors.json) |
 | Two Eyes: Nonogram | 292820 | [292820-two-eyes-nonogram.json](./292820-two-eyes-nonogram.json) |
@@ -8484,6 +8491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyco Racin' Ratz | 73229 | [73229-tyco-racin-ratz.json](./73229-tyco-racin-ratz.json) |
 | Tycoon Legends | 245855 | [245855-tycoon-legends.json](./245855-tycoon-legends.json) |
 | Tyd wag vir Niemand | 52012 | [52012-tyd-wag-vir-niemand.json](./52012-tyd-wag-vir-niemand.json) |
+| Tyga | 303079 | [303079-tyga.json](./303079-tyga.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
 | Type da Puyo Puyo | 63839 | [63839-type-da-puyo-puyo.json](./63839-type-da-puyo-puyo.json) |
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
