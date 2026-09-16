@@ -3739,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snap Jaw | 406216 | [406216-snap-jaw.json](./406216-snap-jaw.json) |
 | Snap Kid's | 262396 | [262396-snap-kids.json](./262396-snap-kids.json) |
 | Snap Quest | 244763 | [244763-snap-quest.json](./244763-snap-quest.json) |
+| Snap Quiz Challenge | 333595 | [333595-snap-quiz-challenge.json](./333595-snap-quiz-challenge.json) |
 | Snap the Sentinel | 141867 | [141867-snap-the-sentinel.json](./141867-snap-the-sentinel.json) |
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
 | Snapdots | 62193 | [62193-snapdots.json](./62193-snapdots.json) |
@@ -4833,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Casual | 220625 | [220625-space-casual.json](./220625-space-casual.json) |
 | Space Cat Solitaire | 368471 | [368471-space-cat-solitaire.json](./368471-space-cat-solitaire.json) |
 | Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
+| Space Chase: Odyssey | 333599 | [333599-space-chase-odyssey.json](./333599-space-chase-odyssey.json) |
 | Space Chef | 132526 | [132526-space-chef.json](./132526-space-chef.json) |
 | Space Chimps | 200685 | [200685-space-chimps.json](./200685-space-chimps.json) |
 | Space Chimps | 5172 | [5172-space-chimps.json](./5172-space-chimps.json) |
@@ -5609,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Shooter 3D | 186802 | [186802-spooky-shooter-3d.json](./186802-spooky-shooter-3d.json) |
 | Spooky Solitaire: Halloween | 386149 | [386149-spooky-solitaire-halloween.json](./386149-spooky-solitaire-halloween.json) |
 | Spooky Spins Returns: Crazy Cash Edition - Slots | 276172 | [276172-spooky-spins-returns-crazy-cash-edition-slots.json](./276172-spooky-spins-returns-crazy-cash-edition-slots.json) |
+| Spooky Survivors | 333640 | [333640-spooky-survivors.json](./333640-spooky-survivors.json) |
 | Spooky Town | 272565 | [272565-spooky-town.json](./272565-spooky-town.json) |
 | Spooky Typing: The Ghost Plague | 178097 | [178097-spooky-typing-the-ghost-plague.json](./178097-spooky-typing-the-ghost-plague.json) |
 | Spooky's Jump Scare Mansion: The Doll House | 140550 | [140550-spookys-jump-scare-mansion-the-doll-house.json](./140550-spookys-jump-scare-mansion-the-doll-house.json) |
@@ -6431,6 +6434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State Your Business | 336620 | [336620-state-your-business.json](./336620-state-your-business.json) |
 | State Z | 406836 | [406836-state-z.json](./406836-state-z.json) |
 | States, Firms, and Households | 33122 | [33122-states-firms-and-households.json](./33122-states-firms-and-households.json) |
+| Static | 333637 | [333637-static.json](./333637-static.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
 | Static Hour | 415918 | [415918-static-hour.json](./415918-static-hour.json) |
 | Static Signal | 375824 | [375824-static-signal.json](./375824-static-signal.json) |
