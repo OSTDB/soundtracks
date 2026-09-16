@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Regenerator | 408041 | [408041-idle-regenerator.json](./408041-idle-regenerator.json) |
 | Idle Roboto | 152888 | [152888-idle-roboto.json](./152888-idle-roboto.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
+| Idle School Simulator | 299903 | [299903-idle-school-simulator.json](./299903-idle-school-simulator.json) |
 | Idle Siege: Army Tycoon Game | 246982 | [246982-idle-siege-army-tycoon-game.json](./246982-idle-siege-army-tycoon-game.json) |
 | Idle Slayer | 139040 | [139040-idle-slayer.json](./139040-idle-slayer.json) |
 | Idle Space Force | 246425 | [246425-idle-space-force.json](./246425-idle-space-force.json) |
@@ -1316,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Dead 2: Unleashed | 197325 | [197325-into-the-dead-2-unleashed.json](./197325-into-the-dead-2-unleashed.json) |
 | Into the Deep Web | 184608 | [184608-into-the-deep-web.json](./184608-into-the-deep-web.json) |
 | Into the Dungeon | 258171 | [258171-into-the-dungeon.json](./258171-into-the-dungeon.json) |
+| Into the Emberlands | 304726 | [304726-into-the-emberlands.json](./304726-into-the-emberlands.json) |
 | Into the Emberlands: Supporter Pack | 321161 | [321161-into-the-emberlands-supporter-pack.json](./321161-into-the-emberlands-supporter-pack.json) |
 | Into the Farlands | 226437 | [226437-into-the-farlands.json](./226437-into-the-farlands.json) |
 | Into the Flames: Retro Fire Gear 1 | 256560 | [256560-into-the-flames-retro-fire-gear-1.json](./256560-into-the-flames-retro-fire-gear-1.json) |
@@ -1360,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders | 346119 | [346119-invaders.json](./346119-invaders.json) |
 | Invaders | 374044 | [374044-invaders.json](./374044-invaders.json) |
 | Invaders 1978 | 72081 | [72081-invaders-1978.json](./72081-invaders-1978.json) |
+| Invaders of the Mummy's Tomb | 300011 | [300011-invaders-of-the-mummys-tomb.json](./300011-invaders-of-the-mummys-tomb.json) |
 | Invaders! From Outer Space | 107930 | [107930-invaders-from-outer-space.json](./107930-invaders-from-outer-space.json) |
 | Invariant | 410973 | [410973-invariant.json](./410973-invariant.json) |
 | Invasão | 299473 | [299473-invasao.json](./299473-invasao.json) |
