@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inherent Evil - The Haunted Hotel | 114408 | [114408-inherent-evil-the-haunted-hotel.json](./114408-inherent-evil-the-haunted-hotel.json) |
 | Inherit the Earth: Quest for the Orb | 16726 | [16726-inherit-the-earth-quest-for-the-orb.json](./16726-inherit-the-earth-quest-for-the-orb.json) |
 | Inheritance | 365746 | [365746-inheritance.json](./365746-inheritance.json) |
+| Inheritance of Ash | 322793 | [322793-inheritance-of-ash.json](./322793-inheritance-of-ash.json) |
 | Inhuman | 350421 | [350421-inhuman.json](./350421-inhuman.json) |
 | Inindo: Way of the Ninja | 47498 | [47498-inindo-way-of-the-ninja.json](./47498-inindo-way-of-the-ninja.json) |
 | Init. | 35749 | [35749-init.json](./35749-init.json) |
