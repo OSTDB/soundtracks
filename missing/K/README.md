@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kudamono Party | 288780 | [288780-kudamono-party.json](./288780-kudamono-party.json) |
 | Kuentame | 383377 | [383377-kuentame.json](./383377-kuentame.json) |
 | Kuento: Wasureenu Hibi ni | 97384 | [97384-kuento-wasureenu-hibi-ni.json](./97384-kuento-wasureenu-hibi-ni.json) |
+| Kuis Iseng Kaesang | 303108 | [303108-kuis-iseng-kaesang.json](./303108-kuis-iseng-kaesang.json) |
 | Kuizu! Batounea! | 411565 | [411565-kuizu-batounea.json](./411565-kuizu-batounea.json) |
 | Kukoo Kitchen | 112349 | [112349-kukoo-kitchen.json](./112349-kukoo-kitchen.json) |
 | Kukuevo | 280764 | [280764-kukuevo.json](./280764-kukuevo.json) |
