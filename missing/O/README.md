@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Game | 143742 | [143742-one-last-game.json](./143742-one-last-game.json) |
 | One Last Journey | 350452 | [350452-one-last-journey.json](./350452-one-last-journey.json) |
 | One Last Memory: Reimagined | 196844 | [196844-one-last-memory-reimagined.json](./196844-one-last-memory-reimagined.json) |
+| One Last Raid | 307109 | [307109-one-last-raid.json](./307109-one-last-raid.json) |
 | One Last Star Trip | 342073 | [342073-one-last-star-trip.json](./342073-one-last-star-trip.json) |
 | One Last Time | 226737 | [226737-one-last-time.json](./226737-one-last-time.json) |
 | One Life: Parkour Project | 318781 | [318781-one-life-parkour-project.json](./318781-one-life-parkour-project.json) |
