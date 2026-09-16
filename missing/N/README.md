@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephelem: A Path of Vice and Virtue | 342653 | [342653-nephelem-a-path-of-vice-and-virtue.json](./342653-nephelem-a-path-of-vice-and-virtue.json) |
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
+| Neptune Island | 319796 | [319796-neptune-island.json](./319796-neptune-island.json) |
 | Neptune's Secret | 210039 | [210039-neptunes-secret.json](./210039-neptunes-secret.json) |
 | NeptuneGL | 83563 | [83563-neptunegl.json](./83563-neptunegl.json) |
 | Neptunia reVerse | 139072 | [139072-neptunia-reverse.json](./139072-neptunia-reverse.json) |
@@ -1796,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Impact | 405521 | [405521-nova-impact.json](./405521-nova-impact.json) |
 | Nova Jumper | 414388 | [414388-nova-jumper.json](./414388-nova-jumper.json) |
 | Nova Survivors | 372542 | [372542-nova-survivors.json](./372542-nova-survivors.json) |
+| Nova: Space Armada | 319812 | [319812-nova-space-armada.json](./319812-nova-space-armada.json) |
 | Nova: The Birth | 138830 | [138830-nova-the-birth.json](./138830-nova-the-birth.json) |
 | Nova's Adventure | 316397 | [316397-novas-adventure.json](./316397-novas-adventure.json) |
 | Novastella Island | 221189 | [221189-novastella-island.json](./221189-novastella-island.json) |
