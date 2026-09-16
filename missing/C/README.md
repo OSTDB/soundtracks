@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
 | Cara Night | 46618 | [46618-cara-night.json](./46618-cara-night.json) |
 | Caracoland | 112963 | [112963-caracoland.json](./112963-caracoland.json) |
+| Caracolino | 293236 | [293236-caracolino.json](./293236-caracolino.json) |
 | Caramella Girls | 174357 | [174357-caramella-girls.json](./174357-caramella-girls.json) |
 | Caravan | 19290 | [19290-caravan.json](./19290-caravan.json) |
 | Caravan Stories: Academy of Magic | 194037 | [194037-caravan-stories-academy-of-magic.json](./194037-caravan-stories-academy-of-magic.json) |
@@ -4374,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crónicas de Nueva Estrella Uno | 339340 | [339340-cronicas-de-nueva-estrella-uno.json](./339340-cronicas-de-nueva-estrella-uno.json) |
 | Cronostase Electric Collection | 225899 | [225899-cronostase-electric-collection.json](./225899-cronostase-electric-collection.json) |
 | Cronous Online | 213028 | [213028-cronous-online.json](./213028-cronous-online.json) |
+| Cronus Monument | 293235 | [293235-cronus-monument.json](./293235-cronus-monument.json) |
 | Crooked Time | 205787 | [205787-crooked-time.json](./205787-crooked-time.json) |
 | Crooks Like Us | 143032 | [143032-crooks-like-us.json](./143032-crooks-like-us.json) |
 | Crookz: The Big Heist | 17569 | [17569-crookz-the-big-heist.json](./17569-crookz-the-big-heist.json) |
@@ -4390,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croquettes Gang | 303089 | [303089-croquettes-gang.json](./303089-croquettes-gang.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
+| Cross Chase | 293229 | [293229-cross-chase.json](./293229-cross-chase.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
 | Cross Edge Dash | 320956 | [320956-cross-edge-dash.json](./320956-cross-edge-dash.json) |
 | Cross Guardian | 381110 | [381110-cross-guardian.json](./381110-cross-guardian.json) |
