@@ -342,7 +342,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tower 2018 | 111628 | [111628-magic-tower-2018.json](./111628-magic-tower-2018.json) |
 | Magic Tower Adventure | 173803 | [173803-magic-tower-adventure.json](./173803-magic-tower-adventure.json) |
 | Magic Tower: Tap Defense | 255735 | [255735-magic-tower-tap-defense.json](./255735-magic-tower-tap-defense.json) |
+| Magic Trap | 303642 | [303642-magic-trap.json](./303642-magic-trap.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
+| Magic Venue | 303647 | [303647-magic-venue.json](./303647-magic-venue.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
 | Magic War Legends | 410880 | [410880-magic-war-legends.json](./410880-magic-war-legends.json) |
 | Magic Weapon | 358310 | [358310-magic-weapon.json](./358310-magic-weapon.json) |
@@ -616,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makeover Madness | 210050 | [210050-makeover-madness.json](./210050-makeover-madness.json) |
 | MakerKing | 153379 | [153379-makerking.json](./153379-makerking.json) |
 | Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
+| Making Friends | 303646 | [303646-making-friends.json](./303646-making-friends.json) |
 | Making History: The Calm & The Storm | 15043 | [15043-making-history-the-calm-and-the-storm.json](./15043-making-history-the-calm-and-the-storm.json) |
 | Making History: The Calm & the Storm - Gold Edition | 25516 | [25516-making-history-the-calm-and-the-storm-gold-edition.json](./25516-making-history-the-calm-and-the-storm-gold-edition.json) |
 | Making History: The First World War | 132316 | [132316-making-history-the-first-world-war.json](./132316-making-history-the-first-world-war.json) |
@@ -657,12 +660,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malum Escape | 311500 | [311500-malum-escape.json](./311500-malum-escape.json) |
 | Malvin`s Prehistoric Adventures | 129228 | [129228-malvin-s-prehistoric-adventures.json](./129228-malvin-s-prehistoric-adventures.json) |
 | Malvinas 2032 | 69243 | [69243-malvinas-2032.json](./69243-malvinas-2032.json) |
+| Malvinas: La Ultima Carta | 303645 | [303645-malvinas-la-ultima-carta.json](./303645-malvinas-la-ultima-carta.json) |
 | Malvirta Station | 271459 | [271459-malvirta-station.json](./271459-malvirta-station.json) |
 | Malzbie's Pinball Collection | 74463 | [74463-malzbies-pinball-collection.json](./74463-malzbies-pinball-collection.json) |
 | Mama Reido vol. 3 Tomomi Mama Hen: Usotsuki wa Mama no Hajimari | 108961 | [108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json](./108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json) |
 | Māmā, Bié Zǒu | 130930 | [130930-mama-bie-zou.json](./130930-mama-bie-zou.json) |
 | Mama's 2-Pack | 86075 | [86075-mamas-2-pack.json](./86075-mamas-2-pack.json) |
 | Mama's Farm: Match ‪3‬ | 144995 | [144995-mamas-farm-match-3.json](./144995-mamas-farm-match-3.json) |
+| Mama's Quesadillaria | 303648 | [303648-mamas-quesadillaria.json](./303648-mamas-quesadillaria.json) |
 | Mama's Sleeping Angels | 321991 | [321991-mamas-sleeping-angels.json](./321991-mamas-sleeping-angels.json) |
 | Mamegoma 2: Uchi no Ko ga Ichiban! | 241032 | [241032-mamegoma-2-uchi-no-ko-ga-ichiban.json](./241032-mamegoma-2-uchi-no-ko-ga-ichiban.json) |
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
@@ -679,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamorukun Curse! | 7065 | [7065-mamorukun-curse.json](./7065-mamorukun-curse.json) |
 | Man and Dog: Small Game Hunt | 337651 | [337651-man-and-dog-small-game-hunt.json](./337651-man-and-dog-small-game-hunt.json) |
 | Man Face Spider I | 132773 | [132773-man-face-spider-i.json](./132773-man-face-spider-i.json) |
+| Man I Just Wanna Go Home | 303644 | [303644-man-i-just-wanna-go-home.json](./303644-man-i-just-wanna-go-home.json) |
 | Man in a Maze | 62219 | [62219-man-in-a-maze.json](./62219-man-in-a-maze.json) |
 | Man Made | 312768 | [312768-man-made.json](./312768-man-made.json) |
 | Man O' War: Corsair - Warhammer Naval Battles | 25058 | [25058-man-o-war-corsair-warhammer-naval-battles.json](./25058-man-o-war-corsair-warhammer-naval-battles.json) |
@@ -754,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mankind's Last Stand | 253905 | [253905-mankinds-last-stand.json](./253905-mankinds-last-stand.json) |
 | Mankojai | 184115 | [184115-mankojai.json](./184115-mankojai.json) |
 | Manludo | 301820 | [301820-manludo.json](./301820-manludo.json) |
+| Manludo 2 | 303643 | [303643-manludo-2.json](./303643-manludo-2.json) |
 | Manly Men Fighting | 58796 | [58796-manly-men-fighting.json](./58796-manly-men-fighting.json) |
 | MannaRites | 140566 | [140566-mannarites.json](./140566-mannarites.json) |
 | Mannequin Academy | 183037 | [183037-mannequin-academy.json](./183037-mannequin-academy.json) |
@@ -1346,7 +1353,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
 | Master of Orion: Gnolam League | 169972 | [169972-master-of-orion-gnolam-league.json](./169972-master-of-orion-gnolam-league.json) |
 | Master of Pieces: Jigsaw Puzzle - Bonsai | 293065 | [293065-master-of-pieces-jigsaw-puzzle-bonsai.json](./293065-master-of-pieces-jigsaw-puzzle-bonsai.json) |
+| Master of Pieces: Jigsaw Puzzle - Glass Dreams | 303649 | [303649-master-of-pieces-jigsaw-puzzle-glass-dreams.json](./303649-master-of-pieces-jigsaw-puzzle-glass-dreams.json) |
 | Master of Pieces: Jigsaw Puzzle - Paper Art | 293066 | [293066-master-of-pieces-jigsaw-puzzle-paper-art.json](./293066-master-of-pieces-jigsaw-puzzle-paper-art.json) |
+| Master of Pieces: Jigsaw Puzzle - Timeless Heritage | 303650 | [303650-master-of-pieces-jigsaw-puzzle-timeless-heritage.json](./303650-master-of-pieces-jigsaw-puzzle-timeless-heritage.json) |
 | Master of Pieces: Jigsaw Puzzles - Cat Family Christmas | 284890 | [284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json](./284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json) |
 | Master of Pottery: Suzhou Garden | 199600 | [199600-master-of-pottery-suzhou-garden.json](./199600-master-of-pottery-suzhou-garden.json) |
 | Master of Rogues - The Seven Artifacts | 107847 | [107847-master-of-rogues-the-seven-artifacts.json](./107847-master-of-rogues-the-seven-artifacts.json) |
