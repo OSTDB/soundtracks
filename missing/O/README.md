@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O2Jam S | 337149 | [337149-o2jam-s.json](./337149-o2jam-s.json) |
 | O2Jam x DancingParty | 107799 | [107799-o2jam-x-dancingparty.json](./107799-o2jam-x-dancingparty.json) |
 | O2Jam: The Beginning | 390546 | [390546-o2jam-the-beginning.json](./390546-o2jam-the-beginning.json) |
+| O3: Hollow Descent | 308927 | [308927-o3-hollow-descent.json](./308927-o3-hollow-descent.json) |
 | Oak Adventure the Maze | 235473 | [235473-oak-adventure-the-maze.json](./235473-oak-adventure-the-maze.json) |
 | Oak Defenders | 183514 | [183514-oak-defenders.json](./183514-oak-defenders.json) |
 | Oak Hill | 219043 | [219043-oak-hill.json](./219043-oak-hill.json) |
