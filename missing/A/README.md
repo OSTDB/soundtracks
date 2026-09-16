@@ -616,7 +616,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
 | Agrou | 133456 | [133456-agrou.json](./133456-agrou.json) |
 | Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
-| AH-3: ThunderStrike | 156159 | [156159-ah-3-thunderstrike.json](./156159-ah-3-thunderstrike.json) |
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
 | Aha! | 86026 | [86026-aha.json](./86026-aha.json) |
 | Aha! More Photo Spot-the-Difference | 399609 | [399609-aha-more-photo-spot-the-difference.json](./399609-aha-more-photo-spot-the-difference.json) |
