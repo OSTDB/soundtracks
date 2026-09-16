@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farocar | 92980 | [92980-farocar.json](./92980-farocar.json) |
 | Farol del Diablo (Devil's Lantern) | 347136 | [347136-farol-del-diablo-devils-lantern.json](./347136-farol-del-diablo-devils-lantern.json) |
 | Farrealm: The Prince of Winds | 120427 | [120427-farrealm-the-prince-of-winds.json](./120427-farrealm-the-prince-of-winds.json) |
+| Fart Game | 321575 | [321575-fart-game.json](./321575-fart-game.json) |
 | Fart Hotel | 243967 | [243967-fart-hotel.json](./243967-fart-hotel.json) |
 | Fart King | 338558 | [338558-fart-king.json](./338558-fart-king.json) |
 | Fart Up | 299455 | [299455-fart-up.json](./299455-fart-up.json) |
@@ -3333,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furries & Scalies & Bears OH MY!: Halloween Harvest Festival | 171042 | [171042-furries-and-scalies-and-bears-oh-my-halloween-harvest-festival.json](./171042-furries-and-scalies-and-bears-oh-my-halloween-harvest-festival.json) |
 | Furries & Scalies & Bears OH MY!: The Bear | 171041 | [171041-furries-and-scalies-and-bears-oh-my-the-bear.json](./171041-furries-and-scalies-and-bears-oh-my-the-bear.json) |
 | Furries & Scalies & Bears Oh My!: Ultimate Edition | 185114 | [185114-furries-and-scalies-and-bears-oh-my-ultimate-edition.json](./185114-furries-and-scalies-and-bears-oh-my-ultimate-edition.json) |
+| Furries & Scalies & Scarecrows Oh My! | 321525 | [321525-furries-and-scalies-and-scarecrows-oh-my.json](./321525-furries-and-scalies-and-scarecrows-oh-my.json) |
 | Furrifighters: Prequel I | 369553 | [369553-furrifighters-prequel-i.json](./369553-furrifighters-prequel-i.json) |
 | Furry Animals Bombing | 109745 | [109745-furry-animals-bombing.json](./109745-furry-animals-bombing.json) |
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
