@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
 | Hivaneph: The Legend of Elles | 335372 | [335372-hivaneph-the-legend-of-elles.json](./335372-hivaneph-the-legend-of-elles.json) |
 | Hive | 5604 | [5604-hive.json](./5604-hive.json) |
+| Hive and Seek | 304176 | [304176-hive-and-seek.json](./304176-hive-and-seek.json) |
 | Hive Defender | 190193 | [190193-hive-defender.json](./190193-hive-defender.json) |
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
 | Hive Jump | 20874 | [20874-hive-jump.json](./20874-hive-jump.json) |
@@ -2528,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Royale | 153965 | [153965-horror-royale.json](./153965-horror-royale.json) |
 | Horror Run | 201237 | [201237-horror-run.json](./201237-horror-run.json) |
 | Horror Scary Granny Pink Barby | 231936 | [231936-horror-scary-granny-pink-barby.json](./231936-horror-scary-granny-pink-barby.json) |
+| Horror School: The Classroom | 303090 | [303090-horror-school-the-classroom.json](./303090-horror-school-the-classroom.json) |
 | Horror Simulator: Co-Op | 318059 | [318059-horror-simulator-co-op.json](./318059-horror-simulator-co-op.json) |
 | Horror Stories | 60496 | [60496-horror-stories.json](./60496-horror-stories.json) |
 | Horror Story | 42001 | [42001-horror-story.json](./42001-horror-story.json) |
@@ -2632,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Tin Roof: The Cat That Wore a Fedora | 26875 | [26875-hot-tin-roof-the-cat-that-wore-a-fedora.json](./26875-hot-tin-roof-the-cat-that-wore-a-fedora.json) |
 | Hot Vacation | 173835 | [173835-hot-vacation.json](./173835-hot-vacation.json) |
 | Hot Wave | 40780 | [40780-hot-wave.json](./40780-hot-wave.json) |
+| Hot Wax | 304749 | [304749-hot-wax.json](./304749-hot-wax.json) |
 | Hot Wheels Monster Trucks: Stunt Mayhem | 313494 | [313494-hot-wheels-monster-trucks-stunt-mayhem.json](./313494-hot-wheels-monster-trucks-stunt-mayhem.json) |
 | Hot Wheels Slot Car Racing | 100125 | [100125-hot-wheels-slot-car-racing.json](./100125-hot-wheels-slot-car-racing.json) |
 | Hot Wheels Turbo Racing | 3371 | [3371-hot-wheels-turbo-racing.json](./3371-hot-wheels-turbo-racing.json) |
@@ -3099,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Pixel Man | 413684 | [413684-hyper-pixel-man.json](./413684-hyper-pixel-man.json) |
 | Hyper Reverthion | 97327 | [97327-hyper-reverthion.json](./97327-hyper-reverthion.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
+| Hyper School Simulator | 303095 | [303095-hyper-school-simulator.json](./303095-hyper-school-simulator.json) |
 | Hyper Scuffle | 114338 | [114338-hyper-scuffle.json](./114338-hyper-scuffle.json) |
 | Hyper Shapes | 232443 | [232443-hyper-shapes.json](./232443-hyper-shapes.json) |
 | Hyper Simon X | 103438 | [103438-hyper-simon-x.json](./103438-hyper-simon-x.json) |
