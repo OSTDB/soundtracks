@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Blaster | 58252 | [58252-laser-blaster.json](./58252-laser-blaster.json) |
 | Laser Cannon 3 | 207814 | [207814-laser-cannon-3.json](./207814-laser-cannon-3.json) |
 | Laser Cat Craft | 244803 | [244803-laser-cat-craft.json](./244803-laser-cat-craft.json) |
+| Laser Circle | 312180 | [312180-laser-circle.json](./312180-laser-circle.json) |
 | Laser Dreams | 58267 | [58267-laser-dreams.json](./58267-laser-dreams.json) |
 | Laser Droplets | 159870 | [159870-laser-droplets.json](./159870-laser-droplets.json) |
 | Laser Fortress | 318757 | [318757-laser-fortress.json](./318757-laser-fortress.json) |
@@ -1601,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Cycling Manager 2022 | 215920 | [215920-live-cycling-manager-2022.json](./215920-live-cycling-manager-2022.json) |
 | Live Empire | 169403 | [169403-live-empire.json](./169403-live-empire.json) |
 | Live Labyrinth | 149530 | [149530-live-labyrinth.json](./149530-live-labyrinth.json) |
+| Live Lens | 312179 | [312179-live-lens.json](./312179-live-lens.json) |
 | Live Maze | 210874 | [210874-live-maze.json](./210874-live-maze.json) |
 | Live or Die: Survival | 106527 | [106527-live-or-die-survival.json](./106527-live-or-die-survival.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
