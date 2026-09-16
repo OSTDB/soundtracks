@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questland: Swords & Spirits | 100896 | [100896-questland-swords-and-spirits.json](./100896-questland-swords-and-spirits.json) |
 | QuestMania | 79305 | [79305-questmania.json](./79305-questmania.json) |
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
+| Quetzal | 299302 | [299302-quetzal.json](./299302-quetzal.json) |
 | Queue | 180255 | [180255-queue.json](./180255-queue.json) |
 | Queue Simulator | 276715 | [276715-queue-simulator.json](./276715-queue-simulator.json) |
 | Queued | 256538 | [256538-queued.json](./256538-queued.json) |
