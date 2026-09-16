@@ -2964,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Brownie: Turbo | 209645 | [209645-the-jumping-brownie-turbo.json](./209645-the-jumping-brownie-turbo.json) |
 | The Jumping Burger | 200724 | [200724-the-jumping-burger.json](./200724-the-jumping-burger.json) |
 | The Jumping Burger Climb | 332565 | [332565-the-jumping-burger-climb.json](./332565-the-jumping-burger-climb.json) |
+| The Jumping Burger Rush | 317418 | [317418-the-jumping-burger-rush.json](./317418-the-jumping-burger-rush.json) |
 | The Jumping Burger: Turbo | 209146 | [209146-the-jumping-burger-turbo.json](./209146-the-jumping-burger-turbo.json) |
 | The Jumping Burrito | 208381 | [208381-the-jumping-burrito.json](./208381-the-jumping-burrito.json) |
 | The Jumping Burrito: Turbo | 208382 | [208382-the-jumping-burrito-turbo.json](./208382-the-jumping-burrito-turbo.json) |
@@ -5977,6 +5978,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Times Turn | 185132 | [185132-times-turn.json](./185132-times-turn.json) |
 | TimeScape: Journey to Pompeii | 73819 | [73819-timescape-journey-to-pompeii.json](./73819-timescape-journey-to-pompeii.json) |
 | Timeslip | 77974 | [77974-timeslip.json](./77974-timeslip.json) |
+| TimeSplitters | 317415 | [317415-timesplitters.json](./317415-timesplitters.json) |
+| TimeSplitters 2 | 317414 | [317414-timesplitters-2.json](./317414-timesplitters-2.json) |
+| TimeSplitters: Future Perfect | 317416 | [317416-timesplitters-future-perfect.json](./317416-timesplitters-future-perfect.json) |
 | TimeTrain | 328629 | [328629-timetrain.json](./328629-timetrain.json) |
 | TimeWatch | 130909 | [130909-timewatch.json](./130909-timewatch.json) |
 | TimeZero | 58813 | [58813-timezero.json](./58813-timezero.json) |
@@ -6058,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
 | Tiny Shadows Interwoven Hearts | 374078 | [374078-tiny-shadows-interwoven-hearts.json](./374078-tiny-shadows-interwoven-hearts.json) |
 | Tiny Shop | 365094 | [365094-tiny-shop.json](./365094-tiny-shop.json) |
+| Tiny Starfighters | 317413 | [317413-tiny-starfighters.json](./317413-tiny-starfighters.json) |
 | Tiny Striker | 23408 | [23408-tiny-striker.json](./23408-tiny-striker.json) |
 | Tiny Tactics | 210879 | [210879-tiny-tactics.json](./210879-tiny-tactics.json) |
 | Tiny Tanks | 78904 | [78904-tiny-tanks.json](./78904-tiny-tanks.json) |
@@ -8210,6 +8215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Racing | 331872 | [331872-turtle-racing.json](./331872-turtle-racing.json) |
 | Turtle Rush | 122368 | [122368-turtle-rush.json](./122368-turtle-rush.json) |
 | Turtle Tale | 79280 | [79280-turtle-tale.json](./79280-turtle-tale.json) |
+| Turtle Wax | 317430 | [317430-turtle-wax.json](./317430-turtle-wax.json) |
 | Turtle WoW: Mysteries of Azeroth | 253071 | [253071-turtle-wow-mysteries-of-azeroth.json](./253071-turtle-wow-mysteries-of-azeroth.json) |
 | Turtle: Voidrunner | 74355 | [74355-turtle-voidrunner.json](./74355-turtle-voidrunner.json) |
 | Turtles | 23686 | [23686-turtles.json](./23686-turtles.json) |
@@ -8386,6 +8392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Ninja | 290943 | [290943-typing-ninja.json](./290943-typing-ninja.json) |
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
 | Typing Tales | 373004 | [373004-typing-tales.json](./373004-typing-tales.json) |
+| Typingcommand | 317412 | [317412-typingcommand.json](./317412-typingcommand.json) |
 | Typo | 145677 | [145677-typo.json](./145677-typo.json) |
 | Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
 | Tyr: Chains of Valhalla | 96750 | [96750-tyr-chains-of-valhalla.json](./96750-tyr-chains-of-valhalla.json) |
