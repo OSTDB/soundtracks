@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DashFire | 339367 | [339367-dashfire.json](./339367-dashfire.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
+| Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
 | Dasshutsu Game: Momo | 220309 | [220309-dasshutsu-game-momo.json](./220309-dasshutsu-game-momo.json) |
 | Dasshutsu Game: Neko-sama no Karakuri Garden kara no Dasshutsu | 220310 | [220310-dasshutsu-game-neko-sama-no-karakuri-garden-kara-no-dasshutsu.json](./220310-dasshutsu-game-neko-sama-no-karakuri-garden-kara-no-dasshutsu.json) |
 | Dasshutsu Girls | 220308 | [220308-dasshutsu-girls.json](./220308-dasshutsu-girls.json) |
@@ -977,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadrock Salvation | 382752 | [382752-deadrock-salvation.json](./382752-deadrock-salvation.json) |
 | DeadRoot | 404919 | [404919-deadroot.json](./404919-deadroot.json) |
 | Deadrop | 210684 | [210684-deadrop.json](./210684-deadrop.json) |
+| Deads On The Road: Shoot Zombie Hunting 2024 | 319784 | [319784-deads-on-the-road-shoot-zombie-hunting-2024.json](./319784-deads-on-the-road-shoot-zombie-hunting-2024.json) |
 | DeadShore | 356641 | [356641-deadshore.json](./356641-deadshore.json) |
 | DeadShotZ | 129914 | [129914-deadshotz.json](./129914-deadshotz.json) |
 | Deadside | 109666 | [109666-deadside.json](./109666-deadside.json) |
@@ -1407,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery of Us | 380398 | [380398-delivery-of-us.json](./380398-delivery-of-us.json) |
 | Delivery Simulator | 161335 | [161335-delivery-simulator.json](./161335-delivery-simulator.json) |
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
+| Delta | 319816 | [319816-delta.json](./319816-delta.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
 | Delta Directive | 412266 | [412266-delta-directive.json](./412266-delta-directive.json) |
 | Delta Force: Black Hawk Down | 332541 | [332541-delta-force-black-hawk-down.json](./332541-delta-force-black-hawk-down.json) |
