@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T08:04:25.597Z",
-  "total_missing": 77132,
+  "generated_at": "2026-09-16T08:11:41.456Z",
+  "total_missing": 77131,
   "games": [
     {
       "igdb_id": 306086,
@@ -5881,11 +5881,6 @@
       "igdb_id": 43936,
       "game_name": "Agile Warrior F-111X",
       "file": "missing/A/43936-agile-warrior-f-111x.json"
-    },
-    {
-      "igdb_id": 205586,
-      "game_name": "Aglet: The Sneaker Game",
-      "file": "missing/A/205586-aglet-the-sneaker-game.json"
     },
     {
       "igdb_id": 11890,
