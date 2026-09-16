@@ -7163,6 +7163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: EDDF Airport | 353327 | [353327-tower-simulator-3-eddf-airport.json](./353327-tower-simulator-3-eddf-airport.json) |
 | Tower! Simulator 3: EDDM Airport | 353313 | [353313-tower-simulator-3-eddm-airport.json](./353313-tower-simulator-3-eddm-airport.json) |
 | Tower! Simulator 3: EHAM Airport | 353331 | [353331-tower-simulator-3-eham-airport.json](./353331-tower-simulator-3-eham-airport.json) |
+| Tower! Simulator 3: EKCH Airport | 288906 | [288906-tower-simulator-3-ekch-airport.json](./288906-tower-simulator-3-ekch-airport.json) |
 | Tower! Simulator 3: KATL Airport | 353330 | [353330-tower-simulator-3-katl-airport.json](./353330-tower-simulator-3-katl-airport.json) |
 | Tower! Simulator 3: KAUS Airport | 353326 | [353326-tower-simulator-3-kaus-airport.json](./353326-tower-simulator-3-kaus-airport.json) |
 | Tower! Simulator 3: KBNA Airport | 353321 | [353321-tower-simulator-3-kbna-airport.json](./353321-tower-simulator-3-kbna-airport.json) |
@@ -7377,6 +7378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: Union Pacific Heritage - Livery Collection | 237943 | [237943-train-sim-world-3-union-pacific-heritage-livery-collection.json](./237943-train-sim-world-3-union-pacific-heritage-livery-collection.json) |
 | Train Sim World 4: Antelope Valley Line - Los Angeles - Lancaster Route | 269324 | [269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json](./269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json) |
 | Train Sim World 4: Berninalinie - Tirano: Ospizio Bernina Route | 286525 | [286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json](./286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json) |
+| Train Sim World 4: Edinburgh - Glasgow: Engineering Express Pack | 288920 | [288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json](./288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json) |
 | Train Sim World 4: Nahverkehr Dresden - Riesa Route Add-On | 307970 | [307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json](./307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json) |
 | Train Sim World 4: RhB Arosa Aggregates Pack | 277587 | [277587-train-sim-world-4-rhb-arosa-aggregates-pack.json](./277587-train-sim-world-4-rhb-arosa-aggregates-pack.json) |
 | Train Sim World 4: S-Bahn Vorarlberg - Lindau - Bludenz Route | 269322 | [269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json](./269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json) |
@@ -7553,6 +7555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Your Brain! Spot the Difference With Space Photos | 385070 | [385070-train-your-brain-spot-the-difference-with-space-photos.json](./385070-train-your-brain-spot-the-difference-with-space-photos.json) |
 | Train'em | 163971 | [163971-trainem.json](./163971-trainem.json) |
 | Trainee Death Simulator | 319810 | [319810-trainee-death-simulator.json](./319810-trainee-death-simulator.json) |
+| Training Elves | 288901 | [288901-training-elves.json](./288901-training-elves.json) |
 | Training Hero | 239917 | [239917-training-hero.json](./239917-training-hero.json) |
 | Training Mode | 180276 | [180276-training-mode.json](./180276-training-mode.json) |
 | TrainingPeaks Virtual | 328624 | [328624-trainingpeaks-virtual.json](./328624-trainingpeaks-virtual.json) |
