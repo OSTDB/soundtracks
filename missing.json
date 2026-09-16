@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T00:33:57.581Z",
-  "total_missing": 75967,
+  "generated_at": "2026-09-16T00:48:41.220Z",
+  "total_missing": 76017,
   "games": [
     {
       "igdb_id": 306086,
@@ -15981,6 +15981,11 @@
       "igdb_id": 316047,
       "game_name": "Archers Online",
       "file": "missing/A/316047-archers-online.json"
+    },
+    {
+      "igdb_id": 332536,
+      "game_name": "Archers Shadow Strike",
+      "file": "missing/A/332536-archers-shadow-strike.json"
     },
     {
       "igdb_id": 63249,
@@ -35193,6 +35198,11 @@
       "file": "missing/B/386109-blitz-society.json"
     },
     {
+      "igdb_id": 332549,
+      "game_name": "Blitz Sonic",
+      "file": "missing/B/332549-blitz-sonic.json"
+    },
+    {
       "igdb_id": 264860,
       "game_name": "Blitz: The League",
       "file": "missing/B/264860-blitz-the-league.json"
@@ -35426,6 +35436,11 @@
       "igdb_id": 390148,
       "game_name": "Block In",
       "file": "missing/B/390148-block-in.json"
+    },
+    {
+      "igdb_id": 332516,
+      "game_name": "Block Jam: Cute Edition",
+      "file": "missing/B/332516-block-jam-cute-edition.json"
     },
     {
       "igdb_id": 38269,
@@ -43846,6 +43861,11 @@
       "igdb_id": 199110,
       "game_name": "Burger Chef Tycoon: Complete Edition",
       "file": "missing/B/199110-burger-chef-tycoon-complete-edition.json"
+    },
+    {
+      "igdb_id": 332515,
+      "game_name": "Burger Chef Tycoon: Elite Edition",
+      "file": "missing/B/332515-burger-chef-tycoon-elite-edition.json"
     },
     {
       "igdb_id": 273629,
@@ -59063,6 +59083,11 @@
       "file": "missing/C/283191-coloring-book-complete-bundle-410-drawings.json"
     },
     {
+      "igdb_id": 332514,
+      "game_name": "Coloring Book: Cute Edition",
+      "file": "missing/C/332514-coloring-book-cute-edition.json"
+    },
+    {
       "igdb_id": 317237,
       "game_name": "Coloring Bundle",
       "file": "missing/C/317237-coloring-bundle.json"
@@ -61686,6 +61711,11 @@
       "igdb_id": 231045,
       "game_name": "Cooking Tycoons 3: 3 in 1 Bundle",
       "file": "missing/C/231045-cooking-tycoons-3-3-in-1-bundle.json"
+    },
+    {
+      "igdb_id": 332511,
+      "game_name": "Cooking Tycoons: 3 in 1 Bundle - Extended Edition",
+      "file": "missing/C/332511-cooking-tycoons-3-in-1-bundle-extended-edition.json"
     },
     {
       "igdb_id": 396916,
@@ -65276,6 +65306,11 @@
       "igdb_id": 218695,
       "game_name": "Crime Moto Racer",
       "file": "missing/C/218695-crime-moto-racer.json"
+    },
+    {
+      "igdb_id": 332503,
+      "game_name": "Crime Opera Collection",
+      "file": "missing/C/332503-crime-opera-collection.json"
     },
     {
       "igdb_id": 236286,
@@ -70791,6 +70826,11 @@
       "igdb_id": 117623,
       "game_name": "Danger Crew",
       "file": "missing/D/117623-danger-crew.json"
+    },
+    {
+      "igdb_id": 332559,
+      "game_name": "Danger Dash",
+      "file": "missing/D/332559-danger-dash.json"
     },
     {
       "igdb_id": 282005,
@@ -76448,6 +76488,11 @@
       "file": "missing/D/412266-delta-directive.json"
     },
     {
+      "igdb_id": 332541,
+      "game_name": "Delta Force: Black Hawk Down",
+      "file": "missing/D/332541-delta-force-black-hawk-down.json"
+    },
+    {
       "igdb_id": 9350,
       "game_name": "Delta Force: Land Warrior",
       "file": "missing/D/9350-delta-force-land-warrior.json"
@@ -81193,6 +81238,11 @@
       "file": "missing/D/97366-discode-reverse.json"
     },
     {
+      "igdb_id": 332504,
+      "game_name": "Discolored Bundle",
+      "file": "missing/D/332504-discolored-bundle.json"
+    },
+    {
       "igdb_id": 275313,
       "game_name": "Disconcerting Unease 1",
       "file": "missing/D/275313-disconcerting-unease-1.json"
@@ -83431,6 +83481,11 @@
       "igdb_id": 293622,
       "game_name": "Doll Defenders",
       "file": "missing/D/293622-doll-defenders.json"
+    },
+    {
+      "igdb_id": 332510,
+      "game_name": "Doll Dress Up: Classy Edition",
+      "file": "missing/D/332510-doll-dress-up-classy-edition.json"
     },
     {
       "igdb_id": 151658,
@@ -90543,6 +90598,11 @@
       "file": "missing/D/204675-dungeon-amanojaku.json"
     },
     {
+      "igdb_id": 332562,
+      "game_name": "Dungeon And Darkness",
+      "file": "missing/D/332562-dungeon-and-darkness.json"
+    },
+    {
       "igdb_id": 391579,
       "game_name": "Dungeon Apollonios",
       "file": "missing/D/391579-dungeon-apollonios.json"
@@ -94271,6 +94331,21 @@
       "igdb_id": 389442,
       "game_name": "Either Eye",
       "file": "missing/E/389442-either-eye.json"
+    },
+    {
+      "igdb_id": 332517,
+      "game_name": "Eiyuden Chronicle: Hundred Heroes - The Chapter of Marisa",
+      "file": "missing/E/332517-eiyuden-chronicle-hundred-heroes-the-chapter-of-marisa.json"
+    },
+    {
+      "igdb_id": 332518,
+      "game_name": "Eiyuden Chronicle: Hundred Heroes - The Chapter of Markus",
+      "file": "missing/E/332518-eiyuden-chronicle-hundred-heroes-the-chapter-of-markus.json"
+    },
+    {
+      "igdb_id": 332519,
+      "game_name": "Eiyuden Chronicle: Hundred Heroes - The Chapter of Seign",
+      "file": "missing/E/332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json"
     },
     {
       "igdb_id": 69857,
@@ -106088,6 +106163,11 @@
       "file": "missing/F/331355-fear-me-the-silent.json"
     },
     {
+      "igdb_id": 332537,
+      "game_name": "Fear of Biosec",
+      "file": "missing/F/332537-fear-of-biosec.json"
+    },
+    {
       "igdb_id": 335685,
       "game_name": "Fear of Hot Water Ghost",
       "file": "missing/F/335685-fear-of-hot-water-ghost.json"
@@ -114073,6 +114153,11 @@
       "file": "missing/F/27954-forged-of-blood.json"
     },
     {
+      "igdb_id": 332542,
+      "game_name": "Forgekeepers",
+      "file": "missing/F/332542-forgekeepers.json"
+    },
+    {
       "igdb_id": 374047,
       "game_name": "ForgeRun",
       "file": "missing/F/374047-forgerun.json"
@@ -117451,6 +117536,11 @@
       "igdb_id": 214487,
       "game_name": "Fruit Adventure",
       "file": "missing/F/214487-fruit-adventure.json"
+    },
+    {
+      "igdb_id": 332531,
+      "game_name": "Fruit Adventure Returns",
+      "file": "missing/F/332531-fruit-adventure-returns.json"
     },
     {
       "igdb_id": 196858,
@@ -125308,6 +125398,11 @@
       "file": "missing/G/392928-go-home-1986.json"
     },
     {
+      "igdb_id": 332509,
+      "game_name": "Go Kart Mania: Discovery Edition",
+      "file": "missing/G/332509-go-kart-mania-discovery-edition.json"
+    },
+    {
       "igdb_id": 317255,
       "game_name": "Go Kart Mania: Premium Edition",
       "file": "missing/G/317255-go-kart-mania-premium-edition.json"
@@ -129326,6 +129421,11 @@
       "igdb_id": 152223,
       "game_name": "Green Hell VR",
       "file": "missing/G/152223-green-hell-vr.json"
+    },
+    {
+      "igdb_id": 332550,
+      "game_name": "Green Hill Zone 2.5D",
+      "file": "missing/G/332550-green-hill-zone-2-5d.json"
     },
     {
       "igdb_id": 410929,
@@ -133541,6 +133641,11 @@
       "igdb_id": 43955,
       "game_name": "Halo 3: Legendary Edition",
       "file": "missing/H/43955-halo-3-legendary-edition.json"
+    },
+    {
+      "igdb_id": 332561,
+      "game_name": "Halo 3: The Battlefront Pack",
+      "file": "missing/H/332561-halo-3-the-battlefront-pack.json"
     },
     {
       "igdb_id": 77343,
@@ -160626,6 +160731,11 @@
       "igdb_id": 192978,
       "game_name": "Jump Like An Egyptian",
       "file": "missing/J/192978-jump-like-an-egyptian.json"
+    },
+    {
+      "igdb_id": 332528,
+      "game_name": "Jump Man",
+      "file": "missing/J/332528-jump-man.json"
     },
     {
       "igdb_id": 117553,
@@ -202713,6 +202823,11 @@
       "file": "missing/M/271503-moto-rush-gt-prime-edition.json"
     },
     {
+      "igdb_id": 332512,
+      "game_name": "Moto Rush GT: Ultra Edition",
+      "file": "missing/M/332512-moto-rush-gt-ultra-edition.json"
+    },
+    {
       "igdb_id": 95990,
       "game_name": "Moto X3M 2",
       "file": "missing/M/95990-moto-x3m-2.json"
@@ -214363,6 +214478,11 @@
       "file": "missing/N/137601-ninja-kiwi-archive.json"
     },
     {
+      "igdb_id": 332530,
+      "game_name": "Ninja Master Toru",
+      "file": "missing/N/332530-ninja-master-toru.json"
+    },
+    {
       "igdb_id": 341478,
       "game_name": "Ninja Ming: Wu",
       "file": "missing/N/341478-ninja-ming-wu.json"
@@ -216051,6 +216171,11 @@
       "igdb_id": 209680,
       "game_name": "Noodle Party",
       "file": "missing/N/209680-noodle-party.json"
+    },
+    {
+      "igdb_id": 332563,
+      "game_name": "Noodleman.io party games",
+      "file": "missing/N/332563-noodleman-io-party-games.json"
     },
     {
       "igdb_id": 90541,
@@ -227358,6 +227483,11 @@
       "file": "missing/P/253369-paradise-lust-2.json"
     },
     {
+      "igdb_id": 332539,
+      "game_name": "Paradise of Freedom",
+      "file": "missing/P/332539-paradise-of-freedom.json"
+    },
+    {
       "igdb_id": 311808,
       "game_name": "Paradise Shooting 2!!",
       "file": "missing/P/311808-paradise-shooting-2.json"
@@ -231316,6 +231446,36 @@
       "igdb_id": 144246,
       "game_name": "Phantom Brave: The Hermuda Triangle Remastered",
       "file": "missing/P/144246-phantom-brave-the-hermuda-triangle-remastered.json"
+    },
+    {
+      "igdb_id": 332520,
+      "game_name": "Phantom Brave: The Lost Hero - Heroes of the Past",
+      "file": "missing/P/332520-phantom-brave-the-lost-hero-heroes-of-the-past.json"
+    },
+    {
+      "igdb_id": 332521,
+      "game_name": "Phantom Brave: The Lost Hero - Parallel Siblings",
+      "file": "missing/P/332521-phantom-brave-the-lost-hero-parallel-siblings.json"
+    },
+    {
+      "igdb_id": 332522,
+      "game_name": "Phantom Brave: The Lost Hero - The Girl Who Cried Ghost",
+      "file": "missing/P/332522-phantom-brave-the-lost-hero-the-girl-who-cried-ghost.json"
+    },
+    {
+      "igdb_id": 332525,
+      "game_name": "Phantom Brave: The Lost Hero - The Liar and the Lost",
+      "file": "missing/P/332525-phantom-brave-the-lost-hero-the-liar-and-the-lost.json"
+    },
+    {
+      "igdb_id": 332523,
+      "game_name": "Phantom Brave: The Lost Hero - The Rat Who Demons Fear",
+      "file": "missing/P/332523-phantom-brave-the-lost-hero-the-rat-who-demons-fear.json"
+    },
+    {
+      "igdb_id": 332524,
+      "game_name": "Phantom Brave: The Lost Hero - The Wandering Pirate",
+      "file": "missing/P/332524-phantom-brave-the-lost-hero-the-wandering-pirate.json"
     },
     {
       "igdb_id": 7130,
@@ -235323,6 +235483,11 @@
       "file": "missing/P/389416-pixicharm-acornflare.json"
     },
     {
+      "igdb_id": 332538,
+      "game_name": "Pixicharm: Bus Coinventure",
+      "file": "missing/P/332538-pixicharm-bus-coinventure.json"
+    },
+    {
       "igdb_id": 374716,
       "game_name": "Pixicharm: Cavrielle",
       "file": "missing/P/374716-pixicharm-cavrielle.json"
@@ -235421,6 +235586,11 @@
       "igdb_id": 237978,
       "game_name": "Pizza Bar Tycoon: Expansion Pack 2",
       "file": "missing/P/237978-pizza-bar-tycoon-expansion-pack-2.json"
+    },
+    {
+      "igdb_id": 332508,
+      "game_name": "Pizza Bar Tycoon: Legendary Edition",
+      "file": "missing/P/332508-pizza-bar-tycoon-legendary-edition.json"
     },
     {
       "igdb_id": 94182,
@@ -239431,6 +239601,11 @@
       "igdb_id": 100147,
       "game_name": "Pool Break 3D Billiards 8 Ball, 9 Ball, Snooker",
       "file": "missing/P/100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json"
+    },
+    {
+      "igdb_id": 332513,
+      "game_name": "Pool Fever: Prime Edition",
+      "file": "missing/P/332513-pool-fever-prime-edition.json"
     },
     {
       "igdb_id": 396925,
@@ -271153,6 +271328,11 @@
       "file": "missing/S/64982-seifuku-densetsu-pretty-fighter-x.json"
     },
     {
+      "igdb_id": 332551,
+      "game_name": "Seifuku Kanojo 2",
+      "file": "missing/S/332551-seifuku-kanojo-2.json"
+    },
+    {
       "igdb_id": 240230,
       "game_name": "Seigi no Torishirabe",
       "file": "missing/S/240230-seigi-no-torishirabe.json"
@@ -273526,6 +273706,11 @@
       "igdb_id": 337705,
       "game_name": "Shadows Beneath the Badge: An Undercover Affair",
       "file": "missing/S/337705-shadows-beneath-the-badge-an-undercover-affair.json"
+    },
+    {
+      "igdb_id": 332547,
+      "game_name": "Shadows Fall",
+      "file": "missing/S/332547-shadows-fall.json"
     },
     {
       "igdb_id": 217335,
@@ -285348,6 +285533,11 @@
       "file": "missing/S/409582-solipsistic.json"
     },
     {
+      "igdb_id": 332529,
+      "game_name": "Solir",
+      "file": "missing/S/332529-solir.json"
+    },
+    {
       "igdb_id": 243701,
       "game_name": "Solitaire",
       "file": "missing/S/243701-solitaire.json"
@@ -286503,6 +286693,11 @@
       "file": "missing/S/333959-sonic-elementals.json"
     },
     {
+      "igdb_id": 332553,
+      "game_name": "Sonic Epsilon",
+      "file": "missing/S/332553-sonic-epsilon.json"
+    },
+    {
       "igdb_id": 198564,
       "game_name": "Sonic ERaZor",
       "file": "missing/S/198564-sonic-erazor.json"
@@ -287251,6 +287446,11 @@
       "igdb_id": 43320,
       "game_name": "Sonic the Hedgehog Megamix",
       "file": "missing/S/43320-sonic-the-hedgehog-megamix.json"
+    },
+    {
+      "igdb_id": 332557,
+      "game_name": "Sonic the Hedgehog PC",
+      "file": "missing/S/332557-sonic-the-hedgehog-pc.json"
     },
     {
       "igdb_id": 326955,
@@ -293351,6 +293551,16 @@
       "igdb_id": 328993,
       "game_name": "Sprout Valley Big Pack",
       "file": "missing/S/328993-sprout-valley-big-pack.json"
+    },
+    {
+      "igdb_id": 332505,
+      "game_name": "Sprout Valley: Friends Forever",
+      "file": "missing/S/332505-sprout-valley-friends-forever.json"
+    },
+    {
+      "igdb_id": 332526,
+      "game_name": "Sprout Valley: Friends Forever Expansion",
+      "file": "missing/S/332526-sprout-valley-friends-forever-expansion.json"
     },
     {
       "igdb_id": 358932,
@@ -310668,6 +310878,11 @@
       "file": "missing/T/109709-tactics-rogue.json"
     },
     {
+      "igdb_id": 332564,
+      "game_name": "Tactics Unlimited",
+      "file": "missing/T/332564-tactics-unlimited.json"
+    },
+    {
       "igdb_id": 311805,
       "game_name": "TacticsLand",
       "file": "missing/T/311805-tacticsland.json"
@@ -312936,6 +313151,11 @@
       "igdb_id": 395684,
       "game_name": "Tank vs. Tank GOTY Edition",
       "file": "missing/T/395684-tank-vs-tank-goty-edition.json"
+    },
+    {
+      "igdb_id": 332507,
+      "game_name": "Tank vs. Tank: Deluxe Edition",
+      "file": "missing/T/332507-tank-vs-tank-deluxe-edition.json"
     },
     {
       "igdb_id": 400205,
@@ -323553,6 +323773,11 @@
       "file": "missing/T/264355-the-harlem-shake-vs-gangnam-dance-game.json"
     },
     {
+      "igdb_id": 332532,
+      "game_name": "The Harmony Chronicles: Demon of the Void - Collector’s Edition",
+      "file": "missing/T/332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json"
+    },
+    {
       "igdb_id": 55921,
       "game_name": "The Harmony of Buku",
       "file": "missing/T/55921-the-harmony-of-buku.json"
@@ -324631,6 +324856,11 @@
       "igdb_id": 200724,
       "game_name": "The Jumping Burger",
       "file": "missing/T/200724-the-jumping-burger.json"
+    },
+    {
+      "igdb_id": 332565,
+      "game_name": "The Jumping Burger Climb",
+      "file": "missing/T/332565-the-jumping-burger-climb.json"
     },
     {
       "igdb_id": 209146,
@@ -340518,6 +340748,11 @@
       "file": "missing/T/339932-to-the-moon.json"
     },
     {
+      "igdb_id": 332533,
+      "game_name": "To the Moon: Sigmund Minisode 1 & 2 (Holiday Special)",
+      "file": "missing/T/332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json"
+    },
+    {
       "igdb_id": 331128,
       "game_name": "To the Mountain",
       "file": "missing/T/331128-to-the-mountain.json"
@@ -355586,6 +355821,11 @@
       "igdb_id": 328808,
       "game_name": "Urban Flow: Epic Edition",
       "file": "missing/U/328808-urban-flow-epic-edition.json"
+    },
+    {
+      "igdb_id": 332506,
+      "game_name": "Urban Flow: Full Edition",
+      "file": "missing/U/332506-urban-flow-full-edition.json"
     },
     {
       "igdb_id": 328807,
@@ -371473,6 +371713,11 @@
       "file": "missing/W/336938-world-of-tanks-modern-armor-metal-dragon.json"
     },
     {
+      "igdb_id": 332534,
+      "game_name": "World of Tanks: Modern Armor - Super Heavy Hitter",
+      "file": "missing/W/332534-world-of-tanks-modern-armor-super-heavy-hitter.json"
+    },
+    {
       "igdb_id": 338220,
       "game_name": "World of Tanks: Modern Armor - Warlords Starter Pack",
       "file": "missing/W/338220-world-of-tanks-modern-armor-warlords-starter-pack.json"
@@ -371566,6 +371811,11 @@
       "igdb_id": 340747,
       "game_name": "World of Warships: Legends - Captain's Essentials",
       "file": "missing/W/340747-world-of-warships-legends-captains-essentials.json"
+    },
+    {
+      "igdb_id": 332535,
+      "game_name": "World of Warships: Legends - European Strength",
+      "file": "missing/W/332535-world-of-warships-legends-european-strength.json"
     },
     {
       "igdb_id": 223475,
