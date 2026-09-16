@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails of Iron II: Whiskers of Winter - Augur of the Draugr Armour Pack | 371224 | [371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json](./371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json) |
 | Tails of Iron II: Whiskers of Winter - Hair to the Throne Pack | 371223 | [371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json](./371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json) |
 | Tails of the North | 367480 | [367480-tails-of-the-north.json](./367480-tails-of-the-north.json) |
+| Tails to the Rescue | 330308 | [330308-tails-to-the-rescue.json](./330308-tails-to-the-rescue.json) |
 | Tails: The Game | 330706 | [330706-tails-the-game.json](./330706-tails-the-game.json) |
 | Tails' Adventures 2 | 336355 | [336355-tails-adventures-2.json](./336355-tails-adventures-2.json) |
 | Tails' Nightmare 2 | 307584 | [307584-tails-nightmare-2.json](./307584-tails-nightmare-2.json) |
@@ -792,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi! | 9454 | [9454-taxi.json](./9454-taxi.json) |
 | TaxMan | 19478 | [19478-taxman.json](./19478-taxman.json) |
 | Tayal | 109622 | [109622-tayal.json](./109622-tayal.json) |
+| Taylordle | 330295 | [330295-taylordle.json](./330295-taylordle.json) |
 | Tayutama 2-you're the only one- ENG ver. | 82046 | [82046-tayutama-2-youre-the-only-one-eng-ver.json](./82046-tayutama-2-youre-the-only-one-eng-ver.json) |
 | Tayutama: Kiss on My Deity | 69311 | [69311-tayutama-kiss-on-my-deity.json](./69311-tayutama-kiss-on-my-deity.json) |
 | Taz | 100183 | [100183-taz.json](./100183-taz.json) |
@@ -2533,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frost | 28872 | [28872-the-frost.json](./28872-the-frost.json) |
 | The Fruit Game | 346565 | [346565-the-fruit-game.json](./346565-the-fruit-game.json) |
 | The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
+| The Fugitives | 330309 | [330309-the-fugitives.json](./330309-the-fugitives.json) |
 | The Funny Boneyard | 112335 | [112335-the-funny-boneyard.json](./112335-the-funny-boneyard.json) |
 | The Funskin Project | 345584 | [345584-the-funskin-project.json](./345584-the-funskin-project.json) |
 | The Furniture of Self | 185626 | [185626-the-furniture-of-self.json](./185626-the-furniture-of-self.json) |
@@ -2765,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House | 352303 | [352303-the-house.json](./352303-the-house.json) |
 | The House Before | 189124 | [189124-the-house-before.json](./189124-the-house-before.json) |
 | The House in Fata Morgana: A Requiem for Innocence | 56006 | [56006-the-house-in-fata-morgana-a-requiem-for-innocence.json](./56006-the-house-in-fata-morgana-a-requiem-for-innocence.json) |
+| The House in Fata Morgana: Remaid of Dreams | 330338 | [330338-the-house-in-fata-morgana-remaid-of-dreams.json](./330338-the-house-in-fata-morgana-remaid-of-dreams.json) |
 | The House in the Forest | 129746 | [129746-the-house-in-the-forest.json](./129746-the-house-in-the-forest.json) |
 | The House in the Woods | 176505 | [176505-the-house-in-the-woods.json](./176505-the-house-in-the-woods.json) |
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
@@ -2943,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Keeper | 162424 | [162424-the-keeper.json](./162424-the-keeper.json) |
 | The Keepers of Pages: Chevengur | 111663 | [111663-the-keepers-of-pages-chevengur.json](./111663-the-keepers-of-pages-chevengur.json) |
 | The Keisatsu 24-ji | 365665 | [365665-the-keisatsu-24-ji.json](./365665-the-keisatsu-24-ji.json) |
+| The Key | 330293 | [330293-the-key.json](./330293-the-key.json) |
 | The Key of Rednow | 163403 | [163403-the-key-of-rednow.json](./163403-the-key-of-rednow.json) |
 | The Keyboard | 264029 | [264029-the-keyboard.json](./264029-the-keyboard.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
