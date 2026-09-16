@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterloo | 328018 | [328018-waterloo.json](./328018-waterloo.json) |
 | Watermelon Game: Fruits Puzzle | 293904 | [293904-watermelon-game-fruits-puzzle.json](./293904-watermelon-game-fruits-puzzle.json) |
 | Watermelon Merge: Strategy Game | 303236 | [303236-watermelon-merge-strategy-game.json](./303236-watermelon-merge-strategy-game.json) |
+| Watermelon Simulator | 325627 | [325627-watermelon-simulator.json](./325627-watermelon-simulator.json) |
 | Waternet | 210651 | [210651-waternet.json](./210651-waternet.json) |
 | Waterpark Simulator | 348648 | [348648-waterpark-simulator.json](./348648-waterpark-simulator.json) |
 | Waters of Ragnarok | 403653 | [403653-waters-of-ragnarok.json](./403653-waters-of-ragnarok.json) |
@@ -636,6 +637,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of Madness | 371261 | [371261-way-of-madness.json](./371261-way-of-madness.json) |
 | Way of Redemption | 58744 | [58744-way-of-redemption.json](./58744-way-of-redemption.json) |
 | Way of Retribution: Legend of Abyss | 197339 | [197339-way-of-retribution-legend-of-abyss.json](./197339-way-of-retribution-legend-of-abyss.json) |
+| Way of the Hunter: Hunter's Pack | 325657 | [325657-way-of-the-hunter-hunters-pack.json](./325657-way-of-the-hunter-hunters-pack.json) |
+| Way of the Hunter: Wild Expeditions | 325658 | [325658-way-of-the-hunter-wild-expeditions.json](./325658-way-of-the-hunter-wild-expeditions.json) |
 | Way of the Red | 25963 | [25963-way-of-the-red.json](./25963-way-of-the-red.json) |
 | Way of the Samurai | 10156 | [10156-way-of-the-samurai.json](./10156-way-of-the-samurai.json) |
 | Way of the Samurai 4 | 10158 | [10158-way-of-the-samurai-4.json](./10158-way-of-the-samurai-4.json) |
