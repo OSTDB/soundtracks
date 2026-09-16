@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Squad | 348856 | [348856-greedy-squad.json](./348856-greedy-squad.json) |
 | GreedyCraft | 204701 | [204701-greedycraft.json](./204701-greedycraft.json) |
 | Green Day Revenge | 66074 | [66074-green-day-revenge.json](./66074-green-day-revenge.json) |
+| Green Day: Dookie - Welcome to Paradise | 319233 | [319233-green-day-dookie-welcome-to-paradise.json](./319233-green-day-dookie-welcome-to-paradise.json) |
 | Green Eyed Monster | 184034 | [184034-green-eyed-monster.json](./184034-green-eyed-monster.json) |
 | Green Farm 2 | 385048 | [385048-green-farm-2.json](./385048-green-farm-2.json) |
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
@@ -2181,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Joggers | 336014 | [336014-grim-joggers.json](./336014-grim-joggers.json) |
 | Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
 | Grim Nights | 110185 | [110185-grim-nights.json](./110185-grim-nights.json) |
+| Grim Omens | 319199 | [319199-grim-omens.json](./319199-grim-omens.json) |
 | Grim Path | 393600 | [393600-grim-path.json](./393600-grim-path.json) |
 | Grim Quest | 195269 | [195269-grim-quest.json](./195269-grim-quest.json) |
 | Grim Reaper RPG | 134617 | [134617-grim-reaper-rpg.json](./134617-grim-reaper-rpg.json) |
