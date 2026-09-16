@@ -2347,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gross | 150091 | [150091-gross.json](./150091-gross.json) |
 | Grotesque Tactics: Evil Heroes | 18914 | [18914-grotesque-tactics-evil-heroes.json](./18914-grotesque-tactics-evil-heroes.json) |
 | Grottesco Absurdus | 110558 | [110558-grottesco-absurdus.json](./110558-grottesco-absurdus.json) |
+| Grotto Beasts Arena | 293234 | [293234-grotto-beasts-arena.json](./293234-grotto-beasts-arena.json) |
 | Grotto King | 282004 | [282004-grotto-king.json](./282004-grotto-king.json) |
 | Grottonnia | 171560 | [171560-grottonnia.json](./171560-grottonnia.json) |
 | Grouls | 329010 | [329010-grouls.json](./329010-grouls.json) |
