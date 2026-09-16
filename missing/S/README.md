@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scales of Silence | 398317 | [398317-scales-of-silence.json](./398317-scales-of-silence.json) |
 | Scales of Stardust | 185076 | [185076-scales-of-stardust.json](./185076-scales-of-stardust.json) |
 | Scaling the Sky | 128618 | [128618-scaling-the-sky.json](./128618-scaling-the-sky.json) |
+| Scaling Up | 323927 | [323927-scaling-up.json](./323927-scaling-up.json) |
 | Scam Artist | 413774 | [413774-scam-artist.json](./413774-scam-artist.json) |
 | Scamster Kombat | 366931 | [366931-scamster-kombat.json](./366931-scamster-kombat.json) |
 | Scan Hunter: Sen-nen Kaigyo wo Oe! | 56528 | [56528-scan-hunter-sen-nen-kaigyo-wo-oe.json](./56528-scan-hunter-sen-nen-kaigyo-wo-oe.json) |
@@ -836,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorched Earth | 14431 | [14431-scorched-earth.json](./14431-scorched-earth.json) |
 | Scorched Lands | 401536 | [401536-scorched-lands.json](./401536-scorched-lands.json) |
 | Scorched Planet | 12906 | [12906-scorched-planet.json](./12906-scorched-planet.json) |
+| Scorched Warfare | 323959 | [323959-scorched-warfare.json](./323959-scorched-warfare.json) |
 | Scorching Strings | 331873 | [331873-scorching-strings.json](./331873-scorching-strings.json) |
 | Scorchy Sky Trials | 402905 | [402905-scorchy-sky-trials.json](./402905-scorchy-sky-trials.json) |
 | Score 3020 | 72037 | [72037-score-3020.json](./72037-score-3020.json) |
@@ -1302,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiryuu Densetsu Monbit | 66141 | [66141-seiryuu-densetsu-monbit.json](./66141-seiryuu-densetsu-monbit.json) |
 | Seisai | 125997 | [125997-seisai.json](./125997-seisai.json) |
 | Seishin Hakai | 260976 | [260976-seishin-hakai.json](./260976-seishin-hakai.json) |
+| Seisho 1999 | 323919 | [323919-seisho-1999.json](./323919-seisho-1999.json) |
 | Seishoujo Kantai Virgin Fleet | 290423 | [290423-seishoujo-kantai-virgin-fleet.json](./290423-seishoujo-kantai-virgin-fleet.json) |
 | Seishun Quiz Colorful High School | 247541 | [247541-seishun-quiz-colorful-high-school.json](./247541-seishun-quiz-colorful-high-school.json) |
 | Seiun Kamen Machineman: Dengeki Convert | 385750 | [385750-seiun-kamen-machineman-dengeki-convert.json](./385750-seiun-kamen-machineman-dengeki-convert.json) |
@@ -3625,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
 | Smeesa Street | 239641 | [239641-smeesa-street.json](./239641-smeesa-street.json) |
 | Smells Like a Mushroom | 240795 | [240795-smells-like-a-mushroom.json](./240795-smells-like-a-mushroom.json) |
+| Smells Like A Mushroom: 100% Vegan Edition | 323892 | [323892-smells-like-a-mushroom-100-vegan-edition.json](./323892-smells-like-a-mushroom-100-vegan-edition.json) |
 | Smelly Bubbles | 411679 | [411679-smelly-bubbles.json](./411679-smelly-bubbles.json) |
 | Smelter | 119191 | [119191-smelter.json](./119191-smelter.json) |
 | Smelter: Collector's Edition | 205263 | [205263-smelter-collectors-edition.json](./205263-smelter-collectors-edition.json) |
@@ -6094,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
 | Star Fox 64 3D | 6890 | [6890-star-fox-64-3d.json](./6890-star-fox-64-3d.json) |
 | Star Fox 64: Survival | 146269 | [146269-star-fox-64-survival.json](./146269-star-fox-64-survival.json) |
+| Star Fox NES | 323905 | [323905-star-fox-nes.json](./323905-star-fox-nes.json) |
 | Star Fox Zero | 11196 | [11196-star-fox-zero.json](./11196-star-fox-zero.json) |
 | Star Fox Zero and Star Fox Guard: First Print Edition | 51144 | [51144-star-fox-zero-and-star-fox-guard-first-print-edition.json](./51144-star-fox-zero-and-star-fox-guard-first-print-edition.json) |
 | Star Fox Zero: Limited First Print Edition | 23382 | [23382-star-fox-zero-limited-first-print-edition.json](./23382-star-fox-zero-limited-first-print-edition.json) |
@@ -7752,6 +7757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bunnies Show Free | 232182 | [232182-super-bunnies-show-free.json](./232182-super-bunnies-show-free.json) |
 | Super Bunny | 25670 | [25670-super-bunny.json](./25670-super-bunny.json) |
 | Super Bunny Woman | 403663 | [403663-super-bunny-woman.json](./403663-super-bunny-woman.json) |
+| Super Buzzy: Star of Eternity | 323902 | [323902-super-buzzy-star-of-eternity.json](./323902-super-buzzy-star-of-eternity.json) |
 | Super Cabbage Kabumi | 352187 | [352187-super-cabbage-kabumi.json](./352187-super-cabbage-kabumi.json) |
 | Super Caesars Palace | 9622 | [9622-super-caesars-palace.json](./9622-super-caesars-palace.json) |
 | Super Cakeboy | 240816 | [240816-super-cakeboy.json](./240816-super-cakeboy.json) |
@@ -8119,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
 | Super Mario Bros. Wonder | 254339 | [254339-super-mario-bros-wonder.json](./254339-super-mario-bros-wonder.json) |
+| Super Mario Bros.: Raiders of the Painting Realms | 323897 | [323897-super-mario-bros-raiders-of-the-painting-realms.json](./323897-super-mario-bros-raiders-of-the-painting-realms.json) |
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
 | Super Mario Classic: Return | 324086 | [324086-super-mario-classic-return.json](./324086-super-mario-classic-return.json) |
 | Super Mario Cloudy Cliffs | 394341 | [394341-super-mario-cloudy-cliffs.json](./394341-super-mario-cloudy-cliffs.json) |
@@ -8154,6 +8161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey: Fluffy Bluff Kingdom | 345487 | [345487-super-mario-odyssey-fluffy-bluff-kingdom.json](./345487-super-mario-odyssey-fluffy-bluff-kingdom.json) |
 | Super Mario Outbreak | 198557 | [198557-super-mario-outbreak.json](./198557-super-mario-outbreak.json) |
 | Super Mario Panic | 331984 | [331984-super-mario-panic.json](./331984-super-mario-panic.json) |
+| Super Mario Prostate Exam | 323900 | [323900-super-mario-prostate-exam.json](./323900-super-mario-prostate-exam.json) |
 | Super Mario RPG: Legend of the Seven Stars | 5418 | [5418-super-mario-rpg-legend-of-the-seven-stars.json](./5418-super-mario-rpg-legend-of-the-seven-stars.json) |
 | Super Mario RPG: The Starlite Worlds | 175887 | [175887-super-mario-rpg-the-starlite-worlds.json](./175887-super-mario-rpg-the-starlite-worlds.json) |
 | Super Mario Senseless Delirium | 199032 | [199032-super-mario-senseless-delirium.json](./199032-super-mario-senseless-delirium.json) |
@@ -8229,6 +8237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Momotaro Dentetsu III | 38343 | [38343-super-momotaro-dentetsu-iii.json](./38343-super-momotaro-dentetsu-iii.json) |
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
 | Super Monkey Ball Stardust | 352178 | [352178-super-monkey-ball-stardust.json](./352178-super-monkey-ball-stardust.json) |
+| Super Monkey Ball: Banana Mania - Launch Edition | 323951 | [323951-super-monkey-ball-banana-mania-launch-edition.json](./323951-super-monkey-ball-banana-mania-launch-edition.json) |
 | Super Monkey Ball: Banana Rumble - Amy | 309079 | [309079-super-monkey-ball-banana-rumble-amy.json](./309079-super-monkey-ball-banana-rumble-amy.json) |
 | Super Monkey Ball: Banana Rumble - Crewmate | 330551 | [330551-super-monkey-ball-banana-rumble-crewmate.json](./330551-super-monkey-ball-banana-rumble-crewmate.json) |
 | Super Monkey Ball: Banana Rumble - Dole Logo Sticker Ball | 332227 | [332227-super-monkey-ball-banana-rumble-dole-logo-sticker-ball.json](./332227-super-monkey-ball-banana-rumble-dole-logo-sticker-ball.json) |
@@ -8762,6 +8771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Bar Express | 54416 | [54416-sushi-bar-express.json](./54416-sushi-bar-express.json) |
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
 | Sushi Cat | 87214 | [87214-sushi-cat.json](./87214-sushi-cat.json) |
+| Sushi Cat 2 | 323934 | [323934-sushi-cat-2.json](./323934-sushi-cat-2.json) |
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
 | Sushi girlfriend | 129718 | [129718-sushi-girlfriend.json](./129718-sushi-girlfriend.json) |
 | Sushi Gun | 181867 | [181867-sushi-gun.json](./181867-sushi-gun.json) |
