@@ -1655,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within His View | 379868 | [379868-within-his-view.json](./379868-within-his-view.json) |
 | Within the Backrooms | 220634 | [220634-within-the-backrooms.json](./220634-within-the-backrooms.json) |
 | Within the Range | 391045 | [391045-within-the-range.json](./391045-within-the-range.json) |
+| Within The Shadows | 297625 | [297625-within-the-shadows.json](./297625-within-the-shadows.json) |
 | Within the Threes | 184604 | [184604-within-the-threes.json](./184604-within-the-threes.json) |
 | Within Whispers: The Fall | 61652 | [61652-within-whispers-the-fall.json](./61652-within-whispers-the-fall.json) |
 | Within: Hannah's Journey | 304011 | [304011-within-hannahs-journey.json](./304011-within-hannahs-journey.json) |
