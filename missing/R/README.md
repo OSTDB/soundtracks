@@ -2379,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RockinRoll | 78649 | [78649-rockinroll.json](./78649-rockinroll.json) |
 | Rockitty | 329116 | [329116-rockitty.json](./329116-rockitty.json) |
 | Rockland VR | 75031 | [75031-rockland-vr.json](./75031-rockland-vr.json) |
+| Rockman & Forte FC | 320354 | [320354-rockman-and-forte-fc.json](./320354-rockman-and-forte-fc.json) |
 | Rockman 2: Basic Master | 269878 | [269878-rockman-2-basic-master.json](./269878-rockman-2-basic-master.json) |
 | Rockman 2: Gray Zone | 269879 | [269879-rockman-2-gray-zone.json](./269879-rockman-2-gray-zone.json) |
 | Rockman 3: Claw | 269880 | [269880-rockman-3-claw.json](./269880-rockman-3-claw.json) |
