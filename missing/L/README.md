@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Shinobi | 377055 | [377055-last-shinobi.json](./377055-last-shinobi.json) |
 | Last Ship Sailing | 403707 | [403707-last-ship-sailing.json](./403707-last-ship-sailing.json) |
 | Last Shooter: Apocalypse | 227266 | [227266-last-shooter-apocalypse.json](./227266-last-shooter-apocalypse.json) |
+| Last Spirit PBT | 326250 | [326250-last-spirit-pbt.json](./326250-last-spirit-pbt.json) |
 | Last Stanza | 105279 | [105279-last-stanza.json](./105279-last-stanza.json) |
 | Last Star | 316097 | [316097-last-star.json](./316097-last-star.json) |
 | Last Stop | 345518 | [345518-last-stop.json](./345518-last-stop.json) |
@@ -574,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaves 3 | 394892 | [394892-leaves-3.json](./394892-leaves-3.json) |
 | Leaves: The Journey | 30063 | [30063-leaves-the-journey.json](./30063-leaves-the-journey.json) |
 | Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
+| Leaving Whisper at Night | 326283 | [326283-leaving-whisper-at-night.json](./326283-leaving-whisper-at-night.json) |
 | Led It Rain | 32912 | [32912-led-it-rain.json](./32912-led-it-rain.json) |
 | Led It Rain VR | 120373 | [120373-led-it-rain-vr.json](./120373-led-it-rain-vr.json) |
 | LED Storm Rally 2011 | 312321 | [312321-led-storm-rally-2011.json](./312321-led-storm-rally-2011.json) |
@@ -2010,6 +2012,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Yomori | 382283 | [382283-lost-in-yomori.json](./382283-lost-in-yomori.json) |
 | Lost Inside: Act 1 | 291751 | [291751-lost-inside-act-1.json](./291751-lost-inside-act-1.json) |
 | Lost Island | 350508 | [350508-lost-island.json](./350508-lost-island.json) |
+| Lost Islands: Legend Pack | 326265 | [326265-lost-islands-legend-pack.json](./326265-lost-islands-legend-pack.json) |
+| Lost Islands: Pioneer Pack | 326266 | [326266-lost-islands-pioneer-pack.json](./326266-lost-islands-pioneer-pack.json) |
 | Lost Isle | 269320 | [269320-lost-isle.json](./269320-lost-isle.json) |
 | Lost Judgment | 146851 | [146851-lost-judgment.json](./146851-lost-judgment.json) |
 | Lost Judgment: Detective Essentials Pack | 264067 | [264067-lost-judgment-detective-essentials-pack.json](./264067-lost-judgment-detective-essentials-pack.json) |
@@ -2299,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
 | Lucky Stars Video Slots | 175990 | [175990-lucky-stars-video-slots.json](./175990-lucky-stars-video-slots.json) |
 | Lucky Tower | 219067 | [219067-lucky-tower.json](./219067-lucky-tower.json) |
+| LuckyWheel | 326276 | [326276-luckywheel.json](./326276-luckywheel.json) |
 | Luctus | 263781 | [263781-luctus.json](./263781-luctus.json) |
 | Lucy Dreaming | 144920 | [144920-lucy-dreaming.json](./144920-lucy-dreaming.json) |
 | Lucy Half Lucid | 408169 | [408169-lucy-half-lucid.json](./408169-lucy-half-lucid.json) |
