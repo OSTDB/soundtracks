@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Lost In Space | 384109 | [384109-mario-lost-in-space.json](./384109-mario-lost-in-space.json) |
 | Mario Net Quest | 246087 | [246087-mario-net-quest.json](./246087-mario-net-quest.json) |
 | Mario no Photopi | 3541 | [3541-mario-no-photopi.json](./3541-mario-no-photopi.json) |
+| Mario Noir | 323924 | [323924-mario-noir.json](./323924-mario-noir.json) |
 | Mario Paint | 8203 | [8203-mario-paint.json](./8203-mario-paint.json) |
 | Mario Paint 64 | 175957 | [175957-mario-paint-64.json](./175957-mario-paint-64.json) |
 | Mario Paint BS Ban: Yuushou Sakuhin Naizou Version | 150147 | [150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json](./150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json) |
@@ -1012,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party: Star Rush | 19599 | [19599-mario-party-star-rush.json](./19599-mario-party-star-rush.json) |
 | Mario Pinball Land | 6503 | [6503-mario-pinball-land.json](./6503-mario-pinball-land.json) |
 | Mario Power Tennis | 84700 | [84700-mario-power-tennis.json](./84700-mario-power-tennis.json) |
+| Mario Roots | 323894 | [323894-mario-roots.json](./323894-mario-roots.json) |
 | Mario Royale Deluxe | 262665 | [262665-mario-royale-deluxe.json](./262665-mario-royale-deluxe.json) |
 | Mario Sports Complex: Barrel Blast | 231644 | [231644-mario-sports-complex-barrel-blast.json](./231644-mario-sports-complex-barrel-blast.json) |
 | Mario Sports Mix | 3989 | [3989-mario-sports-mix.json](./3989-mario-sports-mix.json) |
@@ -2446,6 +2448,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
 | Mezase! Senkyu Ou | 166151 | [166151-mezase-senkyu-ou.json](./166151-mezase-senkyu-ou.json) |
 | Mezzo Piano: Oshare & Lesson | 327597 | [327597-mezzo-piano-oshare-and-lesson.json](./327597-mezzo-piano-oshare-and-lesson.json) |
+| MFGGK | 323966 | [323966-mfggk.json](./323966-mfggk.json) |
+| MFGGK2 | 323926 | [323926-mfggk2.json](./323926-mfggk2.json) |
 | MFTK: Survivors | 408193 | [408193-mftk-survivors.json](./408193-mftk-survivors.json) |
 | MGP Manager | 260382 | [260382-mgp-manager.json](./260382-mgp-manager.json) |
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
@@ -3209,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miscrits: World of Creatures | 98466 | [98466-miscrits-world-of-creatures.json](./98466-miscrits-world-of-creatures.json) |
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
 | Misfolded | 109579 | [109579-misfolded.json](./109579-misfolded.json) |
+| Misfortune | 323937 | [323937-misfortune.json](./323937-misfortune.json) |
 | Mishap: An Accidental Haunting | 16162 | [16162-mishap-an-accidental-haunting.json](./16162-mishap-an-accidental-haunting.json) |
 | Miside Reality | 335963 | [335963-miside-reality.json](./335963-miside-reality.json) |
 | Misk Schools Quest | 187516 | [187516-misk-schools-quest.json](./187516-misk-schools-quest.json) |
