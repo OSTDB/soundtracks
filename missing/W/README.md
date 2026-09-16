@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in Space Is Carmen Sandiego? | 50496 | [50496-where-in-space-is-carmen-sandiego.json](./50496-where-in-space-is-carmen-sandiego.json) |
 | Where in Space is Carmen Sandiego?: Deluxe Edition | 73309 | [73309-where-in-space-is-carmen-sandiego-deluxe-edition.json](./73309-where-in-space-is-carmen-sandiego-deluxe-edition.json) |
 | Where in the U.S.A. is Carmen Sandiego? | 12823 | [12823-where-in-the-u-s-a-is-carmen-sandiego.json](./12823-where-in-the-u-s-a-is-carmen-sandiego.json) |
+| Where in the U.S.A. Is Carmen Sandiego? | 313289 | [313289-where-in-the-u-s-a-is-carmen-sandiego.json](./313289-where-in-the-u-s-a-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 251 | [251-where-in-the-world-is-carmen-sandiego.json](./251-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World is Carmen Sandiego? Enhanced Edition | 143640 | [143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json](./143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json) |
 | Where in Time is Carmen Sandiego? | 336633 | [336633-where-in-time-is-carmen-sandiego.json](./336633-where-in-time-is-carmen-sandiego.json) |
