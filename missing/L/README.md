@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
 | Legenne | 70381 | [70381-legenne.json](./70381-legenne.json) |
 | Leggite Luta Livre | 198482 | [198482-leggite-luta-livre.json](./198482-leggite-luta-livre.json) |
+| Legion | 319203 | [319203-legion.json](./319203-legion.json) |
 | Legion of Judgment: Fallen Angel | 238755 | [238755-legion-of-judgment-fallen-angel.json](./238755-legion-of-judgment-fallen-angel.json) |
 | Legion Saga III | 385746 | [385746-legion-saga-iii.json](./385746-legion-saga-iii.json) |
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
@@ -2428,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna: Obscura | 341493 | [341493-luna-obscura.json](./341493-luna-obscura.json) |
 | Luna: Supernatural Hunter | 189103 | [189103-luna-supernatural-hunter.json](./189103-luna-supernatural-hunter.json) |
 | Luna: The Shadow Dust | 56463 | [56463-luna-the-shadow-dust.json](./56463-luna-the-shadow-dust.json) |
+| Luna's Twilight | 319211 | [319211-lunas-twilight.json](./319211-lunas-twilight.json) |
 | Luna's Wandering Stars | 17983 | [17983-lunas-wandering-stars.json](./17983-lunas-wandering-stars.json) |
 | Lunacy | 71493 | [71493-lunacy.json](./71493-lunacy.json) |
 | Lunacy: Saint Rhodes | 26710 | [26710-lunacy-saint-rhodes.json](./26710-lunacy-saint-rhodes.json) |
@@ -2474,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurking Darkness | 319025 | [319025-lurking-darkness.json](./319025-lurking-darkness.json) |
 | Lurking I: Immortui | 176418 | [176418-lurking-i-immortui.json](./176418-lurking-i-immortui.json) |
 | Lurking in the Shadows | 58244 | [58244-lurking-in-the-shadows.json](./58244-lurking-in-the-shadows.json) |
+| Lurks Within Walls | 319221 | [319221-lurks-within-walls.json](./319221-lurks-within-walls.json) |
 | Lusófona Games Collection 2024 | 309888 | [309888-lusofona-games-collection-2024.json](./309888-lusofona-games-collection-2024.json) |
 | Lust Academy: Season 1 | 195223 | [195223-lust-academy-season-1.json](./195223-lust-academy-season-1.json) |
 | Lust Bunker | 274753 | [274753-lust-bunker.json](./274753-lust-bunker.json) |
