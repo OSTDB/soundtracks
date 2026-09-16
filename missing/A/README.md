@@ -583,7 +583,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Giant Kings | 325845 | [325845-age-of-wonders-4-giant-kings.json](./325845-age-of-wonders-4-giant-kings.json) |
 | Age of Wonders 4: Ways of War | 325844 | [325844-age-of-wonders-4-ways-of-war.json](./325844-age-of-wonders-4-ways-of-war.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
-| Agent Gumball: Roguelike Spy Game | 86835 | [86835-agent-gumball-roguelike-spy-game.json](./86835-agent-gumball-roguelike-spy-game.json) |
 | Agent Hugo | 95462 | [95462-agent-hugo.json](./95462-agent-hugo.json) |
 | Agent Hugo: Lemoon Twist | 43252 | [43252-agent-hugo-lemoon-twist.json](./43252-agent-hugo-lemoon-twist.json) |
 | Agent Intercept | 122635 | [122635-agent-intercept.json](./122635-agent-intercept.json) |
