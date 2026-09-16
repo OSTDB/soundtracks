@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostwinter | 148558 | [148558-ghostwinter.json](./148558-ghostwinter.json) |
 | Ghostwire Tokyo: Spider's Thread | 246125 | [246125-ghostwire-tokyo-spiders-thread.json](./246125-ghostwire-tokyo-spiders-thread.json) |
 | Ghoul Britannia: Land of Hope and Gorey | 116979 | [116979-ghoul-britannia-land-of-hope-and-gorey.json](./116979-ghoul-britannia-land-of-hope-and-gorey.json) |
+| Ghoul Fort | 294263 | [294263-ghoul-fort.json](./294263-ghoul-fort.json) |
 | Ghoul Kid | 33012 | [33012-ghoul-kid.json](./33012-ghoul-kid.json) |
 | Ghoul Patrol | 42612 | [42612-ghoul-patrol.json](./42612-ghoul-patrol.json) |
 | GhoulBoy: Limited Edition | 166234 | [166234-ghoulboy-limited-edition.json](./166234-ghoulboy-limited-edition.json) |
@@ -2799,3 +2800,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyruss | 343879 | [343879-gyruss.json](./343879-gyruss.json) |
 | Gythol Granditti: The Crypt of Darkness | 120411 | [120411-gythol-granditti-the-crypt-of-darkness.json](./120411-gythol-granditti-the-crypt-of-darkness.json) |
 | GZDoom SM64 | 307741 | [307741-gzdoom-sm64.json](./307741-gzdoom-sm64.json) |
+| Gzlna | 294278 | [294278-gzlna.json](./294278-gzlna.json) |
