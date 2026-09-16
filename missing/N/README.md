@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Kamui: Shinobi Origins | 298587 | [298587-ninja-kamui-shinobi-origins.json](./298587-ninja-kamui-shinobi-origins.json) |
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
 | Ninja Kiwi Archive | 137601 | [137601-ninja-kiwi-archive.json](./137601-ninja-kiwi-archive.json) |
+| Ninja Master Toru | 332530 | [332530-ninja-master-toru.json](./332530-ninja-master-toru.json) |
 | Ninja Ming: Wu | 341478 | [341478-ninja-ming-wu.json](./341478-ninja-ming-wu.json) |
 | Ninja Monkey | 309849 | [309849-ninja-monkey.json](./309849-ninja-monkey.json) |
 | Ninja Must Die | 143069 | [143069-ninja-must-die.json](./143069-ninja-must-die.json) |
@@ -1647,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noodle Fight | 269313 | [269313-noodle-fight.json](./269313-noodle-fight.json) |
 | Noodle Jump | 417502 | [417502-noodle-jump.json](./417502-noodle-jump.json) |
 | Noodle Party | 209680 | [209680-noodle-party.json](./209680-noodle-party.json) |
+| Noodleman.io party games | 332563 | [332563-noodleman-io-party-games.json](./332563-noodleman-io-party-games.json) |
 | Noodles! | 90541 | [90541-noodles.json](./90541-noodles.json) |
 | Noods | 402976 | [402976-noods.json](./402976-noods.json) |
 | Nook Fall: West Town | 341485 | [341485-nook-fall-west-town.json](./341485-nook-fall-west-town.json) |
