@@ -3244,6 +3244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
 | Skyward | 193447 | [193447-skyward.json](./193447-skyward.json) |
 | Skyward Collapse: Nihon no Mura | 10871 | [10871-skyward-collapse-nihon-no-mura.json](./10871-skyward-collapse-nihon-no-mura.json) |
+| Skyward Journey | 320367 | [320367-skyward-journey.json](./320367-skyward-journey.json) |
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
 | Slag | 70398 | [70398-slag.json](./70398-slag.json) |
 | Sláine: The Celtic Barbarian | 53163 | [53163-slaine-the-celtic-barbarian.json](./53163-slaine-the-celtic-barbarian.json) |
@@ -4018,6 +4019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer for Arcadia 2001 | 131540 | [131540-soccer-for-arcadia-2001.json](./131540-soccer-for-arcadia-2001.json) |
 | Soccer Goal Run | 329577 | [329577-soccer-goal-run.json](./329577-soccer-goal-run.json) |
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
+| Soccer in a Box | 320351 | [320351-soccer-in-a-box.json](./320351-soccer-in-a-box.json) |
 | Soccer Legends | 36018 | [36018-soccer-legends.json](./36018-soccer-legends.json) |
 | Soccer Manager | 393490 | [393490-soccer-manager.json](./393490-soccer-manager.json) |
 | Soccer Manager 2015 | 35594 | [35594-soccer-manager-2015.json](./35594-soccer-manager-2015.json) |
@@ -4414,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
 | Sonic Dreams Collection | 11656 | [11656-sonic-dreams-collection.json](./11656-sonic-dreams-collection.json) |
 | Sonic Drift | 45798 | [45798-sonic-drift.json](./45798-sonic-drift.json) |
+| Sonic Dynamo | 320357 | [320357-sonic-dynamo.json](./320357-sonic-dynamo.json) |
 | Sonic Elementals | 333959 | [333959-sonic-elementals.json](./333959-sonic-elementals.json) |
 | Sonic Epsilon | 332553 | [332553-sonic-epsilon.json](./332553-sonic-epsilon.json) |
 | Sonic ERaZor | 198564 | [198564-sonic-erazor.json](./198564-sonic-erazor.json) |
@@ -5704,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: The Fry Cook Games | 220115 | [220115-spongebob-squarepants-the-fry-cook-games.json](./220115-spongebob-squarepants-the-fry-cook-games.json) |
 | SpongeBob SquarePants: The Patrick Star Game | 314939 | [314939-spongebob-squarepants-the-patrick-star-game.json](./314939-spongebob-squarepants-the-patrick-star-game.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
+| SpongeBob: Bubble Pop F.U.N. | 320381 | [320381-spongebob-bubble-pop-f-u-n.json](./320381-spongebob-bubble-pop-f-u-n.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
 | Spongiorno: Schwammfred Moving Company | 373082 | [373082-spongiorno-schwammfred-moving-company.json](./373082-spongiorno-schwammfred-moving-company.json) |
@@ -6204,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Prodigy: Supernova | 202419 | [202419-star-trek-prodigy-supernova.json](./202419-star-trek-prodigy-supernova.json) |
 | Star Trek Trexels II | 108463 | [108463-star-trek-trexels-ii.json](./108463-star-trek-trexels-ii.json) |
 | Star Trek V: The Final Frontier | 69831 | [69831-star-trek-v-the-final-frontier.json](./69831-star-trek-v-the-final-frontier.json) |
+| Star Trek: 20Q | 320400 | [320400-star-trek-20q.json](./320400-star-trek-20q.json) |
 | Star Trek: 25th Anniversary | 2231 | [2231-star-trek-25th-anniversary.json](./2231-star-trek-25th-anniversary.json) |
 | Star Trek: Alien Domain | 23645 | [23645-star-trek-alien-domain.json](./23645-star-trek-alien-domain.json) |
 | Star Trek: Borg | 70345 | [70345-star-trek-borg.json](./70345-star-trek-borg.json) |
@@ -6287,6 +6292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
 | Star Wars: Tales from the Galaxy's Edge | 134957 | [134957-star-wars-tales-from-the-galaxys-edge.json](./134957-star-wars-tales-from-the-galaxys-edge.json) |
 | Star Wars: The Best of PC | 75085 | [75085-star-wars-the-best-of-pc.json](./75085-star-wars-the-best-of-pc.json) |
+| Star Wars: The Clone Wars | 320344 | [320344-star-wars-the-clone-wars.json](./320344-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 3760 | [3760-star-wars-the-clone-wars.json](./3760-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 78357 | [78357-star-wars-the-clone-wars.json](./78357-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars - Path of the Jedi | 343373 | [343373-star-wars-the-clone-wars-path-of-the-jedi.json](./343373-star-wars-the-clone-wars-path-of-the-jedi.json) |
