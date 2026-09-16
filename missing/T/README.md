@@ -999,6 +999,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teletubes: Electronic Pet | 314644 | [314644-teletubes-electronic-pet.json](./314644-teletubes-electronic-pet.json) |
 | Tell a Demon | 51599 | [51599-tell-a-demon.json](./51599-tell-a-demon.json) |
 | Tell Me Your Story: Complete + | 328825 | [328825-tell-me-your-story-complete.json](./328825-tell-me-your-story-complete.json) |
+| Tell Me Your Story: Porcelain Puzzle 1 | 324485 | [324485-tell-me-your-story-porcelain-puzzle-1.json](./324485-tell-me-your-story-porcelain-puzzle-1.json) |
+| Tell Me Your Story: Porcelain Puzzle 2 | 324486 | [324486-tell-me-your-story-porcelain-puzzle-2.json](./324486-tell-me-your-story-porcelain-puzzle-2.json) |
 | Teller's Duty | 336022 | [336022-tellers-duty.json](./336022-tellers-duty.json) |
 | Telltale Batman Shadows Edition | 127560 | [127560-telltale-batman-shadows-edition.json](./127560-telltale-batman-shadows-edition.json) |
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
@@ -1300,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Block Puzzle | 309098 | [309098-tetris-block-puzzle.json](./309098-tetris-block-puzzle.json) |
 | Tetris City | 330701 | [330701-tetris-city.json](./330701-tetris-city.json) |
 | Tetris Deluxe | 215383 | [215383-tetris-deluxe.json](./215383-tetris-deluxe.json) |
+| Tetris Dotbas | 324510 | [324510-tetris-dotbas.json](./324510-tetris-dotbas.json) |
 | Tetris DS | 18599 | [18599-tetris-ds.json](./18599-tetris-ds.json) |
 | Tetris DS | 238199 | [238199-tetris-ds.json](./238199-tetris-ds.json) |
 | Tetris Effect: Connected | 135999 | [135999-tetris-effect-connected.json](./135999-tetris-effect-connected.json) |
@@ -1945,6 +1948,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
 | The Colour Beyond: A Zeroth Kind | 409590 | [409590-the-colour-beyond-a-zeroth-kind.json](./409590-the-colour-beyond-a-zeroth-kind.json) |
 | The Coma 2: Vicious Sisters - Deluxe Edition | 154510 | [154510-the-coma-2-vicious-sisters-deluxe-edition.json](./154510-the-coma-2-vicious-sisters-deluxe-edition.json) |
+| The Coma 2B: Catacomb - The Gamer Youngho | 324473 | [324473-the-coma-2b-catacomb-the-gamer-youngho.json](./324473-the-coma-2b-catacomb-the-gamer-youngho.json) |
+| The Coma 2B: Catacomb - The Survivalist Youngho | 324474 | [324474-the-coma-2b-catacomb-the-survivalist-youngho.json](./324474-the-coma-2b-catacomb-the-survivalist-youngho.json) |
 | The Coma 3: Bloodlines - Autumn Girl Skin | 401675 | [401675-the-coma-3-bloodlines-autumn-girl-skin.json](./401675-the-coma-3-bloodlines-autumn-girl-skin.json) |
 | The Coma 3: Bloodlines - Daughter of a Millionaire Skin | 401671 | [401671-the-coma-3-bloodlines-daughter-of-a-millionaire-skin.json](./401671-the-coma-3-bloodlines-daughter-of-a-millionaire-skin.json) |
 | The Coma 3: Bloodlines - Deluxe Edition | 401674 | [401674-the-coma-3-bloodlines-deluxe-edition.json](./401674-the-coma-3-bloodlines-deluxe-edition.json) |
