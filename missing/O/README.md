@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Day for Revenge | 104020 | [104020-one-day-for-revenge.json](./104020-one-day-for-revenge.json) |
 | One Day in London | 32931 | [32931-one-day-in-london.json](./32931-one-day-in-london.json) |
 | One Dimension | 89984 | [89984-one-dimension.json](./89984-one-dimension.json) |
+| One Dog's Stay | 326272 | [326272-one-dogs-stay.json](./326272-one-dogs-stay.json) |
 | One Dollar Empire | 402252 | [402252-one-dollar-empire.json](./402252-one-dollar-empire.json) |
 | One Dreamy Night | 312587 | [312587-one-dreamy-night.json](./312587-one-dreamy-night.json) |
 | One Dumb Wizard | 402970 | [402970-one-dumb-wizard.json](./402970-one-dumb-wizard.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oriental Empires | 35526 | [35526-oriental-empires.json](./35526-oriental-empires.json) |
 | Oriental Empires: Three Kingdoms | 154558 | [154558-oriental-empires-three-kingdoms.json](./154558-oriental-empires-three-kingdoms.json) |
 | Oriental Legend | 39575 | [39575-oriental-legend.json](./39575-oriental-legend.json) |
+| Orifoldium | 326282 | [326282-orifoldium.json](./326282-orifoldium.json) |
 | Origame | 152916 | [152916-origame.json](./152916-origame.json) |
 | Origami Paradise | 227478 | [227478-origami-paradise.json](./227478-origami-paradise.json) |
 | Origin | 126648 | [126648-origin.json](./126648-origin.json) |
