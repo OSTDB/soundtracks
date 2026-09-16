@@ -1569,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigPlanet 3: Fix Me Hook Hat T-shirt | 322200 | [322200-littlebigplanet-3-fix-me-hook-hat-t-shirt.json](./322200-littlebigplanet-3-fix-me-hook-hat-t-shirt.json) |
 | LittleBigPlanet 3: Line Infantry Costume | 322201 | [322201-littlebigplanet-3-line-infantry-costume.json](./322201-littlebigplanet-3-line-infantry-costume.json) |
 | LittleBigPlanet 3: Monkey King Costume | 322206 | [322206-littlebigplanet-3-monkey-king-costume.json](./322206-littlebigplanet-3-monkey-king-costume.json) |
+| LittleBigPlanet 3: Octodad - Dadliest Catch Costume | 320957 | [320957-littlebigplanet-3-octodad-dadliest-catch-costume.json](./320957-littlebigplanet-3-octodad-dadliest-catch-costume.json) |
 | LittleBigPlanet 3: Santa Hat And Beard Costume | 322203 | [322203-littlebigplanet-3-santa-hat-and-beard-costume.json](./322203-littlebigplanet-3-santa-hat-and-beard-costume.json) |
 | LittleBigPlanet 3: Sumo Wrestler Costume | 322205 | [322205-littlebigplanet-3-sumo-wrestler-costume.json](./322205-littlebigplanet-3-sumo-wrestler-costume.json) |
 | LittleBigPlanet HUB | 77349 | [77349-littlebigplanet-hub.json](./77349-littlebigplanet-hub.json) |
@@ -1900,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Bones | 236265 | [236265-lord-of-bones.json](./236265-lord-of-bones.json) |
 | Lord of Darkness | 42586 | [42586-lord-of-darkness.json](./42586-lord-of-darkness.json) |
 | Lord of Darkness: Aftermath | 279014 | [279014-lord-of-darkness-aftermath.json](./279014-lord-of-darkness-aftermath.json) |
+| Lord of doors | 320955 | [320955-lord-of-doors.json](./320955-lord-of-doors.json) |
 | Lord of Heroes | 137634 | [137634-lord-of-heroes.json](./137634-lord-of-heroes.json) |
 | Lord of Magna: Maiden Heaven | 20020 | [20020-lord-of-magna-maiden-heaven.json](./20020-lord-of-magna-maiden-heaven.json) |
 | Lord of Ogre | 365078 | [365078-lord-of-ogre.json](./365078-lord-of-ogre.json) |
