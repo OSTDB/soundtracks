@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Barkeeper | 332847 | [332847-the-barkeeper.json](./332847-the-barkeeper.json) |
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
+| The Based Turnabout | 308419 | [308419-the-based-turnabout.json](./308419-the-based-turnabout.json) |
 | The Bastonnes | 204102 | [204102-the-bastonnes.json](./204102-the-bastonnes.json) |
 | The Bathhouse Restored Edition | 304047 | [304047-the-bathhouse-restored-edition.json](./304047-the-bathhouse-restored-edition.json) |
 | The Battle Cats | 59746 | [59746-the-battle-cats.json](./59746-the-battle-cats.json) |
@@ -1710,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Best Most Epic Turnabout | 310422 | [310422-the-best-most-epic-turnabout.json](./310422-the-best-most-epic-turnabout.json) |
 | The Best Play Baseball '90 | 267635 | [267635-the-best-play-baseball-90.json](./267635-the-best-play-baseball-90.json) |
 | The Best Play Baseball II | 267637 | [267637-the-best-play-baseball-ii.json](./267637-the-best-play-baseball-ii.json) |
+| The Best Text Adventure | 308410 | [308410-the-best-text-adventure.json](./308410-the-best-text-adventure.json) |
 | The Better Angels | 281370 | [281370-the-better-angels.json](./281370-the-better-angels.json) |
 | The Better Place | 229707 | [229707-the-better-place.json](./229707-the-better-place.json) |
 | The Beyond Of Fears: New House | 304876 | [304876-the-beyond-of-fears-new-house.json](./304876-the-beyond-of-fears-new-house.json) |
@@ -2419,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exorcist: Legion VR - Chapter 5: The Tomb | 168819 | [168819-the-exorcist-legion-vr-chapter-5-the-tomb.json](./168819-the-exorcist-legion-vr-chapter-5-the-tomb.json) |
 | The Expanse: A Telltale Series | 185239 | [185239-the-expanse-a-telltale-series.json](./185239-the-expanse-a-telltale-series.json) |
 | The Expendabros | 9786 | [9786-the-expendabros.json](./9786-the-expendabros.json) |
+| The Experimental Turnabout | 308421 | [308421-the-experimental-turnabout.json](./308421-the-experimental-turnabout.json) |
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
 | The Eye of Judgment: Legends | 46020 | [46020-the-eye-of-judgment-legends.json](./46020-the-eye-of-judgment-legends.json) |
 | The Eyes of Dr Kautzmann | 219256 | [219256-the-eyes-of-dr-kautzmann.json](./219256-the-eyes-of-dr-kautzmann.json) |
@@ -3266,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: A Link to the Dream | 243669 | [243669-the-legend-of-zelda-a-link-to-the-dream.json](./243669-the-legend-of-zelda-a-link-to-the-dream.json) |
 | The Legend of Zelda: A Link to the Past | 229416 | [229416-the-legend-of-zelda-a-link-to-the-past.json](./229416-the-legend-of-zelda-a-link-to-the-past.json) |
 | The Legend of Zelda: A Link to the Past Redux | 219073 | [219073-the-legend-of-zelda-a-link-to-the-past-redux.json](./219073-the-legend-of-zelda-a-link-to-the-past-redux.json) |
+| The Legend of Zelda: Allhallows Eve | 308390 | [308390-the-legend-of-zelda-allhallows-eve.json](./308390-the-legend-of-zelda-allhallows-eve.json) |
 | The Legend of Zelda: Breath of the Wild - Limited Edition | 50598 | [50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json](./50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition | 338072 | [338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json](./338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Starter Edition | 216236 | [216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json](./216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json) |
@@ -3594,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moment We Met | 110910 | [110910-the-moment-we-met.json](./110910-the-moment-we-met.json) |
 | The Momo Game | 110632 | [110632-the-momo-game.json](./110632-the-momo-game.json) |
 | The Monastery | 304889 | [304889-the-monastery.json](./304889-the-monastery.json) |
+| The Monastery of Mount Cinburron | 308388 | [308388-the-monastery-of-mount-cinburron.json](./308388-the-monastery-of-mount-cinburron.json) |
 | The Monkey King: Flying Dojo | 341030 | [341030-the-monkey-king-flying-dojo.json](./341030-the-monkey-king-flying-dojo.json) |
 | The Monkey King: The Legend Begins | 50608 | [50608-the-monkey-king-the-legend-begins.json](./50608-the-monkey-king-the-legend-begins.json) |
 | The Monkey P | 223148 | [223148-the-monkey-p.json](./223148-the-monkey-p.json) |
@@ -6012,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeline Traveler | 136401 | [136401-timeline-traveler.json](./136401-timeline-traveler.json) |
 | Timeline Traveler II: Dream | 170518 | [170518-timeline-traveler-ii-dream.json](./170518-timeline-traveler-ii-dream.json) |
 | TimeLock VR | 51516 | [51516-timelock-vr.json](./51516-timelock-vr.json) |
+| Timeloop | 308398 | [308398-timeloop.json](./308398-timeloop.json) |
 | Timelord | 78615 | [78615-timelord.json](./78615-timelord.json) |
 | TimeMelters | 210869 | [210869-timemelters.json](./210869-timemelters.json) |
 | Timemoon | 330892 | [330892-timemoon.json](./330892-timemoon.json) |
@@ -8255,6 +8261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn: The Lost Artifact | 85457 | [85457-turn-the-lost-artifact.json](./85457-turn-the-lost-artifact.json) |
 | Turnabout Bakeshop | 303245 | [303245-turnabout-bakeshop.json](./303245-turnabout-bakeshop.json) |
 | Turnabout Divergence | 318785 | [318785-turnabout-divergence.json](./318785-turnabout-divergence.json) |
+| Turnabout Heartache | 308428 | [308428-turnabout-heartache.json](./308428-turnabout-heartache.json) |
 | Turnabout Revivals | 303253 | [303253-turnabout-revivals.json](./303253-turnabout-revivals.json) |
 | Turnabout Revolution | 308531 | [308531-turnabout-revolution.json](./308531-turnabout-revolution.json) |
 | Turnabout Steampunk | 318775 | [318775-turnabout-steampunk.json](./318775-turnabout-steampunk.json) |
