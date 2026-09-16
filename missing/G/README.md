@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Brawl Duel | 399732 | [399732-gem-brawl-duel.json](./399732-gem-brawl-duel.json) |
 | Gem Island | 326812 | [326812-gem-island.json](./326812-gem-island.json) |
 | Gem Jam | 130964 | [130964-gem-jam.json](./130964-gem-jam.json) |
+| Gem Jam | 291604 | [291604-gem-jam.json](./291604-gem-jam.json) |
 | Gem Miner: Dig Deeper | 296070 | [296070-gem-miner-dig-deeper.json](./296070-gem-miner-dig-deeper.json) |
 | Gem Phrase | 237379 | [237379-gem-phrase.json](./237379-gem-phrase.json) |
 | Gem Quest: Rush | 416643 | [416643-gem-quest-rush.json](./416643-gem-quest-rush.json) |
@@ -1247,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyder: Adventure Worlds | 66110 | [66110-glyder-adventure-worlds.json](./66110-glyder-adventure-worlds.json) |
 | Glyph | 388223 | [388223-glyph.json](./388223-glyph.json) |
 | Glypha III | 70919 | [70919-glypha-iii.json](./70919-glypha-iii.json) |
+| Glyphica: Typing Survival | 291596 | [291596-glyphica-typing-survival.json](./291596-glyphica-typing-survival.json) |
 | Glyphs of Gitzan | 300997 | [300997-glyphs-of-gitzan.json](./300997-glyphs-of-gitzan.json) |
 | Glyphs of the Pharaohs | 177002 | [177002-glyphs-of-the-pharaohs.json](./177002-glyphs-of-the-pharaohs.json) |
 | Glyphscape | 349401 | [349401-glyphscape.json](./349401-glyphscape.json) |
@@ -2421,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Angel for Hire | 178585 | [178585-guardian-angel-for-hire.json](./178585-guardian-angel-for-hire.json) |
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
 | Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
+| Guardian Goddess | 291577 | [291577-guardian-goddess.json](./291577-guardian-goddess.json) |
 | Guardian Hearts Online | 64445 | [64445-guardian-hearts-online.json](./64445-guardian-hearts-online.json) |
 | Guardian Legend | 284351 | [284351-guardian-legend.json](./284351-guardian-legend.json) |
 | Guardian Master VR | 113735 | [113735-guardian-master-vr.json](./113735-guardian-master-vr.json) |
