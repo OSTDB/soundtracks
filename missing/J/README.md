@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Force: Character Pack 9 - Trafalgar Law | 167776 | [167776-jump-force-character-pack-9-trafalgar-law.json](./167776-jump-force-character-pack-9-trafalgar-law.json) |
 | Jump Hero II: Jinsei wa Jabuun | 137620 | [137620-jump-hero-ii-jinsei-wa-jabuun.json](./137620-jump-hero-ii-jinsei-wa-jabuun.json) |
 | Jump Heroes | 290726 | [290726-jump-heroes.json](./290726-jump-heroes.json) |
+| Jump Jeroba | 301442 | [301442-jump-jeroba.json](./301442-jump-jeroba.json) |
 | Jump Jumpz | 111679 | [111679-jump-jumpz.json](./111679-jump-jumpz.json) |
 | Jump Kid | 217022 | [217022-jump-kid.json](./217022-jump-kid.json) |
 | Jump King: Ghost of the Babe | 386222 | [386222-jump-king-ghost-of-the-babe.json](./386222-jump-king-ghost-of-the-babe.json) |
@@ -939,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park | 15543 | [15543-jurassic-park.json](./15543-jurassic-park.json) |
 | Jurassic Park: Survival | 279640 | [279640-jurassic-park-survival.json](./279640-jurassic-park-survival.json) |
 | Jurassic Survival Island: Evolve | 194026 | [194026-jurassic-survival-island-evolve.json](./194026-jurassic-survival-island-evolve.json) |
+| Jurassic Tower Defense | 301403 | [301403-jurassic-tower-defense.json](./301403-jurassic-tower-defense.json) |
 | Jurassic Warfare: Dinosaur Combat Arena | 90695 | [90695-jurassic-warfare-dinosaur-combat-arena.json](./90695-jurassic-warfare-dinosaur-combat-arena.json) |
 | Jurassic World Alive | 90084 | [90084-jurassic-world-alive.json](./90084-jurassic-world-alive.json) |
 | Jurassic World Camp Cretaceous: Hidden Adventure | 256846 | [256846-jurassic-world-camp-cretaceous-hidden-adventure.json](./256846-jurassic-world-camp-cretaceous-hidden-adventure.json) |
