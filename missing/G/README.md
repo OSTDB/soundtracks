@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globetrotter | 137033 | [137033-globetrotter.json](./137033-globetrotter.json) |
 | Globetrotter Bundle | 107193 | [107193-globetrotter-bundle.json](./107193-globetrotter-bundle.json) |
 | GlobeXplore | 284883 | [284883-globexplore.json](./284883-globexplore.json) |
+| Globs | 322758 | [322758-globs.json](./322758-globs.json) |
 | Globy | 326061 | [326061-globy.json](./326061-globy.json) |
 | Glogwillette | 306968 | [306968-glogwillette.json](./306968-glogwillette.json) |
 | Gloom | 151203 | [151203-gloom.json](./151203-gloom.json) |
@@ -1736,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic: Playable Teaser | 333956 | [333956-gothic-playable-teaser.json](./333956-gothic-playable-teaser.json) |
 | GothicDM | 143039 | [143039-gothicdm.json](./143039-gothicdm.json) |
 | GothicDM 2 | 229939 | [229939-gothicdm-2.json](./229939-gothicdm-2.json) |
+| Gothwane Towers | 323376 | [323376-gothwane-towers.json](./323376-gothwane-towers.json) |
 | Gotogra | 387357 | [387357-gotogra.json](./387357-gotogra.json) |
 | Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
 | Götzendiener | 19661 | [19661-gotzendiener.json](./19661-gotzendiener.json) |
@@ -2246,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grocery Store Simulator | 326420 | [326420-grocery-store-simulator.json](./326420-grocery-store-simulator.json) |
 | Groda | 338537 | [338537-groda.json](./338537-groda.json) |
 | Grog 'n Glory | 291739 | [291739-grog-n-glory.json](./291739-grog-n-glory.json) |
+| Grok | 322763 | [322763-grok.json](./322763-grok.json) |
 | Grokit | 271204 | [271204-grokit.json](./271204-grokit.json) |
 | Grom: Terror in Tibet | 73767 | [73767-grom-terror-in-tibet.json](./73767-grom-terror-in-tibet.json) |
 | Grommet Chod | 410325 | [410325-grommet-chod.json](./410325-grommet-chod.json) |
@@ -2662,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunstars | 209467 | [209467-gunstars.json](./209467-gunstars.json) |
 | Gunswitch | 306373 | [306373-gunswitch.json](./306373-gunswitch.json) |
 | Guntastic | 113024 | [113024-guntastic.json](./113024-guntastic.json) |
+| Gunter Abstrauer | 322771 | [322771-gunter-abstrauer.json](./322771-gunter-abstrauer.json) |
 | Guntris | 311824 | [311824-guntris.json](./311824-guntris.json) |
 | Gunwatch: Conflict Survival | 232459 | [232459-gunwatch-conflict-survival.json](./232459-gunwatch-conflict-survival.json) |
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
