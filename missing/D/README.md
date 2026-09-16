@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
 | Deathbound: Accepted by Death | 320735 | [320735-deathbound-accepted-by-death.json](./320735-deathbound-accepted-by-death.json) |
 | Deathgarden: Bloodharvest | 119923 | [119923-deathgarden-bloodharvest.json](./119923-deathgarden-bloodharvest.json) |
+| DeathGearX | 312728 | [312728-deathgearx.json](./312728-deathgearx.json) |
 | Deathlike: Awakening | 30089 | [30089-deathlike-awakening.json](./30089-deathlike-awakening.json) |
 | Deathloop + Ghostwire: Tokyo Bundle | 281406 | [281406-deathloop-ghostwire-tokyo-bundle.json](./281406-deathloop-ghostwire-tokyo-bundle.json) |
 | Deathly Storm: The Edge of Life | 88184 | [88184-deathly-storm-the-edge-of-life.json](./88184-deathly-storm-the-edge-of-life.json) |
@@ -1512,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Knight | 38922 | [38922-demon-knight.json](./38922-demon-knight.json) |
 | Demon Lily and the Noir Maid | 397055 | [397055-demon-lily-and-the-noir-maid.json](./397055-demon-lily-and-the-noir-maid.json) |
 | Demon Lord | 29776 | [29776-demon-lord.json](./29776-demon-lord.json) |
+| Demon Lord: Clicker | 312739 | [312739-demon-lord-clicker.json](./312739-demon-lord-clicker.json) |
 | Demon Lord: Reincarnation | 250969 | [250969-demon-lord-reincarnation.json](./250969-demon-lord-reincarnation.json) |
 | Demon Mark: A Russian Saga | 28779 | [28779-demon-mark-a-russian-saga.json](./28779-demon-mark-a-russian-saga.json) |
 | Demon Party | 197847 | [197847-demon-party.json](./197847-demon-party.json) |
@@ -1799,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy All Cars | 337203 | [337203-destroy-all-cars.json](./337203-destroy-all-cars.json) |
 | Destroy All Humans! Path of the Furon | 2717 | [2717-destroy-all-humans-path-of-the-furon.json](./2717-destroy-all-humans-path-of-the-furon.json) |
 | Destroy All Humans!: Clone Carnage | 203364 | [203364-destroy-all-humans-clone-carnage.json](./203364-destroy-all-humans-clone-carnage.json) |
+| Destroy All Letters | 312763 | [312763-destroy-all-letters.json](./312763-destroy-all-letters.json) |
 | Destroy Blocks | 296642 | [296642-destroy-blocks.json](./296642-destroy-blocks.json) |
 | Destroy Geometric Shapes | 172139 | [172139-destroy-geometric-shapes.json](./172139-destroy-geometric-shapes.json) |
 | Destroy the Castle | 349843 | [349843-destroy-the-castle.json](./349843-destroy-the-castle.json) |
@@ -1931,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Third Online | 59988 | [59988-devils-third-online.json](./59988-devils-third-online.json) |
 | Devil's Tuning Fork | 67304 | [67304-devils-tuning-fork.json](./67304-devils-tuning-fork.json) |
 | Devil's Way | 306358 | [306358-devils-way.json](./306358-devils-way.json) |
+| DevilConnection | 312736 | [312736-devilconnection.json](./312736-devilconnection.json) |
 | DevilDark: The Fallen Kingdom | 343817 | [343817-devildark-the-fallen-kingdom.json](./343817-devildark-the-fallen-kingdom.json) |
 | Deviled Dice | 397711 | [397711-deviled-dice.json](./397711-deviled-dice.json) |
 | Devilition | 318597 | [318597-devilition.json](./318597-devilition.json) |
@@ -2912,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domo-kun no Card-e: Kyougi - Speed Skate (Domo-kun) | 352799 | [352799-domo-kun-no-card-e-kyougi-speed-skate-domo-kun.json](./352799-domo-kun-no-card-e-kyougi-speed-skate-domo-kun.json) |
 | Domo-kun no Card-e: Winter Pack | 352825 | [352825-domo-kun-no-card-e-winter-pack.json](./352825-domo-kun-no-card-e-winter-pack.json) |
 | Domum | 211965 | [211965-domum.json](./211965-domum.json) |
+| Domus Abscondita | 312765 | [312765-domus-abscondita.json](./312765-domus-abscondita.json) |
 | Don Bluth Presents Dragon's Lair 20th Anniversary Special Edition | 84222 | [84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json](./84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json) |
 | Don Dim Dum | 248899 | [248899-don-dim-dum.json](./248899-don-dim-dum.json) |
 | Don Doko Don 2 | 48696 | [48696-don-doko-don-2.json](./48696-don-doko-don-2.json) |
@@ -4622,6 +4627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors: God Seekers | 44537 | [44537-dynasty-warriors-god-seekers.json](./44537-dynasty-warriors-god-seekers.json) |
 | Dynasty Warriors: Gundam | 6977 | [6977-dynasty-warriors-gundam.json](./6977-dynasty-warriors-gundam.json) |
 | Dynasty Wars | 12060 | [12060-dynasty-wars.json](./12060-dynasty-wars.json) |
+| Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
 | Dynowarz: Destruction of Spondylus | 48029 | [48029-dynowarz-destruction-of-spondylus.json](./48029-dynowarz-destruction-of-spondylus.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
