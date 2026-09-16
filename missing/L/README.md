@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
 | Lewdle | 197867 | [197867-lewdle.json](./197867-lewdle.json) |
 | Lewis Quest | 337085 | [337085-lewis-quest.json](./337085-lewis-quest.json) |
+| Lexibble | 305344 | [305344-lexibble.json](./305344-lexibble.json) |
 | Lexicontainer | 183527 | [183527-lexicontainer.json](./183527-lexicontainer.json) |
 | Lexispell | 376482 | [376482-lexispell.json](./376482-lexispell.json) |
 | Lexit | 58226 | [58226-lexit.json](./58226-lexit.json) |
