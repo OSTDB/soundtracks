@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T02:49:08.842Z",
-  "total_missing": 76332,
+  "generated_at": "2026-09-16T02:51:37.466Z",
+  "total_missing": 76331,
   "games": [
     {
       "igdb_id": 306086,
@@ -5711,11 +5711,6 @@
       "igdb_id": 31784,
       "game_name": "Agenda",
       "file": "missing/A/31784-agenda.json"
-    },
-    {
-      "igdb_id": 60490,
-      "game_name": "Agent Alice",
-      "file": "missing/A/60490-agent-alice.json"
     },
     {
       "igdb_id": 357799,
