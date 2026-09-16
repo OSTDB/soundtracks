@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy on Fire 3D | 9038 | [9038-galaxy-on-fire-3d.json](./9038-galaxy-on-fire-3d.json) |
 | Galaxy on Fire: Alliances | 261530 | [261530-galaxy-on-fire-alliances.json](./261530-galaxy-on-fire-alliances.json) |
 | Galaxy Protectors | 188015 | [188015-galaxy-protectors.json](./188015-galaxy-protectors.json) |
+| Galaxy Raiders | 287789 | [287789-galaxy-raiders.json](./287789-galaxy-raiders.json) |
 | Galaxy Reavers | 24411 | [24411-galaxy-reavers.json](./24411-galaxy-reavers.json) |
 | Galaxy Shooter Space War Games | 231949 | [231949-galaxy-shooter-space-war-games.json](./231949-galaxy-shooter-space-war-games.json) |
 | Galaxy Strike | 135896 | [135896-galaxy-strike.json](./135896-galaxy-strike.json) |
@@ -2586,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
 | Gun Fighting | 279008 | [279008-gun-fighting.json](./279008-gun-fighting.json) |
 | Gun Frontier | 39681 | [39681-gun-frontier.json](./39681-gun-frontier.json) |
+| Gun Gladiator | 287749 | [287749-gun-gladiator.json](./287749-gun-gladiator.json) |
 | Gun Godz | 31439 | [31439-gun-godz.json](./31439-gun-godz.json) |
 | Gun Gun Pixies | 27281 | [27281-gun-gun-pixies.json](./27281-gun-gun-pixies.json) |
 | Gun Head Shot | 231935 | [231935-gun-head-shot.json](./231935-gun-head-shot.json) |
