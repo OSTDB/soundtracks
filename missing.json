@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T12:19:13.798Z",
-  "total_missing": 77899,
+  "generated_at": "2026-09-16T12:21:41.626Z",
+  "total_missing": 77898,
   "games": [
     {
       "igdb_id": 306086,
@@ -6016,11 +6016,6 @@
       "igdb_id": 304595,
       "game_name": "AI Confidential",
       "file": "missing/A/304595-ai-confidential.json"
-    },
-    {
-      "igdb_id": 96421,
-      "game_name": "AI Escort",
-      "file": "missing/A/96421-ai-escort.json"
     },
     {
       "igdb_id": 82936,
