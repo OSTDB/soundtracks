@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancerush Stardom | 108988 | [108988-dancerush-stardom.json](./108988-dancerush-stardom.json) |
 | Dances with Butterflies VR | 117088 | [117088-dances-with-butterflies-vr.json](./117088-dances-with-butterflies-vr.json) |
 | DanceStar: Party Hits | 44595 | [44595-dancestar-party-hits.json](./44595-dancestar-party-hits.json) |
+| Danchi Days | 321579 | [321579-danchi-days.json](./321579-danchi-days.json) |
 | Danchi de Hanafuda | 64347 | [64347-danchi-de-hanafuda.json](./64347-danchi-de-hanafuda.json) |
 | Danchizuma no Yuuwaku | 58773 | [58773-danchizuma-no-yuuwaku.json](./58773-danchizuma-no-yuuwaku.json) |
 | Dancing Ball Saga | 96984 | [96984-dancing-ball-saga.json](./96984-dancing-ball-saga.json) |
@@ -3731,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadrun | 295805 | [295805-dreadrun.json](./295805-dreadrun.json) |
 | Dreadshot | 292520 | [292520-dreadshot.json](./292520-dreadshot.json) |
 | Dreadtome | 349884 | [349884-dreadtome.json](./349884-dreadtome.json) |
+| Dreadway | 321577 | [321577-dreadway.json](./321577-dreadway.json) |
 | DreadWood | 184110 | [184110-dreadwood.json](./184110-dreadwood.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
