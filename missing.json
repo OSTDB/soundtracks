@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T15:04:05.029Z",
-  "total_missing": 78385,
+  "generated_at": "2026-09-16T15:11:35.621Z",
+  "total_missing": 78384,
   "games": [
     {
       "igdb_id": 306086,
@@ -6101,11 +6101,6 @@
       "igdb_id": 12247,
       "game_name": "Agent USA",
       "file": "missing/A/12247-agent-usa.json"
-    },
-    {
-      "igdb_id": 23067,
-      "game_name": "Agent X",
-      "file": "missing/A/23067-agent-x.json"
     },
     {
       "igdb_id": 325644,
