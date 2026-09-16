@@ -198,7 +198,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row IV: Re-Elected | 7707 | [7707-saints-row-iv-re-elected.json](./7707-saints-row-iv-re-elected.json) |
 | Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack) | 21862 | [21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json](./21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json) |
+| Saints Row: Chicken Dinner Cosmetic Pack | 307150 | [307150-saints-row-chicken-dinner-cosmetic-pack.json](./307150-saints-row-chicken-dinner-cosmetic-pack.json) |
+| Saints Row: Dead Island 2 - Cosmetic Pack | 307139 | [307139-saints-row-dead-island-2-cosmetic-pack.json](./307139-saints-row-dead-island-2-cosmetic-pack.json) |
 | Saints Row: Drive-By | 77307 | [77307-saints-row-drive-by.json](./77307-saints-row-drive-by.json) |
+| Saints Row: Front to Back Cosmetic Pack | 307141 | [307141-saints-row-front-to-back-cosmetic-pack.json](./307141-saints-row-front-to-back-cosmetic-pack.json) |
+| Saints Row: Going Commando Cosmetic Pack | 307144 | [307144-saints-row-going-commando-cosmetic-pack.json](./307144-saints-row-going-commando-cosmetic-pack.json) |
+| Saints Row: Idols Anarchy Pack | 307146 | [307146-saints-row-idols-anarchy-pack.json](./307146-saints-row-idols-anarchy-pack.json) |
+| Saints Row: Los Panteros American Muscle Bundle | 307148 | [307148-saints-row-los-panteros-american-muscle-bundle.json](./307148-saints-row-los-panteros-american-muscle-bundle.json) |
+| Saints Row: Saints Criminal Customs | 307149 | [307149-saints-row-saints-criminal-customs.json](./307149-saints-row-saints-criminal-customs.json) |
+| Saints Row: SteelSeries Cosmetic Pack | 307151 | [307151-saints-row-steelseries-cosmetic-pack.json](./307151-saints-row-steelseries-cosmetic-pack.json) |
 | Saints Row: The Big Purple Package | 283181 | [283181-saints-row-the-big-purple-package.json](./283181-saints-row-the-big-purple-package.json) |
 | Saints Row: The Heist & The Hazardous | 249476 | [249476-saints-row-the-heist-and-the-hazardous.json](./249476-saints-row-the-heist-and-the-hazardous.json) |
 | Saints Row: The Third - The Trouble with Clones | 78452 | [78452-saints-row-the-third-the-trouble-with-clones.json](./78452-saints-row-the-third-the-trouble-with-clones.json) |
@@ -4103,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sofia | 218734 | [218734-sofia.json](./218734-sofia.json) |
 | Sofia the First Royal Learning Tablet | 213378 | [213378-sofia-the-first-royal-learning-tablet.json](./213378-sofia-the-first-royal-learning-tablet.json) |
 | Sofia's Debt | 196794 | [196794-sofias-debt.json](./196794-sofias-debt.json) |
+| Sofie: The Echoes | 307140 | [307140-sofie-the-echoes.json](./307140-sofie-the-echoes.json) |
 | Sofiya and the Ancient Clan | 209648 | [209648-sofiya-and-the-ancient-clan.json](./209648-sofiya-and-the-ancient-clan.json) |
 | Soft cookie | 114438 | [114438-soft-cookie.json](./114438-soft-cookie.json) |
 | Soft Drizzle | 177527 | [177527-soft-drizzle.json](./177527-soft-drizzle.json) |
