@@ -1394,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Bishoujo Emaki: Cut Sky ~Chapter Summer Wind~ | 147929 | [147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json](./147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json) |
 | Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
 | Sengoku Denshou | 48632 | [48632-sengoku-denshou.json](./48632-sengoku-denshou.json) |
+| Sengoku Gensokyo | 299300 | [299300-sengoku-gensokyo.json](./299300-sengoku-gensokyo.json) |
 | Sengoku Hime 4: Souhai Hyakkei, Hana Mamoru Chikai | 62133 | [62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json](./62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json) |
 | Sengoku Jidai Gold | 124778 | [124778-sengoku-jidai-gold.json](./124778-sengoku-jidai-gold.json) |
 | Sengoku Jidai: Shadow of the Shogun | 34582 | [34582-sengoku-jidai-shadow-of-the-shogun.json](./34582-sengoku-jidai-shadow-of-the-shogun.json) |
@@ -4926,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulborn | 132183 | [132183-soulborn.json](./132183-soulborn.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
 | SoulCalibur II | 1565 | [1565-soulcalibur-ii.json](./1565-soulcalibur-ii.json) |
+| SoulCalibur III: Arcade Edition | 299306 | [299306-soulcalibur-iii-arcade-edition.json](./299306-soulcalibur-iii-arcade-edition.json) |
 | SoulCalibur V | 1013 | [1013-soulcalibur-v.json](./1013-soulcalibur-v.json) |
 | SoulCalibur V: Collectors Edition | 44655 | [44655-soulcalibur-v-collectors-edition.json](./44655-soulcalibur-v-collectors-edition.json) |
 | Soulcalibur: Broken Destiny | 272550 | [272550-soulcalibur-broken-destiny.json](./272550-soulcalibur-broken-destiny.json) |
@@ -9199,6 +9201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swiped! Double Shots of Love | 301410 | [301410-swiped-double-shots-of-love.json](./301410-swiped-double-shots-of-love.json) |
 | Swipepi | 267363 | [267363-swipepi.json](./267363-swipepi.json) |
 | Swiper | 127231 | [127231-swiper.json](./127231-swiper.json) |
+| Swiper's Big Adventure | 299289 | [299289-swipers-big-adventure.json](./299289-swipers-big-adventure.json) |
 | Swish Ball Clicker | 405591 | [405591-swish-ball-clicker.json](./405591-swish-ball-clicker.json) |
 | Swiss Family Robinson | 7732 | [7732-swiss-family-robinson.json](./7732-swiss-family-robinson.json) |
 | Switch 'N' Shoot | 32171 | [32171-switch-n-shoot.json](./32171-switch-n-shoot.json) |
