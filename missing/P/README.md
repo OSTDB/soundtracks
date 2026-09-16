@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man and the Ghostly Adventures | 19940 | [19940-pac-man-and-the-ghostly-adventures.json](./19940-pac-man-and-the-ghostly-adventures.json) |
 | Pac-Man Arcade Golf | 311667 | [311667-pac-man-arcade-golf.json](./311667-pac-man-arcade-golf.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
+| Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
 | Pac-Man World | 84190 | [84190-pac-man-world.json](./84190-pac-man-world.json) |
@@ -2310,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
 | Planeturem | 326259 | [326259-planeturem.json](./326259-planeturem.json) |
 | PlanetX | 368004 | [368004-planetx.json](./368004-planetx.json) |
+| Planisphere | 308430 | [308430-planisphere.json](./308430-planisphere.json) |
 | Planitis | 212290 | [212290-planitis.json](./212290-planitis.json) |
 | Plank! | 105913 | [105913-plank.json](./105913-plank.json) |
 | Plannes | 26168 | [26168-plannes.json](./26168-plannes.json) |
@@ -2695,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Edición Reloaded | 250629 | [250629-pokemon-edicion-reloaded.json](./250629-pokemon-edicion-reloaded.json) |
 | Pokémon Edición Team Rocket | 353274 | [353274-pokemon-edicion-team-rocket.json](./353274-pokemon-edicion-team-rocket.json) |
 | Pokémon Emerald Kaizo | 172744 | [172744-pokemon-emerald-kaizo.json](./172744-pokemon-emerald-kaizo.json) |
+| Pokémon Emerald Rogue V2 | 308386 | [308386-pokemon-emerald-rogue-v2.json](./308386-pokemon-emerald-rogue-v2.json) |
 | Pokémon Empyrean | 221394 | [221394-pokemon-empyrean.json](./221394-pokemon-empyrean.json) |
 | Pokémon Eon Guardians | 241388 | [241388-pokemon-eon-guardians.json](./241388-pokemon-eon-guardians.json) |
 | Pokémon Ephemerald | 206144 | [206144-pokemon-ephemerald.json](./206144-pokemon-ephemerald.json) |
@@ -2755,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Quest | 102874 | [102874-pokemon-quest.json](./102874-pokemon-quest.json) |
 | Pokémon Ranger: Shadows of Almia | 14699 | [14699-pokemon-ranger-shadows-of-almia.json](./14699-pokemon-ranger-shadows-of-almia.json) |
 | Pokémon Reborn | 127326 | [127326-pokemon-reborn.json](./127326-pokemon-reborn.json) |
+| Pokémon Recharged Yellow | 308400 | [308400-pokemon-recharged-yellow.json](./308400-pokemon-recharged-yellow.json) |
 | Pokémon Recordkeepers | 376582 | [376582-pokemon-recordkeepers.json](./376582-pokemon-recordkeepers.json) |
 | Pokémon Red Full Color | 213036 | [213036-pokemon-red-full-color.json](./213036-pokemon-red-full-color.json) |
 | Pokémon Refined Gold | 226210 | [226210-pokemon-refined-gold.json](./226210-pokemon-refined-gold.json) |
@@ -2806,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Let's Go, Eevee! GBA | 217860 | [217860-pokemon-lets-go-eevee-gba.json](./217860-pokemon-lets-go-eevee-gba.json) |
 | Pokémon: Maxie's Island | 342679 | [342679-pokemon-maxies-island.json](./342679-pokemon-maxies-island.json) |
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
+| Pokémon: The Pit | 308392 | [308392-pokemon-the-pit.json](./308392-pokemon-the-pit.json) |
 | Pokénet | 333548 | [333548-pokenet.json](./333548-pokenet.json) |
 | PokeQuest VR | 201764 | [201764-pokequest-vr.json](./201764-pokequest-vr.json) |
 | Poker | 366922 | [366922-poker.json](./366922-poker.json) |
