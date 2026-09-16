@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vision Ghost 2 | 311129 | [311129-vision-ghost-2.json](./311129-vision-ghost-2.json) |
 | Visionarium 2: The Descent | 197379 | [197379-visionarium-2-the-descent.json](./197379-visionarium-2-the-descent.json) |
 | Visions of Aftermath: Boomtown | 9526 | [9526-visions-of-aftermath-boomtown.json](./9526-visions-of-aftermath-boomtown.json) |
+| Visit Bloofpiter Today | 302510 | [302510-visit-bloofpiter-today.json](./302510-visit-bloofpiter-today.json) |
 | Visit Once | 147469 | [147469-visit-once.json](./147469-visit-once.json) |
 | Visitations | 156610 | [156610-visitations.json](./156610-visitations.json) |
 | Visitor | 177557 | [177557-visitor.json](./177557-visitor.json) |
