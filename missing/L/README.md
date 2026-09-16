@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Bushman | 346039 | [346039-little-bushman.json](./346039-little-bushman.json) |
+| Little Busters! Perfect Edition: TV Anime Commemorative Edition | 291075 | [291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json](./291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json) |
 | Little Caesars Fractions Pizza | 77302 | [77302-little-caesars-fractions-pizza.json](./77302-little-caesars-fractions-pizza.json) |
 | Little Cat Doctor | 300846 | [300846-little-cat-doctor.json](./300846-little-cat-doctor.json) |
 | Little Cheese Works | 263193 | [263193-little-cheese-works.json](./263193-little-cheese-works.json) |
@@ -2078,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Blue 2: Fate's Island | 318018 | [318018-lost-in-blue-2-fates-island.json](./318018-lost-in-blue-2-fates-island.json) |
 | Lost in Blue 3 | 21361 | [21361-lost-in-blue-3.json](./21361-lost-in-blue-3.json) |
 | Lost in Cairo | 284909 | [284909-lost-in-cairo.json](./284909-lost-in-cairo.json) |
+| Lost In Failures | 291093 | [291093-lost-in-failures.json](./291093-lost-in-failures.json) |
 | Lost in Heart of Chernobyl: Survival | 314864 | [314864-lost-in-heart-of-chernobyl-survival.json](./314864-lost-in-heart-of-chernobyl-survival.json) |
 | Lost in Hieroglyphs: A Hidden Objects Expedition | 317020 | [317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json](./317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json) |
 | Lost in Limbo | 307932 | [307932-lost-in-limbo.json](./307932-lost-in-limbo.json) |
