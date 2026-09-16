@@ -2862,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose & Camellia 4 | 317598 | [317598-rose-and-camellia-4.json](./317598-rose-and-camellia-4.json) |
 | Rose & Time | 60526 | [60526-rose-and-time.json](./60526-rose-and-time.json) |
 | Rose City Revenge: The Beginning | 220632 | [220632-rose-city-revenge-the-beginning.json](./220632-rose-city-revenge-the-beginning.json) |
+| Rose Cottage | 286673 | [286673-rose-cottage.json](./286673-rose-cottage.json) |
 | Rose Guns Days: Season 1 | 274213 | [274213-rose-guns-days-season-1.json](./274213-rose-guns-days-season-1.json) |
 | Rose Guns Days: Season 1 | 326598 | [326598-rose-guns-days-season-1.json](./326598-rose-guns-days-season-1.json) |
 | Rose Hips | 395037 | [395037-rose-hips.json](./395037-rose-hips.json) |
