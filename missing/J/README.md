@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jorel's Brother and the Most Important Game of the Galaxy | 207334 | [207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json](./207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json) |
 | Joryuu Janshi ni Chousen | 97861 | [97861-joryuu-janshi-ni-chousen.json](./97861-joryuu-janshi-ni-chousen.json) |
 | Joryuu Janshi ni Chousen GB: Watashi-tachi ni Chousen Shite ne! | 97857 | [97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json](./97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json) |
+| Josef the Hedgehog | 330289 | [330289-josef-the-hedgehog.json](./330289-josef-the-hedgehog.json) |
 | Josephine and Friends | 204726 | [204726-josephine-and-friends.json](./204726-josephine-and-friends.json) |
 | JoshGeoff Weiner Simulator | 327837 | [327837-joshgeoff-weiner-simulator.json](./327837-joshgeoff-weiner-simulator.json) |
 | Joshi Daisei Private | 112341 | [112341-joshi-daisei-private.json](./112341-joshi-daisei-private.json) |
