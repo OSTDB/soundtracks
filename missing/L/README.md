@@ -2365,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lug's Delightful Dioramas | 198463 | [198463-lugs-delightful-dioramas.json](./198463-lugs-delightful-dioramas.json) |
 | Lug's Delightful Dioramas PC | 378296 | [378296-lugs-delightful-dioramas-pc.json](./378296-lugs-delightful-dioramas-pc.json) |
 | Luge Crush 2018 | 87201 | [87201-luge-crush-2018.json](./87201-luge-crush-2018.json) |
+| Luggage Lane | 314474 | [314474-luggage-lane.json](./314474-luggage-lane.json) |
 | Luigi and the Quest for Nothing | 322004 | [322004-luigi-and-the-quest-for-nothing.json](./322004-luigi-and-the-quest-for-nothing.json) |
 | Luigi and the Quest for Nothing Revisited | 381732 | [381732-luigi-and-the-quest-for-nothing-revisited.json](./381732-luigi-and-the-quest-for-nothing-revisited.json) |
 | Luigi and the Quest for Nothing: Enhanced | 322380 | [322380-luigi-and-the-quest-for-nothing-enhanced.json](./322380-luigi-and-the-quest-for-nothing-enhanced.json) |
@@ -2529,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyric Sonata | 107248 | [107248-lyric-sonata.json](./107248-lyric-sonata.json) |
 | Lyrica & Lyrica 2 Stars Align | 152914 | [152914-lyrica-and-lyrica-2-stars-align.json](./152914-lyrica-and-lyrica-2-stars-align.json) |
 | Lyrica 2 Stars Align | 152913 | [152913-lyrica-2-stars-align.json](./152913-lyrica-2-stars-align.json) |
+| Lysium: Stardiver | 314505 | [314505-lysium-stardiver.json](./314505-lysium-stardiver.json) |
 | Lyssa | 260122 | [260122-lyssa.json](./260122-lyssa.json) |
 | Lyssa: Goddess of Rage | 273929 | [273929-lyssa-goddess-of-rage.json](./273929-lyssa-goddess-of-rage.json) |
 | Lyssophobia | 179181 | [179181-lyssophobia.json](./179181-lyssophobia.json) |
