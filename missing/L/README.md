@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
 | LittleBigPlanet 2 Extras Edition | 414317 | [414317-littlebigplanet-2-extras-edition.json](./414317-littlebigplanet-2-extras-edition.json) |
 | LittleBigPlanet 2: Collector's Edition | 44554 | [44554-littlebigplanet-2-collectors-edition.json](./44554-littlebigplanet-2-collectors-edition.json) |
+| LittleBigPlanet 3: Baroque Costume | 326784 | [326784-littlebigplanet-3-baroque-costume.json](./326784-littlebigplanet-3-baroque-costume.json) |
 | LittleBigPlanet HUB | 77349 | [77349-littlebigplanet-hub.json](./77349-littlebigplanet-hub.json) |
 | LittleBigPlanet PS Vita: DC Comics Premium Level Pack | 344442 | [344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json](./344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json) |
 | LittleBigPlanet: Pirates of the Caribbean Level Kit | 194642 | [194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json](./194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json) |
@@ -2379,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumo Idle Park | 400291 | [400291-lumo-idle-park.json](./400291-lumo-idle-park.json) |
 | Lumo's Cat | 14303 | [14303-lumos-cat.json](./14303-lumos-cat.json) |
 | Luna : The Dimemsion Watcher | 130917 | [130917-luna-the-dimemsion-watcher.json](./130917-luna-the-dimemsion-watcher.json) |
+| Luna and the Wasted City of Sin | 326791 | [326791-luna-and-the-wasted-city-of-sin.json](./326791-luna-and-the-wasted-city-of-sin.json) |
 | Luna Blaze | 353870 | [353870-luna-blaze.json](./353870-luna-blaze.json) |
 | Luna Child no Saishuu Bouei Line 3 | 202971 | [202971-luna-child-no-saishuu-bouei-line-3.json](./202971-luna-child-no-saishuu-bouei-line-3.json) |
 | Luna de Selene | 383349 | [383349-luna-de-selene.json](./383349-luna-de-selene.json) |
