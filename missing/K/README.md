@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keiji J.B. Harold no Jikenbo: Murder Club | 272022 | [272022-keiji-j-b-harold-no-jikenbo-murder-club.json](./272022-keiji-j-b-harold-no-jikenbo-murder-club.json) |
 | Keio Flying Squadron | 12912 | [12912-keio-flying-squadron.json](./12912-keio-flying-squadron.json) |
 | Keio Flying Squadron 2 | 19417 | [19417-keio-flying-squadron-2.json](./19417-keio-flying-squadron-2.json) |
+| Keitai Shoujo: Koi+Hime - Koi ni Ochita Cinderella-hime | 292148 | [292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json](./292148-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json) |
 | Keith Van Eron's Pro Soccer | 15264 | [15264-keith-van-erons-pro-soccer.json](./15264-keith-van-erons-pro-soccer.json) |
 | Keizudo | 169395 | [169395-keizudo.json](./169395-keizudo.json) |
 | Keke in the Caves of Peril | 230262 | [230262-keke-in-the-caves-of-peril.json](./230262-keke-in-the-caves-of-peril.json) |
