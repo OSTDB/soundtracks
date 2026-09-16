@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T13:04:24.365Z",
-  "total_missing": 78044,
+  "generated_at": "2026-09-16T13:11:47.354Z",
+  "total_missing": 78043,
   "games": [
     {
       "igdb_id": 306086,
@@ -6041,11 +6041,6 @@
       "igdb_id": 82936,
       "game_name": "AI ha Sabaku no Bara no Yume o Miru",
       "file": "missing/A/82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json"
-    },
-    {
-      "igdb_id": 56534,
-      "game_name": "AI Mahjong",
-      "file": "missing/A/56534-ai-mahjong.json"
     },
     {
       "igdb_id": 269327,
