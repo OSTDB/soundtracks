@@ -2633,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer's Adventure | 165706 | [165706-archers-adventure.json](./165706-archers-adventure.json) |
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
 | Archers Online | 316047 | [316047-archers-online.json](./316047-archers-online.json) |
+| Archers Shadow Strike | 332536 | [332536-archers-shadow-strike.json](./332536-archers-shadow-strike.json) |
 | Archers: Bowman's Battle | 63249 | [63249-archers-bowmans-battle.json](./63249-archers-bowmans-battle.json) |
 | Archery Black | 356646 | [356646-archery-black.json](./356646-archery-black.json) |
 | Archery Champion Bowman | 87928 | [87928-archery-champion-bowman.json](./87928-archery-champion-bowman.json) |
