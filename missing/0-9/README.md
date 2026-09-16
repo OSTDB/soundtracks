@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Forest Cats | 301029 | [301029-100-forest-cats.json](./301029-100-forest-cats.json) |
 | 100 Goldmine Cats | 382336 | [382336-100-goldmine-cats.json](./382336-100-goldmine-cats.json) |
 | 100 Greece Cats | 334122 | [334122-100-greece-cats.json](./334122-100-greece-cats.json) |
+| 100 Hidden Capybaras | 321544 | [321544-100-hidden-capybaras.json](./321544-100-hidden-capybaras.json) |
 | 100 Hidden Cats: Ninja | 334123 | [334123-100-hidden-cats-ninja.json](./334123-100-hidden-cats-ninja.json) |
 | 100 Hidden Cats: Playground | 330560 | [330560-100-hidden-cats-playground.json](./330560-100-hidden-cats-playground.json) |
 | 100 Hidden Frogs | 186155 | [186155-100-hidden-frogs.json](./186155-100-hidden-frogs.json) |
@@ -132,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
 | 100 Vacas | 138729 | [138729-100-vacas.json](./138729-100-vacas.json) |
 | 100 Vampire Cats | 347754 | [347754-100-vampire-cats.json](./347754-100-vampire-cats.json) |
+| 100 Waiting Cats: Extra Content | 321593 | [321593-100-waiting-cats-extra-content.json](./321593-100-waiting-cats-extra-content.json) |
 | 100 Wars | 316430 | [316430-100-wars.json](./316430-100-wars.json) |
 | 100 Witch Cats | 347751 | [347751-100-witch-cats.json](./347751-100-witch-cats.json) |
 | 100 Women: Guess the Name of 100 Famous Women | 369054 | [369054-100-women-guess-the-name-of-100-famous-women.json](./369054-100-women-guess-the-name-of-100-famous-women.json) |
