@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok: Labyrinth | 197375 | [197375-ragnarok-labyrinth.json](./197375-ragnarok-labyrinth.json) |
 | Ragnarok: War of Gods | 323174 | [323174-ragnarok-war-of-gods.json](./323174-ragnarok-war-of-gods.json) |
 | Ragozin on Moon | 156691 | [156691-ragozin-on-moon.json](./156691-ragozin-on-moon.json) |
+| Rags to Liches | 304175 | [304175-rags-to-liches.json](./304175-rags-to-liches.json) |
 | Ragtag Heroes | 211765 | [211765-ragtag-heroes.json](./211765-ragtag-heroes.json) |
 | Rai-Net Access Battlers | 299721 | [299721-rai-net-access-battlers.json](./299721-rai-net-access-battlers.json) |
 | Raid 2000 | 30955 | [30955-raid-2000.json](./30955-raid-2000.json) |
@@ -819,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper's Odyssey | 319809 | [319809-reapers-odyssey.json](./319809-reapers-odyssey.json) |
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
 | Reason: Casual Puzzle | 148000 | [148000-reason-casual-puzzle.json](./148000-reason-casual-puzzle.json) |
+| Reasons For Kym | 304720 | [304720-reasons-for-kym.json](./304720-reasons-for-kym.json) |
 | Reassembly | 11691 | [11691-reassembly.json](./11691-reassembly.json) |
 | Rebadge | 397096 | [397096-rebadge.json](./397096-rebadge.json) |
 | Rebel Galaxy | 11719 | [11719-rebel-galaxy.json](./11719-rebel-galaxy.json) |
@@ -1837,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 5: Free Pack 06 | 293410 | [293410-ride-5-free-pack-06.json](./293410-ride-5-free-pack-06.json) |
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
+| Ride Kamens | 304186 | [304186-ride-kamens.json](./304186-ride-kamens.json) |
 | Ride or Die: A Bad Boy Romance - Book 1 | 313719 | [313719-ride-or-die-a-bad-boy-romance-book-1.json](./313719-ride-or-die-a-bad-boy-romance-book-1.json) |
 | Ride the Comix | 137007 | [137007-ride-the-comix.json](./137007-ride-the-comix.json) |
 | Ride with the Reaper | 117053 | [117053-ride-with-the-reaper.json](./117053-ride-with-the-reaper.json) |
@@ -2321,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band | 2685 | [2685-rock-band.json](./2685-rock-band.json) |
 | Rock Band 2 | 2692 | [2692-rock-band-2.json](./2692-rock-band-2.json) |
 | Rock Band 3 | 206953 | [206953-rock-band-3.json](./206953-rock-band-3.json) |
+| Rock Band 3: Deluxe | 303612 | [303612-rock-band-3-deluxe.json](./303612-rock-band-3-deluxe.json) |
 | Rock Band 4: 6th Anniversary Free DLC Pack | 365736 | [365736-rock-band-4-6th-anniversary-free-dlc-pack.json](./365736-rock-band-4-6th-anniversary-free-dlc-pack.json) |
 | Rock Band 4: Any Other Heart | 366816 | [366816-rock-band-4-any-other-heart.json](./366816-rock-band-4-any-other-heart.json) |
 | Rock Band 4: Who Am I? (What's My Name?) | 371863 | [371863-rock-band-4-who-am-i-whats-my-name.json](./371863-rock-band-4-who-am-i-whats-my-name.json) |
@@ -2711,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rondo of Swords | 21481 | [21481-rondo-of-swords.json](./21481-rondo-of-swords.json) |
 | Róngshēn zhī Dìtiě | 117649 | [117649-rongshen-zhi-ditie.json](./117649-rongshen-zhi-ditie.json) |
 | Rongu | 403719 | [403719-rongu.json](./403719-rongu.json) |
+| Ronin Rush | 304713 | [304713-ronin-rush.json](./304713-ronin-rush.json) |
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
 | Ronnie O'Sullivan's Snooker | 312350 | [312350-ronnie-osullivans-snooker.json](./312350-ronnie-osullivans-snooker.json) |
