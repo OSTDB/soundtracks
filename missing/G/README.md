@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Hyoryuu Senki | 191872 | [191872-gakuen-hyoryuu-senki.json](./191872-gakuen-hyoryuu-senki.json) |
 | Gakuen Hyouryuu Senki Dai 2 Wa | 191873 | [191873-gakuen-hyouryuu-senki-dai-2-wa.json](./191873-gakuen-hyouryuu-senki-dai-2-wa.json) |
 | Gakuen Senki | 251188 | [251188-gakuen-senki.json](./251188-gakuen-senki.json) |
+| Gakuen Sentai Solblast | 322189 | [322189-gakuen-sentai-solblast.json](./322189-gakuen-sentai-solblast.json) |
 | Gakuin Makyo: High School Crisis | 322577 | [322577-gakuin-makyo-high-school-crisis.json](./322577-gakuin-makyo-high-school-crisis.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Gal*Gun: Double Peace - Mr. Happiness Edition | 89910 | [89910-gal-gun-double-peace-mr-happiness-edition.json](./89910-gal-gun-double-peace-mr-happiness-edition.json) |
@@ -2365,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Sword | 26627 | [26627-guardian-sword.json](./26627-guardian-sword.json) |
 | Guardian Tactics: Deck of the Chosen | 292543 | [292543-guardian-tactics-deck-of-the-chosen.json](./292543-guardian-tactics-deck-of-the-chosen.json) |
 | Guardian Tales | 133433 | [133433-guardian-tales.json](./133433-guardian-tales.json) |
+| Guardians of Altarris: The Sinless Blade | 322213 | [322213-guardians-of-altarris-the-sinless-blade.json](./322213-guardians-of-altarris-the-sinless-blade.json) |
 | Guardians of Cloudia | 150083 | [150083-guardians-of-cloudia.json](./150083-guardians-of-cloudia.json) |
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
