@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bubble | 287655 | [287655-magic-bubble.json](./287655-magic-bubble.json) |
 | Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
 | Magic Castle | 317812 | [317812-magic-castle.json](./317812-magic-castle.json) |
+| Magic Cats Pots | 319779 | [319779-magic-cats-pots.json](./319779-magic-cats-pots.json) |
 | Magic Cauldron: Dungeons | 289310 | [289310-magic-cauldron-dungeons.json](./289310-magic-cauldron-dungeons.json) |
 | Magic Chaos | 206383 | [206383-magic-chaos.json](./206383-magic-chaos.json) |
 | Magic Chess: Go Go | 330884 | [330884-magic-chess-go-go.json](./330884-magic-chess-go-go.json) |
@@ -1744,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Fantasy: Jigsaw Puzzle - Emperor Edition | 315870 | [315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json](./315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Fantastic Beasts | 313149 | [313149-medieval-fantasy-jigsaw-puzzle-fantastic-beasts.json](./313149-medieval-fantasy-jigsaw-puzzle-fantastic-beasts.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Great Warriors | 313151 | [313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json](./313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json) |
+| Medieval Grandmaster: Tavern Board Battle | 319778 | [319778-medieval-grandmaster-tavern-board-battle.json](./319778-medieval-grandmaster-tavern-board-battle.json) |
 | Medieval Hero | 153367 | [153367-medieval-hero.json](./153367-medieval-hero.json) |
 | Medieval Horse Dealer Simulator | 357857 | [357857-medieval-horse-dealer-simulator.json](./357857-medieval-horse-dealer-simulator.json) |
 | Medieval Idle: Quest | 249185 | [249185-medieval-idle-quest.json](./249185-medieval-idle-quest.json) |
@@ -2437,6 +2439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
 | Metroid: Takeover | 255384 | [255384-metroid-takeover.json](./255384-metroid-takeover.json) |
 | Metroidvania Bundle | 268482 | [268482-metroidvania-bundle.json](./268482-metroidvania-bundle.json) |
+| MetroLand | 319770 | [319770-metroland.json](./319770-metroland.json) |
 | Metronome HD | 66601 | [66601-metronome-hd.json](./66601-metronome-hd.json) |
 | Metropocre | 169975 | [169975-metropocre.json](./169975-metropocre.json) |
 | Metropolismania | 26661 | [26661-metropolismania.json](./26661-metropolismania.json) |
@@ -2676,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Shifts with Femboy | 400315 | [400315-midnight-shifts-with-femboy.json](./400315-midnight-shifts-with-femboy.json) |
 | Midnight Snack | 324920 | [324920-midnight-snack.json](./324920-midnight-snack.json) |
 | Midnight Souls | 365083 | [365083-midnight-souls.json](./365083-midnight-souls.json) |
+| Midnight Special | 319815 | [319815-midnight-special.json](./319815-midnight-special.json) |
 | Midnight Spooks: The Thing in the Basement | 311482 | [311482-midnight-spooks-the-thing-in-the-basement.json](./311482-midnight-spooks-the-thing-in-the-basement.json) |
 | Midnight Stranger | 143102 | [143102-midnight-stranger.json](./143102-midnight-stranger.json) |
 | Midnight Swamp | 318198 | [318198-midnight-swamp.json](./318198-midnight-swamp.json) |
@@ -3697,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonkeyKing VR | 29748 | [29748-monkeyking-vr.json](./29748-monkeyking-vr.json) |
 | Monkeys | 314290 | [314290-monkeys.json](./314290-monkeys.json) |
 | Monkeys & Dragons | 110922 | [110922-monkeys-and-dragons.json](./110922-monkeys-and-dragons.json) |
+| Monkeys & Typewriters! | 319798 | [319798-monkeys-and-typewriters.json](./319798-monkeys-and-typewriters.json) |
 | Monkeys to the Moon | 57097 | [57097-monkeys-to-the-moon.json](./57097-monkeys-to-the-moon.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Mono Grav | 185110 | [185110-mono-grav.json](./185110-mono-grav.json) |
