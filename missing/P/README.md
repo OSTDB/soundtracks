@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise | 184046 | [184046-paradise.json](./184046-paradise.json) |
 | Paradise | 20527 | [20527-paradise.json](./20527-paradise.json) |
 | Paradise | 210019 | [210019-paradise.json](./210019-paradise.json) |
+| Paradise | 288319 | [288319-paradise.json](./288319-paradise.json) |
 | Paradise Angel | 278141 | [278141-paradise-angel.json](./278141-paradise-angel.json) |
 | Paradise Architect | 274464 | [274464-paradise-architect.json](./274464-paradise-architect.json) |
 | Paradise checkers | 112946 | [112946-paradise-checkers.json](./112946-paradise-checkers.json) |
@@ -2065,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series Ninja Sneaking vs: Battle on the Couch | 264904 | [264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json](./264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json) |
 | Pixel Game Maker Series Pollux: Hero in the box | 395668 | [395668-pixel-game-maker-series-pollux-hero-in-the-box.json](./395668-pixel-game-maker-series-pollux-hero-in-the-box.json) |
 | Pixel Game Maker Series: Angel's Blood | 224205 | [224205-pixel-game-maker-series-angels-blood.json](./224205-pixel-game-maker-series-angels-blood.json) |
+| Pixel Game Maker Series: Cat and Castle | 288314 | [288314-pixel-game-maker-series-cat-and-castle.json](./288314-pixel-game-maker-series-cat-and-castle.json) |
 | Pixel Game Maker Series: Isekai Quartet Adventure - Action Game | 152891 | [152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json](./152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json) |
 | Pixel Game Maker Series: Ninja Sneaking R | 215114 | [215114-pixel-game-maker-series-ninja-sneaking-r.json](./215114-pixel-game-maker-series-ninja-sneaking-r.json) |
 | Pixel Game Maker Series: Pearl vs Grey | 227845 | [227845-pixel-game-maker-series-pearl-vs-grey.json](./227845-pixel-game-maker-series-pearl-vs-grey.json) |
@@ -2573,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonia: Revisited Community Project | 138167 | [138167-plutonia-revisited-community-project.json](./138167-plutonia-revisited-community-project.json) |
 | Plutonium T6 Multiplayer | 315118 | [315118-plutonium-t6-multiplayer.json](./315118-plutonium-t6-multiplayer.json) |
 | Pneuma: Breath of Life | 9178 | [9178-pneuma-breath-of-life.json](./9178-pneuma-breath-of-life.json) |
+| Pneumatic Ball | 288360 | [288360-pneumatic-ball.json](./288360-pneumatic-ball.json) |
 | Pnevmo-Capsula | 220345 | [220345-pnevmo-capsula.json](./220345-pnevmo-capsula.json) |
 | Pnickies | 40262 | [40262-pnickies.json](./40262-pnickies.json) |
 | Po-Go-No! | 257111 | [257111-po-go-no.json](./257111-po-go-no.json) |
@@ -2834,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
+| Pokémon Sky Stacker | 288369 | [288369-pokemon-sky-stacker.json](./288369-pokemon-sky-stacker.json) |
 | Pokémon Snap 3DS | 401507 | [401507-pokemon-snap-3ds.json](./401507-pokemon-snap-3ds.json) |
 | Pokémon Solar Eclipse | 399594 | [399594-pokemon-solar-eclipse.json](./399594-pokemon-solar-eclipse.json) |
 | Pokémon Stadium 2 | 2290 | [2290-pokemon-stadium-2.json](./2290-pokemon-stadium-2.json) |
@@ -4293,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse | 392257 | [392257-pulse.json](./392257-pulse.json) |
 | Pulse Cage Episode 1 | 25629 | [25629-pulse-cage-episode-1.json](./25629-pulse-cage-episode-1.json) |
 | Pulse of Love | 258719 | [258719-pulse-of-love.json](./258719-pulse-of-love.json) |
+| Pulse Online | 288333 | [288333-pulse-online.json](./288333-pulse-online.json) |
 | Pulse Phobia | 342133 | [342133-pulse-phobia.json](./342133-pulse-phobia.json) |
 | PulseChaser | 112320 | [112320-pulsechaser.json](./112320-pulsechaser.json) |
 | Pulseman | 45760 | [45760-pulseman.json](./45760-pulseman.json) |
