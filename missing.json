@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T08:34:06.674Z",
-  "total_missing": 77229,
+  "generated_at": "2026-09-16T08:41:53.414Z",
+  "total_missing": 77228,
   "games": [
     {
       "igdb_id": 306086,
@@ -5896,11 +5896,6 @@
       "igdb_id": 391743,
       "game_name": "Aghaz",
       "file": "missing/A/391743-aghaz.json"
-    },
-    {
-      "igdb_id": 11890,
-      "game_name": "Agony",
-      "file": "missing/A/11890-agony.json"
     },
     {
       "igdb_id": 197402,
