@@ -4164,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier of Fortune: Gold Edition | 44642 | [44642-soldier-of-fortune-gold-edition.json](./44642-soldier-of-fortune-gold-edition.json) |
 | Soldier vs Aliens | 54389 | [54389-soldier-vs-aliens.json](./54389-soldier-vs-aliens.json) |
 | Soldiers at War | 69791 | [69791-soldiers-at-war.json](./69791-soldiers-at-war.json) |
+| Söldner-X Complete Collection | 318615 | [318615-soldner-x-complete-collection.json](./318615-soldner-x-complete-collection.json) |
 | Sole Saga | 211940 | [211940-sole-saga.json](./211940-sole-saga.json) |
 | Sole Salvation | 415920 | [415920-sole-salvation.json](./415920-sole-salvation.json) |
 | Solebon | 63806 | [63806-solebon.json](./63806-solebon.json) |
@@ -4620,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Universe Adventure | 326824 | [326824-sonic-universe-adventure.json](./326824-sonic-universe-adventure.json) |
 | Sonic Unleashed | 133942 | [133942-sonic-unleashed.json](./133942-sonic-unleashed.json) |
 | Sonic Unleashed | 133943 | [133943-sonic-unleashed.json](./133943-sonic-unleashed.json) |
+| Sonic Uprising | 318630 | [318630-sonic-uprising.json](./318630-sonic-uprising.json) |
 | Sonic Vex | 330520 | [330520-sonic-vex.json](./330520-sonic-vex.json) |
 | Sonic Whirlwind | 326816 | [326816-sonic-whirlwind.json](./326816-sonic-whirlwind.json) |
 | Sonic Wild | 317612 | [317612-sonic-wild.json](./317612-sonic-wild.json) |
