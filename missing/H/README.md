@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
 | Halen: Ballad of the Blade Thief | 134002 | [134002-halen-ballad-of-the-blade-thief.json](./134002-halen-ballad-of-the-blade-thief.json) |
+| Half Away | 322756 | [322756-half-away.json](./322756-half-away.json) |
 | Half Built: Casino | 211721 | [211721-half-built-casino.json](./211721-half-built-casino.json) |
 | Half Empty | 103510 | [103510-half-empty.json](./103510-half-empty.json) |
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
@@ -173,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
 | Halloween Harem | 398450 | [398450-halloween-harem.json](./398450-halloween-harem.json) |
 | Halloween Harry in Zombie Wars | 93057 | [93057-halloween-harry-in-zombie-wars.json](./93057-halloween-harry-in-zombie-wars.json) |
+| Halloween Horror | 322781 | [322781-halloween-horror.json](./322781-halloween-horror.json) |
 | Halloween in Hollywood | 234043 | [234043-halloween-in-hollywood.json](./234043-halloween-in-hollywood.json) |
 | Halloween Madness | 75118 | [75118-halloween-madness.json](./75118-halloween-madness.json) |
 | Halloween Mysteries | 30806 | [30806-halloween-mysteries.json](./30806-halloween-mysteries.json) |
@@ -233,6 +235,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: The Master Chief Collection Season 8 - Mythic | 205054 | [205054-halo-the-master-chief-collection-season-8-mythic.json](./205054-halo-the-master-chief-collection-season-8-mythic.json) |
 | HaloMD | 141820 | [141820-halomd.json](./141820-halomd.json) |
 | HalOpe | 281399 | [281399-halope.json](./281399-halope.json) |
+| Haluz | 322784 | [322784-haluz.json](./322784-haluz.json) |
+| Haluz 2 | 322787 | [322787-haluz-2.json](./322787-haluz-2.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
 | Hamb: Rotari | 402916 | [402916-hamb-rotari.json](./402916-hamb-rotari.json) |
 | Hamburger | 346059 | [346059-hamburger.json](./346059-hamburger.json) |
@@ -750,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Ball 2 | 99141 | [99141-head-ball-2.json](./99141-head-ball-2.json) |
 | Head Bumper: Editcraft | 164428 | [164428-head-bumper-editcraft.json](./164428-head-bumper-editcraft.json) |
 | Head Games | 152351 | [152351-head-games.json](./152351-head-games.json) |
+| Head over Heels | 322797 | [322797-head-over-heels.json](./322797-head-over-heels.json) |
 | Head Over Heels | 121632 | [121632-head-over-heels.json](./121632-head-over-heels.json) |
 | Head Panic | 39683 | [39683-head-panic.json](./39683-head-panic.json) |
 | Head Shot | 32472 | [32472-head-shot.json](./32472-head-shot.json) |
@@ -2319,7 +2324,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Pristine Realm | 276504 | [276504-honkai-impact-3rd-pristine-realm.json](./276504-honkai-impact-3rd-pristine-realm.json) |
 | Honkai Impact 3rd: Re: Promise to Luna | 276505 | [276505-honkai-impact-3rd-re-promise-to-luna.json](./276505-honkai-impact-3rd-re-promise-to-luna.json) |
 | Honkai Impact 3rd: Silverwing: Beyond | 276498 | [276498-honkai-impact-3rd-silverwing-beyond.json](./276498-honkai-impact-3rd-silverwing-beyond.json) |
+| Honkai Impact 3rd: Stars Derailed | 322783 | [322783-honkai-impact-3rd-stars-derailed.json](./322783-honkai-impact-3rd-stars-derailed.json) |
 | Honkai Impact 3rd: The Banquet Operative | 383390 | [383390-honkai-impact-3rd-the-banquet-operative.json](./383390-honkai-impact-3rd-the-banquet-operative.json) |
+| Honkai: Star Rail - A New Venture on the Eighth Dawn | 322770 | [322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json](./322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json) |
 | Honkai: Star Rail - As Tomorrow Became Yesterday | 375253 | [375253-honkai-star-rail-as-tomorrow-became-yesterday.json](./375253-honkai-star-rail-as-tomorrow-became-yesterday.json) |
 | Honkai: Star Rail - Back to Earth in Evernight | 366942 | [366942-honkai-star-rail-back-to-earth-in-evernight.json](./366942-honkai-star-rail-back-to-earth-in-evernight.json) |
 | Honkai: Star Rail - In Ravages Does the Whistle Sound | 408877 | [408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json](./408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json) |
