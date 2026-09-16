@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
 | Medieval Castle Siege Defense vs. Invaders | 406083 | [406083-medieval-castle-siege-defense-vs-invaders.json](./406083-medieval-castle-siege-defense-vs-invaders.json) |
 | Medieval Coin Hunt | 368540 | [368540-medieval-coin-hunt.json](./368540-medieval-coin-hunt.json) |
+| Medieval Conquest | 305948 | [305948-medieval-conquest.json](./305948-medieval-conquest.json) |
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
 | Medieval Delivery | 263519 | [263519-medieval-delivery.json](./263519-medieval-delivery.json) |
 | Medieval Dynasty: Echoes of Nature | 366852 | [366852-medieval-dynasty-echoes-of-nature.json](./366852-medieval-dynasty-echoes-of-nature.json) |
@@ -4130,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlighter: Between Dimensions | 119236 | [119236-moonlighter-between-dimensions.json](./119236-moonlighter-between-dimensions.json) |
 | Moonlit Nights | 386146 | [386146-moonlit-nights.json](./386146-moonlit-nights.json) |
 | MoonLost | 387344 | [387344-moonlost.json](./387344-moonlost.json) |
+| MoonMan Adventures | 305923 | [305923-moonman-adventures.json](./305923-moonman-adventures.json) |
 | MoonPong: Tales of Epic Lunacy | 213376 | [213376-moonpong-tales-of-epic-lunacy.json](./213376-moonpong-tales-of-epic-lunacy.json) |
 | Moonray | 133362 | [133362-moonray.json](./133362-moonray.json) |
 | Moonray: Battle Lands | 368045 | [368045-moonray-battle-lands.json](./368045-moonray-battle-lands.json) |
