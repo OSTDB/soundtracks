@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
 | Candy Mandy | 114956 | [114956-candy-mandy.json](./114956-candy-mandy.json) |
 | Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
+| Candy Mountain Massacre: Revenge | 331959 | [331959-candy-mountain-massacre-revenge.json](./331959-candy-mountain-massacre-revenge.json) |
 | Candy Rangers | 265694 | [265694-candy-rangers.json](./265694-candy-rangers.json) |
 | Candy Scabs | 177508 | [177508-candy-scabs.json](./177508-candy-scabs.json) |
 | Candy Shop Simulator: Sweet Start | 346682 | [346682-candy-shop-simulator-sweet-start.json](./346682-candy-shop-simulator-sweet-start.json) |
@@ -804,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Terroretra In Space | 217870 | [217870-castle-terroretra-in-space.json](./217870-castle-terroretra-in-space.json) |
 | Castle Torgeath: Descent into Darkness | 26590 | [26590-castle-torgeath-descent-into-darkness.json](./26590-castle-torgeath-descent-into-darkness.json) |
 | Castle Travel | 364563 | [364563-castle-travel.json](./364563-castle-travel.json) |
+| Castle V Castle | 331947 | [331947-castle-v-castle.json](./331947-castle-v-castle.json) |
 | Castle Werewolf | 29609 | [29609-castle-werewolf.json](./29609-castle-werewolf.json) |
 | Castle Wreck | 373638 | [373638-castle-wreck.json](./373638-castle-wreck.json) |
 | Castle: Daybreak | 166166 | [166166-castle-daybreak.json](./166166-castle-daybreak.json) |
@@ -2408,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickenzee | 84270 | [84270-clickenzee.json](./84270-clickenzee.json) |
 | Clicker Achievements: The Impossible Challenge | 103808 | [103808-clicker-achievements-the-impossible-challenge.json](./103808-clicker-achievements-the-impossible-challenge.json) |
 | Clicker Astro Planet | 386870 | [386870-clicker-astro-planet.json](./386870-clicker-astro-planet.json) |
+| Clicker Conquest | 331989 | [331989-clicker-conquest.json](./331989-clicker-conquest.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
 | ClickeRogue | 242547 | [242547-clickerogue.json](./242547-clickerogue.json) |
 | Clickertale 2 | 343883 | [343883-clickertale-2.json](./343883-clickertale-2.json) |
@@ -4259,8 +4262,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossing Miracles | 316647 | [316647-crossing-miracles.json](./316647-crossing-miracles.json) |
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
+| Crossout: “Phantom” | 331997 | [331997-crossout-phantom.json](./331997-crossout-phantom.json) |
 | Crossout: Biter Starter Pack | 243105 | [243105-crossout-biter-starter-pack.json](./243105-crossout-biter-starter-pack.json) |
+| Crossout: Bone Hunter | 331995 | [331995-crossout-bone-hunter.json](./331995-crossout-bone-hunter.json) |
 | Crossout: Cleaner Starter Pack | 243104 | [243104-crossout-cleaner-starter-pack.json](./243104-crossout-cleaner-starter-pack.json) |
+| Crossout: Horsemen of Apocalypse - Famine | 331996 | [331996-crossout-horsemen-of-apocalypse-famine.json](./331996-crossout-horsemen-of-apocalypse-famine.json) |
 | Crossout: Savior | 235767 | [235767-crossout-savior.json](./235767-crossout-savior.json) |
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
 | CrossOver: Roll For Initiative | 202861 | [202861-crossover-roll-for-initiative.json](./202861-crossover-roll-for-initiative.json) |
@@ -4497,7 +4503,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube | 385600 | [385600-cube.json](./385600-cube.json) |
 | Cube | 396933 | [396933-cube.json](./396933-cube.json) |
 | Cube & Star: An Arbitrary Love | 16812 | [16812-cube-and-star-an-arbitrary-love.json](./16812-cube-and-star-an-arbitrary-love.json) |
+| Cube 2x1 RailFarm | 331994 | [331994-cube-2x1-railfarm.json](./331994-cube-2x1-railfarm.json) |
 | Cube 332 | 109729 | [109729-cube-332.json](./109729-cube-332.json) |
+| Cube 3x1 | 331993 | [331993-cube-3x1.json](./331993-cube-3x1.json) |
 | Cube Airport | 249186 | [249186-cube-airport.json](./249186-cube-airport.json) |
 | Cube Arena | 304900 | [304900-cube-arena.json](./304900-cube-arena.json) |
 | Cube Battlefield: 2048 | 267071 | [267071-cube-battlefield-2048.json](./267071-cube-battlefield-2048.json) |
