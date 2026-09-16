@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
 | Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
 | Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
+| Calorie-kun vs. Moguranian | 301953 | [301953-calorie-kun-vs-moguranian.json](./301953-calorie-kun-vs-moguranian.json) |
 | Calpria | 416686 | [416686-calpria.json](./416686-calpria.json) |
 | CalQ | 61569 | [61569-calq.json](./61569-calq.json) |
 | Caltron 6-in-1 | 81250 | [81250-caltron-6-in-1.json](./81250-caltron-6-in-1.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
 | Candy Mountain Massacre: Revenge | 331959 | [331959-candy-mountain-massacre-revenge.json](./331959-candy-mountain-massacre-revenge.json) |
 | Candy Rangers | 265694 | [265694-candy-rangers.json](./265694-candy-rangers.json) |
+| Candy Renovation | 301990 | [301990-candy-renovation.json](./301990-candy-renovation.json) |
 | Candy Scabs | 177508 | [177508-candy-scabs.json](./177508-candy-scabs.json) |
 | Candy Shop Simulator: Sweet Start | 346682 | [346682-candy-shop-simulator-sweet-start.json](./346682-candy-shop-simulator-sweet-start.json) |
 | Candy Snake Master | 83573 | [83573-candy-snake-master.json](./83573-candy-snake-master.json) |
@@ -425,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Jackson | 190231 | [190231-captain-jackson.json](./190231-captain-jackson.json) |
 | Captain Knick Knack | 210641 | [210641-captain-knick-knack.json](./210641-captain-knick-knack.json) |
 | Captain MaCaw | 110165 | [110165-captain-macaw.json](./110165-captain-macaw.json) |
+| Captain McSpacebiff | 301981 | [301981-captain-mcspacebiff.json](./301981-captain-mcspacebiff.json) |
 | Captain Meow | 239672 | [239672-captain-meow.json](./239672-captain-meow.json) |
 | Captain Midnight | 325715 | [325715-captain-midnight.json](./325715-captain-midnight.json) |
 | Captain Morgane and the Golden Turtle | 6654 | [6654-captain-morgane-and-the-golden-turtle.json](./6654-captain-morgane-and-the-golden-turtle.json) |
@@ -527,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Hunter | 17231 | [17231-card-hunter.json](./17231-card-hunter.json) |
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
 | Card Princess | 335330 | [335330-card-princess.json](./335330-card-princess.json) |
+| Card Quest | 301976 | [301976-card-quest.json](./301976-card-quest.json) |
 | Card Quest | 32328 | [32328-card-quest.json](./32328-card-quest.json) |
 | Card Quest: Simple Card Game | 406084 | [406084-card-quest-simple-card-game.json](./406084-card-quest-simple-card-game.json) |
 | Card Racing Simulator: Otterrific Arcade | 217917 | [217917-card-racing-simulator-otterrific-arcade.json](./217917-card-racing-simulator-otterrific-arcade.json) |
@@ -1452,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charged! | 258736 | [258736-charged.json](./258736-charged.json) |
 | Charger Escape | 383373 | [383373-charger-escape.json](./383373-charger-escape.json) |
 | Chariot Land | 165644 | [165644-chariot-land.json](./165644-chariot-land.json) |
+| Chariot of Girl | 301993 | [301993-chariot-of-girl.json](./301993-chariot-of-girl.json) |
 | Chariot Race | 47244 | [47244-chariot-race.json](./47244-chariot-race.json) |
 | Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
 | Charles: The Full Story | 281991 | [281991-charles-the-full-story.json](./281991-charles-the-full-story.json) |
@@ -1569,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobylite: Season 3 - Green Walls | 222939 | [222939-chernobylite-season-3-green-walls.json](./222939-chernobylite-season-3-green-walls.json) |
 | Chernobylite: Season 4 - Black Smoke | 222942 | [222942-chernobylite-season-4-black-smoke.json](./222942-chernobylite-season-4-black-smoke.json) |
 | Chernomeat Survival Game | 118442 | [118442-chernomeat-survival-game.json](./118442-chernomeat-survival-game.json) |
+| Cherophobia | 301978 | [301978-cherophobia.json](./301978-cherophobia.json) |
 | Cherry Blossom Portable | 56471 | [56471-cherry-blossom-portable.json](./56471-cherry-blossom-portable.json) |
 | Cherry Girls vs. Zombie Carnage: Brutal Anime Kawaii | 399619 | [399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json](./399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json) |
 | Cherry Island | 126552 | [126552-cherry-island.json](./126552-cherry-island.json) |
@@ -3839,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowtastic Cafe | 316823 | [316823-cowtastic-cafe.json](./316823-cowtastic-cafe.json) |
 | Cozmic Fantasy 2: Bouken Shounen Pan | 251628 | [251628-cozmic-fantasy-2-bouken-shounen-pan.json](./251628-cozmic-fantasy-2-bouken-shounen-pan.json) |
 | Cozy | 179745 | [179745-cozy.json](./179745-cozy.json) |
+| Cozy Campzone | 301994 | [301994-cozy-campzone.json](./301994-cozy-campzone.json) |
 | Cozy Cards | 209616 | [209616-cozy-cards.json](./209616-cozy-cards.json) |
 | Cozy Cat Cafe | 399630 | [399630-cozy-cat-cafe.json](./399630-cozy-cat-cafe.json) |
 | Cozy Christmas Home Jigsaw Puzzles | 228114 | [228114-cozy-christmas-home-jigsaw-puzzles.json](./228114-cozy-christmas-home-jigsaw-puzzles.json) |
