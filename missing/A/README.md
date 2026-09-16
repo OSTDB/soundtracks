@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Conan: Secrets of Dragon's Spine | 27653 | [27653-age-of-conan-secrets-of-dragons-spine.json](./27653-age-of-conan-secrets-of-dragons-spine.json) |
 | Age of Conan: Unchained | 16402 | [16402-age-of-conan-unchained.json](./16402-age-of-conan-unchained.json) |
 | Age of Conquest IV | 36268 | [36268-age-of-conquest-iv.json](./36268-age-of-conquest-iv.json) |
+| Age of Defense 3 | 327421 | [327421-age-of-defense-3.json](./327421-age-of-defense-3.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
 | Age of Empires II Mobile | 144346 | [144346-age-of-empires-ii-mobile.json](./144346-age-of-empires-ii-mobile.json) |
 | Age of Empires II: Definitive Edition - Dynasties of India | 197890 | [197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json](./197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json) |
@@ -2673,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
 | Archvale | 152168 | [152168-archvale.json](./152168-archvale.json) |
 | Archwar: Heroes and Demons | 227250 | [227250-archwar-heroes-and-demons.json](./227250-archwar-heroes-and-demons.json) |
+| Archwizard | 327408 | [327408-archwizard.json](./327408-archwizard.json) |
 | Arcis Ultima | 196231 | [196231-arcis-ultima.json](./196231-arcis-ultima.json) |
 | ArcLand | 141806 | [141806-arcland.json](./141806-arcland.json) |
 | Arclands | 156147 | [156147-arclands.json](./156147-arclands.json) |
