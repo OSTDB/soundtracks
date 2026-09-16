@@ -428,6 +428,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Train | 63251 | [63251-paper-train.json](./63251-paper-train.json) |
 | Paper Train: Traffic | 18172 | [18172-paper-train-traffic.json](./18172-paper-train-traffic.json) |
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
+| Paper World Escape | 315685 | [315685-paper-world-escape.json](./315685-paper-world-escape.json) |
+| Paper World Escape 2 | 315686 | [315686-paper-world-escape-2.json](./315686-paper-world-escape-2.json) |
+| Paper World Escape 3 | 315688 | [315688-paper-world-escape-3.json](./315688-paper-world-escape-3.json) |
+| Paper World Escape 4 | 315691 | [315691-paper-world-escape-4.json](./315691-paper-world-escape-4.json) |
 | Paper-io | 79219 | [79219-paper-io.json](./79219-paper-io.json) |
 | Paper.io | 113940 | [113940-paper-io.json](./113940-paper-io.json) |
 | Paper.io 2 | 108159 | [108159-paper-io-2.json](./108159-paper-io-2.json) |
@@ -1847,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipelurker | 314297 | [314297-pipelurker.json](./314297-pipelurker.json) |
 | PipeMan | 80538 | [80538-pipeman.json](./80538-pipeman.json) |
 | Piper | 356068 | [356068-piper.json](./356068-piper.json) |
+| Pipkin | 315712 | [315712-pipkin.json](./315712-pipkin.json) |
 | Pipler | 57701 | [57701-pipler.json](./57701-pipler.json) |
 | Pipo Park | 141225 | [141225-pipo-park.json](./141225-pipo-park.json) |
 | Pippa and Your Phantasmal Problem | 322567 | [322567-pippa-and-your-phantasmal-problem.json](./322567-pippa-and-your-phantasmal-problem.json) |
@@ -3671,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Production Line: Doors that go like this | 124782 | [124782-production-line-doors-that-go-like-this.json](./124782-production-line-doors-that-go-like-this.json) |
 | Professional Boyfriend | 239869 | [239869-professional-boyfriend.json](./239869-professional-boyfriend.json) |
 | Professional Bull Rider 2 | 71445 | [71445-professional-bull-rider-2.json](./71445-professional-bull-rider-2.json) |
+| Professional Bull Riding: Out of the Chute | 315719 | [315719-professional-bull-riding-out-of-the-chute.json](./315719-professional-bull-riding-out-of-the-chute.json) |
 | Professional Darts Championship | 197887 | [197887-professional-darts-championship.json](./197887-professional-darts-championship.json) |
 | Professional Farmer 2016 | 84808 | [84808-professional-farmer-2016.json](./84808-professional-farmer-2016.json) |
 | Professional Farmer 2017: Cattle & Cultivation | 172103 | [172103-professional-farmer-2017-cattle-and-cultivation.json](./172103-professional-farmer-2017-cattle-and-cultivation.json) |
