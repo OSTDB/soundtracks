@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandream | 195706 | [195706-sandream.json](./195706-sandream.json) |
 | SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
 | Sands of Fate | 414293 | [414293-sands-of-fate.json](./414293-sands-of-fate.json) |
+| Sands of Hope | 289459 | [289459-sands-of-hope.json](./289459-sands-of-hope.json) |
 | Sands of Osiris | 60541 | [60541-sands-of-osiris.json](./60541-sands-of-osiris.json) |
 | Sands of Salzaar | 128004 | [128004-sands-of-salzaar.json](./128004-sands-of-salzaar.json) |
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
@@ -1752,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Chaos | 324701 | [324701-shadow-of-chaos.json](./324701-shadow-of-chaos.json) |
 | Shadow of Death 2: RPG Games | 323176 | [323176-shadow-of-death-2-rpg-games.json](./323176-shadow-of-death-2-rpg-games.json) |
 | Shadow of Death: Dark Knight | 100823 | [100823-shadow-of-death-dark-knight.json](./100823-shadow-of-death-dark-knight.json) |
+| Shadow of Engimor | 289443 | [289443-shadow-of-engimor.json](./289443-shadow-of-engimor.json) |
 | Shadow of Ganymede | 43337 | [43337-shadow-of-ganymede.json](./43337-shadow-of-ganymede.json) |
 | Shadow of Light | 337686 | [337686-shadow-of-light.json](./337686-shadow-of-light.json) |
 | Shadow of Mammon | 258453 | [258453-shadow-of-mammon.json](./258453-shadow-of-mammon.json) |
@@ -3165,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
 | Skill Gap | 393662 | [393662-skill-gap.json](./393662-skill-gap.json) |
 | Skill Legends Royale | 316603 | [316603-skill-legends-royale.json](./316603-skill-legends-royale.json) |
+| Skill Up! | 289445 | [289445-skill-up.json](./289445-skill-up.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
 | Skin & Scales | 301422 | [301422-skin-and-scales.json](./301422-skin-and-scales.json) |
@@ -6037,6 +6040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spunk and Moxie | 25041 | [25041-spunk-and-moxie.json](./25041-spunk-and-moxie.json) |
 | Spunky | 307609 | [307609-spunky.json](./307609-spunky.json) |
 | Spunky: Gangster Simulator | 164993 | [164993-spunky-gangster-simulator.json](./164993-spunky-gangster-simulator.json) |
+| Spy 1 Lovecraftian | 289437 | [289437-spy-1-lovecraftian.json](./289437-spy-1-lovecraftian.json) |
 | Spy Against Spy | 57639 | [57639-spy-against-spy.json](./57639-spy-against-spy.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
 | Spy Chameleon | 15462 | [15462-spy-chameleon.json](./15462-spy-chameleon.json) |
@@ -7203,6 +7207,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stradale Racing Simulator | 175380 | [175380-stradale-racing-simulator.json](./175380-stradale-racing-simulator.json) |
 | Straftat | 253558 | [253558-straftat.json](./253558-straftat.json) |
 | Straif | 360577 | [360577-straif.json](./360577-straif.json) |
+| Straight Up | 289478 | [289478-straight-up.json](./289478-straight-up.json) |
+| Straight Up: Dummy Characters | 289480 | [289480-straight-up-dummy-characters.json](./289480-straight-up-dummy-characters.json) |
+| Straight Up: Farm Crew Characters | 289479 | [289479-straight-up-farm-crew-characters.json](./289479-straight-up-farm-crew-characters.json) |
 | Straimium Immortaly | 31627 | [31627-straimium-immortaly.json](./31627-straimium-immortaly.json) |
 | Strain | 237351 | [237351-strain.json](./237351-strain.json) |
 | Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
@@ -9453,6 +9460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SYNC: Since You Never Came | 301950 | [301950-sync-since-you-never-came.json](./301950-sync-since-you-never-came.json) |
 | Synced | 121751 | [121751-synced.json](./121751-synced.json) |
 | Synced: Season 1 - Lambent Dawn Trailer | 365090 | [365090-synced-season-1-lambent-dawn-trailer.json](./365090-synced-season-1-lambent-dawn-trailer.json) |
+| Synced: Winterfest Pack | 289461 | [289461-synced-winterfest-pack.json](./289461-synced-winterfest-pack.json) |
 | Syncers | 368473 | [368473-syncers.json](./368473-syncers.json) |
 | Synchro Hedgehogs Bundle | 218466 | [218466-synchro-hedgehogs-bundle.json](./218466-synchro-hedgehogs-bundle.json) |
 | Synchronity | 381116 | [381116-synchronity.json](./381116-synchronity.json) |
