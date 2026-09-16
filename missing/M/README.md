@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Castle | 317812 | [317812-magic-castle.json](./317812-magic-castle.json) |
 | Magic Cauldron: Dungeons | 289310 | [289310-magic-cauldron-dungeons.json](./289310-magic-cauldron-dungeons.json) |
 | Magic Chaos | 206383 | [206383-magic-chaos.json](./206383-magic-chaos.json) |
+| Magic Chess: Go Go | 330884 | [330884-magic-chess-go-go.json](./330884-magic-chess-go-go.json) |
 | Magic Circle | 309334 | [309334-magic-circle.json](./309334-magic-circle.json) |
 | Magic City Detective: The Carnival Begins - Collector's Edition | 304859 | [304859-magic-city-detective-the-carnival-begins-collectors-edition.json](./304859-magic-city-detective-the-carnival-begins-collectors-edition.json) |
 | Magic City Detective: The Carnival Begins DLC | 361772 | [361772-magic-city-detective-the-carnival-begins-dlc.json](./361772-magic-city-detective-the-carnival-begins-dlc.json) |
@@ -1426,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matthias Sammer Soccer | 49101 | [49101-matthias-sammer-soccer.json](./49101-matthias-sammer-soccer.json) |
 | Matts Project Z Endless | 149581 | [149581-matts-project-z-endless.json](./149581-matts-project-z-endless.json) |
 | Mauled | 239681 | [239681-mauled.json](./239681-mauled.json) |
+| Maumau and the Labyrinth | 330860 | [330860-maumau-and-the-labyrinth.json](./330860-maumau-and-the-labyrinth.json) |
 | Mausoleosis | 302951 | [302951-mausoleosis.json](./302951-mausoleosis.json) |
 | Mausoleum of the Medusa | 25604 | [25604-mausoleum-of-the-medusa.json](./25604-mausoleum-of-the-medusa.json) |
 | Maveldor: Saga of the Twin Mirrors | 250941 | [250941-maveldor-saga-of-the-twin-mirrors.json](./250941-maveldor-saga-of-the-twin-mirrors.json) |
@@ -2013,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meme Wars | 366827 | [366827-meme-wars.json](./366827-meme-wars.json) |
 | Memento | 33176 | [33176-memento.json](./33176-memento.json) |
 | Memento Dawn | 262956 | [262956-memento-dawn.json](./262956-memento-dawn.json) |
+| Memento in Marrow | 330849 | [330849-memento-in-marrow.json](./330849-memento-in-marrow.json) |
 | Memento Mori | 139373 | [139373-memento-mori.json](./139373-memento-mori.json) |
 | Memento Mori | 28231 | [28231-memento-mori.json](./28231-memento-mori.json) |
 | Memento Mori 2 | 16529 | [16529-memento-mori-2.json](./16529-memento-mori-2.json) |
@@ -3966,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Patrol | 12314 | [12314-moon-patrol.json](./12314-moon-patrol.json) |
 | Moon Patrol | 280784 | [280784-moon-patrol.json](./280784-moon-patrol.json) |
 | Moon Patrol | 287080 | [287080-moon-patrol.json](./287080-moon-patrol.json) |
+| Moon Rat | 330829 | [330829-moon-rat.json](./330829-moon-rat.json) |
 | Moon Rider | 295026 | [295026-moon-rider.json](./295026-moon-rider.json) |
 | Moon River | 298303 | [298303-moon-river.json](./298303-moon-river.json) |
 | Moon Runner | 199125 | [199125-moon-runner.json](./199125-moon-runner.json) |
@@ -5277,6 +5281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Yi | 388240 | [388240-mythic-yi.json](./388240-mythic-yi.json) |
 | Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
 | Mythical Ruins | 338285 | [338285-mythical-ruins.json](./338285-mythical-ruins.json) |
+| Mythical Whalers | 330893 | [330893-mythical-whalers.json](./330893-mythical-whalers.json) |
 | MythicZon | 348310 | [348310-mythiczon.json](./348310-mythiczon.json) |
 | Mything | 381597 | [381597-mything.json](./381597-mything.json) |
 | Mythlands: Dragon Flight VR | 214178 | [214178-mythlands-dragon-flight-vr.json](./214178-mythlands-dragon-flight-vr.json) |
