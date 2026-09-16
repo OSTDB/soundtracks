@@ -327,6 +327,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Solitaire Plus | 107146 | [107146-2048-solitaire-plus.json](./107146-2048-solitaire-plus.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
 | 2084 | 113154 | [113154-2084.json](./113154-2084.json) |
+| 20Q | 320398 | [320398-20q.json](./320398-20q.json) |
+| 20Q: The Simpsons | 320399 | [320399-20q-the-simpsons.json](./320399-20q-the-simpsons.json) |
 | 21 Blitz | 125939 | [125939-21-blitz.json](./125939-21-blitz.json) |
 | 21 Gewinnt | 98932 | [98932-21-gewinnt.json](./98932-21-gewinnt.json) |
 | 21 Steps to Soul | 27115 | [27115-21-steps-to-soul.json](./27115-21-steps-to-soul.json) |
@@ -469,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4K Adventure | 140624 | [140624-4k-adventure.json](./140624-4k-adventure.json) |
 | 4th Era: The RuneChild | 120320 | [120320-4th-era-the-runechild.json](./120320-4th-era-the-runechild.json) |
 | 4th Time's the Charm | 362913 | [362913-4th-times-the-charm.json](./362913-4th-times-the-charm.json) |
+| 4x4 Adventure Rocky Pathways | 320371 | [320371-4x4-adventure-rocky-pathways.json](./320371-4x4-adventure-rocky-pathways.json) |
 | 4x4 Dirt Track Forest Driving | 89197 | [89197-4x4-dirt-track-forest-driving.json](./89197-4x4-dirt-track-forest-driving.json) |
 | 4x4 EVO 2 | 5715 | [5715-4x4-evo-2.json](./5715-4x4-evo-2.json) |
 | 4x4 Mania | 139436 | [139436-4x4-mania.json](./139436-4x4-mania.json) |
@@ -477,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Card Slingo | 321768 | [321768-5-card-slingo.json](./321768-5-card-slingo.json) |
 | 5 in 1 Mahjong | 79874 | [79874-5-in-1-mahjong.json](./79874-5-in-1-mahjong.json) |
 | 5 In One Fun Pak | 93568 | [93568-5-in-one-fun-pak.json](./93568-5-in-one-fun-pak.json) |
+| 5 Intelligent Strategy Games | 320405 | [320405-5-intelligent-strategy-games.json](./320405-5-intelligent-strategy-games.json) |
 | 5 Minute Raid | 304004 | [304004-5-minute-raid.json](./304004-5-minute-raid.json) |
 | 5 Star Rio Resort | 38959 | [38959-5-star-rio-resort.json](./38959-5-star-rio-resort.json) |
 | 5-Star Taxi | 415875 | [415875-5-star-taxi.json](./415875-5-star-taxi.json) |
