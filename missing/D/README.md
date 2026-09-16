@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Eye Deputy | 316056 | [316056-dead-eye-deputy.json](./316056-dead-eye-deputy.json) |
 | Dead Eye Jim | 44639 | [44639-dead-eye-jim.json](./44639-dead-eye-jim.json) |
 | Dead Face | 181919 | [181919-dead-face.json](./181919-dead-face.json) |
+| Dead for Dread | 305958 | [305958-dead-for-dread.json](./305958-dead-for-dread.json) |
 | Dead Function | 179737 | [179737-dead-function.json](./179737-dead-function.json) |
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
 | Dead Hospital | 406174 | [406174-dead-hospital.json](./406174-dead-hospital.json) |
@@ -2039,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice of Kalma | 357258 | [357258-dice-of-kalma.json](./357258-dice-of-kalma.json) |
 | Dice of Olympus | 130342 | [130342-dice-of-olympus.json](./130342-dice-of-olympus.json) |
 | Dice Paradise | 175416 | [175416-dice-paradise.json](./175416-dice-paradise.json) |
+| Dice Player One: Trailer | 305916 | [305916-dice-player-one-trailer.json](./305916-dice-player-one-trailer.json) |
 | Dice Quest | 226749 | [226749-dice-quest.json](./226749-dice-quest.json) |
 | Dice Rogues | 406120 | [406120-dice-rogues.json](./406120-dice-rogues.json) |
 | Dice Tactics: Demon King Chapters 2, 3, 4 | 168835 | [168835-dice-tactics-demon-king-chapters-2-3-4.json](./168835-dice-tactics-demon-king-chapters-2-3-4.json) |
@@ -2104,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die, A.I. | 191183 | [191183-die-a-i.json](./191183-die-a-i.json) |
 | Die, Pablo! | 270119 | [270119-die-pablo.json](./270119-die-pablo.json) |
 | Dieathlon | 410981 | [410981-dieathlon.json](./410981-dieathlon.json) |
+| Died | 305915 | [305915-died.json](./305915-died.json) |
 | DieFeen | 305161 | [305161-diefeen.json](./305161-diefeen.json) |
 | Diego Balls | 343830 | [343830-diego-balls.json](./343830-diego-balls.json) |
 | Diep.io | 19341 | [19341-diep-io.json](./19341-diep-io.json) |
@@ -3989,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driftin.io | 126024 | [126024-driftin-io.json](./126024-driftin-io.json) |
 | Drifting Cloud | 99577 | [99577-drifting-cloud.json](./99577-drifting-cloud.json) |
 | Driftkhana | 197345 | [197345-driftkhana.json](./197345-driftkhana.json) |
+| Drifto: Infinite Touge | 305914 | [305914-drifto-infinite-touge.json](./305914-drifto-infinite-touge.json) |
 | DriftOn | 129053 | [129053-drifton.json](./129053-drifton.json) |
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
 | Driftwood | 31831 | [31831-driftwood.json](./31831-driftwood.json) |
@@ -4109,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drugs to Bee | 103447 | [103447-drugs-to-bee.json](./103447-drugs-to-bee.json) |
 | Drugz: 2D Drug Empire Simulator | 253398 | [253398-drugz-2d-drug-empire-simulator.json](./253398-drugz-2d-drug-empire-simulator.json) |
 | Druid | 13613 | [13613-druid.json](./13613-druid.json) |
+| Druid | 305921 | [305921-druid.json](./305921-druid.json) |
 | Druid's Tale: Crystal Cave | 61653 | [61653-druids-tale-crystal-cave.json](./61653-druids-tale-crystal-cave.json) |
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
