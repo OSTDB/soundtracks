@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendino | 224021 | [224021-legendino.json](./224021-legendino.json) |
 | Legendo's the Three Musketeers | 71533 | [71533-legendos-the-three-musketeers.json](./71533-legendos-the-three-musketeers.json) |
 | Legends Aligned | 335085 | [335085-legends-aligned.json](./335085-legends-aligned.json) |
+| Legends BMX | 325081 | [325081-legends-bmx.json](./325081-legends-bmx.json) |
 | Legends Core Plus | 231401 | [231401-legends-core-plus.json](./231401-legends-core-plus.json) |
 | Legends Esport Manager | 348765 | [348765-legends-esport-manager.json](./348765-legends-esport-manager.json) |
 | Legends of Amberland III: The Crimson Tower | 355038 | [355038-legends-of-amberland-iii-the-crimson-tower.json](./355038-legends-of-amberland-iii-the-crimson-tower.json) |
@@ -2486,3 +2487,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyssa | 260122 | [260122-lyssa.json](./260122-lyssa.json) |
 | Lyssa: Goddess of Rage | 273929 | [273929-lyssa-goddess-of-rage.json](./273929-lyssa-goddess-of-rage.json) |
 | Lyssophobia | 179181 | [179181-lyssophobia.json](./179181-lyssophobia.json) |
+| Lythe The Forgetful Witch: A Visual Novel | 325057 | [325057-lythe-the-forgetful-witch-a-visual-novel.json](./325057-lythe-the-forgetful-witch-a-visual-novel.json) |
