@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis-e | 170010 | [170010-tennis-e.json](./170010-tennis-e.json) |
 | Tennis/Squash | 92528 | [92528-tennis-squash.json](./92528-tennis-squash.json) |
 | Tennistronic | 311630 | [311630-tennistronic.json](./311630-tennistronic.json) |
+| Tenno | 290536 | [290536-tenno.json](./290536-tenno.json) |
 | Tenome | 205784 | [205784-tenome.json](./205784-tenome.json) |
 | Tenpin Bowling | 414338 | [414338-tenpin-bowling.json](./414338-tenpin-bowling.json) |
 | Tenrow | 33321 | [33321-tenrow.json](./33321-tenrow.json) |
