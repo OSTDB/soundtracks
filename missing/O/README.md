@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My God, Look At This Knight | 76640 | [76640-oh-my-god-look-at-this-knight.json](./76640-oh-my-god-look-at-this-knight.json) |
 | Oh My Gore! | 36231 | [36231-oh-my-gore.json](./36231-oh-my-gore.json) |
 | Oh My Pool! | 144970 | [144970-oh-my-pool.json](./144970-oh-my-pool.json) |
+| Oh My Wrench | 322187 | [322187-oh-my-wrench.json](./322187-oh-my-wrench.json) |
 | Oh No! Bugs! | 31708 | [31708-oh-no-bugs.json](./31708-oh-no-bugs.json) |
 | Oh No! More Zombies Ate My Neighbors | 38294 | [38294-oh-no-more-zombies-ate-my-neighbors.json](./38294-oh-no-more-zombies-ate-my-neighbors.json) |
 | Oh No! UFO! | 386730 | [386730-oh-no-ufo.json](./386730-oh-no-ufo.json) |
