@@ -582,9 +582,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
 | Age of War | 18348 | [18348-age-of-war.json](./18348-age-of-war.json) |
-| Age of Wonders 4: Archon Prophecy | 325846 | [325846-age-of-wonders-4-archon-prophecy.json](./325846-age-of-wonders-4-archon-prophecy.json) |
-| Age of Wonders 4: Giant Kings | 325845 | [325845-age-of-wonders-4-giant-kings.json](./325845-age-of-wonders-4-giant-kings.json) |
-| Age of Wonders 4: Ways of War | 325844 | [325844-age-of-wonders-4-ways-of-war.json](./325844-age-of-wonders-4-ways-of-war.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent Hugo | 95462 | [95462-agent-hugo.json](./95462-agent-hugo.json) |
 | Agent Intercept | 122635 | [122635-agent-intercept.json](./122635-agent-intercept.json) |
