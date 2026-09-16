@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaceful Dog Escape | 231923 | [231923-peaceful-dog-escape.json](./231923-peaceful-dog-escape.json) |
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
 | Peaceful Gunner | 153389 | [153389-peaceful-gunner.json](./153389-peaceful-gunner.json) |
+| Peach Clicker | 312761 | [312761-peach-clicker.json](./312761-peach-clicker.json) |
 | Peach Up | 338831 | [338831-peach-up.json](./338831-peach-up.json) |
 | Peach's Christmas Invitation | 135215 | [135215-peachs-christmas-invitation.json](./135215-peachs-christmas-invitation.json) |
 | Peachleaf Valley: Seeds of Love | 152935 | [152935-peachleaf-valley-seeds-of-love.json](./152935-peachleaf-valley-seeds-of-love.json) |
@@ -3048,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopCap Arcade Vol. 1 | 7132 | [7132-popcap-arcade-vol-1.json](./7132-popcap-arcade-vol-1.json) |
 | PopCap Arcade Vol. 2 | 7133 | [7133-popcap-arcade-vol-2.json](./7133-popcap-arcade-vol-2.json) |
 | Popcorn Popstars | 359519 | [359519-popcorn-popstars.json](./359519-popcorn-popstars.json) |
+| Popcorn! | 312727 | [312727-popcorn.json](./312727-popcorn.json) |
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
 | Popeye | 38310 | [38310-popeye.json](./38310-popeye.json) |
 | Popeye | 4619 | [4619-popeye.json](./4619-popeye.json) |
@@ -4060,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proud To Love | 385052 | [385052-proud-to-love.json](./385052-proud-to-love.json) |
 | Proun | 80558 | [80558-proun.json](./80558-proun.json) |
 | Proun+ A Journey Through Modern Art | 246968 | [246968-proun-a-journey-through-modern-art.json](./246968-proun-a-journey-through-modern-art.json) |
+| Prove It and Move It | 312717 | [312717-prove-it-and-move-it.json](./312717-prove-it-and-move-it.json) |
 | Prove You're Human | 397804 | [397804-prove-youre-human.json](./397804-prove-youre-human.json) |
 | Proviant | 90618 | [90618-proviant.json](./90618-proviant.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
