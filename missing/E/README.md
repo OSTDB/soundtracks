@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emin's Journey | 291754 | [291754-emins-journey.json](./291754-emins-journey.json) |
 | Emio: The Smiling Man - Famicom Detective Club | 308052 | [308052-emio-the-smiling-man-famicom-detective-club.json](./308052-emio-the-smiling-man-famicom-detective-club.json) |
 | Emirati Tales | 349378 | [349378-emirati-tales.json](./349378-emirati-tales.json) |
+| Emiru Game | 315718 | [315718-emiru-game.json](./315718-emiru-game.json) |
 | Emissary | 413714 | [413714-emissary.json](./413714-emissary.json) |
 | Emissary One | 411620 | [411620-emissary-one.json](./411620-emissary-one.json) |
 | Emlis | 304585 | [304585-emlis.json](./304585-emlis.json) |
@@ -855,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Solitaire | 386133 | [386133-enchanted-solitaire.json](./386133-enchanted-solitaire.json) |
 | Enchanted Solitaire 2 | 386123 | [386123-enchanted-solitaire-2.json](./386123-enchanted-solitaire-2.json) |
 | Enchanted Stories: Mystic Woods - Collector's Edition | 356763 | [356763-enchanted-stories-mystic-woods-collectors-edition.json](./356763-enchanted-stories-mystic-woods-collectors-edition.json) |
+| Enchanted Trees Escape | 315669 | [315669-enchanted-trees-escape.json](./315669-enchanted-trees-escape.json) |
 | Enchanter Trilogy | 73789 | [73789-enchanter-trilogy.json](./73789-enchanter-trilogy.json) |
 | Encircled | 319977 | [319977-encircled.json](./319977-encircled.json) |
 | Enclave: Shadows of Twilight | 77980 | [77980-enclave-shadows-of-twilight.json](./77980-enclave-shadows-of-twilight.json) |
@@ -1743,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evo Explores | 32731 | [32731-evo-explores.json](./32731-evo-explores.json) |
 | Evo Island | 290415 | [290415-evo-island.json](./290415-evo-island.json) |
 | Evo Pop: Sweet Edition | 395677 | [395677-evo-pop-sweet-edition.json](./395677-evo-pop-sweet-edition.json) |
+| EvoBots | 315713 | [315713-evobots.json](./315713-evobots.json) |
 | Evocation | 107817 | [107817-evocation.json](./107817-evocation.json) |
 | Evocation | 270116 | [270116-evocation.json](./270116-evocation.json) |
 | Evocation: Oltre il Sogno | 242533 | [242533-evocation-oltre-il-sogno.json](./242533-evocation-oltre-il-sogno.json) |
