@@ -2189,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
 | Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
+| Pizza Delivery: A Short Thriller | 305364 | [305364-pizza-delivery-a-short-thriller.json](./305364-pizza-delivery-a-short-thriller.json) |
 | Pizza Delivery: Zebaxx | 276189 | [276189-pizza-delivery-zebaxx.json](./276189-pizza-delivery-zebaxx.json) |
 | Pizza Hub | 311253 | [311253-pizza-hub.json](./311253-pizza-hub.json) |
 | Pizza Master VR | 131642 | [131642-pizza-master-vr.json](./131642-pizza-master-vr.json) |
@@ -2906,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Politically Yours | 23798 | [23798-politically-yours.json](./23798-politically-yours.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
 | Politiks | 391176 | [391176-politiks.json](./391176-politiks.json) |
+| Polka Sheep | 305335 | [305335-polka-sheep.json](./305335-polka-sheep.json) |
 | Pollinate or Die | 381615 | [381615-pollinate-or-die.json](./381615-pollinate-or-die.json) |
 | Pollucean | 347792 | [347792-pollucean.json](./347792-pollucean.json) |
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
