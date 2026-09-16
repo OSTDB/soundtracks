@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth | 78571 | [78571-rebirth.json](./78571-rebirth.json) |
 | Rebirth Fantasy Online | 116306 | [116306-rebirth-fantasy-online.json](./116306-rebirth-fantasy-online.json) |
 | Rebirth of Fortune | 174322 | [174322-rebirth-of-fortune.json](./174322-rebirth-of-fortune.json) |
+| Rebirth of Myths: Dragonborn | 297616 | [297616-rebirth-of-myths-dragonborn.json](./297616-rebirth-of-myths-dragonborn.json) |
 | Rebirth-Land of Zombies | 189122 | [189122-rebirth-land-of-zombies.json](./189122-rebirth-land-of-zombies.json) |
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
 | Rebloom | 351101 | [351101-rebloom.json](./351101-rebloom.json) |
@@ -1815,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet Xtreme | 70421 | [70421-ricochet-xtreme.json](./70421-ricochet-xtreme.json) |
 | Riddim Ribbon | 66040 | [66040-riddim-ribbon.json](./66040-riddim-ribbon.json) |
 | Riddle Diario | 109063 | [109063-riddle-diario.json](./109063-riddle-diario.json) |
+| Riddle fidget spinner | 297649 | [297649-riddle-fidget-spinner.json](./297649-riddle-fidget-spinner.json) |
 | Riddle in Riddle | 150114 | [150114-riddle-in-riddle.json](./150114-riddle-in-riddle.json) |
 | Riddle Joker | 97388 | [97388-riddle-joker.json](./97388-riddle-joker.json) |
 | Riddle of the Sphinx | 174286 | [174286-riddle-of-the-sphinx.json](./174286-riddle-of-the-sphinx.json) |
