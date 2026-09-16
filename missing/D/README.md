@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Tide | 3139 | [3139-deadly-tide.json](./3139-deadly-tide.json) |
 | Deadman Diaries | 197848 | [197848-deadman-diaries.json](./197848-deadman-diaries.json) |
 | Deadnaut | 51755 | [51755-deadnaut.json](./51755-deadnaut.json) |
+| DeadNeverStop | 289450 | [289450-deadneverstop.json](./289450-deadneverstop.json) |
 | DeadOS | 158207 | [158207-deados.json](./158207-deados.json) |
 | Deadpool | 1919 | [1919-deadpool.json](./1919-deadpool.json) |
 | Deadrock Salvation | 382752 | [382752-deadrock-salvation.json](./382752-deadrock-salvation.json) |
@@ -2019,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diaball | 176485 | [176485-diaball.json](./176485-diaball.json) |
 | Diabetor & The Sugar Monsters | 278736 | [278736-diabetor-and-the-sugar-monsters.json](./278736-diabetor-and-the-sugar-monsters.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
+| Diablo IV: Dark Pathways Pack | 289474 | [289474-diablo-iv-dark-pathways-pack.json](./289474-diablo-iv-dark-pathways-pack.json) |
 | Diablo IV: Loot Reborn | 299726 | [299726-diablo-iv-loot-reborn.json](./299726-diablo-iv-loot-reborn.json) |
 | Diablo IV: Lord of Hatred | 381239 | [381239-diablo-iv-lord-of-hatred.json](./381239-diablo-iv-lord-of-hatred.json) |
 | Diablo IV: Season of Divine Intervention | 380541 | [380541-diablo-iv-season-of-divine-intervention.json](./380541-diablo-iv-season-of-divine-intervention.json) |
@@ -3024,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
 | Don't Forget Me: Deluxe Edition | 154519 | [154519-dont-forget-me-deluxe-edition.json](./154519-dont-forget-me-deluxe-edition.json) |
+| Don't Fret | 289433 | [289433-dont-fret.json](./289433-dont-fret.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
 | Don't Get Fired! | 406825 | [406825-dont-get-fired.json](./406825-dont-get-fired.json) |
 | Don't Give Up: A Cynical Tale | 111141 | [111141-dont-give-up-a-cynical-tale.json](./111141-dont-give-up-a-cynical-tale.json) |
