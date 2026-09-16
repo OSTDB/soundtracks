@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZiParate | 218122 | [218122-ziparate.json](./218122-ziparate.json) |
 | Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
 | Zipple World 2: The Sweet Chaos | 33052 | [33052-zipple-world-2-the-sweet-chaos.json](./33052-zipple-world-2-the-sweet-chaos.json) |
+| Zippy Race | 322775 | [322775-zippy-race.json](./322775-zippy-race.json) |
 | Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
 | Zissi's Island | 31644 | [31644-zissis-island.json](./31644-zissis-island.json) |
 | ZJ the Ball Challenge: Level 1C | 214512 | [214512-zj-the-ball-challenge-level-1c.json](./214512-zj-the-ball-challenge-level-1c.json) |
