@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends BMX | 325081 | [325081-legends-bmx.json](./325081-legends-bmx.json) |
 | Legends Core Plus | 231401 | [231401-legends-core-plus.json](./231401-legends-core-plus.json) |
 | Legends Esport Manager | 348765 | [348765-legends-esport-manager.json](./348765-legends-esport-manager.json) |
+| Legends of Aden | 298674 | [298674-legends-of-aden.json](./298674-legends-of-aden.json) |
 | Legends of Amberland III: The Crimson Tower | 355038 | [355038-legends-of-amberland-iii-the-crimson-tower.json](./355038-legends-of-amberland-iii-the-crimson-tower.json) |
 | Legends of Atlantis: Exodus Premium | 174337 | [174337-legends-of-atlantis-exodus-premium.json](./174337-legends-of-atlantis-exodus-premium.json) |
 | Legends of Azulgar | 32013 | [32013-legends-of-azulgar.json](./32013-legends-of-azulgar.json) |
