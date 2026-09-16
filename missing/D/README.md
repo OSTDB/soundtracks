@@ -4329,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Doom | 178615 | [178615-dungeon-of-doom.json](./178615-dungeon-of-doom.json) |
 | Dungeon of Dragon Knight | 113402 | [113402-dungeon-of-dragon-knight.json](./113402-dungeon-of-dragon-knight.json) |
 | Dungeon of Erotic Master Reboot | 374614 | [374614-dungeon-of-erotic-master-reboot.json](./374614-dungeon-of-erotic-master-reboot.json) |
+| Dungeon of Grandmasters | 322802 | [322802-dungeon-of-grandmasters.json](./322802-dungeon-of-grandmasters.json) |
 | Dungeon of Memories | 295807 | [295807-dungeon-of-memories.json](./295807-dungeon-of-memories.json) |
 | Dungeon of Minos | 175346 | [175346-dungeon-of-minos.json](./175346-dungeon-of-minos.json) |
 | Dungeon of Windaria | 72637 | [72637-dungeon-of-windaria.json](./72637-dungeon-of-windaria.json) |
@@ -4524,6 +4525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying for Daylight | 79904 | [79904-dying-for-daylight.json](./79904-dying-for-daylight.json) |
 | Dying Light 2: Stay Human - Chicken Bundle | 243671 | [243671-dying-light-2-stay-human-chicken-bundle.json](./243671-dying-light-2-stay-human-chicken-bundle.json) |
 | Dying Light 2: Stay Human - Collector's Edition | 150146 | [150146-dying-light-2-stay-human-collectors-edition.json](./150146-dying-light-2-stay-human-collectors-edition.json) |
+| Dying Light 2: Stay Human - Reloaded Edition | 322800 | [322800-dying-light-2-stay-human-reloaded-edition.json](./322800-dying-light-2-stay-human-reloaded-edition.json) |
 | Dying Light: Enhanced Edition | 248317 | [248317-dying-light-enhanced-edition.json](./248317-dying-light-enhanced-edition.json) |
 | Dying Light: Platinum Edition | 152030 | [152030-dying-light-platinum-edition.json](./152030-dying-light-platinum-edition.json) |
 | Dying Night Sex with Zombi | 375952 | [375952-dying-night-sex-with-zombi.json](./375952-dying-night-sex-with-zombi.json) |
