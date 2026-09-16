@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abismo | 380389 | [380389-abismo.json](./380389-abismo.json) |
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
+| Abnormal State: Otome Love | 303099 | [303099-abnormal-state-otome-love.json](./303099-abnormal-state-otome-love.json) |
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
 | Abode | 26370 | [26370-abode.json](./26370-abode.json) |
 | Abomi Nation: Monster Rifts | 315683 | [315683-abomi-nation-monster-rifts.json](./315683-abomi-nation-monster-rifts.json) |
@@ -2699,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archibald 2 | 116985 | [116985-archibald-2.json](./116985-archibald-2.json) |
 | Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
 | Archipelagates | 258224 | [258224-archipelagates.json](./258224-archipelagates.json) |
+| Archipelago | 303100 | [303100-archipelago.json](./303100-archipelago.json) |
 | Archipelago: Island Survival | 297787 | [297787-archipelago-island-survival.json](./297787-archipelago-island-survival.json) |
 | Archipelago: Navigable VR Comic | 29822 | [29822-archipelago-navigable-vr-comic.json](./29822-archipelago-navigable-vr-comic.json) |
 | Architect | 326623 | [326623-architect.json](./326623-architect.json) |
