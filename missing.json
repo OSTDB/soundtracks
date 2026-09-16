@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T11:19:07.637Z",
-  "total_missing": 77737,
+  "generated_at": "2026-09-16T11:21:37.332Z",
+  "total_missing": 77736,
   "games": [
     {
       "igdb_id": 306086,
@@ -5986,11 +5986,6 @@
       "igdb_id": 109720,
       "game_name": "Ah, Love!",
       "file": "missing/A/109720-ah-love.json"
-    },
-    {
-      "igdb_id": 251626,
-      "game_name": "Aha! Shashin de Machigai-sagashi",
-      "file": "missing/A/251626-aha-shashin-de-machigai-sagashi.json"
     },
     {
       "igdb_id": 110446,
