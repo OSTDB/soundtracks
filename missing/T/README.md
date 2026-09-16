@@ -3011,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Keyboard | 264029 | [264029-the-keyboard.json](./264029-the-keyboard.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
 | The King & I: Coming Out of Your Shell | 141824 | [141824-the-king-and-i-coming-out-of-your-shell.json](./141824-the-king-and-i-coming-out-of-your-shell.json) |
+| The King Cat Clicker | 312724 | [312724-the-king-cat-clicker.json](./312724-the-king-cat-clicker.json) |
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
 | The King is Watching: Crowns of History | 394315 | [394315-the-king-is-watching-crowns-of-history.json](./394315-the-king-is-watching-crowns-of-history.json) |
 | The King of Alzoria | 276724 | [276724-the-king-of-alzoria.json](./276724-the-king-of-alzoria.json) |
@@ -3057,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kore Gang: Outvasion From Inner Space | 21071 | [21071-the-kore-gang-outvasion-from-inner-space.json](./21071-the-kore-gang-outvasion-from-inner-space.json) |
 | The Krypton Factor | 12955 | [12955-the-krypton-factor.json](./12955-the-krypton-factor.json) |
 | The Kwanstone Project | 214751 | [214751-the-kwanstone-project.json](./214751-the-kwanstone-project.json) |
+| The Labyrinth | 312740 | [312740-the-labyrinth.json](./312740-the-labyrinth.json) |
 | The Labyrinth Adventure of Demons | 195255 | [195255-the-labyrinth-adventure-of-demons.json](./195255-the-labyrinth-adventure-of-demons.json) |
 | The Labyrinth of Grisaia | 11457 | [11457-the-labyrinth-of-grisaia.json](./11457-the-labyrinth-of-grisaia.json) |
 | The Lacerator | 240478 | [240478-the-lacerator.json](./240478-the-lacerator.json) |
@@ -3758,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Otter Ways | 288778 | [288778-the-otter-ways.json](./288778-the-otter-ways.json) |
 | The Otterman Empire | 126964 | [126964-the-otterman-empire.json](./126964-the-otterman-empire.json) |
 | The Ourboros King | 215374 | [215374-the-ourboros-king.json](./215374-the-ourboros-king.json) |
+| The Out Door | 312723 | [312723-the-out-door.json](./312723-the-out-door.json) |
 | The Outcast Lovers | 135899 | [135899-the-outcast-lovers.json](./135899-the-outcast-lovers.json) |
 | The Outer Darkness | 274200 | [274200-the-outer-darkness.json](./274200-the-outer-darkness.json) |
 | The Outer Rim: Survivor | 97344 | [97344-the-outer-rim-survivor.json](./97344-the-outer-rim-survivor.json) |
@@ -4019,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rolling Room | 309893 | [309893-the-rolling-room.json](./309893-the-rolling-room.json) |
 | The Rollingball's Melody | 34308 | [34308-the-rollingballs-melody.json](./34308-the-rollingballs-melody.json) |
 | The Roof | 23418 | [23418-the-roof.json](./23418-the-roof.json) |
+| The Rookery | 312744 | [312744-the-rookery.json](./312744-the-rookery.json) |
 | The Room | 11625 | [11625-the-room.json](./11625-the-room.json) |
 | The Room in a Glass Box | 339934 | [339934-the-room-in-a-glass-box.json](./339934-the-room-in-a-glass-box.json) |
 | The Room of Black & White | 34455 | [34455-the-room-of-black-and-white.json](./34455-the-room-of-black-and-white.json) |
@@ -6906,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touka Gettan: Koufuu no Ryouou Deluxe Pack | 287640 | [287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json](./287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json) |
 | Touken Ranbu: Online Pocket | 194031 | [194031-touken-ranbu-online-pocket.json](./194031-touken-ranbu-online-pocket.json) |
 | Toukiden: The Age of Demons | 8658 | [8658-toukiden-the-age-of-demons.json](./8658-toukiden-the-age-of-demons.json) |
+| Touko in Underland | 312764 | [312764-touko-in-underland.json](./312764-touko-in-underland.json) |
 | Toumayhem | 202857 | [202857-toumayhem.json](./202857-toumayhem.json) |
 | Tour De France | 95456 | [95456-tour-de-france.json](./95456-tour-de-france.json) |
 | Tour de France 2009 | 21247 | [21247-tour-de-france-2009.json](./21247-tour-de-france-2009.json) |
