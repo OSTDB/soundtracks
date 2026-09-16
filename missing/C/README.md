@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
 | Cat Tales: Premium Edition | 241396 | [241396-cat-tales-premium-edition.json](./241396-cat-tales-premium-edition.json) |
 | Cat Train | 177493 | [177493-cat-train.json](./177493-cat-train.json) |
+| Cat Tree | 326792 | [326792-cat-tree.json](./326792-cat-tree.json) |
 | Cat Tsunami | 388233 | [388233-cat-tsunami.json](./388233-cat-tsunami.json) |
 | Cat vs. Corgis | 54448 | [54448-cat-vs-corgis.json](./54448-cat-vs-corgis.json) |
 | Cat Walker Simulator | 176439 | [176439-cat-walker-simulator.json](./176439-cat-walker-simulator.json) |
@@ -3249,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Helheim | 217525 | [217525-conquerors-blade-helheim.json](./217525-conquerors-blade-helheim.json) |
 | Conquest | 86011 | [86011-conquest.json](./86011-conquest.json) |
 | Conquest of Chesterwoode | 73222 | [73222-conquest-of-chesterwoode.json](./73222-conquest-of-chesterwoode.json) |
+| Conquest of Elysium 2 | 326798 | [326798-conquest-of-elysium-2.json](./326798-conquest-of-elysium-2.json) |
 | Conquest of Elysium 4 | 24605 | [24605-conquest-of-elysium-4.json](./24605-conquest-of-elysium-4.json) |
 | Conquest of Japan | 73770 | [73770-conquest-of-japan.json](./73770-conquest-of-japan.json) |
 | Conquest of Kings | 295566 | [295566-conquest-of-kings.json](./295566-conquest-of-kings.json) |
@@ -3427,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coop Tank War | 111008 | [111008-coop-tank-war.json](./111008-coop-tank-war.json) |
 | Coopbots | 272862 | [272862-coopbots.json](./272862-coopbots.json) |
 | Cooperate with Yourself | 371338 | [371338-cooperate-with-yourself.json](./371338-cooperate-with-yourself.json) |
+| Cooporationation | 326823 | [326823-cooporationation.json](./326823-cooporationation.json) |
 | CoopRooms | 347156 | [347156-cooprooms.json](./347156-cooprooms.json) |
 | CoopValor 2056: Ukraine WW3 | 256292 | [256292-coopvalor-2056-ukraine-ww3.json](./256292-coopvalor-2056-ukraine-ww3.json) |
 | CoopValor WW2 Battle of the Bulge | 263522 | [263522-coopvalor-ww2-battle-of-the-bulge.json](./263522-coopvalor-ww2-battle-of-the-bulge.json) |
