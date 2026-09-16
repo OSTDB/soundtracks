@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
 | T.E.C. 3001 | 14646 | [14646-t-e-c-3001.json](./14646-t-e-c-3001.json) |
 | T.R.A.G.: Tactical Rescue Assault Group - Mission of Mercy | 76599 | [76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
+| T1wre3: Noname | 329161 | [329161-t1wre3-noname.json](./329161-t1wre3-noname.json) |
 | T2048 | 304335 | [304335-t2048.json](./304335-t2048.json) |
 | T3 - Take the Turn | 109728 | [109728-t3-take-the-turn.json](./109728-t3-take-the-turn.json) |
 | Ta ga Tame ni Oni wa Naku | 163357 | [163357-ta-ga-tame-ni-oni-wa-naku.json](./163357-ta-ga-tame-ni-oni-wa-naku.json) |
@@ -335,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
 | Tales of Graces F/ Tales of Symphonia Chronicles | 44617 | [44617-tales-of-graces-f-tales-of-symphonia-chronicles.json](./44617-tales-of-graces-f-tales-of-symphonia-chronicles.json) |
 | Tales of Guards Elves | 215701 | [215701-tales-of-guards-elves.json](./215701-tales-of-guards-elves.json) |
+| Tales of Hearts R: Infinite Evolve | 329142 | [329142-tales-of-hearts-r-infinite-evolve.json](./329142-tales-of-hearts-r-infinite-evolve.json) |
 | Tales of Hearts R: LaLaBitMarket Edition | 89866 | [89866-tales-of-hearts-r-lalabitmarket-edition.json](./89866-tales-of-hearts-r-lalabitmarket-edition.json) |
 | Tales of Hearts R: Link Edition | 89865 | [89865-tales-of-hearts-r-link-edition.json](./89865-tales-of-hearts-r-link-edition.json) |
 | Tales of Hearts: CG Movie Edition | 222922 | [222922-tales-of-hearts-cg-movie-edition.json](./222922-tales-of-hearts-cg-movie-edition.json) |
@@ -1708,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Rose | 124260 | [124260-the-black-rose.json](./124260-the-black-rose.json) |
 | The Black Signal | 351709 | [351709-the-black-signal.json](./351709-the-black-signal.json) |
 | The Black Tower | 58827 | [58827-the-black-tower.json](./58827-the-black-tower.json) |
+| The Black Vault | 329140 | [329140-the-black-vault.json](./329140-the-black-vault.json) |
 | The Black Watchmen | 27707 | [27707-the-black-watchmen.json](./27707-the-black-watchmen.json) |
 | The Black Watchmen: Alone in the Dark Web | 170484 | [170484-the-black-watchmen-alone-in-the-dark-web.json](./170484-the-black-watchmen-alone-in-the-dark-web.json) |
 | The Black Watchmen: Mother Russia | 170485 | [170485-the-black-watchmen-mother-russia.json](./170485-the-black-watchmen-mother-russia.json) |
@@ -3905,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revanchist | 338722 | [338722-the-revanchist.json](./338722-the-revanchist.json) |
 | The Revelation of Gensokyo | 157121 | [157121-the-revelation-of-gensokyo.json](./157121-the-revelation-of-gensokyo.json) |
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
+| The Reward of Cherishment and Eternity. | 329199 | [329199-the-reward-of-cherishment-and-eternity.json](./329199-the-reward-of-cherishment-and-eternity.json) |
 | The Rewinder: Root of Evil | 267364 | [267364-the-rewinder-root-of-evil.json](./267364-the-rewinder-root-of-evil.json) |
 | The Rhine Railway: Mannheim - Karlsruhe Collection | 53783 | [53783-the-rhine-railway-mannheim-karlsruhe-collection.json](./53783-the-rhine-railway-mannheim-karlsruhe-collection.json) |
 | The Rhymatory | 399736 | [399736-the-rhymatory.json](./399736-the-rhymatory.json) |
@@ -4218,6 +4222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slaughtering Grounds | 13374 | [13374-the-slaughtering-grounds.json](./13374-the-slaughtering-grounds.json) |
 | The Slaverian Trucker | 185636 | [185636-the-slaverian-trucker.json](./185636-the-slaverian-trucker.json) |
 | The Slopes | 28790 | [28790-the-slopes.json](./28790-the-slopes.json) |
+| The Slowpoke Shack | 329150 | [329150-the-slowpoke-shack.json](./329150-the-slowpoke-shack.json) |
 | The Slug | 51732 | [51732-the-slug.json](./51732-the-slug.json) |
 | The Small Christmas Game | 178580 | [178580-the-small-christmas-game.json](./178580-the-small-christmas-game.json) |
 | The Smash Cars Tournament | 195145 | [195145-the-smash-cars-tournament.json](./195145-the-smash-cars-tournament.json) |
@@ -4678,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Underdog | 373013 | [373013-the-underdog.json](./373013-the-underdog.json) |
 | The Undergrounders | 339847 | [339847-the-undergrounders.json](./339847-the-undergrounders.json) |
 | The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
+| The Unexpected (But Not Entirely Surprising) Demise of Jacques du Schnozzle | 329126 | [329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json](./329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Unfinished Swan | 8352 | [8352-the-unfinished-swan.json](./8352-the-unfinished-swan.json) |
 | The Unfound Soul | 231403 | [231403-the-unfound-soul.json](./231403-the-unfound-soul.json) |
@@ -5129,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thistledown: Marrowroot | 216502 | [216502-thistledown-marrowroot.json](./216502-thistledown-marrowroot.json) |
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
 | Thomas & Friends: Building the New Line | 23780 | [23780-thomas-and-friends-building-the-new-line.json](./23780-thomas-and-friends-building-the-new-line.json) |
+| Thomas & Friends: Go Go Thomas! | 329139 | [329139-thomas-and-friends-go-go-thomas.json](./329139-thomas-and-friends-go-go-thomas.json) |
 | Thomas & Friends: Let's Roll | 370116 | [370116-thomas-and-friends-lets-roll.json](./370116-thomas-and-friends-lets-roll.json) |
 | Thomas & Friends: Right on Time | 220126 | [220126-thomas-and-friends-right-on-time.json](./220126-thomas-and-friends-right-on-time.json) |
 | Thomas & Friends: Wonders of Sodor - Deluxe Edition | 394325 | [394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json](./394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json) |
@@ -5288,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thy Dungeonman 3 | 135847 | [135847-thy-dungeonman-3.json](./135847-thy-dungeonman-3.json) |
 | Thy Dungeonman II | 135846 | [135846-thy-dungeonman-ii.json](./135846-thy-dungeonman-ii.json) |
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
+| Thyranya | 329134 | [329134-thyranya.json](./329134-thyranya.json) |
 | Thysiastery | 334695 | [334695-thysiastery.json](./334695-thysiastery.json) |
 | Tialucy and the Underground Labyrinth | 82845 | [82845-tialucy-and-the-underground-labyrinth.json](./82845-tialucy-and-the-underground-labyrinth.json) |
 | Tiamat X | 35900 | [35900-tiamat-x.json](./35900-tiamat-x.json) |
@@ -6531,6 +6539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torchbear | 341898 | [341898-torchbear.json](./341898-torchbear.json) |
 | Torched | 370799 | [370799-torched.json](./370799-torched.json) |
 | Torches of Fate | 133458 | [133458-torches-of-fate.json](./133458-torches-of-fate.json) |
+| Torchless | 329112 | [329112-torchless.json](./329112-torchless.json) |
 | Torchlight: Infinite | 174897 | [174897-torchlight-infinite.json](./174897-torchlight-infinite.json) |
 | Torchure | 180183 | [180183-torchure.json](./180183-torchure.json) |
 | Torchure | 352262 | [352262-torchure.json](./352262-torchure.json) |
