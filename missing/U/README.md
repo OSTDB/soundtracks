@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Udos sagner: Sveakampen | 64389 | [64389-udos-sagner-sveakampen.json](./64389-udos-sagner-sveakampen.json) |
 | UEDI: Shadow of the Citadel | 129801 | [129801-uedi-shadow-of-the-citadel.json](./129801-uedi-shadow-of-the-citadel.json) |
 | Ueki no Housoku: Jingi Sakuretsu! Nouryokusha Battle | 188652 | [188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json](./188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json) |
+| Ueqouow | 288332 | [288332-ueqouow.json](./288332-ueqouow.json) |
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
 | UFHO2 | 35793 | [35793-ufho2.json](./35793-ufho2.json) |
 | Ufight | 269859 | [269859-ufight.json](./269859-ufight.json) |
