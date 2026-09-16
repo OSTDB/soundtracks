@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
 | Night Ranger | 388213 | [388213-night-ranger.json](./388213-night-ranger.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
+| Night Run | 295905 | [295905-night-run.json](./295905-night-run.json) |
 | Night School | 406088 | [406088-night-school.json](./406088-night-school.json) |
 | Night Seeker | 378911 | [378911-night-seeker.json](./378911-night-seeker.json) |
 | Night Shift: 1999 | 366829 | [366829-night-shift-1999.json](./366829-night-shift-1999.json) |
@@ -1736,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nordicandia | 144947 | [144947-nordicandia.json](./144947-nordicandia.json) |
 | Nordlicht | 119776 | [119776-nordlicht.json](./119776-nordlicht.json) |
 | Nords: Heroes of the North | 23655 | [23655-nords-heroes-of-the-north.json](./23655-nords-heroes-of-the-north.json) |
+| Nori Danshi!! | 295929 | [295929-nori-danshi.json](./295929-nori-danshi.json) |
 | Normal Diner | 177495 | [177495-normal-diner.json](./177495-normal-diner.json) |
 | Normal Fastfood Fantasy | 98480 | [98480-normal-fastfood-fantasy.json](./98480-normal-fastfood-fantasy.json) |
 | Normal Golf Game | 355571 | [355571-normal-golf-game.json](./355571-normal-golf-game.json) |
