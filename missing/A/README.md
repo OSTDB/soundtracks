@@ -609,7 +609,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agony VR | 197402 | [197402-agony-vr.json](./197402-agony-vr.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
-| Agri-Tycoon | 217031 | [217031-agri-tycoon.json](./217031-agri-tycoon.json) |
 | Agricultural Simulator 2011 | 9537 | [9537-agricultural-simulator-2011.json](./9537-agricultural-simulator-2011.json) |
 | Agricultural Simulator 2012 | 52573 | [52573-agricultural-simulator-2012.json](./52573-agricultural-simulator-2012.json) |
 | Agricultural Simulator 2013 | 50492 | [50492-agricultural-simulator-2013.json](./50492-agricultural-simulator-2013.json) |
