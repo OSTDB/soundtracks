@@ -604,7 +604,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aglet: The Sneaker Game | 205586 | [205586-aglet-the-sneaker-game.json](./205586-aglet-the-sneaker-game.json) |
 | Agnostiko | 224212 | [224212-agnostiko.json](./224212-agnostiko.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
-| Agony of a Dying MMO | 136415 | [136415-agony-of-a-dying-mmo.json](./136415-agony-of-a-dying-mmo.json) |
 | Agony Online | 191799 | [191799-agony-online.json](./191799-agony-online.json) |
 | Agony VR | 197402 | [197402-agony-vr.json](./197402-agony-vr.json) |
 | Agony: Lords of Hell | 211421 | [211421-agony-lords-of-hell.json](./211421-agony-lords-of-hell.json) |
