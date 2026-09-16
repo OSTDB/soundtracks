@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratcore | 412270 | [412270-ratcore.json](./412270-ratcore.json) |
 | Rated Sudoku | 278397 | [278397-rated-sudoku.json](./278397-rated-sudoku.json) |
 | Rations, Please! | 176970 | [176970-rations-please.json](./176970-rations-please.json) |
+| Ratman! | 321612 | [321612-ratman.json](./321612-ratman.json) |
 | Ratocalypse | 381137 | [381137-ratocalypse.json](./381137-ratocalypse.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
 | Rats Invasion | 96673 | [96673-rats-invasion.json](./96673-rats-invasion.json) |
@@ -932,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Entity | 181917 | [181917-red-entity.json](./181917-red-entity.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
+| Red Flood | 321567 | [321567-red-flood.json](./321567-red-flood.json) |
 | Red Flu | 81217 | [81217-red-flu.json](./81217-red-flu.json) |
 | Red Fox and the Four Seasons | 148529 | [148529-red-fox-and-the-four-seasons.json](./148529-red-fox-and-the-four-seasons.json) |
 | Red Fox and the Four Seasons: Design My Forest 2 | 215895 | [215895-red-fox-and-the-four-seasons-design-my-forest-2.json](./215895-red-fox-and-the-four-seasons-design-my-forest-2.json) |
