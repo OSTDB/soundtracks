@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Zone | 203555 | [203555-dead-zone.json](./203555-dead-zone.json) |
 | Dead Zone Defense | 304897 | [304897-dead-zone-defense.json](./304897-dead-zone-defense.json) |
 | Dead Zone: Rebirth of Survivors | 270103 | [270103-dead-zone-rebirth-of-survivors.json](./270103-dead-zone-rebirth-of-survivors.json) |
+| Dead, Too Dead | 326286 | [326286-dead-too-dead.json](./326286-dead-too-dead.json) |
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
 | Deadball Specialist | 58191 | [58191-deadball-specialist.json](./58191-deadball-specialist.json) |
 | DeadballCrusader | 290951 | [290951-deadballcrusader.json](./290951-deadballcrusader.json) |
@@ -2621,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
 | Do or Die: Frontal Warfare | 329166 | [329166-do-or-die-frontal-warfare.json](./329166-do-or-die-frontal-warfare.json) |
 | Do or Die: Hunt to Survive | 235975 | [235975-do-or-die-hunt-to-survive.json](./235975-do-or-die-hunt-to-survive.json) |
+| Do the Cat | 326267 | [326267-do-the-cat.json](./326267-do-the-cat.json) |
 | Do You Even Brick?! | 401548 | [401548-do-you-even-brick.json](./401548-do-you-even-brick.json) |
 | Do you know de way | 89966 | [89966-do-you-know-de-way.json](./89966-do-you-know-de-way.json) |
 | Do You Remember? | 303484 | [303484-do-you-remember.json](./303484-do-you-remember.json) |
