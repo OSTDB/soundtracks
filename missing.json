@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T07:19:01.146Z",
-  "total_missing": 77018,
+  "generated_at": "2026-09-16T07:21:44.490Z",
+  "total_missing": 77017,
   "games": [
     {
       "igdb_id": 306086,
@@ -5856,11 +5856,6 @@
       "igdb_id": 205586,
       "game_name": "Aglet: The Sneaker Game",
       "file": "missing/A/205586-aglet-the-sneaker-game.json"
-    },
-    {
-      "igdb_id": 97302,
-      "game_name": "Agma.io",
-      "file": "missing/A/97302-agma-io.json"
     },
     {
       "igdb_id": 224212,
