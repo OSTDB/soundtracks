@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.I.C.A | 115013 | [115013-r-i-c-a.json](./115013-r-i-c-a.json) |
 | R.I.P. | 381005 | [381005-r-i-p.json](./381005-r-i-p.json) |
 | R.I.P. | 77984 | [77984-r-i-p.json](./77984-r-i-p.json) |
+| R.I.P. Curl | 291613 | [291613-r-i-p-curl.json](./291613-r-i-p-curl.json) |
 | R.I.S.K. | 55184 | [55184-r-i-s-k.json](./55184-r-i-s-k.json) |
 | R.O.V.E.R. | 401624 | [401624-r-o-v-e-r.json](./401624-r-o-v-e-r.json) |
 | R.P.G | 234326 | [234326-r-p-g.json](./234326-r-p-g.json) |
@@ -887,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recoil Gunner | 208019 | [208019-recoil-gunner.json](./208019-recoil-gunner.json) |
 | Recoil vs. The World | 226975 | [226975-recoil-vs-the-world.json](./226975-recoil-vs-the-world.json) |
 | Recollection | 343806 | [343806-recollection.json](./343806-recollection.json) |
+| Recon Quest | 291578 | [291578-recon-quest.json](./291578-recon-quest.json) |
 | Reconciliation | 309536 | [309536-reconciliation.json](./309536-reconciliation.json) |
 | Recondo | 215888 | [215888-recondo.json](./215888-recondo.json) |
 | Reconnect | 161395 | [161395-reconnect.json](./161395-reconnect.json) |
@@ -2145,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
 | Riven: The Sequel to Myst | 339943 | [339943-riven-the-sequel-to-myst.json](./339943-riven-the-sequel-to-myst.json) |
 | Riven: The Sequel to Myst | 347131 | [347131-riven-the-sequel-to-myst.json](./347131-riven-the-sequel-to-myst.json) |
+| River Attack | 291574 | [291574-river-attack.json](./291574-river-attack.json) |
 | River City Girls 2 | 152321 | [152321-river-city-girls-2.json](./152321-river-city-girls-2.json) |
 | River City Girls Zero | 137195 | [137195-river-city-girls-zero.json](./137195-river-city-girls-zero.json) |
 | River City Melee: Battle Royal Special | 63712 | [63712-river-city-melee-battle-royal-special.json](./63712-river-city-melee-battle-royal-special.json) |
