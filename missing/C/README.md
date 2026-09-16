@@ -4436,11 +4436,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossout: Biter Starter Pack | 243105 | [243105-crossout-biter-starter-pack.json](./243105-crossout-biter-starter-pack.json) |
 | Crossout: Bone Hunter | 331995 | [331995-crossout-bone-hunter.json](./331995-crossout-bone-hunter.json) |
 | Crossout: Cleaner Starter Pack | 243104 | [243104-crossout-cleaner-starter-pack.json](./243104-crossout-cleaner-starter-pack.json) |
+| Crossout: Electric beetle | 293760 | [293760-crossout-electric-beetle.json](./293760-crossout-electric-beetle.json) |
 | Crossout: Horsemen of Apocalypse - Famine | 331996 | [331996-crossout-horsemen-of-apocalypse-famine.json](./331996-crossout-horsemen-of-apocalypse-famine.json) |
 | Crossout: Ronin | 298171 | [298171-crossout-ronin.json](./298171-crossout-ronin.json) |
 | Crossout: Ronin - Deluxe Edition | 298172 | [298172-crossout-ronin-deluxe-edition.json](./298172-crossout-ronin-deluxe-edition.json) |
 | Crossout: Ronin - Lite Edition | 298173 | [298173-crossout-ronin-lite-edition.json](./298173-crossout-ronin-lite-edition.json) |
 | Crossout: Savior | 235767 | [235767-crossout-savior.json](./235767-crossout-savior.json) |
+| Crossout: Steel shield | 293766 | [293766-crossout-steel-shield.json](./293766-crossout-steel-shield.json) |
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
 | CrossOver: Roll For Initiative | 202861 | [202861-crossover-roll-for-initiative.json](./202861-crossover-roll-for-initiative.json) |
 | Crossroad of Worlds: Magic Stars - Collector's Edition | 255708 | [255708-crossroad-of-worlds-magic-stars-collectors-edition.json](./255708-crossroad-of-worlds-magic-stars-collectors-edition.json) |
