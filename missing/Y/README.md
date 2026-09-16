@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuukyuu no Tierblade: Lost Chronicle | 136438 | [136438-yuukyuu-no-tierblade-lost-chronicle.json](./136438-yuukyuu-no-tierblade-lost-chronicle.json) |
 | Yuurei Station | 179669 | [179669-yuurei-station.json](./179669-yuurei-station.json) |
 | Yuurei-kun | 141848 | [141848-yuurei-kun.json](./141848-yuurei-kun.json) |
+| Yuurou: Transient Sands | 327422 | [327422-yuurou-transient-sands.json](./327422-yuurou-transient-sands.json) |
 | Yuusha | 22480 | [22480-yuusha.json](./22480-yuusha.json) |
 | Yuusha to Maou to, Majo no Cafe | 97377 | [97377-yuusha-to-maou-to-majo-no-cafe.json](./97377-yuusha-to-maou-to-majo-no-cafe.json) |
 | Yuushi no Monshou: Deep Dungeon | 41326 | [41326-yuushi-no-monshou-deep-dungeon.json](./41326-yuushi-no-monshou-deep-dungeon.json) |
