@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Survivors | 231947 | [231947-ghost-survivors.json](./231947-ghost-survivors.json) |
 | Ghost Talker | 295768 | [295768-ghost-talker.json](./295768-ghost-talker.json) |
 | Ghost Teen Escape from Limbo | 300996 | [300996-ghost-teen-escape-from-limbo.json](./300996-ghost-teen-escape-from-limbo.json) |
+| Ghost Terminal | 307734 | [307734-ghost-terminal.json](./307734-ghost-terminal.json) |
 | Ghost Terminator | 173286 | [173286-ghost-terminator.json](./173286-ghost-terminator.json) |
 | Ghost Town Mine Ride & Shootin' Gallery | 33079 | [33079-ghost-town-mine-ride-and-shootin-gallery.json](./33079-ghost-town-mine-ride-and-shootin-gallery.json) |
 | Ghost Town: Dawn of War | 152317 | [152317-ghost-town-dawn-of-war.json](./152317-ghost-town-dawn-of-war.json) |
@@ -1178,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Soccer Manager 2015 | 98428 | [98428-global-soccer-manager-2015.json](./98428-global-soccer-manager-2015.json) |
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
+| Globe Drone | 307733 | [307733-globe-drone.json](./307733-globe-drone.json) |
 | Globeba | 300395 | [300395-globeba.json](./300395-globeba.json) |
 | Globesweeper | 109203 | [109203-globesweeper.json](./109203-globesweeper.json) |
 | Globetrotter | 137033 | [137033-globetrotter.json](./137033-globetrotter.json) |
@@ -1448,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla | 7744 | [7744-godzilla.json](./7744-godzilla.json) |
 | Godzilla Defense Force | 119058 | [119058-godzilla-defense-force.json](./119058-godzilla-defense-force.json) |
 | Godzilla Kaiju Wars Deluxe | 386235 | [386235-godzilla-kaiju-wars-deluxe.json](./386235-godzilla-kaiju-wars-deluxe.json) |
+| Godzilla Kaiju Wars VR | 307771 | [307771-godzilla-kaiju-wars-vr.json](./307771-godzilla-kaiju-wars-vr.json) |
 | Godzilla Online | 72723 | [72723-godzilla-online.json](./72723-godzilla-online.json) |
 | Godzilla Voxel Wars | 264341 | [264341-godzilla-voxel-wars.json](./264341-godzilla-voxel-wars.json) |
 | Godzilla: Archipelago Shock | 75891 | [75891-godzilla-archipelago-shock.json](./75891-godzilla-archipelago-shock.json) |
@@ -2770,3 +2773,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyruss | 343878 | [343878-gyruss.json](./343878-gyruss.json) |
 | Gyruss | 343879 | [343879-gyruss.json](./343879-gyruss.json) |
 | Gythol Granditti: The Crypt of Darkness | 120411 | [120411-gythol-granditti-the-crypt-of-darkness.json](./120411-gythol-granditti-the-crypt-of-darkness.json) |
+| GZDoom SM64 | 307741 | [307741-gzdoom-sm64.json](./307741-gzdoom-sm64.json) |
