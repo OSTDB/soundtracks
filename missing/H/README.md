@@ -1972,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himmapan Marshmello Saga | 367516 | [367516-himmapan-marshmello-saga.json](./367516-himmapan-marshmello-saga.json) |
 | Hina-chan Breaker: 2nd Break | 212293 | [212293-hina-chan-breaker-2nd-break.json](./212293-hina-chan-breaker-2nd-break.json) |
 | Hina-chan no Yakiniku Party | 208404 | [208404-hina-chan-no-yakiniku-party.json](./208404-hina-chan-no-yakiniku-party.json) |
+| Hina-chan's Sticker Survival | 315088 | [315088-hina-chans-sticker-survival.json](./315088-hina-chans-sticker-survival.json) |
 | Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible | 194557 | [194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json](./194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json) |
 | Hinge VR | 141170 | [141170-hinge-vr.json](./141170-hinge-vr.json) |
 | Hinomaruko | 122404 | [122404-hinomaruko.json](./122404-hinomaruko.json) |
