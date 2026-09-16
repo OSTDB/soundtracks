@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Base Excavation Incident | 271746 | [271746-mars-base-excavation-incident.json](./271746-mars-base-excavation-incident.json) |
 | Mars Colony Builder | 151145 | [151145-mars-colony-builder.json](./151145-mars-colony-builder.json) |
 | Mars Dash | 224013 | [224013-mars-dash.json](./224013-mars-dash.json) |
+| Mars Farming 2034 | 300845 | [300845-mars-farming-2034.json](./300845-mars-farming-2034.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
 | Mars Horizon | 101183 | [101183-mars-horizon.json](./101183-mars-horizon.json) |
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
@@ -2314,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Town! | 87347 | [87347-merge-town.json](./87347-merge-town.json) |
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
+| MergeZ | 300849 | [300849-mergez.json](./300849-mergez.json) |
 | Merica Tale | 367500 | [367500-merica-tale.json](./367500-merica-tale.json) |
 | Meridian | 312177 | [312177-meridian.json](./312177-meridian.json) |
 | Meridian: Age of Invention | 34578 | [34578-meridian-age-of-invention.json](./34578-meridian-age-of-invention.json) |
@@ -3019,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Sweeper | 252359 | [252359-mine-sweeper.json](./252359-mine-sweeper.json) |
 | Mine Sweeper | 40760 | [40760-mine-sweeper.json](./40760-mine-sweeper.json) |
 | Mine Sweeper Million | 298586 | [298586-mine-sweeper-million.json](./298586-mine-sweeper-million.json) |
+| Mine Sweeper Million | 300848 | [300848-mine-sweeper-million.json](./300848-mine-sweeper-million.json) |
 | Mine The Diamond | 245005 | [245005-mine-the-diamond.json](./245005-mine-the-diamond.json) |
 | Mine Upgrade | 369585 | [369585-mine-upgrade.json](./369585-mine-upgrade.json) |
 | Minebuilder | 86893 | [86893-minebuilder.json](./86893-minebuilder.json) |
@@ -5135,6 +5138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Home Town | 166144 | [166144-my-home-town.json](./166144-my-home-town.json) |
 | My Home VR | 127206 | [127206-my-home-vr.json](./127206-my-home-vr.json) |
 | My Hooptie | 369656 | [369656-my-hooptie.json](./369656-my-hooptie.json) |
+| My Horse Stories | 300847 | [300847-my-horse-stories.json](./300847-my-horse-stories.json) |
 | My Horse Stories: Gold Edition | 385205 | [385205-my-horse-stories-gold-edition.json](./385205-my-horse-stories-gold-edition.json) |
 | My Horse Stories: Sunny Edition | 308807 | [308807-my-horse-stories-sunny-edition.json](./308807-my-horse-stories-sunny-edition.json) |
 | My Hotel | 199122 | [199122-my-hotel.json](./199122-my-hotel.json) |
