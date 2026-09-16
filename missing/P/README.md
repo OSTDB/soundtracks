@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunger Boyz | 190148 | [190148-plunger-boyz.json](./190148-plunger-boyz.json) |
 | Plunger Simulator | 165653 | [165653-plunger-simulator.json](./165653-plunger-simulator.json) |
 | Plus City | 281416 | [281416-plus-city.json](./281416-plus-city.json) |
+| Plus One | 313894 | [313894-plus-one.json](./313894-plus-one.json) |
 | Plus Plum 2 | 62227 | [62227-plus-plum-2.json](./62227-plus-plum-2.json) |
 | Plush | 24629 | [24629-plush.json](./24629-plush.json) |
 | Plush Shop Simulator | 349852 | [349852-plush-shop-simulator.json](./349852-plush-shop-simulator.json) |
