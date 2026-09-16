@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
+| A Little Piece of Healing | 308423 | [308423-a-little-piece-of-healing.json](./308423-a-little-piece-of-healing.json) |
 | A Little Rabbit Story | 83521 | [83521-a-little-rabbit-story.json](./83521-a-little-rabbit-story.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
 | A Little to the Left: Seeing Stars | 305034 | [305034-a-little-to-the-left-seeing-stars.json](./305034-a-little-to-the-left-seeing-stars.json) |
@@ -467,6 +468,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Dungeons & Dragons: DragonStrike | 48113 | [48113-advanced-dungeons-and-dragons-dragonstrike.json](./48113-advanced-dungeons-and-dragons-dragonstrike.json) |
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Kick Challenge | 379477 | [379477-advanced-kick-challenge.json](./379477-advanced-kick-challenge.json) |
+| Advanced Shells | 308381 | [308381-advanced-shells.json](./308381-advanced-shells.json) |
+| Advanced Shells II | 308380 | [308380-advanced-shells-ii.json](./308380-advanced-shells-ii.json) |
+| Advanced Shells III | 308382 | [308382-advanced-shells-iii.json](./308382-advanced-shells-iii.json) |
 | Advenger of Stuart | 236271 | [236271-advenger-of-stuart.json](./236271-advenger-of-stuart.json) |
 | Advent Calendar | 379475 | [379475-advent-calendar.json](./379475-advent-calendar.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
@@ -605,7 +609,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age Of Heroes: Army Of Darkness | 320970 | [320970-age-of-heroes-army-of-darkness.json](./320970-age-of-heroes-army-of-darkness.json) |
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
-| Agent Hugo | 95462 | [95462-agent-hugo.json](./95462-agent-hugo.json) |
 | Agent Intercept | 122635 | [122635-agent-intercept.json](./122635-agent-intercept.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
 | Agent of Strange | 355023 | [355023-agent-of-strange.json](./355023-agent-of-strange.json) |
@@ -720,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Raiders | 11114 | [11114-air-raiders.json](./11114-air-raiders.json) |
 | Air Rescue | 45671 | [45671-air-rescue.json](./45671-air-rescue.json) |
 | Air Soccer Impossible | 234072 | [234072-air-soccer-impossible.json](./234072-air-soccer-impossible.json) |
+| AIR Summer Solstice | 308416 | [308416-air-summer-solstice.json](./308416-air-summer-solstice.json) |
 | Air Threat | 97276 | [97276-air-threat.json](./97276-air-threat.json) |
 | Air Traffic Control | 15590 | [15590-air-traffic-control.json](./15590-air-traffic-control.json) |
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
@@ -1339,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alteil: Horizons | 27736 | [27736-alteil-horizons.json](./27736-alteil-horizons.json) |
 | Alter | 264033 | [264033-alter.json](./264033-alter.json) |
 | Alter | 293935 | [293935-alter.json](./293935-alter.json) |
+| Alter A.I.L.A. Genesis | 308425 | [308425-alter-a-i-l-a-genesis.json](./308425-alter-a-i-l-a-genesis.json) |
 | Alter Cosmos | 103539 | [103539-alter-cosmos.json](./103539-alter-cosmos.json) |
 | Alter Ego | 270396 | [270396-alter-ego.json](./270396-alter-ego.json) |
 | Alter Ego Complex | 174307 | [174307-alter-ego-complex.json](./174307-alter-ego-complex.json) |
@@ -2348,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Sauce Hinamatsuri | 239073 | [239073-apple-sauce-hinamatsuri.json](./239073-apple-sauce-hinamatsuri.json) |
 | Apple Sauce Western | 239067 | [239067-apple-sauce-western.json](./239067-apple-sauce-western.json) |
 | Apple Sauce X mas | 239070 | [239070-apple-sauce-x-mas.json](./239070-apple-sauce-x-mas.json) |
+| Apples and Oranges | 308424 | [308424-apples-and-oranges.json](./308424-apples-and-oranges.json) |
 | Appleseed: Prometheus no Shintaku | 38370 | [38370-appleseed-prometheus-no-shintaku.json](./38370-appleseed-prometheus-no-shintaku.json) |
 | AppleSnake | 51989 | [51989-applesnake.json](./51989-applesnake.json) |
 | AppleSnake: Christmas story | 88181 | [88181-applesnake-christmas-story.json](./88181-applesnake-christmas-story.json) |
@@ -3554,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: Fantasy Academy Costume Set | 356743 | [356743-atelier-yumia-fantasy-academy-costume-set.json](./356743-atelier-yumia-fantasy-academy-costume-set.json) |
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
+| Athena Cykes: Ace Attorney - Dark Ace Saga | 308427 | [308427-athena-cykes-ace-attorney-dark-ace-saga.json](./308427-athena-cykes-ace-attorney-dark-ace-saga.json) |
 | Athena Cykes: Ace Attorney - Trials of time. | 305191 | [305191-athena-cykes-ace-attorney-trials-of-time.json](./305191-athena-cykes-ace-attorney-trials-of-time.json) |
 | Athena no Kateiban: Family Games | 285988 | [285988-athena-no-kateiban-family-games.json](./285988-athena-no-kateiban-family-games.json) |
 | Athena: Full Throttle | 55894 | [55894-athena-full-throttle.json](./55894-athena-full-throttle.json) |
