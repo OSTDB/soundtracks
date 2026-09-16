@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factotum 90 | 21317 | [21317-factotum-90.json](./21317-factotum-90.json) |
 | Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
 | Fade: A Ghost Story | 307742 | [307742-fade-a-ghost-story.json](./307742-fade-a-ghost-story.json) |
+| Faded | 290525 | [290525-faded.json](./290525-faded.json) |
 | Faded Grey | 166729 | [166729-faded-grey.json](./166729-faded-grey.json) |
 | Faded Melodies | 298897 | [298897-faded-melodies.json](./298897-faded-melodies.json) |
 | Faded Memories | 130321 | [130321-faded-memories.json](./130321-faded-memories.json) |
@@ -156,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fail to Win: Chapter 1 | 114988 | [114988-fail-to-win-chapter-1.json](./114988-fail-to-win-chapter-1.json) |
 | Fail World | 356064 | [356064-fail-world.json](./356064-fail-world.json) |
 | Failed State | 98375 | [98375-failed-state.json](./98375-failed-state.json) |
+| Failed Trust | 290558 | [290558-failed-trust.json](./290558-failed-trust.json) |
 | Faily Brakes Classic | 174310 | [174310-faily-brakes-classic.json](./174310-faily-brakes-classic.json) |
 | Faily Rider | 101534 | [101534-faily-rider.json](./101534-faily-rider.json) |
 | Fair And Balanced | 411716 | [411716-fair-and-balanced.json](./411716-fair-and-balanced.json) |
@@ -1002,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FF: U on PC - Final Fantasy: Unlimited - Labyrinth: Kuroki Dream Memory | 336020 | [336020-ff-u-on-pc-final-fantasy-unlimited-labyrinth-kuroki-dream-memory.json](./336020-ff-u-on-pc-final-fantasy-unlimited-labyrinth-kuroki-dream-memory.json) |
 | FF2us Impossible | 360107 | [360107-ff2us-impossible.json](./360107-ff2us-impossible.json) |
 | FF56! | 93054 | [93054-ff56.json](./93054-ff56.json) |
+| FFA Cards | 290514 | [290514-ffa-cards.json](./290514-ffa-cards.json) |
 | FFF | 219303 | [219303-fff.json](./219303-fff.json) |
 | FFS, Another Northern Duke?! | 309876 | [309876-ffs-another-northern-duke.json](./309876-ffs-another-northern-duke.json) |
 | FhaMazein | 109723 | [109723-fhamazein.json](./109723-fhamazein.json) |
@@ -2745,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foturians: Myth and Reality | 399697 | [399697-foturians-myth-and-reality.json](./399697-foturians-myth-and-reality.json) |
 | Foul Play | 5895 | [5895-foul-play.json](./5895-foul-play.json) |
 | Foul Repercussion | 337178 | [337178-foul-repercussion.json](./337178-foul-repercussion.json) |
+| Foulbreaker | 290542 | [290542-foulbreaker.json](./290542-foulbreaker.json) |
 | Foundation Gold | 69802 | [69802-foundation-gold.json](./69802-foundation-gold.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
 | Founding Paws: How America Began | 409525 | [409525-founding-paws-how-america-began.json](./409525-founding-paws-how-america-began.json) |
