@@ -2423,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fabulous Screech | 60521 | [60521-the-fabulous-screech.json](./60521-the-fabulous-screech.json) |
 | The Faceless | 237361 | [237361-the-faceless.json](./237361-the-faceless.json) |
 | The Faceless City | 183590 | [183590-the-faceless-city.json](./183590-the-faceless-city.json) |
+| The Faceless Killer | 312182 | [312182-the-faceless-killer.json](./312182-the-faceless-killer.json) |
 | The Faces of Evil Remastered | 206133 | [206133-the-faces-of-evil-remastered.json](./206133-the-faces-of-evil-remastered.json) |
 | The Fae King Is My Roommate | 342076 | [342076-the-fae-king-is-my-roommate.json](./342076-the-fae-king-is-my-roommate.json) |
 | The Faery Tale Adventure | 12087 | [12087-the-faery-tale-adventure.json](./12087-the-faery-tale-adventure.json) |
@@ -2667,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Good Chicken | 220673 | [220673-the-good-chicken.json](./220673-the-good-chicken.json) |
 | The Good Ghouls | 224590 | [224590-the-good-ghouls.json](./224590-the-good-ghouls.json) |
 | The Good Life | 9396 | [9396-the-good-life.json](./9396-the-good-life.json) |
+| The Good Old Days | 312186 | [312186-the-good-old-days.json](./312186-the-good-old-days.json) |
 | The Good Overlord | 272582 | [272582-the-good-overlord.json](./272582-the-good-overlord.json) |
 | The Good Time Garden | 127409 | [127409-the-good-time-garden.json](./127409-the-good-time-garden.json) |
 | The Good, the Bad, and the Horsey | 264049 | [264049-the-good-the-bad-and-the-horsey.json](./264049-the-good-the-bad-and-the-horsey.json) |
@@ -2955,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journal of Ambrose Brant | 401025 | [401025-the-journal-of-ambrose-brant.json](./401025-the-journal-of-ambrose-brant.json) |
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
+| The Journey into the Virtual Void | 312167 | [312167-the-journey-into-the-virtual-void.json](./312167-the-journey-into-the-virtual-void.json) |
 | The Journey of AutUmn | 164996 | [164996-the-journey-of-autumn.json](./164996-the-journey-of-autumn.json) |
 | The Journey of Piggy | 287092 | [287092-the-journey-of-piggy.json](./287092-the-journey-of-piggy.json) |
 | The Journey to Life | 325067 | [325067-the-journey-to-life.json](./325067-the-journey-to-life.json) |
@@ -4799,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unseen Fears: Outlive - Collector's Edition | 360664 | [360664-the-unseen-fears-outlive-collectors-edition.json](./360664-the-unseen-fears-outlive-collectors-edition.json) |
 | The Unsettled | 199665 | [199665-the-unsettled.json](./199665-the-unsettled.json) |
 | The Unspoken | 25908 | [25908-the-unspoken.json](./25908-the-unspoken.json) |
+| The Untethered Void | 312176 | [312176-the-untethered-void.json](./312176-the-untethered-void.json) |
 | The Untitled Tower | 334500 | [334500-the-untitled-tower.json](./334500-the-untitled-tower.json) |
 | The Untouchable Man | 302391 | [302391-the-untouchable-man.json](./302391-the-untouchable-man.json) |
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
@@ -5054,6 +5058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatrhythm: Final Bar Line - The World Ends with You Pack | 354521 | [354521-theatrhythm-final-bar-line-the-world-ends-with-you-pack.json](./354521-theatrhythm-final-bar-line-the-world-ends-with-you-pack.json) |
 | Theatrhythm: Final Bar Line - Xenogears Pack | 354511 | [354511-theatrhythm-final-bar-line-xenogears-pack.json](./354511-theatrhythm-final-bar-line-xenogears-pack.json) |
 | Theatrics | 260678 | [260678-theatrics.json](./260678-theatrics.json) |
+| Thebes | 312201 | [312201-thebes.json](./312201-thebes.json) |
 | TheBestiary | 196894 | [196894-thebestiary.json](./196894-thebestiary.json) |
 | TheBoll | 345033 | [345033-theboll.json](./345033-theboll.json) |
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
@@ -6180,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNT! | 118978 | [118978-tnt.json](./118978-tnt.json) |
 | TNTPhobia | 311461 | [311461-tntphobia.json](./311461-tntphobia.json) |
 | To Altare | 281418 | [281418-to-altare.json](./281418-to-altare.json) |
+| To and Fro | 312163 | [312163-to-and-fro.json](./312163-to-and-fro.json) |
 | To Arms!! | 207826 | [207826-to-arms.json](./207826-to-arms.json) |
 | To Aru Majutsu No Index | 44526 | [44526-to-aru-majutsu-no-index.json](./44526-to-aru-majutsu-no-index.json) |
 | To Ash | 33226 | [33226-to-ash.json](./33226-to-ash.json) |
