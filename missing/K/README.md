@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur: Legion IX | 285440 | [285440-king-arthur-legion-ix.json](./285440-king-arthur-legion-ix.json) |
 | King Arthur's K.O.R.T. | 69839 | [69839-king-arthurs-k-o-r-t.json](./69839-king-arthurs-k-o-r-t.json) |
 | King Boo's Revenge PC | 378293 | [378293-king-boos-revenge-pc.json](./378293-king-boos-revenge-pc.json) |
+| King Boo's Seven Towers | 313302 | [313302-king-boos-seven-towers.json](./313302-king-boos-seven-towers.json) |
 | King Cribbage | 73223 | [73223-king-cribbage.json](./73223-king-cribbage.json) |
 | King in the Mountain | 408930 | [408930-king-in-the-mountain.json](./408930-king-in-the-mountain.json) |
 | King Island 2 | 292534 | [292534-king-island-2.json](./292534-king-island-2.json) |
