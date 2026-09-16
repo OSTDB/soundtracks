@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireside Feelings | 345597 | [345597-fireside-feelings.json](./345597-fireside-feelings.json) |
 | Fireside Hero | 191854 | [191854-fireside-hero.json](./191854-fireside-hero.json) |
 | Firestarter | 78049 | [78049-firestarter.json](./78049-firestarter.json) |
+| FireStarter 2 | 312720 | [312720-firestarter-2.json](./312720-firestarter-2.json) |
 | Firestorm | 239088 | [239088-firestorm.json](./239088-firestorm.json) |
 | Firestorm Deadland | 253365 | [253365-firestorm-deadland.json](./253365-firestorm-deadland.json) |
 | Firestriker | 42553 | [42553-firestriker.json](./42553-firestriker.json) |
@@ -2477,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Dreams | 340233 | [340233-forgotten-dreams.json](./340233-forgotten-dreams.json) |
 | Forgotten Eras | 368499 | [368499-forgotten-eras.json](./368499-forgotten-eras.json) |
 | Forgotten Faces | 47998 | [47998-forgotten-faces.json](./47998-forgotten-faces.json) |
+| Forgotten Fears | 312734 | [312734-forgotten-fears.json](./312734-forgotten-fears.json) |
 | Forgotten Gifts | 114349 | [114349-forgotten-gifts.json](./114349-forgotten-gifts.json) |
 | Forgotten Heroes | 31858 | [31858-forgotten-heroes.json](./31858-forgotten-heroes.json) |
 | Forgotten Hill Disillusion | 121472 | [121472-forgotten-hill-disillusion.json](./121472-forgotten-hill-disillusion.json) |
@@ -3374,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furries & Scalies & Bears Oh My!: Ultimate Edition | 185114 | [185114-furries-and-scalies-and-bears-oh-my-ultimate-edition.json](./185114-furries-and-scalies-and-bears-oh-my-ultimate-edition.json) |
 | Furries & Scalies & Scarecrows Oh My! | 321525 | [321525-furries-and-scalies-and-scarecrows-oh-my.json](./321525-furries-and-scalies-and-scarecrows-oh-my.json) |
 | Furrifighters: Prequel I | 369553 | [369553-furrifighters-prequel-i.json](./369553-furrifighters-prequel-i.json) |
+| Furry Adventure Club and the Holy Grail | 312742 | [312742-furry-adventure-club-and-the-holy-grail.json](./312742-furry-adventure-club-and-the-holy-grail.json) |
 | Furry Animals Bombing | 109745 | [109745-furry-animals-bombing.json](./109745-furry-animals-bombing.json) |
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
 | Furry Boss | 215891 | [215891-furry-boss.json](./215891-furry-boss.json) |
