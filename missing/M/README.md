@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongger | 93002 | [93002-mahjongger.json](./93002-mahjongger.json) |
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
 | Mahluk: Dark demon | 31988 | [31988-mahluk-dark-demon.json](./31988-mahluk-dark-demon.json) |
+| Mahogen | 328053 | [328053-mahogen.json](./328053-mahogen.json) |
 | Mahoroba Stories: Library of Fortune | 146244 | [146244-mahoroba-stories-library-of-fortune.json](./146244-mahoroba-stories-library-of-fortune.json) |
 | Mahou Arms | 96114 | [96114-mahou-arms.json](./96114-mahou-arms.json) |
 | Mahou Mating | 128014 | [128014-mahou-mating.json](./128014-mahou-mating.json) |
@@ -3133,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minskies | 115631 | [115631-minskies.json](./115631-minskies.json) |
 | Mint Dodgers | 320165 | [320165-mint-dodgers.json](./320165-mint-dodgers.json) |
 | Mint Works | 159818 | [159818-mint-works.json](./159818-mint-works.json) |
+| Mint's Hints 3 | 328008 | [328008-mints-hints-3.json](./328008-mints-hints-3.json) |
 | Mintroid | 188619 | [188619-mintroid.json](./188619-mintroid.json) |
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
 | Minute Cryptic | 356194 | [356194-minute-cryptic.json](./356194-minute-cryptic.json) |
