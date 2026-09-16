@@ -1683,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Soup | 408812 | [408812-wizard-soup.json](./408812-wizard-soup.json) |
 | Wizard Tournament | 304012 | [304012-wizard-tournament.json](./304012-wizard-tournament.json) |
 | Wizard Warfare | 127196 | [127196-wizard-warfare.json](./127196-wizard-warfare.json) |
+| Wizard Wars | 300031 | [300031-wizard-wars.json](./300031-wizard-wars.json) |
 | Wizard Warz | 12830 | [12830-wizard-warz.json](./12830-wizard-warz.json) |
 | Wizard with a Gun: Bounty Hunter Pack | 293391 | [293391-wizard-with-a-gun-bounty-hunter-pack.json](./293391-wizard-with-a-gun-bounty-hunter-pack.json) |
 | Wizard's Adventure | 186243 | [186243-wizards-adventure.json](./186243-wizards-adventure.json) |
@@ -1788,6 +1789,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Womb of Worms | 394378 | [394378-womb-of-worms.json](./394378-womb-of-worms.json) |
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
 | Women's Quiz | 152880 | [152880-womens-quiz.json](./152880-womens-quiz.json) |
+| Women's School Simulator 2020 | 299898 | [299898-womens-school-simulator-2020.json](./299898-womens-school-simulator-2020.json) |
+| Women's School Simulator 2022 | 299900 | [299900-womens-school-simulator-2022.json](./299900-womens-school-simulator-2022.json) |
 | Wonder Boy | 5560 | [5560-wonder-boy.json](./5560-wonder-boy.json) |
 | Wonder Boy III: Monster Lair | 4481 | [4481-wonder-boy-iii-monster-lair.json](./4481-wonder-boy-iii-monster-lair.json) |
 | Wonder Boy in Monster World | 212866 | [212866-wonder-boy-in-monster-world.json](./212866-wonder-boy-in-monster-world.json) |
