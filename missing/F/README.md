@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: The Pitt - Deluxe Edition | 218503 | [218503-fallout-76-the-pitt-deluxe-edition.json](./218503-fallout-76-the-pitt-deluxe-edition.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
+| Fallout: Sonora Dayglow | 333655 | [333655-fallout-sonora-dayglow.json](./333655-fallout-sonora-dayglow.json) |
 | Fallow | 56437 | [56437-fallow.json](./56437-fallow.json) |
 | Fallsaga | 355127 | [355127-fallsaga.json](./355127-fallsaga.json) |
 | Fallstreak 2: Traum | 364604 | [364604-fallstreak-2-traum.json](./364604-fallstreak-2-traum.json) |
@@ -1611,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sim World: Pro Tour - Talon Fishery | 170475 | [170475-fishing-sim-world-pro-tour-talon-fishery.json](./170475-fishing-sim-world-pro-tour-talon-fishery.json) |
 | Fishing Sim World: Pro Tour - Tournament Bass Pack | 156156 | [156156-fishing-sim-world-pro-tour-tournament-bass-pack.json](./156156-fishing-sim-world-pro-tour-tournament-bass-pack.json) |
 | Fishing Sim World: Pro Tour - Trophy Hunter's Equipment Pack | 170483 | [170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json](./170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json) |
+| Fishing the Abyss | 333091 | [333091-fishing-the-abyss.json](./333091-fishing-the-abyss.json) |
 | Fishing Time | 364504 | [364504-fishing-time.json](./364504-fishing-time.json) |
 | Fishing Tycoon Simulator | 356076 | [356076-fishing-tycoon-simulator.json](./356076-fishing-tycoon-simulator.json) |
 | Fishing Universe | 285986 | [285986-fishing-universe.json](./285986-fishing-universe.json) |
@@ -3164,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Contact | 12109 | [12109-full-contact.json](./12109-full-contact.json) |
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
 | Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
+| Full House Casino | 333101 | [333101-full-house-casino.json](./333101-full-house-casino.json) |
 | Full House Kiss | 97370 | [97370-full-house-kiss.json](./97370-full-house-kiss.json) |
 | Full Kiss S | 219029 | [219029-full-kiss-s.json](./219029-full-kiss-s.json) |
 | Full Kiss SS | 155060 | [155060-full-kiss-ss.json](./155060-full-kiss-ss.json) |
@@ -3222,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
 | Fungi Fantastico | 333013 | [333013-fungi-fantastico.json](./333013-fungi-fantastico.json) |
+| Fungiman 2 | 333645 | [333645-fungiman-2.json](./333645-fungiman-2.json) |
 | Fungoids: Steam Version | 93613 | [93613-fungoids-steam-version.json](./93613-fungoids-steam-version.json) |
 | Fungus Reaper | 248882 | [248882-fungus-reaper.json](./248882-fungus-reaper.json) |
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
