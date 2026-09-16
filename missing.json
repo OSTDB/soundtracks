@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T07:21:44.490Z",
-  "total_missing": 77017,
+  "generated_at": "2026-09-16T07:31:45.374Z",
+  "total_missing": 77028,
   "games": [
     {
       "igdb_id": 306086,
@@ -5861,11 +5861,6 @@
       "igdb_id": 224212,
       "game_name": "Agnostiko",
       "file": "missing/A/224212-agnostiko.json"
-    },
-    {
-      "igdb_id": 9953,
-      "game_name": "Agon: The Lost Sword of Toledo",
-      "file": "missing/A/9953-agon-the-lost-sword-of-toledo.json"
     },
     {
       "igdb_id": 11890,
@@ -125433,6 +125428,11 @@
       "file": "missing/G/66654-giant-robo-the-animation.json"
     },
     {
+      "igdb_id": 321618,
+      "game_name": "Giant Rush",
+      "file": "missing/G/321618-giant-rush.json"
+    },
+    {
       "igdb_id": 385201,
       "game_name": "Giant Rush: Gold Edition",
       "file": "missing/G/385201-giant-rush-gold-edition.json"
@@ -127866,6 +127866,11 @@
       "igdb_id": 178012,
       "game_name": "Going Down in Fishstory",
       "file": "missing/G/178012-going-down-in-fishstory.json"
+    },
+    {
+      "igdb_id": 321613,
+      "game_name": "Going Down Turbo",
+      "file": "missing/G/321613-going-down-turbo.json"
     },
     {
       "igdb_id": 329727,
@@ -150861,6 +150866,11 @@
       "igdb_id": 331682,
       "game_name": "I'd Kill You as a Worm",
       "file": "missing/I/331682-id-kill-you-as-a-worm.json"
+    },
+    {
+      "igdb_id": 321616,
+      "game_name": "I'd Kiss That Fish",
+      "file": "missing/I/321616-id-kiss-that-fish.json"
     },
     {
       "igdb_id": 395714,
@@ -181988,6 +181998,11 @@
       "file": "missing/L/225300-love-is-in-bloom.json"
     },
     {
+      "igdb_id": 321619,
+      "game_name": "Love Is...",
+      "file": "missing/L/321619-love-is.json"
+    },
+    {
       "igdb_id": 51160,
       "game_name": "Love is... in Bloom",
       "file": "missing/L/51160-love-is-in-bloom.json"
@@ -187188,6 +187203,11 @@
       "file": "missing/M/283749-manbomber.json"
     },
     {
+      "igdb_id": 321617,
+      "game_name": "Mancala Snails",
+      "file": "missing/M/321617-mancala-snails.json"
+    },
+    {
       "igdb_id": 52013,
       "game_name": "Manchester United Club Football",
       "file": "missing/M/52013-manchester-united-club-football.json"
@@ -191346,6 +191366,11 @@
       "igdb_id": 34731,
       "game_name": "Mayhem Triple",
       "file": "missing/M/34731-mayhem-triple.json"
+    },
+    {
+      "igdb_id": 321605,
+      "game_name": "Mayo Mayo",
+      "file": "missing/M/321605-mayo-mayo.json"
     },
     {
       "igdb_id": 106538,
@@ -218543,6 +218568,11 @@
       "file": "missing/N/49388-noddy-a-day-in-toyland.json"
     },
     {
+      "igdb_id": 321603,
+      "game_name": "Noddy's Big Adventure",
+      "file": "missing/N/321603-noddys-big-adventure.json"
+    },
+    {
       "igdb_id": 370712,
       "game_name": "Node Math",
       "file": "missing/N/370712-node-math.json"
@@ -231936,6 +231966,11 @@
       "igdb_id": 133975,
       "game_name": "Pathway",
       "file": "missing/P/133975-pathway.json"
+    },
+    {
+      "igdb_id": 321609,
+      "game_name": "Patience",
+      "file": "missing/P/321609-patience.json"
     },
     {
       "igdb_id": 392789,
@@ -248488,6 +248523,11 @@
       "file": "missing/P/289887-puck-man-puzzler.json"
     },
     {
+      "igdb_id": 321606,
+      "game_name": "Puckdoku",
+      "file": "missing/P/321606-puckdoku.json"
+    },
+    {
       "igdb_id": 380448,
       "game_name": "Puckit!",
       "file": "missing/P/380448-puckit.json"
@@ -254621,6 +254661,11 @@
       "igdb_id": 176970,
       "game_name": "Rations, Please!",
       "file": "missing/R/176970-rations-please.json"
+    },
+    {
+      "igdb_id": 321612,
+      "game_name": "Ratman!",
+      "file": "missing/R/321612-ratman.json"
     },
     {
       "igdb_id": 381137,
@@ -274911,6 +274956,11 @@
       "igdb_id": 323919,
       "game_name": "Seisho 1999",
       "file": "missing/S/323919-seisho-1999.json"
+    },
+    {
+      "igdb_id": 321620,
+      "game_name": "Seishoku ni Watashi wo",
+      "file": "missing/S/321620-seishoku-ni-watashi-wo.json"
     },
     {
       "igdb_id": 290423,
@@ -303921,6 +303971,11 @@
       "igdb_id": 321621,
       "game_name": "Street Fighter II",
       "file": "missing/S/321621-street-fighter-ii.json"
+    },
+    {
+      "igdb_id": 321622,
+      "game_name": "Street Fighter II",
+      "file": "missing/S/321622-street-fighter-ii.json"
     },
     {
       "igdb_id": 55063,
