@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Builder | 331698 | [331698-waifu-builder.json](./331698-waifu-builder.json) |
 | Waifu Closet | 331097 | [331097-waifu-closet.json](./331097-waifu-closet.json) |
 | Waifu Collector | 171615 | [171615-waifu-collector.json](./171615-waifu-collector.json) |
+| Waifu Impact 2 | 321542 | [321542-waifu-impact-2.json](./321542-waifu-impact-2.json) |
 | Waifu Love | 161410 | [161410-waifu-love.json](./161410-waifu-love.json) |
 | Waifu Museum | 223162 | [223162-waifu-museum.json](./223162-waifu-museum.json) |
 | Waifu Quest 2 | 311813 | [311813-waifu-quest-2.json](./311813-waifu-quest-2.json) |
@@ -466,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
 | Warp | 74327 | [74327-warp.json](./74327-warp.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
+| Warp Cinema | 321600 | [321600-warp-cinema.json](./321600-warp-cinema.json) |
 | Warp Commander | 360673 | [360673-warp-commander.json](./360673-warp-commander.json) |
 | Warp League Basketball | 81238 | [81238-warp-league-basketball.json](./81238-warp-league-basketball.json) |
 | Warp Mania | 382761 | [382761-warp-mania.json](./382761-warp-mania.json) |
