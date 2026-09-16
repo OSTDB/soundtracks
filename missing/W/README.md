@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waku-waku Ski Wonder Spur | 37770 | [37770-waku-waku-ski-wonder-spur.json](./37770-waku-waku-ski-wonder-spur.json) |
 | Waku-waku Ultraman Racing | 252170 | [252170-waku-waku-ultraman-racing.json](./252170-waku-waku-ultraman-racing.json) |
 | Wakugumi: Monochrome Puzzle | 85479 | [85479-wakugumi-monochrome-puzzle.json](./85479-wakugumi-monochrome-puzzle.json) |
+| Wakusei | 301428 | [301428-wakusei.json](./301428-wakusei.json) |
 | Wales Interactive Publisher Bundle | 301564 | [301564-wales-interactive-publisher-bundle.json](./301564-wales-interactive-publisher-bundle.json) |
 | Walfie's Nonograms | 389599 | [389599-walfies-nonograms.json](./389599-walfies-nonograms.json) |
 | Waligie 3: On Mars | 318032 | [318032-waligie-3-on-mars.json](./318032-waligie-3-on-mars.json) |
@@ -457,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlordocracy: Chapter 2 | 258217 | [258217-warlordocracy-chapter-2.json](./258217-warlordocracy-chapter-2.json) |
 | Warlordocracy: Chapter 3 | 336569 | [336569-warlordocracy-chapter-3.json](./336569-warlordocracy-chapter-3.json) |
 | WarLords | 196892 | [196892-warlords.json](./196892-warlords.json) |
+| Warlords 2: Rise of Demons | 301434 | [301434-warlords-2-rise-of-demons.json](./301434-warlords-2-rise-of-demons.json) |
 | Warlords Awakening | 103416 | [103416-warlords-awakening.json](./103416-warlords-awakening.json) |
 | Warlords Battlecry II | 9833 | [9833-warlords-battlecry-ii.json](./9833-warlords-battlecry-ii.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
