@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Cave Miner | 227273 | [227273-idle-cave-miner.json](./227273-idle-cave-miner.json) |
 | Idle Champions of the Forgotten Realms | 43178 | [43178-idle-champions-of-the-forgotten-realms.json](./43178-idle-champions-of-the-forgotten-realms.json) |
 | Idle Champions: Aasimar Glitch Donaar Skin & Feat Pack | 289847 | [289847-idle-champions-aasimar-glitch-donaar-skin-and-feat-pack.json](./289847-idle-champions-aasimar-glitch-donaar-skin-and-feat-pack.json) |
+| Idle Champions: Aasimar Glitch Penelope Theme Pack | 295364 | [295364-idle-champions-aasimar-glitch-penelope-theme-pack.json](./295364-idle-champions-aasimar-glitch-penelope-theme-pack.json) |
 | Idle Champions: Agent Vin Ursa Skin & Feat Pack | 313702 | [313702-idle-champions-agent-vin-ursa-skin-and-feat-pack.json](./313702-idle-champions-agent-vin-ursa-skin-and-feat-pack.json) |
 | Idle Champions: Alvina the Tressym Familiar Pack | 313709 | [313709-idle-champions-alvina-the-tressym-familiar-pack.json](./313709-idle-champions-alvina-the-tressym-familiar-pack.json) |
 | Idle Champions: Archmage Dhadius Theme Pack | 289846 | [289846-idle-champions-archmage-dhadius-theme-pack.json](./289846-idle-champions-archmage-dhadius-theme-pack.json) |
@@ -368,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Masquerade Ball Lae'zel Skin & Feat Pack | 313680 | [313680-idle-champions-masquerade-ball-laezel-skin-and-feat-pack.json](./313680-idle-champions-masquerade-ball-laezel-skin-and-feat-pack.json) |
 | Idle Champions: Masquerade Ball Rust Theme Pack | 313695 | [313695-idle-champions-masquerade-ball-rust-theme-pack.json](./313695-idle-champions-masquerade-ball-rust-theme-pack.json) |
 | Idle Champions: Mind Flayer Dark Urge Theme Pack | 289845 | [289845-idle-champions-mind-flayer-dark-urge-theme-pack.json](./289845-idle-champions-mind-flayer-dark-urge-theme-pack.json) |
+| Idle Champions: Mind Flayer Gale Theme Pack | 295363 | [295363-idle-champions-mind-flayer-gale-theme-pack.json](./295363-idle-champions-mind-flayer-gale-theme-pack.json) |
 | Idle Champions: Ms. Squiggles the Octopus Familiar Pack | 306079 | [306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json](./306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json) |
 | Idle Champions: Mythic Freely Skin & Feat Pack | 255982 | [255982-idle-champions-mythic-freely-skin-and-feat-pack.json](./255982-idle-champions-mythic-freely-skin-and-feat-pack.json) |
 | Idle Champions: Sherlock Combs the Bee Familiar Pack | 313698 | [313698-idle-champions-sherlock-combs-the-bee-familiar-pack.json](./313698-idle-champions-sherlock-combs-the-bee-familiar-pack.json) |
@@ -547,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Il Sole e la Luna 2 | 393456 | [393456-il-sole-e-la-luna-2.json](./393456-il-sole-e-la-luna-2.json) |
 | IL-2 Sturmovik: 1946 | 5563 | [5563-il-2-sturmovik-1946.json](./5563-il-2-sturmovik-1946.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Flying Circus - Volume II | 243161 | [243161-il-2-sturmovik-battle-of-stalingrad-flying-circus-volume-ii.json](./243161-il-2-sturmovik-battle-of-stalingrad-flying-circus-volume-ii.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - I.A.R. 80-A and 80-B Collector Planes | 295399 | [295399-il-2-sturmovik-battle-of-stalingrad-i-a-r-80-a-and-80-b-collector-planes.json](./295399-il-2-sturmovik-battle-of-stalingrad-i-a-r-80-a-and-80-b-collector-planes.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Spitfire Mk.XIVe with Teardrop Canopy | 243160 | [243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json](./243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json) |
 | IL-2 Sturmovik: Cliffs of Dover | 27471 | [27471-il-2-sturmovik-cliffs-of-dover.json](./27471-il-2-sturmovik-cliffs-of-dover.json) |
 | IL-2 Sturmovik: Cliffs of Dover Blitz | 80996 | [80996-il-2-sturmovik-cliffs-of-dover-blitz.json](./80996-il-2-sturmovik-cliffs-of-dover-blitz.json) |
