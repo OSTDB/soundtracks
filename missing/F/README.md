@@ -2985,7 +2985,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': VS. Cassette Girl | 199045 | [199045-friday-night-funkin-vs-cassette-girl.json](./199045-friday-night-funkin-vs-cassette-girl.json) |
 | Friday Night Funkin': vs. Donald J. Trump | 332226 | [332226-friday-night-funkin-vs-donald-j-trump.json](./332226-friday-night-funkin-vs-donald-j-trump.json) |
 | Friday Night Funkin': vs. Evil Otto | 202402 | [202402-friday-night-funkin-vs-evil-otto.json](./202402-friday-night-funkin-vs-evil-otto.json) |
+| Friday Night Funkin': vs. Gorefield | 298717 | [298717-friday-night-funkin-vs-gorefield.json](./298717-friday-night-funkin-vs-gorefield.json) |
 | Friday Night Funkin': vs. Hex | 314512 | [314512-friday-night-funkin-vs-hex.json](./314512-friday-night-funkin-vs-hex.json) |
+| Friday Night Funkin': vs. Homr | 298721 | [298721-friday-night-funkin-vs-homr.json](./298721-friday-night-funkin-vs-homr.json) |
 | Friday Night Funkin': vs. Kapi - Arcade Showdown | 180206 | [180206-friday-night-funkin-vs-kapi-arcade-showdown.json](./180206-friday-night-funkin-vs-kapi-arcade-showdown.json) |
 | Friday Night Funkin': Vs. Nekomata Okayu | 226421 | [226421-friday-night-funkin-vs-nekomata-okayu.json](./226421-friday-night-funkin-vs-nekomata-okayu.json) |
 | Friday Night Funkin': vs. Reggie the Rat | 198491 | [198491-friday-night-funkin-vs-reggie-the-rat.json](./198491-friday-night-funkin-vs-reggie-the-rat.json) |
@@ -3358,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
 | Funk Unplugged | 31623 | [31623-funk-unplugged.json](./31623-funk-unplugged.json) |
 | Funkels | 373103 | [373103-funkels.json](./373103-funkels.json) |
+| Funkin' at Freddy's + Afton Full Week | 298722 | [298722-funkin-at-freddys-afton-full-week.json](./298722-funkin-at-freddys-afton-full-week.json) |
 | Funko Fusion Deluxe Edition: Fantastik Plastik Pack 1 - Monkey Assassin + Sam (Retail Only) | 378880 | [378880-funko-fusion-deluxe-edition-fantastik-plastik-pack-1-monkey-assassin-sam-retail-only.json](./378880-funko-fusion-deluxe-edition-fantastik-plastik-pack-1-monkey-assassin-sam-retail-only.json) |
 | Funko Fusion Deluxe Edition: Fantastik Plastik Pack 2 - Rocko Billy, Chet (Retails Only) | 378881 | [378881-funko-fusion-deluxe-edition-fantastik-plastik-pack-2-rocko-billy-chet-retails-only.json](./378881-funko-fusion-deluxe-edition-fantastik-plastik-pack-2-rocko-billy-chet-retails-only.json) |
 | Funko Fusion Deluxe Edition: Fantastik Plastik Pack 4 - T-Bone + El Diablo (Retails Only) | 378882 | [378882-funko-fusion-deluxe-edition-fantastik-plastik-pack-4-t-bone-el-diablo-retails-only.json](./378882-funko-fusion-deluxe-edition-fantastik-plastik-pack-4-t-bone-el-diablo-retails-only.json) |
