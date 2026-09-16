@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pako Highway | 212448 | [212448-pako-highway.json](./212448-pako-highway.json) |
 | Pakoombo | 201792 | [201792-pakoombo.json](./201792-pakoombo.json) |
 | Pal Go | 343831 | [343831-pal-go.json](./343831-pal-go.json) |
+| Palace of a Thousand Curses | 328017 | [328017-palace-of-a-thousand-curses.json](./328017-palace-of-a-thousand-curses.json) |
 | Palace of Cards | 81384 | [81384-palace-of-cards.json](./81384-palace-of-cards.json) |
 | Palace of Nemrac | 261283 | [261283-palace-of-nemrac.json](./261283-palace-of-nemrac.json) |
 | Palace of Poetry | 386862 | [386862-palace-of-poetry.json](./386862-palace-of-poetry.json) |
@@ -515,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: Ghost Chapter - Collector's Edition | 168857 | [168857-paranormal-files-ghost-chapter-collectors-edition.json](./168857-paranormal-files-ghost-chapter-collectors-edition.json) |
 | Paranormal Files: Sacrifice to Shadows - Collector's Edition | 339788 | [339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json](./339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json) |
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
+| Paranormal Night Shift | 328009 | [328009-paranormal-night-shift.json](./328009-paranormal-night-shift.json) |
 | Paranormal Realtor | 382903 | [382903-paranormal-realtor.json](./382903-paranormal-realtor.json) |
 | Paranormal Roulette | 365084 | [365084-paranormal-roulette.json](./365084-paranormal-roulette.json) |
 | Paranormal Simulator | 199591 | [199591-paranormal-simulator.json](./199591-paranormal-simulator.json) |
@@ -1008,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penumbra: Black Plague - Gold Edition | 27840 | [27840-penumbra-black-plague-gold-edition.json](./27840-penumbra-black-plague-gold-edition.json) |
 | Peojeul Pooh | 61672 | [61672-peojeul-pooh.json](./61672-peojeul-pooh.json) |
 | People Eater | 28901 | [28901-people-eater.json](./28901-people-eater.json) |
+| People Jumping Tower | 328035 | [328035-people-jumping-tower.json](./328035-people-jumping-tower.json) |
 | People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
 | People Playground | 122646 | [122646-people-playground.json](./122646-people-playground.json) |
 | People's Press Kiosk | 410957 | [410957-peoples-press-kiosk.json](./410957-peoples-press-kiosk.json) |
@@ -2288,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platinum Kill | 112272 | [112272-platinum-kill.json](./112272-platinum-kill.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
 | Platonic Paranoia | 117863 | [117863-platonic-paranoia.json](./117863-platonic-paranoia.json) |
+| Platoon Commander | 328034 | [328034-platoon-commander.json](./328034-platoon-commander.json) |
 | Platro | 31346 | [31346-platro.json](./31346-platro.json) |
 | Plattis | 341569 | [341569-plattis.json](./341569-plattis.json) |
 | Platwormer | 181325 | [181325-platwormer.json](./181325-platwormer.json) |
@@ -2305,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
 | Play for Love | 292008 | [292008-play-for-love.json](./292008-play-for-love.json) |
 | Play for Your Life | 55053 | [55053-play-for-your-life.json](./55053-play-for-your-life.json) |
+| Play Nintendo: Skill Quizzes | 328062 | [328062-play-nintendo-skill-quizzes.json](./328062-play-nintendo-skill-quizzes.json) |
 | Play Outside Simulator | 189145 | [189145-play-outside-simulator.json](./189145-play-outside-simulator.json) |
 | Play Room 0g | 111017 | [111017-play-room-0g.json](./111017-play-room-0g.json) |
 | Play Something Different Vol. 1 | 173788 | [173788-play-something-different-vol-1.json](./173788-play-something-different-vol-1.json) |
@@ -3311,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
 | Prezzemolo in una Giornata da Incubo | 93026 | [93026-prezzemolo-in-una-giornata-da-incubo.json](./93026-prezzemolo-in-una-giornata-da-incubo.json) |
 | PriceGuessers | 394860 | [394860-priceguessers.json](./394860-priceguessers.json) |
+| Prickly Goo To The Rescue | 328051 | [328051-prickly-goo-to-the-rescue.json](./328051-prickly-goo-to-the-rescue.json) |
 | Pride FC: Fighting Championships | 18276 | [18276-pride-fc-fighting-championships.json](./18276-pride-fc-fighting-championships.json) |
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
 | Priest Simulator: Vampire Show | 110993 | [110993-priest-simulator-vampire-show.json](./110993-priest-simulator-vampire-show.json) |
