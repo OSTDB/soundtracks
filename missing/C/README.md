@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie and The Chocolate Factory DVD Games | 343343 | [343343-charlie-and-the-chocolate-factory-dvd-games.json](./343343-charlie-and-the-chocolate-factory-dvd-games.json) |
 | Charlie Foxtrot & The Galaxy of Tomorrow | 166692 | [166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json](./166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json) |
 | Charlie Murder | 19914 | [19914-charlie-murder.json](./19914-charlie-murder.json) |
+| Charlie the Steak | 310574 | [310574-charlie-the-steak.json](./310574-charlie-the-steak.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
 | Charm & Clue 2 | 417505 | [417505-charm-and-clue-2.json](./417505-charm-and-clue-2.json) |
@@ -4053,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
 | Crazy Frog Racer | 248686 | [248686-crazy-frog-racer.json](./248686-crazy-frog-racer.json) |
 | Crazy Fun Ball | 172151 | [172151-crazy-fun-ball.json](./172151-crazy-fun-ball.json) |
+| Crazy Halloween | 310554 | [310554-crazy-halloween.json](./310554-crazy-halloween.json) |
 | Crazy Hill Racing | 235200 | [235200-crazy-hill-racing.json](./235200-crazy-hill-racing.json) |
 | Crazy Insane Monster Invaders | 152387 | [152387-crazy-insane-monster-invaders.json](./152387-crazy-insane-monster-invaders.json) |
 | Crazy Jetpack | 205576 | [205576-crazy-jetpack.json](./205576-crazy-jetpack.json) |
@@ -4090,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Teacher of Math in School Education Learning | 303259 | [303259-crazy-teacher-of-math-in-school-education-learning.json](./303259-crazy-teacher-of-math-in-school-education-learning.json) |
 | Crazy the Hedgehog | 129182 | [129182-crazy-the-hedgehog.json](./129182-crazy-the-hedgehog.json) |
 | Crazy Tracer | 13707 | [13707-crazy-tracer.json](./13707-crazy-tracer.json) |
+| Crazy Vacation | 310553 | [310553-crazy-vacation.json](./310553-crazy-vacation.json) |
 | Crazy Valet | 40719 | [40719-crazy-valet.json](./40719-crazy-valet.json) |
 | Crazy Wheel Rider HD | 213395 | [213395-crazy-wheel-rider-hd.json](./213395-crazy-wheel-rider-hd.json) |
 | Crazy World of Caleb | 302946 | [302946-crazy-world-of-caleb.json](./302946-crazy-world-of-caleb.json) |
@@ -4144,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creeper World 2: Redemption | 66086 | [66086-creeper-world-2-redemption.json](./66086-creeper-world-2-redemption.json) |
 | Creeper World: Anniversary Edition | 34005 | [34005-creeper-world-anniversary-edition.json](./34005-creeper-world-anniversary-edition.json) |
 | Creepers | 15478 | [15478-creepers.json](./15478-creepers.json) |
+| Creepo's Tales: Chopping Mall | 310556 | [310556-creepos-tales-chopping-mall.json](./310556-creepos-tales-chopping-mall.json) |
 | Creepshow | 272838 | [272838-creepshow.json](./272838-creepshow.json) |
 | Creepslore | 195165 | [195165-creepslore.json](./195165-creepslore.json) |
 | Creepy & Cute Pixel Plushy Craft | 336900 | [336900-creepy-and-cute-pixel-plushy-craft.json](./336900-creepy-and-cute-pixel-plushy-craft.json) |
@@ -4452,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader: Adventure Out of Time | 72113 | [72113-crusader-adventure-out-of-time.json](./72113-crusader-adventure-out-of-time.json) |
 | Crusader: No Remorse | 207101 | [207101-crusader-no-remorse.json](./207101-crusader-no-remorse.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
+| CrusaDoom | 310608 | [310608-crusadoom.json](./310608-crusadoom.json) |
 | Crush | 6753 | [6753-crush.json](./6753-crush.json) |
 | Crush & Squash | 75805 | [75805-crush-and-squash.json](./75805-crush-and-squash.json) |
 | Crush Beats: Club Candy | 96763 | [96763-crush-beats-club-candy.json](./96763-crush-beats-club-candy.json) |
@@ -5017,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberTaxi | 140602 | [140602-cybertaxi.json](./140602-cybertaxi.json) |
 | CyberTaxi: Lunatic Nights | 296388 | [296388-cybertaxi-lunatic-nights.json](./296388-cybertaxi-lunatic-nights.json) |
 | CyberThreat | 31603 | [31603-cyberthreat.json](./31603-cyberthreat.json) |
+| Cyberwave | 310571 | [310571-cyberwave.json](./310571-cyberwave.json) |
 | CyberWave Survivor | 254173 | [254173-cyberwave-survivor.json](./254173-cyberwave-survivor.json) |
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
