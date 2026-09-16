@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KnightQuest | 95427 | [95427-knightquest.json](./95427-knightquest.json) |
 | Knights | 32575 | [32575-knights.json](./32575-knights.json) |
 | Knights & Dragons | 59980 | [59980-knights-and-dragons.json](./59980-knights-and-dragons.json) |
+| Knights & Dragons: The Endless Quest | 297602 | [297602-knights-and-dragons-the-endless-quest.json](./297602-knights-and-dragons-the-endless-quest.json) |
 | Knights & Guns: Advanced Edition | 317252 | [317252-knights-and-guns-advanced-edition.json](./317252-knights-and-guns-advanced-edition.json) |
 | Knights & Guns: Definitive Edition | 283141 | [283141-knights-and-guns-definitive-edition.json](./283141-knights-and-guns-definitive-edition.json) |
 | Knights & Guns: Grand Edition | 315860 | [315860-knights-and-guns-grand-edition.json](./315860-knights-and-guns-grand-edition.json) |
@@ -1431,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kukumushi Virtual Pet | 189134 | [189134-kukumushi-virtual-pet.json](./189134-kukumushi-virtual-pet.json) |
 | Kula | 164992 | [164992-kula.json](./164992-kula.json) |
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
+| Kumamaru Adventure | 297638 | [297638-kumamaru-adventure.json](./297638-kumamaru-adventure.json) |
 | Kumari Samsara: The Living Goddess | 402909 | [402909-kumari-samsara-the-living-goddess.json](./402909-kumari-samsara-the-living-goddess.json) |
 | Kumitate Battle: Kuttu Ketto | 70995 | [70995-kumitate-battle-kuttu-ketto.json](./70995-kumitate-battle-kuttu-ketto.json) |
 | Kumo | 120930 | [120930-kumo.json](./120930-kumo.json) |
