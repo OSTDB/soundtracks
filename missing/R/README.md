@@ -2836,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope Cow: Rope it to The Cow | 170519 | [170519-rope-cow-rope-it-to-the-cow.json](./170519-rope-cow-rope-it-to-the-cow.json) |
 | Rope Heroes : Hole Runner Game | 108441 | [108441-rope-heroes-hole-runner-game.json](./108441-rope-heroes-hole-runner-game.json) |
 | Rope-Kun Adventure | 296664 | [296664-rope-kun-adventure.json](./296664-rope-kun-adventure.json) |
+| Rope'n'Fly 4 | 288879 | [288879-ropenfly-4.json](./288879-ropenfly-4.json) |
 | Roped In | 300412 | [300412-roped-in.json](./300412-roped-in.json) |
 | Ropes and Dragons VR | 29901 | [29901-ropes-and-dragons-vr.json](./29901-ropes-and-dragons-vr.json) |
 | Roppongi Sadistic Night | 395566 | [395566-roppongi-sadistic-night.json](./395566-roppongi-sadistic-night.json) |
