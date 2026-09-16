@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Man: Marble Madness II | 125477 | [125477-marble-man-marble-madness-ii.json](./125477-marble-man-marble-madness-ii.json) |
 | Marble Mash | 337104 | [337104-marble-mash.json](./337104-marble-mash.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
+| Marble Mechanics | 302526 | [302526-marble-mechanics.json](./302526-marble-mechanics.json) |
 | Marble Monster | 253025 | [253025-marble-monster.json](./253025-marble-monster.json) |
 | Marble Mountain | 19028 | [19028-marble-mountain.json](./19028-marble-mountain.json) |
 | Marble Odyssey | 113699 | [113699-marble-odyssey.json](./113699-marble-odyssey.json) |
@@ -1826,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MediEvil II | 329195 | [329195-medievil-ii.json](./329195-medievil-ii.json) |
 | Meditation Journey: VR Zen Garden | 167785 | [167785-meditation-journey-vr-zen-garden.json](./167785-meditation-journey-vr-zen-garden.json) |
 | Medival Hustle | 304578 | [304578-medival-hustle.json](./304578-medival-hustle.json) |
+| Medivination | 302505 | [302505-medivination.json](./302505-medivination.json) |
 | Medusa Frontier | 196889 | [196889-medusa-frontier.json](./196889-medusa-frontier.json) |
 | Medusa the Origin: Lost Dream of the Deep | 284324 | [284324-medusa-the-origin-lost-dream-of-the-deep.json](./284324-medusa-the-origin-lost-dream-of-the-deep.json) |
 | Medusa VR | 247181 | [247181-medusa-vr.json](./247181-medusa-vr.json) |
@@ -2016,6 +2018,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaton Musashi W: V Navigator "Dragon" | 301016 | [301016-megaton-musashi-w-v-navigator-dragon.json](./301016-megaton-musashi-w-v-navigator-dragon.json) |
 | Megaton Musashi W: V Navigator "Jibanyan" | 301014 | [301014-megaton-musashi-w-v-navigator-jibanyan.json](./301014-megaton-musashi-w-v-navigator-jibanyan.json) |
 | Megaton Musashi W: V Navigator "Korone Inugami" | 301015 | [301015-megaton-musashi-w-v-navigator-korone-inugami.json](./301015-megaton-musashi-w-v-navigator-korone-inugami.json) |
+| Megaton Musashi W: Wired - Attire: Arshem - Captain's Uniform | 302533 | [302533-megaton-musashi-w-wired-attire-arshem-captains-uniform.json](./302533-megaton-musashi-w-wired-attire-arshem-captains-uniform.json) |
+| Megaton Musashi W: Wired - Attire: Arshem - Dress | 302534 | [302534-megaton-musashi-w-wired-attire-arshem-dress.json](./302534-megaton-musashi-w-wired-attire-arshem-dress.json) |
+| Megaton Musashi W: Wired - Attire: Arshem - Yukata | 302532 | [302532-megaton-musashi-w-wired-attire-arshem-yukata.json](./302532-megaton-musashi-w-wired-attire-arshem-yukata.json) |
+| Megaton Musashi W: Wired - Attire: Masamune - Casual | 302537 | [302537-megaton-musashi-w-wired-attire-masamune-casual.json](./302537-megaton-musashi-w-wired-attire-masamune-casual.json) |
+| Megaton Musashi W: Wired - Attire: Momoka - Yukata | 302525 | [302525-megaton-musashi-w-wired-attire-momoka-yukata.json](./302525-megaton-musashi-w-wired-attire-momoka-yukata.json) |
+| Megaton Musashi W: Wired - Attire: Victor - Yukata | 302531 | [302531-megaton-musashi-w-wired-attire-victor-yukata.json](./302531-megaton-musashi-w-wired-attire-victor-yukata.json) |
+| Megaton Musashi W: Wired - Attire: Yamato - Student Uniform | 302536 | [302536-megaton-musashi-w-wired-attire-yamato-student-uniform.json](./302536-megaton-musashi-w-wired-attire-yamato-student-uniform.json) |
+| Megaton Musashi W: Wired - Attire: Yamato - Yukata | 302535 | [302535-megaton-musashi-w-wired-attire-yamato-yukata.json](./302535-megaton-musashi-w-wired-attire-yamato-yukata.json) |
+| Megaton Musashi W: Wired - Rogue: Arthur Riser - Dragon Green | 302514 | [302514-megaton-musashi-w-wired-rogue-arthur-riser-dragon-green.json](./302514-megaton-musashi-w-wired-rogue-arthur-riser-dragon-green.json) |
+| Megaton Musashi W: Wired - Rogue: Bloody Zelle | 302520 | [302520-megaton-musashi-w-wired-rogue-bloody-zelle.json](./302520-megaton-musashi-w-wired-rogue-bloody-zelle.json) |
+| Megaton Musashi W: Wired - Rogue: Brahms Knight - Night Black | 302524 | [302524-megaton-musashi-w-wired-rogue-brahms-knight-night-black.json](./302524-megaton-musashi-w-wired-rogue-brahms-knight-night-black.json) |
+| Megaton Musashi W: Wired - Rogue: Cybane - Tamahagane Silver | 302523 | [302523-megaton-musashi-w-wired-rogue-cybane-tamahagane-silver.json](./302523-megaton-musashi-w-wired-rogue-cybane-tamahagane-silver.json) |
+| Megaton Musashi W: Wired - Rogue: Kaiser - Castle Snow | 302522 | [302522-megaton-musashi-w-wired-rogue-kaiser-castle-snow.json](./302522-megaton-musashi-w-wired-rogue-kaiser-castle-snow.json) |
+| Megaton Musashi W: Wired - Rogue: Mad Bison - Demon Bordeaux | 302516 | [302516-megaton-musashi-w-wired-rogue-mad-bison-demon-bordeaux.json](./302516-megaton-musashi-w-wired-rogue-mad-bison-demon-bordeaux.json) |
+| Megaton Musashi W: Wired - Rogue: Musashi - Samurai Red | 302518 | [302518-megaton-musashi-w-wired-rogue-musashi-samurai-red.json](./302518-megaton-musashi-w-wired-rogue-musashi-samurai-red.json) |
+| Megaton Musashi W: Wired - Rogue: Sparkman Wave - Zeus White | 302521 | [302521-megaton-musashi-w-wired-rogue-sparkman-wave-zeus-white.json](./302521-megaton-musashi-w-wired-rogue-sparkman-wave-zeus-white.json) |
+| Megaton Musashi W: Wired - V Navigator: Dragon | 302517 | [302517-megaton-musashi-w-wired-v-navigator-dragon.json](./302517-megaton-musashi-w-wired-v-navigator-dragon.json) |
+| Megaton Musashi W: Wired - V Navigator: Jibanyan | 302519 | [302519-megaton-musashi-w-wired-v-navigator-jibanyan.json](./302519-megaton-musashi-w-wired-v-navigator-jibanyan.json) |
+| Megaton Musashi W: Wired - V Navigator: Korone Inugami | 302515 | [302515-megaton-musashi-w-wired-v-navigator-korone-inugami.json](./302515-megaton-musashi-w-wired-v-navigator-korone-inugami.json) |
+| Megaton Musashi W: Wired - Victory Pose: Bodybuilder | 302538 | [302538-megaton-musashi-w-wired-victory-pose-bodybuilder.json](./302538-megaton-musashi-w-wired-victory-pose-bodybuilder.json) |
+| Megaton Musashi W: Wired - Victory Pose: Drums | 302527 | [302527-megaton-musashi-w-wired-victory-pose-drums.json](./302527-megaton-musashi-w-wired-victory-pose-drums.json) |
+| Megaton Musashi W: Wired - Victory Pose: Fist Pump | 302529 | [302529-megaton-musashi-w-wired-victory-pose-fist-pump.json](./302529-megaton-musashi-w-wired-victory-pose-fist-pump.json) |
+| Megaton Musashi W: Wired - Victory Pose: Hero | 302528 | [302528-megaton-musashi-w-wired-victory-pose-hero.json](./302528-megaton-musashi-w-wired-victory-pose-hero.json) |
+| Megaton Musashi W: Wired - Victory Pose: Kabuki | 302530 | [302530-megaton-musashi-w-wired-victory-pose-kabuki.json](./302530-megaton-musashi-w-wired-victory-pose-kabuki.json) |
+| Megaton Musashi W: Wired - Victory Pose: Karate | 302539 | [302539-megaton-musashi-w-wired-victory-pose-karate.json](./302539-megaton-musashi-w-wired-victory-pose-karate.json) |
+| Megaton Musashi W: Wired - Victory Pose: Robot Dance | 302540 | [302540-megaton-musashi-w-wired-victory-pose-robot-dance.json](./302540-megaton-musashi-w-wired-victory-pose-robot-dance.json) |
 | Megatron VGA | 46648 | [46648-megatron-vga.json](./46648-megatron-vga.json) |
 | MegaWorld | 286568 | [286568-megaworld.json](./286568-megaworld.json) |
 | Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
@@ -2529,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meyni | 299128 | [299128-meyni.json](./299128-meyni.json) |
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
 | Mezase! Senkyu Ou | 166151 | [166151-mezase-senkyu-ou.json](./166151-mezase-senkyu-ou.json) |
+| Mezma's Revenge | 302504 | [302504-mezmas-revenge.json](./302504-mezmas-revenge.json) |
 | Mezzo Piano: Oshare & Lesson | 327597 | [327597-mezzo-piano-oshare-and-lesson.json](./327597-mezzo-piano-oshare-and-lesson.json) |
 | MFGGK | 323966 | [323966-mfggk.json](./323966-mfggk.json) |
 | MFGGK2 | 323926 | [323926-mfggk2.json](./323926-mfggk2.json) |
