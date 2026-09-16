@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellumarot | 151712 | [151712-bellumarot.json](./151712-bellumarot.json) |
 | Bellus Battle | 260157 | [260157-bellus-battle.json](./260157-bellus-battle.json) |
 | Bellwright | 244040 | [244040-bellwright.json](./244040-bellwright.json) |
+| Belly Bumpers | 298168 | [298168-belly-bumpers.json](./298168-belly-bumpers.json) |
 | Belongings | 158707 | [158707-belongings.json](./158707-belongings.json) |
 | Belote 3 in 1 | 326263 | [326263-belote-3-in-1.json](./326263-belote-3-in-1.json) |
 | Below | 377564 | [377564-below.json](./377564-below.json) |
@@ -3075,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba Avoider | 413031 | [413031-boba-avoider.json](./413031-boba-avoider.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
 | Boba Tea Shop Simulator | 244236 | [244236-boba-tea-shop-simulator.json](./244236-boba-tea-shop-simulator.json) |
+| BobasQuest | 298180 | [298180-bobasquest.json](./298180-bobasquest.json) |
 | Bobbin's Quest | 67985 | [67985-bobbins-quest.json](./67985-bobbins-quest.json) |
 | Bobble Bash | 265657 | [265657-bobble-bash.json](./265657-bobble-bash.json) |
 | Bobble Shop Simulator | 386240 | [386240-bobble-shop-simulator.json](./386240-bobble-shop-simulator.json) |
@@ -3338,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Buddy | 368491 | [368491-boom-buddy.json](./368491-boom-buddy.json) |
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
+| Boom Lift Operator | 298156 | [298156-boom-lift-operator.json](./298156-boom-lift-operator.json) |
 | Boom Shocketa: Rocket Storm | 217303 | [217303-boom-shocketa-rocket-storm.json](./217303-boom-shocketa-rocket-storm.json) |
 | Boom Zoo | 297226 | [297226-boom-zoo.json](./297226-boom-zoo.json) |
 | Boom-Bahh | 43537 | [43537-boom-bahh.json](./43537-boom-bahh.json) |
