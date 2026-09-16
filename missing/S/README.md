@@ -1886,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Brawl | 339933 | [339933-shape-brawl.json](./339933-shape-brawl.json) |
 | Shape Cascade | 126579 | [126579-shape-cascade.json](./126579-shape-cascade.json) |
 | Shape Escape | 89752 | [89752-shape-escape.json](./89752-shape-escape.json) |
+| Shape Invasion | 317445 | [317445-shape-invasion.json](./317445-shape-invasion.json) |
 | Shape Shift Shawn: Episode 1 - Tale of the Transmogrified | 171567 | [171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json](./171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json) |
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
 | Shape Shuffle: A Shape Saga | 262066 | [262066-shape-shuffle-a-shape-saga.json](./262066-shape-shuffle-a-shape-saga.json) |
@@ -2742,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimLife | 12768 | [12768-simlife.json](./12768-simlife.json) |
 | Simon and Friends | 401687 | [401687-simon-and-friends.json](./401687-simon-and-friends.json) |
 | Simon Scoop: Ace Attorney | 308551 | [308551-simon-scoop-ace-attorney.json](./308551-simon-scoop-ace-attorney.json) |
+| Simon Sees | 317438 | [317438-simon-sees.json](./317438-simon-sees.json) |
 | Simon Shotgun Arms | 302377 | [302377-simon-shotgun-arms.json](./302377-simon-shotgun-arms.json) |
 | Simon Tatham's Portable Puzzle Collection | 135292 | [135292-simon-tathams-portable-puzzle-collection.json](./135292-simon-tathams-portable-puzzle-collection.json) |
 | Simon the Sorcerer | 459 | [459-simon-the-sorcerer.json](./459-simon-the-sorcerer.json) |
@@ -6068,6 +6070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
 | Star Child | 37090 | [37090-star-child.json](./37090-star-child.json) |
 | Star Chindy | 175420 | [175420-star-chindy.json](./175420-star-chindy.json) |
+| Star Climber | 317455 | [317455-star-climber.json](./317455-star-climber.json) |
 | Star Command | 75091 | [75091-star-command.json](./75091-star-command.json) |
 | Star Conflict: Bark-2 | 310391 | [310391-star-conflict-bark-2.json](./310391-star-conflict-bark-2.json) |
 | Star Conflict: Bark-2 - Deluxe Edition | 310392 | [310392-star-conflict-bark-2-deluxe-edition.json](./310392-star-conflict-bark-2-deluxe-edition.json) |
@@ -8187,6 +8190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
 | Super Mario Kart 8 | 198451 | [198451-super-mario-kart-8.json](./198451-super-mario-kart-8.json) |
 | Super Mario Kart DS | 198450 | [198450-super-mario-kart-ds.json](./198450-super-mario-kart-ds.json) |
+| Super Mario Kart in Sonic Mania+ | 317419 | [317419-super-mario-kart-in-sonic-mania.json](./317419-super-mario-kart-in-sonic-mania.json) |
 | Super Mario Kart NES | 250038 | [250038-super-mario-kart-nes.json](./250038-super-mario-kart-nes.json) |
 | Super Mario Kart Xtreme | 311285 | [311285-super-mario-kart-xtreme.json](./311285-super-mario-kart-xtreme.json) |
 | Super Mario Kart: 64 Reverse Remake | 198457 | [198457-super-mario-kart-64-reverse-remake.json](./198457-super-mario-kart-64-reverse-remake.json) |
@@ -8750,6 +8754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Escape Room | 156180 | [156180-survival-escape-room.json](./156180-survival-escape-room.json) |
 | Survival Express | 232154 | [232154-survival-express.json](./232154-survival-express.json) |
 | Survival EXtreme | 248915 | [248915-survival-extreme.json](./248915-survival-extreme.json) |
+| Survival Float Simulator: Crocodile Waters Craft, Raft, Build | 317453 | [317453-survival-float-simulator-crocodile-waters-craft-raft-build.json](./317453-survival-float-simulator-crocodile-waters-craft-raft-build.json) |
 | Survival Game Master | 212477 | [212477-survival-game-master.json](./212477-survival-game-master.json) |
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
 | Survival Hold Your Self | 342077 | [342077-survival-hold-your-self.json](./342077-survival-hold-your-self.json) |
@@ -9000,6 +9005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Copters | 7672 | [7672-swing-copters.json](./7672-swing-copters.json) |
 | Swing dungeon | 161326 | [161326-swing-dungeon.json](./161326-swing-dungeon.json) |
 | Swing Fall | 359442 | [359442-swing-fall.json](./359442-swing-fall.json) |
+| Swing Fling | 317427 | [317427-swing-fling.json](./317427-swing-fling.json) |
 | Swing Home Run | 234056 | [234056-swing-home-run.json](./234056-swing-home-run.json) |
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
 | Swing Lord | 141142 | [141142-swing-lord.json](./141142-swing-lord.json) |
