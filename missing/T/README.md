@@ -3941,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Punisher: No Mercy | 21287 | [21287-the-punisher-no-mercy.json](./21287-the-punisher-no-mercy.json) |
 | The Puppet Master | 30910 | [30910-the-puppet-master.json](./30910-the-puppet-master.json) |
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
+| The Purge Club: Kyuusai! Shukusei Circle | 300843 | [300843-the-purge-club-kyuusai-shukusei-circle.json](./300843-the-purge-club-kyuusai-shukusei-circle.json) |
 | The Purple Hike | 413608 | [413608-the-purple-hike.json](./413608-the-purple-hike.json) |
 | The Purring Quest | 14566 | [14566-the-purring-quest.json](./14566-the-purring-quest.json) |
 | The Putrid Pumps | 271203 | [271203-the-putrid-pumps.json](./271203-the-putrid-pumps.json) |
@@ -5962,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
 | Timber Slash | 108473 | [108473-timber-slash.json](./108473-timber-slash.json) |
 | Timber Tales | 291443 | [291443-timber-tales.json](./291443-timber-tales.json) |
+| Timberdoku | 300840 | [300840-timberdoku.json](./300840-timberdoku.json) |
 | Timberholt | 388253 | [388253-timberholt.json](./388253-timberholt.json) |
 | Timberquest | 245859 | [245859-timberquest.json](./245859-timberquest.json) |
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
@@ -6738,6 +6740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torej: Red Cubes | 61611 | [61611-torej-red-cubes.json](./61611-torej-red-cubes.json) |
 | Toricky S | 151650 | [151650-toricky-s.json](./151650-toricky-s.json) |
 | Torico's B-day Gift Hunt | 232968 | [232968-toricos-b-day-gift-hunt.json](./232968-toricos-b-day-gift-hunt.json) |
+| Toridama 2: Brave Challenge | 300841 | [300841-toridama-2-brave-challenge.json](./300841-toridama-2-brave-challenge.json) |
 | Toride | 37784 | [37784-toride.json](./37784-toride.json) |
 | Torii Path | 112932 | [112932-torii-path.json](./112932-torii-path.json) |
 | Torikago no Marriage | 202818 | [202818-torikago-no-marriage.json](./202818-torikago-no-marriage.json) |
@@ -7196,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracky Train | 58241 | [58241-tracky-train.json](./58241-tracky-train.json) |
 | Tractage aux Portes 2: Mob a la Cafeteria | 120979 | [120979-tractage-aux-portes-2-mob-a-la-cafeteria.json](./120979-tractage-aux-portes-2-mob-a-la-cafeteria.json) |
 | Tractor Farmer | 86710 | [86710-tractor-farmer.json](./86710-tractor-farmer.json) |
+| Tractor Farming Simulator 3D | 300844 | [300844-tractor-farming-simulator-3d.json](./300844-tractor-farming-simulator-3d.json) |
 | Tractor Journey | 223154 | [223154-tractor-journey.json](./223154-tractor-journey.json) |
 | Tractor Racers | 392288 | [392288-tractor-racers.json](./392288-tractor-racers.json) |
 | Trade And Fight | 306366 | [306366-trade-and-fight.json](./306366-trade-and-fight.json) |
@@ -7448,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Valley: Deluxe Edition | 53857 | [53857-train-valley-deluxe-edition.json](./53857-train-valley-deluxe-edition.json) |
 | Train Valley: Germany | 154507 | [154507-train-valley-germany.json](./154507-train-valley-germany.json) |
 | Train Your Brain | 234050 | [234050-train-your-brain.json](./234050-train-your-brain.json) |
+| Train Your Brain! Spot the Difference with Dog Photos | 300842 | [300842-train-your-brain-spot-the-difference-with-dog-photos.json](./300842-train-your-brain-spot-the-difference-with-dog-photos.json) |
 | Train Your Brain! Spot the Difference With Space Photos | 385070 | [385070-train-your-brain-spot-the-difference-with-space-photos.json](./385070-train-your-brain-spot-the-difference-with-space-photos.json) |
 | Train'em | 163971 | [163971-trainem.json](./163971-trainem.json) |
 | Trainee Death Simulator | 319810 | [319810-trainee-death-simulator.json](./319810-trainee-death-simulator.json) |
