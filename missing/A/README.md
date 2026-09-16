@@ -621,7 +621,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahegal | 110446 | [110446-ahegal.json](./110446-ahegal.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
 | Ahmes | 200704 | [200704-ahmes.json](./200704-ahmes.json) |
-| Ahri and Bear | 166760 | [166760-ahri-and-bear.json](./166760-ahri-and-bear.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AHx-1 | 64918 | [64918-ahx-1.json](./64918-ahx-1.json) |
 | AI Asylum | 329034 | [329034-ai-asylum.json](./329034-ai-asylum.json) |
