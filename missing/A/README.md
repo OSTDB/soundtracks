@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
 | Abode | 26370 | [26370-abode.json](./26370-abode.json) |
+| Abomi Nation: Monster Rifts | 315683 | [315683-abomi-nation-monster-rifts.json](./315683-abomi-nation-monster-rifts.json) |
 | Abomination Ops | 355575 | [355575-abomination-ops.json](./355575-abomination-ops.json) |
 | Abomination Tower | 36011 | [36011-abomination-tower.json](./36011-abomination-tower.json) |
 | Aborigenus | 110070 | [110070-aborigenus.json](./110070-aborigenus.json) |
@@ -1681,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Evil | 217854 | [217854-ancient-evil.json](./217854-ancient-evil.json) |
 | Ancient Evil: Curse of the Snake Cult | 72035 | [72035-ancient-evil-curse-of-the-snake-cult.json](./72035-ancient-evil-curse-of-the-snake-cult.json) |
 | Ancient Farm | 226223 | [226223-ancient-farm.json](./226223-ancient-farm.json) |
+| Ancient Forest Escape | 315692 | [315692-ancient-forest-escape.json](./315692-ancient-forest-escape.json) |
 | Ancient Frontier: Quests & Events | 170510 | [170510-ancient-frontier-quests-and-events.json](./170510-ancient-frontier-quests-and-events.json) |
 | Ancient Frontier: The Crew | 170509 | [170509-ancient-frontier-the-crew.json](./170509-ancient-frontier-the-crew.json) |
 | Ancient Future | 82040 | [82040-ancient-future.json](./82040-ancient-future.json) |
@@ -2195,6 +2197,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antiriad | 45331 | [45331-antiriad.json](./45331-antiriad.json) |
 | Antisphere | 32876 | [32876-antisphere.json](./32876-antisphere.json) |
 | AntiSquad Tactics | 38987 | [38987-antisquad-tactics.json](./38987-antisquad-tactics.json) |
+| Antistar 3D: Rising | 315676 | [315676-antistar-3d-rising.json](./315676-antistar-3d-rising.json) |
+| Antistar: Rising | 315680 | [315680-antistar-rising.json](./315680-antistar-rising.json) |
 | Antix | 15597 | [15597-antix.json](./15597-antix.json) |
 | Antonball Deluxe | 139595 | [139595-antonball-deluxe.json](./139595-antonball-deluxe.json) |
 | Antonball Deluxe Lite | 153463 | [153463-antonball-deluxe-lite.json](./153463-antonball-deluxe-lite.json) |
@@ -2985,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Academy: First Semester | 79260 | [79260-art-academy-first-semester.json](./79260-art-academy-first-semester.json) |
 | Art Attack | 366924 | [366924-art-attack.json](./366924-art-attack.json) |
 | Art by Numbers | 124140 | [124140-art-by-numbers.json](./124140-art-by-numbers.json) |
+| Art for Snakes | 315704 | [315704-art-for-snakes.json](./315704-art-for-snakes.json) |
 | Art House | 367950 | [367950-art-house.json](./367950-art-house.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
 | Art of Boxing | 129037 | [129037-art-of-boxing.json](./129037-art-of-boxing.json) |
