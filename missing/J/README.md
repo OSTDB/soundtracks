@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juno Nemesis Remix | 73279 | [73279-juno-nemesis-remix.json](./73279-juno-nemesis-remix.json) |
 | Jupiter | 313468 | [313468-jupiter.json](./313468-jupiter.json) |
 | Jupiter | 370136 | [370136-jupiter.json](./370136-jupiter.json) |
+| Jupiter Hell Classic | 321554 | [321554-jupiter-hell-classic.json](./321554-jupiter-hell-classic.json) |
 | Jupiter Junkworks | 296355 | [296355-jupiter-junkworks.json](./296355-jupiter-junkworks.json) |
 | Jupiter Melon | 284901 | [284901-jupiter-melon.json](./284901-jupiter-melon.json) |
 | Jupitron Game Collection Vol. 4: Middleware | 198481 | [198481-jupitron-game-collection-vol-4-middleware.json](./198481-jupitron-game-collection-vol-4-middleware.json) |
