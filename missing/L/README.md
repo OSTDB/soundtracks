@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | limentional | 296930 | [296930-limentional.json](./296930-limentional.json) |
 | Limerick: Cadence Mansion | 224743 | [224743-limerick-cadence-mansion.json](./224743-limerick-cadence-mansion.json) |
 | Limes 235 | 415103 | [415103-limes-235.json](./415103-limes-235.json) |
+| Liminal Border Part III | 315044 | [315044-liminal-border-part-iii.json](./315044-liminal-border-part-iii.json) |
 | Liminal Death | 340921 | [340921-liminal-death.json](./340921-liminal-death.json) |
 | Liminal Doom | 252724 | [252724-liminal-doom.json](./252724-liminal-doom.json) |
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
@@ -2141,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Eternal | 305358 | [305358-love-eternal.json](./305358-love-eternal.json) |
 | Love Girl | 22474 | [22474-love-girl.json](./22474-love-girl.json) |
 | Love Goes Toward Love | 212805 | [212805-love-goes-toward-love.json](./212805-love-goes-toward-love.json) |
+| Love Heaven | 315067 | [315067-love-heaven.json](./315067-love-heaven.json) |
 | Love Hentai: Sexy Body | 109714 | [109714-love-hentai-sexy-body.json](./109714-love-hentai-sexy-body.json) |
 | Love Hina Advance ~Shukufuku no Kane wa Naru kana~ | 49416 | [49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json](./49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json) |
 | Love Hotel | 62664 | [62664-love-hotel.json](./62664-love-hotel.json) |
