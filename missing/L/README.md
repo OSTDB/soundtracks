@@ -183,6 +183,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Glarefall | 352737 | [352737-land-of-glarefall.json](./352737-land-of-glarefall.json) |
 | Land of Idyllic Beauty | 348355 | [348355-land-of-idyllic-beauty.json](./348355-land-of-idyllic-beauty.json) |
 | Land of Illusion Starring Mickey Mouse | 8123 | [8123-land-of-illusion-starring-mickey-mouse.json](./8123-land-of-illusion-starring-mickey-mouse.json) |
+| Land of Mushrooms: Co-Op mode - Play with Friends | 324497 | [324497-land-of-mushrooms-co-op-mode-play-with-friends.json](./324497-land-of-mushrooms-co-op-mode-play-with-friends.json) |
+| Land of Mushrooms: Forest of Nightmares - Background | 324469 | [324469-land-of-mushrooms-forest-of-nightmares-background.json](./324469-land-of-mushrooms-forest-of-nightmares-background.json) |
+| Land of Mushrooms: Small Mode - Mini Mushroom Mayhem | 324488 | [324488-land-of-mushrooms-small-mode-mini-mushroom-mayhem.json](./324488-land-of-mushrooms-small-mode-mini-mushroom-mayhem.json) |
+| Land of Mushrooms: The Front Yard - Background | 324475 | [324475-land-of-mushrooms-the-front-yard-background.json](./324475-land-of-mushrooms-the-front-yard-background.json) |
 | Land of Puzzles: Elven Princess | 109767 | [109767-land-of-puzzles-elven-princess.json](./109767-land-of-puzzles-elven-princess.json) |
 | Land of the Dead: Road to Fiddler's Green | 5900 | [5900-land-of-the-dead-road-to-fiddlers-green.json](./5900-land-of-the-dead-road-to-fiddlers-green.json) |
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
