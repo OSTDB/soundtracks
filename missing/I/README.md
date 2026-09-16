@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Waters | 304604 | [304604-idle-waters.json](./304604-idle-waters.json) |
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
+| IdleCraft | 289438 | [289438-idlecraft.json](./289438-idlecraft.json) |
 | Idlemon | 390637 | [390637-idlemon.json](./390637-idlemon.json) |
 | Idleplex | 261270 | [261270-idleplex.json](./261270-idleplex.json) |
 | IdleTowerDefense | 357843 | [357843-idletowerdefense.json](./357843-idletowerdefense.json) |
@@ -777,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven 1, 2, 3!! Endou Mamoru Densetsu | 86106 | [86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json](./86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json) |
 | Inazuma Eleven GO: Chrono Stones - Wildfire | 9693 | [9693-inazuma-eleven-go-chrono-stones-wildfire.json](./9693-inazuma-eleven-go-chrono-stones-wildfire.json) |
 | Inazuma Eleven GO: Shadow | 9685 | [9685-inazuma-eleven-go-shadow.json](./9685-inazuma-eleven-go-shadow.json) |
+| Inazuma Eleven Origins | 289434 | [289434-inazuma-eleven-origins.json](./289434-inazuma-eleven-origins.json) |
 | Inazuma Eleven Re | 317592 | [317592-inazuma-eleven-re.json](./317592-inazuma-eleven-re.json) |
 | Inazuma Eleven: Victory Road | 72812 | [72812-inazuma-eleven-victory-road.json](./72812-inazuma-eleven-victory-road.json) |
 | Inbetween a Land of Grass | 181387 | [181387-inbetween-a-land-of-grass.json](./181387-inbetween-a-land-of-grass.json) |
@@ -1317,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Pilot | 207860 | [207860-interstellar-pilot.json](./207860-interstellar-pilot.json) |
 | Interstellar Prime | 74289 | [74289-interstellar-prime.json](./74289-interstellar-prime.json) |
 | Interstellar Space: Genesis | 110011 | [110011-interstellar-space-genesis.json](./110011-interstellar-space-genesis.json) |
+| Interstellar Space: Genesis - Terrains Pack | 289473 | [289473-interstellar-space-genesis-terrains-pack.json](./289473-interstellar-space-genesis-terrains-pack.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
 | Interworlds Academy | 117080 | [117080-interworlds-academy.json](./117080-interworlds-academy.json) |
 | Interwoven Dream | 357811 | [357811-interwoven-dream.json](./357811-interwoven-dream.json) |
