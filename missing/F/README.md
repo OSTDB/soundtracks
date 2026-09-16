@@ -2362,6 +2362,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
 | Foot Clinic | 268470 | [268470-foot-clinic.json](./268470-foot-clinic.json) |
 | Foot Fashion Simulator | 258983 | [258983-foot-fashion-simulator.json](./258983-foot-fashion-simulator.json) |
+| Foot Massage | 288909 | [288909-foot-massage.json](./288909-foot-massage.json) |
+| Foot Odor Girl | 288910 | [288910-foot-odor-girl.json](./288910-foot-odor-girl.json) |
+| Foot Serve | 288904 | [288904-foot-serve.json](./288904-foot-serve.json) |
 | Foot Step | 320951 | [320951-foot-step.json](./320951-foot-step.json) |
 | Footage | 302930 | [302930-footage.json](./302930-footage.json) |
 | Football | 131533 | [131533-football.json](./131533-football.json) |
@@ -3392,6 +3395,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun School | 334200 | [334200-fun-school.json](./334200-fun-school.json) |
 | Fun Times at Homer's | 383384 | [383384-fun-times-at-homers.json](./383384-fun-times-at-homers.json) |
 | Fun VR Farm | 113675 | [113675-fun-vr-farm.json](./113675-fun-vr-farm.json) |
+| Fun with Body for Cyberpunk Sex | 288884 | [288884-fun-with-body-for-cyberpunk-sex.json](./288884-fun-with-body-for-cyberpunk-sex.json) |
+| Fun with Body for Sex Motel | 288891 | [288891-fun-with-body-for-sex-motel.json](./288891-fun-with-body-for-sex-motel.json) |
+| Fun with Boobs for Cyberpunk Sex | 288883 | [288883-fun-with-boobs-for-cyberpunk-sex.json](./288883-fun-with-boobs-for-cyberpunk-sex.json) |
+| Fun with Boobs for Sex Motel | 288889 | [288889-fun-with-boobs-for-sex-motel.json](./288889-fun-with-boobs-for-sex-motel.json) |
+| Fun with Penis for Sex Motel | 288888 | [288888-fun-with-penis-for-sex-motel.json](./288888-fun-with-penis-for-sex-motel.json) |
 | Fun With the Fitzgeralds | 262946 | [262946-fun-with-the-fitzgeralds.json](./262946-fun-with-the-fitzgeralds.json) |
 | Fun Zone Omega | 386239 | [386239-fun-zone-omega.json](./386239-fun-zone-omega.json) |
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
