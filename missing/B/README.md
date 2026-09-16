@@ -1234,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayala: The Game | 124134 | [124134-bayala-the-game.json](./124134-bayala-the-game.json) |
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
 | Bayonetta 2: First Print Edition | 51187 | [51187-bayonetta-2-first-print-edition.json](./51187-bayonetta-2-first-print-edition.json) |
+| Bazaar Simulator | 312155 | [312155-bazaar-simulator.json](./312155-bazaar-simulator.json) |
 | Bazar Simulator Online | 377169 | [377169-bazar-simulator-online.json](./377169-bazar-simulator-online.json) |
 | Bazar Simulator: The Wan Story | 331338 | [331338-bazar-simulator-the-wan-story.json](./331338-bazar-simulator-the-wan-story.json) |
 | Bazooka Blitzkrieg | 42627 | [42627-bazooka-blitzkrieg.json](./42627-bazooka-blitzkrieg.json) |
@@ -1283,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Life | 11822 | [11822-beach-life.json](./11822-beach-life.json) |
 | Beach Life Simulator | 371247 | [371247-beach-life-simulator.json](./371247-beach-life-simulator.json) |
 | Beach Pong | 109736 | [109736-beach-pong.json](./109736-beach-pong.json) |
+| Beach Secrets | 312172 | [312172-beach-secrets.json](./312172-beach-secrets.json) |
 | Beach-Head | 8526 | [8526-beach-head.json](./8526-beach-head.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
 | Beachcomber | 388924 | [388924-beachcomber.json](./388924-beachcomber.json) |
@@ -2654,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
 | Block Arena | 384098 | [384098-block-arena.json](./384098-block-arena.json) |
 | Block Blast | 130896 | [130896-block-blast.json](./130896-block-blast.json) |
+| Block Bot: Puzzle Journey | 312158 | [312158-block-bot-puzzle-journey.json](./312158-block-bot-puzzle-journey.json) |
 | Block Bounce | 368489 | [368489-block-bounce.json](./368489-block-bounce.json) |
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
 | Block Breaker | 195789 | [195789-block-breaker.json](./195789-block-breaker.json) |
@@ -2926,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxiq VR | 31828 | [31828-bloxiq-vr.json](./31828-bloxiq-vr.json) |
 | Bloxs | 244791 | [244791-bloxs.json](./244791-bloxs.json) |
 | Bloxter | 84267 | [84267-bloxter.json](./84267-bloxter.json) |
+| Blu-Dude In The Quest for Chocolate Milk | 312164 | [312164-blu-dude-in-the-quest-for-chocolate-milk.json](./312164-blu-dude-in-the-quest-for-chocolate-milk.json) |
 | Blub | 274497 | [274497-blub.json](./274497-blub.json) |
 | Blubber | 312582 | [312582-blubber.json](./312582-blubber.json) |
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
@@ -4378,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Box Breakout | 221192 | [221192-bunny-box-breakout.json](./221192-bunny-box-breakout.json) |
 | Bunny Bricks | 10855 | [10855-bunny-bricks.json](./10855-bunny-bricks.json) |
 | Bunny Bundle 2 | 196280 | [196280-bunny-bundle-2.json](./196280-bunny-bundle-2.json) |
+| Bunny Bunker | 312160 | [312160-bunny-bunker.json](./312160-bunny-bunker.json) |
 | Bunny Eureka | 221162 | [221162-bunny-eureka.json](./221162-bunny-eureka.json) |
 | Bunny Flush | 153923 | [153923-bunny-flush.json](./153923-bunny-flush.json) |
 | Bunny Forest | 374150 | [374150-bunny-forest.json](./374150-bunny-forest.json) |
