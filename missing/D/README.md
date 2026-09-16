@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: CH-47F | 324665 | [324665-dcs-world-ch-47f.json](./324665-dcs-world-ch-47f.json) |
 | DCS World: F-14 Speed & Angels Campaign by Reflected Simulations | 325253 | [325253-dcs-world-f-14-speed-and-angels-campaign-by-reflected-simulations.json](./325253-dcs-world-f-14-speed-and-angels-campaign-by-reflected-simulations.json) |
 | DCS World: F-14A Fear the Bones Campaign | 162863 | [162863-dcs-world-f-14a-fear-the-bones-campaign.json](./162863-dcs-world-f-14a-fear-the-bones-campaign.json) |
+| DCS World: F-14B Operation Sandworm Campaign by Sandman Simulations | 325649 | [325649-dcs-world-f-14b-operation-sandworm-campaign-by-sandman-simulations.json](./325649-dcs-world-f-14b-operation-sandworm-campaign-by-sandman-simulations.json) |
 | DCS World: F-15C | 162860 | [162860-dcs-world-f-15c.json](./162860-dcs-world-f-15c.json) |
 | DCS World: F-15E | 254774 | [254774-dcs-world-f-15e.json](./254774-dcs-world-f-15e.json) |
 | DCS World: F-16C Arctic Thunder Campaign by Reflected Simulations | 324673 | [324673-dcs-world-f-16c-arctic-thunder-campaign-by-reflected-simulations.json](./324673-dcs-world-f-16c-arctic-thunder-campaign-by-reflected-simulations.json) |
@@ -1595,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DepowerBall | 126607 | [126607-depowerball.json](./126607-depowerball.json) |
 | Depression Level 50 | 362878 | [362878-depression-level-50.json](./362878-depression-level-50.json) |
 | Depression the Game | 103456 | [103456-depression-the-game.json](./103456-depression-the-game.json) |
+| Deprision | 325707 | [325707-deprision.json](./325707-deprision.json) |
 | Depth Hunter 2: Ocean Mysteries | 167273 | [167273-depth-hunter-2-ocean-mysteries.json](./167273-depth-hunter-2-ocean-mysteries.json) |
 | Depth Hunter 2: Scuba Kids - Hidden Treasures | 167274 | [167274-depth-hunter-2-scuba-kids-hidden-treasures.json](./167274-depth-hunter-2-scuba-kids-hidden-treasures.json) |
 | Depth Hunter 2: Treasure Hunter | 167272 | [167272-depth-hunter-2-treasure-hunter.json](./167272-depth-hunter-2-treasure-hunter.json) |
@@ -1711,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Raid | 392137 | [392137-desktop-raid.json](./392137-desktop-raid.json) |
 | Desktop Reptiles | 405581 | [405581-desktop-reptiles.json](./405581-desktop-reptiles.json) |
 | Desktop Standing Card Plates | 394346 | [394346-desktop-standing-card-plates.json](./394346-desktop-standing-card-plates.json) |
+| Desktop Survivors 98 | 325702 | [325702-desktop-survivors-98.json](./325702-desktop-survivors-98.json) |
 | Desktop Tourney World | 282011 | [282011-desktop-tourney-world.json](./282011-desktop-tourney-world.json) |
 | Desktop Waifu | 377572 | [377572-desktop-waifu.json](./377572-desktop-waifu.json) |
 | Desktop Wooden Fish | 350405 | [350405-desktop-wooden-fish.json](./350405-desktop-wooden-fish.json) |
@@ -2044,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Hard: Nakatomi Plaza | 18219 | [18219-die-hard-nakatomi-plaza.json](./18219-die-hard-nakatomi-plaza.json) |
 | Die Hard: Vendetta | 3876 | [3876-die-hard-vendetta.json](./3876-die-hard-vendetta.json) |
 | Die in the Dark | 105284 | [105284-die-in-the-dark.json](./105284-die-in-the-dark.json) |
+| Die in the Dungeon: Classic | 325653 | [325653-die-in-the-dungeon-classic.json](./325653-die-in-the-dungeon-classic.json) |
 | Die kleine Lokomotive und ihre Freunde | 81401 | [81401-die-kleine-lokomotive-und-ihre-freunde.json](./81401-die-kleine-lokomotive-und-ihre-freunde.json) |
 | Die Legende der Wikinger | 91397 | [91397-die-legende-der-wikinger.json](./91397-die-legende-der-wikinger.json) |
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
@@ -3333,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Seuss Preschool | 63273 | [63273-dr-seuss-preschool.json](./63273-dr-seuss-preschool.json) |
 | Dr. Seuss Toddler | 63271 | [63271-dr-seuss-toddler.json](./63271-dr-seuss-toddler.json) |
 | Dr. Seuss: How the Grinch Stole Christmas! | 15489 | [15489-dr-seuss-how-the-grinch-stole-christmas.json](./15489-dr-seuss-how-the-grinch-stole-christmas.json) |
+| Dr. Seuss' How the Grinch Stole Christmas: Collector's Edition - Rhyme Time | 325695 | [325695-dr-seuss-how-the-grinch-stole-christmas-collectors-edition-rhyme-time.json](./325695-dr-seuss-how-the-grinch-stole-christmas-collectors-edition-rhyme-time.json) |
 | Dr. Seuss': The Cat in the Hat | 5814 | [5814-dr-seuss-the-cat-in-the-hat.json](./5814-dr-seuss-the-cat-in-the-hat.json) |
 | Dr. Tacocat | 120362 | [120362-dr-tacocat.json](./120362-dr-tacocat.json) |
 | Dr. Trolley's Problem | 117072 | [117072-dr-trolleys-problem.json](./117072-dr-trolleys-problem.json) |
