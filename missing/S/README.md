@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screen Cat | 328023 | [328023-screen-cat.json](./328023-screen-cat.json) |
 | Screen VR | 121596 | [121596-screen-vr.json](./121596-screen-vr.json) |
 | Screen Wonders | 297211 | [297211-screen-wonders.json](./297211-screen-wonders.json) |
+| Screenbound | 293733 | [293733-screenbound.json](./293733-screenbound.json) |
 | ScreenPlay | 188603 | [188603-screenplay.json](./188603-screenplay.json) |
 | Screenplay in Autumn | 392757 | [392757-screenplay-in-autumn.json](./392757-screenplay-in-autumn.json) |
 | Screens Up by Nickelodeon | 105974 | [105974-screens-up-by-nickelodeon.json](./105974-screens-up-by-nickelodeon.json) |
@@ -1321,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Soccer Slam | 4102 | [4102-sega-soccer-slam.json](./4102-sega-soccer-slam.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
 | Sega Vintage Collection: Alex Kidd & Co. | 79259 | [79259-sega-vintage-collection-alex-kidd-and-co.json](./79259-sega-vintage-collection-alex-kidd-and-co.json) |
+| Sega World Drivers Championship | 293742 | [293742-sega-world-drivers-championship.json](./293742-sega-world-drivers-championship.json) |
 | Sega Worldwide Soccer 2000: Euro Edition | 46554 | [46554-sega-worldwide-soccer-2000-euro-edition.json](./46554-sega-worldwide-soccer-2000-euro-edition.json) |
 | Sehoni Island: Monsters and Adventures | 236843 | [236843-sehoni-island-monsters-and-adventures.json](./236843-sehoni-island-monsters-and-adventures.json) |
 | Sei Monmusu Festival!! Omatsuri da yo Zen'in Shuugou! | 77370 | [77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json](./77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json) |
@@ -1836,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Doubt | 119273 | [119273-shadows-of-doubt.json](./119273-shadows-of-doubt.json) |
 | Shadows of Duat | 252395 | [252395-shadows-of-duat.json](./252395-shadows-of-duat.json) |
 | Shadows of Dungeon | 237659 | [237659-shadows-of-dungeon.json](./237659-shadows-of-dungeon.json) |
+| Shadows of Dunwich | 293751 | [293751-shadows-of-dunwich.json](./293751-shadows-of-dunwich.json) |
 | Shadows of Empires | 227268 | [227268-shadows-of-empires.json](./227268-shadows-of-empires.json) |
 | Shadows of Forbidden Gods | 180249 | [180249-shadows-of-forbidden-gods.json](./180249-shadows-of-forbidden-gods.json) |
 | Shadows of Kepler | 125390 | [125390-shadows-of-kepler.json](./125390-shadows-of-kepler.json) |
@@ -1889,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: Pirates Treasured Love in the Ocean | 225665 | [225665-shall-we-date-pirates-treasured-love-in-the-ocean.json](./225665-shall-we-date-pirates-treasured-love-in-the-ocean.json) |
 | Shall We Date?: War of Prayers - Inori no Otome | 225662 | [225662-shall-we-date-war-of-prayers-inori-no-otome.json](./225662-shall-we-date-war-of-prayers-inori-no-otome.json) |
 | Shall we date?: We the Girls | 225671 | [225671-shall-we-date-we-the-girls.json](./225671-shall-we-date-we-the-girls.json) |
+| Shallow End | 293752 | [293752-shallow-end.json](./293752-shallow-end.json) |
 | Shallow Sea Roaming | 298187 | [298187-shallow-sea-roaming.json](./298187-shallow-sea-roaming.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
@@ -3226,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
 | Sky Jumping | 336626 | [336626-sky-jumping.json](./336626-sky-jumping.json) |
+| Sky Kid | 293755 | [293755-sky-kid.json](./293755-sky-kid.json) |
 | Sky Kingdoms | 54366 | [54366-sky-kingdoms.json](./54366-sky-kingdoms.json) |
 | Sky Kingdoms - Castle Siege | 100747 | [100747-sky-kingdoms-castle-siege.json](./100747-sky-kingdoms-castle-siege.json) |
 | Sky Love Girls: Flight Attendant Crush | 370797 | [370797-sky-love-girls-flight-attendant-crush.json](./370797-sky-love-girls-flight-attendant-crush.json) |
@@ -3509,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Management | 357349 | [357349-slime-management.json](./357349-slime-management.json) |
 | Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
 | Slime Rancher | 16287 | [16287-slime-rancher.json](./16287-slime-rancher.json) |
+| Slime Rancher Rainbow Bundle | 293761 | [293761-slime-rancher-rainbow-bundle.json](./293761-slime-rancher-rainbow-bundle.json) |
 | Slime Ranger | 221159 | [221159-slime-ranger.json](./221159-slime-ranger.json) |
 | Slime Road | 108509 | [108509-slime-road.json](./108509-slime-road.json) |
 | Slime Runner | 215886 | [215886-slime-runner.json](./215886-slime-runner.json) |
@@ -5843,6 +5849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob Big Guy Challenge | 382339 | [382339-spongebob-big-guy-challenge.json](./382339-spongebob-big-guy-challenge.json) |
 | SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
+| SpongeBob Laptop | 293737 | [293737-spongebob-laptop.json](./293737-spongebob-laptop.json) |
 | SpongeBob SolitairePants | 294177 | [294177-spongebob-solitairepants.json](./294177-spongebob-solitairepants.json) |
 | SpongeBob SquarePants | 220120 | [220120-spongebob-squarepants.json](./220120-spongebob-squarepants.json) |
 | SpongeBob SquarePants Boating School | 382924 | [382924-spongebob-squarepants-boating-school.json](./382924-spongebob-squarepants-boating-school.json) |
