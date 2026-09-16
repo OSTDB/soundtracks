@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Raiders | 11114 | [11114-air-raiders.json](./11114-air-raiders.json) |
 | Air Rescue | 45671 | [45671-air-rescue.json](./45671-air-rescue.json) |
 | Air Soccer Impossible | 234072 | [234072-air-soccer-impossible.json](./234072-air-soccer-impossible.json) |
+| Air Stacky | 291589 | [291589-air-stacky.json](./291589-air-stacky.json) |
 | AIR Summer Solstice | 308416 | [308416-air-summer-solstice.json](./308416-air-summer-solstice.json) |
 | Air Threat | 97276 | [97276-air-threat.json](./97276-air-threat.json) |
 | Air Traffic Control | 15590 | [15590-air-traffic-control.json](./15590-air-traffic-control.json) |
@@ -3516,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrocat: Milky Way Journey | 196264 | [196264-astrocat-milky-way-journey.json](./196264-astrocat-milky-way-journey.json) |
 | Astrochibbi | 377677 | [377677-astrochibbi.json](./377677-astrochibbi.json) |
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
+| Astrodle | 291592 | [291592-astrodle.json](./291592-astrodle.json) |
 | Astrodrifter | 304682 | [304682-astrodrifter.json](./304682-astrodrifter.json) |
 | Astroflux | 32875 | [32875-astroflux.json](./32875-astroflux.json) |
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
