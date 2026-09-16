@@ -2024,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Independence | 121641 | [121641-world-of-tanks-independence.json](./121641-world-of-tanks-independence.json) |
 | World of Tanks: Modern Armor | 296792 | [296792-world-of-tanks-modern-armor.json](./296792-world-of-tanks-modern-armor.json) |
 | World of Tanks: Modern Armor - Metal Dragon | 336938 | [336938-world-of-tanks-modern-armor-metal-dragon.json](./336938-world-of-tanks-modern-armor-metal-dragon.json) |
+| World of Tanks: Modern Armor - Super Heavy Hitter | 332534 | [332534-world-of-tanks-modern-armor-super-heavy-hitter.json](./332534-world-of-tanks-modern-armor-super-heavy-hitter.json) |
 | World of Tanks: Modern Armor - Warlords Starter Pack | 338220 | [338220-world-of-tanks-modern-armor-warlords-starter-pack.json](./338220-world-of-tanks-modern-armor-warlords-starter-pack.json) |
 | World of Tanks: Roll Out Collector's Edition | 115673 | [115673-world-of-tanks-roll-out-collectors-edition.json](./115673-world-of-tanks-roll-out-collectors-edition.json) |
 | World of Vasnar | 356190 | [356190-world-of-vasnar.json](./356190-world-of-vasnar.json) |
@@ -2043,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Huanghe Pack | 156113 | [156113-world-of-warships-huanghe-pack.json](./156113-world-of-warships-huanghe-pack.json) |
 | World of Warships: Legends | 107250 | [107250-world-of-warships-legends.json](./107250-world-of-warships-legends.json) |
 | World of Warships: Legends - Captain's Essentials | 340747 | [340747-world-of-warships-legends-captains-essentials.json](./340747-world-of-warships-legends-captains-essentials.json) |
+| World of Warships: Legends - European Strength | 332535 | [332535-world-of-warships-legends-european-strength.json](./332535-world-of-warships-legends-european-strength.json) |
 | World of Warships: Starter Pack - Ishizuchi | 223475 | [223475-world-of-warships-starter-pack-ishizuchi.json](./223475-world-of-warships-starter-pack-ishizuchi.json) |
 | World of Wimmelbild Gold | 92503 | [92503-world-of-wimmelbild-gold.json](./92503-world-of-wimmelbild-gold.json) |
 | World of Wonder | 147396 | [147396-world-of-wonder.json](./147396-world-of-wonder.json) |
