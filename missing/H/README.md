@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holonomy | 310570 | [310570-holonomy.json](./310570-holonomy.json) |
 | Holopoint | 33147 | [33147-holopoint.json](./33147-holopoint.json) |
 | HoloRun | 361794 | [361794-holorun.json](./361794-holorun.json) |
+| Holosaga: Invasion of the HoloX | 298148 | [298148-holosaga-invasion-of-the-holox.json](./298148-holosaga-invasion-of-the-holox.json) |
 | HoloSona5 | 340479 | [340479-holosona5.json](./340479-holosona5.json) |
 | Holotyping | 210245 | [210245-holotyping.json](./210245-holotyping.json) |
 | Holotz's Castle | 62145 | [62145-holotzs-castle.json](./62145-holotzs-castle.json) |
