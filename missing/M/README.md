@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manaforge | 129730 | [129730-manaforge.json](./129730-manaforge.json) |
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
 | Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
+| Manahex | 291598 | [291598-manahex.json](./291598-manahex.json) |
 | Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
 | Manbomber | 283749 | [283749-manbomber.json](./283749-manbomber.json) |
@@ -1753,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
 | MechWarrior 5: Mercenaries - Chaos Reign | 402396 | [402396-mechwarrior-5-mercenaries-chaos-reign.json](./402396-mechwarrior-5-mercenaries-chaos-reign.json) |
 | MechWarrior 5: Mercenaries - Shadow of Kerensky | 351086 | [351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json](./351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json) |
+| MechWarrior 5: Mercenaries - Solaris Showdown | 291597 | [291597-mechwarrior-5-mercenaries-solaris-showdown.json](./291597-mechwarrior-5-mercenaries-solaris-showdown.json) |
 | MechWarrior Online: Apache Legendary Mech Pack | 357326 | [357326-mechwarrior-online-apache-legendary-mech-pack.json](./357326-mechwarrior-online-apache-legendary-mech-pack.json) |
 | MechWarrior Online: Argent Legendary Mech Pack | 357327 | [357327-mechwarrior-online-argent-legendary-mech-pack.json](./357327-mechwarrior-online-argent-legendary-mech-pack.json) |
 | MechWarrior Online: Arges Legendary Mech Pack | 357339 | [357339-mechwarrior-online-arges-legendary-mech-pack.json](./357339-mechwarrior-online-arges-legendary-mech-pack.json) |
@@ -3218,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
 | Mini Z Racers Turbo | 31902 | [31902-mini-z-racers-turbo.json](./31902-mini-z-racers-turbo.json) |
 | Mini-Market Simulator VR | 309377 | [309377-mini-market-simulator-vr.json](./309377-mini-market-simulator-vr.json) |
+| Mini-Metroid | 291622 | [291622-mini-metroid.json](./291622-mini-metroid.json) |
 | Mini-Moni. Shakatto Tambourine! Dapyon! | 69262 | [69262-mini-moni-shakatto-tambourine-dapyon.json](./69262-mini-moni-shakatto-tambourine-dapyon.json) |
 | Mini-U: Mosaic | 175408 | [175408-mini-u-mosaic.json](./175408-mini-u-mosaic.json) |
 | Miniacs: Steering Madness | 382227 | [382227-miniacs-steering-madness.json](./382227-miniacs-steering-madness.json) |
