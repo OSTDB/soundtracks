@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: Legends of Justice | 209634 | [209634-saint-seiya-legends-of-justice.json](./209634-saint-seiya-legends-of-justice.json) |
 | Saint Seiya: Ougon Densetsu | 48655 | [48655-saint-seiya-ougon-densetsu.json](./48655-saint-seiya-ougon-densetsu.json) |
 | Saint Seiya: Ougon Densetsu - Kanketsu-hen | 48654 | [48654-saint-seiya-ougon-densetsu-kanketsu-hen.json](./48654-saint-seiya-ougon-densetsu-kanketsu-hen.json) |
+| Sainte-Vibrisse | 322191 | [322191-sainte-vibrisse.json](./322191-sainte-vibrisse.json) |
 | Saintess of the Golden Bow | 327401 | [327401-saintess-of-the-golden-bow.json](./327401-saintess-of-the-golden-bow.json) |
 | Sainth | 126003 | [126003-sainth.json](./126003-sainth.json) |
 | Sainthood | 249223 | [249223-sainthood.json](./249223-sainthood.json) |
@@ -7122,7 +7123,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: 2016 Halloween Costume Bundle | 343899 | [343899-street-fighter-v-2016-halloween-costume-bundle.json](./343899-street-fighter-v-2016-halloween-costume-bundle.json) |
 | Street Fighter V: 2016 Summer Costume Bundle | 343896 | [343896-street-fighter-v-2016-summer-costume-bundle.json](./343896-street-fighter-v-2016-summer-costume-bundle.json) |
 | Street Fighter V: Arcade Edition | 74155 | [74155-street-fighter-v-arcade-edition.json](./74155-street-fighter-v-arcade-edition.json) |
+| Street Fighter V: Blanka | 322207 | [322207-street-fighter-v-blanka.json](./322207-street-fighter-v-blanka.json) |
 | Street Fighter V: Champion Edition | 126095 | [126095-street-fighter-v-champion-edition.json](./126095-street-fighter-v-champion-edition.json) |
+| Street Fighter V: Cody Travers | 322209 | [322209-street-fighter-v-cody-travers.json](./322209-street-fighter-v-cody-travers.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
 | Street Fighter V: Season 1-3 Nostalgia Costume Pack | 343900 | [343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json](./343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json) |
 | Street Fighter x All Capcom | 55064 | [55064-street-fighter-x-all-capcom.json](./55064-street-fighter-x-all-capcom.json) |
@@ -8465,6 +8468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
 | Super Street Fighter II | 322188 | [322188-super-street-fighter-ii.json](./322188-super-street-fighter-ii.json) |
 | Super Street Fighter II Turbo Pinball FX | 55062 | [55062-super-street-fighter-ii-turbo-pinball-fx.json](./55062-super-street-fighter-ii-turbo-pinball-fx.json) |
+| Super Street Fighter II: The New Challengers | 322210 | [322210-super-street-fighter-ii-the-new-challengers.json](./322210-super-street-fighter-ii-the-new-challengers.json) |
 | Super Strip Fighter IV | 66653 | [66653-super-strip-fighter-iv.json](./66653-super-strip-fighter-iv.json) |
 | Super Strong Hero | 188005 | [188005-super-strong-hero.json](./188005-super-strong-hero.json) |
 | Super Strong Warriors | 64922 | [64922-super-strong-warriors.json](./64922-super-strong-warriors.json) |
