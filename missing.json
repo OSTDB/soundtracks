@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T10:49:15.732Z",
-  "total_missing": 77640,
+  "generated_at": "2026-09-16T10:51:48.714Z",
+  "total_missing": 77639,
   "games": [
     {
       "igdb_id": 306086,
@@ -5971,11 +5971,6 @@
       "igdb_id": 7747,
       "game_name": "Aguri Suzuki F-1 Super Driving",
       "file": "missing/A/7747-aguri-suzuki-f-1-super-driving.json"
-    },
-    {
-      "igdb_id": 156159,
-      "game_name": "AH-3: ThunderStrike",
-      "file": "missing/A/156159-ah-3-thunderstrike.json"
     },
     {
       "igdb_id": 109720,
