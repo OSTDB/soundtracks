@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alienoid | 57685 | [57685-alienoid.json](./57685-alienoid.json) |
 | Aliens | 186868 | [186868-aliens.json](./186868-aliens.json) |
 | Aliens After Ava | 211212 | [211212-aliens-after-ava.json](./211212-aliens-after-ava.json) |
+| Aliens and Asteroids | 296515 | [296515-aliens-and-asteroids.json](./296515-aliens-and-asteroids.json) |
 | Aliens Doom 3: Aliens vs Predator | 381150 | [381150-aliens-doom-3-aliens-vs-predator.json](./381150-aliens-doom-3-aliens-vs-predator.json) |
 | Aliens Go Home Run! | 26835 | [26835-aliens-go-home-run.json](./26835-aliens-go-home-run.json) |
 | Aliens Invaded Our Planet | 103642 | [103642-aliens-invaded-our-planet.json](./103642-aliens-invaded-our-planet.json) |
@@ -1407,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Am I Nima | 329692 | [329692-am-i-nima.json](./329692-am-i-nima.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
+| Amadeus: A Riddle for Thee - Episode 1: Waltz | 296491 | [296491-amadeus-a-riddle-for-thee-episode-1-waltz.json](./296491-amadeus-a-riddle-for-thee-episode-1-waltz.json) |
 | Amaekata wa Kanojo Nari ni | 55880 | [55880-amaekata-wa-kanojo-nari-ni.json](./55880-amaekata-wa-kanojo-nari-ni.json) |
 | Amaemi: Longing for you | 206335 | [206335-amaemi-longing-for-you.json](./206335-amaemi-longing-for-you.json) |
 | Amagami Chotto Omake Gekijou | 345602 | [345602-amagami-chotto-omake-gekijou.json](./345602-amagami-chotto-omake-gekijou.json) |
@@ -1753,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
 | Andreas VII | 188588 | [188588-andreas-vii.json](./188588-andreas-vii.json) |
 | Andrew Lloyd Webber Musicals: Sing and Dance | 63874 | [63874-andrew-lloyd-webber-musicals-sing-and-dance.json](./63874-andrew-lloyd-webber-musicals-sing-and-dance.json) |
+| Andrew's Nightmare | 296516 | [296516-andrews-nightmare.json](./296516-andrews-nightmare.json) |
 | Andria | 339909 | [339909-andria.json](./339909-andria.json) |
 | Andrii's Horror | 52580 | [52580-andriis-horror.json](./52580-andriis-horror.json) |
 | Andro Dunos | 39622 | [39622-andro-dunos.json](./39622-andro-dunos.json) |
@@ -1871,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
 | Angry Sonic Maze | 95997 | [95997-angry-sonic-maze.json](./95997-angry-sonic-maze.json) |
 | Angry Space Bees | 149029 | [149029-angry-space-bees.json](./149029-angry-space-bees.json) |
+| Angry stone | 296533 | [296533-angry-stone.json](./296533-angry-stone.json) |
 | Angry Universe VR | 297066 | [297066-angry-universe-vr.json](./297066-angry-universe-vr.json) |
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
@@ -2644,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana: Seal of Rimsala | 312351 | [312351-arcana-seal-of-rimsala.json](./312351-arcana-seal-of-rimsala.json) |
 | Arcanamals | 274477 | [274477-arcanamals.json](./274477-arcanamals.json) |
 | Arcane Angler | 400238 | [400238-arcane-angler.json](./400238-arcane-angler.json) |
+| Arcane Array Arena | 296524 | [296524-arcane-array-arena.json](./296524-arcane-array-arena.json) |
 | Arcane Assembly | 244492 | [244492-arcane-assembly.json](./244492-arcane-assembly.json) |
 | Arcane Audit | 248888 | [248888-arcane-audit.json](./248888-arcane-audit.json) |
 | Arcane Blood: The Shattered Star | 277274 | [277274-arcane-blood-the-shattered-star.json](./277274-arcane-blood-the-shattered-star.json) |
@@ -3304,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: The Rebel Collection | 122236 | [122236-assassins-creed-the-rebel-collection.json](./122236-assassins-creed-the-rebel-collection.json) |
 | Assassin's Shadows | 331306 | [331306-assassins-shadows.json](./331306-assassins-shadows.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
+| Assassins Unleashed: The Apocalypse | 296492 | [296492-assassins-unleashed-the-apocalypse.json](./296492-assassins-unleashed-the-apocalypse.json) |
 | Assault at Wounded Ankle | 350993 | [350993-assault-at-wounded-ankle.json](./350993-assault-at-wounded-ankle.json) |
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
 | Assault Gunners HD Edition | 87854 | [87854-assault-gunners-hd-edition.json](./87854-assault-gunners-hd-edition.json) |
