@@ -2291,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meown | 348265 | [348265-meown.json](./348265-meown.json) |
 | Meowniverse | 391584 | [391584-meowniverse.json](./391584-meowniverse.json) |
 | Meowoof | 207854 | [207854-meowoof.json](./207854-meowoof.json) |
+| Meowphoria | 287205 | [287205-meowphoria.json](./287205-meowphoria.json) |
 | Mepekyon Racing | 416668 | [416668-mepekyon-racing.json](./416668-mepekyon-racing.json) |
 | MER Adventure Climbing | 370687 | [370687-mer-adventure-climbing.json](./370687-mer-adventure-climbing.json) |
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
@@ -4205,7 +4206,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Split Island: Dungeon Adventure | 220639 | [220639-moon-split-island-dungeon-adventure.json](./220639-moon-split-island-dungeon-adventure.json) |
 | Moon Surfing | 101519 | [101519-moon-surfing.json](./101519-moon-surfing.json) |
 | Moon Thirst | 310177 | [310177-moon-thirst.json](./310177-moon-thirst.json) |
+| Moon Tower: Gotta Save the Universe Real Quick | 287224 | [287224-moon-tower-gotta-save-the-universe-real-quick.json](./287224-moon-tower-gotta-save-the-universe-real-quick.json) |
 | Moon Waltz | 201291 | [201291-moon-waltz.json](./201291-moon-waltz.json) |
+| Moon Wars | 287233 | [287233-moon-wars.json](./287233-moon-wars.json) |
 | Moon Whistle | 166142 | [166142-moon-whistle.json](./166142-moon-whistle.json) |
 | Moon64 | 339946 | [339946-moon64.json](./339946-moon64.json) |
 | Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
@@ -4495,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Championship 26 | 385089 | [385089-moto-championship-26.json](./385089-moto-championship-26.json) |
 | Moto Extreme | 70342 | [70342-moto-extreme.json](./70342-moto-extreme.json) |
 | Moto GP: Ultimate racing technology | 8268 | [8268-moto-gp-ultimate-racing-technology.json](./8268-moto-gp-ultimate-racing-technology.json) |
+| Moto Knight | 287203 | [287203-moto-knight.json](./287203-moto-knight.json) |
 | Moto Mania Dirt Bike Challenge | 102829 | [102829-moto-mania-dirt-bike-challenge.json](./102829-moto-mania-dirt-bike-challenge.json) |
 | Moto Mouse Stunt Mania | 193475 | [193475-moto-mouse-stunt-mania.json](./193475-moto-mouse-stunt-mania.json) |
 | Moto Parkour | 293640 | [293640-moto-parkour.json](./293640-moto-parkour.json) |
@@ -5260,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Moon Mart | 212467 | [212467-my-moon-mart.json](./212467-my-moon-mart.json) |
 | My Moorhen | 282549 | [282549-my-moorhen.json](./282549-my-moorhen.json) |
 | My Music Label | 402410 | [402410-my-music-label.json](./402410-my-music-label.json) |
+| My Music Oasis | 287204 | [287204-my-music-oasis.json](./287204-my-music-oasis.json) |
 | My name is human | 153927 | [153927-my-name-is-human.json](./153927-my-name-is-human.json) |
 | My Name is Mayo 3 | 200699 | [200699-my-name-is-mayo-3.json](./200699-my-name-is-mayo-3.json) |
 | My Name is Sarah | 129221 | [129221-my-name-is-sarah.json](./129221-my-name-is-sarah.json) |
