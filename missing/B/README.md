@@ -91,6 +91,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back 4 Blood: Annual Pass | 293917 | [293917-back-4-blood-annual-pass.json](./293917-back-4-blood-annual-pass.json) |
 | Back 4 Blood: Children of the Worm | 215136 | [215136-back-4-blood-children-of-the-worm.json](./215136-back-4-blood-children-of-the-worm.json) |
 | Back 4 Blood: Day One Steelbook Edition | 252174 | [252174-back-4-blood-day-one-steelbook-edition.json](./252174-back-4-blood-day-one-steelbook-edition.json) |
+| Back 4 Blood: Fort Hope Elite Weapon Skins | 323952 | [323952-back-4-blood-fort-hope-elite-weapon-skins.json](./323952-back-4-blood-fort-hope-elite-weapon-skins.json) |
+| Back 4 Blood: Special Edition | 323953 | [323953-back-4-blood-special-edition.json](./323953-back-4-blood-special-edition.json) |
 | Back 4 Blood: Ultimate Edition | 141889 | [141889-back-4-blood-ultimate-edition.json](./141889-back-4-blood-ultimate-edition.json) |
 | Back 4 More | 338185 | [338185-back-4-more.json](./338185-back-4-more.json) |
 | Back Again | 192507 | [192507-back-again.json](./192507-back-again.json) |
@@ -311,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balancefield | 180826 | [180826-balancefield.json](./180826-balancefield.json) |
 | Balancing Cats | 330833 | [330833-balancing-cats.json](./330833-balancing-cats.json) |
 | Balatro: Cryptid | 331968 | [331968-balatro-cryptid.json](./331968-balatro-cryptid.json) |
+| Balatro: Special Edition | 323893 | [323893-balatro-special-edition.json](./323893-balatro-special-edition.json) |
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
@@ -4107,6 +4110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Wrap Frenzy | 233236 | [233236-bubble-wrap-frenzy.json](./233236-bubble-wrap-frenzy.json) |
 | Bubble Xmas | 57663 | [57663-bubble-xmas.json](./57663-bubble-xmas.json) |
 | Bubble's Travel | 387337 | [387337-bubbles-travel.json](./387337-bubbles-travel.json) |
+| BubbleBeast DigiDungeon | 323925 | [323925-bubblebeast-digidungeon.json](./323925-bubblebeast-digidungeon.json) |
 | Bubbles | 38537 | [38537-bubbles.json](./38537-bubbles.json) |
 | Bubbles Master | 230848 | [230848-bubbles-master.json](./230848-bubbles-master.json) |
 | Bubbles Shot | 187430 | [187430-bubbles-shot.json](./187430-bubbles-shot.json) |
