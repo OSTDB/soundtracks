@@ -2189,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Woods | 103762 | [103762-the-darkest-woods.json](./103762-the-darkest-woods.json) |
 | The Darkest Woods 2 | 111711 | [111711-the-darkest-woods-2.json](./111711-the-darkest-woods-2.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
+| The Darkside Detective Duology | 291586 | [291586-the-darkside-detective-duology.json](./291586-the-darkside-detective-duology.json) |
 | The Dating Game | 65534 | [65534-the-dating-game.json](./65534-the-dating-game.json) |
 | The Dawn | 284349 | [284349-the-dawn.json](./284349-the-dawn.json) |
 | The Dawn is Inevitable | 249461 | [249461-the-dawn-is-inevitable.json](./249461-the-dawn-is-inevitable.json) |
