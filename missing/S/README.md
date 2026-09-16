@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salto | 149579 | [149579-salto.json](./149579-salto.json) |
 | Salto Mortadella | 297212 | [297212-salto-mortadella.json](./297212-salto-mortadella.json) |
 | Saltwater | 384517 | [384517-saltwater.json](./384517-saltwater.json) |
+| Saltwater Bodies | 325645 | [325645-saltwater-bodies.json](./325645-saltwater-bodies.json) |
 | Saltwater Shells | 250642 | [250642-saltwater-shells.json](./250642-saltwater-shells.json) |
 | Salty Dogs | 401476 | [401476-salty-dogs.json](./401476-salty-dogs.json) |
 | Salubrious Scales | 167265 | [167265-salubrious-scales.json](./167265-salubrious-scales.json) |
@@ -1376,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
+| Senpai and the Mysterious Island | 325686 | [325686-senpai-and-the-mysterious-island.json](./325686-senpai-and-the-mysterious-island.json) |
 | Senpai ga Imouto no Saigo no Natsu | 406199 | [406199-senpai-ga-imouto-no-saigo-no-natsu.json](./406199-senpai-ga-imouto-no-saigo-no-natsu.json) |
 | Senpie | 374048 | [374048-senpie.json](./374048-senpie.json) |
 | Senran Kagura | 102788 | [102788-senran-kagura.json](./102788-senran-kagura.json) |
@@ -3630,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile Town | 338191 | [338191-smile-town.json](./338191-smile-town.json) |
 | SmileTris 2 | 70967 | [70967-smiletris-2.json](./70967-smiletris-2.json) |
 | SmileTris 3 | 70329 | [70329-smiletris-3.json](./70329-smiletris-3.json) |
+| Smiley Dusty | 325697 | [325697-smiley-dusty.json](./325697-smiley-dusty.json) |
 | Smiley's Revenge | 140533 | [140533-smileys-revenge.json](./140533-smileys-revenge.json) |
 | Smileys War | 234901 | [234901-smileys-war.json](./234901-smileys-war.json) |
 | Smiling Misery | 333103 | [333103-smiling-misery.json](./333103-smiling-misery.json) |
@@ -4601,6 +4604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic With a Gun | 331977 | [331977-sonic-with-a-gun.json](./331977-sonic-with-a-gun.json) |
 | Sonic World | 239068 | [239068-sonic-world.json](./239068-sonic-world.json) |
 | Sonic X Shadow Generations: Day One Edition | 381127 | [381127-sonic-x-shadow-generations-day-one-edition.json](./381127-sonic-x-shadow-generations-day-one-edition.json) |
+| Sonic X Shadow Generations: Sonic the Hedgehog 3 Movie Pack | 325688 | [325688-sonic-x-shadow-generations-sonic-the-hedgehog-3-movie-pack.json](./325688-sonic-x-shadow-generations-sonic-the-hedgehog-3-movie-pack.json) |
 | Sonic X-Treme | 336383 | [336383-sonic-x-treme.json](./336383-sonic-x-treme.json) |
 | Sonic X-Treme Revitalized | 326953 | [326953-sonic-x-treme-revitalized.json](./326953-sonic-x-treme-revitalized.json) |
 | Sonic X: Emerald Grab | 269876 | [269876-sonic-x-emerald-grab.json](./269876-sonic-x-emerald-grab.json) |
@@ -4790,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
 | Soulash 2 | 249194 | [249194-soulash-2.json](./249194-soulash-2.json) |
 | Soulblade: Dawnbreaker | 380003 | [380003-soulblade-dawnbreaker.json](./380003-soulblade-dawnbreaker.json) |
+| Soulblaze | 325674 | [325674-soulblaze.json](./325674-soulblaze.json) |
 | Soulborn | 132183 | [132183-soulborn.json](./132183-soulborn.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
 | SoulCalibur II | 1565 | [1565-soulcalibur-ii.json](./1565-soulcalibur-ii.json) |
@@ -5572,6 +5577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit and Katana | 191190 | [191190-spirit-and-katana.json](./191190-spirit-and-katana.json) |
 | Spirit Catcher 93' | 383357 | [383357-spirit-catcher-93.json](./383357-spirit-catcher-93.json) |
 | Spirit City: Lofi Sessions | 263016 | [263016-spirit-city-lofi-sessions.json](./263016-spirit-city-lofi-sessions.json) |
+| Spirit City: Lofi Sessions - Cozy Kitchen | 325655 | [325655-spirit-city-lofi-sessions-cozy-kitchen.json](./325655-spirit-city-lofi-sessions-cozy-kitchen.json) |
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
 | Spirit Drop | 334746 | [334746-spirit-drop.json](./334746-spirit-drop.json) |
 | Spirit Eyes | 211188 | [211188-spirit-eyes.json](./211188-spirit-eyes.json) |
@@ -8704,6 +8710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive The Unknown | 246623 | [246623-survive-the-unknown.json](./246623-survive-the-unknown.json) |
 | Survive Till 100 Years Old | 339117 | [339117-survive-till-100-years-old.json](./339117-survive-till-100-years-old.json) |
 | Survive: Battle Royale | 135817 | [135817-survive-battle-royale.json](./135817-survive-battle-royale.json) |
+| Survive: Frost Bite | 325710 | [325710-survive-frost-bite.json](./325710-survive-frost-bite.json) |
 | Survive.io Battle Ground | 100139 | [100139-survive-io-battle-ground.json](./100139-survive-io-battle-ground.json) |
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
