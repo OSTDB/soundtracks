@@ -2332,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies Adventures | 77968 | [77968-plants-vs-zombies-adventures.json](./77968-plants-vs-zombies-adventures.json) |
 | Plants vs. Zombies Delturbia | 343926 | [343926-plants-vs-zombies-delturbia.json](./343926-plants-vs-zombies-delturbia.json) |
 | Plants vs. Zombies: Garden Warfare 2 | 11148 | [11148-plants-vs-zombies-garden-warfare-2.json](./11148-plants-vs-zombies-garden-warfare-2.json) |
+| Plants vs. Zombies: Original Edition | 310568 | [310568-plants-vs-zombies-original-edition.json](./310568-plants-vs-zombies-original-edition.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
