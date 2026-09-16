@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make It Fly! | 224014 | [224014-make-it-fly.json](./224014-make-it-fly.json) |
 | Make It In Time | 214164 | [214164-make-it-in-time.json](./214164-make-it-in-time.json) |
 | Make it! Crepe | 315839 | [315839-make-it-crepe.json](./315839-make-it-crepe.json) |
+| Make it! Ikayaki | 294837 | [294837-make-it-ikayaki.json](./294837-make-it-ikayaki.json) |
 | Make it! Oden | 328503 | [328503-make-it-oden.json](./328503-make-it-oden.json) |
 | Make it! Shaved Ice | 409545 | [409545-make-it-shaved-ice.json](./409545-make-it-shaved-ice.json) |
 | Make Magic Great Again | 391031 | [391031-make-magic-great-again.json](./391031-make-magic-great-again.json) |
@@ -1144,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marrow | 269569 | [269569-marrow.json](./269569-marrow.json) |
 | Mars | 91393 | [91393-mars.json](./91393-mars.json) |
 | Mars 2030 | 51519 | [51519-mars-2030.json](./51519-mars-2030.json) |
+| Mars Assault: 3D Shooter | 294849 | [294849-mars-assault-3d-shooter.json](./294849-mars-assault-3d-shooter.json) |
 | Mars Base Excavation Incident | 271746 | [271746-mars-base-excavation-incident.json](./271746-mars-base-excavation-incident.json) |
 | Mars Colony Builder | 151145 | [151145-mars-colony-builder.json](./151145-mars-colony-builder.json) |
 | Mars Dash | 224013 | [224013-mars-dash.json](./224013-mars-dash.json) |
@@ -3499,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixtape Fever | 177004 | [177004-mixtape-fever.json](./177004-mixtape-fever.json) |
 | Mixx Island: Remix Plus - Amazing Edition | 290431 | [290431-mixx-island-remix-plus-amazing-edition.json](./290431-mixx-island-remix-plus-amazing-edition.json) |
 | Mixx Island: Remix Plus - Happy Edition | 287124 | [287124-mixx-island-remix-plus-happy-edition.json](./287124-mixx-island-remix-plus-happy-edition.json) |
+| Mixx Island: Remix Plus - Magnificent Edition | 294830 | [294830-mixx-island-remix-plus-magnificent-edition.json](./294830-mixx-island-remix-plus-magnificent-edition.json) |
 | Mixx Island: Remix Plus - Superb Edition | 298573 | [298573-mixx-island-remix-plus-superb-edition.json](./298573-mixx-island-remix-plus-superb-edition.json) |
 | Mixx Island: Remix Plus - Ultra Definitive | 316274 | [316274-mixx-island-remix-plus-ultra-definitive.json](./316274-mixx-island-remix-plus-ultra-definitive.json) |
 | Mixx Island: Remix Plus - Ultra Special | 308820 | [308820-mixx-island-remix-plus-ultra-special.json](./308820-mixx-island-remix-plus-ultra-special.json) |
@@ -4515,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
+| Motorcycle Extreme Driver: Moto Racing Simulator | 294836 | [294836-motorcycle-extreme-driver-moto-racing-simulator.json](./294836-motorcycle-extreme-driver-moto-racing-simulator.json) |
 | Motorcycle Girl | 402984 | [402984-motorcycle-girl.json](./402984-motorcycle-girl.json) |
 | Motorcycle Mechanic Simulator 2021 | 142478 | [142478-motorcycle-mechanic-simulator-2021.json](./142478-motorcycle-mechanic-simulator-2021.json) |
 | Motorcycle Racing VR | 226725 | [226725-motorcycle-racing-vr.json](./226725-motorcycle-racing-vr.json) |
@@ -5210,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Riding Champion | 109006 | [109006-my-little-riding-champion.json](./109006-my-little-riding-champion.json) |
 | My Little Sister Callie | 321767 | [321767-my-little-sister-callie.json](./321767-my-little-sister-callie.json) |
 | My Little Spider | 374616 | [374616-my-little-spider.json](./374616-my-little-spider.json) |
+| My Little Universe: Complete Edition | 294825 | [294825-my-little-universe-complete-edition.json](./294825-my-little-universe-complete-edition.json) |
 | My Little Universe: Demodium | 286542 | [286542-my-little-universe-demodium.json](./286542-my-little-universe-demodium.json) |
 | My Little Work: Garage | 89180 | [89180-my-little-work-garage.json](./89180-my-little-work-garage.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
