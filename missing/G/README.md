@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic II: Gold Edition | 29207 | [29207-gothic-ii-gold-edition.json](./29207-gothic-ii-gold-edition.json) |
 | Gothic II: The Night of the Raven | 2481 | [2481-gothic-ii-the-night-of-the-raven.json](./2481-gothic-ii-the-night-of-the-raven.json) |
 | Gothic Masquerade HD | 146864 | [146864-gothic-masquerade-hd.json](./146864-gothic-masquerade-hd.json) |
+| Gothic Remake Collector's Edition | 299293 | [299293-gothic-remake-collectors-edition.json](./299293-gothic-remake-collectors-edition.json) |
 | Gothic Survival | 201260 | [201260-gothic-survival.json](./201260-gothic-survival.json) |
 | Gothic: Playable Teaser | 333956 | [333956-gothic-playable-teaser.json](./333956-gothic-playable-teaser.json) |
 | GothicDM | 143039 | [143039-gothicdm.json](./143039-gothicdm.json) |
