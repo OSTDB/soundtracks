@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
 | Hero Well | 249200 | [249200-hero-well.json](./249200-hero-well.json) |
 | Hero World | 322376 | [322376-hero-world.json](./322376-hero-world.json) |
+| Hero World 2 | 329129 | [329129-hero-world-2.json](./329129-hero-world-2.json) |
 | Hero x Hero | 406780 | [406780-hero-x-hero.json](./406780-hero-x-hero.json) |
 | Hero Zex | 191254 | [191254-hero-zex.json](./191254-hero-zex.json) |
 | Hero: Flood Rescue | 118428 | [118428-hero-flood-rescue.json](./118428-hero-flood-rescue.json) |
@@ -2807,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: The Forces of Nature | 15538 | [15538-hugo-the-forces-of-nature.json](./15538-hugo-the-forces-of-nature.json) |
 | Hugo: The Quest for the Sunstones | 44743 | [44743-hugo-the-quest-for-the-sunstones.json](./44743-hugo-the-quest-for-the-sunstones.json) |
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
+| Hullbreaker | 329157 | [329157-hullbreaker.json](./329157-hullbreaker.json) |
 | Hullbreakers | 240792 | [240792-hullbreakers.json](./240792-hullbreakers.json) |
 | Hulu Has Live Sports '20: The Video Game | 125457 | [125457-hulu-has-live-sports-20-the-video-game.json](./125457-hulu-has-live-sports-20-the-video-game.json) |
 | Hululuup | 239907 | [239907-hululuup.json](./239907-hululuup.json) |
