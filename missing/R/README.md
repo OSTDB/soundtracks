@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reeve | 223463 | [223463-reeve.json](./223463-reeve.json) |
 | Refactor | 35928 | [35928-refactor.json](./35928-refactor.json) |
 | Refantasia: Charm and Conquer | 200744 | [200744-refantasia-charm-and-conquer.json](./200744-refantasia-charm-and-conquer.json) |
+| Refarm | 312178 | [312178-refarm.json](./312178-refarm.json) |
 | Refbals | 392272 | [392272-refbals.json](./392272-refbals.json) |
 | Refidenptio | 258988 | [258988-refidenptio.json](./258988-refidenptio.json) |
 | Refind Self: The Personality Test Game | 265960 | [265960-refind-self-the-personality-test-game.json](./265960-refind-self-the-personality-test-game.json) |
@@ -1494,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Racer | 148469 | [148469-retro-racer.json](./148469-retro-racer.json) |
 | Retro Racing 2 | 373614 | [373614-retro-racing-2.json](./373614-retro-racing-2.json) |
 | Retro Rail Go! | 351104 | [351104-retro-rail-go.json](./351104-retro-rail-go.json) |
+| Retro Relics | 312194 | [312194-retro-relics.json](./312194-retro-relics.json) |
 | Retro Revolution 2 | 63230 | [63230-retro-revolution-2.json](./63230-retro-revolution-2.json) |
 | Retro Rewind: Video Store Simulator | 346334 | [346334-retro-rewind-video-store-simulator.json](./346334-retro-rewind-video-store-simulator.json) |
 | Retro Road Rumble | 84843 | [84843-retro-road-rumble.json](./84843-retro-road-rumble.json) |
@@ -1573,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reus 2: Grasslands | 401682 | [401682-reus-2-grasslands.json](./401682-reus-2-grasslands.json) |
 | Reus 2: Supporter Pack | 312031 | [312031-reus-2-supporter-pack.json](./312031-reus-2-supporter-pack.json) |
 | Rev. Noir | 389436 | [389436-rev-noir.json](./389436-rev-noir.json) |
+| Rev'd Up Racing | 312195 | [312195-revd-up-racing.json](./312195-revd-up-racing.json) |
 | Revealed | 388705 | [388705-revealed.json](./388705-revealed.json) |
 | Revelation | 263510 | [263510-revelation.json](./263510-revelation.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
