@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscuritas | 18431 | [18431-obscuritas.json](./18431-obscuritas.json) |
 | Obscurity | 99661 | [99661-obscurity.json](./99661-obscurity.json) |
 | Obscurum | 276184 | [276184-obscurum.json](./276184-obscurum.json) |
+| Observation at Freddy's | 318639 | [318639-observation-at-freddys.json](./318639-observation-at-freddys.json) |
 | Observation Daruma Log | 400262 | [400262-observation-daruma-log.json](./400262-observation-daruma-log.json) |
 | Observe | 410313 | [410313-observe.json](./410313-observe.json) |
 | Observer | 265130 | [265130-observer.json](./265130-observer.json) |
