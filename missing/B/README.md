@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
 | Bad Luck Cat | 183024 | [183024-bad-luck-cat.json](./183024-bad-luck-cat.json) |
+| Bad Mechanic | 294297 | [294297-bad-mechanic.json](./294297-bad-mechanic.json) |
 | Bad Mojo | 604 | [604-bad-mojo.json](./604-bad-mojo.json) |
 | Bad Mojo: Redux | 10020 | [10020-bad-mojo-redux.json](./10020-bad-mojo-redux.json) |
 | Bad Mojos | 119717 | [119717-bad-mojos.json](./119717-bad-mojos.json) |
@@ -1818,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyblade x Evobattle: Digital Beybooster Vol. 3 | 378879 | [378879-beyblade-x-evobattle-digital-beybooster-vol-3.json](./378879-beyblade-x-evobattle-digital-beybooster-vol-3.json) |
 | Beyblade: Metal Fusion Cyber Pegasus | 48033 | [48033-beyblade-metal-fusion-cyber-pegasus.json](./48033-beyblade-metal-fusion-cyber-pegasus.json) |
 | Beyond | 222887 | [222887-beyond.json](./222887-beyond.json) |
+| Beyond | 294256 | [294256-beyond.json](./294256-beyond.json) |
 | Beyond a Steel Sky | 116634 | [116634-beyond-a-steel-sky.json](./116634-beyond-a-steel-sky.json) |
 | Beyond A Steel Sky: Utopia Edition | 170029 | [170029-beyond-a-steel-sky-utopia-edition.json](./170029-beyond-a-steel-sky-utopia-edition.json) |
 | Beyond Astra | 319187 | [319187-beyond-astra.json](./319187-beyond-astra.json) |
@@ -2273,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bite Size Terrors: Eye Candy | 272836 | [272836-bite-size-terrors-eye-candy.json](./272836-bite-size-terrors-eye-candy.json) |
 | Bite the Bullet | 108770 | [108770-bite-the-bullet.json](./108770-bite-the-bullet.json) |
 | Biters & Bullets | 203908 | [203908-biters-and-bullets.json](./203908-biters-and-bullets.json) |
+| Bitesize Heroes: Forest Defender | 294303 | [294303-bitesize-heroes-forest-defender.json](./294303-bitesize-heroes-forest-defender.json) |
 | Bitfighter | 47275 | [47275-bitfighter.json](./47275-bitfighter.json) |
 | Bitgram | 55157 | [55157-bitgram.json](./55157-bitgram.json) |
 | Bitmap Bureau Collection | 287089 | [287089-bitmap-bureau-collection.json](./287089-bitmap-bureau-collection.json) |
