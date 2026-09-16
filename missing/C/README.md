@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candle Flame in the Wind | 284327 | [284327-candle-flame-in-the-wind.json](./284327-candle-flame-in-the-wind.json) |
 | Candle Prick | 185609 | [185609-candle-prick.json](./185609-candle-prick.json) |
 | Candle Under Water | 124173 | [124173-candle-under-water.json](./124173-candle-under-water.json) |
+| Candle Wood | 315115 | [315115-candle-wood.json](./315115-candle-wood.json) |
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
 | Candles of the Damned | 271491 | [271491-candles-of-the-damned.json](./271491-candles-of-the-damned.json) |
 | Candy | 104011 | [104011-candy.json](./104011-candy.json) |
@@ -1034,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catharsis | 195791 | [195791-catharsis.json](./195791-catharsis.json) |
 | Cathedral: Crow's Curse | 352757 | [352757-cathedral-crows-curse.json](./352757-cathedral-crows-curse.json) |
 | Catherine | 2151 | [2151-catherine.json](./2151-catherine.json) |
+| Catherine and the Spirit World | 315106 | [315106-catherine-and-the-spirit-world.json](./315106-catherine-and-the-spirit-world.json) |
 | Catherine Ragnor and the Legend of the Flying Dutchman | 189113 | [189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json](./189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json) |
 | Catherine: Full Body - Heart's Desire Premium Edition | 72067 | [72067-catherine-full-body-hearts-desire-premium-edition.json](./72067-catherine-full-body-hearts-desire-premium-edition.json) |
 | CatHotel | 256531 | [256531-cathotel.json](./256531-cathotel.json) |
@@ -2474,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb Fling | 239636 | [239636-climb-fling.json](./239636-climb-fling.json) |
 | Climb It | 273910 | [273910-climb-it.json](./273910-climb-it.json) |
 | Climb out of Hell | 343322 | [343322-climb-out-of-hell.json](./343322-climb-out-of-hell.json) |
+| Climb Quest | 315113 | [315113-climb-quest.json](./315113-climb-quest.json) |
 | Climb the Tower | 157208 | [157208-climb-the-tower.json](./157208-climb-the-tower.json) |
 | Climb the Tower | 268185 | [268185-climb-the-tower.json](./268185-climb-the-tower.json) |
 | Climber | 269843 | [269843-climber.json](./269843-climber.json) |
@@ -2869,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Dark Castle | 334678 | [334678-color-dark-castle.json](./334678-color-dark-castle.json) |
 | Color DJ | 265418 | [265418-color-dj.json](./265418-color-dj.json) |
 | Color Dots Connect | 148569 | [148569-color-dots-connect.json](./148569-color-dots-connect.json) |
+| Color Fan | 315059 | [315059-color-fan.json](./315059-color-fan.json) |
 | Color Fear | 296656 | [296656-color-fear.json](./296656-color-fear.json) |
 | Color Fusion Fever | 278165 | [278165-color-fusion-fever.json](./278165-color-fusion-fever.json) |
 | Color FX Basketball | 245539 | [245539-color-fx-basketball.json](./245539-color-fx-basketball.json) |
@@ -3275,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connection | 322574 | [322574-connection.json](./322574-connection.json) |
 | Connection Haunted | 130152 | [130152-connection-haunted.json](./130152-connection-haunted.json) |
 | Connection reHaunted | 146822 | [146822-connection-rehaunted.json](./146822-connection-rehaunted.json) |
+| Connections | 315093 | [315093-connections.json](./315093-connections.json) |
 | Connectris | 79232 | [79232-connectris.json](./79232-connectris.json) |
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
 | Conquer Lands | 372464 | [372464-conquer-lands.json](./372464-conquer-lands.json) |
