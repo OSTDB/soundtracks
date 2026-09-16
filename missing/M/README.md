@@ -1749,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval: Total War - Gold Edition | 35894 | [35894-medieval-total-war-gold-edition.json](./35894-medieval-total-war-gold-edition.json) |
 | Medieval: Total War - Viking Invasion | 444 | [444-medieval-total-war-viking-invasion.json](./444-medieval-total-war-viking-invasion.json) |
 | Medievalfield | 200695 | [200695-medievalfield.json](./200695-medievalfield.json) |
+| MediEvil II | 329195 | [329195-medievil-ii.json](./329195-medievil-ii.json) |
 | Meditation Journey: VR Zen Garden | 167785 | [167785-meditation-journey-vr-zen-garden.json](./167785-meditation-journey-vr-zen-garden.json) |
 | Medival Hustle | 304578 | [304578-medival-hustle.json](./304578-medival-hustle.json) |
 | Medusa Frontier | 196889 | [196889-medusa-frontier.json](./196889-medusa-frontier.json) |
@@ -2192,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Meadow! | 108483 | [108483-merge-meadow.json](./108483-merge-meadow.json) |
 | Merge Military | 208970 | [208970-merge-military.json](./208970-merge-military.json) |
 | Merge Miners | 229372 | [229372-merge-miners.json](./229372-merge-miners.json) |
+| Merge Numbers | 329197 | [329197-merge-numbers.json](./329197-merge-numbers.json) |
 | Merge Pineapple | 339286 | [339286-merge-pineapple.json](./339286-merge-pineapple.json) |
 | Merge Rainbow Friend | 224002 | [224002-merge-rainbow-friend.json](./224002-merge-rainbow-friend.json) |
 | Merge Town! | 87347 | [87347-merge-town.json](./87347-merge-town.json) |
@@ -4060,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Invaders! | 273100 | [273100-more-invaders.json](./273100-more-invaders.json) |
 | More of a Kind | 185597 | [185597-more-of-a-kind.json](./185597-more-of-a-kind.json) |
 | More or Less | 261256 | [261256-more-or-less.json](./261256-more-or-less.json) |
+| More Panda: Slot Creator | 329165 | [329165-more-panda-slot-creator.json](./329165-more-panda-slot-creator.json) |
 | More Than Words | 361720 | [361720-more-than-words.json](./361720-more-than-words.json) |
 | More Zombies | 234905 | [234905-more-zombies.json](./234905-more-zombies.json) |
 | More/Less | 351044 | [351044-more-less.json](./351044-more-less.json) |
