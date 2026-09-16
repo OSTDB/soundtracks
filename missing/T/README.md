@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Ben the Dog | 191877 | [191877-talking-ben-the-dog.json](./191877-talking-ben-the-dog.json) |
 | Talking Caillou | 325678 | [325678-talking-caillou.json](./325678-talking-caillou.json) |
 | Talking Ginger 2 | 344922 | [344922-talking-ginger-2.json](./344922-talking-ginger-2.json) |
+| Talking in Circles | 302491 | [302491-talking-in-circles.json](./302491-talking-in-circles.json) |
 | Talking in the Distance | 179159 | [179159-talking-in-the-distance.json](./179159-talking-in-the-distance.json) |
 | Talking Larry the Bird | 344921 | [344921-talking-larry-the-bird.json](./344921-talking-larry-the-bird.json) |
 | Talking Phrasebook | 85424 | [85424-talking-phrasebook.json](./85424-talking-phrasebook.json) |
@@ -1881,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the Dark Strangler | 337678 | [337678-the-case-of-the-dark-strangler.json](./337678-the-case-of-the-dark-strangler.json) |
 | The Case of the Golden Idol | 166722 | [166722-the-case-of-the-golden-idol.json](./166722-the-case-of-the-golden-idol.json) |
 | The Case of the Muffin Diver | 70371 | [70371-the-case-of-the-muffin-diver.json](./70371-the-case-of-the-muffin-diver.json) |
+| The Case of the Murdered Matriarch | 302500 | [302500-the-case-of-the-murdered-matriarch.json](./302500-the-case-of-the-murdered-matriarch.json) |
 | The Case of the Mysterious Maulings | 306959 | [306959-the-case-of-the-mysterious-maulings.json](./306959-the-case-of-the-mysterious-maulings.json) |
 | The Case of the Serialized Killer | 209720 | [209720-the-case-of-the-serialized-killer.json](./209720-the-case-of-the-serialized-killer.json) |
 | The Cases of the Thousands Shogi Records | 122350 | [122350-the-cases-of-the-thousands-shogi-records.json](./122350-the-cases-of-the-thousands-shogi-records.json) |
@@ -5157,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's No Easter Eggs | 273630 | [273630-theres-no-easter-eggs.json](./273630-theres-no-easter-eggs.json) |
 | There's No Monsters | 306991 | [306991-theres-no-monsters.json](./306991-theres-no-monsters.json) |
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
+| There's No Socks | 302506 | [302506-theres-no-socks.json](./302506-theres-no-socks.json) |
 | There's No Socks: The Extra Challenge | 302940 | [302940-theres-no-socks-the-extra-challenge.json](./302940-theres-no-socks-the-extra-challenge.json) |
 | There's No Such Thing As Bad Publicity | 191798 | [191798-theres-no-such-thing-as-bad-publicity.json](./191798-theres-no-such-thing-as-bad-publicity.json) |
 | There's No Way A Pastry Chef Could Be This Strong! | 82832 | [82832-theres-no-way-a-pastry-chef-could-be-this-strong.json](./82832-theres-no-way-a-pastry-chef-could-be-this-strong.json) |
