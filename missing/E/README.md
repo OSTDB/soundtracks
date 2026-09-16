@@ -1816,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
 | Exhibition | 60014 | [60014-exhibition.json](./60014-exhibition.json) |
 | Exidium Corp | 21327 | [21327-exidium-corp.json](./21327-exidium-corp.json) |
+| Exil | 318607 | [318607-exil.json](./318607-exil.json) |
 | Exile | 12068 | [12068-exile.json](./12068-exile.json) |
 | Exile | 342777 | [342777-exile.json](./342777-exile.json) |
 | Exile II: Crystal Souls | 7781 | [7781-exile-ii-crystal-souls.json](./7781-exile-ii-crystal-souls.json) |
