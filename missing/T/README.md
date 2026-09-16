@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo: Kiken na Futari - Zenpen | 41413 | [41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json](./41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json) |
 | Tantei Jinguji Saburo: Shinjuku Chuuou Kouen Satsujin Jiken | 41412 | [41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json](./41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Eigou-kai Jiken | 299763 | [299763-tantei-kibukawa-ryousuke-jiken-tan-eigou-kai-jiken.json](./299763-tantei-kibukawa-ryousuke-jiken-tan-eigou-kai-jiken.json) |
+| Tantei Kibukawa Ryousuke Jiken-tan: Vol. 1 - Kamen Gensou Satsujin Jiken | 293239 | [293239-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json](./293239-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 3 - Shisha no Rakuen | 293903 | [293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
 | Tantei Opera Milky Holmes 2 | 150117 | [150117-tantei-opera-milky-holmes-2.json](./150117-tantei-opera-milky-holmes-2.json) |
@@ -1489,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure Pals | 22359 | [22359-the-adventure-pals.json](./22359-the-adventure-pals.json) |
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
 | The Adventurer | 159365 | [159365-the-adventurer.json](./159365-the-adventurer.json) |
+| The Adventures in Carnal Hell | 293201 | [293201-the-adventures-in-carnal-hell.json](./293201-the-adventures-in-carnal-hell.json) |
 | The Adventures of 00 Dilly | 124136 | [124136-the-adventures-of-00-dilly.json](./124136-the-adventures-of-00-dilly.json) |
 | The Adventures of a Legend - Beyond Survival | 27702 | [27702-the-adventures-of-a-legend-beyond-survival.json](./27702-the-adventures-of-a-legend-beyond-survival.json) |
 | The Adventures of Alvis | 28925 | [28925-the-adventures-of-alvis.json](./28925-the-adventures-of-alvis.json) |
@@ -3938,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prince is Dead | 239877 | [239877-the-prince-is-dead.json](./239877-the-prince-is-dead.json) |
 | The Prince's Keeper | 412310 | [412310-the-princes-keeper.json](./412310-the-princes-keeper.json) |
 | The Princess and the Frog | 17753 | [17753-the-princess-and-the-frog.json](./17753-the-princess-and-the-frog.json) |
+| The Princess and the Pauper: Storybook Adventures | 293199 | [293199-the-princess-and-the-pauper-storybook-adventures.json](./293199-the-princess-and-the-pauper-storybook-adventures.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
 | The Princess of the Tower wants a Hero | 200632 | [200632-the-princess-of-the-tower-wants-a-hero.json](./200632-the-princess-of-the-tower-wants-a-hero.json) |
 | The Princess Swap | 313869 | [313869-the-princess-swap.json](./313869-the-princess-swap.json) |
@@ -4179,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Island of Dr. Quandary | 46654 | [46654-the-secret-island-of-dr-quandary.json](./46654-the-secret-island-of-dr-quandary.json) |
 | The Secret of Cat Island | 194003 | [194003-the-secret-of-cat-island.json](./194003-the-secret-of-cat-island.json) |
 | The Secret of Crimson Manor | 297503 | [297503-the-secret-of-crimson-manor.json](./297503-the-secret-of-crimson-manor.json) |
+| The Secret of Crystal Mountain | 293243 | [293243-the-secret-of-crystal-mountain.json](./293243-the-secret-of-crystal-mountain.json) |
 | The Secret of Dyes | 152867 | [152867-the-secret-of-dyes.json](./152867-the-secret-of-dyes.json) |
 | The Secret of Grisly Manor | 61104 | [61104-the-secret-of-grisly-manor.json](./61104-the-secret-of-grisly-manor.json) |
 | The Secret of Maike Island | 318396 | [318396-the-secret-of-maike-island.json](./318396-the-secret-of-maike-island.json) |
@@ -6810,6 +6814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tortuga Escape | 383371 | [383371-tortuga-escape.json](./383371-tortuga-escape.json) |
 | Torture | 268464 | [268464-torture.json](./268464-torture.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
+| Tortured Souls | 293224 | [293224-tortured-souls.json](./293224-tortured-souls.json) |
 | Torus | 214725 | [214725-torus.json](./214725-torus.json) |
 | Torus Zero: Dare ga Neko wo Koroshita ka | 340384 | [340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json](./340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json) |
 | Toshi Tensou Keikaku: Eternal City | 37725 | [37725-toshi-tensou-keikaku-eternal-city.json](./37725-toshi-tensou-keikaku-eternal-city.json) |
@@ -8029,6 +8034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial PurTwitch | 396241 | [396241-trivial-purtwitch.json](./396241-trivial-purtwitch.json) |
 | Trizeal | 93063 | [93063-trizeal.json](./93063-trizeal.json) |
 | Trizeal Remix | 32927 | [32927-trizeal-remix.json](./32927-trizeal-remix.json) |
+| Trizna | 293233 | [293233-trizna.json](./293233-trizna.json) |
 | Trizzle | 355007 | [355007-trizzle.json](./355007-trizzle.json) |
 | TRL: The Rail Loaders | 266485 | [266485-trl-the-rail-loaders.json](./266485-trl-the-rail-loaders.json) |
 | Troddlers | 39029 | [39029-troddlers.json](./39029-troddlers.json) |
