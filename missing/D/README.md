@@ -3251,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doorz | 339939 | [339939-doorz.json](./339939-doorz.json) |
 | Dopamine | 295798 | [295798-dopamine.json](./295798-dopamine.json) |
 | Dopamix | 222327 | [222327-dopamix.json](./222327-dopamix.json) |
+| Dope Wars Mean Streets | 294287 | [294287-dope-wars-mean-streets.json](./294287-dope-wars-mean-streets.json) |
 | DopeMine Arena | 194556 | [194556-dopemine-arena.json](./194556-dopemine-arena.json) |
 | Doppelgänger | 275029 | [275029-doppelganger.json](./275029-doppelganger.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
@@ -4480,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Redemption | 204691 | [204691-dungeon-redemption.json](./204691-dungeon-redemption.json) |
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
 | Dungeon RPG Pikudan 2 | 222324 | [222324-dungeon-rpg-pikudan-2.json](./222324-dungeon-rpg-pikudan-2.json) |
+| Dungeon Ruins | 294294 | [294294-dungeon-ruins.json](./294294-dungeon-ruins.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Rush | 105304 | [105304-dungeon-rush.json](./105304-dungeon-rush.json) |
 | Dungeon Scavenger | 117620 | [117620-dungeon-scavenger.json](./117620-dungeon-scavenger.json) |
