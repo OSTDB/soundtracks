@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Ruler | 126926 | [126926-galactic-ruler.json](./126926-galactic-ruler.json) |
 | Galactic Rusherz | 314667 | [314667-galactic-rusherz.json](./314667-galactic-rusherz.json) |
 | Galactic Simulator | 329595 | [329595-galactic-simulator.json](./329595-galactic-simulator.json) |
+| Galactic Starfire: Squadron | 310033 | [310033-galactic-starfire-squadron.json](./310033-galactic-starfire-squadron.json) |
 | Galactic Story | 221190 | [221190-galactic-story.json](./221190-galactic-story.json) |
 | Galactic Striker | 329174 | [329174-galactic-striker.json](./329174-galactic-striker.json) |
 | Galactic Traffic Control | 325839 | [325839-galactic-traffic-control.json](./325839-galactic-traffic-control.json) |
@@ -312,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Clowns | 27806 | [27806-game-of-clowns.json](./27806-game-of-clowns.json) |
 | Game of Dice | 58793 | [58793-game-of-dice.json](./58793-game-of-dice.json) |
 | Game of Empires: Warring Realms | 230294 | [230294-game-of-empires-warring-realms.json](./230294-game-of-empires-warring-realms.json) |
+| Game of Evolution | 310024 | [310024-game-of-evolution.json](./310024-game-of-evolution.json) |
 | Game of Hearts | 348766 | [348766-game-of-hearts.json](./348766-game-of-hearts.json) |
 | Game of Hearts | 352258 | [352258-game-of-hearts.json](./352258-game-of-hearts.json) |
 | Game of Legends: Rise of Champions | 194023 | [194023-game-of-legends-rise-of-champions.json](./194023-game-of-legends-rise-of-champions.json) |
@@ -898,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost in the Shell: Arise - Stealth Hounds | 52005 | [52005-ghost-in-the-shell-arise-stealth-hounds.json](./52005-ghost-in-the-shell-arise-stealth-hounds.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Keeper | 312187 | [312187-ghost-keeper.json](./312187-ghost-keeper.json) |
+| Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
 | Ghost Master: Resurrection | 334665 | [334665-ghost-master-resurrection.json](./334665-ghost-master-resurrection.json) |
 | Ghost Mayoker | 267919 | [267919-ghost-mayoker.json](./267919-ghost-mayoker.json) |
 | Ghost Mountain | 114992 | [114992-ghost-mountain.json](./114992-ghost-mountain.json) |
@@ -1945,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grashers | 124247 | [124247-grashers.json](./124247-grashers.json) |
 | Grass Life Sim | 328450 | [328450-grass-life-sim.json](./328450-grass-life-sim.json) |
 | Grass Toucher | 373091 | [373091-grass-toucher.json](./373091-grass-toucher.json) |
+| Grassassins | 310049 | [310049-grassassins.json](./310049-grassassins.json) |
 | GrassGames Cribbage | 88220 | [88220-grassgames-cribbage.json](./88220-grassgames-cribbage.json) |
 | Grasshoping | 257670 | [257670-grasshoping.json](./257670-grasshoping.json) |
 | Grasshopper Collection | 349959 | [349959-grasshopper-collection.json](./349959-grasshopper-collection.json) |
