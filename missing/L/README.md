@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 9: Version Espanola | 268200 | [268200-lets-sing-9-version-espanola.json](./268200-lets-sing-9-version-espanola.json) |
 | Let's Sing: Radio Italia | 268190 | [268190-lets-sing-radio-italia.json](./268190-lets-sing-radio-italia.json) |
 | Let's Talk About Me | 57648 | [57648-lets-talk-about-me.json](./57648-lets-talk-about-me.json) |
+| Let's Throoow! Street Basketball Simulator | 300869 | [300869-lets-throoow-street-basketball-simulator.json](./300869-lets-throoow-street-basketball-simulator.json) |
 | Let's Watch Steamboat Willie | 319001 | [319001-lets-watch-steamboat-willie.json](./319001-lets-watch-steamboat-willie.json) |
 | Let's Worm | 115686 | [115686-lets-worm.json](./115686-lets-worm.json) |
 | Let's! Revolution! | 242101 | [242101-lets-revolution.json](./242101-lets-revolution.json) |
@@ -1128,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life and Death: A Journey of Star-Crossed Lovers | 314296 | [314296-life-and-death-a-journey-of-star-crossed-lovers.json](./314296-life-and-death-a-journey-of-star-crossed-lovers.json) |
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
 | Life as Designed | 153348 | [153348-life-as-designed.json](./153348-life-as-designed.json) |
+| Life Bubble | 300870 | [300870-life-bubble.json](./300870-life-bubble.json) |
 | Life Bubble: Gear Up Edition | 308806 | [308806-life-bubble-gear-up-edition.json](./308806-life-bubble-gear-up-edition.json) |
 | Life Force | 174945 | [174945-life-force.json](./174945-life-force.json) |
 | Life Goals | 102144 | [102144-life-goals.json](./102144-life-goals.json) |
@@ -1465,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Bushman | 346039 | [346039-little-bushman.json](./346039-little-bushman.json) |
 | Little Caesars Fractions Pizza | 77302 | [77302-little-caesars-fractions-pizza.json](./77302-little-caesars-fractions-pizza.json) |
+| Little Cat Doctor | 300846 | [300846-little-cat-doctor.json](./300846-little-cat-doctor.json) |
 | Little Cheese Works | 263193 | [263193-little-cheese-works.json](./263193-little-cheese-works.json) |
 | Little Chick | 157165 | [157165-little-chick.json](./157165-little-chick.json) |
 | Little Children's Educational Swanky Puzzles Game | 97308 | [97308-little-childrens-educational-swanky-puzzles-game.json](./97308-little-childrens-educational-swanky-puzzles-game.json) |
