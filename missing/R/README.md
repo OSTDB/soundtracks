@@ -2750,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Guns Days: Season 1 | 274213 | [274213-rose-guns-days-season-1.json](./274213-rose-guns-days-season-1.json) |
 | Rose Guns Days: Season 1 | 326598 | [326598-rose-guns-days-season-1.json](./326598-rose-guns-days-season-1.json) |
 | Rose Hips | 395037 | [395037-rose-hips.json](./395037-rose-hips.json) |
+| Rose of Longevity | 326822 | [326822-rose-of-longevity.json](./326822-rose-of-longevity.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Rose Riddle: Fairy Tale Detective - Collector's Edition | 343359 | [343359-rose-riddle-fairy-tale-detective-collectors-edition.json](./343359-rose-riddle-fairy-tale-detective-collectors-edition.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
