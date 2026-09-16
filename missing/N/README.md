@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nantara Adventures | 259001 | [259001-nantara-adventures.json](./259001-nantara-adventures.json) |
 | Nantucket: Masters of the Seven Seas | 155045 | [155045-nantucket-masters-of-the-seven-seas.json](./155045-nantucket-masters-of-the-seven-seas.json) |
 | Nanuk: The dusk of the brutes | 252401 | [252401-nanuk-the-dusk-of-the-brutes.json](./252401-nanuk-the-dusk-of-the-brutes.json) |
+| Naoki | 326270 | [326270-naoki.json](./326270-naoki.json) |
 | Naoko to Hide-bou: Kanji no Tensai 1 - Bushu-hen, Bushu no Namae ga Tanoshii Chou Kioku-hou | 268486 | [268486-naoko-to-hide-bou-kanji-no-tensai-1-bushu-hen-bushu-no-namae-ga-tanoshii-chou-kioku-hou.json](./268486-naoko-to-hide-bou-kanji-no-tensai-1-bushu-hen-bushu-no-namae-ga-tanoshii-chou-kioku-hou.json) |
 | Naoko to Hide-bou: Sansuu no Tensai 1: Wa to Sa no Bunshoudai Tsurukamezan Part I | 268488 | [268488-naoko-to-hide-bou-sansuu-no-tensai-1-wa-to-sa-no-bunshoudai-tsurukamezan-part-i.json](./268488-naoko-to-hide-bou-sansuu-no-tensai-1-wa-to-sa-no-bunshoudai-tsurukamezan-part-i.json) |
 | Naoko to Hide-bou: Sansuu no Tensai 2 - Hayasa no Bunshoudai Tsuukasan Part I | 268489 | [268489-naoko-to-hide-bou-sansuu-no-tensai-2-hayasa-no-bunshoudai-tsuukasan-part-i.json](./268489-naoko-to-hide-bou-sansuu-no-tensai-2-hayasa-no-bunshoudai-tsuukasan-part-i.json) |
