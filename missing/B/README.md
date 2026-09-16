@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bashtronaut | 263203 | [263203-bashtronaut.json](./263203-bashtronaut.json) |
 | BASIC Computer Games | 408061 | [408061-basic-computer-games.json](./408061-basic-computer-games.json) |
 | Basic Kanji Meaning Quiz | 409668 | [409668-basic-kanji-meaning-quiz.json](./409668-basic-kanji-meaning-quiz.json) |
+| Basic Platformer | 305908 | [305908-basic-platformer.json](./305908-basic-platformer.json) |
 | Basics in Airport: Education & Learning | 107127 | [107127-basics-in-airport-education-and-learning.json](./107127-basics-in-airport-education-and-learning.json) |
 | Basil and the Isles of Spice | 334213 | [334213-basil-and-the-isles-of-spice.json](./334213-basil-and-the-isles-of-spice.json) |
 | Basilisk 2000 | 243390 | [243390-basilisk-2000.json](./243390-basilisk-2000.json) |
@@ -3895,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick | 356655 | [356655-brick.json](./356655-brick.json) |
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
+| Brick Breaker Infinity | 305932 | [305932-brick-breaker-infinity.json](./305932-brick-breaker-infinity.json) |
 | Brick Breaker Premium | 104081 | [104081-brick-breaker-premium.json](./104081-brick-breaker-premium.json) |
 | Brick Breaker Unicorn | 151199 | [151199-brick-breaker-unicorn.json](./151199-brick-breaker-unicorn.json) |
 | Brick Breaker: Infinity | 331353 | [331353-brick-breaker-infinity.json](./331353-brick-breaker-infinity.json) |
