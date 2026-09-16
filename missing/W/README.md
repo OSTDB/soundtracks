@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Different? | 388013 | [388013-whats-different.json](./388013-whats-different.json) |
 | What's Her face | 201271 | [201271-whats-her-face.json](./201271-whats-her-face.json) |
 | What's in the Attic? | 140593 | [140593-whats-in-the-attic.json](./140593-whats-in-the-attic.json) |
+| What's on Agenda | 302508 | [302508-whats-on-agenda.json](./302508-whats-on-agenda.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
 | What's the Difference? Spot It | 90182 | [90182-whats-the-difference-spot-it.json](./90182-whats-the-difference-spot-it.json) |
@@ -1208,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Is You | 123549 | [123549-who-is-you.json](./123549-who-is-you.json) |
 | Who Knows Where They're Going | 184053 | [184053-who-knows-where-theyre-going.json](./184053-who-knows-where-theyre-going.json) |
 | Who Must Die | 33112 | [33112-who-must-die.json](./33112-who-must-die.json) |
+| Who Shot James R. Burnside? | 302493 | [302493-who-shot-james-r-burnside.json](./302493-who-shot-james-r-burnside.json) |
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
 | Who Wants to Be a Millionaire | 310596 | [310596-who-wants-to-be-a-millionaire.json](./310596-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 310597 | [310597-who-wants-to-be-a-millionaire.json](./310597-who-wants-to-be-a-millionaire.json) |
