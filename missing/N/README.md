@@ -1832,6 +1832,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NPC Adventure: Post-Jam Edition | 308560 | [308560-npc-adventure-post-jam-edition.json](./308560-npc-adventure-post-jam-edition.json) |
 | Npc Problems: Vertex Coloring | 126655 | [126655-npc-problems-vertex-coloring.json](./126655-npc-problems-vertex-coloring.json) |
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
+| Npool: Skins Pack 1 | 316250 | [316250-npool-skins-pack-1.json](./316250-npool-skins-pack-1.json) |
+| Npool: Skins Pack 2 | 316249 | [316249-npool-skins-pack-2.json](./316249-npool-skins-pack-2.json) |
+| Npool: Skins Pack 3 | 316248 | [316248-npool-skins-pack-3.json](./316248-npool-skins-pack-3.json) |
 | NPool: Snooker Mode | 314891 | [314891-npool-snooker-mode.json](./314891-npool-snooker-mode.json) |
 | NRA Gun Club | 20575 | [20575-nra-gun-club.json](./20575-nra-gun-club.json) |
 | Nrg | 174348 | [174348-nrg.json](./174348-nrg.json) |
