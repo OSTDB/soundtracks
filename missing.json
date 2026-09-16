@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T10:31:51.396Z",
-  "total_missing": 77581,
+  "generated_at": "2026-09-16T10:41:44.113Z",
+  "total_missing": 77590,
   "games": [
     {
       "igdb_id": 306086,
@@ -5966,11 +5966,6 @@
       "igdb_id": 133456,
       "game_name": "Agrou",
       "file": "missing/A/133456-agrou.json"
-    },
-    {
-      "igdb_id": 107240,
-      "game_name": "Aguante Imaginario",
-      "file": "missing/A/107240-aguante-imaginario.json"
     },
     {
       "igdb_id": 7747,
@@ -50958,6 +50953,11 @@
       "file": "missing/C/2151-catherine.json"
     },
     {
+      "igdb_id": 315106,
+      "game_name": "Catherine and the Spirit World",
+      "file": "missing/C/315106-catherine-and-the-spirit-world.json"
+    },
+    {
       "igdb_id": 189113,
       "game_name": "Catherine Ragnor and the Legend of the Flying Dutchman",
       "file": "missing/C/189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json"
@@ -58156,6 +58156,11 @@
       "igdb_id": 343322,
       "game_name": "Climb out of Hell",
       "file": "missing/C/343322-climb-out-of-hell.json"
+    },
+    {
+      "igdb_id": 315113,
+      "game_name": "Climb Quest",
+      "file": "missing/C/315113-climb-quest.json"
     },
     {
       "igdb_id": 157208,
@@ -191448,6 +191453,11 @@
       "file": "missing/M/255988-mask-beyond-lies.json"
     },
     {
+      "igdb_id": 315108,
+      "game_name": "Maskarable",
+      "file": "missing/M/315108-maskarable.json"
+    },
+    {
       "igdb_id": 120940,
       "game_name": "Masked",
       "file": "missing/M/120940-masked.json"
@@ -196301,6 +196311,11 @@
       "igdb_id": 224002,
       "game_name": "Merge Rainbow Friend",
       "file": "missing/M/224002-merge-rainbow-friend.json"
+    },
+    {
+      "igdb_id": 315111,
+      "game_name": "Merge Studio: Fashion Makeover",
+      "file": "missing/M/315111-merge-studio-fashion-makeover.json"
     },
     {
       "igdb_id": 323340,
@@ -206683,6 +206698,11 @@
       "file": "missing/M/393489-mother-player.json"
     },
     {
+      "igdb_id": 315107,
+      "game_name": "Mother: Beyond Bounds",
+      "file": "missing/M/315107-mother-beyond-bounds.json"
+    },
+    {
       "igdb_id": 259272,
       "game_name": "Mother: Encore",
       "file": "missing/M/259272-mother-encore.json"
@@ -206691,6 +206711,11 @@
       "igdb_id": 378199,
       "game_name": "Mother: Invasion from the Unknown",
       "file": "missing/M/378199-mother-invasion-from-the-unknown.json"
+    },
+    {
+      "igdb_id": 315103,
+      "game_name": "Mother: Rebound",
+      "file": "missing/M/315103-mother-rebound.json"
     },
     {
       "igdb_id": 320534,
@@ -206706,6 +206731,11 @@
       "igdb_id": 293623,
       "game_name": "Motherbored",
       "file": "missing/M/293623-motherbored.json"
+    },
+    {
+      "igdb_id": 315105,
+      "game_name": "Motherfunkin",
+      "file": "missing/M/315105-motherfunkin.json"
     },
     {
       "igdb_id": 229702,
@@ -218156,6 +218186,11 @@
       "igdb_id": 17140,
       "game_name": "Nightmares from the Deep 3: Davy Jones",
       "file": "missing/N/17140-nightmares-from-the-deep-3-davy-jones.json"
+    },
+    {
+      "igdb_id": 315104,
+      "game_name": "Nightmares Mansion: Scary Dreams",
+      "file": "missing/N/315104-nightmares-mansion-scary-dreams.json"
     },
     {
       "igdb_id": 31849,
@@ -256368,6 +256403,11 @@
       "file": "missing/R/158710-rapper-life-simulation.json"
     },
     {
+      "igdb_id": 315114,
+      "game_name": "Rapta",
+      "file": "missing/R/315114-rapta.json"
+    },
+    {
       "igdb_id": 352790,
       "game_name": "Raptor",
       "file": "missing/R/352790-raptor.json"
@@ -280266,6 +280306,11 @@
       "igdb_id": 313507,
       "game_name": "Shattered Dreams",
       "file": "missing/S/313507-shattered-dreams.json"
+    },
+    {
+      "igdb_id": 315109,
+      "game_name": "Shattered Earth",
+      "file": "missing/S/315109-shattered-earth.json"
     },
     {
       "igdb_id": 73258,
