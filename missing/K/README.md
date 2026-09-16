@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaya The Dog | 381595 | [381595-kaya-the-dog.json](./381595-kaya-the-dog.json) |
 | Kaya's Prophecy | 317866 | [317866-kayas-prophecy.json](./317866-kayas-prophecy.json) |
 | Kayak Photography Sim | 415109 | [415109-kayak-photography-sim.json](./415109-kayak-photography-sim.json) |
+| Kayak VR: Mirage - Soča Valley | 305363 | [305363-kayak-vr-mirage-soca-valley.json](./305363-kayak-vr-mirage-soca-valley.json) |
 | Kayaks Don't Climb | 355550 | [355550-kayaks-dont-climb.json](./355550-kayaks-dont-climb.json) |
 | Kayra Online | 139405 | [139405-kayra-online.json](./139405-kayra-online.json) |
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
@@ -1440,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunoichi Torimonocho | 123577 | [123577-kunoichi-torimonocho.json](./123577-kunoichi-torimonocho.json) |
 | Kuon | 10909 | [10909-kuon.json](./10909-kuon.json) |
 | Kupechestvo | 190211 | [190211-kupechestvo.json](./190211-kupechestvo.json) |
+| Kur, Pelīte, Tu Tecēji? | 305384 | [305384-kur-pelite-tu-teceji.json](./305384-kur-pelite-tu-teceji.json) |
 | Kurai Nichiyoubi: Sombre Dimanche | 260982 | [260982-kurai-nichiyoubi-sombre-dimanche.json](./260982-kurai-nichiyoubi-sombre-dimanche.json) |
 | Kurayami | 94763 | [94763-kurayami.json](./94763-kurayami.json) |
 | Kurenai no Homura Sanada Ninpouchou | 136472 | [136472-kurenai-no-homura-sanada-ninpouchou.json](./136472-kurenai-no-homura-sanada-ninpouchou.json) |
