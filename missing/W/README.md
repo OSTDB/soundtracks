@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterful | 404861 | [404861-waterful.json](./404861-waterful.json) |
 | Waterjacked! | 362330 | [362330-waterjacked.json](./362330-waterjacked.json) |
 | Waterloo | 12821 | [12821-waterloo.json](./12821-waterloo.json) |
+| Waterloo | 328018 | [328018-waterloo.json](./328018-waterloo.json) |
 | Watermelon Game: Fruits Puzzle | 293904 | [293904-watermelon-game-fruits-puzzle.json](./293904-watermelon-game-fruits-puzzle.json) |
 | Watermelon Merge: Strategy Game | 303236 | [303236-watermelon-merge-strategy-game.json](./303236-watermelon-merge-strategy-game.json) |
 | Waternet | 210651 | [210651-waternet.json](./210651-waternet.json) |
