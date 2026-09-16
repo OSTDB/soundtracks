@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davidic Matchup | 84178 | [84178-davidic-matchup.json](./84178-davidic-matchup.json) |
 | Davis Haunted House | 340942 | [340942-davis-haunted-house.json](./340942-davis-haunted-house.json) |
 | Davy Jones' Locker | 177024 | [177024-davy-jones-locker.json](./177024-davy-jones-locker.json) |
+| Davy's Dreams of Chasing Things | 323366 | [323366-davys-dreams-of-chasing-things.json](./323366-davys-dreams-of-chasing-things.json) |
 | Dawgs: The Revenge | 400905 | [400905-dawgs-the-revenge.json](./400905-dawgs-the-revenge.json) |
 | Dawn | 319979 | [319979-dawn.json](./319979-dawn.json) |
 | Dawn Apart | 231392 | [231392-dawn-apart.json](./231392-dawn-apart.json) |
@@ -1937,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezaemon 3D | 3470 | [3470-dezaemon-3d.json](./3470-dezaemon-3d.json) |
 | Dezaemon BS-X Version: BS-X Shooting | 142409 | [142409-dezaemon-bs-x-version-bs-x-shooting.json](./142409-dezaemon-bs-x-version-bs-x-shooting.json) |
 | Dezaemon Kids! | 98463 | [98463-dezaemon-kids.json](./98463-dezaemon-kids.json) |
+| Dfiance | 323371 | [323371-dfiance.json](./323371-dfiance.json) |
 | DFP: Disappear From Polizia | 373098 | [373098-dfp-disappear-from-polizia.json](./373098-dfp-disappear-from-polizia.json) |
 | Dfragmente | 76555 | [76555-dfragmente.json](./76555-dfragmente.json) |
 | Dharma Dojo | 79948 | [79948-dharma-dojo.json](./79948-dharma-dojo.json) |
@@ -3851,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscape Runners | 238503 | [238503-dreamscape-runners.json](./238503-dreamscape-runners.json) |
 | Dreamscaper | 116166 | [116166-dreamscaper.json](./116166-dreamscaper.json) |
 | Dreamscapes: The Sandman - Collector's Edition | 356189 | [356189-dreamscapes-the-sandman-collectors-edition.json](./356189-dreamscapes-the-sandman-collectors-edition.json) |
+| Dreamspace | 323342 | [323342-dreamspace.json](./323342-dreamspace.json) |
 | Dreamspring | 333372 | [333372-dreamspring.json](./333372-dreamspring.json) |
 | Dreamstate Racing | 133414 | [133414-dreamstate-racing.json](./133414-dreamstate-racing.json) |
 | Dreamtale | 178656 | [178656-dreamtale.json](./178656-dreamtale.json) |
