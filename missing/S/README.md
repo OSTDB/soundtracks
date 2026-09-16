@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatter Keep | 146826 | [146826-shatter-keep.json](./146826-shatter-keep.json) |
 | Shatter Remastered Deluxe | 202146 | [202146-shatter-remastered-deluxe.json](./202146-shatter-remastered-deluxe.json) |
 | Shatterbrain | 96977 | [96977-shatterbrain.json](./96977-shatterbrain.json) |
+| Shattered | 325043 | [325043-shattered.json](./325043-shattered.json) |
 | Shattered Dreams | 313507 | [313507-shattered-dreams.json](./313507-shattered-dreams.json) |
 | Shattered Galaxy | 73258 | [73258-shattered-galaxy.json](./73258-shattered-galaxy.json) |
 | Shattered God - Quest for the Divine Relic | 41935 | [41935-shattered-god-quest-for-the-divine-relic.json](./41935-shattered-god-quest-for-the-divine-relic.json) |
@@ -3883,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoot Game | 225989 | [225989-snoot-game.json](./225989-snoot-game.json) |
 | Snooze or Lose | 276718 | [276718-snooze-or-lose.json](./276718-snooze-or-lose.json) |
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
+| Snow Ash | 325064 | [325064-snow-ash.json](./325064-snow-ash.json) |
 | Snow Ash Land | 112347 | [112347-snow-ash-land.json](./112347-snow-ash-land.json) |
 | Snow Battle Princess Sayuki | 191180 | [191180-snow-battle-princess-sayuki.json](./191180-snow-battle-princess-sayuki.json) |
 | Snow Break | 94210 | [94210-snow-break.json](./94210-snow-break.json) |
@@ -4582,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Lost Future | 330530 | [330530-sonic-the-hedgehog-lost-future.json](./330530-sonic-the-hedgehog-lost-future.json) |
 | Sonic the Hedgehog: Minigame Laptop | 294466 | [294466-sonic-the-hedgehog-minigame-laptop.json](./294466-sonic-the-hedgehog-minigame-laptop.json) |
 | Sonic the Hedgehog: Spinball | 237308 | [237308-sonic-the-hedgehog-spinball.json](./237308-sonic-the-hedgehog-spinball.json) |
+| Sonic the Hedgehog: The Blue Blur! Super Sonic - Quiz Game | 325095 | [325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json](./325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json) |
 | Sonic the Hedgehog: The Freedom Fighters | 330700 | [330700-sonic-the-hedgehog-the-freedom-fighters.json](./330700-sonic-the-hedgehog-the-freedom-fighters.json) |
 | Sonic Triple Link | 330522 | [330522-sonic-triple-link.json](./330522-sonic-triple-link.json) |
 | Sonic Turbo 2 | 331707 | [331707-sonic-turbo-2.json](./331707-sonic-turbo-2.json) |
@@ -8368,12 +8371,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Alternate Universe | 358315 | [358315-super-smash-bros-alternate-universe.json](./358315-super-smash-bros-alternate-universe.json) |
 | Super Smash Bros. Clash | 279590 | [279590-super-smash-bros-clash.json](./279590-super-smash-bros-clash.json) |
 | Super Smash Bros. Crusade Remix | 408816 | [408816-super-smash-bros-crusade-remix.json](./408816-super-smash-bros-crusade-remix.json) |
+| Super Smash Bros. for Nintendo 3DS: Ashley Hat + Ashley Outfit | 325073 | [325073-super-smash-bros-for-nintendo-3ds-ashley-hat-ashley-outfit.json](./325073-super-smash-bros-for-nintendo-3ds-ashley-hat-ashley-outfit.json) |
+| Super Smash Bros. for Nintendo 3DS: Geno Hat + Geno Outfit | 325077 | [325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json](./325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json) |
+| Super Smash Bros. for Nintendo 3DS: Stage Bundle | 325074 | [325074-super-smash-bros-for-nintendo-3ds-stage-bundle.json](./325074-super-smash-bros-for-nintendo-3ds-stage-bundle.json) |
+| Super Smash Bros. for Wii U: Ashley Hat + Ashley Outfit | 325072 | [325072-super-smash-bros-for-wii-u-ashley-hat-ashley-outfit.json](./325072-super-smash-bros-for-wii-u-ashley-hat-ashley-outfit.json) |
+| Super Smash Bros. for Wii U: Geno Hat + Geno Outfit | 325076 | [325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json](./325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json) |
+| Super Smash Bros. for Wii U: Stage Bundle | 325075 | [325075-super-smash-bros-for-wii-u-stage-bundle.json](./325075-super-smash-bros-for-wii-u-stage-bundle.json) |
 | Super Smash Bros. Ultimate - Piranha Plant | 136383 | [136383-super-smash-bros-ultimate-piranha-plant.json](./136383-super-smash-bros-ultimate-piranha-plant.json) |
 | Super Smash Bros. Ultimate: Akaza Moveset | 395017 | [395017-super-smash-bros-ultimate-akaza-moveset.json](./395017-super-smash-bros-ultimate-akaza-moveset.json) |
 | Super Smash Bros. Ultimate: Animdude Moveset | 395034 | [395034-super-smash-bros-ultimate-animdude-moveset.json](./395034-super-smash-bros-ultimate-animdude-moveset.json) |
 | Super Smash Bros. Ultimate: Blood Falcon Moveset | 375986 | [375986-super-smash-bros-ultimate-blood-falcon-moveset.json](./375986-super-smash-bros-ultimate-blood-falcon-moveset.json) |
 | Super Smash Bros. Ultimate: Competitive Playable Bosses | 280797 | [280797-super-smash-bros-ultimate-competitive-playable-bosses.json](./280797-super-smash-bros-ultimate-competitive-playable-bosses.json) |
 | Super Smash Bros. Ultimate: Fall Guy Moveset | 395031 | [395031-super-smash-bros-ultimate-fall-guy-moveset.json](./395031-super-smash-bros-ultimate-fall-guy-moveset.json) |
+| Super Smash Bros. Ultimate: Geno Hat + Outfit | 325078 | [325078-super-smash-bros-ultimate-geno-hat-outfit.json](./325078-super-smash-bros-ultimate-geno-hat-outfit.json) |
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
 | Super Smash Bros. Ultimate: Ichiban Kasuga Moveset (Yakuza) | 395018 | [395018-super-smash-bros-ultimate-ichiban-kasuga-moveset-yakuza.json](./395018-super-smash-bros-ultimate-ichiban-kasuga-moveset-yakuza.json) |
 | Super Smash Bros. Ultimate: Impostor Moveset | 395030 | [395030-super-smash-bros-ultimate-impostor-moveset.json](./395030-super-smash-bros-ultimate-impostor-moveset.json) |
