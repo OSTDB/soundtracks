@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ha-ha-ho-ho-horror | 343911 | [343911-ha-ha-ho-ho-horror.json](./343911-ha-ha-ho-ho-horror.json) |
 | Ha/ck | 113710 | [113710-ha-ck.json](./113710-ha-ck.json) |
 | Habblet | 274195 | [274195-habblet.json](./274195-habblet.json) |
+| Habilis | 313898 | [313898-habilis.json](./313898-habilis.json) |
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
 | Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
@@ -2572,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Candy Land | 262955 | [262955-hot-candy-land.json](./262955-hot-candy-land.json) |
 | Hot Cleopatra | 221196 | [221196-hot-cleopatra.json](./221196-hot-cleopatra.json) |
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
+| Hot Couture | 313849 | [313849-hot-couture.json](./313849-hot-couture.json) |
 | Hot Date | 18136 | [18136-hot-date.json](./18136-hot-date.json) |
 | Hot Dish 2 | 53202 | [53202-hot-dish-2.json](./53202-hot-dish-2.json) |
 | Hot Dodge! | 158721 | [158721-hot-dodge.json](./158721-hot-dodge.json) |
