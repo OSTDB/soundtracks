@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
 | PacaPomo | 310189 | [310189-pacapomo.json](./310189-pacapomo.json) |
+| Pacewar | 322776 | [322776-pacewar.json](./322776-pacewar.json) |
 | PachaMama | 186272 | [186272-pachamama.json](./186272-pachamama.json) |
 | Pachansky Mathematics 2+2=8 | 393454 | [393454-pachansky-mathematics-2-2-8.json](./393454-pachansky-mathematics-2-2-8.json) |
 | Pachi Pachi: On a Roll | 143696 | [143696-pachi-pachi-on-a-roll.json](./143696-pachi-pachi-on-a-roll.json) |
@@ -2547,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
 | Pokaboo | 197851 | [197851-pokaboo.json](./197851-pokaboo.json) |
 | Poké Everworld Online | 389447 | [389447-poke-everworld-online.json](./389447-poke-everworld-online.json) |
+| Poke Mission 97 | 322761 | [322761-poke-mission-97.json](./322761-poke-mission-97.json) |
 | Poke646: Anniversary Edition | 136386 | [136386-poke646-anniversary-edition.json](./136386-poke646-anniversary-edition.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
 | Pokémath! | 291987 | [291987-pokemath.json](./291987-pokemath.json) |
