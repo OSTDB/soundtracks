@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
 | Elfland | 246394 | [246394-elfland.json](./246394-elfland.json) |
 | Elfland Reloaded: Volume 2 | 303238 | [303238-elfland-reloaded-volume-2.json](./303238-elfland-reloaded-volume-2.json) |
+| Elflock | 326797 | [326797-elflock.json](./326797-elflock.json) |
 | Elfmania | 12062 | [12062-elfmania.json](./12062-elfmania.json) |
 | ElfMiner | 360612 | [360612-elfminer.json](./360612-elfminer.json) |
 | Elfo: Rescue Craby | 322345 | [322345-elfo-rescue-craby.json](./322345-elfo-rescue-craby.json) |
