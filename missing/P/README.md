@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperboy: Special Delivery | 55885 | [55885-paperboy-special-delivery.json](./55885-paperboy-special-delivery.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
+| Paperhead Ep. 0 | 321587 | [321587-paperhead-ep-0.json](./321587-paperhead-ep-0.json) |
 | Paperly: Paper Plane Adventure | 194040 | [194040-paperly-paper-plane-adventure.json](./194040-paperly-paper-plane-adventure.json) |
 | Paperman | 385577 | [385577-paperman.json](./385577-paperman.json) |
 | PaperPlanets | 106612 | [106612-paperplanets.json](./106612-paperplanets.json) |
@@ -481,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Story | 233761 | [233761-paradise-story.json](./233761-paradise-story.json) |
 | Paradise Tomb | 224560 | [224560-paradise-tomb.json](./224560-paradise-tomb.json) |
 | Paradise Up Above: Gold Label Edition | 311462 | [311462-paradise-up-above-gold-label-edition.json](./311462-paradise-up-above-gold-label-edition.json) |
+| Paradise XRPL | 321549 | [321549-paradise-xrpl.json](./321549-paradise-xrpl.json) |
 | Paradize Project | 208418 | [208418-paradize-project.json](./208418-paradize-project.json) |
 | Paradox Lost | 330161 | [330161-paradox-lost.json](./330161-paradox-lost.json) |
 | Paradox of the Cryptomancers | 99622 | [99622-paradox-of-the-cryptomancers.json](./99622-paradox-of-the-cryptomancers.json) |
@@ -774,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paths Taken | 119039 | [119039-paths-taken.json](./119039-paths-taken.json) |
 | Pathstorm | 71512 | [71512-pathstorm.json](./71512-pathstorm.json) |
 | Pathway | 133975 | [133975-pathway.json](./133975-pathway.json) |
+| Patience | 321609 | [321609-patience.json](./321609-patience.json) |
 | Patience Balls | 392789 | [392789-patience-balls.json](./392789-patience-balls.json) |
 | Patience Playdate | 276722 | [276722-patience-playdate.json](./276722-patience-playdate.json) |
 | Patient Rogue | 177482 | [177482-patient-rogue.json](./177482-patient-rogue.json) |
@@ -1157,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 4: Golden Midnight Channel Edition | 273107 | [273107-persona-4-golden-midnight-channel-edition.json](./273107-persona-4-golden-midnight-channel-edition.json) |
 | Persona 4: Racing All Afternoon | 134690 | [134690-persona-4-racing-all-afternoon.json](./134690-persona-4-racing-all-afternoon.json) |
 | Persona 5 Dancing in Starlight: Picaresque Mouse Set | 324706 | [324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json](./324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json) |
+| Persona 5 Pocket Edition | 321602 | [321602-persona-5-pocket-edition.json](./321602-persona-5-pocket-edition.json) |
 | Persona 5 Royal: 1 More Edition | 261539 | [261539-persona-5-royal-1-more-edition.json](./261539-persona-5-royal-1-more-edition.json) |
 | Persona 5 Strikers | 117731 | [117731-persona-5-strikers.json](./117731-persona-5-strikers.json) |
 | Persona 5 Tactica: DLC All in One | 277311 | [277311-persona-5-tactica-dlc-all-in-one.json](./277311-persona-5-tactica-dlc-all-in-one.json) |
@@ -2301,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
 | Plastic Model | 229684 | [229684-plastic-model.json](./229684-plastic-model.json) |
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
+| Plastic Trick | 321592 | [321592-plastic-trick.json](./321592-plastic-trick.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
 | Plat4mer | 112972 | [112972-plat4mer.json](./112972-plat4mer.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
@@ -4084,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puchicon Magazine: Soukangou | 222530 | [222530-puchicon-magazine-soukangou.json](./222530-puchicon-magazine-soukangou.json) |
 | Puchitto Cluster | 146855 | [146855-puchitto-cluster.json](./146855-puchitto-cluster.json) |
 | Puck-Man Puzzler | 289887 | [289887-puck-man-puzzler.json](./289887-puck-man-puzzler.json) |
+| Puckdoku | 321606 | [321606-puckdoku.json](./321606-puckdoku.json) |
 | Puckit! | 380448 | [380448-puckit.json](./380448-puckit.json) |
 | Puckman | 47280 | [47280-puckman.json](./47280-puckman.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
