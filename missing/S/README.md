@@ -5121,6 +5121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Contact | 340198 | [340198-space-contact.json](./340198-space-contact.json) |
 | Space Court | 137684 | [137684-space-court.json](./137684-space-court.json) |
 | Space Cowboy | 25603 | [25603-space-cowboy.json](./25603-space-cowboy.json) |
+| Space Crafter | 291585 | [291585-space-crafter.json](./291585-space-crafter.json) |
 | Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
 | Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
@@ -6946,6 +6947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Plantoids Species Pack | 215399 | [215399-stellaris-plantoids-species-pack.json](./215399-stellaris-plantoids-species-pack.json) |
 | Stellaris: Season 08 | 298182 | [298182-stellaris-season-08.json](./298182-stellaris-season-08.json) |
 | Stellaris: Shadows of the Shroud | 336603 | [336603-stellaris-shadows-of-the-shroud.json](./336603-stellaris-shadows-of-the-shroud.json) |
+| Stellaris: The Machine Age | 291611 | [291611-stellaris-the-machine-age.json](./291611-stellaris-the-machine-age.json) |
 | Stellaris: Toxoids | 218170 | [218170-stellaris-toxoids.json](./218170-stellaris-toxoids.json) |
 | Stellarons Superstars: Detectives of the Scarlet Horizons | 300838 | [300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json](./300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json) |
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
@@ -7609,6 +7611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subterranea | 55205 | [55205-subterranea.json](./55205-subterranea.json) |
 | Subterranean Detectives Orin and Satori | 185591 | [185591-subterranean-detectives-orin-and-satori.json](./185591-subterranean-detectives-orin-and-satori.json) |
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
+| Subterror | 291576 | [291576-subterror.json](./291576-subterror.json) |
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
 | Subwar 2050 | 39038 | [39038-subwar-2050.json](./39038-subwar-2050.json) |
@@ -8174,6 +8177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hoops 2 | 378784 | [378784-super-hoops-2.json](./378784-super-hoops-2.json) |
 | Super Hot Pellet Muncher 2000 | 178613 | [178613-super-hot-pellet-muncher-2000.json](./178613-super-hot-pellet-muncher-2000.json) |
 | Super Hunchback | 157211 | [157211-super-hunchback.json](./157211-super-hunchback.json) |
+| Super Icarus | 291599 | [291599-super-icarus.json](./291599-super-icarus.json) |
 | Super Ick | 193502 | [193502-super-ick.json](./193502-super-ick.json) |
 | Super Impostor Bros. | 202379 | [202379-super-impostor-bros.json](./202379-super-impostor-bros.json) |
 | Super Jack | 265965 | [265965-super-jack.json](./265965-super-jack.json) |
