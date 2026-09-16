@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maelstrom: The Battle for Earth Begins Enhanced | 385595 | [385595-maelstrom-the-battle-for-earth-begins-enhanced.json](./385595-maelstrom-the-battle-for-earth-begins-enhanced.json) |
 | Maestria | 207841 | [207841-maestria.json](./207841-maestria.json) |
 | Maestro | 306924 | [306924-maestro.json](./306924-maestro.json) |
+| Maestro Mario | 328592 | [328592-maestro-mario.json](./328592-maestro-mario.json) |
 | Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
 | Mǎfǎ Chuánqí | 159812 | [159812-mafa-chuanqi.json](./159812-mafa-chuanqi.json) |
 | Mafalda: Jugando con Números y Palabras | 167760 | [167760-mafalda-jugando-con-numeros-y-palabras.json](./167760-mafalda-jugando-con-numeros-y-palabras.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Forever Galaxy | 139452 | [139452-mario-forever-galaxy.json](./139452-mario-forever-galaxy.json) |
 | Mario Forever: SMW Edition | 198464 | [198464-mario-forever-smw-edition.json](./198464-mario-forever-smw-edition.json) |
 | Mario Gives Up | 272818 | [272818-mario-gives-up.json](./272818-mario-gives-up.json) |
+| Mario Golf | 328590 | [328590-mario-golf.json](./328590-mario-golf.json) |
 | Mario Golf: Super Rush | 143609 | [143609-mario-golf-super-rush.json](./143609-mario-golf-super-rush.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
 | Mario Golf: World Tour - Mushroom Pack | 309116 | [309116-mario-golf-world-tour-mushroom-pack.json](./309116-mario-golf-world-tour-mushroom-pack.json) |
@@ -2078,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Holders: The Colors II | 392171 | [392171-memory-holders-the-colors-ii.json](./392171-memory-holders-the-colors-ii.json) |
 | Memory I | 68610 | [68610-memory-i.json](./68610-memory-i.json) |
 | Memory Illusions | 157199 | [157199-memory-illusions.json](./157199-memory-illusions.json) |
+| Memory Kong | 328596 | [328596-memory-kong.json](./328596-memory-kong.json) |
 | Memory Lost - Shift Edition | 351138 | [351138-memory-lost-shift-edition.json](./351138-memory-lost-shift-edition.json) |
 | Memory Mastermind | 61068 | [61068-memory-mastermind.json](./61068-memory-mastermind.json) |
 | Memory Match Saga: Expansion Pack 1 | 167320 | [167320-memory-match-saga-expansion-pack-1.json](./167320-memory-match-saga-expansion-pack-1.json) |
@@ -3640,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Catapult | 323162 | [323162-monkey-catapult.json](./323162-monkey-catapult.json) |
 | Monkey Do | 291484 | [291484-monkey-do.json](./291484-monkey-do.json) |
 | Monkey Doomsday | 190192 | [190192-monkey-doomsday.json](./190192-monkey-doomsday.json) |
+| Monkey Drive | 328612 | [328612-monkey-drive.json](./328612-monkey-drive.json) |
 | Monkey Flight 2 | 257368 | [257368-monkey-flight-2.json](./257368-monkey-flight-2.json) |
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
 | Monkey Fright | 257405 | [257405-monkey-fright.json](./257405-monkey-fright.json) |
@@ -4688,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museums of History | 339921 | [339921-museums-of-history.json](./339921-museums-of-history.json) |
 | Mush Dash | 412392 | [412392-mush-dash.json](./412392-mush-dash.json) |
 | Mush Rush: Stock Market Tycoon | 250389 | [250389-mush-rush-stock-market-tycoon.json](./250389-mush-rush-stock-market-tycoon.json) |
+| Mushi Battle Arena | 328616 | [328616-mushi-battle-arena.json](./328616-mushi-battle-arena.json) |
 | Mushihimesama | 152398 | [152398-mushihimesama.json](./152398-mushihimesama.json) |
 | Mushihimesama Bug Panic | 66101 | [66101-mushihimesama-bug-panic.json](./66101-mushihimesama-bug-panic.json) |
 | Mushihimesama Ver 1.5 | 65500 | [65500-mushihimesama-ver-1-5.json](./65500-mushihimesama-ver-1-5.json) |
