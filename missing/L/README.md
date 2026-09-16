@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotion Samurai | 161400 | [161400-lotion-samurai.json](./161400-lotion-samurai.json) |
 | Lotion Samurai for Nintendo Switch | 249785 | [249785-lotion-samurai-for-nintendo-switch.json](./249785-lotion-samurai-for-nintendo-switch.json) |
 | Lots of Guns | 65466 | [65466-lots-of-guns.json](./65466-lots-of-guns.json) |
+| Lots of Things 2: Travel and Search - Collector's Edition | 307759 | [307759-lots-of-things-2-travel-and-search-collectors-edition.json](./307759-lots-of-things-2-travel-and-search-collectors-edition.json) |
 | LotS: Light on the Sea | 400371 | [400371-lots-light-on-the-sea.json](./400371-lots-light-on-the-sea.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
