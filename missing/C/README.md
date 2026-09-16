@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
 | Cards! MonkeyBox 2 | 174300 | [174300-cards-monkeybox-2.json](./174300-cards-monkeybox-2.json) |
 | CardShark Hearts | 83479 | [83479-cardshark-hearts.json](./83479-cardshark-hearts.json) |
+| Cardtographer | 330339 | [330339-cardtographer.json](./330339-cardtographer.json) |
 | CardWarden | 175409 | [175409-cardwarden.json](./175409-cardwarden.json) |
 | CardWirth | 172774 | [172774-cardwirth.json](./172774-cardwirth.json) |
 | Care Bears: A Lesson in Caring | 65501 | [65501-care-bears-a-lesson-in-caring.json](./65501-care-bears-a-lesson-in-caring.json) |
@@ -2498,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CloudBound | 31374 | [31374-cloudbound.json](./31374-cloudbound.json) |
 | Cloudbreaker | 355555 | [355555-cloudbreaker.json](./355555-cloudbreaker.json) |
 | CloudCity VR | 50518 | [50518-cloudcity-vr.json](./50518-cloudcity-vr.json) |
+| Cloudheim | 330328 | [330328-cloudheim.json](./330328-cloudheim.json) |
 | Cloudlings | 404925 | [404925-cloudlings.json](./404925-cloudlings.json) |
 | Cloudpaws | 403694 | [403694-cloudpaws.json](./403694-cloudpaws.json) |
 | Cloudpunk | 111837 | [111837-cloudpunk.json](./111837-cloudpunk.json) |
