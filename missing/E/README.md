@@ -1200,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Errant: Hunter's Soul | 200748 | [200748-errant-hunters-soul.json](./200748-errant-hunters-soul.json) |
 | Errasaga | 381599 | [381599-errasaga.json](./381599-errasaga.json) |
 | Error 0: New World Found | 178685 | [178685-error-0-new-world-found.json](./178685-error-0-new-world-found.json) |
+| Error Codes | 325654 | [325654-error-codes.json](./325654-error-codes.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
 | Erst Kerf | 130906 | [130906-erst-kerf.json](./130906-erst-kerf.json) |
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
@@ -1320,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Rosecliff Island | 9830 | [9830-escape-rosecliff-island.json](./9830-escape-rosecliff-island.json) |
 | Escape Sequence | 411591 | [411591-escape-sequence.json](./411591-escape-sequence.json) |
 | Escape Simulator | 145439 | [145439-escape-simulator.json](./145439-escape-simulator.json) |
+| Escape Simulator 2 | 325646 | [325646-escape-simulator-2.json](./325646-escape-simulator-2.json) |
 | Escape Simulator 2: Apocalypse DLC | 407417 | [407417-escape-simulator-2-apocalypse-dlc.json](./407417-escape-simulator-2-apocalypse-dlc.json) |
 | Escape Simulator: Mayan DLC | 321345 | [321345-escape-simulator-mayan-dlc.json](./321345-escape-simulator-mayan-dlc.json) |
 | Escape Simulator: Spy | 365719 | [365719-escape-simulator-spy.json](./365719-escape-simulator-spy.json) |
