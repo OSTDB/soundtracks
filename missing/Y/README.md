@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume: Special Edition | 195776 | [195776-yume-special-edition.json](./195776-yume-special-edition.json) |
 | YumeSD | 202345 | [202345-yumesd.json](./202345-yumesd.json) |
 | Yumeutsutsu Re:Master | 109602 | [109602-yumeutsutsu-re-master.json](./109602-yumeutsutsu-re-master.json) |
+| Yummy Drink Factory | 295930 | [295930-yummy-drink-factory.json](./295930-yummy-drink-factory.json) |
 | Yummy Girl 2 | 195243 | [195243-yummy-girl-2.json](./195243-yummy-girl-2.json) |
 | Yummy Jewels | 264900 | [264900-yummy-jewels.json](./264900-yummy-jewels.json) |
 | Yummy Tales 2 | 205023 | [205023-yummy-tales-2.json](./205023-yummy-tales-2.json) |
