@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scales of Stardust | 185076 | [185076-scales-of-stardust.json](./185076-scales-of-stardust.json) |
 | Scaling the Sky | 128618 | [128618-scaling-the-sky.json](./128618-scaling-the-sky.json) |
 | Scaling Up | 323927 | [323927-scaling-up.json](./323927-scaling-up.json) |
+| Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
 | Scam Artist | 413774 | [413774-scam-artist.json](./413774-scam-artist.json) |
 | Scamster Kombat | 366931 | [366931-scamster-kombat.json](./366931-scamster-kombat.json) |
 | Scan Hunter: Sen-nen Kaigyo wo Oe! | 56528 | [56528-scan-hunter-sen-nen-kaigyo-wo-oe.json](./56528-scan-hunter-sen-nen-kaigyo-wo-oe.json) |
@@ -5266,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
 | Spaghet 2: Al Dente Chapter | 168862 | [168862-spaghet-2-al-dente-chapter.json](./168862-spaghet-2-al-dente-chapter.json) |
 | Spakoyno: Back to USSR 2.0 | 34796 | [34796-spakoyno-back-to-ussr-2-0.json](./34796-spakoyno-back-to-ussr-2-0.json) |
+| Spam | 315689 | [315689-spam.json](./315689-spam.json) |
 | Spam Text | 214196 | [214196-spam-text.json](./214196-spam-text.json) |
 | Spammerina | 309879 | [309879-spammerina.json](./309879-spammerina.json) |
 | Span of Dream | 400328 | [400328-span-of-dream.json](./400328-span-of-dream.json) |
