@@ -3555,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mercer Slough and You | 145622 | [145622-the-mercer-slough-and-you.json](./145622-the-mercer-slough-and-you.json) |
 | The Mercury Man | 80879 | [80879-the-mercury-man.json](./80879-the-mercury-man.json) |
 | The Mermaid Mask | 279369 | [279369-the-mermaid-mask.json](./279369-the-mermaid-mask.json) |
+| The Merry Fairy | 309530 | [309530-the-merry-fairy.json](./309530-the-merry-fairy.json) |
 | The Mesh | 88259 | [88259-the-mesh.json](./88259-the-mesh.json) |
 | The Message | 170458 | [170458-the-message.json](./170458-the-message.json) |
 | The Meteorite | 191806 | [191806-the-meteorite.json](./191806-the-meteorite.json) |
@@ -3673,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nations | 9172 | [9172-the-nations.json](./9172-the-nations.json) |
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
+| The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
 | The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
 | The NetherWorld | 271766 | [271766-the-netherworld.json](./271766-the-netherworld.json) |
 | The Never-Ending Sleepover | 370785 | [370785-the-never-ending-sleepover.json](./370785-the-never-ending-sleepover.json) |
@@ -6977,6 +6979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Dream 2 | 382927 | [382927-tower-dream-2.json](./382927-tower-dream-2.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
+| Tower Monster Rush | 309504 | [309504-tower-monster-rush.json](./309504-tower-monster-rush.json) |
 | Tower Networking Inc. | 310040 | [310040-tower-networking-inc.json](./310040-tower-networking-inc.json) |
 | Tower O-ven | 338261 | [338261-tower-o-ven.json](./338261-tower-o-ven.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
@@ -7682,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunt | 366840 | [366840-treasure-hunt.json](./366840-treasure-hunt.json) |
 | Treasure Hunt Girl | 270114 | [270114-treasure-hunt-girl.json](./270114-treasure-hunt-girl.json) |
 | Treasure Hunter | 242235 | [242235-treasure-hunter.json](./242235-treasure-hunter.json) |
+| Treasure Hunter | 309493 | [309493-treasure-hunter.json](./309493-treasure-hunter.json) |
 | Treasure Hunter | 327577 | [327577-treasure-hunter.json](./327577-treasure-hunter.json) |
 | Treasure Hunter | 76627 | [76627-treasure-hunter.json](./76627-treasure-hunter.json) |
 | Treasure Hunter Simulator 2 | 153995 | [153995-treasure-hunter-simulator-2.json](./153995-treasure-hunter-simulator-2.json) |
@@ -8380,6 +8384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Mini Golf | 93033 | [93033-twisted-mini-golf.json](./93033-twisted-mini-golf.json) |
 | Twisted Tales: Night night Scarlett | 178653 | [178653-twisted-tales-night-night-scarlett.json](./178653-twisted-tales-night-night-scarlett.json) |
 | Twisted Tangle | 254744 | [254744-twisted-tangle.json](./254744-twisted-tangle.json) |
+| Twisted to the Roots | 309529 | [309529-twisted-to-the-roots.json](./309529-twisted-to-the-roots.json) |
 | Twisted Waters | 295283 | [295283-twisted-waters.json](./295283-twisted-waters.json) |
 | Twisted Worlds | 32918 | [32918-twisted-worlds.json](./32918-twisted-worlds.json) |
 | Twisted! | 95382 | [95382-twisted.json](./95382-twisted.json) |
