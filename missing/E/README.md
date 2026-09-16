@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elarienne | 348777 | [348777-elarienne.json](./348777-elarienne.json) |
 | Elarooh | 61086 | [61086-elarooh.json](./61086-elarooh.json) |
 | Elastic car 2 (engineer mode) | 96004 | [96004-elastic-car-2-engineer-mode.json](./96004-elastic-car-2-engineer-mode.json) |
+| Elastic Soccer | 323950 | [323950-elastic-soccer.json](./323950-elastic-soccer.json) |
 | Elasto Mania | 9103 | [9103-elasto-mania.json](./9103-elasto-mania.json) |
 | Elasto Mania: Remastered | 187473 | [187473-elasto-mania-remastered.json](./187473-elasto-mania-remastered.json) |
 | Elastrix | 36087 | [36087-elastrix.json](./36087-elastrix.json) |
@@ -514,6 +515,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric Dreams | 313124 | [313124-electric-dreams.json](./313124-electric-dreams.json) |
 | Electric Sheep | 406705 | [406705-electric-sheep.json](./406705-electric-sheep.json) |
 | Electric Tortoise | 128613 | [128613-electric-tortoise.json](./128613-electric-tortoise.json) |
+| Electro Air Hockey | 323960 | [323960-electro-air-hockey.json](./323960-electro-air-hockey.json) |
+| Electro Air Hockey: Under the Mallet | 323957 | [323957-electro-air-hockey-under-the-mallet.json](./323957-electro-air-hockey-under-the-mallet.json) |
 | Electro Bop Boxing League | 329580 | [329580-electro-bop-boxing-league.json](./329580-electro-bop-boxing-league.json) |
 | Electro Freddy | 13631 | [13631-electro-freddy.json](./13631-electro-freddy.json) |
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
@@ -688,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember Knight Solitaire | 156107 | [156107-ember-knight-solitaire.json](./156107-ember-knight-solitaire.json) |
 | Ember Knights: Wrath of the Architect | 310371 | [310371-ember-knights-wrath-of-the-architect.json](./310371-ember-knights-wrath-of-the-architect.json) |
 | Ember Point | 296349 | [296349-ember-point.json](./296349-ember-point.json) |
+| Ember Storia | 323334 | [323334-ember-storia.json](./323334-ember-storia.json) |
 | Ember's Verge | 324303 | [324303-embers-verge.json](./324303-embers-verge.json) |
 | Emberdrift | 290952 | [290952-emberdrift.json](./290952-emberdrift.json) |
 | Emberfly | 336013 | [336013-emberfly.json](./336013-emberfly.json) |
@@ -967,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy | 36034 | [36034-enemy.json](./36034-enemy.json) |
 | Enemy Engaged 2 | 20372 | [20372-enemy-engaged-2.json](./20372-enemy-engaged-2.json) |
 | Enemy Engaged: RAH-66 Comanche vs. Ka-52 Hokum | 69858 | [69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json](./69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json) |
+| Enemy Front: Limited Edition | 323374 | [323374-enemy-front-limited-edition.json](./323374-enemy-front-limited-edition.json) |
 | Enemy Metal | 296367 | [296367-enemy-metal.json](./296367-enemy-metal.json) |
 | Enemy On the Tail! | 320518 | [320518-enemy-on-the-tail.json](./320518-enemy-on-the-tail.json) |
 | Enenra | 182458 | [182458-enenra.json](./182458-enenra.json) |
