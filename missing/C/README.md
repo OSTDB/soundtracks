@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Rogue | 295004 | [295004-clock-rogue.json](./295004-clock-rogue.json) |
 | Clock Tower Madness | 386273 | [386273-clock-tower-madness.json](./386273-clock-tower-madness.json) |
 | Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
+| Clockwatch | 315694 | [315694-clockwatch.json](./315694-clockwatch.json) |
 | Clockwise Jinx | 186338 | [186338-clockwise-jinx.json](./186338-clockwise-jinx.json) |
 | Clockwork Calamity in Mushroom World: What would you do if the time stopped ticking? | 153424 | [153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json](./153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json) |
 | Clockwork Dungeon | 165682 | [165682-clockwork-dungeon.json](./165682-clockwork-dungeon.json) |
@@ -3692,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown | 319236 | [319236-countdown.json](./319236-countdown.json) |
 | Countdown | 95417 | [95417-countdown.json](./95417-countdown.json) |
 | CountDown | 336629 | [336629-countdown.json](./336629-countdown.json) |
+| Countdown To Death | 315707 | [315707-countdown-to-death.json](./315707-countdown-to-death.json) |
 | Countdown to Doom | 13706 | [13706-countdown-to-doom.json](./13706-countdown-to-doom.json) |
 | Countdown to Meltdown | 12947 | [12947-countdown-to-meltdown.json](./12947-countdown-to-meltdown.json) |
 | Counter Attack | 152291 | [152291-counter-attack.json](./152291-counter-attack.json) |
