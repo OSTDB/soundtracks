@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Matching Puzzle Connect: Expansion Pack 8 | 163441 | [163441-pair-matching-puzzle-connect-expansion-pack-8.json](./163441-pair-matching-puzzle-connect-expansion-pack-8.json) |
 | Pair Memo | 246385 | [246385-pair-memo.json](./246385-pair-memo.json) |
 | Pair of Stamps | 227870 | [227870-pair-of-stamps.json](./227870-pair-of-stamps.json) |
+| Pair Up | 303111 | [303111-pair-up.json](./303111-pair-up.json) |
 | Pair Up | 359395 | [359395-pair-up.json](./359395-pair-up.json) |
 | Pairs | 91372 | [91372-pairs.json](./91372-pairs.json) |
 | Paisible Après-midi au Fil des Toiles | 178023 | [178023-paisible-apres-midi-au-fil-des-toiles.json](./178023-paisible-apres-midi-au-fil-des-toiles.json) |
@@ -4494,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
 | Puzzle Stampede | 26605 | [26605-puzzle-stampede.json](./26605-puzzle-stampede.json) |
 | Puzzle Star Sweep | 44744 | [44744-puzzle-star-sweep.json](./44744-puzzle-star-sweep.json) |
+| Puzzle Sudoku | 304171 | [304171-puzzle-sudoku.json](./304171-puzzle-sudoku.json) |
 | Puzzle to Go Baby Animals | 84794 | [84794-puzzle-to-go-baby-animals.json](./84794-puzzle-to-go-baby-animals.json) |
 | Puzzle to Go Diddl | 84793 | [84793-puzzle-to-go-diddl.json](./84793-puzzle-to-go-diddl.json) |
 | Puzzle to Go Planets and Universe | 84792 | [84792-puzzle-to-go-planets-and-universe.json](./84792-puzzle-to-go-planets-and-universe.json) |
@@ -4505,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
 | Puzzle Wishes | 29910 | [29910-puzzle-wishes.json](./29910-puzzle-wishes.json) |
 | Puzzle Wiz | 58174 | [58174-puzzle-wiz.json](./58174-puzzle-wiz.json) |
+| Puzzle Words | 304170 | [304170-puzzle-words.json](./304170-puzzle-words.json) |
 | Puzzle World: Cute Monsters | 203525 | [203525-puzzle-world-cute-monsters.json](./203525-puzzle-world-cute-monsters.json) |
 | Puzzle XL | 87705 | [87705-puzzle-xl.json](./87705-puzzle-xl.json) |
 | Puzzle: Birds | 114363 | [114363-puzzle-birds.json](./114363-puzzle-birds.json) |
@@ -4589,6 +4592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
 | Pyromania | 325671 | [325671-pyromania.json](./325671-pyromania.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
+| Pyrrhic Paradise: Dissemble | 303085 | [303085-pyrrhic-paradise-dissemble.json](./303085-pyrrhic-paradise-dissemble.json) |
 | Pyrrhic Tales: Prelude to Darkness | 70347 | [70347-pyrrhic-tales-prelude-to-darkness.json](./70347-pyrrhic-tales-prelude-to-darkness.json) |
 | Pyrus: Alle Tiders Familiespil | 129813 | [129813-pyrus-alle-tiders-familiespil.json](./129813-pyrus-alle-tiders-familiespil.json) |
 | Pyrus: Alletiders Jul | 129780 | [129780-pyrus-alletiders-jul.json](./129780-pyrus-alletiders-jul.json) |
