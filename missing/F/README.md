@@ -2477,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreign Affairs | 313850 | [313850-foreign-affairs.json](./313850-foreign-affairs.json) |
 | Foreign Body | 236549 | [236549-foreign-body.json](./236549-foreign-body.json) |
 | Foreign Galaxies | 196232 | [196232-foreign-galaxies.json](./196232-foreign-galaxies.json) |
+| Foreign Sun | 289984 | [289984-foreign-sun.json](./289984-foreign-sun.json) |
 | Foreman Frenzy! | 343284 | [343284-foreman-frenzy.json](./343284-foreman-frenzy.json) |
 | Forensic Science Mystery | 399633 | [399633-forensic-science-mystery.json](./399633-forensic-science-mystery.json) |
 | Forensic: M.E. Protocol | 398451 | [398451-forensic-m-e-protocol.json](./398451-forensic-m-e-protocol.json) |
@@ -2665,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 5 - Underground | 278837 | [278837-fortnite-chapter-5-underground.json](./278837-fortnite-chapter-5-underground.json) |
 | Fortnite: Chapter 6 - Season 1: Demon Hunters | 323914 | [323914-fortnite-chapter-6-season-1-demon-hunters.json](./323914-fortnite-chapter-6-season-1-demon-hunters.json) |
 | Fortnite: Chapter 7 - Season 2: Showdown | 394366 | [394366-fortnite-chapter-7-season-2-showdown.json](./394366-fortnite-chapter-7-season-2-showdown.json) |
+| Fortnite: Chill Vibez Pack | 290016 | [290016-fortnite-chill-vibez-pack.json](./290016-fortnite-chill-vibez-pack.json) |
 | Fortnite: Cuddle Buns Pack | 333587 | [333587-fortnite-cuddle-buns-pack.json](./333587-fortnite-cuddle-buns-pack.json) |
 | Fortnite: Darkest Grumblings Pack | 331962 | [331962-fortnite-darkest-grumblings-pack.json](./331962-fortnite-darkest-grumblings-pack.json) |
 | Fortnite: Drakon Steel Hybrid Crew Pack | 275307 | [275307-fortnite-drakon-steel-hybrid-crew-pack.json](./275307-fortnite-drakon-steel-hybrid-crew-pack.json) |
