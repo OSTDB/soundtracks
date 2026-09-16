@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Sphere | 233501 | [233501-fairy-sphere.json](./233501-fairy-sphere.json) |
 | Fairy Springs | 406829 | [406829-fairy-springs.json](./406829-fairy-springs.json) |
 | Fairy Tail 2 | 306138 | [306138-fairy-tail-2.json](./306138-fairy-tail-2.json) |
+| Fairy Tail 2: Digital Deluxe | 324470 | [324470-fairy-tail-2-digital-deluxe.json](./324470-fairy-tail-2-digital-deluxe.json) |
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
 | Fairy Tail Online | 59427 | [59427-fairy-tail-online.json](./59427-fairy-tail-online.json) |
 | Fairy Tail: Beach Volleyball Havoc | 313127 | [313127-fairy-tail-beach-volleyball-havoc.json](./313127-fairy-tail-beach-volleyball-havoc.json) |
@@ -603,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm2 + | 406082 | [406082-farm2.json](./406082-farm2.json) |
 | Farmageddon | 362279 | [362279-farmageddon.json](./362279-farmageddon.json) |
 | Farmageddon: Undead | 302380 | [302380-farmageddon-undead.json](./302380-farmageddon-undead.json) |
+| Farmagia: Buddy Skin Bundle | 324471 | [324471-farmagia-buddy-skin-bundle.json](./324471-farmagia-buddy-skin-bundle.json) |
 | Farmbotic | 348350 | [348350-farmbotic.json](./348350-farmbotic.json) |
 | Farmburgh | 236263 | [236263-farmburgh.json](./236263-farmburgh.json) |
 | Farmch Revolution | 390648 | [390648-farmch-revolution.json](./390648-farmch-revolution.json) |
@@ -1802,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Golf 2 | 88291 | [88291-flappy-golf-2.json](./88291-flappy-golf-2.json) |
 | Flappy Horse | 309373 | [309373-flappy-horse.json](./309373-flappy-horse.json) |
 | Flappy Meatbag | 23731 | [23731-flappy-meatbag.json](./23731-flappy-meatbag.json) |
+| Flappy Monkey | 325099 | [325099-flappy-monkey.json](./325099-flappy-monkey.json) |
 | Flappy Navalny | 137665 | [137665-flappy-navalny.json](./137665-flappy-navalny.json) |
 | Flappy Shooter | 175982 | [175982-flappy-shooter.json](./175982-flappy-shooter.json) |
 | Flappy Souls | 249191 | [249191-flappy-souls.json](./249191-flappy-souls.json) |
@@ -2450,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hill: The Wardrobe | 340235 | [340235-forgotten-hill-the-wardrobe.json](./340235-forgotten-hill-the-wardrobe.json) |
 | Forgotten Lands: Online | 340236 | [340236-forgotten-lands-online.json](./340236-forgotten-lands-online.json) |
 | Forgotten Magic Tower | 293381 | [293381-forgotten-magic-tower.json](./293381-forgotten-magic-tower.json) |
+| Forgotten Memories | 324493 | [324493-forgotten-memories.json](./324493-forgotten-memories.json) |
 | Forgotten Memories: Definitive Edition | 207858 | [207858-forgotten-memories-definitive-edition.json](./207858-forgotten-memories-definitive-edition.json) |
 | Forgotten Playland: Party Edition | 392803 | [392803-forgotten-playland-party-edition.json](./392803-forgotten-playland-party-edition.json) |
 | Forgotten Possessions | 392775 | [392775-forgotten-possessions.json](./392775-forgotten-possessions.json) |
@@ -2881,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
 | Friday Night Funkin' Soft | 206928 | [206928-friday-night-funkin-soft.json](./206928-friday-night-funkin-soft.json) |
 | Friday Night Funkin' VS Ralsei | 241377 | [241377-friday-night-funkin-vs-ralsei.json](./241377-friday-night-funkin-vs-ralsei.json) |
+| Friday Night Funkin' vs. NFT | 325104 | [325104-friday-night-funkin-vs-nft.json](./325104-friday-night-funkin-vs-nft.json) |
 | Friday Night Funkin': Banbuds vs. Reggie the Rat | 202337 | [202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json](./202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json) |
 | Friday Night Funkin': Hotline 024 | 201320 | [201320-friday-night-funkin-hotline-024.json](./201320-friday-night-funkin-hotline-024.json) |
 | Friday Night Funkin': Idol | 269294 | [269294-friday-night-funkin-idol.json](./269294-friday-night-funkin-idol.json) |
