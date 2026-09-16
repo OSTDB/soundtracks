@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-ON! Houkago Rhythm Time | 269593 | [269593-k-on-houkago-rhythm-time.json](./269593-k-on-houkago-rhythm-time.json) |
 | K-ON!!: Houkago Rhythm Selection | 201262 | [201262-k-on-houkago-rhythm-selection.json](./201262-k-on-houkago-rhythm-selection.json) |
 | K-pop Idols Dating: Anime Love for B.SeveT | 334098 | [334098-k-pop-idols-dating-anime-love-for-b-sevet.json](./334098-k-pop-idols-dating-anime-love-for-b-sevet.json) |
+| K-Tora USA | 307112 | [307112-k-tora-usa.json](./307112-k-tora-usa.json) |
 | K.C.'s Crazy Nightmare! | 40730 | [40730-k-c-s-crazy-nightmare.json](./40730-k-c-s-crazy-nightmare.json) |
 | K.O. The Live Boxing | 386677 | [386677-k-o-the-live-boxing.json](./386677-k-o-the-live-boxing.json) |
 | K.S.-n-Kickin | 265977 | [265977-k-s-n-kickin.json](./265977-k-s-n-kickin.json) |
@@ -1366,6 +1367,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kronville: Stolen Dreams | 53262 | [53262-kronville-stolen-dreams.json](./53262-kronville-stolen-dreams.json) |
 | Krusenstern: A Stellar Sail | 226730 | [226730-krusenstern-a-stellar-sail.json](./226730-krusenstern-a-stellar-sail.json) |
 | Krusty Zombies | 180312 | [180312-krusty-zombies.json](./180312-krusty-zombies.json) |
+| Krusty's Fun House | 307105 | [307105-krustys-fun-house.json](./307105-krustys-fun-house.json) |
+| Krusty's Fun House | 307106 | [307106-krustys-fun-house.json](./307106-krustys-fun-house.json) |
+| Krusty's Fun House | 307110 | [307110-krustys-fun-house.json](./307110-krustys-fun-house.json) |
 | Kryftolike | 176994 | [176994-kryftolike.json](./176994-kryftolike.json) |
 | KryptCrawler | 51521 | [51521-kryptcrawler.json](./51521-kryptcrawler.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
