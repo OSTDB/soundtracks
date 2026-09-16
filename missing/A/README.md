@@ -575,7 +575,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Archon Prophecy | 325846 | [325846-age-of-wonders-4-archon-prophecy.json](./325846-age-of-wonders-4-archon-prophecy.json) |
 | Age of Wonders 4: Giant Kings | 325845 | [325845-age-of-wonders-4-giant-kings.json](./325845-age-of-wonders-4-giant-kings.json) |
 | Age of Wonders 4: Ways of War | 325844 | [325844-age-of-wonders-4-ways-of-war.json](./325844-age-of-wonders-4-ways-of-war.json) |
-| Age of Wushu 2 | 26643 | [26643-age-of-wushu-2.json](./26643-age-of-wushu-2.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent 9 | 113742 | [113742-agent-9.json](./113742-agent-9.json) |
 | Agent Alice | 60490 | [60490-agent-alice.json](./60490-agent-alice.json) |
