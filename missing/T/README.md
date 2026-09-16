@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
 | Tanks | 102253 | [102253-tanks.json](./102253-tanks.json) |
+| Tanks 3D | 328019 | [328019-tanks-3d.json](./328019-tanks-3d.json) |
 | Tanks Boom Boom | 210872 | [210872-tanks-boom-boom.json](./210872-tanks-boom-boom.json) |
 | Tanks But No Tanks | 40724 | [40724-tanks-but-no-tanks.json](./40724-tanks-but-no-tanks.json) |
 | Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
@@ -2399,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of the Dungeon Guardians: Enhanced Edition | 269289 | [269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json](./269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json) |
 | The Fall: Act I | 318971 | [318971-the-fall-act-i.json](./318971-the-fall-act-i.json) |
 | The Fallen Angels | 39581 | [39581-the-fallen-angels.json](./39581-the-fallen-angels.json) |
+| The Fallen Crypt of the Judgement Concrete | 328031 | [328031-the-fallen-crypt-of-the-judgement-concrete.json](./328031-the-fallen-crypt-of-the-judgement-concrete.json) |
 | The Fallen Kingdom | 324298 | [324298-the-fallen-kingdom.json](./324298-the-fallen-kingdom.json) |
 | The Falling Star | 344441 | [344441-the-falling-star.json](./344441-the-falling-star.json) |
 | The Fame Game: Welcome to Hollywood | 362303 | [362303-the-fame-game-welcome-to-hollywood.json](./362303-the-fame-game-welcome-to-hollywood.json) |
@@ -5348,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tickets, Please! | 406202 | [406202-tickets-please.json](./406202-tickets-please.json) |
 | Ticking Tea Time | 327184 | [327184-ticking-tea-time.json](./327184-ticking-tea-time.json) |
 | Ticktock | 104010 | [104010-ticktock.json](./104010-ticktock.json) |
+| Ticky's Tower of Time | 328030 | [328030-tickys-tower-of-time.json](./328030-tickys-tower-of-time.json) |
 | Tidal Hopper | 336026 | [336026-tidal-hopper.json](./336026-tidal-hopper.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
 | Tidal Tribe | 116582 | [116582-tidal-tribe.json](./116582-tidal-tribe.json) |
@@ -6832,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower climber | 90193 | [90193-tower-climber.json](./90193-tower-climber.json) |
 | Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
+| Tower Dominion | 328027 | [328027-tower-dominion.json](./328027-tower-dominion.json) |
 | Tower Dream 2 | 382927 | [382927-tower-dream-2.json](./382927-tower-dream-2.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
@@ -7439,6 +7443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
 | Trapped Within | 28918 | [28918-trapped-within.json](./28918-trapped-within.json) |
+| Trapped: Family Vacation | 328011 | [328011-trapped-family-vacation.json](./328011-trapped-family-vacation.json) |
 | Trapped: Forced To Kill | 402408 | [402408-trapped-forced-to-kill.json](./402408-trapped-forced-to-kill.json) |
 | Trapped: The Abduction | 66096 | [66096-trapped-the-abduction.json](./66096-trapped-the-abduction.json) |
 | Trapper Simulator | 122369 | [122369-trapper-simulator.json](./122369-trapper-simulator.json) |
@@ -7704,6 +7709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tringo | 49344 | [49344-tringo.json](./49344-tringo.json) |
 | Trinity | 2952 | [2952-trinity.json](./2952-trinity.json) |
 | Trinity Heart | 266238 | [266238-trinity-heart.json](./266238-trinity-heart.json) |
+| Trinity Shells | 328042 | [328042-trinity-shells.json](./328042-trinity-shells.json) |
 | Trinity Trigger | 202850 | [202850-trinity-trigger.json](./202850-trinity-trigger.json) |
 | Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
 | Trinity Universe | 7474 | [7474-trinity-universe.json](./7474-trinity-universe.json) |
