@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man and Dog: Small Game Hunt | 337651 | [337651-man-and-dog-small-game-hunt.json](./337651-man-and-dog-small-game-hunt.json) |
 | Man Face Spider I | 132773 | [132773-man-face-spider-i.json](./132773-man-face-spider-i.json) |
 | Man in a Maze | 62219 | [62219-man-in-a-maze.json](./62219-man-in-a-maze.json) |
+| Man Made | 312768 | [312768-man-made.json](./312768-man-made.json) |
 | Man O' War: Corsair - Warhammer Naval Battles | 25058 | [25058-man-o-war-corsair-warhammer-naval-battles.json](./25058-man-o-war-corsair-warhammer-naval-battles.json) |
 | Man of Steel | 63305 | [63305-man-of-steel.json](./63305-man-of-steel.json) |
 | Man of Sterling Quality | 192432 | [192432-man-of-sterling-quality.json](./192432-man-of-sterling-quality.json) |
@@ -3413,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizu no Senritsu 2: Hi no Kioku | 67305 | [67305-mizu-no-senritsu-2-hi-no-kioku.json](./67305-mizu-no-senritsu-2-hi-no-kioku.json) |
 | Mizuki Shigeru no Yokai Shashinkan | 43963 | [43963-mizuki-shigeru-no-yokai-shashinkan.json](./43963-mizuki-shigeru-no-yokai-shashinkan.json) |
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
+| MK-Ultra Tower Defense | 312766 | [312766-mk-ultra-tower-defense.json](./312766-mk-ultra-tower-defense.json) |
 | Mk50TWL Vehicle Battler Custom Slider | 407420 | [407420-mk50twl-vehicle-battler-custom-slider.json](./407420-mk50twl-vehicle-battler-custom-slider.json) |
 | MKL The Game | 331866 | [331866-mkl-the-game.json](./331866-mkl-the-game.json) |
 | MLB 07: The Show | 7369 | [7369-mlb-07-the-show.json](./7369-mlb-07-the-show.json) |
