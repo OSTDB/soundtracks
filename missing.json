@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T06:21:40.345Z",
-  "total_missing": 76854,
+  "generated_at": "2026-09-16T06:31:45.964Z",
+  "total_missing": 76864,
   "games": [
     {
       "igdb_id": 306086,
@@ -5831,11 +5831,6 @@
       "igdb_id": 39336,
       "game_name": "Aggressors of Dark Kombat",
       "file": "missing/A/39336-aggressors-of-dark-kombat.json"
-    },
-    {
-      "igdb_id": 73280,
-      "game_name": "Agharta: The Hollow Earth",
-      "file": "missing/A/73280-agharta-the-hollow-earth.json"
     },
     {
       "igdb_id": 391743,
@@ -119528,6 +119523,31 @@
       "file": "missing/F/378882-funko-fusion-deluxe-edition-fantastik-plastik-pack-4-t-bone-el-diablo-retails-only.json"
     },
     {
+      "igdb_id": 323398,
+      "game_name": "Funko Fusion: Back to the Future Outfits Pack",
+      "file": "missing/F/323398-funko-fusion-back-to-the-future-outfits-pack.json"
+    },
+    {
+      "igdb_id": 323400,
+      "game_name": "Funko Fusion: Bob Ross Pack",
+      "file": "missing/F/323400-funko-fusion-bob-ross-pack.json"
+    },
+    {
+      "igdb_id": 323397,
+      "game_name": "Funko Fusion: Sun Wukong",
+      "file": "missing/F/323397-funko-fusion-sun-wukong.json"
+    },
+    {
+      "igdb_id": 323394,
+      "game_name": "Funko Fusion: Team Fortress 2 Pack",
+      "file": "missing/F/323394-funko-fusion-team-fortress-2-pack.json"
+    },
+    {
+      "igdb_id": 323395,
+      "game_name": "Funko Fusion: The Walking Dead Pack",
+      "file": "missing/F/323395-funko-fusion-the-walking-dead-pack.json"
+    },
+    {
       "igdb_id": 39685,
       "game_name": "Funky Fish",
       "file": "missing/F/39685-funky-fish.json"
@@ -154768,9 +154788,19 @@
       "file": "missing/I/55046-injustice-2-fighter-pack-2.json"
     },
     {
+      "igdb_id": 323388,
+      "game_name": "Injustice 2: John Stewart",
+      "file": "missing/I/323388-injustice-2-john-stewart.json"
+    },
+    {
       "igdb_id": 165037,
       "game_name": "Injustice 2: Red Hood",
       "file": "missing/I/165037-injustice-2-red-hood.json"
+    },
+    {
+      "igdb_id": 323387,
+      "game_name": "Injustice 2: Reverse Flash",
+      "file": "missing/I/323387-injustice-2-reverse-flash.json"
     },
     {
       "igdb_id": 165038,
@@ -271653,6 +271683,11 @@
       "file": "missing/S/78045-schlag-den-star-das-spiel.json"
     },
     {
+      "igdb_id": 323389,
+      "game_name": "Schloss der Wölfe",
+      "file": "missing/S/323389-schloss-der-wolfe.json"
+    },
+    {
       "igdb_id": 230265,
       "game_name": "Schmaragon",
       "file": "missing/S/230265-schmaragon.json"
@@ -290876,6 +290911,11 @@
       "igdb_id": 381127,
       "game_name": "Sonic X Shadow Generations: Day One Edition",
       "file": "missing/S/381127-sonic-x-shadow-generations-day-one-edition.json"
+    },
+    {
+      "igdb_id": 323393,
+      "game_name": "Sonic X Shadow Generations: Sonic Jam Skin",
+      "file": "missing/S/323393-sonic-x-shadow-generations-sonic-jam-skin.json"
     },
     {
       "igdb_id": 325688,
@@ -331148,6 +331188,11 @@
       "file": "missing/T/55045-the-man-called-merc.json"
     },
     {
+      "igdb_id": 323396,
+      "game_name": "The Man Outside",
+      "file": "missing/T/323396-the-man-outside.json"
+    },
+    {
       "igdb_id": 374051,
       "game_name": "The Man Who Walked",
       "file": "missing/T/374051-the-man-who-walked.json"
@@ -359756,6 +359801,11 @@
       "igdb_id": 69281,
       "game_name": "Urban Dead",
       "file": "missing/U/69281-urban-dead.json"
+    },
+    {
+      "igdb_id": 323391,
+      "game_name": "Urban Dreambog",
+      "file": "missing/U/323391-urban-dreambog.json"
     },
     {
       "igdb_id": 223138,
