@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noir Crime Bundle: Mafia, Mystery & Investigation | 402297 | [402297-noir-crime-bundle-mafia-mystery-and-investigation.json](./402297-noir-crime-bundle-mafia-mystery-and-investigation.json) |
 | Noir Storm | 216984 | [216984-noir-storm.json](./216984-noir-storm.json) |
 | Noir Total: Deadly Party | 343270 | [343270-noir-total-deadly-party.json](./343270-noir-total-deadly-party.json) |
+| Noircotics | 312185 | [312185-noircotics.json](./312185-noircotics.json) |
 | Noirmancer | 400955 | [400955-noirmancer.json](./400955-noirmancer.json) |
 | NoirNet: The Neon Enigma | 249188 | [249188-noirnet-the-neon-enigma.json](./249188-noirnet-the-neon-enigma.json) |
 | Noise | 327192 | [327192-noise.json](./327192-noise.json) |
