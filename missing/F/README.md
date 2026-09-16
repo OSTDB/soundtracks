@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Navalny | 137665 | [137665-flappy-navalny.json](./137665-flappy-navalny.json) |
 | Flappy Shooter | 175982 | [175982-flappy-shooter.json](./175982-flappy-shooter.json) |
 | Flappy Souls | 249191 | [249191-flappy-souls.json](./249191-flappy-souls.json) |
+| Flappy Ugandan Knuckles | 308965 | [308965-flappy-ugandan-knuckles.json](./308965-flappy-ugandan-knuckles.json) |
 | Flappy Wings | 226423 | [226423-flappy-wings.json](./226423-flappy-wings.json) |
 | Flappy Wings | 381022 | [381022-flappy-wings.json](./381022-flappy-wings.json) |
 | Flappy: The Angry Bird | 144272 | [144272-flappy-the-angry-bird.json](./144272-flappy-the-angry-bird.json) |
