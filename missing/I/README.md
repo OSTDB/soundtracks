@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
 | Illville: Return instructions | 75180 | [75180-illville-return-instructions.json](./75180-illville-return-instructions.json) |
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
+| Ilomilo: Autumn Tale | 288340 | [288340-ilomilo-autumn-tale.json](./288340-ilomilo-autumn-tale.json) |
 | Iltami | 311646 | [311646-iltami.json](./311646-iltami.json) |
 | Ilysia | 123575 | [123575-ilysia.json](./123575-ilysia.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
