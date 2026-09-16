@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canvas of Kings | 259576 | [259576-canvas-of-kings.json](./259576-canvas-of-kings.json) |
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
+| Canyon Rush | 291619 | [291619-canyon-rush.json](./291619-canyon-rush.json) |
 | Capacocha | 179139 | [179139-capacocha.json](./179139-capacocha.json) |
 | Caparace | 383966 | [383966-caparace.json](./383966-caparace.json) |
 | Capcom Arcade Cabinet | 18821 | [18821-capcom-arcade-cabinet.json](./18821-capcom-arcade-cabinet.json) |
@@ -590,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of Eternity: The Wheel of Time | 321147 | [321147-cards-of-eternity-the-wheel-of-time.json](./321147-cards-of-eternity-the-wheel-of-time.json) |
 | Cards of Fortune | 360676 | [360676-cards-of-fortune.json](./360676-cards-of-fortune.json) |
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
+| Cards with Personalities Classic | 291620 | [291620-cards-with-personalities-classic.json](./291620-cards-with-personalities-classic.json) |
 | Cards! MonkeyBox 2 | 174300 | [174300-cards-monkeybox-2.json](./174300-cards-monkeybox-2.json) |
 | CardShark Hearts | 83479 | [83479-cardshark-hearts.json](./83479-cardshark-hearts.json) |
 | Cardtographer | 330339 | [330339-cardtographer.json](./330339-cardtographer.json) |
@@ -2705,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
 | Coca-Cola Lawnmower | 329722 | [329722-coca-cola-lawnmower.json](./329722-coca-cola-lawnmower.json) |
 | Cochonnet | 382750 | [382750-cochonnet.json](./382750-cochonnet.json) |
+| Cock Soccer | 291608 | [291608-cock-soccer.json](./291608-cock-soccer.json) |
 | Cockatrice Attacking the city | 120970 | [120970-cockatrice-attacking-the-city.json](./120970-cockatrice-attacking-the-city.json) |
 | Cocked and Loaded | 278671 | [278671-cocked-and-loaded.json](./278671-cocked-and-loaded.json) |
 | Cockhead | 130937 | [130937-cockhead.json](./130937-cockhead.json) |
@@ -3118,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Wings: Battle of Britain | 9800 | [9800-combat-wings-battle-of-britain.json](./9800-combat-wings-battle-of-britain.json) |
 | Combat Zone | 370794 | [370794-combat-zone.json](./370794-combat-zone.json) |
 | Combatant | 193407 | [193407-combatant.json](./193407-combatant.json) |
+| Combi Pool | 291603 | [291603-combi-pool.json](./291603-combi-pool.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
 | Combined_Arms | 143116 | [143116-combined-arms.json](./143116-combined-arms.json) |
 | Combined_Arms Gaiden | 143117 | [143117-combined-arms-gaiden.json](./143117-combined-arms-gaiden.json) |
@@ -3570,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
 | Cops and Robbers Fight | 105917 | [105917-cops-and-robbers-fight.json](./105917-cops-and-robbers-fight.json) |
+| Copter | 291600 | [291600-copter.json](./291600-copter.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
 | Cor Ex Machina | 63876 | [63876-cor-ex-machina.json](./63876-cor-ex-machina.json) |
 | Cora | 366836 | [366836-cora.json](./366836-cora.json) |
