@@ -1711,10 +1711,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Excalibur | 395549 | [395549-pinball-fx-excalibur.json](./395549-pinball-fx-excalibur.json) |
 | Pinball FX: Garfield Pinball | 239031 | [239031-pinball-fx-garfield-pinball.json](./239031-pinball-fx-garfield-pinball.json) |
 | Pinball FX: Gearbox Pinball | 239030 | [239030-pinball-fx-gearbox-pinball.json](./239030-pinball-fx-gearbox-pinball.json) |
+| Pinball FX: Goat Simulator Pinball | 316243 | [316243-pinball-fx-goat-simulator-pinball.json](./316243-pinball-fx-goat-simulator-pinball.json) |
 | Pinball FX: Nightmare Mansion | 395547 | [395547-pinball-fx-nightmare-mansion.json](./395547-pinball-fx-nightmare-mansion.json) |
 | Pinball FX: Peanuts' Snoopy Pinball | 239029 | [239029-pinball-fx-peanuts-snoopy-pinball.json](./239029-pinball-fx-peanuts-snoopy-pinball.json) |
 | Pinball FX: Rocky and Bullwinkle | 395546 | [395546-pinball-fx-rocky-and-bullwinkle.json](./395546-pinball-fx-rocky-and-bullwinkle.json) |
 | Pinball FX: Street Fighter II Tribute | 395551 | [395551-pinball-fx-street-fighter-ii-tribute.json](./395551-pinball-fx-street-fighter-ii-tribute.json) |
+| Pinball FX: The Princess Bride Pinball | 316244 | [316244-pinball-fx-the-princess-bride-pinball.json](./316244-pinball-fx-the-princess-bride-pinball.json) |
 | Pinball FX2 | 79328 | [79328-pinball-fx2.json](./79328-pinball-fx2.json) |
 | Pinball FX2: Mars Table | 20544 | [20544-pinball-fx2-mars-table.json](./20544-pinball-fx2-mars-table.json) |
 | Pinball FX2: Marvel Pinball | 86004 | [86004-pinball-fx2-marvel-pinball.json](./86004-pinball-fx2-marvel-pinball.json) |
@@ -2889,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyDrift | 309878 | [309878-polydrift.json](./309878-polydrift.json) |
 | Polyemisokos | 205572 | [205572-polyemisokos.json](./205572-polyemisokos.json) |
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
+| PolyFight | 316278 | [316278-polyfight.json](./316278-polyfight.json) |
 | Polygeddon: Survive | 248035 | [248035-polygeddon-survive.json](./248035-polygeddon-survive.json) |
 | Polyglot Language Learning Quiz | 370760 | [370760-polyglot-language-learning-quiz.json](./370760-polyglot-language-learning-quiz.json) |
 | Polygon Base | 274207 | [274207-polygon-base.json](./274207-polygon-base.json) |
