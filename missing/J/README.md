@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just a Jumping Square | 87186 | [87186-just-a-jumping-square.json](./87186-just-a-jumping-square.json) |
 | Just a Lullaby | 305522 | [305522-just-a-lullaby.json](./305522-just-a-lullaby.json) |
 | Just A Walk In The Park | 253927 | [253927-just-a-walk-in-the-park.json](./253927-just-a-walk-in-the-park.json) |
+| Just Act Natural: Museum | 295388 | [295388-just-act-natural-museum.json](./295388-just-act-natural-museum.json) |
 | Just Alone | 34799 | [34799-just-alone.json](./34799-just-alone.json) |
 | Just Another Christmas | 272033 | [272033-just-another-christmas.json](./272033-just-another-christmas.json) |
 | Just another generic: FPS | 291219 | [291219-just-another-generic-fps.json](./291219-just-another-generic-fps.json) |
