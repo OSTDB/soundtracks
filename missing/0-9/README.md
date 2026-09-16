@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Thousand Deaths | 411656 | [411656-1-thousand-deaths.json](./411656-1-thousand-deaths.json) |
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
 | 1-2-Splendid Word Search! | 414432 | [414432-1-2-splendid-word-search.json](./414432-1-2-splendid-word-search.json) |
+| 1-2-Whopping Word Search! | 316806 | [316806-1-2-whopping-word-search.json](./316806-1-2-whopping-word-search.json) |
 | 1-900-Gary | 325869 | [325869-1-900-gary.json](./325869-1-900-gary.json) |
 | 1, 2, 3... Bruegel! | 118319 | [118319-1-2-3-bruegel.json](./118319-1-2-3-bruegel.json) |
 | 1/2 Blood | 98422 | [98422-1-2-blood.json](./98422-1-2-blood.json) |
@@ -239,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18+ | 219040 | [219040-18.json](./219040-18.json) |
 | 180 Files: The Aegis Project | 132419 | [132419-180-files-the-aegis-project.json](./132419-180-files-the-aegis-project.json) |
 | 180° Connect | 386733 | [386733-180-connect.json](./386733-180-connect.json) |
+| 1873 | 316846 | [316846-1873.json](./316846-1873.json) |
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
 | 19: Neunzehn | 41342 | [41342-19-neunzehn.json](./41342-19-neunzehn.json) |
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
