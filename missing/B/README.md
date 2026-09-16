@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Stars | 130343 | [130343-bad-stars.json](./130343-bad-stars.json) |
 | Bad Summer | 334074 | [334074-bad-summer.json](./334074-bad-summer.json) |
 | Bad Teams | 348806 | [348806-bad-teams.json](./348806-bad-teams.json) |
+| Bad Time Trio | 321532 | [321532-bad-time-trio.json](./321532-bad-time-trio.json) |
 | Bad Trip | 379998 | [379998-bad-trip.json](./379998-bad-trip.json) |
 | Bad Vaxx | 361788 | [361788-bad-vaxx.json](./361788-bad-vaxx.json) |
 | Bad Way | 189204 | [189204-bad-way.json](./189204-bad-way.json) |
