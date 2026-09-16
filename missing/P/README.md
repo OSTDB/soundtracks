@@ -3174,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Ups that Kill! | 51165 | [51165-power-ups-that-kill.json](./51165-power-ups-that-kill.json) |
 | Power, Corruption & Lies | 57646 | [57646-power-corruption-and-lies.json](./57646-power-corruption-and-lies.json) |
 | Powerama | 60582 | [60582-powerama.json](./60582-powerama.json) |
+| Powerball: Monster's Quest | 329697 | [329697-powerball-monsters-quest.json](./329697-powerball-monsters-quest.json) |
 | PowerCharge | 349398 | [349398-powercharge.json](./349398-powercharge.json) |
 | Powercity 9000 | 26634 | [26634-powercity-9000.json](./26634-powercity-9000.json) |
 | Powered Platformer Bundle | 314861 | [314861-powered-platformer-bundle.json](./314861-powered-platformer-bundle.json) |
@@ -3765,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Sever | 368581 | [368581-project-sever.json](./368581-project-sever.json) |
 | Project SF2 | 174833 | [174833-project-sf2.json](./174833-project-sf2.json) |
 | Project Shadow | 330291 | [330291-project-shadow.json](./330291-project-shadow.json) |
+| Project Shikai | 329733 | [329733-project-shikai.json](./329733-project-shikai.json) |
 | Project Shiver Wing | 212452 | [212452-project-shiver-wing.json](./212452-project-shiver-wing.json) |
 | Project Shore | 103516 | [103516-project-shore.json](./103516-project-shore.json) |
 | Project SJHG | 320519 | [320519-project-sjhg.json](./320519-project-sjhg.json) |
