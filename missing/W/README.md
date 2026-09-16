@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ware's Laboratory | 373111 | [373111-wares-laboratory.json](./373111-wares-laboratory.json) |
 | Warehouse 30 | 403013 | [403013-warehouse-30.json](./403013-warehouse-30.json) |
 | Warehouse Bots | 298179 | [298179-warehouse-bots.json](./298179-warehouse-bots.json) |
+| Warehouse Manager Simulator | 294296 | [294296-warehouse-manager-simulator.json](./294296-warehouse-manager-simulator.json) |
 | Warehouse Simulator | 377156 | [377156-warehouse-simulator.json](./377156-warehouse-simulator.json) |
 | Warface: Global Operations | 172778 | [172778-warface-global-operations.json](./172778-warface-global-operations.json) |
 | Warfare 1917 | 61588 | [61588-warfare-1917.json](./61588-warfare-1917.json) |
@@ -1434,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Force | 116984 | [116984-wind-force.json](./116984-wind-force.json) |
 | Wind Love | 259589 | [259589-wind-love.json](./259589-wind-love.json) |
 | Wind Peaks 2 | 236284 | [236284-wind-peaks-2.json](./236284-wind-peaks-2.json) |
+| Wind Rider | 294258 | [294258-wind-rider.json](./294258-wind-rider.json) |
 | Wind Rider: Hero Outfit | 312001 | [312001-wind-rider-hero-outfit.json](./312001-wind-rider-hero-outfit.json) |
 | Wind Runner Adventure | 38960 | [38960-wind-runner-adventure.json](./38960-wind-runner-adventure.json) |
 | Wind Story | 312540 | [312540-wind-story.json](./312540-wind-story.json) |
@@ -1673,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wittengrad Is No More | 386254 | [386254-wittengrad-is-no-more.json](./386254-wittengrad-is-no-more.json) |
 | Wittle Defender | 358978 | [358978-wittle-defender.json](./358978-wittle-defender.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
+| Wizard Another World | 294280 | [294280-wizard-another-world.json](./294280-wizard-another-world.json) |
 | Wizard Battle | 121638 | [121638-wizard-battle.json](./121638-wizard-battle.json) |
 | Wizard Bros | 158233 | [158233-wizard-bros.json](./158233-wizard-bros.json) |
 | Wizard Confidential | 401549 | [401549-wizard-confidential.json](./401549-wizard-confidential.json) |
