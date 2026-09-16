@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oppai Muse | 203383 | [203383-oppai-muse.json](./203383-oppai-muse.json) |
 | Oppai Puzzle L | 209481 | [209481-oppai-puzzle-l.json](./209481-oppai-puzzle-l.json) |
 | Oppaidius Tropical Cruise! | 126641 | [126641-oppaidius-tropical-cruise.json](./126641-oppaidius-tropical-cruise.json) |
+| Opposite Day 2 | 329173 | [329173-opposite-day-2.json](./329173-opposite-day-2.json) |
 | Opposyte | 258459 | [258459-opposyte.json](./258459-opposyte.json) |
 | Opscam | 337156 | [337156-opscam.json](./337156-opscam.json) |
 | Optasia: The Last Visit | 391034 | [391034-optasia-the-last-visit.json](./391034-optasia-the-last-visit.json) |
@@ -1450,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Counter | 186813 | [186813-over-the-counter.json](./186813-over-the-counter.json) |
 | Over the Hedge: Hammy Goes Nuts! | 358372 | [358372-over-the-hedge-hammy-goes-nuts.json](./358372-over-the-hedge-hammy-goes-nuts.json) |
 | Over the Hedge: Hammy Goes Nuts! | 358374 | [358374-over-the-hedge-hammy-goes-nuts.json](./358374-over-the-hedge-hammy-goes-nuts.json) |
+| Over the Hill | 329124 | [329124-over-the-hill.json](./329124-over-the-hill.json) |
 | Over the Net | 87181 | [87181-over-the-net.json](./87181-over-the-net.json) |
 | Over the Radio | 369086 | [369086-over-the-radio.json](./369086-over-the-radio.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
