@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TD3D | 371907 | [371907-td3d.json](./371907-td3d.json) |
 | TDP5: Arena 3D | 35639 | [35639-tdp5-arena-3d.json](./35639-tdp5-arena-3d.json) |
 | TDS: War Games | 203541 | [203541-tds-war-games.json](./203541-tds-war-games.json) |
+| Tea for Sana | 310036 | [310036-tea-for-sana.json](./310036-tea-for-sana.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
 | Teach My Little Sister How to Drive | 373092 | [373092-teach-my-little-sister-how-to-drive.json](./373092-teach-my-little-sister-how-to-drive.json) |
@@ -3125,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Kids on Earth: Happy Apocalypse to You | 256865 | [256865-the-last-kids-on-earth-happy-apocalypse-to-you.json](./256865-the-last-kids-on-earth-happy-apocalypse-to-you.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
 | The Last King's Archer | 153371 | [153371-the-last-kings-archer.json](./153371-the-last-kings-archer.json) |
+| The Last Knight | 310061 | [310061-the-last-knight.json](./310061-the-last-knight.json) |
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
 | The Last Librarian | 266816 | [266816-the-last-librarian.json](./266816-the-last-librarian.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
@@ -3763,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Side | 178673 | [178673-the-other-side.json](./178673-the-other-side.json) |
 | The Other Side | 308545 | [308545-the-other-side.json](./308545-the-other-side.json) |
 | The other side: My own horror | 161402 | [161402-the-other-side-my-own-horror.json](./161402-the-other-side-my-own-horror.json) |
+| The Other Side: Tower of Souls Remaster | 310066 | [310066-the-other-side-tower-of-souls-remaster.json](./310066-the-other-side-tower-of-souls-remaster.json) |
 | The Other: Rosie's Road of Love | 147394 | [147394-the-other-rosies-road-of-love.json](./147394-the-other-rosies-road-of-love.json) |
 | The Others | 343852 | [343852-the-others.json](./343852-the-others.json) |
 | The Otter Ways | 288778 | [288778-the-otter-ways.json](./288778-the-otter-ways.json) |
@@ -4578,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tide | 132786 | [132786-the-tide.json](./132786-the-tide.json) |
 | The Tides of Time | 141790 | [141790-the-tides-of-time.json](./141790-the-tides-of-time.json) |
 | The Tiger T | 210668 | [210668-the-tiger-t.json](./210668-the-tiger-t.json) |
+| The Time Game | 310054 | [310054-the-time-game.json](./310054-the-time-game.json) |
 | The Tiny Bang Story HD | 100154 | [100154-the-tiny-bang-story-hd.json](./100154-the-tiny-bang-story-hd.json) |
 | The Tiny Tale 2 | 35975 | [35975-the-tiny-tale-2.json](./35975-the-tiny-tale-2.json) |
 | The Tolerance Group | 408940 | [408940-the-tolerance-group.json](./408940-the-tolerance-group.json) |
@@ -6022,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeSplitters | 317415 | [317415-timesplitters.json](./317415-timesplitters.json) |
 | TimeSplitters 2 | 317414 | [317414-timesplitters-2.json](./317414-timesplitters-2.json) |
 | TimeSplitters: Future Perfect | 317416 | [317416-timesplitters-future-perfect.json](./317416-timesplitters-future-perfect.json) |
+| Timestamps: Lost Love | 310041 | [310041-timestamps-lost-love.json](./310041-timestamps-lost-love.json) |
 | TimeTrain | 328629 | [328629-timetrain.json](./328629-timetrain.json) |
 | TimeWatch | 130909 | [130909-timewatch.json](./130909-timewatch.json) |
 | TimeZero | 58813 | [58813-timezero.json](./58813-timezero.json) |
@@ -6642,6 +6647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Trumps Adventures! | 5236 | [5236-top-trumps-adventures.json](./5236-top-trumps-adventures.json) |
 | Top Trumps Turbo | 35897 | [35897-top-trumps-turbo.json](./35897-top-trumps-turbo.json) |
 | Top Web Search 23 | 283719 | [283719-top-web-search-23.json](./283719-top-web-search-23.json) |
+| Topac Battle: Supporter Pack | 310035 | [310035-topac-battle-supporter-pack.json](./310035-topac-battle-supporter-pack.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
 | Topic Twister | 254162 | [254162-topic-twister.json](./254162-topic-twister.json) |
 | Topo Mix Game | 204107 | [204107-topo-mix-game.json](./204107-topo-mix-game.json) |
@@ -6971,6 +6977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Dream 2 | 382927 | [382927-tower-dream-2.json](./382927-tower-dream-2.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
+| Tower Networking Inc. | 310040 | [310040-tower-networking-inc.json](./310040-tower-networking-inc.json) |
 | Tower O-ven | 338261 | [338261-tower-o-ven.json](./338261-tower-o-ven.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
@@ -7015,6 +7022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: KSLC Airport | 353332 | [353332-tower-simulator-3-kslc-airport.json](./353332-tower-simulator-3-kslc-airport.json) |
 | Tower! Simulator 3: LSZH Airport | 353325 | [353325-tower-simulator-3-lszh-airport.json](./353325-tower-simulator-3-lszh-airport.json) |
 | Tower! Simulator 3: OMDB Airport | 236836 | [236836-tower-simulator-3-omdb-airport.json](./236836-tower-simulator-3-omdb-airport.json) |
+| Tower! Simulator 3: RJTT Airport | 310044 | [310044-tower-simulator-3-rjtt-airport.json](./310044-tower-simulator-3-rjtt-airport.json) |
 | Tower!3D | 33091 | [33091-tower-3d.json](./33091-tower-3d.json) |
 | Tower!3D: EGLL Airport | 161314 | [161314-tower-3d-egll-airport.json](./161314-tower-3d-egll-airport.json) |
 | Tower!3D: KSEA Airport | 161316 | [161316-tower-3d-ksea-airport.json](./161316-tower-3d-ksea-airport.json) |
@@ -8433,6 +8441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
 | Type da Puyo Puyo | 63839 | [63839-type-da-puyo-puyo.json](./63839-type-da-puyo-puyo.json) |
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
+| Type Galaxy | 310065 | [310065-type-galaxy.json](./310065-type-galaxy.json) |
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type the Rhythm | 389582 | [389582-type-the-rhythm.json](./389582-type-the-rhythm.json) |
