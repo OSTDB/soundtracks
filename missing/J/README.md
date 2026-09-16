@@ -12,6 +12,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.D. Arcades | 319584 | [319584-j-d-arcades.json](./319584-j-d-arcades.json) |
 | J.League Dynamite Soccer 64 | 3519 | [3519-j-league-dynamite-soccer-64.json](./3519-j-league-dynamite-soccer-64.json) |
 | J.League Eleven Beat 1997 | 3520 | [3520-j-league-eleven-beat-1997.json](./3520-j-league-eleven-beat-1997.json) |
+| J.League Excite Stage '94: AS Flügels | 329706 | [329706-j-league-excite-stage-94-as-flugels.json](./329706-j-league-excite-stage-94-as-flugels.json) |
+| J.League Excite Stage '94: Bellmare | 329709 | [329709-j-league-excite-stage-94-bellmare.json](./329709-j-league-excite-stage-94-bellmare.json) |
+| J.League Excite Stage '94: JEF United | 329702 | [329702-j-league-excite-stage-94-jef-united.json](./329702-j-league-excite-stage-94-jef-united.json) |
+| J.League Excite Stage '94: Júbilo Iwata | 329701 | [329701-j-league-excite-stage-94-jubilo-iwata.json](./329701-j-league-excite-stage-94-jubilo-iwata.json) |
+| J.League Excite Stage '94: Kashima Antlers | 329711 | [329711-j-league-excite-stage-94-kashima-antlers.json](./329711-j-league-excite-stage-94-kashima-antlers.json) |
+| J.League Excite Stage '94: Nagoya Grampus Eight | 329710 | [329710-j-league-excite-stage-94-nagoya-grampus-eight.json](./329710-j-league-excite-stage-94-nagoya-grampus-eight.json) |
+| J.League Excite Stage '94: Nissan F.C. Yokohama Marinos | 329704 | [329704-j-league-excite-stage-94-nissan-f-c-yokohama-marinos.json](./329704-j-league-excite-stage-94-nissan-f-c-yokohama-marinos.json) |
+| J.League Excite Stage '94: Panasonic Gamba Osaka | 329707 | [329707-j-league-excite-stage-94-panasonic-gamba-osaka.json](./329707-j-league-excite-stage-94-panasonic-gamba-osaka.json) |
+| J.League Excite Stage '94: Red Diamonds | 329708 | [329708-j-league-excite-stage-94-red-diamonds.json](./329708-j-league-excite-stage-94-red-diamonds.json) |
+| J.League Excite Stage '94: Sanfreece Hiroshima FC | 329703 | [329703-j-league-excite-stage-94-sanfreece-hiroshima-fc.json](./329703-j-league-excite-stage-94-sanfreece-hiroshima-fc.json) |
+| J.League Excite Stage '94: Shimizu S-Pulse | 329712 | [329712-j-league-excite-stage-94-shimizu-s-pulse.json](./329712-j-league-excite-stage-94-shimizu-s-pulse.json) |
+| J.League Excite Stage '94: Verdy Yomiuri | 329700 | [329700-j-league-excite-stage-94-verdy-yomiuri.json](./329700-j-league-excite-stage-94-verdy-yomiuri.json) |
 | J.League Excite Stage '96 | 42657 | [42657-j-league-excite-stage-96.json](./42657-j-league-excite-stage-96.json) |
 | J.League GG Pro-Striker '94 | 126010 | [126010-j-league-gg-pro-striker-94.json](./126010-j-league-gg-pro-striker-94.json) |
 | J.League Jikkyou Honoo no Striker | 220856 | [220856-j-league-jikkyou-honoo-no-striker.json](./220856-j-league-jikkyou-honoo-no-striker.json) |
@@ -442,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsu | 79944 | [79944-jigsu.json](./79944-jigsu.json) |
 | Jigten: Mandala of Shadows | 376449 | [376449-jigten-mandala-of-shadows.json](./376449-jigten-mandala-of-shadows.json) |
 | Jiguland | 164964 | [164964-jiguland.json](./164964-jiguland.json) |
+| Jiji...Love | 329715 | [329715-jiji-love.json](./329715-jiji-love.json) |
 | Jikai Shounen Mettomag | 41321 | [41321-jikai-shounen-mettomag.json](./41321-jikai-shounen-mettomag.json) |
 | Jikkyou GI Stable | 3524 | [3524-jikkyou-gi-stable.json](./3524-jikkyou-gi-stable.json) |
 | Jikkyou Golf Master 2000 | 143661 | [143661-jikkyou-golf-master-2000.json](./143661-jikkyou-golf-master-2000.json) |
