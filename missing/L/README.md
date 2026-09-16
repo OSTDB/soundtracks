@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Langrisser V: The End of Legend | 78665 | [78665-langrisser-v-the-end-of-legend.json](./78665-langrisser-v-the-end-of-legend.json) |
 | Langrisser: Hikari no Matsuei | 42010 | [42010-langrisser-hikari-no-matsuei.json](./42010-langrisser-hikari-no-matsuei.json) |
 | Laniakea | 304714 | [304714-laniakea.json](./304714-laniakea.json) |
+| Lanista: Shadows and Dust | 294283 | [294283-lanista-shadows-and-dust.json](./294283-lanista-shadows-and-dust.json) |
 | Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
 | Lantern Forge | 36263 | [36263-lantern-forge.json](./36263-lantern-forge.json) |
 | Lantern of Worlds - The Story of Layla | 116290 | [116290-lantern-of-worlds-the-story-of-layla.json](./116290-lantern-of-worlds-the-story-of-layla.json) |
@@ -504,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazarian | 23917 | [23917-lazarian.json](./23917-lazarian.json) |
 | Lazer Tag Arena | 340907 | [340907-lazer-tag-arena.json](./340907-lazer-tag-arena.json) |
 | Lazer Wheel | 38920 | [38920-lazer-wheel.json](./38920-lazer-wheel.json) |
+| Lazerz | 294282 | [294282-lazerz.json](./294282-lazerz.json) |
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
 | Lazr: A Clothformer | 126653 | [126653-lazr-a-clothformer.json](./126653-lazr-a-clothformer.json) |
 | Lazy Caverns | 57080 | [57080-lazy-caverns.json](./57080-lazy-caverns.json) |
