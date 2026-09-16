@@ -2202,7 +2202,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Greatest Cities Mosaics 10 | 294471 | [294471-worlds-greatest-cities-mosaics-10.json](./294471-worlds-greatest-cities-mosaics-10.json) |
 | World's Greatest Cities Mosaics 2 | 415863 | [415863-worlds-greatest-cities-mosaics-2.json](./415863-worlds-greatest-cities-mosaics-2.json) |
 | World's Greatest Cities Mosaics 4 | 415944 | [415944-worlds-greatest-cities-mosaics-4.json](./415944-worlds-greatest-cities-mosaics-4.json) |
+| World's Greatest Cities Mosaics 5 | 295923 | [295923-worlds-greatest-cities-mosaics-5.json](./295923-worlds-greatest-cities-mosaics-5.json) |
+| World's Greatest Cities Mosaics 6 | 295924 | [295924-worlds-greatest-cities-mosaics-6.json](./295924-worlds-greatest-cities-mosaics-6.json) |
 | World's Greatest Cities Mosaics 7 | 415945 | [415945-worlds-greatest-cities-mosaics-7.json](./415945-worlds-greatest-cities-mosaics-7.json) |
+| World's Greatest Cities Mosaics 8 | 295925 | [295925-worlds-greatest-cities-mosaics-8.json](./295925-worlds-greatest-cities-mosaics-8.json) |
 | World's Greatest Cities Mosaics 9 | 415942 | [415942-worlds-greatest-cities-mosaics-9.json](./415942-worlds-greatest-cities-mosaics-9.json) |
 | World's Greatest Coasters | 73230 | [73230-worlds-greatest-coasters.json](./73230-worlds-greatest-coasters.json) |
 | World's Greatest Places Mosaics 2 | 415936 | [415936-worlds-greatest-places-mosaics-2.json](./415936-worlds-greatest-places-mosaics-2.json) |
