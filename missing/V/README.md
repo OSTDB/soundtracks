@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viva Mortis | 117734 | [117734-viva-mortis.json](./117734-viva-mortis.json) |
 | Viva Piñata | 7236 | [7236-viva-pinata.json](./7236-viva-pinata.json) |
 | Viva Piñata: Trouble in Paradise | 7238 | [7238-viva-pinata-trouble-in-paradise.json](./7238-viva-pinata-trouble-in-paradise.json) |
+| Viva Project | 316814 | [316814-viva-project.json](./316814-viva-project.json) |
 | Vivaion | 263520 | [263520-vivaion.json](./263520-vivaion.json) |
 | Vivat Slovakia | 216496 | [216496-vivat-slovakia.json](./216496-vivat-slovakia.json) |
 | Vive le Roi | 31789 | [31789-vive-le-roi.json](./31789-vive-le-roi.json) |
