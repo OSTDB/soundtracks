@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Very British Summer | 375941 | [375941-a-very-british-summer.json](./375941-a-very-british-summer.json) |
 | A Very Pilkington Christmas | 280752 | [280752-a-very-pilkington-christmas.json](./280752-a-very-pilkington-christmas.json) |
+| A Very Splendid Otome Game | 321555 | [321555-a-very-splendid-otome-game.json](./321555-a-very-splendid-otome-game.json) |
 | A Virus Named Tom | 3040 | [3040-a-virus-named-tom.json](./3040-a-virus-named-tom.json) |
 | A Visit to Sesame Street: Letters | 45945 | [45945-a-visit-to-sesame-street-letters.json](./45945-a-visit-to-sesame-street-letters.json) |
 | A Visit to Sesame Street: Numbers | 46558 | [46558-a-visit-to-sesame-street-numbers.json](./46558-a-visit-to-sesame-street-numbers.json) |
@@ -748,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airaki! | 61557 | [61557-airaki.json](./61557-airaki.json) |
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
 | Airborne Empire | 252769 | [252769-airborne-empire.json](./252769-airborne-empire.json) |
+| Airborne Justice | 321533 | [321533-airborne-justice.json](./321533-airborne-justice.json) |
 | Airborne Kingdom: Deluxe Edition | 216228 | [216228-airborne-kingdom-deluxe-edition.json](./216228-airborne-kingdom-deluxe-edition.json) |
 | Airborne Ranger | 11891 | [11891-airborne-ranger.json](./11891-airborne-ranger.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
@@ -2385,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
 | Aquatic Adventure | 292015 | [292015-aquatic-adventure.json](./292015-aquatic-adventure.json) |
 | Aquatic Rampage | 152348 | [152348-aquatic-rampage.json](./152348-aquatic-rampage.json) |
+| Aquatic Store Simulator | 321547 | [321547-aquatic-store-simulator.json](./321547-aquatic-store-simulator.json) |
 | Aquatico | 199129 | [199129-aquatico.json](./199129-aquatico.json) |
 | Aquatics Hentai Babes | 157717 | [157717-aquatics-hentai-babes.json](./157717-aquatics-hentai-babes.json) |
 | Aquatopia | 44601 | [44601-aquatopia.json](./44601-aquatopia.json) |
@@ -2800,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Survival Ascended | 250509 | [250509-ark-survival-ascended.json](./250509-ark-survival-ascended.json) |
 | Ark: The Center Ascended | 304378 | [304378-ark-the-center-ascended.json](./304378-ark-the-center-ascended.json) |
 | Ark: Ultimate Survivor Edition | 152344 | [152344-ark-ultimate-survivor-edition.json](./152344-ark-ultimate-survivor-edition.json) |
+| Ark's Wonder Dungeon | 321588 | [321588-arks-wonder-dungeon.json](./321588-arks-wonder-dungeon.json) |
 | Arkady Survive | 117658 | [117658-arkady-survive.json](./117658-arkady-survive.json) |
 | Arkaia: The Enigmatic Isle | 68606 | [68606-arkaia-the-enigmatic-isle.json](./68606-arkaia-the-enigmatic-isle.json) |
 | Arkana Senki Ludo | 166163 | [166163-arkana-senki-ludo.json](./166163-arkana-senki-ludo.json) |
@@ -2984,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Together | 347165 | [347165-art-together.json](./347165-art-together.json) |
 | Art-O-Ween: Night at the Gallery | 236811 | [236811-art-o-ween-night-at-the-gallery.json](./236811-art-o-ween-night-at-the-gallery.json) |
 | Art-Therapy: Jigsaw Puzzle | 357873 | [357873-art-therapy-jigsaw-puzzle.json](./357873-art-therapy-jigsaw-puzzle.json) |
+| Artemis Blue | 321543 | [321543-artemis-blue.json](./321543-artemis-blue.json) |
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
 | Artemis: Book One | 239288 | [239288-artemis-book-one.json](./239288-artemis-book-one.json) |
 | Artemishea | 150617 | [150617-artemishea.json](./150617-artemishea.json) |
@@ -3240,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assemblands | 339372 | [339372-assemblands.json](./339372-assemblands.json) |
 | Assemble | 266778 | [266778-assemble.json](./266778-assemble.json) |
 | Assemble the Car | 233488 | [233488-assemble-the-car.json](./233488-assemble-the-car.json) |
+| Assembloids 2600 | 321557 | [321557-assembloids-2600.json](./321557-assembloids-2600.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
 | Assenizator | 355116 | [355116-assenizator.json](./355116-assenizator.json) |
 | Assetto Corsa | 5597 | [5597-assetto-corsa.json](./5597-assetto-corsa.json) |
@@ -3409,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroNest | 19527 | [19527-astronest.json](./19527-astronest.json) |
 | Astronoka | 94714 | [94714-astronoka.json](./94714-astronoka.json) |
 | Astronomica: The Quest for the Edge of the Universe | 71538 | [71538-astronomica-the-quest-for-the-edge-of-the-universe.json](./71538-astronomica-the-quest-for-the-edge-of-the-universe.json) |
+| Astronomicon | 321527 | [321527-astronomicon.json](./321527-astronomicon.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Astronot | 22270 | [22270-astronot.json](./22270-astronot.json) |
 | Astropark | 353380 | [353380-astropark.json](./353380-astropark.json) |
