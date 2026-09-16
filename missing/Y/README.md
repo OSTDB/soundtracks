@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Don't Know Jack Vol. 6: The Lost Gold | 16789 | [16789-you-dont-know-jack-vol-6-the-lost-gold.json](./16789-you-dont-know-jack-vol-6-the-lost-gold.json) |
 | You Don't Know Jack: Jumbo | 205804 | [205804-you-dont-know-jack-jumbo.json](./205804-you-dont-know-jack-jumbo.json) |
 | You Don't Know Jack: Mock 2 | 77326 | [77326-you-dont-know-jack-mock-2.json](./77326-you-dont-know-jack-mock-2.json) |
+| You Don't Know Jack: The In-Your-Face (Book) Trivia Game | 297611 | [297611-you-dont-know-jack-the-in-your-face-book-trivia-game.json](./297611-you-dont-know-jack-the-in-your-face-book-trivia-game.json) |
 | You Don't Know Jack: The Irreverent Collection | 205803 | [205803-you-dont-know-jack-the-irreverent-collection.json](./205803-you-dont-know-jack-the-irreverent-collection.json) |
 | You Don't Know Jack: The NetShow | 391588 | [391588-you-dont-know-jack-the-netshow.json](./391588-you-dont-know-jack-the-netshow.json) |
 | You Don't Know Richard | 73253 | [73253-you-dont-know-richard.json](./73253-you-dont-know-richard.json) |
@@ -458,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukkuri Labo: Touhou Yukkuri no Ragdoll Simulator Game | 220302 | [220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json](./220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json) |
 | Yukkuri Tanoshimu Otona no Jigsaw Puzzle DS: Sekai no Meiga 1 - Renaissance, Baroque no Kyoshou | 124160 | [124160-yukkuri-tanoshimu-otona-no-jigsaw-puzzle-ds-sekai-no-meiga-1-renaissance-baroque-no-kyoshou.json](./124160-yukkuri-tanoshimu-otona-no-jigsaw-puzzle-ds-sekai-no-meiga-1-renaissance-baroque-no-kyoshou.json) |
 | Yukkuri Tanoshimu Otona no Jigsaw Puzzle DS: Sekai no Meiga 2 - Inshou-ha, Kouki Inshou-ha no Kyoshou | 124161 | [124161-yukkuri-tanoshimu-otona-no-jigsaw-puzzle-ds-sekai-no-meiga-2-inshou-ha-kouki-inshou-ha-no-kyoshou.json](./124161-yukkuri-tanoshimu-otona-no-jigsaw-puzzle-ds-sekai-no-meiga-2-inshou-ha-kouki-inshou-ha-no-kyoshou.json) |
+| Yukkuri Tap Coin Idle Game for Touhou | 297645 | [297645-yukkuri-tap-coin-idle-game-for-touhou.json](./297645-yukkuri-tap-coin-idle-game-for-touhou.json) |
 | Yuko and the Akuma Menace | 153942 | [153942-yuko-and-the-akuma-menace.json](./153942-yuko-and-the-akuma-menace.json) |
 | Yukti | 174360 | [174360-yukti.json](./174360-yukti.json) |
 | Yukyo Station | 216809 | [216809-yukyo-station.json](./216809-yukyo-station.json) |
