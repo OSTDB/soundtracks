@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurise | 330741 | [330741-samurise.json](./330741-samurise.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk | 226402 | [226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json](./226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk II | 226403 | [226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json](./226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json) |
+| Samuza | 287215 | [287215-samuza.json](./287215-samuza.json) |
 | San Andreas Multiplayer | 199038 | [199038-san-andreas-multiplayer.json](./199038-san-andreas-multiplayer.json) |
 | San Francisco Rush 2049 | 3596 | [3596-san-francisco-rush-2049.json](./3596-san-francisco-rush-2049.json) |
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
@@ -2711,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Breath | 287462 | [287462-silent-breath.json](./287462-silent-breath.json) |
 | Silent Castle | 212491 | [212491-silent-castle.json](./212491-silent-castle.json) |
 | Silent Castle | 399717 | [399717-silent-castle.json](./399717-silent-castle.json) |
+| Silent Cause | 287238 | [287238-silent-cause.json](./287238-silent-cause.json) |
 | Silent Escape: Induction | 127945 | [127945-silent-escape-induction.json](./127945-silent-escape-induction.json) |
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
 | Silent Frontiers | 304606 | [304606-silent-frontiers.json](./304606-silent-frontiers.json) |
@@ -3068,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six | 60012 | [60012-six.json](./60012-six.json) |
 | Six & Six | 392759 | [392759-six-and-six.json](./392759-six-and-six.json) |
 | Six Ages 2: Lights Going Out | 245860 | [245860-six-ages-2-lights-going-out.json](./245860-six-ages-2-lights-going-out.json) |
+| Six Cabins in Serpent Ridge National Forest | 287221 | [287221-six-cabins-in-serpent-ridge-national-forest.json](./287221-six-cabins-in-serpent-ridge-national-forest.json) |
 | Six Degrees of Damnation | 118981 | [118981-six-degrees-of-damnation.json](./118981-six-degrees-of-damnation.json) |
 | Six F and Six 0 | 151660 | [151660-six-f-and-six-0.json](./151660-six-f-and-six-0.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
@@ -4373,6 +4376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitomb | 325859 | [325859-solitomb.json](./325859-solitomb.json) |
 | Solitons | 204096 | [204096-solitons.json](./204096-solitons.json) |
 | Solitude | 163970 | [163970-solitude.json](./163970-solitude.json) |
+| Solitude | 287232 | [287232-solitude.json](./287232-solitude.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
 | Solo Chess | 372985 | [372985-solo-chess.json](./372985-solo-chess.json) |
 | Solo Defender | 333110 | [333110-solo-defender.json](./333110-solo-defender.json) |
@@ -5272,6 +5276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Miner: Platinum Edition | 100155 | [100155-space-miner-platinum-edition.json](./100155-space-miner-platinum-edition.json) |
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
 | Space Mission SM-11 | 235219 | [235219-space-mission-sm-11.json](./235219-space-mission-sm-11.json) |
+| Space Nature Attack Tower Defense | 287222 | [287222-space-nature-attack-tower-defense.json](./287222-space-nature-attack-tower-defense.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
 | Space One: Ascendant | 167226 | [167226-space-one-ascendant.json](./167226-space-one-ascendant.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
@@ -5875,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splodge Royale | 190166 | [190166-splodge-royale.json](./190166-splodge-royale.json) |
 | Splort | 312175 | [312175-splort.json](./312175-splort.json) |
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
+| Splurge | 287194 | [287194-splurge.json](./287194-splurge.json) |
 | Sponchies | 68603 | [68603-sponchies.json](./68603-sponchies.json) |
 | SpongeBob Big Guy Challenge | 382339 | [382339-spongebob-big-guy-challenge.json](./382339-spongebob-big-guy-challenge.json) |
 | SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
@@ -6255,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
 | Star Arthur Densetsu I: Wakusei Mephius | 65513 | [65513-star-arthur-densetsu-i-wakusei-mephius.json](./65513-star-arthur-densetsu-i-wakusei-mephius.json) |
 | Star Beads | 329007 | [329007-star-beads.json](./329007-star-beads.json) |
+| Star Bind | 287241 | [287241-star-bind.json](./287241-star-bind.json) |
 | Star Birds | 305171 | [305171-star-birds.json](./305171-star-birds.json) |
 | Star Blaze | 95389 | [95389-star-blaze.json](./95389-star-blaze.json) |
 | Star Blues | 216795 | [216795-star-blues.json](./216795-star-blues.json) |
@@ -7055,6 +7062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman War Lightsaber Games | 100746 | [100746-stickman-war-lightsaber-games.json](./100746-stickman-war-lightsaber-games.json) |
 | Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
 | Stickman World | 87250 | [87250-stickman-world.json](./87250-stickman-world.json) |
+| Stickman World Battle | 287231 | [287231-stickman-world-battle.json](./287231-stickman-world-battle.json) |
 | Stickman Zombie Shooting 3D | 398420 | [398420-stickman-zombie-shooting-3d.json](./398420-stickman-zombie-shooting-3d.json) |
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
 | StickMUD | 228427 | [228427-stickmud.json](./228427-stickmud.json) |
