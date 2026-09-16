@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladder Climbing | 301818 | [301818-ladder-climbing.json](./301818-ladder-climbing.json) |
 | Ladders by Powgi | 146927 | [146927-ladders-by-powgi.json](./146927-ladders-by-powgi.json) |
 | Ladderway | 255990 | [255990-ladderway.json](./255990-ladderway.json) |
+| Lade's Sandbox | 303621 | [303621-lades-sandbox.json](./303621-lades-sandbox.json) |
 | Ladies | 109732 | [109732-ladies.json](./109732-ladies.json) |
 | Ladies and Gentlemen, It's the Turnabout Show! | 318803 | [318803-ladies-and-gentlemen-its-the-turnabout-show.json](./318803-ladies-and-gentlemen-its-the-turnabout-show.json) |
 | Ladies of Sorrow: Night One | 323551 | [323551-ladies-of-sorrow-night-one.json](./323551-ladies-of-sorrow-night-one.json) |
@@ -235,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Langrisser IV | 69226 | [69226-langrisser-iv.json](./69226-langrisser-iv.json) |
 | Langrisser V: The End of Legend | 78665 | [78665-langrisser-v-the-end-of-legend.json](./78665-langrisser-v-the-end-of-legend.json) |
 | Langrisser: Hikari no Matsuei | 42010 | [42010-langrisser-hikari-no-matsuei.json](./42010-langrisser-hikari-no-matsuei.json) |
+| Laniakea | 304714 | [304714-laniakea.json](./304714-laniakea.json) |
 | Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
 | Lantern Forge | 36263 | [36263-lantern-forge.json](./36263-lantern-forge.json) |
 | Lantern of Worlds - The Story of Layla | 116290 | [116290-lantern-of-worlds-the-story-of-layla.json](./116290-lantern-of-worlds-the-story-of-layla.json) |
@@ -438,12 +440,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laugh & Learn: Animal Sounds | 101577 | [101577-laugh-and-learn-animal-sounds.json](./101577-laugh-and-learn-animal-sounds.json) |
 | Laughing in the Wind Mobile | 174880 | [174880-laughing-in-the-wind-mobile.json](./174880-laughing-in-the-wind-mobile.json) |
 | Laughingstock Apocalypse Redux | 364491 | [364491-laughingstock-apocalypse-redux.json](./364491-laughingstock-apocalypse-redux.json) |
+| LaughterLost | 303622 | [303622-laughterlost.json](./303622-laughterlost.json) |
 | Launch & Loot | 340902 | [340902-launch-and-loot.json](./340902-launch-and-loot.json) |
 | Launch Dude | 339285 | [339285-launch-dude.json](./339285-launch-dude.json) |
 | Launch The Baby | 246413 | [246413-launch-the-baby.json](./246413-launch-the-baby.json) |
 | Launcher | 358923 | [358923-launcher.json](./358923-launcher.json) |
 | Launcher Heroes | 236817 | [236817-launcher-heroes.json](./236817-launcher-heroes.json) |
 | Laundry | 317025 | [317025-laundry.json](./317025-laundry.json) |
+| Laundry Night | 304166 | [304166-laundry-night.json](./304166-laundry-night.json) |
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
 | Laundry Simulator | 326396 | [326396-laundry-simulator.json](./326396-laundry-simulator.json) |
 | Laura Lustful Secrets | 360078 | [360078-laura-lustful-secrets.json](./360078-laura-lustful-secrets.json) |
@@ -515,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Avventure di Blue | 228418 | [228418-le-avventure-di-blue.json](./228418-le-avventure-di-blue.json) |
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
+| Le Dernier Don | 303624 | [303624-le-dernier-don.json](./303624-le-dernier-don.json) |
 | Le Fetiche Maya | 10848 | [10848-le-fetiche-maya.json](./10848-le-fetiche-maya.json) |
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
 | Le Loup et le Chien | 346063 | [346063-le-loup-et-le-chien.json](./346063-le-loup-et-le-chien.json) |
@@ -559,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League Star | 100870 | [100870-league-star.json](./100870-league-star.json) |
 | Leak Elite | 136385 | [136385-leak-elite.json](./136385-leak-elite.json) |
 | Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
+| Leap 'n Bump! | 303623 | [303623-leap-n-bump.json](./303623-leap-n-bump.json) |
 | Leap A Head | 395710 | [395710-leap-a-head.json](./395710-leap-a-head.json) |
 | Leap Frog | 388926 | [388926-leap-frog.json](./388926-leap-frog.json) |
 | Leap Frog | 89158 | [89158-leap-frog.json](./89158-leap-frog.json) |
@@ -689,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
 | Legend of the Holy Sword | 340910 | [340910-legend-of-the-holy-sword.json](./340910-legend-of-the-holy-sword.json) |
 | Legend of the Lost Dragons | 134580 | [134580-legend-of-the-lost-dragons.json](./134580-legend-of-the-lost-dragons.json) |
+| Legend of the Master Baiter | 303625 | [303625-legend-of-the-master-baiter.json](./303625-legend-of-the-master-baiter.json) |
 | Legend of the Moon | 207830 | [207830-legend-of-the-moon.json](./207830-legend-of-the-moon.json) |
 | Legend of the Moon: Those Who Crossed | 351640 | [351640-legend-of-the-moon-those-who-crossed.json](./351640-legend-of-the-moon-those-who-crossed.json) |
 | Legend of the Storm | 340911 | [340911-legend-of-the-storm.json](./340911-legend-of-the-storm.json) |
@@ -877,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Léo | 386726 | [386726-leo.json](./386726-leo.json) |
 | Leo & Leah | 130884 | [130884-leo-and-leah.json](./130884-leo-and-leah.json) |
 | Leo the Lion | 124823 | [124823-leo-the-lion.json](./124823-leo-the-lion.json) |
+| Leo: The Square | 303626 | [303626-leo-the-square.json](./303626-leo-the-square.json) |
 | Leo's RC Simulator | 380543 | [380543-leos-rc-simulator.json](./380543-leos-rc-simulator.json) |
 | Leon's Identity | 136992 | [136992-leons-identity.json](./136992-leons-identity.json) |
 | Leonardo | 133430 | [133430-leonardo.json](./133430-leonardo.json) |
@@ -951,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
 | Let's Learn Korean! Hangul | 367521 | [367521-lets-learn-korean-hangul.json](./367521-lets-learn-korean-hangul.json) |
 | Let's Learn Korean! Vocabulary | 367522 | [367522-lets-learn-korean-vocabulary.json](./367522-lets-learn-korean-vocabulary.json) |
+| Let's Learn Xaad Kil | 303627 | [303627-lets-learn-xaad-kil.json](./303627-lets-learn-xaad-kil.json) |
 | Let's Park: Backyard Edition | 214185 | [214185-lets-park-backyard-edition.json](./214185-lets-park-backyard-edition.json) |
 | Let's Play Cards Baccarat | 340915 | [340915-lets-play-cards-baccarat.json](./340915-lets-play-cards-baccarat.json) |
 | Let's Play Jigsaw Puzzles: A Journey Across Continents | 263210 | [263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json](./263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json) |
@@ -1009,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lets Go Champ | 60539 | [60539-lets-go-champ.json](./60539-lets-go-champ.json) |
 | Lets Play Bingo | 87271 | [87271-lets-play-bingo.json](./87271-lets-play-bingo.json) |
 | Letter Boxed | 296097 | [296097-letter-boxed.json](./296097-letter-boxed.json) |
+| Letter Bunny | 304202 | [304202-letter-bunny.json](./304202-letter-bunny.json) |
 | Letter Lost | 343275 | [343275-letter-lost.json](./343275-letter-lost.json) |
 | Letter Quest: Grimm's Journey | 17942 | [17942-letter-quest-grimms-journey.json](./17942-letter-quest-grimms-journey.json) |
 | Letter Snap: Term Challenge | 409537 | [409537-letter-snap-term-challenge.json](./409537-letter-snap-term-challenge.json) |
@@ -1141,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of a Thug | 306341 | [306341-life-of-a-thug.json](./306341-life-of-a-thug.json) |
 | Life of an NPC | 381128 | [381128-life-of-an-npc.json](./381128-life-of-an-npc.json) |
 | Life of Delivery | 392246 | [392246-life-of-delivery.json](./392246-life-of-delivery.json) |
+| Life of Kanji Island | 303628 | [303628-life-of-kanji-island.json](./303628-life-of-kanji-island.json) |
 | Life of Snow Wolf | 246981 | [246981-life-of-snow-wolf.json](./246981-life-of-snow-wolf.json) |
 | Life Simulator | 10959 | [10959-life-simulator.json](./10959-life-simulator.json) |
 | Life Simulator | 169945 | [169945-life-simulator.json](./169945-life-simulator.json) |
@@ -1172,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light and Dance VR | 29904 | [29904-light-and-dance-vr.json](./29904-light-and-dance-vr.json) |
 | Light Arrow is Missing | 262674 | [262674-light-arrow-is-missing.json](./262674-light-arrow-is-missing.json) |
 | Light Bearers | 111032 | [111032-light-bearers.json](./111032-light-bearers.json) |
+| Light Bearers 2 | 303629 | [303629-light-bearers-2.json](./303629-light-bearers-2.json) |
 | Light Catcher | 100226 | [100226-light-catcher.json](./100226-light-catcher.json) |
 | Light De Deux | 338264 | [338264-light-de-deux.json](./338264-light-de-deux.json) |
 | Light Fall | 36620 | [36620-light-fall.json](./36620-light-fall.json) |
@@ -1202,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light the World | 165628 | [165628-light-the-world.json](./165628-light-the-world.json) |
 | Light Tomb | 358937 | [358937-light-tomb.json](./358937-light-tomb.json) |
 | Light Towers | 357847 | [357847-light-towers.json](./357847-light-towers.json) |
+| Light Unseen | 303630 | [303630-light-unseen.json](./303630-light-unseen.json) |
 | Light Up the Dark | 404960 | [404960-light-up-the-dark.json](./404960-light-up-the-dark.json) |
 | Light Up the Room | 161371 | [161371-light-up-the-room.json](./161371-light-up-the-room.json) |
 | Light-Bringer | 360644 | [360644-light-bringer.json](./360644-light-bringer.json) |
@@ -1276,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
 | Lilith Rising: Season 2 | 296929 | [296929-lilith-rising-season-2.json](./296929-lilith-rising-season-2.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
+| Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
 | Lilly Monster | 195690 | [195690-lilly-monster.json](./195690-lilly-monster.json) |
 | Lily Bergamo | 52542 | [52542-lily-bergamo.json](./52542-lily-bergamo.json) |
@@ -1296,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbus Stable | 352213 | [352213-limbus-stable.json](./352213-limbus-stable.json) |
 | Lime Juice | 323719 | [323719-lime-juice.json](./323719-lime-juice.json) |
 | Lime Volleyball | 307590 | [307590-lime-volleyball.json](./307590-lime-volleyball.json) |
+| Limelight | 303633 | [303633-limelight.json](./303633-limelight.json) |
 | LimeLight Lemonade Jam | 371255 | [371255-limelight-lemonade-jam.json](./371255-limelight-lemonade-jam.json) |
 | limentional | 296930 | [296930-limentional.json](./296930-limentional.json) |
 | Limerick: Cadence Mansion | 224743 | [224743-limerick-cadence-mansion.json](./224743-limerick-cadence-mansion.json) |
@@ -2034,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Limbo | 307932 | [307932-lost-in-limbo.json](./307932-lost-in-limbo.json) |
 | Lost in Loss | 355104 | [355104-lost-in-loss.json](./355104-lost-in-loss.json) |
 | Lost in LS | 328221 | [328221-lost-in-ls.json](./328221-lost-in-ls.json) |
+| Lost In Memories | 303634 | [303634-lost-in-memories.json](./303634-lost-in-memories.json) |
 | Lost in Memory | 228087 | [228087-lost-in-memory.json](./228087-lost-in-memory.json) |
 | Lost in Paradise | 20528 | [20528-lost-in-paradise.json](./20528-lost-in-paradise.json) |
 | Lost in Paradise | 416689 | [416689-lost-in-paradise.json](./416689-lost-in-paradise.json) |
@@ -2071,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands X | 334170 | [334170-lost-lands-x.json](./334170-lost-lands-x.json) |
 | Lost Lands: Stories About the Sorceress, the Prince and the Minotaur - Collector's Edition | 416618 | [416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json](./416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json) |
 | Lost Lands: Stories of the First Brotherhood | 290430 | [290430-lost-lands-stories-of-the-first-brotherhood.json](./290430-lost-lands-stories-of-the-first-brotherhood.json) |
+| Lost Legions | 304719 | [304719-lost-legions.json](./304719-lost-legions.json) |
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
 | Lost Maria: Namonaki Hana | 394168 | [394168-lost-maria-namonaki-hana.json](./394168-lost-maria-namonaki-hana.json) |
@@ -2158,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Girl | 22474 | [22474-love-girl.json](./22474-love-girl.json) |
 | Love Goes Toward Love | 212805 | [212805-love-goes-toward-love.json](./212805-love-goes-toward-love.json) |
 | Love Heaven | 315067 | [315067-love-heaven.json](./315067-love-heaven.json) |
+| Love Hell | 303635 | [303635-love-hell.json](./303635-love-hell.json) |
 | Love Hentai: Sexy Body | 109714 | [109714-love-hentai-sexy-body.json](./109714-love-hentai-sexy-body.json) |
 | Love Hina Advance ~Shukufuku no Kane wa Naru kana~ | 49416 | [49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json](./49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json) |
 | Love Hotel | 62664 | [62664-love-hotel.json](./62664-love-hotel.json) |
@@ -2174,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is in Bloom | 225300 | [225300-love-is-in-bloom.json](./225300-love-is-in-bloom.json) |
 | Love Is... | 321619 | [321619-love-is.json](./321619-love-is.json) |
 | Love is... in Bloom | 51160 | [51160-love-is-in-bloom.json](./51160-love-is-in-bloom.json) |
+| Love Island | 303636 | [303636-love-island.json](./303636-love-island.json) |
 | Love Island: The Game - Season 10 | 413632 | [413632-love-island-the-game-season-10.json](./413632-love-island-the-game-season-10.json) |
 | Love Kuesuto | 268468 | [268468-love-kuesuto.json](./268468-love-kuesuto.json) |
 | Love Language Japanese | 110424 | [110424-love-language-japanese.json](./110424-love-language-japanese.json) |
@@ -2200,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love on Leave | 247495 | [247495-love-on-leave.json](./247495-love-on-leave.json) |
 | Love on Paper | 158220 | [158220-love-on-paper.json](./158220-love-on-paper.json) |
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
+| Love Quest: Los Angeles | 303637 | [303637-love-quest-los-angeles.json](./303637-love-quest-los-angeles.json) |
 | Love Red | 302371 | [302371-love-red.json](./302371-love-red.json) |
 | Love Rhythm | 126420 | [126420-love-rhythm.json](./126420-love-rhythm.json) |
 | Love Root Zero Kiss Kiss Labyrinth | 221733 | [221733-love-root-zero-kiss-kiss-labyrinth.json](./221733-love-root-zero-kiss-kiss-labyrinth.json) |
@@ -2209,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Stitch | 412297 | [412297-love-stitch.json](./412297-love-stitch.json) |
 | Love Stories: Sex and the Furry Titty | 165031 | [165031-love-stories-sex-and-the-furry-titty.json](./165031-love-stories-sex-and-the-furry-titty.json) |
 | Love Story: The Way Home | 102187 | [102187-love-story-the-way-home.json](./102187-love-story-the-way-home.json) |
+| Love Sucks: Night Three | 303639 | [303639-love-sucks-night-three.json](./303639-love-sucks-night-three.json) |
 | Love Talks | 209477 | [209477-love-talks.json](./209477-love-talks.json) |
 | Love Tavern | 165028 | [165028-love-tavern.json](./165028-love-tavern.json) |
 | Love the Guard, Be the King | 179686 | [179686-love-the-guard-be-the-king.json](./179686-love-the-guard-be-the-king.json) |
@@ -2266,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lover | 299149 | [299149-lover.json](./299149-lover.json) |
 | LoveR Kiss: Endless Memories | 355544 | [355544-lover-kiss-endless-memories.json](./355544-lover-kiss-endless-memories.json) |
 | Lover Pretend | 193536 | [193536-lover-pretend.json](./193536-lover-pretend.json) |
+| Lover Survivors | 303638 | [303638-lover-survivors.json](./303638-lover-survivors.json) |
 | Loverboy | 24906 | [24906-loverboy.json](./24906-loverboy.json) |
 | Loveressive | 194598 | [194598-loveressive.json](./194598-loveressive.json) |
 | Lovers ' Smiles 2 | 115637 | [115637-lovers-smiles-2.json](./115637-lovers-smiles-2.json) |
@@ -2286,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Löwenzahn 5: Geschichten aus Natur, Umwelt und Technik | 374190 | [374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json](./374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn 6: Geschichten aus Natur, Umwelt und Technik | 374191 | [374191-lowenzahn-6-geschichten-aus-natur-umwelt-und-technik.json](./374191-lowenzahn-6-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn 7: Geschichten aus Natur, Umwelt und Technik | 374192 | [374192-lowenzahn-7-geschichten-aus-natur-umwelt-und-technik.json](./374192-lowenzahn-7-geschichten-aus-natur-umwelt-und-technik.json) |
+| Lower? Higher! | 303640 | [303640-lower-higher.json](./303640-lower-higher.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
 | Lowrider Hopping | 287087 | [287087-lowrider-hopping.json](./287087-lowrider-hopping.json) |
@@ -2403,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luka Tim Incident | 318624 | [318624-luka-tim-incident.json](./318624-luka-tim-incident.json) |
 | Luke | 310612 | [310612-luke.json](./310612-luke.json) |
 | Lukewarm Ironclad | 113702 | [113702-lukewarm-ironclad.json](./113702-lukewarm-ironclad.json) |
+| Lukewarm Massacre: The Spirit of Light | 303641 | [303641-lukewarm-massacre-the-spirit-of-light.json](./303641-lukewarm-massacre-the-spirit-of-light.json) |
 | LUL inc. | 186238 | [186238-lul-inc.json](./186238-lul-inc.json) |
 | Lula Virtual Babe | 94697 | [94697-lula-virtual-babe.json](./94697-lula-virtual-babe.json) |
 | Lullaby Data | 311639 | [311639-lullaby-data.json](./311639-lullaby-data.json) |
