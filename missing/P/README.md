@@ -1829,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball: Our Church and Halloween RPG - Machine #3 | 213632 | [213632-pinball-our-church-and-halloween-rpg-machine-3.json](./213632-pinball-our-church-and-halloween-rpg-machine-3.json) |
 | Pinballistik | 52654 | [52654-pinballistik.json](./52654-pinballistik.json) |
 | Pinballtoon | 289299 | [289299-pinballtoon.json](./289299-pinballtoon.json) |
+| Pinbot | 295908 | [295908-pinbot.json](./295908-pinbot.json) |
 | Pinch 2 HD | 63320 | [63320-pinch-2-hd.json](./63320-pinch-2-hd.json) |
 | Pinch 2 HD: Special Edition | 63316 | [63316-pinch-2-hd-special-edition.json](./63316-pinch-2-hd-special-edition.json) |
 | Pincremental | 138720 | [138720-pincremental.json](./138720-pincremental.json) |
@@ -4187,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycron | 145676 | [145676-psycron.json](./145676-psycron.json) |
 | PsyHotel | 132197 | [132197-psyhotel.json](./132197-psyhotel.json) |
 | Psyia | 111670 | [111670-psyia.json](./111670-psyia.json) |
+| Psyko | 295909 | [295909-psyko.json](./295909-psyko.json) |
 | Psytron | 25749 | [25749-psytron.json](./25749-psytron.json) |
 | PsyUp | 392255 | [392255-psyup.json](./392255-psyup.json) |
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
