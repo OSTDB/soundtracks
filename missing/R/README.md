@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
 | ReBoot | 51953 | [51953-reboot.json](./51953-reboot.json) |
 | Reboot Heroes | 292020 | [292020-reboot-heroes.json](./292020-reboot-heroes.json) |
+| Reborn | 301985 | [301985-reborn.json](./301985-reborn.json) |
 | Reborn in Wild City | 111073 | [111073-reborn-in-wild-city.json](./111073-reborn-in-wild-city.json) |
 | Reborn Online | 135807 | [135807-reborn-online.json](./135807-reborn-online.json) |
 | Reborn: Examine Again | 357812 | [357812-reborn-examine-again.json](./357812-reborn-examine-again.json) |
@@ -2650,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roman Sands RE:Build | 229067 | [229067-roman-sands-re-build.json](./229067-roman-sands-re-build.json) |
 | Roman the Worm | 105336 | [105336-roman-the-worm.json](./105336-roman-the-worm.json) |
 | Roman Trahtenberg: V poiskah ideal'nogo anekdota | 403581 | [403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json](./403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json) |
+| Romance Choice | 301949 | [301949-romance-choice.json](./301949-romance-choice.json) |
 | Romance Club: Stories I Play | 270927 | [270927-romance-club-stories-i-play.json](./270927-romance-club-stories-i-play.json) |
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
 | Romance is Dead | 273098 | [273098-romance-is-dead.json](./273098-romance-is-dead.json) |
@@ -2825,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Riddle: Fairy Tale Detective - Collector's Edition | 343359 | [343359-rose-riddle-fairy-tale-detective-collectors-edition.json](./343359-rose-riddle-fairy-tale-detective-collectors-edition.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
 | Roses Shoot Red, Violets Shoot Blue | 334167 | [334167-roses-shoot-red-violets-shoot-blue.json](./334167-roses-shoot-red-violets-shoot-blue.json) |
+| Rosetta and the Well | 301989 | [301989-rosetta-and-the-well.json](./301989-rosetta-and-the-well.json) |
 | Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
 | Rosie's Rampage | 391170 | [391170-rosies-rampage.json](./391170-rosies-rampage.json) |
 | Roswell Conspiracies: Aliens, Myths & Legends | 49883 | [49883-roswell-conspiracies-aliens-myths-and-legends.json](./49883-roswell-conspiracies-aliens-myths-and-legends.json) |
