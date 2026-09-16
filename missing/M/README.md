@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madara Saga: Youchien Senki Madara | 57072 | [57072-madara-saga-youchien-senki-madara.json](./57072-madara-saga-youchien-senki-madara.json) |
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
 | Madballs Arcade | 98925 | [98925-madballs-arcade.json](./98925-madballs-arcade.json) |
+| Madcap Grotto | 330290 | [330290-madcap-grotto.json](./330290-madcap-grotto.json) |
 | Madcoaster | 22324 | [22324-madcoaster.json](./22324-madcoaster.json) |
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
