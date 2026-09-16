@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Crayon | 57649 | [57649-magic-crayon.json](./57649-magic-crayon.json) |
 | Magic Cube | 48622 | [48622-magic-cube.json](./48622-magic-cube.json) |
 | Magic Cube in Strange World! | 306367 | [306367-magic-cube-in-strange-world.json](./306367-magic-cube-in-strange-world.json) |
+| Magic Duck | 287787 | [287787-magic-duck.json](./287787-magic-duck.json) |
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
 | Magic Fairy Tales: Barbie as Rapunzel | 19401 | [19401-magic-fairy-tales-barbie-as-rapunzel.json](./19401-magic-fairy-tales-barbie-as-rapunzel.json) |
 | Magic Farm | 298707 | [298707-magic-farm.json](./298707-magic-farm.json) |
@@ -4970,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
+| Mushroom Moonrise | 287780 | [287780-mushroom-moonrise.json](./287780-mushroom-moonrise.json) |
 | Mushroom Pancakes | 321538 | [321538-mushroom-pancakes.json](./321538-mushroom-pancakes.json) |
 | Mushroom Picker Simulator | 149045 | [149045-mushroom-picker-simulator.json](./149045-mushroom-picker-simulator.json) |
 | Mushroom Towers | 179690 | [179690-mushroom-towers.json](./179690-mushroom-towers.json) |
