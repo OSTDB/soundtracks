@@ -259,6 +259,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
 | Rail Theory | 28773 | [28773-rail-theory.json](./28773-rail-theory.json) |
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
+| Railbreak: Arcade Onslaught Collection | 331405 | [331405-railbreak-arcade-onslaught-collection.json](./331405-railbreak-arcade-onslaught-collection.json) |
+| Railbreak: Neon Carnage Collection | 331406 | [331406-railbreak-neon-carnage-collection.json](./331406-railbreak-neon-carnage-collection.json) |
 | Railed Up | 254780 | [254780-railed-up.json](./254780-railed-up.json) |
 | Railgun 500 | 264595 | [264595-railgun-500.json](./264595-railgun-500.json) |
 | Railgunners | 74440 | [74440-railgunners.json](./74440-railgunners.json) |
@@ -790,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper Actual | 352748 | [352748-reaper-actual.json](./352748-reaper-actual.json) |
 | Reaper Hunt: Survivor | 345495 | [345495-reaper-hunt-survivor.json](./345495-reaper-hunt-survivor.json) |
 | Reaper Recon | 360639 | [360639-reaper-recon.json](./360639-reaper-recon.json) |
+| Reaper Rules | 331435 | [331435-reaper-rules.json](./331435-reaper-rules.json) |
 | Reaper's Awakening! | 363896 | [363896-reapers-awakening.json](./363896-reapers-awakening.json) |
 | Reaper's Isle | 255968 | [255968-reapers-isle.json](./255968-reapers-isle.json) |
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
@@ -2707,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rootman: Bodycam Horror Footage | 238197 | [238197-rootman-bodycam-horror-footage.json](./238197-rootman-bodycam-horror-footage.json) |
 | Roots | 249440 | [249440-roots.json](./249440-roots.json) |
 | Roots And Sprouts | 401539 | [401539-roots-and-sprouts.json](./401539-roots-and-sprouts.json) |
+| Roots Devour | 331443 | [331443-roots-devour.json](./331443-roots-devour.json) |
 | Roots Need Control 3.0 | 243121 | [243121-roots-need-control-3-0.json](./243121-roots-need-control-3-0.json) |
 | Roots of Harmony | 320561 | [320561-roots-of-harmony.json](./320561-roots-of-harmony.json) |
 | Roots of Rebirth | 239644 | [239644-roots-of-rebirth.json](./239644-roots-of-rebirth.json) |
