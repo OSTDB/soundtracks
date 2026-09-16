@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover AD2025 Kei | 86084 | [86084-undercover-ad2025-kei.json](./86084-undercover-ad2025-kei.json) |
 | Undercover: Blood Bonds | 225303 | [225303-undercover-blood-bonds.json](./225303-undercover-blood-bonds.json) |
 | Undercraft | 331345 | [331345-undercraft.json](./331345-undercraft.json) |
+| Undercreator | 329717 | [329717-undercreator.json](./329717-undercreator.json) |
 | Undercrewed | 89325 | [89325-undercrewed.json](./89325-undercrewed.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
 | Underdone | 47999 | [47999-underdone.json](./47999-underdone.json) |
