@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Lord: Clicker | 312739 | [312739-demon-lord-clicker.json](./312739-demon-lord-clicker.json) |
 | Demon Lord: Reincarnation | 250969 | [250969-demon-lord-reincarnation.json](./250969-demon-lord-reincarnation.json) |
 | Demon Mark: A Russian Saga | 28779 | [28779-demon-mark-a-russian-saga.json](./28779-demon-mark-a-russian-saga.json) |
+| Demon Night | 288368 | [288368-demon-night.json](./288368-demon-night.json) |
 | Demon Party | 197847 | [197847-demon-party.json](./197847-demon-party.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
 | DeMon Researcher | 361797 | [361797-demon-researcher.json](./361797-demon-researcher.json) |
@@ -2064,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diatris | 183524 | [183524-diatris.json](./183524-diatris.json) |
 | Diavolo no Daibouken | 219042 | [219042-diavolo-no-daibouken.json](./219042-diavolo-no-daibouken.json) |
 | Dib's Nanochase | 191879 | [191879-dibs-nanochase.json](./191879-dibs-nanochase.json) |
+| Dice | 288365 | [288365-dice.json](./288365-dice.json) |
 | Dice & Fold | 276684 | [276684-dice-and-fold.json](./276684-dice-and-fold.json) |
 | Dice A Million | 335662 | [335662-dice-a-million.json](./335662-dice-a-million.json) |
 | Dice Battle | 279007 | [279007-dice-battle.json](./279007-dice-battle.json) |
@@ -3865,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreadOut | 11712 | [11712-dreadout.json](./11712-dreadout.json) |
 | Dreadrun | 295805 | [295805-dreadrun.json](./295805-dreadrun.json) |
 | Dreadshot | 292520 | [292520-dreadshot.json](./292520-dreadshot.json) |
+| Dreadsite Survival | 288370 | [288370-dreadsite-survival.json](./288370-dreadsite-survival.json) |
 | Dreadtome | 349884 | [349884-dreadtome.json](./349884-dreadtome.json) |
 | Dreadway | 321577 | [321577-dreadway.json](./321577-dreadway.json) |
 | DreadWood | 184110 | [184110-dreadwood.json](./184110-dreadwood.json) |
