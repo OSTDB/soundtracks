@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
 | Dead Dawn | 193958 | [193958-dead-dawn.json](./193958-dead-dawn.json) |
 | Dead District: Survival | 209479 | [209479-dead-district-survival.json](./209479-dead-district-survival.json) |
+| Dead Dock Protocol | 322186 | [322186-dead-dock-protocol.json](./322186-dead-dock-protocol.json) |
 | Dead Dozen | 79141 | [79141-dead-dozen.json](./79141-dead-dozen.json) |
 | Dead Dust | 89960 | [89960-dead-dust.json](./89960-dead-dust.json) |
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
@@ -3540,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Oath | 59945 | [59945-dragon-oath.json](./59945-dragon-oath.json) |
 | Dragon of Calon Valley | 323737 | [323737-dragon-of-calon-valley.json](./323737-dragon-of-calon-valley.json) |
 | Dragon Perception | 74474 | [74474-dragon-perception.json](./74474-dragon-perception.json) |
+| Dragon Pet | 322163 | [322163-dragon-pet.json](./322163-dragon-pet.json) |
 | Dragon Planner | 220331 | [220331-dragon-planner.json](./220331-dragon-planner.json) |
 | Dragon Power | 48697 | [48697-dragon-power.json](./48697-dragon-power.json) |
 | Dragon Prana | 200178 | [200178-dragon-prana.json](./200178-dragon-prana.json) |
@@ -4045,16 +4047,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drumpf 2: Lost, But Not Forgotten! | 120366 | [120366-drumpf-2-lost-but-not-forgotten.json](./120366-drumpf-2-lost-but-not-forgotten.json) |
 | Drumpf: Rise Up, Libertonia! | 88017 | [88017-drumpf-rise-up-libertonia.json](./88017-drumpf-rise-up-libertonia.json) |
 | Drums Rock: Campaign+ | 306950 | [306950-drums-rock-campaign.json](./306950-drums-rock-campaign.json) |
+| Drums Rock: Collective Soul - 'Shine' | 322216 | [322216-drums-rock-collective-soul-shine.json](./322216-drums-rock-collective-soul-shine.json) |
 | Drums Rock: Disturbed - 'Down with the Sickness' | 310378 | [310378-drums-rock-disturbed-down-with-the-sickness.json](./310378-drums-rock-disturbed-down-with-the-sickness.json) |
 | Drums Rock: Disturbed - 'Stricken' | 310374 | [310374-drums-rock-disturbed-stricken.json](./310374-drums-rock-disturbed-stricken.json) |
 | Drums Rock: Disturbed - 'Ten Thousand Fists' | 310380 | [310380-drums-rock-disturbed-ten-thousand-fists.json](./310380-drums-rock-disturbed-ten-thousand-fists.json) |
 | Drums Rock: Green Day - 'American Idiot' | 310375 | [310375-drums-rock-green-day-american-idiot.json](./310375-drums-rock-green-day-american-idiot.json) |
 | Drums Rock: Green Day - 'Holiday' | 310372 | [310372-drums-rock-green-day-holiday.json](./310372-drums-rock-green-day-holiday.json) |
 | Drums Rock: Green Day - 'The American Dream Is Killing Me' | 310376 | [310376-drums-rock-green-day-the-american-dream-is-killing-me.json](./310376-drums-rock-green-day-the-american-dream-is-killing-me.json) |
+| Drums Rock: Jinjer - 'Pisces' | 322224 | [322224-drums-rock-jinjer-pisces.json](./322224-drums-rock-jinjer-pisces.json) |
+| Drums Rock: Lit - 'My Own Worst Enemy' | 322217 | [322217-drums-rock-lit-my-own-worst-enemy.json](./322217-drums-rock-lit-my-own-worst-enemy.json) |
 | Drums Rock: Pantera - '5 Minutes Alone' | 310379 | [310379-drums-rock-pantera-5-minutes-alone.json](./310379-drums-rock-pantera-5-minutes-alone.json) |
 | Drums Rock: Pantera - 'Walk' | 310381 | [310381-drums-rock-pantera-walk.json](./310381-drums-rock-pantera-walk.json) |
 | Drums Rock: Pantera x Disturbed Music Pack | 306949 | [306949-drums-rock-pantera-x-disturbed-music-pack.json](./306949-drums-rock-pantera-x-disturbed-music-pack.json) |
+| Drums Rock: Powerwolf - 'Army of the Night' | 322225 | [322225-drums-rock-powerwolf-army-of-the-night.json](./322225-drums-rock-powerwolf-army-of-the-night.json) |
+| Drums Rock: Simple Plan - 'Crazy' | 322220 | [322220-drums-rock-simple-plan-crazy.json](./322220-drums-rock-simple-plan-crazy.json) |
+| Drums Rock: Simple Plan - 'Shut Up!' | 322221 | [322221-drums-rock-simple-plan-shut-up.json](./322221-drums-rock-simple-plan-shut-up.json) |
+| Drums Rock: Simple Plan - 'Time to Say Goodbye' | 322222 | [322222-drums-rock-simple-plan-time-to-say-goodbye.json](./322222-drums-rock-simple-plan-time-to-say-goodbye.json) |
+| Drums Rock: Simple Plan - 'Welcome to My Life' | 322223 | [322223-drums-rock-simple-plan-welcome-to-my-life.json](./322223-drums-rock-simple-plan-welcome-to-my-life.json) |
+| Drums Rock: Spacehog - 'In the Meantime' | 322218 | [322218-drums-rock-spacehog-in-the-meantime.json](./322218-drums-rock-spacehog-in-the-meantime.json) |
+| Drums Rock: The Offspring - 'You’re Gonna Go Far, Kid' | 322219 | [322219-drums-rock-the-offspring-you-re-gonna-go-far-kid.json](./322219-drums-rock-the-offspring-you-re-gonna-go-far-kid.json) |
 | Drums Rock: The Proclaimers - 'I'm Gonna Be (500 Miles)' | 310377 | [310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json](./310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json) |
+| Drums Rock: Undertale - 'Hopes And Dreams' | 322215 | [322215-drums-rock-undertale-hopes-and-dreams.json](./322215-drums-rock-undertale-hopes-and-dreams.json) |
+| Drums Rock: Undertale - 'Megalovania' | 322214 | [322214-drums-rock-undertale-megalovania.json](./322214-drums-rock-undertale-megalovania.json) |
 | Drunk | 183068 | [183068-drunk.json](./183068-drunk.json) |
 | Drunk As I Like: Gensokyo Chugging Contest | 202334 | [202334-drunk-as-i-like-gensokyo-chugging-contest.json](./202334-drunk-as-i-like-gensokyo-chugging-contest.json) |
 | Drunk but Not Wasted Knight | 363398 | [363398-drunk-but-not-wasted-knight.json](./363398-drunk-but-not-wasted-knight.json) |
@@ -4371,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Trick | 391723 | [391723-dungeon-trick.json](./391723-dungeon-trick.json) |
 | Dungeon Tycoon | 250859 | [250859-dungeon-tycoon.json](./250859-dungeon-tycoon.json) |
 | Dungeon Universe | 185665 | [185665-dungeon-universe.json](./185665-dungeon-universe.json) |
+| Dungeon Vending Machines | 322170 | [322170-dungeon-vending-machines.json](./322170-dungeon-vending-machines.json) |
 | Dungeon Vixens: A Tale of Temptation | 278985 | [278985-dungeon-vixens-a-tale-of-temptation.json](./278985-dungeon-vixens-a-tale-of-temptation.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
 | Dungeon Weiqi | 348843 | [348843-dungeon-weiqi.json](./348843-dungeon-weiqi.json) |
