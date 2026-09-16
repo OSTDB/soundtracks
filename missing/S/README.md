@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarah's Adventure: Time Travel | 304862 | [304862-sarahs-adventure-time-travel.json](./304862-sarahs-adventure-time-travel.json) |
 | Sarah's Great Adventure | 371898 | [371898-sarahs-great-adventure.json](./371898-sarahs-great-adventure.json) |
 | Sarara's Little Shop | 61564 | [61564-sararas-little-shop.json](./61564-sararas-little-shop.json) |
+| Saratoga | 297605 | [297605-saratoga.json](./297605-saratoga.json) |
 | Sarawak | 132677 | [132677-sarawak.json](./132677-sarawak.json) |
 | Sare Inception | 120931 | [120931-sare-inception.json](./120931-sare-inception.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
@@ -1328,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seifuku Kanojo 2 | 332551 | [332551-seifuku-kanojo-2.json](./332551-seifuku-kanojo-2.json) |
 | Seigi no Torishirabe | 240230 | [240230-seigi-no-torishirabe.json](./240230-seigi-no-torishirabe.json) |
 | Seijundrop | 252176 | [252176-seijundrop.json](./252176-seijundrop.json) |
+| Seiken Densetsu | 297610 | [297610-seiken-densetsu.json](./297610-seiken-densetsu.json) |
 | Seiki: Ryoujoku no Kamen | 66052 | [66052-seiki-ryoujoku-no-kamen.json](./66052-seiki-ryoujoku-no-kamen.json) |
 | Seikimatsu Tanemaki Densetsu: Shoujo Yuugi - Ai Notameni Shine! | 67265 | [67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json](./67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json) |
 | Seikishi Melty Lovers | 372565 | [372565-seikishi-melty-lovers.json](./372565-seikishi-melty-lovers.json) |
@@ -1991,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharknado VR: Eye of the Storm | 110288 | [110288-sharknado-vr-eye-of-the-storm.json](./110288-sharknado-vr-eye-of-the-storm.json) |
 | Sharks and Minnows | 340956 | [340956-sharks-and-minnows.json](./340956-sharks-and-minnows.json) |
 | SharkSketch | 60576 | [60576-sharksketch.json](./60576-sharksketch.json) |
+| Sharkstorm | 297606 | [297606-sharkstorm.json](./297606-sharkstorm.json) |
 | Sharp Shooter Bundle: S.N.I.P.E.R Hunter Scope + Knights & Guns | 196824 | [196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json](./196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json) |
 | Sharp Shot | 5696 | [5696-sharp-shot.json](./5696-sharp-shot.json) |
 | Sharp Trigger | 349845 | [349845-sharp-trigger.json](./349845-sharp-trigger.json) |
@@ -2210,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shines Over | 184589 | [184589-shines-over.json](./184589-shines-over.json) |
 | Shingata Kururin Pa! | 228065 | [228065-shingata-kururin-pa.json](./228065-shingata-kururin-pa.json) |
 | Shingeki no Kyojin: Jiyuu he no Houkou | 84196 | [84196-shingeki-no-kyojin-jiyuu-he-no-houkou.json](./84196-shingeki-no-kyojin-jiyuu-he-no-houkou.json) |
+| Shingeki No Unity Chan | 297634 | [297634-shingeki-no-unity-chan.json](./297634-shingeki-no-unity-chan.json) |
 | Shingen the Ruler | 48085 | [48085-shingen-the-ruler.json](./48085-shingen-the-ruler.json) |
 | Shinies: Call of Light | 200167 | [200167-shinies-call-of-light.json](./200167-shinies-call-of-light.json) |
 | Shinigami no Testament ~menuet of epistula~ | 137085 | [137085-shinigami-no-testament-menuet-of-epistula.json](./137085-shinigami-no-testament-menuet-of-epistula.json) |
@@ -3361,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
 | Slaveblade | 121774 | [121774-slaveblade.json](./121774-slaveblade.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
+| Slavic Mythology Creatures | 297650 | [297650-slavic-mythology-creatures.json](./297650-slavic-mythology-creatures.json) |
 | Slavoj Zizek Makes A Twine Game | 139418 | [139418-slavoj-zizek-makes-a-twine-game.json](./139418-slavoj-zizek-makes-a-twine-game.json) |
 | Slay | 104693 | [104693-slay.json](./104693-slay.json) |
 | Slay All Bosses: Idle | 390114 | [390114-slay-all-bosses-idle.json](./390114-slay-all-bosses-idle.json) |
@@ -3508,6 +3513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Trials | 280760 | [280760-slime-trials.json](./280760-slime-trials.json) |
 | Slime Voyage | 312575 | [312575-slime-voyage.json](./312575-slime-voyage.json) |
 | Slime Wars | 292544 | [292544-slime-wars.json](./292544-slime-wars.json) |
+| Slime Weapon Master | 297614 | [297614-slime-weapon-master.json](./297614-slime-weapon-master.json) |
 | Slime World | 41999 | [41999-slime-world.json](./41999-slime-world.json) |
 | Slime-san | 28069 | [28069-slime-san.json](./28069-slime-san.json) |
 | Slime:Evo | 143021 | [143021-slime-evo.json](./143021-slime-evo.json) |
@@ -3750,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smith and Winston | 111093 | [111093-smith-and-winston.json](./111093-smith-and-winston.json) |
 | Smith's Chronicles | 358868 | [358868-smiths-chronicles.json](./358868-smiths-chronicles.json) |
 | Smithereens! | 22412 | [22412-smithereens.json](./22412-smithereens.json) |
+| Smithing Master | 297615 | [297615-smithing-master.json](./297615-smithing-master.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
 | Smoked Fish And Cabbage 3 | 328046 | [328046-smoked-fish-and-cabbage-3.json](./328046-smoked-fish-and-cabbage-3.json) |
@@ -4484,6 +4491,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Blasters | 334140 | [334140-sonic-blasters.json](./334140-sonic-blasters.json) |
 | Sonic Blaze | 330512 | [330512-sonic-blaze.json](./330512-sonic-blaze.json) |
 | Sonic Boom | 12855 | [12855-sonic-boom.json](./12855-sonic-boom.json) |
+| Sonic Boom Cannon | 297603 | [297603-sonic-boom-cannon.json](./297603-sonic-boom-cannon.json) |
+| Sonic Boom Cannon 2 | 297604 | [297604-sonic-boom-cannon-2.json](./297604-sonic-boom-cannon-2.json) |
 | Sonic Bowling | 261248 | [261248-sonic-bowling.json](./261248-sonic-bowling.json) |
 | Sonic Bowling | 261293 | [261293-sonic-bowling.json](./261293-sonic-bowling.json) |
 | Sonic Breaking Point | 370212 | [370212-sonic-breaking-point.json](./370212-sonic-breaking-point.json) |
@@ -5511,6 +5520,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Rider Racing | 100166 | [100166-speed-rider-racing.json](./100166-speed-rider-racing.json) |
 | Speed Run | 304594 | [304594-speed-run.json](./304594-speed-run.json) |
 | Speed Surge | 335271 | [335271-speed-surge.json](./335271-speed-surge.json) |
+| Speed Tap Analysis | 297648 | [297648-speed-tap-analysis.json](./297648-speed-tap-analysis.json) |
+| Speed Tapping Idle RPG for Touhou | 297644 | [297644-speed-tapping-idle-rpg-for-touhou.json](./297644-speed-tapping-idle-rpg-for-touhou.json) |
 | Speed Thief | 54383 | [54383-speed-thief.json](./54383-speed-thief.json) |
 | Speed Tube Racer | 200202 | [200202-speed-tube-racer.json](./200202-speed-tube-racer.json) |
 | Speed Up | 105331 | [105331-speed-up.json](./105331-speed-up.json) |
@@ -7692,6 +7703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugary Shifter | 314055 | [314055-sugary-shifter.json](./314055-sugary-shifter.json) |
 | Suggoi! Arcana Heart 2 | 243414 | [243414-suggoi-arcana-heart-2.json](./243414-suggoi-arcana-heart-2.json) |
 | Suggoi! Arcana Heart 2 | 243419 | [243419-suggoi-arcana-heart-2.json](./243419-suggoi-arcana-heart-2.json) |
+| Sugi Chan Adventure | 297637 | [297637-sugi-chan-adventure.json](./297637-sugi-chan-adventure.json) |
 | Sugobencha: Dragon Master Silk Gaiden | 321539 | [321539-sugobencha-dragon-master-silk-gaiden.json](./321539-sugobencha-dragon-master-silk-gaiden.json) |
 | SUGOI | 304183 | [304183-sugoi.json](./304183-sugoi.json) |
 | Sugoi Girls: Enchanting Elf | 328480 | [328480-sugoi-girls-enchanting-elf.json](./328480-sugoi-girls-enchanting-elf.json) |
