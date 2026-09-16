@@ -2009,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risen 2: Dark Waters | 3802 | [3802-risen-2-dark-waters.json](./3802-risen-2-dark-waters.json) |
 | Risen 3: Fog Island | 238516 | [238516-risen-3-fog-island.json](./238516-risen-3-fog-island.json) |
 | Risen 3: Titan Lords | 6142 | [6142-risen-3-titan-lords.json](./6142-risen-3-titan-lords.json) |
+| Risimon | 315709 | [315709-risimon.json](./315709-risimon.json) |
 | Rising Army | 302925 | [302925-rising-army.json](./302925-rising-army.json) |
 | Rising Constellation | 139367 | [139367-rising-constellation.json](./139367-rising-constellation.json) |
 | Rising Dead | 265125 | [265125-rising-dead.json](./265125-rising-dead.json) |
