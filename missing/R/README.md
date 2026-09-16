@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
 | Reginald Does His Thang | 74375 | [74375-reginald-does-his-thang.json](./74375-reginald-does-his-thang.json) |
 | Regions of Ruin | 61884 | [61884-regions-of-ruin.json](./61884-regions-of-ruin.json) |
+| Regular Friday Night | 298719 | [298719-regular-friday-night.json](./298719-regular-friday-night.json) |
 | Regular Ordinary Boy | 51166 | [51166-regular-ordinary-boy.json](./51166-regular-ordinary-boy.json) |
 | Regular Show: Battle of the Behemoths | 185661 | [185661-regular-show-battle-of-the-behemoths.json](./185661-regular-show-battle-of-the-behemoths.json) |
 | Regular Show: Fist Punch | 185663 | [185663-regular-show-fist-punch.json](./185663-regular-show-fist-punch.json) |
@@ -3148,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaround Reaper | 276730 | [276730-runaround-reaper.json](./276730-runaround-reaper.json) |
 | Runaway 2: The Dream of the Turtle | 13227 | [13227-runaway-2-the-dream-of-the-turtle.json](./13227-runaway-2-the-dream-of-the-turtle.json) |
 | Runaway Bride | 288240 | [288240-runaway-bride.json](./288240-runaway-bride.json) |
+| Runaway Girl: Picked up a Girl | 298724 | [298724-runaway-girl-picked-up-a-girl.json](./298724-runaway-girl-picked-up-a-girl.json) |
 | Runaway Princess | 370765 | [370765-runaway-princess.json](./370765-runaway-princess.json) |
 | Runaway Train | 252368 | [252368-runaway-train.json](./252368-runaway-train.json) |
 | Runaway Train 2D | 400908 | [400908-runaway-train-2d.json](./400908-runaway-train-2d.json) |
