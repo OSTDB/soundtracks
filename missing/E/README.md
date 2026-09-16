@@ -1986,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Ghostbusters: Code Ecto-1 | 129158 | [129158-extreme-ghostbusters-code-ecto-1.json](./129158-extreme-ghostbusters-code-ecto-1.json) |
 | Extreme Go-Kart Racing | 45306 | [45306-extreme-go-kart-racing.json](./45306-extreme-go-kart-racing.json) |
 | Extreme Hill Driver | 414387 | [414387-extreme-hill-driver.json](./414387-extreme-hill-driver.json) |
+| Extreme Jump | 312188 | [312188-extreme-jump.json](./312188-extreme-jump.json) |
 | Extreme Landings | 88296 | [88296-extreme-landings.json](./88296-extreme-landings.json) |
 | Extreme Landings Pro | 86898 | [86898-extreme-landings-pro.json](./86898-extreme-landings-pro.json) |
 | Extreme Makeover: Home Edition | 262061 | [262061-extreme-makeover-home-edition.json](./262061-extreme-makeover-home-edition.json) |
