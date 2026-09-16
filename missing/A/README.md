@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Recipe for Survival | 356142 | [356142-a-recipe-for-survival.json](./356142-a-recipe-for-survival.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Right to Rule | 347228 | [347228-a-right-to-rule.json](./347228-a-right-to-rule.json) |
+| A Rite from the Stars: Remaster Edition | 298690 | [298690-a-rite-from-the-stars-remaster-edition.json](./298690-a-rite-from-the-stars-remaster-edition.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Room You Can't Exit Unless You Find the Numbers | 311643 | [311643-a-room-you-cant-exit-unless-you-find-the-numbers.json](./311643-a-room-you-cant-exit-unless-you-find-the-numbers.json) |
 | A Rose in the Twilight | 52042 | [52042-a-rose-in-the-twilight.json](./52042-a-rose-in-the-twilight.json) |
@@ -251,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I. Space Corps | 34206 | [34206-a-i-space-corps.json](./34206-a-i-space-corps.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
+| A.V.A Global: Masters Pack | 298709 | [298709-a-v-a-global-masters-pack.json](./298709-a-v-a-global-masters-pack.json) |
 | A'Jatt | 372556 | [372556-ajatt.json](./372556-ajatt.json) |
 | A/X-101 | 5360 | [5360-a-x-101.json](./5360-a-x-101.json) |
 | AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
@@ -1983,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girl or Boy? | 108419 | [108419-anime-girl-or-boy.json](./108419-anime-girl-or-boy.json) |
 | Anime Girl Puzzles | 290910 | [290910-anime-girl-puzzles.json](./290910-anime-girl-puzzles.json) |
 | Anime Girl Puzzles: Akari | 297770 | [297770-anime-girl-puzzles-akari.json](./297770-anime-girl-puzzles-akari.json) |
+| Anime Girl Puzzles: Kohana | 298708 | [298708-anime-girl-puzzles-kohana.json](./298708-anime-girl-puzzles-kohana.json) |
 | Anime Girl Puzzles: Wakana | 297773 | [297773-anime-girl-puzzles-wakana.json](./297773-anime-girl-puzzles-wakana.json) |
 | Anime Girl Puzzles: Yui | 297772 | [297772-anime-girl-puzzles-yui.json](./297772-anime-girl-puzzles-yui.json) |
 | Anime Girls: College Love | 378779 | [378779-anime-girls-college-love.json](./378779-anime-girls-college-love.json) |
@@ -2399,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Puzzle Adventures | 306527 | [306527-aqua-puzzle-adventures.json](./306527-aqua-puzzle-adventures.json) |
 | Aqua Teen Hunger Force Zombie Ninja Pro-Am | 6911 | [6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json](./6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json) |
 | Aquablast | 14262 | [14262-aquablast.json](./14262-aquablast.json) |
+| AquaBlitz: Alien Racer | 298689 | [298689-aquablitz-alien-racer.json](./298689-aquablitz-alien-racer.json) |
 | Aquaculture Simulator | 413032 | [413032-aquaculture-simulator.json](./413032-aquaculture-simulator.json) |
 | Aquadelic GT | 17807 | [17807-aquadelic-gt.json](./17807-aquadelic-gt.json) |
 | AquaDream | 330146 | [330146-aquadream.json](./330146-aquadream.json) |
@@ -3653,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomicrops: Deluxe Edition | 154542 | [154542-atomicrops-deluxe-edition.json](./154542-atomicrops-deluxe-edition.json) |
 | Atomind | 93547 | [93547-atomind.json](./93547-atomind.json) |
 | Atominous | 257383 | [257383-atominous.json](./257383-atominous.json) |
+| Atomite | 298688 | [298688-atomite.json](./298688-atomite.json) |
 | Atomix | 308566 | [308566-atomix.json](./308566-atomix.json) |
 | Atomograd | 249222 | [249222-atomograd.json](./249222-atomograd.json) |
 | Atoms and Time | 269043 | [269043-atoms-and-time.json](./269043-atoms-and-time.json) |
