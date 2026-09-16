@@ -952,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune: Show Puzzles | 87370 | [87370-wheel-of-fortune-show-puzzles.json](./87370-wheel-of-fortune-show-puzzles.json) |
 | Wheel Saint: Hellride | 384669 | [384669-wheel-saint-hellride.json](./384669-wheel-saint-hellride.json) |
 | Wheelie | 23069 | [23069-wheelie.json](./23069-wheelie.json) |
+| Wheelie 1 | 331401 | [331401-wheelie-1.json](./331401-wheelie-1.json) |
 | Wheelie 2 | 239892 | [239892-wheelie-2.json](./239892-wheelie-2.json) |
 | Wheelie King 3D | 104656 | [104656-wheelie-king-3d.json](./104656-wheelie-king-3d.json) |
 | Wheelie Life Simulator | 396226 | [396226-wheelie-life-simulator.json](./396226-wheelie-life-simulator.json) |
