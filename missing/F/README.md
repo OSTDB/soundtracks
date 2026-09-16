@@ -1257,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Tactics: The Ivalice Chronicles | 347121 | [347121-final-fantasy-tactics-the-ivalice-chronicles.json](./347121-final-fantasy-tactics-the-ivalice-chronicles.json) |
 | Final Fantasy Tactics: The War of the Lions | 394 | [394-final-fantasy-tactics-the-war-of-the-lions.json](./394-final-fantasy-tactics-the-war-of-the-lions.json) |
 | Final Fantasy Type-0 HD | 7399 | [7399-final-fantasy-type-0-hd.json](./7399-final-fantasy-type-0-hd.json) |
+| Final Fantasy V | 288349 | [288349-final-fantasy-v.json](./288349-final-fantasy-v.json) |
 | Final Fantasy VI: A Soldier's Contingency | 312346 | [312346-final-fantasy-vi-a-soldiers-contingency.json](./312346-final-fantasy-vi-a-soldiers-contingency.json) |
 | Final Fantasy VI: Brave New World Final Frontier | 360105 | [360105-final-fantasy-vi-brave-new-world-final-frontier.json](./360105-final-fantasy-vi-brave-new-world-final-frontier.json) |
 | Final Fantasy VI: Presentiment Era | 339252 | [339252-final-fantasy-vi-presentiment-era.json](./339252-final-fantasy-vi-presentiment-era.json) |
@@ -2631,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Denizen | 395004 | [395004-forsaken-denizen.json](./395004-forsaken-denizen.json) |
 | Forsaken Isle | 35819 | [35819-forsaken-isle.json](./35819-forsaken-isle.json) |
+| Forsaken Ones | 288353 | [288353-forsaken-ones.json](./288353-forsaken-ones.json) |
 | Forsaken Ones | 360008 | [360008-forsaken-ones.json](./360008-forsaken-ones.json) |
 | Forsaken Overlook | 256823 | [256823-forsaken-overlook.json](./256823-forsaken-overlook.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
