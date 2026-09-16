@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo Mythica | 264315 | [264315-geo-mythica.json](./264315-geo-mythica.json) |
 | Geo-Duck | 165078 | [165078-geo-duck.json](./165078-geo-duck.json) |
 | Geo-Political Simulator | 79943 | [79943-geo-political-simulator.json](./79943-geo-political-simulator.json) |
+| Geo-Political Simulator 5 | 315068 | [315068-geo-political-simulator-5.json](./315068-geo-political-simulator-5.json) |
 | Geobeast | 386706 | [386706-geobeast.json](./386706-geobeast.json) |
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
 | Geocraft | 388241 | [388241-geocraft.json](./388241-geocraft.json) |
@@ -1948,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grauen no Torikago: Kapitel 3 - Kansei | 318051 | [318051-grauen-no-torikago-kapitel-3-kansei.json](./318051-grauen-no-torikago-kapitel-3-kansei.json) |
 | Grauen no Torikago: Kapitel 4 - Kaikou | 318052 | [318052-grauen-no-torikago-kapitel-4-kaikou.json](./318052-grauen-no-torikago-kapitel-4-kaikou.json) |
 | Grauen no Torikago: Kapitel 5 - Shokuzai | 318054 | [318054-grauen-no-torikago-kapitel-5-shokuzai.json](./318054-grauen-no-torikago-kapitel-5-shokuzai.json) |
+| Grauen no Torikago: Kapitel 6 - Senritsu | 315063 | [315063-grauen-no-torikago-kapitel-6-senritsu.json](./315063-grauen-no-torikago-kapitel-6-senritsu.json) |
 | Grav Blazer | 43082 | [43082-grav-blazer.json](./43082-grav-blazer.json) |
 | GravBlocks | 34436 | [34436-gravblocks.json](./34436-gravblocks.json) |
 | GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
@@ -2584,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Spirits | 226760 | [226760-gundam-spirits.json](./226760-gundam-spirits.json) |
 | Gundam Supreme Battle | 174903 | [174903-gundam-supreme-battle.json](./174903-gundam-supreme-battle.json) |
 | Gundam VR: Daiba Assault | 52001 | [52001-gundam-vr-daiba-assault.json](./52001-gundam-vr-daiba-assault.json) |
+| Gundam Wing: Wing Assault | 315085 | [315085-gundam-wing-wing-assault.json](./315085-gundam-wing-wing-assault.json) |
 | Gundam: The 3D Battle | 66113 | [66113-gundam-the-3d-battle.json](./66113-gundam-the-3d-battle.json) |
 | Gundan: The Crowd Shooting | 205241 | [205241-gundan-the-crowd-shooting.json](./205241-gundan-the-crowd-shooting.json) |
 | GundeadliGne | 16233 | [16233-gundeadligne.json](./16233-gundeadligne.json) |
