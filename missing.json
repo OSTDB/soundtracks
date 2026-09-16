@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T06:01:41.963Z",
-  "total_missing": 76798,
+  "generated_at": "2026-09-16T06:11:33.170Z",
+  "total_missing": 76805,
   "games": [
     {
       "igdb_id": 306086,
@@ -5821,11 +5821,6 @@
       "igdb_id": 344343,
       "game_name": "Aggi's Tiny Friends",
       "file": "missing/A/344343-aggis-tiny-friends.json"
-    },
-    {
-      "igdb_id": 169956,
-      "game_name": "Aggressor",
-      "file": "missing/A/169956-aggressor.json"
     },
     {
       "igdb_id": 39336,
@@ -95498,6 +95493,11 @@
       "file": "missing/E/96004-elastic-car-2-engineer-mode.json"
     },
     {
+      "igdb_id": 323950,
+      "game_name": "Elastic Soccer",
+      "file": "missing/E/323950-elastic-soccer.json"
+    },
+    {
       "igdb_id": 9103,
       "game_name": "Elasto Mania",
       "file": "missing/E/9103-elasto-mania.json"
@@ -178298,6 +178298,11 @@
       "file": "missing/L/154511-little-nightmares-ii-deluxe-edition.json"
     },
     {
+      "igdb_id": 323947,
+      "game_name": "Little Nightmares II: Enhanced Edition",
+      "file": "missing/L/323947-little-nightmares-ii-enhanced-edition.json"
+    },
+    {
       "igdb_id": 370223,
       "game_name": "Little Nightmares III: Dark Six Costumes Set",
       "file": "missing/L/370223-little-nightmares-iii-dark-six-costumes-set.json"
@@ -181501,6 +181506,11 @@
       "igdb_id": 109759,
       "game_name": "Love Letter",
       "file": "missing/L/109759-love-letter.json"
+    },
+    {
+      "igdb_id": 323942,
+      "game_name": "Love Letter",
+      "file": "missing/L/323942-love-letter.json"
     },
     {
       "igdb_id": 363893,
@@ -232256,6 +232266,16 @@
       "igdb_id": 370685,
       "game_name": "Penance",
       "file": "missing/P/370685-penance.json"
+    },
+    {
+      "igdb_id": 323943,
+      "game_name": "Pencak Silat 1.2",
+      "file": "missing/P/323943-pencak-silat-1-2.json"
+    },
+    {
+      "igdb_id": 323944,
+      "game_name": "Pencak Silat 2.1",
+      "file": "missing/P/323944-pencak-silat-2-1.json"
     },
     {
       "igdb_id": 365144,
@@ -308768,6 +308788,11 @@
       "file": "missing/S/352178-super-monkey-ball-stardust.json"
     },
     {
+      "igdb_id": 323951,
+      "game_name": "Super Monkey Ball: Banana Mania - Launch Edition",
+      "file": "missing/S/323951-super-monkey-ball-banana-mania-launch-edition.json"
+    },
+    {
       "igdb_id": 309079,
       "game_name": "Super Monkey Ball: Banana Rumble - Amy",
       "file": "missing/S/309079-super-monkey-ball-banana-rumble-amy.json"
@@ -318186,6 +318211,11 @@
       "igdb_id": 146239,
       "game_name": "Teenage Mutant Ninja Turtles: Mutants & Monsters Mayhem",
       "file": "missing/T/146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json"
+    },
+    {
+      "igdb_id": 323945,
+      "game_name": "Teenage Mutant Ninja Turtles: Mutants Unleashed - Deluxe Edition",
+      "file": "missing/T/323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json"
     },
     {
       "igdb_id": 144465,
@@ -332761,6 +332791,11 @@
       "igdb_id": 284914,
       "game_name": "The Protectorate",
       "file": "missing/T/284914-the-protectorate.json"
+    },
+    {
+      "igdb_id": 323948,
+      "game_name": "The Protocol Directive",
+      "file": "missing/T/323948-the-protocol-directive.json"
     },
     {
       "igdb_id": 94771,
