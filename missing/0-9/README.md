@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
 | 4 Colours | 262058 | [262058-4-colours.json](./262058-4-colours.json) |
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
+| 4 in a Row | 294841 | [294841-4-in-a-row.json](./294841-4-in-a-row.json) |
 | 4 in One: Cave Wonders/Earth Defender/Jaguar Bomber/Soccer Champion | 138731 | [138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json](./138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json) |
 | 4 Kingdoms Supremacy | 297056 | [297056-4-kingdoms-supremacy.json](./297056-4-kingdoms-supremacy.json) |
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
