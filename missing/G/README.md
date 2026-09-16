@@ -1015,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giga Wing 2 | 9163 | [9163-giga-wing-2.json](./9163-giga-wing-2.json) |
 | GigaBash: Final Ascension DLC | 404835 | [404835-gigabash-final-ascension-dlc.json](./404835-gigabash-final-ascension-dlc.json) |
 | GigaBash: GAMERA -Rebirth- DLC | 404834 | [404834-gigabash-gamera-rebirth-dlc.json](./404834-gigabash-gamera-rebirth-dlc.json) |
+| GigaBash: Godzilla - Nemesis DLC | 301437 | [301437-gigabash-godzilla-nemesis-dlc.json](./301437-gigabash-godzilla-nemesis-dlc.json) |
 | GigaBash: Ultraman - Rising DLC | 404829 | [404829-gigabash-ultraman-rising-dlc.json](./404829-gigabash-ultraman-rising-dlc.json) |
 | GigaBash: Ultraman Zero | 404820 | [404820-gigabash-ultraman-zero.json](./404820-gigabash-ultraman-zero.json) |
 | Gigablast | 66603 | [66603-gigablast.json](./66603-gigablast.json) |
