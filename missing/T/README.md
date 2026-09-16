@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarvos Desolation | 345044 | [345044-tarvos-desolation.json](./345044-tarvos-desolation.json) |
 | Tarzan | 25728 | [25728-tarzan.json](./25728-tarzan.json) |
 | Tarzan | 304200 | [304200-tarzan.json](./304200-tarzan.json) |
+| Tashikani | 298155 | [298155-tashikani.json](./298155-tashikani.json) |
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
 | Task Force 9 | 261788 | [261788-task-force-9.json](./261788-task-force-9.json) |
@@ -777,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatlone | 415066 | [415066-tatlone.json](./415066-tatlone.json) |
 | Tatsunami, let's clean up! | 353917 | [353917-tatsunami-lets-clean-up.json](./353917-tatsunami-lets-clean-up.json) |
 | Tatsuno Quest | 82767 | [82767-tatsuno-quest.json](./82767-tatsuno-quest.json) |
+| Tattered Sails | 298164 | [298164-tattered-sails.json](./298164-tattered-sails.json) |
 | Tattoo Design Studio: Fun Game | 89156 | [89156-tattoo-design-studio-fun-game.json](./89156-tattoo-design-studio-fun-game.json) |
 | Tattoo Punk | 146824 | [146824-tattoo-punk.json](./146824-tattoo-punk.json) |
 | Tatvalok | 380542 | [380542-tatvalok.json](./380542-tatvalok.json) |
@@ -796,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Talk + Pirate Palooza (Costume AOC) | 378868 | [378868-tavern-talk-pirate-palooza-costume-aoc.json](./378868-tavern-talk-pirate-palooza-costume-aoc.json) |
 | Tavern Talk: Tempest Tantrum | 336038 | [336038-tavern-talk-tempest-tantrum.json](./336038-tavern-talk-tempest-tantrum.json) |
 | Tavern Tycoon: Brew & Brawl | 391758 | [391758-tavern-tycoon-brew-and-brawl.json](./391758-tavern-tycoon-brew-and-brawl.json) |
+| Tavern Ventures: Guilds & Tales | 298163 | [298163-tavern-ventures-guilds-and-tales.json](./298163-tavern-ventures-guilds-and-tales.json) |
 | TavernHold | 361685 | [361685-tavernhold.json](./361685-tavernhold.json) |
 | Tavernia | 391212 | [391212-tavernia.json](./391212-tavernia.json) |
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
@@ -1576,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apprentice | 410315 | [410315-the-apprentice.json](./410315-the-apprentice.json) |
 | The Apprentice: Los Angeles | 73815 | [73815-the-apprentice-los-angeles.json](./73815-the-apprentice-los-angeles.json) |
 | The Approaching Quiet | 383494 | [383494-the-approaching-quiet.json](./383494-the-approaching-quiet.json) |
+| The Aquarians | 298160 | [298160-the-aquarians.json](./298160-the-aquarians.json) |
 | The ​Aquarium Does Not Dance | 243398 | [243398-the-aquarium-does-not-dance.json](./243398-the-aquarium-does-not-dance.json) |
 | The Aquarium of Luck | 85434 | [85434-the-aquarium-of-luck.json](./85434-the-aquarium-of-luck.json) |
 | The Aquatic Adventure of the Last Human | 12598 | [12598-the-aquatic-adventure-of-the-last-human.json](./12598-the-aquatic-adventure-of-the-last-human.json) |
@@ -2328,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The E Ball | 108416 | [108416-the-e-ball.json](./108416-the-e-ball.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
+| The Earth Is Flat | 298144 | [298144-the-earth-is-flat.json](./298144-the-earth-is-flat.json) |
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
 | The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
 | The Echo | 353970 | [353970-the-echo.json](./353970-the-echo.json) |
@@ -3094,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kore Gang: Outvasion from Inner Earth | 72687 | [72687-the-kore-gang-outvasion-from-inner-earth.json](./72687-the-kore-gang-outvasion-from-inner-earth.json) |
 | The Kore Gang: Outvasion From Inner Space | 21071 | [21071-the-kore-gang-outvasion-from-inner-space.json](./21071-the-kore-gang-outvasion-from-inner-space.json) |
 | The Kotchei | 298718 | [298718-the-kotchei.json](./298718-the-kotchei.json) |
+| The Krilling: Scare Feast! | 298146 | [298146-the-krilling-scare-feast.json](./298146-the-krilling-scare-feast.json) |
 | The Krypton Factor | 12955 | [12955-the-krypton-factor.json](./12955-the-krypton-factor.json) |
 | The Kwanstone Project | 214751 | [214751-the-kwanstone-project.json](./214751-the-kwanstone-project.json) |
 | The Labyrinth | 312740 | [312740-the-labyrinth.json](./312740-the-labyrinth.json) |
@@ -3350,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lesser Evil | 176507 | [176507-the-lesser-evil.json](./176507-the-lesser-evil.json) |
 | The Leviathan's Fantasy: DLC | 289327 | [289327-the-leviathans-fantasy-dlc.json](./289327-the-leviathans-fantasy-dlc.json) |
 | The Leviathan's Fantasy: Mechanical Crisis | 329013 | [329013-the-leviathans-fantasy-mechanical-crisis.json](./329013-the-leviathans-fantasy-mechanical-crisis.json) |
+| The Leviathan's Fantasy: Samurai and Onmyoji | 298175 | [298175-the-leviathans-fantasy-samurai-and-onmyoji.json](./298175-the-leviathans-fantasy-samurai-and-onmyoji.json) |
 | The Lewd Deal | 375971 | [375971-the-lewd-deal.json](./375971-the-lewd-deal.json) |
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
 | The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
@@ -7430,6 +7437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: DB BR 218 'V 164' | 279013 | [279013-train-simulator-classic-db-br-218-v-164.json](./279013-train-simulator-classic-db-br-218-v-164.json) |
 | Train Simulator Classic: E60 Electric Locomotive | 236543 | [236543-train-simulator-classic-e60-electric-locomotive.json](./236543-train-simulator-classic-e60-electric-locomotive.json) |
 | Train Simulator Classic: Eamnos VTG Wagon Pack | 293392 | [293392-train-simulator-classic-eamnos-vtg-wagon-pack.json](./293392-train-simulator-classic-eamnos-vtg-wagon-pack.json) |
+| Train Simulator Classic: Empire State Express No. 999 | 298176 | [298176-train-simulator-classic-empire-state-express-no-999.json](./298176-train-simulator-classic-empire-state-express-no-999.json) |
 | Train Simulator Classic: Euro BR 159 Electro-Diesel Loco | 236823 | [236823-train-simulator-classic-euro-br-159-electro-diesel-loco.json](./236823-train-simulator-classic-euro-br-159-electro-diesel-loco.json) |
 | Train Simulator Classic: New Haven FL9 Loco Add-On | 53838 | [53838-train-simulator-classic-new-haven-fl9-loco-add-on.json](./53838-train-simulator-classic-new-haven-fl9-loco-add-on.json) |
 | Train Simulator Classic: New Zealand Kb Class Steam Loco | 237406 | [237406-train-simulator-classic-new-zealand-kb-class-steam-loco.json](./237406-train-simulator-classic-new-zealand-kb-class-steam-loco.json) |
@@ -7519,6 +7527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: RZD-UZ-RIC Wagons Praha | 205552 | [205552-trainz-plus-rzd-uz-ric-wagons-praha.json](./205552-trainz-plus-rzd-uz-ric-wagons-praha.json) |
 | Trainz Plus: Season Town Northern Rail Road Route | 205554 | [205554-trainz-plus-season-town-northern-rail-road-route.json](./205554-trainz-plus-season-town-northern-rail-road-route.json) |
 | Trainz Plus: Shortline Railroad | 205547 | [205547-trainz-plus-shortline-railroad.json](./205547-trainz-plus-shortline-railroad.json) |
+| Trainz Plus: Swayfield Branch | 298150 | [298150-trainz-plus-swayfield-branch.json](./298150-trainz-plus-swayfield-branch.json) |
 | Trainz Plus: TE3-2068 | 205561 | [205561-trainz-plus-te3-2068.json](./205561-trainz-plus-te3-2068.json) |
 | Trainz Plus: VR C Locomotive - RailFirst / CFCLA | 401630 | [401630-trainz-plus-vr-c-locomotive-railfirst-cfcla.json](./401630-trainz-plus-vr-c-locomotive-railfirst-cfcla.json) |
 | Trainz Railroad Simulator 2006: Routes Volume 1 | 206164 | [206164-trainz-railroad-simulator-2006-routes-volume-1.json](./206164-trainz-railroad-simulator-2006-routes-volume-1.json) |
@@ -7549,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: QUBE GE C44aci Pack | 227285 | [227285-trainz-railroad-simulator-2019-qube-ge-c44aci-pack.json](./227285-trainz-railroad-simulator-2019-qube-ge-c44aci-pack.json) |
 | Trainz Railroad Simulator 2019: Rodnye Prostory Route | 190716 | [190716-trainz-railroad-simulator-2019-rodnye-prostory-route.json](./190716-trainz-railroad-simulator-2019-rodnye-prostory-route.json) |
 | Trainz Railroad Simulator 2019: SSR Fletchers Crawfords GE C44aci Pack | 227286 | [227286-trainz-railroad-simulator-2019-ssr-fletchers-crawfords-ge-c44aci-pack.json](./227286-trainz-railroad-simulator-2019-ssr-fletchers-crawfords-ge-c44aci-pack.json) |
+| Trainz Railroad Simulator 2019: Swayfield Branch | 298151 | [298151-trainz-railroad-simulator-2019-swayfield-branch.json](./298151-trainz-railroad-simulator-2019-swayfield-branch.json) |
 | Trainz Railroad Simulator 2019: Switch Model Railroad - TRS19 | 190715 | [190715-trainz-railroad-simulator-2019-switch-model-railroad-trs19.json](./190715-trainz-railroad-simulator-2019-switch-model-railroad-trs19.json) |
 | Trainz Railroad Simulator 2019: VR Healesville 1913-1920 TRS19 | 190707 | [190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json](./190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json) |
 | Trainz Railroad Simulator 2022 | 195792 | [195792-trainz-railroad-simulator-2022.json](./195792-trainz-railroad-simulator-2022.json) |
@@ -7564,6 +7574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Pro Train DB/DR Auxiliary Train | 237945 | [237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json](./237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Railroad Simulator 2022: QR National GE C44aci | 213408 | [213408-trainz-railroad-simulator-2022-qr-national-ge-c44aci.json](./213408-trainz-railroad-simulator-2022-qr-national-ge-c44aci.json) |
 | Trainz Railroad Simulator 2022: SSR Fletchers Crawfords GE C44aci Pack | 318440 | [318440-trainz-railroad-simulator-2022-ssr-fletchers-crawfords-ge-c44aci-pack.json](./318440-trainz-railroad-simulator-2022-ssr-fletchers-crawfords-ge-c44aci-pack.json) |
+| Trainz Railroad Simulator 2022: Swayfield Branch | 298149 | [298149-trainz-railroad-simulator-2022-swayfield-branch.json](./298149-trainz-railroad-simulator-2022-swayfield-branch.json) |
 | Trainz Simulator 2009: Settle and Carlisle | 27898 | [27898-trainz-simulator-2009-settle-and-carlisle.json](./27898-trainz-simulator-2009-settle-and-carlisle.json) |
 | Trainz Simulator 2009: World Builder Edition | 11016 | [11016-trainz-simulator-2009-world-builder-edition.json](./11016-trainz-simulator-2009-world-builder-edition.json) |
 | Trainz Simulator 2010: Engineers Edition | 11017 | [11017-trainz-simulator-2010-engineers-edition.json](./11017-trainz-simulator-2010-engineers-edition.json) |
@@ -7651,6 +7662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap of Musk: Europe Night | 237046 | [237046-trap-of-musk-europe-night.json](./237046-trap-of-musk-europe-night.json) |
 | Trap Shooting | 245299 | [245299-trap-shooting.json](./245299-trap-shooting.json) |
 | Trap Them: Sniper Edition | 34336 | [34336-trap-them-sniper-edition.json](./34336-trap-them-sniper-edition.json) |
+| Trap Tower Trials | 298137 | [298137-trap-tower-trials.json](./298137-trap-tower-trials.json) |
 | Trap Trek: Ultimate Other Me | 293619 | [293619-trap-trek-ultimate-other-me.json](./293619-trap-trek-ultimate-other-me.json) |
 | Trapmania | 151152 | [151152-trapmania.json](./151152-trapmania.json) |
 | Trapnoid 2 | 109743 | [109743-trapnoid-2.json](./109743-trapnoid-2.json) |
@@ -7817,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrenchesWIP | 120957 | [120957-trencheswip.json](./120957-trencheswip.json) |
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
+| Tresmir Sight | 298169 | [298169-tresmir-sight.json](./298169-tresmir-sight.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
 | Tretrais | 346675 | [346675-tretrais.json](./346675-tretrais.json) |
