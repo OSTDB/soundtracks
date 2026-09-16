@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lèdòng Dárén HD | 101473 | [101473-ledong-daren-hd.json](./101473-ledong-daren-hd.json) |
 | Lee Carvallo's Putting Challenge | 180781 | [180781-lee-carvallos-putting-challenge.json](./180781-lee-carvallos-putting-challenge.json) |
 | Lee Carvallo's Putting Challenge 2 | 308411 | [308411-lee-carvallos-putting-challenge-2.json](./308411-lee-carvallos-putting-challenge-2.json) |
+| Leek Factory Tycoon | 297613 | [297613-leek-factory-tycoon.json](./297613-leek-factory-tycoon.json) |
 | Left = Lose | 178622 | [178622-left-lose.json](./178622-left-lose.json) |
 | Left 2 Dating | 207809 | [207809-left-2-dating.json](./207809-left-2-dating.json) |
 | Left 4 Dead 2 Beta Pack | 358317 | [358317-left-4-dead-2-beta-pack.json](./358317-left-4-dead-2-beta-pack.json) |
@@ -1054,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Up! | 95373 | [95373-level-up.json](./95373-level-up.json) |
 | Level Up! Factory | 298153 | [298153-level-up-factory.json](./298153-level-up-factory.json) |
 | Level Zero: Extraction | 223473 | [223473-level-zero-extraction.json](./223473-level-zero-extraction.json) |
+| LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
 | Levi's Garden | 142503 | [142503-levis-garden.json](./142503-levis-garden.json) |
 | Leviaclaw | 379877 | [379877-leviaclaw.json](./379877-leviaclaw.json) |
@@ -1435,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
 | Lisa: The Painful - Fractured Bonds | 221767 | [221767-lisa-the-painful-fractured-bonds.json](./221767-lisa-the-painful-fractured-bonds.json) |
 | Lisa: The Pointless - Scholar of the Wilbur Sin Edition | 177033 | [177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json](./177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json) |
+| Lisa: The Undone | 297621 | [297621-lisa-the-undone.json](./297621-lisa-the-undone.json) |
 | Lisle Engle Heavy Distance | 253918 | [253918-lisle-engle-heavy-distance.json](./253918-lisle-engle-heavy-distance.json) |
 | Lisparuga | 176996 | [176996-lisparuga.json](./176996-lisparuga.json) |
 | Listen to the Wind | 172709 | [172709-listen-to-the-wind.json](./172709-listen-to-the-wind.json) |
@@ -2105,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Memories | 224779 | [224779-lost-memories.json](./224779-lost-memories.json) |
 | Lost Memories 3 Side Stories | 369569 | [369569-lost-memories-3-side-stories.json](./369569-lost-memories-3-side-stories.json) |
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
+| Lost Nomad | 297630 | [297630-lost-nomad.json](./297630-lost-nomad.json) |
 | Lost Oasis | 334099 | [334099-lost-oasis.json](./334099-lost-oasis.json) |
 | Lost Odyssey: Seeker of the Deep! | 120313 | [120313-lost-odyssey-seeker-of-the-deep.json](./120313-lost-odyssey-seeker-of-the-deep.json) |
 | Lost Pages: The First Cycle | 226755 | [226755-lost-pages-the-first-cycle.json](./226755-lost-pages-the-first-cycle.json) |
