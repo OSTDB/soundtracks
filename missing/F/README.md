@@ -3119,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontiers.io: Expansion Pack 6 | 167314 | [167314-frontiers-io-expansion-pack-6.json](./167314-frontiers-io-expansion-pack-6.json) |
 | Frontiersman | 91360 | [91360-frontiersman.json](./91360-frontiersman.json) |
 | Frontline Berlin 1945 | 25003 | [25003-frontline-berlin-1945.json](./25003-frontline-berlin-1945.json) |
+| Frontline Crisis | 312168 | [312168-frontline-crisis.json](./312168-frontline-crisis.json) |
 | Frontline Defense | 234934 | [234934-frontline-defense.json](./234934-frontline-defense.json) |
 | Frontline Defense 2 | 234935 | [234935-frontline-defense-2.json](./234935-frontline-defense-2.json) |
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
