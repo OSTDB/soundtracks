@@ -628,7 +628,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
-| AI Confidential | 304595 | [304595-ai-confidential.json](./304595-ai-confidential.json) |
 | AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
@@ -1776,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angeldust | 32892 | [32892-angeldust.json](./32892-angeldust.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
 | Angelic Force Yuki | 82817 | [82817-angelic-force-yuki.json](./82817-angelic-force-yuki.json) |
+| Angelic Syndrome | 310601 | [310601-angelic-syndrome.json](./310601-angelic-syndrome.json) |
 | Angelic Vale | 202376 | [202376-angelic-vale.json](./202376-angelic-vale.json) |
 | Angelic Wishes | 223487 | [223487-angelic-wishes.json](./223487-angelic-wishes.json) |
 | Angeline Era | 252768 | [252768-angeline-era.json](./252768-angeline-era.json) |
