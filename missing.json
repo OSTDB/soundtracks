@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T17:19:26.736Z",
-  "total_missing": 78814,
+  "generated_at": "2026-09-16T17:21:50.401Z",
+  "total_missing": 78813,
   "games": [
     {
       "igdb_id": 306086,
@@ -6206,11 +6206,6 @@
       "igdb_id": 357804,
       "game_name": "Agora",
       "file": "missing/A/357804-agora.json"
-    },
-    {
-      "igdb_id": 123609,
-      "game_name": "Ahegao Academy",
-      "file": "missing/A/123609-ahegao-academy.json"
     },
     {
       "igdb_id": 31563,
