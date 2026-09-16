@@ -611,7 +611,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
 | Agent Roy: Zombie Hunt | 232449 | [232449-agent-roy-zombie-hunt.json](./232449-agent-roy-zombie-hunt.json) |
-| Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
 | Agent X | 23067 | [23067-agent-x.json](./23067-agent-x.json) |
 | Agents of Groove | 325644 | [325644-agents-of-groove.json](./325644-agents-of-groove.json) |
@@ -704,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Havoc Controller | 94695 | [94695-air-havoc-controller.json](./94695-air-havoc-controller.json) |
 | Air Hockey | 200667 | [200667-air-hockey.json](./200667-air-hockey.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
+| Air Hockey: Casual Table Arcade | 306526 | [306526-air-hockey-casual-table-arcade.json](./306526-air-hockey-casual-table-arcade.json) |
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
 | Air Hoppers 2 | 151654 | [151654-air-hoppers-2.json](./151654-air-hoppers-2.json) |
 | Air Jet Fighter Combat: Europe Fly Plane Attack | 234624 | [234624-air-jet-fighter-combat-europe-fly-plane-attack.json](./234624-air-jet-fighter-combat-europe-fly-plane-attack.json) |
@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Marbles: Ocean | 240804 | [240804-aqua-marbles-ocean.json](./240804-aqua-marbles-ocean.json) |
 | Aqua Moto Racing | 63835 | [63835-aqua-moto-racing.json](./63835-aqua-moto-racing.json) |
 | Aqua Moto Racing 2 | 63836 | [63836-aqua-moto-racing-2.json](./63836-aqua-moto-racing-2.json) |
+| Aqua Puzzle Adventures | 306527 | [306527-aqua-puzzle-adventures.json](./306527-aqua-puzzle-adventures.json) |
 | Aqua Teen Hunger Force Zombie Ninja Pro-Am | 6911 | [6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json](./6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json) |
 | Aquablast | 14262 | [14262-aquablast.json](./14262-aquablast.json) |
 | Aquaculture Simulator | 413032 | [413032-aquaculture-simulator.json](./413032-aquaculture-simulator.json) |
@@ -2524,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Power Spikes | 319783 | [319783-arcade-archives-power-spikes.json](./319783-arcade-archives-power-spikes.json) |
 | Arcade Archives: Radical Radial | 147936 | [147936-arcade-archives-radical-radial.json](./147936-arcade-archives-radical-radial.json) |
 | Arcade Archives: Rastan Saga | 300731 | [300731-arcade-archives-rastan-saga.json](./300731-arcade-archives-rastan-saga.json) |
+| Arcade Archives: Rastan Saga II | 306525 | [306525-arcade-archives-rastan-saga-ii.json](./306525-arcade-archives-rastan-saga-ii.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
 | Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
@@ -3005,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Boxing | 129037 | [129037-art-of-boxing.json](./129037-art-of-boxing.json) |
 | Art of Destruction | 152831 | [152831-art-of-destruction.json](./152831-art-of-destruction.json) |
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
+| Art of Glide II | 306530 | [306530-art-of-glide-ii.json](./306530-art-of-glide-ii.json) |
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
 | Art of Rally: Deluxe Edition | 155074 | [155074-art-of-rally-deluxe-edition.json](./155074-art-of-rally-deluxe-edition.json) |
 | Art of the Rail | 153400 | [153400-art-of-the-rail.json](./153400-art-of-the-rail.json) |
@@ -3495,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Sixes and Sevens | 342771 | [342771-at-sixes-and-sevens.json](./342771-at-sixes-and-sevens.json) |
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
 | At the Heart of the Forest | 201303 | [201303-at-the-heart-of-the-forest.json](./201303-at-the-heart-of-the-forest.json) |
+| At Your Feet | 306512 | [306512-at-your-feet.json](./306512-at-your-feet.json) |
 | Atak | 226226 | [226226-atak.json](./226226-atak.json) |
 | Atama ga Saeru Chou IQ | 251625 | [251625-atama-ga-saeru-chou-iq.json](./251625-atama-ga-saeru-chou-iq.json) |
 | Atama Ikuto | 344367 | [344367-atama-ikuto.json](./344367-atama-ikuto.json) |
