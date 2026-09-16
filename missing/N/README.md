@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Geo Cup '98 Plus Color | 43976 | [43976-neo-geo-cup-98-plus-color.json](./43976-neo-geo-cup-98-plus-color.json) |
 | Neo Golden Logres | 218154 | [218154-neo-golden-logres.json](./218154-neo-golden-logres.json) |
 | Neo Ha_Bits | 311493 | [311493-neo-ha-bits.json](./311493-neo-ha-bits.json) |
+| Neo Harbor Rescue Squad | 312760 | [312760-neo-harbor-rescue-squad.json](./312760-neo-harbor-rescue-squad.json) |
 | Neo Heiankyo Alien | 215371 | [215371-neo-heiankyo-alien.json](./215371-neo-heiankyo-alien.json) |
 | Neo Mario Galaxy | 262669 | [262669-neo-mario-galaxy.json](./262669-neo-mario-galaxy.json) |
 | Neo Mr. Do! | 39540 | [39540-neo-mr-do.json](./39540-neo-mr-do.json) |
@@ -638,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Fantasy: Dinosaurs | 401022 | [401022-neon-fantasy-dinosaurs.json](./401022-neon-fantasy-dinosaurs.json) |
 | Neon Fantasy: Dogs | 270970 | [270970-neon-fantasy-dogs.json](./270970-neon-fantasy-dogs.json) |
 | Neon Fantasy: Predators | 278732 | [278732-neon-fantasy-predators.json](./278732-neon-fantasy-predators.json) |
+| Neon Fever | 312753 | [312753-neon-fever.json](./312753-neon-fever.json) |
 | Neon Fighter | 211720 | [211720-neon-fighter.json](./211720-neon-fighter.json) |
 | Neon Flight | 297796 | [297796-neon-flight.json](./297796-neon-flight.json) |
 | Neon Force Pushers | 99037 | [99037-neon-force-pushers.json](./99037-neon-force-pushers.json) |
@@ -1502,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Offence, But | 126581 | [126581-no-offence-but.json](./126581-no-offence-but.json) |
 | No One's Island | 368553 | [368553-no-ones-island.json](./368553-no-ones-island.json) |
 | No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
+| No Paint No Gain | 312754 | [312754-no-paint-no-gain.json](./312754-no-paint-no-gain.json) |
 | No Pantsu!! | 97378 | [97378-no-pantsu.json](./97378-no-pantsu.json) |
 | No Paper! | 240224 | [240224-no-paper.json](./240224-no-paper.json) |
 | No Place For Bravery | 23690 | [23690-no-place-for-bravery.json](./23690-no-place-for-bravery.json) |
