@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T23:51:30.952Z",
-  "total_missing": 75848,
+  "generated_at": "2026-09-16T00:01:43.493Z",
+  "total_missing": 75863,
   "games": [
     {
       "igdb_id": 306086,
@@ -5601,11 +5601,6 @@
       "igdb_id": 9429,
       "game_name": "Age of Sail II: Privateer's Bounty",
       "file": "missing/A/9429-age-of-sail-ii-privateers-bounty.json"
-    },
-    {
-      "igdb_id": 176477,
-      "game_name": "Age of Trades",
-      "file": "missing/A/176477-age-of-trades.json"
     },
     {
       "igdb_id": 18348,
@@ -25106,6 +25101,11 @@
       "igdb_id": 20523,
       "game_name": "Bankshot Billiards 2",
       "file": "missing/B/20523-bankshot-billiards-2.json"
+    },
+    {
+      "igdb_id": 333650,
+      "game_name": "Banned Tapes",
+      "file": "missing/B/333650-banned-tapes.json"
     },
     {
       "igdb_id": 356153,
@@ -45666,6 +45666,11 @@
       "igdb_id": 170032,
       "game_name": "Call of the Sea: Norah's Diary Edition",
       "file": "missing/C/170032-call-of-the-sea-norahs-diary-edition.json"
+    },
+    {
+      "igdb_id": 333653,
+      "game_name": "Call of the Underworld",
+      "file": "missing/C/333653-call-of-the-underworld.json"
     },
     {
       "igdb_id": 366229,
@@ -72696,6 +72701,11 @@
       "igdb_id": 235750,
       "game_name": "Dawn One",
       "file": "missing/D/235750-dawn-one.json"
+    },
+    {
+      "igdb_id": 333664,
+      "game_name": "DAWN: Darkness Awaits Withstand the Night",
+      "file": "missing/D/333664-dawn-darkness-awaits-withstand-the-night.json"
     },
     {
       "igdb_id": 70476,
@@ -101078,6 +101088,11 @@
       "file": "missing/E/320180-exit-terminal.json"
     },
     {
+      "igdb_id": 333662,
+      "game_name": "Exit Together",
+      "file": "missing/E/333662-exit-together.json"
+    },
+    {
       "igdb_id": 264054,
       "game_name": "Exit Veil",
       "file": "missing/E/264054-exit-veil.json"
@@ -103531,6 +103546,11 @@
       "igdb_id": 10307,
       "game_name": "Fallout: New Vegas - Lonesome Road",
       "file": "missing/F/10307-fallout-new-vegas-lonesome-road.json"
+    },
+    {
+      "igdb_id": 333655,
+      "game_name": "Fallout: Sonora Dayglow",
+      "file": "missing/F/333655-fallout-sonora-dayglow.json"
     },
     {
       "igdb_id": 56437,
@@ -120286,6 +120306,11 @@
       "igdb_id": 346610,
       "game_name": "Game",
       "file": "missing/G/346610-game.json"
+    },
+    {
+      "igdb_id": 333656,
+      "game_name": "Game (not) Over",
+      "file": "missing/G/333656-game-not-over.json"
     },
     {
       "igdb_id": 339261,
@@ -152418,6 +152443,11 @@
       "file": "missing/I/9649-infinifactory.json"
     },
     {
+      "igdb_id": 333654,
+      "game_name": "Infinimoes",
+      "file": "missing/I/333654-infinimoes.json"
+    },
+    {
       "igdb_id": 163426,
       "game_name": "InfiniPicross 2.0: 100 Large Puzzles - Animals",
       "file": "missing/I/163426-infinipicross-2-0-100-large-puzzles-animals.json"
@@ -154531,6 +154561,11 @@
       "igdb_id": 39624,
       "game_name": "Invasion - The Abductors",
       "file": "missing/I/39624-invasion-the-abductors.json"
+    },
+    {
+      "igdb_id": 333665,
+      "game_name": "Invasion 360",
+      "file": "missing/I/333665-invasion-360.json"
     },
     {
       "igdb_id": 258218,
@@ -163891,6 +163926,11 @@
       "igdb_id": 358940,
       "game_name": "Key Finder",
       "file": "missing/K/358940-key-finder.json"
+    },
+    {
+      "igdb_id": 333659,
+      "game_name": "Key Gunner",
+      "file": "missing/K/333659-key-gunner.json"
     },
     {
       "igdb_id": 266206,
@@ -176501,6 +176541,11 @@
       "igdb_id": 236281,
       "game_name": "Little Trouble on Tribuda Island",
       "file": "missing/L/236281-little-trouble-on-tribuda-island.json"
+    },
+    {
+      "igdb_id": 333658,
+      "game_name": "Little Wings Deliveries",
+      "file": "missing/L/333658-little-wings-deliveries.json"
     },
     {
       "igdb_id": 145613,
@@ -220418,6 +220463,11 @@
       "file": "missing/O/288214-one-military-camp-commander-goals.json"
     },
     {
+      "igdb_id": 333652,
+      "game_name": "One Million Stars",
+      "file": "missing/O/333652-one-million-stars.json"
+    },
+    {
       "igdb_id": 112936,
       "game_name": "One minute of death",
       "file": "missing/O/112936-one-minute-of-death.json"
@@ -221926,6 +221976,11 @@
       "igdb_id": 29656,
       "game_name": "Operation Swat",
       "file": "missing/O/29656-operation-swat.json"
+    },
+    {
+      "igdb_id": 333657,
+      "game_name": "Operation Trick-Or-Treat",
+      "file": "missing/O/333657-operation-trick-or-treat.json"
     },
     {
       "igdb_id": 257402,
@@ -230976,6 +231031,11 @@
       "igdb_id": 122340,
       "game_name": "Phantom Astronaut Lucid VR",
       "file": "missing/P/122340-phantom-astronaut-lucid-vr.json"
+    },
+    {
+      "igdb_id": 333651,
+      "game_name": "Phantom Asylum VR",
+      "file": "missing/P/333651-phantom-asylum-vr.json"
     },
     {
       "igdb_id": 250618,
@@ -262026,6 +262086,11 @@
       "igdb_id": 348878,
       "game_name": "Rotorsim: Helicopter Simulator",
       "file": "missing/R/348878-rotorsim-helicopter-simulator.json"
+    },
+    {
+      "igdb_id": 333660,
+      "game_name": "Rotschwert",
+      "file": "missing/R/333660-rotschwert.json"
     },
     {
       "igdb_id": 101542,
@@ -326008,6 +326073,11 @@
       "file": "missing/T/159827-the-loneliest-summer.json"
     },
     {
+      "igdb_id": 333663,
+      "game_name": "The Lonely Architect",
+      "file": "missing/T/333663-the-lonely-architect.json"
+    },
+    {
       "igdb_id": 94769,
       "game_name": "The Lonely Gorilla",
       "file": "missing/T/94769-the-lonely-gorilla.json"
@@ -341491,6 +341561,11 @@
       "igdb_id": 7218,
       "game_name": "Tomoyo After: It's a Wonderful Life",
       "file": "missing/T/7218-tomoyo-after-its-a-wonderful-life.json"
+    },
+    {
+      "igdb_id": 333661,
+      "game_name": "Tomte Trouble",
+      "file": "missing/T/333661-tomte-trouble.json"
     },
     {
       "igdb_id": 82851,
