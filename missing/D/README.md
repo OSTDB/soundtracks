@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: The Museum Relic Campaign | 162856 | [162856-dcs-world-the-museum-relic-campaign.json](./162856-dcs-world-the-museum-relic-campaign.json) |
 | DCS World: UH-1H Peacekeeper Lebanon Campaign by Flying Cyking | 324908 | [324908-dcs-world-uh-1h-peacekeeper-lebanon-campaign-by-flying-cyking.json](./324908-dcs-world-uh-1h-peacekeeper-lebanon-campaign-by-flying-cyking.json) |
 | DCS World: UH-1H Worlds Apart Stormfront Campaign by Low-Level-Heaven Mission Development | 325096 | [325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json](./325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json) |
+| DCS: F-15C Aggressors Air Combat Maneuvering Campaign by Maple Flag | 296518 | [296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json](./296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json) |
 | DCS: Normandy 1944 | 27782 | [27782-dcs-normandy-1944.json](./27782-dcs-normandy-1944.json) |
 | DDI Touring Car Championship | 298681 | [298681-ddi-touring-car-championship.json](./298681-ddi-touring-car-championship.json) |
 | DDraceNetwork | 136770 | [136770-ddracenetwork.json](./136770-ddracenetwork.json) |
