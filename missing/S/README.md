@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SAHUR: Escape Together | 367936 | [367936-sahur-escape-together.json](./367936-sahur-escape-together.json) |
 | Sai | 185100 | [185100-sai.json](./185100-sai.json) |
 | Saiaku Tantei Kanojo | 150115 | [150115-saiaku-tantei-kanojo.json](./150115-saiaku-tantei-kanojo.json) |
+| Saihai no Yukue | 302503 | [302503-saihai-no-yukue.json](./302503-saihai-no-yukue.json) |
 | Saihate Hospital | 204496 | [204496-saihate-hospital.json](./204496-saihate-hospital.json) |
 | Saihate no Ima | 62736 | [62736-saihate-no-ima.json](./62736-saihate-no-ima.json) |
 | Saihate Station: Twilight Railway | 337103 | [337103-saihate-station-twilight-railway.json](./337103-saihate-station-twilight-railway.json) |
