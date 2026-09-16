@@ -1819,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now You Are the Persecuted | 236520 | [236520-now-you-are-the-persecuted.json](./236520-now-you-are-the-persecuted.json) |
 | Now You See | 117439 | [117439-now-you-see.json](./117439-now-you-see.json) |
 | Now You've Made Me Crabby | 183058 | [183058-now-youve-made-me-crabby.json](./183058-now-youve-made-me-crabby.json) |
+| Nowa Online World | 318623 | [318623-nowa-online-world.json](./318623-nowa-online-world.json) |
 | NoWaitHero | 132237 | [132237-nowaithero.json](./132237-nowaithero.json) |
 | Nowhere | 272287 | [272287-nowhere.json](./272287-nowhere.json) |
 | Nowhere Girl | 110627 | [110627-nowhere-girl.json](./110627-nowhere-girl.json) |
