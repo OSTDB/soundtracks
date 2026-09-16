@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T01:11:35.458Z",
-  "total_missing": 76065,
+  "generated_at": "2026-09-16T01:18:44.644Z",
+  "total_missing": 76115,
   "games": [
     {
       "igdb_id": 306086,
@@ -1798,6 +1798,11 @@
       "file": "missing/0-9/399632-3-in-1-animated-jigsaws-bundle.json"
     },
     {
+      "igdb_id": 331411,
+      "game_name": "3-in-1 Christmas Collection",
+      "file": "missing/0-9/331411-3-in-1-christmas-collection.json"
+    },
+    {
       "igdb_id": 318976,
       "game_name": "3:33 A.M.",
       "file": "missing/0-9/318976-3-33-a-m.json"
@@ -2701,6 +2706,16 @@
       "igdb_id": 259835,
       "game_name": "8Floor Bundle 4 in 1",
       "file": "missing/0-9/259835-8floor-bundle-4-in-1.json"
+    },
+    {
+      "igdb_id": 331450,
+      "game_name": "8Floor Bundle 4 in 1 part 3",
+      "file": "missing/0-9/331450-8floor-bundle-4-in-1-part-3.json"
+    },
+    {
+      "igdb_id": 331449,
+      "game_name": "8Floor Bundle 4 in 1 part 4",
+      "file": "missing/0-9/331449-8floor-bundle-4-in-1-part-4.json"
     },
     {
       "igdb_id": 338027,
@@ -3926,6 +3941,11 @@
       "igdb_id": 5339,
       "game_name": "Aaahh!!! Real Monsters",
       "file": "missing/A/5339-aaahh-real-monsters.json"
+    },
+    {
+      "igdb_id": 331448,
+      "game_name": "Aaero + Aaero2 Bundle",
+      "file": "missing/A/331448-aaero-aaero2-bundle.json"
     },
     {
       "igdb_id": 113196,
@@ -7403,6 +7423,11 @@
       "file": "missing/A/350429-alaska-an-endless-night.json"
     },
     {
+      "igdb_id": 331447,
+      "game_name": "Alaskan Road Truckers: Highway Edition - Cosmetic Bundle",
+      "file": "missing/A/331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json"
+    },
+    {
       "igdb_id": 52591,
       "game_name": "Alawar Adventure Collection",
       "file": "missing/A/52591-alawar-adventure-collection.json"
@@ -9336,6 +9361,21 @@
       "igdb_id": 280175,
       "game_name": "Alpaca Wonders Why",
       "file": "missing/A/280175-alpaca-wonders-why.json"
+    },
+    {
+      "igdb_id": 331445,
+      "game_name": "Alpacapaca Dash 1 + 2 Bundle",
+      "file": "missing/A/331445-alpacapaca-dash-1-2-bundle.json"
+    },
+    {
+      "igdb_id": 331444,
+      "game_name": "Alpacapaca Dash 2",
+      "file": "missing/A/331444-alpacapaca-dash-2.json"
+    },
+    {
+      "igdb_id": 331446,
+      "game_name": "Alpacas X Cats Bundle",
+      "file": "missing/A/331446-alpacas-x-cats-bundle.json"
     },
     {
       "igdb_id": 52585,
@@ -19191,6 +19231,11 @@
       "igdb_id": 342056,
       "game_name": "Astérix et la Potion Magique",
       "file": "missing/A/342056-asterix-et-la-potion-magique.json"
+    },
+    {
+      "igdb_id": 331410,
+      "game_name": "Asterix Maxi Collection",
+      "file": "missing/A/331410-asterix-maxi-collection.json"
     },
     {
       "igdb_id": 45944,
@@ -64898,6 +64943,11 @@
       "file": "missing/C/67238-create-with-garfield.json"
     },
     {
+      "igdb_id": 331400,
+      "game_name": "Create: Above and Beyond",
+      "file": "missing/C/331400-create-above-and-beyond.json"
+    },
+    {
       "igdb_id": 127359,
       "game_name": "CreateTech",
       "file": "missing/C/127359-createtech.json"
@@ -80688,6 +80738,16 @@
       "file": "missing/D/195208-dinos-offline-adventure.json"
     },
     {
+      "igdb_id": 331412,
+      "game_name": "Dinobreak: Chronicles of Horror Collection",
+      "file": "missing/D/331412-dinobreak-chronicles-of-horror-collection.json"
+    },
+    {
+      "igdb_id": 331409,
+      "game_name": "Dinobreak: Crisis Collection",
+      "file": "missing/D/331409-dinobreak-crisis-collection.json"
+    },
+    {
       "igdb_id": 334111,
       "game_name": "Dinobreak: Gaiden Collection",
       "file": "missing/D/334111-dinobreak-gaiden-collection.json"
@@ -84511,6 +84571,11 @@
       "igdb_id": 1095,
       "game_name": "Donkey Kong Land III",
       "file": "missing/D/1095-donkey-kong-land-iii.json"
+    },
+    {
+      "igdb_id": 331437,
+      "game_name": "Donkey Kong Redux",
+      "file": "missing/D/331437-donkey-kong-redux.json"
     },
     {
       "igdb_id": 170011,
@@ -100861,6 +100926,11 @@
       "igdb_id": 248314,
       "game_name": "EvoGene",
       "file": "missing/E/248314-evogene.json"
+    },
+    {
+      "igdb_id": 331434,
+      "game_name": "Evoids",
+      "file": "missing/E/331434-evoids.json"
     },
     {
       "igdb_id": 333361,
@@ -128716,6 +128786,11 @@
       "igdb_id": 68637,
       "game_name": "GraphSpacer",
       "file": "missing/G/68637-graphspacer.json"
+    },
+    {
+      "igdb_id": 331408,
+      "game_name": "Grapple Dogs Collection",
+      "file": "missing/G/331408-grapple-dogs-collection.json"
     },
     {
       "igdb_id": 301826,
@@ -224333,6 +224408,16 @@
       "file": "missing/O/304365-outbreak-blood-and-teeth-collection.json"
     },
     {
+      "igdb_id": 331433,
+      "game_name": "Outbreak: Blood and Death Collection",
+      "file": "missing/O/331433-outbreak-blood-and-death-collection.json"
+    },
+    {
+      "igdb_id": 331432,
+      "game_name": "Outbreak: Campout Collection",
+      "file": "missing/O/331432-outbreak-campout-collection.json"
+    },
+    {
       "igdb_id": 275903,
       "game_name": "Outbreak: Co-Op Collection",
       "file": "missing/O/275903-outbreak-co-op-collection.json"
@@ -224348,9 +224433,24 @@
       "file": "missing/O/308579-outbreak-dark-dimensions-collection.json"
     },
     {
+      "igdb_id": 331430,
+      "game_name": "Outbreak: Genesis Collection",
+      "file": "missing/O/331430-outbreak-genesis-collection.json"
+    },
+    {
       "igdb_id": 256264,
       "game_name": "Outbreak: Gwen's Nightmare",
       "file": "missing/O/256264-outbreak-gwens-nightmare.json"
+    },
+    {
+      "igdb_id": 331429,
+      "game_name": "Outbreak: Hideous Hallucinations Collection",
+      "file": "missing/O/331429-outbreak-hideous-hallucinations-collection.json"
+    },
+    {
+      "igdb_id": 331431,
+      "game_name": "Outbreak: Loremaker Collection",
+      "file": "missing/O/331431-outbreak-loremaker-collection.json"
     },
     {
       "igdb_id": 196278,
@@ -224358,9 +224458,59 @@
       "file": "missing/O/196278-outbreak-palladium-collection.json"
     },
     {
+      "igdb_id": 331428,
+      "game_name": "Outbreak: Phantasmagoria Collection",
+      "file": "missing/O/331428-outbreak-phantasmagoria-collection.json"
+    },
+    {
       "igdb_id": 205578,
       "game_name": "Outbreak: Platinum Collection",
       "file": "missing/O/205578-outbreak-platinum-collection.json"
+    },
+    {
+      "igdb_id": 331427,
+      "game_name": "Outbreak: Shades of Horror Chromatic Split Anachronistic Collection",
+      "file": "missing/O/331427-outbreak-shades-of-horror-chromatic-split-anachronistic-collection.json"
+    },
+    {
+      "igdb_id": 331426,
+      "game_name": "Outbreak: Shades of Horror Chromatic Split Anthology Collection",
+      "file": "missing/O/331426-outbreak-shades-of-horror-chromatic-split-anthology-collection.json"
+    },
+    {
+      "igdb_id": 331425,
+      "game_name": "Outbreak: Shades of Horror Chromatic Split Apocalyptic Collection",
+      "file": "missing/O/331425-outbreak-shades-of-horror-chromatic-split-apocalyptic-collection.json"
+    },
+    {
+      "igdb_id": 331421,
+      "game_name": "Outbreak: Shades of Horror Chromatic Split Compatriots Collection",
+      "file": "missing/O/331421-outbreak-shades-of-horror-chromatic-split-compatriots-collection.json"
+    },
+    {
+      "igdb_id": 331420,
+      "game_name": "Outbreak: Shades of Horror Chromatic Split Infection Collection",
+      "file": "missing/O/331420-outbreak-shades-of-horror-chromatic-split-infection-collection.json"
+    },
+    {
+      "igdb_id": 331422,
+      "game_name": "Outbreak: Shades of Horror Chromatic Split Integral Collection",
+      "file": "missing/O/331422-outbreak-shades-of-horror-chromatic-split-integral-collection.json"
+    },
+    {
+      "igdb_id": 331423,
+      "game_name": "Outbreak: Shades of Horror Chromatic Split Retro Collection",
+      "file": "missing/O/331423-outbreak-shades-of-horror-chromatic-split-retro-collection.json"
+    },
+    {
+      "igdb_id": 331424,
+      "game_name": "Outbreak: Shades of Horror Chromatic Split Undead Cheer Collection",
+      "file": "missing/O/331424-outbreak-shades-of-horror-chromatic-split-undead-cheer-collection.json"
+    },
+    {
+      "igdb_id": 331419,
+      "game_name": "Outbreak: Shattered Dreams Collection",
+      "file": "missing/O/331419-outbreak-shattered-dreams-collection.json"
     },
     {
       "igdb_id": 205579,
@@ -224368,9 +224518,34 @@
       "file": "missing/O/205579-outbreak-silver-collection.json"
     },
     {
+      "igdb_id": 331413,
+      "game_name": "Outbreak: Strange Shades Collection",
+      "file": "missing/O/331413-outbreak-strange-shades-collection.json"
+    },
+    {
+      "igdb_id": 331416,
+      "game_name": "Outbreak: Take a Bite Collection",
+      "file": "missing/O/331416-outbreak-take-a-bite-collection.json"
+    },
+    {
+      "igdb_id": 331414,
+      "game_name": "Outbreak: Tenth Anniversary Celebration Collection",
+      "file": "missing/O/331414-outbreak-tenth-anniversary-celebration-collection.json"
+    },
+    {
+      "igdb_id": 331415,
+      "game_name": "Outbreak: The Fall of Cypress Ridge Collection",
+      "file": "missing/O/331415-outbreak-the-fall-of-cypress-ridge-collection.json"
+    },
+    {
       "igdb_id": 338025,
       "game_name": "Outbreak: The Fedora Files Desperate Struggle Collection",
       "file": "missing/O/338025-outbreak-the-fedora-files-desperate-struggle-collection.json"
+    },
+    {
+      "igdb_id": 331417,
+      "game_name": "Outbreak: The Full Monty Collection",
+      "file": "missing/O/331417-outbreak-the-full-monty-collection.json"
     },
     {
       "igdb_id": 234305,
@@ -224386,6 +224561,11 @@
       "igdb_id": 168853,
       "game_name": "Outbreak: The Nightmare Chronicles - Chapter 4",
       "file": "missing/O/168853-outbreak-the-nightmare-chronicles-chapter-4.json"
+    },
+    {
+      "igdb_id": 331418,
+      "game_name": "Outbreak: Urban Jungle Collection",
+      "file": "missing/O/331418-outbreak-urban-jungle-collection.json"
     },
     {
       "igdb_id": 131609,
@@ -244603,6 +244783,11 @@
       "file": "missing/P/334178-propeller-pete.json"
     },
     {
+      "igdb_id": 331438,
+      "game_name": "PropFight",
+      "file": "missing/P/331438-propfight.json"
+    },
+    {
       "igdb_id": 133435,
       "game_name": "Prophecy",
       "file": "missing/P/133435-prophecy.json"
@@ -250173,6 +250358,16 @@
       "file": "missing/R/335102-railbreak-90s-throwback-collection.json"
     },
     {
+      "igdb_id": 331405,
+      "game_name": "Railbreak: Arcade Onslaught Collection",
+      "file": "missing/R/331405-railbreak-arcade-onslaught-collection.json"
+    },
+    {
+      "igdb_id": 331406,
+      "game_name": "Railbreak: Neon Carnage Collection",
+      "file": "missing/R/331406-railbreak-neon-carnage-collection.json"
+    },
+    {
       "igdb_id": 254780,
       "game_name": "Railed Up",
       "file": "missing/R/254780-railed-up.json"
@@ -252826,6 +253021,11 @@
       "igdb_id": 360639,
       "game_name": "Reaper Recon",
       "file": "missing/R/360639-reaper-recon.json"
+    },
+    {
+      "igdb_id": 331435,
+      "game_name": "Reaper Rules",
+      "file": "missing/R/331435-reaper-rules.json"
     },
     {
       "igdb_id": 363896,
@@ -262411,6 +262611,11 @@
       "igdb_id": 401539,
       "game_name": "Roots And Sprouts",
       "file": "missing/R/401539-roots-and-sprouts.json"
+    },
+    {
+      "igdb_id": 331443,
+      "game_name": "Roots Devour",
+      "file": "missing/R/331443-roots-devour.json"
     },
     {
       "igdb_id": 243121,
@@ -276028,6 +276233,11 @@
       "file": "missing/S/397763-ship-graveyard-simulator-3.json"
     },
     {
+      "igdb_id": 331407,
+      "game_name": "Ship Graveyard Simulator Collection",
+      "file": "missing/S/331407-ship-graveyard-simulator-collection.json"
+    },
+    {
       "igdb_id": 197405,
       "game_name": "Ship Graveyard Simulator: Submarines",
       "file": "missing/S/197405-ship-graveyard-simulator-submarines.json"
@@ -286653,6 +286863,11 @@
       "file": "missing/S/330722-sonic-and-mario.json"
     },
     {
+      "igdb_id": 331442,
+      "game_name": "Sonic and Meister",
+      "file": "missing/S/331442-sonic-and-meister.json"
+    },
+    {
       "igdb_id": 336365,
       "game_name": "Sonic and the Black Knight HD",
       "file": "missing/S/336365-sonic-and-the-black-knight-hd.json"
@@ -286786,6 +287001,11 @@
       "igdb_id": 329946,
       "game_name": "Sonic Chaos Revolution",
       "file": "missing/S/329946-sonic-chaos-revolution.json"
+    },
+    {
+      "igdb_id": 331436,
+      "game_name": "Sonic Charge",
+      "file": "missing/S/331436-sonic-charge.json"
     },
     {
       "igdb_id": 175974,
@@ -287481,6 +287701,11 @@
       "igdb_id": 314901,
       "game_name": "Sonic Souls",
       "file": "missing/S/314901-sonic-souls.json"
+    },
+    {
+      "igdb_id": 331440,
+      "game_name": "Sonic Spam",
+      "file": "missing/S/331440-sonic-spam.json"
     },
     {
       "igdb_id": 336358,
@@ -318193,6 +318418,11 @@
       "file": "missing/T/390005-the-ark.json"
     },
     {
+      "igdb_id": 331402,
+      "game_name": "The Arkane Collection",
+      "file": "missing/T/331402-the-arkane-collection.json"
+    },
+    {
       "igdb_id": 214525,
       "game_name": "The Arm Wrestling Classic",
       "file": "missing/T/214525-the-arm-wrestling-classic.json"
@@ -322961,6 +323191,11 @@
       "igdb_id": 366223,
       "game_name": "The Flying Jet",
       "file": "missing/T/366223-the-flying-jet.json"
+    },
+    {
+      "igdb_id": 331404,
+      "game_name": "The FMV Collection 5",
+      "file": "missing/T/331404-the-fmv-collection-5.json"
     },
     {
       "igdb_id": 305143,
@@ -333686,6 +333921,11 @@
       "igdb_id": 10986,
       "game_name": "The Tudors",
       "file": "missing/T/10986-the-tudors.json"
+    },
+    {
+      "igdb_id": 331403,
+      "game_name": "The Tuesday Collection",
+      "file": "missing/T/331403-the-tuesday-collection.json"
     },
     {
       "igdb_id": 222885,
@@ -366593,6 +366833,11 @@
       "file": "missing/W/23069-wheelie.json"
     },
     {
+      "igdb_id": 331401,
+      "game_name": "Wheelie 1",
+      "file": "missing/W/331401-wheelie-1.json"
+    },
+    {
       "igdb_id": 239892,
       "game_name": "Wheelie 2",
       "file": "missing/W/239892-wheelie-2.json"
@@ -379841,6 +380086,11 @@
       "igdb_id": 76558,
       "game_name": "ZoneDriver",
       "file": "missing/Z/76558-zonedriver.json"
+    },
+    {
+      "igdb_id": 331441,
+      "game_name": "ZoneRacer",
+      "file": "missing/Z/331441-zoneracer.json"
     },
     {
       "igdb_id": 322594,
