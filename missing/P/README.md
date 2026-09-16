@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park It! | 310740 | [310740-park-it.json](./310740-park-it.json) |
 | Park Master | 254751 | [254751-park-master.json](./254751-park-master.json) |
 | Park Patrol | 25619 | [25619-park-patrol.json](./25619-park-patrol.json) |
+| Park Ranger Simulator | 314460 | [314460-park-ranger-simulator.json](./314460-park-ranger-simulator.json) |
 | Park Rangers of the Undead | 162843 | [162843-park-rangers-of-the-undead.json](./162843-park-rangers-of-the-undead.json) |
 | Park the Car | 166711 | [166711-park-the-car.json](./166711-park-the-car.json) |
 | Parkan: Iron Strategy | 7701 | [7701-parkan-iron-strategy.json](./7701-parkan-iron-strategy.json) |
@@ -874,6 +875,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 3: Boys in Blue Tailor Pack | 312016 | [312016-payday-3-boys-in-blue-tailor-pack.json](./312016-payday-3-boys-in-blue-tailor-pack.json) |
 | Payday 3: Boys in Blue Weapon Pack | 312009 | [312009-payday-3-boys-in-blue-weapon-pack.json](./312009-payday-3-boys-in-blue-weapon-pack.json) |
 | Payday 3: Chapter 4 - Fear & Greed | 371317 | [371317-payday-3-chapter-4-fear-and-greed.json](./371317-payday-3-chapter-4-fear-and-greed.json) |
+| Payday 3: Gold Pass | 314515 | [314515-payday-3-gold-pass.json](./314515-payday-3-gold-pass.json) |
+| Payday 3: Houston Breakout Heist | 314518 | [314518-payday-3-houston-breakout-heist.json](./314518-payday-3-houston-breakout-heist.json) |
+| Payday 3: Houston Breakout Tailor Pack | 314516 | [314516-payday-3-houston-breakout-tailor-pack.json](./314516-payday-3-houston-breakout-tailor-pack.json) |
+| Payday 3: Houston Breakout Weapon Pack | 314517 | [314517-payday-3-houston-breakout-weapon-pack.json](./314517-payday-3-houston-breakout-weapon-pack.json) |
 | Payday 3: Houston Character Pack | 357269 | [357269-payday-3-houston-character-pack.json](./357269-payday-3-houston-character-pack.json) |
 | Payday 3: Jacket Character Pack | 367398 | [367398-payday-3-jacket-character-pack.json](./367398-payday-3-jacket-character-pack.json) |
 | Payday: Crime War | 98080 | [98080-payday-crime-war.json](./98080-payday-crime-war.json) |
@@ -1349,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantoms | 278152 | [278152-phantoms.json](./278152-phantoms.json) |
 | Phar Lap: Horse Racing Challenge | 116374 | [116374-phar-lap-horse-racing-challenge.json](./116374-phar-lap-horse-racing-challenge.json) |
 | Pharaoh | 7510 | [7510-pharaoh.json](./7510-pharaoh.json) |
+| Pharaoh's Purse | 314514 | [314514-pharaohs-purse.json](./314514-pharaohs-purse.json) |
 | Pharaoh's Revenge | 55206 | [55206-pharaohs-revenge.json](./55206-pharaohs-revenge.json) |
 | Pharaoh's Tomb | 262092 | [262092-pharaohs-tomb.json](./262092-pharaohs-tomb.json) |
 | Pharaonic | 19068 | [19068-pharaonic.json](./19068-pharaonic.json) |
