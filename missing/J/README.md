@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jett Rider Mini H.E.R.O. | 398965 | [398965-jett-rider-mini-h-e-r-o.json](./398965-jett-rider-mini-h-e-r-o.json) |
 | Jettatura | 207502 | [207502-jettatura.json](./207502-jettatura.json) |
 | JettFuel | 316277 | [316277-jettfuel.json](./316277-jettfuel.json) |
+| JetWireClimber | 312166 | [312166-jetwireclimber.json](./312166-jetwireclimber.json) |
 | JetX: Space Edition | 118333 | [118333-jetx-space-edition.json](./118333-jetx-space-edition.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
 | Jewel Drops 2 - Match three puzzle | 101637 | [101637-jewel-drops-2-match-three-puzzle.json](./101637-jewel-drops-2-match-three-puzzle.json) |
