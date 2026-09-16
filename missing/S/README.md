@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screamboat Willie | 291464 | [291464-screamboat-willie.json](./291464-screamboat-willie.json) |
 | ScreamCap | 190723 | [190723-screamcap.json](./190723-screamcap.json) |
 | Screamer Rally | 7142 | [7142-screamer-rally.json](./7142-screamer-rally.json) |
+| Screaming in the Basement | 329180 | [329180-screaming-in-the-basement.json](./329180-screaming-in-the-basement.json) |
 | Screen | 300716 | [300716-screen.json](./300716-screen.json) |
 | Screen Blaster | 101548 | [101548-screen-blaster.json](./101548-screen-blaster.json) |
 | Screen Boy | 364503 | [364503-screen-boy.json](./364503-screen-boy.json) |
@@ -1045,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeaBlade | 47320 | [47320-seablade.json](./47320-seablade.json) |
 | Seaborn | 176450 | [176450-seaborn.json](./176450-seaborn.json) |
 | SeaCret 1 | 352464 | [352464-seacret-1.json](./352464-seacret-1.json) |
+| Seafarer's Gambit | 329172 | [329172-seafarers-gambit.json](./329172-seafarers-gambit.json) |
 | Seaforge: Shores of Atlantis | 415872 | [415872-seaforge-shores-of-atlantis.json](./415872-seaforge-shores-of-atlantis.json) |
 | Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
 | Seal Game's | 389608 | [389608-seal-games.json](./389608-seal-games.json) |
@@ -2571,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigma Theory: Global Cold War - Deluxe Edition | 124827 | [124827-sigma-theory-global-cold-war-deluxe-edition.json](./124827-sigma-theory-global-cold-war-deluxe-edition.json) |
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | Sign of the Sun | 69878 | [69878-sign-of-the-sun.json](./69878-sign-of-the-sun.json) |
+| Signal | 329155 | [329155-signal.json](./329155-signal.json) |
 | Signal Creek | 339922 | [339922-signal-creek.json](./339922-signal-creek.json) |
 | Signal Garden | 400311 | [400311-signal-garden.json](./400311-signal-garden.json) |
 | Signal Hill | 390655 | [390655-signal-hill.json](./390655-signal-hill.json) |
@@ -2624,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Paradise Anthology | 402901 | [402901-silent-paradise-anthology.json](./402901-silent-paradise-anthology.json) |
 | Silent Reel | 367979 | [367979-silent-reel.json](./367979-silent-reel.json) |
 | Silent Ruins | 183520 | [183520-silent-ruins.json](./183520-silent-ruins.json) |
+| Silent Scope 3 | 329121 | [329121-silent-scope-3.json](./329121-silent-scope-3.json) |
 | Silent Scope 3 | 44630 | [44630-silent-scope-3.json](./44630-silent-scope-3.json) |
 | Silent Scream 2 | 368512 | [368512-silent-scream-2.json](./368512-silent-scream-2.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
@@ -3083,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
 | Skullgirls: 2nd Encore | 11179 | [11179-skullgirls-2nd-encore.json](./11179-skullgirls-2nd-encore.json) |
 | Skullhammer | 181862 | [181862-skullhammer.json](./181862-skullhammer.json) |
+| Skullivan's | 329158 | [329158-skullivans.json](./329158-skullivans.json) |
 | Skullmonkeys | 10917 | [10917-skullmonkeys.json](./10917-skullmonkeys.json) |
 | Skulls of the Shogun: Bone-A-Fide Edition | 51906 | [51906-skulls-of-the-shogun-bone-a-fide-edition.json](./51906-skulls-of-the-shogun-bone-a-fide-edition.json) |
 | SkullSP | 329973 | [329973-skullsp.json](./329973-skullsp.json) |
@@ -3766,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapshot Oddities! Find What's Wrong | 390505 | [390505-snapshot-oddities-find-whats-wrong.json](./390505-snapshot-oddities-find-whats-wrong.json) |
 | Snapshots | 384076 | [384076-snapshots.json](./384076-snapshots.json) |
 | Snares of Ruin Zero | 112352 | [112352-snares-of-ruin-zero.json](./112352-snares-of-ruin-zero.json) |
+| Snarewaves' Shooting Challenge | 329162 | [329162-snarewaves-shooting-challenge.json](./329162-snarewaves-shooting-challenge.json) |
 | Snarf | 94686 | [94686-snarf.json](./94686-snarf.json) |
 | Snatch Squad | 365686 | [365686-snatch-squad.json](./365686-snatch-squad.json) |
 | Snatched | 395585 | [395585-snatched.json](./395585-snatched.json) |
@@ -4824,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sous Raccoon | 366299 | [366299-sous-raccoon.json](./366299-sous-raccoon.json) |
 | Soushuu Senshinkan Gakuen Bansenjin | 137082 | [137082-soushuu-senshinkan-gakuen-bansenjin.json](./137082-soushuu-senshinkan-gakuen-bansenjin.json) |
 | Souten Koihime: Dawn of Sovereignty | 411657 | [411657-souten-koihime-dawn-of-sovereignty.json](./411657-souten-koihime-dawn-of-sovereignty.json) |
+| South of Midnight: Weaver’s Edition | 329136 | [329136-south-of-midnight-weaver-s-edition.json](./329136-south-of-midnight-weaver-s-edition.json) |
 | South Park | 198486 | [198486-south-park.json](./198486-south-park.json) |
 | South Park Let's Go Tower Defense Play! | 1260 | [1260-south-park-lets-go-tower-defense-play.json](./1260-south-park-lets-go-tower-defense-play.json) |
 | South Park Rally | 1259 | [1259-south-park-rally.json](./1259-south-park-rally.json) |
@@ -6018,6 +6025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Control: Origins | 25311 | [25311-star-control-origins.json](./25311-star-control-origins.json) |
 | Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
 | Star Cosmic | 407309 | [407309-star-cosmic.json](./407309-star-cosmic.json) |
+| Star Crafter | 329131 | [329131-star-crafter.json](./329131-star-crafter.json) |
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
 | Star Cruiser | 19373 | [19373-star-cruiser.json](./19373-star-cruiser.json) |
 | Star Cruiser | 265968 | [265968-star-cruiser.json](./265968-star-cruiser.json) |
