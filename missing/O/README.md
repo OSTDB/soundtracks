@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orifoldium | 326282 | [326282-orifoldium.json](./326282-orifoldium.json) |
 | Origame | 152916 | [152916-origame.json](./152916-origame.json) |
 | Origami Paradise | 227478 | [227478-origami-paradise.json](./227478-origami-paradise.json) |
+| Origami Treasure | 289435 | [289435-origami-treasure.json](./289435-origami-treasure.json) |
 | Origin | 126648 | [126648-origin.json](./126648-origin.json) |
 | Origin Hunt | 180772 | [180772-origin-hunt.json](./180772-origin-hunt.json) |
 | Original Journey | 40968 | [40968-original-journey.json](./40968-original-journey.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orqa FPV SkyDive | 196854 | [196854-orqa-fpv-skydive.json](./196854-orqa-fpv-skydive.json) |
 | Orrery | 317811 | [317811-orrery.json](./317811-orrery.json) |
 | Ortharion: The Last Battle | 193444 | [193444-ortharion-the-last-battle.json](./193444-ortharion-the-last-battle.json) |
+| Ortheo Voyage | 289457 | [289457-ortheo-voyage.json](./289457-ortheo-voyage.json) |
 | Ortho | 152322 | [152322-ortho.json](./152322-ortho.json) |
 | Ortunia Mysteries: Where Did Everybody Go? | 323519 | [323519-ortunia-mysteries-where-did-everybody-go.json](./323519-ortunia-mysteries-where-did-everybody-go.json) |
 | Orun | 411713 | [411713-orun.json](./411713-orun.json) |
