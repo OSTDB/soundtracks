@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50K Racewalker | 135864 | [135864-50k-racewalker.json](./135864-50k-racewalker.json) |
 | 5125m | 370206 | [370206-5125m.json](./370206-5125m.json) |
 | 5200 Menu | 93539 | [93539-5200-menu.json](./93539-5200-menu.json) |
+| 5D Diplomacy with Multiverse Time Travel | 330835 | [330835-5d-diplomacy-with-multiverse-time-travel.json](./330835-5d-diplomacy-with-multiverse-time-travel.json) |
 | 5G VR Football | 191163 | [191163-5g-vr-football.json](./191163-5g-vr-football.json) |
 | 5Street | 23640 | [23640-5street.json](./23640-5street.json) |
 | 6 | 34296 | [34296-6.json](./34296-6.json) |
