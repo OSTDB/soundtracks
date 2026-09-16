@@ -605,7 +605,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aggressors of Dark Kombat | 39336 | [39336-aggressors-of-dark-kombat.json](./39336-aggressors-of-dark-kombat.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Agile Warrior F-111X | 43936 | [43936-agile-warrior-f-111x.json](./43936-agile-warrior-f-111x.json) |
-| Aglet: The Sneaker Game | 205586 | [205586-aglet-the-sneaker-game.json](./205586-aglet-the-sneaker-game.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
 | Agony VR | 197402 | [197402-agony-vr.json](./197402-agony-vr.json) |
 | Agony: Lords of Hell | 211421 | [211421-agony-lords-of-hell.json](./211421-agony-lords-of-hell.json) |
