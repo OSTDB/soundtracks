@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T08:19:12.196Z",
-  "total_missing": 77181,
+  "generated_at": "2026-09-16T08:21:42.318Z",
+  "total_missing": 77180,
   "games": [
     {
       "igdb_id": 306086,
@@ -5886,11 +5886,6 @@
       "igdb_id": 169936,
       "game_name": "Agents of Mayhem: Lazarus Agent Pack",
       "file": "missing/A/169936-agents-of-mayhem-lazarus-agent-pack.json"
-    },
-    {
-      "igdb_id": 39336,
-      "game_name": "Aggressors of Dark Kombat",
-      "file": "missing/A/39336-aggressors-of-dark-kombat.json"
     },
     {
       "igdb_id": 391743,
