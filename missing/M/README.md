@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marie's Patisserie: Sweet Dreams - Collector's Edition | 362840 | [362840-maries-patisserie-sweet-dreams-collectors-edition.json](./362840-maries-patisserie-sweet-dreams-collectors-edition.json) |
 | Marie's Room | 81173 | [81173-maries-room.json](./81173-maries-room.json) |
 | Marigold | 183053 | [183053-marigold.json](./183053-marigold.json) |
+| Marikin Online 4 | 288351 | [288351-marikin-online-4.json](./288351-marikin-online-4.json) |
 | Mariko: Hot Nightlife | 88052 | [88052-mariko-hot-nightlife.json](./88052-mariko-hot-nightlife.json) |
 | Marina's Cuckolding Report | 143063 | [143063-marinas-cuckolding-report.json](./143063-marinas-cuckolding-report.json) |
 | Marine Buster | 45969 | [45969-marine-buster.json](./45969-marine-buster.json) |
@@ -1454,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matches Puzzle Game | 117754 | [117754-matches-puzzle-game.json](./117754-matches-puzzle-game.json) |
 | Matching | 106573 | [106573-matching.json](./106573-matching.json) |
 | Matching App de Shiriatta Otoko wo Shinyou shite ha Ikemasen. | 341026 | [341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json](./341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json) |
+| Matching Blocks | 288362 | [288362-matching-blocks.json](./288362-matching-blocks.json) |
 | Matching With Friends | 64889 | [64889-matching-with-friends.json](./64889-matching-with-friends.json) |
 | Matchmaker: Dungeon Heart | 263783 | [263783-matchmaker-dungeon-heart.json](./263783-matchmaker-dungeon-heart.json) |
 | Matchmaking for Ghosts | 398988 | [398988-matchmaking-for-ghosts.json](./398988-matchmaking-for-ghosts.json) |
@@ -1902,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Drive Mini 2 | 215702 | [215702-mega-drive-mini-2.json](./215702-mega-drive-mini-2.json) |
 | Mega Force | 22433 | [22433-mega-force.json](./22433-mega-force.json) |
 | Mega Force | 6139 | [6139-mega-force.json](./6139-mega-force.json) |
+| Mega Knight | 288367 | [288367-mega-knight.json](./288367-mega-knight.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
 | Mega Man 2 Lite | 206149 | [206149-mega-man-2-lite.json](./206149-mega-man-2-lite.json) |
 | Mega Man 2 Randomizer | 324885 | [324885-mega-man-2-randomizer.json](./324885-mega-man-2-randomizer.json) |
@@ -3761,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molly: fear of clowns | 126613 | [126613-molly-fear-of-clowns.json](./126613-molly-fear-of-clowns.json) |
 | Moloch Kombinat | 410886 | [410886-moloch-kombinat.json](./410886-moloch-kombinat.json) |
 | Moloch's Priest | 144244 | [144244-molochs-priest.json](./144244-molochs-priest.json) |
+| Molten Winds: Open Editon | 288375 | [288375-molten-winds-open-editon.json](./288375-molten-winds-open-editon.json) |
 | Mom | 159247 | [159247-mom.json](./159247-mom.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
