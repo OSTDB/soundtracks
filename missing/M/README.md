@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi: Power Blast | 313327 | [313327-mario-and-luigi-power-blast.json](./313327-mario-and-luigi-power-blast.json) |
 | Mario & Luigi: Superstar Saga | 3351 | [3351-mario-and-luigi-superstar-saga.json](./3351-mario-and-luigi-superstar-saga.json) |
 | Mario & Luigi's Coin Chaos | 318039 | [318039-mario-and-luigis-coin-chaos.json](./318039-mario-and-luigis-coin-chaos.json) |
+| Mario & Luigi's Delightful Adventure | 307725 | [307725-mario-and-luigis-delightful-adventure.json](./307725-mario-and-luigis-delightful-adventure.json) |
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
 | Mario & Sonic at The Olympic Winter Games Pyeongchang 2018 | 313303 | [313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json](./313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json) |
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
@@ -3003,6 +3004,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: James Web Space Telescope | 322959 | [322959-minecraft-james-web-space-telescope.json](./322959-minecraft-james-web-space-telescope.json) |
 | Minecraft: Minecon 2016 Skin Pack | 255328 | [255328-minecraft-minecon-2016-skin-pack.json](./255328-minecraft-minecon-2016-skin-pack.json) |
 | Minecraft: Minecon Live - Rush Race! | 315515 | [315515-minecraft-minecon-live-rush-race.json](./315515-minecraft-minecon-live-rush-race.json) |
+| Minecraft: Minecraft Legends Skin Pack | 307731 | [307731-minecraft-minecraft-legends-skin-pack.json](./307731-minecraft-minecraft-legends-skin-pack.json) |
+| Minecraft: Mini Game Masters | 307747 | [307747-minecraft-mini-game-masters.json](./307747-minecraft-mini-game-masters.json) |
 | Minecraft: Moana Character Pack | 254491 | [254491-minecraft-moana-character-pack.json](./254491-minecraft-moana-character-pack.json) |
 | Minecraft: Mob Weapons | 333584 | [333584-minecraft-mob-weapons.json](./333584-minecraft-mob-weapons.json) |
 | Minecraft: Nintendo Switch Edition | 85614 | [85614-minecraft-nintendo-switch-edition.json](./85614-minecraft-nintendo-switch-edition.json) |
@@ -3014,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Plastic Texture Pack | 255347 | [255347-minecraft-plastic-texture-pack.json](./255347-minecraft-plastic-texture-pack.json) |
 | Minecraft: Power Grid Hero | 315516 | [315516-minecraft-power-grid-hero.json](./315516-minecraft-power-grid-hero.json) |
 | Minecraft: Quantum Realm | 333582 | [333582-minecraft-quantum-realm.json](./333582-minecraft-quantum-realm.json) |
+| Minecraft: Solo - A Star Wars Story Pack | 307724 | [307724-minecraft-solo-a-star-wars-story-pack.json](./307724-minecraft-solo-a-star-wars-story-pack.json) |
 | Minecraft: Sonic Texture Pack | 254791 | [254791-minecraft-sonic-texture-pack.json](./254791-minecraft-sonic-texture-pack.json) |
 | Minecraft: Stampy's Lovely World | 315117 | [315117-minecraft-stampys-lovely-world.json](./315117-minecraft-stampys-lovely-world.json) |
 | MInecraft: Star Wars Prequel Skin Pack | 302666 | [302666-minecraft-star-wars-prequel-skin-pack.json](./302666-minecraft-star-wars-prequel-skin-pack.json) |
@@ -3026,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Traveling Trader | 322955 | [322955-minecraft-the-traveling-trader.json](./322955-minecraft-the-traveling-trader.json) |
 | Minecraft: The Wild Update | 223161 | [223161-minecraft-the-wild-update.json](./223161-minecraft-the-wild-update.json) |
 | Minecraft: Time Capsule | 343905 | [343905-minecraft-time-capsule.json](./343905-minecraft-time-capsule.json) |
+| Minecraft: Trial Chamber Legends | 307729 | [307729-minecraft-trial-chamber-legends.json](./307729-minecraft-trial-chamber-legends.json) |
 | Minecraft: Tricky Trials | 272821 | [272821-minecraft-tricky-trials.json](./272821-minecraft-tricky-trials.json) |
 | Minecraft: Uncrafting Items Mod | 343906 | [343906-minecraft-uncrafting-items-mod.json](./343906-minecraft-uncrafting-items-mod.json) |
 | MInecraft: Weapon Fusion 2 | 333585 | [333585-minecraft-weapon-fusion-2.json](./333585-minecraft-weapon-fusion-2.json) |
@@ -4713,7 +4718,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multimedia Dinosaurs | 98941 | [98941-multimedia-dinosaurs.json](./98941-multimedia-dinosaurs.json) |
 | Multiplayer Knights | 235193 | [235193-multiplayer-knights.json](./235193-multiplayer-knights.json) |
 | Multiplayer Mongolians | 320560 | [320560-multiplayer-mongolians.json](./320560-multiplayer-mongolians.json) |
+| Multiplayer RPG | 307737 | [307737-multiplayer-rpg.json](./307737-multiplayer-rpg.json) |
 | Multiplayer Spiders | 296362 | [296362-multiplayer-spiders.json](./296362-multiplayer-spiders.json) |
+| Multiplayer Survivors | 307738 | [307738-multiplayer-survivors.json](./307738-multiplayer-survivors.json) |
 | Multiplication Dragons | 103545 | [103545-multiplication-dragons.json](./103545-multiplication-dragons.json) |
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
 | Multirotor Sim 2 | 81234 | [81234-multirotor-sim-2.json](./81234-multirotor-sim-2.json) |
