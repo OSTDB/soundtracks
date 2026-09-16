@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcosis | 19168 | [19168-narcosis.json](./19168-narcosis.json) |
 | Narcotics Ninja | 198554 | [198554-narcotics-ninja.json](./198554-narcotics-ninja.json) |
 | Narcotics Police: Black and White | 90625 | [90625-narcotics-police-black-and-white.json](./90625-narcotics-police-black-and-white.json) |
+| Naribikimura | 311114 | [311114-naribikimura.json](./311114-naribikimura.json) |
 | NarKarma Engine A | 257661 | [257661-narkarma-engine-a.json](./257661-narkarma-engine-a.json) |
 | Naroike | 335277 | [335277-naroike.json](./335277-naroike.json) |
 | Naron | 412380 | [412380-naron.json](./412380-naron.json) |
@@ -1096,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Clerk | 376476 | [376476-night-clerk.json](./376476-night-clerk.json) |
 | Night Clerk | 389597 | [389597-night-clerk.json](./389597-night-clerk.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
+| Night Driver | 311116 | [311116-night-driver.json](./311116-night-driver.json) |
 | Night Drone | 373654 | [373654-night-drone.json](./373654-night-drone.json) |
 | Night Escaper | 201266 | [201266-night-escaper.json](./201266-night-escaper.json) |
 | Night Flight | 297492 | [297492-night-flight.json](./297492-night-flight.json) |
@@ -1120,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Full Moon: Magic Curtain | 170464 | [170464-night-of-full-moon-magic-curtain.json](./170464-night-of-full-moon-magic-curtain.json) |
 | Night of Full Moon: The Red Hood Diary | 170460 | [170460-night-of-full-moon-the-red-hood-diary.json](./170460-night-of-full-moon-the-red-hood-diary.json) |
 | Night of Horror | 247222 | [247222-night-of-horror.json](./247222-night-of-horror.json) |
+| Night of The Abattoir Man | 311146 | [311146-night-of-the-abattoir-man.json](./311146-night-of-the-abattoir-man.json) |
 | Night of the Dead: Beginner Pack | 293407 | [293407-night-of-the-dead-beginner-pack.json](./293407-night-of-the-dead-beginner-pack.json) |
 | Night of the Dead: Civilian Combatant Pack | 293408 | [293408-night-of-the-dead-civilian-combatant-pack.json](./293408-night-of-the-dead-civilian-combatant-pack.json) |
 | Night of the Dead: Ghost Pack | 293409 | [293409-night-of-the-dead-ghost-pack.json](./293409-night-of-the-dead-ghost-pack.json) |
