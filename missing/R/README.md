@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Master Pro | 91897 | [91897-rally-master-pro.json](./91897-rally-master-pro.json) |
 | Rally of Rockets | 112330 | [112330-rally-of-rockets.json](./112330-rally-of-rockets.json) |
 | Rally Point 3 | 237953 | [237953-rally-point-3.json](./237953-rally-point-3.json) |
+| Rally Pro Contest | 325692 | [325692-rally-pro-contest.json](./325692-rally-pro-contest.json) |
 | Rally Racers | 76648 | [76648-rally-racers.json](./76648-rally-racers.json) |
 | Rally Racing | 186867 | [186867-rally-racing.json](./186867-rally-racing.json) |
 | Rally Rumble | 280787 | [280787-rally-rumble.json](./280787-rally-rumble.json) |
@@ -433,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Quest : First Person RPG | 103505 | [103505-random-quest-first-person-rpg.json](./103505-random-quest-first-person-rpg.json) |
 | Random Thing Game | 236278 | [236278-random-thing-game.json](./236278-random-thing-game.json) |
 | Randomlands | 156602 | [156602-randomlands.json](./156602-randomlands.json) |
+| Randotura | 325694 | [325694-randotura.json](./325694-randotura.json) |
 | Randungeon | 326073 | [326073-randungeon.json](./326073-randungeon.json) |
 | Rangarok End Girls | 309357 | [309357-rangarok-end-girls.json](./309357-rangarok-end-girls.json) |
 | Range Ball | 104056 | [104056-range-ball.json](./104056-range-ball.json) |
@@ -2137,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadwars | 12843 | [12843-roadwars.json](./12843-roadwars.json) |
 | Roadwars | 95398 | [95398-roadwars.json](./95398-roadwars.json) |
 | Roadway Traffic Racer | 292327 | [292327-roadway-traffic-racer.json](./292327-roadway-traffic-racer.json) |
+| Roam | 324521 | [324521-roam.json](./324521-roam.json) |
 | Roam | 63893 | [63893-roam.json](./63893-roam.json) |
 | Roaming Backrooms | 265156 | [265156-roaming-backrooms.json](./265156-roaming-backrooms.json) |
 | Roaming through the Rivers | 214731 | [214731-roaming-through-the-rivers.json](./214731-roaming-through-the-rivers.json) |
@@ -2877,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rozalin and the Palace of Flowers | 150669 | [150669-rozalin-and-the-palace-of-flowers.json](./150669-rozalin-and-the-palace-of-flowers.json) |
 | Rozen Maiden AliBat: Record of Rozen War | 124736 | [124736-rozen-maiden-alibat-record-of-rozen-war.json](./124736-rozen-maiden-alibat-record-of-rozen-war.json) |
 | Rozen Maiden: Wechseln Sie Welt ab | 86091 | [86091-rozen-maiden-wechseln-sie-welt-ab.json](./86091-rozen-maiden-wechseln-sie-welt-ab.json) |
+| RPG Alchemy: Bestiary I | 324487 | [324487-rpg-alchemy-bestiary-i.json](./324487-rpg-alchemy-bestiary-i.json) |
 | RPG Creator for iOS | 61099 | [61099-rpg-creator-for-ios.json](./61099-rpg-creator-for-ios.json) |
 | RPG Driver | 126560 | [126560-rpg-driver.json](./126560-rpg-driver.json) |
 | RPG Golf with Vampires | 263759 | [263759-rpg-golf-with-vampires.json](./263759-rpg-golf-with-vampires.json) |
