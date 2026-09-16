@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Bay Resort | 105363 | [105363-waifu-bay-resort.json](./105363-waifu-bay-resort.json) |
 | Waifu Builder | 331698 | [331698-waifu-builder.json](./331698-waifu-builder.json) |
 | Waifu Closet | 331097 | [331097-waifu-closet.json](./331097-waifu-closet.json) |
+| Waifu Club: Azumi | 295374 | [295374-waifu-club-azumi.json](./295374-waifu-club-azumi.json) |
 | Waifu Collector | 171615 | [171615-waifu-collector.json](./171615-waifu-collector.json) |
 | Waifu Impact 2 | 321542 | [321542-waifu-impact-2.json](./321542-waifu-impact-2.json) |
 | Waifu Love | 161410 | [161410-waifu-love.json](./161410-waifu-love.json) |
@@ -801,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weeping Falls Massacre | 204467 | [204467-weeping-falls-massacre.json](./204467-weeping-falls-massacre.json) |
 | Weeping Willow | 122366 | [122366-weeping-willow.json](./122366-weeping-willow.json) |
 | WeeWaa | 91380 | [91380-weewaa.json](./91380-weewaa.json) |
+| Weezer: End of the Game Game | 295365 | [295365-weezer-end-of-the-game-game.json](./295365-weezer-end-of-the-game-game.json) |
 | WeFly | 310594 | [310594-wefly.json](./310594-wefly.json) |
 | Wega & The Lost Media | 358293 | [358293-wega-and-the-lost-media.json](./358293-wega-and-the-lost-media.json) |
 | Wega: Lost in the Outer Reaches | 213406 | [213406-wega-lost-in-the-outer-reaches.json](./213406-wega-lost-in-the-outer-reaches.json) |
@@ -2270,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worst Case | 320552 | [320552-worst-case.json](./320552-worst-case.json) |
 | Worst Coach in the World | 289893 | [289893-worst-coach-in-the-world.json](./289893-worst-coach-in-the-world.json) |
 | Worst Dating Sim | 178658 | [178658-worst-dating-sim.json](./178658-worst-dating-sim.json) |
+| Worst Idea | 295402 | [295402-worst-idea.json](./295402-worst-idea.json) |
 | Worth Life | 152369 | [152369-worth-life.json](./152369-worth-life.json) |
 | WortWechsel | 58232 | [58232-wortwechsel.json](./58232-wortwechsel.json) |
 | Would You Love Me If I Was a Snake? | 400346 | [400346-would-you-love-me-if-i-was-a-snake.json](./400346-would-you-love-me-if-i-was-a-snake.json) |
