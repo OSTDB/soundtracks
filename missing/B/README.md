@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Panic! | 116393 | [116393-ball-panic.json](./116393-ball-panic.json) |
 | Ball Park | 91375 | [91375-ball-park.json](./91375-ball-park.json) |
 | Ball Physics Draw Puzzles | 166677 | [166677-ball-physics-draw-puzzles.json](./166677-ball-physics-draw-puzzles.json) |
+| Ball Points | 304693 | [304693-ball-points.json](./304693-ball-points.json) |
 | Ball Raider II | 14282 | [14282-ball-raider-ii.json](./14282-ball-raider-ii.json) |
 | Ball Relay | 108471 | [108471-ball-relay.json](./108471-ball-relay.json) |
 | Ball Rush 3 | 402296 | [402296-ball-rush-3.json](./402296-ball-rush-3.json) |
@@ -460,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Bugs | 230534 | [230534-banana-bugs.json](./230534-banana-bugs.json) |
 | Banana Chaos Clicker | 389961 | [389961-banana-chaos-clicker.json](./389961-banana-chaos-clicker.json) |
 | Banana Co. | 275881 | [275881-banana-co.json](./275881-banana-co.json) |
+| Banana Cowboy | 304692 | [304692-banana-cowboy.json](./304692-banana-cowboy.json) |
 | Banana Dash | 97325 | [97325-banana-dash.json](./97325-banana-dash.json) |
 | Banana for Scale | 130341 | [130341-banana-for-scale.json](./130341-banana-for-scale.json) |
 | Banana girl | 106606 | [106606-banana-girl.json](./106606-banana-girl.json) |
@@ -477,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
 | Banana-Shaped | 309490 | [309490-banana-shaped.json](./309490-banana-shaped.json) |
 | Bananamana | 314257 | [314257-bananamana.json](./314257-bananamana.json) |
+| Bananametr | 304691 | [304691-bananametr.json](./304691-bananametr.json) |
 | Bananarun | 157698 | [157698-bananarun.json](./157698-bananarun.json) |
 | Bananas in Pajamas: It's Fun Time | 221980 | [221980-bananas-in-pajamas-its-fun-time.json](./221980-bananas-in-pajamas-its-fun-time.json) |
 | Bananounce | 320974 | [320974-bananounce.json](./320974-bananounce.json) |
@@ -579,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barack Fu: The Adventures of Dirty Barry | 407397 | [407397-barack-fu-the-adventures-of-dirty-barry.json](./407397-barack-fu-the-adventures-of-dirty-barry.json) |
 | Baraduke | 39856 | [39856-baraduke.json](./39856-baraduke.json) |
 | Barakel: The Fallen Angel | 175912 | [175912-barakel-the-fallen-angel.json](./175912-barakel-the-fallen-angel.json) |
+| Barako the Pirate | 304690 | [304690-barako-the-pirate.json](./304690-barako-the-pirate.json) |
 | Baratin: The Video Game | 374085 | [374085-baratin-the-video-game.json](./374085-baratin-the-video-game.json) |
 | Barb | 191812 | [191812-barb.json](./191812-barb.json) |
 | Barb Wire | 92451 | [92451-barb-wire.json](./92451-barb-wire.json) |
@@ -730,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
 | Baro Kart | 259009 | [259009-baro-kart.json](./259009-baro-kart.json) |
 | Barold | 220135 | [220135-barold.json](./220135-barold.json) |
+| BaroMaro | 304689 | [304689-baromaro.json](./304689-baromaro.json) |
 | Baron Baldric: A Grave Adventure | 14287 | [14287-baron-baldric-a-grave-adventure.json](./14287-baron-baldric-a-grave-adventure.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
 | Barp Online | 379959 | [379959-barp-online.json](./379959-barp-online.json) |
@@ -850,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Showdown: Royale | 244798 | [244798-basketball-showdown-royale.json](./244798-basketball-showdown-royale.json) |
 | Basketball Slam! | 237651 | [237651-basketball-slam.json](./237651-basketball-slam.json) |
 | Basketball Trivia | 88203 | [88203-basketball-trivia.json](./88203-basketball-trivia.json) |
+| Basketball VR | 304687 | [304687-basketball-vr.json](./304687-basketball-vr.json) |
 | Basketball: Breakthrough Gaming Arcade | 204079 | [204079-basketball-breakthrough-gaming-arcade.json](./204079-basketball-breakthrough-gaming-arcade.json) |
 | Basketball: Breakthrough Gaming Arcade - Challenge Mode Edition | 221770 | [221770-basketball-breakthrough-gaming-arcade-challenge-mode-edition.json](./221770-basketball-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Basketball: Dribble Away | 245558 | [245558-basketball-dribble-away.json](./245558-basketball-dribble-away.json) |
@@ -945,6 +951,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batterneers | 158215 | [158215-batterneers.json](./158215-batterneers.json) |
 | Battery-out | 193403 | [193403-battery-out.json](./193403-battery-out.json) |
 | Batteryman Recharges the World! | 184638 | [184638-batteryman-recharges-the-world.json](./184638-batteryman-recharges-the-world.json) |
+| BatteryNote | 304688 | [304688-batterynote.json](./304688-batterynote.json) |
+| Battimals | 304686 | [304686-battimals.json](./304686-battimals.json) |
 | Batting Champ | 287623 | [287623-batting-champ.json](./287623-batting-champ.json) |
 | Battington Manor | 393481 | [393481-battington-manor.json](./393481-battington-manor.json) |
 | Battle | 344392 | [344392-battle.json](./344392-battle.json) |
@@ -1589,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellatores | 352257 | [352257-bellatores.json](./352257-bellatores.json) |
 | Belle Boomerang | 150127 | [150127-belle-boomerang.json](./150127-belle-boomerang.json) |
 | Belle-de-Nuit: Point-du-Jour | 230559 | [230559-belle-de-nuit-point-du-jour.json](./230559-belle-de-nuit-point-du-jour.json) |
+| Bellfortis | 304712 | [304712-bellfortis.json](./304712-bellfortis.json) |
 | Bellini: The Mad Magician | 91447 | [91447-bellini-the-mad-magician.json](./91447-bellini-the-mad-magician.json) |
 | Bellumarot | 151712 | [151712-bellumarot.json](./151712-bellumarot.json) |
 | Bellus Battle | 260157 | [260157-bellus-battle.json](./260157-bellus-battle.json) |
@@ -3361,6 +3370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bopimo! | 325696 | [325696-bopimo.json](./325696-bopimo.json) |
 | Bopp File | 309537 | [309537-bopp-file.json](./309537-bopp-file.json) |
 | Boppin' | 14333 | [14333-boppin.json](./14333-boppin.json) |
+| BOPZ.io | 304751 | [304751-bopz-io.json](./304751-bopz-io.json) |
 | Borbo's Quest | 178582 | [178582-borbos-quest.json](./178582-borbos-quest.json) |
 | Border Break | 81218 | [81218-border-break.json](./81218-border-break.json) |
 | Border Force: Space Force | 171627 | [171627-border-force-space-force.json](./171627-border-force-space-force.json) |
@@ -4165,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
 | Bubble Rage | 340228 | [340228-bubble-rage.json](./340228-bubble-rage.json) |
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
+| Bubble Seahorse Adventure | 304756 | [304756-bubble-seahorse-adventure.json](./304756-bubble-seahorse-adventure.json) |
 | Bubble Shooter 2 | 299775 | [299775-bubble-shooter-2.json](./299775-bubble-shooter-2.json) |
 | Bubble Shooter Adventures | 341019 | [341019-bubble-shooter-adventures.json](./341019-bubble-shooter-adventures.json) |
 | Bubble Shooter: Fashion Bird | 108444 | [108444-bubble-shooter-fashion-bird.json](./108444-bubble-shooter-fashion-bird.json) |
