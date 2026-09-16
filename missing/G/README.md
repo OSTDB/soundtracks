@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
 | Galves Adventure | 230310 | [230310-galves-adventure.json](./230310-galves-adventure.json) |
 | Galxagar | 207320 | [207320-galxagar.json](./207320-galxagar.json) |
+| Gambit | 328064 | [328064-gambit.json](./328064-gambit.json) |
 | Gambit | 403008 | [403008-gambit.json](./403008-gambit.json) |
 | Gambit Gardens | 415159 | [415159-gambit-gardens.json](./415159-gambit-gardens.json) |
 | Gambit Heart | 100724 | [100724-gambit-heart.json](./100724-gambit-heart.json) |
@@ -270,6 +271,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambler: Queen's Cup | 360589 | [360589-gambler-queens-cup.json](./360589-gambler-queens-cup.json) |
 | Gambler’s Loop | 348862 | [348862-gambler-s-loop.json](./348862-gambler-s-loop.json) |
 | Gambling Forever | 347789 | [347789-gambling-forever.json](./347789-gambling-forever.json) |
+| Gambol | 328063 | [328063-gambol.json](./328063-gambol.json) |
+| Gambol 2 | 328061 | [328061-gambol-2.json](./328061-gambol-2.json) |
 | Game | 346610 | [346610-game.json](./346610-game.json) |
 | Game (not) Over | 333656 | [333656-game-not-over.json](./333656-game-not-over.json) |
 | Game & Watch Donkey Kong Jr | 339261 | [339261-game-and-watch-donkey-kong-jr.json](./339261-game-and-watch-donkey-kong-jr.json) |
