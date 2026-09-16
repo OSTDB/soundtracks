@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recursed | 32191 | [32191-recursed.json](./32191-recursed.json) |
 | Recursion | 379376 | [379376-recursion.json](./379376-recursion.json) |
 | Recursive Riftfall | 310725 | [310725-recursive-riftfall.json](./310725-recursive-riftfall.json) |
+| Recycle Master | 300851 | [300851-recycle-master.json](./300851-recycle-master.json) |
 | Recycler's Terminal | 116327 | [116327-recyclers-terminal.json](./116327-recyclers-terminal.json) |
 | Red | 29948 | [29948-red.json](./29948-red.json) |
 | Red | 75084 | [75084-red.json](./75084-red.json) |
@@ -1165,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
 | Reignbreaker | 314640 | [314640-reignbreaker.json](./314640-reignbreaker.json) |
 | Reignman | 99033 | [99033-reignman.json](./99033-reignman.json) |
+| Reigns: Complete Set | 300835 | [300835-reigns-complete-set.json](./300835-reigns-complete-set.json) |
 | Reigns: Game of Thrones | 107237 | [107237-reigns-game-of-thrones.json](./107237-reigns-game-of-thrones.json) |
 | Reigns: Three Kingdoms | 204453 | [204453-reigns-three-kingdoms.json](./204453-reigns-three-kingdoms.json) |
 | Reijou Tantei: Office Love Jikenbo | 203342 | [203342-reijou-tantei-office-love-jikenbo.json](./203342-reijou-tantei-office-love-jikenbo.json) |
@@ -2645,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ROM: Extraction | 26549 | [26549-rom-extraction.json](./26549-rom-extraction.json) |
 | Roma Incognita | 248034 | [248034-roma-incognita.json](./248034-roma-incognita.json) |
 | Roma Victor | 67955 | [67955-roma-victor.json](./67955-roma-victor.json) |
+| Roman City Tycoon | 300834 | [300834-roman-city-tycoon.json](./300834-roman-city-tycoon.json) |
 | Roman Empire vs. Barbarians | 235734 | [235734-roman-empire-vs-barbarians.json](./235734-roman-empire-vs-barbarians.json) |
 | Roman Empire Wars | 158644 | [158644-roman-empire-wars.json](./158644-roman-empire-wars.json) |
 | Roman Sacrifice in Córdoba | 74447 | [74447-roman-sacrifice-in-cordoba.json](./74447-roman-sacrifice-in-cordoba.json) |
