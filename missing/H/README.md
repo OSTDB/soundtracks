@@ -1810,6 +1810,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Space Top-Down 3D | 269007 | [269007-hidden-space-top-down-3d.json](./269007-hidden-space-top-down-3d.json) |
 | Hidden Square | 311132 | [311132-hidden-square.json](./311132-hidden-square.json) |
 | Hidden Storehouse Top-Down 3D | 320548 | [320548-hidden-storehouse-top-down-3d.json](./320548-hidden-storehouse-top-down-3d.json) |
+| Hidden Superhero Cats: Bonus Level | 296509 | [296509-hidden-superhero-cats-bonus-level.json](./296509-hidden-superhero-cats-bonus-level.json) |
+| Hidden Tactics | 296514 | [296514-hidden-tactics.json](./296514-hidden-tactics.json) |
 | Hidden Tales | 233482 | [233482-hidden-tales.json](./233482-hidden-tales.json) |
 | Hidden Temple Adventure | 248650 | [248650-hidden-temple-adventure.json](./248650-hidden-temple-adventure.json) |
 | Hidden Through Time | 128909 | [128909-hidden-through-time.json](./128909-hidden-through-time.json) |
@@ -2888,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hueor | 127365 | [127365-hueor.json](./127365-hueor.json) |
 | Hues | 289853 | [289853-hues.json](./289853-hues.json) |
 | Hues: Moon Sea | 289854 | [289854-hues-moon-sea.json](./289854-hues-moon-sea.json) |
+| Hues: Sunset Valley | 296519 | [296519-hues-sunset-valley.json](./296519-hues-sunset-valley.json) |
 | Hug Me, Senpai! | 368519 | [368519-hug-me-senpai.json](./368519-hug-me-senpai.json) |
 | Huge Breast Princess Knight Anne | 158212 | [158212-huge-breast-princess-knight-anne.json](./158212-huge-breast-princess-knight-anne.json) |
 | Huge Enemy - Worldbreakers | 107855 | [107855-huge-enemy-worldbreakers.json](./107855-huge-enemy-worldbreakers.json) |
