@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epsilon corp. | 33082 | [33082-epsilon-corp.json](./33082-epsilon-corp.json) |
 | Epsilon Eridana | 217301 | [217301-epsilon-eridana.json](./217301-epsilon-eridana.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
+| Epstein 2 | 315091 | [315091-epstein-2.json](./315091-epstein-2.json) |
 | EQ Survival Manual | 406819 | [406819-eq-survival-manual.json](./406819-eq-survival-manual.json) |
 | Equestria | 128563 | [128563-equestria.json](./128563-equestria.json) |
 | Equilibrium | 170999 | [170999-equilibrium.json](./170999-equilibrium.json) |
@@ -1387,6 +1388,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escort Commander | 80998 | [80998-escort-commander.json](./80998-escort-commander.json) |
 | ESHQ | 327410 | [327410-eshq.json](./327410-eshq.json) |
 | Eskimo Games | 80527 | [80527-eskimo-games.json](./80527-eskimo-games.json) |
+| Esklavos C10 | 315080 | [315080-esklavos-c10.json](./315080-esklavos-c10.json) |
+| Esklavos C11 | 315082 | [315082-esklavos-c11.json](./315082-esklavos-c11.json) |
+| Esklavos C12 | 315083 | [315083-esklavos-c12.json](./315083-esklavos-c12.json) |
+| Esklavos C13 | 315084 | [315084-esklavos-c13.json](./315084-esklavos-c13.json) |
+| Esklavos C14 | 315087 | [315087-esklavos-c14.json](./315087-esklavos-c14.json) |
+| Esklavos C15 | 315089 | [315089-esklavos-c15.json](./315089-esklavos-c15.json) |
+| Esklavos C16 | 315092 | [315092-esklavos-c16.json](./315092-esklavos-c16.json) |
+| Esklavos C17 | 315096 | [315096-esklavos-c17.json](./315096-esklavos-c17.json) |
+| Esklavos C7 | 315073 | [315073-esklavos-c7.json](./315073-esklavos-c7.json) |
+| Esklavos C8 | 315074 | [315074-esklavos-c8.json](./315074-esklavos-c8.json) |
+| Esklavos C9 | 315075 | [315075-esklavos-c9.json](./315075-esklavos-c9.json) |
 | Eslander | 120993 | [120993-eslander.json](./120993-eslander.json) |
 | ESMO: Esports Manager Online | 375291 | [375291-esmo-esports-manager-online.json](./375291-esmo-esports-manager-online.json) |
 | EsoTarot VR | 236270 | [236270-esotarot-vr.json](./236270-esotarot-vr.json) |
