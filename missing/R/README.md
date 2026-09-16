@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaction Quake 3 | 200651 | [200651-reaction-quake-3.json](./200651-reaction-quake-3.json) |
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
 | Reactor Tech 2 | 163975 | [163975-reactor-tech-2.json](./163975-reactor-tech-2.json) |
+| Read Only Memories: Neurodiver - Collector's Edition | 292138 | [292138-read-only-memories-neurodiver-collectors-edition.json](./292138-read-only-memories-neurodiver-collectors-edition.json) |
 | Read the Unfinished Donkey Kong Country Story...and then Finish the Adventure! | 328601 | [328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json](./328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json) |
 | Reader Rabbit 1 | 80516 | [80516-reader-rabbit-1.json](./80516-reader-rabbit-1.json) |
 | Reader Rabbit 1st Grade | 88280 | [88280-reader-rabbit-1st-grade.json](./88280-reader-rabbit-1st-grade.json) |
@@ -818,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reanimation Scheme | 158647 | [158647-reanimation-scheme.json](./158647-reanimation-scheme.json) |
 | Reap and Sow | 202362 | [202362-reap-and-sow.json](./202362-reap-and-sow.json) |
 | Reap: We Reap What Crawls | 363874 | [363874-reap-we-reap-what-crawls.json](./363874-reap-we-reap-what-crawls.json) |
+| Reaper | 292115 | [292115-reaper.json](./292115-reaper.json) |
 | Reaper Actual | 352748 | [352748-reaper-actual.json](./352748-reaper-actual.json) |
 | Reaper Hunt: Survivor | 345495 | [345495-reaper-hunt-survivor.json](./345495-reaper-hunt-survivor.json) |
 | Reaper Recon | 360639 | [360639-reaper-recon.json](./360639-reaper-recon.json) |
