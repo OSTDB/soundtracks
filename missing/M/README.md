@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
 | Magic Balls | 263474 | [263474-magic-balls.json](./263474-magic-balls.json) |
 | Magic Book Auto Battler | 328257 | [328257-magic-book-auto-battler.json](./328257-magic-book-auto-battler.json) |
+| Magic Book Escape | 315673 | [315673-magic-book-escape.json](./315673-magic-book-escape.json) |
 | Magic Boutique of Royal Blue | 226738 | [226738-magic-boutique-of-royal-blue.json](./226738-magic-boutique-of-royal-blue.json) |
 | Magic Bows | 359400 | [359400-magic-bows.json](./359400-magic-bows.json) |
 | Magic Box | 29867 | [29867-magic-box.json](./29867-magic-box.json) |
@@ -264,6 +265,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cube in Strange World! | 306367 | [306367-magic-cube-in-strange-world.json](./306367-magic-cube-in-strange-world.json) |
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
 | Magic Fairy Tales: Barbie as Rapunzel | 19401 | [19401-magic-fairy-tales-barbie-as-rapunzel.json](./19401-magic-fairy-tales-barbie-as-rapunzel.json) |
+| Magic Forest Escape 3 | 315665 | [315665-magic-forest-escape-3.json](./315665-magic-forest-escape-3.json) |
+| Magic Forest Escape 4 | 315666 | [315666-magic-forest-escape-4.json](./315666-magic-forest-escape-4.json) |
+| Magic Forest Escape 5 | 315668 | [315668-magic-forest-escape-5.json](./315668-magic-forest-escape-5.json) |
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
 | Magic Garden Escape | 315471 | [315471-magic-garden-escape.json](./315471-magic-garden-escape.json) |
 | Magic Gear | 377601 | [377601-magic-gear.json](./377601-magic-gear.json) |
@@ -296,6 +300,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Mirror Hall | 182985 | [182985-magic-mirror-hall.json](./182985-magic-mirror-hall.json) |
 | Magic MixUp | 58200 | [58200-magic-mixup.json](./58200-magic-mixup.json) |
 | Magic Mushrooms | 13735 | [13735-magic-mushrooms.json](./13735-magic-mushrooms.json) |
+| Magic New year Escape | 315700 | [315700-magic-new-year-escape.json](./315700-magic-new-year-escape.json) |
+| Magic New Year Escape 2 | 315701 | [315701-magic-new-year-escape-2.json](./315701-magic-new-year-escape-2.json) |
 | Magic Numbers 2 | 58764 | [58764-magic-numbers-2.json](./58764-magic-numbers-2.json) |
 | Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
 | Magic Paint | 88224 | [88224-magic-paint.json](./88224-magic-paint.json) |
@@ -3283,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Kitty | 258724 | [258724-missing-kitty.json](./258724-missing-kitty.json) |
 | Missing Memories | 257088 | [257088-missing-memories.json](./257088-missing-memories.json) |
 | Missing Mildred | 189190 | [189190-missing-mildred.json](./189190-missing-mildred.json) |
+| Missing Picture | 315702 | [315702-missing-picture.json](./315702-missing-picture.json) |
 | Missing Plane: Survival | 186854 | [186854-missing-plane-survival.json](./186854-missing-plane-survival.json) |
 | Missing Texture | 396242 | [396242-missing-texture.json](./396242-missing-texture.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
@@ -3800,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
 | Monster Girls: You Can't Say No | 415164 | [415164-monster-girls-you-cant-say-no.json](./415164-monster-girls-you-cant-say-no.json) |
 | Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
+| Monster Haven | 315708 | [315708-monster-haven.json](./315708-monster-haven.json) |
 | Monster Heart | 229929 | [229929-monster-heart.json](./229929-monster-heart.json) |
 | Monster High: Beauty Shop | 89146 | [89146-monster-high-beauty-shop.json](./89146-monster-high-beauty-shop.json) |
 | Monster High: New Ghoul in School | 19318 | [19318-monster-high-new-ghoul-in-school.json](./19318-monster-high-new-ghoul-in-school.json) |
