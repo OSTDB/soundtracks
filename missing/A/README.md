@@ -612,7 +612,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
 | Agent Roy: Zombie Hunt | 232449 | [232449-agent-roy-zombie-hunt.json](./232449-agent-roy-zombie-hunt.json) |
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
-| Agent X | 23067 | [23067-agent-x.json](./23067-agent-x.json) |
 | Agents of Groove | 325644 | [325644-agents-of-groove.json](./325644-agents-of-groove.json) |
 | Agents of Mayhem: Lazarus Agent Pack | 169936 | [169936-agents-of-mayhem-lazarus-agent-pack.json](./169936-agents-of-mayhem-lazarus-agent-pack.json) |
 | Aggretsuko Office Rush | 311666 | [311666-aggretsuko-office-rush.json](./311666-aggretsuko-office-rush.json) |
