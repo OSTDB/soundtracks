@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ustje | 379983 | [379983-ustje.json](./379983-ustje.json) |
 | Usual June | 279615 | [279615-usual-june.json](./279615-usual-june.json) |
 | Usurper of Fire | 408035 | [408035-usurper-of-fire.json](./408035-usurper-of-fire.json) |
+| UT Adventure | 294861 | [294861-ut-adventure.json](./294861-ut-adventure.json) |
 | UT Realms Reborn | 122992 | [122992-ut-realms-reborn.json](./122992-ut-realms-reborn.json) |
 | Uta Kumi 575 | 42670 | [42670-uta-kumi-575.json](./42670-uta-kumi-575.json) |
 | Uta no Prince-sama: Live Emotion | 305368 | [305368-uta-no-prince-sama-live-emotion.json](./305368-uta-no-prince-sama-live-emotion.json) |
