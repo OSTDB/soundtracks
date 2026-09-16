@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T06:49:19.085Z",
-  "total_missing": 76921,
+  "generated_at": "2026-09-16T06:51:46.870Z",
+  "total_missing": 76920,
   "games": [
     {
       "igdb_id": 306086,
@@ -5841,11 +5841,6 @@
       "igdb_id": 391743,
       "game_name": "Aghaz",
       "file": "missing/A/391743-aghaz.json"
-    },
-    {
-      "igdb_id": 86107,
-      "game_name": "Agi Gongnyong Dooly",
-      "file": "missing/A/86107-agi-gongnyong-dooly.json"
     },
     {
       "igdb_id": 43936,
