@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Understeel | 382204 | [382204-understeel.json](./382204-understeel.json) |
 | Undertale 2 | 178026 | [178026-undertale-2.json](./178026-undertale-2.json) |
 | Undertale Hard Mode: Director's Cut | 364600 | [364600-undertale-hard-mode-directors-cut.json](./364600-undertale-hard-mode-directors-cut.json) |
+| Undertale Patience | 307154 | [307154-undertale-patience.json](./307154-undertale-patience.json) |
 | Undertale Promise | 360564 | [360564-undertale-promise.json](./360564-undertale-promise.json) |
 | Undertale Yellow | 136482 | [136482-undertale-yellow.json](./136482-undertale-yellow.json) |
 | Undertale: Chara Boss Fight | 283766 | [283766-undertale-chara-boss-fight.json](./283766-undertale-chara-boss-fight.json) |
@@ -676,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unpan | 338808 | [338808-unpan.json](./338808-unpan.json) |
 | Unparallel | 127987 | [127987-unparallel.json](./127987-unparallel.json) |
 | Unpetrified: Echoes of Nature | 203925 | [203925-unpetrified-echoes-of-nature.json](./203925-unpetrified-echoes-of-nature.json) |
+| Unplagued | 307143 | [307143-unplagued.json](./307143-unplagued.json) |
 | Unplug | 249205 | [249205-unplug.json](./249205-unplug.json) |
 | Unpredictable Storyline Twists 2 | 128632 | [128632-unpredictable-storyline-twists-2.json](./128632-unpredictable-storyline-twists-2.json) |
 | Unprotected | 323515 | [323515-unprotected.json](./323515-unprotected.json) |
