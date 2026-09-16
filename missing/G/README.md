@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G2 Fighter | 110443 | [110443-g2-fighter.json](./110443-g2-fighter.json) |
 | G30 | 101501 | [101501-g30.json](./101501-g30.json) |
 | Gabbuchi | 114429 | [114429-gabbuchi.json](./114429-gabbuchi.json) |
+| Gabenwood 2: 99 Hidden Euros | 296513 | [296513-gabenwood-2-99-hidden-euros.json](./296513-gabenwood-2-99-hidden-euros.json) |
 | Gabenwood: 99 Hidden Bucks | 224239 | [224239-gabenwood-99-hidden-bucks.json](./224239-gabenwood-99-hidden-bucks.json) |
 | Gabriel Knight 3: Blood of the Sacred, Blood of the Damned | 1252 | [1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json](./1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json) |
 | Gabriel's Auditory Playground | 197365 | [197365-gabriels-auditory-playground.json](./197365-gabriels-auditory-playground.json) |
@@ -51,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gacha Adventure | 375323 | [375323-gacha-adventure.json](./375323-gacha-adventure.json) |
 | Gacha Capsule Shop Simulator: Akihabara | 386674 | [386674-gacha-capsule-shop-simulator-akihabara.json](./386674-gacha-capsule-shop-simulator-akihabara.json) |
 | Gacha Club | 142408 | [142408-gacha-club.json](./142408-gacha-club.json) |
+| Gacha Pets | 296531 | [296531-gacha-pets.json](./296531-gacha-pets.json) |
 | Gachaminer | 180227 | [180227-gachaminer.json](./180227-gachaminer.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
 | Gachimuchi Reloaded | 86314 | [86314-gachimuchi-reloaded.json](./86314-gachimuchi-reloaded.json) |
