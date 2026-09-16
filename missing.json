@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T01:33:51.056Z",
-  "total_missing": 76163,
+  "generated_at": "2026-09-16T01:41:53.352Z",
+  "total_missing": 76162,
   "games": [
     {
       "igdb_id": 306086,
@@ -5671,11 +5671,6 @@
       "igdb_id": 26643,
       "game_name": "Age of Wushu 2",
       "file": "missing/A/26643-age-of-wushu-2.json"
-    },
-    {
-      "igdb_id": 357800,
-      "game_name": "Agency 13",
-      "file": "missing/A/357800-agency-13.json"
     },
     {
       "igdb_id": 31784,
