@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsteria! | 390684 | [390684-hamsteria.json](./390684-hamsteria.json) |
+| HamSumo | 287751 | [287751-hamsumo.json](./287751-hamsumo.json) |
 | Hamurabi | 11302 | [11302-hamurabi.json](./11302-hamurabi.json) |
 | Hàn Mò Bàyè Miǎnfèi Bǎn | 368019 | [368019-han-mo-baye-mianfei-ban.json](./368019-han-mo-baye-mianfei-ban.json) |
 | Hana | 178033 | [178033-hana.json](./178033-hana.json) |
@@ -3223,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypership Out of Control | 35659 | [35659-hypership-out-of-control.json](./35659-hypership-out-of-control.json) |
 | Hypersomnia | 249782 | [249782-hypersomnia.json](./249782-hypersomnia.json) |
 | Hyperspace | 297489 | [297489-hyperspace.json](./297489-hyperspace.json) |
+| Hyperspace Deck Command | 287766 | [287766-hyperspace-deck-command.json](./287766-hyperspace-deck-command.json) |
 | Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
 | Hyperspace Services | 184085 | [184085-hyperspace-services.json](./184085-hyperspace-services.json) |
 | Hyperstacks | 137604 | [137604-hyperstacks.json](./137604-hyperstacks.json) |
