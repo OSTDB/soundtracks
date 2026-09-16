@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Knick Knack | 210641 | [210641-captain-knick-knack.json](./210641-captain-knick-knack.json) |
 | Captain MaCaw | 110165 | [110165-captain-macaw.json](./110165-captain-macaw.json) |
 | Captain Meow | 239672 | [239672-captain-meow.json](./239672-captain-meow.json) |
+| Captain Midnight | 325715 | [325715-captain-midnight.json](./325715-captain-midnight.json) |
 | Captain Morgane and the Golden Turtle | 6654 | [6654-captain-morgane-and-the-golden-turtle.json](./6654-captain-morgane-and-the-golden-turtle.json) |
 | Captain of Industry: Trains Expansion | 388973 | [388973-captain-of-industry-trains-expansion.json](./388973-captain-of-industry-trains-expansion.json) |
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
@@ -579,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargame | 143727 | [143727-cargame.json](./143727-cargame.json) |
 | Cargasm | 79256 | [79256-cargasm.json](./79256-cargasm.json) |
 | Cargo | 312566 | [312566-cargo.json](./312566-cargo.json) |
+| Cargo 19 | 325632 | [325632-cargo-19.json](./325632-cargo-19.json) |
 | Cargo Breach | 372575 | [372575-cargo-breach.json](./372575-cargo-breach.json) |
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
 | Cargo Company | 148504 | [148504-cargo-company.json](./148504-cargo-company.json) |
@@ -676,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Fury: Championship Racing | 78637 | [78637-cart-fury-championship-racing.json](./78637-cart-fury-championship-racing.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
 | Cartapli: Fold Quest | 386834 | [386834-cartapli-fold-quest.json](./386834-cartapli-fold-quest.json) |
+| Cartas de Coisas | 325623 | [325623-cartas-de-coisas.json](./325623-cartas-de-coisas.json) |
 | Carte Blanche | 333559 | [333559-carte-blanche.json](./333559-carte-blanche.json) |
 | Carteado | 371974 | [371974-carteado.json](./371974-carteado.json) |
 | Cartel Pilots Wanted | 412957 | [412957-cartel-pilots-wanted.json](./412957-cartel-pilots-wanted.json) |
@@ -1060,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Ritual | 359998 | [359998-cats-ritual.json](./359998-cats-ritual.json) |
 | Cats Spotter | 307322 | [307322-cats-spotter.json](./307322-cats-spotter.json) |
 | Cats Story | 336025 | [336025-cats-story.json](./336025-cats-story.json) |
+| Cats Visiting Christmas Town | 325663 | [325663-cats-visiting-christmas-town.json](./325663-cats-visiting-christmas-town.json) |
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
 | Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
@@ -1195,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Heights | 180820 | [180820-celestial-heights.json](./180820-celestial-heights.json) |
 | Celestial Impact | 62665 | [62665-celestial-impact.json](./62665-celestial-impact.json) |
 | Celestial Links | 186251 | [186251-celestial-links.json](./186251-celestial-links.json) |
+| Celestial Orbiter Auranova: Those Who Denounce God | 325643 | [325643-celestial-orbiter-auranova-those-who-denounce-god.json](./325643-celestial-orbiter-auranova-those-who-denounce-god.json) |
 | Celestial Project | 189149 | [189149-celestial-project.json](./189149-celestial-project.json) |
 | Celestial Rune Consortium: Shadows of Ascension | 293627 | [293627-celestial-rune-consortium-shadows-of-ascension.json](./293627-celestial-rune-consortium-shadows-of-ascension.json) |
 | Celestial Temple | 402888 | [402888-celestial-temple.json](./402888-celestial-temple.json) |
@@ -2725,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoLab | 31943 | [31943-colab.json](./31943-colab.json) |
 | Cold | 344370 | [344370-cold.json](./344370-cold.json) |
 | Cold Abyss | 275906 | [275906-cold-abyss.json](./275906-cold-abyss.json) |
+| Cold Abyss | 325709 | [325709-cold-abyss.json](./325709-cold-abyss.json) |
 | Cold Alley | 74335 | [74335-cold-alley.json](./74335-cold-alley.json) |
 | Cold Bite | 115008 | [115008-cold-bite.json](./115008-cold-bite.json) |
 | Cold Boot | 348876 | [348876-cold-boot.json](./348876-cold-boot.json) |
