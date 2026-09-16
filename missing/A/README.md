@@ -569,7 +569,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
 | Age of Sail II: Privateer's Bounty | 9429 | [9429-age-of-sail-ii-privateers-bounty.json](./9429-age-of-sail-ii-privateers-bounty.json) |
 | Age of War | 18348 | [18348-age-of-war.json](./18348-age-of-war.json) |
-| Age of Water: The First Voyage | 293080 | [293080-age-of-water-the-first-voyage.json](./293080-age-of-water-the-first-voyage.json) |
 | Age of Wonders 4: Archon Prophecy | 325846 | [325846-age-of-wonders-4-archon-prophecy.json](./325846-age-of-wonders-4-archon-prophecy.json) |
 | Age of Wonders 4: Giant Kings | 325845 | [325845-age-of-wonders-4-giant-kings.json](./325845-age-of-wonders-4-giant-kings.json) |
 | Age of Wonders 4: Ways of War | 325844 | [325844-age-of-wonders-4-ways-of-war.json](./325844-age-of-wonders-4-ways-of-war.json) |
