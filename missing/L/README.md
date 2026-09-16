@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life as Designed | 153348 | [153348-life-as-designed.json](./153348-life-as-designed.json) |
 | Life Bubble | 300870 | [300870-life-bubble.json](./300870-life-bubble.json) |
 | Life Bubble: Gear Up Edition | 308806 | [308806-life-bubble-gear-up-edition.json](./308806-life-bubble-gear-up-edition.json) |
+| Life Eater | 289431 | [289431-life-eater.json](./289431-life-eater.json) |
 | Life Force | 174945 | [174945-life-force.json](./174945-life-force.json) |
 | Life Goals | 102144 | [102144-life-goals.json](./102144-life-goals.json) |
 | Life Hutch VR | 121610 | [121610-life-hutch-vr.json](./121610-life-hutch-vr.json) |
@@ -2581,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurn 2 Shell | 308391 | [308391-lurn-2-shell.json](./308391-lurn-2-shell.json) |
 | Lusófona Games Collection 2024 | 309888 | [309888-lusofona-games-collection-2024.json](./309888-lusofona-games-collection-2024.json) |
 | Lust Academy: Season 1 | 195223 | [195223-lust-academy-season-1.json](./195223-lust-academy-season-1.json) |
+| Lust Academy: Season 3 | 289462 | [289462-lust-academy-season-3.json](./289462-lust-academy-season-3.json) |
 | Lust Bunker | 274753 | [274753-lust-bunker.json](./274753-lust-bunker.json) |
 | Lust Campus | 251229 | [251229-lust-campus.json](./251229-lust-campus.json) |
 | Lust Company | 366236 | [366236-lust-company.json](./366236-lust-company.json) |
