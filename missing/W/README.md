@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who is There? | 221761 | [221761-who-is-there.json](./221761-who-is-there.json) |
 | Who Is You | 123549 | [123549-who-is-you.json](./123549-who-is-you.json) |
 | Who Knows Where They're Going | 184053 | [184053-who-knows-where-theyre-going.json](./184053-who-knows-where-theyre-going.json) |
+| Who Made this Art? Human or AI | 286652 | [286652-who-made-this-art-human-or-ai.json](./286652-who-made-this-art-human-or-ai.json) |
 | Who Must Die | 33112 | [33112-who-must-die.json](./33112-who-must-die.json) |
 | Who Shot James R. Burnside? | 302493 | [302493-who-shot-james-r-burnside.json](./302493-who-shot-james-r-burnside.json) |
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
