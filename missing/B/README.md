@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babe and Friends | 245571 | [245571-babe-and-friends.json](./245571-babe-and-friends.json) |
 | Babe and Friends | 49915 | [49915-babe-and-friends.json](./49915-babe-and-friends.json) |
 | Babe or Grave | 212288 | [212288-babe-or-grave.json](./212288-babe-or-grave.json) |
+| Babe-lathe | 296493 | [296493-babe-lathe.json](./296493-babe-lathe.json) |
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
 | Babel Defense | 338174 | [338174-babel-defense.json](./338174-babel-defense.json) |
 | Babel Deluxe | 63897 | [63897-babel-deluxe.json](./63897-babel-deluxe.json) |
@@ -979,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Axe & Final Vendetta Bundle | 311110 | [311110-battle-axe-and-final-vendetta-bundle.json](./311110-battle-axe-and-final-vendetta-bundle.json) |
 | Battle B-Daman | 49365 | [49365-battle-b-daman.json](./49365-battle-b-daman.json) |
 | Battle B-Daman: Fire Spirits! | 49364 | [49364-battle-b-daman-fire-spirits.json](./49364-battle-b-daman-fire-spirits.json) |
+| Battle Babes: Blood, Sun & Moon | 296528 | [296528-battle-babes-blood-sun-and-moon.json](./296528-battle-babes-blood-sun-and-moon.json) |
 | Battle Babes: Lightning | 309649 | [309649-battle-babes-lightning.json](./309649-battle-babes-lightning.json) |
 | Battle Balls | 166160 | [166160-battle-balls.json](./166160-battle-balls.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
@@ -1414,10 +1416,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Britney Spears - "Oops!...I Did It Again" | 357224 | [357224-beat-saber-britney-spears-oops-i-did-it-again.json](./357224-beat-saber-britney-spears-oops-i-did-it-again.json) |
 | Beat Saber: Britney Spears - "Toxic" | 357221 | [357221-beat-saber-britney-spears-toxic.json](./357221-beat-saber-britney-spears-toxic.json) |
 | Beat Saber: Britney Spears Music Pack | 357250 | [357250-beat-saber-britney-spears-music-pack.json](./357250-beat-saber-britney-spears-music-pack.json) |
+| Beat Saber: Daft Punk - “Around the World / Harder Better Faster Stronger” | 296495 | [296495-beat-saber-daft-punk-around-the-world-harder-better-faster-stronger.json](./296495-beat-saber-daft-punk-around-the-world-harder-better-faster-stronger.json) |
+| Beat Saber: Daft Punk - "Around The World" | 296494 | [296494-beat-saber-daft-punk-around-the-world.json](./296494-beat-saber-daft-punk-around-the-world.json) |
 | Beat Saber: Daft Punk - "Da Funk / Daftendirekt" | 298063 | [298063-beat-saber-daft-punk-da-funk-daftendirekt.json](./298063-beat-saber-daft-punk-da-funk-daftendirekt.json) |
 | Beat Saber: Daft Punk - "Lose Yourself to Dance (feat. Pharrell Williams)" | 298030 | [298030-beat-saber-daft-punk-lose-yourself-to-dance-feat-pharrell-williams.json](./298030-beat-saber-daft-punk-lose-yourself-to-dance-feat-pharrell-williams.json) |
 | Beat Saber: Daft Punk - "One More Time" | 298060 | [298060-beat-saber-daft-punk-one-more-time.json](./298060-beat-saber-daft-punk-one-more-time.json) |
 | Beat Saber: Daft Punk - "Technologic" | 298062 | [298062-beat-saber-daft-punk-technologic.json](./298062-beat-saber-daft-punk-technologic.json) |
+| Beat Saber: Daft Punk - "The Prime Time of Your Life/The Brainwasher/Rollin'/Alive (Live 2007)" | 296496 | [296496-beat-saber-daft-punk-the-prime-time-of-your-life-the-brainwasher-rollin-alive-live-2007.json](./296496-beat-saber-daft-punk-the-prime-time-of-your-life-the-brainwasher-rollin-alive-live-2007.json) |
 | Beat Saber: Daft Punk - "Veridis Quo" | 298027 | [298027-beat-saber-daft-punk-veridis-quo.json](./298027-beat-saber-daft-punk-veridis-quo.json) |
 | Beat Saber: Daft Punk Music Pack | 357254 | [357254-beat-saber-daft-punk-music-pack.json](./357254-beat-saber-daft-punk-music-pack.json) |
 | Beat Saber: Darude - "Sandstorm" | 357240 | [357240-beat-saber-darude-sandstorm.json](./357240-beat-saber-darude-sandstorm.json) |
@@ -1507,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
 | Becoming a Legend: New Advent | 403671 | [403671-becoming-a-legend-new-advent.json](./403671-becoming-a-legend-new-advent.json) |
+| Becoming Captain | 296497 | [296497-becoming-captain.json](./296497-becoming-captain.json) |
 | Becoming None | 417527 | [417527-becoming-none.json](./417527-becoming-none.json) |
 | Becoming Omega | 146838 | [146838-becoming-omega.json](./146838-becoming-omega.json) |
 | Becoming Saint | 320411 | [320411-becoming-saint.json](./320411-becoming-saint.json) |
@@ -1834,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Doors | 380009 | [380009-beyond-the-doors.json](./380009-beyond-the-doors.json) |
 | Beyond the Evil | 161365 | [161365-beyond-the-evil.json](./161365-beyond-the-evil.json) |
 | Beyond the Eyes | 392264 | [392264-beyond-the-eyes.json](./392264-beyond-the-eyes.json) |
+| Beyond the Fringe | 296498 | [296498-beyond-the-fringe.json](./296498-beyond-the-fringe.json) |
 | Beyond the Future: Fix the Time Arrows | 44588 | [44588-beyond-the-future-fix-the-time-arrows.json](./44588-beyond-the-future-fix-the-time-arrows.json) |
 | Beyond the Grove | 341905 | [341905-beyond-the-grove.json](./341905-beyond-the-grove.json) |
 | Beyond the Harbor: R | 212251 | [212251-beyond-the-harbor-r.json](./212251-beyond-the-harbor-r.json) |
@@ -3062,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Morane: Chevalerie 1 | 55094 | [55094-bob-morane-chevalerie-1.json](./55094-bob-morane-chevalerie-1.json) |
 | Bob Morane: Jungle 1 | 55095 | [55095-bob-morane-jungle-1.json](./55095-bob-morane-jungle-1.json) |
 | Bob Morane: Science Fiction 1 | 55096 | [55096-bob-morane-science-fiction-1.json](./55096-bob-morane-science-fiction-1.json) |
+| Bob the Block: Rebooted | 296499 | [296499-bob-the-block-rebooted.json](./296499-bob-the-block-rebooted.json) |
 | Bob the Builder: Bob Builds A Park | 72055 | [72055-bob-the-builder-bob-builds-a-park.json](./72055-bob-the-builder-bob-builds-a-park.json) |
 | Bob the Builder: Build City | 91335 | [91335-bob-the-builder-build-city.json](./91335-bob-the-builder-build-city.json) |
 | Bob the Builder: Festival of Fun | 374680 | [374680-bob-the-builder-festival-of-fun.json](./374680-bob-the-builder-festival-of-fun.json) |
@@ -3857,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Balloons: Ghost Town | 252151 | [252151-break-the-balloons-ghost-town.json](./252151-break-the-balloons-ghost-town.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
 | Break the Fireline | 230847 | [230847-break-the-fireline.json](./230847-break-the-fireline.json) |
+| Break The Line | 296500 | [296500-break-the-line.json](./296500-break-the-line.json) |
 | Break The Night | 417529 | [417529-break-the-night.json](./417529-break-the-night.json) |
 | Break the Tower | 394878 | [394878-break-the-tower.json](./394878-break-the-tower.json) |
 | Break through 50 | 148468 | [148468-break-through-50.json](./148468-break-through-50.json) |
