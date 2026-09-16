@@ -1520,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
 | Retro Jam 1 | 271217 | [271217-retro-jam-1.json](./271217-retro-jam-1.json) |
+| Retro League Racing | 296530 | [296530-retro-league-racing.json](./296530-retro-league-racing.json) |
 | Retro Otrop | 400288 | [400288-retro-otrop.json](./400288-retro-otrop.json) |
 | Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
 | Retro Racer | 148469 | [148469-retro-racer.json](./148469-retro-racer.json) |
@@ -2048,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Teenage Mutant Ninja Turtles: Ninja Run | 146251 | [146251-rise-of-the-teenage-mutant-ninja-turtles-ninja-run.json](./146251-rise-of-the-teenage-mutant-ninja-turtles-ninja-run.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Power Up! | 146285 | [146285-rise-of-the-teenage-mutant-ninja-turtles-power-up.json](./146285-rise-of-the-teenage-mutant-ninja-turtles-power-up.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Road Riot | 146291 | [146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json](./146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json) |
+| Rise of the Village Hero | 296484 | [296484-rise-of-the-village-hero.json](./296484-rise-of-the-village-hero.json) |
 | Rise of the White Sun: The Yellow Way | 312030 | [312030-rise-of-the-white-sun-the-yellow-way.json](./312030-rise-of-the-white-sun-the-yellow-way.json) |
 | Rise Out | 373027 | [373027-rise-out.json](./373027-rise-out.json) |
 | Rise to Glory | 92469 | [92469-rise-to-glory.json](./92469-rise-to-glory.json) |
