@@ -3084,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Killer: Flush or Die | 335997 | [335997-poop-killer-flush-or-die.json](./335997-poop-killer-flush-or-die.json) |
 | Poop on Red | 326238 | [326238-poop-on-red.json](./326238-poop-on-red.json) |
 | Poop Rocket | 341562 | [341562-poop-rocket.json](./341562-poop-rocket.json) |
+| Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
 | Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
 | Poorer Art | 377160 | [377160-poorer-art.json](./377160-poorer-art.json) |
 | PooSky | 68615 | [68615-poosky.json](./68615-poosky.json) |
@@ -3240,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postie | 345599 | [345599-postie.json](./345599-postie.json) |
 | Postknight | 27329 | [27329-postknight.json](./27329-postknight.json) |
 | Postknight World | 337704 | [337704-postknight-world.json](./337704-postknight-world.json) |
+| PostLife | 294275 | [294275-postlife.json](./294275-postlife.json) |
 | Postman Pat | 72122 | [72122-postman-pat.json](./72122-postman-pat.json) |
 | Postman Pat 2 | 68691 | [68691-postman-pat-2.json](./68691-postman-pat-2.json) |
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
