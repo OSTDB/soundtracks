@@ -6063,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
 | Squared: Adjacent Stones | 241996 | [241996-squared-adjacent-stones.json](./241996-squared-adjacent-stones.json) |
 | Squareface | 31585 | [31585-squareface.json](./31585-squareface.json) |
+| Squarelets | 297054 | [297054-squarelets.json](./297054-squarelets.json) |
 | Squarely | 364574 | [364574-squarely.json](./364574-squarely.json) |
 | Squarena | 191829 | [191829-squarena.json](./191829-squarena.json) |
 | Squarepinski | 372994 | [372994-squarepinski.json](./372994-squarepinski.json) |
@@ -6410,7 +6411,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Mod: Galactic Warfare | 299135 | [299135-star-wars-mod-galactic-warfare.json](./299135-star-wars-mod-galactic-warfare.json) |
 | Star Wars Outlaws: Cartel Ronin Bundle | 325857 | [325857-star-wars-outlaws-cartel-ronin-bundle.json](./325857-star-wars-outlaws-cartel-ronin-bundle.json) |
 | Star Wars Outlaws: Forest Commando Pack | 325856 | [325856-star-wars-outlaws-forest-commando-pack.json](./325856-star-wars-outlaws-forest-commando-pack.json) |
+| Star Wars Outlaws: Gold Edition | 297043 | [297043-star-wars-outlaws-gold-edition.json](./297043-star-wars-outlaws-gold-edition.json) |
 | Star Wars Outlaws: Hunter's Legacy Bundle | 325858 | [325858-star-wars-outlaws-hunters-legacy-bundle.json](./325858-star-wars-outlaws-hunters-legacy-bundle.json) |
+| Star Wars Outlaws: Limited Edition | 297044 | [297044-star-wars-outlaws-limited-edition.json](./297044-star-wars-outlaws-limited-edition.json) |
 | Star Wars Outlaws: Special Edition | 299474 | [299474-star-wars-outlaws-special-edition.json](./299474-star-wars-outlaws-special-edition.json) |
 | Star Wars Outlaws: Ultimate Edition | 299475 | [299475-star-wars-outlaws-ultimate-edition.json](./299475-star-wars-outlaws-ultimate-edition.json) |
 | Star Wars: Battle of the Sith Lords | 75088 | [75088-star-wars-battle-of-the-sith-lords.json](./75088-star-wars-battle-of-the-sith-lords.json) |
