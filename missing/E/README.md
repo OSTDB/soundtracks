@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Drop! | 383482 | [383482-echo-drop.json](./383482-echo-drop.json) |
 | Echo Extract | 342722 | [342722-echo-extract.json](./342722-echo-extract.json) |
 | Echo Flesh Metal | 303511 | [303511-echo-flesh-metal.json](./303511-echo-flesh-metal.json) |
+| Echo Generation: Midnight Edition | 304747 | [304747-echo-generation-midnight-edition.json](./304747-echo-generation-midnight-edition.json) |
 | Echo Glass | 58215 | [58215-echo-glass.json](./58215-echo-glass.json) |
 | Echo Harvest | 415160 | [415160-echo-harvest.json](./415160-echo-harvest.json) |
 | Echo in Capistrano | 303510 | [303510-echo-in-capistrano.json](./303510-echo-in-capistrano.json) |
@@ -1974,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Exterminate Zombies: Get Paid | 215930 | [215930-exterminate-zombies-get-paid.json](./215930-exterminate-zombies-get-paid.json) |
 | Extermination | 271997 | [271997-extermination.json](./271997-extermination.json) |
+| Extermination 1 | 304705 | [304705-extermination-1.json](./304705-extermination-1.json) |
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
 | Exterminium | 349878 | [349878-exterminium.json](./349878-exterminium.json) |
 | eXtinction | 221978 | [221978-extinction.json](./221978-extinction.json) |
