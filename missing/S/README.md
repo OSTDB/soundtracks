@@ -2012,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharp Trouble | 192938 | [192938-sharp-trouble.json](./192938-sharp-trouble.json) |
 | Sharpe Investigations: Death on the Seine | 10822 | [10822-sharpe-investigations-death-on-the-seine.json](./10822-sharpe-investigations-death-on-the-seine.json) |
 | Sharper Minds: Brain Games | 255724 | [255724-sharper-minds-brain-games.json](./255724-sharper-minds-brain-games.json) |
+| Sharpshoot | 292154 | [292154-sharpshoot.json](./292154-sharpshoot.json) |
 | SharpShooter3D | 103189 | [103189-sharpshooter3d.json](./103189-sharpshooter3d.json) |
 | SharpShooter3D | 336568 | [336568-sharpshooter3d.json](./336568-sharpshooter3d.json) |
 | Shashingo: Learn Japanese with Photography - Additional Camera Filters | 298044 | [298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json](./298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json) |
@@ -2138,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: The Mystery of the Persian Carpet | 14854 | [14854-sherlock-holmes-the-mystery-of-the-persian-carpet.json](./14854-sherlock-holmes-the-mystery-of-the-persian-carpet.json) |
 | Sherlock Holmes: The Tea Shop Murder Mystery | 310948 | [310948-sherlock-holmes-the-tea-shop-murder-mystery.json](./310948-sherlock-holmes-the-tea-shop-murder-mystery.json) |
 | Sherlock Horse's Horror Academy | 125468 | [125468-sherlock-horses-horror-academy.json](./125468-sherlock-horses-horror-academy.json) |
+| Sherlock Purr 2 | 292155 | [292155-sherlock-purr-2.json](./292155-sherlock-purr-2.json) |
 | Sherlock Purr 2: Deluxe Edition | 314890 | [314890-sherlock-purr-2-deluxe-edition.json](./314890-sherlock-purr-2-deluxe-edition.json) |
 | Sherlock Purr: Extended Edition | 243369 | [243369-sherlock-purr-extended-edition.json](./243369-sherlock-purr-extended-edition.json) |
 | Sherlock: Hidden Object & Match-3 Mystery | 357304 | [357304-sherlock-hidden-object-and-match-3-mystery.json](./357304-sherlock-hidden-object-and-match-3-mystery.json) |
@@ -6367,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Scout | 70399 | [70399-star-scout.json](./70399-star-scout.json) |
 | Star Scum | 292533 | [292533-star-scum.json](./292533-star-scum.json) |
 | Star Sentinel Tactics | 67329 | [67329-star-sentinel-tactics.json](./67329-star-sentinel-tactics.json) |
+| Star Sentry | 292129 | [292129-star-sentry.json](./292129-star-sentry.json) |
 | Star Sign | 217309 | [217309-star-sign.json](./217309-star-sign.json) |
 | Star Sky | 18015 | [18015-star-sky.json](./18015-star-sky.json) |
 | Star Sky 2 | 18462 | [18462-star-sky-2.json](./18462-star-sky-2.json) |
@@ -7012,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Flip Diving | 106523 | [106523-stickman-flip-diving.json](./106523-stickman-flip-diving.json) |
 | Stickman Football | 94775 | [94775-stickman-football.json](./94775-stickman-football.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
+| Stickman Jailbreak 2024 | 292160 | [292160-stickman-jailbreak-2024.json](./292160-stickman-jailbreak-2024.json) |
 | Stickman League | 127194 | [127194-stickman-league.json](./127194-stickman-league.json) |
 | Stickman Legends | 323197 | [323197-stickman-legends.json](./323197-stickman-legends.json) |
 | Stickman Monster Battle 3D | 401561 | [401561-stickman-monster-battle-3d.json](./401561-stickman-monster-battle-3d.json) |
@@ -7121,6 +7125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop Those Aliens! | 277567 | [277567-stop-those-aliens.json](./277567-stop-those-aliens.json) |
 | Stop, Pawssport Check | 311138 | [311138-stop-pawssport-check.json](./311138-stop-pawssport-check.json) |
 | Stop! Don’t Die In Australia | 290936 | [290936-stop-don-t-die-in-australia.json](./290936-stop-don-t-die-in-australia.json) |
+| Stop10 | 292156 | [292156-stop10.json](./292156-stop10.json) |
 | Stoplights | 392140 | [392140-stoplights.json](./392140-stoplights.json) |
 | Stopping Santa | 335240 | [335240-stopping-santa.json](./335240-stopping-santa.json) |
 | StopSign | 167253 | [167253-stopsign.json](./167253-stopsign.json) |
