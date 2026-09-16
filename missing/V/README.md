@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacancy Unlimited | 153956 | [153956-vacancy-unlimited.json](./153956-vacancy-unlimited.json) |
 | Vacation Adventures: Park Ranger | 85464 | [85464-vacation-adventures-park-ranger.json](./85464-vacation-adventures-park-ranger.json) |
 | Vacation Adventures: Park Ranger 11 | 147421 | [147421-vacation-adventures-park-ranger-11.json](./147421-vacation-adventures-park-ranger-11.json) |
+| Vacation Adventures: Park Ranger 16 - Collectors Edition | 311108 | [311108-vacation-adventures-park-ranger-16-collectors-edition.json](./311108-vacation-adventures-park-ranger-16-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 2 | 85465 | [85465-vacation-adventures-park-ranger-2.json](./85465-vacation-adventures-park-ranger-2.json) |
 | Vacation Isle Beach Party | 50601 | [50601-vacation-isle-beach-party.json](./50601-vacation-isle-beach-party.json) |
 | Vacation Paradise: Florida - Collector's Edition | 254785 | [254785-vacation-paradise-florida-collectors-edition.json](./254785-vacation-paradise-florida-collectors-edition.json) |
@@ -305,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ved | 126673 | [126673-ved.json](./126673-ved.json) |
 | VED: Purification | 367955 | [367955-ved-purification.json](./367955-ved-purification.json) |
 | Vedal's Secret | 386121 | [386121-vedals-secret.json](./386121-vedals-secret.json) |
+| Vedmaak | 311128 | [311128-vedmaak.json](./311128-vedmaak.json) |
 | Vee is Calling | 76549 | [76549-vee-is-calling.json](./76549-vee-is-calling.json) |
 | Veer | 34384 | [34384-veer.json](./34384-veer.json) |
 | Vega Conflict: Bastion Cruiser Pack | 168309 | [168309-vega-conflict-bastion-cruiser-pack.json](./168309-vega-conflict-bastion-cruiser-pack.json) |
@@ -741,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visceral Cubes | 96462 | [96462-visceral-cubes.json](./96462-visceral-cubes.json) |
 | Vision | 88326 | [88326-vision.json](./88326-vision.json) |
 | Vision 2 | 92997 | [92997-vision-2.json](./92997-vision-2.json) |
+| Vision Ghost 2 | 311129 | [311129-vision-ghost-2.json](./311129-vision-ghost-2.json) |
 | Visionarium 2: The Descent | 197379 | [197379-visionarium-2-the-descent.json](./197379-visionarium-2-the-descent.json) |
 | Visions of Aftermath: Boomtown | 9526 | [9526-visions-of-aftermath-boomtown.json](./9526-visions-of-aftermath-boomtown.json) |
 | Visit Once | 147469 | [147469-visit-once.json](./147469-visit-once.json) |
@@ -1072,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Hogan's Alley | 169999 | [169999-vs-hogans-alley.json](./169999-vs-hogans-alley.json) |
 | Vs. Ladies Golf | 168330 | [168330-vs-ladies-golf.json](./168330-vs-ladies-golf.json) |
 | Vs. RetroSpecter P2: Infernadise | 378156 | [378156-vs-retrospecter-p2-infernadise.json](./378156-vs-retrospecter-p2-infernadise.json) |
+| Vs. Self | 311143 | [311143-vs-self.json](./311143-vs-self.json) |
 | Vs. Super Mario Bros. | 92342 | [92342-vs-super-mario-bros.json](./92342-vs-super-mario-bros.json) |
 | Vs. Urban Champion | 169998 | [169998-vs-urban-champion.json](./169998-vs-urban-champion.json) |
 | Vs. Vemny & Friends | 302648 | [302648-vs-vemny-and-friends.json](./302648-vs-vemny-and-friends.json) |
