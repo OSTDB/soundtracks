@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T03:34:09.928Z",
-  "total_missing": 76450,
+  "generated_at": "2026-09-16T03:41:38.419Z",
+  "total_missing": 76449,
   "games": [
     {
       "igdb_id": 306086,
@@ -5736,11 +5736,6 @@
       "igdb_id": 31784,
       "game_name": "Agenda",
       "file": "missing/A/31784-agenda.json"
-    },
-    {
-      "igdb_id": 127618,
-      "game_name": "Agent Emerson",
-      "file": "missing/A/127618-agent-emerson.json"
     },
     {
       "igdb_id": 86835,
