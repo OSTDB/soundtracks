@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T17:15:54.898Z",
-  "total_soundtracks": 1449,
+  "generated_at": "2026-09-16T05:16:00.013Z",
+  "total_soundtracks": 1450,
   "games": [
     {
       "igdb_id": 7522,
@@ -448,13 +448,13 @@
       "igdb_id": 326130,
       "game_name": "Agatha Christie: Death on the Nile",
       "game_url": "https://ostdb.net/games/agatha-christie-death-on-the-nile",
-      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/cb/9d/d0cb9d59-cc77-bcdc-712e-21fec9d2c988/859714595544_cover.jpg/600x600bb.jpg",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738695de22ce187117a4a0f810",
       "albums": [
         {
           "album_name": "Agatha Christie - Death on the Nile (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/agatha-christie-death-on-the-nile-original-game-soundtrack/1835606034?uo=4",
-          "apple_music_url": null,
-          "album_link_url": "https://album.link/i/1835606034"
+          "spotify_url": "https://open.spotify.com/album/54vA8UBvTD9H8ETsnznLjF",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -537,6 +537,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/age-of-mythology-retold/1763605860?uo=4",
           "album_link_url": "https://album.link/i/1763605860"
+        }
+      ]
+    },
+    {
+      "igdb_id": 325846,
+      "game_name": "Age of Wonders 4: Archon Prophecy",
+      "game_url": "https://ostdb.net/games/age-of-wonders-4-archon-prophecy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273067a92e46ed7ebc17493c814",
+      "albums": [
+        {
+          "album_name": "Age of Wonders 4: Archon Prophecy (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6uwAw5HCaSTKwk6vTIes5G",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
