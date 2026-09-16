@@ -1105,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Organ Quarter Pre-Alpha Demo | 30909 | [30909-organ-quarter-pre-alpha-demo.json](./30909-organ-quarter-pre-alpha-demo.json) |
 | Organ Trail: Director's Cut | 6859 | [6859-organ-trail-directors-cut.json](./6859-organ-trail-directors-cut.json) |
 | Organic Engine | 212794 | [212794-organic-engine.json](./212794-organic-engine.json) |
+| Organic Engine Escape | 315675 | [315675-organic-engine-escape.json](./315675-organic-engine-escape.json) |
 | Organic Panic | 36418 | [36418-organic-panic.json](./36418-organic-panic.json) |
 | Organize My Shop | 405541 | [405541-organize-my-shop.json](./405541-organize-my-shop.json) |
 | Organosphere | 96117 | [96117-organosphere.json](./96117-organosphere.json) |
