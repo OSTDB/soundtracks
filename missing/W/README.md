@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Are You!? | 256522 | [256522-who-are-you.json](./256522-who-are-you.json) |
 | Who Are You? | 169439 | [169439-who-are-you.json](./169439-who-are-you.json) |
 | Who Dies Last? | 214169 | [214169-who-dies-last.json](./214169-who-dies-last.json) |
+| Who Do You Want to Date? Professional Girls Collection | 288902 | [288902-who-do-you-want-to-date-professional-girls-collection.json](./288902-who-do-you-want-to-date-professional-girls-collection.json) |
 | Who I See | 236810 | [236810-who-i-see.json](./236810-who-i-see.json) |
 | Who Is It? | 261512 | [261512-who-is-it.json](./261512-who-is-it.json) |
 | Who Is Oscar Lake? | 72622 | [72622-who-is-oscar-lake.json](./72622-who-is-oscar-lake.json) |
@@ -1896,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woolfe: The Red Hood Diaries | 11647 | [11647-woolfe-the-red-hood-diaries.json](./11647-woolfe-the-red-hood-diaries.json) |
 | WooLoop | 199121 | [199121-wooloop.json](./199121-wooloop.json) |
 | WooLoop: Magic Pack | 319347 | [319347-wooloop-magic-pack.json](./319347-wooloop-magic-pack.json) |
+| WooLoop: Science Pack | 288918 | [288918-wooloop-science-pack.json](./288918-wooloop-science-pack.json) |
 | WooLoop: Video Games Pack | 301829 | [301829-wooloop-video-games-pack.json](./301829-wooloop-video-games-pack.json) |
 | Wooly Blast: Adorable Riddles | 101517 | [101517-wooly-blast-adorable-riddles.json](./101517-wooly-blast-adorable-riddles.json) |
 | Wooly Rockbottom and the Quest for the Golden Beard of Thor! | 325254 | [325254-wooly-rockbottom-and-the-quest-for-the-golden-beard-of-thor.json](./325254-wooly-rockbottom-and-the-quest-for-the-golden-beard-of-thor.json) |
