@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E'tude Prologue: Yureugoku Kokoro no Katachi | 204482 | [204482-etude-prologue-yureugoku-kokoro-no-katachi.json](./204482-etude-prologue-yureugoku-kokoro-no-katachi.json) |
 | E4C: Final Salvation | 328459 | [328459-e4c-final-salvation.json](./328459-e4c-final-salvation.json) |
 | E4M1 remake | 308277 | [308277-e4m1-remake.json](./308277-e4m1-remake.json) |
+| EA Create: Snap | 331966 | [331966-ea-create-snap.json](./331966-ea-create-snap.json) |
 | EA Mahjong | 79875 | [79875-ea-mahjong.json](./79875-ea-mahjong.json) |
 | EA Replay 2 | 209176 | [209176-ea-replay-2.json](./209176-ea-replay-2.json) |
 | EA Sports College Football 25 | 172021 | [172021-ea-sports-college-football-25.json](./172021-ea-sports-college-football-25.json) |
