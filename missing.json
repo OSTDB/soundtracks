@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T05:48:56.301Z",
-  "total_missing": 76786,
+  "generated_at": "2026-09-16T05:51:43.191Z",
+  "total_missing": 76785,
   "games": [
     {
       "igdb_id": 306086,
@@ -5811,11 +5811,6 @@
       "igdb_id": 169936,
       "game_name": "Agents of Mayhem: Lazarus Agent Pack",
       "file": "missing/A/169936-agents-of-mayhem-lazarus-agent-pack.json"
-    },
-    {
-      "igdb_id": 253374,
-      "game_name": "Agents of SomeCompany",
-      "file": "missing/A/253374-agents-of-somecompany.json"
     },
     {
       "igdb_id": 344343,
