@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
 | Wakdoo Random Defence | 188098 | [188098-wakdoo-random-defence.json](./188098-wakdoo-random-defence.json) |
 | Wake | 95390 | [95390-wake.json](./95390-wake.json) |
+| Wake the Dead | 313864 | [313864-wake-the-dead.json](./313864-wake-the-dead.json) |
 | Wake Up | 22435 | [22435-wake-up.json](./22435-wake-up.json) |
 | Wake up, Az. | 395691 | [395691-wake-up-az.json](./395691-wake-up-az.json) |
 | Wake Up, Good Guardian! | 107866 | [107866-wake-up-good-guardian.json](./107866-wake-up-good-guardian.json) |
@@ -1606,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchy Wonderland | 344348 | [344348-witchy-wonderland.json](./344348-witchy-wonderland.json) |
 | Witchy Woo | 379902 | [379902-witchy-woo.json](./379902-witchy-woo.json) |
 | With All My Heart | 253038 | [253038-with-all-my-heart.json](./253038-with-all-my-heart.json) |
+| With Every Heartbeat | 313851 | [313851-with-every-heartbeat.json](./313851-with-every-heartbeat.json) |
 | With Eyes Closed: Season 2 | 414314 | [414314-with-eyes-closed-season-2.json](./414314-with-eyes-closed-season-2.json) |
 | With Locks of Love | 178581 | [178581-with-locks-of-love.json](./178581-with-locks-of-love.json) |
 | With Loneliness | 116932 | [116932-with-loneliness.json](./116932-with-loneliness.json) |
@@ -1711,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Adventures | 164518 | [164518-wolf-adventures.json](./164518-wolf-adventures.json) |
 | Wolf And Moon: Nonogram | 312365 | [312365-wolf-and-moon-nonogram.json](./312365-wolf-and-moon-nonogram.json) |
 | Wolf And Moon: Sudoku | 312362 | [312362-wolf-and-moon-sudoku.json](./312362-wolf-and-moon-sudoku.json) |
+| Wolf Bride | 313856 | [313856-wolf-bride.json](./313856-wolf-bride.json) |
 | Wolf Hero: Animals vs. Robots | 312541 | [312541-wolf-hero-animals-vs-robots.json](./312541-wolf-hero-animals-vs-robots.json) |
 | Wolf Knight Memoir | 278982 | [278982-wolf-knight-memoir.json](./278982-wolf-knight-memoir.json) |
 | Wolf or Boy | 117709 | [117709-wolf-or-boy.json](./117709-wolf-or-boy.json) |
