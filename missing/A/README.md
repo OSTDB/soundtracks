@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Very British Summer | 375941 | [375941-a-very-british-summer.json](./375941-a-very-british-summer.json) |
 | A Very Pilkington Christmas | 280752 | [280752-a-very-pilkington-christmas.json](./280752-a-very-pilkington-christmas.json) |
+| A Very Scandalous Proposal | 313852 | [313852-a-very-scandalous-proposal.json](./313852-a-very-scandalous-proposal.json) |
 | A Very Splendid Otome Game | 321555 | [321555-a-very-splendid-otome-game.json](./321555-a-very-splendid-otome-game.json) |
 | A Virus Named Tom | 3040 | [3040-a-virus-named-tom.json](./3040-a-virus-named-tom.json) |
 | A Visit to Sesame Street: Letters | 45945 | [45945-a-visit-to-sesame-street-letters.json](./45945-a-visit-to-sesame-street-letters.json) |
@@ -1194,6 +1195,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All New World of Lemmings | 14246 | [14246-all-new-world-of-lemmings.json](./14246-all-new-world-of-lemmings.json) |
+| All of Us: Her Story | 313877 | [313877-all-of-us-her-story.json](./313877-all-of-us-her-story.json) |
+| All of Us: His Story | 313878 | [313878-all-of-us-his-story.json](./313878-all-of-us-his-story.json) |
 | All On Board! | 305146 | [305146-all-on-board.json](./305146-all-on-board.json) |
 | All On Board!: Aye, Dark Overlord! | 374700 | [374700-all-on-board-aye-dark-overlord.json](./374700-all-on-board-aye-dark-overlord.json) |
 | All on Board!: Escape the Dark Castle | 374703 | [374703-all-on-board-escape-the-dark-castle.json](./374703-all-on-board-escape-the-dark-castle.json) |
@@ -1288,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone? | 24926 | [24926-alone.json](./24926-alone.json) |
 | Alonecats | 293085 | [293085-alonecats.json](./293085-alonecats.json) |
 | Along Came A Spider | 163364 | [163364-along-came-a-spider.json](./163364-along-came-a-spider.json) |
+| Along Came Treble | 313879 | [313879-along-came-treble.json](./313879-along-came-treble.json) |
 | Alpaca Party | 326086 | [326086-alpaca-party.json](./326086-alpaca-party.json) |
 | Alpaca Wonders Why | 280175 | [280175-alpaca-wonders-why.json](./280175-alpaca-wonders-why.json) |
 | Alpacapaca Dash 1 + 2 Bundle | 331445 | [331445-alpacapaca-dash-1-2-bundle.json](./331445-alpacapaca-dash-1-2-bundle.json) |
@@ -2125,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another World for Dreamcast | 343875 | [343875-another-world-for-dreamcast.json](./343875-another-world-for-dreamcast.json) |
 | Another World: Lost In Heart | 365735 | [365735-another-world-lost-in-heart.json](./365735-another-world-lost-in-heart.json) |
 | Another World: Pirates And The Great Old Gods | 379450 | [379450-another-world-pirates-and-the-great-old-gods.json](./379450-another-world-pirates-and-the-great-old-gods.json) |
+| Another Zero | 313889 | [313889-another-zero.json](./313889-another-zero.json) |
 | Another's Memories | 374049 | [374049-anothers-memories.json](./374049-anothers-memories.json) |
 | Anoun | 384681 | [384681-anoun.json](./384681-anoun.json) |
 | Anovill | 355529 | [355529-anovill.json](./355529-anovill.json) |
@@ -2145,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Farm Simulator | 277847 | [277847-ant-farm-simulator.json](./277847-ant-farm-simulator.json) |
 | Ant Guardians | 349395 | [349395-ant-guardians.json](./349395-ant-guardians.json) |
 | Ant Keeping Simulator | 293092 | [293092-ant-keeping-simulator.json](./293092-ant-keeping-simulator.json) |
+| Ant Man | 313899 | [313899-ant-man.json](./313899-ant-man.json) |
 | Ant Nation | 210250 | [210250-ant-nation.json](./210250-ant-nation.json) |
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
 | Ant Simulator | 18016 | [18016-ant-simulator.json](./18016-ant-simulator.json) |
@@ -3945,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayumi-chan Monogatari | 41410 | [41410-ayumi-chan-monogatari.json](./41410-ayumi-chan-monogatari.json) |
 | Ayumi-chan Monogatari: Jisshaban | 41411 | [41411-ayumi-chan-monogatari-jisshaban.json](./41411-ayumi-chan-monogatari-jisshaban.json) |
 | Azada: In Libro Collector's Edition | 74465 | [74465-azada-in-libro-collectors-edition.json](./74465-azada-in-libro-collectors-edition.json) |
+| Azagthoth | 313860 | [313860-azagthoth.json](./313860-azagthoth.json) |
 | Azangara | 77375 | [77375-azangara.json](./77375-azangara.json) |
 | Azathoth-D: Youtou Saisoku Densetsu | 144954 | [144954-azathoth-d-youtou-saisoku-densetsu.json](./144954-azathoth-d-youtou-saisoku-densetsu.json) |
 | Azazel | 170020 | [170020-azazel.json](./170020-azazel.json) |
