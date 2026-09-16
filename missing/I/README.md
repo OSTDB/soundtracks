@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am a Dorm Resident (but Cat) | 353841 | [353841-i-am-a-dorm-resident-but-cat.json](./353841-i-am-a-dorm-resident-but-cat.json) |
 | I Am A I | 188597 | [188597-i-am-a-i.json](./188597-i-am-a-i.json) |
 | I Am a Teacher: Teami no Kiso | 41374 | [41374-i-am-a-teacher-teami-no-kiso.json](./41374-i-am-a-teacher-teami-no-kiso.json) |
+| I Am a Worm | 323341 | [323341-i-am-a-worm.json](./323341-i-am-a-worm.json) |
 | I Am Alone Too | 179116 | [179116-i-am-alone-too.json](./179116-i-am-alone-too.json) |
 | I am an Air Traffic Controller 4: Airport Narita - RJAA | 310386 | [310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json](./310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json) |
 | I am an Air Traffic Controller: Airport Hero Haneda - Sky Day! Variety Pack | 237971 | [237971-i-am-an-air-traffic-controller-airport-hero-haneda-sky-day-variety-pack.json](./237971-i-am-an-air-traffic-controller-airport-hero-haneda-sky-day-variety-pack.json) |
@@ -55,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can't Reid | 386100 | [386100-i-cant-reid.json](./386100-i-cant-reid.json) |
 | I Can't Remember a Time I Didn't Need You | 188627 | [188627-i-cant-remember-a-time-i-didnt-need-you.json](./188627-i-cant-remember-a-time-i-didnt-need-you.json) |
 | I Can’t Stop Gooning and Jorking to My Virtual Girlfriend | 340934 | [340934-i-can-t-stop-gooning-and-jorking-to-my-virtual-girlfriend.json](./340934-i-can-t-stop-gooning-and-jorking-to-my-virtual-girlfriend.json) |
+| I Can't Trust My Eyes | 323343 | [323343-i-cant-trust-my-eyes.json](./323343-i-cant-trust-my-eyes.json) |
 | I Commissioned Some Bees 10 | 224776 | [224776-i-commissioned-some-bees-10.json](./224776-i-commissioned-some-bees-10.json) |
 | I Commissioned Some Bees 13 | 270139 | [270139-i-commissioned-some-bees-13.json](./270139-i-commissioned-some-bees-13.json) |
 | I Commissioned Some Bees 2 | 205245 | [205245-i-commissioned-some-bees-2.json](./205245-i-commissioned-some-bees-2.json) |
@@ -1026,12 +1028,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial Drift Online | 148573 | [148573-initial-drift-online.json](./148573-initial-drift-online.json) |
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
 | Injustice 2 Mobile | 76547 | [76547-injustice-2-mobile.json](./76547-injustice-2-mobile.json) |
+| Injustice 2: Black Lightning | 323321 | [323321-injustice-2-black-lightning.json](./323321-injustice-2-black-lightning.json) |
 | Injustice 2: Black Manta | 165041 | [165041-injustice-2-black-manta.json](./165041-injustice-2-black-manta.json) |
 | Injustice 2: Brainiac | 165042 | [165042-injustice-2-brainiac.json](./165042-injustice-2-brainiac.json) |
 | Injustice 2: Darkseid | 165043 | [165043-injustice-2-darkseid.json](./165043-injustice-2-darkseid.json) |
+| Injustice 2: Demons Shader Pack | 323385 | [323385-injustice-2-demons-shader-pack.json](./323385-injustice-2-demons-shader-pack.json) |
 | Injustice 2: Enchantress | 165036 | [165036-injustice-2-enchantress.json](./165036-injustice-2-enchantress.json) |
 | Injustice 2: Fighter Pack 2 | 55046 | [55046-injustice-2-fighter-pack-2.json](./55046-injustice-2-fighter-pack-2.json) |
+| Injustice 2: Gods Shader Pack | 323384 | [323384-injustice-2-gods-shader-pack.json](./323384-injustice-2-gods-shader-pack.json) |
+| Injustice 2: John Stewart | 323388 | [323388-injustice-2-john-stewart.json](./323388-injustice-2-john-stewart.json) |
+| Injustice 2: Power Girl | 323386 | [323386-injustice-2-power-girl.json](./323386-injustice-2-power-girl.json) |
 | Injustice 2: Red Hood | 165037 | [165037-injustice-2-red-hood.json](./165037-injustice-2-red-hood.json) |
+| Injustice 2: Reverse Flash | 323387 | [323387-injustice-2-reverse-flash.json](./323387-injustice-2-reverse-flash.json) |
 | Injustice 2: Starfire | 165038 | [165038-injustice-2-starfire.json](./165038-injustice-2-starfire.json) |
 | Injustice 2: The Atom | 165044 | [165044-injustice-2-the-atom.json](./165044-injustice-2-the-atom.json) |
 | Injustice: Containment Suit Doomsday | 305201 | [305201-injustice-containment-suit-doomsday.json](./305201-injustice-containment-suit-doomsday.json) |
