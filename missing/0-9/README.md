@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 07th Theater | 258995 | [258995-07th-theater.json](./258995-07th-theater.json) |
 | 0Hz Zero Hertz | 216771 | [216771-0hz-zero-hertz.json](./216771-0hz-zero-hertz.json) |
 | 0th floor.: The Cursed Elevator To Floor Zero | 292535 | [292535-0th-floor-the-cursed-elevator-to-floor-zero.json](./292535-0th-floor-the-cursed-elevator-to-floor-zero.json) |
+| 1 4 the $ | 301397 | [301397-1-4-the.json](./301397-1-4-the.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Minute Math | 108453 | [108453-1-minute-math.json](./108453-1-minute-math.json) |
 | 1 Moment of Time: Silentville | 32199 | [32199-1-moment-of-time-silentville.json](./32199-1-moment-of-time-silentville.json) |
