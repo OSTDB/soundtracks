@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T02:51:37.466Z",
-  "total_missing": 76331,
+  "generated_at": "2026-09-16T03:01:45.528Z",
+  "total_missing": 76346,
   "games": [
     {
       "igdb_id": 306086,
@@ -5716,11 +5716,6 @@
       "igdb_id": 357799,
       "game_name": "Agent Bob",
       "file": "missing/A/357799-agent-bob.json"
-    },
-    {
-      "igdb_id": 409693,
-      "game_name": "Agent Dark",
-      "file": "missing/A/409693-agent-dark.json"
     },
     {
       "igdb_id": 127618,
@@ -25761,6 +25756,81 @@
       "igdb_id": 388037,
       "game_name": "Barcode Battler II: Street Fighter II - 38. Rolling Nail",
       "file": "missing/B/388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json"
+    },
+    {
+      "igdb_id": 328648,
+      "game_name": "Barcode Battler II: Super Mario World - 1Up-Kinoko",
+      "file": "missing/B/328648-barcode-battler-ii-super-mario-world-1up-kinoko.json"
+    },
+    {
+      "igdb_id": 328650,
+      "game_name": "Barcode Battler II: Super Mario World - Bodypress",
+      "file": "missing/B/328650-barcode-battler-ii-super-mario-world-bodypress.json"
+    },
+    {
+      "igdb_id": 328640,
+      "game_name": "Barcode Battler II: Super Mario World - Bul",
+      "file": "missing/B/328640-barcode-battler-ii-super-mario-world-bul.json"
+    },
+    {
+      "igdb_id": 328649,
+      "game_name": "Barcode Battler II: Super Mario World - Chibi-Yossy",
+      "file": "missing/B/328649-barcode-battler-ii-super-mario-world-chibi-yossy.json"
+    },
+    {
+      "igdb_id": 328636,
+      "game_name": "Barcode Battler II: Super Mario World - Gooska",
+      "file": "missing/B/328636-barcode-battler-ii-super-mario-world-gooska.json"
+    },
+    {
+      "igdb_id": 328638,
+      "game_name": "Barcode Battler II: Super Mario World - Hanachan",
+      "file": "missing/B/328638-barcode-battler-ii-super-mario-world-hanachan.json"
+    },
+    {
+      "igdb_id": 328637,
+      "game_name": "Barcode Battler II: Super Mario World - Jugem",
+      "file": "missing/B/328637-barcode-battler-ii-super-mario-world-jugem.json"
+    },
+    {
+      "igdb_id": 328644,
+      "game_name": "Barcode Battler II: Super Mario World - Kamek",
+      "file": "missing/B/328644-barcode-battler-ii-super-mario-world-kamek.json"
+    },
+    {
+      "igdb_id": 328647,
+      "game_name": "Barcode Battler II: Super Mario World - Koopa",
+      "file": "missing/B/328647-barcode-battler-ii-super-mario-world-koopa.json"
+    },
+    {
+      "igdb_id": 328639,
+      "game_name": "Barcode Battler II: Super Mario World - Larry",
+      "file": "missing/B/328639-barcode-battler-ii-super-mario-world-larry.json"
+    },
+    {
+      "igdb_id": 328643,
+      "game_name": "Barcode Battler II: Super Mario World - Ludwig",
+      "file": "missing/B/328643-barcode-battler-ii-super-mario-world-ludwig.json"
+    },
+    {
+      "igdb_id": 328642,
+      "game_name": "Barcode Battler II: Super Mario World - Magnum-Killer",
+      "file": "missing/B/328642-barcode-battler-ii-super-mario-world-magnum-killer.json"
+    },
+    {
+      "igdb_id": 328651,
+      "game_name": "Barcode Battler II: Super Mario World - Manto-Hane",
+      "file": "missing/B/328651-barcode-battler-ii-super-mario-world-manto-hane.json"
+    },
+    {
+      "igdb_id": 328646,
+      "game_name": "Barcode Battler II: Super Mario World - Mecha Koopa",
+      "file": "missing/B/328646-barcode-battler-ii-super-mario-world-mecha-koopa.json"
+    },
+    {
+      "igdb_id": 328641,
+      "game_name": "Barcode Battler II: Super Mario World - Unbaba",
+      "file": "missing/B/328641-barcode-battler-ii-super-mario-world-unbaba.json"
     },
     {
       "igdb_id": 173808,
@@ -55616,6 +55686,11 @@
       "igdb_id": 94170,
       "game_name": "Circa",
       "file": "missing/C/94170-circa.json"
+    },
+    {
+      "igdb_id": 328645,
+      "game_name": "Circadial",
+      "file": "missing/C/328645-circadial.json"
     },
     {
       "igdb_id": 185080,
