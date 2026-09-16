@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wekele Wordle | 329557 | [329557-wekele-wordle.json](./329557-wekele-wordle.json) |
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
 | Welcome Demon | 397666 | [397666-welcome-demon.json](./397666-welcome-demon.json) |
+| Welcome Googoo | 330889 | [330889-welcome-googoo.json](./330889-welcome-googoo.json) |
 | Welcome Home | 146327 | [146327-welcome-home.json](./146327-welcome-home.json) |
 | Welcome into the Forest of Aurora !! | 70344 | [70344-welcome-into-the-forest-of-aurora.json](./70344-welcome-into-the-forest-of-aurora.json) |
 | Welcome Kokuri-san | 241976 | [241976-welcome-kokuri-san.json](./241976-welcome-kokuri-san.json) |
@@ -1574,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With Loneliness | 116932 | [116932-with-loneliness.json](./116932-with-loneliness.json) |
 | With My Buddy | 339826 | [339826-with-my-buddy.json](./339826-with-my-buddy.json) |
 | With Seven Cats | 184118 | [184118-with-seven-cats.json](./184118-with-seven-cats.json) |
+| With The Fire And Sword | 330885 | [330885-with-the-fire-and-sword.json](./330885-with-the-fire-and-sword.json) |
 | With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
 | Witherbloom | 291447 | [291447-witherbloom.json](./291447-witherbloom.json) |
 | Withered: A visual novel | 178017 | [178017-withered-a-visual-novel.json](./178017-withered-a-visual-novel.json) |
