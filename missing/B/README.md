@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby's Musical Hands | 86864 | [86864-babys-musical-hands.json](./86864-babys-musical-hands.json) |
 | Baby's Nightmare Circus VR: Remake | 336002 | [336002-babys-nightmare-circus-vr-remake.json](./336002-babys-nightmare-circus-vr-remake.json) |
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
+| Babylon X | 307136 | [307136-babylon-x.json](./307136-babylon-x.json) |
 | BabyRace | 255122 | [255122-babyrace.json](./255122-babyrace.json) |
 | Babysitter Simulator | 203902 | [203902-babysitter-simulator.json](./203902-babysitter-simulator.json) |
 | Babysitting Mania | 47979 | [47979-babysitting-mania.json](./47979-babysitting-mania.json) |
