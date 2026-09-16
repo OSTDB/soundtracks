@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above the Snow | 349373 | [349373-above-the-snow.json](./349373-above-the-snow.json) |
 | Abra-cooking-dabra | 345039 | [345039-abra-cooking-dabra.json](./345039-abra-cooking-dabra.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
+| Abrakajumpa | 305944 | [305944-abrakajumpa.json](./305944-abrakajumpa.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
 | Abrix the robot | 33018 | [33018-abrix-the-robot.json](./33018-abrix-the-robot.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
