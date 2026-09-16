@@ -1316,6 +1316,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master the Sky | 257693 | [257693-master-the-sky.json](./257693-master-the-sky.json) |
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
 | Masterchef Chinese Food Edition | 195273 | [195273-masterchef-chinese-food-edition.json](./195273-masterchef-chinese-food-edition.json) |
+| MasterChef: Learn to Cook! - Fruits, Nuts & Sweets | 324480 | [324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json](./324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json) |
+| MasterChef: Learn to Cook! - Meat, Dairy & Seafood | 324481 | [324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json](./324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json) |
+| MasterChef: Learn to Cook! - Vegetables & Grains | 324482 | [324482-masterchef-learn-to-cook-vegetables-and-grains.json](./324482-masterchef-learn-to-cook-vegetables-and-grains.json) |
 | Mastermind | 95406 | [95406-mastermind.json](./95406-mastermind.json) |
 | Masterpack for Doom II | 300701 | [300701-masterpack-for-doom-ii.json](./300701-masterpack-for-doom-ii.json) |
 | Masterpiece | 351033 | [351033-masterpiece.json](./351033-masterpiece.json) |
@@ -2941,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Story Mode Season Two - Episode 1: Hero in Residence | 91298 | [91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json](./91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json) |
 | Minecraft: Teenage Mutant Ninja Turtles | 259850 | [259850-minecraft-teenage-mutant-ninja-turtles.json](./259850-minecraft-teenage-mutant-ninja-turtles.json) |
 | Minecraft: The Cake Is A Lie | 325863 | [325863-minecraft-the-cake-is-a-lie.json](./325863-minecraft-the-cake-is-a-lie.json) |
+| Minecraft: The Garden Awakens | 324509 | [324509-minecraft-the-garden-awakens.json](./324509-minecraft-the-garden-awakens.json) |
 | Minecraft: The Traveling Trader | 322955 | [322955-minecraft-the-traveling-trader.json](./322955-minecraft-the-traveling-trader.json) |
 | Minecraft: The Wild Update | 223161 | [223161-minecraft-the-wild-update.json](./223161-minecraft-the-wild-update.json) |
 | Minecraft: Time Capsule | 343905 | [343905-minecraft-time-capsule.json](./343905-minecraft-time-capsule.json) |
@@ -3817,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Showdown: Bad News Travels Fast | 339291 | [339291-monster-jam-showdown-bad-news-travels-fast.json](./339291-monster-jam-showdown-bad-news-travels-fast.json) |
 | Monster Jam Showdown: Big Air Edition | 308808 | [308808-monster-jam-showdown-big-air-edition.json](./308808-monster-jam-showdown-big-air-edition.json) |
 | Monster Jam Showdown: Day One Edition | 293931 | [293931-monster-jam-showdown-day-one-edition.json](./293931-monster-jam-showdown-day-one-edition.json) |
+| Monster Jam Showdown: Digatron | 324483 | [324483-monster-jam-showdown-digatron.json](./324483-monster-jam-showdown-digatron.json) |
 | Monster Jam Showdown: Law & Disorder | 308821 | [308821-monster-jam-showdown-law-and-disorder.json](./308821-monster-jam-showdown-law-and-disorder.json) |
 | Monster Jam Showdown: The Odd Couple | 308822 | [308822-monster-jam-showdown-the-odd-couple.json](./308822-monster-jam-showdown-the-odd-couple.json) |
 | Monster Jam Showdown: Yeti | 332228 | [332228-monster-jam-showdown-yeti.json](./332228-monster-jam-showdown-yeti.json) |
@@ -3945,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonTowers2 | 224008 | [224008-montowers2.json](./224008-montowers2.json) |
 | Monty Python & the Quest for the Holy Grail | 8552 | [8552-monty-python-and-the-quest-for-the-holy-grail.json](./8552-monty-python-and-the-quest-for-the-holy-grail.json) |
 | Monty Python's Invasion from the Planet Skyron | 45924 | [45924-monty-pythons-invasion-from-the-planet-skyron.json](./45924-monty-pythons-invasion-from-the-planet-skyron.json) |
+| Monty the Komodo Dragon | 324505 | [324505-monty-the-komodo-dragon.json](./324505-monty-the-komodo-dragon.json) |
 | Monument | 260138 | [260138-monument.json](./260138-monument.json) |
 | Monument Builders: Big Ben | 294445 | [294445-monument-builders-big-ben.json](./294445-monument-builders-big-ben.json) |
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
@@ -4886,6 +4892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Date RPG 2 | 196813 | [196813-my-first-date-rpg-2.json](./196813-my-first-date-rpg-2.json) |
 | My First Date RPG: Oriana - Story Three | 314024 | [314024-my-first-date-rpg-oriana-story-three.json](./314024-my-first-date-rpg-oriana-story-three.json) |
 | My First Date RPG: Oriana - Story Two | 313488 | [313488-my-first-date-rpg-oriana-story-two.json](./313488-my-first-date-rpg-oriana-story-two.json) |
+| My First Gran Turismo | 324502 | [324502-my-first-gran-turismo.json](./324502-my-first-gran-turismo.json) |
 | My First Trainz Set | 11019 | [11019-my-first-trainz-set.json](./11019-my-first-trainz-set.json) |
 | My Fish Farm | 212492 | [212492-my-fish-farm.json](./212492-my-fish-farm.json) |
 | My Fitness Coach | 78661 | [78661-my-fitness-coach.json](./78661-my-fitness-coach.json) |
