@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T05:51:43.191Z",
-  "total_missing": 76785,
+  "generated_at": "2026-09-16T06:01:41.963Z",
+  "total_missing": 76798,
   "games": [
     {
       "igdb_id": 306086,
@@ -5503,6 +5503,11 @@
       "file": "missing/A/377042-after-the-curtain-call.json"
     },
     {
+      "igdb_id": 323963,
+      "game_name": "After The End",
+      "file": "missing/A/323963-after-the-end.json"
+    },
+    {
       "igdb_id": 119330,
       "game_name": "After the Fall",
       "file": "missing/A/119330-after-the-fall.json"
@@ -5816,11 +5821,6 @@
       "igdb_id": 344343,
       "game_name": "Aggi's Tiny Friends",
       "file": "missing/A/344343-aggis-tiny-friends.json"
-    },
-    {
-      "igdb_id": 406171,
-      "game_name": "Aggres",
-      "file": "missing/A/406171-aggres.json"
     },
     {
       "igdb_id": 169956,
@@ -23111,6 +23111,16 @@
       "igdb_id": 252174,
       "game_name": "Back 4 Blood: Day One Steelbook Edition",
       "file": "missing/B/252174-back-4-blood-day-one-steelbook-edition.json"
+    },
+    {
+      "igdb_id": 323952,
+      "game_name": "Back 4 Blood: Fort Hope Elite Weapon Skins",
+      "file": "missing/B/323952-back-4-blood-fort-hope-elite-weapon-skins.json"
+    },
+    {
+      "igdb_id": 323953,
+      "game_name": "Back 4 Blood: Special Edition",
+      "file": "missing/B/323953-back-4-blood-special-edition.json"
     },
     {
       "igdb_id": 141889,
@@ -74033,6 +74043,11 @@
       "file": "missing/D/325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json"
     },
     {
+      "igdb_id": 323965,
+      "game_name": "DCS World: Normandy 2.0",
+      "file": "missing/D/323965-dcs-world-normandy-2-0.json"
+    },
+    {
       "igdb_id": 304372,
       "game_name": "DCS World: OH-58D Kiowa Warrior",
       "file": "missing/D/304372-dcs-world-oh-58d-kiowa-warrior.json"
@@ -95701,6 +95716,16 @@
       "igdb_id": 128613,
       "game_name": "Electric Tortoise",
       "file": "missing/E/128613-electric-tortoise.json"
+    },
+    {
+      "igdb_id": 323960,
+      "game_name": "Electro Air Hockey",
+      "file": "missing/E/323960-electro-air-hockey.json"
+    },
+    {
+      "igdb_id": 323957,
+      "game_name": "Electro Air Hockey: Under the Mallet",
+      "file": "missing/E/323957-electro-air-hockey-under-the-mallet.json"
     },
     {
       "igdb_id": 329580,
@@ -164328,6 +164353,11 @@
       "file": "missing/K/37181-kangoorun-fly-to-the-moon.json"
     },
     {
+      "igdb_id": 323962,
+      "game_name": "Kanji de Go!",
+      "file": "missing/K/323962-kanji-de-go.json"
+    },
+    {
       "igdb_id": 56450,
       "game_name": "Kanji no Owari!",
       "file": "missing/K/56450-kanji-no-owari.json"
@@ -170711,6 +170741,16 @@
       "igdb_id": 270137,
       "game_name": "Kwark",
       "file": "missing/K/270137-kwark.json"
+    },
+    {
+      "igdb_id": 323967,
+      "game_name": "KWRPG",
+      "file": "missing/K/323967-kwrpg.json"
+    },
+    {
+      "igdb_id": 323968,
+      "game_name": "KWRPG Platformer Online",
+      "file": "missing/K/323968-kwrpg-platformer-online.json"
     },
     {
       "igdb_id": 98948,
@@ -195468,6 +195508,11 @@
       "file": "missing/M/327597-mezzo-piano-oshare-and-lesson.json"
     },
     {
+      "igdb_id": 323966,
+      "game_name": "MFGGK",
+      "file": "missing/M/323966-mfggk.json"
+    },
+    {
       "igdb_id": 408193,
       "game_name": "MFTK: Survivors",
       "file": "missing/M/408193-mftk-survivors.json"
@@ -209941,6 +209986,11 @@
       "igdb_id": 63243,
       "game_name": "N-Cube",
       "file": "missing/N/63243-n-cube.json"
+    },
+    {
+      "igdb_id": 323956,
+      "game_name": "N-Ice Cover",
+      "file": "missing/N/323956-n-ice-cover.json"
     },
     {
       "igdb_id": 37735,
@@ -271746,6 +271796,11 @@
       "igdb_id": 12906,
       "game_name": "Scorched Planet",
       "file": "missing/S/12906-scorched-planet.json"
+    },
+    {
+      "igdb_id": 323959,
+      "game_name": "Scorched Warfare",
+      "file": "missing/S/323959-scorched-warfare.json"
     },
     {
       "igdb_id": 331873,
@@ -337633,6 +337688,11 @@
       "file": "missing/T/25730-the-war-of-the-worlds.json"
     },
     {
+      "igdb_id": 323955,
+      "game_name": "The War of the Worlds: Siberia",
+      "file": "missing/T/323955-the-war-of-the-worlds-siberia.json"
+    },
+    {
       "igdb_id": 339122,
       "game_name": "The War Zone Crisis",
       "file": "missing/T/339122-the-war-zone-crisis.json"
@@ -343761,6 +343821,11 @@
       "igdb_id": 362298,
       "game_name": "TinyCraft Town",
       "file": "missing/T/362298-tinycraft-town.json"
+    },
+    {
+      "igdb_id": 323964,
+      "game_name": "TinyHoopers",
+      "file": "missing/T/323964-tinyhoopers.json"
     },
     {
       "igdb_id": 311288,
