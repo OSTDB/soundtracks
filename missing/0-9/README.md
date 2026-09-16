@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
 | 2Dark: Deluxe Edition | 52545 | [52545-2dark-deluxe-edition.json](./52545-2dark-deluxe-edition.json) |
 | 2K Games Pack | 319564 | [319564-2k-games-pack.json](./319564-2k-games-pack.json) |
+| 2K Shells | 328033 | [328033-2k-shells.json](./328033-2k-shells.json) |
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
 | 2weistein: The Curse of the Red Dragon | 147439 | [147439-2weistein-the-curse-of-the-red-dragon.json](./147439-2weistein-the-curse-of-the-red-dragon.json) |
 | 2weistein: The Curse of the Red Dragon 2 | 166158 | [166158-2weistein-the-curse-of-the-red-dragon-2.json](./166158-2weistein-the-curse-of-the-red-dragon-2.json) |
