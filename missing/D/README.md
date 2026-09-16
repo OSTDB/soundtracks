@@ -2037,6 +2037,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicey Dungeons | 102420 | [102420-dicey-dungeons.json](./102420-dicey-dungeons.json) |
 | Dicey Dungeons Reunion | 208403 | [208403-dicey-dungeons-reunion.json](./208403-dicey-dungeons-reunion.json) |
 | Dick Tracy | 13058 | [13058-dick-tracy.json](./13058-dick-tracy.json) |
+| Dick Tracy | 316832 | [316832-dick-tracy.json](./316832-dick-tracy.json) |
+| Dick Tracy | 316839 | [316839-dick-tracy.json](./316839-dick-tracy.json) |
+| Dick Tracy | 316841 | [316841-dick-tracy.json](./316841-dick-tracy.json) |
+| Dick Tracy | 316843 | [316843-dick-tracy.json](./316843-dick-tracy.json) |
+| Dick Tracy | 316845 | [316845-dick-tracy.json](./316845-dick-tracy.json) |
 | Dickdown Duel | 197407 | [197407-dickdown-duel.json](./197407-dickdown-duel.json) |
 | Dickme Dicki | 202353 | [202353-dickme-dicki.json](./202353-dickme-dicki.json) |
 | Dicy Chess | 299148 | [299148-dicy-chess.json](./299148-dicy-chess.json) |
@@ -4467,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk Hit | 87360 | [87360-dunk-hit.json](./87360-dunk-hit.json) |
 | Dunk Line | 87883 | [87883-dunk-line.json](./87883-dunk-line.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
+| Dunk Trickster | 316844 | [316844-dunk-trickster.json](./316844-dunk-trickster.json) |
 | Dunkehr | 141181 | [141181-dunkehr.json](./141181-dunkehr.json) |
 | Dunkypung | 113637 | [113637-dunkypung.json](./113637-dunkypung.json) |
 | Dunnigan's Trail | 154009 | [154009-dunnigans-trail.json](./154009-dunnigans-trail.json) |
