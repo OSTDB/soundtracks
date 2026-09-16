@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gizmos: Spirit of the Christmas | 156678 | [156678-gizmos-spirit-of-the-christmas.json](./156678-gizmos-spirit-of-the-christmas.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
 | Glacier 3: The Meltdown | 16902 | [16902-glacier-3-the-meltdown.json](./16902-glacier-3-the-meltdown.json) |
+| Gladiate! | 301947 | [301947-gladiate.json](./301947-gladiate.json) |
 | Gladiato Potato | 349387 | [349387-gladiato-potato.json](./349387-gladiato-potato.json) |
 | Gladiator | 194615 | [194615-gladiator.json](./194615-gladiator.json) |
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
@@ -1657,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Goliath | 132187 | [132187-good-goliath.json](./132187-good-goliath.json) |
 | Good Heavens! | 204463 | [204463-good-heavens.json](./204463-good-heavens.json) |
 | Good Hell | 215356 | [215356-good-hell.json](./215356-good-hell.json) |
+| Good Idea! | 301962 | [301962-good-idea.json](./301962-good-idea.json) |
 | Good Job! | 261259 | [261259-good-job.json](./261259-good-job.json) |
 | Good Kill! | 304708 | [304708-good-kill.json](./304708-good-kill.json) |
 | Good Knight's Sleep | 369021 | [369021-good-knights-sleep.json](./369021-good-knights-sleep.json) |
@@ -1843,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus Rising: Color Set 2 | 332821 | [332821-granblue-fantasy-versus-rising-color-set-2.json](./332821-granblue-fantasy-versus-rising-color-set-2.json) |
 | Granblue Fantasy Versus Rising: Color Set 3 | 332822 | [332822-granblue-fantasy-versus-rising-color-set-3.json](./332822-granblue-fantasy-versus-rising-color-set-3.json) |
 | Granblue Fantasy Versus Rising: Premium Avatar Set Zombie Land Saga Movie | 373632 | [373632-granblue-fantasy-versus-rising-premium-avatar-set-zombie-land-saga-movie.json](./373632-granblue-fantasy-versus-rising-premium-avatar-set-zombie-land-saga-movie.json) |
+| Granblue Fantasy Versus: Rising - Additional Character: Beatrix | 301988 | [301988-granblue-fantasy-versus-rising-additional-character-beatrix.json](./301988-granblue-fantasy-versus-rising-additional-character-beatrix.json) |
 | Granblue Fantasy Versus: Rising - Additional Character: Galleon | 373627 | [373627-granblue-fantasy-versus-rising-additional-character-galleon.json](./373627-granblue-fantasy-versus-rising-additional-character-galleon.json) |
 | Granblue Fantasy Versus: Rising - Additional Character: Meg | 373631 | [373631-granblue-fantasy-versus-rising-additional-character-meg.json](./373631-granblue-fantasy-versus-rising-additional-character-meg.json) |
 | Granblue Fantasy Versus: Rising - Additional Character: Versusia | 332230 | [332230-granblue-fantasy-versus-rising-additional-character-versusia.json](./332230-granblue-fantasy-versus-rising-additional-character-versusia.json) |
@@ -1945,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny's House | 182449 | [182449-grannys-house.json](./182449-grannys-house.json) |
 | Granola Jumps | 297252 | [297252-granola-jumps.json](./297252-granola-jumps.json) |
 | Grant of God | 247180 | [247180-grant-of-god.json](./247180-grant-of-god.json) |
+| Grapefruit | 304203 | [304203-grapefruit.json](./304203-grapefruit.json) |
 | Graphic Mahjong | 91959 | [91959-graphic-mahjong.json](./91959-graphic-mahjong.json) |
 | Graphic Tower Defense | 348767 | [348767-graphic-tower-defense.json](./348767-graphic-tower-defense.json) |
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
