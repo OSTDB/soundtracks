@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaguar Suns | 333403 | [333403-jaguar-suns.json](./333403-jaguar-suns.json) |
 | Jaguar XJ220 | 5395 | [5395-jaguar-xj220.json](./5395-jaguar-xj220.json) |
 | Jagun: Clash of Kingdoms | 120350 | [120350-jagun-clash-of-kingdoms.json](./120350-jagun-clash-of-kingdoms.json) |
+| Jahmong | 327412 | [327412-jahmong.json](./327412-jahmong.json) |
 | Jahto: Savior of the Sky | 214152 | [214152-jahto-savior-of-the-sky.json](./214152-jahto-savior-of-the-sky.json) |
 | Jai Kali | 368556 | [368556-jai-kali.json](./368556-jai-kali.json) |
 | Jail Break | 28826 | [28826-jail-break.json](./28826-jail-break.json) |
@@ -145,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
 | Jamestown: Legend of the Lost Colony | 6278 | [6278-jamestown-legend-of-the-lost-colony.json](./6278-jamestown-legend-of-the-lost-colony.json) |
+| Jamie Quest | 327373 | [327373-jamie-quest.json](./327373-jamie-quest.json) |
 | Jammer | 67972 | [67972-jammer.json](./67972-jammer.json) |
 | Jammin' | 126016 | [126016-jammin.json](./126016-jammin.json) |
 | Jamp | 374155 | [374155-jamp.json](./374155-jamp.json) |
