@@ -2220,6 +2220,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Tribe: New Era | 309366 | [309366-dino-tribe-new-era.json](./309366-dino-tribe-new-era.json) |
 | Dino Wars | 23918 | [23918-dino-wars.json](./23918-dino-wars.json) |
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
+| Dinobreak: Chronicles of Horror Collection | 331412 | [331412-dinobreak-chronicles-of-horror-collection.json](./331412-dinobreak-chronicles-of-horror-collection.json) |
+| Dinobreak: Crisis Collection | 331409 | [331409-dinobreak-crisis-collection.json](./331409-dinobreak-crisis-collection.json) |
 | Dinobreak: Gaiden Collection | 334111 | [334111-dinobreak-gaiden-collection.json](./334111-dinobreak-gaiden-collection.json) |
 | Dinofurie | 332417 | [332417-dinofurie.json](./332417-dinofurie.json) |
 | DinoGore | 358348 | [358348-dinogore.json](./358348-dinogore.json) |
@@ -2985,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Junior | 192916 | [192916-donkey-kong-junior.json](./192916-donkey-kong-junior.json) |
 | Donkey Kong Land | 1091 | [1091-donkey-kong-land.json](./1091-donkey-kong-land.json) |
 | Donkey Kong Land III | 1095 | [1095-donkey-kong-land-iii.json](./1095-donkey-kong-land-iii.json) |
+| Donkey Kong Redux | 331437 | [331437-donkey-kong-redux.json](./331437-donkey-kong-redux.json) |
 | Donkey Kong-e | 170011 | [170011-donkey-kong-e.json](./170011-donkey-kong-e.json) |
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
 | Donkey Konga Beat | 231646 | [231646-donkey-konga-beat.json](./231646-donkey-konga-beat.json) |
