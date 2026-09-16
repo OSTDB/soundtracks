@@ -1877,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Girl Life Sim 3D | 297504 | [297504-high-school-girl-life-sim-3d.json](./297504-high-school-girl-life-sim-3d.json) |
 | High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
 | High School Girl Simulator 3D | 299905 | [299905-high-school-girl-simulator-3d.json](./299905-high-school-girl-simulator-3d.json) |
+| High School Maze 3D | 297633 | [297633-high-school-maze-3d.json](./297633-high-school-maze-3d.json) |
 | High School Musical: All Together Now | 220094 | [220094-high-school-musical-all-together-now.json](./220094-high-school-musical-all-together-now.json) |
 | High School Musical: DVD Game | 228419 | [228419-high-school-musical-dvd-game.json](./228419-high-school-musical-dvd-game.json) |
 | High School of Blitz | 166207 | [166207-high-school-of-blitz.json](./166207-high-school-of-blitz.json) |
@@ -1899,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highreach | 348331 | [348331-highreach.json](./348331-highreach.json) |
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
 | Highrise City | 147440 | [147440-highrise-city.json](./147440-highrise-city.json) |
+| HighSchool Simulator Battle | 297631 | [297631-highschool-simulator-battle.json](./297631-highschool-simulator-battle.json) |
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
 | Highway | 267410 | [267410-highway.json](./267410-highway.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
@@ -2354,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honeycomb Hotel ZEN | 96056 | [96056-honeycomb-hotel-zen.json](./96056-honeycomb-hotel-zen.json) |
 | HoneySun | 260407 | [260407-honeysun.json](./260407-honeysun.json) |
 | Hong Gildong-jeon | 145612 | [145612-hong-gildong-jeon.json](./145612-hong-gildong-jeon.json) |
+| Hong Gildong-jeon 2 | 297656 | [297656-hong-gildong-jeon-2.json](./297656-hong-gildong-jeon-2.json) |
 | Hong Kong | 47251 | [47251-hong-kong.json](./47251-hong-kong.json) |
 | Hong Kong 97 | 9616 | [9616-hong-kong-97.json](./9616-hong-kong-97.json) |
 | Hong Kong Mahjong | 334661 | [334661-hong-kong-mahjong.json](./334661-hong-kong-mahjong.json) |
