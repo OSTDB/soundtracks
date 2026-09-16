@@ -1381,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inventris TD | 319009 | [319009-inventris-td.json](./319009-inventris-td.json) |
 | Inverness Nights | 134676 | [134676-inverness-nights.json](./134676-inverness-nights.json) |
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
+| Inversed | 310575 | [310575-inversed.json](./310575-inversed.json) |
 | Inversion | 7020 | [7020-inversion.json](./7020-inversion.json) |
 | Invert | 383504 | [383504-invert.json](./383504-invert.json) |
 | Invert by SlushyRh | 265144 | [265144-invert-by-slushyrh.json](./265144-invert-by-slushyrh.json) |
