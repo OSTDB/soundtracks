@@ -1893,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graphic Mahjong | 91959 | [91959-graphic-mahjong.json](./91959-graphic-mahjong.json) |
 | Graphic Tower Defense | 348767 | [348767-graphic-tower-defense.json](./348767-graphic-tower-defense.json) |
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
+| Grapple Dogs Collection | 331408 | [331408-grapple-dogs-collection.json](./331408-grapple-dogs-collection.json) |
 | Grapple Flow VR | 301826 | [301826-grapple-flow-vr.json](./301826-grapple-flow-vr.json) |
 | Grapple Gal | 219804 | [219804-grapple-gal.json](./219804-grapple-gal.json) |
 | Grapple Gum | 254150 | [254150-grapple-gum.json](./254150-grapple-gum.json) |
