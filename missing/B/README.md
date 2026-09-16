@@ -2134,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird | 159829 | [159829-bird.json](./159829-bird.json) |
 | Bird | 170496 | [170496-bird.json](./170496-bird.json) |
 | Bird | 380010 | [380010-bird.json](./380010-bird.json) |
+| Bird & Beans | 308408 | [308408-bird-and-beans.json](./308408-bird-and-beans.json) |
 | Bird & Beans | 70765 | [70765-bird-and-beans.json](./70765-bird-and-beans.json) |
 | Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
 | Bird Bakery | 135239 | [135239-bird-bakery.json](./135239-bird-bakery.json) |
