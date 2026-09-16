@@ -1478,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firewall: Man vs. Machine | 217880 | [217880-firewall-man-vs-machine.json](./217880-firewall-man-vs-machine.json) |
 | Firewatch: Audio Tour | 251228 | [251228-firewatch-audio-tour.json](./251228-firewatch-audio-tour.json) |
 | Firewerx | 195185 | [195185-firewerx.json](./195185-firewerx.json) |
+| Firewheels Shop Simulator | 330316 | [330316-firewheels-shop-simulator.json](./330316-firewheels-shop-simulator.json) |
 | Firewind | 73322 | [73322-firewind.json](./73322-firewind.json) |
 | Firework | 112854 | [112854-firework.json](./112854-firework.json) |
 | Firework | 399603 | [399603-firework.json](./399603-firework.json) |
