@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T11:21:37.332Z",
-  "total_missing": 77736,
+  "generated_at": "2026-09-16T11:31:36.639Z",
+  "total_missing": 77745,
   "games": [
     {
       "igdb_id": 306086,
@@ -5991,11 +5991,6 @@
       "igdb_id": 110446,
       "game_name": "Ahegal",
       "file": "missing/A/110446-ahegal.json"
-    },
-    {
-      "igdb_id": 203381,
-      "game_name": "Ahegal Seasons",
-      "file": "missing/A/203381-ahegal-seasons.json"
     },
     {
       "igdb_id": 123609,
@@ -37898,6 +37893,11 @@
       "file": "missing/B/167803-boat-crew.json"
     },
     {
+      "igdb_id": 313352,
+      "game_name": "Boat House",
+      "file": "missing/B/313352-boat-house.json"
+    },
+    {
       "igdb_id": 228116,
       "game_name": "Boat Rescue Simulator Mobile",
       "file": "missing/B/228116-boat-rescue-simulator-mobile.json"
@@ -66391,6 +66391,11 @@
       "igdb_id": 24846,
       "game_name": "Creature Venture",
       "file": "missing/C/24846-creature-venture.json"
+    },
+    {
+      "igdb_id": 313355,
+      "game_name": "Creaturemin",
+      "file": "missing/C/313355-creaturemin.json"
     },
     {
       "igdb_id": 11371,
@@ -133878,6 +133883,11 @@
       "file": "missing/G/408027-guessed-it.json"
     },
     {
+      "igdb_id": 313349,
+      "game_name": "Guest House",
+      "file": "missing/G/313349-guest-house.json"
+    },
+    {
       "igdb_id": 342728,
       "game_name": "Guest Rush",
       "file": "missing/G/342728-guest-rush.json"
@@ -190178,6 +190188,11 @@
       "file": "missing/M/48711-mario-kart-arcade-gp-vr.json"
     },
     {
+      "igdb_id": 313347,
+      "game_name": "Mario Kart DS: GameCube Grand Prix",
+      "file": "missing/M/313347-mario-kart-ds-gamecube-grand-prix.json"
+    },
+    {
       "igdb_id": 294712,
       "game_name": "Mario Kart PC",
       "file": "missing/M/294712-mario-kart-pc.json"
@@ -238423,6 +238438,11 @@
       "file": "missing/P/299745-pikmin-2-regrown.json"
     },
     {
+      "igdb_id": 313357,
+      "game_name": "Pikmin 2 WorldWide",
+      "file": "missing/P/313357-pikmin-2-worldwide.json"
+    },
+    {
       "igdb_id": 2241,
       "game_name": "Pikmin 3",
       "file": "missing/P/2241-pikmin-3.json"
@@ -238446,6 +238466,16 @@
       "igdb_id": 220852,
       "game_name": "Pikmin Puzzle Card e+",
       "file": "missing/P/220852-pikmin-puzzle-card-e.json"
+    },
+    {
+      "igdb_id": 313356,
+      "game_name": "Pikmin Stellar",
+      "file": "missing/P/313356-pikmin-stellar.json"
+    },
+    {
+      "igdb_id": 313353,
+      "game_name": "Pikmin: Return to PNF-404",
+      "file": "missing/P/313353-pikmin-return-to-pnf-404.json"
     },
     {
       "igdb_id": 336610,
@@ -251066,6 +251096,11 @@
       "igdb_id": 66695,
       "game_name": "Puffins: Let's Roll",
       "file": "missing/P/66695-puffins-lets-roll.json"
+    },
+    {
+      "igdb_id": 313354,
+      "game_name": "Puffmin Quest",
+      "file": "missing/P/313354-puffmin-quest.json"
     },
     {
       "igdb_id": 311252,
@@ -312158,6 +312193,11 @@
       "file": "missing/S/323751-super-mario-legend.json"
     },
     {
+      "igdb_id": 313348,
+      "game_name": "Super Mario Lost Worlds: Crusade",
+      "file": "missing/S/313348-super-mario-lost-worlds-crusade.json"
+    },
+    {
       "igdb_id": 26157,
       "game_name": "Super Mario Maker for Nintendo 3DS",
       "file": "missing/S/26157-super-mario-maker-for-nintendo-3ds.json"
@@ -364841,6 +364881,11 @@
       "igdb_id": 23053,
       "game_name": "Valhalla",
       "file": "missing/V/23053-valhalla.json"
+    },
+    {
+      "igdb_id": 313350,
+      "game_name": "Valhalla",
+      "file": "missing/V/313350-valhalla.json"
     },
     {
       "igdb_id": 12810,
