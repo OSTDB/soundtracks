@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Straight Roads: Collector's Edition | 166225 | [166225-no-straight-roads-collectors-edition.json](./166225-no-straight-roads-collectors-edition.json) |
 | No Straight Roads: Encore Edition | 178093 | [178093-no-straight-roads-encore-edition.json](./178093-no-straight-roads-encore-edition.json) |
 | No Sun To Worship | 236015 | [236015-no-sun-to-worship.json](./236015-no-sun-to-worship.json) |
+| No Surrender Heroes | 287769 | [287769-no-surrender-heroes.json](./287769-no-surrender-heroes.json) |
 | No T!me No Space | 228431 | [228431-no-t-me-no-space.json](./228431-no-t-me-no-space.json) |
 | No Thoughts Just Dodge | 413689 | [413689-no-thoughts-just-dodge.json](./413689-no-thoughts-just-dodge.json) |
 | No Throwing | 341487 | [341487-no-throwing.json](./341487-no-throwing.json) |
@@ -1660,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noddy and the Birthday Party | 50549 | [50549-noddy-and-the-birthday-party.json](./50549-noddy-and-the-birthday-party.json) |
 | Noddy: A Day in Toyland | 49388 | [49388-noddy-a-day-in-toyland.json](./49388-noddy-a-day-in-toyland.json) |
 | Noddy's Big Adventure | 321603 | [321603-noddys-big-adventure.json](./321603-noddys-big-adventure.json) |
+| Node Farm | 287772 | [287772-node-farm.json](./287772-node-farm.json) |
 | Node Math | 370712 | [370712-node-math.json](./370712-node-math.json) |
 | Node RPG | 373008 | [373008-node-rpg.json](./373008-node-rpg.json) |
 | Nodes of Yesod | 23059 | [23059-nodes-of-yesod.json](./23059-nodes-of-yesod.json) |
