@@ -283,15 +283,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
 | War Theatre: Blood of Winter - Beak and Talon | 172187 | [172187-war-theatre-blood-of-winter-beak-and-talon.json](./172187-war-theatre-blood-of-winter-beak-and-talon.json) |
+| War Thunder - T-55AM-1 Pack | 293764 | [293764-war-thunder-t-55am-1-pack.json](./293764-war-thunder-t-55am-1-pack.json) |
 | War Thunder: Ancient Helicopter Snail Bundle | 316622 | [316622-war-thunder-ancient-helicopter-snail-bundle.json](./316622-war-thunder-ancient-helicopter-snail-bundle.json) |
 | War Thunder: Challenger DS Pack | 336933 | [336933-war-thunder-challenger-ds-pack.json](./336933-war-thunder-challenger-ds-pack.json) |
 | War Thunder: Ground Forces | 115024 | [115024-war-thunder-ground-forces.json](./115024-war-thunder-ground-forces.json) |
 | War Thunder: IJN Yamashiro Pack | 336934 | [336934-war-thunder-ijn-yamashiro-pack.json](./336934-war-thunder-ijn-yamashiro-pack.json) |
+| War Thunder: IS-6 Pack | 293757 | [293757-war-thunder-is-6-pack.json](./293757-war-thunder-is-6-pack.json) |
 | War Thunder: Leopard 2A4M CAN Bundle | 306492 | [306492-war-thunder-leopard-2a4m-can-bundle.json](./306492-war-thunder-leopard-2a4m-can-bundle.json) |
 | War Thunder: Marder Clovis Pack | 336935 | [336935-war-thunder-marder-clovis-pack.json](./336935-war-thunder-marder-clovis-pack.json) |
 | War Thunder: Reaper Pack | 156104 | [156104-war-thunder-reaper-pack.json](./156104-war-thunder-reaper-pack.json) |
 | War Thunder: Somua SM Pack | 336936 | [336936-war-thunder-somua-sm-pack.json](./336936-war-thunder-somua-sm-pack.json) |
 | War Thunder: T-80U-E1 Bundle | 306494 | [306494-war-thunder-t-80u-e1-bundle.json](./306494-war-thunder-t-80u-e1-bundle.json) |
+| War Thunder: T29 Pack | 293762 | [293762-war-thunder-t29-pack.json](./293762-war-thunder-t29-pack.json) |
 | War Thunder: Wyvern Pack | 336937 | [336937-war-thunder-wyvern-pack.json](./336937-war-thunder-wyvern-pack.json) |
 | War Times | 77376 | [77376-war-times.json](./77376-war-times.json) |
 | War to the Core | 249815 | [249815-war-to-the-core.json](./249815-war-to-the-core.json) |
@@ -1120,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
 | Whiplash | 411608 | [411608-whiplash.json](./411608-whiplash.json) |
 | Whiplash | 95503 | [95503-whiplash.json](./95503-whiplash.json) |
+| Whiplash Taxi Co | 293768 | [293768-whiplash-taxi-co.json](./293768-whiplash-taxi-co.json) |
 | Whipplu Special | 266486 | [266486-whipplu-special.json](./266486-whipplu-special.json) |
 | Whirled | 123640 | [123640-whirled.json](./123640-whirled.json) |
 | Whirlo | 46588 | [46588-whirlo.json](./46588-whirlo.json) |
@@ -2112,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Subways: Volume 3 - London Underground Circle Line | 18000 | [18000-world-of-subways-volume-3-london-underground-circle-line.json](./18000-world-of-subways-volume-3-london-underground-circle-line.json) |
 | World of Tanks - Panther/M10 Pack (VII German Medium Tank) | 398326 | [398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json](./398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json) |
 | World of Tanks Generals | 77961 | [77961-world-of-tanks-generals.json](./77961-world-of-tanks-generals.json) |
+| World of Tanks: Advanced Marksman | 293765 | [293765-world-of-tanks-advanced-marksman.json](./293765-world-of-tanks-advanced-marksman.json) |
 | World of Tanks: Blitz - Free Pack | 171010 | [171010-world-of-tanks-blitz-free-pack.json](./171010-world-of-tanks-blitz-free-pack.json) |
 | World of Tanks: Blitz - Grand Pack | 171009 | [171009-world-of-tanks-blitz-grand-pack.json](./171009-world-of-tanks-blitz-grand-pack.json) |
 | World of Tanks: Blitz - Mega Pack | 171008 | [171008-world-of-tanks-blitz-mega-pack.json](./171008-world-of-tanks-blitz-mega-pack.json) |
@@ -2123,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Modern Armor - Metal Dragon | 336938 | [336938-world-of-tanks-modern-armor-metal-dragon.json](./336938-world-of-tanks-modern-armor-metal-dragon.json) |
 | World of Tanks: Modern Armor - Super Heavy Hitter | 332534 | [332534-world-of-tanks-modern-armor-super-heavy-hitter.json](./332534-world-of-tanks-modern-armor-super-heavy-hitter.json) |
 | World of Tanks: Modern Armor - Warlords Starter Pack | 338220 | [338220-world-of-tanks-modern-armor-warlords-starter-pack.json](./338220-world-of-tanks-modern-armor-warlords-starter-pack.json) |
+| World of Tanks: Modern Jumpstart | 293773 | [293773-world-of-tanks-modern-jumpstart.json](./293773-world-of-tanks-modern-jumpstart.json) |
 | World of Tanks: Roll Out Collector's Edition | 115673 | [115673-world-of-tanks-roll-out-collectors-edition.json](./115673-world-of-tanks-roll-out-collectors-edition.json) |
 | World of Vasnar | 356190 | [356190-world-of-vasnar.json](./356190-world-of-vasnar.json) |
 | World of Warcraft Classic: Season of Discovery | 275175 | [275175-world-of-warcraft-classic-season-of-discovery.json](./275175-world-of-warcraft-classic-season-of-discovery.json) |
