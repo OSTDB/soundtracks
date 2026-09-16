@@ -227,10 +227,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage vs. Castle | 301819 | [301819-mage-vs-castle.json](./301819-mage-vs-castle.json) |
 | Mage World: The Wizard's Stone | 169419 | [169419-mage-world-the-wizards-stone.json](./169419-mage-world-the-wizards-stone.json) |
 | Mage: Enchanted | 169946 | [169946-mage-enchanted.json](./169946-mage-enchanted.json) |
+| Mage's Legacy | 312162 | [312162-mages-legacy.json](./312162-mages-legacy.json) |
+| Mageanoid | 312190 | [312190-mageanoid.json](./312190-mageanoid.json) |
 | Magekeepers | 302359 | [302359-magekeepers.json](./302359-magekeepers.json) |
 | Magenta Arcade II | 373639 | [373639-magenta-arcade-ii.json](./373639-magenta-arcade-ii.json) |
 | Magerealm: Rise of Chaos | 12874 | [12874-magerealm-rise-of-chaos.json](./12874-magerealm-rise-of-chaos.json) |
 | MageRun | 192361 | [192361-magerun.json](./192361-magerun.json) |
+| Mages of Osmea | 312199 | [312199-mages-of-osmea.json](./312199-mages-of-osmea.json) |
 | Maggie's Apartment | 50504 | [50504-maggies-apartment.json](./50504-maggies-apartment.json) |
 | Maggie's Movies: Second Shot | 132789 | [132789-maggies-movies-second-shot.json](./132789-maggies-movies-second-shot.json) |
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
@@ -2255,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
 | Merica Tale | 367500 | [367500-merica-tale.json](./367500-merica-tale.json) |
+| Meridian | 312177 | [312177-meridian.json](./312177-meridian.json) |
 | Meridian: Age of Invention | 34578 | [34578-meridian-age-of-invention.json](./34578-meridian-age-of-invention.json) |
 | Meridian: Squad 22 | 20453 | [20453-meridian-squad-22.json](./20453-meridian-squad-22.json) |
 | Merlin 64 | 47242 | [47242-merlin-64.json](./47242-merlin-64.json) |
