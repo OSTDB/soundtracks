@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray-Gun | 64969 | [64969-ray-gun.json](./64969-ray-gun.json) |
 | Ray-Hound | 78702 | [78702-ray-hound.json](./78702-ray-hound.json) |
 | Ray-Thunder | 64909 | [64909-ray-thunder.json](./64909-ray-thunder.json) |
+| Ray: Part 1 | 294266 | [294266-ray-part-1.json](./294266-ray-part-1.json) |
 | Ray's the Dead | 19514 | [19514-rays-the-dead.json](./19514-rays-the-dead.json) |
 | Ray'z Arcade Chronology | 207918 | [207918-rayz-arcade-chronology.json](./207918-rayz-arcade-chronology.json) |
 | Rayadium | 341306 | [341306-rayadium.json](./341306-rayadium.json) |
