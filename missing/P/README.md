@@ -3493,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisma Light | 236849 | [236849-prisma-light.json](./236849-prisma-light.json) |
 | Prismatic Solid | 66305 | [66305-prismatic-solid.json](./66305-prismatic-solid.json) |
 | Prismatic: Nox's Gate | 337481 | [337481-prismatic-noxs-gate.json](./337481-prismatic-noxs-gate.json) |
+| Prisnhax | 319777 | [319777-prisnhax.json](./319777-prisnhax.json) |
 | Prison Amok | 330841 | [330841-prison-amok.json](./330841-prison-amok.json) |
 | Prison Architect: All Day and a Night | 234041 | [234041-prison-architect-all-day-and-a-night.json](./234041-prison-architect-all-day-and-a-night.json) |
 | Prison Architect: Cleared for Transfer | 148528 | [148528-prison-architect-cleared-for-transfer.json](./148528-prison-architect-cleared-for-transfer.json) |
