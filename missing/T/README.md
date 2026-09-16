@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Football Pro | 28873 | [28873-table-football-pro.json](./28873-table-football-pro.json) |
 | Table Game Daishuugo!! | 56439 | [56439-table-game-daishuugo.json](./56439-table-game-daishuugo.json) |
 | Table Game Daishuugou!! Shogi Mahjong Hanafuda | 37800 | [37800-table-game-daishuugou-shogi-mahjong-hanafuda.json](./37800-table-game-daishuugou-shogi-mahjong-hanafuda.json) |
+| Table Game End | 327433 | [327433-table-game-end.json](./327433-table-game-end.json) |
 | Table Games VR | 115611 | [115611-table-games-vr.json](./115611-table-games-vr.json) |
 | Table Ice Hockey | 64348 | [64348-table-ice-hockey.json](./64348-table-ice-hockey.json) |
 | Table Soccer Foosball | 147953 | [147953-table-soccer-foosball.json](./147953-table-soccer-foosball.json) |
@@ -899,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tedram Online: Car Racing & Customization | 337637 | [337637-tedram-online-car-racing-and-customization.json](./337637-tedram-online-car-racing-and-customization.json) |
 | Tee Off! | 95449 | [95449-tee-off.json](./95449-tee-off.json) |
 | Tee-riffic Golf. | 180775 | [180775-tee-riffic-golf.json](./180775-tee-riffic-golf.json) |
+| TeeDee | 327390 | [327390-teedee.json](./327390-teedee.json) |
 | Teel Me You! | 181361 | [181361-teel-me-you.json](./181361-teel-me-you.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
@@ -1167,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminus Machina | 230287 | [230287-terminus-machina.json](./230287-terminus-machina.json) |
 | Terminus: Ultiverse | 288755 | [288755-terminus-ultiverse.json](./288755-terminus-ultiverse.json) |
 | Termite | 377177 | [377177-termite.json](./377177-termite.json) |
+| Termite Man | 327380 | [327380-termite-man.json](./327380-termite-man.json) |
 | Terra | 295236 | [295236-terra.json](./295236-terra.json) |
 | Terra Alia | 279404 | [279404-terra-alia.json](./279404-terra-alia.json) |
 | Terra Cresta II | 37728 | [37728-terra-cresta-ii.json](./37728-terra-cresta-ii.json) |
@@ -1686,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Con | 121767 | [121767-the-big-con.json](./121767-the-big-con.json) |
 | The Big Con: Grift of the Year Edition | 201255 | [201255-the-big-con-grift-of-the-year-edition.json](./201255-the-big-con-grift-of-the-year-edition.json) |
 | The Big Fear of Heights Experience | 52002 | [52002-the-big-fear-of-heights-experience.json](./52002-the-big-fear-of-heights-experience.json) |
+| The Big Gay Adventure | 327403 | [327403-the-big-gay-adventure.json](./327403-the-big-gay-adventure.json) |
 | The Big Heap | 129720 | [129720-the-big-heap.json](./129720-the-big-heap.json) |
 | The Big Journey | 69549 | [69549-the-big-journey.json](./69549-the-big-journey.json) |
 | The Big Lebowski Bowling | 312336 | [312336-the-big-lebowski-bowling.json](./312336-the-big-lebowski-bowling.json) |
@@ -4689,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Unfinished Swan | 8352 | [8352-the-unfinished-swan.json](./8352-the-unfinished-swan.json) |
 | The Unfound Soul | 231403 | [231403-the-unfound-soul.json](./231403-the-unfound-soul.json) |
+| The Unicated | 327388 | [327388-the-unicated.json](./327388-the-unicated.json) |
 | The Unicorn Princess | 124157 | [124157-the-unicorn-princess.json](./124157-the-unicorn-princess.json) |
 | The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
 | The Universal Symphony | 398460 | [398460-the-universal-symphony.json](./398460-the-universal-symphony.json) |
@@ -6108,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Crown | 182530 | [182530-to-the-crown.json](./182530-to-the-crown.json) |
 | To The Dark Tower | 119006 | [119006-to-the-dark-tower.json](./119006-to-the-dark-tower.json) |
 | To the End 2 | 174304 | [174304-to-the-end-2.json](./174304-to-the-end-2.json) |
+| To the End of the Way | 327432 | [327432-to-the-end-of-the-way.json](./327432-to-the-end-of-the-way.json) |
 | To The Grave: The Hunters of Faenora | 358385 | [358385-to-the-grave-the-hunters-of-faenora.json](./358385-to-the-grave-the-hunters-of-faenora.json) |
 | To the HeIghts of My Heart | 178044 | [178044-to-the-heights-of-my-heart.json](./178044-to-the-heights-of-my-heart.json) |
 | To the Home | 405478 | [405478-to-the-home.json](./405478-to-the-home.json) |
@@ -7572,6 +7578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree of Life: Yggdrasil | 82159 | [82159-tree-of-life-yggdrasil.json](./82159-tree-of-life-yggdrasil.json) |
 | Tree of Savior DB | 50483 | [50483-tree-of-savior-db.json](./50483-tree-of-savior-db.json) |
 | Tree of Savior: Neo | 349296 | [349296-tree-of-savior-neo.json](./349296-tree-of-savior-neo.json) |
+| Tree of Savior: Neverland | 327392 | [327392-tree-of-savior-neverland.json](./327392-tree-of-savior-neverland.json) |
 | Tree Simulator 2022 | 152372 | [152372-tree-simulator-2022.json](./152372-tree-simulator-2022.json) |
 | Tree Spade Truck | 90670 | [90670-tree-spade-truck.json](./90670-tree-spade-truck.json) |
 | Tree's Love Crossing Above | 346571 | [346571-trees-love-crossing-above.json](./346571-trees-love-crossing-above.json) |
@@ -7797,6 +7804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron | 297488 | [297488-tron.json](./297488-tron.json) |
 | Tron | 5247 | [5247-tron.json](./5247-tron.json) |
 | Tron | 89933 | [89933-tron.json](./89933-tron.json) |
+| Tron 2.0: Killer App Mod | 327416 | [327416-tron-2-0-killer-app-mod.json](./327416-tron-2-0-killer-app-mod.json) |
 | Tron Run/r | 19978 | [19978-tron-run-r.json](./19978-tron-run-r.json) |
 | Tron Run/r: Deluxe Edition | 53853 | [53853-tron-run-r-deluxe-edition.json](./53853-tron-run-r-deluxe-edition.json) |
 | Tron Run/r: Ultimate Edition | 53852 | [53852-tron-run-r-ultimate-edition.json](./53852-tron-run-r-ultimate-edition.json) |
