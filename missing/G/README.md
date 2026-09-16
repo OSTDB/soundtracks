@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomsday | 285459 | [285459-gloomsday.json](./285459-gloomsday.json) |
 | Gloomy Island | 278133 | [278133-gloomy-island.json](./278133-gloomy-island.json) |
 | Glorgorian Weather Initiative | 393509 | [393509-glorgorian-weather-initiative.json](./393509-glorgorian-weather-initiative.json) |
+| Gloria in Somnium | 308426 | [308426-gloria-in-somnium.json](./308426-gloria-in-somnium.json) |
 | Gloria Sinica: Han Xiongnu Wars | 67930 | [67930-gloria-sinica-han-xiongnu-wars.json](./67930-gloria-sinica-han-xiongnu-wars.json) |
 | Gloria Union: Twin Fates in Blue Ocean | 66057 | [66057-gloria-union-twin-fates-in-blue-ocean.json](./66057-gloria-union-twin-fates-in-blue-ocean.json) |
 | Glorious Mission | 74323 | [74323-glorious-mission.json](./74323-glorious-mission.json) |
@@ -1729,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gori: Cuddly Carnage: PlayTime Skin Pack | 357267 | [357267-gori-cuddly-carnage-playtime-skin-pack.json](./357267-gori-cuddly-carnage-playtime-skin-pack.json) |
 | Gorilla Attack | 329000 | [329000-gorilla-attack.json](./329000-gorilla-attack.json) |
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
+| Gorillas | 308395 | [308395-gorillas.json](./308395-gorillas.json) |
 | Gorillaz - Escape to Plastic Beach | 66158 | [66158-gorillaz-escape-to-plastic-beach.json](./66158-gorillaz-escape-to-plastic-beach.json) |
 | Gorky 17 | 7833 | [7833-gorky-17.json](./7833-gorky-17.json) |
 | Gorky Zero: Beyond Honor | 26557 | [26557-gorky-zero-beyond-honor.json](./26557-gorky-zero-beyond-honor.json) |
@@ -2366,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grumpy Witch | 115015 | [115015-grumpy-witch.json](./115015-grumpy-witch.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
 | Grundlewhack | 380527 | [380527-grundlewhack.json](./380527-grundlewhack.json) |
+| Gruniożerca 3: The Great Cavy Clean-Up | 308402 | [308402-gruniozerca-3-the-great-cavy-clean-up.json](./308402-gruniozerca-3-the-great-cavy-clean-up.json) |
 | Gruniożerca Trilogy | 371253 | [371253-gruniozerca-trilogy.json](./371253-gruniozerca-trilogy.json) |
 | Grunn | 281353 | [281353-grunn.json](./281353-grunn.json) |
 | GSIII: Combat Flight Simulator - Heroes of the MIG Alley | 97914 | [97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json](./97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json) |
