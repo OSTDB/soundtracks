@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T14:19:17.175Z",
-  "total_missing": 78287,
+  "generated_at": "2026-09-16T14:21:48.721Z",
+  "total_missing": 78286,
   "games": [
     {
       "igdb_id": 306086,
@@ -6076,11 +6076,6 @@
       "igdb_id": 320973,
       "game_name": "Age of Heroes II: Underground Horror",
       "file": "missing/A/320973-age-of-heroes-ii-underground-horror.json"
-    },
-    {
-      "igdb_id": 188228,
-      "game_name": "Age of History II",
-      "file": "missing/A/188228-age-of-history-ii.json"
     },
     {
       "igdb_id": 31784,
