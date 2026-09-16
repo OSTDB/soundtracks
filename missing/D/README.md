@@ -2646,11 +2646,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | dMuse | 98978 | [98978-dmuse.json](./98978-dmuse.json) |
 | DMX Presents: Unnecessary Hypeman Hero | 138266 | [138266-dmx-presents-unnecessary-hypeman-hero.json](./138266-dmx-presents-unnecessary-hypeman-hero.json) |
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
+| DNA 1: Finale | 311106 | [311106-dna-1-finale.json](./311106-dna-1-finale.json) |
 | DNA Nemesis | 415147 | [415147-dna-nemesis.json](./415147-dna-nemesis.json) |
 | DNA: Episode 4 | 297801 | [297801-dna-episode-4.json](./297801-dna-episode-4.json) |
+| DNA: Final Episode - Part 1 | 311105 | [311105-dna-final-episode-part-1.json](./311105-dna-final-episode-part-1.json) |
+| DNA: Final Episode - Part 2 | 311107 | [311107-dna-final-episode-part-2.json](./311107-dna-final-episode-part-2.json) |
 | DNA: Season 2 - Episode 1 | 310383 | [310383-dna-season-2-episode-1.json](./310383-dna-season-2-episode-1.json) |
 | DNA: Season 2 - Episode 2 | 310397 | [310397-dna-season-2-episode-2.json](./310397-dna-season-2-episode-2.json) |
 | DNA: Season 2 - Episode 3 | 310407 | [310407-dna-season-2-episode-3.json](./310407-dna-season-2-episode-3.json) |
+| DNA: Season 2 - Episode 4 | 311104 | [311104-dna-season-2-episode-4.json](./311104-dna-season-2-episode-4.json) |
 | DnB Starfighter | 356735 | [356735-dnb-starfighter.json](./356735-dnb-starfighter.json) |
 | DND | 2888 | [2888-dnd.json](./2888-dnd.json) |
 | DnD Dice | 105951 | [105951-dnd-dice.json](./105951-dnd-dice.json) |
@@ -2998,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Touch the Snail | 394829 | [394829-dont-touch-the-snail.json](./394829-dont-touch-the-snail.json) |
 | Don't Touch the Spikes | 225291 | [225291-dont-touch-the-spikes.json](./225291-dont-touch-the-spikes.json) |
 | Don't Touch this Button! | 158161 | [158161-dont-touch-this-button.json](./158161-dont-touch-this-button.json) |
+| Don't Trust | 311121 | [311121-dont-trust.json](./311121-dont-trust.json) |
 | Don't wake up | 381009 | [381009-dont-wake-up.json](./381009-dont-wake-up.json) |
 | Don't Wake Up My Dream | 369588 | [369588-dont-wake-up-my-dream.json](./369588-dont-wake-up-my-dream.json) |
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
