@@ -70,6 +70,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MachRace | 32865 | [32865-machrace.json](./32865-machrace.json) |
 | Mackle Story | 407459 | [407459-mackle-story.json](./407459-mackle-story.json) |
 | Mackle Story Remake | 407462 | [407462-mackle-story-remake.json](./407462-mackle-story-remake.json) |
+| MacMan And The Caber Eater | 314495 | [314495-macman-and-the-caber-eater.json](./314495-macman-and-the-caber-eater.json) |
+| MacMan And The Great Escape | 314496 | [314496-macman-and-the-great-escape.json](./314496-macman-and-the-great-escape.json) |
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
 | Macross - Eternal Love Song | 41994 | [41994-macross-eternal-love-song.json](./41994-macross-eternal-love-song.json) |
 | Macross 30: Voices across the Galaxy | 79292 | [79292-macross-30-voices-across-the-galaxy.json](./79292-macross-30-voices-across-the-galaxy.json) |
@@ -322,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Summoning Adventure | 154014 | [154014-magic-summoning-adventure.json](./154014-magic-summoning-adventure.json) |
 | Magic Survival | 188606 | [188606-magic-survival.json](./188606-magic-survival.json) |
 | Magic Survivor Undead | 333399 | [333399-magic-survivor-undead.json](./333399-magic-survivor-undead.json) |
+| Magic Survivors | 314470 | [314470-magic-survivors.json](./314470-magic-survivors.json) |
 | Magic Synthesis | 103449 | [103449-magic-synthesis.json](./103449-magic-synthesis.json) |
 | Magic Synthesis | 103487 | [103487-magic-synthesis.json](./103487-magic-synthesis.json) |
 | Magic Technology: Tower Defense | 68679 | [68679-magic-technology-tower-defense.json](./68679-magic-technology-tower-defense.json) |
@@ -900,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
 | Mario Bros.-e | 170013 | [170013-mario-bros-e.json](./170013-mario-bros-e.json) |
 | Mario Builder | 323745 | [323745-mario-builder.json](./323745-mario-builder.json) |
+| Mario Doom | 314469 | [314469-mario-doom.json](./314469-mario-doom.json) |
 | Mario Drinks A Glass of Milk | 250051 | [250051-mario-drinks-a-glass-of-milk.json](./250051-mario-drinks-a-glass-of-milk.json) |
 | Mario FA: Vanishing Colosseum | 322772 | [322772-mario-fa-vanishing-colosseum.json](./322772-mario-fa-vanishing-colosseum.json) |
 | Mario for the Masses | 330716 | [330716-mario-for-the-masses.json](./330716-mario-for-the-masses.json) |
@@ -1028,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party: Star Rush | 19599 | [19599-mario-party-star-rush.json](./19599-mario-party-star-rush.json) |
 | Mario Pinball Land | 6503 | [6503-mario-pinball-land.json](./6503-mario-pinball-land.json) |
 | Mario Power Tennis | 84700 | [84700-mario-power-tennis.json](./84700-mario-power-tennis.json) |
+| Mario Racing Tournament | 314508 | [314508-mario-racing-tournament.json](./314508-mario-racing-tournament.json) |
 | Mario Roots | 323894 | [323894-mario-roots.json](./323894-mario-roots.json) |
 | Mario Royale Deluxe | 262665 | [262665-mario-royale-deluxe.json](./262665-mario-royale-deluxe.json) |
 | Mario Sports Complex: Barrel Blast | 231644 | [231644-mario-sports-complex-barrel-blast.json](./231644-mario-sports-complex-barrel-blast.json) |
@@ -1665,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechaBlight | 390625 | [390625-mechablight.json](./390625-mechablight.json) |
 | Mechachain | 276738 | [276738-mechachain.json](./276738-mechachain.json) |
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
+| Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
 | Mechanic Miner | 77754 | [77754-mechanic-miner.json](./77754-mechanic-miner.json) |
 | Mechanica | 129155 | [129155-mechanica.json](./129155-mechanica.json) |
 | Mechanical Anarchy | 356689 | [356689-mechanical-anarchy.json](./356689-mechanical-anarchy.json) |
@@ -2169,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental: The Dark Night | 236828 | [236828-mental-the-dark-night.json](./236828-mental-the-dark-night.json) |
 | Mentula Macanus: Apocolocyntosis | 22420 | [22420-mentula-macanus-apocolocyntosis.json](./22420-mentula-macanus-apocolocyntosis.json) |
 | Meow | 334677 | [334677-meow.json](./334677-meow.json) |
+| Meow Cat Village | 314471 | [314471-meow-cat-village.json](./314471-meow-cat-village.json) |
 | Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
 | Meow Meoww | 265415 | [265415-meow-meoww.json](./265415-meow-meoww.json) |
 | Meow Moments: Valentine's Day | 289844 | [289844-meow-moments-valentines-day.json](./289844-meow-moments-valentines-day.json) |
@@ -2648,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator: Deluxe Edition | 139959 | [139959-microsoft-flight-simulator-deluxe-edition.json](./139959-microsoft-flight-simulator-deluxe-edition.json) |
 | Microsoft Flight Simulator: Premium Deluxe 40th Anniversary Edition | 293927 | [293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json](./293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json) |
 | Microsoft Flight Simulator: Top Gun - Maverick | 152312 | [152312-microsoft-flight-simulator-top-gun-maverick.json](./152312-microsoft-flight-simulator-top-gun-maverick.json) |
+| Microsoft Flight Simulator: World Update 18 | 314484 | [314484-microsoft-flight-simulator-world-update-18.json](./314484-microsoft-flight-simulator-world-update-18.json) |
 | Microsoft Return of Arcade | 22620 | [22620-microsoft-return-of-arcade.json](./22620-microsoft-return-of-arcade.json) |
 | Microsoft Revenge of Arcade | 84228 | [84228-microsoft-revenge-of-arcade.json](./84228-microsoft-revenge-of-arcade.json) |
 | Microsoft Soccer | 93003 | [93003-microsoft-soccer.json](./93003-microsoft-soccer.json) |
@@ -2729,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might and Magic: World of Xeen | 7738 | [7738-might-and-magic-world-of-xeen.json](./7738-might-and-magic-world-of-xeen.json) |
 | Might is Right | 127497 | [127497-might-is-right.json](./127497-might-is-right.json) |
 | Might of Fate | 406130 | [406130-might-of-fate.json](./406130-might-of-fate.json) |
+| Mightreya | 314489 | [314489-mightreya.json](./314489-mightreya.json) |
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
 | Mighty Flip Champs! DX | 44522 | [44522-mighty-flip-champs-dx.json](./44522-mighty-flip-champs-dx.json) |
 | Mighty forest | 139364 | [139364-mighty-forest.json](./139364-mighty-forest.json) |
@@ -3815,6 +3824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
 | Monster Haven | 315708 | [315708-monster-haven.json](./315708-monster-haven.json) |
 | Monster Heart | 229929 | [229929-monster-heart.json](./229929-monster-heart.json) |
+| Monster High Skulltimate Secrets | 314521 | [314521-monster-high-skulltimate-secrets.json](./314521-monster-high-skulltimate-secrets.json) |
 | Monster High: Beauty Shop | 89146 | [89146-monster-high-beauty-shop.json](./89146-monster-high-beauty-shop.json) |
 | Monster High: New Ghoul in School | 19318 | [19318-monster-high-new-ghoul-in-school.json](./19318-monster-high-new-ghoul-in-school.json) |
 | Monster Hunt | 79235 | [79235-monster-hunt.json](./79235-monster-hunt.json) |
@@ -4820,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musical Range | 30819 | [30819-musical-range.json](./30819-musical-range.json) |
 | Musical Vibes | 257971 | [257971-musical-vibes.json](./257971-musical-vibes.json) |
 | Musical Zoo | 79934 | [79934-musical-zoo.json](./79934-musical-zoo.json) |
+| Musicmenia | 314477 | [314477-musicmenia.json](./314477-musicmenia.json) |
 | Musicus! | 125432 | [125432-musicus.json](./125432-musicus.json) |
 | Musicus! | 185708 | [185708-musicus.json](./185708-musicus.json) |
 | MusicVR Episode 1: Tr3s Lunas | 70978 | [70978-musicvr-episode-1-tr3s-lunas.json](./70978-musicvr-episode-1-tr3s-lunas.json) |
