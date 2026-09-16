@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck E. Cheese's Gameroom | 55902 | [55902-chuck-e-cheeses-gameroom.json](./55902-chuck-e-cheeses-gameroom.json) |
 | Chuck E. Cheese's Playhouse | 55904 | [55904-chuck-e-cheeses-playhouse.json](./55904-chuck-e-cheeses-playhouse.json) |
 | Chuck E. Cheese's Racing World | 103522 | [103522-chuck-e-cheeses-racing-world.json](./103522-chuck-e-cheeses-racing-world.json) |
+| Chuck Quizmo's Quiz | 328608 | [328608-chuck-quizmos-quiz.json](./328608-chuck-quizmos-quiz.json) |
 | Chuck Rock | 275025 | [275025-chuck-rock.json](./275025-chuck-rock.json) |
 | Chuck Rock | 275026 | [275026-chuck-rock.json](./275026-chuck-rock.json) |
 | Chuckie Egg | 10235 | [10235-chuckie-egg.json](./10235-chuckie-egg.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinnabunny | 295008 | [295008-cinnabunny.json](./295008-cinnabunny.json) |
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
 | Circa | 94170 | [94170-circa.json](./94170-circa.json) |
+| Circadial | 328645 | [328645-circadial.json](./328645-circadial.json) |
 | CircL | 185080 | [185080-circl.json](./185080-circl.json) |
 | Circle Breakout | 128577 | [128577-circle-breakout.json](./128577-circle-breakout.json) |
 | Circle Empires | 104937 | [104937-circle-empires.json](./104937-circle-empires.json) |
@@ -3632,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couch Racers | 363960 | [363960-couch-racers.json](./363960-couch-racers.json) |
 | Couch Storm: Battle Royale | 119735 | [119735-couch-storm-battle-royale.json](./119735-couch-storm-battle-royale.json) |
 | Couch Versus | 113669 | [113669-couch-versus.json](./113669-couch-versus.json) |
+| Couic d'or ! | 328595 | [328595-couic-dor.json](./328595-couic-dor.json) |
 | Count 427 | 287624 | [287624-count-427.json](./287624-count-427.json) |
 | Count Downula | 109040 | [109040-count-downula.json](./109040-count-downula.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
