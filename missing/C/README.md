@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Chopping Together | 389581 | [389581-chopping-together.json](./389581-chopping-together.json) |
 | Choppy Cuts | 349383 | [349383-choppy-cuts.json](./349383-choppy-cuts.json) |
+| Chords Enchanter | 292685 | [292685-chords-enchanter.json](./292685-chords-enchanter.json) |
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
 | Choro Q | 69796 | [69796-choro-q.json](./69796-choro-q.json) |
 | Choro Q 3 | 97364 | [97364-choro-q-3.json](./97364-choro-q-3.json) |
@@ -2911,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonies | 118353 | [118353-colonies.json](./118353-colonies.json) |
 | Colonisator | 336634 | [336634-colonisator.json](./336634-colonisator.json) |
 | Colonist | 130901 | [130901-colonist.json](./130901-colonist.json) |
+| Colonization Simulator | 292687 | [292687-colonization-simulator.json](./292687-colonization-simulator.json) |
 | Colonizer | 244468 | [244468-colonizer.json](./244468-colonizer.json) |
 | Colonus | 413051 | [413051-colonus.json](./413051-colonus.json) |
 | Colony | 76645 | [76645-colony.json](./76645-colony.json) |
@@ -4589,6 +4591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptid Time | 320134 | [320134-cryptid-time.json](./320134-cryptid-time.json) |
 | Cryptigma | 339919 | [339919-cryptigma.json](./339919-cryptigma.json) |
 | Cryptmaster | 213029 | [213029-cryptmaster.json](./213029-cryptmaster.json) |
+| Crypto Crisis: Education Edition | 292683 | [292683-crypto-crisis-education-edition.json](./292683-crypto-crisis-education-edition.json) |
 | Crypto Fantasy: The Scrolls of Kouga | 335695 | [335695-crypto-fantasy-the-scrolls-of-kouga.json](./335695-crypto-fantasy-the-scrolls-of-kouga.json) |
 | Crypto Mining | 358295 | [358295-crypto-mining.json](./358295-crypto-mining.json) |
 | Crypto Rush | 338260 | [338260-crypto-rush.json](./338260-crypto-rush.json) |
