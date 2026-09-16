@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T05:41:50.059Z",
-  "total_missing": 76736,
+  "generated_at": "2026-09-16T05:48:56.301Z",
+  "total_missing": 76786,
   "games": [
     {
       "igdb_id": 306086,
@@ -2051,6 +2051,11 @@
       "igdb_id": 143059,
       "game_name": "3D MiniGolf",
       "file": "missing/0-9/143059-3d-minigolf.json"
+    },
+    {
+      "igdb_id": 324513,
+      "game_name": "3D Morpion",
+      "file": "missing/0-9/324513-3d-morpion.json"
     },
     {
       "igdb_id": 15577,
@@ -20333,6 +20338,16 @@
       "file": "missing/A/130345-atari-lynx-collection-1.json"
     },
     {
+      "igdb_id": 324499,
+      "game_name": "Atari Recharged: Volume One",
+      "file": "missing/A/324499-atari-recharged-volume-one.json"
+    },
+    {
+      "igdb_id": 324500,
+      "game_name": "Atari Recharged: Volume Two",
+      "file": "missing/A/324500-atari-recharged-volume-two.json"
+    },
+    {
       "igdb_id": 12243,
       "game_name": "Atari Video Cube",
       "file": "missing/A/12243-atari-video-cube.json"
@@ -25346,6 +25361,11 @@
       "igdb_id": 70395,
       "game_name": "Bannerman",
       "file": "missing/B/70395-bannerman.json"
+    },
+    {
+      "igdb_id": 324501,
+      "game_name": "Banners of Ruin: Collection",
+      "file": "missing/B/324501-banners-of-ruin-collection.json"
     },
     {
       "igdb_id": 230817,
@@ -68668,6 +68688,11 @@
       "file": "missing/C/408806-cult-of-the-lamb-the-one-who-waits.json"
     },
     {
+      "igdb_id": 324472,
+      "game_name": "Cult of the Lamb: Unholy Pack Bundle",
+      "file": "missing/C/324472-cult-of-the-lamb-unholy-pack-bundle.json"
+    },
+    {
       "igdb_id": 291765,
       "game_name": "Cult&Card",
       "file": "missing/C/291765-cult-and-card.json"
@@ -89433,6 +89458,11 @@
       "file": "missing/D/317223-dreamland-farm.json"
     },
     {
+      "igdb_id": 324477,
+      "game_name": "Dreamland Farm: Stone Fence and Tiles",
+      "file": "missing/D/324477-dreamland-farm-stone-fence-and-tiles.json"
+    },
+    {
       "igdb_id": 320135,
       "game_name": "Dreamless",
       "file": "missing/D/320135-dreamless.json"
@@ -104008,6 +104038,11 @@
       "file": "missing/F/306138-fairy-tail-2.json"
     },
     {
+      "igdb_id": 324470,
+      "game_name": "Fairy Tail 2: Digital Deluxe",
+      "file": "missing/F/324470-fairy-tail-2-digital-deluxe.json"
+    },
+    {
       "igdb_id": 332229,
       "game_name": "Fairy Tail 2: Outfit Set - Swimsuit",
       "file": "missing/F/332229-fairy-tail-2-outfit-set-swimsuit.json"
@@ -106111,6 +106146,11 @@
       "igdb_id": 302380,
       "game_name": "Farmageddon: Undead",
       "file": "missing/F/302380-farmageddon-undead.json"
+    },
+    {
+      "igdb_id": 324471,
+      "game_name": "Farmagia: Buddy Skin Bundle",
+      "file": "missing/F/324471-farmagia-buddy-skin-bundle.json"
     },
     {
       "igdb_id": 348350,
@@ -115351,6 +115391,11 @@
       "igdb_id": 293381,
       "game_name": "Forgotten Magic Tower",
       "file": "missing/F/293381-forgotten-magic-tower.json"
+    },
+    {
+      "igdb_id": 324493,
+      "game_name": "Forgotten Memories",
+      "file": "missing/F/324493-forgotten-memories.json"
     },
     {
       "igdb_id": 207858,
@@ -139983,6 +140028,11 @@
       "file": "missing/H/283177-hentai-golf.json"
     },
     {
+      "igdb_id": 324468,
+      "game_name": "Hentai Golf: Complete +",
+      "file": "missing/H/324468-hentai-golf-complete.json"
+    },
+    {
       "igdb_id": 283178,
       "game_name": "Hentai Golf: Deluxe Edition",
       "file": "missing/H/283178-hentai-golf-deluxe-edition.json"
@@ -146451,6 +146501,21 @@
       "igdb_id": 397700,
       "game_name": "Hostyle",
       "file": "missing/H/397700-hostyle.json"
+    },
+    {
+      "igdb_id": 324490,
+      "game_name": "Hot & Hentai: Beach Yui",
+      "file": "missing/H/324490-hot-and-hentai-beach-yui.json"
+    },
+    {
+      "igdb_id": 324491,
+      "game_name": "Hot & Hentai: Gamer Etsuko",
+      "file": "missing/H/324491-hot-and-hentai-gamer-etsuko.json"
+    },
+    {
+      "igdb_id": 324492,
+      "game_name": "Hot & Hentai: Garden Queen Shirayuki",
+      "file": "missing/H/324492-hot-and-hentai-garden-queen-shirayuki.json"
     },
     {
       "igdb_id": 56454,
@@ -167498,6 +167563,11 @@
       "file": "missing/K/27436-kingdom-two-crowns.json"
     },
     {
+      "igdb_id": 324494,
+      "game_name": "Kingdom Two Crowns: Essentials Pack",
+      "file": "missing/K/324494-kingdom-two-crowns-essentials-pack.json"
+    },
+    {
       "igdb_id": 186896,
       "game_name": "Kingdom Two Crowns: Jarl Edition",
       "file": "missing/K/186896-kingdom-two-crowns-jarl-edition.json"
@@ -171651,6 +171721,26 @@
       "igdb_id": 8123,
       "game_name": "Land of Illusion Starring Mickey Mouse",
       "file": "missing/L/8123-land-of-illusion-starring-mickey-mouse.json"
+    },
+    {
+      "igdb_id": 324497,
+      "game_name": "Land of Mushrooms: Co-Op mode - Play with Friends",
+      "file": "missing/L/324497-land-of-mushrooms-co-op-mode-play-with-friends.json"
+    },
+    {
+      "igdb_id": 324469,
+      "game_name": "Land of Mushrooms: Forest of Nightmares - Background",
+      "file": "missing/L/324469-land-of-mushrooms-forest-of-nightmares-background.json"
+    },
+    {
+      "igdb_id": 324488,
+      "game_name": "Land of Mushrooms: Small Mode - Mini Mushroom Mayhem",
+      "file": "missing/L/324488-land-of-mushrooms-small-mode-mini-mushroom-mayhem.json"
+    },
+    {
+      "igdb_id": 324475,
+      "game_name": "Land of Mushrooms: The Front Yard - Background",
+      "file": "missing/L/324475-land-of-mushrooms-the-front-yard-background.json"
     },
     {
       "igdb_id": 109767,
@@ -189733,6 +189823,21 @@
       "file": "missing/M/195273-masterchef-chinese-food-edition.json"
     },
     {
+      "igdb_id": 324480,
+      "game_name": "MasterChef: Learn to Cook! - Fruits, Nuts & Sweets",
+      "file": "missing/M/324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json"
+    },
+    {
+      "igdb_id": 324481,
+      "game_name": "MasterChef: Learn to Cook! - Meat, Dairy & Seafood",
+      "file": "missing/M/324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json"
+    },
+    {
+      "igdb_id": 324482,
+      "game_name": "MasterChef: Learn to Cook! - Vegetables & Grains",
+      "file": "missing/M/324482-masterchef-learn-to-cook-vegetables-and-grains.json"
+    },
+    {
       "igdb_id": 95406,
       "game_name": "Mastermind",
       "file": "missing/M/95406-mastermind.json"
@@ -197858,6 +197963,11 @@
       "file": "missing/M/325863-minecraft-the-cake-is-a-lie.json"
     },
     {
+      "igdb_id": 324509,
+      "game_name": "Minecraft: The Garden Awakens",
+      "file": "missing/M/324509-minecraft-the-garden-awakens.json"
+    },
+    {
       "igdb_id": 322955,
       "game_name": "Minecraft: The Traveling Trader",
       "file": "missing/M/322955-minecraft-the-traveling-trader.json"
@@ -202238,6 +202348,11 @@
       "file": "missing/M/293931-monster-jam-showdown-day-one-edition.json"
     },
     {
+      "igdb_id": 324483,
+      "game_name": "Monster Jam Showdown: Digatron",
+      "file": "missing/M/324483-monster-jam-showdown-digatron.json"
+    },
+    {
       "igdb_id": 308821,
       "game_name": "Monster Jam Showdown: Law & Disorder",
       "file": "missing/M/308821-monster-jam-showdown-law-and-disorder.json"
@@ -202876,6 +202991,11 @@
       "igdb_id": 45924,
       "game_name": "Monty Python's Invasion from the Planet Skyron",
       "file": "missing/M/45924-monty-pythons-invasion-from-the-planet-skyron.json"
+    },
+    {
+      "igdb_id": 324505,
+      "game_name": "Monty the Komodo Dragon",
+      "file": "missing/M/324505-monty-the-komodo-dragon.json"
     },
     {
       "igdb_id": 260138,
@@ -207583,6 +207703,11 @@
       "file": "missing/M/313488-my-first-date-rpg-oriana-story-two.json"
     },
     {
+      "igdb_id": 324502,
+      "game_name": "My First Gran Turismo",
+      "file": "missing/M/324502-my-first-gran-turismo.json"
+    },
+    {
       "igdb_id": 11019,
       "game_name": "My First Trainz Set",
       "file": "missing/M/11019-my-first-trainz-set.json"
@@ -211188,6 +211313,11 @@
       "file": "missing/N/202401-nauka-prediel.json"
     },
     {
+      "igdb_id": 324516,
+      "game_name": "Nauticell",
+      "file": "missing/N/324516-nauticell.json"
+    },
+    {
       "igdb_id": 329372,
       "game_name": "Nautikin Adventures",
       "file": "missing/N/329372-nautikin-adventures.json"
@@ -214381,6 +214511,11 @@
       "igdb_id": 210035,
       "game_name": "Newspaper Puzzle Challenge: Sudoku Edition",
       "file": "missing/N/210035-newspaper-puzzle-challenge-sudoku-edition.json"
+    },
+    {
+      "igdb_id": 324519,
+      "game_name": "Newsun",
+      "file": "missing/N/324519-newsun.json"
     },
     {
       "igdb_id": 163948,
@@ -232178,6 +232313,11 @@
       "file": "missing/P/302112-penguin-helper.json"
     },
     {
+      "igdb_id": 324506,
+      "game_name": "Penguin Hotel",
+      "file": "missing/P/324506-penguin-hotel.json"
+    },
+    {
       "igdb_id": 333533,
       "game_name": "Penguin Hotel 2: Snake Penguin Ambition",
       "file": "missing/P/333533-penguin-hotel-2-snake-penguin-ambition.json"
@@ -235671,6 +235811,11 @@
       "igdb_id": 395544,
       "game_name": "Pinball FX: Buccaneer",
       "file": "missing/P/395544-pinball-fx-buccaneer.json"
+    },
+    {
+      "igdb_id": 324484,
+      "game_name": "Pinball FX: Camp Bloodbrook",
+      "file": "missing/P/324484-pinball-fx-camp-bloodbrook.json"
     },
     {
       "igdb_id": 308577,
@@ -239613,6 +239758,11 @@
       "file": "missing/P/105906-pocket-hero-wars-of-mini-tanks.json"
     },
     {
+      "igdb_id": 324520,
+      "game_name": "Pocket Hockey",
+      "file": "missing/P/324520-pocket-hockey.json"
+    },
+    {
       "igdb_id": 174870,
       "game_name": "Pocket Hunter Origins",
       "file": "missing/P/174870-pocket-hunter-origins.json"
@@ -241578,6 +241728,11 @@
       "file": "missing/P/278743-polyhop-the-skybound-islands.json"
     },
     {
+      "igdb_id": 324512,
+      "game_name": "Polymega Collection Vol. 2: Karate Champ",
+      "file": "missing/P/324512-polymega-collection-vol-2-karate-champ.json"
+    },
+    {
       "igdb_id": 339810,
       "game_name": "Polymega Collection Vol. 7: Breaker's",
       "file": "missing/P/339810-polymega-collection-vol-7-breakers.json"
@@ -241586,6 +241741,11 @@
       "igdb_id": 339811,
       "game_name": "Polymega Collection Vol. 8: Captain Tomaday",
       "file": "missing/P/339811-polymega-collection-vol-8-captain-tomaday.json"
+    },
+    {
+      "igdb_id": 324511,
+      "game_name": "Polymega Collection Vol.1: Asteroids",
+      "file": "missing/P/324511-polymega-collection-vol-1-asteroids.json"
     },
     {
       "igdb_id": 387511,
@@ -261803,6 +261963,11 @@
       "file": "missing/R/292327-roadway-traffic-racer.json"
     },
     {
+      "igdb_id": 324521,
+      "game_name": "Roam",
+      "file": "missing/R/324521-roam.json"
+    },
+    {
       "igdb_id": 63893,
       "game_name": "Roam",
       "file": "missing/R/63893-roam.json"
@@ -265501,6 +265666,11 @@
       "igdb_id": 86091,
       "game_name": "Rozen Maiden: Wechseln Sie Welt ab",
       "file": "missing/R/86091-rozen-maiden-wechseln-sie-welt-ab.json"
+    },
+    {
+      "igdb_id": 324487,
+      "game_name": "RPG Alchemy: Bestiary I",
+      "file": "missing/R/324487-rpg-alchemy-bestiary-i.json"
     },
     {
       "igdb_id": 61099,
@@ -279233,6 +279403,11 @@
       "file": "missing/S/341868-shopping-clutter-22-haute-couture.json"
     },
     {
+      "igdb_id": 324504,
+      "game_name": "Shopping Clutter 25: Strawberry Thanksgiving",
+      "file": "missing/S/324504-shopping-clutter-25-strawberry-thanksgiving.json"
+    },
+    {
       "igdb_id": 341873,
       "game_name": "Shopping Clutter 26: Christmas Rocks",
       "file": "missing/S/341873-shopping-clutter-26-christmas-rocks.json"
@@ -288533,6 +288708,11 @@
       "file": "missing/S/306355-solstice.json"
     },
     {
+      "igdb_id": 324503,
+      "game_name": "Solstice",
+      "file": "missing/S/324503-solstice.json"
+    },
+    {
       "igdb_id": 137016,
       "game_name": "Solus",
       "file": "missing/S/137016-solus.json"
@@ -291756,6 +291936,16 @@
       "igdb_id": 261145,
       "game_name": "South Park: Snow Day!",
       "file": "missing/S/261145-south-park-snow-day.json"
+    },
+    {
+      "igdb_id": 324489,
+      "game_name": "South Park: Snow Day! - Hammer",
+      "file": "missing/S/324489-south-park-snow-day-hammer.json"
+    },
+    {
+      "igdb_id": 324478,
+      "game_name": "South Park: Snow Day! - Nichole's Home Brew",
+      "file": "missing/S/324478-south-park-snow-day-nicholes-home-brew.json"
     },
     {
       "igdb_id": 11003,
@@ -302663,6 +302853,11 @@
       "file": "missing/S/204697-streamer-future-wars.json"
     },
     {
+      "igdb_id": 324508,
+      "game_name": "Streamer Mini Games Collection",
+      "file": "missing/S/324508-streamer-mini-games-collection.json"
+    },
+    {
       "igdb_id": 384105,
       "game_name": "Streamer Party",
       "file": "missing/S/384105-streamer-party.json"
@@ -308428,6 +308623,11 @@
       "file": "missing/S/255371-super-metroid-cre-3.json"
     },
     {
+      "igdb_id": 324514,
+      "game_name": "Super Metroid Eleven",
+      "file": "missing/S/324514-super-metroid-eleven.json"
+    },
+    {
       "igdb_id": 255322,
       "game_name": "Super Metroid: Airy",
       "file": "missing/S/255322-super-metroid-airy.json"
@@ -312298,6 +312498,11 @@
       "file": "missing/S/287852-sword-art-online-fractured-daydream.json"
     },
     {
+      "igdb_id": 324479,
+      "game_name": "Sword Art Online: Fractured Daydream - Character Pass Vol. 1",
+      "file": "missing/S/324479-sword-art-online-fractured-daydream-character-pass-vol-1.json"
+    },
+    {
       "igdb_id": 308792,
       "game_name": "Sword Art Online: Fractured Daydream - Deluxe Edition",
       "file": "missing/S/308792-sword-art-online-fractured-daydream-deluxe-edition.json"
@@ -312881,6 +313086,11 @@
       "igdb_id": 299760,
       "game_name": "Synapsis 2",
       "file": "missing/S/299760-synapsis-2.json"
+    },
+    {
+      "igdb_id": 324476,
+      "game_name": "Synaxarion Christian Stories: Great Martyr Christina of Tyre",
+      "file": "missing/S/324476-synaxarion-christian-stories-great-martyr-christina-of-tyre.json"
     },
     {
       "igdb_id": 390109,
@@ -318358,6 +318568,16 @@
       "file": "missing/T/328825-tell-me-your-story-complete.json"
     },
     {
+      "igdb_id": 324485,
+      "game_name": "Tell Me Your Story: Porcelain Puzzle 1",
+      "file": "missing/T/324485-tell-me-your-story-porcelain-puzzle-1.json"
+    },
+    {
+      "igdb_id": 324486,
+      "game_name": "Tell Me Your Story: Porcelain Puzzle 2",
+      "file": "missing/T/324486-tell-me-your-story-porcelain-puzzle-2.json"
+    },
+    {
       "igdb_id": 336022,
       "game_name": "Teller's Duty",
       "file": "missing/T/336022-tellers-duty.json"
@@ -319861,6 +320081,11 @@
       "igdb_id": 215383,
       "game_name": "Tetris Deluxe",
       "file": "missing/T/215383-tetris-deluxe.json"
+    },
+    {
+      "igdb_id": 324510,
+      "game_name": "Tetris Dotbas",
+      "file": "missing/T/324510-tetris-dotbas.json"
     },
     {
       "igdb_id": 18599,
@@ -323086,6 +323311,16 @@
       "igdb_id": 154510,
       "game_name": "The Coma 2: Vicious Sisters - Deluxe Edition",
       "file": "missing/T/154510-the-coma-2-vicious-sisters-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 324473,
+      "game_name": "The Coma 2B: Catacomb - The Gamer Youngho",
+      "file": "missing/T/324473-the-coma-2b-catacomb-the-gamer-youngho.json"
+    },
+    {
+      "igdb_id": 324474,
+      "game_name": "The Coma 2B: Catacomb - The Survivalist Youngho",
+      "file": "missing/T/324474-the-coma-2b-catacomb-the-survivalist-youngho.json"
     },
     {
       "igdb_id": 401675,
@@ -365348,6 +365583,11 @@
       "file": "missing/W/123628-waimanu-grinding-block-adventure.json"
     },
     {
+      "igdb_id": 324507,
+      "game_name": "Wait What's That",
+      "file": "missing/W/324507-wait-whats-that.json"
+    },
+    {
       "igdb_id": 312564,
       "game_name": "Wait: The Patient",
       "file": "missing/W/312564-wait-the-patient.json"
@@ -375723,6 +375963,11 @@
       "file": "missing/W/301018-worldneverland-black-modern-wedding-outfit-set.json"
     },
     {
+      "igdb_id": 324496,
+      "game_name": "WorldNeverland: Elnea Kingdom - Fluffy Brown-Rabbit Suit",
+      "file": "missing/W/324496-worldneverland-elnea-kingdom-fluffy-brown-rabbit-suit.json"
+    },
+    {
       "igdb_id": 298593,
       "game_name": "WorldNeverland: White Modern Wedding Outfit Set",
       "file": "missing/W/298593-worldneverland-white-modern-wedding-outfit-set.json"
@@ -378866,6 +379111,11 @@
       "igdb_id": 315494,
       "game_name": "Yohane the Parhelion: Additional character pack vol.3 \"Riko & Mari + Yohane\"",
       "file": "missing/Y/315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json"
+    },
+    {
+      "igdb_id": 324495,
+      "game_name": "Yohane the Parhelion: Costume \"Fluffy Lailaps\"",
+      "file": "missing/Y/324495-yohane-the-parhelion-costume-fluffy-lailaps.json"
     },
     {
       "igdb_id": 315499,
