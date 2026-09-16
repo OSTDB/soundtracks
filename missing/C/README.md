@@ -2543,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Hero: Guitar Hero Tracklist | 294143 | [294143-clone-hero-guitar-hero-tracklist.json](./294143-clone-hero-guitar-hero-tracklist.json) |
 | Clone-A-Doodle-Doo | 357350 | [357350-clone-a-doodle-doo.json](./357350-clone-a-doodle-doo.json) |
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
+| Cloning Chaos | 302489 | [302489-cloning-chaos.json](./302489-cloning-chaos.json) |
 | Clonk 3: Radikal | 46580 | [46580-clonk-3-radikal.json](./46580-clonk-3-radikal.json) |
 | Clonk A.P.E. | 79332 | [79332-clonk-a-p-e.json](./79332-clonk-a-p-e.json) |
 | Clonk Endeavour | 57644 | [57644-clonk-endeavour.json](./57644-clonk-endeavour.json) |
