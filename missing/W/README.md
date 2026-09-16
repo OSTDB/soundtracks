@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When it Rains Red | 382211 | [382211-when-it-rains-red.json](./382211-when-it-rains-red.json) |
 | When It Rains, I Want to Disappear off Somewhere | 243143 | [243143-when-it-rains-i-want-to-disappear-off-somewhere.json](./243143-when-it-rains-i-want-to-disappear-off-somewhere.json) |
 | When Night Comes | 249197 | [249197-when-night-comes.json](./249197-when-night-comes.json) |
+| When Pigs Fly | 317432 | [317432-when-pigs-fly.json](./317432-when-pigs-fly.json) |
 | When Rivers Were Trails | 130405 | [130405-when-rivers-were-trails.json](./130405-when-rivers-were-trails.json) |
 | When Silence Fell | 114428 | [114428-when-silence-fell.json](./114428-when-silence-fell.json) |
 | When Sirens Fall Silent | 380417 | [380417-when-sirens-fall-silent.json](./380417-when-sirens-fall-silent.json) |
@@ -1279,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Gunman | 4625 | [4625-wild-gunman.json](./4625-wild-gunman.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Horizon: Edge of Survival | 333111 | [333111-wild-horizon-edge-of-survival.json](./333111-wild-horizon-edge-of-survival.json) |
+| Wild Hunter: Sniper Rifle Adventures Simulator | 317439 | [317439-wild-hunter-sniper-rifle-adventures-simulator.json](./317439-wild-hunter-sniper-rifle-adventures-simulator.json) |
 | Wild Ice | 166777 | [166777-wild-ice.json](./166777-wild-ice.json) |
 | Wild Indigo Ranch | 199596 | [199596-wild-indigo-ranch.json](./199596-wild-indigo-ranch.json) |
 | Wild Isles | 220642 | [220642-wild-isles.json](./220642-wild-isles.json) |
