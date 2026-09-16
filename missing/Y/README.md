@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
 | Yorg.io | 101699 | [101699-yorg-io.json](./101699-yorg-io.json) |
 | Yorigami Market | 269580 | [269580-yorigami-market.json](./269580-yorigami-market.json) |
+| Yorisoi Delivery | 308924 | [308924-yorisoi-delivery.json](./308924-yorisoi-delivery.json) |
 | Yorkshire's Great Race | 237962 | [237962-yorkshires-great-race.json](./237962-yorkshires-great-race.json) |
 | Yoru no Majin to Ikusa no Kuni: Samayoeru Vampire | 222335 | [222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json](./222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json) |
 | Yorvik's Game | 374610 | [374610-yorviks-game.json](./374610-yorviks-game.json) |
