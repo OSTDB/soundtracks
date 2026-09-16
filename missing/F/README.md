@@ -2255,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Courier: Bike Adventure | 320370 | [320370-food-courier-bike-adventure.json](./320370-food-courier-bike-adventure.json) |
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
 | Food Drive | 109721 | [109721-food-drive.json](./109721-food-drive.json) |
+| Food Fight | 316255 | [316255-food-fight.json](./316255-food-fight.json) |
 | Food Fight | 357318 | [357318-food-fight.json](./357318-food-fight.json) |
 | Food Frenzy | 209465 | [209465-food-frenzy.json](./209465-food-frenzy.json) |
 | Food From a Stranger | 378211 | [378211-food-from-a-stranger.json](./378211-food-from-a-stranger.json) |
