@@ -3019,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
 | Hunter Desert Simulator: Sniper Rifle | 409533 | [409533-hunter-desert-simulator-sniper-rifle.json](./409533-hunter-desert-simulator-sniper-rifle.json) |
 | Hunter Hitman | 340494 | [340494-hunter-hitman.json](./340494-hunter-hitman.json) |
+| Hunter in the Lost Forest | 293202 | [293202-hunter-in-the-lost-forest.json](./293202-hunter-in-the-lost-forest.json) |
 | Hunter Island: Monsters & Dragons | 200113 | [200113-hunter-island-monsters-and-dragons.json](./200113-hunter-island-monsters-and-dragons.json) |
 | Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
 | Hunter x Hunter: Nen x Impact | 281740 | [281740-hunter-x-hunter-nen-x-impact.json](./281740-hunter-x-hunter-nen-x-impact.json) |
