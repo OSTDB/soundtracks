@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacchanalia | 227880 | [227880-bacchanalia.json](./227880-bacchanalia.json) |
 | Bacchus | 121626 | [121626-bacchus.json](./121626-bacchus.json) |
 | Bachelairs | 331357 | [331357-bachelairs.json](./331357-bachelairs.json) |
+| Back | 309502 | [309502-back.json](./309502-back.json) |
 | Back 2 School | 192417 | [192417-back-2-school.json](./192417-back-2-school.json) |
 | Back 4 Blood: Annual Pass | 293917 | [293917-back-4-blood-annual-pass.json](./293917-back-4-blood-annual-pass.json) |
 | Back 4 Blood: Children of the Worm | 215136 | [215136-back-4-blood-children-of-the-worm.json](./215136-back-4-blood-children-of-the-worm.json) |
@@ -172,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackRooms's 1995 The Lost Footage: Chapter 1 | 298562 | [298562-backroomss-1995-the-lost-footage-chapter-1.json](./298562-backroomss-1995-the-lost-footage-chapter-1.json) |
 | Backseat Drivers | 342047 | [342047-backseat-drivers.json](./342047-backseat-drivers.json) |
 | BackSlap | 349318 | [349318-backslap.json](./349318-backslap.json) |
+| Backspace Backspace Backspace | 309500 | [309500-backspace-backspace-backspace.json](./309500-backspace-backspace-backspace.json) |
 | BackStab HD | 19257 | [19257-backstab-hd.json](./19257-backstab-hd.json) |
 | Backstage | 206727 | [206727-backstage.json](./206727-backstage.json) |
 | Backstage at Naked Porn Battle | 280204 | [280204-backstage-at-naked-porn-battle.json](./280204-backstage-at-naked-porn-battle.json) |
@@ -472,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Party | 390008 | [390008-banana-party.json](./390008-banana-party.json) |
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
+| Banana-Shaped | 309490 | [309490-banana-shaped.json](./309490-banana-shaped.json) |
 | Bananamana | 314257 | [314257-bananamana.json](./314257-bananamana.json) |
 | Bananarun | 157698 | [157698-bananarun.json](./157698-bananarun.json) |
 | Bananas in Pajamas: It's Fun Time | 221980 | [221980-bananas-in-pajamas-its-fun-time.json](./221980-bananas-in-pajamas-its-fun-time.json) |
@@ -851,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketballverse | 275021 | [275021-basketballverse.json](./275021-basketballverse.json) |
 | Basketbrawl | 11867 | [11867-basketbrawl.json](./11867-basketbrawl.json) |
 | Baspetball | 346584 | [346584-baspetball.json](./346584-baspetball.json) |
+| Bass Defense | 309538 | [309538-bass-defense.json](./309538-bass-defense.json) |
 | Bass Fisherman | 298859 | [298859-bass-fisherman.json](./298859-bass-fisherman.json) |
 | Bass Harrier | 349877 | [349877-bass-harrier.json](./349877-bass-harrier.json) |
 | Bass Invaders | 380001 | [380001-bass-invaders.json](./380001-bass-invaders.json) |
@@ -3350,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bop It! Tetris | 229069 | [229069-bop-it-tetris.json](./229069-bop-it-tetris.json) |
 | Bop'n Rumble | 47219 | [47219-bopn-rumble.json](./47219-bopn-rumble.json) |
 | Bopimo! | 325696 | [325696-bopimo.json](./325696-bopimo.json) |
+| Bopp File | 309537 | [309537-bopp-file.json](./309537-bopp-file.json) |
 | Boppin' | 14333 | [14333-boppin.json](./14333-boppin.json) |
 | Borbo's Quest | 178582 | [178582-borbos-quest.json](./178582-borbos-quest.json) |
 | Border Break | 81218 | [81218-border-break.json](./81218-border-break.json) |
@@ -4518,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushfires: Animal Rescue | 163925 | [163925-bushfires-animal-rescue.json](./163925-bushfires-animal-rescue.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
 | Business 98 | 391200 | [391200-business-98.json](./391200-business-98.json) |
+| Business Empire Tycoon | 309489 | [309489-business-empire-tycoon.json](./309489-business-empire-tycoon.json) |
 | Business Empire: RichMan | 280220 | [280220-business-empire-richman.json](./280220-business-empire-richman.json) |
 | Business Management | 400853 | [400853-business-management.json](./400853-business-management.json) |
 | Business Ryoku Kentei DS | 70410 | [70410-business-ryoku-kentei-ds.json](./70410-business-ryoku-kentei-ds.json) |
