@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher-Price: Big Action Garage | 70360 | [70360-fisher-price-big-action-garage.json](./70360-fisher-price-big-action-garage.json) |
 | Fisher-Price: I Can Remember | 26659 | [26659-fisher-price-i-can-remember.json](./26659-fisher-price-i-can-remember.json) |
 | Fisher-Price: Time To Play - Pet Shop | 283677 | [283677-fisher-price-time-to-play-pet-shop.json](./283677-fisher-price-time-to-play-pet-shop.json) |
+| Fisherman | 326247 | [326247-fisherman.json](./326247-fisherman.json) |
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishes and Barrels | 244797 | [244797-fishes-and-barrels.json](./244797-fishes-and-barrels.json) |
