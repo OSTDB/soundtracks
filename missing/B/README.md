@@ -2360,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
+| Blackjack Tavern | 325071 | [325071-blackjack-tavern.json](./325071-blackjack-tavern.json) |
 | Blackjack Wars | 372984 | [372984-blackjack-wars.json](./372984-blackjack-wars.json) |
 | BlackJack: Daily 21 Points | 87143 | [87143-blackjack-daily-21-points.json](./87143-blackjack-daily-21-points.json) |
 | Blackjack/Poker/Acey-Deucey | 100176 | [100176-blackjack-poker-acey-deucey.json](./100176-blackjack-poker-acey-deucey.json) |
