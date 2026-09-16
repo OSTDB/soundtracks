@@ -3102,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
 | Froojarspootz! The Cleaning Monster | 387513 | [387513-froojarspootz-the-cleaning-monster.json](./387513-froojarspootz-the-cleaning-monster.json) |
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
+| Frost Bite | 317454 | [317454-frost-bite.json](./317454-frost-bite.json) |
 | Frost Byte | 12108 | [12108-frost-byte.json](./12108-frost-byte.json) |
 | Frost Dragon in Adventure Land | 188033 | [188033-frost-dragon-in-adventure-land.json](./188033-frost-dragon-in-adventure-land.json) |
 | Frost Dragon in Wonder Land | 199633 | [199633-frost-dragon-in-wonder-land.json](./199633-frost-dragon-in-wonder-land.json) |
