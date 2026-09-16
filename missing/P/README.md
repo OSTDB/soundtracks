@@ -1257,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Crossing | 310034 | [310034-pet-crossing.json](./310034-pet-crossing.json) |
 | Pet Cube: Tower Stack | 242211 | [242211-pet-cube-tower-stack.json](./242211-pet-cube-tower-stack.json) |
 | Pet Dog | 178682 | [178682-pet-dog.json](./178682-pet-dog.json) |
+| Pet Grooming Studio | 293207 | [293207-pet-grooming-studio.json](./293207-pet-grooming-studio.json) |
 | Pet Kawaii Shop | 317211 | [317211-pet-kawaii-shop.json](./317211-pet-kawaii-shop.json) |
 | Pet Monsters | 55936 | [55936-pet-monsters.json](./55936-pet-monsters.json) |
 | Pet Oddities: Desktop Shelter | 372461 | [372461-pet-oddities-desktop-shelter.json](./372461-pet-oddities-desktop-shelter.json) |
