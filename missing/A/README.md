@@ -631,7 +631,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
-| AI Protocol | 393603 | [393603-ai-protocol.json](./393603-ai-protocol.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
 | AI Shogi 2003 | 269328 | [269328-ai-shogi-2003.json](./269328-ai-shogi-2003.json) |
 | AI Solitaire: Handsome Heroes | 304005 | [304005-ai-solitaire-handsome-heroes.json](./304005-ai-solitaire-handsome-heroes.json) |
@@ -791,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Tycoon 2 | 78040 | [78040-airport-tycoon-2.json](./78040-airport-tycoon-2.json) |
 | Airport Tycoon 3 | 69843 | [69843-airport-tycoon-3.json](./69843-airport-tycoon-3.json) |
 | Airport Wars ll | 52565 | [52565-airport-wars-ll.json](./52565-airport-wars-ll.json) |
+| Airport X-Ray Simulator | 309511 | [309511-airport-x-ray-simulator.json](./309511-airport-x-ray-simulator.json) |
 | Airranger | 122978 | [122978-airranger.json](./122978-airranger.json) |
 | AirRevo | 187453 | [187453-airrevo.json](./187453-airrevo.json) |
 | Airsoft Range | 312192 | [312192-airsoft-range.json](./312192-airsoft-range.json) |
@@ -2096,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Crabs Treasure Prototype | 371331 | [371331-another-crabs-treasure-prototype.json](./371331-another-crabs-treasure-prototype.json) |
 | Another Day | 254143 | [254143-another-day.json](./254143-another-day.json) |
 | Another Day of Chikan! Vol7 Cool Beauty Schoolgirl in a Band | 82931 | [82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json](./82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json) |
+| Another Day with You | 309519 | [309519-another-day-with-you.json](./309519-another-day-with-you.json) |
 | Another Day? | 409695 | [409695-another-day.json](./409695-another-day.json) |
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
 | Another Game About Clicking | 348859 | [348859-another-game-about-clicking.json](./348859-another-game-about-clicking.json) |
@@ -2782,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: Glove of Midas - Collector's Edition | 357336 | [357336-argonauts-agency-glove-of-midas-collectors-edition.json](./357336-argonauts-agency-glove-of-midas-collectors-edition.json) |
 | Argonauts Agency: Pandora's Box | 117094 | [117094-argonauts-agency-pandoras-box.json](./117094-argonauts-agency-pandoras-box.json) |
 | Argonauts Agency: When Spring Withered | 412260 | [412260-argonauts-agency-when-spring-withered.json](./412260-argonauts-agency-when-spring-withered.json) |
+| Argonauts Path | 309492 | [309492-argonauts-path.json](./309492-argonauts-path.json) |
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
 | Argosy | 408092 | [408092-argosy.json](./408092-argosy.json) |
 | Argument Wars | 207833 | [207833-argument-wars.json](./207833-argument-wars.json) |
