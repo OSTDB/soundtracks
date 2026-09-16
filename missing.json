@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T10:04:05.822Z",
-  "total_missing": 77522,
+  "generated_at": "2026-09-16T10:11:40.297Z",
+  "total_missing": 77521,
   "games": [
     {
       "igdb_id": 306086,
@@ -5951,11 +5951,6 @@
       "igdb_id": 274510,
       "game_name": "Agritopia",
       "file": "missing/A/274510-agritopia.json"
-    },
-    {
-      "igdb_id": 386117,
-      "game_name": "Agrivore",
-      "file": "missing/A/386117-agrivore.json"
     },
     {
       "igdb_id": 374613,
