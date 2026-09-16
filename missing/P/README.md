@@ -460,6 +460,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papiny Dochki | 188598 | [188598-papiny-dochki.json](./188598-papiny-dochki.json) |
 | PapiTap | 87528 | [87528-papitap.json](./87528-papitap.json) |
 | Papo & Yo | 7388 | [7388-papo-and-yo.json](./7388-papo-and-yo.json) |
+| Papo Learn & Play | 299275 | [299275-papo-learn-and-play.json](./299275-papo-learn-and-play.json) |
+| Papo Town Build Stories | 299258 | [299258-papo-town-build-stories.json](./299258-papo-town-build-stories.json) |
+| Papo Town Countries | 299283 | [299283-papo-town-countries.json](./299283-papo-town-countries.json) |
+| Papo Town Dessert Shop | 299276 | [299276-papo-town-dessert-shop.json](./299276-papo-town-dessert-shop.json) |
+| Papo Town Food Street | 299277 | [299277-papo-town-food-street.json](./299277-papo-town-food-street.json) |
+| Papo Town Happy Festival | 299280 | [299280-papo-town-happy-festival.json](./299280-papo-town-happy-festival.json) |
+| Papo Town History Discovery China | 299273 | [299273-papo-town-history-discovery-china.json](./299273-papo-town-history-discovery-china.json) |
+| Papo Town Museum | 299256 | [299256-papo-town-museum.json](./299256-papo-town-museum.json) |
+| Papo Town Pop Star | 299257 | [299257-papo-town-pop-star.json](./299257-papo-town-pop-star.json) |
+| Papo Town Preschool | 299255 | [299255-papo-town-preschool.json](./299255-papo-town-preschool.json) |
+| Papo Town Restaurant | 299278 | [299278-papo-town-restaurant.json](./299278-papo-town-restaurant.json) |
+| Papo Town Seasons | 299259 | [299259-papo-town-seasons.json](./299259-papo-town-seasons.json) |
+| Papo Town Space Explorer | 299254 | [299254-papo-town-space-explorer.json](./299254-papo-town-space-explorer.json) |
+| Papo Town Spaceship | 299286 | [299286-papo-town-spaceship.json](./299286-papo-town-spaceship.json) |
+| Papo Town Spring Festival | 299260 | [299260-papo-town-spring-festival.json](./299260-papo-town-spring-festival.json) |
+| Papo Town Wedding Party | 299253 | [299253-papo-town-wedding-party.json](./299253-papo-town-wedding-party.json) |
+| Papo Town: Baby Nursery | 299271 | [299271-papo-town-baby-nursery.json](./299271-papo-town-baby-nursery.json) |
+| Papo Town: Hospital Story | 299279 | [299279-papo-town-hospital-story.json](./299279-papo-town-hospital-story.json) |
+| Papo Town: Ocean Park | 299281 | [299281-papo-town-ocean-park.json](./299281-papo-town-ocean-park.json) |
+| Papo Town: Sweet Home | 299270 | [299270-papo-town-sweet-home.json](./299270-papo-town-sweet-home.json) |
+| Papo World Dinosaur Island | 299272 | [299272-papo-world-dinosaur-island.json](./299272-papo-world-dinosaur-island.json) |
 | Paprium | 55107 | [55107-paprium.json](./55107-paprium.json) |
 | Papuan Dominatrixes Are the Best | 385704 | [385704-papuan-dominatrixes-are-the-best.json](./385704-papuan-dominatrixes-are-the-best.json) |
 | Papyrus | 49864 | [49864-papyrus.json](./49864-papyrus.json) |
@@ -4343,6 +4364,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puroma | 410980 | [410980-puroma.json](./410980-puroma.json) |
 | Purple Chicken Spaceman | 117777 | [117777-purple-chicken-spaceman.json](./117777-purple-chicken-spaceman.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
+| Purple Pink Coloring Book | 299282 | [299282-purple-pink-coloring-book.json](./299282-purple-pink-coloring-book.json) |
+| Purple Pink English | 299284 | [299284-purple-pink-english.json](./299284-purple-pink-english.json) |
+| Purple Pink Game Box | 299285 | [299285-purple-pink-game-box.json](./299285-purple-pink-game-box.json) |
+| Purple Pink Jobs Mix | 299287 | [299287-purple-pink-jobs-mix.json](./299287-purple-pink-jobs-mix.json) |
+| Purple Pink Math | 299274 | [299274-purple-pink-math.json](./299274-purple-pink-math.json) |
 | Purple Slime Production Line | 298581 | [298581-purple-slime-production-line.json](./298581-purple-slime-production-line.json) |
 | Purple Turtles | 62685 | [62685-purple-turtles.json](./62685-purple-turtles.json) |
 | Purple War | 198541 | [198541-purple-war.json](./198541-purple-war.json) |
