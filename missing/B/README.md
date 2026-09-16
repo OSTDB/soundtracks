@@ -2371,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack and Pomodoro Mystery | 319015 | [319015-blackjack-and-pomodoro-mystery.json](./319015-blackjack-and-pomodoro-mystery.json) |
 | Blackjack Avenue | 205030 | [205030-blackjack-avenue.json](./205030-blackjack-avenue.json) |
 | Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
+| Blackjack Elf | 313895 | [313895-blackjack-elf.json](./313895-blackjack-elf.json) |
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
 | Blackjack Tavern | 325071 | [325071-blackjack-tavern.json](./325071-blackjack-tavern.json) |
