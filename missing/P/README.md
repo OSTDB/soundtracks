@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Engine Best Collection: Tengai Makyou Collection | 62136 | [62136-pc-engine-best-collection-tengai-makyou-collection.json](./62136-pc-engine-best-collection-tengai-makyou-collection.json) |
 | PC Fútbol 2000 | 78034 | [78034-pc-futbol-2000.json](./78034-pc-futbol-2000.json) |
 | PC Fútbol 7 | 98942 | [98942-pc-futbol-7.json](./98942-pc-futbol-7.json) |
+| PC Futbol 8 | 298143 | [298143-pc-futbol-8.json](./298143-pc-futbol-8.json) |
 | PC Fútbol Edición Oro | 86018 | [86018-pc-futbol-edicion-oro.json](./86018-pc-futbol-edicion-oro.json) |
 | PC Fútbol Selección Española Europa 2000 | 98953 | [98953-pc-futbol-seleccion-espanola-europa-2000.json](./98953-pc-futbol-seleccion-espanola-europa-2000.json) |
 | PC Install Girl | 337177 | [337177-pc-install-girl.json](./337177-pc-install-girl.json) |
@@ -1837,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pine Racer | 244808 | [244808-pine-racer.json](./244808-pine-racer.json) |
 | Pine: A Story of Loss | 300365 | [300365-pine-a-story-of-loss.json](./300365-pine-a-story-of-loss.json) |
 | Pineapple | 311242 | [311242-pineapple.json](./311242-pineapple.json) |
+| Pineapple Defense | 298152 | [298152-pineapple-defense.json](./298152-pineapple-defense.json) |
 | Pineapple Panic! | 337652 | [337652-pineapple-panic.json](./337652-pineapple-panic.json) |
 | Pineapple Smash Crew | 16330 | [16330-pineapple-smash-crew.json](./16330-pineapple-smash-crew.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
@@ -2143,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Survivors: Defense | 374632 | [374632-pixel-survivors-defense.json](./374632-pixel-survivors-defense.json) |
 | Pixel Sweepers | 259244 | [259244-pixel-sweepers.json](./259244-pixel-sweepers.json) |
 | Pixel Theory: Leviatán | 325711 | [325711-pixel-theory-leviatan.json](./325711-pixel-theory-leviatan.json) |
+| Pixel Town: Akanemachi Sideshow | 298162 | [298162-pixel-town-akanemachi-sideshow.json](./298162-pixel-town-akanemachi-sideshow.json) |
 | Pixel Traffic: Highway Racing | 102216 | [102216-pixel-traffic-highway-racing.json](./102216-pixel-traffic-highway-racing.json) |
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
 | Pixel Whirled | 66640 | [66640-pixel-whirled.json](./66640-pixel-whirled.json) |
@@ -4636,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
 | Pythian | 163922 | [163922-pythian.json](./163922-pythian.json) |
 | Pytho's Mask | 60016 | [60016-pythos-mask.json](./60016-pythos-mask.json) |
+| Pythonmancer | 298161 | [298161-pythonmancer.json](./298161-pythonmancer.json) |
 | PyWright Tutorial | 303767 | [303767-pywright-tutorial.json](./303767-pywright-tutorial.json) |
 | Pyxel Knight | 159850 | [159850-pyxel-knight.json](./159850-pyxel-knight.json) |
 | Pyxel Knight - Engagement Quest | 22348 | [22348-pyxel-knight-engagement-quest.json](./22348-pyxel-knight-engagement-quest.json) |
