@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zack Y | 109724 | [109724-zack-y.json](./109724-zack-y.json) |
 | Zadel Princess | 191827 | [191827-zadel-princess.json](./191827-zadel-princess.json) |
 | Zafe's Adventures | 316423 | [316423-zafes-adventures.json](./316423-zafes-adventures.json) |
+| Zag | 301967 | [301967-zag.json](./301967-zag.json) |
 | Zaga-33 | 22334 | [22334-zaga-33.json](./22334-zaga-33.json) |
 | Zagadki Tigrenka Usika | 188599 | [188599-zagadki-tigrenka-usika.json](./188599-zagadki-tigrenka-usika.json) |
 | Zagan Must Be Rescued | 163907 | [163907-zagan-must-be-rescued.json](./163907-zagan-must-be-rescued.json) |
