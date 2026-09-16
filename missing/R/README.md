@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragtag Heroes | 211765 | [211765-ragtag-heroes.json](./211765-ragtag-heroes.json) |
 | Rai-Net Access Battlers | 299721 | [299721-rai-net-access-battlers.json](./299721-rai-net-access-battlers.json) |
 | Raid 2000 | 30955 | [30955-raid-2000.json](./30955-raid-2000.json) |
+| Raid Arena | 313305 | [313305-raid-arena.json](./313305-raid-arena.json) |
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
 | Raid Leader | 237385 | [237385-raid-leader.json](./237385-raid-leader.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
@@ -667,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit 1 | 80516 | [80516-reader-rabbit-1.json](./80516-reader-rabbit-1.json) |
 | Reader Rabbit 1st Grade | 88280 | [88280-reader-rabbit-1st-grade.json](./88280-reader-rabbit-1st-grade.json) |
 | Reader Rabbit 2 | 73302 | [73302-reader-rabbit-2.json](./73302-reader-rabbit-2.json) |
+| Reader Rabbit Math Adventures Ages 4-6 | 313291 | [313291-reader-rabbit-math-adventures-ages-4-6.json](./313291-reader-rabbit-math-adventures-ages-4-6.json) |
 | Reader Rabbit: Kindergarten | 67333 | [67333-reader-rabbit-kindergarten.json](./67333-reader-rabbit-kindergarten.json) |
 | Reader Rabbit's Toddler | 73297 | [73297-reader-rabbits-toddler.json](./73297-reader-rabbits-toddler.json) |
 | Reading Raven | 104090 | [104090-reading-raven.json](./104090-reading-raven.json) |
@@ -1283,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rent a Girl | 350491 | [350491-rent-a-girl.json](./350491-rent-a-girl.json) |
 | Rent a Girlfriend: The Horizon Line and Her in a Swimsuit | 323726 | [323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json](./323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json) |
 | Rent Please!: Landlord Sim | 247214 | [247214-rent-please-landlord-sim.json](./247214-rent-please-landlord-sim.json) |
+| Rental House | 313336 | [313336-rental-house.json](./313336-rental-house.json) |
 | Renters Revenge | 75177 | [75177-renters-revenge.json](./75177-renters-revenge.json) |
 | Rento Fortune: Dice Configurator | 298335 | [298335-rento-fortune-dice-configurator.json](./298335-rento-fortune-dice-configurator.json) |
 | RentoFortune | 187545 | [187545-rentofortune.json](./187545-rentofortune.json) |
@@ -2117,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Cafe Simulator | 351028 | [351028-road-cafe-simulator.json](./351028-road-cafe-simulator.json) |
 | Road Champs: BXS Stunt Biking | 49907 | [49907-road-champs-bxs-stunt-biking.json](./49907-road-champs-bxs-stunt-biking.json) |
 | Road Chase | 105894 | [105894-road-chase.json](./105894-road-chase.json) |
+| Road Construction Ahead | 313294 | [313294-road-construction-ahead.json](./313294-road-construction-ahead.json) |
 | Road Dealer Simulator | 253571 | [253571-road-dealer-simulator.json](./253571-road-dealer-simulator.json) |
 | Road Fighter | 4607 | [4607-road-fighter.json](./4607-road-fighter.json) |
 | Road Hog! | 84245 | [84245-road-hog.json](./84245-road-hog.json) |
