@@ -2061,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of Nollyn | 276193 | [276193-eye-of-nollyn.json](./276193-eye-of-nollyn.json) |
 | Eye of Ra | 133992 | [133992-eye-of-ra.json](./133992-eye-of-ra.json) |
 | Eye of Saccharine | 249187 | [249187-eye-of-saccharine.json](./249187-eye-of-saccharine.json) |
+| Eye of the Beholder | 292686 | [292686-eye-of-the-beholder.json](./292686-eye-of-the-beholder.json) |
 | Eye of the Match | 393659 | [393659-eye-of-the-match.json](./393659-eye-of-the-match.json) |
 | Eye of the Storm | 299731 | [299731-eye-of-the-storm.json](./299731-eye-of-the-storm.json) |
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
