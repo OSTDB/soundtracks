@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T13:19:15.459Z",
-  "total_missing": 78093,
+  "generated_at": "2026-09-16T13:21:46.714Z",
+  "total_missing": 78092,
   "games": [
     {
       "igdb_id": 306086,
@@ -6046,11 +6046,6 @@
       "igdb_id": 269327,
       "game_name": "AI Mahjong 2003",
       "file": "missing/A/269327-ai-mahjong-2003.json"
-    },
-    {
-      "igdb_id": 349952,
-      "game_name": "AI Mahjong Selection",
-      "file": "missing/A/349952-ai-mahjong-selection.json"
     },
     {
       "igdb_id": 350489,
