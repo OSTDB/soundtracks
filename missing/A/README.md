@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aircraft War: Extra Level Pack 2 | 263196 | [263196-aircraft-war-extra-level-pack-2.json](./263196-aircraft-war-extra-level-pack-2.json) |
 | Aircraft Wars | 341580 | [341580-aircraft-wars.json](./341580-aircraft-wars.json) |
 | Aircrafter | 379858 | [379858-aircrafter.json](./379858-aircrafter.json) |
+| Aireo Flight Simulator 2025 Edition | 328579 | [328579-aireo-flight-simulator-2025-edition.json](./328579-aireo-flight-simulator-2025-edition.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
 | AirFMC | 90201 | [90201-airfmc.json](./90201-airfmc.json) |
 | Airforce Delta | 47285 | [47285-airforce-delta.json](./47285-airforce-delta.json) |
@@ -795,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
 | Airplane Attack | 358847 | [358847-airplane-attack.json](./358847-airplane-attack.json) |
 | Airplane Flight Simulator | 251630 | [251630-airplane-flight-simulator.json](./251630-airplane-flight-simulator.json) |
+| Airplane Flight Simulator: Dangerous Landings | 328580 | [328580-airplane-flight-simulator-dangerous-landings.json](./328580-airplane-flight-simulator-dangerous-landings.json) |
 | Airplane Mode | 126434 | [126434-airplane-mode.json](./126434-airplane-mode.json) |
 | Airplane Parking Mania 3D | 239320 | [239320-airplane-parking-mania-3d.json](./239320-airplane-parking-mania-3d.json) |
 | Airplane Tycoon | 306638 | [306638-airplane-tycoon.json](./306638-airplane-tycoon.json) |
@@ -1030,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Windowland | 218120 | [218120-alice-in-windowland.json](./218120-alice-in-windowland.json) |
 | Alice in Wonderland | 175929 | [175929-alice-in-wonderland.json](./175929-alice-in-wonderland.json) |
 | Alice in Wonderland | 196846 | [196846-alice-in-wonderland.json](./196846-alice-in-wonderland.json) |
+| Alice in Wonderland: Magical Labyrinth | 328575 | [328575-alice-in-wonderland-magical-labyrinth.json](./328575-alice-in-wonderland-magical-labyrinth.json) |
 | Alice Landing | 390651 | [390651-alice-landing.json](./390651-alice-landing.json) |
 | Alice Mesmerizing Episodes of Neurosis: AMEN | 328218 | [328218-alice-mesmerizing-episodes-of-neurosis-amen.json](./328218-alice-mesmerizing-episodes-of-neurosis-amen.json) |
 | Alice Order | 219815 | [219815-alice-order.json](./219815-alice-order.json) |
@@ -1256,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Baseball 2001 | 69229 | [69229-all-star-baseball-2001.json](./69229-all-star-baseball-2001.json) |
 | All-Star Baseball 2003 | 11557 | [11557-all-star-baseball-2003.json](./11557-all-star-baseball-2003.json) |
 | All-Star Slammin' D-Ball | 43929 | [43929-all-star-slammin-d-ball.json](./43929-all-star-slammin-d-ball.json) |
+| All-Star Supermarket Simulator: Vinyl Vibes | 328573 | [328573-all-star-supermarket-simulator-vinyl-vibes.json](./328573-all-star-supermarket-simulator-vinyl-vibes.json) |
 | All‑Stars 4‑Game Collection | 396440 | [396440-all-stars-4-game-collection.json](./396440-all-stars-4-game-collection.json) |
 | Alla Prima | 207315 | [207315-alla-prima.json](./207315-alla-prima.json) |
 | Allakin | 217307 | [217307-allakin.json](./217307-allakin.json) |
@@ -1973,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: College Love | 378779 | [378779-anime-girls-college-love.json](./378779-anime-girls-college-love.json) |
 | Anime Girls: Extended Edition | 277305 | [277305-anime-girls-extended-edition.json](./277305-anime-girls-extended-edition.json) |
 | Anime Girls: Lady Liberty | 314880 | [314880-anime-girls-lady-liberty.json](./314880-anime-girls-lady-liberty.json) |
+| Anime Girls: Natty New Year | 328572 | [328572-anime-girls-natty-new-year.json](./328572-anime-girls-natty-new-year.json) |
 | Anime Girls: Nimble Ninja | 362370 | [362370-anime-girls-nimble-ninja.json](./362370-anime-girls-nimble-ninja.json) |
 | Anime Girls: Stellar Invasion | 396432 | [396432-anime-girls-stellar-invasion.json](./396432-anime-girls-stellar-invasion.json) |
 | Anime Girls: Tactical Assault | 402306 | [402306-anime-girls-tactical-assault.json](./402306-anime-girls-tactical-assault.json) |
@@ -2019,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anna's Quest | 11367 | [11367-annas-quest.json](./11367-annas-quest.json) |
 | Annabel Gray | 15596 | [15596-annabel-gray.json](./15596-annabel-gray.json) |
 | Annapurna Interactive Deluxe Limited Edition | 138780 | [138780-annapurna-interactive-deluxe-limited-edition.json](./138780-annapurna-interactive-deluxe-limited-edition.json) |
+| Anne's Zombie Odyssey | 328574 | [328574-annes-zombie-odyssey.json](./328574-annes-zombie-odyssey.json) |
 | Annelids | 57118 | [57118-annelids.json](./57118-annelids.json) |
 | Annexation | 404838 | [404838-annexation.json](./404838-annexation.json) |
 | Annie and the AI | 223489 | [223489-annie-and-the-ai.json](./223489-annie-and-the-ai.json) |
@@ -2319,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apotheosis Engine | 399701 | [399701-apotheosis-engine.json](./399701-apotheosis-engine.json) |
 | Apox: Legend | 167853 | [167853-apox-legend.json](./167853-apox-legend.json) |
 | App Co Tycoon | 211438 | [211438-app-co-tycoon.json](./211438-app-co-tycoon.json) |
+| App Driver + John The Zombie | 328571 | [328571-app-driver-john-the-zombie.json](./328571-app-driver-john-the-zombie.json) |
 | App Empire Tycoon | 363957 | [363957-app-empire-tycoon.json](./363957-app-empire-tycoon.json) |
 | Appa | 367951 | [367951-appa.json](./367951-appa.json) |
 | Appalachian Onslaught | 399090 | [399090-appalachian-onslaught.json](./399090-appalachian-onslaught.json) |
