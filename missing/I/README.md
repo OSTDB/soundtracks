@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In The Dark 2 | 307743 | [307743-in-the-dark-2.json](./307743-in-the-dark-2.json) |
 | In the Dead of Night | 73287 | [73287-in-the-dead-of-night.json](./73287-in-the-dead-of-night.json) |
 | In the Drift | 404847 | [404847-in-the-drift.json](./404847-in-the-drift.json) |
+| In the Drink | 288876 | [288876-in-the-drink.json](./288876-in-the-drink.json) |
 | In the Grass | 212289 | [212289-in-the-grass.json](./212289-in-the-grass.json) |
 | In the Grave Wood | 183599 | [183599-in-the-grave-wood.json](./183599-in-the-grave-wood.json) |
 | In the Intrigue of the Ratings | 145694 | [145694-in-the-intrigue-of-the-ratings.json](./145694-in-the-intrigue-of-the-ratings.json) |
