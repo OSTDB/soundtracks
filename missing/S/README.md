@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Gifts Load | 378769 | [378769-santas-gifts-load.json](./378769-santas-gifts-load.json) |
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
 | Santa's Spot It | 317227 | [317227-santas-spot-it.json](./317227-santas-spot-it.json) |
+| Santa's Spot It + Exit Station 7 + Find Room 96 + HighScore Anomaly Shop +HighScore Anomaly Underground | 319775 | [319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json](./319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json) |
 | Santa's Workshop | 343787 | [343787-santas-workshop.json](./343787-santas-workshop.json) |
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
 | Santa's Xmas Adventure | 138194 | [138194-santas-xmas-adventure.json](./138194-santas-xmas-adventure.json) |
@@ -3053,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy | 54461 | [54461-sketchy.json](./54461-sketchy.json) |
 | Sketchy 2 | 54460 | [54460-sketchy-2.json](./54460-sketchy-2.json) |
 | Sketchy Fables | 152846 | [152846-sketchy-fables.json](./152846-sketchy-fables.json) |
+| Sketchy Marathon | 319799 | [319799-sketchy-marathon.json](./319799-sketchy-marathon.json) |
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
 | Ski Jump International v2 | 342080 | [342080-ski-jump-international-v2.json](./342080-ski-jump-international-v2.json) |
 | Ski Race | 64365 | [64365-ski-race.json](./64365-ski-race.json) |
@@ -3374,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | Slide 2 Solve Puzzle | 175341 | [175341-slide-2-solve-puzzle.json](./175341-slide-2-solve-puzzle.json) |
 | Slide Defenders | 334079 | [334079-slide-defenders.json](./334079-slide-defenders.json) |
+| Slide Faster | 319795 | [319795-slide-faster.json](./319795-slide-faster.json) |
 | Slide Golf Mini | 234054 | [234054-slide-golf-mini.json](./234054-slide-golf-mini.json) |
 | Slide Hexagon | 358312 | [358312-slide-hexagon.json](./358312-slide-hexagon.json) |
 | Slide On Ice | 243714 | [243714-slide-on-ice.json](./243714-slide-on-ice.json) |
@@ -8614,6 +8617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Cola Dash Classic | 374666 | [374666-supermarket-cola-dash-classic.json](./374666-supermarket-cola-dash-classic.json) |
 | Supermarket Cola Dash Deluxe! | 374667 | [374667-supermarket-cola-dash-deluxe.json](./374667-supermarket-cola-dash-deluxe.json) |
 | Supermarket Duck Dash | 221160 | [221160-supermarket-duck-dash.json](./221160-supermarket-duck-dash.json) |
+| Supermarket Grocery Simulator | 319774 | [319774-supermarket-grocery-simulator.json](./319774-supermarket-grocery-simulator.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
 | Supermarket Manager Simulator | 314863 | [314863-supermarket-manager-simulator.json](./314863-supermarket-manager-simulator.json) |
 | Supermarket Shriek | 107170 | [107170-supermarket-shriek.json](./107170-supermarket-shriek.json) |
@@ -8719,6 +8723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
+| Survival After War | 319773 | [319773-survival-after-war.json](./319773-survival-after-war.json) |
 | Survival Arena | 76568 | [76568-survival-arena.json](./76568-survival-arena.json) |
 | Survival Arts | 39586 | [39586-survival-arts.json](./39586-survival-arts.json) |
 | Survival Camp | 127662 | [127662-survival-camp.json](./127662-survival-camp.json) |
@@ -9235,6 +9240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System City | 257403 | [257403-system-city.json](./257403-system-city.json) |
 | System Clues | 373000 | [373000-system-clues.json](./373000-system-clues.json) |
 | System Control | 157184 | [157184-system-control.json](./157184-system-control.json) |
+| System Death | 319794 | [319794-system-death.json](./319794-system-death.json) |
 | System Escape | 237067 | [237067-system-escape.json](./237067-system-escape.json) |
 | System Flaw Recruit | 79880 | [79880-system-flaw-recruit.json](./79880-system-flaw-recruit.json) |
 | System Goose Overload | 90651 | [90651-system-goose-overload.json](./90651-system-goose-overload.json) |
