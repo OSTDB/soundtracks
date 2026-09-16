@@ -2957,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby 20 | 122704 | [122704-rugby-20.json](./122704-rugby-20.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
+| Rugby Leage Live 2: Game of the Year Edition | 323373 | [323373-rugby-leage-live-2-game-of-the-year-edition.json](./323373-rugby-leage-live-2-game-of-the-year-edition.json) |
 | Rugby League 26 | 355082 | [355082-rugby-league-26.json](./355082-rugby-league-26.json) |
 | Rugby League 3 | 23364 | [23364-rugby-league-3.json](./23364-rugby-league-3.json) |
 | Rugby League Live 4 | 43061 | [43061-rugby-league-live-4.json](./43061-rugby-league-live-4.json) |
