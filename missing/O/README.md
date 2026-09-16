@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb of Creation | 182972 | [182972-orb-of-creation.json](./182972-orb-of-creation.json) |
 | Orb Of The Watcher | 285969 | [285969-orb-of-the-watcher.json](./285969-orb-of-the-watcher.json) |
 | Orb Overload | 151146 | [151146-orb-overload.json](./151146-orb-overload.json) |
+| Orb Tower | 331951 | [331951-orb-tower.json](./331951-orb-tower.json) |
 | Orb's Betrayal | 271732 | [271732-orbs-betrayal.json](./271732-orbs-betrayal.json) |
 | Orbatak | 217881 | [217881-orbatak.json](./217881-orbatak.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
