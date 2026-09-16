@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recoil Gunner | 208019 | [208019-recoil-gunner.json](./208019-recoil-gunner.json) |
 | Recoil vs. The World | 226975 | [226975-recoil-vs-the-world.json](./226975-recoil-vs-the-world.json) |
 | Recollection | 343806 | [343806-recollection.json](./343806-recollection.json) |
+| Reconciliation | 309536 | [309536-reconciliation.json](./309536-reconciliation.json) |
 | Recondo | 215888 | [215888-recondo.json](./215888-recondo.json) |
 | Reconnect | 161395 | [161395-reconnect.json](./161395-reconnect.json) |
 | Reconnoitre | 270128 | [270128-reconnoitre.json](./270128-reconnoitre.json) |
