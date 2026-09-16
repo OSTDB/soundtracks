@@ -3809,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakaway Hockey League | 415167 | [415167-breakaway-hockey-league.json](./415167-breakaway-hockey-league.json) |
 | BreakBall: Time Travel | 146890 | [146890-breakball-time-travel.json](./146890-breakball-time-travel.json) |
 | Breaker's World | 199131 | [199131-breakers-world.json](./199131-breakers-world.json) |
+| Breakers | 315054 | [315054-breakers.json](./315054-breakers.json) |
 | Breakers | 72533 | [72533-breakers.json](./72533-breakers.json) |
 | Breakfall: Nuclear Winter | 342616 | [342616-breakfall-nuclear-winter.json](./342616-breakfall-nuclear-winter.json) |
 | Breakfast at Twilight | 271771 | [271771-breakfast-at-twilight.json](./271771-breakfast-at-twilight.json) |
@@ -4170,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buccaneer Blitz | 335990 | [335990-buccaneer-blitz.json](./335990-buccaneer-blitz.json) |
 | Buccaneer's Bounty | 69825 | [69825-buccaneers-bounty.json](./69825-buccaneers-bounty.json) |
 | Buccaneers Shipshape | 203899 | [203899-buccaneers-shipshape.json](./203899-buccaneers-shipshape.json) |
+| Buck and the Coin of Destiny | 315070 | [315070-buck-and-the-coin-of-destiny.json](./315070-buck-and-the-coin-of-destiny.json) |
 | Buck Blastem | 322987 | [322987-buck-blastem.json](./322987-buck-blastem.json) |
 | Buck Borris in Action | 152842 | [152842-buck-borris-in-action.json](./152842-buck-borris-in-action.json) |
 | Buck Bumble | 3368 | [3368-buck-bumble.json](./3368-buck-bumble.json) |
