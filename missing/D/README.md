@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Age of Camelot: Catacombs | 20202 | [20202-dark-age-of-camelot-catacombs.json](./20202-dark-age-of-camelot-catacombs.json) |
 | Dark Ages | 72251 | [72251-dark-ages.json](./72251-dark-ages.json) |
 | Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
+| Dark Alley Escape | 315671 | [315671-dark-alley-escape.json](./315671-dark-alley-escape.json) |
 | Dark and Light Mobile | 227497 | [227497-dark-and-light-mobile.json](./227497-dark-and-light-mobile.json) |
 | Dark and Light: Tales of Gaia | 51999 | [51999-dark-and-light-tales-of-gaia.json](./51999-dark-and-light-tales-of-gaia.json) |
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
@@ -662,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DAWN: Darkness Awaits Withstand the Night | 333664 | [333664-dawn-darkness-awaits-withstand-the-night.json](./333664-dawn-darkness-awaits-withstand-the-night.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
 | Day at the Counter | 178596 | [178596-day-at-the-counter.json](./178596-day-at-the-counter.json) |
+| Day at the Office: Prologue | 315717 | [315717-day-at-the-office-prologue.json](./315717-day-at-the-office-prologue.json) |
 | Day at the Races | 242821 | [242821-day-at-the-races.json](./242821-day-at-the-races.json) |
 | Day D: Through Time - Collector's Edition | 355556 | [355556-day-d-through-time-collectors-edition.json](./355556-day-d-through-time-collectors-edition.json) |
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
@@ -1740,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolate Sands | 109697 | [109697-desolate-sands.json](./109697-desolate-sands.json) |
 | Desolated District | 253356 | [253356-desolated-district.json](./253356-desolated-district.json) |
 | Desolation | 284364 | [284364-desolation.json](./284364-desolation.json) |
+| Desolation Escape | 315672 | [315672-desolation-escape.json](./315672-desolation-escape.json) |
 | Desolation Tycoon | 169361 | [169361-desolation-tycoon.json](./169361-desolation-tycoon.json) |
 | Desolatium | 150643 | [150643-desolatium.json](./150643-desolatium.json) |
 | Desolatium: Prologue | 200115 | [200115-desolatium-prologue.json](./200115-desolatium-prologue.json) |
@@ -3610,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Spear | 77588 | [77588-dragon-spear.json](./77588-dragon-spear.json) |
 | Dragon Spirit | 12055 | [12055-dragon-spirit.json](./12055-dragon-spirit.json) |
 | Dragon Spirits | 127202 | [127202-dragon-spirits.json](./127202-dragon-spirits.json) |
+| Dragon Spirits 2 | 315690 | [315690-dragon-spirits-2.json](./315690-dragon-spirits-2.json) |
 | Dragon Spot | 345046 | [345046-dragon-spot.json](./345046-dragon-spot.json) |
 | Dragon Star Varnir: Complete Deluxe Edition | 186884 | [186884-dragon-star-varnir-complete-deluxe-edition.json](./186884-dragon-star-varnir-complete-deluxe-edition.json) |
 | Dragon Storm Fantasy | 193979 | [193979-dragon-storm-fantasy.json](./193979-dragon-storm-fantasy.json) |
