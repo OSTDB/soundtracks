@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Strike | 45111 | [45111-fantasy-strike.json](./45111-fantasy-strike.json) |
 | Fantasy Tavern Sextet -Vol.3 Postlude Days- | 147402 | [147402-fantasy-tavern-sextet-vol-3-postlude-days.json](./147402-fantasy-tavern-sextet-vol-3-postlude-days.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
+| Fantasy Three Kingdoms: War | 304165 | [304165-fantasy-three-kingdoms-war.json](./304165-fantasy-three-kingdoms-war.json) |
 | Fantasy Tower | 304617 | [304617-fantasy-tower.json](./304617-fantasy-tower.json) |
 | Fantasy Tower Defense | 251631 | [251631-fantasy-tower-defense.json](./251631-fantasy-tower-defense.json) |
 | Fantasy Trader | 338749 | [338749-fantasy-trader.json](./338749-fantasy-trader.json) |
@@ -825,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear & Hunger 2: Termina | 224262 | [224262-fear-and-hunger-2-termina.json](./224262-fear-and-hunger-2-termina.json) |
 | Fear & Hunger 3 | 324308 | [324308-fear-and-hunger-3.json](./324308-fear-and-hunger-3.json) |
 | Fear & Respect | 70423 | [70423-fear-and-respect.json](./70423-fear-and-respect.json) |
+| Fear Calibration | 303072 | [303072-fear-calibration.json](./303072-fear-calibration.json) |
 | Fear Effect | 320361 | [320361-fear-effect.json](./320361-fear-effect.json) |
 | Fear Effect: Reinvented | 55026 | [55026-fear-effect-reinvented.json](./55026-fear-effect-reinvented.json) |
 | Fear Effect: Sedna - Collector's Edition | 124813 | [124813-fear-effect-sedna-collectors-edition.json](./124813-fear-effect-sedna-collectors-edition.json) |
@@ -2533,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fork Knights | 119757 | [119757-fork-knights.json](./119757-fork-knights.json) |
 | Fork of Damocles | 177028 | [177028-fork-of-damocles.json](./177028-fork-of-damocles.json) |
 | Fork of the Crimson Soul | 369051 | [369051-fork-of-the-crimson-soul.json](./369051-fork-of-the-crimson-soul.json) |
+| Fork Road | 303067 | [303067-fork-road.json](./303067-fork-road.json) |
 | Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
 | Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
 | Forklift Racer | 253948 | [253948-forklift-racer.json](./253948-forklift-racer.json) |
