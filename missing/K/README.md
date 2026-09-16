@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kangaroo Court | 330172 | [330172-kangaroo-court.json](./330172-kangaroo-court.json) |
 | Kangarumble | 185149 | [185149-kangarumble.json](./185149-kangarumble.json) |
 | Kangoorun: Fly to the Moon | 37181 | [37181-kangoorun-fly-to-the-moon.json](./37181-kangoorun-fly-to-the-moon.json) |
+| Kanji de Go! | 323962 | [323962-kanji-de-go.json](./323962-kanji-de-go.json) |
 | Kanji no Owari! | 56450 | [56450-kanji-no-owari.json](./56450-kanji-no-owari.json) |
 | Kanji Searcher | 151710 | [151710-kanji-searcher.json](./151710-kanji-searcher.json) |
 | Kanji Swipe: Sliding Puzzle | 174293 | [174293-kanji-swipe-sliding-puzzle.json](./174293-kanji-swipe-sliding-puzzle.json) |
@@ -912,14 +913,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Super Star Ultra | 2647 | [2647-kirby-super-star-ultra.json](./2647-kirby-super-star-ultra.json) |
 | Kirby the Dream Battle | 145015 | [145015-kirby-the-dream-battle.json](./145015-kirby-the-dream-battle.json) |
 | Kirby Tilt 'n' Tumble | 3729 | [3729-kirby-tilt-n-tumble.json](./3729-kirby-tilt-n-tumble.json) |
+| Kirby: Cosmic Chaos | 323915 | [323915-kirby-cosmic-chaos.json](./323915-kirby-cosmic-chaos.json) |
 | Kirby: Squeak Squad | 3723 | [3723-kirby-squeak-squad.json](./3723-kirby-squeak-squad.json) |
+| Kirby: The Dreamland Effect | 323921 | [323921-kirby-the-dreamland-effect.json](./323921-kirby-the-dreamland-effect.json) |
 | Kirby: Wacky Episode | 315520 | [315520-kirby-wacky-episode.json](./315520-kirby-wacky-episode.json) |
 | Kirby's Adventure | 3717 | [3717-kirbys-adventure.json](./3717-kirbys-adventure.json) |
+| Kirby's Air Raid | 323917 | [323917-kirbys-air-raid.json](./323917-kirbys-air-raid.json) |
 | Kirby's Ballin' Adventure | 324102 | [324102-kirbys-ballin-adventure.json](./324102-kirbys-ballin-adventure.json) |
 | Kirby's Dream Collection Special Edition | 84168 | [84168-kirbys-dream-collection-special-edition.json](./84168-kirbys-dream-collection-special-edition.json) |
 | Kirby's Dream Land | 1063 | [1063-kirbys-dream-land.json](./1063-kirbys-dream-land.json) |
 | Kirby's Dream Land 3 | 3720 | [3720-kirbys-dream-land-3.json](./3720-kirbys-dream-land-3.json) |
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
+| Kirby's Dreamland Collision | 323916 | [323916-kirbys-dreamland-collision.json](./323916-kirbys-dreamland-collision.json) |
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
 | Kirka.io | 152476 | [152476-kirka-io.json](./152476-kirka-io.json) |
 | Kiro | 138741 | [138741-kiro.json](./138741-kiro.json) |
@@ -1446,6 +1451,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
 | Kwalasha | 349870 | [349870-kwalasha.json](./349870-kwalasha.json) |
 | Kwark | 270137 | [270137-kwark.json](./270137-kwark.json) |
+| KWRPG | 323967 | [323967-kwrpg.json](./323967-kwrpg.json) |
+| KWRPG Platformer Online | 323968 | [323968-kwrpg-platformer-online.json](./323968-kwrpg-platformer-online.json) |
+| KWRPGIII | 323922 | [323922-kwrpgiii.json](./323922-kwrpgiii.json) |
 | Kye | 98948 | [98948-kye.json](./98948-kye.json) |
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
 | Kyn | 11451 | [11451-kyn.json](./11451-kyn.json) |
