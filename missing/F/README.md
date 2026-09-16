@@ -1312,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
 | Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
+| Find Brains | 304704 | [304704-find-brains.json](./304704-find-brains.json) |
 | Find Cats | 289895 | [289895-find-cats.json](./289895-find-cats.json) |
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
@@ -2499,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgiveness | 111471 | [111471-forgiveness.json](./111471-forgiveness.json) |
 | Forgiveness RPG: The First Chapter - Part Two | 294688 | [294688-forgiveness-rpg-the-first-chapter-part-two.json](./294688-forgiveness-rpg-the-first-chapter-part-two.json) |
 | Forgotten | 26702 | [26702-forgotten.json](./26702-forgotten.json) |
+| Forgotten 23 | 304661 | [304661-forgotten-23.json](./304661-forgotten-23.json) |
 | Forgotten Chain | 172659 | [172659-forgotten-chain.json](./172659-forgotten-chain.json) |
 | Forgotten Chambers | 29978 | [29978-forgotten-chambers.json](./29978-forgotten-chambers.json) |
 | Forgotten Depths | 381034 | [381034-forgotten-depths.json](./381034-forgotten-depths.json) |
