@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavyweight Transport Simulator 3 | 53183 | [53183-heavyweight-transport-simulator-3.json](./53183-heavyweight-transport-simulator-3.json) |
 | Hebereke | 291621 | [291621-hebereke.json](./291621-hebereke.json) |
 | Hebereke's Popoon | 42610 | [42610-heberekes-popoon.json](./42610-heberekes-popoon.json) |
+| Hebi no Inochi | 288873 | [288873-hebi-no-inochi.json](./288873-hebi-no-inochi.json) |
 | Hecatomb | 398404 | [398404-hecatomb.json](./398404-hecatomb.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
@@ -1380,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai: Beach Day | 296905 | [296905-hentai-beach-day.json](./296905-hentai-beach-day.json) |
 | Hentai: Color by Number | 368515 | [368515-hentai-color-by-number.json](./368515-hentai-color-by-number.json) |
 | Hentai: Devil Girls | 296906 | [296906-hentai-devil-girls.json](./296906-hentai-devil-girls.json) |
+| Hentai: Maid Madness | 288915 | [288915-hentai-maid-madness.json](./288915-hentai-maid-madness.json) |
 | Hentai: Nazi Girl | 327393 | [327393-hentai-nazi-girl.json](./327393-hentai-nazi-girl.json) |
 | Hentai: Royal Quarters | 286543 | [286543-hentai-royal-quarters.json](./286543-hentai-royal-quarters.json) |
 | Hentai: Waifu World | 296950 | [296950-hentai-waifu-world.json](./296950-hentai-waifu-world.json) |
