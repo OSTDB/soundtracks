@@ -2483,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mibibli's Quest | 33229 | [33229-mibiblis-quest.json](./33229-mibiblis-quest.json) |
 | Miburi and Teburi | 230271 | [230271-miburi-and-teburi.json](./230271-miburi-and-teburi.json) |
 | Mica: Apoptosis | 177515 | [177515-mica-apoptosis.json](./177515-mica-apoptosis.json) |
+| Michael Jackson: Baby Drop | 320979 | [320979-michael-jackson-baby-drop.json](./320979-michael-jackson-baby-drop.json) |
 | Michael Jackson's Moonwalker | 262508 | [262508-michael-jacksons-moonwalker.json](./262508-michael-jacksons-moonwalker.json) |
 | Michael Owen's WLS 2000 | 3407 | [3407-michael-owens-wls-2000.json](./3407-michael-owens-wls-2000.json) |
 | Michael's Dream Adventure | 378815 | [378815-michaels-dream-adventure.json](./378815-michaels-dream-adventure.json) |
