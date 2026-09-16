@@ -2180,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Dude | 51789 | [51789-circuit-dude.json](./51789-circuit-dude.json) |
 | Circuit Puzzle | 270402 | [270402-circuit-puzzle.json](./270402-circuit-puzzle.json) |
 | Circuit Racer | 26656 | [26656-circuit-racer.json](./26656-circuit-racer.json) |
+| Circuit Runner | 311634 | [311634-circuit-runner.json](./311634-circuit-runner.json) |
 | Circuit Stance | 392123 | [392123-circuit-stance.json](./392123-circuit-stance.json) |
 | Circuit: Demolition Derby 2 | 82147 | [82147-circuit-demolition-derby-2.json](./82147-circuit-demolition-derby-2.json) |
 | Circuitous | 90658 | [90658-circuitous.json](./90658-circuitous.json) |
@@ -2228,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
 | City Arena: Hero Legends | 275015 | [275015-city-arena-hero-legends.json](./275015-city-arena-hero-legends.json) |
 | City Builder | 101595 | [101595-city-builder.json](./101595-city-builder.json) |
+| City Bus Driver Simulator 2 | 311632 | [311632-city-bus-driver-simulator-2.json](./311632-city-bus-driver-simulator-2.json) |
 | City Bus Simulator 2010 | 67299 | [67299-city-bus-simulator-2010.json](./67299-city-bus-simulator-2010.json) |
 | City Bus Tycoon | 89810 | [89810-city-bus-tycoon.json](./89810-city-bus-tycoon.json) |
 | City Car Driving 2.0 | 403690 | [403690-city-car-driving-2-0.json](./403690-city-car-driving-2-0.json) |
@@ -4933,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Clutch: Hot Import Nights | 302383 | [302383-cyber-clutch-hot-import-nights.json](./302383-cyber-clutch-hot-import-nights.json) |
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
+| Cyber Hearts Club | 311633 | [311633-cyber-hearts-club.json](./311633-cyber-hearts-club.json) |
 | Cyber Horror: Project S.Y.L.A. | 370110 | [370110-cyber-horror-project-s-y-l-a.json](./370110-cyber-horror-project-s-y-l-a.json) |
 | Cyber Knight II: Chikyuu Teikoku no Yabou | 42548 | [42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json](./42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
