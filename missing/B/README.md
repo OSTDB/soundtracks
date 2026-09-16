@@ -2555,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleed: Deluxe Edition | 118954 | [118954-bleed-deluxe-edition.json](./118954-bleed-deluxe-edition.json) |
 | Bleeding Border | 34250 | [34250-bleeding-border.json](./34250-bleeding-border.json) |
 | Bleeding Kansas | 51939 | [51939-bleeding-kansas.json](./51939-bleeding-kansas.json) |
+| Bleemcast! for Metal Gear Solid | 315682 | [315682-bleemcast-for-metal-gear-solid.json](./315682-bleemcast-for-metal-gear-solid.json) |
 | Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
 | Blendoku | 259559 | [259559-blendoku.json](./259559-blendoku.json) |
 | Blendoku | 38914 | [38914-blendoku.json](./38914-blendoku.json) |
@@ -2638,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloba's Adventure | 251849 | [251849-blobas-adventure.json](./251849-blobas-adventure.json) |
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
+| Blobbton | 315687 | [315687-blobbton.json](./315687-blobbton.json) |
 | Blobi Sprint | 248291 | [248291-blobi-sprint.json](./248291-blobi-sprint.json) |
 | Blobkin Blaster | 158699 | [158699-blobkin-blaster.json](./158699-blobkin-blaster.json) |
 | Blobl.io | 316086 | [316086-blobl-io.json](./316086-blobl-io.json) |
