@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece Yourself Up | 341577 | [341577-piece-yourself-up.json](./341577-piece-yourself-up.json) |
 | Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
 | Pieces | 46587 | [46587-pieces.json](./46587-pieces.json) |
+| Pieces I: A Maskros Nebula Game | 296503 | [296503-pieces-i-a-maskros-nebula-game.json](./296503-pieces-i-a-maskros-nebula-game.json) |
 | Pieces of Beauty 2 | 190173 | [190173-pieces-of-beauty-2.json](./190173-pieces-of-beauty-2.json) |
 | Pieces of Eight | 96677 | [96677-pieces-of-eight.json](./96677-pieces-of-eight.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
