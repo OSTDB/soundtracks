@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Bush | 173843 | [173843-in-the-bush.json](./173843-in-the-bush.json) |
 | In the Dark | 327429 | [327429-in-the-dark.json](./327429-in-the-dark.json) |
 | In The Dark | 353904 | [353904-in-the-dark.json](./353904-in-the-dark.json) |
+| In The Dark 2 | 307743 | [307743-in-the-dark-2.json](./307743-in-the-dark-2.json) |
 | In the Dead of Night | 73287 | [73287-in-the-dead-of-night.json](./73287-in-the-dead-of-night.json) |
 | In the Drift | 404847 | [404847-in-the-drift.json](./404847-in-the-drift.json) |
 | In the Grass | 212289 | [212289-in-the-grass.json](./212289-in-the-grass.json) |
