@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T01:51:37.713Z",
-  "total_missing": 76211,
+  "generated_at": "2026-09-16T02:01:46.880Z",
+  "total_missing": 76213,
   "games": [
     {
       "igdb_id": 306086,
@@ -5686,11 +5686,6 @@
       "igdb_id": 31784,
       "game_name": "Agenda",
       "file": "missing/A/31784-agenda.json"
-    },
-    {
-      "igdb_id": 113742,
-      "game_name": "Agent 9",
-      "file": "missing/A/113742-agent-9.json"
     },
     {
       "igdb_id": 60490,
@@ -25746,6 +25741,16 @@
       "igdb_id": 140557,
       "game_name": "Barcode warriors",
       "file": "missing/B/140557-barcode-warriors.json"
+    },
+    {
+      "igdb_id": 329748,
+      "game_name": "Barcode World Senyou Card: Hebe no Boushi",
+      "file": "missing/B/329748-barcode-world-senyou-card-hebe-no-boushi.json"
+    },
+    {
+      "igdb_id": 329747,
+      "game_name": "Barcode World Senyou Card: Vinyl no Katana",
+      "file": "missing/B/329747-barcode-world-senyou-card-vinyl-no-katana.json"
     },
     {
       "igdb_id": 36094,
@@ -169511,6 +169516,11 @@
       "igdb_id": 336005,
       "game_name": "Kyoufu Shinbun Heisei-ban: Kaiki! Shinrei File",
       "file": "missing/K/336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json"
+    },
+    {
+      "igdb_id": 329749,
+      "game_name": "Kyouryuu Ikusei Battle RPG: Kyouryuu Monster",
+      "file": "missing/K/329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json"
     },
     {
       "igdb_id": 48437,
