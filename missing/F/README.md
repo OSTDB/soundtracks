@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.E.A.R. Files | 5640 | [5640-f-e-a-r-files.json](./5640-f-e-a-r-files.json) |
 | F.E.A.R.: Complete Pack | 323910 | [323910-f-e-a-r-complete-pack.json](./323910-f-e-a-r-complete-pack.json) |
 | F.I.D.O. | 196787 | [196787-f-i-d-o.json](./196787-f-i-d-o.json) |
+| F.I.T. | 287752 | [287752-f-i-t.json](./287752-f-i-t.json) |
 | F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
 | F*ck the HELL out | 337150 | [337150-f-ck-the-hell-out.json](./337150-f-ck-the-hell-out.json) |
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
@@ -1153,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fightin' Spirit | 12096 | [12096-fightin-spirit.json](./12096-fightin-spirit.json) |
 | Fightin' Words | 297074 | [297074-fightin-words.json](./297074-fightin-words.json) |
 | Fighting Box | 68657 | [68657-fighting-box.json](./68657-fighting-box.json) |
+| Fighting breakthrough | 287779 | [287779-fighting-breakthrough.json](./287779-fighting-breakthrough.json) |
 | Fighting Clans | 130224 | [130224-fighting-clans.json](./130224-fighting-clans.json) |
 | Fighting EX Layer | 41828 | [41828-fighting-ex-layer.json](./41828-fighting-ex-layer.json) |
 | Fighting Eyes | 45307 | [45307-fighting-eyes.json](./45307-fighting-eyes.json) |
@@ -1432,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire All Weapons | 257973 | [257973-fire-all-weapons.json](./257973-fire-all-weapons.json) |
 | Fire and Ashes | 339624 | [339624-fire-and-ashes.json](./339624-fire-and-ashes.json) |
 | Fire and Brim Co. | 258708 | [258708-fire-and-brim-co.json](./258708-fire-and-brim-co.json) |
+| Fire and Rescue | 287760 | [287760-fire-and-rescue.json](./287760-fire-and-rescue.json) |
 | Fire Ant | 93077 | [93077-fire-ant.json](./93077-fire-ant.json) |
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
 | Fire Burning City | 346676 | [346676-fire-burning-city.json](./346676-fire-burning-city.json) |
@@ -2098,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floodland | 214497 | [214497-floodland.json](./214497-floodland.json) |
 | Floodrush | 251217 | [251217-floodrush.json](./251217-floodrush.json) |
 | FloodSim | 172689 | [172689-floodsim.json](./172689-floodsim.json) |
+| Flooftopia | 287775 | [287775-flooftopia.json](./287775-flooftopia.json) |
 | Floomy | 269022 | [269022-floomy.json](./269022-floomy.json) |
 | Floor | 26645 | [26645-floor.json](./26645-floor.json) |
 | Floor 100 | 370181 | [370181-floor-100.json](./370181-floor-100.json) |
@@ -2533,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreverred | 142484 | [142484-foreverred.json](./142484-foreverred.json) |
 | Forevolution | 209709 | [209709-forevolution.json](./209709-forevolution.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
+| Forge Front | 287768 | [287768-forge-front.json](./287768-forge-front.json) |
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
 | Forge the Fates | 361765 | [361765-forge-the-fates.json](./361765-forge-the-fates.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
