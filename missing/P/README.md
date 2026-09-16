@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Car | 156694 | [156694-parking-car.json](./156694-parking-car.json) |
 | Parking Dash | 66608 | [66608-parking-dash.json](./66608-parking-dash.json) |
 | Parking Driver | 290921 | [290921-parking-driver.json](./290921-parking-driver.json) |
+| Parking Expert! | 307762 | [307762-parking-expert.json](./307762-parking-expert.json) |
 | Parking Frenzy | 343786 | [343786-parking-frenzy.json](./343786-parking-frenzy.json) |
 | Parking Garage Rally Circuit DX | 381673 | [381673-parking-garage-rally-circuit-dx.json](./381673-parking-garage-rally-circuit-dx.json) |
 | Parking Garage Simulator | 374602 | [374602-parking-garage-simulator.json](./374602-parking-garage-simulator.json) |
