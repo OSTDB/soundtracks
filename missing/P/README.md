@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
 | Paper Dash: City Hustle | 287072 | [287072-paper-dash-city-hustle.json](./287072-paper-dash-city-hustle.json) |
+| Paper Dash: Invasion of Greed | 288919 | [288919-paper-dash-invasion-of-greed.json](./288919-paper-dash-invasion-of-greed.json) |
 | Paper Department | 374156 | [374156-paper-department.json](./374156-paper-department.json) |
 | Paper Depths | 367489 | [367489-paper-depths.json](./367489-paper-depths.json) |
 | Paper Drifter | 236826 | [236826-paper-drifter.json](./236826-paper-drifter.json) |
@@ -2373,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Therapy: Goth Pack | 324290 | [324290-plant-therapy-goth-pack.json](./324290-plant-therapy-goth-pack.json) |
 | Plant Therapy: Plush and Pots Pack | 316403 | [316403-plant-therapy-plush-and-pots-pack.json](./316403-plant-therapy-plush-and-pots-pack.json) |
 | Plant Therapy: Queens | 266802 | [266802-plant-therapy-queens.json](./266802-plant-therapy-queens.json) |
+| Plantabi: Little Garden | 288871 | [288871-plantabi-little-garden.json](./288871-plantabi-little-garden.json) |
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
 | Plantasia | 333098 | [333098-plantasia.json](./333098-plantasia.json) |
 | Planted! | 398336 | [398336-planted.json](./398336-planted.json) |
