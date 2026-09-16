@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
 | Gateway to the Kulikovo Field: The Battle of Yepifan | 276204 | [276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json](./276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json) |
 | Gather CCG | 401543 | [401543-gather-ccg.json](./401543-gather-ccg.json) |
+| Gator Brigade | 321565 | [321565-gator-brigade.json](./321565-gator-brigade.json) |
 | Gaucho and the Grassland | 192368 | [192368-gaucho-and-the-grassland.json](./192368-gaucho-and-the-grassland.json) |
 | Gaudi: Barcelona no Kaze | 118312 | [118312-gaudi-barcelona-no-kaze.json](./118312-gaudi-barcelona-no-kaze.json) |
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
@@ -723,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: As Light Rain Falls Without Reason | 259867 | [259867-genshin-impact-as-light-rain-falls-without-reason.json](./259867-genshin-impact-as-light-rain-falls-without-reason.json) |
 | Genshin Impact: Augured Homecoming | 398426 | [398426-genshin-impact-augured-homecoming.json](./398426-genshin-impact-augured-homecoming.json) |
 | Genshin Impact: Incandescent Ode of Resurrection | 326604 | [326604-genshin-impact-incandescent-ode-of-resurrection.json](./326604-genshin-impact-incandescent-ode-of-resurrection.json) |
+| Genshin Impact: Tapestry of Spirit and Flame | 321597 | [321597-genshin-impact-tapestry-of-spirit-and-flame.json](./321597-genshin-impact-tapestry-of-spirit-and-flame.json) |
 | Genshin Impact: To the Stars Shining in the Depths | 266492 | [266492-genshin-impact-to-the-stars-shining-in-the-depths.json](./266492-genshin-impact-to-the-stars-shining-in-the-depths.json) |
 | Genshin Impact: Truth Amongst the Pages of Purana | 400877 | [400877-genshin-impact-truth-amongst-the-pages-of-purana.json](./400877-genshin-impact-truth-amongst-the-pages-of-purana.json) |
 | Genso Chronicles | 286881 | [286881-genso-chronicles.json](./286881-genso-chronicles.json) |
@@ -963,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Mario Bros. | 198472 | [198472-giant-mario-bros.json](./198472-giant-mario-bros.json) |
 | Giant Rabbit Run | 208973 | [208973-giant-rabbit-run.json](./208973-giant-rabbit-run.json) |
 | Giant Robo: The Animation | 66654 | [66654-giant-robo-the-animation.json](./66654-giant-robo-the-animation.json) |
+| Giant Rush | 321618 | [321618-giant-rush.json](./321618-giant-rush.json) |
 | Giant Rush: Gold Edition | 385201 | [385201-giant-rush-gold-edition.json](./385201-giant-rush-gold-edition.json) |
 | Giant Snake Girl Wants the Burger! | 383379 | [383379-giant-snake-girl-wants-the-burger.json](./383379-giant-snake-girl-wants-the-burger.json) |
 | GiAnt: Warfare | 172118 | [172118-giant-warfare.json](./172118-giant-warfare.json) |
@@ -1450,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going Deeper! | 196301 | [196301-going-deeper.json](./196301-going-deeper.json) |
 | Going Down | 138786 | [138786-going-down.json](./138786-going-down.json) |
 | Going Down in Fishstory | 178012 | [178012-going-down-in-fishstory.json](./178012-going-down-in-fishstory.json) |
+| Going Down Turbo | 321613 | [321613-going-down-turbo.json](./321613-going-down-turbo.json) |
 | Going for Nuts | 329727 | [329727-going-for-nuts.json](./329727-going-for-nuts.json) |
 | Going Into the Unknown | 205577 | [205577-going-into-the-unknown.json](./205577-going-into-the-unknown.json) |
 | Going Nuts | 70405 | [70405-going-nuts.json](./70405-going-nuts.json) |
@@ -1644,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good puzzle | 155651 | [155651-good-puzzle.json](./155651-good-puzzle.json) |
 | Good puzzle: Castles | 161364 | [161364-good-puzzle-castles.json](./161364-good-puzzle-castles.json) |
 | Good Soup | 381134 | [381134-good-soup.json](./381134-good-soup.json) |
+| Good-Bye to Youtopia | 321546 | [321546-good-bye-to-youtopia.json](./321546-good-bye-to-youtopia.json) |
 | Goodbye Cendrillon | 285991 | [285991-goodbye-cendrillon.json](./285991-goodbye-cendrillon.json) |
 | Goodbye, Doggy | 135905 | [135905-goodbye-doggy.json](./135905-goodbye-doggy.json) |
 | Goodbye.Monster | 323716 | [323716-goodbye-monster.json](./323716-goodbye-monster.json) |
