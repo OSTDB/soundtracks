@@ -3464,6 +3464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President 47 | 318435 | [318435-president-47.json](./318435-president-47.json) |
 | President of Steel | 382882 | [382882-president-of-steel.json](./382882-president-of-steel.json) |
 | President Pig | 100726 | [100726-president-pig.json](./100726-president-pig.json) |
+| Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
