@@ -1272,6 +1272,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Octoq Puzzle | 368570 | [368570-hentai-octoq-puzzle.json](./368570-hentai-octoq-puzzle.json) |
 | Hentai Ouji to Warawanai Neko. | 62719 | [62719-hentai-ouji-to-warawanai-neko.json](./62719-hentai-ouji-to-warawanai-neko.json) |
 | Hentai Paradise Vol. 2 | 313153 | [313153-hentai-paradise-vol-2.json](./313153-hentai-paradise-vol-2.json) |
+| Hentai Paradise Vol. 3 | 316263 | [316263-hentai-paradise-vol-3.json](./316263-hentai-paradise-vol-3.json) |
+| Hentai Paradise Vol. 4 | 316262 | [316262-hentai-paradise-vol-4.json](./316262-hentai-paradise-vol-4.json) |
 | Hentai Party: Secret Garden | 371251 | [371251-hentai-party-secret-garden.json](./371251-hentai-party-secret-garden.json) |
 | Hentai Party: Summer Paradise | 371249 | [371249-hentai-party-summer-paradise.json](./371249-hentai-party-summer-paradise.json) |
 | Hentai Pazu | 219039 | [219039-hentai-pazu.json](./219039-hentai-pazu.json) |
@@ -1303,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Premium Edition | 283172 | [283172-hentai-stars-premium-edition.json](./283172-hentai-stars-premium-edition.json) |
 | Hentai Stars: Superb Edition | 314885 | [314885-hentai-stars-superb-edition.json](./314885-hentai-stars-superb-edition.json) |
 | Hentai Stars: Ultimate Edition | 274475 | [274475-hentai-stars-ultimate-edition.json](./274475-hentai-stars-ultimate-edition.json) |
+| Hentai Stars: Ultra Deluxe | 316269 | [316269-hentai-stars-ultra-deluxe.json](./316269-hentai-stars-ultra-deluxe.json) |
 | Hentai Step Milf | 340452 | [340452-hentai-step-milf.json](./340452-hentai-step-milf.json) |
 | Hentai Sudoku | 146282 | [146282-hentai-sudoku.json](./146282-hentai-sudoku.json) |
 | Hentai Tales Vol. 2: Hitomi and Sea Trip | 277309 | [277309-hentai-tales-vol-2-hitomi-and-sea-trip.json](./277309-hentai-tales-vol-2-hitomi-and-sea-trip.json) |
@@ -1336,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Ultimate Edition | 256266 | [256266-hentai-world-ultimate-edition.json](./256266-hentai-world-ultimate-edition.json) |
 | Hentai World: Ultra Deluxe | 308818 | [308818-hentai-world-ultra-deluxe.json](./308818-hentai-world-ultra-deluxe.json) |
 | Hentai World: Ultra Extended | 313144 | [313144-hentai-world-ultra-extended.json](./313144-hentai-world-ultra-extended.json) |
+| Hentai World: Ultra Special | 316270 | [316270-hentai-world-ultra-special.json](./316270-hentai-world-ultra-special.json) |
 | Hentai: Beach Day | 296905 | [296905-hentai-beach-day.json](./296905-hentai-beach-day.json) |
 | Hentai: Color by Number | 368515 | [368515-hentai-color-by-number.json](./368515-hentai-color-by-number.json) |
 | Hentai: Devil Girls | 296906 | [296906-hentai-devil-girls.json](./296906-hentai-devil-girls.json) |
@@ -2629,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Empire: Check Inn | 413097 | [413097-hotel-empire-check-inn.json](./413097-hotel-empire-check-inn.json) |
 | Hotel for Dogs | 21256 | [21256-hotel-for-dogs.json](./21256-hotel-for-dogs.json) |
 | Hotel Giant: Edition 2012 | 53200 | [53200-hotel-giant-edition-2012.json](./53200-hotel-giant-edition-2012.json) |
+| Hotel Hysteria! | 316261 | [316261-hotel-hysteria.json](./316261-hotel-hysteria.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
 | Hotel Island: Paradise Story! | 88318 | [88318-hotel-island-paradise-story.json](./88318-hotel-island-paradise-story.json) |
 | Hotel Mario | 8535 | [8535-hotel-mario.json](./8535-hotel-mario.json) |
