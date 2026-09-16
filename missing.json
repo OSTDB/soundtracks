@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T11:04:03.465Z",
-  "total_missing": 77688,
+  "generated_at": "2026-09-16T11:11:43.749Z",
+  "total_missing": 77687,
   "games": [
     {
       "igdb_id": 306086,
@@ -5981,11 +5981,6 @@
       "igdb_id": 109720,
       "game_name": "Ah, Love!",
       "file": "missing/A/109720-ah-love.json"
-    },
-    {
-      "igdb_id": 399609,
-      "game_name": "Aha! More Photo Spot-the-Difference",
-      "file": "missing/A/399609-aha-more-photo-spot-the-difference.json"
     },
     {
       "igdb_id": 251626,
