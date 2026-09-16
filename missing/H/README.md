@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Mining | 195163 | [195163-happy-mining.json](./195163-happy-mining.json) |
 | Happy Mouse | 241373 | [241373-happy-mouse.json](./241373-happy-mouse.json) |
 | Happy Night | 280767 | [280767-happy-night.json](./280767-happy-night.json) |
+| Happy Pet Island | 322174 | [322174-happy-pet-island.json](./322174-happy-pet-island.json) |
 | Happy Pets | 200631 | [200631-happy-pets.json](./200631-happy-pets.json) |
 | Happy Pinball | 373116 | [373116-happy-pinball.json](./373116-happy-pinball.json) |
 | Happy Pong | 90580 | [90580-happy-pong.json](./90580-happy-pong.json) |
@@ -858,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron IV: Content Creator Pack - Soviet Union 2D Art | 316394 | [316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json](./316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json) |
 | Hearts of Iron IV: Death or Dishonor | 53180 | [53180-hearts-of-iron-iv-death-or-dishonor.json](./53180-hearts-of-iron-iv-death-or-dishonor.json) |
 | Hearts of Iron IV: Field Marshal Edition | 53181 | [53181-hearts-of-iron-iv-field-marshal-edition.json](./53181-hearts-of-iron-iv-field-marshal-edition.json) |
+| Hearts of Iron IV: Götterdämmerung | 322161 | [322161-hearts-of-iron-iv-gotterdammerung.json](./322161-hearts-of-iron-iv-gotterdammerung.json) |
 | Hearts of Iron IV: Hero Edition | 47308 | [47308-hearts-of-iron-iv-hero-edition.json](./47308-hearts-of-iron-iv-hero-edition.json) |
 | Hearts of Iron IV: Man the Guns | 115063 | [115063-hearts-of-iron-iv-man-the-guns.json](./115063-hearts-of-iron-iv-man-the-guns.json) |
 | Hearts of Iron IV: Together for Victory | 53182 | [53182-hearts-of-iron-iv-together-for-victory.json](./53182-hearts-of-iron-iv-together-for-victory.json) |
@@ -1533,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herpit | 385749 | [385749-herpit.json](./385749-herpit.json) |
 | HerrAnwalt: Lawyers Legacy | 224233 | [224233-herranwalt-lawyers-legacy.json](./224233-herranwalt-lawyers-legacy.json) |
 | Herta's Chess Game | 309371 | [309371-hertas-chess-game.json](./309371-hertas-chess-game.json) |
+| HertenHeld | 322183 | [322183-hertenheld.json](./322183-hertenheld.json) |
 | HesGames | 84269 | [84269-hesgames.json](./84269-hesgames.json) |
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
 | Hessian Landing | 386268 | [386268-hessian-landing.json](./386268-hessian-landing.json) |
