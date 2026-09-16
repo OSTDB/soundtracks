@@ -1940,6 +1940,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gratia | 183021 | [183021-gratia.json](./183021-gratia.json) |
 | Gratuitous Animal Massacre | 119748 | [119748-gratuitous-animal-massacre.json](./119748-gratuitous-animal-massacre.json) |
 | Gratuitous Tank Battles | 16334 | [16334-gratuitous-tank-battles.json](./16334-gratuitous-tank-battles.json) |
+| Grauen no Torikago: Kapitel 2 - Torikago | 318050 | [318050-grauen-no-torikago-kapitel-2-torikago.json](./318050-grauen-no-torikago-kapitel-2-torikago.json) |
+| Grauen no Torikago: Kapitel 3 - Kansei | 318051 | [318051-grauen-no-torikago-kapitel-3-kansei.json](./318051-grauen-no-torikago-kapitel-3-kansei.json) |
+| Grauen no Torikago: Kapitel 4 - Kaikou | 318052 | [318052-grauen-no-torikago-kapitel-4-kaikou.json](./318052-grauen-no-torikago-kapitel-4-kaikou.json) |
+| Grauen no Torikago: Kapitel 5 - Shokuzai | 318054 | [318054-grauen-no-torikago-kapitel-5-shokuzai.json](./318054-grauen-no-torikago-kapitel-5-shokuzai.json) |
 | Grav Blazer | 43082 | [43082-grav-blazer.json](./43082-grav-blazer.json) |
 | GravBlocks | 34436 | [34436-gravblocks.json](./34436-gravblocks.json) |
 | GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
