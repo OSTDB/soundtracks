@@ -330,6 +330,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accounting | 25251 | [25251-accounting.json](./25251-accounting.json) |
 | Accurate Shot | 288743 | [288743-accurate-shot.json](./288743-accurate-shot.json) |
 | Accurate Tag | 379461 | [379461-accurate-tag.json](./379461-accurate-tag.json) |
+| ACE | 329181 | [329181-ace.json](./329181-ace.json) |
+| ACE | 329185 | [329185-ace.json](./329185-ace.json) |
+| ACE | 329188 | [329188-ace.json](./329188-ace.json) |
+| ACE | 329190 | [329190-ace.json](./329190-ace.json) |
 | Ace Angler | 292017 | [292017-ace-angler.json](./292017-ace-angler.json) |
 | Ace Attorney Investigations 0: Quercus Alba Dating Simulator | 237350 | [237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json](./237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json) |
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
@@ -579,7 +583,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent Alice | 60490 | [60490-agent-alice.json](./60490-agent-alice.json) |
 | Agent Bob | 357799 | [357799-agent-bob.json](./357799-agent-bob.json) |
-| Agent Brain: Tricky Puzzles | 293079 | [293079-agent-brain-tricky-puzzles.json](./293079-agent-brain-tricky-puzzles.json) |
 | Agent Dark | 409693 | [409693-agent-dark.json](./409693-agent-dark.json) |
 | Agent Emerson | 127618 | [127618-agent-emerson.json](./127618-agent-emerson.json) |
 | Agent Forest | 357798 | [357798-agent-forest.json](./357798-agent-forest.json) |
