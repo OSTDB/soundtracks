@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep In The Lab | 335373 | [335373-deep-in-the-lab.json](./335373-deep-in-the-lab.json) |
 | Deep In The Snowy Night 2 | 278740 | [278740-deep-in-the-snowy-night-2.json](./278740-deep-in-the-snowy-night-2.json) |
 | Deep Inside | 179662 | [179662-deep-inside.json](./179662-deep-inside.json) |
+| Deep Inside | 309535 | [309535-deep-inside.json](./309535-deep-inside.json) |
 | Deep Labyrinth | 20552 | [20552-deep-labyrinth.json](./20552-deep-labyrinth.json) |
 | Deep Line | 361810 | [361810-deep-line.json](./361810-deep-line.json) |
 | Deep Madness | 165630 | [165630-deep-madness.json](./165630-deep-madness.json) |
@@ -1324,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
 | Defender of Zorgaba | 67976 | [67976-defender-of-zorgaba.json](./67976-defender-of-zorgaba.json) |
 | Defender's Quest 2: Mists of Ruin | 7889 | [7889-defenders-quest-2-mists-of-ruin.json](./7889-defenders-quest-2-mists-of-ruin.json) |
+| Defenders | 309497 | [309497-defenders.json](./309497-defenders.json) |
 | Defenders of Asteria | 207537 | [207537-defenders-of-asteria.json](./207537-defenders-of-asteria.json) |
 | Defenders of Cardom | 257959 | [257959-defenders-of-cardom.json](./257959-defenders-of-cardom.json) |
 | Defenders of Dynatron City | 48066 | [48066-defenders-of-dynatron-city.json](./48066-defenders-of-dynatron-city.json) |
