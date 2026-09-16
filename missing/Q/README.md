@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuizMi | 318989 | [318989-quizmi.json](./318989-quizmi.json) |
 | QuizTreff | 397785 | [397785-quiztreff.json](./397785-quiztreff.json) |
 | QuizWitz | 57119 | [57119-quizwitz.json](./57119-quizwitz.json) |
+| Qullusrent3 | 307758 | [307758-qullusrent3.json](./307758-qullusrent3.json) |
 | Quod Init Exit IIo | 403558 | [403558-quod-init-exit-iio.json](./403558-quod-init-exit-iio.json) |
 | Quod: Episode 1 | 288185 | [288185-quod-episode-1.json](./288185-quod-episode-1.json) |
 | Quoth The Raven | 268727 | [268727-quoth-the-raven.json](./268727-quoth-the-raven.json) |
