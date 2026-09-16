@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Lost: First Contact | 59975 | [59975-paradise-lost-first-contact.json](./59975-paradise-lost-first-contact.json) |
 | Paradise Lost: FPS Cosmic Horror Game | 69441 | [69441-paradise-lost-fps-cosmic-horror-game.json](./69441-paradise-lost-fps-cosmic-horror-game.json) |
 | Paradise Lust 2 | 253369 | [253369-paradise-lust-2.json](./253369-paradise-lust-2.json) |
+| Paradise of Freedom | 332539 | [332539-paradise-of-freedom.json](./332539-paradise-of-freedom.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
 | Paradise Story | 233761 | [233761-paradise-story.json](./233761-paradise-story.json) |
 | Paradise Tomb | 224560 | [224560-paradise-tomb.json](./224560-paradise-tomb.json) |
@@ -1253,6 +1254,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
+| Phantom Brave: The Lost Hero - Heroes of the Past | 332520 | [332520-phantom-brave-the-lost-hero-heroes-of-the-past.json](./332520-phantom-brave-the-lost-hero-heroes-of-the-past.json) |
+| Phantom Brave: The Lost Hero - Parallel Siblings | 332521 | [332521-phantom-brave-the-lost-hero-parallel-siblings.json](./332521-phantom-brave-the-lost-hero-parallel-siblings.json) |
+| Phantom Brave: The Lost Hero - The Girl Who Cried Ghost | 332522 | [332522-phantom-brave-the-lost-hero-the-girl-who-cried-ghost.json](./332522-phantom-brave-the-lost-hero-the-girl-who-cried-ghost.json) |
+| Phantom Brave: The Lost Hero - The Liar and the Lost | 332525 | [332525-phantom-brave-the-lost-hero-the-liar-and-the-lost.json](./332525-phantom-brave-the-lost-hero-the-liar-and-the-lost.json) |
+| Phantom Brave: The Lost Hero - The Rat Who Demons Fear | 332523 | [332523-phantom-brave-the-lost-hero-the-rat-who-demons-fear.json](./332523-phantom-brave-the-lost-hero-the-rat-who-demons-fear.json) |
+| Phantom Brave: The Lost Hero - The Wandering Pirate | 332524 | [332524-phantom-brave-the-lost-hero-the-wandering-pirate.json](./332524-phantom-brave-the-lost-hero-the-wandering-pirate.json) |
 | Phantom Breaker | 7130 | [7130-phantom-breaker.json](./7130-phantom-breaker.json) |
 | Phantom Breaker: Battle Grounds Ultimate | 319268 | [319268-phantom-breaker-battle-grounds-ultimate.json](./319268-phantom-breaker-battle-grounds-ultimate.json) |
 | Phantom Brigade | 69488 | [69488-phantom-brigade.json](./69488-phantom-brigade.json) |
@@ -2054,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixgun | 348234 | [348234-pixgun.json](./348234-pixgun.json) |
 | Pixicharm Collection 2 | 334080 | [334080-pixicharm-collection-2.json](./334080-pixicharm-collection-2.json) |
 | Pixicharm: Acornflare | 389416 | [389416-pixicharm-acornflare.json](./389416-pixicharm-acornflare.json) |
+| Pixicharm: Bus Coinventure | 332538 | [332538-pixicharm-bus-coinventure.json](./332538-pixicharm-bus-coinventure.json) |
 | Pixicharm: Cavrielle | 374716 | [374716-pixicharm-cavrielle.json](./374716-pixicharm-cavrielle.json) |
 | Pixicharm: Celestibun | 378768 | [378768-pixicharm-celestibun.json](./378768-pixicharm-celestibun.json) |
 | Pixicharm: Goo Patrol | 373564 | [373564-pixicharm-goo-patrol.json](./373564-pixicharm-goo-patrol.json) |
@@ -2074,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza at Resort 64 | 394367 | [394367-pizza-at-resort-64.json](./394367-pizza-at-resort-64.json) |
 | Pizza Bar Tycoon: Expansion Pack 1 | 237977 | [237977-pizza-bar-tycoon-expansion-pack-1.json](./237977-pizza-bar-tycoon-expansion-pack-1.json) |
 | Pizza Bar Tycoon: Expansion Pack 2 | 237978 | [237978-pizza-bar-tycoon-expansion-pack-2.json](./237978-pizza-bar-tycoon-expansion-pack-2.json) |
+| Pizza Bar Tycoon: Legendary Edition | 332508 | [332508-pizza-bar-tycoon-legendary-edition.json](./332508-pizza-bar-tycoon-legendary-edition.json) |
 | Pizza Boy | 94182 | [94182-pizza-boy.json](./94182-pizza-boy.json) |
 | Pizza Chef | 40758 | [40758-pizza-chef.json](./40758-pizza-chef.json) |
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
@@ -2876,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool 3D | 86900 | [86900-pool-3d.json](./86900-pool-3d.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
 | Pool Break 3D Billiards 8 Ball, 9 Ball, Snooker | 100147 | [100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json](./100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json) |
+| Pool Fever: Prime Edition | 332513 | [332513-pool-fever-prime-edition.json](./332513-pool-fever-prime-edition.json) |
 | Pool Fever: Superior Edition | 396925 | [396925-pool-fever-superior-edition.json](./396925-pool-fever-superior-edition.json) |
 | Pool Fiction | 402910 | [402910-pool-fiction.json](./402910-pool-fiction.json) |
 | Pool Glow | 413629 | [413629-pool-glow.json](./413629-pool-glow.json) |
