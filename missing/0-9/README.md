@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 280 Zzzap/Dodgem 2001 | 139471 | [139471-280-zzzap-dodgem-2001.json](./139471-280-zzzap-dodgem-2001.json) |
 | 286 Miles | 333601 | [333601-286-miles.json](./333601-286-miles.json) |
 | 2BBee | 261789 | [261789-2bbee.json](./261789-2bbee.json) |
+| 2D Dogfight: Secret Project | 297055 | [297055-2d-dogfight-secret-project.json](./297055-2d-dogfight-secret-project.json) |
 | 2D Dogfight: Sunset and Sunrise | 308943 | [308943-2d-dogfight-sunset-and-sunrise.json](./308943-2d-dogfight-sunset-and-sunrise.json) |
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
@@ -488,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Colours | 262058 | [262058-4-colours.json](./262058-4-colours.json) |
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
 | 4 in One: Cave Wonders/Earth Defender/Jaguar Bomber/Soccer Champion | 138731 | [138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json](./138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json) |
+| 4 Kingdoms Supremacy | 297056 | [297056-4-kingdoms-supremacy.json](./297056-4-kingdoms-supremacy.json) |
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
 | 4 Pics Heroes and Villains | 107184 | [107184-4-pics-heroes-and-villains.json](./107184-4-pics-heroes-and-villains.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
