@@ -1046,6 +1046,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Frenzy | 5361 | [5361-battle-frenzy.json](./5361-battle-frenzy.json) |
 | Battle Frenzy Collection | 328570 | [328570-battle-frenzy-collection.json](./328570-battle-frenzy-collection.json) |
 | Battle Gear | 223441 | [223441-battle-gear.json](./223441-battle-gear.json) |
+| Battle Gear | 286626 | [286626-battle-gear.json](./286626-battle-gear.json) |
+| Battle Gear 2 | 286627 | [286627-battle-gear-2.json](./286627-battle-gear-2.json) |
+| Battle Gear 3 | 286628 | [286628-battle-gear-3.json](./286628-battle-gear-3.json) |
 | Battle Gear 4 | 64964 | [64964-battle-gear-4.json](./64964-battle-gear-4.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
 | Battle Grand Prix | 42628 | [42628-battle-grand-prix.json](./42628-battle-grand-prix.json) |
@@ -2322,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
 | BK: OSRS | 313105 | [313105-bk-osrs.json](./313105-bk-osrs.json) |
 | BL Werewolf:Doki-Doki Summer vacation | 373633 | [373633-bl-werewolf-doki-doki-summer-vacation.json](./373633-bl-werewolf-doki-doki-summer-vacation.json) |
+| Blablaland | 286667 | [286667-blablaland.json](./286667-blablaland.json) |
 | Blablublas Battle Royale Shooter | 370787 | [370787-blablublas-battle-royale-shooter.json](./370787-blablublas-battle-royale-shooter.json) |
 | Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
@@ -3275,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman: Panic Bomber | 162409 | [162409-bomberman-panic-bomber.json](./162409-bomberman-panic-bomber.json) |
 | Bomberman: Panic Bomber | 39663 | [39663-bomberman-panic-bomber.json](./39663-bomberman-panic-bomber.json) |
 | Bomberman: Users Battle | 42055 | [42055-bomberman-users-battle.json](./42055-bomberman-users-battle.json) |
+| BomberPengu | 286689 | [286689-bomberpengu.json](./286689-bomberpengu.json) |
 | Bombfest | 74464 | [74464-bombfest.json](./74464-bombfest.json) |
 | Bombing Quest | 129796 | [129796-bombing-quest.json](./129796-bombing-quest.json) |
 | Bombing Wonderful | 228712 | [228712-bombing-wonderful.json](./228712-bombing-wonderful.json) |
@@ -3815,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Path | 48002 | [48002-brave-path.json](./48002-brave-path.json) |
 | Brave Prove | 91891 | [91891-brave-prove.json](./91891-brave-prove.json) |
 | Brave Quest | 296378 | [296378-brave-quest.json](./296378-brave-quest.json) |
+| Brave Shot 2 | 286666 | [286666-brave-shot-2.json](./286666-brave-shot-2.json) |
 | Brave Soldier: Invasion of Cyborgs | 227856 | [227856-brave-soldier-invasion-of-cyborgs.json](./227856-brave-soldier-invasion-of-cyborgs.json) |
 | Brave Story: New Traveler | 14607 | [14607-brave-story-new-traveler.json](./14607-brave-story-new-traveler.json) |
 | Brave Sword | 329395 | [329395-brave-sword.json](./329395-brave-sword.json) |
@@ -4350,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build It: Miami Beach Resort | 341017 | [341017-build-it-miami-beach-resort.json](./341017-build-it-miami-beach-resort.json) |
 | Build Lands | 201239 | [201239-build-lands.json](./201239-build-lands.json) |
 | Build Royale | 112275 | [112275-build-royale.json](./112275-build-royale.json) |
+| Build the Bridge | 286638 | [286638-build-the-bridge.json](./286638-build-the-bridge.json) |
 | Build The Sun | 328584 | [328584-build-the-sun.json](./328584-build-the-sun.json) |
 | Build Wars | 96664 | [96664-build-wars.json](./96664-build-wars.json) |
 | Build-A-Bear Workshop: Bear Valley | 104593 | [104593-build-a-bear-workshop-bear-valley.json](./104593-build-a-bear-workshop-bear-valley.json) |
