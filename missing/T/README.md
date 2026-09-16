@@ -3437,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Dimension | 75121 | [75121-the-lost-dimension.json](./75121-the-lost-dimension.json) |
 | The Lost Dog | 165631 | [165631-the-lost-dog.json](./165631-the-lost-dog.json) |
 | The Lost Dollar | 71009 | [71009-the-lost-dollar.json](./71009-the-lost-dollar.json) |
+| The Lost Episodes of Doom | 310595 | [310595-the-lost-episodes-of-doom.json](./310595-the-lost-episodes-of-doom.json) |
 | The Lost Fountain | 96060 | [96060-the-lost-fountain.json](./96060-the-lost-fountain.json) |
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
 | The Lost Game | 119734 | [119734-the-lost-game.json](./119734-the-lost-game.json) |
@@ -3889,6 +3890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Promised Land | 78648 | [78648-the-promised-land.json](./78648-the-promised-land.json) |
 | The Prophecy | 12822 | [12822-the-prophecy.json](./12822-the-prophecy.json) |
 | The Prophecy of Statues | 109754 | [109754-the-prophecy-of-statues.json](./109754-the-prophecy-of-statues.json) |
+| The Proposal | 310587 | [310587-the-proposal.json](./310587-the-proposal.json) |
 | The Protectorate | 284914 | [284914-the-protectorate.json](./284914-the-protectorate.json) |
 | The Protocol Directive | 323948 | [323948-the-protocol-directive.json](./323948-the-protocol-directive.json) |
 | The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
@@ -5454,10 +5456,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticket to Ride: USA 1910 | 154473 | [154473-ticket-to-ride-usa-1910.json](./154473-ticket-to-ride-usa-1910.json) |
 | Ticket to Ride: USA 1910 Ticket Pack | 311992 | [311992-ticket-to-ride-usa-1910-ticket-pack.json](./311992-ticket-to-ride-usa-1910-ticket-pack.json) |
 | Ticket to Ride: Winter | 375176 | [375176-ticket-to-ride-winter.json](./375176-ticket-to-ride-winter.json) |
+| Tickets 4Love | 310588 | [310588-tickets-4love.json](./310588-tickets-4love.json) |
 | Tickets, Please! | 406202 | [406202-tickets-please.json](./406202-tickets-please.json) |
 | Ticking Tea Time | 327184 | [327184-ticking-tea-time.json](./327184-ticking-tea-time.json) |
 | Ticktock | 104010 | [104010-ticktock.json](./104010-ticktock.json) |
 | Ticky's Tower of Time | 328030 | [328030-tickys-tower-of-time.json](./328030-tickys-tower-of-time.json) |
+| Ticuto | 310569 | [310569-ticuto.json](./310569-ticuto.json) |
 | Tidal Hopper | 336026 | [336026-tidal-hopper.json](./336026-tidal-hopper.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
 | Tidal Tribe | 116582 | [116582-tidal-tribe.json](./116582-tidal-tribe.json) |
@@ -6673,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torchure | 352262 | [352262-torchure.json](./352262-torchure.json) |
 | Toree 3D | 144687 | [144687-toree-3d.json](./144687-toree-3d.json) |
 | Toree Jolly Jam | 279783 | [279783-toree-jolly-jam.json](./279783-toree-jolly-jam.json) |
+| Toree Missions | 310613 | [310613-toree-missions.json](./310613-toree-missions.json) |
 | Toree Saturn | 262958 | [262958-toree-saturn.json](./262958-toree-saturn.json) |
 | Toree's 3D Platformer Collection | 218452 | [218452-torees-3d-platformer-collection.json](./218452-torees-3d-platformer-collection.json) |
 | Toree's Panic Pack | 308530 | [308530-torees-panic-pack.json](./308530-torees-panic-pack.json) |
