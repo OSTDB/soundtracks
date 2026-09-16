@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Bear | 2633 | [2633-naughty-bear.json](./2633-naughty-bear.json) |
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
 | Naughty Kitties | 19593 | [19593-naughty-kitties.json](./19593-naughty-kitties.json) |
+| Naughty Tales of Rabbits: A Cuckold RPG | 301986 | [301986-naughty-tales-of-rabbits-a-cuckold-rpg.json](./301986-naughty-tales-of-rabbits-a-cuckold-rpg.json) |
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
 | Nauticell | 324516 | [324516-nauticell.json](./324516-nauticell.json) |
@@ -668,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Junctions | 118352 | [118352-neon-junctions.json](./118352-neon-junctions.json) |
 | Neon Ladder | 311803 | [311803-neon-ladder.json](./311803-neon-ladder.json) |
 | Neon Man | 234611 | [234611-neon-man.json](./234611-neon-man.json) |
+| Neon Nexus | 301973 | [301973-neon-nexus.json](./301973-neon-nexus.json) |
 | Neon Nights | 159821 | [159821-neon-nights.json](./159821-neon-nights.json) |
 | Neon Nirvana | 270118 | [270118-neon-nirvana.json](./270118-neon-nirvana.json) |
 | Neon On! | 290433 | [290433-neon-on.json](./290433-neon-on.json) |
@@ -1457,6 +1459,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nirvana Pilot Yume: Deluxe Edition | 208045 | [208045-nirvana-pilot-yume-deluxe-edition.json](./208045-nirvana-pilot-yume-deluxe-edition.json) |
 | Nirvana Revenge | 66044 | [66044-nirvana-revenge.json](./66044-nirvana-revenge.json) |
 | Nirvana: Game of Life | 191261 | [191261-nirvana-game-of-life.json](./191261-nirvana-game-of-life.json) |
+| Nitebear on Sleepystreet | 304198 | [304198-nitebear-on-sleepystreet.json](./304198-nitebear-on-sleepystreet.json) |
+| Niteline | 304722 | [304722-niteline.json](./304722-niteline.json) |
 | Nitori Dungeon | 216460 | [216460-nitori-dungeon.json](./216460-nitori-dungeon.json) |
 | Nitori-chan Dash | 208396 | [208396-nitori-chan-dash.json](./208396-nitori-chan-dash.json) |
 | Nitro | 12188 | [12188-nitro.json](./12188-nitro.json) |
@@ -1837,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novath | 347766 | [347766-novath.json](./347766-novath.json) |
 | Novel Simulator | 392130 | [392130-novel-simulator.json](./392130-novel-simulator.json) |
 | Novena Diabolos | 132267 | [132267-novena-diabolos.json](./132267-novena-diabolos.json) |
+| Novivors | 301984 | [301984-novivors.json](./301984-novivors.json) |
 | Novopangea | 277671 | [277671-novopangea.json](./277671-novopangea.json) |
 | Novovu | 130879 | [130879-novovu.json](./130879-novovu.json) |
 | Novus Conquest | 248881 | [248881-novus-conquest.json](./248881-novus-conquest.json) |
@@ -1909,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuke Mine | 311467 | [311467-nuke-mine.json](./311467-nuke-mine.json) |
 | Nuketris | 145666 | [145666-nuketris.json](./145666-nuketris.json) |
 | NukiTashi | 201846 | [201846-nukitashi.json](./201846-nukitashi.json) |
+| Nulandia | 304718 | [304718-nulandia.json](./304718-nulandia.json) |
 | Null & Peta -Invasion of the Queen Bug- | 127372 | [127372-null-and-peta-invasion-of-the-queen-bug.json](./127372-null-and-peta-invasion-of-the-queen-bug.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Null State | 327807 | [327807-null-state.json](./327807-null-state.json) |
