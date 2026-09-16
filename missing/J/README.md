@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Together | 274752 | [274752-jigsaw-together.json](./274752-jigsaw-together.json) |
 | Jigsaw Tour 2 | 102736 | [102736-jigsaw-tour-2.json](./102736-jigsaw-tour-2.json) |
 | Jigsaw Tour 4 | 104688 | [104688-jigsaw-tour-4.json](./104688-jigsaw-tour-4.json) |
+| Jigsaw USA | 328059 | [328059-jigsaw-usa.json](./328059-jigsaw-usa.json) |
 | Jigsaw With Animals | 163405 | [163405-jigsaw-with-animals.json](./163405-jigsaw-with-animals.json) |
 | Jigsaw World | 53249 | [53249-jigsaw-world.json](./53249-jigsaw-world.json) |
 | Jigsu | 79944 | [79944-jigsu.json](./79944-jigsu.json) |
@@ -821,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpJumpJump! | 335086 | [335086-jumpjumpjump.json](./335086-jumpjumpjump.json) |
 | Jumplight Odyssey | 229965 | [229965-jumplight-odyssey.json](./229965-jumplight-odyssey.json) |
 | Jumpman Lives! | 69868 | [69868-jumpman-lives.json](./69868-jumpman-lives.json) |
+| Jumpng Disable | 329193 | [329193-jumpng-disable.json](./329193-jumpng-disable.json) |
 | Jumpo Joe | 103423 | [103423-jumpo-joe.json](./103423-jumpo-joe.json) |
 | JumpoCalypse | 406124 | [406124-jumpocalypse.json](./406124-jumpocalypse.json) |
 | JumpOut | 300987 | [300987-jumpout.json](./300987-jumpout.json) |
