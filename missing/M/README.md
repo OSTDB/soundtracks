@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Crash Racing | 234323 | [234323-mad-crash-racing.json](./234323-mad-crash-racing.json) |
 | Mad Crown | 81054 | [81054-mad-crown.json](./81054-mad-crown.json) |
 | Mad Daedalus | 218160 | [218160-mad-daedalus.json](./218160-mad-daedalus.json) |
+| Mad Devils: Damned-finitive Edition | 313337 | [313337-mad-devils-damned-finitive-edition.json](./313337-mad-devils-damned-finitive-edition.json) |
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
 | Mad Games Tycoon | 13172 | [13172-mad-games-tycoon.json](./13172-mad-games-tycoon.json) |
 | Mad Gun Range VR Simulator | 115689 | [115689-mad-gun-range-vr-simulator.json](./115689-mad-gun-range-vr-simulator.json) |
@@ -873,9 +874,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi vs. The Furbies | 323179 | [323179-mario-and-luigi-vs-the-furbies.json](./323179-mario-and-luigi-vs-the-furbies.json) |
 | Mario & Luigi: Kola Kingdom Quest | 132856 | [132856-mario-and-luigi-kola-kingdom-quest.json](./132856-mario-and-luigi-kola-kingdom-quest.json) |
 | Mario & Luigi: Partners in Time | 3364 | [3364-mario-and-luigi-partners-in-time.json](./3364-mario-and-luigi-partners-in-time.json) |
+| Mario & Luigi: Power Blast | 313327 | [313327-mario-and-luigi-power-blast.json](./313327-mario-and-luigi-power-blast.json) |
 | Mario & Luigi: Superstar Saga | 3351 | [3351-mario-and-luigi-superstar-saga.json](./3351-mario-and-luigi-superstar-saga.json) |
 | Mario & Luigi's Coin Chaos | 318039 | [318039-mario-and-luigis-coin-chaos.json](./318039-mario-and-luigis-coin-chaos.json) |
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
+| Mario & Sonic at The Olympic Winter Games Pyeongchang 2018 | 313303 | [313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json](./313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json) |
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
 | Mario + Rabbids Kingdom Battle: Ultra Challenge Pack | 237938 | [237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json](./237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json) |
 | Mario + Rabbids Sparks of Hope | 152201 | [152201-mario-rabbids-sparks-of-hope.json](./152201-mario-rabbids-sparks-of-hope.json) |
@@ -933,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 8 Deluxe: Booster Course Pass | 191419 | [191419-mario-kart-8-deluxe-booster-course-pass.json](./191419-mario-kart-8-deluxe-booster-course-pass.json) |
 | Mario Kart Arcade GP | 45160 | [45160-mario-kart-arcade-gp.json](./45160-mario-kart-arcade-gp.json) |
 | Mario Kart Arcade GP VR | 48711 | [48711-mario-kart-arcade-gp-vr.json](./48711-mario-kart-arcade-gp-vr.json) |
+| Mario Kart DS: GameCube Grand Prix | 313347 | [313347-mario-kart-ds-gamecube-grand-prix.json](./313347-mario-kart-ds-gamecube-grand-prix.json) |
 | Mario Kart PC | 294712 | [294712-mario-kart-pc.json](./294712-mario-kart-pc.json) |
 | Mario Kart RiiBalanced | 202370 | [202370-mario-kart-riibalanced.json](./202370-mario-kart-riibalanced.json) |
 | Mario Kart SX | 198448 | [198448-mario-kart-sx.json](./198448-mario-kart-sx.json) |
@@ -1419,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
 | Matendouji | 215140 | [215140-matendouji.json](./215140-matendouji.json) |
 | MaternalBound Redux | 219084 | [219084-maternalbound-redux.json](./219084-maternalbound-redux.json) |
+| MaternalBound: An EarthBound & Mother 2 Bond! | 313344 | [313344-maternalbound-an-earthbound-and-mother-2-bond.json](./313344-maternalbound-an-earthbound-and-mother-2-bond.json) |
 | Math | 139972 | [139972-math.json](./139972-math.json) |
 | Math Attack | 367509 | [367509-math-attack.json](./367509-math-attack.json) |
 | Math Be Nimble: Brain Training | 265425 | [265425-math-be-nimble-brain-training.json](./265425-math-be-nimble-brain-training.json) |
@@ -2446,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Fool | 295024 | [295024-metroid-fool.json](./295024-metroid-fool.json) |
 | Metroid FreezeFlame | 255382 | [255382-metroid-freezeflame.json](./255382-metroid-freezeflame.json) |
 | Metroid FreezeFlame 2: Twisted Dimensions | 255383 | [255383-metroid-freezeflame-2-twisted-dimensions.json](./255383-metroid-freezeflame-2-twisted-dimensions.json) |
+| Metroid Fusion: C.L.E.A.N. Station | 313328 | [313328-metroid-fusion-c-l-e-a-n-station.json](./313328-metroid-fusion-c-l-e-a-n-station.json) |
 | Metroid II: Return of Samus | 1102 | [1102-metroid-ii-return-of-samus.json](./1102-metroid-ii-return-of-samus.json) |
 | Metroid Nebulus | 324078 | [324078-metroid-nebulus.json](./324078-metroid-nebulus.json) |
 | Metroid Planets | 166150 | [166150-metroid-planets.json](./166150-metroid-planets.json) |
@@ -2752,6 +2758,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Mahjong | 406111 | [406111-mighty-mahjong.json](./406111-mighty-mahjong.json) |
 | Mighty Marbles | 258441 | [258441-mighty-marbles.json](./258441-mighty-marbles.json) |
 | Mighty Math Carnival Countdown | 129156 | [129156-mighty-math-carnival-countdown.json](./129156-mighty-math-carnival-countdown.json) |
+| Mighty Math Zoo Zillions | 313286 | [313286-mighty-math-zoo-zillions.json](./313286-mighty-math-zoo-zillions.json) |
+| Mighty Math: Calculating Crew | 313278 | [313278-mighty-math-calculating-crew.json](./313278-mighty-math-calculating-crew.json) |
 | Mighty Mike (Power Pete) | 72658 | [72658-mighty-mike-power-pete.json](./72658-mighty-mike-power-pete.json) |
 | Mighty Monster Mayhem | 29622 | [29622-mighty-monster-mayhem.json](./29622-mighty-monster-mayhem.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
@@ -4308,6 +4316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mot's 8-Ball Pool | 374166 | [374166-mots-8-ball-pool.json](./374166-mots-8-ball-pool.json) |
 | Motamo | 361768 | [361768-motamo.json](./361768-motamo.json) |
 | Motarium | 393480 | [393480-motarium.json](./393480-motarium.json) |
+| MOTAS: Magnum Opus - The Alchemist's Shadow | 313281 | [313281-motas-magnum-opus-the-alchemists-shadow.json](./313281-motas-magnum-opus-the-alchemists-shadow.json) |
 | Motel Snooze | 135800 | [135800-motel-snooze.json](./135800-motel-snooze.json) |
 | MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
 | Moth Ma'am | 355015 | [355015-moth-maam.json](./355015-moth-maam.json) |
@@ -5371,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Valley Battleground | 272564 | [272564-mystic-valley-battleground.json](./272564-mystic-valley-battleground.json) |
 | Mystic VR | 51940 | [51940-mystic-vr.json](./51940-mystic-vr.json) |
 | Mystical Chain | 202950 | [202950-mystical-chain.json](./202950-mystical-chain.json) |
+| Mystical Crash in Magical Middle Ages: Adventure of Valkyrie | 313273 | [313273-mystical-crash-in-magical-middle-ages-adventure-of-valkyrie.json](./313273-mystical-crash-in-magical-middle-ages-adventure-of-valkyrie.json) |
 | Mystical Echoes | 149083 | [149083-mystical-echoes.json](./149083-mystical-echoes.json) |
 | Mystical Mixing | 224011 | [224011-mystical-mixing.json](./224011-mystical-mixing.json) |
 | Mystical Mushrooms | 341353 | [341353-mystical-mushrooms.json](./341353-mystical-mushrooms.json) |
