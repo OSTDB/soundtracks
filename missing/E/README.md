@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency 3 | 46457 | [46457-emergency-3.json](./46457-emergency-3.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 | 144936 | [144936-emergency-call-112-the-fire-fighting-simulation-2.json](./144936-emergency-call-112-the-fire-fighting-simulation-2.json) |
 | Emergency Crew 4: Call of the Ancestors | 360663 | [360663-emergency-crew-4-call-of-the-ancestors.json](./360663-emergency-crew-4-call-of-the-ancestors.json) |
+| Emergency Exit | 329160 | [329160-emergency-exit.json](./329160-emergency-exit.json) |
 | Emergency Fire Helicopter Simulator 3D | 108451 | [108451-emergency-fire-helicopter-simulator-3d.json](./108451-emergency-fire-helicopter-simulator-3d.json) |
 | Emergency in Space | 310744 | [310744-emergency-in-space.json](./310744-emergency-in-space.json) |
 | Emergency Lüdenscheid | 346128 | [346128-emergency-ludenscheid.json](./346128-emergency-ludenscheid.json) |
@@ -909,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
 | Endless History | 320771 | [320771-endless-history.json](./320771-endless-history.json) |
 | Endless Knight | 126901 | [126901-endless-knight.json](./126901-endless-knight.json) |
+| Endless Legend 2 | 329138 | [329138-endless-legend-2.json](./329138-endless-legend-2.json) |
 | Endless Legend: Definitive Edition | 343851 | [343851-endless-legend-definitive-edition.json](./343851-endless-legend-definitive-edition.json) |
 | Endless Legend: Tempest | 24933 | [24933-endless-legend-tempest.json](./24933-endless-legend-tempest.json) |
 | Endless Love | 152933 | [152933-endless-love.json](./152933-endless-love.json) |
@@ -1148,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equinox | 100180 | [100180-equinox.json](./100180-equinox.json) |
 | Equinox | 13644 | [13644-equinox.json](./13644-equinox.json) |
 | Equinox | 197403 | [197403-equinox.json](./197403-equinox.json) |
+| Equinox | 329147 | [329147-equinox.json](./329147-equinox.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
 | Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
