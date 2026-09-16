@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screens Up by Nickelodeon | 105974 | [105974-screens-up-by-nickelodeon.json](./105974-screens-up-by-nickelodeon.json) |
 | Screensavers VR | 400373 | [400373-screensavers-vr.json](./400373-screensavers-vr.json) |
 | Screeps: World | 25903 | [25903-screeps-world.json](./25903-screeps-world.json) |
+| Screw Master 3D: Pin Puzzle | 328582 | [328582-screw-master-3d-pin-puzzle.json](./328582-screw-master-3d-pin-puzzle.json) |
 | Screwdom 3D | 332430 | [332430-screwdom-3d.json](./332430-screwdom-3d.json) |
 | Scribble | 262675 | [262675-scribble.json](./262675-scribble.json) |
 | Scribble | 290697 | [290697-scribble.json](./290697-scribble.json) |
@@ -6593,6 +6594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Force | 39670 | [39670-steel-force.json](./39670-steel-force.json) |
 | Steel Hearts | 337703 | [337703-steel-hearts.json](./337703-steel-hearts.json) |
 | Steel Horizon | 20691 | [20691-steel-horizon.json](./20691-steel-horizon.json) |
+| Steel Hornet | 328617 | [328617-steel-hornet.json](./328617-steel-hornet.json) |
 | Steel Hunters | 301568 | [301568-steel-hunters.json](./301568-steel-hunters.json) |
 | Steel Judgment | 329589 | [329589-steel-judgment.json](./329589-steel-judgment.json) |
 | Steel Machine | 46566 | [46566-steel-machine.json](./46566-steel-machine.json) |
@@ -7200,6 +7202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold Deluxe | 98961 | [98961-stronghold-deluxe.json](./98961-stronghold-deluxe.json) |
 | Stronghold Kingdoms | 15030 | [15030-stronghold-kingdoms.json](./15030-stronghold-kingdoms.json) |
 | Stronghold: Caverns of Sorcery | 339654 | [339654-stronghold-caverns-of-sorcery.json](./339654-stronghold-caverns-of-sorcery.json) |
+| Stronghold: Crusader - Definitive Edition | 328611 | [328611-stronghold-crusader-definitive-edition.json](./328611-stronghold-crusader-definitive-edition.json) |
 | Stronghold: Definitive Edition | 257672 | [257672-stronghold-definitive-edition.json](./257672-stronghold-definitive-edition.json) |
 | Stronghold: On the Edge of Chaos | 141254 | [141254-stronghold-on-the-edge-of-chaos.json](./141254-stronghold-on-the-edge-of-chaos.json) |
 | Stronghold: Warlords - Rise of the Shogun Campaign | 186877 | [186877-stronghold-warlords-rise-of-the-shogun-campaign.json](./186877-stronghold-warlords-rise-of-the-shogun-campaign.json) |
@@ -8320,6 +8323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros Ultimate: Martial Artist Gi and Wig | 350408 | [350408-super-smash-bros-ultimate-martial-artist-gi-and-wig.json](./350408-super-smash-bros-ultimate-martial-artist-gi-and-wig.json) |
 | Super Smash Bros Ultimate: Rabbids Hat | 338184 | [338184-super-smash-bros-ultimate-rabbids-hat.json](./338184-super-smash-bros-ultimate-rabbids-hat.json) |
 | Super Smash Bros Ultimate: Veronica's Outfit and Hat | 350409 | [350409-super-smash-bros-ultimate-veronicas-outfit-and-hat.json](./350409-super-smash-bros-ultimate-veronicas-outfit-and-hat.json) |
+| Super Smash Bros. | 328589 | [328589-super-smash-bros.json](./328589-super-smash-bros.json) |
 | Super Smash Bros. 3D | 339945 | [339945-super-smash-bros-3d.json](./339945-super-smash-bros-3d.json) |
 | Super Smash Bros. Alternate Universe | 358315 | [358315-super-smash-bros-alternate-universe.json](./358315-super-smash-bros-alternate-universe.json) |
 | Super Smash Bros. Clash | 279590 | [279590-super-smash-bros-clash.json](./279590-super-smash-bros-clash.json) |
