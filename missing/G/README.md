@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 43: Izumi Jiken File Vol. 3 - Yujuku-hen | 221732 | [221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json](./221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json) |
 | G-Mode Archives 44: Dragon x Dragon | 241041 | [241041-g-mode-archives-44-dragon-x-dragon.json](./241041-g-mode-archives-44-dragon-x-dragon.json) |
 | G-Mode Archives 56: Mystia3 | 381724 | [381724-g-mode-archives-56-mystia3.json](./381724-g-mode-archives-56-mystia3.json) |
+| G-Mode Archives+: Bokujou Monogatari Mobile - Life & Love | 315678 | [315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json](./315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json) |
 | G-Mode Archives+: Idol Janshi Suchie-Pai | 256268 | [256268-g-mode-archives-idol-janshi-suchie-pai.json](./256268-g-mode-archives-idol-janshi-suchie-pai.json) |
 | G-Mode Archives+: Kishinden Strike-G- | 412402 | [412402-g-mode-archives-kishinden-strike-g.json](./412402-g-mode-archives-kishinden-strike-g.json) |
 | G-Mode Archives+: Moe Pro - Moero!! Pro Yakyuu | 260682 | [260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json](./260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json) |
