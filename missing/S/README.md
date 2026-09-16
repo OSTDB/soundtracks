@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Wars: Laser Massacre | 248062 | [248062-sausage-wars-laser-massacre.json](./248062-sausage-wars-laser-massacre.json) |
 | Sausage Wars: Trapdoor Hell | 248061 | [248061-sausage-wars-trapdoor-hell.json](./248061-sausage-wars-trapdoor-hell.json) |
 | Saut | 242578 | [242578-saut.json](./242578-saut.json) |
+| Savage Age | 294839 | [294839-savage-age.json](./294839-savage-age.json) |
 | Savage Bliss | 23919 | [23919-savage-bliss.json](./23919-savage-bliss.json) |
 | Savage Lands | 17548 | [17548-savage-lands.json](./17548-savage-lands.json) |
 | Savage Pond | 299436 | [299436-savage-pond.json](./299436-savage-pond.json) |
@@ -6845,6 +6846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Racer | 250952 | [250952-steel-racer.json](./250952-steel-racer.json) |
 | Steel Ranger | 179658 | [179658-steel-ranger.json](./179658-steel-ranger.json) |
 | Steel Rivals | 34766 | [34766-steel-rivals.json](./34766-steel-rivals.json) |
+| Steel Sand Mars Chronicles: Survival Simulator | 294834 | [294834-steel-sand-mars-chronicles-survival-simulator.json](./294834-steel-sand-mars-chronicles-survival-simulator.json) |
 | Steel Skirmish: Reloaded | 379347 | [379347-steel-skirmish-reloaded.json](./379347-steel-skirmish-reloaded.json) |
 | Steel Soul | 294133 | [294133-steel-soul.json](./294133-steel-soul.json) |
 | Steel Storm: Burning Retribution | 16243 | [16243-steel-storm-burning-retribution.json](./16243-steel-storm-burning-retribution.json) |
@@ -7008,6 +7010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
 | StickMUD | 228427 | [228427-stickmud.json](./228427-stickmud.json) |
 | Sticks | 68800 | [68800-sticks.json](./68800-sticks.json) |
+| Sticks Aim Trainer | 294818 | [294818-sticks-aim-trainer.json](./294818-sticks-aim-trainer.json) |
 | Sticks Together: The Wishing Well | 311137 | [311137-sticks-together-the-wishing-well.json](./311137-sticks-together-the-wishing-well.json) |
 | StickSpinner | 264062 | [264062-stickspinner.json](./264062-stickspinner.json) |
 | StickType Ultimate Bundle | 218461 | [218461-sticktype-ultimate-bundle.json](./218461-sticktype-ultimate-bundle.json) |
@@ -7506,6 +7509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Paradise 2 | 389435 | [389435-stunt-paradise-2.json](./389435-stunt-paradise-2.json) |
 | Stunt Race | 395000 | [395000-stunt-race.json](./395000-stunt-race.json) |
 | Stunt Rush: 3D Buggy Racing | 246985 | [246985-stunt-rush-3d-buggy-racing.json](./246985-stunt-rush-3d-buggy-racing.json) |
+| Stunt Scooter Simulator | 294833 | [294833-stunt-scooter-simulator.json](./294833-stunt-scooter-simulator.json) |
 | Stuntcar Extreme | 73246 | [73246-stuntcar-extreme.json](./73246-stuntcar-extreme.json) |
 | StuntCopter! | 108515 | [108515-stuntcopter.json](./108515-stuntcopter.json) |
 | Stuntman | 197884 | [197884-stuntman.json](./197884-stuntman.json) |
