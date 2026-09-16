@@ -1542,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Retrowave Paint Jobs Pack | 353405 | [353405-american-truck-simulator-retrowave-paint-jobs-pack.json](./353405-american-truck-simulator-retrowave-paint-jobs-pack.json) |
 | American Truck Simulator: Space Paint Jobs Pack | 353400 | [353400-american-truck-simulator-space-paint-jobs-pack.json](./353400-american-truck-simulator-space-paint-jobs-pack.json) |
 | American Truck Simulator: Special Transport | 268771 | [268771-american-truck-simulator-special-transport.json](./268771-american-truck-simulator-special-transport.json) |
+| American Truck Simulator: Sports Paint Jobs Pack | 311103 | [311103-american-truck-simulator-sports-paint-jobs-pack.json](./311103-american-truck-simulator-sports-paint-jobs-pack.json) |
 | American Truck Simulator: Utah | 120325 | [120325-american-truck-simulator-utah.json](./120325-american-truck-simulator-utah.json) |
 | American Truck Simulator: Valentine's Paint Jobs Pack | 353396 | [353396-american-truck-simulator-valentines-paint-jobs-pack.json](./353396-american-truck-simulator-valentines-paint-jobs-pack.json) |
 | American Truck Simulator: Volvo Construction Equipment | 353404 | [353404-american-truck-simulator-volvo-construction-equipment.json](./353404-american-truck-simulator-volvo-construction-equipment.json) |
