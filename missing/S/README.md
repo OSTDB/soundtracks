@@ -3288,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
 | Slash of Sword 2 | 254157 | [254157-slash-of-sword-2.json](./254157-slash-of-sword-2.json) |
 | Slash'EM Extended | 351135 | [351135-slashem-extended.json](./351135-slashem-extended.json) |
+| Slash/Jump | 313317 | [313317-slash-jump.json](./313317-slash-jump.json) |
 | Slashboy | 333393 | [333393-slashboy.json](./333393-slashboy.json) |
 | Slasher | 352843 | [352843-slasher.json](./352843-slasher.json) |
 | Slasher Lock | 184593 | [184593-slasher-lock.json](./184593-slasher-lock.json) |
@@ -3528,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slow Burn | 313870 | [313870-slow-burn.json](./313870-slow-burn.json) |
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
 | Slow.Bullet VR | 392797 | [392797-slow-bullet-vr.json](./392797-slow-bullet-vr.json) |
+| SlowAndSteady.io | 313322 | [313322-slowandsteady-io.json](./313322-slowandsteady-io.json) |
 | Słowica | 214508 | [214508-s-owica.json](./214508-s-owica.json) |
 | Slowly | 140553 | [140553-slowly.json](./140553-slowly.json) |
 | Slowly Fighter | 333926 | [333926-slowly-fighter.json](./333926-slowly-fighter.json) |
@@ -3649,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashing Star | 202855 | [202855-smashing-star.json](./202855-smashing-star.json) |
 | Smashing the Battle Ghost Soul | 165617 | [165617-smashing-the-battle-ghost-soul.json](./165617-smashing-the-battle-ghost-soul.json) |
 | Smashmak | 396422 | [396422-smashmak.json](./396422-smashmak.json) |
+| Smashmons: Spirit Red | 313342 | [313342-smashmons-spirit-red.json](./313342-smashmons-spirit-red.json) |
 | Smashometry | 378902 | [378902-smashometry.json](./378902-smashometry.json) |
 | Smashpunks | 178088 | [178088-smashpunks.json](./178088-smashpunks.json) |
 | SMBX: Level Contest Japan | 359515 | [359515-smbx-level-contest-japan.json](./359515-smbx-level-contest-japan.json) |
@@ -4620,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Vol.2 | 198533 | [198533-sonic-the-hedgehog-vol-2.json](./198533-sonic-the-hedgehog-vol-2.json) |
 | Sonic the Hedgehog: Character Pak | 198542 | [198542-sonic-the-hedgehog-character-pak.json](./198542-sonic-the-hedgehog-character-pak.json) |
 | Sonic the Hedgehog: Egg on Toast Edition | 129183 | [129183-sonic-the-hedgehog-egg-on-toast-edition.json](./129183-sonic-the-hedgehog-egg-on-toast-edition.json) |
+| Sonic The Hedgehog: Electro Block | 313323 | [313323-sonic-the-hedgehog-electro-block.json](./313323-sonic-the-hedgehog-electro-block.json) |
 | Sonic the Hedgehog: Emerald Chaos | 331702 | [331702-sonic-the-hedgehog-emerald-chaos.json](./331702-sonic-the-hedgehog-emerald-chaos.json) |
 | Sonic the Hedgehog: Hands of Time | 330707 | [330707-sonic-the-hedgehog-hands-of-time.json](./330707-sonic-the-hedgehog-hands-of-time.json) |
 | Sonic the Hedgehog: Legend of the Blue Blur 2 | 326950 | [326950-sonic-the-hedgehog-legend-of-the-blue-blur-2.json](./326950-sonic-the-hedgehog-legend-of-the-blue-blur-2.json) |
@@ -4659,6 +4663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic XN | 331666 | [331666-sonic-xn.json](./331666-sonic-xn.json) |
 | Sonic: Before the Sequel - Redux | 266508 | [266508-sonic-before-the-sequel-redux.json](./266508-sonic-before-the-sequel-redux.json) |
 | Sonic: Death Days | 331711 | [331711-sonic-death-days.json](./331711-sonic-death-days.json) |
+| Sonic: Dream Plant | 313324 | [313324-sonic-dream-plant.json](./313324-sonic-dream-plant.json) |
 | Sonic: Emerald Hunt | 326815 | [326815-sonic-emerald-hunt.json](./326815-sonic-emerald-hunt.json) |
 | Sonic: Eternal Flare | 330698 | [330698-sonic-eternal-flare.json](./330698-sonic-eternal-flare.json) |
 | Sonic: Into the Void | 256299 | [256299-sonic-into-the-void.json](./256299-sonic-into-the-void.json) |
@@ -7324,6 +7329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold: Warlords - Rise of the Shogun Campaign | 186877 | [186877-stronghold-warlords-rise-of-the-shogun-campaign.json](./186877-stronghold-warlords-rise-of-the-shogun-campaign.json) |
 | Stronghold: Warlords - The Mongol Empire Campaign | 186879 | [186879-stronghold-warlords-the-mongol-empire-campaign.json](./186879-stronghold-warlords-the-mongol-empire-campaign.json) |
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
+| Strontium Dog and the Death Gauntlet | 313333 | [313333-strontium-dog-and-the-death-gauntlet.json](./313333-strontium-dog-and-the-death-gauntlet.json) |
 | Strontium Dog: The Killing | 38924 | [38924-strontium-dog-the-killing.json](./38924-strontium-dog-the-killing.json) |
 | Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
@@ -8132,6 +8138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 Splitscreen Multiplayer | 135223 | [135223-super-mario-64-splitscreen-multiplayer.json](./135223-super-mario-64-splitscreen-multiplayer.json) |
 | Super Mario 64 Xbox | 284359 | [284359-super-mario-64-xbox.json](./284359-super-mario-64-xbox.json) |
 | Super Mario 64: Arguably Better Edition | 146248 | [146248-super-mario-64-arguably-better-edition.json](./146248-super-mario-64-arguably-better-edition.json) |
+| Super Mario 64: Beyond Hell Valley | 313301 | [313301-super-mario-64-beyond-hell-valley.json](./313301-super-mario-64-beyond-hell-valley.json) |
 | Super Mario 64: Gore/Hard-Mode | 326065 | [326065-super-mario-64-gore-hard-mode.json](./326065-super-mario-64-gore-hard-mode.json) |
 | Super Mario 64: Green Demon Challenge | 365714 | [365714-super-mario-64-green-demon-challenge.json](./365714-super-mario-64-green-demon-challenge.json) |
 | Super Mario 64: Ocarina of Time | 132837 | [132837-super-mario-64-ocarina-of-time.json](./132837-super-mario-64-ocarina-of-time.json) |
@@ -8214,6 +8221,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Galaxy | 366899 | [366899-super-mario-galaxy.json](./366899-super-mario-galaxy.json) |
 | Super Mario Galaxy 2 | 366900 | [366900-super-mario-galaxy-2.json](./366900-super-mario-galaxy-2.json) |
 | Super Mario Galaxy 63 | 294714 | [294714-super-mario-galaxy-63.json](./294714-super-mario-galaxy-63.json) |
+| Super Mario Galaxy 64 | 313339 | [313339-super-mario-galaxy-64.json](./313339-super-mario-galaxy-64.json) |
+| Super Mario Galaxy: The Lost Levels | 313326 | [313326-super-mario-galaxy-the-lost-levels.json](./313326-super-mario-galaxy-the-lost-levels.json) |
 | Super Mario Golden Hour | 394337 | [394337-super-mario-golden-hour.json](./394337-super-mario-golden-hour.json) |
 | Super Mario Gravity | 213948 | [213948-super-mario-gravity.json](./213948-super-mario-gravity.json) |
 | Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
@@ -8229,6 +8238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Kingdom | 318036 | [318036-super-mario-kingdom.json](./318036-super-mario-kingdom.json) |
 | Super Mario Land Hack 2017: Tatanga's Revenge | 338813 | [338813-super-mario-land-hack-2017-tatangas-revenge.json](./338813-super-mario-land-hack-2017-tatangas-revenge.json) |
 | Super Mario Legend | 323751 | [323751-super-mario-legend.json](./323751-super-mario-legend.json) |
+| Super Mario Lost Worlds: Crusade | 313348 | [313348-super-mario-lost-worlds-crusade.json](./313348-super-mario-lost-worlds-crusade.json) |
 | Super Mario Maker for Nintendo 3DS | 26157 | [26157-super-mario-maker-for-nintendo-3ds.json](./26157-super-mario-maker-for-nintendo-3ds.json) |
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
 | Super Mario Maker: Key Update! | 364580 | [364580-super-mario-maker-key-update.json](./364580-super-mario-maker-key-update.json) |
@@ -9096,6 +9106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Hollow Realization Collector's Edition | 132182 | [132182-sword-art-online-hollow-realization-collectors-edition.json](./132182-sword-art-online-hollow-realization-collectors-edition.json) |
 | Sword Art Online: Integral Factor | 68441 | [68441-sword-art-online-integral-factor.json](./68441-sword-art-online-integral-factor.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
+| Sword Art Online: Lost Song - Limited Edition | 313299 | [313299-sword-art-online-lost-song-limited-edition.json](./313299-sword-art-online-lost-song-limited-edition.json) |
 | Sword Art Online: Unleash Blading | 318998 | [318998-sword-art-online-unleash-blading.json](./318998-sword-art-online-unleash-blading.json) |
 | Sword Chronicles: Awaken | 262378 | [262378-sword-chronicles-awaken.json](./262378-sword-chronicles-awaken.json) |
 | Sword Coast Legends: Digital Deluxe Edition | 54422 | [54422-sword-coast-legends-digital-deluxe-edition.json](./54422-sword-coast-legends-digital-deluxe-edition.json) |
