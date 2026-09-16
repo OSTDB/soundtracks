@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mania Fish | 188069 | [188069-mania-fish.json](./188069-mania-fish.json) |
 | Maniac Jackson and the Moonwalking Mindbenders | 93035 | [93035-maniac-jackson-and-the-moonwalking-mindbenders.json](./93035-maniac-jackson-and-the-moonwalking-mindbenders.json) |
 | Maniac Mansion | 307416 | [307416-maniac-mansion.json](./307416-maniac-mansion.json) |
+| Maniac Outhouse | 301441 | [301441-maniac-outhouse.json](./301441-maniac-outhouse.json) |
 | Maniac Path 2 | 169387 | [169387-maniac-path-2.json](./169387-maniac-path-2.json) |
 | Maniac Path 3 | 327824 | [327824-maniac-path-3.json](./327824-maniac-path-3.json) |
 | Maniac Sports | 69249 | [69249-maniac-sports.json](./69249-maniac-sports.json) |
@@ -5059,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dear Love | 311480 | [311480-my-dear-love.json](./311480-my-dear-love.json) |
 | My Dearest Direst Disaster | 397803 | [397803-my-dearest-direst-disaster.json](./397803-my-dearest-direst-disaster.json) |
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
+| My Diamond Baby | 301416 | [301416-my-diamond-baby.json](./301416-my-diamond-baby.json) |
 | My Direct Damag 7 Trillion | 318422 | [318422-my-direct-damag-7-trillion.json](./318422-my-direct-damag-7-trillion.json) |
 | My Dolphin | 67254 | [67254-my-dolphin.json](./67254-my-dolphin.json) |
 | My Dolphin Show | 86773 | [86773-my-dolphin-show.json](./86773-my-dolphin-show.json) |
