@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Wars ll | 52565 | [52565-airport-wars-ll.json](./52565-airport-wars-ll.json) |
 | Airranger | 122978 | [122978-airranger.json](./122978-airranger.json) |
 | AirRevo | 187453 | [187453-airrevo.json](./187453-airrevo.json) |
+| Airsoft Range | 312192 | [312192-airsoft-range.json](./312192-airsoft-range.json) |
 | Airstrife: Assault of the Aviators | 143691 | [143691-airstrife-assault-of-the-aviators.json](./143691-airstrife-assault-of-the-aviators.json) |
 | Airstrip DLC and Can Touch This DLC Bundle | 305497 | [305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
 | Airtight City 1.0 | 119724 | [119724-airtight-city-1-0.json](./119724-airtight-city-1-0.json) |
@@ -1358,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alternity | 59974 | [59974-alternity.json](./59974-alternity.json) |
 | Altero | 81253 | [81253-altero.json](./81253-altero.json) |
 | AlterVerse: Disruption | 70394 | [70394-alterverse-disruption.json](./70394-alterverse-disruption.json) |
+| Alterworld | 312173 | [312173-alterworld.json](./312173-alterworld.json) |
 | Altf42 | 226217 | [226217-altf42.json](./226217-altf42.json) |
 | Altitudes | 141173 | [141173-altitudes.json](./141173-altitudes.json) |
 | Altiverse | 266809 | [266809-altiverse.json](./266809-altiverse.json) |
@@ -1748,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Engine | 387370 | [387370-angel-engine.json](./387370-angel-engine.json) |
 | Angel Garden | 393606 | [393606-angel-garden.json](./393606-angel-garden.json) |
 | Angel Gate | 242241 | [242241-angel-gate.json](./242241-angel-gate.json) |
+| Angel Guardian | 312161 | [312161-angel-guardian.json](./312161-angel-guardian.json) |
 | Angel Hua Yin | 339843 | [339843-angel-hua-yin.json](./339843-angel-hua-yin.json) |
 | Angel in Danger | 61072 | [61072-angel-in-danger.json](./61072-angel-in-danger.json) |
 | Angel in Inferno | 402316 | [402316-angel-in-inferno.json](./402316-angel-in-inferno.json) |
