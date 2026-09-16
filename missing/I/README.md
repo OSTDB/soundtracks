@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'mitation: The Eight Suicide Note | 132258 | [132258-imitation-the-eight-suicide-note.json](./132258-imitation-the-eight-suicide-note.json) |
 | I've Fallen For You! | 319944 | [319944-ive-fallen-for-you.json](./319944-ive-fallen-for-you.json) |
 | I’ve Transmigrated as the Supreme Villainess... But I Have No Idea WTF I’m Supposed to Do! | 177511 | [177511-i-ve-transmigrated-as-the-supreme-villainess-but-i-have-no-idea-wtf-i-m-supposed-to-do.json](./177511-i-ve-transmigrated-as-the-supreme-villainess-but-i-have-no-idea-wtf-i-m-supposed-to-do.json) |
+| I*Chu: Chibi Edition | 292142 | [292142-i-chu-chibi-edition.json](./292142-i-chu-chibi-edition.json) |
 | I/O | 64950 | [64950-i-o.json](./64950-i-o.json) |
 | I`m Isekai Hero | 296935 | [296935-i-m-isekai-hero.json](./296935-i-m-isekai-hero.json) |
 | i3Peaks - Tri Peaks Solitaire | 87084 | [87084-i3peaks-tri-peaks-solitaire.json](./87084-i3peaks-tri-peaks-solitaire.json) |
@@ -427,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Realms: The Eternal Spire | 403657 | [403657-idle-realms-the-eternal-spire.json](./403657-idle-realms-the-eternal-spire.json) |
 | Idle Regenerator | 408041 | [408041-idle-regenerator.json](./408041-idle-regenerator.json) |
 | Idle Roboto | 152888 | [152888-idle-roboto.json](./152888-idle-roboto.json) |
+| Idle RPG: The Game is Bugged! | 292135 | [292135-idle-rpg-the-game-is-bugged.json](./292135-idle-rpg-the-game-is-bugged.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
 | Idle School Simulator | 299903 | [299903-idle-school-simulator.json](./299903-idle-school-simulator.json) |
 | Idle Siege: Army Tycoon Game | 246982 | [246982-idle-siege-army-tycoon-game.json](./246982-idle-siege-army-tycoon-game.json) |
@@ -1818,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izeriya | 32938 | [32938-izeriya.json](./32938-izeriya.json) |
 | Izmir: An Independence Simulator | 196294 | [196294-izmir-an-independence-simulator.json](./196294-izmir-an-independence-simulator.json) |
 | Izolated | 295532 | [295532-izolated.json](./295532-izolated.json) |
+| Izumi Jiken File Vol. 3 - Yujuku-hen | 292113 | [292113-izumi-jiken-file-vol-3-yujuku-hen.json](./292113-izumi-jiken-file-vol-3-yujuku-hen.json) |
 | Izumo | 58168 | [58168-izumo.json](./58168-izumo.json) |
 | Izuna 2: The Unemployed Ninja Returns | 21345 | [21345-izuna-2-the-unemployed-ninja-returns.json](./21345-izuna-2-the-unemployed-ninja-returns.json) |
 | Izuna: Legend of the Unemployed Ninja | 20671 | [20671-izuna-legend-of-the-unemployed-ninja.json](./20671-izuna-legend-of-the-unemployed-ninja.json) |
