@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manonnikki | 229698 | [229698-manonnikki.json](./229698-manonnikki.json) |
 | Manor Dynasty Strategy | 397065 | [397065-manor-dynasty-strategy.json](./397065-manor-dynasty-strategy.json) |
 | Manor of Mysteries | 265149 | [265149-manor-of-mysteries.json](./265149-manor-of-mysteries.json) |
+| Manor of Mystic Courtesans | 291072 | [291072-manor-of-mystic-courtesans.json](./291072-manor-of-mystic-courtesans.json) |
 | Mansion | 269861 | [269861-mansion.json](./269861-mansion.json) |
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
 | Mansion of Hidden Souls | 5402 | [5402-mansion-of-hidden-souls.json](./5402-mansion-of-hidden-souls.json) |
@@ -1836,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Masters Collection | 131581 | [131581-medieval-masters-collection.json](./131581-medieval-masters-collection.json) |
 | Medieval Mayhem | 40716 | [40716-medieval-mayhem.json](./40716-medieval-mayhem.json) |
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
+| Medieval Sex Jigsaw | 291067 | [291067-medieval-sex-jigsaw.json](./291067-medieval-sex-jigsaw.json) |
 | Medieval Simulators: Baker | 248047 | [248047-medieval-simulators-baker.json](./248047-medieval-simulators-baker.json) |
 | Medieval Squad Tactics | 415888 | [415888-medieval-squad-tactics.json](./415888-medieval-squad-tactics.json) |
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
@@ -3214,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Tennis Club | 298308 | [298308-mini-tennis-club.json](./298308-mini-tennis-club.json) |
 | Mini Toss | 323159 | [323159-mini-toss.json](./323159-mini-toss.json) |
 | Mini Transport | 129742 | [129742-mini-transport.json](./129742-mini-transport.json) |
+| Mini Treasure Girl | 291066 | [291066-mini-treasure-girl.json](./291066-mini-treasure-girl.json) |
 | Mini Warrior Defense | 404217 | [404217-mini-warrior-defense.json](./404217-mini-warrior-defense.json) |
 | Mini Warriors: Three Kingdoms | 196305 | [196305-mini-warriors-three-kingdoms.json](./196305-mini-warriors-three-kingdoms.json) |
 | Mini Wheels | 83591 | [83591-mini-wheels.json](./83591-mini-wheels.json) |
@@ -3344,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mire | 339823 | [339823-mire.json](./339823-mire.json) |
 | Mirelaine | 360065 | [360065-mirelaine.json](./360065-mirelaine.json) |
 | Mirko Polo | 298564 | [298564-mirko-polo.json](./298564-mirko-polo.json) |
+| Miro | 291051 | [291051-miro.json](./291051-miro.json) |
 | Mirror Head | 327417 | [327417-mirror-head.json](./327417-mirror-head.json) |
 | Mirror House Cornflake | 150109 | [150109-mirror-house-cornflake.json](./150109-mirror-house-cornflake.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
@@ -5102,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dear Love | 311480 | [311480-my-dear-love.json](./311480-my-dear-love.json) |
 | My Dearest Direst Disaster | 397803 | [397803-my-dearest-direst-disaster.json](./397803-my-dearest-direst-disaster.json) |
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
+| My Destiny Girls | 291091 | [291091-my-destiny-girls.json](./291091-my-destiny-girls.json) |
 | My Diamond Baby | 301416 | [301416-my-diamond-baby.json](./301416-my-diamond-baby.json) |
 | My Direct Damag 7 Trillion | 318422 | [318422-my-direct-damag-7-trillion.json](./318422-my-direct-damag-7-trillion.json) |
 | My Dolphin | 67254 | [67254-my-dolphin.json](./67254-my-dolphin.json) |
@@ -5286,6 +5291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sexual Hospitalization | 215890 | [215890-my-sexual-hospitalization.json](./215890-my-sexual-hospitalization.json) |
 | My Sexy Anthro: Fluttertime! | 273944 | [273944-my-sexy-anthro-fluttertime.json](./273944-my-sexy-anthro-fluttertime.json) |
 | My Sexy Fairies | 415161 | [415161-my-sexy-fairies.json](./415161-my-sexy-fairies.json) |
+| My Sexy Neighbor | 291061 | [291061-my-sexy-neighbor.json](./291061-my-sexy-neighbor.json) |
 | My Shelf | 87882 | [87882-my-shelf.json](./87882-my-shelf.json) |
 | My Silly Life | 158222 | [158222-my-silly-life.json](./158222-my-silly-life.json) |
 | My Silly Science Summer in the Past | 348758 | [348758-my-silly-science-summer-in-the-past.json](./348758-my-silly-science-summer-in-the-past.json) |
@@ -5345,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Talking Girl | 300429 | [300429-my-talking-girl.json](./300429-my-talking-girl.json) |
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
 | My Teacher is an Alien | 148515 | [148515-my-teacher-is-an-alien.json](./148515-my-teacher-is-an-alien.json) |
+| My Thai Boyfriend | 291078 | [291078-my-thai-boyfriend.json](./291078-my-thai-boyfriend.json) |
 | My Therapy | 207540 | [207540-my-therapy.json](./207540-my-therapy.json) |
 | My Time at Portia | 43165 | [43165-my-time-at-portia.json](./43165-my-time-at-portia.json) |
 | My Time at Sandrock: Online | 306487 | [306487-my-time-at-sandrock-online.json](./306487-my-time-at-sandrock-online.json) |
