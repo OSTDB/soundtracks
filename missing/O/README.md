@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwhelm | 103324 | [103324-overwhelm.json](./103324-overwhelm.json) |
 | Overworked | 408180 | [408180-overworked.json](./408180-overworked.json) |
 | OVO Smash! | 69238 | [69238-ovo-smash.json](./69238-ovo-smash.json) |
+| OVR Dynamic Resolution | 319793 | [319793-ovr-dynamic-resolution.json](./319793-ovr-dynamic-resolution.json) |
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
 | Ovus Nova | 185623 | [185623-ovus-nova.json](./185623-ovus-nova.json) |
 | Owarinaki Natsu, Towa Naru Shirabe | 202383 | [202383-owarinaki-natsu-towa-naru-shirabe.json](./202383-owarinaki-natsu-towa-naru-shirabe.json) |
