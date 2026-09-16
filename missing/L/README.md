@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Grav Racer | 63231 | [63231-low-grav-racer.json](./63231-low-grav-racer.json) |
 | Low Poly Flight Simulator | 411572 | [411572-low-poly-flight-simulator.json](./411572-low-poly-flight-simulator.json) |
 | Low_Signal | 353278 | [353278-low-signal.json](./353278-low-signal.json) |
+| Low-Budget Repairs | 316836 | [316836-low-budget-repairs.json](./316836-low-budget-repairs.json) |
 | Low-Fi | 125401 | [125401-low-fi.json](./125401-low-fi.json) |
 | Löwenzahn 3: Geschichten aus Natur, Umwelt und Technik | 374188 | [374188-lowenzahn-3-geschichten-aus-natur-umwelt-und-technik.json](./374188-lowenzahn-3-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn 4: Geschichten aus Natur, Umwelt und Technik | 374189 | [374189-lowenzahn-4-geschichten-aus-natur-umwelt-und-technik.json](./374189-lowenzahn-4-geschichten-aus-natur-umwelt-und-technik.json) |
