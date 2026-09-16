@@ -3416,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisma Light | 236849 | [236849-prisma-light.json](./236849-prisma-light.json) |
 | Prismatic Solid | 66305 | [66305-prismatic-solid.json](./66305-prismatic-solid.json) |
 | Prismatic: Nox's Gate | 337481 | [337481-prismatic-noxs-gate.json](./337481-prismatic-noxs-gate.json) |
+| Prison Amok | 330841 | [330841-prison-amok.json](./330841-prison-amok.json) |
 | Prison Architect: All Day and a Night | 234041 | [234041-prison-architect-all-day-and-a-night.json](./234041-prison-architect-all-day-and-a-night.json) |
 | Prison Architect: Cleared for Transfer | 148528 | [148528-prison-architect-cleared-for-transfer.json](./148528-prison-architect-cleared-for-transfer.json) |
 | Prison Architect: Free for life | 220655 | [220655-prison-architect-free-for-life.json](./220655-prison-architect-free-for-life.json) |
@@ -3812,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Catalepsy | 395571 | [395571-project-catalepsy.json](./395571-project-catalepsy.json) |
 | Project: Dream | 220658 | [220658-project-dream.json](./220658-project-dream.json) |
 | Project: Eden's Garden | 222895 | [222895-project-edens-garden.json](./222895-project-edens-garden.json) |
+| Project: EGG | 330872 | [330872-project-egg.json](./330872-project-egg.json) |
 | Project: Eliot | 337158 | [337158-project-eliot.json](./337158-project-eliot.json) |
 | Project: Fractured Reality | 347160 | [347160-project-fractured-reality.json](./347160-project-fractured-reality.json) |
 | Project: G-216 | 313480 | [313480-project-g-216.json](./313480-project-g-216.json) |
