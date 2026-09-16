@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Tomorrow | 369643 | [369643-echoes-of-tomorrow.json](./369643-echoes-of-tomorrow.json) |
 | Echoes of Undeath | 355019 | [355019-echoes-of-undeath.json](./355019-echoes-of-undeath.json) |
 | Echoes of Vision | 321776 | [321776-echoes-of-vision.json](./321776-echoes-of-vision.json) |
+| Echoes of Yi: Samsara | 288880 | [288880-echoes-of-yi-samsara.json](./288880-echoes-of-yi-samsara.json) |
 | Echoes of You | 252365 | [252365-echoes-of-you.json](./252365-echoes-of-you.json) |
 | Echoes of You | 306346 | [306346-echoes-of-you.json](./306346-echoes-of-you.json) |
 | Echoes: Operation Stranglehold | 334666 | [334666-echoes-operation-stranglehold.json](./334666-echoes-operation-stranglehold.json) |
@@ -1242,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eros Myth | 176467 | [176467-eros-myth.json](./176467-eros-myth.json) |
 | Erotic Colouring Book | 110356 | [110356-erotic-colouring-book.json](./110356-erotic-colouring-book.json) |
 | Erotic Dungeon Survival | 82829 | [82829-erotic-dungeon-survival.json](./82829-erotic-dungeon-survival.json) |
+| Erotic Fiction for Sex Motel | 288887 | [288887-erotic-fiction-for-sex-motel.json](./288887-erotic-fiction-for-sex-motel.json) |
 | Erotic Jigsaw Challenge Vol 2 | 106541 | [106541-erotic-jigsaw-challenge-vol-2.json](./106541-erotic-jigsaw-challenge-vol-2.json) |
 | Erotic Jigsaw Puzzle | 156644 | [156644-erotic-jigsaw-puzzle.json](./156644-erotic-jigsaw-puzzle.json) |
 | Erotic Jigsaw Puzzle 2 | 150652 | [150652-erotic-jigsaw-puzzle-2.json](./150652-erotic-jigsaw-puzzle-2.json) |
