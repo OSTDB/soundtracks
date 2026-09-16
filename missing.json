@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T12:34:07.479Z",
-  "total_missing": 77947,
+  "generated_at": "2026-09-16T12:41:40.352Z",
+  "total_missing": 77946,
   "games": [
     {
       "igdb_id": 306086,
@@ -6026,11 +6026,6 @@
       "igdb_id": 109720,
       "game_name": "Ah, Love!",
       "file": "missing/A/109720-ah-love.json"
-    },
-    {
-      "igdb_id": 110446,
-      "game_name": "Ahegal",
-      "file": "missing/A/110446-ahegal.json"
     },
     {
       "igdb_id": 123609,
