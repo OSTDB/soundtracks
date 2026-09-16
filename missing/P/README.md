@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws & Claws Pampered Pets | 288196 | [288196-paws-and-claws-pampered-pets.json](./288196-paws-and-claws-pampered-pets.json) |
 | Paws & Claws Pet Vet: Australian Adventures | 47977 | [47977-paws-and-claws-pet-vet-australian-adventures.json](./47977-paws-and-claws-pet-vet-australian-adventures.json) |
 | Paws & Claws: Pet Resort | 18272 | [18272-paws-and-claws-pet-resort.json](./18272-paws-and-claws-pet-resort.json) |
+| Paws & Perils: Out Of This World | 327386 | [327386-paws-and-perils-out-of-this-world.json](./327386-paws-and-perils-out-of-this-world.json) |
 | Paws and Leaves: A Last Tale | 211234 | [211234-paws-and-leaves-a-last-tale.json](./211234-paws-and-leaves-a-last-tale.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
 | Paws of Fury | 181342 | [181342-paws-of-fury.json](./181342-paws-of-fury.json) |
@@ -3971,6 +3972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSXFunkin' | 279587 | [279587-psxfunkin.json](./279587-psxfunkin.json) |
 | Psy High 2: High Summer | 121702 | [121702-psy-high-2-high-summer.json](./121702-psy-high-2-high-summer.json) |
 | PSY in Apocalypse | 270953 | [270953-psy-in-apocalypse.json](./270953-psy-in-apocalypse.json) |
+| Psy-O-Blade | 327404 | [327404-psy-o-blade.json](./327404-psy-o-blade.json) |
 | PsyBurst | 107852 | [107852-psyburst.json](./107852-psyburst.json) |
 | Psych: The Game | 19312 | [19312-psych-the-game.json](./19312-psych-the-game.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
