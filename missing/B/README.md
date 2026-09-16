@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bahnfrei | 398409 | [398409-bahnfrei.json](./398409-bahnfrei.json) |
 | Bái Xiǎo | 195266 | [195266-bai-xiao.json](./195266-bai-xiao.json) |
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
+| Baikinman wo Yattsukero! | 300006 | [300006-baikinman-wo-yattsukero.json](./300006-baikinman-wo-yattsukero.json) |
 | Bail Force: Cyberpunk Bounty Hunters | 249181 | [249181-bail-force-cyberpunk-bounty-hunters.json](./249181-bail-force-cyberpunk-bounty-hunters.json) |
 | Bail or Jail: Character DLC Bundle 2 | 255141 | [255141-bail-or-jail-character-dlc-bundle-2.json](./255141-bail-or-jail-character-dlc-bundle-2.json) |
 | Baimason's Thing Finder Puzzle | 293612 | [293612-baimasons-thing-finder-puzzle.json](./293612-baimasons-thing-finder-puzzle.json) |
@@ -794,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 245561 | [245561-baseball.json](./245561-baseball.json) |
 | Baseball | 277862 | [277862-baseball.json](./277862-baseball.json) |
 | Baseball | 297486 | [297486-baseball.json](./297486-baseball.json) |
+| Baseball | 300004 | [300004-baseball.json](./300004-baseball.json) |
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
 | Baseball 101 | 230839 | [230839-baseball-101.json](./230839-baseball-101.json) |
 | Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
