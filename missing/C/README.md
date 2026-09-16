@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarX Drift Racing 2 | 129793 | [129793-carx-drift-racing-2.json](./129793-carx-drift-racing-2.json) |
 | CarX Drift Racing Online: Hit the Wall | 199667 | [199667-carx-drift-racing-online-hit-the-wall.json](./199667-carx-drift-racing-online-hit-the-wall.json) |
 | CarX Rally | 174851 | [174851-carx-rally.json](./174851-carx-rally.json) |
+| Casablanca: The Day After | 319808 | [319808-casablanca-the-day-after.json](./319808-casablanca-the-day-after.json) |
 | Casadastra | 185160 | [185160-casadastra.json](./185160-casadastra.json) |
 | Casanova Simulator | 373085 | [373085-casanova-simulator.json](./373085-casanova-simulator.json) |
 | Cascade | 128645 | [128645-cascade.json](./128645-cascade.json) |
@@ -2126,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
 | Cinderella Phenomenon | 30030 | [30030-cinderella-phenomenon.json](./30030-cinderella-phenomenon.json) |
 | Cinderella: Interactive Book | 260673 | [260673-cinderella-interactive-book.json](./260673-cinderella-interactive-book.json) |
+| Cinderella: Princess of the Magic Kingdom | 319787 | [319787-cinderella-princess-of-the-magic-kingdom.json](./319787-cinderella-princess-of-the-magic-kingdom.json) |
 | Cinderella's Spark | 184037 | [184037-cinderellas-spark.json](./184037-cinderellas-spark.json) |
 | Cinderstone Online | 132149 | [132149-cinderstone-online.json](./132149-cinderstone-online.json) |
 | Cine Tracer | 112265 | [112265-cine-tracer.json](./112265-cine-tracer.json) |
@@ -2187,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel Warrior | 308255 | [308255-citadel-warrior.json](./308255-citadel-warrior.json) |
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Citalis | 25713 | [25713-citalis.json](./25713-citalis.json) |
+| Cities Domination | 319764 | [319764-cities-domination.json](./319764-cities-domination.json) |
 | Cities Skylines Mobile Edition | 237630 | [237630-cities-skylines-mobile-edition.json](./237630-cities-skylines-mobile-edition.json) |
 | Cities XXL | 10094 | [10094-cities-xxl.json](./10094-cities-xxl.json) |
 | Cities: Skylines - 90s Pop Radio | 257082 | [257082-cities-skylines-90s-pop-radio.json](./257082-cities-skylines-90s-pop-radio.json) |
@@ -2488,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Empires | 9764 | [9764-clockwork-empires.json](./9764-clockwork-empires.json) |
 | Clockwork Owl | 224767 | [224767-clockwork-owl.json](./224767-clockwork-owl.json) |
 | Clockwork Pussy | 158218 | [158218-clockwork-pussy.json](./158218-clockwork-pussy.json) |
+| Clockwork Rabbit | 319814 | [319814-clockwork-rabbit.json](./319814-clockwork-rabbit.json) |
 | Clockwork Tales: Of Glass and Ink | 17141 | [17141-clockwork-tales-of-glass-and-ink.json](./17141-clockwork-tales-of-glass-and-ink.json) |
 | Clone | 64959 | [64959-clone.json](./64959-clone.json) |
 | Clone Clicker | 278431 | [278431-clone-clicker.json](./278431-clone-clicker.json) |
@@ -3192,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conarium | 24856 | [24856-conarium.json](./24856-conarium.json) |
 | Conbunn Cardboard | 204099 | [204099-conbunn-cardboard.json](./204099-conbunn-cardboard.json) |
 | Conc Jump | 132852 | [132852-conc-jump.json](./132852-conc-jump.json) |
+| Concentration | 319797 | [319797-concentration.json](./319797-concentration.json) |
 | Concept 20 | 127224 | [127224-concept-20.json](./127224-concept-20.json) |
 | Concept Destruction | 123561 | [123561-concept-destruction.json](./123561-concept-destruction.json) |
 | Conception II: Children of the Seven Stars - Limited Edition | 42669 | [42669-conception-ii-children-of-the-seven-stars-limited-edition.json](./42669-conception-ii-children-of-the-seven-stars-limited-edition.json) |
