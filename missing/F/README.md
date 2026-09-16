@@ -318,7 +318,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 4: Far Harbor | 18031 | [18031-fallout-4-far-harbor.json](./18031-fallout-4-far-harbor.json) |
 | Fallout 76: Camp Pets | 317825 | [317825-fallout-76-camp-pets.json](./317825-fallout-76-camp-pets.json) |
 | Fallout 76: Ghoul Within | 341476 | [341476-fallout-76-ghoul-within.json](./341476-fallout-76-ghoul-within.json) |
+| Fallout 76: Gleaming Depths | 314487 | [314487-fallout-76-gleaming-depths.json](./314487-fallout-76-gleaming-depths.json) |
 | Fallout 76: Gone Fission | 347166 | [347166-fallout-76-gone-fission.json](./347166-fallout-76-gone-fission.json) |
+| Fallout 76: Milepost Zero | 314486 | [314486-fallout-76-milepost-zero.json](./314486-fallout-76-milepost-zero.json) |
 | Fallout 76: Platinum Edition | 111060 | [111060-fallout-76-platinum-edition.json](./111060-fallout-76-platinum-edition.json) |
 | Fallout 76: Raiders Content Bundle | 136384 | [136384-fallout-76-raiders-content-bundle.json](./136384-fallout-76-raiders-content-bundle.json) |
 | Fallout 76: Season 11 - Nuka-World | 232689 | [232689-fallout-76-season-11-nuka-world.json](./232689-fallout-76-season-11-nuka-world.json) |
@@ -2210,8 +2212,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FMV Horror Bundle | 236812 | [236812-fmv-horror-bundle.json](./236812-fmv-horror-bundle.json) |
 | FNaF 2: Wii U Edition | 358328 | [358328-fnaf-2-wii-u-edition.json](./358328-fnaf-2-wii-u-edition.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
+| FNF Weekly | 314498 | [314498-fnf-weekly.json](./314498-fnf-weekly.json) |
 | FNF x Ace Attorney: Turnabout | 314044 | [314044-fnf-x-ace-attorney-turnabout.json](./314044-fnf-x-ace-attorney-turnabout.json) |
+| FNF: Executable Mania | 314507 | [314507-fnf-executable-mania.json](./314507-fnf-executable-mania.json) |
 | FNF: Spooky Mix | 365105 | [365105-fnf-spooky-mix.json](./365105-fnf-spooky-mix.json) |
+| FNF: V.S. Tabi Ex Boyfriend | 314513 | [314513-fnf-v-s-tabi-ex-boyfriend.json](./314513-fnf-v-s-tabi-ex-boyfriend.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
 | Focumon | 397828 | [397828-focumon.json](./397828-focumon.json) |
@@ -2911,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
 | Friday Night Funkin' Soft | 206928 | [206928-friday-night-funkin-soft.json](./206928-friday-night-funkin-soft.json) |
 | Friday Night Funkin' VS Ralsei | 241377 | [241377-friday-night-funkin-vs-ralsei.json](./241377-friday-night-funkin-vs-ralsei.json) |
+| Friday Night Funkin' vs. LSE | 314509 | [314509-friday-night-funkin-vs-lse.json](./314509-friday-night-funkin-vs-lse.json) |
 | Friday Night Funkin' vs. NFT | 325104 | [325104-friday-night-funkin-vs-nft.json](./325104-friday-night-funkin-vs-nft.json) |
 | Friday Night Funkin': Banbuds vs. Reggie the Rat | 202337 | [202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json](./202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json) |
 | Friday Night Funkin': Hotline 024 | 201320 | [201320-friday-night-funkin-hotline-024.json](./201320-friday-night-funkin-hotline-024.json) |
@@ -2929,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': VS. Cassette Girl | 199045 | [199045-friday-night-funkin-vs-cassette-girl.json](./199045-friday-night-funkin-vs-cassette-girl.json) |
 | Friday Night Funkin': vs. Donald J. Trump | 332226 | [332226-friday-night-funkin-vs-donald-j-trump.json](./332226-friday-night-funkin-vs-donald-j-trump.json) |
 | Friday Night Funkin': vs. Evil Otto | 202402 | [202402-friday-night-funkin-vs-evil-otto.json](./202402-friday-night-funkin-vs-evil-otto.json) |
+| Friday Night Funkin': vs. Hex | 314512 | [314512-friday-night-funkin-vs-hex.json](./314512-friday-night-funkin-vs-hex.json) |
 | Friday Night Funkin': vs. Kapi - Arcade Showdown | 180206 | [180206-friday-night-funkin-vs-kapi-arcade-showdown.json](./180206-friday-night-funkin-vs-kapi-arcade-showdown.json) |
 | Friday Night Funkin': Vs. Nekomata Okayu | 226421 | [226421-friday-night-funkin-vs-nekomata-okayu.json](./226421-friday-night-funkin-vs-nekomata-okayu.json) |
 | Friday Night Funkin': vs. Reggie the Rat | 198491 | [198491-friday-night-funkin-vs-reggie-the-rat.json](./198491-friday-night-funkin-vs-reggie-the-rat.json) |
