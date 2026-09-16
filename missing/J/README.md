@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Fun: Wonderful Nature | 187497 | [187497-jigsaw-fun-wonderful-nature.json](./187497-jigsaw-fun-wonderful-nature.json) |
 | Jigsaw Game 05/06 | 345498 | [345498-jigsaw-game-05-06.json](./345498-jigsaw-game-05-06.json) |
 | Jigsaw Industry | 357888 | [357888-jigsaw-industry.json](./357888-jigsaw-industry.json) |
+| Jigsaw Island | 308922 | [308922-jigsaw-island.json](./308922-jigsaw-island.json) |
 | Jigsaw Jab | 390678 | [390678-jigsaw-jab.json](./390678-jigsaw-jab.json) |
 | Jigsaw Madness | 43918 | [43918-jigsaw-madness.json](./43918-jigsaw-madness.json) |
 | Jigsaw Masterpieces | 147951 | [147951-jigsaw-masterpieces.json](./147951-jigsaw-masterpieces.json) |
@@ -460,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Tour 4 | 104688 | [104688-jigsaw-tour-4.json](./104688-jigsaw-tour-4.json) |
 | Jigsaw USA | 328059 | [328059-jigsaw-usa.json](./328059-jigsaw-usa.json) |
 | Jigsaw With Animals | 163405 | [163405-jigsaw-with-animals.json](./163405-jigsaw-with-animals.json) |
+| Jigsaw World | 308926 | [308926-jigsaw-world.json](./308926-jigsaw-world.json) |
 | Jigsaw World | 53249 | [53249-jigsaw-world.json](./53249-jigsaw-world.json) |
 | Jigsu | 79944 | [79944-jigsu.json](./79944-jigsu.json) |
 | Jigten: Mandala of Shadows | 376449 | [376449-jigten-mandala-of-shadows.json](./376449-jigten-mandala-of-shadows.json) |
