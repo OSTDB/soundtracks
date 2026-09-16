@@ -393,6 +393,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capital Simulator | 148483 | [148483-capital-simulator.json](./148483-capital-simulator.json) |
 | Capitalism II | 921 | [921-capitalism-ii.json](./921-capitalism-ii.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
+| Capitals Quizzer: Globe Mode | 296525 | [296525-capitals-quizzer-globe-mode.json](./296525-capitals-quizzer-globe-mode.json) |
+| Capitals Quizzer: People Mode | 296526 | [296526-capitals-quizzer-people-mode.json](./296526-capitals-quizzer-people-mode.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
 | Cappadocia Puzzle | 303065 | [303065-cappadocia-puzzle.json](./303065-cappadocia-puzzle.json) |
 | Capper | 384667 | [384667-capper.json](./384667-capper.json) |
@@ -936,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Gentlemans Play: Insult Spinner 10 Cents | 128626 | [128626-cat-gentlemans-play-insult-spinner-10-cents.json](./128626-cat-gentlemans-play-insult-spinner-10-cents.json) |
 | Cat Gets Medieval | 144972 | [144972-cat-gets-medieval.json](./144972-cat-gets-medieval.json) |
 | Cat Girl Survivor | 295771 | [295771-cat-girl-survivor.json](./295771-cat-girl-survivor.json) |
+| Cat God Ranch | 296511 | [296511-cat-god-ranch.json](./296511-cat-god-ranch.json) |
 | Cat Good Work | 309686 | [309686-cat-good-work.json](./309686-cat-good-work.json) |
 | Cat got Lost | 260670 | [260670-cat-got-lost.json](./260670-cat-got-lost.json) |
 | Cat Got Your Tongue | 360674 | [360674-cat-got-your-tongue.json](./360674-cat-got-your-tongue.json) |
@@ -961,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat President: A More Purrfect Union | 23186 | [23186-cat-president-a-more-purrfect-union.json](./23186-cat-president-a-more-purrfect-union.json) |
 | Cat Purrtrol: Find All 100! | 295772 | [295772-cat-purrtrol-find-all-100.json](./295772-cat-purrtrol-find-all-100.json) |
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
+| Cat Short Way | 296510 | [296510-cat-short-way.json](./296510-cat-short-way.json) |
 | Cat Simulator | 18014 | [18014-cat-simulator.json](./18014-cat-simulator.json) |
 | Cat Simulator | 283154 | [283154-cat-simulator.json](./283154-cat-simulator.json) |
 | Cat Simulator 2015 | 87780 | [87780-cat-simulator-2015.json](./87780-cat-simulator-2015.json) |
@@ -5022,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Hearts Club | 311633 | [311633-cyber-hearts-club.json](./311633-cyber-hearts-club.json) |
 | Cyber Horror: Project S.Y.L.A. | 370110 | [370110-cyber-horror-project-s-y-l-a.json](./370110-cyber-horror-project-s-y-l-a.json) |
+| Cyber Internet Club Simulator | 296501 | [296501-cyber-internet-club-simulator.json](./296501-cyber-internet-club-simulator.json) |
 | Cyber Knight II: Chikyuu Teikoku no Yabou | 42548 | [42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json](./42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
@@ -5030,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Revolution | 339357 | [339357-cyber-revolution.json](./339357-cyber-revolution.json) |
 | Cyber Rider | 155671 | [155671-cyber-rider.json](./155671-cyber-rider.json) |
 | Cyber Runner 2048 | 192393 | [192393-cyber-runner-2048.json](./192393-cyber-runner-2048.json) |
+| Cyber Rush | 296522 | [296522-cyber-rush.json](./296522-cyber-rush.json) |
 | Cyber Russia | 300693 | [300693-cyber-russia.json](./300693-cyber-russia.json) |
 | Cyber Sensation: MicroLife | 351631 | [351631-cyber-sensation-microlife.json](./351631-cyber-sensation-microlife.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
