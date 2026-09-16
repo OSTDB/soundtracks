@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaper | 376574 | [376574-leaper.json](./376574-leaper.json) |
 | LeapFrog: Text & Learn | 327425 | [327425-leapfrog-text-and-learn.json](./327425-leapfrog-text-and-learn.json) |
 | LeapLand Adventures | 230275 | [230275-leapland-adventures.json](./230275-leapland-adventures.json) |
+| Leapo Faith | 321568 | [321568-leapo-faith.json](./321568-leapo-faith.json) |
 | Learn & Discover Home | 326588 | [326588-learn-and-discover-home.json](./326588-learn-and-discover-home.json) |
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
@@ -778,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Hero Factory: Invasion from Below | 343364 | [343364-lego-hero-factory-invasion-from-below.json](./343364-lego-hero-factory-invasion-from-below.json) |
 | LEGO Hidden Side | 122323 | [122323-lego-hidden-side.json](./122323-lego-hidden-side.json) |
 | LEGO Hill Climb Adventures | 242226 | [242226-lego-hill-climb-adventures.json](./242226-lego-hill-climb-adventures.json) |
+| LEGO Horizon Adventure: Shield Weaver Outfit | 321589 | [321589-lego-horizon-adventure-shield-weaver-outfit.json](./321589-lego-horizon-adventure-shield-weaver-outfit.json) |
 | LEGO Indiana Jones 2: The Adventure Continues | 138 | [138-lego-indiana-jones-2-the-adventure-continues.json](./138-lego-indiana-jones-2-the-adventure-continues.json) |
 | LEGO Indiana Jones: The Original Adventures | 189 | [189-lego-indiana-jones-the-original-adventures.json](./189-lego-indiana-jones-the-original-adventures.json) |
 | LEGO Island | 5612 | [5612-lego-island.json](./5612-lego-island.json) |
@@ -1112,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Inside | 335357 | [335357-life-inside.json](./335357-life-inside.json) |
 | Life Is A Game | 298887 | [298887-life-is-a-game.json](./298887-life-is-a-game.json) |
 | Life is a Race | 199086 | [199086-life-is-a-race.json](./199086-life-is-a-race.json) |
+| Life is Feudal: Arden | 321560 | [321560-life-is-feudal-arden.json](./321560-life-is-feudal-arden.json) |
 | Life is Magic | 64426 | [64426-life-is-magic.json](./64426-life-is-magic.json) |
 | Life is Strange 2: Episode 4 - Faith | 119055 | [119055-life-is-strange-2-episode-4-faith.json](./119055-life-is-strange-2-episode-4-faith.json) |
 | Life is Strange Collection | 361759 | [361759-life-is-strange-collection.json](./361759-life-is-strange-collection.json) |
@@ -2141,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Is All Around: Love In The Room | 294998 | [294998-love-is-all-around-love-in-the-room.json](./294998-love-is-all-around-love-in-the-room.json) |
 | Love is Dead | 33225 | [33225-love-is-dead.json](./33225-love-is-dead.json) |
 | Love is in Bloom | 225300 | [225300-love-is-in-bloom.json](./225300-love-is-in-bloom.json) |
+| Love Is... | 321619 | [321619-love-is.json](./321619-love-is.json) |
 | Love is... in Bloom | 51160 | [51160-love-is-in-bloom.json](./51160-love-is-in-bloom.json) |
 | Love Island: The Game - Season 10 | 413632 | [413632-love-island-the-game-season-10.json](./413632-love-island-the-game-season-10.json) |
 | Love Kuesuto | 268468 | [268468-love-kuesuto.json](./268468-love-kuesuto.json) |
