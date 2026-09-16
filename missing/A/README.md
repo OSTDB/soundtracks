@@ -600,7 +600,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aggressors of Dark Kombat | 39336 | [39336-aggressors-of-dark-kombat.json](./39336-aggressors-of-dark-kombat.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Agile Warrior F-111X | 43936 | [43936-agile-warrior-f-111x.json](./43936-agile-warrior-f-111x.json) |
-| AGIS | 239647 | [239647-agis.json](./239647-agis.json) |
 | Aglet: The Sneaker Game | 205586 | [205586-aglet-the-sneaker-game.json](./205586-aglet-the-sneaker-game.json) |
 | Aglobo | 342036 | [342036-aglobo.json](./342036-aglobo.json) |
 | Agma.io | 97302 | [97302-agma-io.json](./97302-agma-io.json) |
