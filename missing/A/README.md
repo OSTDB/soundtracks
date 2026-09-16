@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A'Jatt | 372556 | [372556-ajatt.json](./372556-ajatt.json) |
 | A/X-101 | 5360 | [5360-a-x-101.json](./5360-a-x-101.json) |
 | Aaahh!!! Real Monsters | 5339 | [5339-aaahh-real-monsters.json](./5339-aaahh-real-monsters.json) |
+| Aaero + Aaero2 Bundle | 331448 | [331448-aaero-aaero2-bundle.json](./331448-aaero-aaero2-bundle.json) |
 | Aaero: Complete Edition | 113196 | [113196-aaero-complete-edition.json](./113196-aaero-complete-edition.json) |
 | Aah Little Atlantis | 91911 | [91911-aah-little-atlantis.json](./91911-aah-little-atlantis.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
@@ -922,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaska | 86767 | [86767-alaska.json](./86767-alaska.json) |
 | Alaska Gold Fever | 161343 | [161343-alaska-gold-fever.json](./161343-alaska-gold-fever.json) |
 | Alaska: An Endless Night | 350429 | [350429-alaska-an-endless-night.json](./350429-alaska-an-endless-night.json) |
+| Alaskan Road Truckers: Highway Edition - Cosmetic Bundle | 331447 | [331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json](./331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json) |
 | Alawar Adventure Collection | 52591 | [52591-alawar-adventure-collection.json](./52591-alawar-adventure-collection.json) |
 | Alba: A Wildlife Adventure | 135919 | [135919-alba-a-wildlife-adventure.json](./135919-alba-a-wildlife-adventure.json) |
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
@@ -1308,6 +1310,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Along Came A Spider | 163364 | [163364-along-came-a-spider.json](./163364-along-came-a-spider.json) |
 | Alpaca Party | 326086 | [326086-alpaca-party.json](./326086-alpaca-party.json) |
 | Alpaca Wonders Why | 280175 | [280175-alpaca-wonders-why.json](./280175-alpaca-wonders-why.json) |
+| Alpacapaca Dash 1 + 2 Bundle | 331445 | [331445-alpacapaca-dash-1-2-bundle.json](./331445-alpacapaca-dash-1-2-bundle.json) |
+| Alpacapaca Dash 2 | 331444 | [331444-alpacapaca-dash-2.json](./331444-alpacapaca-dash-2.json) |
+| Alpacas X Cats Bundle | 331446 | [331446-alpacas-x-cats-bundle.json](./331446-alpacas-x-cats-bundle.json) |
 | AlpenCross | 52585 | [52585-alpencross.json](./52585-alpencross.json) |
 | Alpenglow | 384668 | [384668-alpenglow.json](./384668-alpenglow.json) |
 | Alpha Centauri | 261818 | [261818-alpha-centauri.json](./261818-alpha-centauri.json) |
@@ -3272,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix and the Secret Mission | 12888 | [12888-asterix-and-the-secret-mission.json](./12888-asterix-and-the-secret-mission.json) |
 | Asterix Brain Trainer | 67236 | [67236-asterix-brain-trainer.json](./67236-asterix-brain-trainer.json) |
 | Astérix et la Potion Magique | 342056 | [342056-asterix-et-la-potion-magique.json](./342056-asterix-et-la-potion-magique.json) |
+| Asterix Maxi Collection | 331410 | [331410-asterix-maxi-collection.json](./331410-asterix-maxi-collection.json) |
 | Astérix: Caesar's Challenge | 45944 | [45944-asterix-caesars-challenge.json](./45944-asterix-caesars-challenge.json) |
 | Astérix: These Romans Are Crazy! | 269567 | [269567-asterix-these-romans-are-crazy.json](./269567-asterix-these-romans-are-crazy.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
