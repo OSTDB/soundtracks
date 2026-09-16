@@ -4142,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonsigil Atlas | 322204 | [322204-moonsigil-atlas.json](./322204-moonsigil-atlas.json) |
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
 | Moonstone Island: Arcane Artifacts | 301852 | [301852-moonstone-island-arcane-artifacts.json](./301852-moonstone-island-arcane-artifacts.json) |
+| Moonstone Island: Deluxe Edition | 306524 | [306524-moonstone-island-deluxe-edition.json](./306524-moonstone-island-deluxe-edition.json) |
 | Moonstone Island: Designed for Lovers DLC Pack | 293412 | [293412-moonstone-island-designed-for-lovers-dlc-pack.json](./293412-moonstone-island-designed-for-lovers-dlc-pack.json) |
 | Moonstrider | 34562 | [34562-moonstrider.json](./34562-moonstrider.json) |
 | Moonstuck | 195152 | [195152-moonstuck.json](./195152-moonstuck.json) |
@@ -5240,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Teacher is an Alien | 148515 | [148515-my-teacher-is-an-alien.json](./148515-my-teacher-is-an-alien.json) |
 | My Therapy | 207540 | [207540-my-therapy.json](./207540-my-therapy.json) |
 | My Time at Portia | 43165 | [43165-my-time-at-portia.json](./43165-my-time-at-portia.json) |
+| My Time at Sandrock: Online | 306487 | [306487-my-time-at-sandrock-online.json](./306487-my-time-at-sandrock-online.json) |
 | My Time at Sandrock: Starlight Collection 1 | 277822 | [277822-my-time-at-sandrock-starlight-collection-1.json](./277822-my-time-at-sandrock-starlight-collection-1.json) |
 | My Time at Sandrock: Starlight Collection 2 | 277821 | [277821-my-time-at-sandrock-starlight-collection-2.json](./277821-my-time-at-sandrock-starlight-collection-2.json) |
 | My Time at Sandrock: Starlight Collection 3 | 277820 | [277820-my-time-at-sandrock-starlight-collection-3.json](./277820-my-time-at-sandrock-starlight-collection-3.json) |
