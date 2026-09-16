@@ -2726,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rory McIlroy Golf | 23216 | [23216-rory-mcilroy-golf.json](./23216-rory-mcilroy-golf.json) |
 | Ros | 101631 | [101631-ros.json](./101631-ros.json) |
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
+| Rosario + Vampire | 331991 | [331991-rosario-vampire.json](./331991-rosario-vampire.json) |
 | Rosas are Red | 280777 | [280777-rosas-are-red.json](./280777-rosas-are-red.json) |
 | Rose & Camellia | 58842 | [58842-rose-and-camellia.json](./58842-rose-and-camellia.json) |
 | Rose & Camellia 2 | 317596 | [317596-rose-and-camellia-2.json](./317596-rose-and-camellia-2.json) |
