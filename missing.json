@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T05:21:42.479Z",
-  "total_missing": 76688,
+  "generated_at": "2026-09-16T05:34:08.375Z",
+  "total_missing": 76737,
   "games": [
     {
       "igdb_id": 306086,
@@ -5803,11 +5803,6 @@
       "file": "missing/A/325644-agents-of-groove.json"
     },
     {
-      "igdb_id": 52015,
-      "game_name": "Agents of Mayhem: Day One Edition",
-      "file": "missing/A/52015-agents-of-mayhem-day-one-edition.json"
-    },
-    {
       "igdb_id": 169936,
       "game_name": "Agents of Mayhem: Lazarus Agent Pack",
       "file": "missing/A/169936-agents-of-mayhem-lazarus-agent-pack.json"
@@ -7291,6 +7286,11 @@
       "igdb_id": 389995,
       "game_name": "Akunin-Akka",
       "file": "missing/A/389995-akunin-akka.json"
+    },
+    {
+      "igdb_id": 325060,
+      "game_name": "Akuro & Bahaku: Jungle Adventure",
+      "file": "missing/A/325060-akuro-and-bahaku-jungle-adventure.json"
     },
     {
       "igdb_id": 41340,
@@ -13173,6 +13173,11 @@
       "file": "missing/A/172695-anomalice.json"
     },
     {
+      "igdb_id": 325068,
+      "game_name": "Anomalies Detective",
+      "file": "missing/A/325068-anomalies-detective.json"
+    },
+    {
       "igdb_id": 226235,
       "game_name": "Anomalistic Revolution",
       "file": "missing/A/226235-anomalistic-revolution.json"
@@ -13946,6 +13951,11 @@
       "igdb_id": 292510,
       "game_name": "Anzeigenhauptmeister Simulator",
       "file": "missing/A/292510-anzeigenhauptmeister-simulator.json"
+    },
+    {
+      "igdb_id": 325056,
+      "game_name": "Anzu",
+      "file": "missing/A/325056-anzu.json"
     },
     {
       "igdb_id": 380388,
@@ -34443,6 +34453,11 @@
       "file": "missing/B/380530-blackjack-roulette.json"
     },
     {
+      "igdb_id": 325071,
+      "game_name": "Blackjack Tavern",
+      "file": "missing/B/325071-blackjack-tavern.json"
+    },
+    {
       "igdb_id": 372984,
       "game_name": "Blackjack Wars",
       "file": "missing/B/372984-blackjack-wars.json"
@@ -48193,6 +48208,11 @@
       "file": "missing/C/172774-cardwirth.json"
     },
     {
+      "igdb_id": 325046,
+      "game_name": "Care",
+      "file": "missing/C/325046-care.json"
+    },
+    {
       "igdb_id": 65501,
       "game_name": "Care Bears: A Lesson in Caring",
       "file": "missing/C/65501-care-bears-a-lesson-in-caring.json"
@@ -50386,6 +50406,11 @@
       "igdb_id": 320550,
       "game_name": "CatClimber",
       "file": "missing/C/320550-catclimber.json"
+    },
+    {
+      "igdb_id": 325082,
+      "game_name": "CatDog on Parade",
+      "file": "missing/C/325082-catdog-on-parade.json"
     },
     {
       "igdb_id": 276693,
@@ -58341,6 +58366,11 @@
       "igdb_id": 347721,
       "game_name": "Coastal Kitchen Simulator",
       "file": "missing/C/347721-coastal-kitchen-simulator.json"
+    },
+    {
+      "igdb_id": 325038,
+      "game_name": "Coastal World",
+      "file": "missing/C/325038-coastal-world.json"
     },
     {
       "igdb_id": 96668,
@@ -90863,6 +90893,11 @@
       "file": "missing/D/234327-duck-dynasty-battle-of-the-beards.json"
     },
     {
+      "igdb_id": 325058,
+      "game_name": "Duck Eggs",
+      "file": "missing/D/325058-duck-eggs.json"
+    },
+    {
       "igdb_id": 135883,
       "game_name": "Duck Guardian One",
       "file": "missing/D/135883-duck-guardian-one.json"
@@ -94171,6 +94206,11 @@
       "igdb_id": 340234,
       "game_name": "Echoes of Forgotten Dreams",
       "file": "missing/E/340234-echoes-of-forgotten-dreams.json"
+    },
+    {
+      "igdb_id": 325059,
+      "game_name": "Echoes of Formosa: Agent Reborn",
+      "file": "missing/E/325059-echoes-of-formosa-agent-reborn.json"
     },
     {
       "igdb_id": 194024,
@@ -122493,6 +122533,16 @@
       "file": "missing/G/130887-garfield-rush.json"
     },
     {
+      "igdb_id": 325089,
+      "game_name": "Garfield: A Tail of Two Kitties - Garfield's Maze Game",
+      "file": "missing/G/325089-garfield-a-tail-of-two-kitties-garfields-maze-game.json"
+    },
+    {
+      "igdb_id": 325088,
+      "game_name": "Garfield: A Tail of Two Kitties - Odie's Photo Album Game",
+      "file": "missing/G/325088-garfield-a-tail-of-two-kitties-odies-photo-album-game.json"
+    },
+    {
       "igdb_id": 12111,
       "game_name": "Garfield: Big, Fat, Hairy Deal",
       "file": "missing/G/12111-garfield-big-fat-hairy-deal.json"
@@ -142958,6 +143008,11 @@
       "file": "missing/H/290922-high-seas-high-profits.json"
     },
     {
+      "igdb_id": 325042,
+      "game_name": "High Sidin': Hyphy Edition",
+      "file": "missing/H/325042-high-sidin-hyphy-edition.json"
+    },
+    {
       "igdb_id": 299750,
       "game_name": "High Stakes",
       "file": "missing/H/299750-high-stakes.json"
@@ -143801,6 +143856,11 @@
       "igdb_id": 358300,
       "game_name": "Hit",
       "file": "missing/H/358300-hit.json"
+    },
+    {
+      "igdb_id": 325066,
+      "game_name": "Hit A Plane",
+      "file": "missing/H/325066-hit-a-plane.json"
     },
     {
       "igdb_id": 143658,
@@ -151903,6 +151963,11 @@
       "file": "missing/I/314033-iguarpg-2.json"
     },
     {
+      "igdb_id": 325070,
+      "game_name": "Ihin",
+      "file": "missing/I/325070-ihin.json"
+    },
+    {
       "igdb_id": 79857,
       "game_name": "iHooy!",
       "file": "missing/I/79857-ihooy.json"
@@ -157676,6 +157741,11 @@
       "igdb_id": 336637,
       "game_name": "It’s A Game Changer",
       "file": "missing/I/336637-it-s-a-game-changer.json"
+    },
+    {
+      "igdb_id": 325080,
+      "game_name": "It's a Gas!",
+      "file": "missing/I/325080-its-a-gas.json"
     },
     {
       "igdb_id": 185102,
@@ -174188,6 +174258,11 @@
       "file": "missing/L/335085-legends-aligned.json"
     },
     {
+      "igdb_id": 325081,
+      "game_name": "Legends BMX",
+      "file": "missing/L/325081-legends-bmx.json"
+    },
+    {
       "igdb_id": 231401,
       "game_name": "Legends Core Plus",
       "file": "missing/L/231401-legends-core-plus.json"
@@ -183108,6 +183183,11 @@
       "file": "missing/L/179181-lyssophobia.json"
     },
     {
+      "igdb_id": 325057,
+      "game_name": "Lythe The Forgetful Witch: A Visual Novel",
+      "file": "missing/L/325057-lythe-the-forgetful-witch-a-visual-novel.json"
+    },
+    {
       "igdb_id": 257654,
       "game_name": "M Hard",
       "file": "missing/M/257654-m-hard.json"
@@ -188941,6 +189021,11 @@
       "igdb_id": 355092,
       "game_name": "Marvel Rivals: PlayStation Exclusive",
       "file": "missing/M/355092-marvel-rivals-playstation-exclusive.json"
+    },
+    {
+      "igdb_id": 325047,
+      "game_name": "Marvel Rivals: Season 0 - Dooms' Rise",
+      "file": "missing/M/325047-marvel-rivals-season-0-dooms-rise.json"
     },
     {
       "igdb_id": 339814,
@@ -214843,6 +214928,11 @@
       "file": "missing/N/387331-nick-logic-for-kids.json"
     },
     {
+      "igdb_id": 325083,
+      "game_name": "Nick News with Linda Ellerbee Word Search",
+      "file": "missing/N/325083-nick-news-with-linda-ellerbee-word-search.json"
+    },
+    {
       "igdb_id": 87199,
       "game_name": "Nick Sports",
       "file": "missing/N/87199-nick-sports.json"
@@ -217701,6 +217791,11 @@
       "igdb_id": 113703,
       "game_name": "Noel's Hope",
       "file": "missing/N/113703-noels-hope.json"
+    },
+    {
+      "igdb_id": 325085,
+      "game_name": "Noelia",
+      "file": "missing/N/325085-noelia.json"
     },
     {
       "igdb_id": 403695,
@@ -226503,6 +226598,11 @@
       "file": "missing/O/149086-outright.json"
     },
     {
+      "igdb_id": 325048,
+      "game_name": "Outrun",
+      "file": "missing/O/325048-outrun.json"
+    },
+    {
       "igdb_id": 307917,
       "game_name": "OutRun",
       "file": "missing/O/307917-outrun.json"
@@ -226993,6 +227093,11 @@
       "file": "missing/O/310729-overtime-heroes-exit-8.json"
     },
     {
+      "igdb_id": 325063,
+      "game_name": "Overview: Rain Echoes",
+      "file": "missing/O/325063-overview-rain-echoes.json"
+    },
+    {
       "igdb_id": 317819,
       "game_name": "Overwatch 2: My Hero Academia",
       "file": "missing/O/317819-overwatch-2-my-hero-academia.json"
@@ -227351,6 +227456,36 @@
       "igdb_id": 237983,
       "game_name": "Pac-Man 99: Deluxe Pack",
       "file": "missing/P/237983-pac-man-99-deluxe-pack.json"
+    },
+    {
+      "igdb_id": 325054,
+      "game_name": "Pac-Man 99: Dig Dug",
+      "file": "missing/P/325054-pac-man-99-dig-dug.json"
+    },
+    {
+      "igdb_id": 325053,
+      "game_name": "Pac-Man 99: Galaga",
+      "file": "missing/P/325053-pac-man-99-galaga.json"
+    },
+    {
+      "igdb_id": 325049,
+      "game_name": "Pac-Man 99: Namco Classic 2",
+      "file": "missing/P/325049-pac-man-99-namco-classic-2.json"
+    },
+    {
+      "igdb_id": 325051,
+      "game_name": "Pac-Man 99: New Rally-X",
+      "file": "missing/P/325051-pac-man-99-new-rally-x.json"
+    },
+    {
+      "igdb_id": 325055,
+      "game_name": "Pac-Man 99: The Legend of \"Valkyrie\"",
+      "file": "missing/P/325055-pac-man-99-the-legend-of-valkyrie.json"
+    },
+    {
+      "igdb_id": 325052,
+      "game_name": "Pac-Man 99: The Tower of Druaga",
+      "file": "missing/P/325052-pac-man-99-the-tower-of-druaga.json"
     },
     {
       "igdb_id": 19940,
@@ -277038,6 +277173,11 @@
       "file": "missing/S/96977-shatterbrain.json"
     },
     {
+      "igdb_id": 325043,
+      "game_name": "Shattered",
+      "file": "missing/S/325043-shattered.json"
+    },
+    {
       "igdb_id": 313507,
       "game_name": "Shattered Dreams",
       "file": "missing/S/313507-shattered-dreams.json"
@@ -286686,6 +286826,11 @@
       "igdb_id": 240495,
       "game_name": "Snops Attack! Zombie Defense",
       "file": "missing/S/240495-snops-attack-zombie-defense.json"
+    },
+    {
+      "igdb_id": 325064,
+      "game_name": "Snow Ash",
+      "file": "missing/S/325064-snow-ash.json"
     },
     {
       "igdb_id": 112347,
@@ -309118,6 +309263,36 @@
       "file": "missing/S/408816-super-smash-bros-crusade-remix.json"
     },
     {
+      "igdb_id": 325073,
+      "game_name": "Super Smash Bros. for Nintendo 3DS: Ashley Hat + Ashley Outfit",
+      "file": "missing/S/325073-super-smash-bros-for-nintendo-3ds-ashley-hat-ashley-outfit.json"
+    },
+    {
+      "igdb_id": 325077,
+      "game_name": "Super Smash Bros. for Nintendo 3DS: Geno Hat + Geno Outfit",
+      "file": "missing/S/325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json"
+    },
+    {
+      "igdb_id": 325074,
+      "game_name": "Super Smash Bros. for Nintendo 3DS: Stage Bundle",
+      "file": "missing/S/325074-super-smash-bros-for-nintendo-3ds-stage-bundle.json"
+    },
+    {
+      "igdb_id": 325072,
+      "game_name": "Super Smash Bros. for Wii U: Ashley Hat + Ashley Outfit",
+      "file": "missing/S/325072-super-smash-bros-for-wii-u-ashley-hat-ashley-outfit.json"
+    },
+    {
+      "igdb_id": 325076,
+      "game_name": "Super Smash Bros. for Wii U: Geno Hat + Geno Outfit",
+      "file": "missing/S/325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json"
+    },
+    {
+      "igdb_id": 325075,
+      "game_name": "Super Smash Bros. for Wii U: Stage Bundle",
+      "file": "missing/S/325075-super-smash-bros-for-wii-u-stage-bundle.json"
+    },
+    {
       "igdb_id": 136383,
       "game_name": "Super Smash Bros. Ultimate - Piranha Plant",
       "file": "missing/S/136383-super-smash-bros-ultimate-piranha-plant.json"
@@ -309146,6 +309321,11 @@
       "igdb_id": 395031,
       "game_name": "Super Smash Bros. Ultimate: Fall Guy Moveset",
       "file": "missing/S/395031-super-smash-bros-ultimate-fall-guy-moveset.json"
+    },
+    {
+      "igdb_id": 325078,
+      "game_name": "Super Smash Bros. Ultimate: Geno Hat + Outfit",
+      "file": "missing/S/325078-super-smash-bros-ultimate-geno-hat-outfit.json"
     },
     {
       "igdb_id": 242815,
@@ -320773,6 +320953,11 @@
       "file": "missing/T/157188-the-amulet-of-amunruuuuun.json"
     },
     {
+      "igdb_id": 325079,
+      "game_name": "The Anchorite",
+      "file": "missing/T/325079-the-anchorite.json"
+    },
+    {
       "igdb_id": 2411,
       "game_name": "The Ancient Land of Ys",
       "file": "missing/T/2411-the-ancient-land-of-ys.json"
@@ -321641,6 +321826,11 @@
       "igdb_id": 138840,
       "game_name": "The Beziér Game",
       "file": "missing/T/138840-the-bezier-game.json"
+    },
+    {
+      "igdb_id": 325084,
+      "game_name": "The Big Bang Theory Game",
+      "file": "missing/T/325084-the-big-bang-theory-game.json"
     },
     {
       "igdb_id": 270702,
@@ -327773,6 +327963,11 @@
       "file": "missing/T/287092-the-journey-of-piggy.json"
     },
     {
+      "igdb_id": 325067,
+      "game_name": "The Journey to Life",
+      "file": "missing/T/325067-the-journey-to-life.json"
+    },
+    {
       "igdb_id": 179743,
       "game_name": "The journey to the party",
       "file": "missing/T/179743-the-journey-to-the-party.json"
@@ -329566,6 +329761,16 @@
       "igdb_id": 3166,
       "game_name": "The Lion King",
       "file": "missing/T/3166-the-lion-king.json"
+    },
+    {
+      "igdb_id": 325091,
+      "game_name": "The Lion King 1½ - Timon And Pumbaa’s Virtual Safari 1.5: The Lion King Prideland Adventure",
+      "file": "missing/T/325091-the-lion-king-11-2-timon-and-pumbaa-s-virtual-safari-1-5-the-lion-king-prideland-adventure.json"
+    },
+    {
+      "igdb_id": 325090,
+      "game_name": "The Lion King II: Simba's Pride: Special Edition - Timon And Pumbaa’s Virtual Safari 2.0: Prideland Pachiderm Safari",
+      "file": "missing/T/325090-the-lion-king-ii-simbas-pride-special-edition-timon-and-pumbaa-s-virtual-safari-2-0-prideland-pachiderm-safari.json"
     },
     {
       "igdb_id": 325093,
@@ -349623,6 +349828,21 @@
       "file": "missing/T/355613-trainwatch.json"
     },
     {
+      "igdb_id": 325040,
+      "game_name": "Trainz 2019: C44aci Locomotive - Aurizon Pack",
+      "file": "missing/T/325040-trainz-2019-c44aci-locomotive-aurizon-pack.json"
+    },
+    {
+      "igdb_id": 325041,
+      "game_name": "Trainz 2019: Pro Train - BNSF Loco Bundle 1",
+      "file": "missing/T/325041-trainz-2019-pro-train-bnsf-loco-bundle-1.json"
+    },
+    {
+      "igdb_id": 325039,
+      "game_name": "Trainz 2019: SA AN Class - Australian National",
+      "file": "missing/T/325039-trainz-2019-sa-an-class-australian-national.json"
+    },
+    {
       "igdb_id": 306100,
       "game_name": "Trainz 2022: SA CL Class - RailPower Pack",
       "file": "missing/T/306100-trainz-2022-sa-cl-class-railpower-pack.json"
@@ -362463,6 +362683,11 @@
       "file": "missing/V/386237-vinegar-mutter.json"
     },
     {
+      "igdb_id": 325045,
+      "game_name": "Vinni Pukh i vse, vse, vse",
+      "file": "missing/V/325045-vinni-pukh-i-vse-vse-vse.json"
+    },
+    {
       "igdb_id": 343333,
       "game_name": "Vinnie's Diary VR",
       "file": "missing/V/343333-vinnies-diary-vr.json"
@@ -365801,6 +366026,11 @@
       "igdb_id": 215131,
       "game_name": "Wanpaku Kokkun no Gourmet World",
       "file": "missing/W/215131-wanpaku-kokkun-no-gourmet-world.json"
+    },
+    {
+      "igdb_id": 325069,
+      "game_name": "Wanted",
+      "file": "missing/W/325069-wanted.json"
     },
     {
       "igdb_id": 75090,
@@ -371718,6 +371948,11 @@
       "file": "missing/W/65528-wind-up-knight.json"
     },
     {
+      "igdb_id": 325065,
+      "game_name": "Wind's Poem",
+      "file": "missing/W/325065-winds-poem.json"
+    },
+    {
       "igdb_id": 340746,
       "game_name": "Windborn: Concrete Jungle",
       "file": "missing/W/340746-windborn-concrete-jungle.json"
@@ -377393,6 +377628,11 @@
       "file": "missing/X/216815-xion-leak.json"
     },
     {
+      "igdb_id": 325062,
+      "game_name": "Xióng Chuǎng Tiānxià",
+      "file": "missing/X/325062-xiong-chuang-tianxia.json"
+    },
+    {
       "igdb_id": 59459,
       "game_name": "xkcd: Hoverboard",
       "file": "missing/X/59459-xkcd-hoverboard.json"
@@ -379471,6 +379711,11 @@
       "igdb_id": 135302,
       "game_name": "Your Sister's Drown'd, Laertes",
       "file": "missing/Y/135302-your-sisters-drownd-laertes.json"
+    },
+    {
+      "igdb_id": 325061,
+      "game_name": "Your Study Mate",
+      "file": "missing/Y/325061-your-study-mate.json"
     },
     {
       "igdb_id": 82945,
