@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyhole Spy: Frozen Hotties | 111266 | [111266-keyhole-spy-frozen-hotties.json](./111266-keyhole-spy-frozen-hotties.json) |
 | Keyhole Spy: Lots of Girls | 110383 | [110383-keyhole-spy-lots-of-girls.json](./110383-keyhole-spy-lots-of-girls.json) |
 | Keyhole Spy: Naughty Witches | 110380 | [110380-keyhole-spy-naughty-witches.json](./110380-keyhole-spy-naughty-witches.json) |
+| Keykeeper | 287197 | [287197-keykeeper.json](./287197-keykeeper.json) |
 | Keykode | 349867 | [349867-keykode.json](./349867-keykode.json) |
 | Keypress Mania | 373544 | [373544-keypress-mania.json](./373544-keypress-mania.json) |
 | Keyrin Loves You | 338737 | [338737-keyrin-loves-you.json](./338737-keyrin-loves-you.json) |
@@ -1484,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunkun Defender 2 | 343863 | [343863-kunkun-defender-2.json](./343863-kunkun-defender-2.json) |
 | Kunkun League | 303619 | [303619-kunkun-league.json](./303619-kunkun-league.json) |
 | Kunkun Terror Express | 296921 | [296921-kunkun-terror-express.json](./296921-kunkun-terror-express.json) |
+| Kunkunkun | 287214 | [287214-kunkunkun.json](./287214-kunkunkun.json) |
 | Kunoichi Beat | 369589 | [369589-kunoichi-beat.json](./369589-kunoichi-beat.json) |
 | Kunoichi Torimonocho | 123577 | [123577-kunoichi-torimonocho.json](./123577-kunoichi-torimonocho.json) |
 | Kuon | 10909 | [10909-kuon.json](./10909-kuon.json) |
