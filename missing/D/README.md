@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: UH-1H Peacekeeper Lebanon Campaign by Flying Cyking | 324908 | [324908-dcs-world-uh-1h-peacekeeper-lebanon-campaign-by-flying-cyking.json](./324908-dcs-world-uh-1h-peacekeeper-lebanon-campaign-by-flying-cyking.json) |
 | DCS World: UH-1H Worlds Apart Stormfront Campaign by Low-Level-Heaven Mission Development | 325096 | [325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json](./325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json) |
 | DCS: Normandy 1944 | 27782 | [27782-dcs-normandy-1944.json](./27782-dcs-normandy-1944.json) |
+| DDI Touring Car Championship | 298681 | [298681-ddi-touring-car-championship.json](./298681-ddi-touring-car-championship.json) |
 | DDraceNetwork | 136770 | [136770-ddracenetwork.json](./136770-ddracenetwork.json) |
 | DDRMax2: Dance Dance Revolution | 44711 | [44711-ddrmax2-dance-dance-revolution.json](./44711-ddrmax2-dance-dance-revolution.json) |
 | DDS Defenders Dark Side | 214726 | [214726-dds-defenders-dark-side.json](./214726-dds-defenders-dark-side.json) |
@@ -1221,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dark Wrath: Frost Flower | 385573 | [385573-deep-dark-wrath-frost-flower.json](./385573-deep-dark-wrath-frost-flower.json) |
 | Deep Despair | 129641 | [129641-deep-despair.json](./129641-deep-despair.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
+| Deep Dish Dungeon | 298680 | [298680-deep-dish-dungeon.json](./298680-deep-dish-dungeon.json) |
 | Deep Dive | 403577 | [403577-deep-dive.json](./403577-deep-dive.json) |
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
 | Deep Dungeon Adventure | 311984 | [311984-deep-dungeon-adventure.json](./311984-deep-dungeon-adventure.json) |
@@ -1317,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defeated Girl | 219038 | [219038-defeated-girl.json](./219038-defeated-girl.json) |
 | Defect | 21928 | [21928-defect.json](./21928-defect.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
+| Defence of the Arcane Realms | 298679 | [298679-defence-of-the-arcane-realms.json](./298679-defence-of-the-arcane-realms.json) |
 | Defend Earth: Xenos Survivors | 320738 | [320738-defend-earth-xenos-survivors.json](./320738-defend-earth-xenos-survivors.json) |
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
 | Defend or Die | 12991 | [12991-defend-or-die.json](./12991-defend-or-die.json) |
@@ -2684,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNA 1: Finale | 311106 | [311106-dna-1-finale.json](./311106-dna-1-finale.json) |
 | DNA Nemesis | 415147 | [415147-dna-nemesis.json](./415147-dna-nemesis.json) |
 | DNA: Episode 4 | 297801 | [297801-dna-episode-4.json](./297801-dna-episode-4.json) |
+| DNA: Episode 5 | 298678 | [298678-dna-episode-5.json](./298678-dna-episode-5.json) |
 | DNA: Final Episode - Part 1 | 311105 | [311105-dna-final-episode-part-1.json](./311105-dna-final-episode-part-1.json) |
 | DNA: Final Episode - Part 2 | 311107 | [311107-dna-final-episode-part-2.json](./311107-dna-final-episode-part-2.json) |
 | DNA: Season 2 - Episode 1 | 310383 | [310383-dna-season-2-episode-1.json](./310383-dna-season-2-episode-1.json) |
@@ -3757,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drains | 62662 | [62662-drains.json](./62662-drains.json) |
 | DrainSim | 303490 | [303490-drainsim.json](./303490-drainsim.json) |
 | Drak | 168390 | [168390-drak.json](./168390-drak.json) |
+| Drak(c)ula | 298682 | [298682-drak-c-ula.json](./298682-drak-c-ula.json) |
 | Drakan: Order of the Flame | 7576 | [7576-drakan-order-of-the-flame.json](./7576-drakan-order-of-the-flame.json) |
 | Drake | 134654 | [134654-drake.json](./134654-drake.json) |
 | Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
