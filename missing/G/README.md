@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameGuru | 59978 | [59978-gameguru.json](./59978-gameguru.json) |
 | GameGuru: Industrial Sewer Pack | 166190 | [166190-gameguru-industrial-sewer-pack.json](./166190-gameguru-industrial-sewer-pack.json) |
 | Gamehunt | 119768 | [119768-gamehunt.json](./119768-gamehunt.json) |
+| GameLib | 305917 | [305917-gamelib.json](./305917-gamelib.json) |
 | GameOn! | 348239 | [348239-gameon.json](./348239-gameon.json) |
 | GamePack 2 | 122308 | [122308-gamepack-2.json](./122308-gamepack-2.json) |
 | Gamer Girls 2 | 162842 | [162842-gamer-girls-2.json](./162842-gamer-girls-2.json) |
@@ -437,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Pets | 233004 | [233004-garden-of-pets.json](./233004-garden-of-pets.json) |
 | Garden of Seif: Curse of Gravehollow Peaks | 209456 | [209456-garden-of-seif-curse-of-gravehollow-peaks.json](./209456-garden-of-seif-curse-of-gravehollow-peaks.json) |
 | Garden of Wandering Souls | 327174 | [327174-garden-of-wandering-souls.json](./327174-garden-of-wandering-souls.json) |
+| Garden Paradise | 305937 | [305937-garden-paradise.json](./305937-garden-paradise.json) |
 | Garden Party Shop | 359399 | [359399-garden-party-shop.json](./359399-garden-party-shop.json) |
 | Garden Simulator 2010 | 63817 | [63817-garden-simulator-2010.json](./63817-garden-simulator-2010.json) |
 | Garden Tails | 215156 | [215156-garden-tails.json](./215156-garden-tails.json) |
@@ -864,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getting a Bottle of Water Simulator | 334664 | [334664-getting-a-bottle-of-water-simulator.json](./334664-getting-a-bottle-of-water-simulator.json) |
 | Getting Home | 406198 | [406198-getting-home.json](./406198-getting-home.json) |
 | Getting Over It with Your Body | 381035 | [381035-getting-over-it-with-your-body.json](./381035-getting-over-it-with-your-body.json) |
+| Getting There | 305926 | [305926-getting-there.json](./305926-getting-there.json) |
 | Geunyeoneun Baekseolgongju | 234636 | [234636-geunyeoneun-baekseolgongju.json](./234636-geunyeoneun-baekseolgongju.json) |
 | Gevaudan | 41106 | [41106-gevaudan.json](./41106-gevaudan.json) |
 | Gex 3: Deep Cover Gecko | 3505 | [3505-gex-3-deep-cover-gecko.json](./3505-gex-3-deep-cover-gecko.json) |
