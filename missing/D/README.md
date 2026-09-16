@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangeresque Roomisode 1: Behind the Dangerdesque | 135845 | [135845-dangeresque-roomisode-1-behind-the-dangerdesque.json](./135845-dangeresque-roomisode-1-behind-the-dangerdesque.json) |
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
+| Dangerous Land | 303096 | [303096-dangerous-land.json](./303096-dangerous-land.json) |
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
 | DangerousPath | 369640 | [369640-dangerouspath.json](./369640-dangerouspath.json) |
@@ -467,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Pit and the Pendulum - Collector's Edition | 370679 | [370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json](./370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Raven - Collector's Edition | 222282 | [222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json](./222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
+| Dark Throne | 303074 | [303074-dark-throne.json](./303074-dark-throne.json) |
 | Dark Tides | 158696 | [158696-dark-tides.json](./158696-dark-tides.json) |
 | Dark Tower | 26475 | [26475-dark-tower.json](./26475-dark-tower.json) |
 | Dark Train | 25298 | [25298-dark-train.json](./25298-dark-train.json) |
@@ -2993,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Hate My Music Taste | 167818 | [167818-dont-hate-my-music-taste.json](./167818-dont-hate-my-music-taste.json) |
 | Don't Hide | 215907 | [215907-dont-hide.json](./215907-dont-hide.json) |
 | Don't Kill Her | 108421 | [108421-dont-kill-her.json](./108421-dont-kill-her.json) |
+| Don't Kill Them All | 303088 | [303088-dont-kill-them-all.json](./303088-dont-kill-them-all.json) |
 | Don't Leave | 285439 | [285439-dont-leave.json](./285439-dont-leave.json) |
 | Don't Let Me Fade | 352220 | [352220-dont-let-me-fade.json](./352220-dont-let-me-fade.json) |
 | Don't Look | 177547 | [177547-dont-look.json](./177547-dont-look.json) |
