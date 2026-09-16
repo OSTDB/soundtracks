@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T01:03:57.297Z",
-  "total_missing": 76066,
+  "generated_at": "2026-09-16T01:11:35.458Z",
+  "total_missing": 76065,
   "games": [
     {
       "igdb_id": 306086,
@@ -5641,11 +5641,6 @@
       "igdb_id": 325844,
       "game_name": "Age of Wonders 4: Ways of War",
       "file": "missing/A/325844-age-of-wonders-4-ways-of-war.json"
-    },
-    {
-      "igdb_id": 132166,
-      "game_name": "Age of Wonders: Planetfall - Invasions",
-      "file": "missing/A/132166-age-of-wonders-planetfall-invasions.json"
     },
     {
       "igdb_id": 154527,
