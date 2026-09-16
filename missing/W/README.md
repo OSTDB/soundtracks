@@ -1288,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Widow in the Endless Labyrinth | 267104 | [267104-widow-in-the-endless-labyrinth.json](./267104-widow-in-the-endless-labyrinth.json) |
 | Wieldo | 214155 | [214155-wieldo.json](./214155-wieldo.json) |
 | Wienne | 127373 | [127373-wienne.json](./127373-wienne.json) |
+| Wife Massage | 291065 | [291065-wife-massage.json](./291065-wife-massage.json) |
 | Wife Quest: Limited Edition | 205258 | [205258-wife-quest-limited-edition.json](./205258-wife-quest-limited-edition.json) |
 | Wiffel Ball | 205806 | [205806-wiffel-ball.json](./205806-wiffel-ball.json) |
 | Wigged Out | 126584 | [126584-wigged-out.json](./126584-wigged-out.json) |
@@ -1550,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter's Fall | 177488 | [177488-winters-fall.json](./177488-winters-fall.json) |
 | Winter's Fury | 196250 | [196250-winters-fury.json](./196250-winters-fury.json) |
 | Winter's Tail: How One Little Dolphin Learned to Swim Again | 63866 | [63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json](./63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json) |
+| Winterclaw | 291095 | [291095-winterclaw.json](./291095-winterclaw.json) |
 | Winterfall | 308238 | [308238-winterfall.json](./308238-winterfall.json) |
 | Winterfest | 323923 | [323923-winterfest.json](./323923-winterfest.json) |
 | Winterland Solitaire | 386137 | [386137-winterland-solitaire.json](./386137-winterland-solitaire.json) |
