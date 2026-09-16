@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Squared | 82890 | [82890-level-squared.json](./82890-level-squared.json) |
 | Level Tank | 207317 | [207317-level-tank.json](./207317-level-tank.json) |
 | Level Up Boxing VR | 270115 | [270115-level-up-boxing-vr.json](./270115-level-up-boxing-vr.json) |
+| Level up Everything! | 333068 | [333068-level-up-everything.json](./333068-level-up-everything.json) |
 | Level Up Your Body | 270129 | [270129-level-up-your-body.json](./270129-level-up-your-body.json) |
 | Level Up! | 95373 | [95373-level-up.json](./95373-level-up.json) |
 | Level Zero: Extraction | 223473 | [223473-level-zero-extraction.json](./223473-level-zero-extraction.json) |
