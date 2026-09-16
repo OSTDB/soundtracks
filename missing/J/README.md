@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Empire | 5867 | [5867-jade-empire.json](./5867-jade-empire.json) |
 | Jade Empire: Limited Edition | 47318 | [47318-jade-empire-limited-edition.json](./47318-jade-empire-limited-edition.json) |
 | Jade Guardian | 310186 | [310186-jade-guardian.json](./310186-jade-guardian.json) |
+| Jade Legends: Immortal Realm | 304214 | [304214-jade-legends-immortal-realm.json](./304214-jade-legends-immortal-realm.json) |
 | Jade Spring | 349863 | [349863-jade-spring.json](./349863-jade-spring.json) |
 | Jade Wolf | 197899 | [197899-jade-wolf.json](./197899-jade-wolf.json) |
 | Jade Wolf 2 | 197900 | [197900-jade-wolf-2.json](./197900-jade-wolf-2.json) |
