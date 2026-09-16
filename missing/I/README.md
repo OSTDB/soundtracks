@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IGPX: Immortal Grand Prix | 20563 | [20563-igpx-immortal-grand-prix.json](./20563-igpx-immortal-grand-prix.json) |
 | iGrow Game | 21986 | [21986-igrow-game.json](./21986-igrow-game.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
+| Ihin | 325070 | [325070-ihin.json](./325070-ihin.json) |
 | iHooy! | 79857 | [79857-ihooy.json](./79857-ihooy.json) |
 | IHRA Drag Racing: Sportsman Edition | 20547 | [20547-ihra-drag-racing-sportsman-edition.json](./20547-ihra-drag-racing-sportsman-edition.json) |
 | IHugU | 68611 | [68611-ihugu.json](./68611-ihugu.json) |
@@ -1655,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's a Beautiful Day | 177526 | [177526-its-a-beautiful-day.json](./177526-its-a-beautiful-day.json) |
 | It's a Funny Old Game | 73790 | [73790-its-a-funny-old-game.json](./73790-its-a-funny-old-game.json) |
 | It’s A Game Changer | 336637 | [336637-it-s-a-game-changer.json](./336637-it-s-a-game-changer.json) |
+| It's a Gas! | 325080 | [325080-its-a-gas.json](./325080-its-a-gas.json) |
 | It's a Giant! | 185102 | [185102-its-a-giant.json](./185102-its-a-giant.json) |
 | It's A Me | 202391 | [202391-its-a-me.json](./202391-its-a-me.json) |
 | It's A Wipe! | 17982 | [17982-its-a-wipe.json](./17982-its-a-wipe.json) |
