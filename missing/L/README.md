@@ -2448,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
 | Lunar Escape | 178642 | [178642-lunar-escape.json](./178642-lunar-escape.json) |
 | Lunar Jetman | 7852 | [7852-lunar-jetman.json](./7852-lunar-jetman.json) |
+| Lunar Laceration | 315716 | [315716-lunar-laceration.json](./315716-lunar-laceration.json) |
 | Lunar Lancer | 337090 | [337090-lunar-lancer.json](./337090-lunar-lancer.json) |
 | Lunar Laser | 241990 | [241990-lunar-laser.json](./241990-lunar-laser.json) |
 | Lunar Legacy | 248041 | [248041-lunar-legacy.json](./248041-lunar-legacy.json) |
