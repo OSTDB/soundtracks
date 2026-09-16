@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T14:21:48.721Z",
-  "total_missing": 78286,
+  "generated_at": "2026-09-16T14:31:42.828Z",
+  "total_missing": 78288,
   "games": [
     {
       "igdb_id": 306086,
@@ -6081,11 +6081,6 @@
       "igdb_id": 31784,
       "game_name": "Agenda",
       "file": "missing/A/31784-agenda.json"
-    },
-    {
-      "igdb_id": 122635,
-      "game_name": "Agent Intercept",
-      "file": "missing/A/122635-agent-intercept.json"
     },
     {
       "igdb_id": 225635,
@@ -68731,6 +68726,11 @@
       "igdb_id": 391174,
       "game_name": "Cryptic Glaze Mirror",
       "file": "missing/C/391174-cryptic-glaze-mirror.json"
+    },
+    {
+      "igdb_id": 307157,
+      "game_name": "Cryptica",
+      "file": "missing/C/307157-cryptica.json"
     },
     {
       "igdb_id": 253569,
@@ -211648,6 +211648,11 @@
       "file": "missing/M/286500-my-breast-friend-sally.json"
     },
     {
+      "igdb_id": 307158,
+      "game_name": "My Brick Breaker",
+      "file": "missing/M/307158-my-brick-breaker.json"
+    },
+    {
       "igdb_id": 242559,
       "game_name": "My Brother is a Superhero",
       "file": "missing/M/242559-my-brother-is-a-superhero.json"
@@ -323071,6 +323076,11 @@
       "igdb_id": 274221,
       "game_name": "Tantrum 2",
       "file": "missing/T/274221-tantrum-2.json"
+    },
+    {
+      "igdb_id": 307160,
+      "game_name": "Tanuki Tales",
+      "file": "missing/T/307160-tanuki-tales.json"
     },
     {
       "igdb_id": 317817,
