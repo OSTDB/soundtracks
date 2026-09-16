@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capture Corps: Archipelago | 217867 | [217867-capture-corps-archipelago.json](./217867-capture-corps-archipelago.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
 | Capture the Flag | 23901 | [23901-capture-the-flag.json](./23901-capture-the-flag.json) |
+| Captured | 312193 | [312193-captured.json](./312193-captured.json) |
 | Captured Nao: Final | 97835 | [97835-captured-nao-final.json](./97835-captured-nao-final.json) |
 | Captured Nao: Sexual Violation | 97842 | [97842-captured-nao-sexual-violation.json](./97842-captured-nao-sexual-violation.json) |
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
@@ -457,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capy Island | 310944 | [310944-capy-island.json](./310944-capy-island.json) |
 | Capybara Carbonara | 132760 | [132760-capybara-carbonara.json](./132760-capybara-carbonara.json) |
 | Capybara Journey Go | 378782 | [378782-capybara-journey-go.json](./378782-capybara-journey-go.json) |
+| Capybara Park | 312189 | [312189-capybara-park.json](./312189-capybara-park.json) |
 | Capybara Quest | 310942 | [310942-capybara-quest.json](./310942-capybara-quest.json) |
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
@@ -2525,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close to the Sun | 55027 | [55027-close-to-the-sun.json](./55027-close-to-the-sun.json) |
 | Close to You | 217874 | [217874-close-to-you.json](./217874-close-to-you.json) |
 | Closed Circuit | 254175 | [254175-closed-circuit.json](./254175-closed-circuit.json) |
+| Closed World | 312202 | [312202-closed-world.json](./312202-closed-world.json) |
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
 | CloserLook VR: Oldways | 325838 | [325838-closerlook-vr-oldways.json](./325838-closerlook-vr-oldways.json) |
 | CloserTo | 396374 | [396374-closerto.json](./396374-closerto.json) |
@@ -3231,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concerto on White: Cajon Story - Touhou Project Music Pack | 388970 | [388970-concerto-on-white-cajon-story-touhou-project-music-pack.json](./388970-concerto-on-white-cajon-story-touhou-project-music-pack.json) |
 | Conclave | 36120 | [36120-conclave.json](./36120-conclave.json) |
 | Concourse X-Ray | 179172 | [179172-concourse-x-ray.json](./179172-concourse-x-ray.json) |
+| Concrete | 312181 | [312181-concrete.json](./312181-concrete.json) |
 | Concrete Genie: Digital Deluxe Edition | 132227 | [132227-concrete-genie-digital-deluxe-edition.json](./132227-concrete-genie-digital-deluxe-edition.json) |
 | Concrete Spaces | 335871 | [335871-concrete-spaces.json](./335871-concrete-spaces.json) |
 | Concurrence | 166779 | [166779-concurrence.json](./166779-concurrence.json) |
@@ -3405,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contrition | 179748 | [179748-contrition.json](./179748-contrition.json) |
 | Control Room Alpha | 207816 | [207816-control-room-alpha.json](./207816-control-room-alpha.json) |
 | Control Season Pass | 122314 | [122314-control-season-pass.json](./122314-control-season-pass.json) |
+| Control the Ball | 312198 | [312198-control-the-ball.json](./312198-control-the-ball.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
 | Control: Ultimate Edition | 136604 | [136604-control-ultimate-edition.json](./136604-control-ultimate-edition.json) |
 | Controller Sync | 209489 | [209489-controller-sync.json](./209489-controller-sync.json) |
