@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samabake! Scramble | 318056 | [318056-samabake-scramble.json](./318056-samabake-scramble.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
 | Samantha Wins | 128561 | [128561-samantha-wins.json](./128561-samantha-wins.json) |
+| Samara | 291084 | [291084-samara.json](./291084-samara.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
 | Same-X | 64429 | [64429-same-x.json](./64429-same-x.json) |
@@ -1757,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Pharos | 305951 | [305951-shadow-of-pharos.json](./305951-shadow-of-pharos.json) |
 | Shadow of the Beast | 5434 | [5434-shadow-of-the-beast.json](./5434-shadow-of-the-beast.json) |
 | Shadow of the Beast III | 12221 | [12221-shadow-of-the-beast-iii.json](./12221-shadow-of-the-beast-iii.json) |
+| Shadow of the Devil | 291048 | [291048-shadow-of-the-devil.json](./291048-shadow-of-the-devil.json) |
 | Shadow of The Forgotten | 336006 | [336006-shadow-of-the-forgotten.json](./336006-shadow-of-the-forgotten.json) |
 | Shadow of the Game | 54355 | [54355-shadow-of-the-game.json](./54355-shadow-of-the-game.json) |
 | Shadow of the Ninja Reborn: Deluxe Edition | 317229 | [317229-shadow-of-the-ninja-reborn-deluxe-edition.json](./317229-shadow-of-the-ninja-reborn-deluxe-edition.json) |
@@ -2022,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatter Everything | 96692 | [96692-shatter-everything.json](./96692-shatter-everything.json) |
 | Shatter Keep | 146826 | [146826-shatter-keep.json](./146826-shatter-keep.json) |
 | Shatter Remastered Deluxe | 202146 | [202146-shatter-remastered-deluxe.json](./202146-shatter-remastered-deluxe.json) |
+| Shatterbound | 291053 | [291053-shatterbound.json](./291053-shatterbound.json) |
 | Shatterbrain | 96977 | [96977-shatterbrain.json](./96977-shatterbrain.json) |
 | Shattered | 325043 | [325043-shattered.json](./325043-shattered.json) |
 | Shattered Dreams | 313507 | [313507-shattered-dreams.json](./313507-shattered-dreams.json) |
@@ -5993,6 +5996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Cleaning | 179733 | [179733-spring-cleaning.json](./179733-spring-cleaning.json) |
 | Spring Gothic | 338216 | [338216-spring-gothic.json](./338216-spring-gothic.json) |
 | Spring Hell | 266770 | [266770-spring-hell.json](./266770-spring-hell.json) |
+| Spring in Summer | 291052 | [291052-spring-in-summer.json](./291052-spring-in-summer.json) |
 | Spring Mosaics | 415910 | [415910-spring-mosaics.json](./415910-spring-mosaics.json) |
 | Spring Ninja | 344936 | [344936-spring-ninja.json](./344936-spring-ninja.json) |
 | Spring of Decadence | 103478 | [103478-spring-of-decadence.json](./103478-spring-of-decadence.json) |
@@ -8150,6 +8154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Granny Collection | 27855 | [27855-super-granny-collection.json](./27855-super-granny-collection.json) |
 | Super Grav | 31843 | [31843-super-grav.json](./31843-super-grav.json) |
 | Super Gravitron | 207834 | [207834-super-gravitron.json](./207834-super-gravitron.json) |
+| Super Grid Runner | 291046 | [291046-super-grid-runner.json](./291046-super-grid-runner.json) |
 | Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
 | Super Gussun Oyoyo | 42641 | [42641-super-gussun-oyoyo.json](./42641-super-gussun-oyoyo.json) |
 | Super Gussun Oyoyo 2 | 38385 | [38385-super-gussun-oyoyo-2.json](./38385-super-gussun-oyoyo-2.json) |
