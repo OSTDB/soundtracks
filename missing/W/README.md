@@ -2183,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Party: Game of Trump | 75054 | [75054-world-war-party-game-of-trump.json](./75054-world-war-party-game-of-trump.json) |
 | World War Touch | 174333 | [174333-world-war-touch.json](./174333-world-war-touch.json) |
 | World War Zero | 127176 | [127176-world-war-zero.json](./127176-world-war-zero.json) |
+| World War: Battle of the Bulge | 300827 | [300827-world-war-battle-of-the-bulge.json](./300827-world-war-battle-of-the-bulge.json) |
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
 | World-Wide Adventure! Collection 2 | 222507 | [222507-world-wide-adventure-collection-2.json](./222507-world-wide-adventure-collection-2.json) |
