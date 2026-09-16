@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
 | Fire Emblem Wars | 338815 | [338815-fire-emblem-wars.json](./338815-fire-emblem-wars.json) |
 | Fire Emblem: Blessed Heart | 214493 | [214493-fire-emblem-blessed-heart.json](./214493-fire-emblem-blessed-heart.json) |
+| Fire Emblem: Bloodlines | 322794 | [322794-fire-emblem-bloodlines.json](./322794-fire-emblem-bloodlines.json) |
 | Fire Emblem: Curse of Lagdou | 331954 | [331954-fire-emblem-curse-of-lagdou.json](./331954-fire-emblem-curse-of-lagdou.json) |
 | Fire Emblem: Dark Lord and The Maiden of Light | 214537 | [214537-fire-emblem-dark-lord-and-the-maiden-of-light.json](./214537-fire-emblem-dark-lord-and-the-maiden-of-light.json) |
 | Fire Emblem: Deity Device | 270674 | [270674-fire-emblem-deity-device.json](./270674-fire-emblem-deity-device.json) |
@@ -1936,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flintstones & Jetsons: Timewarp | 46610 | [46610-flintstones-and-jetsons-timewarp.json](./46610-flintstones-and-jetsons-timewarp.json) |
 | Flintstones' Bedrock Boblseddin' Blowout | 196839 | [196839-flintstones-bedrock-boblseddin-blowout.json](./196839-flintstones-bedrock-boblseddin-blowout.json) |
 | Flip | 381025 | [381025-flip.json](./381025-flip.json) |
+| Flip Flop XL | 322782 | [322782-flip-flop-xl.json](./322782-flip-flop-xl.json) |
 | Flip for Cake | 361721 | [361721-flip-for-cake.json](./361721-flip-for-cake.json) |
 | Flip Maze | 137589 | [137589-flip-maze.json](./137589-flip-maze.json) |
 | Flip of Light | 185119 | [185119-flip-of-light.json](./185119-flip-of-light.json) |
@@ -2225,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
 | Follow My Voice | 179194 | [179194-follow-my-voice.json](./179194-follow-my-voice.json) |
 | Follow Nightmare | 391589 | [391589-follow-nightmare.json](./391589-follow-nightmare.json) |
+| Follow The Banner | 322807 | [322807-follow-the-banner.json](./322807-follow-the-banner.json) |
 | Follow The Cat | 170544 | [170544-follow-the-cat.json](./170544-follow-the-cat.json) |
 | Follow the Leader | 264035 | [264035-follow-the-leader.json](./264035-follow-the-leader.json) |
 | Follow the Rules | 273952 | [273952-follow-the-rules.json](./273952-follow-the-rules.json) |
@@ -3011,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrogJump | 224242 | [224242-frogjump.json](./224242-frogjump.json) |
 | Froglet | 262402 | [262402-froglet.json](./262402-froglet.json) |
 | Froglin Friend and the White Tower: Pt1 | 210692 | [210692-froglin-friend-and-the-white-tower-pt1.json](./210692-froglin-friend-and-the-white-tower-pt1.json) |
+| Frogmageddon | 322799 | [322799-frogmageddon.json](./322799-frogmageddon.json) |
 | Frogman Magmaborn | 190144 | [190144-frogman-magmaborn.json](./190144-frogman-magmaborn.json) |
 | Frogs Also Struggle | 258202 | [258202-frogs-also-struggle.json](./258202-frogs-also-struggle.json) |
 | Frogshot Adventure | 380559 | [380559-frogshot-adventure.json](./380559-frogshot-adventure.json) |
@@ -3137,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Machine Mania | 97369 | [97369-fruit-machine-mania.json](./97369-fruit-machine-mania.json) |
 | Fruit Machine Simulator | 72639 | [72639-fruit-machine-simulator.json](./72639-fruit-machine-simulator.json) |
 | Fruit Mart Simulator | 349325 | [349325-fruit-mart-simulator.json](./349325-fruit-mart-simulator.json) |
+| Fruit Merge | 322806 | [322806-fruit-merge.json](./322806-fruit-merge.json) |
 | Fruit Ninja vs Skittles | 352285 | [352285-fruit-ninja-vs-skittles.json](./352285-fruit-ninja-vs-skittles.json) |
 | Fruit Ninja: Pac-Man Theme | 400979 | [400979-fruit-ninja-pac-man-theme.json](./400979-fruit-ninja-pac-man-theme.json) |
 | Fruit Postal Service | 119777 | [119777-fruit-postal-service.json](./119777-fruit-postal-service.json) |
