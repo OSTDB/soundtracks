@@ -3193,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
 | Hypnosis: Quiet Nights | 352744 | [352744-hypnosis-quiet-nights.json](./352744-hypnosis-quiet-nights.json) |
 | Hypnospace Enforcer | 216271 | [216271-hypnospace-enforcer.json](./216271-hypnospace-enforcer.json) |
+| Hypnotica Quest | 302509 | [302509-hypnotica-quest.json](./302509-hypnotica-quest.json) |
 | Hypogeal | 401015 | [401015-hypogeal.json](./401015-hypogeal.json) |
 | Hypogean Descent | 266791 | [266791-hypogean-descent.json](./266791-hypogean-descent.json) |
 | Hyposphere | 33020 | [33020-hyposphere.json](./33020-hyposphere.json) |
