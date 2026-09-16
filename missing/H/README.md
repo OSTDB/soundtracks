@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Lodge | 186815 | [186815-hero-lodge.json](./186815-hero-lodge.json) |
 | Hero Mania | 211714 | [211714-hero-mania.json](./211714-hero-mania.json) |
 | Hero Must Die. Again | 127334 | [127334-hero-must-die-again.json](./127334-hero-must-die-again.json) |
+| Hero of Fate: Darkness Land | 292647 | [292647-hero-of-fate-darkness-land.json](./292647-hero-of-fate-darkness-land.json) |
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
 | Hero of the Kingdom Collection | 53187 | [53187-hero-of-the-kingdom-collection.json](./53187-hero-of-the-kingdom-collection.json) |
 | Hero or Foe | 173232 | [173232-hero-or-foe.json](./173232-hero-or-foe.json) |
@@ -3009,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown - The Concubine | 226206 | [226206-hunt-showdown-the-concubine.json](./226206-hunt-showdown-the-concubine.json) |
 | Hunt: Showdown 1896 - Law of Salvage | 276197 | [276197-hunt-showdown-1896-law-of-salvage.json](./276197-hunt-showdown-1896-law-of-salvage.json) |
 | Hunt: Showdown 1896 - Myth of the Moors | 253930 | [253930-hunt-showdown-1896-myth-of-the-moors.json](./253930-hunt-showdown-1896-myth-of-the-moors.json) |
+| Hunt: Showdown 1896 - Northern Justice | 292675 | [292675-hunt-showdown-1896-northern-justice.json](./292675-hunt-showdown-1896-northern-justice.json) |
 | Hunt: Showdown 1896 - The Son of Gunpowder | 296920 | [296920-hunt-showdown-1896-the-son-of-gunpowder.json](./296920-hunt-showdown-1896-the-son-of-gunpowder.json) |
 | Huntdown | 19728 | [19728-huntdown.json](./19728-huntdown.json) |
 | Huntdown: Collector's Edition | 152327 | [152327-huntdown-collectors-edition.json](./152327-huntdown-collectors-edition.json) |
