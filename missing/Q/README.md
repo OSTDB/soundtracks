@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Adventure | 133444 | [133444-quest-adventure.json](./133444-quest-adventure.json) |
 | Quest Eternal | 290954 | [290954-quest-eternal.json](./290954-quest-eternal.json) |
 | Quest for Cathay Kingdom Mah Jong | 367446 | [367446-quest-for-cathay-kingdom-mah-jong.json](./367446-quest-for-cathay-kingdom-mah-jong.json) |
+| Quest For Corgi Butts | 328050 | [328050-quest-for-corgi-butts.json](./328050-quest-for-corgi-butts.json) |
 | Quest for Glory II: Trial by Fire | 1894 | [1894-quest-for-glory-ii-trial-by-fire.json](./1894-quest-for-glory-ii-trial-by-fire.json) |
 | Quest for Glory V: Dragon Fire | 1897 | [1897-quest-for-glory-v-dragon-fire.json](./1897-quest-for-glory-v-dragon-fire.json) |
 | Quest for Glory: Shadows of Darkness | 1896 | [1896-quest-for-glory-shadows-of-darkness.json](./1896-quest-for-glory-shadows-of-darkness.json) |
