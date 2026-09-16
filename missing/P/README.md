@@ -40,6 +40,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
 | Pac-Man 99 | 145515 | [145515-pac-man-99.json](./145515-pac-man-99.json) |
 | Pac-Man 99: Deluxe Pack | 237983 | [237983-pac-man-99-deluxe-pack.json](./237983-pac-man-99-deluxe-pack.json) |
+| Pac-Man 99: Dig Dug | 325054 | [325054-pac-man-99-dig-dug.json](./325054-pac-man-99-dig-dug.json) |
+| Pac-Man 99: Galaga | 325053 | [325053-pac-man-99-galaga.json](./325053-pac-man-99-galaga.json) |
+| Pac-Man 99: Namco Classic 2 | 325049 | [325049-pac-man-99-namco-classic-2.json](./325049-pac-man-99-namco-classic-2.json) |
+| Pac-Man 99: New Rally-X | 325051 | [325051-pac-man-99-new-rally-x.json](./325051-pac-man-99-new-rally-x.json) |
+| Pac-Man 99: The Legend of "Valkyrie" | 325055 | [325055-pac-man-99-the-legend-of-valkyrie.json](./325055-pac-man-99-the-legend-of-valkyrie.json) |
+| Pac-Man 99: The Tower of Druaga | 325052 | [325052-pac-man-99-the-tower-of-druaga.json](./325052-pac-man-99-the-tower-of-druaga.json) |
 | Pac-Man and the Ghostly Adventures | 19940 | [19940-pac-man-and-the-ghostly-adventures.json](./19940-pac-man-and-the-ghostly-adventures.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
