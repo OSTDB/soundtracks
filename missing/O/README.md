@@ -1321,17 +1321,38 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak Diamond Collection | 200177 | [200177-outbreak-diamond-collection.json](./200177-outbreak-diamond-collection.json) |
 | Outbreak Zero | 365085 | [365085-outbreak-zero.json](./365085-outbreak-zero.json) |
 | Outbreak: Blood & Teeth Collection | 304365 | [304365-outbreak-blood-and-teeth-collection.json](./304365-outbreak-blood-and-teeth-collection.json) |
+| Outbreak: Blood and Death Collection | 331433 | [331433-outbreak-blood-and-death-collection.json](./331433-outbreak-blood-and-death-collection.json) |
+| Outbreak: Campout Collection | 331432 | [331432-outbreak-campout-collection.json](./331432-outbreak-campout-collection.json) |
 | Outbreak: Co-Op Collection | 275903 | [275903-outbreak-co-op-collection.json](./275903-outbreak-co-op-collection.json) |
 | Outbreak: Contagious Memories | 194663 | [194663-outbreak-contagious-memories.json](./194663-outbreak-contagious-memories.json) |
 | Outbreak: Dark Dimensions Collection | 308579 | [308579-outbreak-dark-dimensions-collection.json](./308579-outbreak-dark-dimensions-collection.json) |
+| Outbreak: Genesis Collection | 331430 | [331430-outbreak-genesis-collection.json](./331430-outbreak-genesis-collection.json) |
 | Outbreak: Gwen's Nightmare | 256264 | [256264-outbreak-gwens-nightmare.json](./256264-outbreak-gwens-nightmare.json) |
+| Outbreak: Hideous Hallucinations Collection | 331429 | [331429-outbreak-hideous-hallucinations-collection.json](./331429-outbreak-hideous-hallucinations-collection.json) |
+| Outbreak: Loremaker Collection | 331431 | [331431-outbreak-loremaker-collection.json](./331431-outbreak-loremaker-collection.json) |
 | Outbreak: Palladium Collection | 196278 | [196278-outbreak-palladium-collection.json](./196278-outbreak-palladium-collection.json) |
+| Outbreak: Phantasmagoria Collection | 331428 | [331428-outbreak-phantasmagoria-collection.json](./331428-outbreak-phantasmagoria-collection.json) |
 | Outbreak: Platinum Collection | 205578 | [205578-outbreak-platinum-collection.json](./205578-outbreak-platinum-collection.json) |
+| Outbreak: Shades of Horror Chromatic Split Anachronistic Collection | 331427 | [331427-outbreak-shades-of-horror-chromatic-split-anachronistic-collection.json](./331427-outbreak-shades-of-horror-chromatic-split-anachronistic-collection.json) |
+| Outbreak: Shades of Horror Chromatic Split Anthology Collection | 331426 | [331426-outbreak-shades-of-horror-chromatic-split-anthology-collection.json](./331426-outbreak-shades-of-horror-chromatic-split-anthology-collection.json) |
+| Outbreak: Shades of Horror Chromatic Split Apocalyptic Collection | 331425 | [331425-outbreak-shades-of-horror-chromatic-split-apocalyptic-collection.json](./331425-outbreak-shades-of-horror-chromatic-split-apocalyptic-collection.json) |
+| Outbreak: Shades of Horror Chromatic Split Compatriots Collection | 331421 | [331421-outbreak-shades-of-horror-chromatic-split-compatriots-collection.json](./331421-outbreak-shades-of-horror-chromatic-split-compatriots-collection.json) |
+| Outbreak: Shades of Horror Chromatic Split Infection Collection | 331420 | [331420-outbreak-shades-of-horror-chromatic-split-infection-collection.json](./331420-outbreak-shades-of-horror-chromatic-split-infection-collection.json) |
+| Outbreak: Shades of Horror Chromatic Split Integral Collection | 331422 | [331422-outbreak-shades-of-horror-chromatic-split-integral-collection.json](./331422-outbreak-shades-of-horror-chromatic-split-integral-collection.json) |
+| Outbreak: Shades of Horror Chromatic Split Retro Collection | 331423 | [331423-outbreak-shades-of-horror-chromatic-split-retro-collection.json](./331423-outbreak-shades-of-horror-chromatic-split-retro-collection.json) |
+| Outbreak: Shades of Horror Chromatic Split Undead Cheer Collection | 331424 | [331424-outbreak-shades-of-horror-chromatic-split-undead-cheer-collection.json](./331424-outbreak-shades-of-horror-chromatic-split-undead-cheer-collection.json) |
+| Outbreak: Shattered Dreams Collection | 331419 | [331419-outbreak-shattered-dreams-collection.json](./331419-outbreak-shattered-dreams-collection.json) |
 | Outbreak: Silver Collection | 205579 | [205579-outbreak-silver-collection.json](./205579-outbreak-silver-collection.json) |
+| Outbreak: Strange Shades Collection | 331413 | [331413-outbreak-strange-shades-collection.json](./331413-outbreak-strange-shades-collection.json) |
+| Outbreak: Take a Bite Collection | 331416 | [331416-outbreak-take-a-bite-collection.json](./331416-outbreak-take-a-bite-collection.json) |
+| Outbreak: Tenth Anniversary Celebration Collection | 331414 | [331414-outbreak-tenth-anniversary-celebration-collection.json](./331414-outbreak-tenth-anniversary-celebration-collection.json) |
+| Outbreak: The Fall of Cypress Ridge Collection | 331415 | [331415-outbreak-the-fall-of-cypress-ridge-collection.json](./331415-outbreak-the-fall-of-cypress-ridge-collection.json) |
 | Outbreak: The Fedora Files Desperate Struggle Collection | 338025 | [338025-outbreak-the-fedora-files-desperate-struggle-collection.json](./338025-outbreak-the-fedora-files-desperate-struggle-collection.json) |
+| Outbreak: The Full Monty Collection | 331417 | [331417-outbreak-the-full-monty-collection.json](./331417-outbreak-the-full-monty-collection.json) |
 | Outbreak: The New Nightmare - Definitive Collection | 234305 | [234305-outbreak-the-new-nightmare-definitive-collection.json](./234305-outbreak-the-new-nightmare-definitive-collection.json) |
 | Outbreak: The Nightmare Chronicles - Chapter 2 | 168843 | [168843-outbreak-the-nightmare-chronicles-chapter-2.json](./168843-outbreak-the-nightmare-chronicles-chapter-2.json) |
 | Outbreak: The Nightmare Chronicles - Chapter 4 | 168853 | [168853-outbreak-the-nightmare-chronicles-chapter-4.json](./168853-outbreak-the-nightmare-chronicles-chapter-4.json) |
+| Outbreak: Urban Jungle Collection | 331418 | [331418-outbreak-urban-jungle-collection.json](./331418-outbreak-urban-jungle-collection.json) |
 | Outbrk | 131609 | [131609-outbrk.json](./131609-outbrk.json) |
 | Outburst | 79240 | [79240-outburst.json](./79240-outburst.json) |
 | Outcast 1.1 | 36084 | [36084-outcast-1-1.json](./36084-outcast-1-1.json) |
