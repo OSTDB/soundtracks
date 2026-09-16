@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Adventures 3D | 105307 | [105307-pac-adventures-3d.json](./105307-pac-adventures-3d.json) |
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
 | Pac Rabbit | 319590 | [319590-pac-rabbit.json](./319590-pac-rabbit.json) |
+| Pac-Athlon | 320352 | [320352-pac-athlon.json](./320352-pac-athlon.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
 | Pac-Maine | 79229 | [79229-pac-maine.json](./79229-pac-maine.json) |
 | Pac-Man | 213944 | [213944-pac-man.json](./213944-pac-man.json) |
@@ -1199,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet City | 279638 | [279638-pet-city.json](./279638-pet-city.json) |
 | Pet City | 356729 | [356729-pet-city.json](./356729-pet-city.json) |
 | Pet City 2 | 356731 | [356731-pet-city-2.json](./356731-pet-city-2.json) |
+| Pet Clinic Simulator | 320372 | [320372-pet-clinic-simulator.json](./320372-pet-clinic-simulator.json) |
 | Pet Cube: Tower Stack | 242211 | [242211-pet-cube-tower-stack.json](./242211-pet-cube-tower-stack.json) |
 | Pet Dog | 178682 | [178682-pet-dog.json](./178682-pet-dog.json) |
 | Pet Kawaii Shop | 317211 | [317211-pet-kawaii-shop.json](./317211-pet-kawaii-shop.json) |
@@ -2110,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixeria | 347234 | [347234-pixeria.json](./347234-pixeria.json) |
 | PixEvo: The Fountain | 191901 | [191901-pixevo-the-fountain.json](./191901-pixevo-the-fountain.json) |
 | Pixgun | 348234 | [348234-pixgun.json](./348234-pixgun.json) |
+| Pixicharm Collection 1 | 320377 | [320377-pixicharm-collection-1.json](./320377-pixicharm-collection-1.json) |
 | Pixicharm Collection 2 | 334080 | [334080-pixicharm-collection-2.json](./334080-pixicharm-collection-2.json) |
 | Pixicharm: Acornflare | 389416 | [389416-pixicharm-acornflare.json](./389416-pixicharm-acornflare.json) |
 | Pixicharm: Bus Coinventure | 332538 | [332538-pixicharm-bus-coinventure.json](./332538-pixicharm-bus-coinventure.json) |
@@ -3185,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power Chips | 382344 | [382344-power-chips.json](./382344-power-chips.json) |
+| Power Drill Massacre | 320349 | [320349-power-drill-massacre.json](./320349-power-drill-massacre.json) |
 | Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
 | Power Factory Featuring C+C Music Factory | 5420 | [5420-power-factory-featuring-c-c-music-factory.json](./5420-power-factory-featuring-c-c-music-factory.json) |
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
