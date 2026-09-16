@@ -1705,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Tower: The Abyss | 283751 | [283751-lizard-tower-the-abyss.json](./283751-lizard-tower-the-abyss.json) |
 | Lizardquest-Alien waters | 115035 | [115035-lizardquest-alien-waters.json](./115035-lizardquest-alien-waters.json) |
 | Lizards Must Die | 264773 | [264773-lizards-must-die.json](./264773-lizards-must-die.json) |
+| Lizards Must Die: Victor Character | 288903 | [288903-lizards-must-die-victor-character.json](./288903-lizards-must-die-victor-character.json) |
 | LizardSpock | 233012 | [233012-lizardspock.json](./233012-lizardspock.json) |
 | Lizzie McGuire 2: Lizzie Diaries | 49393 | [49393-lizzie-mcguire-2-lizzie-diaries.json](./49393-lizzie-mcguire-2-lizzie-diaries.json) |
 | Lizzie McGuire 3: Homecoming Havoc | 49392 | [49392-lizzie-mcguire-3-homecoming-havoc.json](./49392-lizzie-mcguire-3-homecoming-havoc.json) |
@@ -1770,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockdown: Stand Alone | 31774 | [31774-lockdown-stand-alone.json](./31774-lockdown-stand-alone.json) |
 | Locke(d) | 231365 | [231365-locke-d.json](./231365-locke-d.json) |
 | Locked Arcadia | 261824 | [261824-locked-arcadia.json](./261824-locked-arcadia.json) |
+| Locked in a Room While: Visiting an Old Castle | 288922 | [288922-locked-in-a-room-while-visiting-an-old-castle.json](./288922-locked-in-a-room-while-visiting-an-old-castle.json) |
 | Locked in Love: The Office | 407465 | [407465-locked-in-love-the-office.json](./407465-locked-in-love-the-office.json) |
 | Locked Together | 405617 | [405617-locked-together.json](./405617-locked-together.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
@@ -2225,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Hotel Manager | 351602 | [351602-love-hotel-manager.json](./351602-love-hotel-manager.json) |
 | Love Hotel Simulator | 410920 | [410920-love-hotel-simulator.json](./410920-love-hotel-simulator.json) |
 | Love Hues! | 134674 | [134674-love-hues.json](./134674-love-hues.json) |
+| Love in the Crimson Void | 288898 | [288898-love-in-the-crimson-void.json](./288898-love-in-the-crimson-void.json) |
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
 | Love in the Time of Spellphage | 364524 | [364524-love-in-the-time-of-spellphage.json](./364524-love-in-the-time-of-spellphage.json) |
 | Love Is All Around | 253391 | [253391-love-is-all-around.json](./253391-love-is-all-around.json) |
