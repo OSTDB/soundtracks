@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports UFC 3 | 75297 | [75297-ea-sports-ufc-3.json](./75297-ea-sports-ufc-3.json) |
 | EA Sports UFC 5: Mike Tyson | 297457 | [297457-ea-sports-ufc-5-mike-tyson.json](./297457-ea-sports-ufc-5-mike-tyson.json) |
 | EA Sports UFC 6: Ultimate Edition | 402962 | [402962-ea-sports-ufc-6-ultimate-edition.json](./402962-ea-sports-ufc-6-ultimate-edition.json) |
+| EA Sports WRC 24 | 319197 | [319197-ea-sports-wrc-24.json](./319197-ea-sports-wrc-24.json) |
 | Eador: Masters of the Broken World | 7719 | [7719-eador-masters-of-the-broken-world.json](./7719-eador-masters-of-the-broken-world.json) |
 | Eador: Masters of the Broken World - Allied Forces | 9206 | [9206-eador-masters-of-the-broken-world-allied-forces.json](./9206-eador-masters-of-the-broken-world-allied-forces.json) |
 | Eagle | 13626 | [13626-eagle.json](./13626-eagle.json) |
@@ -201,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Wars: Road Rage | 215896 | [215896-echo-wars-road-rage.json](./215896-echo-wars-road-rage.json) |
 | Echo: Benefits | 141823 | [141823-echo-benefits.json](./141823-echo-benefits.json) |
 | Echo: Defy Death | 303500 | [303500-echo-defy-death.json](./303500-echo-defy-death.json) |
+| Echo: The Oracle's Scroll | 319196 | [319196-echo-the-oracles-scroll.json](./319196-echo-the-oracles-scroll.json) |
 | EchoBlade | 166752 | [166752-echoblade.json](./166752-echoblade.json) |
 | EchoChamber: Not Welcome | 390689 | [390689-echochamber-not-welcome.json](./390689-echochamber-not-welcome.json) |
 | Echochrome II | 18240 | [18240-echochrome-ii.json](./18240-echochrome-ii.json) |
@@ -524,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro Freddy | 13631 | [13631-electro-freddy.json](./13631-electro-freddy.json) |
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
+| Electrolight | 319192 | [319192-electrolight.json](./319192-electrolight.json) |
 | Electron Handsome Boy | 201312 | [201312-electron-handsome-boy.json](./201312-electron-handsome-boy.json) |
 | Electronauts | 81056 | [81056-electronauts.json](./81056-electronauts.json) |
 | Electronia | 55918 | [55918-electronia.json](./55918-electronia.json) |
