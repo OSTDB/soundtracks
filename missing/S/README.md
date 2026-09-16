@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Studio | 65321 | [65321-sallys-studio.json](./65321-sallys-studio.json) |
 | Sally's Studio HD | 107861 | [107861-sallys-studio-hd.json](./107861-sallys-studio-hd.json) |
 | Salmon Run | 69800 | [69800-salmon-run.json](./69800-salmon-run.json) |
+| Salomónico | 304219 | [304219-salomonico.json](./304219-salomonico.json) |
 | Saloon Showdown VR | 68591 | [68591-saloon-showdown-vr.json](./68591-saloon-showdown-vr.json) |
 | Saloon VR | 118356 | [118356-saloon-vr.json](./118356-saloon-vr.json) |
 | Salt | 171556 | [171556-salt.json](./171556-salt.json) |
@@ -1525,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seth | 278380 | [278380-seth.json](./278380-seth.json) |
 | Seth Johnson's Sink or Skim | 82144 | [82144-seth-johnsons-sink-or-skim.json](./82144-seth-johnsons-sink-or-skim.json) |
 | Sethian | 26160 | [26160-sethian.json](./26160-sethian.json) |
+| Sets | 304222 | [304222-sets.json](./304222-sets.json) |
 | Setsugekka | 163363 | [163363-setsugekka.json](./163363-setsugekka.json) |
 | Setsuna ni Kakeru Koi Hanabi | 302683 | [302683-setsuna-ni-kakeru-koi-hanabi.json](./302683-setsuna-ni-kakeru-koi-hanabi.json) |
 | Setsuna ni Kakeru Koi Hanabi | 339821 | [339821-setsuna-ni-kakeru-koi-hanabi.json](./339821-setsuna-ni-kakeru-koi-hanabi.json) |
@@ -4603,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast 2 | 280215 | [280215-sonic-robo-blast-2.json](./280215-sonic-robo-blast-2.json) |
 | Sonic Robo Blast 2: Adventure Sonic | 241383 | [241383-sonic-robo-blast-2-adventure-sonic.json](./241383-sonic-robo-blast-2-adventure-sonic.json) |
 | Sonic Robo Blast 2: Frontiers Adaptation Project | 264858 | [264858-sonic-robo-blast-2-frontiers-adaptation-project.json](./264858-sonic-robo-blast-2-frontiers-adaptation-project.json) |
+| Sonic Robo Blast 2: Heroes | 304182 | [304182-sonic-robo-blast-2-heroes.json](./304182-sonic-robo-blast-2-heroes.json) |
 | Sonic Robo Blast 2: Official Level Design Contest - Autumn 2020 | 287674 | [287674-sonic-robo-blast-2-official-level-design-contest-autumn-2020.json](./287674-sonic-robo-blast-2-official-level-design-contest-autumn-2020.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2021- Round 1 | 287670 | [287670-sonic-robo-blast-2-official-level-design-contest-2021-round-1.json](./287670-sonic-robo-blast-2-official-level-design-contest-2021-round-1.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2021- Round 2 | 287668 | [287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json](./287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json) |
@@ -7642,6 +7645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suggoi! Arcana Heart 2 | 243414 | [243414-suggoi-arcana-heart-2.json](./243414-suggoi-arcana-heart-2.json) |
 | Suggoi! Arcana Heart 2 | 243419 | [243419-suggoi-arcana-heart-2.json](./243419-suggoi-arcana-heart-2.json) |
 | Sugobencha: Dragon Master Silk Gaiden | 321539 | [321539-sugobencha-dragon-master-silk-gaiden.json](./321539-sugobencha-dragon-master-silk-gaiden.json) |
+| SUGOI | 304183 | [304183-sugoi.json](./304183-sugoi.json) |
 | Sugoi Girls: Enchanting Elf | 328480 | [328480-sugoi-girls-enchanting-elf.json](./328480-sugoi-girls-enchanting-elf.json) |
 | Sugoi Girls: Mighty Mecha | 317230 | [317230-sugoi-girls-mighty-mecha.json](./317230-sugoi-girls-mighty-mecha.json) |
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
