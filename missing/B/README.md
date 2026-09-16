@@ -4559,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Ryoku Kentei DS | 70410 | [70410-business-ryoku-kentei-ds.json](./70410-business-ryoku-kentei-ds.json) |
 | Businessman Simulator | 402891 | [402891-businessman-simulator.json](./402891-businessman-simulator.json) |
 | Businessman Simulator 3 | 402973 | [402973-businessman-simulator-3.json](./402973-businessman-simulator-3.json) |
+| Businessmen | 301398 | [301398-businessmen.json](./301398-businessmen.json) |
 | Busou Shinki: Battle Masters | 66641 | [66641-busou-shinki-battle-masters.json](./66641-busou-shinki-battle-masters.json) |
 | Busou Shinki: Battle Masters Mk. 2 | 56498 | [56498-busou-shinki-battle-masters-mk-2.json](./56498-busou-shinki-battle-masters-mk-2.json) |
 | Bussy Master: Club Leather | 311795 | [311795-bussy-master-club-leather.json](./311795-bussy-master-club-leather.json) |
