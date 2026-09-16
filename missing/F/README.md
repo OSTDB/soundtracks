@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Raiders | 104009 | [104009-fantasy-raiders.json](./104009-fantasy-raiders.json) |
 | Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
 | Fantasy Shop | 238492 | [238492-fantasy-shop.json](./238492-fantasy-shop.json) |
+| Fantasy Simulator KnightX | 297629 | [297629-fantasy-simulator-knightx.json](./297629-fantasy-simulator-knightx.json) |
 | Fantasy Smith VR | 115558 | [115558-fantasy-smith-vr.json](./115558-fantasy-smith-vr.json) |
 | Fantasy Squad W | 109575 | [109575-fantasy-squad-w.json](./109575-fantasy-squad-w.json) |
 | Fantasy Story: Lord of Darkness | 200117 | [200117-fantasy-story-lord-of-darkness.json](./200117-fantasy-story-lord-of-darkness.json) |
@@ -1841,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bee | 169471 | [169471-flappy-bee.json](./169471-flappy-bee.json) |
 | Flappy Bird | 298312 | [298312-flappy-bird.json](./298312-flappy-bird.json) |
 | Flappy Bird | 339269 | [339269-flappy-bird.json](./339269-flappy-bird.json) |
+| Flappy Bird GB | 297596 | [297596-flappy-bird-gb.json](./297596-flappy-bird-gb.json) |
 | Flappy Bird Ultra | 368522 | [368522-flappy-bird-ultra.json](./368522-flappy-bird-ultra.json) |
 | Flappy Box | 285478 | [285478-flappy-box.json](./285478-flappy-box.json) |
 | Flappy Camel | 283767 | [283767-flappy-camel.json](./283767-flappy-camel.json) |
@@ -2376,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footsy | 311139 | [311139-footsy.json](./311139-footsy.json) |
 | Footy Ball Tournament 2018 | 104050 | [104050-footy-ball-tournament-2018.json](./104050-footy-ball-tournament-2018.json) |
 | Foqus | 46609 | [46609-foqus.json](./46609-foqus.json) |
+| For a Place by the Putrid Sea | 297600 | [297600-for-a-place-by-the-putrid-sea.json](./297600-for-a-place-by-the-putrid-sea.json) |
 | For a Vast Future: Definitive Edition | 283148 | [283148-for-a-vast-future-definitive-edition.json](./283148-for-a-vast-future-definitive-edition.json) |
 | For a Vast Future: Premium Edition | 283149 | [283149-for-a-vast-future-premium-edition.json](./283149-for-a-vast-future-premium-edition.json) |
 | For All the People I Love | 336894 | [336894-for-all-the-people-i-love.json](./336894-for-all-the-people-i-love.json) |
