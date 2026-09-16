@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Snow | 309867 | [309867-short-snow.json](./309867-short-snow.json) |
 | Short Trip | 324905 | [324905-short-trip.json](./324905-short-trip.json) |
 | Shortest Trip to Earth | 108656 | [108656-shortest-trip-to-earth.json](./108656-shortest-trip-to-earth.json) |
+| Shot & Dread Online | 293214 | [293214-shot-and-dread-online.json](./293214-shot-and-dread-online.json) |
 | Shot Dawn | 197355 | [197355-shot-dawn.json](./197355-shot-dawn.json) |
 | Shot Online | 20574 | [20574-shot-online.json](./20574-shot-online.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
@@ -2940,6 +2941,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinful Discharge | 268459 | [268459-sinful-discharge.json](./268459-sinful-discharge.json) |
 | Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
 | Singalongsong | 302932 | [302932-singalongsong.json](./302932-singalongsong.json) |
+| Singing Easter Eggs | 293217 | [293217-singing-easter-eggs.json](./293217-singing-easter-eggs.json) |
+| Singing Horses | 293218 | [293218-singing-horses.json](./293218-singing-horses.json) |
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
 | Single Espresso | 312743 | [312743-single-espresso.json](./312743-single-espresso.json) |
 | Single's Inferno: Choices | 342743 | [342743-singles-inferno-choices.json](./342743-singles-inferno-choices.json) |
@@ -5069,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure Laika | 128634 | [128634-space-adventure-laika.json](./128634-space-adventure-laika.json) |
 | Space Adventure Zodiac | 406168 | [406168-space-adventure-zodiac.json](./406168-space-adventure-zodiac.json) |
 | Space Adventure: Escape from Siphilus 1b | 219587 | [219587-space-adventure-escape-from-siphilus-1b.json](./219587-space-adventure-escape-from-siphilus-1b.json) |
+| Space Age: Director's Cut | 293227 | [293227-space-age-directors-cut.json](./293227-space-age-directors-cut.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
 | Space and Lazers | 324320 | [324320-space-and-lazers.json](./324320-space-and-lazers.json) |
 | Space Angel Boin Boin! | 97832 | [97832-space-angel-boin-boin.json](./97832-space-angel-boin-boin.json) |
@@ -5156,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
 | Space Gate Rush | 259565 | [259565-space-gate-rush.json](./259565-space-gate-rush.json) |
 | Space Girls | 68894 | [68894-space-girls.json](./68894-space-girls.json) |
+| Space Girls Band | 293215 | [293215-space-girls-band.json](./293215-space-girls-band.json) |
 | Space Gnomes | 407315 | [407315-space-gnomes.json](./407315-space-gnomes.json) |
 | Space Gourmet: Delivery | 238504 | [238504-space-gourmet-delivery.json](./238504-space-gourmet-delivery.json) |
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
@@ -7704,6 +7709,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
 | Sudokuro: Sudoku & Kakuro Games | 337677 | [337677-sudokuro-sudoku-and-kakuro-games.json](./337677-sudokuro-sudoku-and-kakuro-games.json) |
 | Sue Shi Survival | 219584 | [219584-sue-shi-survival.json](./219584-sue-shi-survival.json) |
+| Sue's Chocolate Candy Maker | 293211 | [293211-sues-chocolate-candy-maker.json](./293211-sues-chocolate-candy-maker.json) |
+| Sue's Potato Farm | 293210 | [293210-sues-potato-farm.json](./293210-sues-potato-farm.json) |
+| Sue's Witch Magic Makeover | 293206 | [293206-sues-witch-magic-makeover.json](./293206-sues-witch-magic-makeover.json) |
 | Suez Canal Bulldozer | 181865 | [181865-suez-canal-bulldozer.json](./181865-suez-canal-bulldozer.json) |
 | Suez Canal Girl | 368042 | [368042-suez-canal-girl.json](./368042-suez-canal-girl.json) |
 | Suffer | 110650 | [110650-suffer.json](./110650-suffer.json) |
