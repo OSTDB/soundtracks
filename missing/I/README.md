@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isla de la Muerte | 399734 | [399734-isla-de-la-muerte.json](./399734-isla-de-la-muerte.json) |
 | Isla Dorada: Episode 1 - The Sands of Ephranis | 210046 | [210046-isla-dorada-episode-1-the-sands-of-ephranis.json](./210046-isla-dorada-episode-1-the-sands-of-ephranis.json) |
 | ISLA test | 123573 | [123573-isla-test.json](./123573-isla-test.json) |
+| Islamic Fun | 318628 | [318628-islamic-fun.json](./318628-islamic-fun.json) |
 | Island | 260380 | [260380-island.json](./260380-island.json) |
 | Island | 346060 | [346060-island.json](./346060-island.json) |
 | Island Bender | 234346 | [234346-island-bender.json](./234346-island-bender.json) |
