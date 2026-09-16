@@ -3754,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Land | 305528 | [305528-dream-land.json](./305528-dream-land.json) |
 | Dream League Soccer | 249369 | [249369-dream-league-soccer.json](./249369-dream-league-soccer.json) |
 | Dream League Soccer 2016 | 403613 | [403613-dream-league-soccer-2016.json](./403613-dream-league-soccer-2016.json) |
+| Dream League Soccer 2025 | 330832 | [330832-dream-league-soccer-2025.json](./330832-dream-league-soccer-2025.json) |
 | Dream Life in the Country Side | 333010 | [333010-dream-life-in-the-country-side.json](./333010-dream-life-in-the-country-side.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
 | Dream Master | 48611 | [48611-dream-master.json](./48611-dream-master.json) |
@@ -4030,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk Fist | 180817 | [180817-drunk-fist.json](./180817-drunk-fist.json) |
 | Drunk Mages | 390001 | [390001-drunk-mages.json](./390001-drunk-mages.json) |
 | Drunk Puppet | 110354 | [110354-drunk-puppet.json](./110354-drunk-puppet.json) |
+| Drunk Sonic | 330864 | [330864-drunk-sonic.json](./330864-drunk-sonic.json) |
 | Drunk-Fu: Wasted Masters | 28906 | [28906-drunk-fu-wasted-masters.json](./28906-drunk-fu-wasted-masters.json) |
 | Drunkard Quiz Show Hyoutan | 115684 | [115684-drunkard-quiz-show-hyoutan.json](./115684-drunkard-quiz-show-hyoutan.json) |
 | Drunken Fight Simulator | 29913 | [29913-drunken-fight-simulator.json](./29913-drunken-fight-simulator.json) |
