@@ -33,8 +33,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Libertad Arrasa: Milei | 323725 | [323725-la-libertad-arrasa-milei.json](./323725-la-libertad-arrasa-milei.json) |
 | La Llorona Wants Your Soul | 291737 | [291737-la-llorona-wants-your-soul.json](./291737-la-llorona-wants-your-soul.json) |
 | La Maledizione dell'Uccello Serpente | 191225 | [191225-la-maledizione-delluccello-serpente.json](./191225-la-maledizione-delluccello-serpente.json) |
+| La Mansion Hoover | 323328 | [323328-la-mansion-hoover.json](./323328-la-mansion-hoover.json) |
 | La Mina | 252994 | [252994-la-mina.json](./252994-la-mina.json) |
 | La Nuit | 261807 | [261807-la-nuit.json](./261807-la-nuit.json) |
+| La Odisea del Fracaso | 323331 | [323331-la-odisea-del-fracaso.json](./323331-la-odisea-del-fracaso.json) |
+| La Odisea del Fracaso II | 323355 | [323355-la-odisea-del-fracaso-ii.json](./323355-la-odisea-del-fracaso-ii.json) |
 | La Odisea del Fracaso III | 323540 | [323540-la-odisea-del-fracaso-iii.json](./323540-la-odisea-del-fracaso-iii.json) |
 | La Pasion XR | 341033 | [341033-la-pasion-xr.json](./341033-la-pasion-xr.json) |
 | La pesadilla de Illojuan | 302719 | [302719-la-pesadilla-de-illojuan.json](./302719-la-pesadilla-de-illojuan.json) |
@@ -1047,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lǐ Shì Qírén Yì Wén Lù | 367402 | [367402-li-shi-qiren-yi-wen-lu.json](./367402-li-shi-qiren-yi-wen-lu.json) |
 | Li Shui | 374138 | [374138-li-shui.json](./374138-li-shui.json) |
 | Li'l Rumble | 284353 | [284353-lil-rumble.json](./284353-lil-rumble.json) |
+| Li'l Taffer | 323377 | [323377-lil-taffer.json](./323377-lil-taffer.json) |
 | Liam FitzRoy Kills Everyone: The Game Part Zero | 278746 | [278746-liam-fitzroy-kills-everyone-the-game-part-zero.json](./278746-liam-fitzroy-kills-everyone-the-game-part-zero.json) |
 | Liàn yǔ wèi xiē zhī yǔ | 367448 | [367448-lian-yu-wei-xie-zhi-yu.json](./367448-lian-yu-wei-xie-zhi-yu.json) |
 | Lianhai Billiards Club | 216785 | [216785-lianhai-billiards-club.json](./216785-lianhai-billiards-club.json) |
