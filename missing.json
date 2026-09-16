@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T02:21:45.858Z",
-  "total_missing": 76261,
+  "generated_at": "2026-09-16T02:31:45.667Z",
+  "total_missing": 76271,
   "games": [
     {
       "igdb_id": 306086,
@@ -4458,6 +4458,26 @@
       "file": "missing/A/379461-accurate-tag.json"
     },
     {
+      "igdb_id": 329181,
+      "game_name": "ACE",
+      "file": "missing/A/329181-ace.json"
+    },
+    {
+      "igdb_id": 329185,
+      "game_name": "ACE",
+      "file": "missing/A/329185-ace.json"
+    },
+    {
+      "igdb_id": 329188,
+      "game_name": "ACE",
+      "file": "missing/A/329188-ace.json"
+    },
+    {
+      "igdb_id": 329190,
+      "game_name": "ACE",
+      "file": "missing/A/329190-ace.json"
+    },
+    {
       "igdb_id": 292017,
       "game_name": "Ace Angler",
       "file": "missing/A/292017-ace-angler.json"
@@ -5701,11 +5721,6 @@
       "igdb_id": 357799,
       "game_name": "Agent Bob",
       "file": "missing/A/357799-agent-bob.json"
-    },
-    {
-      "igdb_id": 293079,
-      "game_name": "Agent Brain: Tricky Puzzles",
-      "file": "missing/A/293079-agent-brain-tricky-puzzles.json"
     },
     {
       "igdb_id": 409693,
@@ -71108,6 +71123,11 @@
       "file": "missing/D/332559-danger-dash.json"
     },
     {
+      "igdb_id": 329178,
+      "game_name": "Danger Horizon",
+      "file": "missing/D/329178-danger-horizon.json"
+    },
+    {
       "igdb_id": 282005,
       "game_name": "Danger Ramps",
       "file": "missing/D/282005-danger-ramps.json"
@@ -77781,6 +77801,11 @@
       "igdb_id": 55071,
       "game_name": "Depths of Sanity",
       "file": "missing/D/55071-depths-of-sanity.json"
+    },
+    {
+      "igdb_id": 329192,
+      "game_name": "Deputy Arsh",
+      "file": "missing/D/329192-deputy-arsh.json"
     },
     {
       "igdb_id": 326603,
@@ -149368,6 +149393,11 @@
       "file": "missing/I/80532-i-wanna-kill-the-guy.json"
     },
     {
+      "igdb_id": 329182,
+      "game_name": "I Wanna Lap Around",
+      "file": "missing/I/329182-i-wanna-lap-around.json"
+    },
+    {
       "igdb_id": 349291,
       "game_name": "I Wanna Make a Dragon Game",
       "file": "missing/I/349291-i-wanna-make-a-dragon-game.json"
@@ -161471,6 +161501,11 @@
       "igdb_id": 69868,
       "game_name": "Jumpman Lives!",
       "file": "missing/J/69868-jumpman-lives.json"
+    },
+    {
+      "igdb_id": 329193,
+      "game_name": "Jumpng Disable",
+      "file": "missing/J/329193-jumpng-disable.json"
     },
     {
       "igdb_id": 103423,
@@ -251648,6 +251683,11 @@
       "file": "missing/R/137669-rance-quest-magnum.json"
     },
     {
+      "igdb_id": 329187,
+      "game_name": "Rance VI Sonogo",
+      "file": "missing/R/329187-rance-vi-sonogo.json"
+    },
+    {
       "igdb_id": 298049,
       "game_name": "Ranch Mayhem",
       "file": "missing/R/298049-ranch-mayhem.json"
@@ -270456,6 +270496,11 @@
       "igdb_id": 7142,
       "game_name": "Screamer Rally",
       "file": "missing/S/7142-screamer-rally.json"
+    },
+    {
+      "igdb_id": 329180,
+      "game_name": "Screaming in the Basement",
+      "file": "missing/S/329180-screaming-in-the-basement.json"
     },
     {
       "igdb_id": 300716,
@@ -353671,6 +353716,11 @@
       "igdb_id": 99538,
       "game_name": "Ultimate Racing 2D",
       "file": "missing/U/99538-ultimate-racing-2d.json"
+    },
+    {
+      "igdb_id": 329183,
+      "game_name": "Ultimate Ragdoll Game",
+      "file": "missing/U/329183-ultimate-ragdoll-game.json"
     },
     {
       "igdb_id": 95444,
