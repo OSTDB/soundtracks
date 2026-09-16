@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Anthology | 423 | [423-final-fantasy-anthology.json](./423-final-fantasy-anthology.json) |
 | Final Fantasy Anthology Collector's Package | 89874 | [89874-final-fantasy-anthology-collectors-package.json](./89874-final-fantasy-anthology-collectors-package.json) |
 | Final Fantasy Blackmoon Prophecy Remake | 398468 | [398468-final-fantasy-blackmoon-prophecy-remake.json](./398468-final-fantasy-blackmoon-prophecy-remake.json) |
+| Final Fantasy Essence | 323350 | [323350-final-fantasy-essence.json](./323350-final-fantasy-essence.json) |
 | Final Fantasy for Android | 84188 | [84188-final-fantasy-for-android.json](./84188-final-fantasy-for-android.json) |
 | Final Fantasy Grandmasters | 84174 | [84174-final-fantasy-grandmasters.json](./84174-final-fantasy-grandmasters.json) |
 | Final Fantasy I+II Premium Package | 323153 | [323153-final-fantasy-i-ii-premium-package.json](./323153-final-fantasy-i-ii-premium-package.json) |
@@ -1465,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefly Shelter | 404865 | [404865-firefly-shelter.json](./404865-firefly-shelter.json) |
 | FireFly Studios' Stronghold Warchest | 78021 | [78021-firefly-studios-stronghold-warchest.json](./78021-firefly-studios-stronghold-warchest.json) |
 | Firefly Witch | 275345 | [275345-firefly-witch.json](./275345-firefly-witch.json) |
+| Firehawk: Swarmbreakers | 323362 | [323362-firehawk-swarmbreakers.json](./323362-firehawk-swarmbreakers.json) |
 | FireJumpers | 200126 | [200126-firejumpers.json](./200126-firejumpers.json) |
 | FireJumpers Inferno: Full Version Unlock | 220864 | [220864-firejumpers-inferno-full-version-unlock.json](./220864-firejumpers-inferno-full-version-unlock.json) |
 | Firelight Fantasy: Force Energy | 147483 | [147483-firelight-fantasy-force-energy.json](./147483-firelight-fantasy-force-energy.json) |
@@ -3267,6 +3269,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion Deluxe Edition: Fantastik Plastik Pack 1 - Monkey Assassin + Sam (Retail Only) | 378880 | [378880-funko-fusion-deluxe-edition-fantastik-plastik-pack-1-monkey-assassin-sam-retail-only.json](./378880-funko-fusion-deluxe-edition-fantastik-plastik-pack-1-monkey-assassin-sam-retail-only.json) |
 | Funko Fusion Deluxe Edition: Fantastik Plastik Pack 2 - Rocko Billy, Chet (Retails Only) | 378881 | [378881-funko-fusion-deluxe-edition-fantastik-plastik-pack-2-rocko-billy-chet-retails-only.json](./378881-funko-fusion-deluxe-edition-fantastik-plastik-pack-2-rocko-billy-chet-retails-only.json) |
 | Funko Fusion Deluxe Edition: Fantastik Plastik Pack 4 - T-Bone + El Diablo (Retails Only) | 378882 | [378882-funko-fusion-deluxe-edition-fantastik-plastik-pack-4-t-bone-el-diablo-retails-only.json](./378882-funko-fusion-deluxe-edition-fantastik-plastik-pack-4-t-bone-el-diablo-retails-only.json) |
+| Funko Fusion: Back to the Future Outfits Pack | 323398 | [323398-funko-fusion-back-to-the-future-outfits-pack.json](./323398-funko-fusion-back-to-the-future-outfits-pack.json) |
+| Funko Fusion: Bob Ross Pack | 323400 | [323400-funko-fusion-bob-ross-pack.json](./323400-funko-fusion-bob-ross-pack.json) |
+| Funko Fusion: Invincible Pack | 323320 | [323320-funko-fusion-invincible-pack.json](./323320-funko-fusion-invincible-pack.json) |
+| Funko Fusion: Sun Wukong | 323397 | [323397-funko-fusion-sun-wukong.json](./323397-funko-fusion-sun-wukong.json) |
+| Funko Fusion: Team Fortress 2 Pack | 323394 | [323394-funko-fusion-team-fortress-2-pack.json](./323394-funko-fusion-team-fortress-2-pack.json) |
+| Funko Fusion: The Walking Dead Pack | 323395 | [323395-funko-fusion-the-walking-dead-pack.json](./323395-funko-fusion-the-walking-dead-pack.json) |
+| Funko Fusion: Trap Jaw | 323319 | [323319-funko-fusion-trap-jaw.json](./323319-funko-fusion-trap-jaw.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
 | Funky Maker | 336599 | [336599-funky-maker.json](./336599-funky-maker.json) |
 | Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
