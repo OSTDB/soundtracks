@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallsaga | 355127 | [355127-fallsaga.json](./355127-fallsaga.json) |
 | Fallstreak 2: Traum | 364604 | [364604-fallstreak-2-traum.json](./364604-fallstreak-2-traum.json) |
 | Falnarion Tactics: Oathbreaker | 158730 | [158730-falnarion-tactics-oathbreaker.json](./158730-falnarion-tactics-oathbreaker.json) |
+| Falrika the Alchemist | 299292 | [299292-falrika-the-alchemist.json](./299292-falrika-the-alchemist.json) |
 | False Front | 97920 | [97920-false-front.json](./97920-false-front.json) |
 | False Love: Ghost or Not? | 414444 | [414444-false-love-ghost-or-not.json](./414444-false-love-ghost-or-not.json) |
 | False Positive Paradox | 401006 | [401006-false-positive-paradox.json](./401006-false-positive-paradox.json) |
