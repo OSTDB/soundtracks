@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikaros | 51955 | [51955-ikaros.json](./51955-ikaros.json) |
 | Ikaruga | 200996 | [200996-ikaruga.json](./200996-ikaruga.json) |
 | Ikasama Mahjong | 346150 | [346150-ikasama-mahjong.json](./346150-ikasama-mahjong.json) |
+| Ikasumi Potion | 308923 | [308923-ikasumi-potion.json](./308923-ikasumi-potion.json) |
 | Ikemen Oukoku Joou to Shinjitsu no Kiss | 229030 | [229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json](./229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json) |
 | Ikemen Prince: Beauty and Her Beast | 229032 | [229032-ikemen-prince-beauty-and-her-beast.json](./229032-ikemen-prince-beauty-and-her-beast.json) |
 | Ikemen Villains: Wrapped in Wicked Romance | 229033 | [229033-ikemen-villains-wrapped-in-wicked-romance.json](./229033-ikemen-villains-wrapped-in-wicked-romance.json) |
