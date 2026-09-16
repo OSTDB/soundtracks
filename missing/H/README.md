@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Prisoner of Azkaban: The Quest of Sir Cadogan | 266500 | [266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json](./266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json) |
 | Harry Potter and the Sorcerer's Stone | 112660 | [112660-harry-potter-and-the-sorcerers-stone.json](./112660-harry-potter-and-the-sorcerers-stone.json) |
 | Harry Potter and the Sorcerer's Stone: Third-Floor Corridor Challenge | 266498 | [266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json](./266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json) |
+| Harry Potter Collection | 286660 | [286660-harry-potter-collection.json](./286660-harry-potter-collection.json) |
 | Harry Potter DVD Game: Wizarding World | 266196 | [266196-harry-potter-dvd-game-wizarding-world.json](./266196-harry-potter-dvd-game-wizarding-world.json) |
 | Harry Potter for Kinect | 20743 | [20743-harry-potter-for-kinect.json](./20743-harry-potter-for-kinect.json) |
 | Harry Potter Interactive DVD Game: Hogwarts Challenge | 266195 | [266195-harry-potter-interactive-dvd-game-hogwarts-challenge.json](./266195-harry-potter-interactive-dvd-game-hogwarts-challenge.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot & Hentai: Garden Queen Shirayuki | 324492 | [324492-hot-and-hentai-garden-queen-shirayuki.json](./324492-hot-and-hentai-garden-queen-shirayuki.json) |
 | Hot Action Pak | 56454 | [56454-hot-action-pak.json](./56454-hot-action-pak.json) |
 | Hot Air | 152908 | [152908-hot-air.json](./152908-hot-air.json) |
+| Hot Air Bloon | 286632 | [286632-hot-air-bloon.json](./286632-hot-air-bloon.json) |
 | Hot and Cold | 386727 | [386727-hot-and-cold.json](./386727-hot-and-cold.json) |
 | Hot and Lovely 4 | 170556 | [170556-hot-and-lovely-4.json](./170556-hot-and-lovely-4.json) |
 | Hot And Lovely Waifu XXII | 318430 | [318430-hot-and-lovely-waifu-xxii.json](./318430-hot-and-lovely-waifu-xxii.json) |
