@@ -281,6 +281,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 in 1 I Asterix & Obelix: Bash Them All! + Asterix & Obelix XXL | 82102 | [82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json](./82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json) |
 | 2 in 1: Hot Wheels Stunt Track Challenge & Hot Wheels World Race | 84193 | [84193-2-in-1-hot-wheels-stunt-track-challenge-and-hot-wheels-world-race.json](./84193-2-in-1-hot-wheels-stunt-track-challenge-and-hot-wheels-world-race.json) |
 | 2 in 1: Monumental Bundle | 208044 | [208044-2-in-1-monumental-bundle.json](./208044-2-in-1-monumental-bundle.json) |
+| 2 in 1: Trash Punk & Moto Rush GT | 328576 | [328576-2-in-1-trash-punk-and-moto-rush-gt.json](./328576-2-in-1-trash-punk-and-moto-rush-gt.json) |
+| 2 in 1: Trash Punk & S.N.I.P.E.R - Hunter Scope | 328577 | [328577-2-in-1-trash-punk-and-s-n-i-p-e-r-hunter-scope.json](./328577-2-in-1-trash-punk-and-s-n-i-p-e-r-hunter-scope.json) |
+| 2 in 1: Trash Punk & Urban Flow | 328578 | [328578-2-in-1-trash-punk-and-urban-flow.json](./328578-2-in-1-trash-punk-and-urban-flow.json) |
 | 2 in 1: V-Rally 3 + Stuntman | 84266 | [84266-2-in-1-v-rally-3-stuntman.json](./84266-2-in-1-v-rally-3-stuntman.json) |
 | 2 Late 2 Evade | 216773 | [216773-2-late-2-evade.json](./216773-2-late-2-evade.json) |
 | 2 of Me | 221177 | [221177-2-of-me.json](./221177-2-of-me.json) |
