@@ -612,7 +612,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agricultural Simulator 2013 | 50492 | [50492-agricultural-simulator-2013.json](./50492-agricultural-simulator-2013.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
-| Agrivore | 386117 | [386117-agrivore.json](./386117-agrivore.json) |
 | Agro Racing | 374613 | [374613-agro-racing.json](./374613-agro-racing.json) |
 | Agrou | 133456 | [133456-agrou.json](./133456-agrou.json) |
 | Aground Zero | 211418 | [211418-aground-zero.json](./211418-aground-zero.json) |
