@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techno BB | 59397 | [59397-techno-bb.json](./59397-techno-bb.json) |
 | Techno Prank | 345553 | [345553-techno-prank.json](./345553-techno-prank.json) |
 | Techno Tanks | 146223 | [146223-techno-tanks.json](./146223-techno-tanks.json) |
+| Techno: The Gamma Project | 331976 | [331976-techno-the-gamma-project.json](./331976-techno-the-gamma-project.json) |
 | Technobabylon: Deluxe Edition | 51929 | [51929-technobabylon-deluxe-edition.json](./51929-technobabylon-deluxe-edition.json) |
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
@@ -1141,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Termina Invasion | 294711 | [294711-termina-invasion.json](./294711-termina-invasion.json) |
 | Terminal | 177556 | [177556-terminal.json](./177556-terminal.json) |
 | Terminal | 253360 | [253360-terminal.json](./253360-terminal.json) |
+| Terminal Compression | 331969 | [331969-terminal-compression.json](./331969-terminal-compression.json) |
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
@@ -6464,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Bike: Racing & Moto Drag | 187455 | [187455-top-bike-racing-and-moto-drag.json](./187455-top-bike-racing-and-moto-drag.json) |
 | Top Bowler | 172654 | [172654-top-bowler.json](./172654-top-bowler.json) |
 | Top Burger | 117102 | [117102-top-burger.json](./117102-top-burger.json) |
+| Top Check | 331986 | [331986-top-check.json](./331986-top-check.json) |
 | Top Darts | 91918 | [91918-top-darts.json](./91918-top-darts.json) |
 | Top Dog | 213411 | [213411-top-dog.json](./213411-top-dog.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
