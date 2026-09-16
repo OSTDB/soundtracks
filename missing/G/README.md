@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Master: Resurrection | 334665 | [334665-ghost-master-resurrection.json](./334665-ghost-master-resurrection.json) |
 | Ghost Mayoker | 267919 | [267919-ghost-mayoker.json](./267919-ghost-mayoker.json) |
 | Ghost Mountain | 114992 | [114992-ghost-mountain.json](./114992-ghost-mountain.json) |
+| Ghost Ninja | 289447 | [289447-ghost-ninja.json](./289447-ghost-ninja.json) |
 | Ghost Observation | 395047 | [395047-ghost-observation.json](./395047-ghost-observation.json) |
 | Ghost of a Tale | 7684 | [7684-ghost-of-a-tale.json](./7684-ghost-of-a-tale.json) |
 | Ghost of Tokyo | 406790 | [406790-ghost-of-tokyo.json](./406790-ghost-of-tokyo.json) |
@@ -1098,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Craft: Crafting and Building | 100959 | [100959-girls-craft-crafting-and-building.json](./100959-girls-craft-crafting-and-building.json) |
 | Girls Dance VR | 384632 | [384632-girls-dance-vr.json](./384632-girls-dance-vr.json) |
 | Girls Fashion 3D: Mezase! Top Stylist | 222331 | [222331-girls-fashion-3d-mezase-top-stylist.json](./222331-girls-fashion-3d-mezase-top-stylist.json) |
+| Girls for Sex for Sex Motel | 288893 | [288893-girls-for-sex-for-sex-motel.json](./288893-girls-for-sex-for-sex-motel.json) |
 | Girls Free | 127940 | [127940-girls-free.json](./127940-girls-free.json) |
 | Girls Hair Salon | 88026 | [88026-girls-hair-salon.json](./88026-girls-hair-salon.json) |
 | Girls Legend | 196303 | [196303-girls-legend.json](./196303-girls-legend.json) |
@@ -1966,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapefruit | 304203 | [304203-grapefruit.json](./304203-grapefruit.json) |
 | Graphic Mahjong | 91959 | [91959-graphic-mahjong.json](./91959-graphic-mahjong.json) |
 | Graphic Tower Defense | 348767 | [348767-graphic-tower-defense.json](./348767-graphic-tower-defense.json) |
+| Graphomata | 288878 | [288878-graphomata.json](./288878-graphomata.json) |
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
 | Grapple Dogs Collection | 331408 | [331408-grapple-dogs-collection.json](./331408-grapple-dogs-collection.json) |
 | Grapple Flow VR | 301826 | [301826-grapple-flow-vr.json](./301826-grapple-flow-vr.json) |
