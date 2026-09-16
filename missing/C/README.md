@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
 | Cake Up | 335273 | [335273-cake-up.json](./335273-cake-up.json) |
 | Cake5 | 233247 | [233247-cake5.json](./233247-cake5.json) |
+| Cakefoot | 292134 | [292134-cakefoot.json](./292134-cakefoot.json) |
 | Cakey's Twisted Bakery | 307692 | [307692-cakeys-twisted-bakery.json](./307692-cakeys-twisted-bakery.json) |
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
 | Cal II | 77989 | [77989-cal-ii.json](./77989-cal-ii.json) |
@@ -2148,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunk | 355072 | [355072-chunk.json](./355072-chunk.json) |
 | Chunkers | 207347 | [207347-chunkers.json](./207347-chunkers.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
+| Chura-umi Monogatari | 292139 | [292139-chura-umi-monogatari.json](./292139-chura-umi-monogatari.json) |
 | Church Era | 118391 | [118391-church-era.json](./118391-church-era.json) |
 | Church of Shadows | 323527 | [323527-church-of-shadows.json](./323527-church-of-shadows.json) |
 | Church Simulator | 312878 | [312878-church-simulator.json](./312878-church-simulator.json) |
@@ -3419,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator 2015: Liebherr LTM 1300 6.2 | 168918 | [168918-construction-simulator-2015-liebherr-ltm-1300-6-2.json](./168918-construction-simulator-2015-liebherr-ltm-1300-6-2.json) |
 | Construction Simulator 2015: St. John's Hospital Fuchsberg | 168915 | [168915-construction-simulator-2015-st-johns-hospital-fuchsberg.json](./168915-construction-simulator-2015-st-johns-hospital-fuchsberg.json) |
 | Construction Simulator 2015: Vertical Skyline | 168917 | [168917-construction-simulator-2015-vertical-skyline.json](./168917-construction-simulator-2015-vertical-skyline.json) |
+| Construction Simulator 4 | 292143 | [292143-construction-simulator-4.json](./292143-construction-simulator-4.json) |
 | Construction Simulator: Extended Edition | 218476 | [218476-construction-simulator-extended-edition.json](./218476-construction-simulator-extended-edition.json) |
 | Construction Simulator: JCB Pack | 246399 | [246399-construction-simulator-jcb-pack.json](./246399-construction-simulator-jcb-pack.json) |
 | Construction Simulator: Spaceport Bundle | 277569 | [277569-construction-simulator-spaceport-bundle.json](./277569-construction-simulator-spaceport-bundle.json) |
