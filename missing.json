@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T04:51:40.384Z",
-  "total_missing": 76664,
+  "generated_at": "2026-09-16T05:01:55.172Z",
+  "total_missing": 76684,
   "games": [
     {
       "igdb_id": 306086,
@@ -3168,6 +3168,11 @@
       "file": "missing/A/142477-a-fox-tale.json"
     },
     {
+      "igdb_id": 325105,
+      "game_name": "A Friday Night Real Music Funkin Game",
+      "file": "missing/A/325105-a-friday-night-real-music-funkin-game.json"
+    },
+    {
       "igdb_id": 364521,
       "game_name": "A Future With You",
       "file": "missing/A/364521-a-future-with-you.json"
@@ -5786,11 +5791,6 @@
       "igdb_id": 232449,
       "game_name": "Agent Roy: Zombie Hunt",
       "file": "missing/A/232449-agent-roy-zombie-hunt.json"
-    },
-    {
-      "igdb_id": 172140,
-      "game_name": "Agent Simulator",
-      "file": "missing/A/172140-agent-simulator.json"
     },
     {
       "igdb_id": 357802,
@@ -48148,6 +48148,11 @@
       "file": "missing/C/178080-cards-and-castles-2.json"
     },
     {
+      "igdb_id": 325114,
+      "game_name": "Cards and Dungeons",
+      "file": "missing/C/325114-cards-and-dungeons.json"
+    },
+    {
       "igdb_id": 348318,
       "game_name": "Cards and Fables",
       "file": "missing/C/348318-cards-and-fables.json"
@@ -53666,6 +53671,16 @@
       "igdb_id": 399747,
       "game_name": "Chicken Royale",
       "file": "missing/C/399747-chicken-royale.json"
+    },
+    {
+      "igdb_id": 325109,
+      "game_name": "Chicken Run: Special Edition - Escape from the Pot-Pie Machine",
+      "file": "missing/C/325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json"
+    },
+    {
+      "igdb_id": 325108,
+      "game_name": "Chicken Run: Special Edition - Whack-A-Tweedy",
+      "file": "missing/C/325108-chicken-run-special-edition-whack-a-tweedy.json"
     },
     {
       "igdb_id": 256558,
@@ -73891,6 +73906,11 @@
       "igdb_id": 324898,
       "game_name": "DCS World: AH-64D Outpost Campaign by Stone Sky",
       "file": "missing/D/324898-dcs-world-ah-64d-outpost-campaign-by-stone-sky.json"
+    },
+    {
+      "igdb_id": 325110,
+      "game_name": "DCS World: AH-64D The Four Horsemen Campaign by Fight's On Simulations",
+      "file": "missing/D/325110-dcs-world-ah-64d-the-four-horsemen-campaign-by-fights-on-simulations.json"
     },
     {
       "igdb_id": 325249,
@@ -117456,6 +117476,11 @@
       "igdb_id": 241377,
       "game_name": "Friday Night Funkin' VS Ralsei",
       "file": "missing/F/241377-friday-night-funkin-vs-ralsei.json"
+    },
+    {
+      "igdb_id": 325104,
+      "game_name": "Friday Night Funkin' vs. NFT",
+      "file": "missing/F/325104-friday-night-funkin-vs-nft.json"
     },
     {
       "igdb_id": 202337,
@@ -204756,6 +204781,76 @@
       "igdb_id": 206935,
       "game_name": "Motto!? Fushigi no Gensoukyou: Under the Moonlight",
       "file": "missing/M/206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json"
+    },
+    {
+      "igdb_id": 325120,
+      "game_name": "Motu Patlu Bicycle Riding",
+      "file": "missing/M/325120-motu-patlu-bicycle-riding.json"
+    },
+    {
+      "igdb_id": 325116,
+      "game_name": "Motu Patlu BulbCreeker",
+      "file": "missing/M/325116-motu-patlu-bulbcreeker.json"
+    },
+    {
+      "igdb_id": 325112,
+      "game_name": "Motu Patlu Car Game",
+      "file": "missing/M/325112-motu-patlu-car-game.json"
+    },
+    {
+      "igdb_id": 325117,
+      "game_name": "Motu Patlu Car Game 2",
+      "file": "missing/M/325117-motu-patlu-car-game-2.json"
+    },
+    {
+      "igdb_id": 325118,
+      "game_name": "Motu Patlu Cricket Game",
+      "file": "missing/M/325118-motu-patlu-cricket-game.json"
+    },
+    {
+      "igdb_id": 325111,
+      "game_name": "Motu Patlu Cycling Adventure",
+      "file": "missing/M/325111-motu-patlu-cycling-adventure.json"
+    },
+    {
+      "igdb_id": 325124,
+      "game_name": "Motu Patlu Extreme Rush Rider",
+      "file": "missing/M/325124-motu-patlu-extreme-rush-rider.json"
+    },
+    {
+      "igdb_id": 325119,
+      "game_name": "Motu Patlu Horse Riding",
+      "file": "missing/M/325119-motu-patlu-horse-riding.json"
+    },
+    {
+      "igdb_id": 325115,
+      "game_name": "Motu Patlu Kung Fu Kings",
+      "file": "missing/M/325115-motu-patlu-kung-fu-kings.json"
+    },
+    {
+      "igdb_id": 325125,
+      "game_name": "Motu Patlu Ludo",
+      "file": "missing/M/325125-motu-patlu-ludo.json"
+    },
+    {
+      "igdb_id": 325121,
+      "game_name": "Motu Patlu Mow My Garden",
+      "file": "missing/M/325121-motu-patlu-mow-my-garden.json"
+    },
+    {
+      "igdb_id": 325123,
+      "game_name": "Motu Patlu Save Friends",
+      "file": "missing/M/325123-motu-patlu-save-friends.json"
+    },
+    {
+      "igdb_id": 325113,
+      "game_name": "Motu Patlu Super Duper Man",
+      "file": "missing/M/325113-motu-patlu-super-duper-man.json"
+    },
+    {
+      "igdb_id": 325122,
+      "game_name": "Motu Patlu: Robot Transform",
+      "file": "missing/M/325122-motu-patlu-robot-transform.json"
     },
     {
       "igdb_id": 336593,
@@ -329551,6 +329646,11 @@
       "igdb_id": 83536,
       "game_name": "The Little Slime",
       "file": "missing/T/83536-the-little-slime.json"
+    },
+    {
+      "igdb_id": 325103,
+      "game_name": "The Little Tomb: The Maholova Club and the Search for a Dead Body",
+      "file": "missing/T/325103-the-little-tomb-the-maholova-club-and-the-search-for-a-dead-body.json"
     },
     {
       "igdb_id": 147428,
