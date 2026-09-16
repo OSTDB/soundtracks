@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Wolf Simulator 3D | 200662 | [200662-wild-wolf-simulator-3d.json](./200662-wild-wolf-simulator-3d.json) |
 | Wild world | 150629 | [150629-wild-world.json](./150629-wild-world.json) |
 | Wildagotchi: Virtual Pet - Deluxe Edition | 277304 | [277304-wildagotchi-virtual-pet-deluxe-edition.json](./277304-wildagotchi-virtual-pet-deluxe-edition.json) |
+| Wildaria | 322197 | [322197-wildaria.json](./322197-wildaria.json) |
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
 | Wildekin | 362280 | [362280-wildekin.json](./362280-wildekin.json) |
