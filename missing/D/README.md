@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
 | Deerlivery | 361738 | [361738-deerlivery.json](./361738-deerlivery.json) |
 | Deez | 114340 | [114340-deez.json](./114340-deez.json) |
+| Deez Shells | 328067 | [328067-deez-shells.json](./328067-deez-shells.json) |
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defeated Girl | 219038 | [219038-defeated-girl.json](./219038-defeated-girl.json) |
 | Defect | 21928 | [21928-defect.json](./21928-defect.json) |
@@ -3188,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dossun! Ganseki Battle | 42560 | [42560-dossun-ganseki-battle.json](./42560-dossun-ganseki-battle.json) |
 | Dostavka | 358930 | [358930-dostavka.json](./358930-dostavka.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
+| Dot | 328021 | [328021-dot.json](./328021-dot.json) |
 | Dot & Dot Dungeons | 295766 | [295766-dot-and-dot-dungeons.json](./295766-dot-and-dot-dungeons.json) |
 | Dot by Dot+ | 19383 | [19383-dot-by-dot.json](./19383-dot-by-dot.json) |
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
@@ -3428,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
 | Dragon Ball Z II: Gekishin Frieza!! | 48682 | [48682-dragon-ball-z-ii-gekishin-frieza.json](./48682-dragon-ball-z-ii-gekishin-frieza.json) |
 | Dragon Ball Z III: Ressen Jinzou Ningen | 48680 | [48680-dragon-ball-z-iii-ressen-jinzou-ningen.json](./48680-dragon-ball-z-iii-ressen-jinzou-ningen.json) |
+| Dragon Ball Z Life | 328039 | [328039-dragon-ball-z-life.json](./328039-dragon-ball-z-life.json) |
 | Dragon Ball Z: Atsumare! Goku's World | 230282 | [230282-dragon-ball-z-atsumare-gokus-world.json](./230282-dragon-ball-z-atsumare-gokus-world.json) |
 | Dragon Ball Z: Budokai 3 HD | 288870 | [288870-dragon-ball-z-budokai-3-hd.json](./288870-dragon-ball-z-budokai-3-hd.json) |
 | Dragon Ball Z: Budokai Tenkaichi | 2253 | [2253-dragon-ball-z-budokai-tenkaichi.json](./2253-dragon-ball-z-budokai-tenkaichi.json) |
@@ -3779,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Syndrome | 138269 | [138269-dream-syndrome.json](./138269-dream-syndrome.json) |
 | Dream Tale | 36047 | [36047-dream-tale.json](./36047-dream-tale.json) |
 | Dream Tape LLC | 408910 | [408910-dream-tape-llc.json](./408910-dream-tape-llc.json) |
+| Dream Team Supreme | 328045 | [328045-dream-team-supreme.json](./328045-dream-team-supreme.json) |
 | Dream Time | 152928 | [152928-dream-time.json](./152928-dream-time.json) |
 | Dream Track Nation | 92482 | [92482-dream-track-nation.json](./92482-dream-track-nation.json) |
 | Dream TV | 93573 | [93573-dream-tv.json](./93573-dream-tv.json) |
