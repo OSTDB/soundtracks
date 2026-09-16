@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
 | Zelda II: Boss Endurance | 280757 | [280757-zelda-ii-boss-endurance.json](./280757-zelda-ii-boss-endurance.json) |
+| Zelda II: Paracosm | 305342 | [305342-zelda-ii-paracosm.json](./305342-zelda-ii-paracosm.json) |
 | Zelda II: Resurrection of Ganon | 339257 | [339257-zelda-ii-resurrection-of-ganon.json](./339257-zelda-ii-resurrection-of-ganon.json) |
 | Zelda Mobile | 28864 | [28864-zelda-mobile.json](./28864-zelda-mobile.json) |
 | Zelda no Densetsu: 4-tsu no Tsurugi + | 298870 | [298870-zelda-no-densetsu-4-tsu-no-tsurugi.json](./298870-zelda-no-densetsu-4-tsu-no-tsurugi.json) |
