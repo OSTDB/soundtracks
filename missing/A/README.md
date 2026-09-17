@@ -398,6 +398,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
 | Accidentally | 379460 | [379460-accidentally.json](./379460-accidentally.json) |
+| Acción Rescate | 259663 | [259663-accion-rescate.json](./259663-accion-rescate.json) |
+| Acción Rescate: América | 259665 | [259665-accion-rescate-america.json](./259665-accion-rescate-america.json) |
 | Accolade's Comics featuring Steve Keene Thrillseeker | 37156 | [37156-accolades-comics-featuring-steve-keene-thrillseeker.json](./37156-accolades-comics-featuring-steve-keene-thrillseeker.json) |
 | Accounting | 25251 | [25251-accounting.json](./25251-accounting.json) |
 | Accurate Shot | 288743 | [288743-accurate-shot.json](./288743-accurate-shot.json) |
@@ -593,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
 | Adventures With Oslo: World of Water | 262400 | [262400-adventures-with-oslo-world-of-water.json](./262400-adventures-with-oslo-world-of-water.json) |
+| Adventurous Mind | 259670 | [259670-adventurous-mind.json](./259670-adventurous-mind.json) |
 | Aelfric the Wondrous | 299301 | [299301-aelfric-the-wondrous.json](./299301-aelfric-the-wondrous.json) |
 | Aenigmarch | 360655 | [360655-aenigmarch.json](./360655-aenigmarch.json) |
 | Aeon Nightmares | 282133 | [282133-aeon-nightmares.json](./282133-aeon-nightmares.json) |
