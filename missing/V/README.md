@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V tylu vraga: Diversanty 3 | 383941 | [383941-v-tylu-vraga-diversanty-3.json](./383941-v-tylu-vraga-diversanty-3.json) |
 | V-Goal Soccer '96 | 37199 | [37199-v-goal-soccer-96.json](./37199-v-goal-soccer-96.json) |
 | V-Lover! | 351035 | [351035-v-lover.json](./351035-v-lover.json) |
+| V-Master Cross | 240903 | [240903-v-master-cross.json](./240903-v-master-cross.json) |
 | V-Pong | 272844 | [272844-v-pong.json](./272844-v-pong.json) |
 | V-Rally 3 | 4227 | [4227-v-rally-3.json](./4227-v-rally-3.json) |
 | V-Shift | 338559 | [338559-v-shift.json](./338559-v-shift.json) |
@@ -531,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victim's Tongue | 397765 | [397765-victims-tongue.json](./397765-victims-tongue.json) |
 | Victordle | 388749 | [388749-victordle.json](./388749-victordle.json) |
 | Victoria 3: Trains Bonus Pack | 289852 | [289852-victoria-3-trains-bonus-pack.json](./289852-victoria-3-trains-bonus-pack.json) |
+| Victoria 3: Update 1.2 | 240900 | [240900-victoria-3-update-1-2.json](./240900-victoria-3-update-1-2.json) |
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
 | Victoria II: A House Divided | 11038 | [11038-victoria-ii-a-house-divided.json](./11038-victoria-ii-a-house-divided.json) |
 | Victoria II: Heart of Darkness | 11039 | [11039-victoria-ii-heart-of-darkness.json](./11039-victoria-ii-heart-of-darkness.json) |
@@ -819,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitrified | 275126 | [275126-vitrified.json](./275126-vitrified.json) |
 | Vitriol | 301258 | [301258-vitriol.json](./301258-vitriol.json) |
 | Vitrum | 36362 | [36362-vitrum.json](./36362-vitrum.json) |
+| Viva la Toast | 240869 | [240869-viva-la-toast.json](./240869-viva-la-toast.json) |
 | Viva Mortis | 117734 | [117734-viva-mortis.json](./117734-viva-mortis.json) |
 | Viva Piñata | 7236 | [7236-viva-pinata.json](./7236-viva-pinata.json) |
 | Viva Piñata: Trouble in Paradise | 7238 | [7238-viva-pinata-trouble-in-paradise.json](./7238-viva-pinata-trouble-in-paradise.json) |
