@@ -487,8 +487,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Abandoned Prison | 308949 | [308949-3d-puzzle-abandoned-prison.json](./308949-3d-puzzle-abandoned-prison.json) |
 | 3D Puzzle: Breaking Bed | 280314 | [280314-3d-puzzle-breaking-bed.json](./280314-3d-puzzle-breaking-bed.json) |
 | 3D Puzzle: Colonial Graveyard | 337620 | [337620-3d-puzzle-colonial-graveyard.json](./337620-3d-puzzle-colonial-graveyard.json) |
+| 3D Puzzle: Desert Wind | 253424 | [253424-3d-puzzle-desert-wind.json](./253424-3d-puzzle-desert-wind.json) |
+| 3D Puzzle: Farming | 253426 | [253426-3d-puzzle-farming.json](./253426-3d-puzzle-farming.json) |
 | 3D Puzzle: Hangar | 308948 | [308948-3d-puzzle-hangar.json](./308948-3d-puzzle-hangar.json) |
 | 3D Puzzle: Hospital 4 | 308950 | [308950-3d-puzzle-hospital-4.json](./308950-3d-puzzle-hospital-4.json) |
+| 3D Puzzle: Medieval Inn | 253425 | [253425-3d-puzzle-medieval-inn.json](./253425-3d-puzzle-medieval-inn.json) |
 | 3D Puzzle: OldHospital | 308947 | [308947-3d-puzzle-oldhospital.json](./308947-3d-puzzle-oldhospital.json) |
 | 3D Puzzle: OutPost | 308946 | [308946-3d-puzzle-outpost.json](./308946-3d-puzzle-outpost.json) |
 | 3D Puzzle: Pirates | 301037 | [301037-3d-puzzle-pirates.json](./301037-3d-puzzle-pirates.json) |
@@ -548,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 44 The Jail | 283306 | [283306-44-the-jail.json](./283306-44-the-jail.json) |
 | 46 Okunen Monogatari: The Shinka Ron | 26675 | [26675-46-okunen-monogatari-the-shinka-ron.json](./26675-46-okunen-monogatari-the-shinka-ron.json) |
 | 48 Pieces | 109036 | [109036-48-pieces.json](./109036-48-pieces.json) |
+| 49 Squares | 253448 | [253448-49-squares.json](./253448-49-squares.json) |
 | 4Fools1 | 349958 | [349958-4fools1.json](./349958-4fools1.json) |
 | 4in1: Bomb Disposer/Armour Force/Black Forest Tale/2nd Space | 77296 | [77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json](./77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json) |
 | 4Islands | 124190 | [124190-4islands.json](./124190-4islands.json) |
