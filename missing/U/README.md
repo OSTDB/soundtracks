@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Joe | 263475 | [263475-ufo-joe.json](./263475-ufo-joe.json) |
 | UFO on Tape: First Contact | 117010 | [117010-ufo-on-tape-first-contact.json](./117010-ufo-on-tape-first-contact.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
+| UFO Slide Racing | 265744 | [265744-ufo-slide-racing.json](./265744-ufo-slide-racing.json) |
 | UFO-Man | 320962 | [320962-ufo-man.json](./320962-ufo-man.json) |
 | UFO: Alien Invasion | 47271 | [47271-ufo-alien-invasion.json](./47271-ufo-alien-invasion.json) |
 | UFO: Extraterrestrials | 9437 | [9437-ufo-extraterrestrials.json](./9437-ufo-extraterrestrials.json) |
@@ -789,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unusual and Not Safe Experiments | 368488 | [368488-unusual-and-not-safe-experiments.json](./368488-unusual-and-not-safe-experiments.json) |
 | Unusual Tales: Deep Below | 380447 | [380447-unusual-tales-deep-below.json](./380447-unusual-tales-deep-below.json) |
 | Unusual Times | 221393 | [221393-unusual-times.json](./221393-unusual-times.json) |
+| UnVeil the World | 265639 | [265639-unveil-the-world.json](./265639-unveil-the-world.json) |
 | Unveiling | 280235 | [280235-unveiling.json](./280235-unveiling.json) |
 | Unveiling the Unknown | 310396 | [310396-unveiling-the-unknown.json](./310396-unveiling-the-unknown.json) |
 | Unwavering Love | 405465 | [405465-unwavering-love.json](./405465-unwavering-love.json) |
