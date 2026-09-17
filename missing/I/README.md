@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice and Fire | 22623 | [22623-ice-and-fire.json](./22623-ice-and-fire.json) |
 | Ice and Fire | 232712 | [232712-ice-and-fire.json](./232712-ice-and-fire.json) |
 | Ice and Fire: The Wizards | 72610 | [72610-ice-and-fire-the-wizards.json](./72610-ice-and-fire-the-wizards.json) |
+| Ice Battle | 236933 | [236933-ice-battle.json](./236933-ice-battle.json) |
 | Ice Breaker | 280330 | [280330-ice-breaker.json](./280330-ice-breaker.json) |
 | Ice Climber-e | 170012 | [170012-ice-climber-e.json](./170012-ice-climber-e.json) |
 | Ice Cream Mania | 234064 | [234064-ice-cream-mania.json](./234064-ice-cream-mania.json) |
@@ -1799,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
 | It Happened Here: Beacon of Truth - Collector's Edition | 270102 | [270102-it-happened-here-beacon-of-truth-collectors-edition.json](./270102-it-happened-here-beacon-of-truth-collectors-edition.json) |
 | It Happened Here: Streaming Lives | 266244 | [266244-it-happened-here-streaming-lives.json](./266244-it-happened-here-streaming-lives.json) |
+| It is a Good Knight to Die | 236917 | [236917-it-is-a-good-knight-to-die.json](./236917-it-is-a-good-knight-to-die.json) |
 | It Is Coming | 335665 | [335665-it-is-coming.json](./335665-it-is-coming.json) |
 | It Knows You're Here | 185134 | [185134-it-knows-youre-here.json](./185134-it-knows-youre-here.json) |
 | It Lives | 270666 | [270666-it-lives.json](./270666-it-lives.json) |
