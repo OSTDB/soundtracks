@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasts of Fortune | 352255 | [352255-beasts-of-fortune.json](./352255-beasts-of-fortune.json) |
 | Beasts of Horror | 265940 | [265940-beasts-of-horror.json](./265940-beasts-of-horror.json) |
 | Beasts of Steel | 265411 | [265411-beasts-of-steel.json](./265411-beasts-of-steel.json) |
+| Beastwatch: Meat & Mayhem | 270202 | [270202-beastwatch-meat-and-mayhem.json](./270202-beastwatch-meat-and-mayhem.json) |
 | Beat 'Em All | 265924 | [265924-beat-em-all.json](./265924-beat-em-all.json) |
 | Beat Aimer! | 213971 | [213971-beat-aimer.json](./213971-beat-aimer.json) |
 | Beat Ball | 340954 | [340954-beat-ball.json](./340954-beat-ball.json) |
@@ -4358,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
 | Buenos Aires Mirror Line | 391162 | [391162-buenos-aires-mirror-line.json](./391162-buenos-aires-mirror-line.json) |
 | Buff Doge | 219066 | [219066-buff-doge.json](./219066-buff-doge.json) |
+| Buff Huckem Fully Wrecked | 270187 | [270187-buff-huckem-fully-wrecked.json](./270187-buff-huckem-fully-wrecked.json) |
 | Buffy the Vampire Slayer: Sacrifice | 21130 | [21130-buffy-the-vampire-slayer-sacrifice.json](./21130-buffy-the-vampire-slayer-sacrifice.json) |
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
