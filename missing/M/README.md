@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maplewood Junior High 2 | 310956 | [310956-maplewood-junior-high-2.json](./310956-maplewood-junior-high-2.json) |
 | Maplewood Junior High: Multimedia Rocks | 310953 | [310953-maplewood-junior-high-multimedia-rocks.json](./310953-maplewood-junior-high-multimedia-rocks.json) |
 | Maplus: Portable Navi | 59369 | [59369-maplus-portable-navi.json](./59369-maplus-portable-navi.json) |
+| Mappy | 239157 | [239157-mappy.json](./239157-mappy.json) |
 | Mappy | 2710 | [2710-mappy.json](./2710-mappy.json) |
 | Mappy | 293754 | [293754-mappy.json](./293754-mappy.json) |
 | Mappy | 313132 | [313132-mappy.json](./313132-mappy.json) |
@@ -1154,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario vs. Wario | 198475 | [198475-mario-vs-wario.json](./198475-mario-vs-wario.json) |
 | Mario vs. Windows 95 | 322773 | [322773-mario-vs-windows-95.json](./322773-mario-vs-windows-95.json) |
 | Mario: The Dark World | 324111 | [324111-mario-the-dark-world.json](./324111-mario-the-dark-world.json) |
+| Mario: The Music Box Remastered | 239176 | [239176-mario-the-music-box-remastered.json](./239176-mario-the-music-box-remastered.json) |
 | Mario.exe | 274985 | [274985-mario-exe.json](./274985-mario-exe.json) |
 | Mario's Balls | 343829 | [343829-marios-balls.json](./343829-marios-balls.json) |
 | Mario's Carnival Quest | 307903 | [307903-marios-carnival-quest.json](./307903-marios-carnival-quest.json) |
@@ -4481,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
 | Moorhuhn: The Good, The Egg, and The Ugly Mobile | 282546 | [282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json](./282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json) |
 | Moose Boarders | 327381 | [327381-moose-boarders.json](./327381-moose-boarders.json) |
+| Moose In Canada | 239196 | [239196-moose-in-canada.json](./239196-moose-in-canada.json) |
 | Mooshie's Kitchen 2 | 273983 | [273983-mooshies-kitchen-2.json](./273983-mooshies-kitchen-2.json) |
 | Mooshie's Kitchen 3 | 273984 | [273984-mooshies-kitchen-3.json](./273984-mooshies-kitchen-3.json) |
 | Moot District | 114436 | [114436-moot-district.json](./114436-moot-district.json) |
@@ -4563,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Glory 2: Reign of Tyrants | 311996 | [311996-mortal-glory-2-reign-of-tyrants.json](./311996-mortal-glory-2-reign-of-tyrants.json) |
 | Mortal Hire | 295006 | [295006-mortal-hire.json](./295006-mortal-hire.json) |
 | Mortal Kombat | 220096 | [220096-mortal-kombat.json](./220096-mortal-kombat.json) |
+| Mortal Kombat | 239168 | [239168-mortal-kombat.json](./239168-mortal-kombat.json) |
 | Mortal Kombat | 242151 | [242151-mortal-kombat.json](./242151-mortal-kombat.json) |
 | Mortal Kombat | 242239 | [242239-mortal-kombat.json](./242239-mortal-kombat.json) |
 | Mortal Kombat 1: Conan the Barbarian | 312343 | [312343-mortal-kombat-1-conan-the-barbarian.json](./312343-mortal-kombat-1-conan-the-barbarian.json) |
@@ -4601,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat Advance | 45156 | [45156-mortal-kombat-advance.json](./45156-mortal-kombat-advance.json) |
 | Mortal Kombat Gold | 45155 | [45155-mortal-kombat-gold.json](./45155-mortal-kombat-gold.json) |
 | Mortal Kombat HD Arcade Kollection | 44618 | [44618-mortal-kombat-hd-arcade-kollection.json](./44618-mortal-kombat-hd-arcade-kollection.json) |
+| Mortal Kombat II | 239169 | [239169-mortal-kombat-ii.json](./239169-mortal-kombat-ii.json) |
 | Mortal Kombat II | 242248 | [242248-mortal-kombat-ii.json](./242248-mortal-kombat-ii.json) |
 | Mortal Kombat II | 242249 | [242249-mortal-kombat-ii.json](./242249-mortal-kombat-ii.json) |
 | Mortal Kombat II | 299167 | [299167-mortal-kombat-ii.json](./299167-mortal-kombat-ii.json) |
@@ -5009,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Match | 313866 | [313866-ms-match.json](./313866-ms-match.json) |
 | Ms. Pac Person | 209155 | [209155-ms-pac-person.json](./209155-ms-pac-person.json) |
 | Ms. Pac-Man for iPad | 88813 | [88813-ms-pac-man-for-ipad.json](./88813-ms-pac-man-for-ipad.json) |
+| Ms. Pac-Man: Maze Madness | 239193 | [239193-ms-pac-man-maze-madness.json](./239193-ms-pac-man-maze-madness.json) |
 | Ms. Pac-Man: Maze Madness | 3338 | [3338-ms-pac-man-maze-madness.json](./3338-ms-pac-man-maze-madness.json) |
 | Ms. Pac-Man: Quest for the Golden Maze | 71475 | [71475-ms-pac-man-quest-for-the-golden-maze.json](./71475-ms-pac-man-quest-for-the-golden-maze.json) |
 | Ms. Pac-Man: Speedup | 308393 | [308393-ms-pac-man-speedup.json](./308393-ms-pac-man-speedup.json) |
