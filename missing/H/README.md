@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World Succubus | 340463 | [340463-hentai-world-succubus.json](./340463-hentai-world-succubus.json) |
 | Hentai World Winter | 340464 | [340464-hentai-world-winter.json](./340464-hentai-world-winter.json) |
 | Hentai World: Definitive Edition | 259578 | [259578-hentai-world-definitive-edition.json](./259578-hentai-world-definitive-edition.json) |
+| Hentai World: Deluxe Edition | 252208 | [252208-hentai-world-deluxe-edition.json](./252208-hentai-world-deluxe-edition.json) |
 | Hentai World: Expanded Edition | 260683 | [260683-hentai-world-expanded-edition.json](./260683-hentai-world-expanded-edition.json) |
 | Hentai World: Legendary Edition | 268562 | [268562-hentai-world-legendary-edition.json](./268562-hentai-world-legendary-edition.json) |
 | Hentai World: Ultimate Edition | 256266 | [256266-hentai-world-ultimate-edition.json](./256266-hentai-world-ultimate-edition.json) |
