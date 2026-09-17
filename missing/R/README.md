@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance Is Brutal | 403572 | [403572-resistance-is-brutal.json](./403572-resistance-is-brutal.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
+| Resonance | 276280 | [276280-resonance.json](./276280-resonance.json) |
 | Resonance in Orbit | 408192 | [408192-resonance-in-orbit.json](./408192-resonance-in-orbit.json) |
 | Resonance of Fate | 7159 | [7159-resonance-of-fate.json](./7159-resonance-of-fate.json) |
 | Resonance of Fate 4k/HD Edition | 109580 | [109580-resonance-of-fate-4k-hd-edition.json](./109580-resonance-of-fate-4k-hd-edition.json) |
@@ -1878,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 4: Naked Japan Style | 190706 | [190706-ride-4-naked-japan-style.json](./190706-ride-4-naked-japan-style.json) |
 | Ride 5: Born to Race Pack | 288213 | [288213-ride-5-born-to-race-pack.json](./288213-ride-5-born-to-race-pack.json) |
 | Ride 5: Dreamer's Garage Pack | 277830 | [277830-ride-5-dreamers-garage-pack.json](./277830-ride-5-dreamers-garage-pack.json) |
+| Ride 5: Free Pack 02 | 276288 | [276288-ride-5-free-pack-02.json](./276288-ride-5-free-pack-02.json) |
 | Ride 5: Free Pack 05 | 292671 | [292671-ride-5-free-pack-05.json](./292671-ride-5-free-pack-05.json) |
 | Ride 5: Free Pack 06 | 293410 | [293410-ride-5-free-pack-06.json](./293410-ride-5-free-pack-06.json) |
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
@@ -2109,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk & Riches | 333646 | [333646-risk-and-riches.json](./333646-risk-and-riches.json) |
 | Risk of Rain 2: Devotion Update | 306700 | [306700-risk-of-rain-2-devotion-update.json](./306700-risk-of-rain-2-devotion-update.json) |
 | Risk of Rain 2: Hallowed Concepts | 397819 | [397819-risk-of-rain-2-hallowed-concepts.json](./397819-risk-of-rain-2-hallowed-concepts.json) |
+| Risk of Rain 2: Seekers of the Storm | 276287 | [276287-risk-of-rain-2-seekers-of-the-storm.json](./276287-risk-of-rain-2-seekers-of-the-storm.json) |
 | Risk of Rain Returns | 229794 | [229794-risk-of-rain-returns.json](./229794-risk-of-rain-returns.json) |
 | Risk of Rain: Meridian | 316994 | [316994-risk-of-rain-meridian.json](./316994-risk-of-rain-meridian.json) |
 | Risk of Rain: Starstorm | 262102 | [262102-risk-of-rain-starstorm.json](./262102-risk-of-rain-starstorm.json) |
