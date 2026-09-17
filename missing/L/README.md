@@ -2083,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Ravage | 204714 | [204714-lords-of-ravage.json](./204714-lords-of-ravage.json) |
 | Lords of Strife | 99648 | [99648-lords-of-strife.json](./99648-lords-of-strife.json) |
 | Lords of the Chaos | 263478 | [263478-lords-of-the-chaos.json](./263478-lords-of-the-chaos.json) |
+| Lords of the Fallen: Deluxe Edition | 250427 | [250427-lords-of-the-fallen-deluxe-edition.json](./250427-lords-of-the-fallen-deluxe-edition.json) |
 | Lords of the Fallen: Master of Fate Update | 299144 | [299144-lords-of-the-fallen-master-of-fate-update.json](./299144-lords-of-the-fallen-master-of-fate-update.json) |
 | Lords of the Realm | 12669 | [12669-lords-of-the-realm.json](./12669-lords-of-the-realm.json) |
 | Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
@@ -2128,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Chronology | 413638 | [413638-lost-chronology.json](./413638-lost-chronology.json) |
 | Lost Circus | 175363 | [175363-lost-circus.json](./175363-lost-circus.json) |
 | Lost City | 403010 | [403010-lost-city.json](./403010-lost-city.json) |
+| Lost Colony | 250422 | [250422-lost-colony.json](./250422-lost-colony.json) |
 | Lost Crypts | 94759 | [94759-lost-crypts.json](./94759-lost-crypts.json) |
 | Lost Crystals | 257427 | [257427-lost-crystals.json](./257427-lost-crystals.json) |
 | Lost Cube | 156619 | [156619-lost-cube.json](./156619-lost-cube.json) |
