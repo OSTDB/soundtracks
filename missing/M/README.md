@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bows | 359400 | [359400-magic-bows.json](./359400-magic-bows.json) |
 | Magic Box | 29867 | [29867-magic-box.json](./29867-magic-box.json) |
 | Magic Bubble | 246100 | [246100-magic-bubble.json](./246100-magic-bubble.json) |
+| Magic Bubble | 246455 | [246455-magic-bubble.json](./246455-magic-bubble.json) |
 | Magic Bubble | 287655 | [287655-magic-bubble.json](./287655-magic-bubble.json) |
 | Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
 | Magic Castle | 317812 | [317812-magic-castle.json](./317812-magic-castle.json) |
@@ -788,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic Miner | 10161 | [10161-manic-miner.json](./10161-manic-miner.json) |
 | Manic Miner | 248054 | [248054-manic-miner.json](./248054-manic-miner.json) |
 | Manic Miners | 31839 | [31839-manic-miners.json](./31839-manic-miners.json) |
+| Manic Troll | 246468 | [246468-manic-troll.json](./246468-manic-troll.json) |
 | Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
 | Manifest | 128581 | [128581-manifest.json](./128581-manifest.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
@@ -3037,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milites Fortunae | 249210 | [249210-milites-fortunae.json](./249210-milites-fortunae.json) |
 | Milk and Cookies | 132233 | [132233-milk-and-cookies.json](./132233-milk-and-cookies.json) |
 | Milk Farm Tycoon | 243708 | [243708-milk-farm-tycoon.json](./243708-milk-farm-tycoon.json) |
+| Milk Mania | 246500 | [246500-milk-mania.json](./246500-milk-mania.json) |
 | Milk Me Darling | 385061 | [385061-milk-me-darling.json](./385061-milk-me-darling.json) |
 | Milk Me Darling: Busty And The Breast | 301983 | [301983-milk-me-darling-busty-and-the-breast.json](./301983-milk-me-darling-busty-and-the-breast.json) |
 | Milk Race | 46660 | [46660-milk-race.json](./46660-milk-race.json) |
@@ -3310,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Garden Cafe | 260153 | [260153-mini-garden-cafe.json](./260153-mini-garden-cafe.json) |
 | Mini Golf | 209506 | [209506-mini-golf.json](./209506-mini-golf.json) |
 | Mini Golf | 209507 | [209507-mini-golf.json](./209507-mini-golf.json) |
+| Mini Golf | 246469 | [246469-mini-golf.json](./246469-mini-golf.json) |
 | Mini Golf 3D | 117753 | [117753-mini-golf-3d.json](./117753-mini-golf-3d.json) |
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
@@ -3616,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistaken | 335647 | [335647-mistaken.json](./335647-mistaken.json) |
 | Mistaker | 129713 | [129713-mistaker.json](./129713-mistaker.json) |
 | Mistbound | 370667 | [370667-mistbound.json](./370667-mistbound.json) |
+| Mister Easter | 246470 | [246470-mister-easter.json](./246470-mister-easter.json) |
 | Mister Fruit Joy | 137676 | [137676-mister-fruit-joy.json](./137676-mister-fruit-joy.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
 | Mister Universe | 153428 | [153428-mister-universe.json](./153428-mister-universe.json) |
@@ -3977,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondo Pong | 40759 | [40759-mondo-pong.json](./40759-mondo-pong.json) |
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
 | Money Garden | 186269 | [186269-money-garden.json](./186269-money-garden.json) |
+| Money Go! | 246471 | [246471-money-go.json](./246471-money-go.json) |
 | Money Laundering Simulator | 358344 | [358344-money-laundering-simulator.json](./358344-money-laundering-simulator.json) |
 | Money Loves Silence | 126608 | [126608-money-loves-silence.json](./126608-money-loves-silence.json) |
 | Money Mouse in Full Barn House | 281535 | [281535-money-mouse-in-full-barn-house.json](./281535-money-mouse-in-full-barn-house.json) |
@@ -4494,6 +4500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
 | Morphology | 185075 | [185075-morphology.json](./185075-morphology.json) |
 | Morphscape: The Stylized Prop Pursuit | 301833 | [301833-morphscape-the-stylized-prop-pursuit.json](./301833-morphscape-the-stylized-prop-pursuit.json) |
+| Morra | 246472 | [246472-morra.json](./246472-morra.json) |
 | Morrigan's Isle | 324876 | [324876-morrigans-isle.json](./324876-morrigans-isle.json) |
 | Morrok | 250974 | [250974-morrok.json](./250974-morrok.json) |
 | Morrow | 220844 | [220844-morrow.json](./220844-morrow.json) |
@@ -4903,6 +4910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Meaty: Night of the Attack of the Flesh Hungry Meat Monsters | 320748 | [320748-mr-meaty-night-of-the-attack-of-the-flesh-hungry-meat-monsters.json](./320748-mr-meaty-night-of-the-attack-of-the-flesh-hungry-meat-monsters.json) |
 | Mr. Meaty: Treasures of the Deep (Fryer, That Is!) | 320750 | [320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json](./320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json) |
 | Mr. Mix | 276278 | [276278-mr-mix.json](./276278-mr-mix.json) |
+| Mr. Mosquito | 246473 | [246473-mr-mosquito.json](./246473-mr-mosquito.json) |
 | Mr. Mueller's Grand Experiment | 284894 | [284894-mr-muellers-grand-experiment.json](./284894-mr-muellers-grand-experiment.json) |
 | Mr. Nutz: Hoppin' Mad | 39030 | [39030-mr-nutz-hoppin-mad.json](./39030-mr-nutz-hoppin-mad.json) |
 | Mr. Parkour 3 | 141153 | [141153-mr-parkour-3.json](./141153-mr-parkour-3.json) |
@@ -4922,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
 | Mr. Robot and His Robot Factory | 23900 | [23900-mr-robot-and-his-robot-factory.json](./23900-mr-robot-and-his-robot-factory.json) |
 | Mr. Run and Jump 2600 | 280753 | [280753-mr-run-and-jump-2600.json](./280753-mr-run-and-jump-2600.json) |
+| Mr. Runner | 246474 | [246474-mr-runner.json](./246474-mr-runner.json) |
 | Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
 | Mr. Shootem Breaks Out! | 266210 | [266210-mr-shootem-breaks-out.json](./266210-mr-shootem-breaks-out.json) |
 | Mr. Shorty | 337074 | [337074-mr-shorty.json](./337074-mr-shorty.json) |
