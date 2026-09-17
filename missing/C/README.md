@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Digger: Riches | 107230 | [107230-cave-digger-riches.json](./107230-cave-digger-riches.json) |
 | Cave Diver | 362819 | [362819-cave-diver.json](./362819-cave-diver.json) |
 | Cave Escape | 294272 | [294272-cave-escape.json](./294272-cave-escape.json) |
+| Cave Escape With FNIA Chica | 280909 | [280909-cave-escape-with-fnia-chica.json](./280909-cave-escape-with-fnia-chica.json) |
 | Cave Explorer | 165675 | [165675-cave-explorer.json](./165675-cave-explorer.json) |
 | Cave Fighter | 7898 | [7898-cave-fighter.json](./7898-cave-fighter.json) |
 | Cave Flying | 27878 | [27878-cave-flying.json](./27878-cave-flying.json) |
@@ -1510,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
 | Charmy Bee in Sonic the Hedgehog | 129181 | [129181-charmy-bee-in-sonic-the-hedgehog.json](./129181-charmy-bee-in-sonic-the-hedgehog.json) |
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
+| Charon's Sabbath | 280904 | [280904-charons-sabbath.json](./280904-charons-sabbath.json) |
 | Charon's Staircase | 201775 | [201775-charons-staircase.json](./201775-charons-staircase.json) |
 | Charrua Soccer: Pro Edition | 277310 | [277310-charrua-soccer-pro-edition.json](./277310-charrua-soccer-pro-edition.json) |
 | Chart Weaver | 382892 | [382892-chart-weaver.json](./382892-chart-weaver.json) |
@@ -5186,6 +5188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberTaxi | 140602 | [140602-cybertaxi.json](./140602-cybertaxi.json) |
 | CyberTaxi: Lunatic Nights | 296388 | [296388-cybertaxi-lunatic-nights.json](./296388-cybertaxi-lunatic-nights.json) |
 | CyberThreat | 31603 | [31603-cyberthreat.json](./31603-cyberthreat.json) |
+| CyberVerse | 280898 | [280898-cyberverse.json](./280898-cyberverse.json) |
 | Cyberwave | 310571 | [310571-cyberwave.json](./310571-cyberwave.json) |
 | CyberWave Survivor | 254173 | [254173-cyberwave-survivor.json](./254173-cyberwave-survivor.json) |
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
