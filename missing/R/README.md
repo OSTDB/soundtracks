@@ -1888,6 +1888,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 4: Naked Japan Style | 190706 | [190706-ride-4-naked-japan-style.json](./190706-ride-4-naked-japan-style.json) |
 | Ride 5: Born to Race Pack | 288213 | [288213-ride-5-born-to-race-pack.json](./288213-ride-5-born-to-race-pack.json) |
 | Ride 5: Dreamer's Garage Pack | 277830 | [277830-ride-5-dreamers-garage-pack.json](./277830-ride-5-dreamers-garage-pack.json) |
+| Ride 5: Far East Pack | 271287 | [271287-ride-5-far-east-pack.json](./271287-ride-5-far-east-pack.json) |
+| Ride 5: Free Pack 01 | 271286 | [271286-ride-5-free-pack-01.json](./271286-ride-5-free-pack-01.json) |
 | Ride 5: Free Pack 02 | 276288 | [276288-ride-5-free-pack-02.json](./276288-ride-5-free-pack-02.json) |
 | Ride 5: Free Pack 05 | 292671 | [292671-ride-5-free-pack-05.json](./292671-ride-5-free-pack-05.json) |
 | Ride 5: Free Pack 06 | 293410 | [293410-ride-5-free-pack-06.json](./293410-ride-5-free-pack-06.json) |
@@ -2313,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop 3 | 19695 | [19695-robocop-3.json](./19695-robocop-3.json) |
 | RoboCop Versus the Terminator | 288341 | [288341-robocop-versus-the-terminator.json](./288341-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 8195 | [8195-robocop-versus-the-terminator.json](./8195-robocop-versus-the-terminator.json) |
+| RoboCop: Rogue City - Alex Murphy Edition | 271282 | [271282-robocop-rogue-city-alex-murphy-edition.json](./271282-robocop-rogue-city-alex-murphy-edition.json) |
 | RoboCorps | 58794 | [58794-robocorps.json](./58794-robocorps.json) |
 | Robocraft 2 | 217298 | [217298-robocraft-2.json](./217298-robocraft-2.json) |
 | Robocraft Royale | 89976 | [89976-robocraft-royale.json](./89976-robocraft-royale.json) |
@@ -2966,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette Simulator 2024 | 266804 | [266804-roulette-simulator-2024.json](./266804-roulette-simulator-2024.json) |
 | Roulette VIP | 256252 | [256252-roulette-vip.json](./256252-roulette-vip.json) |
 | Round My Corners | 301241 | [301241-round-my-corners.json](./301241-round-my-corners.json) |
+| Round The U-Bend | 271306 | [271306-round-the-u-bend.json](./271306-round-the-u-bend.json) |
 | Round Trip | 244280 | [244280-round-trip.json](./244280-round-trip.json) |
 | Rounded Hills | 145654 | [145654-rounded-hills.json](./145654-rounded-hills.json) |
 | Rounders (Arena) | 98991 | [98991-rounders-arena.json](./98991-rounders-arena.json) |
