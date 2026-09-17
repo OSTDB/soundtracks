@@ -586,6 +586,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
+| Aerial Nature Jigsaw Puzzles: Expansion Pack 1 | 270203 | [270203-aerial-nature-jigsaw-puzzles-expansion-pack-1.json](./270203-aerial-nature-jigsaw-puzzles-expansion-pack-1.json) |
+| Aerial Nature Jigsaw Puzzles: Expansion Pack 4 | 270199 | [270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json](./270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json) |
 | Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
 | Aero Style | 79884 | [79884-aero-style.json](./79884-aero-style.json) |
