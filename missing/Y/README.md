@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Waifu Juice | 216478 | [216478-your-waifu-juice.json](./216478-your-waifu-juice.json) |
 | Your wife | 166731 | [166731-your-wife.json](./166731-your-wife.json) |
 | Yours Truly | 199134 | [199134-yours-truly.json](./199134-yours-truly.json) |
+| YourToy and Dying: Reborn Horror Game Bundle | 247581 | [247581-yourtoy-and-dying-reborn-horror-game-bundle.json](./247581-yourtoy-and-dying-reborn-horror-game-bundle.json) |
 | Youso Warriors | 166208 | [166208-youso-warriors.json](./166208-youso-warriors.json) |
 | Youth Feather | 121705 | [121705-youth-feather.json](./121705-youth-feather.json) |
 | Youthink? | 102775 | [102775-youthink.json](./102775-youthink.json) |
