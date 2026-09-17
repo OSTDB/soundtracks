@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of Magic: Digital Edition | 56480 | [56480-fall-of-magic-digital-edition.json](./56480-fall-of-magic-digital-edition.json) |
 | Fall of Porcupine: Save the World Edition | 254153 | [254153-fall-of-porcupine-save-the-world-edition.json](./254153-fall-of-porcupine-save-the-world-edition.json) |
 | Fall Of The MS Estonia | 294295 | [294295-fall-of-the-ms-estonia.json](./294295-fall-of-the-ms-estonia.json) |
+| Fall of the Son | 264108 | [264108-fall-of-the-son.json](./264108-fall-of-the-son.json) |
 | Fall Platform | 320536 | [320536-fall-platform.json](./320536-fall-platform.json) |
 | Fall Weiss | 62205 | [62205-fall-weiss.json](./62205-fall-weiss.json) |
 | Fall Words | 296350 | [296350-fall-words.json](./296350-fall-words.json) |
