@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gu-gu Ganmo: Run-run Odekake Date Da ze ii | 349414 | [349414-gu-gu-ganmo-run-run-odekake-date-da-ze-ii.json](./349414-gu-gu-ganmo-run-run-odekake-date-da-ze-ii.json) |
 | Guacamelee! 2: Three Enemigos Character Pack | 155046 | [155046-guacamelee-2-three-enemigos-character-pack.json](./155046-guacamelee-2-three-enemigos-character-pack.json) |
 | Guacamelee! One-Two Punch Collection | 115023 | [115023-guacamelee-one-two-punch-collection.json](./115023-guacamelee-one-two-punch-collection.json) |
+| Guàishòu | 277970 | [277970-guaishou.json](./277970-guaishou.json) |
 | Guānyú Sīmén Shì de Yīxiē Chuányán | 397690 | [397690-guanyu-simen-shi-de-yixie-chuanyan.json](./397690-guanyu-simen-shi-de-yixie-chuanyan.json) |
 | Guarded | 313893 | [313893-guarded.json](./313893-guarded.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
