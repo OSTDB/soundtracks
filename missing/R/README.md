@@ -1889,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 5: Free Pack 02 | 276288 | [276288-ride-5-free-pack-02.json](./276288-ride-5-free-pack-02.json) |
 | Ride 5: Free Pack 05 | 292671 | [292671-ride-5-free-pack-05.json](./292671-ride-5-free-pack-05.json) |
 | Ride 5: Free Pack 06 | 293410 | [293410-ride-5-free-pack-06.json](./293410-ride-5-free-pack-06.json) |
+| Ride 5: Short Track Pack | 272941 | [272941-ride-5-short-track-pack.json](./272941-ride-5-short-track-pack.json) |
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
 | Ride Kamens | 304186 | [304186-ride-kamens.json](./304186-ride-kamens.json) |
@@ -2166,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivais Em Batalha | 90579 | [90579-rivais-em-batalha.json](./90579-rivais-em-batalha.json) |
 | Rival Books of Aster | 38965 | [38965-rival-books-of-aster.json](./38965-rival-books-of-aster.json) |
 | Rival Fury | 188648 | [188648-rival-fury.json](./188648-rival-fury.json) |
+| Rival Goals | 272944 | [272944-rival-goals.json](./272944-rival-goals.json) |
 | Rival Kingdoms | 126044 | [126044-rival-kingdoms.json](./126044-rival-kingdoms.json) |
 | Rival Knights | 22393 | [22393-rival-knights.json](./22393-rival-knights.json) |
 | Rival Nation Wars | 115039 | [115039-rival-nation-wars.json](./115039-rival-nation-wars.json) |
@@ -2547,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodea the Sky Soldier: Launch Day Edition | 89892 | [89892-rodea-the-sky-soldier-launch-day-edition.json](./89892-rodea-the-sky-soldier-launch-day-edition.json) |
 | Rodea: The Sky Soldier Limited Edition | 51188 | [51188-rodea-the-sky-soldier-limited-edition.json](./51188-rodea-the-sky-soldier-limited-edition.json) |
 | Rodent Retribution | 275707 | [275707-rodent-retribution.json](./275707-rodent-retribution.json) |
+| Rodent Rumble | 272943 | [272943-rodent-rumble.json](./272943-rodent-rumble.json) |
 | Rodeo Clown | 319554 | [319554-rodeo-clown.json](./319554-rodeo-clown.json) |
 | Rodeo Judge | 57068 | [57068-rodeo-judge.json](./57068-rodeo-judge.json) |
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
@@ -2631,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguemon | 374728 | [374728-roguemon.json](./374728-roguemon.json) |
+| RogueMusk | 272942 | [272942-roguemusk.json](./272942-roguemusk.json) |
 | Rogues Like Beer | 183014 | [183014-rogues-like-beer.json](./183014-rogues-like-beer.json) |
 | Rogues of Europa | 274495 | [274495-rogues-of-europa.json](./274495-rogues-of-europa.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
@@ -2825,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 817 | 262379 | [262379-room-817.json](./262379-room-817.json) |
 | Room Box | 195701 | [195701-room-box.json](./195701-room-box.json) |
 | Room by Room | 410932 | [410932-room-by-room.json](./410932-room-by-room.json) |
+| Room Cleaning 2 | 272939 | [272939-room-cleaning-2.json](./272939-room-cleaning-2.json) |
 | Room Containing Candle x4 | 142502 | [142502-room-containing-candle-x4.json](./142502-room-containing-candle-x4.json) |
 | Room Escape '1053' | 127376 | [127376-room-escape-1053.json](./127376-room-escape-1053.json) |
 | Room Explorer 2010 | 198511 | [198511-room-explorer-2010.json](./198511-room-explorer-2010.json) |
