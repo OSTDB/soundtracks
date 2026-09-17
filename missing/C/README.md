@@ -5092,6 +5092,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custer's Revenge | 8529 | [8529-custers-revenge.json](./8529-custers-revenge.json) |
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
+| Custom Mech Wars: EDF Collab Edition | 268007 | [268007-custom-mech-wars-edf-collab-edition.json](./268007-custom-mech-wars-edf-collab-edition.json) |
+| Custom Mech Wars: Ultimate Edition | 268008 | [268008-custom-mech-wars-ultimate-edition.json](./268008-custom-mech-wars-ultimate-edition.json) |
 | Custom Monsters | 222498 | [222498-custom-monsters.json](./222498-custom-monsters.json) |
 | Custom Order Maid 3D2: It's a Night Magic Beauty Hair Set SP All in One Pack | 291054 | [291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json](./291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json) |
 | Custom Order Maid 3D2: It's a Night Magic Dancing Night, Merry Night All in Pack | 280319 | [280319-custom-order-maid-3d2-its-a-night-magic-dancing-night-merry-night-all-in-pack.json](./280319-custom-order-maid-3d2-its-a-night-magic-dancing-night-merry-night-all-in-pack.json) |
