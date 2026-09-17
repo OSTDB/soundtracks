@@ -2856,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Blaze Black 2 | 137113 | [137113-pokemon-blaze-black-2.json](./137113-pokemon-blaze-black-2.json) |
 | Pokémon Blazed Glazed | 129808 | [129808-pokemon-blazed-glazed.json](./129808-pokemon-blazed-glazed.json) |
 | Pokémon Blooming Beast | 359976 | [359976-pokemon-blooming-beast.json](./359976-pokemon-blooming-beast.json) |
+| Pokemon Bois | 250467 | [250467-pokemon-bois.json](./250467-pokemon-bois.json) |
 | Pokémon Box: Ruby & Sapphire | 93046 | [93046-pokemon-box-ruby-and-sapphire.json](./93046-pokemon-box-ruby-and-sapphire.json) |
 | Pokemon Breeder | 196863 | [196863-pokemon-breeder.json](./196863-pokemon-breeder.json) |
 | Pokémon CAWPS | 129809 | [129809-pokemon-cawps.json](./129809-pokemon-cawps.json) |
@@ -3032,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokExp | 144250 | [144250-pokexp.json](./144250-pokexp.json) |
 | Pokey Ball | 325665 | [325665-pokey-ball.json](./325665-pokey-ball.json) |
 | Pokini Kagura | 284896 | [284896-pokini-kagura.json](./284896-pokini-kagura.json) |
+| Pokipet | 250436 | [250436-pokipet.json](./250436-pokipet.json) |
 | Pokkén Tournament DX: Battle Pack | 237933 | [237933-pokken-tournament-dx-battle-pack.json](./237933-pokken-tournament-dx-battle-pack.json) |
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
@@ -4457,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puff Love Story | 371903 | [371903-puff-love-story.json](./371903-puff-love-story.json) |
 | Puff Up: Classic Edition | 353983 | [353983-puff-up-classic-edition.json](./353983-puff-up-classic-edition.json) |
 | Puff. | 316817 | [316817-puff.json](./316817-puff.json) |
+| Puffer Pop | 250464 | [250464-puffer-pop.json](./250464-puffer-pop.json) |
 | Puffin Parcel Post | 346106 | [346106-puffin-parcel-post.json](./346106-puffin-parcel-post.json) |
 | Puffins: Island Adventure | 68030 | [68030-puffins-island-adventure.json](./68030-puffins-island-adventure.json) |
 | Puffins: Let's Fish! | 84802 | [84802-puffins-lets-fish.json](./84802-puffins-lets-fish.json) |
