@@ -77,6 +77,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletopia: Zoom In Barcelona | 162898 | [162898-tabletopia-zoom-in-barcelona.json](./162898-tabletopia-zoom-in-barcelona.json) |
 | Tabloid Beauties | 201265 | [201265-tabloid-beauties.json](./201265-tabloid-beauties.json) |
 | Taboo Trial: Deluxe Edition | 315850 | [315850-taboo-trial-deluxe-edition.json](./315850-taboo-trial-deluxe-edition.json) |
+| Taboo Trial: Skadi | 270780 | [270780-taboo-trial-skadi.json](./270780-taboo-trial-skadi.json) |
+| Taboo Trial: Skuld | 270781 | [270781-taboo-trial-skuld.json](./270781-taboo-trial-skuld.json) |
 | Taboo Village: Romance Card Game | 415953 | [415953-taboo-village-romance-card-game.json](./415953-taboo-village-romance-card-game.json) |
 | Tabou Stories: Love Episodes | 311675 | [311675-tabou-stories-love-episodes.json](./311675-tabou-stories-love-episodes.json) |
 | Tabu Oyunu XL - Pro | 105950 | [105950-tabu-oyunu-xl-pro.json](./105950-tabu-oyunu-xl-pro.json) |
@@ -1183,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi no Uta: The Angel Verse II - The Fallen Angel | 385074 | [385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json](./385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json) |
 | Tenshi no uta: The Angel's Verse | 385075 | [385075-tenshi-no-uta-the-angels-verse.json](./385075-tenshi-no-uta-the-angels-verse.json) |
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
+| Tenshi-tachi no Gogo III: Bangai-hen | 270791 | [270791-tenshi-tachi-no-gogo-iii-bangai-hen.json](./270791-tenshi-tachi-no-gogo-iii-bangai-hen.json) |
 | Tenshoku Maou | 381693 | [381693-tenshoku-maou.json](./381693-tenshoku-maou.json) |
 | Tensou Sentai Goseiger Super Battle Daishuugou! | 327603 | [327603-tensou-sentai-goseiger-super-battle-daishuugou.json](./327603-tensou-sentai-goseiger-super-battle-daishuugou.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - The Myth & Legend of Marauder Shields | 267065 | [267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json](./267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json) |
@@ -8492,6 +8495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuyokiss Festival | 194587 | [194587-tsuyokiss-festival.json](./194587-tsuyokiss-festival.json) |
 | Tsuyokiss Next | 194588 | [194588-tsuyokiss-next.json](./194588-tsuyokiss-next.json) |
 | Tsuyoshi Shikkari Shinasai Taisen Puzzle-dama | 37778 | [37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json](./37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json) |
+| Tsykial | 270748 | [270748-tsykial.json](./270748-tsykial.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
 | Tubby's Wonderful Town | 382751 | [382751-tubbys-wonderful-town.json](./382751-tubbys-wonderful-town.json) |
@@ -8764,6 +8768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Hoops | 234317 | [234317-two-hoops.json](./234317-two-hoops.json) |
 | Two Hour Escape Mystery: A Puzzling Voyage | 272902 | [272902-two-hour-escape-mystery-a-puzzling-voyage.json](./272902-two-hour-escape-mystery-a-puzzling-voyage.json) |
 | Two Kiss with Two Men | 303272 | [303272-two-kiss-with-two-men.json](./303272-two-kiss-with-two-men.json) |
+| Two Lane | 270776 | [270776-two-lane.json](./270776-two-lane.json) |
 | Two Little Ghosts of that House: The Missing Toy | 319340 | [319340-two-little-ghosts-of-that-house-the-missing-toy.json](./319340-two-little-ghosts-of-that-house-the-missing-toy.json) |
 | Two Moon: Space Rabbit | 270141 | [270141-two-moon-space-rabbit.json](./270141-two-moon-space-rabbit.json) |
 | Two Move Chess | 215680 | [215680-two-move-chess.json](./215680-two-move-chess.json) |
@@ -8825,6 +8830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
 | Tyr: Chains of Valhalla | 96750 | [96750-tyr-chains-of-valhalla.json](./96750-tyr-chains-of-valhalla.json) |
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
+| Tyrannizer | 270741 | [270741-tyrannizer.json](./270741-tyrannizer.json) |
 | Tyranny: Gold Edition | 154526 | [154526-tyranny-gold-edition.json](./154526-tyranny-gold-edition.json) |
 | Tyrant Quest: Gold Edition | 197406 | [197406-tyrant-quest-gold-edition.json](./197406-tyrant-quest-gold-edition.json) |
 | Tyrant Tactics: Birth of Revolution | 398970 | [398970-tyrant-tactics-birth-of-revolution.json](./398970-tyrant-tactics-birth-of-revolution.json) |
