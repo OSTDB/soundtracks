@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlocks | 37096 | [37096-warlocks.json](./37096-warlocks.json) |
 | Warlocks | 377723 | [377723-warlocks.json](./377723-warlocks.json) |
 | Warlocks Deeds: Uncharted Realms | 275614 | [275614-warlocks-deeds-uncharted-realms.json](./275614-warlocks-deeds-uncharted-realms.json) |
+| Warlocks Quarry: Random Worlds + Explorer | 243773 | [243773-warlocks-quarry-random-worlds-explorer.json](./243773-warlocks-quarry-random-worlds-explorer.json) |
 | Warlordocracy: Chapter 2 | 258217 | [258217-warlordocracy-chapter-2.json](./258217-warlordocracy-chapter-2.json) |
 | Warlordocracy: Chapter 3 | 336569 | [336569-warlordocracy-chapter-3.json](./336569-warlordocracy-chapter-3.json) |
 | WarLords | 196892 | [196892-warlords.json](./196892-warlords.json) |
@@ -1530,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windwalkers | 9185 | [9185-windwalkers.json](./9185-windwalkers.json) |
 | WindWord | 104641 | [104641-windword.json](./104641-windword.json) |
 | Windwoven | 374606 | [374606-windwoven.json](./374606-windwoven.json) |
+| Windy Meadow: A Roadwarden Tale | 243774 | [243774-windy-meadow-a-roadwarden-tale.json](./243774-windy-meadow-a-roadwarden-tale.json) |
 | Windy Mystletainn | 284344 | [284344-windy-mystletainn.json](./284344-windy-mystletainn.json) |
 | Windy Waltz | 248682 | [248682-windy-waltz.json](./248682-windy-waltz.json) |
 | WinFish 3 - Fly Fishing | 129767 | [129767-winfish-3-fly-fishing.json](./129767-winfish-3-fly-fishing.json) |
