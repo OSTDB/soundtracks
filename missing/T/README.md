@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Elbow | 197896 | [197896-tennis-elbow.json](./197896-tennis-elbow.json) |
 | Tennis Elbow 2013 | 35830 | [35830-tennis-elbow-2013.json](./35830-tennis-elbow-2013.json) |
 | Tennis Game in Roaring ’20s | 248064 | [248064-tennis-game-in-roaring-20s.json](./248064-tennis-game-in-roaring-20s.json) |
+| Tennis In Hell | 250991 | [250991-tennis-in-hell.json](./250991-tennis-in-hell.json) |
 | Tennis Kings VR | 89257 | [89257-tennis-kings-vr.json](./89257-tennis-kings-vr.json) |
 | Tennis Life | 333532 | [333532-tennis-life.json](./333532-tennis-life.json) |
 | Tennis Manager 25 | 338259 | [338259-tennis-manager-25.json](./338259-tennis-manager-25.json) |
@@ -1301,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrestial | 250929 | [250929-terrestial.json](./250929-terrestial.json) |
 | Terrestrial | 311826 | [311826-terrestrial.json](./311826-terrestrial.json) |
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
+| Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
 | Terror Diversion | 318013 | [318013-terror-diversion.json](./318013-terror-diversion.json) |
 | Terror Mod Ultraultimatum HD | 330547 | [330547-terror-mod-ultraultimatum-hd.json](./330547-terror-mod-ultraultimatum-hd.json) |
@@ -1397,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Dotbas | 324510 | [324510-tetris-dotbas.json](./324510-tetris-dotbas.json) |
 | Tetris DS | 18599 | [18599-tetris-ds.json](./18599-tetris-ds.json) |
 | Tetris DS | 238199 | [238199-tetris-ds.json](./238199-tetris-ds.json) |
+| Tetris E60 | 251021 | [251021-tetris-e60.json](./251021-tetris-e60.json) |
 | Tetris Effect: Connected | 135999 | [135999-tetris-effect-connected.json](./135999-tetris-effect-connected.json) |
 | Tetris Evolution | 2631 | [2631-tetris-evolution.json](./2631-tetris-evolution.json) |
 | Tetris Giant | 92457 | [92457-tetris-giant.json](./92457-tetris-giant.json) |
@@ -5414,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Sundarpatan Nepal Hunting Reserve | 305517 | [305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json](./305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json) |
 | TheHunter: Call of the Wild - Tents & Ground Blinds | 53793 | [53793-thehunter-call-of-the-wild-tents-and-ground-blinds.json](./53793-thehunter-call-of-the-wild-tents-and-ground-blinds.json) |
 | TheHunter: Call of the Wild - Traveler's Cosmetic Bundle | 280231 | [280231-thehunter-call-of-the-wild-travelers-cosmetic-bundle.json](./280231-thehunter-call-of-the-wild-travelers-cosmetic-bundle.json) |
+| Their Majesties' Pleasure | 250993 | [250993-their-majesties-pleasure.json](./250993-their-majesties-pleasure.json) |
 | TheLast.io | 125984 | [125984-thelast-io.json](./125984-thelast-io.json) |
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
