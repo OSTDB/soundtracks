@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karakia Shooter | 158139 | [158139-karakia-shooter.json](./158139-karakia-shooter.json) |
 | Karakuri Kengou Den Musashi Lord | 65436 | [65436-karakuri-kengou-den-musashi-lord.json](./65436-karakuri-kengou-den-musashi-lord.json) |
 | Karakuri Kengou-den: Musashi Road - Harikiri Daishuugyou! | 346027 | [346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json](./346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json) |
+| Karakuri Ninpou | 267991 | [267991-karakuri-ninpou.json](./267991-karakuri-ninpou.json) |
 | Karakuru | 371904 | [371904-karakuru.json](./371904-karakuru.json) |
 | Karao | 392176 | [392176-karao.json](./392176-karao.json) |
 | Karaoke Family Fun | 210018 | [210018-karaoke-family-fun.json](./210018-karaoke-family-fun.json) |
@@ -1246,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuffi | 295900 | [295900-knuffi.json](./295900-knuffi.json) |
 | Knytt Classic | 412975 | [412975-knytt-classic.json](./412975-knytt-classic.json) |
 | KO Chaos | 285456 | [285456-ko-chaos.json](./285456-ko-chaos.json) |
+| Koala Sling | 268020 | [268020-koala-sling.json](./268020-koala-sling.json) |
 | Kobayakawa-san is a Souls-like | 413066 | [413066-kobayakawa-san-is-a-souls-like.json](./413066-kobayakawa-san-is-a-souls-like.json) |
 | Kobayashi Hitomi no Hold Up | 41348 | [41348-kobayashi-hitomi-no-hold-up.json](./41348-kobayashi-hitomi-no-hold-up.json) |
 | Kobito-zukan: Kobito no Fushigi Jikken Set | 329947 | [329947-kobito-zukan-kobito-no-fushigi-jikken-set.json](./329947-kobito-zukan-kobito-no-fushigi-jikken-set.json) |
