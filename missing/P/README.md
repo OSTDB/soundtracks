@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path Out | 74116 | [74116-path-out.json](./74116-path-out.json) |
 | Path to Etinway | 161405 | [161405-path-to-etinway.json](./161405-path-to-etinway.json) |
 | Path to Nowhere: Ditty Nightsong | 329175 | [329175-path-to-nowhere-ditty-nightsong.json](./329175-path-to-nowhere-ditty-nightsong.json) |
+| Path to Octavius | 243815 | [243815-path-to-octavius.json](./243815-path-to-octavius.json) |
 | Path to Serenity | 350497 | [350497-path-to-serenity.json](./350497-path-to-serenity.json) |
 | Path to Valhalla | 113733 | [113733-path-to-valhalla.json](./113733-path-to-valhalla.json) |
 | Path to Warband | 215692 | [215692-path-to-warband.json](./215692-path-to-warband.json) |
@@ -1668,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Pirates | 184068 | [184068-pico-pirates.json](./184068-pico-pirates.json) |
 | Pico Tanks: Multiplayer Mayhem | 130379 | [130379-pico-tanks-multiplayer-mayhem.json](./130379-pico-tanks-multiplayer-mayhem.json) |
 | Pico vs. Bear | 331683 | [331683-pico-vs-bear.json](./331683-pico-vs-bear.json) |
+| Picoban | 243778 | [243778-picoban.json](./243778-picoban.json) |
 | PicOHRoss | 387521 | [387521-picohross.json](./387521-picohross.json) |
 | Picokaiju | 202393 | [202393-picokaiju.json](./202393-picokaiju.json) |
 | Picolarium | 178605 | [178605-picolarium.json](./178605-picolarium.json) |
