@@ -3024,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
 | Freeze the Time | 187429 | [187429-freeze-the-time.json](./187429-freeze-the-time.json) |
 | Freeze: The Escape | 79902 | [79902-freeze-the-escape.json](./79902-freeze-the-escape.json) |
+| Freeze64 Christmas Game | 281530 | [281530-freeze64-christmas-game.json](./281530-freeze64-christmas-game.json) |
 | Freezeer | 103630 | [103630-freezeer.json](./103630-freezeer.json) |
 | Freezing Knights | 293750 | [293750-freezing-knights.json](./293750-freezing-knights.json) |
 | Fregocles y la Desinfección del Olimpo | 322551 | [322551-fregocles-y-la-desinfeccion-del-olimpo.json](./322551-fregocles-y-la-desinfeccion-del-olimpo.json) |
