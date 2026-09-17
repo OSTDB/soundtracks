@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShipOS 1994 | 312191 | [312191-shipos-1994.json](./312191-shipos-1994.json) |
 | ShipRect | 212797 | [212797-shiprect.json](./212797-shiprect.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
+| Ships of Battle Age of Pirates | 235296 | [235296-ships-of-battle-age-of-pirates.json](./235296-ships-of-battle-age-of-pirates.json) |
 | Ships Simulator 2024 | 219609 | [219609-ships-simulator-2024.json](./219609-ships-simulator-2024.json) |
 | Shipwreck | 35936 | [35936-shipwreck.json](./35936-shipwreck.json) |
 | Shipwreck Escape | 152827 | [152827-shipwreck-escape.json](./152827-shipwreck-escape.json) |
@@ -3584,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashy Hero | 31357 | [31357-slashy-hero.json](./31357-slashy-hero.json) |
 | Slashy Knight | 105925 | [105925-slashy-knight.json](./105925-slashy-knight.json) |
 | Slashy Souls | 18107 | [18107-slashy-souls.json](./18107-slashy-souls.json) |
+| Slaughter Cats | 235354 | [235354-slaughter-cats.json](./235354-slaughter-cats.json) |
 | Slaughter Until Death | 274217 | [274217-slaughter-until-death.json](./274217-slaughter-until-death.json) |
 | Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
@@ -6219,6 +6221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splurge | 287194 | [287194-splurge.json](./287194-splurge.json) |
 | Sponchies | 68603 | [68603-sponchies.json](./68603-sponchies.json) |
 | SpongeBob Big Guy Challenge | 382339 | [382339-spongebob-big-guy-challenge.json](./382339-spongebob-big-guy-challenge.json) |
+| Spongebob Boat-O-Cross | 235316 | [235316-spongebob-boat-o-cross.json](./235316-spongebob-boat-o-cross.json) |
 | SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
 | SpongeBob Laptop | 293737 | [293737-spongebob-laptop.json](./293737-spongebob-laptop.json) |
@@ -7700,6 +7703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
 | Strategy Six-Pack | 86034 | [86034-strategy-six-pack.json](./86034-strategy-six-pack.json) |
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
+| Strato Breaker | 235357 | [235357-strato-breaker.json](./235357-strato-breaker.json) |
 | Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
 | Stratos | 24896 | [24896-stratos.json](./24896-stratos.json) |
 | Stratosphere Defense | 197856 | [197856-stratosphere-defense.json](./197856-stratosphere-defense.json) |
