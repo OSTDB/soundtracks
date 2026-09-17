@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Experience 365 Days of Being a Girl in This Simulator Game | 98449 | [98449-you-experience-365-days-of-being-a-girl-in-this-simulator-game.json](./98449-you-experience-365-days-of-being-a-girl-in-this-simulator-game.json) |
 | You Feel Normal. | 293655 | [293655-you-feel-normal.json](./293655-you-feel-normal.json) |
 | You Find Yourself in a Room | 242778 | [242778-you-find-yourself-in-a-room.json](./242778-you-find-yourself-in-a-room.json) |
+| You Got Crabs | 276817 | [276817-you-got-crabs.json](./276817-you-got-crabs.json) |
 | Yóu Guō Jīngmèng | 407317 | [407317-you-guo-jingmeng.json](./407317-you-guo-jingmeng.json) |
 | You Had a Bad Dream | 405593 | [405593-you-had-a-bad-dream.json](./405593-you-had-a-bad-dream.json) |
 | You Have 10 Seconds | 31909 | [31909-you-have-10-seconds.json](./31909-you-have-10-seconds.json) |
