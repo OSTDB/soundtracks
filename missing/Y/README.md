@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YASG | 122326 | [122326-yasg.json](./122326-yasg.json) |
 | Yasha: Legends of the Demon Blade - Deluxe Edition | 351139 | [351139-yasha-legends-of-the-demon-blade-deluxe-edition.json](./351139-yasha-legends-of-the-demon-blade-deluxe-edition.json) |
 | Yashi - Sand Driver | 411675 | [411675-yashi-sand-driver.json](./411675-yashi-sand-driver.json) |
+| Yasogaya Murder Cases | 238597 | [238597-yasogaya-murder-cases.json](./238597-yasogaya-murder-cases.json) |
 | Yasuke Simulator | 333626 | [333626-yasuke-simulator.json](./333626-yasuke-simulator.json) |
 | Yasuke: A Lost Descendant | 222915 | [222915-yasuke-a-lost-descendant.json](./222915-yasuke-a-lost-descendant.json) |
 | Yasumeru | 202344 | [202344-yasumeru.json](./202344-yasumeru.json) |
