@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xscorch | 63240 | [63240-xscorch.json](./63240-xscorch.json) |
 | XSpelunker | 360106 | [360106-xspelunker.json](./360106-xspelunker.json) |
 | Xtom 3D | 45978 | [45978-xtom-3d.json](./45978-xtom-3d.json) |
+| Xtract | 277966 | [277966-xtract.json](./277966-xtract.json) |
 | Xtraction Royale | 115728 | [115728-xtraction-royale.json](./115728-xtraction-royale.json) |
 | Xtractor Defender | 111672 | [111672-xtractor-defender.json](./111672-xtractor-defender.json) |
 | Xtreme Boarders: Precision Skating | 205813 | [205813-xtreme-boarders-precision-skating.json](./205813-xtreme-boarders-precision-skating.json) |
