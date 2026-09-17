@@ -1231,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Elite Wrestling: Fight Forever - Season Pass 4 | 301011 | [301011-all-elite-wrestling-fight-forever-season-pass-4.json](./301011-all-elite-wrestling-fight-forever-season-pass-4.json) |
 | All Elite Wrestling: Fight Forever - Swerve to the Beach | 287117 | [287117-all-elite-wrestling-fight-forever-swerve-to-the-beach.json](./287117-all-elite-wrestling-fight-forever-swerve-to-the-beach.json) |
 | All Elite Wrestling: Fight Forever - Switchblade Tournament Pack | 301009 | [301009-all-elite-wrestling-fight-forever-switchblade-tournament-pack.json](./301009-all-elite-wrestling-fight-forever-switchblade-tournament-pack.json) |
+| All Elite Wrestling: Fight Forever - The Storm is Coming! | 283292 | [283292-all-elite-wrestling-fight-forever-the-storm-is-coming.json](./283292-all-elite-wrestling-fight-forever-the-storm-is-coming.json) |
 | All Elite Wrestling: Fight Forever - World War Joe | 301010 | [301010-all-elite-wrestling-fight-forever-world-war-joe.json](./301010-all-elite-wrestling-fight-forever-world-war-joe.json) |
 | All For Nought: Tic Tac Toe | 155662 | [155662-all-for-nought-tic-tac-toe.json](./155662-all-for-nought-tic-tac-toe.json) |
 | All Goblin | 243108 | [243108-all-goblin.json](./243108-all-goblin.json) |
@@ -2067,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girl Puzzles: Yui | 297772 | [297772-anime-girl-puzzles-yui.json](./297772-anime-girl-puzzles-yui.json) |
 | Anime Girls: College Love | 378779 | [378779-anime-girls-college-love.json](./378779-anime-girls-college-love.json) |
 | Anime Girls: Extended Edition | 277305 | [277305-anime-girls-extended-edition.json](./277305-anime-girls-extended-edition.json) |
+| Anime Girls: Highschool of Dead | 283291 | [283291-anime-girls-highschool-of-dead.json](./283291-anime-girls-highschool-of-dead.json) |
 | Anime Girls: Lady Liberty | 314880 | [314880-anime-girls-lady-liberty.json](./314880-anime-girls-lady-liberty.json) |
 | Anime Girls: Natty New Year | 328572 | [328572-anime-girls-natty-new-year.json](./328572-anime-girls-natty-new-year.json) |
 | Anime Girls: Natty Nurse | 319782 | [319782-anime-girls-natty-nurse.json](./319782-anime-girls-natty-nurse.json) |
@@ -2089,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Sexy Girl Puzzle: Hentai Game History Adventure | 267371 | [267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json](./267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Studio Saga | 287237 | [287237-anime-studio-saga.json](./287237-anime-studio-saga.json) |
+| Anime Tank Blitz: Warbound Legends | 283293 | [283293-anime-tank-blitz-warbound-legends.json](./283293-anime-tank-blitz-warbound-legends.json) |
 | Anime Thighs: 18+ Content | 297774 | [297774-anime-thighs-18-content.json](./297774-anime-thighs-18-content.json) |
 | Anime Uni | 273943 | [273943-anime-uni.json](./273943-anime-uni.json) |
 | Anime Uni 2 | 300730 | [300730-anime-uni-2.json](./300730-anime-uni-2.json) |
