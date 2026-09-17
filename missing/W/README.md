@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish Upon a Cat | 356718 | [356718-wish-upon-a-cat.json](./356718-wish-upon-a-cat.json) |
 | Wish You All the Best | 402934 | [402934-wish-you-all-the-best.json](./402934-wish-you-all-the-best.json) |
 | Wish You Happiness | 310043 | [310043-wish-you-happiness.json](./310043-wish-you-happiness.json) |
+| Wishbind | 254578 | [254578-wishbind.json](./254578-wishbind.json) |
 | Wishes In Pen: Chrysanthemums in August - Otome Visual Novel | 107892 | [107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json](./107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json) |
 | Wishful Thinking | 229678 | [229678-wishful-thinking.json](./229678-wishful-thinking.json) |
 | Wishing Well | 130861 | [130861-wishing-well.json](./130861-wishing-well.json) |
