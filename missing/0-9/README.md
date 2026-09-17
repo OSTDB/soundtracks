@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Alien Syndrome | 202925 | [202925-3d-alien-syndrome.json](./202925-3d-alien-syndrome.json) |
 | 3D Ball Blaster | 300007 | [300007-3d-ball-blaster.json](./300007-3d-ball-blaster.json) |
 | 3D Basketball Champs Elite | 101467 | [101467-3d-basketball-champs-elite.json](./101467-3d-basketball-champs-elite.json) |
+| 3D Blitz | 245388 | [245388-3d-blitz.json](./245388-3d-blitz.json) |
 | 3D Boxing | 12980 | [12980-3d-boxing.json](./12980-3d-boxing.json) |
 | 3D Brick Bustin Madness | 205832 | [205832-3d-brick-bustin-madness.json](./205832-3d-brick-bustin-madness.json) |
 | 3D Chess Q14 | 289455 | [289455-3d-chess-q14.json](./289455-3d-chess-q14.json) |
