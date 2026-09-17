@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Spotter | 231653 | [231653-shadow-spotter.json](./231653-shadow-spotter.json) |
 | Shadow Stalker | 264319 | [264319-shadow-stalker.json](./264319-shadow-stalker.json) |
 | Shadow Storm | 331312 | [331312-shadow-storm.json](./331312-shadow-storm.json) |
+| Shadow Strikers | 270194 | [270194-shadow-strikers.json](./270194-shadow-strikers.json) |
 | Shadow Survival | 219602 | [219602-shadow-survival.json](./219602-shadow-survival.json) |
 | Shadow Tactics: Aiko's Choice - Deluxe Edition | 331844 | [331844-shadow-tactics-aikos-choice-deluxe-edition.json](./331844-shadow-tactics-aikos-choice-deluxe-edition.json) |
 | Shadow Tactics: Blades of the Shogun | 19085 | [19085-shadow-tactics-blades-of-the-shogun.json](./19085-shadow-tactics-blades-of-the-shogun.json) |
@@ -2532,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Online | 20574 | [20574-shot-online.json](./20574-shot-online.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
+| ShotGun Exorcist | 270200 | [270200-shotgun-exorcist.json](./270200-shotgun-exorcist.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
 | Shotgun Science | 365155 | [365155-shotgun-science.json](./365155-shotgun-science.json) |
 | Shotgun Symphony | 144262 | [144262-shotgun-symphony.json](./144262-shotgun-symphony.json) |
@@ -4557,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & Sega All-Stars Racing Arcade | 280800 | [280800-sonic-and-sega-all-stars-racing-arcade.json](./280800-sonic-and-sega-all-stars-racing-arcade.json) |
 | Sonic & Shadow | 330516 | [330516-sonic-and-shadow.json](./330516-sonic-and-shadow.json) |
 | Sonic & Shadow | 336350 | [336350-sonic-and-shadow.json](./336350-sonic-and-shadow.json) |
+| Sonic 1 Easy Mode | 270220 | [270220-sonic-1-easy-mode.json](./270220-sonic-1-easy-mode.json) |
 | Sonic 1 Pilot | 337708 | [337708-sonic-1-pilot.json](./337708-sonic-1-pilot.json) |
 | Sonic 1 Spike Bug Fix & Spindash | 198532 | [198532-sonic-1-spike-bug-fix-and-spindash.json](./198532-sonic-1-spike-bug-fix-and-spindash.json) |
 | Sonic 1: South Island Expedition | 215157 | [215157-sonic-1-south-island-expedition.json](./215157-sonic-1-south-island-expedition.json) |
@@ -4795,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Streak 2 | 330867 | [330867-sonic-streak-2.json](./330867-sonic-streak-2.json) |
 | Sonic StrikerZ | 316424 | [316424-sonic-strikerz.json](./316424-sonic-strikerz.json) |
 | Sonic Sundown | 321395 | [321395-sonic-sundown.json](./321395-sonic-sundown.json) |
+| Sonic Sunventure | 270221 | [270221-sonic-sunventure.json](./270221-sonic-sunventure.json) |
 | Sonic Superstars: Lego Dr. Eggman | 279744 | [279744-sonic-superstars-lego-dr-eggman.json](./279744-sonic-superstars-lego-dr-eggman.json) |
 | Sonic Superstars: Lego Fun Pack | 279743 | [279743-sonic-superstars-lego-fun-pack.json](./279743-sonic-superstars-lego-fun-pack.json) |
 | Sonic Superstars: Lego Sonic Skin | 275305 | [275305-sonic-superstars-lego-sonic-skin.json](./275305-sonic-superstars-lego-sonic-skin.json) |
@@ -4813,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 2 | 239069 | [239069-sonic-the-hedgehog-2.json](./239069-sonic-the-hedgehog-2.json) |
 | Sonic The Hedgehog 2: Archives | 332835 | [332835-sonic-the-hedgehog-2-archives.json](./332835-sonic-the-hedgehog-2-archives.json) |
 | Sonic the Hedgehog 2: Gear Shift | 321394 | [321394-sonic-the-hedgehog-2-gear-shift.json](./321394-sonic-the-hedgehog-2-gear-shift.json) |
+| Sonic the Hedgehog 2: Hold Right to Win Edition | 270222 | [270222-sonic-the-hedgehog-2-hold-right-to-win-edition.json](./270222-sonic-the-hedgehog-2-hold-right-to-win-edition.json) |
 | Sonic the Hedgehog 2: Pink Edition | 43319 | [43319-sonic-the-hedgehog-2-pink-edition.json](./43319-sonic-the-hedgehog-2-pink-edition.json) |
 | Sonic The Hedgehog 2D | 314902 | [314902-sonic-the-hedgehog-2d.json](./314902-sonic-the-hedgehog-2d.json) |
 | Sonic the Hedgehog 3 | 239071 | [239071-sonic-the-hedgehog-3.json](./239071-sonic-the-hedgehog-3.json) |
@@ -4874,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic X: Emerald Grab | 269876 | [269876-sonic-x-emerald-grab.json](./269876-sonic-x-emerald-grab.json) |
 | Sonic X: The Game | 326809 | [326809-sonic-x-the-game.json](./326809-sonic-x-the-game.json) |
 | Sonic XN | 331666 | [331666-sonic-xn.json](./331666-sonic-xn.json) |
+| Sonic Zoom | 270223 | [270223-sonic-zoom.json](./270223-sonic-zoom.json) |
 | Sonic: Before the Sequel - Redux | 266508 | [266508-sonic-before-the-sequel-redux.json](./266508-sonic-before-the-sequel-redux.json) |
 | Sonic: Death Days | 331711 | [331711-sonic-death-days.json](./331711-sonic-death-days.json) |
 | Sonic: Dream Plant | 313324 | [313324-sonic-dream-plant.json](./313324-sonic-dream-plant.json) |
@@ -4895,6 +4901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic.exe: Dark Souls Remake | 369098 | [369098-sonic-exe-dark-souls-remake.json](./369098-sonic-exe-dark-souls-remake.json) |
 | Sonic's Casino Poker | 261291 | [261291-sonics-casino-poker.json](./261291-sonics-casino-poker.json) |
 | Sonic's Edusoft | 63901 | [63901-sonics-edusoft.json](./63901-sonics-edusoft.json) |
+| Sonic's Fun and Easy Adventure | 270224 | [270224-sonics-fun-and-easy-adventure.json](./270224-sonics-fun-and-easy-adventure.json) |
 | Sonic's Napoleon | 261289 | [261289-sonics-napoleon.json](./261289-sonics-napoleon.json) |
 | Sonic's Speedway | 362898 | [362898-sonics-speedway.json](./362898-sonics-speedway.json) |
 | Sonic's Vacation | 330531 | [330531-sonics-vacation.json](./330531-sonics-vacation.json) |
@@ -7260,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonebound | 378924 | [378924-stonebound.json](./378924-stonebound.json) |
 | Stoned | 352202 | [352202-stoned.json](./352202-stoned.json) |
 | Stonefly | 144171 | [144171-stonefly.json](./144171-stonefly.json) |
+| Stonegate | 270213 | [270213-stonegate.json](./270213-stonegate.json) |
 | Stoneguard | 285983 | [285983-stoneguard.json](./285983-stoneguard.json) |
 | Stoneheart Archive | 409697 | [409697-stoneheart-archive.json](./409697-stoneheart-archive.json) |
 | Stonehenge VR | 33137 | [33137-stonehenge-vr.json](./33137-stonehenge-vr.json) |
@@ -9232,6 +9240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive The Unknown | 246623 | [246623-survive-the-unknown.json](./246623-survive-the-unknown.json) |
 | Survive Till 100 Years Old | 339117 | [339117-survive-till-100-years-old.json](./339117-survive-till-100-years-old.json) |
 | Survive: Battle Royale | 135817 | [135817-survive-battle-royale.json](./135817-survive-battle-royale.json) |
+| Survive: Forgotten and Abandoned | 270185 | [270185-survive-forgotten-and-abandoned.json](./270185-survive-forgotten-and-abandoned.json) |
 | Survive: Frost Bite | 325710 | [325710-survive-frost-bite.json](./325710-survive-frost-bite.json) |
 | Survive.io Battle Ground | 100139 | [100139-survive-io-battle-ground.json](./100139-survive-io-battle-ground.json) |
 | Surviving Ceres | 290533 | [290533-surviving-ceres.json](./290533-surviving-ceres.json) |
