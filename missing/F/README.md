@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Buddy Mobile | 200738 | [200738-fight-buddy-mobile.json](./200738-fight-buddy-mobile.json) |
 | Fight Club: Join us if you can | 231058 | [231058-fight-club-join-us-if-you-can.json](./231058-fight-club-join-us-if-you-can.json) |
 | Fight Crab | 90231 | [90231-fight-crab.json](./90231-fight-crab.json) |
+| Fight Crab 2 | 265211 | [265211-fight-crab-2.json](./265211-fight-crab-2.json) |
 | Fight Fever | 39553 | [39553-fight-fever.json](./39553-fight-fever.json) |
 | Fight For America: Complete Edition | 385199 | [385199-fight-for-america-complete-edition.json](./385199-fight-for-america-complete-edition.json) |
 | Fight For America: Country War | 245344 | [245344-fight-for-america-country-war.json](./245344-fight-for-america-country-war.json) |
@@ -3290,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Force | 345611 | [345611-frontier-force.json](./345611-frontier-force.json) |
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
 | Frontier Forge | 413769 | [413769-frontier-forge.json](./413769-frontier-forge.json) |
+| Frontier Hunter: Costume Pack Season 3 | 265251 | [265251-frontier-hunter-costume-pack-season-3.json](./265251-frontier-hunter-costume-pack-season-3.json) |
 | Frontier Hunter: Erza's Wheel of Fortune - Deluxe Edition | 239034 | [239034-frontier-hunter-erzas-wheel-of-fortune-deluxe-edition.json](./239034-frontier-hunter-erzas-wheel-of-fortune-deluxe-edition.json) |
 | Frontier Hunter: Erza's Wheel of Fortune - Fashion | 239032 | [239032-frontier-hunter-erzas-wheel-of-fortune-fashion.json](./239032-frontier-hunter-erzas-wheel-of-fortune-fashion.json) |
 | Frontier Legends | 319390 | [319390-frontier-legends.json](./319390-frontier-legends.json) |
@@ -3549,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FunPack: Mums | 177052 | [177052-funpack-mums.json](./177052-funpack-mums.json) |
 | Funset Studios | 269018 | [269018-funset-studios.json](./269018-funset-studios.json) |
 | Funtagy of Doskebe | 82907 | [82907-funtagy-of-doskebe.json](./82907-funtagy-of-doskebe.json) |
+| Funtography: A Gameboy Cameradventure | 265229 | [265229-funtography-a-gameboy-cameradventure.json](./265229-funtography-a-gameboy-cameradventure.json) |
 | Funtoon's World | 51964 | [51964-funtoons-world.json](./51964-funtoons-world.json) |
 | FunTown Mahjong | 77280 | [77280-funtown-mahjong.json](./77280-funtown-mahjong.json) |
 | Funus: The Climb | 379895 | [379895-funus-the-climb.json](./379895-funus-the-climb.json) |
