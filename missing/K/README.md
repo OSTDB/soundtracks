@@ -1166,6 +1166,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Conquest | 123060 | [123060-knights-conquest.json](./123060-knights-conquest.json) |
 | Knights in Tight Spaces | 292879 | [292879-knights-in-tight-spaces.json](./292879-knights-in-tight-spaces.json) |
 | Knights of Braveland: Around the World Pack | 255963 | [255963-knights-of-braveland-around-the-world-pack.json](./255963-knights-of-braveland-around-the-world-pack.json) |
+| Knights of Braveland: Fun And Memes | 284505 | [284505-knights-of-braveland-fun-and-memes.json](./284505-knights-of-braveland-fun-and-memes.json) |
+| Knights of Braveland: Hero Pack | 284506 | [284506-knights-of-braveland-hero-pack.json](./284506-knights-of-braveland-hero-pack.json) |
 | Knights of Legend | 47224 | [47224-knights-of-legend.json](./47224-knights-of-legend.json) |
 | Knights of Pen and Paper II | 10126 | [10126-knights-of-pen-and-paper-ii.json](./10126-knights-of-pen-and-paper-ii.json) |
 | Knights of Pen and Paper II: Here Be Dragons | 53260 | [53260-knights-of-pen-and-paper-ii-here-be-dragons.json](./53260-knights-of-pen-and-paper-ii-here-be-dragons.json) |
