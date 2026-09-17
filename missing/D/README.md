@@ -4925,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dysmantle: Doomsday | 240771 | [240771-dysmantle-doomsday.json](./240771-dysmantle-doomsday.json) |
 | Dysnomia | 67231 | [67231-dysnomia.json](./67231-dysnomia.json) |
 | Dysnystaxis (...A Chance Meeting With Somnus) | 271219 | [271219-dysnystaxis-a-chance-meeting-with-somnus.json](./271219-dysnystaxis-a-chance-meeting-with-somnus.json) |
+| Dysphoria | 260808 | [260808-dysphoria.json](./260808-dysphoria.json) |
 | Dysplaced | 258472 | [258472-dysplaced.json](./258472-dysplaced.json) |
 | Dysto-wanderer | 319016 | [319016-dysto-wanderer.json](./319016-dysto-wanderer.json) |
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
