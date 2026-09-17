@@ -4866,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butcher's Creek | 260119 | [260119-butchers-creek.json](./260119-butchers-creek.json) |
 | ButcherBoy | 95605 | [95605-butcherboy.json](./95605-butcherboy.json) |
 | Butcherman | 388746 | [388746-butcherman.json](./388746-butcherman.json) |
+| Butchers Don't Surf! | 243228 | [243228-butchers-dont-surf.json](./243228-butchers-dont-surf.json) |
 | Butt | 314259 | [314259-butt.json](./314259-butt.json) |
 | Butt Gunners | 392806 | [392806-butt-gunners.json](./392806-butt-gunners.json) |
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
