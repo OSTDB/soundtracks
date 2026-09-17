@@ -2251,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Rift Adventure | 342737 | [342737-pixel-rift-adventure.json](./342737-pixel-rift-adventure.json) |
 | Pixel Ripped 1978 | 242384 | [242384-pixel-ripped-1978.json](./242384-pixel-ripped-1978.json) |
 | Pixel Robot Return | 186319 | [186319-pixel-robot-return.json](./186319-pixel-robot-return.json) |
+| Pixel Run! | 252203 | [252203-pixel-run.json](./252203-pixel-run.json) |
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
 | Pixel Shinobi | 373089 | [373089-pixel-shinobi.json](./373089-pixel-shinobi.json) |
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
