@@ -1471,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja: Shadow of the Dash | 311627 | [311627-ninja-shadow-of-the-dash.json](./311627-ninja-shadow-of-the-dash.json) |
 | Ninja: ShadowBlade | 339903 | [339903-ninja-shadowblade.json](./339903-ninja-shadowblade.json) |
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
+| Ninjala Story Pack: Chapter Four | 247585 | [247585-ninjala-story-pack-chapter-four.json](./247585-ninjala-story-pack-chapter-four.json) |
 | Ninjamurai | 44521 | [44521-ninjamurai.json](./44521-ninjamurai.json) |
 | Ninjas Infinity | 339842 | [339842-ninjas-infinity.json](./339842-ninjas-infinity.json) |
 | Ninjas on Trampolines | 351613 | [351613-ninjas-on-trampolines.json](./351613-ninjas-on-trampolines.json) |
@@ -1775,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nom Nom: Cozy Forest Café | 258535 | [258535-nom-nom-cozy-forest-cafe.json](./258535-nom-nom-cozy-forest-cafe.json) |
 | Nomad Idle | 323533 | [323533-nomad-idle.json](./323533-nomad-idle.json) |
 | Nomad of Time | 12957 | [12957-nomad-of-time.json](./12957-nomad-of-time.json) |
+| Nomad Station | 247608 | [247608-nomad-station.json](./247608-nomad-station.json) |
 | Nomad Survival | 197874 | [197874-nomad-survival.json](./197874-nomad-survival.json) |
 | Nomia | 338730 | [338730-nomia.json](./338730-nomia.json) |
 | Nomolos: Storming the Catsle | 48699 | [48699-nomolos-storming-the-catsle.json](./48699-nomolos-storming-the-catsle.json) |
@@ -1907,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Our Home 2 | 156649 | [156649-not-our-home-2.json](./156649-not-our-home-2.json) |
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
 | Not Sonic Flash | 330525 | [330525-not-sonic-flash.json](./330525-not-sonic-flash.json) |
+| Not the North Pole | 247612 | [247612-not-the-north-pole.json](./247612-not-the-north-pole.json) |
 | Not those monsters again... | 233011 | [233011-not-those-monsters-again.json](./233011-not-those-monsters-again.json) |
 | Not Tonight | 96088 | [96088-not-tonight.json](./96088-not-tonight.json) |
 | Not Tonight: One Love | 154560 | [154560-not-tonight-one-love.json](./154560-not-tonight-one-love.json) |
