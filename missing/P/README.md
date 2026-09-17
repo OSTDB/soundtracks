@@ -1970,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Dream | 200 | [200-pipe-dream.json](./200-pipe-dream.json) |
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
 | Pipe Inspector: Plumbocalypse | 336534 | [336534-pipe-inspector-plumbocalypse.json](./336534-pipe-inspector-plumbocalypse.json) |
+| Pipe Line Puzzle | 268572 | [268572-pipe-line-puzzle.json](./268572-pipe-line-puzzle.json) |
 | Pipe Push Paradise | 72519 | [72519-pipe-push-paradise.json](./72519-pipe-push-paradise.json) |
 | Pipe Skull | 185127 | [185127-pipe-skull.json](./185127-pipe-skull.json) |
 | Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
@@ -2152,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint 2: Deluxe Edition | 256267 | [256267-pixel-paint-2-deluxe-edition.json](./256267-pixel-paint-2-deluxe-edition.json) |
 | Pixel Paint 2: Platinum Edition | 283166 | [283166-pixel-paint-2-platinum-edition.json](./283166-pixel-paint-2-platinum-edition.json) |
 | Pixel Paint 2: Premium Edition | 271833 | [271833-pixel-paint-2-premium-edition.json](./271833-pixel-paint-2-premium-edition.json) |
+| Pixel Paint 2: Special Edition | 268545 | [268545-pixel-paint-2-special-edition.json](./268545-pixel-paint-2-special-edition.json) |
 | Pixel Paint 2: Ultimate Edition | 260680 | [260680-pixel-paint-2-ultimate-edition.json](./260680-pixel-paint-2-ultimate-edition.json) |
 | Pixel Paint Together | 300981 | [300981-pixel-paint-together.json](./300981-pixel-paint-together.json) |
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
@@ -3305,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portalnauts | 60589 | [60589-portalnauts.json](./60589-portalnauts.json) |
 | PortalOne Arcade | 181305 | [181305-portalone-arcade.json](./181305-portalone-arcade.json) |
 | Portals of P'Thaal | 142459 | [142459-portals-of-pthaal.json](./142459-portals-of-pthaal.json) |
+| Portals of Phereon | 268548 | [268548-portals-of-phereon.json](./268548-portals-of-phereon.json) |
 | Portentum | 412401 | [412401-portentum.json](./412401-portentum.json) |
 | Porter | 196807 | [196807-porter.json](./196807-porter.json) |
 | Porter | 229060 | [229060-porter.json](./229060-porter.json) |
@@ -3847,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Pool | 49952 | [49952-pro-pool.json](./49952-pro-pool.json) |
 | Pro Rugby Manager 2 | 67949 | [67949-pro-rugby-manager-2.json](./67949-pro-rugby-manager-2.json) |
 | Pro Skateboard Simulator | 69867 | [69867-pro-skateboard-simulator.json](./69867-pro-skateboard-simulator.json) |
+| Pro Stadium | 268525 | [268525-pro-stadium.json](./268525-pro-stadium.json) |
 | Pro Strategy Football 2022 | 165623 | [165623-pro-strategy-football-2022.json](./165623-pro-strategy-football-2022.json) |
 | Pro Strategy Football 2024 | 263776 | [263776-pro-strategy-football-2024.json](./263776-pro-strategy-football-2024.json) |
 | Pro Table Tennis VR | 159872 | [159872-pro-table-tennis-vr.json](./159872-pro-table-tennis-vr.json) |
