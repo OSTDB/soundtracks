@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 London Cats | 282722 | [282722-100-london-cats.json](./282722-100-london-cats.json) |
 | 100 Los Angeles Cats | 334125 | [334125-100-los-angeles-cats.json](./334125-100-los-angeles-cats.json) |
 | 100 Men vs 1 Gorilla | 349879 | [349879-100-men-vs-1-gorilla.json](./349879-100-men-vs-1-gorilla.json) |
+| 100 Meter | 247051 | [247051-100-meter.json](./247051-100-meter.json) |
 | 100 Minutes of /vr/ | 300030 | [300030-100-minutes-of-vr.json](./300030-100-minutes-of-vr.json) |
 | 100 Pics Quiz | 70890 | [70890-100-pics-quiz.json](./70890-100-pics-quiz.json) |
 | 100 Radioactive Cats | 379455 | [379455-100-radioactive-cats.json](./379455-100-radioactive-cats.json) |
@@ -219,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10mg Collection | 141158 | [141158-10mg-collection.json](./141158-10mg-collection.json) |
 | 10Minutes | 258997 | [258997-10minutes.json](./258997-10minutes.json) |
 | 11 Trials of Raz | 379454 | [379454-11-trials-of-raz.json](./379454-11-trials-of-raz.json) |
+| 110 Hurdles | 247052 | [247052-110-hurdles.json](./247052-110-hurdles.json) |
 | 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
 | 1193 Anno Domini: Merchants and Crusaders | 71494 | [71494-1193-anno-domini-merchants-and-crusaders.json](./71494-1193-anno-domini-merchants-and-crusaders.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
@@ -438,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3030 Deathwar Redux | 32952 | [32952-3030-deathwar-redux.json](./32952-3030-deathwar-redux.json) |
 | 3059 | 300002 | [300002-3059.json](./300002-3059.json) |
 | 32 Piece Cliptucky Fried Chicken Special | 260786 | [260786-32-piece-cliptucky-fried-chicken-special.json](./260786-32-piece-cliptucky-fried-chicken-special.json) |
+| 32-in-1 Games | 247015 | [247015-32-in-1-games.json](./247015-32-in-1-games.json) |
 | 32, Dandelion Drift | 348227 | [348227-32-dandelion-drift.json](./348227-32-dandelion-drift.json) |
 | 32nd America's Cup: The Game | 72609 | [72609-32nd-americas-cup-the-game.json](./72609-32nd-americas-cup-the-game.json) |
 | 33 Rounds | 126563 | [126563-33-rounds.json](./126563-33-rounds.json) |
@@ -658,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Hordes | 21414 | [21414-8-bit-hordes.json](./21414-8-bit-hordes.json) |
 | 8-Bit Rebellion! | 255180 | [255180-8-bit-rebellion.json](./255180-8-bit-rebellion.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
+| 8-in-1 Games | 247011 | [247011-8-in-1-games.json](./247011-8-in-1-games.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
 | 80's Overdrive | 58717 | [58717-80s-overdrive.json](./58717-80s-overdrive.json) |
 | 814 | 262347 | [262347-814.json](./262347-814.json) |
