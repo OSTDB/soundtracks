@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 3 | 313511 | [313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json](./313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles: Digital Deluxe Edition | 313133 | [313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json](./313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json) |
 | That Time I Got Reincarnated as a Slime: The Saga of How the Demon Lord and Dragon Founded a Nation | 174820 | [174820-that-time-i-got-reincarnated-as-a-slime-the-saga-of-how-the-demon-lord-and-dragon-founded-a-nation.json](./174820-that-time-i-got-reincarnated-as-a-slime-the-saga-of-how-the-demon-lord-and-dragon-founded-a-nation.json) |
+| That Time I Got Reincarnated as a Succubus | 266307 | [266307-that-time-i-got-reincarnated-as-a-succubus.json](./266307-that-time-i-got-reincarnated-as-a-succubus.json) |
 | That Time in '88 | 181345 | [181345-that-time-in-88.json](./181345-that-time-in-88.json) |
 | That's a Cow: Deluxe Edition | 232994 | [232994-thats-a-cow-deluxe-edition.json](./232994-thats-a-cow-deluxe-edition.json) |
 | That's a Cow: Eggshell | 233001 | [233001-thats-a-cow-eggshell.json](./233001-thats-a-cow-eggshell.json) |
@@ -4267,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rose Princess | 69308 | [69308-the-rose-princess.json](./69308-the-rose-princess.json) |
 | The Rot Below | 386847 | [386847-the-rot-below.json](./386847-the-rot-below.json) |
 | The Round-about Orchard | 386157 | [386157-the-round-about-orchard.json](./386157-the-round-about-orchard.json) |
+| The Route | 266320 | [266320-the-route.json](./266320-the-route.json) |
 | The Royal Finale | 313687 | [313687-the-royal-finale.json](./313687-the-royal-finale.json) |
 | The Royal Heir: Book 1 | 313675 | [313675-the-royal-heir-book-1.json](./313675-the-royal-heir-book-1.json) |
 | The Royal Heir: Book 2 | 313684 | [313684-the-royal-heir-book-2.json](./313684-the-royal-heir-book-2.json) |
@@ -5099,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voluntary Chipping | 272366 | [272366-the-voluntary-chipping.json](./272366-the-voluntary-chipping.json) |
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
 | The Vorezkor Hack | 273417 | [273417-the-vorezkor-hack.json](./273417-the-vorezkor-hack.json) |
+| The Vorlec | 266289 | [266289-the-vorlec.json](./266289-the-vorlec.json) |
 | The Vortex: Quantum Gate II | 73235 | [73235-the-vortex-quantum-gate-ii.json](./73235-the-vortex-quantum-gate-ii.json) |
 | The Voyager's Trail | 180757 | [180757-the-voyagers-trail.json](./180757-the-voyagers-trail.json) |
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
@@ -5671,6 +5674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tialucy and the Underground Labyrinth | 82845 | [82845-tialucy-and-the-underground-labyrinth.json](./82845-tialucy-and-the-underground-labyrinth.json) |
 | Tiamat X | 35900 | [35900-tiamat-x.json](./35900-tiamat-x.json) |
 | Tiamat's Drink | 127198 | [127198-tiamats-drink.json](./127198-tiamats-drink.json) |
+| Tian Wang Xiang Mo Zhuan | 266286 | [266286-tian-wang-xiang-mo-zhuan.json](./266286-tian-wang-xiang-mo-zhuan.json) |
 | Tiān Yuán Chuánshuō | 407320 | [407320-tian-yuan-chuanshuo.json](./407320-tian-yuan-chuanshuo.json) |
 | Tiana's Fishing Diary | 390640 | [390640-tianas-fishing-diary.json](./390640-tianas-fishing-diary.json) |
 | Tiāndào: Gōngdé Chāojí Bāo | 347223 | [347223-tiandao-gongde-chaoji-bao.json](./347223-tiandao-gongde-chaoji-bao.json) |
@@ -7007,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tortured Souls | 293224 | [293224-tortured-souls.json](./293224-tortured-souls.json) |
 | Torus | 214725 | [214725-torus.json](./214725-torus.json) |
 | Torus Zero: Dare ga Neko wo Koroshita ka | 340384 | [340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json](./340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json) |
+| Toryumon | 266284 | [266284-toryumon.json](./266284-toryumon.json) |
 | Toshi Tensou Keikaku: Eternal City | 37725 | [37725-toshi-tensou-keikaku-eternal-city.json](./37725-toshi-tensou-keikaku-eternal-city.json) |
 | Toshinden Card Quest | 43946 | [43946-toshinden-card-quest.json](./43946-toshinden-card-quest.json) |
 | Toshishita Kanojo | 382783 | [382783-toshishita-kanojo.json](./382783-toshishita-kanojo.json) |
