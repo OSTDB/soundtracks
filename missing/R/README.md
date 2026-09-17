@@ -2025,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
 | Rigel's Revenge | 55084 | [55084-rigels-revenge.json](./55084-rigels-revenge.json) |
+| Rigged Hammer | 247030 | [247030-rigged-hammer.json](./247030-rigged-hammer.json) |
 | Right and Down | 207494 | [207494-right-and-down.json](./207494-right-and-down.json) |
 | Right and Down Double Bundle | 294855 | [294855-right-and-down-double-bundle.json](./294855-right-and-down-double-bundle.json) |
 | Right Swipes: Blast Date | 200735 | [200735-right-swipes-blast-date.json](./200735-right-swipes-blast-date.json) |
