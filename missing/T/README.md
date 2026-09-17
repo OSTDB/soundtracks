@@ -4602,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Skullkid | 230259 | [230259-the-skullkid.json](./230259-the-skullkid.json) |
 | The Sky Crawlers: Innocent Aces | 5160 | [5160-the-sky-crawlers-innocent-aces.json](./5160-the-sky-crawlers-innocent-aces.json) |
 | The Sky House | 305341 | [305341-the-sky-house.json](./305341-the-sky-house.json) |
+| The Sky May Be | 252213 | [252213-the-sky-may-be.json](./252213-the-sky-may-be.json) |
 | The Slasher Camp Massacre | 218738 | [218738-the-slasher-camp-massacre.json](./218738-the-slasher-camp-massacre.json) |
 | The Slater | 104815 | [104815-the-slater.json](./104815-the-slater.json) |
 | The Slaughtering Grounds | 13374 | [13374-the-slaughtering-grounds.json](./13374-the-slaughtering-grounds.json) |
@@ -6308,6 +6309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Only Knows | 208411 | [208411-time-only-knows.json](./208411-time-only-knows.json) |
 | Time Pilot | 246402 | [246402-time-pilot.json](./246402-time-pilot.json) |
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
+| Time Raiders | 252232 | [252232-time-raiders.json](./252232-time-raiders.json) |
 | Time Ramesside | 9050 | [9050-time-ramesside.json](./9050-time-ramesside.json) |
 | Time Scanner | 12865 | [12865-time-scanner.json](./12865-time-scanner.json) |
 | Time Secret | 91457 | [91457-time-secret.json](./91457-time-secret.json) |
