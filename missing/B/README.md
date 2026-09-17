@@ -3700,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowmen | 129731 | [129731-bowmen.json](./129731-bowmen.json) |
 | Bowmen | 277383 | [277383-bowmen.json](./277383-bowmen.json) |
 | Bows Space | 359396 | [359396-bows-space.json](./359396-bows-space.json) |
+| Bowser Jr.'s Journey | 266895 | [266895-bowser-jr-s-journey.json](./266895-bowser-jr-s-journey.json) |
 | Bowser's Dank Rave 2017 Edition: Extra Long Name That I Don't Feel Like Typing | 313330 | [313330-bowsers-dank-rave-2017-edition-extra-long-name-that-i-dont-feel-like-typing.json](./313330-bowsers-dank-rave-2017-edition-extra-long-name-that-i-dont-feel-like-typing.json) |
 | Bowser's Diary: Take the Quiz! | 328602 | [328602-bowsers-diary-take-the-quiz.json](./328602-bowsers-diary-take-the-quiz.json) |
 | Bowser's Fury | 142909 | [142909-bowsers-fury.json](./142909-bowsers-fury.json) |
@@ -4255,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS SimCity: Machi Tsukuri Taikai - Scenario 2 | 179712 | [179712-bs-simcity-machi-tsukuri-taikai-scenario-2.json](./179712-bs-simcity-machi-tsukuri-taikai-scenario-2.json) |
 | BS SimCity: Machi Tsukuri Taikai - Scenario 3 | 179713 | [179713-bs-simcity-machi-tsukuri-taikai-scenario-3.json](./179713-bs-simcity-machi-tsukuri-taikai-scenario-3.json) |
 | BS SimCity: Machi Tsukuri Taikai - Scenario 4 | 179714 | [179714-bs-simcity-machi-tsukuri-taikai-scenario-4.json](./179714-bs-simcity-machi-tsukuri-taikai-scenario-4.json) |
+| BS Super Aleste | 266871 | [266871-bs-super-aleste.json](./266871-bs-super-aleste.json) |
 | BS Super Mario Collection: Dai-1-shuu | 179729 | [179729-bs-super-mario-collection-dai-1-shuu.json](./179729-bs-super-mario-collection-dai-1-shuu.json) |
 | BS Super Mario Collection: Dai-2-shuu | 179730 | [179730-bs-super-mario-collection-dai-2-shuu.json](./179730-bs-super-mario-collection-dai-2-shuu.json) |
 | BS Super Mario Collection: Dai-3-shuu | 179736 | [179736-bs-super-mario-collection-dai-3-shuu.json](./179736-bs-super-mario-collection-dai-3-shuu.json) |
@@ -4641,6 +4643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnin' Rubber 6 | 320749 | [320749-burnin-rubber-6.json](./320749-burnin-rubber-6.json) |
 | Burnin' Rubber Shift | 237965 | [237965-burnin-rubber-shift.json](./237965-burnin-rubber-shift.json) |
 | Burninate the Barnyard | 231613 | [231613-burninate-the-barnyard.json](./231613-burninate-the-barnyard.json) |
+| Burning Angels | 266889 | [266889-burning-angels.json](./266889-burning-angels.json) |
 | Burning Angels | 37719 | [37719-burning-angels.json](./37719-burning-angels.json) |
 | Burning Dead | 226777 | [226777-burning-dead.json](./226777-burning-dead.json) |
 | Burning Dragon | 61555 | [61555-burning-dragon.json](./61555-burning-dragon.json) |
