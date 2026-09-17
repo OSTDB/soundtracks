@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Jewel | 359394 | [359394-magic-jewel.json](./359394-magic-jewel.json) |
 | Magic John | 215143 | [215143-magic-john.json](./215143-magic-john.json) |
 | Magic Johnson's Basketball | 12835 | [12835-magic-johnsons-basketball.json](./12835-magic-johnsons-basketball.json) |
+| Magic Kaleidoscope | 257459 | [257459-magic-kaleidoscope.json](./257459-magic-kaleidoscope.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
 | Magic Knight Rayearth | 38375 | [38375-magic-knight-rayearth.json](./38375-magic-knight-rayearth.json) |
 | Magic Knight Rayearth 2: Making of Magic Knight | 45265 | [45265-magic-knight-rayearth-2-making-of-magic-knight.json](./45265-magic-knight-rayearth-2-making-of-magic-knight.json) |
@@ -1729,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mean Beans | 236289 | [236289-mean-beans.json](./236289-mean-beans.json) |
 | Meander | 108986 | [108986-meander.json](./108986-meander.json) |
 | Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
+| Méandres | 257430 | [257430-meandres.json](./257430-meandres.json) |
 | Meaning | 82891 | [82891-meaning.json](./82891-meaning.json) |
 | Meaningful Adventures | 218479 | [218479-meaningful-adventures.json](./218479-meaningful-adventures.json) |
 | Meaningless Tragedy | 397046 | [397046-meaningless-tragedy.json](./397046-meaningless-tragedy.json) |
@@ -2179,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody Mania | 247782 | [247782-melody-mania.json](./247782-melody-mania.json) |
 | Melody Master | 41988 | [41988-melody-master.json](./41988-melody-master.json) |
 | Melody of the Light | 181909 | [181909-melody-of-the-light.json](./181909-melody-of-the-light.json) |
+| Melody Quest | 257444 | [257444-melody-quest.json](./257444-melody-quest.json) |
 | Melody's Escape 2 | 217497 | [217497-melodys-escape-2.json](./217497-melodys-escape-2.json) |
 | Melon | 314248 | [314248-melon.json](./314248-melon.json) |
 | Melon Bounce | 366250 | [366250-melon-bounce.json](./366250-melon-bounce.json) |
@@ -3058,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimics the Bots | 238514 | [238514-mimics-the-bots.json](./238514-mimics-the-bots.json) |
 | Mimizu Panzer | 267645 | [267645-mimizu-panzer.json](./267645-mimizu-panzer.json) |
 | Mimpi Hidden Objects | 242561 | [242561-mimpi-hidden-objects.json](./242561-mimpi-hidden-objects.json) |
+| Mimpi Volleyball | 257468 | [257468-mimpi-volleyball.json](./257468-mimpi-volleyball.json) |
 | Mina | 373622 | [373622-mina.json](./373622-mina.json) |
 | Mina & Michi | 152408 | [152408-mina-and-michi.json](./152408-mina-and-michi.json) |
 | Mina the Hollower GBC Demake | 305750 | [305750-mina-the-hollower-gbc-demake.json](./305750-mina-the-hollower-gbc-demake.json) |
@@ -4638,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Hyper Edition | 338005 | [338005-moto-rush-gt-hyper-edition.json](./338005-moto-rush-gt-hyper-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
 | Moto Rush GT: Ultra Edition | 332512 | [332512-moto-rush-gt-ultra-edition.json](./332512-moto-rush-gt-ultra-edition.json) |
+| Moto Wheelie | 257469 | [257469-moto-wheelie.json](./257469-moto-wheelie.json) |
 | Moto X3M 2 | 95990 | [95990-moto-x3m-2.json](./95990-moto-x3m-2.json) |
 | Moto X3M 3 | 142394 | [142394-moto-x3m-3.json](./142394-moto-x3m-3.json) |
 | Motobug the Badnik in Sonic the Hedgehog | 201831 | [201831-motobug-the-badnik-in-sonic-the-hedgehog.json](./201831-motobug-the-badnik-in-sonic-the-hedgehog.json) |
