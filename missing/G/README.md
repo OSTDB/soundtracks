@@ -1527,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GodsArena Online | 368541 | [368541-godsarena-online.json](./368541-godsarena-online.json) |
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
 | Godsworn | 213612 | [213612-godsworn.json](./213612-godsworn.json) |
+| Godwalker | 260240 | [260240-godwalker.json](./260240-godwalker.json) |
 | Godzilla | 75888 | [75888-godzilla.json](./75888-godzilla.json) |
 | Godzilla | 75892 | [75892-godzilla.json](./75892-godzilla.json) |
 | Godzilla | 7744 | [7744-godzilla.json](./7744-godzilla.json) |
@@ -2035,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandia HD Collection | 107214 | [107214-grandia-hd-collection.json](./107214-grandia-hd-collection.json) |
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
 | Grandma's Guide to the Grand Outside | 415110 | [415110-grandmas-guide-to-the-grand-outside.json](./415110-grandmas-guide-to-the-grand-outside.json) |
+| Grandma(88) | 260251 | [260251-grandma-88.json](./260251-grandma-88.json) |
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
 | Grandslam: The Tennis Tournament | 81410 | [81410-grandslam-the-tennis-tournament.json](./81410-grandslam-the-tennis-tournament.json) |
