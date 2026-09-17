@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep it Live | 194666 | [194666-keep-it-live.json](./194666-keep-it-live.json) |
 | Keep It Running | 283747 | [283747-keep-it-running.json](./283747-keep-it-running.json) |
 | Keep It Steady! | 295893 | [295893-keep-it-steady.json](./295893-keep-it-steady.json) |
+| Keep Keepers | 272363 | [272363-keep-keepers.json](./272363-keep-keepers.json) |
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
 | Keep Me Breathing | 176988 | [176988-keep-me-breathing.json](./176988-keep-me-breathing.json) |
 | Keep Me Posted | 223169 | [223169-keep-me-posted.json](./223169-keep-me-posted.json) |
@@ -1391,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
 | Kouhai wo Iwau Saisho no Fuyu | 406204 | [406204-kouhai-wo-iwau-saisho-no-fuyu.json](./406204-kouhai-wo-iwau-saisho-no-fuyu.json) |
 | Koutetsu Yousai Strahl | 40221 | [40221-koutetsu-yousai-strahl.json](./40221-koutetsu-yousai-strahl.json) |
+| Kov | 272373 | [272373-kov.json](./272373-kov.json) |
 | Kova | 27883 | [27883-kova.json](./27883-kova.json) |
 | KovaaK 2.0: Tracking Trainer | 171035 | [171035-kovaak-2-0-tracking-trainer.json](./171035-kovaak-2-0-tracking-trainer.json) |
 | Kowi Ishto: Battle of Akonoli | 125476 | [125476-kowi-ishto-battle-of-akonoli.json](./125476-kowi-ishto-battle-of-akonoli.json) |
