@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Evolution Duality: Inception Part 2 | 171633 | [171633-hacker-evolution-duality-inception-part-2.json](./171633-hacker-evolution-duality-inception-part-2.json) |
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
 | Hacking Into Erebus | 412415 | [412415-hacking-into-erebus.json](./412415-hacking-into-erebus.json) |
+| Hacking Simulator | 256363 | [256363-hacking-simulator.json](./256363-hacking-simulator.json) |
 | HackLab | 185142 | [185142-hacklab.json](./185142-hacklab.json) |
 | Hacknet | 11707 | [11707-hacknet.json](./11707-hacknet.json) |
 | Hackshot | 173263 | [173263-hackshot.json](./173263-hackshot.json) |
@@ -2076,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
 | HiLight: Touch the light! | 265760 | [265760-hilight-touch-the-light.json](./265760-hilight-touch-the-light.json) |
 | Hill 4x4 Tuning Rivals | 255733 | [255733-hill-4x4-tuning-rivals.json](./255733-hill-4x4-tuning-rivals.json) |
+| Hill Climb Runner | 256351 | [256351-hill-climb-runner.json](./256351-hill-climb-runner.json) |
 | Hill Climbing 2 | 213385 | [213385-hill-climbing-2.json](./213385-hill-climbing-2.json) |
 | Hill Defender | 349933 | [349933-hill-defender.json](./349933-hill-defender.json) |
 | Hillary Race for the White House | 343880 | [343880-hillary-race-for-the-white-house.json](./343880-hillary-race-for-the-white-house.json) |
@@ -3312,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperborea | 117703 | [117703-hyperborea.json](./117703-hyperborea.json) |
 | Hyperborean Charter | 113025 | [113025-hyperborean-charter.json](./113025-hyperborean-charter.json) |
 | Hyperbowl | 14316 | [14316-hyperbowl.json](./14316-hyperbowl.json) |
+| Hyperbowl Plus! Edition | 256373 | [256373-hyperbowl-plus-edition.json](./256373-hyperbowl-plus-edition.json) |
 | HyperBowl Tokyo | 263583 | [263583-hyperbowl-tokyo.json](./263583-hyperbowl-tokyo.json) |
 | HyperBrawl Tournament: Ultimate Edition | 188012 | [188012-hyperbrawl-tournament-ultimate-edition.json](./188012-hyperbrawl-tournament-ultimate-edition.json) |
 | Hyperburner | 94780 | [94780-hyperburner.json](./94780-hyperburner.json) |
