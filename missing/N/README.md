@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Your Eyes | 156660 | [156660-not-your-eyes.json](./156660-not-your-eyes.json) |
 | Notch: The Innocent LunA - Eclipsed SinnerS | 17877 | [17877-notch-the-innocent-luna-eclipsed-sinners.json](./17877-notch-the-innocent-luna-eclipsed-sinners.json) |
 | Note to Self | 70376 | [70376-note-to-self.json](./70376-note-to-self.json) |
+| NoteBlaster | 260766 | [260766-noteblaster.json](./260766-noteblaster.json) |
 | Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
 | Nother | 30899 | [30899-nother.json](./30899-nother.json) |
@@ -1947,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Npool: Skins Pack 2 | 316249 | [316249-npool-skins-pack-2.json](./316249-npool-skins-pack-2.json) |
 | Npool: Skins Pack 3 | 316248 | [316248-npool-skins-pack-3.json](./316248-npool-skins-pack-3.json) |
 | NPool: Snooker Mode | 314891 | [314891-npool-snooker-mode.json](./314891-npool-snooker-mode.json) |
+| NPOZ The Game | 260746 | [260746-npoz-the-game.json](./260746-npoz-the-game.json) |
 | NRA Gun Club | 20575 | [20575-nra-gun-club.json](./20575-nra-gun-club.json) |
 | Nrg | 174348 | [174348-nrg.json](./174348-nrg.json) |
 | NSFW: Not a Simulator for Working | 25606 | [25606-nsfw-not-a-simulator-for-working.json](./25606-nsfw-not-a-simulator-for-working.json) |
