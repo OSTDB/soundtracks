@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qdice | 232975 | [232975-qdice.json](./232975-qdice.json) |
 | QED Refine/Succeed | 125392 | [125392-qed-refine-succeed.json](./125392-qed-refine-succeed.json) |
 | Qelochia | 384498 | [384498-qelochia.json](./384498-qelochia.json) |
+| Qi Shen Nong Gui | 277960 | [277960-qi-shen-nong-gui.json](./277960-qi-shen-nong-gui.json) |
 | Qiángjūn | 98982 | [98982-qiangjun.json](./98982-qiangjun.json) |
 | Qianli: The Vastscape Scroll | 399598 | [399598-qianli-the-vastscape-scroll.json](./399598-qianli-the-vastscape-scroll.json) |
 | Qǐluó Sìshí Tán | 130935 | [130935-qiluo-sishi-tan.json](./130935-qiluo-sishi-tan.json) |
@@ -215,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Hunter | 32396 | [32396-quest-hunter.json](./32396-quest-hunter.json) |
 | Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
 | Quest of Dungeons | 16932 | [16932-quest-of-dungeons.json](./16932-quest-of-dungeons.json) |
+| Quest of Goddess | 277945 | [277945-quest-of-goddess.json](./277945-quest-of-goddess.json) |
 | Quest of Legend | 334202 | [334202-quest-of-legend.json](./334202-quest-of-legend.json) |
 | Quest of the Dragon Soul | 295926 | [295926-quest-of-the-dragon-soul.json](./295926-quest-of-the-dragon-soul.json) |
 | Quest Room | 199565 | [199565-quest-room.json](./199565-quest-room.json) |
@@ -315,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuizMi | 318989 | [318989-quizmi.json](./318989-quizmi.json) |
 | QuizTreff | 397785 | [397785-quiztreff.json](./397785-quiztreff.json) |
 | QuizWitz | 57119 | [57119-quizwitz.json](./57119-quizwitz.json) |
+| Quizz | 277976 | [277976-quizz.json](./277976-quizz.json) |
 | Qullusrent3 | 307758 | [307758-qullusrent3.json](./307758-qullusrent3.json) |
 | Quod Init Exit IIo | 403558 | [403558-quod-init-exit-iio.json](./403558-quod-init-exit-iio.json) |
 | Quod: Episode 1 | 288185 | [288185-quod-episode-1.json](./288185-quod-episode-1.json) |
