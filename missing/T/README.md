@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Life: Supporter Pack | 293400 | [293400-taxi-life-supporter-pack.json](./293400-taxi-life-supporter-pack.json) |
 | Taxi of Miracles | 229932 | [229932-taxi-of-miracles.json](./229932-taxi-of-miracles.json) |
 | Taxi of Miracles: Collector's Edition | 229933 | [229933-taxi-of-miracles-collectors-edition.json](./229933-taxi-of-miracles-collectors-edition.json) |
+| Taxi of the Asteroids | 242080 | [242080-taxi-of-the-asteroids.json](./242080-taxi-of-the-asteroids.json) |
 | Taxi Racing Challenge | 237656 | [237656-taxi-racing-challenge.json](./237656-taxi-racing-challenge.json) |
 | Taxi Run | 254752 | [254752-taxi-run.json](./254752-taxi-run.json) |
 | Taxi Sim 2016 | 262382 | [262382-taxi-sim-2016.json](./262382-taxi-sim-2016.json) |
@@ -8875,6 +8876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tutututu: Tea party | 120318 | [120318-tutututu-tea-party.json](./120318-tutututu-tea-party.json) |
 | Tux and Fanny | 166675 | [166675-tux-and-fanny.json](./166675-tux-and-fanny.json) |
 | Tux, of Math Command | 242812 | [242812-tux-of-math-command.json](./242812-tux-of-math-command.json) |
+| Tuya | 242053 | [242053-tuya.json](./242053-tuya.json) |
 | TV Archive: Tidy Up Together | 411668 | [411668-tv-archive-tidy-up-together.json](./411668-tv-archive-tidy-up-together.json) |
 | TV Boxing | 247010 | [247010-tv-boxing.json](./247010-tv-boxing.json) |
 | TV Calibration | 81233 | [81233-tv-calibration.json](./81233-tv-calibration.json) |
@@ -9045,6 +9047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type the Rhythm | 389582 | [389582-type-the-rhythm.json](./389582-type-the-rhythm.json) |
+| Type: Jump | 242076 | [242076-type-jump.json](./242076-type-jump.json) |
 | Type: Turbo | 391740 | [391740-type-turbo.json](./391740-type-turbo.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
 | Typeshift | 27884 | [27884-typeshift.json](./27884-typeshift.json) |
