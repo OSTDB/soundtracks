@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazz Jackrabbit 2: The Secret Files | 51347 | [51347-jazz-jackrabbit-2-the-secret-files.json](./51347-jazz-jackrabbit-2-the-secret-files.json) |
 | Jazz Jackrabbit 3 | 72667 | [72667-jazz-jackrabbit-3.json](./72667-jazz-jackrabbit-3.json) |
 | Jazz Lightning : Castle Dungeons | 126644 | [126644-jazz-lightning-castle-dungeons.json](./126644-jazz-lightning-castle-dungeons.json) |
+| Jazz Smash | 260767 | [260767-jazz-smash.json](./260767-jazz-smash.json) |
 | Jazz Time | 181316 | [181316-jazz-time.json](./181316-jazz-time.json) |
 | Jazzpunk: Flavour Nexus | 124832 | [124832-jazzpunk-flavour-nexus.json](./124832-jazzpunk-flavour-nexus.json) |
 | JB Hairboll in: Murder Flub | 59414 | [59414-jb-hairboll-in-murder-flub.json](./59414-jb-hairboll-in-murder-flub.json) |
