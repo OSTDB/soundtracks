@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamp of Aladdin | 23922 | [23922-lamp-of-aladdin.json](./23922-lamp-of-aladdin.json) |
 | Lamplight City | 79999 | [79999-lamplight-city.json](./79999-lamplight-city.json) |
 | LampMan | 317421 | [317421-lampman.json](./317421-lampman.json) |
+| Lamprey | 277380 | [277380-lamprey.json](./277380-lamprey.json) |
 | Lampyridae Matsuri | 185594 | [185594-lampyridae-matsuri.json](./185594-lampyridae-matsuri.json) |
 | Lán Shízhàn Duì | 158649 | [158649-lan-shizhan-dui.json](./158649-lan-shizhan-dui.json) |
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
@@ -1682,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lives so Sweet | 124199 | [124199-lives-so-sweet.json](./124199-lives-so-sweet.json) |
 | LiveStream | 394170 | [394170-livestream.json](./394170-livestream.json) |
 | Livestream: Escape from Hotel Izanami | 146928 | [146928-livestream-escape-from-hotel-izanami.json](./146928-livestream-escape-from-hotel-izanami.json) |
+| Livets Hopp | 277381 | [277381-livets-hopp.json](./277381-livets-hopp.json) |
 | Liveza: Death of the Earth | 32960 | [32960-liveza-death-of-the-earth.json](./32960-liveza-death-of-the-earth.json) |
 | Livid Meadow | 271209 | [271209-livid-meadow.json](./271209-livid-meadow.json) |
 | Living Books: Little Monster at School | 45917 | [45917-living-books-little-monster-at-school.json](./45917-living-books-little-monster-at-school.json) |
