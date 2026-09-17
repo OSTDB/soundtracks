@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare 3 - Defiance | 134652 | [134652-call-of-duty-modern-warfare-3-defiance.json](./134652-call-of-duty-modern-warfare-3-defiance.json) |
 | Call of Duty: Modern Warfare II - Griffin: Pro Pack | 254759 | [254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json](./254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json) |
 | Call of Duty: Modern Warfare III - Season 1 | 279645 | [279645-call-of-duty-modern-warfare-iii-season-1.json](./279645-call-of-duty-modern-warfare-iii-season-1.json) |
+| Call of Duty: Modern Warfare III - Season 2 | 285601 | [285601-call-of-duty-modern-warfare-iii-season-2.json](./285601-call-of-duty-modern-warfare-iii-season-2.json) |
 | Call of Duty: Modern Warfare III - Season 3 | 298563 | [298563-call-of-duty-modern-warfare-iii-season-3.json](./298563-call-of-duty-modern-warfare-iii-season-3.json) |
 | Call of Duty: Modern Warfare III - Season 4 | 304046 | [304046-call-of-duty-modern-warfare-iii-season-4.json](./304046-call-of-duty-modern-warfare-iii-season-4.json) |
 | Call of Duty: Modern Warfare III - Season 5 | 308961 | [308961-call-of-duty-modern-warfare-iii-season-5.json](./308961-call-of-duty-modern-warfare-iii-season-5.json) |
@@ -1605,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernomeat Survival Game | 118442 | [118442-chernomeat-survival-game.json](./118442-chernomeat-survival-game.json) |
 | Cherophobia | 301978 | [301978-cherophobia.json](./301978-cherophobia.json) |
 | Cherry Blossom Portable | 56471 | [56471-cherry-blossom-portable.json](./56471-cherry-blossom-portable.json) |
+| Cherry Bomb | 285589 | [285589-cherry-bomb.json](./285589-cherry-bomb.json) |
 | Cherry Girls vs. Zombie Carnage: Brutal Anime Kawaii | 399619 | [399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json](./399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json) |
 | Cherry Island | 126552 | [126552-cherry-island.json](./126552-cherry-island.json) |
 | Cherry Kisses | 198466 | [198466-cherry-kisses.json](./198466-cherry-kisses.json) |
@@ -2016,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Matchup | 92963 | [92963-christmas-matchup.json](./92963-christmas-matchup.json) |
 | Christmas Otome | 125412 | [125412-christmas-otome.json](./125412-christmas-otome.json) |
 | Christmas Patchwork Frozen | 286522 | [286522-christmas-patchwork-frozen.json](./286522-christmas-patchwork-frozen.json) |
+| Christmas Present | 285567 | [285567-christmas-present.json](./285567-christmas-present.json) |
 | Christmas Puzzle 3 | 76672 | [76672-christmas-puzzle-3.json](./76672-christmas-puzzle-3.json) |
 | Christmas Puzzle 4 | 279001 | [279001-christmas-puzzle-4.json](./279001-christmas-puzzle-4.json) |
 | Christmas Race | 322983 | [322983-christmas-race.json](./322983-christmas-race.json) |
@@ -2914,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Lacrosse 2012 | 61036 | [61036-college-lacrosse-2012.json](./61036-college-lacrosse-2012.json) |
 | College Lacrosse 2014 | 87888 | [87888-college-lacrosse-2014.json](./87888-college-lacrosse-2014.json) |
 | College Sex Fest 2024 | 297095 | [297095-college-sex-fest-2024.json](./297095-college-sex-fest-2024.json) |
+| College Sex: Episode 6 | 285603 | [285603-college-sex-episode-6.json](./285603-college-sex-episode-6.json) |
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
 | Colliderscope | 109673 | [109673-colliderscope.json](./109673-colliderscope.json) |
@@ -3492,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
 | Contractors VR | 111625 | [111625-contractors-vr.json](./111625-contractors-vr.json) |
+| ContractVille | 285577 | [285577-contractville.json](./285577-contractville.json) |
 | Contradiction: Spot the Liar! | 11333 | [11333-contradiction-spot-the-liar.json](./11333-contradiction-spot-the-liar.json) |
 | Contraption | 57121 | [57121-contraption.json](./57121-contraption.json) |
 | Contraption Maker | 9802 | [9802-contraption-maker.json](./9802-contraption-maker.json) |
