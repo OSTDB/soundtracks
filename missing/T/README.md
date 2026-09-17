@@ -4478,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Colorful Stories - Happy Edition | 328792 | [328792-the-smurfs-colorful-stories-happy-edition.json](./328792-the-smurfs-colorful-stories-happy-edition.json) |
 | The Smurfs: Colorful Stories - Legendary Edition | 328793 | [328793-the-smurfs-colorful-stories-legendary-edition.json](./328793-the-smurfs-colorful-stories-legendary-edition.json) |
 | The Smurfs: Colorful Stories - Magnificent Edition | 328794 | [328794-the-smurfs-colorful-stories-magnificent-edition.json](./328794-the-smurfs-colorful-stories-magnificent-edition.json) |
+| The Smurfs: Colorful Stories - Personal Boards 1 | 283261 | [283261-the-smurfs-colorful-stories-personal-boards-1.json](./283261-the-smurfs-colorful-stories-personal-boards-1.json) |
 | The Smurfs: Colorful Stories - Personal Boards 2 | 284507 | [284507-the-smurfs-colorful-stories-personal-boards-2.json](./284507-the-smurfs-colorful-stories-personal-boards-2.json) |
 | The Smurfs: Colorful Stories - Personal Boards 5 | 294854 | [294854-the-smurfs-colorful-stories-personal-boards-5.json](./294854-the-smurfs-colorful-stories-personal-boards-5.json) |
 | The Smurfs: Colorful Stories - Personal Boards 6 | 298588 | [298588-the-smurfs-colorful-stories-personal-boards-6.json](./298588-the-smurfs-colorful-stories-personal-boards-6.json) |
