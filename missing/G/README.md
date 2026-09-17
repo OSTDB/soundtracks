@@ -2402,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm Meisaku Gekijou Vol. 1: Bremen no Ongakutai | 245314 | [245314-grimm-meisaku-gekijou-vol-1-bremen-no-ongakutai.json](./245314-grimm-meisaku-gekijou-vol-1-bremen-no-ongakutai.json) |
 | Grimm Meisaku Gekijou Vol. 2: Hansel to Gretel | 245315 | [245315-grimm-meisaku-gekijou-vol-2-hansel-to-gretel.json](./245315-grimm-meisaku-gekijou-vol-2-hansel-to-gretel.json) |
 | Grimm Meisaku Gekijou Vol. 3: Akazukin | 245316 | [245316-grimm-meisaku-gekijou-vol-3-akazukin.json](./245316-grimm-meisaku-gekijou-vol-3-akazukin.json) |
+| Grimm of the Dome | 245908 | [245908-grimm-of-the-dome.json](./245908-grimm-of-the-dome.json) |
 | Grimm Shuffle | 158670 | [158670-grimm-shuffle.json](./158670-grimm-shuffle.json) |
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
 | Grimoire Organizer | 282146 | [282146-grimoire-organizer.json](./282146-grimoire-organizer.json) |
