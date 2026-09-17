@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymaker: Release From Doomsday | 265654 | [265654-daymaker-release-from-doomsday.json](./265654-daymaker-release-from-doomsday.json) |
 | Daymare Cat: 10-year Anniversary | 257659 | [257659-daymare-cat-10-year-anniversary.json](./257659-daymare-cat-10-year-anniversary.json) |
 | Daymare Stray | 250344 | [250344-daymare-stray.json](./250344-daymare-stray.json) |
+| Daymare Town | 257446 | [257446-daymare-town.json](./257446-daymare-town.json) |
 | Daymare Town 2 | 257642 | [257642-daymare-town-2.json](./257642-daymare-town-2.json) |
 | Daymare Town 2 | 257643 | [257643-daymare-town-2.json](./257643-daymare-town-2.json) |
 | Daymare Town 3 | 257644 | [257644-daymare-town-3.json](./257644-daymare-town-3.json) |
@@ -1226,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decaying Flowers | 98459 | [98459-decaying-flowers.json](./98459-decaying-flowers.json) |
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Deceit 2 | 239561 | [239561-deceit-2.json](./239561-deceit-2.json) |
+| Deceive Inc.: Neon Nights | 257432 | [257432-deceive-inc-neon-nights.json](./257432-deceive-inc-neon-nights.json) |
 | December 3rd | 392758 | [392758-december-3rd.json](./392758-december-3rd.json) |
 | Decent Into Sector 32 | 165641 | [165641-decent-into-sector-32.json](./165641-decent-into-sector-32.json) |
 | Deceptiive Love Ballad The Blasphemer | 386840 | [386840-deceptiive-love-ballad-the-blasphemer.json](./386840-deceptiive-love-ballad-the-blasphemer.json) |
