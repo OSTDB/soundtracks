@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Break | 159355 | [159355-chain-break.json](./159355-chain-break.json) |
 | Chain Champs | 177011 | [177011-chain-champs.json](./177011-chain-champs.json) |
 | Chain Corp | 351115 | [351115-chain-corp.json](./351115-chain-corp.json) |
+| Chain Crisis | 271288 | [271288-chain-crisis.json](./271288-chain-crisis.json) |
 | Chain Crusher | 124771 | [124771-chain-crusher.json](./124771-chain-crusher.json) |
 | Chain of Eroticism | 163400 | [163400-chain-of-eroticism.json](./163400-chain-of-eroticism.json) |
 | Chain Quest | 200106 | [200106-chain-quest.json](./200106-chain-quest.json) |
@@ -2617,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Pussy | 158218 | [158218-clockwork-pussy.json](./158218-clockwork-pussy.json) |
 | Clockwork Rabbit | 319814 | [319814-clockwork-rabbit.json](./319814-clockwork-rabbit.json) |
 | Clockwork Tales: Of Glass and Ink | 17141 | [17141-clockwork-tales-of-glass-and-ink.json](./17141-clockwork-tales-of-glass-and-ink.json) |
+| Cloisterfuck | 271296 | [271296-cloisterfuck.json](./271296-cloisterfuck.json) |
 | Clone | 64959 | [64959-clone.json](./64959-clone.json) |
 | Clone Clicker | 278431 | [278431-clone-clicker.json](./278431-clone-clicker.json) |
 | Clone Hero: Guitar Hero Tracklist | 294143 | [294143-clone-hero-guitar-hero-tracklist.json](./294143-clone-hero-guitar-hero-tracklist.json) |
@@ -3383,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conexus | 202920 | [202920-conexus.json](./202920-conexus.json) |
 | Confabulation: Homestead | 244776 | [244776-confabulation-homestead.json](./244776-confabulation-homestead.json) |
 | Confederate Express | 62730 | [62730-confederate-express.json](./62730-confederate-express.json) |
+| Conference of the Shamblers | 271294 | [271294-conference-of-the-shamblers.json](./271294-conference-of-the-shamblers.json) |
 | Confession Box | 417559 | [417559-confession-box.json](./417559-confession-box.json) |
 | Confession of the Golden Witch | 255386 | [255386-confession-of-the-golden-witch.json](./255386-confession-of-the-golden-witch.json) |
 | Confettied | 412395 | [412395-confettied.json](./412395-confettied.json) |
