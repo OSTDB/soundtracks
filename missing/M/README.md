@@ -2917,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikey Boots | 140610 | [140610-mikey-boots.json](./140610-mikey-boots.json) |
 | Mikie: High School Graffiti | 84164 | [84164-mikie-high-school-graffiti.json](./84164-mikie-high-school-graffiti.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
+| Miku Chan's Robot | 277400 | [277400-miku-chans-robot.json](./277400-miku-chans-robot.json) |
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
 | Miku Miku Hockey | 62780 | [62780-miku-miku-hockey.json](./62780-miku-miku-hockey.json) |
 | Miku Runner | 289890 | [289890-miku-runner.json](./289890-miku-runner.json) |
@@ -3500,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Invasion Force | 70403 | [70403-mission-invasion-force.json](./70403-mission-invasion-force.json) |
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
 | Mission: Space | 264028 | [264028-mission-space.json](./264028-mission-space.json) |
+| Missland 2 | 277427 | [277427-missland-2.json](./277427-missland-2.json) |
 | Missman | 295360 | [295360-missman.json](./295360-missman.json) |
 | Mist | 200629 | [200629-mist.json](./200629-mist.json) |
 | Mist Bouncer | 63264 | [63264-mist-bouncer.json](./63264-mist-bouncer.json) |
