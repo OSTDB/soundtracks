@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of the Harem Guild | 109618 | [109618-master-of-the-harem-guild.json](./109618-master-of-the-harem-guild.json) |
 | Master of the Monster Lair | 21276 | [21276-master-of-the-monster-lair.json](./21276-master-of-the-monster-lair.json) |
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
+| Master of Vtuber | 267452 | [267452-master-of-vtuber.json](./267452-master-of-vtuber.json) |
 | Master Reboot | 10541 | [10541-master-reboot.json](./10541-master-reboot.json) |
 | Master Sleuth Bundle | 209692 | [209692-master-sleuth-bundle.json](./209692-master-sleuth-bundle.json) |
 | Master System 3 | 230823 | [230823-master-system-3.json](./230823-master-system-3.json) |
@@ -2939,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Piazza's Strike Zone | 3410 | [3410-mike-piazzas-strike-zone.json](./3410-mike-piazzas-strike-zone.json) |
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
+| Mikene's Aspects | 267440 | [267440-mikenes-aspects.json](./267440-mikenes-aspects.json) |
 | Mikey Boots | 140610 | [140610-mikey-boots.json](./140610-mikey-boots.json) |
 | Mikie: High School Graffiti | 84164 | [84164-mikie-high-school-graffiti.json](./84164-mikie-high-school-graffiti.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
@@ -3000,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millie and Molly | 179661 | [179661-millie-and-molly.json](./179661-millie-and-molly.json) |
 | Million Arthur: Arcana Blood | 44529 | [44529-million-arthur-arcana-blood.json](./44529-million-arthur-arcana-blood.json) |
 | Million Dollar Quest | 175360 | [175360-million-dollar-quest.json](./175360-million-dollar-quest.json) |
+| Million Hits | 266898 | [266898-million-hits.json](./266898-million-hits.json) |
 | Million KNights Vermilion | 79270 | [79270-million-knights-vermilion.json](./79270-million-knights-vermilion.json) |
 | Million on Mars: Land Rush | 182494 | [182494-million-on-mars-land-rush.json](./182494-million-on-mars-land-rush.json) |
 | Million to One Hero | 109609 | [109609-million-to-one-hero.json](./109609-million-to-one-hero.json) |
@@ -3350,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Masters: Vanguard | 330733 | [330733-minion-masters-vanguard.json](./330733-minion-masters-vanguard.json) |
 | Minion Masters: Voidborne Onslaught | 330736 | [330736-minion-masters-voidborne-onslaught.json](./330736-minion-masters-voidborne-onslaught.json) |
 | Minion Masters: Zealous Inferno | 330729 | [330729-minion-masters-zealous-inferno.json](./330729-minion-masters-zealous-inferno.json) |
+| Minion Quest: The Search for Bowser | 266891 | [266891-minion-quest-the-search-for-bowser.json](./266891-minion-quest-the-search-for-bowser.json) |
 | Minions of Elden | 176423 | [176423-minions-of-elden.json](./176423-minions-of-elden.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
@@ -3581,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mix Superstar | 262371 | [262371-mix-superstar.json](./262371-mix-superstar.json) |
 | Mix Universe | 341015 | [341015-mix-universe.json](./341015-mix-universe.json) |
 | MixCD | 408070 | [408070-mixcd.json](./408070-mixcd.json) |
+| Mixed Feelings 2: Elysium | 266913 | [266913-mixed-feelings-2-elysium.json](./266913-mixed-feelings-2-elysium.json) |
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
 | MixiM | 202360 | [202360-mixim.json](./202360-mixim.json) |
 | MixMaster Online | 77363 | [77363-mixmaster-online.json](./77363-mixmaster-online.json) |
@@ -5246,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Trainz Set | 11019 | [11019-my-first-trainz-set.json](./11019-my-first-trainz-set.json) |
 | My Fish Farm | 212492 | [212492-my-fish-farm.json](./212492-my-fish-farm.json) |
 | My Fitness Coach | 78661 | [78661-my-fitness-coach.json](./78661-my-fitness-coach.json) |
+| My Flower | 266888 | [266888-my-flower.json](./266888-my-flower.json) |
 | My Foxy Girlfriend | 205818 | [205818-my-foxy-girlfriend.json](./205818-my-foxy-girlfriend.json) |
 | My Friend Barrington | 398323 | [398323-my-friend-barrington.json](./398323-my-friend-barrington.json) |
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
