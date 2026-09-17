@@ -1122,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fierce Tales: Feline Sight - Collector's Edition | 88198 | [88198-fierce-tales-feline-sight-collectors-edition.json](./88198-fierce-tales-feline-sight-collectors-edition.json) |
 | Fiesta | 51217 | [51217-fiesta.json](./51217-fiesta.json) |
 | Fiets-Together | 395014 | [395014-fiets-together.json](./395014-fiets-together.json) |
+| FIFA 09 | 240317 | [240317-fifa-09.json](./240317-fifa-09.json) |
 | FIFA 14 | 240422 | [240422-fifa-14.json](./240422-fifa-14.json) |
 | FIFA 16 | 11071 | [11071-fifa-16.json](./11071-fifa-16.json) |
 | FIFA 19 | 96209 | [96209-fifa-19.json](./96209-fifa-19.json) |
@@ -1139,7 +1140,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Manager 11 | 20682 | [20682-fifa-manager-11.json](./20682-fifa-manager-11.json) |
 | FIFA Manager 12 | 20684 | [20684-fifa-manager-12.json](./20684-fifa-manager-12.json) |
 | FIFA Manager 13 | 20686 | [20686-fifa-manager-13.json](./20686-fifa-manager-13.json) |
+| FIFA Soccer 06 | 240356 | [240356-fifa-soccer-06.json](./240356-fifa-soccer-06.json) |
 | FIFA Soccer 07 | 696 | [696-fifa-soccer-07.json](./696-fifa-soccer-07.json) |
+| FIFA Soccer 08 | 240316 | [240316-fifa-soccer-08.json](./240316-fifa-soccer-08.json) |
+| FIFA Soccer 08 | 240319 | [240319-fifa-soccer-08.json](./240319-fifa-soccer-08.json) |
+| FIFA Soccer 08 | 240320 | [240320-fifa-soccer-08.json](./240320-fifa-soccer-08.json) |
+| FIFA Soccer 09 | 240323 | [240323-fifa-soccer-09.json](./240323-fifa-soccer-09.json) |
+| FIFA Soccer 09 | 240325 | [240325-fifa-soccer-09.json](./240325-fifa-soccer-09.json) |
+| FIFA Soccer 09 | 240327 | [240327-fifa-soccer-09.json](./240327-fifa-soccer-09.json) |
+| FIFA Soccer 09 | 240328 | [240328-fifa-soccer-09.json](./240328-fifa-soccer-09.json) |
+| FIFA Soccer 10 | 240331 | [240331-fifa-soccer-10.json](./240331-fifa-soccer-10.json) |
+| FIFA Soccer 10 | 240332 | [240332-fifa-soccer-10.json](./240332-fifa-soccer-10.json) |
+| FIFA Soccer 10 | 240333 | [240333-fifa-soccer-10.json](./240333-fifa-soccer-10.json) |
+| FIFA Soccer 10 | 240334 | [240334-fifa-soccer-10.json](./240334-fifa-soccer-10.json) |
+| FIFA Soccer 10 | 240336 | [240336-fifa-soccer-10.json](./240336-fifa-soccer-10.json) |
 | FIFA Soccer 11 | 503 | [503-fifa-soccer-11.json](./503-fifa-soccer-11.json) |
 | FIFA Soccer 13 | 2153 | [2153-fifa-soccer-13.json](./2153-fifa-soccer-13.json) |
 | FIFA Soccer 2002 | 49326 | [49326-fifa-soccer-2002.json](./49326-fifa-soccer-2002.json) |
@@ -1890,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Help Wanted 2 | 250627 | [250627-five-nights-at-freddys-help-wanted-2.json](./250627-five-nights-at-freddys-help-wanted-2.json) |
 | Five Nights at Freddy's: Help Wanted Plus | 261510 | [261510-five-nights-at-freddys-help-wanted-plus.json](./261510-five-nights-at-freddys-help-wanted-plus.json) |
 | Five Nights at Freddy's: Into the Pit | 283679 | [283679-five-nights-at-freddys-into-the-pit.json](./283679-five-nights-at-freddys-into-the-pit.json) |
+| Five Nights at Freddy's: Killer Night | 240312 | [240312-five-nights-at-freddys-killer-night.json](./240312-five-nights-at-freddys-killer-night.json) |
 | Five Nights At Freddy's: Nightshift | 275905 | [275905-five-nights-at-freddys-nightshift.json](./275905-five-nights-at-freddys-nightshift.json) |
 | Five Nights at Freddy's: Pocket Horror | 275568 | [275568-five-nights-at-freddys-pocket-horror.json](./275568-five-nights-at-freddys-pocket-horror.json) |
 | Five Nights at Freddy's: Secret of the Mimic | 312859 | [312859-five-nights-at-freddys-secret-of-the-mimic.json](./312859-five-nights-at-freddys-secret-of-the-mimic.json) |
@@ -2244,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florarium | 258454 | [258454-florarium.json](./258454-florarium.json) |
 | Floret Bond | 178035 | [178035-floret-bond.json](./178035-floret-bond.json) |
 | Florida Man: Hurricane Hijinks | 153377 | [153377-florida-man-hurricane-hijinks.json](./153377-florida-man-hurricane-hijinks.json) |
+| Florifer | 240307 | [240307-florifer.json](./240307-florifer.json) |
 | Flotus | 103480 | [103480-flotus.json](./103480-flotus.json) |
 | Flounder | 397709 | [397709-flounder.json](./397709-flounder.json) |
 | Flour Hour | 183033 | [183033-flour-hour.json](./183033-flour-hour.json) |
