@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Confidence | 236855 | [236855-kitchen-confidence.json](./236855-kitchen-confidence.json) |
 | Kitchen Gore | 355042 | [355042-kitchen-gore.json](./355042-kitchen-gore.json) |
 | Kitchen master | 26648 | [26648-kitchen-master.json](./26648-kitchen-master.json) |
+| Kitchen Sync: Aloha! | 244384 | [244384-kitchen-sync-aloha.json](./244384-kitchen-sync-aloha.json) |
 | Kitchen War | 246464 | [246464-kitchen-war.json](./246464-kitchen-war.json) |
 | Kitchen Wars | 319205 | [319205-kitchen-wars.json](./319205-kitchen-wars.json) |
 | Kite | 31757 | [31757-kite.json](./31757-kite.json) |
