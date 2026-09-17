@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firehawk: Swarmbreakers | 323362 | [323362-firehawk-swarmbreakers.json](./323362-firehawk-swarmbreakers.json) |
 | FireJumpers | 200126 | [200126-firejumpers.json](./200126-firejumpers.json) |
 | FireJumpers Inferno: Full Version Unlock | 220864 | [220864-firejumpers-inferno-full-version-unlock.json](./220864-firejumpers-inferno-full-version-unlock.json) |
+| FireKrackers | 264686 | [264686-firekrackers.json](./264686-firekrackers.json) |
 | Firelight Fantasy: Force Energy | 147483 | [147483-firelight-fantasy-force-energy.json](./147483-firelight-fantasy-force-energy.json) |
 | Firelight Fantasy: Vengeance | 153982 | [153982-firelight-fantasy-vengeance.json](./153982-firelight-fantasy-vengeance.json) |
 | Firelore: Short Tales | 333391 | [333391-firelore-short-tales.json](./333391-firelore-short-tales.json) |
@@ -1701,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
 | Fishing Craze | 294739 | [294739-fishing-craze.json](./294739-fishing-craze.json) |
 | Fishing Diary: King of Fishing | 196286 | [196286-fishing-diary-king-of-fishing.json](./196286-fishing-diary-king-of-fishing.json) |
+| Fishing Echoes | 264670 | [264670-fishing-echoes.json](./264670-fishing-echoes.json) |
 | Fishing Fighters | 146836 | [146836-fishing-fighters.json](./146836-fishing-fighters.json) |
 | Fishing Food | 180230 | [180230-fishing-food.json](./180230-fishing-food.json) |
 | Fishing for a Living | 293618 | [293618-fishing-for-a-living.json](./293618-fishing-for-a-living.json) |
@@ -2134,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
 | Floating Girl | 147391 | [147391-floating-girl.json](./147391-floating-girl.json) |
 | Floating Life 2 | 216788 | [216788-floating-life-2.json](./216788-floating-life-2.json) |
+| Floating Life Record | 264663 | [264663-floating-life-record.json](./264663-floating-life-record.json) |
 | Floating with Spirits | 383368 | [383368-floating-with-spirits.json](./383368-floating-with-spirits.json) |
 | Floatmotion | 59976 | [59976-floatmotion.json](./59976-floatmotion.json) |
 | Floatopia | 314274 | [314274-floatopia.json](./314274-floatopia.json) |
@@ -2601,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreverred | 142484 | [142484-foreverred.json](./142484-foreverred.json) |
 | Forevolution | 209709 | [209709-forevolution.json](./209709-forevolution.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
+| Forge & Fortune | 264701 | [264701-forge-and-fortune.json](./264701-forge-and-fortune.json) |
 | Forge Front | 287768 | [287768-forge-front.json](./287768-forge-front.json) |
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
 | Forge the Fates | 361765 | [361765-forge-the-fates.json](./361765-forge-the-fates.json) |
