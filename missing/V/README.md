@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Time Machine Travelling in History: Visit ancient Egypt, Babylon and Greece in B.C. 400 | 150648 | [150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json](./150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json) |
 | VR Tractor Farming | 248032 | [248032-vr-tractor-farming.json](./248032-vr-tractor-farming.json) |
 | VR Traffic Safety with Polly | 338564 | [338564-vr-traffic-safety-with-polly.json](./338564-vr-traffic-safety-with-polly.json) |
+| VR travel as a little tiny small dwarf | 252226 | [252226-vr-travel-as-a-little-tiny-small-dwarf.json](./252226-vr-travel-as-a-little-tiny-small-dwarf.json) |
 | VR Treasure Raider | 153383 | [153383-vr-treasure-raider.json](./153383-vr-treasure-raider.json) |
 | VR Tribes | 216489 | [216489-vr-tribes.json](./216489-vr-tribes.json) |
 | VR Tribes: The VR Edition | 256006 | [256006-vr-tribes-the-vr-edition.json](./256006-vr-tribes-the-vr-edition.json) |
