@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Ops: Wildfire | 349412 | [349412-rescue-ops-wildfire.json](./349412-rescue-ops-wildfire.json) |
 | Rescue Quest | 346597 | [346597-rescue-quest.json](./346597-rescue-quest.json) |
 | Rescue Quest Gold: Collector's Edition | 203375 | [203375-rescue-quest-gold-collectors-edition.json](./203375-rescue-quest-gold-collectors-edition.json) |
+| Rescue Race | 243810 | [243810-rescue-race.json](./243810-rescue-race.json) |
 | Rescue Raiders | 25777 | [25777-rescue-raiders.json](./25777-rescue-raiders.json) |
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
@@ -2268,6 +2269,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roach Royale | 275331 | [275331-roach-royale.json](./275331-roach-royale.json) |
 | Roach's Room ~Horror Experience Series~ | 107210 | [107210-roachs-room-horror-experience-series.json](./107210-roachs-room-horror-experience-series.json) |
 | Road 3 Pack | 147992 | [147992-road-3-pack.json](./147992-road-3-pack.json) |
+| Road 96: Mile 0 - Full Journey Bundle | 243799 | [243799-road-96-mile-0-full-journey-bundle.json](./243799-road-96-mile-0-full-journey-bundle.json) |
+| Road 96: Mile 0 - Stronger Together Bundle | 243802 | [243802-road-96-mile-0-stronger-together-bundle.json](./243802-road-96-mile-0-stronger-together-bundle.json) |
 | Road Avenger | 93049 | [93049-road-avenger.json](./93049-road-avenger.json) |
 | Road Cafe Simulator | 351028 | [351028-road-cafe-simulator.json](./351028-road-cafe-simulator.json) |
 | Road Champs: BXS Stunt Biking | 49907 | [49907-road-champs-bxs-stunt-biking.json](./49907-road-champs-bxs-stunt-biking.json) |
@@ -2655,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Hearts Dungeon | 43269 | [43269-rogue-hearts-dungeon.json](./43269-rogue-hearts-dungeon.json) |
 | Rogue Heroes | 61120 | [61120-rogue-heroes.json](./61120-rogue-heroes.json) |
 | Rogue Heroes: Ruins of Tasos | 137985 | [137985-rogue-heroes-ruins-of-tasos.json](./137985-rogue-heroes-ruins-of-tasos.json) |
+| Rogue Hex | 243806 | [243806-rogue-hex.json](./243806-rogue-hex.json) |
 | Rogue Jungle | 307949 | [307949-rogue-jungle.json](./307949-rogue-jungle.json) |
 | Rogue Kingdoms | 317594 | [317594-rogue-kingdoms.json](./317594-rogue-kingdoms.json) |
 | Rogue Knight | 277938 | [277938-rogue-knight.json](./277938-rogue-knight.json) |
