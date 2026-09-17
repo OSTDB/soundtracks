@@ -2371,6 +2371,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Citalis | 25713 | [25713-citalis.json](./25713-citalis.json) |
 | Cities Domination | 319764 | [319764-cities-domination.json](./319764-cities-domination.json) |
+| Cities of the World Jigsaw Puzzles: Sao Paulo | 249298 | [249298-cities-of-the-world-jigsaw-puzzles-sao-paulo.json](./249298-cities-of-the-world-jigsaw-puzzles-sao-paulo.json) |
+| Cities of the World Jigsaw Puzzles: Venice | 249297 | [249297-cities-of-the-world-jigsaw-puzzles-venice.json](./249297-cities-of-the-world-jigsaw-puzzles-venice.json) |
 | Cities Skylines Mobile Edition | 237630 | [237630-cities-skylines-mobile-edition.json](./237630-cities-skylines-mobile-edition.json) |
 | Cities XXL | 10094 | [10094-cities-xxl.json](./10094-cities-xxl.json) |
 | Cities: Skylines - 90s Pop Radio | 257082 | [257082-cities-skylines-90s-pop-radio.json](./257082-cities-skylines-90s-pop-radio.json) |
@@ -5115,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cunt Wars | 140570 | [140570-cunt-wars.json](./140570-cunt-wars.json) |
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
 | Cup Heroes: Beginner Merge Bundle | 414455 | [414455-cup-heroes-beginner-merge-bundle.json](./414455-cup-heroes-beginner-merge-bundle.json) |
+| Cup of Ethanol | 249281 | [249281-cup-of-ethanol.json](./249281-cup-of-ethanol.json) |
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
 | Cupcake Clicker 4 | 231381 | [231381-cupcake-clicker-4.json](./231381-cupcake-clicker-4.json) |
 | Cuphead | 237497 | [237497-cuphead.json](./237497-cuphead.json) |
