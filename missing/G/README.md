@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GalaxyMotoCrossHD | 246967 | [246967-galaxymotocrosshd.json](./246967-galaxymotocrosshd.json) |
 | GalaxySpace VR | 149553 | [149553-galaxyspace-vr.json](./149553-galaxyspace-vr.json) |
 | Galaxystrife | 177018 | [177018-galaxystrife.json](./177018-galaxystrife.json) |
+| GalaxyWak | 282103 | [282103-galaxywak.json](./282103-galaxywak.json) |
 | Galazer Deluxe | 358965 | [358965-galazer-deluxe.json](./358965-galazer-deluxe.json) |
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
 | GALDR | 307585 | [307585-galdr.json](./307585-galdr.json) |
@@ -706,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genfanad | 159346 | [159346-genfanad.json](./159346-genfanad.json) |
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
 | Genghis Khan II: Clan of the Gray Wolf | 5389 | [5389-genghis-khan-ii-clan-of-the-gray-wolf.json](./5389-genghis-khan-ii-clan-of-the-gray-wolf.json) |
+| Genie Reprise | 282145 | [282145-genie-reprise.json](./282145-genie-reprise.json) |
 | Genies & Gems | 86809 | [86809-genies-and-gems.json](./86809-genies-and-gems.json) |
 | Genies & Jewels - Puzzle Quest | 105940 | [105940-genies-and-jewels-puzzle-quest.json](./105940-genies-and-jewels-puzzle-quest.json) |
 | Genimas: Life Reborn | 211201 | [211201-genimas-life-reborn.json](./211201-genimas-life-reborn.json) |
@@ -1601,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golem | 310610 | [310610-golem.json](./310610-golem.json) |
 | Golem Wars | 58752 | [58752-golem-wars.json](./58752-golem-wars.json) |
 | Golf | 131528 | [131528-golf.json](./131528-golf.json) |
+| Golf | 282126 | [282126-golf.json](./282126-golf.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
 | Golf Cart Race | 105919 | [105919-golf-cart-race.json](./105919-golf-cart-race.json) |
 | Golf Escape | 281387 | [281387-golf-escape.json](./281387-golf-escape.json) |
@@ -2297,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm Meisaku Gekijou Vol. 3: Akazukin | 245316 | [245316-grimm-meisaku-gekijou-vol-3-akazukin.json](./245316-grimm-meisaku-gekijou-vol-3-akazukin.json) |
 | Grimm Shuffle | 158670 | [158670-grimm-shuffle.json](./158670-grimm-shuffle.json) |
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
+| Grimoire Organizer | 282146 | [282146-grimoire-organizer.json](./282146-grimoire-organizer.json) |
 | Grimoire: Heralds of the Winged Exemplar | 43487 | [43487-grimoire-heralds-of-the-winged-exemplar.json](./43487-grimoire-heralds-of-the-winged-exemplar.json) |
 | Grimoria | 391573 | [391573-grimoria.json](./391573-grimoria.json) |
 | Grimorium | 392292 | [392292-grimorium.json](./392292-grimorium.json) |
