@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Tempopo | 305178 | [305178-tempopo.json](./305178-tempopo.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
+| Temporal Odyssey | 277406 | [277406-temporal-odyssey.json](./277406-temporal-odyssey.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
 | Tempter | 309887 | [309887-tempter.json](./309887-tempter.json) |
 | Tempus | 377168 | [377168-tempus.json](./377168-tempus.json) |
@@ -1855,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bound of Time | 316084 | [316084-the-bound-of-time.json](./316084-the-bound-of-time.json) |
 | The Bounty | 86113 | [86113-the-bounty.json](./86113-the-bounty.json) |
 | The Bounty V2 | 75832 | [75832-the-bounty-v2.json](./75832-the-bounty-v2.json) |
+| The Bowling Tournament | 277418 | [277418-the-bowling-tournament.json](./277418-the-bowling-tournament.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
@@ -7759,6 +7761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tramp | 55845 | [55845-tramp.json](./55845-tramp.json) |
 | Trampoline | 172661 | [172661-trampoline.json](./172661-trampoline.json) |
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
+| Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
 | Trans-Siberian Railway Simulator | 114950 | [114950-trans-siberian-railway-simulator.json](./114950-trans-siberian-railway-simulator.json) |
 | Transarctica | 10857 | [10857-transarctica.json](./10857-transarctica.json) |
