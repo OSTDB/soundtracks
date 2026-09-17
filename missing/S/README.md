@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: 2024 Deluxe Bundle | 298029 | [298029-sea-of-thieves-2024-deluxe-bundle.json](./298029-sea-of-thieves-2024-deluxe-bundle.json) |
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
 | Sea of Thieves: Season 13 | 305154 | [305154-sea-of-thieves-season-13.json](./305154-sea-of-thieves-season-13.json) |
+| Sea of Thieves: Season 9 | 240906 | [240906-sea-of-thieves-season-9.json](./240906-sea-of-thieves-season-9.json) |
 | Sea of Thieves: The Legend of Monkey Island | 252829 | [252829-sea-of-thieves-the-legend-of-monkey-island.json](./252829-sea-of-thieves-the-legend-of-monkey-island.json) |
 | Sea of World | 292537 | [292537-sea-of-world.json](./292537-sea-of-world.json) |
 | Sea Plumber 2 | 205029 | [205029-sea-plumber-2.json](./205029-sea-plumber-2.json) |
@@ -5239,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur V | 1013 | [1013-soulcalibur-v.json](./1013-soulcalibur-v.json) |
 | SoulCalibur V: Collectors Edition | 44655 | [44655-soulcalibur-v-collectors-edition.json](./44655-soulcalibur-v-collectors-edition.json) |
 | Soulcalibur: Broken Destiny | 272550 | [272550-soulcalibur-broken-destiny.json](./272550-soulcalibur-broken-destiny.json) |
+| SoulCast | 240890 | [240890-soulcast.json](./240890-soulcast.json) |
 | Soulcaster | 150680 | [150680-soulcaster.json](./150680-soulcaster.json) |
 | Soulcaster: Part I & II | 33074 | [33074-soulcaster-part-i-and-ii.json](./33074-soulcaster-part-i-and-ii.json) |
 | Soulchain | 342042 | [342042-soulchain.json](./342042-soulchain.json) |
@@ -9079,7 +9081,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rhythm Duel | 127213 | [127213-super-rhythm-duel.json](./127213-super-rhythm-duel.json) |
 | Super Rising Ball | 350485 | [350485-super-rising-ball.json](./350485-super-rising-ball.json) |
 | Super Robolom | 83485 | [83485-super-robolom.json](./83485-super-robolom.json) |
+| Super Robot Taisen | 240916 | [240916-super-robot-taisen.json](./240916-super-robot-taisen.json) |
 | Super Robot Taisen A Portable | 79841 | [79841-super-robot-taisen-a-portable.json](./79841-super-robot-taisen-a-portable.json) |
+| Super Robot Taisen EX | 240915 | [240915-super-robot-taisen-ex.json](./240915-super-robot-taisen-ex.json) |
 | Super Robot Taisen F | 46667 | [46667-super-robot-taisen-f.json](./46667-super-robot-taisen-f.json) |
 | Super Robot Taisen OE: Operation Extend | 79344 | [79344-super-robot-taisen-oe-operation-extend.json](./79344-super-robot-taisen-oe-operation-extend.json) |
 | Super Robot Taisen OG Saga: Masou Kishin F - Coffin of the End | 61553 | [61553-super-robot-taisen-og-saga-masou-kishin-f-coffin-of-the-end.json](./61553-super-robot-taisen-og-saga-masou-kishin-f-coffin-of-the-end.json) |
@@ -9091,6 +9095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen: Scramble Commander | 62710 | [62710-super-robot-taisen-scramble-commander.json](./62710-super-robot-taisen-scramble-commander.json) |
 | Super Robot Wars 30: Limited Edition | 155096 | [155096-super-robot-wars-30-limited-edition.json](./155096-super-robot-wars-30-limited-edition.json) |
 | Super Robot Wars BX | 79337 | [79337-super-robot-wars-bx.json](./79337-super-robot-wars-bx.json) |
+| Super Robot Wars IV Scramble | 240917 | [240917-super-robot-wars-iv-scramble.json](./240917-super-robot-wars-iv-scramble.json) |
 | Super Robot Wars X | 87796 | [87796-super-robot-wars-x.json](./87796-super-robot-wars-x.json) |
 | Super Robot Wars Y: DLC 1 - Contract from the Darkness | 375171 | [375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json](./375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json) |
 | Super Robot Wars Y: DLC 2 - Awakening of a Soul | 375172 | [375172-super-robot-wars-y-dlc-2-awakening-of-a-soul.json](./375172-super-robot-wars-y-dlc-2-awakening-of-a-soul.json) |
@@ -9525,6 +9530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Skeleton Island | 262968 | [262968-surviving-skeleton-island.json](./262968-surviving-skeleton-island.json) |
 | Surviving the Aftermath: Day One Edition | 143041 | [143041-surviving-the-aftermath-day-one-edition.json](./143041-surviving-the-aftermath-day-one-edition.json) |
 | Surviving the Aftermath: New Alliances | 203382 | [203382-surviving-the-aftermath-new-alliances.json](./203382-surviving-the-aftermath-new-alliances.json) |
+| Surviving the Aftermath: Rebirth | 240901 | [240901-surviving-the-aftermath-rebirth.json](./240901-surviving-the-aftermath-rebirth.json) |
 | Surviving the Aftermath: Ultimate Colony Edition | 188054 | [188054-surviving-the-aftermath-ultimate-colony-edition.json](./188054-surviving-the-aftermath-ultimate-colony-edition.json) |
 | Surviving Titan | 130244 | [130244-surviving-titan.json](./130244-surviving-titan.json) |
 | Surviving West | 92524 | [92524-surviving-west.json](./92524-surviving-west.json) |
