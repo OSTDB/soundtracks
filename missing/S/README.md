@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satiszone | 332420 | [332420-satiszone.json](./332420-satiszone.json) |
 | Sato Killing Time Chat.exe | 395020 | [395020-sato-killing-time-chat-exe.json](./395020-sato-killing-time-chat-exe.json) |
 | Satogaeri | 192382 | [192382-satogaeri.json](./192382-satogaeri.json) |
+| Satori | 285571 | [285571-satori.json](./285571-satori.json) |
 | Satori | 336391 | [336391-satori.json](./336391-satori.json) |
 | Satori's Atelier 1+2 | 210664 | [210664-satoris-atelier-1-2.json](./210664-satoris-atelier-1-2.json) |
 | Saturday Night is the Loneliest Night of the Week | 230855 | [230855-saturday-night-is-the-loneliest-night-of-the-week.json](./230855-saturday-night-is-the-loneliest-night-of-the-week.json) |
@@ -1246,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sect House | 343828 | [343828-sect-house.json](./343828-sect-house.json) |
 | Sectant | 144259 | [144259-sectant.json](./144259-sectant.json) |
 | Section Six | 149023 | [149023-section-six.json](./149023-section-six.json) |
+| Section-Z | 285595 | [285595-section-z.json](./285595-section-z.json) |
 | Section-Z | 9755 | [9755-section-z.json](./9755-section-z.json) |
 | Sector 01 | 177577 | [177577-sector-01.json](./177577-sector-01.json) |
 | Sector 666 | 308256 | [308256-sector-666.json](./308256-sector-666.json) |
@@ -1847,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Behind the Throne 2 | 158178 | [158178-shadows-behind-the-throne-2.json](./158178-shadows-behind-the-throne-2.json) |
 | Shadows Beneath the Badge: An Undercover Affair | 337705 | [337705-shadows-beneath-the-badge-an-undercover-affair.json](./337705-shadows-beneath-the-badge-an-undercover-affair.json) |
 | Shadows Fall | 332547 | [332547-shadows-fall.json](./332547-shadows-fall.json) |
+| Shadows in Silence | 285574 | [285574-shadows-in-silence.json](./285574-shadows-in-silence.json) |
 | Shadows in the Dark | 217335 | [217335-shadows-in-the-dark.json](./217335-shadows-in-the-dark.json) |
 | Shadows in the Silence | 374081 | [374081-shadows-in-the-silence.json](./374081-shadows-in-the-silence.json) |
 | Shadows of a Sunless World | 183063 | [183063-shadows-of-a-sunless-world.json](./183063-shadows-of-a-sunless-world.json) |
@@ -4965,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Recursion | 172183 | [172183-soul-recursion.json](./172183-soul-recursion.json) |
 | Soul Redemption | 369065 | [369065-soul-redemption.json](./369065-soul-redemption.json) |
 | Soul Ride | 70976 | [70976-soul-ride.json](./70976-soul-ride.json) |
+| Soul Runner | 285563 | [285563-soul-runner.json](./285563-soul-runner.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
 | Soul Sacrifice Delta | 6061 | [6061-soul-sacrifice-delta.json](./6061-soul-sacrifice-delta.json) |
 | Soul Sader | 285982 | [285982-soul-sader.json](./285982-soul-sader.json) |
@@ -5005,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulFrost | 90653 | [90653-soulfrost.json](./90653-soulfrost.json) |
 | SoulfulLand | 126604 | [126604-soulfulland.json](./126604-soulfulland.json) |
 | Soulgrave | 412294 | [412294-soulgrave.json](./412294-soulgrave.json) |
+| Soulivion | 285607 | [285607-soulivion.json](./285607-soulivion.json) |
 | SoulJah Kingdom Rise | 243372 | [243372-souljah-kingdom-rise.json](./243372-souljah-kingdom-rise.json) |
 | Soulknight Survivor | 253363 | [253363-soulknight-survivor.json](./253363-soulknight-survivor.json) |
 | Soulless | 195790 | [195790-soulless.json](./195790-soulless.json) |
@@ -5897,6 +5902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants Talking Heads | 382919 | [382919-spongebob-squarepants-talking-heads.json](./382919-spongebob-squarepants-talking-heads.json) |
 | SpongeBob SquarePants: Bikini Bottom 500 | 220117 | [220117-spongebob-squarepants-bikini-bottom-500.json](./220117-spongebob-squarepants-bikini-bottom-500.json) |
 | SpongeBob SquarePants: Bundle | 286514 | [286514-spongebob-squarepants-bundle.json](./286514-spongebob-squarepants-bundle.json) |
+| Spongebob Squarepants: Clash of Triton | 285586 | [285586-spongebob-squarepants-clash-of-triton.json](./285586-spongebob-squarepants-clash-of-triton.json) |
 | SpongeBob SquarePants: Dilly Dabber | 220119 | [220119-spongebob-squarepants-dilly-dabber.json](./220119-spongebob-squarepants-dilly-dabber.json) |
 | SpongeBob SquarePants: Employee of the Month | 2763 | [2763-spongebob-squarepants-employee-of-the-month.json](./2763-spongebob-squarepants-employee-of-the-month.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
@@ -7907,6 +7913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon of Asmodeus | 117652 | [117652-summon-of-asmodeus.json](./117652-summon-of-asmodeus.json) |
 | Summon Quest | 291980 | [291980-summon-quest.json](./291980-summon-quest.json) |
 | Summoned by a Magic Goddess | 206152 | [206152-summoned-by-a-magic-goddess.json](./206152-summoned-by-a-magic-goddess.json) |
+| Summoneer | 285556 | [285556-summoneer.json](./285556-summoneer.json) |
 | Summoner Symbols | 316802 | [316802-summoner-symbols.json](./316802-summoner-symbols.json) |
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
@@ -7974,6 +7981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Fairy | 151678 | [151678-sunny-fairy.json](./151678-sunny-fairy.json) |
 | Sunny Shine Funland! | 107818 | [107818-sunny-shine-funland.json](./107818-sunny-shine-funland.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
+| Sunray OS | 285582 | [285582-sunray-os.json](./285582-sunray-os.json) |
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
 | Sunrider: Liberation Day | 18176 | [18176-sunrider-liberation-day.json](./18176-sunrider-liberation-day.json) |
 | Sunrise 7 | 135159 | [135159-sunrise-7.json](./135159-sunrise-7.json) |
