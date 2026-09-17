@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EnjoyUp's 3 in 1 | 390511 | [390511-enjoyups-3-in-1.json](./390511-enjoyups-3-in-1.json) |
 | Enkan no Memo-ria: Kakera Tomoshi | 135858 | [135858-enkan-no-memo-ria-kakera-tomoshi.json](./135858-enkan-no-memo-ria-kakera-tomoshi.json) |
 | Enkate | 297090 | [297090-enkate.json](./297090-enkate.json) |
+| Enlightened | 249883 | [249883-enlightened.json](./249883-enlightened.json) |
 | Enlightened Sentinel | 155667 | [155667-enlightened-sentinel.json](./155667-enlightened-sentinel.json) |
 | Enlightenment | 43155 | [43155-enlightenment.json](./43155-enlightenment.json) |
 | Enlisted: Calliope Squad | 293769 | [293769-enlisted-calliope-squad.json](./293769-enlisted-calliope-squad.json) |
@@ -1497,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escapeland | 264714 | [264714-escapeland.json](./264714-escapeland.json) |
 | Escapers | 210853 | [210853-escapers.json](./210853-escapers.json) |
 | Escaping a Fireworks Factory: Nyanzou & Kumakichi - Escape Game | 240225 | [240225-escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game.json](./240225-escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game.json) |
+| Escaping Atlantis | 249877 | [249877-escaping-atlantis.json](./249877-escaping-atlantis.json) |
 | Escaping Darkness | 320531 | [320531-escaping-darkness.json](./320531-escaping-darkness.json) |
 | Escaping Diddler | 321528 | [321528-escaping-diddler.json](./321528-escaping-diddler.json) |
 | Escaping Wonderland | 306956 | [306956-escaping-wonderland.json](./306956-escaping-wonderland.json) |
