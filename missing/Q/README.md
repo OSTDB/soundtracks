@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qualatro | 380535 | [380535-qualatro.json](./380535-qualatro.json) |
 | Qualia | 77279 | [77279-qualia.json](./77279-qualia.json) |
 | Qualia's Sweets Craft | 165658 | [165658-qualias-sweets-craft.json](./165658-qualias-sweets-craft.json) |
+| Qualia/Delta | 242066 | [242066-qualia-delta.json](./242066-qualia-delta.json) |
 | Qualial Nature | 392940 | [392940-qualial-nature.json](./392940-qualial-nature.json) |
 | Quan min zhao bu tong | 402360 | [402360-quan-min-zhao-bu-tong.json](./402360-quan-min-zhao-bu-tong.json) |
 | Quán Zhàn Tiānxià | 156616 | [156616-quan-zhan-tianxia.json](./156616-quan-zhan-tianxia.json) |
