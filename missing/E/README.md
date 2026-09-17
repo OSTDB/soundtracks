@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Island | 290915 | [290915-escape-island.json](./290915-escape-island.json) |
 | Escape IV - Prison Break | 90665 | [90665-escape-iv-prison-break.json](./90665-escape-iv-prison-break.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
+| Escape Memoirs: Mini Stories - Bunker Scenario | 235840 | [235840-escape-memoirs-mini-stories-bunker-scenario.json](./235840-escape-memoirs-mini-stories-bunker-scenario.json) |
 | Escape Memoirs: Questionable Side Stories | 247615 | [247615-escape-memoirs-questionable-side-stories.json](./247615-escape-memoirs-questionable-side-stories.json) |
 | Escape Mystery-The Dark Fence | 237368 | [237368-escape-mystery-the-dark-fence.json](./237368-escape-mystery-the-dark-fence.json) |
 | Escape Mystery: Alien Impact | 174311 | [174311-escape-mystery-alien-impact.json](./174311-escape-mystery-alien-impact.json) |
@@ -1984,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exact | 277420 | [277420-exact.json](./277420-exact.json) |
 | Exadimension Neptunia | 280926 | [280926-exadimension-neptunia.json](./280926-exadimension-neptunia.json) |
 | Exadimension Neptunia 2: A Chao Returns | 280927 | [280927-exadimension-neptunia-2-a-chao-returns.json](./280927-exadimension-neptunia-2-a-chao-returns.json) |
+| Exalted Seracthon | 235856 | [235856-exalted-seracthon.json](./235856-exalted-seracthon.json) |
 | Exanimora | 371959 | [371959-exanimora.json](./371959-exanimora.json) |
 | Exanimum: The Silent Call | 290410 | [290410-exanimum-the-silent-call.json](./290410-exanimum-the-silent-call.json) |
 | Excalibur 2555 A.D. | 15514 | [15514-excalibur-2555-a-d.json](./15514-excalibur-2555-a-d.json) |
@@ -2151,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exposure | 362267 | [362267-exposure.json](./362267-exposure.json) |
 | Exposure Office Simulator | 309892 | [309892-exposure-office-simulator.json](./309892-exposure-office-simulator.json) |
 | Express Courier Pro: Urban Bike Delivery Simulator 2024! | 300862 | [300862-express-courier-pro-urban-bike-delivery-simulator-2024.json](./300862-express-courier-pro-urban-bike-delivery-simulator-2024.json) |
+| Exquisite Fishing | 235874 | [235874-exquisite-fishing.json](./235874-exquisite-fishing.json) |
 | EXS1 EthnologySister: Cultural functionalism | 166171 | [166171-exs1-ethnologysister-cultural-functionalism.json](./166171-exs1-ethnologysister-cultural-functionalism.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Exterminate Zombies: Get Paid | 215930 | [215930-exterminate-zombies-get-paid.json](./215930-exterminate-zombies-get-paid.json) |
