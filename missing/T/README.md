@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi! | 9454 | [9454-taxi.json](./9454-taxi.json) |
 | TaxingTiles | 277937 | [277937-taxingtiles.json](./277937-taxingtiles.json) |
 | TaxMan | 19478 | [19478-taxman.json](./19478-taxman.json) |
+| Tay Son Dynasty | 256343 | [256343-tay-son-dynasty.json](./256343-tay-son-dynasty.json) |
 | Tayal | 109622 | [109622-tayal.json](./109622-tayal.json) |
 | Taylordle | 330295 | [330295-taylordle.json](./330295-taylordle.json) |
 | Tayutama 2-you're the only one- ENG ver. | 82046 | [82046-tayutama-2-youre-the-only-one-eng-ver.json](./82046-tayutama-2-youre-the-only-one-eng-ver.json) |
@@ -887,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortress 2: End of the Line Update | 256883 | [256883-team-fortress-2-end-of-the-line-update.json](./256883-team-fortress-2-end-of-the-line-update.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
+| Team Fortress 2: Gold Rush Update | 256372 | [256372-team-fortress-2-gold-rush-update.json](./256372-team-fortress-2-gold-rush-update.json) |
 | Team Fortress 2: Love & War Update | 256882 | [256882-team-fortress-2-love-and-war-update.json](./256882-team-fortress-2-love-and-war-update.json) |
 | Team Fortress 2: Mann vs. Machine - Two Cities Update | 256881 | [256881-team-fortress-2-mann-vs-machine-two-cities-update.json](./256881-team-fortress-2-mann-vs-machine-two-cities-update.json) |
 | Team Fortress 2: Rebalanced | 400339 | [400339-team-fortress-2-rebalanced.json](./400339-team-fortress-2-rebalanced.json) |
@@ -2791,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The GIF Game | 297813 | [297813-the-gif-game.json](./297813-the-gif-game.json) |
 | The Gigglebone Gang: The AlphaBonk Farm | 206110 | [206110-the-gigglebone-gang-the-alphabonk-farm.json](./206110-the-gigglebone-gang-the-alphabonk-farm.json) |
 | The Girl From the Snuff Video | 247742 | [247742-the-girl-from-the-snuff-video.json](./247742-the-girl-from-the-snuff-video.json) |
+| The Girl in the Tower of Steel | 256326 | [256326-the-girl-in-the-tower-of-steel.json](./256326-the-girl-in-the-tower-of-steel.json) |
 | The Girl in the Window | 221722 | [221722-the-girl-in-the-window.json](./221722-the-girl-in-the-window.json) |
 | The Girl on the Train | 74247 | [74247-the-girl-on-the-train.json](./74247-the-girl-on-the-train.json) |
 | The Girl Who Sees | 149576 | [149576-the-girl-who-sees.json](./149576-the-girl-who-sees.json) |
@@ -3444,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend Of Perchta | 290003 | [290003-the-legend-of-perchta.json](./290003-the-legend-of-perchta.json) |
 | The Legend of Pirates Online | 140587 | [140587-the-legend-of-pirates-online.json](./140587-the-legend-of-pirates-online.json) |
 | The Legend of Robin Hood | 267953 | [267953-the-legend-of-robin-hood.json](./267953-the-legend-of-robin-hood.json) |
+| The Legend of Santa | 256344 | [256344-the-legend-of-santa.json](./256344-the-legend-of-santa.json) |
 | The Legend of Sebb Linus | 289297 | [289297-the-legend-of-sebb-linus.json](./289297-the-legend-of-sebb-linus.json) |
 | The Legend of Sky Stones | 307951 | [307951-the-legend-of-sky-stones.json](./307951-the-legend-of-sky-stones.json) |
 | The Legend of Snow Maiden | 298598 | [298598-the-legend-of-snow-maiden.json](./298598-the-legend-of-snow-maiden.json) |
@@ -7171,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totto's Magic Soup | 353293 | [353293-tottos-magic-soup.json](./353293-tottos-magic-soup.json) |
 | Tottoko Hamtaro Card-e | 220854 | [220854-tottoko-hamtaro-card-e.json](./220854-tottoko-hamtaro-card-e.json) |
 | Tou Ikkyoku Gojyuusan Honba | 360085 | [360085-tou-ikkyoku-gojyuusan-honba.json](./360085-tou-ikkyoku-gojyuusan-honba.json) |
+| Touch | 256328 | [256328-touch.json](./256328-touch.json) |
 | Touch 'N' Play Collection | 206746 | [206746-touch-n-play-collection.json](./206746-touch-n-play-collection.json) |
 | Touch Battle Ninja | 58828 | [58828-touch-battle-ninja.json](./58828-touch-battle-ninja.json) |
 | Touch Battle Tank 3D | 55907 | [55907-touch-battle-tank-3d.json](./55907-touch-battle-tank-3d.json) |
@@ -7213,6 +7218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Emblem 2 | 315051 | [315051-touhou-emblem-2.json](./315051-touhou-emblem-2.json) |
 | Touhou Fan-made Virtual Autography | 151683 | [151683-touhou-fan-made-virtual-autography.json](./151683-touhou-fan-made-virtual-autography.json) |
 | Touhou Fantasy | 387333 | [387333-touhou-fantasy.json](./387333-touhou-fantasy.json) |
+| Touhou Fantasy Destination | 256332 | [256332-touhou-fantasy-destination.json](./256332-touhou-fantasy-destination.json) |
 | Touhou Gaiden | 404961 | [404961-touhou-gaiden.json](./404961-touhou-gaiden.json) |
 | Touhou Genso Maroku W: The Devil of Decline - Shikigami Additional Contents | 212243 | [212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json](./212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json) |
 | Touhou Genso Wanderer Reloaded | 86645 | [86645-touhou-genso-wanderer-reloaded.json](./86645-touhou-genso-wanderer-reloaded.json) |
@@ -7870,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: Mine & Field railway | 190712 | [190712-trainz-railroad-simulator-2019-mine-and-field-railway.json](./190712-trainz-railroad-simulator-2019-mine-and-field-railway.json) |
 | Trainz Railroad Simulator 2019: Model Trainz - New South Wales Region | 190709 | [190709-trainz-railroad-simulator-2019-model-trainz-new-south-wales-region.json](./190709-trainz-railroad-simulator-2019-model-trainz-new-south-wales-region.json) |
 | Trainz Railroad Simulator 2019: NR Class Locomotive - JBR Indian Pacific Pack | 284915 | [284915-trainz-railroad-simulator-2019-nr-class-locomotive-jbr-indian-pacific-pack.json](./284915-trainz-railroad-simulator-2019-nr-class-locomotive-jbr-indian-pacific-pack.json) |
+| Trainz Railroad Simulator 2019: NR Class Locomotive - National Rail Mega Pack | 256376 | [256376-trainz-railroad-simulator-2019-nr-class-locomotive-national-rail-mega-pack.json](./256376-trainz-railroad-simulator-2019-nr-class-locomotive-national-rail-mega-pack.json) |
 | Trainz Railroad Simulator 2019: NYC J3a-Dreyfuss Streamlined Hudson | 167781 | [167781-trainz-railroad-simulator-2019-nyc-j3a-dreyfuss-streamlined-hudson.json](./167781-trainz-railroad-simulator-2019-nyc-j3a-dreyfuss-streamlined-hudson.json) |
 | Trainz Railroad Simulator 2019: PKP/PREG Bdhpumn/B(16)mnopux Pack | 190714 | [190714-trainz-railroad-simulator-2019-pkp-preg-bdhpumn-b-16-mnopux-pack.json](./190714-trainz-railroad-simulator-2019-pkp-preg-bdhpumn-b-16-mnopux-pack.json) |
 | Trainz Railroad Simulator 2019: PKP/PREG/PolRegio Bdhpumn/B16mnopux Pack | 190710 | [190710-trainz-railroad-simulator-2019-pkp-preg-polregio-bdhpumn-b16mnopux-pack.json](./190710-trainz-railroad-simulator-2019-pkp-preg-polregio-bdhpumn-b16mnopux-pack.json) |
