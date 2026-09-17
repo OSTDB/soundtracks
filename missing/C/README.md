@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle's Adventure | 245542 | [245542-castles-adventure.json](./245542-castles-adventure.json) |
 | CastleBoy | 144370 | [144370-castleboy.json](./144370-castleboy.json) |
 | CastleClysmic | 179153 | [179153-castleclysmic.json](./179153-castleclysmic.json) |
+| CastleDefense: RaiseArcher | 239141 | [239141-castledefense-raisearcher.json](./239141-castledefense-raisearcher.json) |
 | CastleOn | 353881 | [353881-castleon.json](./353881-castleon.json) |
 | Castlequest | 48070 | [48070-castlequest.json](./48070-castlequest.json) |
 | Castles & Castellans | 406688 | [406688-castles-and-castellans.json](./406688-castles-and-castellans.json) |
@@ -3567,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connected Hearts: Cost of Beauty DLC | 291064 | [291064-connected-hearts-cost-of-beauty-dlc.json](./291064-connected-hearts-cost-of-beauty-dlc.json) |
 | Connected Hearts: Hour of the Witch - Collector's Edition | 365708 | [365708-connected-hearts-hour-of-the-witch-collectors-edition.json](./365708-connected-hearts-hour-of-the-witch-collectors-edition.json) |
 | Connected Hearts: Hour of the Witch DLC | 360600 | [360600-connected-hearts-hour-of-the-witch-dlc.json](./360600-connected-hearts-hour-of-the-witch-dlc.json) |
+| Connected Hearts: The Musketeers Saga - DLC | 239149 | [239149-connected-hearts-the-musketeers-saga-dlc.json](./239149-connected-hearts-the-musketeers-saga-dlc.json) |
 | Connectify | 190196 | [190196-connectify.json](./190196-connectify.json) |
 | Connection | 100859 | [100859-connection.json](./100859-connection.json) |
 | Connection | 322574 | [322574-connection.json](./322574-connection.json) |
