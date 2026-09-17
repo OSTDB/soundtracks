@@ -1595,10 +1595,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle Ju 3 | 117669 | [117669-beetle-ju-3.json](./117669-beetle-ju-3.json) |
 | Beetle Junior DS | 92471 | [92471-beetle-junior-ds.json](./92471-beetle-junior-ds.json) |
 | Beetlenaut | 62197 | [62197-beetlenaut.json](./62197-beetlenaut.json) |
+| BeetleQuest 2023 | 271289 | [271289-beetlequest-2023.json](./271289-beetlequest-2023.json) |
 | Before | 380013 | [380013-before.json](./380013-before.json) |
 | Before Exit: Gas Station - Daylight DLC | 378305 | [378305-before-exit-gas-station-daylight-dlc.json](./378305-before-exit-gas-station-daylight-dlc.json) |
 | Before Exit: Gas Station - Midnight DLC | 378304 | [378304-before-exit-gas-station-midnight-dlc.json](./378304-before-exit-gas-station-midnight-dlc.json) |
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
+| Before Nightfall | 271311 | [271311-before-nightfall.json](./271311-before-nightfall.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
 | Before the Sun Sets | 384619 | [384619-before-the-sun-sets.json](./384619-before-the-sun-sets.json) |
 | Before Times | 398359 | [398359-before-times.json](./398359-before-times.json) |
