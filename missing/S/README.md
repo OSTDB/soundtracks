@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sequoia | 185595 | [185595-sequoia.json](./185595-sequoia.json) |
 | Ser BubbleHelm | 385564 | [385564-ser-bubblehelm.json](./385564-ser-bubblehelm.json) |
 | Ser Jorryn | 379867 | [379867-ser-jorryn.json](./379867-ser-jorryn.json) |
+| Serania: Path of the Scion | 258008 | [258008-serania-path-of-the-scion.json](./258008-serania-path-of-the-scion.json) |
 | Seraph of the End: The Origin of Fate | 13638 | [13638-seraph-of-the-end-the-origin-of-fate.json](./13638-seraph-of-the-end-the-origin-of-fate.json) |
 | Seraphic Destroyer: Puzzles | 163419 | [163419-seraphic-destroyer-puzzles.json](./163419-seraphic-destroyer-puzzles.json) |
 | Seraphine's Skyward Journey | 388054 | [388054-seraphines-skyward-journey.json](./388054-seraphines-skyward-journey.json) |
@@ -3711,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slippery Richard!: He's Taller Than My Husband | 225100 | [225100-slippery-richard-hes-taller-than-my-husband.json](./225100-slippery-richard-hes-taller-than-my-husband.json) |
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
 | Slippy Slug | 34671 | [34671-slippy-slug.json](./34671-slippy-slug.json) |
+| Slippy the Frog | 258027 | [258027-slippy-the-frog.json](./258027-slippy-the-frog.json) |
 | SlipSlop | 119736 | [119736-slipslop.json](./119736-slipslop.json) |
 | SlipSpeed | 132818 | [132818-slipspeed.json](./132818-slipspeed.json) |
 | Slither Realm | 388946 | [388946-slither-realm.json](./388946-slither-realm.json) |
@@ -3754,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sludge Department | 406197 | [406197-sludge-department.json](./406197-sludge-department.json) |
 | Sludgineers | 389622 | [389622-sludgineers.json](./389622-sludgineers.json) |
 | Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
+| Slug Gear | 257996 | [257996-slug-gear.json](./257996-slug-gear.json) |
 | Slugger 2 | 326802 | [326802-slugger-2.json](./326802-slugger-2.json) |
 | Sluggerpunk | 298141 | [298141-sluggerpunk.json](./298141-sluggerpunk.json) |
 | Sluggish Morss: Days of the Purple Sun | 30831 | [30831-sluggish-morss-days-of-the-purple-sun.json](./30831-sluggish-morss-days-of-the-purple-sun.json) |
@@ -6967,6 +6970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsiege: Tribes | 881 | [881-starsiege-tribes.json](./881-starsiege-tribes.json) |
 | Starspawn: A Miskatonic Mystery | 347785 | [347785-starspawn-a-miskatonic-mystery.json](./347785-starspawn-a-miskatonic-mystery.json) |
 | Starsphere | 34321 | [34321-starsphere.json](./34321-starsphere.json) |
+| StarStorm | 258032 | [258032-starstorm.json](./258032-starstorm.json) |
 | Starstride | 264622 | [264622-starstride.json](./264622-starstride.json) |
 | Starstruck | 239651 | [239651-starstruck.json](./239651-starstruck.json) |
 | Starsuits! (Remastered+ Edition) | 357317 | [357317-starsuits-remastered-edition.json](./357317-starsuits-remastered-edition.json) |
@@ -7481,6 +7485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Place | 351615 | [351615-strange-place.json](./351615-strange-place.json) |
 | Strange Pong | 339659 | [339659-strange-pong.json](./339659-strange-pong.json) |
 | Strange Pool | 331879 | [331879-strange-pool.json](./331879-strange-pool.json) |
+| Strange Seed | 257998 | [257998-strange-seed.json](./257998-strange-seed.json) |
 | Strange Shores: Social Desktop Fishing | 344395 | [344395-strange-shores-social-desktop-fishing.json](./344395-strange-shores-social-desktop-fishing.json) |
 | Strange Tales of Tei-Shan | 301262 | [301262-strange-tales-of-tei-shan.json](./301262-strange-tales-of-tei-shan.json) |
 | Strange Things | 75775 | [75775-strange-things.json](./75775-strange-things.json) |
@@ -9579,6 +9584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swiftle | 327426 | [327426-swiftle.json](./327426-swiftle.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
 | Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
+| Swimming Dynasty | 258024 | [258024-swimming-dynasty.json](./258024-swimming-dynasty.json) |
 | Swimpossible! | 366238 | [366238-swimpossible.json](./366238-swimpossible.json) |
 | Swindler | 51170 | [51170-swindler.json](./51170-swindler.json) |
 | Swine's Revenge | 360011 | [360011-swines-revenge.json](./360011-swines-revenge.json) |
