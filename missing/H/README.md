@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
 | Hentai Girls: Amazing Edition | 294827 | [294827-hentai-girls-amazing-edition.json](./294827-hentai-girls-amazing-edition.json) |
+| Hentai Girls: Director's Cut | 284501 | [284501-hentai-girls-directors-cut.json](./284501-hentai-girls-directors-cut.json) |
 | Hentai Girls: Fresh Firefighter | 300863 | [300863-hentai-girls-fresh-firefighter.json](./300863-hentai-girls-fresh-firefighter.json) |
 | Hentai Girls: Happy Edition | 290427 | [290427-hentai-girls-happy-edition.json](./290427-hentai-girls-happy-edition.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
