@@ -1808,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Cat Pro | 86707 | [86707-rhythm-cat-pro.json](./86707-rhythm-cat-pro.json) |
 | Rhythm Core Alpha | 84842 | [84842-rhythm-core-alpha.json](./84842-rhythm-core-alpha.json) |
 | Rhythm Core Alpha 2 | 84841 | [84841-rhythm-core-alpha-2.json](./84841-rhythm-core-alpha-2.json) |
+| Rhythm Dodge | 257999 | [257999-rhythm-dodge.json](./257999-rhythm-dodge.json) |
 | Rhythm Girl | 90070 | [90070-rhythm-girl.json](./90070-rhythm-girl.json) |
 | Rhythm Heaven Groove | 337031 | [337031-rhythm-heaven-groove.json](./337031-rhythm-heaven-groove.json) |
 | Rhythm Heaven Megamix: Sonic 2 Edition | 314490 | [314490-rhythm-heaven-megamix-sonic-2-edition.json](./314490-rhythm-heaven-megamix-sonic-2-edition.json) |
