@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopus | 287659 | [287659-octopus.json](./287659-octopus.json) |
 | Octopus 21 | 322390 | [322390-octopus-21.json](./322390-octopus-21.json) |
 | Octopus Evolution | 206733 | [206733-octopus-evolution.json](./206733-octopus-evolution.json) |
+| Octopus Trouble | 255145 | [255145-octopus-trouble.json](./255145-octopus-trouble.json) |
 | Octopuz | 265748 | [265748-octopuz.json](./265748-octopuz.json) |
 | Octorabbit | 181319 | [181319-octorabbit.json](./181319-octorabbit.json) |
 | Octov | 25754 | [25754-octov.json](./25754-octov.json) |
@@ -531,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omori | 26673 | [26673-omori.json](./26673-omori.json) |
 | Omoshiroi Moro | 259826 | [259826-omoshiroi-moro.json](./259826-omoshiroi-moro.json) |
 | OMSI 2: Aachen | 155135 | [155135-omsi-2-aachen.json](./155135-omsi-2-aachen.json) |
+| OMSI 2: Add-On - Man SL200 | 255076 | [255076-omsi-2-add-on-man-sl200.json](./255076-omsi-2-add-on-man-sl200.json) |
 | OMSI 2: Add-on Zürich Tram Linie 11 | 306070 | [306070-omsi-2-add-on-zurich-tram-linie-11.json](./306070-omsi-2-add-on-zurich-tram-linie-11.json) |
 | OMSI 2: Bad Hügelsdorf 2020 | 155130 | [155130-omsi-2-bad-hugelsdorf-2020.json](./155130-omsi-2-bad-hugelsdorf-2020.json) |
 | OMSI 2: Berlin BRT | 155146 | [155146-omsi-2-berlin-brt.json](./155146-omsi-2-berlin-brt.json) |
@@ -581,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Yorkshire Counties | 155108 | [155108-omsi-2-yorkshire-counties.json](./155108-omsi-2-yorkshire-counties.json) |
 | On a Roll 3D: Levels 7 - 9 | 197382 | [197382-on-a-roll-3d-levels-7-9.json](./197382-on-a-roll-3d-levels-7-9.json) |
 | On a Summer Night | 263773 | [263773-on-a-summer-night.json](./263773-on-a-summer-night.json) |
+| On Air Island | 255179 | [255179-on-air-island.json](./255179-on-air-island.json) |
 | On Any Journey | 339378 | [339378-on-any-journey.json](./339378-on-any-journey.json) |
 | On Board Remastered | 109665 | [109665-on-board-remastered.json](./109665-on-board-remastered.json) |
 | On Constant Delay | 400296 | [400296-on-constant-delay.json](./400296-on-constant-delay.json) |
