@@ -2016,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Casino Empire | 257940 | [257940-the-casino-empire.json](./257940-the-casino-empire.json) |
 | The Casino: Roulette, Video Poker, Slot Machines, Craps, Baccarat | 147952 | [147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json](./147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json) |
 | The Cassandra Galleries | 86022 | [86022-the-cassandra-galleries.json](./86022-the-cassandra-galleries.json) |
+| The Castle Burns! | 239153 | [239153-the-castle-burns.json](./239153-the-castle-burns.json) |
 | The Castle Disaster 2 | 105318 | [105318-the-castle-disaster-2.json](./105318-the-castle-disaster-2.json) |
 | The Castle Doctrine | 16651 | [16651-the-castle-doctrine.json](./16651-the-castle-doctrine.json) |
 | The Cat | 289315 | [289315-the-cat.json](./289315-the-cat.json) |
@@ -3466,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Chalkvania | 395570 | [395570-the-legend-of-chalkvania.json](./395570-the-legend-of-chalkvania.json) |
 | The Legend of Chosen Blood | 285608 | [285608-the-legend-of-chosen-blood.json](./285608-the-legend-of-chosen-blood.json) |
 | The Legend of Cube | 227858 | [227858-the-legend-of-cube.json](./227858-the-legend-of-cube.json) |
+| The Legend of Dragoon | 239182 | [239182-the-legend-of-dragoon.json](./239182-the-legend-of-dragoon.json) |
 | The Legend of Eight Dragons | 145653 | [145653-the-legend-of-eight-dragons.json](./145653-the-legend-of-eight-dragons.json) |
 | The Legend of Eldridge Scrolls: Woop | 130921 | [130921-the-legend-of-eldridge-scrolls-woop.json](./130921-the-legend-of-eldridge-scrolls-woop.json) |
 | The Legend of Elrian | 290002 | [290002-the-legend-of-elrian.json](./290002-the-legend-of-elrian.json) |
@@ -3641,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Living Dungeon | 21316 | [21316-the-living-dungeon.json](./21316-the-living-dungeon.json) |
 | The Living End & Elder World Waystation | 271480 | [271480-the-living-end-and-elder-world-waystation.json](./271480-the-living-end-and-elder-world-waystation.json) |
 | The Living Remain | 103536 | [103536-the-living-remain.json](./103536-the-living-remain.json) |
+| The Lizard King | 239154 | [239154-the-lizard-king.json](./239154-the-lizard-king.json) |
 | The Llama | 387343 | [387343-the-llama.json](./387343-the-llama.json) |
 | The Lodge | 158190 | [158190-the-lodge.json](./158190-the-lodge.json) |
 | The Lone Alien | 237079 | [237079-the-lone-alien.json](./237079-the-lone-alien.json) |
@@ -4959,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
 | The Tower | 366928 | [366928-the-tower.json](./366928-the-tower.json) |
 | The Tower 2 | 120952 | [120952-the-tower-2.json](./120952-the-tower-2.json) |
+| The Tower of Druaga | 239167 | [239167-the-tower-of-druaga.json](./239167-the-tower-of-druaga.json) |
 | The Tower of Eden | 346153 | [346153-the-tower-of-eden.json](./346153-the-tower-of-eden.json) |
 | The Tower of Shadows | 347232 | [347232-the-tower-of-shadows.json](./347232-the-tower-of-shadows.json) |
 | The Tower of the Spells | 257456 | [257456-the-tower-of-the-spells.json](./257456-the-tower-of-the-spells.json) |
@@ -5645,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This War of Mine: Complete Edition | 111817 | [111817-this-war-of-mine-complete-edition.json](./111817-this-war-of-mine-complete-edition.json) |
 | This War of Mine: Stories - Father's Promise | 75871 | [75871-this-war-of-mine-stories-fathers-promise.json](./75871-this-war-of-mine-stories-fathers-promise.json) |
 | This War of Mine: Stories - Season Pass | 75872 | [75872-this-war-of-mine-stories-season-pass.json](./75872-this-war-of-mine-stories-season-pass.json) |
+| This was Once a Place of Honour | 239199 | [239199-this-was-once-a-place-of-honour.json](./239199-this-was-once-a-place-of-honour.json) |
 | This, My Soul | 179692 | [179692-this-my-soul.json](./179692-this-my-soul.json) |
 | Thistledown: Marrowroot | 216502 | [216502-thistledown-marrowroot.json](./216502-thistledown-marrowroot.json) |
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
@@ -6698,6 +6703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toader | 112975 | [112975-toader.json](./112975-toader.json) |
 | Toadette Strikes | 134069 | [134069-toadette-strikes.json](./134069-toadette-strikes.json) |
 | Toadomination | 173243 | [173243-toadomination.json](./173243-toadomination.json) |
+| Toaplan Arcade 2 | 239142 | [239142-toaplan-arcade-2.json](./239142-toaplan-arcade-2.json) |
 | Toaplan Arcade Collection 3 | 325237 | [325237-toaplan-arcade-collection-3.json](./325237-toaplan-arcade-collection-3.json) |
 | Toaplan Arcade Collection 4 | 325236 | [325236-toaplan-arcade-collection-4.json](./325236-toaplan-arcade-collection-4.json) |
 | Toaplan Arcade Garage: Flying Fire Shark | 414454 | [414454-toaplan-arcade-garage-flying-fire-shark.json](./414454-toaplan-arcade-garage-flying-fire-shark.json) |
