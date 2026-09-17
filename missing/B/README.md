@@ -327,6 +327,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balala Dà Zhuǎnhuàn | 359469 | [359469-balala-da-zhuanhuan.json](./359469-balala-da-zhuanhuan.json) |
 | Balam and the Spirit Within | 201325 | [201325-balam-and-the-spirit-within.json](./201325-balam-and-the-spirit-within.json) |
 | Balance | 297775 | [297775-balance.json](./297775-balance.json) |
+| Balance Balls | 262438 | [262438-balance-balls.json](./262438-balance-balls.json) |
+| Balance Balls 2 | 262442 | [262442-balance-balls-2.json](./262442-balance-balls-2.json) |
 | Balance of Kingdoms | 66144 | [66144-balance-of-kingdoms.json](./66144-balance-of-kingdoms.json) |
 | Balance of Power | 183072 | [183072-balance-of-power.json](./183072-balance-of-power.json) |
 | Balance of the Planet | 50499 | [50499-balance-of-the-planet.json](./50499-balance-of-the-planet.json) |
@@ -3630,9 +3632,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Ball Blitz | 272382 | [272382-bounce-ball-blitz.json](./272382-bounce-ball-blitz.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
 | Bounce Cat | 352747 | [352747-bounce-cat.json](./352747-bounce-cat.json) |
+| Bounce House | 262487 | [262487-bounce-house.json](./262487-bounce-house.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
 | Bounce Mania | 146849 | [146849-bounce-mania.json](./146849-bounce-mania.json) |
 | Bounce Original | 344928 | [344928-bounce-original.json](./344928-bounce-original.json) |
+| Bounce Shot | 262460 | [262460-bounce-shot.json](./262460-bounce-shot.json) |
 | Bounce Tales 64 | 135264 | [135264-bounce-tales-64.json](./135264-bounce-tales-64.json) |
 | Bounce Time! | 233240 | [233240-bounce-time.json](./233240-bounce-time.json) |
 | Bounce Zone | 84241 | [84241-bounce-zone.json](./84241-bounce-zone.json) |
@@ -4549,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullyparade: Der Spiel | 55024 | [55024-bullyparade-der-spiel.json](./55024-bullyparade-der-spiel.json) |
 | Bulorgus | 149559 | [149559-bulorgus.json](./149559-bulorgus.json) |
 | Bultaneun Yeonghon | 145596 | [145596-bultaneun-yeonghon.json](./145596-bultaneun-yeonghon.json) |
+| Bulu Monster | 262350 | [262350-bulu-monster.json](./262350-bulu-monster.json) |
 | Buluk: Mayan Warfare | 125420 | [125420-buluk-mayan-warfare.json](./125420-buluk-mayan-warfare.json) |
 | Bulwark Evolution: Falconeer Chronicles | 214486 | [214486-bulwark-evolution-falconeer-chronicles.json](./214486-bulwark-evolution-falconeer-chronicles.json) |
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
@@ -4739,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Empire: RichMan | 280220 | [280220-business-empire-richman.json](./280220-business-empire-richman.json) |
 | Business Management | 400853 | [400853-business-management.json](./400853-business-management.json) |
 | Business Ryoku Kentei DS | 70410 | [70410-business-ryoku-kentei-ds.json](./70410-business-ryoku-kentei-ds.json) |
+| Business Superstar Idle Tycoon | 262346 | [262346-business-superstar-idle-tycoon.json](./262346-business-superstar-idle-tycoon.json) |
 | Businessman Simulator | 402891 | [402891-businessman-simulator.json](./402891-businessman-simulator.json) |
 | Businessman Simulator 3 | 402973 | [402973-businessman-simulator-3.json](./402973-businessman-simulator-3.json) |
 | Businessmen | 301398 | [301398-businessmen.json](./301398-businessmen.json) |
