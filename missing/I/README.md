@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Cutter | 247213 | [247213-idle-cutter.json](./247213-idle-cutter.json) |
 | Idle Death Knight | 208031 | [208031-idle-death-knight.json](./208031-idle-death-knight.json) |
 | Idle Dessert Tycoon | 299452 | [299452-idle-dessert-tycoon.json](./299452-idle-dessert-tycoon.json) |
+| Idle Devils | 235851 | [235851-idle-devils.json](./235851-idle-devils.json) |
 | Idle Dig Gold: Craft Adventure | 248105 | [248105-idle-dig-gold-craft-adventure.json](./248105-idle-dig-gold-craft-adventure.json) |
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
 | Idle Dungeons | 103476 | [103476-idle-dungeons.json](./103476-idle-dungeons.json) |
@@ -814,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Space: Escape Room | 195800 | [195800-in-the-space-escape-room.json](./195800-in-the-space-escape-room.json) |
 | In the Valley of Death | 172673 | [172673-in-the-valley-of-death.json](./172673-in-the-valley-of-death.json) |
 | In the Village of Grandfather: Summer,Sun,Heat. | 106576 | [106576-in-the-village-of-grandfather-summer-sun-heat.json](./106576-in-the-village-of-grandfather-summer-sun-heat.json) |
+| In the Weeds | 235837 | [235837-in-the-weeds.json](./235837-in-the-weeds.json) |
 | In the Wild | 190143 | [190143-in-the-wild.json](./190143-in-the-wild.json) |
 | In the Workplace of Madness | 207335 | [207335-in-the-workplace-of-madness.json](./207335-in-the-workplace-of-madness.json) |
 | In This House | 327375 | [327375-in-this-house.json](./327375-in-this-house.json) |
@@ -842,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incarnation: Flame | 174823 | [174823-incarnation-flame.json](./174823-incarnation-flame.json) |
 | Incel Simulator | 315286 | [315286-incel-simulator.json](./315286-incel-simulator.json) |
 | InCell VR | 34595 | [34595-incell-vr.json](./34595-incell-vr.json) |
+| Incessant | 235832 | [235832-incessant.json](./235832-incessant.json) |
 | Incident at Grove Lake | 252736 | [252736-incident-at-grove-lake.json](./252736-incident-at-grove-lake.json) |
 | Incinera: Pandemonium | 379865 | [379865-incinera-pandemonium.json](./379865-incinera-pandemonium.json) |
 | Incineration | 260141 | [260141-incineration.json](./260141-incineration.json) |
