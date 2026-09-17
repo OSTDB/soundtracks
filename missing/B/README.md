@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Bang Ball | 40268 | [40268-bang-bang-ball.json](./40268-bang-bang-ball.json) |
 | Bang Bang Pull Pull | 329020 | [329020-bang-bang-pull-pull.json](./329020-bang-bang-pull-pull.json) |
 | Bang Bang Racing | 15286 | [15286-bang-bang-racing.json](./15286-bang-bang-racing.json) |
+| Bang Bang Simulations | 266288 | [266288-bang-bang-simulations.json](./266288-bang-bang-simulations.json) |
 | Bang Dream! Garupa AR! | 220326 | [220326-bang-dream-garupa-ar.json](./220326-bang-dream-garupa-ar.json) |
 | BanG Dream! Girls Band Party! for Nintendo Switch | 152887 | [152887-bang-dream-girls-band-party-for-nintendo-switch.json](./152887-bang-dream-girls-band-party-for-nintendo-switch.json) |
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
@@ -1337,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Boys 3: Zodiac Signs, Love & Horoscope Dating | 334091 | [334091-beach-boys-3-zodiac-signs-love-and-horoscope-dating.json](./334091-beach-boys-3-zodiac-signs-love-and-horoscope-dating.json) |
 | Beach Buggy Racing 2 | 110044 | [110044-beach-buggy-racing-2.json](./110044-beach-buggy-racing-2.json) |
 | Beach Buggy Racing 2: Tesla Edition | 341009 | [341009-beach-buggy-racing-2-tesla-edition.json](./341009-beach-buggy-racing-2-tesla-edition.json) |
+| Beach Cafe III: The Escape Room | 266316 | [266316-beach-cafe-iii-the-escape-room.json](./266316-beach-cafe-iii-the-escape-room.json) |
 | Beach Cafe: Caribbean Sand | 232988 | [232988-beach-cafe-caribbean-sand.json](./232988-beach-cafe-caribbean-sand.json) |
 | Beach Club Simulator 2024 | 289429 | [289429-beach-club-simulator-2024.json](./289429-beach-club-simulator-2024.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
@@ -2479,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Elf | 313895 | [313895-blackjack-elf.json](./313895-blackjack-elf.json) |
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
+| Blackjack Simulator 2024 | 266297 | [266297-blackjack-simulator-2024.json](./266297-blackjack-simulator-2024.json) |
 | Blackjack Tavern | 325071 | [325071-blackjack-tavern.json](./325071-blackjack-tavern.json) |
 | Blackjack Wars | 372984 | [372984-blackjack-wars.json](./372984-blackjack-wars.json) |
 | BlackJack: Daily 21 Points | 87143 | [87143-blackjack-daily-21-points.json](./87143-blackjack-daily-21-points.json) |
@@ -3564,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot.vinnik Chess: Early USSR Championships | 166169 | [166169-bot-vinnik-chess-early-ussr-championships.json](./166169-bot-vinnik-chess-early-ussr-championships.json) |
 | BOT.vinnik Chess: Prodigies | 223498 | [223498-bot-vinnik-chess-prodigies.json](./223498-bot-vinnik-chess-prodigies.json) |
 | Bot.vinnik Chess: Winning Patterns | 254119 | [254119-bot-vinnik-chess-winning-patterns.json](./254119-bot-vinnik-chess-winning-patterns.json) |
+| Botanical Chronicle | 266287 | [266287-botanical-chronicle.json](./266287-botanical-chronicle.json) |
 | Botanical TD | 214163 | [214163-botanical-td.json](./214163-botanical-td.json) |
 | Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
 | Botaniki | 229673 | [229673-botaniki.json](./229673-botaniki.json) |
@@ -4379,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy Bug | 335359 | [335359-buddy-bug.json](./335359-buddy-bug.json) |
 | Buddy Shell | 328071 | [328071-buddy-shell.json](./328071-buddy-shell.json) |
 | Buddy Shell 2 | 328070 | [328070-buddy-shell-2.json](./328070-buddy-shell-2.json) |
+| Budget Backrooms | 266290 | [266290-budget-backrooms.json](./266290-budget-backrooms.json) |
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
 | Buenos Aires Mirror Line | 391162 | [391162-buenos-aires-mirror-line.json](./391162-buenos-aires-mirror-line.json) |
 | Buff Doge | 219066 | [219066-buff-doge.json](./219066-buff-doge.json) |
