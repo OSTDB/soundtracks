@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the School | 302385 | [302385-alone-in-the-school.json](./302385-alone-in-the-school.json) |
 | Alone To Melt | 365753 | [365753-alone-to-melt.json](./365753-alone-to-melt.json) |
 | Alone Without Her | 19380 | [19380-alone-without-her.json](./19380-alone-without-her.json) |
+| Alone: Cold Winter | 239202 | [239202-alone-cold-winter.json](./239202-alone-cold-winter.json) |
 | Alone: Mnemophobia | 377076 | [377076-alone-mnemophobia.json](./377076-alone-mnemophobia.json) |
 | Alone? | 24926 | [24926-alone.json](./24926-alone.json) |
 | Alonecats | 293085 | [293085-alonecats.json](./293085-alonecats.json) |
@@ -2389,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Simulator | 18016 | [18016-ant-simulator.json](./18016-ant-simulator.json) |
 | Ant Smasher Christmas | 352174 | [352174-ant-smasher-christmas.json](./352174-ant-smasher-christmas.json) |
 | Ant War: Kingdom Battles | 255722 | [255722-ant-war-kingdom-battles.json](./255722-ant-war-kingdom-battles.json) |
+| Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
 | Antarctic Girl | 127922 | [127922-antarctic-girl.json](./127922-antarctic-girl.json) |
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
 | Antegods | 34252 | [34252-antegods.json](./34252-antegods.json) |
