@@ -4058,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
 | Dream Chronicles 2: The Eternal Maze | 50502 | [50502-dream-chronicles-2-the-eternal-maze.json](./50502-dream-chronicles-2-the-eternal-maze.json) |
 | Dream Chronicles: The Book of Air | 50501 | [50501-dream-chronicles-the-book-of-air.json](./50501-dream-chronicles-the-book-of-air.json) |
+| Dream City: Metropolis | 256352 | [256352-dream-city-metropolis.json](./256352-dream-city-metropolis.json) |
 | Dream Daddy: Dadrector's Cut | 111064 | [111064-dream-daddy-dadrectors-cut.json](./111064-dream-daddy-dadrectors-cut.json) |
 | Dream Dance & Cheer | 50632 | [50632-dream-dance-and-cheer.json](./50632-dream-dance-and-cheer.json) |
 | Dream Dancer | 209170 | [209170-dream-dancer.json](./209170-dream-dancer.json) |
