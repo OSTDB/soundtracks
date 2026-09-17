@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gophy | 234325 | [234325-gophy.json](./234325-gophy.json) |
 | Gopnik | 153461 | [153461-gopnik.json](./153461-gopnik.json) |
 | Gor Lab | 321155 | [321155-gor-lab.json](./321155-gor-lab.json) |
+| Goraku-Ou Tango! | 281521 | [281521-goraku-ou-tango.json](./281521-goraku-ou-tango.json) |
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
 | Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
@@ -1796,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
 | Gotham Gangsta | 29930 | [29930-gotham-gangsta.json](./29930-gotham-gangsta.json) |
 | Gotham Knights: Collector's Edition | 201777 | [201777-gotham-knights-collectors-edition.json](./201777-gotham-knights-collectors-edition.json) |
+| Gotham Knights: Heroic Assault: The Kelvin Incident | 281563 | [281563-gotham-knights-heroic-assault-the-kelvin-incident.json](./281563-gotham-knights-heroic-assault-the-kelvin-incident.json) |
 | Gothams Industrial District | 273116 | [273116-gothams-industrial-district.json](./273116-gothams-industrial-district.json) |
 | Gothic 1 Remake: Nyras Prologue | 333955 | [333955-gothic-1-remake-nyras-prologue.json](./333955-gothic-1-remake-nyras-prologue.json) |
 | Gothic 1881 | 158202 | [158202-gothic-1881.json](./158202-gothic-1881.json) |
@@ -2796,8 +2798,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guru Guru | 94165 | [94165-guru-guru.json](./94165-guru-guru.json) |
 | Guru Logic | 84233 | [84233-guru-logic.json](./84233-guru-logic.json) |
 | Guru Meditation | 178091 | [178091-guru-meditation.json](./178091-guru-meditation.json) |
+| Guru-guru Garacters | 281537 | [281537-guru-guru-garacters.json](./281537-guru-guru-garacters.json) |
+| Guru-guru Town Hanamaru-kun | 281538 | [281538-guru-guru-town-hanamaru-kun.json](./281538-guru-guru-town-hanamaru-kun.json) |
 | Gurugedara | 61620 | [61620-gurugedara.json](./61620-gurugedara.json) |
 | Gururin World | 286633 | [286633-gururin-world.json](./286633-gururin-world.json) |
+| Gute Zeiten Schlechte Zeiten Quiz | 281539 | [281539-gute-zeiten-schlechte-zeiten-quiz.json](./281539-gute-zeiten-schlechte-zeiten-quiz.json) |
 | Gütertrennung | 86017 | [86017-gutertrennung.json](./86017-gutertrennung.json) |
 | Guts and Syringes | 94766 | [94766-guts-and-syringes.json](./94766-guts-and-syringes.json) |
 | Guts'n | 40183 | [40183-gutsn.json](./40183-gutsn.json) |
@@ -2824,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyossait | 42684 | [42684-gyossait.json](./42684-gyossait.json) |
 | Gyossait: Deluxe Edition | 134001 | [134001-gyossait-deluxe-edition.json](./134001-gyossait-deluxe-edition.json) |
 | Gyousatsu! Spirits: Final Version | 137598 | [137598-gyousatsu-spirits-final-version.json](./137598-gyousatsu-spirits-final-version.json) |
+| Gyouten Ningen Batseelor: Doctor Guy no Yabou | 281540 | [281540-gyouten-ningen-batseelor-doctor-guy-no-yabou.json](./281540-gyouten-ningen-batseelor-doctor-guy-no-yabou.json) |
 | Gypsy | 24900 | [24900-gypsy.json](./24900-gypsy.json) |
 | Gyras: Rogue | 305540 | [305540-gyras-rogue.json](./305540-gyras-rogue.json) |
 | Gyre | 347749 | [347749-gyre.json](./347749-gyre.json) |
