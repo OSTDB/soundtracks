@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
 | Illusion of Being: Chapter 1 | 375953 | [375953-illusion-of-being-chapter-1.json](./375953-illusion-of-being-chapter-1.json) |
 | Illusion of L'Phalcia | 39010 | [39010-illusion-of-lphalcia.json](./39010-illusion-of-lphalcia.json) |
+| Illusion Squares | 255170 | [255170-illusion-squares.json](./255170-illusion-squares.json) |
 | Illusions 360 | 67971 | [67971-illusions-360.json](./67971-illusions-360.json) |
 | Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
 | Illville: Return instructions | 75180 | [75180-illville-return-instructions.json](./75180-illville-return-instructions.json) |
@@ -1407,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Emberlands: Supporter Pack | 321161 | [321161-into-the-emberlands-supporter-pack.json](./321161-into-the-emberlands-supporter-pack.json) |
 | Into the Farlands | 226437 | [226437-into-the-farlands.json](./226437-into-the-farlands.json) |
 | Into the Flames: Retro Fire Gear 1 | 256560 | [256560-into-the-flames-retro-fire-gear-1.json](./256560-into-the-flames-retro-fire-gear-1.json) |
+| Into The Flames: Retro Truck Pack 1 | 255162 | [255162-into-the-flames-retro-truck-pack-1.json](./255162-into-the-flames-retro-truck-pack-1.json) |
 | Into The Flames: Spooky Pack | 285606 | [285606-into-the-flames-spooky-pack.json](./285606-into-the-flames-spooky-pack.json) |
 | Into the Gorian's Den | 275014 | [275014-into-the-gorians-den.json](./275014-into-the-gorians-den.json) |
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
