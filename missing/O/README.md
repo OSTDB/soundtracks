@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopus Evolution | 206733 | [206733-octopus-evolution.json](./206733-octopus-evolution.json) |
 | Octorabbit | 181319 | [181319-octorabbit.json](./181319-octorabbit.json) |
 | Octov | 25754 | [25754-octov.json](./25754-octov.json) |
+| Oculant | 275717 | [275717-oculant.json](./275717-oculant.json) |
 | Oculus Arcade | 213949 | [213949-oculus-arcade.json](./213949-oculus-arcade.json) |
 | Oculux | 157126 | [157126-oculux.json](./157126-oculux.json) |
 | OD: Knock | 279637 | [279637-od-knock.json](./279637-od-knock.json) |
