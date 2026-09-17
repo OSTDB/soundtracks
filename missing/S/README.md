@@ -1140,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Warfare: Glorious | 188024 | [188024-sea-warfare-glorious.json](./188024-sea-warfare-glorious.json) |
 | Sea Wolf Arcade | 130940 | [130940-sea-wolf-arcade.json](./130940-sea-wolf-arcade.json) |
 | Sea Wolf: Tactics | 149586 | [149586-sea-wolf-tactics.json](./149586-sea-wolf-tactics.json) |
+| Sea World | 246503 | [246503-sea-world.json](./246503-sea-world.json) |
 | Sea-Doo Hydrocross | 264853 | [264853-sea-doo-hydrocross.json](./264853-sea-doo-hydrocross.json) |
 | Seabed Frog | 211956 | [211956-seabed-frog.json](./211956-seabed-frog.json) |
 | SeaBlade | 47320 | [47320-seablade.json](./47320-seablade.json) |
@@ -1239,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Archives | 294476 | [294476-secret-archives.json](./294476-secret-archives.json) |
 | Secret Backrooms | 204094 | [204094-secret-backrooms.json](./204094-secret-backrooms.json) |
 | Secret Blade | 245852 | [245852-secret-blade.json](./245852-secret-blade.json) |
+| Secret Bottle | 246479 | [246479-secret-bottle.json](./246479-secret-bottle.json) |
 | Secret Cat Forest | 206930 | [206930-secret-cat-forest.json](./206930-secret-cat-forest.json) |
 | Secret Cats: Easter | 368538 | [368538-secret-cats-easter.json](./368538-secret-cats-easter.json) |
 | Secret Cats: Ice Cream Day | 360648 | [360648-secret-cats-ice-cream-day.json](./360648-secret-cats-ice-cream-day.json) |
@@ -3866,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Bomber | 247035 | [247035-smart-bomber.json](./247035-smart-bomber.json) |
 | Smart Boy's Gameroom II | 208958 | [208958-smart-boys-gameroom-ii.json](./208958-smart-boys-gameroom-ii.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
+| Smart Frog | 246480 | [246480-smart-frog.json](./246480-smart-frog.json) |
 | Smart Frog | 358941 | [358941-smart-frog.json](./358941-smart-frog.json) |
 | Smart Games Puzzle Challenge 2 | 73256 | [73256-smart-games-puzzle-challenge-2.json](./73256-smart-games-puzzle-challenge-2.json) |
 | Smart Girl's Playhouse Mini | 21011 | [21011-smart-girls-playhouse-mini.json](./21011-smart-girls-playhouse-mini.json) |
@@ -5815,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Racer Candy Tracks | 343895 | [343895-speed-racer-candy-tracks.json](./343895-speed-racer-candy-tracks.json) |
 | Speed Rider Racing | 100166 | [100166-speed-rider-racing.json](./100166-speed-rider-racing.json) |
 | Speed Run | 304594 | [304594-speed-run.json](./304594-speed-run.json) |
+| Speed Runner | 246491 | [246491-speed-runner.json](./246491-speed-runner.json) |
 | Speed Surge | 335271 | [335271-speed-surge.json](./335271-speed-surge.json) |
 | Speed Tap Analysis | 297648 | [297648-speed-tap-analysis.json](./297648-speed-tap-analysis.json) |
 | Speed Tapping Idle RPG for Touhou | 297644 | [297644-speed-tapping-idle-rpg-for-touhou.json](./297644-speed-tapping-idle-rpg-for-touhou.json) |
@@ -6290,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Springtime Puzzle | 359403 | [359403-springtime-puzzle.json](./359403-springtime-puzzle.json) |
 | Sprinklebottom and the Haunted Ruins | 385217 | [385217-sprinklebottom-and-the-haunted-ruins.json](./385217-sprinklebottom-and-the-haunted-ruins.json) |
 | Sprinkler & Ghost | 216249 | [216249-sprinkler-and-ghost.json](./216249-sprinkler-and-ghost.json) |
+| Sprint | 246481 | [246481-sprint.json](./246481-sprint.json) |
 | Sprint | 359441 | [359441-sprint.json](./359441-sprint.json) |
 | Sprint Car Challenge | 43333 | [43333-sprint-car-challenge.json](./43333-sprint-car-challenge.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
@@ -6985,6 +6990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Moon Island: Star Ocean MP08 | 190682 | [190682-starry-moon-island-star-ocean-mp08.json](./190682-starry-moon-island-star-ocean-mp08.json) |
 | Starry Moon Island: Star Ocean MP09 | 190683 | [190683-starry-moon-island-star-ocean-mp09.json](./190683-starry-moon-island-star-ocean-mp09.json) |
 | Starry Moon Island: Star Ocean MP10 | 190677 | [190677-starry-moon-island-star-ocean-mp10.json](./190677-starry-moon-island-star-ocean-mp10.json) |
+| Starry Night | 246493 | [246493-starry-night.json](./246493-starry-night.json) |
 | Starry Nights: Helix | 30868 | [30868-starry-nights-helix.json](./30868-starry-nights-helix.json) |
 | Starry Sky: After Spring | 201758 | [201758-starry-sky-after-spring.json](./201758-starry-sky-after-spring.json) |
 | Starry Sky: After Spring Portable | 201833 | [201833-starry-sky-after-spring-portable.json](./201833-starry-sky-after-spring-portable.json) |
@@ -9005,6 +9011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
 | Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
+| Super Rabbit | 246482 | [246482-super-rabbit.json](./246482-super-rabbit.json) |
 | Super Ranger | 377710 | [377710-super-ranger.json](./377710-super-ranger.json) |
 | Super Rare Mixtape: Horror Edition | 272829 | [272829-super-rare-mixtape-horror-edition.json](./272829-super-rare-mixtape-horror-edition.json) |
 | Super Real Hanafuda: Koi Koi Shimasho | 130299 | [130299-super-real-hanafuda-koi-koi-shimasho.json](./130299-super-real-hanafuda-koi-koi-shimasho.json) |
@@ -9350,6 +9357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf 'm Up! | 77331 | [77331-surf-m-up.json](./77331-surf-m-up.json) |
 | Surf 'n Safari | 93574 | [93574-surf-n-safari.json](./93574-surf-n-safari.json) |
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
+| Surf Adventure | 246496 | [246496-surf-adventure.json](./246496-surf-adventure.json) |
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
 | Surface | 395545 | [395545-surface.json](./395545-surface.json) |
 | Surface Breaker | 383954 | [383954-surface-breaker.json](./383954-surface-breaker.json) |
@@ -9682,6 +9690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Boy | 346573 | [346573-swing-boy.json](./346573-swing-boy.json) |
 | Swing Copters | 7672 | [7672-swing-copters.json](./7672-swing-copters.json) |
 | Swing dungeon | 161326 | [161326-swing-dungeon.json](./161326-swing-dungeon.json) |
+| Swing Fall | 246483 | [246483-swing-fall.json](./246483-swing-fall.json) |
 | Swing Fall | 359442 | [359442-swing-fall.json](./359442-swing-fall.json) |
 | Swing Fling | 317427 | [317427-swing-fling.json](./317427-swing-fling.json) |
 | Swing Home Run | 234056 | [234056-swing-home-run.json](./234056-swing-home-run.json) |
