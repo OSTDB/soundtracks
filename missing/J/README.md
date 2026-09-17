@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jasper's Island | 274978 | [274978-jaspers-island.json](./274978-jaspers-island.json) |
 | Java Jim in Square Shaped Trouble | 37069 | [37069-java-jim-in-square-shaped-trouble.json](./37069-java-jim-in-square-shaped-trouble.json) |
 | Javaders | 128578 | [128578-javaders.json](./128578-javaders.json) |
+| Javelin | 247047 | [247047-javelin.json](./247047-javelin.json) |
 | Javelin Masters 2 | 344451 | [344451-javelin-masters-2.json](./344451-javelin-masters-2.json) |
 | Jawaker | 315697 | [315697-jawaker.json](./315697-jawaker.json) |
 | Jawbreak | 271803 | [271803-jawbreak.json](./271803-jawbreak.json) |
