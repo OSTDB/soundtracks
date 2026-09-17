@@ -3487,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: Extended Edition | 218476 | [218476-construction-simulator-extended-edition.json](./218476-construction-simulator-extended-edition.json) |
 | Construction Simulator: JCB Pack | 246399 | [246399-construction-simulator-jcb-pack.json](./246399-construction-simulator-jcb-pack.json) |
 | Construction Simulator: Spaceport Bundle | 277569 | [277569-construction-simulator-spaceport-bundle.json](./277569-construction-simulator-spaceport-bundle.json) |
+| Construction Simulator: Spaceport Expansion | 275117 | [275117-construction-simulator-spaceport-expansion.json](./275117-construction-simulator-spaceport-expansion.json) |
 | Construction Simulator: Year 1 Season Pass | 246401 | [246401-construction-simulator-year-1-season-pass.json](./246401-construction-simulator-year-1-season-pass.json) |
 | Construction: Action - Map: Ampharos | 354492 | [354492-construction-action-map-ampharos.json](./354492-construction-action-map-ampharos.json) |
 | Construction: Action - Map: Arcanine | 354493 | [354493-construction-action-map-arcanine.json](./354493-construction-action-map-arcanine.json) |
@@ -3831,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoWarrior Zero | 43875 | [43875-cosmowarrior-zero.json](./43875-cosmowarrior-zero.json) |
 | Cosmula | 306348 | [306348-cosmula.json](./306348-cosmula.json) |
 | Cosplay Crisis: Succubus Invasion | 309861 | [309861-cosplay-crisis-succubus-invasion.json](./309861-cosplay-crisis-succubus-invasion.json) |
+| Cosplay Relaxation | 275137 | [275137-cosplay-relaxation.json](./275137-cosplay-relaxation.json) |
 | Cosplay Relaxation | 276323 | [276323-cosplay-relaxation.json](./276323-cosplay-relaxation.json) |
 | Cossacks 3: The Golden Age | 144963 | [144963-cossacks-3-the-golden-age.json](./144963-cossacks-3-the-golden-age.json) |
 | Cossacks: Campaign Expansion | 144964 | [144964-cossacks-campaign-expansion.json](./144964-cossacks-campaign-expansion.json) |
@@ -4517,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossing Acheron | 354427 | [354427-crossing-acheron.json](./354427-crossing-acheron.json) |
 | Crossing Brothel: Tales of an Interspecies Bordello | 82839 | [82839-crossing-brothel-tales-of-an-interspecies-bordello.json](./82839-crossing-brothel-tales-of-an-interspecies-bordello.json) |
 | Crossing Damaged Bridge | 250944 | [250944-crossing-damaged-bridge.json](./250944-crossing-damaged-bridge.json) |
+| Crossing Frontier: Fate Foretold | 275096 | [275096-crossing-frontier-fate-foretold.json](./275096-crossing-frontier-fate-foretold.json) |
 | Crossing Miracles | 316647 | [316647-crossing-miracles.json](./316647-crossing-miracles.json) |
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
