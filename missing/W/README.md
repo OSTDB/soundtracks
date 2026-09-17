@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk on the Ground Simulator | 120945 | [120945-walk-on-the-ground-simulator.json](./120945-walk-on-the-ground-simulator.json) |
 | Walk the Fort | 115605 | [115605-walk-the-fort.json](./115605-walk-the-fort.json) |
 | Walk The Frog | 348324 | [348324-walk-the-frog.json](./348324-walk-the-frog.json) |
+| Walk the Past VR | 239742 | [239742-walk-the-past-vr.json](./239742-walk-the-past-vr.json) |
 | Walk the Times | 258020 | [258020-walk-the-times.json](./258020-walk-the-times.json) |
 | Walk With Me | 128002 | [128002-walk-with-me.json](./128002-walk-with-me.json) |
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
