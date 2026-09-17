@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taimanin Asagi | 259866 | [259866-taimanin-asagi.json](./259866-taimanin-asagi.json) |
 | Taimanin RPG Extasy | 272920 | [272920-taimanin-rpg-extasy.json](./272920-taimanin-rpg-extasy.json) |
 | Taina's Cursed Legacy | 361686 | [361686-tainas-cursed-legacy.json](./361686-tainas-cursed-legacy.json) |
+| Tainted | 271846 | [271846-tainted.json](./271846-tainted.json) |
 | Tainted Grail: Conquest | 146424 | [146424-tainted-grail-conquest.json](./146424-tainted-grail-conquest.json) |
 | Tainted Ground | 373031 | [373031-tainted-ground.json](./373031-tainted-ground.json) |
 | Tainted Gun | 208597 | [208597-tainted-gun.json](./208597-tainted-gun.json) |
@@ -1804,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bitsy Jim Jam | 184038 | [184038-the-bitsy-jim-jam.json](./184038-the-bitsy-jim-jam.json) |
 | The Bizarre Adventures of Woodruff and the Schnibble | 2226 | [2226-the-bizarre-adventures-of-woodruff-and-the-schnibble.json](./2226-the-bizarre-adventures-of-woodruff-and-the-schnibble.json) |
 | The Black Bahr | 374588 | [374588-the-black-bahr.json](./374588-the-black-bahr.json) |
+| The Black Fog | 271853 | [271853-the-black-fog.json](./271853-the-black-fog.json) |
 | The Black Knight | 371875 | [371875-the-black-knight.json](./371875-the-black-knight.json) |
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
 | The Black Pepper Crew | 184629 | [184629-the-black-pepper-crew.json](./184629-the-black-pepper-crew.json) |
@@ -2006,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cinderling | 404855 | [404855-the-cinderling.json](./404855-the-cinderling.json) |
 | The Circulation of Shadows | 271462 | [271462-the-circulation-of-shadows.json](./271462-the-circulation-of-shadows.json) |
 | The Citadel | 58820 | [58820-the-citadel.json](./58820-the-citadel.json) |
+| The Citadel of Sinners | 271810 | [271810-the-citadel-of-sinners.json](./271810-the-citadel-of-sinners.json) |
 | The Citizen | 296374 | [296374-the-citizen.json](./296374-the-citizen.json) |
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
 | The City Must Grow | 180243 | [180243-the-city-must-grow.json](./180243-the-city-must-grow.json) |
@@ -2830,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Green Room Experiment: Episode 3 | 290011 | [290011-the-green-room-experiment-episode-3.json](./290011-the-green-room-experiment-episode-3.json) |
 | The Greenskins | 74374 | [74374-the-greenskins.json](./74374-the-greenskins.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
+| The Grinding of Teeth | 271852 | [271852-the-grinding-of-teeth.json](./271852-the-grinding-of-teeth.json) |
 | The Ground Division | 139398 | [139398-the-ground-division.json](./139398-the-ground-division.json) |
 | The Groundskeeper | 366885 | [366885-the-groundskeeper.json](./366885-the-groundskeeper.json) |
 | The Growth Project | 26614 | [26614-the-growth-project.json](./26614-the-growth-project.json) |
@@ -2891,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heist of the Argonaut Limited | 305347 | [305347-the-heist-of-the-argonaut-limited.json](./305347-the-heist-of-the-argonaut-limited.json) |
 | The Hell in I | 301830 | [301830-the-hell-in-i.json](./301830-the-hell-in-i.json) |
 | The Hell Inside | 286082 | [286082-the-hell-inside.json](./286082-the-hell-inside.json) |
+| The Hell That's Coming | 271849 | [271849-the-hell-thats-coming.json](./271849-the-hell-thats-coming.json) |
 | The Hellbrand | 190728 | [190728-the-hellbrand.json](./190728-the-hellbrand.json) |
 | The Hellchemist | 240800 | [240800-the-hellchemist.json](./240800-the-hellchemist.json) |
 | The Henchmen | 220674 | [220674-the-henchmen.json](./220674-the-henchmen.json) |
@@ -3128,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
 | The Kangaroo Conspiracy DX | 366224 | [366224-the-kangaroo-conspiracy-dx.json](./366224-the-kangaroo-conspiracy-dx.json) |
 | The Karaoke | 224806 | [224806-the-karaoke.json](./224806-the-karaoke.json) |
+| The Katagean Redoubt | 271816 | [271816-the-katagean-redoubt.json](./271816-the-katagean-redoubt.json) |
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
 | The Keeper | 162424 | [162424-the-keeper.json](./162424-the-keeper.json) |
 | The Keepers of Pages: Chevengur | 111663 | [111663-the-keepers-of-pages-chevengur.json](./111663-the-keepers-of-pages-chevengur.json) |
@@ -4639,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strongest Ancestor | 301614 | [301614-the-strongest-ancestor.json](./301614-the-strongest-ancestor.json) |
 | The Stronghold Collection | 27858 | [27858-the-stronghold-collection.json](./27858-the-stronghold-collection.json) |
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
+| The Subconscious Fear | 271809 | [271809-the-subconscious-fear.json](./271809-the-subconscious-fear.json) |
 | The Subminer | 410344 | [410344-the-subminer.json](./410344-the-subminer.json) |
 | The Substance of Things | 174359 | [174359-the-substance-of-things.json](./174359-the-substance-of-things.json) |
 | The Succubi Trap | 74354 | [74354-the-succubi-trap.json](./74354-the-succubi-trap.json) |
@@ -4994,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Under Presents | 132208 | [132208-the-under-presents.json](./132208-the-under-presents.json) |
 | The Underdog | 373013 | [373013-the-underdog.json](./373013-the-underdog.json) |
 | The Undergrounders | 339847 | [339847-the-undergrounders.json](./339847-the-undergrounders.json) |
+| The Underworld | 271804 | [271804-the-underworld.json](./271804-the-underworld.json) |
 | The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
 | The Unexpected (But Not Entirely Surprising) Demise of Jacques du Schnozzle | 329126 | [329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json](./329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json) |
 | The Unexpected Heiress | 313854 | [313854-the-unexpected-heiress.json](./313854-the-unexpected-heiress.json) |
