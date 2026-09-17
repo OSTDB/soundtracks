@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Monsters | 47214 | [47214-scary-monsters.json](./47214-scary-monsters.json) |
 | Scary Neighbor Survival | 100854 | [100854-scary-neighbor-survival.json](./100854-scary-neighbor-survival.json) |
 | Scary Nikki | 229668 | [229668-scary-nikki.json](./229668-scary-nikki.json) |
+| Scary Pictures: Yavez - Seven Deadly Sins | 235859 | [235859-scary-pictures-yavez-seven-deadly-sins.json](./235859-scary-pictures-yavez-seven-deadly-sins.json) |
 | Scary Robber: Home Clash | 227484 | [227484-scary-robber-home-clash.json](./227484-scary-robber-home-clash.json) |
 | Scary Shadow Spot: Bitter Glass | 328228 | [328228-scary-shadow-spot-bitter-glass.json](./328228-scary-shadow-spot-bitter-glass.json) |
 | Scary Stories | 323518 | [323518-scary-stories.json](./323518-scary-stories.json) |
@@ -2741,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuwa Shuwa Guin! | 383940 | [383940-shuwa-shuwa-guin.json](./383940-shuwa-shuwa-guin.json) |
 | Shuyun Huazhang | 335360 | [335360-shuyun-huazhang.json](./335360-shuyun-huazhang.json) |
 | Shy Cats Hidden Orchestra 2 | 409556 | [409556-shy-cats-hidden-orchestra-2.json](./409556-shy-cats-hidden-orchestra-2.json) |
+| Shy Cats: Hidden Orchestra | 235872 | [235872-shy-cats-hidden-orchestra.json](./235872-shy-cats-hidden-orchestra.json) |
 | Shy Dogs Hidden Orchestra | 258215 | [258215-shy-dogs-hidden-orchestra.json](./258215-shy-dogs-hidden-orchestra.json) |
 | Shy Dogs: Hidden Orchestra 2 | 407461 | [407461-shy-dogs-hidden-orchestra-2.json](./407461-shy-dogs-hidden-orchestra-2.json) |
 | Shy Girl | 226198 | [226198-shy-girl.json](./226198-shy-girl.json) |
@@ -3305,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
 | Sker Ritual: Bloody Night | 279012 | [279012-sker-ritual-bloody-night.json](./279012-sker-ritual-bloody-night.json) |
 | Sker Ritual: Goon Brenn | 235466 | [235466-sker-ritual-goon-brenn.json](./235466-sker-ritual-goon-brenn.json) |
+| Sker Ritual: The Quiet Ones | 235843 | [235843-sker-ritual-the-quiet-ones.json](./235843-sker-ritual-the-quiet-ones.json) |
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
 | Sketch! Run! | 105886 | [105886-sketch-run.json](./105886-sketch-run.json) |
@@ -6114,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
 | Spiral Clicker | 110994 | [110994-spiral-clicker.json](./110994-spiral-clicker.json) |
+| Spiral Dystopia | 235857 | [235857-spiral-dystopia.json](./235857-spiral-dystopia.json) |
 | Spiral House | 178015 | [178015-spiral-house.json](./178015-spiral-house.json) |
 | Spiral of War | 270785 | [270785-spiral-of-war.json](./270785-spiral-of-war.json) |
 | Spiral Smash | 244871 | [244871-spiral-smash.json](./244871-spiral-smash.json) |
@@ -6904,6 +6908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star-Crossed Myth: The Department of Wishes - Constellations of Love: Huedhaut | 238071 | [238071-star-crossed-myth-the-department-of-wishes-constellations-of-love-huedhaut.json](./238071-star-crossed-myth-the-department-of-wishes-constellations-of-love-huedhaut.json) |
 | Star-Crossed Myth: The Department of Wishes - Constellations of Love: Leon | 238073 | [238073-star-crossed-myth-the-department-of-wishes-constellations-of-love-leon.json](./238073-star-crossed-myth-the-department-of-wishes-constellations-of-love-leon.json) |
 | Star-Crossed Myth: The Department of Wishes - Constellations of Love: Teorus | 238075 | [238075-star-crossed-myth-the-department-of-wishes-constellations-of-love-teorus.json](./238075-star-crossed-myth-the-department-of-wishes-constellations-of-love-teorus.json) |
+| Star-Crosst | 235836 | [235836-star-crosst.json](./235836-star-crosst.json) |
 | Star-Rocket Strike | 90616 | [90616-star-rocket-strike.json](./90616-star-rocket-strike.json) |
 | Star-Twine | 30800 | [30800-star-twine.json](./30800-star-twine.json) |
 | Star-Wired | 310939 | [310939-star-wired.json](./310939-star-wired.json) |
@@ -9440,6 +9445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
 | Superstar Streetz | 186318 | [186318-superstar-streetz.json](./186318-superstar-streetz.json) |
 | Superstars V8: Next Challenge | 20499 | [20499-superstars-v8-next-challenge.json](./20499-superstars-v8-next-challenge.json) |
+| Superstein | 235865 | [235865-superstein.json](./235865-superstein.json) |
 | Superstition BlackCat | 330331 | [330331-superstition-blackcat.json](./330331-superstition-blackcat.json) |
 | Superstore | 328482 | [328482-superstore.json](./328482-superstore.json) |
 | SuperSuperMarket! | 302364 | [302364-supersupermarket.json](./302364-supersupermarket.json) |
