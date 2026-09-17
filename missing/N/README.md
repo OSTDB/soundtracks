@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Street Vol. 2 | 4036 | [4036-nba-street-vol-2.json](./4036-nba-street-vol-2.json) |
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
 | NBA: King of the Court | 65509 | [65509-nba-king-of-the-court.json](./65509-nba-king-of-the-court.json) |
+| NBF0 | 249887 | [249887-nbf0.json](./249887-nbf0.json) |
 | Nblocks: Builder Pack 1 | 298589 | [298589-nblocks-builder-pack-1.json](./298589-nblocks-builder-pack-1.json) |
 | Nblocks: Builder Pack 2 | 298592 | [298592-nblocks-builder-pack-2.json](./298592-nblocks-builder-pack-2.json) |
 | Nblocks: Builder Pack 3 | 298590 | [298590-nblocks-builder-pack-3.json](./298590-nblocks-builder-pack-3.json) |
@@ -1746,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noisz Re: Collection G | 270796 | [270796-noisz-re-collection-g.json](./270796-noisz-re-collection-g.json) |
 | Noisz: DM Ashura Level Pack | 317032 | [317032-noisz-dm-ashura-level-pack.json](./317032-noisz-dm-ashura-level-pack.json) |
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
+| Noitapeli | 249886 | [249886-noitapeli.json](./249886-noitapeli.json) |
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
 | Noiz2sa | 86033 | [86033-noiz2sa.json](./86033-noiz2sa.json) |
 | NokNok | 341484 | [341484-noknok.json](./341484-noknok.json) |
