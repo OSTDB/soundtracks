@@ -500,7 +500,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed Rivals: Complete Edition | 118896 | [118896-need-for-speed-rivals-complete-edition.json](./118896-need-for-speed-rivals-complete-edition.json) |
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
 | Need for Speed: Carbon | 248118 | [248118-need-for-speed-carbon.json](./248118-need-for-speed-carbon.json) |
+| Need for Speed: Carbon | 248123 | [248123-need-for-speed-carbon.json](./248123-need-for-speed-carbon.json) |
 | Need for Speed: Carbon - Own the City | 197881 | [197881-need-for-speed-carbon-own-the-city.json](./197881-need-for-speed-carbon-own-the-city.json) |
+| Need for Speed: Carbon - Own the City | 248119 | [248119-need-for-speed-carbon-own-the-city.json](./248119-need-for-speed-carbon-own-the-city.json) |
+| Need for Speed: Carbon - Own the City | 248120 | [248120-need-for-speed-carbon-own-the-city.json](./248120-need-for-speed-carbon-own-the-city.json) |
 | Need for Speed: Heat | 119161 | [119161-need-for-speed-heat.json](./119161-need-for-speed-heat.json) |
 | Need for Speed: High Stakes | 93 | [93-need-for-speed-high-stakes.json](./93-need-for-speed-high-stakes.json) |
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
@@ -508,11 +511,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Most Wanted | 210161 | [210161-need-for-speed-most-wanted.json](./210161-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 243048 | [243048-need-for-speed-most-wanted.json](./243048-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 248206 | [248206-need-for-speed-most-wanted.json](./248206-need-for-speed-most-wanted.json) |
+| Need for Speed: Nitro | 248127 | [248127-need-for-speed-nitro.json](./248127-need-for-speed-nitro.json) |
+| Need for Speed: Porsche Unleashed | 248143 | [248143-need-for-speed-porsche-unleashed.json](./248143-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: Porsche Unleashed | 94 | [94-need-for-speed-porsche-unleashed.json](./94-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: ProStreet | 240505 | [240505-need-for-speed-prostreet.json](./240505-need-for-speed-prostreet.json) |
+| Need for Speed: ProStreet | 248125 | [248125-need-for-speed-prostreet.json](./248125-need-for-speed-prostreet.json) |
 | Need for Speed: Shift | 102 | [102-need-for-speed-shift.json](./102-need-for-speed-shift.json) |
+| Need for Speed: Shift | 248136 | [248136-need-for-speed-shift.json](./248136-need-for-speed-shift.json) |
+| Need for Speed: Shift 2 Unleashed | 248135 | [248135-need-for-speed-shift-2-unleashed.json](./248135-need-for-speed-shift-2-unleashed.json) |
+| Need for Speed: The Run | 248134 | [248134-need-for-speed-the-run.json](./248134-need-for-speed-the-run.json) |
 | Need for Speed: Unbound | 219442 | [219442-need-for-speed-unbound.json](./219442-need-for-speed-unbound.json) |
 | Need for Speed: Unbound - Vol. 7 Premium Speed Pass | 301851 | [301851-need-for-speed-unbound-vol-7-premium-speed-pass.json](./301851-need-for-speed-unbound-vol-7-premium-speed-pass.json) |
+| Need for Speed: Undercover | 248137 | [248137-need-for-speed-undercover.json](./248137-need-for-speed-undercover.json) |
+| Need for Speed: Undercover | 248138 | [248138-need-for-speed-undercover.json](./248138-need-for-speed-undercover.json) |
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
 | Need to Know | 18234 | [18234-need-to-know.json](./18234-need-to-know.json) |
 | Needle & Thread | 330155 | [330155-needle-and-thread.json](./330155-needle-and-thread.json) |
@@ -1090,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibble Quest | 410235 | [410235-nibble-quest.json](./410235-nibble-quest.json) |
 | Nibeos | 303489 | [303489-nibeos.json](./303489-nibeos.json) |
 | Nibiru | 205071 | [205071-nibiru.json](./205071-nibiru.json) |
+| Nice Body All-Star Suiei Taikai | 248117 | [248117-nice-body-all-star-suiei-taikai.json](./248117-nice-body-all-star-suiei-taikai.json) |
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
 | Nice Shot! The Gun Golfing Game | 110942 | [110942-nice-shot-the-gun-golfing-game.json](./110942-nice-shot-the-gun-golfing-game.json) |
@@ -1467,6 +1479,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjatown | 2825 | [2825-ninjatown.json](./2825-ninjatown.json) |
 | Ninjatown: Trees of Doom! | 21755 | [21755-ninjatown-trees-of-doom.json](./21755-ninjatown-trees-of-doom.json) |
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
+| Ninku | 248111 | [248111-ninku.json](./248111-ninku.json) |
+| Ninku | 248113 | [248113-ninku.json](./248113-ninku.json) |
 | Ninku | 45256 | [45256-ninku.json](./45256-ninku.json) |
 | Ninku 2: Tenkuuryuu he no Michi | 45255 | [45255-ninku-2-tenkuuryuu-he-no-michi.json](./45255-ninku-2-tenkuuryuu-he-no-michi.json) |
 | Ninku Dai-ni-Tama: Ninku Sensou-hen | 60537 | [60537-ninku-dai-ni-tama-ninku-sensou-hen.json](./60537-ninku-dai-ni-tama-ninku-sensou-hen.json) |
@@ -1750,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noisz: DM Ashura Level Pack | 317032 | [317032-noisz-dm-ashura-level-pack.json](./317032-noisz-dm-ashura-level-pack.json) |
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
 | Noitapeli | 249886 | [249886-noitapeli.json](./249886-noitapeli.json) |
+| Noitcelfer | 248128 | [248128-noitcelfer.json](./248128-noitcelfer.json) |
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
 | Noiz2sa | 86033 | [86033-noiz2sa.json](./86033-noiz2sa.json) |
 | NokNok | 341484 | [341484-noknok.json](./341484-noknok.json) |
