@@ -2605,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Solitaire | 330176 | [330176-forbidden-solitaire.json](./330176-forbidden-solitaire.json) |
 | Forbidden World | 219794 | [219794-forbidden-world.json](./219794-forbidden-world.json) |
 | Forbidden: A First's Obsession | 402364 | [402364-forbidden-a-firsts-obsession.json](./402364-forbidden-a-firsts-obsession.json) |
+| ForbiddenWord | 242675 | [242675-forbiddenword.json](./242675-forbiddenword.json) |
 | Force of Nature 2: Ghost Keeper | 150124 | [150124-force-of-nature-2-ghost-keeper.json](./150124-force-of-nature-2-ghost-keeper.json) |
 | Force of Numbers | 309521 | [309521-force-of-numbers.json](./309521-force-of-numbers.json) |
 | Force Reboot | 173302 | [173302-force-reboot.json](./173302-force-reboot.json) |
