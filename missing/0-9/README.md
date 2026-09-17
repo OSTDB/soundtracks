@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Rogues | 22347 | [22347-100-rogues.json](./22347-100-rogues.json) |
 | 100 Ruin Cats | 347756 | [347756-100-ruin-cats.json](./347756-100-ruin-cats.json) |
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
+| 100 Tokyo Cats: Extra Content | 274585 | [274585-100-tokyo-cats-extra-content.json](./274585-100-tokyo-cats-extra-content.json) |
 | 100 Vacas | 138729 | [138729-100-vacas.json](./138729-100-vacas.json) |
 | 100 Vampire Cats | 347754 | [347754-100-vampire-cats.json](./347754-100-vampire-cats.json) |
 | 100 Waiting Cats: Extra Content | 321593 | [321593-100-waiting-cats-extra-content.json](./321593-100-waiting-cats-extra-content.json) |
@@ -492,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
 | 3D Watermelon Game | 277950 | [277950-3d-watermelon-game.json](./277950-3d-watermelon-game.json) |
 | 3D3D | 291042 | [291042-3d3d.json](./291042-3d3d.json) |
+| 3DC | 274564 | [274564-3dc.json](./274564-3dc.json) |
 | 3DO Games: Decathlon | 100219 | [100219-3do-games-decathlon.json](./100219-3do-games-decathlon.json) |
 | 3M Spain Foundation: Stem + VR | 187449 | [187449-3m-spain-foundation-stem-vr.json](./187449-3m-spain-foundation-stem-vr.json) |
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Bundle Part 2 | 276857 | [276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json](./276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json) |
