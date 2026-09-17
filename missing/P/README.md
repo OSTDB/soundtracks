@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physicality | 202361 | [202361-physicality.json](./202361-physicality.json) |
 | Physics World | 158144 | [158144-physics-world.json](./158144-physics-world.json) |
 | Physics! Fun | 297236 | [297236-physics-fun.json](./297236-physics-fun.json) |
+| Physint | 285050 | [285050-physint.json](./285050-physint.json) |
 | Physio Fun Balance Training | 84828 | [84828-physio-fun-balance-training.json](./84828-physio-fun-balance-training.json) |
 | Physiofun: Pelvic Floor Training | 84827 | [84827-physiofun-pelvic-floor-training.json](./84827-physiofun-pelvic-floor-training.json) |
 | Phytomancer | 175886 | [175886-phytomancer.json](./175886-phytomancer.json) |
@@ -3065,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Toss Pro: Frat Party Games | 84810 | [84810-pong-toss-pro-frat-party-games.json](./84810-pong-toss-pro-frat-party-games.json) |
 | Pongarena | 137615 | [137615-pongarena.json](./137615-pongarena.json) |
 | PongBall | 255993 | [255993-pongball.json](./255993-pongball.json) |
+| Pongémon | 285035 | [285035-pongemon.json](./285035-pongemon.json) |
 | Pongeon | 184641 | [184641-pongeon.json](./184641-pongeon.json) |
 | Pongis Jump | 126000 | [126000-pongis-jump.json](./126000-pongis-jump.json) |
 | Pongs | 178609 | [178609-pongs.json](./178609-pongs.json) |
@@ -3130,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Star Dress Up - Music Idol Girl | 101571 | [101571-pop-star-dress-up-music-idol-girl.json](./101571-pop-star-dress-up-music-idol-girl.json) |
 | POP Station | 225629 | [225629-pop-station.json](./225629-pop-station.json) |
 | Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
+| Pop Up Computer | 285034 | [285034-pop-up-computer.json](./285034-pop-up-computer.json) |
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
 | Pop! Slots | 370752 | [370752-pop-slots.json](./370752-pop-slots.json) |
 | Pop'n Music | 281400 | [281400-popn-music.json](./281400-popn-music.json) |
@@ -3638,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priority Realignment | 234900 | [234900-priority-realignment.json](./234900-priority-realignment.json) |
 | PriPara & Pretty Rhythm: PriPara de Tsukaeru Oshare Item 1450! | 177578 | [177578-pripara-and-pretty-rhythm-pripara-de-tsukaeru-oshare-item-1450.json](./177578-pripara-and-pretty-rhythm-pripara-de-tsukaeru-oshare-item-1450.json) |
 | PriPara Aim! Idol Grand Prix No.1! | 177573 | [177573-pripara-aim-idol-grand-prix-no-1.json](./177573-pripara-aim-idol-grand-prix-no-1.json) |
+| PriPara: All Idol | 285046 | [285046-pripara-all-idol.json](./285046-pripara-all-idol.json) |
 | PriPara: All Idol Perfect Stage | 133394 | [133394-pripara-all-idol-perfect-stage.json](./133394-pripara-all-idol-perfect-stage.json) |
 | PriPara: Awaken! The Goddess' Dress Design! | 177574 | [177574-pripara-awaken-the-goddess-dress-design.json](./177574-pripara-awaken-the-goddess-dress-design.json) |
 | Prism | 290392 | [290392-prism.json](./290392-prism.json) |
