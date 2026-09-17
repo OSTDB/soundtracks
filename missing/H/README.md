@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls | 294164 | [294164-hentai-girls.json](./294164-hentai-girls.json) |
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
+| Hentai Girls Special Edition | 263557 | [263557-hentai-girls-special-edition.json](./263557-hentai-girls-special-edition.json) |
 | Hentai Girls: Amazing Edition | 294827 | [294827-hentai-girls-amazing-edition.json](./294827-hentai-girls-amazing-edition.json) |
 | Hentai Girls: Contact | 281523 | [281523-hentai-girls-contact.json](./281523-hentai-girls-contact.json) |
 | Hentai Girls: Director's Cut | 284501 | [284501-hentai-girls-directors-cut.json](./284501-hentai-girls-directors-cut.json) |
@@ -2265,10 +2266,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole | 310931 | [310931-hole.json](./310931-hole.json) |
 | Hole ASMR | 399641 | [399641-hole-asmr.json](./399641-hole-asmr.json) |
 | Hole in One Golf | 49924 | [49924-hole-in-one-golf.json](./49924-hole-in-one-golf.json) |
+| Hole io | 263553 | [263553-hole-io.json](./263553-hole-io.json) |
 | Hole io & Helix Jump | 315836 | [315836-hole-io-and-helix-jump.json](./315836-hole-io-and-helix-jump.json) |
 | Hole io: Ancient DLC | 309081 | [309081-hole-io-ancient-dlc.json](./309081-hole-io-ancient-dlc.json) |
+| Hole io: Animals DLC | 263554 | [263554-hole-io-animals-dlc.json](./263554-hole-io-animals-dlc.json) |
 | Hole io: Complete Edition | 268563 | [268563-hole-io-complete-edition.json](./268563-hole-io-complete-edition.json) |
 | Hole io: Construction DLC | 380392 | [380392-hole-io-construction-dlc.json](./380392-hole-io-construction-dlc.json) |
+| Hole io: Freaks DLC | 263555 | [263555-hole-io-freaks-dlc.json](./263555-hole-io-freaks-dlc.json) |
+| Hole io: Red Planet DLC | 263556 | [263556-hole-io-red-planet-dlc.json](./263556-hole-io-red-planet-dlc.json) |
 | Hole-In-One Miniature Golf | 70979 | [70979-hole-in-one-miniature-golf.json](./70979-hole-in-one-miniature-golf.json) |
 | Hole* | 408173 | [408173-hole.json](./408173-hole.json) |
 | Holey | 408181 | [408181-holey.json](./408181-holey.json) |
@@ -3283,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperborea | 117703 | [117703-hyperborea.json](./117703-hyperborea.json) |
 | Hyperborean Charter | 113025 | [113025-hyperborean-charter.json](./113025-hyperborean-charter.json) |
 | Hyperbowl | 14316 | [14316-hyperbowl.json](./14316-hyperbowl.json) |
+| HyperBowl Tokyo | 263583 | [263583-hyperbowl-tokyo.json](./263583-hyperbowl-tokyo.json) |
 | HyperBrawl Tournament: Ultimate Edition | 188012 | [188012-hyperbrawl-tournament-ultimate-edition.json](./188012-hyperbrawl-tournament-ultimate-edition.json) |
 | Hyperburner | 94780 | [94780-hyperburner.json](./94780-hyperburner.json) |
 | Hypercharge: Unboxed | 39758 | [39758-hypercharge-unboxed.json](./39758-hypercharge-unboxed.json) |
