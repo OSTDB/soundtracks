@@ -2184,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Traffic: Highway Racing | 102216 | [102216-pixel-traffic-highway-racing.json](./102216-pixel-traffic-highway-racing.json) |
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
 | Pixel Whirled | 66640 | [66640-pixel-whirled.json](./66640-pixel-whirled.json) |
+| Pixel Z Hunter 3D | 282685 | [282685-pixel-z-hunter-3d.json](./282685-pixel-z-hunter-3d.json) |
 | Pixel: Are You Squared? | 35701 | [35701-pixel-are-you-squared.json](./35701-pixel-are-you-squared.json) |
 | Pixelance | 382883 | [382883-pixelance.json](./382883-pixelance.json) |
 | Pixelarium | 117853 | [117853-pixelarium.json](./117853-pixelarium.json) |
@@ -2344,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Lana | 152071 | [152071-planet-of-lana.json](./152071-planet-of-lana.json) |
 | Planet of Lana II: Children of the Leaf | 348200 | [348200-planet-of-lana-ii-children-of-the-leaf.json](./348200-planet-of-lana-ii-children-of-the-leaf.json) |
 | Planet of the Ants | 347134 | [347134-planet-of-the-ants.json](./347134-planet-of-the-ants.json) |
+| Planet of the Apes | 282720 | [282720-planet-of-the-apes.json](./282720-planet-of-the-apes.json) |
 | Planet Oio | 317420 | [317420-planet-oio.json](./317420-planet-oio.json) |
 | Planet Omnia | 197912 | [197912-planet-omnia.json](./197912-planet-omnia.json) |
 | Planet Protector VR | 67939 | [67939-planet-protector-vr.json](./67939-planet-protector-vr.json) |
