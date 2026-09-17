@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Lane | 247767 | [247767-panic-lane.json](./247767-panic-lane.json) |
 | Panic Mansion | 26726 | [26726-panic-mansion.json](./26726-panic-mansion.json) |
 | Panic Party | 134631 | [134631-panic-party.json](./134631-panic-party.json) |
+| Panic Road | 268003 | [268003-panic-road.json](./268003-panic-road.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
 | Panic Space | 41371 | [41371-panic-space.json](./41371-panic-space.json) |
 | Panic Station | 172113 | [172113-panic-station.json](./172113-panic-station.json) |
@@ -3284,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Hunter | 373623 | [373623-portal-hunter.json](./373623-portal-hunter.json) |
 | Portal Knights | 20392 | [20392-portal-knights.json](./20392-portal-knights.json) |
 | Portal Knights: Legendary Edition | 166156 | [166156-portal-knights-legendary-edition.json](./166156-portal-knights-legendary-edition.json) |
+| Portal Panic | 268001 | [268001-portal-panic.json](./268001-portal-panic.json) |
 | Portal Pro | 284358 | [284358-portal-pro.json](./284358-portal-pro.json) |
 | Portal Puzzle | 270111 | [270111-portal-puzzle.json](./270111-portal-puzzle.json) |
 | Portal Rescue | 180809 | [180809-portal-rescue.json](./180809-portal-rescue.json) |
