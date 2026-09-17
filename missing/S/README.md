@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga of Sins | 211238 | [211238-saga-of-sins.json](./211238-saga-of-sins.json) |
 | Saga of the Moon Priestess | 274507 | [274507-saga-of-the-moon-priestess.json](./274507-saga-of-the-moon-priestess.json) |
 | Saga of the Nine Worlds: The Gathering | 74311 | [74311-saga-of-the-nine-worlds-the-gathering.json](./74311-saga-of-the-nine-worlds-the-gathering.json) |
+| Saga of the Shattered Swords | 249267 | [249267-saga-of-the-shattered-swords.json](./249267-saga-of-the-shattered-swords.json) |
 | SaGa: Scarlet Grace - Ambitions | 119373 | [119373-saga-scarlet-grace-ambitions.json](./119373-saga-scarlet-grace-ambitions.json) |
 | SaGa: Scarlet Grace - Hiiro no Yabou | 97908 | [97908-saga-scarlet-grace-hiiro-no-yabou.json](./97908-saga-scarlet-grace-hiiro-no-yabou.json) |
 | SaGaS | 272938 | [272938-sagas.json](./272938-sagas.json) |
@@ -1257,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Mysteries in London | 84900 | [84900-secret-mysteries-in-london.json](./84900-secret-mysteries-in-london.json) |
 | Secret Mysteries in New York | 84899 | [84899-secret-mysteries-in-new-york.json](./84899-secret-mysteries-in-new-york.json) |
 | Secret of Evangelion | 61670 | [61670-secret-of-evangelion.json](./61670-secret-of-evangelion.json) |
+| Secret of Mana: Relocalized | 249276 | [249276-secret-of-mana-relocalized.json](./249276-secret-of-mana-relocalized.json) |
 | Secret of the Royal Throne | 32913 | [32913-secret-of-the-royal-throne.json](./32913-secret-of-the-royal-throne.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
 | Secret Paths to the Sea | 70382 | [70382-secret-paths-to-the-sea.json](./70382-secret-paths-to-the-sea.json) |
@@ -1557,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serflings | 210632 | [210632-serflings.json](./210632-serflings.json) |
 | Serial Cleaner | 19450 | [19450-serial-cleaner.json](./19450-serial-cleaner.json) |
 | Serial Cleaner: Blood & Confetti | 336529 | [336529-serial-cleaner-blood-and-confetti.json](./336529-serial-cleaner-blood-and-confetti.json) |
+| Serial Cleaners: Dino Park | 249301 | [249301-serial-cleaners-dino-park.json](./249301-serial-cleaners-dino-park.json) |
 | Serial Experiments Lain | 76448 | [76448-serial-experiments-lain.json](./76448-serial-experiments-lain.json) |
 | Serial Experiments Lain Bootleg | 245007 | [245007-serial-experiments-lain-bootleg.json](./245007-serial-experiments-lain-bootleg.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
@@ -8922,6 +8925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mustache | 24616 | [24616-super-mustache.json](./24616-super-mustache.json) |
 | Super Nantucket World | 312875 | [312875-super-nantucket-world.json](./312875-super-nantucket-world.json) |
 | Super Nario World | 316627 | [316627-super-nario-world.json](./316627-super-nario-world.json) |
+| Super Naruto: Clash of Ninja! 4 | 249292 | [249292-super-naruto-clash-of-ninja-4.json](./249292-super-naruto-clash-of-ninja-4.json) |
 | Super Natural Dorm | 347762 | [347762-super-natural-dorm.json](./347762-super-natural-dorm.json) |
 | Super Naxat Open | 37809 | [37809-super-naxat-open.json](./37809-super-naxat-open.json) |
 | Super Nazo Puyo Tsuu: Rulue no Tetsuwan Hanjyouki | 37805 | [37805-super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjyouki.json](./37805-super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjyouki.json) |
