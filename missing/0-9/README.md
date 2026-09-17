@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1500 DS Spirits Vol. 4: Reversi | 100196 | [100196-1500-ds-spirits-vol-4-reversi.json](./100196-1500-ds-spirits-vol-4-reversi.json) |
 | 15th Prison | 316431 | [316431-15th-prison.json](./316431-15th-prison.json) |
 | 16 | 263010 | [263010-16.json](./263010-16.json) |
+| 16 Balls: Pocket PachinGo! | 240342 | [240342-16-balls-pocket-pachingo.json](./240342-16-balls-pocket-pachingo.json) |
 | 16 Brands Taiwan Mahjong 2 | 371335 | [371335-16-brands-taiwan-mahjong-2.json](./371335-16-brands-taiwan-mahjong-2.json) |
 | 16 Brands Taiwan Mahjong 3 | 371343 | [371343-16-brands-taiwan-mahjong-3.json](./371343-16-brands-taiwan-mahjong-3.json) |
 | 16 Cyber-personalities: Survivors | 348850 | [348850-16-cyber-personalities-survivors.json](./348850-16-cyber-personalities-survivors.json) |
@@ -694,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Elements | 257474 | [257474-9-elements.json](./257474-9-elements.json) |
 | 9 Empires | 27735 | [27735-9-empires.json](./27735-9-empires.json) |
 | 9 Lives | 251003 | [251003-9-lives.json](./251003-9-lives.json) |
+| 9 Maker | 240352 | [240352-9-maker.json](./240352-9-maker.json) |
 | 9 Realms | 258564 | [258564-9-realms.json](./258564-9-realms.json) |
 | 9-nine-: Episode 1 | 114814 | [114814-9-nine-episode-1.json](./114814-9-nine-episode-1.json) |
 | 9:22 | 178657 | [178657-9-22.json](./178657-9-22.json) |
