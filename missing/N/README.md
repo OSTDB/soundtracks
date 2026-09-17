@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Christmas House Hidden Objects | 108450 | [108450-new-christmas-house-hidden-objects.json](./108450-new-christmas-house-hidden-objects.json) |
 | New Club Penguin | 246088 | [246088-new-club-penguin.json](./246088-new-club-penguin.json) |
 | New Dawn | 25819 | [25819-new-dawn.json](./25819-new-dawn.json) |
+| New Day | 244352 | [244352-new-day.json](./244352-new-day.json) |
 | New Dungeons | 268777 | [268777-new-dungeons.json](./268777-new-dungeons.json) |
 | New Earth | 275716 | [275716-new-earth.json](./275716-new-earth.json) |
 | New England Detective: Breakfast in Boston | 119002 | [119002-new-england-detective-breakfast-in-boston.json](./119002-new-england-detective-breakfast-in-boston.json) |
@@ -1590,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Final Night: Protect the Sponk Can | 410918 | [410918-no-final-night-protect-the-sponk-can.json](./410918-no-final-night-protect-the-sponk-can.json) |
 | No Food No Drink | 338752 | [338752-no-food-no-drink.json](./338752-no-food-no-drink.json) |
 | No Forgiveness | 365147 | [365147-no-forgiveness.json](./365147-no-forgiveness.json) |
+| No Friends | 244337 | [244337-no-friends.json](./244337-no-friends.json) |
 | No Ghost in Circus Caravan | 311999 | [311999-no-ghost-in-circus-caravan.json](./311999-no-ghost-in-circus-caravan.json) |
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
 | No Horizon | 109572 | [109572-no-horizon.json](./109572-no-horizon.json) |
