@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.A.R.D. | 379375 | [379375-w-a-r-d.json](./379375-w-a-r-d.json) |
 | W.H.A.L.E. | 130855 | [130855-w-h-a-l-e.json](./130855-w-h-a-l-e.json) |
 | W.I.M.S. | 374736 | [374736-w-i-m-s.json](./374736-w-i-m-s.json) |
+| W.O.L.F | 256333 | [256333-w-o-l-f.json](./256333-w-o-l-f.json) |
 | W.O.T.E: Waking On The Endtimes | 309875 | [309875-w-o-t-e-waking-on-the-endtimes.json](./309875-w-o-t-e-waking-on-the-endtimes.json) |
 | W.T. | 151689 | [151689-w-t.json](./151689-w-t.json) |
 | W2000_CHAN_>W<.exe | 383932 | [383932-w2000-chan-w-exe.json](./383932-w2000-chan-w-exe.json) |
@@ -919,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Falls | 131562 | [131562-west-falls.json](./131562-west-falls.json) |
 | West Game | 199076 | [199076-west-game.json](./199076-west-game.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
+| West Ride | 256334 | [256334-west-ride.json](./256334-west-ride.json) |
 | West Sweety | 127019 | [127019-west-sweety.json](./127019-west-sweety.json) |
 | West Water | 196822 | [196822-west-water.json](./196822-west-water.json) |
 | Westbound: Perils Ranch | 323325 | [323325-westbound-perils-ranch.json](./323325-westbound-perils-ranch.json) |
