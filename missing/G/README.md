@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games 4 Boys | 344446 | [344446-games-4-boys.json](./344446-games-4-boys.json) |
 | Games Advent Calendar: 25 Days - 25 Surprises | 265160 | [265160-games-advent-calendar-25-days-25-surprises.json](./265160-games-advent-calendar-25-days-25-surprises.json) |
 | Games Explosion | 18260 | [18260-games-explosion.json](./18260-games-explosion.json) |
+| Games for Stream! | 266856 | [266856-games-for-stream.json](./266856-games-for-stream.json) |
 | Games for Toddlers 2 | 147977 | [147977-games-for-toddlers-2.json](./147977-games-for-toddlers-2.json) |
 | Gametrak: Dark Wind | 72072 | [72072-gametrak-dark-wind.json](./72072-gametrak-dark-wind.json) |
 | Gaming Burnout Treatment Center | 408063 | [408063-gaming-burnout-treatment-center.json](./408063-gaming-burnout-treatment-center.json) |
@@ -1211,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Strike | 134611 | [134611-glitch-strike.json](./134611-glitch-strike.json) |
 | Glitch Tower | 376453 | [376453-glitch-tower.json](./376453-glitch-tower.json) |
 | Glitch World | 311251 | [311251-glitch-world.json](./311251-glitch-world.json) |
+| Glitched Lightning | 267463 | [267463-glitched-lightning.json](./267463-glitched-lightning.json) |
 | Glitched Out | 274482 | [274482-glitched-out.json](./274482-glitched-out.json) |
 | Glitchers | 120332 | [120332-glitchers.json](./120332-glitchers.json) |
 | Glitchery | 386143 | [386143-glitchery.json](./386143-glitchery.json) |
@@ -1505,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Hellas VR | 190168 | [190168-gods-of-hellas-vr.json](./190168-gods-of-hellas-vr.json) |
 | Gods Remastered | 112099 | [112099-gods-remastered.json](./112099-gods-remastered.json) |
 | Gods Wars Ex: Vampire | 194011 | [194011-gods-wars-ex-vampire.json](./194011-gods-wars-ex-vampire.json) |
+| Gods Wars: Infinity Epic | 267462 | [267462-gods-wars-infinity-epic.json](./267462-gods-wars-infinity-epic.json) |
 | Gods' Margarita | 197368 | [197368-gods-margarita.json](./197368-gods-margarita.json) |
 | GodsArena Online | 368541 | [368541-godsarena-online.json](./368541-godsarena-online.json) |
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
@@ -2361,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grind Zones | 36217 | [36217-grind-zones.json](./36217-grind-zones.json) |
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
 | Grindshift | 207307 | [207307-grindshift.json](./207307-grindshift.json) |
+| Grinlox is here | 266901 | [266901-grinlox-is-here.json](./266901-grinlox-is-here.json) |
 | Grinnel | 389586 | [389586-grinnel.json](./389586-grinnel.json) |
 | Grip Games Anthology | 99557 | [99557-grip-games-anthology.json](./99557-grip-games-anthology.json) |
 | Grip: Digital Deluxe | 118945 | [118945-grip-digital-deluxe.json](./118945-grip-digital-deluxe.json) |
@@ -2615,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero: On Tour - Decades | 7089 | [7089-guitar-hero-on-tour-decades.json](./7089-guitar-hero-on-tour-decades.json) |
 | Guitar Hero: Van Halen | 2675 | [2675-guitar-hero-van-halen.json](./2675-guitar-hero-van-halen.json) |
 | Guitar Hero: Warriors of Rock | 2629 | [2629-guitar-hero-warriors-of-rock.json](./2629-guitar-hero-warriors-of-rock.json) |
+| Guitar Jam | 266894 | [266894-guitar-jam.json](./266894-guitar-jam.json) |
 | Guitar Praise: Solid Rock | 72638 | [72638-guitar-praise-solid-rock.json](./72638-guitar-praise-solid-rock.json) |
 | Guitar Star | 267958 | [267958-guitar-star.json](./267958-guitar-star.json) |
 | GuitarFreaks 3rdMix & DrumMania 2ndMix | 104591 | [104591-guitarfreaks-3rdmix-and-drummania-2ndmix.json](./104591-guitarfreaks-3rdmix-and-drummania-2ndmix.json) |
