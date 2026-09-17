@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Every Day | 292167 | [292167-parkour-every-day.json](./292167-parkour-every-day.json) |
 | Parkour Flight | 86876 | [86876-parkour-flight.json](./86876-parkour-flight.json) |
 | Parkour Game 2 | 270957 | [270957-parkour-game-2.json](./270957-parkour-game-2.json) |
+| Parkour Jump Adventure | 245914 | [245914-parkour-jump-adventure.json](./245914-parkour-jump-adventure.json) |
 | Parkour Master | 145024 | [145024-parkour-master.json](./145024-parkour-master.json) |
 | Parkour Obby: Ice Escape | 415064 | [415064-parkour-obby-ice-escape.json](./415064-parkour-obby-ice-escape.json) |
 | Parkour Obby: Magma Run | 414438 | [414438-parkour-obby-magma-run.json](./414438-parkour-obby-magma-run.json) |
@@ -2042,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Jigsaw | 156095 | [156095-pirate-jigsaw.json](./156095-pirate-jigsaw.json) |
 | Pirate Kings | 98927 | [98927-pirate-kings.json](./98927-pirate-kings.json) |
 | Pirate Life | 395538 | [395538-pirate-life.json](./395538-pirate-life.json) |
+| Pirate Plight | 245911 | [245911-pirate-plight.json](./245911-pirate-plight.json) |
 | Pirate Royalty | 345583 | [345583-pirate-royalty.json](./345583-pirate-royalty.json) |
 | Pirate Ship | 231924 | [231924-pirate-ship.json](./231924-pirate-ship.json) |
 | Pirate Shooter Fantasy Survival | 111075 | [111075-pirate-shooter-fantasy-survival.json](./111075-pirate-shooter-fantasy-survival.json) |
@@ -4723,6 +4725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli S Sudoku | 219293 | [219293-puzzle-by-nikoli-s-sudoku.json](./219293-puzzle-by-nikoli-s-sudoku.json) |
 | Puzzle by Nikoli S: Numberlink | 250392 | [250392-puzzle-by-nikoli-s-numberlink.json](./250392-puzzle-by-nikoli-s-numberlink.json) |
 | Puzzle by Nikoli S: Nurikabe | 231075 | [231075-puzzle-by-nikoli-s-nurikabe.json](./231075-puzzle-by-nikoli-s-nurikabe.json) |
+| Puzzle by Nikoli S: Shikaku | 245913 | [245913-puzzle-by-nikoli-s-shikaku.json](./245913-puzzle-by-nikoli-s-shikaku.json) |
 | Puzzle by Nikoli V: Sudoku | 64936 | [64936-puzzle-by-nikoli-v-sudoku.json](./64936-puzzle-by-nikoli-v-sudoku.json) |
 | Puzzle by Nikoli W Hashiwokakero | 236816 | [236816-puzzle-by-nikoli-w-hashiwokakero.json](./236816-puzzle-by-nikoli-w-hashiwokakero.json) |
 | Puzzle by Nikoli W Heyawake | 230827 | [230827-puzzle-by-nikoli-w-heyawake.json](./230827-puzzle-by-nikoli-w-heyawake.json) |
