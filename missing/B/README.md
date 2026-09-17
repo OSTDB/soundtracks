@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
 | Bam 'N Jam | 61547 | [61547-bam-n-jam.json](./61547-bam-n-jam.json) |
 | Bam Boom Blade | 289344 | [289344-bam-boom-blade.json](./289344-bam-boom-blade.json) |
+| Bam Boost | 256904 | [256904-bam-boost.json](./256904-bam-boost.json) |
 | Bambinours Solves a Jig Saw Puzzle | 14283 | [14283-bambinours-solves-a-jig-saw-puzzle.json](./14283-bambinours-solves-a-jig-saw-puzzle.json) |
 | Bamboo Forest | 161397 | [161397-bamboo-forest.json](./161397-bamboo-forest.json) |
 | Bamboo Panda | 355121 | [355121-bamboo-panda.json](./355121-bamboo-panda.json) |
@@ -2959,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
 | Blood Running: Prologue | 293388 | [293388-blood-running-prologue.json](./293388-blood-running-prologue.json) |
 | Blood Safari | 165662 | [165662-blood-safari.json](./165662-blood-safari.json) |
+| Blood Samurai | 256918 | [256918-blood-samurai.json](./256918-blood-samurai.json) |
 | Blood Samurai: Night of Slaughter | 227851 | [227851-blood-samurai-night-of-slaughter.json](./227851-blood-samurai-night-of-slaughter.json) |
 | Blood Sea | 312572 | [312572-blood-sea.json](./312572-blood-sea.json) |
 | Blood Ties | 78714 | [78714-blood-ties.json](./78714-blood-ties.json) |
@@ -3032,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Faerie | 89948 | [89948-bloody-faerie.json](./89948-bloody-faerie.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
+| Bloody Steel | 256913 | [256913-bloody-steel.json](./256913-bloody-steel.json) |
 | Bloody Streets | 36069 | [36069-bloody-streets.json](./36069-bloody-streets.json) |
 | Bloody Walls: Hardcore | 166222 | [166222-bloody-walls-hardcore.json](./166222-bloody-walls-hardcore.json) |
 | Bloody Walls: Hardcore x2 | 166223 | [166223-bloody-walls-hardcore-x2.json](./166223-bloody-walls-hardcore-x2.json) |
