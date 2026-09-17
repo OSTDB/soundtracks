@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Control Anthology | 30240 | [30240-ground-control-anthology.json](./30240-ground-control-anthology.json) |
 | Ground Divers | 204436 | [204436-ground-divers.json](./204436-ground-divers.json) |
 | Ground Force Zero | 71550 | [71550-ground-force-zero.json](./71550-ground-force-zero.json) |
+| Ground of Aces | 249885 | [249885-ground-of-aces.json](./249885-ground-of-aces.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground Zero: Texas | 5390 | [5390-ground-zero-texas.json](./5390-ground-zero-texas.json) |
 | GroundBreaker | 375848 | [375848-groundbreaker.json](./375848-groundbreaker.json) |
