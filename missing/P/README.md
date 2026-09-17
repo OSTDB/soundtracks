@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Versus | 391571 | [391571-pc-versus.json](./391571-pc-versus.json) |
 | PC_001 | 170535 | [170535-pc-001.json](./170535-pc-001.json) |
 | PC-Sherlock: A Game of Logic & Deduction | 98920 | [98920-pc-sherlock-a-game-of-logic-and-deduction.json](./98920-pc-sherlock-a-game-of-logic-and-deduction.json) |
+| Pea Pod Power | 264668 | [264668-pea-pod-power.json](./264668-pea-pod-power.json) |
 | Peace Breaker | 270144 | [270144-peace-breaker.json](./270144-peace-breaker.json) |
 | Peace Maker VR | 200717 | [200717-peace-maker-vr.json](./200717-peace-maker-vr.json) |
 | Peace of Evil | 118395 | [118395-peace-of-evil.json](./118395-peace-of-evil.json) |
@@ -998,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaceful Dog Escape | 231923 | [231923-peaceful-dog-escape.json](./231923-peaceful-dog-escape.json) |
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
 | Peaceful Gunner | 153389 | [153389-peaceful-gunner.json](./153389-peaceful-gunner.json) |
+| Peacemaker: Bloody Emperor | 264665 | [264665-peacemaker-bloody-emperor.json](./264665-peacemaker-bloody-emperor.json) |
 | Peach Clicker | 312761 | [312761-peach-clicker.json](./312761-peach-clicker.json) |
 | Peach Up | 338831 | [338831-peach-up.json](./338831-peach-up.json) |
 | Peach's Christmas Invitation | 135215 | [135215-peachs-christmas-invitation.json](./135215-peachs-christmas-invitation.json) |
@@ -1237,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perry Rhodan: Operation Eastside | 72100 | [72100-perry-rhodan-operation-eastside.json](./72100-perry-rhodan-operation-eastside.json) |
 | Perry the Pumpkin | 224763 | [224763-perry-the-pumpkin.json](./224763-perry-the-pumpkin.json) |
 | Perseus | 274767 | [274767-perseus.json](./274767-perseus.json) |
+| Persevera | 264685 | [264685-persevera.json](./264685-persevera.json) |
 | Persha and the Magic Labyrinth: Arabian Nyaights | 264901 | [264901-persha-and-the-magic-labyrinth-arabian-nyaights.json](./264901-persha-and-the-magic-labyrinth-arabian-nyaights.json) |
 | Persha and the Magic Puzzle: Arabian Nyaights | 235210 | [235210-persha-and-the-magic-puzzle-arabian-nyaights.json](./235210-persha-and-the-magic-puzzle-arabian-nyaights.json) |
 | Persist | 223681 | [223681-persist.json](./223681-persist.json) |
@@ -3392,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Slingers | 248036 | [248036-potion-slingers.json](./248036-potion-slingers.json) |
 | Potion Stand Story | 316809 | [316809-potion-stand-story.json](./316809-potion-stand-story.json) |
 | Potionomics: Boss Finn Content Pack | 360595 | [360595-potionomics-boss-finn-content-pack.json](./360595-potionomics-boss-finn-content-pack.json) |
+| Potions & Emotions | 264683 | [264683-potions-and-emotions.json](./264683-potions-and-emotions.json) |
 | Potions War | 201802 | [201802-potions-war.json](./201802-potions-war.json) |
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
 | Potrick Snap | 341004 | [341004-potrick-snap.json](./341004-potrick-snap.json) |
@@ -3733,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PriPara: All Idol | 285046 | [285046-pripara-all-idol.json](./285046-pripara-all-idol.json) |
 | PriPara: All Idol Perfect Stage | 133394 | [133394-pripara-all-idol-perfect-stage.json](./133394-pripara-all-idol-perfect-stage.json) |
 | PriPara: Awaken! The Goddess' Dress Design! | 177574 | [177574-pripara-awaken-the-goddess-dress-design.json](./177574-pripara-awaken-the-goddess-dress-design.json) |
+| Priscillas Dream | 264681 | [264681-priscillas-dream.json](./264681-priscillas-dream.json) |
 | Prism | 290392 | [290392-prism.json](./290392-prism.json) |
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
 | Prisma & the Masquerade Menace | 30907 | [30907-prisma-and-the-masquerade-menace.json](./30907-prisma-and-the-masquerade-menace.json) |
@@ -4335,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho-Pass: Mandatory Happiness - Limited Edition | 166186 | [166186-psycho-pass-mandatory-happiness-limited-edition.json](./166186-psycho-pass-mandatory-happiness-limited-edition.json) |
 | Psycho-unstable Journey | 180792 | [180792-psycho-unstable-journey.json](./180792-psycho-unstable-journey.json) |
 | PsychoCudgel | 316641 | [316641-psychocudgel.json](./316641-psychocudgel.json) |
+| Psycholog | 264707 | [264707-psycholog.json](./264707-psycholog.json) |
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
 | Psychopomp Gold | 319765 | [319765-psychopomp-gold.json](./319765-psychopomp-gold.json) |
