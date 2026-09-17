@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killover | 361815 | [361815-killover.json](./361815-killover.json) |
 | Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
 | Killzone | 1865 | [1865-killzone.json](./1865-killzone.json) |
+| Killzone: Liberation - Chapter 5 DLC | 243224 | [243224-killzone-liberation-chapter-5-dlc.json](./243224-killzone-liberation-chapter-5-dlc.json) |
 | Killzone: Special Limited Edition | 43261 | [43261-killzone-special-limited-edition.json](./43261-killzone-special-limited-edition.json) |
 | Kiln: Cats & Dogs Decoration Pack | 407414 | [407414-kiln-cats-and-dogs-decoration-pack.json](./407414-kiln-cats-and-dogs-decoration-pack.json) |
 | Kiln: Pride Decoration Pack | 407415 | [407415-kiln-pride-decoration-pack.json](./407415-kiln-pride-decoration-pack.json) |
