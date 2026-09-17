@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endocrisis Hyperactive | 173294 | [173294-endocrisis-hyperactive.json](./173294-endocrisis-hyperactive.json) |
 | Endoom Mapping Contest 2024 | 299767 | [299767-endoom-mapping-contest-2024.json](./299767-endoom-mapping-contest-2024.json) |
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
+| Endrays | 266860 | [266860-endrays.json](./266860-endrays.json) |
 | Endro | 164971 | [164971-endro.json](./164971-endro.json) |
 | Endrr | 200690 | [200690-endrr.json](./200690-endrr.json) |
 | Endura | 301272 | [301272-endura.json](./301272-endura.json) |
@@ -1922,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exclusive Memory | 319938 | [319938-exclusive-memory.json](./319938-exclusive-memory.json) |
 | Excubitor | 19332 | [19332-excubitor.json](./19332-excubitor.json) |
 | Excursus | 177025 | [177025-excursus.json](./177025-excursus.json) |
+| Excycle | 266864 | [266864-excycle.json](./266864-excycle.json) |
 | EXD: Extra Dimensional | 380540 | [380540-exd-extra-dimensional.json](./380540-exd-extra-dimensional.json) |
 | Execute Daddy: Papa ga Nandemo Shinu Game | 215889 | [215889-execute-daddy-papa-ga-nandemo-shinu-game.json](./215889-execute-daddy-papa-ga-nandemo-shinu-game.json) |
 | Executive Assault 2 | 110573 | [110573-executive-assault-2.json](./110573-executive-assault-2.json) |
