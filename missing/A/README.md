@@ -2223,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Uni 3D: Hot Vacay | 401560 | [401560-anime-uni-3d-hot-vacay.json](./401560-anime-uni-3d-hot-vacay.json) |
 | Anime Uni St. Patrick’s Puzzle | 394996 | [394996-anime-uni-st-patrick-s-puzzle.json](./394996-anime-uni-st-patrick-s-puzzle.json) |
 | Anime Vampire Slayer | 118421 | [118421-anime-vampire-slayer.json](./118421-anime-vampire-slayer.json) |
+| Anime vs. Evil: Apocalypse | 238081 | [238081-anime-vs-evil-apocalypse.json](./238081-anime-vs-evil-apocalypse.json) |
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
 | Anime-dle | 337089 | [337089-anime-dle.json](./337089-anime-dle.json) |
 | Anime: Fantasy Uni | 393625 | [393625-anime-fantasy-uni.json](./393625-anime-fantasy-uni.json) |
@@ -3874,6 +3875,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
 | Atelier Escha & Logy: Alchemists of the Dusk Sky DX | 122749 | [122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json](./122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json) |
 | Atelier Iris 2: The Azoth of Destiny | 20510 | [20510-atelier-iris-2-the-azoth-of-destiny.json](./20510-atelier-iris-2-the-azoth-of-destiny.json) |
+| Atelier Lulua: The Scion of Arland - Additional Character: Meruru | 238049 | [238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json](./238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json) |
+| Atelier Lulua: The Scion of Arland - Additional Character: Totori | 238050 | [238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json](./238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json) |
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
 | Atelier Marie & Elie: The Alchemist of Salburg | 329357 | [329357-atelier-marie-and-elie-the-alchemist-of-salburg.json](./329357-atelier-marie-and-elie-the-alchemist-of-salburg.json) |
 | Atelier Marie: Puzzle Workshop | 329391 | [329391-atelier-marie-puzzle-workshop.json](./329391-atelier-marie-puzzle-workshop.json) |
