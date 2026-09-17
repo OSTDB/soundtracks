@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bitsy Jim Jam | 184038 | [184038-the-bitsy-jim-jam.json](./184038-the-bitsy-jim-jam.json) |
 | The Bizarre Adventures of Woodruff and the Schnibble | 2226 | [2226-the-bizarre-adventures-of-woodruff-and-the-schnibble.json](./2226-the-bizarre-adventures-of-woodruff-and-the-schnibble.json) |
 | The Black Bahr | 374588 | [374588-the-black-bahr.json](./374588-the-black-bahr.json) |
+| The Black Door | 249843 | [249843-the-black-door.json](./249843-the-black-door.json) |
 | The Black Fog | 271853 | [271853-the-black-fog.json](./271853-the-black-fog.json) |
 | The Black Knight | 371875 | [371875-the-black-knight.json](./371875-the-black-knight.json) |
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
@@ -1903,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Outcasts | 397697 | [397697-the-book-of-outcasts.json](./397697-the-book-of-outcasts.json) |
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
 | The Book of Yorle: Save the Village | 169964 | [169964-the-book-of-yorle-save-the-village.json](./169964-the-book-of-yorle-save-the-village.json) |
+| The Books Tale: A Hop Adventure | 249844 | [249844-the-books-tale-a-hop-adventure.json](./249844-the-books-tale-a-hop-adventure.json) |
 | The Boondock Saints Video Game | 95391 | [95391-the-boondock-saints-video-game.json](./95391-the-boondock-saints-video-game.json) |
 | The Boons of IIUIR | 374690 | [374690-the-boons-of-iiuir.json](./374690-the-boons-of-iiuir.json) |
 | The Borderless | 406117 | [406117-the-borderless.json](./406117-the-borderless.json) |
@@ -2223,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of the Werewolves | 17705 | [17705-the-curse-of-the-werewolves.json](./17705-the-curse-of-the-werewolves.json) |
 | The Curse of Trasmoz | 135307 | [135307-the-curse-of-trasmoz.json](./135307-the-curse-of-trasmoz.json) |
 | The Curse of Unatxi Kamala | 294704 | [294704-the-curse-of-unatxi-kamala.json](./294704-the-curse-of-unatxi-kamala.json) |
+| The Cursed Amulet | 249860 | [249860-the-cursed-amulet.json](./249860-the-cursed-amulet.json) |
 | The Cursed Garden | 342750 | [342750-the-cursed-garden.json](./342750-the-cursed-garden.json) |
 | The Cursed Hotel | 398325 | [398325-the-cursed-hotel.json](./398325-the-cursed-hotel.json) |
 | The Cursed Land | 306093 | [306093-the-cursed-land.json](./306093-the-cursed-land.json) |
@@ -2996,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horus Heresy: Battle of Tallarn | 31633 | [31633-the-horus-heresy-battle-of-tallarn.json](./31633-the-horus-heresy-battle-of-tallarn.json) |
 | The Horus Heresy: Drop Assault | 30791 | [30791-the-horus-heresy-drop-assault.json](./30791-the-horus-heresy-drop-assault.json) |
 | The Hospital of Fear | 274505 | [274505-the-hospital-of-fear.json](./274505-the-hospital-of-fear.json) |
+| The Hostel: Night Terrors | 249842 | [249842-the-hostel-night-terrors.json](./249842-the-hostel-night-terrors.json) |
 | The Hot Dog would Explode | 109750 | [109750-the-hot-dog-would-explode.json](./109750-the-hot-dog-would-explode.json) |
 | The Hotel | 220675 | [220675-the-hotel.json](./220675-the-hotel.json) |
 | The Hotel | 360649 | [360649-the-hotel.json](./360649-the-hotel.json) |
@@ -6537,6 +6541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titans: Dawn of Tribes | 109056 | [109056-titans-dawn-of-tribes.json](./109056-titans-dawn-of-tribes.json) |
 | Titenic | 10841 | [10841-titenic.json](./10841-titenic.json) |
 | Titleless Tale | 304002 | [304002-titleless-tale.json](./304002-titleless-tale.json) |
+| Titor's Time Traveling Tale | 249862 | [249862-titors-time-traveling-tale.json](./249862-titors-time-traveling-tale.json) |
 | Tits Okay Tits Fine | 371361 | [371361-tits-okay-tits-fine.json](./371361-tits-okay-tits-fine.json) |
 | TitTok 2 | 173222 | [173222-tittok-2.json](./173222-tittok-2.json) |
 | TitTok Kitty: Pussy | 235183 | [235183-tittok-kitty-pussy.json](./235183-tittok-kitty-pussy.json) |
@@ -6981,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Me | 11011 | [11011-too-many-me.json](./11011-too-many-me.json) |
 | Too Many Nights | 315475 | [315475-too-many-nights.json](./315475-too-many-nights.json) |
 | Too Many Ninjas! | 342165 | [342165-too-many-ninjas.json](./342165-too-many-ninjas.json) |
+| Too Many Sheep | 249838 | [249838-too-many-sheep.json](./249838-too-many-sheep.json) |
 | Tooi Tooi, Yakusoku: Tune of Memories | 299991 | [299991-tooi-tooi-yakusoku-tune-of-memories.json](./299991-tooi-tooi-yakusoku-tune-of-memories.json) |
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
 | Tool Land | 391747 | [391747-tool-land.json](./391747-tool-land.json) |
@@ -7039,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topper Carrier | 152830 | [152830-topper-carrier.json](./152830-topper-carrier.json) |
 | Topple Adventure | 214490 | [214490-topple-adventure.json](./214490-topple-adventure.json) |
 | Topple Tactics | 272547 | [272547-topple-tactics.json](./272547-topple-tactics.json) |
+| Topple the Tower | 249839 | [249839-topple-the-tower.json](./249839-topple-the-tower.json) |
 | Topple Zip | 41316 | [41316-topple-zip.json](./41316-topple-zip.json) |
 | TopplePop: Bungee Blockbusters | 124211 | [124211-topplepop-bungee-blockbusters.json](./124211-topplepop-bungee-blockbusters.json) |
 | Topps Kick | 137686 | [137686-topps-kick.json](./137686-topps-kick.json) |
@@ -8775,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnabouts of the Father | 303254 | [303254-turnabouts-of-the-father.json](./303254-turnabouts-of-the-father.json) |
 | TurnBreak | 343278 | [343278-turnbreak.json](./343278-turnbreak.json) |
 | Turned Into Turrets | 377082 | [377082-turned-into-turrets.json](./377082-turned-into-turrets.json) |
+| Turning | 249870 | [249870-turning.json](./249870-turning.json) |
 | Turning Manor | 363953 | [363953-turning-manor.json](./363953-turning-manor.json) |
 | Turnip Boy Robs a Bank | 217645 | [217645-turnip-boy-robs-a-bank.json](./217645-turnip-boy-robs-a-bank.json) |
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
@@ -8842,6 +8850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Path | 109615 | [109615-twilight-path.json](./109615-twilight-path.json) |
 | Twilight Refrain | 63843 | [63843-twilight-refrain.json](./63843-twilight-refrain.json) |
 | Twilight Story: A Quiet House | 279095 | [279095-twilight-story-a-quiet-house.json](./279095-twilight-story-a-quiet-house.json) |
+| Twilight Struggle: Red Sea | 249852 | [249852-twilight-struggle-red-sea.json](./249852-twilight-struggle-red-sea.json) |
 | Twilight Syndrome Kyuumei-hen | 65454 | [65454-twilight-syndrome-kyuumei-hen.json](./65454-twilight-syndrome-kyuumei-hen.json) |
 | Twilight Syndrome Saikai | 65456 | [65456-twilight-syndrome-saikai.json](./65456-twilight-syndrome-saikai.json) |
 | Twilight Syndrome Tansaku-hen | 65452 | [65452-twilight-syndrome-tansaku-hen.json](./65452-twilight-syndrome-tansaku-hen.json) |
