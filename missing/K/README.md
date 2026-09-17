@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kairobotica | 61069 | [61069-kairobotica.json](./61069-kairobotica.json) |
 | Kairos'Light | 132235 | [132235-kairoslight.json](./132235-kairoslight.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
+| Kaisho | 276270 | [276270-kaisho.json](./276270-kaisho.json) |
 | Kaite Oboeru Doragana | 66034 | [66034-kaite-oboeru-doragana.json](./66034-kaite-oboeru-doragana.json) |
 | Kaitei Daisensou | 40215 | [40215-kaitei-daisensou.json](./40215-kaitei-daisensou.json) |
 | Kaitei Takara Sagashi | 40214 | [40214-kaitei-takara-sagashi.json](./40214-kaitei-takara-sagashi.json) |
@@ -1455,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kudamono Party | 288780 | [288780-kudamono-party.json](./288780-kudamono-party.json) |
 | Kuentame | 383377 | [383377-kuentame.json](./383377-kuentame.json) |
 | Kuento: Wasureenu Hibi ni | 97384 | [97384-kuento-wasureenu-hibi-ni.json](./97384-kuento-wasureenu-hibi-ni.json) |
+| Kugle | 276290 | [276290-kugle.json](./276290-kugle.json) |
 | Kuis Iseng Kaesang | 303108 | [303108-kuis-iseng-kaesang.json](./303108-kuis-iseng-kaesang.json) |
 | Kuizu! Batounea! | 411565 | [411565-kuizu-batounea.json](./411565-kuizu-batounea.json) |
 | Kukoo Kitchen | 112349 | [112349-kukoo-kitchen.json](./112349-kukoo-kitchen.json) |
