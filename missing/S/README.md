@@ -2560,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrommzzz | 247752 | [247752-shrommzzz.json](./247752-shrommzzz.json) |
 | Shroom and Gloom: Jam Version | 191809 | [191809-shroom-and-gloom-jam-version.json](./191809-shroom-and-gloom-jam-version.json) |
 | Shroomscape Zone | 192465 | [192465-shroomscape-zone.json](./192465-shroomscape-zone.json) |
+| Shroomtopia | 286092 | [286092-shroomtopia.json](./286092-shroomtopia.json) |
 | Shroud of the Avatar - The Path of Virtue | 95995 | [95995-shroud-of-the-avatar-the-path-of-virtue.json](./95995-shroud-of-the-avatar-the-path-of-virtue.json) |
 | Shrouded Siege | 374052 | [374052-shrouded-siege.json](./374052-shrouded-siege.json) |
 | Shuffle Farm | 345568 | [345568-shuffle-farm.json](./345568-shuffle-farm.json) |
@@ -6287,6 +6288,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Fleet Strength - Razor | 354425 | [354425-star-conflict-fleet-strength-razor.json](./354425-star-conflict-fleet-strength-razor.json) |
 | Star Conflict: Gungnir | 354418 | [354418-star-conflict-gungnir.json](./354418-star-conflict-gungnir.json) |
 | Star Conflict: Jericho destroyer Tyrant | 354435 | [354435-star-conflict-jericho-destroyer-tyrant.json](./354435-star-conflict-jericho-destroyer-tyrant.json) |
+| Star Conflict: Loki | 286137 | [286137-star-conflict-loki.json](./286137-star-conflict-loki.json) |
+| Star Conflict: Loki (Deluxe Edition) | 286138 | [286138-star-conflict-loki-deluxe-edition.json](./286138-star-conflict-loki-deluxe-edition.json) |
 | Star Conflict: Mercenary Pack - Galaxy Explorer | 354441 | [354441-star-conflict-mercenary-pack-galaxy-explorer.json](./354441-star-conflict-mercenary-pack-galaxy-explorer.json) |
 | Star Conflict: Mercenary Pack - Soldier of Fortune | 354429 | [354429-star-conflict-mercenary-pack-soldier-of-fortune.json](./354429-star-conflict-mercenary-pack-soldier-of-fortune.json) |
 | Star Conflict: Mole | 354433 | [354433-star-conflict-mole.json](./354433-star-conflict-mole.json) |
