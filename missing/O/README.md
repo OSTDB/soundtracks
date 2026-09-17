@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oko | 128559 | [128559-oko.json](./128559-oko.json) |
 | Oktoberfest Break: Head to Head | 214518 | [214518-oktoberfest-break-head-to-head.json](./214518-oktoberfest-break-head-to-head.json) |
 | Oku dake Drill Shougaku 6-nensei Kanji | 276467 | [276467-oku-dake-drill-shougaku-6-nensei-kanji.json](./276467-oku-dake-drill-shougaku-6-nensei-kanji.json) |
+| Oku dake Study Hangul Kiso Tango | 261375 | [261375-oku-dake-study-hangul-kiso-tango.json](./261375-oku-dake-study-hangul-kiso-tango.json) |
 | Okunoka Madness | 136462 | [136462-okunoka-madness.json](./136462-okunoka-madness.json) |
 | Okuplok Slaughter Map | 144389 | [144389-okuplok-slaughter-map.json](./144389-okuplok-slaughter-map.json) |
 | Okuri | 286131 | [286131-okuri.json](./286131-okuri.json) |
@@ -1414,11 +1415,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Co-Op Collection | 275903 | [275903-outbreak-co-op-collection.json](./275903-outbreak-co-op-collection.json) |
 | Outbreak: Contagious Memories | 194663 | [194663-outbreak-contagious-memories.json](./194663-outbreak-contagious-memories.json) |
 | Outbreak: Dark Dimensions Collection | 308579 | [308579-outbreak-dark-dimensions-collection.json](./308579-outbreak-dark-dimensions-collection.json) |
+| Outbreak: Devious Beginnings | 261359 | [261359-outbreak-devious-beginnings.json](./261359-outbreak-devious-beginnings.json) |
+| Outbreak: Endless Nightmares - Restless Dreams | 261363 | [261363-outbreak-endless-nightmares-restless-dreams.json](./261363-outbreak-endless-nightmares-restless-dreams.json) |
+| Outbreak: Epidemic Viral Terror | 261361 | [261361-outbreak-epidemic-viral-terror.json](./261361-outbreak-epidemic-viral-terror.json) |
 | Outbreak: Genesis Collection | 331430 | [331430-outbreak-genesis-collection.json](./331430-outbreak-genesis-collection.json) |
 | Outbreak: Gwen's Nightmare | 256264 | [256264-outbreak-gwens-nightmare.json](./256264-outbreak-gwens-nightmare.json) |
 | Outbreak: Heart and Brains Collection | 306486 | [306486-outbreak-heart-and-brains-collection.json](./306486-outbreak-heart-and-brains-collection.json) |
 | Outbreak: Hideous Hallucinations Collection | 331429 | [331429-outbreak-hideous-hallucinations-collection.json](./331429-outbreak-hideous-hallucinations-collection.json) |
 | Outbreak: Loremaker Collection | 331431 | [331431-outbreak-loremaker-collection.json](./331431-outbreak-loremaker-collection.json) |
+| Outbreak: Lost Hope - Broken Faith | 261360 | [261360-outbreak-lost-hope-broken-faith.json](./261360-outbreak-lost-hope-broken-faith.json) |
 | Outbreak: Palladium Collection | 196278 | [196278-outbreak-palladium-collection.json](./196278-outbreak-palladium-collection.json) |
 | Outbreak: Phantasmagoria Collection | 331428 | [331428-outbreak-phantasmagoria-collection.json](./331428-outbreak-phantasmagoria-collection.json) |
 | Outbreak: Platinum Collection | 205578 | [205578-outbreak-platinum-collection.json](./205578-outbreak-platinum-collection.json) |
@@ -1439,8 +1444,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: The Fedora Files Desperate Struggle Collection | 338025 | [338025-outbreak-the-fedora-files-desperate-struggle-collection.json](./338025-outbreak-the-fedora-files-desperate-struggle-collection.json) |
 | Outbreak: The Full Monty Collection | 331417 | [331417-outbreak-the-full-monty-collection.json](./331417-outbreak-the-full-monty-collection.json) |
 | Outbreak: The New Nightmare - Definitive Collection | 234305 | [234305-outbreak-the-new-nightmare-definitive-collection.json](./234305-outbreak-the-new-nightmare-definitive-collection.json) |
+| Outbreak: The New Nightmare - Revisited | 261358 | [261358-outbreak-the-new-nightmare-revisited.json](./261358-outbreak-the-new-nightmare-revisited.json) |
 | Outbreak: The Nightmare Chronicles - Chapter 2 | 168843 | [168843-outbreak-the-nightmare-chronicles-chapter-2.json](./168843-outbreak-the-nightmare-chronicles-chapter-2.json) |
 | Outbreak: The Nightmare Chronicles - Chapter 4 | 168853 | [168853-outbreak-the-nightmare-chronicles-chapter-4.json](./168853-outbreak-the-nightmare-chronicles-chapter-4.json) |
+| Outbreak: The Nightmare Chronicles - Reinvestigated | 261362 | [261362-outbreak-the-nightmare-chronicles-reinvestigated.json](./261362-outbreak-the-nightmare-chronicles-reinvestigated.json) |
 | Outbreak: Urban Jungle Collection | 331418 | [331418-outbreak-urban-jungle-collection.json](./331418-outbreak-urban-jungle-collection.json) |
 | Outbrk | 131609 | [131609-outbrk.json](./131609-outbrk.json) |
 | Outburst | 79240 | [79240-outburst.json](./79240-outburst.json) |
@@ -1612,6 +1619,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtime at Freddy's | 280919 | [280919-overtime-at-freddys.json](./280919-overtime-at-freddys.json) |
 | Overtime Heroes Exit 8 | 310729 | [310729-overtime-heroes-exit-8.json](./310729-overtime-heroes-exit-8.json) |
 | Overview: Rain Echoes | 325063 | [325063-overview-rain-echoes.json](./325063-overview-rain-echoes.json) |
+| Overwatch 2: Complete Hero Collection | 261336 | [261336-overwatch-2-complete-hero-collection.json](./261336-overwatch-2-complete-hero-collection.json) |
+| Overwatch 2: Hero Collection | 261335 | [261335-overwatch-2-hero-collection.json](./261335-overwatch-2-hero-collection.json) |
+| Overwatch 2: Invasion Bundle | 261349 | [261349-overwatch-2-invasion-bundle.json](./261349-overwatch-2-invasion-bundle.json) |
+| Overwatch 2: Invasion Ultimate Bundle | 261350 | [261350-overwatch-2-invasion-ultimate-bundle.json](./261350-overwatch-2-invasion-ultimate-bundle.json) |
 | Overwatch 2: My Hero Academia | 317819 | [317819-overwatch-2-my-hero-academia.json](./317819-overwatch-2-my-hero-academia.json) |
 | Overwatch 2: PlayStation Plus Mega Bundle | 316064 | [316064-overwatch-2-playstation-plus-mega-bundle.json](./316064-overwatch-2-playstation-plus-mega-bundle.json) |
 | Overwatch 2: Season 13 - Spellbinder | 319357 | [319357-overwatch-2-season-13-spellbinder.json](./319357-overwatch-2-season-13-spellbinder.json) |
