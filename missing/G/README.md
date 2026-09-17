@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemsa | 243966 | [243966-gemsa.json](./243966-gemsa.json) |
 | Gemstone Guardians | 239640 | [239640-gemstone-guardians.json](./239640-gemstone-guardians.json) |
 | Gemstone IV | 79899 | [79899-gemstone-iv.json](./79899-gemstone-iv.json) |
+| Gemstone Puzzle Fury: Expansion Pack | 275731 | [275731-gemstone-puzzle-fury-expansion-pack.json](./275731-gemstone-puzzle-fury-expansion-pack.json) |
 | Gemstone Realm | 368505 | [368505-gemstone-realm.json](./368505-gemstone-realm.json) |
 | Gemstone Warrior | 25693 | [25693-gemstone-warrior.json](./25693-gemstone-warrior.json) |
 | Gemstones | 231616 | [231616-gemstones.json](./231616-gemstones.json) |
@@ -850,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerrymandering: Red vs Blue | 27865 | [27865-gerrymandering-red-vs-blue.json](./27865-gerrymandering-red-vs-blue.json) |
 | Gerty: Robots In Love | 31638 | [31638-gerty-robots-in-love.json](./31638-gerty-robots-in-love.json) |
 | Gestalt_OS | 270657 | [270657-gestalt-os.json](./270657-gestalt-os.json) |
+| Gestalt: The Fifth Day | 275730 | [275730-gestalt-the-fifth-day.json](./275730-gestalt-the-fifth-day.json) |
 | Gestures Towards Divinity | 393510 | [393510-gestures-towards-divinity.json](./393510-gestures-towards-divinity.json) |
 | Get Away From The Cube | 335678 | [335678-get-away-from-the-cube.json](./335678-get-away-from-the-cube.json) |
 | Get Bigger! Mola | 120321 | [120321-get-bigger-mola.json](./120321-get-bigger-mola.json) |
@@ -1074,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GimmickHeart | 253400 | [253400-gimmickheart.json](./253400-gimmickheart.json) |
 | Gin and Wall | 412365 | [412365-gin-and-wall.json](./412365-gin-and-wall.json) |
 | Gin Champion | 46581 | [46581-gin-champion.json](./46581-gin-champion.json) |
+| Gin: The Silver Wind | 275729 | [275729-gin-the-silver-wind.json](./275729-gin-the-silver-wind.json) |
 | Gin's Gunstore | 355546 | [355546-gins-gunstore.json](./355546-gins-gunstore.json) |
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
@@ -1331,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Kart Mania: Discovery Edition | 332509 | [332509-go-kart-mania-discovery-edition.json](./332509-go-kart-mania-discovery-edition.json) |
 | Go Kart Mania: Premium Edition | 317255 | [317255-go-kart-mania-premium-edition.json](./317255-go-kart-mania-premium-edition.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
+| Go Noodle | 275687 | [275687-go-noodle.json](./275687-go-noodle.json) |
 | Go Outside Simulator | 111491 | [111491-go-outside-simulator.json](./111491-go-outside-simulator.json) |
 | Go Over the Edge | 235755 | [235755-go-over-the-edge.json](./235755-go-over-the-edge.json) |
 | Go Plague Monkey! Go! | 60558 | [60558-go-plague-monkey-go.json](./60558-go-plague-monkey-go.json) |
@@ -1606,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldenEye: Rogue Agent | 146882 | [146882-goldeneye-rogue-agent.json](./146882-goldeneye-rogue-agent.json) |
 | Goldenjar Fall | 154028 | [154028-goldenjar-fall.json](./154028-goldenjar-fall.json) |
 | GoldenMiner | 253939 | [253939-goldenminer.json](./253939-goldenminer.json) |
+| GoldenShot | 275686 | [275686-goldenshot.json](./275686-goldenshot.json) |
 | GoldfishFlap | 172677 | [172677-goldfishflap.json](./172677-goldfishflap.json) |
 | Goldheart | 248324 | [248324-goldheart.json](./248324-goldheart.json) |
 | Goldilock One: Boss Arena | 138247 | [138247-goldilock-one-boss-arena.json](./138247-goldilock-one-boss-arena.json) |
