@@ -4368,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Run | 309375 | [309375-duck-run.json](./309375-duck-run.json) |
 | Duck Run | 87570 | [87570-duck-run.json](./87570-duck-run.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
+| Duck Tales ZX: Webby to the Rescue! | 279736 | [279736-duck-tales-zx-webby-to-the-rescue.json](./279736-duck-tales-zx-webby-to-the-rescue.json) |
 | Duck vs. Evil | 350453 | [350453-duck-vs-evil.json](./350453-duck-vs-evil.json) |
 | Duck, Jump, Die! | 181344 | [181344-duck-jump-die.json](./181344-duck-jump-die.json) |
 | Duck, Quack, Shoot! | 287665 | [287665-duck-quack-shoot.json](./287665-duck-quack-shoot.json) |
