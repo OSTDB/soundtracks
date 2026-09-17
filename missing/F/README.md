@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabled Lands: The Serpent King's Domain | 296671 | [296671-fabled-lands-the-serpent-kings-domain.json](./296671-fabled-lands-the-serpent-kings-domain.json) |
 | Fables of Talumos | 119007 | [119007-fables-of-talumos.json](./119007-fables-of-talumos.json) |
 | Fabulous Angela: New York to LA | 124171 | [124171-fabulous-angela-new-york-to-la.json](./124171-fabulous-angela-new-york-to-la.json) |
+| Fabulous Samurai Star | 256325 | [256325-fabulous-samurai-star.json](./256325-fabulous-samurai-star.json) |
 | Facada | 395036 | [395036-facada.json](./395036-facada.json) |
 | Façade | 11740 | [11740-facade.json](./11740-facade.json) |
 | Face 2 Face | 299730 | [299730-face-2-face.json](./299730-face-2-face.json) |
@@ -328,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Ball Ocean | 107167 | [107167-falling-ball-ocean.json](./107167-falling-ball-ocean.json) |
 | Falling Blocks | 105389 | [105389-falling-blocks.json](./105389-falling-blocks.json) |
 | Falling Day | 270180 | [270180-falling-day.json](./270180-falling-day.json) |
+| Falling Down | 256364 | [256364-falling-down.json](./256364-falling-down.json) |
 | Falling Down XR | 269013 | [269013-falling-down-xr.json](./269013-falling-down-xr.json) |
 | Falling for Yaoguais | 333569 | [333569-falling-for-yaoguais.json](./333569-falling-for-yaoguais.json) |
 | Falling Guys | 361739 | [361739-falling-guys.json](./361739-falling-guys.json) |
@@ -2110,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip! The Cartoon Strategy Game | 57086 | [57086-flip-the-cartoon-strategy-game.json](./57086-flip-the-cartoon-strategy-game.json) |
 | Flipbomb | 371348 | [371348-flipbomb.json](./371348-flipbomb.json) |
 | FlipBook | 315831 | [315831-flipbook.json](./315831-flipbook.json) |
+| Flipinity | 256357 | [256357-flipinity.json](./256357-flipinity.json) |
 | Fliplomacy | 103399 | [103399-fliplomacy.json](./103399-fliplomacy.json) |
 | Flipnote Studio | 85636 | [85636-flipnote-studio.json](./85636-flipnote-studio.json) |
 | Flipped | 190737 | [190737-flipped.json](./190737-flipped.json) |
