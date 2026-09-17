@@ -2879,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Renovator: Disco Room & Furniture Set | 265717 | [265717-hotel-renovator-disco-room-and-furniture-set.json](./265717-hotel-renovator-disco-room-and-furniture-set.json) |
 | Hotel Renovator: Five Star Edition | 250420 | [250420-hotel-renovator-five-star-edition.json](./250420-hotel-renovator-five-star-edition.json) |
 | Hotel Renovator: Futuristic Furniture Set | 250421 | [250421-hotel-renovator-futuristic-furniture-set.json](./250421-hotel-renovator-futuristic-furniture-set.json) |
+| Hotel Renovator: Kawaii Furniture Set | 245386 | [245386-hotel-renovator-kawaii-furniture-set.json](./245386-hotel-renovator-kawaii-furniture-set.json) |
 | Hotel Security | 339846 | [339846-hotel-security.json](./339846-hotel-security.json) |
 | Hotel Simulator 2024 | 307567 | [307567-hotel-simulator-2024.json](./307567-hotel-simulator-2024.json) |
 | Hotel Simulator 2026 | 390536 | [390536-hotel-simulator-2026.json](./390536-hotel-simulator-2026.json) |
