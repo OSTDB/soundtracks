@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zep | 377136 | [377136-zep.json](./377136-zep.json) |
 | Zeppelin | 23871 | [23871-zeppelin.json](./23871-zeppelin.json) |
 | Zera: Myths Awaken | 115069 | [115069-zera-myths-awaken.json](./115069-zera-myths-awaken.json) |
+| Zeramida | 274018 | [274018-zeramida.json](./274018-zeramida.json) |
 | Zeran's Folly | 54496 | [54496-zerans-folly.json](./54496-zerans-folly.json) |
 | Zereoton Hauntings | 360662 | [360662-zereoton-hauntings.json](./360662-zereoton-hauntings.json) |
 | Zeriliah Chronicles | 153924 | [153924-zeriliah-chronicles.json](./153924-zeriliah-chronicles.json) |
