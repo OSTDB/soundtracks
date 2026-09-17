@@ -1899,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Squad Tactics | 415888 | [415888-medieval-squad-tactics.json](./415888-medieval-squad-tactics.json) |
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
 | Medieval Wars | 165697 | [165697-medieval-wars.json](./165697-medieval-wars.json) |
+| Medieval: Defense & Conquest | 255792 | [255792-medieval-defense-and-conquest.json](./255792-medieval-defense-and-conquest.json) |
 | Medieval: Idle Prayer | 364603 | [364603-medieval-idle-prayer.json](./364603-medieval-idle-prayer.json) |
 | Medieval: Total War - Collection | 82055 | [82055-medieval-total-war-collection.json](./82055-medieval-total-war-collection.json) |
 | Medieval: Total War - Gold Edition | 35894 | [35894-medieval-total-war-gold-edition.json](./35894-medieval-total-war-gold-edition.json) |
@@ -2039,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: The New Lands Remastered | 269873 | [269873-mega-man-the-new-lands-remastered.json](./269873-mega-man-the-new-lands-remastered.json) |
 | Mega Man: The Sequel Wars | 215146 | [215146-mega-man-the-sequel-wars.json](./215146-mega-man-the-sequel-wars.json) |
 | Mega Man: Twin Destinies | 313111 | [313111-mega-man-twin-destinies.json](./313111-mega-man-twin-destinies.json) |
+| Mega Man: Wily Tower | 255798 | [255798-mega-man-wily-tower.json](./255798-mega-man-wily-tower.json) |
 | Mega Marble World 2 | 157671 | [157671-mega-marble-world-2.json](./157671-mega-marble-world-2.json) |
 | Mega Mario World 2: Awakened Power | 229347 | [229347-mega-mario-world-2-awakened-power.json](./229347-mega-mario-world-2-awakened-power.json) |
 | Mega Math | 19670 | [19670-mega-math.json](./19670-mega-math.json) |
