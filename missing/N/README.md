@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Friends | 244337 | [244337-no-friends.json](./244337-no-friends.json) |
 | No Ghost in Circus Caravan | 311999 | [311999-no-ghost-in-circus-caravan.json](./311999-no-ghost-in-circus-caravan.json) |
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
+| No Heroes Allowed! | 234732 | [234732-no-heroes-allowed.json](./234732-no-heroes-allowed.json) |
 | No Horizon | 109572 | [109572-no-horizon.json](./109572-no-horizon.json) |
 | No JetPacks For Chattini | 346015 | [346015-no-jetpacks-for-chattini.json](./346015-no-jetpacks-for-chattini.json) |
 | No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
