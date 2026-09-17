@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Gloves VR | 235191 | [235191-golden-gloves-vr.json](./235191-golden-gloves-vr.json) |
 | Golden Goal: Soccer Squad | 297251 | [297251-golden-goal-soccer-squad.json](./297251-golden-goal-soccer-squad.json) |
 | Golden Idol Investigations: The Sins of New Wells | 333390 | [333390-golden-idol-investigations-the-sins-of-new-wells.json](./333390-golden-idol-investigations-the-sins-of-new-wells.json) |
+| Golden Idol Mysteries: DLC Bundle | 268569 | [268569-golden-idol-mysteries-dlc-bundle.json](./268569-golden-idol-mysteries-dlc-bundle.json) |
 | Golden Kingdom VR | 333963 | [333963-golden-kingdom-vr.json](./333963-golden-kingdom-vr.json) |
 | Golden Knight | 331661 | [331661-golden-knight.json](./331661-golden-knight.json) |
 | Golden Lap | 294353 | [294353-golden-lap.json](./294353-golden-lap.json) |
@@ -1656,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Up Tropical | 337990 | [337990-golf-up-tropical.json](./337990-golf-up-tropical.json) |
 | Golf With Your Friends 2 | 325850 | [325850-golf-with-your-friends-2.json](./325850-golf-with-your-friends-2.json) |
 | Golf With Your Friends: Critical Hit Pack | 298594 | [298594-golf-with-your-friends-critical-hit-pack.json](./298594-golf-with-your-friends-critical-hit-pack.json) |
+| Golf With Your Friends: Fairytale Fables Pack | 268540 | [268540-golf-with-your-friends-fairytale-fables-pack.json](./268540-golf-with-your-friends-fairytale-fables-pack.json) |
 | Golf With Your Friends: Horrifying Headgear Pack | 336929 | [336929-golf-with-your-friends-horrifying-headgear-pack.json](./336929-golf-with-your-friends-horrifying-headgear-pack.json) |
 | Golf With Your Friends: Sports Pack | 230825 | [230825-golf-with-your-friends-sports-pack.json](./230825-golf-with-your-friends-sports-pack.json) |
 | Golf-e | 170015 | [170015-golf-e.json](./170015-golf-e.json) |
@@ -2403,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Touhou DLC Pack 03 | 361701 | [361701-groove-coaster-touhou-dlc-pack-03.json](./361701-groove-coaster-touhou-dlc-pack-03.json) |
 | Groove Coaster: Undertale DLC Pack 01 | 361705 | [361705-groove-coaster-undertale-dlc-pack-01.json](./361705-groove-coaster-undertale-dlc-pack-01.json) |
 | Groove Coaster: Wai Wai Party!!!! - DJMax Respect Pack | 237937 | [237937-groove-coaster-wai-wai-party-djmax-respect-pack.json](./237937-groove-coaster-wai-wai-party-djmax-respect-pack.json) |
+| Groove Coaster: Wai Wai Party!!!! - Hit Song + VTuber Pack 5 | 268539 | [268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json](./268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json) |
 | Groove Coaster: Wai Wai Party!!!! - Lanota Pack | 237936 | [237936-groove-coaster-wai-wai-party-lanota-pack.json](./237936-groove-coaster-wai-wai-party-lanota-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Undertale + Deltarune Pack | 283179 | [283179-groove-coaster-wai-wai-party-undertale-deltarune-pack.json](./283179-groove-coaster-wai-wai-party-undertale-deltarune-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 9 | 283180 | [283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json](./283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json) |
