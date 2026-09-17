@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurgency: Sandstorm - Chemical Combat Gear Set | 321157 | [321157-insurgency-sandstorm-chemical-combat-gear-set.json](./321157-insurgency-sandstorm-chemical-combat-gear-set.json) |
 | Insurgency: Sandstorm - Desert Veteran Weapon Skin Set | 321159 | [321159-insurgency-sandstorm-desert-veteran-weapon-skin-set.json](./321159-insurgency-sandstorm-desert-veteran-weapon-skin-set.json) |
 | Insurgency: Sandstorm - Digital Splatter Skin Set | 273937 | [273937-insurgency-sandstorm-digital-splatter-skin-set.json](./273937-insurgency-sandstorm-digital-splatter-skin-set.json) |
+| Insurgency: Sandstorm - Digital Splatter Weapon Skin Set | 274588 | [274588-insurgency-sandstorm-digital-splatter-weapon-skin-set.json](./274588-insurgency-sandstorm-digital-splatter-weapon-skin-set.json) |
 | Insurgency: Sandstorm - Dusty Weapon Skin Set | 321160 | [321160-insurgency-sandstorm-dusty-weapon-skin-set.json](./321160-insurgency-sandstorm-dusty-weapon-skin-set.json) |
 | Insurgency: Sandstorm - Mountain Tactical Gear Set | 273935 | [273935-insurgency-sandstorm-mountain-tactical-gear-set.json](./273935-insurgency-sandstorm-mountain-tactical-gear-set.json) |
 | Insurgency: Sandstorm - Onslaught Set Bundle | 273934 | [273934-insurgency-sandstorm-onslaught-set-bundle.json](./273934-insurgency-sandstorm-onslaught-set-bundle.json) |
@@ -1388,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intoxicated Driver | 286136 | [286136-intoxicated-driver.json](./286136-intoxicated-driver.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intransigent | 326275 | [326275-intransigent.json](./326275-intransigent.json) |
+| Intravenous 2: Mercenarism | 274547 | [274547-intravenous-2-mercenarism.json](./274547-intravenous-2-mercenarism.json) |
 | Intrepid | 112999 | [112999-intrepid.json](./112999-intrepid.json) |
 | Intrepid | 297485 | [297485-intrepid.json](./297485-intrepid.json) |
 | Introspectus | 398353 | [398353-introspectus.json](./398353-introspectus.json) |
