@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell to the Universe | 177497 | [177497-farewell-to-the-universe.json](./177497-farewell-to-the-universe.json) |
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
 | Farfalla | 91442 | [91442-farfalla.json](./91442-farfalla.json) |
+| Farhoud Farmand's The Mountaineer | 249285 | [249285-farhoud-farmands-the-mountaineer.json](./249285-farhoud-farmands-the-mountaineer.json) |
 | Faria: A World of Mystery and Danger! | 48060 | [48060-faria-a-world-of-mystery-and-danger.json](./48060-faria-a-world-of-mystery-and-danger.json) |
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
@@ -1976,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Meatbag | 23731 | [23731-flappy-meatbag.json](./23731-flappy-meatbag.json) |
 | Flappy Monkey | 325099 | [325099-flappy-monkey.json](./325099-flappy-monkey.json) |
 | Flappy Navalny | 137665 | [137665-flappy-navalny.json](./137665-flappy-navalny.json) |
+| Flappy Pixel! | 249308 | [249308-flappy-pixel.json](./249308-flappy-pixel.json) |
 | Flappy Shooter | 175982 | [175982-flappy-shooter.json](./175982-flappy-shooter.json) |
 | Flappy Souls | 249191 | [249191-flappy-souls.json](./249191-flappy-souls.json) |
 | Flappy Ugandan Knuckles | 308965 | [308965-flappy-ugandan-knuckles.json](./308965-flappy-ugandan-knuckles.json) |
@@ -3449,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Salad Theory | 186807 | [186807-fruit-salad-theory.json](./186807-fruit-salad-theory.json) |
 | Fruit Search | 277379 | [277379-fruit-search.json](./277379-fruit-search.json) |
 | Fruit Shinobi | 252807 | [252807-fruit-shinobi.json](./252807-fruit-shinobi.json) |
+| Fruit Slice | 249270 | [249270-fruit-slice.json](./249270-fruit-slice.json) |
 | Fruit Slide | 359993 | [359993-fruit-slide.json](./359993-fruit-slide.json) |
 | Fruit Sudoku | 334750 | [334750-fruit-sudoku.json](./334750-fruit-sudoku.json) |
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
