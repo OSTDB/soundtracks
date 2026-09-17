@@ -2113,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NutritionZ | 374725 | [374725-nutritionz.json](./374725-nutritionz.json) |
 | Nuts & Bolts Puzzle | 265749 | [265749-nuts-and-bolts-puzzle.json](./265749-nuts-and-bolts-puzzle.json) |
 | Nutty | 299170 | [299170-nutty.json](./299170-nutty.json) |
+| Nutty Noon | 240329 | [240329-nutty-noon.json](./240329-nutty-noon.json) |
 | Nutz Revenge | 302942 | [302942-nutz-revenge.json](./302942-nutz-revenge.json) |
 | Nǚwáng | 407321 | [407321-nuwang.json](./407321-nuwang.json) |
 | Nuwe: First seeds | 199099 | [199099-nuwe-first-seeds.json](./199099-nuwe-first-seeds.json) |
