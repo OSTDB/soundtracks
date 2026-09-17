@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceiling Zero | 282105 | [282105-ceiling-zero.json](./282105-ceiling-zero.json) |
 | Cel Damage 2 | 143110 | [143110-cel-damage-2.json](./143110-cel-damage-2.json) |
 | Celebrating Lotería! | 375816 | [375816-celebrating-loteria.json](./375816-celebrating-loteria.json) |
+| Celebrating Pani Puri | 256370 | [256370-celebrating-pani-puri.json](./256370-celebrating-pani-puri.json) |
 | Celebrities Hacked: Evelyn Photo Pack | 289470 | [289470-celebrities-hacked-evelyn-photo-pack.json](./289470-celebrities-hacked-evelyn-photo-pack.json) |
 | Celebrities Hacked: LatexUsagi Photo Pack | 289469 | [289469-celebrities-hacked-latexusagi-photo-pack.json](./289469-celebrities-hacked-latexusagi-photo-pack.json) |
 | Celebrities Hacked: NoirPetal Photo Pack | 289467 | [289467-celebrities-hacked-noirpetal-photo-pack.json](./289467-celebrities-hacked-noirpetal-photo-pack.json) |
@@ -1318,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
 | Cell of Empireo | 175966 | [175966-cell-of-empireo.json](./175966-cell-of-empireo.json) |
 | Cell of Empireo: RTC - Interlude | 301419 | [301419-cell-of-empireo-rtc-interlude.json](./301419-cell-of-empireo-rtc-interlude.json) |
+| Cell Phone Love Letter | 256330 | [256330-cell-phone-love-letter.json](./256330-cell-phone-love-letter.json) |
 | Cell to Singularity: Evolution | 259562 | [259562-cell-to-singularity-evolution.json](./259562-cell-to-singularity-evolution.json) |
 | Cell Tune | 134618 | [134618-cell-tune.json](./134618-cell-tune.json) |
 | Cellar | 33323 | [33323-cellar.json](./33323-cellar.json) |
@@ -2373,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bus Simulator 2010 | 67299 | [67299-city-bus-simulator-2010.json](./67299-city-bus-simulator-2010.json) |
 | City Bus Tycoon | 89810 | [89810-city-bus-tycoon.json](./89810-city-bus-tycoon.json) |
 | City Car Driving 2.0 | 403690 | [403690-city-car-driving-2-0.json](./403690-city-car-driving-2-0.json) |
+| City Car Parking Simulator | 256336 | [256336-city-car-parking-simulator.json](./256336-city-car-parking-simulator.json) |
 | City Climber | 27546 | [27546-city-climber.json](./27546-city-climber.json) |
 | City Connection | 288842 | [288842-city-connection.json](./288842-city-connection.json) |
 | City Country | 191157 | [191157-city-country.json](./191157-city-country.json) |
@@ -3595,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contamination | 12986 | [12986-contamination.json](./12986-contamination.json) |
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
+| Continent of the Ninth Golden | 256337 | [256337-continent-of-the-ninth-golden.json](./256337-continent-of-the-ninth-golden.json) |
 | Continental Drift | 135834 | [135834-continental-drift.json](./135834-continental-drift.json) |
 | Contingency Plan | 336632 | [336632-contingency-plan.json](./336632-contingency-plan.json) |
 | Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
