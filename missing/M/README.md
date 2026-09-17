@@ -3477,10 +3477,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
 | Misfolded | 109579 | [109579-misfolded.json](./109579-misfolded.json) |
 | Misfortune | 323937 | [323937-misfortune.json](./323937-misfortune.json) |
+| Misgiven | 258040 | [258040-misgiven.json](./258040-misgiven.json) |
 | Mishap: An Accidental Haunting | 16162 | [16162-mishap-an-accidental-haunting.json](./16162-mishap-an-accidental-haunting.json) |
 | Miside Reality | 335963 | [335963-miside-reality.json](./335963-miside-reality.json) |
 | Misk Schools Quest | 187516 | [187516-misk-schools-quest.json](./187516-misk-schools-quest.json) |
 | Miskatonic | 389973 | [389973-miskatonic.json](./389973-miskatonic.json) |
+| Miskatonic University | 258007 | [258007-miskatonic-university.json](./258007-miskatonic-university.json) |
 | Misplaced | 300034 | [300034-misplaced.json](./300034-misplaced.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
 | Miss Bullard's School for Former Ladies | 184058 | [184058-miss-bullards-school-for-former-ladies.json](./184058-miss-bullards-school-for-former-ladies.json) |
@@ -4336,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Cow: Guardian of the Night | 386229 | [386229-moonlight-cow-guardian-of-the-night.json](./386229-moonlight-cow-guardian-of-the-night.json) |
 | Moonlight Cradle | 404334 | [404334-moonlight-cradle.json](./404334-moonlight-cradle.json) |
 | Moonlight Frog Inn | 320346 | [320346-moonlight-frog-inn.json](./320346-moonlight-frog-inn.json) |
+| Moonlight Mayhem | 257993 | [257993-moonlight-mayhem.json](./257993-moonlight-mayhem.json) |
 | Moonlight maze | 121734 | [121734-moonlight-maze.json](./121734-moonlight-maze.json) |
 | Moonlight Princess | 145566 | [145566-moonlight-princess.json](./145566-moonlight-princess.json) |
 | Moonlight Rabbits | 302366 | [302366-moonlight-rabbits.json](./302366-moonlight-rabbits.json) |
@@ -4762,6 +4765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moviedle | 401684 | [401684-moviedle.json](./401684-moviedle.json) |
 | Movierooms: Cinema Management | 260156 | [260156-movierooms-cinema-management.json](./260156-movierooms-cinema-management.json) |
 | MovieStarPlanet | 94981 | [94981-moviestarplanet.json](./94981-moviestarplanet.json) |
+| Moving Corpse | 258030 | [258030-moving-corpse.json](./258030-moving-corpse.json) |
 | Moving Day | 75793 | [75793-moving-day.json](./75793-moving-day.json) |
 | Moving Day: Make It Home | 389417 | [389417-moving-day-make-it-home.json](./389417-moving-day-make-it-home.json) |
 | Moving On | 303075 | [303075-moving-on.json](./303075-moving-on.json) |
