@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Kebab | 384504 | [384504-midnight-kebab.json](./384504-midnight-kebab.json) |
 | Midnight Looters | 392121 | [392121-midnight-looters.json](./392121-midnight-looters.json) |
 | Midnight Maintenance | 180780 | [180780-midnight-maintenance.json](./180780-midnight-maintenance.json) |
+| Midnight Margo | 276827 | [276827-midnight-margo.json](./276827-midnight-margo.json) |
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
 | Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
 | Midnight Mysteries: Devil on the Mississippi - Collector's Edition | 89860 | [89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json](./89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json) |
