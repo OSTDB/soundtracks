@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazue World | 328056 | [328056-kazue-world.json](./328056-kazue-world.json) |
 | Kazue World 2 | 328055 | [328055-kazue-world-2.json](./328055-kazue-world-2.json) |
 | Kazuma Kaneko's Tsukuyomi: Digital Deluxe Edition | 390532 | [390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json](./390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json) |
+| KBRD | 251699 | [251699-kbrd.json](./251699-kbrd.json) |
 | KC Returns! II | 208374 | [208374-kc-returns-ii.json](./208374-kc-returns-ii.json) |
 | KDice | 56512 | [56512-kdice.json](./56512-kdice.json) |
 | Ke Rulen Los Petas | 141849 | [141849-ke-rulen-los-petas.json](./141849-ke-rulen-los-petas.json) |
