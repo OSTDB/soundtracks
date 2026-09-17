@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Simulator | 188094 | [188094-parking-simulator.json](./188094-parking-simulator.json) |
 | Parking Ticket Mayhem | 391221 | [391221-parking-ticket-mayhem.json](./391221-parking-ticket-mayhem.json) |
 | Parking Tycoon | 252144 | [252144-parking-tycoon.json](./252144-parking-tycoon.json) |
+| Parking Tycoon: Business Simulator | 257994 | [257994-parking-tycoon-business-simulator.json](./257994-parking-tycoon-business-simulator.json) |
 | Parkitect | 18871 | [18871-parkitect.json](./18871-parkitect.json) |
 | Parkour Annovation: Unreal Edition | 243952 | [243952-parkour-annovation-unreal-edition.json](./243952-parkour-annovation-unreal-edition.json) |
 | Parkour Arcade | 104623 | [104623-parkour-arcade.json](./104623-parkour-arcade.json) |
@@ -3746,6 +3747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
 | Princess Pajama | 316803 | [316803-princess-pajama.json](./316803-princess-pajama.json) |
+| Princess Paladin | 258034 | [258034-princess-paladin.json](./258034-princess-paladin.json) |
 | Princess Paloma's Rescue | 360109 | [360109-princess-palomas-rescue.json](./360109-princess-palomas-rescue.json) |
 | Princess Peach Sex Hack | 294709 | [294709-princess-peach-sex-hack.json](./294709-princess-peach-sex-hack.json) |
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
@@ -3895,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Office Calculator | 142457 | [142457-pro-office-calculator.json](./142457-pro-office-calculator.json) |
 | Pro Pain Labs | 166191 | [166191-pro-pain-labs.json](./166191-pro-pain-labs.json) |
 | Pro Philosopher 2: Fan Mini Argument: Locke on Property and Labor | 394866 | [394866-pro-philosopher-2-fan-mini-argument-locke-on-property-and-labor.json](./394866-pro-philosopher-2-fan-mini-argument-locke-on-property-and-labor.json) |
+| Pro Philosopher 2: Governments & Grievances | 258026 | [258026-pro-philosopher-2-governments-and-grievances.json](./258026-pro-philosopher-2-governments-and-grievances.json) |
 | Pro Pilkki 2 | 93597 | [93597-pro-pilkki-2.json](./93597-pro-pilkki-2.json) |
 | Pro Pinball | 18333 | [18333-pro-pinball.json](./18333-pro-pinball.json) |
 | Pro Pinball: Fantastic Journey | 43877 | [43877-pro-pinball-fantastic-journey.json](./43877-pro-pinball-fantastic-journey.json) |
