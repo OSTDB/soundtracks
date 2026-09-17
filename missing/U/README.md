@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfinished 2 | 338589 | [338589-unfinished-2.json](./338589-unfinished-2.json) |
 | Unforgiven: Shattered Souls | 139357 | [139357-unforgiven-shattered-souls.json](./139357-unforgiven-shattered-souls.json) |
 | Unforgiven: Shattered Souls Portable | 139358 | [139358-unforgiven-shattered-souls-portable.json](./139358-unforgiven-shattered-souls-portable.json) |
+| Unforgotten: Ordinance | 276816 | [276816-unforgotten-ordinance.json](./276816-unforgotten-ordinance.json) |
 | Unfortunate Spacemen | 34300 | [34300-unfortunate-spacemen.json](./34300-unfortunate-spacemen.json) |
 | Ungrounded | 134593 | [134593-ungrounded.json](./134593-ungrounded.json) |
 | Unhallowed | 256834 | [256834-unhallowed.json](./256834-unhallowed.json) |
