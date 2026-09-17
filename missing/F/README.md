@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Euro Train Driver Sim | 213387 | [213387-fast-euro-train-driver-sim.json](./213387-fast-euro-train-driver-sim.json) |
 | Fast Food | 14454 | [14454-fast-food.json](./14454-fast-food.json) |
 | Fast Food | 18287 | [18287-fast-food.json](./18287-fast-food.json) |
+| Fast Food Chef | 234745 | [234745-fast-food-chef.json](./234745-fast-food-chef.json) |
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
 | Fast Food Frog | 358881 | [358881-fast-food-frog.json](./358881-fast-food-frog.json) |
 | Fast Food Manager 2 | 347719 | [347719-fast-food-manager-2.json](./347719-fast-food-manager-2.json) |
