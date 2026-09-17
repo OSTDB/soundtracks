@@ -1005,6 +1005,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
 | Ghostrunner II | 250617 | [250617-ghostrunner-ii.json](./250617-ghostrunner-ii.json) |
 | Ghostrunner II: Anniversary Pack | 371319 | [371319-ghostrunner-ii-anniversary-pack.json](./371319-ghostrunner-ii-anniversary-pack.json) |
+| Ghostrunner II: Brutal Edition | 262414 | [262414-ghostrunner-ii-brutal-edition.json](./262414-ghostrunner-ii-brutal-edition.json) |
+| Ghostrunner II: Deluxe Edition | 262415 | [262415-ghostrunner-ii-deluxe-edition.json](./262415-ghostrunner-ii-deluxe-edition.json) |
 | Ghostrunner II: Dragon Pack | 292679 | [292679-ghostrunner-ii-dragon-pack.json](./292679-ghostrunner-ii-dragon-pack.json) |
 | Ghostrunner II: Endless Moto Mode | 371318 | [371318-ghostrunner-ii-endless-moto-mode.json](./371318-ghostrunner-ii-endless-moto-mode.json) |
 | Ghosts | 306496 | [306496-ghosts.json](./306496-ghosts.json) |
@@ -1024,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghoul Patrol | 42612 | [42612-ghoul-patrol.json](./42612-ghoul-patrol.json) |
 | GhoulBoy: Limited Edition | 166234 | [166234-ghoulboy-limited-edition.json](./166234-ghoulboy-limited-edition.json) |
 | Ghouls | 13721 | [13721-ghouls.json](./13721-ghouls.json) |
+| Ghouls 'n Ghosts | 262502 | [262502-ghouls-n-ghosts.json](./262502-ghouls-n-ghosts.json) |
 | Ghouls 'n Ghosts Remix | 191269 | [191269-ghouls-n-ghosts-remix.json](./191269-ghouls-n-ghosts-remix.json) |
 | Ghouls 'n Ghosts Remix: Queen Edition | 191271 | [191271-ghouls-n-ghosts-remix-queen-edition.json](./191271-ghouls-n-ghosts-remix-queen-edition.json) |
 | Ghrian | 26526 | [26526-ghrian.json](./26526-ghrian.json) |
@@ -1767,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodness Rakes | 231607 | [231607-goodness-rakes.json](./231607-goodness-rakes.json) |
 | Goodnight | 299122 | [299122-goodnight.json](./299122-goodnight.json) |
 | GoodNight | 193404 | [193404-goodnight.json](./193404-goodnight.json) |
+| Goodwad | 262439 | [262439-goodwad.json](./262439-goodwad.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
 | Goof Ball | 78033 | [78033-goof-ball.json](./78033-goof-ball.json) |
 | Goof Troop ST: Space Treasure | 215378 | [215378-goof-troop-st-space-treasure.json](./215378-goof-troop-st-space-treasure.json) |
@@ -1803,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gopnik | 153461 | [153461-gopnik.json](./153461-gopnik.json) |
 | Gor Lab | 321155 | [321155-gor-lab.json](./321155-gor-lab.json) |
 | Goraku-Ou Tango! | 281521 | [281521-goraku-ou-tango.json](./281521-goraku-ou-tango.json) |
+| Gorathar | 262339 | [262339-gorathar.json](./262339-gorathar.json) |
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
 | Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
