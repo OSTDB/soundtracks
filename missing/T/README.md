@@ -2853,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heist in LS | 328220 | [328220-the-heist-in-ls.json](./328220-the-heist-in-ls.json) |
 | The Heist of the Argonaut Limited | 305347 | [305347-the-heist-of-the-argonaut-limited.json](./305347-the-heist-of-the-argonaut-limited.json) |
 | The Hell in I | 301830 | [301830-the-hell-in-i.json](./301830-the-hell-in-i.json) |
+| The Hell Inside | 286082 | [286082-the-hell-inside.json](./286082-the-hell-inside.json) |
 | The Hellbrand | 190728 | [190728-the-hellbrand.json](./190728-the-hellbrand.json) |
 | The Hellchemist | 240800 | [240800-the-hellchemist.json](./240800-the-hellchemist.json) |
 | The Henchmen | 220674 | [220674-the-henchmen.json](./220674-the-henchmen.json) |
@@ -4062,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quintessential Quintuplets: The Quintuplets Can't Divide the Puzzle Into Five Equal Parts | 194029 | [194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json](./194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json) |
 | The Quiz Gear Fight!! | 46601 | [46601-the-quiz-gear-fight.json](./46601-the-quiz-gear-fight.json) |
 | The Quiz Quest | 400366 | [400366-the-quiz-quest.json](./400366-the-quiz-quest.json) |
+| The Rabbit and Tamaki are Taking a Break! | 286106 | [286106-the-rabbit-and-tamaki-are-taking-a-break.json](./286106-the-rabbit-and-tamaki-are-taking-a-break.json) |
 | The Rabbit and the Owl | 51612 | [51612-the-rabbit-and-the-owl.json](./51612-the-rabbit-and-the-owl.json) |
 | The Rabbit Hole Principle | 120352 | [120352-the-rabbit-hole-principle.json](./120352-the-rabbit-hole-principle.json) |
 | The Rabbit's Scroll | 204114 | [204114-the-rabbits-scroll.json](./204114-the-rabbits-scroll.json) |
@@ -6041,6 +6043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilescapes | 350518 | [350518-tilescapes.json](./350518-tilescapes.json) |
 | Tileshire | 413042 | [413042-tileshire.json](./413042-tileshire.json) |
 | Tiling Towers | 249811 | [249811-tiling-towers.json](./249811-tiling-towers.json) |
+| Tilt | 286132 | [286132-tilt.json](./286132-tilt.json) |
 | Tilt Brush | 36215 | [36215-tilt-brush.json](./36215-tilt-brush.json) |
 | Tilted: A Tale of Refraction | 51947 | [51947-tilted-a-tale-of-refraction.json](./51947-tilted-a-tale-of-refraction.json) |
 | Tiltfire | 199604 | [199604-tiltfire.json](./199604-tiltfire.json) |
@@ -8451,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
 | Turkey Stuffin' | 62690 | [62690-turkey-stuffin.json](./62690-turkey-stuffin.json) |
 | Turkmenchay | 362858 | [362858-turkmenchay.json](./362858-turkmenchay.json) |
+| Turlock Holmes | 286086 | [286086-turlock-holmes.json](./286086-turlock-holmes.json) |
 | Turma da Mônica em O Resgate | 246679 | [246679-turma-da-monica-em-o-resgate.json](./246679-turma-da-monica-em-o-resgate.json) |
 | Turma da Mônica na Terra dos Monstros | 98931 | [98931-turma-da-monica-na-terra-dos-monstros.json](./98931-turma-da-monica-na-terra-dos-monstros.json) |
 | Turma do Arrepio: Grand Prix | 249456 | [249456-turma-do-arrepio-grand-prix.json](./249456-turma-do-arrepio-grand-prix.json) |
