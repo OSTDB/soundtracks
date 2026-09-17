@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uju Jeonsa Dooly | 93589 | [93589-uju-jeonsa-dooly.json](./93589-uju-jeonsa-dooly.json) |
 | UK Truck Simulator | 27641 | [27641-uk-truck-simulator.json](./27641-uk-truck-simulator.json) |
 | Ukhar | 90260 | [90260-ukhar.json](./90260-ukhar.json) |
+| Uki-Uki-Tengoku 2 | 275116 | [275116-uki-uki-tengoku-2.json](./275116-uki-uki-tengoku-2.json) |
 | Ukik | 246103 | [246103-ukik.json](./246103-ukik.json) |
 | Uknon Jones & Guynelk 2 | 293625 | [293625-uknon-jones-and-guynelk-2.json](./293625-uknon-jones-and-guynelk-2.json) |
 | Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
