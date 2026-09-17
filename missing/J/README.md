@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the West: Unparalleled | 357813 | [357813-journey-to-the-west-unparalleled.json](./357813-journey-to-the-west-unparalleled.json) |
 | Journey to Whale Fall | 338740 | [338740-journey-to-whale-fall.json](./338740-journey-to-whale-fall.json) |
 | Journey's Legend | 274501 | [274501-journeys-legend.json](./274501-journeys-legend.json) |
+| Journeyman | 236373 | [236373-journeyman.json](./236373-journeyman.json) |
 | Joust | 278128 | [278128-joust.json](./278128-joust.json) |
 | Joust | 278132 | [278132-joust.json](./278132-joust.json) |
 | Joust | 287078 | [287078-joust.json](./287078-joust.json) |
