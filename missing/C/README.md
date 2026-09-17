@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops II - Nuketown Zombies | 295255 | [295255-call-of-duty-black-ops-ii-nuketown-zombies.json](./295255-call-of-duty-black-ops-ii-nuketown-zombies.json) |
 | Call of Duty: Black Ops III - Awakening | 19948 | [19948-call-of-duty-black-ops-iii-awakening.json](./19948-call-of-duty-black-ops-iii-awakening.json) |
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
+| Call of Duty: Endowment (C.O.D.E.) Warrior Pack | 276273 | [276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json](./276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json) |
 | Call of Duty: Future Warfare | 294871 | [294871-call-of-duty-future-warfare.json](./294871-call-of-duty-future-warfare.json) |
 | Call of Duty: Ghosts - Digital Hardened Edition | 240504 | [240504-call-of-duty-ghosts-digital-hardened-edition.json](./240504-call-of-duty-ghosts-digital-hardened-edition.json) |
 | Call of Duty: Modern Warfare - Season Four | 135220 | [135220-call-of-duty-modern-warfare-season-four.json](./135220-call-of-duty-modern-warfare-season-four.json) |
@@ -199,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Sea: Deluxe Edition | 154508 | [154508-call-of-the-sea-deluxe-edition.json](./154508-call-of-the-sea-deluxe-edition.json) |
 | Call of the Sea: Norah's Diary Edition | 170032 | [170032-call-of-the-sea-norahs-diary-edition.json](./170032-call-of-the-sea-norahs-diary-edition.json) |
 | Call of the Underworld | 333653 | [333653-call-of-the-underworld.json](./333653-call-of-the-underworld.json) |
+| Call of the Wild: The Angler - Reserve Pass | 276300 | [276300-call-of-the-wild-the-angler-reserve-pass.json](./276300-call-of-the-wild-the-angler-reserve-pass.json) |
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
 | Call of Tomsk-7 | 34751 | [34751-call-of-tomsk-7.json](./34751-call-of-tomsk-7.json) |
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
@@ -1760,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Shoot 2 | 248634 | [248634-chicken-shoot-2.json](./248634-chicken-shoot-2.json) |
 | Chicken Shoot 2 | 49307 | [49307-chicken-shoot-2.json](./49307-chicken-shoot-2.json) |
 | Chicken Tale | 288792 | [288792-chicken-tale.json](./288792-chicken-tale.json) |
+| Chicken vs. Eggs | 276297 | [276297-chicken-vs-eggs.json](./276297-chicken-vs-eggs.json) |
 | Chicken Wars | 48001 | [48001-chicken-wars.json](./48001-chicken-wars.json) |
 | Chicken Wiggle | 54656 | [54656-chicken-wiggle.json](./54656-chicken-wiggle.json) |
 | Chicken's Revenge | 206969 | [206969-chickens-revenge.json](./206969-chickens-revenge.json) |
@@ -3593,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Simulator: Cakes and Cookies | 129196 | [129196-cooking-simulator-cakes-and-cookies.json](./129196-cooking-simulator-cakes-and-cookies.json) |
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
 | Cooking Trip: Back on the Road | 120385 | [120385-cooking-trip-back-on-the-road.json](./120385-cooking-trip-back-on-the-road.json) |
+| Cooking Trip: New Challenge - Collector's Edition | 276299 | [276299-cooking-trip-new-challenge-collectors-edition.json](./276299-cooking-trip-new-challenge-collectors-edition.json) |
 | Cooking Truck | 227475 | [227475-cooking-truck.json](./227475-cooking-truck.json) |
 | Cooking Tycoons 3: 3 in 1 Bundle | 231045 | [231045-cooking-tycoons-3-3-in-1-bundle.json](./231045-cooking-tycoons-3-3-in-1-bundle.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Extended Edition | 332511 | [332511-cooking-tycoons-3-in-1-bundle-extended-edition.json](./332511-cooking-tycoons-3-in-1-bundle-extended-edition.json) |
@@ -3827,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoWarrior Zero | 43875 | [43875-cosmowarrior-zero.json](./43875-cosmowarrior-zero.json) |
 | Cosmula | 306348 | [306348-cosmula.json](./306348-cosmula.json) |
 | Cosplay Crisis: Succubus Invasion | 309861 | [309861-cosplay-crisis-succubus-invasion.json](./309861-cosplay-crisis-succubus-invasion.json) |
+| Cosplay Relaxation | 276323 | [276323-cosplay-relaxation.json](./276323-cosplay-relaxation.json) |
 | Cossacks 3: The Golden Age | 144963 | [144963-cossacks-3-the-golden-age.json](./144963-cossacks-3-the-golden-age.json) |
 | Cossacks: Campaign Expansion | 144964 | [144964-cossacks-campaign-expansion.json](./144964-cossacks-campaign-expansion.json) |
 | Cossacks: European Wars | 242 | [242-cossacks-european-wars.json](./242-cossacks-european-wars.json) |
@@ -4340,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
 | Cricket Manager 27 | 414308 | [414308-cricket-manager-27.json](./414308-cricket-manager-27.json) |
 | Crimax | 130912 | [130912-crimax.json](./130912-crimax.json) |
+| Crime Boss: Heavy Hitters Pack | 276298 | [276298-crime-boss-heavy-hitters-pack.json](./276298-crime-boss-heavy-hitters-pack.json) |
 | Crime Boss: Rockay City - Cagnali's Order | 315500 | [315500-crime-boss-rockay-city-cagnalis-order.json](./315500-crime-boss-rockay-city-cagnalis-order.json) |
 | Crime Boss: Rockay City - Tactical Weapon Pack | 315501 | [315501-crime-boss-rockay-city-tactical-weapon-pack.json](./315501-crime-boss-rockay-city-tactical-weapon-pack.json) |
 | Crime Cities | 7872 | [7872-crime-cities.json](./7872-crime-cities.json) |
