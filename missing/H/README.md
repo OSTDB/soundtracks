@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Survive | 75787 | [75787-hell-survive.json](./75787-hell-survive.json) |
 | Hell Survivors | 302694 | [302694-hell-survivors.json](./302694-hell-survivors.json) |
 | Hell Takes All | 278137 | [278137-hell-takes-all.json](./278137-hell-takes-all.json) |
+| Hell University | 264140 | [264140-hell-university.json](./264140-hell-university.json) |
 | Hell Warriors | 127380 | [127380-hell-warriors.json](./127380-hell-warriors.json) |
 | Hell Yeah Simulator | 326405 | [326405-hell-yeah-simulator.json](./326405-hell-yeah-simulator.json) |
 | Hell Yeah! Pocket Inferno | 78672 | [78672-hell-yeah-pocket-inferno.json](./78672-hell-yeah-pocket-inferno.json) |
@@ -1611,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes United | 327209 | [327209-heroes-united.json](./327209-heroes-united.json) |
 | Heroes vs. Hordes | 243120 | [243120-heroes-vs-hordes.json](./243120-heroes-vs-hordes.json) |
 | Heroes War | 200722 | [200722-heroes-war.json](./200722-heroes-war.json) |
+| Heroes: The Official Mobile Game | 264132 | [264132-heroes-the-official-mobile-game.json](./264132-heroes-the-official-mobile-game.json) |
 | HeroField: Game Craft | 368514 | [368514-herofield-game-craft.json](./368514-herofield-game-craft.json) |
 | Heroglobin: Monster Hospital | 311122 | [311122-heroglobin-monster-hospital.json](./311122-heroglobin-monster-hospital.json) |
 | Herogrinder: Tactical Combat Arenas | 122397 | [122397-herogrinder-tactical-combat-arenas.json](./122397-herogrinder-tactical-combat-arenas.json) |
