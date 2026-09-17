@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertown | 51263 | [51263-undertown.json](./51263-undertown.json) |
 | Undervault | 129771 | [129771-undervault.json](./129771-undervault.json) |
 | Underwater Affect | 113000 | [113000-underwater-affect.json](./113000-underwater-affect.json) |
+| Underwater and Seafaring Duo | 271827 | [271827-underwater-and-seafaring-duo.json](./271827-underwater-and-seafaring-duo.json) |
 | Underwater Diving | 224547 | [224547-underwater-diving.json](./224547-underwater-diving.json) |
 | Underwater Life | 148514 | [148514-underwater-life.json](./148514-underwater-life.json) |
 | Underwheels | 355073 | [355073-underwheels.json](./355073-underwheels.json) |
