@@ -2792,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
 | Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
+| Siege of Osaka | 239181 | [239181-siege-of-osaka.json](./239181-siege-of-osaka.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
 | Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
@@ -3415,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
 | Sky Jumping | 336626 | [336626-sky-jumping.json](./336626-sky-jumping.json) |
+| Sky Kid | 239160 | [239160-sky-kid.json](./239160-sky-kid.json) |
 | Sky Kid | 293755 | [293755-sky-kid.json](./293755-sky-kid.json) |
 | Sky Kingdoms | 54366 | [54366-sky-kingdoms.json](./54366-sky-kingdoms.json) |
 | Sky Kingdoms - Castle Siege | 100747 | [100747-sky-kingdoms-castle-siege.json](./100747-sky-kingdoms-castle-siege.json) |
@@ -7732,6 +7734,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Additional Character - Alex & Outfit 2 | 375149 | [375149-street-fighter-6-additional-character-alex-and-outfit-2.json](./375149-street-fighter-6-additional-character-alex-and-outfit-2.json) |
 | Street Fighter 6: Additional Character - Ingrid & Outfit 2 & Outfit 3 (Sagat, C. Viper, Alex, Ingrid) | 375151 | [375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json](./375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json) |
 | Street Fighter 6: Deluxe Edition | 228737 | [228737-street-fighter-6-deluxe-edition.json](./228737-street-fighter-6-deluxe-edition.json) |
+| Street Fighter 6: Lenticular Edition | 239145 | [239145-street-fighter-6-lenticular-edition.json](./239145-street-fighter-6-lenticular-edition.json) |
+| Street Fighter 6: Mad Gear Box | 239146 | [239146-street-fighter-6-mad-gear-box.json](./239146-street-fighter-6-mad-gear-box.json) |
 | Street Fighter 6: Return of Shadaloo | 309335 | [309335-street-fighter-6-return-of-shadaloo.json](./309335-street-fighter-6-return-of-shadaloo.json) |
 | Street Fighter 6: Ultimate Edition | 251691 | [251691-street-fighter-6-ultimate-edition.json](./251691-street-fighter-6-ultimate-edition.json) |
 | Street Fighter 6: Year 1 - A.K.I. | 251657 | [251657-street-fighter-6-year-1-a-k-i.json](./251657-street-fighter-6-year-1-a-k-i.json) |
@@ -8200,6 +8204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide For Him | 153966 | [153966-suicide-for-him.json](./153966-suicide-for-him.json) |
 | Suicide Guy: Sleepin' Deeply | 102917 | [102917-suicide-guy-sleepin-deeply.json](./102917-suicide-guy-sleepin-deeply.json) |
 | Suicide Hero | 244279 | [244279-suicide-hero.json](./244279-suicide-hero.json) |
+| Suicide Squad: Kill The Justice League - Deluxe Edition | 239147 | [239147-suicide-squad-kill-the-justice-league-deluxe-edition.json](./239147-suicide-squad-kill-the-justice-league-deluxe-edition.json) |
 | Suicide Squad: Kill the Justice League - Season 3: Season of Lawless | 321529 | [321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json](./321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json) |
 | Suicide Squad: Kill the Justice League - Season of Freeze | 317869 | [317869-suicide-squad-kill-the-justice-league-season-of-freeze.json](./317869-suicide-squad-kill-the-justice-league-season-of-freeze.json) |
 | Suicide Squad: Kill the Justice League - Season of the Joker | 317868 | [317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json](./317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json) |
@@ -9048,6 +9053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Off Road | 365683 | [365683-super-off-road.json](./365683-super-off-road.json) |
 | Super Orb Bros. | 142396 | [142396-super-orb-bros.json](./142396-super-orb-bros.json) |
 | Super Over! | 244799 | [244799-super-over.json](./244799-super-over.json) |
+| Super Pac-Man | 239191 | [239191-super-pac-man.json](./239191-super-pac-man.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
 | Super Pads: Become a DJ | 96776 | [96776-super-pads-become-a-dj.json](./96776-super-pads-become-a-dj.json) |
 | Super Panic Monsters | 71510 | [71510-super-panic-monsters.json](./71510-super-panic-monsters.json) |
