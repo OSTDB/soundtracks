@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigilantes | 25597 | [25597-vigilantes.json](./25597-vigilantes.json) |
 | Vigna's Stereo Switch | 296094 | [296094-vignas-stereo-switch.json](./296094-vignas-stereo-switch.json) |
 | Vignettes | 82952 | [82952-vignettes.json](./82952-vignettes.json) |
+| Vigor Chronicles: Reckoning | 235312 | [235312-vigor-chronicles-reckoning.json](./235312-vigor-chronicles-reckoning.json) |
 | Vigor: Battle-Hardened Merc | 301570 | [301570-vigor-battle-hardened-merc.json](./301570-vigor-battle-hardened-merc.json) |
 | Vigor: The Last King Of DayZ | 301571 | [301571-vigor-the-last-king-of-dayz.json](./301571-vigor-the-last-king-of-dayz.json) |
 | Viki Spotter: Around The World | 89962 | [89962-viki-spotter-around-the-world.json](./89962-viki-spotter-around-the-world.json) |
