@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: Legends of Justice | 209634 | [209634-saint-seiya-legends-of-justice.json](./209634-saint-seiya-legends-of-justice.json) |
 | Saint Seiya: Ougon Densetsu | 48655 | [48655-saint-seiya-ougon-densetsu.json](./48655-saint-seiya-ougon-densetsu.json) |
 | Saint Seiya: Ougon Densetsu - Kanketsu-hen | 48654 | [48654-saint-seiya-ougon-densetsu-kanketsu-hen.json](./48654-saint-seiya-ougon-densetsu-kanketsu-hen.json) |
+| Saint Warner's Angels | 239768 | [239768-saint-warners-angels.json](./239768-saint-warners-angels.json) |
 | Sainte-Vibrisse | 322191 | [322191-sainte-vibrisse.json](./322191-sainte-vibrisse.json) |
 | Saintess of the Golden Bow | 327401 | [327401-saintess-of-the-golden-bow.json](./327401-saintess-of-the-golden-bow.json) |
 | Sainth | 126003 | [126003-sainth.json](./126003-sainth.json) |
@@ -1849,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Death 2: RPG Games | 323176 | [323176-shadow-of-death-2-rpg-games.json](./323176-shadow-of-death-2-rpg-games.json) |
 | Shadow of Death: Dark Knight | 100823 | [100823-shadow-of-death-dark-knight.json](./100823-shadow-of-death-dark-knight.json) |
 | Shadow of Engimor | 289443 | [289443-shadow-of-engimor.json](./289443-shadow-of-engimor.json) |
+| Shadow of Ether | 239767 | [239767-shadow-of-ether.json](./239767-shadow-of-ether.json) |
 | Shadow of Ganymede | 43337 | [43337-shadow-of-ganymede.json](./43337-shadow-of-ganymede.json) |
 | Shadow of Light | 337686 | [337686-shadow-of-light.json](./337686-shadow-of-light.json) |
 | Shadow of Mammon | 258453 | [258453-shadow-of-mammon.json](./258453-shadow-of-mammon.json) |
@@ -5933,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellchanted 2D Hidden Object Puzzle Adveture Tile-Matching | 321548 | [321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json](./321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
 | Spellfast | 70393 | [70393-spellfast.json](./70393-spellfast.json) |
+| Spellfire Odyssey | 239764 | [239764-spellfire-odyssey.json](./239764-spellfire-odyssey.json) |
 | SpellForce 2: Faith in Destiny - Scenario 1: Flink's Secret Diary | 144284 | [144284-spellforce-2-faith-in-destiny-scenario-1-flinks-secret-diary.json](./144284-spellforce-2-faith-in-destiny-scenario-1-flinks-secret-diary.json) |
 | SpellForce 2: Faith in Destiny - Scenario 2: The Golden Fool | 144286 | [144286-spellforce-2-faith-in-destiny-scenario-2-the-golden-fool.json](./144286-spellforce-2-faith-in-destiny-scenario-2-the-golden-fool.json) |
 | SpellForce 2: Faith in Destiny - Scenario 3: The Last Stand | 144287 | [144287-spellforce-2-faith-in-destiny-scenario-3-the-last-stand.json](./144287-spellforce-2-faith-in-destiny-scenario-3-the-last-stand.json) |
@@ -6536,6 +6539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staffer Case: A Supernatural Mystery Adventure | 215713 | [215713-staffer-case-a-supernatural-mystery-adventure.json](./215713-staffer-case-a-supernatural-mystery-adventure.json) |
 | Stage Break Idle | 369549 | [369549-stage-break-idle.json](./369549-stage-break-idle.json) |
 | Stage Presence | 34744 | [34744-stage-presence.json](./34744-stage-presence.json) |
+| Stagehand Survival Simulator | 239733 | [239733-stagehand-survival-simulator.json](./239733-stagehand-survival-simulator.json) |
 | Stagehand: A Reverse Platformer | 97306 | [97306-stagehand-a-reverse-platformer.json](./97306-stagehand-a-reverse-platformer.json) |
 | Stages of Life | 250397 | [250397-stages-of-life.json](./250397-stages-of-life.json) |
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
@@ -7297,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Echoes: Ultimate Challenge | 263749 | [263749-stellar-echoes-ultimate-challenge.json](./263749-stellar-echoes-ultimate-challenge.json) |
 | Stellar Freight: Echoes of the Void | 353977 | [353977-stellar-freight-echoes-of-the-void.json](./353977-stellar-freight-echoes-of-the-void.json) |
 | Stellar Initiative | 261784 | [261784-stellar-initiative.json](./261784-stellar-initiative.json) |
+| Stellar Insurgency | 239760 | [239760-stellar-insurgency.json](./239760-stellar-insurgency.json) |
 | Stellar Interface: Stellar Spacecrafts | 243229 | [243229-stellar-interface-stellar-spacecrafts.json](./243229-stellar-interface-stellar-spacecrafts.json) |
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
 | Stellar Monarch: The Age of Technology | 171028 | [171028-stellar-monarch-the-age-of-technology.json](./171028-stellar-monarch-the-age-of-technology.json) |
@@ -9123,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Screepy Underworld | 25740 | [25740-super-screepy-underworld.json](./25740-super-screepy-underworld.json) |
 | Super Sea Serpent Simulator | 176965 | [176965-super-sea-serpent-simulator.json](./176965-super-sea-serpent-simulator.json) |
 | Super Seals Float | 149594 | [149594-super-seals-float.json](./149594-super-seals-float.json) |
+| Super Sean 007 | 239736 | [239736-super-sean-007.json](./239736-super-sean-007.json) |
 | Super Seducer 2 | 103232 | [103232-super-seducer-2.json](./103232-super-seducer-2.json) |
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
 | Super Shadow Dudes | 180186 | [180186-super-shadow-dudes.json](./180186-super-shadow-dudes.json) |
