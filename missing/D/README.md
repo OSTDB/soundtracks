@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive Xtreme 3 Fortune: Collector's Edition | 166233 | [166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json](./166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json) |
 | Dead or Alive Xtreme: Venus Vacation | 68297 | [68297-dead-or-alive-xtreme-venus-vacation.json](./68297-dead-or-alive-xtreme-venus-vacation.json) |
 | Dead or Alive: Dimensions | 1396 | [1396-dead-or-alive-dimensions.json](./1396-dead-or-alive-dimensions.json) |
+| Dead Petals Bliss | 258547 | [258547-dead-petals-bliss.json](./258547-dead-petals-bliss.json) |
 | Dead Pixels | 346658 | [346658-dead-pixels.json](./346658-dead-pixels.json) |
 | Dead Pixels | 5448 | [5448-dead-pixels.json](./5448-dead-pixels.json) |
 | Dead Raid | 140516 | [140516-dead-raid.json](./140516-dead-raid.json) |
@@ -4851,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duterra | 213018 | [213018-duterra.json](./213018-duterra.json) |
 | Duty Calls | 80555 | [80555-duty-calls.json](./80555-duty-calls.json) |
 | Duty Free Shop Simulator | 373099 | [373099-duty-free-shop-simulator.json](./373099-duty-free-shop-simulator.json) |
+| Dvalloc | 258533 | [258533-dvalloc.json](./258533-dvalloc.json) |
 | DVD Screensaver Simulator Rebirth Reimagined Definitive Reloaded Special Intergrade Ultimate HD Legacy Collection Remastered (2027 Edition) | 408785 | [408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json](./408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json) |
 | Dwango5 | 143038 | [143038-dwango5.json](./143038-dwango5.json) |
 | Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
