@@ -1885,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
 | Shadowcaster | 268461 | [268461-shadowcaster.json](./268461-shadowcaster.json) |
 | Shadowcrawl | 80971 | [80971-shadowcrawl.json](./80971-shadowcrawl.json) |
+| Shadowfall | 250990 | [250990-shadowfall.json](./250990-shadowfall.json) |
 | Shadowfax | 77333 | [77333-shadowfax.json](./77333-shadowfax.json) |
 | Shadowgate 2 | 291480 | [291480-shadowgate-2.json](./291480-shadowgate-2.json) |
 | Shadowgate Classic | 8699 | [8699-shadowgate-classic.json](./8699-shadowgate-classic.json) |
@@ -3513,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash'EM Extended | 351135 | [351135-slashem-extended.json](./351135-slashem-extended.json) |
 | Slash/Jump | 313317 | [313317-slash-jump.json](./313317-slash-jump.json) |
 | Slashboy | 333393 | [333393-slashboy.json](./333393-slashboy.json) |
+| Slasher | 251048 | [251048-slasher.json](./251048-slasher.json) |
 | Slasher | 352843 | [352843-slasher.json](./352843-slasher.json) |
 | Slasher Lock | 184593 | [184593-slasher-lock.json](./184593-slasher-lock.json) |
 | Slashing Night | 340365 | [340365-slashing-night.json](./340365-slashing-night.json) |
@@ -8385,6 +8387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Castlevania IV | 1124 | [1124-super-castlevania-iv.json](./1124-super-castlevania-iv.json) |
 | Super Cat Herding: Totally Awesome Edition | 33084 | [33084-super-cat-herding-totally-awesome-edition.json](./33084-super-cat-herding-totally-awesome-edition.json) |
 | Super Cat Tales | 96155 | [96155-super-cat-tales.json](./96155-super-cat-tales.json) |
+| Super Cat Tales: Paws | 250999 | [250999-super-cat-tales-paws.json](./250999-super-cat-tales-paws.json) |
 | Super Cats | 111058 | [111058-super-cats.json](./111058-super-cats.json) |
 | Super Catscape | 116308 | [116308-super-catscape.json](./116308-super-catscape.json) |
 | Super Cauldron | 39028 | [39028-super-cauldron.json](./39028-super-cauldron.json) |
@@ -8652,6 +8655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lode Runner | 41320 | [41320-super-lode-runner.json](./41320-super-lode-runner.json) |
 | Super Lode Runner II | 48676 | [48676-super-lode-runner-ii.json](./48676-super-lode-runner-ii.json) |
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
+| Super Long Boy | 251022 | [251022-super-long-boy.json](./251022-super-long-boy.json) |
 | Super Luigi Bros. | 198471 | [198471-super-luigi-bros.json](./198471-super-luigi-bros.json) |
 | Super Luigi Odyssey | 282683 | [282683-super-luigi-odyssey.json](./282683-super-luigi-odyssey.json) |
 | Super Luigi Trick or Treat | 314278 | [314278-super-luigi-trick-or-treat.json](./314278-super-luigi-trick-or-treat.json) |
