@@ -3056,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idle | 290006 | [290006-the-idle.json](./290006-the-idle.json) |
 | The Idolmaster: Gravure for You! Vol. 8 | 79352 | [79352-the-idolmaster-gravure-for-you-vol-8.json](./79352-the-idolmaster-gravure-for-you-vol-8.json) |
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
+| The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
 | The Idolmaster: Shiny Colors - With Open() | 413755 | [413755-the-idolmaster-shiny-colors-with-open.json](./413755-the-idolmaster-shiny-colors-with-open.json) |
 | The Ignition Factor | 42607 | [42607-the-ignition-factor.json](./42607-the-ignition-factor.json) |
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
@@ -5306,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch and the Hundred Knight 2 | 24909 | [24909-the-witch-and-the-hundred-knight-2.json](./24909-the-witch-and-the-hundred-knight-2.json) |
 | The Witch and the Lost Babies | 389585 | [389585-the-witch-and-the-lost-babies.json](./389585-the-witch-and-the-lost-babies.json) |
 | The Witch In The Woods | 253355 | [253355-the-witch-in-the-woods.json](./253355-the-witch-in-the-woods.json) |
+| The Witch of Sherdorne Forest | 248112 | [248112-the-witch-of-sherdorne-forest.json](./248112-the-witch-of-sherdorne-forest.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
 | The Witch's Cookbook | 257995 | [257995-the-witchs-cookbook.json](./257995-the-witchs-cookbook.json) |
 | The Witch's Fairy Tale | 318428 | [318428-the-witchs-fairy-tale.json](./318428-the-witchs-fairy-tale.json) |
