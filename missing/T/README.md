@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Of Robbers | 117773 | [117773-team-of-robbers.json](./117773-team-of-robbers.json) |
 | Team of Titans | 302376 | [302376-team-of-titans.json](./302376-team-of-titans.json) |
 | Team Rise | 258219 | [258219-team-rise.json](./258219-team-rise.json) |
+| Team Slay-Bells | 279727 | [279727-team-slay-bells.json](./279727-team-slay-bells.json) |
 | Team Sonic Racing | 103018 | [103018-team-sonic-racing.json](./103018-team-sonic-racing.json) |
 | Team Umizoomi | 47958 | [47958-team-umizoomi.json](./47958-team-umizoomi.json) |
 | Team Xtreme: Operation Weather Disaster | 70983 | [70983-team-xtreme-operation-weather-disaster.json](./70983-team-xtreme-operation-weather-disaster.json) |
@@ -1211,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Toilet Simulator | 352299 | [352299-terminal-toilet-simulator.json](./352299-terminal-toilet-simulator.json) |
 | Terminal V | 273403 | [273403-terminal-v.json](./273403-terminal-v.json) |
 | Terminal Velocity | 11629 | [11629-terminal-velocity.json](./11629-terminal-velocity.json) |
+| Terminal Voltage | 279775 | [279775-terminal-voltage.json](./279775-terminal-voltage.json) |
 | Terminal VR | 127362 | [127362-terminal-vr.json](./127362-terminal-vr.json) |
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
 | Terminator | 208419 | [208419-terminator.json](./208419-terminator.json) |
@@ -3245,6 +3247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Complete | 340213 | [340213-the-last-of-us-complete.json](./340213-the-last-of-us-complete.json) |
 | The Last of Us Complete: Collector's Edition | 340226 | [340226-the-last-of-us-complete-collectors-edition.json](./340226-the-last-of-us-complete-collectors-edition.json) |
 | The Last of Us Online | 386719 | [386719-the-last-of-us-online.json](./386719-the-last-of-us-online.json) |
+| The Last of Us Part II Remastered: W.L.F. Edition | 279776 | [279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json](./279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json) |
 | The Last of Us Remastered: Day 1 Edition | 89931 | [89931-the-last-of-us-remastered-day-1-edition.json](./89931-the-last-of-us-remastered-day-1-edition.json) |
 | The Last of Us: Between The Years | 305372 | [305372-the-last-of-us-between-the-years.json](./305372-the-last-of-us-between-the-years.json) |
 | The Last One and Then Another | 318206 | [318206-the-last-one-and-then-another.json](./318206-the-last-one-and-then-another.json) |
@@ -6765,6 +6768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Project 8 Mobile | 197321 | [197321-tony-hawks-project-8-mobile.json](./197321-tony-hawks-project-8-mobile.json) |
 | Tony Hawk's Proving Ground | 364482 | [364482-tony-hawks-proving-ground.json](./364482-tony-hawks-proving-ground.json) |
 | Tony Hawk's Skate Jam | 112920 | [112920-tony-hawks-skate-jam.json](./112920-tony-hawks-skate-jam.json) |
+| Tony Hawk's Sonic McOrigins Plus Christmas | 279726 | [279726-tony-hawks-sonic-mcorigins-plus-christmas.json](./279726-tony-hawks-sonic-mcorigins-plus-christmas.json) |
 | Tony Hawk's Underground | 2698 | [2698-tony-hawks-underground.json](./2698-tony-hawks-underground.json) |
 | Tony La Russa Baseball '95 | 95378 | [95378-tony-la-russa-baseball-95.json](./95378-tony-la-russa-baseball-95.json) |
 | Tony La Russa Baseball 2 | 95465 | [95465-tony-la-russa-baseball-2.json](./95465-tony-la-russa-baseball-2.json) |
