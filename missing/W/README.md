@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderers' Outpost | 406687 | [406687-wanderers-outpost.json](./406687-wanderers-outpost.json) |
 | WanderersTip | 352219 | [352219-wandererstip.json](./352219-wandererstip.json) |
 | Wanderfar | 158716 | [158716-wanderfar.json](./158716-wanderfar.json) |
+| Wandering | 242077 | [242077-wandering.json](./242077-wandering.json) |
 | Wandering Dreams of Yuri | 339131 | [339131-wandering-dreams-of-yuri.json](./339131-wandering-dreams-of-yuri.json) |
 | Wandering Duelist | 215670 | [215670-wandering-duelist.json](./215670-wandering-duelist.json) |
 | Wandering Maung | 381682 | [381682-wandering-maung.json](./381682-wandering-maung.json) |
@@ -570,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warship | 377150 | [377150-warship.json](./377150-warship.json) |
 | Warship Battle Commander | 356715 | [356715-warship-battle-commander.json](./356715-warship-battle-commander.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
+| Warspace | 242065 | [242065-warspace.json](./242065-warspace.json) |
 | Warspace 2 | 158652 | [158652-warspace-2.json](./158652-warspace-2.json) |
 | Warspear Online | 87077 | [87077-warspear-online.json](./87077-warspear-online.json) |
 | WarSphere | 253459 | [253459-warsphere.json](./253459-warsphere.json) |
