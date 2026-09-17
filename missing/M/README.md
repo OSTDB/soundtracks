@@ -3847,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Garden | 186269 | [186269-money-garden.json](./186269-money-garden.json) |
 | Money Laundering Simulator | 358344 | [358344-money-laundering-simulator.json](./358344-money-laundering-simulator.json) |
 | Money Loves Silence | 126608 | [126608-money-loves-silence.json](./126608-money-loves-silence.json) |
+| Money Mouse in Full Barn House | 281535 | [281535-money-mouse-in-full-barn-house.json](./281535-money-mouse-in-full-barn-house.json) |
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
