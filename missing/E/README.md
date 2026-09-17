@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eerie Excavation | 301847 | [301847-eerie-excavation.json](./301847-eerie-excavation.json) |
 | Eerie Worlds | 351704 | [351704-eerie-worlds.json](./351704-eerie-worlds.json) |
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
+| Eexy Life: East End X Yuri | 252198 | [252198-eexy-life-east-end-x-yuri.json](./252198-eexy-life-east-end-x-yuri.json) |
 | EF-12: Fighting Game Maker | 57074 | [57074-ef-12-fighting-game-maker.json](./57074-ef-12-fighting-game-maker.json) |
 | Effacer: Hangman from the 25th Century | 45932 | [45932-effacer-hangman-from-the-25th-century.json](./45932-effacer-hangman-from-the-25th-century.json) |
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
@@ -1851,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Cucumber | 169374 | [169374-evil-cucumber.json](./169374-evil-cucumber.json) |
 | Evil Dead: The Game | 66308 | [66308-evil-dead-the-game.json](./66308-evil-dead-the-game.json) |
 | Evil Dead: The Game - Game of the Year Edition | 244790 | [244790-evil-dead-the-game-game-of-the-year-edition.json](./244790-evil-dead-the-game-game-of-the-year-edition.json) |
+| Evil Dead: The Game - Who's Your Daddy Bundle | 252206 | [252206-evil-dead-the-game-whos-your-daddy-bundle.json](./252206-evil-dead-the-game-whos-your-daddy-bundle.json) |
 | Evil Defenders | 25093 | [25093-evil-defenders.json](./25093-evil-defenders.json) |
 | Evil Dungeon | 285579 | [285579-evil-dungeon.json](./285579-evil-dungeon.json) |
 | Evil Dungeon II | 285580 | [285580-evil-dungeon-ii.json](./285580-evil-dungeon-ii.json) |
@@ -1961,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exceed Gear | 298676 | [298676-exceed-gear.json](./298676-exceed-gear.json) |
 | eXceed Gun Bullet Children | 9290 | [9290-exceed-gun-bullet-children.json](./9290-exceed-gun-bullet-children.json) |
 | Exception; | 129166 | [129166-exception.json](./129166-exception.json) |
+| Exchange Student | 252247 | [252247-exchange-student.json](./252247-exchange-student.json) |
 | Excised | 260223 | [260223-excised.json](./260223-excised.json) |
 | Excitebike | 4600 | [4600-excitebike.json](./4600-excitebike.json) |
 | Excitebike-e | 169997 | [169997-excitebike-e.json](./169997-excitebike-e.json) |
