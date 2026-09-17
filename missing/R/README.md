@@ -3009,6 +3009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
 | Rosario + Vampire | 331991 | [331991-rosario-vampire.json](./331991-rosario-vampire.json) |
 | Rosas are Red | 280777 | [280777-rosas-are-red.json](./280777-rosas-are-red.json) |
+| Rose | 236374 | [236374-rose.json](./236374-rose.json) |
 | Rose | 275122 | [275122-rose.json](./275122-rose.json) |
 | Rose & Camellia | 58842 | [58842-rose-and-camellia.json](./58842-rose-and-camellia.json) |
 | Rose & Camellia 2 | 317596 | [317596-rose-and-camellia-2.json](./317596-rose-and-camellia-2.json) |
