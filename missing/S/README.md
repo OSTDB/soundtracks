@@ -1832,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Devil | 291048 | [291048-shadow-of-the-devil.json](./291048-shadow-of-the-devil.json) |
 | Shadow of The Forgotten | 336006 | [336006-shadow-of-the-forgotten.json](./336006-shadow-of-the-forgotten.json) |
 | Shadow of the Game | 54355 | [54355-shadow-of-the-game.json](./54355-shadow-of-the-game.json) |
+| Shadow of the Night: Monsters | 256339 | [256339-shadow-of-the-night-monsters.json](./256339-shadow-of-the-night-monsters.json) |
 | Shadow of the Ninja Reborn: Deluxe Edition | 317229 | [317229-shadow-of-the-ninja-reborn-deluxe-edition.json](./317229-shadow-of-the-ninja-reborn-deluxe-edition.json) |
 | Shadow of the Road | 124209 | [124209-shadow-of-the-road.json](./124209-shadow-of-the-road.json) |
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
@@ -3391,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Taxi 3: The Movie | 54369 | [54369-sky-taxi-3-the-movie.json](./54369-sky-taxi-3-the-movie.json) |
 | Sky Taxi 4: Top Secret | 54371 | [54371-sky-taxi-4-top-secret.json](./54371-sky-taxi-4-top-secret.json) |
 | Sky Taxi: GMO Armageddon | 54370 | [54370-sky-taxi-gmo-armageddon.json](./54370-sky-taxi-gmo-armageddon.json) |
+| Sky the Scraper | 256338 | [256338-sky-the-scraper.json](./256338-sky-the-scraper.json) |
 | Sky Track | 54372 | [54372-sky-track.json](./54372-sky-track.json) |
 | Sky Trader | 29789 | [29789-sky-trader.json](./29789-sky-trader.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
@@ -7540,6 +7542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
+| Stray Beasts | 256324 | [256324-stray-beasts.json](./256324-stray-beasts.json) |
 | Stray Blade: Valley of Strays | 276825 | [276825-stray-blade-valley-of-strays.json](./276825-stray-blade-valley-of-strays.json) |
 | Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
