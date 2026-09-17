@@ -2232,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biota | 151161 | [151161-biota.json](./151161-biota.json) |
 | Biotech Samurai | 161385 | [161385-biotech-samurai.json](./161385-biotech-samurai.json) |
 | Biotomata | 381685 | [381685-biotomata.json](./381685-biotomata.json) |
+| Biotopia | 258039 | [258039-biotopia.json](./258039-biotopia.json) |
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
 | Biped 2 | 298613 | [298613-biped-2.json](./298613-biped-2.json) |
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
