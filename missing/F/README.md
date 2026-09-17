@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FightGirl | 310025 | [310025-fightgirl.json](./310025-fightgirl.json) |
 | Fightin' Spirit | 12096 | [12096-fightin-spirit.json](./12096-fightin-spirit.json) |
 | Fightin' Words | 297074 | [297074-fightin-words.json](./297074-fightin-words.json) |
+| Fighting | 280316 | [280316-fighting.json](./280316-fighting.json) |
 | Fighting Box | 68657 | [68657-fighting-box.json](./68657-fighting-box.json) |
 | Fighting breakthrough | 287779 | [287779-fighting-breakthrough.json](./287779-fighting-breakthrough.json) |
 | Fighting Clans | 130224 | [130224-fighting-clans.json](./130224-fighting-clans.json) |
@@ -1326,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
 | Final Notice | 351112 | [351112-final-notice.json](./351112-final-notice.json) |
 | Final Odyssey | 378173 | [378173-final-odyssey.json](./378173-final-odyssey.json) |
+| Final Paradox | 280351 | [280351-final-paradox.json](./280351-final-paradox.json) |
 | Final Quest | 31732 | [31732-final-quest.json](./31732-final-quest.json) |
 | Final Redoubt: Zombie Apocalypse | 329590 | [329590-final-redoubt-zombie-apocalypse.json](./329590-final-redoubt-zombie-apocalypse.json) |
 | Final Round | 398954 | [398954-final-round.json](./398954-final-round.json) |
