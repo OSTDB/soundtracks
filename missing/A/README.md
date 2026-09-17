@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sirius Game | 34694 | [34694-a-sirius-game.json](./34694-a-sirius-game.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Slower Speed of Light | 18122 | [18122-a-slower-speed-of-light.json](./18122-a-slower-speed-of-light.json) |
+| A Slug's Dream | 238589 | [238589-a-slugs-dream.json](./238589-a-slugs-dream.json) |
 | A Smoker's Story | 312731 | [312731-a-smokers-story.json](./312731-a-smokers-story.json) |
 | A Snake's Tale | 43140 | [43140-a-snakes-tale.json](./43140-a-snakes-tale.json) |
 | A Soldier's Struggle | 385712 | [385712-a-soldiers-struggle.json](./385712-a-soldiers-struggle.json) |
@@ -1033,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albert | 185094 | [185094-albert.json](./185094-albert.json) |
 | Albert and Otto: The Adventure Begins | 13223 | [13223-albert-and-otto-the-adventure-begins.json](./13223-albert-and-otto-the-adventure-begins.json) |
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
+| Albino Lullaby: Episode 3 | 238615 | [238615-albino-lullaby-episode-3.json](./238615-albino-lullaby-episode-3.json) |
 | Alborada | 266322 | [266322-alborada.json](./266322-alborada.json) |
 | Alcatraz | 288748 | [288748-alcatraz.json](./288748-alcatraz.json) |
 | Alcatraz: VR Escape Room | 29938 | [29938-alcatraz-vr-escape-room.json](./29938-alcatraz-vr-escape-room.json) |
@@ -2227,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animentals | 387361 | [387361-animentals.json](./387361-animentals.json) |
 | Animetic Story Game 1: Cardcaptor Sakura | 132867 | [132867-animetic-story-game-1-cardcaptor-sakura.json](./132867-animetic-story-game-1-cardcaptor-sakura.json) |
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
+| AnimuJump | 238628 | [238628-animujump.json](./238628-animujump.json) |
 | Aniquilation | 132152 | [132152-aniquilation.json](./132152-aniquilation.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
 | Anjail! | 407307 | [407307-anjail.json](./407307-anjail.json) |
@@ -3165,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armalyte: The Final Run | 14266 | [14266-armalyte-the-final-run.json](./14266-armalyte-the-final-run.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
+| Armechgeddon | 238623 | [238623-armechgeddon.json](./238623-armechgeddon.json) |
 | Armed Against the Undead | 32898 | [32898-armed-against-the-undead.json](./32898-armed-against-the-undead.json) |
 | Armed Air Forces | 193945 | [193945-armed-air-forces.json](./193945-armed-air-forces.json) |
 | Armed Air Forces | 242683 | [242683-armed-air-forces.json](./242683-armed-air-forces.json) |
@@ -3775,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
 | AstroNest | 19527 | [19527-astronest.json](./19527-astronest.json) |
 | Astronoka | 94714 | [94714-astronoka.json](./94714-astronoka.json) |
+| Astronomic Date | 238614 | [238614-astronomic-date.json](./238614-astronomic-date.json) |
 | Astronomica: The Quest for the Edge of the Universe | 71538 | [71538-astronomica-the-quest-for-the-edge-of-the-universe.json](./71538-astronomica-the-quest-for-the-edge-of-the-universe.json) |
 | Astronomicon | 321527 | [321527-astronomicon.json](./321527-astronomicon.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
