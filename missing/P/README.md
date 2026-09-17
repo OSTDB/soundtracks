@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: Fellow Traveler | 143017 | [143017-paranormal-files-fellow-traveler.json](./143017-paranormal-files-fellow-traveler.json) |
 | Paranormal Files: Ghost Chapter - Collector's Edition | 168857 | [168857-paranormal-files-ghost-chapter-collectors-edition.json](./168857-paranormal-files-ghost-chapter-collectors-edition.json) |
 | Paranormal Files: Sacrifice to Shadows - Collector's Edition | 339788 | [339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json](./339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json) |
+| Paranormal Files: Trials of Worth - Collector's Edition | 272950 | [272950-paranormal-files-trials-of-worth-collectors-edition.json](./272950-paranormal-files-trials-of-worth-collectors-edition.json) |
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
 | Paranormal Night Shift | 328009 | [328009-paranormal-night-shift.json](./328009-paranormal-night-shift.json) |
 | Paranormal Place | 304660 | [304660-paranormal-place.json](./304660-paranormal-place.json) |
@@ -3665,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Evangile W Happiness | 140525 | [140525-princess-evangile-w-happiness.json](./140525-princess-evangile-w-happiness.json) |
 | Princess Evangile W Happiness | 43360 | [43360-princess-evangile-w-happiness.json](./43360-princess-evangile-w-happiness.json) |
 | Princess Isabella | 36318 | [36318-princess-isabella.json](./36318-princess-isabella.json) |
+| Princess Knight's Mission: Anna's Marvelous Adventures | 272946 | [272946-princess-knights-mission-annas-marvelous-adventures.json](./272946-princess-knights-mission-annas-marvelous-adventures.json) |
 | Princess Lili | 107881 | [107881-princess-lili.json](./107881-princess-lili.json) |
 | Princess Lover! | 387346 | [387346-princess-lover.json](./387346-princess-lover.json) |
 | Princess Maker 2 Regeneration | 261795 | [261795-princess-maker-2-regeneration.json](./261795-princess-maker-2-regeneration.json) |
@@ -3926,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Arena | 197374 | [197374-project-arena.json](./197374-project-arena.json) |
 | Project Atlas | 142385 | [142385-project-atlas.json](./142385-project-atlas.json) |
 | Project Atlas | 387321 | [387321-project-atlas.json](./387321-project-atlas.json) |
+| Project Atno | 272947 | [272947-project-atno.json](./272947-project-atno.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
 | Project Backrooms | 236529 | [236529-project-backrooms.json](./236529-project-backrooms.json) |
 | Project Battlefield | 342655 | [342655-project-battlefield.json](./342655-project-battlefield.json) |
@@ -4035,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project One | 118347 | [118347-project-one.json](./118347-project-one.json) |
 | Project Onne | 400283 | [400283-project-onne.json](./400283-project-onne.json) |
 | Project Overkill | 20804 | [20804-project-overkill.json](./20804-project-overkill.json) |
+| Project Overnet | 272949 | [272949-project-overnet.json](./272949-project-overnet.json) |
 | Project P.I.T.T. | 379356 | [379356-project-p-i-t-t.json](./379356-project-p-i-t-t.json) |
 | Project Paradise 2 | 326978 | [326978-project-paradise-2.json](./326978-project-paradise-2.json) |
 | Project Parasite | 255379 | [255379-project-parasite.json](./255379-project-parasite.json) |
@@ -4258,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PS!Outertale | 313279 | [313279-ps-outertale.json](./313279-ps-outertale.json) |
 | Psalm VR | 343853 | [343853-psalm-vr.json](./343853-psalm-vr.json) |
 | Psebay | 43063 | [43063-psebay.json](./43063-psebay.json) |
+| Pseudo-Haunting | 272948 | [272948-pseudo-haunting.json](./272948-pseudo-haunting.json) |
 | Pseudoku | 337638 | [337638-pseudoku.json](./337638-pseudoku.json) |
 | Psi Chess | 58251 | [58251-psi-chess.json](./58251-psi-chess.json) |
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
