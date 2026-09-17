@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 2 | 356087 | [356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json](./356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json) |
 | Taiko no Tatsujin: Rhythm Festival - Vocaloid Songs Collection | 356197 | [356197-taiko-no-tatsujin-rhythm-festival-vocaloid-songs-collection.json](./356197-taiko-no-tatsujin-rhythm-festival-vocaloid-songs-collection.json) |
 | Taiko no Tatsujin: The Drum Master! | 188551 | [188551-taiko-no-tatsujin-the-drum-master.json](./188551-taiko-no-tatsujin-the-drum-master.json) |
+| Taiko no Tatsujin: The Drum Master! - One Piece Anime Songs Pack | 257467 | [257467-taiko-no-tatsujin-the-drum-master-one-piece-anime-songs-pack.json](./257467-taiko-no-tatsujin-the-drum-master-one-piece-anime-songs-pack.json) |
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack | 358952 | [358952-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack.json](./358952-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack.json) |
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack Vol. 2 | 358953 | [358953-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-2.json](./358953-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-2.json) |
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack Vol. 3 | 358954 | [358954-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-3.json](./358954-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-3.json) |
@@ -4876,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower 2 | 120952 | [120952-the-tower-2.json](./120952-the-tower-2.json) |
 | The Tower of Eden | 346153 | [346153-the-tower-of-eden.json](./346153-the-tower-of-eden.json) |
 | The Tower of Shadows | 347232 | [347232-the-tower-of-shadows.json](./347232-the-tower-of-shadows.json) |
+| The Tower of the Spells | 257456 | [257456-the-tower-of-the-spells.json](./257456-the-tower-of-the-spells.json) |
 | The Tower of TigerQiuQiu 2: 1942-J20 | 157690 | [157690-the-tower-of-tigerqiuqiu-2-1942-j20.json](./157690-the-tower-of-tigerqiuqiu-2-1942-j20.json) |
 | The Tower of TigerQiuQiu 2: 1952 M0 | 173714 | [173714-the-tower-of-tigerqiuqiu-2-1952-m0.json](./173714-the-tower-of-tigerqiuqiu-2-1952-m0.json) |
 | The Tower of TigerQiuQiu 2: 1952 M1 | 173734 | [173734-the-tower-of-tigerqiuqiu-2-1952-m1.json](./173734-the-tower-of-tigerqiuqiu-2-1952-m1.json) |
@@ -5657,6 +5659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
 | Throw Me in the River | 149600 | [149600-throw-me-in-the-river.json](./149600-throw-me-in-the-river.json) |
+| Throw Me To My Planet | 257443 | [257443-throw-me-to-my-planet.json](./257443-throw-me-to-my-planet.json) |
 | Thrower Defense | 415898 | [415898-thrower-defense.json](./415898-thrower-defense.json) |
 | Thrunt! | 134682 | [134682-thrunt.json](./134682-thrunt.json) |
 | Thrushbriar Hall | 111031 | [111031-thrushbriar-hall.json](./111031-thrushbriar-hall.json) |
@@ -7361,6 +7364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower War: Tactical Conquest | 245333 | [245333-tower-war-tactical-conquest.json](./245333-tower-war-tactical-conquest.json) |
 | Tower! Simulator 3: EDDF Airport | 353327 | [353327-tower-simulator-3-eddf-airport.json](./353327-tower-simulator-3-eddf-airport.json) |
 | Tower! Simulator 3: EDDM Airport | 353313 | [353313-tower-simulator-3-eddm-airport.json](./353313-tower-simulator-3-eddm-airport.json) |
+| Tower! Simulator 3: EGLL Airport | 257454 | [257454-tower-simulator-3-egll-airport.json](./257454-tower-simulator-3-egll-airport.json) |
 | Tower! Simulator 3: EHAM Airport | 353331 | [353331-tower-simulator-3-eham-airport.json](./353331-tower-simulator-3-eham-airport.json) |
 | Tower! Simulator 3: EKCH Airport | 288906 | [288906-tower-simulator-3-ekch-airport.json](./288906-tower-simulator-3-ekch-airport.json) |
 | Tower! Simulator 3: KATL Airport | 353330 | [353330-tower-simulator-3-katl-airport.json](./353330-tower-simulator-3-katl-airport.json) |
@@ -8115,6 +8119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island | 25782 | [25782-treasure-island.json](./25782-treasure-island.json) |
 | Treasure Island 2 | 257411 | [257411-treasure-island-2.json](./257411-treasure-island-2.json) |
 | Treasure Island Arcade | 131519 | [131519-treasure-island-arcade.json](./131519-treasure-island-arcade.json) |
+| Treasure Island: The Golden Bug - Extended Edition | 257475 | [257475-treasure-island-the-golden-bug-extended-edition.json](./257475-treasure-island-the-golden-bug-extended-edition.json) |
 | Treasure of Barracuda | 165695 | [165695-treasure-of-barracuda.json](./165695-treasure-of-barracuda.json) |
 | Treasure of Big Totem | 315258 | [315258-treasure-of-big-totem.json](./315258-treasure-of-big-totem.json) |
 | Treasure of Big Totem 2 | 315259 | [315259-treasure-of-big-totem-2.json](./315259-treasure-of-big-totem-2.json) |
