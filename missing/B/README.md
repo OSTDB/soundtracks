@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Begins: Batmobile | 245555 | [245555-batman-begins-batmobile.json](./245555-batman-begins-batmobile.json) |
 | Batman Begins: Fast Pursuit | 245554 | [245554-batman-begins-fast-pursuit.json](./245554-batman-begins-fast-pursuit.json) |
 | Batman Begins: Fear the Bat | 245553 | [245553-batman-begins-fear-the-bat.json](./245553-batman-begins-fear-the-bat.json) |
+| Batman Beyond: Return of the Joker | 248765 | [248765-batman-beyond-return-of-the-joker.json](./248765-batman-beyond-return-of-the-joker.json) |
 | Batman Doom | 138788 | [138788-batman-doom.json](./138788-batman-doom.json) |
 | Batman Forever | 20809 | [20809-batman-forever.json](./20809-batman-forever.json) |
 | Batman Returns | 200153 | [200153-batman-returns.json](./200153-batman-returns.json) |
@@ -2703,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleed | 9706 | [9706-bleed.json](./9706-bleed.json) |
 | Bleed: Deluxe Edition | 118954 | [118954-bleed-deluxe-edition.json](./118954-bleed-deluxe-edition.json) |
 | Bleeding Border | 34250 | [34250-bleeding-border.json](./34250-bleeding-border.json) |
+| Bleeding Canvas | 248729 | [248729-bleeding-canvas.json](./248729-bleeding-canvas.json) |
 | Bleeding Kansas | 51939 | [51939-bleeding-kansas.json](./51939-bleeding-kansas.json) |
 | Bleemcast! for Metal Gear Solid | 315682 | [315682-bleemcast-for-metal-gear-solid.json](./315682-bleemcast-for-metal-gear-solid.json) |
 | Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
