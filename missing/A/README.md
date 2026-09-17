@@ -1616,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
 | American Truck Simulator 2022 | 197844 | [197844-american-truck-simulator-2022.json](./197844-american-truck-simulator-2022.json) |
 | American Truck Simulator: Christmas Paint Jobs Pack | 353403 | [353403-american-truck-simulator-christmas-paint-jobs-pack.json](./353403-american-truck-simulator-christmas-paint-jobs-pack.json) |
+| American Truck Simulator: Farm Machinery | 278555 | [278555-american-truck-simulator-farm-machinery.json](./278555-american-truck-simulator-farm-machinery.json) |
 | American Truck Simulator: Freightliner Cascadia (The Fifth Generation) | 353410 | [353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json](./353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json) |
 | American Truck Simulator: Goodyear Tires Pack | 223687 | [223687-american-truck-simulator-goodyear-tires-pack.json](./223687-american-truck-simulator-goodyear-tires-pack.json) |
 | American Truck Simulator: Halloween Paint Jobs Pack | 353401 | [353401-american-truck-simulator-halloween-paint-jobs-pack.json](./353401-american-truck-simulator-halloween-paint-jobs-pack.json) |
