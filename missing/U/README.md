@@ -685,6 +685,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
 | UnMarked | 185078 | [185078-unmarked.json](./185078-unmarked.json) |
 | Unmatch | 58805 | [58805-unmatch.json](./58805-unmatch.json) |
+| Unmatched: Digital Edition - Bigfoot | 248717 | [248717-unmatched-digital-edition-bigfoot.json](./248717-unmatched-digital-edition-bigfoot.json) |
+| Unmatched: Digital Edition - Dracula | 248706 | [248706-unmatched-digital-edition-dracula.json](./248706-unmatched-digital-edition-dracula.json) |
+| Unmatched: Digital Edition - Robin Hood | 248726 | [248726-unmatched-digital-edition-robin-hood.json](./248726-unmatched-digital-edition-robin-hood.json) |
+| Unmatched: Digital Edition - Sherlock Holmes | 248716 | [248716-unmatched-digital-edition-sherlock-holmes.json](./248716-unmatched-digital-edition-sherlock-holmes.json) |
+| Unmatched: Digital Edition - Sherwood Forest | 248718 | [248718-unmatched-digital-edition-sherwood-forest.json](./248718-unmatched-digital-edition-sherwood-forest.json) |
+| Unmatched: Digital Edition - Yukon | 248715 | [248715-unmatched-digital-edition-yukon.json](./248715-unmatched-digital-edition-yukon.json) |
 | Unmaze | 159363 | [159363-unmaze.json](./159363-unmaze.json) |
 | Unmemory | 131565 | [131565-unmemory.json](./131565-unmemory.json) |
 | Unmoor | 89341 | [89341-unmoor.json](./89341-unmoor.json) |
