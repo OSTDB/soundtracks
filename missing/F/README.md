@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falldown 3D | 254497 | [254497-falldown-3d.json](./254497-falldown-3d.json) |
 | Fallen | 171594 | [171594-fallen.json](./171594-fallen.json) |
 | Fallen Angel: Hell Survival | 258185 | [258185-fallen-angel-hell-survival.json](./258185-fallen-angel-hell-survival.json) |
+| Fallen Angels | 275733 | [275733-fallen-angels.json](./275733-fallen-angels.json) |
 | Fallen Bride Mege | 215933 | [215933-fallen-bride-mege.json](./215933-fallen-bride-mege.json) |
 | Fallen Cage | 326055 | [326055-fallen-cage.json](./326055-fallen-cage.json) |
 | Fallen Cube | 48006 | [48006-fallen-cube.json](./48006-fallen-cube.json) |
@@ -355,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falnarion Tactics: Oathbreaker | 158730 | [158730-falnarion-tactics-oathbreaker.json](./158730-falnarion-tactics-oathbreaker.json) |
 | Falrika the Alchemist | 299292 | [299292-falrika-the-alchemist.json](./299292-falrika-the-alchemist.json) |
 | False Front | 97920 | [97920-false-front.json](./97920-false-front.json) |
+| False Hero | 275734 | [275734-false-hero.json](./275734-false-hero.json) |
 | False Love: Ghost or Not? | 414444 | [414444-false-love-ghost-or-not.json](./414444-false-love-ghost-or-not.json) |
 | False Positive Paradox | 401006 | [401006-false-positive-paradox.json](./401006-false-positive-paradox.json) |
 | False Shelter | 28785 | [28785-false-shelter.json](./28785-false-shelter.json) |
@@ -3265,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontiers.io: Expansion Pack 5 | 167313 | [167313-frontiers-io-expansion-pack-5.json](./167313-frontiers-io-expansion-pack-5.json) |
 | Frontiers.io: Expansion Pack 6 | 167314 | [167314-frontiers-io-expansion-pack-6.json](./167314-frontiers-io-expansion-pack-6.json) |
 | Frontiersman | 91360 | [91360-frontiersman.json](./91360-frontiersman.json) |
+| Frontline 1942 | 275732 | [275732-frontline-1942.json](./275732-frontline-1942.json) |
 | Frontline Berlin 1945 | 25003 | [25003-frontline-berlin-1945.json](./25003-frontline-berlin-1945.json) |
 | Frontline Crisis | 312168 | [312168-frontline-crisis.json](./312168-frontline-crisis.json) |
 | Frontline Defense | 234934 | [234934-frontline-defense.json](./234934-frontline-defense.json) |
