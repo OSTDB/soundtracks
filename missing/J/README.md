@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Wolf | 197899 | [197899-jade-wolf.json](./197899-jade-wolf.json) |
 | Jade Wolf 2 | 197900 | [197900-jade-wolf-2.json](./197900-jade-wolf-2.json) |
 | Jaded | 197962 | [197962-jaded.json](./197962-jaded.json) |
+| Jaded | 280912 | [280912-jaded.json](./280912-jaded.json) |
 | Jagged Alliance | 7 | [7-jagged-alliance.json](./7-jagged-alliance.json) |
 | Jagged Alliance 2 Platinum | 53252 | [53252-jagged-alliance-2-platinum.json](./53252-jagged-alliance-2-platinum.json) |
 | Jagged Alliance 2: Wildfire | 10466 | [10466-jagged-alliance-2-wildfire.json](./10466-jagged-alliance-2-wildfire.json) |
@@ -831,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpah | 254755 | [254755-jumpah.json](./254755-jumpah.json) |
 | JumpBeard | 199642 | [199642-jumpbeard.json](./199642-jumpbeard.json) |
 | Jumpbound | 365097 | [365097-jumpbound.json](./365097-jumpbound.json) |
+| Jumpcat | 280915 | [280915-jumpcat.json](./280915-jumpcat.json) |
 | Jumpcut Jigsaws | 407311 | [407311-jumpcut-jigsaws.json](./407311-jumpcut-jigsaws.json) |
 | Jumper Platform | 231944 | [231944-jumper-platform.json](./231944-jumper-platform.json) |
 | Jumper Three | 79910 | [79910-jumper-three.json](./79910-jumper-three.json) |
