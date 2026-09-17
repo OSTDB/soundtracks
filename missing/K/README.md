@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kessakusen! Ganbare Goemon 1+2: Yuki-hime to McGuiness | 82068 | [82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json](./82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json) |
 | Kessen III | 20200 | [20200-kessen-iii.json](./20200-kessen-iii.json) |
 | Kestrel | 152386 | [152386-kestrel.json](./152386-kestrel.json) |
+| Ketamina | 249848 | [249848-ketamina.json](./249848-ketamina.json) |
 | Ketchapp Summer Sports | 246960 | [246960-ketchapp-summer-sports.json](./246960-ketchapp-summer-sports.json) |
 | Kether | 45921 | [45921-kether.json](./45921-kether.json) |
 | KetnetKick | 94236 | [94236-ketnetkick.json](./94236-ketnetkick.json) |
