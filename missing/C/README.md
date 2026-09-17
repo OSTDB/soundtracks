@@ -2483,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaning Simulator: Ultimate Mess | 407359 | [407359-cleaning-simulator-ultimate-mess.json](./407359-cleaning-simulator-ultimate-mess.json) |
 | Cleaning up the Puzzle Gallery | 412359 | [412359-cleaning-up-the-puzzle-gallery.json](./412359-cleaning-up-the-puzzle-gallery.json) |
 | Cleaning Up! | 360587 | [360587-cleaning-up.json](./360587-cleaning-up.json) |
+| Cleanup Crew | 286088 | [286088-cleanup-crew.json](./286088-cleanup-crew.json) |
 | Cleanup On Aisle 3 | 414428 | [414428-cleanup-on-aisle-3.json](./414428-cleanup-on-aisle-3.json) |
 | Clear The Coast | 270692 | [270692-clear-the-coast.json](./270692-clear-the-coast.json) |
 | Clear Vision 4 | 174814 | [174814-clear-vision-4.json](./174814-clear-vision-4.json) |
@@ -4495,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Dungeon | 208017 | [208017-crossword-dungeon.json](./208017-crossword-dungeon.json) |
 | Crossword Explorer | 406089 | [406089-crossword-explorer.json](./406089-crossword-explorer.json) |
 | Crossword Go | 303106 | [303106-crossword-go.json](./303106-crossword-go.json) |
+| Crossword Puzzle | 286096 | [286096-crossword-puzzle.json](./286096-crossword-puzzle.json) |
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
@@ -4566,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III: Coronations | 352851 | [352851-crusader-kings-iii-coronations.json](./352851-crusader-kings-iii-coronations.json) |
 | Crusader Kings III: Couture of the Capets | 291080 | [291080-crusader-kings-iii-couture-of-the-capets.json](./291080-crusader-kings-iii-couture-of-the-capets.json) |
 | Crusader Kings III: Crowns of the World | 352848 | [352848-crusader-kings-iii-crowns-of-the-world.json](./352848-crusader-kings-iii-crowns-of-the-world.json) |
+| Crusader Kings III: Fashion of the Abbasid Court | 286097 | [286097-crusader-kings-iii-fashion-of-the-abbasid-court.json](./286097-crusader-kings-iii-fashion-of-the-abbasid-court.json) |
 | Crusader Kings III: Northern Lords | 164510 | [164510-crusader-kings-iii-northern-lords.json](./164510-crusader-kings-iii-northern-lords.json) |
 | Crusader Kings III: Royal Edition | 188022 | [188022-crusader-kings-iii-royal-edition.json](./188022-crusader-kings-iii-royal-edition.json) |
 | Crusader Kings III: Wandering Nobles | 352847 | [352847-crusader-kings-iii-wandering-nobles.json](./352847-crusader-kings-iii-wandering-nobles.json) |
