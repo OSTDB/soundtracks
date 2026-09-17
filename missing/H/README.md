@@ -1746,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats In Fallen Leaves Town | 311486 | [311486-hidden-cats-in-fallen-leaves-town.json](./311486-hidden-cats-in-fallen-leaves-town.json) |
 | Hidden Cats in Istanbul | 365755 | [365755-hidden-cats-in-istanbul.json](./365755-hidden-cats-in-istanbul.json) |
 | Hidden Cats In Japanese Village | 305137 | [305137-hidden-cats-in-japanese-village.json](./305137-hidden-cats-in-japanese-village.json) |
+| Hidden Cats in Santa's Realm | 279125 | [279125-hidden-cats-in-santas-realm.json](./279125-hidden-cats-in-santas-realm.json) |
 | Hidden Cats in Spooky Town | 266771 | [266771-hidden-cats-in-spooky-town.json](./266771-hidden-cats-in-spooky-town.json) |
 | Hidden Cats in Town | 244274 | [244274-hidden-cats-in-town.json](./244274-hidden-cats-in-town.json) |
 | Hidden Cats of Mayan | 340471 | [340471-hidden-cats-of-mayan.json](./340471-hidden-cats-of-mayan.json) |
