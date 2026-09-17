@@ -1007,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus Rumble: The Ultimate Showdown | 304869 | [304869-nexus-rumble-the-ultimate-showdown.json](./304869-nexus-rumble-the-ultimate-showdown.json) |
 | Nexus Station | 318997 | [318997-nexus-station.json](./318997-nexus-station.json) |
 | Nexus Travelers: Hero of Elocea | 278980 | [278980-nexus-travelers-hero-of-elocea.json](./278980-nexus-travelers-hero-of-elocea.json) |
+| Nexus War: Civilization | 259624 | [259624-nexus-war-civilization.json](./259624-nexus-war-civilization.json) |
 | Nexus: The Kingdom of the Winds | 80550 | [80550-nexus-the-kingdom-of-the-winds.json](./80550-nexus-the-kingdom-of-the-winds.json) |
 | Nexzr | 42016 | [42016-nexzr.json](./42016-nexzr.json) |
 | Neybers | 79265 | [79265-neybers.json](./79265-neybers.json) |
@@ -1114,6 +1115,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nictheroy | 154031 | [154031-nictheroy.json](./154031-nictheroy.json) |
 | Nidhogg | 5551 | [5551-nidhogg.json](./5551-nidhogg.json) |
 | Nie no Hakoniwa: Dollhouse of Offerings | 268012 | [268012-nie-no-hakoniwa-dollhouse-of-offerings.json](./268012-nie-no-hakoniwa-dollhouse-of-offerings.json) |
+| NieR Re[in]carnation: The People and the World | 259669 | [259669-nier-re-in-carnation-the-people-and-the-world.json](./259669-nier-re-in-carnation-the-people-and-the-world.json) |
+| NieR Re[in]carnation: The Sun and the Moon | 259657 | [259657-nier-re-in-carnation-the-sun-and-the-moon.json](./259657-nier-re-in-carnation-the-sun-and-the-moon.json) |
 | NieR: Automata - Black Box Edition | 144331 | [144331-nier-automata-black-box-edition.json](./144331-nier-automata-black-box-edition.json) |
 | NieR: Automata - Day One Edition | 144330 | [144330-nier-automata-day-one-edition.json](./144330-nier-automata-day-one-edition.json) |
 | NieR: Automata - Limited Edition Steelbook | 44539 | [44539-nier-automata-limited-edition-steelbook.json](./44539-nier-automata-limited-edition-steelbook.json) |
