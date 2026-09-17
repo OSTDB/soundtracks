@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Calculations | 337670 | [337670-cat-calculations.json](./337670-cat-calculations.json) |
 | Cat Capacity | 173304 | [173304-cat-capacity.json](./173304-cat-capacity.json) |
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
+| Cat City | 260227 | [260227-cat-city.json](./260227-cat-city.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Detective Albert Wilde | 191800 | [191800-cat-detective-albert-wilde.json](./191800-cat-detective-albert-wilde.json) |
 | Cat Doctor: For Loyal Servants | 396880 | [396880-cat-doctor-for-loyal-servants.json](./396880-cat-doctor-for-loyal-servants.json) |
@@ -1345,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centropods | 45355 | [45355-centropods.json](./45355-centropods.json) |
 | Centurion: Defender of Rome | 8257 | [8257-centurion-defender-of-rome.json](./8257-centurion-defender-of-rome.json) |
 | Century 0: Parasitic Tower | 216798 | [216798-century-0-parasitic-tower.json](./216798-century-0-parasitic-tower.json) |
+| Century of Steam | 260250 | [260250-century-of-steam.json](./260250-century-of-steam.json) |
 | Century: Age of Ashes | 141536 | [141536-century-age-of-ashes.json](./141536-century-age-of-ashes.json) |
 | Century: Age of Ashes - Colossus Deluxe Edition | 199636 | [199636-century-age-of-ashes-colossus-deluxe-edition.json](./199636-century-age-of-ashes-colossus-deluxe-edition.json) |
 | Century: Age of Ashes - Dragon Eggs Edition | 218495 | [218495-century-age-of-ashes-dragon-eggs-edition.json](./218495-century-age-of-ashes-dragon-eggs-edition.json) |
@@ -1501,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Wars | 21051 | [21051-chaos-wars.json](./21051-chaos-wars.json) |
 | Chaos World | 7904 | [7904-chaos-world.json](./7904-chaos-world.json) |
 | Chaos Zero Nightmare | 350249 | [350249-chaos-zero-nightmare.json](./350249-chaos-zero-nightmare.json) |
+| Chaos-Alante | 260236 | [260236-chaos-alante.json](./260236-chaos-alante.json) |
 | Chaos;Child Love Chu Chu!! | 65530 | [65530-chaos-child-love-chu-chu.json](./65530-chaos-child-love-chu-chu.json) |
 | Chaos;Head | 11392 | [11392-chaos-head.json](./11392-chaos-head.json) |
 | Chaos;Head Dual | 61551 | [61551-chaos-head-dual.json](./61551-chaos-head-dual.json) |
@@ -4907,6 +4910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
 | Cube Rampage | 134702 | [134702-cube-rampage.json](./134702-cube-rampage.json) |
 | Cube Royale | 269035 | [269035-cube-royale.json](./269035-cube-royale.json) |
+| Cube RPG | 260211 | [260211-cube-rpg.json](./260211-cube-rpg.json) |
 | Cube Runner | 30128 | [30128-cube-runner.json](./30128-cube-runner.json) |
 | Cube Rush | 112340 | [112340-cube-rush.json](./112340-cube-rush.json) |
 | Cube School | 408905 | [408905-cube-school.json](./408905-cube-school.json) |
@@ -5059,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curling World Cup | 98983 | [98983-curling-world-cup.json](./98983-curling-world-cup.json) |
 | Current | 358392 | [358392-current.json](./358392-current.json) |
 | Current: The Flow | 374713 | [374713-current-the-flow.json](./374713-current-the-flow.json) |
+| Currently Unstable | 260206 | [260206-currently-unstable.json](./260206-currently-unstable.json) |
 | Curro Jimenez | 272298 | [272298-curro-jimenez.json](./272298-curro-jimenez.json) |
 | CurryKitten FPV Simulator | 169443 | [169443-currykitten-fpv-simulator.json](./169443-currykitten-fpv-simulator.json) |
 | Curse in our heads | 103452 | [103452-curse-in-our-heads.json](./103452-curse-in-our-heads.json) |
@@ -5224,6 +5229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
 | Cyber Avenger | 267467 | [267467-cyber-avenger.json](./267467-cyber-avenger.json) |
 | Cyber Battle 69 | 131608 | [131608-cyber-battle-69.json](./131608-cyber-battle-69.json) |
+| Cyber Cell | 260230 | [260230-cyber-cell.json](./260230-cyber-cell.json) |
 | Cyber Citizen Shockman 3: The Princess From Another World | 300374 | [300374-cyber-citizen-shockman-3-the-princess-from-another-world.json](./300374-cyber-citizen-shockman-3-the-princess-from-another-world.json) |
 | Cyber Citizen Shockman Zero | 306049 | [306049-cyber-citizen-shockman-zero.json](./306049-cyber-citizen-shockman-zero.json) |
 | Cyber City | 117077 | [117077-cyber-city.json](./117077-cyber-city.json) |
