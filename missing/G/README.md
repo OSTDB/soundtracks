@@ -1583,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Oldies 1: Guardian and Invaders | 45928 | [45928-golden-oldies-1-guardian-and-invaders.json](./45928-golden-oldies-1-guardian-and-invaders.json) |
 | Golden Oldies 2: Blockbuster and Bughunt | 45927 | [45927-golden-oldies-2-blockbuster-and-bughunt.json](./45927-golden-oldies-2-blockbuster-and-bughunt.json) |
 | Golden Racing | 335958 | [335958-golden-racing.json](./335958-golden-racing.json) |
+| Golden Rails: Harvest of Riddles | 278519 | [278519-golden-rails-harvest-of-riddles.json](./278519-golden-rails-harvest-of-riddles.json) |
 | Golden Rails: Road to Klondike | 191833 | [191833-golden-rails-road-to-klondike.json](./191833-golden-rails-road-to-klondike.json) |
 | Golden Record Retriever | 234310 | [234310-golden-record-retriever.json](./234310-golden-record-retriever.json) |
 | Golden Royal Hold'em | 67974 | [67974-golden-royal-holdem.json](./67974-golden-royal-holdem.json) |
@@ -1706,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Mahjong | 88276 | [88276-good-mahjong.json](./88276-good-mahjong.json) |
 | Good Morgan Eve | 332443 | [332443-good-morgan-eve.json](./332443-good-morgan-eve.json) |
 | Good Morning | 381133 | [381133-good-morning.json](./381133-good-morning.json) |
+| Good Morning Cruel City | 278518 | [278518-good-morning-cruel-city.json](./278518-good-morning-cruel-city.json) |
 | Good Morning Is A Social Construct | 231393 | [231393-good-morning-is-a-social-construct.json](./231393-good-morning-is-a-social-construct.json) |
 | Good Morning, Radio | 203365 | [203365-good-morning-radio.json](./203365-good-morning-radio.json) |
 | Good Mourning | 148556 | [148556-good-mourning.json](./148556-good-mourning.json) |
@@ -2131,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Invasions: The Darkages 350-1066 AD | 66718 | [66718-great-invasions-the-darkages-350-1066-ad.json](./66718-great-invasions-the-darkages-350-1066-ad.json) |
 | Great Napoleonic Battles | 73267 | [73267-great-napoleonic-battles.json](./73267-great-napoleonic-battles.json) |
 | Great Naval Battles Vol. II: Guadalcanal 1942-43 | 73821 | [73821-great-naval-battles-vol-ii-guadalcanal-1942-43.json](./73821-great-naval-battles-vol-ii-guadalcanal-1942-43.json) |
+| Great Naval Battles: The Final Fury | 278515 | [278515-great-naval-battles-the-final-fury.json](./278515-great-naval-battles-the-final-fury.json) |
 | Great North Shelter 2 | 238491 | [238491-great-north-shelter-2.json](./238491-great-north-shelter-2.json) |
 | Great Old One - Arrival | 105303 | [105303-great-old-one-arrival.json](./105303-great-old-one-arrival.json) |
 | Great Paintings VR | 156103 | [156103-great-paintings-vr.json](./156103-great-paintings-vr.json) |
@@ -2426,11 +2429,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growth | 280208 | [280208-growth.json](./280208-growth.json) |
 | Growth | 331885 | [331885-growth.json](./331885-growth.json) |
 | Gru Dash Play | 384538 | [384538-gru-dash-play.json](./384538-gru-dash-play.json) |
+| Grudge | 278516 | [278516-grudge.json](./278516-grudge.json) |
 | Grudge Murder: Flight | 298685 | [298685-grudge-murder-flight.json](./298685-grudge-murder-flight.json) |
 | Grudge Warriors | 19269 | [19269-grudge-warriors.json](./19269-grudge-warriors.json) |
 | Grumblemoor | 347171 | [347171-grumblemoor.json](./347171-grumblemoor.json) |
 | Grumpy Cat's Worst Game Ever | 98930 | [98930-grumpy-cats-worst-game-ever.json](./98930-grumpy-cats-worst-game-ever.json) |
 | Grumpy Witch | 115015 | [115015-grumpy-witch.json](./115015-grumpy-witch.json) |
+| Grunder | 278517 | [278517-grunder.json](./278517-grunder.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
 | Grundlewhack | 380527 | [380527-grundlewhack.json](./380527-grundlewhack.json) |
 | Gruniożerca 3: The Great Cavy Clean-Up | 308402 | [308402-gruniozerca-3-the-great-cavy-clean-up.json](./308402-gruniozerca-3-the-great-cavy-clean-up.json) |
