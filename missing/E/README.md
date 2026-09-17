@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo: The Oracle's Scroll | 319196 | [319196-echo-the-oracles-scroll.json](./319196-echo-the-oracles-scroll.json) |
 | EchoBlade | 166752 | [166752-echoblade.json](./166752-echoblade.json) |
 | EchoChamber: Not Welcome | 390689 | [390689-echochamber-not-welcome.json](./390689-echochamber-not-welcome.json) |
+| Echochrome | 263007 | [263007-echochrome.json](./263007-echochrome.json) |
 | Echochrome II | 18240 | [18240-echochrome-ii.json](./18240-echochrome-ii.json) |
 | Echoed Nights | 408194 | [408194-echoed-nights.json](./408194-echoed-nights.json) |
 | Echoed Realms | 295000 | [295000-echoed-realms.json](./295000-echoed-realms.json) |
