@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vohenn | 387538 | [387538-vohenn.json](./387538-vohenn.json) |
 | Voice | 191246 | [191246-voice.json](./191246-voice.json) |
 | Voice in the Abyss | 283735 | [283735-voice-in-the-abyss.json](./283735-voice-in-the-abyss.json) |
+| Voice of Cards Trilogy | 242664 | [242664-voice-of-cards-trilogy.json](./242664-voice-of-cards-trilogy.json) |
 | Voice of Cards: The Beasts of Burden | 215058 | [215058-voice-of-cards-the-beasts-of-burden.json](./215058-voice-of-cards-the-beasts-of-burden.json) |
 | Voice of Cards: The Forsaken Maiden | 191259 | [191259-voice-of-cards-the-forsaken-maiden.json](./191259-voice-of-cards-the-forsaken-maiden.json) |
 | Voice of Cards: The Isle Dragon Roars | 171768 | [171768-voice-of-cards-the-isle-dragon-roars.json](./171768-voice-of-cards-the-isle-dragon-roars.json) |
