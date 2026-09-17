@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room | 90637 | [90637-escape-room.json](./90637-escape-room.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
 | Escape Room Mystery Adventure: Enchanting Tales | 152389 | [152389-escape-room-mystery-adventure-enchanting-tales.json](./152389-escape-room-mystery-adventure-enchanting-tales.json) |
+| Escape Room Pentalogy Bundle | 284488 | [284488-escape-room-pentalogy-bundle.json](./284488-escape-room-pentalogy-bundle.json) |
 | Escape Room Ultimate Bundle | 306493 | [306493-escape-room-ultimate-bundle.json](./306493-escape-room-ultimate-bundle.json) |
 | Escape Room: Bank Robbery Gone Wrong | 244246 | [244246-escape-room-bank-robbery-gone-wrong.json](./244246-escape-room-bank-robbery-gone-wrong.json) |
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
