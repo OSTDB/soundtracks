@@ -3073,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Stop Corocco | 151663 | [151663-dont-stop-corocco.json](./151663-dont-stop-corocco.json) |
 | Don't Stop, Girlypop! | 287870 | [287870-dont-stop-girlypop.json](./287870-dont-stop-girlypop.json) |
 | Don't Tell My Wife | 396197 | [396197-dont-tell-my-wife.json](./396197-dont-tell-my-wife.json) |
+| Don't Touch My Phone | 286084 | [286084-dont-touch-my-phone.json](./286084-dont-touch-my-phone.json) |
 | Don't Touch My Teddy Bear | 62772 | [62772-dont-touch-my-teddy-bear.json](./62772-dont-touch-my-teddy-bear.json) |
 | Don't Touch Red!! | 246970 | [246970-dont-touch-red.json](./246970-dont-touch-red.json) |
 | Don't Touch the Red Bubble | 174330 | [174330-dont-touch-the-red-bubble.json](./174330-dont-touch-the-red-bubble.json) |
@@ -3931,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Life in the Country Side | 333010 | [333010-dream-life-in-the-country-side.json](./333010-dream-life-in-the-country-side.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
 | Dream Master | 48611 | [48611-dream-master.json](./48611-dream-master.json) |
+| Dream Medicine | 286126 | [286126-dream-medicine.json](./286126-dream-medicine.json) |
 | Dream Mirror | 164966 | [164966-dream-mirror.json](./164966-dream-mirror.json) |
 | Dream of Life | 229721 | [229721-dream-of-life.json](./229721-dream-of-life.json) |
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
@@ -4086,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Space | 341037 | [341037-drill-space.json](./341037-drill-space.json) |
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
 | Drills VR | 109066 | [109066-drills-vr.json](./109066-drills-vr.json) |
+| Drim | 286085 | [286085-drim.json](./286085-drim.json) |
 | Drink | 178604 | [178604-drink.json](./178604-drink.json) |
 | Drink Bar Maid | 134608 | [134608-drink-bar-maid.json](./134608-drink-bar-maid.json) |
 | Drink Bar Maid: Regression | 134609 | [134609-drink-bar-maid-regression.json](./134609-drink-bar-maid-regression.json) |
