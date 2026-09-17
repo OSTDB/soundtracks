@@ -975,6 +975,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario + Rabbids Sparks of Hope | 152201 | [152201-mario-rabbids-sparks-of-hope.json](./152201-mario-rabbids-sparks-of-hope.json) |
 | Mario + Rabbids Sparks of Hope: + Rayman Edition | 268551 | [268551-mario-rabbids-sparks-of-hope-rayman-edition.json](./268551-mario-rabbids-sparks-of-hope-rayman-edition.json) |
 | Mario + Rabbids Sparks of Hope: Galactic Prestige Bundle | 401013 | [401013-mario-rabbids-sparks-of-hope-galactic-prestige-bundle.json](./401013-mario-rabbids-sparks-of-hope-galactic-prestige-bundle.json) |
+| Mario + Rabbids Sparks of Hope: Rayman in the Phantom Show | 240306 | [240306-mario-rabbids-sparks-of-hope-rayman-in-the-phantom-show.json](./240306-mario-rabbids-sparks-of-hope-rayman-in-the-phantom-show.json) |
+| Mario + Rabbids Sparks of Hope: Season Pass | 240308 | [240308-mario-rabbids-sparks-of-hope-season-pass.json](./240308-mario-rabbids-sparks-of-hope-season-pass.json) |
 | Mario + Wario Complete | 318037 | [318037-mario-wario-complete.json](./318037-mario-wario-complete.json) |
 | Mario 128 | 130354 | [130354-mario-128.json](./130354-mario-128.json) |
 | Mario 64 x Banjo Kazooie | 134018 | [134018-mario-64-x-banjo-kazooie.json](./134018-mario-64-x-banjo-kazooie.json) |
@@ -1552,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Blaster Ages 6-8 | 250608 | [250608-math-blaster-ages-6-8.json](./250608-math-blaster-ages-6-8.json) |
 | Math C | 106554 | [106554-math-c.json](./106554-math-c.json) |
 | Math Castle | 46643 | [46643-math-castle.json](./46643-math-castle.json) |
+| Math Challenge: Workout Brain | 240343 | [240343-math-challenge-workout-brain.json](./240343-math-challenge-workout-brain.json) |
 | Math City HD | 232178 | [232178-math-city-hd.json](./232178-math-city-hd.json) |
 | Math Combat Challenge | 55124 | [55124-math-combat-challenge.json](./55124-math-combat-challenge.json) |
 | Math Duel | 251043 | [251043-math-duel.json](./251043-math-duel.json) |
