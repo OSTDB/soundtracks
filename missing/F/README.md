@@ -3494,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuga: Melodies of Steel 3 | 307648 | [307648-fuga-melodies-of-steel-3.json](./307648-fuga-melodies-of-steel-3.json) |
 | Fuga: Melodies of Steel 3 - Season Pass | 371315 | [371315-fuga-melodies-of-steel-3-season-pass.json](./371315-fuga-melodies-of-steel-3-season-pass.json) |
 | Fuggedaboutit Farm | 372996 | [372996-fuggedaboutit-farm.json](./372996-fuggedaboutit-farm.json) |
+| Fugitive | 249871 | [249871-fugitive.json](./249871-fugitive.json) |
 | Fugue | 104072 | [104072-fugue.json](./104072-fugue.json) |
 | Fugue in Void | 105212 | [105212-fugue-in-void.json](./105212-fugue-in-void.json) |
 | Fuhrer in LA: Special Edition | 252177 | [252177-fuhrer-in-la-special-edition.json](./252177-fuhrer-in-la-special-edition.json) |
