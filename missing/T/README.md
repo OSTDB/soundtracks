@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taijitu: A Game About Balance | 167289 | [167289-taijitu-a-game-about-balance.json](./167289-taijitu-a-game-about-balance.json) |
 | Taiker | 26547 | [26547-taiker.json](./26547-taiker.json) |
 | Taiko Drum Master | 37148 | [37148-taiko-drum-master.json](./37148-taiko-drum-master.json) |
+| Taiko Frenzy | 276824 | [276824-taiko-frenzy.json](./276824-taiko-frenzy.json) |
 | Taiko no Tatsujin: Chibi Dragon to Fushigi na Orb | 63850 | [63850-taiko-no-tatsujin-chibi-dragon-to-fushigi-na-orb.json](./63850-taiko-no-tatsujin-chibi-dragon-to-fushigi-na-orb.json) |
 | Taiko no Tatsujin: Chougoukaban | 63848 | [63848-taiko-no-tatsujin-chougoukaban.json](./63848-taiko-no-tatsujin-chougoukaban.json) |
 | Taiko no Tatsujin: Drum 'n' Fun! | 104992 | [104992-taiko-no-tatsujin-drum-n-fun.json](./104992-taiko-no-tatsujin-drum-n-fun.json) |
@@ -812,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TavernHold | 361685 | [361685-tavernhold.json](./361685-tavernhold.json) |
 | Tavernia | 391212 | [391212-tavernia.json](./391212-tavernia.json) |
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
+| Tavu | 276823 | [276823-tavu.json](./276823-tavu.json) |
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
 | Tax Return | 390679 | [390679-tax-return.json](./390679-tax-return.json) |
 | Taxi 3 | 138156 | [138156-taxi-3.json](./138156-taxi-3.json) |
@@ -8294,6 +8296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator PRO 2016 | 89133 | [89133-truck-simulator-pro-2016.json](./89133-truck-simulator-pro-2016.json) |
 | Truck Simulator US Driver | 376580 | [376580-truck-simulator-us-driver.json](./376580-truck-simulator-us-driver.json) |
 | Truck Simulator USA & ATV Monster Rally Bundle | 306513 | [306513-truck-simulator-usa-and-atv-monster-rally-bundle.json](./306513-truck-simulator-usa-and-atv-monster-rally-bundle.json) |
+| Truck Simulator: Driving School 2024 | 276862 | [276862-truck-simulator-driving-school-2024.json](./276862-truck-simulator-driving-school-2024.json) |
 | Truck Simulator: European Roads | 383514 | [383514-truck-simulator-european-roads.json](./383514-truck-simulator-european-roads.json) |
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
