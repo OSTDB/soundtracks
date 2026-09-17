@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left 4 Dead 2: Nightmare | 358402 | [358402-left-4-dead-2-nightmare.json](./358402-left-4-dead-2-nightmare.json) |
 | Left Alive: Day One Edition | 119066 | [119066-left-alive-day-one-edition.json](./119066-left-alive-day-one-edition.json) |
 | Left Alive: Mech Edition | 111022 | [111022-left-alive-mech-edition.json](./111022-left-alive-mech-edition.json) |
+| Left at Home | 241488 | [241488-left-at-home.json](./241488-left-at-home.json) |
 | Left in the Dark: No One on Board | 17144 | [17144-left-in-the-dark-no-one-on-board.json](./17144-left-in-the-dark-no-one-on-board.json) |
 | Left Right Dodge Race | 358352 | [358352-left-right-dodge-race.json](./358352-left-right-dodge-race.json) |
 | Left Stranded | 195199 | [195199-left-stranded.json](./195199-left-stranded.json) |
@@ -1711,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigPlanet: Pirates of the Caribbean Level Kit | 194642 | [194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json](./194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json) |
 | LittleBigPlanet: Sackboy's Prehistoric Moves | 6364 | [6364-littlebigplanet-sackboys-prehistoric-moves.json](./6364-littlebigplanet-sackboys-prehistoric-moves.json) |
 | LittleBigSoko | 101621 | [101621-littlebigsoko.json](./101621-littlebigsoko.json) |
+| Littlebird/TrueEyes | 241524 | [241524-littlebird-trueeyes.json](./241524-littlebird-trueeyes.json) |
 | Littlest Pet Shop | 353919 | [353919-littlest-pet-shop.json](./353919-littlest-pet-shop.json) |
 | Littlest Pet Shop Online | 91432 | [91432-littlest-pet-shop-online.json](./91432-littlest-pet-shop-online.json) |
 | Littlest Pet Shop: Biggest Adventure | 254485 | [254485-littlest-pet-shop-biggest-adventure.json](./254485-littlest-pet-shop-biggest-adventure.json) |
@@ -2707,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust for Lucre | 305760 | [305760-lust-for-lucre.json](./305760-lust-for-lucre.json) |
 | Lust from Beyond | 115903 | [115903-lust-from-beyond.json](./115903-lust-from-beyond.json) |
 | Lust From Beyond: M Edition | 152313 | [152313-lust-from-beyond-m-edition.json](./152313-lust-from-beyond-m-edition.json) |
+| Lust Girl | 241514 | [241514-lust-girl.json](./241514-lust-girl.json) |
 | Lust Kingdom | 264032 | [264032-lust-kingdom.json](./264032-lust-kingdom.json) |
 | Lust Theory | 216187 | [216187-lust-theory.json](./216187-lust-theory.json) |
 | Luster Beasts | 276826 | [276826-luster-beasts.json](./276826-luster-beasts.json) |
