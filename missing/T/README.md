@@ -2203,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
 | The Darkest Woods | 103762 | [103762-the-darkest-woods.json](./103762-the-darkest-woods.json) |
 | The Darkest Woods 2 | 111711 | [111711-the-darkest-woods-2.json](./111711-the-darkest-woods-2.json) |
+| The Darkness | 281559 | [281559-the-darkness.json](./281559-the-darkness.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
 | The Darkside Detective Duology | 291586 | [291586-the-darkside-detective-duology.json](./291586-the-darkside-detective-duology.json) |
 | The Dating Game | 65534 | [65534-the-dating-game.json](./65534-the-dating-game.json) |
@@ -3747,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mulldoon Murders | 60029 | [60029-the-mulldoon-murders.json](./60029-the-mulldoon-murders.json) |
 | The Multi-Medium | 216996 | [216996-the-multi-medium.json](./216996-the-multi-medium.json) |
 | The Multiverse Trilogy | 289978 | [289978-the-multiverse-trilogy.json](./289978-the-multiverse-trilogy.json) |
+| The Mummy | 281548 | [281548-the-mummy.json](./281548-the-mummy.json) |
 | The Mummy | 49323 | [49323-the-mummy.json](./49323-the-mummy.json) |
 | The Mummy Pharaoh | 110381 | [110381-the-mummy-pharaoh.json](./110381-the-mummy-pharaoh.json) |
 | The Mummy Returns | 49961 | [49961-the-mummy-returns.json](./49961-the-mummy-returns.json) |
@@ -4981,6 +4983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vengeance Of Lady Witch | 250964 | [250964-the-vengeance-of-lady-witch.json](./250964-the-vengeance-of-lady-witch.json) |
 | The Very Big Cave Adventure | 26477 | [26477-the-very-big-cave-adventure.json](./26477-the-very-big-cave-adventure.json) |
 | The Very Idle Game | 310750 | [310750-the-very-idle-game.json](./310750-the-very-idle-game.json) |
+| The VHS Paradise | 281553 | [281553-the-vhs-paradise.json](./281553-the-vhs-paradise.json) |
 | The Vice Squad | 47252 | [47252-the-vice-squad.json](./47252-the-vice-squad.json) |
 | The Victor Initiative | 320732 | [320732-the-victor-initiative.json](./320732-the-victor-initiative.json) |
 | The Video Game Machine | 123066 | [123066-the-video-game-machine.json](./123066-the-video-game-machine.json) |
