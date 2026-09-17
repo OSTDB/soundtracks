@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASL Soccer | 5688 | [5688-nasl-soccer.json](./5688-nasl-soccer.json) |
 | Nastrond | 271483 | [271483-nastrond.json](./271483-nastrond.json) |
 | Nasty Goats | 204725 | [204725-nasty-goats.json](./204725-nasty-goats.json) |
+| Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
 | Nat Geo Traveler: Sudoku China | 67262 | [67262-nat-geo-traveler-sudoku-china.json](./67262-nat-geo-traveler-sudoku-china.json) |
 | Natari at the Bubble Planet | 75759 | [75759-natari-at-the-bubble-planet.json](./75759-natari-at-the-bubble-planet.json) |
 | NatGeo Adventures: Ghost Fleet | 209151 | [209151-natgeo-adventures-ghost-fleet.json](./209151-natgeo-adventures-ghost-fleet.json) |
@@ -1178,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
 | Night of the Wordsmith | 64985 | [64985-night-of-the-wordsmith.json](./64985-night-of-the-wordsmith.json) |
 | Night of Wolves | 257968 | [257968-night-of-wolves.json](./257968-night-of-wolves.json) |
+| Night Poetry | 264669 | [264669-night-poetry.json](./264669-night-poetry.json) |
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
 | Night Ranger | 388213 | [388213-night-ranger.json](./388213-night-ranger.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
@@ -1703,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noelia | 325085 | [325085-noelia.json](./325085-noelia.json) |
 | Noema | 403695 | [403695-noema.json](./403695-noema.json) |
 | Nofland Story | 220304 | [220304-nofland-story.json](./220304-nofland-story.json) |
+| Noga | 264703 | [264703-noga.json](./264703-noga.json) |
 | Nogard | 94729 | [94729-nogard.json](./94729-nogard.json) |
 | Nohra | 156659 | [156659-nohra.json](./156659-nohra.json) |
 | Nohzdyve | 123624 | [123624-nohzdyve.json](./123624-nohzdyve.json) |
