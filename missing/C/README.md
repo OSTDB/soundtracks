@@ -1559,6 +1559,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie Murder | 19914 | [19914-charlie-murder.json](./19914-charlie-murder.json) |
 | Charlie the Steak | 310574 | [310574-charlie-the-steak.json](./310574-charlie-the-steak.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
+| Charlotte's Web | 248748 | [248748-charlottes-web.json](./248748-charlottes-web.json) |
+| Charlotte's Web | 248749 | [248749-charlottes-web.json](./248749-charlottes-web.json) |
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
 | Charm & Clue 2 | 417505 | [417505-charm-and-clue-2.json](./417505-charm-and-clue-2.json) |
 | Charm & Clue: Collector's Edition | 417506 | [417506-charm-and-clue-collectors-edition.json](./417506-charm-and-clue-collectors-edition.json) |
@@ -2284,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chyrza | 142395 | [142395-chyrza.json](./142395-chyrza.json) |
 | Cì Shā | 158675 | [158675-ci-sha.json](./158675-ci-sha.json) |
 | Ciao Bella: la Bella Romanza | 133957 | [133957-ciao-bella-la-bella-romanza.json](./133957-ciao-bella-la-bella-romanza.json) |
+| Cicada Springs | 248714 | [248714-cicada-springs.json](./248714-cicada-springs.json) |
 | Cicadas | 61599 | [61599-cicadas.json](./61599-cicadas.json) |
 | Cicadia | 408916 | [408916-cicadia.json](./408916-cicadia.json) |
 | Ciclico | 349396 | [349396-ciclico.json](./349396-ciclico.json) |
@@ -2371,6 +2374,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Citalis | 25713 | [25713-citalis.json](./25713-citalis.json) |
 | Cities Domination | 319764 | [319764-cities-domination.json](./319764-cities-domination.json) |
+| Cities of the World Jigsaw Puzzles - Amsterdam | 248707 | [248707-cities-of-the-world-jigsaw-puzzles-amsterdam.json](./248707-cities-of-the-world-jigsaw-puzzles-amsterdam.json) |
+| Cities of the World Jigsaw Puzzles - Istanbul | 248712 | [248712-cities-of-the-world-jigsaw-puzzles-istanbul.json](./248712-cities-of-the-world-jigsaw-puzzles-istanbul.json) |
+| Cities of the World Jigsaw Puzzles - London | 248708 | [248708-cities-of-the-world-jigsaw-puzzles-london.json](./248708-cities-of-the-world-jigsaw-puzzles-london.json) |
+| Cities of the World Jigsaw Puzzles - New York | 248711 | [248711-cities-of-the-world-jigsaw-puzzles-new-york.json](./248711-cities-of-the-world-jigsaw-puzzles-new-york.json) |
+| Cities of the World Jigsaw Puzzles - Paris | 248710 | [248710-cities-of-the-world-jigsaw-puzzles-paris.json](./248710-cities-of-the-world-jigsaw-puzzles-paris.json) |
+| Cities of the World Jigsaw Puzzles - Sydney | 248709 | [248709-cities-of-the-world-jigsaw-puzzles-sydney.json](./248709-cities-of-the-world-jigsaw-puzzles-sydney.json) |
 | Cities of the World Jigsaw Puzzles: Sao Paulo | 249298 | [249298-cities-of-the-world-jigsaw-puzzles-sao-paulo.json](./249298-cities-of-the-world-jigsaw-puzzles-sao-paulo.json) |
 | Cities of the World Jigsaw Puzzles: Venice | 249297 | [249297-cities-of-the-world-jigsaw-puzzles-venice.json](./249297-cities-of-the-world-jigsaw-puzzles-venice.json) |
 | Cities Skylines Mobile Edition | 237630 | [237630-cities-skylines-mobile-edition.json](./237630-cities-skylines-mobile-edition.json) |
