@@ -1026,8 +1026,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Park: Backyard Edition | 214185 | [214185-lets-park-backyard-edition.json](./214185-lets-park-backyard-edition.json) |
 | Let's Play Cards Baccarat | 340915 | [340915-lets-play-cards-baccarat.json](./340915-lets-play-cards-baccarat.json) |
 | Let's Play Jigsaw Puzzles: A Journey Across Continents | 263210 | [263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json](./263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json) |
+| Let's Play Jigsaw Puzzles: At the Zoo | 239738 | [239738-lets-play-jigsaw-puzzles-at-the-zoo.json](./239738-lets-play-jigsaw-puzzles-at-the-zoo.json) |
 | Let's Play Jigsaw Puzzles: Birds | 240775 | [240775-lets-play-jigsaw-puzzles-birds.json](./240775-lets-play-jigsaw-puzzles-birds.json) |
 | Let's Play Jigsaw Puzzles: On the Farm | 240811 | [240811-lets-play-jigsaw-puzzles-on-the-farm.json](./240811-lets-play-jigsaw-puzzles-on-the-farm.json) |
+| Let's Play Jigsaw Puzzles: Thailand and Cambodia | 239765 | [239765-lets-play-jigsaw-puzzles-thailand-and-cambodia.json](./239765-lets-play-jigsaw-puzzles-thailand-and-cambodia.json) |
 | Let's Play Jigsaw Puzzles: Underwater | 236821 | [236821-lets-play-jigsaw-puzzles-underwater.json](./236821-lets-play-jigsaw-puzzles-underwater.json) |
 | Let's Play Journalists | 377615 | [377615-lets-play-journalists.json](./377615-lets-play-journalists.json) |
 | Let's Play with Nanai! | 111069 | [111069-lets-play-with-nanai.json](./111069-lets-play-with-nanai.json) |
@@ -1211,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life in the Analog Age: Rainy Day | 181871 | [181871-life-in-the-analog-age-rainy-day.json](./181871-life-in-the-analog-age-rainy-day.json) |
 | Life in the Fast Lane | 74057 | [74057-life-in-the-fast-lane.json](./74057-life-in-the-fast-lane.json) |
 | Life in the Machine | 189208 | [189208-life-in-the-machine.json](./189208-life-in-the-machine.json) |
+| Life in the Twilight | 239758 | [239758-life-in-the-twilight.json](./239758-life-in-the-twilight.json) |
 | Life In Yima | 144930 | [144930-life-in-yima.json](./144930-life-in-yima.json) |
 | Life Inside | 335357 | [335357-life-inside.json](./335357-life-inside.json) |
 | Life Is A Game | 298887 | [298887-life-is-a-game.json](./298887-life-is-a-game.json) |
