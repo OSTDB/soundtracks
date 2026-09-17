@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Heroes Idle | 174809 | [174809-unknown-heroes-idle.json](./174809-unknown-heroes-idle.json) |
 | Unknown Horizons | 121622 | [121622-unknown-horizons.json](./121622-unknown-horizons.json) |
 | Unknown Kadath | 271456 | [271456-unknown-kadath.json](./271456-unknown-kadath.json) |
+| Unknown Memoirs: The Rental | 249840 | [249840-unknown-memoirs-the-rental.json](./249840-unknown-memoirs-the-rental.json) |
 | Unknown Pain: Hardcore | 96694 | [96694-unknown-pain-hardcore.json](./96694-unknown-pain-hardcore.json) |
 | Unknown Place | 287226 | [287226-unknown-place.json](./287226-unknown-place.json) |
 | Unknown Presence | 274508 | [274508-unknown-presence.json](./274508-unknown-presence.json) |
