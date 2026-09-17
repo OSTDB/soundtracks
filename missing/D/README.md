@@ -2618,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disillusions Manga Horror | 9825 | [9825-disillusions-manga-horror.json](./9825-disillusions-manga-horror.json) |
 | Disjunction | 112005 | [112005-disjunction.json](./112005-disjunction.json) |
 | Disk NG 1 | 220140 | [220140-disk-ng-1.json](./220140-disk-ng-1.json) |
+| Disk-0 Madness | 255074 | [255074-disk-0-madness.json](./255074-disk-0-madness.json) |
 | Dislyte | 172684 | [172684-dislyte.json](./172684-dislyte.json) |
 | Dismal Anhedonia Land | 179654 | [179654-dismal-anhedonia-land.json](./179654-dismal-anhedonia-land.json) |
 | Dismal Signal | 271320 | [271320-dismal-signal.json](./271320-dismal-signal.json) |
@@ -4274,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive 4 Survival | 139390 | [139390-drive-4-survival.json](./139390-drive-4-survival.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
 | Drive Beyond Horizons | 290959 | [290959-drive-beyond-horizons.json](./290959-drive-beyond-horizons.json) |
+| Drive Cars: Avoid Traffic | 255175 | [255175-drive-cars-avoid-traffic.json](./255175-drive-cars-avoid-traffic.json) |
 | Drive Dangerously! | 411661 | [411661-drive-dangerously.json](./411661-drive-dangerously.json) |
 | Drive Drift X | 187487 | [187487-drive-drift-x.json](./187487-drive-drift-x.json) |
 | Drive for Your Life | 116722 | [116722-drive-for-your-life.json](./116722-drive-for-your-life.json) |
@@ -4499,6 +4501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducks | 314262 | [314262-ducks.json](./314262-ducks.json) |
 | Ducks | 314263 | [314263-ducks.json](./314263-ducks.json) |
 | Ducks Ahoy! | 76603 | [76603-ducks-ahoy.json](./76603-ducks-ahoy.json) |
+| Ducks Can Drive | 255159 | [255159-ducks-can-drive.json](./255159-ducks-can-drive.json) |
 | Ducks in Disguise | 411621 | [411621-ducks-in-disguise.json](./411621-ducks-in-disguise.json) |
 | Duckside | 295239 | [295239-duckside.json](./295239-duckside.json) |
 | Duckstazy Classic | 265755 | [265755-duckstazy-classic.json](./265755-duckstazy-classic.json) |
