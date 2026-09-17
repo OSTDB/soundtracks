@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Duck | 51605 | [51605-rainbow-duck.json](./51605-rainbow-duck.json) |
 | Rainbow fighter | 285570 | [285570-rainbow-fighter.json](./285570-rainbow-fighter.json) |
 | Rainbow Fish Goes to College | 305138 | [305138-rainbow-fish-goes-to-college.json](./305138-rainbow-fish-goes-to-college.json) |
+| Rainbow Fish: The Most beautiful Fish in the Ocean | 235358 | [235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json](./235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json) |
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
 | Rainbow Hero | 35906 | [35906-rainbow-hero.json](./35906-rainbow-hero.json) |
 | Rainbow High: Runway Rush | 249255 | [249255-rainbow-high-runway-rush.json](./249255-rainbow-high-runway-rush.json) |
@@ -731,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready Action | 196893 | [196893-ready-action.json](./196893-ready-action.json) |
 | Ready or Not: Boiling Point | 394376 | [394376-ready-or-not-boiling-point.json](./394376-ready-or-not-boiling-point.json) |
 | Ready Player One: Oasis | 99013 | [99013-ready-player-one-oasis.json](./99013-ready-player-one-oasis.json) |
+| Ready Set Golf | 235351 | [235351-ready-set-golf.json](./235351-ready-set-golf.json) |
 | Ready Steady Play | 61073 | [61073-ready-steady-play.json](./61073-ready-steady-play.json) |
 | Ready, Set, Plumb! | 306352 | [306352-ready-set-plumb.json](./306352-ready-set-plumb.json) |
 | Ready? Set. Haiya! | 149601 | [149601-ready-set-haiya.json](./149601-ready-set-haiya.json) |
@@ -3112,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon 3: Troubles in Time | 375845 | [375845-roxy-raccoon-3-troubles-in-time.json](./375845-roxy-raccoon-3-troubles-in-time.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
 | Roxy Raccoon's Pinball Panic: Baker's Best | 285461 | [285461-roxy-raccoons-pinball-panic-bakers-best.json](./285461-roxy-raccoons-pinball-panic-bakers-best.json) |
+| Roxy Raccoon's Pinball Panic: Christmas Carnage | 235360 | [235360-roxy-raccoons-pinball-panic-christmas-carnage.json](./235360-roxy-raccoons-pinball-panic-christmas-carnage.json) |
 | Roxy Raccoon's Pinball Panic: Club Crazy | 267689 | [267689-roxy-raccoons-pinball-panic-club-crazy.json](./267689-roxy-raccoons-pinball-panic-club-crazy.json) |
 | Roxy Raccoon's Pinball Panic: Joyous Japan | 226931 | [226931-roxy-raccoons-pinball-panic-joyous-japan.json](./226931-roxy-raccoons-pinball-panic-joyous-japan.json) |
 | Roxy Raccoon's Pinball Panic: Paradise Parks | 311787 | [311787-roxy-raccoons-pinball-panic-paradise-parks.json](./311787-roxy-raccoons-pinball-panic-paradise-parks.json) |
