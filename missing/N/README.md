@@ -1711,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noel the Mortal Fate S1-7 | 102484 | [102484-noel-the-mortal-fate-s1-7.json](./102484-noel-the-mortal-fate-s1-7.json) |
 | Noel the Mortal Fate: Season 12 | 243374 | [243374-noel-the-mortal-fate-season-12.json](./243374-noel-the-mortal-fate-season-12.json) |
 | Noel the Mortal Fate: Season 3.5 - Revenger's Vacation | 258205 | [258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json](./258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json) |
+| Noel the Mortal Fate: Season Final Part 2 | 259092 | [259092-noel-the-mortal-fate-season-final-part-2.json](./259092-noel-the-mortal-fate-season-final-part-2.json) |
 | Noel's Hope | 113703 | [113703-noels-hope.json](./113703-noels-hope.json) |
 | Noelia | 325085 | [325085-noelia.json](./325085-noelia.json) |
 | Noema | 403695 | [403695-noema.json](./403695-noema.json) |
