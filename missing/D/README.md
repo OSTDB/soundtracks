@@ -2916,6 +2916,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who Infinity: The Lady of the Lake | 164451 | [164451-doctor-who-infinity-the-lady-of-the-lake.json](./164451-doctor-who-infinity-the-lady-of-the-lake.json) |
 | Doctor Who Infinity: The Silent Streets of Barry Island | 164450 | [164450-doctor-who-infinity-the-silent-streets-of-barry-island.json](./164450-doctor-who-infinity-the-silent-streets-of-barry-island.json) |
 | Doctor Who: An Unlikely Heist | 245024 | [245024-doctor-who-an-unlikely-heist.json](./245024-doctor-who-an-unlikely-heist.json) |
+| Doctor Who: Art Attack | 249279 | [249279-doctor-who-art-attack.json](./249279-doctor-who-art-attack.json) |
+| Doctor Who: Black Hole | 249293 | [249293-doctor-who-black-hole.json](./249293-doctor-who-black-hole.json) |
 | Doctor Who: Dalek Break-Out | 249447 | [249447-doctor-who-dalek-break-out.json](./249447-doctor-who-dalek-break-out.json) |
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
 | Doctor Who: Evacuation Earth | 47842 | [47842-doctor-who-evacuation-earth.json](./47842-doctor-who-evacuation-earth.json) |
