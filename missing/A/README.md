@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Spider to A Fly | 280336 | [280336-a-spider-to-a-fly.json](./280336-a-spider-to-a-fly.json) |
 | A Star of Chrome | 217332 | [217332-a-star-of-chrome.json](./217332-a-star-of-chrome.json) |
 | A Steamboat Willie | 282679 | [282679-a-steamboat-willie.json](./282679-a-steamboat-willie.json) |
+| A Step From Insanity | 260220 | [260220-a-step-from-insanity.json](./260220-a-step-from-insanity.json) |
 | A Step Into Darkness | 29815 | [29815-a-step-into-darkness.json](./29815-a-step-into-darkness.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
 | A Story of Us: Ep. 1 - First Memories | 115043 | [115043-a-story-of-us-ep-1-first-memories.json](./115043-a-story-of-us-ep-1-first-memories.json) |
@@ -3264,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artika.1 | 74317 | [74317-artika-1.json](./74317-artika-1.json) |
 | ArtilleRoyalty | 374681 | [374681-artilleroyalty.json](./374681-artilleroyalty.json) |
 | Artillery | 93527 | [93527-artillery.json](./93527-artillery.json) |
+| Artisan Story | 260215 | [260215-artisan-story.json](./260215-artisan-story.json) |
 | Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
 | Artists of Fortune: Paint by Numbers! - Aquaris Planet | 191235 | [191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json](./191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json) |
 | Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 1 | 191230 | [191230-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-1.json](./191230-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-1.json) |
