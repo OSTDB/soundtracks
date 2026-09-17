@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sable Maze: Twelve Fears - Collector's Edition | 110347 | [110347-sable-maze-twelve-fears-collectors-edition.json](./110347-sable-maze-twelve-fears-collectors-edition.json) |
 | Sable's Grimoire: A Dragon's Treasure | 129724 | [129724-sables-grimoire-a-dragons-treasure.json](./129724-sables-grimoire-a-dragons-treasure.json) |
 | Sable's Grimoire: Man and Elf | 129725 | [129725-sables-grimoire-man-and-elf.json](./129725-sables-grimoire-man-and-elf.json) |
+| Saborus | 273995 | [273995-saborus.json](./273995-saborus.json) |
 | Sabotage Will Set Us Free | 181376 | [181376-sabotage-will-set-us-free.json](./181376-sabotage-will-set-us-free.json) |
 | Saboteur! | 112670 | [112670-saboteur.json](./112670-saboteur.json) |
 | Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
@@ -3457,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the King | 374164 | [374164-slay-the-king.json](./374164-slay-the-king.json) |
 | Slay the Spire II | 296831 | [296831-slay-the-spire-ii.json](./296831-slay-the-spire-ii.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
+| Slayaway Camp 2 | 273976 | [273976-slayaway-camp-2.json](./273976-slayaway-camp-2.json) |
 | Slayblade | 394830 | [394830-slayblade.json](./394830-slayblade.json) |
 | Slaycation Paradise | 200679 | [200679-slaycation-paradise.json](./200679-slaycation-paradise.json) |
 | Slayer | 260130 | [260130-slayer.json](./260130-slayer.json) |
@@ -4654,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Headway | 331713 | [331713-sonic-headway.json](./331713-sonic-headway.json) |
 | Sonic Hearts | 261273 | [261273-sonic-hearts.json](./261273-sonic-hearts.json) |
 | Sonic Heroes | 4156 | [4156-sonic-heroes.json](./4156-sonic-heroes.json) |
+| Sonic Heroes Puzzle | 273988 | [273988-sonic-heroes-puzzle.json](./273988-sonic-heroes-puzzle.json) |
 | Sonic Hexacide | 136388 | [136388-sonic-hexacide.json](./136388-sonic-hexacide.json) |
 | Sonic Hopping | 261271 | [261271-sonic-hopping.json](./261271-sonic-hopping.json) |
 | Sonic Hopping 2 | 261272 | [261272-sonic-hopping-2.json](./261272-sonic-hopping-2.json) |
@@ -4681,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mania Fangame | 326995 | [326995-sonic-mania-fangame.json](./326995-sonic-mania-fangame.json) |
 | Sonic Mania Randomizer | 386230 | [386230-sonic-mania-randomizer.json](./386230-sonic-mania-randomizer.json) |
 | Sonic Mania: Collector's Edition | 25684 | [25684-sonic-mania-collectors-edition.json](./25684-sonic-mania-collectors-edition.json) |
+| Sonic Maze Craze | 273985 | [273985-sonic-maze-craze.json](./273985-sonic-maze-craze.json) |
 | Sonic Medley | 326999 | [326999-sonic-medley.json](./326999-sonic-medley.json) |
 | Sonic Mega Collection | 4157 | [4157-sonic-mega-collection.json](./4157-sonic-mega-collection.json) |
 | Sonic Melee 2: The Forbidden Fate | 330301 | [330301-sonic-melee-2-the-forbidden-fate.json](./330301-sonic-melee-2-the-forbidden-fate.json) |
@@ -4781,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog | 239066 | [239066-sonic-the-hedgehog.json](./239066-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 261243 | [261243-sonic-the-hedgehog.json](./261243-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 264886 | [264886-sonic-the-hedgehog.json](./264886-sonic-the-hedgehog.json) |
+| Sonic the Hedgehog | 273987 | [273987-sonic-the-hedgehog.json](./273987-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 6231 | [6231-sonic-the-hedgehog.json](./6231-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog 1996 | 400967 | [400967-sonic-the-hedgehog-1996.json](./400967-sonic-the-hedgehog-1996.json) |
 | Sonic the Hedgehog 2 | 112884 | [112884-sonic-the-hedgehog-2.json](./112884-sonic-the-hedgehog-2.json) |
@@ -5268,6 +5273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hole | 361227 | [361227-space-hole.json](./361227-space-hole.json) |
 | Space Hole 2020 | 156675 | [156675-space-hole-2020.json](./156675-space-hole-2020.json) |
 | Space Hood | 372450 | [372450-space-hood.json](./372450-space-hood.json) |
+| Space Hopper | 274049 | [274049-space-hopper.json](./274049-space-hopper.json) |
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
 | Space II | 84202 | [84202-space-ii.json](./84202-space-ii.json) |
@@ -5446,6 +5452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceborne Survivors | 294268 | [294268-spaceborne-survivors.json](./294268-spaceborne-survivors.json) |
 | Spacebound | 95397 | [95397-spacebound.json](./95397-spacebound.json) |
 | SpaceCorp: 2025-2300AD | 352297 | [352297-spacecorp-2025-2300ad.json](./352297-spacecorp-2025-2300ad.json) |
+| Spacecraft Tactics | 274038 | [274038-spacecraft-tactics.json](./274038-spacecraft-tactics.json) |
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
 | SpaceEngine | 7585 | [7585-spaceengine.json](./7585-spaceengine.json) |
 | Spaceforce Constellations | 16846 | [16846-spaceforce-constellations.json](./16846-spaceforce-constellations.json) |
@@ -7733,6 +7740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subterror | 291576 | [291576-subterror.json](./291576-subterror.json) |
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
+| Subverter | 274013 | [274013-subverter.json](./274013-subverter.json) |
 | Subwar 2050 | 39038 | [39038-subwar-2050.json](./39038-subwar-2050.json) |
 | Subwar 2050 Complete | 51935 | [51935-subwar-2050-complete.json](./51935-subwar-2050-complete.json) |
 | Subway Adventure | 135861 | [135861-subway-adventure.json](./135861-subway-adventure.json) |
@@ -9211,6 +9219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors in Blood | 296532 | [296532-survivors-in-blood.json](./296532-survivors-in-blood.json) |
 | Survivors Left: X | 124177 | [124177-survivors-left-x.json](./124177-survivors-left-x.json) |
 | Survivors of Journey to the West: Bald Guy vs Wukong | 310058 | [310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json](./310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json) |
+| Survivors of Mayhem | 274036 | [274036-survivors-of-mayhem.json](./274036-survivors-of-mayhem.json) |
 | Survivors Of The Zombie World | 338294 | [338294-survivors-of-the-zombie-world.json](./338294-survivors-of-the-zombie-world.json) |
 | Survivors SymphonYs | 345007 | [345007-survivors-symphonys.json](./345007-survivors-symphonys.json) |
 | Survivors Will | 250347 | [250347-survivors-will.json](./250347-survivors-will.json) |
