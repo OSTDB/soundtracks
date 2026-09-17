@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
 | 3-D Tank Zone | 15579 | [15579-3-d-tank-zone.json](./15579-3-d-tank-zone.json) |
 | 3-D Ultra Pinball: Thrillride | 49881 | [49881-3-d-ultra-pinball-thrillride.json](./49881-3-d-ultra-pinball-thrillride.json) |
+| 3-D Zapper | 268566 | [268566-3-d-zapper.json](./268566-3-d-zapper.json) |
 | 3-in-1 Animated Jigsaws Bundle | 399632 | [399632-3-in-1-animated-jigsaws-bundle.json](./399632-3-in-1-animated-jigsaws-bundle.json) |
 | 3-in-1 Christmas Collection | 331411 | [331411-3-in-1-christmas-collection.json](./331411-3-in-1-christmas-collection.json) |
 | 3:33 A.M. | 318976 | [318976-3-33-a-m.json](./318976-3-33-a-m.json) |
@@ -457,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Escape Room: Mystic Manor | 348853 | [348853-3d-escape-room-mystic-manor.json](./348853-3d-escape-room-mystic-manor.json) |
 | 3D Fantasy Zone II W | 86818 | [86818-3d-fantasy-zone-ii-w.json](./86818-3d-fantasy-zone-ii-w.json) |
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
+| 3D Genesis | 268558 | [268558-3d-genesis.json](./268558-3d-genesis.json) |
 | 3D Hopper | 327387 | [327387-3d-hopper.json](./327387-3d-hopper.json) |
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
@@ -506,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
 | 4 Colours | 262058 | [262058-4-colours.json](./262058-4-colours.json) |
+| 4 Game in One | 268570 | [268570-4-game-in-one.json](./268570-4-game-in-one.json) |
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
 | 4 in 1: Hudson | 293738 | [293738-4-in-1-hudson.json](./293738-4-in-1-hudson.json) |
 | 4 in 1: Nintendo | 293735 | [293735-4-in-1-nintendo.json](./293735-4-in-1-nintendo.json) |
