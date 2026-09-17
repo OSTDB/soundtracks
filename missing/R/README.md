@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realpolitiks 3: Earth and Beyond | 309890 | [309890-realpolitiks-3-earth-and-beyond.json](./309890-realpolitiks-3-earth-and-beyond.json) |
 | Realpolitiks Mobile | 97304 | [97304-realpolitiks-mobile.json](./97304-realpolitiks-mobile.json) |
 | Realpolitiks: New Power | 116997 | [116997-realpolitiks-new-power.json](./116997-realpolitiks-new-power.json) |
+| Realtor | 273445 | [273445-realtor.json](./273445-realtor.json) |
 | Reanimal | 314265 | [314265-reanimal.json](./314265-reanimal.json) |
 | Reanimal: The Expanded World - Chapter 2 | 395672 | [395672-reanimal-the-expanded-world-chapter-2.json](./395672-reanimal-the-expanded-world-chapter-2.json) |
 | Reanimal: The Expanded World - Chapter 3 | 395673 | [395673-reanimal-the-expanded-world-chapter-3.json](./395673-reanimal-the-expanded-world-chapter-3.json) |
@@ -1076,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedEx | 163956 | [163956-redex.json](./163956-redex.json) |
 | Redfall: Steelbook Launch Edition | 350534 | [350534-redfall-steelbook-launch-edition.json](./350534-redfall-steelbook-launch-edition.json) |
 | Redfoot Bluefoot Dancing | 41965 | [41965-redfoot-bluefoot-dancing.json](./41965-redfoot-bluefoot-dancing.json) |
+| Redial:Conundrum | 273444 | [273444-redial-conundrum.json](./273444-redial-conundrum.json) |
 | Redie | 25954 | [25954-redie.json](./25954-redie.json) |
 | Reditus: Ashes of Heremus | 230535 | [230535-reditus-ashes-of-heremus.json](./230535-reditus-ashes-of-heremus.json) |
 | Redjack: Revenge of the Brethren | 18297 | [18297-redjack-revenge-of-the-brethren.json](./18297-redjack-revenge-of-the-brethren.json) |
@@ -1461,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: The Darkside Chronicles | 497 | [497-resident-evil-the-darkside-chronicles.json](./497-resident-evil-the-darkside-chronicles.json) |
 | Resident Fear 3: Ascension | 365758 | [365758-resident-fear-3-ascension.json](./365758-resident-fear-3-ascension.json) |
 | Residual Christmas | 379366 | [379366-residual-christmas.json](./379366-residual-christmas.json) |
+| Resilience | 273443 | [273443-resilience.json](./273443-resilience.json) |
 | Resist Resist Resist | 299153 | [299153-resist-resist-resist.json](./299153-resist-resist-resist.json) |
 | Resistance | 172166 | [172166-resistance.json](./172166-resistance.json) |
 | Resistance and Liberation | 46657 | [46657-resistance-and-liberation.json](./46657-resistance-and-liberation.json) |
