@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
 | 9 Elements | 257474 | [257474-9-elements.json](./257474-9-elements.json) |
 | 9 Empires | 27735 | [27735-9-empires.json](./27735-9-empires.json) |
+| 9 Lives | 251003 | [251003-9-lives.json](./251003-9-lives.json) |
 | 9 Realms | 258564 | [258564-9-realms.json](./258564-9-realms.json) |
 | 9-nine-: Episode 1 | 114814 | [114814-9-nine-episode-1.json](./114814-9-nine-episode-1.json) |
 | 9:22 | 178657 | [178657-9-22.json](./178657-9-22.json) |
