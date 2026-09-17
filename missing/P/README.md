@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Package Inspector | 195697 | [195697-package-inspector.json](./195697-package-inspector.json) |
 | Package Stower VR | 350492 | [350492-package-stower-vr.json](./350492-package-stower-vr.json) |
 | Packed Lair | 350440 | [350440-packed-lair.json](./350440-packed-lair.json) |
+| Packed to the Gills | 270788 | [270788-packed-to-the-gills.json](./270788-packed-to-the-gills.json) |
 | Packmates | 366231 | [366231-packmates.json](./366231-packmates.json) |
 | Packri Monster | 347688 | [347688-packri-monster.json](./347688-packri-monster.json) |
 | PacMac Deluxe | 146224 | [146224-pacmac-deluxe.json](./146224-pacmac-deluxe.json) |
@@ -537,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Lust 2 | 253369 | [253369-paradise-lust-2.json](./253369-paradise-lust-2.json) |
 | Paradise of Freedom | 332539 | [332539-paradise-of-freedom.json](./332539-paradise-of-freedom.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
+| Paradise Sickness | 270769 | [270769-paradise-sickness.json](./270769-paradise-sickness.json) |
 | Paradise Story | 233761 | [233761-paradise-story.json](./233761-paradise-story.json) |
 | Paradise Tomb | 224560 | [224560-paradise-tomb.json](./224560-paradise-tomb.json) |
 | Paradise Up Above: Gold Label Edition | 311462 | [311462-paradise-up-above-gold-label-edition.json](./311462-paradise-up-above-gold-label-edition.json) |
@@ -2070,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixArk: Jade Elegance - A Theatrical Odyssey in the East | 291059 | [291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json](./291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json) |
 | Pixasso 2 | 165703 | [165703-pixasso-2.json](./165703-pixasso-2.json) |
 | Pixel Adventure: Exploration | 96005 | [96005-pixel-adventure-exploration.json](./96005-pixel-adventure-exploration.json) |
+| Pixel Art Academy: Learn Mode | 270752 | [270752-pixel-art-academy-learn-mode.json](./270752-pixel-art-academy-learn-mode.json) |
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
 | Pixel Artist | 220876 | [220876-pixel-artist.json](./220876-pixel-artist.json) |
 | Pixel Battle Royale | 113686 | [113686-pixel-battle-royale.json](./113686-pixel-battle-royale.json) |
@@ -3246,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porcuball | 96122 | [96122-porcuball.json](./96122-porcuball.json) |
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
 | Porkerpillar | 89209 | [89209-porkerpillar.json](./89209-porkerpillar.json) |
+| Porno Empire | 270786 | [270786-porno-empire.json](./270786-porno-empire.json) |
 | Porntris | 299467 | [299467-porntris.json](./299467-porntris.json) |
 | Porradaria Upgrade | 91973 | [91973-porradaria-upgrade.json](./91973-porradaria-upgrade.json) |
 | Porrasturvat: Stair Dismount | 93059 | [93059-porrasturvat-stair-dismount.json](./93059-porrasturvat-stair-dismount.json) |
