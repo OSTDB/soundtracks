@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoBlaster | 161898 | [161898-goblaster.json](./161898-goblaster.json) |
 | Goblet Grotto | 64354 | [64354-goblet-grotto.json](./64354-goblet-grotto.json) |
 | Goblet Tower | 287654 | [287654-goblet-tower.json](./287654-goblet-tower.json) |
+| Gobliiins5 | 249288 | [249288-gobliiins5.json](./249288-gobliiins5.json) |
 | Goblin Adventure: Free From Lore | 365163 | [365163-goblin-adventure-free-from-lore.json](./365163-goblin-adventure-free-from-lore.json) |
 | Goblin and Coins 2 | 117715 | [117715-goblin-and-coins-2.json](./117715-goblin-and-coins-2.json) |
 | Goblin and Coins II: The Lost Recipes | 275563 | [275563-goblin-and-coins-ii-the-lost-recipes.json](./275563-goblin-and-coins-ii-the-lost-recipes.json) |
@@ -1779,9 +1780,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Night, Peregrine | 222936 | [222936-good-night-peregrine.json](./222936-good-night-peregrine.json) |
 | Good Night, Rowan | 178564 | [178564-good-night-rowan.json](./178564-good-night-rowan.json) |
 | Good Pizza, Great Pizza | 87367 | [87367-good-pizza-great-pizza.json](./87367-good-pizza-great-pizza.json) |
+| Good Pizza, Great Pizza: Floral Nostalgia Set | 249302 | [249302-good-pizza-great-pizza-floral-nostalgia-set.json](./249302-good-pizza-great-pizza-floral-nostalgia-set.json) |
+| Good Pizza, Great Pizza: Orchid Dreams Set | 249303 | [249303-good-pizza-great-pizza-orchid-dreams-set.json](./249303-good-pizza-great-pizza-orchid-dreams-set.json) |
 | Good Pizza, Great Pizza: Summer Slices Set - Summer 2023 | 255980 | [255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json](./255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json) |
 | Good Pizza, Great Pizza: Taste of Rome Set - Chapter 5 | 266521 | [266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json](./266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json) |
 | Good Pizza, Great Pizza: Villa Vista Set - Chapter 5 | 266522 | [266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json](./266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json) |
+| Good Pizza, Great Pizza: Vintage Sunshine Set | 249304 | [249304-good-pizza-great-pizza-vintage-sunshine-set.json](./249304-good-pizza-great-pizza-vintage-sunshine-set.json) |
 | Good puzzle | 155651 | [155651-good-puzzle.json](./155651-good-puzzle.json) |
 | Good puzzle: Castles | 161364 | [161364-good-puzzle-castles.json](./161364-good-puzzle-castles.json) |
 | Good Soup | 381134 | [381134-good-soup.json](./381134-good-soup.json) |
