@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Bird | 312034 | [312034-happy-bird.json](./312034-happy-bird.json) |
 | Happy Bird Day | 275726 | [275726-happy-bird-day.json](./275726-happy-bird-day.json) |
+| Happy Birthday Pavera | 268011 | [268011-happy-birthday-pavera.json](./268011-happy-birthday-pavera.json) |
 | Happy Birthdays | 86771 | [86771-happy-birthdays.json](./86771-happy-birthdays.json) |
 | Happy Bones | 169394 | [169394-happy-bones.json](./169394-happy-bones.json) |
 | Happy Brain Puzzle | 208982 | [208982-happy-brain-puzzle.json](./208982-happy-brain-puzzle.json) |
@@ -1110,7 +1111,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helldivers 2: Devoid of Liberty | 412429 | [412429-helldivers-2-devoid-of-liberty.json](./412429-helldivers-2-devoid-of-liberty.json) |
 | Helldivers II: Super Citizen Edition | 267925 | [267925-helldivers-ii-super-citizen-edition.json](./267925-helldivers-ii-super-citizen-edition.json) |
 | Helldivers: A New Hell | 267932 | [267932-helldivers-a-new-hell.json](./267932-helldivers-a-new-hell.json) |
+| Helldivers: Defenders Pack | 267986 | [267986-helldivers-defenders-pack.json](./267986-helldivers-defenders-pack.json) |
 | Helldivers: Dive Harder | 267938 | [267938-helldivers-dive-harder.json](./267938-helldivers-dive-harder.json) |
+| Helldivers: Support Pack | 267988 | [267988-helldivers-support-pack.json](./267988-helldivers-support-pack.json) |
+| Helldivers: Turning Up the Heat | 267989 | [267989-helldivers-turning-up-the-heat.json](./267989-helldivers-turning-up-the-heat.json) |
 | Hellen's Gallery | 269290 | [269290-hellens-gallery.json](./269290-hellens-gallery.json) |
 | Hellenica | 26952 | [26952-hellenica.json](./26952-hellenica.json) |
 | HellEscape | 215349 | [215349-hellescape.json](./215349-hellescape.json) |
@@ -3250,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Turbo Boost | 292153 | [292153-hyper-turbo-boost.json](./292153-hyper-turbo-boost.json) |
 | Hyper V-Ball | 42609 | [42609-hyper-v-ball.json](./42609-hyper-v-ball.json) |
 | Hyper Wars: The Mega Firestorm | 109046 | [109046-hyper-wars-the-mega-firestorm.json](./109046-hyper-wars-the-mega-firestorm.json) |
+| Hyper! Danganronpa H20: Abandon All Hope | 267987 | [267987-hyper-danganronpa-h20-abandon-all-hope.json](./267987-hyper-danganronpa-h20-abandon-all-hope.json) |
 | Hyperblast! | 342612 | [342612-hyperblast.json](./342612-hyperblast.json) |
 | HyperBody | 292518 | [292518-hyperbody.json](./292518-hyperbody.json) |
 | Hyperbolica | 161510 | [161510-hyperbolica.json](./161510-hyperbolica.json) |
