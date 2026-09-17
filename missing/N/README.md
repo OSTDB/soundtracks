@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naemo | 385216 | [385216-naemo.json](./385216-naemo.json) |
 | Nagai | 386265 | [386265-nagai.json](./386265-nagai.json) |
 | Nagaisan | 316995 | [316995-nagaisan.json](./316995-nagaisan.json) |
+| Nagayami Nights | 286128 | [286128-nagayami-nights.json](./286128-nagayami-nights.json) |
 | Naheulbeuk's Dungeon Master: Steward Edition | 277029 | [277029-naheulbeuks-dungeon-master-steward-edition.json](./277029-naheulbeuks-dungeon-master-steward-edition.json) |
 | Nahi's Winter Holidate | 386736 | [386736-nahis-winter-holidate.json](./386736-nahis-winter-holidate.json) |
 | Naiad | 180277 | [180277-naiad.json](./180277-naiad.json) |
@@ -1856,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Battles | 205584 | [205584-nova-battles.json](./205584-nova-battles.json) |
 | Nova Chasers | 397094 | [397094-nova-chasers.json](./397094-nova-chasers.json) |
 | Nova City Original | 230270 | [230270-nova-city-original.json](./230270-nova-city-original.json) |
+| Nova Core Chaos | 286105 | [286105-nova-core-chaos.json](./286105-nova-core-chaos.json) |
 | Nova Dash | 256530 | [256530-nova-dash.json](./256530-nova-dash.json) |
 | Nova Empire | 98467 | [98467-nova-empire.json](./98467-nova-empire.json) |
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
