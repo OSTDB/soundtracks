@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above Eden | 400942 | [400942-above-eden.json](./400942-above-eden.json) |
 | Above the Snow | 349373 | [349373-above-the-snow.json](./349373-above-the-snow.json) |
 | Abra-cooking-dabra | 345039 | [345039-abra-cooking-dabra.json](./345039-abra-cooking-dabra.json) |
+| Abraca | 267482 | [267482-abraca.json](./267482-abraca.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
 | Abrakajumpa | 305944 | [305944-abrakajumpa.json](./305944-abrakajumpa.json) |
 | Abraxas | 293244 | [293244-abraxas.json](./293244-abraxas.json) |
@@ -576,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Bruce | 141228 | [141228-adventures-of-bruce.json](./141228-adventures-of-bruce.json) |
+| Adventures of Deliveryman | 267481 | [267481-adventures-of-deliveryman.json](./267481-adventures-of-deliveryman.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
@@ -1382,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone: Mnemophobia | 377076 | [377076-alone-mnemophobia.json](./377076-alone-mnemophobia.json) |
 | Alone? | 24926 | [24926-alone.json](./24926-alone.json) |
 | Alonecats | 293085 | [293085-alonecats.json](./293085-alonecats.json) |
+| AloneGuy | 267480 | [267480-aloneguy.json](./267480-aloneguy.json) |
 | Along Came a Dragonfly | 272356 | [272356-along-came-a-dragonfly.json](./272356-along-came-a-dragonfly.json) |
 | Along Came A Spider | 163364 | [163364-along-came-a-spider.json](./163364-along-came-a-spider.json) |
 | Along Came Treble | 313879 | [313879-along-came-treble.json](./313879-along-came-treble.json) |
@@ -1585,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambush in Sector 9 | 311279 | [311279-ambush-in-sector-9.json](./311279-ambush-in-sector-9.json) |
 | Ambush Tactics | 61604 | [61604-ambush-tactics.json](./61604-ambush-tactics.json) |
 | Ambush: Convoy Strike | 154559 | [154559-ambush-convoy-strike.json](./154559-ambush-convoy-strike.json) |
+| Ambusher | 267479 | [267479-ambusher.json](./267479-ambusher.json) |
 | Ambuuu | 329936 | [329936-ambuuu.json](./329936-ambuuu.json) |
 | Ame ni Negaeba: Wishin' in the Rain | 301601 | [301601-ame-ni-negaeba-wishin-in-the-rain.json](./301601-ame-ni-negaeba-wishin-in-the-rain.json) |
 | Ame no Marginal -Rain Marginal- | 35747 | [35747-ame-no-marginal-rain-marginal.json](./35747-ame-no-marginal-rain-marginal.json) |
@@ -2419,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aperture: Salt Mines | 284366 | [284366-aperture-salt-mines.json](./284366-aperture-salt-mines.json) |
 | Apes Warfare | 374123 | [374123-apes-warfare.json](./374123-apes-warfare.json) |
 | Apex | 5728 | [5728-apex.json](./5728-apex.json) |
+| Apex Heroines | 267483 | [267483-apex-heroines.json](./267483-apex-heroines.json) |
 | Apex Heroines: Character Outfit - Dark Maid | 309091 | [309091-apex-heroines-character-outfit-dark-maid.json](./309091-apex-heroines-character-outfit-dark-maid.json) |
 | Apex Heroines: Character Outfit - Flower Fairy | 309090 | [309090-apex-heroines-character-outfit-flower-fairy.json](./309090-apex-heroines-character-outfit-flower-fairy.json) |
 | Apex Heroines: Character Outfit - Ninja Leader | 309088 | [309088-apex-heroines-character-outfit-ninja-leader.json](./309088-apex-heroines-character-outfit-ninja-leader.json) |
@@ -4016,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn Walk | 63883 | [63883-autumn-walk.json](./63883-autumn-walk.json) |
 | Autumn with the Shiba Inu | 236292 | [236292-autumn-with-the-shiba-inu.json](./236292-autumn-with-the-shiba-inu.json) |
 | Autumn's Chorus | 114952 | [114952-autumns-chorus.json](./114952-autumns-chorus.json) |
+| Auxin | 267478 | [267478-auxin.json](./267478-auxin.json) |
 | Auxworld | 272306 | [272306-auxworld.json](./272306-auxworld.json) |
 | AV Bishoujo Senshi Girl Fighting | 48591 | [48591-av-bishoujo-senshi-girl-fighting.json](./48591-av-bishoujo-senshi-girl-fighting.json) |
 | AV Director Life! | 346669 | [346669-av-director-life.json](./346669-av-director-life.json) |
