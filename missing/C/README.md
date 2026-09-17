@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Rangers | 265694 | [265694-candy-rangers.json](./265694-candy-rangers.json) |
 | Candy Renovation | 301990 | [301990-candy-renovation.json](./301990-candy-renovation.json) |
 | Candy Scabs | 177508 | [177508-candy-scabs.json](./177508-candy-scabs.json) |
+| Candy Shake Cup | 283298 | [283298-candy-shake-cup.json](./283298-candy-shake-cup.json) |
 | Candy Shop Simulator: Sweet Start | 346682 | [346682-candy-shop-simulator-sweet-start.json](./346682-candy-shop-simulator-sweet-start.json) |
 | Candy Snake Master | 83573 | [83573-candy-snake-master.json](./83573-candy-snake-master.json) |
 | Candy Star Break | 96009 | [96009-candy-star-break.json](./96009-candy-star-break.json) |
@@ -910,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Commando | 157714 | [157714-casual-commando.json](./157714-casual-commando.json) |
 | Casual Crusade | 267355 | [267355-casual-crusade.json](./267355-casual-crusade.json) |
 | Casual Desktop Game | 301412 | [301412-casual-desktop-game.json](./301412-casual-desktop-game.json) |
+| Casual Fight | 283309 | [283309-casual-fight.json](./283309-casual-fight.json) |
 | Casual Fishing | 230842 | [230842-casual-fishing.json](./230842-casual-fishing.json) |
 | Casual Sport Series: Racket Sports Bundle | 396915 | [396915-casual-sport-series-racket-sports-bundle.json](./396915-casual-sport-series-racket-sports-bundle.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
@@ -3012,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
 | Coloring Book for Ladybug & Cat Noir | 96011 | [96011-coloring-book-for-ladybug-and-cat-noir.json](./96011-coloring-book-for-ladybug-and-cat-noir.json) |
+| Coloring Book Series: Aquarium | 283280 | [283280-coloring-book-series-aquarium.json](./283280-coloring-book-series-aquarium.json) |
 | Coloring Book: Bundle For Kids - 140 drawings | 284510 | [284510-coloring-book-bundle-for-kids-140-drawings.json](./284510-coloring-book-bundle-for-kids-140-drawings.json) |
 | Coloring Book: Complete Bundle - 410 drawings | 283191 | [283191-coloring-book-complete-bundle-410-drawings.json](./283191-coloring-book-complete-bundle-410-drawings.json) |
 | Coloring Book: Cute Edition | 332514 | [332514-coloring-book-cute-edition.json](./332514-coloring-book-cute-edition.json) |
@@ -3835,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Fight Ichiran | 172146 | [172146-counter-fight-ichiran.json](./172146-counter-fight-ichiran.json) |
 | Counter Operation Online | 169422 | [169422-counter-operation-online.json](./169422-counter-operation-online.json) |
 | Counter Ops: Blackout Assault | 269036 | [269036-counter-ops-blackout-assault.json](./269036-counter-ops-blackout-assault.json) |
+| Counter Shooter Strike Zone | 283283 | [283283-counter-shooter-strike-zone.json](./283283-counter-shooter-strike-zone.json) |
 | Counter Snipe | 265672 | [265672-counter-snipe.json](./265672-counter-snipe.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
