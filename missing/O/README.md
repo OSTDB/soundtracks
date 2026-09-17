@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ong-Bak: The Video Game | 65443 | [65443-ong-bak-the-video-game.json](./65443-ong-bak-the-video-game.json) |
 | Ongaku Tsukuuru: Kanadeeru - Convert Data | 234892 | [234892-ongaku-tsukuuru-kanadeeru-convert-data.json](./234892-ongaku-tsukuuru-kanadeeru-convert-data.json) |
 | Ongeki Bright | 206150 | [206150-ongeki-bright.json](./206150-ongeki-bright.json) |
+| Ongeki Bright Memory | 281570 | [281570-ongeki-bright-memory.json](./281570-ongeki-bright-memory.json) |
 | Ongeki Bright Memory Act.2 | 335953 | [335953-ongeki-bright-memory-act-2.json](./335953-ongeki-bright-memory-act-2.json) |
 | Ongeki Bright Memory Act.3 | 335954 | [335954-ongeki-bright-memory-act-3.json](./335954-ongeki-bright-memory-act-3.json) |
 | Oni | 365784 | [365784-oni.json](./365784-oni.json) |
@@ -1369,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out Zone | 93519 | [93519-out-zone.json](./93519-out-zone.json) |
 | Out, Damned Spot! | 112321 | [112321-out-damned-spot.json](./112321-out-damned-spot.json) |
 | Outatime | 215913 | [215913-outatime.json](./215913-outatime.json) |
+| Outback Joey | 281554 | [281554-outback-joey.json](./281554-outback-joey.json) |
 | Outbound: School Bus Adventures | 401492 | [401492-outbound-school-bus-adventures.json](./401492-outbound-school-bus-adventures.json) |
 | Outbreak | 26909 | [26909-outbreak.json](./26909-outbreak.json) |
 | Outbreak | 377163 | [377163-outbreak.json](./377163-outbreak.json) |
