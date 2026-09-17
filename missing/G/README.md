@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia's Blessing | 278735 | [278735-gaias-blessing.json](./278735-gaias-blessing.json) |
 | Gaia's Melody: Echoed Melodies | 74231 | [74231-gaias-melody-echoed-melodies.json](./74231-gaias-melody-echoed-melodies.json) |
 | Gaiadon: Eternal Quest | 318761 | [318761-gaiadon-eternal-quest.json](./318761-gaiadon-eternal-quest.json) |
+| Gaiares | 280324 | [280324-gaiares.json](./280324-gaiares.json) |
 | Gaiares | 93373 | [93373-gaiares.json](./93373-gaiares.json) |
 | Gaijin Troubles | 126630 | [126630-gaijin-troubles.json](./126630-gaijin-troubles.json) |
 | Gain | 33109 | [33109-gain.json](./33109-gain.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
 | Gone Exploring | 412409 | [412409-gone-exploring.json](./412409-gone-exploring.json) |
 | Gone Upstate | 152826 | [152826-gone-upstate.json](./152826-gone-upstate.json) |
+| Gong | 280356 | [280356-gong.json](./280356-gong.json) |
 | Gongbat | 183011 | [183011-gongbat.json](./183011-gongbat.json) |
 | Gonne Wrong | 151142 | [151142-gonne-wrong.json](./151142-gonne-wrong.json) |
 | Gonner2: The Full Ikk Edition | 154552 | [154552-gonner2-the-full-ikk-edition.json](./154552-gonner2-the-full-ikk-edition.json) |
@@ -1879,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo Sport: Digital Deluxe Edition | 138776 | [138776-gran-turismo-sport-digital-deluxe-edition.json](./138776-gran-turismo-sport-digital-deluxe-edition.json) |
 | Gran Turismo Sport: Spec II | 138777 | [138777-gran-turismo-sport-spec-ii.json](./138777-gran-turismo-sport-spec-ii.json) |
 | Gran Turismo Sport: Steelbook Edition | 138771 | [138771-gran-turismo-sport-steelbook-edition.json](./138771-gran-turismo-sport-steelbook-edition.json) |
+| Granada | 280323 | [280323-granada.json](./280323-granada.json) |
 | Granado Espada M | 197354 | [197354-granado-espada-m.json](./197354-granado-espada-m.json) |
 | Granblue Fantasy Versus Rising: Color Set 1 | 332820 | [332820-granblue-fantasy-versus-rising-color-set-1.json](./332820-granblue-fantasy-versus-rising-color-set-1.json) |
 | Granblue Fantasy Versus Rising: Color Set 2 | 332821 | [332821-granblue-fantasy-versus-rising-color-set-2.json](./332821-granblue-fantasy-versus-rising-color-set-2.json) |
