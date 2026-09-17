@@ -950,9 +950,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UzeMaze RA | 270419 | [270419-uzemaze-ra.json](./270419-uzemaze-ra.json) |
 | Uzo | 195761 | [195761-uzo.json](./195761-uzo.json) |
 | Uzzuzzu My Pet: Golf Dash - Amazing Edition | 328811 | [328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json](./328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json) |
+| Uzzuzzu My Pet: Golf Dash - Boo's Challenge | 283297 | [283297-uzzuzzu-my-pet-golf-dash-boos-challenge.json](./283297-uzzuzzu-my-pet-golf-dash-boos-challenge.json) |
 | Uzzuzzu My Pet: Golf Dash - Director's Cut | 328821 | [328821-uzzuzzu-my-pet-golf-dash-directors-cut.json](./328821-uzzuzzu-my-pet-golf-dash-directors-cut.json) |
 | Uzzuzzu My Pet: Golf Dash - GOTY Edition | 328812 | [328812-uzzuzzu-my-pet-golf-dash-goty-edition.json](./328812-uzzuzzu-my-pet-golf-dash-goty-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Happy Edition | 328813 | [328813-uzzuzzu-my-pet-golf-dash-happy-edition.json](./328813-uzzuzzu-my-pet-golf-dash-happy-edition.json) |
+| Uzzuzzu My Pet: Golf Dash - Kung's Challenge | 283272 | [283272-uzzuzzu-my-pet-golf-dash-kungs-challenge.json](./283272-uzzuzzu-my-pet-golf-dash-kungs-challenge.json) |
 | Uzzuzzu My Pet: Golf Dash - Legendary Edition | 328814 | [328814-uzzuzzu-my-pet-golf-dash-legendary-edition.json](./328814-uzzuzzu-my-pet-golf-dash-legendary-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Magnificent Edition | 328815 | [328815-uzzuzzu-my-pet-golf-dash-magnificent-edition.json](./328815-uzzuzzu-my-pet-golf-dash-magnificent-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Platinum Edition | 328816 | [328816-uzzuzzu-my-pet-golf-dash-platinum-edition.json](./328816-uzzuzzu-my-pet-golf-dash-platinum-edition.json) |
