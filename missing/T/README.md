@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Reloaded | 280223 | [280223-tap-tap-reloaded.json](./280223-tap-tap-reloaded.json) |
 | Tap Tap Revenge 3 | 67263 | [67263-tap-tap-revenge-3.json](./67263-tap-tap-revenge-3.json) |
 | Tap Tap Revenge: Metallica | 66049 | [66049-tap-tap-revenge-metallica.json](./66049-tap-tap-revenge-metallica.json) |
+| Tap Tap Trillionaire: Invest! | 261353 | [261353-tap-tap-trillionaire-invest.json](./261353-tap-tap-trillionaire-invest.json) |
 | Tap the Blocks | 214195 | [214195-tap-the-blocks.json](./214195-tap-the-blocks.json) |
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
 | Tap Titans 2 | 57168 | [57168-tap-titans-2.json](./57168-tap-titans-2.json) |
@@ -1405,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TetrotronVR | 114971 | [114971-tetrotronvr.json](./114971-tetrotronvr.json) |
 | Tetsu-pipe de Suika-wari | 220315 | [220315-tetsu-pipe-de-suika-wari.json](./220315-tetsu-pipe-de-suika-wari.json) |
 | Tetsudou Nippon! Real Pro Tokyo - Kanagawa! Tokyu Dentetsu-hen | 366913 | [366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json](./366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json) |
+| Tetsudou Nippon! Rosen Tabi EX: Seiryuu Unten - Hasegawa Tetsudou-hen | 261366 | [261366-tetsudou-nippon-rosen-tabi-ex-seiryuu-unten-hasegawa-tetsudou-hen.json](./261366-tetsudou-nippon-rosen-tabi-ex-seiryuu-unten-hasegawa-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Aizu Tetsudou‑hen | 221946 | [221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json](./221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Akechi Tetsudou-hen | 241971 | [241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json](./241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Kikansha Thomas-hen - Ooigawa Tetsudou wo Hashirou! | 221731 | [221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json](./221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json) |
@@ -3355,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sunshine: Rekindled | 150612 | [150612-the-last-sunshine-rekindled.json](./150612-the-last-sunshine-rekindled.json) |
 | The Last Tale | 403004 | [403004-the-last-tale.json](./403004-the-last-tale.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
+| The Last Three | 261337 | [261337-the-last-three.json](./261337-the-last-three.json) |
 | The Last Tiger | 295285 | [295285-the-last-tiger.json](./295285-the-last-tiger.json) |
 | The Last Train | 109625 | [109625-the-last-train.json](./109625-the-last-train.json) |
 | The Last Train: Baquedano | 343255 | [343255-the-last-train-baquedano.json](./343255-the-last-train-baquedano.json) |
@@ -4172,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quiz Quest | 400366 | [400366-the-quiz-quest.json](./400366-the-quiz-quest.json) |
 | The Rabbit and Tamaki are Taking a Break! | 286106 | [286106-the-rabbit-and-tamaki-are-taking-a-break.json](./286106-the-rabbit-and-tamaki-are-taking-a-break.json) |
 | The Rabbit and the Owl | 51612 | [51612-the-rabbit-and-the-owl.json](./51612-the-rabbit-and-the-owl.json) |
+| The Rabbit Crazy Adventure | 261331 | [261331-the-rabbit-crazy-adventure.json](./261331-the-rabbit-crazy-adventure.json) |
 | The Rabbit Hole Principle | 120352 | [120352-the-rabbit-hole-principle.json](./120352-the-rabbit-hole-principle.json) |
 | The Rabbit's Scroll | 204114 | [204114-the-rabbits-scroll.json](./204114-the-rabbits-scroll.json) |
 | The Rabbit's Shadow | 360074 | [360074-the-rabbits-shadow.json](./360074-the-rabbits-shadow.json) |
@@ -5342,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatrhythm: Final Bar Line - Octopath Traveler Pack | 354512 | [354512-theatrhythm-final-bar-line-octopath-traveler-pack.json](./354512-theatrhythm-final-bar-line-octopath-traveler-pack.json) |
 | Theatrhythm: Final Bar Line - SaGa Pack | 354542 | [354542-theatrhythm-final-bar-line-saga-pack.json](./354542-theatrhythm-final-bar-line-saga-pack.json) |
 | Theatrhythm: Final Bar Line - SaGa Pack Vol. 2 | 354541 | [354541-theatrhythm-final-bar-line-saga-pack-vol-2.json](./354541-theatrhythm-final-bar-line-saga-pack-vol-2.json) |
+| Theatrhythm: Final Bar Line - SaGa Pack Vol. 3 | 261340 | [261340-theatrhythm-final-bar-line-saga-pack-vol-3.json](./261340-theatrhythm-final-bar-line-saga-pack-vol-3.json) |
 | Theatrhythm: Final Bar Line - Season Pass Vol. 1 | 354545 | [354545-theatrhythm-final-bar-line-season-pass-vol-1.json](./354545-theatrhythm-final-bar-line-season-pass-vol-1.json) |
 | Theatrhythm: Final Bar Line - Season Pass Vol. 2 | 354546 | [354546-theatrhythm-final-bar-line-season-pass-vol-2.json](./354546-theatrhythm-final-bar-line-season-pass-vol-2.json) |
 | Theatrhythm: Final Bar Line - The World Ends with You Pack | 354521 | [354521-theatrhythm-final-bar-line-the-world-ends-with-you-pack.json](./354521-theatrhythm-final-bar-line-the-world-ends-with-you-pack.json) |
@@ -8638,6 +8643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
 | Turbo Tempest | 153953 | [153953-turbo-tempest.json](./153953-turbo-tempest.json) |
 | Turbo Trax | 12802 | [12802-turbo-trax.json](./12802-turbo-trax.json) |
+| Turbo Trot | 261354 | [261354-turbo-trot.json](./261354-turbo-trot.json) |
 | Turbo Truck Islands | 351719 | [351719-turbo-truck-islands.json](./351719-turbo-truck-islands.json) |
 | Turbo trucks | 44635 | [44635-turbo-trucks.json](./44635-turbo-trucks.json) |
 | Turbo Turtle Adventure | 49345 | [49345-turbo-turtle-adventure.json](./49345-turbo-turtle-adventure.json) |
