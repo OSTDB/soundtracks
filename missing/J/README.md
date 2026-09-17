@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Clavell's Shogun | 15473 | [15473-james-clavells-shogun.json](./15473-james-clavells-shogun.json) |
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
+| James' Fun House: Episode 1 | 276856 | [276856-james-fun-house-episode-1.json](./276856-james-fun-house-episode-1.json) |
 | Jamestown: Legend of the Lost Colony | 6278 | [6278-jamestown-legend-of-the-lost-colony.json](./6278-jamestown-legend-of-the-lost-colony.json) |
 | Jamie Quest | 327373 | [327373-jamie-quest.json](./327373-jamie-quest.json) |
 | Jammer | 67972 | [67972-jammer.json](./67972-jammer.json) |
@@ -428,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigoku Train | 314069 | [314069-jigoku-train.json](./314069-jigoku-train.json) |
 | Jigoku Unko | 151195 | [151195-jigoku-unko.json](./151195-jigoku-unko.json) |
 | Jigsaw | 7863 | [7863-jigsaw.json](./7863-jigsaw.json) |
+| Jigsaw Advent Calendar | 276845 | [276845-jigsaw-advent-calendar.json](./276845-jigsaw-advent-calendar.json) |
 | Jigsaw Chronicles: Heroes of Legend | 317217 | [317217-jigsaw-chronicles-heroes-of-legend.json](./317217-jigsaw-chronicles-heroes-of-legend.json) |
 | Jigsaw Classics | 188116 | [188116-jigsaw-classics.json](./188116-jigsaw-classics.json) |
 | Jigsaw Fun 3-in-1 Collection | 197341 | [197341-jigsaw-fun-3-in-1-collection.json](./197341-jigsaw-fun-3-in-1-collection.json) |
