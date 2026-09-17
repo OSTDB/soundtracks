@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T22:02:53.225Z",
-  "total_missing": 84521,
+  "generated_at": "2026-09-17T22:17:42.055Z",
+  "total_missing": 84571,
   "games": [
     {
       "igdb_id": 273453,
@@ -1726,6 +1726,11 @@
       "igdb_id": 377711,
       "game_name": "2001 A Space Oddysey",
       "file": "missing/0-9/377711-2001-a-space-oddysey.json"
+    },
+    {
+      "igdb_id": 238083,
+      "game_name": "2001: A Space Odyssey",
+      "file": "missing/0-9/238083-2001-a-space-odyssey.json"
     },
     {
       "igdb_id": 70419,
@@ -14653,6 +14658,11 @@
       "file": "missing/A/118421-anime-vampire-slayer.json"
     },
     {
+      "igdb_id": 238081,
+      "game_name": "Anime vs. Evil: Apocalypse",
+      "file": "missing/A/238081-anime-vs-evil-apocalypse.json"
+    },
+    {
       "igdb_id": 156668,
       "game_name": "Anime Wave Simulator",
       "file": "missing/A/156668-anime-wave-simulator.json"
@@ -22941,6 +22951,16 @@
       "igdb_id": 20510,
       "game_name": "Atelier Iris 2: The Azoth of Destiny",
       "file": "missing/A/20510-atelier-iris-2-the-azoth-of-destiny.json"
+    },
+    {
+      "igdb_id": 238049,
+      "game_name": "Atelier Lulua: The Scion of Arland - Additional Character: Meruru",
+      "file": "missing/A/238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json"
+    },
+    {
+      "igdb_id": 238050,
+      "game_name": "Atelier Lulua: The Scion of Arland - Additional Character: Totori",
+      "file": "missing/A/238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json"
     },
     {
       "igdb_id": 329384,
@@ -57453,6 +57473,11 @@
       "file": "missing/C/94248-champ-invaders.json"
     },
     {
+      "igdb_id": 238076,
+      "game_name": "Champ's Nightmare",
+      "file": "missing/C/238076-champs-nightmare.json"
+    },
+    {
       "igdb_id": 125958,
       "game_name": "Champion Base Ball Part-2",
       "file": "missing/C/125958-champion-base-ball-part-2.json"
@@ -64381,6 +64406,11 @@
       "igdb_id": 251665,
       "game_name": "Clumsy Rush: Ultimate Guys - Decorations Pack 12",
       "file": "missing/C/251665-clumsy-rush-ultimate-guys-decorations-pack-12.json"
+    },
+    {
+      "igdb_id": 238064,
+      "game_name": "Clumsy Rush: Ultimate Guys - Extended Edition",
+      "file": "missing/C/238064-clumsy-rush-ultimate-guys-extended-edition.json"
     },
     {
       "igdb_id": 241399,
@@ -72138,6 +72168,11 @@
       "file": "missing/C/172151-crazy-fun-ball.json"
     },
     {
+      "igdb_id": 238061,
+      "game_name": "Crazy Guy",
+      "file": "missing/C/238061-crazy-guy.json"
+    },
+    {
       "igdb_id": 310554,
       "game_name": "Crazy Halloween",
       "file": "missing/C/310554-crazy-halloween.json"
@@ -75631,6 +75666,11 @@
       "igdb_id": 23024,
       "game_name": "Cuboid",
       "file": "missing/C/23024-cuboid.json"
+    },
+    {
+      "igdb_id": 238065,
+      "game_name": "Cubosphere",
+      "file": "missing/C/238065-cubosphere.json"
     },
     {
       "igdb_id": 36000,
@@ -85713,6 +85753,11 @@
       "file": "missing/D/226748-delving-deep.json"
     },
     {
+      "igdb_id": 238078,
+      "game_name": "Delysium",
+      "file": "missing/D/238078-delysium.json"
+    },
+    {
       "igdb_id": 127369,
       "game_name": "DEM_Stage_Zero",
       "file": "missing/D/127369-dem-stage-zero.json"
@@ -90651,6 +90696,21 @@
       "igdb_id": 131614,
       "game_name": "Disc Room",
       "file": "missing/D/131614-disc-room.json"
+    },
+    {
+      "igdb_id": 238086,
+      "game_name": "Disc Saga Extra Edition: The Tower of Muda",
+      "file": "missing/D/238086-disc-saga-extra-edition-the-tower-of-muda.json"
+    },
+    {
+      "igdb_id": 238082,
+      "game_name": "Disc Saga: Burning Sword!",
+      "file": "missing/D/238082-disc-saga-burning-sword.json"
+    },
+    {
+      "igdb_id": 238087,
+      "game_name": "Disc Saga: Iraisha wa Monster?",
+      "file": "missing/D/238087-disc-saga-iraisha-wa-monster.json"
     },
     {
       "igdb_id": 266479,
@@ -107553,6 +107613,11 @@
       "file": "missing/E/238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json"
     },
     {
+      "igdb_id": 238068,
+      "game_name": "Enchanted in the Moonlight: Miyabi, Kyoga & Samon - Luck in Love: The Key to Happiness",
+      "file": "missing/E/238068-enchanted-in-the-moonlight-miyabi-kyoga-and-samon-luck-in-love-the-key-to-happiness.json"
+    },
+    {
       "igdb_id": 188003,
       "game_name": "Enchanted Kingdom: A Stranger's Venom",
       "file": "missing/E/188003-enchanted-kingdom-a-strangers-venom.json"
@@ -112003,6 +112068,11 @@
       "file": "missing/E/290414-evermerge-match-3-puzzle-game.json"
     },
     {
+      "igdb_id": 238080,
+      "game_name": "Evermoon",
+      "file": "missing/E/238080-evermoon.json"
+    },
+    {
       "igdb_id": 300714,
       "game_name": "Evernight",
       "file": "missing/E/300714-evernight.json"
@@ -112656,6 +112726,11 @@
       "igdb_id": 370144,
       "game_name": "Evolution",
       "file": "missing/E/370144-evolution.json"
+    },
+    {
+      "igdb_id": 238043,
+      "game_name": "Evolution & Climate Bundle",
+      "file": "missing/E/238043-evolution-and-climate-bundle.json"
     },
     {
       "igdb_id": 126610,
@@ -114883,6 +114958,11 @@
       "file": "missing/F/238217-faeria-game-all-dlc-bundle.json"
     },
     {
+      "igdb_id": 238045,
+      "game_name": "Faeria: Premium Edition",
+      "file": "missing/F/238045-faeria-premium-edition.json"
+    },
+    {
       "igdb_id": 10295,
       "game_name": "Faery: Legends of Avalon",
       "file": "missing/F/10295-faery-legends-of-avalon.json"
@@ -115143,6 +115223,11 @@
       "file": "missing/F/59427-fairy-tail-online.json"
     },
     {
+      "igdb_id": 238053,
+      "game_name": "Fairy Tail: Additional Dungeon - Rift in Time and Space",
+      "file": "missing/F/238053-fairy-tail-additional-dungeon-rift-in-time-and-space.json"
+    },
+    {
       "igdb_id": 313127,
       "game_name": "Fairy Tail: Beach Volleyball Havoc",
       "file": "missing/F/313127-fairy-tail-beach-volleyball-havoc.json"
@@ -115166,6 +115251,11 @@
       "igdb_id": 406081,
       "game_name": "Fairy Tale Fighters",
       "file": "missing/F/406081-fairy-tale-fighters.json"
+    },
+    {
+      "igdb_id": 238056,
+      "game_name": "Fairy Tale Puzzles: Magic Objects - Alice in Wonderland: The Tea Party",
+      "file": "missing/F/238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json"
     },
     {
       "igdb_id": 213964,
@@ -124008,6 +124098,11 @@
       "file": "missing/F/96014-flame-man.json"
     },
     {
+      "igdb_id": 238085,
+      "game_name": "Flame of Rebellion",
+      "file": "missing/F/238085-flame-of-rebellion.json"
+    },
+    {
       "igdb_id": 49412,
       "game_name": "Flame of Recca",
       "file": "missing/F/49412-flame-of-recca.json"
@@ -126576,6 +126671,11 @@
       "igdb_id": 147922,
       "game_name": "Food Truck Tycoon: Asian Cuisine",
       "file": "missing/F/147922-food-truck-tycoon-asian-cuisine.json"
+    },
+    {
+      "igdb_id": 238046,
+      "game_name": "Food Truck Tycoon: Asian Cuisine - Complete Edition",
+      "file": "missing/F/238046-food-truck-tycoon-asian-cuisine-complete-edition.json"
     },
     {
       "igdb_id": 247590,
@@ -152408,6 +152508,11 @@
       "file": "missing/H/152351-head-games.json"
     },
     {
+      "igdb_id": 238047,
+      "game_name": "Head Games and Tank Battle Retro",
+      "file": "missing/H/238047-head-games-and-tank-battle-retro.json"
+    },
+    {
       "igdb_id": 322797,
       "game_name": "Head over Heels",
       "file": "missing/H/322797-head-over-heels.json"
@@ -174243,6 +174348,11 @@
       "file": "missing/I/163915-island-raft-survival-2021-ocean-escape.json"
     },
     {
+      "igdb_id": 238039,
+      "game_name": "Island Saver: Dinosaur Island",
+      "file": "missing/I/238039-island-saver-dinosaur-island.json"
+    },
+    {
       "igdb_id": 31914,
       "game_name": "Island Simulator 2016",
       "file": "missing/I/31914-island-simulator-2016.json"
@@ -186091,6 +186201,16 @@
       "igdb_id": 238184,
       "game_name": "Kissed by the Baddest Bidder: Living Together - Shuichi",
       "file": "missing/K/238184-kissed-by-the-baddest-bidder-living-together-shuichi.json"
+    },
+    {
+      "igdb_id": 238067,
+      "game_name": "Kissed by the Baddest Bidder: Living Together Epilogue - Shuichi",
+      "file": "missing/K/238067-kissed-by-the-baddest-bidder-living-together-epilogue-shuichi.json"
+    },
+    {
+      "igdb_id": 238069,
+      "game_name": "Kissed by the Baddest Bidder: Scattered Cards Epilogue - Eisuke",
+      "file": "missing/K/238069-kissed-by-the-baddest-bidder-scattered-cards-epilogue-eisuke.json"
     },
     {
       "igdb_id": 238225,
@@ -245488,6 +245608,11 @@
       "file": "missing/O/302115-omega-knockout-punch-boxing.json"
     },
     {
+      "igdb_id": 238052,
+      "game_name": "Omega Labyrinth Life: Additional Dungeon - Mystic Omega Spot",
+      "file": "missing/O/238052-omega-labyrinth-life-additional-dungeon-mystic-omega-spot.json"
+    },
+    {
       "igdb_id": 166184,
       "game_name": "Omega Labyrinth Z: Limited Edition",
       "file": "missing/O/166184-omega-labyrinth-z-limited-edition.json"
@@ -249981,6 +250106,11 @@
       "igdb_id": 134016,
       "game_name": "Our Two Bedroom Story",
       "file": "missing/O/134016-our-two-bedroom-story.json"
+    },
+    {
+      "igdb_id": 238055,
+      "game_name": "Our Two Bedroom Story: After the Crisis - Minato",
+      "file": "missing/O/238055-our-two-bedroom-story-after-the-crisis-minato.json"
     },
     {
       "igdb_id": 238194,
@@ -275383,6 +275513,11 @@
       "file": "missing/P/237980-puzzle-book-adventure-pack.json"
     },
     {
+      "igdb_id": 238036,
+      "game_name": "Puzzle Book: Summer 2020",
+      "file": "missing/P/238036-puzzle-book-summer-2020.json"
+    },
+    {
       "igdb_id": 158143,
       "game_name": "Puzzle Bowling",
       "file": "missing/P/158143-puzzle-bowling.json"
@@ -284331,6 +284466,11 @@
       "igdb_id": 146300,
       "game_name": "Reksio: Miasto Sekretów",
       "file": "missing/R/146300-reksio-miasto-sekretow.json"
+    },
+    {
+      "igdb_id": 238063,
+      "game_name": "Rekt!: Double Flip",
+      "file": "missing/R/238063-rekt-double-flip.json"
     },
     {
       "igdb_id": 122329,
@@ -307398,6 +307538,16 @@
       "file": "missing/S/231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json"
     },
     {
+      "igdb_id": 238054,
+      "game_name": "Shin Megami Tensei V: A Goddess in Training",
+      "file": "missing/S/238054-shin-megami-tensei-v-a-goddess-in-training.json"
+    },
+    {
+      "igdb_id": 238058,
+      "game_name": "Shin Megami Tensei V: The Rage of a Queen",
+      "file": "missing/S/238058-shin-megami-tensei-v-the-rage-of-a-queen.json"
+    },
+    {
       "igdb_id": 315481,
       "game_name": "Shin Megami Tensei V: Vengeance - Mitama Dance of EXP",
       "file": "missing/S/315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json"
@@ -313211,6 +313361,11 @@
       "igdb_id": 117770,
       "game_name": "SKYHILL: Black Mist",
       "file": "missing/S/117770-skyhill-black-mist.json"
+    },
+    {
+      "igdb_id": 238062,
+      "game_name": "SkyIsland",
+      "file": "missing/S/238062-skyisland.json"
     },
     {
       "igdb_id": 47245,
@@ -325198,6 +325353,21 @@
       "file": "missing/S/215716-speedrunners-paradise-sky-is-the-limit.json"
     },
     {
+      "igdb_id": 238042,
+      "game_name": "SpeedRunners: FortKnight's Fast Faction",
+      "file": "missing/S/238042-speedrunners-fortknights-fast-faction.json"
+    },
+    {
+      "igdb_id": 238041,
+      "game_name": "SpeedRunners: Mr. Quick's Speedy Bunch",
+      "file": "missing/S/238041-speedrunners-mr-quicks-speedy-bunch.json"
+    },
+    {
+      "igdb_id": 238040,
+      "game_name": "SpeedRunners: Salem's Sprint Squad",
+      "file": "missing/S/238040-speedrunners-salems-sprint-squad.json"
+    },
+    {
       "igdb_id": 257438,
       "game_name": "Speedrunnerz",
       "file": "missing/S/257438-speedrunnerz.json"
@@ -326551,6 +326721,11 @@
       "igdb_id": 84893,
       "game_name": "Splashy Duck",
       "file": "missing/S/84893-splashy-duck.json"
+    },
+    {
+      "igdb_id": 238077,
+      "game_name": "Splat Death Salad",
+      "file": "missing/S/238077-splat-death-salad.json"
     },
     {
       "igdb_id": 47312,
@@ -330136,6 +330311,36 @@
       "igdb_id": 15377,
       "game_name": "Star-blaze",
       "file": "missing/S/15377-star-blaze.json"
+    },
+    {
+      "igdb_id": 238070,
+      "game_name": "Star-Crossed Myth: The Department of Punishments - Constellations of Love: Dui",
+      "file": "missing/S/238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json"
+    },
+    {
+      "igdb_id": 238072,
+      "game_name": "Star-Crossed Myth: The Department of Punishments - Constellations of Love: Ichthys",
+      "file": "missing/S/238072-star-crossed-myth-the-department-of-punishments-constellations-of-love-ichthys.json"
+    },
+    {
+      "igdb_id": 238074,
+      "game_name": "Star-Crossed Myth: The Department of Punishments - Constellations of Love: Scorpio",
+      "file": "missing/S/238074-star-crossed-myth-the-department-of-punishments-constellations-of-love-scorpio.json"
+    },
+    {
+      "igdb_id": 238071,
+      "game_name": "Star-Crossed Myth: The Department of Wishes - Constellations of Love: Huedhaut",
+      "file": "missing/S/238071-star-crossed-myth-the-department-of-wishes-constellations-of-love-huedhaut.json"
+    },
+    {
+      "igdb_id": 238073,
+      "game_name": "Star-Crossed Myth: The Department of Wishes - Constellations of Love: Leon",
+      "file": "missing/S/238073-star-crossed-myth-the-department-of-wishes-constellations-of-love-leon.json"
+    },
+    {
+      "igdb_id": 238075,
+      "game_name": "Star-Crossed Myth: The Department of Wishes - Constellations of Love: Teorus",
+      "file": "missing/S/238075-star-crossed-myth-the-department-of-wishes-constellations-of-love-teorus.json"
     },
     {
       "igdb_id": 90616,
@@ -352123,6 +352328,16 @@
       "file": "missing/T/169939-tennis-world-tour-caroline-garcia.json"
     },
     {
+      "igdb_id": 238060,
+      "game_name": "Tennis World Tour: Coach Sophie Walker",
+      "file": "missing/T/238060-tennis-world-tour-coach-sophie-walker.json"
+    },
+    {
+      "igdb_id": 238059,
+      "game_name": "Tennis World Tour: Denis Shapovalov",
+      "file": "missing/T/238059-tennis-world-tour-denis-shapovalov.json"
+    },
+    {
       "igdb_id": 169941,
       "game_name": "Tennis World Tour: Kristina Mladenovic",
       "file": "missing/T/169941-tennis-world-tour-kristina-mladenovic.json"
@@ -354826,6 +355041,11 @@
       "igdb_id": 329584,
       "game_name": "The Backrooms: Forsaken",
       "file": "missing/T/329584-the-backrooms-forsaken.json"
+    },
+    {
+      "igdb_id": 238066,
+      "game_name": "The Backrooms: Liminal Reality",
+      "file": "missing/T/238066-the-backrooms-liminal-reality.json"
     },
     {
       "igdb_id": 197312,
@@ -360106,6 +360326,11 @@
       "igdb_id": 171591,
       "game_name": "The Game of Life 2: Age of Giants World",
       "file": "missing/T/171591-the-game-of-life-2-age-of-giants-world.json"
+    },
+    {
+      "igdb_id": 238044,
+      "game_name": "The Game of Life 2: Complete Collection",
+      "file": "missing/T/238044-the-game-of-life-2-complete-collection.json"
     },
     {
       "igdb_id": 256002,
@@ -382881,6 +383106,21 @@
       "igdb_id": 27261,
       "game_name": "Touhou Kobuto V: Burst Battle",
       "file": "missing/T/27261-touhou-kobuto-v-burst-battle.json"
+    },
+    {
+      "igdb_id": 238038,
+      "game_name": "Touhou Kobuto V: Burst Battle - Chibi-Chara",
+      "file": "missing/T/238038-touhou-kobuto-v-burst-battle-chibi-chara.json"
+    },
+    {
+      "igdb_id": 238037,
+      "game_name": "Touhou Kobuto V: Burst Battle - Koishi Komeiji",
+      "file": "missing/T/238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json"
+    },
+    {
+      "igdb_id": 238035,
+      "game_name": "Touhou Kobuto V: Burst Battle - Youmu Konpaku",
+      "file": "missing/T/238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json"
     },
     {
       "igdb_id": 256898,
@@ -417443,6 +417683,11 @@
       "file": "missing/Y/254505-yodoyabashi-oyasama-club.json"
     },
     {
+      "igdb_id": 238048,
+      "game_name": "Yoga Master: Meditation Studio",
+      "file": "missing/Y/238048-yoga-master-meditation-studio.json"
+    },
+    {
       "igdb_id": 235220,
       "game_name": "Yoga Therapy",
       "file": "missing/Y/235220-yoga-therapy.json"
@@ -421461,6 +421706,11 @@
       "igdb_id": 220128,
       "game_name": "Zombie Hunter Video Game",
       "file": "missing/Z/220128-zombie-hunter-video-game.json"
+    },
+    {
+      "igdb_id": 238057,
+      "game_name": "Zombie Hunter: Crimson Hanbok",
+      "file": "missing/Z/238057-zombie-hunter-crimson-hanbok.json"
     },
     {
       "igdb_id": 159239,
