@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joustaposition | 181371 | [181371-joustaposition.json](./181371-joustaposition.json) |
 | Joustish | 251193 | [251193-joustish.json](./251193-joustish.json) |
 | JoustMania | 119743 | [119743-joustmania.json](./119743-joustmania.json) |
+| Joy Life | 259084 | [259084-joy-life.json](./259084-joy-life.json) |
 | Joy Life 3 | 273461 | [273461-joy-life-3.json](./273461-joy-life-3.json) |
 | Joy Life 4 | 336636 | [336636-joy-life-4.json](./336636-joy-life-4.json) |
 | Joy of Ping Pong | 230844 | [230844-joy-of-ping-pong.json](./230844-joy-of-ping-pong.json) |
@@ -822,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Jeroba | 301442 | [301442-jump-jeroba.json](./301442-jump-jeroba.json) |
 | Jump Jumpz | 111679 | [111679-jump-jumpz.json](./111679-jump-jumpz.json) |
 | Jump Kid | 217022 | [217022-jump-kid.json](./217022-jump-kid.json) |
+| Jump King Quest | 259095 | [259095-jump-king-quest.json](./259095-jump-king-quest.json) |
 | Jump King: Ghost of the Babe | 386222 | [386222-jump-king-ghost-of-the-babe.json](./386222-jump-king-ghost-of-the-babe.json) |
 | Jump King: New Babe+ | 386223 | [386223-jump-king-new-babe.json](./386223-jump-king-new-babe.json) |
 | Jump Like An Egyptian | 192978 | [192978-jump-like-an-egyptian.json](./192978-jump-like-an-egyptian.json) |
