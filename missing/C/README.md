@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards with Personalities Classic | 291620 | [291620-cards-with-personalities-classic.json](./291620-cards-with-personalities-classic.json) |
 | Cards, Universe & Everything | 248154 | [248154-cards-universe-and-everything.json](./248154-cards-universe-and-everything.json) |
 | Cards! MonkeyBox 2 | 174300 | [174300-cards-monkeybox-2.json](./174300-cards-monkeybox-2.json) |
+| CardShark | 239741 | [239741-cardshark.json](./239741-cardshark.json) |
 | CardShark Hearts | 83479 | [83479-cardshark-hearts.json](./83479-cardshark-hearts.json) |
 | Cardtographer | 330339 | [330339-cardtographer.json](./330339-cardtographer.json) |
 | CardWarden | 175409 | [175409-cardwarden.json](./175409-cardwarden.json) |
@@ -1164,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Hidden Around the World 2 | 306340 | [306340-cats-hidden-around-the-world-2.json](./306340-cats-hidden-around-the-world-2.json) |
 | Cats Hidden in Chang'an | 351716 | [351716-cats-hidden-in-changan.json](./351716-cats-hidden-in-changan.json) |
 | Cats Hidden in China | 272861 | [272861-cats-hidden-in-china.json](./272861-cats-hidden-in-china.json) |
+| Cats Hidden in Italy | 239729 | [239729-cats-hidden-in-italy.json](./239729-cats-hidden-in-italy.json) |
 | Cats Hidden in Paris: Extra Level | 255705 | [255705-cats-hidden-in-paris-extra-level.json](./255705-cats-hidden-in-paris-extra-level.json) |
 | Cats Hiding in 3D | 318209 | [318209-cats-hiding-in-3d.json](./318209-cats-hiding-in-3d.json) |
 | Cats Huddled Together | 277839 | [277839-cats-huddled-together.json](./277839-cats-huddled-together.json) |
@@ -4447,6 +4449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRE1M1: Greyvein River | 276475 | [276475-cre1m1-greyvein-river.json](./276475-cre1m1-greyvein-river.json) |
 | Creaks: Collector's Edition | 154553 | [154553-creaks-collectors-edition.json](./154553-creaks-collectors-edition.json) |
 | Cream and Cheese in Sonic the Hedgehog | 201287 | [201287-cream-and-cheese-in-sonic-the-hedgehog.json](./201287-cream-and-cheese-in-sonic-the-hedgehog.json) |
+| Cream War | 239746 | [239746-cream-war.json](./239746-cream-war.json) |
 | Creamare: The Game | 339338 | [339338-creamare-the-game.json](./339338-creamare-the-game.json) |
 | Create | 4778 | [4778-create.json](./4778-create.json) |
 | Create & Conquer | 305771 | [305771-create-and-conquer.json](./305771-create-and-conquer.json) |
@@ -4977,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ctrl CV | 101514 | [101514-ctrl-cv.json](./101514-ctrl-cv.json) |
 | Ctrl-U | 272863 | [272863-ctrl-u.json](./272863-ctrl-u.json) |
 | Ctrl.Alt.Deal | 291738 | [291738-ctrl-alt-deal.json](./291738-ctrl-alt-deal.json) |
+| CtrlC | 239735 | [239735-ctrlc.json](./239735-ctrlc.json) |
 | CTU: Counter Terrorism Unit | 34586 | [34586-ctu-counter-terrorism-unit.json](./34586-ctu-counter-terrorism-unit.json) |
 | Cuadradito y Circulito: El Videojuego | 133982 | [133982-cuadradito-y-circulito-el-videojuego.json](./133982-cuadradito-y-circulito-el-videojuego.json) |
 | Cuana | 227879 | [227879-cuana.json](./227879-cuana.json) |
