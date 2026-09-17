@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Slides: Care Bears! | 86842 | [86842-rainbow-slides-care-bears.json](./86842-rainbow-slides-care-bears.json) |
 | Rainbow Splash | 242792 | [242792-rainbow-splash.json](./242792-rainbow-splash.json) |
 | Rainbow Step | 67929 | [67929-rainbow-step.json](./67929-rainbow-step.json) |
+| Rainbow Warhead | 244859 | [244859-rainbow-warhead.json](./244859-rainbow-warhead.json) |
 | Rainbows, Toilets & Unicorns: Entertainment Corp. | 171607 | [171607-rainbows-toilets-and-unicorns-entertainment-corp.json](./171607-rainbows-toilets-and-unicorns-entertainment-corp.json) |
 | Rainbows, Toilets & Unicorns: Outraged & Offended | 171569 | [171569-rainbows-toilets-and-unicorns-outraged-and-offended.json](./171569-rainbows-toilets-and-unicorns-outraged-and-offended.json) |
 | Rainboy | 178082 | [178082-rainboy.json](./178082-rainboy.json) |
@@ -1805,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rezel Cross | 64955 | [64955-rezel-cross.json](./64955-rezel-cross.json) |
 | Rezident Evil: It Is Escape | 260137 | [260137-rezident-evil-it-is-escape.json](./260137-rezident-evil-it-is-escape.json) |
 | Rezon | 40186 | [40186-rezon.json](./40186-rezon.json) |
+| RFA Station | 244907 | [244907-rfa-station.json](./244907-rfa-station.json) |
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
