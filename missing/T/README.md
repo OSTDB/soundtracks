@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TBS Mini-Golf | 246098 | [246098-tbs-mini-golf.json](./246098-tbs-mini-golf.json) |
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
 | TCG Card Shop Simulator | 309862 | [309862-tcg-card-shop-simulator.json](./309862-tcg-card-shop-simulator.json) |
+| Tchia: Kepler Customization Pack | 243232 | [243232-tchia-kepler-customization-pack.json](./243232-tchia-kepler-customization-pack.json) |
 | TCQ | 216272 | [216272-tcq.json](./216272-tcq.json) |
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
 | TD3D | 371907 | [371907-td3d.json](./371907-td3d.json) |
@@ -1206,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenno | 290536 | [290536-tenno.json](./290536-tenno.json) |
 | Tenome | 205784 | [205784-tenome.json](./205784-tenome.json) |
 | Tenpin Bowling | 414338 | [414338-tenpin-bowling.json](./414338-tenpin-bowling.json) |
+| Tenrou Toshi | 243268 | [243268-tenrou-toshi.json](./243268-tenrou-toshi.json) |
 | Tenrow | 33321 | [33321-tenrow.json](./33321-tenrow.json) |
 | Tens and Twos | 175384 | [175384-tens-and-twos.json](./175384-tens-and-twos.json) |
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
@@ -3531,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Link's Awakening Redux | 219081 | [219081-the-legend-of-zelda-links-awakening-redux.json](./219081-the-legend-of-zelda-links-awakening-redux.json) |
 | The Legend of Zelda: Link's Shadow | 269867 | [269867-the-legend-of-zelda-links-shadow.json](./269867-the-legend-of-zelda-links-shadow.json) |
 | The Legend of Zelda: Majora's Mask 3D | 8593 | [8593-the-legend-of-zelda-majoras-mask-3d.json](./8593-the-legend-of-zelda-majoras-mask-3d.json) |
+| The Legend of Zelda: Mercuris' Chest | 243269 | [243269-the-legend-of-zelda-mercuris-chest.json](./243269-the-legend-of-zelda-mercuris-chest.json) |
 | The Legend of Zelda: Mystery of Solarus XD | 46620 | [46620-the-legend-of-zelda-mystery-of-solarus-xd.json](./46620-the-legend-of-zelda-mystery-of-solarus-xd.json) |
 | The Legend of Zelda: Netherforce Shards | 322785 | [322785-the-legend-of-zelda-netherforce-shards.json](./322785-the-legend-of-zelda-netherforce-shards.json) |
 | The Legend of Zelda: Nightmare | 255387 | [255387-the-legend-of-zelda-nightmare.json](./255387-the-legend-of-zelda-nightmare.json) |
@@ -7681,6 +7684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: S-Bahn Zentralschweiz - Luzern: Sursee Route | 195777 | [195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json](./195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json) |
 | Train Sim World 3: Amtrak's Acela | 237944 | [237944-train-sim-world-3-amtraks-acela.json](./237944-train-sim-world-3-amtraks-acela.json) |
 | Train Sim World 3: Birmingham Standard Edition | 231364 | [231364-train-sim-world-3-birmingham-standard-edition.json](./231364-train-sim-world-3-birmingham-standard-edition.json) |
+| Train Sim World 3: Loco Add-On Bundle 2 | 243233 | [243233-train-sim-world-3-loco-add-on-bundle-2.json](./243233-train-sim-world-3-loco-add-on-bundle-2.json) |
 | Train Sim World 3: Niddertalbahn - Bad Vilbel - Stockheim Route Add-On | 269329 | [269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
 | Train Sim World 3: Northeast Corridor - New York: Trenton | 237942 | [237942-train-sim-world-3-northeast-corridor-new-york-trenton.json](./237942-train-sim-world-3-northeast-corridor-new-york-trenton.json) |
 | Train Sim World 3: Peak Forest Railway - Ambergate - Chinley & Buxton | 273930 | [273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json](./273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json) |
