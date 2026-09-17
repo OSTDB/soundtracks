@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexaroma: Village Builder | 319598 | [319598-hexaroma-village-builder.json](./319598-hexaroma-village-builder.json) |
 | HexaTerra | 320564 | [320564-hexaterra.json](./320564-hexaterra.json) |
 | Hexavale | 360063 | [360063-hexavale.json](./360063-hexavale.json) |
+| Hexaverse Adventures | 249252 | [249252-hexaverse-adventures.json](./249252-hexaverse-adventures.json) |
 | HexaWars | 260151 | [260151-hexawars.json](./260151-hexawars.json) |
 | Hexaword | 386725 | [386725-hexaword.json](./386725-hexaword.json) |
 | Hexceed: Cogitare Pack | 224231 | [224231-hexceed-cogitare-pack.json](./224231-hexceed-cogitare-pack.json) |
