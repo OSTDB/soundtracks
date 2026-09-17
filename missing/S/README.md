@@ -5884,6 +5884,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spekel Sparks | 266237 | [266237-spekel-sparks.json](./266237-spekel-sparks.json) |
 | Spektakl: Banned Edition | 206954 | [206954-spektakl-banned-edition.json](./206954-spektakl-banned-edition.json) |
 | SpelBrawl | 374630 | [374630-spelbrawl.json](./374630-spelbrawl.json) |
+| Spelen met Bassie & Adriaan Deel 1 | 242644 | [242644-spelen-met-bassie-and-adriaan-deel-1.json](./242644-spelen-met-bassie-and-adriaan-deel-1.json) |
+| Spelen met Bassie & Adriaan Deel 2 | 242645 | [242645-spelen-met-bassie-and-adriaan-deel-2.json](./242645-spelen-met-bassie-and-adriaan-deel-2.json) |
 | Spell Blocks | 182968 | [182968-spell-blocks.json](./182968-spell-blocks.json) |
 | Spell Castle | 84181 | [84181-spell-castle.json](./84181-spell-castle.json) |
 | Spell Dash | 174320 | [174320-spell-dash.json](./174320-spell-dash.json) |
@@ -7720,6 +7722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Year 3 - Ingrid | 347694 | [347694-street-fighter-6-year-3-ingrid.json](./347694-street-fighter-6-year-3-ingrid.json) |
 | Street Fighter 6: Year 3 - Sagat | 347691 | [347691-street-fighter-6-year-3-sagat.json](./347691-street-fighter-6-year-3-sagat.json) |
 | Street Fighter 6: Year 3 Character Pass | 347670 | [347670-street-fighter-6-year-3-character-pass.json](./347670-street-fighter-6-year-3-character-pass.json) |
+| Street Fighter Alpha 3 | 242650 | [242650-street-fighter-alpha-3.json](./242650-street-fighter-alpha-3.json) |
 | Street Fighter Alpha 3 Upper | 219058 | [219058-street-fighter-alpha-3-upper.json](./219058-street-fighter-alpha-3-upper.json) |
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
 | Street Fighter Battle Combination | 55065 | [55065-street-fighter-battle-combination.json](./55065-street-fighter-battle-combination.json) |
@@ -7748,6 +7751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Season 1-3 Nostalgia Costume Pack | 343900 | [343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json](./343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json) |
 | Street Fighter x All Capcom | 55064 | [55064-street-fighter-x-all-capcom.json](./55064-street-fighter-x-all-capcom.json) |
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
+| Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
 | Street Football 2 | 268209 | [268209-street-football-2.json](./268209-street-football-2.json) |
 | Street Gang Football | 331343 | [331343-street-gang-football.json](./331343-street-gang-football.json) |
