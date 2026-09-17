@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramenbashi | 92513 | [92513-ramenbashi.json](./92513-ramenbashi.json) |
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
 | Ramming Turtleship: 1592 - The Imjin War | 390000 | [390000-ramming-turtleship-1592-the-imjin-war.json](./390000-ramming-turtleship-1592-the-imjin-war.json) |
+| Ramos Ruy no World Wide Soccer | 259652 | [259652-ramos-ruy-no-world-wide-soccer.json](./259652-ramos-ruy-no-world-wide-soccer.json) |
 | Ramp Bike Jumping | 215117 | [215117-ramp-bike-jumping.json](./215117-ramp-bike-jumping.json) |
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
@@ -587,6 +588,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray Attack | 148470 | [148470-ray-attack.json](./148470-ray-attack.json) |
 | Ray Eager | 126593 | [126593-ray-eager.json](./126593-ray-eager.json) |
 | Ray Gigant | 11743 | [11743-ray-gigant.json](./11743-ray-gigant.json) |
+| Ray Mohawk 2: Ray Wreaks Havoc! | 259660 | [259660-ray-mohawk-2-ray-wreaks-havoc.json](./259660-ray-mohawk-2-ray-wreaks-havoc.json) |
+| Ray Mohawk's Manic Monday | 259659 | [259659-ray-mohawks-manic-monday.json](./259659-ray-mohawks-manic-monday.json) |
 | Ray of Light | 105384 | [105384-ray-of-light.json](./105384-ray-of-light.json) |
 | Ray the Flying Squirrel in Sonic the Hedgehog | 198536 | [198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json](./198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json) |
 | Ray-Gun | 64969 | [64969-ray-gun.json](./64969-ray-gun.json) |
@@ -1055,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
 | Red Tide | 391177 | [391177-red-tide.json](./391177-red-tide.json) |
 | Red Tie Runner | 265720 | [265720-red-tie-runner.json](./265720-red-tie-runner.json) |
+| Red Titans | 259638 | [259638-red-titans.json](./259638-red-titans.json) |
 | Red Trees Rail. CO | 305925 | [305925-red-trees-rail-co.json](./305925-red-trees-rail-co.json) |
 | Red Wings: Coloring Planes | 192405 | [192405-red-wings-coloring-planes.json](./192405-red-wings-coloring-planes.json) |
 | Red Wolf | 378200 | [378200-red-wolf.json](./378200-red-wolf.json) |
