@@ -2556,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Mall Girl | 86826 | [86826-shopping-mall-girl.json](./86826-shopping-mall-girl.json) |
 | Shopping Mall Parking | 233757 | [233757-shopping-mall-parking.json](./233757-shopping-mall-parking.json) |
 | Shopping Mall Smart Taxi: Family Car Taxi Games | 104619 | [104619-shopping-mall-smart-taxi-family-car-taxi-games.json](./104619-shopping-mall-smart-taxi-family-car-taxi-games.json) |
+| Shopping Manager | 255761 | [255761-shopping-manager.json](./255761-shopping-manager.json) |
 | Shopping Spree | 349871 | [349871-shopping-spree.json](./349871-shopping-spree.json) |
 | Shore Doodle | 340373 | [340373-shore-doodle.json](./340373-shore-doodle.json) |
 | Short 'n Quick | 274203 | [274203-short-n-quick.json](./274203-short-n-quick.json) |
@@ -3717,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slippery ice | 177008 | [177008-slippery-ice.json](./177008-slippery-ice.json) |
 | Slippery Richard!: He's Taller Than My Husband | 225100 | [225100-slippery-richard-hes-taller-than-my-husband.json](./225100-slippery-richard-hes-taller-than-my-husband.json) |
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
+| Slippery Sid | 255769 | [255769-slippery-sid.json](./255769-slippery-sid.json) |
 | Slippy Slug | 34671 | [34671-slippy-slug.json](./34671-slippy-slug.json) |
 | Slippy the Frog | 258027 | [258027-slippy-the-frog.json](./258027-slippy-the-frog.json) |
 | SlipSlop | 119736 | [119736-slipslop.json](./119736-slipslop.json) |
@@ -3868,6 +3870,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash N' Crash | 367455 | [367455-smash-n-crash.json](./367455-smash-n-crash.json) |
 | Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
 | Smash Realm | 402941 | [402941-smash-realm.json](./402941-smash-realm.json) |
+| Smash Remix: Version 1.1.0 | 255783 | [255783-smash-remix-version-1-1-0.json](./255783-smash-remix-version-1-1-0.json) |
+| Smash Remix: Version 1.2.0 | 255784 | [255784-smash-remix-version-1-2-0.json](./255784-smash-remix-version-1-2-0.json) |
+| Smash Remix: Version 1.3.0 | 255786 | [255786-smash-remix-version-1-3-0.json](./255786-smash-remix-version-1-3-0.json) |
+| Smash Remix: Version 1.4.0 | 255787 | [255787-smash-remix-version-1-4-0.json](./255787-smash-remix-version-1-4-0.json) |
 | Smash Reversi | 167287 | [167287-smash-reversi.json](./167287-smash-reversi.json) |
 | Smash Rush | 127183 | [127183-smash-rush.json](./127183-smash-rush.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
@@ -9427,6 +9433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi girlfriend | 129718 | [129718-sushi-girlfriend.json](./129718-sushi-girlfriend.json) |
 | Sushi Gun | 181867 | [181867-sushi-gun.json](./181867-sushi-gun.json) |
 | Sushi on Wheels | 386292 | [386292-sushi-on-wheels.json](./386292-sushi-on-wheels.json) |
+| Sushi Sort | 255762 | [255762-sushi-sort.json](./255762-sushi-sort.json) |
 | Sushi Soul Universe | 264026 | [264026-sushi-soul-universe.json](./264026-sushi-soul-universe.json) |
 | Sushi Time!: Premium Edition | 241402 | [241402-sushi-time-premium-edition.json](./241402-sushi-time-premium-edition.json) |
 | Sushi vs. Remilia Scarlet | 206739 | [206739-sushi-vs-remilia-scarlet.json](./206739-sushi-vs-remilia-scarlet.json) |
