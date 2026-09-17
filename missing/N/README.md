@@ -2092,10 +2092,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyanco Project | 120984 | [120984-nyanco-project.json](./120984-nyanco-project.json) |
 | Nyanko Island | 299901 | [299901-nyanko-island.json](./299901-nyanko-island.json) |
 | Nyannyan Prowrestling | 267996 | [267996-nyannyan-prowrestling.json](./267996-nyannyan-prowrestling.json) |
+| Nyanpaya | 252219 | [252219-nyanpaya.json](./252219-nyanpaya.json) |
 | Nyanroo the Supercat | 139370 | [139370-nyanroo-the-supercat.json](./139370-nyanroo-the-supercat.json) |
 | Nyanzou & Kumakichi: Let's make a flower garden | 271841 | [271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json](./271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json) |
 | Nyasha Land of Elves | 116945 | [116945-nyasha-land-of-elves.json](./116945-nyasha-land-of-elves.json) |
 | Nyassembled! | 332979 | [332979-nyassembled.json](./332979-nyassembled.json) |
+| Nyctoban | 252204 | [252204-nyctoban.json](./252204-nyctoban.json) |
 | Nyctophilia | 34424 | [34424-nyctophilia.json](./34424-nyctophilia.json) |
 | Nyctophobia: Fear the Dark | 285444 | [285444-nyctophobia-fear-the-dark.json](./285444-nyctophobia-fear-the-dark.json) |
 | Nyheim | 30113 | [30113-nyheim.json](./30113-nyheim.json) |
