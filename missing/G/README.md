@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geomoth Boot Sequence | 289312 | [289312-geomoth-boot-sequence.json](./289312-geomoth-boot-sequence.json) |
 | Geon Cube | 50636 | [50636-geon-cube.json](./50636-geon-cube.json) |
 | Geon: Emotions | 20376 | [20376-geon-emotions.json](./20376-geon-emotions.json) |
+| Geophobia | 271307 | [271307-geophobia.json](./271307-geophobia.json) |
 | Geopogo Cities | 393468 | [393468-geopogo-cities.json](./393468-geopogo-cities.json) |
 | Geopolitique 1990 | 24915 | [24915-geopolitique-1990.json](./24915-geopolitique-1990.json) |
 | GeoQuiz | 143015 | [143015-geoquiz.json](./143015-geoquiz.json) |
