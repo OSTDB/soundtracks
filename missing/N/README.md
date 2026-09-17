@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K2 | 4029 | [4029-nba-2k2.json](./4029-nba-2k2.json) |
 | NBA 2K21: Mamba Forever Edition | 136398 | [136398-nba-2k21-mamba-forever-edition.json](./136398-nba-2k21-mamba-forever-edition.json) |
+| NBA 2K24: 25th Anniversary Edition | 265738 | [265738-nba-2k24-25th-anniversary-edition.json](./265738-nba-2k24-25th-anniversary-edition.json) |
 | NBA 2K25 | 308034 | [308034-nba-2k25.json](./308034-nba-2k25.json) |
 | NBA 2K25: All-Star Edition | 317248 | [317248-nba-2k25-all-star-edition.json](./317248-nba-2k25-all-star-edition.json) |
 | NBA 2K25: Tournament Edition | 331859 | [331859-nba-2k25-tournament-edition.json](./331859-nba-2k25-tournament-edition.json) |
@@ -984,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Stop | 87314 | [87314-next-stop.json](./87314-next-stop.json) |
 | Next Stop 3 | 115593 | [115593-next-stop-3.json](./115593-next-stop-3.json) |
 | Next Stop Mobile | 197855 | [197855-next-stop-mobile.json](./197855-next-stop-mobile.json) |
+| Nextbots In The Backrooms | 265729 | [265729-nextbots-in-the-backrooms.json](./265729-nextbots-in-the-backrooms.json) |
 | NextRev: Eibunpou Tettei Tokkun | 64944 | [64944-nextrev-eibunpou-tettei-tokkun.json](./64944-nextrev-eibunpou-tettei-tokkun.json) |
 | NextRev: FP Ginoukentei Shiken 2-Kyuu | 64941 | [64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json](./64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json) |
 | NextRev: FP Ginoukentei Shiken 3-Kyuu | 64940 | [64940-nextrev-fp-ginoukentei-shiken-3-kyuu.json](./64940-nextrev-fp-ginoukentei-shiken-3-kyuu.json) |
@@ -2041,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nutjitsu | 19966 | [19966-nutjitsu.json](./19966-nutjitsu.json) |
 | Nutjitsu: Reforged | 52645 | [52645-nutjitsu-reforged.json](./52645-nutjitsu-reforged.json) |
 | NutritionZ | 374725 | [374725-nutritionz.json](./374725-nutritionz.json) |
+| Nuts & Bolts Puzzle | 265749 | [265749-nuts-and-bolts-puzzle.json](./265749-nuts-and-bolts-puzzle.json) |
 | Nutty | 299170 | [299170-nutty.json](./299170-nutty.json) |
 | Nutz Revenge | 302942 | [302942-nutz-revenge.json](./302942-nutz-revenge.json) |
 | Nǚwáng | 407321 | [407321-nuwang.json](./407321-nuwang.json) |
