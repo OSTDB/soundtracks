@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handy Helper | 373108 | [373108-handy-helper.json](./373108-handy-helper.json) |
 | HandyCopter | 89959 | [89959-handycopter.json](./89959-handycopter.json) |
 | Haneda Girl | 222901 | [222901-haneda-girl.json](./222901-haneda-girl.json) |
+| Haneru no Tobira Wii: Kirigirisu | 266282 | [266282-haneru-no-tobira-wii-kirigirisu.json](./266282-haneru-no-tobira-wii-kirigirisu.json) |
 | Hanerutchi | 229961 | [229961-hanerutchi.json](./229961-hanerutchi.json) |
 | Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
 | Hang up Street | 333092 | [333092-hang-up-street.json](./333092-hang-up-street.json) |
@@ -1432,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
 | HenTris 2: Shemales | 111209 | [111209-hentris-2-shemales.json](./111209-hentris-2-shemales.json) |
 | Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
+| Hepo | 266318 | [266318-hepo.json](./266318-hepo.json) |
 | Her | 105347 | [105347-her.json](./105347-her.json) |
 | Her Apartment | 323898 | [323898-her-apartment.json](./323898-her-apartment.json) |
 | Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
