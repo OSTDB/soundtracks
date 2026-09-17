@@ -1706,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagon Defense | 147909 | [147909-hexagon-defense.json](./147909-hexagon-defense.json) |
 | Hexagon Hamlet | 183529 | [183529-hexagon-hamlet.json](./183529-hexagon-hamlet.json) |
 | Hexagon Heroes | 132272 | [132272-hexagon-heroes.json](./132272-hexagon-heroes.json) |
+| Hexagon Survivors | 249855 | [249855-hexagon-survivors.json](./249855-hexagon-survivors.json) |
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
 | Hexahedral | 314461 | [314461-hexahedral.json](./314461-hexahedral.json) |
 | Hexahedral Pathfinder | 108418 | [108418-hexahedral-pathfinder.json](./108418-hexahedral-pathfinder.json) |
@@ -3140,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
 | Hundra | 92962 | [92962-hundra.json](./92962-hundra.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
+| Hundred Acre Wood | 249881 | [249881-hundred-acre-wood.json](./249881-hundred-acre-wood.json) |
 | Hundred Chances | 171585 | [171585-hundred-chances.json](./171585-hundred-chances.json) |
 | Hundred Days | 120720 | [120720-hundred-days.json](./120720-hundred-days.json) |
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
