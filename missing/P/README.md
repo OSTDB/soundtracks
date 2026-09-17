@@ -1846,7 +1846,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Jam | 187479 | [187479-pinball-jam.json](./187479-pinball-jam.json) |
 | Pinball Lockdown | 133432 | [133432-pinball-lockdown.json](./133432-pinball-lockdown.json) |
 | Pinball M: Bethesda Pinball | 386717 | [386717-pinball-m-bethesda-pinball.json](./386717-pinball-m-bethesda-pinball.json) |
+| Pinball M: Chucky's Killer Pinball | 278537 | [278537-pinball-m-chuckys-killer-pinball.json](./278537-pinball-m-chuckys-killer-pinball.json) |
+| Pinball M: Dead by Daylight Pinball | 278536 | [278536-pinball-m-dead-by-daylight-pinball.json](./278536-pinball-m-dead-by-daylight-pinball.json) |
 | Pinball M: Duke Nukem's Big Shot Pinball | 276743 | [276743-pinball-m-duke-nukems-big-shot-pinball.json](./276743-pinball-m-duke-nukems-big-shot-pinball.json) |
+| Pinball M: The Thing Pinball | 278535 | [278535-pinball-m-the-thing-pinball.json](./278535-pinball-m-the-thing-pinball.json) |
 | Pinball Parlor | 31684 | [31684-pinball-parlor.json](./31684-pinball-parlor.json) |
 | Pinball Prelude | 15564 | [15564-pinball-prelude.json](./15564-pinball-prelude.json) |
 | Pinball Pulse: The Ancients Beckon | 67355 | [67355-pinball-pulse-the-ancients-beckon.json](./67355-pinball-pulse-the-ancients-beckon.json) |
@@ -3986,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Moonborn | 284904 | [284904-project-moonborn.json](./284904-project-moonborn.json) |
 | Project Morph | 211239 | [211239-project-morph.json](./211239-project-morph.json) |
 | Project MSfiX'D | 202415 | [202415-project-msfixd.json](./202415-project-msfixd.json) |
+| Project N.E.X.T | 278534 | [278534-project-n-e-x-t.json](./278534-project-n-e-x-t.json) |
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
 | Project Neon | 330134 | [330134-project-neon.json](./330134-project-neon.json) |
 | Project Neos | 406177 | [406177-project-neos.json](./406177-project-neos.json) |
