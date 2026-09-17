@@ -2404,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge 3 Mania | 234618 | [234618-merge-3-mania.json](./234618-merge-3-mania.json) |
 | Merge 5: 10x10 Color | 233518 | [233518-merge-5-10x10-color.json](./233518-merge-5-10x10-color.json) |
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
+| Merge Bistro | 248103 | [248103-merge-bistro.json](./248103-merge-bistro.json) |
 | Merge Circle | 262342 | [262342-merge-circle.json](./262342-merge-circle.json) |
 | Merge Circus | 285472 | [285472-merge-circus.json](./285472-merge-circus.json) |
 | Merge County | 212449 | [212449-merge-county.json](./212449-merge-county.json) |
@@ -2599,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Blasters | 199093 | [199093-meteor-blasters.json](./199093-meteor-blasters.json) |
 | Meteor Crush VR | 31901 | [31901-meteor-crush-vr.json](./31901-meteor-crush-vr.json) |
 | Meteor Genocide | 153994 | [153994-meteor-genocide.json](./153994-meteor-genocide.json) |
+| Meteor Hunt Idle | 248096 | [248096-meteor-hunt-idle.json](./248096-meteor-hunt-idle.json) |
 | Meteor Mission | 13736 | [13736-meteor-mission.json](./13736-meteor-mission.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
 | Meteor Storm | 319587 | [319587-meteor-storm.json](./319587-meteor-storm.json) |
@@ -5155,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
 | Mushroom Moonrise | 287780 | [287780-mushroom-moonrise.json](./287780-mushroom-moonrise.json) |
+| Mushroom Mountain | 248114 | [248114-mushroom-mountain.json](./248114-mushroom-mountain.json) |
 | Mushroom Pancakes | 321538 | [321538-mushroom-pancakes.json](./321538-mushroom-pancakes.json) |
 | Mushroom Picker Simulator | 149045 | [149045-mushroom-picker-simulator.json](./149045-mushroom-picker-simulator.json) |
 | Mushroom Towers | 179690 | [179690-mushroom-towers.json](./179690-mushroom-towers.json) |
@@ -5490,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Peterinary | 298301 | [298301-my-peterinary.json](./298301-my-peterinary.json) |
 | My Pets: Maze | 195183 | [195183-my-pets-maze.json](./195183-my-pets-maze.json) |
 | My Pirate Husbandos | 320766 | [320766-my-pirate-husbandos.json](./320766-my-pirate-husbandos.json) |
+| My Pizza Story | 248101 | [248101-my-pizza-story.json](./248101-my-pizza-story.json) |
 | My Pleasure: Season 3 | 270975 | [270975-my-pleasure-season-3.json](./270975-my-pleasure-season-3.json) |
 | My Plushy Shift | 324875 | [324875-my-plushy-shift.json](./324875-my-plushy-shift.json) |
 | My Princess Girlfriend | 228416 | [228416-my-princess-girlfriend.json](./228416-my-princess-girlfriend.json) |
