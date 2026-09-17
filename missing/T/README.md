@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Velocity | 11629 | [11629-terminal-velocity.json](./11629-terminal-velocity.json) |
 | Terminal Voltage | 279775 | [279775-terminal-voltage.json](./279775-terminal-voltage.json) |
 | Terminal VR | 127362 | [127362-terminal-vr.json](./127362-terminal-vr.json) |
+| Terminal22 | 279099 | [279099-terminal22.json](./279099-terminal22.json) |
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
 | Terminator | 208419 | [208419-terminator.json](./208419-terminator.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
@@ -1581,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amulet of AmunRuuuuuN | 157188 | [157188-the-amulet-of-amunruuuuun.json](./157188-the-amulet-of-amunruuuuun.json) |
 | The Anchorite | 325079 | [325079-the-anchorite.json](./325079-the-anchorite.json) |
 | The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
+| The Andesia Project | 279100 | [279100-the-andesia-project.json](./279100-the-andesia-project.json) |
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Animals of Farthing Wood | 364539 | [364539-the-animals-of-farthing-wood.json](./364539-the-animals-of-farthing-wood.json) |
@@ -2876,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heroic Legend of Eagarlnia: Expansion Pack | 199651 | [199651-the-heroic-legend-of-eagarlnia-expansion-pack.json](./199651-the-heroic-legend-of-eagarlnia-expansion-pack.json) |
 | The Hidden | 85437 | [85437-the-hidden.json](./85437-the-hidden.json) |
 | The High Tower | 373613 | [373613-the-high-tower.json](./373613-the-high-tower.json) |
+| The Hiker | 279102 | [279102-the-hiker.json](./279102-the-hiker.json) |
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
 | The History Channel: Civil War - Secret Missions | 47404 | [47404-the-history-channel-civil-war-secret-missions.json](./47404-the-history-channel-civil-war-secret-missions.json) |
 | The History Channel: Crusades - Quest for Power | 69799 | [69799-the-history-channel-crusades-quest-for-power.json](./69799-the-history-channel-crusades-quest-for-power.json) |
@@ -6466,6 +6469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toberu yo! Honoka-chan | 405509 | [405509-toberu-yo-honoka-chan.json](./405509-toberu-yo-honoka-chan.json) |
 | Tobia's Animal Farm | 301965 | [301965-tobias-animal-farm.json](./301965-tobias-animal-farm.json) |
 | Tobitaro | 391152 | [391152-tobitaro.json](./391152-tobitaro.json) |
+| Tobla: Divine Path | 279132 | [279132-tobla-divine-path.json](./279132-tobla-divine-path.json) |
 | Toby | 378190 | [378190-toby.json](./378190-toby.json) |
 | Toby's Topsy Tale | 293615 | [293615-tobys-topsy-tale.json](./293615-tobys-topsy-tale.json) |
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
@@ -7322,6 +7326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
 | Toz | 124200 | [124200-toz.json](./124200-toz.json) |
 | Trabi Racer | 305348 | [305348-trabi-racer.json](./305348-trabi-racer.json) |
+| Trace Hunters | 279101 | [279101-trace-hunters.json](./279101-trace-hunters.json) |
 | Trace of Time | 284337 | [284337-trace-of-time.json](./284337-trace-of-time.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
@@ -8582,6 +8587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight of the Gods | 223436 | [223436-twilight-of-the-gods.json](./223436-twilight-of-the-gods.json) |
 | Twilight Path | 109615 | [109615-twilight-path.json](./109615-twilight-path.json) |
 | Twilight Refrain | 63843 | [63843-twilight-refrain.json](./63843-twilight-refrain.json) |
+| Twilight Story: A Quiet House | 279095 | [279095-twilight-story-a-quiet-house.json](./279095-twilight-story-a-quiet-house.json) |
 | Twilight Syndrome Kyuumei-hen | 65454 | [65454-twilight-syndrome-kyuumei-hen.json](./65454-twilight-syndrome-kyuumei-hen.json) |
 | Twilight Syndrome Saikai | 65456 | [65456-twilight-syndrome-saikai.json](./65456-twilight-syndrome-saikai.json) |
 | Twilight Syndrome Tansaku-hen | 65452 | [65452-twilight-syndrome-tansaku-hen.json](./65452-twilight-syndrome-tansaku-hen.json) |
@@ -8618,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinkle Yohane | 405501 | [405501-twinkle-yohane.json](./405501-twinkle-yohane.json) |
 | Twinora | 126636 | [126636-twinora.json](./126636-twinora.json) |
 | Twins of Legacy: Elemental | 316850 | [316850-twins-of-legacy-elemental.json](./316850-twins-of-legacy-elemental.json) |
+| Twins of Olus | 279096 | [279096-twins-of-olus.json](./279096-twins-of-olus.json) |
 | Twinsen's Little Big Adventure Remastered 2 | 241953 | [241953-twinsens-little-big-adventure-remastered-2.json](./241953-twinsens-little-big-adventure-remastered-2.json) |
 | TwinWorld: Land of Vision | 72099 | [72099-twinworld-land-of-vision.json](./72099-twinworld-land-of-vision.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
