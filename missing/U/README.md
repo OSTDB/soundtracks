@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncanny Cat Golf | 323318 | [323318-uncanny-cat-golf.json](./323318-uncanny-cat-golf.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
 | Uncharted 3: Drake's Deception - Special Edition | 139922 | [139922-uncharted-3-drakes-deception-special-edition.json](./139922-uncharted-3-drakes-deception-special-edition.json) |
+| Uncharted 3: Multiplayer | 252195 | [252195-uncharted-3-multiplayer.json](./252195-uncharted-3-multiplayer.json) |
 | Uncharted Island | 208954 | [208954-uncharted-island.json](./208954-uncharted-island.json) |
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
 | Uncharted Sectors | 375254 | [375254-uncharted-sectors.json](./375254-uncharted-sectors.json) |
@@ -427,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Moon: Tsukiiro Ehon | 72682 | [72682-under-the-moon-tsukiiro-ehon.json](./72682-under-the-moon-tsukiiro-ehon.json) |
 | Under the Sand | 117364 | [117364-under-the-sand.json](./117364-under-the-sand.json) |
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
+| Under the Stars | 252224 | [252224-under-the-stars.json](./252224-under-the-stars.json) |
 | Under the Thorns | 304723 | [304723-under-the-thorns.json](./304723-under-the-thorns.json) |
 | Under the Witch: Beginnings | 267365 | [267365-under-the-witch-beginnings.json](./267365-under-the-witch-beginnings.json) |
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
@@ -508,6 +510,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Island | 223455 | [223455-underworld-island.json](./223455-underworld-island.json) |
 | Underworld Re: Card | 213050 | [213050-underworld-re-card.json](./213050-underworld-re-card.json) |
 | Underworld Tycoon | 348764 | [348764-underworld-tycoon.json](./348764-underworld-tycoon.json) |
+| Underworld Unfinished Business 1: Recruiting Demon Smalls | 252207 | [252207-underworld-unfinished-business-1-recruiting-demon-smalls.json](./252207-underworld-unfinished-business-1-recruiting-demon-smalls.json) |
+| Underworld Unfinished Business 2: Ghost Train at Castle Orr | 252218 | [252218-underworld-unfinished-business-2-ghost-train-at-castle-orr.json](./252218-underworld-unfinished-business-2-ghost-train-at-castle-orr.json) |
 | Underwurlde | 14588 | [14588-underwurlde.json](./14588-underwurlde.json) |
 | Undisputed | 146957 | [146957-undisputed.json](./146957-undisputed.json) |
 | Undisputed: Deluxe WBC Edition | 325656 | [325656-undisputed-deluxe-wbc-edition.json](./325656-undisputed-deluxe-wbc-edition.json) |
@@ -559,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnHumanize | 319011 | [319011-unhumanize.json](./319011-unhumanize.json) |
 | Uni | 145684 | [145684-uni.json](./145684-uni.json) |
 | Uni Ver Se | 185635 | [185635-uni-ver-se.json](./185635-uni-ver-se.json) |
+| Unibat | 252225 | [252225-unibat.json](./252225-unibat.json) |
 | Unicellular | 185602 | [185602-unicellular.json](./185602-unicellular.json) |
 | Unicorn | 223672 | [223672-unicorn.json](./223672-unicorn.json) |
 | Unicorn Academy: Island of Magic | 410966 | [410966-unicorn-academy-island-of-magic.json](./410966-unicorn-academy-island-of-magic.json) |
@@ -631,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe Size Comparison VR | 295281 | [295281-universe-size-comparison-vr.json](./295281-universe-size-comparison-vr.json) |
 | Universe Survivors | 236279 | [236279-universe-survivors.json](./236279-universe-survivors.json) |
 | Universe: Unknown | 73224 | [73224-universe-unknown.json](./73224-universe-unknown.json) |
+| University | 252205 | [252205-university.json](./252205-university.json) |
 | University Days: Season 1 | 303060 | [303060-university-days-season-1.json](./303060-university-days-season-1.json) |
 | University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
 | Univocity | 339916 | [339916-univocity.json](./339916-univocity.json) |
