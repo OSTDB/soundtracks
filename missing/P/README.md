@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragon Pioneers 2: Happy Southburghs | 310045 | [310045-paragon-pioneers-2-happy-southburghs.json](./310045-paragon-pioneers-2-happy-southburghs.json) |
 | Paragon Pioneers 2: Turn the Orc Table | 310050 | [310050-paragon-pioneers-2-turn-the-orc-table.json](./310050-paragon-pioneers-2-turn-the-orc-table.json) |
 | Paragon Sex A Doll | 356065 | [356065-paragon-sex-a-doll.json](./356065-paragon-sex-a-doll.json) |
+| Paraido | 265781 | [265781-paraido.json](./265781-paraido.json) |
 | Parallax | 271743 | [271743-parallax.json](./271743-parallax.json) |
 | Parallax | 28847 | [28847-parallax.json](./28847-parallax.json) |
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
@@ -898,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol Bundle | 150141 | [150141-paw-patrol-bundle.json](./150141-paw-patrol-bundle.json) |
 | Paw Patrol the Movie: Adventure City Calls | 152302 | [152302-paw-patrol-the-movie-adventure-city-calls.json](./152302-paw-patrol-the-movie-adventure-city-calls.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
+| Pawafuru Puroyakyu: Eikan Nine Crossroad | 265625 | [265625-pawafuru-puroyakyu-eikan-nine-crossroad.json](./265625-pawafuru-puroyakyu-eikan-nine-crossroad.json) |
 | Pawapuro Adventures | 396373 | [396373-pawapuro-adventures.json](./396373-pawapuro-adventures.json) |
 | Pawapuro Stadium | 63285 | [63285-pawapuro-stadium.json](./63285-pawapuro-stadium.json) |
 | Pawapuro-kun Pocket 12 | 229923 | [229923-pawapuro-kun-pocket-12.json](./229923-pawapuro-kun-pocket-12.json) |
@@ -1364,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pettson & Findus: Födelsedagskatten | 286110 | [286110-pettson-and-findus-fodelsedagskatten.json](./286110-pettson-and-findus-fodelsedagskatten.json) |
 | Pettson & Findus: Höndans och kattcirkus | 286109 | [286109-pettson-and-findus-hondans-och-kattcirkus.json](./286109-pettson-and-findus-hondans-och-kattcirkus.json) |
 | Pettson & Findus: Spökskrämmarmaskinen | 286108 | [286108-pettson-and-findus-spokskrammarmaskinen.json](./286108-pettson-and-findus-spokskrammarmaskinen.json) |
+| Pettson o Findus i Snickarbon | 265643 | [265643-pettson-o-findus-i-snickarbon.json](./265643-pettson-o-findus-i-snickarbon.json) |
 | Pettson o Findus: Julkalender | 286112 | [286112-pettson-o-findus-julkalender.json](./286112-pettson-o-findus-julkalender.json) |
 | Pettsons julspel | 286111 | [286111-pettsons-julspel.json](./286111-pettsons-julspel.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
@@ -1724,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PigMan | 93508 | [93508-pigman.json](./93508-pigman.json) |
 | Pigment | 377050 | [377050-pigment.json](./377050-pigment.json) |
 | Pigromance | 141202 | [141202-pigromance.json](./141202-pigromance.json) |
+| Pigs Can Fly | 265736 | [265736-pigs-can-fly.json](./265736-pigs-can-fly.json) |
 | Pigsaw: Human Abattoir | 272381 | [272381-pigsaw-human-abattoir.json](./272381-pigsaw-human-abattoir.json) |
 | Pigskin Punter! | 234336 | [234336-pigskin-punter.json](./234336-pigskin-punter.json) |
 | Pik's Epic Kirby Sprite Comics: Teh Game 2 | 246666 | [246666-piks-epic-kirby-sprite-comics-teh-game-2.json](./246666-piks-epic-kirby-sprite-comics-teh-game-2.json) |
@@ -2112,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack 2 | 377603 | [377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json](./377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Vacations Pack | 361226 | [361226-pixel-cross-stitch-color-by-number-vacations-pack.json](./361226-pixel-cross-stitch-color-by-number-vacations-pack.json) |
 | Pixel Cup Soccer 16 | 39001 | [39001-pixel-cup-soccer-16.json](./39001-pixel-cup-soccer-16.json) |
+| Pixel Dash | 265778 | [265778-pixel-dash.json](./265778-pixel-dash.json) |
 | Pixel Drifters | 234320 | [234320-pixel-drifters.json](./234320-pixel-drifters.json) |
 | Pixel Driver | 185656 | [185656-pixel-driver.json](./185656-pixel-driver.json) |
 | Pixel Dungeon RPG | 326616 | [326616-pixel-dungeon-rpg.json](./326616-pixel-dungeon-rpg.json) |
@@ -2526,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
 | Play for Love | 292008 | [292008-play-for-love.json](./292008-play-for-love.json) |
 | Play for Your Life | 55053 | [55053-play-for-your-life.json](./55053-play-for-your-life.json) |
+| Play Minigames with Reiko | 265771 | [265771-play-minigames-with-reiko.json](./265771-play-minigames-with-reiko.json) |
 | Play Nintendo: Paint-By-Number | 291049 | [291049-play-nintendo-paint-by-number.json](./291049-play-nintendo-paint-by-number.json) |
 | Play Nintendo: Puzzles | 291047 | [291047-play-nintendo-puzzles.json](./291047-play-nintendo-puzzles.json) |
 | Play Nintendo: Skill Quizzes | 328062 | [328062-play-nintendo-skill-quizzes.json](./328062-play-nintendo-skill-quizzes.json) |
@@ -3416,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Guy World | 339266 | [339266-power-guy-world.json](./339266-power-guy-world.json) |
 | Power Hands | 223982 | [223982-power-hands.json](./223982-power-hands.json) |
 | Power Hour | 11054 | [11054-power-hour.json](./11054-power-hour.json) |
+| Power Inc | 265747 | [265747-power-inc.json](./265747-power-inc.json) |
 | Power Instinct | 4476 | [4476-power-instinct.json](./4476-power-instinct.json) |
 | Power Instinct Legends | 39548 | [39548-power-instinct-legends.json](./39548-power-instinct-legends.json) |
 | Power Instinct Matrimelee | 39543 | [39543-power-instinct-matrimelee.json](./39543-power-instinct-matrimelee.json) |
@@ -4662,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Garage | 291615 | [291615-puzzle-garage.json](./291615-puzzle-garage.json) |
 | Puzzle Girls: Celia | 163913 | [163913-puzzle-girls-celia.json](./163913-puzzle-girls-celia.json) |
 | Puzzle Islands: Ancient & Modern - Bundle | 340743 | [340743-puzzle-islands-ancient-and-modern-bundle.json](./340743-puzzle-islands-ancient-and-modern-bundle.json) |
+| Puzzle Journey | 265708 | [265708-puzzle-journey.json](./265708-puzzle-journey.json) |
 | Puzzle Journey | 287783 | [287783-puzzle-journey.json](./287783-puzzle-journey.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
 | Puzzle Lights and Mushrooms 1000 | 334103 | [334103-puzzle-lights-and-mushrooms-1000.json](./334103-puzzle-lights-and-mushrooms-1000.json) |
