@@ -2508,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aperture Narbacular | 341038 | [341038-aperture-narbacular.json](./341038-aperture-narbacular.json) |
 | Aperture: Salt Mines | 284366 | [284366-aperture-salt-mines.json](./284366-aperture-salt-mines.json) |
 | Apes Warfare | 374123 | [374123-apes-warfare.json](./374123-apes-warfare.json) |
+| Apes.io | 240311 | [240311-apes-io.json](./240311-apes-io.json) |
 | Apex | 5728 | [5728-apex.json](./5728-apex.json) |
 | Apex Gun | 247038 | [247038-apex-gun.json](./247038-apex-gun.json) |
 | Apex Heroines | 267483 | [267483-apex-heroines.json](./267483-apex-heroines.json) |
@@ -3571,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
 | Assassins Unleashed: The Apocalypse | 296492 | [296492-assassins-unleashed-the-apocalypse.json](./296492-assassins-unleashed-the-apocalypse.json) |
 | Assault at Wounded Ankle | 350993 | [350993-assault-at-wounded-ankle.json](./350993-assault-at-wounded-ankle.json) |
+| Assault Bandit | 240347 | [240347-assault-bandit.json](./240347-assault-bandit.json) |
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
 | Assault Gunners HD Edition | 87854 | [87854-assault-gunners-hd-edition.json](./87854-assault-gunners-hd-edition.json) |
 | Assault Mayhem | 351607 | [351607-assault-mayhem.json](./351607-assault-mayhem.json) |
