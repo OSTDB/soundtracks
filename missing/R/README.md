@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
 | Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
 | Raging Justice | 85769 | [85769-raging-justice.json](./85769-raging-justice.json) |
+| Ragmonton | 238601 | [238601-ragmonton.json](./238601-ragmonton.json) |
 | Ragnagard | 40201 | [40201-ragnagard.json](./40201-ragnagard.json) |
 | Ragnania HD | 109711 | [109711-ragnania-hd.json](./109711-ragnania-hd.json) |
 | Ragnar | 352296 | [352296-ragnar.json](./352296-ragnar.json) |
@@ -1222,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regalia: Of Men and Monarchs - The Unending Grimoire | 84829 | [84829-regalia-of-men-and-monarchs-the-unending-grimoire.json](./84829-regalia-of-men-and-monarchs-the-unending-grimoire.json) |
 | Regalia: Royal Edition | 78118 | [78118-regalia-royal-edition.json](./78118-regalia-royal-edition.json) |
 | Regency Solitaire II | 237089 | [237089-regency-solitaire-ii.json](./237089-regency-solitaire-ii.json) |
+| Regenesis | 238620 | [238620-regenesis.json](./238620-regenesis.json) |
 | Reggie's Adventures: Part 1 - Escape From Paradise | 230502 | [230502-reggies-adventures-part-1-escape-from-paradise.json](./230502-reggies-adventures-part-1-escape-from-paradise.json) |
 | Reggor F. | 361722 | [361722-reggor-f.json](./361722-reggor-f.json) |
 | Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
@@ -2054,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rigel's Revenge | 55084 | [55084-rigels-revenge.json](./55084-rigels-revenge.json) |
 | Rigged Hammer | 247030 | [247030-rigged-hammer.json](./247030-rigged-hammer.json) |
 | Right and Down | 207494 | [207494-right-and-down.json](./207494-right-and-down.json) |
+| Right and Down and Dice | 238600 | [238600-right-and-down-and-dice.json](./238600-right-and-down-and-dice.json) |
 | Right and Down Double Bundle | 294855 | [294855-right-and-down-double-bundle.json](./294855-right-and-down-double-bundle.json) |
 | Right Swipes: Blast Date | 200735 | [200735-right-swipes-blast-date.json](./200735-right-swipes-blast-date.json) |
 | Righteous Kill | 209161 | [209161-righteous-kill.json](./209161-righteous-kill.json) |
