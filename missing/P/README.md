@@ -3872,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu: Greatest Nine 98 | 275140 | [275140-pro-yakyuu-greatest-nine-98.json](./275140-pro-yakyuu-greatest-nine-98.json) |
 | Pro-Mahjong Kiwame Next | 97873 | [97873-pro-mahjong-kiwame-next.json](./97873-pro-mahjong-kiwame-next.json) |
 | Probability 0 | 16739 | [16739-probability-0.json](./16739-probability-0.json) |
+| Probationary Girlfriend | 266319 | [266319-probationary-girlfriend.json](./266319-probationary-girlfriend.json) |
 | Probe One: The Transmitter | 24899 | [24899-probe-one-the-transmitter.json](./24899-probe-one-the-transmitter.json) |
 | Probe Team | 128600 | [128600-probe-team.json](./128600-probe-team.json) |
 | ProBee | 208376 | [208376-probee.json](./208376-probee.json) |
