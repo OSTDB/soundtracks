@@ -2623,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
 | Forever Drive | 246964 | [246964-forever-drive.json](./246964-forever-drive.json) |
 | Forever Growing Garden | 62158 | [62158-forever-growing-garden.json](./62158-forever-growing-garden.json) |
+| Forever Indy | 256924 | [256924-forever-indy.json](./256924-forever-indy.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
 | Forever Time | 342751 | [342751-forever-time.json](./342751-forever-time.json) |
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
@@ -2790,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Rogue Alias Pack | 305198 | [305198-fortnite-rogue-alias-pack.json](./305198-fortnite-rogue-alias-pack.json) |
 | Fortnite: Rogue Scout Pack | 369598 | [369598-fortnite-rogue-scout-pack.json](./369598-fortnite-rogue-scout-pack.json) |
 | Fortnite: Sapphire Hagiri Quest Pack | 254501 | [254501-fortnite-sapphire-hagiri-quest-pack.json](./254501-fortnite-sapphire-hagiri-quest-pack.json) |
+| Fortnite: Season 1 | 256925 | [256925-fortnite-season-1.json](./256925-fortnite-season-1.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | FortOfTheNight | 105341 | [105341-fortofthenight.json](./105341-fortofthenight.json) |
 | Fortress | 13715 | [13715-fortress.json](./13715-fortress.json) |
