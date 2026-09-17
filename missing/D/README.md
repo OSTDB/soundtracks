@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Elf | 51570 | [51570-dark-elf.json](./51570-dark-elf.json) |
 | Dark Energy | 285001 | [285001-dark-energy.json](./285001-dark-energy.json) |
 | Dark Engines | 398416 | [398416-dark-engines.json](./398416-dark-engines.json) |
+| Dark Eyed Angels | 260222 | [260222-dark-eyed-angels.json](./260222-dark-eyed-angels.json) |
 | Dark Eyes | 145629 | [145629-dark-eyes.json](./145629-dark-eyes.json) |
 | Dark Eyes: Millennium 2000 | 145632 | [145632-dark-eyes-millennium-2000.json](./145632-dark-eyes-millennium-2000.json) |
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
@@ -1086,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death and Tactics | 353364 | [353364-death-and-tactics.json](./353364-death-and-tactics.json) |
 | Death and Taxes | 126835 | [126835-death-and-taxes.json](./126835-death-and-taxes.json) |
 | Death Angel Trial | 284334 | [284334-death-angel-trial.json](./284334-death-angel-trial.json) |
+| Death Animal Parade | 260210 | [260210-death-animal-parade.json](./260210-death-animal-parade.json) |
 | Death at Sycamore Hall | 388250 | [388250-death-at-sycamore-hall.json](./388250-death-at-sycamore-hall.json) |
 | Death Becomes You: Yuri Onsen Vacation | 339370 | [339370-death-becomes-you-yuri-onsen-vacation.json](./339370-death-becomes-you-yuri-onsen-vacation.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
@@ -1141,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Note: Kira Game | 22388 | [22388-death-note-kira-game.json](./22388-death-note-kira-game.json) |
 | Death Note: Successors to L | 22389 | [22389-death-note-successors-to-l.json](./22389-death-note-successors-to-l.json) |
 | Death of desert | 115601 | [115601-death-of-desert.json](./115601-death-of-desert.json) |
+| Death of Eternity | 260212 | [260212-death-of-eternity.json](./260212-death-of-eternity.json) |
 | Death of the Artificer | 299727 | [299727-death-of-the-artificer.json](./299727-death-of-the-artificer.json) |
 | Death of the Augnob | 251198 | [251198-death-of-the-augnob.json](./251198-death-of-the-augnob.json) |
 | Death of the King | 314040 | [314040-death-of-the-king.json](./314040-death-of-the-king.json) |
@@ -2304,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Bird Playground | 124255 | [124255-digital-bird-playground.json](./124255-digital-bird-playground.json) |
 | Digital Circus Shooter | 276482 | [276482-digital-circus-shooter.json](./276482-digital-circus-shooter.json) |
 | Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
+| Digital City | 260209 | [260209-digital-city.json](./260209-digital-city.json) |
 | Digital Combat Simulator: Black Shark 2 | 65434 | [65434-digital-combat-simulator-black-shark-2.json](./65434-digital-combat-simulator-black-shark-2.json) |
 | Digital Dance Mix Vol. 1: Namie Amuro | 96091 | [96091-digital-dance-mix-vol-1-namie-amuro.json](./96091-digital-dance-mix-vol-1-namie-amuro.json) |
 | Digital Devil Saga: Avatar Tuner - A's Test Server | 136416 | [136416-digital-devil-saga-avatar-tuner-as-test-server.json](./136416-digital-devil-saga-avatar-tuner-as-test-server.json) |
@@ -4014,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadbone | 347786 | [347786-dreadbone.json](./347786-dreadbone.json) |
 | DreadBound | 382895 | [382895-dreadbound.json](./382895-dreadbound.json) |
 | Dreader | 176487 | [176487-dreader.json](./176487-dreader.json) |
+| DreadFall | 260241 | [260241-dreadfall.json](./260241-dreadfall.json) |
 | Dreadful Aurora | 297047 | [297047-dreadful-aurora.json](./297047-dreadful-aurora.json) |
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
 | DreadHaven: The Last Colony | 336597 | [336597-dreadhaven-the-last-colony.json](./336597-dreadhaven-the-last-colony.json) |
