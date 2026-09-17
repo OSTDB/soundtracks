@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math is Horror | 278542 | [278542-math-is-horror.json](./278542-math-is-horror.json) |
 | Math Man | 225625 | [225625-math-man.json](./225625-math-man.json) |
 | Math Munchers Deluxe | 57659 | [57659-math-munchers-deluxe.json](./57659-math-munchers-deluxe.json) |
+| Math Parkour | 241513 | [241513-math-parkour.json](./241513-math-parkour.json) |
 | Math Path | 391042 | [391042-math-path.json](./391042-math-path.json) |
 | Math Pixels | 294260 | [294260-math-pixels.json](./294260-math-pixels.json) |
 | Math Problem Challenge | 101616 | [101616-math-problem-challenge.json](./101616-math-problem-challenge.json) |
@@ -3439,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Factory | 226197 | [226197-mining-factory.json](./226197-mining-factory.json) |
 | Mining Mechs: Magnetic Mystery | 278988 | [278988-mining-mechs-magnetic-mystery.json](./278988-mining-mechs-magnetic-mystery.json) |
 | Mining Merchant | 364518 | [364518-mining-merchant.json](./364518-mining-merchant.json) |
+| Mining Simulator | 241512 | [241512-mining-simulator.json](./241512-mining-simulator.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
 | Minion Masters: Best Plan No Plan! | 330727 | [330727-minion-masters-best-plan-no-plan.json](./330727-minion-masters-best-plan-no-plan.json) |
 | Minion Masters: Charging Into Darkness | 330730 | [330730-minion-masters-charging-into-darkness.json](./330730-minion-masters-charging-into-darkness.json) |
@@ -4049,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
 | Monkey Knife Fight | 354407 | [354407-monkey-knife-fight.json](./354407-monkey-knife-fight.json) |
 | Monkey Labour | 65435 | [65435-monkey-labour.json](./65435-monkey-labour.json) |
+| Monkey Lander | 241474 | [241474-monkey-lander.json](./241474-monkey-lander.json) |
 | Monkey Lost | 367452 | [367452-monkey-lost.json](./367452-monkey-lost.json) |
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
 | Monkey Quest | 182970 | [182970-monkey-quest.json](./182970-monkey-quest.json) |
@@ -4600,6 +4603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat Trilogy | 199010 | [199010-mortal-kombat-trilogy.json](./199010-mortal-kombat-trilogy.json) |
 | Mortal Kombat Trilogy | 4121 | [4121-mortal-kombat-trilogy.json](./4121-mortal-kombat-trilogy.json) |
 | Mortal Kombat vs. DC Universe | 1617 | [1617-mortal-kombat-vs-dc-universe.json](./1617-mortal-kombat-vs-dc-universe.json) |
+| Mortal Kombat X | 241492 | [241492-mortal-kombat-x.json](./241492-mortal-kombat-x.json) |
 | Mortal Kombat X: Apocalypse Pack | 302667 | [302667-mortal-kombat-x-apocalypse-pack.json](./302667-mortal-kombat-x-apocalypse-pack.json) |
 | Mortal Kombat X: Blue Steel Sub-Zero | 304364 | [304364-mortal-kombat-x-blue-steel-sub-zero.json](./304364-mortal-kombat-x-blue-steel-sub-zero.json) |
 | Mortal Kombat X: Brazil Pack | 304366 | [304366-mortal-kombat-x-brazil-pack.json](./304366-mortal-kombat-x-brazil-pack.json) |
@@ -4660,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mossbound | 385219 | [385219-mossbound.json](./385219-mossbound.json) |
 | Mossroot | 250966 | [250966-mossroot.json](./250966-mossroot.json) |
 | Mossy Pixels | 270183 | [270183-mossy-pixels.json](./270183-mossy-pixels.json) |
+| Most Authentic Trench Warfare Simulator | 241511 | [241511-most-authentic-trench-warfare-simulator.json](./241511-most-authentic-trench-warfare-simulator.json) |
 | Most Correct Football Simulator | 118338 | [118338-most-correct-football-simulator.json](./118338-most-correct-football-simulator.json) |
 | Most Scuffed Golf | 409632 | [409632-most-scuffed-golf.json](./409632-most-scuffed-golf.json) |
 | Mostly Scared of Spiders | 115683 | [115683-mostly-scared-of-spiders.json](./115683-mostly-scared-of-spiders.json) |
@@ -4816,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain 78 | 338212 | [338212-mountain-78.json](./338212-mountain-78.json) |
 | Mountain Biker | 116402 | [116402-mountain-biker.json](./116402-mountain-biker.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
+| Mountain Madness | 241523 | [241523-mountain-madness.json](./241523-mountain-madness.json) |
 | Mountain Madness: Super Pro Skiing | 5685 | [5685-mountain-madness-super-pro-skiing.json](./5685-mountain-madness-super-pro-skiing.json) |
 | Mountain Maniac | 66104 | [66104-mountain-maniac.json](./66104-mountain-maniac.json) |
 | Mountain Maniac Xmas | 396423 | [396423-mountain-maniac-xmas.json](./396423-mountain-maniac-xmas.json) |
@@ -5304,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP: The Official Motocross Videogame Compact | 36113 | [36113-mxgp-the-official-motocross-videogame-compact.json](./36113-mxgp-the-official-motocross-videogame-compact.json) |
 | MXGP2: The Official Motocross Videogame | 20391 | [20391-mxgp2-the-official-motocross-videogame.json](./20391-mxgp2-the-official-motocross-videogame.json) |
 | Mxsimulator | 137035 | [137035-mxsimulator.json](./137035-mxsimulator.json) |
+| My 9 Swallows: Topstars League | 241525 | [241525-my-9-swallows-topstars-league.json](./241525-my-9-swallows-topstars-league.json) |
 | My Agent is a Futanari | 220676 | [220676-my-agent-is-a-futanari.json](./220676-my-agent-is-a-futanari.json) |
 | My Anima Boy | 278731 | [278731-my-anima-boy.json](./278731-my-anima-boy.json) |
 | My Animal Girlfriend | 228415 | [228415-my-animal-girlfriend.json](./228415-my-animal-girlfriend.json) |
