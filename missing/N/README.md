@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narabete Quiz Kotowaza Tsukurou | 251612 | [251612-narabete-quiz-kotowaza-tsukurou.json](./251612-narabete-quiz-kotowaza-tsukurou.json) |
 | Naraka Bladepoint: Playstation Plus Gift Pack S16 | 341001 | [341001-naraka-bladepoint-playstation-plus-gift-pack-s16.json](./341001-naraka-bladepoint-playstation-plus-gift-pack-s16.json) |
 | Narara Superboard: Hwansang Seoyugi | 145599 | [145599-narara-superboard-hwansang-seoyugi.json](./145599-narara-superboard-hwansang-seoyugi.json) |
+| Narava RPG | 277432 | [277432-narava-rpg.json](./277432-narava-rpg.json) |
 | Narborion by Night | 98479 | [98479-narborion-by-night.json](./98479-narborion-by-night.json) |
 | Narc | 307956 | [307956-narc.json](./307956-narc.json) |
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
@@ -1233,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Mines | 358858 | [358858-nightmare-mines.json](./358858-nightmare-mines.json) |
 | Nightmare Ned | 51225 | [51225-nightmare-ned.json](./51225-nightmare-ned.json) |
 | Nightmare Nursery | 183549 | [183549-nightmare-nursery.json](./183549-nightmare-nursery.json) |
+| Nightmare Nursery | 277430 | [277430-nightmare-nursery.json](./277430-nightmare-nursery.json) |
 | Nightmare of Decay | 195478 | [195478-nightmare-of-decay.json](./195478-nightmare-of-decay.json) |
 | Nightmare Of SilkenCore: Train Hell | 333570 | [333570-nightmare-of-silkencore-train-hell.json](./333570-nightmare-of-silkencore-train-hell.json) |
 | Nightmare on the Pacific | 216238 | [216238-nightmare-on-the-pacific.json](./216238-nightmare-on-the-pacific.json) |
