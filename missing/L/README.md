@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LongCat | 123539 | [123539-longcat.json](./123539-longcat.json) |
 | Longevity Yin and Yang | 375865 | [375865-longevity-yin-and-yang.json](./375865-longevity-yin-and-yang.json) |
 | Longeyed Proj. | 223429 | [223429-longeyed-proj.json](./223429-longeyed-proj.json) |
+| Longleaf Valley | 248097 | [248097-longleaf-valley.json](./248097-longleaf-valley.json) |
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
 | LonQ! Highland in DS: Puu Puu Seijin Arawaru!! Shukketsu Dai-service! Onara no Saiten SP | 269826 | [269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json](./269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json) |
 | Look At Me | 285564 | [285564-look-at-me.json](./285564-look-at-me.json) |
