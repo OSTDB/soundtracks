@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Serial Killer Incident | 99594 | [99594-zombie-serial-killer-incident.json](./99594-zombie-serial-killer-incident.json) |
 | Zombie Shooter | 16017 | [16017-zombie-shooter.json](./16017-zombie-shooter.json) |
 | Zombie Shooting Star | 209713 | [209713-zombie-shooting-star.json](./209713-zombie-shooting-star.json) |
+| Zombie Shot | 285581 | [285581-zombie-shot.json](./285581-zombie-shot.json) |
 | Zombie Slapper | 220648 | [220648-zombie-slapper.json](./220648-zombie-slapper.json) |
 | Zombie Slayer | 166713 | [166713-zombie-slayer.json](./166713-zombie-slayer.json) |
 | Zombie Smashers X2: Punx and Skins | 70923 | [70923-zombie-smashers-x2-punx-and-skins.json](./70923-zombie-smashers-x2-punx-and-skins.json) |
