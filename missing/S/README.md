@@ -279,6 +279,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salad Bar Tycoon: Expansion Pack 1 | 237972 | [237972-salad-bar-tycoon-expansion-pack-1.json](./237972-salad-bar-tycoon-expansion-pack-1.json) |
 | Salad Bar Tycoon: Expansion Pack 2 | 237973 | [237973-salad-bar-tycoon-expansion-pack-2.json](./237973-salad-bar-tycoon-expansion-pack-2.json) |
 | Salamander | 192397 | [192397-salamander.json](./192397-salamander.json) |
+| Salamander | 261902 | [261902-salamander.json](./261902-salamander.json) |
+| Salamander | 261903 | [261903-salamander.json](./261903-salamander.json) |
+| Salamander | 261904 | [261904-salamander.json](./261904-salamander.json) |
+| Salamander | 261905 | [261905-salamander.json](./261905-salamander.json) |
+| Salamander | 261906 | [261906-salamander.json](./261906-salamander.json) |
+| Salamander | 261907 | [261907-salamander.json](./261907-salamander.json) |
 | Sales Birdman | 345604 | [345604-sales-birdman.json](./345604-sales-birdman.json) |
 | Saliens | 104692 | [104692-saliens.json](./104692-saliens.json) |
 | Sally Acorn in Sonic the Hedgehog | 141883 | [141883-sally-acorn-in-sonic-the-hedgehog.json](./141883-sally-acorn-in-sonic-the-hedgehog.json) |
@@ -3325,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
 | Sky Goddess Remaking | 235187 | [235187-sky-goddess-remaking.json](./235187-sky-goddess-remaking.json) |
+| Sky Hex | 261862 | [261862-sky-hex.json](./261862-sky-hex.json) |
 | Sky Hunter | 75165 | [75165-sky-hunter.json](./75165-sky-hunter.json) |
 | Sky In Flames | 398483 | [398483-sky-in-flames.json](./398483-sky-in-flames.json) |
 | Sky Invaders | 346096 | [346096-sky-invaders.json](./346096-sky-invaders.json) |
