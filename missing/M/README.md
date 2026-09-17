@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem | 7066 | [7066-mayhem.json](./7066-mayhem.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
+| Mayhem Pantera | 271807 | [271807-mayhem-pantera.json](./271807-mayhem-pantera.json) |
 | Mayhem Triple | 34731 | [34731-mayhem-triple.json](./34731-mayhem-triple.json) |
 | Mayo Mayo | 321605 | [321605-mayo-mayo.json](./321605-mayo-mayo.json) |
 | Mayonez | 106538 | [106538-mayonez.json](./106538-mayonez.json) |
@@ -5699,3 +5700,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mytran Wars | 19202 | [19202-mytran-wars.json](./19202-mytran-wars.json) |
 | MyVegas Blackjack | 370751 | [370751-myvegas-blackjack.json](./370751-myvegas-blackjack.json) |
 | MyVegas Slots | 323168 | [323168-myvegas-slots.json](./323168-myvegas-slots.json) |
+| Myworld is Yourworld | 271802 | [271802-myworld-is-yourworld.json](./271802-myworld-is-yourworld.json) |
