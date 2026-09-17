@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Retro Shooter | 209668 | [209668-old-retro-shooter.json](./209668-old-retro-shooter.json) |
 | Old Salt | 165056 | [165056-old-salt.json](./165056-old-salt.json) |
 | Old School Racer | 91887 | [91887-old-school-racer.json](./91887-old-school-racer.json) |
+| Old School RPG | 253456 | [253456-old-school-rpg.json](./253456-old-school-rpg.json) |
 | Old Shadow | 232438 | [232438-old-shadow.json](./232438-old-shadow.json) |
 | Old Skool Classics | 93569 | [93569-old-skool-classics.json](./93569-old-skool-classics.json) |
 | Old Skool Racer | 156609 | [156609-old-skool-racer.json](./156609-old-skool-racer.json) |
@@ -533,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omoshiroi Moro | 259826 | [259826-omoshiroi-moro.json](./259826-omoshiroi-moro.json) |
 | OMSI 2: Aachen | 155135 | [155135-omsi-2-aachen.json](./155135-omsi-2-aachen.json) |
 | OMSI 2: Add-On - Man SL200 | 255076 | [255076-omsi-2-add-on-man-sl200.json](./255076-omsi-2-add-on-man-sl200.json) |
+| OMSI 2: Add-On Coachbus 303-Series | 253435 | [253435-omsi-2-add-on-coachbus-303-series.json](./253435-omsi-2-add-on-coachbus-303-series.json) |
 | OMSI 2: Add-on Zürich Tram Linie 11 | 306070 | [306070-omsi-2-add-on-zurich-tram-linie-11.json](./306070-omsi-2-add-on-zurich-tram-linie-11.json) |
 | OMSI 2: Bad Hügelsdorf 2020 | 155130 | [155130-omsi-2-bad-hugelsdorf-2020.json](./155130-omsi-2-bad-hugelsdorf-2020.json) |
 | OMSI 2: Berlin BRT | 155146 | [155146-omsi-2-berlin-brt.json](./155146-omsi-2-berlin-brt.json) |
