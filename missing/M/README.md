@@ -4571,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Cultivation Biography | 368504 | [368504-mortal-cultivation-biography.json](./368504-mortal-cultivation-biography.json) |
 | Mortal Fighter | 251837 | [251837-mortal-fighter.json](./251837-mortal-fighter.json) |
 | Mortal Glory | 119763 | [119763-mortal-glory.json](./119763-mortal-glory.json) |
+| Mortal Glory 2 | 235841 | [235841-mortal-glory-2.json](./235841-mortal-glory-2.json) |
 | Mortal Glory 2: Reign of Tyrants | 311996 | [311996-mortal-glory-2-reign-of-tyrants.json](./311996-mortal-glory-2-reign-of-tyrants.json) |
 | Mortal Hire | 295006 | [295006-mortal-hire.json](./295006-mortal-hire.json) |
 | Mortal Kombat | 220096 | [220096-mortal-kombat.json](./220096-mortal-kombat.json) |
