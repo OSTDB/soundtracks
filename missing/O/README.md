@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Inner Space | 69216 | [69216-operation-inner-space.json](./69216-operation-inner-space.json) |
 | Operation: Ops | 184651 | [184651-operation-ops.json](./184651-operation-ops.json) |
 | Operation: Outbreak Idle | 405539 | [405539-operation-outbreak-idle.json](./405539-operation-outbreak-idle.json) |
+| Operation: Polygon Storm | 239775 | [239775-operation-polygon-storm.json](./239775-operation-polygon-storm.json) |
 | Operation: Surface Takeover | 344365 | [344365-operation-surface-takeover.json](./344365-operation-surface-takeover.json) |
 | Operation: Thunder | 91403 | [91403-operation-thunder.json](./91403-operation-thunder.json) |
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
