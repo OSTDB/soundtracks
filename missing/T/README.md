@@ -4808,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing at the Window | 221750 | [221750-the-thing-at-the-window.json](./221750-the-thing-at-the-window.json) |
 | The Thing That Happened | 294284 | [294284-the-thing-that-happened.json](./294284-the-thing-that-happened.json) |
 | The Thing You Can't Defeat | 251239 | [251239-the-thing-you-cant-defeat.json](./251239-the-thing-you-cant-defeat.json) |
+| The Third Age | 264137 | [264137-the-third-age.json](./264137-the-third-age.json) |
 | The Third Pig | 337176 | [337176-the-third-pig.json](./337176-the-third-pig.json) |
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
 | The Three Decoders 1 - Riddle of the Ring | 58777 | [58777-the-three-decoders-1-riddle-of-the-ring.json](./58777-the-three-decoders-1-riddle-of-the-ring.json) |
@@ -7783,6 +7784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Shortline Railroad | 205547 | [205547-trainz-plus-shortline-railroad.json](./205547-trainz-plus-shortline-railroad.json) |
 | Trainz Plus: Swayfield Branch | 298150 | [298150-trainz-plus-swayfield-branch.json](./298150-trainz-plus-swayfield-branch.json) |
 | Trainz Plus: TE3-2068 | 205561 | [205561-trainz-plus-te3-2068.json](./205561-trainz-plus-te3-2068.json) |
+| Trainz Plus: Trainz Model Railroad - The Chuck Ewe Pharlie Railroad | 264116 | [264116-trainz-plus-trainz-model-railroad-the-chuck-ewe-pharlie-railroad.json](./264116-trainz-plus-trainz-model-railroad-the-chuck-ewe-pharlie-railroad.json) |
 | Trainz Plus: VR C Locomotive - RailFirst / CFCLA | 401630 | [401630-trainz-plus-vr-c-locomotive-railfirst-cfcla.json](./401630-trainz-plus-vr-c-locomotive-railfirst-cfcla.json) |
 | Trainz Railroad Simulator 2006: Routes Volume 1 | 206164 | [206164-trainz-railroad-simulator-2006-routes-volume-1.json](./206164-trainz-railroad-simulator-2006-routes-volume-1.json) |
 | Trainz Railroad Simulator 2006: Routes Volume 2 | 206165 | [206165-trainz-railroad-simulator-2006-routes-volume-2.json](./206165-trainz-railroad-simulator-2006-routes-volume-2.json) |
