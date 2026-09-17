@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Tantei Kibukawa Ryousuke Jikenbo Vol. 13 - Tasogare ha Ruri no Tsuioki | 279118 | [279118-g-mode-archives-tantei-kibukawa-ryousuke-jikenbo-vol-13-tasogare-ha-ruri-no-tsuioki.json](./279118-g-mode-archives-tantei-kibukawa-ryousuke-jikenbo-vol-13-tasogare-ha-ruri-no-tsuioki.json) |
 | G-Scramble | 260753 | [260753-g-scramble.json](./260753-g-scramble.json) |
 | G-ump | 260398 | [260398-g-ump.json](./260398-g-ump.json) |
+| G-Zero | 248762 | [248762-g-zero.json](./248762-g-zero.json) |
 | G-Zero World GP | 338830 | [338830-g-zero-world-gp.json](./338830-g-zero-world-gp.json) |
 | G-Zilla | 196271 | [196271-g-zilla.json](./196271-g-zilla.json) |
 | G:nom | 125389 | [125389-g-nom.json](./125389-g-nom.json) |
@@ -930,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gevaudan | 41106 | [41106-gevaudan.json](./41106-gevaudan.json) |
 | Gex 3: Deep Cover Gecko | 3505 | [3505-gex-3-deep-cover-gecko.json](./3505-gex-3-deep-cover-gecko.json) |
 | Gex 3: Deep Pocket Gecko | 49929 | [49929-gex-3-deep-pocket-gecko.json](./49929-gex-3-deep-pocket-gecko.json) |
+| Gex: Enter the Gecko | 248746 | [248746-gex-enter-the-gecko.json](./248746-gex-enter-the-gecko.json) |
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
 | GG Date Me | 178567 | [178567-gg-date-me.json](./178567-gg-date-me.json) |
 | GG Portrait: Pai-chan | 46602 | [46602-gg-portrait-pai-chan.json](./46602-gg-portrait-pai-chan.json) |
@@ -1820,6 +1822,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goombario and the Adventure of the Hot Lava Rocks | 328623 | [328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json](./328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json) |
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
 | Goonya Fighter: Jiggly Haptic Edition | 146316 | [146316-goonya-fighter-jiggly-haptic-edition.json](./146316-goonya-fighter-jiggly-haptic-edition.json) |
+| Goonya Monster: Additional Character (Buster) - Clione | 248720 | [248720-goonya-monster-additional-character-buster-clione.json](./248720-goonya-monster-additional-character-buster-clione.json) |
+| Goonya Monster: Additional Character (Buster) - Slug | 248721 | [248721-goonya-monster-additional-character-buster-slug.json](./248721-goonya-monster-additional-character-buster-slug.json) |
 | Goonya Monster: Battle Pass - Eternal Pass + Infinity Cookie | 301019 | [301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json](./301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json) |
 | Goop Snake | 364564 | [364564-goop-snake.json](./364564-goop-snake.json) |
 | GoopW | 274019 | [274019-goopw.json](./274019-goopw.json) |
