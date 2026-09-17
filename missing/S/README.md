@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratch the Ticket | 404220 | [404220-scratch-the-ticket.json](./404220-scratch-the-ticket.json) |
 | Scratch Wars | 139365 | [139365-scratch-wars.json](./139365-scratch-wars.json) |
 | Scratches | 11836 | [11836-scratches.json](./11836-scratches.json) |
+| Scream and Steel: Horror Story Shooter | 284493 | [284493-scream-and-steel-horror-story-shooter.json](./284493-scream-and-steel-horror-story-shooter.json) |
 | Scream Collector | 74450 | [74450-scream-collector.json](./74450-scream-collector.json) |
 | Scream Hero | 194000 | [194000-scream-hero.json](./194000-scream-hero.json) |
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
@@ -2464,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoppe Keep 2 | 68842 | [68842-shoppe-keep-2.json](./68842-shoppe-keep-2.json) |
 | Shopper's Paradise | 70404 | [70404-shoppers-paradise.json](./70404-shoppers-paradise.json) |
 | Shopping Cart Hero 2 | 388042 | [388042-shopping-cart-hero-2.json](./388042-shopping-cart-hero-2.json) |
+| Shopping Clutter 11: Magical Garden | 284469 | [284469-shopping-clutter-11-magical-garden.json](./284469-shopping-clutter-11-magical-garden.json) |
 | Shopping Clutter 12: Halloween at the Walkers | 341872 | [341872-shopping-clutter-12-halloween-at-the-walkers.json](./341872-shopping-clutter-12-halloween-at-the-walkers.json) |
 | Shopping Clutter 14: Winter Garden | 341874 | [341874-shopping-clutter-14-winter-garden.json](./341874-shopping-clutter-14-winter-garden.json) |
 | Shopping Clutter 15: Around the Campfire | 341870 | [341870-shopping-clutter-15-around-the-campfire.json](./341870-shopping-clutter-15-around-the-campfire.json) |
@@ -2754,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Scream 2 | 368512 | [368512-silent-scream-2.json](./368512-silent-scream-2.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
 | Silent Shadow | 123007 | [123007-silent-shadow.json](./123007-silent-shadow.json) |
+| Silent Sonata | 284483 | [284483-silent-sonata.json](./284483-silent-sonata.json) |
 | Silent space VR | 75765 | [75765-silent-space-vr.json](./75765-silent-space-vr.json) |
 | Silent Spirits | 383363 | [383363-silent-spirits.json](./383363-silent-spirits.json) |
 | Silent Steel | 73827 | [73827-silent-steel.json](./73827-silent-steel.json) |
@@ -5178,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Engineers: Ultimate Edition 2024 | 331850 | [331850-space-engineers-ultimate-edition-2024.json](./331850-space-engineers-ultimate-edition-2024.json) |
 | Space Escape | 89978 | [89978-space-escape.json](./89978-space-escape.json) |
 | Space Escape Obstacles | 202960 | [202960-space-escape-obstacles.json](./202960-space-escape-obstacles.json) |
+| Space Extractor: Galactic Alien Insect Control Invasion | 284492 | [284492-space-extractor-galactic-alien-insect-control-invasion.json](./284492-space-extractor-galactic-alien-insect-control-invasion.json) |
 | Space Fantasy Zone | 42007 | [42007-space-fantasy-zone.json](./42007-space-fantasy-zone.json) |
 | Space Fat: To the Core | 155655 | [155655-space-fat-to-the-core.json](./155655-space-fat-to-the-core.json) |
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
@@ -8001,6 +8005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Mall: Classic | 201244 | [201244-sunset-mall-classic.json](./201244-sunset-mall-classic.json) |
 | Sunset of Ate | 264611 | [264611-sunset-of-ate.json](./264611-sunset-of-ate.json) |
 | Sunset Overdrive | 3247 | [3247-sunset-overdrive.json](./3247-sunset-overdrive.json) |
+| Sunset Racer | 284485 | [284485-sunset-racer.json](./284485-sunset-racer.json) |
 | Sunset Riders | 321396 | [321396-sunset-riders.json](./321396-sunset-riders.json) |
 | Sunset Riders | 4370 | [4370-sunset-riders.json](./4370-sunset-riders.json) |
 | Sunset Street Ninja | 375943 | [375943-sunset-street-ninja.json](./375943-sunset-street-ninja.json) |
