@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Goblins | 220871 | [220871-japanese-goblins.json](./220871-japanese-goblins.json) |
 | Japanese Love | 349864 | [349864-japanese-love.json](./349864-japanese-love.json) |
 | Japanese Nekosama Escape: The Old Inn | 197921 | [197921-japanese-nekosama-escape-the-old-inn.json](./197921-japanese-nekosama-escape-the-old-inn.json) |
+| Japanese Nekosama Escape: The Sweets Shop | 251050 | [251050-japanese-nekosama-escape-the-sweets-shop.json](./251050-japanese-nekosama-escape-the-sweets-shop.json) |
 | Japanese Psycho | 340766 | [340766-japanese-psycho.json](./340766-japanese-psycho.json) |
 | Japanese Puzzle | 152874 | [152874-japanese-puzzle.json](./152874-japanese-puzzle.json) |
 | Japanese Rail Sim 3D: 5 types of trains | 147915 | [147915-japanese-rail-sim-3d-5-types-of-trains.json](./147915-japanese-rail-sim-3d-5-types-of-trains.json) |
