@@ -1567,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Company | 344435 | [344435-demolition-company.json](./344435-demolition-company.json) |
 | Demolition Company: Gold Edition | 23397 | [23397-demolition-company-gold-edition.json](./23397-demolition-company-gold-edition.json) |
 | Demolition Derby 4 | 200752 | [200752-demolition-derby-4.json](./200752-demolition-derby-4.json) |
+| Demolition Derby Multiplayer | 269087 | [269087-demolition-derby-multiplayer.json](./269087-demolition-derby-multiplayer.json) |
 | Demolition Engineer | 99660 | [99660-demolition-engineer.json](./99660-demolition-engineer.json) |
 | Demolition Girl | 26570 | [26570-demolition-girl.json](./26570-demolition-girl.json) |
 | Demolition Race | 192974 | [192974-demolition-race.json](./192974-demolition-race.json) |
@@ -4212,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
 | Drive to The Top | 411690 | [411690-drive-to-the-top.json](./411690-drive-to-the-top.json) |
 | Drive Your Car | 199629 | [199629-drive-your-car.json](./199629-drive-your-car.json) |
+| Drive Zone Online | 269096 | [269096-drive-zone-online.json](./269096-drive-zone-online.json) |
 | Driveby Gangster | 34452 | [34452-driveby-gangster.json](./34452-driveby-gangster.json) |
 | DriveCraft | 392909 | [392909-drivecraft.json](./392909-drivecraft.json) |
 | DriveCrazy | 151746 | [151746-drivecrazy.json](./151746-drivecrazy.json) |
