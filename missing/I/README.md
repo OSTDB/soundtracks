@@ -1588,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is this a Game yet? | 353312 | [353312-is-this-a-game-yet.json](./353312-is-this-a-game-yet.json) |
 | Is This a Game? | 367501 | [367501-is-this-a-game.json](./367501-is-this-a-game.json) |
 | Is This Even Chess? | 275350 | [275350-is-this-even-chess.json](./275350-is-this-even-chess.json) |
+| Is This Game Trying to Kill Me? | 275128 | [275128-is-this-game-trying-to-kill-me.json](./275128-is-this-game-trying-to-kill-me.json) |
 | Is this Game Trying to Kill Me? Preface | 305196 | [305196-is-this-game-trying-to-kill-me-preface.json](./305196-is-this-game-trying-to-kill-me-preface.json) |
 | Is This Weapon? | 245339 | [245339-is-this-weapon.json](./245339-is-this-weapon.json) |
 | Is Today Another Day? | 406797 | [406797-is-today-another-day.json](./406797-is-today-another-day.json) |
