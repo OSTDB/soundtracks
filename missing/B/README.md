@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bask: The Alchemist Frog | 338195 | [338195-bask-the-alchemist-frog.json](./338195-bask-the-alchemist-frog.json) |
 | Basket Bowling + | 47309 | [47309-basket-bowling.json](./47309-basket-bowling.json) |
 | Basket Legends | 188017 | [188017-basket-legends.json](./188017-basket-legends.json) |
+| Basket Zombie | 282137 | [282137-basket-zombie.json](./282137-basket-zombie.json) |
 | Basketball | 131516 | [131516-basketball.json](./131516-basketball.json) |
 | Basketball | 131531 | [131531-basketball.json](./131531-basketball.json) |
 | Basketball | 347704 | [347704-basketball.json](./347704-basketball.json) |
@@ -2415,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Star | 319571 | [319571-black-star.json](./319571-black-star.json) |
 | Black Stone: Magic & Steel | 5750 | [5750-black-stone-magic-and-steel.json](./5750-black-stone-magic-and-steel.json) |
 | Black Sun | 380004 | [380004-black-sun.json](./380004-black-sun.json) |
+| Black Survival: Return to Lumia | 282115 | [282115-black-survival-return-to-lumia.json](./282115-black-survival-return-to-lumia.json) |
 | Black Swan: Collector's Edition | 196315 | [196315-black-swan-collectors-edition.json](./196315-black-swan-collectors-edition.json) |
 | Black Tower | 58824 | [58824-black-tower.json](./58824-black-tower.json) |
 | Black Viper | 14311 | [14311-black-viper.json](./14311-black-viper.json) |
@@ -4704,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buy Sell | 374158 | [374158-buy-sell.json](./374158-buy-sell.json) |
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
 | Buzz Cut Simulation | 277313 | [277313-buzz-cut-simulation.json](./277313-buzz-cut-simulation.json) |
+| Buzz Lightyear of Star Command | 282150 | [282150-buzz-lightyear-of-star-command.json](./282150-buzz-lightyear-of-star-command.json) |
 | Buzz Off, Buddy | 383521 | [383521-buzz-off-buddy.json](./383521-buzz-off-buddy.json) |
 | Buzz or Die | 295233 | [295233-buzz-or-die.json](./295233-buzz-or-die.json) |
 | Buzz! Brain Bender | 23267 | [23267-buzz-brain-bender.json](./23267-buzz-brain-bender.json) |
