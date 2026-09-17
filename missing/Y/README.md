@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yì Shìjiè Wúlítóu Shēnghuó 2 | 367429 | [367429-yi-shijie-wulitou-shenghuo-2.json](./367429-yi-shijie-wulitou-shenghuo-2.json) |
 | Yie Ar Kung-Fu | 18170 | [18170-yie-ar-kung-fu.json](./18170-yie-ar-kung-fu.json) |
 | Yie Ar Kung-Fu | 239171 | [239171-yie-ar-kung-fu.json](./239171-yie-ar-kung-fu.json) |
+| Yihongyuan | 236947 | [236947-yihongyuan.json](./236947-yihongyuan.json) |
 | Yiki Action RPG | 117692 | [117692-yiki-action-rpg.json](./117692-yiki-action-rpg.json) |
 | Yin-Yang Labyrinth | 301600 | [301600-yin-yang-labyrinth.json](./301600-yin-yang-labyrinth.json) |
 | Yin-Yang Ping-Pong | 309883 | [309883-yin-yang-ping-pong.json](./309883-yin-yang-ping-pong.json) |
