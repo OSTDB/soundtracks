@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser | 322581 | [322581-laser.json](./322581-laser.json) |
 | Laser Arena | 9060 | [9060-laser-arena.json](./9060-laser-arena.json) |
 | Laser Blaster | 58252 | [58252-laser-blaster.json](./58252-laser-blaster.json) |
+| Laser Brain Puzzle: Classic Logic Arcade | 251045 | [251045-laser-brain-puzzle-classic-logic-arcade.json](./251045-laser-brain-puzzle-classic-logic-arcade.json) |
 | Laser Cannon 3 | 207814 | [207814-laser-cannon-3.json](./207814-laser-cannon-3.json) |
 | Laser Cat Craft | 244803 | [244803-laser-cat-craft.json](./244803-laser-cat-craft.json) |
 | Laser Circle | 312180 | [312180-laser-circle.json](./312180-laser-circle.json) |
@@ -2277,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
 | Louis Charles in the Louvre | 360640 | [360640-louis-charles-in-the-louvre.json](./360640-louis-charles-in-the-louvre.json) |
+| Louloudi Asteri: Save the Solar System | 251004 | [251004-louloudi-asteri-save-the-solar-system.json](./251004-louloudi-asteri-save-the-solar-system.json) |
 | Lovanium: The Rising Suns | 265633 | [265633-lovanium-the-rising-suns.json](./265633-lovanium-the-rising-suns.json) |
 | Love 2 Torokko | 143667 | [143667-love-2-torokko.json](./143667-love-2-torokko.json) |
 | Love Accident | 186829 | [186829-love-accident.json](./186829-love-accident.json) |
