@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Merge Inc | 374661 | [374661-weed-merge-inc.json](./374661-weed-merge-inc.json) |
 | Weed Shop | 374627 | [374627-weed-shop.json](./374627-weed-shop.json) |
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
+| Weedcraft Inc & Moonshine Inc: Risky Business Bundle | 261334 | [261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json](./261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json) |
 | Weekend Drive | 109019 | [109019-weekend-drive.json](./109019-weekend-drive.json) |
 | Weekend Solitaire: Railway | 386124 | [386124-weekend-solitaire-railway.json](./386124-weekend-solitaire-railway.json) |
 | Weekend Solitaire: Voyage | 386140 | [386140-weekend-solitaire-voyage.json](./386140-weekend-solitaire-voyage.json) |
@@ -1391,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Wolf | 81013 | [81013-wild-wolf.json](./81013-wild-wolf.json) |
 | Wild Wolf Simulator 3D | 200662 | [200662-wild-wolf-simulator-3d.json](./200662-wild-wolf-simulator-3d.json) |
 | Wild world | 150629 | [150629-wild-world.json](./150629-wild-world.json) |
+| Wildagotchi: Virtual Pet | 261344 | [261344-wildagotchi-virtual-pet.json](./261344-wildagotchi-virtual-pet.json) |
 | Wildagotchi: Virtual Pet - Deluxe Edition | 277304 | [277304-wildagotchi-virtual-pet-deluxe-edition.json](./277304-wildagotchi-virtual-pet-deluxe-edition.json) |
 | Wildaria | 322197 | [322197-wildaria.json](./322197-wildaria.json) |
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
@@ -1771,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards & Warriors | 80498 | [80498-wizards-and-warriors.json](./80498-wizards-and-warriors.json) |
 | Wizards & Warriors III: Kuros - Visions of Power | 48092 | [48092-wizards-and-warriors-iii-kuros-visions-of-power.json](./48092-wizards-and-warriors-iii-kuros-visions-of-power.json) |
 | Wizards and Warlords | 30132 | [30132-wizards-and-warlords.json](./30132-wizards-and-warlords.json) |
+| Wizards Legacy: Nightmare Park Manager Simulator | 261345 | [261345-wizards-legacy-nightmare-park-manager-simulator.json](./261345-wizards-legacy-nightmare-park-manager-simulator.json) |
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
 | Wizards' Clash | 35738 | [35738-wizards-clash.json](./35738-wizards-clash.json) |
 | WizardWare | 400983 | [400983-wizardware.json](./400983-wizardware.json) |
@@ -2321,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Reloaded | 1017 | [1017-worms-reloaded.json](./1017-worms-reloaded.json) |
 | Worms Reloaded: Puzzle Pack | 163430 | [163430-worms-reloaded-puzzle-pack.json](./163430-worms-reloaded-puzzle-pack.json) |
 | Worms Revolution: Customization Pack | 225085 | [225085-worms-revolution-customization-pack.json](./225085-worms-revolution-customization-pack.json) |
+| Worms Rumble: Action All-Stars Pack | 261333 | [261333-worms-rumble-action-all-stars-pack.json](./261333-worms-rumble-action-all-stars-pack.json) |
 | Worms Rumble: Bank Heist Double Pack | 225086 | [225086-worms-rumble-bank-heist-double-pack.json](./225086-worms-rumble-bank-heist-double-pack.json) |
 | Worms Rumble: Captain & Shark Double Pack | 225087 | [225087-worms-rumble-captain-and-shark-double-pack.json](./225087-worms-rumble-captain-and-shark-double-pack.json) |
 | Worms Rumble: Honor & Death Pack | 225089 | [225089-worms-rumble-honor-and-death-pack.json](./225089-worms-rumble-honor-and-death-pack.json) |
@@ -2413,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrong Door | 320958 | [320958-wrong-door.json](./320958-wrong-door.json) |
 | Wrong Floor | 177032 | [177032-wrong-floor.json](./177032-wrong-floor.json) |
 | Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
+| Wroom Wroom Puzzles | 261343 | [261343-wroom-wroom-puzzles.json](./261343-wroom-wroom-puzzles.json) |
 | Wroth | 271744 | [271744-wroth.json](./271744-wroth.json) |
 | WSC Real 08: World Snooker Championship | 5292 | [5292-wsc-real-08-world-snooker-championship.json](./5292-wsc-real-08-world-snooker-championship.json) |
 | WSOP | 93572 | [93572-wsop.json](./93572-wsop.json) |
