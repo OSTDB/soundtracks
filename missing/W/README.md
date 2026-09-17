@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Wolf: Treasure Hunter 2 | 273382 | [273382-white-wolf-treasure-hunter-2.json](./273382-white-wolf-treasure-hunter-2.json) |
 | WhiteJill | 355572 | [355572-whitejill.json](./355572-whitejill.json) |
 | Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
+| Whiteout Survival | 240884 | [240884-whiteout-survival.json](./240884-whiteout-survival.json) |
 | Whiteverse: No Country for Old Men | 121690 | [121690-whiteverse-no-country-for-old-men.json](./121690-whiteverse-no-country-for-old-men.json) |
 | WhiteWash | 370774 | [370774-whitewash.json](./370774-whitewash.json) |
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
@@ -1587,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Eleven: Pro Evolution Soccer 2007 | 43233 | [43233-winning-eleven-pro-evolution-soccer-2007.json](./43233-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Hearts: Wrestling Otome | 244882 | [244882-winning-hearts-wrestling-otome.json](./244882-winning-hearts-wrestling-otome.json) |
 | Winning Lure | 298863 | [298863-winning-lure.json](./298863-winning-lure.json) |
+| Winning Post 10 | 240877 | [240877-winning-post-10.json](./240877-winning-post-10.json) |
 | Winning Post 2 | 37767 | [37767-winning-post-2.json](./37767-winning-post-2.json) |
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
 | Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
