@@ -2426,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Engineer | 297204 | [297204-rocket-engineer.json](./297204-rocket-engineer.json) |
 | Rocket Escape | 226940 | [226940-rocket-escape.json](./226940-rocket-escape.json) |
 | Rocket Factory | 185637 | [185637-rocket-factory.json](./185637-rocket-factory.json) |
+| Rocket Frog | 277949 | [277949-rocket-frog.json](./277949-rocket-frog.json) |
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
 | Rocket Jump Race | 273653 | [273653-rocket-jump-race.json](./273653-rocket-jump-race.json) |
 | Rocket Jumping Sounds Dangerous | 179131 | [179131-rocket-jumping-sounds-dangerous.json](./179131-rocket-jumping-sounds-dangerous.json) |
@@ -2565,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Heroes: Ruins of Tasos | 137985 | [137985-rogue-heroes-ruins-of-tasos.json](./137985-rogue-heroes-ruins-of-tasos.json) |
 | Rogue Jungle | 307949 | [307949-rogue-jungle.json](./307949-rogue-jungle.json) |
 | Rogue Kingdoms | 317594 | [317594-rogue-kingdoms.json](./317594-rogue-kingdoms.json) |
+| Rogue Knight | 277938 | [277938-rogue-knight.json](./277938-rogue-knight.json) |
 | Rogue Labyrinth | 249195 | [249195-rogue-labyrinth.json](./249195-rogue-labyrinth.json) |
 | Rogue Loops | 323755 | [323755-rogue-loops.json](./323755-rogue-loops.json) |
 | Rogue Lords: Day One Edition | 199631 | [199631-rogue-lords-day-one-edition.json](./199631-rogue-lords-day-one-edition.json) |
