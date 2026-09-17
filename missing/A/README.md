@@ -2202,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomyeowly | 397103 | [397103-anomyeowly.json](./397103-anomyeowly.json) |
 | Anon's Neko Waifus | 276709 | [276709-anons-neko-waifus.json](./276709-anons-neko-waifus.json) |
 | Anonono. Kimi to Sugoshita Ano Hi Ano Toki Ano Mirai | 314654 | [314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json](./314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json) |
+| Anonymous Hunting Simulator | 274537 | [274537-anonymous-hunting-simulator.json](./274537-anonymous-hunting-simulator.json) |
 | Anonymous ME | 68670 | [68670-anonymous-me.json](./68670-anonymous-me.json) |
 | Anonymous Messages | 262649 | [262649-anonymous-messages.json](./262649-anonymous-messages.json) |
 | Anonymous;Code | 11776 | [11776-anonymous-code.json](./11776-anonymous-code.json) |
