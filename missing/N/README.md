@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopara Extra | 106416 | [106416-nekopara-extra.json](./106416-nekopara-extra.json) |
 | Nekopara Vol. 1 | 26653 | [26653-nekopara-vol-1.json](./26653-nekopara-vol-1.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
+| Nekowater | 274034 | [274034-nekowater.json](./274034-nekowater.json) |
 | Nekra Psaria 4 | 385188 | [385188-nekra-psaria-4.json](./385188-nekra-psaria-4.json) |
 | Nekron: 24 | 323199 | [323199-nekron-24.json](./323199-nekron-24.json) |
 | Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
@@ -1232,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
 | Nightmare Kitchen | 334501 | [334501-nightmare-kitchen.json](./334501-nightmare-kitchen.json) |
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
+| Nightmare Labyrinth | 274037 | [274037-nightmare-labyrinth.json](./274037-nightmare-labyrinth.json) |
 | Nightmare Maze | 13743 | [13743-nightmare-maze.json](./13743-nightmare-maze.json) |
 | Nightmare Mines | 358858 | [358858-nightmare-mines.json](./358858-nightmare-mines.json) |
 | Nightmare Ned | 51225 | [51225-nightmare-ned.json](./51225-nightmare-ned.json) |
@@ -1242,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare on the Pacific | 216238 | [216238-nightmare-on-the-pacific.json](./216238-nightmare-on-the-pacific.json) |
 | Nightmare Shift | 179716 | [179716-nightmare-shift.json](./179716-nightmare-shift.json) |
 | Nightmare Shift | 321774 | [321774-nightmare-shift.json](./321774-nightmare-shift.json) |
+| Nightmare Side: The Game | 273448 | [273448-nightmare-side-the-game.json](./273448-nightmare-side-the-game.json) |
 | Nightmare Simulator | 343337 | [343337-nightmare-simulator.json](./343337-nightmare-simulator.json) |
 | Nightmare Without Return | 216792 | [216792-nightmare-without-return.json](./216792-nightmare-without-return.json) |
 | Nightmare: The Origins | 173218 | [173218-nightmare-the-origins.json](./173218-nightmare-the-origins.json) |
@@ -1328,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Trials | 223989 | [223989-nine-trials.json](./223989-nine-trials.json) |
 | Nine Worlds | 150659 | [150659-nine-worlds.json](./150659-nine-worlds.json) |
 | Nine-Ball Roulette | 325672 | [325672-nine-ball-roulette.json](./325672-nine-ball-roulette.json) |
+| NineLives | 273449 | [273449-ninelives.json](./273449-ninelives.json) |
 | Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
 | Nineteen: 19 | 413046 | [413046-nineteen-19.json](./413046-nineteen-19.json) |
 | Ninety-Nine Nights Online | 66135 | [66135-ninety-nine-nights-online.json](./66135-ninety-nine-nights-online.json) |
@@ -1379,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja JaJaMaru-kun: Sakura-hime to Karyu no Himitsu | 62207 | [62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json](./62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json) |
 | Ninja JaJaMaru: The Lost RPGs | 234622 | [234622-ninja-jajamaru-the-lost-rpgs.json](./234622-ninja-jajamaru-the-lost-rpgs.json) |
 | Ninja Kamui: Shinobi Origins | 298587 | [298587-ninja-kamui-shinobi-origins.json](./298587-ninja-kamui-shinobi-origins.json) |
+| Ninja Kato 1 | 273452 | [273452-ninja-kato-1.json](./273452-ninja-kato-1.json) |
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
 | Ninja Kiwi Archive | 137601 | [137601-ninja-kiwi-archive.json](./137601-ninja-kiwi-archive.json) |
 | Ninja Master Toru | 332530 | [332530-ninja-master-toru.json](./332530-ninja-master-toru.json) |
@@ -1728,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noneday | 387549 | [387549-noneday.json](./387549-noneday.json) |
 | Nonentity Galaxy | 311490 | [311490-nonentity-galaxy.json](./311490-nonentity-galaxy.json) |
 | Nonet Sympathia | 124761 | [124761-nonet-sympathia.json](./124761-nonet-sympathia.json) |
+| Nonlinear Door | 273450 | [273450-nonlinear-door.json](./273450-nonlinear-door.json) |
 | Nonno Lorenzo | 216983 | [216983-nonno-lorenzo.json](./216983-nonno-lorenzo.json) |
 | Nono Adventure | 240218 | [240218-nono-adventure.json](./240218-nono-adventure.json) |
 | Nono Islands | 57111 | [57111-nono-islands.json](./57111-nono-islands.json) |
@@ -1739,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram Desserts | 347759 | [347759-nonogram-desserts.json](./347759-nonogram-desserts.json) |
 | Nonogram Minimal | 197918 | [197918-nonogram-minimal.json](./197918-nonogram-minimal.json) |
 | Nonogram Mon | 312367 | [312367-nonogram-mon.json](./312367-nonogram-mon.json) |
+| Nonogram Nights | 273451 | [273451-nonogram-nights.json](./273451-nonogram-nights.json) |
 | Nonogram: Girl's Sweets II | 228090 | [228090-nonogram-girls-sweets-ii.json](./228090-nonogram-girls-sweets-ii.json) |
 | Nonogram: Master's Legacy | 111030 | [111030-nonogram-masters-legacy.json](./111030-nonogram-masters-legacy.json) |
 | Nonogram: Master's Legacy - The Classic Pack | 349413 | [349413-nonogram-masters-legacy-the-classic-pack.json](./349413-nonogram-masters-legacy-the-classic-pack.json) |
@@ -1938,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Creatures | 288338 | [288338-nuclear-creatures.json](./288338-nuclear-creatures.json) |
 | Nuclear Day | 223996 | [223996-nuclear-day.json](./223996-nuclear-day.json) |
 | Nuclear Engineer Tycoon | 414331 | [414331-nuclear-engineer-tycoon.json](./414331-nuclear-engineer-tycoon.json) |
+| Nuclear Gladiators 3000 | 273447 | [273447-nuclear-gladiators-3000.json](./273447-nuclear-gladiators-3000.json) |
 | Nuclear Inc 2 | 100862 | [100862-nuclear-inc-2.json](./100862-nuclear-inc-2.json) |
 | Nuclear Lizard Island Rampage | 318434 | [318434-nuclear-lizard-island-rampage.json](./318434-nuclear-lizard-island-rampage.json) |
 | Nuclear Outrun | 234601 | [234601-nuclear-outrun.json](./234601-nuclear-outrun.json) |
