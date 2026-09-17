@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Heap | 129720 | [129720-the-big-heap.json](./129720-the-big-heap.json) |
 | The Big Journey | 69549 | [69549-the-big-journey.json](./69549-the-big-journey.json) |
 | The Big Lebowski Bowling | 312336 | [312336-the-big-lebowski-bowling.json](./312336-the-big-lebowski-bowling.json) |
+| The Big Mining | 235866 | [235866-the-big-mining.json](./235866-the-big-mining.json) |
 | The Big One | 239081 | [239081-the-big-one.json](./239081-the-big-one.json) |
 | The Big Picture | 206346 | [206346-the-big-picture.json](./206346-the-big-picture.json) |
 | The Big Three | 102130 | [102130-the-big-three.json](./102130-the-big-three.json) |
@@ -3257,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Key | 330293 | [330293-the-key.json](./330293-the-key.json) |
 | The Key of Rednow | 163403 | [163403-the-key-of-rednow.json](./163403-the-key-of-rednow.json) |
 | The Keyboard | 264029 | [264029-the-keyboard.json](./264029-the-keyboard.json) |
+| The Kill Zone | 235827 | [235827-the-kill-zone.json](./235827-the-kill-zone.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
 | The King & I: Coming Out of Your Shell | 141824 | [141824-the-king-and-i-coming-out-of-your-shell.json](./141824-the-king-and-i-coming-out-of-your-shell.json) |
 | The King Cat Clicker | 312724 | [312724-the-king-cat-clicker.json](./312724-the-king-cat-clicker.json) |
@@ -5878,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tichu | 377164 | [377164-tichu.json](./377164-tichu.json) |
 | Tick Hop 2 | 391186 | [391186-tick-hop-2.json](./391186-tick-hop-2.json) |
 | Tick Tock Clock | 308235 | [308235-tick-tock-clock.json](./308235-tick-tock-clock.json) |
+| Tick, Tank, Boom | 235867 | [235867-tick-tank-boom.json](./235867-tick-tank-boom.json) |
 | Ticket to Earth | 38757 | [38757-ticket-to-earth.json](./38757-ticket-to-earth.json) |
 | Ticket to Ride: France | 154475 | [154475-ticket-to-ride-france.json](./154475-ticket-to-ride-france.json) |
 | Ticket to Ride: Germany | 154470 | [154470-ticket-to-ride-germany.json](./154470-ticket-to-ride-germany.json) |
