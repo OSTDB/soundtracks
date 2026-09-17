@@ -1890,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Classic Fables | 98391 | [98391-hidden-object-classic-fables.json](./98391-hidden-object-classic-fables.json) |
 | Hidden Object: Coyote the Outlander | 96007 | [96007-hidden-object-coyote-the-outlander.json](./96007-hidden-object-coyote-the-outlander.json) |
 | Hidden Object: Crazy Hearts | 98390 | [98390-hidden-object-crazy-hearts.json](./98390-hidden-object-crazy-hearts.json) |
+| Hidden Object: Crime in Penthouse Special Edition | 240340 | [240340-hidden-object-crime-in-penthouse-special-edition.json](./240340-hidden-object-crime-in-penthouse-special-edition.json) |
 | Hidden Object: Deck the Halls | 98385 | [98385-hidden-object-deck-the-halls.json](./98385-hidden-object-deck-the-halls.json) |
 | Hidden Object: Detective Wiltshire Kingdom, The Book is About 33 Knight | 200199 | [200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json](./200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json) |
 | Hidden Object: Dog Happy Life | 82160 | [82160-hidden-object-dog-happy-life.json](./82160-hidden-object-dog-happy-life.json) |
