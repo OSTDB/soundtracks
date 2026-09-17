@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
 | Pandora | 238499 | [238499-pandora.json](./238499-pandora.json) |
 | Pandora | 249207 | [249207-pandora.json](./249207-pandora.json) |
+| Pandora | 255144 | [255144-pandora.json](./255144-pandora.json) |
 | Pandora Saga: Weapons of Balance | 78647 | [78647-pandora-saga-weapons-of-balance.json](./78647-pandora-saga-weapons-of-balance.json) |
 | Pandora's Doom: Apocalypse Hotline | 333602 | [333602-pandoras-doom-apocalypse-hotline.json](./333602-pandoras-doom-apocalypse-hotline.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
@@ -1752,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikachu Teeth Problem | 380551 | [380551-pikachu-teeth-problem.json](./380551-pikachu-teeth-problem.json) |
 | Pikari Walk | 230503 | [230503-pikari-walk.json](./230503-pikari-walk.json) |
 | Pikes.io | 306978 | [306978-pikes-io.json](./306978-pikes-io.json) |
+| Pikki Rikki | 255164 | [255164-pikki-rikki.json](./255164-pikki-rikki.json) |
 | Pikmin | 2239 | [2239-pikmin.json](./2239-pikmin.json) |
 | Pikmin 2 | 84697 | [84697-pikmin-2.json](./84697-pikmin-2.json) |
 | Pikmin 2 Lands of Torture | 292126 | [292126-pikmin-2-lands-of-torture.json](./292126-pikmin-2-lands-of-torture.json) |
