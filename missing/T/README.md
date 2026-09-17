@@ -885,8 +885,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Assault: Baptism of Fire | 66032 | [66032-team-assault-baptism-of-fire.json](./66032-team-assault-baptism-of-fire.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
+| Team Fortress 2: End of the Line Update | 256883 | [256883-team-fortress-2-end-of-the-line-update.json](./256883-team-fortress-2-end-of-the-line-update.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
+| Team Fortress 2: Love & War Update | 256882 | [256882-team-fortress-2-love-and-war-update.json](./256882-team-fortress-2-love-and-war-update.json) |
+| Team Fortress 2: Mann vs. Machine - Two Cities Update | 256881 | [256881-team-fortress-2-mann-vs-machine-two-cities-update.json](./256881-team-fortress-2-mann-vs-machine-two-cities-update.json) |
 | Team Fortress 2: Rebalanced | 400339 | [400339-team-fortress-2-rebalanced.json](./400339-team-fortress-2-rebalanced.json) |
+| Team Fortress 2: The Gun Mettle Update | 256889 | [256889-team-fortress-2-the-gun-mettle-update.json](./256889-team-fortress-2-the-gun-mettle-update.json) |
 | Team Fortress Kart | 371244 | [371244-team-fortress-kart.json](./371244-team-fortress-kart.json) |
 | Team Four Star RPG | 75043 | [75043-team-four-star-rpg.json](./75043-team-four-star-rpg.json) |
 | Team Hogus: GHAMEMFAIFTH OTHIYLTIM | 185659 | [185659-team-hogus-ghamemfaifth-othiyltim.json](./185659-team-hogus-ghamemfaifth-othiyltim.json) |
@@ -1589,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alchemist & His Battle-Scarred Homunculus | 315048 | [315048-the-alchemist-and-his-battle-scarred-homunculus.json](./315048-the-alchemist-and-his-battle-scarred-homunculus.json) |
 | The Alchemist's Cards | 397784 | [397784-the-alchemists-cards.json](./397784-the-alchemists-cards.json) |
 | The Alehouse Tavern Chronicles | 335074 | [335074-the-alehouse-tavern-chronicles.json](./335074-the-alehouse-tavern-chronicles.json) |
+| The Alfonzone | 256890 | [256890-the-alfonzone.json](./256890-the-alfonzone.json) |
 | The Alien Trials | 149578 | [149578-the-alien-trials.json](./149578-the-alien-trials.json) |
 | The Alliance Alive HD Remastered | 115989 | [115989-the-alliance-alive-hd-remastered.json](./115989-the-alliance-alive-hd-remastered.json) |
 | The Alpha 001 | 168369 | [168369-the-alpha-001.json](./168369-the-alpha-001.json) |
@@ -4996,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Toxicity | 270704 | [270704-the-toxicity.json](./270704-the-toxicity.json) |
 | The Toymaker's Apprentice | 114980 | [114980-the-toymakers-apprentice.json](./114980-the-toymakers-apprentice.json) |
 | The Track Star | 241995 | [241995-the-track-star.json](./241995-the-track-star.json) |
+| The Trade Prince | 256906 | [256906-the-trade-prince.json](./256906-the-trade-prince.json) |
 | The Traded Groom | 321352 | [321352-the-traded-groom.json](./321352-the-traded-groom.json) |
 | The Trader | 159881 | [159881-the-trader.json](./159881-the-trader.json) |
 | The Trader: Good Dealer Simulator | 221157 | [221157-the-trader-good-dealer-simulator.json](./221157-the-trader-good-dealer-simulator.json) |
@@ -6515,6 +6521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tlicolity Eyes: Twinkle Showtime | 240522 | [240522-tlicolity-eyes-twinkle-showtime.json](./240522-tlicolity-eyes-twinkle-showtime.json) |
 | TMNT | 146283 | [146283-tmnt.json](./146283-tmnt.json) |
 | TMNT: The Power of 4 | 146241 | [146241-tmnt-the-power-of-4.json](./146241-tmnt-the-power-of-4.json) |
+| TNA vs. ROH | 256926 | [256926-tna-vs-roh.json](./256926-tna-vs-roh.json) |
 | TNA Wrestling | 81239 | [81239-tna-wrestling.json](./81239-tna-wrestling.json) |
 | TNM | 100227 | [100227-tnm.json](./100227-tnm.json) |
 | TNN Bass Tournament of Champions | 46592 | [46592-tnn-bass-tournament-of-champions.json](./46592-tnn-bass-tournament-of-champions.json) |
@@ -7158,6 +7165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
 | Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
 | Totsugeki! Pappara-tai | 282680 | [282680-totsugeki-pappara-tai.json](./282680-totsugeki-pappara-tai.json) |
+| Tottemo E Mahjong | 256902 | [256902-tottemo-e-mahjong.json](./256902-tottemo-e-mahjong.json) |
 | Tottemo E Mahjong Plus | 62115 | [62115-tottemo-e-mahjong-plus.json](./62115-tottemo-e-mahjong-plus.json) |
 | Tottemo! Luckyman: Lucky Cookie Roulette de Totsugeki | 37783 | [37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json](./37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json) |
 | Totto's Magic Soup | 353293 | [353293-tottos-magic-soup.json](./353293-tottos-magic-soup.json) |
@@ -7226,6 +7234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Jaseishou: The Last Comer | 246672 | [246672-touhou-jaseishou-the-last-comer.json](./246672-touhou-jaseishou-the-last-comer.json) |
 | Touhou Kaikeidou: Marine Benefit | 280171 | [280171-touhou-kaikeidou-marine-benefit.json](./280171-touhou-kaikeidou-marine-benefit.json) |
 | Touhou Kobuto V: Burst Battle | 27261 | [27261-touhou-kobuto-v-burst-battle.json](./27261-touhou-kobuto-v-burst-battle.json) |
+| Touhou Kosuzu no Butsuri Game! | 256898 | [256898-touhou-kosuzu-no-butsuri-game.json](./256898-touhou-kosuzu-no-butsuri-game.json) |
 | Touhou Língshǒusì: Consciousness' Unity of Opposites | 216793 | [216793-touhou-lingshousi-consciousness-unity-of-opposites.json](./216793-touhou-lingshousi-consciousness-unity-of-opposites.json) |
 | Touhou Lonely Lovely Bonfire | 362883 | [362883-touhou-lonely-lovely-bonfire.json](./362883-touhou-lonely-lovely-bonfire.json) |
 | Touhou Luna Nights | 105447 | [105447-touhou-luna-nights.json](./105447-touhou-luna-nights.json) |
@@ -8358,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit: NASCAR | 100170 | [100170-trivial-pursuit-nascar.json](./100170-trivial-pursuit-nascar.json) |
 | Trivial Pursuit: The CD32 Edition | 39040 | [39040-trivial-pursuit-the-cd32-edition.json](./39040-trivial-pursuit-the-cd32-edition.json) |
 | Trivial PurTwitch | 396241 | [396241-trivial-purtwitch.json](./396241-trivial-purtwitch.json) |
+| Triviaverse | 256884 | [256884-triviaverse.json](./256884-triviaverse.json) |
 | Trizeal | 93063 | [93063-trizeal.json](./93063-trizeal.json) |
 | Trizeal Remix | 32927 | [32927-trizeal-remix.json](./32927-trizeal-remix.json) |
 | Trizna | 293233 | [293233-trizna.json](./293233-trizna.json) |
