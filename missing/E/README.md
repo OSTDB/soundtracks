@@ -1921,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exile Online | 27669 | [27669-exile-online.json](./27669-exile-online.json) |
 | Exile to Death | 32869 | [32869-exile-to-death.json](./32869-exile-to-death.json) |
 | Exile: Escape from the Pit | 7765 | [7765-exile-escape-from-the-pit.json](./7765-exile-escape-from-the-pit.json) |
+| Exiled Survivors | 278524 | [278524-exiled-survivors.json](./278524-exiled-survivors.json) |
 | Exilio | 218712 | [218712-exilio.json](./218712-exilio.json) |
 | Exipath | 400900 | [400900-exipath.json](./400900-exipath.json) |
 | Exist | 212488 | [212488-exist.json](./212488-exist.json) |
@@ -2078,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Offroad Racing | 320540 | [320540-extreme-offroad-racing.json](./320540-extreme-offroad-racing.json) |
 | Extreme Overtake | 323528 | [323528-extreme-overtake.json](./323528-extreme-overtake.json) |
 | Extreme QTE | 151747 | [151747-extreme-qte.json](./151747-extreme-qte.json) |
+| Extreme Rally Raid | 278523 | [278523-extreme-rally-raid.json](./278523-extreme-rally-raid.json) |
 | Extreme Riding 2 | 278155 | [278155-extreme-riding-2.json](./278155-extreme-riding-2.json) |
 | Extreme Roads USA | 16962 | [16962-extreme-roads-usa.json](./16962-extreme-roads-usa.json) |
 | Extreme Skater | 200200 | [200200-extreme-skater.json](./200200-extreme-skater.json) |
