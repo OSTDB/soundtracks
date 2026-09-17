@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactose: Pastries in Space | 109047 | [109047-galactose-pastries-in-space.json](./109047-galactose-pastries-in-space.json) |
 | Galador: The Prince and the Coward | 26484 | [26484-galador-the-prince-and-the-coward.json](./26484-galador-the-prince-and-the-coward.json) |
 | Galaforce | 13719 | [13719-galaforce.json](./13719-galaforce.json) |
+| Galaga | 239156 | [239156-galaga.json](./239156-galaga.json) |
 | Galaga Wars+ | 291975 | [291975-galaga-wars.json](./291975-galaga-wars.json) |
 | Galaga Wave Mixer | 339253 | [339253-galaga-wave-mixer.json](./339253-galaga-wave-mixer.json) |
 | Galaga: Destination Earth | 12895 | [12895-galaga-destination-earth.json](./12895-galaga-destination-earth.json) |
@@ -201,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galax-e-mail | 78663 | [78663-galax-e-mail.json](./78663-galax-e-mail.json) |
 | Galax-i-Birds | 55187 | [55187-galax-i-birds.json](./55187-galax-i-birds.json) |
 | Galaxar | 358900 | [358900-galaxar.json](./358900-galaxar.json) |
+| Galaxian | 239166 | [239166-galaxian.json](./239166-galaxian.json) |
 | Galaxian | 277384 | [277384-galaxian.json](./277384-galaxian.json) |
 | Galaxian | 277385 | [277385-galaxian.json](./277385-galaxian.json) |
 | Galaxian | 277386 | [277386-galaxian.json](./277386-galaxian.json) |
