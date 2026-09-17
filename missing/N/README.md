@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Network Adventure Bugsite: Alpha | 57076 | [57076-network-adventure-bugsite-alpha.json](./57076-network-adventure-bugsite-alpha.json) |
 | Network E.L.E.: PC Edition | 166210 | [166210-network-e-l-e-pc-edition.json](./166210-network-e-l-e-pc-edition.json) |
 | Network Nodes | 344949 | [344949-network-nodes.json](./344949-network-nodes.json) |
+| Network Q RAC Rally | 261884 | [261884-network-q-rac-rally.json](./261884-network-q-rac-rally.json) |
 | Networm | 34333 | [34333-networm.json](./34333-networm.json) |
 | Neural Gear | 93545 | [93545-neural-gear.json](./93545-neural-gear.json) |
 | Neuralimina | 382215 | [382215-neuralimina.json](./382215-neuralimina.json) |
