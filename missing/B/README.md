@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship Lonewolf | 260651 | [260651-battleship-lonewolf.json](./260651-battleship-lonewolf.json) |
 | Battleship War: Time to Sink the Fleet | 215116 | [215116-battleship-war-time-to-sink-the-fleet.json](./215116-battleship-war-time-to-sink-the-fleet.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
+| BattleSide | 267477 | [267477-battleside.json](./267477-battleside.json) |
 | Battlesloths 2025: The Great Pizza Wars | 33090 | [33090-battlesloths-2025-the-great-pizza-wars.json](./33090-battlesloths-2025-the-great-pizza-wars.json) |
 | BattleSound | 151739 | [151739-battlesound.json](./151739-battlesound.json) |
 | Battlespace Command | 408067 | [408067-battlespace-command.json](./408067-battlespace-command.json) |
@@ -2966,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodline Champions: Warrior Pack | 27656 | [27656-bloodline-champions-warrior-pack.json](./27656-bloodline-champions-warrior-pack.json) |
 | Bloodlines: The Alexa Holmes Chronicles | 65529 | [65529-bloodlines-the-alexa-holmes-chronicles.json](./65529-bloodlines-the-alexa-holmes-chronicles.json) |
 | Bloodlust | 338255 | [338255-bloodlust.json](./338255-bloodlust.json) |
+| BloodMoon | 267484 | [267484-bloodmoon.json](./267484-bloodmoon.json) |
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
 | BloodRayne: Definitive Collection | 400996 | [400996-bloodrayne-definitive-collection.json](./400996-bloodrayne-definitive-collection.json) |
 | BloodRayne: The Shroud | 77344 | [77344-bloodrayne-the-shroud.json](./77344-bloodrayne-the-shroud.json) |
@@ -3040,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxicus | 122428 | [122428-bloxicus.json](./122428-bloxicus.json) |
 | Bloxiq VR | 31828 | [31828-bloxiq-vr.json](./31828-bloxiq-vr.json) |
 | Bloxs | 244791 | [244791-bloxs.json](./244791-bloxs.json) |
+| Bloxtacle Course | 267485 | [267485-bloxtacle-course.json](./267485-bloxtacle-course.json) |
 | Bloxter | 84267 | [84267-bloxter.json](./84267-bloxter.json) |
 | Blu-Dude In The Quest for Chocolate Milk | 312164 | [312164-blu-dude-in-the-quest-for-chocolate-milk.json](./312164-blu-dude-in-the-quest-for-chocolate-milk.json) |
 | Blub | 274497 | [274497-blub.json](./274497-blub.json) |
@@ -3146,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob the Builder: Build City | 91335 | [91335-bob-the-builder-build-city.json](./91335-bob-the-builder-build-city.json) |
 | Bob the Builder: Festival of Fun | 374680 | [374680-bob-the-builder-festival-of-fun.json](./374680-bob-the-builder-festival-of-fun.json) |
 | Bob the Builder: Fix it Fun! | 49879 | [49879-bob-the-builder-fix-it-fun.json](./49879-bob-the-builder-fix-it-fun.json) |
+| Bob the Elementalist | 267489 | [267489-bob-the-elementalist.json](./267489-bob-the-elementalist.json) |
 | Bob vs the Mob | 57670 | [57670-bob-vs-the-mob.json](./57670-bob-vs-the-mob.json) |
 | Bob Wants to Go Home | 129744 | [129744-bob-wants-to-go-home.json](./129744-bob-wants-to-go-home.json) |
 | Bob Was Hungry | 35905 | [35905-bob-was-hungry.json](./35905-bob-was-hungry.json) |
@@ -3797,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Dots: Draw and Solve | 104701 | [104701-brain-dots-draw-and-solve.json](./104701-brain-dots-draw-and-solve.json) |
 | Brain Drain | 210267 | [210267-brain-drain.json](./210267-brain-drain.json) |
 | Brain Drain | 210268 | [210268-brain-drain.json](./210268-brain-drain.json) |
+| Brain Escape | 267488 | [267488-brain-escape.json](./267488-brain-escape.json) |
 | Brain Games Mahjongg | 25011 | [25011-brain-games-mahjongg.json](./25011-brain-games-mahjongg.json) |
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
 | Brain Memory Training Academy | 283727 | [283727-brain-memory-training-academy.json](./283727-brain-memory-training-academy.json) |
