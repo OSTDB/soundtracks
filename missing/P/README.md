@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 3: Silver Edition | 266897 | [266897-payday-3-silver-edition.json](./266897-payday-3-silver-edition.json) |
 | Payday: Crime War | 98080 | [98080-payday-crime-war.json](./98080-payday-crime-war.json) |
 | Payday: Don't Be a Hero | 329145 | [329145-payday-dont-be-a-hero.json](./329145-payday-dont-be-a-hero.json) |
+| Payday: The Heist - No Mercy | 240910 | [240910-payday-the-heist-no-mercy.json](./240910-payday-the-heist-no-mercy.json) |
 | Payload | 175919 | [175919-payload.json](./175919-payload.json) |
 | PaymoneyWubby: The Game | 341588 | [341588-paymoneywubby-the-game.json](./341588-paymoneywubby-the-game.json) |
 | Payout: Shop Simulator | 309336 | [309336-payout-shop-simulator.json](./309336-payout-shop-simulator.json) |
@@ -2207,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
 | Pixel Paint: Premium Edition | 241395 | [241395-pixel-paint-premium-edition.json](./241395-pixel-paint-premium-edition.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
+| Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
 | Pixel Puzzles 4k: Japan | 163411 | [163411-pixel-puzzles-4k-japan.json](./163411-pixel-puzzles-4k-japan.json) |
 | Pixel Puzzles Christmas Jigsaws | 389397 | [389397-pixel-puzzles-christmas-jigsaws.json](./389397-pixel-puzzles-christmas-jigsaws.json) |
@@ -2792,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poetry, wine and sword | 158186 | [158186-poetry-wine-and-sword.json](./158186-poetry-wine-and-sword.json) |
 | Pog 5 | 165705 | [165705-pog-5.json](./165705-pog-5.json) |
 | Pogglewash | 249504 | [249504-pogglewash.json](./249504-pogglewash.json) |
+| Pogo Chick | 240876 | [240876-pogo-chick.json](./240876-pogo-chick.json) |
 | Pogo Epoch: Impossible 99% | 329177 | [329177-pogo-epoch-impossible-99.json](./329177-pogo-epoch-impossible-99.json) |
 | Pogo Knight | 320566 | [320566-pogo-knight.json](./320566-pogo-knight.json) |
 | Pogo Party | 224587 | [224587-pogo-party.json](./224587-pogo-party.json) |
