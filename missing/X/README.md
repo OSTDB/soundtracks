@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiānjiànjué Wǎngluòbǎn | 161328 | [161328-xianjianjue-wangluoban.json](./161328-xianjianjue-wangluoban.json) |
 | Xiānyù | 113647 | [113647-xianyu.json](./113647-xianyu.json) |
 | Xiào Ào Jiānghú 2 Wàizhuàn: Dōngfāng Zàiqǐ | 184095 | [184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json](./184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json) |
+| Xiao La: Fantasy Dream | 272365 | [272365-xiao-la-fantasy-dream.json](./272365-xiao-la-fantasy-dream.json) |
 | Xiǎo Qiàn Dàmàoxiǎn | 359475 | [359475-xiao-qian-damaoxian.json](./359475-xiao-qian-damaoxian.json) |
 | Xiǎo Qiān Mófǎ Zhèng | 359474 | [359474-xiao-qian-mofa-zheng.json](./359474-xiao-qian-mofa-zheng.json) |
 | Xiǎohēihé Jiāsùqì | 147369 | [147369-xiaoheihe-jiasuqi.json](./147369-xiaoheihe-jiasuqi.json) |
