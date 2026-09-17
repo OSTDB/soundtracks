@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
 | WASD: The Adventure of Tori | 358333 | [358333-wasd-the-adventure-of-tori.json](./358333-wasd-the-adventure-of-tori.json) |
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
+| Wash Simulator: Clean Garage, House, Cars Business Tycoons | 259617 | [259617-wash-simulator-clean-garage-house-cars-business-tycoons.json](./259617-wash-simulator-clean-garage-house-cars-business-tycoons.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
 | Washed Up! | 104040 | [104040-washed-up.json](./104040-washed-up.json) |
 | Washeteria | 353965 | [353965-washeteria.json](./353965-washeteria.json) |
@@ -923,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Westfall | 343252 | [343252-westfall.json](./343252-westfall.json) |
 | WestHalla | 257681 | [257681-westhalla.json](./257681-westhalla.json) |
+| Westland Cowboy: Rodeo Rider | 259631 | [259631-westland-cowboy-rodeo-rider.json](./259631-westland-cowboy-rodeo-rider.json) |
 | Westland Survival: Albino Alligator | 383360 | [383360-westland-survival-albino-alligator.json](./383360-westland-survival-albino-alligator.json) |
 | Westland Survival: Uncle Gab’s Signet | 383362 | [383362-westland-survival-uncle-gab-s-signet.json](./383362-westland-survival-uncle-gab-s-signet.json) |
 | Westland Survival: Wind Spirit | 383361 | [383361-westland-survival-wind-spirit.json](./383361-westland-survival-wind-spirit.json) |
@@ -2302,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds of Legend: Son of the Empire | 71521 | [71521-worlds-of-legend-son-of-the-empire.json](./71521-worlds-of-legend-son-of-the-empire.json) |
 | Worlds of Magic | 9336 | [9336-worlds-of-magic.json](./9336-worlds-of-magic.json) |
 | WorldShards | 224584 | [224584-worldshards.json](./224584-worldshards.json) |
+| Worldwide Soccer | 259651 | [259651-worldwide-soccer.json](./259651-worldwide-soccer.json) |
 | Worldwide Sports Fishing | 117556 | [117556-worldwide-sports-fishing.json](./117556-worldwide-sports-fishing.json) |
 | Worldy Cup | 31854 | [31854-worldy-cup.json](./31854-worldy-cup.json) |
 | Worm | 366923 | [366923-worm.json](./366923-worm.json) |
