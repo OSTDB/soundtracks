@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
+| TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
 | Terraformers: Megastructures | 318782 | [318782-terraformers-megastructures.json](./318782-terraformers-megastructures.json) |
 | Terraformers: New Frontiers Bundle | 293763 | [293763-terraformers-new-frontiers-bundle.json](./293763-terraformers-new-frontiers-bundle.json) |
 | Terraformers: Supporter Edition | 271471 | [271471-terraformers-supporter-edition.json](./271471-terraformers-supporter-edition.json) |
@@ -2106,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
 | The Contender: Fight of the Century | 108519 | [108519-the-contender-fight-of-the-century.json](./108519-the-contender-fight-of-the-century.json) |
+| The Continuum | 258520 | [258520-the-continuum.json](./258520-the-continuum.json) |
 | The Contract | 177530 | [177530-the-contract.json](./177530-the-contract.json) |
 | The Contract | 271756 | [271756-the-contract.json](./271756-the-contract.json) |
 | The Conveni: Ano Machi wo Dokusen Seyo | 178558 | [178558-the-conveni-ano-machi-wo-dokusen-seyo.json](./178558-the-conveni-ano-machi-wo-dokusen-seyo.json) |
@@ -3307,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
 | The Last Look | 32871 | [32871-the-last-look.json](./32871-the-last-look.json) |
 | The Last Mage | 350430 | [350430-the-last-mage.json](./350430-the-last-mage.json) |
+| The Last Man Survivor | 258529 | [258529-the-last-man-survivor.json](./258529-the-last-man-survivor.json) |
 | The Last Matches | 213960 | [213960-the-last-matches.json](./213960-the-last-matches.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
 | The Last Mission | 55078 | [55078-the-last-mission.json](./55078-the-last-mission.json) |
@@ -3506,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The LEGO Movie 2 Videogame: Minifigure Edition | 139954 | [139954-the-lego-movie-2-videogame-minifigure-edition.json](./139954-the-lego-movie-2-videogame-minifigure-edition.json) |
 | The LEGO Movie 2 Videogame: Prophecy Pack | 375277 | [375277-the-lego-movie-2-videogame-prophecy-pack.json](./375277-the-lego-movie-2-videogame-prophecy-pack.json) |
 | The LEGO Movie Videogame | 4845 | [4845-the-lego-movie-videogame.json](./4845-the-lego-movie-videogame.json) |
+| The Lemonade | 258517 | [258517-the-lemonade.json](./258517-the-lemonade.json) |
 | The Lesser Evil | 176507 | [176507-the-lesser-evil.json](./176507-the-lesser-evil.json) |
 | The Leviathan's Fantasy: DLC | 289327 | [289327-the-leviathans-fantasy-dlc.json](./289327-the-leviathans-fantasy-dlc.json) |
 | The Leviathan's Fantasy: Mechanical Crisis | 329013 | [329013-the-leviathans-fantasy-mechanical-crisis.json](./329013-the-leviathans-fantasy-mechanical-crisis.json) |
@@ -7910,6 +7914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trampoline | 172661 | [172661-trampoline.json](./172661-trampoline.json) |
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
 | Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
+| Trans Theft Horso | 258563 | [258563-trans-theft-horso.json](./258563-trans-theft-horso.json) |
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
 | Trans-Siberian Railway Simulator | 114950 | [114950-trans-siberian-railway-simulator.json](./114950-trans-siberian-railway-simulator.json) |
 | Transarctica | 10857 | [10857-transarctica.json](./10857-transarctica.json) |
@@ -8191,6 +8196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
 | Trials of Dash | 415889 | [415889-trials-of-dash.json](./415889-trials-of-dash.json) |
 | Trials of Guinevere | 127611 | [127611-trials-of-guinevere.json](./127611-trials-of-guinevere.json) |
+| Trials of Imorah | 258531 | [258531-trials-of-imorah.json](./258531-trials-of-imorah.json) |
 | Trials of the Illuminati: Amazing Wildlife Jigsaws | 68201 | [68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json](./68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json) |
 | Trials of The Illuminati: Animated Christmas Time Jigsaws | 334758 | [334758-trials-of-the-illuminati-animated-christmas-time-jigsaws.json](./334758-trials-of-the-illuminati-animated-christmas-time-jigsaws.json) |
 | Trials of the Illuminati: Sea Creatures Jigsaws | 334759 | [334759-trials-of-the-illuminati-sea-creatures-jigsaws.json](./334759-trials-of-the-illuminati-sea-creatures-jigsaws.json) |
@@ -8626,6 +8632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuning Champions | 215912 | [215912-tuning-champions.json](./215912-tuning-champions.json) |
 | Tunnel 19 | 358865 | [358865-tunnel-19.json](./358865-tunnel-19.json) |
 | Tunnel Ball 3D | 257362 | [257362-tunnel-ball-3d.json](./257362-tunnel-ball-3d.json) |
+| Tunnel Boat Terror | 258544 | [258544-tunnel-boat-terror.json](./258544-tunnel-boat-terror.json) |
 | Tunnel Divers | 41953 | [41953-tunnel-divers.json](./41953-tunnel-divers.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
 | Tunnels of Terror! | 260986 | [260986-tunnels-of-terror.json](./260986-tunnels-of-terror.json) |
