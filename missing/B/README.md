@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balaball | 373012 | [373012-balaball.json](./373012-balaball.json) |
 | Balala Dà Zhuǎnhuàn | 359469 | [359469-balala-da-zhuanhuan.json](./359469-balala-da-zhuanhuan.json) |
 | Balam and the Spirit Within | 201325 | [201325-balam-and-the-spirit-within.json](./201325-balam-and-the-spirit-within.json) |
+| Balance | 260772 | [260772-balance.json](./260772-balance.json) |
 | Balance | 297775 | [297775-balance.json](./297775-balance.json) |
 | Balance Balls | 262438 | [262438-balance-balls.json](./262438-balance-balls.json) |
 | Balance Balls 2 | 262442 | [262442-balance-balls-2.json](./262442-balance-balls-2.json) |
@@ -1295,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batty Shadowless Adventures | 374065 | [374065-batty-shadowless-adventures.json](./374065-batty-shadowless-adventures.json) |
 | Batya | 126638 | [126638-batya.json](./126638-batya.json) |
 | Bauer | 189133 | [189133-bauer.json](./189133-bauer.json) |
+| Bauhaus | 260788 | [260788-bauhaus.json](./260788-bauhaus.json) |
 | Baumaschinen: Die Simulation | 136378 | [136378-baumaschinen-die-simulation.json](./136378-baumaschinen-die-simulation.json) |
 | Baxter's Venture | 62677 | [62677-baxters-venture.json](./62677-baxters-venture.json) |
 | Bay Route | 39616 | [39616-bay-route.json](./39616-bay-route.json) |
@@ -1517,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
 | Beaten Path | 264711 | [264711-beaten-path.json](./264711-beaten-path.json) |
 | Beaterator | 18383 | [18383-beaterator.json](./18383-beaterator.json) |
+| BeatLine | 260773 | [260773-beatline.json](./260773-beatline.json) |
 | Beatmania 2ndMix | 94746 | [94746-beatmania-2ndmix.json](./94746-beatmania-2ndmix.json) |
 | Beatmania 3rdMix | 94745 | [94745-beatmania-3rdmix.json](./94745-beatmania-3rdmix.json) |
 | Beatmania 7thMix: Keepin' Evolution | 94743 | [94743-beatmania-7thmix-keepin-evolution.json](./94743-beatmania-7thmix-keepin-evolution.json) |
@@ -2248,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Game III | 381008 | [381008-bird-game-iii.json](./381008-bird-game-iii.json) |
 | Bird Hunter | 246433 | [246433-bird-hunter.json](./246433-bird-hunter.json) |
 | Bird Jumper | 299741 | [299741-bird-jumper.json](./299741-bird-jumper.json) |
+| Bird Legend | 260771 | [260771-bird-legend.json](./260771-bird-legend.json) |
 | Bird Like | 352264 | [352264-bird-like.json](./352264-bird-like.json) |
 | Bird Mania 3D | 65254 | [65254-bird-mania-3d.json](./65254-bird-mania-3d.json) |
 | Bird Mania 3D Christmas | 62258 | [62258-bird-mania-3d-christmas.json](./62258-bird-mania-3d-christmas.json) |
@@ -3510,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boppin' | 14333 | [14333-boppin.json](./14333-boppin.json) |
 | BOPZ.io | 304751 | [304751-bopz-io.json](./304751-bopz-io.json) |
 | Borbo's Quest | 178582 | [178582-borbos-quest.json](./178582-borbos-quest.json) |
+| Border Bots VR | 260759 | [260759-border-bots-vr.json](./260759-border-bots-vr.json) |
 | Border Break | 81218 | [81218-border-break.json](./81218-border-break.json) |
 | Border Force: Space Force | 171627 | [171627-border-force-space-force.json](./171627-border-force-space-force.json) |
 | Border of her Heart 2 | 156669 | [156669-border-of-her-heart-2.json](./156669-border-of-her-heart-2.json) |
