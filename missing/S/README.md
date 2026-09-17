@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
 | School Days Simulator | 303080 | [303080-school-days-simulator.json](./303080-school-days-simulator.json) |
 | School Exit Class 8 | 360079 | [360079-school-exit-class-8.json](./360079-school-exit-class-8.json) |
+| School Hero | 279113 | [279113-school-hero.json](./279113-school-hero.json) |
 | School Idol QT Cool | 127933 | [127933-school-idol-qt-cool.json](./127933-school-idol-qt-cool.json) |
 | School Life Simulator | 97049 | [97049-school-life-simulator.json](./97049-school-life-simulator.json) |
 | School Love Life: Anime Games | 299909 | [299909-school-love-life-anime-games.json](./299909-school-love-life-anime-games.json) |
@@ -1131,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Mice | 219615 | [219615-search-all-mice.json](./219615-search-all-mice.json) |
 | Search All: Mushrooms | 192375 | [192375-search-all-mushrooms.json](./192375-search-all-mushrooms.json) |
 | Search All: Runes | 192378 | [192378-search-all-runes.json](./192378-search-all-runes.json) |
+| Search All: Snails | 279114 | [279114-search-all-snails.json](./279114-search-all-snails.json) |
 | Search All: Spiders | 192376 | [192376-search-all-spiders.json](./192376-search-all-spiders.json) |
 | Search All: Sushi | 187440 | [187440-search-all-sushi.json](./187440-search-all-sushi.json) |
 | Search All: UFO | 249800 | [249800-search-all-ufo.json](./249800-search-all-ufo.json) |
@@ -1963,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Cascade | 126579 | [126579-shape-cascade.json](./126579-shape-cascade.json) |
 | Shape Escape | 89752 | [89752-shape-escape.json](./89752-shape-escape.json) |
 | Shape Invasion | 317445 | [317445-shape-invasion.json](./317445-shape-invasion.json) |
+| Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
 | Shape Shift Shawn: Episode 1 - Tale of the Transmogrified | 171567 | [171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json](./171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json) |
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
 | Shape Shuffle: A Shape Saga | 262066 | [262066-shape-shuffle-a-shape-saga.json](./262066-shape-shuffle-a-shape-saga.json) |
@@ -1999,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shard of Spring | 2884 | [2884-shard-of-spring.json](./2884-shard-of-spring.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
 | Shardbound | 27747 | [27747-shardbound.json](./27747-shardbound.json) |
+| Sharded World: Backpack Adventure | 279116 | [279116-sharded-world-backpack-adventure.json](./279116-sharded-world-backpack-adventure.json) |
 | Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
 | Shards of Hope | 184044 | [184044-shards-of-hope.json](./184044-shards-of-hope.json) |
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
@@ -4207,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
 | Social Hook | 333000 | [333000-social-hook.json](./333000-social-hook.json) |
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
+| Social Status: Life Simulator | 279103 | [279103-social-status-life-simulator.json](./279103-social-status-life-simulator.json) |
 | Society's Paradigms | 152833 | [152833-societys-paradigms.json](./152833-societys-paradigms.json) |
 | Socioball | 128558 | [128558-socioball.json](./128558-socioball.json) |
 | Sociopath | 410211 | [410211-sociopath.json](./410211-sociopath.json) |
@@ -7508,6 +7513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strike at Night | 349835 | [349835-strike-at-night.json](./349835-strike-at-night.json) |
+| Strike Back | 279097 | [279097-strike-back.json](./279097-strike-back.json) |
 | Strike Ball 3 | 54405 | [54405-strike-ball-3.json](./54405-strike-ball-3.json) |
 | Strike Buster | 339656 | [339656-strike-buster.json](./339656-strike-buster.json) |
 | Strike Buster Prototype | 149010 | [149010-strike-buster-prototype.json](./149010-strike-buster-prototype.json) |
