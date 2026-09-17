@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Afraid Of Battle | 341481 | [341481-no-afraid-of-battle.json](./341481-no-afraid-of-battle.json) |
 | No Arm | 360010 | [360010-no-arm.json](./360010-no-arm.json) |
 | No Blood, No Fowl | 314906 | [314906-no-blood-no-fowl.json](./314906-no-blood-no-fowl.json) |
+| No Brakes io | 263582 | [263582-no-brakes-io.json](./263582-no-brakes-io.json) |
 | No Brakes Valet | 51169 | [51169-no-brakes-valet.json](./51169-no-brakes-valet.json) |
 | No Chance | 146866 | [146866-no-chance.json](./146866-no-chance.json) |
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
@@ -1818,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgard: Dodsvagr, Clan of the Rat | 188083 | [188083-northgard-dodsvagr-clan-of-the-rat.json](./188083-northgard-dodsvagr-clan-of-the-rat.json) |
 | Northgard: Gardariki, Clan of the Hippogriff | 366866 | [366866-northgard-gardariki-clan-of-the-hippogriff.json](./366866-northgard-gardariki-clan-of-the-hippogriff.json) |
 | Northgard: Hræsvelg, Clan of the Eagle | 218693 | [218693-northgard-hr-svelg-clan-of-the-eagle.json](./218693-northgard-hr-svelg-clan-of-the-eagle.json) |
+| Northgard: Kernev, Clan of the Stoat | 263604 | [263604-northgard-kernev-clan-of-the-stoat.json](./263604-northgard-kernev-clan-of-the-stoat.json) |
 | Northmark: Hour of the Wolf | 17532 | [17532-northmark-hour-of-the-wolf.json](./17532-northmark-hour-of-the-wolf.json) |
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
 | Norukasoruka | 398984 | [398984-norukasoruka.json](./398984-norukasoruka.json) |
