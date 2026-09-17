@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedLantern | 392943 | [392943-redlantern.json](./392943-redlantern.json) |
 | Redline | 321136 | [321136-redline.json](./321136-redline.json) |
 | Redline F-1 Racer | 239898 | [239898-redline-f-1-racer.json](./239898-redline-f-1-racer.json) |
+| Redline Racing | 263056 | [263056-redline-racing.json](./263056-redline-racing.json) |
 | Redline Royale | 237633 | [237633-redline-royale.json](./237633-redline-royale.json) |
 | Redline: Drift | 174854 | [174854-redline-drift.json](./174854-redline-drift.json) |
 | Redline: Sport | 255755 | [255755-redline-sport.json](./255755-redline-sport.json) |
@@ -2029,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
 | Ring Toss Legend | 408939 | [408939-ring-toss-legend.json](./408939-ring-toss-legend.json) |
 | Ringer | 324336 | [324336-ringer.json](./324336-ringer.json) |
+| Ringleaders | 263013 | [263013-ringleaders.json](./263013-ringleaders.json) |
 | Ringling Bros. and Barnum & Bailey Circus | 67320 | [67320-ringling-bros-and-barnum-and-bailey-circus.json](./67320-ringling-bros-and-barnum-and-bailey-circus.json) |
 | Ringling Bros. and Barnum & Bailey: Circus Friends - Asian Elephants | 209163 | [209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json](./209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json) |
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
