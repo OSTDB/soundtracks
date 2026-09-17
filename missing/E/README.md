@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enoch Never Dies | 350514 | [350514-enoch-never-dies.json](./350514-enoch-never-dies.json) |
 | Enoki | 157149 | [157149-enoki.json](./157149-enoki.json) |
 | Enotria: The Last Song | 218521 | [218521-enotria-the-last-song.json](./218521-enotria-the-last-song.json) |
+| Enough Sheep | 277382 | [277382-enough-sheep.json](./277382-enough-sheep.json) |
 | Enough with the Witch | 298677 | [298677-enough-with-the-witch.json](./298677-enough-with-the-witch.json) |
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
@@ -1880,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
 | Ex/l | 376446 | [376446-ex-l.json](./376446-ex-l.json) |
 | Ex0 Escape | 211208 | [211208-ex0-escape.json](./211208-ex0-escape.json) |
+| Exact | 277420 | [277420-exact.json](./277420-exact.json) |
 | Exadimension Neptunia | 280926 | [280926-exadimension-neptunia.json](./280926-exadimension-neptunia.json) |
 | Exadimension Neptunia 2: A Chao Returns | 280927 | [280927-exadimension-neptunia-2-a-chao-returns.json](./280927-exadimension-neptunia-2-a-chao-returns.json) |
 | Exanimora | 371959 | [371959-exanimora.json](./371959-exanimora.json) |
@@ -2106,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
 | Eye Transplant : ER Emergency Hospital | 100855 | [100855-eye-transplant-er-emergency-hospital.json](./100855-eye-transplant-er-emergency-hospital.json) |
 | Eye-Witness | 271994 | [271994-eye-witness.json](./271994-eye-witness.json) |
+| Eye2Eye | 277421 | [277421-eye2eye.json](./277421-eye2eye.json) |
 | eyEar | 181390 | [181390-eyear.json](./181390-eyear.json) |
 | Eyeb | 149044 | [149044-eyeb.json](./149044-eyeb.json) |
 | Eyeball Master | 195272 | [195272-eyeball-master.json](./195272-eyeball-master.json) |
