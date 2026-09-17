@@ -3840,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: Terry no Wonderland SP | 111757 | [111757-dragon-quest-monsters-terry-no-wonderland-sp.json](./111757-dragon-quest-monsters-terry-no-wonderland-sp.json) |
 | Dragon Quest Monsters: The Dark Prince - Coach Joe's Dungeon Gym | 268576 | [268576-dragon-quest-monsters-the-dark-prince-coach-joes-dungeon-gym.json](./268576-dragon-quest-monsters-the-dark-prince-coach-joes-dungeon-gym.json) |
 | Dragon Quest Monsters: The Dark Prince - Digital Deluxe Edition | 268553 | [268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json](./268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json) |
+| Dragon Quest Monsters: The Dark Prince - Master Edition | 261373 | [261373-dragon-quest-monsters-the-dark-prince-master-edition.json](./261373-dragon-quest-monsters-the-dark-prince-master-edition.json) |
 | Dragon Quest Monsters: The Dark Prince - Treasure Trunks | 268571 | [268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json](./268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json) |
 | Dragon Quest VII Reimagined | 366884 | [366884-dragon-quest-vii-reimagined.json](./366884-dragon-quest-vii-reimagined.json) |
 | Dragon Quest VII Reimagined: Additional DLC Sets | 388942 | [388942-dragon-quest-vii-reimagined-additional-dlc-sets.json](./388942-dragon-quest-vii-reimagined-additional-dlc-sets.json) |
