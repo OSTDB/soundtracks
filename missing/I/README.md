@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impulse Rogue | 199572 | [199572-impulse-rogue.json](./199572-impulse-rogue.json) |
 | Impulse: Space Combat | 37035 | [37035-impulse-space-combat.json](./37035-impulse-space-combat.json) |
 | Impulse!: Brick breaker | 253016 | [253016-impulse-brick-breaker.json](./253016-impulse-brick-breaker.json) |
+| IMSA World Championship Racing | 237511 | [237511-imsa-world-championship-racing.json](./237511-imsa-world-championship-racing.json) |
 | Imugi | 158676 | [158676-imugi.json](./158676-imugi.json) |
 | Imvi: Echoes of Harmony | 340748 | [340748-imvi-echoes-of-harmony.json](./340748-imvi-echoes-of-harmony.json) |
 | IMVU | 98279 | [98279-imvu.json](./98279-imvu.json) |
