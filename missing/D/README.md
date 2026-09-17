@@ -101,9 +101,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
 | Dahliphoria | 224768 | [224768-dahliphoria.json](./224768-dahliphoria.json) |
 | Dai Datsugoku! Hell chama Prison no Yabou | 353376 | [353376-dai-datsugoku-hell-chama-prison-no-yabou.json](./353376-dai-datsugoku-hell-chama-prison-no-yabou.json) |
+| Dai-2-ji Super Robot Taisen | 240912 | [240912-dai-2-ji-super-robot-taisen.json](./240912-dai-2-ji-super-robot-taisen.json) |
 | Dai-2-ji Super Robot Taisen | 48636 | [48636-dai-2-ji-super-robot-taisen.json](./48636-dai-2-ji-super-robot-taisen.json) |
 | Dai-2-ji Super Robot Taisen G | 221400 | [221400-dai-2-ji-super-robot-taisen-g.json](./221400-dai-2-ji-super-robot-taisen-g.json) |
 | Dai-2-ji Super Robot Taisen OG | 7264 | [7264-dai-2-ji-super-robot-taisen-og.json](./7264-dai-2-ji-super-robot-taisen-og.json) |
+| Dai-3-ji Super Robot Taisen | 240913 | [240913-dai-3-ji-super-robot-taisen.json](./240913-dai-3-ji-super-robot-taisen.json) |
 | Dai-3-ji Super Robot Taisen | 42564 | [42564-dai-3-ji-super-robot-taisen.json](./42564-dai-3-ji-super-robot-taisen.json) |
 | Dai-3-ji Super Robot Taisen Alpha: Shuuen no Ginga he | 79338 | [79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json](./79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json) |
 | Dai-4-ji Super Robot Taisen | 42563 | [42563-dai-4-ji-super-robot-taisen.json](./42563-dai-4-ji-super-robot-taisen.json) |
@@ -2491,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur King | 48042 | [48042-dinosaur-king.json](./48042-dinosaur-king.json) |
 | Dinosaur King: Fierce Battle! Zanjark! | 270763 | [270763-dinosaur-king-fierce-battle-zanjark.json](./270763-dinosaur-king-fierce-battle-zanjark.json) |
 | Dinosaur King: Wake Up! New Power! | 271800 | [271800-dinosaur-king-wake-up-new-power.json](./271800-dinosaur-king-wake-up-new-power.json) |
+| Dinosaur Multiplayer | 240922 | [240922-dinosaur-multiplayer.json](./240922-dinosaur-multiplayer.json) |
 | Dinosaur Museum | 378176 | [378176-dinosaur-museum.json](./378176-dinosaur-museum.json) |
 | Dinosaur Park | 56458 | [56458-dinosaur-park.json](./56458-dinosaur-park.json) |
 | Dinosaur Rampage - Trex | 87716 | [87716-dinosaur-rampage-trex.json](./87716-dinosaur-rampage-trex.json) |
@@ -4735,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hunter | 23258 | [23258-dungeon-hunter.json](./23258-dungeon-hunter.json) |
 | Dungeon Hunter | 332435 | [332435-dungeon-hunter.json](./332435-dungeon-hunter.json) |
 | Dungeon Hunter Champions | 97279 | [97279-dungeon-hunter-champions.json](./97279-dungeon-hunter-champions.json) |
+| Dungeon Hunter Survival | 240881 | [240881-dungeon-hunter-survival.json](./240881-dungeon-hunter-survival.json) |
 | Dungeon Hunter: Alliance | 21140 | [21140-dungeon-hunter-alliance.json](./21140-dungeon-hunter-alliance.json) |
 | Dungeon Janitor | 345605 | [345605-dungeon-janitor.json](./345605-dungeon-janitor.json) |
 | Dungeon Janitor | 345607 | [345607-dungeon-janitor.json](./345607-dungeon-janitor.json) |
@@ -5003,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Flare | 293616 | [293616-dynamite-flare.json](./293616-dynamite-flare.json) |
 | Dynamite It! | 297087 | [297087-dynamite-it.json](./297087-dynamite-it.json) |
 | Dynamo Frank | 413035 | [413035-dynamo-frank.json](./413035-dynamo-frank.json) |
+| Dynasty Legends: Warriors Unite | 240887 | [240887-dynasty-legends-warriors-unite.json](./240887-dynasty-legends-warriors-unite.json) |
 | Dynasty Warriors | 2982 | [2982-dynasty-warriors.json](./2982-dynasty-warriors.json) |
 | Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
 | Dynasty Warriors 4: Empires | 19620 | [19620-dynasty-warriors-4-empires.json](./19620-dynasty-warriors-4-empires.json) |
