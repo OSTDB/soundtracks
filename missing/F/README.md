@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Friends: Super Version | 313512 | [313512-fashion-friends-super-version.json](./313512-fashion-friends-super-version.json) |
 | Fashion Girls: All in One Edition | 271502 | [271502-fashion-girls-all-in-one-edition.json](./271502-fashion-girls-all-in-one-edition.json) |
 | Fashion Girls: Silver Edition | 315865 | [315865-fashion-girls-silver-edition.json](./315865-fashion-girls-silver-edition.json) |
+| Fashion Holiday: A Game of Texas Hold 'Em | 252246 | [252246-fashion-holiday-a-game-of-texas-hold-em.json](./252246-fashion-holiday-a-game-of-texas-hold-em.json) |
 | Fashion Princess | 215118 | [215118-fashion-princess.json](./215118-fashion-princess.json) |
 | Fashion Princess: Silver Edition | 317256 | [317256-fashion-princess-silver-edition.json](./317256-fashion-princess-silver-edition.json) |
 | Fashion Princess: Super Version | 328819 | [328819-fashion-princess-super-version.json](./328819-fashion-princess-super-version.json) |
@@ -862,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faunamorph | 257965 | [257965-faunamorph.json](./257965-faunamorph.json) |
 | Faust Duel | 373112 | [373112-faust-duel.json](./373112-faust-duel.json) |
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
+| Fava Beans | 252212 | [252212-fava-beans.json](./252212-fava-beans.json) |
 | Favela Defender | 347229 | [347229-favela-defender.json](./347229-favela-defender.json) |
 | Favillesco Episode 1: Genuflected on Io | 313853 | [313853-favillesco-episode-1-genuflected-on-io.json](./313853-favillesco-episode-1-genuflected-on-io.json) |
 | Fawning Over a Corpse | 266862 | [266862-fawning-over-a-corpse.json](./266862-fawning-over-a-corpse.json) |
@@ -995,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fēngshén Yīngjié Zhuán | 93061 | [93061-fengshen-yingjie-zhuan.json](./93061-fengshen-yingjie-zhuan.json) |
 | Fenimore Fillmore: The Westerner | 27496 | [27496-fenimore-fillmore-the-westerner.json](./27496-fenimore-fillmore-the-westerner.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
+| Fenrir's fury | 252245 | [252245-fenrirs-fury.json](./252245-fenrirs-fury.json) |
 | Fentanyl Edition | 327411 | [327411-fentanyl-edition.json](./327411-fentanyl-edition.json) |
 | Feodika | 382777 | [382777-feodika.json](./382777-feodika.json) |
 | Feral Echoes | 351689 | [351689-feral-echoes.json](./351689-feral-echoes.json) |
