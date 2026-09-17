@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teapot Poppers | 146915 | [146915-teapot-poppers.json](./146915-teapot-poppers.json) |
 | Tear Ring Saga | 43872 | [43872-tear-ring-saga.json](./43872-tear-ring-saga.json) |
 | Tear Ring Saga Series: Berwick Saga: Lazberia Chronicle Chapter 174 | 80578 | [80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json](./80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json) |
+| Teardown: Creative Mode | 252848 | [252848-teardown-creative-mode.json](./252848-teardown-creative-mode.json) |
 | Tears of a Dragon | 29798 | [29798-tears-of-a-dragon.json](./29798-tears-of-a-dragon.json) |
 | Tears of Adria | 268226 | [268226-tears-of-adria.json](./268226-tears-of-adria.json) |
 | Tears of Magic | 224574 | [224574-tears-of-magic.json](./224574-tears-of-magic.json) |
@@ -1235,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Termina Invasion | 294711 | [294711-termina-invasion.json](./294711-termina-invasion.json) |
 | Terminal | 177556 | [177556-terminal.json](./177556-terminal.json) |
 | Terminal | 253360 | [253360-terminal.json](./253360-terminal.json) |
+| Terminal 64 | 252820 | [252820-terminal-64.json](./252820-terminal-64.json) |
 | Terminal City | 314463 | [314463-terminal-city.json](./314463-terminal-city.json) |
 | Terminal Compression | 331969 | [331969-terminal-compression.json](./331969-terminal-compression.json) |
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
@@ -1291,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraScape | 239642 | [239642-terrascape.json](./239642-terrascape.json) |
 | TerraStorm | 289314 | [289314-terrastorm.json](./289314-terrastorm.json) |
 | TerraTech Legion | 348307 | [348307-terratech-legion.json](./348307-terratech-legion.json) |
+| TerraTech Worlds | 252865 | [252865-terratech-worlds.json](./252865-terratech-worlds.json) |
 | TerraTech: Deluxe Edition | 51928 | [51928-terratech-deluxe-edition.json](./51928-terratech-deluxe-edition.json) |
 | Terre Scramble! | 260427 | [260427-terre-scramble.json](./260427-terre-scramble.json) |
 | Terrela | 27672 | [27672-terrela.json](./27672-terrela.json) |
@@ -4657,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soul of Cosmos | 348769 | [348769-the-soul-of-cosmos.json](./348769-the-soul-of-cosmos.json) |
 | The Soul of Dracula | 242797 | [242797-the-soul-of-dracula.json](./242797-the-soul-of-dracula.json) |
 | The Soul Ring of Soro: Divine Realm | 301603 | [301603-the-soul-ring-of-soro-divine-realm.json](./301603-the-soul-ring-of-soro-divine-realm.json) |
+| The Soulwalkers | 252796 | [252796-the-soulwalkers.json](./252796-the-soulwalkers.json) |
 | The source of evil | 29790 | [29790-the-source-of-evil.json](./29790-the-source-of-evil.json) |
 | The Source of the Nightmare Storms | 126625 | [126625-the-source-of-the-nightmare-storms.json](./126625-the-source-of-the-nightmare-storms.json) |
 | The South Island | 304381 | [304381-the-south-island.json](./304381-the-south-island.json) |
@@ -6756,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Told God-The Legacy of Cthulhu | 100813 | [100813-told-god-the-legacy-of-cthulhu.json](./100813-told-god-the-legacy-of-cthulhu.json) |
 | Told God: The Legacy of Cthulhu | 306363 | [306363-told-god-the-legacy-of-cthulhu.json](./306363-told-god-the-legacy-of-cthulhu.json) |
 | Toll Booth Simulator | 357260 | [357260-toll-booth-simulator.json](./357260-toll-booth-simulator.json) |
+| Tollan Worlds | 252805 | [252805-tollan-worlds.json](./252805-tollan-worlds.json) |
 | Tollway Tycoon | 400258 | [400258-tollway-tycoon.json](./400258-tollway-tycoon.json) |
 | Tom & Jerry MMO | 79312 | [79312-tom-and-jerry-mmo.json](./79312-tom-and-jerry-mmo.json) |
 | Tom & Jerry Popper | 47255 | [47255-tom-and-jerry-popper.json](./47255-tom-and-jerry-popper.json) |
@@ -7415,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower!3D: OMDB Airport | 161315 | [161315-tower-3d-omdb-airport.json](./161315-tower-3d-omdb-airport.json) |
 | Tower!3D: PHNL Airport | 161313 | [161313-tower-3d-phnl-airport.json](./161313-tower-3d-phnl-airport.json) |
 | Tower.Defense(): Program the Fight | 406215 | [406215-tower-defense-program-the-fight.json](./406215-tower-defense-program-the-fight.json) |
+| Towerborne | 252839 | [252839-towerborne.json](./252839-towerborne.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
 | Towerful Defense: A Rogue TD - The First Expansion | 385554 | [385554-towerful-defense-a-rogue-td-the-first-expansion.json](./385554-towerful-defense-a-rogue-td-the-first-expansion.json) |
@@ -8495,6 +8501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Life | 124166 | [124166-truck-life.json](./124166-truck-life.json) |
 | Truck Mechanic: Dangerous Paths | 134668 | [134668-truck-mechanic-dangerous-paths.json](./134668-truck-mechanic-dangerous-paths.json) |
 | Truck Parking Simulator VR | 305943 | [305943-truck-parking-simulator-vr.json](./305943-truck-parking-simulator-vr.json) |
+| Truck Raid | 252816 | [252816-truck-raid.json](./252816-truck-raid.json) |
 | Truck Simulation 19 | 111747 | [111747-truck-simulation-19.json](./111747-truck-simulation-19.json) |
 | Truck Simulator & World of Machines: Game Bundle Collection | 263562 | [263562-truck-simulator-and-world-of-machines-game-bundle-collection.json](./263562-truck-simulator-and-world-of-machines-game-bundle-collection.json) |
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
@@ -8965,6 +8972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
 | Typing Karaoke | 64362 | [64362-typing-karaoke.json](./64362-typing-karaoke.json) |
 | Typing Ninja | 290943 | [290943-typing-ninja.json](./290943-typing-ninja.json) |
+| Typing of Ys | 252843 | [252843-typing-of-ys.json](./252843-typing-of-ys.json) |
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
 | Typing Tales | 373004 | [373004-typing-tales.json](./373004-typing-tales.json) |
 | Typingcommand | 317412 | [317412-typingcommand.json](./317412-typingcommand.json) |
