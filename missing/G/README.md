@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameGuru | 59978 | [59978-gameguru.json](./59978-gameguru.json) |
 | GameGuru: Industrial Sewer Pack | 166190 | [166190-gameguru-industrial-sewer-pack.json](./166190-gameguru-industrial-sewer-pack.json) |
 | Gamehunt | 119768 | [119768-gamehunt.json](./119768-gamehunt.json) |
+| GameKid | 240871 | [240871-gamekid.json](./240871-gamekid.json) |
 | GameLib | 305917 | [305917-gamelib.json](./305917-gamelib.json) |
 | GameMaster | 241481 | [241481-gamemaster.json](./241481-gamemaster.json) |
 | GameOn! | 348239 | [348239-gameon.json](./348239-gameon.json) |
@@ -2036,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Slam Tennis | 4894 | [4894-grand-slam-tennis.json](./4894-grand-slam-tennis.json) |
 | Grand Slam Tennis 2 | 7002 | [7002-grand-slam-tennis-2.json](./7002-grand-slam-tennis-2.json) |
 | Grand Story | 182554 | [182554-grand-story.json](./182554-grand-story.json) |
+| Grand Strokers | 240911 | [240911-grand-strokers.json](./240911-grand-strokers.json) |
 | Grand Tactician: The Civil War (1861-1865) | 106575 | [106575-grand-tactician-the-civil-war-1861-1865.json](./106575-grand-tactician-the-civil-war-1861-1865.json) |
 | Grand Taxi Auto | 329571 | [329571-grand-taxi-auto.json](./329571-grand-taxi-auto.json) |
 | Grand Theft Auto | 44870 | [44870-grand-theft-auto.json](./44870-grand-theft-auto.json) |
