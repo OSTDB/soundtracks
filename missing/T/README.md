@@ -2286,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Defenders: The Second Wave | 35708 | [35708-the-defenders-the-second-wave.json](./35708-the-defenders-the-second-wave.json) |
 | The Defiant | 375948 | [375948-the-defiant.json](./375948-the-defiant.json) |
 | The Deletion | 34768 | [34768-the-deletion.json](./34768-the-deletion.json) |
+| The Delirium Dimension | 269658 | [269658-the-delirium-dimension.json](./269658-the-delirium-dimension.json) |
 | The Demon Lord and the Guardian Knights | 134641 | [134641-the-demon-lord-and-the-guardian-knights.json](./134641-the-demon-lord-and-the-guardian-knights.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
 | The Demon Within Me | 221194 | [221194-the-demon-within-me.json](./221194-the-demon-within-me.json) |
@@ -3467,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legendary Player - Make Your Reputation | 68612 | [68612-the-legendary-player-make-your-reputation.json](./68612-the-legendary-player-make-your-reputation.json) |
 | The Legendary Starfy | 20280 | [20280-the-legendary-starfy.json](./20280-the-legendary-starfy.json) |
 | The Legends of Maui | 289990 | [289990-the-legends-of-maui.json](./289990-the-legends-of-maui.json) |
+| The Legends of Oz: One Hundred Years of Oz | 269668 | [269668-the-legends-of-oz-one-hundred-years-of-oz.json](./269668-the-legends-of-oz-one-hundred-years-of-oz.json) |
 | The Legions of Rome | 31353 | [31353-the-legions-of-rome.json](./31353-the-legions-of-rome.json) |
 | The LEGO Movie 2 Videogame: Minifigure Edition | 139954 | [139954-the-lego-movie-2-videogame-minifigure-edition.json](./139954-the-lego-movie-2-videogame-minifigure-edition.json) |
 | The LEGO Movie 2 Videogame: Prophecy Pack | 375277 | [375277-the-lego-movie-2-videogame-prophecy-pack.json](./375277-the-lego-movie-2-videogame-prophecy-pack.json) |
@@ -6446,6 +6448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNN Motorsports Hardcore 4X4 | 20718 | [20718-tnn-motorsports-hardcore-4x4.json](./20718-tnn-motorsports-hardcore-4x4.json) |
 | TNN Outdoors Pro Hunter | 23150 | [23150-tnn-outdoors-pro-hunter.json](./23150-tnn-outdoors-pro-hunter.json) |
 | TNT 2: Devilution | 280913 | [280913-tnt-2-devilution.json](./280913-tnt-2-devilution.json) |
+| TNT Goes Boom! | 269661 | [269661-tnt-goes-boom.json](./269661-tnt-goes-boom.json) |
 | TNT Racers | 20555 | [20555-tnt-racers.json](./20555-tnt-racers.json) |
 | TNT: Evilution | 46616 | [46616-tnt-evilution.json](./46616-tnt-evilution.json) |
 | TNT! | 118978 | [118978-tnt.json](./118978-tnt.json) |
