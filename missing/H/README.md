@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: The Master Chief Collection Season 6 - Raven | 205052 | [205052-halo-the-master-chief-collection-season-6-raven.json](./205052-halo-the-master-chief-collection-season-6-raven.json) |
 | Halo: The Master Chief Collection Season 7 - Elite | 205053 | [205053-halo-the-master-chief-collection-season-7-elite.json](./205053-halo-the-master-chief-collection-season-7-elite.json) |
 | Halo: The Master Chief Collection Season 8 - Mythic | 205054 | [205054-halo-the-master-chief-collection-season-8-mythic.json](./205054-halo-the-master-chief-collection-season-8-mythic.json) |
+| Halo's Mixtape | 280905 | [280905-halos-mixtape.json](./280905-halos-mixtape.json) |
 | HaloMD | 141820 | [141820-halomd.json](./141820-halomd.json) |
 | Haloo | 298686 | [298686-haloo.json](./298686-haloo.json) |
 | HalOpe | 281399 | [281399-halope.json](./281399-halope.json) |
@@ -496,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Soldier | 406214 | [406214-hardcore-soldier.json](./406214-hardcore-soldier.json) |
 | HardDriverz | 365150 | [365150-harddriverz.json](./365150-harddriverz.json) |
 | Harder | 334707 | [334707-harder.json](./334707-harder.json) |
+| Hardfest 2 | 280906 | [280906-hardfest-2.json](./280906-hardfest-2.json) |
 | Hardhat Wombat | 244511 | [244511-hardhat-wombat.json](./244511-hardhat-wombat.json) |
 | Hardlight | 138829 | [138829-hardlight.json](./138829-hardlight.json) |
 | Hardline | 94221 | [94221-hardline.json](./94221-hardline.json) |
