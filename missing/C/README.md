@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Box U | 402983 | [402983-candy-box-u.json](./402983-candy-box-u.json) |
 | Candy Boy | 217021 | [217021-candy-boy.json](./217021-candy-boy.json) |
 | Candy Country: Sweet Wonder | 338003 | [338003-candy-country-sweet-wonder.json](./338003-candy-country-sweet-wonder.json) |
+| Candy Crisis | 265261 | [265261-candy-crisis.json](./265261-candy-crisis.json) |
 | Candy Crush Jelly Saga | 46503 | [46503-candy-crush-jelly-saga.json](./46503-candy-crush-jelly-saga.json) |
 | Candy Crush Saga Ticket Model | 229352 | [229352-candy-crush-saga-ticket-model.json](./229352-candy-crush-saga-ticket-model.json) |
 | Candy Girl | 382784 | [382784-candy-girl.json](./382784-candy-girl.json) |
@@ -4452,6 +4453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Knight | 367525 | [367525-crimson-knight.json](./367525-crimson-knight.json) |
 | Crimson Memories | 68887 | [68887-crimson-memories.json](./68887-crimson-memories.json) |
 | Crimson Moon | 389428 | [389428-crimson-moon.json](./389428-crimson-moon.json) |
+| Crimson Needle 3 | 265205 | [265205-crimson-needle-3.json](./265205-crimson-needle-3.json) |
 | Crimson Realms: Relics of the Forgotten World | 389959 | [389959-crimson-realms-relics-of-the-forgotten-world.json](./389959-crimson-realms-relics-of-the-forgotten-world.json) |
 | Crimson Room | 247536 | [247536-crimson-room.json](./247536-crimson-room.json) |
 | Crimson Room: Decade | 25809 | [25809-crimson-room-decade.json](./25809-crimson-room-decade.json) |
