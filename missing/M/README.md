@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Survivor: Gold Edition | 385204 | [385204-mars-survivor-gold-edition.json](./385204-mars-survivor-gold-edition.json) |
 | Mars Taken | 90147 | [90147-mars-taken.json](./90147-mars-taken.json) |
 | Mars Taxi | 70356 | [70356-mars-taxi.json](./70356-mars-taxi.json) |
+| Mars Training Camp VR | 264115 | [264115-mars-training-camp-vr.json](./264115-mars-training-camp-vr.json) |
 | Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
 | Mars Underground | 110490 | [110490-mars-underground.json](./110490-mars-underground.json) |
 | Mars: Chaos Menace | 111712 | [111712-mars-chaos-menace.json](./111712-mars-chaos-menace.json) |
@@ -2287,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Recoil | 338793 | [338793-memory-recoil.json](./338793-memory-recoil.json) |
 | Memory Shake | 341465 | [341465-memory-shake.json](./341465-memory-shake.json) |
 | Memory Train | 412986 | [412986-memory-train.json](./412986-memory-train.json) |
+| Memory: Unlocked | 264124 | [264124-memory-unlocked.json](./264124-memory-unlocked.json) |
 | MemoryMaze | 319367 | [319367-memorymaze.json](./319367-memorymaze.json) |
 | Men at Work! 2: Hunter Academy he Youkoso | 112298 | [112298-men-at-work-2-hunter-academy-he-youkoso.json](./112298-men-at-work-2-hunter-academy-he-youkoso.json) |
 | Men in Black | 270678 | [270678-men-in-black.json](./270678-men-in-black.json) |
@@ -4007,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Band | 293221 | [293221-monster-band.json](./293221-monster-band.json) |
 | Monster Bang | 233764 | [233764-monster-bang.json](./233764-monster-bang.json) |
 | Monster Bar | 240784 | [240784-monster-bar.json](./240784-monster-bar.json) |
+| Monster Bark | 264131 | [264131-monster-bark.json](./264131-monster-bark.json) |
 | Monster Bash | 18059 | [18059-monster-bash.json](./18059-monster-bash.json) |
 | Monster Battle | 302368 | [302368-monster-battle.json](./302368-monster-battle.json) |
 | Monster Battles | 343864 | [343864-monster-battles.json](./343864-monster-battles.json) |
