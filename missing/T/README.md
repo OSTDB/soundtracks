@@ -2424,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dusk Alliance | 250614 | [250614-the-dusk-alliance.json](./250614-the-dusk-alliance.json) |
 | The Dust Below | 183542 | [183542-the-dust-below.json](./183542-the-dust-below.json) |
 | The Dwarf Run | 34654 | [34654-the-dwarf-run.json](./34654-the-dwarf-run.json) |
+| The Dynasty Of Cats | 258009 | [258009-the-dynasty-of-cats.json](./258009-the-dynasty-of-cats.json) |
 | The E Ball | 108416 | [108416-the-e-ball.json](./108416-the-e-ball.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
@@ -3746,6 +3747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Master of the Land | 362278 | [362278-the-master-of-the-land.json](./362278-the-master-of-the-land.json) |
 | The Masters: Survival | 188571 | [188571-the-masters-survival.json](./188571-the-masters-survival.json) |
 | The Match Golf | 402918 | [402918-the-match-golf.json](./402918-the-match-golf.json) |
+| The Math Problem Killer | 257997 | [257997-the-math-problem-killer.json](./257997-the-math-problem-killer.json) |
 | The Mating Season | 218141 | [218141-the-mating-season.json](./218141-the-mating-season.json) |
 | The Matriarch | 188686 | [188686-the-matriarch.json](./188686-the-matriarch.json) |
 | The Maze | 107158 | [107158-the-maze.json](./107158-the-maze.json) |
@@ -5261,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch and the Lost Babies | 389585 | [389585-the-witch-and-the-lost-babies.json](./389585-the-witch-and-the-lost-babies.json) |
 | The Witch In The Woods | 253355 | [253355-the-witch-in-the-woods.json](./253355-the-witch-in-the-woods.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
+| The Witch's Cookbook | 257995 | [257995-the-witchs-cookbook.json](./257995-the-witchs-cookbook.json) |
 | The Witch's Fairy Tale | 318428 | [318428-the-witchs-fairy-tale.json](./318428-the-witchs-fairy-tale.json) |
 | The Witch's House MV | 111081 | [111081-the-witchs-house-mv.json](./111081-the-witchs-house-mv.json) |
 | The Witch's Knight | 254745 | [254745-the-witchs-knight.json](./254745-the-witchs-knight.json) |
@@ -6244,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Crisis: Project Titan | 12899 | [12899-time-crisis-project-titan.json](./12899-time-crisis-project-titan.json) |
 | Time Crisis: Razing Storm | 20449 | [20449-time-crisis-razing-storm.json](./20449-time-crisis-razing-storm.json) |
 | Time Cruise | 66089 | [66089-time-cruise.json](./66089-time-cruise.json) |
+| Time Drive: Racing Destiny | 258029 | [258029-time-drive-racing-destiny.json](./258029-time-drive-racing-destiny.json) |
 | Time Flies Like An Arrow | 276728 | [276728-time-flies-like-an-arrow.json](./276728-time-flies-like-an-arrow.json) |
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
@@ -6396,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Dream Home | 358313 | [358313-tiny-dream-home.json](./358313-tiny-dream-home.json) |
 | Tiny Eden | 346609 | [346609-tiny-eden.json](./346609-tiny-eden.json) |
 | Tiny Escape | 392270 | [392270-tiny-escape.json](./392270-tiny-escape.json) |
+| Tiny Europe | 258033 | [258033-tiny-europe.json](./258033-tiny-europe.json) |
 | Tiny Fat Hero | 232144 | [232144-tiny-fat-hero.json](./232144-tiny-fat-hero.json) |
 | Tiny Fishing | 165065 | [165065-tiny-fishing.json](./165065-tiny-fishing.json) |
 | Tiny Football | 191182 | [191182-tiny-football.json](./191182-tiny-football.json) |
@@ -7348,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Wishes 4: Shaka | 356769 | [356769-tower-of-wishes-4-shaka.json](./356769-tower-of-wishes-4-shaka.json) |
 | Tower Princess | 115661 | [115661-tower-princess.json](./115661-tower-princess.json) |
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
+| Tower Stack | 258031 | [258031-tower-stack.json](./258031-tower-stack.json) |
 | Tower Stack | 265743 | [265743-tower-stack.json](./265743-tower-stack.json) |
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
