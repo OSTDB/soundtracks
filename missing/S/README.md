@@ -2296,6 +2296,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
 | Shìjiè Zhīwài | 400305 | [400305-shijie-zhiwai.json](./400305-shijie-zhiwai.json) |
 | Shikhondo: Youkai Rampage | 283772 | [283772-shikhondo-youkai-rampage.json](./283772-shikhondo-youkai-rampage.json) |
+| Shiki Oni no Koku: Chuugoku-hen - Dainishou | 240303 | [240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json](./240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json) |
+| Shiki Oni no Koku: Chuugoku-hen - Daisanshou | 240304 | [240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json](./240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json) |
+| Shiki Oni no Koku: Chuugoku-hen - Daiyonshou | 240305 | [240305-shiki-oni-no-koku-chuugoku-hen-daiyonshou.json](./240305-shiki-oni-no-koku-chuugoku-hen-daiyonshou.json) |
 | Shiki-Tei | 93616 | [93616-shiki-tei.json](./93616-shiki-tei.json) |
 | Shiki: The Four Seasons | 123554 | [123554-shiki-the-four-seasons.json](./123554-shiki-the-four-seasons.json) |
 | Shikinjou | 231346 | [231346-shikinjou.json](./231346-shikinjou.json) |
@@ -4113,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakest | 109773 | [109773-snakest.json](./109773-snakest.json) |
 | Snaky Cat | 337093 | [337093-snaky-cat.json](./337093-snaky-cat.json) |
 | Snaky Snake | 70996 | [70996-snaky-snake.json](./70996-snaky-snake.json) |
+| Snaky Squares | 240341 | [240341-snaky-squares.json](./240341-snaky-squares.json) |
 | Snaky Survivor | 264624 | [264624-snaky-survivor.json](./264624-snaky-survivor.json) |
 | Snap & Grab | 347669 | [347669-snap-and-grab.json](./347669-snap-and-grab.json) |
 | Snap Flex | 334169 | [334169-snap-flex.json](./334169-snap-flex.json) |
@@ -4425,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sojourn Past | 291473 | [291473-sojourn-past.json](./291473-sojourn-past.json) |
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
 | Sok Min | 96888 | [96888-sok-min.json](./96888-sok-min.json) |
+| Sokfest | 240314 | [240314-sokfest.json](./240314-sokfest.json) |
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
 | Soko-Ban | 11763 | [11763-soko-ban.json](./11763-soko-ban.json) |
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
@@ -5840,6 +5845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Elixir | 19447 | [19447-speed-elixir.json](./19447-speed-elixir.json) |
 | Speed Factor | 378777 | [378777-speed-factor.json](./378777-speed-factor.json) |
 | Speed Guess: Something | 323188 | [323188-speed-guess-something.json](./323188-speed-guess-something.json) |
+| Speed High | 240355 | [240355-speed-high.json](./240355-speed-high.json) |
 | Speed Intense Island | 233514 | [233514-speed-intense-island.json](./233514-speed-intense-island.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
 | Speed Legacy: Ultimate Drive | 378186 | [378186-speed-legacy-ultimate-drive.json](./378186-speed-legacy-ultimate-drive.json) |
@@ -5939,6 +5945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellic | 207345 | [207345-spellic.json](./207345-spellic.json) |
 | Spelling Bee | 206122 | [206122-spelling-bee.json](./206122-spelling-bee.json) |
 | Spelling Challenges | 47952 | [47952-spelling-challenges.json](./47952-spelling-challenges.json) |
+| Spelling Go! | 240344 | [240344-spelling-go.json](./240344-spelling-go.json) |
 | Spellisimo | 400896 | [400896-spellisimo.json](./400896-spellisimo.json) |
 | Spellloom | 337487 | [337487-spellloom.json](./337487-spellloom.json) |
 | Spellmasons | 215714 | [215714-spellmasons.json](./215714-spellmasons.json) |
@@ -7251,6 +7258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Sword Story | 112949 | [112949-steel-sword-story.json](./112949-steel-sword-story.json) |
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
+| Steel Wool Studios Bundle | 240350 | [240350-steel-wool-studios-bundle.json](./240350-steel-wool-studios-bundle.json) |
 | Steel Worker | 299481 | [299481-steel-worker.json](./299481-steel-worker.json) |
 | Steel Wound | 217310 | [217310-steel-wound.json](./217310-steel-wound.json) |
 | SteelBlade Shop Simulator | 382322 | [382322-steelblade-shop-simulator.json](./382322-steelblade-shop-simulator.json) |
