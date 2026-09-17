@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw With Animals | 163405 | [163405-jigsaw-with-animals.json](./163405-jigsaw-with-animals.json) |
 | Jigsaw World | 308926 | [308926-jigsaw-world.json](./308926-jigsaw-world.json) |
 | Jigsaw World | 53249 | [53249-jigsaw-world.json](./53249-jigsaw-world.json) |
+| Jigsawship | 255760 | [255760-jigsawship.json](./255760-jigsawship.json) |
 | Jigsu | 79944 | [79944-jigsu.json](./79944-jigsu.json) |
 | Jigten: Mandala of Shadows | 376449 | [376449-jigten-mandala-of-shadows.json](./376449-jigten-mandala-of-shadows.json) |
 | Jiguland | 164964 | [164964-jiguland.json](./164964-jiguland.json) |
@@ -741,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Life | 259084 | [259084-joy-life.json](./259084-joy-life.json) |
 | Joy Life 3 | 273461 | [273461-joy-life-3.json](./273461-joy-life-3.json) |
 | Joy Life 4 | 336636 | [336636-joy-life-4.json](./336636-joy-life-4.json) |
+| Joy Match 3D | 255796 | [255796-joy-match-3d.json](./255796-joy-match-3d.json) |
 | Joy of Ping Pong | 230844 | [230844-joy-of-ping-pong.json](./230844-joy-of-ping-pong.json) |
 | Joyman | 40203 | [40203-joyman.json](./40203-joyman.json) |
 | Joyo Kanji Quiz | 99646 | [99646-joyo-kanji-quiz.json](./99646-joyo-kanji-quiz.json) |
