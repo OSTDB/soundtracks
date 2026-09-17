@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise XRPL | 321549 | [321549-paradise-xrpl.json](./321549-paradise-xrpl.json) |
 | Paradize Project | 208418 | [208418-paradize-project.json](./208418-paradize-project.json) |
 | Paradox Lost | 330161 | [330161-paradox-lost.json](./330161-paradox-lost.json) |
+| Paradox Metal | 264142 | [264142-paradox-metal.json](./264142-paradox-metal.json) |
 | Paradox of the Cryptomancers | 99622 | [99622-paradox-of-the-cryptomancers.json](./99622-paradox-of-the-cryptomancers.json) |
 | Paradox Soul | 83933 | [83933-paradox-soul.json](./83933-paradox-soul.json) |
 | Paradox Vector | 116943 | [116943-paradox-vector.json](./116943-paradox-vector.json) |
@@ -891,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pau E Pedra | 362927 | [362927-pau-e-pedra.json](./362927-pau-e-pedra.json) |
 | Paul | 387499 | [387499-paul.json](./387499-paul.json) |
 | Paul Quest Gold Edition | 325699 | [325699-paul-quest-gold-edition.json](./325699-paul-quest-gold-edition.json) |
+| Pauli's Adventure Island | 264101 | [264101-paulis-adventure-island.json](./264101-paulis-adventure-island.json) |
 | Paulo | 86056 | [86056-paulo.json](./86056-paulo.json) |
 | Pavor | 116378 | [116378-pavor.json](./116378-pavor.json) |
 | Pavor | 215690 | [215690-pavor.json](./215690-pavor.json) |
@@ -2837,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Crystal 251 | 312377 | [312377-pokemon-crystal-251.json](./312377-pokemon-crystal-251.json) |
 | Pokémon Cyan | 129814 | [129814-pokemon-cyan.json](./129814-pokemon-cyan.json) |
 | Pokémon Daybreak | 241389 | [241389-pokemon-daybreak.json](./241389-pokemon-daybreak.json) |
+| Pokemon Daycare | 264130 | [264130-pokemon-daycare.json](./264130-pokemon-daycare.json) |
 | Pokémon Deluge | 172745 | [172745-pokemon-deluge.json](./172745-pokemon-deluge.json) |
 | Pokémon Dreary | 213962 | [213962-pokemon-dreary.json](./213962-pokemon-dreary.json) |
 | Pokémon Duelist | 359980 | [359980-pokemon-duelist.json](./359980-pokemon-duelist.json) |
@@ -3325,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PortalOne Arcade | 181305 | [181305-portalone-arcade.json](./181305-portalone-arcade.json) |
 | Portals of P'Thaal | 142459 | [142459-portals-of-pthaal.json](./142459-portals-of-pthaal.json) |
 | Portals of Phereon | 268548 | [268548-portals-of-phereon.json](./268548-portals-of-phereon.json) |
+| Portals: Escape the Infinity | 264151 | [264151-portals-escape-the-infinity.json](./264151-portals-escape-the-infinity.json) |
 | Portentum | 412401 | [412401-portentum.json](./412401-portentum.json) |
 | Porter | 196807 | [196807-porter.json](./196807-porter.json) |
 | Porter | 229060 | [229060-porter.json](./229060-porter.json) |
