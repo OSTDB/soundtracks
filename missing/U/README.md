@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicycle Giraffe | 318984 | [318984-unicycle-giraffe.json](./318984-unicycle-giraffe.json) |
 | Unicycle Journey | 415082 | [415082-unicycle-journey.json](./415082-unicycle-journey.json) |
 | Unicycle Together | 389403 | [389403-unicycle-together.json](./389403-unicycle-together.json) |
+| Uniform Girl | 242062 | [242062-uniform-girl.json](./242062-uniform-girl.json) |
 | Unikitty! Save the Kingdom! | 199029 | [199029-unikitty-save-the-kingdom.json](./199029-unikitty-save-the-kingdom.json) |
 | Unimersiv | 51918 | [51918-unimersiv.json](./51918-unimersiv.json) |
 | Unimime: Unicycle Madness | 251594 | [251594-unimime-unicycle-madness.json](./251594-unimime-unicycle-madness.json) |
@@ -985,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UzeMaze | 270418 | [270418-uzemaze.json](./270418-uzemaze.json) |
 | UzeMaze RA | 270419 | [270419-uzemaze-ra.json](./270419-uzemaze-ra.json) |
 | Uzo | 195761 | [195761-uzo.json](./195761-uzo.json) |
+| Uzzuzzu My Pet | 242056 | [242056-uzzuzzu-my-pet.json](./242056-uzzuzzu-my-pet.json) |
 | Uzzuzzu My Pet: Golf Dash - Amazing Edition | 328811 | [328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json](./328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Boo's Challenge | 283297 | [283297-uzzuzzu-my-pet-golf-dash-boos-challenge.json](./283297-uzzuzzu-my-pet-golf-dash-boos-challenge.json) |
 | Uzzuzzu My Pet: Golf Dash - Director's Cut | 328821 | [328821-uzzuzzu-my-pet-golf-dash-directors-cut.json](./328821-uzzuzzu-my-pet-golf-dash-directors-cut.json) |
