@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made Marion | 148518 | [148518-made-marion.json](./148518-made-marion.json) |
 | Made of DIrt | 185691 | [185691-made-of-dirt.json](./185691-made-of-dirt.json) |
 | Madievals | 120378 | [120378-madievals.json](./120378-madievals.json) |
+| Madison VR | 252791 | [252791-madison-vr.json](./252791-madison-vr.json) |
 | Madland | 121598 | [121598-madland.json](./121598-madland.json) |
 | Madman | 272280 | [272280-madman.json](./272280-madman.json) |
 | Madness | 309846 | [309846-madness.json](./309846-madness.json) |
@@ -432,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicolor TD | 280173 | [280173-magicolor-td.json](./280173-magicolor-td.json) |
 | MagiCraze | 151720 | [151720-magicraze.json](./151720-magicraze.json) |
 | MagicShop2 | 253903 | [253903-magicshop2.json](./253903-magicshop2.json) |
+| Magiduck | 252868 | [252868-magiduck.json](./252868-magiduck.json) |
 | Magiduel | 177019 | [177019-magiduel.json](./177019-magiduel.json) |
 | Magin: The Rat Project Stories - Essence Edition | 396920 | [396920-magin-the-rat-project-stories-essence-edition.json](./396920-magin-the-rat-project-stories-essence-edition.json) |
 | Magin: The Rat Project Stories - Supporter Pack | 396912 | [396912-magin-the-rat-project-stories-supporter-pack.json](./396912-magin-the-rat-project-stories-supporter-pack.json) |
@@ -916,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maria | 308406 | [308406-maria.json](./308406-maria.json) |
 | Maria 2: Jutai Kokuchi no Nazo | 74346 | [74346-maria-2-jutai-kokuchi-no-nazo.json](./74346-maria-2-jutai-kokuchi-no-nazo.json) |
 | Maria/Alchemist: Synthetist Maria's Tragedy | 98455 | [98455-maria-alchemist-synthetist-marias-tragedy.json](./98455-maria-alchemist-synthetist-marias-tragedy.json) |
+| Mariachi Legends | 252852 | [252852-mariachi-legends.json](./252852-mariachi-legends.json) |
 | Mariam Game | 235484 | [235484-mariam-game.json](./235484-mariam-game.json) |
 | Maridows 64 | 250047 | [250047-maridows-64.json](./250047-maridows-64.json) |
 | Marie's Patisserie: Sweet Dreams - Collector's Edition | 362840 | [362840-maries-patisserie-sweet-dreams-collectors-edition.json](./362840-maries-patisserie-sweet-dreams-collectors-edition.json) |
@@ -2723,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Machines 1 and 2: Twin Turbo | 93056 | [93056-micro-machines-1-and-2-twin-turbo.json](./93056-micro-machines-1-and-2-twin-turbo.json) |
 | Micro Machines 2: Turbo Tournament | 8775 | [8775-micro-machines-2-turbo-tournament.json](./8775-micro-machines-2-turbo-tournament.json) |
 | Micro Machines V4 | 8512 | [8512-micro-machines-v4.json](./8512-micro-machines-v4.json) |
+| Micro Madness | 252819 | [252819-micro-madness.json](./252819-micro-madness.json) |
 | Micro Mages | 110882 | [110882-micro-mages.json](./110882-micro-mages.json) |
 | Micro Mayhem | 115040 | [115040-micro-mayhem.json](./115040-micro-mayhem.json) |
 | Micro Maze | 252731 | [252731-micro-maze.json](./252731-micro-maze.json) |
@@ -2842,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator: 40th Anniversary Edition | 293926 | [293926-microsoft-flight-simulator-40th-anniversary-edition.json](./293926-microsoft-flight-simulator-40th-anniversary-edition.json) |
 | Microsoft Flight Simulator: Deluxe 40th Anniversary Edition | 293928 | [293928-microsoft-flight-simulator-deluxe-40th-anniversary-edition.json](./293928-microsoft-flight-simulator-deluxe-40th-anniversary-edition.json) |
 | Microsoft Flight Simulator: Deluxe Edition | 139959 | [139959-microsoft-flight-simulator-deluxe-edition.json](./139959-microsoft-flight-simulator-deluxe-edition.json) |
+| Microsoft Flight Simulator: Dune | 252831 | [252831-microsoft-flight-simulator-dune.json](./252831-microsoft-flight-simulator-dune.json) |
 | Microsoft Flight Simulator: Premium Deluxe 40th Anniversary Edition | 293927 | [293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json](./293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json) |
 | Microsoft Flight Simulator: Top Gun - Maverick | 152312 | [152312-microsoft-flight-simulator-top-gun-maverick.json](./152312-microsoft-flight-simulator-top-gun-maverick.json) |
 | Microsoft Flight Simulator: World Update 18 | 314484 | [314484-microsoft-flight-simulator-world-update-18.json](./314484-microsoft-flight-simulator-world-update-18.json) |
