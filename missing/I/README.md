@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion Connect | 139382 | [139382-illusion-connect.json](./139382-illusion-connect.json) |
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
 | Illusion of Being: Chapter 1 | 375953 | [375953-illusion-of-being-chapter-1.json](./375953-illusion-of-being-chapter-1.json) |
+| Illusion of Itehari | 242067 | [242067-illusion-of-itehari.json](./242067-illusion-of-itehari.json) |
 | Illusion of L'Phalcia | 39010 | [39010-illusion-of-lphalcia.json](./39010-illusion-of-lphalcia.json) |
 | Illusion Squares | 255170 | [255170-illusion-squares.json](./255170-illusion-squares.json) |
 | Illusions 360 | 67971 | [67971-illusions-360.json](./67971-illusions-360.json) |
@@ -1742,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle o' Little Men | 310409 | [310409-isle-o-little-men.json](./310409-isle-o-little-men.json) |
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
 | Isle of Jura | 167395 | [167395-isle-of-jura.json](./167395-isle-of-jura.json) |
+| Isle of Jura Fishing Trip | 242055 | [242055-isle-of-jura-fishing-trip.json](./242055-isle-of-jura-fishing-trip.json) |
 | Isle of Jura Fishing Trip: Complete Edition | 268564 | [268564-isle-of-jura-fishing-trip-complete-edition.json](./268564-isle-of-jura-fishing-trip-complete-edition.json) |
 | Isle of Jura Fishing Trip: Ultimate Edition | 251689 | [251689-isle-of-jura-fishing-trip-ultimate-edition.json](./251689-isle-of-jura-fishing-trip-ultimate-edition.json) |
 | Isle of Lament | 375990 | [375990-isle-of-lament.json](./375990-isle-of-lament.json) |
