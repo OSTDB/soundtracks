@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Training | 316067 | [316067-zen-training.json](./316067-zen-training.json) |
 | Zen Wars | 200187 | [200187-zen-wars.json](./200187-zen-wars.json) |
 | Zen Wash | 381713 | [381713-zen-wash.json](./381713-zen-wash.json) |
+| Zen with a Pen | 260252 | [260252-zen-with-a-pen.json](./260252-zen-with-a-pen.json) |
 | Zen-Ichi | 82119 | [82119-zen-ichi.json](./82119-zen-ichi.json) |
 | Zen-Nippon Joshi Pro Wrestling: Queen of Queens | 45954 | [45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json](./45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json) |
 | Zen: Intergalactic Ninja | 48251 | [48251-zen-intergalactic-ninja.json](./48251-zen-intergalactic-ninja.json) |
