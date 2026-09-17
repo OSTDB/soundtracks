@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber Waluigi | 323352 | [323352-plumber-waluigi.json](./323352-plumber-waluigi.json) |
 | Plumbers Creed | 178667 | [178667-plumbers-creed.json](./178667-plumbers-creed.json) |
 | Plumbers Don't Wear Ties | 4251 | [4251-plumbers-dont-wear-ties.json](./4251-plumbers-dont-wear-ties.json) |
+| Plumbers Don't Wear Ties: But They Do Carry Shotguns | 271316 | [271316-plumbers-dont-wear-ties-but-they-do-carry-shotguns.json](./271316-plumbers-dont-wear-ties-but-they-do-carry-shotguns.json) |
 | Plumbers Don't Wear Ties: Definitive Edition - Collector's Edition | 267640 | [267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json](./267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json) |
 | Plumbing Contest | 230836 | [230836-plumbing-contest.json](./230836-plumbing-contest.json) |
 | Plummet | 84238 | [84238-plummet.json](./84238-plummet.json) |
@@ -3446,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Stakes | 301385 | [301385-power-stakes.json](./301385-power-stakes.json) |
 | Power Stakes 2 | 301386 | [301386-power-stakes-2.json](./301386-power-stakes-2.json) |
 | Power Stakes: Grade 1 | 141165 | [141165-power-stakes-grade-1.json](./141165-power-stakes-grade-1.json) |
+| Power Structure | 271318 | [271318-power-structure.json](./271318-power-structure.json) |
 | Power Struggle | 55031 | [55031-power-struggle.json](./55031-power-struggle.json) |
 | Power to Play: The Game | 255082 | [255082-power-to-play-the-game.json](./255082-power-to-play-the-game.json) |
 | Power Tower | 113671 | [113671-power-tower.json](./113671-power-tower.json) |
@@ -3565,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pressure Gauge | 40756 | [40756-pressure-gauge.json](./40756-pressure-gauge.json) |
 | Prestigious School Story | 92461 | [92461-prestigious-school-story.json](./92461-prestigious-school-story.json) |
 | Preston Sterling and the Legend of Excalibur | 55868 | [55868-preston-sterling-and-the-legend-of-excalibur.json](./55868-preston-sterling-and-the-legend-of-excalibur.json) |
+| Pretend Dead Friend | 271308 | [271308-pretend-dead-friend.json](./271308-pretend-dead-friend.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
 | Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
