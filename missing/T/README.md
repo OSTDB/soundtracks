@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarareba | 194555 | [194555-tarareba.json](./194555-tarareba.json) |
 | Taravana | 132251 | [132251-taravana.json](./132251-taravana.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
+| Target | 250424 | [250424-target.json](./250424-target.json) |
 | Target | 88186 | [88186-target.json](./88186-target.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
 | Target Toss Pro: Bags | 85431 | [85431-target-toss-pro-bags.json](./85431-target-toss-pro-bags.json) |
@@ -880,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
 | Teach My Little Sister How to Drive | 373092 | [373092-teach-my-little-sister-how-to-drive.json](./373092-teach-my-little-sister-how-to-drive.json) |
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
+| Teachers. With Love and Passion | 250441 | [250441-teachers-with-love-and-passion.json](./250441-teachers-with-love-and-passion.json) |
 | TeaChess | 188036 | [188036-teachess.json](./188036-teachess.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
 | TeaKnights | 408906 | [408906-teaknights.json](./408906-teaknights.json) |
@@ -2012,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cell | 326947 | [326947-the-cell.json](./326947-the-cell.json) |
 | The Cellar Door | 62708 | [62708-the-cellar-door.json](./62708-the-cellar-door.json) |
 | The Cells | 110998 | [110998-the-cells.json](./110998-the-cells.json) |
+| The Centennial Case | 250435 | [250435-the-centennial-case.json](./250435-the-centennial-case.json) |
 | The Cerberus Project | 41932 | [41932-the-cerberus-project.json](./41932-the-cerberus-project.json) |
 | The Cerpan Project | 273397 | [273397-the-cerpan-project.json](./273397-the-cerpan-project.json) |
 | The Cesspit | 367966 | [367966-the-cesspit.json](./367966-the-cesspit.json) |
@@ -6992,6 +6995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toontown Online | 25326 | [25326-toontown-online.json](./25326-toontown-online.json) |
 | Toontown Rewritten: Clear Coasts | 373635 | [373635-toontown-rewritten-clear-coasts.json](./373635-toontown-rewritten-clear-coasts.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
+| Tooth Fairy Horse | 250454 | [250454-tooth-fairy-horse.json](./250454-tooth-fairy-horse.json) |
 | Tootuff | 125952 | [125952-tootuff.json](./125952-tootuff.json) |
 | Tootuff: Mission Nadia | 48037 | [48037-tootuff-mission-nadia.json](./48037-tootuff-mission-nadia.json) |
 | Top Bike: Racing & Moto Drag | 187455 | [187455-top-bike-racing-and-moto-drag.json](./187455-top-bike-racing-and-moto-drag.json) |
