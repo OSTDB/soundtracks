@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camelot 2: The Holy Grail | 247766 | [247766-camelot-2-the-holy-grail.json](./247766-camelot-2-the-holy-grail.json) |
 | Camelot II: The Holy Grail - Collector's Edition | 417499 | [417499-camelot-ii-the-holy-grail-collectors-edition.json](./417499-camelot-ii-the-holy-grail-collectors-edition.json) |
 | Camelot Warriors | 13461 | [13461-camelot-warriors.json](./13461-camelot-warriors.json) |
+| Camera Anima | 259647 | [259647-camera-anima.json](./259647-camera-anima.json) |
 | Camera Birds | 245319 | [245319-camera-birds.json](./245319-camera-birds.json) |
 | CameraBag 2 | 379380 | [379380-camerabag-2.json](./379380-camerabag-2.json) |
 | CamGirls Inc | 202386 | [202386-camgirls-inc.json](./202386-camgirls-inc.json) |
