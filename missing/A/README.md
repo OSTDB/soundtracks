@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I. Space Corps | 34206 | [34206-a-i-space-corps.json](./34206-a-i-space-corps.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
+| A.S.S.: Awesome Street Skaters | 245907 | [245907-a-s-s-awesome-street-skaters.json](./245907-a-s-s-awesome-street-skaters.json) |
 | A.V.A Global: Masters Pack | 298709 | [298709-a-v-a-global-masters-pack.json](./298709-a-v-a-global-masters-pack.json) |
 | A'Jatt | 372556 | [372556-ajatt.json](./372556-ajatt.json) |
 | A/X-101 | 5360 | [5360-a-x-101.json](./5360-a-x-101.json) |
@@ -1778,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ampsball | 398443 | [398443-ampsball.json](./398443-ampsball.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amstrad Eterno X | 376589 | [376589-amstrad-eterno-x.json](./376589-amstrad-eterno-x.json) |
+| Amulet of Lovar | 245957 | [245957-amulet-of-lovar.json](./245957-amulet-of-lovar.json) |
 | Amulet of Yendor | 2882 | [2882-amulet-of-yendor.json](./2882-amulet-of-yendor.json) |
 | Amusement Park: Jumping Kid | 203385 | [203385-amusement-park-jumping-kid.json](./203385-amusement-park-jumping-kid.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
@@ -2934,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Simulator | 332264 | [332264-archery-simulator.json](./332264-archery-simulator.json) |
 | Archery Star | 106630 | [106630-archery-star.json](./106630-archery-star.json) |
 | Archery Tournament | 242563 | [242563-archery-tournament.json](./242563-archery-tournament.json) |
+| Archesis | 245955 | [245955-archesis.json](./245955-archesis.json) |
 | Archetype | 80584 | [80584-archetype.json](./80584-archetype.json) |
 | Archetype Arcadia | 155082 | [155082-archetype-arcadia.json](./155082-archetype-arcadia.json) |
 | Archetypes: The Rite of Passage | 211439 | [211439-archetypes-the-rite-of-passage.json](./211439-archetypes-the-rite-of-passage.json) |
@@ -4278,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axo Away | 184065 | [184065-axo-away.json](./184065-axo-away.json) |
 | Axol's Quest | 369126 | [369126-axols-quest.json](./369126-axols-quest.json) |
 | Axolotl | 267997 | [267997-axolotl.json](./267997-axolotl.json) |
+| Axolotl Kingdom | 245940 | [245940-axolotl-kingdom.json](./245940-axolotl-kingdom.json) |
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
 | Axxx: Taught and Fucked | 375949 | [375949-axxx-taught-and-fucked.json](./375949-axxx-taught-and-fucked.json) |
 | Axyz | 293648 | [293648-axyz.json](./293648-axyz.json) |
