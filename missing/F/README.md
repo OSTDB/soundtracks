@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Invasion USA | 61125 | [61125-farm-invasion-usa.json](./61125-farm-invasion-usa.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
 | Farm Kitten: Puzzle Pipes | 165711 | [165711-farm-kitten-puzzle-pipes.json](./165711-farm-kitten-puzzle-pipes.json) |
+| Farm Land: Complete Edition | 270793 | [270793-farm-land-complete-edition.json](./270793-farm-land-complete-edition.json) |
 | Farm Land: Gold Edition | 385198 | [385198-farm-land-gold-edition.json](./385198-farm-land-gold-edition.json) |
 | Farm Life | 381011 | [381011-farm-life.json](./381011-farm-life.json) |
 | Farm Life: Natures Adventure | 31804 | [31804-farm-life-natures-adventure.json](./31804-farm-life-natures-adventure.json) |
@@ -2489,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Starter Edition | 216232 | [216232-for-honor-starter-edition.json](./216232-for-honor-starter-edition.json) |
 | For Honor: Ultimate Heroes Pack | 305767 | [305767-for-honor-ultimate-heroes-pack.json](./305767-for-honor-ultimate-heroes-pack.json) |
 | For Honor: Warmonger Hero | 170436 | [170436-for-honor-warmonger-hero.json](./170436-for-honor-warmonger-hero.json) |
+| For My Babies | 270770 | [270770-for-my-babies.json](./270770-for-my-babies.json) |
 | For Political Lovers, a Little Utopia Sketch | 128612 | [128612-for-political-lovers-a-little-utopia-sketch.json](./128612-for-political-lovers-a-little-utopia-sketch.json) |
 | For Rent: Haunted House | 83600 | [83600-for-rent-haunted-house.json](./83600-for-rent-haunted-house.json) |
 | For Runner Night | 195720 | [195720-for-runner-night.json](./195720-for-runner-night.json) |
@@ -2760,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Cookie | 340238 | [340238-fortune-cookie.json](./340238-fortune-cookie.json) |
 | Fortune Cookie | 59928 | [59928-fortune-cookie.json](./59928-fortune-cookie.json) |
 | Fortune Cookie: More Cookies | 340239 | [340239-fortune-cookie-more-cookies.json](./340239-fortune-cookie-more-cookies.json) |
+| Fortune Decker | 270743 | [270743-fortune-decker.json](./270743-fortune-decker.json) |
 | Fortune Handlers | 235493 | [235493-fortune-handlers.json](./235493-fortune-handlers.json) |
 | Fortune Hunters | 117729 | [117729-fortune-hunters.json](./117729-fortune-hunters.json) |
 | Fortune Rewritten: Costume Pack 1 | 277939 | [277939-fortune-rewritten-costume-pack-1.json](./277939-fortune-rewritten-costume-pack-1.json) |
@@ -3051,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle Baseball 2 | 239890 | [239890-freestyle-baseball-2.json](./239890-freestyle-baseball-2.json) |
 | Freestyle Boardin' '99 | 23155 | [23155-freestyle-boardin-99.json](./23155-freestyle-boardin-99.json) |
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
+| Freestyle Football Z | 270774 | [270774-freestyle-football-z.json](./270774-freestyle-football-z.json) |
 | Freeway | 131544 | [131544-freeway.json](./131544-freeway.json) |
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
@@ -3451,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
 | Fun Chess: Definitive Edition | 275032 | [275032-fun-chess-definitive-edition.json](./275032-fun-chess-definitive-edition.json) |
 | Fun Chess: Platinum Edition | 283146 | [283146-fun-chess-platinum-edition.json](./283146-fun-chess-platinum-edition.json) |
+| Fun Chess: Premium Edition | 270792 | [270792-fun-chess-premium-edition.json](./270792-fun-chess-premium-edition.json) |
 | Fun Feud Trivia | 208974 | [208974-fun-feud-trivia.json](./208974-fun-feud-trivia.json) |
 | Fun Fox’s Biscuit Bash | 397089 | [397089-fun-fox-s-biscuit-bash.json](./397089-fun-fox-s-biscuit-bash.json) |
 | Fun Fruit Merge | 305388 | [305388-fun-fruit-merge.json](./305388-fun-fruit-merge.json) |
