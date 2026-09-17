@@ -3282,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poor Artifact Maker | 290538 | [290538-poor-artifact-maker.json](./290538-poor-artifact-maker.json) |
 | Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
 | Poorer Art | 377160 | [377160-poorer-art.json](./377160-poorer-art.json) |
+| Poosh XL | 236361 | [236361-poosh-xl.json](./236361-poosh-xl.json) |
 | PooSky | 68615 | [68615-poosky.json](./68615-poosky.json) |
 | Pooyan | 297493 | [297493-pooyan.json](./297493-pooyan.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
@@ -4187,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Paradise 2 | 326978 | [326978-project-paradise-2.json](./326978-project-paradise-2.json) |
 | Project Parasite | 255379 | [255379-project-parasite.json](./255379-project-parasite.json) |
 | Project Phoenix | 7204 | [7204-project-phoenix.json](./7204-project-phoenix.json) |
+| Project Planet: Earth Vs. Humanity | 236394 | [236394-project-planet-earth-vs-humanity.json](./236394-project-planet-earth-vs-humanity.json) |
 | Project Playtime: Phase 3 - Forsaken | 271727 | [271727-project-playtime-phase-3-forsaken.json](./271727-project-playtime-phase-3-forsaken.json) |
 | Project Possession | 211950 | [211950-project-possession.json](./211950-project-possession.json) |
 | Project Prison | 157190 | [157190-project-prison.json](./157190-project-prison.json) |
