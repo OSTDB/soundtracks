@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Pro Contest | 325692 | [325692-rally-pro-contest.json](./325692-rally-pro-contest.json) |
 | Rally Racers | 76648 | [76648-rally-racers.json](./76648-rally-racers.json) |
 | Rally Racing | 186867 | [186867-rally-racing.json](./186867-rally-racing.json) |
+| Rally Racing: Cars & Drift Mania | 265711 | [265711-rally-racing-cars-and-drift-mania.json](./265711-rally-racing-cars-and-drift-mania.json) |
 | Rally Rumble | 280787 | [280787-rally-rumble.json](./280787-rally-rumble.json) |
 | Rally Run | 237371 | [237371-rally-run.json](./237371-rally-run.json) |
 | Rally Shift | 399086 | [399086-rally-shift.json](./399086-rally-shift.json) |
@@ -1048,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tag Rendezvous | 180769 | [180769-red-tag-rendezvous.json](./180769-red-tag-rendezvous.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
 | Red Tide | 391177 | [391177-red-tide.json](./391177-red-tide.json) |
+| Red Tie Runner | 265720 | [265720-red-tie-runner.json](./265720-red-tie-runner.json) |
 | Red Trees Rail. CO | 305925 | [305925-red-trees-rail-co.json](./305925-red-trees-rail-co.json) |
 | Red Wings: Coloring Planes | 192405 | [192405-red-wings-coloring-planes.json](./192405-red-wings-coloring-planes.json) |
 | Red Wolf | 378200 | [378200-red-wolf.json](./378200-red-wolf.json) |
@@ -3169,6 +3171,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins of The Titan | 365069 | [365069-ruins-of-the-titan.json](./365069-ruins-of-the-titan.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
 | RuinsCity_VR | 30930 | [30930-ruinscity-vr.json](./30930-ruinscity-vr.json) |
+| Ruinsmagus: Complete | 265713 | [265713-ruinsmagus-complete.json](./265713-ruinsmagus-complete.json) |
+| Ruinsmagus: The Warrior and the Tailor | 265762 | [265762-ruinsmagus-the-warrior-and-the-tailor.json](./265762-ruinsmagus-the-warrior-and-the-tailor.json) |
 | Rule No. 2 | 199562 | [199562-rule-no-2.json](./199562-rule-no-2.json) |
 | Rule the Waves | 59943 | [59943-rule-the-waves.json](./59943-rule-the-waves.json) |
 | Rule the Waves 3: Expanded Battles | 324928 | [324928-rule-the-waves-3-expanded-battles.json](./324928-rule-the-waves-3-expanded-battles.json) |
