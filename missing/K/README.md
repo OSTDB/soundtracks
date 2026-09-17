@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiipluu | 360602 | [360602-kiipluu.json](./360602-kiipluu.json) |
 | Kiitsu | 96734 | [96734-kiitsu.json](./96734-kiitsu.json) |
 | Kikaijikake no Merceneria | 386112 | [386112-kikaijikake-no-merceneria.json](./386112-kikaijikake-no-merceneria.json) |
+| Kiken Drive: 2nd Lap | 273464 | [273464-kiken-drive-2nd-lap.json](./273464-kiken-drive-2nd-lap.json) |
 | Kiki | 309528 | [309528-kiki.json](./309528-kiki.json) |
 | Kiki's Adventure | 125462 | [125462-kikis-adventure.json](./125462-kikis-adventure.json) |
 | Kiko's Apple Adventure | 336635 | [336635-kikos-apple-adventure.json](./336635-kikos-apple-adventure.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunkun League | 303619 | [303619-kunkun-league.json](./303619-kunkun-league.json) |
 | Kunkun Terror Express | 296921 | [296921-kunkun-terror-express.json](./296921-kunkun-terror-express.json) |
 | Kunkunkun | 287214 | [287214-kunkunkun.json](./287214-kunkunkun.json) |
+| KunKunNight | 273463 | [273463-kunkunnight.json](./273463-kunkunnight.json) |
 | Kunoichi Beat | 369589 | [369589-kunoichi-beat.json](./369589-kunoichi-beat.json) |
 | Kunoichi Torimonocho | 123577 | [123577-kunoichi-torimonocho.json](./123577-kunoichi-torimonocho.json) |
 | Kuon | 10909 | [10909-kuon.json](./10909-kuon.json) |
