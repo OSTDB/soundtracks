@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Experiments | 363962 | [363962-scp-experiments.json](./363962-scp-experiments.json) |
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
+| SCP: Rulebreaker | 279770 | [279770-scp-rulebreaker.json](./279770-scp-rulebreaker.json) |
 | SCP: Run For Freedom | 338266 | [338266-scp-run-for-freedom.json](./338266-scp-run-for-freedom.json) |
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
 | SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
@@ -4596,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
 | Sonic Dreams Collection | 11656 | [11656-sonic-dreams-collection.json](./11656-sonic-dreams-collection.json) |
 | Sonic Drift | 45798 | [45798-sonic-drift.json](./45798-sonic-drift.json) |
+| Sonic Drift 16-Bit | 279759 | [279759-sonic-drift-16-bit.json](./279759-sonic-drift-16-bit.json) |
 | Sonic Dynamo | 320357 | [320357-sonic-dynamo.json](./320357-sonic-dynamo.json) |
 | Sonic Elementals | 333959 | [333959-sonic-elementals.json](./333959-sonic-elementals.json) |
 | Sonic Epsilon | 332553 | [332553-sonic-epsilon.json](./332553-sonic-epsilon.json) |
@@ -4747,6 +4749,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Streak 2 | 330867 | [330867-sonic-streak-2.json](./330867-sonic-streak-2.json) |
 | Sonic StrikerZ | 316424 | [316424-sonic-strikerz.json](./316424-sonic-strikerz.json) |
 | Sonic Sundown | 321395 | [321395-sonic-sundown.json](./321395-sonic-sundown.json) |
+| Sonic Superstars: Lego Dr. Eggman | 279744 | [279744-sonic-superstars-lego-dr-eggman.json](./279744-sonic-superstars-lego-dr-eggman.json) |
+| Sonic Superstars: Lego Fun Pack | 279743 | [279743-sonic-superstars-lego-fun-pack.json](./279743-sonic-superstars-lego-fun-pack.json) |
 | Sonic Superstars: Lego Sonic Skin | 275305 | [275305-sonic-superstars-lego-sonic-skin.json](./275305-sonic-superstars-lego-sonic-skin.json) |
 | Sonic Surge: Rhythm Showdown | 333913 | [333913-sonic-surge-rhythm-showdown.json](./333913-sonic-surge-rhythm-showdown.json) |
 | Sonic Switch | 325840 | [325840-sonic-switch.json](./325840-sonic-switch.json) |
@@ -6031,6 +6035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpotCat vs. The Cheddar Mafia In Europe | 388199 | [388199-spotcat-vs-the-cheddar-mafia-in-europe.json](./388199-spotcat-vs-the-cheddar-mafia-in-europe.json) |
 | SpotCat vs. The Cheddar Mafia In The Americas | 385079 | [385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json](./385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json) |
 | Spotlight | 277565 | [277565-spotlight.json](./277565-spotlight.json) |
+| Spotlight | 279739 | [279739-spotlight.json](./279739-spotlight.json) |
 | Spotlight: Choose Your Romance | 298871 | [298871-spotlight-choose-your-romance.json](./298871-spotlight-choose-your-romance.json) |
 | Spotlight!!! | 299479 | [299479-spotlight.json](./299479-spotlight.json) |
 | Spotted | 200720 | [200720-spotted.json](./200720-spotted.json) |
@@ -6371,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox 64 3D | 6890 | [6890-star-fox-64-3d.json](./6890-star-fox-64-3d.json) |
 | Star Fox 64: Survival | 146269 | [146269-star-fox-64-survival.json](./146269-star-fox-64-survival.json) |
 | Star Fox NES | 323905 | [323905-star-fox-nes.json](./323905-star-fox-nes.json) |
+| Star Fox Wii | 279750 | [279750-star-fox-wii.json](./279750-star-fox-wii.json) |
 | Star Fox Zero | 11196 | [11196-star-fox-zero.json](./11196-star-fox-zero.json) |
 | Star Fox Zero and Star Fox Guard: First Print Edition | 51144 | [51144-star-fox-zero-and-star-fox-guard-first-print-edition.json](./51144-star-fox-zero-and-star-fox-guard-first-print-edition.json) |
 | Star Fox Zero: Limited First Print Edition | 23382 | [23382-star-fox-zero-limited-first-print-edition.json](./23382-star-fox-zero-limited-first-print-edition.json) |
