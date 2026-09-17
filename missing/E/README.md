@@ -1644,7 +1644,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etre | 270182 | [270182-etre.json](./270182-etre.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
 | Etrian Odyssey HD Character Set DLC | 251586 | [251586-etrian-odyssey-hd-character-set-dlc.json](./251586-etrian-odyssey-hd-character-set-dlc.json) |
+| Etrian Odyssey II HD: Character Set DLC | 251695 | [251695-etrian-odyssey-ii-hd-character-set-dlc.json](./251695-etrian-odyssey-ii-hd-character-set-dlc.json) |
 | Etrian Odyssey II: Heroes of Lagaard | 14717 | [14717-etrian-odyssey-ii-heroes-of-lagaard.json](./14717-etrian-odyssey-ii-heroes-of-lagaard.json) |
+| Etrian Odyssey III HD Character Set DLC | 251696 | [251696-etrian-odyssey-iii-hd-character-set-dlc.json](./251696-etrian-odyssey-iii-hd-character-set-dlc.json) |
 | Etrian Odyssey III: The Drowned City | 14718 | [14718-etrian-odyssey-iii-the-drowned-city.json](./14718-etrian-odyssey-iii-the-drowned-city.json) |
 | Etrian Odyssey IV: Legends of the Titan | 6767 | [6767-etrian-odyssey-iv-legends-of-the-titan.json](./6767-etrian-odyssey-iv-legends-of-the-titan.json) |
 | Etrom: The Astral Essence | 72086 | [72086-etrom-the-astral-essence.json](./72086-etrom-the-astral-essence.json) |
