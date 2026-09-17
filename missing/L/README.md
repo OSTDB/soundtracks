@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
 | Lofi Ball: Dungeon | 256278 | [256278-lofi-ball-dungeon.json](./256278-lofi-ball-dungeon.json) |
 | Lofi Ball: Wipeout | 256277 | [256277-lofi-ball-wipeout.json](./256277-lofi-ball-wipeout.json) |
+| Lofi Kitten | 266305 | [266305-lofi-kitten.json](./266305-lofi-kitten.json) |
 | Lofi Ping Pong | 116187 | [116187-lofi-ping-pong.json](./116187-lofi-ping-pong.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
 | Log Away: Christmas DLC | 395708 | [395708-log-away-christmas-dlc.json](./395708-log-away-christmas-dlc.json) |
