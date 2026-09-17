@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle | 357883 | [357883-jigsaw-puzzle.json](./357883-jigsaw-puzzle.json) |
 | Jigsaw Puzzle Dreams: Stickers and More! Supporter Pack | 288900 | [288900-jigsaw-puzzle-dreams-stickers-and-more-supporter-pack.json](./288900-jigsaw-puzzle-dreams-stickers-and-more-supporter-pack.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
+| Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Halloween 5 | 274583 | [274583-jigsaw-puzzle-pack-pixel-puzzles-ultimate-halloween-5.json](./274583-jigsaw-puzzle-pack-pixel-puzzles-ultimate-halloween-5.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Jiu Jitsu | 243159 | [243159-jigsaw-puzzle-pack-pixel-puzzles-ultimate-jiu-jitsu.json](./243159-jigsaw-puzzle-pack-pixel-puzzles-ultimate-jiu-jitsu.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 7XS | 263506 | [263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json](./263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json) |
 | Jigsaw Puzzle Passport: Spain | 393628 | [393628-jigsaw-puzzle-passport-spain.json](./393628-jigsaw-puzzle-passport-spain.json) |
@@ -710,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the Center of the Earth: Gold Edition | 81425 | [81425-journey-to-the-center-of-the-earth-gold-edition.json](./81425-journey-to-the-center-of-the-earth-gold-edition.json) |
 | Journey to the Center of the Moon | 53246 | [53246-journey-to-the-center-of-the-moon.json](./53246-journey-to-the-center-of-the-moon.json) |
 | Journey to the Centre of Nirn | 314286 | [314286-journey-to-the-centre-of-nirn.json](./314286-journey-to-the-centre-of-nirn.json) |
+| Journey to the West | 274550 | [274550-journey-to-the-west.json](./274550-journey-to-the-west.json) |
 | Journey to the West: A Super Mario Bros. ROM Hack | 198467 | [198467-journey-to-the-west-a-super-mario-bros-rom-hack.json](./198467-journey-to-the-west-a-super-mario-bros-rom-hack.json) |
 | Journey to the West: Blade Souls | 286135 | [286135-journey-to-the-west-blade-souls.json](./286135-journey-to-the-west-blade-souls.json) |
 | Journey to the West: Dark Invasion | 309650 | [309650-journey-to-the-west-dark-invasion.json](./309650-journey-to-the-west-dark-invasion.json) |
