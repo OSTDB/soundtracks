@@ -2485,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K25: WrestleMania 41 Pack | 353991 | [353991-wwe-2k25-wrestlemania-41-pack.json](./353991-wwe-2k25-wrestlemania-41-pack.json) |
 | WWE 2K25: Wyatt Sicks Pack | 353992 | [353992-wwe-2k25-wyatt-sicks-pack.json](./353992-wwe-2k25-wyatt-sicks-pack.json) |
 | WWE Presents: Rockpocalypse | 63263 | [63263-wwe-presents-rockpocalypse.json](./63263-wwe-presents-rockpocalypse.json) |
+| WWE SmackDown: Shock Value | 260800 | [260800-wwe-smackdown-shock-value.json](./260800-wwe-smackdown-shock-value.json) |
 | WWE SmackDown! Shut Your Mouth | 6461 | [6461-wwe-smackdown-shut-your-mouth.json](./6461-wwe-smackdown-shut-your-mouth.json) |
 | WWE SuperCard | 79072 | [79072-wwe-supercard.json](./79072-wwe-supercard.json) |
 | WWE WrestleFest | 95393 | [95393-wwe-wrestlefest.json](./95393-wwe-wrestlefest.json) |
