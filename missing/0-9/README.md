@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Clues 2: The Ward | 35265 | [35265-9-clues-2-the-ward.json](./35265-9-clues-2-the-ward.json) |
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
 | 9 Empires | 27735 | [27735-9-empires.json](./27735-9-empires.json) |
+| 9 Realms | 258564 | [258564-9-realms.json](./258564-9-realms.json) |
 | 9-nine-: Episode 1 | 114814 | [114814-9-nine-episode-1.json](./114814-9-nine-episode-1.json) |
 | 9:22 | 178657 | [178657-9-22.json](./178657-9-22.json) |
 | 90 Minutes European Prime Goal | 42663 | [42663-90-minutes-european-prime-goal.json](./42663-90-minutes-european-prime-goal.json) |
