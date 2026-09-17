@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Balloons 2 | 156637 | [156637-hentai-balloons-2.json](./156637-hentai-balloons-2.json) |
 | Hentai Balls 3D: Sexy Girls | 390497 | [390497-hentai-balls-3d-sexy-girls.json](./390497-hentai-balls-3d-sexy-girls.json) |
 | Hentai beautiful girls 4 | 164427 | [164427-hentai-beautiful-girls-4.json](./164427-hentai-beautiful-girls-4.json) |
+| Hentai Casual Slider 2 | 234736 | [234736-hentai-casual-slider-2.json](./234736-hentai-casual-slider-2.json) |
 | Hentai Cheerleader | 239749 | [239749-hentai-cheerleader.json](./239749-hentai-cheerleader.json) |
 | Hentai Clicker: Bethy Is Streaming | 389609 | [389609-hentai-clicker-bethy-is-streaming.json](./389609-hentai-clicker-bethy-is-streaming.json) |
 | Hentai Clicker: Cassandra Is Streaming | 389616 | [389616-hentai-clicker-cassandra-is-streaming.json](./389616-hentai-clicker-cassandra-is-streaming.json) |
@@ -2677,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopper | 144374 | [144374-hopper.json](./144374-hopper.json) |
 | Hopper Cat | 234596 | [234596-hopper-cat.json](./234596-hopper-cat.json) |
 | Hoppin | 235765 | [235765-hoppin.json](./235765-hoppin.json) |
+| Hopping Girl Kohane EX | 234734 | [234734-hopping-girl-kohane-ex.json](./234734-hopping-girl-kohane-ex.json) |
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
 | Hopscotch | 262430 | [262430-hopscotch.json](./262430-hopscotch.json) |
 | Hopscotch | 68689 | [68689-hopscotch.json](./68689-hopscotch.json) |
