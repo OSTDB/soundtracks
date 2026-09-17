@@ -493,6 +493,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D3D | 291042 | [291042-3d3d.json](./291042-3d3d.json) |
 | 3DO Games: Decathlon | 100219 | [100219-3do-games-decathlon.json](./100219-3do-games-decathlon.json) |
 | 3M Spain Foundation: Stem + VR | 187449 | [187449-3m-spain-foundation-stem-vr.json](./187449-3m-spain-foundation-stem-vr.json) |
+| 3on3 FreeStyle: Battle Pass 2023 Autumn Bundle Part 2 | 276857 | [276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json](./276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json) |
+| 3on3 FreeStyle: Battle Pass 2023 Autumn Part 2 | 276858 | [276858-3on3-freestyle-battle-pass-2023-autumn-part-2.json](./276858-3on3-freestyle-battle-pass-2023-autumn-part-2.json) |
 | 3rd Degree | 45948 | [45948-3rd-degree.json](./45948-3rd-degree.json) |
 | 3rd World Farmer | 56460 | [56460-3rd-world-farmer.json](./56460-3rd-world-farmer.json) |
 | 3Souls | 26407 | [26407-3souls.json](./26407-3souls.json) |
