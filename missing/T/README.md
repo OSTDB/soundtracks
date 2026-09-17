@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeover Trail | 395577 | [395577-takeover-trail.json](./395577-takeover-trail.json) |
 | Takepoint.io | 194571 | [194571-takepoint-io.json](./194571-takepoint-io.json) |
 | Takeyariman | 222300 | [222300-takeyariman.json](./222300-takeyariman.json) |
+| Taking Root | 263045 | [263045-taking-root.json](./263045-taking-root.json) |
 | Tako no Himitsu: Ocean of Secrets | 250031 | [250031-tako-no-himitsu-ocean-of-secrets.json](./250031-tako-no-himitsu-ocean-of-secrets.json) |
 | Takorita Meets Fries | 158181 | [158181-takorita-meets-fries.json](./158181-takorita-meets-fries.json) |
 | Takoyaki Party Survival | 213972 | [213972-takoyaki-party-survival.json](./213972-takoyaki-party-survival.json) |
@@ -2322,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's Eight | 55126 | [55126-the-devils-eight.json](./55126-the-devils-eight.json) |
 | The Devil's Garden | 105280 | [105280-the-devils-garden.json](./105280-the-devils-garden.json) |
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
+| The Devilry Reservation: Сhapter II | 263036 | [263036-the-devilry-reservation-hapter-ii.json](./263036-the-devilry-reservation-hapter-ii.json) |
 | The Devils: A Visual Novel of WWII | 192381 | [192381-the-devils-a-visual-novel-of-wwii.json](./192381-the-devils-a-visual-novel-of-wwii.json) |
 | The Devilz Work | 315512 | [315512-the-devilz-work.json](./315512-the-devilz-work.json) |
 | The Diary | 250356 | [250356-the-diary.json](./250356-the-diary.json) |
@@ -4240,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Riflemen | 207311 | [207311-the-riflemen.json](./207311-the-riflemen.json) |
 | The Rift | 116300 | [116300-the-rift.json](./116300-the-rift.json) |
 | The Rift | 343276 | [343276-the-rift.json](./343276-the-rift.json) |
+| The Riftbreaker: Heart of the Swamp | 263033 | [263033-the-riftbreaker-heart-of-the-swamp.json](./263033-the-riftbreaker-heart-of-the-swamp.json) |
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
 | The Rings of Powder: The Weird World of the Elves | 285469 | [285469-the-rings-of-powder-the-weird-world-of-the-elves.json](./285469-the-rings-of-powder-the-weird-world-of-the-elves.json) |
 | The Ripper | 282726 | [282726-the-ripper.json](./282726-the-ripper.json) |
@@ -7380,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowOrbs | 413726 | [413726-toworbs.json](./413726-toworbs.json) |
 | Toxic Bubbles | 23730 | [23730-toxic-bubbles.json](./23730-toxic-bubbles.json) |
 | Toxic Toads | 322973 | [322973-toxic-toads.json](./322973-toxic-toads.json) |
+| Toxicity | 263022 | [263022-toxicity.json](./263022-toxicity.json) |
 | Toxicity | 300417 | [300417-toxicity.json](./300417-toxicity.json) |
 | Toxin the Game | 114984 | [114984-toxin-the-game.json](./114984-toxin-the-game.json) |
 | Toxtli & The Moon Jar | 349834 | [349834-toxtli-and-the-moon-jar.json](./349834-toxtli-and-the-moon-jar.json) |
