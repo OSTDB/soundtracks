@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seraphixial | 392164 | [392164-seraphixial.json](./392164-seraphixial.json) |
 | Serega Madness Pixel Adventures | 295276 | [295276-serega-madness-pixel-adventures.json](./295276-serega-madness-pixel-adventures.json) |
 | Serendipity Hotel | 190218 | [190218-serendipity-hotel.json](./190218-serendipity-hotel.json) |
+| Serendipity: The Mafias | 254615 | [254615-serendipity-the-mafias.json](./254615-serendipity-the-mafias.json) |
 | Serene Asylum | 172740 | [172740-serene-asylum.json](./172740-serene-asylum.json) |
 | Serenity | 313862 | [313862-serenity.json](./313862-serenity.json) |
 | Serenity | 392294 | [392294-serenity.json](./392294-serenity.json) |
@@ -2688,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuuchaku Gakuen | 335668 | [335668-shuuchaku-gakuen.json](./335668-shuuchaku-gakuen.json) |
 | Shuumatsu no Sugoshikata: The world is drawing to an W/end | 326047 | [326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json](./326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
+| Shuwa no Mori | 254483 | [254483-shuwa-no-mori.json](./254483-shuwa-no-mori.json) |
 | Shuwa Shuwa Guin! | 383940 | [383940-shuwa-shuwa-guin.json](./383940-shuwa-shuwa-guin.json) |
 | Shuyun Huazhang | 335360 | [335360-shuyun-huazhang.json](./335360-shuyun-huazhang.json) |
 | Shy Cats Hidden Orchestra 2 | 409556 | [409556-shy-cats-hidden-orchestra-2.json](./409556-shy-cats-hidden-orchestra-2.json) |
@@ -4230,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowFight Go | 128011 | [128011-snowfight-go.json](./128011-snowfight-go.json) |
 | SnowJinks | 60554 | [60554-snowjinks.json](./60554-snowjinks.json) |
 | SnowJob | 411669 | [411669-snowjob.json](./411669-snowjob.json) |
+| Snowkissed Romance | 254571 | [254571-snowkissed-romance.json](./254571-snowkissed-romance.json) |
 | Snowland Adventure | 196277 | [196277-snowland-adventure.json](./196277-snowland-adventure.json) |
 | Snowman Adventure | 186265 | [186265-snowman-adventure.json](./186265-snowman-adventure.json) |
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
@@ -4721,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Dash | 330299 | [330299-sonic-dash.json](./330299-sonic-dash.json) |
 | Sonic Dash 2: Sonic Boom | 38695 | [38695-sonic-dash-2-sonic-boom.json](./38695-sonic-dash-2-sonic-boom.json) |
 | Sonic Dash Quiz | 261292 | [261292-sonic-dash-quiz.json](./261292-sonic-dash-quiz.json) |
+| Sonic Dash+ | 254488 | [254488-sonic-dash.json](./254488-sonic-dash.json) |
 | Sonic Daybreak | 370215 | [370215-sonic-daybreak.json](./370215-sonic-daybreak.json) |
 | Sonic Debut | 337169 | [337169-sonic-debut.json](./337169-sonic-debut.json) |
 | Sonic Definitive | 370216 | [370216-sonic-definitive.json](./370216-sonic-definitive.json) |
@@ -4742,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Frontiers | 150010 | [150010-sonic-frontiers.json](./150010-sonic-frontiers.json) |
 | Sonic Frontiers 2D | 336348 | [336348-sonic-frontiers-2d.json](./336348-sonic-frontiers-2d.json) |
 | Sonic Frontiers: Holiday Cheer Suit | 352840 | [352840-sonic-frontiers-holiday-cheer-suit.json](./352840-sonic-frontiers-holiday-cheer-suit.json) |
+| Sonic Frontiers: Sonic’s Birthday Bash | 254487 | [254487-sonic-frontiers-sonic-s-birthday-bash.json](./254487-sonic-frontiers-sonic-s-birthday-bash.json) |
 | Sonic Fusion | 326819 | [326819-sonic-fusion.json](./326819-sonic-fusion.json) |
 | Sonic Gallery | 330528 | [330528-sonic-gallery.json](./330528-sonic-gallery.json) |
 | Sonic Gammon | 261275 | [261275-sonic-gammon.json](./261275-sonic-gammon.json) |
@@ -4823,6 +4828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Power of Nitro | 330305 | [330305-sonic-power-of-nitro.json](./330305-sonic-power-of-nitro.json) |
 | Sonic Powerdrift | 330710 | [330710-sonic-powerdrift.json](./330710-sonic-powerdrift.json) |
 | Sonic Powered Up | 333939 | [333939-sonic-powered-up.json](./333939-sonic-powered-up.json) |
+| Sonic Prime Dash | 254490 | [254490-sonic-prime-dash.json](./254490-sonic-prime-dash.json) |
 | Sonic Putter | 261251 | [261251-sonic-putter.json](./261251-sonic-putter.json) |
 | Sonic Quickie | 326810 | [326810-sonic-quickie.json](./326810-sonic-quickie.json) |
 | Sonic QWERTY | 266511 | [266511-sonic-qwerty.json](./266511-sonic-qwerty.json) |
@@ -7863,6 +7869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Terra Draconis: Hidden Glade | 382887 | [382887-sub-terra-draconis-hidden-glade.json](./382887-sub-terra-draconis-hidden-glade.json) |
 | Sub Wars | 104699 | [104699-sub-wars.json](./104699-sub-wars.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
+| Subátor | 254484 | [254484-subator.json](./254484-subator.json) |
 | Subconsciousism | 396225 | [396225-subconsciousism.json](./396225-subconsciousism.json) |
 | Subcube | 126555 | [126555-subcube.json](./126555-subcube.json) |
 | Subdivided | 132770 | [132770-subdivided.json](./132770-subdivided.json) |
