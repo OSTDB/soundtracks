@@ -1471,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoebe Flingle Finger | 183569 | [183569-phoebe-flingle-finger.json](./183569-phoebe-flingle-finger.json) |
 | Phoenix | 55015 | [55015-phoenix.json](./55015-phoenix.json) |
 | Phoenix | 71477 | [71477-phoenix.json](./71477-phoenix.json) |
+| Phoenix 2 | 275718 | [275718-phoenix-2.json](./275718-phoenix-2.json) |
 | Phoenix Contract | 322588 | [322588-phoenix-contract.json](./322588-phoenix-contract.json) |
 | Phoenix Point: Blood and Titanium | 149580 | [149580-phoenix-point-blood-and-titanium.json](./149580-phoenix-point-blood-and-titanium.json) |
 | Phoenix Point: Corrupted Horizons | 171628 | [171628-phoenix-point-corrupted-horizons.json](./171628-phoenix-point-corrupted-horizons.json) |
@@ -3247,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Brawlers | 310746 | [310746-portal-brawlers.json](./310746-portal-brawlers.json) |
 | Portal Defense | 207516 | [207516-portal-defense.json](./207516-portal-defense.json) |
 | Portal done Half-Life Source | 323554 | [323554-portal-done-half-life-source.json](./323554-portal-done-half-life-source.json) |
+| Portal Dungeon: Character Pack - Duck | 275719 | [275719-portal-dungeon-character-pack-duck.json](./275719-portal-dungeon-character-pack-duck.json) |
 | Portal Dungeon: Character Pack - Hamster | 291085 | [291085-portal-dungeon-character-pack-hamster.json](./291085-portal-dungeon-character-pack-hamster.json) |
 | Portal Factory | 324335 | [324335-portal-factory.json](./324335-portal-factory.json) |
 | Portal Fantasy | 257931 | [257931-portal-fantasy.json](./257931-portal-fantasy.json) |
@@ -3555,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Breakout! Plus | 212238 | [212238-pretty-girls-breakout-plus.json](./212238-pretty-girls-breakout-plus.json) |
 | Pretty Girls Don’t Want You to Die | 392298 | [392298-pretty-girls-don-t-want-you-to-die.json](./392298-pretty-girls-don-t-want-you-to-die.json) |
 | Pretty Girls Escape | 204088 | [204088-pretty-girls-escape.json](./204088-pretty-girls-escape.json) |
+| Pretty Girls Escape Plus | 275720 | [275720-pretty-girls-escape-plus.json](./275720-pretty-girls-escape-plus.json) |
 | Pretty Girls Four Kings Solitaire | 195797 | [195797-pretty-girls-four-kings-solitaire.json](./195797-pretty-girls-four-kings-solitaire.json) |
 | Pretty Girls Game Collection 4 | 342770 | [342770-pretty-girls-game-collection-4.json](./342770-pretty-girls-game-collection-4.json) |
 | Pretty Girls Mahjong Solitaire | 34716 | [34716-pretty-girls-mahjong-solitaire.json](./34716-pretty-girls-mahjong-solitaire.json) |
@@ -3929,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
 | Project Cobalt | 366310 | [366310-project-cobalt.json](./366310-project-cobalt.json) |
 | Project Confrontation | 57051 | [57051-project-confrontation.json](./57051-project-confrontation.json) |
+| Project Coreward | 275721 | [275721-project-coreward.json](./275721-project-coreward.json) |
 | Project Cradle | 286081 | [286081-project-cradle.json](./286081-project-cradle.json) |
 | Project Crimson | 166735 | [166735-project-crimson.json](./166735-project-crimson.json) |
 | Project Cube | 305920 | [305920-project-cube.json](./305920-project-cube.json) |
@@ -4285,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
 | Psyvariar: Complete Edition | 43351 | [43351-psyvariar-complete-edition.json](./43351-psyvariar-complete-edition.json) |
 | Pteranodon | 260700 | [260700-pteranodon.json](./260700-pteranodon.json) |
+| Pteranodon 2: Primal Island | 275722 | [275722-pteranodon-2-primal-island.json](./275722-pteranodon-2-primal-island.json) |
 | Pterodactyl Attack | 284910 | [284910-pterodactyl-attack.json](./284910-pterodactyl-attack.json) |
 | Pteroglider | 93590 | [93590-pteroglider.json](./93590-pteroglider.json) |
 | Ptolem's Singing Catacombs | 374177 | [374177-ptolems-singing-catacombs.json](./374177-ptolems-singing-catacombs.json) |
