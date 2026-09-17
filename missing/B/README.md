@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel Deluxe | 63897 | [63897-babel-deluxe.json](./63897-babel-deluxe.json) |
 | Babelomania | 318390 | [318390-babelomania.json](./318390-babelomania.json) |
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
+| Babies Dream of Dead Worlds | 279742 | [279742-babies-dream-of-dead-worlds.json](./279742-babies-dream-of-dead-worlds.json) |
 | Babies vs. Monsters | 304174 | [304174-babies-vs-monsters.json](./304174-babies-vs-monsters.json) |
 | Babka | 343254 | [343254-babka.json](./343254-babka.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
@@ -3477,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boredom Survivor | 301611 | [301611-boredom-survivor.json](./301611-boredom-survivor.json) |
 | BOREWORKS | 413654 | [413654-boreworks.json](./413654-boreworks.json) |
 | Borg Nukem | 291978 | [291978-borg-nukem.json](./291978-borg-nukem.json) |
+| BorielZONE | 279734 | [279734-borielzone.json](./279734-borielzone.json) |
 | Boring Game | 166741 | [166741-boring-game.json](./166741-boring-game.json) |
 | Boring in paradise | 156657 | [156657-boring-in-paradise.json](./156657-boring-in-paradise.json) |
 | Boring Movies | 296382 | [296382-boring-movies.json](./296382-boring-movies.json) |
@@ -3739,6 +3741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BQM: BlockQuest Maker - 2nd DLC: Cyber Century | 237969 | [237969-bqm-blockquest-maker-2nd-dlc-cyber-century.json](./237969-bqm-blockquest-maker-2nd-dlc-cyber-century.json) |
 | BQM: BlockQuest Maker - Remastered | 235208 | [235208-bqm-blockquest-maker-remastered.json](./235208-bqm-blockquest-maker-remastered.json) |
 | Br Br Patapim | 351091 | [351091-br-br-patapim.json](./351091-br-br-patapim.json) |
+| Bracket Chain | 279765 | [279765-bracket-chain.json](./279765-bracket-chain.json) |
 | Bracket City | 341031 | [341031-bracket-city.json](./341031-bracket-city.json) |
 | Bradley Trainer | 40272 | [40272-bradley-trainer.json](./40272-bradley-trainer.json) |
 | Bragger's Run | 150610 | [150610-braggers-run.json](./150610-braggers-run.json) |
