@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Nerd | 360090 | [360090-bad-nerd.json](./360090-bad-nerd.json) |
 | Bad News Baseball | 9167 | [9167-bad-news-baseball.json](./9167-bad-news-baseball.json) |
 | Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Rats Show | 27510 | [27510-bad-rats-show.json](./27510-bad-rats-show.json) |
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
 | Bad Stars | 130343 | [130343-bad-stars.json](./130343-bad-stars.json) |
@@ -878,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Baby | 186838 | [186838-basketball-baby.json](./186838-basketball-baby.json) |
 | Basketball Battle | 89288 | [89288-basketball-battle.json](./89288-basketball-battle.json) |
 | Basketball Dunk Tournament | 197336 | [197336-basketball-dunk-tournament.json](./197336-basketball-dunk-tournament.json) |
+| Basketball Grand Slam 2024 | 269089 | [269089-basketball-grand-slam-2024.json](./269089-basketball-grand-slam-2024.json) |
 | Basketball Hero VR | 102198 | [102198-basketball-hero-vr.json](./102198-basketball-hero-vr.json) |
 | Basketball Legends 24 | 320758 | [320758-basketball-legends-24.json](./320758-basketball-legends-24.json) |
 | Basketball Pinball | 148567 | [148567-basketball-pinball.json](./148567-basketball-pinball.json) |
@@ -1122,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Tiles | 66661 | [66661-battle-of-tiles.json](./66661-battle-of-tiles.json) |
 | Battle of Tiles Ex | 99552 | [99552-battle-of-tiles-ex.json](./99552-battle-of-tiles-ex.json) |
 | Battle of Warplanes: Air War | 87531 | [87531-battle-of-warplanes-air-war.json](./87531-battle-of-warplanes-air-war.json) |
+| Battle of Words | 269081 | [269081-battle-of-words.json](./269081-battle-of-words.json) |
 | Battle Painters | 140542 | [140542-battle-painters.json](./140542-battle-painters.json) |
 | Battle Part | 209484 | [209484-battle-part.json](./209484-battle-part.json) |
 | Battle Pinball | 37205 | [37205-battle-pinball.json](./37205-battle-pinball.json) |
@@ -2841,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky San Andreas Police 2018 | 102753 | [102753-blocky-san-andreas-police-2018.json](./102753-blocky-san-andreas-police-2018.json) |
 | Blocky Soccer | 58205 | [58205-blocky-soccer.json](./58205-blocky-soccer.json) |
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
+| Blofeld X | 269108 | [269108-blofeld-x.json](./269108-blofeld-x.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
 | Blokin | 111633 | [111633-blokin.json](./111633-blokin.json) |
 | Blokker: Orange | 163909 | [163909-blokker-orange.json](./163909-blokker-orange.json) |
@@ -3028,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
 | Blowback | 184611 | [184611-blowback.json](./184611-blowback.json) |
 | Blowout & Cosmic Alphabet | 14325 | [14325-blowout-and-cosmic-alphabet.json](./14325-blowout-and-cosmic-alphabet.json) |
+| Blowup | 269109 | [269109-blowup.json](./269109-blowup.json) |
 | Blowup!! | 233246 | [233246-blowup.json](./233246-blowup.json) |
 | Blox | 18322 | [18322-blox.json](./18322-blox.json) |
 | Blox 3D | 100146 | [100146-blox-3d.json](./100146-blox-3d.json) |
