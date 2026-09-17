@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rio Rex | 102223 | [102223-rio-rex.json](./102223-rio-rex.json) |
 | Rio Warzone | 150699 | [150699-rio-warzone.json](./150699-rio-warzone.json) |
 | Rio: Raised In Oblivion | 152407 | [152407-rio-raised-in-oblivion.json](./152407-rio-raised-in-oblivion.json) |
+| Riot Control | 269119 | [269119-riot-control.json](./269119-riot-control.json) |
 | Riot of Willy | 266807 | [266807-riot-of-willy.json](./266807-riot-of-willy.json) |
 | Riot Operator | 156120 | [156120-riot-operator.json](./156120-riot-operator.json) |
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
@@ -2615,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
 | Rogue Slash | 117647 | [117647-rogue-slash.json](./117647-rogue-slash.json) |
+| Rogue Slasher | 269092 | [269092-rogue-slasher.json](./269092-rogue-slasher.json) |
 | Rogue Slime | 388018 | [388018-rogue-slime.json](./388018-rogue-slime.json) |
 | Rogue Slots | 386872 | [386872-rogue-slots.json](./386872-rogue-slots.json) |
 | Rogue Stache | 31772 | [31772-rogue-stache.json](./31772-rogue-stache.json) |
