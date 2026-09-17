@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpacas X Cats Bundle | 331446 | [331446-alpacas-x-cats-bundle.json](./331446-alpacas-x-cats-bundle.json) |
 | AlpenCross | 52585 | [52585-alpencross.json](./52585-alpencross.json) |
 | Alpenglow | 384668 | [384668-alpenglow.json](./384668-alpenglow.json) |
+| Alpha Accident: Terra Nova | 256878 | [256878-alpha-accident-terra-nova.json](./256878-alpha-accident-terra-nova.json) |
 | Alpha Centauri | 261818 | [261818-alpha-centauri.json](./261818-alpha-centauri.json) |
 | Alpha Centauri Space Force | 156165 | [156165-alpha-centauri-space-force.json](./156165-alpha-centauri-space-force.json) |
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
@@ -1611,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
 | Ambush in Sector 9 | 311279 | [311279-ambush-in-sector-9.json](./311279-ambush-in-sector-9.json) |
 | Ambush Tactics | 61604 | [61604-ambush-tactics.json](./61604-ambush-tactics.json) |
+| Ambush Tactics Advanced | 256921 | [256921-ambush-tactics-advanced.json](./256921-ambush-tactics-advanced.json) |
 | Ambush: Convoy Strike | 154559 | [154559-ambush-convoy-strike.json](./154559-ambush-convoy-strike.json) |
 | Ambusher | 267479 | [267479-ambusher.json](./267479-ambusher.json) |
 | Ambuuu | 329936 | [329936-ambuuu.json](./329936-ambuuu.json) |
