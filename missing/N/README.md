@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NE_01 | 109025 | [109025-ne-01.json](./109025-ne-01.json) |
 | Nea Edem | 193418 | [193418-nea-edem.json](./193418-nea-edem.json) |
 | Neanderthal Man | 13742 | [13742-neanderthal-man.json](./13742-neanderthal-man.json) |
+| Neanderthallica | 236401 | [236401-neanderthallica.json](./236401-neanderthallica.json) |
 | Near Bird | 113700 | [113700-near-bird.json](./113700-near-bird.json) |
 | Near Mint | 399599 | [399599-near-mint.json](./399599-near-mint.json) |
 | Near Sol | 220629 | [220629-near-sol.json](./220629-near-sol.json) |
