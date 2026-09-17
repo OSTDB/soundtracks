@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Pixels | 163365 | [163365-undead-pixels.json](./163365-undead-pixels.json) |
 | Undead Realm: Ego | 327836 | [327836-undead-realm-ego.json](./327836-undead-realm-ego.json) |
 | Undead Residence | 411662 | [411662-undead-residence.json](./411662-undead-residence.json) |
+| Undead Village | 244375 | [244375-undead-village.json](./244375-undead-village.json) |
 | Undead vs. Plants | 18120 | [18120-undead-vs-plants.json](./18120-undead-vs-plants.json) |
 | Undead West | 269587 | [269587-undead-west.json](./269587-undead-west.json) |
 | Undeadworld | 223663 | [223663-undeadworld.json](./223663-undeadworld.json) |
@@ -600,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unit 42: Adrift in Space | 395043 | [395043-unit-42-adrift-in-space.json](./395043-unit-42-adrift-in-space.json) |
 | Unit Zero: Operation Black Veil | 371968 | [371968-unit-zero-operation-black-veil.json](./371968-unit-zero-operation-black-veil.json) |
 | Unite Cell | 334768 | [334768-unite-cell.json](./334768-unite-cell.json) |
+| United 1944 | 244343 | [244343-united-1944.json](./244343-united-1944.json) |
 | United Assault: Battle of the Bulge | 195231 | [195231-united-assault-battle-of-the-bulge.json](./195231-united-assault-battle-of-the-bulge.json) |
 | United Assault: Final Stand | 334105 | [334105-united-assault-final-stand.json](./334105-united-assault-final-stand.json) |
 | United Heist | 215677 | [215677-united-heist.json](./215677-united-heist.json) |
@@ -765,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstoppable | 58216 | [58216-unstoppable.json](./58216-unstoppable.json) |
 | Unstrong Legacy | 187458 | [187458-unstrong-legacy.json](./187458-unstrong-legacy.json) |
 | Unsubscribed: The Game | 117913 | [117913-unsubscribed-the-game.json](./117913-unsubscribed-the-game.json) |
+| Unsung Empires: The Cholas | 244379 | [244379-unsung-empires-the-cholas.json](./244379-unsung-empires-the-cholas.json) |
 | Unsung Heroes: The Golden Mask | 124146 | [124146-unsung-heroes-the-golden-mask.json](./124146-unsung-heroes-the-golden-mask.json) |
 | Unsustainable: a god job | 180842 | [180842-unsustainable-a-god-job.json](./180842-unsustainable-a-god-job.json) |
 | Untamed | 280233 | [280233-untamed.json](./280233-untamed.json) |
