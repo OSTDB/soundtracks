@@ -1122,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. | 18307 | [18307-vs.json](./18307-vs.json) |
 | Vs. Collection | 37771 | [37771-vs-collection.json](./37771-vs-collection.json) |
 | Vs. Duck Hunt | 94172 | [94172-vs-duck-hunt.json](./94172-vs-duck-hunt.json) |
+| Vs. Football | 246485 | [246485-vs-football.json](./246485-vs-football.json) |
 | Vs. Hogan's Alley | 169999 | [169999-vs-hogans-alley.json](./169999-vs-hogans-alley.json) |
 | Vs. Ladies Golf | 168330 | [168330-vs-ladies-golf.json](./168330-vs-ladies-golf.json) |
 | Vs. Racing | 259071 | [259071-vs-racing.json](./259071-vs-racing.json) |
