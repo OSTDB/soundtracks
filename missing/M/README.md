@@ -1299,7 +1299,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Spider-Man 2: Collector's Edition | 272315 | [272315-marvels-spider-man-2-collectors-edition.json](./272315-marvels-spider-man-2-collectors-edition.json) |
 | Marvel's Spider-Man 2: Digital Deluxe Edition | 272508 | [272508-marvels-spider-man-2-digital-deluxe-edition.json](./272508-marvels-spider-man-2-digital-deluxe-edition.json) |
 | Marvel's Spider-Man: Silver Lining | 109422 | [109422-marvels-spider-man-silver-lining.json](./109422-marvels-spider-man-silver-lining.json) |
-| Marvel's Wolverine | 168667 | [168667-marvels-wolverine.json](./168667-marvels-wolverine.json) |
 | Marvel's Wolverine: Digital Deluxe Edition | 407453 | [407453-marvels-wolverine-digital-deluxe-edition.json](./407453-marvels-wolverine-digital-deluxe-edition.json) |
 | Marvellous Inc. | 96638 | [96638-marvellous-inc.json](./96638-marvellous-inc.json) |
 | Marvellous Inc.: MarvGPT | 296521 | [296521-marvellous-inc-marvgpt.json](./296521-marvellous-inc-marvgpt.json) |
