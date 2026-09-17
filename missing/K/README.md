@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Boo's Revenge PC | 378293 | [378293-king-boos-revenge-pc.json](./378293-king-boos-revenge-pc.json) |
 | King Boo's Seven Towers | 313302 | [313302-king-boos-seven-towers.json](./313302-king-boos-seven-towers.json) |
 | King Cribbage | 73223 | [73223-king-cribbage.json](./73223-king-cribbage.json) |
+| King Datchi | 244890 | [244890-king-datchi.json](./244890-king-datchi.json) |
 | King in the Mountain | 408930 | [408930-king-in-the-mountain.json](./408930-king-in-the-mountain.json) |
 | King Island 2 | 292534 | [292534-king-island-2.json](./292534-king-island-2.json) |
 | King James Bible DX | 358319 | [358319-king-james-bible-dx.json](./358319-king-james-bible-dx.json) |
