@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, Good-bye | 111803 | [111803-hello-good-bye.json](./111803-hello-good-bye.json) |
 | Hello, Goodbye, Summer Girl | 151721 | [151721-hello-goodbye-summer-girl.json](./151721-hello-goodbye-summer-girl.json) |
 | Hello, Kami-sama Worker | 379354 | [379354-hello-kami-sama-worker.json](./379354-hello-kami-sama-worker.json) |
+| Hello, Vic | 258543 | [258543-hello-vic.json](./258543-hello-vic.json) |
 | Hello, Yoshi! | 378319 | [378319-hello-yoshi.json](./378319-hello-yoshi.json) |
 | Hello, your order... | 337153 | [337153-hello-your-order.json](./337153-hello-your-order.json) |
 | Hello: A Talking Simulator | 179173 | [179173-hello-a-talking-simulator.json](./179173-hello-a-talking-simulator.json) |
