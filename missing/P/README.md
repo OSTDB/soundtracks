@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter's House | 364585 | [364585-peters-house.json](./364585-peters-house.json) |
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
 | PetHotel | 101581 | [101581-pethotel.json](./101581-pethotel.json) |
+| Petit Petit Petit | 239763 | [239763-petit-petit-petit.json](./239763-petit-petit-petit.json) |
 | Petit Petit Petit: Specter Pack | 289331 | [289331-petit-petit-petit-specter-pack.json](./289331-petit-petit-petit-specter-pack.json) |
 | Petit Planet | 370095 | [370095-petit-planet.json](./370095-petit-planet.json) |
 | Petit Royaume | 321338 | [321338-petit-royaume.json](./321338-petit-royaume.json) |
@@ -3074,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Panic | 21768 | [21768-polar-panic.json](./21768-polar-panic.json) |
 | Polar Panic | 275603 | [275603-polar-panic.json](./275603-polar-panic.json) |
 | Polar Pathways | 295386 | [295386-polar-pathways.json](./295386-polar-pathways.json) |
+| Polar Penguin | 239731 | [239731-polar-penguin.json](./239731-polar-penguin.json) |
 | Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
 | Polary | 163953 | [163953-polary.json](./163953-polary.json) |
 | PolClash | 367964 | [367964-polclash.json](./367964-polclash.json) |
@@ -4429,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
 | Psycho Dream | 42420 | [42420-psycho-dream.json](./42420-psycho-dream.json) |
+| Psycho Fear | 239734 | [239734-psycho-fear.json](./239734-psycho-fear.json) |
 | Psycho Pigs | 59949 | [59949-psycho-pigs.json](./59949-psycho-pigs.json) |
 | Psycho Simulator | 389465 | [389465-psycho-simulator.json](./389465-psycho-simulator.json) |
 | Psycho Strafe | 358969 | [358969-psycho-strafe.json](./358969-psycho-strafe.json) |
