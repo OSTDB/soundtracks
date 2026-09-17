@@ -2972,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi in The Sky | 267374 | [267374-mimi-in-the-sky.json](./267374-mimi-in-the-sky.json) |
 | Mimi the Cat: New Friends | 253911 | [253911-mimi-the-cat-new-friends.json](./253911-mimi-the-cat-new-friends.json) |
 | Mimi Wuhui | 410959 | [410959-mimi-wuhui.json](./410959-mimi-wuhui.json) |
+| Mimic | 286103 | [286103-mimic.json](./286103-mimic.json) |
 | Mimic Party | 413646 | [413646-mimic-party.json](./413646-mimic-party.json) |
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
 | Mimic Sleuth | 355031 | [355031-mimic-sleuth.json](./355031-mimic-sleuth.json) |
