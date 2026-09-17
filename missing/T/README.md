@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a Little | 238737 | [238737-take-a-little.json](./238737-take-a-little.json) |
 | Take a piss like a woman | 330160 | [330160-take-a-piss-like-a-woman.json](./330160-take-a-piss-like-a-woman.json) |
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
+| Take a Smile | 246484 | [246484-take-a-smile.json](./246484-take-a-smile.json) |
 | Take Care of My Heifer | 414421 | [414421-take-care-of-my-heifer.json](./414421-take-care-of-my-heifer.json) |
 | Take Care Of The Dog | 402917 | [402917-take-care-of-the-dog.json](./402917-take-care-of-the-dog.json) |
 | Take Care of the Paperwork | 103455 | [103455-take-care-of-the-paperwork.json](./103455-take-care-of-the-paperwork.json) |
@@ -7200,6 +7201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totality | 272278 | [272278-totality.json](./272278-totality.json) |
 | Totally Accurate Battle Simulator: Bug DLC | 239080 | [239080-totally-accurate-battle-simulator-bug-dlc.json](./239080-totally-accurate-battle-simulator-bug-dlc.json) |
 | Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
+| Totally Jet | 246488 | [246488-totally-jet.json](./246488-totally-jet.json) |
 | Totally Normal Day | 304759 | [304759-totally-normal-day.json](./304759-totally-normal-day.json) |
 | Totally Realistic Unicorn Buffalo Simulator | 142463 | [142463-totally-realistic-unicorn-buffalo-simulator.json](./142463-totally-realistic-unicorn-buffalo-simulator.json) |
 | Totally Reliable Delivery Service: Atari Attire | 381600 | [381600-totally-reliable-delivery-service-atari-attire.json](./381600-totally-reliable-delivery-service-atari-attire.json) |
