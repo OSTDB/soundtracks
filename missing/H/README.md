@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Scene | 35623 | [35623-heroes-of-scene.json](./35623-heroes-of-scene.json) |
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
 | Heroes of Solitairea | 294862 | [294862-heroes-of-solitairea.json](./294862-heroes-of-solitairea.json) |
+| Heroes of Spyria | 250462 | [250462-heroes-of-spyria.json](./250462-heroes-of-spyria.json) |
 | Heroes of Steel Tactics RPG | 53191 | [53191-heroes-of-steel-tactics-rpg.json](./53191-heroes-of-steel-tactics-rpg.json) |
 | Heroes of the 357th | 15474 | [15474-heroes-of-the-357th.json](./15474-heroes-of-the-357th.json) |
 | Heroes of the Citadel | 285583 | [285583-heroes-of-the-citadel.json](./285583-heroes-of-the-citadel.json) |
@@ -2858,6 +2859,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel of the Dead | 274749 | [274749-hotel-of-the-dead.json](./274749-hotel-of-the-dead.json) |
 | Hotel Perkkow and the Two Vegetarian Werewolves | 294281 | [294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json](./294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json) |
 | Hotel Renovator: Disco Room & Furniture Set | 265717 | [265717-hotel-renovator-disco-room-and-furniture-set.json](./265717-hotel-renovator-disco-room-and-furniture-set.json) |
+| Hotel Renovator: Five Star Edition | 250420 | [250420-hotel-renovator-five-star-edition.json](./250420-hotel-renovator-five-star-edition.json) |
+| Hotel Renovator: Futuristic Furniture Set | 250421 | [250421-hotel-renovator-futuristic-furniture-set.json](./250421-hotel-renovator-futuristic-furniture-set.json) |
 | Hotel Security | 339846 | [339846-hotel-security.json](./339846-hotel-security.json) |
 | Hotel Simulator 2024 | 307567 | [307567-hotel-simulator-2024.json](./307567-hotel-simulator-2024.json) |
 | Hotel Simulator 2026 | 390536 | [390536-hotel-simulator-2026.json](./390536-hotel-simulator-2026.json) |
