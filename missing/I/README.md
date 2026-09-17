@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
 | Infinity Wars: Animated Trading Card Game | 16732 | [16732-infinity-wars-animated-trading-card-game.json](./16732-infinity-wars-animated-trading-card-game.json) |
 | Infinity: Battlescape | 26990 | [26990-infinity-battlescape.json](./26990-infinity-battlescape.json) |
+| Infinity: HexaDome Tactics | 275699 | [275699-infinity-hexadome-tactics.json](./275699-infinity-hexadome-tactics.json) |
 | Infiniwar | 312750 | [312750-infiniwar.json](./312750-infiniwar.json) |
 | Infinos Exa | 316072 | [316072-infinos-exa.json](./316072-infinos-exa.json) |
 | Inflate Me to the Moon | 177494 | [177494-inflate-me-to-the-moon.json](./177494-inflate-me-to-the-moon.json) |
