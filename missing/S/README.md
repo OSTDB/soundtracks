@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo: Case File 1 - The Glowing Bug Man | 78685 | [78685-scooby-doo-case-file-1-the-glowing-bug-man.json](./78685-scooby-doo-case-file-1-the-glowing-bug-man.json) |
 | Scooby-Doo! & Looney Tunes Cartoon Universe: Arcade | 247599 | [247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json](./247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json) |
 | Scooby-Doo! Mystery of the Fun Park Phantom | 2857 | [2857-scooby-doo-mystery-of-the-fun-park-phantom.json](./2857-scooby-doo-mystery-of-the-fun-park-phantom.json) |
+| Scooby-Doo!: Catch Shaggy | 245412 | [245412-scooby-doo-catch-shaggy.json](./245412-scooby-doo-catch-shaggy.json) |
 | Scooby-Doo!: Mistery Mayhem | 44634 | [44634-scooby-doo-mistery-mayhem.json](./44634-scooby-doo-mistery-mayhem.json) |
 | ScooMart | 265765 | [265765-scoomart.json](./265765-scoomart.json) |
 | Scoop Kick! | 190175 | [190175-scoop-kick.json](./190175-scoop-kick.json) |
@@ -1132,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of World | 292537 | [292537-sea-of-world.json](./292537-sea-of-world.json) |
 | Sea Plumber 2 | 205029 | [205029-sea-plumber-2.json](./205029-sea-plumber-2.json) |
 | Sea Power: Naval Combat in the Missile Age | 217518 | [217518-sea-power-naval-combat-in-the-missile-age.json](./217518-sea-power-naval-combat-in-the-missile-age.json) |
+| Sea Ranger | 245411 | [245411-sea-ranger.json](./245411-sea-ranger.json) |
 | Sea Rivals VR | 255160 | [255160-sea-rivals-vr.json](./255160-sea-rivals-vr.json) |
 | Sea Salt | 96204 | [96204-sea-salt.json](./96204-sea-salt.json) |
 | Sea Salt City | 404240 | [404240-sea-salt-city.json](./404240-sea-salt-city.json) |
@@ -3512,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam City with Scottie Pippen | 298559 | [298559-slam-city-with-scottie-pippen.json](./298559-slam-city-with-scottie-pippen.json) |
 | Slam Dunk | 92986 | [92986-slam-dunk.json](./92986-slam-dunk.json) |
 | Slam Dunk - The best basketball game 2018 | 106631 | [106631-slam-dunk-the-best-basketball-game-2018.json](./106631-slam-dunk-the-best-basketball-game-2018.json) |
+| Slam Dunk Basketball | 245410 | [245410-slam-dunk-basketball.json](./245410-slam-dunk-basketball.json) |
 | Slam Poets | 399698 | [399698-slam-poets.json](./399698-slam-poets.json) |
 | Slam Tilt | 70944 | [70944-slam-tilt.json](./70944-slam-tilt.json) |
 | Slam! | 94696 | [94696-slam.json](./94696-slam.json) |
@@ -3526,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap-Shot! Hockey | 95424 | [95424-slap-shot-hockey.json](./95424-slap-shot-hockey.json) |
 | SlapGains | 413671 | [413671-slapgains.json](./413671-slapgains.json) |
 | Slappy Ass | 111121 | [111121-slappy-ass.json](./111121-slappy-ass.json) |
+| Slapshot Ice Hockey | 245409 | [245409-slapshot-ice-hockey.json](./245409-slapshot-ice-hockey.json) |
 | Slapstick Bosses | 349861 | [349861-slapstick-bosses.json](./349861-slapstick-bosses.json) |
 | Slash & Roll | 186299 | [186299-slash-and-roll.json](./186299-slash-and-roll.json) |
 | Slash and Fuck | 82893 | [82893-slash-and-fuck.json](./82893-slash-and-fuck.json) |
@@ -3861,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
+| Small Soldiers: Hand to Hand Combat Game | 245408 | [245408-small-soldiers-hand-to-hand-combat-game.json](./245408-small-soldiers-hand-to-hand-combat-game.json) |
 | Small Town Detective | 310585 | [310585-small-town-detective.json](./310585-small-town-detective.json) |
 | Small Town Detective in Where are Ray And Cooper | 310586 | [310586-small-town-detective-in-where-are-ray-and-cooper.json](./310586-small-town-detective-in-where-are-ray-and-cooper.json) |
 | Small Town Terrors: Galdor's Bluff | 79248 | [79248-small-town-terrors-galdors-bluff.json](./79248-small-town-terrors-galdors-bluff.json) |
@@ -4320,11 +4325,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
 | Soar Up The Charts | 310068 | [310068-soar-up-the-charts.json](./310068-soar-up-the-charts.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
+| Soccer | 245406 | [245406-soccer.json](./245406-soccer.json) |
+| Soccer | 245407 | [245407-soccer.json](./245407-soccer.json) |
 | Soccer | 247045 | [247045-soccer.json](./247045-soccer.json) |
 | Soccer | 261792 | [261792-soccer.json](./261792-soccer.json) |
 | Soccer | 300003 | [300003-soccer.json](./300003-soccer.json) |
 | Soccer | 346058 | [346058-soccer.json](./346058-soccer.json) |
 | Soccer | 346099 | [346099-soccer.json](./346099-soccer.json) |
+| Soccer 2 | 245405 | [245405-soccer-2.json](./245405-soccer-2.json) |
 | Soccer America International Cup | 43307 | [43307-soccer-america-international-cup.json](./43307-soccer-america-international-cup.json) |
 | Soccer Battle Royale | 108973 | [108973-soccer-battle-royale.json](./108973-soccer-battle-royale.json) |
 | Soccer Boss | 190209 | [190209-soccer-boss.json](./190209-soccer-boss.json) |
@@ -4358,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer VR | 329004 | [329004-soccer-vr.json](./329004-soccer-vr.json) |
 | Soccer VR Football | 200169 | [200169-soccer-vr-football.json](./200169-soccer-vr-football.json) |
 | Soccer Wind Shot | 233736 | [233736-soccer-wind-shot.json](./233736-soccer-wind-shot.json) |
+| Soccer: Kick the Goal | 245404 | [245404-soccer-kick-the-goal.json](./245404-soccer-kick-the-goal.json) |
 | Soccerholix | 93577 | [93577-soccerholix.json](./93577-soccerholix.json) |
 | Soccering | 115041 | [115041-soccering.json](./115041-soccering.json) |
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
@@ -5450,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Instegators | 40753 | [40753-space-instegators.json](./40753-space-instegators.json) |
 | Space Interceptor | 262369 | [262369-space-interceptor.json](./262369-space-interceptor.json) |
 | Space Intern | 221187 | [221187-space-intern.json](./221187-space-intern.json) |
+| Space Intruder | 245403 | [245403-space-intruder.json](./245403-space-intruder.json) |
 | Space Intruders | 38923 | [38923-space-intruders.json](./38923-space-intruders.json) |
 | Space Invaders | 218440 | [218440-space-invaders.json](./218440-space-invaders.json) |
 | Space Invaders | 218445 | [218445-space-invaders.json](./218445-space-invaders.json) |
@@ -5733,6 +5743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spawn of Evil | 45310 | [45310-spawn-of-evil.json](./45310-spawn-of-evil.json) |
 | Spawn: Armageddon | 4160 | [4160-spawn-armageddon.json](./4160-spawn-armageddon.json) |
 | Spawn: In the Demon's Hand | 4358 | [4358-spawn-in-the-demons-hand.json](./4358-spawn-in-the-demons-hand.json) |
+| Speak & Spell | 245402 | [245402-speak-and-spell.json](./245402-speak-and-spell.json) |
 | Speak Lies | 127360 | [127360-speak-lies.json](./127360-speak-lies.json) |
 | Speak of the Devil I: A Deathly Proposition | 277941 | [277941-speak-of-the-devil-i-a-deathly-proposition.json](./277941-speak-of-the-devil-i-a-deathly-proposition.json) |
 | Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
@@ -5819,6 +5830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Mazing | 164985 | [164985-speed-mazing.json](./164985-speed-mazing.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
 | Speed Race DX | 342140 | [342140-speed-race-dx.json](./342140-speed-race-dx.json) |
+| Speed Racer | 245401 | [245401-speed-racer.json](./245401-speed-racer.json) |
 | Speed Racer Candy Tracks | 343895 | [343895-speed-racer-candy-tracks.json](./343895-speed-racer-candy-tracks.json) |
 | Speed Rider Racing | 100166 | [100166-speed-rider-racing.json](./100166-speed-rider-racing.json) |
 | Speed Run | 304594 | [304594-speed-run.json](./304594-speed-run.json) |
@@ -5966,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Wars | 33209 | [33209-spider-wars.json](./33209-spider-wars.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
 | Spider-Man | 220109 | [220109-spider-man.json](./220109-spider-man.json) |
+| Spider-Man | 245400 | [245400-spider-man.json](./245400-spider-man.json) |
 | Spider-Man | 248203 | [248203-spider-man.json](./248203-spider-man.json) |
 | Spider-Man | 363917 | [363917-spider-man.json](./363917-spider-man.json) |
 | Spider-Man | 363918 | [363918-spider-man.json](./363918-spider-man.json) |
@@ -5977,6 +5990,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 3 | 220112 | [220112-spider-man-3.json](./220112-spider-man-3.json) |
 | Spider-Man 3 | 247535 | [247535-spider-man-3.json](./247535-spider-man-3.json) |
 | Spider-Man 3 Action | 225298 | [225298-spider-man-3-action.json](./225298-spider-man-3-action.json) |
+| Spider-Man 3: Escape the Sandman | 245399 | [245399-spider-man-3-escape-the-sandman.json](./245399-spider-man-3-escape-the-sandman.json) |
+| Spider-Man 3: High-Rise Hysteria | 245398 | [245398-spider-man-3-high-rise-hysteria.json](./245398-spider-man-3-high-rise-hysteria.json) |
+| Spider-Man 3: The Goblin Strikes! | 245397 | [245397-spider-man-3-the-goblin-strikes.json](./245397-spider-man-3-the-goblin-strikes.json) |
+| Spider-Man 3: Trio of Terror | 245396 | [245396-spider-man-3-trio-of-terror.json](./245396-spider-man-3-trio-of-terror.json) |
+| Spider-Man 3: Vigilante Vengeance | 245395 | [245395-spider-man-3-vigilante-vengeance.json](./245395-spider-man-3-vigilante-vengeance.json) |
 | Spider-Man 4 | 231383 | [231383-spider-man-4.json](./231383-spider-man-4.json) |
 | Spider-Man and the X-Men in Arcade's Revenge | 365699 | [365699-spider-man-and-the-x-men-in-arcades-revenge.json](./365699-spider-man-and-the-x-men-in-arcades-revenge.json) |
 | Spider-Man and the X-Men in Arcade's Revenge | 365700 | [365700-spider-man-and-the-x-men-in-arcades-revenge.json](./365700-spider-man-and-the-x-men-in-arcades-revenge.json) |
@@ -6743,6 +6761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Warrior | 94241 | [94241-star-warrior.json](./94241-star-warrior.json) |
 | Star Wars | 12858 | [12858-star-wars.json](./12858-star-wars.json) |
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
+| Star Wars | 245394 | [245394-star-wars.json](./245394-star-wars.json) |
 | Star Wars Arcade | 39822 | [39822-star-wars-arcade.json](./39822-star-wars-arcade.json) |
 | Star Wars Battlefront II: Celebration Edition | 128334 | [128334-star-wars-battlefront-ii-celebration-edition.json](./128334-star-wars-battlefront-ii-celebration-edition.json) |
 | Star Wars Battlefront: Battle of Jakku | 23293 | [23293-star-wars-battlefront-battle-of-jakku.json](./23293-star-wars-battlefront-battle-of-jakku.json) |
@@ -6887,6 +6906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarFringe: Adversus | 33148 | [33148-starfringe-adversus.json](./33148-starfringe-adversus.json) |
 | Starfront: Collision | 87701 | [87701-starfront-collision.json](./87701-starfront-collision.json) |
 | Starfuse | 260214 | [260214-starfuse.json](./260214-starfuse.json) |
+| Stargate | 245393 | [245393-stargate.json](./245393-stargate.json) |
 | Stargate | 346142 | [346142-stargate.json](./346142-stargate.json) |
 | Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
@@ -7034,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
 | Starship Theory | 36962 | [36962-starship-theory.json](./36962-starship-theory.json) |
 | Starship Traders MMO | 254139 | [254139-starship-traders-mmo.json](./254139-starship-traders-mmo.json) |
+| Starship Troopers | 245392 | [245392-starship-troopers.json](./245392-starship-troopers.json) |
 | Starship Troopers TC | 218116 | [218116-starship-troopers-tc.json](./218116-starship-troopers-tc.json) |
 | Starship Troopers: Battlespace | 72724 | [72724-starship-troopers-battlespace.json](./72724-starship-troopers-battlespace.json) |
 | Starship Troopers: Terran Command - Urban Onslaught | 298054 | [298054-starship-troopers-terran-command-urban-onslaught.json](./298054-starship-troopers-terran-command-urban-onslaught.json) |
@@ -7664,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Drag Racing Car Driving Simulator 2022 Games | 231066 | [231066-street-drag-racing-car-driving-simulator-2022-games.json](./231066-street-drag-racing-car-driving-simulator-2022-games.json) |
 | Street Drag Racing Car Driving Simulator: Premium Edition | 315852 | [315852-street-drag-racing-car-driving-simulator-premium-edition.json](./315852-street-drag-racing-car-driving-simulator-premium-edition.json) |
 | Street Drag Racing: Car Simulator | 271475 | [271475-street-drag-racing-car-simulator.json](./271475-street-drag-racing-car-simulator.json) |
+| Street Dude: Homeless Empire | 245373 | [245373-street-dude-homeless-empire.json](./245373-street-dude-homeless-empire.json) |
 | Street Dunk | 264320 | [264320-street-dunk.json](./264320-street-dunk.json) |
 | Street Fighter 2010: The Final Fight | 45196 | [45196-street-fighter-2010-the-final-fight.json](./45196-street-fighter-2010-the-final-fight.json) |
 | Street Fighter 30th Anniversary Collection: International | 298020 | [298020-street-fighter-30th-anniversary-collection-international.json](./298020-street-fighter-30th-anniversary-collection-international.json) |
