@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elves | 295940 | [295940-elves.json](./295940-elves.json) |
 | Elves Jigsaw Puzzle Collection | 229041 | [229041-elves-jigsaw-puzzle-collection.json](./229041-elves-jigsaw-puzzle-collection.json) |
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
+| Elves vs. Goblins Mahjongg World | 275737 | [275737-elves-vs-goblins-mahjongg-world.json](./275737-elves-vs-goblins-mahjongg-world.json) |
 | Elvin: The Water Sphere | 316059 | [316059-elvin-the-water-sphere.json](./316059-elvin-the-water-sphere.json) |
 | Elvine | 225263 | [225263-elvine.json](./225263-elvine.json) |
 | Elvira II: The Jaws of Cerberus | 12064 | [12064-elvira-ii-the-jaws-of-cerberus.json](./12064-elvira-ii-the-jaws-of-cerberus.json) |
