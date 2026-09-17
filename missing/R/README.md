@@ -1778,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolvermen | 344397 | [344397-revolvermen.json](./344397-revolvermen.json) |
 | RevolverRouge | 381115 | [381115-revolverrouge.json](./381115-revolverrouge.json) |
 | RevolVR 3 | 169355 | [169355-revolvr-3.json](./169355-revolvr-3.json) |
+| Revvolvver | 250460 | [250460-revvolvver.json](./250460-revvolvver.json) |
 | Revvver | 285450 | [285450-revvver.json](./285450-revvver.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
@@ -3148,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Royale | 244269 | [244269-rubber-royale.json](./244269-rubber-royale.json) |
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
 | Rubble the Engineer | 359414 | [359414-rubble-the-engineer.json](./359414-rubble-the-engineer.json) |
+| Rube Goldberg Workshop | 250452 | [250452-rube-goldberg-workshop.json](./250452-rube-goldberg-workshop.json) |
 | Rube-like Gold-berger | 364606 | [364606-rube-like-gold-berger.json](./364606-rube-like-gold-berger.json) |
 | Rubi: The Wayward Mira | 55180 | [55180-rubi-the-wayward-mira.json](./55180-rubi-the-wayward-mira.json) |
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
@@ -3264,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
 | Run Hunter Run | 96086 | [96086-run-hunter-run.json](./96086-run-hunter-run.json) |
 | Run Jump Die Repeat | 47230 | [47230-run-jump-die-repeat.json](./47230-run-jump-die-repeat.json) |
+| Run Legends | 250438 | [250438-run-legends.json](./250438-run-legends.json) |
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
 | Run N' Gun | 195737 | [195737-run-n-gun.json](./195737-run-n-gun.json) |
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
