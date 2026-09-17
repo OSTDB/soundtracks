@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Warfare 1242 | 9856 | [9856-real-warfare-1242.json](./9856-real-warfare-1242.json) |
 | Real Winners: Victoryball | 109659 | [109659-real-winners-victoryball.json](./109659-real-winners-victoryball.json) |
 | Real World Golf 2007 | 23010 | [23010-real-world-golf-2007.json](./23010-real-world-golf-2007.json) |
+| Real World RC | 240353 | [240353-real-world-rc.json](./240353-real-world-rc.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
 | RealDoom | 291986 | [291986-realdoom.json](./291986-realdoom.json) |
 | RealFlight 8 | 90068 | [90068-realflight-8.json](./90068-realflight-8.json) |
