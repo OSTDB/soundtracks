@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeriliah Chronicles | 153924 | [153924-zeriliah-chronicles.json](./153924-zeriliah-chronicles.json) |
 | Zerko | 289878 | [289878-zerko.json](./289878-zerko.json) |
 | Zero 5 | 40818 | [40818-zero-5.json](./40818-zero-5.json) |
+| Zero Conflict TD | 271276 | [271276-zero-conflict-td.json](./271276-zero-conflict-td.json) |
 | Zero Core: Exile | 140579 | [140579-zero-core-exile.json](./140579-zero-core-exile.json) |
 | Zero Days Since | 289337 | [289337-zero-days-since.json](./289337-zero-days-since.json) |
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
