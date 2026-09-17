@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alters: Signature Edition | 381720 | [381720-the-alters-signature-edition.json](./381720-the-alters-signature-edition.json) |
 | The Amazeing Labyrinth | 57085 | [57085-the-amazeing-labyrinth.json](./57085-the-amazeing-labyrinth.json) |
 | The Amazing Adventures of ANSI Dude | 79231 | [79231-the-amazing-adventures-of-ansi-dude.json](./79231-the-amazing-adventures-of-ansi-dude.json) |
+| The Amazing Dare Dozen | 241471 | [241471-the-amazing-dare-dozen.json](./241471-the-amazing-dare-dozen.json) |
 | The Amazing Fantastics | 58228 | [58228-the-amazing-fantastics.json](./58228-the-amazing-fantastics.json) |
 | The Amazing Frog? | 63333 | [63333-the-amazing-frog.json](./63333-the-amazing-frog.json) |
 | The Amazing Shinsengumi: Heroes in Love | 32318 | [32318-the-amazing-shinsengumi-heroes-in-love.json](./32318-the-amazing-shinsengumi-heroes-in-love.json) |
@@ -4056,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oregon Trail: 40th Anniversary Edition | 202693 | [202693-the-oregon-trail-40th-anniversary-edition.json](./202693-the-oregon-trail-40th-anniversary-edition.json) |
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
 | The Oregon Trail: Classic Edition | 82073 | [82073-the-oregon-trail-classic-edition.json](./82073-the-oregon-trail-classic-edition.json) |
+| The Origin of Hope | 241504 | [241504-the-origin-of-hope.json](./241504-the-origin-of-hope.json) |
 | The Origin Theory: Episode One | 304589 | [304589-the-origin-theory-episode-one.json](./304589-the-origin-theory-episode-one.json) |
 | The Original Mobile Games | 130882 | [130882-the-original-mobile-games.json](./130882-the-original-mobile-games.json) |
 | The Orion Conspiracy | 23862 | [23862-the-orion-conspiracy.json](./23862-the-orion-conspiracy.json) |
@@ -7154,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado | 266469 | [266469-tornado.json](./266469-tornado.json) |
 | Tornado Baseball / Tennis / Handball / Hockey | 93564 | [93564-tornado-baseball-tennis-handball-hockey.json](./93564-tornado-baseball-tennis-handball-hockey.json) |
 | Tornado Emergency | 301244 | [301244-tornado-emergency.json](./301244-tornado-emergency.json) |
+| Tornado Mania! | 241466 | [241466-tornado-mania.json](./241466-tornado-mania.json) |
 | Tornado: Low Level | 23052 | [23052-tornado-low-level.json](./23052-tornado-low-level.json) |
 | Tornado.io | 106525 | [106525-tornado-io.json](./106525-tornado-io.json) |
 | Tornblade | 386880 | [386880-tornblade.json](./386880-tornblade.json) |
@@ -7236,6 +7239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
 | Totality | 272278 | [272278-totality.json](./272278-totality.json) |
 | Totally Accurate Battle Simulator: Bug DLC | 239080 | [239080-totally-accurate-battle-simulator-bug-dlc.json](./239080-totally-accurate-battle-simulator-bug-dlc.json) |
+| Totally Accurate Dating Simulator | 241505 | [241505-totally-accurate-dating-simulator.json](./241505-totally-accurate-dating-simulator.json) |
 | Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
 | Totally Jet | 246488 | [246488-totally-jet.json](./246488-totally-jet.json) |
 | Totally Normal Day | 304759 | [304759-totally-normal-day.json](./304759-totally-normal-day.json) |
@@ -8047,6 +8051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transarctica | 10857 | [10857-transarctica.json](./10857-transarctica.json) |
 | TransBot | 29136 | [29136-transbot.json](./29136-transbot.json) |
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
+| Transformers | 241501 | [241501-transformers.json](./241501-transformers.json) |
 | Transformers Age of Extinction | 38969 | [38969-transformers-age-of-extinction.json](./38969-transformers-age-of-extinction.json) |
 | Transformers G1 Awakening | 315069 | [315069-transformers-g1-awakening.json](./315069-transformers-g1-awakening.json) |
 | Transformers Rescue Bots: Race to the Rescue | 137611 | [137611-transformers-rescue-bots-race-to-the-rescue.json](./137611-transformers-rescue-bots-race-to-the-rescue.json) |
@@ -8191,6 +8196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel to GolemPark | 199100 | [199100-travel-to-golempark.json](./199100-travel-to-golempark.json) |
 | Travel With Dinosaurs | 351710 | [351710-travel-with-dinosaurs.json](./351710-travel-with-dinosaurs.json) |
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
+| Traveler's Bastion: Spirit Guardians Expansion | 241506 | [241506-travelers-bastion-spirit-guardians-expansion.json](./241506-travelers-bastion-spirit-guardians-expansion.json) |
 | Traveler's Refrain | 287784 | [287784-travelers-refrain.json](./287784-travelers-refrain.json) |
 | Traveler's Refrain x Dreamscaper | 396437 | [396437-travelers-refrain-x-dreamscaper.json](./396437-travelers-refrain-x-dreamscaper.json) |
 | Travelers in Space Crack | 193424 | [193424-travelers-in-space-crack.json](./193424-travelers-in-space-crack.json) |
