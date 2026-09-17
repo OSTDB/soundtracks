@@ -1979,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Energy Heroes | 271207 | [271207-high-energy-heroes.json](./271207-high-energy-heroes.json) |
 | High Five! | 132819 | [132819-high-five.json](./132819-high-five.json) |
 | High Fructose | 277011 | [277011-high-fructose.json](./277011-high-fructose.json) |
+| High Heat Major League Baseball 2002 | 248754 | [248754-high-heat-major-league-baseball-2002.json](./248754-high-heat-major-league-baseball-2002.json) |
 | High Heat Major League Baseball 2002 | 49399 | [49399-high-heat-major-league-baseball-2002.json](./49399-high-heat-major-league-baseball-2002.json) |
 | High Mountain Abbey | 335370 | [335370-high-mountain-abbey.json](./335370-high-mountain-abbey.json) |
 | High Noon Drifter | 141868 | [141868-high-noon-drifter.json](./141868-high-noon-drifter.json) |
@@ -2839,6 +2840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Extreme Racing | 45058 | [45058-hot-wheels-extreme-racing.json](./45058-hot-wheels-extreme-racing.json) |
 | Hot Wheels: Jetz | 166206 | [166206-hot-wheels-jetz.json](./166206-hot-wheels-jetz.json) |
 | Hot Wheels: Mechanix | 70991 | [70991-hot-wheels-mechanix.json](./70991-hot-wheels-mechanix.json) |
+| Hot Wheels: Stunt Track Challenge | 248755 | [248755-hot-wheels-stunt-track-challenge.json](./248755-hot-wheels-stunt-track-challenge.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hotch Kiss | 63302 | [63302-hotch-kiss.json](./63302-hotch-kiss.json) |
 | Hotdog Delivery Hotdog | 390621 | [390621-hotdog-delivery-hotdog.json](./390621-hotdog-delivery-hotdog.json) |
