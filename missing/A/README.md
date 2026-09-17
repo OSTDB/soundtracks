@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
 | Abyssal Drift | 372014 | [372014-abyssal-drift.json](./372014-abyssal-drift.json) |
 | Abyssal Frontier | 283875 | [283875-abyssal-frontier.json](./283875-abyssal-frontier.json) |
+| Abyssal Survivors | 272360 | [272360-abyssal-survivors.json](./272360-abyssal-survivors.json) |
 | Abyssfall: Seekers Within | 337706 | [337706-abyssfall-seekers-within.json](./337706-abyssfall-seekers-within.json) |
 | Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
@@ -1373,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone: Mnemophobia | 377076 | [377076-alone-mnemophobia.json](./377076-alone-mnemophobia.json) |
 | Alone? | 24926 | [24926-alone.json](./24926-alone.json) |
 | Alonecats | 293085 | [293085-alonecats.json](./293085-alonecats.json) |
+| Along Came a Dragonfly | 272356 | [272356-along-came-a-dragonfly.json](./272356-along-came-a-dragonfly.json) |
 | Along Came A Spider | 163364 | [163364-along-came-a-spider.json](./163364-along-came-a-spider.json) |
 | Along Came Treble | 313879 | [313879-along-came-treble.json](./313879-along-came-treble.json) |
 | Along the River During the Qingming Festival | 295384 | [295384-along-the-river-during-the-qingming-festival.json](./295384-along-the-river-during-the-qingming-festival.json) |
@@ -2936,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argentum Online | 93135 | [93135-argentum-online.json](./93135-argentum-online.json) |
 | Argh! Earthlings! | 175435 | [175435-argh-earthlings.json](./175435-argh-earthlings.json) |
 | Arghh, There's a Killer Chasing Me! | 188114 | [188114-arghh-theres-a-killer-chasing-me.json](./188114-arghh-theres-a-killer-chasing-me.json) |
+| Argo | 272353 | [272353-argo.json](./272353-argo.json) |
 | Argonauts Agency: Ares Games | 360665 | [360665-argonauts-agency-ares-games.json](./360665-argonauts-agency-ares-games.json) |
 | Argonauts Agency: Captive of Circe - Collectors Edition | 357334 | [357334-argonauts-agency-captive-of-circe-collectors-edition.json](./357334-argonauts-agency-captive-of-circe-collectors-edition.json) |
 | Argonauts Agency: Chair of Hephaestus | 188084 | [188084-argonauts-agency-chair-of-hephaestus.json](./188084-argonauts-agency-chair-of-hephaestus.json) |
