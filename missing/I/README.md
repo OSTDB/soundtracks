@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indies' Lies: Desires Flowing | 349374 | [349374-indies-lies-desires-flowing.json](./349374-indies-lies-desires-flowing.json) |
 | Indigenous | 26555 | [26555-indigenous.json](./26555-indigenous.json) |
 | Indignum | 397664 | [397664-indignum.json](./397664-indignum.json) |
+| Indigo | 257441 | [257441-indigo.json](./257441-indigo.json) |
 | Indigo | 388713 | [388713-indigo.json](./388713-indigo.json) |
 | Indigo Horizon | 336528 | [336528-indigo-horizon.json](./336528-indigo-horizon.json) |
 | Indigo Prohecy: 15th Anniversary Edition | 139933 | [139933-indigo-prohecy-15th-anniversary-edition.json](./139933-indigo-prohecy-15th-anniversary-edition.json) |
