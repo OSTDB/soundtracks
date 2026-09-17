@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O.M.G. 26: Our Mini Games | 110320 | [110320-o-m-g-26-our-mini-games.json](./110320-o-m-g-26-our-mini-games.json) |
 | O.M.N.I.S.: Overnight Train | 357346 | [357346-o-m-n-i-s-overnight-train.json](./357346-o-m-n-i-s-overnight-train.json) |
 | O.T.D | 130330 | [130330-o-t-d.json](./130330-o-t-d.json) |
+| O.To.I.Re: Dreamcast Sequencer | 283303 | [283303-o-to-i-re-dreamcast-sequencer.json](./283303-o-to-i-re-dreamcast-sequencer.json) |
 | O.U.T.T. | 400324 | [400324-o-u-t-t.json](./400324-o-u-t-t.json) |
 | O.W.L Projekt | 309527 | [309527-o-w-l-projekt.json](./309527-o-w-l-projekt.json) |
 | O.W.L.: One Wave Length | 341579 | [341579-o-w-l-one-wave-length.json](./341579-o-w-l-one-wave-length.json) |
