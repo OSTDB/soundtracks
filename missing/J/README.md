@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaws of Hell | 349322 | [349322-jaws-of-hell.json](./349322-jaws-of-hell.json) |
 | Jaws: Retro Edition | 381120 | [381120-jaws-retro-edition.json](./381120-jaws-retro-edition.json) |
 | JawshRPG | 316280 | [316280-jawshrpg.json](./316280-jawshrpg.json) |
+| Jax: History Repeats Itself | 275725 | [275725-jax-history-repeats-itself.json](./275725-jax-history-repeats-itself.json) |
 | Jayce | 177500 | [177500-jayce.json](./177500-jayce.json) |
 | Jazz and Faust | 127331 | [127331-jazz-and-faust.json](./127331-jazz-and-faust.json) |
 | Jazz It Up | 177994 | [177994-jazz-it-up.json](./177994-jazz-it-up.json) |
