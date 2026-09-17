@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claire | 10082 | [10082-claire.json](./10082-claire.json) |
 | Claire Darksage and the Accursed Objects: Collector's Editon | 362828 | [362828-claire-darksage-and-the-accursed-objects-collectors-editon.json](./362828-claire-darksage-and-the-accursed-objects-collectors-editon.json) |
 | Claire's Cruisin' Cafe: High Seas Cuisine | 193445 | [193445-claires-cruisin-cafe-high-seas-cuisine.json](./193445-claires-cruisin-cafe-high-seas-cuisine.json) |
+| Clamb | 278553 | [278553-clamb.json](./278553-clamb.json) |
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
@@ -3760,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Fantasy Collection | 269306 | [269306-cosmic-fantasy-collection.json](./269306-cosmic-fantasy-collection.json) |
 | Cosmic Fantasy: Bouken Shounen Yuu | 42005 | [42005-cosmic-fantasy-bouken-shounen-yuu.json](./42005-cosmic-fantasy-bouken-shounen-yuu.json) |
 | Cosmic Highway | 63834 | [63834-cosmic-highway.json](./63834-cosmic-highway.json) |
+| Cosmic Horizons: Path of the Wanderer | 278552 | [278552-cosmic-horizons-path-of-the-wanderer.json](./278552-cosmic-horizons-path-of-the-wanderer.json) |
 | Cosmic Invasion | 335844 | [335844-cosmic-invasion.json](./335844-cosmic-invasion.json) |
 | Cosmic Kitchen | 295272 | [295272-cosmic-kitchen.json](./295272-cosmic-kitchen.json) |
 | Cosmic League | 57108 | [57108-cosmic-league.json](./57108-cosmic-league.json) |
@@ -3774,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Raze | 320535 | [320535-cosmic-raze.json](./320535-cosmic-raze.json) |
 | Cosmic Reach | 292852 | [292852-cosmic-reach.json](./292852-cosmic-reach.json) |
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
+| Cosmic Rollers: Orbital Odyssey | 278551 | [278551-cosmic-rollers-orbital-odyssey.json](./278551-cosmic-rollers-orbital-odyssey.json) |
 | Cosmic Run | 348341 | [348341-cosmic-run.json](./348341-cosmic-run.json) |
 | Cosmic Scramble | 372589 | [372589-cosmic-scramble.json](./372589-cosmic-scramble.json) |
 | Cosmic Slime Defense | 287202 | [287202-cosmic-slime-defense.json](./287202-cosmic-slime-defense.json) |
