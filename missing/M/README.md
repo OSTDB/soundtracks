@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
 | Mario + Rabbids Kingdom Battle: Ultra Challenge Pack | 237938 | [237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json](./237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json) |
 | Mario + Rabbids Sparks of Hope | 152201 | [152201-mario-rabbids-sparks-of-hope.json](./152201-mario-rabbids-sparks-of-hope.json) |
+| Mario + Rabbids Sparks of Hope: + Rayman Edition | 268551 | [268551-mario-rabbids-sparks-of-hope-rayman-edition.json](./268551-mario-rabbids-sparks-of-hope-rayman-edition.json) |
 | Mario + Rabbids Sparks of Hope: Galactic Prestige Bundle | 401013 | [401013-mario-rabbids-sparks-of-hope-galactic-prestige-bundle.json](./401013-mario-rabbids-sparks-of-hope-galactic-prestige-bundle.json) |
 | Mario + Wario Complete | 318037 | [318037-mario-wario-complete.json](./318037-mario-wario-complete.json) |
 | Mario 128 | 130354 | [130354-mario-128.json](./130354-mario-128.json) |
@@ -1370,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Cube | 120377 | [120377-master-cube.json](./120377-master-cube.json) |
 | Master Detective Archives: Rain Code | 183617 | [183617-master-detective-archives-rain-code.json](./183617-master-detective-archives-rain-code.json) |
 | Master Detective Archives: Rain Code - Ch. Fubuki: Fubuki's Luckiest Day | 259573 | [259573-master-detective-archives-rain-code-ch-fubuki-fubukis-luckiest-day.json](./259573-master-detective-archives-rain-code-ch-fubuki-fubukis-luckiest-day.json) |
+| Master Detective Archives: Rain Code - Ch. Halara: Raining Cats & Dog | 268575 | [268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json](./268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json) |
 | Master Detective Archives: Rain Code - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective | 268772 | [268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json](./268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json) |
 | Master Detective Archives: Rain Code Plus | 300724 | [300724-master-detective-archives-rain-code-plus.json](./300724-master-detective-archives-rain-code-plus.json) |
 | Master Labyrinth | 45915 | [45915-master-labyrinth.json](./45915-master-labyrinth.json) |
@@ -1440,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Puzzle: In Serenity | 151217 | [151217-masters-of-puzzle-in-serenity.json](./151217-masters-of-puzzle-in-serenity.json) |
 | Masters of the Universe: The Movie | 30904 | [30904-masters-of-the-universe-the-movie.json](./30904-masters-of-the-universe-the-movie.json) |
 | Masters of the Universe: The Power of He-Man | 5683 | [5683-masters-of-the-universe-the-power-of-he-man.json](./5683-masters-of-the-universe-the-power-of-he-man.json) |
+| Masters: Harukanaru Augusta 3 | 268542 | [268542-masters-harukanaru-augusta-3.json](./268542-masters-harukanaru-augusta-3.json) |
 | Masterspace | 36420 | [36420-masterspace.json](./36420-masterspace.json) |
 | Mat Hoffman's Pro BMX | 3994 | [3994-mat-hoffmans-pro-bmx.json](./3994-mat-hoffmans-pro-bmx.json) |
 | Mata Hari | 27853 | [27853-mata-hari.json](./27853-mata-hari.json) |
@@ -3583,6 +3586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixology | 402922 | [402922-mixology.json](./402922-mixology.json) |
 | Mixtape Fever | 177004 | [177004-mixtape-fever.json](./177004-mixtape-fever.json) |
 | Mixx Island: Remix Plus - Amazing Edition | 290431 | [290431-mixx-island-remix-plus-amazing-edition.json](./290431-mixx-island-remix-plus-amazing-edition.json) |
+| Mixx Island: Remix Plus - Definitive Edition | 268550 | [268550-mixx-island-remix-plus-definitive-edition.json](./268550-mixx-island-remix-plus-definitive-edition.json) |
 | Mixx Island: Remix Plus - GOTY Edition | 284502 | [284502-mixx-island-remix-plus-goty-edition.json](./284502-mixx-island-remix-plus-goty-edition.json) |
 | Mixx Island: Remix Plus - Happy Edition | 287124 | [287124-mixx-island-remix-plus-happy-edition.json](./287124-mixx-island-remix-plus-happy-edition.json) |
 | Mixx Island: Remix Plus - Magnificent Edition | 294830 | [294830-mixx-island-remix-plus-magnificent-edition.json](./294830-mixx-island-remix-plus-magnificent-edition.json) |
