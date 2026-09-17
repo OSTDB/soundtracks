@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario In Search of The Stars 2 | 267929 | [267929-mario-in-search-of-the-stars-2.json](./267929-mario-in-search-of-the-stars-2.json) |
 | Mario in the Dreamscape | 296093 | [296093-mario-in-the-dreamscape.json](./296093-mario-in-the-dreamscape.json) |
 | Mario Is Missing! | 210223 | [210223-mario-is-missing.json](./210223-mario-is-missing.json) |
+| Mario Kart 64 Deluxe | 254601 | [254601-mario-kart-64-deluxe.json](./254601-mario-kart-64-deluxe.json) |
 | Mario Kart 64 HD | 229075 | [229075-mario-kart-64-hd.json](./229075-mario-kart-64-hd.json) |
 | Mario Kart 64 ITEM BLAST | 374679 | [374679-mario-kart-64-item-blast.json](./374679-mario-kart-64-item-blast.json) |
 | Mario Kart 64: Amped Up - Version 3 | 358307 | [358307-mario-kart-64-amped-up-version-3.json](./358307-mario-kart-64-amped-up-version-3.json) |
@@ -4596,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel Snooze | 135800 | [135800-motel-snooze.json](./135800-motel-snooze.json) |
 | MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
 | Moth Ma'am | 355015 | [355015-moth-maam.json](./355015-moth-maam.json) |
+| Moth Planet | 254585 | [254585-moth-planet.json](./254585-moth-planet.json) |
 | Moth Terra | 376457 | [376457-moth-terra.json](./376457-moth-terra.json) |
 | Mothballs | 179701 | [179701-mothballs.json](./179701-mothballs.json) |
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
@@ -5415,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Universe: Complete Edition | 294825 | [294825-my-little-universe-complete-edition.json](./294825-my-little-universe-complete-edition.json) |
 | My Little Universe: Demodium | 286542 | [286542-my-little-universe-demodium.json](./286542-my-little-universe-demodium.json) |
 | My Little Work: Garage | 89180 | [89180-my-little-work-garage.json](./89180-my-little-work-garage.json) |
+| My Love for You is Evermore | 254570 | [254570-my-love-for-you-is-evermore.json](./254570-my-love-for-you-is-evermore.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
@@ -5429,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mundane Life Is Threatened by the Tropes of an RPG!!! | 256346 | [256346-my-mundane-life-is-threatened-by-the-tropes-of-an-rpg.json](./256346-my-mundane-life-is-threatened-by-the-tropes-of-an-rpg.json) |
 | My Music Label | 402410 | [402410-my-music-label.json](./402410-my-music-label.json) |
 | My Music Oasis | 287204 | [287204-my-music-oasis.json](./287204-my-music-oasis.json) |
+| My Mystic Secretary | 254614 | [254614-my-mystic-secretary.json](./254614-my-mystic-secretary.json) |
 | My name is human | 153927 | [153927-my-name-is-human.json](./153927-my-name-is-human.json) |
 | My Name is Mayo 3 | 200699 | [200699-my-name-is-mayo-3.json](./200699-my-name-is-mayo-3.json) |
 | My Name is Sarah | 129221 | [129221-my-name-is-sarah.json](./129221-my-name-is-sarah.json) |
