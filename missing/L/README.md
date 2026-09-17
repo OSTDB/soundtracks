@@ -1970,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot & Legends | 22354 | [22354-loot-and-legends.json](./22354-loot-and-legends.json) |
 | Loot and Shoot | 250000 | [250000-loot-and-shoot.json](./250000-loot-and-shoot.json) |
 | Loot Box Achievement Simulator | 103790 | [103790-loot-box-achievement-simulator.json](./103790-loot-box-achievement-simulator.json) |
+| Loot Box Quest: Mystic Maidens | 271273 | [271273-loot-box-quest-mystic-maidens.json](./271273-loot-box-quest-mystic-maidens.json) |
 | Loot Box Simulator | 137038 | [137038-loot-box-simulator.json](./137038-loot-box-simulator.json) |
 | Loot Box Simulator: Crimson Fire | 232983 | [232983-loot-box-simulator-crimson-fire.json](./232983-loot-box-simulator-crimson-fire.json) |
 | Loot Box Simulator: Heroes of the Dark Age | 232984 | [232984-loot-box-simulator-heroes-of-the-dark-age.json](./232984-loot-box-simulator-heroes-of-the-dark-age.json) |
