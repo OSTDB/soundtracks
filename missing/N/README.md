@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Driver | 311116 | [311116-night-driver.json](./311116-night-driver.json) |
 | Night Drone | 373654 | [373654-night-drone.json](./373654-night-drone.json) |
 | Night Escaper | 201266 | [201266-night-escaper.json](./201266-night-escaper.json) |
+| Night Feeder | 279104 | [279104-night-feeder.json](./279104-night-feeder.json) |
 | Night Flight | 297492 | [297492-night-flight.json](./297492-night-flight.json) |
 | Night Fright | 318402 | [318402-night-fright.json](./318402-night-fright.json) |
 | Night Furries | 367512 | [367512-night-furries.json](./367512-night-furries.json) |
@@ -1662,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturnal Nemesis | 341483 | [341483-nocturnal-nemesis.json](./341483-nocturnal-nemesis.json) |
 | Nocturnal Visitors: Book One | 370152 | [370152-nocturnal-visitors-book-one.json](./370152-nocturnal-visitors-book-one.json) |
 | Nocturnal Whispers | 356632 | [356632-nocturnal-whispers.json](./356632-nocturnal-whispers.json) |
+| Nocturnals | 279107 | [279107-nocturnals.json](./279107-nocturnals.json) |
 | Nocturnarya: Collector's Edition | 362846 | [362846-nocturnarya-collectors-edition.json](./362846-nocturnarya-collectors-edition.json) |
 | Nocturne | 402375 | [402375-nocturne.json](./402375-nocturne.json) |
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
