@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanba Warriors: Character Pack 1 | 170992 | [170992-wanba-warriors-character-pack-1.json](./170992-wanba-warriors-character-pack-1.json) |
 | Wanba Warriors: Character Pack 2 | 170994 | [170994-wanba-warriors-character-pack-2.json](./170994-wanba-warriors-character-pack-2.json) |
 | Wanba Warriors: Character Pack 3 | 170993 | [170993-wanba-warriors-character-pack-3.json](./170993-wanba-warriors-character-pack-3.json) |
+| Wander Wonder | 237514 | [237514-wander-wonder.json](./237514-wander-wonder.json) |
 | Wanderer | 185082 | [185082-wanderer.json](./185082-wanderer.json) |
 | Wanderer | 205582 | [205582-wanderer.json](./205582-wanderer.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
@@ -320,6 +321,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waratte Iitomo! Tamorinpic | 37768 | [37768-waratte-iitomo-tamorinpic.json](./37768-waratte-iitomo-tamorinpic.json) |
 | Warauinu no Bouken GB: Silly Go Lucky! | 59400 | [59400-warauinu-no-bouken-gb-silly-go-lucky.json](./59400-warauinu-no-bouken-gb-silly-go-lucky.json) |
 | Warbanners: Death Speaker | 172143 | [172143-warbanners-death-speaker.json](./172143-warbanners-death-speaker.json) |
+| Warbears Mission 01: The Bank Robbery | 237490 | [237490-warbears-mission-01-the-bank-robbery.json](./237490-warbears-mission-01-the-bank-robbery.json) |
+| Warbears Mission 02: Training Time | 237494 | [237494-warbears-mission-02-training-time.json](./237494-warbears-mission-02-training-time.json) |
+| Warbears Mission 03: An Oceanic Problem | 237499 | [237499-warbears-mission-03-an-oceanic-problem.json](./237499-warbears-mission-03-an-oceanic-problem.json) |
+| Warbears: Bedtime City | 237498 | [237498-warbears-bedtime-city.json](./237498-warbears-bedtime-city.json) |
 | WarBirds II | 72094 | [72094-warbirds-ii.json](./72094-warbirds-ii.json) |
 | WarBirds III | 71557 | [71557-warbirds-iii.json](./71557-warbirds-iii.json) |
 | Warbits+ | 245923 | [245923-warbits.json](./245923-warbits.json) |
@@ -846,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weeping Willow | 122366 | [122366-weeping-willow.json](./122366-weeping-willow.json) |
 | WeeWaa | 91380 | [91380-weewaa.json](./91380-weewaa.json) |
 | Weezer: End of the Game Game | 295365 | [295365-weezer-end-of-the-game-game.json](./295365-weezer-end-of-the-game-game.json) |
+| Weezle | 237495 | [237495-weezle.json](./237495-weezle.json) |
 | WeFly | 310594 | [310594-wefly.json](./310594-wefly.json) |
 | Wega & The Lost Media | 358293 | [358293-wega-and-the-lost-media.json](./358293-wega-and-the-lost-media.json) |
 | Wega: Lost in the Outer Reaches | 213406 | [213406-wega-lost-in-the-outer-reaches.json](./213406-wega-lost-in-the-outer-reaches.json) |
@@ -1524,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Window Seat | 409643 | [409643-window-seat.json](./409643-window-seat.json) |
 | Windowframe | 70387 | [70387-windowframe.json](./70387-windowframe.json) |
 | Windows Mario World | 256297 | [256297-windows-mario-world.json](./256297-windows-mario-world.json) |
+| Windows XP Meteorite Covenant | 237516 | [237516-windows-xp-meteorite-covenant.json](./237516-windows-xp-meteorite-covenant.json) |
 | Windrose | 380441 | [380441-windrose.json](./380441-windrose.json) |
 | Windrush Tales | 180269 | [180269-windrush-tales.json](./180269-windrush-tales.json) |
 | Winds of Destiny - Duels of the Magi | 39002 | [39002-winds-of-destiny-duels-of-the-magi.json](./39002-winds-of-destiny-duels-of-the-magi.json) |
