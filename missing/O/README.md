@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only One | 328599 | [328599-only-one.json](./328599-only-one.json) |
 | Only One Mosquito | 181354 | [181354-only-one-mosquito.json](./181354-only-one-mosquito.json) |
 | Only One Night | 394222 | [394222-only-one-night.json](./394222-only-one-night.json) |
+| Only One Way Up | 256919 | [256919-only-one-way-up.json](./256919-only-one-way-up.json) |
 | Only Pinball | 292532 | [292532-only-pinball.json](./292532-only-pinball.json) |
 | Only Shadows Left Behind | 109730 | [109730-only-shadows-left-behind.json](./109730-only-shadows-left-behind.json) |
 | Only Straight and Up! | 264027 | [264027-only-straight-and-up.json](./264027-only-straight-and-up.json) |
@@ -1038,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oppai Muse | 203383 | [203383-oppai-muse.json](./203383-oppai-muse.json) |
 | Oppai Puzzle L | 209481 | [209481-oppai-puzzle-l.json](./209481-oppai-puzzle-l.json) |
 | Oppaidius Tropical Cruise! | 126641 | [126641-oppaidius-tropical-cruise.json](./126641-oppaidius-tropical-cruise.json) |
+| Oppidum | 256927 | [256927-oppidum.json](./256927-oppidum.json) |
 | Opposite Day 2 | 329173 | [329173-opposite-day-2.json](./329173-opposite-day-2.json) |
 | Opposyte | 258459 | [258459-opposyte.json](./258459-opposyte.json) |
 | Opps! They Love Me Way Too Much! | 292163 | [292163-opps-they-love-me-way-too-much.json](./292163-opps-they-love-me-way-too-much.json) |
