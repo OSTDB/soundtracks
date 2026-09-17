@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
 | Illumina Girls | 222937 | [222937-illumina-girls.json](./222937-illumina-girls.json) |
 | Illuminaria | 180285 | [180285-illuminaria.json](./180285-illuminaria.json) |
+| Illuminate Frame | 267457 | [267457-illuminate-frame.json](./267457-illuminate-frame.json) |
 | illuminati Simulator VR | 156142 | [156142-illuminati-simulator-vr.json](./156142-illuminati-simulator-vr.json) |
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
 | Illuminum | 343923 | [343923-illuminum.json](./343923-illuminum.json) |
@@ -954,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno | 274190 | [274190-inferno.json](./274190-inferno.json) |
 | Inferno | 346092 | [346092-inferno.json](./346092-inferno.json) |
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
+| Inferno Meltdown | 266867 | [266867-inferno-meltdown.json](./266867-inferno-meltdown.json) |
 | Inferno Protocol | 381679 | [381679-inferno-protocol.json](./381679-inferno-protocol.json) |
 | Inferno: Deathfield | 82051 | [82051-inferno-deathfield.json](./82051-inferno-deathfield.json) |
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
@@ -1494,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ion.A | 290541 | [290541-ion-a.json](./290541-ion-a.json) |
 | IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
 | Ionscape | 240199 | [240199-ionscape.json](./240199-ionscape.json) |
+| Ioo | 267456 | [267456-ioo.json](./267456-ioo.json) |
 | Ioretin | 349848 | [349848-ioretin.json](./349848-ioretin.json) |
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
 | Ippan Zaidan Houjin: Nippon Kanji Shuujukudo Kentei Kikou Kounen - Kanjukuken DS | 269585 | [269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json](./269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json) |
