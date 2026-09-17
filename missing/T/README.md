@@ -3527,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition | 338072 | [338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json](./338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Starter Edition | 216236 | [216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json](./216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json) |
 | The Legend of Zelda: Breath of the Wild Multiplayer | 210652 | [210652-the-legend-of-zelda-breath-of-the-wild-multiplayer.json](./210652-the-legend-of-zelda-breath-of-the-wild-multiplayer.json) |
+| The Legend of Zelda: Breath of the Wild Randomizer | 240878 | [240878-the-legend-of-zelda-breath-of-the-wild-randomizer.json](./240878-the-legend-of-zelda-breath-of-the-wild-randomizer.json) |
 | The Legend of Zelda: Child Quest | 346598 | [346598-the-legend-of-zelda-child-quest.json](./346598-the-legend-of-zelda-child-quest.json) |
 | The Legend of Zelda: Echoes of Aurelia | 323202 | [323202-the-legend-of-zelda-echoes-of-aurelia.json](./323202-the-legend-of-zelda-echoes-of-aurelia.json) |
 | The Legend of Zelda: Four Swords | 163572 | [163572-the-legend-of-zelda-four-swords.json](./163572-the-legend-of-zelda-four-swords.json) |
@@ -6438,6 +6439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeSplitters: Future Perfect | 317416 | [317416-timesplitters-future-perfect.json](./317416-timesplitters-future-perfect.json) |
 | Timestamps: Lost Love | 310041 | [310041-timestamps-lost-love.json](./310041-timestamps-lost-love.json) |
 | TimeTrain | 328629 | [328629-timetrain.json](./328629-timetrain.json) |
+| TimeWarp | 240909 | [240909-timewarp.json](./240909-timewarp.json) |
 | TimeWatch | 130909 | [130909-timewatch.json](./130909-timewatch.json) |
 | TimeZero | 58813 | [58813-timezero.json](./58813-timezero.json) |
 | Timing Hero | 112232 | [112232-timing-hero.json](./112232-timing-hero.json) |
@@ -7467,6 +7469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Tori | 339289 | [339289-tower-of-tori.json](./339289-tower-of-tori.json) |
 | Tower of unlife | 180831 | [180831-tower-of-unlife.json](./180831-tower-of-unlife.json) |
 | Tower of Waifus 2 | 148565 | [148565-tower-of-waifus-2.json](./148565-tower-of-waifus-2.json) |
+| Tower of Winter | 240885 | [240885-tower-of-winter.json](./240885-tower-of-winter.json) |
 | Tower of Wishes 4: Shaka | 356769 | [356769-tower-of-wishes-4-shaka.json](./356769-tower-of-wishes-4-shaka.json) |
 | Tower Princess | 115661 | [115661-tower-princess.json](./115661-tower-princess.json) |
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
@@ -8386,6 +8389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickster VR: Horde Attack! | 119759 | [119759-trickster-vr-horde-attack.json](./119759-trickster-vr-horde-attack.json) |
 | Tricky and the Dream Caster | 316626 | [316626-tricky-and-the-dream-caster.json](./316626-tricky-and-the-dream-caster.json) |
 | Tricky Doors | 203573 | [203573-tricky-doors.json](./203573-tricky-doors.json) |
+| Tricky Horse Jump Racing Game | 240924 | [240924-tricky-horse-jump-racing-game.json](./240924-tricky-horse-jump-racing-game.json) |
 | Tricky Keys | 144942 | [144942-tricky-keys.json](./144942-tricky-keys.json) |
 | Tricky Machines | 157160 | [157160-tricky-machines.json](./157160-tricky-machines.json) |
 | Tricky Monkey Zoo | 396228 | [396228-tricky-monkey-zoo.json](./396228-tricky-monkey-zoo.json) |
