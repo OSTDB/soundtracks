@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vicious, Fateful Memories | 108992 | [108992-vicious-fateful-memories.json](./108992-vicious-fateful-memories.json) |
 | Vicky | 138753 | [138753-vicky.json](./138753-vicky.json) |
 | Vicky Saves the Big Dumb World | 34415 | [34415-vicky-saves-the-big-dumb-world.json](./34415-vicky-saves-the-big-dumb-world.json) |
+| Vico 3: Tale of the Seven Seas | 243790 | [243790-vico-3-tale-of-the-seven-seas.json](./243790-vico-3-tale-of-the-seven-seas.json) |
 | Victim.exe | 335344 | [335344-victim-exe.json](./335344-victim-exe.json) |
 | Victim's Tongue | 397765 | [397765-victims-tongue.json](./397765-victims-tongue.json) |
 | Victordle | 388749 | [388749-victordle.json](./388749-victordle.json) |
