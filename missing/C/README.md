@@ -2406,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Hunter | 37718 | [37718-city-hunter.json](./37718-city-hunter.json) |
 | City Island 2: Building Sim | 103544 | [103544-city-island-2-building-sim.json](./103544-city-island-2-building-sim.json) |
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
+| City Legends: The Ghost of Misty Hill - DLC | 252238 | [252238-city-legends-the-ghost-of-misty-hill-dlc.json](./252238-city-legends-the-ghost-of-misty-hill-dlc.json) |
 | City Legends: Trapped In Mirror - Collector's Edition | 212835 | [212835-city-legends-trapped-in-mirror-collectors-edition.json](./212835-city-legends-trapped-in-mirror-collectors-edition.json) |
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
 | City Mage 3: False Prophecy - Collector's Edition | 417520 | [417520-city-mage-3-false-prophecy-collectors-edition.json](./417520-city-mage-3-false-prophecy-collectors-edition.json) |
@@ -2453,6 +2454,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citybound | 18151 | [18151-citybound.json](./18151-citybound.json) |
 | CityBuilder | 206348 | [206348-citybuilder.json](./206348-citybuilder.json) |
 | Cityconomy: Service for your City | 17494 | [17494-cityconomy-service-for-your-city.json](./17494-cityconomy-service-for-your-city.json) |
+| CityDriver: Alvarez-Lentz Marathon 420 CTI | 252236 | [252236-citydriver-alvarez-lentz-marathon-420-cti.json](./252236-citydriver-alvarez-lentz-marathon-420-cti.json) |
+| CityDriver: Ferdinand Habanero Turbo | 252237 | [252237-citydriver-ferdinand-habanero-turbo.json](./252237-citydriver-ferdinand-habanero-turbo.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
 | Cityquiz.io | 305324 | [305324-cityquiz-io.json](./305324-cityquiz-io.json) |
 | CityZen | 392256 | [392256-cityzen.json](./392256-cityzen.json) |
@@ -2859,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoron | 48644 | [48644-cocoron.json](./48644-cocoron.json) |
 | Cocoto Alien Brick Breaker | 63857 | [63857-cocoto-alien-brick-breaker.json](./63857-cocoto-alien-brick-breaker.json) |
 | Cocoto Fishing Master | 19677 | [19677-cocoto-fishing-master.json](./19677-cocoto-fishing-master.json) |
+| Coda | 252211 | [252211-coda.json](./252211-coda.json) |
 | Coda | 358349 | [358349-coda.json](./358349-coda.json) |
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
@@ -3183,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Natural Wonders | 393616 | [393616-coloring-pixels-natural-wonders.json](./393616-coloring-pixels-natural-wonders.json) |
 | Coloring Pixels: Pastels Pack | 351624 | [351624-coloring-pixels-pastels-pack.json](./351624-coloring-pixels-pastels-pack.json) |
 | Coloring Pixels: Pets Pack | 305514 | [305514-coloring-pixels-pets-pack.json](./305514-coloring-pixels-pets-pack.json) |
+| Coloring Pixels: Pirates Pack | 252239 | [252239-coloring-pixels-pirates-pack.json](./252239-coloring-pixels-pirates-pack.json) |
 | Coloring Pixels: Platformers | 193422 | [193422-coloring-pixels-platformers.json](./193422-coloring-pixels-platformers.json) |
 | Coloring Pixels: Realistic 2 Pack | 351623 | [351623-coloring-pixels-realistic-2-pack.json](./351623-coloring-pixels-realistic-2-pack.json) |
 | Coloring Pixels: Retro Pack | 194648 | [194648-coloring-pixels-retro-pack.json](./194648-coloring-pixels-retro-pack.json) |
@@ -3260,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Black Sea | 77292 | [77292-combat-mission-black-sea.json](./77292-combat-mission-black-sea.json) |
 | Combat Mission: Final Blitzkrieg - Downfall | 288220 | [288220-combat-mission-final-blitzkrieg-downfall.json](./288220-combat-mission-final-blitzkrieg-downfall.json) |
 | Combat Mission: Red Thunder | 77293 | [77293-combat-mission-red-thunder.json](./77293-combat-mission-red-thunder.json) |
+| Combat Mission: Red Thunder - Battle Pack 1 | 252240 | [252240-combat-mission-red-thunder-battle-pack-1.json](./252240-combat-mission-red-thunder-battle-pack-1.json) |
 | Combat Research Division: Spider Unit | 408187 | [408187-combat-research-division-spider-unit.json](./408187-combat-research-division-spider-unit.json) |
 | Combat rush | 108403 | [108403-combat-rush.json](./108403-combat-rush.json) |
 | Combat Spec Ops | 256887 | [256887-combat-spec-ops.json](./256887-combat-spec-ops.json) |
@@ -4081,6 +4087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowtastic Cafe | 316823 | [316823-cowtastic-cafe.json](./316823-cowtastic-cafe.json) |
 | Cozmic Fantasy 2: Bouken Shounen Pan | 251628 | [251628-cozmic-fantasy-2-bouken-shounen-pan.json](./251628-cozmic-fantasy-2-bouken-shounen-pan.json) |
 | Cozy | 179745 | [179745-cozy.json](./179745-cozy.json) |
+| Cozy Cabin: Coffee Boutique | 252241 | [252241-cozy-cabin-coffee-boutique.json](./252241-cozy-cabin-coffee-boutique.json) |
 | Cozy Campzone | 301994 | [301994-cozy-campzone.json](./301994-cozy-campzone.json) |
 | Cozy Cards | 209616 | [209616-cozy-cards.json](./209616-cozy-cards.json) |
 | Cozy Cat Cafe | 399630 | [399630-cozy-cat-cafe.json](./399630-cozy-cat-cafe.json) |
@@ -4474,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket 2000 | 79891 | [79891-cricket-2000.json](./79891-cricket-2000.json) |
 | Cricket 96 | 94684 | [94684-cricket-96.json](./94684-cricket-96.json) |
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
+| Cricket Captain 2023 | 252242 | [252242-cricket-captain-2023.json](./252242-cricket-captain-2023.json) |
 | Cricket Captain 2025 | 351614 | [351614-cricket-captain-2025.json](./351614-cricket-captain-2025.json) |
 | Cricket Heroes: VR | 295785 | [295785-cricket-heroes-vr.json](./295785-cricket-heroes-vr.json) |
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
@@ -5294,6 +5302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber City Oedo 808: Kemono no Zokusei | 64382 | [64382-cyber-city-oedo-808-kemono-no-zokusei.json](./64382-cyber-city-oedo-808-kemono-no-zokusei.json) |
 | Cyber Clutch: Hot Import Nights | 302383 | [302383-cyber-clutch-hot-import-nights.json](./302383-cyber-clutch-hot-import-nights.json) |
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
+| Cyber Dose | 252243 | [252243-cyber-dose.json](./252243-cyber-dose.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Hearts Club | 311633 | [311633-cyber-hearts-club.json](./311633-cyber-hearts-club.json) |
 | Cyber Horror: Project S.Y.L.A. | 370110 | [370110-cyber-horror-project-s-y-l-a.json](./370110-cyber-horror-project-s-y-l-a.json) |
@@ -5380,6 +5389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberscape | 235201 | [235201-cyberscape.json](./235201-cyberscape.json) |
 | CyberSeas | 324716 | [324716-cyberseas.json](./324716-cyberseas.json) |
 | Cybersecurity Ethics Scavenger Hunt | 257397 | [257397-cybersecurity-ethics-scavenger-hunt.json](./257397-cybersecurity-ethics-scavenger-hunt.json) |
+| Cyberside Picnic | 252249 | [252249-cyberside-picnic.json](./252249-cyberside-picnic.json) |
 | CyberSkyscrUpper | 265770 | [265770-cyberskyscrupper.json](./265770-cyberskyscrupper.json) |
 | Cybersonic Strike | 258538 | [258538-cybersonic-strike.json](./258538-cybersonic-strike.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
@@ -5421,6 +5431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynabre | 371334 | [371334-cynabre.json](./371334-cynabre.json) |
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
+| Cynostone | 252248 | [252248-cynostone.json](./252248-cynostone.json) |
 | Cynthia: Hidden in the Moonshadow - Complete Edition | 283152 | [283152-cynthia-hidden-in-the-moonshadow-complete-edition.json](./283152-cynthia-hidden-in-the-moonshadow-complete-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Special Edition | 306491 | [306491-cynthia-hidden-in-the-moonshadow-special-edition.json](./306491-cynthia-hidden-in-the-moonshadow-special-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Summer Edition | 317261 | [317261-cynthia-hidden-in-the-moonshadow-summer-edition.json](./317261-cynthia-hidden-in-the-moonshadow-summer-edition.json) |
