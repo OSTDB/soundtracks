@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: City Bus O305 | 155116 | [155116-omsi-2-city-bus-o305.json](./155116-omsi-2-city-bus-o305.json) |
 | OMSI 2: Citybus i260 Series | 155127 | [155127-omsi-2-citybus-i260-series.json](./155127-omsi-2-citybus-i260-series.json) |
 | OMSI 2: Citybus o530 | 286545 | [286545-omsi-2-citybus-o530.json](./286545-omsi-2-citybus-o530.json) |
+| Omsi 2: Digibus Mirage | 235831 | [235831-omsi-2-digibus-mirage.json](./235831-omsi-2-digibus-mirage.json) |
 | OMSI 2: Digibus Phantom | 155114 | [155114-omsi-2-digibus-phantom.json](./155114-omsi-2-digibus-phantom.json) |
 | OMSI 2: Doppelgelenkbus AGG 300 | 155124 | [155124-omsi-2-doppelgelenkbus-agg-300.json](./155124-omsi-2-doppelgelenkbus-agg-300.json) |
 | OMSI 2: Download Pack Vol. 13 - AI Cars | 293404 | [293404-omsi-2-download-pack-vol-13-ai-cars.json](./293404-omsi-2-download-pack-vol-13-ai-cars.json) |
@@ -1365,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Lovely Escape | 111878 | [111878-our-lovely-escape.json](./111878-our-lovely-escape.json) |
 | Our Metal Bowl | 390653 | [390653-our-metal-bowl.json](./390653-our-metal-bowl.json) |
 | Our Mind | 238496 | [238496-our-mind.json](./238496-our-mind.json) |
+| Our Mini Adventure | 235871 | [235871-our-mini-adventure.json](./235871-our-mini-adventure.json) |
 | Our Ninja World | 199106 | [199106-our-ninja-world.json](./199106-our-ninja-world.json) |
 | Our Place | 179155 | [179155-our-place.json](./179155-our-place.json) |
 | Our Private Homeroom | 239204 | [239204-our-private-homeroom.json](./239204-our-private-homeroom.json) |
@@ -1707,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oystron | 40734 | [40734-oystron.json](./40734-oystron.json) |
 | Ozmafia!! 0 Reflexion | 254574 | [254574-ozmafia-0-reflexion.json](./254574-ozmafia-0-reflexion.json) |
 | Ozonia 2 | 327203 | [327203-ozonia-2.json](./327203-ozonia-2.json) |
+| Oztrich: An Adventure | 235829 | [235829-oztrich-an-adventure.json](./235829-oztrich-an-adventure.json) |
 | Ozymandias: Aegean Sea | 235986 | [235986-ozymandias-aegean-sea.json](./235986-ozymandias-aegean-sea.json) |
 | Ozymandias: Mesoamerica | 232436 | [232436-ozymandias-mesoamerica.json](./232436-ozymandias-mesoamerica.json) |
 | Ozzy & Drix | 49318 | [49318-ozzy-and-drix.json](./49318-ozzy-and-drix.json) |
