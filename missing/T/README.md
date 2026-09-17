@@ -1582,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Animals of Farthing Wood | 364539 | [364539-the-animals-of-farthing-wood.json](./364539-the-animals-of-farthing-wood.json) |
 | The Annual Ghost Town Pumpkin Festival | 141145 | [141145-the-annual-ghost-town-pumpkin-festival.json](./141145-the-annual-ghost-town-pumpkin-festival.json) |
+| The Anomaly 3: Tower | 280893 | [280893-the-anomaly-3-tower.json](./280893-the-anomaly-3-tower.json) |
 | The Anomaly Experiment | 342048 | [342048-the-anomaly-experiment.json](./342048-the-anomaly-experiment.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
 | The Another World | 386889 | [386889-the-another-world.json](./386889-the-another-world.json) |
@@ -1629,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
 | The Asskickers | 9403 | [9403-the-asskickers.json](./9403-the-asskickers.json) |
+| The Asteroid Field | 280884 | [280884-the-asteroid-field.json](./280884-the-asteroid-field.json) |
 | The Astonishing Game | 29687 | [29687-the-astonishing-game.json](./29687-the-astonishing-game.json) |
 | The Astronomy Game | 156144 | [156144-the-astronomy-game.json](./156144-the-astronomy-game.json) |
 | The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
@@ -2398,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Election Game | 12951 | [12951-the-election-game.json](./12951-the-election-game.json) |
 | The Electric State: Kid Cosmo | 336003 | [336003-the-electric-state-kid-cosmo.json](./336003-the-electric-state-kid-cosmo.json) |
 | The Electric Yoyo | 221402 | [221402-the-electric-yoyo.json](./221402-the-electric-yoyo.json) |
+| The Elektra Complex | 280901 | [280901-the-elektra-complex.json](./280901-the-elektra-complex.json) |
 | The Elementalist Typing | 347183 | [347183-the-elementalist-typing.json](./347183-the-elementalist-typing.json) |
 | The Elementalists Book 3 | 408177 | [408177-the-elementalists-book-3.json](./408177-the-elementalists-book-3.json) |
 | The Elephant E | 229040 | [229040-the-elephant-e.json](./229040-the-elephant-e.json) |
@@ -3049,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
 | The Journey into the Virtual Void | 312167 | [312167-the-journey-into-the-virtual-void.json](./312167-the-journey-into-the-virtual-void.json) |
 | The Journey of AutUmn | 164996 | [164996-the-journey-of-autumn.json](./164996-the-journey-of-autumn.json) |
+| The Journey of Elisa | 280916 | [280916-the-journey-of-elisa.json](./280916-the-journey-of-elisa.json) |
 | The Journey of Piggy | 287092 | [287092-the-journey-of-piggy.json](./287092-the-journey-of-piggy.json) |
 | The Journey to Life | 325067 | [325067-the-journey-to-life.json](./325067-the-journey-to-life.json) |
 | The journey to the party | 179743 | [179743-the-journey-to-the-party.json](./179743-the-journey-to-the-party.json) |
@@ -3255,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Refuge | 324329 | [324329-the-last-refuge.json](./324329-the-last-refuge.json) |
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
 | The Last Resourcer | 347772 | [347772-the-last-resourcer.json](./347772-the-last-resourcer.json) |
+| The Last Revenant | 280881 | [280881-the-last-revenant.json](./280881-the-last-revenant.json) |
 | The Last Run: Dead Zombie Shooter | 209142 | [209142-the-last-run-dead-zombie-shooter.json](./209142-the-last-run-dead-zombie-shooter.json) |
 | The Last Running Hero | 188011 | [188011-the-last-running-hero.json](./188011-the-last-running-hero.json) |
 | The Last Sacrifice: A King's Past | 225679 | [225679-the-last-sacrifice-a-kings-past.json](./225679-the-last-sacrifice-a-kings-past.json) |
@@ -4465,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slater | 104815 | [104815-the-slater.json](./104815-the-slater.json) |
 | The Slaughtering Grounds | 13374 | [13374-the-slaughtering-grounds.json](./13374-the-slaughtering-grounds.json) |
 | The Slaverian Trucker | 185636 | [185636-the-slaverian-trucker.json](./185636-the-slaverian-trucker.json) |
+| The Slime Sanctuary | 280894 | [280894-the-slime-sanctuary.json](./280894-the-slime-sanctuary.json) |
 | The Slopes | 28790 | [28790-the-slopes.json](./28790-the-slopes.json) |
 | The Slowpoke Shack | 329150 | [329150-the-slowpoke-shack.json](./329150-the-slowpoke-shack.json) |
 | The Slug | 51732 | [51732-the-slug.json](./51732-the-slug.json) |
@@ -6366,6 +6372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNN Bass Tournament of Champions | 46592 | [46592-tnn-bass-tournament-of-champions.json](./46592-tnn-bass-tournament-of-champions.json) |
 | TNN Motorsports Hardcore 4X4 | 20718 | [20718-tnn-motorsports-hardcore-4x4.json](./20718-tnn-motorsports-hardcore-4x4.json) |
 | TNN Outdoors Pro Hunter | 23150 | [23150-tnn-outdoors-pro-hunter.json](./23150-tnn-outdoors-pro-hunter.json) |
+| TNT 2: Devilution | 280913 | [280913-tnt-2-devilution.json](./280913-tnt-2-devilution.json) |
 | TNT Racers | 20555 | [20555-tnt-racers.json](./20555-tnt-racers.json) |
 | TNT: Evilution | 46616 | [46616-tnt-evilution.json](./46616-tnt-evilution.json) |
 | TNT! | 118978 | [118978-tnt.json](./118978-tnt.json) |
@@ -6802,6 +6809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Dog | 213411 | [213411-top-dog.json](./213411-top-dog.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
+| Top Duck | 280930 | [280930-top-duck.json](./280930-top-duck.json) |
 | Top Gear | 27461 | [27461-top-gear.json](./27461-top-gear.json) |
 | Top Gear GT Championship | 49342 | [49342-top-gear-gt-championship.json](./49342-top-gear-gt-championship.json) |
 | Top Gear Rally | 3617 | [3617-top-gear-rally.json](./3617-top-gear-rally.json) |
@@ -7859,6 +7867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
 | Traumatarium | 268457 | [268457-traumatarium.json](./268457-traumatarium.json) |
 | Traumatarium: Penitent | 307745 | [307745-traumatarium-penitent.json](./307745-traumatarium-penitent.json) |
+| Träumerei: Chapter 0 | 280929 | [280929-traumerei-chapter-0.json](./280929-traumerei-chapter-0.json) |
 | Travel Bug | 86096 | [86096-travel-bug.json](./86096-travel-bug.json) |
 | Travel Cuisine 2: Sweet Life | 358405 | [358405-travel-cuisine-2-sweet-life.json](./358405-travel-cuisine-2-sweet-life.json) |
 | Travel Cuisine 3: The Sea of Flavours - Collector's Edition | 358404 | [358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json](./358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json) |
