@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Simulator | 343327 | [343327-taxi-simulator.json](./343327-taxi-simulator.json) |
 | Taxi Xtreme Urban Racer | 320368 | [320368-taxi-xtreme-urban-racer.json](./320368-taxi-xtreme-urban-racer.json) |
 | Taxi! | 9454 | [9454-taxi.json](./9454-taxi.json) |
+| TaxingTiles | 277937 | [277937-taxingtiles.json](./277937-taxingtiles.json) |
 | TaxMan | 19478 | [19478-taxman.json](./19478-taxman.json) |
 | Tayal | 109622 | [109622-tayal.json](./109622-tayal.json) |
 | Taylordle | 330295 | [330295-taylordle.json](./330295-taylordle.json) |
@@ -5568,6 +5569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
 | Thunderbolt | 88236 | [88236-thunderbolt.json](./88236-thunderbolt.json) |
 | Thunderbolt Poker | 227875 | [227875-thunderbolt-poker.json](./227875-thunderbolt-poker.json) |
+| Thunderbolts and Lightning! | 277954 | [277954-thunderbolts-and-lightning.json](./277954-thunderbolts-and-lightning.json) |
 | ThunderCats | 8060 | [8060-thundercats.json](./8060-thundercats.json) |
 | Thunderchopper | 37161 | [37161-thunderchopper.json](./37161-thunderchopper.json) |
 | Thundercross | 55201 | [55201-thundercross.json](./55201-thundercross.json) |
@@ -7329,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
 | ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
 | Toz | 124200 | [124200-toz.json](./124200-toz.json) |
+| Tr4pp3d | 277975 | [277975-tr4pp3d.json](./277975-tr4pp3d.json) |
 | Trabi Racer | 305348 | [305348-trabi-racer.json](./305348-trabi-racer.json) |
 | Trace Hunters | 279101 | [279101-trace-hunters.json](./279101-trace-hunters.json) |
 | Trace of Time | 284337 | [284337-trace-of-time.json](./284337-trace-of-time.json) |
@@ -8001,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tresmir Sight | 298169 | [298169-tresmir-sight.json](./298169-tresmir-sight.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
+| Tretis | 277980 | [277980-tretis.json](./277980-tretis.json) |
 | Tretrais | 346675 | [346675-tretrais.json](./346675-tretrais.json) |
 | Trevor Sorensen's Star Legions | 54398 | [54398-trevor-sorensens-star-legions.json](./54398-trevor-sorensens-star-legions.json) |
 | TRex Hero | 306381 | [306381-trex-hero.json](./306381-trex-hero.json) |
@@ -8373,6 +8377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
 | Tsuki Adventure | 182457 | [182457-tsuki-adventure.json](./182457-tsuki-adventure.json) |
+| Tsuki no Namida | 277953 | [277953-tsuki-no-namida.json](./277953-tsuki-no-namida.json) |
 | Tsuki no Shoujo: Bishoujo Gakuen 2 | 194622 | [194622-tsuki-no-shoujo-bishoujo-gakuen-2.json](./194622-tsuki-no-shoujo-bishoujo-gakuen-2.json) |
 | Tsukiakari no Kan kara no Dasshutsu | 251607 | [251607-tsukiakari-no-kan-kara-no-dasshutsu.json](./251607-tsukiakari-no-kan-kara-no-dasshutsu.json) |
 | Tsukibito | 59402 | [59402-tsukibito.json](./59402-tsukibito.json) |
