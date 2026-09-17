@@ -1019,6 +1019,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2021: Hits Français et Internationaux Solo | 137084 | [137084-lets-sing-2021-hits-francais-et-internationaux-solo.json](./137084-lets-sing-2021-hits-francais-et-internationaux-solo.json) |
 | Let's Sing 2022: Chinese Version | 215361 | [215361-lets-sing-2022-chinese-version.json](./215361-lets-sing-2022-chinese-version.json) |
 | Let's Sing 2022: French Version | 175978 | [175978-lets-sing-2022-french-version.json](./175978-lets-sing-2022-french-version.json) |
+| Let's Sing 2024 with International Hits: Gold Edition | 271838 | [271838-lets-sing-2024-with-international-hits-gold-edition.json](./271838-lets-sing-2024-with-international-hits-gold-edition.json) |
+| Let's Sing 2024 with International Hits: Platinum Edition | 271836 | [271836-lets-sing-2024-with-international-hits-platinum-edition.json](./271836-lets-sing-2024-with-international-hits-platinum-edition.json) |
 | Let's Sing 2026 | 371252 | [371252-lets-sing-2026.json](./371252-lets-sing-2026.json) |
 | Let's Sing 2026: International Hits | 375184 | [375184-lets-sing-2026-international-hits.json](./375184-lets-sing-2026-international-hits.json) |
 | Let's Sing 5: Version Espanola | 268196 | [268196-lets-sing-5-version-espanola.json](./268196-lets-sing-5-version-espanola.json) |
