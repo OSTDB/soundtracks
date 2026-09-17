@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine of Madness | 409547 | [409547-machine-of-madness.json](./409547-machine-of-madness.json) |
 | Machine Tower 2984 | 357848 | [357848-machine-tower-2984.json](./357848-machine-tower-2984.json) |
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
+| Machines of Madness | 263032 | [263032-machines-of-madness.json](./263032-machines-of-madness.json) |
 | Machinicide | 196962 | [196962-machinicide.json](./196962-machinicide.json) |
 | Machinika Museum | 163777 | [163777-machinika-museum.json](./163777-machinika-museum.json) |
 | Machiteba Tengoku! Makereba Jigoku! Ryoutsuryuu Ikkakusenkin Daisakusen! | 269588 | [269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json](./269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json) |
@@ -97,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Crown | 81054 | [81054-mad-crown.json](./81054-mad-crown.json) |
 | Mad Daedalus | 218160 | [218160-mad-daedalus.json](./218160-mad-daedalus.json) |
 | Mad Devils: Damned-finitive Edition | 313337 | [313337-mad-devils-damned-finitive-edition.json](./313337-mad-devils-damned-finitive-edition.json) |
+| Mad Experiments 2: Premium Pack | 263048 | [263048-mad-experiments-2-premium-pack.json](./263048-mad-experiments-2-premium-pack.json) |
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
 | Mad Games Tycoon | 13172 | [13172-mad-games-tycoon.json](./13172-mad-games-tycoon.json) |
 | Mad Gun Range VR Simulator | 115689 | [115689-mad-gun-range-vr-simulator.json](./115689-mad-gun-range-vr-simulator.json) |
@@ -1905,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meeblings | 214498 | [214498-meeblings.json](./214498-meeblings.json) |
 | Meekanoid | 200174 | [200174-meekanoid.json](./200174-meekanoid.json) |
 | Meeple Incremental | 404252 | [404252-meeple-incremental.json](./404252-meeple-incremental.json) |
+| Meer's: Escape | 263030 | [263030-meers-escape.json](./263030-meers-escape.json) |
 | Meet a Married Woman at a Hot Spring | 273467 | [273467-meet-a-married-woman-at-a-hot-spring.json](./273467-meet-a-married-woman-at-a-hot-spring.json) |
 | Meet Again Bundle | 219047 | [219047-meet-again-bundle.json](./219047-meet-again-bundle.json) |
 | Meet Bub: Bub to Eigo Tanken | 327596 | [327596-meet-bub-bub-to-eigo-tanken.json](./327596-meet-bub-bub-to-eigo-tanken.json) |
