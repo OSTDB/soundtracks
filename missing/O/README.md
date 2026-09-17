@@ -1520,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaws + A Handful of Missions | 112809 | [112809-outlaws-a-handful-of-missions.json](./112809-outlaws-a-handful-of-missions.json) |
 | Outlaws of the Old West | 115549 | [115549-outlaws-of-the-old-west.json](./115549-outlaws-of-the-old-west.json) |
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
+| Outlive | 243234 | [243234-outlive.json](./243234-outlive.json) |
 | Outliver: Redemption | 113665 | [113665-outliver-redemption.json](./113665-outliver-redemption.json) |
 | Outliver: Tribulation | 129234 | [129234-outliver-tribulation.json](./129234-outliver-tribulation.json) |
 | Outnumbered | 239904 | [239904-outnumbered.json](./239904-outnumbered.json) |
