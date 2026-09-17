@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happyface | 68623 | [68623-happyface.json](./68623-happyface.json) |
 | HappyFamily - Cut Knife | 100866 | [100866-happyfamily-cut-knife.json](./100866-happyfamily-cut-knife.json) |
 | HappyFunland | 215689 | [215689-happyfunland.json](./215689-happyfunland.json) |
+| HappyFunland: Souvenir Edition | 270208 | [270208-happyfunland-souvenir-edition.json](./270208-happyfunland-souvenir-edition.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
 | Haprokon | 115636 | [115636-haprokon.json](./115636-haprokon.json) |
 | Här Kommer Pippi Långstrump | 337184 | [337184-har-kommer-pippi-langstrump.json](./337184-har-kommer-pippi-langstrump.json) |
