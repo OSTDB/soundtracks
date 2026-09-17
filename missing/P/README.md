@@ -413,8 +413,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Dungeons Crawler | 95573 | [95573-paper-dungeons-crawler.json](./95573-paper-dungeons-crawler.json) |
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
 | Paper Flights | 235224 | [235224-paper-flights.json](./235224-paper-flights.json) |
+| Paper Hero Manager | 279109 | [279109-paper-hero-manager.json](./279109-paper-hero-manager.json) |
 | Paper io 2: Complete Edition | 331857 | [331857-paper-io-2-complete-edition.json](./331857-paper-io-2-complete-edition.json) |
 | Paper io 2: Gold Edition | 395681 | [395681-paper-io-2-gold-edition.json](./395681-paper-io-2-gold-edition.json) |
+| Paper Kingdom | 279110 | [279110-paper-kingdom.json](./279110-paper-kingdom.json) |
 | Paper Luigi's Mansion | 323901 | [323901-paper-luigis-mansion.json](./323901-paper-luigis-mansion.json) |
 | Paper Mario Eggstraordinary Egg Hunt | 245039 | [245039-paper-mario-eggstraordinary-egg-hunt.json](./245039-paper-mario-eggstraordinary-egg-hunt.json) |
 | Paper Mario Multiplayer | 159325 | [159325-paper-mario-multiplayer.json](./159325-paper-mario-multiplayer.json) |
@@ -713,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Champ | 388958 | [388958-party-champ.json](./388958-party-champ.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
 | Party Friends | 215693 | [215693-party-friends.json](./215693-party-friends.json) |
+| Party Friends | 279111 | [279111-party-friends.json](./279111-party-friends.json) |
 | Party Games: 15 in 1 | 147911 | [147911-party-games-15-in-1.json](./147911-party-games-15-in-1.json) |
 | Party Golf | 31009 | [31009-party-golf.json](./31009-party-golf.json) |
 | Party Hard Pack | 237984 | [237984-party-hard-pack.json](./237984-party-hard-pack.json) |
@@ -2248,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixie Pete | 25688 | [25688-pixie-pete.json](./25688-pixie-pete.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
+| Pixsaw | 279112 | [279112-pixsaw.json](./279112-pixsaw.json) |
 | Pixtights | 97286 | [97286-pixtights.json](./97286-pixtights.json) |
 | Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
 | Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
