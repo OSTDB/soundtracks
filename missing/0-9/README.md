@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cyprus Cats | 334121 | [334121-100-cyprus-cats.json](./334121-100-cyprus-cats.json) |
 | 100 Demon Cats | 347752 | [347752-100-demon-cats.json](./347752-100-demon-cats.json) |
 | 100 Dogs | 308933 | [308933-100-dogs.json](./308933-100-dogs.json) |
+| 100 Doors Escape: Let me In! | 256349 | [256349-100-doors-escape-let-me-in.json](./256349-100-doors-escape-let-me-in.json) |
 | 100 doors of artifact: Room Escape Challenge | 145001 | [145001-100-doors-of-artifact-room-escape-challenge.json](./145001-100-doors-of-artifact-room-escape-challenge.json) |
 | 100 Doors: Escape from Work | 167806 | [167806-100-doors-escape-from-work.json](./167806-100-doors-escape-from-work.json) |
 | 100 Dubai Cats | 334120 | [334120-100-dubai-cats.json](./334120-100-dubai-cats.json) |
@@ -194,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Ice Age | 268041 | [268041-1001-jigsaw-ice-age.json](./268041-1001-jigsaw-ice-age.json) |
 | 1001 Jigsaw: Legends of Mystery 4 | 200701 | [200701-1001-jigsaw-legends-of-mystery-4.json](./200701-1001-jigsaw-legends-of-mystery-4.json) |
 | 1001 Jigsaw: World Tour - Asia | 102732 | [102732-1001-jigsaw-world-tour-asia.json](./102732-1001-jigsaw-world-tour-asia.json) |
+| 1001 Jigsaw. World Tour Thailand | 256365 | [256365-1001-jigsaw-world-tour-thailand.json](./256365-1001-jigsaw-world-tour-thailand.json) |
 | 1001-Kai-me no Aoi Tsuki | 98429 | [98429-1001-kai-me-no-aoi-tsuki.json](./98429-1001-kai-me-no-aoi-tsuki.json) |
 | 101 Cats in Chennai | 365159 | [365159-101-cats-in-chennai.json](./365159-101-cats-in-chennai.json) |
 | 101 Cats in Hanoi | 400875 | [400875-101-cats-in-hanoi.json](./400875-101-cats-in-hanoi.json) |
