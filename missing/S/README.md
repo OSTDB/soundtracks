@@ -2654,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shredmill | 362906 | [362906-shredmill.json](./362906-shredmill.json) |
 | Shredz64 | 84268 | [84268-shredz64.json](./84268-shredz64.json) |
 | Shrek 2: Castle Run | 230273 | [230273-shrek-2-castle-run.json](./230273-shrek-2-castle-run.json) |
+| Shrek Forever After | 243271 | [243271-shrek-forever-after.json](./243271-shrek-forever-after.json) |
 | Shrek Game Land Activity Center | 9208 | [9208-shrek-game-land-activity-center.json](./9208-shrek-game-land-activity-center.json) |
 | Shrek Playtime is Ogre | 302687 | [302687-shrek-playtime-is-ogre.json](./302687-shrek-playtime-is-ogre.json) |
 | Shrek Playtime is Ogre 2 | 302685 | [302685-shrek-playtime-is-ogre-2.json](./302685-shrek-playtime-is-ogre-2.json) |
@@ -3175,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir'Haxxx | 385709 | [385709-sirhaxxx.json](./385709-sirhaxxx.json) |
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
 | Siralim 3 | 100422 | [100422-siralim-3.json](./100422-siralim-3.json) |
+| Siren Head SCP 6789 | 243223 | [243223-siren-head-scp-6789.json](./243223-siren-head-scp-6789.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
 | Siren Head: The Arrival | 312360 | [312360-siren-head-the-arrival.json](./312360-siren-head-the-arrival.json) |
 | Siren Sands | 350418 | [350418-siren-sands.json](./350418-siren-sands.json) |
@@ -7278,6 +7280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Echoes: Ultimate Challenge | 263749 | [263749-stellar-echoes-ultimate-challenge.json](./263749-stellar-echoes-ultimate-challenge.json) |
 | Stellar Freight: Echoes of the Void | 353977 | [353977-stellar-freight-echoes-of-the-void.json](./353977-stellar-freight-echoes-of-the-void.json) |
 | Stellar Initiative | 261784 | [261784-stellar-initiative.json](./261784-stellar-initiative.json) |
+| Stellar Interface: Stellar Spacecrafts | 243229 | [243229-stellar-interface-stellar-spacecrafts.json](./243229-stellar-interface-stellar-spacecrafts.json) |
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
 | Stellar Monarch: The Age of Technology | 171028 | [171028-stellar-monarch-the-age-of-technology.json](./171028-stellar-monarch-the-age-of-technology.json) |
 | Stellar Nursery | 413597 | [413597-stellar-nursery.json](./413597-stellar-nursery.json) |
@@ -7725,6 +7728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter II | 321622 | [321622-street-fighter-ii.json](./321622-street-fighter-ii.json) |
 | Street Fighter II Uno | 55063 | [55063-street-fighter-ii-uno.json](./55063-street-fighter-ii-uno.json) |
 | Street Fighter III 2nd Impact: Giant Attack | 6709 | [6709-street-fighter-iii-2nd-impact-giant-attack.json](./6709-street-fighter-iii-2nd-impact-giant-attack.json) |
+| Street Fighter III: 3rd Strike | 243237 | [243237-street-fighter-iii-3rd-strike.json](./243237-street-fighter-iii-3rd-strike.json) |
 | Street Fighter III: Double Impact | 45194 | [45194-street-fighter-iii-double-impact.json](./45194-street-fighter-iii-double-impact.json) |
 | Street Fighter III: New Generation | 6708 | [6708-street-fighter-iii-new-generation.json](./6708-street-fighter-iii-new-generation.json) |
 | Street Fighter IV | 884 | [884-street-fighter-iv.json](./884-street-fighter-iv.json) |
