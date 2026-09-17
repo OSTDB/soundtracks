@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazar | 384068 | [384068-hazar.json](./384068-hazar.json) |
 | Hazard Level | 177007 | [177007-hazard-level.json](./177007-hazard-level.json) |
 | Hazard Pay | 291764 | [291764-hazard-pay.json](./291764-hazard-pay.json) |
+| Hazard Protocol | 280335 | [280335-hazard-protocol.json](./280335-hazard-protocol.json) |
 | Hazard Versus | 353393 | [353393-hazard-versus.json](./353393-hazard-versus.json) |
 | Hazardous Journey | 110332 | [110332-hazardous-journey.json](./110332-hazardous-journey.json) |
 | Haze | 7317 | [7317-haze.json](./7317-haze.json) |
@@ -1211,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
 | Henry, What Have You Done? | 180751 | [180751-henry-what-have-you-done.json](./180751-henry-what-have-you-done.json) |
 | Henry's Adventure | 268188 | [268188-henrys-adventure.json](./268188-henrys-adventure.json) |
+| Henry's Escape: Prison | 280327 | [280327-henrys-escape-prison.json](./280327-henrys-escape-prison.json) |
 | Henry's Forgotten Performance | 295778 | [295778-henrys-forgotten-performance.json](./295778-henrys-forgotten-performance.json) |
 | Hentai 2+2=4 | 110176 | [110176-hentai-2-2-4.json](./110176-hentai-2-2-4.json) |
 | Hentai 3018 | 102360 | [102360-hentai-3018.json](./102360-hentai-3018.json) |
@@ -1944,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
 | Highrise City | 147440 | [147440-highrise-city.json](./147440-highrise-city.json) |
 | HighSchool Simulator Battle | 297631 | [297631-highschool-simulator-battle.json](./297631-highschool-simulator-battle.json) |
+| Highschool53 | 280340 | [280340-highschool53.json](./280340-highschool53.json) |
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
 | Highway | 267410 | [267410-highway.json](./267410-highway.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
@@ -2195,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hocus Pocus Prince | 183563 | [183563-hocus-pocus-prince.json](./183563-hocus-pocus-prince.json) |
 | HocusDOOM | 201232 | [201232-hocusdoom.json](./201232-hocusdoom.json) |
 | HoD: On open seas | 90612 | [90612-hod-on-open-seas.json](./90612-hod-on-open-seas.json) |
+| Hodge Dodge | 280345 | [280345-hodge-dodge.json](./280345-hodge-dodge.json) |
 | Hodl: The God of Crypto | 97922 | [97922-hodl-the-god-of-crypto.json](./97922-hodl-the-god-of-crypto.json) |
 | HodlGod | 175895 | [175895-hodlgod.json](./175895-hodlgod.json) |
 | Hog Heist | 360645 | [360645-hog-heist.json](./360645-hog-heist.json) |
