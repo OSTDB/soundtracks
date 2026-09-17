@@ -3307,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Escape | 290694 | [290694-minimal-escape.json](./290694-minimal-escape.json) |
 | Minimal Fear | 184600 | [184600-minimal-fear.json](./184600-minimal-fear.json) |
 | Minimal Move | 115677 | [115677-minimal-move.json](./115677-minimal-move.json) |
+| Minimalist Tower Defense | 270778 | [270778-minimalist-tower-defense.json](./270778-minimalist-tower-defense.json) |
 | Minimally Invasive | 244270 | [244270-minimally-invasive.json](./244270-minimally-invasive.json) |
 | MiniMap Kingdom | 166743 | [166743-minimap-kingdom.json](./166743-minimap-kingdom.json) |
 | Minimate | 410917 | [410917-minimate.json](./410917-minimate.json) |
