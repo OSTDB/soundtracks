@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
 | Fateweaver: Smash or Pass | 238598 | [238598-fateweaver-smash-or-pass.json](./238598-fateweaver-smash-or-pass.json) |
+| Fateweaver: The Alchemist's Quandary | 236930 | [236930-fateweaver-the-alchemists-quandary.json](./236930-fateweaver-the-alchemists-quandary.json) |
 | Father and Son | 97361 | [97361-father-and-son.json](./97361-father-and-son.json) |
 | Father's Day | 213858 | [213858-fathers-day.json](./213858-fathers-day.json) |
 | Father's Island | 33072 | [33072-fathers-island.json](./33072-fathers-island.json) |
@@ -2257,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FLOP | 342168 | [342168-flop.json](./342168-flop.json) |
 | Floppy and the Sleepy Planet | 116385 | [116385-floppy-and-the-sleepy-planet.json](./116385-floppy-and-the-sleepy-planet.json) |
 | Floppy Cat Bow Golf! | 252981 | [252981-floppy-cat-bow-golf.json](./252981-floppy-cat-bow-golf.json) |
+| Floppy Disks from Hell | 236946 | [236946-floppy-disks-from-hell.json](./236946-floppy-disks-from-hell.json) |
 | Floppy Fish | 402997 | [402997-floppy-fish.json](./402997-floppy-fish.json) |
 | Floppy Knights: Version 2.0 | 230299 | [230299-floppy-knights-version-2-0.json](./230299-floppy-knights-version-2-0.json) |
 | Flora and the Darkness | 175906 | [175906-flora-and-the-darkness.json](./175906-flora-and-the-darkness.json) |
@@ -3737,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Love & Sex | 221197 | [221197-furry-love-and-sex.json](./221197-furry-love-and-sex.json) |
 | Furry Love 2 | 165026 | [165026-furry-love-2.json](./165026-furry-love-2.json) |
 | Furry Meow | 224241 | [224241-furry-meow.json](./224241-furry-meow.json) |
+| Furry OwO | 236936 | [236936-furry-owo.json](./236936-furry-owo.json) |
 | Furry Pride | 148570 | [148570-furry-pride.json](./148570-furry-pride.json) |
 | Furry Reich | 237055 | [237055-furry-reich.json](./237055-furry-reich.json) |
 | Furry Sex Resort | 309687 | [309687-furry-sex-resort.json](./309687-furry-sex-resort.json) |
@@ -3746,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Stories: Alpha-Male | 130297 | [130297-furry-stories-alpha-male.json](./130297-furry-stories-alpha-male.json) |
 | Furry Striptease | 215899 | [215899-furry-striptease.json](./215899-furry-striptease.json) |
 | Furry Superstar | 213007 | [213007-furry-superstar.json](./213007-furry-superstar.json) |
+| Furry Tale | 236940 | [236940-furry-tale.json](./236940-furry-tale.json) |
 | Furry Tits | 349865 | [349865-furry-tits.json](./349865-furry-tits.json) |
 | FurryFury: Smash & Roll | 116361 | [116361-furryfury-smash-and-roll.json](./116361-furryfury-smash-and-roll.json) |
 | Furs of Fury | 149049 | [149049-furs-of-fury.json](./149049-furs-of-fury.json) |
