@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 1 | 284509 | [284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json](./284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections | 239385 | [239385-naruto-x-boruto-ultimate-ninja-storm-connections.json](./239385-naruto-x-boruto-ultimate-ninja-storm-connections.json) |
+| Naruto x Boruto: Ultimate Ninja Storm Connections - Ultimate Edition | 268549 | [268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json](./268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json) |
 | Naruto: Konoha Senki | 75842 | [75842-naruto-konoha-senki.json](./75842-naruto-konoha-senki.json) |
 | Naruto: Ninja Cards | 388751 | [388751-naruto-ninja-cards.json](./388751-naruto-ninja-cards.json) |
 | Naruto: Ninja Council 2 - European Version | 79297 | [79297-naruto-ninja-council-2-european-version.json](./79297-naruto-ninja-council-2-european-version.json) |
