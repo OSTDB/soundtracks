@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daredevil Rider | 255746 | [255746-daredevil-rider.json](./255746-daredevil-rider.json) |
 | Daredevil's Descent & Cryogenic Crypt | 271759 | [271759-daredevils-descent-and-cryogenic-crypt.json](./271759-daredevils-descent-and-cryogenic-crypt.json) |
 | Darfall | 217030 | [217030-darfall.json](./217030-darfall.json) |
+| Daria: A Kingdom Simulator | 275101 | [275101-daria-a-kingdom-simulator.json](./275101-daria-a-kingdom-simulator.json) |
 | Darius Cozmic Collection Arcade | 147940 | [147940-darius-cozmic-collection-arcade.json](./147940-darius-cozmic-collection-arcade.json) |
 | Darius Cozmic Revelation | 139992 | [139992-darius-cozmic-revelation.json](./139992-darius-cozmic-revelation.json) |
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
@@ -904,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 5: Catalogue Set | 304738 | [304738-dead-or-alive-5-catalogue-set.json](./304738-dead-or-alive-5-catalogue-set.json) |
 | Dead or Alive 5: Last Round - Character: Mai Shiranui | 246628 | [246628-dead-or-alive-5-last-round-character-mai-shiranui.json](./246628-dead-or-alive-5-last-round-character-mai-shiranui.json) |
 | Dead or Alive 5: Last Round - Character: Naotora Ii | 246409 | [246409-dead-or-alive-5-last-round-character-naotora-ii.json](./246409-dead-or-alive-5-last-round-character-naotora-ii.json) |
+| Dead or Alive 5: Last Round - Core Fighters Character: Honoka | 275144 | [275144-dead-or-alive-5-last-round-core-fighters-character-honoka.json](./275144-dead-or-alive-5-last-round-core-fighters-character-honoka.json) |
 | Dead or Alive 6: Energy Up! Training Wear Set | 225904 | [225904-dead-or-alive-6-energy-up-training-wear-set.json](./225904-dead-or-alive-6-energy-up-training-wear-set.json) |
 | Dead or Alive New Project | 389426 | [389426-dead-or-alive-new-project.json](./389426-dead-or-alive-new-project.json) |
 | Dead or Alive Xtreme 3 Fortune: Collector's Edition | 166233 | [166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json](./166233-dead-or-alive-xtreme-3-fortune-collectors-edition.json) |
@@ -997,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadline Escape | 356726 | [356726-deadline-escape.json](./356726-deadline-escape.json) |
 | Deadline of the Dead | 185074 | [185074-deadline-of-the-dead.json](./185074-deadline-of-the-dead.json) |
 | Deadlings: Rotten Edition | 26822 | [26822-deadlings-rotten-edition.json](./26822-deadlings-rotten-edition.json) |
+| Deadly Contagion | 275130 | [275130-deadly-contagion.json](./275130-deadly-contagion.json) |
 | Deadly Danger Dungeon | 323742 | [323742-deadly-danger-dungeon.json](./323742-deadly-danger-dungeon.json) |
 | Deadly Dozen | 27479 | [27479-deadly-dozen.json](./27479-deadly-dozen.json) |
 | Deadly Dozen Reloaded | 193753 | [193753-deadly-dozen-reloaded.json](./193753-deadly-dozen-reloaded.json) |
