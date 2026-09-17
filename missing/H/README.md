@@ -2328,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Shot | 325271 | [325271-holy-shot.json](./325271-holy-shot.json) |
 | Holy SIsters 3D | 369661 | [369661-holy-sisters-3d.json](./369661-holy-sisters-3d.json) |
 | Holy Umbrella: Dondera no Mubou!! | 38386 | [38386-holy-umbrella-dondera-no-mubou.json](./38386-holy-umbrella-dondera-no-mubou.json) |
+| Holy War | 273484 | [273484-holy-war.json](./273484-holy-war.json) |
 | Holyday City: Reloaded | 76536 | [76536-holyday-city-reloaded.json](./76536-holyday-city-reloaded.json) |
 | Homaysa | 224223 | [224223-homaysa.json](./224223-homaysa.json) |
 | Home | 121014 | [121014-home.json](./121014-home.json) |
@@ -2826,7 +2827,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
 | House of Golf 2 | 303573 | [303573-house-of-golf-2.json](./303573-house-of-golf-2.json) |
 | House of Heists | 398406 | [398406-house-of-heists.json](./398406-house-of-heists.json) |
+| House of Jigsaw: A Day at the Park | 273479 | [273479-house-of-jigsaw-a-day-at-the-park.json](./273479-house-of-jigsaw-a-day-at-the-park.json) |
+| House of Jigsaw: Amazing Birds | 273480 | [273480-house-of-jigsaw-amazing-birds.json](./273480-house-of-jigsaw-amazing-birds.json) |
+| House of Jigsaw: Amazing Colors of the World | 273483 | [273483-house-of-jigsaw-amazing-colors-of-the-world.json](./273483-house-of-jigsaw-amazing-colors-of-the-world.json) |
+| House of Jigsaw: Beautiful Flowers | 273481 | [273481-house-of-jigsaw-beautiful-flowers.json](./273481-house-of-jigsaw-beautiful-flowers.json) |
+| House of Jigsaw: Digital Art Manipulation | 273482 | [273482-house-of-jigsaw-digital-art-manipulation.json](./273482-house-of-jigsaw-digital-art-manipulation.json) |
+| House of Jigsaw: Fantasy | 273478 | [273478-house-of-jigsaw-fantasy.json](./273478-house-of-jigsaw-fantasy.json) |
+| House of Jigsaw: Fascinating Landscapes | 273477 | [273477-house-of-jigsaw-fascinating-landscapes.json](./273477-house-of-jigsaw-fascinating-landscapes.json) |
 | House of Jigsaw: Spooky Halloween | 278548 | [278548-house-of-jigsaw-spooky-halloween.json](./278548-house-of-jigsaw-spooky-halloween.json) |
+| House of Jigsaw: The Art of Still Life | 273476 | [273476-house-of-jigsaw-the-art-of-still-life.json](./273476-house-of-jigsaw-the-art-of-still-life.json) |
+| House of Jigsaw: The Best of Macro Photography | 273475 | [273475-house-of-jigsaw-the-best-of-macro-photography.json](./273475-house-of-jigsaw-the-best-of-macro-photography.json) |
+| House of Jigsaw: Urban Lifestyle | 273474 | [273474-house-of-jigsaw-urban-lifestyle.json](./273474-house-of-jigsaw-urban-lifestyle.json) |
+| House of Jigsaw: Vintage Revival | 273473 | [273473-house-of-jigsaw-vintage-revival.json](./273473-house-of-jigsaw-vintage-revival.json) |
 | House of Lost Souls | 333624 | [333624-house-of-lost-souls.json](./333624-house-of-lost-souls.json) |
 | House of Plague 0 | 107907 | [107907-house-of-plague-0.json](./107907-house-of-plague-0.json) |
 | House of Slender-Man | 64425 | [64425-house-of-slender-man.json](./64425-house-of-slender-man.json) |
