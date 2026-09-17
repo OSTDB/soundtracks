@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight of the Living Dead | 191885 | [191885-knight-of-the-living-dead.json](./191885-knight-of-the-living-dead.json) |
 | Knight of the Lust Temple | 134625 | [134625-knight-of-the-lust-temple.json](./134625-knight-of-the-lust-temple.json) |
 | Knight of Valour 3 HD | 285585 | [285585-knight-of-valour-3-hd.json](./285585-knight-of-valour-3-hd.json) |
+| Knight Overloaded | 253438 | [253438-knight-overloaded.json](./253438-knight-overloaded.json) |
 | Knight Shooter | 319943 | [319943-knight-shooter.json](./319943-knight-shooter.json) |
 | Knight Sim Life | 300868 | [300868-knight-sim-life.json](./300868-knight-sim-life.json) |
 | Knight Speed | 264708 | [264708-knight-speed.json](./264708-knight-speed.json) |
