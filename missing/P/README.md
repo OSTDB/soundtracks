@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PigMan | 93508 | [93508-pigman.json](./93508-pigman.json) |
 | Pigment | 377050 | [377050-pigment.json](./377050-pigment.json) |
 | Pigromance | 141202 | [141202-pigromance.json](./141202-pigromance.json) |
+| Pigsaw: Human Abattoir | 272381 | [272381-pigsaw-human-abattoir.json](./272381-pigsaw-human-abattoir.json) |
 | Pigskin Punter! | 234336 | [234336-pigskin-punter.json](./234336-pigskin-punter.json) |
 | Pik's Epic Kirby Sprite Comics: Teh Game 2 | 246666 | [246666-piks-epic-kirby-sprite-comics-teh-game-2.json](./246666-piks-epic-kirby-sprite-comics-teh-game-2.json) |
 | Pikabuu: Stop! | 357230 | [357230-pikabuu-stop.json](./357230-pikabuu-stop.json) |
@@ -4080,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Speed 2 | 188681 | [188681-project-speed-2.json](./188681-project-speed-2.json) |
 | Project Spikepig | 326997 | [326997-project-spikepig.json](./326997-project-spikepig.json) |
 | Project Stack | 311786 | [311786-project-stack.json](./311786-project-stack.json) |
+| Project Star | 272347 | [272347-project-star.json](./272347-project-star.json) |
 | Project Starblade | 391151 | [391151-project-starblade.json](./391151-project-starblade.json) |
 | Project Starcrash | 311136 | [311136-project-starcrash.json](./311136-project-starcrash.json) |
 | Project Starship | 33222 | [33222-project-starship.json](./33222-project-starship.json) |
@@ -4132,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Gorgon | 26836 | [26836-project-gorgon.json](./26836-project-gorgon.json) |
 | Project: Jurit | 385581 | [385581-project-jurit.json](./385581-project-jurit.json) |
 | Project: Mania | 333562 | [333562-project-mania.json](./333562-project-mania.json) |
+| Project: Mist | 272348 | [272348-project-mist.json](./272348-project-mist.json) |
 | Project: Purconia | 391158 | [391158-project-purconia.json](./391158-project-purconia.json) |
 | Project: R.E.B.O.O.T | 30758 | [30758-project-r-e-b-o-o-t.json](./30758-project-r-e-b-o-o-t.json) |
 | Project: R.E.B.O.O.T 2 | 29868 | [29868-project-r-e-b-o-o-t-2.json](./29868-project-r-e-b-o-o-t-2.json) |
