@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Elevator | 195159 | [195159-office-elevator.json](./195159-office-elevator.json) |
 | Office Fever | 223993 | [223993-office-fever.json](./223993-office-fever.json) |
 | Office Fight | 270963 | [270963-office-fight.json](./270963-office-fight.json) |
+| Office Hurdles | 268019 | [268019-office-hurdles.json](./268019-office-hurdles.json) |
 | Office Jigsaw Puzzle - Work Environment | 89284 | [89284-office-jigsaw-puzzle-work-environment.json](./89284-office-jigsaw-puzzle-work-environment.json) |
 | Office Ladies | 411727 | [411727-office-ladies.json](./411727-office-ladies.json) |
 | Office Love Affair | 157708 | [157708-office-love-affair.json](./157708-office-love-affair.json) |
