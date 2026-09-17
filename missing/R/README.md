@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance Element | 127923 | [127923-resistance-element.json](./127923-resistance-element.json) |
 | Resistance Forces | 235445 | [235445-resistance-forces.json](./235445-resistance-forces.json) |
 | Resistance Is Brutal | 403572 | [403572-resistance-is-brutal.json](./403572-resistance-is-brutal.json) |
+| Resistor | 252786 | [252786-resistor.json](./252786-resistor.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
 | Resonance | 276280 | [276280-resonance.json](./276280-resonance.json) |
@@ -3266,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Pizza Run | 275705 | [275705-run-pizza-run.json](./275705-run-pizza-run.json) |
 | Run Pizza Run 2 | 332988 | [332988-run-pizza-run-2.json](./332988-run-pizza-run-2.json) |
 | Run Roll Rumble | 120936 | [120936-run-roll-rumble.json](./120936-run-roll-rumble.json) |
+| Run Ronaldo Run | 252823 | [252823-run-ronaldo-run.json](./252823-run-ronaldo-run.json) |
 | Run Run Boy | 225073 | [225073-run-run-boy.json](./225073-run-run-boy.json) |
 | Run Run Iguana! | 403669 | [403669-run-run-iguana.json](./403669-run-run-iguana.json) |
 | Run Sausage Run: Coins, Bugs and Chicken | 247754 | [247754-run-sausage-run-coins-bugs-and-chicken.json](./247754-run-sausage-run-coins-bugs-and-chicken.json) |
