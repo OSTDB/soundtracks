@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z After: A Point and Click Survival | 343272 | [343272-z-after-a-point-and-click-survival.json](./343272-z-after-a-point-and-click-survival.json) |
 | Z Juice | 311812 | [311812-z-juice.json](./311812-z-juice.json) |
 | Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
+| Z Ops: Campus | 258545 | [258545-z-ops-campus.json](./258545-z-ops-campus.json) |
 | Z Rush | 304579 | [304579-z-rush.json](./304579-z-rush.json) |
 | Z-Ape: Tower Defense | 304009 | [304009-z-ape-tower-defense.json](./304009-z-ape-tower-defense.json) |
 | Z-axys | 102210 | [102210-z-axys.json](./102210-z-axys.json) |
@@ -416,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Panic! Source | 29119 | [29119-zombie-panic-source.json](./29119-zombie-panic-source.json) |
 | Zombie Parking | 33324 | [33324-zombie-parking.json](./33324-zombie-parking.json) |
 | Zombie Parkour Runner | 363938 | [363938-zombie-parkour-runner.json](./363938-zombie-parkour-runner.json) |
+| Zombie Party | 258556 | [258556-zombie-party.json](./258556-zombie-party.json) |
 | Zombie Pinball | 33114 | [33114-zombie-pinball.json](./33114-zombie-pinball.json) |
 | Zombie Quarantine: Blackout Survival | 334106 | [334106-zombie-quarantine-blackout-survival.json](./334106-zombie-quarantine-blackout-survival.json) |
 | Zombie Quest | 377129 | [377129-zombie-quest.json](./377129-zombie-quest.json) |
