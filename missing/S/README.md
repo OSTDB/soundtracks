@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
 | Sangokushi Taisen | 27624 | [27624-sangokushi-taisen.json](./27624-sangokushi-taisen.json) |
 | Sangokushi Taisen 3 War Begins | 64974 | [64974-sangokushi-taisen-3-war-begins.json](./64974-sangokushi-taisen-3-war-begins.json) |
+| Sangokushi Taisen: Battle of Three Kingdoms | 268026 | [268026-sangokushi-taisen-battle-of-three-kingdoms.json](./268026-sangokushi-taisen-battle-of-three-kingdoms.json) |
 | Sangokushi: Chuugen no Hasha | 64448 | [64448-sangokushi-chuugen-no-hasha.json](./64448-sangokushi-chuugen-no-hasha.json) |
 | SangRaciner | 244265 | [244265-sangraciner.json](./244265-sangraciner.json) |
 | Sanguinaria | 337674 | [337674-sanguinaria.json](./337674-sanguinaria.json) |
@@ -608,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
 | Saturn. Legacy | 403688 | [403688-saturn-legacy.json](./403688-saturn-legacy.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
+| Saturnia | 267993 | [267993-saturnia.json](./267993-saturnia.json) |
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
 | Saucer Destruction 3: Armagedon | 337204 | [337204-saucer-destruction-3-armagedon.json](./337204-saucer-destruction-3-armagedon.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
@@ -1485,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentient Noir | 219618 | [219618-sentient-noir.json](./219618-sentient-noir.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
+| Sentimental Journey | 268036 | [268036-sentimental-journey.json](./268036-sentimental-journey.json) |
 | Sentinel Heroes | 23641 | [23641-sentinel-heroes.json](./23641-sentinel-heroes.json) |
 | Sentinel of Innocence | 301827 | [301827-sentinel-of-innocence.json](./301827-sentinel-of-innocence.json) |
 | Sentinel Point Heroes | 226441 | [226441-sentinel-point-heroes.json](./226441-sentinel-point-heroes.json) |
@@ -3404,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
 | Skyreach | 33023 | [33023-skyreach.json](./33023-skyreach.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
+| Skyscraper | 267990 | [267990-skyscraper.json](./267990-skyscraper.json) |
 | Skyscraper | 9422 | [9422-skyscraper.json](./9422-skyscraper.json) |
 | Skyscraper Simulator | 9421 | [9421-skyscraper-simulator.json](./9421-skyscraper-simulator.json) |
 | SkyShard | 362918 | [362918-skyshard.json](./362918-skyshard.json) |
@@ -3942,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Blocks | 36025 | [36025-snake-blocks.json](./36025-snake-blocks.json) |
 | Snake Break | 275610 | [275610-snake-break.json](./275610-snake-break.json) |
 | Snake Bricks-Bounce Balls | 106569 | [106569-snake-bricks-bounce-balls.json](./106569-snake-bricks-bounce-balls.json) |
+| Snake Challenge | 268021 | [268021-snake-challenge.json](./268021-snake-challenge.json) |
 | Snake Core | 132783 | [132783-snake-core.json](./132783-snake-core.json) |
 | Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
@@ -6865,6 +6870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Caramba | 326776 | [326776-starship-caramba.json](./326776-starship-caramba.json) |
 | Starship Coaster | 278507 | [278507-starship-coaster.json](./278507-starship-coaster.json) |
 | Starship Commander | 108965 | [108965-starship-commander.json](./108965-starship-commander.json) |
+| Starship Defender | 268022 | [268022-starship-defender.json](./268022-starship-defender.json) |
 | Starship Eleven Deluxe | 360605 | [360605-starship-eleven-deluxe.json](./360605-starship-eleven-deluxe.json) |
 | Starship Escape | 57113 | [57113-starship-escape.json](./57113-starship-escape.json) |
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
@@ -8909,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Monster Hunter Moveset | 395029 | [395029-super-smash-bros-ultimate-monster-hunter-moveset.json](./395029-super-smash-bros-ultimate-monster-hunter-moveset.json) |
 | Super Smash Bros. Ultimate: Sackboy Moveset | 395026 | [395026-super-smash-bros-ultimate-sackboy-moveset.json](./395026-super-smash-bros-ultimate-sackboy-moveset.json) |
 | Super Smash Bros. Ultimate: Shy Guy Moveset | 395032 | [395032-super-smash-bros-ultimate-shy-guy-moveset.json](./395032-super-smash-bros-ultimate-shy-guy-moveset.json) |
+| Super Smash Bros. Ultimate: Silver Moveset | 268014 | [268014-super-smash-bros-ultimate-silver-moveset.json](./268014-super-smash-bros-ultimate-silver-moveset.json) |
 | Super Smash Bros. Ultimate: Susie Moveset | 395025 | [395025-super-smash-bros-ultimate-susie-moveset.json](./395025-super-smash-bros-ultimate-susie-moveset.json) |
 | Super Smash Bros. Ultimate: Ultron Moveset | 395035 | [395035-super-smash-bros-ultimate-ultron-moveset.json](./395035-super-smash-bros-ultimate-ultron-moveset.json) |
 | Super Smash Bros. Ultimate: Vegeta Moveset | 375984 | [375984-super-smash-bros-ultimate-vegeta-moveset.json](./375984-super-smash-bros-ultimate-vegeta-moveset.json) |
