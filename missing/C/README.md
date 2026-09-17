@@ -1854,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of Morta: Complete Edition | 175878 | [175878-children-of-morta-complete-edition.json](./175878-children-of-morta-complete-edition.json) |
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
 | Children of the Sun | 284925 | [284925-children-of-the-sun.json](./284925-children-of-the-sun.json) |
+| Children of the World | 256901 | [256901-children-of-the-world.json](./256901-children-of-the-world.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
 | Children's Jigsaw Puzzles: Beautifully Illustrated - Expansion Pack | 225859 | [225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json](./225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json) |
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
@@ -2227,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chukcha v Bolshom Gorode | 403576 | [403576-chukcha-v-bolshom-gorode.json](./403576-chukcha-v-bolshom-gorode.json) |
 | Chukgwi | 369102 | [369102-chukgwi.json](./369102-chukgwi.json) |
 | Chulip | 20657 | [20657-chulip.json](./20657-chulip.json) |
+| Chungo's Gauntlet | 256900 | [256900-chungos-gauntlet.json](./256900-chungos-gauntlet.json) |
 | Chungus Rampage in Big Forest | 143068 | [143068-chungus-rampage-in-big-forest.json](./143068-chungus-rampage-in-big-forest.json) |
 | Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
@@ -3235,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Red Thunder | 77293 | [77293-combat-mission-red-thunder.json](./77293-combat-mission-red-thunder.json) |
 | Combat Research Division: Spider Unit | 408187 | [408187-combat-research-division-spider-unit.json](./408187-combat-research-division-spider-unit.json) |
 | Combat rush | 108403 | [108403-combat-rush.json](./108403-combat-rush.json) |
+| Combat Spec Ops | 256887 | [256887-combat-spec-ops.json](./256887-combat-spec-ops.json) |
 | Combat Survivors | 402266 | [402266-combat-survivors.json](./402266-combat-survivors.json) |
 | Combat Wings | 138170 | [138170-combat-wings.json](./138170-combat-wings.json) |
 | Combat Wings: Battle of Britain | 9800 | [9800-combat-wings-battle-of-britain.json](./9800-combat-wings-battle-of-britain.json) |
@@ -3292,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer 4: Tiberian Twilight | 670 | [670-command-and-conquer-4-tiberian-twilight.json](./670-command-and-conquer-4-tiberian-twilight.json) |
 | Command & Conquer Remastered Collection | 112104 | [112104-command-and-conquer-remastered-collection.json](./112104-command-and-conquer-remastered-collection.json) |
 | Command & Conquer: Generals | 649 | [649-command-and-conquer-generals.json](./649-command-and-conquer-generals.json) |
+| Command & Conquer: Legions | 256912 | [256912-command-and-conquer-legions.json](./256912-command-and-conquer-legions.json) |
 | Command & Conquer: Red Alert - Retaliation | 18785 | [18785-command-and-conquer-red-alert-retaliation.json](./18785-command-and-conquer-red-alert-retaliation.json) |
 | Command & Conquer: Red Alert 2 - Mental Omega | 180284 | [180284-command-and-conquer-red-alert-2-mental-omega.json](./180284-command-and-conquer-red-alert-2-mental-omega.json) |
 | Command & Conquer: Red Alert 3 | 959 | [959-command-and-conquer-red-alert-3.json](./959-command-and-conquer-red-alert-3.json) |
@@ -3966,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Snipe | 265672 | [265672-counter-snipe.json](./265672-counter-snipe.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
+| Counterattack | 256877 | [256877-counterattack.json](./256877-counterattack.json) |
 | CounterAttack | 33278 | [33278-counterattack.json](./33278-counterattack.json) |
 | Counterclocking | 245849 | [245849-counterclocking.json](./245849-counterclocking.json) |
 | Counterfeit Monkey | 2944 | [2944-counterfeit-monkey.json](./2944-counterfeit-monkey.json) |
