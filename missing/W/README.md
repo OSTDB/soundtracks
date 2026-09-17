@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Races | 12817 | [12817-wacky-races.json](./12817-wacky-races.json) |
 | Wacky Races | 81547 | [81547-wacky-races.json](./81547-wacky-races.json) |
 | Wacky Soldiers | 123560 | [123560-wacky-soldiers.json](./123560-wacky-soldiers.json) |
+| Wacky Weapons | 244346 | [244346-wacky-weapons.json](./244346-wacky-weapons.json) |
 | Wacky West | 332992 | [332992-wacky-west.json](./332992-wacky-west.json) |
 | Wacky Wheels | 8880 | [8880-wacky-wheels.json](./8880-wacky-wheels.json) |
 | Wacky Wings VR | 30162 | [30162-wacky-wings-vr.json](./30162-wacky-wings-vr.json) |
