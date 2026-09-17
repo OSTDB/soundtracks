@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: The Morn a Thousand Roses Brings | 257449 | [257449-genshin-impact-the-morn-a-thousand-roses-brings.json](./257449-genshin-impact-the-morn-a-thousand-roses-brings.json) |
 | Genshin Impact: To the Stars Shining in the Depths | 266492 | [266492-genshin-impact-to-the-stars-shining-in-the-depths.json](./266492-genshin-impact-to-the-stars-shining-in-the-depths.json) |
 | Genshin Impact: Truth Amongst the Pages of Purana | 400877 | [400877-genshin-impact-truth-amongst-the-pages-of-purana.json](./400877-genshin-impact-truth-amongst-the-pages-of-purana.json) |
+| Genshindle | 243769 | [243769-genshindle.json](./243769-genshindle.json) |
 | Genso Chronicles | 286881 | [286881-genso-chronicles.json](./286881-genso-chronicles.json) |
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
 | Goofy Lil Guys | 335250 | [335250-goofy-lil-guys.json](./335250-goofy-lil-guys.json) |
 | Goofy's Railway Express | 12122 | [12122-goofys-railway-express.json](./12122-goofys-railway-express.json) |
+| Goofy's Underwater Adventure | 243817 | [243817-goofys-underwater-adventure.json](./243817-goofys-underwater-adventure.json) |
 | Googass | 165667 | [165667-googass.json](./165667-googass.json) |
 | Google Blocks | 115730 | [115730-google-blocks.json](./115730-google-blocks.json) |
 | Google Cricket | 230854 | [230854-google-cricket.json](./230854-google-cricket.json) |
@@ -2118,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
 | GraveBond | 272390 | [272390-gravebond.json](./272390-gravebond.json) |
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
+| Gravel Gang | 243791 | [243791-gravel-gang.json](./243791-gravel-gang.json) |
 | Gravel: Armored Operation | 167805 | [167805-gravel-armored-operation.json](./167805-gravel-armored-operation.json) |
 | Gravelmon | 359996 | [359996-gravelmon.json](./359996-gravelmon.json) |
 | Gravels of Endless War | 149565 | [149565-gravels-of-endless-war.json](./149565-gravels-of-endless-war.json) |
