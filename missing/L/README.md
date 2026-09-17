@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Tour de France | 172668 | [172668-le-tour-de-france.json](./172668-le-tour-de-france.json) |
 | Le Zoo | 346065 | [346065-le-zoo.json](./346065-le-zoo.json) |
 | Lead and Gold: Gangs of the Wild West | 2041 | [2041-lead-and-gold-gangs-of-the-wild-west.json](./2041-lead-and-gold-gangs-of-the-wild-west.json) |
+| Leaden Sky: Nightmares | 286100 | [286100-leaden-sky-nightmares.json](./286100-leaden-sky-nightmares.json) |
 | Leader of the Pack | 285971 | [285971-leader-of-the-pack.json](./285971-leader-of-the-pack.json) |
 | Leaderboard | 15246 | [15246-leaderboard.json](./15246-leaderboard.json) |
 | Leadersheep | 183509 | [183509-leadersheep.json](./183509-leadersheep.json) |
@@ -839,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Racers | 343274 | [343274-lego-racers.json](./343274-lego-racers.json) |
 | LEGO Racers 2 | 390 | [390-lego-racers-2.json](./390-lego-racers-2.json) |
 | LEGO Racers: The Video Game | 341908 | [341908-lego-racers-the-video-game.json](./341908-lego-racers-the-video-game.json) |
+| LEGO Star Wars II | 286107 | [286107-lego-star-wars-ii.json](./286107-lego-star-wars-ii.json) |
 | Lego Star Wars the Force Awakens - First Order Siege of Takodana Level Pack | 355113 | [355113-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-level-pack.json](./355113-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-level-pack.json) |
 | Lego Star Wars the Force Awakens - Star Wars Rebels Character Pack | 355112 | [355112-lego-star-wars-the-force-awakens-star-wars-rebels-character-pack.json](./355112-lego-star-wars-the-force-awakens-star-wars-rebels-character-pack.json) |
 | Lego Star Wars the Force Awakens - The Freemaker Adventures Character Pack | 355114 | [355114-lego-star-wars-the-force-awakens-the-freemaker-adventures-character-pack.json](./355114-lego-star-wars-the-force-awakens-the-freemaker-adventures-character-pack.json) |
