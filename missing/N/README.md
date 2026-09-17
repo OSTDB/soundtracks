@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanotale: Typing Chronicles | 112378 | [112378-nanotale-typing-chronicles.json](./112378-nanotale-typing-chronicles.json) |
 | Nanotris | 33064 | [33064-nanotris.json](./33064-nanotris.json) |
 | Nanoui | 89972 | [89972-nanoui.json](./89972-nanoui.json) |
+| Nanovoid | 244908 | [244908-nanovoid.json](./244908-nanovoid.json) |
 | Nanowar | 181902 | [181902-nanowar.json](./181902-nanowar.json) |
 | Nanpure VOW | 191866 | [191866-nanpure-vow.json](./191866-nanpure-vow.json) |
 | Nantara Adventures | 259001 | [259001-nantara-adventures.json](./259001-nantara-adventures.json) |
@@ -1453,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Sentai Hurricanger & Hyakujuu Sentai Gaoranger: Chou Sentai Super Battle | 62743 | [62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json](./62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json) |
 | Ninja Sentai Kakuranger | 310198 | [310198-ninja-sentai-kakuranger.json](./310198-ninja-sentai-kakuranger.json) |
 | Ninja Shuriken Master | 300855 | [300855-ninja-shuriken-master.json](./300855-ninja-shuriken-master.json) |
+| Ninja Sneaking VS | 244892 | [244892-ninja-sneaking-vs.json](./244892-ninja-sneaking-vs.json) |
 | Ninja Spirit | 219020 | [219020-ninja-spirit.json](./219020-ninja-spirit.json) |
 | Ninja Spirit | 6819 | [6819-ninja-spirit.json](./6819-ninja-spirit.json) |
 | Ninja Stealth 2 | 29639 | [29639-ninja-stealth-2.json](./29639-ninja-stealth-2.json) |
