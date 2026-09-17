@@ -3045,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freelance Simulator: Game Developer Edition | 100874 | [100874-freelance-simulator-game-developer-edition.json](./100874-freelance-simulator-game-developer-edition.json) |
 | Freelance Trucker: Insurance Fraud Edition | 150644 | [150644-freelance-trucker-insurance-fraud-edition.json](./150644-freelance-trucker-insurance-fraud-edition.json) |
 | Freelancer Simulator 2 | 135308 | [135308-freelancer-simulator-2.json](./135308-freelancer-simulator-2.json) |
+| Freelancer: HD Edition | 269642 | [269642-freelancer-hd-edition.json](./269642-freelancer-hd-edition.json) |
 | Freelancers: Rogue Skies | 372528 | [372528-freelancers-rogue-skies.json](./372528-freelancers-rogue-skies.json) |
 | Freeland | 316098 | [316098-freeland.json](./316098-freeland.json) |
 | Freeline! | 404923 | [404923-freeline.json](./404923-freeline.json) |
@@ -3408,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugue in Void | 105212 | [105212-fugue-in-void.json](./105212-fugue-in-void.json) |
 | Fuhrer in LA: Special Edition | 252177 | [252177-fuhrer-in-la-special-edition.json](./252177-fuhrer-in-la-special-edition.json) |
 | Fujiwara Phoenix | 245869 | [245869-fujiwara-phoenix.json](./245869-fujiwara-phoenix.json) |
+| Fukoumori: Moririi no Unhappy Project | 269677 | [269677-fukoumori-moririi-no-unhappy-project.json](./269677-fukoumori-moririi-no-unhappy-project.json) |
 | FukTopia 3 | 173833 | [173833-fuktopia-3.json](./173833-fuktopia-3.json) |
 | Fukufuku no Shima | 59373 | [59373-fukufuku-no-shima.json](./59373-fukufuku-no-shima.json) |
 | Fukuro to Subaru | 326946 | [326946-fukuro-to-subaru.json](./326946-fukuro-to-subaru.json) |
