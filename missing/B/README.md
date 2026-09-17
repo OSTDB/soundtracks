@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearly Chillin' | 363976 | [363976-bearly-chillin.json](./363976-bearly-chillin.json) |
 | BearPit | 338719 | [338719-bearpit.json](./338719-bearpit.json) |
 | Bearricade | 327199 | [327199-bearricade.json](./327199-bearricade.json) |
+| Bears vs. Art | 251024 | [251024-bears-vs-art.json](./251024-bears-vs-art.json) |
 | Bearslayer | 33059 | [33059-bearslayer.json](./33059-bearslayer.json) |
 | Bearstone Campsite | 346607 | [346607-bearstone-campsite.json](./346607-bearstone-campsite.json) |
 | Beary the Hatchet | 269679 | [269679-beary-the-hatchet.json](./269679-beary-the-hatchet.json) |
@@ -1490,11 +1491,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: KISS - "I Was Made For Lovin' You" | 357229 | [357229-beat-saber-kiss-i-was-made-for-lovin-you.json](./357229-beat-saber-kiss-i-was-made-for-lovin-you.json) |
 | Beat Saber: Lady Gaga - "Alejandro" | 357242 | [357242-beat-saber-lady-gaga-alejandro.json](./357242-beat-saber-lady-gaga-alejandro.json) |
 | Beat Saber: Lady Gaga - "Poker Face" | 357241 | [357241-beat-saber-lady-gaga-poker-face.json](./357241-beat-saber-lady-gaga-poker-face.json) |
+| Beat Saber: Monstercat Music Pack Vol. 1 | 251057 | [251057-beat-saber-monstercat-music-pack-vol-1.json](./251057-beat-saber-monstercat-music-pack-vol-1.json) |
 | Beat Saber: Queen - "Another One Bites the Dust" | 357227 | [357227-beat-saber-queen-another-one-bites-the-dust.json](./357227-beat-saber-queen-another-one-bites-the-dust.json) |
 | Beat Saber: Queen - "Bohemian Rhapsody" | 357228 | [357228-beat-saber-queen-bohemian-rhapsody.json](./357228-beat-saber-queen-bohemian-rhapsody.json) |
 | Beat Saber: Queen - "We Will Rock You" | 357225 | [357225-beat-saber-queen-we-will-rock-you.json](./357225-beat-saber-queen-we-will-rock-you.json) |
 | Beat Saber: Queen Music Pack | 250646 | [250646-beat-saber-queen-music-pack.json](./250646-beat-saber-queen-music-pack.json) |
 | Beat Saber: Rock Mixtape | 357351 | [357351-beat-saber-rock-mixtape.json](./357351-beat-saber-rock-mixtape.json) |
+| Beat Saber: Rocket League x Monstercat Music Pack | 251056 | [251056-beat-saber-rocket-league-x-monstercat-music-pack.json](./251056-beat-saber-rocket-league-x-monstercat-music-pack.json) |
 | Beat Saber: Skrillex – "Bangarang (feat. Sirah)" | 357245 | [357245-beat-saber-skrillex-bangarang-feat-sirah.json](./357245-beat-saber-skrillex-bangarang-feat-sirah.json) |
 | Beat Saber: Skrillex – "Scary Monsters and Nice Sprites" | 357244 | [357244-beat-saber-skrillex-scary-monsters-and-nice-sprites.json](./357244-beat-saber-skrillex-scary-monsters-and-nice-sprites.json) |
 | Beat Saber: Skrillex & Wolfgang Gartner – "The Devil’s Den" | 357243 | [357243-beat-saber-skrillex-and-wolfgang-gartner-the-devil-s-den.json](./357243-beat-saber-skrillex-and-wolfgang-gartner-the-devil-s-den.json) |
@@ -3729,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Drag Racing: Pro Mod Pack 2 | 255969 | [255969-bounty-drag-racing-pro-mod-pack-2.json](./255969-bounty-drag-racing-pro-mod-pack-2.json) |
 | Bounty Drag Racing: Pro Mod Pack 3 | 274742 | [274742-bounty-drag-racing-pro-mod-pack-3.json](./274742-bounty-drag-racing-pro-mod-pack-3.json) |
 | Bounty Hounds Online | 92495 | [92495-bounty-hounds-online.json](./92495-bounty-hounds-online.json) |
+| Bounty Hunter | 251009 | [251009-bounty-hunter.json](./251009-bounty-hunter.json) |
 | Bounty Hunters | 265389 | [265389-bounty-hunters.json](./265389-bounty-hunters.json) |
 | Bounty of One: Panic in the Mines | 321957 | [321957-bounty-of-one-panic-in-the-mines.json](./321957-bounty-of-one-panic-in-the-mines.json) |
 | Bounty Sword | 38351 | [38351-bounty-sword.json](./38351-bounty-sword.json) |
@@ -4381,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble 4 Friends: The Baron Is Back! | 139837 | [139837-bubble-bobble-4-friends-the-baron-is-back.json](./139837-bubble-bobble-4-friends-the-baron-is-back.json) |
 | Bubble Bobble Classic | 332248 | [332248-bubble-bobble-classic.json](./332248-bubble-bobble-classic.json) |
 | Bubble Bobble Double Shot | 20672 | [20672-bubble-bobble-double-shot.json](./20672-bubble-bobble-double-shot.json) |
+| Bubble Bobble Nostalgie | 251020 | [251020-bubble-bobble-nostalgie.json](./251020-bubble-bobble-nostalgie.json) |
 | Bubble Breaking | 168337 | [168337-bubble-breaking.json](./168337-bubble-breaking.json) |
 | Bubble Breeze Pop | 76633 | [76633-bubble-breeze-pop.json](./76633-bubble-breeze-pop.json) |
 | Bubble Bubbling | 246114 | [246114-bubble-bubbling.json](./246114-bubble-bubbling.json) |
