@@ -1735,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reviver: The Real-Time Adventure | 63884 | [63884-reviver-the-real-time-adventure.json](./63884-reviver-the-real-time-adventure.json) |
 | Revline Online | 411689 | [411689-revline-online.json](./411689-revline-online.json) |
 | Revoland | 210661 | [210661-revoland.json](./210661-revoland.json) |
+| Revolgear II Ver.D Revision+Ex | 268028 | [268028-revolgear-ii-ver-d-revision-ex.json](./268028-revolgear-ii-ver-d-revision-ex.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
 | Revolution Editions: Shadow & Steel | 361790 | [361790-revolution-editions-shadow-and-steel.json](./361790-revolution-editions-shadow-and-steel.json) |
