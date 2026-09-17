@@ -2036,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
 | Flawless | 219790 | [219790-flawless.json](./219790-flawless.json) |
 | Flawless Darkness | 260238 | [260238-flawless-darkness.json](./260238-flawless-darkness.json) |
+| Flea the Cat | 242058 | [242058-flea-the-cat.json](./242058-flea-the-cat.json) |
 | Flea War | 334679 | [334679-flea-war.json](./334679-flea-war.json) |
 | Fleabag vs. Mutt 2 | 403020 | [403020-fleabag-vs-mutt-2.json](./403020-fleabag-vs-mutt-2.json) |
 | Flecto | 407325 | [407325-flecto.json](./407325-flecto.json) |
