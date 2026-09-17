@@ -1913,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodturning 3D | 287664 | [287664-woodturning-3d.json](./287664-woodturning-3d.json) |
 | Woodville Chronicles | 415962 | [415962-woodville-chronicles.json](./415962-woodville-chronicles.json) |
 | Woodwork Simulator | 120932 | [120932-woodwork-simulator.json](./120932-woodwork-simulator.json) |
+| Woody Woodpecker and Friends Volume 2 | 268527 | [268527-woody-woodpecker-and-friends-volume-2.json](./268527-woody-woodpecker-and-friends-volume-2.json) |
 | Woody Woodpecker in Waterfools | 135894 | [135894-woody-woodpecker-in-waterfools.json](./135894-woody-woodpecker-in-waterfools.json) |
 | Woody's Incredible Journey to the Escape from Eternal Terror | 265684 | [265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json](./265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json) |
 | WoodZone | 107815 | [107815-woodzone.json](./107815-woodzone.json) |
@@ -2268,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Greatest Temples 2 | 415932 | [415932-worlds-greatest-temples-2.json](./415932-worlds-greatest-temples-2.json) |
 | World's Largest Pac-Man | 175992 | [175992-worlds-largest-pac-man.json](./175992-worlds-largest-pac-man.json) |
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
+| WorldCup Super Stadium | 268526 | [268526-worldcup-super-stadium.json](./268526-worldcup-super-stadium.json) |
 | WorldGuessr | 315679 | [315679-worldguessr.json](./315679-worldguessr.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
 | WorldNeverland: Elnea Kingdom - Ancestral Garb Set: Berry | 316264 | [316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json](./316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json) |
