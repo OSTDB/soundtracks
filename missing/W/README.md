@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What is Older? | 374674 | [374674-what-is-older.json](./374674-what-is-older.json) |
 | What is That Outside | 343233 | [343233-what-is-that-outside.json](./343233-what-is-that-outside.json) |
 | What Is This Sorcery | 328451 | [328451-what-is-this-sorcery.json](./328451-what-is-this-sorcery.json) |
+| What Lies Beneath | 269684 | [269684-what-lies-beneath.json](./269684-what-lies-beneath.json) |
 | What Lies Between | 199118 | [199118-what-lies-between.json](./199118-what-lies-between.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
 | What Now? | 183534 | [183534-what-now.json](./183534-what-now.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander: Privateer | 794 | [794-wing-commander-privateer.json](./794-wing-commander-privateer.json) |
 | Wing Commander: Prophecy | 935 | [935-wing-commander-prophecy.json](./935-wing-commander-prophecy.json) |
 | Wing Commander: Standoff | 144988 | [144988-wing-commander-standoff.json](./144988-wing-commander-standoff.json) |
+| Wing Dog | 269640 | [269640-wing-dog.json](./269640-wing-dog.json) |
 | Wing Fighter | 193955 | [193955-wing-fighter.json](./193955-wing-fighter.json) |
 | Wing Haven | 310926 | [310926-wing-haven.json](./310926-wing-haven.json) |
 | Wing of Darkness: Limited Edition | 140005 | [140005-wing-of-darkness-limited-edition.json](./140005-wing-of-darkness-limited-edition.json) |
@@ -1540,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
 | Winner | 130946 | [130946-winner.json](./130946-winner.json) |
 | Winner vs. Loser | 182455 | [182455-winner-vs-loser.json](./182455-winner-vs-loser.json) |
+| Winner's Circle | 269662 | [269662-winners-circle.json](./269662-winners-circle.json) |
 | Winnie The Pooh: The Serial Killer | 364538 | [364538-winnie-the-pooh-the-serial-killer.json](./364538-winnie-the-pooh-the-serial-killer.json) |
 | Winnie the Witch | 205840 | [205840-winnie-the-witch.json](./205840-winnie-the-witch.json) |
 | Winnie-the-Pooh Hops for Honey | 349335 | [349335-winnie-the-pooh-hops-for-honey.json](./349335-winnie-the-pooh-hops-for-honey.json) |
