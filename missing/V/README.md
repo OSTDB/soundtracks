@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Duck Hunt | 94172 | [94172-vs-duck-hunt.json](./94172-vs-duck-hunt.json) |
 | Vs. Hogan's Alley | 169999 | [169999-vs-hogans-alley.json](./169999-vs-hogans-alley.json) |
 | Vs. Ladies Golf | 168330 | [168330-vs-ladies-golf.json](./168330-vs-ladies-golf.json) |
+| Vs. Racing | 259071 | [259071-vs-racing.json](./259071-vs-racing.json) |
 | Vs. RetroSpecter P2: Infernadise | 378156 | [378156-vs-retrospecter-p2-infernadise.json](./378156-vs-retrospecter-p2-infernadise.json) |
 | Vs. Self | 311143 | [311143-vs-self.json](./311143-vs-self.json) |
 | Vs. Super Mario Bros. | 92342 | [92342-vs-super-mario-bros.json](./92342-vs-super-mario-bros.json) |
