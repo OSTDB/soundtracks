@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Ground | 256827 | [256827-hell-ground.json](./256827-hell-ground.json) |
 | Hell Guide | 130852 | [130852-hell-guide.json](./130852-hell-guide.json) |
 | Hell Hospital | 414424 | [414424-hell-hospital.json](./414424-hell-hospital.json) |
+| Hell Hunter: Damned Soul | 272380 | [272380-hell-hunter-damned-soul.json](./272380-hell-hunter-damned-soul.json) |
 | Hell in a Can | 271762 | [271762-hell-in-a-can.json](./271762-hell-in-a-can.json) |
 | Hell Inspector's Mod of Stupidity | 280765 | [280765-hell-inspectors-mod-of-stupidity.json](./280765-hell-inspectors-mod-of-stupidity.json) |
 | Hell Invades Heaven | 190165 | [190165-hell-invades-heaven.json](./190165-hell-invades-heaven.json) |
