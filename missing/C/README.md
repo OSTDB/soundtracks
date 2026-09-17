@@ -2430,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Gridlock | 253988 | [253988-city-gridlock.json](./253988-city-gridlock.json) |
 | City Hunter | 370192 | [370192-city-hunter.json](./370192-city-hunter.json) |
 | City Hunter | 37718 | [37718-city-hunter.json](./37718-city-hunter.json) |
+| City Idle | 244354 | [244354-city-idle.json](./244354-city-idle.json) |
 | City Island 2: Building Sim | 103544 | [103544-city-island-2-building-sim.json](./103544-city-island-2-building-sim.json) |
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
 | City Legends: The Ghost of Misty Hill - DLC | 252238 | [252238-city-legends-the-ghost-of-misty-hill-dlc.json](./252238-city-legends-the-ghost-of-misty-hill-dlc.json) |
@@ -3382,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Keen: Dead in the Desert | 288346 | [288346-commander-keen-dead-in-the-desert.json](./288346-commander-keen-dead-in-the-desert.json) |
 | Commander Keen: The Keys of Krodacia | 288345 | [288345-commander-keen-the-keys-of-krodacia.json](./288345-commander-keen-the-keys-of-krodacia.json) |
 | Commander of Battlefront | 333941 | [333941-commander-of-battlefront.json](./333941-commander-of-battlefront.json) |
+| Commander Tiberius Troubleson | 244340 | [244340-commander-tiberius-troubleson.json](./244340-commander-tiberius-troubleson.json) |
 | Commander: Europe at War | 324929 | [324929-commander-europe-at-war.json](./324929-commander-europe-at-war.json) |
 | Commanders of the Void | 379872 | [379872-commanders-of-the-void.json](./379872-commanders-of-the-void.json) |
 | Commanders: Attack of the Genos | 20775 | [20775-commanders-attack-of-the-genos.json](./20775-commanders-attack-of-the-genos.json) |
@@ -3949,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Tunnels | 23899 | [23899-cosmic-tunnels.json](./23899-cosmic-tunnels.json) |
 | Cosmic Wars | 48646 | [48646-cosmic-wars.json](./48646-cosmic-wars.json) |
 | Cosmic Waves | 244235 | [244235-cosmic-waves.json](./244235-cosmic-waves.json) |
+| Cosmic Worm Food | 244373 | [244373-cosmic-worm-food.json](./244373-cosmic-worm-food.json) |
 | Cosmic Zephyr DX | 159845 | [159845-cosmic-zephyr-dx.json](./159845-cosmic-zephyr-dx.json) |
 | Cosminers | 309524 | [309524-cosminers.json](./309524-cosminers.json) |
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
@@ -5037,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
 | Cubey Quarry | 339352 | [339352-cubey-quarry.json](./339352-cubey-quarry.json) |
+| Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
 | CUBG: Car unknown battlegrounds | 120994 | [120994-cubg-car-unknown-battlegrounds.json](./120994-cubg-car-unknown-battlegrounds.json) |
 | Cubians VR | 29919 | [29919-cubians-vr.json](./29919-cubians-vr.json) |
 | Cubic Castles | 17727 | [17727-cubic-castles.json](./17727-cubic-castles.json) |
