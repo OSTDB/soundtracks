@@ -1404,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lime Volleyball | 307590 | [307590-lime-volleyball.json](./307590-lime-volleyball.json) |
 | Limelight | 303633 | [303633-limelight.json](./303633-limelight.json) |
 | LimeLight Lemonade Jam | 371255 | [371255-limelight-lemonade-jam.json](./371255-limelight-lemonade-jam.json) |
+| Limen | 236921 | [236921-limen.json](./236921-limen.json) |
 | limentional | 296930 | [296930-limentional.json](./296930-limentional.json) |
 | Limerick: Cadence Mansion | 224743 | [224743-limerick-cadence-mansion.json](./224743-limerick-cadence-mansion.json) |
 | Limes 235 | 415103 | [415103-limes-235.json](./415103-limes-235.json) |
@@ -2437,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Bunny Girl! | 97934 | [97934-lovely-bunny-girl.json](./97934-lovely-bunny-girl.json) |
 | Lovely Cat: Dream Party | 247520 | [247520-lovely-cat-dream-party.json](./247520-lovely-cat-dream-party.json) |
 | Lovely Cat: Mermaid Castle | 247521 | [247521-lovely-cat-mermaid-castle.json](./247521-lovely-cat-mermaid-castle.json) |
+| Lovely Crush | 236925 | [236925-lovely-crush.json](./236925-lovely-crush.json) |
 | Lovely Farm | 264360 | [264360-lovely-farm.json](./264360-lovely-farm.json) |
 | Lovely Fox | 102918 | [102918-lovely-fox.json](./102918-lovely-fox.json) |
 | Lovely Island | 109620 | [109620-lovely-island.json](./109620-lovely-island.json) |
@@ -2676,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Laser | 241990 | [241990-lunar-laser.json](./241990-lunar-laser.json) |
 | Lunar Legacy | 248041 | [248041-lunar-legacy.json](./248041-lunar-legacy.json) |
 | Lunar Legend | 13907 | [13907-lunar-legend.json](./13907-lunar-legend.json) |
+| Lunar Mountain | 236923 | [236923-lunar-mountain.json](./236923-lunar-mountain.json) |
 | Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
 | Lunar Resilience | 302918 | [302918-lunar-resilience.json](./302918-lunar-resilience.json) |
 | Lunar: Dragon Song | 13908 | [13908-lunar-dragon-song.json](./13908-lunar-dragon-song.json) |
