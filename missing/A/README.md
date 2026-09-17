@@ -537,6 +537,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AdVenture Capitalist | 9591 | [9591-adventure-capitalist.json](./9591-adventure-capitalist.json) |
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
 | Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
+| Adventure Field | 274001 | [274001-adventure-field.json](./274001-adventure-field.json) |
+| Adventure Field 2 | 274002 | [274002-adventure-field-2.json](./274002-adventure-field-2.json) |
+| Adventure Field 3: Definitive Edition | 274003 | [274003-adventure-field-3-definitive-edition.json](./274003-adventure-field-3-definitive-edition.json) |
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
 | Adventure In Aellion | 117691 | [117691-adventure-in-aellion.json](./117691-adventure-in-aellion.json) |
@@ -1304,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All the Mods 10: To the Sky | 366322 | [366322-all-the-mods-10-to-the-sky.json](./366322-all-the-mods-10-to-the-sky.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
 | All The Places You'll Go (Women As Place) | 393497 | [393497-all-the-places-youll-go-women-as-place.json](./393497-all-the-places-youll-go-women-as-place.json) |
+| All the Wiser | 274011 | [274011-all-the-wiser.json](./274011-all-the-wiser.json) |
 | All Things Equal I Would Prefer It If We Were Safe & Lonely Instead of Together & Afraid But I Cannot Deny That It Is Hard; or: A Solitary Spacecraft. | 133997 | [133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json](./133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json) |
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
 | All We Need | 263212 | [263212-all-we-need.json](./263212-all-we-need.json) |
@@ -1348,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allumeria | 362894 | [362894-allumeria.json](./362894-allumeria.json) |
 | Alluna and Brie | 117033 | [117033-alluna-and-brie.json](./117033-alluna-and-brie.json) |
 | Almastriga: Relics of Azathoth | 156618 | [156618-almastriga-relics-of-azathoth.json](./156618-almastriga-relics-of-azathoth.json) |
+| Almistice | 274010 | [274010-almistice.json](./274010-almistice.json) |
 | Almos a Dream Painter's Tale | 415125 | [415125-almos-a-dream-painters-tale.json](./415125-almos-a-dream-painters-tale.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Almost There: The Platformer | 113722 | [113722-almost-there-the-platformer.json](./113722-almost-there-the-platformer.json) |
@@ -1743,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anamorphine | 27873 | [27873-anamorphine.json](./27873-anamorphine.json) |
 | Anan Kanshuu: Onna-jikara Kinkyuu Up! DS | 269549 | [269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json](./269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json) |
 | Ananse and the Pot of Wisdom | 251827 | [251827-ananse-and-the-pot-of-wisdom.json](./251827-ananse-and-the-pot-of-wisdom.json) |
+| Anaon | 274031 | [274031-anaon.json](./274031-anaon.json) |
 | Anarchy | 201298 | [201298-anarchy.json](./201298-anarchy.json) |
 | Anarchy City 1: Atomic Version | 272002 | [272002-anarchy-city-1-atomic-version.json](./272002-anarchy-city-1-atomic-version.json) |
 | Anarchy City 2: Neighbourhood Nightmare | 272003 | [272003-anarchy-city-2-neighbourhood-nightmare.json](./272003-anarchy-city-2-neighbourhood-nightmare.json) |
@@ -3471,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
 | Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
 | Astate: La Malédiction des Templiers | 14271 | [14271-astate-la-malediction-des-templiers.json](./14271-astate-la-malediction-des-templiers.json) |
+| Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
 | Astera | 304678 | [304678-astera.json](./304678-astera.json) |
 | Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
