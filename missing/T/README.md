@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
 | Tales of Lost Ages Vol 1. | 298057 | [298057-tales-of-lost-ages-vol-1.json](./298057-tales-of-lost-ages-vol-1.json) |
 | Tales of Maj'Eyal: Embers of Rage | 51930 | [51930-tales-of-majeyal-embers-of-rage.json](./51930-tales-of-majeyal-embers-of-rage.json) |
+| Tales of Mathasia | 239743 | [239743-tales-of-mathasia.json](./239743-tales-of-mathasia.json) |
 | Tales of Medieval Duelists | 389982 | [389982-tales-of-medieval-duelists.json](./389982-tales-of-medieval-duelists.json) |
 | Tales of Middle Earth | 326278 | [326278-tales-of-middle-earth.json](./326278-tales-of-middle-earth.json) |
 | Tales of Monkey Island: Chapter 3 - Lair of the Leviathan | 81269 | [81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json](./81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json) |
@@ -394,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Death | 204112 | [204112-tales-of-the-death.json](./204112-tales-of-the-death.json) |
 | Tales of the Drunken Paladin | 191811 | [191811-tales-of-the-drunken-paladin.json](./191811-tales-of-the-drunken-paladin.json) |
 | Tales of the Elements: 2nd Chapter | 168848 | [168848-tales-of-the-elements-2nd-chapter.json](./168848-tales-of-the-elements-2nd-chapter.json) |
+| Tales of the Magic Ball | 239747 | [239747-tales-of-the-magic-ball.json](./239747-tales-of-the-magic-ball.json) |
 | Tales of the Neon Sea: Collector's Edition | 228733 | [228733-tales-of-the-neon-sea-collectors-edition.json](./228733-tales-of-the-neon-sea-collectors-edition.json) |
 | Tales of The Nightmares: Episode One | 352834 | [352834-tales-of-the-nightmares-episode-one.json](./352834-tales-of-the-nightmares-episode-one.json) |
 | Tales of the Odd: Brain Hotel | 60510 | [60510-tales-of-the-odd-brain-hotel.json](./60510-tales-of-the-odd-brain-hotel.json) |
@@ -5564,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief City | 221424 | [221424-thief-city.json](./221424-thief-city.json) |
 | Thief Collection | 53796 | [53796-thief-collection.json](./53796-thief-collection.json) |
 | Thief of Hearts | 179697 | [179697-thief-of-hearts.json](./179697-thief-of-hearts.json) |
+| Thief of Smiles | 239745 | [239745-thief-of-smiles.json](./239745-thief-of-smiles.json) |
 | Thief of Thieves: Season One | 95116 | [95116-thief-of-thieves-season-one.json](./95116-thief-of-thieves-season-one.json) |
 | Thief Puzzle | 313137 | [313137-thief-puzzle.json](./313137-thief-puzzle.json) |
 | Thief Puzzle: Complete Edition | 315849 | [315849-thief-puzzle-complete-edition.json](./315849-thief-puzzle-complete-edition.json) |
