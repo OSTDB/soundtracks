@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Super Bowl II: Special Edition | 46598 | [46598-tecmo-super-bowl-ii-special-edition.json](./46598-tecmo-super-bowl-ii-special-edition.json) |
 | Tecmo Super Hockey | 46597 | [46597-tecmo-super-hockey.json](./46597-tecmo-super-hockey.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
+| Tecnology War | 248747 | [248747-tecnology-war.json](./248747-tecnology-war.json) |
 | Teddy Bear Wars | 131605 | [131605-teddy-bear-wars.json](./131605-teddy-bear-wars.json) |
 | Teddy Bear Zombies | 120334 | [120334-teddy-bear-zombies.json](./120334-teddy-bear-zombies.json) |
 | Teddy Factory | 206353 | [206353-teddy-factory.json](./206353-teddy-factory.json) |
@@ -2247,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
 | The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
 | The Dark Arrival: Shadows of the Past | 343269 | [343269-the-dark-arrival-shadows-of-the-past.json](./343269-the-dark-arrival-shadows-of-the-past.json) |
+| The Dark Book | 248713 | [248713-the-dark-book.json](./248713-the-dark-book.json) |
 | The Dark Book 2 | 274489 | [274489-the-dark-book-2.json](./274489-the-dark-book-2.json) |
 | The Dark Climb | 253423 | [253423-the-dark-climb.json](./253423-the-dark-climb.json) |
 | The Dark Curiosity | 381002 | [381002-the-dark-curiosity.json](./381002-the-dark-curiosity.json) |
