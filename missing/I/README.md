@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Jigsaw Puzzle Pack | 78010 | [78010-infinite-jigsaw-puzzle-pack.json](./78010-infinite-jigsaw-puzzle-pack.json) |
 | Infinite Jonathans | 125416 | [125416-infinite-jonathans.json](./125416-infinite-jonathans.json) |
 | Infinite Knights | 256523 | [256523-infinite-knights.json](./256523-infinite-knights.json) |
+| Infinite Labyrinth | 281522 | [281522-infinite-labyrinth.json](./281522-infinite-labyrinth.json) |
 | Infinite Legend | 102755 | [102755-infinite-legend.json](./102755-infinite-legend.json) |
 | Infinite Library | 318186 | [318186-infinite-library.json](./318186-infinite-library.json) |
 | Infinite Links | 194185 | [194185-infinite-links.json](./194185-infinite-links.json) |
