@@ -2238,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronomina | 185620 | [185620-chronomina.json](./185620-chronomina.json) |
 | Chronomon | 244487 | [244487-chronomon.json](./244487-chronomon.json) |
 | Chronophobia | 122341 | [122341-chronophobia.json](./122341-chronophobia.json) |
+| Chronophoto | 237530 | [237530-chronophoto.json](./237530-chronophoto.json) |
 | Chronos Materia | 63261 | [63261-chronos-materia.json](./63261-chronos-materia.json) |
 | Chronos Shift | 350528 | [350528-chronos-shift.json](./350528-chronos-shift.json) |
 | Chronos Twins | 85540 | [85540-chronos-twins.json](./85540-chronos-twins.json) |
@@ -2616,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay Knight | 316853 | [316853-clay-knight.json](./316853-clay-knight.json) |
 | Clay Puzzle | 391201 | [391201-clay-puzzle.json](./391201-clay-puzzle.json) |
 | Clay Shooter | 192981 | [192981-clay-shooter.json](./192981-clay-shooter.json) |
+| Clay Soldiers | 237520 | [237520-clay-soldiers.json](./237520-clay-soldiers.json) |
 | Clayborn Idle | 382301 | [382301-clayborn-idle.json](./382301-clayborn-idle.json) |
 | Clayers | 348326 | [348326-clayers.json](./348326-clayers.json) |
 | Clean City Project | 292521 | [292521-clean-city-project.json](./292521-clean-city-project.json) |
@@ -3071,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collector's Edition: 101 Incredible Games! | 205799 | [205799-collectors-edition-101-incredible-games.json](./205799-collectors-edition-101-incredible-games.json) |
 | Collector's Edition: 251 Awesome Games! | 110319 | [110319-collectors-edition-251-awesome-games.json](./110319-collectors-edition-251-awesome-games.json) |
 | College Bball Coach | 78544 | [78544-college-bball-coach.json](./78544-college-bball-coach.json) |
+| College Bound: Arctic Adventure | 237482 | [237482-college-bound-arctic-adventure.json](./237482-college-bound-arctic-adventure.json) |
 | College Bound: Episode 4 | 207504 | [207504-college-bound-episode-4.json](./207504-college-bound-episode-4.json) |
 | College Bowl | 249183 | [249183-college-bowl.json](./249183-college-bowl.json) |
 | College Brawl 2 | 233505 | [233505-college-brawl-2.json](./233505-college-brawl-2.json) |
