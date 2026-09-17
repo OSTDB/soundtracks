@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side to Side | 128569 | [128569-side-to-side.json](./128569-side-to-side.json) |
 | Side Whoop | 390656 | [390656-side-whoop.json](./390656-side-whoop.json) |
 | Sidekick High | 185070 | [185070-sidekick-high.json](./185070-sidekick-high.json) |
+| SideLine | 243796 | [243796-sideline.json](./243796-sideline.json) |
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
 | SideQuest Hunters | 360017 | [360017-sidequest-hunters.json](./360017-sidequest-hunters.json) |
 | Sidereal Defense | 54357 | [54357-sidereal-defense.json](./54357-sidereal-defense.json) |
@@ -3341,6 +3342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
 | Skitt | 138735 | [138735-skitt.json](./138735-skitt.json) |
 | Skogdal | 258565 | [258565-skogdal.json](./258565-skogdal.json) |
+| Skolios | 243784 | [243784-skolios.json](./243784-skolios.json) |
 | Skoof Fishing | 356663 | [356663-skoof-fishing.json](./356663-skoof-fishing.json) |
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
@@ -7075,6 +7077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starshot | 374184 | [374184-starshot.json](./374184-starshot.json) |
 | Starsiege: Deadzone | 251581 | [251581-starsiege-deadzone.json](./251581-starsiege-deadzone.json) |
 | Starsiege: Tribes | 881 | [881-starsiege-tribes.json](./881-starsiege-tribes.json) |
+| Starsky & Hutch | 243809 | [243809-starsky-and-hutch.json](./243809-starsky-and-hutch.json) |
 | Starspawn: A Miskatonic Mystery | 347785 | [347785-starspawn-a-miskatonic-mystery.json](./347785-starspawn-a-miskatonic-mystery.json) |
 | Starsphere | 34321 | [34321-starsphere.json](./34321-starsphere.json) |
 | StarStorm | 258032 | [258032-starstorm.json](./258032-starstorm.json) |
