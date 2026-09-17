@@ -3674,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra | 186226 | [186226-contra.json](./186226-contra.json) |
 | Contra Force | 24978 | [24978-contra-force.json](./24978-contra-force.json) |
 | Contra Run & Gun Bundle | 317236 | [317236-contra-run-and-gun-bundle.json](./317236-contra-run-and-gun-bundle.json) |
+| Contra Spirits | 242088 | [242088-contra-spirits.json](./242088-contra-spirits.json) |
 | Contract Bridge Solo | 398415 | [398415-contract-bridge-solo.json](./398415-contract-bridge-solo.json) |
 | Contract Cooks | 403578 | [403578-contract-cooks.json](./403578-contract-cooks.json) |
 | Contract J.A.C.K. | 1336 | [1336-contract-j-a-c-k.json](./1336-contract-j-a-c-k.json) |
@@ -3783,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
 | Coop Tank War | 111008 | [111008-coop-tank-war.json](./111008-coop-tank-war.json) |
 | Coopbots | 272862 | [272862-coopbots.json](./272862-coopbots.json) |
+| Cooped Up | 242071 | [242071-cooped-up.json](./242071-cooped-up.json) |
 | Cooperate with Yourself | 371338 | [371338-cooperate-with-yourself.json](./371338-cooperate-with-yourself.json) |
 | Cooporationation | 326823 | [326823-cooporationation.json](./326823-cooporationation.json) |
 | CoopRooms | 347156 | [347156-cooprooms.json](./347156-cooprooms.json) |
