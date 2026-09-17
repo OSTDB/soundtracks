@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | disfact Game Pack 1 | 405533 | [405533-disfact-game-pack-1.json](./405533-disfact-game-pack-1.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
 | Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
+| Disgaea 7: Glasses Costumes Set | 268541 | [268541-disgaea-7-glasses-costumes-set.json](./268541-disgaea-7-glasses-costumes-set.json) |
 | Disgaea 7: Vows of the Virtueless | 214530 | [214530-disgaea-7-vows-of-the-virtueless.json](./214530-disgaea-7-vows-of-the-virtueless.json) |
 | Disgaea 7: Vows of the Virtueless - Bonus Story: The Kind Demon, Singing Princess, and Thief Angel | 270198 | [270198-disgaea-7-vows-of-the-virtueless-bonus-story-the-kind-demon-singing-princess-and-thief-angel.json](./270198-disgaea-7-vows-of-the-virtueless-bonus-story-the-kind-demon-singing-princess-and-thief-angel.json) |
 | Disgaea Infinite | 21742 | [21742-disgaea-infinite.json](./21742-disgaea-infinite.json) |
@@ -3542,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Brain Thinking Games IQ Adventures | 72726 | [72726-dr-brain-thinking-games-iq-adventures.json](./72726-dr-brain-thinking-games-iq-adventures.json) |
 | Dr. Calgory's Lab: a 3D steampunk puzzle adventure game | 88312 | [88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json](./88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json) |
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
+| Dr. Chess | 268534 | [268534-dr-chess.json](./268534-dr-chess.json) |
 | Dr. Dino -Doctor & Dentist games for boys girls | 232181 | [232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json](./232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json) |
 | Dr. Dolittle | 43255 | [43255-dr-dolittle.json](./43255-dr-dolittle.json) |
 | Dr. Dude | 92441 | [92441-dr-dude.json](./92441-dr-dude.json) |
@@ -3796,6 +3798,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: Joker 3 Professional | 79296 | [79296-dragon-quest-monsters-joker-3-professional.json](./79296-dragon-quest-monsters-joker-3-professional.json) |
 | Dragon Quest Monsters: Terry no Wonderland 3D | 80596 | [80596-dragon-quest-monsters-terry-no-wonderland-3d.json](./80596-dragon-quest-monsters-terry-no-wonderland-3d.json) |
 | Dragon Quest Monsters: Terry no Wonderland SP | 111757 | [111757-dragon-quest-monsters-terry-no-wonderland-sp.json](./111757-dragon-quest-monsters-terry-no-wonderland-sp.json) |
+| Dragon Quest Monsters: The Dark Prince - Coach Joe's Dungeon Gym | 268576 | [268576-dragon-quest-monsters-the-dark-prince-coach-joes-dungeon-gym.json](./268576-dragon-quest-monsters-the-dark-prince-coach-joes-dungeon-gym.json) |
+| Dragon Quest Monsters: The Dark Prince - Digital Deluxe Edition | 268553 | [268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json](./268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json) |
+| Dragon Quest Monsters: The Dark Prince - Treasure Trunks | 268571 | [268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json](./268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json) |
 | Dragon Quest VII Reimagined | 366884 | [366884-dragon-quest-vii-reimagined.json](./366884-dragon-quest-vii-reimagined.json) |
 | Dragon Quest VII Reimagined: Additional DLC Sets | 388942 | [388942-dragon-quest-vii-reimagined-additional-dlc-sets.json](./388942-dragon-quest-vii-reimagined-additional-dlc-sets.json) |
 | Dragon Quest VII Reimagined: Jam-Packed Swag Bag | 375183 | [375183-dragon-quest-vii-reimagined-jam-packed-swag-bag.json](./375183-dragon-quest-vii-reimagined-jam-packed-swag-bag.json) |
@@ -3926,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
+| Draw and Color: Kawaii - Magnificent Edition | 268554 | [268554-draw-and-color-kawaii-magnificent-edition.json](./268554-draw-and-color-kawaii-magnificent-edition.json) |
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
 | Draw Around | 142402 | [142402-draw-around.json](./142402-draw-around.json) |
 | Draw Breaker | 341058 | [341058-draw-breaker.json](./341058-draw-breaker.json) |
