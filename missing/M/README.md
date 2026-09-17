@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinika Museum | 163777 | [163777-machinika-museum.json](./163777-machinika-museum.json) |
 | Machiteba Tengoku! Makereba Jigoku! Ryoutsuryuu Ikkakusenkin Daisakusen! | 269588 | [269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json](./269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json) |
 | Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
+| Macho Spinner | 270176 | [270176-macho-spinner.json](./270176-macho-spinner.json) |
 | MachRace | 32865 | [32865-machrace.json](./32865-machrace.json) |
 | Mackle Story | 407459 | [407459-mackle-story.json](./407459-mackle-story.json) |
 | Mackle Story Remake | 407462 | [407462-mackle-story-remake.json](./407462-mackle-story-remake.json) |
@@ -1651,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of the Mini-taur | 185126 | [185126-maze-of-the-mini-taur.json](./185126-maze-of-the-mini-taur.json) |
 | Maze of Wires | 342177 | [342177-maze-of-wires.json](./342177-maze-of-wires.json) |
 | Maze Puzzle | 277868 | [277868-maze-puzzle.json](./277868-maze-puzzle.json) |
+| Maze Quest Master | 270186 | [270186-maze-quest-master.json](./270186-maze-quest-master.json) |
 | Maze Runner | 72108 | [72108-maze-runner.json](./72108-maze-runner.json) |
 | Maze Twister | 191820 | [191820-maze-twister.json](./191820-maze-twister.json) |
 | Maze Walk VR - Virtual Reality Game Puzzle Apps | 88063 | [88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json](./88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json) |
@@ -4512,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
 | Mossbound | 385219 | [385219-mossbound.json](./385219-mossbound.json) |
 | Mossroot | 250966 | [250966-mossroot.json](./250966-mossroot.json) |
+| Mossy Pixels | 270183 | [270183-mossy-pixels.json](./270183-mossy-pixels.json) |
 | Most Correct Football Simulator | 118338 | [118338-most-correct-football-simulator.json](./118338-most-correct-football-simulator.json) |
 | Most Scuffed Golf | 409632 | [409632-most-scuffed-golf.json](./409632-most-scuffed-golf.json) |
 | Mostly Scared of Spiders | 115683 | [115683-mostly-scared-of-spiders.json](./115683-mostly-scared-of-spiders.json) |
@@ -4587,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Racer | 23841 | [23841-motocross-racer.json](./23841-motocross-racer.json) |
 | Motocross The Game | 337185 | [337185-motocross-the-game.json](./337185-motocross-the-game.json) |
 | Motocross Zombie HD | 100736 | [100736-motocross-zombie-hd.json](./100736-motocross-zombie-hd.json) |
+| Motocross: The Force | 270211 | [270211-motocross-the-force.json](./270211-motocross-the-force.json) |
 | MotoGP | 175917 | [175917-motogp.json](./175917-motogp.json) |
 | MotoGP '08 | 5022 | [5022-motogp-08.json](./5022-motogp-08.json) |
 | MotoGP 13: MotoGP Champions | 168355 | [168355-motogp-13-motogp-champions.json](./168355-motogp-13-motogp-champions.json) |
@@ -5346,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Nemesis and Hero | 186849 | [186849-my-nemesis-and-hero.json](./186849-my-nemesis-and-hero.json) |
 | My Newspaper | 217499 | [217499-my-newspaper.json](./217499-my-newspaper.json) |
 | My Next Life as a Bird | 274756 | [274756-my-next-life-as-a-bird.json](./274756-my-next-life-as-a-bird.json) |
+| My Next Life as a Villainess: All Routes Lead to Doom! - Pirates of the Disturbance: Day One Edition | 270177 | [270177-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance-day-one-edition.json](./270177-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance-day-one-edition.json) |
 | My Night Sun All Games | 276308 | [276308-my-night-sun-all-games.json](./276308-my-night-sun-all-games.json) |
 | My Nonogram Waifu: Forbidden Love | 262367 | [262367-my-nonogram-waifu-forbidden-love.json](./262367-my-nonogram-waifu-forbidden-love.json) |
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
