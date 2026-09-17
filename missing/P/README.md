@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathPix Bubble | 96533 | [96533-pathpix-bubble.json](./96533-pathpix-bubble.json) |
 | PathPix Color | 106552 | [106552-pathpix-color.json](./106552-pathpix-color.json) |
 | PathPix Edge | 108498 | [108498-pathpix-edge.json](./108498-pathpix-edge.json) |
+| Paths of Fight: Samurai | 249845 | [249845-paths-of-fight-samurai.json](./249845-paths-of-fight-samurai.json) |
 | Paths Taken | 119039 | [119039-paths-taken.json](./119039-paths-taken.json) |
 | Pathstorm | 71512 | [71512-pathstorm.json](./71512-pathstorm.json) |
 | Pathway | 133975 | [133975-pathway.json](./133975-pathway.json) |
@@ -3318,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porkerpillar | 89209 | [89209-porkerpillar.json](./89209-porkerpillar.json) |
 | Porno Empire | 270786 | [270786-porno-empire.json](./270786-porno-empire.json) |
 | Porntris | 299467 | [299467-porntris.json](./299467-porntris.json) |
+| Porpetha | 249882 | [249882-porpetha.json](./249882-porpetha.json) |
 | Porradaria Upgrade | 91973 | [91973-porradaria-upgrade.json](./91973-porradaria-upgrade.json) |
 | Porrasturvat: Stair Dismount | 93059 | [93059-porrasturvat-stair-dismount.json](./93059-porrasturvat-stair-dismount.json) |
 | Porsche Challenge | 45023 | [45023-porsche-challenge.json](./45023-porsche-challenge.json) |
@@ -4284,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propeller Pete | 334178 | [334178-propeller-pete.json](./334178-propeller-pete.json) |
 | PropFight | 331438 | [331438-propfight.json](./331438-propfight.json) |
 | Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
+| Prophecy Island | 249841 | [249841-prophecy-island.json](./249841-prophecy-island.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | Prophet Margin | 376537 | [376537-prophet-margin.json](./376537-prophet-margin.json) |
 | ProSoccer 2190 | 138723 | [138723-prosoccer-2190.json](./138723-prosoccer-2190.json) |
