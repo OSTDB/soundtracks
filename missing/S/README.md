@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Creatures | 112373 | [112373-sea-creatures.json](./112373-sea-creatures.json) |
 | Sea Dogs: Caribbean Tales | 51868 | [51868-sea-dogs-caribbean-tales.json](./51868-sea-dogs-caribbean-tales.json) |
 | Sea Dogs: To Each His Own - Hero of the Nation | 171618 | [171618-sea-dogs-to-each-his-own-hero-of-the-nation.json](./171618-sea-dogs-to-each-his-own-hero-of-the-nation.json) |
+| Sea Fever | 270759 | [270759-sea-fever.json](./270759-sea-fever.json) |
 | Sea Fishing Simulator | 129741 | [129741-sea-fishing-simulator.json](./129741-sea-fishing-simulator.json) |
 | Sea Hawk | 23911 | [23911-sea-hawk.json](./23911-sea-hawk.json) |
 | Sea Hunter Idle | 399703 | [399703-sea-hunter-idle.json](./399703-sea-hunter-idle.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of the Library | 366296 | [366296-shards-of-the-library.json](./366296-shards-of-the-library.json) |
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
+| Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
 | Sharin no Kuni, Yuukyuu no Shounenshoujo | 79858 | [79858-sharin-no-kuni-yuukyuu-no-shounenshoujo.json](./79858-sharin-no-kuni-yuukyuu-no-shounenshoujo.json) |
 | Sharin no Kuni: The Girl Among the Sunflowers | 7185 | [7185-sharin-no-kuni-the-girl-among-the-sunflowers.json](./7185-sharin-no-kuni-the-girl-among-the-sunflowers.json) |
 | Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
@@ -2382,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shirushi | 202364 | [202364-shirushi.json](./202364-shirushi.json) |
 | Shiryou Sensen: War of the Dead | 42041 | [42041-shiryou-sensen-war-of-the-dead.json](./42041-shiryou-sensen-war-of-the-dead.json) |
 | Shissou, Yankee Damashii | 295936 | [295936-shissou-yankee-damashii.json](./295936-shissou-yankee-damashii.json) |
+| Shisya | 270779 | [270779-shisya.json](./270779-shisya.json) |
 | Shit Storm | 81100 | [81100-shit-storm.json](./81100-shit-storm.json) |
 | Shitataru Ano Ko: Drenched Girls | 271505 | [271505-shitataru-ano-ko-drenched-girls.json](./271505-shitataru-ano-ko-drenched-girls.json) |
 | Shitataru Nikki | 257085 | [257085-shitataru-nikki.json](./257085-shitataru-nikki.json) |
@@ -4095,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoot Game | 225989 | [225989-snoot-game.json](./225989-snoot-game.json) |
 | Snooze or Lose | 276718 | [276718-snooze-or-lose.json](./276718-snooze-or-lose.json) |
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
+| Snot Put | 270761 | [270761-snot-put.json](./270761-snot-put.json) |
 | Snow Ash | 325064 | [325064-snow-ash.json](./325064-snow-ash.json) |
 | Snow Ash Land | 112347 | [112347-snow-ash-land.json](./112347-snow-ash-land.json) |
 | Snow Battle Princess Sayuki | 191180 | [191180-snow-battle-princess-sayuki.json](./191180-snow-battle-princess-sayuki.json) |
@@ -5432,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Theory | 203544 | [203544-space-theory.json](./203544-space-theory.json) |
 | Space Thinger | 34471 | [34471-space-thinger.json](./34471-space-thinger.json) |
 | Space Threat | 272906 | [272906-space-threat.json](./272906-space-threat.json) |
+| Space Time Ocean | 270777 | [270777-space-time-ocean.json](./270777-space-time-ocean.json) |
 | Space to Investigate | 179702 | [179702-space-to-investigate.json](./179702-space-to-investigate.json) |
 | Space Tower Defense | 377585 | [377585-space-tower-defense.json](./377585-space-tower-defense.json) |
 | Space Trader | 9469 | [9469-space-trader.json](./9469-space-trader.json) |
@@ -5879,6 +5884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
 | Spiral Clicker | 110994 | [110994-spiral-clicker.json](./110994-spiral-clicker.json) |
 | Spiral House | 178015 | [178015-spiral-house.json](./178015-spiral-house.json) |
+| Spiral of War | 270785 | [270785-spiral-of-war.json](./270785-spiral-of-war.json) |
 | Spiral Wave | 42045 | [42045-spiral-wave.json](./42045-spiral-wave.json) |
 | Spiral!! | 399062 | [399062-spiral.json](./399062-spiral.json) |
 | Spiralagon | 122342 | [122342-spiralagon.json](./122342-spiralagon.json) |
