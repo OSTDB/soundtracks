@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy 2 | 216800 | [216800-fairy-2.json](./216800-fairy-2.json) |
 | Fairy and Devil | 155577 | [155577-fairy-and-devil.json](./155577-fairy-and-devil.json) |
 | Fairy Bakery Workshop | 182456 | [182456-fairy-bakery-workshop.json](./182456-fairy-bakery-workshop.json) |
+| Fairy Biography 5: Demon | 285609 | [285609-fairy-biography-5-demon.json](./285609-fairy-biography-5-demon.json) |
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
 | Fairy Bubble | 172100 | [172100-fairy-bubble.json](./172100-fairy-bubble.json) |
 | Fairy Escape | 99632 | [99632-fairy-escape.json](./99632-fairy-escape.json) |
@@ -602,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy Prostokvashino | 320397 | [320397-farm-frenzy-prostokvashino.json](./320397-farm-frenzy-prostokvashino.json) |
 | Farm Frenzy: Animal Country | 201278 | [201278-farm-frenzy-animal-country.json](./201278-farm-frenzy-animal-country.json) |
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
+| Farm Invaders | 285555 | [285555-farm-invaders.json](./285555-farm-invaders.json) |
 | Farm Invaders | 324319 | [324319-farm-invaders.json](./324319-farm-invaders.json) |
 | Farm Invasion USA | 61125 | [61125-farm-invasion-usa.json](./61125-farm-invasion-usa.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
@@ -640,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer and Zombie | 286008 | [286008-farmer-and-zombie.json](./286008-farmer-and-zombie.json) |
 | Farmer Drift! | 246430 | [246430-farmer-drift.json](./246430-farmer-drift.json) |
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
+| Farmer's Diary | 285575 | [285575-farmers-diary.json](./285575-farmers-diary.json) |
 | Farmer's Fairy Tale | 107839 | [107839-farmers-fairy-tale.json](./107839-farmers-fairy-tale.json) |
 | Farmerama | 92459 | [92459-farmerama.json](./92459-farmerama.json) |
 | Farmhand Go! | 223171 | [223171-farmhand-go.json](./223171-farmhand-go.json) |
@@ -1723,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fission | 381021 | [381021-fission.json](./381021-fission.json) |
 | Fissure | 361809 | [361809-fissure.json](./361809-fissure.json) |
 | Fissure: Cubic | 297078 | [297078-fissure-cubic.json](./297078-fissure-cubic.json) |
+| Fist Food | 285557 | [285557-fist-food.json](./285557-fist-food.json) |
 | Fist Hell | 318602 | [318602-fist-hell.json](./318602-fist-hell.json) |
 | Fist of Awesome | 17501 | [17501-fist-of-awesome.json](./17501-fist-of-awesome.json) |
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
@@ -2030,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flintstones & Jetsons: Timewarp | 46610 | [46610-flintstones-and-jetsons-timewarp.json](./46610-flintstones-and-jetsons-timewarp.json) |
 | Flintstones' Bedrock Boblseddin' Blowout | 196839 | [196839-flintstones-bedrock-boblseddin-blowout.json](./196839-flintstones-bedrock-boblseddin-blowout.json) |
 | Flip | 381025 | [381025-flip.json](./381025-flip.json) |
+| Flip Flop | 285572 | [285572-flip-flop.json](./285572-flip-flop.json) |
 | Flip Flop XL | 322782 | [322782-flip-flop-xl.json](./322782-flip-flop-xl.json) |
 | Flip for Cake | 361721 | [361721-flip-for-cake.json](./361721-flip-for-cake.json) |
 | Flip Maze | 137589 | [137589-flip-maze.json](./137589-flip-maze.json) |
@@ -3577,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusionist | 250945 | [250945-fusionist.json](./250945-fusionist.json) |
 | Fussball Manager 25 | 335346 | [335346-fussball-manager-25.json](./335346-fussball-manager-25.json) |
 | Futa Nights: Bloody Sluts | 362274 | [362274-futa-nights-bloody-sluts.json](./362274-futa-nights-bloody-sluts.json) |
+| Futa Training | 285604 | [285604-futa-training.json](./285604-futa-training.json) |
 | Futa University | 209487 | [209487-futa-university.json](./209487-futa-university.json) |
 | Futa Zone: Lewd Control | 399731 | [399731-futa-zone-lewd-control.json](./399731-futa-zone-lewd-control.json) |
 | Futanari Fantasy XX | 97840 | [97840-futanari-fantasy-xx.json](./97840-futanari-fantasy-xx.json) |
