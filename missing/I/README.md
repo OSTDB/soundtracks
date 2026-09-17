@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferiae | 399001 | [399001-inferiae.json](./399001-inferiae.json) |
 | Inferius | 272351 | [272351-inferius.json](./272351-inferius.json) |
 | Infernae | 267082 | [267082-infernae.json](./267082-infernae.json) |
+| Infernal Ascent | 271851 | [271851-infernal-ascent.json](./271851-infernal-ascent.json) |
 | Infernal Battles | 402938 | [402938-infernal-battles.json](./402938-infernal-battles.json) |
 | Infernal Chess | 333398 | [333398-infernal-chess.json](./333398-infernal-chess.json) |
 | Infernal Dream Collection | 53230 | [53230-infernal-dream-collection.json](./53230-infernal-dream-collection.json) |
