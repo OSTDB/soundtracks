@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golel | 264693 | [264693-golel.json](./264693-golel.json) |
 | Golem | 310610 | [310610-golem.json](./310610-golem.json) |
 | Golem Wars | 58752 | [58752-golem-wars.json](./58752-golem-wars.json) |
+| Golembert | 258017 | [258017-golembert.json](./258017-golembert.json) |
 | Golf | 131528 | [131528-golf.json](./131528-golf.json) |
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
@@ -1694,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfinite | 219801 | [219801-golfinite.json](./219801-golfinite.json) |
 | Golftacular! | 351646 | [351646-golftacular.json](./351646-golftacular.json) |
 | Golftroidvania | 360012 | [360012-golftroidvania.json](./360012-golftroidvania.json) |
+| Golful | 257991 | [257991-golful.json](./257991-golful.json) |
 | Golgo 13: Carlyle no Yabou | 91931 | [91931-golgo-13-carlyle-no-yabou.json](./91931-golgo-13-carlyle-no-yabou.json) |
 | Golgo 13: File G-13 o Oe | 77335 | [77335-golgo-13-file-g-13-o-oe.json](./77335-golgo-13-file-g-13-o-oe.json) |
 | Golgo 13: Mienai Guntai | 91930 | [91930-golgo-13-mienai-guntai.json](./91930-golgo-13-mienai-guntai.json) |
@@ -2097,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Defender | 121772 | [121772-graveyard-defender.json](./121772-graveyard-defender.json) |
 | Graveyard Dude | 340203 | [340203-graveyard-dude.json](./340203-graveyard-dude.json) |
 | Graveyard Ghoul! | 133999 | [133999-graveyard-ghoul.json](./133999-graveyard-ghoul.json) |
+| Graveyard Gunslingers | 258021 | [258021-graveyard-gunslingers.json](./258021-graveyard-gunslingers.json) |
 | Graveyard Keeper II | 397817 | [397817-graveyard-keeper-ii.json](./397817-graveyard-keeper-ii.json) |
 | Graveyard Orbit | 407329 | [407329-graveyard-orbit.json](./407329-graveyard-orbit.json) |
 | Graveyard Shift | 216230 | [216230-graveyard-shift.json](./216230-graveyard-shift.json) |
