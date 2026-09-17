@@ -1856,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Mammon | 258453 | [258453-shadow-of-mammon.json](./258453-shadow-of-mammon.json) |
 | Shadow of Paris | 385563 | [385563-shadow-of-paris.json](./385563-shadow-of-paris.json) |
 | Shadow of Pharos | 305951 | [305951-shadow-of-pharos.json](./305951-shadow-of-pharos.json) |
+| Shadow of Scintilla | 238634 | [238634-shadow-of-scintilla.json](./238634-shadow-of-scintilla.json) |
 | Shadow of the Beast | 5434 | [5434-shadow-of-the-beast.json](./5434-shadow-of-the-beast.json) |
 | Shadow of the Beast III | 12221 | [12221-shadow-of-the-beast-iii.json](./12221-shadow-of-the-beast-iii.json) |
 | Shadow of the Devil | 291048 | [291048-shadow-of-the-devil.json](./291048-shadow-of-the-devil.json) |
@@ -4598,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitons | 204096 | [204096-solitons.json](./204096-solitons.json) |
 | Solitude | 163970 | [163970-solitude.json](./163970-solitude.json) |
 | Solitude | 287232 | [287232-solitude.json](./287232-solitude.json) |
+| Sollarion | 238586 | [238586-sollarion.json](./238586-sollarion.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
 | Solo Chess | 372985 | [372985-solo-chess.json](./372985-solo-chess.json) |
 | Solo Defender | 333110 | [333110-solo-defender.json](./333110-solo-defender.json) |
@@ -5890,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway Challenge 2022 | 203562 | [203562-speedway-challenge-2022.json](./203562-speedway-challenge-2022.json) |
 | Speedway Challenge 2024 | 292550 | [292550-speedway-challenge-2024.json](./292550-speedway-challenge-2024.json) |
 | Speedway League | 54382 | [54382-speedway-league.json](./54382-speedway-league.json) |
+| Speedway Ringer | 238627 | [238627-speedway-ringer.json](./238627-speedway-ringer.json) |
 | Speedway/Tag | 92529 | [92529-speedway-tag.json](./92529-speedway-tag.json) |
 | Speedy 500 | 303110 | [303110-speedy-500.json](./303110-speedy-500.json) |
 | Speedy Biker Xtreme | 257366 | [257366-speedy-biker-xtreme.json](./257366-speedy-biker-xtreme.json) |
