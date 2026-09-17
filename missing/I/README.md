@@ -1728,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Peril | 57673 | [57673-island-peril.json](./57673-island-peril.json) |
 | Island Racer | 30039 | [30039-island-racer.json](./30039-island-racer.json) |
 | Island Raft Survival 2021: Ocean Escape | 163915 | [163915-island-raft-survival-2021-ocean-escape.json](./163915-island-raft-survival-2021-ocean-escape.json) |
+| Island Saver: Dinosaur Island | 238039 | [238039-island-saver-dinosaur-island.json](./238039-island-saver-dinosaur-island.json) |
 | Island Simulator 2016 | 31914 | [31914-island-simulator-2016.json](./31914-island-simulator-2016.json) |
 | Island Survival: Craft, Build, Grow | 314858 | [314858-island-survival-craft-build-grow.json](./314858-island-survival-craft-build-grow.json) |
 | Island Survival: Escape from Paradise | 413088 | [413088-island-survival-escape-from-paradise.json](./413088-island-survival-escape-from-paradise.json) |
