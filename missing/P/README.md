@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
 | Paranormal: The Town | 61627 | [61627-paranormal-the-town.json](./61627-paranormal-the-town.json) |
 | Paranormasight: The Seven Mysteries of Honjo | 236694 | [236694-paranormasight-the-seven-mysteries-of-honjo.json](./236694-paranormasight-the-seven-mysteries-of-honjo.json) |
+| PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
 | Parashotical Arktivibeatings | 235189 | [235189-parashotical-arktivibeatings.json](./235189-parashotical-arktivibeatings.json) |
 | Parasight: Chlorophyll worms | 195793 | [195793-parasight-chlorophyll-worms.json](./195793-parasight-chlorophyll-worms.json) |
@@ -1795,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Zhi | 304893 | [304893-pin-zhi.json](./304893-pin-zhi.json) |
 | Pin-Bowler | 92541 | [92541-pin-bowler.json](./92541-pin-bowler.json) |
 | Pin-Crawl | 401697 | [401697-pin-crawl.json](./401697-pin-crawl.json) |
+| Pina Colada | 269685 | [269685-pina-colada.json](./269685-pina-colada.json) |
 | Pina Colada 2 | 321367 | [321367-pina-colada-2.json](./321367-pina-colada-2.json) |
 | Piñata | 32885 | [32885-pinata.json](./32885-pinata.json) |
 | Pinata Hunter | 267387 | [267387-pinata-hunter.json](./267387-pinata-hunter.json) |
@@ -3752,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Life: Idle Game | 408750 | [408750-prison-life-idle-game.json](./408750-prison-life-idle-game.json) |
 | Prison Manager 2 | 194002 | [194002-prison-manager-2.json](./194002-prison-manager-2.json) |
 | Prison Miners | 333546 | [333546-prison-miners.json](./333546-prison-miners.json) |
+| Prison of Husks | 269682 | [269682-prison-of-husks.json](./269682-prison-of-husks.json) |
 | Prison of Nightmare | 311245 | [311245-prison-of-nightmare.json](./311245-prison-of-nightmare.json) |
 | Prison Out | 365071 | [365071-prison-out.json](./365071-prison-out.json) |
 | Prison Princess | 127335 | [127335-prison-princess.json](./127335-prison-princess.json) |
