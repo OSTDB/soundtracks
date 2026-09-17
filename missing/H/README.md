@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: VR Mod | 28827 | [28827-half-life-2-vr-mod.json](./28827-half-life-2-vr-mod.json) |
 | Half-Life 2: VR Mod - Episode One | 243118 | [243118-half-life-2-vr-mod-episode-one.json](./243118-half-life-2-vr-mod-episode-one.json) |
 | Half-Life 2: VR Mod - Episode Two | 243119 | [243119-half-life-2-vr-mod-episode-two.json](./243119-half-life-2-vr-mod-episode-two.json) |
+| Half-Life Alyx NoVR | 255791 | [255791-half-life-alyx-novr.json](./255791-half-life-alyx-novr.json) |
 | Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
 | Half-Life: Chernobyl | 127954 | [127954-half-life-chernobyl.json](./127954-half-life-chernobyl.json) |
 | Half-Life: Cross Product Multiplayer | 360604 | [360604-half-life-cross-product-multiplayer.json](./360604-half-life-cross-product-multiplayer.json) |
@@ -419,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Girls | 338263 | [338263-happy-girls.json](./338263-happy-girls.json) |
 | Happy Grumps | 121000 | [121000-happy-grumps.json](./121000-happy-grumps.json) |
 | Happy Hangover | 272005 | [272005-happy-hangover.json](./272005-happy-hangover.json) |
+| Happy Harvest! | 255797 | [255797-happy-harvest.json](./255797-happy-harvest.json) |
 | Happy Hike | 336557 | [336557-happy-hike.json](./336557-happy-hike.json) |
 | Happy Holes | 340412 | [340412-happy-holes.json](./340412-happy-holes.json) |
 | Happy Hotel | 280793 | [280793-happy-hotel.json](./280793-happy-hotel.json) |
@@ -861,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Crown Online | 217292 | [217292-heart-of-crown-online.json](./217292-heart-of-crown-online.json) |
 | Heart of Fire | 268729 | [268729-heart-of-fire.json](./268729-heart-of-fire.json) |
 | Heart of Gold | 402263 | [402263-heart-of-gold.json](./402263-heart-of-gold.json) |
+| Heart of Mobius | 255702 | [255702-heart-of-mobius.json](./255702-heart-of-mobius.json) |
 | Heart Of Nadia | 288236 | [288236-heart-of-nadia.json](./288236-heart-of-nadia.json) |
 | Heart of the Hedgehog | 330288 | [330288-heart-of-the-hedgehog.json](./330288-heart-of-the-hedgehog.json) |
 | Heart of the Woods | 102326 | [102326-heart-of-the-woods.json](./102326-heart-of-the-woods.json) |
@@ -1479,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herbie at The Olympics | 40174 | [40174-herbie-at-the-olympics.json](./40174-herbie-at-the-olympics.json) |
 | Herbis | 158216 | [158216-herbis.json](./158216-herbis.json) |
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
+| Hercules V: Platinum Edition | 255765 | [255765-hercules-v-platinum-edition.json](./255765-hercules-v-platinum-edition.json) |
 | Herdyn, Wanna be MaN | 154575 | [154575-herdyn-wanna-be-man.json](./154575-herdyn-wanna-be-man.json) |
 | Here | 396372 | [396372-here.json](./396372-here.json) |
 | Here Again | 410923 | [410923-here-again.json](./410923-here-again.json) |
