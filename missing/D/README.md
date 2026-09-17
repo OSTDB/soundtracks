@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Course VR | 124231 | [124231-danger-course-vr.json](./124231-danger-course-vr.json) |
 | Danger Crew | 117623 | [117623-danger-crew.json](./117623-danger-crew.json) |
 | Danger Dash | 332559 | [332559-danger-dash.json](./332559-danger-dash.json) |
+| Danger Drone | 278550 | [278550-danger-drone.json](./278550-danger-drone.json) |
 | Danger Horizon | 329178 | [329178-danger-horizon.json](./329178-danger-horizon.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
@@ -1342,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Avenger | 73851 | [73851-deer-avenger.json](./73851-deer-avenger.json) |
 | Deer Avenger 2 | 316617 | [316617-deer-avenger-2.json](./316617-deer-avenger-2.json) |
 | Deer Drive | 47771 | [47771-deer-drive.json](./47771-deer-drive.json) |
+| Deer God | 278527 | [278527-deer-god.json](./278527-deer-god.json) |
 | Deer Hunt Challenge | 78044 | [78044-deer-hunt-challenge.json](./78044-deer-hunt-challenge.json) |
 | Deer Hunter | 206345 | [206345-deer-hunter.json](./206345-deer-hunter.json) |
 | Deer Hunter | 49896 | [49896-deer-hunter.json](./49896-deer-hunter.json) |
@@ -2965,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki! Doki! Yuuenchi: Crazy Land Daisakusen | 48663 | [48663-doki-doki-yuuenchi-crazy-land-daisakusen.json](./48663-doki-doki-yuuenchi-crazy-land-daisakusen.json) |
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
 | Dokkaebi Hentai Adventures | 88073 | [88073-dokkaebi-hentai-adventures.json](./88073-dokkaebi-hentai-adventures.json) |
+| Dokkalfheim Magical University | 278526 | [278526-dokkalfheim-magical-university.json](./278526-dokkalfheim-magical-university.json) |
 | Doko Demo Issho: Toro's Story App | 246073 | [246073-doko-demo-issho-toros-story-app.json](./246073-doko-demo-issho-toros-story-app.json) |
 | Doko Demo Raku Raku! DS Kakeibo | 269573 | [269573-doko-demo-raku-raku-ds-kakeibo.json](./269573-doko-demo-raku-raku-ds-kakeibo.json) |
 | Doko he Iku no, Ano Hi | 408770 | [408770-doko-he-iku-no-ano-hi.json](./408770-doko-he-iku-no-ano-hi.json) |
@@ -3358,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Nobita no Himitsu Dougu Hakubutsukan | 60544 | [60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json](./60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json) |
 | Doraemon: Nobita to 3-tsu no Seireiseki | 70797 | [70797-doraemon-nobita-to-3-tsu-no-seireiseki.json](./70797-doraemon-nobita-to-3-tsu-no-seireiseki.json) |
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
+| Dorasyeoda | 278528 | [278528-dorasyeoda.json](./278528-dorasyeoda.json) |
 | Dorc | 415087 | [415087-dorc.json](./415087-dorc.json) |
 | Dord | 223668 | [223668-dord.json](./223668-dord.json) |
 | Dorei Toushi Battle Slave | 66651 | [66651-dorei-toushi-battle-slave.json](./66651-dorei-toushi-battle-slave.json) |
@@ -4689,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuoXBall | 233242 | [233242-duoxball.json](./233242-duoxball.json) |
 | DuoZuplixo | 369025 | [369025-duozuplixo.json](./369025-duozuplixo.json) |
 | dUpLicity ~Beyond the Lies~ | 36104 | [36104-duplicity-beyond-the-lies.json](./36104-duplicity-beyond-the-lies.json) |
+| Duplicity Loop | 278525 | [278525-duplicity-loop.json](./278525-duplicity-loop.json) |
 | Duppy Detective Tashia | 215885 | [215885-duppy-detective-tashia.json](./215885-duppy-detective-tashia.json) |
 | Durak Online | 369668 | [369668-durak-online.json](./369668-durak-online.json) |
 | Durarara!! Relay | 61661 | [61661-durarara-relay.json](./61661-durarara-relay.json) |
