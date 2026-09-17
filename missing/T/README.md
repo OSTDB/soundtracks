@@ -1494,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's a Cow: Deluxe Edition | 232994 | [232994-thats-a-cow-deluxe-edition.json](./232994-thats-a-cow-deluxe-edition.json) |
 | That's a Cow: Eggshell | 233001 | [233001-thats-a-cow-eggshell.json](./233001-thats-a-cow-eggshell.json) |
 | That's a Cow: Premium Edition | 250364 | [250364-thats-a-cow-premium-edition.json](./250364-thats-a-cow-premium-edition.json) |
+| That's a Cow: Special Edition | 247595 | [247595-thats-a-cow-special-edition.json](./247595-thats-a-cow-special-edition.json) |
 | That's a Thing | 344942 | [344942-thats-a-thing.json](./344942-thats-a-thing.json) |
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
 | That's My Tofu | 391188 | [391188-thats-my-tofu.json](./391188-thats-my-tofu.json) |
@@ -3411,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Wizard: A Goblin Detective Mystery | 389956 | [389956-the-last-wizard-a-goblin-detective-mystery.json](./389956-the-last-wizard-a-goblin-detective-mystery.json) |
 | The Last Worlds: Crossed Souls | 374130 | [374130-the-last-worlds-crossed-souls.json](./374130-the-last-worlds-crossed-souls.json) |
 | The Last Wulin | 156148 | [156148-the-last-wulin.json](./156148-the-last-wulin.json) |
+| The Last Z VR | 247610 | [247610-the-last-z-vr.json](./247610-the-last-z-vr.json) |
 | The Last Zone | 369123 | [369123-the-last-zone.json](./369123-the-last-zone.json) |
 | The Late D. Flate's Great Estate | 188090 | [188090-the-late-d-flates-great-estate.json](./188090-the-late-d-flates-great-estate.json) |
 | The Lattice Grimoire | 120396 | [120396-the-lattice-grimoire.json](./120396-the-lattice-grimoire.json) |
@@ -4089,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Peacekeeper | 307300 | [307300-the-peacekeeper.json](./307300-the-peacekeeper.json) |
 | The Peak Addiction | 61637 | [61637-the-peak-addiction.json](./61637-the-peak-addiction.json) |
 | The Peanuts Movie: Snoopy's Grand Adventure | 18993 | [18993-the-peanuts-movie-snoopys-grand-adventure.json](./18993-the-peanuts-movie-snoopys-grand-adventure.json) |
+| The Pellar | 247603 | [247603-the-pellar.json](./247603-the-pellar.json) |
 | The Penguin Horror: Legacy of The Pengcasso | 285475 | [285475-the-penguin-horror-legacy-of-the-pengcasso.json](./285475-the-penguin-horror-legacy-of-the-pengcasso.json) |
 | The Penguin P | 215107 | [215107-the-penguin-p.json](./215107-the-penguin-p.json) |
 | The Penguins of Madagascar | 18273 | [18273-the-penguins-of-madagascar.json](./18273-the-penguins-of-madagascar.json) |
@@ -5479,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's Nothing Underground | 331290 | [331290-theres-nothing-underground.json](./331290-theres-nothing-underground.json) |
 | There's Poop In My Soup | 33315 | [33315-theres-poop-in-my-soup.json](./33315-theres-poop-in-my-soup.json) |
 | There’s Something Wrong With the Hero’s Choices | 401007 | [401007-there-s-something-wrong-with-the-hero-s-choices.json](./401007-there-s-something-wrong-with-the-hero-s-choices.json) |
+| Thereafter | 247622 | [247622-thereafter.json](./247622-thereafter.json) |
 | Therian Crush: Wild Animal Girls | 414453 | [414453-therian-crush-wild-animal-girls.json](./414453-therian-crush-wild-animal-girls.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
@@ -6449,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Devils | 325476 | [325476-tiny-devils.json](./325476-tiny-devils.json) |
 | Tiny Dino | 343257 | [343257-tiny-dino.json](./343257-tiny-dino.json) |
 | Tiny Divide | 325631 | [325631-tiny-divide.json](./325631-tiny-divide.json) |
+| Tiny Dragon Story | 247583 | [247583-tiny-dragon-story.json](./247583-tiny-dragon-story.json) |
 | Tiny Dream Home | 358313 | [358313-tiny-dream-home.json](./358313-tiny-dream-home.json) |
 | Tiny Eden | 346609 | [346609-tiny-eden.json](./346609-tiny-eden.json) |
 | Tiny Escape | 392270 | [392270-tiny-escape.json](./392270-tiny-escape.json) |
@@ -8561,6 +8566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Backgammon HD | 87922 | [87922-true-backgammon-hd.json](./87922-true-backgammon-hd.json) |
 | True Colors | 388238 | [388238-true-colors.json](./388238-true-colors.json) |
 | True Crime: New York City | 4215 | [4215-true-crime-new-york-city.json](./4215-true-crime-new-york-city.json) |
+| True Disc Golf | 247586 | [247586-true-disc-golf.json](./247586-true-disc-golf.json) |
 | True Fantasy Live Online | 18106 | [18106-true-fantasy-live-online.json](./18106-true-fantasy-live-online.json) |
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
 | True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
