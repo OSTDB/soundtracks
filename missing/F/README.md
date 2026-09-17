@@ -2742,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Cookie: More Cookies | 340239 | [340239-fortune-cookie-more-cookies.json](./340239-fortune-cookie-more-cookies.json) |
 | Fortune Handlers | 235493 | [235493-fortune-handlers.json](./235493-fortune-handlers.json) |
 | Fortune Hunters | 117729 | [117729-fortune-hunters.json](./117729-fortune-hunters.json) |
+| Fortune Rewritten: Costume Pack 1 | 277939 | [277939-fortune-rewritten-costume-pack-1.json](./277939-fortune-rewritten-costume-pack-1.json) |
 | Fortune Street | 19930 | [19930-fortune-street.json](./19930-fortune-street.json) |
 | Fortune Street Smart | 64398 | [64398-fortune-street-smart.json](./64398-fortune-street-smart.json) |
 | Fortune Telling | 121042 | [121042-fortune-telling.json](./121042-fortune-telling.json) |
