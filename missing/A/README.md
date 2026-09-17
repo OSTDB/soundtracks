@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
 | AAS Mos Apocalypse | 283871 | [283871-aas-mos-apocalypse.json](./283871-aas-mos-apocalypse.json) |
 | Aashaa | 232969 | [232969-aashaa.json](./232969-aashaa.json) |
+| Aatral | 264106 | [264106-aatral.json](./264106-aatral.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abalone | 9939 | [9939-abalone.json](./9939-abalone.json) |
 | Abandon: The Town | 268033 | [268033-abandon-the-town.json](./268033-abandon-the-town.json) |
@@ -695,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
+| Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
@@ -2818,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Tower Survivors | 342641 | [342641-arcane-tower-survivors.json](./342641-arcane-tower-survivors.json) |
 | Arcane Worlds | 16923 | [16923-arcane-worlds.json](./16923-arcane-worlds.json) |
 | Arcane: League of Legends - Ready to unlock the world of Arcane? | 324100 | [324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json](./324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json) |
+| Arcane's Watch | 264155 | [264155-arcanes-watch.json](./264155-arcanes-watch.json) |
 | Arcaneering: Beyond Automation | 356681 | [356681-arcaneering-beyond-automation.json](./356681-arcaneering-beyond-automation.json) |
 | Arcania: Fall of Setarrif | 8331 | [8331-arcania-fall-of-setarrif.json](./8331-arcania-fall-of-setarrif.json) |
 | Arcanight | 25760 | [25760-arcanight.json](./25760-arcanight.json) |
@@ -3308,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent DX | 336896 | [336896-ascent-dx.json](./336896-ascent-dx.json) |
 | Ascent of Ashes | 226229 | [226229-ascent-of-ashes.json](./226229-ascent-of-ashes.json) |
 | Ascent of Kings | 85506 | [85506-ascent-of-kings.json](./85506-ascent-of-kings.json) |
+| Ascent Quest | 264138 | [264138-ascent-quest.json](./264138-ascent-quest.json) |
 | Ascent: Rivals | 288339 | [288339-ascent-rivals.json](./288339-ascent-rivals.json) |
 | ASCII Game Series: Beginning | 334774 | [334774-ascii-game-series-beginning.json](./334774-ascii-game-series-beginning.json) |
 | ASCII Game Series: Blocks | 334775 | [334775-ascii-game-series-blocks.json](./334775-ascii-game-series-blocks.json) |
