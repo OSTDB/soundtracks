@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Christmas | 248907 | [248907-first-christmas.json](./248907-first-christmas.json) |
 | First Class Rescue | 407312 | [407312-first-class-rescue.json](./407312-first-class-rescue.json) |
 | First Comes Love | 313885 | [313885-first-comes-love.json](./313885-first-comes-love.json) |
+| First Crusader | 274044 | [274044-first-crusader.json](./274044-first-crusader.json) |
 | First Date: Late to Date | 210233 | [210233-first-date-late-to-date.json](./210233-first-date-late-to-date.json) |
 | First Expedition | 2892 | [2892-first-expedition.json](./2892-first-expedition.json) |
 | First Flight | 307582 | [307582-first-flight.json](./307582-first-flight.json) |
@@ -2342,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FOF: Fear Of Failure | 372496 | [372496-fof-fear-of-failure.json](./372496-fof-fear-of-failure.json) |
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
 | Foillower | 382923 | [382923-foillower.json](./382923-foillower.json) |
+| FolcDark: Part II | 274025 | [274025-folcdark-part-ii.json](./274025-folcdark-part-ii.json) |
 | Fold & Cut | 255744 | [255744-fold-and-cut.json](./255744-fold-and-cut.json) |
 | Fold the World | 348800 | [348800-fold-the-world.json](./348800-fold-the-world.json) |
 | Folder Dungeon | 267357 | [267357-folder-dungeon.json](./267357-folder-dungeon.json) |
@@ -3087,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': V.S. Whitty | 165075 | [165075-friday-night-funkin-v-s-whitty.json](./165075-friday-night-funkin-v-s-whitty.json) |
 | Friday Night Funkin': Vs Ankha | 186302 | [186302-friday-night-funkin-vs-ankha.json](./186302-friday-night-funkin-vs-ankha.json) |
 | Friday Night Funkin': Vs Impostor | 202380 | [202380-friday-night-funkin-vs-impostor.json](./202380-friday-night-funkin-vs-impostor.json) |
+| Friday Night Funkin': VS Protegent | 274022 | [274022-friday-night-funkin-vs-protegent.json](./274022-friday-night-funkin-vs-protegent.json) |
 | Friday Night Funkin': VS Spider-Man - Volume II | 225302 | [225302-friday-night-funkin-vs-spider-man-volume-ii.json](./225302-friday-night-funkin-vs-spider-man-volume-ii.json) |
 | Friday Night Funkin': VS. Cassette Girl | 199045 | [199045-friday-night-funkin-vs-cassette-girl.json](./199045-friday-night-funkin-vs-cassette-girl.json) |
 | Friday Night Funkin': vs. Donald J. Trump | 332226 | [332226-friday-night-funkin-vs-donald-j-trump.json](./332226-friday-night-funkin-vs-donald-j-trump.json) |
