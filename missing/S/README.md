@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semo | 369104 | [369104-semo.json](./369104-semo.json) |
 | SEMP 64 | 331964 | [331964-semp-64.json](./331964-semp-64.json) |
 | Semper Fidelis: Marine Corps | 73830 | [73830-semper-fidelis-marine-corps.json](./73830-semper-fidelis-marine-corps.json) |
+| Sempiternal | 272375 | [272375-sempiternal.json](./272375-sempiternal.json) |
 | Semu | 265123 | [265123-semu.json](./265123-semu.json) |
 | Sen no Hatou, Tsukisome no Kouki: Hana Akari | 374662 | [374662-sen-no-hatou-tsukisome-no-kouki-hana-akari.json](./374662-sen-no-hatou-tsukisome-no-kouki-hana-akari.json) |
 | Sen no Inori no Paradox | 295928 | [295928-sen-no-inori-no-paradox.json](./295928-sen-no-inori-no-paradox.json) |
@@ -4449,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solse AI-Quest | 290938 | [290938-solse-ai-quest.json](./290938-solse-ai-quest.json) |
 | Solstice | 306355 | [306355-solstice.json](./306355-solstice.json) |
 | Solstice | 324503 | [324503-solstice.json](./324503-solstice.json) |
+| Solune | 272359 | [272359-solune.json](./272359-solune.json) |
 | Solus | 137016 | [137016-solus.json](./137016-solus.json) |
 | Solus Machina | 348340 | [348340-solus-machina.json](./348340-solus-machina.json) |
 | Solve & Roll | 259552 | [259552-solve-and-roll.json](./259552-solve-and-roll.json) |
@@ -6010,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpookWave | 183065 | [183065-spookwave.json](./183065-spookwave.json) |
 | Spooky Castle | 47235 | [47235-spooky-castle.json](./47235-spooky-castle.json) |
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
+| Spooky Dwellers 2: Collector's Edition | 272350 | [272350-spooky-dwellers-2-collectors-edition.json](./272350-spooky-dwellers-2-collectors-edition.json) |
 | Spooky House | 179715 | [179715-spooky-house.json](./179715-spooky-house.json) |
 | Spooky Land Defenders | 415946 | [415946-spooky-land-defenders.json](./415946-spooky-land-defenders.json) |
 | Spooky Mahjong | 336565 | [336565-spooky-mahjong.json](./336565-spooky-mahjong.json) |
@@ -7740,6 +7743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
+| Submersible | 272372 | [272372-submersible.json](./272372-submersible.json) |
 | Subnautica + Subnautica Below Zero Double Pack | 143025 | [143025-subnautica-subnautica-below-zero-double-pack.json](./143025-subnautica-subnautica-below-zero-double-pack.json) |
 | Subnautica 2 | 320140 | [320140-subnautica-2.json](./320140-subnautica-2.json) |
 | Subnet | 80545 | [80545-subnet.json](./80545-subnet.json) |
