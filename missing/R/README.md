@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RIP Party | 375806 | [375806-rip-party.json](./375806-rip-party.json) |
 | RIP Trilogy | 27790 | [27790-rip-trilogy.json](./27790-rip-trilogy.json) |
 | Rip Van Bubsy | 269835 | [269835-rip-van-bubsy.json](./269835-rip-van-bubsy.json) |
+| RIP: Ridiculously Injury Prone | 253443 | [253443-rip-ridiculously-injury-prone.json](./253443-rip-ridiculously-injury-prone.json) |
 | Ripcord | 95419 | [95419-ripcord.json](./95419-ripcord.json) |
 | Ripgraze | 415096 | [415096-ripgraze.json](./415096-ripgraze.json) |
 | Ripped/Apart | 133397 | [133397-ripped-apart.json](./133397-ripped-apart.json) |
@@ -2237,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River-ty Town | 384062 | [384062-river-ty-town.json](./384062-river-ty-town.json) |
 | Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
+| Riversiders | 253418 | [253418-riversiders.json](./253418-riversiders.json) |
 | Rixer | 260242 | [260242-rixer.json](./260242-rixer.json) |
 | RKGK | 296838 | [296838-rkgk.json](./296838-rkgk.json) |
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
@@ -3422,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Roulette: One Life | 194564 | [194564-russian-roulette-one-life.json](./194564-russian-roulette-one-life.json) |
 | Russian Soul Simulator | 285562 | [285562-russian-soul-simulator.json](./285562-russian-soul-simulator.json) |
 | Russian Square Plus! Edition | 256375 | [256375-russian-square-plus-edition.json](./256375-russian-square-plus-edition.json) |
+| Russian Village Simulator | 253458 | [253458-russian-village-simulator.json](./253458-russian-village-simulator.json) |
 | Russian VR Coasters | 32005 | [32005-russian-vr-coasters.json](./32005-russian-vr-coasters.json) |
 | Russian Warship | 267444 | [267444-russian-warship.json](./267444-russian-warship.json) |
 | Russki Duck | 282102 | [282102-russki-duck.json](./282102-russki-duck.json) |
