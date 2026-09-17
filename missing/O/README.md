@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Vagabundo | 290018 | [290018-o-vagabundo.json](./290018-o-vagabundo.json) |
 | O-Bot The Robot | 336608 | [336608-o-bot-the-robot.json](./336608-o-bot-the-robot.json) |
 | O-Bot The Robot 2 | 266225 | [266225-o-bot-the-robot-2.json](./266225-o-bot-the-robot-2.json) |
+| O! Holy Knight | 285588 | [285588-o-holy-knight.json](./285588-o-holy-knight.json) |
 | O.B.O.L | 402359 | [402359-o-b-o-l.json](./402359-o-b-o-l.json) |
 | O.J.'s All-American Race to Acquittal | 298307 | [298307-o-j-s-all-american-race-to-acquittal.json](./298307-o-j-s-all-american-race-to-acquittal.json) |
 | O.M.G. 26: Our Mini Games | 110320 | [110320-o-m-g-26-our-mini-games.json](./110320-o-m-g-26-our-mini-games.json) |
