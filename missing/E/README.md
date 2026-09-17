@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ending It Today | 355536 | [355536-ending-it-today.json](./355536-ending-it-today.json) |
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
 | Endings | 165668 | [165668-endings.json](./165668-endings.json) |
+| Endless Apocalypse | 249246 | [249246-endless-apocalypse.json](./249246-endless-apocalypse.json) |
 | Endless Battle | 109664 | [109664-endless-battle.json](./109664-endless-battle.json) |
 | Endless Battlefield | 186317 | [186317-endless-battlefield.json](./186317-endless-battlefield.json) |
 | Endless Casual Drive | 301276 | [301276-endless-casual-drive.json](./301276-endless-casual-drive.json) |
