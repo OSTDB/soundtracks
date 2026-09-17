@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail and Сhaos | 410312 | [410312-tail-and-haos.json](./410312-tail-and-haos.json) |
 | Tail Drift | 17980 | [17980-tail-drift.json](./17980-tail-drift.json) |
 | Tail Gunner | 307611 | [307611-tail-gunner.json](./307611-tail-gunner.json) |
+| Tail io | 284498 | [284498-tail-io.json](./284498-tail-io.json) |
 | Tail of Glory | 390513 | [390513-tail-of-glory.json](./390513-tail-of-glory.json) |
 | Tail of the Sun | 20814 | [20814-tail-of-the-sun.json](./20814-tail-of-the-sun.json) |
 | Tailed Demon Slayer | 174824 | [174824-tailed-demon-slayer.json](./174824-tailed-demon-slayer.json) |
@@ -4477,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Colorful Stories - Happy Edition | 328792 | [328792-the-smurfs-colorful-stories-happy-edition.json](./328792-the-smurfs-colorful-stories-happy-edition.json) |
 | The Smurfs: Colorful Stories - Legendary Edition | 328793 | [328793-the-smurfs-colorful-stories-legendary-edition.json](./328793-the-smurfs-colorful-stories-legendary-edition.json) |
 | The Smurfs: Colorful Stories - Magnificent Edition | 328794 | [328794-the-smurfs-colorful-stories-magnificent-edition.json](./328794-the-smurfs-colorful-stories-magnificent-edition.json) |
+| The Smurfs: Colorful Stories - Personal Boards 2 | 284507 | [284507-the-smurfs-colorful-stories-personal-boards-2.json](./284507-the-smurfs-colorful-stories-personal-boards-2.json) |
 | The Smurfs: Colorful Stories - Personal Boards 5 | 294854 | [294854-the-smurfs-colorful-stories-personal-boards-5.json](./294854-the-smurfs-colorful-stories-personal-boards-5.json) |
 | The Smurfs: Colorful Stories - Personal Boards 6 | 298588 | [298588-the-smurfs-colorful-stories-personal-boards-6.json](./298588-the-smurfs-colorful-stories-personal-boards-6.json) |
 | The Smurfs: Colorful Stories - Platinum Edition | 328795 | [328795-the-smurfs-colorful-stories-platinum-edition.json](./328795-the-smurfs-colorful-stories-platinum-edition.json) |
@@ -4647,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tales of Bearsworth Manor: Puzzling Pages | 85446 | [85446-the-tales-of-bearsworth-manor-puzzling-pages.json](./85446-the-tales-of-bearsworth-manor-puzzling-pages.json) |
 | The Tales of the Magical Space Dough: Rebaked | 379439 | [379439-the-tales-of-the-magical-space-dough-rebaked.json](./379439-the-tales-of-the-magical-space-dough-rebaked.json) |
 | The Tales of Wonderlend | 379441 | [379441-the-tales-of-wonderlend.json](./379441-the-tales-of-wonderlend.json) |
+| The Talos Principle II: Devolver Deluxe Edition | 284476 | [284476-the-talos-principle-ii-devolver-deluxe-edition.json](./284476-the-talos-principle-ii-devolver-deluxe-edition.json) |
 | The Talos Principle II: Road to Elysium | 305040 | [305040-the-talos-principle-ii-road-to-elysium.json](./305040-the-talos-principle-ii-road-to-elysium.json) |
 | The Talos Principle III | 401496 | [401496-the-talos-principle-iii.json](./401496-the-talos-principle-iii.json) |
 | The Talos Principle VR | 36775 | [36775-the-talos-principle-vr.json](./36775-the-talos-principle-vr.json) |
@@ -7852,6 +7855,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Cuisine 3: The Sea of Flavours - Collector's Edition | 358404 | [358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json](./358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json) |
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
 | Travel Junction | 335859 | [335859-travel-junction.json](./335859-travel-junction.json) |
+| Travel Mosaics 12: Majestic London | 284460 | [284460-travel-mosaics-12-majestic-london.json](./284460-travel-mosaics-12-majestic-london.json) |
+| Travel Mosaics 13: Spectacular Amsterdam | 284461 | [284461-travel-mosaics-13-spectacular-amsterdam.json](./284461-travel-mosaics-13-spectacular-amsterdam.json) |
+| Travel Mosaics 14: Perfect Stockholm | 284462 | [284462-travel-mosaics-14-perfect-stockholm.json](./284462-travel-mosaics-14-perfect-stockholm.json) |
+| Travel Mosaics 15: Magic Venice | 284463 | [284463-travel-mosaics-15-magic-venice.json](./284463-travel-mosaics-15-magic-venice.json) |
+| Travel Mosaics 16: Glorious Budapest | 284464 | [284464-travel-mosaics-16-glorious-budapest.json](./284464-travel-mosaics-16-glorious-budapest.json) |
 | Travel Mosaics 3: Tokyo Animated | 134058 | [134058-travel-mosaics-3-tokyo-animated.json](./134058-travel-mosaics-3-tokyo-animated.json) |
 | Travel Riddles: Mahjong | 106588 | [106588-travel-riddles-mahjong.json](./106588-travel-riddles-mahjong.json) |
 | Travel Riddles: Trip to France | 41937 | [41937-travel-riddles-trip-to-france.json](./41937-travel-riddles-trip-to-france.json) |
