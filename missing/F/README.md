@@ -2710,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fork of Damocles | 177028 | [177028-fork-of-damocles.json](./177028-fork-of-damocles.json) |
 | Fork of the Crimson Soul | 369051 | [369051-fork-of-the-crimson-soul.json](./369051-fork-of-the-crimson-soul.json) |
 | Fork Road | 303067 | [303067-fork-road.json](./303067-fork-road.json) |
+| Forklift 2024: The Simulation | 251016 | [251016-forklift-2024-the-simulation.json](./251016-forklift-2024-the-simulation.json) |
 | Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
 | Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
 | Forklift Racer | 253948 | [253948-forklift-racer.json](./253948-forklift-racer.json) |
