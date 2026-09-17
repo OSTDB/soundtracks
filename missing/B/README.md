@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Brother | 231047 | [231047-back-to-brother.json](./231047-back-to-brother.json) |
 | Back to Dinosaur Island | 34169 | [34169-back-to-dinosaur-island.json](./34169-back-to-dinosaur-island.json) |
 | Back to Home | 220350 | [220350-back-to-home.json](./220350-back-to-home.json) |
+| Back to Home | 258558 | [258558-back-to-home.json](./258558-back-to-home.json) |
 | Back To School | 278739 | [278739-back-to-school.json](./278739-back-to-school.json) |
 | Back To School | 379991 | [379991-back-to-school.json](./379991-back-to-school.json) |
 | Back to the Edo | 307963 | [307963-back-to-the-edo.json](./307963-back-to-the-edo.json) |
@@ -2189,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biodigital | 107807 | [107807-biodigital.json](./107807-biodigital.json) |
 | BioForge | 2213 | [2213-bioforge.json](./2213-bioforge.json) |
 | BioFury | 277426 | [277426-biofury.json](./277426-biofury.json) |
+| BioFusion | 258546 | [258546-biofusion.json](./258546-biofusion.json) |
 | BioGloom | 207835 | [207835-biogloom.json](./207835-biogloom.json) |
 | Biohazard 0 | 307948 | [307948-biohazard-0.json](./307948-biohazard-0.json) |
 | Biohazard Code: Veronica - Limited Edition | 407337 | [407337-biohazard-code-veronica-limited-edition.json](./407337-biohazard-code-veronica-limited-edition.json) |
@@ -2485,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackBox | 130951 | [130951-blackbox.json](./130951-blackbox.json) |
 | Blackbox: Infamous Puzzles | 101543 | [101543-blackbox-infamous-puzzles.json](./101543-blackbox-infamous-puzzles.json) |
 | Blackened | 270699 | [270699-blackened.json](./270699-blackened.json) |
+| Blackfall | 258551 | [258551-blackfall.json](./258551-blackfall.json) |
 | Blackgate | 138226 | [138226-blackgate.json](./138226-blackgate.json) |
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
 | Blackhole on the Road | 269047 | [269047-blackhole-on-the-road.json](./269047-blackhole-on-the-road.json) |
@@ -2550,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of Jinshu | 364573 | [364573-blade-of-jinshu.json](./364573-blade-of-jinshu.json) |
 | Blade of Ten | 207318 | [207318-blade-of-ten.json](./207318-blade-of-ten.json) |
 | Blade of the Overlord | 362879 | [362879-blade-of-the-overlord.json](./362879-blade-of-the-overlord.json) |
+| Blade of Tsunami | 258532 | [258532-blade-of-tsunami.json](./258532-blade-of-tsunami.json) |
 | Blade Reborn: Forge Your Destiny | 102787 | [102787-blade-reborn-forge-your-destiny.json](./102787-blade-reborn-forge-your-destiny.json) |
 | Blade Runner 2033: Labyrinth | 255093 | [255093-blade-runner-2033-labyrinth.json](./255093-blade-runner-2033-labyrinth.json) |
 | Blade Strangers | 37032 | [37032-blade-strangers.json](./37032-blade-strangers.json) |
@@ -3484,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomer | 214541 | [214541-boomer.json](./214541-boomer.json) |
 | Boomer Brawler | 355616 | [355616-boomer-brawler.json](./355616-boomer-brawler.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
+| Boomeraxe | 258522 | [258522-boomeraxe.json](./258522-boomeraxe.json) |
 | Boomlings | 61067 | [61067-boomlings.json](./61067-boomlings.json) |
 | Boomlings MatchUp | 61066 | [61066-boomlings-matchup.json](./61066-boomlings-matchup.json) |
 | BoomScroll | 400236 | [400236-boomscroll.json](./400236-boomscroll.json) |
