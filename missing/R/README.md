@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replica: Atomic Punk | 61045 | [61045-replica-atomic-punk.json](./61045-replica-atomic-punk.json) |
 | Replicart | 41390 | [41390-replicart.json](./41390-replicart.json) |
 | Replics | 129765 | [129765-replics.json](./129765-replics.json) |
+| Replik Survivors | 266296 | [266296-replik-survivors.json](./266296-replik-survivors.json) |
 | Report One | 322808 | [322808-report-one.json](./322808-report-one.json) |
 | Report One: Operation Alive | 322809 | [322809-report-one-operation-alive.json](./322809-report-one-operation-alive.json) |
 | Reporter | 105975 | [105975-reporter.json](./105975-reporter.json) |
@@ -2619,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Rhythm | 312747 | [312747-rogue-rhythm.json](./312747-rogue-rhythm.json) |
 | Rogue Robot: Escape Protocol | 304616 | [304616-rogue-robot-escape-protocol.json](./304616-rogue-robot-escape-protocol.json) |
 | Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
+| Rogue Samurai | 266278 | [266278-rogue-samurai.json](./266278-rogue-samurai.json) |
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
 | Rogue Slash | 117647 | [117647-rogue-slash.json](./117647-rogue-slash.json) |
 | Rogue Slasher | 269092 | [269092-rogue-slasher.json](./269092-rogue-slasher.json) |
@@ -3300,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runic: Eternal Sunrise | 244781 | [244781-runic-eternal-sunrise.json](./244781-runic-eternal-sunrise.json) |
 | Runion | 25735 | [25735-runion.json](./25735-runion.json) |
 | Runner Roy | 250396 | [250396-runner-roy.json](./250396-runner-roy.json) |
+| Runner's High | 266281 | [266281-runners-high.json](./266281-runners-high.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
 | RunnerDot | 153986 | [153986-runnerdot.json](./153986-runnerdot.json) |
 | RunnerSky | 181395 | [181395-runnersky.json](./181395-runnersky.json) |
