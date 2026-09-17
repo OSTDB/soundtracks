@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| R Body Adventure | 272388 | [272388-r-body-adventure.json](./272388-r-body-adventure.json) |
 | R for Revenge | 400364 | [400364-r-for-revenge.json](./400364-r-for-revenge.json) |
 | R no Shosai | 93531 | [93531-r-no-shosai.json](./93531-r-no-shosai.json) |
 | R-Coil | 68792 | [68792-r-coil.json](./68792-r-coil.json) |
@@ -3133,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rúguǒ Yīshēng Zhǐ Yǒu Sān Shí Suì | 121646 | [121646-ruguo-yisheng-zhi-you-san-shi-sui.json](./121646-ruguo-yisheng-zhi-you-san-shi-sui.json) |
 | Ruh & the Glow | 178597 | [178597-ruh-and-the-glow.json](./178597-ruh-and-the-glow.json) |
 | Ruiga Pirates: Cursed Seas | 301823 | [301823-ruiga-pirates-cursed-seas.json](./301823-ruiga-pirates-cursed-seas.json) |
+| Ruin | 272378 | [272378-ruin.json](./272378-ruin.json) |
 | Ruin Arm | 38292 | [38292-ruin-arm.json](./38292-ruin-arm.json) |
 | Ruin Raiders | 132787 | [132787-ruin-raiders.json](./132787-ruin-raiders.json) |
 | Ruin: Chapter 0 | 400981 | [400981-ruin-chapter-0.json](./400981-ruin-chapter-0.json) |
