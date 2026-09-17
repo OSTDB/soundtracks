@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go! Flambeau! | 219799 | [219799-go-go-flambeau.json](./219799-go-go-flambeau.json) |
 | Go Guess | 89981 | [89981-go-guess.json](./89981-go-guess.json) |
 | Go Hell Go Gou: Tsukiotoshitego | 378910 | [378910-go-hell-go-gou-tsukiotoshitego.json](./378910-go-hell-go-gou-tsukiotoshitego.json) |
+| Go Hell Go: Tsukiotoshiteko | 268002 | [268002-go-hell-go-tsukiotoshiteko.json](./268002-go-hell-go-tsukiotoshiteko.json) |
 | Go Home | 210886 | [210886-go-home.json](./210886-go-home.json) |
 | Go Home 1986 | 392928 | [392928-go-home-1986.json](./392928-go-home-1986.json) |
 | Go Kart Mania: Discovery Edition | 332509 | [332509-go-kart-mania-discovery-edition.json](./332509-go-kart-mania-discovery-edition.json) |
@@ -1869,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab it! Crane Game | 334095 | [334095-grab-it-crane-game.json](./334095-grab-it-crane-game.json) |
 | Grab Man | 47264 | [47264-grab-man.json](./47264-grab-man.json) |
 | Grab the Goblins! | 250650 | [250650-grab-the-goblins.json](./250650-grab-the-goblins.json) |
+| Grab the Sushi | 268023 | [268023-grab-the-sushi.json](./268023-grab-the-sushi.json) |
 | Grabanakki | 180782 | [180782-grabanakki.json](./180782-grabanakki.json) |
 | GrabBag | 107936 | [107936-grabbag.json](./107936-grabbag.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
