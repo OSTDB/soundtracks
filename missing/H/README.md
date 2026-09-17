@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangar 51: Classified Investigation | 382276 | [382276-hangar-51-classified-investigation.json](./382276-hangar-51-classified-investigation.json) |
 | Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
 | Hangman | 230850 | [230850-hangman.json](./230850-hangman.json) |
+| Hangman | 259633 | [259633-hangman.json](./259633-hangman.json) |
 | Hangman | 327217 | [327217-hangman.json](./327217-hangman.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
 | Hangman: Fun Word Game | 89236 | [89236-hangman-fun-word-game.json](./89236-hangman-fun-word-game.json) |
@@ -660,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva Future Tone DX | 117659 | [117659-hatsune-miku-project-diva-future-tone-dx.json](./117659-hatsune-miku-project-diva-future-tone-dx.json) |
 | Hatsune Miku: Roller Skating Music | 199044 | [199044-hatsune-miku-roller-skating-music.json](./199044-hatsune-miku-roller-skating-music.json) |
 | Hatsune Miku: Tap Wonder | 138178 | [138178-hatsune-miku-tap-wonder.json](./138178-hatsune-miku-tap-wonder.json) |
+| Hatsuyuki Sakura: White Graduation | 259616 | [259616-hatsuyuki-sakura-white-graduation.json](./259616-hatsuyuki-sakura-white-graduation.json) |
 | Hattrick | 270408 | [270408-hattrick.json](./270408-hattrick.json) |
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
 | Haunt | 383487 | [383487-haunt.json](./383487-haunt.json) |
@@ -728,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hausmeister | 207313 | [207313-hausmeister.json](./207313-hausmeister.json) |
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Haut | 349382 | [349382-haut.json](./349382-haut.json) |
+| Have Fun Together | 259671 | [259671-have-fun-together.json](./259671-have-fun-together.json) |
 | Have You Heard | 299263 | [299263-have-you-heard.json](./299263-have-you-heard.json) |
 | Have You Herd? | 235970 | [235970-have-you-herd.json](./235970-have-you-herd.json) |
 | Have You Seen the Moon? | 407400 | [407400-have-you-seen-the-moon.json](./407400-have-you-seen-the-moon.json) |
@@ -3250,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyoukin Kyoushitsu | 385741 | [385741-hyoukin-kyoushitsu.json](./385741-hyoukin-kyoushitsu.json) |
 | Hyouryuu-ki: The Reportage Beyond the Sea | 298844 | [298844-hyouryuu-ki-the-reportage-beyond-the-sea.json](./298844-hyouryuu-ki-the-reportage-beyond-the-sea.json) |
 | Hypatia | 407344 | [407344-hypatia.json](./407344-hypatia.json) |
+| Hype: The Time Quest | 259642 | [259642-hype-the-time-quest.json](./259642-hype-the-time-quest.json) |
 | Hyper 2 | 319354 | [319354-hyper-2.json](./319354-hyper-2.json) |
 | Hyper Bishi Bashi Champ | 228466 | [228466-hyper-bishi-bashi-champ.json](./228466-hyper-bishi-bashi-champ.json) |
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
