@@ -1070,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs | 169979 | [169979-catacombs.json](./169979-catacombs.json) |
 | Catacombs 1: Demon War | 43505 | [43505-catacombs-1-demon-war.json](./43505-catacombs-1-demon-war.json) |
 | Catacombs of the Phantoms | 356691 | [356691-catacombs-of-the-phantoms.json](./356691-catacombs-of-the-phantoms.json) |
+| Catacombs: The Asper Case | 235854 | [235854-catacombs-the-asper-case.json](./235854-catacombs-the-asper-case.json) |
 | Cataegis : The White Wind | 35920 | [35920-cataegis-the-white-wind.json](./35920-cataegis-the-white-wind.json) |
 | Catagrams | 333575 | [333575-catagrams.json](./333575-catagrams.json) |
 | Catal Carta | 416639 | [416639-catal-carta.json](./416639-catal-carta.json) |
@@ -1360,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cendovia Uprising | 346664 | [346664-cendovia-uprising.json](./346664-cendovia-uprising.json) |
 | Cendric | 81045 | [81045-cendric.json](./81045-cendric.json) |
 | Centauri Dominion | 164986 | [164986-centauri-dominion.json](./164986-centauri-dominion.json) |
+| Centauri's Favourite Archer | 235858 | [235858-centauris-favourite-archer.json](./235858-centauris-favourite-archer.json) |
 | Centipede | 218804 | [218804-centipede.json](./218804-centipede.json) |
 | Centipede | 245541 | [245541-centipede.json](./245541-centipede.json) |
 | Centipede | 282564 | [282564-centipede.json](./282564-centipede.json) |
@@ -2393,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel of the Dead | 169981 | [169981-citadel-of-the-dead.json](./169981-citadel-of-the-dead.json) |
 | Citadel Siege | 360659 | [360659-citadel-siege.json](./360659-citadel-siege.json) |
 | Citadel Siege 2 | 365168 | [365168-citadel-siege-2.json](./365168-citadel-siege-2.json) |
+| Citadel Stormer 2 | 235855 | [235855-citadel-stormer-2.json](./235855-citadel-stormer-2.json) |
 | Citadel Warrior | 308255 | [308255-citadel-warrior.json](./308255-citadel-warrior.json) |
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Citalis | 25713 | [25713-citalis.json](./25713-citalis.json) |
@@ -2796,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudpaws | 403694 | [403694-cloudpaws.json](./403694-cloudpaws.json) |
 | Cloudpunk | 111837 | [111837-cloudpunk.json](./111837-cloudpunk.json) |
 | Clouds & Sheep | 255732 | [255732-clouds-and-sheep.json](./255732-clouds-and-sheep.json) |
+| Clouds Ahoy! | 235863 | [235863-clouds-ahoy.json](./235863-clouds-ahoy.json) |
 | Clouds Kingdom 3 | 71501 | [71501-clouds-kingdom-3.json](./71501-clouds-kingdom-3.json) |
 | Clouds No More | 172137 | [172137-clouds-no-more.json](./172137-clouds-no-more.json) |
 | Clouds of Farfisa | 182542 | [182542-clouds-of-farfisa.json](./182542-clouds-of-farfisa.json) |
@@ -3279,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
 | Colour Clash | 94228 | [94228-colour-clash.json](./94228-colour-clash.json) |
 | Colour My Fate | 384053 | [384053-colour-my-fate.json](./384053-colour-my-fate.json) |
+| Colourblind | 235830 | [235830-colourblind.json](./235830-colourblind.json) |
 | Colourise | 29897 | [29897-colourise.json](./29897-colourise.json) |
 | ColourS | 229381 | [229381-colours.json](./229381-colours.json) |
 | Colours and Symbols | 173240 | [173240-colours-and-symbols.json](./173240-colours-and-symbols.json) |
