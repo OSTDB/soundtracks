@@ -3225,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
 | Hypership Out of Control | 35659 | [35659-hypership-out-of-control.json](./35659-hypership-out-of-control.json) |
 | Hypersomnia | 249782 | [249782-hypersomnia.json](./249782-hypersomnia.json) |
+| Hypersomnia | 286133 | [286133-hypersomnia.json](./286133-hypersomnia.json) |
 | Hyperspace | 297489 | [297489-hyperspace.json](./297489-hyperspace.json) |
 | Hyperspace Deck Command | 287766 | [287766-hyperspace-deck-command.json](./287766-hyperspace-deck-command.json) |
 | Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
