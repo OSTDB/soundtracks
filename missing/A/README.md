@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Healer Only Lives Twice | 33255 | [33255-a-healer-only-lives-twice.json](./33255-a-healer-only-lives-twice.json) |
 | A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
+| A Heroine Story | 249856 | [249856-a-heroine-story.json](./249856-a-heroine-story.json) |
 | A Hollow Doorway | 94785 | [94785-a-hollow-doorway.json](./94785-a-hollow-doorway.json) |
 | A Host of Gentle Terrors | 136437 | [136437-a-host-of-gentle-terrors.json](./136437-a-host-of-gentle-terrors.json) |
 | A House 4 Alesa | 305785 | [305785-a-house-4-alesa.json](./305785-a-house-4-alesa.json) |
@@ -381,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss World | 235746 | [235746-abyss-world.json](./235746-abyss-world.json) |
 | Abyss: House | 356070 | [356070-abyss-house.json](./356070-abyss-house.json) |
 | Abyss: New Dawn | 283878 | [283878-abyss-new-dawn.json](./283878-abyss-new-dawn.json) |
+| Abyssal | 249850 | [249850-abyssal.json](./249850-abyssal.json) |
 | Abyssal | 308956 | [308956-abyssal.json](./308956-abyssal.json) |
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
 | Abyssal Drift | 372014 | [372014-abyssal-drift.json](./372014-abyssal-drift.json) |
@@ -701,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
+| Age of Fear: Total | 249875 | [249875-age-of-fear-total.json](./249875-age-of-fear-total.json) |
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
 | Age of Gods | 399092 | [399092-age-of-gods.json](./399092-age-of-gods.json) |
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
@@ -2067,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Gem Puzzle | 297653 | [297653-animal-gem-puzzle.json](./297653-animal-gem-puzzle.json) |
 | Animal Genius | 397073 | [397073-animal-genius.json](./397073-animal-genius.json) |
 | Animal Inspector | 124753 | [124753-animal-inspector.json](./124753-animal-inspector.json) |
+| Animal Kostume | 249878 | [249878-animal-kostume.json](./249878-animal-kostume.json) |
 | Animal Learning Puzzle for Toddlers and Kids | 147939 | [147939-animal-learning-puzzle-for-toddlers-and-kids.json](./147939-animal-learning-puzzle-for-toddlers-and-kids.json) |
 | Animal Life: Dinosaurs | 269552 | [269552-animal-life-dinosaurs.json](./269552-animal-life-dinosaurs.json) |
 | Animal Life: Eurasia | 269553 | [269553-animal-life-eurasia.json](./269553-animal-life-eurasia.json) |
@@ -3751,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuka 120% Excellent Burning Fest. | 81336 | [81336-asuka-120-excellent-burning-fest.json](./81336-asuka-120-excellent-burning-fest.json) |
 | Asuka x Redline Reverie | 405510 | [405510-asuka-x-redline-reverie.json](./405510-asuka-x-redline-reverie.json) |
 | Asura Girls | 248923 | [248923-asura-girls.json](./248923-asura-girls.json) |
+| Asura's Trial | 249853 | [249853-asuras-trial.json](./249853-asuras-trial.json) |
 | Asura's Wrath Episode 11.5 | 217920 | [217920-asuras-wrath-episode-11-5.json](./217920-asuras-wrath-episode-11-5.json) |
 | Asura's Wrath Episode 15.5 | 217921 | [217921-asuras-wrath-episode-15-5.json](./217921-asuras-wrath-episode-15-5.json) |
 | Asura's Wrath: Lost Episode 1 | 182447 | [182447-asuras-wrath-lost-episode-1.json](./182447-asuras-wrath-lost-episode-1.json) |
