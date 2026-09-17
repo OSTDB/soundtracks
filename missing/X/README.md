@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Aerosoft - Society Islands XP: Tahiti & Windward Islands | 289892 | [289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json](./289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json) |
 | X-Plane 11: Aerosoft Seychelles XP | 168367 | [168367-x-plane-11-aerosoft-seychelles-xp.json](./168367-x-plane-11-aerosoft-seychelles-xp.json) |
 | X-Plane 12 Global Scenery: Asia | 220637 | [220637-x-plane-12-global-scenery-asia.json](./220637-x-plane-12-global-scenery-asia.json) |
+| X-Plane 12: Aerosoft - Airport Menorca | 266303 | [266303-x-plane-12-aerosoft-airport-menorca.json](./266303-x-plane-12-aerosoft-airport-menorca.json) |
 | X-Plane 12: Aerosoft - Society Islands XP: Tahiti & Windward Islands | 289881 | [289881-x-plane-12-aerosoft-society-islands-xp-tahiti-and-windward-islands.json](./289881-x-plane-12-aerosoft-society-islands-xp-tahiti-and-windward-islands.json) |
 | X-Plane 6 | 72091 | [72091-x-plane-6.json](./72091-x-plane-6.json) |
 | X-Plane 8 | 94229 | [94229-x-plane-8.json](./94229-x-plane-8.json) |
@@ -153,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiákè Yīngxióng Zhuán | 86019 | [86019-xiake-yingxiong-zhuan.json](./86019-xiake-yingxiong-zhuan.json) |
 | Xiama | 69813 | [69813-xiama.json](./69813-xiama.json) |
 | Xián Shàng Huíyīn | 304027 | [304027-xian-shang-huiyin.json](./304027-xian-shang-huiyin.json) |
+| Xiangqi: The Chinese Chess | 266301 | [266301-xiangqi-the-chinese-chess.json](./266301-xiangqi-the-chinese-chess.json) |
 | Xiāngshān 31 Hào | 120938 | [120938-xiangshan-31-hao.json](./120938-xiangshan-31-hao.json) |
 | Xiàngsù Nányǒu Yǔyīn: Wánzhěng Bǎn | 161382 | [161382-xiangsu-nanyou-yuyin-wanzheng-ban.json](./161382-xiangsu-nanyou-yuyin-wanzheng-ban.json) |
 | Xiānjiànjué Wǎngluòbǎn | 161328 | [161328-xianjianjue-wangluoban.json](./161328-xianjianjue-wangluoban.json) |
