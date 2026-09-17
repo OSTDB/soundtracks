@@ -1182,6 +1182,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Code | 287774 | [287774-life-code.json](./287774-life-code.json) |
 | Life Eater | 289431 | [289431-life-eater.json](./289431-life-eater.json) |
 | Life Force | 174945 | [174945-life-force.json](./174945-life-force.json) |
+| Life Force | 261899 | [261899-life-force.json](./261899-life-force.json) |
+| Life Force | 261900 | [261900-life-force.json](./261900-life-force.json) |
 | Life Goals | 102144 | [102144-life-goals.json](./102144-life-goals.json) |
 | Life Hutch VR | 121610 | [121610-life-hutch-vr.json](./121610-life-hutch-vr.json) |
 | Life In Planet | 152860 | [152860-life-in-planet.json](./152860-life-in-planet.json) |
