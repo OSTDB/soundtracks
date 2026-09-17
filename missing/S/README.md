@@ -2524,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooterspool: Billiards Simulation | 127333 | [127333-shooterspool-billiards-simulation.json](./127333-shooterspool-billiards-simulation.json) |
 | Shooterwave | 186344 | [186344-shooterwave.json](./186344-shooterwave.json) |
 | Shootin' Gallery VR | 217293 | [217293-shootin-gallery-vr.json](./217293-shootin-gallery-vr.json) |
+| Shooting Ballons | 247012 | [247012-shooting-ballons.json](./247012-shooting-ballons.json) |
 | Shooting Beena Toy Story 3: Woody to Buzz no Daibouken! | 123619 | [123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json](./123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json) |
 | Shooting Blocks 2 | 91340 | [91340-shooting-blocks-2.json](./91340-shooting-blocks-2.json) |
 | Shooting Covid | 195713 | [195713-shooting-covid.json](./195713-shooting-covid.json) |
@@ -2668,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroomtopia | 286092 | [286092-shroomtopia.json](./286092-shroomtopia.json) |
 | Shroud of the Avatar - The Path of Virtue | 95995 | [95995-shroud-of-the-avatar-the-path-of-virtue.json](./95995-shroud-of-the-avatar-the-path-of-virtue.json) |
 | Shrouded Siege | 374052 | [374052-shrouded-siege.json](./374052-shrouded-siege.json) |
+| Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
 | Shuffle Farm | 345568 | [345568-shuffle-farm.json](./345568-shuffle-farm.json) |
 | Shuffle in One | 259551 | [259551-shuffle-in-one.json](./259551-shuffle-in-one.json) |
 | Shuffle Party | 65525 | [65525-shuffle-party.json](./65525-shuffle-party.json) |
@@ -3861,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small World | 272927 | [272927-small-world.json](./272927-small-world.json) |
 | Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
+| Smart Bomber | 247035 | [247035-smart-bomber.json](./247035-smart-bomber.json) |
 | Smart Boy's Gameroom II | 208958 | [208958-smart-boys-gameroom-ii.json](./208958-smart-boys-gameroom-ii.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
 | Smart Frog | 358941 | [358941-smart-frog.json](./358941-smart-frog.json) |
@@ -4310,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
 | Soar Up The Charts | 310068 | [310068-soar-up-the-charts.json](./310068-soar-up-the-charts.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
+| Soccer | 247045 | [247045-soccer.json](./247045-soccer.json) |
 | Soccer | 261792 | [261792-soccer.json](./261792-soccer.json) |
 | Soccer | 300003 | [300003-soccer.json](./300003-soccer.json) |
 | Soccer | 346058 | [346058-soccer.json](./346058-soccer.json) |
@@ -6361,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
 | Squally | 111118 | [111118-squally.json](./111118-squally.json) |
 | Square | 208591 | [208591-square.json](./208591-square.json) |
+| Square | 247020 | [247020-square.json](./247020-square.json) |
 | Square & Circles | 352292 | [352292-square-and-circles.json](./352292-square-and-circles.json) |
 | Square Deal: The Game of Two Dimensional Poker | 7815 | [7815-square-deal-the-game-of-two-dimensional-poker.json](./7815-square-deal-the-game-of-two-dimensional-poker.json) |
 | Square Enix Masterpieces: Tomb Raider Bundle | 286664 | [286664-square-enix-masterpieces-tomb-raider-bundle.json](./286664-square-enix-masterpieces-tomb-raider-bundle.json) |
