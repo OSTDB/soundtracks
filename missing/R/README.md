@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red, Blue, and Green | 135253 | [135253-red-blue-and-green.json](./135253-red-blue-and-green.json) |
 | Red: Pride of Eden | 193951 | [193951-red-pride-of-eden.json](./193951-red-pride-of-eden.json) |
 | RED: The Lucid Nightmare | 109677 | [109677-red-the-lucid-nightmare.json](./109677-red-the-lucid-nightmare.json) |
+| Red's Revenge | 273980 | [273980-reds-revenge.json](./273980-reds-revenge.json) |
 | Redacted by the Sadistic Princess from Another World?! | 402250 | [402250-redacted-by-the-sadistic-princess-from-another-world.json](./402250-redacted-by-the-sadistic-princess-from-another-world.json) |
 | Redacted: Genome | 287196 | [287196-redacted-genome.json](./287196-redacted-genome.json) |
 | Redactle | 197384 | [197384-redactle.json](./197384-redactle.json) |
@@ -1605,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Things | 66627 | [66627-return-of-the-things.json](./66627-return-of-the-things.json) |
 | Return the Backrooms | 224561 | [224561-return-the-backrooms.json](./224561-return-the-backrooms.json) |
 | Return to Abyss | 233251 | [233251-return-to-abyss.json](./233251-return-to-abyss.json) |
+| Return to Basic Killing | 274032 | [274032-return-to-basic-killing.json](./274032-return-to-basic-killing.json) |
 | Return to Castle Wolfenstein: Tides of War | 77220 | [77220-return-to-castle-wolfenstein-tides-of-war.json](./77220-return-to-castle-wolfenstein-tides-of-war.json) |
 | Return to Dark Castle | 72902 | [72902-return-to-dark-castle.json](./72902-return-to-dark-castle.json) |
 | Return to Ditch Day | 10796 | [10796-return-to-ditch-day.json](./10796-return-to-ditch-day.json) |
