@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiniro no Corda Octave | 109570 | [109570-kiniro-no-corda-octave.json](./109570-kiniro-no-corda-octave.json) |
 | Kiniro no Corda: La Corda d'Oro | 57705 | [57705-kiniro-no-corda-la-corda-doro.json](./57705-kiniro-no-corda-la-corda-doro.json) |
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
+| Kinky Cosplay Heroes | 275727 | [275727-kinky-cosplay-heroes.json](./275727-kinky-cosplay-heroes.json) |
 | Kinniku Banzuke Vol.2: Aratanaru Genkai he no Chousen! | 344463 | [344463-kinniku-banzuke-vol-2-aratanaru-genkai-he-no-chousen.json](./344463-kinniku-banzuke-vol-2-aratanaru-genkai-he-no-chousen.json) |
 | Kinnikuman | 138764 | [138764-kinnikuman.json](./138764-kinnikuman.json) |
 | Kinnikuman II: Tatakae! Ramenman | 346032 | [346032-kinnikuman-ii-tatakae-ramenman.json](./346032-kinnikuman-ii-tatakae-ramenman.json) |
@@ -1516,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuro Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396941 | [396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
 | Kuro Neko | 153407 | [153407-kuro-neko.json](./153407-kuro-neko.json) |
 | Kuro no Danshou: The Literary Fragment | 413081 | [413081-kuro-no-danshou-the-literary-fragment.json](./413081-kuro-no-danshou-the-literary-fragment.json) |
+| KurOba | 275735 | [275735-kuroba.json](./275735-kuroba.json) |
 | Kuroba: Oghuz | 409581 | [409581-kuroba-oghuz.json](./409581-kuroba-oghuz.json) |
 | Kurofune: descobrimentos portugueses | 278545 | [278545-kurofune-descobrimentos-portugueses.json](./278545-kurofune-descobrimentos-portugueses.json) |
 | Kurohi | 397677 | [397677-kurohi.json](./397677-kurohi.json) |
