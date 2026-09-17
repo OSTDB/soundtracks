@@ -1506,8 +1506,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beats of Rage | 46623 | [46623-beats-of-rage.json](./46623-beats-of-rage.json) |
 | Beats&Boss | 338202 | [338202-beats-and-boss.json](./338202-beats-and-boss.json) |
 | Beauties Academy: Spellcraft Tournament | 211429 | [211429-beauties-academy-spellcraft-tournament.json](./211429-beauties-academy-spellcraft-tournament.json) |
+| Beauties Unveiled | 284499 | [284499-beauties-unveiled.json](./284499-beauties-unveiled.json) |
 | Beauties Unveiled 2: CEO 69 Edition | 315874 | [315874-beauties-unveiled-2-ceo-69-edition.json](./315874-beauties-unveiled-2-ceo-69-edition.json) |
 | Beauties Unveiled: Hot Edition | 298568 | [298568-beauties-unveiled-hot-edition.json](./298568-beauties-unveiled-hot-edition.json) |
+| Beauties Unveiled: NoirPetal Level Pack | 284508 | [284508-beauties-unveiled-noirpetal-level-pack.json](./284508-beauties-unveiled-noirpetal-level-pack.json) |
 | Beautiful Amazing Jungle Animals for Kids | 100194 | [100194-beautiful-amazing-jungle-animals-for-kids.json](./100194-beautiful-amazing-jungle-animals-for-kids.json) |
 | Beautiful Bricks | 121035 | [121035-beautiful-bricks.json](./121035-beautiful-bricks.json) |
 | Beautiful Checkers | 338207 | [338207-beautiful-checkers.json](./338207-beautiful-checkers.json) |
