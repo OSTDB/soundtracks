@@ -1746,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexement | 68621 | [68621-hexement.json](./68621-hexement.json) |
 | HexenHold | 340469 | [340469-hexenhold.json](./340469-hexenhold.json) |
 | Hexes | 147416 | [147416-hexes.json](./147416-hexes.json) |
+| Hexes | 243780 | [243780-hexes.json](./243780-hexes.json) |
 | Hexgarden | 415118 | [415118-hexgarden.json](./415118-hexgarden.json) |
 | Hexguardian | 253372 | [253372-hexguardian.json](./253372-hexguardian.json) |
 | Hexia | 319023 | [319023-hexia.json](./319023-hexia.json) |
