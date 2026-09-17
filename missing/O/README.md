@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscure Horrors | 386684 | [386684-obscure-horrors.json](./386684-obscure-horrors.json) |
 | Obscuria | 295906 | [295906-obscuria.json](./295906-obscuria.json) |
 | Obscuritas | 18431 | [18431-obscuritas.json](./18431-obscuritas.json) |
+| Obscurite Magie: The Blood of Kings | 245948 | [245948-obscurite-magie-the-blood-of-kings.json](./245948-obscurite-magie-the-blood-of-kings.json) |
 | Obscurity | 99661 | [99661-obscurity.json](./99661-obscurity.json) |
 | Obscurum | 276184 | [276184-obscurum.json](./276184-obscurum.json) |
 | Observation at Freddy's | 318639 | [318639-observation-at-freddys.json](./318639-observation-at-freddys.json) |
@@ -526,7 +527,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omnibion War | 102092 | [102092-omnibion-war.json](./102092-omnibion-war.json) |
 | Omnichess | 207303 | [207303-omnichess.json](./207303-omnichess.json) |
 | Omnicube | 99598 | [99598-omnicube.json](./99598-omnicube.json) |
+| Omnigon | 245909 | [245909-omnigon.json](./245909-omnigon.json) |
 | Omniheroes | 255790 | [255790-omniheroes.json](./255790-omniheroes.json) |
+| Omnipresence | 245938 | [245938-omnipresence.json](./245938-omnipresence.json) |
 | Omniswarm | 183056 | [183056-omniswarm.json](./183056-omniswarm.json) |
 | OmniSword | 82155 | [82155-omnisword.json](./82155-omnisword.json) |
 | Omnivael: Chronicles of the realm | 274763 | [274763-omnivael-chronicles-of-the-realm.json](./274763-omnivael-chronicles-of-the-realm.json) |
@@ -1509,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw City: Dark Past | 324685 | [324685-outlaw-city-dark-past.json](./324685-outlaw-city-dark-past.json) |
 | Outlaw Golf: 9 More Holes of X-Mas | 47311 | [47311-outlaw-golf-9-more-holes-of-x-mas.json](./47311-outlaw-golf-9-more-holes-of-x-mas.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
+| Outlaw Kingdom | 245906 | [245906-outlaw-kingdom.json](./245906-outlaw-kingdom.json) |
 | Outlawed | 331339 | [331339-outlawed.json](./331339-outlawed.json) |
 | Outlaws | 196 | [196-outlaws.json](./196-outlaws.json) |
 | Outlaws + A Handful of Missions | 112809 | [112809-outlaws-a-handful-of-missions.json](./112809-outlaws-a-handful-of-missions.json) |
@@ -1560,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outward 2 | 291446 | [291446-outward-2.json](./291446-outward-2.json) |
 | Outwars | 57676 | [57676-outwars.json](./57676-outwars.json) |
 | OutWave | 207341 | [207341-outwave.json](./207341-outwave.json) |
+| Outway | 245942 | [245942-outway.json](./245942-outway.json) |
 | Outwitters | 167852 | [167852-outwitters.json](./167852-outwitters.json) |
 | Outworld | 287102 | [287102-outworld.json](./287102-outworld.json) |
 | Outworld Battlegrounds | 111037 | [111037-outworld-battlegrounds.json](./111037-outworld-battlegrounds.json) |
