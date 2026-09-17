@@ -2556,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exorcist: Legion VR - Chapter 5: The Tomb | 168819 | [168819-the-exorcist-legion-vr-chapter-5-the-tomb.json](./168819-the-exorcist-legion-vr-chapter-5-the-tomb.json) |
 | The Expanse: A Telltale Series | 185239 | [185239-the-expanse-a-telltale-series.json](./185239-the-expanse-a-telltale-series.json) |
 | The Expendabros | 9786 | [9786-the-expendabros.json](./9786-the-expendabros.json) |
+| The Experiment | 255699 | [255699-the-experiment.json](./255699-the-experiment.json) |
 | The Experimental Turnabout | 308421 | [308421-the-experimental-turnabout.json](./308421-the-experimental-turnabout.json) |
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
 | The Eye of Judgment: Legends | 46020 | [46020-the-eye-of-judgment-legends.json](./46020-the-eye-of-judgment-legends.json) |
@@ -3147,6 +3148,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journeyman Project | 9517 | [9517-the-journeyman-project.json](./9517-the-journeyman-project.json) |
 | The Journeyman Project: Turbo! | 79931 | [79931-the-journeyman-project-turbo.json](./79931-the-journeyman-project-turbo.json) |
 | The Joy of Creation: Ignited Collection | 216456 | [216456-the-joy-of-creation-ignited-collection.json](./216456-the-joy-of-creation-ignited-collection.json) |
+| The Joy of Creation: Reborn | 255692 | [255692-the-joy-of-creation-reborn.json](./255692-the-joy-of-creation-reborn.json) |
+| The Joy of Creation: Story Mode | 255693 | [255693-the-joy-of-creation-story-mode.json](./255693-the-joy-of-creation-story-mode.json) |
 | The Joy of Creation: Story Mode | 45984 | [45984-the-joy-of-creation-story-mode.json](./45984-the-joy-of-creation-story-mode.json) |
 | The Joy of Kaizo with Bob Ross | 268195 | [268195-the-joy-of-kaizo-with-bob-ross.json](./268195-the-joy-of-kaizo-with-bob-ross.json) |
 | The Joy of Putting | 386699 | [386699-the-joy-of-putting.json](./386699-the-joy-of-putting.json) |
@@ -5578,6 +5581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas Was Alone | 2291 | [2291-thomas-was-alone.json](./2291-thomas-was-alone.json) |
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
+| Thorn for the Villain: Reincarnated as an Extra in an Otome Game?! | 255770 | [255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json](./255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json) |
 | Thorne - Death Merchants | 33265 | [33265-thorne-death-merchants.json](./33265-thorne-death-merchants.json) |
 | Thorner | 410353 | [410353-thorner.json](./410353-thorner.json) |
 | Thorns & Spells | 47299 | [47299-thorns-and-spells.json](./47299-thorns-and-spells.json) |
@@ -8297,6 +8301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Rally | 63239 | [63239-trigger-rally.json](./63239-trigger-rally.json) |
 | Trigger Saint | 35627 | [35627-trigger-saint.json](./35627-trigger-saint.json) |
 | Trigger Table | 113028 | [113028-trigger-table.json](./113028-trigger-table.json) |
+| Trigger Tennis | 255698 | [255698-trigger-tennis.json](./255698-trigger-tennis.json) |
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
 | TriggerHeart Exelica Enhanced | 326579 | [326579-triggerheart-exelica-enhanced.json](./326579-triggerheart-exelica-enhanced.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
