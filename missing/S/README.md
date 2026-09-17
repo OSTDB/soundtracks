@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Protects the Christmas Tree | 190133 | [190133-santa-protects-the-christmas-tree.json](./190133-santa-protects-the-christmas-tree.json) |
 | Santa Rockstar HD | 57060 | [57060-santa-rockstar-hd.json](./57060-santa-rockstar-hd.json) |
 | Santa Rockstar: Steam Edition | 90562 | [90562-santa-rockstar-steam-edition.json](./90562-santa-rockstar-steam-edition.json) |
+| Santa Run | 281527 | [281527-santa-run.json](./281527-santa-run.json) |
 | Santa Runner | 111687 | [111687-santa-runner.json](./111687-santa-runner.json) |
 | Santa Showdown | 141898 | [141898-santa-showdown.json](./141898-santa-showdown.json) |
 | Santa Simulator | 112993 | [112993-santa-simulator.json](./112993-santa-simulator.json) |
@@ -3187,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
 | Skidaddle Skidoodle | 311641 | [311641-skidaddle-skidoodle.json](./311641-skidaddle-skidoodle.json) |
+| Skiddy | 281528 | [281528-skiddy.json](./281528-skiddy.json) |
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
@@ -3828,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smol Adventure | 353893 | [353893-smol-adventure.json](./353893-smol-adventure.json) |
 | Smol Gods | 332407 | [332407-smol-gods.json](./332407-smol-gods.json) |
 | Smol Kobold Garden | 340933 | [340933-smol-kobold-garden.json](./340933-smol-kobold-garden.json) |
+| Smol Snek | 281526 | [281526-smol-snek.json](./281526-smol-snek.json) |
 | Smol Toad | 390127 | [390127-smol-toad.json](./390127-smol-toad.json) |
 | Smolsies | 127989 | [127989-smolsies.json](./127989-smolsies.json) |
 | Smooth Criminal | 91913 | [91913-smooth-criminal.json](./91913-smooth-criminal.json) |
