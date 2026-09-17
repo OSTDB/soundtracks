@@ -3246,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mines | 102817 | [102817-mines.json](./102817-mines.json) |
 | Mines & Dragons | 163994 | [163994-mines-and-dragons.json](./163994-mines-and-dragons.json) |
 | Mines of Moria | 248063 | [248063-mines-of-moria.json](./248063-mines-of-moria.json) |
+| Mines Of Moritania | 253446 | [253446-mines-of-moritania.json](./253446-mines-of-moritania.json) |
 | Minescroller | 178612 | [178612-minescroller.json](./178612-minescroller.json) |
 | Mineshaft | 333023 | [333023-mineshaft.json](./333023-mineshaft.json) |
 | Minestrife | 158157 | [158157-minestrife.json](./158157-minestrife.json) |
@@ -5192,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutation Madness | 264690 | [264690-mutation-madness.json](./264690-mutation-madness.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
+| Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
 | Muumit ja Taikalamppu | 178047 | [178047-muumit-ja-taikalamppu.json](./178047-muumit-ja-taikalamppu.json) |
 | Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
@@ -5697,6 +5699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Black Isle - Collector's Edition | 107859 | [107859-mystery-trackers-black-isle-collectors-edition.json](./107859-mystery-trackers-black-isle-collectors-edition.json) |
 | Mystery Trackers: Blackrow's Secret | 201830 | [201830-mystery-trackers-blackrows-secret.json](./201830-mystery-trackers-blackrows-secret.json) |
 | Mystery Trackers: Fall of Iron Rock - Collector's Edition | 235489 | [235489-mystery-trackers-fall-of-iron-rock-collectors-edition.json](./235489-mystery-trackers-fall-of-iron-rock-collectors-edition.json) |
+| Mystery Trackers: Fatal Lesson - Collector's Edition | 253417 | [253417-mystery-trackers-fatal-lesson-collectors-edition.json](./253417-mystery-trackers-fatal-lesson-collectors-edition.json) |
 | Mystery Trackers: Nightsville Horror - Collector's Edition | 148475 | [148475-mystery-trackers-nightsville-horror-collectors-edition.json](./148475-mystery-trackers-nightsville-horror-collectors-edition.json) |
 | Mystery Trackers: Nightsville Horror & Winterpoint Tragedy | 201823 | [201823-mystery-trackers-nightsville-horror-and-winterpoint-tragedy.json](./201823-mystery-trackers-nightsville-horror-and-winterpoint-tragedy.json) |
 | Mystery Trackers: Paxton Creek Avenger | 89134 | [89134-mystery-trackers-paxton-creek-avenger.json](./89134-mystery-trackers-paxton-creek-avenger.json) |
