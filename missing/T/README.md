@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-Dragon Quest: Joshou Yuusha no Mezame | 325650 | [325650-t-dragon-quest-joshou-yuusha-no-mezame.json](./325650-t-dragon-quest-joshou-yuusha-no-mezame.json) |
 | T-Kara Puzzles | 34208 | [34208-t-kara-puzzles.json](./34208-t-kara-puzzles.json) |
 | T-night | 285457 | [285457-t-night.json](./285457-t-night.json) |
+| T-Racer | 266865 | [266865-t-racer.json](./266865-t-racer.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
 | T.E.C. 3001 | 14646 | [14646-t-e-c-3001.json](./14646-t-e-c-3001.json) |
 | T.G.I.F. | 292131 | [292131-t-g-i-f.json](./292131-t-g-i-f.json) |
@@ -2071,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma: Recut - Limited Edition | 166241 | [166241-the-coma-recut-limited-edition.json](./166241-the-coma-recut-limited-edition.json) |
 | The Coma: Triple Threat Bundle | 338010 | [338010-the-coma-triple-threat-bundle.json](./338010-the-coma-triple-threat-bundle.json) |
 | The Combatribes | 337198 | [337198-the-combatribes.json](./337198-the-combatribes.json) |
+| The Comedian Adventure | 266884 | [266884-the-comedian-adventure.json](./266884-the-comedian-adventure.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
 | The Complex | 119178 | [119178-the-complex.json](./119178-the-complex.json) |
@@ -7148,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Wanderer: Mononobe no Futo to Nanatsu no Shiren - Fushigi no Gensoukyou TOD Another Story | 206960 | [206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json](./206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json) |
 | Touhou Genso Wanderer: The Bullet Reporter | 206961 | [206961-touhou-genso-wanderer-the-bullet-reporter.json](./206961-touhou-genso-wanderer-the-bullet-reporter.json) |
 | Touhou Gensou Clicker | 135277 | [135277-touhou-gensou-clicker.json](./135277-touhou-gensou-clicker.json) |
+| Touhou Gensou Eclipse | 266899 | [266899-touhou-gensou-eclipse.json](./266899-touhou-gensou-eclipse.json) |
 | Touhou Gensou Mahjong | 117744 | [117744-touhou-gensou-mahjong.json](./117744-touhou-gensou-mahjong.json) |
 | Touhou Gyakumyouran: Ephemeral Unnatural Balance | 246675 | [246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json](./246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json) |
 | Touhou Hakujinki: White Names Spoiled Past | 246674 | [246674-touhou-hakujinki-white-names-spoiled-past.json](./246674-touhou-hakujinki-white-names-spoiled-past.json) |
