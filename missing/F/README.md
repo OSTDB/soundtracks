@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
 | Final Fantasy X-2 International + Last Mission | 146852 | [146852-final-fantasy-x-2-international-last-mission.json](./146852-final-fantasy-x-2-international-last-mission.json) |
 | Final Fantasy X-2: International | 247548 | [247548-final-fantasy-x-2-international.json](./247548-final-fantasy-x-2-international.json) |
+| Final Fantasy X: Fantasy War | 266285 | [266285-final-fantasy-x-fantasy-war.json](./266285-final-fantasy-x-fantasy-war.json) |
 | Final Fantasy X/X-2 Ultimate Box | 301388 | [301388-final-fantasy-x-x-2-ultimate-box.json](./301388-final-fantasy-x-x-2-ultimate-box.json) |
 | Final Fantasy XI Online | 411 | [411-final-fantasy-xi-online.json](./411-final-fantasy-xi-online.json) |
 | Final Fantasy XI: Rhapsodies of Vana'diel | 266861 | [266861-final-fantasy-xi-rhapsodies-of-vanadiel.json](./266861-final-fantasy-xi-rhapsodies-of-vanadiel.json) |
