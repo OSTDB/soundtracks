@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men Origins: Wolverine | 573 | [573-x-men-origins-wolverine.json](./573-x-men-origins-wolverine.json) |
 | X-Men: Battle of the Atom | 62782 | [62782-x-men-battle-of-the-atom.json](./62782-x-men-battle-of-the-atom.json) |
 | X-Men: Mind Games | 268483 | [268483-x-men-mind-games.json](./268483-x-men-mind-games.json) |
+| X-Men: Mutant Academy | 259648 | [259648-x-men-mutant-academy.json](./259648-x-men-mutant-academy.json) |
 | X-Men: Next Dimension | 4577 | [4577-x-men-next-dimension.json](./4577-x-men-next-dimension.json) |
 | X-Men: The Official Game | 200902 | [200902-x-men-the-official-game.json](./200902-x-men-the-official-game.json) |
 | X-Men: The Official Game | 4578 | [4578-x-men-the-official-game.json](./4578-x-men-the-official-game.json) |
