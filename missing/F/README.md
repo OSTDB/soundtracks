@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer and Zombie | 286008 | [286008-farmer-and-zombie.json](./286008-farmer-and-zombie.json) |
 | Farmer Bundle | 271840 | [271840-farmer-bundle.json](./271840-farmer-bundle.json) |
 | Farmer Drift! | 246430 | [246430-farmer-drift.json](./246430-farmer-drift.json) |
+| Farmer Simulator | 253956 | [253956-farmer-simulator.json](./253956-farmer-simulator.json) |
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
 | Farmer's Diary | 285575 | [285575-farmers-diary.json](./285575-farmers-diary.json) |
 | Farmer's Fairy Tale | 107839 | [107839-farmers-fairy-tale.json](./107839-farmers-fairy-tale.json) |
@@ -805,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatberg | 382298 | [382298-fatberg.json](./382298-fatberg.json) |
 | Fate / Hollow Ataraxia: Limited Edition | 89862 | [89862-fate-hollow-ataraxia-limited-edition.json](./89862-fate-hollow-ataraxia-limited-edition.json) |
 | Fate & Inflation | 391721 | [391721-fate-and-inflation.json](./391721-fate-and-inflation.json) |
+| Fate Collectors | 253957 | [253957-fate-collectors.json](./253957-fate-collectors.json) |
 | Fate Commander: Fighting | 273095 | [273095-fate-commander-fighting.json](./273095-fate-commander-fighting.json) |
 | Fate Dealer | 378160 | [378160-fate-dealer.json](./378160-fate-dealer.json) |
 | Fate Hunters | 107693 | [107693-fate-hunters.json](./107693-fate-hunters.json) |
@@ -951,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fèitǔ Báixuěgōngzhǔ | 348855 | [348855-feitu-baixuegongzhu.json](./348855-feitu-baixuegongzhu.json) |
 | Feitu Huiguniang | 348846 | [348846-feitu-huiguniang.json](./348846-feitu-huiguniang.json) |
 | Fèitǔ Xiǎohóngmào | 348836 | [348836-feitu-xiaohongmao.json](./348836-feitu-xiaohongmao.json) |
+| Felicat’s Urban Odyssey | 253958 | [253958-felicat-s-urban-odyssey.json](./253958-felicat-s-urban-odyssey.json) |
 | Felicity's Door | 381104 | [381104-felicitys-door.json](./381104-felicitys-door.json) |
 | Feline | 171559 | [171559-feline.json](./171559-feline.json) |
 | Feline Fever Dream | 416641 | [416641-feline-fever-dream.json](./416641-feline-fever-dream.json) |
