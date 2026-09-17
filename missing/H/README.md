@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanano | 28828 | [28828-hanano.json](./28828-hanano.json) |
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
 | Hanayaka Nari, Waga Ichizoku | 61640 | [61640-hanayaka-nari-waga-ichizoku.json](./61640-hanayaka-nari-waga-ichizoku.json) |
+| Hanctt Origins | 253455 | [253455-hanctt-origins.json](./253455-hanctt-origins.json) |
 | Hand Cannon Virtuoso | 132256 | [132256-hand-cannon-virtuoso.json](./132256-hand-cannon-virtuoso.json) |
 | Hand Cooking Simulator: Multi-Chef | 326403 | [326403-hand-cooking-simulator-multi-chef.json](./326403-hand-cooking-simulator-multi-chef.json) |
 | Hand Held Boggle | 239337 | [239337-hand-held-boggle.json](./239337-hand-held-boggle.json) |
@@ -394,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happi Basudei | 197323 | [197323-happi-basudei.json](./197323-happi-basudei.json) |
 | Happily Ever After | 48024 | [48024-happily-ever-after.json](./48024-happily-ever-after.json) |
 | Happiness | 184120 | [184120-happiness.json](./184120-happiness.json) |
+| Happiness Market | 253411 | [253411-happiness-market.json](./253411-happiness-market.json) |
 | Happiness! De:Lucks | 94724 | [94724-happiness-de-lucks.json](./94724-happiness-de-lucks.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Bird | 312034 | [312034-happy-bird.json](./312034-happy-bird.json) |
@@ -1109,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Survive | 75787 | [75787-hell-survive.json](./75787-hell-survive.json) |
 | Hell Survivors | 302694 | [302694-hell-survivors.json](./302694-hell-survivors.json) |
 | Hell Takes All | 278137 | [278137-hell-takes-all.json](./278137-hell-takes-all.json) |
+| Hell Trigger | 253440 | [253440-hell-trigger.json](./253440-hell-trigger.json) |
 | Hell University | 264140 | [264140-hell-university.json](./264140-hell-university.json) |
 | Hell Warriors | 127380 | [127380-hell-warriors.json](./127380-hell-warriors.json) |
 | Hell Yeah Simulator | 326405 | [326405-hell-yeah-simulator.json](./326405-hell-yeah-simulator.json) |
@@ -3064,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hues of the Void | 275728 | [275728-hues-of-the-void.json](./275728-hues-of-the-void.json) |
 | Hues: Moon Sea | 289854 | [289854-hues-moon-sea.json](./289854-hues-moon-sea.json) |
 | Hues: Sunset Valley | 296519 | [296519-hues-sunset-valley.json](./296519-hues-sunset-valley.json) |
+| Hufu Riding and Shooting | 253430 | [253430-hufu-riding-and-shooting.json](./253430-hufu-riding-and-shooting.json) |
 | Hug Me, Senpai! | 368519 | [368519-hug-me-senpai.json](./368519-hug-me-senpai.json) |
 | Huge Breast Princess Knight Anne | 158212 | [158212-huge-breast-princess-knight-anne.json](./158212-huge-breast-princess-knight-anne.json) |
 | Huge Enemy - Worldbreakers | 107855 | [107855-huge-enemy-worldbreakers.json](./107855-huge-enemy-worldbreakers.json) |
