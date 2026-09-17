@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic-A-Tactic: The Most Diplomatic Solution | 367975 | [367975-galactic-a-tactic-the-most-diplomatic-solution.json](./367975-galactic-a-tactic-the-most-diplomatic-solution.json) |
 | Galactic: The Xmas Edition | 327803 | [327803-galactic-the-xmas-edition.json](./327803-galactic-the-xmas-edition.json) |
 | Galactica: Batalha Espacial | 123033 | [123033-galactica-batalha-espacial.json](./123033-galactica-batalha-espacial.json) |
+| Galactico | 285561 | [285561-galactico.json](./285561-galactico.json) |
 | Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
 | Galactix | 381042 | [381042-galactix.json](./381042-galactix.json) |
 | Galactose: Pastries in Space | 109047 | [109047-galactose-pastries-in-space.json](./109047-galactose-pastries-in-space.json) |
@@ -391,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamitate the Meditation Game | 147374 | [147374-gamitate-the-meditation-game.json](./147374-gamitate-the-meditation-game.json) |
 | Gamius Type IV | 51175 | [51175-gamius-type-iv.json](./51175-gamius-type-iv.json) |
 | Gamma Bros | 33675 | [33675-gamma-bros.json](./33675-gamma-bros.json) |
+| Gamma Protocol | 285592 | [285592-gamma-protocol.json](./285592-gamma-protocol.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
 | Ganbare Goemon Gaiden 2: Tenka no Zaihou | 48612 | [48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json](./48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json) |
 | Ganbare Goemon Gaiden: Kieta Ougon Kiseru | 48613 | [48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json](./48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json) |
@@ -450,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Tails | 215156 | [215156-garden-tails.json](./215156-garden-tails.json) |
 | Garden Warfare: Crab Invasion | 337632 | [337632-garden-warfare-crab-invasion.json](./337632-garden-warfare-crab-invasion.json) |
 | Garden's Bane: DG's Quest | 208610 | [208610-gardens-bane-dgs-quest.json](./208610-gardens-bane-dgs-quest.json) |
+| Gardener | 285578 | [285578-gardener.json](./285578-gardener.json) |
 | Gardener Simulator | 390636 | [390636-gardener-simulator.json](./390636-gardener-simulator.json) |
 | Gardener's Quest | 287235 | [287235-gardeners-quest.json](./287235-gardeners-quest.json) |
 | Gardenia: Prologue | 402924 | [402924-gardenia-prologue.json](./402924-gardenia-prologue.json) |
