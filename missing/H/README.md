@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
 | Hexis | 291582 | [291582-hexis.json](./291582-hexis.json) |
 | HexLab | 97090 | [97090-hexlab.json](./97090-hexlab.json) |
+| Hexle | 271821 | [271821-hexle.json](./271821-hexle.json) |
 | HexoCity | 291590 | [291590-hexocity.json](./291590-hexocity.json) |
 | Hexon | 127310 | [127310-hexon.json](./127310-hexon.json) |
 | Hexos CCG Missions | 55947 | [55947-hexos-ccg-missions.json](./55947-hexos-ccg-missions.json) |
