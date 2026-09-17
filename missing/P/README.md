@@ -1320,6 +1320,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets in Action Bundle | 212787 | [212787-pets-in-action-bundle.json](./212787-pets-in-action-bundle.json) |
 | PetShop | 235494 | [235494-petshop.json](./235494-petshop.json) |
 | Pettan Pyuu | 151160 | [151160-pettan-pyuu.json](./151160-pettan-pyuu.json) |
+| Pettson & Findus: Födelsedagskatten | 286110 | [286110-pettson-and-findus-fodelsedagskatten.json](./286110-pettson-and-findus-fodelsedagskatten.json) |
+| Pettson & Findus: Höndans och kattcirkus | 286109 | [286109-pettson-and-findus-hondans-och-kattcirkus.json](./286109-pettson-and-findus-hondans-och-kattcirkus.json) |
+| Pettson & Findus: Spökskrämmarmaskinen | 286108 | [286108-pettson-and-findus-spokskrammarmaskinen.json](./286108-pettson-and-findus-spokskrammarmaskinen.json) |
+| Pettson o Findus: Julkalender | 286112 | [286112-pettson-o-findus-julkalender.json](./286112-pettson-o-findus-julkalender.json) |
+| Pettsons julspel | 286111 | [286111-pettsons-julspel.json](./286111-pettsons-julspel.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | PetWings | 9121 | [9121-petwings.json](./9121-petwings.json) |
 | PetWorld 3D: Premium | 86845 | [86845-petworld-3d-premium.json](./86845-petworld-3d-premium.json) |
@@ -3878,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
 | Project Cobalt | 366310 | [366310-project-cobalt.json](./366310-project-cobalt.json) |
 | Project Confrontation | 57051 | [57051-project-confrontation.json](./57051-project-confrontation.json) |
+| Project Cradle | 286081 | [286081-project-cradle.json](./286081-project-cradle.json) |
 | Project Crimson | 166735 | [166735-project-crimson.json](./166735-project-crimson.json) |
 | Project Cube | 305920 | [305920-project-cube.json](./305920-project-cube.json) |
 | Project D | 255117 | [255117-project-d.json](./255117-project-d.json) |
