@@ -3074,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game 5.6 | 406187 | [406187-coloring-game-5-6.json](./406187-coloring-game-5-6.json) |
 | Coloring Game: Girls | 255329 | [255329-coloring-game-girls.json](./255329-coloring-game-girls.json) |
 | Coloring Game: Little City | 130402 | [130402-coloring-game-little-city.json](./130402-coloring-game-little-city.json) |
+| Coloring Game: Studio | 273998 | [273998-coloring-game-studio.json](./273998-coloring-game-studio.json) |
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
 | Coloring Pixels: Advent 6 Pack | 351619 | [351619-coloring-pixels-advent-6-pack.json](./351619-coloring-pixels-advent-6-pack.json) |
 | Coloring Pixels: Candy Pack | 351621 | [351621-coloring-pixels-candy-pack.json](./351621-coloring-pixels-candy-pack.json) |
@@ -3429,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquer the World | 71532 | [71532-conquer-the-world.json](./71532-conquer-the-world.json) |
 | Conquer-Strike 2 | 273370 | [273370-conquer-strike-2.json](./273370-conquer-strike-2.json) |
 | Conquer: Napoleonic Wars | 235447 | [235447-conquer-napoleonic-wars.json](./235447-conquer-napoleonic-wars.json) |
+| Conquered Complex | 274012 | [274012-conquered-complex.json](./274012-conquered-complex.json) |
 | Conquered Kingdoms | 69804 | [69804-conquered-kingdoms.json](./69804-conquered-kingdoms.json) |
 | Conquering Everest | 262399 | [262399-conquering-everest.json](./262399-conquering-everest.json) |
 | Conquering the Queen | 127965 | [127965-conquering-the-queen.json](./127965-conquering-the-queen.json) |
@@ -4487,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
 | Cross Chase | 293229 | [293229-cross-chase.json](./293229-cross-chase.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
+| Cross Dungeon | 274029 | [274029-cross-dungeon.json](./274029-cross-dungeon.json) |
 | Cross Edge Dash | 320956 | [320956-cross-edge-dash.json](./320956-cross-edge-dash.json) |
 | Cross Guardian | 381110 | [381110-cross-guardian.json](./381110-cross-guardian.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
@@ -4925,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: The One Who Waits | 408806 | [408806-cult-of-the-lamb-the-one-who-waits.json](./408806-cult-of-the-lamb-the-one-who-waits.json) |
 | Cult of the Lamb: Unholy Pack Bundle | 324472 | [324472-cult-of-the-lamb-unholy-pack-bundle.json](./324472-cult-of-the-lamb-unholy-pack-bundle.json) |
 | Cult&Card | 291765 | [291765-cult-and-card.json](./291765-cult-and-card.json) |
+| Cultivation Fantasy | 274042 | [274042-cultivation-fantasy.json](./274042-cultivation-fantasy.json) |
 | Cultivation Story: Reincarnation | 211228 | [211228-cultivation-story-reincarnation.json](./211228-cultivation-story-reincarnation.json) |
 | Culto a los dioses | 228428 | [228428-culto-a-los-dioses.json](./228428-culto-a-los-dioses.json) |
 | Culture Warz: Chess | 291757 | [291757-culture-warz-chess.json](./291757-culture-warz-chess.json) |
