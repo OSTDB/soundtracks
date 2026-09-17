@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayward Terran Frontier: Zero Falls | 34680 | [34680-wayward-terran-frontier-zero-falls.json](./34680-wayward-terran-frontier-zero-falls.json) |
 | WBTR: Welcome Back to Reality | 130376 | [130376-wbtr-welcome-back-to-reality.json](./130376-wbtr-welcome-back-to-reality.json) |
 | WC Dream | 296385 | [296385-wc-dream.json](./296385-wc-dream.json) |
+| WCP Word Girlfriend | 259058 | [259058-wcp-word-girlfriend.json](./259058-wcp-word-girlfriend.json) |
 | WCW vs. nWo: World Tour | 3635 | [3635-wcw-vs-nwo-world-tour.json](./3635-wcw-vs-nwo-world-tour.json) |
 | WCW: World Championship Wrestling | 48095 | [48095-wcw-world-championship-wrestling.json](./48095-wcw-world-championship-wrestling.json) |
 | We Are All but Bones and Dust | 165049 | [165049-we-are-all-but-bones-and-dust.json](./165049-we-are-all-but-bones-and-dust.json) |
