@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Sport and Cycling | 116304 | [116304-vr-sport-and-cycling.json](./116304-vr-sport-and-cycling.json) |
 | VR Squash 2017 | 74398 | [74398-vr-squash-2017.json](./74398-vr-squash-2017.json) |
 | VR Sweet Heart | 193450 | [193450-vr-sweet-heart.json](./193450-vr-sweet-heart.json) |
+| VR T72 Battle in Afghanistan | 236920 | [236920-vr-t72-battle-in-afghanistan.json](./236920-vr-t72-battle-in-afghanistan.json) |
 | VR Table Sports | 50548 | [50548-vr-table-sports.json](./50548-vr-table-sports.json) |
 | VR Tennis | 247042 | [247042-vr-tennis.json](./247042-vr-tennis.json) |
 | VR The Diner Duo | 25118 | [25118-vr-the-diner-duo.json](./25118-vr-the-diner-duo.json) |
