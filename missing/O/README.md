@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Rotten Oath | 358376 | [358376-one-rotten-oath.json](./358376-one-rotten-oath.json) |
 | One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
 | One Shot | 179111 | [179111-one-shot.json](./179111-one-shot.json) |
+| One Shot Challenge | 234742 | [234742-one-shot-challenge.json](./234742-one-shot-challenge.json) |
 | One Shot Challenge | 390665 | [390665-one-shot-challenge.json](./390665-one-shot-challenge.json) |
 | One Shot Gladiator | 292012 | [292012-one-shot-gladiator.json](./292012-one-shot-gladiator.json) |
 | One Shot in the Dark, Now I'm Dead. | 159335 | [159335-one-shot-in-the-dark-now-im-dead.json](./159335-one-shot-in-the-dark-now-im-dead.json) |
@@ -813,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Thousand and One Days | 182969 | [182969-one-thousand-and-one-days.json](./182969-one-thousand-and-one-days.json) |
 | One Thousand Lies | 19444 | [19444-one-thousand-lies.json](./19444-one-thousand-lies.json) |
 | One to Three: Sovereignty | 182998 | [182998-one-to-three-sovereignty.json](./182998-one-to-three-sovereignty.json) |
+| One Ton Bang Bang | 234722 | [234722-one-ton-bang-bang.json](./234722-one-ton-bang-bang.json) |
 | One Tower Defense | 390517 | [390517-one-tower-defense.json](./390517-one-tower-defense.json) |
 | One True Path | 334151 | [334151-one-true-path.json](./334151-one-true-path.json) |
 | One Try Tower | 150623 | [150623-one-try-tower.json](./150623-one-try-tower.json) |
