@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilds of the Realmwalker | 356747 | [356747-wilds-of-the-realmwalker.json](./356747-wilds-of-the-realmwalker.json) |
 | Wilds.io | 79877 | [79877-wilds-io.json](./79877-wilds-io.json) |
 | Wildseed | 356170 | [356170-wildseed.json](./356170-wildseed.json) |
+| Wildwood | 279754 | [279754-wildwood.json](./279754-wildwood.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Will | 333636 | [333636-will.json](./333636-will.json) |
 | Will Hero | 92116 | [92116-will-hero.json](./92116-will-hero.json) |
