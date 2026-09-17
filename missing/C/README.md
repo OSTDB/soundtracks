@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Changelog | 360569 | [360569-changelog.json](./360569-changelog.json) |
 | Changes | 152903 | [152903-changes.json](./152903-changes.json) |
 | Channel 64 | 395048 | [395048-channel-64.json](./395048-channel-64.json) |
+| Channel 7 | 240313 | [240313-channel-7.json](./240313-channel-7.json) |
 | Channel Surfing | 356111 | [356111-channel-surfing.json](./356111-channel-surfing.json) |
 | Chant | 125948 | [125948-chant.json](./125948-chant.json) |
 | Chantelise - A Tale of Two Sisters | 12525 | [12525-chantelise-a-tale-of-two-sisters.json](./12525-chantelise-a-tale-of-two-sisters.json) |
@@ -5054,6 +5055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeRun | 89268 | [89268-cuberun.json](./89268-cuberun.json) |
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
+| Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
 | Cubey Quarry | 339352 | [339352-cubey-quarry.json](./339352-cubey-quarry.json) |
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
 | CUBG: Car unknown battlegrounds | 120994 | [120994-cubg-car-unknown-battlegrounds.json](./120994-cubg-car-unknown-battlegrounds.json) |
