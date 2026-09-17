@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Clicker | 241956 | [241956-mafia-clicker.json](./241956-mafia-clicker.json) |
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
 | Mafia III: Faster, Baby! | 39761 | [39761-mafia-iii-faster-baby.json](./39761-mafia-iii-faster-baby.json) |
+| Mafia in Town | 239756 | [239756-mafia-in-town.json](./239756-mafia-in-town.json) |
 | Mafia Pizza: Family Business | 416666 | [416666-mafia-pizza-family-business.json](./416666-mafia-pizza-family-business.json) |
 | Mafia Reigns: Power And Blood | 318405 | [318405-mafia-reigns-power-and-blood.json](./318405-mafia-reigns-power-and-blood.json) |
 | Mafia Rush | 20727 | [20727-mafia-rush.json](./20727-mafia-rush.json) |
@@ -1412,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Assault Network 2 | 9381 | [9381-massive-assault-network-2.json](./9381-massive-assault-network-2.json) |
 | Massive Chalice | 15861 | [15861-massive-chalice.json](./15861-massive-chalice.json) |
 | Massive Decks | 146833 | [146833-massive-decks.json](./146833-massive-decks.json) |
+| Massive Defense | 239740 | [239740-massive-defense.json](./239740-massive-defense.json) |
 | Master Arena | 97280 | [97280-master-arena.json](./97280-master-arena.json) |
 | Master Bladesmith | 127219 | [127219-master-bladesmith.json](./127219-master-bladesmith.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
@@ -3126,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi the Cat: New Friends | 253911 | [253911-mimi-the-cat-new-friends.json](./253911-mimi-the-cat-new-friends.json) |
 | Mimi Wuhui | 410959 | [410959-mimi-wuhui.json](./410959-mimi-wuhui.json) |
 | Mimic | 286103 | [286103-mimic.json](./286103-mimic.json) |
+| Mimic Hunters | 239761 | [239761-mimic-hunters.json](./239761-mimic-hunters.json) |
 | Mimic Party | 413646 | [413646-mimic-party.json](./413646-mimic-party.json) |
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
 | Mimic Sleuth | 355031 | [355031-mimic-sleuth.json](./355031-mimic-sleuth.json) |
