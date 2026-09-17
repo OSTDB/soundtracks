@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
 | Magic Knight Rayearth | 38375 | [38375-magic-knight-rayearth.json](./38375-magic-knight-rayearth.json) |
 | Magic Knight Rayearth 2: Making of Magic Knight | 45265 | [45265-magic-knight-rayearth-2-making-of-magic-knight.json](./45265-magic-knight-rayearth-2-making-of-magic-knight.json) |
+| Magic Labyrinth 3D | 279119 | [279119-magic-labyrinth-3d.json](./279119-magic-labyrinth-3d.json) |
 | Magic League | 99016 | [99016-magic-league.json](./99016-magic-league.json) |
 | Magic Light | 94727 | [94727-magic-light.json](./94727-magic-light.json) |
 | Magic LightHouse | 147385 | [147385-magic-lighthouse.json](./147385-magic-lighthouse.json) |
@@ -812,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maoten | 194576 | [194576-maoten.json](./194576-maoten.json) |
 | Maou's Crucible | 381740 | [381740-maous-crucible.json](./381740-maous-crucible.json) |
 | Màoxiǎn Xiǎofēnduì | 370228 | [370228-maoxian-xiaofendui.json](./370228-maoxian-xiaofendui.json) |
+| Map Map: A Game About Maps | 279120 | [279120-map-map-a-game-about-maps.json](./279120-map-map-a-game-about-maps.json) |
 | Map Snap | 112338 | [112338-map-snap.json](./112338-map-snap.json) |
 | MapGame | 341893 | [341893-mapgame.json](./341893-mapgame.json) |
 | Maple & Rufus: The Water Robbery | 296490 | [296490-maple-and-rufus-the-water-robbery.json](./296490-maple-and-rufus-the-water-robbery.json) |
@@ -1822,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medic Mayhem | 406680 | [406680-medic-mayhem.json](./406680-medic-mayhem.json) |
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
 | Medical verdict | 107913 | [107913-medical-verdict.json](./107913-medical-verdict.json) |
+| Medicevil | 279121 | [279121-medicevil.json](./279121-medicevil.json) |
 | Medicinal Herbs: Cannabis Grow Simulator | 172149 | [172149-medicinal-herbs-cannabis-grow-simulator.json](./172149-medicinal-herbs-cannabis-grow-simulator.json) |
 | Medieval 2 | 95476 | [95476-medieval-2.json](./95476-medieval-2.json) |
 | Medieval Adventure | 366264 | [366264-medieval-adventure.json](./366264-medieval-adventure.json) |
@@ -2418,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaball: Red Astro Pack | 293418 | [293418-metaball-red-astro-pack.json](./293418-metaball-red-astro-pack.json) |
 | MetaCity M | 220334 | [220334-metacity-m.json](./220334-metacity-m.json) |
 | Metacity Patrol | 339796 | [339796-metacity-patrol.json](./339796-metacity-patrol.json) |
+| Metaforces Bowling Center | 279122 | [279122-metaforces-bowling-center.json](./279122-metaforces-bowling-center.json) |
 | Metagal | 19321 | [19321-metagal.json](./19321-metagal.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
 | Metal Army War Revenge | 221714 | [221714-metal-army-war-revenge.json](./221714-metal-army-war-revenge.json) |
@@ -3795,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom | 159247 | [159247-mom.json](./159247-mom.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
+| Momento | 279123 | [279123-momento.json](./279123-momento.json) |
 | Moments | 356702 | [356702-moments.json](./356702-moments.json) |
 | Moments Out of Time | 60009 | [60009-moments-out-of-time.json](./60009-moments-out-of-time.json) |
 | Momibosu | 151726 | [151726-momibosu.json](./151726-momibosu.json) |
