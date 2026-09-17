@@ -2146,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melted Time | 336526 | [336526-melted-time.json](./336526-melted-time.json) |
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
 | Melting Hearts: Our Love Will Grow 2 | 33080 | [33080-melting-hearts-our-love-will-grow-2.json](./33080-melting-hearts-our-love-will-grow-2.json) |
+| Melting Moon | 280935 | [280935-melting-moon.json](./280935-melting-moon.json) |
 | Melty Blood Actress Again Current Code | 19943 | [19943-melty-blood-actress-again-current-code.json](./19943-melty-blood-actress-again-current-code.json) |
 | Melty Blood: Type Lumina | 145017 | [145017-melty-blood-type-lumina.json](./145017-melty-blood-type-lumina.json) |
 | MeltyFlow: A Cozy Desktop Lava Lamp | 406676 | [406676-meltyflow-a-cozy-desktop-lava-lamp.json](./406676-meltyflow-a-cozy-desktop-lava-lamp.json) |
@@ -3610,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
 | Mobile Murder Mystery | 370691 | [370691-mobile-murder-mystery.json](./370691-mobile-murder-mystery.json) |
 | Mobile Soldiers: Plastic Army | 369639 | [369639-mobile-soldiers-plastic-army.json](./369639-mobile-soldiers-plastic-army.json) |
+| Mobile Suit Baba | 280934 | [280934-mobile-suit-baba.json](./280934-mobile-suit-baba.json) |
 | Mobile Suit Gundam | 125966 | [125966-mobile-suit-gundam.json](./125966-mobile-suit-gundam.json) |
 | Mobile Suit Gundam | 132794 | [132794-mobile-suit-gundam.json](./132794-mobile-suit-gundam.json) |
 | Mobile Suit Gundam Extreme Versus 2 Cross Boost | 265951 | [265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json](./265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json) |
@@ -4266,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
 | Moonshine Madness | 304588 | [304588-moonshine-madness.json](./304588-moonshine-madness.json) |
 | Moonshine Maniacs: A Wild West Saga | 132221 | [132221-moonshine-maniacs-a-wild-west-saga.json](./132221-moonshine-maniacs-a-wild-west-saga.json) |
+| Moonshire | 280933 | [280933-moonshire.json](./280933-moonshire.json) |
 | Moonsigil Atlas | 322204 | [322204-moonsigil-atlas.json](./322204-moonsigil-atlas.json) |
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
 | Moonstone Island: Arcane Artifacts | 301852 | [301852-moonstone-island-arcane-artifacts.json](./301852-moonstone-island-arcane-artifacts.json) |
@@ -5562,6 +5565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystia | 288872 | [288872-mystia.json](./288872-mystia.json) |
 | Mystia3 | 381723 | [381723-mystia3.json](./381723-mystia3.json) |
 | Mystic Ark: Maboroshi Gekijo | 67326 | [67326-mystic-ark-maboroshi-gekijo.json](./67326-mystic-ark-maboroshi-gekijo.json) |
+| Mystic Balloon | 280890 | [280890-mystic-balloon.json](./280890-mystic-balloon.json) |
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
 | Mystic Diary: Lost Brother | 32216 | [32216-mystic-diary-lost-brother.json](./32216-mystic-diary-lost-brother.json) |
 | Mystic Explorer | 316642 | [316642-mystic-explorer.json](./316642-mystic-explorer.json) |
