@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailwind | 90648 | [90648-tailwind.json](./90648-tailwind.json) |
 | TailzFromTheGrave | 108434 | [108434-tailzfromthegrave.json](./108434-tailzfromthegrave.json) |
 | Taima Miko Yuugi | 68673 | [68673-taima-miko-yuugi.json](./68673-taima-miko-yuugi.json) |
+| Taima Toushin Hachikuma Tok | 245929 | [245929-taima-toushin-hachikuma-tok.json](./245929-taima-toushin-hachikuma-tok.json) |
 | Taimanin Asagi | 259866 | [259866-taimanin-asagi.json](./259866-taimanin-asagi.json) |
 | Taimanin RPG Extasy | 272920 | [272920-taimanin-rpg-extasy.json](./272920-taimanin-rpg-extasy.json) |
 | Taina's Cursed Legacy | 361686 | [361686-tainas-cursed-legacy.json](./361686-tainas-cursed-legacy.json) |
@@ -922,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tear Ring Saga | 43872 | [43872-tear-ring-saga.json](./43872-tear-ring-saga.json) |
 | Tear Ring Saga Series: Berwick Saga: Lazberia Chronicle Chapter 174 | 80578 | [80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json](./80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json) |
 | Teardown: Creative Mode | 252848 | [252848-teardown-creative-mode.json](./252848-teardown-creative-mode.json) |
+| Tears Fall Low | 245919 | [245919-tears-fall-low.json](./245919-tears-fall-low.json) |
 | Tears of a Dragon | 29798 | [29798-tears-of-a-dragon.json](./29798-tears-of-a-dragon.json) |
 | Tears of Adria | 268226 | [268226-tears-of-adria.json](./268226-tears-of-adria.json) |
 | Tears of Magic | 224574 | [224574-tears-of-magic.json](./224574-tears-of-magic.json) |
@@ -1931,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brave Mouse | 51513 | [51513-the-brave-mouse.json](./51513-the-brave-mouse.json) |
 | The Brave Never Alone | 351109 | [351109-the-brave-never-alone.json](./351109-the-brave-never-alone.json) |
 | The Brazil | 294851 | [294851-the-brazil.json](./294851-the-brazil.json) |
+| The Bread Must Rise | 245926 | [245926-the-bread-must-rise.json](./245926-the-bread-must-rise.json) |
 | The Bread Pub Brawlers | 86118 | [86118-the-bread-pub-brawlers.json](./86118-the-bread-pub-brawlers.json) |
 | The Bridge | 352753 | [352753-the-bridge.json](./352753-the-bridge.json) |
 | The Bridge | 8440 | [8440-the-bridge.json](./8440-the-bridge.json) |
@@ -2737,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Ones | 17656 | [17656-the-forgotten-ones.json](./17656-the-forgotten-ones.json) |
 | The Forgotten Phobia | 170547 | [170547-the-forgotten-phobia.json](./170547-the-forgotten-phobia.json) |
 | The Forgotten Tapes: Analog Nightmares | 231353 | [231353-the-forgotten-tapes-analog-nightmares.json](./231353-the-forgotten-tapes-analog-nightmares.json) |
+| The Forgotten Tapes: Twisted Forms | 245944 | [245944-the-forgotten-tapes-twisted-forms.json](./245944-the-forgotten-tapes-twisted-forms.json) |
 | The Forgotten Village | 337488 | [337488-the-forgotten-village.json](./337488-the-forgotten-village.json) |
 | The Forgotten Village of Gondomayit | 268215 | [268215-the-forgotten-village-of-gondomayit.json](./268215-the-forgotten-village-of-gondomayit.json) |
 | The Forgotten Villages of Gondomayit 2" Kost Karangsari | 285569 | [285569-the-forgotten-villages-of-gondomayit-2-kost-karangsari.json](./285569-the-forgotten-villages-of-gondomayit-2-kost-karangsari.json) |
