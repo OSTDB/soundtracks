@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zap't'Balls | 95464 | [95464-zaptballs.json](./95464-zaptballs.json) |
 | Zapactris | 71551 | [71551-zapactris.json](./71551-zapactris.json) |
 | Zaphie 2 | 145656 | [145656-zaphie-2.json](./145656-zaphie-2.json) |
+| Zapling Bygone: Deluxe Edition | 249261 | [249261-zapling-bygone-deluxe-edition.json](./249261-zapling-bygone-deluxe-edition.json) |
 | ZAR | 161374 | [161374-zar.json](./161374-zar.json) |
 | Zargog | 356638 | [356638-zargog.json](./356638-zargog.json) |
 | Zarktor's Realm | 189172 | [189172-zarktors-realm.json](./189172-zarktors-realm.json) |
