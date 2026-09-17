@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoake no Mariko | 65455 | [65455-yoake-no-mariko.json](./65455-yoake-no-mariko.json) |
 | Yoake no Mariko 2nd Act | 55858 | [55858-yoake-no-mariko-2nd-act.json](./55858-yoake-no-mariko-2nd-act.json) |
 | YoBro | 37730 | [37730-yobro.json](./37730-yobro.json) |
+| Yoda's Escape | 243820 | [243820-yodas-escape.json](./243820-yodas-escape.json) |
 | Yodobongingi | 234635 | [234635-yodobongingi.json](./234635-yodobongingi.json) |
 | Yodoyabashi Oyasama Club | 254505 | [254505-yodoyabashi-oyasama-club.json](./254505-yodoyabashi-oyasama-club.json) |
 | Yoga Therapy | 235220 | [235220-yoga-therapy.json](./235220-yoga-therapy.json) |
