@@ -1527,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix | 71477 | [71477-phoenix.json](./71477-phoenix.json) |
 | Phoenix 2 | 275718 | [275718-phoenix-2.json](./275718-phoenix-2.json) |
 | Phoenix Contract | 322588 | [322588-phoenix-contract.json](./322588-phoenix-contract.json) |
+| Phoenix Nightmare | 235314 | [235314-phoenix-nightmare.json](./235314-phoenix-nightmare.json) |
 | Phoenix Point: Blood and Titanium | 149580 | [149580-phoenix-point-blood-and-titanium.json](./149580-phoenix-point-blood-and-titanium.json) |
 | Phoenix Point: Corrupted Horizons | 171628 | [171628-phoenix-point-corrupted-horizons.json](./171628-phoenix-point-corrupted-horizons.json) |
 | Phoenix Point: Festering Skies | 149592 | [149592-phoenix-point-festering-skies.json](./149592-phoenix-point-festering-skies.json) |
@@ -3247,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poogers | 223131 | [223131-poogers.json](./223131-poogers.json) |
 | Pooh's Hundred Acre Wood Adventure | 326583 | [326583-poohs-hundred-acre-wood-adventure.json](./326583-poohs-hundred-acre-wood-adventure.json) |
 | Pooking: Billiards City | 255757 | [255757-pooking-billiards-city.json](./255757-pooking-billiards-city.json) |
+| Pool | 235341 | [235341-pool.json](./235341-pool.json) |
 | Pool | 246502 | [246502-pool.json](./246502-pool.json) |
 | Pool | 352172 | [352172-pool.json](./352172-pool.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
