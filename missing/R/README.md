@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return | 255987 | [255987-return.json](./255987-return.json) |
 | Return Ace | 195759 | [195759-return-ace.json](./195759-return-ace.json) |
 | Return Alive | 255803 | [255803-return-alive.json](./255803-return-alive.json) |
+| Return of Double Dragon | 248131 | [248131-return-of-double-dragon.json](./248131-return-of-double-dragon.json) |
 | Return of the Phantom | 69869 | [69869-return-of-the-phantom.json](./69869-return-of-the-phantom.json) |
 | Return of the Saiyans | 237407 | [237407-return-of-the-saiyans.json](./237407-return-of-the-saiyans.json) |
 | Return of the Skeletal | 135175 | [135175-return-of-the-skeletal.json](./135175-return-of-the-skeletal.json) |
@@ -2680,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Trooper: Quartz Zone Massacre | 21262 | [21262-rogue-trooper-quartz-zone-massacre.json](./21262-rogue-trooper-quartz-zone-massacre.json) |
 | Rogue Warrior | 564 | [564-rogue-warrior.json](./564-rogue-warrior.json) |
 | Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
+| Rogue with the Dead | 248144 | [248144-rogue-with-the-dead.json](./248144-rogue-with-the-dead.json) |
 | Rogue Words | 353409 | [353409-rogue-words.json](./353409-rogue-words.json) |
 | Rogue Zillion | 75766 | [75766-rogue-zillion.json](./75766-rogue-zillion.json) |
 | Rogue-Like: Evolution | 282677 | [282677-rogue-like-evolution.json](./282677-rogue-like-evolution.json) |
