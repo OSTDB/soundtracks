@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku Justice | 74402 | [74402-sangoku-justice.json](./74402-sangoku-justice.json) |
 | Sangoku Rensenki ~Omoidegaeshi~ CS Edition | 135856 | [135856-sangoku-rensenki-omoidegaeshi-cs-edition.json](./135856-sangoku-rensenki-omoidegaeshi-cs-edition.json) |
 | Sangoku Stories Ten | 222510 | [222510-sangoku-stories-ten.json](./222510-sangoku-stories-ten.json) |
+| Sangoku Xiangqi | 259096 | [259096-sangoku-xiangqi.json](./259096-sangoku-xiangqi.json) |
 | Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
 | Sangokushi Taisen | 27624 | [27624-sangokushi-taisen.json](./27624-sangokushi-taisen.json) |
@@ -1037,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribble Hero | 382203 | [382203-scribble-hero.json](./382203-scribble-hero.json) |
 | Scribble Shooter | 21152 | [21152-scribble-shooter.json](./21152-scribble-shooter.json) |
 | Scribble Space | 35711 | [35711-scribble-space.json](./35711-scribble-space.json) |
+| Scribble Worm | 259076 | [259076-scribble-worm.json](./259076-scribble-worm.json) |
 | Scribbleman Army | 217026 | [217026-scribbleman-army.json](./217026-scribbleman-army.json) |
 | Scribblemania | 327177 | [327177-scribblemania.json](./327177-scribblemania.json) |
 | Scribblenauts Remix | 8806 | [8806-scribblenauts-remix.json](./8806-scribblenauts-remix.json) |
@@ -1167,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Sushi | 187440 | [187440-search-all-sushi.json](./187440-search-all-sushi.json) |
 | Search All: UFO | 249800 | [249800-search-all-ufo.json](./249800-search-all-ufo.json) |
 | Search and Rescue: Snowman From Outer Space | 301271 | [301271-search-and-rescue-snowman-from-outer-space.json](./301271-search-and-rescue-snowman-from-outer-space.json) |
+| Search and Rescue: Yosemite | 259063 | [259063-search-and-rescue-yosemite.json](./259063-search-and-rescue-yosemite.json) |
 | Search for the Secret Keys | 69885 | [69885-search-for-the-secret-keys.json](./69885-search-for-the-secret-keys.json) |
 | Search for the Titanic | 69849 | [69849-search-for-the-titanic.json](./69849-search-for-the-titanic.json) |
 | Search of the Stolen Crown Jewels | 143048 | [143048-search-of-the-stolen-crown-jewels.json](./143048-search-of-the-stolen-crown-jewels.json) |
@@ -1661,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Apocalypse 3D | 219605 | [219605-sex-apocalypse-3d.json](./219605-sex-apocalypse-3d.json) |
 | Sex Battle [Interacademy! NTR Gangbang Game] | 82938 | [82938-sex-battle-interacademy-ntr-gangbang-game.json](./82938-sex-battle-interacademy-ntr-gangbang-game.json) |
 | Sex Care Magical Girl | 82799 | [82799-sex-care-magical-girl.json](./82799-sex-care-magical-girl.json) |
+| Sex City: 2069 | 259087 | [259087-sex-city-2069.json](./259087-sex-city-2069.json) |
 | Sex College | 297214 | [297214-sex-college.json](./297214-sex-college.json) |
 | Sex Diary: Double Trouble Teacher | 286532 | [286532-sex-diary-double-trouble-teacher.json](./286532-sex-diary-double-trouble-teacher.json) |
 | Sex Diary: Futanari Jail | 286533 | [286533-sex-diary-futanari-jail.json](./286533-sex-diary-futanari-jail.json) |
@@ -3247,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy Marathon | 319799 | [319799-sketchy-marathon.json](./319799-sketchy-marathon.json) |
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
 | Ski Jump International v2 | 342080 | [342080-ski-jump-international-v2.json](./342080-ski-jump-international-v2.json) |
+| Ski Jumping PVP | 259082 | [259082-ski-jumping-pvp.json](./259082-ski-jumping-pvp.json) |
 | Ski Race | 64365 | [64365-ski-race.json](./64365-ski-race.json) |
 | Ski Racing 2005 | 54362 | [54362-ski-racing-2005.json](./54362-ski-racing-2005.json) |
 | Ski Resort Mogul | 54363 | [54363-ski-resort-mogul.json](./54363-ski-resort-mogul.json) |
@@ -3415,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyforce | 174856 | [174856-skyforce.json](./174856-skyforce.json) |
 | Skyfort | 310170 | [310170-skyfort.json](./310170-skyfort.json) |
 | Skyfox II: The Cygnus Conflict | 55086 | [55086-skyfox-ii-the-cygnus-conflict.json](./55086-skyfox-ii-the-cygnus-conflict.json) |
+| Skyguard 0: Air Arcade | 259097 | [259097-skyguard-0-air-arcade.json](./259097-skyguard-0-air-arcade.json) |
 | Skyhammer | 40807 | [40807-skyhammer.json](./40807-skyhammer.json) |
 | SKYHILL: Black Mist | 117770 | [117770-skyhill-black-mist.json](./117770-skyhill-black-mist.json) |
 | Skyjet | 47245 | [47245-skyjet.json](./47245-skyjet.json) |
@@ -5273,6 +5279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bust-A-Move | 20484 | [20484-space-bust-a-move.json](./20484-space-bust-a-move.json) |
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
 | Space Candy | 125398 | [125398-space-candy.json](./125398-space-candy.json) |
+| Space Cantina | 259073 | [259073-space-cantina.json](./259073-space-cantina.json) |
 | Space Canyon | 40771 | [40771-space-canyon.json](./40771-space-canyon.json) |
 | Space Captain McCallery Episode 3: The Weaponmaster's Challenge | 142381 | [142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json](./142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json) |
 | Space Casual | 220625 | [220625-space-casual.json](./220625-space-casual.json) |
@@ -6433,6 +6440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand O'Food | 66976 | [66976-stand-ofood.json](./66976-stand-ofood.json) |
 | Stand O'Food 3 | 87189 | [87189-stand-ofood-3.json](./87189-stand-ofood-3.json) |
 | Stand Out: VR Battle Royale | 115729 | [115729-stand-out-vr-battle-royale.json](./115729-stand-out-vr-battle-royale.json) |
+| Stand Your Ground | 259098 | [259098-stand-your-ground.json](./259098-stand-your-ground.json) |
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
 | Standby | 248069 | [248069-standby.json](./248069-standby.json) |
 | Standby | 26715 | [26715-standby.json](./26715-standby.json) |
@@ -8519,6 +8527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Japan Puzzles | 155641 | [155641-super-jigsaw-puzzle-generations-japan-puzzles.json](./155641-super-jigsaw-puzzle-generations-japan-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Kittens 2 | 195278 | [195278-super-jigsaw-puzzle-generations-kittens-2.json](./195278-super-jigsaw-puzzle-generations-kittens-2.json) |
 | Super Jigsaw Puzzle: Generations - Kittens Puzzles | 155590 | [155590-super-jigsaw-puzzle-generations-kittens-puzzles.json](./155590-super-jigsaw-puzzle-generations-kittens-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Landscapes 3 | 259088 | [259088-super-jigsaw-puzzle-generations-landscapes-3.json](./259088-super-jigsaw-puzzle-generations-landscapes-3.json) |
 | Super Jigsaw Puzzle: Generations - Landscapes Puzzles | 155624 | [155624-super-jigsaw-puzzle-generations-landscapes-puzzles.json](./155624-super-jigsaw-puzzle-generations-landscapes-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Love | 195277 | [195277-super-jigsaw-puzzle-generations-love.json](./195277-super-jigsaw-puzzle-generations-love.json) |
 | Super Jigsaw Puzzle: Generations - Mexico Puzzles | 155642 | [155642-super-jigsaw-puzzle-generations-mexico-puzzles.json](./155642-super-jigsaw-puzzle-generations-mexico-puzzles.json) |
