@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagnerun | 324339 | [324339-vagnerun.json](./324339-vagnerun.json) |
 | Vagrant Hearts | 25470 | [25470-vagrant-hearts.json](./25470-vagrant-hearts.json) |
 | Vagrant Hearts Zero | 28938 | [28938-vagrant-hearts-zero.json](./28938-vagrant-hearts-zero.json) |
+| Vagrant Shifter | 286129 | [286129-vagrant-shifter.json](./286129-vagrant-shifter.json) |
 | Vagrant Story | 2216 | [2216-vagrant-story.json](./2216-vagrant-story.json) |
 | Vagrus: The Riven Realms - At the Heart of Ruin | 375174 | [375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json](./375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json) |
 | Vagrus: The Riven Realms - Centurion Edition | 186892 | [186892-vagrus-the-riven-realms-centurion-edition.json](./186892-vagrus-the-riven-realms-centurion-edition.json) |
@@ -573,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Dodge | 7837 | [7837-viking-dodge.json](./7837-viking-dodge.json) |
 | Viking Farm | 396909 | [396909-viking-farm.json](./396909-viking-farm.json) |
 | Viking Fish | 318620 | [318620-viking-fish.json](./318620-viking-fish.json) |
+| Viking Frontiers | 286113 | [286113-viking-frontiers.json](./286113-viking-frontiers.json) |
 | Viking Idle | 172167 | [172167-viking-idle.json](./172167-viking-idle.json) |
 | Viking Invasion | 230864 | [230864-viking-invasion.json](./230864-viking-invasion.json) |
 | Viking Invasion | 67331 | [67331-viking-invasion.json](./67331-viking-invasion.json) |
