@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Valhalla | 113733 | [113733-path-to-valhalla.json](./113733-path-to-valhalla.json) |
 | Path to Warband | 215692 | [215692-path-to-warband.json](./215692-path-to-warband.json) |
 | Path Weaver | 296644 | [296644-path-weaver.json](./296644-path-weaver.json) |
+| Pathfinder | 282100 | [282100-pathfinder.json](./282100-pathfinder.json) |
 | Pathfinder Puzzle | 158182 | [158182-pathfinder-puzzle.json](./158182-pathfinder-puzzle.json) |
 | Pathfinder: Kingmaker - Enhanced Plus Edition | 154530 | [154530-pathfinder-kingmaker-enhanced-plus-edition.json](./154530-pathfinder-kingmaker-enhanced-plus-edition.json) |
 | Pathfinder: Wrath of the Righteous - Game of the Year Edition | 331855 | [331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json](./331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json) |
@@ -4203,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Provoron | 258977 | [258977-provoron.json](./258977-provoron.json) |
 | Prowler | 55085 | [55085-prowler.json](./55085-prowler.json) |
 | Proxima | 406840 | [406840-proxima.json](./406840-proxima.json) |
+| Proximate | 282108 | [282108-proximate.json](./282108-proximate.json) |
 | Prší | 99579 | [99579-prsi.json](./99579-prsi.json) |
 | Prueba Humana | 361231 | [361231-prueba-humana.json](./361231-prueba-humana.json) |
 | Prune & Milo | 294134 | [294134-prune-and-milo.json](./294134-prune-and-milo.json) |
