@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet the Myths: An Ormhildur the Brave Game | 331126 | [331126-meet-the-myths-an-ormhildur-the-brave-game.json](./331126-meet-the-myths-an-ormhildur-the-brave-game.json) |
 | Meet the Rookie | 310924 | [310924-meet-the-rookie.json](./310924-meet-the-rookie.json) |
 | Meet the Vowels | 102773 | [102773-meet-the-vowels.json](./102773-meet-the-vowels.json) |
+| Meet Your Maker: Deluxe Edition | 243798 | [243798-meet-your-maker-deluxe-edition.json](./243798-meet-your-maker-deluxe-edition.json) |
 | Meet Your Maker: Sector 3 Arsenal Pack | 284882 | [284882-meet-your-maker-sector-3-arsenal-pack.json](./284882-meet-your-maker-sector-3-arsenal-pack.json) |
 | Meet'N'Fuck Denise Milani | 221728 | [221728-meetnfuck-denise-milani.json](./221728-meetnfuck-denise-milani.json) |
 | Meet'N'Fuck Office Romance | 221724 | [221724-meetnfuck-office-romance.json](./221724-meetnfuck-office-romance.json) |
@@ -2297,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorrha | 109573 | [109573-memorrha.json](./109573-memorrha.json) |
 | Memory | 219288 | [219288-memory.json](./219288-memory.json) |
 | Memory | 383929 | [383929-memory.json](./383929-memory.json) |
+| Memory Chase | 243811 | [243811-memory-chase.json](./243811-memory-chase.json) |
 | Memory Color! | 252145 | [252145-memory-color.json](./252145-memory-color.json) |
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
 | Memory Days | 196255 | [196255-memory-days.json](./196255-memory-days.json) |
@@ -2322,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Match Saga: Expansion Pack 7 | 167326 | [167326-memory-match-saga-expansion-pack-7.json](./167326-memory-match-saga-expansion-pack-7.json) |
 | Memory Match Saga: Expansion Pack 8 | 167327 | [167327-memory-match-saga-expansion-pack-8.json](./167327-memory-match-saga-expansion-pack-8.json) |
 | Memory Match Saga: Expansion Pack 9 | 167328 | [167328-memory-match-saga-expansion-pack-9.json](./167328-memory-match-saga-expansion-pack-9.json) |
+| Memory Mosaic | 243792 | [243792-memory-mosaic.json](./243792-memory-mosaic.json) |
 | Memory of a Broken Dimension | 24950 | [24950-memory-of-a-broken-dimension.json](./24950-memory-of-a-broken-dimension.json) |
 | Memory of Memorie: A Chill Story | 409654 | [409654-memory-of-memorie-a-chill-story.json](./409654-memory-of-memorie-a-chill-story.json) |
 | Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
@@ -3688,6 +3691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizu | 229701 | [229701-mizu.json](./229701-mizu.json) |
 | Mizu no Senritsu 2: Hi no Kioku | 67305 | [67305-mizu-no-senritsu-2-hi-no-kioku.json](./67305-mizu-no-senritsu-2-hi-no-kioku.json) |
 | Mizuki Shigeru no Yokai Shashinkan | 43963 | [43963-mizuki-shigeru-no-yokai-shashinkan.json](./43963-mizuki-shigeru-no-yokai-shashinkan.json) |
+| Mizz Survival | 243767 | [243767-mizz-survival.json](./243767-mizz-survival.json) |
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
 | MK-Ultra Tower Defense | 312766 | [312766-mk-ultra-tower-defense.json](./312766-mk-ultra-tower-defense.json) |
 | Mk50TWL Vehicle Battler Custom Slider | 407420 | [407420-mk50twl-vehicle-battler-custom-slider.json](./407420-mk50twl-vehicle-battler-custom-slider.json) |
@@ -5705,6 +5709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition | 118336 | [118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json](./118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition & Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 201821 | [201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
 | Mystery Case Files: Prime Suspects | 5510 | [5510-mystery-case-files-prime-suspects.json](./5510-mystery-case-files-prime-suspects.json) |
+| Mystery Case Files: The Dalimar Legacy - Collector's Edition | 243787 | [243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json](./243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json) |
 | Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
 | Mystery Case Files: The Riddle of Mrs. Bishop | 360051 | [360051-mystery-case-files-the-riddle-of-mrs-bishop.json](./360051-mystery-case-files-the-riddle-of-mrs-bishop.json) |
 | Mystery Castle | 19889 | [19889-mystery-castle.json](./19889-mystery-castle.json) |
