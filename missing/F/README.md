@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarmRPG | 227832 | [227832-farmrpg.json](./227832-farmrpg.json) |
 | FarmVille 3 | 204459 | [204459-farmville-3.json](./204459-farmville-3.json) |
 | FarmVille: Tropic Escape | 87574 | [87574-farmville-tropic-escape.json](./87574-farmville-tropic-escape.json) |
+| Farmwand | 260239 | [260239-farmwand.json](./260239-farmwand.json) |
 | Farmyard Pals Jigsaw Puzzles | 357881 | [357881-farmyard-pals-jigsaw-puzzles.json](./357881-farmyard-pals-jigsaw-puzzles.json) |
 | Farocar | 92980 | [92980-farocar.json](./92980-farocar.json) |
 | Farol del Diablo (Devil's Lantern) | 347136 | [347136-farol-del-diablo-devils-lantern.json](./347136-farol-del-diablo-devils-lantern.json) |
@@ -1993,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlatWarriors | 144915 | [144915-flatwarriors.json](./144915-flatwarriors.json) |
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
 | Flawless | 219790 | [219790-flawless.json](./219790-flawless.json) |
+| Flawless Darkness | 260238 | [260238-flawless-darkness.json](./260238-flawless-darkness.json) |
 | Flea War | 334679 | [334679-flea-war.json](./334679-flea-war.json) |
 | Fleabag vs. Mutt 2 | 403020 | [403020-fleabag-vs-mutt-2.json](./403020-fleabag-vs-mutt-2.json) |
 | Flecto | 407325 | [407325-flecto.json](./407325-flecto.json) |
@@ -2302,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly. Die. Cry. | 26478 | [26478-fly-die-cry.json](./26478-fly-die-cry.json) |
 | Fly2k | 391578 | [391578-fly2k.json](./391578-fly2k.json) |
 | Fly8 | 141223 | [141223-fly8.json](./141223-fly8.json) |
+| FlyBird Leap | 260207 | [260207-flybird-leap.json](./260207-flybird-leap.json) |
 | Flycatcher | 93528 | [93528-flycatcher.json](./93528-flycatcher.json) |
 | Flyer Fox | 46661 | [46661-flyer-fox.json](./46661-flyer-fox.json) |
 | Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
@@ -2682,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklore | 196803 | [196803-forklore.json](./196803-forklore.json) |
 | Forlorn | 280804 | [280804-forlorn.json](./280804-forlorn.json) |
 | Forlorn Memories | 214761 | [214761-forlorn-memories.json](./214761-forlorn-memories.json) |
+| Forlorn Outcast | 260226 | [260226-forlorn-outcast.json](./260226-forlorn-outcast.json) |
 | Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
 | Format | 312580 | [312580-format.json](./312580-format.json) |
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
@@ -3412,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruits Blast - Match Cube | 108953 | [108953-fruits-blast-match-cube.json](./108953-fruits-blast-match-cube.json) |
 | Fruits Inc. Deluxe Pack | 35750 | [35750-fruits-inc-deluxe-pack.json](./35750-fruits-inc-deluxe-pack.json) |
 | Fruits Jigsaw Puzzle | 88167 | [88167-fruits-jigsaw-puzzle.json](./88167-fruits-jigsaw-puzzle.json) |
+| Fruits of Fury | 260205 | [260205-fruits-of-fury.json](./260205-fruits-of-fury.json) |
 | Fruits of Fury | 413618 | [413618-fruits-of-fury.json](./413618-fruits-of-fury.json) |
 | Fruitwolf | 183017 | [183017-fruitwolf.json](./183017-fruitwolf.json) |
 | Fruity Fauna | 374146 | [374146-fruity-fauna.json](./374146-fruity-fauna.json) |
