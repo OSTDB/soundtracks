@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaitaku Touhyou System: Spat4-Wide | 37749 | [37749-zaitaku-touhyou-system-spat4-wide.json](./37749-zaitaku-touhyou-system-spat4-wide.json) |
 | Zak McKracken: A Mansion, a Meteor and the Alien Mindbenders | 328014 | [328014-zak-mckracken-a-mansion-a-meteor-and-the-alien-mindbenders.json](./328014-zak-mckracken-a-mansion-a-meteor-and-the-alien-mindbenders.json) |
 | Zak's Son | 94673 | [94673-zaks-son.json](./94673-zaks-son.json) |
+| Zakantosh Cardgame | 263038 | [263038-zakantosh-cardgame.json](./263038-zakantosh-cardgame.json) |
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
 | Zakuro no Aji | 37748 | [37748-zakuro-no-aji.json](./37748-zakuro-no-aji.json) |
 | Zalera Spark | 310935 | [310935-zalera-spark.json](./310935-zalera-spark.json) |
