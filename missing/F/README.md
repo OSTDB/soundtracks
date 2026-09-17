@@ -1322,7 +1322,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy X: Fantasy War | 266285 | [266285-final-fantasy-x-fantasy-war.json](./266285-final-fantasy-x-fantasy-war.json) |
 | Final Fantasy X/X-2 Ultimate Box | 301388 | [301388-final-fantasy-x-x-2-ultimate-box.json](./301388-final-fantasy-x-x-2-ultimate-box.json) |
 | Final Fantasy XI Online | 411 | [411-final-fantasy-xi-online.json](./411-final-fantasy-xi-online.json) |
+| Final Fantasy XI: A Moogle Kupo d'Etat | 255771 | [255771-final-fantasy-xi-a-moogle-kupo-detat.json](./255771-final-fantasy-xi-a-moogle-kupo-detat.json) |
+| Final Fantasy XI: A Shantotto Ascension | 255773 | [255773-final-fantasy-xi-a-shantotto-ascension.json](./255773-final-fantasy-xi-a-shantotto-ascension.json) |
+| Final Fantasy XI: Heroes of Abyssea | 255776 | [255776-final-fantasy-xi-heroes-of-abyssea.json](./255776-final-fantasy-xi-heroes-of-abyssea.json) |
 | Final Fantasy XI: Rhapsodies of Vana'diel | 266861 | [266861-final-fantasy-xi-rhapsodies-of-vanadiel.json](./266861-final-fantasy-xi-rhapsodies-of-vanadiel.json) |
+| Final Fantasy XI: Scars of Abyssea | 255775 | [255775-final-fantasy-xi-scars-of-abyssea.json](./255775-final-fantasy-xi-scars-of-abyssea.json) |
+| Final Fantasy XI: Vision of Abyssea | 255774 | [255774-final-fantasy-xi-vision-of-abyssea.json](./255774-final-fantasy-xi-vision-of-abyssea.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online: Complete Edition | 293775 | [293775-final-fantasy-xiv-online-complete-edition.json](./293775-final-fantasy-xiv-online-complete-edition.json) |
 | Final Fantasy XIV Online: Starter Edition | 293777 | [293777-final-fantasy-xiv-online-starter-edition.json](./293777-final-fantasy-xiv-online-starter-edition.json) |
