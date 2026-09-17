@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Coloring Break: Expansion pack 8 | 357774 | [357774-a-coloring-break-expansion-pack-8.json](./357774-a-coloring-break-expansion-pack-8.json) |
 | A Compendium of Ghosts | 102155 | [102155-a-compendium-of-ghosts.json](./102155-a-compendium-of-ghosts.json) |
 | A Completely Fictional Story About a City Inside a Whale | 253992 | [253992-a-completely-fictional-story-about-a-city-inside-a-whale.json](./253992-a-completely-fictional-story-about-a-city-inside-a-whale.json) |
+| A Cop Chase | 240873 | [240873-a-cop-chase.json](./240873-a-cop-chase.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
 | A Cozy Classics: Color Lines | 379467 | [379467-a-cozy-classics-color-lines.json](./379467-a-cozy-classics-color-lines.json) |
 | A Crazy Guy | 251010 | [251010-a-crazy-guy.json](./251010-a-crazy-guy.json) |
@@ -485,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
 | Across the Obelisk: Necropolis Of The Damned | 378904 | [378904-across-the-obelisk-necropolis-of-the-damned.json](./378904-across-the-obelisk-necropolis-of-the-damned.json) |
 | Across the Obelisk: Sigrun, the Valkyrie | 357779 | [357779-across-the-obelisk-sigrun-the-valkyrie.json](./357779-across-the-obelisk-sigrun-the-valkyrie.json) |
+| Across the Obelisk: The Wolf Wars | 240895 | [240895-across-the-obelisk-the-wolf-wars.json](./240895-across-the-obelisk-the-wolf-wars.json) |
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
 | Across The Void | 248133 | [248133-across-the-void.json](./248133-across-the-void.json) |
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
@@ -1021,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaska | 86767 | [86767-alaska.json](./86767-alaska.json) |
 | Alaska Gold Fever | 161343 | [161343-alaska-gold-fever.json](./161343-alaska-gold-fever.json) |
 | Alaska: An Endless Night | 350429 | [350429-alaska-an-endless-night.json](./350429-alaska-an-endless-night.json) |
+| Alaskan Malamute G.C. | 240891 | [240891-alaskan-malamute-g-c.json](./240891-alaskan-malamute-g-c.json) |
 | Alaskan Road Truckers: Highway Edition - Cosmetic Bundle | 331447 | [331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json](./331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json) |
 | Alawar Adventure Collection | 52591 | [52591-alawar-adventure-collection.json](./52591-alawar-adventure-collection.json) |
 | Alba: A Wildlife Adventure | 135919 | [135919-alba-a-wildlife-adventure.json](./135919-alba-a-wildlife-adventure.json) |
@@ -2037,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
+| Angry Gran Global Assault | 240921 | [240921-angry-gran-global-assault.json](./240921-angry-gran-global-assault.json) |
 | Angry Sonic Maze | 95997 | [95997-angry-sonic-maze.json](./95997-angry-sonic-maze.json) |
 | Angry Space Bees | 149029 | [149029-angry-space-bees.json](./149029-angry-space-bees.json) |
 | Angry stone | 296533 | [296533-angry-stone.json](./296533-angry-stone.json) |
