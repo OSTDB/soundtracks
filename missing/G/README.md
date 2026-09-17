@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Quest: Rush | 416643 | [416643-gem-quest-rush.json](./416643-gem-quest-rush.json) |
 | Gem Shoot | 175344 | [175344-gem-shoot.json](./175344-gem-shoot.json) |
 | Gem Venture | 217326 | [217326-gem-venture.json](./217326-gem-venture.json) |
+| Gem Wizard | 273489 | [273489-gem-wizard.json](./273489-gem-wizard.json) |
 | Gem's Hentai: Ultimate Puzzle | 296674 | [296674-gems-hentai-ultimate-puzzle.json](./296674-gems-hentai-ultimate-puzzle.json) |
 | GemaBoy: Zero Origins | 208041 | [208041-gemaboy-zero-origins.json](./208041-gemaboy-zero-origins.json) |
 | Gemalomania | 313304 | [313304-gemalomania.json](./313304-gemalomania.json) |
