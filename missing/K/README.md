@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagi wo Kakushita Kago no Tori: Bird in Cage Hiding the Key | 260120 | [260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json](./260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json) |
 | Kagirinaki Tatakai | 64397 | [64397-kagirinaki-tatakai.json](./64397-kagirinaki-tatakai.json) |
 | Kagitori: Bird in Cage Hiding the Key | 260121 | [260121-kagitori-bird-in-cage-hiding-the-key.json](./260121-kagitori-bird-in-cage-hiding-the-key.json) |
+| Kai Yuan | 236948 | [236948-kai-yuan.json](./236948-kai-yuan.json) |
 | Kai Yuen's Overlapped Universe | 111068 | [111068-kai-yuens-overlapped-universe.json](./111068-kai-yuens-overlapped-universe.json) |
 | Kai-ri-Sei Million Arthur | 137066 | [137066-kai-ri-sei-million-arthur.json](./137066-kai-ri-sei-million-arthur.json) |
 | Kai-ri-Sei Million Arthur | 174836 | [174836-kai-ri-sei-million-arthur.json](./174836-kai-ri-sei-million-arthur.json) |
@@ -961,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kioh Gyoku | 123607 | [123607-kioh-gyoku.json](./123607-kioh-gyoku.json) |
 | Kioku | 309886 | [309886-kioku.json](./309886-kioku.json) |
 | Kioku Hanabi | 309356 | [309356-kioku-hanabi.json](./309356-kioku-hanabi.json) |
+| Kip and Odosan | 236938 | [236938-kip-and-odosan.json](./236938-kip-and-odosan.json) |
 | Kipi Oppi | 403043 | [403043-kipi-oppi.json](./403043-kipi-oppi.json) |
 | Kipidon: We Will Always Love You | 337455 | [337455-kipidon-we-will-always-love-you.json](./337455-kipidon-we-will-always-love-you.json) |
 | KIPP: Untouched | 225632 | [225632-kipp-untouched.json](./225632-kipp-untouched.json) |
