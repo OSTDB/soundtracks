@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Voice | 358966 | [358966-inner-voice.json](./358966-inner-voice.json) |
 | InnerCube | 35879 | [35879-innercube.json](./35879-innercube.json) |
 | Innergy | 81398 | [81398-innergy.json](./81398-innergy.json) |
+| Innkeeper's Basement | 243275 | [243275-innkeepers-basement.json](./243275-innkeepers-basement.json) |
 | Innocence Or Money Season 1: The Complete Season | 285605 | [285605-innocence-or-money-season-1-the-complete-season.json](./285605-innocence-or-money-season-1-the-complete-season.json) |
 | Innocence or Money: Season 2 - Episode 1 | 340754 | [340754-innocence-or-money-season-2-episode-1.json](./340754-innocence-or-money-season-2-episode-1.json) |
 | Innocent Critters | 238723 | [238723-innocent-critters.json](./238723-innocent-critters.json) |
