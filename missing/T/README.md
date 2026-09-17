@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TailzFromTheGrave | 108434 | [108434-tailzfromthegrave.json](./108434-tailzfromthegrave.json) |
 | Taima Miko Yuugi | 68673 | [68673-taima-miko-yuugi.json](./68673-taima-miko-yuugi.json) |
 | Taimanin Asagi | 259866 | [259866-taimanin-asagi.json](./259866-taimanin-asagi.json) |
+| Taimanin RPG Extasy | 272920 | [272920-taimanin-rpg-extasy.json](./272920-taimanin-rpg-extasy.json) |
 | Taina's Cursed Legacy | 361686 | [361686-tainas-cursed-legacy.json](./361686-tainas-cursed-legacy.json) |
 | Tainted Grail: Conquest | 146424 | [146424-tainted-grail-conquest.json](./146424-tainted-grail-conquest.json) |
 | Tainted Ground | 373031 | [373031-tainted-ground.json](./373031-tainted-ground.json) |
@@ -1822,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blackwell Legacy | 9043 | [9043-the-blackwell-legacy.json](./9043-the-blackwell-legacy.json) |
 | The Blaggers | 57081 | [57081-the-blaggers.json](./57081-the-blaggers.json) |
 | The Bleakest Keep | 344344 | [344344-the-bleakest-keep.json](./344344-the-bleakest-keep.json) |
+| The Bleeding Tower Of Pisa | 272924 | [272924-the-bleeding-tower-of-pisa.json](./272924-the-bleeding-tower-of-pisa.json) |
 | The Blobjob | 261797 | [261797-the-blobjob.json](./261797-the-blobjob.json) |
 | The Block | 204712 | [204712-the-block.json](./204712-the-block.json) |
 | The Blockheads Server | 87690 | [87690-the-blockheads-server.json](./87690-the-blockheads-server.json) |
@@ -2322,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doll | 249816 | [249816-the-doll.json](./249816-the-doll.json) |
 | The Doll Beneath | 192428 | [192428-the-doll-beneath.json](./192428-the-doll-beneath.json) |
 | The Doll Shop | 123627 | [123627-the-doll-shop.json](./123627-the-doll-shop.json) |
+| The Dollmaker | 272919 | [272919-the-dollmaker.json](./272919-the-dollmaker.json) |
 | The Donald Trump Simulator | 144237 | [144237-the-donald-trump-simulator.json](./144237-the-donald-trump-simulator.json) |
 | The Donut Gallery | 386735 | [386735-the-donut-gallery.json](./386735-the-donut-gallery.json) |
 | The Doom Beneath | 175429 | [175429-the-doom-beneath.json](./175429-the-doom-beneath.json) |
@@ -5035,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vigil | 271494 | [271494-the-vigil.json](./271494-the-vigil.json) |
 | The Vigilante: Single Shot Justice | 179117 | [179117-the-vigilante-single-shot-justice.json](./179117-the-vigilante-single-shot-justice.json) |
 | The Vikings | 37188 | [37188-the-vikings.json](./37188-the-vikings.json) |
+| The Villa of Pain | 272925 | [272925-the-villa-of-pain.json](./272925-the-villa-of-pain.json) |
 | The Village | 74391 | [74391-the-village.json](./74391-the-village.json) |
 | The Village of Archensheen | 268725 | [268725-the-village-of-archensheen.json](./268725-the-village-of-archensheen.json) |
 | The Villager and the Werewolf | 221154 | [221154-the-villager-and-the-werewolf.json](./221154-the-villager-and-the-werewolf.json) |
@@ -7656,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trains & Things | 105314 | [105314-trains-and-things.json](./105314-trains-and-things.json) |
 | Trains Vs Zombies 2 | 64392 | [64392-trains-vs-zombies-2.json](./64392-trains-vs-zombies-2.json) |
 | Trains: Through Electric Storms. | 221156 | [221156-trains-through-electric-storms.json](./221156-trains-through-electric-storms.json) |
+| TrainTastic | 272900 | [272900-traintastic.json](./272900-traintastic.json) |
 | Trainwatch | 355613 | [355613-trainwatch.json](./355613-trainwatch.json) |
 | Trainz 2019: C44aci Locomotive - Aurizon Pack | 325040 | [325040-trainz-2019-c44aci-locomotive-aurizon-pack.json](./325040-trainz-2019-c44aci-locomotive-aurizon-pack.json) |
 | Trainz 2019: Pro Train - BNSF Loco Bundle 1 | 325041 | [325041-trainz-2019-pro-train-bnsf-loco-bundle-1.json](./325041-trainz-2019-pro-train-bnsf-loco-bundle-1.json) |
@@ -7928,11 +7933,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traumatarium | 268457 | [268457-traumatarium.json](./268457-traumatarium.json) |
 | Traumatarium: Penitent | 307745 | [307745-traumatarium-penitent.json](./307745-traumatarium-penitent.json) |
 | Träumerei: Chapter 0 | 280929 | [280929-traumerei-chapter-0.json](./280929-traumerei-chapter-0.json) |
+| Travel Along | 272905 | [272905-travel-along.json](./272905-travel-along.json) |
 | Travel Bug | 86096 | [86096-travel-bug.json](./86096-travel-bug.json) |
 | Travel Cuisine 2: Sweet Life | 358405 | [358405-travel-cuisine-2-sweet-life.json](./358405-travel-cuisine-2-sweet-life.json) |
 | Travel Cuisine 3: The Sea of Flavours - Collector's Edition | 358404 | [358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json](./358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json) |
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
 | Travel Junction | 335859 | [335859-travel-junction.json](./335859-travel-junction.json) |
+| Travel Knight Adventure | 272904 | [272904-travel-knight-adventure.json](./272904-travel-knight-adventure.json) |
 | Travel Mosaics 12: Majestic London | 284460 | [284460-travel-mosaics-12-majestic-london.json](./284460-travel-mosaics-12-majestic-london.json) |
 | Travel Mosaics 13: Spectacular Amsterdam | 284461 | [284461-travel-mosaics-13-spectacular-amsterdam.json](./284461-travel-mosaics-13-spectacular-amsterdam.json) |
 | Travel Mosaics 14: Perfect Stockholm | 284462 | [284462-travel-mosaics-14-perfect-stockholm.json](./284462-travel-mosaics-14-perfect-stockholm.json) |
@@ -8297,6 +8304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrotMania V: Shrive | 313338 | [313338-trotmania-v-shrive.json](./313338-trotmania-v-shrive.json) |
 | TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
 | Trouble Comes Twice: Bonus Stories | 295266 | [295266-trouble-comes-twice-bonus-stories.json](./295266-trouble-comes-twice-bonus-stories.json) |
+| Trouble In Paradise | 272903 | [272903-trouble-in-paradise.json](./272903-trouble-in-paradise.json) |
 | Trouble in Potion High | 399707 | [399707-trouble-in-potion-high.json](./399707-trouble-in-potion-high.json) |
 | Trouble in Warsaw | 326069 | [326069-trouble-in-warsaw.json](./326069-trouble-in-warsaw.json) |
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
@@ -8729,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Guns | 117680 | [117680-two-guns.json](./117680-two-guns.json) |
 | Two Heads of the Coin | 86082 | [86082-two-heads-of-the-coin.json](./86082-two-heads-of-the-coin.json) |
 | Two Hoops | 234317 | [234317-two-hoops.json](./234317-two-hoops.json) |
+| Two Hour Escape Mystery: A Puzzling Voyage | 272902 | [272902-two-hour-escape-mystery-a-puzzling-voyage.json](./272902-two-hour-escape-mystery-a-puzzling-voyage.json) |
 | Two Kiss with Two Men | 303272 | [303272-two-kiss-with-two-men.json](./303272-two-kiss-with-two-men.json) |
 | Two Little Ghosts of that House: The Missing Toy | 319340 | [319340-two-little-ghosts-of-that-house-the-missing-toy.json](./319340-two-little-ghosts-of-that-house-the-missing-toy.json) |
 | Two Moon: Space Rabbit | 270141 | [270141-two-moon-space-rabbit.json](./270141-two-moon-space-rabbit.json) |
