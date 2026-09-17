@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ElePass: Only Elephants Can Unlock the Passcode | 317855 | [317855-elepass-only-elephants-can-unlock-the-passcode.json](./317855-elepass-only-elephants-can-unlock-the-passcode.json) |
 | Elephant Hunter Hunter | 133991 | [133991-elephant-hunter-hunter.json](./133991-elephant-hunter-hunter.json) |
 | Elephant Rave | 276834 | [276834-elephant-rave.json](./276834-elephant-rave.json) |
+| Elestrals | 261897 | [261897-elestrals.json](./261897-elestrals.json) |
 | Elestrals Awakened | 376549 | [376549-elestrals-awakened.json](./376549-elestrals-awakened.json) |
 | Elestrals Clash! | 356622 | [356622-elestrals-clash.json](./356622-elestrals-clash.json) |
 | Eletar Hero | 188673 | [188673-eletar-hero.json](./188673-eletar-hero.json) |
@@ -735,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EM: Shader Attack | 31354 | [31354-em-shader-attack.json](./31354-em-shader-attack.json) |
 | EmagineWorld | 213402 | [213402-emagineworld.json](./213402-emagineworld.json) |
 | Emancy: Borderline War | 237650 | [237650-emancy-borderline-war.json](./237650-emancy-borderline-war.json) |
+| Embattled | 261872 | [261872-embattled.json](./261872-embattled.json) |
 | Ember & Blade | 340741 | [340741-ember-and-blade.json](./340741-ember-and-blade.json) |
 | Ember Island | 391189 | [391189-ember-island.json](./391189-ember-island.json) |
 | Ember Knight Solitaire | 156107 | [156107-ember-knight-solitaire.json](./156107-ember-knight-solitaire.json) |
@@ -993,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Ocean: Luminous | 287856 | [287856-endless-ocean-luminous.json](./287856-endless-ocean-luminous.json) |
 | Endless Pursuit | 183532 | [183532-endless-pursuit.json](./183532-endless-pursuit.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
+| Endless Rush | 261857 | [261857-endless-rush.json](./261857-endless-rush.json) |
 | Endless Samurai | 235740 | [235740-endless-samurai.json](./235740-endless-samurai.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
 | Endless Silent Night | 404330 | [404330-endless-silent-night.json](./404330-endless-silent-night.json) |
@@ -1632,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eudemons Online | 76594 | [76594-eudemons-online.json](./76594-eudemons-online.json) |
 | Eufloria 2 | 413631 | [413631-eufloria-2.json](./413631-eufloria-2.json) |
 | Eukarion Tales: Origins | 259581 | [259581-eukarion-tales-origins.json](./259581-eukarion-tales-origins.json) |
+| Euotopia | 261901 | [261901-euotopia.json](./261901-euotopia.json) |
 | Euphoria Games Bundle | 302513 | [302513-euphoria-games-bundle.json](./302513-euphoria-games-bundle.json) |
 | Euphoria: Supreme Mechanics VR | 377048 | [377048-euphoria-supreme-mechanics-vr.json](./377048-euphoria-supreme-mechanics-vr.json) |
 | Euplectella | 339100 | [339100-euplectella.json](./339100-euplectella.json) |
