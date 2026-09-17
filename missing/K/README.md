@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight of Valour 3 HD | 285585 | [285585-knight-of-valour-3-hd.json](./285585-knight-of-valour-3-hd.json) |
 | Knight Shooter | 319943 | [319943-knight-shooter.json](./319943-knight-shooter.json) |
 | Knight Sim Life | 300868 | [300868-knight-sim-life.json](./300868-knight-sim-life.json) |
+| Knight Speed | 264708 | [264708-knight-speed.json](./264708-knight-speed.json) |
 | Knight-Blade: Howling of Kerberos | 324886 | [324886-knight-blade-howling-of-kerberos.json](./324886-knight-blade-howling-of-kerberos.json) |
 | Knight's Destiny | 149037 | [149037-knights-destiny.json](./149037-knights-destiny.json) |
 | Knight's move | 112357 | [112357-knights-move.json](./112357-knights-move.json) |
