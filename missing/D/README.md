@@ -36,6 +36,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.W. Dagger: Chapter One | 168837 | [168837-d-w-dagger-chapter-one.json](./168837-d-w-dagger-chapter-one.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
 | D/Generation HD | 21318 | [21318-d-generation-hd.json](./21318-d-generation-hd.json) |
+| D+Vine[Luv] | 283301 | [283301-d-vine-luv.json](./283301-d-vine-luv.json) |
+| D+Vine[Luv] | 283302 | [283302-d-vine-luv.json](./283302-d-vine-luv.json) |
 | D1 Grand Prix | 20551 | [20551-d1-grand-prix.json](./20551-d1-grand-prix.json) |
 | D2 | 36736 | [36736-d2.json](./36736-d2.json) |
 | D3ad Hand | 315098 | [315098-d3ad-hand.json](./315098-d3ad-hand.json) |
@@ -950,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Synchronicity: Tomorrow Comes Today | 11398 | [11398-dead-synchronicity-tomorrow-comes-today.json](./11398-dead-synchronicity-tomorrow-comes-today.json) |
 | Dead to Rights: Reckoning | 3010 | [3010-dead-to-rights-reckoning.json](./3010-dead-to-rights-reckoning.json) |
 | Dead to Rights: Retribution | 6960 | [6960-dead-to-rights-retribution.json](./6960-dead-to-rights-retribution.json) |
+| Dead Tomb | 283282 | [283282-dead-tomb.json](./283282-dead-tomb.json) |
 | Dead Town Tales | 235209 | [235209-dead-town-tales.json](./235209-dead-town-tales.json) |
 | Dead TrailZ | 35753 | [35753-dead-trailz.json](./35753-dead-trailz.json) |
 | Dead Trash: Operation - Yellow Snow | 380557 | [380557-dead-trash-operation-yellow-snow.json](./380557-dead-trash-operation-yellow-snow.json) |
@@ -1107,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Maze | 109613 | [109613-death-maze.json](./109613-death-maze.json) |
 | Death Merchant | 293228 | [293228-death-merchant.json](./293228-death-merchant.json) |
 | Death Mile | 259241 | [259241-death-mile.json](./259241-death-mile.json) |
+| Death Motel | 283281 | [283281-death-motel.json](./283281-death-motel.json) |
 | Death Moto 3 | 237964 | [237964-death-moto-3.json](./237964-death-moto-3.json) |
 | Death Nomad | 236001 | [236001-death-nomad.json](./236001-death-nomad.json) |
 | Death Noodle Delivery | 207330 | [207330-death-noodle-delivery.json](./207330-death-noodle-delivery.json) |
@@ -2259,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Eclipse: Cyberpunk Survivor | 362924 | [362924-digital-eclipse-cyberpunk-survivor.json](./362924-digital-eclipse-cyberpunk-survivor.json) |
 | Digital Glider Airman | 143655 | [143655-digital-glider-airman.json](./143655-digital-glider-airman.json) |
 | Digital Jigsaw Puzzle | 104015 | [104015-digital-jigsaw-puzzle.json](./104015-digital-jigsaw-puzzle.json) |
+| Digital Keiba Shinbun: My Trackman | 283300 | [283300-digital-keiba-shinbun-my-trackman.json](./283300-digital-keiba-shinbun-my-trackman.json) |
 | Digital Paint: Paintball 2 | 67950 | [67950-digital-paint-paintball-2.json](./67950-digital-paint-paintball-2.json) |
 | Digital Processing | 400284 | [400284-digital-processing.json](./400284-digital-processing.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
@@ -3450,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downfall MMORPG | 351043 | [351043-downfall-mmorpg.json](./351043-downfall-mmorpg.json) |
 | Downfall to the Turnabout | 303757 | [303757-downfall-to-the-turnabout.json](./303757-downfall-to-the-turnabout.json) |
 | Downhill Challenge | 73798 | [73798-downhill-challenge.json](./73798-downhill-challenge.json) |
+| Downhill Driver: Extreme Racing Simulator | 283285 | [283285-downhill-driver-extreme-racing-simulator.json](./283285-downhill-driver-extreme-racing-simulator.json) |
 | Downhill Jam | 181303 | [181303-downhill-jam.json](./181303-downhill-jam.json) |
 | Downhill Snow | 143643 | [143643-downhill-snow.json](./143643-downhill-snow.json) |
 | Download RAM Idle | 400222 | [400222-download-ram-idle.json](./400222-download-ram-idle.json) |
