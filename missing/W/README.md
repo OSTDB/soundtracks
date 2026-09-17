@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Pinball | 209715 | [209715-war-pinball.json](./209715-war-pinball.json) |
 | War Pirates | 237639 | [237639-war-pirates.json](./237639-war-pirates.json) |
 | War Remains | 124265 | [124265-war-remains.json](./124265-war-remains.json) |
+| War Robots Shooting Simulator | 270181 | [270181-war-robots-shooting-simulator.json](./270181-war-robots-shooting-simulator.json) |
 | War Robots: Frontiers - Lancelot Rising | 335099 | [335099-war-robots-frontiers-lancelot-rising.json](./335099-war-robots-frontiers-lancelot-rising.json) |
 | War Robots: Planet Defender | 127379 | [127379-war-robots-planet-defender.json](./127379-war-robots-planet-defender.json) |
 | War Room | 335325 | [335325-war-room.json](./335325-war-room.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warring Worms: The Worm (re)Turns | 73285 | [73285-warring-worms-the-worm-re-turns.json](./73285-warring-worms-the-worm-re-turns.json) |
 | Warrior | 215906 | [215906-warrior.json](./215906-warrior.json) |
 | Warrior | 274015 | [274015-warrior.json](./274015-warrior.json) |
+| Warrior Chef | 270179 | [270179-warrior-chef.json](./270179-warrior-chef.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
 | Warrior Maiden | 210861 | [210861-warrior-maiden.json](./210861-warrior-maiden.json) |
