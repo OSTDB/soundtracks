@@ -1834,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pim World | 291746 | [291746-pim-world.json](./291746-pim-world.json) |
 | Pimania | 93058 | [93058-pimania.json](./93058-pimania.json) |
 | Pimbolas | 338806 | [338806-pimbolas.json](./338806-pimbolas.json) |
+| Pimp Hand Strong! | 234712 | [234712-pimp-hand-strong.json](./234712-pimp-hand-strong.json) |
 | Pimp My Dungeon | 243959 | [243959-pimp-my-dungeon.json](./243959-pimp-my-dungeon.json) |
 | Pimp My Ride | 5098 | [5098-pimp-my-ride.json](./5098-pimp-my-ride.json) |
 | Pimp My Ride Street Racing | 274184 | [274184-pimp-my-ride-street-racing.json](./274184-pimp-my-ride-street-racing.json) |
@@ -1961,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple Panic! | 337652 | [337652-pineapple-panic.json](./337652-pineapple-panic.json) |
 | Pineapple Smash Crew | 16330 | [16330-pineapple-smash-crew.json](./16330-pineapple-smash-crew.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
+| Pineview Drive: Rising Storm | 234706 | [234706-pineview-drive-rising-storm.json](./234706-pineview-drive-rising-storm.json) |
 | Pinewood Island | 69388 | [69388-pinewood-island.json](./69388-pinewood-island.json) |
 | Ping | 307600 | [307600-ping.json](./307600-ping.json) |
 | Ping | 90641 | [90641-ping.json](./90641-ping.json) |
