@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EleMetals: Deluxe Edition | 212283 | [212283-elemetals-deluxe-edition.json](./212283-elemetals-deluxe-edition.json) |
 | ElePass: Only Elephants Can Unlock the Passcode | 317855 | [317855-elepass-only-elephants-can-unlock-the-passcode.json](./317855-elepass-only-elephants-can-unlock-the-passcode.json) |
 | Elephant Hunter Hunter | 133991 | [133991-elephant-hunter-hunter.json](./133991-elephant-hunter-hunter.json) |
+| Elephant Rave | 276834 | [276834-elephant-rave.json](./276834-elephant-rave.json) |
 | Elestrals Awakened | 376549 | [376549-elestrals-awakened.json](./376549-elestrals-awakened.json) |
 | Elestrals Clash! | 356622 | [356622-elestrals-clash.json](./356622-elestrals-clash.json) |
 | Eletar Hero | 188673 | [188673-eletar-hero.json](./188673-eletar-hero.json) |
@@ -1038,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engine Room | 47266 | [47266-engine-room.json](./47266-engine-room.json) |
 | Engine Sentai Go-Onger: Mach de Oboeru! Aiueo!! | 123618 | [123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json](./123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json) |
 | England Championship Special | 71470 | [71470-england-championship-special.json](./71470-england-championship-special.json) |
+| England in London | 276836 | [276836-england-in-london.json](./276836-england-in-london.json) |
 | England Team Manager | 69289 | [69289-england-team-manager.json](./69289-england-team-manager.json) |
 | English Country Tune | 9699 | [9699-english-country-tune.json](./9699-english-country-tune.json) |
 | Engraving | 269025 | [269025-engraving.json](./269025-engraving.json) |
@@ -1608,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Club Manager 2003-04 | 94706 | [94706-euro-club-manager-2003-04.json](./94706-euro-club-manager-2003-04.json) |
 | Euro Fishing: Urban Edition | 52979 | [52979-euro-fishing-urban-edition.json](./52979-euro-fishing-urban-edition.json) |
 | Euro Rally Champion | 43298 | [43298-euro-rally-champion.json](./43298-euro-rally-champion.json) |
+| Euro Truck Driver Simulator | 276864 | [276864-euro-truck-driver-simulator.json](./276864-euro-truck-driver-simulator.json) |
 | Euro Truck Life & Logistics Simulators | 221709 | [221709-euro-truck-life-and-logistics-simulators.json](./221709-euro-truck-life-and-logistics-simulators.json) |
 | Euro Truck Simulator 2: DAF XD | 277585 | [277585-euro-truck-simulator-2-daf-xd.json](./277585-euro-truck-simulator-2-daf-xd.json) |
 | Euro Truck Simulator 2: Farm Machinery | 356654 | [356654-euro-truck-simulator-2-farm-machinery.json](./356654-euro-truck-simulator-2-farm-machinery.json) |
