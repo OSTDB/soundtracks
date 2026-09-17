@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
 | Japanese Dominatrixes Are the Best | 385702 | [385702-japanese-dominatrixes-are-the-best.json](./385702-japanese-dominatrixes-are-the-best.json) |
 | Japanese Escape Games: The Hotel of Tricks | 209690 | [209690-japanese-escape-games-the-hotel-of-tricks.json](./209690-japanese-escape-games-the-hotel-of-tricks.json) |
+| Japanese Escape Games: The Police Office | 284496 | [284496-japanese-escape-games-the-police-office.json](./284496-japanese-escape-games-the-police-office.json) |
 | Japanese Escape Games: The Retro House | 212275 | [212275-japanese-escape-games-the-retro-house.json](./212275-japanese-escape-games-the-retro-house.json) |
 | Japanese Escape Games: The Room with Sturdy Door | 232465 | [232465-japanese-escape-games-the-room-with-sturdy-door.json](./232465-japanese-escape-games-the-room-with-sturdy-door.json) |
 | Japanese Escape Games: The Room Without Doors | 227847 | [227847-japanese-escape-games-the-room-without-doors.json](./227847-japanese-escape-games-the-room-without-doors.json) |
@@ -357,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetrats Defense | 233750 | [233750-jetrats-defense.json](./233750-jetrats-defense.json) |
 | Jets Killer | 291472 | [291472-jets-killer.json](./291472-jets-killer.json) |
 | Jets'n'Guns Gold | 30372 | [30372-jetsnguns-gold.json](./30372-jetsnguns-gold.json) |
+| Jets'n'Guns: Complete Collection | 284484 | [284484-jetsnguns-complete-collection.json](./284484-jetsnguns-complete-collection.json) |
 | Jetstrike | 37108 | [37108-jetstrike.json](./37108-jetstrike.json) |
 | Jett Rider | 260657 | [260657-jett-rider.json](./260657-jett-rider.json) |
 | Jett Rider Mini H.E.R.O. | 398965 | [398965-jett-rider-mini-h-e-r-o.json](./398965-jett-rider-mini-h-e-r-o.json) |
