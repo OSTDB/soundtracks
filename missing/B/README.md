@@ -2864,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockhead | 14323 | [14323-blockhead.json](./14323-blockhead.json) |
 | Blockhead II | 14324 | [14324-blockhead-ii.json](./14324-blockhead-ii.json) |
 | Blockman Returns | 56427 | [56427-blockman-returns.json](./56427-blockman-returns.json) |
+| BlockMill | 249266 | [249266-blockmill.json](./249266-blockmill.json) |
 | Blockor.io | 56443 | [56443-blockor-io.json](./56443-blockor-io.json) |
 | Blockout | 347672 | [347672-blockout.json](./347672-blockout.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
