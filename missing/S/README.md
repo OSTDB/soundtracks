@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapiens | 55032 | [55032-sapiens.json](./55032-sapiens.json) |
 | Sapiens League | 232437 | [232437-sapiens-league.json](./232437-sapiens-league.json) |
 | Sapling Wars | 333008 | [333008-sapling-wars.json](./333008-sapling-wars.json) |
+| Sapo Xulé and the Unwanted Marriage | 259667 | [259667-sapo-xule-and-the-unwanted-marriage.json](./259667-sapo-xule-and-the-unwanted-marriage.json) |
 | Sapo Xulé: O Mestre do Kung Fu | 152305 | [152305-sapo-xule-o-mestre-do-kung-fu.json](./152305-sapo-xule-o-mestre-do-kung-fu.json) |
 | Sapo Xulé: S.O.S. Lagoa Poluída | 84282 | [84282-sapo-xule-s-o-s-lagoa-poluida.json](./84282-sapo-xule-s-o-s-lagoa-poluida.json) |
 | Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
@@ -3301,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull and Bones: Season 2 - Chorus of Havoc | 303241 | [303241-skull-and-bones-season-2-chorus-of-havoc.json](./303241-skull-and-bones-season-2-chorus-of-havoc.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
 | Skull Island: Rise of Kong - Colossal Pack | 272584 | [272584-skull-island-rise-of-kong-colossal-pack.json](./272584-skull-island-rise-of-kong-colossal-pack.json) |
+| Skull Jones | 259664 | [259664-skull-jones.json](./259664-skull-jones.json) |
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
 | Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
@@ -3312,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullmonkeys | 10917 | [10917-skullmonkeys.json](./10917-skullmonkeys.json) |
 | Skulls of the Shogun: Bone-A-Fide Edition | 51906 | [51906-skulls-of-the-shogun-bone-a-fide-edition.json](./51906-skulls-of-the-shogun-bone-a-fide-edition.json) |
 | SkullSP | 329973 | [329973-skullsp.json](./329973-skullsp.json) |
+| Skulltiverse | 259662 | [259662-skulltiverse.json](./259662-skulltiverse.json) |
 | Skulltiverse II | 388719 | [388719-skulltiverse-ii.json](./388719-skulltiverse-ii.json) |
 | Skully Bunnies | 335287 | [335287-skully-bunnies.json](./335287-skully-bunnies.json) |
 | Skullz | 178551 | [178551-skullz.json](./178551-skullz.json) |
@@ -5030,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman Waku-waku Eigo Game! | 327611 | [327611-soreike-anpanman-waku-waku-eigo-game.json](./327611-soreike-anpanman-waku-waku-eigo-game.json) |
 | Soreike! Anpanman: Karada no Naka no Daibouken | 230278 | [230278-soreike-anpanman-karada-no-naka-no-daibouken.json](./230278-soreike-anpanman-karada-no-naka-no-daibouken.json) |
 | Soreike! Anpanman: Yukai nao Tanjoue | 230279 | [230279-soreike-anpanman-yukai-nao-tanjoue.json](./230279-soreike-anpanman-yukai-nao-tanjoue.json) |
+| Sorrow Asylum | 259621 | [259621-sorrow-asylum.json](./259621-sorrow-asylum.json) |
 | Sorrow Asylum 2 | 264627 | [264627-sorrow-asylum-2.json](./264627-sorrow-asylum-2.json) |
 | Sorrow Asylum 3 | 309515 | [309515-sorrow-asylum-3.json](./309515-sorrow-asylum-3.json) |
 | Sorrowself | 143731 | [143731-sorrowself.json](./143731-sorrowself.json) |
@@ -9304,6 +9308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Game Master | 212477 | [212477-survival-game-master.json](./212477-survival-game-master.json) |
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
 | Survival Hold Your Self | 342077 | [342077-survival-hold-your-self.json](./342077-survival-hold-your-self.json) |
+| Survival Nation: Lost Horizon | 259619 | [259619-survival-nation-lost-horizon.json](./259619-survival-nation-lost-horizon.json) |
 | Survival Nexus | 266784 | [266784-survival-nexus.json](./266784-survival-nexus.json) |
 | Survival on a Deserted Island | 265134 | [265134-survival-on-a-deserted-island.json](./265134-survival-on-a-deserted-island.json) |
 | Survival Prototype X | 302354 | [302354-survival-prototype-x.json](./302354-survival-prototype-x.json) |
