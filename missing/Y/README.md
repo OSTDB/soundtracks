@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yanchat | 333080 | [333080-yanchat.json](./333080-yanchat.json) |
 | Yandere Escape | 129125 | [129125-yandere-escape.json](./129125-yandere-escape.json) |
 | Yandere Lover | 82076 | [82076-yandere-lover.json](./82076-yandere-lover.json) |
+| Yandere no Sutoka | 285048 | [285048-yandere-no-sutoka.json](./285048-yandere-no-sutoka.json) |
 | Yandere Onii-san ni Sokubaku Kankin Sarechau Game! | 285990 | [285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json](./285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json) |
 | Yandere Simulator: Midori Adventure - The Visual Novel | 296375 | [296375-yandere-simulator-midori-adventure-the-visual-novel.json](./296375-yandere-simulator-midori-adventure-the-visual-novel.json) |
 | Yandere-Chan | 125998 | [125998-yandere-chan.json](./125998-yandere-chan.json) |
