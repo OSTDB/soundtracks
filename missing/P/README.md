@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Pixsaw | 279112 | [279112-pixsaw.json](./279112-pixsaw.json) |
 | Pixtights | 97286 | [97286-pixtights.json](./97286-pixtights.json) |
+| Pixxelverse Online | 243239 | [243239-pixxelverse-online.json](./243239-pixxelverse-online.json) |
 | Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
 | Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
 | Pizza at Resort 64 | 394367 | [394367-pizza-at-resort-64.json](./394367-pizza-at-resort-64.json) |
@@ -4811,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
 | Puzzle Wishes | 29910 | [29910-puzzle-wishes.json](./29910-puzzle-wishes.json) |
 | Puzzle Wiz | 58174 | [58174-puzzle-wiz.json](./58174-puzzle-wiz.json) |
+| Puzzle Wizards | 243266 | [243266-puzzle-wizards.json](./243266-puzzle-wizards.json) |
 | Puzzle Words | 304170 | [304170-puzzle-words.json](./304170-puzzle-words.json) |
 | Puzzle World: Cute Cats | 300853 | [300853-puzzle-world-cute-cats.json](./300853-puzzle-world-cute-cats.json) |
 | Puzzle World: Cute Monsters | 203525 | [203525-puzzle-world-cute-monsters.json](./203525-puzzle-world-cute-monsters.json) |
