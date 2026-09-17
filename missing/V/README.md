@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitavania | 390673 | [390673-vitavania.json](./390673-vitavania.json) |
 | Viticulture | 200132 | [200132-viticulture.json](./200132-viticulture.json) |
 | Vitreous | 179717 | [179717-vitreous.json](./179717-vitreous.json) |
+| Vitrified | 275126 | [275126-vitrified.json](./275126-vitrified.json) |
 | Vitriol | 301258 | [301258-vitriol.json](./301258-vitriol.json) |
 | Vitrum | 36362 | [36362-vitrum.json](./36362-vitrum.json) |
 | Viva Mortis | 117734 | [117734-viva-mortis.json](./117734-viva-mortis.json) |
