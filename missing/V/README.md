@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VaporLight: Drifter | 186267 | [186267-vaporlight-drifter.json](./186267-vaporlight-drifter.json) |
 | Vaporwave Battler | 350522 | [350522-vaporwave-battler.json](./350522-vaporwave-battler.json) |
 | Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
+| Vardia | 275694 | [275694-vardia.json](./275694-vardia.json) |
 | VarDragons | 57114 | [57114-vardragons.json](./57114-vardragons.json) |
 | Vareion | 245321 | [245321-vareion.json](./245321-vareion.json) |
 | Varenje: Don't Touch The Berries | 271501 | [271501-varenje-dont-touch-the-berries.json](./271501-varenje-dont-touch-the-berries.json) |
