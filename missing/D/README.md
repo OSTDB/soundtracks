@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Delve | 65469 | [65469-dark-delve.json](./65469-dark-delve.json) |
 | Dark Designs I: Grelminar's Staff | 72104 | [72104-dark-designs-i-grelminars-staff.json](./72104-dark-designs-i-grelminars-staff.json) |
 | Dark Designs II: Closing the Gate | 73329 | [73329-dark-designs-ii-closing-the-gate.json](./73329-dark-designs-ii-closing-the-gate.json) |
+| Dark Desire Mute 4 | 245918 | [245918-dark-desire-mute-4.json](./245918-dark-desire-mute-4.json) |
 | Dark Desire Mute 5 | 250029 | [250029-dark-desire-mute-5.json](./250029-dark-desire-mute-5.json) |
 | Dark Desire Mute 6 | 260412 | [260412-dark-desire-mute-6.json](./260412-dark-desire-mute-6.json) |
 | Dark Dimensions: City of Ash - Collector's Edition | 74352 | [74352-dark-dimensions-city-of-ash-collectors-edition.json](./74352-dark-dimensions-city-of-ash-collectors-edition.json) |
@@ -2352,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
 | Digital Zoo Gallery | 154465 | [154465-digital-zoo-gallery.json](./154465-digital-zoo-gallery.json) |
 | Digitalter | 285019 | [285019-digitalter.json](./285019-digitalter.json) |
+| Digits | 245928 | [245928-digits.json](./245928-digits.json) |
 | Digits Jigsaw Puzzle - Numbers and Operations | 100749 | [100749-digits-jigsaw-puzzle-numbers-and-operations.json](./100749-digits-jigsaw-puzzle-numbers-and-operations.json) |
 | Dignacia | 253454 | [253454-dignacia.json](./253454-dignacia.json) |
 | Digs03 | 271303 | [271303-digs03.json](./271303-digs03.json) |
@@ -4732,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon No Dungeon: Blood Knight | 171023 | [171023-dungeon-no-dungeon-blood-knight.json](./171023-dungeon-no-dungeon-blood-knight.json) |
 | Dungeon No Dungeon: Reaper | 171022 | [171022-dungeon-no-dungeon-reaper.json](./171022-dungeon-no-dungeon-reaper.json) |
 | Dungeon No Dungeon: Tyrant's Endgame | 253968 | [253968-dungeon-no-dungeon-tyrants-endgame.json](./253968-dungeon-no-dungeon-tyrants-endgame.json) |
+| Dungeon of Argion | 245941 | [245941-dungeon-of-argion.json](./245941-dungeon-of-argion.json) |
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
 | Dungeon of Doom | 178615 | [178615-dungeon-of-doom.json](./178615-dungeon-of-doom.json) |
 | Dungeon of Dragon Knight | 113402 | [113402-dungeon-of-dragon-knight.json](./113402-dungeon-of-dragon-knight.json) |
