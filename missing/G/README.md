@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
 | G-Mode Archives+: Stella Deus - The Spirit of Darkness | 374605 | [374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json](./374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json) |
 | G-Mode Archives+: Tantei Kibukawa Ryousuke Jikenbo Vol. 13 - Tasogare ha Ruri no Tsuioki | 279118 | [279118-g-mode-archives-tantei-kibukawa-ryousuke-jikenbo-vol-13-tasogare-ha-ruri-no-tsuioki.json](./279118-g-mode-archives-tantei-kibukawa-ryousuke-jikenbo-vol-13-tasogare-ha-ruri-no-tsuioki.json) |
+| G-Scramble | 260753 | [260753-g-scramble.json](./260753-g-scramble.json) |
 | G-ump | 260398 | [260398-g-ump.json](./260398-g-ump.json) |
 | G-Zero World GP | 338830 | [338830-g-zero-world-gp.json](./338830-g-zero-world-gp.json) |
 | G-Zilla | 196271 | [196271-g-zilla.json](./196271-g-zilla.json) |
@@ -835,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | George Foreman's KO Boxing | 275023 | [275023-george-foremans-ko-boxing.json](./275023-george-foremans-ko-boxing.json) |
 | George Foreman's KO Boxing | 275024 | [275024-george-foremans-ko-boxing.json](./275024-george-foremans-ko-boxing.json) |
 | George Likes to Hide | 333586 | [333586-george-likes-to-hide.json](./333586-george-likes-to-hide.json) |
+| George McGeehan Gamer Hero | 260794 | [260794-george-mcgeehan-gamer-hero.json](./260794-george-mcgeehan-gamer-hero.json) |
 | George of the Jungle and the Search for the Secret | 259265 | [259265-george-of-the-jungle-and-the-search-for-the-secret.json](./259265-george-of-the-jungle-and-the-search-for-the-secret.json) |
 | George: A Horror Story | 189182 | [189182-george-a-horror-story.json](./189182-george-a-horror-story.json) |
 | GeoSpark | 67234 | [67234-geospark.json](./67234-geospark.json) |
@@ -1313,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomber | 288199 | [288199-gnomber.json](./288199-gnomber.json) |
 | Gnome Enchanted Jigsaw Puzzles | 257388 | [257388-gnome-enchanted-jigsaw-puzzles.json](./257388-gnome-enchanted-jigsaw-puzzles.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 1 | 257390 | [257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json](./257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json) |
+| Gnome Enchanted Jigsaw Puzzles: Expansion Pack 10 | 260755 | [260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json](./260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 2 | 257389 | [257389-gnome-enchanted-jigsaw-puzzles-expansion-pack-2.json](./257389-gnome-enchanted-jigsaw-puzzles-expansion-pack-2.json) |
 | Gnome Gname | 185090 | [185090-gnome-gname.json](./185090-gnome-gname.json) |
 | Gnome Light | 54471 | [54471-gnome-light.json](./54471-gnome-light.json) |
@@ -1855,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic 1 Remake: Nyras Prologue | 333955 | [333955-gothic-1-remake-nyras-prologue.json](./333955-gothic-1-remake-nyras-prologue.json) |
 | Gothic 1881 | 158202 | [158202-gothic-1881.json](./158202-gothic-1881.json) |
 | Gothic 3 | 2263 | [2263-gothic-3.json](./2263-gothic-3.json) |
+| Gothic Classic | 260799 | [260799-gothic-classic.json](./260799-gothic-classic.json) |
 | Gothic Classic Khorinis Saga | 300389 | [300389-gothic-classic-khorinis-saga.json](./300389-gothic-classic-khorinis-saga.json) |
 | Gothic Clicker | 345011 | [345011-gothic-clicker.json](./345011-gothic-clicker.json) |
 | Gothic II: Complete Classic | 270397 | [270397-gothic-ii-complete-classic.json](./270397-gothic-ii-complete-classic.json) |
