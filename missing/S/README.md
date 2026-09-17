@@ -634,6 +634,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Fiesta | 153363 | [153363-sausage-fiesta.json](./153363-sausage-fiesta.json) |
 | Sausage Legend: Arena | 303800 | [303800-sausage-legend-arena.json](./303800-sausage-legend-arena.json) |
 | Sausage vs. Vegetable | 270097 | [270097-sausage-vs-vegetable.json](./270097-sausage-vs-vegetable.json) |
+| Sausage Wars: Burning Death | 247591 | [247591-sausage-wars-burning-death.json](./247591-sausage-wars-burning-death.json) |
+| Sausage Wars: Complete Edition | 247593 | [247593-sausage-wars-complete-edition.json](./247593-sausage-wars-complete-edition.json) |
 | Sausage Wars: Deadly Levels | 248056 | [248056-sausage-wars-deadly-levels.json](./248056-sausage-wars-deadly-levels.json) |
 | Sausage Wars: Gold Edition | 385208 | [385208-sausage-wars-gold-edition.json](./385208-sausage-wars-gold-edition.json) |
 | Sausage Wars: Laser Massacre | 248062 | [248062-sausage-wars-laser-massacre.json](./248062-sausage-wars-laser-massacre.json) |
@@ -888,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo and the Mystery of the Castle | 220107 | [220107-scooby-doo-and-the-mystery-of-the-castle.json](./220107-scooby-doo-and-the-mystery-of-the-castle.json) |
 | Scooby-Doo Mystery Cases | 87730 | [87730-scooby-doo-mystery-cases.json](./87730-scooby-doo-mystery-cases.json) |
 | Scooby-Doo: Case File 1 - The Glowing Bug Man | 78685 | [78685-scooby-doo-case-file-1-the-glowing-bug-man.json](./78685-scooby-doo-case-file-1-the-glowing-bug-man.json) |
+| Scooby-Doo! & Looney Tunes Cartoon Universe: Arcade | 247599 | [247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json](./247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json) |
 | Scooby-Doo! Mystery of the Fun Park Phantom | 2857 | [2857-scooby-doo-mystery-of-the-fun-park-phantom.json](./2857-scooby-doo-mystery-of-the-fun-park-phantom.json) |
 | Scooby-Doo!: Mistery Mayhem | 44634 | [44634-scooby-doo-mistery-mayhem.json](./44634-scooby-doo-mistery-mayhem.json) |
 | ScooMart | 265765 | [265765-scoomart.json](./265765-scoomart.json) |
@@ -1713,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: Office Promotion | 266493 | [266493-sex-simulator-office-promotion.json](./266493-sex-simulator-office-promotion.json) |
 | Sex Simulator: Pool Party | 385045 | [385045-sex-simulator-pool-party.json](./385045-sex-simulator-pool-party.json) |
 | Sex Simulator: Roman Emperor | 288897 | [288897-sex-simulator-roman-emperor.json](./288897-sex-simulator-roman-emperor.json) |
+| Sex Simulator: The Beach House | 247607 | [247607-sex-simulator-the-beach-house.json](./247607-sex-simulator-the-beach-house.json) |
 | Sex Story: Cuckold Life - Episode 4 | 263762 | [263762-sex-story-cuckold-life-episode-4.json](./263762-sex-story-cuckold-life-episode-4.json) |
 | Sex Story: Cuckold Life - Episode 5 | 264635 | [264635-sex-story-cuckold-life-episode-5.json](./264635-sex-story-cuckold-life-episode-5.json) |
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
@@ -2875,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silhouette of Fear | 358889 | [358889-silhouette-of-fear.json](./358889-silhouette-of-fear.json) |
 | Silhouette Stories | 198550 | [198550-silhouette-stories.json](./198550-silhouette-stories.json) |
 | SilhouetteGirl Zan | 233219 | [233219-silhouettegirl-zan.json](./233219-silhouettegirl-zan.json) |
+| Silica | 247621 | [247621-silica.json](./247621-silica.json) |
 | Silicon Dreams | 132497 | [132497-silicon-dreams.json](./132497-silicon-dreams.json) |
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
@@ -5074,6 +5079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer of Revenge | 134636 | [134636-sorcerer-of-revenge.json](./134636-sorcerer-of-revenge.json) |
 | Sorcerer Standoff | 219590 | [219590-sorcerer-standoff.json](./219590-sorcerer-standoff.json) |
 | Sorcerer's Choice: Angel or Demon? Steam Version | 246657 | [246657-sorcerers-choice-angel-or-demon-steam-version.json](./246657-sorcerers-choice-angel-or-demon-steam-version.json) |
+| Sorcerer's Mid-month Exam | 247613 | [247613-sorcerers-mid-month-exam.json](./247613-sorcerers-mid-month-exam.json) |
 | Sorcerers of Kinetics | 30824 | [30824-sorcerers-of-kinetics.json](./30824-sorcerers-of-kinetics.json) |
 | Sorceress Elisha's Hypnotized & Lent-Out Log | 98452 | [98452-sorceress-elishas-hypnotized-and-lent-out-log.json](./98452-sorceress-elishas-hypnotized-and-lent-out-log.json) |
 | Sorceress Services | 362889 | [362889-sorceress-services.json](./362889-sorceress-services.json) |
@@ -6596,6 +6602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox Zero and Star Fox Guard: First Print Edition | 51144 | [51144-star-fox-zero-and-star-fox-guard-first-print-edition.json](./51144-star-fox-zero-and-star-fox-guard-first-print-edition.json) |
 | Star Fox Zero: Limited First Print Edition | 23382 | [23382-star-fox-zero-limited-first-print-edition.json](./23382-star-fox-zero-limited-first-print-edition.json) |
 | Star Fox: Assault | 3243 | [3243-star-fox-assault.json](./3243-star-fox-assault.json) |
+| Star Gagnant | 247587 | [247587-star-gagnant.json](./247587-star-gagnant.json) |
 | Star Gladiator Episode I: Final Crusade | 14680 | [14680-star-gladiator-episode-i-final-crusade.json](./14680-star-gladiator-episode-i-final-crusade.json) |
 | Star Gods | 125417 | [125417-star-gods.json](./125417-star-gods.json) |
 | Star Guard | 185136 | [185136-star-guard.json](./185136-star-guard.json) |
@@ -9523,6 +9530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
 | Sven Gordan Paranormal Parody | 326800 | [326800-sven-gordan-paranormal-parody.json](./326800-sven-gordan-paranormal-parody.json) |
 | Sven-Göran Eriksson's World Manager | 136991 | [136991-sven-goran-erikssons-world-manager.json](./136991-sven-goran-erikssons-world-manager.json) |
+| Sven: Completely Screwed | 247619 | [247619-sven-completely-screwed.json](./247619-sven-completely-screwed.json) |
 | Sverigespelet | 300684 | [300684-sverigespelet.json](./300684-sverigespelet.json) |
 | Svrvive: The Deus Helix | 26121 | [26121-svrvive-the-deus-helix.json](./26121-svrvive-the-deus-helix.json) |
 | Swagbucks Live | 88542 | [88542-swagbucks-live.json](./88542-swagbucks-live.json) |
@@ -9783,6 +9791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Bones 4 | 296359 | [296359-swords-and-bones-4.json](./296359-swords-and-bones-4.json) |
 | Swords & Bones 5 | 360592 | [360592-swords-and-bones-5.json](./360592-swords-and-bones-5.json) |
 | Swords & Bones: Complete Edition | 250365 | [250365-swords-and-bones-complete-edition.json](./250365-swords-and-bones-complete-edition.json) |
+| Swords & Bones: Definitive Edition | 247592 | [247592-swords-and-bones-definitive-edition.json](./247592-swords-and-bones-definitive-edition.json) |
 | Swords & Crystals: Dragon Hatchling Pet | 298185 | [298185-swords-and-crystals-dragon-hatchling-pet.json](./298185-swords-and-crystals-dragon-hatchling-pet.json) |
 | Swords & Darkness | 85411 | [85411-swords-and-darkness.json](./85411-swords-and-darkness.json) |
 | Swords & Slippers | 374141 | [374141-swords-and-slippers.json](./374141-swords-and-slippers.json) |
