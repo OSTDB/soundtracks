@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
 | I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
 | I Can Save This! | 326612 | [326612-i-can-save-this.json](./326612-i-can-save-this.json) |
+| I Can Transform | 265740 | [265740-i-can-transform.json](./265740-i-can-transform.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
 | I Can't Escape: Darkness | 35861 | [35861-i-cant-escape-darkness.json](./35861-i-cant-escape-darkness.json) |
 | I Can't Hear Your Words, So I Want To Listen To Your Heart | 367519 | [367519-i-cant-hear-your-words-so-i-want-to-listen-to-your-heart.json](./367519-i-cant-hear-your-words-so-i-want-to-listen-to-your-heart.json) |
@@ -686,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperial Destiny: Path of Gold | 231939 | [231939-imperial-destiny-path-of-gold.json](./231939-imperial-destiny-path-of-gold.json) |
 | Imperial Hero | 58747 | [58747-imperial-hero.json](./58747-imperial-hero.json) |
 | Imperial Island 5: Ski Resort | 294858 | [294858-imperial-island-5-ski-resort.json](./294858-imperial-island-5-ski-resort.json) |
+| Imperial Saga: Eclipse | 265624 | [265624-imperial-saga-eclipse.json](./265624-imperial-saga-eclipse.json) |
 | Imperial Storm | 249218 | [249218-imperial-storm.json](./249218-imperial-storm.json) |
 | Imperialism: Concert of Europe | 287229 | [287229-imperialism-concert-of-europe.json](./287229-imperialism-concert-of-europe.json) |
 | Imperialism: The Dark Continent | 97113 | [97113-imperialism-the-dark-continent.json](./97113-imperialism-the-dark-continent.json) |
@@ -1718,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isometric Squares | 175356 | [175356-isometric-squares.json](./175356-isometric-squares.json) |
 | Isonzo | 158603 | [158603-isonzo.json](./158603-isonzo.json) |
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
+| Isonzo: First Wave | 265715 | [265715-isonzo-first-wave.json](./265715-isonzo-first-wave.json) |
 | Isonzo: Third Wave | 296938 | [296938-isonzo-third-wave.json](./296938-isonzo-third-wave.json) |
 | Isophoria | 375316 | [375316-isophoria.json](./375316-isophoria.json) |
 | Isorropia | 133451 | [133451-isorropia.json](./133451-isorropia.json) |
