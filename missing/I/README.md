@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Hockey | 57656 | [57656-ice-hockey.json](./57656-ice-hockey.json) |
 | Ice King in Secret Santa | 339824 | [339824-ice-king-in-secret-santa.json](./339824-ice-king-in-secret-santa.json) |
 | Ice Lakes | 20206 | [20206-ice-lakes.json](./20206-ice-lakes.json) |
+| Ice Land | 276843 | [276843-ice-land.json](./276843-ice-land.json) |
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
 | Ice on the Edge | 335288 | [335288-ice-on-the-edge.json](./335288-ice-on-the-edge.json) |
 | Ice Princess Crystals | 353998 | [353998-ice-princess-crystals.json](./353998-ice-princess-crystals.json) |
@@ -732,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Drmzzz | 225288 | [225288-in-drmzzz.json](./225288-in-drmzzz.json) |
 | In Essence: Nil - MaidxMan / Chapel | 340750 | [340750-in-essence-nil-maidxman-chapel.json](./340750-in-essence-nil-maidxman-chapel.json) |
 | In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
+| In Her Head | 276846 | [276846-in-her-head.json](./276846-in-her-head.json) |
 | In Memory of Titan | 69314 | [69314-in-memory-of-titan.json](./69314-in-memory-of-titan.json) |
 | In My Shadow | 140488 | [140488-in-my-shadow.json](./140488-in-my-shadow.json) |
 | In Other Waters | 86504 | [86504-in-other-waters.json](./86504-in-other-waters.json) |
