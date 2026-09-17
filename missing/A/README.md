@@ -2904,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Isolation | 371330 | [371330-arctic-isolation.json](./371330-arctic-isolation.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
 | Arctic Zone | 210639 | [210639-arctic-zone.json](./210639-arctic-zone.json) |
+| Arctic's Adventure | 264704 | [264704-arctics-adventure.json](./264704-arctics-adventure.json) |
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
 | Ardarium | 168331 | [168331-ardarium.json](./168331-ardarium.json) |
 | Ardem | 260389 | [260389-ardem.json](./260389-ardem.json) |
@@ -3353,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asheron's Call: Throne of Destiny | 23736 | [23736-asherons-call-throne-of-destiny.json](./23736-asherons-call-throne-of-destiny.json) |
 | Ashes 2 | 119774 | [119774-ashes-2.json](./119774-ashes-2.json) |
 | Ashes Cricket | 68282 | [68282-ashes-cricket.json](./68282-ashes-cricket.json) |
+| Ashes of Arcanum | 264687 | [264687-ashes-of-arcanum.json](./264687-ashes-of-arcanum.json) |
 | Ashes of Arcanum: Antique Pack | 313674 | [313674-ashes-of-arcanum-antique-pack.json](./313674-ashes-of-arcanum-antique-pack.json) |
 | Ashes of Arcanum: Aves Pack | 313677 | [313677-ashes-of-arcanum-aves-pack.json](./313677-ashes-of-arcanum-aves-pack.json) |
 | Ashes of Arcanum: Cleric Pack | 313676 | [313676-ashes-of-arcanum-cleric-pack.json](./313676-ashes-of-arcanum-cleric-pack.json) |
@@ -3715,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Sixes and Sevens | 342771 | [342771-at-sixes-and-sevens.json](./342771-at-sixes-and-sevens.json) |
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
 | At the Heart of the Forest | 201303 | [201303-at-the-heart-of-the-forest.json](./201303-at-the-heart-of-the-forest.json) |
+| At Winter's End | 264698 | [264698-at-winters-end.json](./264698-at-winters-end.json) |
 | At Your Feet | 306512 | [306512-at-your-feet.json](./306512-at-your-feet.json) |
 | Atak | 226226 | [226226-atak.json](./226226-atak.json) |
 | Atama ga Saeru Chou IQ | 251625 | [251625-atama-ga-saeru-chou-iq.json](./251625-atama-ga-saeru-chou-iq.json) |
