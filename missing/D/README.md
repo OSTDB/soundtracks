@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | David Leadbetter's Greens | 71545 | [71545-david-leadbetters-greens.json](./71545-david-leadbetters-greens.json) |
 | Davidic Matchup | 84178 | [84178-davidic-matchup.json](./84178-davidic-matchup.json) |
 | Davis Haunted House | 340942 | [340942-davis-haunted-house.json](./340942-davis-haunted-house.json) |
+| Davy Jones Dating Simulator | 282710 | [282710-davy-jones-dating-simulator.json](./282710-davy-jones-dating-simulator.json) |
 | Davy Jones' Locker | 177024 | [177024-davy-jones-locker.json](./177024-davy-jones-locker.json) |
 | Davy's Dreams of Chasing Things | 323366 | [323366-davys-dreams-of-chasing-things.json](./323366-davys-dreams-of-chasing-things.json) |
 | Dawgs: The Revenge | 400905 | [400905-dawgs-the-revenge.json](./400905-dawgs-the-revenge.json) |
@@ -1685,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depression the Game | 103456 | [103456-depression-the-game.json](./103456-depression-the-game.json) |
 | Deprision | 325707 | [325707-deprision.json](./325707-deprision.json) |
 | Depth Ascend | 311644 | [311644-depth-ascend.json](./311644-depth-ascend.json) |
+| Depth Charge | 282718 | [282718-depth-charge.json](./282718-depth-charge.json) |
 | Depth Hunter 2: Ocean Mysteries | 167273 | [167273-depth-hunter-2-ocean-mysteries.json](./167273-depth-hunter-2-ocean-mysteries.json) |
 | Depth Hunter 2: Scuba Kids - Hidden Treasures | 167274 | [167274-depth-hunter-2-scuba-kids-hidden-treasures.json](./167274-depth-hunter-2-scuba-kids-hidden-treasures.json) |
 | Depth Hunter 2: Treasure Hunter | 167272 | [167272-depth-hunter-2-treasure-hunter.json](./167272-depth-hunter-2-treasure-hunter.json) |
@@ -2744,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
 | DLC Quest | 3004 | [3004-dlc-quest.json](./3004-dlc-quest.json) |
 | DM with Me | 413691 | [413691-dm-with-me.json](./413691-dm-with-me.json) |
+| DMB | 282678 | [282678-dmb.json](./282678-dmb.json) |
 | DMBX 2: Mountain Bike and BMX | 232159 | [232159-dmbx-2-mountain-bike-and-bmx.json](./232159-dmbx-2-mountain-bike-and-bmx.json) |
 | DMBX 2.5: Mountain Bike and BMX | 174338 | [174338-dmbx-2-5-mountain-bike-and-bmx.json](./174338-dmbx-2-5-mountain-bike-and-bmx.json) |
 | DMCA's Sky | 127260 | [127260-dmcas-sky.json](./127260-dmcas-sky.json) |
@@ -4444,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunchess | 269267 | [269267-dunchess.json](./269267-dunchess.json) |
 | Duncrush | 349832 | [349832-duncrush.json](./349832-duncrush.json) |
 | Dunderbeck | 303497 | [303497-dunderbeck.json](./303497-dunderbeck.json) |
+| Dune | 282716 | [282716-dune.json](./282716-dune.json) |
 | Dune Rider | 13710 | [13710-dune-rider.json](./13710-dune-rider.json) |
 | Dune Sea | 120414 | [120414-dune-sea.json](./120414-dune-sea.json) |
 | Dune Strider | 203547 | [203547-dune-strider.json](./203547-dune-strider.json) |
