@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delightful Adventure: Enhanced | 307728 | [307728-delightful-adventure-enhanced.json](./307728-delightful-adventure-enhanced.json) |
 | Delilah | 217340 | [217340-delilah.json](./217340-delilah.json) |
 | Delirious | 183546 | [183546-delirious.json](./183546-delirious.json) |
+| Delirium | 234755 | [234755-delirium.json](./234755-delirium.json) |
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
 | Delirium: Echoes of the Domino | 360654 | [360654-delirium-echoes-of-the-domino.json](./360654-delirium-echoes-of-the-domino.json) |
@@ -4613,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude Perfect HD | 86892 | [86892-dude-perfect-hd.json](./86892-dude-perfect-hd.json) |
 | Dude Simulator 3 | 144297 | [144297-dude-simulator-3.json](./144297-dude-simulator-3.json) |
 | Dude The Dark Agent | 399691 | [399691-dude-the-dark-agent.json](./399691-dude-the-dark-agent.json) |
+| Dudeology 1 | 234730 | [234730-dudeology-1.json](./234730-dudeology-1.json) |
 | Dudes with Attitude | 48063 | [48063-dudes-with-attitude.json](./48063-dudes-with-attitude.json) |
 | Dudu Monkey | 165077 | [165077-dudu-monkey.json](./165077-dudu-monkey.json) |
 | Due to Rain | 309343 | [309343-due-to-rain.json](./309343-due-to-rain.json) |
