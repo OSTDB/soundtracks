@@ -5724,6 +5724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spear of Destiny: The Final Journey | 177043 | [177043-spear-of-destiny-the-final-journey.json](./177043-spear-of-destiny-the-final-journey.json) |
 | Spear of Destiny: The Kaiseki - Director's Cut | 228098 | [228098-spear-of-destiny-the-kaiseki-directors-cut.json](./228098-spear-of-destiny-the-kaiseki-directors-cut.json) |
 | Spearfishing | 51191 | [51191-spearfishing.json](./51191-spearfishing.json) |
+| SpearHeads | 248722 | [248722-spearheads.json](./248722-spearheads.json) |
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
 | Spec | 304575 | [304575-spec.json](./304575-spec.json) |
