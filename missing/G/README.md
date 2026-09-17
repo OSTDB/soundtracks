@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf: The Ultimate Collection | 314665 | [314665-golf-the-ultimate-collection.json](./314665-golf-the-ultimate-collection.json) |
 | Golfing Around | 108442 | [108442-golfing-around.json](./108442-golfing-around.json) |
 | Golfing Greats 2 | 222908 | [222908-golfing-greats-2.json](./222908-golfing-greats-2.json) |
+| Golfing In Aether: Dustbowl | 275124 | [275124-golfing-in-aether-dustbowl.json](./275124-golfing-in-aether-dustbowl.json) |
 | Golfing Over It with Alva Majo | 93727 | [93727-golfing-over-it-with-alva-majo.json](./93727-golfing-over-it-with-alva-majo.json) |
 | Golfinite | 219801 | [219801-golfinite.json](./219801-golfinite.json) |
 | Golftacular! | 351646 | [351646-golftacular.json](./351646-golftacular.json) |
