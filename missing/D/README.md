@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Game | 206153 | [206153-death-game.json](./206153-death-game.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
 | Death in a Party | 381738 | [381738-death-in-a-party.json](./381738-death-in-a-party.json) |
+| Death In Abyss | 247609 | [247609-death-in-abyss.json](./247609-death-in-abyss.json) |
 | Death in the Bunker | 224555 | [224555-death-in-the-bunker.json](./224555-death-in-the-bunker.json) |
 | Death in Unison | 301383 | [301383-death-in-unison.json](./301383-death-in-unison.json) |
 | Death is better than Hell | 51971 | [51971-death-is-better-than-hell.json](./51971-death-is-better-than-hell.json) |
@@ -1898,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despicable Me: The Game | 19652 | [19652-despicable-me-the-game.json](./19652-despicable-me-the-game.json) |
 | Despot's Game: Collector's Edition | 219052 | [219052-despots-game-collectors-edition.json](./219052-despots-game-collectors-edition.json) |
 | Despotik Design | 13591 | [13591-despotik-design.json](./13591-despotik-design.json) |
+| Dessert DIY | 247588 | [247588-dessert-diy.json](./247588-dessert-diy.json) |
 | Dessert DIY: Complete Edition | 251668 | [251668-dessert-diy-complete-edition.json](./251668-dessert-diy-complete-edition.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
 | Destination | 322576 | [322576-destination.json](./322576-destination.json) |
@@ -4023,6 +4025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
 | Draw and Color: Kawaii - Magnificent Edition | 268554 | [268554-draw-and-color-kawaii-magnificent-edition.json](./268554-draw-and-color-kawaii-magnificent-edition.json) |
+| Draw and Color: Kawaii - Platinum Edition | 247589 | [247589-draw-and-color-kawaii-platinum-edition.json](./247589-draw-and-color-kawaii-platinum-edition.json) |
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
 | Draw Around | 142402 | [142402-draw-around.json](./142402-draw-around.json) |
 | Draw Breaker | 341058 | [341058-draw-breaker.json](./341058-draw-breaker.json) |
