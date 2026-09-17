@@ -1748,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McDonald's Chicken McNugget Tetris | 251023 | [251023-mcdonalds-chicken-mcnugget-tetris.json](./251023-mcdonalds-chicken-mcnugget-tetris.json) |
 | McDonald's Fairies: Lily | 254793 | [254793-mcdonalds-fairies-lily.json](./254793-mcdonalds-fairies-lily.json) |
 | McDonald's Fairies: Rose | 254794 | [254794-mcdonalds-fairies-rose.json](./254794-mcdonalds-fairies-rose.json) |
+| McDonald's Original: Happy Disc | 242061 | [242061-mcdonalds-original-happy-disc.json](./242061-mcdonalds-original-happy-disc.json) |
 | McDonald's Treasure Land Adventure | 36923 | [36923-mcdonalds-treasure-land-adventure.json](./36923-mcdonalds-treasure-land-adventure.json) |
 | McDonaldland | 285031 | [285031-mcdonaldland.json](./285031-mcdonaldland.json) |
 | McDroid | 16689 | [16689-mcdroid.json](./16689-mcdroid.json) |
@@ -2206,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meitantei no Nazotoki Suuri: Thrill to Suspence no Jiken Kaiketsu Nazotoki Game | 240223 | [240223-meitantei-no-nazotoki-suuri-thrill-to-suspence-no-jiken-kaiketsu-nazotoki-game.json](./240223-meitantei-no-nazotoki-suuri-thrill-to-suspence-no-jiken-kaiketsu-nazotoki-game.json) |
 | Mekabolt+ | 192300 | [192300-mekabolt.json](./192300-mekabolt.json) |
 | MekaFighters | 146350 | [146350-mekafighters.json](./146350-mekafighters.json) |
+| Mekakare | 242063 | [242063-mekakare.json](./242063-mekakare.json) |
 | Mekanikko | 265227 | [265227-mekanikko.json](./265227-mekanikko.json) |
 | Mekazoo | 19203 | [19203-mekazoo.json](./19203-mekazoo.json) |
 | Melancholia Maze | 366305 | [366305-melancholia-maze.json](./366305-melancholia-maze.json) |
