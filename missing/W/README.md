@@ -1986,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search: Classic Game | 323326 | [323326-word-search-classic-game.json](./323326-word-search-classic-game.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
 | Word Soup | 23405 | [23405-word-soup.json](./23405-word-soup.json) |
+| Word Space | 270775 | [270775-word-space.json](./270775-word-space.json) |
 | Word Spinner | 71546 | [71546-word-spinner.json](./71546-word-spinner.json) |
 | Word Surf | 208941 | [208941-word-surf.json](./208941-word-surf.json) |
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
