@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life as Designed | 153348 | [153348-life-as-designed.json](./153348-life-as-designed.json) |
 | Life Bubble | 300870 | [300870-life-bubble.json](./300870-life-bubble.json) |
 | Life Bubble: Gear Up Edition | 308806 | [308806-life-bubble-gear-up-edition.json](./308806-life-bubble-gear-up-edition.json) |
+| Life by You | 240899 | [240899-life-by-you.json](./240899-life-by-you.json) |
 | Life Code | 287774 | [287774-life-code.json](./287774-life-code.json) |
 | Life Eater | 289431 | [289431-life-eater.json](./289431-life-eater.json) |
 | Life Force | 174945 | [174945-life-force.json](./174945-life-force.json) |
@@ -1692,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch | 145613 | [145613-little-witch.json](./145613-little-witch.json) |
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
+| Little Wizard Sally | 240867 | [240867-little-wizard-sally.json](./240867-little-wizard-sally.json) |
 | Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
 | Little World | 310031 | [310031-little-world.json](./310031-little-world.json) |
 | Little Wu Chang | 216797 | [216797-little-wu-chang.json](./216797-little-wu-chang.json) |
@@ -2712,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Girl | 241514 | [241514-lust-girl.json](./241514-lust-girl.json) |
 | Lust Kingdom | 264032 | [264032-lust-kingdom.json](./264032-lust-kingdom.json) |
 | Lust Theory | 216187 | [216187-lust-theory.json](./216187-lust-theory.json) |
+| Lust Theory 2 | 240879 | [240879-lust-theory-2.json](./240879-lust-theory-2.json) |
 | Luster Beasts | 276826 | [276826-luster-beasts.json](./276826-luster-beasts.json) |
 | Lustful Apartment | 296687 | [296687-lustful-apartment.json](./296687-lustful-apartment.json) |
 | Lustful Assistant | 223176 | [223176-lustful-assistant.json](./223176-lustful-assistant.json) |
