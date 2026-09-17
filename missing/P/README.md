@@ -2217,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Traditional Jigsaws Pack: Variety Pack 9 | 260419 | [260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json](./260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json) |
 | Pixel Puzzles Traditional Jigsaws: Forests | 384082 | [384082-pixel-puzzles-traditional-jigsaws-forests.json](./384082-pixel-puzzles-traditional-jigsaws-forests.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 11 | 267407 | [267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json](./267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 6 | 241508 | [241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json](./241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json) |
 | Pixel Puzzles Ultimate | 35743 | [35743-pixel-puzzles-ultimate.json](./35743-pixel-puzzles-ultimate.json) |
 | Pixel Puzzles Ultimate Jigsaw | 240242 | [240242-pixel-puzzles-ultimate-jigsaw.json](./240242-pixel-puzzles-ultimate-jigsaw.json) |
 | Pixel Puzzles Ultimate Jigsaw: Civil Unrest | 293072 | [293072-pixel-puzzles-ultimate-jigsaw-civil-unrest.json](./293072-pixel-puzzles-ultimate-jigsaw-civil-unrest.json) |
@@ -2238,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles World War II Jigsaws: Battle of Hürtgen Forest | 267064 | [267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json](./267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json) |
 | Pixel Puzzles WW2 Jigsaw: Battle of the Bulge | 289463 | [289463-pixel-puzzles-ww2-jigsaw-battle-of-the-bulge.json](./289463-pixel-puzzles-ww2-jigsaw-battle-of-the-bulge.json) |
 | Pixel Puzzles: Illustrations & Anime | 162933 | [162933-pixel-puzzles-illustrations-and-anime.json](./162933-pixel-puzzles-illustrations-and-anime.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Chibi | 241507 | [241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json](./241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dark Sided | 162940 | [162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json](./162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Distant Worlds | 163410 | [163410-pixel-puzzles-illustrations-and-anime-jigsaw-pack-distant-worlds.json](./163410-pixel-puzzles-illustrations-and-anime-jigsaw-pack-distant-worlds.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dragons | 162935 | [162935-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons.json](./162935-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons.json) |
@@ -4267,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Mania | 333562 | [333562-project-mania.json](./333562-project-mania.json) |
 | Project: Mist | 272348 | [272348-project-mist.json](./272348-project-mist.json) |
 | Project: Obscurion | 251678 | [251678-project-obscurion.json](./251678-project-obscurion.json) |
+| Project: Pong | 241467 | [241467-project-pong.json](./241467-project-pong.json) |
 | Project: Purconia | 391158 | [391158-project-purconia.json](./391158-project-purconia.json) |
 | Project: R.E.B.O.O.T | 30758 | [30758-project-r-e-b-o-o-t.json](./30758-project-r-e-b-o-o-t.json) |
 | Project: R.E.B.O.O.T 2 | 29868 | [29868-project-r-e-b-o-o-t-2.json](./29868-project-r-e-b-o-o-t-2.json) |
@@ -4659,6 +4662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Stack | 146348 | [146348-push-stack.json](./146348-push-stack.json) |
 | Push the Box | 147899 | [147899-push-the-box.json](./147899-push-the-box.json) |
 | Push the Box 3D | 167784 | [167784-push-the-box-3d.json](./167784-push-the-box-3d.json) |
+| Push the Button to Win! | 241487 | [241487-push-the-button-to-win.json](./241487-push-the-button-to-win.json) |
 | Push the Circles Extreme | 96036 | [96036-push-the-circles-extreme.json](./96036-push-the-circles-extreme.json) |
 | Push the Crate | 147991 | [147991-push-the-crate.json](./147991-push-the-crate.json) |
 | Push the Sheep | 193463 | [193463-push-the-sheep.json](./193463-push-the-sheep.json) |
