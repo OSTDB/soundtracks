@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie for Girls Softball | 245562 | [245562-barbie-for-girls-softball.json](./245562-barbie-for-girls-softball.json) |
 | Barbie Girl | 260128 | [260128-barbie-girl.json](./260128-barbie-girl.json) |
 | Barbie in the 12 Dancing Princesses | 293194 | [293194-barbie-in-the-12-dancing-princesses.json](./293194-barbie-in-the-12-dancing-princesses.json) |
+| Barbie PC Fashion Design & Color | 261889 | [261889-barbie-pc-fashion-design-and-color.json](./261889-barbie-pc-fashion-design-and-color.json) |
 | Barbie Pet Rescue | 19402 | [19402-barbie-pet-rescue.json](./19402-barbie-pet-rescue.json) |
 | Barbie Sparkle Blast | 97319 | [97319-barbie-sparkle-blast.json](./97319-barbie-sparkle-blast.json) |
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
@@ -1740,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath a Dead City | 327406 | [327406-beneath-a-dead-city.json](./327406-beneath-a-dead-city.json) |
 | Beneath Paris | 406793 | [406793-beneath-paris.json](./406793-beneath-paris.json) |
 | Beneath the Backrooms | 273368 | [273368-beneath-the-backrooms.json](./273368-beneath-the-backrooms.json) |
+| Beneath the Bleeding Moon | 261866 | [261866-beneath-the-bleeding-moon.json](./261866-beneath-the-bleeding-moon.json) |
 | Beneath The Brine | 327376 | [327376-beneath-the-brine.json](./327376-beneath-the-brine.json) |
 | Beneath the Cardboard | 201286 | [201286-beneath-the-cardboard.json](./201286-beneath-the-cardboard.json) |
 | Beneath the Cherry Trees | 90567 | [90567-beneath-the-cherry-trees.json](./90567-beneath-the-cherry-trees.json) |
@@ -3037,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloomies | 388722 | [388722-bloomies.json](./388722-bloomies.json) |
 | Blooming Cards | 377054 | [377054-blooming-cards.json](./377054-blooming-cards.json) |
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
+| Bloons | 261913 | [261913-bloons.json](./261913-bloons.json) |
 | Bloons | 93561 | [93561-bloons.json](./93561-bloons.json) |
 | Bloons 2 Christmas Expansion | 326782 | [326782-bloons-2-christmas-expansion.json](./326782-bloons-2-christmas-expansion.json) |
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
@@ -3228,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodyguard: Cellwars | 365160 | [365160-bodyguard-cellwars.json](./365160-bodyguard-cellwars.json) |
 | BodyRecords | 340943 | [340943-bodyrecords.json](./340943-bodyrecords.json) |
 | Boeckham's Football Manager | 337456 | [337456-boeckhams-football-manager.json](./337456-boeckhams-football-manager.json) |
+| Boffin 2 | 261891 | [261891-boffin-2.json](./261891-boffin-2.json) |
 | BOFH: Servers Under Siege | 51277 | [51277-bofh-servers-under-siege.json](./51277-bofh-servers-under-siege.json) |
 | Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense. - Line Wars | 137670 | [137670-bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-line-wars.json](./137670-bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-line-wars.json) |
 | Bog Man Has Had Enough | 271843 | [271843-bog-man-has-had-enough.json](./271843-bog-man-has-had-enough.json) |
