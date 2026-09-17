@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead for Dread | 305958 | [305958-dead-for-dread.json](./305958-dead-for-dread.json) |
 | Dead Function | 179737 | [179737-dead-function.json](./179737-dead-function.json) |
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
+| Dead Hook | 252209 | [252209-dead-hook.json](./252209-dead-hook.json) |
 | Dead Hospital | 406174 | [406174-dead-hospital.json](./406174-dead-hospital.json) |
 | Dead Humanity | 269034 | [269034-dead-humanity.json](./269034-dead-humanity.json) |
 | Dead Hungry Diner | 8442 | [8442-dead-hungry-diner.json](./8442-dead-hungry-diner.json) |
@@ -1206,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeathGearX | 312728 | [312728-deathgearx.json](./312728-deathgearx.json) |
 | Deathlike: Awakening | 30089 | [30089-deathlike-awakening.json](./30089-deathlike-awakening.json) |
 | Deathloop + Ghostwire: Tokyo Bundle | 281406 | [281406-deathloop-ghostwire-tokyo-bundle.json](./281406-deathloop-ghostwire-tokyo-bundle.json) |
+| Deathloop: Deluxe Pack | 252217 | [252217-deathloop-deluxe-pack.json](./252217-deathloop-deluxe-pack.json) |
 | Deathly Storm: The Edge of Life | 88184 | [88184-deathly-storm-the-edge-of-life.json](./88184-deathly-storm-the-edge-of-life.json) |
 | DeathMatch | 117685 | [117685-deathmatch.json](./117685-deathmatch.json) |
 | Deathmatch Classic | 9073 | [9073-deathmatch-classic.json](./9073-deathmatch-classic.json) |
@@ -3410,6 +3412,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday on Demand 2 | 104036 | [104036-doomsday-on-demand-2.json](./104036-doomsday-on-demand-2.json) |
 | Doomsday Overture | 280237 | [280237-doomsday-overture.json](./280237-doomsday-overture.json) |
 | Doomsday Warrior | 42599 | [42599-doomsday-warrior.json](./42599-doomsday-warrior.json) |
+| Doomworld Forum Adventures! | 252214 | [252214-doomworld-forum-adventures.json](./252214-doomworld-forum-adventures.json) |
+| Doomworld Forums 3 | 252216 | [252216-doomworld-forums-3.json](./252216-doomworld-forums-3.json) |
 | Doomworld Mega Project 2012 | 260955 | [260955-doomworld-mega-project-2012.json](./260955-doomworld-mega-project-2012.json) |
 | Doomworld Mega Project 2013 | 260954 | [260954-doomworld-mega-project-2013.json](./260954-doomworld-mega-project-2013.json) |
 | Doomworld Roulette: Session 1 | 312908 | [312908-doomworld-roulette-session-1.json](./312908-doomworld-roulette-session-1.json) |
