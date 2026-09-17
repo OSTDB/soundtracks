@@ -2725,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael Owen's WLS 2000 | 3407 | [3407-michael-owens-wls-2000.json](./3407-michael-owens-wls-2000.json) |
 | Michael's Dream Adventure | 378815 | [378815-michaels-dream-adventure.json](./378815-michaels-dream-adventure.json) |
 | Michel Futbol Master + Super Skills | 93076 | [93076-michel-futbol-master-super-skills.json](./93076-michel-futbol-master-super-skills.json) |
+| Michi | 244334 | [244334-michi.json](./244334-michi.json) |
 | Michi: Expansion Pack | 249299 | [249299-michi-expansion-pack.json](./249299-michi-expansion-pack.json) |
 | Mickey Mania 2 | 256371 | [256371-mickey-mania-2.json](./256371-mickey-mania-2.json) |
 | Mickey Mania: The Timeless Adventures of Mickey Mouse | 256366 | [256366-mickey-mania-the-timeless-adventures-of-mickey-mouse.json](./256366-mickey-mania-the-timeless-adventures-of-mickey-mouse.json) |
