@@ -2754,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
 | Block Breaker | 195789 | [195789-block-breaker.json](./195789-block-breaker.json) |
 | Block Breaker | 384648 | [384648-block-breaker.json](./384648-block-breaker.json) |
+| Block Buster | 270766 | [270766-block-buster.json](./270766-block-buster.json) |
 | Block Busters: Local Party | 172171 | [172171-block-busters-local-party.json](./172171-block-busters-local-party.json) |
 | Block Cat Jam | 297502 | [297502-block-cat-jam.json](./297502-block-cat-jam.json) |
 | Block Cat Space Golf | 104029 | [104029-block-cat-space-golf.json](./104029-block-cat-space-golf.json) |
