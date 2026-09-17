@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Virus Named Tom | 3040 | [3040-a-virus-named-tom.json](./3040-a-virus-named-tom.json) |
 | A Visit to Sesame Street: Letters | 45945 | [45945-a-visit-to-sesame-street-letters.json](./45945-a-visit-to-sesame-street-letters.json) |
 | A Visit to Sesame Street: Numbers | 46558 | [46558-a-visit-to-sesame-street-numbers.json](./46558-a-visit-to-sesame-street-numbers.json) |
+| A Void Shaper | 277981 | [277981-a-void-shaper.json](./277981-a-void-shaper.json) |
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
 | A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
@@ -872,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akagawa Jirou no Yuurei Ressha | 48606 | [48606-akagawa-jirou-no-yuurei-ressha.json](./48606-akagawa-jirou-no-yuurei-ressha.json) |
 | Akai Corridor | 316282 | [316282-akai-corridor.json](./316282-akai-corridor.json) |
 | Akai Katana Shin | 78617 | [78617-akai-katana-shin.json](./78617-akai-katana-shin.json) |
+| Akai Onna | 277961 | [277961-akai-onna.json](./277961-akai-onna.json) |
 | Akairo Kimi to, Shiawase ni | 285995 | [285995-akairo-kimi-to-shiawase-ni.json](./285995-akairo-kimi-to-shiawase-ni.json) |
 | Akairo Mansion: Horror Edition | 301979 | [301979-akairo-mansion-horror-edition.json](./301979-akairo-mansion-horror-edition.json) |
 | Akairu: A Day Adventure! | 386709 | [386709-akairu-a-day-adventure.json](./386709-akairu-a-day-adventure.json) |
@@ -1336,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allied Star Police | 22336 | [22336-allied-star-police.json](./22336-allied-star-police.json) |
 | Alligator Hunt | 38519 | [38519-alligator-hunt.json](./38519-alligator-hunt.json) |
 | Alligori | 272866 | [272866-alligori.json](./272866-alligori.json) |
+| Allogloom | 277935 | [277935-allogloom.json](./277935-allogloom.json) |
 | Allora and the Broken Portal | 125382 | [125382-allora-and-the-broken-portal.json](./125382-allora-and-the-broken-portal.json) |
 | Allotropy | 169472 | [169472-allotropy.json](./169472-allotropy.json) |
 | Allumeria | 362894 | [362894-allumeria.json](./362894-allumeria.json) |
