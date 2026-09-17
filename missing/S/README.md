@@ -3126,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Orders | 277615 | [277615-six-orders.json](./277615-six-orders.json) |
 | Six Seals | 384533 | [384533-six-seals.json](./384533-six-seals.json) |
 | Six Sides of the World Enhanced | 147980 | [147980-six-sides-of-the-world-enhanced.json](./147980-six-sides-of-the-world-enhanced.json) |
+| Six textures | 271297 | [271297-six-textures.json](./271297-six-textures.json) |
 | Six Textures #3 | 321123 | [321123-six-textures-3.json](./321123-six-textures-3.json) |
 | Six-Chamber Champion | 384663 | [384663-six-chamber-champion.json](./384663-six-chamber-champion.json) |
 | Six-Guns: Gang Showdown | 38991 | [38991-six-guns-gang-showdown.json](./38991-six-guns-gang-showdown.json) |
@@ -5626,6 +5627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Shades: Fragments | 191199 | [191199-spectral-shades-fragments.json](./191199-spectral-shades-fragments.json) |
 | Spectral Souls: Resurrection of the Ethereal Empires | 44519 | [44519-spectral-souls-resurrection-of-the-ethereal-empires.json](./44519-spectral-souls-resurrection-of-the-ethereal-empires.json) |
 | Spectral Survivor | 307581 | [307581-spectral-survivor.json](./307581-spectral-survivor.json) |
+| SpectralClimb | 271281 | [271281-spectralclimb.json](./271281-spectralclimb.json) |
 | Spectralia | 312735 | [312735-spectralia.json](./312735-spectralia.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
@@ -7747,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
 | Submersible | 272372 | [272372-submersible.json](./272372-submersible.json) |
+| Submersible Simulator: Discover the Titanic into Ocean | 271274 | [271274-submersible-simulator-discover-the-titanic-into-ocean.json](./271274-submersible-simulator-discover-the-titanic-into-ocean.json) |
 | Subnautica + Subnautica Below Zero Double Pack | 143025 | [143025-subnautica-subnautica-below-zero-double-pack.json](./143025-subnautica-subnautica-below-zero-double-pack.json) |
 | Subnautica 2 | 320140 | [320140-subnautica-2.json](./320140-subnautica-2.json) |
 | Subnet | 80545 | [80545-subnet.json](./80545-subnet.json) |
@@ -7762,6 +7765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subtension | 239670 | [239670-subtension.json](./239670-subtension.json) |
 | Subterranea | 55205 | [55205-subterranea.json](./55205-subterranea.json) |
 | Subterranean Detectives Orin and Satori | 185591 | [185591-subterranean-detectives-orin-and-satori.json](./185591-subterranean-detectives-orin-and-satori.json) |
+| Subterranean Library | 271304 | [271304-subterranean-library.json](./271304-subterranean-library.json) |
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
 | Subterror | 291576 | [291576-subterror.json](./291576-subterror.json) |
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
