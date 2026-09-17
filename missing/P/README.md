@@ -4051,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Unknown | 244240 | [244240-project-unknown.json](./244240-project-unknown.json) |
 | Project Unknown Designation | 309881 | [309881-project-unknown-designation.json](./309881-project-unknown-designation.json) |
 | Project V: Origins | 304717 | [304717-project-v-origins.json](./304717-project-v-origins.json) |
+| Project Vic | 280885 | [280885-project-vic.json](./280885-project-vic.json) |
 | Project Volition | 270123 | [270123-project-volition.json](./270123-project-volition.json) |
 | Project Vostok | 258985 | [258985-project-vostok.json](./258985-project-vostok.json) |
 | Project Warlock II | 152272 | [152272-project-warlock-ii.json](./152272-project-warlock-ii.json) |
