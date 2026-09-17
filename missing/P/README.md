@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi Pachi: On a Roll | 143696 | [143696-pachi-pachi-on-a-roll.json](./143696-pachi-pachi-on-a-roll.json) |
 | Pachi Para 15: Super Sea in Okinawa 2 | 65538 | [65538-pachi-para-15-super-sea-in-okinawa-2.json](./65538-pachi-para-15-super-sea-in-okinawa-2.json) |
 | Pachi-Pachi Typing | 397100 | [397100-pachi-pachi-typing.json](./397100-pachi-pachi-typing.json) |
+| Pachi-Slot Higurashi no Naku Koro ni Matsuri | 263021 | [263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json](./263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json) |
 | Pachicom | 41396 | [41396-pachicom.json](./41396-pachicom.json) |
 | Pachiko | 357310 | [357310-pachiko.json](./357310-pachiko.json) |
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
@@ -715,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paro Paro | 151646 | [151646-paro-paro.json](./151646-paro-paro.json) |
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
+| Parry King | 263044 | [263044-parry-king.json](./263044-parry-king.json) |
 | Parse Ally | 114442 | [114442-parse-ally.json](./114442-parse-ally.json) |
 | Parse-O-Rhythm | 305940 | [305940-parse-o-rhythm.json](./305940-parse-o-rhythm.json) |
 | Parsec | 341593 | [341593-parsec.json](./341593-parsec.json) |
@@ -3057,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polish Community Project | 301971 | [301971-polish-community-project.json](./301971-polish-community-project.json) |
 | Polismos | 285476 | [285476-polismos.json](./285476-polismos.json) |
 | Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
+| Political Mastery | 263053 | [263053-political-mastery.json](./263053-political-mastery.json) |
 | Politically Yours | 23798 | [23798-politically-yours.json](./23798-politically-yours.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
 | Politiks | 391176 | [391176-politiks.json](./391176-politiks.json) |
