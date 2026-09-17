@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter Tamagotchi | 251591 | [251591-harry-potter-tamagotchi.json](./251591-harry-potter-tamagotchi.json) |
 | Harry Potter: Mastering Magic | 266200 | [266200-harry-potter-mastering-magic.json](./266200-harry-potter-mastering-magic.json) |
 | Harry Potter: Quidditch Champions - Deluxe Pack | 328987 | [328987-harry-potter-quidditch-champions-deluxe-pack.json](./328987-harry-potter-quidditch-champions-deluxe-pack.json) |
+| Harry the Hamster 2: The Quest for the Golden Wheel | 235333 | [235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json](./235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json) |
 | Harry's Legend | 320965 | [320965-harrys-legend.json](./320965-harrys-legend.json) |
 | Haru he to Tsuzuku Oka | 388003 | [388003-haru-he-to-tsuzuku-oka.json](./388003-haru-he-to-tsuzuku-oka.json) |
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
@@ -3025,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How it was to live Guadalindie 2026 | 410255 | [410255-how-it-was-to-live-guadalindie-2026.json](./410255-how-it-was-to-live-guadalindie-2026.json) |
 | How Little We Wait | 285468 | [285468-how-little-we-wait.json](./285468-how-little-we-wait.json) |
 | How long can human beings exist | 109657 | [109657-how-long-can-human-beings-exist.json](./109657-how-long-can-human-beings-exist.json) |
+| How Long Can You Survive | 235350 | [235350-how-long-can-you-survive.json](./235350-how-long-can-you-survive.json) |
 | How Many Bugs in a Box | 380444 | [380444-how-many-bugs-in-a-box.json](./380444-how-many-bugs-in-a-box.json) |
 | How Many Deaths to Clear? | 250353 | [250353-how-many-deaths-to-clear.json](./250353-how-many-deaths-to-clear.json) |
 | How Much Items: Animals | 340489 | [340489-how-much-items-animals.json](./340489-how-much-items-animals.json) |
