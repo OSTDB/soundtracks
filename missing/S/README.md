@@ -2327,6 +2327,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei III: Nocturne - HD Remaster | 337718 | [337718-shin-megami-tensei-iii-nocturne-hd-remaster.json](./337718-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster: Chronicle Pack | 336554 | [336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json](./336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json) |
 | Shin Megami Tensei III: Nocturne Maniax Chronicle Edition | 231375 | [231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json](./231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json) |
+| Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
+| Shin Megami Tensei V: The Rage of a Queen | 238058 | [238058-shin-megami-tensei-v-the-rage-of-a-queen.json](./238058-shin-megami-tensei-v-the-rage-of-a-queen.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of EXP | 315481 | [315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json](./315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of Miracles | 315483 | [315483-shin-megami-tensei-v-vengeance-mitama-dance-of-miracles.json](./315483-shin-megami-tensei-v-vengeance-mitama-dance-of-miracles.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of Wealth | 315482 | [315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json](./315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json) |
@@ -3490,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyguard 0: Air Arcade | 259097 | [259097-skyguard-0-air-arcade.json](./259097-skyguard-0-air-arcade.json) |
 | Skyhammer | 40807 | [40807-skyhammer.json](./40807-skyhammer.json) |
 | SKYHILL: Black Mist | 117770 | [117770-skyhill-black-mist.json](./117770-skyhill-black-mist.json) |
+| SkyIsland | 238062 | [238062-skyisland.json](./238062-skyisland.json) |
 | Skyjet | 47245 | [47245-skyjet.json](./47245-skyjet.json) |
 | SkyJumper | 190732 | [190732-skyjumper.json](./190732-skyjumper.json) |
 | Skyland Defense | 109672 | [109672-skyland-defense.json](./109672-skyland-defense.json) |
@@ -5887,6 +5890,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
 | Speedrun the Game | 159309 | [159309-speedrun-the-game.json](./159309-speedrun-the-game.json) |
 | Speedrunner's Paradise: Sky is the limit | 215716 | [215716-speedrunners-paradise-sky-is-the-limit.json](./215716-speedrunners-paradise-sky-is-the-limit.json) |
+| SpeedRunners: FortKnight's Fast Faction | 238042 | [238042-speedrunners-fortknights-fast-faction.json](./238042-speedrunners-fortknights-fast-faction.json) |
+| SpeedRunners: Mr. Quick's Speedy Bunch | 238041 | [238041-speedrunners-mr-quicks-speedy-bunch.json](./238041-speedrunners-mr-quicks-speedy-bunch.json) |
+| SpeedRunners: Salem's Sprint Squad | 238040 | [238040-speedrunners-salems-sprint-squad.json](./238040-speedrunners-salems-sprint-squad.json) |
 | Speedrunnerz | 257438 | [257438-speedrunnerz.json](./257438-speedrunnerz.json) |
 | Speedway Blast | 23868 | [23868-speedway-blast.json](./23868-speedway-blast.json) |
 | Speedway Challenge 2022 | 203562 | [203562-speedway-challenge-2022.json](./203562-speedway-challenge-2022.json) |
@@ -6158,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Wars | 113676 | [113676-splash-wars.json](./113676-splash-wars.json) |
 | Splashy Cube | 147937 | [147937-splashy-cube.json](./147937-splashy-cube.json) |
 | Splashy Duck | 84893 | [84893-splashy-duck.json](./84893-splashy-duck.json) |
+| Splat Death Salad | 238077 | [238077-splat-death-salad.json](./238077-splat-death-salad.json) |
 | Splat Renegade Paintball | 47312 | [47312-splat-renegade-paintball.json](./47312-splat-renegade-paintball.json) |
 | Splatformer | 191166 | [191166-splatformer.json](./191166-splatformer.json) |
 | Splatoon 2 + Splatoon 2 Octo Expansion Bundle | 136382 | [136382-splatoon-2-splatoon-2-octo-expansion-bundle.json](./136382-splatoon-2-splatoon-2-octo-expansion-bundle.json) |
@@ -6875,6 +6882,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wolves 3: Civil War | 9851 | [9851-star-wolves-3-civil-war.json](./9851-star-wolves-3-civil-war.json) |
 | Star Word | 318784 | [318784-star-word.json](./318784-star-word.json) |
 | Star-blaze | 15377 | [15377-star-blaze.json](./15377-star-blaze.json) |
+| Star-Crossed Myth: The Department of Punishments - Constellations of Love: Dui | 238070 | [238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json](./238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json) |
+| Star-Crossed Myth: The Department of Punishments - Constellations of Love: Ichthys | 238072 | [238072-star-crossed-myth-the-department-of-punishments-constellations-of-love-ichthys.json](./238072-star-crossed-myth-the-department-of-punishments-constellations-of-love-ichthys.json) |
+| Star-Crossed Myth: The Department of Punishments - Constellations of Love: Scorpio | 238074 | [238074-star-crossed-myth-the-department-of-punishments-constellations-of-love-scorpio.json](./238074-star-crossed-myth-the-department-of-punishments-constellations-of-love-scorpio.json) |
+| Star-Crossed Myth: The Department of Wishes - Constellations of Love: Huedhaut | 238071 | [238071-star-crossed-myth-the-department-of-wishes-constellations-of-love-huedhaut.json](./238071-star-crossed-myth-the-department-of-wishes-constellations-of-love-huedhaut.json) |
+| Star-Crossed Myth: The Department of Wishes - Constellations of Love: Leon | 238073 | [238073-star-crossed-myth-the-department-of-wishes-constellations-of-love-leon.json](./238073-star-crossed-myth-the-department-of-wishes-constellations-of-love-leon.json) |
+| Star-Crossed Myth: The Department of Wishes - Constellations of Love: Teorus | 238075 | [238075-star-crossed-myth-the-department-of-wishes-constellations-of-love-teorus.json](./238075-star-crossed-myth-the-department-of-wishes-constellations-of-love-teorus.json) |
 | Star-Rocket Strike | 90616 | [90616-star-rocket-strike.json](./90616-star-rocket-strike.json) |
 | Star-Twine | 30800 | [30800-star-twine.json](./30800-star-twine.json) |
 | Star-Wired | 310939 | [310939-star-wired.json](./310939-star-wired.json) |
