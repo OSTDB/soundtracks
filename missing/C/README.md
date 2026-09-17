@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charrua Soccer: Mirror Edition | 280344 | [280344-charrua-soccer-mirror-edition.json](./280344-charrua-soccer-mirror-edition.json) |
 | Charrua Soccer: Pro Edition | 277310 | [277310-charrua-soccer-pro-edition.json](./277310-charrua-soccer-pro-edition.json) |
 | Chart Weaver | 382892 | [382892-chart-weaver.json](./382892-chart-weaver.json) |
+| Chart1647 | 242654 | [242654-chart1647.json](./242654-chart1647.json) |
 | Charterstone: Digital Edition | 117869 | [117869-charterstone-digital-edition.json](./117869-charterstone-digital-edition.json) |
 | Chase | 253998 | [253998-chase.json](./253998-chase.json) |
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
@@ -1771,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
 | Chez Croggy | 264153 | [264153-chez-croggy.json](./264153-chez-croggy.json) |
+| Chezz | 242660 | [242660-chezz.json](./242660-chezz.json) |
 | Chezz | 56445 | [56445-chezz.json](./56445-chezz.json) |
 | Chi | 301424 | [301424-chi.json](./301424-chi.json) |
 | Chi Busters | 111738 | [111738-chi-busters.json](./111738-chi-busters.json) |
@@ -2202,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of the Wolf | 258184 | [258184-chronicles-of-the-wolf.json](./258184-chronicles-of-the-wolf.json) |
 | Chronicles of Vinland | 81008 | [81008-chronicles-of-vinland.json](./81008-chronicles-of-vinland.json) |
 | Chronicon | 35130 | [35130-chronicon.json](./35130-chronicon.json) |
+| Chronicon Complete | 242676 | [242676-chronicon-complete.json](./242676-chronicon-complete.json) |
 | Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
 | Chrono | 112964 | [112964-chrono.json](./112964-chrono.json) |
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
