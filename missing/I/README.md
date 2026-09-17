@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Cliffs of Dover Blitz | 80996 | [80996-il-2-sturmovik-cliffs-of-dover-blitz.json](./80996-il-2-sturmovik-cliffs-of-dover-blitz.json) |
 | IL-2 Sturmovik: Complete Edition | 23004 | [23004-il-2-sturmovik-complete-edition.json](./23004-il-2-sturmovik-complete-edition.json) |
 | IL-2 Sturmovik: Forgotten Battles | 755 | [755-il-2-sturmovik-forgotten-battles.json](./755-il-2-sturmovik-forgotten-battles.json) |
+| IL-2 Sturmovik: Fortresses and Focke-Wulfs - Dieppe | 272376 | [272376-il-2-sturmovik-fortresses-and-focke-wulfs-dieppe.json](./272376-il-2-sturmovik-fortresses-and-focke-wulfs-dieppe.json) |
 | IL-2 Sturmovik: Hell Hawks Over the Bulge Campaign | 267661 | [267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json](./267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json) |
 | IL-2 Sturmovik: Lisunov Li-2 Collector Plane | 267662 | [267662-il-2-sturmovik-lisunov-li-2-collector-plane.json](./267662-il-2-sturmovik-lisunov-li-2-collector-plane.json) |
 | IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
@@ -935,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infectonator | 200728 | [200728-infectonator.json](./200728-infectonator.json) |
 | Infees | 152904 | [152904-infees.json](./152904-infees.json) |
 | Inferiae | 399001 | [399001-inferiae.json](./399001-inferiae.json) |
+| Inferius | 272351 | [272351-inferius.json](./272351-inferius.json) |
 | Infernae | 267082 | [267082-infernae.json](./267082-infernae.json) |
 | Infernal Battles | 402938 | [402938-infernal-battles.json](./402938-infernal-battles.json) |
 | Infernal Chess | 333398 | [333398-infernal-chess.json](./333398-infernal-chess.json) |
