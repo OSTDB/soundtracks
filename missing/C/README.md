@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrion: Signature Edition | 386275 | [386275-carrion-signature-edition.json](./386275-carrion-signature-edition.json) |
 | Carrom Friends | 240205 | [240205-carrom-friends.json](./240205-carrom-friends.json) |
 | Carrot Catcher | 382766 | [382766-carrot-catcher.json](./382766-carrot-catcher.json) |
+| Carrot Clicker | 281536 | [281536-carrot-clicker.json](./281536-carrot-clicker.json) |
 | Carrot Girl Adventures | 165678 | [165678-carrot-girl-adventures.json](./165678-carrot-girl-adventures.json) |
 | Carrot Overload | 337099 | [337099-carrot-overload.json](./337099-carrot-overload.json) |
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
@@ -1573,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheesequest | 213022 | [213022-cheesequest.json](./213022-cheesequest.json) |
 | Cheestrings Quiz | 313120 | [313120-cheestrings-quiz.json](./313120-cheestrings-quiz.json) |
 | Cheesy Chaser | 378899 | [378899-cheesy-chaser.json](./378899-cheesy-chaser.json) |
+| Cheesy Trials | 281529 | [281529-cheesy-trials.json](./281529-cheesy-trials.json) |
 | Cheetah | 346050 | [346050-cheetah.json](./346050-cheetah.json) |
 | Cheetahmen | 243939 | [243939-cheetahmen.json](./243939-cheetahmen.json) |
 | Cheezure | 316094 | [316094-cheezure.json](./316094-cheezure.json) |
@@ -2250,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Racer | 26656 | [26656-circuit-racer.json](./26656-circuit-racer.json) |
 | Circuit Runner | 311634 | [311634-circuit-runner.json](./311634-circuit-runner.json) |
 | Circuit Stance | 392123 | [392123-circuit-stance.json](./392123-circuit-stance.json) |
+| Circuit USA | 281556 | [281556-circuit-usa.json](./281556-circuit-usa.json) |
 | Circuit: Demolition Derby 2 | 82147 | [82147-circuit-demolition-derby-2.json](./82147-circuit-demolition-derby-2.json) |
 | Circuitous | 90658 | [90658-circuitous.json](./90658-circuitous.json) |
 | Circular | 169466 | [169466-circular.json](./169466-circular.json) |
