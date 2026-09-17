@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Comyths | 397078 | [397078-the-comyths.json](./397078-the-comyths.json) |
 | The Concrete Sutra #1 | 398419 | [398419-the-concrete-sutra-1.json](./398419-the-concrete-sutra-1.json) |
 | The Condition | 373548 | [373548-the-condition.json](./373548-the-condition.json) |
+| The Conductor | 261909 | [261909-the-conductor.json](./261909-the-conductor.json) |
 | The Confession | 133365 | [133365-the-confession.json](./133365-the-confession.json) |
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
@@ -3654,6 +3655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Ship | 61102 | [61102-the-lost-ship.json](./61102-the-lost-ship.json) |
 | The Lost Shrine: Escape Room | 149606 | [149606-the-lost-shrine-escape-room.json](./149606-the-lost-shrine-escape-room.json) |
 | The Lost Skywhales | 182976 | [182976-the-lost-skywhales.json](./182976-the-lost-skywhales.json) |
+| The Lost Son | 261886 | [261886-the-lost-son.json](./261886-the-lost-son.json) |
 | The Lost Tetekoa | 327202 | [327202-the-lost-tetekoa.json](./327202-the-lost-tetekoa.json) |
 | The Lost Throne | 127199 | [127199-the-lost-throne.json](./127199-the-lost-throne.json) |
 | The Lost Tomb | 269080 | [269080-the-lost-tomb.json](./269080-the-lost-tomb.json) |
@@ -5715,6 +5717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiara Concerto | 86102 | [86102-tiara-concerto.json](./86102-tiara-concerto.json) |
 | Tiberian War: Ion Shock | 144980 | [144980-tiberian-war-ion-shock.json](./144980-tiberian-war-ion-shock.json) |
 | Tiberium | 94713 | [94713-tiberium.json](./94713-tiberium.json) |
+| Tibili et L'île de la Panthère | 261896 | [261896-tibili-et-lile-de-la-panthere.json](./261896-tibili-et-lile-de-la-panthere.json) |
 | Tic Cat Dog | 366294 | [366294-tic-cat-dog.json](./366294-tic-cat-dog.json) |
 | Tic Tac | 362822 | [362822-tic-tac.json](./362822-tic-tac.json) |
 | Tic Tac Math Algebra | 109020 | [109020-tic-tac-math-algebra.json](./109020-tic-tac-math-algebra.json) |
@@ -7743,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trains: Through Electric Storms. | 221156 | [221156-trains-through-electric-storms.json](./221156-trains-through-electric-storms.json) |
 | TrainTastic | 272900 | [272900-traintastic.json](./272900-traintastic.json) |
 | Trainwatch | 355613 | [355613-trainwatch.json](./355613-trainwatch.json) |
+| Trainyard Express | 261861 | [261861-trainyard-express.json](./261861-trainyard-express.json) |
 | Trainz 2019: C44aci Locomotive - Aurizon Pack | 325040 | [325040-trainz-2019-c44aci-locomotive-aurizon-pack.json](./325040-trainz-2019-c44aci-locomotive-aurizon-pack.json) |
 | Trainz 2019: Pro Train - BNSF Loco Bundle 1 | 325041 | [325041-trainz-2019-pro-train-bnsf-loco-bundle-1.json](./325041-trainz-2019-pro-train-bnsf-loco-bundle-1.json) |
 | Trainz 2019: SA AN Class - Australian National | 325039 | [325039-trainz-2019-sa-an-class-australian-national.json](./325039-trainz-2019-sa-an-class-australian-national.json) |
