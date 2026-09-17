@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Pill Bar | 415880 | [415880-last-pill-bar.json](./415880-last-pill-bar.json) |
 | Last Pirate: Survival Island | 193960 | [193960-last-pirate-survival-island.json](./193960-last-pirate-survival-island.json) |
 | Last Pizza Slice | 178591 | [178591-last-pizza-slice.json](./178591-last-pizza-slice.json) |
+| Last Play: Ragdoll Sandbox | 269090 | [269090-last-play-ragdoll-sandbox.json](./269090-last-play-ragdoll-sandbox.json) |
 | Last Protection | 122374 | [122374-last-protection.json](./122374-last-protection.json) |
 | Last Remains | 249467 | [249467-last-remains.json](./249467-last-remains.json) |
 | Last Report | 333277 | [333277-last-report.json](./333277-last-report.json) |
@@ -417,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Survivor | 89997 | [89997-last-survivor.json](./89997-last-survivor.json) |
 | Last Survivors | 255964 | [255964-last-survivors.json](./255964-last-survivors.json) |
 | Last Term, First Love | 391734 | [391734-last-term-first-love.json](./391734-last-term-first-love.json) |
+| Last Ultima | 269088 | [269088-last-ultima.json](./269088-last-ultima.json) |
 | Last Viking: Ragnarok Loop | 291485 | [291485-last-viking-ragnarok-loop.json](./291485-last-viking-ragnarok-loop.json) |
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
@@ -594,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap in Bootstrap | 254530 | [254530-leap-in-bootstrap.json](./254530-leap-in-bootstrap.json) |
 | Leap In The Right Direction | 296487 | [296487-leap-in-the-right-direction.json](./296487-leap-in-the-right-direction.json) |
 | Leap of Fate | 50227 | [50227-leap-of-fate.json](./50227-leap-of-fate.json) |
+| Leap Sheep! | 269105 | [269105-leap-sheep.json](./269105-leap-sheep.json) |
 | Leap Tactics | 357817 | [357817-leap-tactics.json](./357817-leap-tactics.json) |
 | Leap to the Top+ | 267077 | [267077-leap-to-the-top.json](./267077-leap-to-the-top.json) |
 | Leap up no Justu: Double | 278410 | [278410-leap-up-no-justu-double.json](./278410-leap-up-no-justu-double.json) |
@@ -1437,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linia Stripes | 221745 | [221745-linia-stripes.json](./221745-linia-stripes.json) |
 | Link | 174799 | [174799-link.json](./174799-link.json) |
 | Link | 18925 | [18925-link.json](./18925-link.json) |
+| Link and Spell | 269082 | [269082-link-and-spell.json](./269082-link-and-spell.json) |
 | Link Bomb Party | 221747 | [221747-link-bomb-party.json](./221747-link-bomb-party.json) |
 | Link Letter | 53275 | [53275-link-letter.json](./53275-link-letter.json) |
 | Link of Hearts | 208012 | [208012-link-of-hearts.json](./208012-link-of-hearts.json) |
