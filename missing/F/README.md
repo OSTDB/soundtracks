@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefly Shelter | 404865 | [404865-firefly-shelter.json](./404865-firefly-shelter.json) |
 | FireFly Studios' Stronghold Warchest | 78021 | [78021-firefly-studios-stronghold-warchest.json](./78021-firefly-studios-stronghold-warchest.json) |
 | Firefly Witch | 275345 | [275345-firefly-witch.json](./275345-firefly-witch.json) |
+| FireForce Online | 240907 | [240907-fireforce-online.json](./240907-fireforce-online.json) |
 | Firefrost | 286091 | [286091-firefrost.json](./286091-firefrost.json) |
 | Firehawk: Swarmbreakers | 323362 | [323362-firehawk-swarmbreakers.json](./323362-firehawk-swarmbreakers.json) |
 | FireJumpers | 200126 | [200126-firejumpers.json](./200126-firejumpers.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Quiz Deluxe | 116397 | [116397-football-quiz-deluxe.json](./116397-football-quiz-deluxe.json) |
 | Football Russian 20!8 | 86306 | [86306-football-russian-20-8.json](./86306-football-russian-20-8.json) |
 | Football Saga Fantasista | 244801 | [244801-football-saga-fantasista.json](./244801-football-saga-fantasista.json) |
+| Football Showdown 2 | 240870 | [240870-football-showdown-2.json](./240870-football-showdown-2.json) |
 | Football Star Life 23/24 | 260152 | [260152-football-star-life-23-24.json](./260152-football-star-life-23-24.json) |
 | Football Stars Legend 24 | 261888 | [261888-football-stars-legend-24.json](./261888-football-stars-legend-24.json) |
 | Football Story | 103391 | [103391-football-story.json](./103391-football-story.json) |
@@ -2639,6 +2641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Battle | 166732 | [166732-forest-battle.json](./166732-forest-battle.json) |
 | Forest Camp Story | 174297 | [174297-forest-camp-story.json](./174297-forest-camp-story.json) |
 | Forest Crossroads | 278151 | [278151-forest-crossroads.json](./278151-forest-crossroads.json) |
+| Forest Defenders | 240920 | [240920-forest-defenders.json](./240920-forest-defenders.json) |
 | Forest Doesn’t Care | 358851 | [358851-forest-doesn-t-care.json](./358851-forest-doesn-t-care.json) |
 | Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
 | Forest Harvester Tractor 3D | 89941 | [89941-forest-harvester-tractor-3d.json](./89941-forest-harvester-tractor-3d.json) |
@@ -2989,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Robot Attack Minigame | 371303 | [371303-fps-robot-attack-minigame.json](./371303-fps-robot-attack-minigame.json) |
 | FPS Shooting Master | 102748 | [102748-fps-shooting-master.json](./102748-fps-shooting-master.json) |
 | FPS Trainer | 94177 | [94177-fps-trainer.json](./94177-fps-trainer.json) |
+| FPS War 2 | 240880 | [240880-fps-war-2.json](./240880-fps-war-2.json) |
 | FPS80 | 305340 | [305340-fps80.json](./305340-fps80.json) |
 | FPV Air 2: Bando Freestyler | 172099 | [172099-fpv-air-2-bando-freestyler.json](./172099-fpv-air-2-bando-freestyler.json) |
 | FPV Battleground | 340243 | [340243-fpv-battleground.json](./340243-fpv-battleground.json) |
