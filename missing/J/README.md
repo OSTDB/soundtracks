@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| J and the Sewer World | 285598 | [285598-j-and-the-sewer-world.json](./285598-j-and-the-sewer-world.json) |
 | J-Jump Arena | 263483 | [263483-j-jump-arena.json](./263483-j-jump-arena.json) |
 | J. J. Squawkers | 40193 | [40193-j-j-squawkers.json](./40193-j-j-squawkers.json) |
 | J. Lo: Fur Bully from the Block | 257407 | [257407-j-lo-fur-bully-from-the-block.json](./257407-j-lo-fur-bully-from-the-block.json) |
