@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
 | Dark Room | 356630 | [356630-dark-room.json](./356630-dark-room.json) |
 | Dark Rooms | 240346 | [240346-dark-rooms.json](./240346-dark-rooms.json) |
+| Dark Rune | 239755 | [239755-dark-rune.json](./239755-dark-rune.json) |
 | Dark Sanctum | 290909 | [290909-dark-sanctum.json](./290909-dark-sanctum.json) |
 | Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
@@ -1541,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery INC | 211732 | [211732-delivery-inc.json](./211732-delivery-inc.json) |
 | Delivery INC: Large Cargo | 274759 | [274759-delivery-inc-large-cargo.json](./274759-delivery-inc-large-cargo.json) |
 | Delivery Issues | 369017 | [369017-delivery-issues.json](./369017-delivery-issues.json) |
+| Delivery Kore | 239769 | [239769-delivery-kore.json](./239769-delivery-kore.json) |
 | Delivery man simulator | 99628 | [99628-delivery-man-simulator.json](./99628-delivery-man-simulator.json) |
 | Delivery Must Complete | 355102 | [355102-delivery-must-complete.json](./355102-delivery-must-complete.json) |
 | Delivery of Us | 380398 | [380398-delivery-of-us.json](./380398-delivery-of-us.json) |
@@ -3016,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Man: Mission Impawsible | 316875 | [316875-dog-man-mission-impawsible.json](./316875-dog-man-mission-impawsible.json) |
 | Dog of Dracula 2: Cyber Monogatari | 228436 | [228436-dog-of-dracula-2-cyber-monogatari.json](./228436-dog-of-dracula-2-cyber-monogatari.json) |
 | Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
+| Dog Puzzle | 239773 | [239773-dog-puzzle.json](./239773-dog-puzzle.json) |
 | Dog Trainer | 132797 | [132797-dog-trainer.json](./132797-dog-trainer.json) |
 | Dog Wash! | 225656 | [225656-dog-wash.json](./225656-dog-wash.json) |
 | Dog Years | 266800 | [266800-dog-years.json](./266800-dog-years.json) |
