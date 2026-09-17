@@ -1898,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despicable Me: The Game | 19652 | [19652-despicable-me-the-game.json](./19652-despicable-me-the-game.json) |
 | Despot's Game: Collector's Edition | 219052 | [219052-despots-game-collectors-edition.json](./219052-despots-game-collectors-edition.json) |
 | Despotik Design | 13591 | [13591-despotik-design.json](./13591-despotik-design.json) |
+| Dessert DIY: Complete Edition | 251668 | [251668-dessert-diy-complete-edition.json](./251668-dessert-diy-complete-edition.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
 | Destination | 322576 | [322576-destination.json](./322576-destination.json) |
 | Destination Ares | 25813 | [25813-destination-ares.json](./25813-destination-ares.json) |
@@ -4655,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Betwixt | 410933 | [410933-dungeon-betwixt.json](./410933-dungeon-betwixt.json) |
 | Dungeon Blocks | 192429 | [192429-dungeon-blocks.json](./192429-dungeon-blocks.json) |
 | Dungeon Board | 311800 | [311800-dungeon-board.json](./311800-dungeon-board.json) |
+| Dungeon Boss: Respawned | 251660 | [251660-dungeon-boss-respawned.json](./251660-dungeon-boss-respawned.json) |
 | Dungeon Brawl | 373095 | [373095-dungeon-brawl.json](./373095-dungeon-brawl.json) |
 | Dungeon Clawler | 290897 | [290897-dungeon-clawler.json](./290897-dungeon-clawler.json) |
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
