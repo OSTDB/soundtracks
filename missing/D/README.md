@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Blood: Beyond the Darkness | 291612 | [291612-dark-blood-beyond-the-darkness.json](./291612-dark-blood-beyond-the-darkness.json) |
 | Dark Bows | 285000 | [285000-dark-bows.json](./285000-dark-bows.json) |
 | Dark Break | 64887 | [64887-dark-break.json](./64887-dark-break.json) |
+| Dark Burial: Enhanced Edition | 238617 | [238617-dark-burial-enhanced-edition.json](./238617-dark-burial-enhanced-edition.json) |
 | Dark Canvas Collection | 146305 | [146305-dark-canvas-collection.json](./146305-dark-canvas-collection.json) |
 | Dark Castle | 12034 | [12034-dark-castle.json](./12034-dark-castle.json) |
 | Dark Castle | 334682 | [334682-dark-castle.json](./334682-dark-castle.json) |
@@ -533,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
 | Darkenstein 3D | 235996 | [235996-darkenstein-3d.json](./235996-darkenstein-3d.json) |
 | Darker Ride Escape | 310578 | [310578-darker-ride-escape.json](./310578-darker-ride-escape.json) |
+| Darker Tides | 238603 | [238603-darker-tides.json](./238603-darker-tides.json) |
 | Darkest Corners | 404867 | [404867-darkest-corners.json](./404867-darkest-corners.json) |
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
 | Darkest Descent | 370670 | [370670-darkest-descent.json](./370670-darkest-descent.json) |
@@ -1617,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Derby Multiplayer | 269087 | [269087-demolition-derby-multiplayer.json](./269087-demolition-derby-multiplayer.json) |
 | Demolition Engineer | 99660 | [99660-demolition-engineer.json](./99660-demolition-engineer.json) |
 | Demolition Girl | 26570 | [26570-demolition-girl.json](./26570-demolition-girl.json) |
+| Demolition Inc.: Level & Weapon | 238632 | [238632-demolition-inc-level-and-weapon.json](./238632-demolition-inc-level-and-weapon.json) |
 | Demolition Race | 192974 | [192974-demolition-race.json](./192974-demolition-race.json) |
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
 | Demon Attack | 309342 | [309342-demon-attack.json](./309342-demon-attack.json) |
@@ -2474,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinobreak: Chronicles of Horror Collection | 331412 | [331412-dinobreak-chronicles-of-horror-collection.json](./331412-dinobreak-chronicles-of-horror-collection.json) |
 | Dinobreak: Crisis Collection | 331409 | [331409-dinobreak-crisis-collection.json](./331409-dinobreak-crisis-collection.json) |
 | Dinobreak: Gaiden Collection | 334111 | [334111-dinobreak-gaiden-collection.json](./334111-dinobreak-gaiden-collection.json) |
+| Dinodon | 238624 | [238624-dinodon.json](./238624-dinodon.json) |
 | Dinofurie | 332417 | [332417-dinofurie.json](./332417-dinofurie.json) |
 | DinoGore | 358348 | [358348-dinogore.json](./358348-dinogore.json) |
 | Dinogotchi | 173311 | [173311-dinogotchi.json](./173311-dinogotchi.json) |
