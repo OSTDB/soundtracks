@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beluflin: Beautiful Luminous Flying Insects | 325268 | [325268-beluflin-beautiful-luminous-flying-insects.json](./325268-beluflin-beautiful-luminous-flying-insects.json) |
 | Beluga | 256857 | [256857-beluga.json](./256857-beluga.json) |
 | Beluga Dreams | 268498 | [268498-beluga-dreams.json](./268498-beluga-dreams.json) |
+| Beluga: Kamikaze Aircraft Carrier | 237512 | [237512-beluga-kamikaze-aircraft-carrier.json](./237512-beluga-kamikaze-aircraft-carrier.json) |
 | Bemuzed | 135908 | [135908-bemuzed.json](./135908-bemuzed.json) |
 | Ben 10 | 363904 | [363904-ben-10.json](./363904-ben-10.json) |
 | Ben 10 Alien Balls | 343826 | [343826-ben-10-alien-balls.json](./343826-ben-10-alien-balls.json) |
@@ -3107,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons TD 5 HD | 88911 | [88911-bloons-td-5-hd.json](./88911-bloons-td-5-hd.json) |
 | Bloons TD 6: Rogue Legends | 330334 | [330334-bloons-td-6-rogue-legends.json](./330334-bloons-td-6-rogue-legends.json) |
 | Bloop | 182984 | [182984-bloop.json](./182984-bloop.json) |
+| Blooper's Revenge | 237492 | [237492-bloopers-revenge.json](./237492-bloopers-revenge.json) |
 | Blopper | 287236 | [287236-blopper.json](./287236-blopper.json) |
 | Blorks: The Quest for Magnesium | 149561 | [149561-blorks-the-quest-for-magnesium.json](./149561-blorks-the-quest-for-magnesium.json) |
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
@@ -4842,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Tycoon ND | 24995 | [24995-bus-tycoon-nd.json](./24995-bus-tycoon-nd.json) |
 | Bus-Simulator 2012 | 16700 | [16700-bus-simulator-2012.json](./16700-bus-simulator-2012.json) |
 | Bush Royal Rampage | 263481 | [263481-bush-royal-rampage.json](./263481-bush-royal-rampage.json) |
+| Bush Shoot-Out | 237477 | [237477-bush-shoot-out.json](./237477-bush-shoot-out.json) |
 | Bushfires: Animal Rescue | 163925 | [163925-bushfires-animal-rescue.json](./163925-bushfires-animal-rescue.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
 | Business 98 | 391200 | [391200-business-98.json](./391200-business-98.json) |
