@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
 | Radium Lux | 349392 | [349392-radium-lux.json](./349392-radium-lux.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
+| Rafa's World + Axolotl + Cat Milk | 242658 | [242658-rafas-world-axolotl-cat-milk.json](./242658-rafas-world-axolotl-cat-milk.json) |
 | Rafflesia | 40167 | [40167-rafflesia.json](./40167-rafflesia.json) |
 | Raft Survival Evolve Simulator | 103521 | [103521-raft-survival-evolve-simulator.json](./103521-raft-survival-evolve-simulator.json) |
 | Raft Wars 2 | 220138 | [220138-raft-wars-2.json](./220138-raft-wars-2.json) |
@@ -563,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratstronaut | 362912 | [362912-ratstronaut.json](./362912-ratstronaut.json) |
 | Ratten Reich: Dance of Kings | 149032 | [149032-ratten-reich-dance-of-kings.json](./149032-ratten-reich-dance-of-kings.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
+| Ratyboy Adventures | 242657 | [242657-ratyboy-adventures.json](./242657-ratyboy-adventures.json) |
 | Ratz Instagib | 9193 | [9193-ratz-instagib.json](./9193-ratz-instagib.json) |
 | Ravage Road | 228458 | [228458-ravage-road.json](./228458-ravage-road.json) |
 | Rave Gazebo | 275723 | [275723-rave-gazebo.json](./275723-rave-gazebo.json) |
@@ -744,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
 | Real Car Market Simulator Together | 407348 | [407348-real-car-market-simulator-together.json](./407348-real-car-market-simulator-together.json) |
 | Real Cricket Go | 233506 | [233506-real-cricket-go.json](./233506-real-cricket-go.json) |
+| Real Cricket™ 16: English Bash | 242682 | [242682-real-cricket-16-english-bash.json](./242682-real-cricket-16-english-bash.json) |
 | Real Dodger 3D | 256355 | [256355-real-dodger-3d.json](./256355-real-dodger-3d.json) |
 | Real Drags | 24992 | [24992-real-drags.json](./24992-real-drags.json) |
 | Real Drift | 89963 | [89963-real-drift.json](./89963-real-drift.json) |
@@ -1086,7 +1089,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redacted: Genome | 287196 | [287196-redacted-genome.json](./287196-redacted-genome.json) |
 | Redactle | 197384 | [197384-redactle.json](./197384-redactle.json) |
 | RedBull Car Park Drift | 120349 | [120349-redbull-car-park-drift.json](./120349-redbull-car-park-drift.json) |
+| RedCat 2: De Ontvoering van Prinses Dana | 242634 | [242634-redcat-2-de-ontvoering-van-prinses-dana.json](./242634-redcat-2-de-ontvoering-van-prinses-dana.json) |
+| RedCat Megapack | 242638 | [242638-redcat-megapack.json](./242638-redcat-megapack.json) |
+| RedCat Megapack 2 | 242639 | [242639-redcat-megapack-2.json](./242639-redcat-megapack-2.json) |
+| RedCat Megapack 3 | 242640 | [242640-redcat-megapack-3.json](./242640-redcat-megapack-3.json) |
 | RedCat: De Brutale Bankroof | 201297 | [201297-redcat-de-brutale-bankroof.json](./201297-redcat-de-brutale-bankroof.json) |
+| RedCat: De Duistere Dierendiefstal | 242637 | [242637-redcat-de-duistere-dierendiefstal.json](./242637-redcat-de-duistere-dierendiefstal.json) |
+| RedCat: De Europese Stedentocht | 242635 | [242635-redcat-de-europese-stedentocht.json](./242635-redcat-de-europese-stedentocht.json) |
+| RedCat: De Reusachtige Letterraket | 242636 | [242636-redcat-de-reusachtige-letterraket.json](./242636-redcat-de-reusachtige-letterraket.json) |
 | RedCat: De Toffe Tijdreis | 201299 | [201299-redcat-de-toffe-tijdreis.json](./201299-redcat-de-toffe-tijdreis.json) |
 | RedCat: De Woeste Woordenbrij | 201300 | [201300-redcat-de-woeste-woordenbrij.json](./201300-redcat-de-woeste-woordenbrij.json) |
 | Redcon | 25098 | [25098-redcon.json](./25098-redcon.json) |
