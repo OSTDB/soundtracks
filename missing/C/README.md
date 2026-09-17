@@ -321,6 +321,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
 | Candy Mandy | 114956 | [114956-candy-mandy.json](./114956-candy-mandy.json) |
 | Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
+| Candy Mountain Massacre | 270206 | [270206-candy-mountain-massacre.json](./270206-candy-mountain-massacre.json) |
+| Candy Mountain Massacre 2 | 270207 | [270207-candy-mountain-massacre-2.json](./270207-candy-mountain-massacre-2.json) |
 | Candy Mountain Massacre: Revenge | 331959 | [331959-candy-mountain-massacre-revenge.json](./331959-candy-mountain-massacre-revenge.json) |
 | Candy Rangers | 265694 | [265694-candy-rangers.json](./265694-candy-rangers.json) |
 | Candy Renovation | 301990 | [301990-candy-renovation.json](./301990-candy-renovation.json) |
@@ -577,6 +579,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardbot | 159819 | [159819-cardbot.json](./159819-cardbot.json) |
 | Cardcaptor Sakura: Repaint Record | 137637 | [137637-cardcaptor-sakura-repaint-record.json](./137637-cardcaptor-sakura-repaint-record.json) |
 | CardCraft | 76552 | [76552-cardcraft.json](./76552-cardcraft.json) |
+| Cardfight!! Vanguard Dear Days - Character Set 09: Sophie Belle | 270201 | [270201-cardfight-vanguard-dear-days-character-set-09-sophie-belle.json](./270201-cardfight-vanguard-dear-days-character-set-09-sophie-belle.json) |
+| Cardfight!! Vanguard Dear Days: Character Set 08 - Jinki Mukae | 270192 | [270192-cardfight-vanguard-dear-days-character-set-08-jinki-mukae.json](./270192-cardfight-vanguard-dear-days-character-set-08-jinki-mukae.json) |
+| Cardfight!! Vanguard Dear Days: Character Set 10 - Samuel Fredson | 270191 | [270191-cardfight-vanguard-dear-days-character-set-10-samuel-fredson.json](./270191-cardfight-vanguard-dear-days-character-set-10-samuel-fredson.json) |
 | Cardfight!! Vanguard EX | 115018 | [115018-cardfight-vanguard-ex.json](./115018-cardfight-vanguard-ex.json) |
 | Cardfight!! Vanguard Zero | 124770 | [124770-cardfight-vanguard-zero.json](./124770-cardfight-vanguard-zero.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
@@ -3674,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
 | Core Devourer | 235764 | [235764-core-devourer.json](./235764-core-devourer.json) |
 | Core Hustlers | 369034 | [369034-core-hustlers.json](./369034-core-hustlers.json) |
+| Core Keeper: Shimmering Frontier | 270197 | [270197-core-keeper-shimmering-frontier.json](./270197-core-keeper-shimmering-frontier.json) |
 | Core Masters | 62771 | [62771-core-masters.json](./62771-core-masters.json) |
 | Core Miners | 384084 | [384084-core-miners.json](./384084-core-miners.json) |
 | Core of Darkness | 117681 | [117681-core-of-darkness.json](./117681-core-of-darkness.json) |
