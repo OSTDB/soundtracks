@@ -2530,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout Memphis | 253414 | [253414-blackout-memphis.json](./253414-blackout-memphis.json) |
 | Blackout: Sightless Home | 227257 | [227257-blackout-sightless-home.json](./227257-blackout-sightless-home.json) |
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
+| Blackpink: The Game | 250430 | [250430-blackpink-the-game.json](./250430-blackpink-the-game.json) |
 | Blackscar Mountain | 72093 | [72093-blackscar-mountain.json](./72093-blackscar-mountain.json) |
 | Blacksea Odyssey: Limited Edition | 166202 | [166202-blacksea-odyssey-limited-edition.json](./166202-blacksea-odyssey-limited-edition.json) |
 | BlackShadows | 34561 | [34561-blackshadows.json](./34561-blackshadows.json) |
@@ -2808,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
 | Block Breaker | 195789 | [195789-block-breaker.json](./195789-block-breaker.json) |
 | Block Breaker | 384648 | [384648-block-breaker.json](./384648-block-breaker.json) |
+| Block Breakerz | 250413 | [250413-block-breakerz.json](./250413-block-breakerz.json) |
 | Block Buster | 270766 | [270766-block-buster.json](./270766-block-buster.json) |
 | Block Busters: Local Party | 172171 | [172171-block-busters-local-party.json](./172171-block-busters-local-party.json) |
 | Block Cat Jam | 297502 | [297502-block-cat-jam.json](./297502-block-cat-jam.json) |
@@ -4782,7 +4784,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 18: Official Map Extension | 163354 | [163354-bus-simulator-18-official-map-extension.json](./163354-bus-simulator-18-official-map-extension.json) |
 | Bus Simulator 21: MAN Bus Pack | 213951 | [213951-bus-simulator-21-man-bus-pack.json](./213951-bus-simulator-21-man-bus-pack.json) |
 | Bus Simulator 21: Next Stop - Halloween Skin Pack | 263040 | [263040-bus-simulator-21-next-stop-halloween-skin-pack.json](./263040-bus-simulator-21-next-stop-halloween-skin-pack.json) |
+| Bus Simulator 21: Next Stop - IVECO BUS Bus Pack | 250414 | [250414-bus-simulator-21-next-stop-iveco-bus-bus-pack.json](./250414-bus-simulator-21-next-stop-iveco-bus-bus-pack.json) |
+| Bus Simulator 21: Next Stop - MAN Bus Pack | 250415 | [250415-bus-simulator-21-next-stop-man-bus-pack.json](./250415-bus-simulator-21-next-stop-man-bus-pack.json) |
 | Bus Simulator 21: Next Stop - Official School Bus Extension | 264117 | [264117-bus-simulator-21-next-stop-official-school-bus-extension.json](./264117-bus-simulator-21-next-stop-official-school-bus-extension.json) |
+| Bus Simulator 21: Next Stop - VDL Bus Pack | 250418 | [250418-bus-simulator-21-next-stop-vdl-bus-pack.json](./250418-bus-simulator-21-next-stop-vdl-bus-pack.json) |
 | Bus Simulator 21: Protect Nature Interior Pack | 213950 | [213950-bus-simulator-21-protect-nature-interior-pack.json](./213950-bus-simulator-21-protect-nature-interior-pack.json) |
 | Bus Simulator 21: VDL Bus Pack | 213952 | [213952-bus-simulator-21-vdl-bus-pack.json](./213952-bus-simulator-21-vdl-bus-pack.json) |
 | Bus Simulator 27 | 355086 | [355086-bus-simulator-27.json](./355086-bus-simulator-27.json) |
