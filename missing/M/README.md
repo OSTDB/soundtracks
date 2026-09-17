@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mama's Farm: Match ‪3‬ | 144995 | [144995-mamas-farm-match-3.json](./144995-mamas-farm-match-3.json) |
 | Mama's Quesadillaria | 303648 | [303648-mamas-quesadillaria.json](./303648-mamas-quesadillaria.json) |
 | Mama's Sleeping Angels | 321991 | [321991-mamas-sleeping-angels.json](./321991-mamas-sleeping-angels.json) |
+| Mambo a Go Go | 273975 | [273975-mambo-a-go-go.json](./273975-mambo-a-go-go.json) |
 | Mamegoma 2: Uchi no Ko ga Ichiban! | 241032 | [241032-mamegoma-2-uchi-no-ko-ga-ichiban.json](./241032-mamegoma-2-uchi-no-ko-ga-ichiban.json) |
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
 | Mamiya | 145621 | [145621-mamiya.json](./145621-mamiya.json) |
@@ -1911,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
 | Meeuw | 135829 | [135829-meeuw.json](./135829-meeuw.json) |
 | MEG 9: Lost Echoes | 59944 | [59944-meg-9-lost-echoes.json](./59944-meg-9-lost-echoes.json) |
+| Mega 99Vidas | 274000 | [274000-mega-99vidas.json](./274000-mega-99vidas.json) |
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
 | Mega Bowling Dash | 136431 | [136431-mega-bowling-dash.json](./136431-mega-bowling-dash.json) |
 | Mega Bundle: Cats | 208046 | [208046-mega-bundle-cats.json](./208046-mega-bundle-cats.json) |
@@ -4319,6 +4321,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
 | Moorhuhn: The Good, The Egg, and The Ugly Mobile | 282546 | [282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json](./282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json) |
 | Moose Boarders | 327381 | [327381-moose-boarders.json](./327381-moose-boarders.json) |
+| Mooshie's Kitchen 2 | 273983 | [273983-mooshies-kitchen-2.json](./273983-mooshies-kitchen-2.json) |
+| Mooshie's Kitchen 3 | 273984 | [273984-mooshies-kitchen-3.json](./273984-mooshies-kitchen-3.json) |
 | Moot District | 114436 | [114436-moot-district.json](./114436-moot-district.json) |
 | MOP Operation Cleanup | 32961 | [32961-mop-operation-cleanup.json](./32961-mop-operation-cleanup.json) |
 | Mopar Drag N Brag | 246965 | [246965-mopar-drag-n-brag.json](./246965-mopar-drag-n-brag.json) |
@@ -5042,6 +5046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Box: Hip Hop | 316271 | [316271-music-box-hip-hop.json](./316271-music-box-hip-hop.json) |
 | Music Box: Hip Hop vol.2 | 316272 | [316272-music-box-hip-hop-vol-2.json](./316272-music-box-hip-hop-vol-2.json) |
 | Music Club Manager | 126616 | [126616-music-club-manager.json](./126616-music-club-manager.json) |
+| Music Drive | 273994 | [273994-music-drive.json](./273994-music-drive.json) |
 | Music Drive: Chase the Beat | 351004 | [351004-music-drive-chase-the-beat.json](./351004-music-drive-chase-the-beat.json) |
 | Music GunGun! | 64963 | [64963-music-gungun.json](./64963-music-gungun.json) |
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
