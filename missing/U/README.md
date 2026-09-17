@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubermensch | 293649 | [293649-ubermensch.json](./293649-ubermensch.json) |
 | Ubermosh Vol.3 | 31669 | [31669-ubermosh-vol-3.json](./31669-ubermosh-vol-3.json) |
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
+| Uberslaughter | 266308 | [266308-uberslaughter.json](./266308-uberslaughter.json) |
 | UBoat | 32283 | [32283-uboat.json](./32283-uboat.json) |
 | Uboat Attack: Complete Edition | 317245 | [317245-uboat-attack-complete-edition.json](./317245-uboat-attack-complete-edition.json) |
 | Uboat Attack: Gold Edition | 385212 | [385212-uboat-attack-gold-edition.json](./385212-uboat-attack-gold-edition.json) |
