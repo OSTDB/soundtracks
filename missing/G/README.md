@@ -2958,5 +2958,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyruss | 343878 | [343878-gyruss.json](./343878-gyruss.json) |
 | Gyruss | 343879 | [343879-gyruss.json](./343879-gyruss.json) |
 | Gythol Granditti: The Crypt of Darkness | 120411 | [120411-gythol-granditti-the-crypt-of-darkness.json](./120411-gythol-granditti-the-crypt-of-darkness.json) |
+| Gyvolver | 248141 | [248141-gyvolver.json](./248141-gyvolver.json) |
 | GZDoom SM64 | 307741 | [307741-gzdoom-sm64.json](./307741-gzdoom-sm64.json) |
 | Gzlna | 294278 | [294278-gzlna.json](./294278-gzlna.json) |
