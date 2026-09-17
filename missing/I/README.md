@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Mice 3 | 287067 | [287067-i-commissioned-some-mice-3.json](./287067-i-commissioned-some-mice-3.json) |
 | I Commissioned Some Mice 4 | 287068 | [287068-i-commissioned-some-mice-4.json](./287068-i-commissioned-some-mice-4.json) |
 | I Commissioned Some Mice 5 | 287069 | [287069-i-commissioned-some-mice-5.json](./287069-i-commissioned-some-mice-5.json) |
+| I Commissioned Some Pigeons | 252250 | [252250-i-commissioned-some-pigeons.json](./252250-i-commissioned-some-pigeons.json) |
 | I Commissioned Some Pigeons 3 | 377679 | [377679-i-commissioned-some-pigeons-3.json](./377679-i-commissioned-some-pigeons-3.json) |
 | I Commissioned Some Pigeons 4 | 377680 | [377680-i-commissioned-some-pigeons-4.json](./377680-i-commissioned-some-pigeons-4.json) |
 | I Commissioned Some Snails | 288783 | [288783-i-commissioned-some-snails.json](./288783-i-commissioned-some-snails.json) |
@@ -1556,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Aces: Heroes of WWII | 210024 | [210024-iron-aces-heroes-of-wwii.json](./210024-iron-aces-heroes-of-wwii.json) |
 | Iron Age | 192943 | [192943-iron-age.json](./192943-iron-age.json) |
 | Iron Armada | 29711 | [29711-iron-armada.json](./29711-iron-armada.json) |
+| Iron Armor Storm | 252220 | [252220-iron-armor-storm.json](./252220-iron-armor-storm.json) |
 | Iron Bramble | 401010 | [401010-iron-bramble.json](./401010-iron-bramble.json) |
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
 | Iron Convoy | 330859 | [330859-iron-convoy.json](./330859-iron-convoy.json) |
