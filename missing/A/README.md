@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gods | 399092 | [399092-age-of-gods.json](./399092-age-of-gods.json) |
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
 | Age of Heroes II: Underground Horror | 320973 | [320973-age-of-heroes-ii-underground-horror.json](./320973-age-of-heroes-ii-underground-horror.json) |
+| Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
 | Age of Wonders 4: Empires & Ashes | 259051 | [259051-age-of-wonders-4-empires-and-ashes.json](./259051-age-of-wonders-4-empires-and-ashes.json) |
 | Age of Wonders 4: Expansion Pass | 293731 | [293731-age-of-wonders-4-expansion-pass.json](./293731-age-of-wonders-4-expansion-pass.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
@@ -1936,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angela's Love | 385059 | [385059-angelas-love.json](./385059-angelas-love.json) |
 | Angeldust | 32892 | [32892-angeldust.json](./32892-angeldust.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
+| Angelic Chaos Re-Boot! | 254480 | [254480-angelic-chaos-re-boot.json](./254480-angelic-chaos-re-boot.json) |
 | Angelic Force Yuki | 82817 | [82817-angelic-force-yuki.json](./82817-angelic-force-yuki.json) |
 | Angelic Syndrome | 310601 | [310601-angelic-syndrome.json](./310601-angelic-syndrome.json) |
 | Angelic Vale | 202376 | [202376-angelic-vale.json](./202376-angelic-vale.json) |
@@ -2810,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia Fallen II | 293096 | [293096-arcadia-fallen-ii.json](./293096-arcadia-fallen-ii.json) |
 | Arcadia Fallen: Digital Deluxe | 401669 | [401669-arcadia-fallen-digital-deluxe.json](./401669-arcadia-fallen-digital-deluxe.json) |
 | Arcadia VI | 267928 | [267928-arcadia-vi.json](./267928-arcadia-vi.json) |
+| Arcadia: Arcade Watch Games | 254603 | [254603-arcadia-arcade-watch-games.json](./254603-arcadia-arcade-watch-games.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
 | Arcaduis | 164984 | [164984-arcaduis.json](./164984-arcaduis.json) |
