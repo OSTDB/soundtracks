@@ -2919,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Rat Simulator | 410888 | [410888-gym-rat-simulator.json](./410888-gym-rat-simulator.json) |
 | Gym Simulator 24 | 263793 | [263793-gym-simulator-24.json](./263793-gym-simulator-24.json) |
 | Gym Simulator 26 | 397070 | [397070-gym-simulator-26.json](./397070-gym-simulator-26.json) |
+| Gynogenesis: The Next Day | 256899 | [256899-gynogenesis-the-next-day.json](./256899-gynogenesis-the-next-day.json) |
 | Gyossait | 42684 | [42684-gyossait.json](./42684-gyossait.json) |
 | Gyossait: Deluxe Edition | 134001 | [134001-gyossait-deluxe-edition.json](./134001-gyossait-deluxe-edition.json) |
 | Gyousatsu! Spirits: Final Version | 137598 | [137598-gyousatsu-spirits-final-version.json](./137598-gyousatsu-spirits-final-version.json) |
