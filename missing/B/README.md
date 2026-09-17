@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Sparkle Blast | 97319 | [97319-barbie-sparkle-blast.json](./97319-barbie-sparkle-blast.json) |
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
 | Barbie: Explorer | 3314 | [3314-barbie-explorer.json](./3314-barbie-explorer.json) |
+| Barbie: Fairytopia | 273990 | [273990-barbie-fairytopia.json](./273990-barbie-fairytopia.json) |
 | Barbie: Gotta Have Games | 43884 | [43884-barbie-gotta-have-games.json](./43884-barbie-gotta-have-games.json) |
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
 | Barbie: Let’s Make Music | 293198 | [293198-barbie-let-s-make-music.json](./293198-barbie-let-s-make-music.json) |
@@ -2785,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block;Shift | 293103 | [293103-block-shift.json](./293103-block-shift.json) |
 | Block! Hexa Puzzle | 88914 | [88914-block-hexa-puzzle.json](./88914-block-hexa-puzzle.json) |
 | Block! Triangle Puzzle: Tangram | 106633 | [106633-block-triangle-puzzle-tangram.json](./106633-block-triangle-puzzle-tangram.json) |
+| Block'D | 273978 | [273978-blockd.json](./273978-blockd.json) |
 | Blockade | 116295 | [116295-blockade.json](./116295-blockade.json) |
 | Blockade Runner | 23864 | [23864-blockade-runner.json](./23864-blockade-runner.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
@@ -2876,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood II: Revelations | 127929 | [127929-blood-ii-revelations.json](./127929-blood-ii-revelations.json) |
 | Blood II: The Chosen | 11265 | [11265-blood-ii-the-chosen.json](./11265-blood-ii-the-chosen.json) |
 | Blood II: The Chosen - The Nightmare Levels | 95451 | [95451-blood-ii-the-chosen-the-nightmare-levels.json](./95451-blood-ii-the-chosen-the-nightmare-levels.json) |
+| Blood in Baldur's Gate | 274016 | [274016-blood-in-baldurs-gate.json](./274016-blood-in-baldurs-gate.json) |
 | Blood in the Panopticon | 395552 | [395552-blood-in-the-panopticon.json](./395552-blood-in-the-panopticon.json) |
 | Blood Kiss | 146247 | [146247-blood-kiss.json](./146247-blood-kiss.json) |
 | Blood Knights | 8421 | [8421-blood-knights.json](./8421-blood-knights.json) |
@@ -3823,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrasFoot 2007 | 330851 | [330851-brasfoot-2007.json](./330851-brasfoot-2007.json) |
 | BrasFoot 2008 | 330852 | [330852-brasfoot-2008.json](./330852-brasfoot-2008.json) |
 | BrasFoot 2009 | 330853 | [330853-brasfoot-2009.json](./330853-brasfoot-2009.json) |
+| Brasil Fusion | 273993 | [273993-brasil-fusion.json](./273993-brasil-fusion.json) |
 | Brasília Defense | 404817 | [404817-brasilia-defense.json](./404817-brasilia-defense.json) |
 | Brass Lament | 343277 | [343277-brass-lament.json](./343277-brass-lament.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
