@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfare Legacy Collection | 287786 | [287786-warfare-legacy-collection.json](./287786-warfare-legacy-collection.json) |
 | Warfield | 144232 | [144232-warfield.json](./144232-warfield.json) |
 | WarFire: Deluxe Edition | 53886 | [53886-warfire-deluxe-edition.json](./53886-warfire-deluxe-edition.json) |
+| Warframe: 1999 | 263563 | [263563-warframe-1999.json](./263563-warframe-1999.json) |
 | Warframe: Angels of the Zariman - Chrysalith Pack | 223706 | [223706-warframe-angels-of-the-zariman-chrysalith-pack.json](./223706-warframe-angels-of-the-zariman-chrysalith-pack.json) |
 | Warframe: Angels of the Zariman - Emergence Pack | 223707 | [223707-warframe-angels-of-the-zariman-emergence-pack.json](./223707-warframe-angels-of-the-zariman-emergence-pack.json) |
 | Warframe: Chains of Harrow | 198495 | [198495-warframe-chains-of-harrow.json](./198495-warframe-chains-of-harrow.json) |
@@ -359,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: The Old Blood | 198498 | [198498-warframe-the-old-blood.json](./198498-warframe-the-old-blood.json) |
 | Warframe: The Seven Crimes of Kullervo | 263491 | [263491-warframe-the-seven-crimes-of-kullervo.json](./263491-warframe-the-seven-crimes-of-kullervo.json) |
 | Warframe: Vor's Revenge | 200650 | [200650-warframe-vors-revenge.json](./200650-warframe-vors-revenge.json) |
+| Warframe: Whispers in the Walls | 263560 | [263560-warframe-whispers-in-the-walls.json](./263560-warframe-whispers-in-the-walls.json) |
 | WarFriends: PvP Army Shooter | 87479 | [87479-warfriends-pvp-army-shooter.json](./87479-warfriends-pvp-army-shooter.json) |
 | Wargame Construction Set | 37158 | [37158-wargame-construction-set.json](./37158-wargame-construction-set.json) |
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
