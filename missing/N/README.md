@@ -1284,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
 | Nightmare Kitchen | 334501 | [334501-nightmare-kitchen.json](./334501-nightmare-kitchen.json) |
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
+| Nightmare Knock | 237518 | [237518-nightmare-knock.json](./237518-nightmare-knock.json) |
 | Nightmare Labyrinth | 274037 | [274037-nightmare-labyrinth.json](./274037-nightmare-labyrinth.json) |
 | Nightmare Maze | 13743 | [13743-nightmare-maze.json](./13743-nightmare-maze.json) |
 | Nightmare Mines | 358858 | [358858-nightmare-mines.json](./358858-nightmare-mines.json) |
