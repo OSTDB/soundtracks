@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enslaved: Odyssey to the West - Pigsy's Perfect 10 | 17468 | [17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json](./17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json) |
 | Ensnared | 297091 | [297091-ensnared.json](./297091-ensnared.json) |
 | Ensou | 141212 | [141212-ensou.json](./141212-ensou.json) |
+| Enspell | 275145 | [275145-enspell.json](./275145-enspell.json) |
 | Entangled | 105321 | [105321-entangled.json](./105321-entangled.json) |
 | Enter the Backrooms | 157710 | [157710-enter-the-backrooms.json](./157710-enter-the-backrooms.json) |
 | Enter the Construct | 117016 | [117016-enter-the-construct.json](./117016-enter-the-construct.json) |
@@ -1454,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
 | Escort Alia | 241363 | [241363-escort-alia.json](./241363-escort-alia.json) |
 | Escort Commander | 80998 | [80998-escort-commander.json](./80998-escort-commander.json) |
+| Escort's Secrets 18+ | 275135 | [275135-escorts-secrets-18.json](./275135-escorts-secrets-18.json) |
 | ESHQ | 327410 | [327410-eshq.json](./327410-eshq.json) |
 | Eskimo Games | 80527 | [80527-eskimo-games.json](./80527-eskimo-games.json) |
 | Esklavos C10 | 315080 | [315080-esklavos-c10.json](./315080-esklavos-c10.json) |
