@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Land of Exile | 348849 | [348849-idle-land-of-exile.json](./348849-idle-land-of-exile.json) |
 | Idle Lemonade Tycoon Empire | 255802 | [255802-idle-lemonade-tycoon-empire.json](./255802-idle-lemonade-tycoon-empire.json) |
 | Idle Luca | 193999 | [193999-idle-luca.json](./193999-idle-luca.json) |
+| Idle Mafia | 245379 | [245379-idle-mafia.json](./245379-idle-mafia.json) |
 | Idle magic herb | 215681 | [215681-idle-magic-herb.json](./215681-idle-magic-herb.json) |
 | Idle Mining Company | 255801 | [255801-idle-mining-company.json](./255801-idle-mining-company.json) |
 | Idle Mining Empire | 218700 | [218700-idle-mining-empire.json](./218700-idle-mining-empire.json) |
