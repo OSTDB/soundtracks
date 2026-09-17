@@ -3416,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skydance's Behemoth: Rites of Wrath | 347154 | [347154-skydances-behemoth-rites-of-wrath.json](./347154-skydances-behemoth-rites-of-wrath.json) |
 | SkyDive Racer | 233756 | [233756-skydive-racer.json](./233756-skydive-racer.json) |
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
+| SkyDribble | 253429 | [253429-skydribble.json](./253429-skydribble.json) |
 | SkyDrift | 9424 | [9424-skydrift.json](./9424-skydrift.json) |
 | SkyDrop | 384672 | [384672-skydrop.json](./384672-skydrop.json) |
 | Skye | 408039 | [408039-skye.json](./408039-skye.json) |
@@ -6398,6 +6399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Srogue | 311140 | [311140-srogue.json](./311140-srogue.json) |
 | SRS: Street Racing Syndicate | 49382 | [49382-srs-street-racing-syndicate.json](./49382-srs-street-racing-syndicate.json) |
 | SRX | 133368 | [133368-srx.json](./133368-srx.json) |
+| SS.Archives | 253433 | [253433-ss-archives.json](./253433-ss-archives.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
 | SSX | 4179 | [4179-ssx.json](./4179-ssx.json) |
 | SSX 3 | 186239 | [186239-ssx-3.json](./186239-ssx-3.json) |
@@ -6505,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Bark-2 | 310391 | [310391-star-conflict-bark-2.json](./310391-star-conflict-bark-2.json) |
 | Star Conflict: Bark-2 - Deluxe Edition | 310392 | [310392-star-conflict-bark-2-deluxe-edition.json](./310392-star-conflict-bark-2-deluxe-edition.json) |
 | Star Conflict: Custodian | 354419 | [354419-star-conflict-custodian.json](./354419-star-conflict-custodian.json) |
+| Star Conflict: Edges of Risk - Stage one: Deluxe edition | 253434 | [253434-star-conflict-edges-of-risk-stage-one-deluxe-edition.json](./253434-star-conflict-edges-of-risk-stage-one-deluxe-edition.json) |
 | Star Conflict: Empire Destroyer Vigilant | 354423 | [354423-star-conflict-empire-destroyer-vigilant.json](./354423-star-conflict-empire-destroyer-vigilant.json) |
 | Star Conflict: Federation Destroyer Sirius | 354430 | [354430-star-conflict-federation-destroyer-sirius.json](./354430-star-conflict-federation-destroyer-sirius.json) |
 | Star Conflict: Fleet Strength - Razor | 354425 | [354425-star-conflict-fleet-strength-razor.json](./354425-star-conflict-fleet-strength-razor.json) |
@@ -9337,6 +9340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survial | 274577 | [274577-survial.json](./274577-survial.json) |
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
+| Survival & Horror: Mortanis Prisoners Prologue | 253422 | [253422-survival-and-horror-mortanis-prisoners-prologue.json](./253422-survival-and-horror-mortanis-prisoners-prologue.json) |
 | Survival After War | 319773 | [319773-survival-after-war.json](./319773-survival-after-war.json) |
 | Survival Arena | 76568 | [76568-survival-arena.json](./76568-survival-arena.json) |
 | Survival Arts | 39586 | [39586-survival-arts.json](./39586-survival-arts.json) |
