@@ -2086,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numerous Ninjas | 409658 | [409658-numerous-ninjas.json](./409658-numerous-ninjas.json) |
 | Numgeon | 113059 | [113059-numgeon.json](./113059-numgeon.json) |
 | Numina | 141250 | [141250-numina.json](./141250-numina.json) |
+| Numina: Part 2 | 241510 | [241510-numina-part-2.json](./241510-numina-part-2.json) |
 | Numinous | 61044 | [61044-numinous.json](./61044-numinous.json) |
 | Numito | 329119 | [329119-numito.json](./329119-numito.json) |
 | Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
