@@ -2906,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
 | Four Lights | 406727 | [406727-four-lights.json](./406727-four-lights.json) |
 | Four Lights: Erie Ever route | 278131 | [278131-four-lights-erie-ever-route.json](./278131-four-lights-erie-ever-route.json) |
+| Four Lights: The 1st World - Iruka Route | 253437 | [253437-four-lights-the-1st-world-iruka-route.json](./253437-four-lights-the-1st-world-iruka-route.json) |
 | Four Million B.C. | 94719 | [94719-four-million-b-c.json](./94719-four-million-b-c.json) |
 | Four Mini Kingdoms War | 340240 | [340240-four-mini-kingdoms-war.json](./340240-four-mini-kingdoms-war.json) |
 | Four Realms | 19568 | [19568-four-realms.json](./19568-four-realms.json) |
@@ -2923,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fovos VR | 29907 | [29907-fovos-vr.json](./29907-fovos-vr.json) |
 | Fowl Scourge | 201238 | [201238-fowl-scourge.json](./201238-fowl-scourge.json) |
 | Fox & Goat | 40740 | [40740-fox-and-goat.json](./40740-fox-and-goat.json) |
+| Fox Adventure: Homeward Journey | 253439 | [253439-fox-adventure-homeward-journey.json](./253439-fox-adventure-homeward-journey.json) |
 | Fox and Bunny | 117780 | [117780-fox-and-bunny.json](./117780-fox-and-bunny.json) |
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
 | Fox Detective | 97912 | [97912-fox-detective.json](./97912-fox-detective.json) |
