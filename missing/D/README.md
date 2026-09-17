@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
 | Dash Valley | 108447 | [108447-dash-valley.json](./108447-dash-valley.json) |
+| Dash x Survivors | 266276 | [266276-dash-x-survivors.json](./266276-dash-x-survivors.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Dash'n'Drops | 389587 | [389587-dashndrops.json](./389587-dashndrops.json) |
 | DashBored | 32847 | [32847-dashbored.json](./32847-dashbored.json) |
@@ -692,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Mexica | 143739 | [143739-dawn-of-the-mexica.json](./143739-dawn-of-the-mexica.json) |
 | Dawn of the Monsters: Arcade Edition | 252364 | [252364-dawn-of-the-monsters-arcade-edition.json](./252364-dawn-of-the-monsters-arcade-edition.json) |
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
+| Dawn of the Wizards | 266275 | [266275-dawn-of-the-wizards.json](./266275-dawn-of-the-wizards.json) |
 | Dawn of Warriors | 30956 | [30956-dawn-of-warriors.json](./30956-dawn-of-warriors.json) |
 | Dawn of Yokai | 236299 | [236299-dawn-of-yokai.json](./236299-dawn-of-yokai.json) |
 | Dawn of Zombies: Survival | 124755 | [124755-dawn-of-zombies-survival.json](./124755-dawn-of-zombies-survival.json) |
@@ -2135,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Battle | 279007 | [279007-dice-battle.json](./279007-dice-battle.json) |
 | Dice Brawl: Captain's League | 108960 | [108960-dice-brawl-captains-league.json](./108960-dice-brawl-captains-league.json) |
 | Dice Craft | 252156 | [252156-dice-craft.json](./252156-dice-craft.json) |
+| Dice Crypt | 266317 | [266317-dice-crypt.json](./266317-dice-crypt.json) |
 | Dice Deluge | 414294 | [414294-dice-deluge.json](./414294-dice-deluge.json) |
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
 | Dice King | 188016 | [188016-dice-king.json](./188016-dice-king.json) |
@@ -3122,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Escape | 223670 | [223670-dont-escape.json](./223670-dont-escape.json) |
 | Don't Exist | 295547 | [295547-dont-exist.json](./295547-dont-exist.json) |
 | Don't Fall | 140024 | [140024-dont-fall.json](./140024-dont-fall.json) |
+| Don't Fall | 266312 | [266312-dont-fall.json](./266312-dont-fall.json) |
 | Don't Fear the Sweeper | 68638 | [68638-dont-fear-the-sweeper.json](./68638-dont-fear-the-sweeper.json) |
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
