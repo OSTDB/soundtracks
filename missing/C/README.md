@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Generations 3: The First Generation | 66121 | [66121-capcom-generations-3-the-first-generation.json](./66121-capcom-generations-3-the-first-generation.json) |
 | Capcom Mystery Adventure Double Pack | 299313 | [299313-capcom-mystery-adventure-double-pack.json](./299313-capcom-mystery-adventure-double-pack.json) |
 | Capcom Puzzle World | 44503 | [44503-capcom-puzzle-world.json](./44503-capcom-puzzle-world.json) |
+| Capcom Tabi Quiz 100 | 282684 | [282684-capcom-tabi-quiz-100.json](./282684-capcom-tabi-quiz-100.json) |
 | Capcom vs. SNK 2: Mark of the Millennium 2001 | 3846 | [3846-capcom-vs-snk-2-mark-of-the-millennium-2001.json](./3846-capcom-vs-snk-2-mark-of-the-millennium-2001.json) |
 | Capcom vs. SNK: Millennium Fight 2000 | 39593 | [39593-capcom-vs-snk-millennium-fight-2000.json](./39593-capcom-vs-snk-millennium-fight-2000.json) |
 | Capcom's Gold Medal Challenge '92 | 48159 | [48159-capcoms-gold-medal-challenge-92.json](./48159-capcoms-gold-medal-challenge-92.json) |
@@ -3362,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict: Korea the First Year 1950-1951 | 77318 | [77318-conflict-korea-the-first-year-1950-1951.json](./77318-conflict-korea-the-first-year-1950-1951.json) |
 | Conflict: Middle East | 69884 | [69884-conflict-middle-east.json](./69884-conflict-middle-east.json) |
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
+| Confrontation | 282719 | [282719-confrontation.json](./282719-confrontation.json) |
 | Confused? | 71490 | [71490-confused.json](./71490-confused.json) |
 | Confusion Readily Achieved Perspectively Through Unrealistic Relative Dimensions | 283740 | [283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json](./283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
@@ -4812,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Survivor | 255962 | [255962-cubic-survivor.json](./255962-cubic-survivor.json) |
 | Cubic Tetris | 302342 | [302342-cubic-tetris.json](./302342-cubic-tetris.json) |
 | Cubicle Quest | 35762 | [35762-cubicle-quest.json](./35762-cubicle-quest.json) |
+| Cubicolor | 282717 | [282717-cubicolor.json](./282717-cubicolor.json) |
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
 | Cubidle | 311473 | [311473-cubidle.json](./311473-cubidle.json) |
 | Cubik | 294301 | [294301-cubik.json](./294301-cubik.json) |
