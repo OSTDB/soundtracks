@@ -2429,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clair Obscur: Expedition 33 – Deluxe Edition | 333209 | [333209-clair-obscur-expedition-33-deluxe-edition.json](./333209-clair-obscur-expedition-33-deluxe-edition.json) |
 | Claire | 10082 | [10082-claire.json](./10082-claire.json) |
 | Claire Darksage and the Accursed Objects: Collector's Editon | 362828 | [362828-claire-darksage-and-the-accursed-objects-collectors-editon.json](./362828-claire-darksage-and-the-accursed-objects-collectors-editon.json) |
+| Claire's Cruisin' Cafe: Fest Frenzy | 266310 | [266310-claires-cruisin-cafe-fest-frenzy.json](./266310-claires-cruisin-cafe-fest-frenzy.json) |
 | Claire's Cruisin' Cafe: High Seas Cuisine | 193445 | [193445-claires-cruisin-cafe-high-seas-cuisine.json](./193445-claires-cruisin-cafe-high-seas-cuisine.json) |
 | Clamb | 278553 | [278553-clamb.json](./278553-clamb.json) |
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
@@ -3301,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commonplace | 205594 | [205594-commonplace.json](./205594-commonplace.json) |
 | Commonwealth Games | 13705 | [13705-commonwealth-games.json](./13705-commonwealth-games.json) |
 | Commune Corvidae | 142399 | [142399-commune-corvidae.json](./142399-commune-corvidae.json) |
+| Communication Breakdown | 266294 | [266294-communication-breakdown.json](./266294-communication-breakdown.json) |
 | Communication Game | 312918 | [312918-communication-game.json](./312918-communication-game.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
 | Community Button | 402383 | [402383-community-button.json](./402383-community-button.json) |
@@ -3608,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooked with Love | 177507 | [177507-cooked-with-love.json](./177507-cooked-with-love.json) |
 | Cookey Shop | 145581 | [145581-cookey-shop.json](./145581-cookey-shop.json) |
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
+| Cookie Game | 266299 | [266299-cookie-game.json](./266299-cookie-game.json) |
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
 | Cookie Run: OvenBreak | 78951 | [78951-cookie-run-ovenbreak.json](./78951-cookie-run-ovenbreak.json) |
@@ -5264,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Men for Sex Motel | 288895 | [288895-cyberpunk-men-for-sex-motel.json](./288895-cyberpunk-men-for-sex-motel.json) |
 | CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
 | Cyberpunk Women for Sex Motel | 288896 | [288896-cyberpunk-women-for-sex-motel.json](./288896-cyberpunk-women-for-sex-motel.json) |
+| Cyberpunk: Red-Light District | 266323 | [266323-cyberpunk-red-light-district.json](./266323-cyberpunk-red-light-district.json) |
 | Cyberpunkdreams | 140018 | [140018-cyberpunkdreams.json](./140018-cyberpunkdreams.json) |
 | Cyberpunx | 261820 | [261820-cyberpunx.json](./261820-cyberpunx.json) |
 | Cyberqueen | 15447 | [15447-cyberqueen.json](./15447-cyberqueen.json) |
