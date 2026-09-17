@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Swat | 29656 | [29656-operation-swat.json](./29656-operation-swat.json) |
 | Operation Trick-Or-Treat | 333657 | [333657-operation-trick-or-treat.json](./333657-operation-trick-or-treat.json) |
 | Operation Trust | 257402 | [257402-operation-trust.json](./257402-operation-trust.json) |
+| Operation Ushkurat | 242104 | [242104-operation-ushkurat.json](./242104-operation-ushkurat.json) |
 | Operation Wolf Returns: First Mission | 218213 | [218213-operation-wolf-returns-first-mission.json](./218213-operation-wolf-returns-first-mission.json) |
 | Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
 | Operation: Armored Liberty | 49319 | [49319-operation-armored-liberty.json](./49319-operation-armored-liberty.json) |
