@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Abandoned Lights | 304348 | [304348-danganronpa-abandoned-lights.json](./304348-danganronpa-abandoned-lights.json) |
 | Danganronpa: Antebellum | 333929 | [333929-danganronpa-antebellum.json](./333929-danganronpa-antebellum.json) |
 | Danganronpa: Antebellum - Lockdown | 333932 | [333932-danganronpa-antebellum-lockdown.json](./333932-danganronpa-antebellum-lockdown.json) |
+| Danganronpa: Checkmate | 254595 | [254595-danganronpa-checkmate.json](./254595-danganronpa-checkmate.json) |
 | Danganronpa: Eternal Endings | 304347 | [304347-danganronpa-eternal-endings.json](./304347-danganronpa-eternal-endings.json) |
 | Danganronpa: Fandom's Calling | 338724 | [338724-danganronpa-fandoms-calling.json](./338724-danganronpa-fandoms-calling.json) |
 | Danganronpa: Live or Die | 270679 | [270679-danganronpa-live-or-die.json](./270679-danganronpa-live-or-die.json) |
@@ -1221,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debris | 150097 | [150097-debris.json](./150097-debris.json) |
 | Debt Deadline | 272383 | [272383-debt-deadline.json](./272383-debt-deadline.json) |
 | Decadent Heir | 334217 | [334217-decadent-heir.json](./334217-decadent-heir.json) |
+| Decay | 254575 | [254575-decay.json](./254575-decay.json) |
 | Decay | 272018 | [272018-decay.json](./272018-decay.json) |
 | Decay Z : Space Survival | 107152 | [107152-decay-z-space-survival.json](./107152-decay-z-space-survival.json) |
 | Decay: The Mare - Episode 1 | 79950 | [79950-decay-the-mare-episode-1.json](./79950-decay-the-mare-episode-1.json) |
@@ -2065,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Island Pinball | 70331 | [70331-devils-island-pinball.json](./70331-devils-island-pinball.json) |
 | Devil's Kiss | 130127 | [130127-devils-kiss.json](./130127-devils-kiss.json) |
 | Devil's Menu | 372588 | [372588-devils-menu.json](./372588-devils-menu.json) |
+| Devil’s Propose | 254609 | [254609-devil-s-propose.json](./254609-devil-s-propose.json) |
 | Devil's Revenge | 69855 | [69855-devils-revenge.json](./69855-devils-revenge.json) |
 | Devil's Third Online | 59988 | [59988-devils-third-online.json](./59988-devils-third-online.json) |
 | Devil's Tuning Fork | 67304 | [67304-devils-tuning-fork.json](./67304-devils-tuning-fork.json) |
@@ -2786,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divineblaze: March Tactics | 391586 | [391586-divineblaze-march-tactics.json](./391586-divineblaze-march-tactics.json) |
 | Divineko | 291617 | [291617-divineko.json](./291617-divineko.json) |
 | Diviner | 394850 | [394850-diviner.json](./394850-diviner.json) |
+| Divinity Arrival | 254569 | [254569-divinity-arrival.json](./254569-divinity-arrival.json) |
 | Divinity Chronicles: Journey to the West | 140623 | [140623-divinity-chronicles-journey-to-the-west.json](./140623-divinity-chronicles-journey-to-the-west.json) |
 | Divinity Hunting | 269033 | [269033-divinity-hunting.json](./269033-divinity-hunting.json) |
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
