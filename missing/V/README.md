@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Chronicles 2 | 14674 | [14674-valkyria-chronicles-2.json](./14674-valkyria-chronicles-2.json) |
 | Valkyria Chronicles 2: DLC Pack 2 | 138838 | [138838-valkyria-chronicles-2-dlc-pack-2.json](./138838-valkyria-chronicles-2-dlc-pack-2.json) |
 | Valkyria Chronicles 4 | 75848 | [75848-valkyria-chronicles-4.json](./75848-valkyria-chronicles-4.json) |
+| Valkyria Chronicles 4: A Captainless Squad | 238635 | [238635-valkyria-chronicles-4-a-captainless-squad.json](./238635-valkyria-chronicles-4-a-captainless-squad.json) |
 | Valkyria Chronicles 4: Advance Ops | 304734 | [304734-valkyria-chronicles-4-advance-ops.json](./304734-valkyria-chronicles-4-advance-ops.json) |
 | Valkyria Chronicles 4: Expert Level Skirmishes | 304755 | [304755-valkyria-chronicles-4-expert-level-skirmishes.json](./304755-valkyria-chronicles-4-expert-level-skirmishes.json) |
 | Valkyria Chronicles 4: Memoirs From Battle Edition | 132179 | [132179-valkyria-chronicles-4-memoirs-from-battle-edition.json](./132179-valkyria-chronicles-4-memoirs-from-battle-edition.json) |
@@ -485,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vespera_Hotel | 296105 | [296105-vespera-hotel.json](./296105-vespera-hotel.json) |
 | Vesperia Bononia | 332268 | [332268-vesperia-bononia.json](./332268-vesperia-bononia.json) |
 | Vesperis | 391754 | [391754-vesperis.json](./391754-vesperis.json) |
+| Vessel Blue | 238638 | [238638-vessel-blue.json](./238638-vessel-blue.json) |
 | Vessel Damage Control Trainer | 243417 | [243417-vessel-damage-control-trainer.json](./243417-vessel-damage-control-trainer.json) |
 | Vessels | 375938 | [375938-vessels.json](./375938-vessels.json) |
 | Vessels of Decay | 143715 | [143715-vessels-of-decay.json](./143715-vessels-of-decay.json) |
