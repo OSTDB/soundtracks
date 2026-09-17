@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza: Like a Dragon - Legends Costume Set | 318035 | [318035-yakuza-like-a-dragon-legends-costume-set.json](./318035-yakuza-like-a-dragon-legends-costume-set.json) |
 | Yakuza: Like a Dragon - Limited Edition | 386271 | [386271-yakuza-like-a-dragon-limited-edition.json](./386271-yakuza-like-a-dragon-limited-edition.json) |
 | Yakuza: Like a Dragon - Pachislot Machines | 382341 | [382341-yakuza-like-a-dragon-pachislot-machines.json](./382341-yakuza-like-a-dragon-pachislot-machines.json) |
+| Yakyuuken | 246486 | [246486-yakyuuken.json](./246486-yakyuuken.json) |
 | Yama no Susume: Next Summit - Ano Yama ni, Mou Ichido | 277306 | [277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json](./277306-yama-no-susume-next-summit-ano-yama-ni-mou-ichido.json) |
 | Yamakawa Shuppansha Kanshuu: Shousetsu Nihonshi DS | 124153 | [124153-yamakawa-shuppansha-kanshuu-shousetsu-nihonshi-ds.json](./124153-yamakawa-shuppansha-kanshuu-shousetsu-nihonshi-ds.json) |
 | Yamakawa Shuppansha Kanshuu: Shousetsu Sekaishi DS | 124152 | [124152-yamakawa-shuppansha-kanshuu-shousetsu-sekaishi-ds.json](./124152-yamakawa-shuppansha-kanshuu-shousetsu-sekaishi-ds.json) |
