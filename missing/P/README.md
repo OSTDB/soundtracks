@@ -61,6 +61,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man: Ralph Breaks the Maze | 112300 | [112300-pac-man-ralph-breaks-the-maze.json](./112300-pac-man-ralph-breaks-the-maze.json) |
 | Pac-Man: Ticket Mania | 146284 | [146284-pac-man-ticket-mania.json](./146284-pac-man-ticket-mania.json) |
 | Pac-Mania | 284365 | [284365-pac-mania.json](./284365-pac-mania.json) |
+| Pac-Mania | 284465 | [284465-pac-mania.json](./284465-pac-mania.json) |
+| Pac-Mania | 284466 | [284466-pac-mania.json](./284466-pac-mania.json) |
+| Pac-Mania | 284467 | [284467-pac-mania.json](./284467-pac-mania.json) |
+| Pac-Mania | 284468 | [284468-pac-mania.json](./284468-pac-mania.json) |
+| Pac-Mania | 284470 | [284470-pac-mania.json](./284470-pac-mania.json) |
+| Pac-Mania | 284471 | [284471-pac-mania.json](./284471-pac-mania.json) |
+| Pac-Mania | 284472 | [284472-pac-mania.json](./284472-pac-mania.json) |
+| Pac-Mania | 284473 | [284473-pac-mania.json](./284473-pac-mania.json) |
+| Pac-Mania | 284474 | [284474-pac-mania.json](./284474-pac-mania.json) |
 | Pac-Mondrian | 174791 | [174791-pac-mondrian.json](./174791-pac-mondrian.json) |
 | Pac-Panic | 46572 | [46572-pac-panic.json](./46572-pac-panic.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
@@ -3696,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Tycoon: Under New Management | 152405 | [152405-prison-tycoon-under-new-management.json](./152405-prison-tycoon-under-new-management.json) |
 | Prison Tycoon: Under New Management - Maximum Security | 196298 | [196298-prison-tycoon-under-new-management-maximum-security.json](./196298-prison-tycoon-under-new-management-maximum-security.json) |
 | Prisonela | 218697 | [218697-prisonela.json](./218697-prisonela.json) |
+| Prisonela DX | 284494 | [284494-prisonela-dx.json](./284494-prisonela-dx.json) |
 | Prisonela MD | 367939 | [367939-prisonela-md.json](./367939-prisonela-md.json) |
 | Prisoner Breaker | 372485 | [372485-prisoner-breaker.json](./372485-prisoner-breaker.json) |
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
