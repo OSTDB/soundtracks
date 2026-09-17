@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
 | Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! | 204480 | [204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json](./204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json) |
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
+| Dear Pretentiousness | 259668 | [259668-dear-pretentiousness.json](./259668-dear-pretentiousness.json) |
 | Dear Red: Extended | 33250 | [33250-dear-red-extended.json](./33250-dear-red-extended.json) |
 | Dear world Re. | 386252 | [386252-dear-world-re.json](./386252-dear-world-re.json) |
 | DearMyFriend | 285005 | [285005-dearmyfriend.json](./285005-dearmyfriend.json) |
@@ -3008,6 +3009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Brazilian Club Puts! | 332837 | [332837-doki-doki-brazilian-club-puts.json](./332837-doki-doki-brazilian-club-puts.json) |
 | Doki Doki Carpe Diem: Somnium | 333622 | [333622-doki-doki-carpe-diem-somnium.json](./333622-doki-doki-carpe-diem-somnium.json) |
 | Doki Doki Chefs | 185083 | [185083-doki-doki-chefs.json](./185083-doki-doki-chefs.json) |
+| Doki Doki Corrupted Files | 259649 | [259649-doki-doki-corrupted-files.json](./259649-doki-doki-corrupted-files.json) |
 | Doki Doki Despair | 333918 | [333918-doki-doki-despair.json](./333918-doki-doki-despair.json) |
 | Doki Doki Dollmaker | 246651 | [246651-doki-doki-dollmaker.json](./246651-doki-doki-dollmaker.json) |
 | Doki Doki Exit Music: Redux | 201845 | [201845-doki-doki-exit-music-redux.json](./201845-doki-doki-exit-music-redux.json) |
