@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Westfall | 343252 | [343252-westfall.json](./343252-westfall.json) |
+| Westgrove | 240321 | [240321-westgrove.json](./240321-westgrove.json) |
 | WestHalla | 257681 | [257681-westhalla.json](./257681-westhalla.json) |
 | Westland Cowboy: Rodeo Rider | 259631 | [259631-westland-cowboy-rodeo-rider.json](./259631-westland-cowboy-rodeo-rider.json) |
 | Westland Survival: Albino Alligator | 383360 | [383360-westland-survival-albino-alligator.json](./383360-westland-survival-albino-alligator.json) |
@@ -2086,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words for a bird | 134692 | [134692-words-for-a-bird.json](./134692-words-for-a-bird.json) |
 | Words for Evil | 36107 | [36107-words-for-evil.json](./36107-words-for-evil.json) |
 | Words Guesser | 314664 | [314664-words-guesser.json](./314664-words-guesser.json) |
+| Words N Words | 240345 | [240345-words-n-words.json](./240345-words-n-words.json) |
 | Words Scramble: Cities | 245329 | [245329-words-scramble-cities.json](./245329-words-scramble-cities.json) |
 | Words With Freds | 192956 | [192956-words-with-freds.json](./192956-words-with-freds.json) |
 | Words with Gizmos | 384679 | [384679-words-with-gizmos.json](./384679-words-with-gizmos.json) |
