@@ -2254,6 +2254,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Nekketsu Kouha Kunio-kun: Kunio-tachi no Banka | 46584 | [46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json](./46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden 2 | 43876 | [43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json](./43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json) |
 | Shin Nobunaga no Yabou | 208939 | [208939-shin-nobunaga-no-yabou.json](./208939-shin-nobunaga-no-yabou.json) |
+| Shin Pokémon: Blue Version | 275103 | [275103-shin-pokemon-blue-version.json](./275103-shin-pokemon-blue-version.json) |
+| Shin Pokemon: Green Version | 275105 | [275105-shin-pokemon-green-version.json](./275105-shin-pokemon-green-version.json) |
+| Shin Pokemon: Red Version | 275104 | [275104-shin-pokemon-red-version.json](./275104-shin-pokemon-red-version.json) |
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shine On, My Little Sun | 320147 | [320147-shine-on-my-little-sun.json](./320147-shine-on-my-little-sun.json) |
@@ -7936,6 +7939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Camp Showdown | 208355 | [208355-summer-camp-showdown.json](./208355-summer-camp-showdown.json) |
 | Summer Carnival '93: Nexzr Special | 210636 | [210636-summer-carnival-93-nexzr-special.json](./210636-summer-carnival-93-nexzr-special.json) |
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
+| Summer Fantasy | 275120 | [275120-summer-fantasy.json](./275120-summer-fantasy.json) |
 | Summer Funland | 87556 | [87556-summer-funland.json](./87556-summer-funland.json) |
 | Summer Games 3D | 88164 | [88164-summer-games-3d.json](./88164-summer-games-3d.json) |
 | Summer Games Challenge: Jumping & Shooting | 362362 | [362362-summer-games-challenge-jumping-and-shooting.json](./362362-summer-games-challenge-jumping-and-shooting.json) |
