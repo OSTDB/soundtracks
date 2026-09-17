@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Prelude to Chaos | 293248 | [293248-a-prelude-to-chaos.json](./293248-a-prelude-to-chaos.json) |
 | A Prelude to Chaos | 293249 | [293249-a-prelude-to-chaos.json](./293249-a-prelude-to-chaos.json) |
 | A Quick Death | 41973 | [41973-a-quick-death.json](./41973-a-quick-death.json) |
+| A Quick One Before Azathoth Devours Fodrian | 271299 | [271299-a-quick-one-before-azathoth-devours-fodrian.json](./271299-a-quick-one-before-azathoth-devours-fodrian.json) |
 | A Rally of Trust | 337698 | [337698-a-rally-of-trust.json](./337698-a-rally-of-trust.json) |
 | A Recipe for Survival | 356142 | [356142-a-recipe-for-survival.json](./356142-a-recipe-for-survival.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
@@ -2150,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annexation | 404838 | [404838-annexation.json](./404838-annexation.json) |
 | Annie and the AI | 223489 | [223489-annie-and-the-ai.json](./223489-annie-and-the-ai.json) |
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
+| Annihilith Of Abhorration | 271293 | [271293-annihilith-of-abhorration.json](./271293-annihilith-of-abhorration.json) |
 | Anno 117: Pax Romana - Blooming Cities Pack | 408893 | [408893-anno-117-pax-romana-blooming-cities-pack.json](./408893-anno-117-pax-romana-blooming-cities-pack.json) |
 | Anno 117: Pax Romana - Marvellous Mosaic Pack | 408894 | [408894-anno-117-pax-romana-marvellous-mosaic-pack.json](./408894-anno-117-pax-romana-marvellous-mosaic-pack.json) |
 | Anno 117: Pax Romana - Year 1 Pass | 408895 | [408895-anno-117-pax-romana-year-1-pass.json](./408895-anno-117-pax-romana-year-1-pass.json) |
@@ -3400,6 +3402,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed IV: Black Flag - Buccaneer Edition | 89872 | [89872-assassins-creed-iv-black-flag-buccaneer-edition.json](./89872-assassins-creed-iv-black-flag-buccaneer-edition.json) |
 | Assassin's Creed Mirage & Assassin's Creed Valhalla Bundle | 271474 | [271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json](./271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json) |
 | Assassin's Creed Mirage Master Assassin Upgrade Bundle 2 | 360574 | [360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json](./360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json) |
+| Assassin's Creed Mirage: Deluxe Pack | 271290 | [271290-assassins-creed-mirage-deluxe-pack.json](./271290-assassins-creed-mirage-deluxe-pack.json) |
+| Assassin's Creed Mirage: Fire Demon Pack | 271291 | [271291-assassins-creed-mirage-fire-demon-pack.json](./271291-assassins-creed-mirage-fire-demon-pack.json) |
 | Assassin’s Creed Mirage: Master Assassin Edition | 276451 | [276451-assassin-s-creed-mirage-master-assassin-edition.json](./276451-assassin-s-creed-mirage-master-assassin-edition.json) |
 | Assassin's Creed Mirage: Master Assassin Upgrade Bundle 1 | 360572 | [360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json](./360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json) |
 | Assassin's Creed Odyssey: The Fate of Atlantis | 113098 | [113098-assassins-creed-odyssey-the-fate-of-atlantis.json](./113098-assassins-creed-odyssey-the-fate-of-atlantis.json) |
