@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Island | 326812 | [326812-gem-island.json](./326812-gem-island.json) |
 | Gem Jam | 130964 | [130964-gem-jam.json](./130964-gem-jam.json) |
 | Gem Jam | 291604 | [291604-gem-jam.json](./291604-gem-jam.json) |
+| Gem King | 254589 | [254589-gem-king.json](./254589-gem-king.json) |
 | Gem Miner: Dig Deeper | 296070 | [296070-gem-miner-dig-deeper.json](./296070-gem-miner-dig-deeper.json) |
 | Gem Phrase | 237379 | [237379-gem-phrase.json](./237379-gem-phrase.json) |
 | Gem Quest: Rush | 416643 | [416643-gem-quest-rush.json](./416643-gem-quest-rush.json) |
@@ -917,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getter Robo Daikessen! | 77981 | [77981-getter-robo-daikessen.json](./77981-getter-robo-daikessen.json) |
 | Getting a Bottle of Water Simulator | 334664 | [334664-getting-a-bottle-of-water-simulator.json](./334664-getting-a-bottle-of-water-simulator.json) |
 | Getting Home | 406198 | [406198-getting-home.json](./406198-getting-home.json) |
+| Getting Nuts | 254591 | [254591-getting-nuts.json](./254591-getting-nuts.json) |
 | Getting out Alive | 264109 | [264109-getting-out-alive.json](./264109-getting-out-alive.json) |
 | Getting Over It with Your Body | 381035 | [381035-getting-over-it-with-your-body.json](./381035-getting-over-it-with-your-body.json) |
 | Getting There | 305926 | [305926-getting-there.json](./305926-getting-there.json) |
@@ -2633,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Additional Battle Stage: Amber Fest with Kind Neighbors | 299723 | [299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json](./299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Fairy's Forest Factory | 254564 | [254564-guilty-gear-strive-additional-battle-stage-fairys-forest-factory.json](./254564-guilty-gear-strive-additional-battle-stage-fairys-forest-factory.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Lap of the Kami | 254561 | [254561-guilty-gear-strive-additional-battle-stage-lap-of-the-kami.json](./254561-guilty-gear-strive-additional-battle-stage-lap-of-the-kami.json) |
+| Guilty Gear: Strive - Additional Battle Stage: Tír na nÓg | 254566 | [254566-guilty-gear-strive-additional-battle-stage-tir-na-nog.json](./254566-guilty-gear-strive-additional-battle-stage-tir-na-nog.json) |
 | Guilty Gear: Strive - Additional Battle Stage: White House Reborn | 254562 | [254562-guilty-gear-strive-additional-battle-stage-white-house-reborn.json](./254562-guilty-gear-strive-additional-battle-stage-white-house-reborn.json) |
 | Guilty Gear: Strive - Additional Character 10: Johnny | 263028 | [263028-guilty-gear-strive-additional-character-10-johnny.json](./263028-guilty-gear-strive-additional-character-10-johnny.json) |
 | Guilty Gear: Strive - Additional Character 13: Slayer | 299722 | [299722-guilty-gear-strive-additional-character-13-slayer.json](./299722-guilty-gear-strive-additional-character-13-slayer.json) |
