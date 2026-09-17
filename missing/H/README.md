@@ -2597,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopper Cat | 234596 | [234596-hopper-cat.json](./234596-hopper-cat.json) |
 | Hoppin | 235765 | [235765-hoppin.json](./235765-hoppin.json) |
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
+| Hopscotch | 262430 | [262430-hopscotch.json](./262430-hopscotch.json) |
 | Hopscotch | 68689 | [68689-hopscotch.json](./68689-hopscotch.json) |
 | Hopshot | 331129 | [331129-hopshot.json](./331129-hopshot.json) |
 | Hopward | 372475 | [372475-hopward.json](./372475-hopward.json) |
