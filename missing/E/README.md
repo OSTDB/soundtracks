@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy: The Mis-Edventures | 2722 | [2722-ed-edd-n-eddy-the-mis-edventures.json](./2722-ed-edd-n-eddy-the-mis-edventures.json) |
 | Ed, Edd n Eddy's Candy Machine Deluxe | 196798 | [196798-ed-edd-n-eddys-candy-machine-deluxe.json](./196798-ed-edd-n-eddys-candy-machine-deluxe.json) |
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
+| EdelSuche | 265233 | [265233-edelsuche.json](./265233-edelsuche.json) |
 | Edelweiss Knights | 386867 | [386867-edelweiss-knights.json](./386867-edelweiss-knights.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
 | Eden Genesis | 280561 | [280561-eden-genesis.json](./280561-eden-genesis.json) |
@@ -366,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Efi | 176508 | [176508-efi.json](./176508-efi.json) |
 | EFO: Escape From Outerworld | 165674 | [165674-efo-escape-from-outerworld.json](./165674-efo-escape-from-outerworld.json) |
 | eFootball 2024 | 266157 | [266157-efootball-2024.json](./266157-efootball-2024.json) |
+| eFootball 2024: Leo Messi Edition | 265241 | [265241-efootball-2024-leo-messi-edition.json](./265241-efootball-2024-leo-messi-edition.json) |
 | eFootball: Mourinho Edition 2026 | 361243 | [361243-efootball-mourinho-edition-2026.json](./361243-efootball-mourinho-edition-2026.json) |
 | EFourGames | 362884 | [362884-efourgames.json](./362884-efourgames.json) |
 | Efpiyes | 234045 | [234045-efpiyes.json](./234045-efpiyes.json) |
@@ -1822,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
 | Evil Genius 2: World Domination - Deluxe Edition | 188025 | [188025-evil-genius-2-world-domination-deluxe-edition.json](./188025-evil-genius-2-world-domination-deluxe-edition.json) |
 | Evil Genome | 51565 | [51565-evil-genome.json](./51565-evil-genome.json) |
+| Evil Girls Party! | 265213 | [265213-evil-girls-party.json](./265213-evil-girls-party.json) |
 | Evil Glitch | 28803 | [28803-evil-glitch.json](./28803-evil-glitch.json) |
 | Evil Hand | 176435 | [176435-evil-hand.json](./176435-evil-hand.json) |
 | Evil Hunter Tycoon | 197357 | [197357-evil-hunter-tycoon.json](./197357-evil-hunter-tycoon.json) |
