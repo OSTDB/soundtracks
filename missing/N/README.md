@@ -353,6 +353,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K Mobile Basketball | 127918 | [127918-nba-2k-mobile-basketball.json](./127918-nba-2k-mobile-basketball.json) |
 | NBA 2K1 | 28836 | [28836-nba-2k1.json](./28836-nba-2k1.json) |
 | NBA 2K11 | 5056 | [5056-nba-2k11.json](./5056-nba-2k11.json) |
+| NBA 2K12 | 256894 | [256894-nba-2k12.json](./256894-nba-2k12.json) |
+| NBA 2K12 | 256895 | [256895-nba-2k12.json](./256895-nba-2k12.json) |
+| NBA 2K12 | 256896 | [256896-nba-2k12.json](./256896-nba-2k12.json) |
+| NBA 2K12 | 256897 | [256897-nba-2k12.json](./256897-nba-2k12.json) |
 | NBA 2K17: The Prelude | 83763 | [83763-nba-2k17-the-prelude.json](./83763-nba-2k17-the-prelude.json) |
 | NBA 2K18 | 26772 | [26772-nba-2k18.json](./26772-nba-2k18.json) |
 | NBA 2K19 | 103218 | [103218-nba-2k19.json](./103218-nba-2k19.json) |
@@ -1294,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nigredo | 346143 | [346143-nigredo.json](./346143-nigredo.json) |
 | Nihilist Simulator | 72337 | [72337-nihilist-simulator.json](./72337-nihilist-simulator.json) |
 | Nihilist Syndrome | 366940 | [366940-nihilist-syndrome.json](./366940-nihilist-syndrome.json) |
+| Nihility: Infinite Teeth | 256880 | [256880-nihility-infinite-teeth.json](./256880-nihility-infinite-teeth.json) |
 | Nihmory | 211711 | [211711-nihmory.json](./211711-nihmory.json) |
 | Nihon Pro Golf Double Eagle | 143673 | [143673-nihon-pro-golf-double-eagle.json](./143673-nihon-pro-golf-double-eagle.json) |
 | Nihon Pro Mahjong Kishikai Kanshuu: Pro ni naru Mahjong DS | 131600 | [131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json](./131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json) |
