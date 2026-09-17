@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fail World | 356064 | [356064-fail-world.json](./356064-fail-world.json) |
 | Failed State | 98375 | [98375-failed-state.json](./98375-failed-state.json) |
 | Failed Trust | 290558 | [290558-failed-trust.json](./290558-failed-trust.json) |
+| Failure Drill | 241518 | [241518-failure-drill.json](./241518-failure-drill.json) |
 | Faily Brakes Classic | 174310 | [174310-faily-brakes-classic.json](./174310-faily-brakes-classic.json) |
 | Faily Rider | 101534 | [101534-faily-rider.json](./101534-faily-rider.json) |
 | Fair And Balanced | 411716 | [411716-fair-and-balanced.json](./411716-fair-and-balanced.json) |
@@ -1378,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Frontier Story | 360084 | [360084-final-frontier-story.json](./360084-final-frontier-story.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
 | Final Guardian 2 | 197348 | [197348-final-guardian-2.json](./197348-final-guardian-2.json) |
+| Final Gun | 241517 | [241517-final-gun.json](./241517-final-gun.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
 | Final Judgment - Damnation Day | 110302 | [110302-final-judgment-damnation-day.json](./110302-final-judgment-damnation-day.json) |
 | Final Justice | 266892 | [266892-final-justice.json](./266892-final-justice.json) |
@@ -1673,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Queen II | 302698 | [302698-first-queen-ii.json](./302698-first-queen-ii.json) |
 | First Queen III | 302699 | [302699-first-queen-iii.json](./302699-first-queen-iii.json) |
 | First Queen IV: Varcia Senki | 152384 | [152384-first-queen-iv-varcia-senki.json](./152384-first-queen-iv-varcia-senki.json) |
+| First Responder VR | 241516 | [241516-first-responder-vr.json](./241516-first-responder-vr.json) |
 | First Sexy Night 2: Second Date | 235760 | [235760-first-sexy-night-2-second-date.json](./235760-first-sexy-night-2-second-date.json) |
 | First Snow | 132765 | [132765-first-snow.json](./132765-first-snow.json) |
 | First Step: Fighting Souls | 196328 | [196328-first-step-fighting-souls.json](./196328-first-step-fighting-souls.json) |
@@ -1882,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's Gameboy | 305749 | [305749-five-nights-at-freddys-gameboy.json](./305749-five-nights-at-freddys-gameboy.json) |
 | Five Nights at Freddy's Soulless Look | 383375 | [383375-five-nights-at-freddys-soulless-look.json](./383375-five-nights-at-freddys-soulless-look.json) |
 | Five Nights at Freddy's: Backlogged | 329023 | [329023-five-nights-at-freddys-backlogged.json](./329023-five-nights-at-freddys-backlogged.json) |
+| Five Nights at Freddy's: Help Wanted | 241473 | [241473-five-nights-at-freddys-help-wanted.json](./241473-five-nights-at-freddys-help-wanted.json) |
 | Five Nights at Freddy's: Help Wanted 2 | 250627 | [250627-five-nights-at-freddys-help-wanted-2.json](./250627-five-nights-at-freddys-help-wanted-2.json) |
 | Five Nights at Freddy's: Help Wanted Plus | 261510 | [261510-five-nights-at-freddys-help-wanted-plus.json](./261510-five-nights-at-freddys-help-wanted-plus.json) |
 | Five Nights at Freddy's: Into the Pit | 283679 | [283679-five-nights-at-freddys-into-the-pit.json](./283679-five-nights-at-freddys-into-the-pit.json) |
