@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance It! | 317853 | [317853-dance-it.json](./317853-dance-it.json) |
 | Dance Mania | 330184 | [330184-dance-mania.json](./330184-dance-mania.json) |
 | Dance of Cubes | 170552 | [170552-dance-of-cubes.json](./170552-dance-of-cubes.json) |
+| Dance Of Death | 266887 | [266887-dance-of-death.json](./266887-dance-of-death.json) |
 | Dance of the Butterflies | 412278 | [412278-dance-of-the-butterflies.json](./412278-dance-of-the-butterflies.json) |
 | Dance of the Vampires | 168323 | [168323-dance-of-the-vampires.json](./168323-dance-of-the-vampires.json) |
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
@@ -1575,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
 | Demon Attack | 309342 | [309342-demon-attack.json](./309342-demon-attack.json) |
 | Demon Blast | 132212 | [132212-demon-blast.json](./132212-demon-blast.json) |
+| Demon Castle | 266914 | [266914-demon-castle.json](./266914-demon-castle.json) |
 | Demon Corporation: Onboarding | 333944 | [333944-demon-corporation-onboarding.json](./333944-demon-corporation-onboarding.json) |
 | Demon Crisis | 415900 | [415900-demon-crisis.json](./415900-demon-crisis.json) |
 | Demon Crush | 303469 | [303469-demon-crush.json](./303469-demon-crush.json) |
@@ -2166,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
 | Dicey Dungeons | 102420 | [102420-dicey-dungeons.json](./102420-dicey-dungeons.json) |
 | Dicey Dungeons Reunion | 208403 | [208403-dicey-dungeons-reunion.json](./208403-dicey-dungeons-reunion.json) |
+| Dicey Dungeons: Halloween Special | 266909 | [266909-dicey-dungeons-halloween-special.json](./266909-dicey-dungeons-halloween-special.json) |
 | Dick and Dom's Hoopla! | 304208 | [304208-dick-and-doms-hoopla.json](./304208-dick-and-doms-hoopla.json) |
 | Dick Tracy | 13058 | [13058-dick-tracy.json](./13058-dick-tracy.json) |
 | Dick Tracy | 316832 | [316832-dick-tracy.json](./316832-dick-tracy.json) |
@@ -2594,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley | 198506 | [198506-disney-dreamlight-valley.json](./198506-disney-dreamlight-valley.json) |
 | Disney Dreamlight Valley: Cozy Edition | 270205 | [270205-disney-dreamlight-valley-cozy-edition.json](./270205-disney-dreamlight-valley-cozy-edition.json) |
 | Disney Dreamlight Valley: Emotional Rescue | 362263 | [362263-disney-dreamlight-valley-emotional-rescue.json](./362263-disney-dreamlight-valley-emotional-rescue.json) |
+| Disney Dreamlight Valley: Enchanted Adventure | 266853 | [266853-disney-dreamlight-valley-enchanted-adventure.json](./266853-disney-dreamlight-valley-enchanted-adventure.json) |
 | Disney Dreamlight Valley: Missions in Uncharted Space | 228430 | [228430-disney-dreamlight-valley-missions-in-uncharted-space.json](./228430-disney-dreamlight-valley-missions-in-uncharted-space.json) |
 | Disney Dreamlight Valley: Return to Beast's Castle | 371229 | [371229-disney-dreamlight-valley-return-to-beasts-castle.json](./371229-disney-dreamlight-valley-return-to-beasts-castle.json) |
 | Disney Dreamlight Valley: The Winter Ball | 381099 | [381099-disney-dreamlight-valley-the-winter-ball.json](./381099-disney-dreamlight-valley-the-winter-ball.json) |
@@ -2713,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
 | DitherDream | 285020 | [285020-ditherdream.json](./285020-ditherdream.json) |
 | Dithered | 122411 | [122411-dithered.json](./122411-dithered.json) |
+| Dito G1 | 266880 | [266880-dito-g1.json](./266880-dito-g1.json) |
 | Ditto Leapfrog | 94206 | [94206-ditto-leapfrog.json](./94206-ditto-leapfrog.json) |
 | Diva Starz: Mall Mania | 49893 | [49893-diva-starz-mall-mania.json](./49893-diva-starz-mall-mania.json) |
 | Divadlo | 271988 | [271988-divadlo.json](./271988-divadlo.json) |
@@ -4851,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic Chord feat. Liar-S | 142445 | [142445-dynamic-chord-feat-liar-s.json](./142445-dynamic-chord-feat-liar-s.json) |
 | Dynamic Duo | 13615 | [13615-dynamic-duo.json](./13615-dynamic-duo.json) |
 | Dynamite | 94260 | [94260-dynamite.json](./94260-dynamite.json) |
+| Dynamite Bomber | 266879 | [266879-dynamite-bomber.json](./266879-dynamite-bomber.json) |
 | Dynamite Dan II | 13617 | [13617-dynamite-dan-ii.json](./13617-dynamite-dan-ii.json) |
 | Dynamite Dashers | 376464 | [376464-dynamite-dashers.json](./376464-dynamite-dashers.json) |
 | Dynamite Day | 415916 | [415916-dynamite-day.json](./415916-dynamite-day.json) |
