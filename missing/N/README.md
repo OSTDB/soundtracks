@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norse Noir: Loki's Exile | 19264 | [19264-norse-noir-lokis-exile.json](./19264-norse-noir-lokis-exile.json) |
 | North American Hunting Extravaganza 2 | 50619 | [50619-north-american-hunting-extravaganza-2.json](./50619-north-american-hunting-extravaganza-2.json) |
 | North Modding Company: Bergsbruk | 143689 | [143689-north-modding-company-bergsbruk.json](./143689-north-modding-company-bergsbruk.json) |
+| North Salvation | 246475 | [246475-north-salvation.json](./246475-north-salvation.json) |
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
 | Northanda Chronicles | 277294 | [277294-northanda-chronicles.json](./277294-northanda-chronicles.json) |
 | Northbury Grove: Walls Closing In | 183062 | [183062-northbury-grove-walls-closing-in.json](./183062-northbury-grove-walls-closing-in.json) |
