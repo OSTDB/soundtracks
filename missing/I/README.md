@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
 | Idle Pinball | 330171 | [330171-idle-pinball.json](./330171-idle-pinball.json) |
 | Idle Pixel Crush - Ball Crush | 105876 | [105876-idle-pixel-crush-ball-crush.json](./105876-idle-pixel-crush-ball-crush.json) |
+| Idle Pizza Empire | 235299 | [235299-idle-pizza-empire.json](./235299-idle-pizza-empire.json) |
 | Idle Portal Guardian | 118372 | [118372-idle-portal-guardian.json](./118372-idle-portal-guardian.json) |
 | Idle Quest Giver | 247210 | [247210-idle-quest-giver.json](./247210-idle-quest-giver.json) |
 | Idle Realms: The Eternal Spire | 403657 | [403657-idle-realms-the-eternal-spire.json](./403657-idle-realms-the-eternal-spire.json) |
@@ -636,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagicard: PAW Patrol | 137612 | [137612-imagicard-paw-patrol.json](./137612-imagicard-paw-patrol.json) |
 | Imaginarium | 126614 | [126614-imaginarium.json](./126614-imaginarium.json) |
 | Imaginary Friend Asylum | 273459 | [273459-imaginary-friend-asylum.json](./273459-imaginary-friend-asylum.json) |
+| Imaginary Girls Three Kingdoms | 235347 | [235347-imaginary-girls-three-kingdoms.json](./235347-imaginary-girls-three-kingdoms.json) |
 | Imaginary Realms Bundle | 166690 | [166690-imaginary-realms-bundle.json](./166690-imaginary-realms-bundle.json) |
 | Imaginator | 122419 | [122419-imaginator.json](./122419-imaginator.json) |
 | Imagine: Rescue Vet | 147432 | [147432-imagine-rescue-vet.json](./147432-imagine-rescue-vet.json) |
@@ -664,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Coil | 411722 | [411722-immortal-coil.json](./411722-immortal-coil.json) |
 | Immortal Conquest | 174830 | [174830-immortal-conquest.json](./174830-immortal-conquest.json) |
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
+| Immortal Game | 235339 | [235339-immortal-game.json](./235339-immortal-game.json) |
 | Immortal Girl | 128005 | [128005-immortal-girl.json](./128005-immortal-girl.json) |
 | Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
 | Immortal Legacy: The Jade Cipher - Console Edition | 132851 | [132851-immortal-legacy-the-jade-cipher-console-edition.json](./132851-immortal-legacy-the-jade-cipher-console-edition.json) |
