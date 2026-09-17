@@ -2570,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | App Empire Tycoon | 363957 | [363957-app-empire-tycoon.json](./363957-app-empire-tycoon.json) |
 | Appa | 367951 | [367951-appa.json](./367951-appa.json) |
 | Appalachian Onslaught | 399090 | [399090-appalachian-onslaught.json](./399090-appalachian-onslaught.json) |
+| Appare-den: Fukuryuu no Shou | 243782 | [243782-appare-den-fukuryuu-no-shou.json](./243782-appare-den-fukuryuu-no-shou.json) |
 | Appare! Shogi Jiisan | 269650 | [269650-appare-shogi-jiisan.json](./269650-appare-shogi-jiisan.json) |
 | Appearances | 244774 | [244774-appearances.json](./244774-appearances.json) |
 | Appeeling Personality | 346103 | [346103-appeeling-personality.json](./346103-appeeling-personality.json) |
