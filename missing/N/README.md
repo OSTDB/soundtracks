@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicolás the Sea Urchin | 265930 | [265930-nicolas-the-sea-urchin.json](./265930-nicolas-the-sea-urchin.json) |
 | Nictheroy | 154031 | [154031-nictheroy.json](./154031-nictheroy.json) |
 | Nidhogg | 5551 | [5551-nidhogg.json](./5551-nidhogg.json) |
+| Nie no Hakoniwa: Dollhouse of Offerings | 268012 | [268012-nie-no-hakoniwa-dollhouse-of-offerings.json](./268012-nie-no-hakoniwa-dollhouse-of-offerings.json) |
 | NieR: Automata - Black Box Edition | 144331 | [144331-nier-automata-black-box-edition.json](./144331-nier-automata-black-box-edition.json) |
 | NieR: Automata - Day One Edition | 144330 | [144330-nier-automata-day-one-edition.json](./144330-nier-automata-day-one-edition.json) |
 | NieR: Automata - Limited Edition Steelbook | 44539 | [44539-nier-automata-limited-edition-steelbook.json](./44539-nier-automata-limited-edition-steelbook.json) |
@@ -2053,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyanco Dream | 126557 | [126557-nyanco-dream.json](./126557-nyanco-dream.json) |
 | Nyanco Project | 120984 | [120984-nyanco-project.json](./120984-nyanco-project.json) |
 | Nyanko Island | 299901 | [299901-nyanko-island.json](./299901-nyanko-island.json) |
+| Nyannyan Prowrestling | 267996 | [267996-nyannyan-prowrestling.json](./267996-nyannyan-prowrestling.json) |
 | Nyanroo the Supercat | 139370 | [139370-nyanroo-the-supercat.json](./139370-nyanroo-the-supercat.json) |
 | Nyanzou & Kumakichi: Let's make a flower garden | 271841 | [271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json](./271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json) |
 | Nyasha Land of Elves | 116945 | [116945-nyasha-land-of-elves.json](./116945-nyasha-land-of-elves.json) |
