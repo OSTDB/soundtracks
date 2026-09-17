@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shepherd | 190200 | [190200-alien-shepherd.json](./190200-alien-shepherd.json) |
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
 | Alien Shooter: The Experiment | 11090 | [11090-alien-shooter-the-experiment.json](./11090-alien-shooter-the-experiment.json) |
+| Alien Slayer | 275099 | [275099-alien-slayer.json](./275099-alien-slayer.json) |
 | Alien Slayers | 233772 | [233772-alien-slayers.json](./233772-alien-slayers.json) |
 | Alien Space Bastards | 188688 | [188688-alien-space-bastards.json](./188688-alien-space-bastards.json) |
 | Alien SpaceCraft | 96773 | [96773-alien-spacecraft.json](./96773-alien-spacecraft.json) |
@@ -2919,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena: Maze of Death | 19694 | [19694-arena-maze-of-death.json](./19694-arena-maze-of-death.json) |
 | Arena.Xlsm | 125394 | [125394-arena-xlsm.json](./125394-arena-xlsm.json) |
 | Arena66 | 132195 | [132195-arena66.json](./132195-arena66.json) |
+| ArenaWar | 275109 | [275109-arenawar.json](./275109-arenawar.json) |
 | Arenum | 324897 | [324897-arenum.json](./324897-arenum.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
 | Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
@@ -3159,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
 | Art of Glide II | 306530 | [306530-art-of-glide-ii.json](./306530-art-of-glide-ii.json) |
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
+| Art of Rally: Australia | 275115 | [275115-art-of-rally-australia.json](./275115-art-of-rally-australia.json) |
 | Art of Rally: Deluxe Edition | 155074 | [155074-art-of-rally-deluxe-edition.json](./155074-art-of-rally-deluxe-edition.json) |
 | Art of Stunt | 286095 | [286095-art-of-stunt.json](./286095-art-of-stunt.json) |
 | Art of the Rail | 153400 | [153400-art-of-the-rail.json](./153400-art-of-the-rail.json) |
@@ -3213,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artizens | 36032 | [36032-artizens.json](./36032-artizens.json) |
 | Arto | 199454 | [199454-arto.json](./199454-arto.json) |
 | ArtPulse | 129123 | [129123-artpulse.json](./129123-artpulse.json) |
+| Arts & Hearts Academy | 275098 | [275098-arts-and-hearts-academy.json](./275098-arts-and-hearts-academy.json) |
 | Artsec | 398333 | [398333-artsec.json](./398333-artsec.json) |
 | Artsy Pixel | 212278 | [212278-artsy-pixel.json](./212278-artsy-pixel.json) |
 | Aru Kanrinin no Koi: Autumn + Winter | 246942 | [246942-aru-kanrinin-no-koi-autumn-winter.json](./246942-aru-kanrinin-no-koi-autumn-winter.json) |
