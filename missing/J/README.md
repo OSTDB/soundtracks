@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle | 357883 | [357883-jigsaw-puzzle.json](./357883-jigsaw-puzzle.json) |
 | Jigsaw Puzzle Dreams: Stickers and More! Supporter Pack | 288900 | [288900-jigsaw-puzzle-dreams-stickers-and-more-supporter-pack.json](./288900-jigsaw-puzzle-dreams-stickers-and-more-supporter-pack.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
+| Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Electro Macro | 268529 | [268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json](./268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Halloween 5 | 274583 | [274583-jigsaw-puzzle-pack-pixel-puzzles-ultimate-halloween-5.json](./274583-jigsaw-puzzle-pack-pixel-puzzles-ultimate-halloween-5.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Jiu Jitsu | 243159 | [243159-jigsaw-puzzle-pack-pixel-puzzles-ultimate-jiu-jitsu.json](./243159-jigsaw-puzzle-pack-pixel-puzzles-ultimate-jiu-jitsu.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 22 | 270193 | [270193-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-22.json](./270193-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-22.json) |
@@ -751,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ju Ju Densetsu | 40202 | [40202-ju-ju-densetsu.json](./40202-ju-ju-densetsu.json) |
 | Ju-on: The Grudge | 4945 | [4945-ju-on-the-grudge.json](./4945-ju-on-the-grudge.json) |
 | Juanito Arcade Mayhem | 36629 | [36629-juanito-arcade-mayhem.json](./36629-juanito-arcade-mayhem.json) |
+| Jubeat Prop | 268568 | [268568-jubeat-prop.json](./268568-jubeat-prop.json) |
 | Jubeat Ripples | 91903 | [91903-jubeat-ripples.json](./91903-jubeat-ripples.json) |
 | Jubilane | 165696 | [165696-jubilane.json](./165696-jubilane.json) |
 | Judas | 29714 | [29714-judas.json](./29714-judas.json) |
