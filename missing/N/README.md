@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natari at the Bubble Planet | 75759 | [75759-natari-at-the-bubble-planet.json](./75759-natari-at-the-bubble-planet.json) |
 | NatGeo Adventures: Ghost Fleet | 209151 | [209151-natgeo-adventures-ghost-fleet.json](./209151-natgeo-adventures-ghost-fleet.json) |
 | NatGeo Adventures: Mystery of Cleopatra | 209150 | [209150-natgeo-adventures-mystery-of-cleopatra.json](./209150-natgeo-adventures-mystery-of-cleopatra.json) |
+| Nathan Jones and The Empty Century | 283277 | [283277-nathan-jones-and-the-empty-century.json](./283277-nathan-jones-and-the-empty-century.json) |
 | Nation War 2: Chronicle | 169432 | [169432-nation-war-2-chronicle.json](./169432-nation-war-2-chronicle.json) |
 | Nation War: Chronicles | 48008 | [48008-nation-war-chronicles.json](./48008-nation-war-chronicles.json) |
 | National Geographic Challenge! | 52603 | [52603-national-geographic-challenge.json](./52603-national-geographic-challenge.json) |
@@ -1625,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition | 307131 | [307131-nobunagas-ambition.json](./307131-nobunagas-ambition.json) |
 | Nobunaga's Ambition II | 307125 | [307125-nobunagas-ambition-ii.json](./307125-nobunagas-ambition-ii.json) |
 | Nobunaga's Ambition: Awakening - Scenario "Brotherly Revolt" | 294852 | [294852-nobunagas-ambition-awakening-scenario-brotherly-revolt.json](./294852-nobunagas-ambition-awakening-scenario-brotherly-revolt.json) |
+| Nobunaga's Ambition: Awakening - Scenario: Battle of Komaki-Nagakute | 283260 | [283260-nobunagas-ambition-awakening-scenario-battle-of-komaki-nagakute.json](./283260-nobunagas-ambition-awakening-scenario-battle-of-komaki-nagakute.json) |
 | Nobunaga's Ambition: Awakening - Set of 6 Scenarios | 347227 | [347227-nobunagas-ambition-awakening-set-of-6-scenarios.json](./347227-nobunagas-ambition-awakening-set-of-6-scenarios.json) |
 | Nobunaga's Ambition: Hadou | 371347 | [371347-nobunagas-ambition-hadou.json](./371347-nobunagas-ambition-hadou.json) |
 | Nobunaga's Ambition: Hishou | 405470 | [405470-nobunagas-ambition-hishou.json](./405470-nobunagas-ambition-hishou.json) |
