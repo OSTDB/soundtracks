@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QP Kiss | 188576 | [188576-qp-kiss.json](./188576-qp-kiss.json) |
 | Qrank | 94181 | [94181-qrank.json](./94181-qrank.json) |
 | Qreate | 356758 | [356758-qreate.json](./356758-qreate.json) |
+| Qrgan Quarter | 249305 | [249305-qrgan-quarter.json](./249305-qrgan-quarter.json) |
 | QS Asteroids | 319593 | [319593-qs-asteroids.json](./319593-qs-asteroids.json) |
 | QS Defender | 319594 | [319594-qs-defender.json](./319594-qs-defender.json) |
 | QS Scramble | 319595 | [319595-qs-scramble.json](./319595-qs-scramble.json) |
