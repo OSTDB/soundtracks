@@ -2368,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia Phantom Trigger Vol.3 | 43085 | [43085-grisaia-phantom-trigger-vol-3.json](./43085-grisaia-phantom-trigger-vol-3.json) |
 | Grisaia Phantom Trigger Vol.7 | 135819 | [135819-grisaia-phantom-trigger-vol-7.json](./135819-grisaia-phantom-trigger-vol-7.json) |
 | Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
+| Grisly Grottos | 271845 | [271845-grisly-grottos.json](./271845-grisly-grottos.json) |
 | Grit & Valor: 1949 | 304134 | [304134-grit-and-valor-1949.json](./304134-grit-and-valor-1949.json) |
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
 | Grits Racing | 114946 | [114946-grits-racing.json](./114946-grits-racing.json) |
