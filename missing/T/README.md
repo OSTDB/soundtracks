@@ -1550,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Snacky | 225104 | [225104-the-adventures-of-snacky.json](./225104-the-adventures-of-snacky.json) |
 | The Adventures of Square | 18284 | [18284-the-adventures-of-square.json](./18284-the-adventures-of-square.json) |
 | The Adventures of Star Saver | 7745 | [7745-the-adventures-of-star-saver.json](./7745-the-adventures-of-star-saver.json) |
+| The Adventures of The Black Hawk | 274575 | [274575-the-adventures-of-the-black-hawk.json](./274575-the-adventures-of-the-black-hawk.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 42588 | [42588-the-adventures-of-tintin-prisoners-of-the-sun.json](./42588-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Afterlife Cafe | 367948 | [367948-the-afterlife-cafe.json](./367948-the-afterlife-cafe.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
@@ -2442,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enchanted Kingdom: Elisa's Adventure | 54440 | [54440-the-enchanted-kingdom-elisas-adventure.json](./54440-the-enchanted-kingdom-elisas-adventure.json) |
 | The Enchanted Worlds | 290020 | [290020-the-enchanted-worlds.json](./290020-the-enchanted-worlds.json) |
 | The Enchanting Islands | 54441 | [54441-the-enchanting-islands.json](./54441-the-enchanting-islands.json) |
+| The End Grows | 274580 | [274580-the-end-grows.json](./274580-the-end-grows.json) |
 | The End is Never the End | 269850 | [269850-the-end-is-never-the-end.json](./269850-the-end-is-never-the-end.json) |
 | The End o,,,o | 31847 | [31847-the-end-o-o.json](./31847-the-end-o-o.json) |
 | The End of Gameplay | 343235 | [343235-the-end-of-gameplay.json](./343235-the-end-of-gameplay.json) |
@@ -3461,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light Empire | 34245 | [34245-the-light-empire.json](./34245-the-light-empire.json) |
 | The Light Inside Us | 55922 | [55922-the-light-inside-us.json](./55922-the-light-inside-us.json) |
 | The Light of Celestia | 335268 | [335268-the-light-of-celestia.json](./335268-the-light-of-celestia.json) |
+| The Light of the Darkness: Origins | 274568 | [274568-the-light-of-the-darkness-origins.json](./274568-the-light-of-the-darkness-origins.json) |
 | The Lighthouse \| VR Escape Room | 111710 | [111710-the-lighthouse-vr-escape-room.json](./111710-the-lighthouse-vr-escape-room.json) |
 | The Lighthouse of São Bento do Oeste | 192894 | [192894-the-lighthouse-of-sao-bento-do-oeste.json](./192894-the-lighthouse-of-sao-bento-do-oeste.json) |
 | The Lightless World | 289989 | [289989-the-lightless-world.json](./289989-the-lightless-world.json) |
@@ -4732,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Johnny Razor-sharp Outfit | 308574 | [308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json](./308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json) |
 | The Texas Chain Saw Massacre: Julie Outfit Pack 2 | 351025 | [351025-the-texas-chain-saw-massacre-julie-outfit-pack-2.json](./351025-the-texas-chain-saw-massacre-julie-outfit-pack-2.json) |
 | The Texas Chain Saw Massacre: Nancy Prim 'N Proper Outfit | 308573 | [308573-the-texas-chain-saw-massacre-nancy-prim-n-proper-outfit.json](./308573-the-texas-chain-saw-massacre-nancy-prim-n-proper-outfit.json) |
+| The Texas Chain Saw Massacre: Nicotero Leatherface | 274587 | [274587-the-texas-chain-saw-massacre-nicotero-leatherface.json](./274587-the-texas-chain-saw-massacre-nicotero-leatherface.json) |
 | The Texas Chain Saw Massacre: Rush Week - Halloween Outfit Pack | 351023 | [351023-the-texas-chain-saw-massacre-rush-week-halloween-outfit-pack.json](./351023-the-texas-chain-saw-massacre-rush-week-halloween-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Rush Week - Homecoming Pack | 351019 | [351019-the-texas-chain-saw-massacre-rush-week-homecoming-pack.json](./351019-the-texas-chain-saw-massacre-rush-week-homecoming-pack.json) |
 | The Texas Chain Saw Massacre: Rush Week - Laundry Day Pack | 351022 | [351022-the-texas-chain-saw-massacre-rush-week-laundry-day-pack.json](./351022-the-texas-chain-saw-massacre-rush-week-laundry-day-pack.json) |
@@ -6255,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinier Me | 327215 | [327215-tinier-me.json](./327215-tinier-me.json) |
 | Tinker | 51212 | [51212-tinker.json](./51212-tinker.json) |
 | Tinker's Ascent | 355564 | [355564-tinkers-ascent.json](./355564-tinkers-ascent.json) |
+| Tinkerlands: A Shipwrecked Adventure | 274567 | [274567-tinkerlands-a-shipwrecked-adventure.json](./274567-tinkerlands-a-shipwrecked-adventure.json) |
 | Tinkernest | 404846 | [404846-tinkernest.json](./404846-tinkernest.json) |
 | TinkerQuarry | 47231 | [47231-tinkerquarry.json](./47231-tinkerquarry.json) |
 | TinkerTech | 310929 | [310929-tinkertech.json](./310929-tinkertech.json) |
@@ -7392,6 +7397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tradewinds Caravan | 59455 | [59455-tradewinds-caravan.json](./59455-tradewinds-caravan.json) |
 | Tradewinds Legends | 59454 | [59454-tradewinds-legends.json](./59454-tradewinds-legends.json) |
 | Tradewinds Odyssey | 59456 | [59456-tradewinds-odyssey.json](./59456-tradewinds-odyssey.json) |
+| Trading Simulator | 274563 | [274563-trading-simulator.json](./274563-trading-simulator.json) |
 | Trading Simulator | 290421 | [290421-trading-simulator.json](./290421-trading-simulator.json) |
 | Traffic | 312583 | [312583-traffic.json](./312583-traffic.json) |
 | Traffic | 319601 | [319601-traffic.json](./319601-traffic.json) |
