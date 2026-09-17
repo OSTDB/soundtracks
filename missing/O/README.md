@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Ladies | 411727 | [411727-office-ladies.json](./411727-office-ladies.json) |
 | Office Love Affair | 157708 | [157708-office-love-affair.json](./157708-office-love-affair.json) |
 | Office Management 101 | 60585 | [60585-office-management-101.json](./60585-office-management-101.json) |
+| Office Nightmare: Chapter 1 | 275131 | [275131-office-nightmare-chapter-1.json](./275131-office-nightmare-chapter-1.json) |
 | Office Novice | 180851 | [180851-office-novice.json](./180851-office-novice.json) |
 | Office Overloaded | 317580 | [317580-office-overloaded.json](./317580-office-overloaded.json) |
 | Office Racer | 213045 | [213045-office-racer.json](./213045-office-racer.json) |
@@ -1242,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
 | Other Submarine | 124143 | [124143-other-submarine.json](./124143-other-submarine.json) |
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
+| Otherlights | 275113 | [275113-otherlights.json](./275113-otherlights.json) |
 | Others | 117662 | [117662-others.json](./117662-others.json) |
 | Otherside | 209129 | [209129-otherside.json](./209129-otherside.json) |
 | OtherSide | 179157 | [179157-otherside.json](./179157-otherside.json) |
