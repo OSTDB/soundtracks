@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barb Wire | 92451 | [92451-barb-wire.json](./92451-barb-wire.json) |
 | Barbarian | 376532 | [376532-barbarian.json](./376532-barbarian.json) |
 | Barbarian Simulator | 157718 | [157718-barbarian-simulator.json](./157718-barbarian-simulator.json) |
+| Barbarians & Beasts | 277971 | [277971-barbarians-and-beasts.json](./277971-barbarians-and-beasts.json) |
 | Barbarization | 311491 | [311491-barbarization.json](./311491-barbarization.json) |
 | Barbarous 2: Tavern Wars | 192944 | [192944-barbarous-2-tavern-wars.json](./192944-barbarous-2-tavern-wars.json) |
 | BarBarQ | 82149 | [82149-barbarq.json](./82149-barbarq.json) |
@@ -1608,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind Closed Doors 4: Balrog's Day Out | 58846 | [58846-behind-closed-doors-4-balrogs-day-out.json](./58846-behind-closed-doors-4-balrogs-day-out.json) |
 | Behind Enemy Line | 156167 | [156167-behind-enemy-line.json](./156167-behind-enemy-line.json) |
 | Behind Nowhere | 105403 | [105403-behind-nowhere.json](./105403-behind-nowhere.json) |
+| Behind the Beyond: Ulti | 277979 | [277979-behind-the-beyond-ulti.json](./277979-behind-the-beyond-ulti.json) |
 | Behind the Horizon: The Desert | 195239 | [195239-behind-the-horizon-the-desert.json](./195239-behind-the-horizon-the-desert.json) |
 | Behind the Hydra's Eyes | 374585 | [374585-behind-the-hydras-eyes.json](./374585-behind-the-hydras-eyes.json) |
 | Behind the Iron Gate | 14294 | [14294-behind-the-iron-gate.json](./14294-behind-the-iron-gate.json) |
