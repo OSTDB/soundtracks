@@ -31,6 +31,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
 | "Did You Submit a Ticket?" Simulator | 417551 | [417551-did-you-submit-a-ticket-simulator.json](./417551-did-you-submit-a-ticket-simulator.json) |
 | "Hello, world." | 130306 | [130306-hello-world.json](./130306-hello-world.json) |
+| "Out" file#01 | 237475 | [237475-out-file-01.json](./237475-out-file-01.json) |
+| "Out2" out of file | 237476 | [237476-out2-out-of-file.json](./237476-out2-out-of-file.json) |
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
 | [Redacted] | 292844 | [292844-redacted.json](./292844-redacted.json) |
 | [Redacted] | 396399 | [396399-redacted.json](./396399-redacted.json) |
