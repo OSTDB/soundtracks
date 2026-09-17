@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3X3 Puzzle | 249269 | [249269-3x3-puzzle.json](./249269-3x3-puzzle.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
 | 4 Colours | 262058 | [262058-4-colours.json](./262058-4-colours.json) |
+| 4 days in *** | 244365 | [244365-4-days-in.json](./244365-4-days-in.json) |
 | 4 En Raya | 249251 | [249251-4-en-raya.json](./249251-4-en-raya.json) |
 | 4 Game in One | 268570 | [268570-4-game-in-one.json](./268570-4-game-in-one.json) |
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
