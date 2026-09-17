@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Fun: 3-in-1 Collection | 196259 | [196259-jigsaw-fun-3-in-1-collection.json](./196259-jigsaw-fun-3-in-1-collection.json) |
 | Jigsaw Fun: Wonderful Nature | 187497 | [187497-jigsaw-fun-wonderful-nature.json](./187497-jigsaw-fun-wonderful-nature.json) |
 | Jigsaw Game 05/06 | 345498 | [345498-jigsaw-game-05-06.json](./345498-jigsaw-game-05-06.json) |
+| Jigsaw Ice Princess | 271272 | [271272-jigsaw-ice-princess.json](./271272-jigsaw-ice-princess.json) |
 | Jigsaw Industry | 357888 | [357888-jigsaw-industry.json](./357888-jigsaw-industry.json) |
 | Jigsaw Island | 308922 | [308922-jigsaw-island.json](./308922-jigsaw-island.json) |
 | Jigsaw Jab | 390678 | [390678-jigsaw-jab.json](./390678-jigsaw-jab.json) |
