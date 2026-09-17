@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 flags and seals of the United States HD | 109013 | [109013-50-flags-and-seals-of-the-united-states-hd.json](./109013-50-flags-and-seals-of-the-united-states-hd.json) |
 | 50 Floors: The Paranormal Investigators Prologue | 306699 | [306699-50-floors-the-paranormal-investigators-prologue.json](./306699-50-floors-the-paranormal-investigators-prologue.json) |
 | 50 Waves Hero | 164981 | [164981-50-waves-hero.json](./164981-50-waves-hero.json) |
+| 505 Game Collection | 266324 | [266324-505-game-collection.json](./266324-505-game-collection.json) |
 | 50CK3T | 283869 | [283869-50ck3t.json](./283869-50ck3t.json) |
 | 50K Racewalker | 135864 | [135864-50k-racewalker.json](./135864-50k-racewalker.json) |
 | 5125m | 370206 | [370206-5125m.json](./370206-5125m.json) |
