@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumper, Jumpy Time Attack Adventure | 309367 | [309367-jumper-jumpy-time-attack-adventure.json](./309367-jumper-jumpy-time-attack-adventure.json) |
 | Jumper's Doom | 351634 | [351634-jumpers-doom.json](./351634-jumpers-doom.json) |
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
+| Jumpfox: Always Running | 278547 | [278547-jumpfox-always-running.json](./278547-jumpfox-always-running.json) |
 | Jumpgate Evolution | 94708 | [94708-jumpgate-evolution.json](./94708-jumpgate-evolution.json) |
 | Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
 | Jumphobia XL | 57047 | [57047-jumphobia-xl.json](./57047-jumphobia-xl.json) |
