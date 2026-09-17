@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee in King Arthur's Court 2 | 31855 | [31855-new-yankee-in-king-arthurs-court-2.json](./31855-new-yankee-in-king-arthurs-court-2.json) |
 | New Yankee in Santa's Service | 32990 | [32990-new-yankee-in-santas-service.json](./32990-new-yankee-in-santas-service.json) |
 | New Yankee: Jelly Chaos - Collector's Edition | 417515 | [417515-new-yankee-jelly-chaos-collectors-edition.json](./417515-new-yankee-jelly-chaos-collectors-edition.json) |
+| New Yankee: Karma Tales | 235833 | [235833-new-yankee-karma-tales.json](./235833-new-yankee-karma-tales.json) |
 | New Yankee: Mary's Dark Side | 258010 | [258010-new-yankee-marys-dark-side.json](./258010-new-yankee-marys-dark-side.json) |
 | New Yankee: Under the Genie's Thumb | 170500 | [170500-new-yankee-under-the-genies-thumb.json](./170500-new-yankee-under-the-genies-thumb.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
@@ -1761,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noelia | 325085 | [325085-noelia.json](./325085-noelia.json) |
 | Noema | 403695 | [403695-noema.json](./403695-noema.json) |
 | Nofland Story | 220304 | [220304-nofland-story.json](./220304-nofland-story.json) |
+| Nofsky Zombies | 235838 | [235838-nofsky-zombies.json](./235838-nofsky-zombies.json) |
 | Noga | 264703 | [264703-noga.json](./264703-noga.json) |
 | Nogard | 94729 | [94729-nogard.json](./94729-nogard.json) |
 | Nohra | 156659 | [156659-nohra.json](./156659-nohra.json) |
@@ -1985,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now That's What I Call Sing 2 | 24961 | [24961-now-thats-what-i-call-sing-2.json](./24961-now-thats-what-i-call-sing-2.json) |
 | Now You Are the Persecuted | 236520 | [236520-now-you-are-the-persecuted.json](./236520-now-you-are-the-persecuted.json) |
 | Now You See | 117439 | [117439-now-you-see.json](./117439-now-you-see.json) |
+| Now You Would Destroy the Earth | 235862 | [235862-now-you-would-destroy-the-earth.json](./235862-now-you-would-destroy-the-earth.json) |
 | Now You've Made Me Crabby | 183058 | [183058-now-youve-made-me-crabby.json](./183058-now-youve-made-me-crabby.json) |
 | Nowa Online World | 318623 | [318623-nowa-online-world.json](./318623-nowa-online-world.json) |
 | NoWaitHero | 132237 | [132237-nowaithero.json](./132237-nowaithero.json) |
