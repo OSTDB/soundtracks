@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Doduo | 69834 | [69834-jumping-doduo.json](./69834-jumping-doduo.json) |
 | Jumping Finn | 254524 | [254524-jumping-finn.json](./254524-jumping-finn.json) |
 | Jumping Fish | 348236 | [348236-jumping-fish.json](./348236-jumping-fish.json) |
+| Jumping Flash! | 234733 | [234733-jumping-flash.json](./234733-jumping-flash.json) |
 | Jumping Flash! | 7432 | [7432-jumping-flash.json](./7432-jumping-flash.json) |
 | Jumping Frog: A Time Traveller | 247496 | [247496-jumping-frog-a-time-traveller.json](./247496-jumping-frog-a-time-traveller.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
