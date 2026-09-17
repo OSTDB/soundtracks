@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T07:04:19.370Z",
-  "total_missing": 81577,
+  "generated_at": "2026-09-17T07:11:41.603Z",
+  "total_missing": 81576,
   "games": [
     {
       "igdb_id": 273453,
@@ -201741,11 +201741,6 @@
       "igdb_id": 109422,
       "game_name": "Marvel's Spider-Man: Silver Lining",
       "file": "missing/M/109422-marvels-spider-man-silver-lining.json"
-    },
-    {
-      "igdb_id": 168667,
-      "game_name": "Marvel's Wolverine",
-      "file": "missing/M/168667-marvels-wolverine.json"
     },
     {
       "igdb_id": 407453,
