@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
 | Masochistic Maiden Aria and the Cavern of Blissful Agony | 252178 | [252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json](./252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json) |
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
+| Masquaradious | 266291 | [266291-masquaradious.json](./266291-masquaradious.json) |
 | Masquerade of Miasma | 150621 | [150621-masquerade-of-miasma.json](./150621-masquerade-of-miasma.json) |
 | Masquerade: Hell Academy | 322194 | [322194-masquerade-hell-academy.json](./322194-masquerade-hell-academy.json) |
 | Masquerade: The Baubles of Doom | 23371 | [23371-masquerade-the-baubles-of-doom.json](./23371-masquerade-the-baubles-of-doom.json) |
@@ -3989,6 +3990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstabox | 334134 | [334134-monstabox.json](./334134-monstabox.json) |
 | MonStar | 193971 | [193971-monstar.json](./193971-monstar.json) |
 | Monster & Me | 182466 | [182466-monster-and-me.json](./182466-monster-and-me.json) |
+| Monster 2 | 266314 | [266314-monster-2.json](./266314-monster-2.json) |
 | Monster 3 | 311266 | [311266-monster-3.json](./311266-monster-3.json) |
 | Monster 4x4 3D | 141860 | [141860-monster-4x4-3d.json](./141860-monster-4x4-3d.json) |
 | Monster Academy | 167307 | [167307-monster-academy.json](./167307-monster-academy.json) |
@@ -5247,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Date RPG: Elliot - Story Two | 313903 | [313903-my-first-date-rpg-elliot-story-two.json](./313903-my-first-date-rpg-elliot-story-two.json) |
 | My First Date RPG: Oriana - Story Three | 314024 | [314024-my-first-date-rpg-oriana-story-three.json](./314024-my-first-date-rpg-oriana-story-three.json) |
 | My First Date RPG: Oriana - Story Two | 313488 | [313488-my-first-date-rpg-oriana-story-two.json](./313488-my-first-date-rpg-oriana-story-two.json) |
+| My First Grade Fantasy Adventure | 266304 | [266304-my-first-grade-fantasy-adventure.json](./266304-my-first-grade-fantasy-adventure.json) |
 | My First Gran Turismo | 324502 | [324502-my-first-gran-turismo.json](./324502-my-first-gran-turismo.json) |
 | My First Trainz Set | 11019 | [11019-my-first-trainz-set.json](./11019-my-first-trainz-set.json) |
 | My Fish Farm | 212492 | [212492-my-fish-farm.json](./212492-my-fish-farm.json) |
