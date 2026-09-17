@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T07:11:01.788Z",
-  "total_soundtracks": 1453,
+  "generated_at": "2026-09-17T07:16:01.478Z",
+  "total_soundtracks": 1454,
   "games": [
     {
       "igdb_id": 7522,
@@ -6758,6 +6758,20 @@
           "album_name": "Half-Life: Alyx (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1DWZL15wlSZ5S000Zn0Jl6",
           "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 362096,
+      "game_name": "Halloween: The Game",
+      "game_url": "https://ostdb.net/games/halloween-the-game",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a07aee36d6c0c30fe3e0066a",
+      "albums": [
+        {
+          "album_name": "Halloween: The Game Soundtrack (2026)",
+          "spotify_url": "https://open.spotify.com/album/7uDuxrGt3oHCi9pGUm0b84",
+          "apple_music_url": "https://music.apple.com/us/album/halloween-the-game-soundtrack-2026/1895730420",
           "album_link_url": ""
         }
       ]
