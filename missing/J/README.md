@@ -995,6 +995,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Rush Racing | 326268 | [326268-junkyard-rush-racing.json](./326268-junkyard-rush-racing.json) |
 | Juno and Hope Destroy Capitalism | 407357 | [407357-juno-and-hope-destroy-capitalism.json](./407357-juno-and-hope-destroy-capitalism.json) |
 | Juno Nemesis Remix | 73279 | [73279-juno-nemesis-remix.json](./73279-juno-nemesis-remix.json) |
+| Junsei Yasaotoko | 242072 | [242072-junsei-yasaotoko.json](./242072-junsei-yasaotoko.json) |
+| Junsei Yasaotoko Sweet & Bitter | 242073 | [242073-junsei-yasaotoko-sweet-and-bitter.json](./242073-junsei-yasaotoko-sweet-and-bitter.json) |
 | Jupiter | 313468 | [313468-jupiter.json](./313468-jupiter.json) |
 | Jupiter | 370136 | [370136-jupiter.json](./370136-jupiter.json) |
 | Jupiter Hell Classic | 321554 | [321554-jupiter-hell-classic.json](./321554-jupiter-hell-classic.json) |
