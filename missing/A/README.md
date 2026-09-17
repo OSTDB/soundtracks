@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
+| Address1 | 265648 | [265648-address1.json](./265648-address1.json) |
 | Adebana Sacrament: Seinaru Miwaza to Akuryoutsuki no Shoujo-tachi | 77948 | [77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json](./77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | ADHD Arena | 276860 | [276860-adhd-arena.json](./276860-adhd-arena.json) |
@@ -2725,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
 | Arcade Archives: XX Mission | 129194 | [129194-arcade-archives-xx-mission.json](./129194-arcade-archives-xx-mission.json) |
+| Arcade Archives: Zing Zing Zip | 265707 | [265707-arcade-archives-zing-zing-zip.json](./265707-arcade-archives-zing-zing-zip.json) |
 | Arcade Asylum | 276711 | [276711-arcade-asylum.json](./276711-arcade-asylum.json) |
 | Arcade Audience | 417501 | [417501-arcade-audience.json](./417501-arcade-audience.json) |
 | Arcade Basketball 3D Tournament Edition | 241611 | [241611-arcade-basketball-3d-tournament-edition.json](./241611-arcade-basketball-3d-tournament-edition.json) |
@@ -3934,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aura Aura Climber | 66985 | [66985-aura-aura-climber.json](./66985-aura-aura-climber.json) |
 | Aura Farmers | 329698 | [329698-aura-farmers.json](./329698-aura-farmers.json) |
 | Aura Kingdom | 8746 | [8746-aura-kingdom.json](./8746-aura-kingdom.json) |
+| Aura Kingdom 2: Evolution | 265752 | [265752-aura-kingdom-2-evolution.json](./265752-aura-kingdom-2-evolution.json) |
 | Aura Kingdom: Impact | 353913 | [353913-aura-kingdom-impact.json](./353913-aura-kingdom-impact.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aurail | 39618 | [39618-aurail.json](./39618-aurail.json) |
