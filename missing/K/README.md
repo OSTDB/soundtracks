@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami: The Great Guardian | 408034 | [408034-kami-the-great-guardian.json](./408034-kami-the-great-guardian.json) |
 | Kamigami no Asobi InFinite | 136474 | [136474-kamigami-no-asobi-infinite.json](./136474-kamigami-no-asobi-infinite.json) |
 | Kamigami no Asobi: Ludere Deorum | 125461 | [125461-kamigami-no-asobi-ludere-deorum.json](./125461-kamigami-no-asobi-ludere-deorum.json) |
+| Kamigami: Spirits of the Nature | 258004 | [258004-kamigami-spirits-of-the-nature.json](./258004-kamigami-spirits-of-the-nature.json) |
 | Kamiji | 264056 | [264056-kamiji.json](./264056-kamiji.json) |
 | Kamikakushi | 133395 | [133395-kamikakushi.json](./133395-kamikakushi.json) |
 | Kamikaze | 328057 | [328057-kamikaze.json](./328057-kamikaze.json) |
