@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Bamboo Adventure | 388196 | [388196-panda-bamboo-adventure.json](./388196-panda-bamboo-adventure.json) |
 | Panda Chase | 40738 | [40738-panda-chase.json](./40738-panda-chase.json) |
 | Panda Choice Mahjong | 263502 | [263502-panda-choice-mahjong.json](./263502-panda-choice-mahjong.json) |
+| Panda Go | 275118 | [275118-panda-go.json](./275118-panda-go.json) |
 | Panda Hero: Remastered | 143054 | [143054-panda-hero-remastered.json](./143054-panda-hero-remastered.json) |
 | Panda in the clouds | 165645 | [165645-panda-in-the-clouds.json](./165645-panda-in-the-clouds.json) |
 | Panda Legend | 214723 | [214723-panda-legend.json](./214723-panda-legend.json) |
@@ -806,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Ambition: The Sun Rise | 295375 | [295375-path-of-ambition-the-sun-rise.json](./295375-path-of-ambition-the-sun-rise.json) |
 | Path of Ascension | 259003 | [259003-path-of-ascension.json](./259003-path-of-ascension.json) |
 | Path of Destruction | 195773 | [195773-path-of-destruction.json](./195773-path-of-destruction.json) |
+| Path of Dragoon | 275127 | [275127-path-of-dragoon.json](./275127-path-of-dragoon.json) |
 | Path of Exile 2: The Last of the Druids | 378276 | [378276-path-of-exile-2-the-last-of-the-druids.json](./378276-path-of-exile-2-the-last-of-the-druids.json) |
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
 | Path of Exile: Settlers of Kalguur | 310958 | [310958-path-of-exile-settlers-of-kalguur.json](./310958-path-of-exile-settlers-of-kalguur.json) |
@@ -3398,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Plays | 60548 | [60548-power-plays.json](./60548-power-plays.json) |
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
 | Power Politics | 76590 | [76590-power-politics.json](./76590-power-politics.json) |
+| Power Punch | 275121 | [275121-power-punch.json](./275121-power-punch.json) |
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
 | Power Racing Bundle 3 | 152353 | [152353-power-racing-bundle-3.json](./152353-power-racing-bundle-3.json) |
 | Power Racing Bundle 4 | 409549 | [409549-power-racing-bundle-4.json](./409549-power-racing-bundle-4.json) |
@@ -3830,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Spirits 2019 | 109606 | [109606-pro-yakyuu-spirits-2019.json](./109606-pro-yakyuu-spirits-2019.json) |
 | Pro Yakyuu Team wo Tsukurou! | 69269 | [69269-pro-yakyuu-team-wo-tsukurou.json](./69269-pro-yakyuu-team-wo-tsukurou.json) |
 | Pro Yakyuu Team wo Tsukurou! 2 | 69271 | [69271-pro-yakyuu-team-wo-tsukurou-2.json](./69271-pro-yakyuu-team-wo-tsukurou-2.json) |
+| Pro Yakyuu: Greatest Nine 98 | 275140 | [275140-pro-yakyuu-greatest-nine-98.json](./275140-pro-yakyuu-greatest-nine-98.json) |
 | Pro-Mahjong Kiwame Next | 97873 | [97873-pro-mahjong-kiwame-next.json](./97873-pro-mahjong-kiwame-next.json) |
 | Probability 0 | 16739 | [16739-probability-0.json](./16739-probability-0.json) |
 | Probe One: The Transmitter | 24899 | [24899-probe-one-the-transmitter.json](./24899-probe-one-the-transmitter.json) |
@@ -4593,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Collection | 201256 | [201256-puzzle-collection.json](./201256-puzzle-collection.json) |
 | Puzzle Cozy | 386692 | [386692-puzzle-cozy.json](./386692-puzzle-cozy.json) |
 | Puzzle Craft | 47286 | [47286-puzzle-craft.json](./47286-puzzle-craft.json) |
+| Puzzle Cube | 275146 | [275146-puzzle-cube.json](./275146-puzzle-cube.json) |
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
 | Puzzle Dungeon | 62776 | [62776-puzzle-dungeon.json](./62776-puzzle-dungeon.json) |
 | Puzzle Escapes: Paws & Claws | 351097 | [351097-puzzle-escapes-paws-and-claws.json](./351097-puzzle-escapes-paws-and-claws.json) |
