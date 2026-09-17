@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orun | 411713 | [411713-orun.json](./411713-orun.json) |
 | Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
 | Os Cavaleiros do Zodíaco: A Lenda do Santuário - Cosmo Cards | 282131 | [282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json](./282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json) |
+| Os Trapalhões apresentam Didi na Mina Encantada! | 262416 | [262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json](./262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json) |
 | OS:Path | 97084 | [97084-os-path.json](./97084-os-path.json) |
 | Osaka's Dream | 325667 | [325667-osakas-dream.json](./325667-osakas-dream.json) |
 | Osananajimi Ojou-sama to H de Himitsu na Dousei Seikatsu | 396903 | [396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json](./396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json) |
