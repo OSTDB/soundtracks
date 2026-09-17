@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T21:02:59.771Z",
-  "total_missing": 84321,
+  "generated_at": "2026-09-17T21:17:39.998Z",
+  "total_missing": 84371,
   "games": [
     {
       "igdb_id": 273453,
@@ -1276,6 +1276,11 @@
       "igdb_id": 263010,
       "game_name": "16",
       "file": "missing/0-9/263010-16.json"
+    },
+    {
+      "igdb_id": 240342,
+      "game_name": "16 Balls: Pocket PachinGo!",
+      "file": "missing/0-9/240342-16-balls-pocket-pachingo.json"
     },
     {
       "igdb_id": 371335,
@@ -3441,6 +3446,11 @@
       "igdb_id": 251003,
       "game_name": "9 Lives",
       "file": "missing/0-9/251003-9-lives.json"
+    },
+    {
+      "igdb_id": 240352,
+      "game_name": "9 Maker",
+      "file": "missing/0-9/240352-9-maker.json"
     },
     {
       "igdb_id": 258564,
@@ -16088,6 +16098,11 @@
       "file": "missing/A/374123-apes-warfare.json"
     },
     {
+      "igdb_id": 240311,
+      "game_name": "Apes.io",
+      "file": "missing/A/240311-apes-io.json"
+    },
+    {
       "igdb_id": 5728,
       "game_name": "Apex",
       "file": "missing/A/5728-apex.json"
@@ -21416,6 +21431,11 @@
       "igdb_id": 350993,
       "game_name": "Assault at Wounded Ankle",
       "file": "missing/A/350993-assault-at-wounded-ankle.json"
+    },
+    {
+      "igdb_id": 240347,
+      "game_name": "Assault Bandit",
+      "file": "missing/A/240347-assault-bandit.json"
     },
     {
       "igdb_id": 371888,
@@ -33531,6 +33551,11 @@
       "igdb_id": 92471,
       "game_name": "Beetle Junior DS",
       "file": "missing/B/92471-beetle-junior-ds.json"
+    },
+    {
+      "igdb_id": 240338,
+      "game_name": "Beetle.io",
+      "file": "missing/B/240338-beetle-io.json"
     },
     {
       "igdb_id": 62197,
@@ -57473,6 +57498,11 @@
       "file": "missing/C/395048-channel-64.json"
     },
     {
+      "igdb_id": 240313,
+      "game_name": "Channel 7",
+      "file": "missing/C/240313-channel-7.json"
+    },
+    {
       "igdb_id": 356111,
       "game_name": "Channel Surfing",
       "file": "missing/C/356111-channel-surfing.json"
@@ -75308,6 +75338,11 @@
       "file": "missing/C/174819-cubes-crush-legend.json"
     },
     {
+      "igdb_id": 240339,
+      "game_name": "Cubes: Procedural Wonders",
+      "file": "missing/C/240339-cubes-procedural-wonders.json"
+    },
+    {
       "igdb_id": 339352,
       "game_name": "Cubey Quarry",
       "file": "missing/C/339352-cubey-quarry.json"
@@ -79931,6 +79966,11 @@
       "igdb_id": 356630,
       "game_name": "Dark Room",
       "file": "missing/D/356630-dark-room.json"
+    },
+    {
+      "igdb_id": 240346,
+      "game_name": "Dark Rooms",
+      "file": "missing/D/240346-dark-rooms.json"
     },
     {
       "igdb_id": 290909,
@@ -119483,6 +119523,11 @@
       "file": "missing/F/395014-fiets-together.json"
     },
     {
+      "igdb_id": 240317,
+      "game_name": "FIFA 09",
+      "file": "missing/F/240317-fifa-09.json"
+    },
+    {
       "igdb_id": 240422,
       "game_name": "FIFA 14",
       "file": "missing/F/240422-fifa-14.json"
@@ -119568,9 +119613,74 @@
       "file": "missing/F/20686-fifa-manager-13.json"
     },
     {
+      "igdb_id": 240356,
+      "game_name": "FIFA Soccer 06",
+      "file": "missing/F/240356-fifa-soccer-06.json"
+    },
+    {
       "igdb_id": 696,
       "game_name": "FIFA Soccer 07",
       "file": "missing/F/696-fifa-soccer-07.json"
+    },
+    {
+      "igdb_id": 240316,
+      "game_name": "FIFA Soccer 08",
+      "file": "missing/F/240316-fifa-soccer-08.json"
+    },
+    {
+      "igdb_id": 240319,
+      "game_name": "FIFA Soccer 08",
+      "file": "missing/F/240319-fifa-soccer-08.json"
+    },
+    {
+      "igdb_id": 240320,
+      "game_name": "FIFA Soccer 08",
+      "file": "missing/F/240320-fifa-soccer-08.json"
+    },
+    {
+      "igdb_id": 240323,
+      "game_name": "FIFA Soccer 09",
+      "file": "missing/F/240323-fifa-soccer-09.json"
+    },
+    {
+      "igdb_id": 240325,
+      "game_name": "FIFA Soccer 09",
+      "file": "missing/F/240325-fifa-soccer-09.json"
+    },
+    {
+      "igdb_id": 240327,
+      "game_name": "FIFA Soccer 09",
+      "file": "missing/F/240327-fifa-soccer-09.json"
+    },
+    {
+      "igdb_id": 240328,
+      "game_name": "FIFA Soccer 09",
+      "file": "missing/F/240328-fifa-soccer-09.json"
+    },
+    {
+      "igdb_id": 240331,
+      "game_name": "FIFA Soccer 10",
+      "file": "missing/F/240331-fifa-soccer-10.json"
+    },
+    {
+      "igdb_id": 240332,
+      "game_name": "FIFA Soccer 10",
+      "file": "missing/F/240332-fifa-soccer-10.json"
+    },
+    {
+      "igdb_id": 240333,
+      "game_name": "FIFA Soccer 10",
+      "file": "missing/F/240333-fifa-soccer-10.json"
+    },
+    {
+      "igdb_id": 240334,
+      "game_name": "FIFA Soccer 10",
+      "file": "missing/F/240334-fifa-soccer-10.json"
+    },
+    {
+      "igdb_id": 240336,
+      "game_name": "FIFA Soccer 10",
+      "file": "missing/F/240336-fifa-soccer-10.json"
     },
     {
       "igdb_id": 503,
@@ -123323,6 +123433,11 @@
       "file": "missing/F/283679-five-nights-at-freddys-into-the-pit.json"
     },
     {
+      "igdb_id": 240312,
+      "game_name": "Five Nights at Freddy's: Killer Night",
+      "file": "missing/F/240312-five-nights-at-freddys-killer-night.json"
+    },
+    {
       "igdb_id": 275905,
       "game_name": "Five Nights At Freddy's: Nightshift",
       "file": "missing/F/275905-five-nights-at-freddys-nightshift.json"
@@ -125091,6 +125206,11 @@
       "igdb_id": 153377,
       "game_name": "Florida Man: Hurricane Hijinks",
       "file": "missing/F/153377-florida-man-hurricane-hijinks.json"
+    },
+    {
+      "igdb_id": 240307,
+      "game_name": "Florifer",
+      "file": "missing/F/240307-florifer.json"
     },
     {
       "igdb_id": 103480,
@@ -157363,6 +157483,11 @@
       "file": "missing/H/98390-hidden-object-crazy-hearts.json"
     },
     {
+      "igdb_id": 240340,
+      "game_name": "Hidden Object: Crime in Penthouse Special Edition",
+      "file": "missing/H/240340-hidden-object-crime-in-penthouse-special-edition.json"
+    },
+    {
       "igdb_id": 98385,
       "game_name": "Hidden Object: Deck the Halls",
       "file": "missing/H/98385-hidden-object-deck-the-halls.json"
@@ -173001,6 +173126,11 @@
       "igdb_id": 388935,
       "game_name": "Iris",
       "file": "missing/I/388935-iris.json"
+    },
+    {
+      "igdb_id": 240337,
+      "game_name": "Iris and the Giant: Deluxe Soundtrack Edition",
+      "file": "missing/I/240337-iris-and-the-giant-deluxe-soundtrack-edition.json"
     },
     {
       "igdb_id": 337116,
@@ -193203,6 +193333,26 @@
       "file": "missing/L/239310-lemmings.json"
     },
     {
+      "igdb_id": 240318,
+      "game_name": "Lemmings",
+      "file": "missing/L/240318-lemmings.json"
+    },
+    {
+      "igdb_id": 240322,
+      "game_name": "Lemmings",
+      "file": "missing/L/240322-lemmings.json"
+    },
+    {
+      "igdb_id": 240324,
+      "game_name": "Lemmings",
+      "file": "missing/L/240324-lemmings.json"
+    },
+    {
+      "igdb_id": 240326,
+      "game_name": "Lemmings",
+      "file": "missing/L/240326-lemmings.json"
+    },
+    {
       "igdb_id": 242242,
       "game_name": "Lemmings & Oh No! More Lemmings",
       "file": "missing/L/242242-lemmings-and-oh-no-more-lemmings.json"
@@ -201393,6 +201543,11 @@
       "file": "missing/L/89583-ludo-online.json"
     },
     {
+      "igdb_id": 240349,
+      "game_name": "Ludo Saga",
+      "file": "missing/L/240349-ludo-saga.json"
+    },
+    {
       "igdb_id": 91343,
       "game_name": "Ludo Ultimate Online Dice Game",
       "file": "missing/L/91343-ludo-ultimate-online-dice-game.json"
@@ -207228,6 +207383,16 @@
       "file": "missing/M/401013-mario-rabbids-sparks-of-hope-galactic-prestige-bundle.json"
     },
     {
+      "igdb_id": 240306,
+      "game_name": "Mario + Rabbids Sparks of Hope: Rayman in the Phantom Show",
+      "file": "missing/M/240306-mario-rabbids-sparks-of-hope-rayman-in-the-phantom-show.json"
+    },
+    {
+      "igdb_id": 240308,
+      "game_name": "Mario + Rabbids Sparks of Hope: Season Pass",
+      "file": "missing/M/240308-mario-rabbids-sparks-of-hope-season-pass.json"
+    },
+    {
       "igdb_id": 318037,
       "game_name": "Mario + Wario Complete",
       "file": "missing/M/318037-mario-wario-complete.json"
@@ -210111,6 +210276,11 @@
       "igdb_id": 46643,
       "game_name": "Math Castle",
       "file": "missing/M/46643-math-castle.json"
+    },
+    {
+      "igdb_id": 240343,
+      "game_name": "Math Challenge: Workout Brain",
+      "file": "missing/M/240343-math-challenge-workout-brain.json"
     },
     {
       "igdb_id": 232178,
@@ -242408,6 +242578,11 @@
       "file": "missing/N/299170-nutty.json"
     },
     {
+      "igdb_id": 240329,
+      "game_name": "Nutty Noon",
+      "file": "missing/N/240329-nutty-noon.json"
+    },
+    {
       "igdb_id": 302942,
       "game_name": "Nutz Revenge",
       "file": "missing/N/302942-nutz-revenge.json"
@@ -261133,6 +261308,11 @@
       "file": "missing/P/356068-piper.json"
     },
     {
+      "igdb_id": 240354,
+      "game_name": "Pipes Maze",
+      "file": "missing/P/240354-pipes-maze.json"
+    },
+    {
       "igdb_id": 315712,
       "game_name": "Pipkin",
       "file": "missing/P/315712-pipkin.json"
@@ -274803,6 +274983,11 @@
       "file": "missing/P/262657-puzzle-by-nikoli-w-kakuro.json"
     },
     {
+      "igdb_id": 240351,
+      "game_name": "Puzzle Cats",
+      "file": "missing/P/240351-puzzle-cats.json"
+    },
+    {
       "igdb_id": 292140,
       "game_name": "Puzzle Chasers",
       "file": "missing/P/292140-puzzle-chasers.json"
@@ -281291,6 +281476,11 @@
       "igdb_id": 23010,
       "game_name": "Real World Golf 2007",
       "file": "missing/R/23010-real-world-golf-2007.json"
+    },
+    {
+      "igdb_id": 240353,
+      "game_name": "Real World RC",
+      "file": "missing/R/240353-real-world-rc.json"
     },
     {
       "igdb_id": 251846,
@@ -306518,6 +306708,21 @@
       "file": "missing/S/283772-shikhondo-youkai-rampage.json"
     },
     {
+      "igdb_id": 240303,
+      "game_name": "Shiki Oni no Koku: Chuugoku-hen - Dainishou",
+      "file": "missing/S/240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json"
+    },
+    {
+      "igdb_id": 240304,
+      "game_name": "Shiki Oni no Koku: Chuugoku-hen - Daisanshou",
+      "file": "missing/S/240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json"
+    },
+    {
+      "igdb_id": 240305,
+      "game_name": "Shiki Oni no Koku: Chuugoku-hen - Daiyonshou",
+      "file": "missing/S/240305-shiki-oni-no-koku-chuugoku-hen-daiyonshou.json"
+    },
+    {
       "igdb_id": 93616,
       "game_name": "Shiki-Tei",
       "file": "missing/S/93616-shiki-tei.json"
@@ -315603,6 +315808,11 @@
       "file": "missing/S/70996-snaky-snake.json"
     },
     {
+      "igdb_id": 240341,
+      "game_name": "Snaky Squares",
+      "file": "missing/S/240341-snaky-squares.json"
+    },
+    {
       "igdb_id": 264624,
       "game_name": "Snaky Survivor",
       "file": "missing/S/264624-snaky-survivor.json"
@@ -317161,6 +317371,11 @@
       "igdb_id": 96888,
       "game_name": "Sok Min",
       "file": "missing/S/96888-sok-min.json"
+    },
+    {
+      "igdb_id": 240314,
+      "game_name": "Sokfest",
+      "file": "missing/S/240314-sokfest.json"
     },
     {
       "igdb_id": 165073,
@@ -324238,6 +324453,11 @@
       "file": "missing/S/323188-speed-guess-something.json"
     },
     {
+      "igdb_id": 240355,
+      "game_name": "Speed High",
+      "file": "missing/S/240355-speed-high.json"
+    },
+    {
       "igdb_id": 233514,
       "game_name": "Speed Intense Island",
       "file": "missing/S/233514-speed-intense-island.json"
@@ -324731,6 +324951,11 @@
       "igdb_id": 47952,
       "game_name": "Spelling Challenges",
       "file": "missing/S/47952-spelling-challenges.json"
+    },
+    {
+      "igdb_id": 240344,
+      "game_name": "Spelling Go!",
+      "file": "missing/S/240344-spelling-go.json"
     },
     {
       "igdb_id": 400896,
@@ -331291,6 +331516,11 @@
       "igdb_id": 211943,
       "game_name": "Steel Tower Swordmaster",
       "file": "missing/S/211943-steel-tower-swordmaster.json"
+    },
+    {
+      "igdb_id": 240350,
+      "game_name": "Steel Wool Studios Bundle",
+      "file": "missing/S/240350-steel-wool-studios-bundle.json"
     },
     {
       "igdb_id": 299481,
@@ -360423,6 +360653,11 @@
       "file": "missing/T/17440-the-house.json"
     },
     {
+      "igdb_id": 240315,
+      "game_name": "The House",
+      "file": "missing/T/240315-the-house.json"
+    },
+    {
       "igdb_id": 352303,
       "game_name": "The House",
       "file": "missing/T/352303-the-house.json"
@@ -389243,6 +389478,11 @@
       "file": "missing/T/212164-turbo-kid.json"
     },
     {
+      "igdb_id": 240348,
+      "game_name": "Turbo Kids",
+      "file": "missing/T/240348-turbo-kids.json"
+    },
+    {
       "igdb_id": 266204,
       "game_name": "Turbo Leaper",
       "file": "missing/T/266204-turbo-leaper.json"
@@ -406148,6 +406388,11 @@
       "file": "missing/W/343252-westfall.json"
     },
     {
+      "igdb_id": 240321,
+      "game_name": "Westgrove",
+      "file": "missing/W/240321-westgrove.json"
+    },
+    {
       "igdb_id": 257681,
       "game_name": "WestHalla",
       "file": "missing/W/257681-westhalla.json"
@@ -411871,6 +412116,11 @@
       "igdb_id": 314664,
       "game_name": "Words Guesser",
       "file": "missing/W/314664-words-guesser.json"
+    },
+    {
+      "igdb_id": 240345,
+      "game_name": "Words N Words",
+      "file": "missing/W/240345-words-n-words.json"
     },
     {
       "igdb_id": 245329,
