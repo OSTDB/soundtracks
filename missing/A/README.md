@@ -1719,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us: Impostor Edition | 155094 | [155094-among-us-impostor-edition.json](./155094-among-us-impostor-edition.json) |
 | Amorous Professor Cherry | 72634 | [72634-amorous-professor-cherry.json](./72634-amorous-professor-cherry.json) |
 | Amorphous | 128658 | [128658-amorphous.json](./128658-amorphous.json) |
+| Amorphous | 265242 | [265242-amorphous.json](./265242-amorphous.json) |
 | Amour Libre: Free Love | 129794 | [129794-amour-libre-free-love.json](./129794-amour-libre-free-love.json) |
 | Amped 3 | 5483 | [5483-amped-3.json](./5483-amped-3.json) |
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
