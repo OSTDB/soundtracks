@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Tethys | 103256 | [103256-escape-from-tethys.json](./103256-escape-from-tethys.json) |
 | Escape from the Abandoned Outpost | 273669 | [273669-escape-from-the-abandoned-outpost.json](./273669-escape-from-the-abandoned-outpost.json) |
 | Escape from the Cannibal Family | 301246 | [301246-escape-from-the-cannibal-family.json](./301246-escape-from-the-cannibal-family.json) |
+| Escape from the Collector | 262488 | [262488-escape-from-the-collector.json](./262488-escape-from-the-collector.json) |
 | Escape From the Dark | 196285 | [196285-escape-from-the-dark.json](./196285-escape-from-the-dark.json) |
 | Escape From the Dragons | 111686 | [111686-escape-from-the-dragons.json](./111686-escape-from-the-dragons.json) |
 | Escape From the Hospital | 100742 | [100742-escape-from-the-hospital.json](./100742-escape-from-the-hospital.json) |
@@ -1608,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ether Saga Online | 51195 | [51195-ether-saga-online.json](./51195-ether-saga-online.json) |
 | Ethereal: Clash of Souls | 127325 | [127325-ethereal-clash-of-souls.json](./127325-ethereal-clash-of-souls.json) |
 | Ethereal: New Moon | 244779 | [244779-ethereal-new-moon.json](./244779-ethereal-new-moon.json) |
+| Etherena Beta | 262495 | [262495-etherena-beta.json](./262495-etherena-beta.json) |
 | Etherion Online | 239650 | [239650-etherion-online.json](./239650-etherion-online.json) |
 | Etherium | 401481 | [401481-etherium.json](./401481-etherium.json) |
 | Etherjump | 219071 | [219071-etherjump.json](./219071-etherjump.json) |
@@ -1878,6 +1880,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoBots | 315713 | [315713-evobots.json](./315713-evobots.json) |
 | Evocation | 107817 | [107817-evocation.json](./107817-evocation.json) |
 | Evocation | 270116 | [270116-evocation.json](./270116-evocation.json) |
+| Evocation 2: The Dream | 262409 | [262409-evocation-2-the-dream.json](./262409-evocation-2-the-dream.json) |
+| Evocation: Beyond the Dream | 262408 | [262408-evocation-beyond-the-dream.json](./262408-evocation-beyond-the-dream.json) |
 | Evocation: Oltre il Sogno | 242533 | [242533-evocation-oltre-il-sogno.json](./242533-evocation-oltre-il-sogno.json) |
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
 | Evoids | 331434 | [331434-evoids.json](./331434-evoids.json) |
@@ -2112,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Custom Night | 277965 | [277965-extreme-custom-night.json](./277965-extreme-custom-night.json) |
 | Extreme Cycling | 330189 | [330189-extreme-cycling.json](./330189-extreme-cycling.json) |
 | Extreme Cycling Championship | 406796 | [406796-extreme-cycling-championship.json](./406796-extreme-cycling-championship.json) |
+| Extreme Dash | 262468 | [262468-extreme-dash.json](./262468-extreme-dash.json) |
 | Extreme flight | 118411 | [118411-extreme-flight.json](./118411-extreme-flight.json) |
 | Extreme Formula Championship | 101592 | [101592-extreme-formula-championship.json](./101592-extreme-formula-championship.json) |
 | Extreme Ghostbusters: Code Ecto-1 | 129158 | [129158-extreme-ghostbusters-code-ecto-1.json](./129158-extreme-ghostbusters-code-ecto-1.json) |
