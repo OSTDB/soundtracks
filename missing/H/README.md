@@ -620,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon DS: Island of Happiness | 3387 | [3387-harvest-moon-ds-island-of-happiness.json](./3387-harvest-moon-ds-island-of-happiness.json) |
 | Harvest Moon: A Wonderful Life | 3384 | [3384-harvest-moon-a-wonderful-life.json](./3384-harvest-moon-a-wonderful-life.json) |
 | Harvest Moon: A Wonderful Life Special Edition | 20482 | [20482-harvest-moon-a-wonderful-life-special-edition.json](./20482-harvest-moon-a-wonderful-life-special-edition.json) |
+| Harvest Moon: Back to Nature | 239201 | [239201-harvest-moon-back-to-nature.json](./239201-harvest-moon-back-to-nature.json) |
 | Harvest Moon: Back to Nature | 3380 | [3380-harvest-moon-back-to-nature.json](./3380-harvest-moon-back-to-nature.json) |
 | Harvest Moon: Echoes of Teradea | 400976 | [400976-harvest-moon-echoes-of-teradea.json](./400976-harvest-moon-echoes-of-teradea.json) |
 | Harvest Moon: Hero of Leaf Valley | 42887 | [42887-harvest-moon-hero-of-leaf-valley.json](./42887-harvest-moon-hero-of-leaf-valley.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heatchain | 278404 | [278404-heatchain.json](./278404-heatchain.json) |
 | Heated | 211220 | [211220-heated.json](./211220-heated.json) |
 | Heated Battles Shooter | 143005 | [143005-heated-battles-shooter.json](./143005-heated-battles-shooter.json) |
+| Heath Robinson Solutions | 239152 | [239152-heath-robinson-solutions.json](./239152-heath-robinson-solutions.json) |
 | Heathcliff: Fun with Spelling | 325097 | [325097-heathcliff-fun-with-spelling.json](./325097-heathcliff-fun-with-spelling.json) |
 | Heathen | 401473 | [401473-heathen.json](./401473-heathen.json) |
 | Heathkit DND | 2881 | [2881-heathkit-dnd.json](./2881-heathkit-dnd.json) |
