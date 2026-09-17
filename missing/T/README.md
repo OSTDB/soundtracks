@@ -4153,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rift | 343276 | [343276-the-rift.json](./343276-the-rift.json) |
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
 | The Rings of Powder: The Weird World of the Elves | 285469 | [285469-the-rings-of-powder-the-weird-world-of-the-elves.json](./285469-the-rings-of-powder-the-weird-world-of-the-elves.json) |
+| The Ripper | 282726 | [282726-the-ripper.json](./282726-the-ripper.json) |
 | The Rise of the Golden Idol | 279614 | [279614-the-rise-of-the-golden-idol.json](./279614-the-rise-of-the-golden-idol.json) |
 | The Rise of Tianling Sect | 369584 | [369584-the-rise-of-tianling-sect.json](./369584-the-rise-of-tianling-sect.json) |
 | The Rising | 284907 | [284907-the-rising.json](./284907-the-rising.json) |
@@ -6987,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totenkampf: Anime Waifus vs WW2 Zombies | 398414 | [398414-totenkampf-anime-waifus-vs-ww2-zombies.json](./398414-totenkampf-anime-waifus-vs-ww2-zombies.json) |
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
 | Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
+| Totsugeki! Pappara-tai | 282680 | [282680-totsugeki-pappara-tai.json](./282680-totsugeki-pappara-tai.json) |
 | Tottemo E Mahjong Plus | 62115 | [62115-tottemo-e-mahjong-plus.json](./62115-tottemo-e-mahjong-plus.json) |
 | Tottemo! Luckyman: Lucky Cookie Roulette de Totsugeki | 37783 | [37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json](./37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json) |
 | Totto's Magic Soup | 353293 | [353293-tottos-magic-soup.json](./353293-tottos-magic-soup.json) |
@@ -8365,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuppari Concert | 385724 | [385724-tsuppari-concert.json](./385724-tsuppari-concert.json) |
 | Tsuppari Oozumou: Risshin Shusse-hen | 37780 | [37780-tsuppari-oozumou-risshin-shusse-hen.json](./37780-tsuppari-oozumou-risshin-shusse-hen.json) |
 | Tsurezure Nikki | 163362 | [163362-tsurezure-nikki.json](./163362-tsurezure-nikki.json) |
+| Tsuri Sensei 2 | 282706 | [282706-tsuri-sensei-2.json](./282706-tsuri-sensei-2.json) |
 | Tsuri Tarou | 37779 | [37779-tsuri-tarou.json](./37779-tsuri-tarou.json) |
 | Tsuru Teruhito no Jissen Kabushiki Bi-Game | 59431 | [59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json](./59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json) |
 | Tsuukai Gyaguabanchuuru: Naruto Maki Hichou | 67264 | [67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json](./67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json) |
