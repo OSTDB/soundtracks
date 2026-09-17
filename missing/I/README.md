@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Had the Strangest Dream, Ivan | 201327 | [201327-i-had-the-strangest-dream-ivan.json](./201327-i-had-the-strangest-dream-ivan.json) |
 | I Hate Heroes | 98988 | [98988-i-hate-heroes.json](./98988-i-hate-heroes.json) |
 | I hate this game | 114278 | [114278-i-hate-this-game.json](./114278-i-hate-this-game.json) |
+| I Have a Dream | 255703 | [255703-i-have-a-dream.json](./255703-i-have-a-dream.json) |
 | I Have an Item | 384113 | [384113-i-have-an-item.json](./384113-i-have-an-item.json) |
 | I Have Died | 375956 | [375956-i-have-died.json](./375956-i-have-died.json) |
 | I Have Hired This Anime Girl to Talk to You | 275003 | [275003-i-have-hired-this-anime-girl-to-talk-to-you.json](./275003-i-have-hired-this-anime-girl-to-talk-to-you.json) |
@@ -423,12 +424,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Human | 204484 | [204484-idle-human.json](./204484-idle-human.json) |
 | Idle Human 2 | 204486 | [204486-idle-human-2.json](./204486-idle-human-2.json) |
 | Idle Immortal | 409663 | [409663-idle-immortal.json](./409663-idle-immortal.json) |
+| Idle Industries | 255701 | [255701-idle-industries.json](./255701-idle-industries.json) |
 | Idle Inventor: Factory Tycoon | 167288 | [167288-idle-inventor-factory-tycoon.json](./167288-idle-inventor-factory-tycoon.json) |
 | Idle Kitchen Tycoon | 237642 | [237642-idle-kitchen-tycoon.json](./237642-idle-kitchen-tycoon.json) |
 | Idle Knight RPG | 306693 | [306693-idle-knight-rpg.json](./306693-idle-knight-rpg.json) |
 | Idle Land of Exile | 348849 | [348849-idle-land-of-exile.json](./348849-idle-land-of-exile.json) |
+| Idle Lemonade Tycoon Empire | 255802 | [255802-idle-lemonade-tycoon-empire.json](./255802-idle-lemonade-tycoon-empire.json) |
 | Idle Luca | 193999 | [193999-idle-luca.json](./193999-idle-luca.json) |
 | Idle magic herb | 215681 | [215681-idle-magic-herb.json](./215681-idle-magic-herb.json) |
+| Idle Mining Company | 255801 | [255801-idle-mining-company.json](./255801-idle-mining-company.json) |
 | Idle Mining Empire | 218700 | [218700-idle-mining-empire.json](./218700-idle-mining-empire.json) |
 | Idle Monkey Theorem | 386843 | [386843-idle-monkey-theorem.json](./386843-idle-monkey-theorem.json) |
 | Idle Monkeylogy | 165637 | [165637-idle-monkeylogy.json](./165637-idle-monkeylogy.json) |
@@ -445,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Realms: The Eternal Spire | 403657 | [403657-idle-realms-the-eternal-spire.json](./403657-idle-realms-the-eternal-spire.json) |
 | Idle Regenerator | 408041 | [408041-idle-regenerator.json](./408041-idle-regenerator.json) |
 | Idle Roboto | 152888 | [152888-idle-roboto.json](./152888-idle-roboto.json) |
+| Idle Robots | 255795 | [255795-idle-robots.json](./255795-idle-robots.json) |
 | Idle RPG: The Game is Bugged! | 292135 | [292135-idle-rpg-the-game-is-bugged.json](./292135-idle-rpg-the-game-is-bugged.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
 | Idle School Simulator | 299903 | [299903-idle-school-simulator.json](./299903-idle-school-simulator.json) |
