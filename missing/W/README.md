@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbanners: Death Speaker | 172143 | [172143-warbanners-death-speaker.json](./172143-warbanners-death-speaker.json) |
 | WarBirds II | 72094 | [72094-warbirds-ii.json](./72094-warbirds-ii.json) |
 | WarBirds III | 71557 | [71557-warbirds-iii.json](./71557-warbirds-iii.json) |
+| Warbits+ | 245923 | [245923-warbits.json](./245923-warbits.json) |
 | Warborn: Variable Armour Command | 112598 | [112598-warborn-variable-armour-command.json](./112598-warborn-variable-armour-command.json) |
 | Warborne: Above Ashes | 333102 | [333102-warborne-above-ashes.json](./333102-warborne-above-ashes.json) |
 | Warbot Engineer | 337458 | [337458-warbot-engineer.json](./337458-warbot-engineer.json) |
