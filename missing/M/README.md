@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
 | Mail Plane | 41981 | [41981-mail-plane.json](./41981-mail-plane.json) |
 | Mail Rabbit | 176417 | [176417-mail-rabbit.json](./176417-mail-rabbit.json) |
+| Mail Tail | 236932 | [236932-mail-tail.json](./236932-mail-tail.json) |
 | Mail To The Moon | 362336 | [362336-mail-to-the-moon.json](./362336-mail-to-the-moon.json) |
 | Mailbag Mayhem | 62191 | [62191-mailbag-mayhem.json](./62191-mailbag-mayhem.json) |
 | Mailfrog | 178040 | [178040-mailfrog.json](./178040-mailfrog.json) |
@@ -652,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make it! Oden | 328503 | [328503-make-it-oden.json](./328503-make-it-oden.json) |
 | Make it! Shaved Ice | 409545 | [409545-make-it-shaved-ice.json](./409545-make-it-shaved-ice.json) |
 | Make Magic Great Again | 391031 | [391031-make-magic-great-again.json](./391031-make-magic-great-again.json) |
+| Make me Float | 236959 | [236959-make-me-float.json](./236959-make-me-float.json) |
 | Make Merits in Another World | 370193 | [370193-make-merits-in-another-world.json](./370193-make-merits-in-another-world.json) |
 | Make Moku Proud | 395568 | [395568-make-moku-proud.json](./395568-make-moku-proud.json) |
 | Make My Life Worse | 318788 | [318788-make-my-life-worse.json](./318788-make-my-life-worse.json) |
@@ -1383,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask of Fury | 125434 | [125434-mask-of-fury.json](./125434-mask-of-fury.json) |
 | Mask of Sanity | 121696 | [121696-mask-of-sanity.json](./121696-mask-of-sanity.json) |
 | Mask of the Plague Doctor | 129712 | [129712-mask-of-the-plague-doctor.json](./129712-mask-of-the-plague-doctor.json) |
+| Mask Quest | 236934 | [236934-mask-quest.json](./236934-mask-quest.json) |
 | Mask: Beyond Lies | 255988 | [255988-mask-beyond-lies.json](./255988-mask-beyond-lies.json) |
 | Maskarable | 315108 | [315108-maskarable.json](./315108-maskarable.json) |
 | Masked | 120940 | [120940-masked.json](./120940-masked.json) |
