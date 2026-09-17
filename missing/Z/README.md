@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombobox: Bredo Story | 405602 | [405602-zombobox-bredo-story.json](./405602-zombobox-bredo-story.json) |
 | Zombocalypse | 345559 | [345559-zombocalypse.json](./345559-zombocalypse.json) |
 | Zombotron | 77488 | [77488-zombotron.json](./77488-zombotron.json) |
+| Zombotron Re-Boot | 275690 | [275690-zombotron-re-boot.json](./275690-zombotron-re-boot.json) |
 | Zombreak: The Last Escape | 250970 | [250970-zombreak-the-last-escape.json](./250970-zombreak-the-last-escape.json) |
 | Zombs.io | 76570 | [76570-zombs-io.json](./76570-zombs-io.json) |
 | Zompiercer | 132247 | [132247-zompiercer.json](./132247-zompiercer.json) |
