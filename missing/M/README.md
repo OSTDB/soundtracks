@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| M City | 274555 | [274555-m-city.json](./274555-m-city.json) |
 | M Hard | 257654 | [257654-m-hard.json](./257654-m-hard.json) |
 | M Hold'em | 247198 | [247198-m-holdem.json](./247198-m-holdem.json) |
 | M-79 Ambush | 123021 | [123021-m-79-ambush.json](./123021-m-79-ambush.json) |
@@ -454,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
 | Mago | 120365 | [120365-mago.json](./120365-mago.json) |
 | Magocracy | 70339 | [70339-magocracy.json](./70339-magocracy.json) |
+| Magret & FaceDeBouc | 274574 | [274574-magret-and-facedebouc.json](./274574-magret-and-facedebouc.json) |
 | MaguMagu Pro | 165074 | [165074-magumagu-pro.json](./165074-magumagu-pro.json) |
 | Maguntsche: Chapter One Remastered | 168859 | [168859-maguntsche-chapter-one-remastered.json](./168859-maguntsche-chapter-one-remastered.json) |
 | Maguntsche: Chapter Two | 371971 | [371971-maguntsche-chapter-two.json](./371971-maguntsche-chapter-two.json) |
@@ -2348,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Dotey | 226774 | [226774-merge-dotey.json](./226774-merge-dotey.json) |
 | Merge Duck 2 | 224001 | [224001-merge-duck-2.json](./224001-merge-duck-2.json) |
 | Merge Empires | 139379 | [139379-merge-empires.json](./139379-merge-empires.json) |
+| Merge ETO | 274553 | [274553-merge-eto.json](./274553-merge-eto.json) |
 | Merge Fellas | 281409 | [281409-merge-fellas.json](./281409-merge-fellas.json) |
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
 | Merge Gangster Heist vs. Police | 245348 | [245348-merge-gangster-heist-vs-police.json](./245348-merge-gangster-heist-vs-police.json) |
