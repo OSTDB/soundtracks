@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haluz 2 | 322787 | [322787-haluz-2.json](./322787-haluz-2.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
 | Hamb: Rotari | 402916 | [402916-hamb-rotari.json](./402916-hamb-rotari.json) |
+| Hamboy: AutoChess Survivor | 257436 | [257436-hamboy-autochess-survivor.json](./257436-hamboy-autochess-survivor.json) |
 | Hamburger | 346059 | [346059-hamburger.json](./346059-hamburger.json) |
 | Hamekomi Lucky Puzzle Wii Returns | 344484 | [344484-hamekomi-lucky-puzzle-wii-returns.json](./344484-hamekomi-lucky-puzzle-wii-returns.json) |
 | Hamelin | 229364 | [229364-hamelin.json](./229364-hamelin.json) |
@@ -990,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hebereke's Popoon | 42610 | [42610-heberekes-popoon.json](./42610-heberekes-popoon.json) |
 | Hebi no Inochi | 288873 | [288873-hebi-no-inochi.json](./288873-hebi-no-inochi.json) |
 | Hecatomb | 398404 | [398404-hecatomb.json](./398404-hecatomb.json) |
+| Hector The Cat: Treasure Hunter | 257437 | [257437-hector-the-cat-treasure-hunter.json](./257437-hector-the-cat-treasure-hunter.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
