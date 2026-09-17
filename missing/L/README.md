@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
 | Lambda Fortress | 345541 | [345541-lambda-fortress.json](./345541-lambda-fortress.json) |
 | Lambdarune | 351685 | [351685-lambdarune.json](./351685-lambdarune.json) |
+| Lambo Jump | 234711 | [234711-lambo-jump.json](./234711-lambo-jump.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
 | Lamia 1999 | 123022 | [123022-lamia-1999.json](./123022-lamia-1999.json) |
 | Lamia's Bambina | 240783 | [240783-lamias-bambina.json](./240783-lamias-bambina.json) |
