@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Stella | 403011 | [403011-echoes-of-stella.json](./403011-echoes-of-stella.json) |
 | Echoes of the Abyss | 290524 | [290524-echoes-of-the-abyss.json](./290524-echoes-of-the-abyss.json) |
 | Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
+| Echoes of the Forgotten | 251006 | [251006-echoes-of-the-forgotten.json](./251006-echoes-of-the-forgotten.json) |
 | Echoes of the Hive | 373523 | [373523-echoes-of-the-hive.json](./373523-echoes-of-the-hive.json) |
 | Echoes of the Hollow | 393635 | [393635-echoes-of-the-hollow.json](./393635-echoes-of-the-hollow.json) |
 | Echoes of the Past | 168391 | [168391-echoes-of-the-past.json](./168391-echoes-of-the-past.json) |
@@ -701,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ELOA: Elite Lord of Alliance | 26535 | [26535-eloa-elite-lord-of-alliance.json](./26535-eloa-elite-lord-of-alliance.json) |
 | Elon and the Divine Proof | 326066 | [326066-elon-and-the-divine-proof.json](./326066-elon-and-the-divine-proof.json) |
 | Elon on Mars | 120997 | [120997-elon-on-mars.json](./120997-elon-on-mars.json) |
+| Elon Simulator VR | 250994 | [250994-elon-simulator-vr.json](./250994-elon-simulator-vr.json) |
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
 | Elon's Dream | 157210 | [157210-elons-dream.json](./157210-elons-dream.json) |
 | Elon's Last Chance | 274545 | [274545-elons-last-chance.json](./274545-elons-last-chance.json) |
@@ -1230,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
 | EpicMafia | 57075 | [57075-epicmafia.json](./57075-epicmafia.json) |
 | Epicure | 133363 | [133363-epicure.json](./133363-epicure.json) |
+| Epidemic Escape: A Race for the Cure | 250989 | [250989-epidemic-escape-a-race-for-the-cure.json](./250989-epidemic-escape-a-race-for-the-cure.json) |
 | Epido | 127947 | [127947-epido.json](./127947-epido.json) |
 | Epido: Second Move | 127946 | [127946-epido-second-move.json](./127946-epido-second-move.json) |
 | Epigenesis | 16576 | [16576-epigenesis.json](./16576-epigenesis.json) |
