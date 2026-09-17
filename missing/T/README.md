@@ -3033,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hotel 2 | 118436 | [118436-the-hotel-2.json](./118436-the-hotel-2.json) |
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
 | The House | 17440 | [17440-the-house.json](./17440-the-house.json) |
+| The House | 240315 | [240315-the-house.json](./240315-the-house.json) |
 | The House | 352303 | [352303-the-house.json](./352303-the-house.json) |
 | The House Before | 189124 | [189124-the-house-before.json](./189124-the-house-before.json) |
 | The House in Fata Morgana: A Requiem for Innocence | 56006 | [56006-the-house-in-fata-morgana-a-requiem-for-innocence.json](./56006-the-house-in-fata-morgana-a-requiem-for-innocence.json) |
@@ -8797,6 +8798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
 | Turbo Hovercraft | 359418 | [359418-turbo-hovercraft.json](./359418-turbo-hovercraft.json) |
 | Turbo Kid | 212164 | [212164-turbo-kid.json](./212164-turbo-kid.json) |
+| Turbo Kids | 240348 | [240348-turbo-kids.json](./240348-turbo-kids.json) |
 | Turbo Leaper | 266204 | [266204-turbo-leaper.json](./266204-turbo-leaper.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
 | Turbo OutRun | 2053 | [2053-turbo-outrun.json](./2053-turbo-outrun.json) |
