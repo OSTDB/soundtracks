@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Lost Someone | 362296 | [362296-i-lost-someone.json](./362296-i-lost-someone.json) |
 | I Love Finding Birds | 236500 | [236500-i-love-finding-birds.json](./236500-i-love-finding-birds.json) |
 | I Love Finding Birds: Collector's Edition | 248656 | [248656-i-love-finding-birds-collectors-edition.json](./248656-i-love-finding-birds-collectors-edition.json) |
+| I Love Finding Cats & Pups | 256341 | [256341-i-love-finding-cats-and-pups.json](./256341-i-love-finding-cats-and-pups.json) |
 | I Love Finding Critters | 195177 | [195177-i-love-finding-critters.json](./195177-i-love-finding-critters.json) |
 | I Love Finding Furbabies: Collector's Edition | 277576 | [277576-i-love-finding-furbabies-collectors-edition.json](./277576-i-love-finding-furbabies-collectors-edition.json) |
 | I Love Finding More Cats | 190729 | [190729-i-love-finding-more-cats.json](./190729-i-love-finding-more-cats.json) |
