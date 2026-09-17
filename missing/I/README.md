@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrial Annihilation | 324902 | [324902-industrial-annihilation.json](./324902-industrial-annihilation.json) |
 | Industrial Combat | 271750 | [271750-industrial-combat.json](./271750-industrial-combat.json) |
 | Industrial Infection! | 107810 | [107810-industrial-infection.json](./107810-industrial-infection.json) |
+| Industrial War | 241515 | [241515-industrial-war.json](./241515-industrial-war.json) |
 | Industriality | 190159 | [190159-industriality.json](./190159-industriality.json) |
 | Industrious | 146813 | [146813-industrious.json](./146813-industrious.json) |
 | Industriworks | 126603 | [126603-industriworks.json](./126603-industriworks.json) |
@@ -1822,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Christmas Bundle! | 234307 | [234307-its-christmas-bundle.json](./234307-its-christmas-bundle.json) |
 | It's Dungeon Time! | 172748 | [172748-its-dungeon-time.json](./172748-its-dungeon-time.json) |
 | It's Full of Stars | 204098 | [204098-its-full-of-stars.json](./204098-its-full-of-stars.json) |
+| It's Happening Again. | 241482 | [241482-its-happening-again.json](./241482-its-happening-again.json) |
 | It's Hard Being a Meatball | 132808 | [132808-its-hard-being-a-meatball.json](./132808-its-hard-being-a-meatball.json) |
 | It's Literally Just Mowing | 210675 | [210675-its-literally-just-mowing.json](./210675-its-literally-just-mowing.json) |
 | It's Mealtime! | 167247 | [167247-its-mealtime.json](./167247-its-mealtime.json) |
