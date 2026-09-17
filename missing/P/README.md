@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pangolin Love: Day 3 - China | 375814 | [375814-pangolin-love-day-3-china.json](./375814-pangolin-love-day-3-china.json) |
 | Pangolin Love: Day 4 - The Philippines | 375815 | [375815-pangolin-love-day-4-the-philippines.json](./375815-pangolin-love-day-4-the-philippines.json) |
 | Pangs: You Are Hungry | 377697 | [377697-pangs-you-are-hungry.json](./377697-pangs-you-are-hungry.json) |
+| Pangya: United | 242060 | [242060-pangya-united.json](./242060-pangya-united.json) |
 | Panic | 245858 | [245858-panic.json](./245858-panic.json) |
 | Panic 64 | 130373 | [130373-panic-64.json](./130373-panic-64.json) |
 | Panic at Multiverse High! | 31660 | [31660-panic-at-multiverse-high.json](./31660-panic-at-multiverse-high.json) |
