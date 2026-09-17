@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
 | Banana-Shaped | 309490 | [309490-banana-shaped.json](./309490-banana-shaped.json) |
+| BananaGuy | 247604 | [247604-bananaguy.json](./247604-bananaguy.json) |
 | Bananamana | 314257 | [314257-bananamana.json](./314257-bananamana.json) |
 | Bananametr | 304691 | [304691-bananametr.json](./304691-bananametr.json) |
 | Bananarun | 157698 | [157698-bananarun.json](./157698-bananarun.json) |
@@ -1358,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Club Simulator 2024 | 289429 | [289429-beach-club-simulator-2024.json](./289429-beach-club-simulator-2024.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
 | Beach Friends | 376465 | [376465-beach-friends.json](./376465-beach-friends.json) |
+| Beach Gas Gas | 247620 | [247620-beach-gas-gas.json](./247620-beach-gas-gas.json) |
 | Beach Girls | 75758 | [75758-beach-girls.json](./75758-beach-girls.json) |
 | Beach Invasion 1945: Pacific | 247785 | [247785-beach-invasion-1945-pacific.json](./247785-beach-invasion-1945-pacific.json) |
 | Beach Island Deluxe | 212810 | [212810-beach-island-deluxe.json](./212810-beach-island-deluxe.json) |
@@ -2306,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birthright Cataclysm: Overture | 171595 | [171595-birthright-cataclysm-overture.json](./171595-birthright-cataclysm-overture.json) |
 | Biscuit Mafia | 364537 | [364537-biscuit-mafia.json](./364537-biscuit-mafia.json) |
 | Biscuitts 4 | 147364 | [147364-biscuitts-4.json](./147364-biscuitts-4.json) |
+| Biscuitts 5 | 247606 | [247606-biscuitts-5.json](./247606-biscuitts-5.json) |
 | Bishi Bachi Special 3 | 43866 | [43866-bishi-bachi-special-3.json](./43866-bishi-bachi-special-3.json) |
 | Bishi Bashi Special | 316812 | [316812-bishi-bashi-special.json](./316812-bishi-bashi-special.json) |
 | Bishi Bashi Special | 45047 | [45047-bishi-bashi-special.json](./45047-bishi-bashi-special.json) |
