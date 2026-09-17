@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xploit.Zero | 380561 | [380561-xploit-zero.json](./380561-xploit-zero.json) |
 | Xplosive Raccoon | 283861 | [283861-xplosive-raccoon.json](./283861-xplosive-raccoon.json) |
 | XR-35 | 55210 | [55210-xr-35.json](./55210-xr-35.json) |
+| XRick | 280354 | [280354-xrick.json](./280354-xrick.json) |
 | XRick | 289883 | [289883-xrick.json](./289883-xrick.json) |
 | XS Airboat Racing | 43942 | [43942-xs-airboat-racing.json](./43942-xs-airboat-racing.json) |
 | XS Junior League Dodgeball | 43943 | [43943-xs-junior-league-dodgeball.json](./43943-xs-junior-league-dodgeball.json) |
