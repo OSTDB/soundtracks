@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.L.M.O: Scorched Earth | 358346 | [358346-m-a-l-m-o-scorched-earth.json](./358346-m-a-l-m-o-scorched-earth.json) |
 | M.A.Y.A | 397827 | [397827-m-a-y-a.json](./397827-m-a-y-a.json) |
 | M.C Kids | 2718 | [2718-m-c-kids.json](./2718-m-c-kids.json) |
+| M.C Kids | 285032 | [285032-m-c-kids.json](./285032-m-c-kids.json) |
 | M.E.C.H.A.: Memory Erasure Control of Hover Attractor | 348770 | [348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json](./348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json) |
 | M.E.R.C. | 26540 | [26540-m-e-r-c.json](./26540-m-e-r-c.json) |
 | M.I.A | 75044 | [75044-m-i-a.json](./75044-m-i-a.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McDonald's Fairies: Lily | 254793 | [254793-mcdonalds-fairies-lily.json](./254793-mcdonalds-fairies-lily.json) |
 | McDonald's Fairies: Rose | 254794 | [254794-mcdonalds-fairies-rose.json](./254794-mcdonalds-fairies-rose.json) |
 | McDonald's Treasure Land Adventure | 36923 | [36923-mcdonalds-treasure-land-adventure.json](./36923-mcdonalds-treasure-land-adventure.json) |
+| McDonaldland | 285031 | [285031-mcdonaldland.json](./285031-mcdonaldland.json) |
 | McDroid | 16689 | [16689-mcdroid.json](./16689-mcdroid.json) |
 | McTetris | 230831 | [230831-mctetris.json](./230831-mctetris.json) |
 | MDF: Magical Defense Force - Chapters 10-18 | 285445 | [285445-mdf-magical-defense-force-chapters-10-18.json](./285445-mdf-magical-defense-force-chapters-10-18.json) |
@@ -3087,10 +3089,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Dairycraft | 366815 | [366815-minecraft-dairycraft.json](./366815-minecraft-dairycraft.json) |
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
 | Minecraft: Frozen | 254125 | [254125-minecraft-frozen.json](./254125-minecraft-frozen.json) |
+| Minecraft: Godzilla | 285051 | [285051-minecraft-godzilla.json](./285051-minecraft-godzilla.json) |
 | Minecraft: Good Night's Sleep | 326994 | [326994-minecraft-good-nights-sleep.json](./326994-minecraft-good-nights-sleep.json) |
 | Minecraft: Heat Wave Survival | 324712 | [324712-minecraft-heat-wave-survival.json](./324712-minecraft-heat-wave-survival.json) |
 | Minecraft: Hermicraft Season 8 Map | 366814 | [366814-minecraft-hermicraft-season-8-map.json](./366814-minecraft-hermicraft-season-8-map.json) |
 | Minecraft: James Web Space Telescope | 322959 | [322959-minecraft-james-web-space-telescope.json](./322959-minecraft-james-web-space-telescope.json) |
+| Minecraft: Jurassic World Adventures | 285053 | [285053-minecraft-jurassic-world-adventures.json](./285053-minecraft-jurassic-world-adventures.json) |
 | Minecraft: Minecon 2016 Skin Pack | 255328 | [255328-minecraft-minecon-2016-skin-pack.json](./255328-minecraft-minecon-2016-skin-pack.json) |
 | Minecraft: Minecon Live - Rush Race! | 315515 | [315515-minecraft-minecon-live-rush-race.json](./315515-minecraft-minecon-live-rush-race.json) |
 | Minecraft: Minecraft Legends Skin Pack | 307731 | [307731-minecraft-minecraft-legends-skin-pack.json](./307731-minecraft-minecraft-legends-skin-pack.json) |
@@ -4607,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Maniac | 66104 | [66104-mountain-maniac.json](./66104-mountain-maniac.json) |
 | Mountain Maniac Xmas | 396423 | [396423-mountain-maniac-xmas.json](./396423-mountain-maniac-xmas.json) |
 | Mountain Taxi Driver | 119745 | [119745-mountain-taxi-driver.json](./119745-mountain-taxi-driver.json) |
+| Mountinuum | 285047 | [285047-mountinuum.json](./285047-mountinuum.json) |
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
 | Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
 | Mouse Dream | 166772 | [166772-mouse-dream.json](./166772-mouse-dream.json) |
