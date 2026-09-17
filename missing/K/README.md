@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo xx Switch | 156614 | [156614-kanojo-xx-switch.json](./156614-kanojo-xx-switch.json) |
 | Kanye Zone | 274745 | [274745-kanye-zone.json](./274745-kanye-zone.json) |
 | Kanyu: Sword Tomb | 224033 | [224033-kanyu-sword-tomb.json](./224033-kanyu-sword-tomb.json) |
+| Kanzen Chuukei Pro Yakyuu Greatest Nine | 272901 | [272901-kanzen-chuukei-pro-yakyuu-greatest-nine.json](./272901-kanzen-chuukei-pro-yakyuu-greatest-nine.json) |
 | Kanzen Hanzai Mystery | 251622 | [251622-kanzen-hanzai-mystery.json](./251622-kanzen-hanzai-mystery.json) |
 | Kanzo | 236532 | [236532-kanzo.json](./236532-kanzo.json) |
 | Kao no nai Tsuki Select Story | 287639 | [287639-kao-no-nai-tsuki-select-story.json](./287639-kao-no-nai-tsuki-select-story.json) |
