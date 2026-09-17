@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry's Adventure | 268188 | [268188-henrys-adventure.json](./268188-henrys-adventure.json) |
 | Henry's Escape: Prison | 280327 | [280327-henrys-escape-prison.json](./280327-henrys-escape-prison.json) |
 | Henry's Forgotten Performance | 295778 | [295778-henrys-forgotten-performance.json](./295778-henrys-forgotten-performance.json) |
+| Hentai 18+ | 261874 | [261874-hentai-18.json](./261874-hentai-18.json) |
 | Hentai 2+2=4 | 110176 | [110176-hentai-2-2-4.json](./110176-hentai-2-2-4.json) |
 | Hentai 3018 | 102360 | [102360-hentai-3018.json](./102360-hentai-3018.json) |
 | Hentai Abigail | 259833 | [259833-hentai-abigail.json](./259833-hentai-abigail.json) |
