@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T16:03:20.619Z",
-  "total_missing": 83321,
+  "generated_at": "2026-09-17T16:18:00.004Z",
+  "total_missing": 83371,
   "games": [
     {
       "igdb_id": 273453,
@@ -6563,6 +6563,11 @@
       "file": "missing/A/145216-aew-fight-forever.json"
     },
     {
+      "igdb_id": 251670,
+      "game_name": "AEW: Fight Forever - Elite Edition",
+      "file": "missing/A/251670-aew-fight-forever-elite-edition.json"
+    },
+    {
       "igdb_id": 283879,
       "game_name": "Afallon",
       "file": "missing/A/283879-afallon.json"
@@ -9816,6 +9821,11 @@
       "igdb_id": 263527,
       "game_name": "All Elite Wrestling: Fight Forever - Limitless Bunny Pack",
       "file": "missing/A/263527-all-elite-wrestling-fight-forever-limitless-bunny-pack.json"
+    },
+    {
+      "igdb_id": 251669,
+      "game_name": "All Elite Wrestling: Fight Forever - Matt Hardy",
+      "file": "missing/A/251669-all-elite-wrestling-fight-forever-matt-hardy.json"
     },
     {
       "igdb_id": 301008,
@@ -22581,6 +22591,11 @@
       "igdb_id": 359425,
       "game_name": "Atelier Ryza 2: Lost Legends & the Secret Fairy DX",
       "file": "missing/A/359425-atelier-ryza-2-lost-legends-and-the-secret-fairy-dx.json"
+    },
+    {
+      "igdb_id": 251683,
+      "game_name": "Atelier Ryza 3: Alchemist of the End & the Secret Key - Additional Area \"Rosca Island\"",
+      "file": "missing/A/251683-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-additional-area-rosca-island.json"
     },
     {
       "igdb_id": 381105,
@@ -36688,6 +36703,11 @@
       "file": "missing/B/83587-bitcoin-highway.json"
     },
     {
+      "igdb_id": 251654,
+      "game_name": "Bitcoin Man Clicker",
+      "file": "missing/B/251654-bitcoin-man-clicker.json"
+    },
+    {
       "igdb_id": 89602,
       "game_name": "Bitcoin Miner",
       "file": "missing/B/89602-bitcoin-miner.json"
@@ -46398,6 +46418,11 @@
       "file": "missing/B/392952-brt-billiards-of-the-round-table.json"
     },
     {
+      "igdb_id": 251701,
+      "game_name": "Bruce Campbell vs Ganon",
+      "file": "missing/B/251701-bruce-campbell-vs-ganon.json"
+    },
+    {
       "igdb_id": 5758,
       "game_name": "Bruce Lee: Quest of the Dragon",
       "file": "missing/B/5758-bruce-lee-quest-of-the-dragon.json"
@@ -46546,6 +46571,11 @@
       "igdb_id": 91950,
       "game_name": "Brutus",
       "file": "missing/B/91950-brutus.json"
+    },
+    {
+      "igdb_id": 251700,
+      "game_name": "Bruxólico",
+      "file": "missing/B/251700-bruxolico.json"
     },
     {
       "igdb_id": 199583,
@@ -54486,6 +54516,11 @@
       "igdb_id": 183543,
       "game_name": "Cat or Ice Cream?",
       "file": "missing/C/183543-cat-or-ice-cream.json"
+    },
+    {
+      "igdb_id": 251642,
+      "game_name": "Cat Ping Pong",
+      "file": "missing/C/251642-cat-ping-pong.json"
     },
     {
       "igdb_id": 244275,
@@ -63428,6 +63463,11 @@
       "file": "missing/C/232998-clumsy-rush-ultimate-guys-complete-edition.json"
     },
     {
+      "igdb_id": 251665,
+      "game_name": "Clumsy Rush: Ultimate Guys - Decorations Pack 12",
+      "file": "missing/C/251665-clumsy-rush-ultimate-guys-decorations-pack-12.json"
+    },
+    {
       "igdb_id": 241399,
       "game_name": "Clumsy Rush: Ultimate Guys - Platinum Edition",
       "file": "missing/C/241399-clumsy-rush-ultimate-guys-platinum-edition.json"
@@ -72353,6 +72393,11 @@
       "file": "missing/C/319576-croaka-crawla.json"
     },
     {
+      "igdb_id": 251652,
+      "game_name": "Croaked",
+      "file": "missing/C/251652-croaked.json"
+    },
+    {
       "igdb_id": 265696,
       "game_name": "Croaking Around",
       "file": "missing/C/265696-croaking-around.json"
@@ -74566,6 +74611,11 @@
       "igdb_id": 36000,
       "game_name": "Cubot",
       "file": "missing/C/36000-cubot.json"
+    },
+    {
+      "igdb_id": 251692,
+      "game_name": "Cuboy",
+      "file": "missing/C/251692-cuboy.json"
     },
     {
       "igdb_id": 290708,
@@ -86126,6 +86176,11 @@
       "igdb_id": 13591,
       "game_name": "Despotik Design",
       "file": "missing/D/13591-despotik-design.json"
+    },
+    {
+      "igdb_id": 251668,
+      "game_name": "Dessert DIY: Complete Edition",
+      "file": "missing/D/251668-dessert-diy-complete-edition.json"
     },
     {
       "igdb_id": 207505,
@@ -99913,6 +99968,11 @@
       "file": "missing/D/311800-dungeon-board.json"
     },
     {
+      "igdb_id": 251660,
+      "game_name": "Dungeon Boss: Respawned",
+      "file": "missing/D/251660-dungeon-boss-respawned.json"
+    },
+    {
       "igdb_id": 373095,
       "game_name": "Dungeon Brawl",
       "file": "missing/D/373095-dungeon-brawl.json"
@@ -109738,9 +109798,19 @@
       "file": "missing/E/251586-etrian-odyssey-hd-character-set-dlc.json"
     },
     {
+      "igdb_id": 251695,
+      "game_name": "Etrian Odyssey II HD: Character Set DLC",
+      "file": "missing/E/251695-etrian-odyssey-ii-hd-character-set-dlc.json"
+    },
+    {
       "igdb_id": 14717,
       "game_name": "Etrian Odyssey II: Heroes of Lagaard",
       "file": "missing/E/14717-etrian-odyssey-ii-heroes-of-lagaard.json"
+    },
+    {
+      "igdb_id": 251696,
+      "game_name": "Etrian Odyssey III HD Character Set DLC",
+      "file": "missing/E/251696-etrian-odyssey-iii-hd-character-set-dlc.json"
     },
     {
       "igdb_id": 14718,
@@ -131988,6 +132058,11 @@
       "file": "missing/G/82044-galacatraz-eject-equip-escape.json"
     },
     {
+      "igdb_id": 251661,
+      "game_name": "Galacdrive",
+      "file": "missing/G/251661-galacdrive.json"
+    },
+    {
       "igdb_id": 58770,
       "game_name": "GalaCollider",
       "file": "missing/G/58770-galacollider.json"
@@ -153433,9 +153508,29 @@
       "file": "missing/H/260683-hentai-world-expanded-edition.json"
     },
     {
+      "igdb_id": 251687,
+      "game_name": "Hentai World: Foxy Akane",
+      "file": "missing/H/251687-hentai-world-foxy-akane.json"
+    },
+    {
+      "igdb_id": 251686,
+      "game_name": "Hentai World: Kitty Rose",
+      "file": "missing/H/251686-hentai-world-kitty-rose.json"
+    },
+    {
       "igdb_id": 268562,
       "game_name": "Hentai World: Legendary Edition",
       "file": "missing/H/268562-hentai-world-legendary-edition.json"
+    },
+    {
+      "igdb_id": 251685,
+      "game_name": "Hentai World: Puppy Nanami",
+      "file": "missing/H/251685-hentai-world-puppy-nanami.json"
+    },
+    {
+      "igdb_id": 251684,
+      "game_name": "Hentai World: Special Edition",
+      "file": "missing/H/251684-hentai-world-special-edition.json"
     },
     {
       "igdb_id": 256266,
@@ -156366,6 +156461,11 @@
       "igdb_id": 32890,
       "game_name": "Highway to the Moon",
       "file": "missing/H/32890-highway-to-the-moon.json"
+    },
+    {
+      "igdb_id": 251675,
+      "game_name": "Highway Traffic Racer",
+      "file": "missing/H/251675-highway-traffic-racer.json"
     },
     {
       "igdb_id": 322597,
@@ -163231,6 +163331,11 @@
       "igdb_id": 216271,
       "game_name": "Hypnospace Enforcer",
       "file": "missing/H/216271-hypnospace-enforcer.json"
+    },
+    {
+      "igdb_id": 251655,
+      "game_name": "Hypnospace Outlaw & Slayers X: Terminal Aftermath: Vengance of the Slayer Bundle",
+      "file": "missing/H/251655-hypnospace-outlaw-and-slayers-x-terminal-aftermath-vengance-of-the-slayer-bundle.json"
     },
     {
       "igdb_id": 302509,
@@ -171898,6 +172003,11 @@
       "file": "missing/I/268564-isle-of-jura-fishing-trip-complete-edition.json"
     },
     {
+      "igdb_id": 251689,
+      "game_name": "Isle of Jura Fishing Trip: Ultimate Edition",
+      "file": "missing/I/251689-isle-of-jura-fishing-trip-ultimate-edition.json"
+    },
+    {
       "igdb_id": 375990,
       "game_name": "Isle of Lament",
       "file": "missing/I/375990-isle-of-lament.json"
@@ -180181,6 +180291,11 @@
       "igdb_id": 390532,
       "game_name": "Kazuma Kaneko's Tsukuyomi: Digital Deluxe Edition",
       "file": "missing/K/390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 251699,
+      "game_name": "KBRD",
+      "file": "missing/K/251699-kbrd.json"
     },
     {
       "igdb_id": 208374,
@@ -241818,6 +241933,16 @@
       "file": "missing/O/183608-om-nom-solitaire.json"
     },
     {
+      "igdb_id": 251666,
+      "game_name": "Om Nom: Run - Costumes and Themes",
+      "file": "missing/O/251666-om-nom-run-costumes-and-themes.json"
+    },
+    {
+      "igdb_id": 251667,
+      "game_name": "Om Nom: Run - Ultimate Edition",
+      "file": "missing/O/251667-om-nom-run-ultimate-edition.json"
+    },
+    {
       "igdb_id": 363971,
       "game_name": "Om Nom: Run & Om Nom: Run 2",
       "file": "missing/O/363971-om-nom-run-and-om-nom-run-2.json"
@@ -256638,6 +256763,11 @@
       "file": "missing/P/118979-piggy-peters-adventure.json"
     },
     {
+      "igdb_id": 251659,
+      "game_name": "Piggy Piggy: Boom",
+      "file": "missing/P/251659-piggy-piggy-boom.json"
+    },
+    {
       "igdb_id": 87359,
       "game_name": "Piggy Pile!",
       "file": "missing/P/87359-piggy-pile.json"
@@ -258336,6 +258466,11 @@
       "igdb_id": 391153,
       "game_name": "Pit Pioneers",
       "file": "missing/P/391153-pit-pioneers.json"
+    },
+    {
+      "igdb_id": 251662,
+      "game_name": "Pit Stop Racing: Club Vs. Club",
+      "file": "missing/P/251662-pit-stop-racing-club-vs-club.json"
     },
     {
       "igdb_id": 234612,
@@ -269103,6 +269238,11 @@
       "file": "missing/P/272348-project-mist.json"
     },
     {
+      "igdb_id": 251678,
+      "game_name": "Project: Obscurion",
+      "file": "missing/P/251678-project-obscurion.json"
+    },
+    {
       "igdb_id": 391158,
       "game_name": "Project: Purconia",
       "file": "missing/P/391158-project-purconia.json"
@@ -278236,6 +278376,11 @@
       "igdb_id": 148000,
       "game_name": "Reason: Casual Puzzle",
       "file": "missing/R/148000-reason-casual-puzzle.json"
+    },
+    {
+      "igdb_id": 251680,
+      "game_name": "Reasoning of Courage Nori 3 Balanced Diet",
+      "file": "missing/R/251680-reasoning-of-courage-nori-3-balanced-diet.json"
     },
     {
       "igdb_id": 304720,
@@ -287776,6 +287921,11 @@
       "igdb_id": 312370,
       "game_name": "Rolly Cubes",
       "file": "missing/R/312370-rolly-cubes.json"
+    },
+    {
+      "igdb_id": 251663,
+      "game_name": "Roly Poly Putt",
+      "file": "missing/R/251663-roly-poly-putt.json"
     },
     {
       "igdb_id": 396415,
@@ -309603,6 +309753,11 @@
       "file": "missing/S/340387-slider-scouts.json"
     },
     {
+      "igdb_id": 251656,
+      "game_name": "Slidercrash",
+      "file": "missing/S/251656-slidercrash.json"
+    },
+    {
       "igdb_id": 120355,
       "game_name": "SlideRow",
       "file": "missing/S/120355-sliderow.json"
@@ -310166,6 +310321,11 @@
       "igdb_id": 153460,
       "game_name": "Slobbish Dragon Princess Love + Plus",
       "file": "missing/S/153460-slobbish-dragon-princess-love-plus.json"
+    },
+    {
+      "igdb_id": 251658,
+      "game_name": "Sloomy",
+      "file": "missing/S/251658-sloomy.json"
     },
     {
       "igdb_id": 264867,
@@ -311541,6 +311701,11 @@
       "igdb_id": 132783,
       "game_name": "Snake Core",
       "file": "missing/S/132783-snake-core.json"
+    },
+    {
+      "igdb_id": 251644,
+      "game_name": "Snake Crayon Run",
+      "file": "missing/S/251644-snake-crayon-run.json"
     },
     {
       "igdb_id": 306382,
@@ -315948,6 +316113,11 @@
       "file": "missing/S/275305-sonic-superstars-lego-sonic-skin.json"
     },
     {
+      "igdb_id": 251645,
+      "game_name": "Sonic Surfer",
+      "file": "missing/S/251645-sonic-surfer.json"
+    },
+    {
       "igdb_id": 333913,
       "game_name": "Sonic Surge: Rhythm Showdown",
       "file": "missing/S/333913-sonic-surge-rhythm-showdown.json"
@@ -316571,6 +316741,11 @@
       "igdb_id": 12272,
       "game_name": "Sono Hanabira ni Kuchizuke wo: Tenshi-tachi no Harukoi",
       "file": "missing/S/12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json"
+    },
+    {
+      "igdb_id": 251697,
+      "game_name": "Sono Hanabira: YuriCycle",
+      "file": "missing/S/251697-sono-hanabira-yuricycle.json"
     },
     {
       "igdb_id": 412315,
@@ -321576,6 +321751,11 @@
       "igdb_id": 152373,
       "game_name": "Spirit of the Island",
       "file": "missing/S/152373-spirit-of-the-island.json"
+    },
+    {
+      "igdb_id": 251664,
+      "game_name": "Spirit of the Island: Beach Resort",
+      "file": "missing/S/251664-spirit-of-the-island-beach-resort.json"
     },
     {
       "igdb_id": 173249,
@@ -327293,6 +327473,11 @@
       "file": "missing/S/158167-steep-slopes.json"
     },
     {
+      "igdb_id": 251643,
+      "game_name": "Steep: X Games Pack",
+      "file": "missing/S/251643-steep-x-games-pack.json"
+    },
+    {
       "igdb_id": 383968,
       "game_name": "Steeplejack",
       "file": "missing/S/383968-steeplejack.json"
@@ -329581,6 +329766,21 @@
       "igdb_id": 309335,
       "game_name": "Street Fighter 6: Return of Shadaloo",
       "file": "missing/S/309335-street-fighter-6-return-of-shadaloo.json"
+    },
+    {
+      "igdb_id": 251691,
+      "game_name": "Street Fighter 6: Ultimate Edition",
+      "file": "missing/S/251691-street-fighter-6-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 251657,
+      "game_name": "Street Fighter 6: Year 1 - A.K.I.",
+      "file": "missing/S/251657-street-fighter-6-year-1-a-k-i.json"
+    },
+    {
+      "igdb_id": 251653,
+      "game_name": "Street Fighter 6: Year 1 - Rashid",
+      "file": "missing/S/251653-street-fighter-6-year-1-rashid.json"
     },
     {
       "igdb_id": 308225,
@@ -333693,6 +333893,11 @@
       "file": "missing/S/141162-super-drink-bros.json"
     },
     {
+      "igdb_id": 251690,
+      "game_name": "Super Drunken Guy",
+      "file": "missing/S/251690-super-drunken-guy.json"
+    },
+    {
       "igdb_id": 134700,
       "game_name": "Super Dunkman",
       "file": "missing/S/134700-super-dunkman.json"
@@ -333961,6 +334166,11 @@
       "igdb_id": 251595,
       "game_name": "Super Hero Demolition",
       "file": "missing/S/251595-super-hero-demolition.json"
+    },
+    {
+      "igdb_id": 251674,
+      "game_name": "Super Hero Demolition",
+      "file": "missing/S/251674-super-hero-demolition.json"
     },
     {
       "igdb_id": 112984,
@@ -358278,6 +358488,21 @@
       "file": "missing/T/256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json"
     },
     {
+      "igdb_id": 251673,
+      "game_name": "The Legend of Heroes: Trails into Reverie - Premium Cosmetic Set",
+      "file": "missing/T/251673-the-legend-of-heroes-trails-into-reverie-premium-cosmetic-set.json"
+    },
+    {
+      "igdb_id": 251671,
+      "game_name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set",
+      "file": "missing/T/251671-the-legend-of-heroes-trails-into-reverie-sss-summer-splash-set.json"
+    },
+    {
+      "igdb_id": 251672,
+      "game_name": "The Legend of Heroes: Trails into Reverie - Standard Cosmetic Set",
+      "file": "missing/T/251672-the-legend-of-heroes-trails-into-reverie-standard-cosmetic-set.json"
+    },
+    {
       "igdb_id": 89911,
       "game_name": "The Legend of Heroes: Trails of Cold Steel - Lionheart Edition",
       "file": "missing/T/89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json"
@@ -359831,6 +360056,11 @@
       "igdb_id": 247194,
       "game_name": "The Many Pieces of Mr. Coo: Fantabulous Edition",
       "file": "missing/T/247194-the-many-pieces-of-mr-coo-fantabulous-edition.json"
+    },
+    {
+      "igdb_id": 251651,
+      "game_name": "The Many Sins of House Ocampo",
+      "file": "missing/T/251651-the-many-sins-of-house-ocampo.json"
     },
     {
       "igdb_id": 161901,
@@ -392813,6 +393043,11 @@
       "file": "missing/V/411614-velocity-uncapped.json"
     },
     {
+      "igdb_id": 251693,
+      "game_name": "Velocity Vortex",
+      "file": "missing/V/251693-velocity-vortex.json"
+    },
+    {
       "igdb_id": 408903,
       "game_name": "Velocity: The Race Begins",
       "file": "missing/V/408903-velocity-the-race-begins.json"
@@ -400391,6 +400626,11 @@
       "igdb_id": 251602,
       "game_name": "We Love Katamari Reroll + Royal Reverie: Deluxe Edition",
       "file": "missing/W/251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 251688,
+      "game_name": "We Love Katamari REROLL+ Royal Reverie: Special Edition",
+      "file": "missing/W/251688-we-love-katamari-reroll-royal-reverie-special-edition.json"
     },
     {
       "igdb_id": 363952,
@@ -408193,6 +408433,11 @@
       "file": "missing/W/9336-worlds-of-magic.json"
     },
     {
+      "igdb_id": 251649,
+      "game_name": "Worlds War 1",
+      "file": "missing/W/251649-worlds-war-1.json"
+    },
+    {
       "igdb_id": 224584,
       "game_name": "WorldShards",
       "file": "missing/W/224584-worldshards.json"
@@ -409371,6 +409616,11 @@
       "igdb_id": 165652,
       "game_name": "X-Force Genesis",
       "file": "missing/X/165652-x-force-genesis.json"
+    },
+    {
+      "igdb_id": 251694,
+      "game_name": "X-Force Under Attack",
+      "file": "missing/X/251694-x-force-under-attack.json"
     },
     {
       "igdb_id": 79301,
