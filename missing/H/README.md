@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: E7 Black Star | 196832 | [196832-half-life-e7-black-star.json](./196832-half-life-e7-black-star.json) |
 | Half-Life: Edge of Darkness | 196833 | [196833-half-life-edge-of-darkness.json](./196833-half-life-edge-of-darkness.json) |
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
+| Half-Life: Hostile Takeover | 252806 | [252806-half-life-hostile-takeover.json](./252806-half-life-hostile-takeover.json) |
 | Half-Life: Intolerable Threat | 222325 | [222325-half-life-intolerable-threat.json](./222325-half-life-intolerable-threat.json) |
 | Half-Life: Invasion | 196834 | [196834-half-life-invasion.json](./196834-half-life-invasion.json) |
 | Half-Life: Life's End | 196835 | [196835-half-life-lifes-end.json](./196835-half-life-lifes-end.json) |
@@ -1089,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Is Us: Military Pack | 360094 | [360094-hell-is-us-military-pack.json](./360094-hell-is-us-military-pack.json) |
 | Hell is Us: Phol Guard Pack | 360093 | [360093-hell-is-us-phol-guard-pack.json](./360093-hell-is-us-phol-guard-pack.json) |
 | Hell Let Loose: Battle Scarred | 371226 | [371226-hell-let-loose-battle-scarred.json](./371226-hell-let-loose-battle-scarred.json) |
+| Hell Let Loose: Devotion to Duty | 252863 | [252863-hell-let-loose-devotion-to-duty.json](./252863-hell-let-loose-devotion-to-duty.json) |
 | Hell Let Loose: Operation Overlord Units | 366854 | [366854-hell-let-loose-operation-overlord-units.json](./366854-hell-let-loose-operation-overlord-units.json) |
 | Hell Let Loose: Pea Dot | 312017 | [312017-hell-let-loose-pea-dot.json](./312017-hell-let-loose-pea-dot.json) |
 | Hell Let Loose: Polish Parachute Brigade Uniform | 312013 | [312013-hell-let-loose-polish-parachute-brigade-uniform.json](./312013-hell-let-loose-polish-parachute-brigade-uniform.json) |
