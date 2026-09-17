@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiwa | 290681 | [290681-kaiwa.json](./290681-kaiwa.json) |
 | Kaiyo's Castle | 347182 | [347182-kaiyos-castle.json](./347182-kaiyos-castle.json) |
 | Kaizen Channel Mars TV | 109048 | [109048-kaizen-channel-mars-tv.json](./109048-kaizen-channel-mars-tv.json) |
+| Kaizo Block | 267455 | [267455-kaizo-block.json](./267455-kaizo-block.json) |
 | Kaizo Mario Galaxy | 249454 | [249454-kaizo-mario-galaxy.json](./249454-kaizo-mario-galaxy.json) |
 | Kaizo Mario Galaxy: Rebalanced | 262668 | [262668-kaizo-mario-galaxy-rebalanced.json](./262668-kaizo-mario-galaxy-rebalanced.json) |
 | Kaizou Choujin Schbibinman | 42052 | [42052-kaizou-choujin-schbibinman.json](./42052-kaizou-choujin-schbibinman.json) |
@@ -1298,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokontouzai Eto Monogatari | 40229 | [40229-kokontouzai-eto-monogatari.json](./40229-kokontouzai-eto-monogatari.json) |
 | Kokoro Connect: Yochi Random | 112296 | [112296-kokoro-connect-yochi-random.json](./112296-kokoro-connect-yochi-random.json) |
 | Kokoro no Doki Doki Senpai?? | 150133 | [150133-kokoro-no-doki-doki-senpai.json](./150133-kokoro-no-doki-doki-senpai.json) |
+| Kokoro no Pro | 266870 | [266870-kokoro-no-pro.json](./266870-kokoro-no-pro.json) |
 | Kokoro Talkers | 325446 | [325446-kokoro-talkers.json](./325446-kokoro-talkers.json) |
 | Kokoro: Baka-Monogatari | 150134 | [150134-kokoro-baka-monogatari.json](./150134-kokoro-baka-monogatari.json) |
 | Kokorogawari: Mini Quiz Game | 169944 | [169944-kokorogawari-mini-quiz-game.json](./169944-kokorogawari-mini-quiz-game.json) |
@@ -1313,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koloni | 244252 | [244252-koloni.json](./244252-koloni.json) |
 | Kolt Penny's Symmetris | 296387 | [296387-kolt-pennys-symmetris.json](./296387-kolt-pennys-symmetris.json) |
 | Kolumno | 111641 | [111641-kolumno.json](./111641-kolumno.json) |
+| Koma | 266883 | [266883-koma.json](./266883-koma.json) |
 | Komadori Inn | 296649 | [296649-komadori-inn.json](./296649-komadori-inn.json) |
 | Komako | 165051 | [165051-komako.json](./165051-komako.json) |
 | Komayama Kiri ha Zenbu Yari ni Iku | 404250 | [404250-komayama-kiri-ha-zenbu-yari-ni-iku.json](./404250-komayama-kiri-ha-zenbu-yari-ni-iku.json) |
