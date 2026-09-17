@@ -4389,6 +4389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordhau: Platinum Edition | 305495 | [305495-mordhau-platinum-edition.json](./305495-mordhau-platinum-edition.json) |
 | Mordheim: Warband Skirmish | 34295 | [34295-mordheim-warband-skirmish.json](./34295-mordheim-warband-skirmish.json) |
 | More and More | 113057 | [113057-more-and-more.json](./113057-more-and-more.json) |
+| More Bloons | 261910 | [261910-more-bloons.json](./261910-more-bloons.json) |
 | More Dark | 124195 | [124195-more-dark.json](./124195-more-dark.json) |
 | More Easter Eggs! | 96051 | [96051-more-easter-eggs.json](./96051-more-easter-eggs.json) |
 | More Fun with The Wiggles | 274215 | [274215-more-fun-with-the-wiggles.json](./274215-more-fun-with-the-wiggles.json) |
@@ -4751,7 +4752,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Day | 75793 | [75793-moving-day.json](./75793-moving-day.json) |
 | Moving Day: Make It Home | 389417 | [389417-moving-day-make-it-home.json](./389417-moving-day-make-it-home.json) |
 | Moving On | 303075 | [303075-moving-on.json](./303075-moving-on.json) |
+| Moving Out + Moving Out 2 Bundle | 261873 | [261873-moving-out-moving-out-2-bundle.json](./261873-moving-out-moving-out-2-bundle.json) |
 | Moving Out 2: Deluxe Edition | 271470 | [271470-moving-out-2-deluxe-edition.json](./271470-moving-out-2-deluxe-edition.json) |
+| Moving Out 2: F.A.R.Tastic Four Pack | 261858 | [261858-moving-out-2-f-a-r-tastic-four-pack.json](./261858-moving-out-2-f-a-r-tastic-four-pack.json) |
 | Moving Out: Deluxe Edition | 224202 | [224202-moving-out-deluxe-edition.json](./224202-moving-out-deluxe-edition.json) |
 | Moving parts | 271221 | [271221-moving-parts.json](./271221-moving-parts.json) |
 | Moving with the Moon: Mastering Universal Gravitation! | 382891 | [382891-moving-with-the-moon-mastering-universal-gravitation.json](./382891-moving-with-the-moon-mastering-universal-gravitation.json) |
