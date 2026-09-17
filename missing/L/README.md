@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labhorror | 414405 | [414405-labhorror.json](./414405-labhorror.json) |
 | Lablue Horror | 411048 | [411048-lablue-horror.json](./411048-lablue-horror.json) |
 | Labor Rights Funeral in Ukraine | 379962 | [379962-labor-rights-funeral-in-ukraine.json](./379962-labor-rights-funeral-in-ukraine.json) |
+| Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
 | Labubu Games | 363968 | [363968-labubu-games.json](./363968-labubu-games.json) |
@@ -345,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Dolls | 382318 | [382318-last-dolls.json](./382318-last-dolls.json) |
 | Last Dream: Complete Edition | 53265 | [53265-last-dream-complete-edition.json](./53265-last-dream-complete-edition.json) |
 | Last dungeon of defeat - Humiliation for female warrior Erina | 134627 | [134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json](./134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json) |
+| Last Emperor | 258554 | [258554-last-emperor.json](./258554-last-emperor.json) |
 | Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
 | Last Epoch: Shattered Omens | 408917 | [408917-last-epoch-shattered-omens.json](./408917-last-epoch-shattered-omens.json) |
 | Last Epoch: Tombs of the Erased | 341008 | [341008-last-epoch-tombs-of-the-erased.json](./341008-last-epoch-tombs-of-the-erased.json) |
@@ -1323,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightWave | 155657 | [155657-lightwave.json](./155657-lightwave.json) |
 | Lightyear Frontier | 163456 | [163456-lightyear-frontier.json](./163456-lightyear-frontier.json) |
 | Ligmar | 361692 | [361692-ligmar.json](./361692-ligmar.json) |
+| Ligo | 258539 | [258539-ligo.json](./258539-ligo.json) |
 | Like A Dino! | 212495 | [212495-like-a-dino.json](./212495-like-a-dino.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name | 217624 | [217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json](./217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json) |
 | Like a Dragon: Infinite Wealth - Assorted Outfit Bundle | 288216 | [288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json](./288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json) |
@@ -2036,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord and Maiden | 404869 | [404869-lord-and-maiden.json](./404869-lord-and-maiden.json) |
 | Lord Clicker | 183555 | [183555-lord-clicker.json](./183555-lord-clicker.json) |
 | Lord Democrat Strikes Out! | 116314 | [116314-lord-democrat-strikes-out.json](./116314-lord-democrat-strikes-out.json) |
+| Lord O' Pirates | 258528 | [258528-lord-o-pirates.json](./258528-lord-o-pirates.json) |
 | Lord of Bones | 236265 | [236265-lord-of-bones.json](./236265-lord-of-bones.json) |
 | Lord of Darkness | 42586 | [42586-lord-of-darkness.json](./42586-lord-of-darkness.json) |
 | Lord of Darkness: Aftermath | 279014 | [279014-lord-of-darkness-aftermath.json](./279014-lord-of-darkness-aftermath.json) |
