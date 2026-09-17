@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belle Boomerang | 150127 | [150127-belle-boomerang.json](./150127-belle-boomerang.json) |
 | Belle-de-Nuit: Point-du-Jour | 230559 | [230559-belle-de-nuit-point-du-jour.json](./230559-belle-de-nuit-point-du-jour.json) |
 | Bellfortis | 304712 | [304712-bellfortis.json](./304712-bellfortis.json) |
+| Bellhop | 244860 | [244860-bellhop.json](./244860-bellhop.json) |
 | Bellini: The Mad Magician | 91447 | [91447-bellini-the-mad-magician.json](./91447-bellini-the-mad-magician.json) |
 | Bellumarot | 151712 | [151712-bellumarot.json](./151712-bellumarot.json) |
 | Bellus Battle | 260157 | [260157-bellus-battle.json](./260157-bellus-battle.json) |
@@ -3096,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
 | Blossom | 388708 | [388708-blossom.json](./388708-blossom.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
+| Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
 | Blowback | 184611 | [184611-blowback.json](./184611-blowback.json) |
 | Blowout & Cosmic Alphabet | 14325 | [14325-blowout-and-cosmic-alphabet.json](./14325-blowout-and-cosmic-alphabet.json) |
 | Blowup | 269109 | [269109-blowup.json](./269109-blowup.json) |
@@ -4471,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bud Farm: Munchie Match | 245347 | [245347-bud-farm-munchie-match.json](./245347-bud-farm-munchie-match.json) |
 | Bud of Frenzy and Instinct | 108946 | [108946-bud-of-frenzy-and-instinct.json](./108946-bud-of-frenzy-and-instinct.json) |
 | Bud Redhead: The Time Chase | 71558 | [71558-bud-redhead-the-time-chase.json](./71558-bud-redhead-the-time-chase.json) |
+| Bud Spencer & Terence Hill: Slaps and Beans 2 | 244901 | [244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json](./244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json) |
 | Buddi Bot: Your Machine Learning AI Helper With Advanced Neural Networking! | 166720 | [166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json](./166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json) |
 | Budding Destiny | 316649 | [316649-budding-destiny.json](./316649-budding-destiny.json) |
 | Buddy & Friends: Santa's Workshop Animal Party | 283299 | [283299-buddy-and-friends-santas-workshop-animal-party.json](./283299-buddy-and-friends-santas-workshop-animal-party.json) |
