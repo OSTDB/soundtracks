@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
 | Mad Yu: Rural Idle | 412391 | [412391-mad-yu-rural-idle.json](./412391-mad-yu-rural-idle.json) |
+| Madagascar 3: Europe's Most Wanted | 243270 | [243270-madagascar-3-europes-most-wanted.json](./243270-madagascar-3-europes-most-wanted.json) |
 | Madagascar Mini-Mayhem | 137609 | [137609-madagascar-mini-mayhem.json](./137609-madagascar-mini-mayhem.json) |
 | Madara Saga: Youchien Senki Madara | 57072 | [57072-madara-saga-youchien-senki-madara.json](./57072-madara-saga-youchien-senki-madara.json) |
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
@@ -141,10 +142,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
 | Madden NFL 07 | 4983 | [4983-madden-nfl-07.json](./4983-madden-nfl-07.json) |
+| Madden NFL 09 | 243242 | [243242-madden-nfl-09.json](./243242-madden-nfl-09.json) |
+| Madden NFL 11 | 243245 | [243245-madden-nfl-11.json](./243245-madden-nfl-11.json) |
+| Madden NFL 11 | 243246 | [243246-madden-nfl-11.json](./243246-madden-nfl-11.json) |
+| Madden NFL 11 | 243247 | [243247-madden-nfl-11.json](./243247-madden-nfl-11.json) |
+| Madden NFL 11 | 243248 | [243248-madden-nfl-11.json](./243248-madden-nfl-11.json) |
+| Madden NFL 12 | 243249 | [243249-madden-nfl-12.json](./243249-madden-nfl-12.json) |
+| Madden NFL 12 | 243250 | [243250-madden-nfl-12.json](./243250-madden-nfl-12.json) |
+| Madden NFL 12 | 243251 | [243251-madden-nfl-12.json](./243251-madden-nfl-12.json) |
+| Madden NFL 12 | 243252 | [243252-madden-nfl-12.json](./243252-madden-nfl-12.json) |
 | Madden NFL 13 | 243257 | [243257-madden-nfl-13.json](./243257-madden-nfl-13.json) |
+| Madden NFL 13 | 243258 | [243258-madden-nfl-13.json](./243258-madden-nfl-13.json) |
+| Madden NFL 13 | 243259 | [243259-madden-nfl-13.json](./243259-madden-nfl-13.json) |
+| Madden NFL 13 Social | 243260 | [243260-madden-nfl-13-social.json](./243260-madden-nfl-13-social.json) |
 | Madden NFL 20: Ultimate Superstar Edition | 119063 | [119063-madden-nfl-20-ultimate-superstar-edition.json](./119063-madden-nfl-20-ultimate-superstar-edition.json) |
 | Madden NFL 2000 | 3537 | [3537-madden-nfl-2000.json](./3537-madden-nfl-2000.json) |
+| Madden NFL 2001 | 243263 | [243263-madden-nfl-2001.json](./243263-madden-nfl-2001.json) |
 | Madden NFL 2002 | 3539 | [3539-madden-nfl-2002.json](./3539-madden-nfl-2002.json) |
+| Madden NFL 2004 | 243240 | [243240-madden-nfl-2004.json](./243240-madden-nfl-2004.json) |
+| Madden NFL 2004 | 243241 | [243241-madden-nfl-2004.json](./243241-madden-nfl-2004.json) |
 | Madden NFL 2004 | 777 | [777-madden-nfl-2004.json](./777-madden-nfl-2004.json) |
 | Madden NFL 21: NXT LVL Edition | 141182 | [141182-madden-nfl-21-nxt-lvl-edition.json](./141182-madden-nfl-21-nxt-lvl-edition.json) |
 | Madden NFL 21: Ultimate Team Starter Pack | 140010 | [140010-madden-nfl-21-ultimate-team-starter-pack.json](./140010-madden-nfl-21-ultimate-team-starter-pack.json) |
@@ -155,9 +171,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 23: All Madden Edition | 204081 | [204081-madden-nfl-23-all-madden-edition.json](./204081-madden-nfl-23-all-madden-edition.json) |
 | Madden NFL 24: Deluxe Edition | 252388 | [252388-madden-nfl-24-deluxe-edition.json](./252388-madden-nfl-24-deluxe-edition.json) |
 | Madden NFL 25 | 243261 | [243261-madden-nfl-25.json](./243261-madden-nfl-25.json) |
+| Madden NFL 25 | 243262 | [243262-madden-nfl-25.json](./243262-madden-nfl-25.json) |
 | Madden NFL 25 | 301506 | [301506-madden-nfl-25.json](./301506-madden-nfl-25.json) |
 | Madden NFL 26 | 342382 | [342382-madden-nfl-26.json](./342382-madden-nfl-26.json) |
 | Madden NFL 96 | 240486 | [240486-madden-nfl-96.json](./240486-madden-nfl-96.json) |
+| Madden NFL 96 | 243244 | [243244-madden-nfl-96.json](./243244-madden-nfl-96.json) |
+| Madden NFL 97 | 243264 | [243264-madden-nfl-97.json](./243264-madden-nfl-97.json) |
+| Madden NFL 97 | 243265 | [243265-madden-nfl-97.json](./243265-madden-nfl-97.json) |
 | Maddmadd | 381607 | [381607-maddmadd.json](./381607-maddmadd.json) |
 | Made For | 343241 | [343241-made-for.json](./343241-made-for.json) |
 | Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
@@ -3749,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
 | Mobile Murder Mystery | 370691 | [370691-mobile-murder-mystery.json](./370691-mobile-murder-mystery.json) |
+| Mobile Phase 10 | 243277 | [243277-mobile-phase-10.json](./243277-mobile-phase-10.json) |
 | Mobile Soldiers: Plastic Army | 369639 | [369639-mobile-soldiers-plastic-army.json](./369639-mobile-soldiers-plastic-army.json) |
 | Mobile Suit Baba | 280934 | [280934-mobile-suit-baba.json](./280934-mobile-suit-baba.json) |
 | Mobile Suit Gundam | 125966 | [125966-mobile-suit-gundam.json](./125966-mobile-suit-gundam.json) |
@@ -4922,6 +4943,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Meaty Hangman | 320751 | [320751-mr-meaty-hangman.json](./320751-mr-meaty-hangman.json) |
 | Mr. Meaty: Night of the Attack of the Flesh Hungry Meat Monsters | 320748 | [320748-mr-meaty-night-of-the-attack-of-the-flesh-hungry-meat-monsters.json](./320748-mr-meaty-night-of-the-attack-of-the-flesh-hungry-meat-monsters.json) |
 | Mr. Meaty: Treasures of the Deep (Fryer, That Is!) | 320750 | [320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json](./320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json) |
+| Mr. Men & Little Miss: Adventures in Dillydale | 243279 | [243279-mr-men-and-little-miss-adventures-in-dillydale.json](./243279-mr-men-and-little-miss-adventures-in-dillydale.json) |
+| Mr. Men & Little Miss: Mr. Messy and the Missing Sock | 243272 | [243272-mr-men-and-little-miss-mr-messy-and-the-missing-sock.json](./243272-mr-men-and-little-miss-mr-messy-and-the-missing-sock.json) |
 | Mr. Mix | 276278 | [276278-mr-mix.json](./276278-mr-mix.json) |
 | Mr. Mosquito | 246473 | [246473-mr-mosquito.json](./246473-mr-mosquito.json) |
 | Mr. Mueller's Grand Experiment | 284894 | [284894-mr-muellers-grand-experiment.json](./284894-mr-muellers-grand-experiment.json) |
