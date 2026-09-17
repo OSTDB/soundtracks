@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Revenge: Casual Idle RPG | 180234 | [180234-magic-revenge-casual-idle-rpg.json](./180234-magic-revenge-casual-idle-rpg.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
 | Magic School Bus Volcano Adventure | 69818 | [69818-magic-school-bus-volcano-adventure.json](./69818-magic-school-bus-volcano-adventure.json) |
+| Magic Scroll | 278543 | [278543-magic-scroll.json](./278543-magic-scroll.json) |
 | Magic Sheep | 380397 | [380397-magic-sheep.json](./380397-magic-sheep.json) |
 | Magic Shot | 18235 | [18235-magic-shot.json](./18235-magic-shot.json) |
 | Magic Snake II | 71517 | [71517-magic-snake-ii.json](./71517-magic-snake-ii.json) |
@@ -1498,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Evolve: A Fun Math Game | 175372 | [175372-math-evolve-a-fun-math-game.json](./175372-math-evolve-a-fun-math-game.json) |
 | Math Games PRO | 105956 | [105956-math-games-pro.json](./105956-math-games-pro.json) |
 | Math Genius King of Arithmetic | 233753 | [233753-math-genius-king-of-arithmetic.json](./233753-math-genius-king-of-arithmetic.json) |
+| Math is Horror | 278542 | [278542-math-is-horror.json](./278542-math-is-horror.json) |
 | Math Man | 225625 | [225625-math-man.json](./225625-math-man.json) |
 | Math Munchers Deluxe | 57659 | [57659-math-munchers-deluxe.json](./57659-math-munchers-deluxe.json) |
 | Math Path | 391042 | [391042-math-path.json](./391042-math-path.json) |
@@ -2479,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Racer | 246966 | [246966-metal-racer.json](./246966-metal-racer.json) |
 | Metal Rage | 137019 | [137019-metal-rage.json](./137019-metal-rage.json) |
 | Metal Rage: Defender of the Earth | 64966 | [64966-metal-rage-defender-of-the-earth.json](./64966-metal-rage-defender-of-the-earth.json) |
+| Metal Rampage Uprising | 278541 | [278541-metal-rampage-uprising.json](./278541-metal-rampage-uprising.json) |
 | Metal Revolution | 114398 | [114398-metal-revolution.json](./114398-metal-revolution.json) |
 | Metal Saga: The Ark of Wastes | 75851 | [75851-metal-saga-the-ark-of-wastes.json](./75851-metal-saga-the-ark-of-wastes.json) |
 | Metal Shock Game | 211206 | [211206-metal-shock-game.json](./211206-metal-shock-game.json) |
@@ -3319,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Masters: Zealous Inferno | 330729 | [330729-minion-masters-zealous-inferno.json](./330729-minion-masters-zealous-inferno.json) |
 | Minions of Elden | 176423 | [176423-minions-of-elden.json](./176423-minions-of-elden.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
+| Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
 | MiniWorld | 184032 | [184032-miniworld.json](./184032-miniworld.json) |
 | Miniworld Royale | 208969 | [208969-miniworld-royale.json](./208969-miniworld-royale.json) |
 | Minky | 246979 | [246979-minky.json](./246979-minky.json) |
@@ -3368,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage | 371353 | [371353-mirage.json](./371353-mirage.json) |
 | Mirage Motel | 183061 | [183061-mirage-motel.json](./183061-mirage-motel.json) |
 | Mirage Noir | 309655 | [309655-mirage-noir.json](./309655-mirage-noir.json) |
+| Mirage: Beyond the Screen | 278530 | [278530-mirage-beyond-the-screen.json](./278530-mirage-beyond-the-screen.json) |
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
 | Mirages | 223433 | [223433-mirages.json](./223433-mirages.json) |
 | Mirai | 200755 | [200755-mirai.json](./200755-mirai.json) |
@@ -4329,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More of a Kind | 185597 | [185597-more-of-a-kind.json](./185597-more-of-a-kind.json) |
 | More or Less | 261256 | [261256-more-or-less.json](./261256-more-or-less.json) |
 | More Panda: Slot Creator | 329165 | [329165-more-panda-slot-creator.json](./329165-more-panda-slot-creator.json) |
+| More Than Human | 278531 | [278531-more-than-human.json](./278531-more-than-human.json) |
 | More Than Words | 361720 | [361720-more-than-words.json](./361720-more-than-words.json) |
 | More Zombies | 234905 | [234905-more-zombies.json](./234905-more-zombies.json) |
 | More/Less | 351044 | [351044-more-less.json](./351044-more-less.json) |
@@ -5066,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Roadkill | 233532 | [233532-mutant-roadkill.json](./233532-mutant-roadkill.json) |
 | Mutant Storm: Reloaded | 16266 | [16266-mutant-storm-reloaded.json](./16266-mutant-storm-reloaded.json) |
 | Mutant Survivors | 382324 | [382324-mutant-survivors.json](./382324-mutant-survivors.json) |
+| Mutants & Zombies | 278532 | [278532-mutants-and-zombies.json](./278532-mutants-and-zombies.json) |
 | Mutants Ate My Carrots | 273401 | [273401-mutants-ate-my-carrots.json](./273401-mutants-ate-my-carrots.json) |
 | Mutants Of Mist | 285964 | [285964-mutants-of-mist.json](./285964-mutants-of-mist.json) |
 | Mutants: Genesis | 220144 | [220144-mutants-genesis.json](./220144-mutants-genesis.json) |
