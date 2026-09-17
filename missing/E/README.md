@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
 | Empyrion - Galactic Survival: Complete Edition | 371228 | [371228-empyrion-galactic-survival-complete-edition.json](./371228-empyrion-galactic-survival-complete-edition.json) |
 | EmuDevz | 386285 | [386285-emudevz.json](./386285-emudevz.json) |
+| Emzombed | 267473 | [267473-emzombed.json](./267473-emzombed.json) |
 | En Passant | 234059 | [234059-en-passant.json](./234059-en-passant.json) |
 | En-Fem-E No. 9: Reborn | 195780 | [195780-en-fem-e-no-9-reborn.json](./195780-en-fem-e-no-9-reborn.json) |
 | En-Fem-E No. 9: The Factory | 288226 | [288226-en-fem-e-no-9-the-factory.json](./288226-en-fem-e-no-9-the-factory.json) |
@@ -1464,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escort Alia | 241363 | [241363-escort-alia.json](./241363-escort-alia.json) |
 | Escort Commander | 80998 | [80998-escort-commander.json](./80998-escort-commander.json) |
 | Escort's Secrets 18+ | 275135 | [275135-escorts-secrets-18.json](./275135-escorts-secrets-18.json) |
+| Eseala | 267472 | [267472-eseala.json](./267472-eseala.json) |
 | ESHQ | 327410 | [327410-eshq.json](./327410-eshq.json) |
 | Eskimo Games | 80527 | [80527-eskimo-games.json](./80527-eskimo-games.json) |
 | Esklavos C10 | 315080 | [315080-esklavos-c10.json](./315080-esklavos-c10.json) |
