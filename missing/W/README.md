@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk on the Ground Simulator | 120945 | [120945-walk-on-the-ground-simulator.json](./120945-walk-on-the-ground-simulator.json) |
 | Walk the Fort | 115605 | [115605-walk-the-fort.json](./115605-walk-the-fort.json) |
 | Walk The Frog | 348324 | [348324-walk-the-frog.json](./348324-walk-the-frog.json) |
+| Walk the Times | 258020 | [258020-walk-the-times.json](./258020-walk-the-times.json) |
 | Walk With Me | 128002 | [128002-walk-with-me.json](./128002-walk-with-me.json) |
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
 | Walkabout Mini Golf: Alice's Adventures in Wonderland | 380577 | [380577-walkabout-mini-golf-alices-adventures-in-wonderland.json](./380577-walkabout-mini-golf-alices-adventures-in-wonderland.json) |
@@ -1063,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Stars Collide | 364519 | [364519-when-stars-collide.json](./364519-when-stars-collide.json) |
 | When Tails Gets Bored | 228460 | [228460-when-tails-gets-bored.json](./228460-when-tails-gets-bored.json) |
 | When the Barn Sleeps | 389998 | [389998-when-the-barn-sleeps.json](./389998-when-the-barn-sleeps.json) |
+| When the Light Dies | 258000 | [258000-when-the-light-dies.json](./258000-when-the-light-dies.json) |
 | When the Lying Petals Scatter Into the Wind | 155104 | [155104-when-the-lying-petals-scatter-into-the-wind.json](./155104-when-the-lying-petals-scatter-into-the-wind.json) |
 | When the Moon Falls, We Speak | 390677 | [390677-when-the-moon-falls-we-speak.json](./390677-when-the-moon-falls-we-speak.json) |
 | When The Rumors Become Real | 370185 | [370185-when-the-rumors-become-real.json](./370185-when-the-rumors-become-real.json) |
