@@ -3700,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser's Diary: Take the Quiz! | 328602 | [328602-bowsers-diary-take-the-quiz.json](./328602-bowsers-diary-take-the-quiz.json) |
 | Bowser's Fury | 142909 | [142909-bowsers-fury.json](./142909-bowsers-fury.json) |
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
+| Bowser's Valley | 268009 | [268009-bowsers-valley.json](./268009-bowsers-valley.json) |
 | Bowslinger | 33088 | [33088-bowslinger.json](./33088-bowslinger.json) |
 | Box #341 | 333631 | [333631-box-341.json](./333631-box-341.json) |
 | Box A Chocolate | 112285 | [112285-box-a-chocolate.json](./112285-box-a-chocolate.json) |
