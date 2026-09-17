@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikiss 2: Complete Edition | 141893 | [141893-aikiss-2-complete-edition.json](./141893-aikiss-2-complete-edition.json) |
 | Aikiss 3 Cute | 182471 | [182471-aikiss-3-cute.json](./182471-aikiss-3-cute.json) |
 | Aikiss 3 Cute: Complete Limited Edition | 182478 | [182478-aikiss-3-cute-complete-limited-edition.json](./182478-aikiss-3-cute-complete-limited-edition.json) |
+| Aikokuryuu no Memoria | 257455 | [257455-aikokuryuu-no-memoria.json](./257455-aikokuryuu-no-memoria.json) |
 | Ailse of Shadows | 410227 | [410227-ailse-of-shadows.json](./410227-ailse-of-shadows.json) |
 | Ailuri | 189192 | [189192-ailuri.json](./189192-ailuri.json) |
 | Aim & Shoot | 358841 | [358841-aim-and-shoot.json](./358841-aim-and-shoot.json) |
@@ -839,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirFMC | 90201 | [90201-airfmc.json](./90201-airfmc.json) |
 | Airforce Delta | 47285 | [47285-airforce-delta.json](./47285-airforce-delta.json) |
 | AirForce Delta Storm | 5718 | [5718-airforce-delta-storm.json](./5718-airforce-delta-storm.json) |
+| Airframe Ultra | 257450 | [257450-airframe-ultra.json](./257450-airframe-ultra.json) |
 | AirHead Adam | 261325 | [261325-airhead-adam.json](./261325-airhead-adam.json) |
 | Airheart: The Deluxe Edition | 52570 | [52570-airheart-the-deluxe-edition.json](./52570-airheart-the-deluxe-edition.json) |
 | AirJet Fighter Sky Dominators: Aerial Assault | 268480 | [268480-airjet-fighter-sky-dominators-aerial-assault.json](./268480-airjet-fighter-sky-dominators-aerial-assault.json) |
@@ -2250,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Observer | 353284 | [353284-anomaly-observer.json](./353284-anomaly-observer.json) |
 | Anomaly Patroller | 325240 | [325240-anomaly-patroller.json](./325240-anomaly-patroller.json) |
 | Anomaly President | 320975 | [320975-anomaly-president.json](./320975-anomaly-president.json) |
+| Anomaly Report | 257424 | [257424-anomaly-report.json](./257424-anomaly-report.json) |
 | Anomaly Tunnel | 413595 | [413595-anomaly-tunnel.json](./413595-anomaly-tunnel.json) |
 | Anomaly: Warzone Earth | 8758 | [8758-anomaly-warzone-earth.json](./8758-anomaly-warzone-earth.json) |
 | Anomalytics: From the Files of the Arcane Statistics Authority | 293094 | [293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json](./293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json) |
@@ -4030,6 +4033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AutoDemo Levels in SADX | 198544 | [198544-autodemo-levels-in-sadx.json](./198544-autodemo-levels-in-sadx.json) |
 | Autoescuela Aprueba Conmigo | 86072 | [86072-autoescuela-aprueba-conmigo.json](./86072-autoescuela-aprueba-conmigo.json) |
 | Autoescuela Trainer | 269652 | [269652-autoescuela-trainer.json](./269652-autoescuela-trainer.json) |
+| Autofading Se Disparaître | 257429 | [257429-autofading-se-disparaitre.json](./257429-autofading-se-disparaitre.json) |
 | AutoForge | 257105 | [257105-autoforge.json](./257105-autoforge.json) |
 | Autogiro | 326251 | [326251-autogiro.json](./326251-autogiro.json) |
 | Autograv | 288194 | [288194-autograv.json](./288194-autograv.json) |
@@ -4060,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista: Snetterton | 171087 | [171087-automobilista-snetterton.json](./171087-automobilista-snetterton.json) |
 | AutoParts Simulator | 346163 | [346163-autoparts-simulator.json](./346163-autoparts-simulator.json) |
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
+| Autumn Hike | 257431 | [257431-autumn-hike.json](./257431-autumn-hike.json) |
 | Autumn Isle | 362352 | [362352-autumn-isle.json](./362352-autumn-isle.json) |
 | Autumn Leaves | 109731 | [109731-autumn-leaves.json](./109731-autumn-leaves.json) |
 | Autumn Night 3D Shooter | 29723 | [29723-autumn-night-3d-shooter.json](./29723-autumn-night-3d-shooter.json) |
