@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of Fortune | 360676 | [360676-cards-of-fortune.json](./360676-cards-of-fortune.json) |
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
 | Cards with Personalities Classic | 291620 | [291620-cards-with-personalities-classic.json](./291620-cards-with-personalities-classic.json) |
+| Cards, Universe & Everything | 248154 | [248154-cards-universe-and-everything.json](./248154-cards-universe-and-everything.json) |
 | Cards! MonkeyBox 2 | 174300 | [174300-cards-monkeybox-2.json](./174300-cards-monkeybox-2.json) |
 | CardShark Hearts | 83479 | [83479-cardshark-hearts.json](./83479-cardshark-hearts.json) |
 | Cardtographer | 330339 | [330339-cardtographer.json](./330339-cardtographer.json) |
@@ -1331,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell Phone Love Letter | 256330 | [256330-cell-phone-love-letter.json](./256330-cell-phone-love-letter.json) |
 | Cell to Singularity: Evolution | 259562 | [259562-cell-to-singularity-evolution.json](./259562-cell-to-singularity-evolution.json) |
 | Cell Tune | 134618 | [134618-cell-tune.json](./134618-cell-tune.json) |
+| Cell: Idle Factory Incremental | 248150 | [248150-cell-idle-factory-incremental.json](./248150-cell-idle-factory-incremental.json) |
 | Cellar | 33323 | [33323-cellar.json](./33323-cellar.json) |
 | Cellar: Rags and Knife | 171025 | [171025-cellar-rags-and-knife.json](./171025-cellar-rags-and-knife.json) |
 | Cellbreak | 383956 | [383956-cellbreak.json](./383956-cellbreak.json) |
@@ -1650,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef | 128575 | [128575-chef.json](./128575-chef.json) |
 | Chef Capybara | 253996 | [253996-chef-capybara.json](./253996-chef-capybara.json) |
 | Chef Life: A Restaurant Simulator | 191698 | [191698-chef-life-a-restaurant-simulator.json](./191698-chef-life-a-restaurant-simulator.json) |
+| Chef Ramsay | 248130 | [248130-chef-ramsay.json](./248130-chef-ramsay.json) |
 | Chef RPG | 191154 | [191154-chef-rpg.json](./191154-chef-rpg.json) |
 | Chef Wanted | 232665 | [232665-chef-wanted.json](./232665-chef-wanted.json) |
 | Chef Wars | 102115 | [102115-chef-wars.json](./102115-chef-wars.json) |
@@ -4978,6 +4981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Droid Holiday Special | 360110 | [360110-cube-droid-holiday-special.json](./360110-cube-droid-holiday-special.json) |
 | Cube Escape | 253984 | [253984-cube-escape.json](./253984-cube-escape.json) |
 | Cube Escape: Paradox - Chapter 2 | 133968 | [133968-cube-escape-paradox-chapter-2.json](./133968-cube-escape-paradox-chapter-2.json) |
+| Cube Experimental | 248122 | [248122-cube-experimental.json](./248122-cube-experimental.json) |
 | Cube Fight | 213613 | [213613-cube-fight.json](./213613-cube-fight.json) |
 | Cube Foundry | 349876 | [349876-cube-foundry.json](./349876-cube-foundry.json) |
 | Cube Game | 137605 | [137605-cube-game.json](./137605-cube-game.json) |
