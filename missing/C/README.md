@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Rise of New Champions - Tsubasa Ozora Mission | 214544 | [214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json](./214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json) |
 | Captain Underpants: Epic Choice-o-rama | 256837 | [256837-captain-underpants-epic-choice-o-rama.json](./256837-captain-underpants-epic-choice-o-rama.json) |
 | Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
+| Captain Willie | 285033 | [285033-captain-willie.json](./285033-captain-willie.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
 | Capture Corps: Archipelago | 217867 | [217867-capture-corps-archipelago.json](./217867-capture-corps-archipelago.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
@@ -3645,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corner Clash | 390520 | [390520-corner-clash.json](./390520-corner-clash.json) |
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
 | Corner Loot | 360003 | [360003-corner-loot.json](./360003-corner-loot.json) |
+| Cornsweeper | 285039 | [285039-cornsweeper.json](./285039-cornsweeper.json) |
 | Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
 | Cornucopia of Kaizo | 330124 | [330124-cornucopia-of-kaizo.json](./330124-cornucopia-of-kaizo.json) |
 | Corny Crush | 210691 | [210691-corny-crush.json](./210691-corny-crush.json) |
