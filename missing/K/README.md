@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K.O. The Live Boxing | 386677 | [386677-k-o-the-live-boxing.json](./386677-k-o-the-live-boxing.json) |
 | K.S.-n-Kickin | 265977 | [265977-k-s-n-kickin.json](./265977-k-s-n-kickin.json) |
 | K11: Kommissare im Einsatz | 268183 | [268183-k11-kommissare-im-einsatz.json](./268183-k11-kommissare-im-einsatz.json) |
+| K2: Digital Edition | 274560 | [274560-k2-digital-edition.json](./274560-k2-digital-edition.json) |
 | K37-D | 130966 | [130966-k37-d.json](./130966-k37-d.json) |
 | Ka-52 Team Alligator | 78646 | [78646-ka-52-team-alligator.json](./78646-ka-52-team-alligator.json) |
 | Ka-Blooey | 42660 | [42660-ka-blooey.json](./42660-ka-blooey.json) |
@@ -795,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Tongue | 87873 | [87873-king-tongue.json](./87873-king-tongue.json) |
 | King Tut’s Tomb | 366263 | [366263-king-tut-s-tomb.json](./366263-king-tut-s-tomb.json) |
 | King Valley | 121729 | [121729-king-valley.json](./121729-king-valley.json) |
+| King Wizard, of the Forest Kingdom | 274573 | [274573-king-wizard-of-the-forest-kingdom.json](./274573-king-wizard-of-the-forest-kingdom.json) |
 | King's Bounty 2 | 74329 | [74329-kings-bounty-2.json](./74329-kings-bounty-2.json) |
 | King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
 | King's Bounty II: Lord's Edition | 155100 | [155100-kings-bounty-ii-lords-edition.json](./155100-kings-bounty-ii-lords-edition.json) |
@@ -1470,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kumamaru Adventure | 297638 | [297638-kumamaru-adventure.json](./297638-kumamaru-adventure.json) |
 | Kumamon Run | 283275 | [283275-kumamon-run.json](./283275-kumamon-run.json) |
 | Kumari Samsara: The Living Goddess | 402909 | [402909-kumari-samsara-the-living-goddess.json](./402909-kumari-samsara-the-living-goddess.json) |
+| Kumi-Daiko Beatoff | 274546 | [274546-kumi-daiko-beatoff.json](./274546-kumi-daiko-beatoff.json) |
 | Kumitate Battle: Kuttu Ketto | 70995 | [70995-kumitate-battle-kuttu-ketto.json](./70995-kumitate-battle-kuttu-ketto.json) |
 | Kumo | 120930 | [120930-kumo.json](./120930-kumo.json) |
 | Kumoon: Ballistic Physics Puzzle | 19029 | [19029-kumoon-ballistic-physics-puzzle.json](./19029-kumoon-ballistic-physics-puzzle.json) |
