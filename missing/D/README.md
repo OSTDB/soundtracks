@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
 | Dark Zodiac | 343338 | [343338-dark-zodiac.json](./343338-dark-zodiac.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
+| DarkAndLight | 280362 | [280362-darkandlight.json](./280362-darkandlight.json) |
 | DarkBazaar | 393654 | [393654-darkbazaar.json](./393654-darkbazaar.json) |
 | DarkBind | 197330 | [197330-darkbind.json](./197330-darkbind.json) |
 | Darkblade Ascent | 249201 | [249201-darkblade-ascent.json](./249201-darkblade-ascent.json) |
@@ -2760,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
 | DNA 1: Finale | 311106 | [311106-dna-1-finale.json](./311106-dna-1-finale.json) |
 | DNA Nemesis | 415147 | [415147-dna-nemesis.json](./415147-dna-nemesis.json) |
+| DNA: Episode 1 | 280315 | [280315-dna-episode-1.json](./280315-dna-episode-1.json) |
 | DNA: Episode 4 | 297801 | [297801-dna-episode-4.json](./297801-dna-episode-4.json) |
 | DNA: Episode 5 | 298678 | [298678-dna-episode-5.json](./298678-dna-episode-5.json) |
 | DNA: Final Episode - Part 1 | 311105 | [311105-dna-final-episode-part-1.json](./311105-dna-final-episode-part-1.json) |
