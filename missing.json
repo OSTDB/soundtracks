@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T04:04:14.515Z",
-  "total_missing": 81012,
+  "generated_at": "2026-09-17T04:18:57.925Z",
+  "total_missing": 81062,
   "games": [
     {
       "igdb_id": 306086,
@@ -1868,6 +1868,11 @@
       "file": "missing/0-9/308943-2d-dogfight-sunset-and-sunrise.json"
     },
     {
+      "igdb_id": 276268,
+      "game_name": "2D Dogfight: World War II - Eastern Front and Pacific",
+      "file": "missing/0-9/276268-2d-dogfight-world-war-ii-eastern-front-and-pacific.json"
+    },
+    {
       "igdb_id": 301007,
       "game_name": "2D Indie Bundle",
       "file": "missing/0-9/301007-2d-indie-bundle.json"
@@ -2626,6 +2631,11 @@
       "igdb_id": 140624,
       "game_name": "4K Adventure",
       "file": "missing/0-9/140624-4k-adventure.json"
+    },
+    {
+      "igdb_id": 276274,
+      "game_name": "4Tacos",
+      "file": "missing/0-9/276274-4tacos.json"
     },
     {
       "igdb_id": 120320,
@@ -6511,6 +6521,11 @@
       "igdb_id": 21134,
       "game_name": "Agatha Christie: Death on the Nile",
       "file": "missing/A/21134-agatha-christie-death-on-the-nile.json"
+    },
+    {
+      "igdb_id": 276303,
+      "game_name": "Agatha Christie: Hercule Poirot - The London Case: Deluxe",
+      "file": "missing/A/276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json"
     },
     {
       "igdb_id": 207506,
@@ -24383,6 +24398,11 @@
       "file": "missing/B/138742-b67.json"
     },
     {
+      "igdb_id": 276296,
+      "game_name": "Ba Quartet X",
+      "file": "missing/B/276296-ba-quartet-x.json"
+    },
+    {
       "igdb_id": 295565,
       "game_name": "Baa! Never Stop Bleating",
       "file": "missing/B/295565-baa-never-stop-bleating.json"
@@ -34028,6 +34048,11 @@
       "file": "missing/B/22337-big-cup-cricket.json"
     },
     {
+      "igdb_id": 276269,
+      "game_name": "Big D Randy",
+      "file": "missing/B/276269-big-d-randy.json"
+    },
+    {
       "igdb_id": 75067,
       "game_name": "Big Drunk Satanic Massacre",
       "file": "missing/B/75067-big-drunk-satanic-massacre.json"
@@ -40358,6 +40383,11 @@
       "file": "missing/B/380996-bolt-action.json"
     },
     {
+      "igdb_id": 276281,
+      "game_name": "BoltBreak 2",
+      "file": "missing/B/276281-boltbreak-2.json"
+    },
+    {
       "igdb_id": 203914,
       "game_name": "Boltcraft",
       "file": "missing/B/203914-boltcraft.json"
@@ -46143,6 +46173,11 @@
       "file": "missing/B/232655-buildcraft.json"
     },
     {
+      "igdb_id": 276307,
+      "game_name": "Builder Flipper Bundle",
+      "file": "missing/B/276307-builder-flipper-bundle.json"
+    },
+    {
       "igdb_id": 237080,
       "game_name": "Builder Simulator VR",
       "file": "missing/B/237080-builder-simulator-vr.json"
@@ -48768,6 +48803,11 @@
       "file": "missing/C/135300-call-of-duty-black-ops-mobile.json"
     },
     {
+      "igdb_id": 276273,
+      "game_name": "Call of Duty: Endowment (C.O.D.E.) Warrior Pack",
+      "file": "missing/C/276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json"
+    },
+    {
       "igdb_id": 294871,
       "game_name": "Call of Duty: Future Warfare",
       "file": "missing/C/294871-call-of-duty-future-warfare.json"
@@ -48956,6 +48996,11 @@
       "igdb_id": 333653,
       "game_name": "Call of the Underworld",
       "file": "missing/C/333653-call-of-the-underworld.json"
+    },
+    {
+      "igdb_id": 276300,
+      "game_name": "Call of the Wild: The Angler - Reserve Pass",
+      "file": "missing/C/276300-call-of-the-wild-the-angler-reserve-pass.json"
     },
     {
       "igdb_id": 366229,
@@ -56761,6 +56806,11 @@
       "igdb_id": 288792,
       "game_name": "Chicken Tale",
       "file": "missing/C/288792-chicken-tale.json"
+    },
+    {
+      "igdb_id": 276297,
+      "game_name": "Chicken vs. Eggs",
+      "file": "missing/C/276297-chicken-vs-eggs.json"
     },
     {
       "igdb_id": 48001,
@@ -65928,6 +65978,11 @@
       "file": "missing/C/120385-cooking-trip-back-on-the-road.json"
     },
     {
+      "igdb_id": 276299,
+      "game_name": "Cooking Trip: New Challenge - Collector's Edition",
+      "file": "missing/C/276299-cooking-trip-new-challenge-collectors-edition.json"
+    },
+    {
       "igdb_id": 227475,
       "game_name": "Cooking Truck",
       "file": "missing/C/227475-cooking-truck.json"
@@ -67096,6 +67151,11 @@
       "igdb_id": 309861,
       "game_name": "Cosplay Crisis: Succubus Invasion",
       "file": "missing/C/309861-cosplay-crisis-succubus-invasion.json"
+    },
+    {
+      "igdb_id": 276323,
+      "game_name": "Cosplay Relaxation",
+      "file": "missing/C/276323-cosplay-relaxation.json"
     },
     {
       "igdb_id": 144963,
@@ -69661,6 +69721,11 @@
       "igdb_id": 130912,
       "game_name": "Crimax",
       "file": "missing/C/130912-crimax.json"
+    },
+    {
+      "igdb_id": 276298,
+      "game_name": "Crime Boss: Heavy Hitters Pack",
+      "file": "missing/C/276298-crime-boss-heavy-hitters-pack.json"
     },
     {
       "igdb_id": 315500,
@@ -84118,6 +84183,11 @@
       "file": "missing/D/347125-deus-ex-the-conspiracy.json"
     },
     {
+      "igdb_id": 276277,
+      "game_name": "Deus Ex: Transcended",
+      "file": "missing/D/276277-deus-ex-transcended.json"
+    },
+    {
       "igdb_id": 9575,
       "game_name": "Deuteros: The Next Millennium",
       "file": "missing/D/9575-deuteros-the-next-millennium.json"
@@ -87911,6 +87981,11 @@
       "igdb_id": 13594,
       "game_name": "Dizzy Dice",
       "file": "missing/D/13594-dizzy-dice.json"
+    },
+    {
+      "igdb_id": 276294,
+      "game_name": "Dizzy Fight",
+      "file": "missing/D/276294-dizzy-fight.json"
     },
     {
       "igdb_id": 48672,
@@ -101133,6 +101208,11 @@
       "file": "missing/E/201312-electron-handsome-boy.json"
     },
     {
+      "igdb_id": 276295,
+      "game_name": "Electron Zaraftor",
+      "file": "missing/E/276295-electron-zaraftor.json"
+    },
+    {
       "igdb_id": 81056,
       "game_name": "Electronauts",
       "file": "missing/E/81056-electronauts.json"
@@ -108433,6 +108513,11 @@
       "file": "missing/E/324305-expedition-to-the-backrooms.json"
     },
     {
+      "igdb_id": 276293,
+      "game_name": "Expedition: Crushing Depth",
+      "file": "missing/E/276293-expedition-crushing-depth.json"
+    },
+    {
       "igdb_id": 324300,
       "game_name": "Expedition: Into Darkness",
       "file": "missing/E/324300-expedition-into-darkness.json"
@@ -112391,6 +112476,11 @@
       "igdb_id": 3180,
       "game_name": "Farming Simulator 2013",
       "file": "missing/F/3180-farming-simulator-2013.json"
+    },
+    {
+      "igdb_id": 276271,
+      "game_name": "Farming Simulator 22: Case IH Farmall Anniversary Pack",
+      "file": "missing/F/276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json"
     },
     {
       "igdb_id": 296643,
@@ -122638,6 +122728,11 @@
       "file": "missing/F/363899-fortnite-hexed-and-haunted-pack.json"
     },
     {
+      "igdb_id": 276292,
+      "game_name": "Fortnite: Infinite Drift Pack",
+      "file": "missing/F/276292-fortnite-infinite-drift-pack.json"
+    },
+    {
       "igdb_id": 303239,
       "game_name": "Fortnite: May 2024 Fortnite Crew Pack",
       "file": "missing/F/303239-fortnite-may-2024-fortnite-crew-pack.json"
@@ -132706,6 +132801,11 @@
       "igdb_id": 236528,
       "game_name": "Gilded Destiny",
       "file": "missing/G/236528-gilded-destiny.json"
+    },
+    {
+      "igdb_id": 276275,
+      "game_name": "Gilgamesh II",
+      "file": "missing/G/276275-gilgamesh-ii.json"
     },
     {
       "igdb_id": 376456,
@@ -162808,6 +162908,11 @@
       "file": "missing/I/412279-infected-world.json"
     },
     {
+      "igdb_id": 276267,
+      "game_name": "Infected: Outpost",
+      "file": "missing/I/276267-infected-outpost.json"
+    },
+    {
       "igdb_id": 142474,
       "game_name": "Infection",
       "file": "missing/I/142474-infection.json"
@@ -171328,6 +171433,11 @@
       "file": "missing/J/255353-jujuju-club-potsunen.json"
     },
     {
+      "igdb_id": 276324,
+      "game_name": "Jujutsu Kaisen: Cursed Clash - Deluxe Edition",
+      "file": "missing/J/276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json"
+    },
+    {
       "igdb_id": 307753,
       "game_name": "Jujutsu Kaisen: Cursed Clash - The Shibuya Incident",
       "file": "missing/J/307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json"
@@ -173236,6 +173346,11 @@
       "igdb_id": 269317,
       "game_name": "Kaisen! Ika Gundan!",
       "file": "missing/K/269317-kaisen-ika-gundan.json"
+    },
+    {
+      "igdb_id": 276270,
+      "game_name": "Kaisho",
+      "file": "missing/K/276270-kaisho.json"
     },
     {
       "igdb_id": 66034,
@@ -180173,6 +180288,11 @@
       "file": "missing/K/97384-kuento-wasureenu-hibi-ni.json"
     },
     {
+      "igdb_id": 276290,
+      "game_name": "Kugle",
+      "file": "missing/K/276290-kugle.json"
+    },
+    {
       "igdb_id": 303108,
       "game_name": "Kuis Iseng Kaesang",
       "file": "missing/K/303108-kuis-iseng-kaesang.json"
@@ -183501,6 +183621,11 @@
       "igdb_id": 46004,
       "game_name": "Leading Company",
       "file": "missing/L/46004-leading-company.json"
+    },
+    {
+      "igdb_id": 276272,
+      "game_name": "Leaf Blower Sim",
+      "file": "missing/L/276272-leaf-blower-sim.json"
     },
     {
       "igdb_id": 290556,
@@ -217823,6 +217948,11 @@
       "file": "missing/M/320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json"
     },
     {
+      "igdb_id": 276278,
+      "game_name": "Mr. Mix",
+      "file": "missing/M/276278-mr-mix.json"
+    },
+    {
       "igdb_id": 284894,
       "game_name": "Mr. Mueller's Grand Experiment",
       "file": "missing/M/284894-mr-muellers-grand-experiment.json"
@@ -220606,6 +220736,11 @@
       "igdb_id": 274756,
       "game_name": "My Next Life as a Bird",
       "file": "missing/M/274756-my-next-life-as-a-bird.json"
+    },
+    {
+      "igdb_id": 276308,
+      "game_name": "My Night Sun All Games",
+      "file": "missing/M/276308-my-night-sun-all-games.json"
     },
     {
       "igdb_id": 262367,
@@ -245008,6 +245143,11 @@
       "file": "missing/P/223984-patrol-police-job-simulator.json"
     },
     {
+      "igdb_id": 276289,
+      "game_name": "Patrolling Mars",
+      "file": "missing/P/276289-patrolling-mars.json"
+    },
+    {
       "igdb_id": 359409,
       "game_name": "Patrolling the Highway",
       "file": "missing/P/359409-patrolling-the-highway.json"
@@ -250691,6 +250831,11 @@
       "igdb_id": 270122,
       "game_name": "Pirates Odyssey",
       "file": "missing/P/270122-pirates-odyssey.json"
+    },
+    {
+      "igdb_id": 276321,
+      "game_name": "Pirates of Donkey Island",
+      "file": "missing/P/276321-pirates-of-donkey-island.json"
     },
     {
       "igdb_id": 115668,
@@ -273343,6 +273488,11 @@
       "file": "missing/R/121996-resolutiion.json"
     },
     {
+      "igdb_id": 276280,
+      "game_name": "Resonance",
+      "file": "missing/R/276280-resonance.json"
+    },
+    {
       "igdb_id": 408192,
       "game_name": "Resonance in Orbit",
       "file": "missing/R/408192-resonance-in-orbit.json"
@@ -275393,6 +275543,11 @@
       "file": "missing/R/277830-ride-5-dreamers-garage-pack.json"
     },
     {
+      "igdb_id": 276288,
+      "game_name": "Ride 5: Free Pack 02",
+      "file": "missing/R/276288-ride-5-free-pack-02.json"
+    },
+    {
       "igdb_id": 292671,
       "game_name": "Ride 5: Free Pack 05",
       "file": "missing/R/292671-ride-5-free-pack-05.json"
@@ -276546,6 +276701,11 @@
       "igdb_id": 397819,
       "game_name": "Risk of Rain 2: Hallowed Concepts",
       "file": "missing/R/397819-risk-of-rain-2-hallowed-concepts.json"
+    },
+    {
+      "igdb_id": 276287,
+      "game_name": "Risk of Rain 2: Seekers of the Storm",
+      "file": "missing/R/276287-risk-of-rain-2-seekers-of-the-storm.json"
     },
     {
       "igdb_id": 229794,
@@ -320733,6 +320893,11 @@
       "file": "missing/S/56465-strike-of-kings.json"
     },
     {
+      "igdb_id": 276279,
+      "game_name": "Strike Solitaire",
+      "file": "missing/S/276279-strike-solitaire.json"
+    },
+    {
       "igdb_id": 54406,
       "game_name": "Strike Solitaire",
       "file": "missing/S/54406-strike-solitaire.json"
@@ -329178,6 +329343,11 @@
       "file": "missing/S/312915-suul.json"
     },
     {
+      "igdb_id": 276286,
+      "game_name": "Suv 4x4 Car Parking Simulator",
+      "file": "missing/S/276286-suv-4x4-car-parking-simulator.json"
+    },
+    {
       "igdb_id": 214752,
       "game_name": "Suvarnabhumi Mahayuth",
       "file": "missing/S/214752-suvarnabhumi-mahayuth.json"
@@ -330916,6 +331086,11 @@
       "igdb_id": 192979,
       "game_name": "SynCo 2321",
       "file": "missing/S/192979-synco-2321.json"
+    },
+    {
+      "igdb_id": 276285,
+      "game_name": "Syncromania",
+      "file": "missing/S/276285-syncromania.json"
     },
     {
       "igdb_id": 267642,
@@ -333946,6 +334121,11 @@
       "igdb_id": 366315,
       "game_name": "Tamako",
       "file": "missing/T/366315-tamako.json"
+    },
+    {
+      "igdb_id": 276284,
+      "game_name": "Tamara In The Forsaken Dungeon",
+      "file": "missing/T/276284-tamara-in-the-forsaken-dungeon.json"
     },
     {
       "igdb_id": 240982,
@@ -339563,6 +339743,11 @@
       "file": "missing/T/220672-the-asafo-journey.json"
     },
     {
+      "igdb_id": 276306,
+      "game_name": "The Ascent: CyberSec Pack",
+      "file": "missing/T/276306-the-ascent-cybersec-pack.json"
+    },
+    {
       "igdb_id": 298061,
       "game_name": "The Ascot",
       "file": "missing/T/298061-the-ascot.json"
@@ -344091,6 +344276,11 @@
       "igdb_id": 152308,
       "game_name": "The Fast and The Furious",
       "file": "missing/T/152308-the-fast-and-the-furious.json"
+    },
+    {
+      "igdb_id": 276309,
+      "game_name": "The Fast Journey",
+      "file": "missing/T/276309-the-fast-journey.json"
     },
     {
       "igdb_id": 211209,
@@ -369578,6 +369768,16 @@
       "file": "missing/T/306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json"
     },
     {
+      "igdb_id": 276319,
+      "game_name": "Trainz Plus: CD Bmto292 109",
+      "file": "missing/T/276319-trainz-plus-cd-bmto292-109.json"
+    },
+    {
+      "igdb_id": 276314,
+      "game_name": "Trainz Plus: CD Doubledecker Pack No. 2",
+      "file": "missing/T/276314-trainz-plus-cd-doubledecker-pack-no-2.json"
+    },
+    {
       "igdb_id": 205037,
       "game_name": "Trainz Plus: CFR B 26-26 098",
       "file": "missing/T/205037-trainz-plus-cfr-b-26-26-098.json"
@@ -369631,6 +369831,11 @@
       "igdb_id": 205566,
       "game_name": "Trainz Plus: CP SD40-2 #5865-5879 Dual Flags",
       "file": "missing/T/205566-trainz-plus-cp-sd40-2-5865-5879-dual-flags.json"
+    },
+    {
+      "igdb_id": 276317,
+      "game_name": "Trainz Plus: CSD Bap 117",
+      "file": "missing/T/276317-trainz-plus-csd-bap-117.json"
     },
     {
       "igdb_id": 205557,
@@ -369838,6 +370043,16 @@
       "file": "missing/T/11015-trainz-railroad-simulator-2007.json"
     },
     {
+      "igdb_id": 276318,
+      "game_name": "Trainz Railroad Simulator 2019: CD Bmto292 109",
+      "file": "missing/T/276318-trainz-railroad-simulator-2019-cd-bmto292-109.json"
+    },
+    {
+      "igdb_id": 276312,
+      "game_name": "Trainz Railroad Simulator 2019: CD Doubledecker Pack No. 2",
+      "file": "missing/T/276312-trainz-railroad-simulator-2019-cd-doubledecker-pack-no-2.json"
+    },
+    {
       "igdb_id": 190717,
       "game_name": "Trainz Railroad Simulator 2019: Centrella Sub Division",
       "file": "missing/T/190717-trainz-railroad-simulator-2019-centrella-sub-division.json"
@@ -369876,6 +370091,11 @@
       "igdb_id": 292665,
       "game_name": "Trainz Railroad Simulator 2019: CFR Modernised Doubledecker Pack No. 2",
       "file": "missing/T/292665-trainz-railroad-simulator-2019-cfr-modernised-doubledecker-pack-no-2.json"
+    },
+    {
+      "igdb_id": 276316,
+      "game_name": "Trainz Railroad Simulator 2019: CSD Bap 117",
+      "file": "missing/T/276316-trainz-railroad-simulator-2019-csd-bap-117.json"
     },
     {
       "igdb_id": 190711,
@@ -370008,6 +370228,16 @@
       "file": "missing/T/195792-trainz-railroad-simulator-2022.json"
     },
     {
+      "igdb_id": 276320,
+      "game_name": "Trainz Railroad Simulator 2022: CD Bmto292 109",
+      "file": "missing/T/276320-trainz-railroad-simulator-2022-cd-bmto292-109.json"
+    },
+    {
+      "igdb_id": 276313,
+      "game_name": "Trainz Railroad Simulator 2022: CD Doubledecker Pack No. 2",
+      "file": "missing/T/276313-trainz-railroad-simulator-2022-cd-doubledecker-pack-no-2.json"
+    },
+    {
       "igdb_id": 205039,
       "game_name": "Trainz Railroad Simulator 2022: CFR B 26-26 098",
       "file": "missing/T/205039-trainz-railroad-simulator-2022-cfr-b-26-26-098.json"
@@ -370046,6 +370276,11 @@
       "igdb_id": 292669,
       "game_name": "Trainz Railroad Simulator 2022: CFR Modernised Doubledecker Pack No. 2",
       "file": "missing/T/292669-trainz-railroad-simulator-2022-cfr-modernised-doubledecker-pack-no-2.json"
+    },
+    {
+      "igdb_id": 276315,
+      "game_name": "Trainz Railroad Simulator 2022: CSD Bap 117",
+      "file": "missing/T/276315-trainz-railroad-simulator-2022-csd-bap-117.json"
     },
     {
       "igdb_id": 292668,
@@ -374981,6 +375216,11 @@
       "igdb_id": 232706,
       "game_name": "TXXX",
       "file": "missing/T/232706-txxx.json"
+    },
+    {
+      "igdb_id": 276310,
+      "game_name": "Tyalband",
+      "file": "missing/T/276310-tyalband.json"
     },
     {
       "igdb_id": 73229,
@@ -380326,6 +380566,11 @@
       "igdb_id": 249803,
       "game_name": "Vagrus: The Riven Realms - Sunfire and Moonshadow",
       "file": "missing/V/249803-vagrus-the-riven-realms-sunfire-and-moonshadow.json"
+    },
+    {
+      "igdb_id": 276283,
+      "game_name": "Vagrus: The Riven Realms Season Pass",
+      "file": "missing/V/276283-vagrus-the-riven-realms-season-pass.json"
     },
     {
       "igdb_id": 238483,
@@ -399631,6 +399876,11 @@
       "igdb_id": 216804,
       "game_name": "Yeah! Fighting Girl",
       "file": "missing/Y/216804-yeah-fighting-girl.json"
+    },
+    {
+      "igdb_id": 276276,
+      "game_name": "Year 2088 Classic",
+      "file": "missing/Y/276276-year-2088-classic.json"
     },
     {
       "igdb_id": 248046,
