@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
 | Sealark | 64393 | [64393-sealark.json](./64393-sealark.json) |
 | Sealbreakers | 387360 | [387360-sealbreakers.json](./387360-sealbreakers.json) |
+| Sealchain | 274540 | [274540-sealchain.json](./274540-sealchain.json) |
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
@@ -5737,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sperm Into Labia | 310742 | [310742-sperm-into-labia.json](./310742-sperm-into-labia.json) |
 | Sperma | 232698 | [232698-sperma.json](./232698-sperma.json) |
 | Spermula 1 | 131598 | [131598-spermula-1.json](./131598-spermula-1.json) |
+| SPGP Super Polygon Grand Prix | 274542 | [274542-spgp-super-polygon-grand-prix.json](./274542-spgp-super-polygon-grand-prix.json) |
 | Sphaera | 103771 | [103771-sphaera.json](./103771-sphaera.json) |
 | Sphere | 264887 | [264887-sphere.json](./264887-sphere.json) |
 | Sphere | 313887 | [313887-sphere.json](./313887-sphere.json) |
@@ -6273,6 +6275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacking | 4851 | [4851-stacking.json](./4851-stacking.json) |
 | Stacklands 2000 | 298028 | [298028-stacklands-2000.json](./298028-stacklands-2000.json) |
 | Stacklands: Cursed Worlds | 257949 | [257949-stacklands-cursed-worlds.json](./257949-stacklands-cursed-worlds.json) |
+| Stacks: Jungle! | 274552 | [274552-stacks-jungle.json](./274552-stacks-jungle.json) |
 | Stacks: Space! | 238520 | [238520-stacks-space.json](./238520-stacks-space.json) |
 | Stacky Hero | 227866 | [227866-stacky-hero.json](./227866-stacky-hero.json) |
 | StackZap | 337983 | [337983-stackzap.json](./337983-stackzap.json) |
@@ -6682,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
+| StarL2 | 274570 | [274570-starl2.json](./274570-starl2.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
 | Starleaf | 415960 | [415960-starleaf.json](./415960-starleaf.json) |
 | Starless | 204092 | [204092-starless.json](./204092-starless.json) |
@@ -9119,6 +9123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surv | 51986 | [51986-surv.json](./51986-surv.json) |
 | Survarium: Vepr 'Molot' | 171054 | [171054-survarium-vepr-molot.json](./171054-survarium-vepr-molot.json) |
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
+| Survial | 274577 | [274577-survial.json](./274577-survial.json) |
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
 | Survival After War | 319773 | [319773-survival-after-war.json](./319773-survival-after-war.json) |
