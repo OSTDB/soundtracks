@@ -3365,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky In Flames | 398483 | [398483-sky-in-flames.json](./398483-sky-in-flames.json) |
 | Sky Invaders | 346096 | [346096-sky-invaders.json](./346096-sky-invaders.json) |
 | Sky is Arrows | 62128 | [62128-sky-is-arrows.json](./62128-sky-is-arrows.json) |
+| Sky is Arrows: Dragon Bracer Item Chest | 252231 | [252231-sky-is-arrows-dragon-bracer-item-chest.json](./252231-sky-is-arrows-dragon-bracer-item-chest.json) |
 | Sky Island | 308257 | [308257-sky-island.json](./308257-sky-island.json) |
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
@@ -3542,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayaway Camp 2 | 273976 | [273976-slayaway-camp-2.json](./273976-slayaway-camp-2.json) |
 | Slayblade | 394830 | [394830-slayblade.json](./394830-slayblade.json) |
 | Slaycation Paradise | 200679 | [200679-slaycation-paradise.json](./200679-slaycation-paradise.json) |
+| Slayer | 252230 | [252230-slayer.json](./252230-slayer.json) |
 | Slayer | 260130 | [260130-slayer.json](./260130-slayer.json) |
 | Slayer Legend | 226766 | [226766-slayer-legend.json](./226766-slayer-legend.json) |
 | Slayer Shock | 24646 | [24646-slayer-shock.json](./24646-slayer-shock.json) |
