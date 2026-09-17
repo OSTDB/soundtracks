@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otokiyome | 241380 | [241380-otokiyome.json](./241380-otokiyome.json) |
 | Otoko Cross: Naked Remix | 247186 | [247186-otoko-cross-naked-remix.json](./247186-otoko-cross-naked-remix.json) |
 | Otoko Cross: Naked Remix 2 | 381621 | [381621-otoko-cross-naked-remix-2.json](./381621-otoko-cross-naked-remix-2.json) |
+| Otoko Cross: Pretty Boys Dropout! | 249863 | [249863-otoko-cross-pretty-boys-dropout.json](./249863-otoko-cross-pretty-boys-dropout.json) |
 | Otoko Cross: Pretty Boys Mahjong Solitaire | 199569 | [199569-otoko-cross-pretty-boys-mahjong-solitaire.json](./199569-otoko-cross-pretty-boys-mahjong-solitaire.json) |
 | Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
 | Otome Chat Connection | 199051 | [199051-otome-chat-connection.json](./199051-otome-chat-connection.json) |
