@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron 2 Complete | 27833 | [27833-hearts-of-iron-2-complete.json](./27833-hearts-of-iron-2-complete.json) |
 | Hearts of Iron III Collection | 53177 | [53177-hearts-of-iron-iii-collection.json](./53177-hearts-of-iron-iii-collection.json) |
 | Hearts of Iron IV: Allied Armor Pack | 165012 | [165012-hearts-of-iron-iv-allied-armor-pack.json](./165012-hearts-of-iron-iv-allied-armor-pack.json) |
+| Hearts of Iron IV: Arms Against Tyranny | 253959 | [253959-hearts-of-iron-iv-arms-against-tyranny.json](./253959-hearts-of-iron-iv-arms-against-tyranny.json) |
 | Hearts of Iron IV: By Blood Alone | 206963 | [206963-hearts-of-iron-iv-by-blood-alone.json](./206963-hearts-of-iron-iv-by-blood-alone.json) |
 | Hearts of Iron IV: Cadet Edition | 53178 | [53178-hearts-of-iron-iv-cadet-edition.json](./53178-hearts-of-iron-iv-cadet-edition.json) |
 | Hearts of Iron IV: Colonel Edition | 53179 | [53179-hearts-of-iron-iv-colonel-edition.json](./53179-hearts-of-iron-iv-colonel-edition.json) |
