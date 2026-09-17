@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Android Assault: The Revenge of Bari-Arm | 5358 | [5358-android-assault-the-revenge-of-bari-arm.json](./5358-android-assault-the-revenge-of-bari-arm.json) |
 | Android Runner | 100820 | [100820-android-runner.json](./100820-android-runner.json) |
 | Andromalius | 110880 | [110880-andromalius.json](./110880-andromalius.json) |
+| AndroMan on the Moon | 268573 | [268573-androman-on-the-moon.json](./268573-androman-on-the-moon.json) |
 | Andromeda Acolytes | 211400 | [211400-andromeda-acolytes.json](./211400-andromeda-acolytes.json) |
 | Andromeda Mission | 15571 | [15571-andromeda-mission.json](./15571-andromeda-mission.json) |
 | Andromeda One | 292695 | [292695-andromeda-one.json](./292695-andromeda-one.json) |
@@ -3803,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
 | Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
+| Atom Smasher | 268574 | [268574-atom-smasher.json](./268574-atom-smasher.json) |
 | Atom Universe | 18180 | [18180-atom-universe.json](./18180-atom-universe.json) |
 | Atom-X | 111755 | [111755-atom-x.json](./111755-atom-x.json) |
 | Atomaders | 94264 | [94264-atomaders.json](./94264-atomaders.json) |
