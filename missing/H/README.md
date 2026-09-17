@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happiness! De:Lucks | 94724 | [94724-happiness-de-lucks.json](./94724-happiness-de-lucks.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Bird | 312034 | [312034-happy-bird.json](./312034-happy-bird.json) |
+| Happy Bird Day | 275726 | [275726-happy-bird-day.json](./275726-happy-bird-day.json) |
 | Happy Birthdays | 86771 | [86771-happy-birthdays.json](./86771-happy-birthdays.json) |
 | Happy Bones | 169394 | [169394-happy-bones.json](./169394-happy-bones.json) |
 | Happy Brain Puzzle | 208982 | [208982-happy-brain-puzzle.json](./208982-happy-brain-puzzle.json) |
@@ -2965,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huenison | 34253 | [34253-huenison.json](./34253-huenison.json) |
 | Hueor | 127365 | [127365-hueor.json](./127365-hueor.json) |
 | Hues | 289853 | [289853-hues.json](./289853-hues.json) |
+| Hues of the Void | 275728 | [275728-hues-of-the-void.json](./275728-hues-of-the-void.json) |
 | Hues: Moon Sea | 289854 | [289854-hues-moon-sea.json](./289854-hues-moon-sea.json) |
 | Hues: Sunset Valley | 296519 | [296519-hues-sunset-valley.json](./296519-hues-sunset-valley.json) |
 | Hug Me, Senpai! | 368519 | [368519-hug-me-senpai.json](./368519-hug-me-senpai.json) |
