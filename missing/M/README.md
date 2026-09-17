@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make the Empire Great Again | 373081 | [373081-make-the-empire-great-again.json](./373081-make-the-empire-great-again.json) |
 | Make the World a Better Place | 248326 | [248326-make-the-world-a-better-place.json](./248326-make-the-world-a-better-place.json) |
 | Make Them Stop | 240791 | [240791-make-them-stop.json](./240791-make-them-stop.json) |
+| Make Them Walk | 258552 | [258552-make-them-walk.json](./258552-make-them-walk.json) |
 | Make War Not Love 5 | 88234 | [88234-make-war-not-love-5.json](./88234-make-war-not-love-5.json) |
 | Make Words or Die | 174317 | [174317-make-words-or-die.json](./174317-make-words-or-die.json) |
 | Make Your Move | 348322 | [348322-make-your-move.json](./348322-make-your-move.json) |
@@ -1314,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvellous Journeys Bundle | 196282 | [196282-marvellous-journeys-bundle.json](./196282-marvellous-journeys-bundle.json) |
 | Marvelous: Mouhitotsu no Takarajima | 15837 | [15837-marvelous-mouhitotsu-no-takarajima.json](./15837-marvelous-mouhitotsu-no-takarajima.json) |
 | Mary Had A Lost Lamb | 314072 | [314072-mary-had-a-lost-lamb.json](./314072-mary-had-a-lost-lamb.json) |
+| Mary Help Me! | 258518 | [258518-mary-help-me.json](./258518-mary-help-me.json) |
 | Mary Jane | 374154 | [374154-mary-jane.json](./374154-mary-jane.json) |
 | Mary King's Riding Star | 64921 | [64921-mary-kings-riding-star.json](./64921-mary-kings-riding-star.json) |
 | Mary Knots: Garden Wedding | 170554 | [170554-mary-knots-garden-wedding.json](./170554-mary-knots-garden-wedding.json) |
@@ -1740,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Grinder | 391149 | [391149-meat-grinder.json](./391149-meat-grinder.json) |
 | Meat Room | 349853 | [349853-meat-room.json](./349853-meat-room.json) |
 | Meat Shift | 181895 | [181895-meat-shift.json](./181895-meat-shift.json) |
+| Meat Veterans | 258561 | [258561-meat-veterans.json](./258561-meat-veterans.json) |
 | Meat Without Master | 349839 | [349839-meat-without-master.json](./349839-meat-without-master.json) |
 | Meatball | 156613 | [156613-meatball.json](./156613-meatball.json) |
 | Meatdoll Dressup | 408924 | [408924-meatdoll-dressup.json](./408924-meatdoll-dressup.json) |
@@ -3879,6 +3882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momodora III | 17436 | [17436-momodora-iii.json](./17436-momodora-iii.json) |
 | Momodora: Moonlit Farewell | 188088 | [188088-momodora-moonlit-farewell.json](./188088-momodora-moonlit-farewell.json) |
 | Momoe Link | 183052 | [183052-momoe-link.json](./183052-momoe-link.json) |
+| Momogatari | 258526 | [258526-momogatari.json](./258526-momogatari.json) |
 | Momoiro Zousan | 295039 | [295039-momoiro-zousan.json](./295039-momoiro-zousan.json) |
 | Momolu and Friends | 166678 | [166678-momolu-and-friends.json](./166678-momolu-and-friends.json) |
 | Momon: Relic Seekers | 273455 | [273455-momon-relic-seekers.json](./273455-momon-relic-seekers.json) |
@@ -4181,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Roadtrip Hitchhiker Pack: The Color Squad | 261342 | [261342-monster-roadtrip-hitchhiker-pack-the-color-squad.json](./261342-monster-roadtrip-hitchhiker-pack-the-color-squad.json) |
 | Monster RPG 2 | 34312 | [34312-monster-rpg-2.json](./34312-monster-rpg-2.json) |
 | Monster RPG 3 | 97015 | [97015-monster-rpg-3.json](./97015-monster-rpg-3.json) |
+| Monster Run: Downfall of the Empire | 258524 | [258524-monster-run-downfall-of-the-empire.json](./258524-monster-run-downfall-of-the-empire.json) |
 | Monster Saga | 362269 | [362269-monster-saga.json](./362269-monster-saga.json) |
 | Monster Salon Manager | 362366 | [362366-monster-salon-manager.json](./362366-monster-salon-manager.json) |
 | Monster shooter | 108951 | [108951-monster-shooter.json](./108951-monster-shooter.json) |
