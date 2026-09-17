@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aislin's Story: The Bloodbath Trials | 177534 | [177534-aislins-story-the-bloodbath-trials.json](./177534-aislins-story-the-bloodbath-trials.json) |
 | Aiten Eishi: Blue Guardians | 252408 | [252408-aiten-eishi-blue-guardians.json](./252408-aiten-eishi-blue-guardians.json) |
 | Aiyana | 211415 | [211415-aiyana.json](./211415-aiyana.json) |
+| Aiyra | 255772 | [255772-aiyra.json](./255772-aiyra.json) |
 | Ajax | 39324 | [39324-ajax.json](./39324-ajax.json) |
 | AJAX Club Football 2005 | 47305 | [47305-ajax-club-football-2005.json](./47305-ajax-club-football-2005.json) |
 | Ajisai Shiyou ka! | 394134 | [394134-ajisai-shiyou-ka.json](./394134-ajisai-shiyou-ka.json) |
@@ -1652,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Diesel Trains | 96053 | [96053-american-diesel-trains.json](./96053-american-diesel-trains.json) |
 | American Dream | 137017 | [137017-american-dream.json](./137017-american-dream.json) |
 | American Dream | 48634 | [48634-american-dream.json](./48634-american-dream.json) |
+| American Eristics | 255697 | [255697-american-eristics.json](./255697-american-eristics.json) |
 | American Girl: Dress Designer | 18244 | [18244-american-girl-dress-designer.json](./18244-american-girl-dress-designer.json) |
 | American Girl: Julie Finds a Way | 18241 | [18241-american-girl-julie-finds-a-way.json](./18241-american-girl-julie-finds-a-way.json) |
 | American Girl: Julie Saves the Eagles | 18242 | [18242-american-girl-julie-saves-the-eagles.json](./18242-american-girl-julie-saves-the-eagles.json) |
@@ -2202,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annexation | 404838 | [404838-annexation.json](./404838-annexation.json) |
 | Annie and the AI | 223489 | [223489-annie-and-the-ai.json](./223489-annie-and-the-ai.json) |
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
+| Annihilation: Space Tycoon | 255794 | [255794-annihilation-space-tycoon.json](./255794-annihilation-space-tycoon.json) |
 | Annihilith Of Abhorration | 271293 | [271293-annihilith-of-abhorration.json](./271293-annihilith-of-abhorration.json) |
 | Anno 117: Pax Romana - Blooming Cities Pack | 408893 | [408893-anno-117-pax-romana-blooming-cities-pack.json](./408893-anno-117-pax-romana-blooming-cities-pack.json) |
 | Anno 117: Pax Romana - Marvellous Mosaic Pack | 408894 | [408894-anno-117-pax-romana-marvellous-mosaic-pack.json](./408894-anno-117-pax-romana-marvellous-mosaic-pack.json) |
