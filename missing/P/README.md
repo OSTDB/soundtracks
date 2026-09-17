@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipelurker | 314297 | [314297-pipelurker.json](./314297-pipelurker.json) |
 | PipeMan | 80538 | [80538-pipeman.json](./80538-pipeman.json) |
 | Piper | 356068 | [356068-piper.json](./356068-piper.json) |
+| Pipes Maze | 240354 | [240354-pipes-maze.json](./240354-pipes-maze.json) |
 | Pipkin | 315712 | [315712-pipkin.json](./315712-pipkin.json) |
 | Pipler | 57701 | [57701-pipler.json](./57701-pipler.json) |
 | Pipo Park | 141225 | [141225-pipo-park.json](./141225-pipo-park.json) |
@@ -4755,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W Hashiwokakero | 236816 | [236816-puzzle-by-nikoli-w-hashiwokakero.json](./236816-puzzle-by-nikoli-w-hashiwokakero.json) |
 | Puzzle by Nikoli W Heyawake | 230827 | [230827-puzzle-by-nikoli-w-heyawake.json](./230827-puzzle-by-nikoli-w-heyawake.json) |
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
+| Puzzle Cats | 240351 | [240351-puzzle-cats.json](./240351-puzzle-cats.json) |
 | Puzzle Chasers | 292140 | [292140-puzzle-chasers.json](./292140-puzzle-chasers.json) |
 | Puzzle Club | 218450 | [218450-puzzle-club.json](./218450-puzzle-club.json) |
 | Puzzle Collection | 201256 | [201256-puzzle-collection.json](./201256-puzzle-collection.json) |
