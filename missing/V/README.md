@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Vaders | 41983 | [41983-vector-vaders.json](./41983-vector-vaders.json) |
 | Vector Velocity | 75771 | [75771-vector-velocity.json](./75771-vector-velocity.json) |
 | Vector Vendetta | 57100 | [57100-vector-vendetta.json](./57100-vector-vendetta.json) |
+| Vector Wave | 236408 | [236408-vector-wave.json](./236408-vector-wave.json) |
 | Vector Zone | 278687 | [278687-vector-zone.json](./278687-vector-zone.json) |
 | Vectorial Rush | 365762 | [365762-vectorial-rush.json](./365762-vectorial-rush.json) |
 | Vectorio: Frosted Defenses Pack | 222897 | [222897-vectorio-frosted-defenses-pack.json](./222897-vectorio-frosted-defenses-pack.json) |
