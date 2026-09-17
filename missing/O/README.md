@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtime | 272006 | [272006-overtime.json](./272006-overtime.json) |
 | OverTime | 136410 | [136410-overtime.json](./136410-overtime.json) |
 | Overtime Anomaly | 330533 | [330533-overtime-anomaly.json](./330533-overtime-anomaly.json) |
+| Overtime at Freddy's | 280919 | [280919-overtime-at-freddys.json](./280919-overtime-at-freddys.json) |
 | Overtime Heroes Exit 8 | 310729 | [310729-overtime-heroes-exit-8.json](./310729-overtime-heroes-exit-8.json) |
 | Overview: Rain Echoes | 325063 | [325063-overview-rain-echoes.json](./325063-overview-rain-echoes.json) |
 | Overwatch 2: My Hero Academia | 317819 | [317819-overwatch-2-my-hero-academia.json](./317819-overwatch-2-my-hero-academia.json) |
