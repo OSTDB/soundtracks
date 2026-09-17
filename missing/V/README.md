@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagrant Hearts Zero | 28938 | [28938-vagrant-hearts-zero.json](./28938-vagrant-hearts-zero.json) |
 | Vagrant Shifter | 286129 | [286129-vagrant-shifter.json](./286129-vagrant-shifter.json) |
 | Vagrant Story | 2216 | [2216-vagrant-story.json](./2216-vagrant-story.json) |
+| Vagrant Strider | 272384 | [272384-vagrant-strider.json](./272384-vagrant-strider.json) |
 | Vagrus: The Riven Realms - At the Heart of Ruin | 375174 | [375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json](./375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json) |
 | Vagrus: The Riven Realms - Centurion Edition | 186892 | [186892-vagrus-the-riven-realms-centurion-edition.json](./186892-vagrus-the-riven-realms-centurion-edition.json) |
 | Vagrus: The Riven Realms - Praetor Edition | 338031 | [338031-vagrus-the-riven-realms-praetor-edition.json](./338031-vagrus-the-riven-realms-praetor-edition.json) |
@@ -503,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
 | Vibrant Venture | 127991 | [127991-vibrant-venture.json](./127991-vibrant-venture.json) |
 | Vic Panic | 130371 | [130371-vic-panic.json](./130371-vic-panic.json) |
+| Vice City Race | 272392 | [272392-vice-city-race.json](./272392-vice-city-race.json) |
 | Vice Undercover | 204447 | [204447-vice-undercover.json](./204447-vice-undercover.json) |
 | Vicewave | 141839 | [141839-vicewave.json](./141839-vicewave.json) |
 | Vicious Growth | 203924 | [203924-vicious-growth.json](./203924-vicious-growth.json) |
@@ -620,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vindicators | 12871 | [12871-vindicators.json](./12871-vindicators.json) |
 | Vindicta Arcade | 88229 | [88229-vindicta-arcade.json](./88229-vindicta-arcade.json) |
 | Vindictive Drive | 31913 | [31913-vindictive-drive.json](./31913-vindictive-drive.json) |
+| Vindictive Drive 2: Maidbot Archive | 272362 | [272362-vindictive-drive-2-maidbot-archive.json](./272362-vindictive-drive-2-maidbot-archive.json) |
 | Vindilis | 373088 | [373088-vindilis.json](./373088-vindilis.json) |
 | Vine | 128625 | [128625-vine.json](./128625-vine.json) |
 | Vine Realms | 135907 | [135907-vine-realms.json](./135907-vine-realms.json) |
@@ -799,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viva Piñata: Trouble in Paradise | 7238 | [7238-viva-pinata-trouble-in-paradise.json](./7238-viva-pinata-trouble-in-paradise.json) |
 | Viva Project | 316814 | [316814-viva-project.json](./316814-viva-project.json) |
 | Vivaion | 263520 | [263520-vivaion.json](./263520-vivaion.json) |
+| Vivaldia 2 | 272358 | [272358-vivaldia-2.json](./272358-vivaldia-2.json) |
 | Vivat Slovakia | 216496 | [216496-vivat-slovakia.json](./216496-vivat-slovakia.json) |
 | Vive le Roi | 31789 | [31789-vive-le-roi.json](./31789-vive-le-roi.json) |
 | Vivecraft | 370146 | [370146-vivecraft.json](./370146-vivecraft.json) |
