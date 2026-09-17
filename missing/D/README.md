@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Wings: The Aerobatic Simulator | 347249 | [347249-dancing-wings-the-aerobatic-simulator.json](./347249-dancing-wings-the-aerobatic-simulator.json) |
 | Dancing with Ghosts | 360059 | [360059-dancing-with-ghosts.json](./360059-dancing-with-ghosts.json) |
 | DancingReaper | 140580 | [140580-dancingreaper.json](./140580-dancingreaper.json) |
+| DanDan | 258038 | [258038-dandan.json](./258038-dandan.json) |
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
 | Dandara: Trials of Fear - Enhanced Edition | 155057 | [155057-dandara-trials-of-fear-enhanced-edition.json](./155057-dandara-trials-of-fear-enhanced-edition.json) |
 | Dandara: Trials of Fear Edition | 129536 | [129536-dandara-trials-of-fear-edition.json](./129536-dandara-trials-of-fear-edition.json) |
@@ -3980,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drapline | 333105 | [333105-drapline.json](./333105-drapline.json) |
 | Drasle Family: Pochi & Bochi | 342621 | [342621-drasle-family-pochi-and-bochi.json](./342621-drasle-family-pochi-and-bochi.json) |
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
+| Draw | 258014 | [258014-draw.json](./258014-draw.json) |
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
 | Draw and Color: Kawaii - Magnificent Edition | 268554 | [268554-draw-and-color-kawaii-magnificent-edition.json](./268554-draw-and-color-kawaii-magnificent-edition.json) |
@@ -4136,6 +4138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming | 370777 | [370777-dreaming.json](./370777-dreaming.json) |
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
 | Dreaming by day | 182982 | [182982-dreaming-by-day.json](./182982-dreaming-by-day.json) |
+| Dreaming Chicken | 258041 | [258041-dreaming-chicken.json](./258041-dreaming-chicken.json) |
 | Dreaming in the Mountains | 262372 | [262372-dreaming-in-the-mountains.json](./262372-dreaming-in-the-mountains.json) |
 | Dreaming Rainbow | 191824 | [191824-dreaming-rainbow.json](./191824-dreaming-rainbow.json) |
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
