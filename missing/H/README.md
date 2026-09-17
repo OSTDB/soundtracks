@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Neighbor: Hide and Seek | 107614 | [107614-hello-neighbor-hide-and-seek.json](./107614-hello-neighbor-hide-and-seek.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
 | Hello Pollution! | 102145 | [102145-hello-pollution.json](./102145-hello-pollution.json) |
+| Hello Princess | 242679 | [242679-hello-princess.json](./242679-hello-princess.json) |
 | Hello Puppets: Midnight Show | 159805 | [159805-hello-puppets-midnight-show.json](./159805-hello-puppets-midnight-show.json) |
 | Hello Racoon Neighbor | 102723 | [102723-hello-racoon-neighbor.json](./102723-hello-racoon-neighbor.json) |
 | Hello Space | 348342 | [348342-hello-space.json](./348342-hello-space.json) |
