@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizzie McGuire 2: Lizzie Diaries | 49393 | [49393-lizzie-mcguire-2-lizzie-diaries.json](./49393-lizzie-mcguire-2-lizzie-diaries.json) |
 | Lizzie McGuire 3: Homecoming Havoc | 49392 | [49392-lizzie-mcguire-3-homecoming-havoc.json](./49392-lizzie-mcguire-3-homecoming-havoc.json) |
 | Lizzie McGuire: On the Go! | 49394 | [49394-lizzie-mcguire-on-the-go.json](./49394-lizzie-mcguire-on-the-go.json) |
+| Llamalandia | 258002 | [258002-llamalandia.json](./258002-llamalandia.json) |
 | Llamas With Hats: Cruise Catastrophe | 63336 | [63336-llamas-with-hats-cruise-catastrophe.json](./63336-llamas-with-hats-cruise-catastrophe.json) |
 | LLM x Quiz | 369055 | [369055-llm-x-quiz.json](./369055-llm-x-quiz.json) |
 | Lloyd the Monkey | 266214 | [266214-lloyd-the-monkey.json](./266214-lloyd-the-monkey.json) |
@@ -1796,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loca-Love: My Pure Priestess | 146302 | [146302-loca-love-my-pure-priestess.json](./146302-loca-love-my-pure-priestess.json) |
 | Local Network | 178019 | [178019-local-network.json](./178019-local-network.json) |
 | Local Paper Small Town | 195181 | [195181-local-paper-small-town.json](./195181-local-paper-small-town.json) |
+| Locator: The Search for Abigail Lidari | 257990 | [257990-locator-the-search-for-abigail-lidari.json](./257990-locator-the-search-for-abigail-lidari.json) |
 | Loch Ness | 182506 | [182506-loch-ness.json](./182506-loch-ness.json) |
 | Lock | 68655 | [68655-lock.json](./68655-lock.json) |
 | Lock 'n Load Tactical Digital: Battles to the Rhine - Battlepack | 158746 | [158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json](./158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json) |
