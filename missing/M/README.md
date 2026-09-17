@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Earth | 211213 | [211213-master-of-earth.json](./211213-master-of-earth.json) |
 | Master of Epic | 62116 | [62116-master-of-epic.json](./62116-master-of-epic.json) |
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
+| Master of Luna | 249867 | [249867-master-of-luna.json](./249867-master-of-luna.json) |
 | Master of Magic: Rise of the Soultrapped | 256261 | [256261-master-of-magic-rise-of-the-soultrapped.json](./256261-master-of-magic-rise-of-the-soultrapped.json) |
 | Master of Magic: Scourge of the Seas | 280347 | [280347-master-of-magic-scourge-of-the-seas.json](./280347-master-of-magic-scourge-of-the-seas.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
@@ -1649,6 +1650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Triple | 34731 | [34731-mayhem-triple.json](./34731-mayhem-triple.json) |
 | Mayo Mayo | 321605 | [321605-mayo-mayo.json](./321605-mayo-mayo.json) |
 | Mayonez | 106538 | [106538-mayonez.json](./106538-mayonez.json) |
+| Mayor May Knott | 249857 | [249857-mayor-may-knott.json](./249857-mayor-may-knott.json) |
 | Mayor of Defense | 166746 | [166746-mayor-of-defense.json](./166746-mayor-of-defense.json) |
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
 | Mazaica | 304598 | [304598-mazaica.json](./304598-mazaica.json) |
@@ -3494,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrorscape | 270120 | [270120-mirrorscape.json](./270120-mirrorscape.json) |
 | Mirrorscape: Deluxe Starter Pack | 301849 | [301849-mirrorscape-deluxe-starter-pack.json](./301849-mirrorscape-deluxe-starter-pack.json) |
 | Mirrorscape: Outdoor Starter Pack | 301848 | [301848-mirrorscape-outdoor-starter-pack.json](./301848-mirrorscape-outdoor-starter-pack.json) |
+| Mirth Island | 249854 | [249854-mirth-island.json](./249854-mirth-island.json) |
 | Mirum Orbis | 262482 | [262482-mirum-orbis.json](./262482-mirum-orbis.json) |
 | Misa | 337725 | [337725-misa.json](./337725-misa.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
@@ -4420,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooshie's Kitchen 2 | 273983 | [273983-mooshies-kitchen-2.json](./273983-mooshies-kitchen-2.json) |
 | Mooshie's Kitchen 3 | 273984 | [273984-mooshies-kitchen-3.json](./273984-mooshies-kitchen-3.json) |
 | Moot District | 114436 | [114436-moot-district.json](./114436-moot-district.json) |
+| Mop of the Dead | 249876 | [249876-mop-of-the-dead.json](./249876-mop-of-the-dead.json) |
 | MOP Operation Cleanup | 32961 | [32961-mop-operation-cleanup.json](./32961-mop-operation-cleanup.json) |
 | Mopar Drag N Brag | 246965 | [246965-mopar-drag-n-brag.json](./246965-mopar-drag-n-brag.json) |
 | Mope.io | 108987 | [108987-mope-io.json](./108987-mope-io.json) |
@@ -5170,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
 | Music Sim Empire | 298031 | [298031-music-sim-empire.json](./298031-music-sim-empire.json) |
 | Music Store Simulator | 207326 | [207326-music-store-simulator.json](./207326-music-store-simulator.json) |
+| Music Summoner | 249874 | [249874-music-summoner.json](./249874-music-summoner.json) |
 | Music Thief | 191813 | [191813-music-thief.json](./191813-music-thief.json) |
 | Music95 | 149512 | [149512-music95.json](./149512-music95.json) |
 | Musical Balls | 149525 | [149525-musical-balls.json](./149525-musical-balls.json) |
