@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle World: South Korea | 293069 | [293069-jigsaw-puzzle-world-south-korea.json](./293069-jigsaw-puzzle-world-south-korea.json) |
 | Jigsaw Puzzle World: Weather | 293608 | [293608-jigsaw-puzzle-world-weather.json](./293608-jigsaw-puzzle-world-weather.json) |
 | Jigsaw Puzzle: BDSM Room | 203536 | [203536-jigsaw-puzzle-bdsm-room.json](./203536-jigsaw-puzzle-bdsm-room.json) |
+| Jigsaw Puzzle: Delicious Foods | 282135 | [282135-jigsaw-puzzle-delicious-foods.json](./282135-jigsaw-puzzle-delicious-foods.json) |
 | Jigsaw Puzzle: Futanari Threesome | 220834 | [220834-jigsaw-puzzle-futanari-threesome.json](./220834-jigsaw-puzzle-futanari-threesome.json) |
 | Jigsaw Puzzle: New Year Collection | 351599 | [351599-jigsaw-puzzle-new-year-collection.json](./351599-jigsaw-puzzle-new-year-collection.json) |
 | Jigsaw Puzzle. Women's Day | 105903 | [105903-jigsaw-puzzle-womens-day.json](./105903-jigsaw-puzzle-womens-day.json) |
