@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioCrisis: Return 2 the Lab | 203905 | [203905-biocrisis-return-2-the-lab.json](./203905-biocrisis-return-2-the-lab.json) |
 | Biodigital | 107807 | [107807-biodigital.json](./107807-biodigital.json) |
 | BioForge | 2213 | [2213-bioforge.json](./2213-bioforge.json) |
+| BioFury | 277426 | [277426-biofury.json](./277426-biofury.json) |
 | BioGloom | 207835 | [207835-biogloom.json](./207835-biogloom.json) |
 | Biohazard 0 | 307948 | [307948-biohazard-0.json](./307948-biohazard-0.json) |
 | Biohazard Code: Veronica - Limited Edition | 407337 | [407337-biohazard-code-veronica-limited-edition.json](./407337-biohazard-code-veronica-limited-edition.json) |
@@ -2224,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Simulator | 127330 | [127330-bird-simulator.json](./127330-bird-simulator.json) |
 | Bird Sort: Color Puzzle | 245332 | [245332-bird-sort-color-puzzle.json](./245332-bird-sort-color-puzzle.json) |
 | Bird Strike for Android | 137098 | [137098-bird-strike-for-android.json](./137098-bird-strike-for-android.json) |
+| Bird Vs Bird | 277417 | [277417-bird-vs-bird.json](./277417-bird-vs-bird.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
 | Birdfull | 333567 | [333567-birdfull.json](./333567-birdfull.json) |
 | Birdie Barrage | 13696 | [13696-birdie-barrage.json](./13696-birdie-barrage.json) |
@@ -2953,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodRush: Undying Wish | 255389 | [255389-bloodrush-undying-wish.json](./255389-bloodrush-undying-wish.json) |
 | Bloodscript//End | 409653 | [409653-bloodscript-end.json](./409653-bloodscript-end.json) |
 | Bloodshot | 398969 | [398969-bloodshot.json](./398969-bloodshot.json) |
+| Bloodshots | 277436 | [277436-bloodshots.json](./277436-bloodshots.json) |
 | BloodSpiller | 392805 | [392805-bloodspiller.json](./392805-bloodspiller.json) |
 | BloodSpire | 411005 | [411005-bloodspire.json](./411005-bloodspire.json) |
 | Bloodstained: Ritual of the Night | 10760 | [10760-bloodstained-ritual-of-the-night.json](./10760-bloodstained-ritual-of-the-night.json) |
@@ -3662,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowman | 357273 | [357273-bowman.json](./357273-bowman.json) |
 | Bowmasters | 71911 | [71911-bowmasters.json](./71911-bowmasters.json) |
 | Bowmen | 129731 | [129731-bowmen.json](./129731-bowmen.json) |
+| Bowmen | 277383 | [277383-bowmen.json](./277383-bowmen.json) |
 | Bows Space | 359396 | [359396-bows-space.json](./359396-bows-space.json) |
 | Bowser's Dank Rave 2017 Edition: Extra Long Name That I Don't Feel Like Typing | 313330 | [313330-bowsers-dank-rave-2017-edition-extra-long-name-that-i-dont-feel-like-typing.json](./313330-bowsers-dank-rave-2017-edition-extra-long-name-that-i-dont-feel-like-typing.json) |
 | Bowser's Diary: Take the Quiz! | 328602 | [328602-bowsers-diary-take-the-quiz.json](./328602-bowsers-diary-take-the-quiz.json) |
