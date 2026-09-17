@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Rise of New Champions - Juan Diaz Mission | 214543 | [214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json](./214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Tachibana Brothers Mission | 214542 | [214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json](./214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Tsubasa Ozora Mission | 214544 | [214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json](./214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json) |
+| Captain Tsubasa: Rise of New Champions - Ultimate Edition | 268552 | [268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json](./268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json) |
 | Captain Underpants: Epic Choice-o-rama | 256837 | [256837-captain-underpants-epic-choice-o-rama.json](./256837-captain-underpants-epic-choice-o-rama.json) |
 | Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
 | Captain Willie | 285033 | [285033-captain-willie.json](./285033-captain-willie.json) |
@@ -1141,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Ritual | 359998 | [359998-cats-ritual.json](./359998-cats-ritual.json) |
 | Cats Spotter | 307322 | [307322-cats-spotter.json](./307322-cats-spotter.json) |
 | Cats Story | 336025 | [336025-cats-story.json](./336025-cats-story.json) |
+| Cats Super Bundle | 268567 | [268567-cats-super-bundle.json](./268567-cats-super-bundle.json) |
 | Cats Visiting Christmas Town | 325663 | [325663-cats-visiting-christmas-town.json](./325663-cats-visiting-christmas-town.json) |
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
@@ -4600,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crow Story | 189147 | [189147-crow-story.json](./189147-crow-story.json) |
 | Crow's Cry | 211726 | [211726-crows-cry.json](./211726-crows-cry.json) |
 | Crowborne | 295786 | [295786-crowborne.json](./295786-crowborne.json) |
+| Crowd City | 268535 | [268535-crowd-city.json](./268535-crowd-city.json) |
 | Crowd City: Zombie Edition | 274485 | [274485-crowd-city-zombie-edition.json](./274485-crowd-city-zombie-edition.json) |
 | Crowd Control VR | 295788 | [295788-crowd-control-vr.json](./295788-crowd-control-vr.json) |
 | Crowd King | 185106 | [185106-crowd-king.json](./185106-crowd-king.json) |
