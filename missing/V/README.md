@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRQ Test | 99032 | [99032-vrq-test.json](./99032-vrq-test.json) |
 | VRRCC | 118361 | [118361-vrrcc.json](./118361-vrrcc.json) |
 | VRSailing by BeTomorrow | 29781 | [29781-vrsailing-by-betomorrow.json](./29781-vrsailing-by-betomorrow.json) |
+| VRSO: Bare Knuckle Fighting | 274551 | [274551-vrso-bare-knuckle-fighting.json](./274551-vrso-bare-knuckle-fighting.json) |
 | Vrsus Dead | 306080 | [306080-vrsus-dead.json](./306080-vrsus-dead.json) |
 | VS Sonic: Dash & Spin | 223136 | [223136-vs-sonic-dash-and-spin.json](./223136-vs-sonic-dash-and-spin.json) |
 | Vs. | 18307 | [18307-vs.json](./18307-vs.json) |
