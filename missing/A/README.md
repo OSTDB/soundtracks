@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Hospital VR | 31878 | [31878-abandoned-hospital-vr.json](./31878-abandoned-hospital-vr.json) |
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
+| Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
 | Abbigale and the Monster | 51177 | [51177-abbigale-and-the-monster.json](./51177-abbigale-and-the-monster.json) |
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
