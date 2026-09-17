@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Figthers 99 | 43912 | [43912-the-king-of-figthers-99.json](./43912-the-king-of-figthers-99.json) |
 | The King of the Wood | 22368 | [22368-the-king-of-the-wood.json](./22368-the-king-of-the-wood.json) |
 | The King's Bird | 11840 | [11840-the-kings-bird.json](./11840-the-kings-bird.json) |
+| The King's Campaign | 243770 | [243770-the-kings-campaign.json](./243770-the-kings-campaign.json) |
 | The King's Courier | 335242 | [335242-the-kings-courier.json](./335242-the-kings-courier.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
@@ -3814,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Medium + Observer: System Redux + Darq: Complete Edition Bundle | 166687 | [166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json](./166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json) |
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
+| The Mega FMV Bundle | 243800 | [243800-the-mega-fmv-bundle.json](./243800-the-mega-fmv-bundle.json) |
 | The Membrane | 403012 | [403012-the-membrane.json](./403012-the-membrane.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
 | The Memory Library | 414404 | [414404-the-memory-library.json](./414404-the-memory-library.json) |
@@ -4239,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quintessential Princesses: Fantasy, Abyss, and Magic Academy | 342720 | [342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json](./342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json) |
 | The Quintessential Quintuplets: Gotopazu Story 2nd | 299466 | [299466-the-quintessential-quintuplets-gotopazu-story-2nd.json](./299466-the-quintessential-quintuplets-gotopazu-story-2nd.json) |
 | The Quintessential Quintuplets: Omoide VR - Itsuki | 211734 | [211734-the-quintessential-quintuplets-omoide-vr-itsuki.json](./211734-the-quintessential-quintuplets-omoide-vr-itsuki.json) |
+| The Quintessential Quintuplets: Omoide VR - Yotsuba | 243776 | [243776-the-quintessential-quintuplets-omoide-vr-yotsuba.json](./243776-the-quintessential-quintuplets-omoide-vr-yotsuba.json) |
 | The Quintessential Quintuplets: The Quintuplets Can't Divide the Puzzle Into Five Equal Parts | 194029 | [194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json](./194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json) |
 | The Quiz Gear Fight!! | 46601 | [46601-the-quiz-gear-fight.json](./46601-the-quiz-gear-fight.json) |
 | The Quiz Quest | 400366 | [400366-the-quiz-quest.json](./400366-the-quiz-quest.json) |
@@ -4325,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rhine Railway: Mannheim - Karlsruhe Collection | 53783 | [53783-the-rhine-railway-mannheim-karlsruhe-collection.json](./53783-the-rhine-railway-mannheim-karlsruhe-collection.json) |
 | The Rhymatory | 399736 | [399736-the-rhymatory.json](./399736-the-rhymatory.json) |
 | The Rhythm of Fighters: SNK Original Sound Collection | 80562 | [80562-the-rhythm-of-fighters-snk-original-sound-collection.json](./80562-the-rhythm-of-fighters-snk-original-sound-collection.json) |
+| The Riches of Agrabah with Disney | 243818 | [243818-the-riches-of-agrabah-with-disney.json](./243818-the-riches-of-agrabah-with-disney.json) |
 | The Riddle Room | 53782 | [53782-the-riddle-room.json](./53782-the-riddle-room.json) |
 | The Riddle Room 2 | 53781 | [53781-the-riddle-room-2.json](./53781-the-riddle-room-2.json) |
 | The Riflemen | 207311 | [207311-the-riflemen.json](./207311-the-riflemen.json) |
@@ -4691,6 +4695,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
 | The Soldat with Twin Arms | 151753 | [151753-the-soldat-with-twin-arms.json](./151753-the-soldat-with-twin-arms.json) |
 | The Soldier and the Golden Princess | 331116 | [331116-the-soldier-and-the-golden-princess.json](./331116-the-soldier-and-the-golden-princess.json) |
+| The Solitaire Conspiracy: Return of the Merry | 243808 | [243808-the-solitaire-conspiracy-return-of-the-merry.json](./243808-the-solitaire-conspiracy-return-of-the-merry.json) |
+| The Solitaire Conspiracy: The Atlantis Project | 243807 | [243807-the-solitaire-conspiracy-the-atlantis-project.json](./243807-the-solitaire-conspiracy-the-atlantis-project.json) |
 | The Solitary Existence of a Little Universe | 370226 | [370226-the-solitary-existence-of-a-little-universe.json](./370226-the-solitary-existence-of-a-little-universe.json) |
 | The Song of Seven : Overture (Chapter One) | 26529 | [26529-the-song-of-seven-overture-chapter-one.json](./26529-the-song-of-seven-overture-chapter-one.json) |
 | The Song of Survivors | 165015 | [165015-the-song-of-survivors.json](./165015-the-song-of-survivors.json) |
