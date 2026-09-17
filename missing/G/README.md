@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls for Sex for Sex Motel | 288893 | [288893-girls-for-sex-for-sex-motel.json](./288893-girls-for-sex-for-sex-motel.json) |
 | Girls Frantic Clan | 263606 | [263606-girls-frantic-clan.json](./263606-girls-frantic-clan.json) |
 | Girls Free | 127940 | [127940-girls-free.json](./127940-girls-free.json) |
+| Girls Gym | 237483 | [237483-girls-gym.json](./237483-girls-gym.json) |
 | Girls Hair Salon | 88026 | [88026-girls-hair-salon.json](./88026-girls-hair-salon.json) |
 | Girls in Pajamas | 259067 | [259067-girls-in-pajamas.json](./259067-girls-in-pajamas.json) |
 | Girls Legend | 196303 | [196303-girls-legend.json](./196303-girls-legend.json) |
@@ -1277,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globesweeper | 109203 | [109203-globesweeper.json](./109203-globesweeper.json) |
 | Globetrotter | 137033 | [137033-globetrotter.json](./137033-globetrotter.json) |
 | Globetrotter Bundle | 107193 | [107193-globetrotter-bundle.json](./107193-globetrotter-bundle.json) |
+| Globetrotter XL | 237500 | [237500-globetrotter-xl.json](./237500-globetrotter-xl.json) |
 | GlobeXplore | 284883 | [284883-globexplore.json](./284883-globexplore.json) |
 | Globs | 322758 | [322758-globs.json](./322758-globs.json) |
 | Globy | 326061 | [326061-globy.json](./326061-globy.json) |
@@ -2429,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm of the Dome | 245908 | [245908-grimm-of-the-dome.json](./245908-grimm-of-the-dome.json) |
 | Grimm Shuffle | 158670 | [158670-grimm-shuffle.json](./158670-grimm-shuffle.json) |
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
+| Grimoire of Gaia | 237528 | [237528-grimoire-of-gaia.json](./237528-grimoire-of-gaia.json) |
 | Grimoire Organizer | 282146 | [282146-grimoire-organizer.json](./282146-grimoire-organizer.json) |
 | Grimoire: Heralds of the Winged Exemplar | 43487 | [43487-grimoire-heralds-of-the-winged-exemplar.json](./43487-grimoire-heralds-of-the-winged-exemplar.json) |
 | Grimoria | 391573 | [391573-grimoria.json](./391573-grimoria.json) |
