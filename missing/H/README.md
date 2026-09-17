@@ -2593,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoooPizza | 317852 | [317852-hooopizza.json](./317852-hooopizza.json) |
 | Hoop Dynasty: Rise of a Legend | 411682 | [411682-hoop-dynasty-rise-of-a-legend.json](./411682-hoop-dynasty-rise-of-a-legend.json) |
 | Hoop Fever | 90691 | [90691-hoop-fever.json](./90691-hoop-fever.json) |
+| Hoop Land | 250996 | [250996-hoop-land.json](./250996-hoop-land.json) |
 | Hoops: Shut Up and Jam | 245294 | [245294-hoops-shut-up-and-jam.json](./245294-hoops-shut-up-and-jam.json) |
 | Hoops: Shut Up and Jam 2 | 245293 | [245293-hoops-shut-up-and-jam-2.json](./245293-hoops-shut-up-and-jam-2.json) |
 | Hooray for Maths | 318034 | [318034-hooray-for-maths.json](./318034-hooray-for-maths.json) |
