@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.E.A.R. Files | 5640 | [5640-f-e-a-r-files.json](./5640-f-e-a-r-files.json) |
 | F.E.A.R.: Complete Pack | 323910 | [323910-f-e-a-r-complete-pack.json](./323910-f-e-a-r-complete-pack.json) |
 | F.I.D.O. | 196787 | [196787-f-i-d-o.json](./196787-f-i-d-o.json) |
+| F.I.S.T.: Forged In Shadow Torch - Limited Edition | 284481 | [284481-f-i-s-t-forged-in-shadow-torch-limited-edition.json](./284481-f-i-s-t-forged-in-shadow-torch-limited-edition.json) |
 | F.I.T. | 287752 | [287752-f-i-t.json](./287752-f-i-t.json) |
 | F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
 | F*ck the HELL out | 337150 | [337150-f-ck-the-hell-out.json](./337150-f-ck-the-hell-out.json) |
@@ -2937,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Trip: Amazing Edition | 308803 | [308803-freaky-trip-amazing-edition.json](./308803-freaky-trip-amazing-edition.json) |
 | Freaky Trip: Legendary Edition | 294828 | [294828-freaky-trip-legendary-edition.json](./294828-freaky-trip-legendary-edition.json) |
 | Freaky Trip: Platinum Edition | 298571 | [298571-freaky-trip-platinum-edition.json](./298571-freaky-trip-platinum-edition.json) |
+| Freaky Trip: Premium Edition | 284500 | [284500-freaky-trip-premium-edition.json](./284500-freaky-trip-premium-edition.json) |
 | Freaky Trip: Special Edition | 283175 | [283175-freaky-trip-special-edition.json](./283175-freaky-trip-special-edition.json) |
 | Freaky Trip: Superb Edition | 315864 | [315864-freaky-trip-superb-edition.json](./315864-freaky-trip-superb-edition.json) |
 | Fred Fuches Around | 397693 | [397693-fred-fuches-around.json](./397693-fred-fuches-around.json) |
