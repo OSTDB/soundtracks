@@ -1287,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Savings | 114383 | [114383-secret-savings.json](./114383-secret-savings.json) |
 | Secret Service: In Harm's Way | 73800 | [73800-secret-service-in-harms-way.json](./73800-secret-service-in-harms-way.json) |
 | Secret Spy: Operation Love | 240249 | [240249-secret-spy-operation-love.json](./240249-secret-spy-operation-love.json) |
+| Secret Summoner | 236954 | [236954-secret-summoner.json](./236954-secret-summoner.json) |
 | Secret Thursday | 312926 | [312926-secret-thursday.json](./312926-secret-thursday.json) |
 | Secret Trial Ground | 273625 | [273625-secret-trial-ground.json](./273625-secret-trial-ground.json) |
 | Secret Wives' Club | 80592 | [80592-secret-wives-club.json](./80592-secret-wives-club.json) |
@@ -1296,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Blinck Island | 397077 | [397077-secrets-of-blinck-island.json](./397077-secrets-of-blinck-island.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
 | Secrets of Magic: The Book of Spells | 33245 | [33245-secrets-of-magic-the-book-of-spells.json](./33245-secrets-of-magic-the-book-of-spells.json) |
+| Secrets of Orion: Sword of Destiny. | 236935 | [236935-secrets-of-orion-sword-of-destiny.json](./236935-secrets-of-orion-sword-of-destiny.json) |
 | Secrets of Salem: Shadow of the Witch - Collector's Edition | 341022 | [341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json](./341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json) |
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
 | Secrets of the Dark: Eclipse Mountain - Collector's Edition | 96752 | [96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json](./96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json) |
@@ -3047,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Number-Based Color Sense IQ Test | 290424 | [290424-simple-number-based-color-sense-iq-test.json](./290424-simple-number-based-color-sense-iq-test.json) |
 | Simple Racing | 108404 | [108404-simple-racing.json](./108404-simple-racing.json) |
 | Simple Ray tracing Mini Game 10 | 152899 | [152899-simple-ray-tracing-mini-game-10.json](./152899-simple-ray-tracing-mini-game-10.json) |
+| Simple Rolling | 236931 | [236931-simple-rolling.json](./236931-simple-rolling.json) |
 | Simple Sandwich | 118376 | [118376-simple-sandwich.json](./118376-simple-sandwich.json) |
 | Simple Series for Nintendo 3DS Vol. 1: The Mahjong | 82133 | [82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json](./82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json) |
 | Simple Series for Nintendo 3DS Vol. 2: The Misshitsu kara no Dasshutsu Archives 1 | 400330 | [400330-simple-series-for-nintendo-3ds-vol-2-the-misshitsu-kara-no-dasshutsu-archives-1.json](./400330-simple-series-for-nintendo-3ds-vol-2-the-misshitsu-kara-no-dasshutsu-archives-1.json) |
@@ -3648,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender: The Arrival | 2049 | [2049-slender-the-arrival.json](./2049-slender-the-arrival.json) |
 | Slender: The Arrival | 265723 | [265723-slender-the-arrival.json](./265723-slender-the-arrival.json) |
 | Slender: The Eight Pages | 12938 | [12938-slender-the-eight-pages.json](./12938-slender-the-eight-pages.json) |
+| Slender: Visit into the Woods | 236922 | [236922-slender-visit-into-the-woods.json](./236922-slender-visit-into-the-woods.json) |
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
 | Slenderman Saw Game | 385596 | [385596-slenderman-saw-game.json](./385596-slenderman-saw-game.json) |
@@ -3983,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile Town | 338191 | [338191-smile-town.json](./338191-smile-town.json) |
 | SmileTris 2 | 70967 | [70967-smiletris-2.json](./70967-smiletris-2.json) |
 | SmileTris 3 | 70329 | [70329-smiletris-3.json](./70329-smiletris-3.json) |
+| SmileXCorp 3 | 236945 | [236945-smilexcorp-3.json](./236945-smilexcorp-3.json) |
 | Smiley Dusty | 325697 | [325697-smiley-dusty.json](./325697-smiley-dusty.json) |
 | Smiley's Revenge | 140533 | [140533-smileys-revenge.json](./140533-smileys-revenge.json) |
 | Smileys War | 234901 | [234901-smileys-war.json](./234901-smileys-war.json) |
@@ -4454,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
+| SokoMelody | 236956 | [236956-sokomelody.json](./236956-sokomelody.json) |
 | Sokomine | 368039 | [368039-sokomine.json](./368039-sokomine.json) |
 | Sokomonster + Sokolab + Feed Your Cat | 335101 | [335101-sokomonster-sokolab-feed-your-cat.json](./335101-sokomonster-sokolab-feed-your-cat.json) |
 | SokoNature | 324666 | [324666-sokonature.json](./324666-sokonature.json) |
@@ -6479,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Game: Unleashed | 314273 | [314273-squid-game-unleashed.json](./314273-squid-game-unleashed.json) |
 | Squid Gurl and the Salty Sea Man | 97345 | [97345-squid-gurl-and-the-salty-sea-man.json](./97345-squid-gurl-and-the-salty-sea-man.json) |
 | Squid Guys | 286503 | [286503-squid-guys.json](./286503-squid-guys.json) |
+| Squid on Road | 236944 | [236944-squid-on-road.json](./236944-squid-on-road.json) |
 | Squid Squabble | 264602 | [264602-squid-squabble.json](./264602-squid-squabble.json) |
 | Squid Survival Simulator: Sea Animal Life 3D | 104594 | [104594-squid-survival-simulator-sea-animal-life-3d.json](./104594-squid-survival-simulator-sea-animal-life-3d.json) |
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
@@ -9597,6 +9604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors Left: X | 124177 | [124177-survivors-left-x.json](./124177-survivors-left-x.json) |
 | Survivors of Journey to the West: Bald Guy vs Wukong | 310058 | [310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json](./310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json) |
 | Survivors of Mayhem | 274036 | [274036-survivors-of-mayhem.json](./274036-survivors-of-mayhem.json) |
+| Survivors of the Dawn | 236928 | [236928-survivors-of-the-dawn.json](./236928-survivors-of-the-dawn.json) |
 | Survivors Of The Zombie World | 338294 | [338294-survivors-of-the-zombie-world.json](./338294-survivors-of-the-zombie-world.json) |
 | Survivors SymphonYs | 345007 | [345007-survivors-symphonys.json](./345007-survivors-symphonys.json) |
 | Survivors Will | 250347 | [250347-survivors-will.json](./250347-survivors-will.json) |
