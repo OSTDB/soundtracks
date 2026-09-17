@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Got Crabs | 276817 | [276817-you-got-crabs.json](./276817-you-got-crabs.json) |
 | Yóu Guō Jīngmèng | 407317 | [407317-you-guo-jingmeng.json](./407317-you-guo-jingmeng.json) |
 | You Had a Bad Dream | 405593 | [405593-you-had-a-bad-dream.json](./405593-you-had-a-bad-dream.json) |
+| You Have 1 HP | 269656 | [269656-you-have-1-hp.json](./269656-you-have-1-hp.json) |
 | You Have 10 Seconds | 31909 | [31909-you-have-10-seconds.json](./31909-you-have-10-seconds.json) |
 | You Have A Delivery | 328038 | [328038-you-have-a-delivery.json](./328038-you-have-a-delivery.json) |
 | You have a drunk friend | 111355 | [111355-you-have-a-drunk-friend.json](./111355-you-have-a-drunk-friend.json) |
