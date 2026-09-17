@@ -413,8 +413,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capital Simulator | 148483 | [148483-capital-simulator.json](./148483-capital-simulator.json) |
 | Capitalism II | 921 | [921-capitalism-ii.json](./921-capitalism-ii.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
+| Capitals Quizzer: Countries Mode | 257440 | [257440-capitals-quizzer-countries-mode.json](./257440-capitals-quizzer-countries-mode.json) |
+| Capitals Quizzer: Currency Mode | 257461 | [257461-capitals-quizzer-currency-mode.json](./257461-capitals-quizzer-currency-mode.json) |
 | Capitals Quizzer: Globe Mode | 296525 | [296525-capitals-quizzer-globe-mode.json](./296525-capitals-quizzer-globe-mode.json) |
+| Capitals Quizzer: Landmarks Mode | 257462 | [257462-capitals-quizzer-landmarks-mode.json](./257462-capitals-quizzer-landmarks-mode.json) |
 | Capitals Quizzer: People Mode | 296526 | [296526-capitals-quizzer-people-mode.json](./296526-capitals-quizzer-people-mode.json) |
+| Capitals Quizzer: Regions Mode | 257463 | [257463-capitals-quizzer-regions-mode.json](./257463-capitals-quizzer-regions-mode.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
 | Capoo Pals for MAC Expansion Set | 289464 | [289464-capoo-pals-for-mac-expansion-set.json](./289464-capoo-pals-for-mac-expansion-set.json) |
 | Cappadocia Puzzle | 303065 | [303065-cappadocia-puzzle.json](./303065-cappadocia-puzzle.json) |
@@ -1059,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan | 19435 | [19435-catan.json](./19435-catan.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
 | Catan: Console Edition - Complete Collection | 303803 | [303803-catan-console-edition-complete-collection.json](./303803-catan-console-edition-complete-collection.json) |
+| Catan: Console Edition - Super Deluxe | 257426 | [257426-catan-console-edition-super-deluxe.json](./257426-catan-console-edition-super-deluxe.json) |
 | Catan: Das Kartenspiel | 98936 | [98936-catan-das-kartenspiel.json](./98936-catan-das-kartenspiel.json) |
 | Catana: Red Flowers | 380560 | [380560-catana-red-flowers.json](./380560-catana-red-flowers.json) |
 | catAnod | 96429 | [96429-catanod.json](./96429-catanod.json) |
@@ -2074,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Jigsaw Puzzle Pango | 108458 | [108458-christmas-jigsaw-puzzle-pango.json](./108458-christmas-jigsaw-puzzle-pango.json) |
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
 | Christmas Luge | 236521 | [236521-christmas-luge.json](./236521-christmas-luge.json) |
+| Christmas Magic | 257442 | [257442-christmas-magic.json](./257442-christmas-magic.json) |
 | Christmas Mansion | 100190 | [100190-christmas-mansion.json](./100190-christmas-mansion.json) |
 | Christmas Massacre | 186281 | [186281-christmas-massacre.json](./186281-christmas-massacre.json) |
 | Christmas Massacre VR | 29952 | [29952-christmas-massacre-vr.json](./29952-christmas-massacre-vr.json) |
@@ -4629,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossout: Steel shield | 293766 | [293766-crossout-steel-shield.json](./293766-crossout-steel-shield.json) |
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
 | CrossOver: Roll For Initiative | 202861 | [202861-crossover-roll-for-initiative.json](./202861-crossover-roll-for-initiative.json) |
+| Crossroad of Worlds: Cursed Letters - Collector's Edition | 257434 | [257434-crossroad-of-worlds-cursed-letters-collectors-edition.json](./257434-crossroad-of-worlds-cursed-letters-collectors-edition.json) |
 | Crossroad of Worlds: Magic Stars - Collector's Edition | 255708 | [255708-crossroad-of-worlds-magic-stars-collectors-edition.json](./255708-crossroad-of-worlds-magic-stars-collectors-edition.json) |
 | Crossroad OS | 259007 | [259007-crossroad-os.json](./259007-crossroad-os.json) |
 | Crossroads | 377570 | [377570-crossroads.json](./377570-crossroads.json) |
@@ -4824,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal in Carnations | 358303 | [358303-crystal-in-carnations.json](./358303-crystal-in-carnations.json) |
 | Crystal Legends | 342624 | [342624-crystal-legends.json](./342624-crystal-legends.json) |
 | Crystal Maidens: Unleashed | 375950 | [375950-crystal-maidens-unleashed.json](./375950-crystal-maidens-unleashed.json) |
+| Crystal Math | 257428 | [257428-crystal-math.json](./257428-crystal-math.json) |
 | Crystal Path | 107821 | [107821-crystal-path.json](./107821-crystal-path.json) |
 | Crystal Project: Mod Pack 2 - New Challenges | 314886 | [314886-crystal-project-mod-pack-2-new-challenges.json](./314886-crystal-project-mod-pack-2-new-challenges.json) |
 | Crystal Quest Classic | 32182 | [32182-crystal-quest-classic.json](./32182-crystal-quest-classic.json) |
