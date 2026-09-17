@@ -3893,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmology of Kyoto | 46577 | [46577-cosmology-of-kyoto.json](./46577-cosmology-of-kyoto.json) |
 | Cosmonious High | 194955 | [194955-cosmonious-high.json](./194955-cosmonious-high.json) |
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
+| CosmoPirates | 258553 | [258553-cosmopirates.json](./258553-cosmopirates.json) |
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
 | Cosmos Club | 270747 | [270747-cosmos-club.json](./270747-cosmos-club.json) |
@@ -4448,6 +4449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
 | Crime Opera Collection | 332503 | [332503-crime-opera-collection.json](./332503-crime-opera-collection.json) |
 | Crime Passional | 236286 | [236286-crime-passional.json](./236286-crime-passional.json) |
+| Crime Pays | 258530 | [258530-crime-pays.json](./258530-crime-pays.json) |
 | Crime Secrets: Crimson Lily | 32930 | [32930-crime-secrets-crimson-lily.json](./32930-crime-secrets-crimson-lily.json) |
 | Crime Shadows: Stolen Spotlight - Collector's Edition | 416616 | [416616-crime-shadows-stolen-spotlight-collectors-edition.json](./416616-crime-shadows-stolen-spotlight-collectors-edition.json) |
 | Crime Simulator | 301426 | [301426-crime-simulator.json](./301426-crime-simulator.json) |
@@ -5299,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybermorph | 40803 | [40803-cybermorph.json](./40803-cybermorph.json) |
 | Cybermotion | 51492 | [51492-cybermotion.json](./51492-cybermotion.json) |
 | Cybernated | 313681 | [313681-cybernated.json](./313681-cybernated.json) |
+| CyberNet Duel | 258525 | [258525-cybernet-duel.json](./258525-cybernet-duel.json) |
 | Cybernetic Fault | 161369 | [161369-cybernetic-fault.json](./161369-cybernetic-fault.json) |
 | Cybernetica: Final | 190738 | [190738-cybernetica-final.json](./190738-cybernetica-final.json) |
 | Cybernoid II: The Revenge | 12025 | [12025-cybernoid-ii-the-revenge.json](./12025-cybernoid-ii-the-revenge.json) |
@@ -5325,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberSeas | 324716 | [324716-cyberseas.json](./324716-cyberseas.json) |
 | Cybersecurity Ethics Scavenger Hunt | 257397 | [257397-cybersecurity-ethics-scavenger-hunt.json](./257397-cybersecurity-ethics-scavenger-hunt.json) |
 | CyberSkyscrUpper | 265770 | [265770-cyberskyscrupper.json](./265770-cyberskyscrupper.json) |
+| Cybersonic Strike | 258538 | [258538-cybersonic-strike.json](./258538-cybersonic-strike.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
 | CyberStorm 2: Corporate Wars | 11028 | [11028-cyberstorm-2-corporate-wars.json](./11028-cyberstorm-2-corporate-wars.json) |
 | CyberTaxi | 140602 | [140602-cybertaxi.json](./140602-cybertaxi.json) |
