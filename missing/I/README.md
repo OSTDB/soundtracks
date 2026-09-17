@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Uncle | 88214 | [88214-ice-cream-uncle.json](./88214-ice-cream-uncle.json) |
 | Ice Crush 10.000 BC | 300725 | [300725-ice-crush-10-000-bc.json](./300725-ice-crush-10-000-bc.json) |
 | Ice Crystal Labyrinth | 82812 | [82812-ice-crystal-labyrinth.json](./82812-ice-crystal-labyrinth.json) |
+| Ice Fighter | 273472 | [273472-ice-fighter.json](./273472-ice-fighter.json) |
 | Ice Hockey | 57656 | [57656-ice-hockey.json](./57656-ice-hockey.json) |
 | Ice King in Secret Santa | 339824 | [339824-ice-king-in-secret-santa.json](./339824-ice-king-in-secret-santa.json) |
 | Ice Lakes | 20206 | [20206-ice-lakes.json](./20206-ice-lakes.json) |
@@ -446,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Submarine | 255747 | [255747-idle-submarine.json](./255747-idle-submarine.json) |
 | Idle Summoners: Heroes VIP | 100756 | [100756-idle-summoners-heroes-vip.json](./100756-idle-summoners-heroes-vip.json) |
 | Idle Tap Zoo: Tap, Build & Upg | 245345 | [245345-idle-tap-zoo-tap-build-and-upg.json](./245345-idle-tap-zoo-tap-build-and-upg.json) |
+| Idle Tick | 274043 | [274043-idle-tick.json](./274043-idle-tick.json) |
 | Idle Tiers | 369577 | [369577-idle-tiers.json](./369577-idle-tiers.json) |
 | Idle Tower Tycoon | 101522 | [101522-idle-tower-tycoon.json](./101522-idle-tower-tycoon.json) |
 | Idle Towers | 357844 | [357844-idle-towers.json](./357844-idle-towers.json) |
@@ -548,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikenie | 31798 | [31798-ikenie.json](./31798-ikenie.json) |
 | Ikki | 12915 | [12915-ikki.json](./12915-ikki.json) |
 | Ikkitousen: Shining Dragon | 44645 | [44645-ikkitousen-shining-dragon.json](./44645-ikkitousen-shining-dragon.json) |
+| Ikoka Game | 273458 | [273458-ikoka-game.json](./273458-ikoka-game.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
 | Ikun Go Go Go | 390628 | [390628-ikun-go-go-go.json](./390628-ikun-go-go-go.json) |
 | Ikusaaaaaaan! | 151697 | [151697-ikusaaaaaaan.json](./151697-ikusaaaaaaan.json) |
@@ -601,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imae: Guardian Girl | 387536 | [387536-imae-guardian-girl.json](./387536-imae-guardian-girl.json) |
 | Imagicard: PAW Patrol | 137612 | [137612-imagicard-paw-patrol.json](./137612-imagicard-paw-patrol.json) |
 | Imaginarium | 126614 | [126614-imaginarium.json](./126614-imaginarium.json) |
+| Imaginary Friend Asylum | 273459 | [273459-imaginary-friend-asylum.json](./273459-imaginary-friend-asylum.json) |
 | Imaginary Realms Bundle | 166690 | [166690-imaginary-realms-bundle.json](./166690-imaginary-realms-bundle.json) |
 | Imaginator | 122419 | [122419-imaginator.json](./122419-imaginator.json) |
 | Imagine: Rescue Vet | 147432 | [147432-imagine-rescue-vet.json](./147432-imagine-rescue-vet.json) |
@@ -1008,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Veil | 379874 | [379874-infinite-veil.json](./379874-infinite-veil.json) |
 | Infinite Versus | 143697 | [143697-infinite-versus.json](./143697-infinite-versus.json) |
 | Infinite Void | 294868 | [294868-infinite-void.json](./294868-infinite-void.json) |
+| Infinite White: Hyperbolic Time Chamber Simulator | 273460 | [273460-infinite-white-hyperbolic-time-chamber-simulator.json](./273460-infinite-white-hyperbolic-time-chamber-simulator.json) |
 | Infinite Word Search Puzzles | 87658 | [87658-infinite-word-search-puzzles.json](./87658-infinite-word-search-puzzles.json) |
 | Infinite World | 102936 | [102936-infinite-world.json](./102936-infinite-world.json) |
 | Infinitely Up | 335340 | [335340-infinitely-up.json](./335340-infinitely-up.json) |
