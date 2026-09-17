@@ -455,6 +455,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0a1755a54af2b53b9d6c154" width="60" /> | [Half-Life 2: Episode One](https://ostdb.net/games/half-life-2-episode-one) | **Half-Life 2 Episode 1** · [Spotify](https://open.spotify.com/album/4enwecElYfZVyXOe16rPHt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb94e698bc55e3681b952e2c" width="60" /> | [Half-Life 2: Episode Two](https://ostdb.net/games/half-life-2-episode-two) | **Half-Life 2 Episode 2** · [Spotify](https://open.spotify.com/album/2SrurzSQc8p9olxJkSGlqC) |
 | <img src="https://i.scdn.co/image/ab67616d0000aa54ebb9ab8afaca4c4e5d643e25" width="60" /> | [Half-Life: Alyx](https://ostdb.net/games/half-life-alyx) | **Half-Life: Alyx (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1DWZL15wlSZ5S000Zn0Jl6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a07aee36d6c0c30fe3e0066a" width="60" /> | [Halloween: The Game](https://ostdb.net/games/halloween-the-game) | **Halloween: The Game Soundtrack (2026)** · [Spotify](https://open.spotify.com/album/7uDuxrGt3oHCi9pGUm0b84) · [Apple Music](https://music.apple.com/us/album/halloween-the-game-soundtrack-2026/1895730420) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d85808897b5cd1ef0b31a1e" width="60" /> | [Halo 2](https://ostdb.net/games/halo-2) | **Halo 2, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/29K85ghxBzcQHPNPX6QVld)<br>**Halo 2, Vol. 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3rkOmkp3M2pc6jNALIKMvg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738020c2a0541047cca540170c" width="60" /> | [Halo 3](https://ostdb.net/games/halo-3) | **Halo 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5X4MhnXjrQ0zQIBW8a4ivf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273584436303db5a5bc45843f8d" width="60" /> | [Halo 3: ODST](https://ostdb.net/games/halo-3-odst) | **Halo 3: ODST (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6kTb4wCSrCugBKLqBOvzNG) |
@@ -1128,4 +1129,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1453 soundtracks · last updated 2026-09-17T07:11:01.788Z_
+_1454 soundtracks · last updated 2026-09-17T07:16:01.478Z_
