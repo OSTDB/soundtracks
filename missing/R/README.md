@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reapers | 267448 | [267448-reapers.json](./267448-reapers.json) |
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
 | Reason: Casual Puzzle | 148000 | [148000-reason-casual-puzzle.json](./148000-reason-casual-puzzle.json) |
+| Reasoning of Courage Nori 3 Balanced Diet | 251680 | [251680-reasoning-of-courage-nori-3-balanced-diet.json](./251680-reasoning-of-courage-nori-3-balanced-diet.json) |
 | Reasons For Kym | 304720 | [304720-reasons-for-kym.json](./304720-reasons-for-kym.json) |
 | Reassembly | 11691 | [11691-reassembly.json](./11691-reassembly.json) |
 | Rebadge | 397096 | [397096-rebadge.json](./397096-rebadge.json) |
@@ -2768,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollScape | 295403 | [295403-rollscape.json](./295403-rollscape.json) |
 | RollTheEarth | 103437 | [103437-rolltheearth.json](./103437-rolltheearth.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
+| Roly Poly Putt | 251663 | [251663-roly-poly-putt.json](./251663-roly-poly-putt.json) |
 | Roly Poly Roundup | 396415 | [396415-roly-poly-roundup.json](./396415-roly-poly-roundup.json) |
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
 | Rom Rom Stadium | 64377 | [64377-rom-rom-stadium.json](./64377-rom-rom-stadium.json) |
