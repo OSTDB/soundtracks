@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to nightmare | 117699 | [117699-welcome-to-nightmare.json](./117699-welcome-to-nightmare.json) |
 | Welcome to Paradise Island | 331119 | [331119-welcome-to-paradise-island.json](./331119-welcome-to-paradise-island.json) |
 | Welcome to Pinehills | 165673 | [165673-welcome-to-pinehills.json](./165673-welcome-to-pinehills.json) |
+| Welcome to Primrose Lake 2 | 275102 | [275102-welcome-to-primrose-lake-2.json](./275102-welcome-to-primrose-lake-2.json) |
 | Welcome to Primrose Lake 3 | 337472 | [337472-welcome-to-primrose-lake-3.json](./337472-welcome-to-primrose-lake-3.json) |
 | Welcome to Primrose Lake 4 | 337471 | [337471-welcome-to-primrose-lake-4.json](./337471-welcome-to-primrose-lake-4.json) |
 | Welcome to Primrose Lake 5 | 337473 | [337473-welcome-to-primrose-lake-5.json](./337473-welcome-to-primrose-lake-5.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
 | Whispers of Silence | 296517 | [296517-whispers-of-silence.json](./296517-whispers-of-silence.json) |
 | Whispers of The Abyss | 301269 | [301269-whispers-of-the-abyss.json](./301269-whispers-of-the-abyss.json) |
+| Whispers of the Citadel | 275136 | [275136-whispers-of-the-citadel.json](./275136-whispers-of-the-citadel.json) |
 | Whispers of The Shadow | 312550 | [312550-whispers-of-the-shadow.json](./312550-whispers-of-the-shadow.json) |
 | Whispers of the Tallgrass | 398959 | [398959-whispers-of-the-tallgrass.json](./398959-whispers-of-the-tallgrass.json) |
 | Whispers of the Void | 358378 | [358378-whispers-of-the-void.json](./358378-whispers-of-the-void.json) |
@@ -1334,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Gunman | 4625 | [4625-wild-gunman.json](./4625-wild-gunman.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Horizon: Edge of Survival | 333111 | [333111-wild-horizon-edge-of-survival.json](./333111-wild-horizon-edge-of-survival.json) |
+| Wild Horse Racing | 275139 | [275139-wild-horse-racing.json](./275139-wild-horse-racing.json) |
 | Wild Hunter: Sniper Rifle Adventures Simulator | 317439 | [317439-wild-hunter-sniper-rifle-adventures-simulator.json](./317439-wild-hunter-sniper-rifle-adventures-simulator.json) |
 | Wild Ice | 166777 | [166777-wild-ice.json](./166777-wild-ice.json) |
 | Wild Indigo Ranch | 199596 | [199596-wild-indigo-ranch.json](./199596-wild-indigo-ranch.json) |
