@@ -4103,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monria | 22385 | [22385-monria.json](./22385-monria.json) |
 | Monroe Park | 376564 | [376564-monroe-park.json](./376564-monroe-park.json) |
 | Mons | 178008 | [178008-mons.json](./178008-mons.json) |
+| Monsta Bounce | 240923 | [240923-monsta-bounce.json](./240923-monsta-bounce.json) |
 | Monstabox | 334134 | [334134-monstabox.json](./334134-monstabox.json) |
 | MonStar | 193971 | [193971-monstar.json](./193971-monstar.json) |
 | Monster & Me | 182466 | [182466-monster-and-me.json](./182466-monster-and-me.json) |
@@ -5059,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mujina | 259060 | [259060-mujina.json](./259060-mujina.json) |
 | Mujina: Maze Game VR | 261504 | [261504-mujina-maze-game-vr.json](./261504-mujina-maze-game-vr.json) |
 | Mukaeute Uchuu Gundan Galack | 66130 | [66130-mukaeute-uchuu-gundan-galack.json](./66130-mukaeute-uchuu-gundan-galack.json) |
+| Mukbang 3D | 240883 | [240883-mukbang-3d.json](./240883-mukbang-3d.json) |
 | Mukougawa no Reisetsu | 341594 | [341594-mukougawa-no-reisetsu.json](./341594-mukougawa-no-reisetsu.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
 | Multi Level Car Parking Simulator | 255738 | [255738-multi-level-car-parking-simulator.json](./255738-multi-level-car-parking-simulator.json) |
