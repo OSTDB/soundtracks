@@ -1112,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death and Betrayal in Romania: A Dana Knightstone Novel - Collector's Edition | 107838 | [107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json](./107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json) |
 | Death and Tactics | 353364 | [353364-death-and-tactics.json](./353364-death-and-tactics.json) |
 | Death and Taxes | 126835 | [126835-death-and-taxes.json](./126835-death-and-taxes.json) |
+| Death Angel Nightmare | 235877 | [235877-death-angel-nightmare.json](./235877-death-angel-nightmare.json) |
 | Death Angel Trial | 284334 | [284334-death-angel-trial.json](./284334-death-angel-trial.json) |
 | Death Animal Parade | 260210 | [260210-death-animal-parade.json](./260210-death-animal-parade.json) |
 | Death at Sycamore Hall | 388250 | [388250-death-at-sycamore-hall.json](./388250-death-at-sycamore-hall.json) |
@@ -1282,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
 | Deckout | 373663 | [373663-deckout.json](./373663-deckout.json) |
 | Decks & Dungeons | 149574 | [149574-decks-and-dungeons.json](./149574-decks-and-dungeons.json) |
+| Decks of Power | 235842 | [235842-decks-of-power.json](./235842-decks-of-power.json) |
 | Decks of the Damned | 282118 | [282118-decks-of-the-damned.json](./282118-decks-of-the-damned.json) |
 | Deckstrander | 257938 | [257938-deckstrander.json](./257938-deckstrander.json) |
 | Decktamer | 291367 | [291367-decktamer.json](./291367-decktamer.json) |
@@ -1402,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepWeb Simulator | 291448 | [291448-deepweb-simulator.json](./291448-deepweb-simulator.json) |
 | Deer Avenger | 73851 | [73851-deer-avenger.json](./73851-deer-avenger.json) |
 | Deer Avenger 2 | 316617 | [316617-deer-avenger-2.json](./316617-deer-avenger-2.json) |
+| Deer Crusade | 235826 | [235826-deer-crusade.json](./235826-deer-crusade.json) |
 | Deer Drive | 47771 | [47771-deer-drive.json](./47771-deer-drive.json) |
 | Deer God | 278527 | [278527-deer-god.json](./278527-deer-god.json) |
 | Deer Hunt Challenge | 78044 | [78044-deer-hunt-challenge.json](./78044-deer-hunt-challenge.json) |
@@ -3145,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
 | Dolmenia : Chroniques Gauloises | 125369 | [125369-dolmenia-chroniques-gauloises.json](./125369-dolmenia-chroniques-gauloises.json) |
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
+| Doloc Town | 235852 | [235852-doloc-town.json](./235852-doloc-town.json) |
 | Dolor's Dwelling | 390006 | [390006-dolors-dwelling.json](./390006-dolors-dwelling.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
 | Dolphin Olympics 2 | 159287 | [159287-dolphin-olympics-2.json](./159287-dolphin-olympics-2.json) |
@@ -3167,6 +3171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domination: War of Nations | 232981 | [232981-domination-war-of-nations.json](./232981-domination-war-of-nations.json) |
 | DomiNations | 39257 | [39257-dominations.json](./39257-dominations.json) |
 | Dominator | 13601 | [13601-dominator.json](./13601-dominator.json) |
+| Dominator Idle | 235879 | [235879-dominator-idle.json](./235879-dominator-idle.json) |
 | Dominay | 211962 | [211962-dominay.json](./211962-dominay.json) |
 | Dominions 3: The Awakening | 16641 | [16641-dominions-3-the-awakening.json](./16641-dominions-3-the-awakening.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
