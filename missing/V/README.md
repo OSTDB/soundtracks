@@ -884,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
 | Voices of a Hidden Star | 183530 | [183530-voices-of-a-hidden-star.json](./183530-voices-of-a-hidden-star.json) |
 | Void | 202343 | [202343-void.json](./202343-void.json) |
+| Void | 237506 | [237506-void.json](./237506-void.json) |
 | Void | 252369 | [252369-void.json](./252369-void.json) |
 | Void | 344436 | [344436-void.json](./344436-void.json) |
 | Void & Nothingness | 30762 | [30762-void-and-nothingness.json](./30762-void-and-nothingness.json) |
