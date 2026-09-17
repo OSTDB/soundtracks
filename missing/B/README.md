@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Desolation | 56914 | [56914-beautiful-desolation.json](./56914-beautiful-desolation.json) |
 | Beautiful Indie Worlds Bundle | 246112 | [246112-beautiful-indie-worlds-bundle.json](./246112-beautiful-indie-worlds-bundle.json) |
 | Beautiful Japanese Scenery: Animated Jigsaws | 31695 | [31695-beautiful-japanese-scenery-animated-jigsaws.json](./31695-beautiful-japanese-scenery-animated-jigsaws.json) |
+| Beautiful Sakura: Surfing Club | 265240 | [265240-beautiful-sakura-surfing-club.json](./265240-beautiful-sakura-surfing-club.json) |
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
 | Beauty and the Beast | 292649 | [292649-beauty-and-the-beast.json](./292649-beauty-and-the-beast.json) |
@@ -1594,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beena Town he Youkoso | 300416 | [300416-beena-town-he-youkoso.json](./300416-beena-town-he-youkoso.json) |
 | Beep | 133952 | [133952-beep.json](./133952-beep.json) |
 | Beep | 331671 | [331671-beep.json](./331671-beep.json) |
+| Beep Bap The Beep Boop | 265235 | [265235-beep-bap-the-beep-boop.json](./265235-beep-bap-the-beep-boop.json) |
 | Beep Boop | 319000 | [319000-beep-boop.json](./319000-beep-boop.json) |
 | Beepertron | 84239 | [84239-beepertron.json](./84239-beepertron.json) |
 | Beer Pong : Trickshot | 90694 | [90694-beer-pong-trickshot.json](./90694-beer-pong-trickshot.json) |
@@ -3310,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
 | Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
 | Bomber Crew: Deluxe Edition | 118956 | [118956-bomber-crew-deluxe-edition.json](./118956-bomber-crew-deluxe-edition.json) |
+| Bomber Crew: Skin Pack | 265253 | [265253-bomber-crew-skin-pack.json](./265253-bomber-crew-skin-pack.json) |
 | Bomber Dudes | 169373 | [169373-bomber-dudes.json](./169373-bomber-dudes.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber Man 2002 | 287648 | [287648-bomber-man-2002.json](./287648-bomber-man-2002.json) |
@@ -3972,6 +3975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadieval | 361683 | [361683-breadieval.json](./361683-breadieval.json) |
 | BreadKnight Adventures | 355568 | [355568-breadknight-adventures.json](./355568-breadknight-adventures.json) |
 | Break an Egg | 305336 | [305336-break-an-egg.json](./305336-break-an-egg.json) |
+| Break Arts III | 265210 | [265210-break-arts-iii.json](./265210-break-arts-iii.json) |
 | Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
@@ -4512,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet'nTunes | 175342 | [175342-bulletntunes.json](./175342-bulletntunes.json) |
 | BulletAsylum | 93506 | [93506-bulletasylum.json](./93506-bulletasylum.json) |
 | BulletHeart | 181910 | [181910-bulletheart.json](./181910-bulletheart.json) |
+| BulletHeck | 265207 | [265207-bulletheck.json](./265207-bulletheck.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
 | Bulletreign: Survivors | 406200 | [406200-bulletreign-survivors.json](./406200-bulletreign-survivors.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
@@ -4749,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busty Balls Brick Breaker | 175882 | [175882-busty-balls-brick-breaker.json](./175882-busty-balls-brick-breaker.json) |
 | Busty Hentai Mosaic | 291068 | [291068-busty-hentai-mosaic.json](./291068-busty-hentai-mosaic.json) |
 | Busty Maid: Creampie Heaven | 127964 | [127964-busty-maid-creampie-heaven.json](./127964-busty-maid-creampie-heaven.json) |
+| BustyBiz: Anna Pack | 265252 | [265252-bustybiz-anna-pack.json](./265252-bustybiz-anna-pack.json) |
 | Busy Bea's Halftime Hustle | 349295 | [349295-busy-beas-halftime-hustle.json](./349295-busy-beas-halftime-hustle.json) |
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
 | But That Was [Yesterday] | 203353 | [203353-but-that-was-yesterday.json](./203353-but-that-was-yesterday.json) |
