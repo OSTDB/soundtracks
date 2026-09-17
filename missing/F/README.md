@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fan'cie Veer! (Fish Are Nasty, Cake Is Excellent Vektor Evading Emblazed Rapture) | 105375 | [105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json](./105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json) |
 | FanaticBlader | 115699 | [115699-fanaticblader.json](./115699-fanaticblader.json) |
 | Fanciful Diamonds | 359398 | [359398-fanciful-diamonds.json](./359398-fanciful-diamonds.json) |
+| Fancy | 247033 | [247033-fancy.json](./247033-fancy.json) |
 | Fancy Island | 172735 | [172735-fancy-island.json](./172735-fancy-island.json) |
 | Fancy Skiing 2: Online | 105312 | [105312-fancy-skiing-2-online.json](./105312-fancy-skiing-2-online.json) |
 | Fancy Skiing VR | 31759 | [31759-fancy-skiing-vr.json](./31759-fancy-skiing-vr.json) |
@@ -631,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Invaders | 324319 | [324319-farm-invaders.json](./324319-farm-invaders.json) |
 | Farm Invasion USA | 61125 | [61125-farm-invasion-usa.json](./61125-farm-invasion-usa.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
+| Farm Keeper | 247034 | [247034-farm-keeper.json](./247034-farm-keeper.json) |
 | Farm Kitten: Puzzle Pipes | 165711 | [165711-farm-kitten-puzzle-pipes.json](./165711-farm-kitten-puzzle-pipes.json) |
 | Farm Land: Complete Edition | 270793 | [270793-farm-land-complete-edition.json](./270793-farm-land-complete-edition.json) |
 | Farm Land: Gold Edition | 385198 | [385198-farm-land-gold-edition.json](./385198-farm-land-gold-edition.json) |
@@ -989,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FemDomination 2 | 286504 | [286504-femdomination-2.json](./286504-femdomination-2.json) |
 | Feminize Me! | 185683 | [185683-feminize-me.json](./185683-feminize-me.json) |
 | Fenakkumura Monogatari | 166145 | [166145-fenakkumura-monogatari.json](./166145-fenakkumura-monogatari.json) |
+| Fencing Champ | 247044 | [247044-fencing-champ.json](./247044-fencing-champ.json) |
 | Fencing Girl | 186863 | [186863-fencing-girl.json](./186863-fencing-girl.json) |
 | Fency Krabby | 185146 | [185146-fency-krabby.json](./185146-fency-krabby.json) |
 | Fenestra: My Focus, Her Future | 415956 | [415956-fenestra-my-focus-her-future.json](./415956-fenestra-my-focus-her-future.json) |
@@ -1557,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire in the Dark | 346696 | [346696-fire-in-the-dark.json](./346696-fire-in-the-dark.json) |
 | Fire in the Hole | 381019 | [381019-fire-in-the-hole.json](./381019-fire-in-the-hole.json) |
 | Fire Lookout: Abandoned Post | 401664 | [401664-fire-lookout-abandoned-post.json](./401664-fire-lookout-abandoned-post.json) |
+| Fire Man | 247018 | [247018-fire-man.json](./247018-fire-man.json) |
 | Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
 | Fire Pro Wrestling World: Entrance Craft | 170445 | [170445-fire-pro-wrestling-world-entrance-craft.json](./170445-fire-pro-wrestling-world-entrance-craft.json) |
 | Fire Pro Wrestling World: Fighting Road - 2017 NJPW Junior Heavyweight Championship | 170447 | [170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json](./170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json) |
@@ -1716,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Tank Live | 230849 | [230849-fish-tank-live.json](./230849-fish-tank-live.json) |
 | Fish Tank Simulator | 383958 | [383958-fish-tank-simulator.json](./383958-fish-tank-simulator.json) |
 | Fish Upon a Star | 112287 | [112287-fish-upon-a-star.json](./112287-fish-upon-a-star.json) |
+| Fish War | 247024 | [247024-fish-war.json](./247024-fish-war.json) |
 | Fish! | 12101 | [12101-fish.json](./12101-fish.json) |
 | Fishards | 152852 | [152852-fishards.json](./152852-fishards.json) |
 | Fishbait | 373634 | [373634-fishbait.json](./373634-fishbait.json) |
@@ -1748,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Kings | 92522 | [92522-fishing-kings.json](./92522-fishing-kings.json) |
 | Fishing Koushien II | 123045 | [123045-fishing-koushien-ii.json](./123045-fishing-koushien-ii.json) |
 | Fishing Maniacs 1 TD | 96735 | [96735-fishing-maniacs-1-td.json](./96735-fishing-maniacs-1-td.json) |
+| Fishing Master | 247007 | [247007-fishing-master.json](./247007-fishing-master.json) |
 | Fishing Master World Tour | 50630 | [50630-fishing-master-world-tour.json](./50630-fishing-master-world-tour.json) |
 | Fishing Mates | 237960 | [237960-fishing-mates.json](./237960-fishing-mates.json) |
 | Fishing Mayhem | 318187 | [318187-fishing-mayhem.json](./318187-fishing-mayhem.json) |
