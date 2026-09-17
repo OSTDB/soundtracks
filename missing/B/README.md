@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball League | 107119 | [107119-ball-league.json](./107119-ball-league.json) |
 | Ball Match Quest | 108481 | [108481-ball-match-quest.json](./108481-ball-match-quest.json) |
 | Ball of Paint | 334752 | [334752-ball-of-paint.json](./334752-ball-of-paint.json) |
+| Ball of Poo | 276855 | [276855-ball-of-poo.json](./276855-ball-of-poo.json) |
 | Ball of Wonder | 31897 | [31897-ball-of-wonder.json](./31897-ball-of-wonder.json) |
 | Ball Out | 262962 | [262962-ball-out.json](./262962-ball-out.json) |
 | Ball Pain | 193465 | [193465-ball-pain.json](./193465-ball-pain.json) |
