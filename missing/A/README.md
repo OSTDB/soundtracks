@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aethus | 270142 | [270142-aethus.json](./270142-aethus.json) |
 | Aeve:Zero Gravity | 83540 | [83540-aeve-zero-gravity.json](./83540-aeve-zero-gravity.json) |
 | AEW: Fight Forever | 145216 | [145216-aew-fight-forever.json](./145216-aew-fight-forever.json) |
+| AEW: Fight Forever - Elite Edition | 251670 | [251670-aew-fight-forever-elite-edition.json](./251670-aew-fight-forever-elite-edition.json) |
 | Afallon | 283879 | [283879-afallon.json](./283879-afallon.json) |
 | Affairs of the Court: Choice of Romance | 32355 | [32355-affairs-of-the-court-choice-of-romance.json](./32355-affairs-of-the-court-choice-of-romance.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
@@ -1278,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Elite Wrestling: Fight Forever - Hayter's Gunna Game | 287118 | [287118-all-elite-wrestling-fight-forever-hayters-gunna-game.json](./287118-all-elite-wrestling-fight-forever-hayters-gunna-game.json) |
 | All Elite Wrestling: Fight Forever - Hookhausen: Very Handsome, Very Evil Pack | 270797 | [270797-all-elite-wrestling-fight-forever-hookhausen-very-handsome-very-evil-pack.json](./270797-all-elite-wrestling-fight-forever-hookhausen-very-handsome-very-evil-pack.json) |
 | All Elite Wrestling: Fight Forever - Limitless Bunny Pack | 263527 | [263527-all-elite-wrestling-fight-forever-limitless-bunny-pack.json](./263527-all-elite-wrestling-fight-forever-limitless-bunny-pack.json) |
+| All Elite Wrestling: Fight Forever - Matt Hardy | 251669 | [251669-all-elite-wrestling-fight-forever-matt-hardy.json](./251669-all-elite-wrestling-fight-forever-matt-hardy.json) |
 | All Elite Wrestling: Fight Forever - Rated Gold Superstar Pack | 301008 | [301008-all-elite-wrestling-fight-forever-rated-gold-superstar-pack.json](./301008-all-elite-wrestling-fight-forever-rated-gold-superstar-pack.json) |
 | All Elite Wrestling: Fight Forever - Season Pass 2 | 283188 | [283188-all-elite-wrestling-fight-forever-season-pass-2.json](./283188-all-elite-wrestling-fight-forever-season-pass-2.json) |
 | All Elite Wrestling: Fight Forever - Season Pass 3 | 287121 | [287121-all-elite-wrestling-fight-forever-season-pass-3.json](./287121-all-elite-wrestling-fight-forever-season-pass-3.json) |
@@ -3823,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 2: Lost Legends & The Secret Fairy - Premium Box | 139998 | [139998-atelier-ryza-2-lost-legends-and-the-secret-fairy-premium-box.json](./139998-atelier-ryza-2-lost-legends-and-the-secret-fairy-premium-box.json) |
 | Atelier Ryza 2: Lost Legends & The Secret Fairy - Special Collection Box | 140002 | [140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json](./140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json) |
 | Atelier Ryza 2: Lost Legends & the Secret Fairy DX | 359425 | [359425-atelier-ryza-2-lost-legends-and-the-secret-fairy-dx.json](./359425-atelier-ryza-2-lost-legends-and-the-secret-fairy-dx.json) |
+| Atelier Ryza 3: Alchemist of the End & the Secret Key - Additional Area "Rosca Island" | 251683 | [251683-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-additional-area-rosca-island.json](./251683-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-additional-area-rosca-island.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key - Premium Box | 381105 | [381105-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-premium-box.json](./381105-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-premium-box.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key DX | 359427 | [359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json](./359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json) |
 | Atelier Ryza 3: Endless Summer Splash! Costume Set | 242543 | [242543-atelier-ryza-3-endless-summer-splash-costume-set.json](./242543-atelier-ryza-3-endless-summer-splash-costume-set.json) |
