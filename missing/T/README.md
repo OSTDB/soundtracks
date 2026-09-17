@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
 | The Dark Arrival: Shadows of the Past | 343269 | [343269-the-dark-arrival-shadows-of-the-past.json](./343269-the-dark-arrival-shadows-of-the-past.json) |
 | The Dark Book 2 | 274489 | [274489-the-dark-book-2.json](./274489-the-dark-book-2.json) |
+| The Dark Climb | 253423 | [253423-the-dark-climb.json](./253423-the-dark-climb.json) |
 | The Dark Curiosity | 381002 | [381002-the-dark-curiosity.json](./381002-the-dark-curiosity.json) |
 | The Dark Debt | 283769 | [283769-the-dark-debt.json](./283769-the-dark-debt.json) |
 | The Dark Defender | 199092 | [199092-the-dark-defender.json](./199092-the-dark-defender.json) |
@@ -4731,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stronghold Collection | 27858 | [27858-the-stronghold-collection.json](./27858-the-stronghold-collection.json) |
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
 | The Subconscious Fear | 271809 | [271809-the-subconscious-fear.json](./271809-the-subconscious-fear.json) |
+| The Submerging Island | 253453 | [253453-the-submerging-island.json](./253453-the-submerging-island.json) |
 | The Subminer | 410344 | [410344-the-subminer.json](./410344-the-subminer.json) |
 | The Substance of Things | 174359 | [174359-the-substance-of-things.json](./174359-the-substance-of-things.json) |
 | The Succubi Trap | 74354 | [74354-the-succubi-trap.json](./74354-the-succubi-trap.json) |
@@ -6357,6 +6359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timerunner | 161900 | [161900-timerunner.json](./161900-timerunner.json) |
 | Times | 391709 | [391709-times.json](./391709-times.json) |
 | Times & Galaxy | 248316 | [248316-times-and-galaxy.json](./248316-times-and-galaxy.json) |
+| Times Of War | 253428 | [253428-times-of-war.json](./253428-times-of-war.json) |
 | Times Trials | 244245 | [244245-times-trials.json](./244245-times-trials.json) |
 | Times Turn | 185132 | [185132-times-turn.json](./185132-times-turn.json) |
 | TimeScape: Journey to Pompeii | 73819 | [73819-timescape-journey-to-pompeii.json](./73819-timescape-journey-to-pompeii.json) |
@@ -7367,6 +7370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Guardian | 153946 | [153946-tower-of-guardian.json](./153946-tower-of-guardian.json) |
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Nod | 313308 | [313308-tower-of-nod.json](./313308-tower-of-nod.json) |
+| Tower of Pandemonium | 253416 | [253416-tower-of-pandemonium.json](./253416-tower-of-pandemonium.json) |
 | Tower of Saviors | 22440 | [22440-tower-of-saviors.json](./22440-tower-of-saviors.json) |
 | Tower of Shades | 127386 | [127386-tower-of-shades.json](./127386-tower-of-shades.json) |
 | Tower of Souls | 61550 | [61550-tower-of-souls.json](./61550-tower-of-souls.json) |
@@ -7767,8 +7771,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Soldier Summit Route | 238487 | [238487-train-simulator-classic-soldier-summit-route.json](./238487-train-simulator-classic-soldier-summit-route.json) |
 | Train Simulator Classic: Tamns VTG Wagon Pack | 293393 | [293393-train-simulator-classic-tamns-vtg-wagon-pack.json](./293393-train-simulator-classic-tamns-vtg-wagon-pack.json) |
 | Train Simulator Classic: Wasatch Grade Scenario Pack 01 | 243375 | [243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json](./243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json) |
+| Train Simulator Classic: Western Maryland H-9 Class | 253432 | [253432-train-simulator-classic-western-maryland-h-9-class.json](./253432-train-simulator-classic-western-maryland-h-9-class.json) |
 | Train Simulator Classic: Zacens Wagon Pack | 293394 | [293394-train-simulator-classic-zacens-wagon-pack.json](./293394-train-simulator-classic-zacens-wagon-pack.json) |
 | Train Simulator Classic: Zcs VTG Wagon Pack | 293395 | [293395-train-simulator-classic-zcs-vtg-wagon-pack.json](./293395-train-simulator-classic-zcs-vtg-wagon-pack.json) |
+| Train Simulator: China Railways CR400BF | 253450 | [253450-train-simulator-china-railways-cr400bf.json](./253450-train-simulator-china-railways-cr400bf.json) |
 | Train Simulator: EA-692 | 306071 | [306071-train-simulator-ea-692.json](./306071-train-simulator-ea-692.json) |
 | Train Simulator: London Subway | 103448 | [103448-train-simulator-london-subway.json](./103448-train-simulator-london-subway.json) |
 | Train Simulator: London Subway | 103488 | [103488-train-simulator-london-subway.json](./103488-train-simulator-london-subway.json) |
@@ -8730,6 +8736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turmoil | 19438 | [19438-turmoil.json](./19438-turmoil.json) |
 | Turmoil | 305530 | [305530-turmoil.json](./305530-turmoil.json) |
 | Turmoil: The Heat Is On | 124826 | [124826-turmoil-the-heat-is-on.json](./124826-turmoil-the-heat-is-on.json) |
+| Turn on the Light: Jigsaw | 253445 | [253445-turn-on-the-light-jigsaw.json](./253445-turn-on-the-light-jigsaw.json) |
 | Turn on the Lights Carefully | 238750 | [238750-turn-on-the-lights-carefully.json](./238750-turn-on-the-lights-carefully.json) |
 | Turn Tack | 197919 | [197919-turn-tack.json](./197919-turn-tack.json) |
 | Turn-Based Champion | 99664 | [99664-turn-based-champion.json](./99664-turn-based-champion.json) |
