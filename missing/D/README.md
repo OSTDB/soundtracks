@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Train | 25298 | [25298-dark-train.json](./25298-dark-train.json) |
 | Dark Traveller | 241952 | [241952-dark-traveller.json](./241952-dark-traveller.json) |
 | Dark Umbra | 295793 | [295793-dark-umbra.json](./295793-dark-umbra.json) |
+| Dark Universe | 256893 | [256893-dark-universe.json](./256893-dark-universe.json) |
 | Dark Universe | 69798 | [69798-dark-universe.json](./69798-dark-universe.json) |
 | Dark Visit | 103446 | [103446-dark-visit.json](./103446-dark-visit.json) |
 | Dark Void | 4220 | [4220-dark-void.json](./4220-dark-void.json) |
@@ -726,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day R | 82855 | [82855-day-r.json](./82855-day-r.json) |
 | Day Trader Tycoon | 386890 | [386890-day-trader-tycoon.json](./386890-day-trader-tycoon.json) |
 | Daybreakers | 259062 | [259062-daybreakers.json](./259062-daybreakers.json) |
+| Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
 | DayD: Through Time | 105300 | [105300-dayd-through-time.json](./105300-dayd-through-time.json) |
 | Daydam Knight | 295794 | [295794-daydam-knight.json](./295794-daydam-knight.json) |
 | Daydream | 192955 | [192955-daydream.json](./192955-daydream.json) |
