@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go West! A Lucky Luke Adventure | 110321 | [110321-go-west-a-lucky-luke-adventure.json](./110321-go-west-a-lucky-luke-adventure.json) |
 | Go West! A Lucky Luke Adventure | 345551 | [345551-go-west-a-lucky-luke-adventure.json](./345551-go-west-a-lucky-luke-adventure.json) |
 | Go-Jin Senki | 80525 | [80525-go-jin-senki.json](./80525-go-jin-senki.json) |
+| Go-Kart | 246489 | [246489-go-kart.json](./246489-go-kart.json) |
 | Go-Kart Racing | 96470 | [96470-go-kart-racing.json](./96470-go-kart-racing.json) |
 | Go-Kart Simulator | 326417 | [326417-go-kart-simulator.json](./326417-go-kart-simulator.json) |
 | Go, Diego, Go! Great Dinosaur Rescue | 292114 | [292114-go-diego-go-great-dinosaur-rescue.json](./292114-go-diego-go-great-dinosaur-rescue.json) |
