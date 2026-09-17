@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Club-i | 143657 | [143657-hamster-club-i.json](./143657-hamster-club-i.json) |
 | Hamster Club: Awasete Chu | 281541 | [281541-hamster-club-awasete-chu.json](./281541-hamster-club-awasete-chu.json) |
 | Hamster Club: Oshiema Chu | 281542 | [281542-hamster-club-oshiema-chu.json](./281542-hamster-club-oshiema-chu.json) |
+| Hamster Fighter | 246459 | [246459-hamster-fighter.json](./246459-hamster-fighter.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
 | Hamster Monogatari 3, 4, Special | 97817 | [97817-hamster-monogatari-3-4-special.json](./97817-hamster-monogatari-3-4-special.json) |
 | Hamster Monogatari 64 | 3509 | [3509-hamster-monogatari-64.json](./3509-hamster-monogatari-64.json) |
@@ -433,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Lesson | 78643 | [78643-happy-lesson.json](./78643-happy-lesson.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
 | Happy Maze | 30944 | [30944-happy-maze.json](./30944-happy-maze.json) |
+| Happy Mice | 246460 | [246460-happy-mice.json](./246460-happy-mice.json) |
 | Happy Mining | 195163 | [195163-happy-mining.json](./195163-happy-mining.json) |
 | Happy Monster | 295366 | [295366-happy-monster.json](./295366-happy-monster.json) |
 | Happy Mouse | 241373 | [241373-happy-mouse.json](./241373-happy-mouse.json) |
@@ -2815,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Office: Sex Story | 296910 | [296910-hot-office-sex-story.json](./296910-hot-office-sex-story.json) |
 | Hot Pinball | 398447 | [398447-hot-pinball.json](./398447-hot-pinball.json) |
 | Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
+| Hot Racing | 246461 | [246461-hot-racing.json](./246461-hot-racing.json) |
 | Hot Rider Racing Simulator | 290428 | [290428-hot-rider-racing-simulator.json](./290428-hot-rider-racing-simulator.json) |
 | Hot Runback: VR Runner | 68656 | [68656-hot-runback-vr-runner.json](./68656-hot-runback-vr-runner.json) |
 | Hot Shot | 317877 | [317877-hot-shot.json](./317877-hot-shot.json) |
