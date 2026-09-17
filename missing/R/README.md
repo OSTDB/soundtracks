@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R no Shosai | 93531 | [93531-r-no-shosai.json](./93531-r-no-shosai.json) |
 | R-Coil | 68792 | [68792-r-coil.json](./68792-r-coil.json) |
 | R-Shark | 40254 | [40254-r-shark.json](./40254-r-shark.json) |
+| R-Type | 260765 | [260765-r-type.json](./260765-r-type.json) |
 | R-Type | 263373 | [263373-r-type.json](./263373-r-type.json) |
 | R-Type Final 2: DLC Set 1 | 155065 | [155065-r-type-final-2-dlc-set-1.json](./155065-r-type-final-2-dlc-set-1.json) |
 | R-Type Final 2: DLC Set 2 | 155064 | [155064-r-type-final-2-dlc-set-2.json](./155064-r-type-final-2-dlc-set-2.json) |
@@ -1740,6 +1741,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revival and Exploration | 252130 | [252130-revival-and-exploration.json](./252130-revival-and-exploration.json) |
 | Revival AO | 212245 | [212245-revival-ao.json](./212245-revival-ao.json) |
 | Revival of the Road | 83496 | [83496-revival-of-the-road.json](./83496-revival-of-the-road.json) |
+| Revival Xanadu | 260750 | [260750-revival-xanadu.json](./260750-revival-xanadu.json) |
+| Revival Xanadu 2: Remix | 260751 | [260751-revival-xanadu-2-remix.json](./260751-revival-xanadu-2-remix.json) |
 | Revive | 334183 | [334183-revive.json](./334183-revive.json) |
 | Revive & Repeat | 391731 | [391731-revive-and-repeat.json](./391731-revive-and-repeat.json) |
 | Revive The Town! | 353372 | [353372-revive-the-town.json](./353372-revive-the-town.json) |
