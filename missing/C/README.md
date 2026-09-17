@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat-Car Mission | 359421 | [359421-cat-car-mission.json](./359421-cat-car-mission.json) |
 | Cat-Like Concentration | 276721 | [276721-cat-like-concentration.json](./276721-cat-like-concentration.json) |
 | Cat'n'Robot: Idle Defense | 174912 | [174912-catnrobot-idle-defense.json](./174912-catnrobot-idle-defense.json) |
+| Cat's Cosmic Atlas | 258012 | [258012-cats-cosmic-atlas.json](./258012-cats-cosmic-atlas.json) |
 | Cat's Kiss | 152296 | [152296-cats-kiss.json](./152296-cats-kiss.json) |
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
 | Cat's Vote | 274509 | [274509-cats-vote.json](./274509-cats-vote.json) |
@@ -1822,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chikankyou: Gachi Tsukaeru Appli de Muchimuchi Kyonyuu Shiri o Monde Sawatte! Acme-gao de Ikasetai!! | 109000 | [109000-chikankyou-gachi-tsukaeru-appli-de-muchimuchi-kyonyuu-shiri-o-monde-sawatte-acme-gao-de-ikasetai.json](./109000-chikankyou-gachi-tsukaeru-appli-de-muchimuchi-kyonyuu-shiri-o-monde-sawatte-acme-gao-de-ikasetai.json) |
 | Chikarou | 206384 | [206384-chikarou.json](./206384-chikarou.json) |
 | Chikasuiji kara no Dasshutsu | 251616 | [251616-chikasuiji-kara-no-dasshutsu.json](./251616-chikasuiji-kara-no-dasshutsu.json) |
+| Chiki-Chiki | 258025 | [258025-chiki-chiki.json](./258025-chiki-chiki.json) |
 | Chiki-Chiki Boxy Racers | 107229 | [107229-chiki-chiki-boxy-racers.json](./107229-chiki-chiki-boxy-racers.json) |
 | Chikn Nuggit Nightmare Fwiends | 275929 | [275929-chikn-nuggit-nightmare-fwiends.json](./275929-chikn-nuggit-nightmare-fwiends.json) |
 | Chikoku no Mokushiroku: Ver.2.00 | 302957 | [302957-chikoku-no-mokushiroku-ver-2-00.json](./302957-chikoku-no-mokushiroku-ver-2-00.json) |
@@ -4860,6 +4862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Mythos RPG II | 82941 | [82941-cthulhu-mythos-rpg-ii.json](./82941-cthulhu-mythos-rpg-ii.json) |
 | Cthulhu Realms | 32510 | [32510-cthulhu-realms.json](./32510-cthulhu-realms.json) |
 | Cthulhu: Frozen Nightmare | 135269 | [135269-cthulhu-frozen-nightmare.json](./135269-cthulhu-frozen-nightmare.json) |
+| Cthulhu's Reach: Devil Reef | 258013 | [258013-cthulhus-reach-devil-reef.json](./258013-cthulhus-reach-devil-reef.json) |
 | Cthuloop | 381119 | [381119-cthuloop.json](./381119-cthuloop.json) |
 | Cthuloot | 235448 | [235448-cthuloot.json](./235448-cthuloot.json) |
 | Ctrl CV | 101514 | [101514-ctrl-cv.json](./101514-ctrl-cv.json) |
