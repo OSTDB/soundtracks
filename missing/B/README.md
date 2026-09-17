@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baro Kart | 259009 | [259009-baro-kart.json](./259009-baro-kart.json) |
 | Barold | 220135 | [220135-barold.json](./220135-barold.json) |
 | BaroMaro | 304689 | [304689-baromaro.json](./304689-baromaro.json) |
+| Baron | 283906 | [283906-baron.json](./283906-baron.json) |
 | Baron Baldric: A Grave Adventure | 14287 | [14287-baron-baldric-a-grave-adventure.json](./14287-baron-baldric-a-grave-adventure.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
 | Barp Online | 379959 | [379959-barp-online.json](./379959-barp-online.json) |
