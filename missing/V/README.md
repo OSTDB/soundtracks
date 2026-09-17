@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermis | 342745 | [342745-vermis.json](./342745-vermis.json) |
 | Verne World | 37772 | [37772-verne-world.json](./37772-verne-world.json) |
 | Veronica | 343792 | [343792-veronica.json](./343792-veronica.json) |
+| Veronikka's To-Do | 277948 | [277948-veronikkas-to-do.json](./277948-veronikkas-to-do.json) |
 | Versailles II | 53873 | [53873-versailles-ii.json](./53873-versailles-ii.json) |
 | Versailles II: Testament of the King | 73252 | [73252-versailles-ii-testament-of-the-king.json](./73252-versailles-ii-testament-of-the-king.json) |
 | Versailles Mysteries 2: The Royal Spy | 11033 | [11033-versailles-mysteries-2-the-royal-spy.json](./11033-versailles-mysteries-2-the-royal-spy.json) |
