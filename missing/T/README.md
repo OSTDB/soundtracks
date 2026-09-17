@@ -1884,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bounty | 86113 | [86113-the-bounty.json](./86113-the-bounty.json) |
 | The Bounty V2 | 75832 | [75832-the-bounty-v2.json](./75832-the-bounty-v2.json) |
 | The Bowling Tournament | 277418 | [277418-the-bowling-tournament.json](./277418-the-bowling-tournament.json) |
+| The Bowyage | 265208 | [265208-the-bowyage.json](./265208-the-bowyage.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
