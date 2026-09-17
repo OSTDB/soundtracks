@@ -5298,8 +5298,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatre Tales | 117666 | [117666-theatre-tales.json](./117666-theatre-tales.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Collector's Edition | 89895 | [89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json](./89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Limited Edition | 89894 | [89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json](./89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json) |
+| Theatrhythm: Final Bar Line - Bravely Default Pack | 268538 | [268538-theatrhythm-final-bar-line-bravely-default-pack.json](./268538-theatrhythm-final-bar-line-bravely-default-pack.json) |
 | Theatrhythm: Final Bar Line - Chrono Pack | 354543 | [354543-theatrhythm-final-bar-line-chrono-pack.json](./354543-theatrhythm-final-bar-line-chrono-pack.json) |
 | Theatrhythm: Final Bar Line - Live A Live Pack | 354519 | [354519-theatrhythm-final-bar-line-live-a-live-pack.json](./354519-theatrhythm-final-bar-line-live-a-live-pack.json) |
+| Theatrhythm: Final Bar Line - Mana Pack Vol. 2 | 268537 | [268537-theatrhythm-final-bar-line-mana-pack-vol-2.json](./268537-theatrhythm-final-bar-line-mana-pack-vol-2.json) |
 | Theatrhythm: Final Bar Line - NieR Pack Vol. 2 | 354544 | [354544-theatrhythm-final-bar-line-nier-pack-vol-2.json](./354544-theatrhythm-final-bar-line-nier-pack-vol-2.json) |
 | Theatrhythm: Final Bar Line - Octopath Traveler Pack | 354512 | [354512-theatrhythm-final-bar-line-octopath-traveler-pack.json](./354512-theatrhythm-final-bar-line-octopath-traveler-pack.json) |
 | Theatrhythm: Final Bar Line - SaGa Pack | 354542 | [354542-theatrhythm-final-bar-line-saga-pack.json](./354542-theatrhythm-final-bar-line-saga-pack.json) |
