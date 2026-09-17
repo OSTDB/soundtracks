@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finalloop | 348779 | [348779-finalloop.json](./348779-finalloop.json) |
 | Financial Football | 91919 | [91919-financial-football.json](./91919-financial-football.json) |
 | Financial Freedom | 397824 | [397824-financial-freedom.json](./397824-financial-freedom.json) |
+| Fincester Tower | 236404 | [236404-fincester-tower.json](./236404-fincester-tower.json) |
 | Finch | 304902 | [304902-finch.json](./304902-finch.json) |
 | Finch & Archie | 306095 | [306095-finch-and-archie.json](./306095-finch-and-archie.json) |
 | FinCrementalOS | 400314 | [400314-fincrementalos.json](./400314-fincrementalos.json) |
@@ -1468,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Gnome | 96682 | [96682-find-the-gnome.json](./96682-find-the-gnome.json) |
 | Find the light | 216473 | [216473-find-the-light.json](./216473-find-the-light.json) |
 | Find the Murderer 2 | 192454 | [192454-find-the-murderer-2.json](./192454-find-the-murderer-2.json) |
+| Find the Murderer 3 | 236364 | [236364-find-the-murderer-3.json](./236364-find-the-murderer-3.json) |
 | Find The Needle | 415859 | [415859-find-the-needle.json](./415859-find-the-needle.json) |
 | Find the Pairs | 328604 | [328604-find-the-pairs.json](./328604-find-the-pairs.json) |
 | Find the Road | 242210 | [242210-find-the-road.json](./242210-find-the-road.json) |
