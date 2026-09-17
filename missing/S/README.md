@@ -7340,6 +7340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories of Somnia | 353378 | [353378-stories-of-somnia.json](./353378-stories-of-somnia.json) |
 | Stories of Submission: Enter the Cuck | 163943 | [163943-stories-of-submission-enter-the-cuck.json](./163943-stories-of-submission-enter-the-cuck.json) |
+| Stories One | 264678 | [264678-stories-one.json](./264678-stories-one.json) |
 | Stories to Tell: Downhill Cemetery | 295534 | [295534-stories-to-tell-downhill-cemetery.json](./295534-stories-to-tell-downhill-cemetery.json) |
 | Stories Untold | 27094 | [27094-stories-untold.json](./27094-stories-untold.json) |
 | Storm | 45275 | [45275-storm.json](./45275-storm.json) |
