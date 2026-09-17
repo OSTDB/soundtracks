@@ -465,12 +465,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
 | 3D Puzzle: Abandoned Prison | 308949 | [308949-3d-puzzle-abandoned-prison.json](./308949-3d-puzzle-abandoned-prison.json) |
+| 3D Puzzle: Breaking Bed | 280314 | [280314-3d-puzzle-breaking-bed.json](./280314-3d-puzzle-breaking-bed.json) |
 | 3D Puzzle: Colonial Graveyard | 337620 | [337620-3d-puzzle-colonial-graveyard.json](./337620-3d-puzzle-colonial-graveyard.json) |
 | 3D Puzzle: Hangar | 308948 | [308948-3d-puzzle-hangar.json](./308948-3d-puzzle-hangar.json) |
 | 3D Puzzle: Hospital 4 | 308950 | [308950-3d-puzzle-hospital-4.json](./308950-3d-puzzle-hospital-4.json) |
 | 3D Puzzle: OldHospital | 308947 | [308947-3d-puzzle-oldhospital.json](./308947-3d-puzzle-oldhospital.json) |
 | 3D Puzzle: OutPost | 308946 | [308946-3d-puzzle-outpost.json](./308946-3d-puzzle-outpost.json) |
 | 3D Puzzle: Pirates | 301037 | [301037-3d-puzzle-pirates.json](./301037-3d-puzzle-pirates.json) |
+| 3D Puzzle: Post-Apocalyptic 3 | 280313 | [280313-3d-puzzle-post-apocalyptic-3.json](./280313-3d-puzzle-post-apocalyptic-3.json) |
 | 3D Puzzle: Rusty | 308945 | [308945-3d-puzzle-rusty.json](./308945-3d-puzzle-rusty.json) |
 | 3D Puzzle: Sun Temple | 308951 | [308951-3d-puzzle-sun-temple.json](./308951-3d-puzzle-sun-temple.json) |
 | 3D Puzzle: Underground | 308944 | [308944-3d-puzzle-underground.json](./308944-3d-puzzle-underground.json) |
