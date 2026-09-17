@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illegal Communication | 199084 | [199084-illegal-communication.json](./199084-illegal-communication.json) |
 | Illegal Crime Game | 251246 | [251246-illegal-crime-game.json](./251246-illegal-crime-game.json) |
 | Illegal Dealership Simulator | 326410 | [326410-illegal-dealership-simulator.json](./326410-illegal-dealership-simulator.json) |
+| Illegal Excavation | 249880 | [249880-illegal-excavation.json](./249880-illegal-excavation.json) |
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
 | Illumina Girls | 222937 | [222937-illumina-girls.json](./222937-illumina-girls.json) |
 | Illuminaria | 180285 | [180285-illuminaria.json](./180285-illuminaria.json) |
@@ -1319,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interlocked | 83578 | [83578-interlocked.json](./83578-interlocked.json) |
 | Interlocked: Puzzle Islands | 406183 | [406183-interlocked-puzzle-islands.json](./406183-interlocked-puzzle-islands.json) |
 | Interloper | 247525 | [247525-interloper.json](./247525-interloper.json) |
+| Interlopers | 249858 | [249858-interlopers.json](./249858-interlopers.json) |
 | Interlude | 139421 | [139421-interlude.json](./139421-interlude.json) |
 | Intermundia: Dungeons, Polygons & Magic | 333001 | [333001-intermundia-dungeons-polygons-and-magic.json](./333001-intermundia-dungeons-polygons-and-magic.json) |
 | Intern: An Intern's Guide to Maintaining Internal Rage | 200697 | [200697-intern-an-interns-guide-to-maintaining-internal-rage.json](./200697-intern-an-interns-guide-to-maintaining-internal-rage.json) |
