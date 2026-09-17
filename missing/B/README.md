@@ -3047,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Bunny: First Blood | 175386 | [175386-bloody-bunny-first-blood.json](./175386-bloody-bunny-first-blood.json) |
 | Bloody Bunny: The Game | 144358 | [144358-bloody-bunny-the-game.json](./144358-bloody-bunny-the-game.json) |
 | Bloody Cleanup | 326785 | [326785-bloody-cleanup.json](./326785-bloody-cleanup.json) |
+| Bloody Doctor | 249866 | [249866-bloody-doctor.json](./249866-bloody-doctor.json) |
 | Bloody Faerie | 89948 | [89948-bloody-faerie.json](./89948-bloody-faerie.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
@@ -4786,6 +4787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 21: Next Stop - Halloween Skin Pack | 263040 | [263040-bus-simulator-21-next-stop-halloween-skin-pack.json](./263040-bus-simulator-21-next-stop-halloween-skin-pack.json) |
 | Bus Simulator 21: Next Stop - IVECO BUS Bus Pack | 250414 | [250414-bus-simulator-21-next-stop-iveco-bus-bus-pack.json](./250414-bus-simulator-21-next-stop-iveco-bus-bus-pack.json) |
 | Bus Simulator 21: Next Stop - MAN Bus Pack | 250415 | [250415-bus-simulator-21-next-stop-man-bus-pack.json](./250415-bus-simulator-21-next-stop-man-bus-pack.json) |
+| Bus Simulator 21: Next Stop - Official Map Extension | 249884 | [249884-bus-simulator-21-next-stop-official-map-extension.json](./249884-bus-simulator-21-next-stop-official-map-extension.json) |
 | Bus Simulator 21: Next Stop - Official School Bus Extension | 264117 | [264117-bus-simulator-21-next-stop-official-school-bus-extension.json](./264117-bus-simulator-21-next-stop-official-school-bus-extension.json) |
 | Bus Simulator 21: Next Stop - VDL Bus Pack | 250418 | [250418-bus-simulator-21-next-stop-vdl-bus-pack.json](./250418-bus-simulator-21-next-stop-vdl-bus-pack.json) |
 | Bus Simulator 21: Protect Nature Interior Pack | 213950 | [213950-bus-simulator-21-protect-nature-interior-pack.json](./213950-bus-simulator-21-protect-nature-interior-pack.json) |
