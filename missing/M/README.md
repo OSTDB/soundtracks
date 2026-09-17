@@ -4841,6 +4841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain 78 | 338212 | [338212-mountain-78.json](./338212-mountain-78.json) |
 | Mountain Biker | 116402 | [116402-mountain-biker.json](./116402-mountain-biker.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
+| Mountain Madness | 236387 | [236387-mountain-madness.json](./236387-mountain-madness.json) |
 | Mountain Madness | 241523 | [241523-mountain-madness.json](./241523-mountain-madness.json) |
 | Mountain Madness: Super Pro Skiing | 5685 | [5685-mountain-madness-super-pro-skiing.json](./5685-mountain-madness-super-pro-skiing.json) |
 | Mountain Maniac | 66104 | [66104-mountain-maniac.json](./66104-mountain-maniac.json) |
@@ -4977,6 +4978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Men & Little Miss: Mr. Messy and the Missing Sock | 243272 | [243272-mr-men-and-little-miss-mr-messy-and-the-missing-sock.json](./243272-mr-men-and-little-miss-mr-messy-and-the-missing-sock.json) |
 | Mr. Mix | 276278 | [276278-mr-mix.json](./276278-mr-mix.json) |
 | Mr. Mosquito | 246473 | [246473-mr-mosquito.json](./246473-mr-mosquito.json) |
+| Mr. Mower | 236380 | [236380-mr-mower.json](./236380-mr-mower.json) |
 | Mr. Mueller's Grand Experiment | 284894 | [284894-mr-muellers-grand-experiment.json](./284894-mr-muellers-grand-experiment.json) |
 | Mr. Nutz: Hoppin' Mad | 39030 | [39030-mr-nutz-hoppin-mad.json](./39030-mr-nutz-hoppin-mad.json) |
 | Mr. Parkour 3 | 141153 | [141153-mr-parkour-3.json](./141153-mr-parkour-3.json) |
@@ -5454,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Girlfriend is... Centaur | 303103 | [303103-my-girlfriend-is-centaur.json](./303103-my-girlfriend-is-centaur.json) |
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
 | My Goddess of Love | 114406 | [114406-my-goddess-of-love.json](./114406-my-goddess-of-love.json) |
+| My Grandparents' Christmas Mystery | 236378 | [236378-my-grandparents-christmas-mystery.json](./236378-my-grandparents-christmas-mystery.json) |
 | My Group Members Suck!! | 417572 | [417572-my-group-members-suck.json](./417572-my-group-members-suck.json) |
 | My Hayami-Chan | 199040 | [199040-my-hayami-chan.json](./199040-my-hayami-chan.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
