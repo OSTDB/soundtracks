@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From Windy Meadow | 55114 | [55114-tales-from-windy-meadow.json](./55114-tales-from-windy-meadow.json) |
 | Tales of (Working Title) | 131550 | [131550-tales-of-working-title.json](./131550-tales-of-working-title.json) |
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
+| Tales of Agaris: Children of Fate | 236929 | [236929-tales-of-agaris-children-of-fate.json](./236929-tales-of-agaris-children-of-fate.json) |
 | Tales of Agaris: The Legendary Rion | 225102 | [225102-tales-of-agaris-the-legendary-rion.json](./225102-tales-of-agaris-the-legendary-rion.json) |
 | Tales of Ancient Nights | 114334 | [114334-tales-of-ancient-nights.json](./114334-tales-of-ancient-nights.json) |
 | Tales of Aravorn: Seasons Of The Wolf - Bad Blood | 171632 | [171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json](./171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json) |
@@ -1494,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
 | That Friday Again | 391720 | [391720-that-friday-again.json](./391720-that-friday-again.json) |
 | That Gun Crafter Cat | 257934 | [257934-that-gun-crafter-cat.json](./257934-that-gun-crafter-cat.json) |
+| That Last Girl | 236957 | [236957-that-last-girl.json](./236957-that-last-girl.json) |
 | That Lava Escape Game | 128015 | [128015-that-lava-escape-game.json](./128015-that-lava-escape-game.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
 | That One Celestial Night | 176495 | [176495-that-one-celestial-night.json](./176495-that-one-celestial-night.json) |
@@ -3352,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
 | The Last Driver | 343791 | [343791-the-last-driver.json](./343791-the-last-driver.json) |
 | The Last Drop | 318194 | [318194-the-last-drop.json](./318194-the-last-drop.json) |
+| The Last Duskreaper | 236927 | [236927-the-last-duskreaper.json](./236927-the-last-duskreaper.json) |
 | The Last Earth Fighter | 371239 | [371239-the-last-earth-fighter.json](./371239-the-last-earth-fighter.json) |
 | The Last Errant | 396934 | [396934-the-last-errant.json](./396934-the-last-errant.json) |
 | The Last Experiment: A Memetric Story | 370118 | [370118-the-last-experiment-a-memetric-story.json](./370118-the-last-experiment-a-memetric-story.json) |
@@ -3677,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Longest Journey Remastered | 27658 | [27658-the-longest-journey-remastered.json](./27658-the-longest-journey-remastered.json) |
 | The Longest Road on Earth: World Tour Bundle | 223446 | [223446-the-longest-road-on-earth-world-tour-bundle.json](./223446-the-longest-road-on-earth-world-tour-bundle.json) |
 | The Longing Ribbon | 151694 | [151694-the-longing-ribbon.json](./151694-the-longing-ribbon.json) |
+| The Lonker | 236919 | [236919-the-lonker.json](./236919-the-lonker.json) |
 | The Loop | 170528 | [170528-the-loop.json](./170528-the-loop.json) |
 | The Loop VR | 97919 | [97919-the-loop-vr.json](./97919-the-loop-vr.json) |
 | The Loopholes Chronicles | 124185 | [124185-the-loopholes-chronicles.json](./124185-the-loopholes-chronicles.json) |
@@ -4469,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Cat Island | 194003 | [194003-the-secret-of-cat-island.json](./194003-the-secret-of-cat-island.json) |
 | The Secret of Crimson Manor | 297503 | [297503-the-secret-of-crimson-manor.json](./297503-the-secret-of-crimson-manor.json) |
 | The Secret of Crystal Mountain | 293243 | [293243-the-secret-of-crystal-mountain.json](./293243-the-secret-of-crystal-mountain.json) |
+| The Secret of Darkwoods | 236942 | [236942-the-secret-of-darkwoods.json](./236942-the-secret-of-darkwoods.json) |
 | The Secret of Dyes | 152867 | [152867-the-secret-of-dyes.json](./152867-the-secret-of-dyes.json) |
 | The Secret of Grisly Manor | 61104 | [61104-the-secret-of-grisly-manor.json](./61104-the-secret-of-grisly-manor.json) |
 | The Secret of Maike Island | 318396 | [318396-the-secret-of-maike-island.json](./318396-the-secret-of-maike-island.json) |
@@ -7972,6 +7977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: PREG B16mnopux 039 | 205553 | [205553-trainz-plus-preg-b16mnopux-039.json](./205553-trainz-plus-preg-b16mnopux-039.json) |
 | Trainz Plus: PREG B16mnopux 087 | 205564 | [205564-trainz-plus-preg-b16mnopux-087.json](./205564-trainz-plus-preg-b16mnopux-087.json) |
 | Trainz Plus: Pro Train - Class 68 TPN | 205546 | [205546-trainz-plus-pro-train-class-68-tpn.json](./205546-trainz-plus-pro-train-class-68-tpn.json) |
+| Trainz Plus: Pro Train - Hamburg Flyer SVT 877 | 236958 | [236958-trainz-plus-pro-train-hamburg-flyer-svt-877.json](./236958-trainz-plus-pro-train-hamburg-flyer-svt-877.json) |
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 1 | 289477 | [289477-trainz-plus-pro-train-sd40-2-loco-bundle-1.json](./289477-trainz-plus-pro-train-sd40-2-loco-bundle-1.json) |
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 2 | 292662 | [292662-trainz-plus-pro-train-sd40-2-loco-bundle-2.json](./292662-trainz-plus-pro-train-sd40-2-loco-bundle-2.json) |
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 4 | 306105 | [306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json](./306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json) |
@@ -9078,6 +9084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tycoon Legends | 245855 | [245855-tycoon-legends.json](./245855-tycoon-legends.json) |
 | Tyd wag vir Niemand | 52012 | [52012-tyd-wag-vir-niemand.json](./52012-tyd-wag-vir-niemand.json) |
 | Tyga | 303079 | [303079-tyga.json](./303079-tyga.json) |
+| Tyler Tactics | 236953 | [236953-tyler-tactics.json](./236953-tyler-tactics.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
 | Type da Puyo Puyo | 63839 | [63839-type-da-puyo-puyo.json](./63839-type-da-puyo-puyo.json) |
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
