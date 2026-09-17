@@ -3277,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Wheels | 83591 | [83591-mini-wheels.json](./83591-mini-wheels.json) |
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
 | Mini Z Racers Turbo | 31902 | [31902-mini-z-racers-turbo.json](./31902-mini-z-racers-turbo.json) |
+| Mini-Level Megawad | 269654 | [269654-mini-level-megawad.json](./269654-mini-level-megawad.json) |
 | Mini-Market Simulator VR | 309377 | [309377-mini-market-simulator-vr.json](./309377-mini-market-simulator-vr.json) |
 | Mini-Metroid | 291622 | [291622-mini-metroid.json](./291622-mini-metroid.json) |
 | Mini-Moni. Shakatto Tambourine! Dapyon! | 69262 | [69262-mini-moni-shakatto-tambourine-dapyon.json](./69262-mini-moni-shakatto-tambourine-dapyon.json) |
