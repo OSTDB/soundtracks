@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Another World | 386889 | [386889-the-another-world.json](./386889-the-another-world.json) |
 | The Answer is 42 | 127234 | [127234-the-answer-is-42.json](./127234-the-answer-is-42.json) |
 | The Ant Bully | 206163 | [206163-the-ant-bully.json](./206163-the-ant-bully.json) |
+| The Antaresian Spacepond | 267994 | [267994-the-antaresian-spacepond.json](./267994-the-antaresian-spacepond.json) |
 | The Anti-Gravity Machine | 359420 | [359420-the-anti-gravity-machine.json](./359420-the-anti-gravity-machine.json) |
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
 | The Apartment 57 | 327867 | [327867-the-apartment-57.json](./327867-the-apartment-57.json) |
@@ -3054,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Interactive Adventures of Dog Mendonça and Pizzaboy | 17976 | [17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json](./17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json) |
 | The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
 | The Interview | 35786 | [35786-the-interview.json](./35786-the-interview.json) |
+| The Invasion 2 | 268038 | [268038-the-invasion-2.json](./268038-the-invasion-2.json) |
 | The Invasion of Area 51 | 130871 | [130871-the-invasion-of-area-51.json](./130871-the-invasion-of-area-51.json) |
 | The Investigation Files of Assistant Arimura | 133387 | [133387-the-investigation-files-of-assistant-arimura.json](./133387-the-investigation-files-of-assistant-arimura.json) |
 | The Invincible | 138906 | [138906-the-invincible.json](./138906-the-invincible.json) |
@@ -3386,6 +3388,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Ao no Kiseki Evolution | 202822 | [202822-the-legend-of-heroes-ao-no-kiseki-evolution.json](./202822-the-legend-of-heroes-ao-no-kiseki-evolution.json) |
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Limited Edition | 205272 | [205272-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-limited-edition.json](./205272-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-limited-edition.json) |
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Scenario Book Limited Edition | 205256 | [205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json](./205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json) |
+| The Legend of Heroes: Sora no Kiseki FC Evolution - Chara-Ani Limited Box | 268029 | [268029-the-legend-of-heroes-sora-no-kiseki-fc-evolution-chara-ani-limited-box.json](./268029-the-legend-of-heroes-sora-no-kiseki-fc-evolution-chara-ani-limited-box.json) |
+| The Legend of Heroes: Sora no Kiseki FC Evolution - Limited Edition | 268030 | [268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json](./268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json) |
 | The Legend of Heroes: Trails into Reverie | 136673 | [136673-the-legend-of-heroes-trails-into-reverie.json](./136673-the-legend-of-heroes-trails-into-reverie.json) |
 | The Legend of Heroes: Trails into Reverie - Complete Cosmetics | 256256 | [256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json](./256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json) |
 | The Legend of Heroes: Trails of Cold Steel - Lionheart Edition | 89911 | [89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json](./89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json) |
@@ -5397,6 +5401,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Die Tomorrow | 188567 | [188567-they-die-tomorrow.json](./188567-they-die-tomorrow.json) |
 | They Dug Too Deep | 258974 | [258974-they-dug-too-deep.json](./258974-they-dug-too-deep.json) |
 | They Fear The Mist | 292536 | [292536-they-fear-the-mist.json](./292536-they-fear-the-mist.json) |
+| They Hunger 2: Rest in Pieces | 268005 | [268005-they-hunger-2-rest-in-pieces.json](./268005-they-hunger-2-rest-in-pieces.json) |
+| They Hunger 3: Rude Awakening | 268006 | [268006-they-hunger-3-rude-awakening.json](./268006-they-hunger-3-rude-awakening.json) |
+| They Hunger: Episode 1 | 268004 | [268004-they-hunger-episode-1.json](./268004-they-hunger-episode-1.json) |
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
 | They Walk Beyond | 386303 | [386303-they-walk-beyond.json](./386303-they-walk-beyond.json) |
@@ -8291,6 +8298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
 | Trollin el Corredor | 288350 | [288350-trollin-el-corredor.json](./288350-trollin-el-corredor.json) |
 | Trolling Bowling | 331320 | [331320-trolling-bowling.json](./331320-trolling-bowling.json) |
+| TrollLab | 268015 | [268015-trolllab.json](./268015-trolllab.json) |
 | Trolls and Tribulations: Omega | 178554 | [178554-trolls-and-tribulations-omega.json](./178554-trolls-and-tribulations-omega.json) |
 | Trolls de Troy: La Cité de la mort rose | 388737 | [388737-trolls-de-troy-la-cite-de-la-mort-rose.json](./388737-trolls-de-troy-la-cite-de-la-mort-rose.json) |
 | Trolls Remix Rescue | 261537 | [261537-trolls-remix-rescue.json](./261537-trolls-remix-rescue.json) |
