@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daughter of Shadows: An SCP Breach Event - Friend and Foe Expansion | 167317 | [167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json](./167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json) |
 | Dave | 111682 | [111682-dave.json](./111682-dave.json) |
 | Dave Mirra Freestyle BMX: Maximum Remix | 84166 | [84166-dave-mirra-freestyle-bmx-maximum-remix.json](./84166-dave-mirra-freestyle-bmx-maximum-remix.json) |
+| Dave the Bird | 244367 | [244367-dave-the-bird.json](./244367-dave-the-bird.json) |
 | Dave the Diver | 203722 | [203722-dave-the-diver.json](./203722-dave-the-diver.json) |
 | Dave the Diver: Balatro | 314280 | [314280-dave-the-diver-balatro.json](./314280-dave-the-diver-balatro.json) |
 | Dave the Diver: In the Jungle | 325582 | [325582-dave-the-diver-in-the-jungle.json](./325582-dave-the-diver-in-the-jungle.json) |
@@ -783,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
 | DC Comics Super Heroes: The Watchtower | 220122 | [220122-dc-comics-super-heroes-the-watchtower.json](./220122-dc-comics-super-heroes-the-watchtower.json) |
 | DC's Justice League: Cosmic Chaos | 228740 | [228740-dcs-justice-league-cosmic-chaos.json](./228740-dcs-justice-league-cosmic-chaos.json) |
+| DC3: Viral Menace | 244360 | [244360-dc3-viral-menace.json](./244360-dc3-viral-menace.json) |
 | DCF Universe Triple Trouble Bundle | 338026 | [338026-dcf-universe-triple-trouble-bundle.json](./338026-dcf-universe-triple-trouble-bundle.json) |
 | DCKO | 410955 | [410955-dcko.json](./410955-dcko.json) |
 | DCop | 270117 | [270117-dcop.json](./270117-dcop.json) |
@@ -860,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cells: Return to Castlevania - Signature Edition | 387498 | [387498-dead-cells-return-to-castlevania-signature-edition.json](./387498-dead-cells-return-to-castlevania-signature-edition.json) |
 | Dead Cells: The Queen and the Sea | 183128 | [183128-dead-cells-the-queen-and-the-sea.json](./183128-dead-cells-the-queen-and-the-sea.json) |
 | Dead Circuit | 382327 | [382327-dead-circuit.json](./382327-dead-circuit.json) |
+| Dead City | 244380 | [244380-dead-city.json](./244380-dead-city.json) |
 | Dead City | 317824 | [317824-dead-city.json](./317824-dead-city.json) |
 | Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
 | Dead Dawn | 193958 | [193958-dead-dawn.json](./193958-dead-dawn.json) |
@@ -1214,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathlike: Awakening | 30089 | [30089-deathlike-awakening.json](./30089-deathlike-awakening.json) |
 | Deathloop + Ghostwire: Tokyo Bundle | 281406 | [281406-deathloop-ghostwire-tokyo-bundle.json](./281406-deathloop-ghostwire-tokyo-bundle.json) |
 | Deathloop: Deluxe Pack | 252217 | [252217-deathloop-deluxe-pack.json](./252217-deathloop-deluxe-pack.json) |
+| Deathly Dangerous | 244338 | [244338-deathly-dangerous.json](./244338-deathly-dangerous.json) |
 | Deathly Storm: The Edge of Life | 88184 | [88184-deathly-storm-the-edge-of-life.json](./88184-deathly-storm-the-edge-of-life.json) |
 | DeathMatch | 117685 | [117685-deathmatch.json](./117685-deathmatch.json) |
 | Deathmatch Classic | 9073 | [9073-deathmatch-classic.json](./9073-deathmatch-classic.json) |
@@ -3643,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Dino -Doctor & Dentist games for boys girls | 232181 | [232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json](./232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json) |
 | Dr. Dolittle | 43255 | [43255-dr-dolittle.json](./43255-dr-dolittle.json) |
 | Dr. Dude | 92441 | [92441-dr-dude.json](./92441-dr-dude.json) |
+| Dr. Emmerson's Nocturnes | 244355 | [244355-dr-emmersons-nocturnes.json](./244355-dr-emmersons-nocturnes.json) |
 | Dr. Finklestein's Marvelous Room | 275560 | [275560-dr-finklesteins-marvelous-room.json](./275560-dr-finklesteins-marvelous-room.json) |
 | Dr. Franken | 369599 | [369599-dr-franken.json](./369599-dr-franken.json) |
 | Dr. Jekyll and Mr. Hyde | 7961 | [7961-dr-jekyll-and-mr-hyde.json](./7961-dr-jekyll-and-mr-hyde.json) |
