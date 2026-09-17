@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batter Up! | 329039 | [329039-batter-up.json](./329039-batter-up.json) |
 | Batteries Included | 117079 | [117079-batteries-included.json](./117079-batteries-included.json) |
 | Batterneers | 158215 | [158215-batterneers.json](./158215-batterneers.json) |
+| Battery Hunter | 259623 | [259623-battery-hunter.json](./259623-battery-hunter.json) |
 | Battery-out | 193403 | [193403-battery-out.json](./193403-battery-out.json) |
 | Batteryman Recharges the World! | 184638 | [184638-batteryman-recharges-the-world.json](./184638-batteryman-recharges-the-world.json) |
 | BatteryNote | 304688 | [304688-batterynote.json](./304688-batterynote.json) |
@@ -1614,6 +1615,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer! | 57091 | [57091-beer.json](./57091-beer.json) |
 | Beerman | 31904 | [31904-beerman.json](./31904-beerman.json) |
 | Beet: Drum Machine Game | 232149 | [232149-beet-drum-machine-game.json](./232149-beet-drum-machine-game.json) |
+| Beethoven: The Ultimate Canine Caper! | 259654 | [259654-beethoven-the-ultimate-canine-caper.json](./259654-beethoven-the-ultimate-canine-caper.json) |
+| Beethoven's 2nd: The Quest for Pups | 259653 | [259653-beethovens-2nd-the-quest-for-pups.json](./259653-beethovens-2nd-the-quest-for-pups.json) |
 | Beetle Bomp | 52632 | [52632-beetle-bomp.json](./52632-beetle-bomp.json) |
 | Beetle Ju | 117668 | [117668-beetle-ju.json](./117668-beetle-ju.json) |
 | Beetle Ju 3 | 117669 | [117669-beetle-ju-3.json](./117669-beetle-ju-3.json) |
@@ -3662,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Church | 102727 | [102727-bouncing-church.json](./102727-bouncing-church.json) |
 | Bouncing Duck Simulator | 55728 | [55728-bouncing-duck-simulator.json](./55728-bouncing-duck-simulator.json) |
 | Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
+| Bouncing Rainbow | 259629 | [259629-bouncing-rainbow.json](./259629-bouncing-rainbow.json) |
 | Bouncy Butt Castle | 379345 | [379345-bouncy-butt-castle.json](./379345-bouncy-butt-castle.json) |
 | Bouncy Cat | 158169 | [158169-bouncy-cat.json](./158169-bouncy-cat.json) |
 | Bouncy Chicken | 306529 | [306529-bouncy-chicken.json](./306529-bouncy-chicken.json) |
@@ -4096,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Crossy Road | 241613 | [241613-brick-crossy-road.json](./241613-brick-crossy-road.json) |
 | Brick Force: Black Knight | 155573 | [155573-brick-force-black-knight.json](./155573-brick-force-black-knight.json) |
 | Brick Force: Navy Soldier | 155572 | [155572-brick-force-navy-soldier.json](./155572-brick-force-navy-soldier.json) |
+| Brick Hero Clash | 259627 | [259627-brick-hero-clash.json](./259627-brick-hero-clash.json) |
 | Brick Kick | 40757 | [40757-brick-kick.json](./40757-brick-kick.json) |
 | Brick Mini Golf | 297249 | [297249-brick-mini-golf.json](./297249-brick-mini-golf.json) |
 | Brick Odyssey | 229332 | [229332-brick-odyssey.json](./229332-brick-odyssey.json) |
