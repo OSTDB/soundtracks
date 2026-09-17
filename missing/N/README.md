@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nijuuei | 204499 | [204499-nijuuei.json](./204499-nijuuei.json) |
 | Nik and Kit: Nik's Adventure | 212793 | [212793-nik-and-kit-niks-adventure.json](./212793-nik-and-kit-niks-adventure.json) |
 | Nik Jam Violator | 330715 | [330715-nik-jam-violator.json](./330715-nik-jam-violator.json) |
+| Nik Super Gunventure | 282690 | [282690-nik-super-gunventure.json](./282690-nik-super-gunventure.json) |
 | Nike+ Kinect Training | 21010 | [21010-nike-kinect-training.json](./21010-nike-kinect-training.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nikkan Berutomo Club | 64904 | [64904-nikkan-berutomo-club.json](./64904-nikkan-berutomo-club.json) |
