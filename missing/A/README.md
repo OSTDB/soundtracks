@@ -3283,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
 | Artificial Academy | 22471 | [22471-artificial-academy.json](./22471-artificial-academy.json) |
 | Artificial Extinction 2 | 216470 | [216470-artificial-extinction-2.json](./216470-artificial-extinction-2.json) |
+| Artificial Fright | 253451 | [253451-artificial-fright.json](./253451-artificial-fright.json) |
 | Artificial Girl 3 Plus | 22465 | [22465-artificial-girl-3-plus.json](./22465-artificial-girl-3-plus.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
 | Artika.1 | 74317 | [74317-artika-1.json](./74317-artika-1.json) |
