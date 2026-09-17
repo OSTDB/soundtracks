@@ -255,10 +255,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Ball Fall | 141852 | [141852-fall-ball-fall.json](./141852-fall-ball-fall.json) |
 | Fall Down | 40791 | [40791-fall-down.json](./40791-fall-down.json) |
 | Fall Down | 95432 | [95432-fall-down.json](./95432-fall-down.json) |
+| Fall Guys: Avian Angler Pack | 243797 | [243797-fall-guys-avian-angler-pack.json](./243797-fall-guys-avian-angler-pack.json) |
 | Fall Guys: Crow Pack | 243681 | [243681-fall-guys-crow-pack.json](./243681-fall-guys-crow-pack.json) |
+| Fall Guys: Doc Glover Pack | 243772 | [243772-fall-guys-doc-glover-pack.json](./243772-fall-guys-doc-glover-pack.json) |
 | Fall Guys: Free Range Fall Guys Pack | 243667 | [243667-fall-guys-free-range-fall-guys-pack.json](./243667-fall-guys-free-range-fall-guys-pack.json) |
 | Fall Guys: Neigh Neigh Pack | 243685 | [243685-fall-guys-neigh-neigh-pack.json](./243685-fall-guys-neigh-neigh-pack.json) |
 | Fall Guys: Otter Delights Pack | 243682 | [243682-fall-guys-otter-delights-pack.json](./243682-fall-guys-otter-delights-pack.json) |
+| Fall Guys: Pegwin Party Pack | 243771 | [243771-fall-guys-pegwin-party-pack.json](./243771-fall-guys-pegwin-party-pack.json) |
+| Fall Guys: Plush Fox Pack | 243775 | [243775-fall-guys-plush-fox-pack.json](./243775-fall-guys-plush-fox-pack.json) |
 | Fall Guys: Season 4 - Creative Construction | 243406 | [243406-fall-guys-season-4-creative-construction.json](./243406-fall-guys-season-4-creative-construction.json) |
 | Fall Guys: Stunning Sealife Pack | 243664 | [243664-fall-guys-stunning-sealife-pack.json](./243664-fall-guys-stunning-sealife-pack.json) |
 | Fall Guys: Wildfire Pack | 243683 | [243683-fall-guys-wildfire-pack.json](./243683-fall-guys-wildfire-pack.json) |
@@ -1583,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firearms Master | 335326 | [335326-firearms-master.json](./335326-firearms-master.json) |
 | Fireball Classic | 91446 | [91446-fireball-classic.json](./91446-fireball-classic.json) |
 | Fireball SE | 22313 | [22313-fireball-se.json](./22313-fireball-se.json) |
+| Fireball Spam | 243788 | [243788-fireball-spam.json](./243788-fireball-spam.json) |
 | Firebase Defence | 110519 | [110519-firebase-defence.json](./110519-firebase-defence.json) |
 | Firebird: Tale of the Stolen Light | 381017 | [381017-firebird-tale-of-the-stolen-light.json](./381017-firebird-tale-of-the-stolen-light.json) |
 | Fireblaster | 69256 | [69256-fireblaster.json](./69256-fireblaster.json) |
@@ -2462,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Guess: Pixel Art Trivia | 405477 | [405477-food-guess-pixel-art-trivia.json](./405477-food-guess-pixel-art-trivia.json) |
 | Food Truck Monopoly | 348875 | [348875-food-truck-monopoly.json](./348875-food-truck-monopoly.json) |
 | Food Truck Shop Simulator | 350537 | [350537-food-truck-shop-simulator.json](./350537-food-truck-shop-simulator.json) |
+| Food Truck Tycoon + Flowlines VS | 243793 | [243793-food-truck-tycoon-flowlines-vs.json](./243793-food-truck-tycoon-flowlines-vs.json) |
 | Food Truck Tycoon: Asian Cuisine | 147922 | [147922-food-truck-tycoon-asian-cuisine.json](./147922-food-truck-tycoon-asian-cuisine.json) |
 | Food Truck Tycoon: Co-op Edition | 247590 | [247590-food-truck-tycoon-co-op-edition.json](./247590-food-truck-tycoon-co-op-edition.json) |
 | Food Truck Tycoon: GOTY Edition | 268556 | [268556-food-truck-tycoon-goty-edition.json](./268556-food-truck-tycoon-goty-edition.json) |
