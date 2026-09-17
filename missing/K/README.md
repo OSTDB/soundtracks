@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Braveland: Fun And Memes | 284505 | [284505-knights-of-braveland-fun-and-memes.json](./284505-knights-of-braveland-fun-and-memes.json) |
 | Knights of Braveland: Hero Pack | 284506 | [284506-knights-of-braveland-hero-pack.json](./284506-knights-of-braveland-hero-pack.json) |
 | Knights of Legend | 47224 | [47224-knights-of-legend.json](./47224-knights-of-legend.json) |
+| Knights of Pen & Paper 3 | 240898 | [240898-knights-of-pen-and-paper-3.json](./240898-knights-of-pen-and-paper-3.json) |
 | Knights of Pen and Paper II | 10126 | [10126-knights-of-pen-and-paper-ii.json](./10126-knights-of-pen-and-paper-ii.json) |
 | Knights of Pen and Paper II: Here Be Dragons | 53260 | [53260-knights-of-pen-and-paper-ii-here-be-dragons.json](./53260-knights-of-pen-and-paper-ii-here-be-dragons.json) |
 | Knights of Puzzelot | 344431 | [344431-knights-of-puzzelot.json](./344431-knights-of-puzzelot.json) |
