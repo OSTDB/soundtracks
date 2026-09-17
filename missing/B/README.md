@@ -3151,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobobird | 365141 | [365141-bobobird.json](./365141-bobobird.json) |
 | Bobobo-bo Bo-bobo: Dassutsu! Hajike Royale | 50588 | [50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json](./50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json) |
 | BoboInvasion | 287777 | [287777-boboinvasion.json](./287777-boboinvasion.json) |
+| Bobos FunZone | 278557 | [278557-bobos-funzone.json](./278557-bobos-funzone.json) |
 | Bobr Kurwa | 297241 | [297241-bobr-kurwa.json](./297241-bobr-kurwa.json) |
 | Bobrkur | 368551 | [368551-bobrkur.json](./368551-bobrkur.json) |
 | BobSP Series | 272000 | [272000-bobsp-series.json](./272000-bobsp-series.json) |
@@ -3773,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Test | 166733 | [166733-brain-test.json](./166733-brain-test.json) |
 | Brain Test 2: Tricky Stories | 297626 | [297626-brain-test-2-tricky-stories.json](./297626-brain-test-2-tricky-stories.json) |
 | Brain Tester: Mind Trick Quiz 2 | 301839 | [301839-brain-tester-mind-trick-quiz-2.json](./301839-brain-tester-mind-trick-quiz-2.json) |
+| Brain Urge | 278556 | [278556-brain-urge.json](./278556-brain-urge.json) |
 | Brain Vomits Garden | 203897 | [203897-brain-vomits-garden.json](./203897-brain-vomits-garden.json) |
 | Brain Wars | 83580 | [83580-brain-wars.json](./83580-brain-wars.json) |
 | BrainBread | 138773 | [138773-brainbread.json](./138773-brainbread.json) |
@@ -4458,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
 | Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
 | Bullship! | 375297 | [375297-bullship.json](./375297-bullship.json) |
+| Bullwagon Business | 278554 | [278554-bullwagon-business.json](./278554-bullwagon-business.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | Bully: Scholarship Edition | 6574 | [6574-bully-scholarship-edition.json](./6574-bully-scholarship-edition.json) |
 | BullyBall | 161894 | [161894-bullyball.json](./161894-bullyball.json) |
