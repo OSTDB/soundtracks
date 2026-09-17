@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tome in the Attic | 363975 | [363975-a-tome-in-the-attic.json](./363975-a-tome-in-the-attic.json) |
 | A Total War Saga: Troy - Limited Edition | 139940 | [139940-a-total-war-saga-troy-limited-edition.json](./139940-a-total-war-saga-troy-limited-edition.json) |
 | A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
+| A Trans Man's Grindr DMs | 282106 | [282106-a-trans-mans-grindr-dms.json](./282106-a-trans-mans-grindr-dms.json) |
 | A Transitional Eve | 397044 | [397044-a-transitional-eve.json](./397044-a-transitional-eve.json) |
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
 | A Turnabout to El Dorado | 295241 | [295241-a-turnabout-to-el-dorado.json](./295241-a-turnabout-to-el-dorado.json) |
@@ -571,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
 | Aelfric the Wondrous | 299301 | [299301-aelfric-the-wondrous.json](./299301-aelfric-the-wondrous.json) |
 | Aenigmarch | 360655 | [360655-aenigmarch.json](./360655-aenigmarch.json) |
+| Aeon Nightmares | 282133 | [282133-aeon-nightmares.json](./282133-aeon-nightmares.json) |
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
@@ -1126,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Invasion 3D Part 2 | 126561 | [126561-alien-invasion-3d-part-2.json](./126561-alien-invasion-3d-part-2.json) |
 | Alien Invasion Tower Defense | 30829 | [30829-alien-invasion-tower-defense.json](./30829-alien-invasion-tower-defense.json) |
+| Alien Lander | 282113 | [282113-alien-lander.json](./282113-alien-lander.json) |
 | Alien Legion | 14243 | [14243-alien-legion.json](./14243-alien-legion.json) |
 | Alien Nah'Topsy | 289888 | [289888-alien-nahtopsy.json](./289888-alien-nahtopsy.json) |
 | Alien Nations | 11259 | [11259-alien-nations.json](./11259-alien-nations.json) |
@@ -2632,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Mazinger Z | 249490 | [249490-arcade-archives-mazinger-z.json](./249490-arcade-archives-mazinger-z.json) |
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
 | Arcade Archives: Metamorphic Force | 320940 | [320940-arcade-archives-metamorphic-force.json](./320940-arcade-archives-metamorphic-force.json) |
+| Arcade Archives: Mystic Warriors | 282155 | [282155-arcade-archives-mystic-warriors.json](./282155-arcade-archives-mystic-warriors.json) |
 | Arcade Archives: Ninja Spirit | 120330 | [120330-arcade-archives-ninja-spirit.json](./120330-arcade-archives-ninja-spirit.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
@@ -2646,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
 | Arcade Archives: Sky Kid DX | 240220 | [240220-arcade-archives-sky-kid-dx.json](./240220-arcade-archives-sky-kid-dx.json) |
 | Arcade Archives: Soldier Girl Amazon | 99540 | [99540-arcade-archives-soldier-girl-amazon.json](./99540-arcade-archives-soldier-girl-amazon.json) |
+| Arcade Archives: Solitary Fighter | 282154 | [282154-arcade-archives-solitary-fighter.json](./282154-arcade-archives-solitary-fighter.json) |
 | Arcade Archives: Solomon's Key | 99564 | [99564-arcade-archives-solomons-key.json](./99564-arcade-archives-solomons-key.json) |
 | Arcade Archives: Super Pac-Man | 187461 | [187461-arcade-archives-super-pac-man.json](./187461-arcade-archives-super-pac-man.json) |
 | Arcade Archives: Syvalion | 410362 | [410362-arcade-archives-syvalion.json](./410362-arcade-archives-syvalion.json) |
