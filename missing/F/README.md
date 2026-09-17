@@ -1536,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebug | 13714 | [13714-firebug.json](./13714-firebug.json) |
 | Firebug | 24888 | [24888-firebug.json](./24888-firebug.json) |
 | Firebugs | 43859 | [43859-firebugs.json](./43859-firebugs.json) |
+| FireChess | 275108 | [275108-firechess.json](./275108-firechess.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
 | Firefighters Code Red | 410889 | [410889-firefighters-code-red.json](./410889-firefighters-code-red.json) |
@@ -2708,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 2 Remix | 321386 | [321386-fortnite-chapter-2-remix.json](./321386-fortnite-chapter-2-remix.json) |
 | Fortnite: Chapter 3 - Season 2: Resistance | 194664 | [194664-fortnite-chapter-3-season-2-resistance.json](./194664-fortnite-chapter-3-season-2-resistance.json) |
 | Fortnite: Chapter 4 - Season 2: Mega | 241495 | [241495-fortnite-chapter-4-season-2-mega.json](./241495-fortnite-chapter-4-season-2-mega.json) |
+| Fortnite: Chapter 4 - Season OG | 275141 | [275141-fortnite-chapter-4-season-og.json](./275141-fortnite-chapter-4-season-og.json) |
 | Fortnite: Chapter 5 - Season 4: Absolute Doom | 313311 | [313311-fortnite-chapter-5-season-4-absolute-doom.json](./313311-fortnite-chapter-5-season-4-absolute-doom.json) |
 | Fortnite: Chapter 5 - Underground | 278837 | [278837-fortnite-chapter-5-underground.json](./278837-fortnite-chapter-5-underground.json) |
 | Fortnite: Chapter 6 - Season 1: Demon Hunters | 323914 | [323914-fortnite-chapter-6-season-1-demon-hunters.json](./323914-fortnite-chapter-6-season-1-demon-hunters.json) |
