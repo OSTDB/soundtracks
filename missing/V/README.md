@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagrus: The Riven Realms - Praetor Edition | 338031 | [338031-vagrus-the-riven-realms-praetor-edition.json](./338031-vagrus-the-riven-realms-praetor-edition.json) |
 | Vagrus: The Riven Realms - Sunfire and Moonshadow | 249803 | [249803-vagrus-the-riven-realms-sunfire-and-moonshadow.json](./249803-vagrus-the-riven-realms-sunfire-and-moonshadow.json) |
 | Vagrus: The Riven Realms Season Pass | 276283 | [276283-vagrus-the-riven-realms-season-pass.json](./276283-vagrus-the-riven-realms-season-pass.json) |
+| Vai Juliette! | 248758 | [248758-vai-juliette.json](./248758-vai-juliette.json) |
 | Vain Dream | 238483 | [238483-vain-dream.json](./238483-vain-dream.json) |
 | Vain Dream II | 238484 | [238484-vain-dream-ii.json](./238484-vain-dream-ii.json) |
 | Vain Uprising | 331322 | [331322-vain-uprising.json](./331322-vain-uprising.json) |
