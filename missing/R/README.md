@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race For Nuts | 359481 | [359481-race-for-nuts.json](./359481-race-for-nuts.json) |
 | Race for the Galaxy: Rebel vs. Imperium | 167759 | [167759-race-for-the-galaxy-rebel-vs-imperium.json](./167759-race-for-the-galaxy-rebel-vs-imperium.json) |
 | Race Illegal | 240211 | [240211-race-illegal.json](./240211-race-illegal.json) |
+| Race in Desert | 234747 | [234747-race-in-desert.json](./234747-race-in-desert.json) |
 | Race Manager | 264630 | [264630-race-manager.json](./264630-race-manager.json) |
 | Race Max Pro | 392152 | [392152-race-max-pro.json](./392152-race-max-pro.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
@@ -708,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re≒Connect Exit Loop | 288224 | [288224-re-connect-exit-loop.json](./288224-re-connect-exit-loop.json) |
 | RE0: VTuber Life | 370680 | [370680-re0-vtuber-life.json](./370680-re0-vtuber-life.json) |
 | Reach Charon | 269561 | [269561-reach-charon.json](./269561-reach-charon.json) |
+| Reach the Moon! | 234741 | [234741-reach-the-moon.json](./234741-reach-the-moon.json) |
 | Reach To Neighbor House | 241946 | [241946-reach-to-neighbor-house.json](./241946-reach-to-neighbor-house.json) |
 | Reach to Tsukuyomi | 278984 | [278984-reach-to-tsukuyomi.json](./278984-reach-to-tsukuyomi.json) |
 | Reach Your Destiny | 297797 | [297797-reach-your-destiny.json](./297797-reach-your-destiny.json) |
@@ -3106,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rovonaut Comrade | 128656 | [128656-rovonaut-comrade.json](./128656-rovonaut-comrade.json) |
 | RoVR | 55127 | [55127-rovr.json](./55127-rovr.json) |
 | Row Away | 365743 | [365743-row-away.json](./365743-row-away.json) |
+| Row of Numbers | 234731 | [234731-row-of-numbers.json](./234731-row-of-numbers.json) |
 | Rowan's Battle of Britain | 73818 | [73818-rowans-battle-of-britain.json](./73818-rowans-battle-of-britain.json) |
 | RowBot Rally | 256258 | [256258-rowbot-rally.json](./256258-rowbot-rally.json) |
 | Rox II | 315507 | [315507-rox-ii.json](./315507-rox-ii.json) |
