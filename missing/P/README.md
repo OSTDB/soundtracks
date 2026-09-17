@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pain | 7387 | [7387-pain.json](./7387-pain.json) |
 | Pain 'n Dave: The Maze of Malice | 360678 | [360678-pain-n-dave-the-maze-of-malice.json](./360678-pain-n-dave-the-maze-of-malice.json) |
 | Pain is the Best Medicine | 292007 | [292007-pain-is-the-best-medicine.json](./292007-pain-is-the-best-medicine.json) |
+| Pain Loop | 255767 | [255767-pain-loop.json](./255767-pain-loop.json) |
 | Pain Train | 29911 | [29911-pain-train.json](./29911-pain-train.json) |
 | Painajainen | 84220 | [84220-painajainen.json](./84220-painajainen.json) |
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
@@ -2551,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play and Learn with Josephine | 205021 | [205021-play-and-learn-with-josephine.json](./205021-play-and-learn-with-josephine.json) |
 | Play Ball | 95401 | [95401-play-ball.json](./95401-play-ball.json) |
 | Play Boy | 93514 | [93514-play-boy.json](./93514-play-boy.json) |
+| Play Chess with Lady Bongcloud | 255696 | [255696-play-chess-with-lady-bongcloud.json](./255696-play-chess-with-lady-bongcloud.json) |
 | Play Club | 22478 | [22478-play-club.json](./22478-play-club.json) |
 | Play Dead! #2 | 183073 | [183073-play-dead-2.json](./183073-play-dead-2.json) |
 | Play Dice | 277867 | [277867-play-dice.json](./277867-play-dice.json) |
@@ -3954,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Farmer 2016 | 84808 | [84808-professional-farmer-2016.json](./84808-professional-farmer-2016.json) |
 | Professional Farmer 2017: Cattle & Cultivation | 172103 | [172103-professional-farmer-2017-cattle-and-cultivation.json](./172103-professional-farmer-2017-cattle-and-cultivation.json) |
 | Professional Fishing | 141801 | [141801-professional-fishing.json](./141801-professional-fishing.json) |
+| Professional Fishing 2 | 255695 | [255695-professional-fishing-2.json](./255695-professional-fishing-2.json) |
 | Professional Lumberjack 2016 | 84807 | [84807-professional-lumberjack-2016.json](./84807-professional-lumberjack-2016.json) |
 | Professional Mahjong Gokuu | 41394 | [41394-professional-mahjong-gokuu.json](./41394-professional-mahjong-gokuu.json) |
 | Professional Mahjong Kiwame | 97871 | [97871-professional-mahjong-kiwame.json](./97871-professional-mahjong-kiwame.json) |
