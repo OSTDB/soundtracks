@@ -2260,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyin' High Data Disk 1 | 93009 | [93009-flyin-high-data-disk-1.json](./93009-flyin-high-data-disk-1.json) |
 | Flying Aces: Legend of the Red Baron | 394997 | [394997-flying-aces-legend-of-the-red-baron.json](./394997-flying-aces-legend-of-the-red-baron.json) |
 | Flying Car Robot Flight Drive Simulator Game 2017 | 86854 | [86854-flying-car-robot-flight-drive-simulator-game-2017.json](./86854-flying-car-robot-flight-drive-simulator-game-2017.json) |
+| Flying Cat | 282147 | [282147-flying-cat.json](./282147-flying-cat.json) |
 | Flying Corps: Gold | 209461 | [209461-flying-corps-gold.json](./209461-flying-corps-gold.json) |
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
 | Flying Frogs | 209462 | [209462-flying-frogs.json](./209462-flying-frogs.json) |
@@ -3199,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Hell | 320524 | [320524-from-hell.json](./320524-from-hell.json) |
 | From Light | 59999 | [59999-from-light.json](./59999-from-light.json) |
 | From Madness with Love | 215934 | [215934-from-madness-with-love.json](./215934-from-madness-with-love.json) |
+| From Nava | 282139 | [282139-from-nava.json](./282139-from-nava.json) |
 | From One World To Another | 335087 | [335087-from-one-world-to-another.json](./335087-from-one-world-to-another.json) |
 | From Salt to Sugar | 212803 | [212803-from-salt-to-sugar.json](./212803-from-salt-to-sugar.json) |
 | From Scratch | 287199 | [287199-from-scratch.json](./287199-from-scratch.json) |
