@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plus City | 281416 | [281416-plus-city.json](./281416-plus-city.json) |
 | Plus One | 313894 | [313894-plus-one.json](./313894-plus-one.json) |
 | Plus Plum 2 | 62227 | [62227-plus-plum-2.json](./62227-plus-plum-2.json) |
+| Plus Ultra: Legado | 276828 | [276828-plus-ultra-legado.json](./276828-plus-ultra-legado.json) |
 | Plush | 24629 | [24629-plush.json](./24629-plush.json) |
 | Plush Shop Simulator | 349852 | [349852-plush-shop-simulator.json](./349852-plush-shop-simulator.json) |
 | Plushie Bomber | 237083 | [237083-plushie-bomber.json](./237083-plushie-bomber.json) |
@@ -3832,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Problem Animals | 193488 | [193488-problem-animals.json](./193488-problem-animals.json) |
 | Problemlöser | 277936 | [277936-problemloser.json](./277936-problemloser.json) |
 | Problems and Solutions | 342733 | [342733-problems-and-solutions.json](./342733-problems-and-solutions.json) |
+| Probot Soccer | 276829 | [276829-probot-soccer.json](./276829-probot-soccer.json) |
 | Probotector | 186202 | [186202-probotector.json](./186202-probotector.json) |
 | Procedural Realms | 228701 | [228701-procedural-realms.json](./228701-procedural-realms.json) |
 | Procedural Soccer | 173228 | [173228-procedural-soccer.json](./173228-procedural-soccer.json) |
