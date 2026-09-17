@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
 | A-10 Tank Killer | 14200 | [14200-a-10-tank-killer.json](./14200-a-10-tank-killer.json) |
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
+| A-2481 | 263580 | [263580-a-2481.json](./263580-a-2481.json) |
 | A-Gents | 33071 | [33071-a-gents.json](./33071-a-gents.json) |
 | A-Girl: New Character B | 283882 | [283882-a-girl-new-character-b.json](./283882-a-girl-new-character-b.json) |
 | A-mazing Ants | 52561 | [52561-a-mazing-ants.json](./52561-a-mazing-ants.json) |
@@ -1494,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Sunset | 413736 | [413736-always-sunset.json](./413736-always-sunset.json) |
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
 | Alzara: Radiant Echoes | 300878 | [300878-alzara-radiant-echoes.json](./300878-alzara-radiant-echoes.json) |
+| Am I AI | 263573 | [263573-am-i-ai.json](./263573-am-i-ai.json) |
 | Am I Live | 333075 | [333075-am-i-live.json](./333075-am-i-live.json) |
 | Am I Nima | 329692 | [329692-am-i-nima.json](./329692-am-i-nima.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
@@ -1676,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMF Bowling 2004 | 5723 | [5723-amf-bowling-2004.json](./5723-amf-bowling-2004.json) |
 | AMF Bowling Deluxe 2D | 206116 | [206116-amf-bowling-deluxe-2d.json](./206116-amf-bowling-deluxe-2d.json) |
 | AMF Bowling Deluxe 3D | 206117 | [206117-amf-bowling-deluxe-3d.json](./206117-amf-bowling-deluxe-3d.json) |
+| Amid Evil: Champion Edition | 263589 | [263589-amid-evil-champion-edition.json](./263589-amid-evil-champion-edition.json) |
 | Amid the Grid | 394824 | [394824-amid-the-grid.json](./394824-amid-the-grid.json) |
 | Amida | 7755 | [7755-amida.json](./7755-amida.json) |
 | Amidar | 11116 | [11116-amidar.json](./11116-amidar.json) |
@@ -3959,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Nova | 269044 | [269044-aurora-nova.json](./269044-aurora-nova.json) |
 | Aurora: Genesis | 349367 | [349367-aurora-genesis.json](./349367-aurora-genesis.json) |
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
+| AuroraBound | 263585 | [263585-aurorabound.json](./263585-aurorabound.json) |
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
 | Aurum | 373636 | [373636-aurum.json](./373636-aurum.json) |
 | Aurum Kings | 100148 | [100148-aurum-kings.json](./100148-aurum-kings.json) |
