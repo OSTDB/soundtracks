@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Javaders | 128578 | [128578-javaders.json](./128578-javaders.json) |
 | Javelin Masters 2 | 344451 | [344451-javelin-masters-2.json](./344451-javelin-masters-2.json) |
 | Jawaker | 315697 | [315697-jawaker.json](./315697-jawaker.json) |
+| Jawbreak | 271803 | [271803-jawbreak.json](./271803-jawbreak.json) |
 | Jawbreaker | 177551 | [177551-jawbreaker.json](./177551-jawbreaker.json) |
 | Jawbreaker | 339639 | [339639-jawbreaker.json](./339639-jawbreaker.json) |
 | Jawed | 408909 | [408909-jawed.json](./408909-jawed.json) |
