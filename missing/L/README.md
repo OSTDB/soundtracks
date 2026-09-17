@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Get Bakin' | 342130 | [342130-lets-get-bakin.json](./342130-lets-get-bakin.json) |
 | Let's Get Fit at Midnight, Shall We? | 296931 | [296931-lets-get-fit-at-midnight-shall-we.json](./296931-lets-get-fit-at-midnight-shall-we.json) |
 | Let's Get Rich | 112316 | [112316-lets-get-rich.json](./112316-lets-get-rich.json) |
+| Let's Go | 246466 | [246466-lets-go.json](./246466-lets-go.json) |
 | Let's Go Bassfishing! | 282681 | [282681-lets-go-bassfishing.json](./282681-lets-go-bassfishing.json) |
 | Let's Go Camping | 220143 | [220143-lets-go-camping.json](./220143-lets-go-camping.json) |
 | Let's Go Jungle!: Lost on the Island of Spice | 69304 | [69304-lets-go-jungle-lost-on-the-island-of-spice.json](./69304-lets-go-jungle-lost-on-the-island-of-spice.json) |
@@ -1645,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little People | 57039 | [57039-little-people.json](./57039-little-people.json) |
 | Little Petsville Desktop | 401641 | [401641-little-petsville-desktop.json](./401641-little-petsville-desktop.json) |
 | Little Pilot | 370227 | [370227-little-pilot.json](./370227-little-pilot.json) |
+| Little Plane | 246467 | [246467-little-plane.json](./246467-little-plane.json) |
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
 | Little Planet: Holiday Update | 380572 | [380572-little-planet-holiday-update.json](./380572-little-planet-holiday-update.json) |
 | Little Porp | 236301 | [236301-little-porp.json](./236301-little-porp.json) |
@@ -1847,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked Together | 405617 | [405617-locked-together.json](./405617-locked-together.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
+| Loco-Coconuts | 246495 | [246495-loco-coconuts.json](./246495-loco-coconuts.json) |
 | Loco-Sort | 272265 | [272265-loco-sort.json](./272265-loco-sort.json) |
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
 | Locomotion | 117048 | [117048-locomotion.json](./117048-locomotion.json) |
