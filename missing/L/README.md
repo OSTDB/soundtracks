@@ -373,12 +373,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Legion UX | 3534 | [3534-last-legion-ux.json](./3534-last-legion-ux.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
 | Last Mage Standing | 30008 | [30008-last-mage-standing.json](./30008-last-mage-standing.json) |
+| Last Man | 273462 | [273462-last-man.json](./273462-last-man.json) |
 | Last Man Standing Coop: A Doom 3 Coop Mod | 301959 | [301959-last-man-standing-coop-a-doom-3-coop-mod.json](./301959-last-man-standing-coop-a-doom-3-coop-mod.json) |
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
 | Last Minute Shopping | 278544 | [278544-last-minute-shopping.json](./278544-last-minute-shopping.json) |
 | Last Moon | 120387 | [120387-last-moon.json](./120387-last-moon.json) |
 | Last Mortem | 149515 | [149515-last-mortem.json](./149515-last-mortem.json) |
 | Last Night of Winter | 154024 | [154024-last-night-of-winter.json](./154024-last-night-of-winter.json) |
+| Last Night Shift | 273471 | [273471-last-night-shift.json](./273471-last-night-shift.json) |
 | Last Nova | 358367 | [358367-last-nova.json](./358367-last-nova.json) |
 | Last Nuclear Darkness | 158162 | [158162-last-nuclear-darkness.json](./158162-last-nuclear-darkness.json) |
 | Last Oasis | 114422 | [114422-last-oasis.json](./114422-last-oasis.json) |
@@ -966,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let There Be Life | 35984 | [35984-let-there-be-life.json](./35984-let-there-be-life.json) |
 | Let There Be Smite! | 414288 | [414288-let-there-be-smite.json](./414288-let-there-be-smite.json) |
 | Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
+| Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
 | Let's Bravo Music | 326944 | [326944-lets-bravo-music.json](./326944-lets-bravo-music.json) |
 | Let's Build a Garden | 340914 | [340914-lets-build-a-garden.json](./340914-lets-build-a-garden.json) |
 | Let’s Build a Zoo: Aquarium Odyssey | 245302 | [245302-let-s-build-a-zoo-aquarium-odyssey.json](./245302-let-s-build-a-zoo-aquarium-odyssey.json) |
@@ -1629,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Soldier | 164436 | [164436-little-soldier.json](./164436-little-soldier.json) |
 | Little Sound Dj | 91410 | [91410-little-sound-dj.json](./91410-little-sound-dj.json) |
 | Little Sparks | 189168 | [189168-little-sparks.json](./189168-little-sparks.json) |
+| Little Survivors | 273469 | [273469-little-survivors.json](./273469-little-survivors.json) |
 | Little Tail Story | 144320 | [144320-little-tail-story.json](./144320-little-tail-story.json) |
 | Little Tank | 339942 | [339942-little-tank.json](./339942-little-tank.json) |
 | Little Things Remastered | 175935 | [175935-little-things-remastered.json](./175935-little-things-remastered.json) |
