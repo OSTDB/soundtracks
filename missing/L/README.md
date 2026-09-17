@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LifeAfter | 115660 | [115660-lifeafter.json](./115660-lifeafter.json) |
 | LifeDev | 258470 | [258470-lifedev.json](./258470-lifedev.json) |
 | Lifeguard | 61576 | [61576-lifeguard.json](./61576-lifeguard.json) |
+| Lifeless Horizon | 266900 | [266900-lifeless-horizon.json](./266900-lifeless-horizon.json) |
 | Lifeless Planet: Premier Edition | 20950 | [20950-lifeless-planet-premier-edition.json](./20950-lifeless-planet-premier-edition.json) |
 | Lifelike | 178003 | [178003-lifelike.json](./178003-lifelike.json) |
 | Lifelike: Chapter One | 117004 | [117004-lifelike-chapter-one.json](./117004-lifelike-chapter-one.json) |
@@ -1281,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightfish | 16271 | [16271-lightfish.json](./16271-lightfish.json) |
 | Lightforce | 28823 | [28823-lightforce.json](./28823-lightforce.json) |
 | Lighthockey | 34352 | [34352-lighthockey.json](./34352-lighthockey.json) |
+| Lighthouse | 267450 | [267450-lighthouse.json](./267450-lighthouse.json) |
 | Lighthouse of Guiding Flames | 120933 | [120933-lighthouse-of-guiding-flames.json](./120933-lighthouse-of-guiding-flames.json) |
 | Lighthouse of the Souls | 344966 | [344966-lighthouse-of-the-souls.json](./344966-lighthouse-of-the-souls.json) |
 | Lighting Lanterns | 346593 | [346593-lighting-lanterns.json](./346593-lighting-lanterns.json) |
@@ -1341,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilia | 362325 | [362325-lilia.json](./362325-lilia.json) |
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
 | Lilim Wants to Lv Up | 275138 | [275138-lilim-wants-to-lv-up.json](./275138-lilim-wants-to-lv-up.json) |
+| Lilith Hall | 266877 | [266877-lilith-hall.json](./266877-lilith-hall.json) |
 | Lilith Rising: Season 2 | 296929 | [296929-lilith-rising-season-2.json](./296929-lilith-rising-season-2.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
 | Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
@@ -1632,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Robo Climber | 195687 | [195687-little-robo-climber.json](./195687-little-robo-climber.json) |
 | Little Robot Stories | 149588 | [149588-little-robot-stories.json](./149588-little-robot-stories.json) |
 | Little Rock, MI | 203379 | [203379-little-rock-mi.json](./203379-little-rock-mi.json) |
+| Little Scavenger | 267451 | [267451-little-scavenger.json](./267451-little-scavenger.json) |
 | Little Screamies | 319583 | [319583-little-screamies.json](./319583-little-screamies.json) |
 | Little Shadow | 381602 | [381602-little-shadow.json](./381602-little-shadow.json) |
 | Little Shaker: Summer Adventures | 237623 | [237623-little-shaker-summer-adventures.json](./237623-little-shaker-summer-adventures.json) |
@@ -1726,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Livingstone Supongo | 37079 | [37079-livingstone-supongo.json](./37079-livingstone-supongo.json) |
 | Livli: A Sámi Story | 293894 | [293894-livli-a-sami-story.json](./293894-livli-a-sami-story.json) |
 | Livora | 402966 | [402966-livora.json](./402966-livora.json) |
+| Liwertown: Rebirth | 267453 | [267453-liwertown-rebirth.json](./267453-liwertown-rebirth.json) |
 | Lix | 97896 | [97896-lix.json](./97896-lix.json) |
 | Liyf | 275349 | [275349-liyf.json](./275349-liyf.json) |
 | Lizard | 19574 | [19574-lizard.json](./19574-lizard.json) |
