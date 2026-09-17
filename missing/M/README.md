@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match It Fast | 104091 | [104091-match-it-fast.json](./104091-match-it-fast.json) |
 | Match It Sexy | 260383 | [260383-match-it-sexy.json](./260383-match-it-sexy.json) |
 | Match Kill Survive | 309679 | [309679-match-kill-survive.json](./309679-match-kill-survive.json) |
+| Match Manor | 269094 | [269094-match-manor.json](./269094-match-manor.json) |
 | Match Morphosis | 381618 | [381618-match-morphosis.json](./381618-match-morphosis.json) |
 | Match Point | 324904 | [324904-match-point.json](./324904-match-point.json) |
 | Match Puzzle House | 224012 | [224012-match-puzzle-house.json](./224012-match-puzzle-house.json) |
@@ -1609,6 +1610,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayday Protocol | 382328 | [382328-mayday-protocol.json](./382328-mayday-protocol.json) |
 | Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
 | Mayhem | 7066 | [7066-mayhem.json](./7066-mayhem.json) |
+| Mayhem 1500 | 269126 | [269126-mayhem-1500.json](./269126-mayhem-1500.json) |
+| Mayhem 2012 | 269123 | [269123-mayhem-2012.json](./269123-mayhem-2012.json) |
+| Mayhem 2013 | 269124 | [269124-mayhem-2013.json](./269124-mayhem-2013.json) |
+| Mayhem 2016 | 269127 | [269127-mayhem-2016.json](./269127-mayhem-2016.json) |
+| Mayhem 2018: Orange Edition | 269131 | [269131-mayhem-2018-orange-edition.json](./269131-mayhem-2018-orange-edition.json) |
+| Mayhem 2018: Purple Edition | 269130 | [269130-mayhem-2018-purple-edition.json](./269130-mayhem-2018-purple-edition.json) |
+| Mayhem 2019: Blood for the Doom God! | 269132 | [269132-mayhem-2019-blood-for-the-doom-god.json](./269132-mayhem-2019-blood-for-the-doom-god.json) |
+| Mayhem 2048 | 269125 | [269125-mayhem-2048.json](./269125-mayhem-2048.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayhem Pantera | 271807 | [271807-mayhem-pantera.json](./271807-mayhem-pantera.json) |
@@ -5446,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Roomies | 378198 | [378198-my-sweet-roomies.json](./378198-my-sweet-roomies.json) |
 | My Sweet Washing Machine! | 156654 | [156654-my-sweet-washing-machine.json](./156654-my-sweet-washing-machine.json) |
 | My Talking Angela 2+ | 291985 | [291985-my-talking-angela-2.json](./291985-my-talking-angela-2.json) |
+| My Talking Dog 2 | 269099 | [269099-my-talking-dog-2.json](./269099-my-talking-dog-2.json) |
 | My Talking Girl | 300429 | [300429-my-talking-girl.json](./300429-my-talking-girl.json) |
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
 | My Teacher is an Alien | 148515 | [148515-my-teacher-is-an-alien.json](./148515-my-teacher-is-an-alien.json) |
