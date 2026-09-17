@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tachyon Project: Limited Edition | 166235 | [166235-tachyon-project-limited-edition.json](./166235-tachyon-project-limited-edition.json) |
 | Tachyon: The Fringe | 357 | [357-tachyon-the-fringe.json](./357-tachyon-the-fringe.json) |
 | Tachyons | 176425 | [176425-tachyons.json](./176425-tachyons.json) |
+| Tachyons: Battles Across the Galaxy | 236395 | [236395-tachyons-battles-across-the-galaxy.json](./236395-tachyons-battles-across-the-galaxy.json) |
 | Tachypsychia | 141253 | [141253-tachypsychia.json](./141253-tachypsychia.json) |
 | Tackle for Loss | 304715 | [304715-tackle-for-loss.json](./304715-tackle-for-loss.json) |
 | Tackle Tourney Turbo | 177012 | [177012-tackle-tourney-turbo.json](./177012-tackle-tourney-turbo.json) |
@@ -3422,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sacrifice: Blood King's Treasure | 225677 | [225677-the-last-sacrifice-blood-kings-treasure.json](./225677-the-last-sacrifice-blood-kings-treasure.json) |
 | The Last Sacrifice: Forbidden Ties | 225680 | [225680-the-last-sacrifice-forbidden-ties.json](./225680-the-last-sacrifice-forbidden-ties.json) |
 | The Last Safe Place | 290000 | [290000-the-last-safe-place.json](./290000-the-last-safe-place.json) |
+| The Last Saviour: Search of Truth | 236367 | [236367-the-last-saviour-search-of-truth.json](./236367-the-last-saviour-search-of-truth.json) |
 | The Last Scaler | 314466 | [314466-the-last-scaler.json](./314466-the-last-scaler.json) |
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
@@ -4084,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orion Suns | 83534 | [83534-the-orion-suns.json](./83534-the-orion-suns.json) |
 | The Orphan | 243153 | [243153-the-orphan.json](./243153-the-orphan.json) |
 | The Orphan Dreams | 33160 | [33160-the-orphan-dreams.json](./33160-the-orphan-dreams.json) |
+| The Orphanage | 236381 | [236381-the-orphanage.json](./236381-the-orphanage.json) |
 | The Othello | 91958 | [91958-the-othello.json](./91958-the-othello.json) |
 | The Other Me | 261550 | [261550-the-other-me.json](./261550-the-other-me.json) |
 | The Other Side | 178673 | [178673-the-other-side.json](./178673-the-other-side.json) |
@@ -4752,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spatials Collection | 53775 | [53775-the-spatials-collection.json](./53775-the-spatials-collection.json) |
 | The Spearman | 323316 | [323316-the-spearman.json](./323316-the-spearman.json) |
 | The Specialists | 138772 | [138772-the-specialists.json](./138772-the-specialists.json) |
+| The Specter Chronicles: Episode 1 - The False Prophet | 236376 | [236376-the-specter-chronicles-episode-1-the-false-prophet.json](./236376-the-specter-chronicles-episode-1-the-false-prophet.json) |
 | The Specter's Desire | 301824 | [301824-the-specters-desire.json](./301824-the-specters-desire.json) |
 | The Spectrum Retreat | 96065 | [96065-the-spectrum-retreat.json](./96065-the-spectrum-retreat.json) |
 | The Speris Legacy | 15565 | [15565-the-speris-legacy.json](./15565-the-speris-legacy.json) |
@@ -6434,6 +6438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
 | TimeCluster | 105295 | [105295-timecluster.json](./105295-timecluster.json) |
 | Timeflow: Financial Education Sim | 114440 | [114440-timeflow-financial-education-sim.json](./114440-timeflow-financial-education-sim.json) |
+| Timekeepers Battleground | 236403 | [236403-timekeepers-battleground.json](./236403-timekeepers-battleground.json) |
 | Timelake: Time Travel Tactics | 327841 | [327841-timelake-time-travel-tactics.json](./327841-timelake-time-travel-tactics.json) |
 | Timeless | 119751 | [119751-timeless.json](./119751-timeless.json) |
 | Timeless Solitaire Collection | 372476 | [372476-timeless-solitaire-collection.json](./372476-timeless-solitaire-collection.json) |
@@ -7617,6 +7622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toybit Quest | 104039 | [104039-toybit-quest.json](./104039-toybit-quest.json) |
 | Toybox | 184645 | [184645-toybox.json](./184645-toybox.json) |
 | Toybox | 271305 | [271305-toybox.json](./271305-toybox.json) |
+| ToyBox Puzzle | 236407 | [236407-toybox-puzzle.json](./236407-toybox-puzzle.json) |
 | ToyCamp | 384507 | [384507-toycamp.json](./384507-toycamp.json) |
 | Toyland Racing | 73764 | [73764-toyland-racing.json](./73764-toyland-racing.json) |
 | Toymaker | 10941 | [10941-toymaker.json](./10941-toymaker.json) |
