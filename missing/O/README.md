@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Button Dungeon | 386734 | [386734-one-button-dungeon.json](./386734-one-button-dungeon.json) |
 | One by One | 184631 | [184631-one-by-one.json](./184631-one-by-one.json) |
 | One By One | 195714 | [195714-one-by-one.json](./195714-one-by-one.json) |
+| One Card One Shot: Mafia | 244359 | [244359-one-card-one-shot-mafia.json](./244359-one-card-one-shot-mafia.json) |
 | One Dark Night | 33065 | [33065-one-dark-night.json](./33065-one-dark-night.json) |
 | One Day for Revenge | 104020 | [104020-one-day-for-revenge.json](./104020-one-day-for-revenge.json) |
 | One Day in London | 32931 | [32931-one-day-in-london.json](./32931-one-day-in-london.json) |
