@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatMxn: Chapter 1 | 196788 | [196788-catmxn-chapter-1.json](./196788-catmxn-chapter-1.json) |
 | Catnight | 188582 | [188582-catnight.json](./188582-catnight.json) |
 | Catnip & Coffee | 350529 | [350529-catnip-and-coffee.json](./350529-catnip-and-coffee.json) |
+| Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | CatRoots | 130334 | [130334-catroots.json](./130334-catroots.json) |
 | CatRunner 2022 | 299902 | [299902-catrunner-2022.json](./299902-catrunner-2022.json) |
 | Cats | 301856 | [301856-cats.json](./301856-cats.json) |
@@ -2745,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue/Cluedo: Black Adder Resort Bundle | 262647 | [262647-clue-cluedo-black-adder-resort-bundle.json](./262647-clue-cluedo-black-adder-resort-bundle.json) |
 | Clue/Cluedo: Halloween Records | 328997 | [328997-clue-cluedo-halloween-records.json](./328997-clue-cluedo-halloween-records.json) |
 | Clue/Cluedo: Sherlock Suspect Pack | 407418 | [407418-clue-cluedo-sherlock-suspect-pack.json](./407418-clue-cluedo-sherlock-suspect-pack.json) |
+| Clue/Cluedo: Tropical Pack | 263035 | [263035-clue-cluedo-tropical-pack.json](./263035-clue-cluedo-tropical-pack.json) |
 | Cluedo: The Mysteries Continue | 45936 | [45936-cluedo-the-mysteries-continue.json](./45936-cluedo-the-mysteries-continue.json) |
 | Cluefinders: Math Adventures - Mystery of the Himalayas | 66092 | [66092-cluefinders-math-adventures-mystery-of-the-himalayas.json](./66092-cluefinders-math-adventures-mystery-of-the-himalayas.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
@@ -3890,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Quest IV: The Ayatolian March | 98473 | [98473-cosmos-quest-iv-the-ayatolian-march.json](./98473-cosmos-quest-iv-the-ayatolian-march.json) |
 | Cosmos Quest V: The New Beginning | 98472 | [98472-cosmos-quest-v-the-new-beginning.json](./98472-cosmos-quest-v-the-new-beginning.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
+| Cosmotroid | 263041 | [263041-cosmotroid.json](./263041-cosmotroid.json) |
 | CosmoWarrior Zero | 43875 | [43875-cosmowarrior-zero.json](./43875-cosmowarrior-zero.json) |
 | Cosmula | 306348 | [306348-cosmula.json](./306348-cosmula.json) |
 | Cosplay Crisis: Succubus Invasion | 309861 | [309861-cosplay-crisis-succubus-invasion.json](./309861-cosplay-crisis-succubus-invasion.json) |
