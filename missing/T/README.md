@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Boutique | 256535 | [256535-tap-boutique.json](./256535-tap-boutique.json) |
 | Tap Building | 212469 | [212469-tap-building.json](./212469-tap-building.json) |
 | Tap Cat RPG: Simple Emoji Cat Idle Game | 297642 | [297642-tap-cat-rpg-simple-emoji-cat-idle-game.json](./297642-tap-cat-rpg-simple-emoji-cat-idle-game.json) |
+| Tap City | 259079 | [259079-tap-city.json](./259079-tap-city.json) |
 | Tap Craft | 239048 | [239048-tap-craft.json](./239048-tap-craft.json) |
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
@@ -8618,6 +8619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tungtung's Nightmare | 375934 | [375934-tungtungs-nightmare.json](./375934-tungtungs-nightmare.json) |
 | Tungulus | 47986 | [47986-tungulus.json](./47986-tungulus.json) |
 | Tunguska: Legend of Faith | 43901 | [43901-tunguska-legend-of-faith.json](./43901-tunguska-legend-of-faith.json) |
+| Tunguska: Shadow Master | 259075 | [259075-tunguska-shadow-master.json](./259075-tunguska-shadow-master.json) |
 | Tunguska: The Visitation | 152320 | [152320-tunguska-the-visitation.json](./152320-tunguska-the-visitation.json) |
 | Tunguska: The Visitation - Complete Edition | 338030 | [338030-tunguska-the-visitation-complete-edition.json](./338030-tunguska-the-visitation-complete-edition.json) |
 | Tunguska: The Visitation - Way of The Hunter | 227863 | [227863-tunguska-the-visitation-way-of-the-hunter.json](./227863-tunguska-the-visitation-way-of-the-hunter.json) |
