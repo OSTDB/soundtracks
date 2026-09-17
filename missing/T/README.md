@@ -1205,6 +1205,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis World Tour: Alex De Minaur | 169937 | [169937-tennis-world-tour-alex-de-minaur.json](./169937-tennis-world-tour-alex-de-minaur.json) |
 | Tennis World Tour: Alex De Minaur | 169943 | [169943-tennis-world-tour-alex-de-minaur.json](./169943-tennis-world-tour-alex-de-minaur.json) |
 | Tennis World Tour: Caroline Garcia | 169939 | [169939-tennis-world-tour-caroline-garcia.json](./169939-tennis-world-tour-caroline-garcia.json) |
+| Tennis World Tour: Coach Sophie Walker | 238060 | [238060-tennis-world-tour-coach-sophie-walker.json](./238060-tennis-world-tour-coach-sophie-walker.json) |
+| Tennis World Tour: Denis Shapovalov | 238059 | [238059-tennis-world-tour-denis-shapovalov.json](./238059-tennis-world-tour-denis-shapovalov.json) |
 | Tennis World Tour: Kristina Mladenovic | 169941 | [169941-tennis-world-tour-kristina-mladenovic.json](./169941-tennis-world-tour-kristina-mladenovic.json) |
 | Tennis World Tour: Legends Bonus Pack | 169942 | [169942-tennis-world-tour-legends-bonus-pack.json](./169942-tennis-world-tour-legends-bonus-pack.json) |
 | Tennis World Tour: Rafael Nadal | 169938 | [169938-tennis-world-tour-rafael-nadal.json](./169938-tennis-world-tour-rafael-nadal.json) |
@@ -1746,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms Simulator | 121032 | [121032-the-backrooms-simulator.json](./121032-the-backrooms-simulator.json) |
 | The Backrooms World | 204671 | [204671-the-backrooms-world.json](./204671-the-backrooms-world.json) |
 | The Backrooms: Forsaken | 329584 | [329584-the-backrooms-forsaken.json](./329584-the-backrooms-forsaken.json) |
+| The Backrooms: Liminal Reality | 238066 | [238066-the-backrooms-liminal-reality.json](./238066-the-backrooms-liminal-reality.json) |
 | The Backrooms: Lost Tape | 197312 | [197312-the-backrooms-lost-tape.json](./197312-the-backrooms-lost-tape.json) |
 | The Backrooms: Lost to the Dark | 370141 | [370141-the-backrooms-lost-to-the-dark.json](./370141-the-backrooms-lost-to-the-dark.json) |
 | The Backrooms: Mass Extinction | 203558 | [203558-the-backrooms-mass-extinction.json](./203558-the-backrooms-mass-extinction.json) |
@@ -2802,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game Of Death | 276156 | [276156-the-game-of-death.json](./276156-the-game-of-death.json) |
 | The Game of Life / Yahtzee / Payday | 137695 | [137695-the-game-of-life-yahtzee-payday.json](./137695-the-game-of-life-yahtzee-payday.json) |
 | The Game of Life 2: Age of Giants World | 171591 | [171591-the-game-of-life-2-age-of-giants-world.json](./171591-the-game-of-life-2-age-of-giants-world.json) |
+| The Game of Life 2: Complete Collection | 238044 | [238044-the-game-of-life-2-complete-collection.json](./238044-the-game-of-life-2-complete-collection.json) |
 | The Game of Life 2: El Dorado | 256002 | [256002-the-game-of-life-2-el-dorado.json](./256002-the-game-of-life-2-el-dorado.json) |
 | The Game of Life 2: Fairytale Kingdom World | 171608 | [171608-the-game-of-life-2-fairytale-kingdom-world.json](./171608-the-game-of-life-2-fairytale-kingdom-world.json) |
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
@@ -7357,6 +7361,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Jaseishou: The Last Comer | 246672 | [246672-touhou-jaseishou-the-last-comer.json](./246672-touhou-jaseishou-the-last-comer.json) |
 | Touhou Kaikeidou: Marine Benefit | 280171 | [280171-touhou-kaikeidou-marine-benefit.json](./280171-touhou-kaikeidou-marine-benefit.json) |
 | Touhou Kobuto V: Burst Battle | 27261 | [27261-touhou-kobuto-v-burst-battle.json](./27261-touhou-kobuto-v-burst-battle.json) |
+| Touhou Kobuto V: Burst Battle - Chibi-Chara | 238038 | [238038-touhou-kobuto-v-burst-battle-chibi-chara.json](./238038-touhou-kobuto-v-burst-battle-chibi-chara.json) |
+| Touhou Kobuto V: Burst Battle - Koishi Komeiji | 238037 | [238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json](./238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json) |
+| Touhou Kobuto V: Burst Battle - Youmu Konpaku | 238035 | [238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json](./238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json) |
 | Touhou Kosuzu no Butsuri Game! | 256898 | [256898-touhou-kosuzu-no-butsuri-game.json](./256898-touhou-kosuzu-no-butsuri-game.json) |
 | Touhou Língshǒusì: Consciousness' Unity of Opposites | 216793 | [216793-touhou-lingshousi-consciousness-unity-of-opposites.json](./216793-touhou-lingshousi-consciousness-unity-of-opposites.json) |
 | Touhou Lonely Lovely Bonfire | 362883 | [362883-touhou-lonely-lovely-bonfire.json](./362883-touhou-lonely-lovely-bonfire.json) |
