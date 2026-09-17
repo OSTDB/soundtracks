@@ -475,6 +475,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 22 | 270193 | [270193-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-22.json](./270193-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-22.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 7XS | 263506 | [263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json](./263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json) |
 | Jigsaw Puzzle Passport: Spain | 393628 | [393628-jigsaw-puzzle-passport-spain.json](./393628-jigsaw-puzzle-passport-spain.json) |
+| Jigsaw Puzzle World | 244344 | [244344-jigsaw-puzzle-world.json](./244344-jigsaw-puzzle-world.json) |
+| Jigsaw Puzzle World Memories | 244366 | [244366-jigsaw-puzzle-world-memories.json](./244366-jigsaw-puzzle-world-memories.json) |
 | Jigsaw Puzzle World: Agricultural Machinery | 293070 | [293070-jigsaw-puzzle-world-agricultural-machinery.json](./293070-jigsaw-puzzle-world-agricultural-machinery.json) |
 | Jigsaw Puzzle World: Bar Drinks | 247627 | [247627-jigsaw-puzzle-world-bar-drinks.json](./247627-jigsaw-puzzle-world-bar-drinks.json) |
 | Jigsaw Puzzle World: Bears | 293067 | [293067-jigsaw-puzzle-world-bears.json](./293067-jigsaw-puzzle-world-bears.json) |
@@ -848,10 +850,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump King: New Babe+ | 386223 | [386223-jump-king-new-babe.json](./386223-jump-king-new-babe.json) |
 | Jump Like An Egyptian | 192978 | [192978-jump-like-an-egyptian.json](./192978-jump-like-an-egyptian.json) |
 | Jump Man | 332528 | [332528-jump-man.json](./332528-jump-man.json) |
+| Jump N Shooters | 244374 | [244374-jump-n-shooters.json](./244374-jump-n-shooters.json) |
 | Jump Off the Bridge | 117553 | [117553-jump-off-the-bridge.json](./117553-jump-off-the-bridge.json) |
 | Jump on the Ball | 329380 | [329380-jump-on-the-ball.json](./329380-jump-on-the-ball.json) |
 | Jump or Roll Game | 246987 | [246987-jump-or-roll-game.json](./246987-jump-or-roll-game.json) |
 | Jump Out | 280310 | [280310-jump-out.json](./280310-jump-out.json) |
+| Jump Puzzle | 244369 | [244369-jump-puzzle.json](./244369-jump-puzzle.json) |
 | Jump Sky-High Collection | 334097 | [334097-jump-sky-high-collection.json](./334097-jump-sky-high-collection.json) |
 | Jump Start Crazy Karts | 50638 | [50638-jump-start-crazy-karts.json](./50638-jump-start-crazy-karts.json) |
 | Jump the Crank | 365143 | [365143-jump-the-crank.json](./365143-jump-the-crank.json) |
