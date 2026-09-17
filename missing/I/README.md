@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
 | Infinite Einstein Tiles | 352291 | [352291-infinite-einstein-tiles.json](./352291-infinite-einstein-tiles.json) |
 | Infinite Energy | 362908 | [362908-infinite-energy.json](./362908-infinite-energy.json) |
+| Infinite Forest Idle | 277433 | [277433-infinite-forest-idle.json](./277433-infinite-forest-idle.json) |
 | Infinite Incantation | 236854 | [236854-infinite-incantation.json](./236854-infinite-incantation.json) |
 | Infinite Inside | 306748 | [306748-infinite-inside.json](./306748-infinite-inside.json) |
 | Infinite Jigsaw Puzzle | 94222 | [94222-infinite-jigsaw-puzzle.json](./94222-infinite-jigsaw-puzzle.json) |
