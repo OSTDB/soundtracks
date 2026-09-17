@@ -419,6 +419,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Squad Command | 18310 | [18310-warhammer-40-000-squad-command.json](./18310-warhammer-40-000-squad-command.json) |
 | Warhammer 40,000: Storm of Vengeance | 9389 | [9389-warhammer-40-000-storm-of-vengeance.json](./9389-warhammer-40-000-storm-of-vengeance.json) |
 | Warhammer Age of Sigmar: Champions | 112518 | [112518-warhammer-age-of-sigmar-champions.json](./112518-warhammer-age-of-sigmar-champions.json) |
+| Warhammer Age of Sigmar: Realms of Ruin - The Gobsprakk, The Mouth of Mork Pack | 279093 | [279093-warhammer-age-of-sigmar-realms-of-ruin-the-gobsprakk-the-mouth-of-mork-pack.json](./279093-warhammer-age-of-sigmar-realms-of-ruin-the-gobsprakk-the-mouth-of-mork-pack.json) |
+| Warhammer Age of Sigmar: Realms of Ruin - The Yndrasta, Celestial Spear Pack | 279094 | [279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json](./279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json) |
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
 | Warhammer: Battle for Atluma | 28882 | [28882-warhammer-battle-for-atluma.json](./28882-warhammer-battle-for-atluma.json) |
 | Warhammer: Battle March | 20786 | [20786-warhammer-battle-march.json](./20786-warhammer-battle-march.json) |
@@ -1082,7 +1084,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is My Son? | 390143 | [390143-where-is-my-son.json](./390143-where-is-my-son.json) |
 | Where is the Beach | 114354 | [114354-where-is-the-beach.json](./114354-where-is-the-beach.json) |
 | Where is the Meaning? | 161396 | [161396-where-is-the-meaning.json](./161396-where-is-the-meaning.json) |
+| Where Jellyfish | 279091 | [279091-where-jellyfish.json](./279091-where-jellyfish.json) |
 | Where Moss Grows | 397060 | [397060-where-moss-grows.json](./397060-where-moss-grows.json) |
+| Where Rabbits | 279089 | [279089-where-rabbits.json](./279089-where-rabbits.json) |
 | Where Safety Ends R | 289896 | [289896-where-safety-ends-r.json](./289896-where-safety-ends-r.json) |
 | Where Sea Foam Fades | 364488 | [364488-where-sea-foam-fades.json](./364488-where-sea-foam-fades.json) |
 | Where Serpents Ever Dwell | 268466 | [268466-where-serpents-ever-dwell.json](./268466-where-serpents-ever-dwell.json) |
@@ -1681,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within the Range | 391045 | [391045-within-the-range.json](./391045-within-the-range.json) |
 | Within The Shadows | 297625 | [297625-within-the-shadows.json](./297625-within-the-shadows.json) |
 | Within the Threes | 184604 | [184604-within-the-threes.json](./184604-within-the-threes.json) |
+| Within the Unknown | 279090 | [279090-within-the-unknown.json](./279090-within-the-unknown.json) |
 | Within Whispers: The Fall | 61652 | [61652-within-whispers-the-fall.json](./61652-within-whispers-the-fall.json) |
 | Within: Hannah's Journey | 304011 | [304011-within-hannahs-journey.json](./304011-within-hannahs-journey.json) |
 | Without a Dawn | 333551 | [333551-without-a-dawn.json](./333551-without-a-dawn.json) |
