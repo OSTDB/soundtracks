@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zayzoo: An Earth Adventure | 66645 | [66645-zayzoo-an-earth-adventure.json](./66645-zayzoo-an-earth-adventure.json) |
 | Zayzoo: My Alien Classmate | 66643 | [66643-zayzoo-my-alien-classmate.json](./66643-zayzoo-my-alien-classmate.json) |
 | Zball II | 149519 | [149519-zball-ii.json](./149519-zball-ii.json) |
+| Zbuki Zoo Strategic Comedy | 265259 | [265259-zbuki-zoo-strategic-comedy.json](./265259-zbuki-zoo-strategic-comedy.json) |
 | Zday Survival Simulator | 202840 | [202840-zday-survival-simulator.json](./202840-zday-survival-simulator.json) |
 | ZDSS: Zombie Drone Survival Show | 289336 | [289336-zdss-zombie-drone-survival-show.json](./289336-zdss-zombie-drone-survival-show.json) |
 | Zebra | 342171 | [342171-zebra.json](./342171-zebra.json) |
