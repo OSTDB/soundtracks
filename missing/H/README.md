@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halmaverse | 340409 | [340409-halmaverse.json](./340409-halmaverse.json) |
 | Halo 2 Digsite: Alpha Moon | 332818 | [332818-halo-2-digsite-alpha-moon.json](./332818-halo-2-digsite-alpha-moon.json) |
 | Halo 2: Limited Collector's Edition | 45149 | [45149-halo-2-limited-collectors-edition.json](./45149-halo-2-limited-collectors-edition.json) |
+| Halo 2: Project Cartographer | 241485 | [241485-halo-2-project-cartographer.json](./241485-halo-2-project-cartographer.json) |
 | Halo 3 & Fable II Double Pack | 141865 | [141865-halo-3-and-fable-ii-double-pack.json](./141865-halo-3-and-fable-ii-double-pack.json) |
 | Halo 3: Legendary Edition | 43955 | [43955-halo-3-legendary-edition.json](./43955-halo-3-legendary-edition.json) |
 | Halo 3: The Battlefront Pack | 332561 | [332561-halo-3-the-battlefront-pack.json](./332561-halo-3-the-battlefront-pack.json) |
