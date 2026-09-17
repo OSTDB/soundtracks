@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Arms | 382186 | [382186-2048-arms.json](./382186-2048-arms.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
 | 2048 Fusion | 308226 | [308226-2048-fusion.json](./308226-2048-fusion.json) |
+| 2048 Game With New Levels | 262361 | [262361-2048-game-with-new-levels.json](./262361-2048-game-with-new-levels.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 2048 Solitaire Plus | 107146 | [107146-2048-solitaire-plus.json](./107146-2048-solitaire-plus.json) |
@@ -640,11 +641,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
 | 80's Overdrive | 58717 | [58717-80s-overdrive.json](./58717-80s-overdrive.json) |
+| 814 | 262347 | [262347-814.json](./262347-814.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
 | 82-0 | 407398 | [407398-82-0.json](./407398-82-0.json) |
 | 868-Hack | 17034 | [17034-868-hack.json](./17034-868-hack.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
 | 8AM | 288739 | [288739-8am.json](./288739-8am.json) |
+| 8bit Doves | 262348 | [262348-8bit-doves.json](./262348-8bit-doves.json) |
 | 8bit Killer | 65522 | [65522-8bit-killer.json](./65522-8bit-killer.json) |
 | 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
 | 8Floor Bundle 4 in 1 | 259835 | [259835-8floor-bundle-4-in-1.json](./259835-8floor-bundle-4-in-1.json) |
