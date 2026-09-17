@@ -278,12 +278,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Blitz! | 191821 | [191821-hamster-blitz.json](./191821-hamster-blitz.json) |
 | Hamster Bomba | 312028 | [312028-hamster-bomba.json](./312028-hamster-bomba.json) |
 | Hamster Clicker! | 340410 | [340410-hamster-clicker.json](./340410-hamster-clicker.json) |
+| Hamster Club 2 | 281543 | [281543-hamster-club-2.json](./281543-hamster-club-2.json) |
 | Hamster Club-i | 143657 | [143657-hamster-club-i.json](./143657-hamster-club-i.json) |
+| Hamster Club: Awasete Chu | 281541 | [281541-hamster-club-awasete-chu.json](./281541-hamster-club-awasete-chu.json) |
+| Hamster Club: Oshiema Chu | 281542 | [281542-hamster-club-oshiema-chu.json](./281542-hamster-club-oshiema-chu.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
 | Hamster Monogatari 3, 4, Special | 97817 | [97817-hamster-monogatari-3-4-special.json](./97817-hamster-monogatari-3-4-special.json) |
 | Hamster Monogatari 64 | 3509 | [3509-hamster-monogatari-64.json](./3509-hamster-monogatari-64.json) |
 | Hamster Monogatari GB + Magi Ham Mahou no Shoujo | 97853 | [97853-hamster-monogatari-gb-magi-ham-mahou-no-shoujo.json](./97853-hamster-monogatari-gb-magi-ham-mahou-no-shoujo.json) |
 | Hamster Panic | 151743 | [151743-hamster-panic.json](./151743-hamster-panic.json) |
+| Hamster Paradise 2 | 281544 | [281544-hamster-paradise-2.json](./281544-hamster-paradise-2.json) |
+| Hamster Paradise 3 | 281546 | [281546-hamster-paradise-3.json](./281546-hamster-paradise-3.json) |
+| Hamster Paradise 4 | 281547 | [281547-hamster-paradise-4.json](./281547-hamster-paradise-4.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsteria! | 390684 | [390684-hamsteria.json](./390684-hamsteria.json) |
@@ -1264,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
 | Hentai Girls: Amazing Edition | 294827 | [294827-hentai-girls-amazing-edition.json](./294827-hentai-girls-amazing-edition.json) |
+| Hentai Girls: Contact | 281523 | [281523-hentai-girls-contact.json](./281523-hentai-girls-contact.json) |
 | Hentai Girls: Director's Cut | 284501 | [284501-hentai-girls-directors-cut.json](./284501-hentai-girls-directors-cut.json) |
 | Hentai Girls: Fresh Firefighter | 300863 | [300863-hentai-girls-fresh-firefighter.json](./300863-hentai-girls-fresh-firefighter.json) |
 | Hentai Girls: Happy Edition | 290427 | [290427-hentai-girls-happy-edition.json](./290427-hentai-girls-happy-edition.json) |
@@ -2072,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisou Kihei Kai Serd | 42034 | [42034-hisou-kihei-kai-serd.json](./42034-hisou-kihei-kai-serd.json) |
 | Hispania 1200 | 356167 | [356167-hispania-1200.json](./356167-hispania-1200.json) |
 | Hissatsu Buraiken | 40195 | [40195-hissatsu-buraiken.json](./40195-hissatsu-buraiken.json) |
+| Hissatsu Pachinko Boy CR Monster House | 281567 | [281567-hissatsu-pachinko-boy-cr-monster-house.json](./281567-hissatsu-pachinko-boy-cr-monster-house.json) |
 | Hissatsu Pachinko Station V2 | 137100 | [137100-hissatsu-pachinko-station-v2.json](./137100-hissatsu-pachinko-station-v2.json) |
 | Hissatsu Shaolin-ji | 385747 | [385747-hissatsu-shaolin-ji.json](./385747-hissatsu-shaolin-ji.json) |
 | Hisshou 777 Fighter: Pachi-Slot Ryuuguu Densetsu | 60509 | [60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json](./60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json) |
@@ -2415,11 +2423,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: For the Stars Shall Defy Fate | 362261 | [362261-honkai-impact-3rd-for-the-stars-shall-defy-fate.json](./362261-honkai-impact-3rd-for-the-stars-shall-defy-fate.json) |
 | Honkai Impact 3rd: Infinite Future | 276502 | [276502-honkai-impact-3rd-infinite-future.json](./276502-honkai-impact-3rd-infinite-future.json) |
 | Honkai Impact 3rd: Lives Flourish Where Feathers Fall | 408932 | [408932-honkai-impact-3rd-lives-flourish-where-feathers-fall.json](./408932-honkai-impact-3rd-lives-flourish-where-feathers-fall.json) |
+| Honkai Impact 3rd: Ninja's Noir | 281572 | [281572-honkai-impact-3rd-ninjas-noir.json](./281572-honkai-impact-3rd-ninjas-noir.json) |
 | Honkai Impact 3rd: Post-Dusk Odyssey | 276501 | [276501-honkai-impact-3rd-post-dusk-odyssey.json](./276501-honkai-impact-3rd-post-dusk-odyssey.json) |
 | Honkai Impact 3rd: Pristine Realm | 276504 | [276504-honkai-impact-3rd-pristine-realm.json](./276504-honkai-impact-3rd-pristine-realm.json) |
 | Honkai Impact 3rd: Re: Promise to Luna | 276505 | [276505-honkai-impact-3rd-re-promise-to-luna.json](./276505-honkai-impact-3rd-re-promise-to-luna.json) |
 | Honkai Impact 3rd: Silverwing: Beyond | 276498 | [276498-honkai-impact-3rd-silverwing-beyond.json](./276498-honkai-impact-3rd-silverwing-beyond.json) |
 | Honkai Impact 3rd: Stars Derailed | 322783 | [322783-honkai-impact-3rd-stars-derailed.json](./322783-honkai-impact-3rd-stars-derailed.json) |
+| Honkai Impact 3rd: Sublime Spring | 281571 | [281571-honkai-impact-3rd-sublime-spring.json](./281571-honkai-impact-3rd-sublime-spring.json) |
 | Honkai Impact 3rd: The Banquet Operative | 383390 | [383390-honkai-impact-3rd-the-banquet-operative.json](./383390-honkai-impact-3rd-the-banquet-operative.json) |
 | Honkai: Star Rail - A New Venture on the Eighth Dawn | 322770 | [322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json](./322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json) |
 | Honkai: Star Rail - As Tomorrow Became Yesterday | 375253 | [375253-honkai-star-rail-as-tomorrow-became-yesterday.json](./375253-honkai-star-rail-as-tomorrow-became-yesterday.json) |
@@ -2435,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - Unraveled for Daybreak | 394848 | [394848-honkai-star-rail-unraveled-for-daybreak.json](./394848-honkai-star-rail-unraveled-for-daybreak.json) |
 | Honkaku AI Tousai Daifugo | 144999 | [144999-honkaku-ai-tousai-daifugo.json](./144999-honkaku-ai-tousai-daifugo.json) |
 | Honkaku AI Tousai Ginsei Mahjong | 145000 | [145000-honkaku-ai-tousai-ginsei-mahjong.json](./145000-honkaku-ai-tousai-ginsei-mahjong.json) |
+| Honkaku Hanafuda GB | 281568 | [281568-honkaku-hanafuda-gb.json](./281568-honkaku-hanafuda-gb.json) |
 | Honkaku Taisen Shogi Ayumu | 97856 | [97856-honkaku-taisen-shogi-ayumu.json](./97856-honkaku-taisen-shogi-ayumu.json) |
 | Honker | 291476 | [291476-honker.json](./291476-honker.json) |
 | Honki de Manabu LEC de Goukakuru: Hishou Boki 3-Kyuu Portable | 67324 | [67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json](./67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json) |
