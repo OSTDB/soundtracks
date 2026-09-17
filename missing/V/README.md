@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Drive: Bhikkhuni - Liberator's Edition | 42678 | [42678-valkyrie-drive-bhikkhuni-liberators-edition.json](./42678-valkyrie-drive-bhikkhuni-liberators-edition.json) |
 | Valkyrie Drive: Bhikkhuni - Nyuu Nyuu DX Pack | 380519 | [380519-valkyrie-drive-bhikkhuni-nyuu-nyuu-dx-pack.json](./380519-valkyrie-drive-bhikkhuni-nyuu-nyuu-dx-pack.json) |
 | Valkyrie Galaxy | 120340 | [120340-valkyrie-galaxy.json](./120340-valkyrie-galaxy.json) |
+| Valkyrie Idle | 248095 | [248095-valkyrie-idle.json](./248095-valkyrie-idle.json) |
 | Valkyrie no Bouken: Toki no Kagi Densetsu | 48592 | [48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json](./48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json) |
 | Valkyrie Profile 2: Silmeria | 11793 | [11793-valkyrie-profile-2-silmeria.json](./11793-valkyrie-profile-2-silmeria.json) |
 | Valkyrie Svia | 109002 | [109002-valkyrie-svia.json](./109002-valkyrie-svia.json) |
@@ -1128,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Tricky | 308397 | [308397-vs-tricky.json](./308397-vs-tricky.json) |
 | Vs. Urban Champion | 169998 | [169998-vs-urban-champion.json](./169998-vs-urban-champion.json) |
 | Vs. Vemny & Friends | 302648 | [302648-vs-vemny-and-friends.json](./302648-vs-vemny-and-friends.json) |
+| VT Harmony | 248110 | [248110-vt-harmony.json](./248110-vt-harmony.json) |
 | VThree | 30130 | [30130-vthree.json](./30130-vthree.json) |
 | VTOL VR: AH-94 Attack Helicopter | 319396 | [319396-vtol-vr-ah-94-attack-helicopter.json](./319396-vtol-vr-ah-94-attack-helicopter.json) |
 | Vtoraya Mirovaya: Izdanie Vtoroe | 84277 | [84277-vtoraya-mirovaya-izdanie-vtoroe.json](./84277-vtoraya-mirovaya-izdanie-vtoroe.json) |
