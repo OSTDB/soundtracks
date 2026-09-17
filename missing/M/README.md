@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Puzzle | 277868 | [277868-maze-puzzle.json](./277868-maze-puzzle.json) |
 | Maze Quest Master | 270186 | [270186-maze-quest-master.json](./270186-maze-quest-master.json) |
 | Maze Runner | 72108 | [72108-maze-runner.json](./72108-maze-runner.json) |
+| Maze Tanks | 252222 | [252222-maze-tanks.json](./252222-maze-tanks.json) |
 | Maze Twister | 191820 | [191820-maze-twister.json](./191820-maze-twister.json) |
 | Maze Walk VR - Virtual Reality Game Puzzle Apps | 88063 | [88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json](./88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json) |
 | Maze Wars | 116316 | [116316-maze-wars.json](./116316-maze-wars.json) |
@@ -3739,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Senjo No Kazuna | 69294 | [69294-mobile-suit-gundam-senjo-no-kazuna.json](./69294-mobile-suit-gundam-senjo-no-kazuna.json) |
 | Mobile Suit Gundam: The One Year War | 43240 | [43240-mobile-suit-gundam-the-one-year-war.json](./43240-mobile-suit-gundam-the-one-year-war.json) |
 | Mobile Tomodachi | 143671 | [143671-mobile-tomodachi.json](./143671-mobile-tomodachi.json) |
+| Mobile Wars X: Ultimate Simulation Battle | 252197 | [252197-mobile-wars-x-ultimate-simulation-battle.json](./252197-mobile-wars-x-ultimate-simulation-battle.json) |
 | Mobiles Tycoon | 304584 | [304584-mobiles-tycoon.json](./304584-mobiles-tycoon.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
 | Mobo Greenhouse Garden | 256903 | [256903-mobo-greenhouse-garden.json](./256903-mobo-greenhouse-garden.json) |
