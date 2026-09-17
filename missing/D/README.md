@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dialogue: A Writer's Story | 26706 | [26706-dialogue-a-writers-story.json](./26706-dialogue-a-writers-story.json) |
 | Dialoop | 361796 | [361796-dialoop.json](./361796-dialoop.json) |
 | Diamon Jones: Amulet of the World | 59921 | [59921-diamon-jones-amulet-of-the-world.json](./59921-diamon-jones-amulet-of-the-world.json) |
+| Diamond | 247022 | [247022-diamond.json](./247022-diamond.json) |
 | Diamond | 314304 | [314304-diamond.json](./314304-diamond.json) |
 | Diamond | 35826 | [35826-diamond.json](./35826-diamond.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
@@ -2608,6 +2609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovr Egypt: King Tut's Tomb | 33086 | [33086-discovr-egypt-king-tuts-tomb.json](./33086-discovr-egypt-king-tuts-tomb.json) |
 | Discremental | 405603 | [405603-discremental.json](./405603-discremental.json) |
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
+| Discus | 247046 | [247046-discus.json](./247046-discus.json) |
 | Discworld | 8291 | [8291-discworld.json](./8291-discworld.json) |
 | Discworld II: Mortality Bytes! | 8292 | [8292-discworld-ii-mortality-bytes.json](./8292-discworld-ii-mortality-bytes.json) |
 | Discworld Noir | 8293 | [8293-discworld-noir.json](./8293-discworld-noir.json) |
