@@ -1122,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: 2024 Deluxe Bundle | 298029 | [298029-sea-of-thieves-2024-deluxe-bundle.json](./298029-sea-of-thieves-2024-deluxe-bundle.json) |
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
 | Sea of Thieves: Season 13 | 305154 | [305154-sea-of-thieves-season-13.json](./305154-sea-of-thieves-season-13.json) |
+| Sea of Thieves: The Legend of Monkey Island | 252829 | [252829-sea-of-thieves-the-legend-of-monkey-island.json](./252829-sea-of-thieves-the-legend-of-monkey-island.json) |
 | Sea of World | 292537 | [292537-sea-of-world.json](./292537-sea-of-world.json) |
 | Sea Plumber 2 | 205029 | [205029-sea-plumber-2.json](./205029-sea-plumber-2.json) |
 | Sea Power: Naval Combat in the Missile Age | 217518 | [217518-sea-power-naval-combat-in-the-missile-age.json](./217518-sea-power-naval-combat-in-the-missile-age.json) |
@@ -1247,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret in Flower | 395578 | [395578-secret-in-flower.json](./395578-secret-in-flower.json) |
 | Secret Journeys: Cities of the World | 84901 | [84901-secret-journeys-cities-of-the-world.json](./84901-secret-journeys-cities-of-the-world.json) |
 | Secret Love Temple | 368534 | [368534-secret-love-temple.json](./368534-secret-love-temple.json) |
+| Secret Manga Girlfriend | 252803 | [252803-secret-manga-girlfriend.json](./252803-secret-manga-girlfriend.json) |
 | Secret Maryo Chronicles | 134076 | [134076-secret-maryo-chronicles.json](./134076-secret-maryo-chronicles.json) |
 | Secret Mission: The Forgotten Island | 186808 | [186808-secret-mission-the-forgotten-island.json](./186808-secret-mission-the-forgotten-island.json) |
 | Secret Mode's Cozy Collection | 328500 | [328500-secret-modes-cozy-collection.json](./328500-secret-modes-cozy-collection.json) |
@@ -2286,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Mahjong Tenka Fubu | 188085 | [188085-shin-mahjong-tenka-fubu.json](./188085-shin-mahjong-tenka-fubu.json) |
 | Shin Megami Tensei Devil Summoner: Raidou Kuzunoha vs. The Soulless Army | 20640 | [20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json](./20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json) |
 | Shin Megami Tensei if... | 270672 | [270672-shin-megami-tensei-if.json](./270672-shin-megami-tensei-if.json) |
+| Shin Megami Tensei II | 252800 | [252800-shin-megami-tensei-ii.json](./252800-shin-megami-tensei-ii.json) |
 | Shin Megami Tensei II Gaiden: Mato Houkai | 138168 | [138168-shin-megami-tensei-ii-gaiden-mato-houkai.json](./138168-shin-megami-tensei-ii-gaiden-mato-houkai.json) |
 | Shin Megami Tensei III: Nocturne | 336392 | [336392-shin-megami-tensei-iii-nocturne.json](./336392-shin-megami-tensei-iii-nocturne.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster | 135913 | [135913-shin-megami-tensei-iii-nocturne-hd-remaster.json](./135913-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
@@ -4349,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sofiya and the Ancient Clan | 209648 | [209648-sofiya-and-the-ancient-clan.json](./209648-sofiya-and-the-ancient-clan.json) |
 | Soft cookie | 114438 | [114438-soft-cookie.json](./114438-soft-cookie.json) |
 | Soft Drizzle | 177527 | [177527-soft-drizzle.json](./177527-soft-drizzle.json) |
+| Soft Serve | 252811 | [252811-soft-serve.json](./252811-soft-serve.json) |
 | Soft(A)ware | 370123 | [370123-soft-a-ware.json](./370123-soft-a-ware.json) |
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Softly Placed | 379978 | [379978-softly-placed.json](./379978-softly-placed.json) |
@@ -6466,6 +6470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalker Together | 327831 | [327831-stalker-together.json](./327831-stalker-together.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
 | Stampede | 5704 | [5704-stampede.json](./5704-stampede.json) |
+| Stampede Racing Royale | 252849 | [252849-stampede-racing-royale.json](./252849-stampede-racing-royale.json) |
 | Stamps ‘n Papers | 346694 | [346694-stamps-n-papers.json](./346694-stamps-n-papers.json) |
 | Stan | 326277 | [326277-stan.json](./326277-stan.json) |
 | StanÇact: Sexy Tenacious Girls | 264621 | [264621-stancact-sexy-tenacious-girls.json](./264621-stancact-sexy-tenacious-girls.json) |
@@ -7958,6 +7963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sucker Punch Mech Gunner | 59357 | [59357-sucker-punch-mech-gunner.json](./59357-sucker-punch-mech-gunner.json) |
 | Sucre: Sweet and Charming Time for You | 396945 | [396945-sucre-sweet-and-charming-time-for-you.json](./396945-sucre-sweet-and-charming-time-for-you.json) |
 | Suction Co-Op | 303222 | [303222-suction-co-op.json](./303222-suction-co-op.json) |
+| Sudama Relation | 252814 | [252814-sudama-relation.json](./252814-sudama-relation.json) |
 | Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
 | Sudden Attack Zero Point | 366242 | [366242-sudden-attack-zero-point.json](./366242-sudden-attack-zero-point.json) |
 | Sudden Strike 4: Africa-Desert War | 111053 | [111053-sudden-strike-4-africa-desert-war.json](./111053-sudden-strike-4-africa-desert-war.json) |
@@ -8881,6 +8887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Banana Rumble - Knuckles | 309080 | [309080-super-monkey-ball-banana-rumble-knuckles.json](./309080-super-monkey-ball-banana-rumble-knuckles.json) |
 | Super Monkey Ball: Sakura Edition | 64989 | [64989-super-monkey-ball-sakura-edition.json](./64989-super-monkey-ball-sakura-edition.json) |
 | Super Monkey Ball: Tip 'n Tilt | 336925 | [336925-super-monkey-ball-tip-n-tilt.json](./336925-super-monkey-ball-tip-n-tilt.json) |
+| Super Monkie Bounce Fatal | 252809 | [252809-super-monkie-bounce-fatal.json](./252809-super-monkie-bounce-fatal.json) |
 | Super Monster Bros by Adventure Time Pocket Free Games | 25017 | [25017-super-monster-bros-by-adventure-time-pocket-free-games.json](./25017-super-monster-bros-by-adventure-time-pocket-free-games.json) |
 | Super Monsters | 295015 | [295015-super-monsters.json](./295015-super-monsters.json) |
 | Super Motherload | 20078 | [20078-super-motherload.json](./20078-super-motherload.json) |
@@ -9402,6 +9409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive: Frost Bite | 325710 | [325710-survive-frost-bite.json](./325710-survive-frost-bite.json) |
 | Survive.io Battle Ground | 100139 | [100139-survive-io-battle-ground.json](./100139-survive-io-battle-ground.json) |
 | Surviving Ceres | 290533 | [290533-surviving-ceres.json](./290533-surviving-ceres.json) |
+| Surviving Deponia | 252793 | [252793-surviving-deponia.json](./252793-surviving-deponia.json) |
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
 | Surviving Mars: Below and Beyond | 165620 | [165620-surviving-mars-below-and-beyond.json](./165620-surviving-mars-below-and-beyond.json) |
@@ -9613,6 +9621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swift Death | 138229 | [138229-swift-death.json](./138229-swift-death.json) |
 | Swift*Stitch | 65439 | [65439-swift-stitch.json](./65439-swift-stitch.json) |
 | Swiftle | 327426 | [327426-swiftle.json](./327426-swiftle.json) |
+| Swiggart's Last Will | 252810 | [252810-swiggarts-last-will.json](./252810-swiggarts-last-will.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
 | Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
 | Swimming Dynasty | 258024 | [258024-swimming-dynasty.json](./258024-swimming-dynasty.json) |
