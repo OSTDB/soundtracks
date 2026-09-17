@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Dragon Eggs Edition | 218495 | [218495-century-age-of-ashes-dragon-eggs-edition.json](./218495-century-age-of-ashes-dragon-eggs-edition.json) |
 | Century: Age of Ashes - Fellow Edition | 199640 | [199640-century-age-of-ashes-fellow-edition.json](./199640-century-age-of-ashes-fellow-edition.json) |
 | Century: Age of Ashes - First Flight Edition | 199632 | [199632-century-age-of-ashes-first-flight-edition.json](./199632-century-age-of-ashes-first-flight-edition.json) |
+| Century: Age of Ashes - Frost Heir Edition | 251014 | [251014-century-age-of-ashes-frost-heir-edition.json](./251014-century-age-of-ashes-frost-heir-edition.json) |
 | Century: Age of Ashes - Heroes of the Continent Bundle | 286546 | [286546-century-age-of-ashes-heroes-of-the-continent-bundle.json](./286546-century-age-of-ashes-heroes-of-the-continent-bundle.json) |
 | Century: Age of Ashes - Stormraiser Premium Edition | 218451 | [218451-century-age-of-ashes-stormraiser-premium-edition.json](./218451-century-age-of-ashes-stormraiser-premium-edition.json) |
 | Century: Age of Ashes - The Journeyer Edition | 218492 | [218492-century-age-of-ashes-the-journeyer-edition.json](./218492-century-age-of-ashes-the-journeyer-edition.json) |
@@ -5025,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubio | 381131 | [381131-cubio.json](./381131-cubio.json) |
 | Cubion | 75050 | [75050-cubion.json](./75050-cubion.json) |
 | Cubiques | 83541 | [83541-cubiques.json](./83541-cubiques.json) |
+| Cubis | 251044 | [251044-cubis.json](./251044-cubis.json) |
 | Cubis Creatures | 253017 | [253017-cubis-creatures.json](./253017-cubis-creatures.json) |
 | Cubis Kingdoms | 74403 | [74403-cubis-kingdoms.json](./74403-cubis-kingdoms.json) |
 | Cubiscape | 207824 | [207824-cubiscape.json](./207824-cubiscape.json) |
