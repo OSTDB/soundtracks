@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoundrel | 101605 | [101605-scoundrel.json](./101605-scoundrel.json) |
 | Scoundrel's Dungeon | 399600 | [399600-scoundrels-dungeon.json](./399600-scoundrels-dungeon.json) |
 | Scourge of Scavengers | 348274 | [348274-scourge-of-scavengers.json](./348274-scourge-of-scavengers.json) |
+| Scourge of the Village | 277947 | [277947-scourge-of-the-village.json](./277947-scourge-of-the-village.json) |
 | Scourge of War: Gettysburg | 77312 | [77312-scourge-of-war-gettysburg.json](./77312-scourge-of-war-gettysburg.json) |
 | Scourge of War: Waterloo - Ligny | 171038 | [171038-scourge-of-war-waterloo-ligny.json](./171038-scourge-of-war-waterloo-ligny.json) |
 | Scourge of War: Waterloo - Quatre Bras | 171039 | [171039-scourge-of-war-waterloo-quatre-bras.json](./171039-scourge-of-war-waterloo-quatre-bras.json) |
@@ -2311,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinzen Hollow | 292512 | [292512-shinzen-hollow.json](./292512-shinzen-hollow.json) |
 | Shiori no Kotoha: Dark Reflections | 186841 | [186841-shiori-no-kotoha-dark-reflections.json](./186841-shiori-no-kotoha-dark-reflections.json) |
 | Ship Adventure | 179185 | [179185-ship-adventure.json](./179185-ship-adventure.json) |
+| Ship Graveyard Simulator 2: Warships DLC | 277940 | [277940-ship-graveyard-simulator-2-warships-dlc.json](./277940-ship-graveyard-simulator-2-warships-dlc.json) |
 | Ship Graveyard Simulator 3 | 397763 | [397763-ship-graveyard-simulator-3.json](./397763-ship-graveyard-simulator-3.json) |
 | Ship Graveyard Simulator Collection | 331407 | [331407-ship-graveyard-simulator-collection.json](./331407-ship-graveyard-simulator-collection.json) |
 | Ship Graveyard Simulator: Submarines | 197405 | [197405-ship-graveyard-simulator-submarines.json](./197405-ship-graveyard-simulator-submarines.json) |
@@ -5537,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spawn: Armageddon | 4160 | [4160-spawn-armageddon.json](./4160-spawn-armageddon.json) |
 | Spawn: In the Demon's Hand | 4358 | [4358-spawn-in-the-demons-hand.json](./4358-spawn-in-the-demons-hand.json) |
 | Speak Lies | 127360 | [127360-speak-lies.json](./127360-speak-lies.json) |
+| Speak of the Devil I: A Deathly Proposition | 277941 | [277941-speak-of-the-devil-i-a-deathly-proposition.json](./277941-speak-of-the-devil-i-a-deathly-proposition.json) |
 | Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
 | Speaking Simulator 2018 | 111648 | [111648-speaking-simulator-2018.json](./111648-speaking-simulator-2018.json) |
 | Spear Leap Saga | 398413 | [398413-spear-leap-saga.json](./398413-spear-leap-saga.json) |
@@ -9046,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Ruler 2020 Gold | 25062 | [25062-supreme-ruler-2020-gold.json](./25062-supreme-ruler-2020-gold.json) |
 | Supreme Ruler 2020: Gold Edition | 51934 | [51934-supreme-ruler-2020-gold-edition.json](./51934-supreme-ruler-2020-gold-edition.json) |
 | Supreme Ruler 2030 | 219574 | [219574-supreme-ruler-2030.json](./219574-supreme-ruler-2030.json) |
+| Supreme Ruler The Great War Remastered | 277933 | [277933-supreme-ruler-the-great-war-remastered.json](./277933-supreme-ruler-the-great-war-remastered.json) |
 | Supreme Snowboarding | 9277 | [9277-supreme-snowboarding.json](./9277-supreme-snowboarding.json) |
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Supreme Warrior | 298560 | [298560-supreme-warrior.json](./298560-supreme-warrior.json) |
@@ -9234,6 +9238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swagman | 20810 | [20810-swagman.json](./20810-swagman.json) |
 | Swallowtail Butterfly Princess of Sexual Techniques | 82887 | [82887-swallowtail-butterfly-princess-of-sexual-techniques.json](./82887-swallowtail-butterfly-princess-of-sexual-techniques.json) |
 | Swallowtail: Ano Hi, Ao wo Koete | 402897 | [402897-swallowtail-ano-hi-ao-wo-koete.json](./402897-swallowtail-ano-hi-ao-wo-koete.json) |
+| Swamp & Towne | 277956 | [277956-swamp-and-towne.json](./277956-swamp-and-towne.json) |
 | Swamp Alchemy | 182981 | [182981-swamp-alchemy.json](./182981-swamp-alchemy.json) |
 | Swamp and Luig | 417555 | [417555-swamp-and-luig.json](./417555-swamp-and-luig.json) |
 | Swamp Attack | 87019 | [87019-swamp-attack.json](./87019-swamp-attack.json) |
