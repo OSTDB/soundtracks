@@ -3568,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Franken | 369599 | [369599-dr-franken.json](./369599-dr-franken.json) |
 | Dr. Jekyll and Mr. Hyde | 7961 | [7961-dr-jekyll-and-mr-hyde.json](./7961-dr-jekyll-and-mr-hyde.json) |
 | Dr. Kamasutra 2 | 336027 | [336027-dr-kamasutra-2.json](./336027-dr-kamasutra-2.json) |
+| Dr. Lunatic Supreme With Steam | 264664 | [264664-dr-lunatic-supreme-with-steam.json](./264664-dr-lunatic-supreme-with-steam.json) |
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
 | Dr. Mario Mania | 357345 | [357345-dr-mario-mania.json](./357345-dr-mario-mania.json) |
 | Dr. Mario World House Calls | 42602 | [42602-dr-mario-world-house-calls.json](./42602-dr-mario-world-house-calls.json) |
@@ -4120,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamrealm's Tower of Despair | 353379 | [353379-dreamrealms-tower-of-despair.json](./353379-dreamrealms-tower-of-despair.json) |
 | Dreams | 286686 | [286686-dreams.json](./286686-dreams.json) |
 | Dreams and Nightmares | 146277 | [146277-dreams-and-nightmares.json](./146277-dreams-and-nightmares.json) |
+| Dreams of a Geisha | 264700 | [264700-dreams-of-a-geisha.json](./264700-dreams-of-a-geisha.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
 | Dreams of Joy Departed | 317581 | [317581-dreams-of-joy-departed.json](./317581-dreams-of-joy-departed.json) |
 | Dreams of Sand | 306347 | [306347-dreams-of-sand.json](./306347-dreams-of-sand.json) |
