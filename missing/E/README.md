@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ele Blaze | 68662 | [68662-ele-blaze.json](./68662-ele-blaze.json) |
 | Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
 | Eleanor 3 | 286502 | [286502-eleanor-3.json](./286502-eleanor-3.json) |
+| Eleanor's Handmaid | 253967 | [253967-eleanors-handmaid.json](./253967-eleanors-handmaid.json) |
 | EleBall | 302944 | [302944-eleball.json](./302944-eleball.json) |
 | Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
@@ -917,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Stories: Mystic Woods - Collector's Edition | 356763 | [356763-enchanted-stories-mystic-woods-collectors-edition.json](./356763-enchanted-stories-mystic-woods-collectors-edition.json) |
 | Enchanted Trees Escape | 315669 | [315669-enchanted-trees-escape.json](./315669-enchanted-trees-escape.json) |
 | Enchanter Trilogy | 73789 | [73789-enchanter-trilogy.json](./73789-enchanter-trilogy.json) |
+| Enchantment Siege | 253966 | [253966-enchantment-siege.json](./253966-enchantment-siege.json) |
 | Encircled | 319977 | [319977-encircled.json](./319977-encircled.json) |
 | Enclave: Shadows of Twilight | 77980 | [77980-enclave-shadows-of-twilight.json](./77980-enclave-shadows-of-twilight.json) |
 | Encleverment Experiment | 67956 | [67956-encleverment-experiment.json](./67956-encleverment-experiment.json) |
@@ -938,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
 | End of Edge | 257384 | [257384-end-of-edge.json](./257384-end-of-edge.json) |
 | End of Garbage | 382774 | [382774-end-of-garbage.json](./382774-end-of-garbage.json) |
+| End of Knights | 253965 | [253965-end-of-knights.json](./253965-end-of-knights.json) |
 | End Of Life | 280346 | [280346-end-of-life.json](./280346-end-of-life.json) |
 | End of Life Care | 181886 | [181886-end-of-life-care.json](./181886-end-of-life-care.json) |
 | End of Line | 330158 | [330158-end-of-line.json](./330158-end-of-line.json) |
@@ -1116,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enslaved: Odyssey to the West | 2538 | [2538-enslaved-odyssey-to-the-west.json](./2538-enslaved-odyssey-to-the-west.json) |
 | Enslaved: Odyssey to the West - Pigsy's Perfect 10 | 17468 | [17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json](./17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json) |
 | Ensnared | 297091 | [297091-ensnared.json](./297091-ensnared.json) |
+| Ensol | 253963 | [253963-ensol.json](./253963-ensol.json) |
 | Ensou | 141212 | [141212-ensou.json](./141212-ensou.json) |
 | Enspell | 275145 | [275145-enspell.json](./275145-enspell.json) |
 | Entangled | 105321 | [105321-entangled.json](./105321-entangled.json) |
@@ -1159,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eon Altar: Episode 2 - Whispers in the Catacombs | 24875 | [24875-eon-altar-episode-2-whispers-in-the-catacombs.json](./24875-eon-altar-episode-2-whispers-in-the-catacombs.json) |
 | Eon Altar: Episode I - The Battle for Tarnum | 24874 | [24874-eon-altar-episode-i-the-battle-for-tarnum.json](./24874-eon-altar-episode-i-the-battle-for-tarnum.json) |
 | Eon of the Green: Area Crescent | 279138 | [279138-eon-of-the-green-area-crescent.json](./279138-eon-of-the-green-area-crescent.json) |
+| Eon Trooper | 253962 | [253962-eon-trooper.json](./253962-eon-trooper.json) |
 | Eona | 355025 | [355025-eona.json](./355025-eona.json) |
 | Eonia | 97180 | [97180-eonia.json](./97180-eonia.json) |
 | Eonwar | 217315 | [217315-eonwar.json](./217315-eonwar.json) |
@@ -1193,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Manager - Create Your Own Adventuring Agency | 26553 | [26553-epic-manager-create-your-own-adventuring-agency.json](./26553-epic-manager-create-your-own-adventuring-agency.json) |
 | Epic of Tarot | 285963 | [285963-epic-of-tarot.json](./285963-epic-of-tarot.json) |
 | Epic Palace: Knossos | 147370 | [147370-epic-palace-knossos.json](./147370-epic-palace-knossos.json) |
+| Epic Pandemonium | 253961 | [253961-epic-pandemonium.json](./253961-epic-pandemonium.json) |
 | Epic Paper Mario | 338735 | [338735-epic-paper-mario.json](./338735-epic-paper-mario.json) |
 | Epic Party Clicker | 314632 | [314632-epic-party-clicker.json](./314632-epic-party-clicker.json) |
 | Epic Pirate | 307723 | [307723-epic-pirate.json](./307723-epic-pirate.json) |
@@ -1204,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Roller Coasters: Antarctica | 255133 | [255133-epic-roller-coasters-antarctica.json](./255133-epic-roller-coasters-antarctica.json) |
 | Epic Roller Coasters: Candyland | 243695 | [243695-epic-roller-coasters-candyland.json](./243695-epic-roller-coasters-candyland.json) |
 | Epic Roller Coasters: Dynasty Dash | 310053 | [310053-epic-roller-coasters-dynasty-dash.json](./310053-epic-roller-coasters-dynasty-dash.json) |
+| Epic Roller Coasters: Kelimutu | 253960 | [253960-epic-roller-coasters-kelimutu.json](./253960-epic-roller-coasters-kelimutu.json) |
 | Epic Sax Game | 414339 | [414339-epic-sax-game.json](./414339-epic-sax-game.json) |
 | Epic Showdown | 34365 | [34365-epic-showdown.json](./34365-epic-showdown.json) |
 | Epic Skater | 70999 | [70999-epic-skater.json](./70999-epic-skater.json) |
