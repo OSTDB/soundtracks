@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Town | 219265 | [219265-family-town.json](./219265-family-town.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
 | Famine in Wonderland | 410272 | [410272-famine-in-wonderland.json](./410272-famine-in-wonderland.json) |
+| Famine Way | 277437 | [277437-famine-way.json](./277437-famine-way.json) |
 | Famista 2 | 86101 | [86101-famista-2.json](./86101-famista-2.json) |
 | Famista 3 | 95372 | [95372-famista-3.json](./95372-famista-3.json) |
 | Famory | 252158 | [252158-famory.json](./252158-famory.json) |
@@ -1631,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Face | 353895 | [353895-fish-face.json](./353895-fish-face.json) |
 | Fish Farm 3 | 360097 | [360097-fish-farm-3.json](./360097-fish-farm-3.json) |
 | Fish Fight! | 332998 | [332998-fish-fight.json](./332998-fish-fight.json) |
+| Fish Fighter | 277422 | [277422-fish-fighter.json](./277422-fish-fighter.json) |
 | Fish Fly Fever | 134685 | [134685-fish-fly-fever.json](./134685-fish-fly-fever.json) |
 | Fish for gold | 51584 | [51584-fish-for-gold.json](./51584-fish-for-gold.json) |
 | Fish For Reel | 87185 | [87185-fish-for-reel.json](./87185-fish-for-reel.json) |
@@ -2383,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foodie Bear | 121608 | [121608-foodie-bear.json](./121608-foodie-bear.json) |
 | Foodie Yama | 344439 | [344439-foodie-yama.json](./344439-foodie-yama.json) |
 | Foodo Kitchen | 23419 | [23419-foodo-kitchen.json](./23419-foodo-kitchen.json) |
+| FooFee | 277423 | [277423-foofee.json](./277423-foofee.json) |
 | Fool King | 356724 | [356724-fool-king.json](./356724-fool-king.json) |
 | Fool's Frontier | 291221 | [291221-fools-frontier.json](./291221-fools-frontier.json) |
 | Fool's Gold | 381029 | [381029-fools-gold.json](./381029-fools-gold.json) |
@@ -3330,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit of Choice | 309495 | [309495-fruit-of-choice.json](./309495-fruit-of-choice.json) |
 | Fruit Postal Service | 119777 | [119777-fruit-postal-service.json](./119777-fruit-postal-service.json) |
 | Fruit Salad Theory | 186807 | [186807-fruit-salad-theory.json](./186807-fruit-salad-theory.json) |
+| Fruit Search | 277379 | [277379-fruit-search.json](./277379-fruit-search.json) |
 | Fruit Slide | 359993 | [359993-fruit-slide.json](./359993-fruit-slide.json) |
 | Fruit Sudoku | 334750 | [334750-fruit-sudoku.json](./334750-fruit-sudoku.json) |
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
@@ -3613,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Quest | 99592 | [99592-futanari-quest.json](./99592-futanari-quest.json) |
 | Futanari Sex: The Gym | 203539 | [203539-futanari-sex-the-gym.json](./203539-futanari-sex-the-gym.json) |
 | Futanari Sex: Unexpected Roomate | 222288 | [222288-futanari-sex-unexpected-roomate.json](./222288-futanari-sex-unexpected-roomate.json) |
+| Futanari Tales | 277434 | [277434-futanari-tales.json](./277434-futanari-tales.json) |
 | Futanari Vampire Girlfriend | 163978 | [163978-futanari-vampire-girlfriend.json](./163978-futanari-vampire-girlfriend.json) |
 | Futanari's Sex World! | 382314 | [382314-futanaris-sex-world.json](./382314-futanaris-sex-world.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
