@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock-knock | 13153 | [13153-knock-knock.json](./13153-knock-knock.json) |
 | Knockback Knockout | 226452 | [226452-knockback-knockout.json](./226452-knockback-knockout.json) |
 | Knockbots | 212291 | [212291-knockbots.json](./212291-knockbots.json) |
+| Knocking Up My Nympho Neighbors | 235828 | [235828-knocking-up-my-nympho-neighbors.json](./235828-knocking-up-my-nympho-neighbors.json) |
 | Knockout 2: Wrath of the Karen | 244756 | [244756-knockout-2-wrath-of-the-karen.json](./244756-knockout-2-wrath-of-the-karen.json) |
 | Knockout Bowling VR | 129695 | [129695-knockout-bowling-vr.json](./129695-knockout-bowling-vr.json) |
 | Knockout City: Private Server Edition | 296669 | [296669-knockout-city-private-server-edition.json](./296669-knockout-city-private-server-edition.json) |
@@ -1575,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurai Nichiyoubi: Sombre Dimanche | 260982 | [260982-kurai-nichiyoubi-sombre-dimanche.json](./260982-kurai-nichiyoubi-sombre-dimanche.json) |
 | Kurayami | 94763 | [94763-kurayami.json](./94763-kurayami.json) |
 | Kurayami Zaka no Ie | 261878 | [261878-kurayami-zaka-no-ie.json](./261878-kurayami-zaka-no-ie.json) |
+| Kurenai Maid Tycoon | 235864 | [235864-kurenai-maid-tycoon.json](./235864-kurenai-maid-tycoon.json) |
 | Kurenai no Homura Sanada Ninpouchou | 136472 | [136472-kurenai-no-homura-sanada-ninpouchou.json](./136472-kurenai-no-homura-sanada-ninpouchou.json) |
 | Kurenkisho Quolta Amadeus EG | 134626 | [134626-kurenkisho-quolta-amadeus-eg.json](./134626-kurenkisho-quolta-amadeus-eg.json) |
 | Kuro Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396941 | [396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
