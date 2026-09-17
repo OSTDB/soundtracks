@@ -1641,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
 | Sex Inspector | 311144 | [311144-sex-inspector.json](./311144-sex-inspector.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
+| Sex Massage | 276822 | [276822-sex-massage.json](./276822-sex-massage.json) |
 | Sex Monsters for Sex Motel | 288886 | [288886-sex-monsters-for-sex-motel.json](./288886-sex-monsters-for-sex-motel.json) |
 | Sex Motel | 288885 | [288885-sex-motel.json](./288885-sex-motel.json) |
 | Sex Office Story | 171580 | [171580-sex-office-story.json](./171580-sex-office-story.json) |
@@ -2138,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter 2 Mountains | 51910 | [51910-shelter-2-mountains.json](./51910-shelter-2-mountains.json) |
 | Shelter 2: Special Edition | 51911 | [51911-shelter-2-special-edition.json](./51911-shelter-2-special-edition.json) |
 | Shelter from the Storm | 340377 | [340377-shelter-from-the-storm.json](./340377-shelter-from-the-storm.json) |
+| Shelter of Exiles | 276821 | [276821-shelter-of-exiles.json](./276821-shelter-of-exiles.json) |
 | Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
@@ -5089,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
 | Soundscape VR | 28879 | [28879-soundscape-vr.json](./28879-soundscape-vr.json) |
 | SoundSelf | 61869 | [61869-soundself.json](./61869-soundself.json) |
+| SoundTown | 276820 | [276820-soundtown.json](./276820-soundtown.json) |
 | Soup | 188612 | [188612-soup.json](./188612-soup.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
 | Souper Bloody | 397651 | [397651-souper-bloody.json](./397651-souper-bloody.json) |
@@ -5536,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spatium Locus | 139361 | [139361-spatium-locus.json](./139361-spatium-locus.json) |
 | Spatter | 40168 | [40168-spatter.json](./40168-spatter.json) |
 | Spattle Cats | 115045 | [115045-spattle-cats.json](./115045-spattle-cats.json) |
+| Spava | 276819 | [276819-spava.json](./276819-spava.json) |
 | Spawn | 49969 | [49969-spawn.json](./49969-spawn.json) |
 | Spawn of Evil | 45310 | [45310-spawn-of-evil.json](./45310-spawn-of-evil.json) |
 | Spawn: Armageddon | 4160 | [4160-spawn-armageddon.json](./4160-spawn-armageddon.json) |
@@ -5807,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
 | Spiky | 144281 | [144281-spiky.json](./144281-spiky.json) |
+| Spill the Beans | 276818 | [276818-spill-the-beans.json](./276818-spill-the-beans.json) |
 | Spin Blade Shop Simulator | 391728 | [391728-spin-blade-shop-simulator.json](./391728-spin-blade-shop-simulator.json) |
 | Spin City | 189199 | [189199-spin-city.json](./189199-spin-city.json) |
 | Spin Doctor | 175389 | [175389-spin-doctor.json](./175389-spin-doctor.json) |
@@ -7368,6 +7373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
+| Stray Blade: Valley of Strays | 276825 | [276825-stray-blade-valley-of-strays.json](./276825-stray-blade-valley-of-strays.json) |
 | Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
 | Stray of Lostcat | 385078 | [385078-stray-of-lostcat.json](./385078-stray-of-lostcat.json) |
