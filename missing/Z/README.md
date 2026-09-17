@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zed | 112831 | [112831-zed.json](./112831-zed.json) |
 | Zed Zone | 216810 | [216810-zed-zone.json](./216810-zed-zone.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
+| Zedipede | 279732 | [279732-zedipede.json](./279732-zedipede.json) |
 | Zee Artillery | 93068 | [93068-zee-artillery.json](./93068-zee-artillery.json) |
 | Zeebo F.C. Foot Camp | 91898 | [91898-zeebo-f-c-foot-camp.json](./91898-zeebo-f-c-foot-camp.json) |
 | Zeebo F.C. Super League | 91899 | [91899-zeebo-f-c-super-league.json](./91899-zeebo-f-c-super-league.json) |
