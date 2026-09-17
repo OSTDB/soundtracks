@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Desert: The North African Campaign of 1941-1943 | 73828 | [73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json](./73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json) |
 | Knights of the Drowned Table | 75114 | [75114-knights-of-the-drowned-table.json](./75114-knights-of-the-drowned-table.json) |
 | Knights of the Flexbox Table | 213965 | [213965-knights-of-the-flexbox-table.json](./213965-knights-of-the-flexbox-table.json) |
+| Knights of the Rogue Dungeon | 283273 | [283273-knights-of-the-rogue-dungeon.json](./283273-knights-of-the-rogue-dungeon.json) |
 | Knights of the Round | 224023 | [224023-knights-of-the-round.json](./224023-knights-of-the-round.json) |
 | Knights of the Round Torus | 186245 | [186245-knights-of-the-round-torus.json](./186245-knights-of-the-round-torus.json) |
 | Knights of Valour | 76639 | [76639-knights-of-valour.json](./76639-knights-of-valour.json) |
@@ -1454,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kula | 164992 | [164992-kula.json](./164992-kula.json) |
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
 | Kumamaru Adventure | 297638 | [297638-kumamaru-adventure.json](./297638-kumamaru-adventure.json) |
+| Kumamon Run | 283275 | [283275-kumamon-run.json](./283275-kumamon-run.json) |
 | Kumari Samsara: The Living Goddess | 402909 | [402909-kumari-samsara-the-living-goddess.json](./402909-kumari-samsara-the-living-goddess.json) |
 | Kumitate Battle: Kuttu Ketto | 70995 | [70995-kumitate-battle-kuttu-ketto.json](./70995-kumitate-battle-kuttu-ketto.json) |
 | Kumo | 120930 | [120930-kumo.json](./120930-kumo.json) |
