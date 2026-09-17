@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Chance to Green | 179655 | [179655-last-chance-to-green.json](./179655-last-chance-to-green.json) |
 | Last Chance VR | 123552 | [123552-last-chance-vr.json](./123552-last-chance-vr.json) |
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
+| Last Command: Scream Fest pack | 263039 | [263039-last-command-scream-fest-pack.json](./263039-last-command-scream-fest-pack.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
 | Last Dawn | 236847 | [236847-last-dawn.json](./236847-last-dawn.json) |
 | Last Day | 224026 | [224026-last-day.json](./224026-last-day.json) |
@@ -2564,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumiere | 415100 | [415100-lumiere.json](./415100-lumiere.json) |
 | Lumiland | 166726 | [166726-lumiland.json](./166726-lumiland.json) |
 | Luminastadt | 295258 | [295258-luminastadt.json](./295258-luminastadt.json) |
+| LumineNight | 263034 | [263034-luminenight.json](./263034-luminenight.json) |
 | Lumines Live! | 4691 | [4691-lumines-live.json](./4691-lumines-live.json) |
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
