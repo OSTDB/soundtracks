@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 404: Game Not Found | 379456 | [379456-404-game-not-found.json](./379456-404-game-not-found.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
+| 44 The Jail | 283306 | [283306-44-the-jail.json](./283306-44-the-jail.json) |
 | 46 Okunen Monogatari: The Shinka Ron | 26675 | [26675-46-okunen-monogatari-the-shinka-ron.json](./26675-46-okunen-monogatari-the-shinka-ron.json) |
 | 48 Pieces | 109036 | [109036-48-pieces.json](./109036-48-pieces.json) |
 | 4Fools1 | 349958 | [349958-4fools1.json](./349958-4fools1.json) |
