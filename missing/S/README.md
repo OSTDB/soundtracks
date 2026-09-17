@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
 | Sands of Fate | 414293 | [414293-sands-of-fate.json](./414293-sands-of-fate.json) |
 | Sands of Hope | 289459 | [289459-sands-of-hope.json](./289459-sands-of-hope.json) |
+| Sands of Mars | 280882 | [280882-sands-of-mars.json](./280882-sands-of-mars.json) |
 | Sands of Osiris | 60541 | [60541-sands-of-osiris.json](./60541-sands-of-osiris.json) |
 | Sands of Salzaar | 128004 | [128004-sands-of-salzaar.json](./128004-sands-of-salzaar.json) |
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
@@ -4414,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solus | 137016 | [137016-solus.json](./137016-solus.json) |
 | Solus Machina | 348340 | [348340-solus-machina.json](./348340-solus-machina.json) |
 | Solve & Roll | 259552 | [259552-solve-and-roll.json](./259552-solve-and-roll.json) |
+| Solve et Coagula | 280910 | [280910-solve-et-coagula.json](./280910-solve-et-coagula.json) |
 | Solve This! Emoji Puzzle | 213596 | [213596-solve-this-emoji-puzzle.json](./213596-solve-this-emoji-puzzle.json) |
 | Solver: The Bank Quest | 71450 | [71450-solver-the-bank-quest.json](./71450-solver-the-bank-quest.json) |
 | Solvimus | 370138 | [370138-solvimus.json](./370138-solvimus.json) |
@@ -4578,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Coconut Hunter | 330532 | [330532-sonic-coconut-hunter.json](./330532-sonic-coconut-hunter.json) |
 | Sonic Color Contrast | 129145 | [129145-sonic-color-contrast.json](./129145-sonic-color-contrast.json) |
 | Sonic Color Cursed | 337168 | [337168-sonic-color-cursed.json](./337168-sonic-color-cursed.json) |
+| Sonic Colors DX | 280937 | [280937-sonic-colors-dx.json](./280937-sonic-colors-dx.json) |
 | Sonic Colors: Ultimate | 150005 | [150005-sonic-colors-ultimate.json](./150005-sonic-colors-ultimate.json) |
 | Sonic Colors: Ultimate - 30th Anniversary Pack | 150157 | [150157-sonic-colors-ultimate-30th-anniversary-pack.json](./150157-sonic-colors-ultimate-30th-anniversary-pack.json) |
 | Sonic Darts | 261252 | [261252-sonic-darts.json](./261252-sonic-darts.json) |
@@ -6043,6 +6046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Babies | 82165 | [82165-spring-babies.json](./82165-spring-babies.json) |
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
 | Spring Cleaning | 179733 | [179733-spring-cleaning.json](./179733-spring-cleaning.json) |
+| Spring Crisis 2 | 280922 | [280922-spring-crisis-2.json](./280922-spring-crisis-2.json) |
 | Spring Gothic | 338216 | [338216-spring-gothic.json](./338216-spring-gothic.json) |
 | Spring Hell | 266770 | [266770-spring-hell.json](./266770-spring-hell.json) |
 | Spring in Summer | 291052 | [291052-spring-in-summer.json](./291052-spring-in-summer.json) |
@@ -9329,6 +9333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
 | Sweety Sweets | 259024 | [259024-sweety-sweets.json](./259024-sweety-sweets.json) |
 | Swell | 262974 | [262974-swell.json](./262974-swell.json) |
+| Swelldone | 280900 | [280900-swelldone.json](./280900-swelldone.json) |
 | Swervle | 413686 | [413686-swervle.json](./413686-swervle.json) |
 | Swift Death | 138229 | [138229-swift-death.json](./138229-swift-death.json) |
 | Swift*Stitch | 65439 | [65439-swift-stitch.json](./65439-swift-stitch.json) |
