@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw Detective 3 | 268027 | [268027-1001-jigsaw-detective-3.json](./268027-1001-jigsaw-detective-3.json) |
 | 1001 Jigsaw: 6 Magic Elements | 268037 | [268037-1001-jigsaw-6-magic-elements.json](./268037-1001-jigsaw-6-magic-elements.json) |
 | 1001 Jigsaw: Castles and Palaces 5 | 257464 | [257464-1001-jigsaw-castles-and-palaces-5.json](./257464-1001-jigsaw-castles-and-palaces-5.json) |
+| 1001 Jigsaw: Cute Cats 5 | 244869 | [244869-1001-jigsaw-cute-cats-5.json](./244869-1001-jigsaw-cute-cats-5.json) |
 | 1001 Jigsaw: Earth Chronicles 3 | 90040 | [90040-1001-jigsaw-earth-chronicles-3.json](./90040-1001-jigsaw-earth-chronicles-3.json) |
 | 1001 Jigsaw: Earth Chronicles 4 | 87252 | [87252-1001-jigsaw-earth-chronicles-4.json](./87252-1001-jigsaw-earth-chronicles-4.json) |
 | 1001 Jigsaw: Earth Chronicles 8 | 199582 | [199582-1001-jigsaw-earth-chronicles-8.json](./199582-1001-jigsaw-earth-chronicles-8.json) |
@@ -418,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Days to Live | 379898 | [379898-3-days-to-live.json](./379898-3-days-to-live.json) |
 | 3 Games in 1: Tak and the Power of Juju / SpongeBob SquarePants: SuperSponge / Rugrats: I Gotta Go Party | 82098 | [82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json](./82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json) |
 | 3 In Three | 86059 | [86059-3-in-three.json](./86059-3-in-three.json) |
+| 3 Last Chances | 244883 | [244883-3-last-chances.json](./244883-3-last-chances.json) |
 | 3 Little Pigs & Bad Wolf | 124267 | [124267-3-little-pigs-and-bad-wolf.json](./124267-3-little-pigs-and-bad-wolf.json) |
 | 3 Missing, 4am | 128589 | [128589-3-missing-4am.json](./128589-3-missing-4am.json) |
 | 3 Ninjas Kick Back | 5337 | [5337-3-ninjas-kick-back.json](./5337-3-ninjas-kick-back.json) |
