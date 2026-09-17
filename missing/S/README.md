@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Hotel | 148531 | [148531-scary-hotel.json](./148531-scary-hotel.json) |
 | Scary Math Teacher Boss Pranks | 303260 | [303260-scary-math-teacher-boss-pranks.json](./303260-scary-math-teacher-boss-pranks.json) |
 | Scary Maze | 102955 | [102955-scary-maze.json](./102955-scary-maze.json) |
+| Scary Maze Game | 265768 | [265768-scary-maze-game.json](./265768-scary-maze-game.json) |
 | Scary Mine VR | 278695 | [278695-scary-mine-vr.json](./278695-scary-mine-vr.json) |
 | Scary Monsters | 47214 | [47214-scary-monsters.json](./47214-scary-monsters.json) |
 | Scary Neighbor Survival | 100854 | [100854-scary-neighbor-survival.json](./100854-scary-neighbor-survival.json) |
@@ -874,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo: Case File 1 - The Glowing Bug Man | 78685 | [78685-scooby-doo-case-file-1-the-glowing-bug-man.json](./78685-scooby-doo-case-file-1-the-glowing-bug-man.json) |
 | Scooby-Doo! Mystery of the Fun Park Phantom | 2857 | [2857-scooby-doo-mystery-of-the-fun-park-phantom.json](./2857-scooby-doo-mystery-of-the-fun-park-phantom.json) |
 | Scooby-Doo!: Mistery Mayhem | 44634 | [44634-scooby-doo-mistery-mayhem.json](./44634-scooby-doo-mistery-mayhem.json) |
+| ScooMart | 265765 | [265765-scoomart.json](./265765-scoomart.json) |
 | Scoop Kick! | 190175 | [190175-scoop-kick.json](./190175-scoop-kick.json) |
 | Scoop'n Birds | 86076 | [86076-scoopn-birds.json](./86076-scoopn-birds.json) |
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
@@ -1606,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Hearts | 351108 | [351108-seven-hearts.json](./351108-seven-hearts.json) |
 | Seven Kingdoms: The Princess Problem | 336036 | [336036-seven-kingdoms-the-princess-problem.json](./336036-seven-kingdoms-the-princess-problem.json) |
+| Seven Knights Idle Adventure | 265746 | [265746-seven-knights-idle-adventure.json](./265746-seven-knights-idle-adventure.json) |
 | Seven Knights: Time Wanderer - Cosplay Costume Set | 237932 | [237932-seven-knights-time-wanderer-cosplay-costume-set.json](./237932-seven-knights-time-wanderer-cosplay-costume-set.json) |
 | Seven Knights: Time Wanderer - Special Edition | 238229 | [238229-seven-knights-time-wanderer-special-edition.json](./238229-seven-knights-time-wanderer-special-edition.json) |
 | Seven Little Spider Kittens | 276175 | [276175-seven-little-spider-kittens.json](./276175-seven-little-spider-kittens.json) |
@@ -3535,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
 | Slender: The Arrival | 2049 | [2049-slender-the-arrival.json](./2049-slender-the-arrival.json) |
+| Slender: The Arrival | 265723 | [265723-slender-the-arrival.json](./265723-slender-the-arrival.json) |
 | Slender: The Eight Pages | 12938 | [12938-slender-the-eight-pages.json](./12938-slender-the-eight-pages.json) |
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
@@ -4165,6 +4169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowdome | 260961 | [260961-snowdome.json](./260961-snowdome.json) |
 | Snowdreams -lost in winter- | 146324 | [146324-snowdreams-lost-in-winter.json](./146324-snowdreams-lost-in-winter.json) |
 | Snowdrop Escape | 170562 | [170562-snowdrop-escape.json](./170562-snowdrop-escape.json) |
+| Snowdrop the Blade Master | 265629 | [265629-snowdrop-the-blade-master.json](./265629-snowdrop-the-blade-master.json) |
 | SnowFight Go | 128011 | [128011-snowfight-go.json](./128011-snowfight-go.json) |
 | SnowJinks | 60554 | [60554-snowjinks.json](./60554-snowjinks.json) |
 | SnowJob | 411669 | [411669-snowjob.json](./411669-snowjob.json) |
@@ -4539,6 +4544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of Nor | 16848 | [16848-son-of-nor.json](./16848-son-of-nor.json) |
 | Son of Perun Kharkiv | 264626 | [264626-son-of-perun-kharkiv.json](./264626-son-of-perun-kharkiv.json) |
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
+| Son of the Mask | 265638 | [265638-son-of-the-mask.json](./265638-son-of-the-mask.json) |
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
 | Sonder: Lights of Little Tokyo | 219589 | [219589-sonder-lights-of-little-tokyo.json](./219589-sonder-lights-of-little-tokyo.json) |
 | Song of Horror - Episode 3 | 135151 | [135151-song-of-horror-episode-3.json](./135151-song-of-horror-episode-3.json) |
@@ -5596,6 +5602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan X 2 | 48650 | [48650-spartan-x-2.json](./48650-spartan-x-2.json) |
 | Spartan's Spear | 273407 | [273407-spartans-spear.json](./273407-spartans-spear.json) |
 | Sparticles | 107271 | [107271-sparticles.json](./107271-sparticles.json) |
+| Spasms of Stupidity | 265725 | [265725-spasms-of-stupidity.json](./265725-spasms-of-stupidity.json) |
 | Spatial Ops | 324913 | [324913-spatial-ops.json](./324913-spatial-ops.json) |
 | Spatium Locus | 139361 | [139361-spatium-locus.json](./139361-spatium-locus.json) |
 | Spatter | 40168 | [40168-spatter.json](./40168-spatter.json) |
@@ -8116,6 +8123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sundowner | 154022 | [154022-sundowner.json](./154022-sundowner.json) |
 | Sune och Hans Värld: Pussjakten | 129781 | [129781-sune-och-hans-varld-pussjakten.json](./129781-sune-och-hans-varld-pussjakten.json) |
 | Sunes Sportlov | 316081 | [316081-sunes-sportlov.json](./316081-sunes-sportlov.json) |
+| Sunfall: Children of Adiona | 265632 | [265632-sunfall-children-of-adiona.json](./265632-sunfall-children-of-adiona.json) |
 | Sunfinity | 356642 | [356642-sunfinity.json](./356642-sunfinity.json) |
 | Sunflower | 120968 | [120968-sunflower.json](./120968-sunflower.json) |
 | Sunflower Chess | 235212 | [235212-sunflower-chess.json](./235212-sunflower-chess.json) |
@@ -9129,6 +9137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperPro Snowboarding | 233525 | [233525-superpro-snowboarding.json](./233525-superpro-snowboarding.json) |
 | SuperQuest | 342636 | [342636-superquest.json](./342636-superquest.json) |
 | Supershot Golf Robot | 206714 | [206714-supershot-golf-robot.json](./206714-supershot-golf-robot.json) |
+| Supersonic | 265741 | [265741-supersonic.json](./265741-supersonic.json) |
 | Supersonic Highway Defenders | 355559 | [355559-supersonic-highway-defenders.json](./355559-supersonic-highway-defenders.json) |
 | SuperSpec Rallycross | 291740 | [291740-superspec-rallycross.json](./291740-superspec-rallycross.json) |
 | Supersports: The Alternative Olympics | 123008 | [123008-supersports-the-alternative-olympics.json](./123008-supersports-the-alternative-olympics.json) |
@@ -9308,6 +9317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
 | SUS: The Game | 282101 | [282101-sus-the-game.json](./282101-sus-the-game.json) |
 | Sus! | 377065 | [377065-sus.json](./377065-sus.json) |
+| Susan Taxpayer | 265722 | [265722-susan-taxpayer.json](./265722-susan-taxpayer.json) |
 | Sushi Bar | 298874 | [298874-sushi-bar.json](./298874-sushi-bar.json) |
 | Sushi Bar Express | 54416 | [54416-sushi-bar-express.json](./54416-sushi-bar-express.json) |
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
