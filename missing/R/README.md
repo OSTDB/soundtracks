@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Burn | 203566 | [203566-rabbit-burn.json](./203566-rabbit-burn.json) |
 | Rabbit Detective | 389983 | [389983-rabbit-detective.json](./389983-rabbit-detective.json) |
 | Rabbit Hole | 289347 | [289347-rabbit-hole.json](./289347-rabbit-hole.json) |
+| Rabbit Hop | 245417 | [245417-rabbit-hop.json](./245417-rabbit-hop.json) |
 | Rabbit in Dungeon | 316411 | [316411-rabbit-in-dungeon.json](./316411-rabbit-in-dungeon.json) |
 | Rabbit in the Clouds | 316849 | [316849-rabbit-in-the-clouds.json](./316849-rabbit-in-the-clouds.json) |
 | Rabbit Jump | 60004 | [60004-rabbit-jump.json](./60004-rabbit-jump.json) |
@@ -118,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaceRoom Racing Experience: Nurburgring Legends | 53167 | [53167-raceroom-racing-experience-nurburgring-legends.json](./53167-raceroom-racing-experience-nurburgring-legends.json) |
 | Racers Islands | 233229 | [233229-racers-islands.json](./233229-racers-islands.json) |
 | RaceTrap | 287213 | [287213-racetrap.json](./287213-racetrap.json) |
+| Raceway | 245416 | [245416-raceway.json](./245416-raceway.json) |
 | Raceway: Drag & Stock Racing | 168316 | [168316-raceway-drag-and-stock-racing.json](./168316-raceway-drag-and-stock-racing.json) |
 | RaceXXL Space | 367394 | [367394-racexxl-space.json](./367394-racexxl-space.json) |
 | Rachel and Ariane | 255101 | [255101-rachel-and-ariane.json](./255101-rachel-and-ariane.json) |
@@ -715,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit 2 | 73302 | [73302-reader-rabbit-2.json](./73302-reader-rabbit-2.json) |
 | Reader Rabbit Kindergarten | 301429 | [301429-reader-rabbit-kindergarten.json](./301429-reader-rabbit-kindergarten.json) |
 | Reader Rabbit Math Adventures Ages 4-6 | 313291 | [313291-reader-rabbit-math-adventures-ages-4-6.json](./313291-reader-rabbit-math-adventures-ages-4-6.json) |
+| Reader Rabbit: Beginner Addition | 245415 | [245415-reader-rabbit-beginner-addition.json](./245415-reader-rabbit-beginner-addition.json) |
 | Reader Rabbit: Kindergarten | 67333 | [67333-reader-rabbit-kindergarten.json](./67333-reader-rabbit-kindergarten.json) |
 | Reader Rabbit's Toddler | 73297 | [73297-reader-rabbits-toddler.json](./73297-reader-rabbits-toddler.json) |
 | Reading Raven | 104090 | [104090-reading-raven.json](./104090-reading-raven.json) |
@@ -2343,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robina Hood's Monster Hunt | 360567 | [360567-robina-hoods-monster-hunt.json](./360567-robina-hoods-monster-hunt.json) |
 | RobinBobin | 138220 | [138220-robinbobin.json](./138220-robinbobin.json) |
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
+| Roblox 64 | 245382 | [245382-roblox-64.json](./245382-roblox-64.json) |
 | Robman | 178614 | [178614-robman.json](./178614-robman.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
 | Robo Go | 165715 | [165715-robo-go.json](./165715-robo-go.json) |
@@ -2426,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Wants It All | 108325 | [108325-robot-wants-it-all.json](./108325-robot-wants-it-all.json) |
 | Robot Wars: Extreme Destruction | 78623 | [78623-robot-wars-extreme-destruction.json](./78623-robot-wars-extreme-destruction.json) |
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
+| Robotech: The Macross Saga | 245414 | [245414-robotech-the-macross-saga.json](./245414-robotech-the-macross-saga.json) |
 | Robotek | 87699 | [87699-robotek.json](./87699-robotek.json) |
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
 | Robotics;Notes | 7162 | [7162-robotics-notes.json](./7162-robotics-notes.json) |
@@ -2534,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Lift | 255178 | [255178-rocket-lift.json](./255178-rocket-lift.json) |
 | Rocket Mania | 195213 | [195213-rocket-mania.json](./195213-rocket-mania.json) |
 | Rocket of Whispers: Prologue | 107424 | [107424-rocket-of-whispers-prologue.json](./107424-rocket-of-whispers-prologue.json) |
+| Rocket Pinball | 245413 | [245413-rocket-pinball.json](./245413-rocket-pinball.json) |
 | Rocket Power: Zero Gravity Zone | 262089 | [262089-rocket-power-zero-gravity-zone.json](./262089-rocket-power-zero-gravity-zone.json) |
 | Rocket Riot | 20479 | [20479-rocket-riot.json](./20479-rocket-riot.json) |
 | Rocket Riot HD | 20646 | [20646-rocket-riot-hd.json](./20646-rocket-riot-hd.json) |
@@ -2568,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 2: Basic Master | 269878 | [269878-rockman-2-basic-master.json](./269878-rockman-2-basic-master.json) |
 | Rockman 2: Gray Zone | 269879 | [269879-rockman-2-gray-zone.json](./269879-rockman-2-gray-zone.json) |
 | Rockman 3: Claw | 269880 | [269880-rockman-3-claw.json](./269880-rockman-3-claw.json) |
+| Rockman 4: Burst Chaser X Air Sliding | 245380 | [245380-rockman-4-burst-chaser-x-air-sliding.json](./245380-rockman-4-burst-chaser-x-air-sliding.json) |
 | Rockman 7 FC | 137115 | [137115-rockman-7-fc.json](./137115-rockman-7-fc.json) |
 | Rockman 8 FC | 137116 | [137116-rockman-8-fc.json](./137116-rockman-8-fc.json) |
 | Rockman EXE 5: Kaizou Card - Part 1 | 352754 | [352754-rockman-exe-5-kaizou-card-part-1.json](./352754-rockman-exe-5-kaizou-card-part-1.json) |
