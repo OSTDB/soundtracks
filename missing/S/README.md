@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R. Hunter Scope Silent Assassin | 385175 | [385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json](./385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json) |
 | S.N.I.P.E.R. Hunter Scope Urban Warfare | 385174 | [385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json](./385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json) |
 | S.N.I.P.E.R.: Hunter Scope - Comprehensive Edition | 396929 | [396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json](./396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Diamond Edition | 271837 | [271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json](./271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - GOTY Edition | 283164 | [283164-s-n-i-p-e-r-hunter-scope-goty-edition.json](./283164-s-n-i-p-e-r-hunter-scope-goty-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Grand Edition | 315856 | [315856-s-n-i-p-e-r-hunter-scope-grand-edition.json](./315856-s-n-i-p-e-r-hunter-scope-grand-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Mega Edition | 317241 | [317241-s-n-i-p-e-r-hunter-scope-mega-edition.json](./317241-s-n-i-p-e-r-hunter-scope-mega-edition.json) |
@@ -1588,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setup Savior | 350448 | [350448-setup-savior.json](./350448-setup-savior.json) |
 | Seul (Alone): The entrée | 107863 | [107863-seul-alone-the-entree.json](./107863-seul-alone-the-entree.json) |
 | Seum: The Drunk Side of the Moon | 104676 | [104676-seum-the-drunk-side-of-the-moon.json](./104676-seum-the-drunk-side-of-the-moon.json) |
+| Seven | 271811 | [271811-seven.json](./271811-seven.json) |
 | Seven Blasphemies | 415142 | [415142-seven-blasphemies.json](./415142-seven-blasphemies.json) |
 | Seven Bullets Zombie Apocalypse | 117062 | [117062-seven-bullets-zombie-apocalypse.json](./117062-seven-bullets-zombie-apocalypse.json) |
 | Seven Cities | 188589 | [188589-seven-cities.json](./188589-seven-cities.json) |
@@ -6041,6 +6043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sporeborn Dark | 272907 | [272907-sporeborn-dark.json](./272907-sporeborn-dark.json) |
 | Sport & Fun: Swimming - Amazing Edition | 283165 | [283165-sport-and-fun-swimming-amazing-edition.json](./283165-sport-and-fun-swimming-amazing-edition.json) |
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
+| Sport & Fun: Swimming - Director's Cut | 271834 | [271834-sport-and-fun-swimming-directors-cut.json](./271834-sport-and-fun-swimming-directors-cut.json) |
 | Sport & Fun: Swimming - Ultimate Edition | 243370 | [243370-sport-and-fun-swimming-ultimate-edition.json](./243370-sport-and-fun-swimming-ultimate-edition.json) |
 | Sport & Fun: Swimming - Ultra Director's Cut | 328835 | [328835-sport-and-fun-swimming-ultra-directors-cut.json](./328835-sport-and-fun-swimming-ultra-directors-cut.json) |
 | Sport & Fun: Swimming - Ultra Extended | 328834 | [328834-sport-and-fun-swimming-ultra-extended.json](./328834-sport-and-fun-swimming-ultra-extended.json) |
@@ -9608,6 +9611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symmodance | 263756 | [263756-symmodance.json](./263756-symmodance.json) |
 | Sympathia | 277608 | [277608-sympathia.json](./277608-sympathia.json) |
 | Symphonics | 107934 | [107934-symphonics.json](./107934-symphonics.json) |
+| Symphony of Science | 271850 | [271850-symphony-of-science.json](./271850-symphony-of-science.json) |
 | Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
 | Symphony of War: The Nephilim Saga | 192840 | [192840-symphony-of-war-the-nephilim-saga.json](./192840-symphony-of-war-the-nephilim-saga.json) |
