@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oath | 169955 | [169955-oath.json](./169955-oath.json) |
 | Oath of peak | 231920 | [231920-oath-of-peak.json](./231920-oath-of-peak.json) |
 | Oatmeal | 159257 | [159257-oatmeal.json](./159257-oatmeal.json) |
+| Oba Doba | 238633 | [238633-oba-doba.json](./238633-oba-doba.json) |
 | Obake no Q-Taro: Oba Q Channel | 293908 | [293908-obake-no-q-taro-oba-q-channel.json](./293908-obake-no-q-taro-oba-q-channel.json) |
 | Obake no Q-Taro: Wan-wan Panic | 215139 | [215139-obake-no-q-taro-wan-wan-panic.json](./215139-obake-no-q-taro-wan-wan-panic.json) |
 | Obama Alien Defence | 282109 | [282109-obama-alien-defence.json](./282109-obama-alien-defence.json) |
@@ -1685,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owlette in the Sky | 359434 | [359434-owlette-in-the-sky.json](./359434-owlette-in-the-sky.json) |
 | Owlette's Playground Cleanup | 359435 | [359435-owlettes-playground-cleanup.json](./359435-owlettes-playground-cleanup.json) |
 | Owling. Crowling. Bowling! | 115613 | [115613-owling-crowling-bowling.json](./115613-owling-crowling-bowling.json) |
+| Owlman | 238637 | [238637-owlman.json](./238637-owlman.json) |
 | Own Coffee Shop | 120342 | [120342-own-coffee-shop.json](./120342-own-coffee-shop.json) |
 | Owner | 295528 | [295528-owner.json](./295528-owner.json) |
 | OwnRulesRPG | 259845 | [259845-ownrulesrpg.json](./259845-ownrulesrpg.json) |
