@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target | 250424 | [250424-target.json](./250424-target.json) |
 | Target | 88186 | [88186-target.json](./88186-target.json) |
+| Target G | 238619 | [238619-target-g.json](./238619-target-g.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
 | Target Toss Pro: Bags | 85431 | [85431-target-toss-pro-bags.json](./85431-target-toss-pro-bags.json) |
 | Target: Renegade | 381638 | [381638-target-renegade.json](./381638-target-renegade.json) |
@@ -1292,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
+| Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
 | Terraformers: Megastructures | 318782 | [318782-terraformers-megastructures.json](./318782-terraformers-megastructures.json) |
 | Terraformers: New Frontiers Bundle | 293763 | [293763-terraformers-new-frontiers-bundle.json](./293763-terraformers-new-frontiers-bundle.json) |
 | Terraformers: Supporter Edition | 271471 | [271471-terraformers-supporter-edition.json](./271471-terraformers-supporter-edition.json) |
@@ -1975,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Button Be | 213629 | [213629-the-button-be.json](./213629-the-button-be.json) |
 | The Button Be: Fields | 217542 | [217542-the-button-be-fields.json](./217542-the-button-be-fields.json) |
 | The Button Be: Unexpected | 217543 | [217543-the-button-be-unexpected.json](./217543-the-button-be-unexpected.json) |
+| The Button by Elendow | 238612 | [238612-the-button-by-elendow.json](./238612-the-button-by-elendow.json) |
 | The C64 Collection 1 | 214533 | [214533-the-c64-collection-1.json](./214533-the-c64-collection-1.json) |
 | The Cabin Factory | 325273 | [325273-the-cabin-factory.json](./325273-the-cabin-factory.json) |
 | The Cabin Game | 398960 | [398960-the-cabin-game.json](./398960-the-cabin-game.json) |
@@ -2390,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devilry Reservation: Сhapter II | 263036 | [263036-the-devilry-reservation-hapter-ii.json](./263036-the-devilry-reservation-hapter-ii.json) |
 | The Devils: A Visual Novel of WWII | 192381 | [192381-the-devils-a-visual-novel-of-wwii.json](./192381-the-devils-a-visual-novel-of-wwii.json) |
 | The Devilz Work | 315512 | [315512-the-devilz-work.json](./315512-the-devilz-work.json) |
+| The Devourer: Hunted Souls | 238626 | [238626-the-devourer-hunted-souls.json](./238626-the-devourer-hunted-souls.json) |
 | The Diary | 250356 | [250356-the-diary.json](./250356-the-diary.json) |
 | The Die Is Cast | 240474 | [240474-the-die-is-cast.json](./240474-the-die-is-cast.json) |
 | The Dig | 207 | [207-the-dig.json](./207-the-dig.json) |
@@ -3664,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Way Home | 390118 | [390118-the-long-way-home.json](./390118-the-long-way-home.json) |
 | The Long Winter: I Am Not an Animal | 390646 | [390646-the-long-winter-i-am-not-an-animal.json](./390646-the-long-winter-i-am-not-an-animal.json) |
 | The Longest Drift | 175441 | [175441-the-longest-drift.json](./175441-the-longest-drift.json) |
+| The Longest Dungeon | 238602 | [238602-the-longest-dungeon.json](./238602-the-longest-dungeon.json) |
 | The Longest Five Minutes | 44078 | [44078-the-longest-five-minutes.json](./44078-the-longest-five-minutes.json) |
 | The Longest Journey Remastered | 27658 | [27658-the-longest-journey-remastered.json](./27658-the-longest-journey-remastered.json) |
 | The Longest Road on Earth: World Tour Bundle | 223446 | [223446-the-longest-road-on-earth-world-tour-bundle.json](./223446-the-longest-road-on-earth-world-tour-bundle.json) |
@@ -4926,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Theater | 183077 | [183077-the-theater.json](./183077-the-theater.json) |
 | The Thief in the Dark | 194650 | [194650-the-thief-in-the-dark.json](./194650-the-thief-in-the-dark.json) |
 | The Thief, the Witch, the Toad, and the Mushroom. | 235726 | [235726-the-thief-the-witch-the-toad-and-the-mushroom.json](./235726-the-thief-the-witch-the-toad-and-the-mushroom.json) |
+| The Thing | 238608 | [238608-the-thing.json](./238608-the-thing.json) |
 | The Thing | 264857 | [264857-the-thing.json](./264857-the-thing.json) |
 | The Thing | 264859 | [264859-the-thing.json](./264859-the-thing.json) |
 | The Thing at the Window | 221750 | [221750-the-thing-at-the-window.json](./221750-the-thing-at-the-window.json) |
@@ -4960,6 +4966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tour of Duty | 145618 | [145618-the-tour-of-duty.json](./145618-the-tour-of-duty.json) |
 | The Touryst | 121748 | [121748-the-touryst.json](./121748-the-touryst.json) |
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
+| The Tower | 238604 | [238604-the-tower.json](./238604-the-tower.json) |
 | The Tower | 366928 | [366928-the-tower.json](./366928-the-tower.json) |
 | The Tower 2 | 120952 | [120952-the-tower-2.json](./120952-the-tower-2.json) |
 | The Tower of Druaga | 239167 | [239167-the-tower-of-druaga.json](./239167-the-tower-of-druaga.json) |
@@ -7485,6 +7492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
 | Tower Stack | 258031 | [258031-tower-stack.json](./258031-tower-stack.json) |
 | Tower Stack | 265743 | [265743-tower-stack.json](./265743-tower-stack.json) |
+| Tower Survivor | 238616 | [238616-tower-survivor.json](./238616-tower-survivor.json) |
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
 | Tower Walker: MMO Grind Simulator | 217504 | [217504-tower-walker-mmo-grind-simulator.json](./217504-tower-walker-mmo-grind-simulator.json) |
@@ -7528,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers Heritage | 372465 | [372465-towers-heritage.json](./372465-towers-heritage.json) |
 | Towers of Mergethorne | 362818 | [362818-towers-of-mergethorne.json](./362818-towers-of-mergethorne.json) |
 | Towers of Scale | 381624 | [381624-towers-of-scale.json](./381624-towers-of-scale.json) |
+| Towers of Thana | 238595 | [238595-towers-of-thana.json](./238595-towers-of-thana.json) |
 | Towers of Twilight | 53835 | [53835-towers-of-twilight.json](./53835-towers-of-twilight.json) |
 | Towers Saga | 391719 | [391719-towers-saga.json](./391719-towers-saga.json) |
 | Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
@@ -7868,6 +7877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Saluda Grade Scenario Pack 01 | 267409 | [267409-train-simulator-classic-saluda-grade-scenario-pack-01.json](./267409-train-simulator-classic-saluda-grade-scenario-pack-01.json) |
 | Train Simulator Classic: Santa Fe Classic Pack 01 | 227283 | [227283-train-simulator-classic-santa-fe-classic-pack-01.json](./227283-train-simulator-classic-santa-fe-classic-pack-01.json) |
 | Train Simulator Classic: Soldier Summit Route | 238487 | [238487-train-simulator-classic-soldier-summit-route.json](./238487-train-simulator-classic-soldier-summit-route.json) |
+| Train Simulator Classic: Suburban Glasgow - Airdrie Route Extension | 238621 | [238621-train-simulator-classic-suburban-glasgow-airdrie-route-extension.json](./238621-train-simulator-classic-suburban-glasgow-airdrie-route-extension.json) |
 | Train Simulator Classic: Tamns VTG Wagon Pack | 293393 | [293393-train-simulator-classic-tamns-vtg-wagon-pack.json](./293393-train-simulator-classic-tamns-vtg-wagon-pack.json) |
 | Train Simulator Classic: Wasatch Grade Scenario Pack 01 | 243375 | [243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json](./243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json) |
 | Train Simulator Classic: Western Maryland H-9 Class | 253432 | [253432-train-simulator-classic-western-maryland-h-9-class.json](./253432-train-simulator-classic-western-maryland-h-9-class.json) |
