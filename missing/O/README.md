@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opscam | 337156 | [337156-opscam.json](./337156-opscam.json) |
 | Optasia: The Last Visit | 391034 | [391034-optasia-the-last-visit.json](./391034-optasia-the-last-visit.json) |
 | Optica | 107226 | [107226-optica.json](./107226-optica.json) |
+| Optical Illusions | 282729 | [282729-optical-illusions.json](./282729-optical-illusions.json) |
 | Optika | 32137 | [32137-optika.json](./32137-optika.json) |
 | Optimum Link | 111665 | [111665-optimum-link.json](./111665-optimum-link.json) |
 | Option Monster | 266488 | [266488-option-monster.json](./266488-option-monster.json) |
@@ -1513,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Hill | 329124 | [329124-over-the-hill.json](./329124-over-the-hill.json) |
 | Over the Net | 295907 | [295907-over-the-net.json](./295907-over-the-net.json) |
 | Over the Net | 87181 | [87181-over-the-net.json](./87181-over-the-net.json) |
+| Over The Phone | 282676 | [282676-over-the-phone.json](./282676-over-the-phone.json) |
 | Over the Radio | 369086 | [369086-over-the-radio.json](./369086-over-the-radio.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
