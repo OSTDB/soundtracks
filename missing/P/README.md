@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painted Legend | 31896 | [31896-painted-legend.json](./31896-painted-legend.json) |
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
 | Painter Man!! | 342623 | [342623-painter-man.json](./342623-painter-man.json) |
+| Painting Mel-chan | 237505 | [237505-painting-mel-chan.json](./237505-painting-mel-chan.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
 | Paintings Restoration | 329576 | [329576-paintings-restoration.json](./329576-paintings-restoration.json) |
 | PaintPool | 334754 | [334754-paintpool.json](./334754-paintpool.json) |
@@ -826,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patapon 2: Art of War | 61093 | [61093-patapon-2-art-of-war.json](./61093-patapon-2-art-of-war.json) |
 | Patapon: Band Camp | 61092 | [61092-patapon-band-camp.json](./61092-patapon-band-camp.json) |
 | PatchCon! Defend the Library | 202948 | [202948-patchcon-defend-the-library.json](./202948-patchcon-defend-the-library.json) |
+| Patched World | 237481 | [237481-patched-world.json](./237481-patched-world.json) |
 | Patchwork Girl | 180242 | [180242-patchwork-girl.json](./180242-patchwork-girl.json) |
 | Patchworkz!: X-maz! | 185696 | [185696-patchworkz-x-maz.json](./185696-patchworkz-x-maz.json) |
 | Patchworld | 316399 | [316399-patchworld.json](./316399-patchworld.json) |
@@ -4336,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prospector | 296680 | [296680-prospector.json](./296680-prospector.json) |
 | Prospector | 91935 | [91935-prospector.json](./91935-prospector.json) |
 | Prospector Stanley | 183553 | [183553-prospector-stanley.json](./183553-prospector-stanley.json) |
+| Prospero | 237524 | [237524-prospero.json](./237524-prospero.json) |
 | Prost Grand Prix 1998 | 78696 | [78696-prost-grand-prix-1998.json](./78696-prost-grand-prix-1998.json) |
 | ProStroke Golf: World Tour 2007 | 20572 | [20572-prostroke-golf-world-tour-2007.json](./20572-prostroke-golf-world-tour-2007.json) |
 | Prot | 348351 | [348351-prot.json](./348351-prot.json) |
