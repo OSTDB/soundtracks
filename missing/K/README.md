@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keykode | 349867 | [349867-keykode.json](./349867-keykode.json) |
 | Keypress Mania | 373544 | [373544-keypress-mania.json](./373544-keypress-mania.json) |
 | Keyrin Loves You | 338737 | [338737-keyrin-loves-you.json](./338737-keyrin-loves-you.json) |
+| Keys and Kastles | 260248 | [260248-keys-and-kastles.json](./260248-keys-and-kastles.json) |
 | Keys to Wonderland | 399623 | [399623-keys-to-wonderland.json](./399623-keys-to-wonderland.json) |
 | Keystone Library | 226428 | [226428-keystone-library.json](./226428-keystone-library.json) |
 | KeyWords | 72079 | [72079-keywords.json](./72079-keywords.json) |
