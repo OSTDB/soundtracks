@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wienne | 127373 | [127373-wienne.json](./127373-wienne.json) |
 | Wife Massage | 291065 | [291065-wife-massage.json](./291065-wife-massage.json) |
 | Wife Quest: Limited Edition | 205258 | [205258-wife-quest-limited-edition.json](./205258-wife-quest-limited-edition.json) |
+| Wifey's Dilemma Revisited | 286139 | [286139-wifeys-dilemma-revisited.json](./286139-wifeys-dilemma-revisited.json) |
 | Wiffel Ball | 205806 | [205806-wiffel-ball.json](./205806-wiffel-ball.json) |
 | Wigged Out | 126584 | [126584-wigged-out.json](./126584-wigged-out.json) |
 | Wiggly Boy | 139424 | [139424-wiggly-boy.json](./139424-wiggly-boy.json) |
