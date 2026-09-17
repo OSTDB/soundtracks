@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viral Firar | 166698 | [166698-viral-firar.json](./166698-viral-firar.json) |
 | Viral Quarantine | 116404 | [116404-viral-quarantine.json](./116404-viral-quarantine.json) |
 | Viral Survival | 85475 | [85475-viral-survival.json](./85475-viral-survival.json) |
+| Virar | 276814 | [276814-virar.json](./276814-virar.json) |
 | Virche Evermore: ErroR:salvation | 147480 | [147480-virche-evermore-error-salvation.json](./147480-virche-evermore-error-salvation.json) |
 | Virgin Atlantic Challenge | 142439 | [142439-virgin-atlantic-challenge.json](./142439-virgin-atlantic-challenge.json) |
 | Viriax | 92481 | [92481-viriax.json](./92481-viriax.json) |
