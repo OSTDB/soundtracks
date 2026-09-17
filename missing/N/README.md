@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
 | NHRA Championship Drag Racing | 18269 | [18269-nhra-championship-drag-racing.json](./18269-nhra-championship-drag-racing.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
+| NHRA Championship Drag Racing: Speed for All - John Force Racing Pack | 263055 | [263055-nhra-championship-drag-racing-speed-for-all-john-force-racing-pack.json](./263055-nhra-championship-drag-racing-speed-for-all-john-force-racing-pack.json) |
 | NHRA Championship Drag Racing: Speed for All - Ultimate Edition | 212791 | [212791-nhra-championship-drag-racing-speed-for-all-ultimate-edition.json](./212791-nhra-championship-drag-racing-speed-for-all-ultimate-edition.json) |
 | NHRA Drag Racing 2 | 78037 | [78037-nhra-drag-racing-2.json](./78037-nhra-drag-racing-2.json) |
 | NHRA Drag Racing: Countdown to the Championship | 18270 | [18270-nhra-drag-racing-countdown-to-the-championship.json](./18270-nhra-drag-racing-countdown-to-the-championship.json) |
@@ -1936,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nozomu School Daze | 411649 | [411649-nozomu-school-daze.json](./411649-nozomu-school-daze.json) |
 | NPC Adventure: Post-Jam Edition | 308560 | [308560-npc-adventure-post-jam-edition.json](./308560-npc-adventure-post-jam-edition.json) |
 | Npc Problems: Vertex Coloring | 126655 | [126655-npc-problems-vertex-coloring.json](./126655-npc-problems-vertex-coloring.json) |
+| NPC Ville: The Story of the Blacksmith | 263031 | [263031-npc-ville-the-story-of-the-blacksmith.json](./263031-npc-ville-the-story-of-the-blacksmith.json) |
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
 | Npool: Skins Pack 1 | 316250 | [316250-npool-skins-pack-1.json](./316250-npool-skins-pack-1.json) |
 | Npool: Skins Pack 2 | 316249 | [316249-npool-skins-pack-2.json](./316249-npool-skins-pack-2.json) |
