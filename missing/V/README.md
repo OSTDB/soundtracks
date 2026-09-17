@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor of Man | 326576 | [326576-valor-of-man.json](./326576-valor-of-man.json) |
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
 | Valorbound | 222900 | [222900-valorbound.json](./222900-valorbound.json) |
+| Valravn | 244363 | [244363-valravn.json](./244363-valravn.json) |
 | Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
 | Valve Complete Pack | 55025 | [55025-valve-complete-pack.json](./55025-valve-complete-pack.json) |
 | Valvontaa | 399057 | [399057-valvontaa.json](./399057-valvontaa.json) |
@@ -372,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velkyn | 282018 | [282018-velkyn.json](./282018-velkyn.json) |
 | Velldeselba Senki: Tsubasa no Kunshou | 140026 | [140026-velldeselba-senki-tsubasa-no-kunshou.json](./140026-velldeselba-senki-tsubasa-no-kunshou.json) |
 | Vellum | 273394 | [273394-vellum.json](./273394-vellum.json) |
+| Velo | 244347 | [244347-velo.json](./244347-velo.json) |
 | Velocibox | 15548 | [15548-velocibox.json](./15548-velocibox.json) |
 | Velocide Overdrive | 393501 | [393501-velocide-overdrive.json](./393501-velocide-overdrive.json) |
 | Velocidevorium | 96765 | [96765-velocidevorium.json](./96765-velocidevorium.json) |
@@ -792,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VISK | 248914 | [248914-visk.json](./248914-visk.json) |
 | Vispire | 275574 | [275574-vispire.json](./275574-vispire.json) |
 | Vissekom | 142427 | [142427-vissekom.json](./142427-vissekom.json) |
+| Vista World | 244372 | [244372-vista-world.json](./244372-vista-world.json) |
 | Vistascapes VR | 32891 | [32891-vistascapes-vr.json](./32891-vistascapes-vr.json) |
 | Visual DOS 2024 | 364528 | [364528-visual-dos-2024.json](./364528-visual-dos-2024.json) |
 | Visual DOS: Integer Overflow | 364520 | [364520-visual-dos-integer-overflow.json](./364520-visual-dos-integer-overflow.json) |
