@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relicfall | 415078 | [415078-relicfall.json](./415078-relicfall.json) |
 | Relics 2: The Crusader's Tomb | 195236 | [195236-relics-2-the-crusaders-tomb.json](./195236-relics-2-the-crusaders-tomb.json) |
 | Relics of ancestors | 161334 | [161334-relics-of-ancestors.json](./161334-relics-of-ancestors.json) |
+| Relics of Cilldrea | 236915 | [236915-relics-of-cilldrea.json](./236915-relics-of-cilldrea.json) |
 | Relics: Dark Hours | 92494 | [92494-relics-dark-hours.json](./92494-relics-dark-hours.json) |
 | Relics: The 2nd Birth | 281393 | [281393-relics-the-2nd-birth.json](./281393-relics-the-2nd-birth.json) |
 | Relics: The Recur of Origin | 281392 | [281392-relics-the-recur-of-origin.json](./281392-relics-the-recur-of-origin.json) |
@@ -2268,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
 | Riven: The Sequel to Myst | 339943 | [339943-riven-the-sequel-to-myst.json](./339943-riven-the-sequel-to-myst.json) |
 | Riven: The Sequel to Myst | 347131 | [347131-riven-the-sequel-to-myst.json](./347131-riven-the-sequel-to-myst.json) |
+| RivenWorld: The First Era | 236937 | [236937-rivenworld-the-first-era.json](./236937-rivenworld-the-first-era.json) |
 | River Attack | 291574 | [291574-river-attack.json](./291574-river-attack.json) |
 | River City Girls 2 | 152321 | [152321-river-city-girls-2.json](./152321-river-city-girls-2.json) |
 | River City Girls Zero | 137195 | [137195-river-city-girls-zero.json](./137195-river-city-girls-zero.json) |
@@ -2722,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Tides | 275706 | [275706-rogue-tides.json](./275706-rogue-tides.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
 | Rogue Trooper: Quartz Zone Massacre | 21262 | [21262-rogue-trooper-quartz-zone-massacre.json](./21262-rogue-trooper-quartz-zone-massacre.json) |
+| Rogue Valley | 236910 | [236910-rogue-valley.json](./236910-rogue-valley.json) |
 | Rogue Warrior | 564 | [564-rogue-warrior.json](./564-rogue-warrior.json) |
 | Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
 | Rogue with the Dead | 248144 | [248144-rogue-with-the-dead.json](./248144-rogue-with-the-dead.json) |
