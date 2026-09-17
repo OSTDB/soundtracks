@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
 | Virago World | 374738 | [374738-virago-world.json](./374738-virago-world.json) |
 | Virago: Herstory 2 | 374735 | [374735-virago-herstory-2.json](./374735-virago-herstory-2.json) |
+| Viral | 265255 | [265255-viral.json](./265255-viral.json) |
 | Viral Firar | 166698 | [166698-viral-firar.json](./166698-viral-firar.json) |
 | Viral Quarantine | 116404 | [116404-viral-quarantine.json](./116404-viral-quarantine.json) |
 | Viral Survival | 85475 | [85475-viral-survival.json](./85475-viral-survival.json) |
@@ -1021,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Cute Tanks: Girls and Dinosaurs | 148474 | [148474-vr-cute-tanks-girls-and-dinosaurs.json](./148474-vr-cute-tanks-girls-and-dinosaurs.json) |
 | VR Dart Zone | 54459 | [54459-vr-dart-zone.json](./54459-vr-dart-zone.json) |
 | VR Dinosaur Invasion | 235730 | [235730-vr-dinosaur-invasion.json](./235730-vr-dinosaur-invasion.json) |
+| VR Dinosaur Island Paradise | 265260 | [265260-vr-dinosaur-island-paradise.json](./265260-vr-dinosaur-island-paradise.json) |
 | VR Dinosaur Pingpong | 235188 | [235188-vr-dinosaur-pingpong.json](./235188-vr-dinosaur-pingpong.json) |
 | VR Dinosaur Village | 282027 | [282027-vr-dinosaur-village.json](./282027-vr-dinosaur-village.json) |
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
