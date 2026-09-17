@@ -7537,6 +7537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Harrier | 26480 | [26480-strike-force-harrier.json](./26480-strike-force-harrier.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
+| Strike Solitaire | 276279 | [276279-strike-solitaire.json](./276279-strike-solitaire.json) |
 | Strike Solitaire | 54406 | [54406-strike-solitaire.json](./54406-strike-solitaire.json) |
 | Strike Squadron: Caracará | 31958 | [31958-strike-squadron-caracara.json](./31958-strike-squadron-caracara.json) |
 | Strike Suit Infinity | 9329 | [9329-strike-suit-infinity.json](./9329-strike-suit-infinity.json) |
@@ -9226,6 +9227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Susume! Kaizoku: Be Pirates! | 200661 | [200661-susume-kaizoku-be-pirates.json](./200661-susume-kaizoku-be-pirates.json) |
 | Sutte Hakkun | 42541 | [42541-sutte-hakkun.json](./42541-sutte-hakkun.json) |
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
+| Suv 4x4 Car Parking Simulator | 276286 | [276286-suv-4x4-car-parking-simulator.json](./276286-suv-4x4-car-parking-simulator.json) |
 | Suvarnabhumi Mahayuth | 214752 | [214752-suvarnabhumi-mahayuth.json](./214752-suvarnabhumi-mahayuth.json) |
 | Suze Orman's Money Game | 208352 | [208352-suze-ormans-money-game.json](./208352-suze-ormans-money-game.json) |
 | Suzu Monogatari | 66075 | [66075-suzu-monogatari.json](./66075-suzu-monogatari.json) |
@@ -9574,6 +9576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synchronity | 381116 | [381116-synchronity.json](./381116-synchronity.json) |
 | Synchronizacja | 187539 | [187539-synchronizacja.json](./187539-synchronizacja.json) |
 | SynCo 2321 | 192979 | [192979-synco-2321.json](./192979-synco-2321.json) |
+| Syncromania | 276285 | [276285-syncromania.json](./276285-syncromania.json) |
 | Syndicate of Souls | 267642 | [267642-syndicate-of-souls.json](./267642-syndicate-of-souls.json) |
 | Syndicate Plus | 77198 | [77198-syndicate-plus.json](./77198-syndicate-plus.json) |
 | Syndicate: American Revolt | 50 | [50-syndicate-american-revolt.json](./50-syndicate-american-revolt.json) |
