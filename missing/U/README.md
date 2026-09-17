@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Fantasy: Vampires vs Werewolves | 169359 | [169359-urban-fantasy-vampires-vs-werewolves.json](./169359-urban-fantasy-vampires-vs-werewolves.json) |
 | Urban Flow Chaos Control | 385173 | [385173-urban-flow-chaos-control.json](./385173-urban-flow-chaos-control.json) |
 | Urban Flow Vehicle Vault | 309083 | [309083-urban-flow-vehicle-vault.json](./309083-urban-flow-vehicle-vault.json) |
+| Urban Flow: Back to School Edition | 270789 | [270789-urban-flow-back-to-school-edition.json](./270789-urban-flow-back-to-school-edition.json) |
 | Urban Flow: Combo Edition | 328809 | [328809-urban-flow-combo-edition.json](./328809-urban-flow-combo-edition.json) |
 | Urban Flow: Complete Edition | 240226 | [240226-urban-flow-complete-edition.json](./240226-urban-flow-complete-edition.json) |
 | Urban Flow: Epic Edition | 328808 | [328808-urban-flow-epic-edition.json](./328808-urban-flow-epic-edition.json) |
