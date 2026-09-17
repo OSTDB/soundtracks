@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debris | 150097 | [150097-debris.json](./150097-debris.json) |
 | Debt Deadline | 272383 | [272383-debt-deadline.json](./272383-debt-deadline.json) |
 | Decadent Heir | 334217 | [334217-decadent-heir.json](./334217-decadent-heir.json) |
+| Decathlon | 242097 | [242097-decathlon.json](./242097-decathlon.json) |
 | Decay | 254575 | [254575-decay.json](./254575-decay.json) |
 | Decay | 272018 | [272018-decay.json](./272018-decay.json) |
 | Decay Z : Space Survival | 107152 | [107152-decay-z-space-survival.json](./107152-decay-z-space-survival.json) |
@@ -2770,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Sunlight, Endless Regrets | 362338 | [362338-distant-sunlight-endless-regrets.json](./362338-distant-sunlight-endless-regrets.json) |
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
 | Distant Worlds 2 | 138722 | [138722-distant-worlds-2.json](./138722-distant-worlds-2.json) |
+| Distant Worlds 2: Factions - Ikkuro and Dhayut | 242048 | [242048-distant-worlds-2-factions-ikkuro-and-dhayut.json](./242048-distant-worlds-2-factions-ikkuro-and-dhayut.json) |
 | Distant Worlds 2: Return of the Shakturi | 324930 | [324930-distant-worlds-2-return-of-the-shakturi.json](./324930-distant-worlds-2-return-of-the-shakturi.json) |
 | Distantia | 408029 | [408029-distantia.json](./408029-distantia.json) |
 | Distill, My Beating Heart! | 292019 | [292019-distill-my-beating-heart.json](./292019-distill-my-beating-heart.json) |
@@ -3087,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Twin Realities | 384661 | [384661-doki-doki-twin-realities.json](./384661-doki-doki-twin-realities.json) |
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
 | Doki Doki: The Dark Rainclouds | 333104 | [333104-doki-doki-the-dark-rainclouds.json](./333104-doki-doki-the-dark-rainclouds.json) |
+| Doki Doki! RainClouds | 242083 | [242083-doki-doki-rainclouds.json](./242083-doki-doki-rainclouds.json) |
 | Doki Monsters: Quest | 378792 | [378792-doki-monsters-quest.json](./378792-doki-monsters-quest.json) |
 | Doki Simp Club | 245885 | [245885-doki-simp-club.json](./245885-doki-simp-club.json) |
 | Doki x Doki Sasete!! | 202815 | [202815-doki-x-doki-sasete.json](./202815-doki-x-doki-sasete.json) |
@@ -3647,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DPS Idle 2 | 253970 | [253970-dps-idle-2.json](./253970-dps-idle-2.json) |
 | Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
 | Dr Scrime's Spook School | 13607 | [13607-dr-scrimes-spook-school.json](./13607-dr-scrimes-spook-school.json) |
+| Dr Smart Space Encyclopedia | 242046 | [242046-dr-smart-space-encyclopedia.json](./242046-dr-smart-space-encyclopedia.json) |
 | Dr. Bon Bon Puzzle | 229346 | [229346-dr-bon-bon-puzzle.json](./229346-dr-bon-bon-puzzle.json) |
 | Dr. Brain Thinking Games IQ Adventures | 72726 | [72726-dr-brain-thinking-games-iq-adventures.json](./72726-dr-brain-thinking-games-iq-adventures.json) |
 | Dr. Calgory's Lab: a 3D steampunk puzzle adventure game | 88312 | [88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json](./88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json) |
@@ -3790,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Sparking Zero: Shallot (Dragon Ball Legends) | 366817 | [366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json](./366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json) |
 | Dragon Ball Xenoverse 2: Dragon Ball Daima Pack | 366824 | [366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json](./366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json) |
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
+| Dragon Ball Z 5 | 242098 | [242098-dragon-ball-z-5.json](./242098-dragon-ball-z-5.json) |
 | Dragon Ball Z II: Gekishin Frieza!! | 48682 | [48682-dragon-ball-z-ii-gekishin-frieza.json](./48682-dragon-ball-z-ii-gekishin-frieza.json) |
 | Dragon Ball Z III: Ressen Jinzou Ningen | 48680 | [48680-dragon-ball-z-iii-ressen-jinzou-ningen.json](./48680-dragon-ball-z-iii-ressen-jinzou-ningen.json) |
 | Dragon Ball Z Life | 328039 | [328039-dragon-ball-z-life.json](./328039-dragon-ball-z-life.json) |
@@ -4045,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
 | Draw | 258014 | [258014-draw.json](./258014-draw.json) |
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
+| Draw and Color: Kawaii - Complete Edition | 242047 | [242047-draw-and-color-kawaii-complete-edition.json](./242047-draw-and-color-kawaii-complete-edition.json) |
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
 | Draw and Color: Kawaii - Magnificent Edition | 268554 | [268554-draw-and-color-kawaii-magnificent-edition.json](./268554-draw-and-color-kawaii-magnificent-edition.json) |
 | Draw and Color: Kawaii - Platinum Edition | 247589 | [247589-draw-and-color-kawaii-platinum-edition.json](./247589-draw-and-color-kawaii-platinum-edition.json) |
@@ -4959,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwelling | 309365 | [309365-dwelling.json](./309365-dwelling.json) |
 | Dwoemer of the Drill Faced Goddess | 377597 | [377597-dwoemer-of-the-drill-faced-goddess.json](./377597-dwoemer-of-the-drill-faced-goddess.json) |
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
+| Dyad | 242079 | [242079-dyad.json](./242079-dyad.json) |
 | Dyebreaker | 349389 | [349389-dyebreaker.json](./349389-dyebreaker.json) |
 | Dyg | 208581 | [208581-dyg.json](./208581-dyg.json) |
 | Dyger | 39673 | [39673-dyger.json](./39673-dyger.json) |
