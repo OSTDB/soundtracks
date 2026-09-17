@@ -2127,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatter | 137083 | [137083-shatter.json](./137083-shatter.json) |
 | Shatter | 358281 | [358281-shatter.json](./358281-shatter.json) |
 | Shatter and Spin | 293383 | [293383-shatter-and-spin.json](./293383-shatter-and-spin.json) |
+| Shatter Bot | 242084 | [242084-shatter-bot.json](./242084-shatter-bot.json) |
 | Shatter Everything | 96692 | [96692-shatter-everything.json](./96692-shatter-everything.json) |
 | Shatter Keep | 146826 | [146826-shatter-keep.json](./146826-shatter-keep.json) |
 | Shatter Remastered Deluxe | 202146 | [202146-shatter-remastered-deluxe.json](./202146-shatter-remastered-deluxe.json) |
@@ -9855,6 +9856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Bones 5 | 360592 | [360592-swords-and-bones-5.json](./360592-swords-and-bones-5.json) |
 | Swords & Bones: Complete Edition | 250365 | [250365-swords-and-bones-complete-edition.json](./250365-swords-and-bones-complete-edition.json) |
 | Swords & Bones: Definitive Edition | 247592 | [247592-swords-and-bones-definitive-edition.json](./247592-swords-and-bones-definitive-edition.json) |
+| Swords & Bones: Special Edition | 242054 | [242054-swords-and-bones-special-edition.json](./242054-swords-and-bones-special-edition.json) |
 | Swords & Crystals: Dragon Hatchling Pet | 298185 | [298185-swords-and-crystals-dragon-hatchling-pet.json](./298185-swords-and-crystals-dragon-hatchling-pet.json) |
 | Swords & Darkness | 85411 | [85411-swords-and-darkness.json](./85411-swords-and-darkness.json) |
 | Swords & Slippers | 374141 | [374141-swords-and-slippers.json](./374141-swords-and-slippers.json) |
