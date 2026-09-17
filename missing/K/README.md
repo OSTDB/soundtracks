@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
 | Kaboom Swing | 179151 | [179151-kaboom-swing.json](./179151-kaboom-swing.json) |
 | Kabuki-chou Reach Mahjong: Toupuusen | 42630 | [42630-kabuki-chou-reach-mahjong-toupuusen.json](./42630-kabuki-chou-reach-mahjong-toupuusen.json) |
+| Kabuto | 239776 | [239776-kabuto.json](./239776-kabuto.json) |
 | Kabuto Kuwagata | 242093 | [242093-kabuto-kuwagata.json](./242093-kabuto-kuwagata.json) |
 | Kader Mühürleri | 86127 | [86127-kader-muhurleri.json](./86127-kader-muhurleri.json) |
 | Kadin the Soul Eater | 303601 | [303601-kadin-the-soul-eater.json](./303601-kadin-the-soul-eater.json) |
@@ -1053,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiteboard Hero | 175339 | [175339-kiteboard-hero.json](./175339-kiteboard-hero.json) |
 | Kiteboarding | 304600 | [304600-kiteboarding.json](./304600-kiteboarding.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
+| Kiting Mechanics | 239739 | [239739-kiting-mechanics.json](./239739-kiting-mechanics.json) |
 | Kito Pizzas | 397691 | [397691-kito-pizzas.json](./397691-kito-pizzas.json) |
 | Kitori Academy | 136477 | [136477-kitori-academy.json](./136477-kitori-academy.json) |
 | Kitrinos: Inside the Cube | 105349 | [105349-kitrinos-inside-the-cube.json](./105349-kitrinos-inside-the-cube.json) |
