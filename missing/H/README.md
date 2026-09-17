@@ -2401,6 +2401,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
 | Home Deco Builder | 334096 | [334096-home-deco-builder.json](./334096-home-deco-builder.json) |
 | Home Defender | 278538 | [278538-home-defender.json](./278538-home-defender.json) |
+| Home Designer Makeover Blast: Jason's Industrial Loft | 255068 | [255068-home-designer-makeover-blast-jasons-industrial-loft.json](./255068-home-designer-makeover-blast-jasons-industrial-loft.json) |
+| Home Designer Makeover Blast: Liam & Beth's Studio Apartment | 255069 | [255069-home-designer-makeover-blast-liam-and-beths-studio-apartment.json](./255069-home-designer-makeover-blast-liam-and-beths-studio-apartment.json) |
+| Home Designer Makeover Blast: Mark & Mary's Master Bedroom | 255070 | [255070-home-designer-makeover-blast-mark-and-marys-master-bedroom.json](./255070-home-designer-makeover-blast-mark-and-marys-master-bedroom.json) |
+| Home Designer Makeover Blast: Sheila's Little Girl's Room | 255073 | [255073-home-designer-makeover-blast-sheilas-little-girls-room.json](./255073-home-designer-makeover-blast-sheilas-little-girls-room.json) |
+| Home Designer Makeover Blast: Sheila's Modern Kitchen | 255071 | [255071-home-designer-makeover-blast-sheilas-modern-kitchen.json](./255071-home-designer-makeover-blast-sheilas-modern-kitchen.json) |
+| Home Designer Makeover Blast: Steve's Sky Loft | 255072 | [255072-home-designer-makeover-blast-steves-sky-loft.json](./255072-home-designer-makeover-blast-steves-sky-loft.json) |
 | Home Designer: House Makeover | 239035 | [239035-home-designer-house-makeover.json](./239035-home-designer-house-makeover.json) |
 | Home Designer: Living Room | 169947 | [169947-home-designer-living-room.json](./169947-home-designer-living-room.json) |
 | Home Domes | 277962 | [277962-home-domes.json](./277962-home-domes.json) |
@@ -2850,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HotHead Heights | 215377 | [215377-hothead-heights.json](./215377-hothead-heights.json) |
 | Hotline Miami: Collected Edition | 77985 | [77985-hotline-miami-collected-edition.json](./77985-hotline-miami-collected-edition.json) |
 | Hotline Miami: Redux-Redux | 400935 | [400935-hotline-miami-redux-redux.json](./400935-hotline-miami-redux-redux.json) |
+| Hotline Omsk | 255156 | [255156-hotline-omsk.json](./255156-hotline-omsk.json) |
 | Hototogisu | 64355 | [64355-hototogisu.json](./64355-hototogisu.json) |
 | Hotpot Defense | 348245 | [348245-hotpot-defense.json](./348245-hotpot-defense.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
