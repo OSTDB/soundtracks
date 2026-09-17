@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobgoblins Against Dwarfs | 296915 | [296915-hobgoblins-against-dwarfs.json](./296915-hobgoblins-against-dwarfs.json) |
 | Hobo 3: Wanted | 294723 | [294723-hobo-3-wanted.json](./294723-hobo-3-wanted.json) |
 | Hobo 4: Total War | 294724 | [294724-hobo-4-total-war.json](./294724-hobo-4-total-war.json) |
+| Hobo Brawl | 237478 | [237478-hobo-brawl.json](./237478-hobo-brawl.json) |
 | Hobo with a Shotgun | 63872 | [63872-hobo-with-a-shotgun.json](./63872-hobo-with-a-shotgun.json) |
 | Hobo: Prison Brawl | 294146 | [294146-hobo-prison-brawl.json](./294146-hobo-prison-brawl.json) |
 | Hoboman | 255965 | [255965-hoboman.json](./255965-hoboman.json) |
