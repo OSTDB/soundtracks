@@ -2454,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
 | Clash of Vikings | 382912 | [382912-clash-of-vikings.json](./382912-clash-of-vikings.json) |
 | Clash of Warriors: 9 Legends | 56428 | [56428-clash-of-warriors-9-legends.json](./56428-clash-of-warriors-9-legends.json) |
+| Clash: Heroes of Feralia Terra | 269107 | [269107-clash-heroes-of-feralia-terra.json](./269107-clash-heroes-of-feralia-terra.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
 | Classic Arcades: Pong | 353953 | [353953-classic-arcades-pong.json](./353953-classic-arcades-pong.json) |
 | Classic Basic Games | 86021 | [86021-classic-basic-games.json](./86021-classic-basic-games.json) |
@@ -3132,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
 | Colors of Your World | 182988 | [182988-colors-of-your-world.json](./182988-colors-of-your-world.json) |
+| Colors: Lost Memories | 269122 | [269122-colors-lost-memories.json](./269122-colors-lost-memories.json) |
 | Colors! | 162848 | [162848-colors.json](./162848-colors.json) |
 | Colors! Maze | 193486 | [193486-colors-maze.json](./193486-colors-maze.json) |
 | Colors! Platform | 199607 | [199607-colors-platform.json](./199607-colors-platform.json) |
@@ -3381,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concourse X-Ray | 179172 | [179172-concourse-x-ray.json](./179172-concourse-x-ray.json) |
 | Concrete | 312181 | [312181-concrete.json](./312181-concrete.json) |
 | Concrete Genie: Digital Deluxe Edition | 132227 | [132227-concrete-genie-digital-deluxe-edition.json](./132227-concrete-genie-digital-deluxe-edition.json) |
+| Concrete Rage | 269117 | [269117-concrete-rage.json](./269117-concrete-rage.json) |
 | Concrete Spaces | 335871 | [335871-concrete-spaces.json](./335871-concrete-spaces.json) |
 | Concurrence | 166779 | [166779-concurrence.json](./166779-concurrence.json) |
 | Conde | 265424 | [265424-conde.json](./265424-conde.json) |
@@ -3458,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Colosseum | 217526 | [217526-conquerors-blade-colosseum.json](./217526-conquerors-blade-colosseum.json) |
 | Conqueror's Blade: Helheim | 217525 | [217525-conquerors-blade-helheim.json](./217525-conquerors-blade-helheim.json) |
 | Conquest | 86011 | [86011-conquest.json](./86011-conquest.json) |
+| Conquest Manager | 269129 | [269129-conquest-manager.json](./269129-conquest-manager.json) |
 | Conquest of Chesterwoode | 73222 | [73222-conquest-of-chesterwoode.json](./73222-conquest-of-chesterwoode.json) |
 | Conquest of Elysium 2 | 326798 | [326798-conquest-of-elysium-2.json](./326798-conquest-of-elysium-2.json) |
 | Conquest of Elysium 4 | 24605 | [24605-conquest-of-elysium-4.json](./24605-conquest-of-elysium-4.json) |
