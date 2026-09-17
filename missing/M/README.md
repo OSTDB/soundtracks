@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
 | Magic Paint | 88224 | [88224-magic-paint.json](./88224-magic-paint.json) |
 | Magic Paper | 250648 | [250648-magic-paper.json](./250648-magic-paper.json) |
+| Magic Paths HD | 263584 | [263584-magic-paths-hd.json](./263584-magic-paths-hd.json) |
 | Magic Patrol Envoy | 311135 | [311135-magic-patrol-envoy.json](./311135-magic-patrol-envoy.json) |
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
@@ -2077,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megamaze | 208393 | [208393-megamaze.json](./208393-megamaze.json) |
 | MegaMek | 108982 | [108982-megamek.json](./108982-megamek.json) |
 | Megami Ibunroku Persona | 240506 | [240506-megami-ibunroku-persona.json](./240506-megami-ibunroku-persona.json) |
+| Megami Ibunroku Persona Digital Collection | 263596 | [263596-megami-ibunroku-persona-digital-collection.json](./263596-megami-ibunroku-persona-digital-collection.json) |
 | Megami Meguri | 222529 | [222529-megami-meguri.json](./222529-megami-meguri.json) |
 | Megami Tensei Gaiden: Last Bible Special | 45263 | [45263-megami-tensei-gaiden-last-bible-special.json](./45263-megami-tensei-gaiden-last-bible-special.json) |
 | Megami Tensei Gaiden: Shinyaku Last Bible | 202957 | [202957-megami-tensei-gaiden-shinyaku-last-bible.json](./202957-megami-tensei-gaiden-shinyaku-last-bible.json) |
