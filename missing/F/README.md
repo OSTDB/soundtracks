@@ -1488,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Bigfoot | 56494 | [56494-finding-bigfoot.json](./56494-finding-bigfoot.json) |
 | Finding Brenda: Episode 1 | 169928 | [169928-finding-brenda-episode-1.json](./169928-finding-brenda-episode-1.json) |
 | Finding Chase | 359408 | [359408-finding-chase.json](./359408-finding-chase.json) |
+| Finding Dory | 237525 | [237525-finding-dory.json](./237525-finding-dory.json) |
 | Finding fairies | 254582 | [254582-finding-fairies.json](./254582-finding-fairies.json) |
 | Finding Fern | 239659 | [239659-finding-fern.json](./239659-finding-fern.json) |
 | Finding Frankie 2 | 404932 | [404932-finding-frankie-2.json](./404932-finding-frankie-2.json) |
