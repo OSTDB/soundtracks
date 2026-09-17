@@ -1850,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Planet | 376595 | [376595-chill-planet.json](./376595-chill-planet.json) |
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
 | Chill Town | 212814 | [212814-chill-town.json](./212814-chill-town.json) |
+| Chilled Chicken | 262421 | [262421-chilled-chicken.json](./262421-chilled-chicken.json) |
 | Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
 | Chillin' | 308265 | [308265-chillin.json](./308265-chillin.json) |
 | Chilling Urban Legends | 409670 | [409670-chilling-urban-legends.json](./409670-chilling-urban-legends.json) |
@@ -2449,7 +2450,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | Clandestine | 14465 | [14465-clandestine.json](./14465-clandestine.json) |
+| Clannad | 262473 | [262473-clannad.json](./262473-clannad.json) |
+| Clannad | 262492 | [262492-clannad.json](./262492-clannad.json) |
+| Clannad | 262494 | [262494-clannad.json](./262494-clannad.json) |
 | Clannad | 9607 | [9607-clannad.json](./9607-clannad.json) |
+| Clannad Full Voice | 262489 | [262489-clannad-full-voice.json](./262489-clannad-full-voice.json) |
 | Clannad: The Past Path | 138157 | [138157-clannad-the-past-path.json](./138157-clannad-the-past-path.json) |
 | ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
 | Clans | 17121 | [17121-clans.json](./17121-clans.json) |
