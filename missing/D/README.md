@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Zoo Gallery | 154465 | [154465-digital-zoo-gallery.json](./154465-digital-zoo-gallery.json) |
 | Digitalter | 285019 | [285019-digitalter.json](./285019-digitalter.json) |
 | Digits Jigsaw Puzzle - Numbers and Operations | 100749 | [100749-digits-jigsaw-puzzle-numbers-and-operations.json](./100749-digits-jigsaw-puzzle-numbers-and-operations.json) |
+| Dignacia | 253454 | [253454-dignacia.json](./253454-dignacia.json) |
 | Digs03 | 271303 | [271303-digs03.json](./271303-digs03.json) |
 | Digscovery | 249791 | [249791-digscovery.json](./249791-digscovery.json) |
 | Digseum | 325317 | [325317-digseum.json](./325317-digseum.json) |
@@ -3013,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs++ | 180814 | [180814-dogs.json](./180814-dogs.json) |
 | Dogsbody | 13600 | [13600-dogsbody.json](./13600-dogsbody.json) |
 | DogStation | 59441 | [59441-dogstation.json](./59441-dogstation.json) |
+| Dogu the Adventurer | 253457 | [253457-dogu-the-adventurer.json](./253457-dogu-the-adventurer.json) |
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
 | Dogwalk | 348639 | [348639-dogwalk.json](./348639-dogwalk.json) |
 | DogWorld Premium | 87265 | [87265-dogworld-premium.json](./87265-dogworld-premium.json) |
