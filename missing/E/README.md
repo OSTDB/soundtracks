@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Fairy Friends: Secret of the Fairy Queen | 68031 | [68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json](./68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json) |
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo DLC Pack | 238188 | [238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json](./238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json) |
+| Enchanted in the Moonlight: Miyabi, Kyoga & Samon - Luck in Love: The Key to Happiness | 238068 | [238068-enchanted-in-the-moonlight-miyabi-kyoga-and-samon-luck-in-love-the-key-to-happiness.json](./238068-enchanted-in-the-moonlight-miyabi-kyoga-and-samon-luck-in-love-the-key-to-happiness.json) |
 | Enchanted Kingdom: A Stranger's Venom | 188003 | [188003-enchanted-kingdom-a-strangers-venom.json](./188003-enchanted-kingdom-a-strangers-venom.json) |
 | Enchanted Kingdom: Descent of the Elders - Collector's Edition | 170996 | [170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json](./170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json) |
 | Enchanted Kingdom: The Secret of the Golden Lamp - Collector's Edition | 168306 | [168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json](./168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json) |
@@ -1810,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlost | 397695 | [397695-everlost.json](./397695-everlost.json) |
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
 | EverMerge: Match 3 Puzzle Game | 290414 | [290414-evermerge-match-3-puzzle-game.json](./290414-evermerge-match-3-puzzle-game.json) |
+| Evermoon | 238080 | [238080-evermoon.json](./238080-evermoon.json) |
 | Evernight | 300714 | [300714-evernight.json](./300714-evernight.json) |
 | Everplast | 191819 | [191819-everplast.json](./191819-everplast.json) |
 | EverQuest II: Age of Discovery | 23830 | [23830-everquest-ii-age-of-discovery.json](./23830-everquest-ii-age-of-discovery.json) |
@@ -1941,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution | 178006 | [178006-evolution.json](./178006-evolution.json) |
 | Evolution | 34674 | [34674-evolution.json](./34674-evolution.json) |
 | Evolution | 370144 | [370144-evolution.json](./370144-evolution.json) |
+| Evolution & Climate Bundle | 238043 | [238043-evolution-and-climate-bundle.json](./238043-evolution-and-climate-bundle.json) |
 | Evolution Battle Simulator | 126610 | [126610-evolution-battle-simulator.json](./126610-evolution-battle-simulator.json) |
 | Evolution Board Game: Climate Expansion | 238214 | [238214-evolution-board-game-climate-expansion.json](./238214-evolution-board-game-climate-expansion.json) |
 | Evolution Merge: Eat and Grow | 221378 | [221378-evolution-merge-eat-and-grow.json](./221378-evolution-merge-eat-and-grow.json) |
