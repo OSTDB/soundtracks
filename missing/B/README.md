@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Blazer | 370154 | [370154-blade-blazer.json](./370154-blade-blazer.json) |
 | Blade Bouncer 2: Revolution | 317823 | [317823-blade-bouncer-2-revolution.json](./317823-blade-bouncer-2-revolution.json) |
 | Blade Bound | 174817 | [174817-blade-bound.json](./174817-blade-bound.json) |
+| Blade Crafter | 248151 | [248151-blade-crafter.json](./248151-blade-crafter.json) |
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
 | Blade of God 2 | 174805 | [174805-blade-of-god-2.json](./174805-blade-of-god-2.json) |
