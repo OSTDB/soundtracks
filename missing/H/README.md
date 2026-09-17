@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
 | Hammer & Potion | 215351 | [215351-hammer-and-potion.json](./215351-hammer-and-potion.json) |
 | Hammer Away | 40181 | [40181-hammer-away.json](./40181-hammer-away.json) |
+| Hammer Bros | 264666 | [264666-hammer-bros.json](./264666-hammer-bros.json) |
 | Hammer climber - Hard Get Over | 105944 | [105944-hammer-climber-hard-get-over.json](./105944-hammer-climber-hard-get-over.json) |
 | Hammer Joe | 307586 | [307586-hammer-joe.json](./307586-hammer-joe.json) |
 | Hammer Keep | 180796 | [180796-hammer-keep.json](./180796-hammer-keep.json) |
@@ -1775,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats In Fallen Leaves Town | 311486 | [311486-hidden-cats-in-fallen-leaves-town.json](./311486-hidden-cats-in-fallen-leaves-town.json) |
 | Hidden Cats in Istanbul | 365755 | [365755-hidden-cats-in-istanbul.json](./365755-hidden-cats-in-istanbul.json) |
 | Hidden Cats In Japanese Village | 305137 | [305137-hidden-cats-in-japanese-village.json](./305137-hidden-cats-in-japanese-village.json) |
+| Hidden Cats in Rome | 264699 | [264699-hidden-cats-in-rome.json](./264699-hidden-cats-in-rome.json) |
 | Hidden Cats in Santa's Realm | 279125 | [279125-hidden-cats-in-santas-realm.json](./279125-hidden-cats-in-santas-realm.json) |
 | Hidden Cats in Spooky Town | 266771 | [266771-hidden-cats-in-spooky-town.json](./266771-hidden-cats-in-spooky-town.json) |
 | Hidden Cats in Town | 244274 | [244274-hidden-cats-in-town.json](./244274-hidden-cats-in-town.json) |
