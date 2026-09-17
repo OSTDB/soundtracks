@@ -2727,6 +2727,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Arcade Tetris | 234082 | [234082-micro-arcade-tetris.json](./234082-micro-arcade-tetris.json) |
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
 | Micro Games for Playdade! | 266242 | [266242-micro-games-for-playdade.json](./266242-micro-games-for-playdade.json) |
+| Micro Machines | 250468 | [250468-micro-machines.json](./250468-micro-machines.json) |
+| Micro Machines | 250470 | [250470-micro-machines.json](./250470-micro-machines.json) |
+| Micro Machines | 250471 | [250471-micro-machines.json](./250471-micro-machines.json) |
+| Micro Machines | 250472 | [250472-micro-machines.json](./250472-micro-machines.json) |
+| Micro Machines | 250473 | [250473-micro-machines.json](./250473-micro-machines.json) |
+| Micro Machines | 250474 | [250474-micro-machines.json](./250474-micro-machines.json) |
 | Micro Machines 1 and 2: Twin Turbo | 93056 | [93056-micro-machines-1-and-2-twin-turbo.json](./93056-micro-machines-1-and-2-twin-turbo.json) |
 | Micro Machines 2: Turbo Tournament | 8775 | [8775-micro-machines-2-turbo-tournament.json](./8775-micro-machines-2-turbo-tournament.json) |
 | Micro Machines V4 | 8512 | [8512-micro-machines-v4.json](./8512-micro-machines-v4.json) |
