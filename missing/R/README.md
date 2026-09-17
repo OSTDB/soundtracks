@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage of Tiger 2: Blood, Money and Tears | 64350 | [64350-rage-of-tiger-2-blood-money-and-tears.json](./64350-rage-of-tiger-2-blood-money-and-tears.json) |
 | Rage Quest | 75052 | [75052-rage-quest.json](./75052-rage-quest.json) |
 | Rage Quest: The Worst Game | 81254 | [81254-rage-quest-the-worst-game.json](./81254-rage-quest-the-worst-game.json) |
+| Rage Quit | 239165 | [239165-rage-quit.json](./239165-rage-quit.json) |
 | Rage Racer | 18698 | [18698-rage-racer.json](./18698-rage-racer.json) |
 | Rage Racing 3D | 242799 | [242799-rage-racing-3d.json](./242799-rage-racing-3d.json) |
 | Rage Room | 81093 | [81093-rage-room.json](./81093-rage-room.json) |
@@ -1046,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ninja: End of Honor | 6000 | [6000-red-ninja-end-of-honor.json](./6000-red-ninja-end-of-honor.json) |
 | Red Nose Guy Gauntlet Inc.: The Burnout | 371328 | [371328-red-nose-guy-gauntlet-inc-the-burnout.json](./371328-red-nose-guy-gauntlet-inc-the-burnout.json) |
 | Red Nose Guy Suika | 280326 | [280326-red-nose-guy-suika.json](./280326-red-nose-guy-suika.json) |
+| Red Oddities | 239155 | [239155-red-oddities.json](./239155-red-oddities.json) |
 | Red or Blue | 333620 | [333620-red-or-blue.json](./333620-red-or-blue.json) |
 | Red Pixel | 59925 | [59925-red-pixel.json](./59925-red-pixel.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
@@ -1860,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Rewind | 177995 | [177995-rhythm-rewind.json](./177995-rhythm-rewind.json) |
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
 | Rhythm Station | 277853 | [277853-rhythm-station.json](./277853-rhythm-station.json) |
+| Rhythm Storm | 239180 | [239180-rhythm-storm.json](./239180-rhythm-storm.json) |
 | Rhythm Tengoku: Tempo Up! | 280761 | [280761-rhythm-tengoku-tempo-up.json](./280761-rhythm-tengoku-tempo-up.json) |
 | Rhythm Town: Music Visualizer | 335251 | [335251-rhythm-town-music-visualizer.json](./335251-rhythm-town-music-visualizer.json) |
 | Rhythm Typer | 382798 | [382798-rhythm-typer.json](./382798-rhythm-typer.json) |
