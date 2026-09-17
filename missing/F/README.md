@@ -3008,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Sun | 329194 | [329194-fragile-sun.json](./329194-fragile-sun.json) |
 | Fragment Collapse | 409678 | [409678-fragment-collapse.json](./409678-fragment-collapse.json) |
 | Fragment Hunters | 213009 | [213009-fragment-hunters.json](./213009-fragment-hunters.json) |
+| Fragment of CISCD | 244357 | [244357-fragment-of-ciscd.json](./244357-fragment-of-ciscd.json) |
 | Fragment of Humanity | 224246 | [224246-fragment-of-humanity.json](./224246-fragment-of-humanity.json) |
 | fragment:AM | 218146 | [218146-fragment-am.json](./218146-fragment-am.json) |
 | Fragmented | 21326 | [21326-fragmented.json](./21326-fragmented.json) |
