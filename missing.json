@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T08:02:42.147Z",
-  "total_missing": 81728,
+  "generated_at": "2026-09-17T08:17:41.256Z",
+  "total_missing": 81778,
   "games": [
     {
       "igdb_id": 273453,
@@ -2028,6 +2028,11 @@
       "file": "missing/0-9/49881-3-d-ultra-pinball-thrillride.json"
     },
     {
+      "igdb_id": 268566,
+      "game_name": "3-D Zapper",
+      "file": "missing/0-9/268566-3-d-zapper.json"
+    },
+    {
       "igdb_id": 399632,
       "game_name": "3-in-1 Animated Jigsaws Bundle",
       "file": "missing/0-9/399632-3-in-1-animated-jigsaws-bundle.json"
@@ -2256,6 +2261,11 @@
       "igdb_id": 410226,
       "game_name": "3D Fast & Furious",
       "file": "missing/0-9/410226-3d-fast-and-furious.json"
+    },
+    {
+      "igdb_id": 268558,
+      "game_name": "3D Genesis",
+      "file": "missing/0-9/268558-3d-genesis.json"
     },
     {
       "igdb_id": 327387,
@@ -2501,6 +2511,11 @@
       "igdb_id": 262058,
       "game_name": "4 Colours",
       "file": "missing/0-9/262058-4-colours.json"
+    },
+    {
+      "igdb_id": 268570,
+      "game_name": "4 Game in One",
+      "file": "missing/0-9/268570-4-game-in-one.json"
     },
     {
       "igdb_id": 271481,
@@ -12548,6 +12563,11 @@
       "file": "missing/A/110880-andromalius.json"
     },
     {
+      "igdb_id": 268573,
+      "game_name": "AndroMan on the Moon",
+      "file": "missing/A/268573-androman-on-the-moon.json"
+    },
+    {
       "igdb_id": 211400,
       "game_name": "Andromeda Acolytes",
       "file": "missing/A/211400-andromeda-acolytes.json"
@@ -22336,6 +22356,11 @@
       "igdb_id": 61123,
       "game_name": "Atom Run",
       "file": "missing/A/61123-atom-run.json"
+    },
+    {
+      "igdb_id": 268574,
+      "game_name": "Atom Smasher",
+      "file": "missing/A/268574-atom-smasher.json"
     },
     {
       "igdb_id": 18180,
@@ -50758,6 +50783,11 @@
       "file": "missing/C/214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json"
     },
     {
+      "igdb_id": 268552,
+      "game_name": "Captain Tsubasa: Rise of New Champions - Ultimate Edition",
+      "file": "missing/C/268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json"
+    },
+    {
       "igdb_id": 256837,
       "game_name": "Captain Underpants: Epic Choice-o-rama",
       "file": "missing/C/256837-captain-underpants-epic-choice-o-rama.json"
@@ -54091,6 +54121,11 @@
       "igdb_id": 336025,
       "game_name": "Cats Story",
       "file": "missing/C/336025-cats-story.json"
+    },
+    {
+      "igdb_id": 268567,
+      "game_name": "Cats Super Bundle",
+      "file": "missing/C/268567-cats-super-bundle.json"
     },
     {
       "igdb_id": 325663,
@@ -71388,6 +71423,11 @@
       "file": "missing/C/295786-crowborne.json"
     },
     {
+      "igdb_id": 268535,
+      "game_name": "Crowd City",
+      "file": "missing/C/268535-crowd-city.json"
+    },
+    {
       "igdb_id": 274485,
       "game_name": "Crowd City: Zombie Edition",
       "file": "missing/C/274485-crowd-city-zombie-edition.json"
@@ -87753,6 +87793,11 @@
       "file": "missing/D/191497-disgaea-6-complete.json"
     },
     {
+      "igdb_id": 268541,
+      "game_name": "Disgaea 7: Glasses Costumes Set",
+      "file": "missing/D/268541-disgaea-7-glasses-costumes-set.json"
+    },
+    {
       "igdb_id": 214530,
       "game_name": "Disgaea 7: Vows of the Virtueless",
       "file": "missing/D/214530-disgaea-7-vows-of-the-virtueless.json"
@@ -92658,6 +92703,11 @@
       "file": "missing/D/268760-dr-chaos-shadows-of-mars.json"
     },
     {
+      "igdb_id": 268534,
+      "game_name": "Dr. Chess",
+      "file": "missing/D/268534-dr-chess.json"
+    },
+    {
       "igdb_id": 232181,
       "game_name": "Dr. Dino -Doctor & Dentist games for boys girls",
       "file": "missing/D/232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json"
@@ -93928,6 +93978,21 @@
       "file": "missing/D/111757-dragon-quest-monsters-terry-no-wonderland-sp.json"
     },
     {
+      "igdb_id": 268576,
+      "game_name": "Dragon Quest Monsters: The Dark Prince - Coach Joe's Dungeon Gym",
+      "file": "missing/D/268576-dragon-quest-monsters-the-dark-prince-coach-joes-dungeon-gym.json"
+    },
+    {
+      "igdb_id": 268553,
+      "game_name": "Dragon Quest Monsters: The Dark Prince - Digital Deluxe Edition",
+      "file": "missing/D/268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 268571,
+      "game_name": "Dragon Quest Monsters: The Dark Prince - Treasure Trunks",
+      "file": "missing/D/268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json"
+    },
+    {
       "igdb_id": 366884,
       "game_name": "Dragon Quest VII Reimagined",
       "file": "missing/D/366884-dragon-quest-vii-reimagined.json"
@@ -94576,6 +94641,11 @@
       "igdb_id": 250361,
       "game_name": "Draw and Color: Kawaii - Director's Cut",
       "file": "missing/D/250361-draw-and-color-kawaii-directors-cut.json"
+    },
+    {
+      "igdb_id": 268554,
+      "game_name": "Draw and Color: Kawaii - Magnificent Edition",
+      "file": "missing/D/268554-draw-and-color-kawaii-magnificent-edition.json"
     },
     {
       "igdb_id": 147973,
@@ -113608,6 +113678,11 @@
       "file": "missing/F/328819-fashion-princess-super-version.json"
     },
     {
+      "igdb_id": 268555,
+      "game_name": "Fashion Princess: Ultimate Edition",
+      "file": "missing/F/268555-fashion-princess-ultimate-edition.json"
+    },
+    {
       "igdb_id": 212493,
       "game_name": "Fashion Space",
       "file": "missing/F/212493-fashion-space.json"
@@ -122003,6 +122078,11 @@
       "file": "missing/F/147922-food-truck-tycoon-asian-cuisine.json"
     },
     {
+      "igdb_id": 268556,
+      "game_name": "Food Truck Tycoon: GOTY Edition",
+      "file": "missing/F/268556-food-truck-tycoon-goty-edition.json"
+    },
+    {
       "igdb_id": 343329,
       "game_name": "Food Truck VR",
       "file": "missing/F/343329-food-truck-vr.json"
@@ -122386,6 +122466,11 @@
       "igdb_id": 283148,
       "game_name": "For a Vast Future: Definitive Edition",
       "file": "missing/F/283148-for-a-vast-future-definitive-edition.json"
+    },
+    {
+      "igdb_id": 268557,
+      "game_name": "For a Vast Future: Deluxe Edition",
+      "file": "missing/F/268557-for-a-vast-future-deluxe-edition.json"
     },
     {
       "igdb_id": 283149,
@@ -127336,6 +127421,11 @@
       "igdb_id": 270792,
       "game_name": "Fun Chess: Premium Edition",
       "file": "missing/F/270792-fun-chess-premium-edition.json"
+    },
+    {
+      "igdb_id": 268559,
+      "game_name": "Fun Chess: Special Edition",
+      "file": "missing/F/268559-fun-chess-special-edition.json"
     },
     {
       "igdb_id": 208974,
@@ -136483,6 +136573,11 @@
       "file": "missing/G/333390-golden-idol-investigations-the-sins-of-new-wells.json"
     },
     {
+      "igdb_id": 268569,
+      "game_name": "Golden Idol Mysteries: DLC Bundle",
+      "file": "missing/G/268569-golden-idol-mysteries-dlc-bundle.json"
+    },
+    {
       "igdb_id": 333963,
       "game_name": "Golden Kingdom VR",
       "file": "missing/G/333963-golden-kingdom-vr.json"
@@ -136806,6 +136901,11 @@
       "igdb_id": 298594,
       "game_name": "Golf With Your Friends: Critical Hit Pack",
       "file": "missing/G/298594-golf-with-your-friends-critical-hit-pack.json"
+    },
+    {
+      "igdb_id": 268540,
+      "game_name": "Golf With Your Friends: Fairytale Fables Pack",
+      "file": "missing/G/268540-golf-with-your-friends-fairytale-fables-pack.json"
     },
     {
       "igdb_id": 336929,
@@ -140541,6 +140641,11 @@
       "igdb_id": 237937,
       "game_name": "Groove Coaster: Wai Wai Party!!!! - DJMax Respect Pack",
       "file": "missing/G/237937-groove-coaster-wai-wai-party-djmax-respect-pack.json"
+    },
+    {
+      "igdb_id": 268539,
+      "game_name": "Groove Coaster: Wai Wai Party!!!! - Hit Song + VTuber Pack 5",
+      "file": "missing/G/268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json"
     },
     {
       "igdb_id": 237936,
@@ -149408,6 +149513,11 @@
       "file": "missing/H/283147-hentai-girls-platinum-edition.json"
     },
     {
+      "igdb_id": 268560,
+      "game_name": "Hentai Girls: Premium Edition",
+      "file": "missing/H/268560-hentai-girls-premium-edition.json"
+    },
+    {
       "igdb_id": 294843,
       "game_name": "Hentai Girls: Sakura Romance",
       "file": "missing/H/294843-hentai-girls-sakura-romance.json"
@@ -149753,6 +149863,11 @@
       "file": "missing/H/308800-hentai-stars-amazing-edition.json"
     },
     {
+      "igdb_id": 268561,
+      "game_name": "Hentai Stars: Deluxe Edition",
+      "file": "missing/H/268561-hentai-stars-deluxe-edition.json"
+    },
+    {
       "igdb_id": 283172,
       "game_name": "Hentai Stars: Premium Edition",
       "file": "missing/H/283172-hentai-stars-premium-edition.json"
@@ -149946,6 +150061,11 @@
       "igdb_id": 260683,
       "game_name": "Hentai World: Expanded Edition",
       "file": "missing/H/260683-hentai-world-expanded-edition.json"
+    },
+    {
+      "igdb_id": 268562,
+      "game_name": "Hentai World: Legendary Edition",
+      "file": "missing/H/268562-hentai-world-legendary-edition.json"
     },
     {
       "igdb_id": 256266,
@@ -154146,6 +154266,11 @@
       "igdb_id": 309081,
       "game_name": "Hole io: Ancient DLC",
       "file": "missing/H/309081-hole-io-ancient-dlc.json"
+    },
+    {
+      "igdb_id": 268563,
+      "game_name": "Hole io: Complete Edition",
+      "file": "missing/H/268563-hole-io-complete-edition.json"
     },
     {
       "igdb_id": 380392,
@@ -168028,6 +168153,11 @@
       "file": "missing/I/167395-isle-of-jura.json"
     },
     {
+      "igdb_id": 268564,
+      "game_name": "Isle of Jura Fishing Trip: Complete Edition",
+      "file": "missing/I/268564-isle-of-jura-fishing-trip-complete-edition.json"
+    },
+    {
       "igdb_id": 375990,
       "game_name": "Isle of Lament",
       "file": "missing/I/375990-isle-of-lament.json"
@@ -171208,6 +171338,11 @@
       "file": "missing/J/263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json"
     },
     {
+      "igdb_id": 268529,
+      "game_name": "Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Electro Macro",
+      "file": "missing/J/268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json"
+    },
+    {
       "igdb_id": 274583,
       "game_name": "Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Halloween 5",
       "file": "missing/J/274583-jigsaw-puzzle-pack-pixel-puzzles-ultimate-halloween-5.json"
@@ -172676,6 +172811,11 @@
       "igdb_id": 36629,
       "game_name": "Juanito Arcade Mayhem",
       "file": "missing/J/36629-juanito-arcade-mayhem.json"
+    },
+    {
+      "igdb_id": 268568,
+      "game_name": "Jubeat Prop",
+      "file": "missing/J/268568-jubeat-prop.json"
     },
     {
       "igdb_id": 91903,
@@ -179601,6 +179741,11 @@
       "igdb_id": 35807,
       "game_name": "Kitten Super Adventure",
       "file": "missing/K/35807-kitten-super-adventure.json"
+    },
+    {
+      "igdb_id": 268565,
+      "game_name": "Kitten's Head Football: Complete Edition",
+      "file": "missing/K/268565-kittens-head-football-complete-edition.json"
     },
     {
       "igdb_id": 221970,
@@ -200343,6 +200488,11 @@
       "file": "missing/M/152201-mario-rabbids-sparks-of-hope.json"
     },
     {
+      "igdb_id": 268551,
+      "game_name": "Mario + Rabbids Sparks of Hope: + Rayman Edition",
+      "file": "missing/M/268551-mario-rabbids-sparks-of-hope-rayman-edition.json"
+    },
+    {
       "igdb_id": 401013,
       "game_name": "Mario + Rabbids Sparks of Hope: Galactic Prestige Bundle",
       "file": "missing/M/401013-mario-rabbids-sparks-of-hope-galactic-prestige-bundle.json"
@@ -202518,6 +202668,11 @@
       "file": "missing/M/259573-master-detective-archives-rain-code-ch-fubuki-fubukis-luckiest-day.json"
     },
     {
+      "igdb_id": 268575,
+      "game_name": "Master Detective Archives: Rain Code - Ch. Halara: Raining Cats & Dog",
+      "file": "missing/M/268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json"
+    },
+    {
       "igdb_id": 268772,
       "game_name": "Master Detective Archives: Rain Code - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective",
       "file": "missing/M/268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json"
@@ -202866,6 +203021,11 @@
       "igdb_id": 5683,
       "game_name": "Masters of the Universe: The Power of He-Man",
       "file": "missing/M/5683-masters-of-the-universe-the-power-of-he-man.json"
+    },
+    {
+      "igdb_id": 268542,
+      "game_name": "Masters: Harukanaru Augusta 3",
+      "file": "missing/M/268542-masters-harukanaru-augusta-3.json"
     },
     {
       "igdb_id": 36420,
@@ -213581,6 +213741,11 @@
       "igdb_id": 290431,
       "game_name": "Mixx Island: Remix Plus - Amazing Edition",
       "file": "missing/M/290431-mixx-island-remix-plus-amazing-edition.json"
+    },
+    {
+      "igdb_id": 268550,
+      "game_name": "Mixx Island: Remix Plus - Definitive Edition",
+      "file": "missing/M/268550-mixx-island-remix-plus-definitive-edition.json"
     },
     {
       "igdb_id": 284502,
@@ -225261,6 +225426,11 @@
       "igdb_id": 239385,
       "game_name": "Naruto x Boruto: Ultimate Ninja Storm Connections",
       "file": "missing/N/239385-naruto-x-boruto-ultimate-ninja-storm-connections.json"
+    },
+    {
+      "igdb_id": 268549,
+      "game_name": "Naruto x Boruto: Ultimate Ninja Storm Connections - Ultimate Edition",
+      "file": "missing/N/268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json"
     },
     {
       "igdb_id": 75842,
@@ -252583,6 +252753,11 @@
       "file": "missing/P/336534-pipe-inspector-plumbocalypse.json"
     },
     {
+      "igdb_id": 268572,
+      "game_name": "Pipe Line Puzzle",
+      "file": "missing/P/268572-pipe-line-puzzle.json"
+    },
+    {
       "igdb_id": 72519,
       "game_name": "Pipe Push Paradise",
       "file": "missing/P/72519-pipe-push-paradise.json"
@@ -253491,6 +253666,11 @@
       "igdb_id": 271833,
       "game_name": "Pixel Paint 2: Premium Edition",
       "file": "missing/P/271833-pixel-paint-2-premium-edition.json"
+    },
+    {
+      "igdb_id": 268545,
+      "game_name": "Pixel Paint 2: Special Edition",
+      "file": "missing/P/268545-pixel-paint-2-special-edition.json"
     },
     {
       "igdb_id": 260680,
@@ -259258,6 +259438,11 @@
       "file": "missing/P/142459-portals-of-pthaal.json"
     },
     {
+      "igdb_id": 268548,
+      "game_name": "Portals of Phereon",
+      "file": "missing/P/268548-portals-of-phereon.json"
+    },
+    {
       "igdb_id": 412401,
       "game_name": "Portentum",
       "file": "missing/P/412401-portentum.json"
@@ -261966,6 +262151,11 @@
       "igdb_id": 69867,
       "game_name": "Pro Skateboard Simulator",
       "file": "missing/P/69867-pro-skateboard-simulator.json"
+    },
+    {
+      "igdb_id": 268525,
+      "game_name": "Pro Stadium",
+      "file": "missing/P/268525-pro-stadium.json"
     },
     {
       "igdb_id": 165623,
@@ -285663,6 +285853,11 @@
       "file": "missing/S/271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json"
     },
     {
+      "igdb_id": 268546,
+      "game_name": "S.N.I.P.E.R.: Hunter Scope - Elite Edition",
+      "file": "missing/S/268546-s-n-i-p-e-r-hunter-scope-elite-edition.json"
+    },
+    {
       "igdb_id": 283164,
       "game_name": "S.N.I.P.E.R.: Hunter Scope - GOTY Edition",
       "file": "missing/S/283164-s-n-i-p-e-r-hunter-scope-goty-edition.json"
@@ -292381,6 +292576,11 @@
       "igdb_id": 135877,
       "game_name": "Seimbein",
       "file": "missing/S/135877-seimbein.json"
+    },
+    {
+      "igdb_id": 268532,
+      "game_name": "Seimei Handan",
+      "file": "missing/S/268532-seimei-handan.json"
     },
     {
       "igdb_id": 24971,
@@ -310468,6 +310668,11 @@
       "file": "missing/S/366288-sorry-i-surrounded-beauty.json"
     },
     {
+      "igdb_id": 268528,
+      "game_name": "Sort It!",
+      "file": "missing/S/268528-sort-it.json"
+    },
+    {
       "igdb_id": 335991,
       "game_name": "Sort of Justice: Chapter 1",
       "file": "missing/S/335991-sort-of-justice-chapter-1.json"
@@ -310541,6 +310746,11 @@
       "igdb_id": 242774,
       "game_name": "Sotsugyou: Graduation",
       "file": "missing/S/242774-sotsugyou-graduation.json"
+    },
+    {
+      "igdb_id": 268543,
+      "game_name": "Sotsugyou: Graduation - Final",
+      "file": "missing/S/268543-sotsugyou-graduation-final.json"
     },
     {
       "igdb_id": 285992,
@@ -315836,6 +316046,11 @@
       "igdb_id": 271834,
       "game_name": "Sport & Fun: Swimming - Director's Cut",
       "file": "missing/S/271834-sport-and-fun-swimming-directors-cut.json"
+    },
+    {
+      "igdb_id": 268547,
+      "game_name": "Sport & Fun: Swimming - Platinum Edition",
+      "file": "missing/S/268547-sport-and-fun-swimming-platinum-edition.json"
     },
     {
       "igdb_id": 243370,
@@ -360808,6 +361023,11 @@
       "file": "missing/T/89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json"
     },
     {
+      "igdb_id": 268538,
+      "game_name": "Theatrhythm: Final Bar Line - Bravely Default Pack",
+      "file": "missing/T/268538-theatrhythm-final-bar-line-bravely-default-pack.json"
+    },
+    {
       "igdb_id": 354543,
       "game_name": "Theatrhythm: Final Bar Line - Chrono Pack",
       "file": "missing/T/354543-theatrhythm-final-bar-line-chrono-pack.json"
@@ -360816,6 +361036,11 @@
       "igdb_id": 354519,
       "game_name": "Theatrhythm: Final Bar Line - Live A Live Pack",
       "file": "missing/T/354519-theatrhythm-final-bar-line-live-a-live-pack.json"
+    },
+    {
+      "igdb_id": 268537,
+      "game_name": "Theatrhythm: Final Bar Line - Mana Pack Vol. 2",
+      "file": "missing/T/268537-theatrhythm-final-bar-line-mana-pack-vol-2.json"
     },
     {
       "igdb_id": 354544,
@@ -382908,6 +383133,11 @@
       "file": "missing/U/240226-urban-flow-complete-edition.json"
     },
     {
+      "igdb_id": 268544,
+      "game_name": "Urban Flow: Elite Edition",
+      "file": "missing/U/268544-urban-flow-elite-edition.json"
+    },
+    {
       "igdb_id": 328808,
       "game_name": "Urban Flow: Epic Edition",
       "file": "missing/U/328808-urban-flow-epic-edition.json"
@@ -398528,6 +398758,11 @@
       "file": "missing/W/120932-woodwork-simulator.json"
     },
     {
+      "igdb_id": 268527,
+      "game_name": "Woody Woodpecker and Friends Volume 2",
+      "file": "missing/W/268527-woody-woodpecker-and-friends-volume-2.json"
+    },
+    {
       "igdb_id": 135894,
       "game_name": "Woody Woodpecker in Waterfools",
       "file": "missing/W/135894-woody-woodpecker-in-waterfools.json"
@@ -400301,6 +400536,11 @@
       "igdb_id": 89247,
       "game_name": "WorldCraft: mini sandbox world",
       "file": "missing/W/89247-worldcraft-mini-sandbox-world.json"
+    },
+    {
+      "igdb_id": 268526,
+      "game_name": "WorldCup Super Stadium",
+      "file": "missing/W/268526-worldcup-super-stadium.json"
     },
     {
       "igdb_id": 315679,
@@ -402966,6 +403206,16 @@
       "igdb_id": 335688,
       "game_name": "Yamame Climb",
       "file": "missing/Y/335688-yamame-climb.json"
+    },
+    {
+      "igdb_id": 268530,
+      "game_name": "Yamamura Misa Suspense: Kyoto Kurama Sansou Satsujin Jiken",
+      "file": "missing/Y/268530-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json"
+    },
+    {
+      "igdb_id": 268531,
+      "game_name": "Yamamura Misa Suspense: Kyoto Kurama Sansou Satsujin Jiken",
+      "file": "missing/Y/268531-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json"
     },
     {
       "igdb_id": 65474,
