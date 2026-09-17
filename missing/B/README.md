@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basilisk 2000 | 243390 | [243390-basilisk-2000.json](./243390-basilisk-2000.json) |
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
 | Bask: The Alchemist Frog | 338195 | [338195-bask-the-alchemist-frog.json](./338195-bask-the-alchemist-frog.json) |
+| Baskerville | 272355 | [272355-baskerville.json](./272355-baskerville.json) |
 | Basket Bowling + | 47309 | [47309-basket-bowling.json](./47309-basket-bowling.json) |
 | Basket Legends | 188017 | [188017-basket-legends.json](./188017-basket-legends.json) |
 | Basket Zombie | 282137 | [282137-basket-zombie.json](./282137-basket-zombie.json) |
@@ -3583,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce ASMR: Pentagon | 288912 | [288912-bounce-asmr-pentagon.json](./288912-bounce-asmr-pentagon.json) |
 | Bounce ASMR: Triangle | 288907 | [288907-bounce-asmr-triangle.json](./288907-bounce-asmr-triangle.json) |
 | Bounce Ball | 68653 | [68653-bounce-ball.json](./68653-bounce-ball.json) |
+| Bounce Ball Blitz | 272382 | [272382-bounce-ball-blitz.json](./272382-bounce-ball-blitz.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
 | Bounce Cat | 352747 | [352747-bounce-cat.json](./352747-bounce-cat.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
