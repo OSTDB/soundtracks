@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-night | 285457 | [285457-t-night.json](./285457-t-night.json) |
 | T-Racer | 266865 | [266865-t-racer.json](./266865-t-racer.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
+| T.D.Z. 3: Dark Way of Stalker | 242671 | [242671-t-d-z-3-dark-way-of-stalker.json](./242671-t-d-z-3-dark-way-of-stalker.json) |
 | T.E.C. 3001 | 14646 | [14646-t-e-c-3001.json](./14646-t-e-c-3001.json) |
 | T.G.I.F. | 292131 | [292131-t-g-i-f.json](./292131-t-g-i-f.json) |
 | T.R.A.G.: Tactical Rescue Assault Group - Mission of Mercy | 76599 | [76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
@@ -295,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takepoint.io | 194571 | [194571-takepoint-io.json](./194571-takepoint-io.json) |
 | Takeyariman | 222300 | [222300-takeyariman.json](./222300-takeyariman.json) |
 | Taking Root | 263045 | [263045-taking-root.json](./263045-taking-root.json) |
+| Takishawa is Dead | 242655 | [242655-takishawa-is-dead.json](./242655-takishawa-is-dead.json) |
 | Tako no Himitsu: Ocean of Secrets | 250031 | [250031-tako-no-himitsu-ocean-of-secrets.json](./250031-tako-no-himitsu-ocean-of-secrets.json) |
 | Takorita Meets Fries | 158181 | [158181-takorita-meets-fries.json](./158181-takorita-meets-fries.json) |
 | Takoyaki Party Survival | 213972 | [213972-takoyaki-party-survival.json](./213972-takoyaki-party-survival.json) |
@@ -395,6 +397,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Neon Sea: Collector's Edition | 228733 | [228733-tales-of-the-neon-sea-collectors-edition.json](./228733-tales-of-the-neon-sea-collectors-edition.json) |
 | Tales of The Nightmares: Episode One | 352834 | [352834-tales-of-the-nightmares-episode-one.json](./352834-tales-of-the-nightmares-episode-one.json) |
 | Tales of the Odd: Brain Hotel | 60510 | [60510-tales-of-the-odd-brain-hotel.json](./60510-tales-of-the-odd-brain-hotel.json) |
+| Tales of the Rays: Last Cradle | 242627 | [242627-tales-of-the-rays-last-cradle.json](./242627-tales-of-the-rays-last-cradle.json) |
+| Tales of the Rays: Recollection | 242630 | [242630-tales-of-the-rays-recollection.json](./242630-tales-of-the-rays-recollection.json) |
 | Tales of the Tempest | 19096 | [19096-tales-of-the-tempest.json](./19096-tales-of-the-tempest.json) |
 | Tales of the Traveling Swordsman | 60026 | [60026-tales-of-the-traveling-swordsman.json](./60026-tales-of-the-traveling-swordsman.json) |
 | Tales of the Underworld: Legends of Primordial Sea | 186337 | [186337-tales-of-the-underworld-legends-of-primordial-sea.json](./186337-tales-of-the-underworld-legends-of-primordial-sea.json) |
@@ -2313,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dawn Of Slenderman | 321358 | [321358-the-dawn-of-slenderman.json](./321358-the-dawn-of-slenderman.json) |
 | The Dawn: Sniper's Way | 189207 | [189207-the-dawn-snipers-way.json](./189207-the-dawn-snipers-way.json) |
 | The Dawning Clocks of Time | 168332 | [168332-the-dawning-clocks-of-time.json](./168332-the-dawning-clocks-of-time.json) |
+| The Day | 242631 | [242631-the-day.json](./242631-the-day.json) |
 | The Day Before | 142901 | [142901-the-day-before.json](./142901-the-day-before.json) |
 | The Day Nothing Happened | 70379 | [70379-the-day-nothing-happened.json](./70379-the-day-nothing-happened.json) |
 | The Day the World Broke | 7721 | [7721-the-day-the-world-broke.json](./7721-the-day-the-world-broke.json) |
@@ -5376,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World After | 184618 | [184618-the-world-after.json](./184618-the-world-after.json) |
 | The World Beyond | 389409 | [389409-the-world-beyond.json](./389409-the-world-beyond.json) |
 | The World Ends with You: Final Remix | 81143 | [81143-the-world-ends-with-you-final-remix.json](./81143-the-world-ends-with-you-final-remix.json) |
+| The World Hockey Championships | 242684 | [242684-the-world-hockey-championships.json](./242684-the-world-hockey-championships.json) |
 | The World Is Ruled According to Sexual Prowess So I’m Playing Dirty to Get My Harem: Episode 1 | 400241 | [400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json](./400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json) |
 | The World Next Door: Deluxe Edition | 124800 | [124800-the-world-next-door-deluxe-edition.json](./124800-the-world-next-door-deluxe-edition.json) |
 | The World of Cars Online | 70989 | [70989-the-world-of-cars-online.json](./70989-the-world-of-cars-online.json) |
@@ -6533,6 +6539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tree Talk | 383977 | [383977-tiny-tree-talk.json](./383977-tiny-tree-talk.json) |
 | Tiny Troopers Joint Ops XL | 85443 | [85443-tiny-troopers-joint-ops-xl.json](./85443-tiny-troopers-joint-ops-xl.json) |
 | Tiny Troopers Joint Ops: Zombie Edition | 201818 | [201818-tiny-troopers-joint-ops-zombie-edition.json](./201818-tiny-troopers-joint-ops-zombie-edition.json) |
+| Tiny Troopers: Global Ops - Digital Deluxe Bundle | 242677 | [242677-tiny-troopers-global-ops-digital-deluxe-bundle.json](./242677-tiny-troopers-global-ops-digital-deluxe-bundle.json) |
 | Tiny Troopers: Global Ops - Digital Deluxe Edition | 241358 | [241358-tiny-troopers-global-ops-digital-deluxe-edition.json](./241358-tiny-troopers-global-ops-digital-deluxe-edition.json) |
 | Tiny Vision | 161332 | [161332-tiny-vision.json](./161332-tiny-vision.json) |
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
@@ -6719,6 +6726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toewr le Fence | 157143 | [157143-toewr-le-fence.json](./157143-toewr-le-fence.json) |
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
 | Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
+| Tofu'Drift | 242629 | [242629-tofudrift.json](./242629-tofudrift.json) |
 | Together | 82054 | [82054-together.json](./82054-together.json) |
 | Together After Dark | 286654 | [286654-together-after-dark.json](./286654-together-after-dark.json) |
 | Together Bnb | 146310 | [146310-together-bnb.json](./146310-together-bnb.json) |
@@ -6752,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
 | Tokkyuu Shirei Solbrain | 215134 | [215134-tokkyuu-shirei-solbrain.json](./215134-tokkyuu-shirei-solbrain.json) |
+| Toko Toko Trouble | 242632 | [242632-toko-toko-trouble.json](./242632-toko-toko-trouble.json) |
 | Tokoro no Ma-Mahjong 2: Tokoro's Cup | 125973 | [125973-tokoro-no-ma-mahjong-2-tokoros-cup.json](./125973-tokoro-no-ma-mahjong-2-tokoros-cup.json) |
 | Tokoro-san no Daifugou | 125975 | [125975-tokoro-san-no-daifugou.json](./125975-tokoro-san-no-daifugou.json) |
 | Tokoro-san no Mah-Mahjong | 125974 | [125974-tokoro-san-no-mah-mahjong.json](./125974-tokoro-san-no-mah-mahjong.json) |
@@ -8133,6 +8142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Goblin: The Artist of Brimhaven | 402318 | [402318-trash-goblin-the-artist-of-brimhaven.json](./402318-trash-goblin-the-artist-of-brimhaven.json) |
 | Trash Heart | 329008 | [329008-trash-heart.json](./329008-trash-heart.json) |
 | Trash Horror Collection | 204091 | [204091-trash-horror-collection.json](./204091-trash-horror-collection.json) |
+| Trash Horror Collection 3 | 242674 | [242674-trash-horror-collection-3.json](./242674-trash-horror-collection-3.json) |
 | Trash is Fun | 153997 | [153997-trash-is-fun.json](./153997-trash-is-fun.json) |
 | Trash Magnate | 217318 | [217318-trash-magnate.json](./217318-trash-magnate.json) |
 | Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
