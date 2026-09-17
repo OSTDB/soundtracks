@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidol: Injoku ni Ochita Seiningyou | 108970 | [108970-raidol-injoku-ni-ochita-seiningyou.json](./108970-raidol-injoku-ni-ochita-seiningyou.json) |
 | Raids of Nohosphere | 116395 | [116395-raids-of-nohosphere.json](./116395-raids-of-nohosphere.json) |
 | Rail Estate | 387367 | [387367-rail-estate.json](./387367-rail-estate.json) |
+| Rail Gunner | 263567 | [263567-rail-gunner.json](./263567-rail-gunner.json) |
 | Rail Heist | 318410 | [318410-rail-heist.json](./318410-rail-heist.json) |
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
 | Rail Theory | 28773 | [28773-rail-theory.json](./28773-rail-theory.json) |
@@ -3063,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rozen Maiden AliBat: Record of Rozen War | 124736 | [124736-rozen-maiden-alibat-record-of-rozen-war.json](./124736-rozen-maiden-alibat-record-of-rozen-war.json) |
 | Rozen Maiden: Wechseln Sie Welt ab | 86091 | [86091-rozen-maiden-wechseln-sie-welt-ab.json](./86091-rozen-maiden-wechseln-sie-welt-ab.json) |
 | RPG Alchemy: Bestiary I | 324487 | [324487-rpg-alchemy-bestiary-i.json](./324487-rpg-alchemy-bestiary-i.json) |
+| RPG Bundle | 263559 | [263559-rpg-bundle.json](./263559-rpg-bundle.json) |
 | RPG Creator for iOS | 61099 | [61099-rpg-creator-for-ios.json](./61099-rpg-creator-for-ios.json) |
 | RPG Driver | 126560 | [126560-rpg-driver.json](./126560-rpg-driver.json) |
 | RPG Golf with Vampires | 263759 | [263759-rpg-golf-with-vampires.json](./263759-rpg-golf-with-vampires.json) |
