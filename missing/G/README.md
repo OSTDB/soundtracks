@@ -1556,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods Wars: Infinity Epic | 267462 | [267462-gods-wars-infinity-epic.json](./267462-gods-wars-infinity-epic.json) |
 | Gods' Margarita | 197368 | [197368-gods-margarita.json](./197368-gods-margarita.json) |
 | GodsArena Online | 368541 | [368541-godsarena-online.json](./368541-godsarena-online.json) |
+| Godsend Arena | 235853 | [235853-godsend-arena.json](./235853-godsend-arena.json) |
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
 | Godsworn | 213612 | [213612-godsworn.json](./213612-godsworn.json) |
 | Godwalker | 260240 | [260240-godwalker.json](./260240-godwalker.json) |
