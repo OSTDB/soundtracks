@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden Trilogy | 42729 | [42729-ninja-gaiden-trilogy.json](./42729-ninja-gaiden-trilogy.json) |
 | Ninja Gaiden: Dragon Scroll | 269875 | [269875-ninja-gaiden-dragon-scroll.json](./269875-ninja-gaiden-dragon-scroll.json) |
 | Ninja Gaiden: Master Collection - Version D | 222501 | [222501-ninja-gaiden-master-collection-version-d.json](./222501-ninja-gaiden-master-collection-version-d.json) |
+| Ninja Gardening Simulator | 281531 | [281531-ninja-gardening-simulator.json](./281531-ninja-gardening-simulator.json) |
 | Ninja Gear | 322583 | [322583-ninja-gear.json](./322583-ninja-gear.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Hattori-kun | 346042 | [346042-ninja-hattori-kun.json](./346042-ninja-hattori-kun.json) |
