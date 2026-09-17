@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jamie Quest | 327373 | [327373-jamie-quest.json](./327373-jamie-quest.json) |
 | Jammer | 67972 | [67972-jammer.json](./67972-jammer.json) |
 | Jammin' | 126016 | [126016-jammin.json](./126016-jammin.json) |
+| Jammin' With Mario | 283911 | [283911-jammin-with-mario.json](./283911-jammin-with-mario.json) |
 | Jamp | 374155 | [374155-jamp.json](./374155-jamp.json) |
 | Jampack Summer 2K | 43318 | [43318-jampack-summer-2k.json](./43318-jampack-summer-2k.json) |
 | Jampack: Volume 12 | 43316 | [43316-jampack-volume-12.json](./43316-jampack-volume-12.json) |
