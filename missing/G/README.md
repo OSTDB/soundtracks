@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardenscapes | 320939 | [320939-gardenscapes.json](./320939-gardenscapes.json) |
 | Gardenscapes: Mansion Makeover | 294685 | [294685-gardenscapes-mansion-makeover.json](./294685-gardenscapes-mansion-makeover.json) |
 | Gardia | 39684 | [39684-gardia.json](./39684-gardia.json) |
+| Gardman | 282687 | [282687-gardman.json](./282687-gardman.json) |
 | Garenburg Woods | 75915 | [75915-garenburg-woods.json](./75915-garenburg-woods.json) |
 | Garetto | 163917 | [163917-garetto.json](./163917-garetto.json) |
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
@@ -1375,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin and Coins II: The Lost Recipes | 275563 | [275563-goblin-and-coins-ii-the-lost-recipes.json](./275563-goblin-and-coins-ii-the-lost-recipes.json) |
 | Goblin Attack | 161324 | [161324-goblin-attack.json](./161324-goblin-attack.json) |
 | Goblin Attack | 408874 | [408874-goblin-attack.json](./408874-goblin-attack.json) |
+| Goblin Cleanup | 282692 | [282692-goblin-cleanup.json](./282692-goblin-cleanup.json) |
 | Goblin Company | 386855 | [386855-goblin-company.json](./386855-goblin-company.json) |
 | Goblin Dice and Cleave | 370140 | [370140-goblin-dice-and-cleave.json](./370140-goblin-dice-and-cleave.json) |
 | Goblin God | 413069 | [413069-goblin-god.json](./413069-goblin-god.json) |
