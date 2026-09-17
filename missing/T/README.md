@@ -2632,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Tapes: Analog Nightmares | 231353 | [231353-the-forgotten-tapes-analog-nightmares.json](./231353-the-forgotten-tapes-analog-nightmares.json) |
 | The Forgotten Village | 337488 | [337488-the-forgotten-village.json](./337488-the-forgotten-village.json) |
 | The Forgotten Village of Gondomayit | 268215 | [268215-the-forgotten-village-of-gondomayit.json](./268215-the-forgotten-village-of-gondomayit.json) |
+| The Forgotten Villages of Gondomayit 2" Kost Karangsari | 285569 | [285569-the-forgotten-villages-of-gondomayit-2-kost-karangsari.json](./285569-the-forgotten-villages-of-gondomayit-2-kost-karangsari.json) |
 | The Forlorn | 415163 | [415163-the-forlorn.json](./415163-the-forlorn.json) |
 | The Fortune Teller Game | 342178 | [342178-the-fortune-teller-game.json](./342178-the-fortune-teller-game.json) |
 | The Founders of Daytona Beach Also Founded Dayton, Ohio | 360606 | [360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json](./360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json) |
@@ -3307,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Beowulf | 267391 | [267391-the-legend-of-beowulf.json](./267391-the-legend-of-beowulf.json) |
 | The Legend of Blacksilver | 61587 | [61587-the-legend-of-blacksilver.json](./61587-the-legend-of-blacksilver.json) |
 | The Legend of Chalkvania | 395570 | [395570-the-legend-of-chalkvania.json](./395570-the-legend-of-chalkvania.json) |
+| The Legend of Chosen Blood | 285608 | [285608-the-legend-of-chosen-blood.json](./285608-the-legend-of-chosen-blood.json) |
 | The Legend of Cube | 227858 | [227858-the-legend-of-cube.json](./227858-the-legend-of-cube.json) |
 | The Legend of Eight Dragons | 145653 | [145653-the-legend-of-eight-dragons.json](./145653-the-legend-of-eight-dragons.json) |
 | The Legend of Eldridge Scrolls: Woop | 130921 | [130921-the-legend-of-eldridge-scrolls-woop.json](./130921-the-legend-of-eldridge-scrolls-woop.json) |
@@ -3581,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Love Interests get their Own Game | 183049 | [183049-the-love-interests-get-their-own-game.json](./183049-the-love-interests-get-their-own-game.json) |
 | The love letter | 398435 | [398435-the-love-letter.json](./398435-the-love-letter.json) |
 | The Love Letter | 63820 | [63820-the-love-letter.json](./63820-the-love-letter.json) |
+| The Luckiest in the Megaverse | 285594 | [285594-the-luckiest-in-the-megaverse.json](./285594-the-luckiest-in-the-megaverse.json) |
 | The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
 | The Machine | 79257 | [79257-the-machine.json](./79257-the-machine.json) |
