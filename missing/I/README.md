@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Saw a Flying Saucer | 369092 | [369092-i-saw-a-flying-saucer.json](./369092-i-saw-a-flying-saucer.json) |
 | I Scream Ice Cream | 358298 | [358298-i-scream-ice-cream.json](./358298-i-scream-ice-cream.json) |
 | I See You | 113642 | [113642-i-see-you.json](./113642-i-see-you.json) |
+| I See You | 259630 | [259630-i-see-you.json](./259630-i-see-you.json) |
 | I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
 | I Spy | 80520 | [80520-i-spy.json](./80520-i-spy.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal Chess | 333398 | [333398-infernal-chess.json](./333398-infernal-chess.json) |
 | Infernal Dream Collection | 53230 | [53230-infernal-dream-collection.json](./53230-infernal-dream-collection.json) |
 | Infernal Eclipse of Ragnarok | 379350 | [379350-infernal-eclipse-of-ragnarok.json](./379350-infernal-eclipse-of-ragnarok.json) |
+| Infernal Wave | 259645 | [259645-infernal-wave.json](./259645-infernal-wave.json) |
 | Infernal West | 415107 | [415107-infernal-west.json](./415107-infernal-west.json) |
 | Infernax | 122386 | [122386-infernax.json](./122386-infernax.json) |
 | Infernitos: Fiery Dishes | 353957 | [353957-infernitos-fiery-dishes.json](./353957-infernitos-fiery-dishes.json) |
