@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T19:48:00.089Z",
-  "total_missing": 84071,
+  "generated_at": "2026-09-17T20:03:05.182Z",
+  "total_missing": 84121,
   "games": [
     {
       "igdb_id": 273453,
@@ -15731,6 +15731,11 @@
       "igdb_id": 226234,
       "game_name": "Anvil",
       "file": "missing/A/226234-anvil.json"
+    },
+    {
+      "igdb_id": 243273,
+      "game_name": "Anvil Empires",
+      "file": "missing/A/243273-anvil-empires.json"
     },
     {
       "igdb_id": 396403,
@@ -49593,6 +49598,11 @@
       "file": "missing/B/388746-butcherman.json"
     },
     {
+      "igdb_id": 243228,
+      "game_name": "Butchers Don't Surf!",
+      "file": "missing/B/243228-butchers-dont-surf.json"
+    },
+    {
       "igdb_id": 314259,
       "game_name": "Butt",
       "file": "missing/B/314259-butt.json"
@@ -68208,6 +68218,11 @@
       "file": "missing/C/275352-contingent.json"
     },
     {
+      "igdb_id": 243255,
+      "game_name": "Continuum",
+      "file": "missing/C/243255-continuum.json"
+    },
+    {
       "igdb_id": 265417,
       "game_name": "Continuum 01",
       "file": "missing/C/265417-continuum-01.json"
@@ -78721,6 +78736,11 @@
       "igdb_id": 338724,
       "game_name": "Danganronpa: Fandom's Calling",
       "file": "missing/D/338724-danganronpa-fandoms-calling.json"
+    },
+    {
+      "igdb_id": 243221,
+      "game_name": "Danganronpa: Lapse",
+      "file": "missing/D/243221-danganronpa-lapse.json"
     },
     {
       "igdb_id": 270679,
@@ -90606,6 +90626,11 @@
       "igdb_id": 9825,
       "game_name": "Disillusions Manga Horror",
       "file": "missing/D/9825-disillusions-manga-horror.json"
+    },
+    {
+      "igdb_id": 243254,
+      "game_name": "Disintegration",
+      "file": "missing/D/243254-disintegration.json"
     },
     {
       "igdb_id": 112005,
@@ -127653,6 +127678,11 @@
       "file": "missing/F/290016-fortnite-chill-vibez-pack.json"
     },
     {
+      "igdb_id": 243231,
+      "game_name": "Fortnite: Cross Comms Pack",
+      "file": "missing/F/243231-fortnite-cross-comms-pack.json"
+    },
+    {
       "igdb_id": 333587,
       "game_name": "Fortnite: Cuddle Buns Pack",
       "file": "missing/F/333587-fortnite-cuddle-buns-pack.json"
@@ -140593,6 +140623,11 @@
       "file": "missing/G/122408-golazo.json"
     },
     {
+      "igdb_id": 243236,
+      "game_name": "Golazo! 2: Pixel Stars",
+      "file": "missing/G/243236-golazo-2-pixel-stars.json"
+    },
+    {
       "igdb_id": 315301,
       "game_name": "Gold",
       "file": "missing/G/315301-gold.json"
@@ -141988,6 +142023,11 @@
       "file": "missing/G/9136-gorogoa.json"
     },
     {
+      "igdb_id": 243267,
+      "game_name": "Goronyan Puzzle: Nyanpi",
+      "file": "missing/G/243267-goronyan-puzzle-nyanpi.json"
+    },
+    {
       "igdb_id": 221413,
       "game_name": "Gosen-sou",
       "file": "missing/G/221413-gosen-sou.json"
@@ -143256,6 +143296,16 @@
       "igdb_id": 336046,
       "game_name": "Graven: Deluxe Edition",
       "file": "missing/G/336046-graven-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 243226,
+      "game_name": "Gravewood High: Chapter 1",
+      "file": "missing/G/243226-gravewood-high-chapter-1.json"
+    },
+    {
+      "igdb_id": 243227,
+      "game_name": "Gravewood High: Complete",
+      "file": "missing/G/243227-gravewood-high-complete.json"
     },
     {
       "igdb_id": 121772,
@@ -149221,6 +149271,11 @@
       "igdb_id": 229962,
       "game_name": "Hanerutchi 2",
       "file": "missing/H/229962-hanerutchi-2.json"
+    },
+    {
+      "igdb_id": 243220,
+      "game_name": "Hang Gliding: VR Experience",
+      "file": "missing/H/243220-hang-gliding-vr-experience.json"
     },
     {
       "igdb_id": 333092,
@@ -164258,6 +164313,11 @@
       "file": "missing/H/42609-hyper-v-ball.json"
     },
     {
+      "igdb_id": 243238,
+      "game_name": "Hyper Wars",
+      "file": "missing/H/243238-hyper-wars.json"
+    },
+    {
       "igdb_id": 109046,
       "game_name": "Hyper Wars: The Mega Firestorm",
       "file": "missing/H/109046-hyper-wars-the-mega-firestorm.json"
@@ -170616,6 +170676,11 @@
       "igdb_id": 81398,
       "game_name": "Innergy",
       "file": "missing/I/81398-innergy.json"
+    },
+    {
+      "igdb_id": 243275,
+      "game_name": "Innkeeper's Basement",
+      "file": "missing/I/243275-innkeepers-basement.json"
     },
     {
       "igdb_id": 285605,
@@ -183478,6 +183543,11 @@
       "file": "missing/K/1865-killzone.json"
     },
     {
+      "igdb_id": 243224,
+      "game_name": "Killzone: Liberation - Chapter 5 DLC",
+      "file": "missing/K/243224-killzone-liberation-chapter-5-dlc.json"
+    },
+    {
       "igdb_id": 43261,
       "game_name": "Killzone: Special Limited Edition",
       "file": "missing/K/43261-killzone-special-limited-edition.json"
@@ -188641,6 +188711,11 @@
       "igdb_id": 334698,
       "game_name": "Lacey's Flash Games",
       "file": "missing/L/334698-laceys-flash-games.json"
+    },
+    {
+      "igdb_id": 243225,
+      "game_name": "Lackgirl I: Astra Inclinant, sed Non Obligant.",
+      "file": "missing/L/243225-lackgirl-i-astra-inclinant-sed-non-obligant.json"
     },
     {
       "igdb_id": 314282,
@@ -202418,6 +202493,11 @@
       "file": "missing/M/412391-mad-yu-rural-idle.json"
     },
     {
+      "igdb_id": 243270,
+      "game_name": "Madagascar 3: Europe's Most Wanted",
+      "file": "missing/M/243270-madagascar-3-europes-most-wanted.json"
+    },
+    {
       "igdb_id": 137609,
       "game_name": "Madagascar Mini-Mayhem",
       "file": "missing/M/137609-madagascar-mini-mayhem.json"
@@ -202463,9 +202543,69 @@
       "file": "missing/M/4983-madden-nfl-07.json"
     },
     {
+      "igdb_id": 243242,
+      "game_name": "Madden NFL 09",
+      "file": "missing/M/243242-madden-nfl-09.json"
+    },
+    {
+      "igdb_id": 243245,
+      "game_name": "Madden NFL 11",
+      "file": "missing/M/243245-madden-nfl-11.json"
+    },
+    {
+      "igdb_id": 243246,
+      "game_name": "Madden NFL 11",
+      "file": "missing/M/243246-madden-nfl-11.json"
+    },
+    {
+      "igdb_id": 243247,
+      "game_name": "Madden NFL 11",
+      "file": "missing/M/243247-madden-nfl-11.json"
+    },
+    {
+      "igdb_id": 243248,
+      "game_name": "Madden NFL 11",
+      "file": "missing/M/243248-madden-nfl-11.json"
+    },
+    {
+      "igdb_id": 243249,
+      "game_name": "Madden NFL 12",
+      "file": "missing/M/243249-madden-nfl-12.json"
+    },
+    {
+      "igdb_id": 243250,
+      "game_name": "Madden NFL 12",
+      "file": "missing/M/243250-madden-nfl-12.json"
+    },
+    {
+      "igdb_id": 243251,
+      "game_name": "Madden NFL 12",
+      "file": "missing/M/243251-madden-nfl-12.json"
+    },
+    {
+      "igdb_id": 243252,
+      "game_name": "Madden NFL 12",
+      "file": "missing/M/243252-madden-nfl-12.json"
+    },
+    {
       "igdb_id": 243257,
       "game_name": "Madden NFL 13",
       "file": "missing/M/243257-madden-nfl-13.json"
+    },
+    {
+      "igdb_id": 243258,
+      "game_name": "Madden NFL 13",
+      "file": "missing/M/243258-madden-nfl-13.json"
+    },
+    {
+      "igdb_id": 243259,
+      "game_name": "Madden NFL 13",
+      "file": "missing/M/243259-madden-nfl-13.json"
+    },
+    {
+      "igdb_id": 243260,
+      "game_name": "Madden NFL 13 Social",
+      "file": "missing/M/243260-madden-nfl-13-social.json"
     },
     {
       "igdb_id": 119063,
@@ -202478,9 +202618,24 @@
       "file": "missing/M/3537-madden-nfl-2000.json"
     },
     {
+      "igdb_id": 243263,
+      "game_name": "Madden NFL 2001",
+      "file": "missing/M/243263-madden-nfl-2001.json"
+    },
+    {
       "igdb_id": 3539,
       "game_name": "Madden NFL 2002",
       "file": "missing/M/3539-madden-nfl-2002.json"
+    },
+    {
+      "igdb_id": 243240,
+      "game_name": "Madden NFL 2004",
+      "file": "missing/M/243240-madden-nfl-2004.json"
+    },
+    {
+      "igdb_id": 243241,
+      "game_name": "Madden NFL 2004",
+      "file": "missing/M/243241-madden-nfl-2004.json"
     },
     {
       "igdb_id": 777,
@@ -202533,6 +202688,11 @@
       "file": "missing/M/243261-madden-nfl-25.json"
     },
     {
+      "igdb_id": 243262,
+      "game_name": "Madden NFL 25",
+      "file": "missing/M/243262-madden-nfl-25.json"
+    },
+    {
       "igdb_id": 301506,
       "game_name": "Madden NFL 25",
       "file": "missing/M/301506-madden-nfl-25.json"
@@ -202546,6 +202706,21 @@
       "igdb_id": 240486,
       "game_name": "Madden NFL 96",
       "file": "missing/M/240486-madden-nfl-96.json"
+    },
+    {
+      "igdb_id": 243244,
+      "game_name": "Madden NFL 96",
+      "file": "missing/M/243244-madden-nfl-96.json"
+    },
+    {
+      "igdb_id": 243264,
+      "game_name": "Madden NFL 97",
+      "file": "missing/M/243264-madden-nfl-97.json"
+    },
+    {
+      "igdb_id": 243265,
+      "game_name": "Madden NFL 97",
+      "file": "missing/M/243265-madden-nfl-97.json"
     },
     {
       "igdb_id": 381607,
@@ -220503,6 +220678,11 @@
       "file": "missing/M/370691-mobile-murder-mystery.json"
     },
     {
+      "igdb_id": 243277,
+      "game_name": "Mobile Phase 10",
+      "file": "missing/M/243277-mobile-phase-10.json"
+    },
+    {
       "igdb_id": 369639,
       "game_name": "Mobile Soldiers: Plastic Army",
       "file": "missing/M/369639-mobile-soldiers-plastic-army.json"
@@ -226366,6 +226546,16 @@
       "igdb_id": 320750,
       "game_name": "Mr. Meaty: Treasures of the Deep (Fryer, That Is!)",
       "file": "missing/M/320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json"
+    },
+    {
+      "igdb_id": 243279,
+      "game_name": "Mr. Men & Little Miss: Adventures in Dillydale",
+      "file": "missing/M/243279-mr-men-and-little-miss-adventures-in-dillydale.json"
+    },
+    {
+      "igdb_id": 243272,
+      "game_name": "Mr. Men & Little Miss: Mr. Messy and the Missing Sock",
+      "file": "missing/M/243272-mr-men-and-little-miss-mr-messy-and-the-missing-sock.json"
     },
     {
       "igdb_id": 276278,
@@ -249368,6 +249558,11 @@
       "file": "missing/O/297247-outlets-rush.json"
     },
     {
+      "igdb_id": 243234,
+      "game_name": "Outlive",
+      "file": "missing/O/243234-outlive.json"
+    },
+    {
       "igdb_id": 113665,
       "game_name": "Outliver: Redemption",
       "file": "missing/O/113665-outliver-redemption.json"
@@ -261943,6 +262138,11 @@
       "file": "missing/P/97286-pixtights.json"
     },
     {
+      "igdb_id": 243239,
+      "game_name": "Pixxelverse Online",
+      "file": "missing/P/243239-pixxelverse-online.json"
+    },
+    {
       "igdb_id": 175413,
       "game_name": "Piyo Blocks 2",
       "file": "missing/P/175413-piyo-blocks-2.json"
@@ -274276,6 +274476,11 @@
       "igdb_id": 58174,
       "game_name": "Puzzle Wiz",
       "file": "missing/P/58174-puzzle-wiz.json"
+    },
+    {
+      "igdb_id": 243266,
+      "game_name": "Puzzle Wizards",
+      "file": "missing/P/243266-puzzle-wizards.json"
     },
     {
       "igdb_id": 304170,
@@ -292753,6 +292958,11 @@
       "file": "missing/R/121013-rumia-in-the-darkness.json"
     },
     {
+      "igdb_id": 243274,
+      "game_name": "Rummikub",
+      "file": "missing/R/243274-rummikub.json"
+    },
+    {
       "igdb_id": 350406,
       "game_name": "Rumor Raiders",
       "file": "missing/R/350406-rumor-raiders.json"
@@ -307373,6 +307583,11 @@
       "file": "missing/S/230273-shrek-2-castle-run.json"
     },
     {
+      "igdb_id": 243271,
+      "game_name": "Shrek Forever After",
+      "file": "missing/S/243271-shrek-forever-after.json"
+    },
+    {
       "igdb_id": 9208,
       "game_name": "Shrek Game Land Activity Center",
       "file": "missing/S/9208-shrek-game-land-activity-center.json"
@@ -309976,6 +310191,11 @@
       "igdb_id": 100422,
       "game_name": "Siralim 3",
       "file": "missing/S/100422-siralim-3.json"
+    },
+    {
+      "igdb_id": 243223,
+      "game_name": "Siren Head SCP 6789",
+      "file": "missing/S/243223-siren-head-scp-6789.json"
     },
     {
       "igdb_id": 309120,
@@ -330493,6 +330713,11 @@
       "file": "missing/S/261784-stellar-initiative.json"
     },
     {
+      "igdb_id": 243229,
+      "game_name": "Stellar Interface: Stellar Spacecrafts",
+      "file": "missing/S/243229-stellar-interface-stellar-spacecrafts.json"
+    },
+    {
       "igdb_id": 62773,
       "game_name": "Stellar Mercenaries",
       "file": "missing/S/62773-stellar-mercenaries.json"
@@ -332726,6 +332951,11 @@
       "igdb_id": 6709,
       "game_name": "Street Fighter III 2nd Impact: Giant Attack",
       "file": "missing/S/6709-street-fighter-iii-2nd-impact-giant-attack.json"
+    },
+    {
+      "igdb_id": 243237,
+      "game_name": "Street Fighter III: 3rd Strike",
+      "file": "missing/S/243237-street-fighter-iii-3rd-strike.json"
     },
     {
       "igdb_id": 45194,
@@ -348593,6 +348823,11 @@
       "file": "missing/T/309862-tcg-card-shop-simulator.json"
     },
     {
+      "igdb_id": 243232,
+      "game_name": "Tchia: Kepler Customization Pack",
+      "file": "missing/T/243232-tchia-kepler-customization-pack.json"
+    },
+    {
       "igdb_id": 216272,
       "game_name": "TCQ",
       "file": "missing/T/216272-tcq.json"
@@ -350251,6 +350486,11 @@
       "igdb_id": 414338,
       "game_name": "Tenpin Bowling",
       "file": "missing/T/414338-tenpin-bowling.json"
+    },
+    {
+      "igdb_id": 243268,
+      "game_name": "Tenrou Toshi",
+      "file": "missing/T/243268-tenrou-toshi.json"
     },
     {
       "igdb_id": 33321,
@@ -361876,6 +362116,11 @@
       "igdb_id": 8593,
       "game_name": "The Legend of Zelda: Majora's Mask 3D",
       "file": "missing/T/8593-the-legend-of-zelda-majoras-mask-3d.json"
+    },
+    {
+      "igdb_id": 243269,
+      "game_name": "The Legend of Zelda: Mercuris' Chest",
+      "file": "missing/T/243269-the-legend-of-zelda-mercuris-chest.json"
     },
     {
       "igdb_id": 46620,
@@ -382626,6 +382871,11 @@
       "igdb_id": 231364,
       "game_name": "Train Sim World 3: Birmingham Standard Edition",
       "file": "missing/T/231364-train-sim-world-3-birmingham-standard-edition.json"
+    },
+    {
+      "igdb_id": 243233,
+      "game_name": "Train Sim World 3: Loco Add-On Bundle 2",
+      "file": "missing/T/243233-train-sim-world-3-loco-add-on-bundle-2.json"
     },
     {
       "igdb_id": 269329,
