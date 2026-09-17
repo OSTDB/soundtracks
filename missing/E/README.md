@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embryogenesis | 376614 | [376614-embryogenesis.json](./376614-embryogenesis.json) |
 | Embuscade | 179734 | [179734-embuscade.json](./179734-embuscade.json) |
 | Emerald Bathhouse | 268776 | [268776-emerald-bathhouse.json](./268776-emerald-bathhouse.json) |
+| Emerald Caravan | 279139 | [279139-emerald-caravan.json](./279139-emerald-caravan.json) |
 | Emerald Dreams: Sanity - Platformer Quest | 349372 | [349372-emerald-dreams-sanity-platformer-quest.json](./349372-emerald-dreams-sanity-platformer-quest.json) |
 | Emerald Isle | 13635 | [13635-emerald-isle.json](./13635-emerald-isle.json) |
 | Emerald Isle | 318995 | [318995-emerald-isle.json](./318995-emerald-isle.json) |
@@ -1122,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eol-ui Moheom | 363981 | [363981-eol-ui-moheom.json](./363981-eol-ui-moheom.json) |
 | Eon Altar: Episode 2 - Whispers in the Catacombs | 24875 | [24875-eon-altar-episode-2-whispers-in-the-catacombs.json](./24875-eon-altar-episode-2-whispers-in-the-catacombs.json) |
 | Eon Altar: Episode I - The Battle for Tarnum | 24874 | [24874-eon-altar-episode-i-the-battle-for-tarnum.json](./24874-eon-altar-episode-i-the-battle-for-tarnum.json) |
+| Eon of the Green: Area Crescent | 279138 | [279138-eon-of-the-green-area-crescent.json](./279138-eon-of-the-green-area-crescent.json) |
 | Eona | 355025 | [355025-eona.json](./355025-eona.json) |
 | Eonia | 97180 | [97180-eonia.json](./97180-eonia.json) |
 | Eonwar | 217315 | [217315-eonwar.json](./217315-eonwar.json) |
