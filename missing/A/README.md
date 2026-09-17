@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Obelisk: Necropolis Of The Damned | 378904 | [378904-across-the-obelisk-necropolis-of-the-damned.json](./378904-across-the-obelisk-necropolis-of-the-damned.json) |
 | Across the Obelisk: Sigrun, the Valkyrie | 357779 | [357779-across-the-obelisk-sigrun-the-valkyrie.json](./357779-across-the-obelisk-sigrun-the-valkyrie.json) |
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
+| Across The Void | 248133 | [248133-across-the-void.json](./248133-across-the-void.json) |
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
@@ -3254,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Snake | 135874 | [135874-arrow-snake.json](./135874-arrow-snake.json) |
 | Arrow Tourney | 127924 | [127924-arrow-tourney.json](./127924-arrow-tourney.json) |
 | Arrow Ventura VR | 132853 | [132853-arrow-ventura-vr.json](./132853-arrow-ventura-vr.json) |
+| Arrow War | 248104 | [248104-arrow-war.json](./248104-arrow-war.json) |
 | Arrowman | 389463 | [389463-arrowman.json](./389463-arrowman.json) |
 | Arrowmania | 284355 | [284355-arrowmania.json](./284355-arrowmania.json) |
 | ArrowMongers | 240808 | [240808-arrowmongers.json](./240808-arrowmongers.json) |
