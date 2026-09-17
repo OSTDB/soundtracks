@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Pasion XR | 341033 | [341033-la-pasion-xr.json](./341033-la-pasion-xr.json) |
 | La pesadilla de Illojuan | 302719 | [302719-la-pesadilla-de-illojuan.json](./302719-la-pesadilla-de-illojuan.json) |
 | La Quête du Dentiste | 301396 | [301396-la-quete-du-dentiste.json](./301396-la-quete-du-dentiste.json) |
+| La Statuette maudite de l'oncle Ernest | 282689 | [282689-la-statuette-maudite-de-loncle-ernest.json](./282689-la-statuette-maudite-de-loncle-ernest.json) |
 | La storia della Arcana Famiglia: Rinato | 339376 | [339376-la-storia-della-arcana-famiglia-rinato.json](./339376-la-storia-della-arcana-famiglia-rinato.json) |
 | La torre de Mario | 374170 | [374170-la-torre-de-mario.json](./374170-la-torre-de-mario.json) |
 | La Ultima Comida | 153427 | [153427-la-ultima-comida.json](./153427-la-ultima-comida.json) |
@@ -973,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Get Bakin' | 342130 | [342130-lets-get-bakin.json](./342130-lets-get-bakin.json) |
 | Let's Get Fit at Midnight, Shall We? | 296931 | [296931-lets-get-fit-at-midnight-shall-we.json](./296931-lets-get-fit-at-midnight-shall-we.json) |
 | Let's Get Rich | 112316 | [112316-lets-get-rich.json](./112316-lets-get-rich.json) |
+| Let's Go Bassfishing! | 282681 | [282681-lets-go-bassfishing.json](./282681-lets-go-bassfishing.json) |
 | Let's Go Camping | 220143 | [220143-lets-go-camping.json](./220143-lets-go-camping.json) |
 | Let's Go Jungle!: Lost on the Island of Spice | 69304 | [69304-lets-go-jungle-lost-on-the-island-of-spice.json](./69304-lets-go-jungle-lost-on-the-island-of-spice.json) |
 | Let's Go Thingio!: Re:Thingio Side A | 323753 | [323753-lets-go-thingio-re-thingio-side-a.json](./323753-lets-go-thingio-re-thingio-side-a.json) |
@@ -2260,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Letters | 363893 | [363893-love-letters.json](./363893-love-letters.json) |
 | Love Liar | 225646 | [225646-love-liar.json](./225646-love-liar.json) |
 | Love Lime! | 183000 | [183000-love-lime.json](./183000-love-lime.json) |
+| Love Live! Nijigasaki High School Idol Club: Tokimeki Roadmap to the Future | 282695 | [282695-love-live-nijigasaki-high-school-idol-club-tokimeki-roadmap-to-the-future.json](./282695-love-live-nijigasaki-high-school-idol-club-tokimeki-roadmap-to-the-future.json) |
 | Love Live! School Idol Festival: After School Activity - Wai-Wai! Home Meeting!! | 141248 | [141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json](./141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json) |
 | Love Live! School Idol Paradise | 81340 | [81340-love-live-school-idol-paradise.json](./81340-love-live-school-idol-paradise.json) |
 | Love Love Candy | 253902 | [253902-love-love-candy.json](./253902-love-love-candy.json) |
@@ -2580,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunera | 356673 | [356673-lunera.json](./356673-lunera.json) |
 | Lunhowl: Co-op Horror | 348762 | [348762-lunhowl-co-op-horror.json](./348762-lunhowl-co-op-horror.json) |
 | Lunia Z:Revival | 259020 | [259020-lunia-z-revival.json](./259020-lunia-z-revival.json) |
+| Lunium | 282674 | [282674-lunium.json](./282674-lunium.json) |
 | Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
 | Luòchén zhī Yù | 114382 | [114382-luochen-zhi-yu.json](./114382-luochen-zhi-yu.json) |
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
