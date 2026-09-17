@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Data/Sprint Vector | 139965 | [139965-raw-data-sprint-vector.json](./139965-raw-data-sprint-vector.json) |
 | Raw Element | 341307 | [341307-raw-element.json](./341307-raw-element.json) |
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
+| Rawisland | 267449 | [267449-rawisland.json](./267449-rawisland.json) |
 | Rawshire the Last Hatchling | 158214 | [158214-rawshire-the-last-hatchling.json](./158214-rawshire-the-last-hatchling.json) |
 | Rax Runner! | 338288 | [338288-rax-runner.json](./338288-rax-runner.json) |
 | Ray And Cooper | 310584 | [310584-ray-and-cooper.json](./310584-ray-and-cooper.json) |
@@ -843,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper's Awakening! | 363896 | [363896-reapers-awakening.json](./363896-reapers-awakening.json) |
 | Reaper's Isle | 255968 | [255968-reapers-isle.json](./255968-reapers-isle.json) |
 | Reaper's Odyssey | 319809 | [319809-reapers-odyssey.json](./319809-reapers-odyssey.json) |
+| Reapers | 267448 | [267448-reapers.json](./267448-reapers.json) |
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
 | Reason: Casual Puzzle | 148000 | [148000-reason-casual-puzzle.json](./148000-reason-casual-puzzle.json) |
 | Reasons For Kym | 304720 | [304720-reasons-for-kym.json](./304720-reasons-for-kym.json) |
@@ -1434,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: Collector's Edition | 24211 | [24211-resident-evil-4-collectors-edition.json](./24211-resident-evil-4-collectors-edition.json) |
 | Resident Evil 4: Gold Edition | 284920 | [284920-resident-evil-4-gold-edition.json](./284920-resident-evil-4-gold-edition.json) |
 | Resident Evil 4: Limited Edition | 145054 | [145054-resident-evil-4-limited-edition.json](./145054-resident-evil-4-limited-edition.json) |
+| Resident Evil 4: The Mercenaries - Separate Ways Update | 266859 | [266859-resident-evil-4-the-mercenaries-separate-ways-update.json](./266859-resident-evil-4-the-mercenaries-separate-ways-update.json) |
 | Resident Evil 4: Ultimate HD Edition | 24223 | [24223-resident-evil-4-ultimate-hd-edition.json](./24223-resident-evil-4-ultimate-hd-edition.json) |
 | Resident Evil 4: VR Mode | 250644 | [250644-resident-evil-4-vr-mode.json](./250644-resident-evil-4-vr-mode.json) |
 | Resident Evil 6 Remastered | 41858 | [41858-resident-evil-6-remastered.json](./41858-resident-evil-6-remastered.json) |
@@ -1612,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Saiyans | 237407 | [237407-return-of-the-saiyans.json](./237407-return-of-the-saiyans.json) |
 | Return of the Skeletal | 135175 | [135175-return-of-the-skeletal.json](./135175-return-of-the-skeletal.json) |
 | Return of the Things | 66627 | [66627-return-of-the-things.json](./66627-return-of-the-things.json) |
+| Return or No Return | 267447 | [267447-return-or-no-return.json](./267447-return-or-no-return.json) |
 | Return the Backrooms | 224561 | [224561-return-the-backrooms.json](./224561-return-the-backrooms.json) |
 | Return to Abyss | 233251 | [233251-return-to-abyss.json](./233251-return-to-abyss.json) |
 | Return to Basic Killing | 274032 | [274032-return-to-basic-killing.json](./274032-return-to-basic-killing.json) |
@@ -2718,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Star: Tomomi Another Story | 396379 | [396379-rolling-star-tomomi-another-story.json](./396379-rolling-star-tomomi-another-story.json) |
 | Rolling Thunder | 12846 | [12846-rolling-thunder.json](./12846-rolling-thunder.json) |
 | Rolling Toolman | 248683 | [248683-rolling-toolman.json](./248683-rolling-toolman.json) |
+| Rolling Toolman 2 Deathly Traps | 267446 | [267446-rolling-toolman-2-deathly-traps.json](./267446-rolling-toolman-2-deathly-traps.json) |
 | Rolling Valley | 192876 | [192876-rolling-valley.json](./192876-rolling-valley.json) |
 | RollingSky | 129747 | [129747-rollingsky.json](./129747-rollingsky.json) |
 | Rollo Pollo | 348352 | [348352-rollo-pollo.json](./348352-rollo-pollo.json) |
@@ -3167,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rule the Waves 3: Expanded Battles | 324928 | [324928-rule-the-waves-3-expanded-battles.json](./324928-rule-the-waves-3-expanded-battles.json) |
 | Rule Your School | 30165 | [30165-rule-your-school.json](./30165-rule-your-school.json) |
 | Rule34dle | 361573 | [361573-rule34dle.json](./361573-rule34dle.json) |
+| Rulegement | 267445 | [267445-rulegement.json](./267445-rulegement.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
 | Ruler of the Waves 1916 | 227838 | [227838-ruler-of-the-waves-1916.json](./227838-ruler-of-the-waves-1916.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
@@ -3373,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Roulette: One Life | 194564 | [194564-russian-roulette-one-life.json](./194564-russian-roulette-one-life.json) |
 | Russian Soul Simulator | 285562 | [285562-russian-soul-simulator.json](./285562-russian-soul-simulator.json) |
 | Russian VR Coasters | 32005 | [32005-russian-vr-coasters.json](./32005-russian-vr-coasters.json) |
+| Russian Warship | 267444 | [267444-russian-warship.json](./267444-russian-warship.json) |
 | Russki Duck | 282102 | [282102-russki-duck.json](./282102-russki-duck.json) |
 | Rust | 299432 | [299432-rust.json](./299432-rust.json) |
 | Rust 'n Dust | 165693 | [165693-rust-n-dust.json](./165693-rust-n-dust.json) |
