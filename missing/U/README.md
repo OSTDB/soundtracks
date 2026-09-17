@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Udos sagner: Sveakampen | 64389 | [64389-udos-sagner-sveakampen.json](./64389-udos-sagner-sveakampen.json) |
 | UEDI: Shadow of the Citadel | 129801 | [129801-uedi-shadow-of-the-citadel.json](./129801-uedi-shadow-of-the-citadel.json) |
 | UEFA 2000 | 282707 | [282707-uefa-2000.json](./282707-uefa-2000.json) |
+| UEFA 2001 | 237507 | [237507-uefa-2001.json](./237507-uefa-2001.json) |
 | Ueki no Housoku: Jingi Sakuretsu! Nouryokusha Battle | 188652 | [188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json](./188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json) |
 | Ueqouow | 288332 | [288332-ueqouow.json](./288332-ueqouow.json) |
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
@@ -193,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Sliding Puzzle: Ecchi Pack | 270392 | [270392-ultimate-sliding-puzzle-ecchi-pack.json](./270392-ultimate-sliding-puzzle-ecchi-pack.json) |
 | Ultimate Sliding Puzzle: Sci-Fi Pack | 270393 | [270393-ultimate-sliding-puzzle-sci-fi-pack.json](./270393-ultimate-sliding-puzzle-sci-fi-pack.json) |
 | Ultimate Snake | 412269 | [412269-ultimate-snake.json](./412269-ultimate-snake.json) |
+| Ultimate Soccer | 237502 | [237502-ultimate-soccer.json](./237502-ultimate-soccer.json) |
 | Ultimate Soccer | 331952 | [331952-ultimate-soccer.json](./331952-ultimate-soccer.json) |
 | Ultimate Space Commando | 35963 | [35963-ultimate-space-commando.json](./35963-ultimate-space-commando.json) |
 | Ultimate Sparring | 334077 | [334077-ultimate-sparring.json](./334077-ultimate-sparring.json) |
