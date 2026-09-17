@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RE.CO.N. | 146353 | [146353-re-co-n.json](./146353-re-co-n.json) |
 | Re.dive Wonderland | 369110 | [369110-re-dive-wonderland.json](./369110-re-dive-wonderland.json) |
 | Re.wired | 270937 | [270937-re-wired.json](./270937-re-wired.json) |
+| Re/terra | 259049 | [259049-re-terra.json](./259049-re-terra.json) |
 | Re≒Connect Exit Loop | 288224 | [288224-re-connect-exit-loop.json](./288224-re-connect-exit-loop.json) |
 | RE0: VTuber Life | 370680 | [370680-re0-vtuber-life.json](./370680-re0-vtuber-life.json) |
 | Reach Charon | 269561 | [269561-reach-charon.json](./269561-reach-charon.json) |
@@ -3116,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTL Winter Games 2007 | 152301 | [152301-rtl-winter-games-2007.json](./152301-rtl-winter-games-2007.json) |
 | RTO | 84851 | [84851-rto.json](./84851-rto.json) |
 | RTO 3 | 106519 | [106519-rto-3.json](./106519-rto-3.json) |
+| RTS Football | 259085 | [259085-rts-football.json](./259085-rts-football.json) |
 | Ru Lin Wai Shi Fan Jin | 258455 | [258455-ru-lin-wai-shi-fan-jin.json](./258455-ru-lin-wai-shi-fan-jin.json) |
 | Ruarua.ru | 369558 | [369558-ruarua-ru.json](./369558-ruarua-ru.json) |
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
