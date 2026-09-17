@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Games | 48100 | [48100-caveman-games.json](./48100-caveman-games.json) |
 | Caveman HD | 102744 | [102744-caveman-hd.json](./102744-caveman-hd.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
+| Caveman Ransom | 245952 | [245952-caveman-ransom.json](./245952-caveman-ransom.json) |
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
 | Cavequest | 2876 | [2876-cavequest.json](./2876-cavequest.json) |
@@ -1874,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Light: Limited Edition | 166238 | [166238-child-of-light-limited-edition.json](./166238-child-of-light-limited-edition.json) |
 | Child of Luminescence | 350521 | [350521-child-of-luminescence.json](./350521-child-of-luminescence.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
+| Child Run: City Surfers Runner | 245915 | [245915-child-run-city-surfers-runner.json](./245915-child-run-city-surfers-runner.json) |
 | Child's Play | 60007 | [60007-childs-play.json](./60007-childs-play.json) |
 | Childhood Watermelon | 366311 | [366311-childhood-watermelon.json](./366311-childhood-watermelon.json) |
 | Childhood's End | 365171 | [365171-childhoods-end.json](./365171-childhoods-end.json) |
@@ -3860,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse-Party: if - Past End | 135890 | [135890-corpse-party-if-past-end.json](./135890-corpse-party-if-past-end.json) |
 | Corpsênia | 190745 | [190745-corpsenia.json](./190745-corpsenia.json) |
 | Corpus Machina | 375975 | [375975-corpus-machina.json](./375975-corpus-machina.json) |
+| Corr | 245924 | [245924-corr.json](./245924-corr.json) |
 | Corral | 67525 | [67525-corral.json](./67525-corral.json) |
 | Corrida das Blogueiras 6: A Maldição dos Zumbis | 319027 | [319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json](./319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json) |
 | Corridor | 282000 | [282000-corridor.json](./282000-corridor.json) |
@@ -4830,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cry of Fear | 3084 | [3084-cry-of-fear.json](./3084-cry-of-fear.json) |
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
 | Cryght | 188029 | [188029-cryght.json](./188029-cryght.json) |
+| Crying Pony | 245950 | [245950-crying-pony.json](./245950-crying-pony.json) |
 | Crymachina | 240141 | [240141-crymachina.json](./240141-crymachina.json) |
 | Cryo | 374688 | [374688-cryo.json](./374688-cryo.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
@@ -5176,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Amethyst Skull | 364568 | [364568-curse-of-the-amethyst-skull.json](./364568-curse-of-the-amethyst-skull.json) |
 | Curse of the Azure Bonds | 2461 | [2461-curse-of-the-azure-bonds.json](./2461-curse-of-the-azure-bonds.json) |
 | Curse of the Cobra | 229050 | [229050-curse-of-the-cobra.json](./229050-curse-of-the-cobra.json) |
+| Curse of the Corsair | 245953 | [245953-curse-of-the-corsair.json](./245953-curse-of-the-corsair.json) |
 | Curse of the Deadwood | 172152 | [172152-curse-of-the-deadwood.json](./172152-curse-of-the-deadwood.json) |
 | Curse of the Draugr Kings | 244767 | [244767-curse-of-the-draugr-kings.json](./244767-curse-of-the-draugr-kings.json) |
 | Curse of the Dungeon | 126580 | [126580-curse-of-the-dungeon.json](./126580-curse-of-the-dungeon.json) |
@@ -5361,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Strider | 248028 | [248028-cyber-strider.json](./248028-cyber-strider.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
 | Cyber Strike | 282002 | [282002-cyber-strike.json](./282002-cyber-strike.json) |
+| Cyber Tamer | 245936 | [245936-cyber-tamer.json](./245936-cyber-tamer.json) |
 | Cyber Tank 2 | 330194 | [330194-cyber-tank-2.json](./330194-cyber-tank-2.json) |
 | Cyber Tank Nano | 353962 | [353962-cyber-tank-nano.json](./353962-cyber-tank-nano.json) |
 | Cyber Tetris | 213986 | [213986-cyber-tetris.json](./213986-cyber-tetris.json) |
