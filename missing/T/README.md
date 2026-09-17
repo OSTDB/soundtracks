@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangerine Panic | 280213 | [280213-tangerine-panic.json](./280213-tangerine-panic.json) |
 | Tangled | 230552 | [230552-tangled.json](./230552-tangled.json) |
 | Tangled | 62187 | [62187-tangled.json](./62187-tangled.json) |
+| Tangled Crisis | 260246 | [260246-tangled-crisis.json](./260246-tangled-crisis.json) |
 | Tangled Slug | 374152 | [374152-tangled-slug.json](./374152-tangled-slug.json) |
 | Tangled Tales | 74328 | [74328-tangled-tales.json](./74328-tangled-tales.json) |
 | Tangled Words | 374157 | [374157-tangled-words.json](./374157-tangled-words.json) |
@@ -1479,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's So Raven | 49407 | [49407-thats-so-raven.json](./49407-thats-so-raven.json) |
 | That's So Raven 2: Supernatural Style | 49406 | [49406-thats-so-raven-2-supernatural-style.json](./49406-thats-so-raven-2-supernatural-style.json) |
 | That's So Raven: Psychic on the Scene | 47951 | [47951-thats-so-raven-psychic-on-the-scene.json](./47951-thats-so-raven-psychic-on-the-scene.json) |
+| Thawed Waters | 260254 | [260254-thawed-waters.json](./260254-thawed-waters.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
 | The 13th Floor | 356709 | [356709-the-13th-floor.json](./356709-the-13th-floor.json) |
 | The 13th Month | 166148 | [166148-the-13th-month.json](./166148-the-13th-month.json) |
@@ -6534,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
 | To Love Ru x 2 | 97376 | [97376-to-love-ru-x-2.json](./97376-to-love-ru-x-2.json) |
 | To Make a Game | 192889 | [192889-to-make-a-game.json](./192889-to-make-a-game.json) |
+| To Mortal Dust | 260217 | [260217-to-mortal-dust.json](./260217-to-mortal-dust.json) |
 | To My Best Friend | 149545 | [149545-to-my-best-friend.json](./149545-to-my-best-friend.json) |
 | To My Darling | 393512 | [393512-to-my-darling.json](./393512-to-my-darling.json) |
 | To Save Humanity From Virus | 159816 | [159816-to-save-humanity-from-virus.json](./159816-to-save-humanity-from-virus.json) |
@@ -6928,6 +6931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Puzzle Quest | 108480 | [108480-toon-puzzle-quest.json](./108480-toon-puzzle-quest.json) |
 | Toon Roads: Race & Drift | 288315 | [288315-toon-roads-race-and-drift.json](./288315-toon-roads-race-and-drift.json) |
 | Toon Wars: Tank Battles | 87898 | [87898-toon-wars-tank-battles.json](./87898-toon-wars-tank-battles.json) |
+| Tooncop | 260249 | [260249-tooncop.json](./260249-tooncop.json) |
 | TooneQuest | 407402 | [407402-toonequest.json](./407402-toonequest.json) |
 | Toontown Online | 25326 | [25326-toontown-online.json](./25326-toontown-online.json) |
 | Toontown Rewritten: Clear Coasts | 373635 | [373635-toontown-rewritten-clear-coasts.json](./373635-toontown-rewritten-clear-coasts.json) |
