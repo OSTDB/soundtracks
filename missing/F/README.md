@@ -1934,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Dunk | 87053 | [87053-flappy-dunk.json](./87053-flappy-dunk.json) |
 | Flappy Fighter | 118311 | [118311-flappy-fighter.json](./118311-flappy-fighter.json) |
 | Flappy Golf 2 | 88291 | [88291-flappy-golf-2.json](./88291-flappy-golf-2.json) |
+| Flappy Helix | 265757 | [265757-flappy-helix.json](./265757-flappy-helix.json) |
 | Flappy Horse | 309373 | [309373-flappy-horse.json](./309373-flappy-horse.json) |
 | Flappy Meatbag | 23731 | [23731-flappy-meatbag.json](./23731-flappy-meatbag.json) |
 | Flappy Monkey | 325099 | [325099-flappy-monkey.json](./325099-flappy-monkey.json) |
@@ -2171,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flora and the Darkness | 175906 | [175906-flora-and-the-darkness.json](./175906-flora-and-the-darkness.json) |
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
 | Floraison | 415869 | [415869-floraison.json](./415869-floraison.json) |
+| Floralgraphic Memory | 265620 | [265620-floralgraphic-memory.json](./265620-floralgraphic-memory.json) |
 | FloraMancer: Seeds and Spells | 235982 | [235982-floramancer-seeds-and-spells.json](./235982-floramancer-seeds-and-spells.json) |
 | Florani Match | 392295 | [392295-florani-match.json](./392295-florani-match.json) |
 | Florarium | 258454 | [258454-florarium.json](./258454-florarium.json) |
@@ -2594,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Time | 342751 | [342751-forever-time.json](./342751-forever-time.json) |
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
 | Forever With You | 381033 | [381033-forever-with-you.json](./381033-forever-with-you.json) |
+| Foreverhood | 265739 | [265739-foreverhood.json](./265739-foreverhood.json) |
 | Foreverred | 142484 | [142484-foreverred.json](./142484-foreverred.json) |
 | Forevolution | 209709 | [209709-forevolution.json](./209709-forevolution.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
@@ -3222,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggerty Arcade | 161384 | [161384-froggerty-arcade.json](./161384-froggerty-arcade.json) |
 | Froggerty Arcade 2 | 189185 | [189185-froggerty-arcade-2.json](./189185-froggerty-arcade-2.json) |
 | Froggie: A Retro Platformer | 211968 | [211968-froggie-a-retro-platformer.json](./211968-froggie-a-retro-platformer.json) |
+| Froggin' Around | 265777 | [265777-froggin-around.json](./265777-froggin-around.json) |
 | Froggo | 115678 | [115678-froggo.json](./115678-froggo.json) |
 | Froggy | 227828 | [227828-froggy.json](./227828-froggy.json) |
 | Froggy Castle | 243405 | [243405-froggy-castle.json](./243405-froggy-castle.json) |
