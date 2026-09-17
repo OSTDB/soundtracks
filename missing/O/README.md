@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopus | 287659 | [287659-octopus.json](./287659-octopus.json) |
 | Octopus 21 | 322390 | [322390-octopus-21.json](./322390-octopus-21.json) |
 | Octopus Evolution | 206733 | [206733-octopus-evolution.json](./206733-octopus-evolution.json) |
+| Octopuz | 265748 | [265748-octopuz.json](./265748-octopuz.json) |
 | Octorabbit | 181319 | [181319-octorabbit.json](./181319-octorabbit.json) |
 | Octov | 25754 | [25754-octov.json](./25754-octov.json) |
 | Oculant | 275717 | [275717-oculant.json](./275717-oculant.json) |
@@ -776,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Strike: Complete Edition | 238181 | [238181-one-strike-complete-edition.json](./238181-one-strike-complete-edition.json) |
 | One Strike: Rise of Dragons | 238180 | [238180-one-strike-rise-of-dragons.json](./238180-one-strike-rise-of-dragons.json) |
 | One Tank to Rule Them All | 86333 | [86333-one-tank-to-rule-them-all.json](./86333-one-tank-to-rule-them-all.json) |
+| One Tap | 265239 | [265239-one-tap.json](./265239-one-tap.json) |
 | One Thousand and One Days | 182969 | [182969-one-thousand-and-one-days.json](./182969-one-thousand-and-one-days.json) |
 | One Thousand Lies | 19444 | [19444-one-thousand-lies.json](./19444-one-thousand-lies.json) |
 | One to Three: Sovereignty | 182998 | [182998-one-to-three-sovereignty.json](./182998-one-to-three-sovereignty.json) |
