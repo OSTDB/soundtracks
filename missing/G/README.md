@@ -194,6 +194,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galax-e-mail | 78663 | [78663-galax-e-mail.json](./78663-galax-e-mail.json) |
 | Galax-i-Birds | 55187 | [55187-galax-i-birds.json](./55187-galax-i-birds.json) |
 | Galaxar | 358900 | [358900-galaxar.json](./358900-galaxar.json) |
+| Galaxian | 277384 | [277384-galaxian.json](./277384-galaxian.json) |
+| Galaxian | 277385 | [277385-galaxian.json](./277385-galaxian.json) |
+| Galaxian | 277386 | [277386-galaxian.json](./277386-galaxian.json) |
+| Galaxian | 277388 | [277388-galaxian.json](./277388-galaxian.json) |
+| Galaxian | 277389 | [277389-galaxian.json](./277389-galaxian.json) |
+| Galaxian | 277390 | [277390-galaxian.json](./277390-galaxian.json) |
+| Galaxian | 277391 | [277391-galaxian.json](./277391-galaxian.json) |
+| Galaxian | 277392 | [277392-galaxian.json](./277392-galaxian.json) |
 | Galaxian3 | 234085 | [234085-galaxian3.json](./234085-galaxian3.json) |
 | Galaxians & Gloops | 319580 | [319580-galaxians-and-gloops.json](./319580-galaxians-and-gloops.json) |
 | Galaxicus | 119022 | [119022-galaxicus.json](./119022-galaxicus.json) |
@@ -1774,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goreball | 122348 | [122348-goreball.json](./122348-goreball.json) |
 | Goremon | 249224 | [249224-goremon.json](./249224-goremon.json) |
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
+| Gorf the Ghost Saves Halloween | 277415 | [277415-gorf-the-ghost-saves-halloween.json](./277415-gorf-the-ghost-saves-halloween.json) |
 | Gorgeous Princess Dressup | 104605 | [104605-gorgeous-princess-dressup.json](./104605-gorgeous-princess-dressup.json) |
 | Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
 | Gorgon Shield | 259018 | [259018-gorgon-shield.json](./259018-gorgon-shield.json) |
