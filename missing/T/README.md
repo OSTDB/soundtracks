@@ -4294,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revanchist | 338722 | [338722-the-revanchist.json](./338722-the-revanchist.json) |
 | The Revelation of Gensokyo | 157121 | [157121-the-revelation-of-gensokyo.json](./157121-the-revelation-of-gensokyo.json) |
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
+| The Revived Throne | 249249 | [249249-the-revived-throne.json](./249249-the-revived-throne.json) |
 | The Reward of Cherishment and Eternity. | 329199 | [329199-the-reward-of-cherishment-and-eternity.json](./329199-the-reward-of-cherishment-and-eternity.json) |
 | The Rewinder: Definitive Edition | 294824 | [294824-the-rewinder-definitive-edition.json](./294824-the-rewinder-definitive-edition.json) |
 | The Rewinder: Root of Evil | 267364 | [267364-the-rewinder-root-of-evil.json](./267364-the-rewinder-root-of-evil.json) |
@@ -4371,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
 | The Sands of Egypt | 23688 | [23688-the-sands-of-egypt.json](./23688-the-sands-of-egypt.json) |
 | The Sapling | 126479 | [126479-the-sapling.json](./126479-the-sapling.json) |
+| The Sarah Jane Adventures: Alien Alliance | 249264 | [249264-the-sarah-jane-adventures-alien-alliance.json](./249264-the-sarah-jane-adventures-alien-alliance.json) |
 | The Savage Hypnotist's Puppets | 213400 | [213400-the-savage-hypnotists-puppets.json](./213400-the-savage-hypnotists-puppets.json) |
 | The Savior's Gang | 115049 | [115049-the-saviors-gang.json](./115049-the-saviors-gang.json) |
 | The Scaling | 386286 | [386286-the-scaling.json](./386286-the-scaling.json) |
@@ -7230,6 +7232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch My Katamari | 6462 | [6462-touch-my-katamari.json](./6462-touch-my-katamari.json) |
 | Touch My Spinner | 61618 | [61618-touch-my-spinner.json](./61618-touch-my-spinner.json) |
 | Touch Pets: Dogs | 67947 | [67947-touch-pets-dogs.json](./67947-touch-pets-dogs.json) |
+| Touch Point Tennis | 249248 | [249248-touch-point-tennis.json](./249248-touch-point-tennis.json) |
 | Touch Selections | 57058 | [57058-touch-selections.json](./57058-touch-selections.json) |
 | Touch Some Grass | 195146 | [195146-touch-some-grass.json](./195146-touch-some-grass.json) |
 | Touch the Floor | 151155 | [151155-touch-the-floor.json](./151155-touch-the-floor.json) |
