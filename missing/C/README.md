@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
 | Chesh | 15551 | [15551-chesh.json](./15551-chesh.json) |
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
+| Chess | 277419 | [277419-chess.json](./277419-chess.json) |
 | Chess | 9165 | [9165-chess.json](./9165-chess.json) |
 | Chess - tChess Pro | 104610 | [104610-chess-tchess-pro.json](./104610-chess-tchess-pro.json) |
 | Chess '98 | 204703 | [204703-chess-98.json](./204703-chess-98.json) |
@@ -3866,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Operation Online | 169422 | [169422-counter-operation-online.json](./169422-counter-operation-online.json) |
 | Counter Ops: Blackout Assault | 269036 | [269036-counter-ops-blackout-assault.json](./269036-counter-ops-blackout-assault.json) |
 | Counter Shooter Strike Zone | 283283 | [283283-counter-shooter-strike-zone.json](./283283-counter-shooter-strike-zone.json) |
+| Counter Shot: Source | 277387 | [277387-counter-shot-source.json](./277387-counter-shot-source.json) |
 | Counter Snipe | 265672 | [265672-counter-snipe.json](./265672-counter-snipe.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
