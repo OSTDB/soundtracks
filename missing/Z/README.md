@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hunter | 48623 | [48623-zombie-hunter.json](./48623-zombie-hunter.json) |
 | Zombie Hunter King | 105867 | [105867-zombie-hunter-king.json](./105867-zombie-hunter-king.json) |
 | Zombie Hunter Video Game | 220128 | [220128-zombie-hunter-video-game.json](./220128-zombie-hunter-video-game.json) |
+| Zombie Hunter: Crimson Hanbok | 238057 | [238057-zombie-hunter-crimson-hanbok.json](./238057-zombie-hunter-crimson-hanbok.json) |
 | Zombie Hunter: Mobile Shooting Game | 159239 | [159239-zombie-hunter-mobile-shooting-game.json](./159239-zombie-hunter-mobile-shooting-game.json) |
 | Zombie In Town | 164976 | [164976-zombie-in-town.json](./164976-zombie-in-town.json) |
 | Zombie Incident | 41714 | [41714-zombie-incident.json](./41714-zombie-incident.json) |
