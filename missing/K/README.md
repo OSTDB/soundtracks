@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindred Fates | 129154 | [129154-kindred-fates.json](./129154-kindred-fates.json) |
 | Kindred Spirits Complete Collection | 53240 | [53240-kindred-spirits-complete-collection.json](./53240-kindred-spirits-complete-collection.json) |
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
+| Kinduo 2: Frostbite | 263043 | [263043-kinduo-2-frostbite.json](./263043-kinduo-2-frostbite.json) |
 | Kinect Fun Labs: Air Band | 329731 | [329731-kinect-fun-labs-air-band.json](./329731-kinect-fun-labs-air-band.json) |
 | Kinect Fun Labs: I Am Super! | 329734 | [329734-kinect-fun-labs-i-am-super.json](./329734-kinect-fun-labs-i-am-super.json) |
 | Kinect Fun Labs: Kinect Googly Eyes | 329729 | [329729-kinect-fun-labs-kinect-googly-eyes.json](./329729-kinect-fun-labs-kinect-googly-eyes.json) |
