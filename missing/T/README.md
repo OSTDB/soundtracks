@@ -4076,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Purple Hike | 413608 | [413608-the-purple-hike.json](./413608-the-purple-hike.json) |
 | The Purring Quest | 14566 | [14566-the-purring-quest.json](./14566-the-purring-quest.json) |
 | The Putrid Pumps | 271203 | [271203-the-putrid-pumps.json](./271203-the-putrid-pumps.json) |
+| The Puzzle Maker: Cebba's Odyssey | 275112 | [275112-the-puzzle-maker-cebbas-odyssey.json](./275112-the-puzzle-maker-cebbas-odyssey.json) |
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
 | The Pyramid | 45362 | [45362-the-pyramid.json](./45362-the-pyramid.json) |
 | The Pyramid Prison | 127236 | [127236-the-pyramid-prison.json](./127236-the-pyramid-prison.json) |
@@ -4094,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest for One | 202970 | [202970-the-quest-for-one.json](./202970-the-quest-for-one.json) |
 | The Quest Keeper | 344939 | [344939-the-quest-keeper.json](./344939-the-quest-keeper.json) |
 | The Quest of Merravid | 12961 | [12961-the-quest-of-merravid.json](./12961-the-quest-of-merravid.json) |
+| The Quest of the Tiny Hero | 275134 | [275134-the-quest-of-the-tiny-hero.json](./275134-the-quest-of-the-tiny-hero.json) |
 | The Quest: Hero of Lukomorye V | 200205 | [200205-the-quest-hero-of-lukomorye-v.json](./200205-the-quest-hero-of-lukomorye-v.json) |
 | The Quest: Islands of Ice and Fire | 154509 | [154509-the-quest-islands-of-ice-and-fire.json](./154509-the-quest-islands-of-ice-and-fire.json) |
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
@@ -4504,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Small Christmas Game | 178580 | [178580-the-small-christmas-game.json](./178580-the-small-christmas-game.json) |
 | The Smash Cars Tournament | 195145 | [195145-the-smash-cars-tournament.json](./195145-the-smash-cars-tournament.json) |
 | The Smiler | 305365 | [305365-the-smiler.json](./305365-the-smiler.json) |
+| The Smiling Man: Remake | 275143 | [275143-the-smiling-man-remake.json](./275143-the-smiling-man-remake.json) |
 | The Smugglers | 191187 | [191187-the-smugglers.json](./191187-the-smugglers.json) |
 | The Smurfs | 80521 | [80521-the-smurfs.json](./80521-the-smurfs.json) |
 | The Smurfs Bakery | 248647 | [248647-the-smurfs-bakery.json](./248647-the-smurfs-bakery.json) |
@@ -7359,6 +7362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
 | Track My Train | 356645 | [356645-track-my-train.json](./356645-track-my-train.json) |
 | Track No.9 | 339808 | [339808-track-no-9.json](./339808-track-no-9.json) |
+| Track Racing: The Holy Rosary | 275133 | [275133-track-racing-the-holy-rosary.json](./275133-track-racing-the-holy-rosary.json) |
 | Trackastrophe! | 333074 | [333074-trackastrophe.json](./333074-trackastrophe.json) |
 | TrackDayR | 143045 | [143045-trackdayr.json](./143045-trackdayr.json) |
 | TrackMania 2: Stadium | 9448 | [9448-trackmania-2-stadium.json](./9448-trackmania-2-stadium.json) |
@@ -8250,6 +8254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron: Identity | 216277 | [216277-tron-identity.json](./216277-tron-identity.json) |
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
 | Trophy | 143070 | [143070-trophy.json](./143070-trophy.json) |
+| Trophy Hunt | 275129 | [275129-trophy-hunt.json](./275129-trophy-hunt.json) |
 | Trophy Truck Racing Tour | 369650 | [369650-trophy-truck-racing-tour.json](./369650-trophy-truck-racing-tour.json) |
 | Tropi | 209654 | [209654-tropi.json](./209654-tropi.json) |
 | Tropic Isle | 130866 | [130866-tropic-isle.json](./130866-tropic-isle.json) |
