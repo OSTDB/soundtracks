@@ -3441,6 +3441,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Sora no Kiseki FC Evolution - Limited Edition | 268030 | [268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json](./268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json) |
 | The Legend of Heroes: Trails into Reverie | 136673 | [136673-the-legend-of-heroes-trails-into-reverie.json](./136673-the-legend-of-heroes-trails-into-reverie.json) |
 | The Legend of Heroes: Trails into Reverie - Complete Cosmetics | 256256 | [256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json](./256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json) |
+| The Legend of Heroes: Trails into Reverie - Premium Cosmetic Set | 251673 | [251673-the-legend-of-heroes-trails-into-reverie-premium-cosmetic-set.json](./251673-the-legend-of-heroes-trails-into-reverie-premium-cosmetic-set.json) |
+| The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set | 251671 | [251671-the-legend-of-heroes-trails-into-reverie-sss-summer-splash-set.json](./251671-the-legend-of-heroes-trails-into-reverie-sss-summer-splash-set.json) |
+| The Legend of Heroes: Trails into Reverie - Standard Cosmetic Set | 251672 | [251672-the-legend-of-heroes-trails-into-reverie-standard-cosmetic-set.json](./251672-the-legend-of-heroes-trails-into-reverie-standard-cosmetic-set.json) |
 | The Legend of Heroes: Trails of Cold Steel - Lionheart Edition | 89911 | [89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json](./89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel II | 13558 | [13558-the-legend-of-heroes-trails-of-cold-steel-ii.json](./13558-the-legend-of-heroes-trails-of-cold-steel-ii.json) |
 | The Legend of Heroes: Trails of Cold Steel II - All Ride-Alongs | 124812 | [124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json](./124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json) |
@@ -3752,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Many Pieces of Mr. Coo | 142959 | [142959-the-many-pieces-of-mr-coo.json](./142959-the-many-pieces-of-mr-coo.json) |
 | The Many Pieces of Mr. Coo: Coollector Edition | 247195 | [247195-the-many-pieces-of-mr-coo-coollector-edition.json](./247195-the-many-pieces-of-mr-coo-coollector-edition.json) |
 | The Many Pieces of Mr. Coo: Fantabulous Edition | 247194 | [247194-the-many-pieces-of-mr-coo-fantabulous-edition.json](./247194-the-many-pieces-of-mr-coo-fantabulous-edition.json) |
+| The Many Sins of House Ocampo | 251651 | [251651-the-many-sins-of-house-ocampo.json](./251651-the-many-sins-of-house-ocampo.json) |
 | The Marauder Chronicles: Curse over Valdria | 161901 | [161901-the-marauder-chronicles-curse-over-valdria.json](./161901-the-marauder-chronicles-curse-over-valdria.json) |
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
 | The Mark | 10956 | [10956-the-mark.json](./10956-the-mark.json) |
