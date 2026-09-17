@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville 12 | 195716 | [195716-laruaville-12.json](./195716-laruaville-12.json) |
 | Laruaville 15 | 302355 | [302355-laruaville-15.json](./302355-laruaville-15.json) |
 | Laruaville 17 | 377062 | [377062-laruaville-17.json](./377062-laruaville-17.json) |
+| Laruaville 2 | 262486 | [262486-laruaville-2.json](./262486-laruaville-2.json) |
 | Laruaville 4 Christmas Match 3 Puzzle | 227874 | [227874-laruaville-4-christmas-match-3-puzzle.json](./227874-laruaville-4-christmas-match-3-puzzle.json) |
 | Las Diablas Blackjack | 84187 | [84187-las-diablas-blackjack.json](./84187-las-diablas-blackjack.json) |
 | Las Vegas | 41423 | [41423-las-vegas.json](./41423-las-vegas.json) |
@@ -1575,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Kitty Meow | 403717 | [403717-little-kitty-meow.json](./403717-little-kitty-meow.json) |
 | Little Kitty, Big City: Picture Purrfect | 360076 | [360076-little-kitty-big-city-picture-purrfect.json](./360076-little-kitty-big-city-picture-purrfect.json) |
 | Little Kong: Jungle Fun | 219285 | [219285-little-kong-jungle-fun.json](./219285-little-kong-jungle-fun.json) |
+| Little Lamb | 262429 | [262429-little-lamb.json](./262429-little-lamb.json) |
 | Little Laps | 349326 | [349326-little-laps.json](./349326-little-laps.json) |
 | Little League World Series Baseball 2008 | 47953 | [47953-little-league-world-series-baseball-2008.json](./47953-little-league-world-series-baseball-2008.json) |
 | Little League World Series Baseball 2010 | 66621 | [66621-little-league-world-series-baseball-2010.json](./66621-little-league-world-series-baseball-2010.json) |
@@ -2464,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luckrot | 351706 | [351706-luckrot.json](./351706-luckrot.json) |
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
 | Lucky Dog 1 | 147444 | [147444-lucky-dog-1.json](./147444-lucky-dog-1.json) |
+| Lucky Gem | 262484 | [262484-lucky-gem.json](./262484-lucky-gem.json) |
 | Lucky Gem Casino | 323158 | [323158-lucky-gem-casino.json](./323158-lucky-gem-casino.json) |
 | Lucky Hand: Roguelike Deck Builder | 347780 | [347780-lucky-hand-roguelike-deck-builder.json](./347780-lucky-hand-roguelike-deck-builder.json) |
 | Lucky Island | 224742 | [224742-lucky-island.json](./224742-lucky-island.json) |
