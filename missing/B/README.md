@@ -3193,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boeckham's Football Manager | 337456 | [337456-boeckhams-football-manager.json](./337456-boeckhams-football-manager.json) |
 | BOFH: Servers Under Siege | 51277 | [51277-bofh-servers-under-siege.json](./51277-bofh-servers-under-siege.json) |
 | Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense. - Line Wars | 137670 | [137670-bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-line-wars.json](./137670-bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-line-wars.json) |
+| Bog Man Has Had Enough | 271843 | [271843-bog-man-has-had-enough.json](./271843-bog-man-has-had-enough.json) |
 | Bog Racer | 239893 | [239893-bog-racer.json](./239893-bog-racer.json) |
 | Bogart | 243947 | [243947-bogart.json](./243947-bogart.json) |
 | Bogart 2: Return of Bogart | 243949 | [243949-bogart-2-return-of-bogart.json](./243949-bogart-2-return-of-bogart.json) |
@@ -3477,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2: Mad Moxxi and the Wedding Day Massacre | 13927 | [13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json](./13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json) |
 | Borderlands 2: Mr. Torgue's Campaign of Carnage | 13921 | [13921-borderlands-2-mr-torgues-campaign-of-carnage.json](./13921-borderlands-2-mr-torgues-campaign-of-carnage.json) |
 | Borderlands 3: Deluxe Edition | 116995 | [116995-borderlands-3-deluxe-edition.json](./116995-borderlands-3-deluxe-edition.json) |
+| Borderlands 3: Director's Cut | 271818 | [271818-borderlands-3-directors-cut.json](./271818-borderlands-3-directors-cut.json) |
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
 | Borderlands Mobile | 397810 | [397810-borderlands-mobile.json](./397810-borderlands-mobile.json) |
