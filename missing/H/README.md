@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Winter | 25769 | [25769-hard-winter.json](./25769-hard-winter.json) |
 | Hard Work | 102327 | [102327-hard-work.json](./102327-hard-work.json) |
 | Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
+| HardAF | 276839 | [276839-hardaf.json](./276839-hardaf.json) |
 | HardBall | 268448 | [268448-hardball.json](./268448-hardball.json) |
 | HardBall! | 12136 | [12136-hardball.json](./12136-hardball.json) |
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
@@ -585,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Hands | 125419 | [125419-harvest-hands.json](./125419-harvest-hands.json) |
 | Harvest Hustlers | 302363 | [302363-harvest-hustlers.json](./302363-harvest-hustlers.json) |
 | Harvest Island: Beginnings | 159878 | [159878-harvest-island-beginnings.json](./159878-harvest-island-beginnings.json) |
+| Harvest Knight | 276840 | [276840-harvest-knight.json](./276840-harvest-knight.json) |
 | Harvest Land | 101485 | [101485-harvest-land.json](./101485-harvest-land.json) |
 | Harvest Life + Castaway Paradise | 247494 | [247494-harvest-life-castaway-paradise.json](./247494-harvest-life-castaway-paradise.json) |
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
@@ -1184,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello! From Hallowville | 178573 | [178573-hello-from-hallowville.json](./178573-hello-from-hallowville.json) |
 | Hello! Lady Lynn: Yume no wo Heya ni Youkoso! | 293909 | [293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json](./293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json) |
 | HelloWorld: Escape | 369582 | [369582-helloworld-escape.json](./369582-helloworld-escape.json) |
+| HelloWorldFactory | 276841 | [276841-helloworldfactory.json](./276841-helloworldfactory.json) |
 | Hellpit | 228448 | [228448-hellpit.json](./228448-hellpit.json) |
 | Hellpoint: Ultimate Edition | 209688 | [209688-hellpoint-ultimate-edition.json](./209688-hellpoint-ultimate-edition.json) |
 | HellPunk: Purgatorium | 349925 | [349925-hellpunk-purgatorium.json](./349925-hellpunk-purgatorium.json) |
@@ -2293,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
 | Holonglide | 106611 | [106611-holonglide.json](./106611-holonglide.json) |
 | Holonomy | 310570 | [310570-holonomy.json](./310570-holonomy.json) |
+| HoloParade | 276842 | [276842-holoparade.json](./276842-holoparade.json) |
 | Holopoint | 33147 | [33147-holopoint.json](./33147-holopoint.json) |
 | HoloRun | 361794 | [361794-holorun.json](./361794-holorun.json) |
 | Holos lisu | 279752 | [279752-holos-lisu.json](./279752-holos-lisu.json) |
@@ -2968,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huge Enemy - Worldbreakers | 107855 | [107855-huge-enemy-worldbreakers.json](./107855-huge-enemy-worldbreakers.json) |
 | Huge Insect | 64901 | [64901-huge-insect.json](./64901-huge-insect.json) |
 | Huggy & Friends | 372483 | [372483-huggy-and-friends.json](./372483-huggy-and-friends.json) |
+| Huggy: Love and Rescue | 276861 | [276861-huggy-love-and-rescue.json](./276861-huggy-love-and-rescue.json) |
 | Huglings | 388756 | [388756-huglings.json](./388756-huglings.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
 | Hugo III, Jungle of Doom! | 8883 | [8883-hugo-iii-jungle-of-doom.json](./8883-hugo-iii-jungle-of-doom.json) |
