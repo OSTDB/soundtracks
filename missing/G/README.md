@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genfanad | 159346 | [159346-genfanad.json](./159346-genfanad.json) |
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
 | Genghis Khan II: Clan of the Gray Wolf | 5389 | [5389-genghis-khan-ii-clan-of-the-gray-wolf.json](./5389-genghis-khan-ii-clan-of-the-gray-wolf.json) |
+| Genie Gym | 272370 | [272370-genie-gym.json](./272370-genie-gym.json) |
 | Genie Reprise | 282145 | [282145-genie-reprise.json](./282145-genie-reprise.json) |
 | Genies & Gems | 86809 | [86809-genies-and-gems.json](./86809-genies-and-gems.json) |
 | Genies & Jewels - Puzzle Quest | 105940 | [105940-genies-and-jewels-puzzle-quest.json](./105940-genies-and-jewels-puzzle-quest.json) |
@@ -2054,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
+| GraveBond | 272390 | [272390-gravebond.json](./272390-gravebond.json) |
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | Gravel: Armored Operation | 167805 | [167805-gravel-armored-operation.json](./167805-gravel-armored-operation.json) |
 | Gravelmon | 359996 | [359996-gravelmon.json](./359996-gravelmon.json) |
@@ -2178,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
 | Greedy Frog | 55120 | [55120-greedy-frog.json](./55120-greedy-frog.json) |
 | Greedy Guns | 40556 | [40556-greedy-guns.json](./40556-greedy-guns.json) |
+| Greedy in the Dark | 272349 | [272349-greedy-in-the-dark.json](./272349-greedy-in-the-dark.json) |
 | Greedy Maze | 136459 | [136459-greedy-maze.json](./136459-greedy-maze.json) |
 | Greedy Penguins | 20715 | [20715-greedy-penguins.json](./20715-greedy-penguins.json) |
 | Greedy Squad | 348856 | [348856-greedy-squad.json](./348856-greedy-squad.json) |
