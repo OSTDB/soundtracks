@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degen Royale | 223430 | [223430-degen-royale.json](./223430-degen-royale.json) |
 | Degenerate Souls | 159848 | [159848-degenerate-souls.json](./159848-degenerate-souls.json) |
 | Degeneration | 107891 | [107891-degeneration.json](./107891-degeneration.json) |
+| Degradation: Kyomu's Fury | 265780 | [265780-degradation-kyomus-fury.json](./265780-degradation-kyomus-fury.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
 | Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
 | Dehydration | 374723 | [374723-dehydration.json](./374723-dehydration.json) |
@@ -2520,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Station 98 #2 | 336602 | [336602-disc-station-98-2.json](./336602-disc-station-98-2.json) |
 | Disc Station MSX #09 | 266482 | [266482-disc-station-msx-09.json](./266482-disc-station-msx-09.json) |
 | Disc Station MSX #11 | 266489 | [266489-disc-station-msx-11.json](./266489-disc-station-msx-11.json) |
+| Discarnate | 265628 | [265628-discarnate.json](./265628-discarnate.json) |
 | Discharge | 117040 | [117040-discharge.json](./117040-discharge.json) |
 | Dischord | 119001 | [119001-dischord.json](./119001-dischord.json) |
 | Discin | 295797 | [295797-discin.json](./295797-discin.json) |
@@ -2788,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: Emotional Sense Pack | 225060 | [225060-djmax-respect-v-emotional-sense-pack.json](./225060-djmax-respect-v-emotional-sense-pack.json) |
 | DJMax Respect V: Ez2on Pack | 239342 | [239342-djmax-respect-v-ez2on-pack.json](./239342-djmax-respect-v-ez2on-pack.json) |
 | DJMax Respect V: Groove Coaster Pack | 225059 | [225059-djmax-respect-v-groove-coaster-pack.json](./225059-djmax-respect-v-groove-coaster-pack.json) |
+| DJMax Respect V: MapleStory Pack | 265635 | [265635-djmax-respect-v-maplestory-pack.json](./265635-djmax-respect-v-maplestory-pack.json) |
 | DJMax Respect V: Technika Pack | 225058 | [225058-djmax-respect-v-technika-pack.json](./225058-djmax-respect-v-technika-pack.json) |
 | DJMax Technika | 79271 | [79271-djmax-technika.json](./79271-djmax-technika.json) |
 | DJMax Technika Tune: Limited Edition | 89906 | [89906-djmax-technika-tune-limited-edition.json](./89906-djmax-technika-tune-limited-edition.json) |
@@ -2820,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DND | 2888 | [2888-dnd.json](./2888-dnd.json) |
 | DnD Dice | 105951 | [105951-dnd-dice.json](./105951-dnd-dice.json) |
 | DNetHack | 351129 | [351129-dnethack.json](./351129-dnethack.json) |
+| DNF Duel: DLC 2 - Brawler | 265719 | [265719-dnf-duel-dlc-2-brawler.json](./265719-dnf-duel-dlc-2-brawler.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
@@ -3628,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula's Secret | 73228 | [73228-draculas-secret.json](./73228-draculas-secret.json) |
 | Dracula’s Vengeance | 249206 | [249206-dracula-s-vengeance.json](./249206-dracula-s-vengeance.json) |
 | Draculator II: Byte of the Draculator | 168389 | [168389-draculator-ii-byte-of-the-draculator.json](./168389-draculator-ii-byte-of-the-draculator.json) |
+| Draculesti | 265622 | [265622-draculesti.json](./265622-draculesti.json) |
 | Draeggoria | 392271 | [392271-draeggoria.json](./392271-draeggoria.json) |
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
@@ -4132,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamspace | 323342 | [323342-dreamspace.json](./323342-dreamspace.json) |
 | Dreamspring | 333372 | [333372-dreamspring.json](./333372-dreamspring.json) |
 | Dreamstate Racing | 133414 | [133414-dreamstate-racing.json](./133414-dreamstate-racing.json) |
+| Dreamsweeper | 265772 | [265772-dreamsweeper.json](./265772-dreamsweeper.json) |
 | Dreamtale | 178656 | [178656-dreamtale.json](./178656-dreamtale.json) |
 | Dreamtone | 310960 | [310960-dreamtone.json](./310960-dreamtone.json) |
 | Dreamwalker | 333021 | [333021-dreamwalker.json](./333021-dreamwalker.json) |
@@ -4167,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dress | 94748 | [94748-dress.json](./94748-dress.json) |
 | Dress Up Bear | 96029 | [96029-dress-up-bear.json](./96029-dress-up-bear.json) |
 | Dress-Up With Helene: Deluxe! | 358860 | [358860-dress-up-with-helene-deluxe.json](./358860-dress-up-with-helene-deluxe.json) |
+| Dressed to Kill Sherlock Holmes for Playdate & C64! | 265737 | [265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json](./265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json) |
 | Drevepsina | 256005 | [256005-drevepsina.json](./256005-drevepsina.json) |
 | Drew and the Floating Labyrinth | 35867 | [35867-drew-and-the-floating-labyrinth.json](./35867-drew-and-the-floating-labyrinth.json) |
 | Driar | 191911 | [191911-driar.json](./191911-driar.json) |
@@ -4451,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducks Ahoy! | 76603 | [76603-ducks-ahoy.json](./76603-ducks-ahoy.json) |
 | Ducks in Disguise | 411621 | [411621-ducks-in-disguise.json](./411621-ducks-in-disguise.json) |
 | Duckside | 295239 | [295239-duckside.json](./295239-duckside.json) |
+| Duckstazy Classic | 265755 | [265755-duckstazy-classic.json](./265755-duckstazy-classic.json) |
 | DuckStruck | 371326 | [371326-duckstruck.json](./371326-duckstruck.json) |
 | DuckTales: Scrooge's Loot | 78640 | [78640-ducktales-scrooges-loot.json](./78640-ducktales-scrooges-loot.json) |
 | Ducktopia | 169388 | [169388-ducktopia.json](./169388-ducktopia.json) |
