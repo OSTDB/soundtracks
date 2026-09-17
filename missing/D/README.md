@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
 | Delverun | 416683 | [416683-delverun.json](./416683-delverun.json) |
 | Delving Deep | 226748 | [226748-delving-deep.json](./226748-delving-deep.json) |
+| Delysium | 238078 | [238078-delysium.json](./238078-delysium.json) |
 | DEM_Stage_Zero | 127369 | [127369-dem-stage-zero.json](./127369-dem-stage-zero.json) |
 | DeMagnete VR | 115066 | [115066-demagnete-vr.json](./115066-demagnete-vr.json) |
 | Demand Dial Exorcist | 366888 | [366888-demand-dial-exorcist.json](./366888-demand-dial-exorcist.json) |
@@ -2584,6 +2585,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Golf to Go | 175399 | [175399-disc-golf-to-go.json](./175399-disc-golf-to-go.json) |
 | Disc Party | 134081 | [134081-disc-party.json](./134081-disc-party.json) |
 | Disc Room | 131614 | [131614-disc-room.json](./131614-disc-room.json) |
+| Disc Saga Extra Edition: The Tower of Muda | 238086 | [238086-disc-saga-extra-edition-the-tower-of-muda.json](./238086-disc-saga-extra-edition-the-tower-of-muda.json) |
+| Disc Saga: Burning Sword! | 238082 | [238082-disc-saga-burning-sword.json](./238082-disc-saga-burning-sword.json) |
+| Disc Saga: Iraisha wa Monster? | 238087 | [238087-disc-saga-iraisha-wa-monster.json](./238087-disc-saga-iraisha-wa-monster.json) |
 | Disc Station #12 | 266479 | [266479-disc-station-12.json](./266479-disc-station-12.json) |
 | Disc Station 98 #2 | 336602 | [336602-disc-station-98-2.json](./336602-disc-station-98-2.json) |
 | Disc Station MSX #09 | 266482 | [266482-disc-station-msx-09.json](./266482-disc-station-msx-09.json) |
