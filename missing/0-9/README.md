@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | _Message: | 273453 | [273453-message.json](./273453-message.json) |
 | _Turing | 306086 | [306086-turing.json](./306086-turing.json) |
+| -256 | 245917 | [245917-256.json](./245917-256.json) |
 | !BurnToDie! | 109760 | [109760-burntodie.json](./109760-burntodie.json) |
 | ¡Shin Chan: Flipa en colores! | 93591 | [93591-shin-chan-flipa-en-colores.json](./93591-shin-chan-flipa-en-colores.json) |
 | ?? Movie Theater | 343834 | [343834-movie-theater.json](./343834-movie-theater.json) |
@@ -579,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 In One Fun Pak | 93568 | [93568-5-in-one-fun-pak.json](./93568-5-in-one-fun-pak.json) |
 | 5 Intelligent Strategy Games | 320405 | [320405-5-intelligent-strategy-games.json](./320405-5-intelligent-strategy-games.json) |
 | 5 Minute Raid | 304004 | [304004-5-minute-raid.json](./304004-5-minute-raid.json) |
+| 5 Star Fishy | 245937 | [245937-5-star-fishy.json](./245937-5-star-fishy.json) |
 | 5 Star Rio Resort | 38959 | [38959-5-star-rio-resort.json](./38959-5-star-rio-resort.json) |
 | 5-Star Taxi | 415875 | [415875-5-star-taxi.json](./415875-5-star-taxi.json) |
 | 5:48AM | 277038 | [277038-5-48am.json](./277038-5-48am.json) |
