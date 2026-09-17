@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geograph Seal | 63819 | [63819-geograph-seal.json](./63819-geograph-seal.json) |
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
 | GeoJelly | 232457 | [232457-geojelly.json](./232457-geojelly.json) |
+| GeoJelly Space Odyssey Bundle | 284504 | [284504-geojelly-space-odyssey-bundle.json](./284504-geojelly-space-odyssey-bundle.json) |
 | Geom | 93023 | [93023-geom.json](./93023-geom.json) |
 | GeoMaze | 298344 | [298344-geomaze.json](./298344-geomaze.json) |
 | Geometric Feel the Beats | 224206 | [224206-geometric-feel-the-beats.json](./224206-geometric-feel-the-beats.json) |
@@ -1080,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Gunner | 277317 | [277317-girl-gunner.json](./277317-girl-gunner.json) |
 | Girl in Darkness | 394126 | [394126-girl-in-darkness.json](./394126-girl-in-darkness.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
+| Girl Like A Dreaming: Flowering Sacrifice | 284490 | [284490-girl-like-a-dreaming-flowering-sacrifice.json](./284490-girl-like-a-dreaming-flowering-sacrifice.json) |
 | Girl Meets Princess | 82841 | [82841-girl-meets-princess.json](./82841-girl-meets-princess.json) |
 | Girl Nail Art | 87708 | [87708-girl-nail-art.json](./87708-girl-nail-art.json) |
 | Girl Next Door | 169406 | [169406-girl-next-door.json](./169406-girl-next-door.json) |
@@ -1260,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyphs of Gitzan | 300997 | [300997-glyphs-of-gitzan.json](./300997-glyphs-of-gitzan.json) |
 | Glyphs of the Pharaohs | 177002 | [177002-glyphs-of-the-pharaohs.json](./177002-glyphs-of-the-pharaohs.json) |
 | Glyphscape | 349401 | [349401-glyphscape.json](./349401-glyphscape.json) |
+| Gnarbike Trials 2 | 284489 | [284489-gnarbike-trials-2.json](./284489-gnarbike-trials-2.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | Gnog | 26102 | [26102-gnog.json](./26102-gnog.json) |
 | GnollHack | 199058 | [199058-gnollhack.json](./199058-gnollhack.json) |
@@ -2277,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Threads of Destiny | 153388 | [153388-grim-tales-threads-of-destiny.json](./153388-grim-tales-threads-of-destiny.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
 | Grime House | 198452 | [198452-grime-house.json](./198452-grime-house.json) |
+| Grime: Definitive Edition | 284491 | [284491-grime-definitive-edition.json](./284491-grime-definitive-edition.json) |
 | Grime: Tinge of Terror | 252363 | [252363-grime-tinge-of-terror.json](./252363-grime-tinge-of-terror.json) |
 | Grime&Gold | 345554 | [345554-grime-and-gold.json](./345554-grime-and-gold.json) |
 | Grimgrad | 199612 | [199612-grimgrad.json](./199612-grimgrad.json) |
