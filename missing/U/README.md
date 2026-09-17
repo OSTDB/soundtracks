@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
 | UFHO2 | 35793 | [35793-ufho2.json](./35793-ufho2.json) |
 | Ufight | 269859 | [269859-ufight.json](./269859-ufight.json) |
+| UFindo | 262454 | [262454-ufindo.json](./262454-ufindo.json) |
 | UFL | 165352 | [165352-ufl.json](./165352-ufl.json) |
 | UFO | 100199 | [100199-ufo.json](./100199-ufo.json) |
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
@@ -178,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Ride | 95444 | [95444-ultimate-ride.json](./95444-ultimate-ride.json) |
 | Ultimate Rivals: The Court | 150098 | [150098-ultimate-rivals-the-court.json](./150098-ultimate-rivals-the-court.json) |
 | Ultimate Rivals: The Rink | 127349 | [127349-ultimate-rivals-the-rink.json](./127349-ultimate-rivals-the-rink.json) |
+| Ultimate S | 262476 | [262476-ultimate-s.json](./262476-ultimate-s.json) |
 | Ultimate Sackboy | 232419 | [232419-ultimate-sackboy.json](./232419-ultimate-sackboy.json) |
 | Ultimate Savanna Simulator | 86690 | [86690-ultimate-savanna-simulator.json](./86690-ultimate-savanna-simulator.json) |
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
@@ -488,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertones | 104632 | [104632-undertones.json](./104632-undertones.json) |
 | Undertown | 51263 | [51263-undertown.json](./51263-undertown.json) |
 | Undervault | 129771 | [129771-undervault.json](./129771-undervault.json) |
+| Underverse Battles | 261870 | [261870-underverse-battles.json](./261870-underverse-battles.json) |
 | Underwater Affect | 113000 | [113000-underwater-affect.json](./113000-underwater-affect.json) |
 | Underwater and Seafaring Duo | 271827 | [271827-underwater-and-seafaring-duo.json](./271827-underwater-and-seafaring-duo.json) |
 | Underwater Diving | 224547 | [224547-underwater-diving.json](./224547-underwater-diving.json) |
