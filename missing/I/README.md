@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iGP Manager | 59353 | [59353-igp-manager.json](./59353-igp-manager.json) |
 | IGPX: Immortal Grand Prix | 20563 | [20563-igpx-immortal-grand-prix.json](./20563-igpx-immortal-grand-prix.json) |
 | iGrow Game | 21986 | [21986-igrow-game.json](./21986-igrow-game.json) |
+| IGS Classic Arcade Collection | 245916 | [245916-igs-classic-arcade-collection.json](./245916-igs-classic-arcade-collection.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
 | Ihin | 325070 | [325070-ihin.json](./325070-ihin.json) |
 | iHooy! | 79857 | [79857-ihooy.json](./79857-ihooy.json) |
@@ -677,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortals | 103462 | [103462-immortals.json](./103462-immortals.json) |
 | Immortals Fenyx Rising: A New God | 142848 | [142848-immortals-fenyx-rising-a-new-god.json](./142848-immortals-fenyx-rising-a-new-god.json) |
 | Immortals Fenyx Rising: The Lost Gods | 144580 | [144580-immortals-fenyx-rising-the-lost-gods.json](./144580-immortals-fenyx-rising-the-lost-gods.json) |
+| Immortals of Aveum: Deluxe Edition | 245934 | [245934-immortals-of-aveum-deluxe-edition.json](./245934-immortals-of-aveum-deluxe-edition.json) |
 | Immortals: Muv-Luv Alternative | 194560 | [194560-immortals-muv-luv-alternative.json](./194560-immortals-muv-luv-alternative.json) |
 | ImmortalSurvivors | 273663 | [273663-immortalsurvivors.json](./273663-immortalsurvivors.json) |
 | Immortelle | 212825 | [212825-immortelle.json](./212825-immortelle.json) |
