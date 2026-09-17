@@ -502,6 +502,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rashlander | 116832 | [116832-rashlander.json](./116832-rashlander.json) |
 | Rashomon of Shinjuku | 225314 | [225314-rashomon-of-shinjuku.json](./225314-rashomon-of-shinjuku.json) |
 | Rasmus Klump som landpost | 91454 | [91454-rasmus-klump-som-landpost.json](./91454-rasmus-klump-som-landpost.json) |
+| Rasmus Klump: Fnullers Isbod | 286120 | [286120-rasmus-klump-fnullers-isbod.json](./286120-rasmus-klump-fnullers-isbod.json) |
+| Rasmus Klump: Holder Fødselsdag | 286118 | [286118-rasmus-klump-holder-f-dselsdag.json](./286118-rasmus-klump-holder-f-dselsdag.json) |
+| Rasmus Klump: og hans Venner Leger og Lærer | 286122 | [286122-rasmus-klump-og-hans-venner-leger-og-l-rer.json](./286122-rasmus-klump-og-hans-venner-leger-og-l-rer.json) |
+| Rasmus Klump: Som Landpost | 286119 | [286119-rasmus-klump-som-landpost.json](./286119-rasmus-klump-som-landpost.json) |
 | Raspberry | 314249 | [314249-raspberry.json](./314249-raspberry.json) |
 | Raster Blaster | 24879 | [24879-raster-blaster.json](./24879-raster-blaster.json) |
 | Raster Fahndung | 92992 | [92992-raster-fahndung.json](./92992-raster-fahndung.json) |
@@ -2174,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rktcr | 35863 | [35863-rktcr.json](./35863-rktcr.json) |
 | RLCraft | 203457 | [203457-rlcraft.json](./203457-rlcraft.json) |
 | Ro Sham Bo Rush | 252142 | [252142-ro-sham-bo-rush.json](./252142-ro-sham-bo-rush.json) |
+| Roach Hotel | 286121 | [286121-roach-hotel.json](./286121-roach-hotel.json) |
 | Roach Royale | 275331 | [275331-roach-royale.json](./275331-roach-royale.json) |
 | Roach's Room ~Horror Experience Series~ | 107210 | [107210-roachs-room-horror-experience-series.json](./107210-roachs-room-horror-experience-series.json) |
 | Road 3 Pack | 147992 | [147992-road-3-pack.json](./147992-road-3-pack.json) |
