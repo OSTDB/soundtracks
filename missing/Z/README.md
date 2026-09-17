@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zip A Doo | 91377 | [91377-zip-a-doo.json](./91377-zip-a-doo.json) |
 | Zip Zap | 45357 | [45357-zip-zap.json](./45357-zip-zap.json) |
 | ZiParate | 218122 | [218122-ziparate.json](./218122-ziparate.json) |
+| Zipp's Café | 272389 | [272389-zipps-cafe.json](./272389-zipps-cafe.json) |
 | Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
 | Zipple World 2: The Sweet Chaos | 33052 | [33052-zipple-world-2-the-sweet-chaos.json](./33052-zipple-world-2-the-sweet-chaos.json) |
 | Zippy Race | 322775 | [322775-zippy-race.json](./322775-zippy-race.json) |
