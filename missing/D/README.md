@@ -3618,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsu no Mori+: Super Mario Bros | 360585 | [360585-doubutsu-no-mori-super-mario-bros.json](./360585-doubutsu-no-mori-super-mario-bros.json) |
 | Douche Bag | 51735 | [51735-douche-bag.json](./51735-douche-bag.json) |
 | DoudingMan: Expansion Packs | 288899 | [288899-doudingman-expansion-packs.json](./288899-doudingman-expansion-packs.json) |
+| Doug's Nightmare | 236397 | [236397-dougs-nightmare.json](./236397-dougs-nightmare.json) |
 | Douga de Kiku Ano Kyoku no Rhythm Game | 301980 | [301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json](./301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json) |
 | Doughbee | 258727 | [258727-doughbee.json](./258727-doughbee.json) |
 | Doughlings Bundle | 196810 | [196810-doughlings-bundle.json](./196810-doughlings-bundle.json) |
@@ -4917,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durarara!! Relay | 61661 | [61661-durarara-relay.json](./61661-durarara-relay.json) |
 | Durga: The Lionhearted | 352203 | [352203-durga-the-lionhearted.json](./352203-durga-the-lionhearted.json) |
 | Duriano | 311483 | [311483-duriano.json](./311483-duriano.json) |
+| Durka Simulator | 236402 | [236402-durka-simulator.json](./236402-durka-simulator.json) |
 | Duru: About Mole Rats and Depression | 138724 | [138724-duru-about-mole-rats-and-depression.json](./138724-duru-about-mole-rats-and-depression.json) |
 | Dūshì Kǒngbù Gùshì | 116312 | [116312-dushi-kongbu-gushi.json](./116312-dushi-kongbu-gushi.json) |
 | Dusk 12: Deadly Zone | 17738 | [17738-dusk-12-deadly-zone.json](./17738-dusk-12-deadly-zone.json) |
