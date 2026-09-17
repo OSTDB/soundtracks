@@ -475,12 +475,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 7XS | 263506 | [263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json](./263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json) |
 | Jigsaw Puzzle Passport: Spain | 393628 | [393628-jigsaw-puzzle-passport-spain.json](./393628-jigsaw-puzzle-passport-spain.json) |
 | Jigsaw Puzzle World: Agricultural Machinery | 293070 | [293070-jigsaw-puzzle-world-agricultural-machinery.json](./293070-jigsaw-puzzle-world-agricultural-machinery.json) |
+| Jigsaw Puzzle World: Bar Drinks | 247627 | [247627-jigsaw-puzzle-world-bar-drinks.json](./247627-jigsaw-puzzle-world-bar-drinks.json) |
 | Jigsaw Puzzle World: Bears | 293067 | [293067-jigsaw-puzzle-world-bears.json](./293067-jigsaw-puzzle-world-bears.json) |
+| Jigsaw Puzzle World: Birds | 247625 | [247625-jigsaw-puzzle-world-birds.json](./247625-jigsaw-puzzle-world-birds.json) |
 | Jigsaw Puzzle World: Canada | 293609 | [293609-jigsaw-puzzle-world-canada.json](./293609-jigsaw-puzzle-world-canada.json) |
 | Jigsaw Puzzle World: Desserts | 293611 | [293611-jigsaw-puzzle-world-desserts.json](./293611-jigsaw-puzzle-world-desserts.json) |
+| Jigsaw Puzzle World: Electronics | 247628 | [247628-jigsaw-puzzle-world-electronics.json](./247628-jigsaw-puzzle-world-electronics.json) |
 | Jigsaw Puzzle World: Fairground | 293068 | [293068-jigsaw-puzzle-world-fairground.json](./293068-jigsaw-puzzle-world-fairground.json) |
+| Jigsaw Puzzle World: India | 247631 | [247631-jigsaw-puzzle-world-india.json](./247631-jigsaw-puzzle-world-india.json) |
 | Jigsaw Puzzle World: Insects | 293610 | [293610-jigsaw-puzzle-world-insects.json](./293610-jigsaw-puzzle-world-insects.json) |
+| Jigsaw Puzzle World: Mediterranean Food | 247626 | [247626-jigsaw-puzzle-world-mediterranean-food.json](./247626-jigsaw-puzzle-world-mediterranean-food.json) |
+| Jigsaw Puzzle World: Motorcycles | 247624 | [247624-jigsaw-puzzle-world-motorcycles.json](./247624-jigsaw-puzzle-world-motorcycles.json) |
 | Jigsaw Puzzle World: South Korea | 293069 | [293069-jigsaw-puzzle-world-south-korea.json](./293069-jigsaw-puzzle-world-south-korea.json) |
+| Jigsaw Puzzle World: Spain | 247630 | [247630-jigsaw-puzzle-world-spain.json](./247630-jigsaw-puzzle-world-spain.json) |
+| Jigsaw Puzzle World: Toys | 247629 | [247629-jigsaw-puzzle-world-toys.json](./247629-jigsaw-puzzle-world-toys.json) |
+| Jigsaw Puzzle World: U.K. | 247632 | [247632-jigsaw-puzzle-world-u-k.json](./247632-jigsaw-puzzle-world-u-k.json) |
 | Jigsaw Puzzle World: Weather | 293608 | [293608-jigsaw-puzzle-world-weather.json](./293608-jigsaw-puzzle-world-weather.json) |
 | Jigsaw Puzzle: BDSM Room | 203536 | [203536-jigsaw-puzzle-bdsm-room.json](./203536-jigsaw-puzzle-bdsm-room.json) |
 | Jigsaw Puzzle: Delicious Foods | 282135 | [282135-jigsaw-puzzle-delicious-foods.json](./282135-jigsaw-puzzle-delicious-foods.json) |
