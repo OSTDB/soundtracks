@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Amazing Edition | 294827 | [294827-hentai-girls-amazing-edition.json](./294827-hentai-girls-amazing-edition.json) |
 | Hentai Girls: Contact | 281523 | [281523-hentai-girls-contact.json](./281523-hentai-girls-contact.json) |
 | Hentai Girls: Director's Cut | 284501 | [284501-hentai-girls-directors-cut.json](./284501-hentai-girls-directors-cut.json) |
+| Hentai Girls: Extended Edition | 261348 | [261348-hentai-girls-extended-edition.json](./261348-hentai-girls-extended-edition.json) |
 | Hentai Girls: Fresh Firefighter | 300863 | [300863-hentai-girls-fresh-firefighter.json](./300863-hentai-girls-fresh-firefighter.json) |
 | Hentai Girls: Happy Edition | 290427 | [290427-hentai-girls-happy-edition.json](./290427-hentai-girls-happy-edition.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
@@ -1380,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
 | Hentai Sport | 286537 | [286537-hentai-sport.json](./286537-hentai-sport.json) |
 | Hentai Sport | 371362 | [371362-hentai-sport.json](./371362-hentai-sport.json) |
+| Hentai Stars | 261347 | [261347-hentai-stars.json](./261347-hentai-stars.json) |
 | Hentai Stars: Amazing Edition | 308800 | [308800-hentai-stars-amazing-edition.json](./308800-hentai-stars-amazing-edition.json) |
 | Hentai Stars: Deluxe Edition | 268561 | [268561-hentai-stars-deluxe-edition.json](./268561-hentai-stars-deluxe-edition.json) |
 | Hentai Stars: Premium Edition | 283172 | [283172-hentai-stars-premium-edition.json](./283172-hentai-stars-premium-edition.json) |
