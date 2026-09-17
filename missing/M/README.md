@@ -4593,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morterra | 177015 | [177015-morterra.json](./177015-morterra.json) |
 | Mortgage Nightmares | 341336 | [341336-mortgage-nightmares.json](./341336-mortgage-nightmares.json) |
 | Morth | 149587 | [149587-morth.json](./149587-morth.json) |
+| Mortician Inc.: Idle Empire | 245377 | [245377-mortician-inc-idle-empire.json](./245377-mortician-inc-idle-empire.json) |
 | Mortie College | 370714 | [370714-mortie-college.json](./370714-mortie-college.json) |
 | Mortified | 249780 | [249780-mortified.json](./249780-mortified.json) |
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
