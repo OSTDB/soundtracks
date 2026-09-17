@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 19: Premium Edition | 139999 | [139999-farming-simulator-19-premium-edition.json](./139999-farming-simulator-19-premium-edition.json) |
 | Farming Simulator 2011 | 3176 | [3176-farming-simulator-2011.json](./3176-farming-simulator-2011.json) |
 | Farming Simulator 2013 | 3180 | [3180-farming-simulator-2013.json](./3180-farming-simulator-2013.json) |
+| Farming Simulator 22: Case IH Farmall Anniversary Pack | 276271 | [276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json](./276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json) |
 | Farming Simulator 22: Farm Production Pack | 296643 | [296643-farming-simulator-22-farm-production-pack.json](./296643-farming-simulator-22-farm-production-pack.json) |
 | Farming Simulator 22: Pumps n' Hoses Pack | 210271 | [210271-farming-simulator-22-pumps-n-hoses-pack.json](./210271-farming-simulator-22-pumps-n-hoses-pack.json) |
 | Farming Simulator 22: Vermeer Pack | 210269 | [210269-farming-simulator-22-vermeer-pack.json](./210269-farming-simulator-22-vermeer-pack.json) |
@@ -2716,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Fallen Love Ranger Quest Pack | 239033 | [239033-fortnite-fallen-love-ranger-quest-pack.json](./239033-fortnite-fallen-love-ranger-quest-pack.json) |
 | Fortnite: Heartbreak Royale Pack | 275355 | [275355-fortnite-heartbreak-royale-pack.json](./275355-fortnite-heartbreak-royale-pack.json) |
 | Fortnite: Hexed and Haunted Pack | 363899 | [363899-fortnite-hexed-and-haunted-pack.json](./363899-fortnite-hexed-and-haunted-pack.json) |
+| Fortnite: Infinite Drift Pack | 276292 | [276292-fortnite-infinite-drift-pack.json](./276292-fortnite-infinite-drift-pack.json) |
 | Fortnite: May 2024 Fortnite Crew Pack | 303239 | [303239-fortnite-may-2024-fortnite-crew-pack.json](./303239-fortnite-may-2024-fortnite-crew-pack.json) |
 | Fortnite: Minty Legends Pack | 221948 | [221948-fortnite-minty-legends-pack.json](./221948-fortnite-minty-legends-pack.json) |
 | Fortnite: Raptor Royale Pack | 333588 | [333588-fortnite-raptor-royale-pack.json](./333588-fortnite-raptor-royale-pack.json) |
