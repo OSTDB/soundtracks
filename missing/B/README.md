@@ -2141,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binaural Odyssey | 153365 | [153365-binaural-odyssey.json](./153365-binaural-odyssey.json) |
 | Bind: Brain teaser puzzle game | 88292 | [88292-bind-brain-teaser-puzzle-game.json](./88292-bind-brain-teaser-puzzle-game.json) |
 | Binding of Elements | 249227 | [249227-binding-of-elements.json](./249227-binding-of-elements.json) |
+| Bindmancer | 254006 | [254006-bindmancer.json](./254006-bindmancer.json) |
 | Bing Chilling | 371333 | [371333-bing-chilling.json](./371333-bing-chilling.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Azure Dragon | 325436 | [325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json](./325436-bing-in-wonderland-wings-and-weapon-looks-azure-dragon.json) |
 | Bing in Wonderland: Wings & Weapon Looks - Black Tortoise | 325440 | [325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json](./325440-bing-in-wonderland-wings-and-weapon-looks-black-tortoise.json) |
@@ -3137,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlueAge | 312890 | [312890-blueage.json](./312890-blueage.json) |
 | Blueberry Garden | 9983 | [9983-blueberry-garden.json](./9983-blueberry-garden.json) |
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
+| BlueCloud Summit | 254005 | [254005-bluecloud-summit.json](./254005-bluecloud-summit.json) |
 | BlueGlow | 116283 | [116283-blueglow.json](./116283-blueglow.json) |
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
 | BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
@@ -3770,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Bop | 314485 | [314485-box-bop.json](./314485-box-bop.json) |
 | Box Critters | 146293 | [146293-box-critters.json](./146293-box-critters.json) |
 | Box Dash | 196272 | [196272-box-dash.json](./196272-box-dash.json) |
+| Box Dungeons | 254004 | [254004-box-dungeons.json](./254004-box-dungeons.json) |
 | Box Heap | 233523 | [233523-box-heap.json](./233523-box-heap.json) |
 | Box It Up! Inc. | 306634 | [306634-box-it-up-inc.json](./306634-box-it-up-inc.json) |
 | Box Maze | 31758 | [31758-box-maze.json](./31758-box-maze.json) |
@@ -4484,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs N' Guns | 276690 | [276690-bugs-n-guns.json](./276690-bugs-n-guns.json) |
 | Bugs with Afterburners | 387550 | [387550-bugs-with-afterburners.json](./387550-bugs-with-afterburners.json) |
 | Bugs! | 119679 | [119679-bugs.json](./119679-bugs.json) |
+| BugWorld | 254003 | [254003-bugworld.json](./254003-bugworld.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
 | Bugz Bows & Curses | 214192 | [214192-bugz-bows-and-curses.json](./214192-bugz-bows-and-curses.json) |
 | Buhei | 265397 | [265397-buhei.json](./265397-buhei.json) |
