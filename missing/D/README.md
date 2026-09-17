@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash'n'Drops | 389587 | [389587-dashndrops.json](./389587-dashndrops.json) |
 | DashBored | 32847 | [32847-dashbored.json](./32847-dashbored.json) |
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
+| Dashes & Squares | 272377 | [272377-dashes-and-squares.json](./272377-dashes-and-squares.json) |
 | DashFire | 339367 | [339367-dashfire.json](./339367-dashfire.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
@@ -702,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day D: Through Time - Collector's Edition | 355556 | [355556-day-d-through-time-collectors-edition.json](./355556-day-d-through-time-collectors-edition.json) |
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
 | Day of Destruction | 81328 | [81328-day-of-destruction.json](./81328-day-of-destruction.json) |
+| Day of Judgment | 272394 | [272394-day-of-judgment.json](./272394-day-of-judgment.json) |
 | Day of Light | 383383 | [383383-day-of-light.json](./383383-day-of-light.json) |
 | Day of Love | 72663 | [72663-day-of-love.json](./72663-day-of-love.json) |
 | Day of Red Letter | 253031 | [253031-day-of-red-letter.json](./253031-day-of-red-letter.json) |
@@ -1195,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debbie's Diner Derby | 394889 | [394889-debbies-diner-derby.json](./394889-debbies-diner-derby.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
 | Debris | 150097 | [150097-debris.json](./150097-debris.json) |
+| Debt Deadline | 272383 | [272383-debt-deadline.json](./272383-debt-deadline.json) |
 | Decadent Heir | 334217 | [334217-decadent-heir.json](./334217-decadent-heir.json) |
 | Decay | 272018 | [272018-decay.json](./272018-decay.json) |
 | Decay Z : Space Survival | 107152 | [107152-decay-z-space-survival.json](./107152-decay-z-space-survival.json) |
@@ -1639,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons vs. Fairyland | 245328 | [245328-demons-vs-fairyland.json](./245328-demons-vs-fairyland.json) |
 | Demonspire | 381701 | [381701-demonspire.json](./381701-demonspire.json) |
 | Demonstar | 9117 | [9117-demonstar.json](./9117-demonstar.json) |
+| DemonStar: Original Missions | 272391 | [272391-demonstar-original-missions.json](./272391-demonstar-original-missions.json) |
 | DemonsTier | 61647 | [61647-demonstier.json](./61647-demonstier.json) |
 | Demonworld: Dark Armies | 73841 | [73841-demonworld-dark-armies.json](./73841-demonworld-dark-armies.json) |
 | Dempsey and Makepeace | 13588 | [13588-dempsey-and-makepeace.json](./13588-dempsey-and-makepeace.json) |
@@ -2348,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinner Bell | 60005 | [60005-dinner-bell.json](./60005-dinner-bell.json) |
 | Dinner for Pigeons | 168385 | [168385-dinner-for-pigeons.json](./168385-dinner-for-pigeons.json) |
 | Dino | 267359 | [267359-dino.json](./267359-dino.json) |
+| Dino | 272361 | [272361-dino.json](./272361-dino.json) |
 | Dino & Chill | 339938 | [339938-dino-and-chill.json](./339938-dino-and-chill.json) |
 | Dino Attack | 343258 | [343258-dino-attack.json](./343258-dino-attack.json) |
 | Dino Breeder | 64981 | [64981-dino-breeder.json](./64981-dino-breeder.json) |
@@ -3139,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Touch My Phone | 286084 | [286084-dont-touch-my-phone.json](./286084-dont-touch-my-phone.json) |
 | Don't Touch My Teddy Bear | 62772 | [62772-dont-touch-my-teddy-bear.json](./62772-dont-touch-my-teddy-bear.json) |
 | Don't Touch Red!! | 246970 | [246970-dont-touch-red.json](./246970-dont-touch-red.json) |
+| Don't Touch the Purple | 272386 | [272386-dont-touch-the-purple.json](./272386-dont-touch-the-purple.json) |
 | Don't Touch the Red Bubble | 174330 | [174330-dont-touch-the-red-bubble.json](./174330-dont-touch-the-red-bubble.json) |
 | Don't Touch the Snail | 394829 | [394829-dont-touch-the-snail.json](./394829-dont-touch-the-snail.json) |
 | Don't Touch the Spikes | 225291 | [225291-dont-touch-the-spikes.json](./225291-dont-touch-the-spikes.json) |
@@ -3729,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
 | Dragon Guardians | 389958 | [389958-dragon-guardians.json](./389958-dragon-guardians.json) |
 | Dragon Hills 2 | 89540 | [89540-dragon-hills-2.json](./89540-dragon-hills-2.json) |
+| Dragon Hop | 272396 | [272396-dragon-hop.json](./272396-dragon-hop.json) |
 | Dragon Hunt | 69236 | [69236-dragon-hunt.json](./69236-dragon-hunt.json) |
 | Dragon Hunter : Sniper Choice | 90664 | [90664-dragon-hunter-sniper-choice.json](./90664-dragon-hunter-sniper-choice.json) |
 | Dragon Is Dead | 289444 | [289444-dragon-is-dead.json](./289444-dragon-is-dead.json) |
@@ -3945,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
 | DreadHaven: The Last Colony | 336597 | [336597-dreadhaven-the-last-colony.json](./336597-dreadhaven-the-last-colony.json) |
 | Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
+| DreadMoon | 272379 | [272379-dreadmoon.json](./272379-dreadmoon.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
 | Dreadnought Tartarus | 383481 | [383481-dreadnought-tartarus.json](./383481-dreadnought-tartarus.json) |
 | DreadOut | 11712 | [11712-dreadout.json](./11712-dreadout.json) |
@@ -4505,6 +4513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon & Evil | 174847 | [174847-dungeon-and-evil.json](./174847-dungeon-and-evil.json) |
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
 | Dungeon Adventure | 344358 | [344358-dungeon-adventure.json](./344358-dungeon-adventure.json) |
+| Dungeon Adventure Gang | 272371 | [272371-dungeon-adventure-gang.json](./272371-dungeon-adventure-gang.json) |
 | Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
 | Dungeon And Darkness | 332562 | [332562-dungeon-and-darkness.json](./332562-dungeon-and-darkness.json) |
 | Dungeon Apollonios | 391579 | [391579-dungeon-apollonios.json](./391579-dungeon-apollonios.json) |
