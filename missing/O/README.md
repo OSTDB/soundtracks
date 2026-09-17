@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Target | 69850 | [69850-on-target.json](./69850-on-target.json) |
 | On the Brink | 249796 | [249796-on-the-brink.json](./249796-on-the-brink.json) |
 | On The Hook | 415951 | [415951-on-the-hook.json](./415951-on-the-hook.json) |
+| On the Job | 243786 | [243786-on-the-job.json](./243786-on-the-job.json) |
 | On the Keyboard | 316827 | [316827-on-the-keyboard.json](./316827-on-the-keyboard.json) |
 | On the Road | 179664 | [179664-on-the-road.json](./179664-on-the-road.json) |
 | On the Run | 361697 | [361697-on-the-run.json](./361697-on-the-run.json) |
