@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance | 7 | [7-jagged-alliance.json](./7-jagged-alliance.json) |
 | Jagged Alliance 2 Platinum | 53252 | [53252-jagged-alliance-2-platinum.json](./53252-jagged-alliance-2-platinum.json) |
 | Jagged Alliance 2: Wildfire | 10466 | [10466-jagged-alliance-2-wildfire.json](./10466-jagged-alliance-2-wildfire.json) |
+| Jagged Alliance 3: Tactical Edition | 249259 | [249259-jagged-alliance-3-tactical-edition.json](./249259-jagged-alliance-3-tactical-edition.json) |
 | Jagged Alliance DS | 53254 | [53254-jagged-alliance-ds.json](./53254-jagged-alliance-ds.json) |
 | Jagged Alliance Online: Reloaded | 36036 | [36036-jagged-alliance-online-reloaded.json](./36036-jagged-alliance-online-reloaded.json) |
 | Jagged Alliance: Back in Action | 1008 | [1008-jagged-alliance-back-in-action.json](./1008-jagged-alliance-back-in-action.json) |
