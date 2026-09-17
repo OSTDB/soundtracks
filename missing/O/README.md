@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octov | 25754 | [25754-octov.json](./25754-octov.json) |
 | Oculant | 275717 | [275717-oculant.json](./275717-oculant.json) |
 | Oculus Arcade | 213949 | [213949-oculus-arcade.json](./213949-oculus-arcade.json) |
+| Oculus Malus | 269664 | [269664-oculus-malus.json](./269664-oculus-malus.json) |
 | Oculux | 157126 | [157126-oculux.json](./157126-oculux.json) |
 | OD: Knock | 279637 | [279637-od-knock.json](./279637-od-knock.json) |
 | Oda | 122324 | [122324-oda.json](./122324-oda.json) |
@@ -875,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Way Up! Parkour Jump Simulator | 266245 | [266245-only-way-up-parkour-jump-simulator.json](./266245-only-way-up-parkour-jump-simulator.json) |
 | Only Wish | 267062 | [267062-only-wish.json](./267062-only-wish.json) |
 | Only You Can Prevent Containment Breaches | 271242 | [271242-only-you-can-prevent-containment-breaches.json](./271242-only-you-can-prevent-containment-breaches.json) |
+| Only You: Re-Cross | 269643 | [269643-only-you-re-cross.json](./269643-only-you-re-cross.json) |
 | OnlyFap Simulator 2 | 209657 | [209657-onlyfap-simulator-2.json](./209657-onlyfap-simulator-2.json) |
 | OnlyFap Simulator 4 | 224790 | [224790-onlyfap-simulator-4.json](./224790-onlyfap-simulator-4.json) |
 | OnlyFuck 2: Scarlett | 173831 | [173831-onlyfuck-2-scarlett.json](./173831-onlyfuck-2-scarlett.json) |
