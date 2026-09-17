@@ -2336,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anywhere You've Been | 178601 | [178601-anywhere-youve-been.json](./178601-anywhere-youve-been.json) |
 | Anzeigenhauptmeister Simulator | 292510 | [292510-anzeigenhauptmeister-simulator.json](./292510-anzeigenhauptmeister-simulator.json) |
 | Anzu | 325056 | [325056-anzu.json](./325056-anzu.json) |
+| Ao no Kanata no Four Rhythm Extra1+2P | 280892 | [280892-ao-no-kanata-no-four-rhythm-extra1-2p.json](./280892-ao-no-kanata-no-four-rhythm-extra1-2p.json) |
 | Ao Oni X | 313275 | [313275-ao-oni-x.json](./313275-ao-oni-x.json) |
 | AO Tennis | 76726 | [76726-ao-tennis.json](./76726-ao-tennis.json) |
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
@@ -3070,11 +3071,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Driver | 204087 | [204087-army-driver.json](./204087-army-driver.json) |
 | Army Gals: The Poker Game | 171582 | [171582-army-gals-the-poker-game.json](./171582-army-gals-the-poker-game.json) |
 | Army Men Battle Simulator | 351039 | [351039-army-men-battle-simulator.json](./351039-army-men-battle-simulator.json) |
+| Army Men Strike: Toy Wars | 280923 | [280923-army-men-strike-toy-wars.json](./280923-army-men-strike-toy-wars.json) |
 | Army Men World War: Team Assault | 43947 | [43947-army-men-world-war-team-assault.json](./43947-army-men-world-war-team-assault.json) |
 | Army Men: Air Attack | 3417 | [3417-army-men-air-attack.json](./3417-army-men-air-attack.json) |
 | Army Men: Air Attack 2 | 43949 | [43949-army-men-air-attack-2.json](./43949-army-men-air-attack-2.json) |
 | Army Men: Air Combat - The Elite Missions | 50582 | [50582-army-men-air-combat-the-elite-missions.json](./50582-army-men-air-combat-the-elite-missions.json) |
 | Army Men: Major Malfunction | 5732 | [5732-army-men-major-malfunction.json](./5732-army-men-major-malfunction.json) |
+| Army Men: Mobile Ops | 280921 | [280921-army-men-mobile-ops.json](./280921-army-men-mobile-ops.json) |
 | Army Men: Turf Wars | 49314 | [49314-army-men-turf-wars.json](./49314-army-men-turf-wars.json) |
 | Army Men: World War | 44994 | [44994-army-men-world-war.json](./44994-army-men-world-war.json) |
 | Army Men: World War - Final Front | 43948 | [43948-army-men-world-war-final-front.json](./43948-army-men-world-war-final-front.json) |
@@ -3132,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Appreciation | 307736 | [307736-art-appreciation.json](./307736-art-appreciation.json) |
 | Art Attack | 366924 | [366924-art-attack.json](./366924-art-attack.json) |
 | Art by Numbers | 124140 | [124140-art-by-numbers.json](./124140-art-by-numbers.json) |
+| Art Challenge | 280897 | [280897-art-challenge.json](./280897-art-challenge.json) |
 | Art for Snakes | 315704 | [315704-art-for-snakes.json](./315704-art-for-snakes.json) |
 | Art House | 367950 | [367950-art-house.json](./367950-art-house.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
