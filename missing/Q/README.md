@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrablaze | 68710 | [68710-quadrablaze.json](./68710-quadrablaze.json) |
 | QuadraDigger | 59952 | [59952-quadradigger.json](./59952-quadradigger.json) |
 | Quadrant 7 | 322393 | [322393-quadrant-7.json](./322393-quadrant-7.json) |
+| Quadraticus HD | 263572 | [263572-quadraticus-hd.json](./263572-quadraticus-hd.json) |
 | Quadremor | 235977 | [235977-quadremor.json](./235977-quadremor.json) |
 | Quadrilateral Battle | 174846 | [174846-quadrilateral-battle.json](./174846-quadrilateral-battle.json) |
 | Quadrium 3 | 287228 | [287228-quadrium-3.json](./287228-quadrium-3.json) |
