@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Indigo Ranch | 199596 | [199596-wild-indigo-ranch.json](./199596-wild-indigo-ranch.json) |
 | Wild Isles | 220642 | [220642-wild-isles.json](./220642-wild-isles.json) |
 | Wild Legion | 243150 | [243150-wild-legion.json](./243150-wild-legion.json) |
+| Wild Leopard Safari | 255167 | [255167-wild-leopard-safari.json](./255167-wild-leopard-safari.json) |
 | Wild Life | 127894 | [127894-wild-life.json](./127894-wild-life.json) |
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
 | Wild Mutation | 257927 | [257927-wild-mutation.json](./257927-wild-mutation.json) |
