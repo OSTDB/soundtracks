@@ -32,6 +32,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 213944 | [213944-pac-man.json](./213944-pac-man.json) |
 | Pac-Man | 218442 | [218442-pac-man.json](./218442-pac-man.json) |
 | Pac-Man | 218443 | [218443-pac-man.json](./218443-pac-man.json) |
+| Pac-Man | 277394 | [277394-pac-man.json](./277394-pac-man.json) |
+| Pac-Man | 277395 | [277395-pac-man.json](./277395-pac-man.json) |
+| Pac-Man | 277396 | [277396-pac-man.json](./277396-pac-man.json) |
+| Pac-Man | 277398 | [277398-pac-man.json](./277398-pac-man.json) |
+| Pac-Man | 277399 | [277399-pac-man.json](./277399-pac-man.json) |
+| Pac-Man | 277401 | [277401-pac-man.json](./277401-pac-man.json) |
+| Pac-Man | 277402 | [277402-pac-man.json](./277402-pac-man.json) |
+| Pac-Man | 277403 | [277403-pac-man.json](./277403-pac-man.json) |
 | Pac-Man | 284317 | [284317-pac-man.json](./284317-pac-man.json) |
 | Pac-Man | 284368 | [284368-pac-man.json](./284368-pac-man.json) |
 | Pac-Man | 284369 | [284369-pac-man.json](./284369-pac-man.json) |
@@ -39,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
+| Pac-Man 4K | 277412 | [277412-pac-man-4k.json](./277412-pac-man-4k.json) |
 | Pac-Man 99 | 145515 | [145515-pac-man-99.json](./145515-pac-man-99.json) |
 | Pac-Man 99: Deluxe Pack | 237983 | [237983-pac-man-99-deluxe-pack.json](./237983-pac-man-99-deluxe-pack.json) |
 | Pac-Man 99: Dig Dug | 325054 | [325054-pac-man-99-dig-dug.json](./325054-pac-man-99-dig-dug.json) |
@@ -2252,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: TuttiRun | 353972 | [353972-pixicharm-tuttirun.json](./353972-pixicharm-tuttirun.json) |
 | Pixicharm: Vesprax | 377706 | [377706-pixicharm-vesprax.json](./377706-pixicharm-vesprax.json) |
 | Pixie Pete | 25688 | [25688-pixie-pete.json](./25688-pixie-pete.json) |
+| Pixiel: Dreadwager | 277424 | [277424-pixiel-dreadwager.json](./277424-pixiel-dreadwager.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Pixsaw | 279112 | [279112-pixsaw.json](./279112-pixsaw.json) |
