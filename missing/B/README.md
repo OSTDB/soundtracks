@@ -2578,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of Ten | 207318 | [207318-blade-of-ten.json](./207318-blade-of-ten.json) |
 | Blade of the Overlord | 362879 | [362879-blade-of-the-overlord.json](./362879-blade-of-the-overlord.json) |
 | Blade of Tsunami | 258532 | [258532-blade-of-tsunami.json](./258532-blade-of-tsunami.json) |
+| Blade Prince Academy | 244382 | [244382-blade-prince-academy.json](./244382-blade-prince-academy.json) |
 | Blade Reborn: Forge Your Destiny | 102787 | [102787-blade-reborn-forge-your-destiny.json](./102787-blade-reborn-forge-your-destiny.json) |
 | Blade Runner 2033: Labyrinth | 255093 | [255093-blade-runner-2033-labyrinth.json](./255093-blade-runner-2033-labyrinth.json) |
 | Blade Strangers | 37032 | [37032-blade-strangers.json](./37032-blade-strangers.json) |
@@ -3941,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrasFoot 2008 | 330852 | [330852-brasfoot-2008.json](./330852-brasfoot-2008.json) |
 | BrasFoot 2009 | 330853 | [330853-brasfoot-2009.json](./330853-brasfoot-2009.json) |
 | Brasil Fusion | 273993 | [273993-brasil-fusion.json](./273993-brasil-fusion.json) |
+| Brasil Simuleitor | 244371 | [244371-brasil-simuleitor.json](./244371-brasil-simuleitor.json) |
 | Brasília Defense | 404817 | [404817-brasilia-defense.json](./404817-brasilia-defense.json) |
 | Brass Lament | 343277 | [343277-brass-lament.json](./343277-brass-lament.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
