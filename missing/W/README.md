@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Africa Mahjong | 102735 | [102735-wild-africa-mahjong.json](./102735-wild-africa-mahjong.json) |
 | Wild Arms | 1677 | [1677-wild-arms.json](./1677-wild-arms.json) |
 | Wild Arms | 205593 | [205593-wild-arms.json](./205593-wild-arms.json) |
+| Wild Arms 2 | 239198 | [239198-wild-arms-2.json](./239198-wild-arms-2.json) |
 | Wild Arms 3 | 1679 | [1679-wild-arms-3.json](./1679-wild-arms-3.json) |
 | Wild Arms 4 | 1681 | [1681-wild-arms-4.json](./1681-wild-arms-4.json) |
 | Wild Arms Alter Code: F | 1680 | [1680-wild-arms-alter-code-f.json](./1680-wild-arms-alter-code-f.json) |
@@ -1903,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder of Blue | 345509 | [345509-wonder-of-blue.json](./345509-wonder-of-blue.json) |
 | Wonder Planet | 40245 | [40245-wonder-planet.json](./40245-wonder-planet.json) |
 | Wonder Stick | 40162 | [40162-wonder-stick.json](./40162-wonder-stick.json) |
+| Wonder Trips | 239143 | [239143-wonder-trips.json](./239143-wonder-trips.json) |
 | Wonder Wand | 304016 | [304016-wonder-wand.json](./304016-wonder-wand.json) |
 | Wonder Wars | 252180 | [252180-wonder-wars.json](./252180-wonder-wars.json) |
 | Wonder Wheel | 262979 | [262979-wonder-wheel.json](./262979-wonder-wheel.json) |
