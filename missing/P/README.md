@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets and Friends: Cuties Pack | 400208 | [400208-pets-and-friends-cuties-pack.json](./400208-pets-and-friends-cuties-pack.json) |
 | Pets and Friends: Easter Pack | 396910 | [396910-pets-and-friends-easter-pack.json](./396910-pets-and-friends-easter-pack.json) |
 | Pets at Work | 190153 | [190153-pets-at-work.json](./190153-pets-at-work.json) |
+| Pets Crossing | 247028 | [247028-pets-crossing.json](./247028-pets-crossing.json) |
 | Pets in Action Bundle | 212787 | [212787-pets-in-action-bundle.json](./212787-pets-in-action-bundle.json) |
 | PetShop | 235494 | [235494-petshop.json](./235494-petshop.json) |
 | Pettan Pyuu | 151160 | [151160-pettan-pyuu.json](./151160-pettan-pyuu.json) |
@@ -1948,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping | 90641 | [90641-ping.json](./90641-ping.json) |
 | Ping & Pong | 400909 | [400909-ping-and-pong.json](./400909-ping-and-pong.json) |
 | Ping Of Death: Odyssey Live | 375862 | [375862-ping-of-death-odyssey-live.json](./375862-ping-of-death-odyssey-live.json) |
+| Ping Pong | 247006 | [247006-ping-pong.json](./247006-ping-pong.json) |
 | Ping Pong Space | 130965 | [130965-ping-pong-space.json](./130965-ping-pong-space.json) |
 | Ping Pong Trick Shot 2 | 84823 | [84823-ping-pong-trick-shot-2.json](./84823-ping-pong-trick-shot-2.json) |
 | Ping Pong Trick Shot Evolution | 115059 | [115059-ping-pong-trick-shot-evolution.json](./115059-ping-pong-trick-shot-evolution.json) |
@@ -3875,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Balance | 178611 | [178611-pro-balance.json](./178611-pro-balance.json) |
 | Pro Basketball Manager 2023 | 220656 | [220656-pro-basketball-manager-2023.json](./220656-pro-basketball-manager-2023.json) |
 | Pro Basketball Manager 2025 | 316054 | [316054-pro-basketball-manager-2025.json](./316054-pro-basketball-manager-2025.json) |
+| Pro Crack | 247026 | [247026-pro-crack.json](./247026-pro-crack.json) |
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
 | Pro Darts | 49953 | [49953-pro-darts.json](./49953-pro-darts.json) |
