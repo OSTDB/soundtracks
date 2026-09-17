@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emmy: The Funny Game | 62196 | [62196-emmy-the-funny-game.json](./62196-emmy-the-funny-game.json) |
 | Emmy's Lab Escape | 364483 | [364483-emmys-lab-escape.json](./364483-emmys-lab-escape.json) |
 | Emo Neccky | 229666 | [229666-emo-neccky.json](./229666-emo-neccky.json) |
+| Emo Quest XD | 280879 | [280879-emo-quest-xd.json](./280879-emo-quest-xd.json) |
 | Emoceans | 180783 | [180783-emoceans.json](./180783-emoceans.json) |
 | Emogame 1: A Get-Up Kidnapping! | 358403 | [358403-emogame-1-a-get-up-kidnapping.json](./358403-emogame-1-a-get-up-kidnapping.json) |
 | Emoji Arena | 125941 | [125941-emoji-arena.json](./125941-emoji-arena.json) |
@@ -1871,6 +1872,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
 | Ex/l | 376446 | [376446-ex-l.json](./376446-ex-l.json) |
 | Ex0 Escape | 211208 | [211208-ex0-escape.json](./211208-ex0-escape.json) |
+| Exadimension Neptunia | 280926 | [280926-exadimension-neptunia.json](./280926-exadimension-neptunia.json) |
+| Exadimension Neptunia 2: A Chao Returns | 280927 | [280927-exadimension-neptunia-2-a-chao-returns.json](./280927-exadimension-neptunia-2-a-chao-returns.json) |
 | Exanimora | 371959 | [371959-exanimora.json](./371959-exanimora.json) |
 | Exanimum: The Silent Call | 290410 | [290410-exanimum-the-silent-call.json](./290410-exanimum-the-silent-call.json) |
 | Excalibur 2555 A.D. | 15514 | [15514-excalibur-2555-a-d.json](./15514-excalibur-2555-a-d.json) |
