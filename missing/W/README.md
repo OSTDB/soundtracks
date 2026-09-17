@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhead Vanguard | 409655 | [409655-warhead-vanguard.json](./409655-warhead-vanguard.json) |
 | Warhound | 378158 | [378158-warhound.json](./378158-warhound.json) |
 | Wario and the Tower of Garlic | 399080 | [399080-wario-and-the-tower-of-garlic.json](./399080-wario-and-the-tower-of-garlic.json) |
+| Wario Date | 252824 | [252824-wario-date.json](./252824-wario-date.json) |
 | Wario Eats Everything | 318028 | [318028-wario-eats-everything.json](./318028-wario-eats-everything.json) |
 | Wario Land 3 | 1698 | [1698-wario-land-3.json](./1698-wario-land-3.json) |
 | Wario Land 4: Burning Nightmares | 339250 | [339250-wario-land-4-burning-nightmares.json](./339250-wario-land-4-burning-nightmares.json) |
@@ -551,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Vilvatikta | 31628 | [31628-warriors-of-vilvatikta.json](./31628-warriors-of-vilvatikta.json) |
 | Warriors Orochi 3 | 5324 | [5324-warriors-orochi-3.json](./5324-warriors-orochi-3.json) |
 | Warriors Orochi 4: Scenario Pack | 237975 | [237975-warriors-orochi-4-scenario-pack.json](./237975-warriors-orochi-4-scenario-pack.json) |
+| Warriors Orochi 4: Scenario Pack 1 | 252804 | [252804-warriors-orochi-4-scenario-pack-1.json](./252804-warriors-orochi-4-scenario-pack-1.json) |
 | Warriors Waifus Mahjong | 336559 | [336559-warriors-waifus-mahjong.json](./336559-warriors-waifus-mahjong.json) |
 | Warriors: Legends of Troy | 7244 | [7244-warriors-legends-of-troy.json](./7244-warriors-legends-of-troy.json) |
 | Wars Across the World | 35987 | [35987-wars-across-the-world.json](./35987-wars-across-the-world.json) |
