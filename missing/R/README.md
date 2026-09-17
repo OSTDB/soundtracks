@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Heroes: Crimson City Crisis | 31630 | [31630-radical-heroes-crimson-city-crisis.json](./31630-radical-heroes-crimson-city-crisis.json) |
 | Radical Rex | 5427 | [5427-radical-rex.json](./5427-radical-rex.json) |
 | Radical Roach Remastered | 36311 | [36311-radical-roach-remastered.json](./36311-radical-roach-remastered.json) |
+| Radical Road | 239732 | [239732-radical-road.json](./239732-radical-road.json) |
 | Radical Sonic | 330319 | [330319-radical-sonic.json](./330319-radical-sonic.json) |
 | Radicorn | 293225 | [293225-radicorn.json](./293225-radicorn.json) |
 | Radikal Bikers | 221942 | [221942-radikal-bikers.json](./221942-radikal-bikers.json) |
@@ -891,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth of Fortune | 174322 | [174322-rebirth-of-fortune.json](./174322-rebirth-of-fortune.json) |
 | Rebirth of Myths: Dragonborn | 297616 | [297616-rebirth-of-myths-dragonborn.json](./297616-rebirth-of-myths-dragonborn.json) |
 | Rebirth-Land of Zombies | 189122 | [189122-rebirth-land-of-zombies.json](./189122-rebirth-land-of-zombies.json) |
+| Rebirthing | 239771 | [239771-rebirthing.json](./239771-rebirthing.json) |
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
 | Rebloom | 351101 | [351101-rebloom.json](./351101-rebloom.json) |
 | Rebolt | 360062 | [360062-rebolt.json](./360062-rebolt.json) |
@@ -1511,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Fear 3: Ascension | 365758 | [365758-resident-fear-3-ascension.json](./365758-resident-fear-3-ascension.json) |
 | Resident Fear: Redistribution | 264102 | [264102-resident-fear-redistribution.json](./264102-resident-fear-redistribution.json) |
 | Residual Christmas | 379366 | [379366-residual-christmas.json](./379366-residual-christmas.json) |
+| Residuum | 239752 | [239752-residuum.json](./239752-residuum.json) |
 | Resilience | 273443 | [273443-resilience.json](./273443-resilience.json) |
 | Resist Resist Resist | 299153 | [299153-resist-resist-resist.json](./299153-resist-resist-resist.json) |
 | Resistance | 172166 | [172166-resistance.json](./172166-resistance.json) |
@@ -1984,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridiculous Shipping | 331317 | [331317-ridiculous-shipping.json](./331317-ridiculous-shipping.json) |
 | Riding Club Championships | 31882 | [31882-riding-club-championships.json](./31882-riding-club-championships.json) |
 | Riding Fight | 39577 | [39577-riding-fight.json](./39577-riding-fight.json) |
+| Riding Horse School | 239753 | [239753-riding-horse-school.json](./239753-riding-horse-school.json) |
 | Riding Rhodri | 51164 | [51164-riding-rhodri.json](./51164-riding-rhodri.json) |
 | Riding Spirits | 23761 | [23761-riding-spirits.json](./23761-riding-spirits.json) |
 | Riding Stables 3D | 84840 | [84840-riding-stables-3d.json](./84840-riding-stables-3d.json) |
@@ -2513,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocka Feller | 100122 | [100122-rocka-feller.json](./100122-rocka-feller.json) |
 | Rockabilly Kid | 171549 | [171549-rockabilly-kid.json](./171549-rockabilly-kid.json) |
 | Rockaroids | 63808 | [63808-rockaroids.json](./63808-rockaroids.json) |
+| Rocket Angels Inc | 239770 | [239770-rocket-angels-inc.json](./239770-rocket-angels-inc.json) |
 | Rocket Arena: Mythic Edition | 136456 | [136456-rocket-arena-mythic-edition.json](./136456-rocket-arena-mythic-edition.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
 | Rocket Buddies | 410356 | [410356-rocket-buddies.json](./410356-rocket-buddies.json) |
@@ -2691,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Rampage | 334130 | [334130-rogue-rampage.json](./334130-rogue-rampage.json) |
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
+| Rogue Realms | 239748 | [239748-rogue-realms.json](./239748-rogue-realms.json) |
 | Rogue Rhythm | 312747 | [312747-rogue-rhythm.json](./312747-rogue-rhythm.json) |
 | Rogue Robot: Escape Protocol | 304616 | [304616-rogue-robot-escape-protocol.json](./304616-rogue-robot-escape-protocol.json) |
 | Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
