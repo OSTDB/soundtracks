@@ -907,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getter Robo Daikessen! | 77981 | [77981-getter-robo-daikessen.json](./77981-getter-robo-daikessen.json) |
 | Getting a Bottle of Water Simulator | 334664 | [334664-getting-a-bottle-of-water-simulator.json](./334664-getting-a-bottle-of-water-simulator.json) |
 | Getting Home | 406198 | [406198-getting-home.json](./406198-getting-home.json) |
+| Getting out Alive | 264109 | [264109-getting-out-alive.json](./264109-getting-out-alive.json) |
 | Getting Over It with Your Body | 381035 | [381035-getting-over-it-with-your-body.json](./381035-getting-over-it-with-your-body.json) |
 | Getting There | 305926 | [305926-getting-there.json](./305926-getting-there.json) |
 | Geunyeoneun Baekseolgongju | 234636 | [234636-geunyeoneun-baekseolgongju.json](./234636-geunyeoneun-baekseolgongju.json) |
@@ -1323,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnosis | 292284 | [292284-gnosis.json](./292284-gnosis.json) |
 | Gnosis | 388922 | [388922-gnosis.json](./388922-gnosis.json) |
 | Gnostic: Survivors | 262373 | [262373-gnostic-survivors.json](./262373-gnostic-survivors.json) |
+| GNU Sudoku 64 | 264098 | [264098-gnu-sudoku-64.json](./264098-gnu-sudoku-64.json) |
 | Gnubbl | 370720 | [370720-gnubbl.json](./370720-gnubbl.json) |
 | Go | 13722 | [13722-go.json](./13722-go.json) |
 | Go 3D | 68624 | [68624-go-3d.json](./68624-go-3d.json) |
@@ -1723,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Doggo | 99627 | [99627-good-doggo.json](./99627-good-doggo.json) |
 | Good Dreams | 381132 | [381132-good-dreams.json](./381132-good-dreams.json) |
 | Good Folk Cafe | 394821 | [394821-good-folk-cafe.json](./394821-good-folk-cafe.json) |
+| Good Fruit | 264110 | [264110-good-fruit.json](./264110-good-fruit.json) |
 | Good Game | 215358 | [215358-good-game.json](./215358-good-game.json) |
 | Good Girl | 107880 | [107880-good-girl.json](./107880-good-girl.json) |
 | Good Girl Gone Bad | 127911 | [127911-good-girl-gone-bad.json](./127911-good-girl-gone-bad.json) |
