@@ -831,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirFMC | 90201 | [90201-airfmc.json](./90201-airfmc.json) |
 | Airforce Delta | 47285 | [47285-airforce-delta.json](./47285-airforce-delta.json) |
 | AirForce Delta Storm | 5718 | [5718-airforce-delta-storm.json](./5718-airforce-delta-storm.json) |
+| AirHead Adam | 261325 | [261325-airhead-adam.json](./261325-airhead-adam.json) |
 | Airheart: The Deluxe Edition | 52570 | [52570-airheart-the-deluxe-edition.json](./52570-airheart-the-deluxe-edition.json) |
 | AirJet Fighter Sky Dominators: Aerial Assault | 268480 | [268480-airjet-fighter-sky-dominators-aerial-assault.json](./268480-airjet-fighter-sky-dominators-aerial-assault.json) |
 | Airlift | 15591 | [15591-airlift.json](./15591-airlift.json) |
@@ -849,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airplane Flight Simulator: Dangerous Landings | 328580 | [328580-airplane-flight-simulator-dangerous-landings.json](./328580-airplane-flight-simulator-dangerous-landings.json) |
 | Airplane Mode | 126434 | [126434-airplane-mode.json](./126434-airplane-mode.json) |
 | Airplane Parking Mania 3D | 239320 | [239320-airplane-parking-mania-3d.json](./239320-airplane-parking-mania-3d.json) |
+| Airplane Race Simulator 2 Player Game | 261341 | [261341-airplane-race-simulator-2-player-game.json](./261341-airplane-race-simulator-2-player-game.json) |
 | Airplane Tycoon | 306638 | [306638-airplane-tycoon.json](./306638-airplane-tycoon.json) |
 | Airplane Tycoon: Evolution | 306640 | [306640-airplane-tycoon-evolution.json](./306640-airplane-tycoon-evolution.json) |
 | Airplane Tycoon: First Class | 306639 | [306639-airplane-tycoon-first-class.json](./306639-airplane-tycoon-first-class.json) |
@@ -2121,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girl Puzzles: Kohana | 298708 | [298708-anime-girl-puzzles-kohana.json](./298708-anime-girl-puzzles-kohana.json) |
 | Anime Girl Puzzles: Wakana | 297773 | [297773-anime-girl-puzzles-wakana.json](./297773-anime-girl-puzzles-wakana.json) |
 | Anime Girl Puzzles: Yui | 297772 | [297772-anime-girl-puzzles-yui.json](./297772-anime-girl-puzzles-yui.json) |
+| Anime Girls | 261367 | [261367-anime-girls.json](./261367-anime-girls.json) |
 | Anime Girls: College Love | 378779 | [378779-anime-girls-college-love.json](./378779-anime-girls-college-love.json) |
 | Anime Girls: Extended Edition | 277305 | [277305-anime-girls-extended-edition.json](./277305-anime-girls-extended-edition.json) |
 | Anime Girls: Highschool of Dead | 283291 | [283291-anime-girls-highschool-of-dead.json](./283291-anime-girls-highschool-of-dead.json) |
