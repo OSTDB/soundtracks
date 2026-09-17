@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsella: The Lights of Lucerne | 103501 | [103501-capsella-the-lights-of-lucerne.json](./103501-capsella-the-lights-of-lucerne.json) |
 | Capsize | 122403 | [122403-capsize.json](./122403-capsize.json) |
 | Capslock | 300425 | [300425-capslock.json](./300425-capslock.json) |
+| Capsule Cat's Big Space Adventure | 280334 | [280334-capsule-cats-big-space-adventure.json](./280334-capsule-cats-big-space-adventure.json) |
 | Capsule Force | 11184 | [11184-capsule-force.json](./11184-capsule-force.json) |
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
@@ -814,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Capture Topkapi | 232447 | [232447-castle-capture-topkapi.json](./232447-castle-capture-topkapi.json) |
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
 | Castle Clash | 38890 | [38890-castle-clash.json](./38890-castle-clash.json) |
+| Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
 | Castle Creeps Battle | 105908 | [105908-castle-creeps-battle.json](./105908-castle-creeps-battle.json) |
 | Castle Crisis | 40782 | [40782-castle-crisis.json](./40782-castle-crisis.json) |
 | Castle Defender | 273909 | [273909-castle-defender.json](./273909-castle-defender.json) |
@@ -1513,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
 | Charon's Sabbath | 280904 | [280904-charons-sabbath.json](./280904-charons-sabbath.json) |
 | Charon's Staircase | 201775 | [201775-charons-staircase.json](./201775-charons-staircase.json) |
+| Charrua Soccer: Mirror Edition | 280344 | [280344-charrua-soccer-mirror-edition.json](./280344-charrua-soccer-mirror-edition.json) |
 | Charrua Soccer: Pro Edition | 277310 | [277310-charrua-soccer-pro-edition.json](./277310-charrua-soccer-pro-edition.json) |
 | Chart Weaver | 382892 | [382892-chart-weaver.json](./382892-chart-weaver.json) |
 | Charterstone: Digital Edition | 117869 | [117869-charterstone-digital-edition.json](./117869-charterstone-digital-edition.json) |
@@ -1988,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Mashin Eiyuuden Wataru: Mazekko Monster | 66064 | [66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json](./66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json) |
 | Chou Mashin Eiyuuden Wataru: Mazekko Monster 2 | 66065 | [66065-chou-mashin-eiyuuden-wataru-mazekko-monster-2.json](./66065-chou-mashin-eiyuuden-wataru-mazekko-monster-2.json) |
 | Chou Meisaku Suiri Adventure DS: Raymond Chandler Gensaku - Saraba Itoshiki Hito yo | 269583 | [269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json](./269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json) |
+| Chou Sentou-chuu: Battle for Money | 280328 | [280328-chou-sentou-chuu-battle-for-money.json](./280328-chou-sentou-chuu-battle-for-money.json) |
 | Choujin Heiki Zeroigar | 45960 | [45960-choujin-heiki-zeroigar.json](./45960-choujin-heiki-zeroigar.json) |
 | Chousenshi Densetsu: Assault from the Sea | 62189 | [62189-chousenshi-densetsu-assault-from-the-sea.json](./62189-chousenshi-densetsu-assault-from-the-sea.json) |
 | Chousoku Henkei Gyrozetter: Albatross no Tsubasa | 59970 | [59970-chousoku-henkei-gyrozetter-albatross-no-tsubasa.json](./59970-chousoku-henkei-gyrozetter-albatross-no-tsubasa.json) |
@@ -2030,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Present | 285567 | [285567-christmas-present.json](./285567-christmas-present.json) |
 | Christmas Puzzle 3 | 76672 | [76672-christmas-puzzle-3.json](./76672-christmas-puzzle-3.json) |
 | Christmas Puzzle 4 | 279001 | [279001-christmas-puzzle-4.json](./279001-christmas-puzzle-4.json) |
+| Christmas Puzzle 5 | 280312 | [280312-christmas-puzzle-5.json](./280312-christmas-puzzle-5.json) |
 | Christmas Race | 322983 | [322983-christmas-race.json](./322983-christmas-race.json) |
 | Christmas Race 2 | 88197 | [88197-christmas-race-2.json](./88197-christmas-race-2.json) |
 | Christmas Rhythm | 158219 | [158219-christmas-rhythm.json](./158219-christmas-rhythm.json) |
@@ -3488,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction: Action - Player: E-48-# - Underground Expedition | 354491 | [354491-construction-action-player-e-48-underground-expedition.json](./354491-construction-action-player-e-48-underground-expedition.json) |
 | Construction: Action - Player: F-47-# - Fisherman | 354490 | [354490-construction-action-player-f-47-fisherman.json](./354490-construction-action-player-f-47-fisherman.json) |
 | Construction: Action - Player: F-48-# - Apricorn Maker | 354484 | [354484-construction-action-player-f-48-apricorn-maker.json](./354484-construction-action-player-f-48-apricorn-maker.json) |
+| Consult Me Before Opening A Snack Shop | 280350 | [280350-consult-me-before-opening-a-snack-shop.json](./280350-consult-me-before-opening-a-snack-shop.json) |
 | Consume Thy Flesh: The Pumpkin Smashing Sim | 189137 | [189137-consume-thy-flesh-the-pumpkin-smashing-sim.json](./189137-consume-thy-flesh-the-pumpkin-smashing-sim.json) |
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
 | Containment Initiative: PC Standalone | 99583 | [99583-containment-initiative-pc-standalone.json](./99583-containment-initiative-pc-standalone.json) |
@@ -4012,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle of Nightmare : Flowers to you | 339333 | [339333-cradle-of-nightmare-flowers-to-you.json](./339333-cradle-of-nightmare-flowers-to-you.json) |
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
 | Cradle of Rome 2 HD | 102101 | [102101-cradle-of-rome-2-hd.json](./102101-cradle-of-rome-2-hd.json) |
+| Craft | 280355 | [280355-craft.json](./280355-craft.json) |
 | Craft & Conquer | 339334 | [339334-craft-and-conquer.json](./339334-craft-and-conquer.json) |
 | Craft Battle Simulator | 90640 | [90640-craft-battle-simulator.json](./90640-craft-battle-simulator.json) |
 | Craft City Gangs | 86711 | [86711-craft-city-gangs.json](./86711-craft-city-gangs.json) |
@@ -5016,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
 | Custom Monsters | 222498 | [222498-custom-monsters.json](./222498-custom-monsters.json) |
 | Custom Order Maid 3D2: It's a Night Magic Beauty Hair Set SP All in One Pack | 291054 | [291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json](./291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json) |
+| Custom Order Maid 3D2: It's a Night Magic Dancing Night, Merry Night All in Pack | 280319 | [280319-custom-order-maid-3d2-its-a-night-magic-dancing-night-merry-night-all-in-pack.json](./280319-custom-order-maid-3d2-its-a-night-magic-dancing-night-merry-night-all-in-pack.json) |
 | Custom Order Maid 3D2: It's a Night Magic the Arrival of Spring All In Pack | 298043 | [298043-custom-order-maid-3d2-its-a-night-magic-the-arrival-of-spring-all-in-pack.json](./298043-custom-order-maid-3d2-its-a-night-magic-the-arrival-of-spring-all-in-pack.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01 | 296663 | [296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json](./296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01fb | 296662 | [296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json](./296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json) |
