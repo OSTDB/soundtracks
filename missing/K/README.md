@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Idle Heart | 272872 | [272872-kingdom-idle-heart.json](./272872-kingdom-idle-heart.json) |
 | Kingdom II: Shadoan | 45920 | [45920-kingdom-ii-shadoan.json](./45920-kingdom-ii-shadoan.json) |
 | Kingdom III: Rising Realms | 415172 | [415172-kingdom-iii-rising-realms.json](./415172-kingdom-iii-rising-realms.json) |
+| Kingdom Islands | 236396 | [236396-kingdom-islands.json](./236396-kingdom-islands.json) |
 | Kingdom Ka | 134601 | [134601-kingdom-ka.json](./134601-kingdom-ka.json) |
 | Kingdom Loop | 335285 | [335285-kingdom-loop.json](./335285-kingdom-loop.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
