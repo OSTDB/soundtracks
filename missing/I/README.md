@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Your Beast: Cold Sweat Update | 335994 | [335994-i-am-your-beast-cold-sweat-update.json](./335994-i-am-your-beast-cold-sweat-update.json) |
 | I Am Your Beast: Support Group Update | 334704 | [334704-i-am-your-beast-support-group-update.json](./334704-i-am-your-beast-support-group-update.json) |
 | I Ball II: Quest for the Past | 70351 | [70351-i-ball-ii-quest-for-the-past.json](./70351-i-ball-ii-quest-for-the-past.json) |
+| I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
 | I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
 | I Can Save This! | 326612 | [326612-i-can-save-this.json](./326612-i-can-save-this.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
