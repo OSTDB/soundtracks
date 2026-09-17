@@ -1032,6 +1032,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
 | Kissed by the Baddest Bidder: Happy Birthday Ota | 238196 | [238196-kissed-by-the-baddest-bidder-happy-birthday-ota.json](./238196-kissed-by-the-baddest-bidder-happy-birthday-ota.json) |
 | Kissed by the Baddest Bidder: Living Together - Shuichi | 238184 | [238184-kissed-by-the-baddest-bidder-living-together-shuichi.json](./238184-kissed-by-the-baddest-bidder-living-together-shuichi.json) |
+| Kissed by the Baddest Bidder: Living Together Epilogue - Shuichi | 238067 | [238067-kissed-by-the-baddest-bidder-living-together-epilogue-shuichi.json](./238067-kissed-by-the-baddest-bidder-living-together-epilogue-shuichi.json) |
+| Kissed by the Baddest Bidder: Scattered Cards Epilogue - Eisuke | 238069 | [238069-kissed-by-the-baddest-bidder-scattered-cards-epilogue-eisuke.json](./238069-kissed-by-the-baddest-bidder-scattered-cards-epilogue-eisuke.json) |
 | Kissed by the Baddest Bidder: Secrets from the Past - Eisuke | 238225 | [238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json](./238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json) |
 | Kissed by the Baddest Bidder: Secrets from the Past - Soryu | 238226 | [238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json](./238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json) |
 | Kissrim | 378917 | [378917-kissrim.json](./378917-kissrim.json) |
