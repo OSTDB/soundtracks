@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
 | Electrolight | 319192 | [319192-electrolight.json](./319192-electrolight.json) |
+| Electron Flux | 264710 | [264710-electron-flux.json](./264710-electron-flux.json) |
 | Electron Handsome Boy | 201312 | [201312-electron-handsome-boy.json](./201312-electron-handsome-boy.json) |
 | Electron Zaraftor | 276295 | [276295-electron-zaraftor.json](./276295-electron-zaraftor.json) |
 | Electronauts | 81056 | [81056-electronauts.json](./81056-electronauts.json) |
@@ -739,12 +740,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember Knights: Wrath of the Architect | 310371 | [310371-ember-knights-wrath-of-the-architect.json](./310371-ember-knights-wrath-of-the-architect.json) |
 | Ember Point | 296349 | [296349-ember-point.json](./296349-ember-point.json) |
 | Ember Storia | 323334 | [323334-ember-storia.json](./323334-ember-storia.json) |
+| Ember the Werefox | 264696 | [264696-ember-the-werefox.json](./264696-ember-the-werefox.json) |
 | Ember's Verge | 324303 | [324303-embers-verge.json](./324303-embers-verge.json) |
 | Emberdrift | 290952 | [290952-emberdrift.json](./290952-emberdrift.json) |
 | Emberfly | 336013 | [336013-emberfly.json](./336013-emberfly.json) |
 | Emberglade | 415895 | [415895-emberglade.json](./415895-emberglade.json) |
 | Emberheart | 129760 | [129760-emberheart.json](./129760-emberheart.json) |
 | Emberhold | 379876 | [379876-emberhold.json](./379876-emberhold.json) |
+| Emberrush | 264706 | [264706-emberrush.json](./264706-emberrush.json) |
 | Embers | 291226 | [291226-embers.json](./291226-embers.json) |
 | Embers Adrift | 186247 | [186247-embers-adrift.json](./186247-embers-adrift.json) |
 | Embers of Caerus | 64975 | [64975-embers-of-caerus.json](./64975-embers-of-caerus.json) |
@@ -1462,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escaped Chasm | 116988 | [116988-escaped-chasm.json](./116988-escaped-chasm.json) |
 | Escapee GO! | 67059 | [67059-escapee-go.json](./67059-escapee-go.json) |
 | EscapeeZ | 117783 | [117783-escapeez.json](./117783-escapeez.json) |
+| Escapeland | 264714 | [264714-escapeland.json](./264714-escapeland.json) |
 | Escapers | 210853 | [210853-escapers.json](./210853-escapers.json) |
 | Escaping a Fireworks Factory: Nyanzou & Kumakichi - Escape Game | 240225 | [240225-escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game.json](./240225-escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game.json) |
 | Escaping Darkness | 320531 | [320531-escaping-darkness.json](./320531-escaping-darkness.json) |
