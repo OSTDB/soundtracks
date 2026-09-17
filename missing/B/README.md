@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Woods | 236290 | [236290-beneath-the-woods.json](./236290-beneath-the-woods.json) |
 | Beneath their Names | 406689 | [406689-beneath-their-names.json](./406689-beneath-their-names.json) |
 | Benefitship | 264022 | [264022-benefitship.json](./264022-benefitship.json) |
+| Bengarachou Hakubutsushi | 254611 | [254611-bengarachou-hakubutsushi.json](./254611-bengarachou-hakubutsushi.json) |
 | Bengbo | 257104 | [257104-bengbo.json](./257104-bengbo.json) |
 | Benign Land | 329137 | [329137-benign-land.json](./329137-benign-land.json) |
 | Benji and the Crystal of Light | 324325 | [324325-benji-and-the-crystal-of-light.json](./324325-benji-and-the-crystal-of-light.json) |
@@ -3916,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
 | Brassica: A Marry Tale | 134660 | [134660-brassica-a-marry-tale.json](./134660-brassica-a-marry-tale.json) |
 | Brat | 14343 | [14343-brat.json](./14343-brat.json) |
+| Bratavism | 254577 | [254577-bratavism.json](./254577-bratavism.json) |
 | Brathian | 104061 | [104061-brathian.json](./104061-brathian.json) |
 | Bratz | 225653 | [225653-bratz.json](./225653-bratz.json) |
 | Bratz Fashion Pixiez: The Secret Necklace | 213374 | [213374-bratz-fashion-pixiez-the-secret-necklace.json](./213374-bratz-fashion-pixiez-the-secret-necklace.json) |
@@ -4141,6 +4143,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bride Corruption | 225064 | [225064-bride-corruption.json](./225064-bride-corruption.json) |
 | Bride for the Princess | 158192 | [158192-bride-for-the-princess.json](./158192-bride-for-the-princess.json) |
 | Bride into the Cave | 273378 | [273378-bride-into-the-cave.json](./273378-bride-into-the-cave.json) |
+| Bride of the Full Moon | 254616 | [254616-bride-of-the-full-moon.json](./254616-bride-of-the-full-moon.json) |
+| Bride of the Twilight | 254610 | [254610-bride-of-the-twilight.json](./254610-bride-of-the-twilight.json) |
 | Bridge | 55105 | [55105-bridge.json](./55105-bridge.json) |
 | Bridge | 85515 | [85515-bridge.json](./85515-bridge.json) |
 | Bridge Construction Set | 25006 | [25006-bridge-construction-set.json](./25006-bridge-construction-set.json) |
@@ -4553,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Speed | 291227 | [291227-bullet-speed.json](./291227-bullet-speed.json) |
 | Bullet Strike: Battlegrounds | 70910 | [70910-bullet-strike-battlegrounds.json](./70910-bullet-strike-battlegrounds.json) |
 | Bullet Time | 158164 | [158164-bullet-time.json](./158164-bullet-time.json) |
+| Bullet Time | 254581 | [254581-bullet-time.json](./254581-bullet-time.json) |
 | Bullet Town | 258720 | [258720-bullet-town.json](./258720-bullet-town.json) |
 | Bullet Train Simulator: Euro Train Driver | 104611 | [104611-bullet-train-simulator-euro-train-driver.json](./104611-bullet-train-simulator-euro-train-driver.json) |
 | Bullet Trap | 68640 | [68640-bullet-trap.json](./68640-bullet-trap.json) |
