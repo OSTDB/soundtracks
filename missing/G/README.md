@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Store Simulator | 346695 | [346695-game-store-simulator.json](./346695-game-store-simulator.json) |
 | Game Studio Simulator | 115594 | [115594-game-studio-simulator.json](./115594-game-studio-simulator.json) |
 | Game Tester Quest | 283308 | [283308-game-tester-quest.json](./283308-game-tester-quest.json) |
+| Game Time Glizzys | 266298 | [266298-game-time-glizzys.json](./266298-game-time-glizzys.json) |
 | Game Title: Lost Levels | 143097 | [143097-game-title-lost-levels.json](./143097-game-title-lost-levels.json) |
 | Game Tycoon | 127332 | [127332-game-tycoon.json](./127332-game-tycoon.json) |
 | Game Tycoon 1.5 | 16964 | [16964-game-tycoon-1-5.json](./16964-game-tycoon-1-5.json) |
@@ -2521,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Tales | 133433 | [133433-guardian-tales.json](./133433-guardian-tales.json) |
 | Guardians of Altarris: The Sinless Blade | 322213 | [322213-guardians-of-altarris-the-sinless-blade.json](./322213-guardians-of-altarris-the-sinless-blade.json) |
 | Guardians of Cloudia | 150083 | [150083-guardians-of-cloudia.json](./150083-guardians-of-cloudia.json) |
+| Guardians Of Gaia: Guardians 8 | 266321 | [266321-guardians-of-gaia-guardians-8.json](./266321-guardians-of-gaia-guardians-8.json) |
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Guardians of the Wall | 396884 | [396884-guardians-of-the-wall.json](./396884-guardians-of-the-wall.json) |
