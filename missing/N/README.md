@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Kaguya Otsutsuki | 263509 | [263509-naruto-to-boruto-shinobi-striker-master-character-training-pack-kaguya-otsutsuki.json](./263509-naruto-to-boruto-shinobi-striker-master-character-training-pack-kaguya-otsutsuki.json) |
 | Naruto to Boruto: Shinobi Striker - Season 8 | 307754 | [307754-naruto-to-boruto-shinobi-striker-season-8.json](./307754-naruto-to-boruto-shinobi-striker-season-8.json) |
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
+| Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 1 | 284509 | [284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json](./284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections | 239385 | [239385-naruto-x-boruto-ultimate-ninja-storm-connections.json](./239385-naruto-x-boruto-ultimate-ninja-storm-connections.json) |
 | Naruto: Konoha Senki | 75842 | [75842-naruto-konoha-senki.json](./75842-naruto-konoha-senki.json) |
 | Naruto: Ninja Cards | 388751 | [388751-naruto-ninja-cards.json](./388751-naruto-ninja-cards.json) |
@@ -620,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neogen BeatZ | 256539 | [256539-neogen-beatz.json](./256539-neogen-beatz.json) |
 | Neogen Space Monkeys | 221979 | [221979-neogen-space-monkeys.json](./221979-neogen-space-monkeys.json) |
 | NeoGeo Heroes Ultimate Shooting | 44507 | [44507-neogeo-heroes-ultimate-shooting.json](./44507-neogeo-heroes-ultimate-shooting.json) |
+| Neogeo Pocket Color Selection Vol. 2: Steelbook Bundle | 284482 | [284482-neogeo-pocket-color-selection-vol-2-steelbook-bundle.json](./284482-neogeo-pocket-color-selection-vol-2-steelbook-bundle.json) |
 | Neogeo Pocket Color Selection Vol.2 | 225497 | [225497-neogeo-pocket-color-selection-vol-2.json](./225497-neogeo-pocket-color-selection-vol-2.json) |
 | Neokaiju | 153996 | [153996-neokaiju.json](./153996-neokaiju.json) |
 | NeoLemmix | 189200 | [189200-neolemmix.json](./189200-neolemmix.json) |
