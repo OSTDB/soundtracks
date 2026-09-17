@@ -3837,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
 | Brain Memory Training Academy | 283727 | [283727-brain-memory-training-academy.json](./283727-brain-memory-training-academy.json) |
 | Brain Memory: Amazing Edition | 276452 | [276452-brain-memory-amazing-edition.json](./276452-brain-memory-amazing-edition.json) |
+| Brain Memory: Director's Cut | 261365 | [261365-brain-memory-directors-cut.json](./261365-brain-memory-directors-cut.json) |
 | Brain Memory: Premium Edition | 241394 | [241394-brain-memory-premium-edition.json](./241394-brain-memory-premium-edition.json) |
 | Brain Off | 172101 | [172101-brain-off.json](./172101-brain-off.json) |
 | Brain Puzzle | 90203 | [90203-brain-puzzle.json](./90203-brain-puzzle.json) |
@@ -4651,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Kombat | 314291 | [314291-burger-kombat.json](./314291-burger-kombat.json) |
 | Burger Night | 158708 | [158708-burger-night.json](./158708-burger-night.json) |
 | Burger Race | 327840 | [327840-burger-race.json](./327840-burger-race.json) |
+| Burger Restaurant Simulator | 261339 | [261339-burger-restaurant-simulator.json](./261339-burger-restaurant-simulator.json) |
 | Burger Rush | 71525 | [71525-burger-rush.json](./71525-burger-rush.json) |
 | Burger Shift: Team Rush | 391583 | [391583-burger-shift-team-rush.json](./391583-burger-shift-team-rush.json) |
 | Burger Shop Simulator 2024 | 326584 | [326584-burger-shop-simulator-2024.json](./326584-burger-shop-simulator-2024.json) |
