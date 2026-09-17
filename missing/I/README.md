@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Paper Minesweeper: Traditional Japanese Paintings Pack | 336345 | [336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json](./336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json) |
 | Ink Shapes: Book One | 161392 | [161392-ink-shapes-book-one.json](./161392-ink-shapes-book-one.json) |
 | Ink. | 169442 | [169442-ink.json](./169442-ink.json) |
+| Inka Aventura: Saga de Pachakutiq | 285558 | [285558-inka-aventura-saga-de-pachakutiq.json](./285558-inka-aventura-saga-de-pachakutiq.json) |
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
 | Inkoid | 390615 | [390615-inkoid.json](./390615-inkoid.json) |
 | Inkremental | 397793 | [397793-inkremental.json](./397793-inkremental.json) |
@@ -1124,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Voice | 358966 | [358966-inner-voice.json](./358966-inner-voice.json) |
 | InnerCube | 35879 | [35879-innercube.json](./35879-innercube.json) |
 | Innergy | 81398 | [81398-innergy.json](./81398-innergy.json) |
+| Innocence Or Money Season 1: The Complete Season | 285605 | [285605-innocence-or-money-season-1-the-complete-season.json](./285605-innocence-or-money-season-1-the-complete-season.json) |
 | Innocence or Money: Season 2 - Episode 1 | 340754 | [340754-innocence-or-money-season-2-episode-1.json](./340754-innocence-or-money-season-2-episode-1.json) |
 | Innocent Critters | 238723 | [238723-innocent-critters.json](./238723-innocent-critters.json) |
 | Innocent Girl | 169369 | [169369-innocent-girl.json](./169369-innocent-girl.json) |
@@ -1352,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Emberlands: Supporter Pack | 321161 | [321161-into-the-emberlands-supporter-pack.json](./321161-into-the-emberlands-supporter-pack.json) |
 | Into the Farlands | 226437 | [226437-into-the-farlands.json](./226437-into-the-farlands.json) |
 | Into the Flames: Retro Fire Gear 1 | 256560 | [256560-into-the-flames-retro-fire-gear-1.json](./256560-into-the-flames-retro-fire-gear-1.json) |
+| Into The Flames: Spooky Pack | 285606 | [285606-into-the-flames-spooky-pack.json](./285606-into-the-flames-spooky-pack.json) |
 | Into the Gorian's Den | 275014 | [275014-into-the-gorians-den.json](./275014-into-the-gorians-den.json) |
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
 | Into the M.A.W. | 309857 | [309857-into-the-m-a-w.json](./309857-into-the-m-a-w.json) |
