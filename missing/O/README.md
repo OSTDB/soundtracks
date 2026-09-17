@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Down! | 257379 | [257379-only-down.json](./257379-only-down.json) |
 | Only Drive | 279105 | [279105-only-drive.json](./279105-only-drive.json) |
 | Only Faces Remain | 382917 | [382917-only-faces-remain.json](./382917-only-faces-remain.json) |
+| Only Fortress | 266277 | [266277-only-fortress.json](./266277-only-fortress.json) |
 | Only Girl in High School | 223998 | [223998-only-girl-in-high-school.json](./223998-only-girl-in-high-school.json) |
 | Only Jump | 413644 | [413644-only-jump.json](./413644-only-jump.json) |
 | Only Kitty Cat Up | 395669 | [395669-only-kitty-cat-up.json](./395669-only-kitty-cat-up.json) |
