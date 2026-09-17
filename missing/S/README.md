@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Solitaire: Threads of Fate | 195694 | [195694-samurai-solitaire-threads-of-fate.json](./195694-samurai-solitaire-threads-of-fate.json) |
 | Samurai Spirits: Kenkaku Yubinan Pack | 56455 | [56455-samurai-spirits-kenkaku-yubinan-pack.json](./56455-samurai-spirits-kenkaku-yubinan-pack.json) |
 | Samurai Stratagem | 379342 | [379342-samurai-stratagem.json](./379342-samurai-stratagem.json) |
+| Samurai Survivor: Undefeated Blade | 244358 | [244358-samurai-survivor-undefeated-blade.json](./244358-samurai-survivor-undefeated-blade.json) |
 | Samurai Survivors | 244247 | [244247-samurai-survivors.json](./244247-samurai-survivors.json) |
 | Samurai Sword | 47247 | [47247-samurai-sword.json](./47247-samurai-sword.json) |
 | Samurai Sword VR | 27699 | [27699-samurai-sword-vr.json](./27699-samurai-sword-vr.json) |
@@ -1189,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search of the Stolen Crown Jewels | 143048 | [143048-search-of-the-stolen-crown-jewels.json](./143048-search-of-the-stolen-crown-jewels.json) |
 | Search Party: Director's Cut | 171004 | [171004-search-party-directors-cut.json](./171004-search-party-directors-cut.json) |
 | Searching for Objects in the Forest | 173268 | [173268-searching-for-objects-in-the-forest.json](./173268-searching-for-objects-in-the-forest.json) |
+| Searching For Rest | 244364 | [244364-searching-for-rest.json](./244364-searching-for-rest.json) |
 | Seas of Fortune | 120964 | [120964-seas-of-fortune.json](./120964-seas-of-fortune.json) |
 | Seashell | 195692 | [195692-seashell.json](./195692-seashell.json) |
 | Seashell Thief | 302111 | [302111-seashell-thief.json](./302111-seashell-thief.json) |
@@ -3678,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime | 285052 | [285052-slime.json](./285052-slime.json) |
 | Slime | 407438 | [407438-slime.json](./407438-slime.json) |
 | Slime 3k: Demake | 322759 | [322759-slime-3k-demake.json](./322759-slime-3k-demake.json) |
+| Slime 3K: Rise Against Despot | 244377 | [244377-slime-3k-rise-against-despot.json](./244377-slime-3k-rise-against-despot.json) |
 | Slime Age: Parody MMORPG Clicker | 108411 | [108411-slime-age-parody-mmorpg-clicker.json](./108411-slime-age-parody-mmorpg-clicker.json) |
 | Slime and Rancher | 102756 | [102756-slime-and-rancher.json](./102756-slime-and-rancher.json) |
 | Slime Buddy Time | 390626 | [390626-slime-buddy-time.json](./390626-slime-buddy-time.json) |
@@ -9822,6 +9825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Princess Sistina | 292523 | [292523-sword-princess-sistina.json](./292523-sword-princess-sistina.json) |
 | Sword Road | 338751 | [338751-sword-road.json](./338751-sword-road.json) |
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
+| Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
 | Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
 | Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
 | Swordash | 259564 | [259564-swordash.json](./259564-swordash.json) |
