@@ -1447,7 +1447,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Definitive Edition | 259578 | [259578-hentai-world-definitive-edition.json](./259578-hentai-world-definitive-edition.json) |
 | Hentai World: Deluxe Edition | 252208 | [252208-hentai-world-deluxe-edition.json](./252208-hentai-world-deluxe-edition.json) |
 | Hentai World: Expanded Edition | 260683 | [260683-hentai-world-expanded-edition.json](./260683-hentai-world-expanded-edition.json) |
+| Hentai World: Foxy Akane | 251687 | [251687-hentai-world-foxy-akane.json](./251687-hentai-world-foxy-akane.json) |
+| Hentai World: Kitty Rose | 251686 | [251686-hentai-world-kitty-rose.json](./251686-hentai-world-kitty-rose.json) |
 | Hentai World: Legendary Edition | 268562 | [268562-hentai-world-legendary-edition.json](./268562-hentai-world-legendary-edition.json) |
+| Hentai World: Puppy Nanami | 251685 | [251685-hentai-world-puppy-nanami.json](./251685-hentai-world-puppy-nanami.json) |
+| Hentai World: Special Edition | 251684 | [251684-hentai-world-special-edition.json](./251684-hentai-world-special-edition.json) |
 | Hentai World: Ultimate Edition | 256266 | [256266-hentai-world-ultimate-edition.json](./256266-hentai-world-ultimate-edition.json) |
 | Hentai World: Ultra Deluxe | 308818 | [308818-hentai-world-ultra-deluxe.json](./308818-hentai-world-ultra-deluxe.json) |
 | Hentai World: Ultra Extended | 313144 | [313144-hentai-world-ultra-extended.json](./313144-hentai-world-ultra-extended.json) |
@@ -2034,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Terror | 322600 | [322600-highway-terror.json](./322600-highway-terror.json) |
 | Highway to Heal | 344445 | [344445-highway-to-heal.json](./344445-highway-to-heal.json) |
 | Highway to the Moon | 32890 | [32890-highway-to-the-moon.json](./32890-highway-to-the-moon.json) |
+| Highway Traffic Racer | 251675 | [251675-highway-traffic-racer.json](./251675-highway-traffic-racer.json) |
 | Highway Trouble | 322597 | [322597-highway-trouble.json](./322597-highway-trouble.json) |
 | Highway Trouble 2 | 322599 | [322599-highway-trouble-2.json](./322599-highway-trouble-2.json) |
 | Highway Wars | 88041 | [88041-highway-wars.json](./88041-highway-wars.json) |
@@ -3407,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
 | Hypnosis: Quiet Nights | 352744 | [352744-hypnosis-quiet-nights.json](./352744-hypnosis-quiet-nights.json) |
 | Hypnospace Enforcer | 216271 | [216271-hypnospace-enforcer.json](./216271-hypnospace-enforcer.json) |
+| Hypnospace Outlaw & Slayers X: Terminal Aftermath: Vengance of the Slayer Bundle | 251655 | [251655-hypnospace-outlaw-and-slayers-x-terminal-aftermath-vengance-of-the-slayer-bundle.json](./251655-hypnospace-outlaw-and-slayers-x-terminal-aftermath-vengance-of-the-slayer-bundle.json) |
 | Hypnotica Quest | 302509 | [302509-hypnotica-quest.json](./302509-hypnotica-quest.json) |
 | Hypogeal | 401015 | [401015-hypogeal.json](./401015-hypogeal.json) |
 | Hypogean Descent | 266791 | [266791-hypogean-descent.json](./266791-hypogean-descent.json) |
