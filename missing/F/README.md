@@ -10,6 +10,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-1 Grand Prix 1996: Team Unei Simulation | 382916 | [382916-f-1-grand-prix-1996-team-unei-simulation.json](./382916-f-1-grand-prix-1996-team-unei-simulation.json) |
 | F-1 Grand Prix Part II | 38335 | [38335-f-1-grand-prix-part-ii.json](./38335-f-1-grand-prix-part-ii.json) |
 | F-1 Grand Prix Part III | 38362 | [38362-f-1-grand-prix-part-iii.json](./38362-f-1-grand-prix-part-iii.json) |
+| F-1 World Grand Prix | 248741 | [248741-f-1-world-grand-prix.json](./248741-f-1-world-grand-prix.json) |
+| F-1 World Grand Prix for Dreamcast | 248742 | [248742-f-1-world-grand-prix-for-dreamcast.json](./248742-f-1-world-grand-prix-for-dreamcast.json) |
 | F-16 Combat Pilot | 12085 | [12085-f-16-combat-pilot.json](./12085-f-16-combat-pilot.json) |
 | F-16 Multirole Fighter | 72715 | [72715-f-16-multirole-fighter.json](./72715-f-16-multirole-fighter.json) |
 | F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
@@ -2361,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Tobacco Eggs | 305922 | [305922-flying-tobacco-eggs.json](./305922-flying-tobacco-eggs.json) |
 | Flying Toyz | 258005 | [258005-flying-toyz.json](./258005-flying-toyz.json) |
 | Flying Unicorn | 256532 | [256532-flying-unicorn.json](./256532-flying-unicorn.json) |
+| Flying Wings HoverCraft | 248763 | [248763-flying-wings-hovercraft.json](./248763-flying-wings-hovercraft.json) |
 | Flying Wizards | 412968 | [412968-flying-wizards.json](./412968-flying-wizards.json) |
 | FlyingChicken | 371894 | [371894-flyingchicken.json](./371894-flyingchicken.json) |
 | Flyland Wars: 2 Not Yours Mine | 173785 | [173785-flyland-wars-2-not-yours-mine.json](./173785-flyland-wars-2-not-yours-mine.json) |
@@ -3651,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Seas | 103775 | [103775-furious-seas.json](./103775-furious-seas.json) |
 | Furistas Cat Cafe | 106594 | [106594-furistas-cat-cafe.json](./106594-furistas-cat-cafe.json) |
 | Furistas Cat Cafe | 106629 | [106629-furistas-cat-cafe.json](./106629-furistas-cat-cafe.json) |
+| Furlong Fracas | 248761 | [248761-furlong-fracas.json](./248761-furlong-fracas.json) |
 | Furni-Jumpin' | 255132 | [255132-furni-jumpin.json](./255132-furni-jumpin.json) |
 | Furnish Master | 212816 | [212816-furnish-master.json](./212816-furnish-master.json) |
 | Furniture Assembler Simulator | 402351 | [402351-furniture-assembler-simulator.json](./402351-furniture-assembler-simulator.json) |
