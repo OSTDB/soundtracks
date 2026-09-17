@@ -1770,6 +1770,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dead: The Game | 66308 | [66308-evil-dead-the-game.json](./66308-evil-dead-the-game.json) |
 | Evil Dead: The Game - Game of the Year Edition | 244790 | [244790-evil-dead-the-game-game-of-the-year-edition.json](./244790-evil-dead-the-game-game-of-the-year-edition.json) |
 | Evil Defenders | 25093 | [25093-evil-defenders.json](./25093-evil-defenders.json) |
+| Evil Dungeon | 285579 | [285579-evil-dungeon.json](./285579-evil-dungeon.json) |
+| Evil Dungeon II | 285580 | [285580-evil-dungeon-ii.json](./285580-evil-dungeon-ii.json) |
 | Evil Dungeons 2 | 323160 | [323160-evil-dungeons-2.json](./323160-evil-dungeons-2.json) |
 | Evil Egg | 351117 | [351117-evil-egg.json](./351117-evil-egg.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
