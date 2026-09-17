@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
 | Paranormal Night Shift | 328009 | [328009-paranormal-night-shift.json](./328009-paranormal-night-shift.json) |
 | Paranormal Place | 304660 | [304660-paranormal-place.json](./304660-paranormal-place.json) |
+| Paranormal Precinct: Last Copy of '99 | 274565 | [274565-paranormal-precinct-last-copy-of-99.json](./274565-paranormal-precinct-last-copy-of-99.json) |
 | Paranormal Realtor | 382903 | [382903-paranormal-realtor.json](./382903-paranormal-realtor.json) |
 | Paranormal Roulette | 365084 | [365084-paranormal-roulette.json](./365084-paranormal-roulette.json) |
 | Paranormal Simulator | 199591 | [199591-paranormal-simulator.json](./199591-paranormal-simulator.json) |
@@ -2173,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dragons | 162935 | [162935-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons.json](./162935-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Fairies | 163407 | [163407-pixel-puzzles-illustrations-and-anime-jigsaw-pack-fairies.json](./163407-pixel-puzzles-illustrations-and-anime-jigsaw-pack-fairies.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Gun Girls | 162934 | [162934-pixel-puzzles-illustrations-and-anime-jigsaw-pack-gun-girls.json](./162934-pixel-puzzles-illustrations-and-anime-jigsaw-pack-gun-girls.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Halloween | 274584 | [274584-pixel-puzzles-illustrations-and-anime-jigsaw-pack-halloween.json](./274584-pixel-puzzles-illustrations-and-anime-jigsaw-pack-halloween.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Little Dogs | 162936 | [162936-pixel-puzzles-illustrations-and-anime-jigsaw-pack-little-dogs.json](./162936-pixel-puzzles-illustrations-and-anime-jigsaw-pack-little-dogs.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Mechs | 163409 | [163409-pixel-puzzles-illustrations-and-anime-jigsaw-pack-mechs.json](./163409-pixel-puzzles-illustrations-and-anime-jigsaw-pack-mechs.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Ninja Girls | 163408 | [163408-pixel-puzzles-illustrations-and-anime-jigsaw-pack-ninja-girls.json](./163408-pixel-puzzles-illustrations-and-anime-jigsaw-pack-ninja-girls.json) |
@@ -3329,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato | 314306 | [314306-potato.json](./314306-potato.json) |
 | Potato Lagoon | 178087 | [178087-potato-lagoon.json](./178087-potato-lagoon.json) |
 | Potato Party: Hash It Out | 144943 | [144943-potato-party-hash-it-out.json](./144943-potato-party-hash-it-out.json) |
+| Potato Sack Racing Simulator 2024 | 274581 | [274581-potato-sack-racing-simulator-2024.json](./274581-potato-sack-racing-simulator-2024.json) |
 | Potato Salad | 290960 | [290960-potato-salad.json](./290960-potato-salad.json) |
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
 | Potato Vs. Potato | 341560 | [341560-potato-vs-potato.json](./341560-potato-vs-potato.json) |
@@ -3984,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
 | Project Homecoming Haven | 300711 | [300711-project-homecoming-haven.json](./300711-project-homecoming-haven.json) |
 | Project Hospital | 75855 | [75855-project-hospital.json](./75855-project-hospital.json) |
+| Project I | 274579 | [274579-project-i.json](./274579-project-i.json) |
 | Project II: Final Fantasy IV | 379344 | [379344-project-ii-final-fantasy-iv.json](./379344-project-ii-final-fantasy-iv.json) |
 | Project Justice | 13096 | [13096-project-justice.json](./13096-project-justice.json) |
 | Project Kinesis | 301954 | [301954-project-kinesis.json](./301954-project-kinesis.json) |
