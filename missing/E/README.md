@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
 | Exo Pexo Dots & Diamond | 226740 | [226740-exo-pexo-dots-and-diamond.json](./226740-exo-pexo-dots-and-diamond.json) |
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
+| Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
 | Exodos | 297069 | [297069-exodos.json](./297069-exodos.json) |
 | Exodus | 212237 | [212237-exodus.json](./212237-exodus.json) |
