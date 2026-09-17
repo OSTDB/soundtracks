@@ -2053,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight? Youth! | 395670 | [395670-flight-youth.json](./395670-flight-youth.json) |
 | FlightGear | 51200 | [51200-flightgear.json](./51200-flightgear.json) |
 | Flightless Fighters | 391710 | [391710-flightless-fighters.json](./391710-flightless-fighters.json) |
+| Flightmare | 267469 | [267469-flightmare.json](./267469-flightmare.json) |
 | Flights of Fancy | 176954 | [176954-flights-of-fancy.json](./176954-flights-of-fancy.json) |
 | Flikken Game: De Achtervolging | 86032 | [86032-flikken-game-de-achtervolging.json](./86032-flikken-game-de-achtervolging.json) |
 | Flimbo's Quest | 12103 | [12103-flimbos-quest.json](./12103-flimbos-quest.json) |
@@ -2180,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow Gear Racing | 153399 | [153399-flow-gear-racing.json](./153399-flow-gear-racing.json) |
 | Flow of War | 272262 | [272262-flow-of-war.json](./272262-flow-of-war.json) |
 | Flow Skate | 369048 | [369048-flow-skate.json](./369048-flow-skate.json) |
+| Flow: Last Origins | 267471 | [267471-flow-last-origins.json](./267471-flow-last-origins.json) |
 | Flow: The Sliding | 41934 | [41934-flow-the-sliding.json](./41934-flow-the-sliding.json) |
 | Flowcubes | 164972 | [164972-flowcubes.json](./164972-flowcubes.json) |
 | Flower | 1354 | [1354-flower.json](./1354-flower.json) |
@@ -3147,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends in a Room | 295770 | [295770-friends-in-a-room.json](./295770-friends-in-a-room.json) |
 | Friends Marble | 91337 | [91337-friends-marble.json](./91337-friends-marble.json) |
 | Friends of Little Yus | 191158 | [191158-friends-of-little-yus.json](./191158-friends-of-little-yus.json) |
+| Friends Play Pool | 267465 | [267465-friends-play-pool.json](./267465-friends-play-pool.json) |
 | Friends Racing Duo | 212456 | [212456-friends-racing-duo.json](./212456-friends-racing-duo.json) |
 | Friends vs. Friends: Baba's Laundromat | 257100 | [257100-friends-vs-friends-babas-laundromat.json](./257100-friends-vs-friends-babas-laundromat.json) |
 | FriendShip | 30936 | [30936-friendship.json](./30936-friendship.json) |
@@ -3223,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy Drink Bar! | 329965 | [329965-froggy-drink-bar.json](./329965-froggy-drink-bar.json) |
 | Froggy Family Fort | 175963 | [175963-froggy-family-fort.json](./175963-froggy-family-fort.json) |
 | FrogJump | 224242 | [224242-frogjump.json](./224242-frogjump.json) |
+| FrogLake | 267464 | [267464-froglake.json](./267464-froglake.json) |
 | Froglet | 262402 | [262402-froglet.json](./262402-froglet.json) |
 | Froglin Friend and the White Tower: Pt1 | 210692 | [210692-froglin-friend-and-the-white-tower-pt1.json](./210692-froglin-friend-and-the-white-tower-pt1.json) |
 | Frogmageddon | 322799 | [322799-frogmageddon.json](./322799-frogmageddon.json) |
