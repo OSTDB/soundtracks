@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco All-Stars: Dig Dug | 284372 | [284372-namco-all-stars-dig-dug.json](./284372-namco-all-stars-dig-dug.json) |
 | Namco All-Stars: Pac-Man | 284371 | [284371-namco-all-stars-pac-man.json](./284371-namco-all-stars-pac-man.json) |
 | Namco All-Stars: Pac-Man and Dig Dug | 284373 | [284373-namco-all-stars-pac-man-and-dig-dug.json](./284373-namco-all-stars-pac-man-and-dig-dug.json) |
+| Namco Classic | 239158 | [239158-namco-classic.json](./239158-namco-classic.json) |
 | Namco Classic Fighter Collection | 43282 | [43282-namco-classic-fighter-collection.json](./43282-namco-classic-fighter-collection.json) |
 | Namco Logic | 343342 | [343342-namco-logic.json](./343342-namco-logic.json) |
 | Namco Museum | 131507 | [131507-namco-museum.json](./131507-namco-museum.json) |
@@ -2047,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NukiTashi | 201846 | [201846-nukitashi.json](./201846-nukitashi.json) |
 | Nulandia | 304718 | [304718-nulandia.json](./304718-nulandia.json) |
 | Null & Peta -Invasion of the Queen Bug- | 127372 | [127372-null-and-peta-invasion-of-the-queen-bug.json](./127372-null-and-peta-invasion-of-the-queen-bug.json) |
+| Null Breach | 239151 | [239151-null-breach.json](./239151-null-breach.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Null State | 327807 | [327807-null-state.json](./327807-null-state.json) |
 | Null Vector | 55710 | [55710-null-vector.json](./55710-null-vector.json) |
