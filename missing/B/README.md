@@ -2655,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Judgment | 324328 | [324328-blast-judgment.json](./324328-blast-judgment.json) |
 | Blast Killer | 338280 | [338280-blast-killer.json](./338280-blast-killer.json) |
 | Blast Linkers | 399616 | [399616-blast-linkers.json](./399616-blast-linkers.json) |
+| Blast Motors | 235298 | [235298-blast-motors.json](./235298-blast-motors.json) |
 | Blast Off Far Away | 203910 | [203910-blast-off-far-away.json](./203910-blast-off-far-away.json) |
 | Blast Pulser | 179121 | [179121-blast-pulser.json](./179121-blast-pulser.json) |
 | Blast Radius | 270662 | [270662-blast-radius.json](./270662-blast-radius.json) |
