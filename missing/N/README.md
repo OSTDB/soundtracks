@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis: The Final Challenge | 262391 | [262391-nemesis-the-final-challenge.json](./262391-nemesis-the-final-challenge.json) |
 | Nemesis: The Final Challenge | 262392 | [262392-nemesis-the-final-challenge.json](./262392-nemesis-the-final-challenge.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
+| Nemo is going to School | 264105 | [264105-nemo-is-going-to-school.json](./264105-nemo-is-going-to-school.json) |
 | Nemo: Puzzle Pack II | 303779 | [303779-nemo-puzzle-pack-ii.json](./303779-nemo-puzzle-pack-ii.json) |
 | Nemo's Reef | 62168 | [62168-nemos-reef.json](./62168-nemos-reef.json) |
 | Nemorsys | 346602 | [346602-nemorsys.json](./346602-nemorsys.json) |
@@ -951,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Mysteries 3: The Lantern of Souls | 87664 | [87664-new-york-mysteries-3-the-lantern-of-souls.json](./87664-new-york-mysteries-3-the-lantern-of-souls.json) |
 | New York Mysteries: High Voltage | 34697 | [34697-new-york-mysteries-high-voltage.json](./34697-new-york-mysteries-high-voltage.json) |
 | New York Mysteries: Power of Art - Collector's Edition | 339642 | [339642-new-york-mysteries-power-of-art-collectors-edition.json](./339642-new-york-mysteries-power-of-art-collectors-edition.json) |
+| New York Nights 2: Friends For Life | 264134 | [264134-new-york-nights-2-friends-for-life.json](./264134-new-york-nights-2-friends-for-life.json) |
 | New York Shark | 294427 | [294427-new-york-shark.json](./294427-new-york-shark.json) |
 | New York Warriors | 39033 | [39033-new-york-warriors.json](./39033-new-york-warriors.json) |
 | New Zealand Jigsaw Puzzles | 274766 | [274766-new-zealand-jigsaw-puzzles.json](./274766-new-zealand-jigsaw-puzzles.json) |
