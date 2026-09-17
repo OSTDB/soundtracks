@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
 | Real Car Market Simulator Together | 407348 | [407348-real-car-market-simulator-together.json](./407348-real-car-market-simulator-together.json) |
 | Real Cricket Go | 233506 | [233506-real-cricket-go.json](./233506-real-cricket-go.json) |
+| Real Dodger 3D | 256355 | [256355-real-dodger-3d.json](./256355-real-dodger-3d.json) |
 | Real Drags | 24992 | [24992-real-drags.json](./24992-real-drags.json) |
 | Real Drift | 89963 | [89963-real-drift.json](./89963-real-drift.json) |
 | Real Drift Multiplayer | 256564 | [256564-real-drift-multiplayer.json](./256564-real-drift-multiplayer.json) |
@@ -994,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Desert Render | 132148 | [132148-red-desert-render.json](./132148-red-desert-render.json) |
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
 | Red Echo | 270941 | [270941-red-echo.json](./270941-red-echo.json) |
+| Red Egg: High Protein Gluten Free Adventure | 256353 | [256353-red-egg-high-protein-gluten-free-adventure.json](./256353-red-egg-high-protein-gluten-free-adventure.json) |
 | Red Embrace | 86440 | [86440-red-embrace.json](./86440-red-embrace.json) |
 | Red Embrace: Hollywood | 110753 | [110753-red-embrace-hollywood.json](./110753-red-embrace-hollywood.json) |
 | Red Embrace: Paradisus | 186332 | [186332-red-embrace-paradisus.json](./186332-red-embrace-paradisus.json) |
@@ -3415,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Roulette II: The Next Worlds | 265942 | [265942-russian-roulette-ii-the-next-worlds.json](./265942-russian-roulette-ii-the-next-worlds.json) |
 | Russian Roulette: One Life | 194564 | [194564-russian-roulette-one-life.json](./194564-russian-roulette-one-life.json) |
 | Russian Soul Simulator | 285562 | [285562-russian-soul-simulator.json](./285562-russian-soul-simulator.json) |
+| Russian Square Plus! Edition | 256375 | [256375-russian-square-plus-edition.json](./256375-russian-square-plus-edition.json) |
 | Russian VR Coasters | 32005 | [32005-russian-vr-coasters.json](./32005-russian-vr-coasters.json) |
 | Russian Warship | 267444 | [267444-russian-warship.json](./267444-russian-warship.json) |
 | Russki Duck | 282102 | [282102-russki-duck.json](./282102-russki-duck.json) |
