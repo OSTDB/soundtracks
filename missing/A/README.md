@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
 | Aery: Ancient Empires | 283897 | [283897-aery-ancient-empires.json](./283897-aery-ancient-empires.json) |
 | Aery: Best of Bundle | 302512 | [302512-aery-best-of-bundle.json](./302512-aery-best-of-bundle.json) |
+| Aery: Calm Mind 4 | 263037 | [263037-aery-calm-mind-4.json](./263037-aery-calm-mind-4.json) |
 | Aery: Cyber City | 283896 | [283896-aery-cyber-city.json](./283896-aery-cyber-city.json) |
 | Aery: Midnight Hour | 288376 | [288376-aery-midnight-hour.json](./288376-aery-midnight-hour.json) |
 | Aery: Stone Age | 283895 | [283895-aery-stone-age.json](./283895-aery-stone-age.json) |
@@ -1650,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
 | American Truck Simulator 2022 | 197844 | [197844-american-truck-simulator-2022.json](./197844-american-truck-simulator-2022.json) |
 | American Truck Simulator: Christmas Paint Jobs Pack | 353403 | [353403-american-truck-simulator-christmas-paint-jobs-pack.json](./353403-american-truck-simulator-christmas-paint-jobs-pack.json) |
+| American Truck Simulator: Dragon Truck Design Pack | 263050 | [263050-american-truck-simulator-dragon-truck-design-pack.json](./263050-american-truck-simulator-dragon-truck-design-pack.json) |
 | American Truck Simulator: Farm Machinery | 278555 | [278555-american-truck-simulator-farm-machinery.json](./278555-american-truck-simulator-farm-machinery.json) |
 | American Truck Simulator: Freightliner Cascadia (The Fifth Generation) | 353410 | [353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json](./353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json) |
 | American Truck Simulator: Goodyear Tires Pack | 223687 | [223687-american-truck-simulator-goodyear-tires-pack.json](./223687-american-truck-simulator-goodyear-tires-pack.json) |
@@ -2072,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
 | Animal Zoo: The Forgotten Land | 314879 | [314879-animal-zoo-the-forgotten-land.json](./314879-animal-zoo-the-forgotten-land.json) |
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
+| Animalia Survival: Haloween Pack | 263051 | [263051-animalia-survival-haloween-pack.json](./263051-animalia-survival-haloween-pack.json) |
 | Animallica | 43361 | [43361-animallica.json](./43361-animallica.json) |
 | Animaloid Girl | 263199 | [263199-animaloid-girl.json](./263199-animaloid-girl.json) |
 | Animalon: Epic Monsters Battle | 355120 | [355120-animalon-epic-monsters-battle.json](./355120-animalon-epic-monsters-battle.json) |
