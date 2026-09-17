@@ -5333,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclopean II: The Dreamlands | 369652 | [369652-cyclopean-ii-the-dreamlands.json](./369652-cyclopean-ii-the-dreamlands.json) |
 | Cyclopvania | 206145 | [206145-cyclopvania.json](./206145-cyclopvania.json) |
 | Cydonia | 256838 | [256838-cydonia.json](./256838-cydonia.json) |
+| Cygnus IV | 263597 | [263597-cygnus-iv.json](./263597-cygnus-iv.json) |
 | Cylinder: Puzzles Returned | 63898 | [63898-cylinder-puzzles-returned.json](./63898-cylinder-puzzles-returned.json) |
 | Cylindrix | 73318 | [73318-cylindrix.json](./73318-cylindrix.json) |
 | Cylor vs. the Bullets From Hell | 123612 | [123612-cylor-vs-the-bullets-from-hell.json](./123612-cylor-vs-the-bullets-from-hell.json) |
