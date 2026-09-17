@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpie | 188034 | [188034-warpie.json](./188034-warpie.json) |
 | WarPlan | 125460 | [125460-warplan.json](./125460-warplan.json) |
 | Warplanes Inc. | 327206 | [327206-warplanes-inc.json](./327206-warplanes-inc.json) |
+| Warplanes: Air Corp | 266302 | [266302-warplanes-air-corp.json](./266302-warplanes-air-corp.json) |
 | Warplanes: WW1 Sky Aces | 123569 | [123569-warplanes-ww1-sky-aces.json](./123569-warplanes-ww1-sky-aces.json) |
 | Warplanes: WW2 Dogfight | 112929 | [112929-warplanes-ww2-dogfight.json](./112929-warplanes-ww2-dogfight.json) |
 | Warplock | 377152 | [377152-warplock.json](./377152-warplock.json) |
@@ -1928,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wool | 377141 | [377141-wool.json](./377141-wool.json) |
 | Woolfe: The Red Hood Diaries | 11647 | [11647-woolfe-the-red-hood-diaries.json](./11647-woolfe-the-red-hood-diaries.json) |
 | WooLoop | 199121 | [199121-wooloop.json](./199121-wooloop.json) |
+| WooLoop: Industry Pack | 266315 | [266315-wooloop-industry-pack.json](./266315-wooloop-industry-pack.json) |
 | WooLoop: Magic Pack | 319347 | [319347-wooloop-magic-pack.json](./319347-wooloop-magic-pack.json) |
 | WooLoop: Science Pack | 288918 | [288918-wooloop-science-pack.json](./288918-wooloop-science-pack.json) |
 | WooLoop: Video Games Pack | 301829 | [301829-wooloop-video-games-pack.json](./301829-wooloop-video-games-pack.json) |
