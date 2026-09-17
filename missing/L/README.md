@@ -1822,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
 | Locomotion | 117048 | [117048-locomotion.json](./117048-locomotion.json) |
 | Locomotion | 202410 | [202410-locomotion.json](./202410-locomotion.json) |
+| LocoMotion | 265225 | [265225-locomotion.json](./265225-locomotion.json) |
 | Locomotive 115 | 322993 | [322993-locomotive-115.json](./322993-locomotive-115.json) |
 | LocoSoccer Classic | 34601 | [34601-locosoccer-classic.json](./34601-locosoccer-classic.json) |
 | Locotier | 193489 | [193489-locotier.json](./193489-locotier.json) |
