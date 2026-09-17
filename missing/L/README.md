@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Supersonic RC | 250613 | [250613-lego-supersonic-rc.json](./250613-lego-supersonic-rc.json) |
 | LEGO The Lord of the Rings: Toy Edition | 139957 | [139957-lego-the-lord-of-the-rings-toy-edition.json](./139957-lego-the-lord-of-the-rings-toy-edition.json) |
 | LEGO World Builder 2 | 243690 | [243690-lego-world-builder-2.json](./243690-lego-world-builder-2.json) |
+| LEGO World Soccer | 273982 | [273982-lego-world-soccer.json](./273982-lego-world-soccer.json) |
 | Lego Worlds Showcase Collection #1 | 255377 | [255377-lego-worlds-showcase-collection-1.json](./255377-lego-worlds-showcase-collection-1.json) |
 | LEGO: City Builder | 318792 | [318792-lego-city-builder.json](./318792-lego-city-builder.json) |
 | Leguiumz Experience | 304580 | [304580-leguiumz-experience.json](./304580-leguiumz-experience.json) |
@@ -2040,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorelei and the Laser Eyes | 206806 | [206806-lorelei-and-the-laser-eyes.json](./206806-lorelei-and-the-laser-eyes.json) |
 | Lorem Gioco | 381681 | [381681-lorem-gioco.json](./381681-lorem-gioco.json) |
 | Loren the Amazon Princess: The Castle Of N'Mar | 171634 | [171634-loren-the-amazon-princess-the-castle-of-nmar.json](./171634-loren-the-amazon-princess-the-castle-of-nmar.json) |
+| Lorenzo the Runner | 274040 | [274040-lorenzo-the-runner.json](./274040-lorenzo-the-runner.json) |
 | Lorerim | 383387 | [383387-lorerim.json](./383387-lorerim.json) |
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
 | Lorne | 235754 | [235754-lorne.json](./235754-lorne.json) |
@@ -2237,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love D3ath Love | 412296 | [412296-love-d3ath-love.json](./412296-love-d3ath-love.json) |
 | Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
 | Love Delivery | 185632 | [185632-love-delivery.json](./185632-love-delivery.json) |
+| Love Delivery2 | 274014 | [274014-love-delivery2.json](./274014-love-delivery2.json) |
 | Love Elysium: Secret of the Goddess - Extended Edition | 315872 | [315872-love-elysium-secret-of-the-goddess-extended-edition.json](./315872-love-elysium-secret-of-the-goddess-extended-edition.json) |
 | Love Elysium: Secret of the Goddess - Special Edition | 317251 | [317251-love-elysium-secret-of-the-goddess-special-edition.json](./317251-love-elysium-secret-of-the-goddess-special-edition.json) |
 | Love Elysium: Secret of the Goddess - Ultimate Edition | 313141 | [313141-love-elysium-secret-of-the-goddess-ultimate-edition.json](./313141-love-elysium-secret-of-the-goddess-ultimate-edition.json) |
@@ -2439,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Luke: Western Fever | 43886 | [43886-lucky-luke-western-fever.json](./43886-lucky-luke-western-fever.json) |
 | Lucky Luna | 204452 | [204452-lucky-luna.json](./204452-lucky-luna.json) |
 | Lucky Morolian | 259827 | [259827-lucky-morolian.json](./259827-lucky-morolian.json) |
+| Lucky One | 273973 | [273973-lucky-one.json](./273973-lucky-one.json) |
 | Lucky Paradox | 239300 | [239300-lucky-paradox.json](./239300-lucky-paradox.json) |
 | Lucky Pikinini: Zombie Rampage | 325870 | [325870-lucky-pikinini-zombie-rampage.json](./325870-lucky-pikinini-zombie-rampage.json) |
 | Lucky Pirates | 346066 | [346066-lucky-pirates.json](./346066-lucky-pirates.json) |
