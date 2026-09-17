@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Wolf 2 | 197900 | [197900-jade-wolf-2.json](./197900-jade-wolf-2.json) |
 | Jaded | 197962 | [197962-jaded.json](./197962-jaded.json) |
 | Jaded | 280912 | [280912-jaded.json](./280912-jaded.json) |
+| Jägermörder 2: Terra Nova | 262426 | [262426-jagermorder-2-terra-nova.json](./262426-jagermorder-2-terra-nova.json) |
 | Jagged Alliance | 7 | [7-jagged-alliance.json](./7-jagged-alliance.json) |
 | Jagged Alliance 2 Platinum | 53252 | [53252-jagged-alliance-2-platinum.json](./53252-jagged-alliance-2-platinum.json) |
 | Jagged Alliance 2: Wildfire | 10466 | [10466-jagged-alliance-2-wildfire.json](./10466-jagged-alliance-2-wildfire.json) |
