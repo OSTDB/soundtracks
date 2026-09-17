@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor of Man | 326576 | [326576-valor-of-man.json](./326576-valor-of-man.json) |
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
 | Valorbound | 222900 | [222900-valorbound.json](./222900-valorbound.json) |
+| Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
 | Valve Complete Pack | 55025 | [55025-valve-complete-pack.json](./55025-valve-complete-pack.json) |
 | Valvontaa | 399057 | [399057-valvontaa.json](./399057-valvontaa.json) |
 | Valyria Tear | 60586 | [60586-valyria-tear.json](./60586-valyria-tear.json) |
@@ -592,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings: Valhalla Saga | 228120 | [228120-vikings-valhalla-saga.json](./228120-vikings-valhalla-saga.json) |
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
 | Vile: Exhumed | 320741 | [320741-vile-exhumed.json](./320741-vile-exhumed.json) |
+| Village | 266295 | [266295-village.json](./266295-village.json) |
 | Village businessman | 159820 | [159820-village-businessman.json](./159820-village-businessman.json) |
 | Village City Island Sim Build | 104606 | [104606-village-city-island-sim-build.json](./104606-village-city-island-sim-build.json) |
 | Village Cricket | 175401 | [175401-village-cricket.json](./175401-village-cricket.json) |
@@ -810,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivian and Kyuma | 282021 | [282021-vivian-and-kyuma.json](./282021-vivian-and-kyuma.json) |
 | Vivid | 415091 | [415091-vivid.json](./415091-vivid.json) |
 | ViViD | 61070 | [61070-vivid.json](./61070-vivid.json) |
+| Vivid World | 266274 | [266274-vivid-world.json](./266274-vivid-world.json) |
 | ViviDex | 182983 | [182983-vividex.json](./182983-vividex.json) |
 | Viviparous Dumpling | 354449 | [354449-viviparous-dumpling.json](./354449-viviparous-dumpling.json) |
 | Vivitter: Additional Mini-game - "Hole-in-one" | 308772 | [308772-vivitter-additional-mini-game-hole-in-one.json](./308772-vivitter-additional-mini-game-hole-in-one.json) |
