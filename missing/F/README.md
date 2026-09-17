@@ -2495,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Streaker Simulator | 259086 | [259086-football-streaker-simulator.json](./259086-football-streaker-simulator.json) |
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
 | Football Thug Life Soccer | 255741 | [255741-football-thug-life-soccer.json](./255741-football-thug-life-soccer.json) |
+| Football, Tactics & Glory 2 | 258555 | [258555-football-tactics-and-glory-2.json](./258555-football-tactics-and-glory-2.json) |
 | Football: The Hardest Job | 123574 | [123574-football-the-hardest-job.json](./123574-football-the-hardest-job.json) |
 | FootGoal! Tiki Taka | 147921 | [147921-footgoal-tiki-taka.json](./147921-footgoal-tiki-taka.json) |
 | Footie | 268485 | [268485-footie.json](./268485-footie.json) |
@@ -2675,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Sound 2: Destiny | 83545 | [83545-forgotten-sound-2-destiny.json](./83545-forgotten-sound-2-destiny.json) |
 | Forgotten Tales: Day of the Dead | 33244 | [33244-forgotten-tales-day-of-the-dead.json](./33244-forgotten-tales-day-of-the-dead.json) |
 | Forgotten Trails | 406697 | [406697-forgotten-trails.json](./406697-forgotten-trails.json) |
+| Forgotten Waters | 258536 | [258536-forgotten-waters.json](./258536-forgotten-waters.json) |
 | Forgotton Anne | 24426 | [24426-forgotton-anne.json](./24426-forgotton-anne.json) |
 | Fork Frog | 350438 | [350438-fork-frog.json](./350438-fork-frog.json) |
 | Fork in the Road | 294155 | [294155-fork-in-the-road.json](./294155-fork-in-the-road.json) |
@@ -3065,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Solitaire: Cats | 340251 | [340251-free-solitaire-cats.json](./340251-free-solitaire-cats.json) |
 | Free Stars: Children of Infinity | 306085 | [306085-free-stars-children-of-infinity.json](./306085-free-stars-children-of-infinity.json) |
 | Free Strategy Chess Game | 349862 | [349862-free-strategy-chess-game.json](./349862-free-strategy-chess-game.json) |
+| Free the Lazy Dogs | 258516 | [258516-free-the-lazy-dogs.json](./258516-free-the-lazy-dogs.json) |
 | Free Will | 291462 | [291462-free-will.json](./291462-free-will.json) |
 | Free.ksPeak | 285999 | [285999-free-kspeak.json](./285999-free-kspeak.json) |
 | Freebie | 32400 | [32400-freebie.json](./32400-freebie.json) |
