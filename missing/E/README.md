@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
 | Electrolight | 319192 | [319192-electrolight.json](./319192-electrolight.json) |
 | Electron Handsome Boy | 201312 | [201312-electron-handsome-boy.json](./201312-electron-handsome-boy.json) |
+| Electron Zaraftor | 276295 | [276295-electron-zaraftor.json](./276295-electron-zaraftor.json) |
 | Electronauts | 81056 | [81056-electronauts.json](./81056-electronauts.json) |
 | Electronia | 55918 | [55918-electronia.json](./55918-electronia.json) |
 | Electronic Shop Simulator | 344354 | [344354-electronic-shop-simulator.json](./344354-electronic-shop-simulator.json) |
@@ -2005,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
 | Expedition Astra | 288777 | [288777-expedition-astra.json](./288777-expedition-astra.json) |
 | Expedition to the Backrooms | 324305 | [324305-expedition-to-the-backrooms.json](./324305-expedition-to-the-backrooms.json) |
+| Expedition: Crushing Depth | 276293 | [276293-expedition-crushing-depth.json](./276293-expedition-crushing-depth.json) |
 | Expedition: Into Darkness | 324300 | [324300-expedition-into-darkness.json](./324300-expedition-into-darkness.json) |
 | Expeditions: A MudRunner Game - Season 1: Cave Odyssey | 397701 | [397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json](./397701-expeditions-a-mudrunner-game-season-1-cave-odyssey.json) |
 | Expeditions: A MudRunner Game - Season 2: White Dawn | 397703 | [397703-expeditions-a-mudrunner-game-season-2-white-dawn.json](./397703-expeditions-a-mudrunner-game-season-2-white-dawn.json) |
