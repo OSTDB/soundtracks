@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Dave | 277290 | [277290-detective-dave.json](./277290-detective-dave.json) |
 | Detective Diaries | 302499 | [302499-detective-diaries.json](./302499-detective-diaries.json) |
 | Detective Eustaquio | 320737 | [320737-detective-eustaquio.json](./320737-detective-eustaquio.json) |
+| Detective Fantasia: Excalimurder | 274562 | [274562-detective-fantasia-excalimurder.json](./274562-detective-fantasia-excalimurder.json) |
 | Detective Firefly | 348257 | [348257-detective-firefly.json](./348257-detective-firefly.json) |
 | Detective Frizbee | 332250 | [332250-detective-frizbee.json](./332250-detective-frizbee.json) |
 | Detective Hayseed: The Cloning Madness | 277025 | [277025-detective-hayseed-the-cloning-madness.json](./277025-detective-hayseed-the-cloning-madness.json) |
@@ -2805,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Remember? | 303484 | [303484-do-you-remember.json](./303484-do-you-remember.json) |
 | Do-Konjou Shougakusei: Bon Bita - Hadaka no Choujou Ketsusen!! Bita vs. Dokuro Dei! | 269574 | [269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json](./269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json) |
 | Doala de Wii | 81237 | [81237-doala-de-wii.json](./81237-doala-de-wii.json) |
+| Doashime | 274538 | [274538-doashime.json](./274538-doashime.json) |
 | Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
 | Dobo's Heroes | 147420 | [147420-dobos-heroes.json](./147420-dobos-heroes.json) |
 | Doc Cosmos | 133986 | [133986-doc-cosmos.json](./133986-doc-cosmos.json) |
@@ -4166,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink Bar Maid | 134608 | [134608-drink-bar-maid.json](./134608-drink-bar-maid.json) |
 | Drink Bar Maid: Regression | 134609 | [134609-drink-bar-maid-regression.json](./134609-drink-bar-maid-regression.json) |
 | Drink Beer, Neglect Family | 185673 | [185673-drink-beer-neglect-family.json](./185673-drink-beer-neglect-family.json) |
+| Drink Human Beans | 274571 | [274571-drink-human-beans.json](./274571-drink-human-beans.json) |
 | Drinkbox Vita Collection | 99542 | [99542-drinkbox-vita-collection.json](./99542-drinkbox-vita-collection.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
 | Drive | 366908 | [366908-drive.json](./366908-drive.json) |
