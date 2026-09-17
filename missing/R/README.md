@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Fish Goes to College | 305138 | [305138-rainbow-fish-goes-to-college.json](./305138-rainbow-fish-goes-to-college.json) |
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
 | Rainbow Hero | 35906 | [35906-rainbow-hero.json](./35906-rainbow-hero.json) |
+| Rainbow High: Runway Rush | 249255 | [249255-rainbow-high-runway-rush.json](./249255-rainbow-high-runway-rush.json) |
 | Rainbow Infinity | 232148 | [232148-rainbow-infinity.json](./232148-rainbow-infinity.json) |
 | Rainbow Jigsaw | 241664 | [241664-rainbow-jigsaw.json](./241664-rainbow-jigsaw.json) |
 | Rainbow Keys Plus | 130890 | [130890-rainbow-keys-plus.json](./130890-rainbow-keys-plus.json) |
@@ -2188,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk: Global Domination - Pirate Pack | 164458 | [164458-risk-global-domination-pirate-pack.json](./164458-risk-global-domination-pirate-pack.json) |
 | Risk: Global Domination - Sci-Fi Map Pack | 226945 | [226945-risk-global-domination-sci-fi-map-pack.json](./226945-risk-global-domination-sci-fi-map-pack.json) |
 | Risk: Global Domination - Strongholds & Castles Map Pack | 226947 | [226947-risk-global-domination-strongholds-and-castles-map-pack.json](./226947-risk-global-domination-strongholds-and-castles-map-pack.json) |
+| Risk: Global Domination - Universal Domination Map Pack | 249300 | [249300-risk-global-domination-universal-domination-map-pack.json](./249300-risk-global-domination-universal-domination-map-pack.json) |
 | Risk: Global Domination - US City Map Pack | 164457 | [164457-risk-global-domination-us-city-map-pack.json](./164457-risk-global-domination-us-city-map-pack.json) |
 | Risk: Global Domination - Zombie Pack | 226946 | [226946-risk-global-domination-zombie-pack.json](./226946-risk-global-domination-zombie-pack.json) |
 | Risk: Pogo Domination | 354995 | [354995-risk-pogo-domination.json](./354995-risk-pogo-domination.json) |
@@ -2375,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
 | Robolifter | 227850 | [227850-robolifter.json](./227850-robolifter.json) |
 | Roboloop | 295776 | [295776-roboloop.json](./295776-roboloop.json) |
+| Robolt | 249306 | [249306-robolt.json](./249306-robolt.json) |
 | Robolucion: The Sandwich Conspiracy | 390681 | [390681-robolucion-the-sandwich-conspiracy.json](./390681-robolucion-the-sandwich-conspiracy.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | RoboMaze: The Basement | 59927 | [59927-robomaze-the-basement.json](./59927-robomaze-the-basement.json) |
