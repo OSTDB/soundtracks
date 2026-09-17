@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
 | Galaxy Boom - Defend Planet | 108487 | [108487-galaxy-boom-defend-planet.json](./108487-galaxy-boom-defend-planet.json) |
 | Galaxy Bowling | 101540 | [101540-galaxy-bowling.json](./101540-galaxy-bowling.json) |
+| Galaxy Bricks | 274045 | [274045-galaxy-bricks.json](./274045-galaxy-bricks.json) |
 | Galaxy Cannon Rider | 33051 | [33051-galaxy-cannon-rider.json](./33051-galaxy-cannon-rider.json) |
 | Galaxy Defense War | 372018 | [372018-galaxy-defense-war.json](./372018-galaxy-defense-war.json) |
 | Galaxy Defense: Fortress TD | 344951 | [344951-galaxy-defense-fortress-td.json](./344951-galaxy-defense-fortress-td.json) |
@@ -666,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemsa | 243966 | [243966-gemsa.json](./243966-gemsa.json) |
 | Gemstone Guardians | 239640 | [239640-gemstone-guardians.json](./239640-gemstone-guardians.json) |
 | Gemstone IV | 79899 | [79899-gemstone-iv.json](./79899-gemstone-iv.json) |
+| Gemstone Puzzle Fury | 274028 | [274028-gemstone-puzzle-fury.json](./274028-gemstone-puzzle-fury.json) |
 | Gemstone Puzzle Fury: Expansion Pack | 275731 | [275731-gemstone-puzzle-fury-expansion-pack.json](./275731-gemstone-puzzle-fury-expansion-pack.json) |
 | Gemstone Realm | 368505 | [368505-gemstone-realm.json](./368505-gemstone-realm.json) |
 | Gemstone Warrior | 25693 | [25693-gemstone-warrior.json](./25693-gemstone-warrior.json) |
@@ -1769,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonya Fighter: Jiggly Haptic Edition | 146316 | [146316-goonya-fighter-jiggly-haptic-edition.json](./146316-goonya-fighter-jiggly-haptic-edition.json) |
 | Goonya Monster: Battle Pass - Eternal Pass + Infinity Cookie | 301019 | [301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json](./301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json) |
 | Goop Snake | 364564 | [364564-goop-snake.json](./364564-goop-snake.json) |
+| GoopW | 274019 | [274019-goopw.json](./274019-goopw.json) |
 | Goos Hunt | 337182 | [337182-goos-hunt.json](./337182-goos-hunt.json) |
 | Goose Goose Duck | 144442 | [144442-goose-goose-duck.json](./144442-goose-goose-duck.json) |
 | Goose Simulator | 199063 | [199063-goose-simulator.json](./199063-goose-simulator.json) |
