@@ -69,6 +69,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cade Prime | 173244 | [173244-cade-prime.json](./173244-cade-prime.json) |
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
 | Cadence | 317844 | [317844-cadence.json](./317844-cadence.json) |
+| Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Melody Pack | 235331 | [235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json](./235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json) |
+| Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Octavo's Ode | 235330 | [235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json](./235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json) |
 | Cadenza: Havana Nights | 188030 | [188030-cadenza-havana-nights.json](./188030-cadenza-havana-nights.json) |
 | Cadillacs and Dinosaurs: The Second Cataclysm | 5367 | [5367-cadillacs-and-dinosaurs-the-second-cataclysm.json](./5367-cadillacs-and-dinosaurs-the-second-cataclysm.json) |
 | Cadria Item Shop | 107894 | [107894-cadria-item-shop.json](./107894-cadria-item-shop.json) |
@@ -858,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
 | Castle Creeps Battle | 105908 | [105908-castle-creeps-battle.json](./105908-castle-creeps-battle.json) |
 | Castle Crisis | 40782 | [40782-castle-crisis.json](./40782-castle-crisis.json) |
+| Castle Crumble | 235306 | [235306-castle-crumble.json](./235306-castle-crumble.json) |
 | Castle Defender | 273909 | [273909-castle-defender.json](./273909-castle-defender.json) |
 | Castle Evalon | 323931 | [323931-castle-evalon.json](./323931-castle-evalon.json) |
 | Castle Explorer | 79838 | [79838-castle-explorer.json](./79838-castle-explorer.json) |
@@ -4689,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crop Empire | 413040 | [413040-crop-empire.json](./413040-crop-empire.json) |
 | Crop Haven | 287626 | [287626-crop-haven.json](./287626-crop-haven.json) |
 | Cropbuster | 235216 | [235216-cropbuster.json](./235216-cropbuster.json) |
+| CropBytes | 235307 | [235307-cropbytes.json](./235307-cropbytes.json) |
 | Cropple | 243963 | [243963-cropple.json](./243963-cropple.json) |
 | Crops and Conveyors | 189126 | [189126-crops-and-conveyors.json](./189126-crops-and-conveyors.json) |
 | Croquet Pro | 111727 | [111727-croquet-pro.json](./111727-croquet-pro.json) |
@@ -4794,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of Silence | 385220 | [385220-crown-of-silence.json](./385220-crown-of-silence.json) |
 | Crown of the Empire: Temple of Resurrection - Collector's Edition | 417514 | [417514-crown-of-the-empire-temple-of-resurrection-collectors-edition.json](./417514-crown-of-the-empire-temple-of-resurrection-collectors-edition.json) |
 | Crown of the Empire: Timeloop - Collector's Edition | 356113 | [356113-crown-of-the-empire-timeloop-collectors-edition.json](./356113-crown-of-the-empire-timeloop-collectors-edition.json) |
+| Crown of Thorns | 235359 | [235359-crown-of-thorns.json](./235359-crown-of-thorns.json) |
 | Crown Solitaire: Card Game | 96714 | [96714-crown-solitaire-card-game.json](./96714-crown-solitaire-card-game.json) |
 | Crown's Trial | 402270 | [402270-crowns-trial.json](./402270-crowns-trial.json) |
 | Crownbane | 411701 | [411701-crownbane.json](./411701-crownbane.json) |
@@ -5445,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberference | 244490 | [244490-cyberference.json](./244490-cyberference.json) |
 | Cyberflow | 61679 | [61679-cyberflow.json](./61679-cyberflow.json) |
 | CyberGlide VR | 120319 | [120319-cyberglide-vr.json](./120319-cyberglide-vr.json) |
+| CyberHeroes Arena DX | 235300 | [235300-cyberheroes-arena-dx.json](./235300-cyberheroes-arena-dx.json) |
 | CyberHoney | 310171 | [310171-cyberhoney.json](./310171-cyberhoney.json) |
 | Cyberhunk | 211191 | [211191-cyberhunk.json](./211191-cyberhunk.json) |
 | Cyberia | 4331 | [4331-cyberia.json](./4331-cyberia.json) |
