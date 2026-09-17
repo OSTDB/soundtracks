@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xio: Survival | 193496 | [193496-xio-survival.json](./193496-xio-survival.json) |
 | Xion Leak | 216815 | [216815-xion-leak.json](./216815-xion-leak.json) |
 | Xióng Chuǎng Tiānxià | 325062 | [325062-xiong-chuang-tianxia.json](./325062-xiong-chuang-tianxia.json) |
+| Xiuzhen Idle | 237480 | [237480-xiuzhen-idle.json](./237480-xiuzhen-idle.json) |
 | XIX | 282701 | [282701-xix.json](./282701-xix.json) |
 | Xjump | 291602 | [291602-xjump.json](./291602-xjump.json) |
 | xkcd: Hoverboard | 59459 | [59459-xkcd-hoverboard.json](./59459-xkcd-hoverboard.json) |
