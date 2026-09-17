@@ -2017,8 +2017,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Kizuna: Alternative Hirukowashi-hen | 262970 | [262970-higurashi-no-naku-koro-ni-kizuna-alternative-hirukowashi-hen.json](./262970-higurashi-no-naku-koro-ni-kizuna-alternative-hirukowashi-hen.json) |
 | Higurashi no Naku Koro ni Kizuna: Himatsubushi-hen | 262960 | [262960-higurashi-no-naku-koro-ni-kizuna-himatsubushi-hen.json](./262960-higurashi-no-naku-koro-ni-kizuna-himatsubushi-hen.json) |
 | Higurashi no Naku Koro ni Kizuna: Kageboushi-hen | 262971 | [262971-higurashi-no-naku-koro-ni-kizuna-kageboushi-hen.json](./262971-higurashi-no-naku-koro-ni-kizuna-kageboushi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Kotohogushi-hen | 263018 | [263018-higurashi-no-naku-koro-ni-kizuna-kotohogushi-hen.json](./263018-higurashi-no-naku-koro-ni-kizuna-kotohogushi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Matsuribayashi-hen | 263015 | [263015-higurashi-no-naku-koro-ni-kizuna-matsuribayashi-hen.json](./263015-higurashi-no-naku-koro-ni-kizuna-matsuribayashi-hen.json) |
 | Higurashi no Naku Koro ni Kizuna: Meakashi-hen | 262961 | [262961-higurashi-no-naku-koro-ni-kizuna-meakashi-hen.json](./262961-higurashi-no-naku-koro-ni-kizuna-meakashi-hen.json) |
 | Higurashi no Naku Koro ni Kizuna: Minagoroshi-hen | 262980 | [262980-higurashi-no-naku-koro-ni-kizuna-minagoroshi-hen.json](./262980-higurashi-no-naku-koro-ni-kizuna-minagoroshi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Miotsukushi-hen | 263014 | [263014-higurashi-no-naku-koro-ni-kizuna-miotsukushi-hen.json](./263014-higurashi-no-naku-koro-ni-kizuna-miotsukushi-hen.json) |
+| Higurashi no Naku Koro ni Kizuna: Saikoroshi-hen | 263017 | [263017-higurashi-no-naku-koro-ni-kizuna-saikoroshi-hen.json](./263017-higurashi-no-naku-koro-ni-kizuna-saikoroshi-hen.json) |
 | Higurashi no Naku Koro ni Kizuna: Tsumihoroboshi-hen | 262978 | [262978-higurashi-no-naku-koro-ni-kizuna-tsumihoroboshi-hen.json](./262978-higurashi-no-naku-koro-ni-kizuna-tsumihoroboshi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.0 Himatsubushi-hen | 262688 | [262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json](./262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.1 Taraimawashi-hen | 262680 | [262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json](./262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json) |
