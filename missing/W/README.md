@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Simulator: Bear | 86905 | [86905-wildlife-simulator-bear.json](./86905-wildlife-simulator-bear.json) |
 | Wildlife Simulator: Crocodile | 96723 | [96723-wildlife-simulator-crocodile.json](./96723-wildlife-simulator-crocodile.json) |
 | Wildmagic Wizardry | 270106 | [270106-wildmagic-wizardry.json](./270106-wildmagic-wizardry.json) |
+| Wildmender | 204541 | [204541-wildmender.json](./204541-wildmender.json) |
 | Wilds of the Realmwalker | 356747 | [356747-wilds-of-the-realmwalker.json](./356747-wilds-of-the-realmwalker.json) |
 | Wilds.io | 79877 | [79877-wilds-io.json](./79877-wilds-io.json) |
 | Wildseed | 356170 | [356170-wildseed.json](./356170-wildseed.json) |
