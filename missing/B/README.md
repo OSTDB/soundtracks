@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babe and Friends | 49915 | [49915-babe-and-friends.json](./49915-babe-and-friends.json) |
 | Babe or Grave | 212288 | [212288-babe-or-grave.json](./212288-babe-or-grave.json) |
 | Babe-lathe | 296493 | [296493-babe-lathe.json](./296493-babe-lathe.json) |
+| Babel | 198377 | [198377-babel.json](./198377-babel.json) |
 | Babel | 239161 | [239161-babel.json](./239161-babel.json) |
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
 | Babel Defense | 338174 | [338174-babel-defense.json](./338174-babel-defense.json) |
@@ -4455,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Brookwood: Pocket Tactics | 329696 | [329696-brookwood-pocket-tactics.json](./329696-brookwood-pocket-tactics.json) |
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
+| Bros | 198391 | [198391-bros.json](./198391-bros.json) |
 | Bros Survivors | 404928 | [404928-bros-survivors.json](./404928-bros-survivors.json) |
 | Brotato + Space Gladiators Bundle | 259575 | [259575-brotato-space-gladiators-bundle.json](./259575-brotato-space-gladiators-bundle.json) |
 | Brotato: Nintendo Switch 2 Edition | 378791 | [378791-brotato-nintendo-switch-2-edition.json](./378791-brotato-nintendo-switch-2-edition.json) |
