@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necro Genesis | 390639 | [390639-necro-genesis.json](./390639-necro-genesis.json) |
 | Necro Wars | 127261 | [127261-necro-wars.json](./127261-necro-wars.json) |
 | Necrocat | 318009 | [318009-necrocat.json](./318009-necrocat.json) |
+| Necroffense | 220711 | [220711-necroffense.json](./220711-necroffense.json) |
 | Necroflora | 333542 | [333542-necroflora.json](./333542-necroflora.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
 | Necromancer Nonsense | 347151 | [347151-necromancer-nonsense.json](./347151-necromancer-nonsense.json) |
@@ -1218,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Full Moon: Choice of Carpenter | 170463 | [170463-night-of-full-moon-choice-of-carpenter.json](./170463-night-of-full-moon-choice-of-carpenter.json) |
 | Night of Full Moon: Contract of Soul | 170465 | [170465-night-of-full-moon-contract-of-soul.json](./170465-night-of-full-moon-contract-of-soul.json) |
 | Night of Full Moon: Gear of Fate | 170461 | [170461-night-of-full-moon-gear-of-fate.json](./170461-night-of-full-moon-gear-of-fate.json) |
+| Night of Full Moon: Ghost | 220738 | [220738-night-of-full-moon-ghost.json](./220738-night-of-full-moon-ghost.json) |
 | Night of Full Moon: Magic Curtain | 170464 | [170464-night-of-full-moon-magic-curtain.json](./170464-night-of-full-moon-magic-curtain.json) |
 | Night of Full Moon: The Red Hood Diary | 170460 | [170460-night-of-full-moon-the-red-hood-diary.json](./170460-night-of-full-moon-the-red-hood-diary.json) |
 | Night of Horror | 247222 | [247222-night-of-horror.json](./247222-night-of-horror.json) |
