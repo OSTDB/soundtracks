@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manga de Tantei Mystery | 260692 | [260692-manga-de-tantei-mystery.json](./260692-manga-de-tantei-mystery.json) |
 | Manga English Native Phrase Quiz | 409544 | [409544-manga-english-native-phrase-quiz.json](./409544-manga-english-native-phrase-quiz.json) |
 | Manga Solitaire | 73844 | [73844-manga-solitaire.json](./73844-manga-solitaire.json) |
+| Manga-ka Debut Monogatari: Suteki na Manga wo Egakou | 222393 | [222393-manga-ka-debut-monogatari-suteki-na-manga-wo-egakou.json](./222393-manga-ka-debut-monogatari-suteki-na-manga-wo-egakou.json) |
 | Mangan Shisen-sho | 206357 | [206357-mangan-shisen-sho.json](./206357-mangan-shisen-sho.json) |
 | Mangata | 184048 | [184048-mangata.json](./184048-mangata.json) |
 | Mangchi | 39591 | [39591-mangchi.json](./39591-mangchi.json) |
@@ -2625,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Morph | 42556 | [42556-metal-morph.json](./42556-metal-morph.json) |
 | Metal Mutant | 10852 | [10852-metal-mutant.json](./10852-metal-mutant.json) |
 | Metal Mutation | 194077 | [194077-metal-mutation.json](./194077-metal-mutation.json) |
+| Metal Ninja | 222394 | [222394-metal-ninja.json](./222394-metal-ninja.json) |
 | Metal Pear | 302703 | [302703-metal-pear.json](./302703-metal-pear.json) |
 | Metal Queen Dungeon | 304601 | [304601-metal-queen-dungeon.json](./304601-metal-queen-dungeon.json) |
 | Metal Racer | 246966 | [246966-metal-racer.json](./246966-metal-racer.json) |
@@ -3720,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist of the Undead | 148484 | [148484-mist-of-the-undead.json](./148484-mist-of-the-undead.json) |
 | Mist Survival | 108349 | [108349-mist-survival.json](./108349-mist-survival.json) |
 | Mistake | 189188 | [189188-mistake.json](./189188-mistake.json) |
+| Mistake of Pythagoras | 222416 | [222416-mistake-of-pythagoras.json](./222416-mistake-of-pythagoras.json) |
 | Mistake Souls | 75193 | [75193-mistake-souls.json](./75193-mistake-souls.json) |
 | Mistaken | 335647 | [335647-mistaken.json](./335647-mistaken.json) |
 | Mistaker | 129713 | [129713-mistaker.json](./129713-mistaker.json) |
@@ -4878,6 +4881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motteke Tamago Ganbare Kamonohashi | 62206 | [62206-motteke-tamago-ganbare-kamonohashi.json](./62206-motteke-tamago-ganbare-kamonohashi.json) |
 | Mottia: The Gem Hunters | 215914 | [215914-mottia-the-gem-hunters.json](./215914-mottia-the-gem-hunters.json) |
 | Motto Immortal | 411564 | [411564-motto-immortal.json](./411564-motto-immortal.json) |
+| Motto Kigaru ni! Oekaki Koubou Plus | 222428 | [222428-motto-kigaru-ni-oekaki-koubou-plus.json](./222428-motto-kigaru-ni-oekaki-koubou-plus.json) |
 | Motto Me de Unou o Kitaeru: Sokudoku Jutsu 3 | 141146 | [141146-motto-me-de-unou-o-kitaeru-sokudoku-jutsu-3.json](./141146-motto-me-de-unou-o-kitaeru-sokudoku-jutsu-3.json) |
 | Motto Shiritai Karada no Hatena | 261370 | [261370-motto-shiritai-karada-no-hatena.json](./261370-motto-shiritai-karada-no-hatena.json) |
 | Motto Shiritai Kodai Egypt | 276471 | [276471-motto-shiritai-kodai-egypt.json](./276471-motto-shiritai-kodai-egypt.json) |
