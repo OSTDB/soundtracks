@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales to Enjoy! Puss In Boots | 85427 | [85427-tales-to-enjoy-puss-in-boots.json](./85427-tales-to-enjoy-puss-in-boots.json) |
 | Tales to Enjoy! The Ugly Duckling | 85426 | [85426-tales-to-enjoy-the-ugly-duckling.json](./85426-tales-to-enjoy-the-ugly-duckling.json) |
 | Tales to Enjoy! Three Little Pigs | 85425 | [85425-tales-to-enjoy-three-little-pigs.json](./85425-tales-to-enjoy-three-little-pigs.json) |
+| Talespinner | 190106 | [190106-talespinner.json](./190106-talespinner.json) |
 | TaleSpire: Guest Edition | 316393 | [316393-talespire-guest-edition.json](./316393-talespire-guest-edition.json) |
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Deussi | 167859 | [167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json](./167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json) |
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Dummy | 167858 | [167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json](./167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json) |
@@ -2412,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Pictures Anthology: Winterfold | 257077 | [257077-the-dark-pictures-anthology-winterfold.json](./257077-the-dark-pictures-anthology-winterfold.json) |
 | The Dark Portal | 271322 | [271322-the-dark-portal.json](./271322-the-dark-portal.json) |
 | The Dark Prince | 207389 | [207389-the-dark-prince.json](./207389-the-dark-prince.json) |
+| The Dark Prophecy | 190100 | [190100-the-dark-prophecy.json](./190100-the-dark-prophecy.json) |
 | The Dark Quarter | 367476 | [367476-the-dark-quarter.json](./367476-the-dark-quarter.json) |
 | The Dark Rites of Arkham | 338552 | [338552-the-dark-rites-of-arkham.json](./338552-the-dark-rites-of-arkham.json) |
 | The Dark Side of the Moon | 54465 | [54465-the-dark-side-of-the-moon.json](./54465-the-dark-side-of-the-moon.json) |
@@ -2820,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Exam | 318637 | [318637-the-final-exam.json](./318637-the-final-exam.json) |
 | The Final Exhibition | 245862 | [245862-the-final-exhibition.json](./245862-the-final-exhibition.json) |
 | The Final Heist | 184640 | [184640-the-final-heist.json](./184640-the-final-heist.json) |
+| The Final Hour | 190061 | [190061-the-final-hour.json](./190061-the-final-hour.json) |
 | The Final Hours of Mass Effect 3 | 202354 | [202354-the-final-hours-of-mass-effect-3.json](./202354-the-final-hours-of-mass-effect-3.json) |
 | The Final Print | 347777 | [347777-the-final-print.json](./347777-the-final-print.json) |
 | The Final Specimen: Arrival | 30037 | [30037-the-final-specimen-arrival.json](./30037-the-final-specimen-arrival.json) |
