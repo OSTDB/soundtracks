@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inoue Ryouko: Roommate | 362824 | [362824-inoue-ryouko-roommate.json](./362824-inoue-ryouko-roommate.json) |
 | Inoue Takehiko: Buzzer Beater - Kouhen | 209725 | [209725-inoue-takehiko-buzzer-beater-kouhen.json](./209725-inoue-takehiko-buzzer-beater-kouhen.json) |
 | Inoue Takehiko: Buzzer Beater - Zenpen | 209724 | [209724-inoue-takehiko-buzzer-beater-zenpen.json](./209724-inoue-takehiko-buzzer-beater-zenpen.json) |
+| Inout | 224622 | [224622-inout.json](./224622-inout.json) |
 | Inpulse | 253925 | [253925-inpulse.json](./253925-inpulse.json) |
 | Input | 391075 | [391075-input.json](./391075-input.json) |
 | Input Chaos | 215926 | [215926-input-chaos.json](./215926-input-chaos.json) |
@@ -1564,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ionscape | 240199 | [240199-ionscape.json](./240199-ionscape.json) |
 | Ioo | 267456 | [267456-ioo.json](./267456-ioo.json) |
 | Ioretin | 349848 | [349848-ioretin.json](./349848-ioretin.json) |
+| Iosis | 224634 | [224634-iosis.json](./224634-iosis.json) |
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
 | Ippan Zaidan Houjin: Nippon Kanji Shuujukudo Kentei Kikou Kounen - Kanjukuken DS | 269585 | [269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json](./269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json) |
 | IPS 13: All Signals Lost | 369012 | [369012-ips-13-all-signals-lost.json](./369012-ips-13-all-signals-lost.json) |
