@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Earth: Zero | 51192 | [51192-fantasy-earth-zero.json](./51192-fantasy-earth-zero.json) |
 | Fantasy ERA | 54463 | [54463-fantasy-era.json](./54463-fantasy-era.json) |
 | Fantasy Fighters: Historic Fighters | 209132 | [209132-fantasy-fighters-historic-fighters.json](./209132-fantasy-fighters-historic-fighters.json) |
+| Fantasy Fishing Town | 197225 | [197225-fantasy-fishing-town.json](./197225-fantasy-fishing-town.json) |
 | Fantasy Forest | 372473 | [372473-fantasy-forest.json](./372473-fantasy-forest.json) |
 | Fantasy Forest Solitaire | 386128 | [386128-fantasy-forest-solitaire.json](./386128-fantasy-forest-solitaire.json) |
 | Fantasy Games | 319578 | [319578-fantasy-games.json](./319578-fantasy-games.json) |
@@ -1470,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Soldier: Special Version | 42026 | [42026-final-soldier-special-version.json](./42026-final-soldier-special-version.json) |
 | Final Soul | 57634 | [57634-final-soul.json](./57634-final-soul.json) |
 | Final Splash | 386851 | [386851-final-splash.json](./386851-final-splash.json) |
+| Final Stardust: Cosmic Nexus | 197262 | [197262-final-stardust-cosmic-nexus.json](./197262-final-stardust-cosmic-nexus.json) |
 | Final Sword: Definitive Edition | 147999 | [147999-final-sword-definitive-edition.json](./147999-final-sword-definitive-edition.json) |
 | Final Sword: Mobile Edition | 205824 | [205824-final-sword-mobile-edition.json](./205824-final-sword-mobile-edition.json) |
 | Final Tank | 316405 | [316405-final-tank.json](./316405-final-tank.json) |
@@ -1517,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
 | Find the Gnome | 96682 | [96682-find-the-gnome.json](./96682-find-the-gnome.json) |
+| Find the Gnome 2 | 197270 | [197270-find-the-gnome-2.json](./197270-find-the-gnome-2.json) |
 | Find the light | 216473 | [216473-find-the-light.json](./216473-find-the-light.json) |
 | Find the Murderer 2 | 192454 | [192454-find-the-murderer-2.json](./192454-find-the-murderer-2.json) |
 | Find the Murderer 3 | 236364 | [236364-find-the-murderer-3.json](./236364-find-the-murderer-3.json) |
@@ -3163,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragment of CISCD | 244357 | [244357-fragment-of-ciscd.json](./244357-fragment-of-ciscd.json) |
 | Fragment of Humanity | 224246 | [224246-fragment-of-humanity.json](./224246-fragment-of-humanity.json) |
 | fragment:AM | 218146 | [218146-fragment-am.json](./218146-fragment-am.json) |
+| Fragment's Note 2 | 197251 | [197251-fragments-note-2.json](./197251-fragments-note-2.json) |
 | Fragmented | 21326 | [21326-fragmented.json](./21326-fragmented.json) |
 | Fragmented 6th | 348772 | [348772-fragmented-6th.json](./348772-fragmented-6th.json) |
 | Fragmented Almanac | 313285 | [313285-fragmented-almanac.json](./313285-fragmented-almanac.json) |
@@ -3431,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
 | Friquiz | 135812 | [135812-friquiz.json](./135812-friquiz.json) |
 | Frisbee Fumbling | 322553 | [322553-frisbee-fumbling.json](./322553-frisbee-fumbling.json) |
+| Frisson | 197226 | [197226-frisson.json](./197226-frisson.json) |
 | Frisson | 288793 | [288793-frisson.json](./288793-frisson.json) |
 | Fritz & Chesster: Chess for Aliens | 356723 | [356723-fritz-and-chesster-chess-for-aliens.json](./356723-fritz-and-chesster-chess-for-aliens.json) |
 | Fritz & Chesster's Chess for Winners | 84182 | [84182-fritz-and-chessters-chess-for-winners.json](./84182-fritz-and-chessters-chess-for-winners.json) |
