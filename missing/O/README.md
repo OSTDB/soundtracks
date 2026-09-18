@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
 | Onirica | 216347 | [216347-onirica.json](./216347-onirica.json) |
 | Onirim: Solitaire Card Game | 52282 | [52282-onirim-solitaire-card-game.json](./52282-onirim-solitaire-card-game.json) |
+| Onirogu | 181780 | [181780-onirogu.json](./181780-onirogu.json) |
 | Onironauta | 68601 | [68601-onironauta.json](./68601-onironauta.json) |
 | Onironauta Desert Dream | 398341 | [398341-onironauta-desert-dream.json](./398341-onironauta-desert-dream.json) |
 | Onironautilus The Other Side | 398350 | [398350-onironautilus-the-other-side.json](./398350-onironautilus-the-other-side.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Order Zero | 377068 | [377068-out-of-order-zero.json](./377068-out-of-order-zero.json) |
 | Out of Ore: Mine Decoration Supporter Pack | 284881 | [284881-out-of-ore-mine-decoration-supporter-pack.json](./284881-out-of-ore-mine-decoration-supporter-pack.json) |
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
+| Out of Reach | 181805 | [181805-out-of-reach.json](./181805-out-of-reach.json) |
 | Out of Shape | 311148 | [311148-out-of-shape.json](./311148-out-of-shape.json) |
 | Out of Shapes | 133382 | [133382-out-of-shapes.json](./133382-out-of-shapes.json) |
 | Out of Sight | 199126 | [199126-out-of-sight.json](./199126-out-of-sight.json) |
