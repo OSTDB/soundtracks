@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Karts | 88306 | [88306-king-of-karts.json](./88306-king-of-karts.json) |
 | King of Kingdoms | 224030 | [224030-king-of-kingdoms.json](./224030-king-of-kingdoms.json) |
 | King of Kings | 231927 | [231927-king-of-kings.json](./231927-king-of-kings.json) |
+| King of Kinks | 195121 | [195121-king-of-kinks.json](./195121-king-of-kinks.json) |
 | King of Meat | 314255 | [314255-king-of-meat.json](./314255-king-of-meat.json) |
 | King of Producer | 301435 | [301435-king-of-producer.json](./301435-king-of-producer.json) |
 | King of Pyramid Thieves | 300867 | [300867-king-of-pyramid-thieves.json](./300867-king-of-pyramid-thieves.json) |
