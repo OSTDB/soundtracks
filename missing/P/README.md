@@ -2760,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasuredromes Of Kubla Khan | 268738 | [268738-pleasuredromes-of-kubla-khan.json](./268738-pleasuredromes-of-kubla-khan.json) |
 | Plentiful | 341567 | [341567-plentiful.json](./341567-plentiful.json) |
 | Plenty of Fish in the Sea | 337492 | [337492-plenty-of-fish-in-the-sea.json](./337492-plenty-of-fish-in-the-sea.json) |
+| Plentypede | 192828 | [192828-plentypede.json](./192828-plentypede.json) |
 | Pleonexia | 246119 | [246119-pleonexia.json](./246119-pleonexia.json) |
 | Plerbtonia | 320174 | [320174-plerbtonia.json](./320174-plerbtonia.json) |
 | Plicplic | 261324 | [261324-plicplic.json](./261324-plicplic.json) |
