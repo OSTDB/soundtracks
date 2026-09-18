@@ -3188,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huge Breast Princess Knight Anne | 158212 | [158212-huge-breast-princess-knight-anne.json](./158212-huge-breast-princess-knight-anne.json) |
 | Huge Enemy - Worldbreakers | 107855 | [107855-huge-enemy-worldbreakers.json](./107855-huge-enemy-worldbreakers.json) |
 | Huge Insect | 64901 | [64901-huge-insect.json](./64901-huge-insect.json) |
+| Huge Jaws | 219665 | [219665-huge-jaws.json](./219665-huge-jaws.json) |
 | Huggy & Friends | 372483 | [372483-huggy-and-friends.json](./372483-huggy-and-friends.json) |
 | Huggy: Love and Rescue | 276861 | [276861-huggy-love-and-rescue.json](./276861-huggy-love-and-rescue.json) |
 | Huglings | 388756 | [388756-huglings.json](./388756-huglings.json) |
@@ -3352,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Story | 193968 | [193968-hunting-story.json](./193968-hunting-story.json) |
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
 | Hunting Yankee | 55159 | [55159-hunting-yankee.json](./55159-hunting-yankee.json) |
+| Huntscape | 219692 | [219692-huntscape.json](./219692-huntscape.json) |
 | Huntsman Against Darkness | 408937 | [408937-huntsman-against-darkness.json](./408937-huntsman-against-darkness.json) |
 | Hurdle Turtle 2 | 58264 | [58264-hurdle-turtle-2.json](./58264-hurdle-turtle-2.json) |
 | Hurdle Turtle Forever | 58262 | [58262-hurdle-turtle-forever.json](./58262-hurdle-turtle-forever.json) |
