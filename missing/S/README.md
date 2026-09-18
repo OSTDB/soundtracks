@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai's Odyssey | 372991 | [372991-samurais-odyssey.json](./372991-samurais-odyssey.json) |
 | Samurai's Path | 379884 | [379884-samurais-path.json](./379884-samurais-path.json) |
 | Samurai's Way | 295396 | [295396-samurais-way.json](./295396-samurais-way.json) |
+| Samurai's Zenith: Shifting of the Guard | 224664 | [224664-samurais-zenith-shifting-of-the-guard.json](./224664-samurais-zenith-shifting-of-the-guard.json) |
 | SamuraiRising | 170019 | [170019-samurairising.json](./170019-samurairising.json) |
 | Samurise | 330741 | [330741-samurise.json](./330741-samurise.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk | 226402 | [226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json](./226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json) |
@@ -1250,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SecondSpeed | 28782 | [28782-secondspeed.json](./28782-secondspeed.json) |
 | Secret Admirer | 129225 | [129225-secret-admirer.json](./129225-secret-admirer.json) |
 | Secret Agent | 264045 | [264045-secret-agent.json](./264045-secret-agent.json) |
+| Secret Agent 001 | 224621 | [224621-secret-agent-001.json](./224621-secret-agent-001.json) |
 | Secret Agent Files: Miami | 84858 | [84858-secret-agent-files-miami.json](./84858-secret-agent-files-miami.json) |
 | Secret Agent Puzzle | 331662 | [331662-secret-agent-puzzle.json](./331662-secret-agent-puzzle.json) |
 | Secret Agent Spy Game: Hotel Assassination Mission | 196334 | [196334-secret-agent-spy-game-hotel-assassination-mission.json](./196334-secret-agent-spy-game-hotel-assassination-mission.json) |
@@ -1515,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senity: The Game | 116329 | [116329-senity-the-game.json](./116329-senity-the-game.json) |
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
+| Senli 307 | 224618 | [224618-senli-307.json](./224618-senli-307.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
 | Senpai and the Mysterious Island | 325686 | [325686-senpai-and-the-mysterious-island.json](./325686-senpai-and-the-mysterious-island.json) |
 | Senpai ga Imouto no Saigo no Natsu | 406199 | [406199-senpai-ga-imouto-no-saigo-no-natsu.json](./406199-senpai-ga-imouto-no-saigo-no-natsu.json) |
@@ -3280,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sizif | 257433 | [257433-sizif.json](./257433-sizif.json) |
 | Sk8 | 75918 | [75918-sk8.json](./75918-sk8.json) |
 | Skade | 258975 | [258975-skade.json](./258975-skade.json) |
+| Skader | 224626 | [224626-skader.json](./224626-skader.json) |
 | Skald: Against the Black Priory | 125250 | [125250-skald-against-the-black-priory.json](./125250-skald-against-the-black-priory.json) |
 | Skald: Against the Black Priory - Reinforcement Pack | 311994 | [311994-skald-against-the-black-priory-reinforcement-pack.json](./311994-skald-against-the-black-priory-reinforcement-pack.json) |
 | Skaphander: Der Auftrag | 98972 | [98972-skaphander-der-auftrag.json](./98972-skaphander-der-auftrag.json) |
@@ -3934,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Ball | 169461 | [169461-small-ball.json](./169461-small-ball.json) |
 | Small Bird Forest | 417498 | [417498-small-bird-forest.json](./417498-small-bird-forest.json) |
 | Small Buttons | 96768 | [96768-small-buttons.json](./96768-small-buttons.json) |
+| Small Cell | 224657 | [224657-small-cell.json](./224657-small-cell.json) |
 | Small Kingdoms | 262959 | [262959-small-kingdoms.json](./262959-small-kingdoms.json) |
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
@@ -4762,6 +4767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Conquest: Roots | 366851 | [366851-songs-of-conquest-roots.json](./366851-songs-of-conquest-roots.json) |
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
+| Songs of the Chalice | 224668 | [224668-songs-of-the-chalice.json](./224668-songs-of-the-chalice.json) |
 | Sonic & Bean in Eggland | 322592 | [322592-sonic-and-bean-in-eggland.json](./322592-sonic-and-bean-in-eggland.json) |
 | Sonic & Blaze | 266506 | [266506-sonic-and-blaze.json](./266506-sonic-and-blaze.json) |
 | Sonic & Knuckles | 239072 | [239072-sonic-and-knuckles.json](./239072-sonic-and-knuckles.json) |
@@ -5950,6 +5956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedJumper | 334787 | [334787-speedjumper.json](./334787-speedjumper.json) |
 | Speedmapping Pack 189: Doom / Satanic Mechanisms | 312912 | [312912-speedmapping-pack-189-doom-satanic-mechanisms.json](./312912-speedmapping-pack-189-doom-satanic-mechanisms.json) |
 | Speedollama | 263766 | [263766-speedollama.json](./263766-speedollama.json) |
+| Speedonauts | 224661 | [224661-speedonauts.json](./224661-speedonauts.json) |
 | Speedpunk | 151147 | [151147-speedpunk.json](./151147-speedpunk.json) |
 | SpeedRage | 72041 | [72041-speedrage.json](./72041-speedrage.json) |
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
@@ -6097,7 +6104,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man | 4500 | [4500-spider-man.json](./4500-spider-man.json) |
 | Spider-Man / X-Men: Arcade's Redux | 219274 | [219274-spider-man-x-men-arcades-redux.json](./219274-spider-man-x-men-arcades-redux.json) |
 | Spider-Man 2 | 200980 | [200980-spider-man-2.json](./200980-spider-man-2.json) |
+| Spider-Man 2 Pinball | 224659 | [224659-spider-man-2-pinball.json](./224659-spider-man-2-pinball.json) |
 | Spider-Man 2: The Sinister Six | 49971 | [49971-spider-man-2-the-sinister-six.json](./49971-spider-man-2-the-sinister-six.json) |
+| Spider-Man 2: The Snap Game | 224660 | [224660-spider-man-2-the-snap-game.json](./224660-spider-man-2-the-snap-game.json) |
 | Spider-Man 3 | 218140 | [218140-spider-man-3.json](./218140-spider-man-3.json) |
 | Spider-Man 3 | 220112 | [220112-spider-man-3.json](./220112-spider-man-3.json) |
 | Spider-Man 3 | 247535 | [247535-spider-man-3.json](./247535-spider-man-3.json) |
@@ -7248,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Hour | 415918 | [415918-static-hour.json](./415918-static-hour.json) |
 | Static Signal | 375824 | [375824-static-signal.json](./375824-static-signal.json) |
 | Static-End | 178028 | [178028-static-end.json](./178028-static-end.json) |
+| Station 117 | 224644 | [224644-station-117.json](./224644-station-117.json) |
 | Station 17 | 165629 | [165629-station-17.json](./165629-station-17.json) |
 | Station 21 - Space Station Simulator | 28883 | [28883-station-21-space-station-simulator.json](./28883-station-21-space-station-simulator.json) |
 | Station 228 | 75786 | [75786-station-228.json](./75786-station-228.json) |
@@ -9660,6 +9670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Swarm | 348784 | [348784-survive-the-swarm.json](./348784-survive-the-swarm.json) |
 | Survive the Troll | 219571 | [219571-survive-the-troll.json](./219571-survive-the-troll.json) |
 | Survive The Unknown | 246623 | [246623-survive-the-unknown.json](./246623-survive-the-unknown.json) |
+| Survive the Uprising | 224669 | [224669-survive-the-uprising.json](./224669-survive-the-uprising.json) |
 | Survive Till 100 Years Old | 339117 | [339117-survive-till-100-years-old.json](./339117-survive-till-100-years-old.json) |
 | Survive: Battle Royale | 135817 | [135817-survive-battle-royale.json](./135817-survive-battle-royale.json) |
 | Survive: Forgotten and Abandoned | 270185 | [270185-survive-forgotten-and-abandoned.json](./270185-survive-forgotten-and-abandoned.json) |
