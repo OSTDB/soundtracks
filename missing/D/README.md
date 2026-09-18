@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darfall | 217030 | [217030-darfall.json](./217030-darfall.json) |
 | Daria: A Kingdom Simulator | 275101 | [275101-daria-a-kingdom-simulator.json](./275101-daria-a-kingdom-simulator.json) |
 | Darius Cozmic Collection Arcade | 147940 | [147940-darius-cozmic-collection-arcade.json](./147940-darius-cozmic-collection-arcade.json) |
+| Darius Cozmic Collection: Consumer Edition | 218594 | [218594-darius-cozmic-collection-consumer-edition.json](./218594-darius-cozmic-collection-consumer-edition.json) |
 | Darius Cozmic Revelation | 139992 | [139992-darius-cozmic-revelation.json](./139992-darius-cozmic-revelation.json) |
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
 | Dariusburst | 18193 | [18193-dariusburst.json](./18193-dariusburst.json) |
@@ -1158,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Cargo | 55130 | [55130-death-cargo.json](./55130-death-cargo.json) |
 | Death Climbing | 332981 | [332981-death-climbing.json](./332981-death-climbing.json) |
 | Death Comes Skiing | 362888 | [362888-death-comes-skiing.json](./362888-death-comes-skiing.json) |
+| Death Corp | 218583 | [218583-death-corp.json](./218583-death-corp.json) |
 | Death Corridor | 230862 | [230862-death-corridor.json](./230862-death-corridor.json) |
 | Death Crimson 2: Meranito no Saidan | 60497 | [60497-death-crimson-2-meranito-no-saidan.json](./60497-death-crimson-2-meranito-no-saidan.json) |
 | Death Crown | 90270 | [90270-death-crown.json](./90270-death-crown.json) |
@@ -4039,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Roller Coaster VR | 114331 | [114331-dragon-roller-coaster-vr.json](./114331-dragon-roller-coaster-vr.json) |
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
 | Dragon Ruins II: Aftermath | 356739 | [356739-dragon-ruins-ii-aftermath.json](./356739-dragon-ruins-ii-aftermath.json) |
+| Dragon Run Classic | 218553 | [218553-dragon-run-classic.json](./218553-dragon-run-classic.json) |
 | Dragon Side II: The Twisted Speare | 122988 | [122988-dragon-side-ii-the-twisted-speare.json](./122988-dragon-side-ii-the-twisted-speare.json) |
 | Dragon Simulator Multiplayer | 111350 | [111350-dragon-simulator-multiplayer.json](./111350-dragon-simulator-multiplayer.json) |
 | Dragon Sisters | 43265 | [43265-dragon-sisters.json](./43265-dragon-sisters.json) |
