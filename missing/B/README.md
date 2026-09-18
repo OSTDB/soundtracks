@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Brother: The Game | 66035 | [66035-big-brother-the-game.json](./66035-big-brother-the-game.json) |
 | Big Buck Deer Hunting | 101469 | [101469-big-buck-deer-hunting.json](./101469-big-buck-deer-hunting.json) |
 | Big Buck Hunter Arcade | 33191 | [33191-big-buck-hunter-arcade.json](./33191-big-buck-hunter-arcade.json) |
+| Big Buck Hunter Arcade: Elk Adventure Pack | 226810 | [226810-big-buck-hunter-arcade-elk-adventure-pack.json](./226810-big-buck-hunter-arcade-elk-adventure-pack.json) |
 | Big Buck Hunter Pro Adventure | 328254 | [328254-big-buck-hunter-pro-adventure.json](./328254-big-buck-hunter-pro-adventure.json) |
 | Big Bucks: Trivia Quest | 312355 | [312355-big-bucks-trivia-quest.json](./312355-big-bucks-trivia-quest.json) |
 | Big Bug Bang: Le Retour de Commander Blood | 98921 | [98921-big-bug-bang-le-retour-de-commander-blood.json](./98921-big-bug-bang-le-retour-de-commander-blood.json) |
