@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Makeover Salon | 87923 | [87923-party-makeover-salon.json](./87923-party-makeover-salon.json) |
 | Party Management | 360067 | [360067-party-management.json](./360067-party-management.json) |
 | Party Mashup | 137613 | [137613-party-mashup.json](./137613-party-mashup.json) |
+| Party Paradise | 186749 | [186749-party-paradise.json](./186749-party-paradise.json) |
 | Party Party Time | 231043 | [231043-party-party-time.json](./231043-party-party-time.json) |
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
 | Party Party Time + Party Harder Pack | 232993 | [232993-party-party-time-party-harder-pack.json](./232993-party-party-time-party-harder-pack.json) |
@@ -1096,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
 | Pecker | 244272 | [244272-pecker.json](./244272-pecker.json) |
 | Pecky Clicker | 391192 | [391192-pecky-clicker.json](./391192-pecky-clicker.json) |
+| Peculiar Fables: The Werebed | 186731 | [186731-peculiar-fables-the-werebed.json](./186731-peculiar-fables-the-werebed.json) |
 | Pedal Rebel VR | 280750 | [280750-pedal-rebel-vr.json](./280750-pedal-rebel-vr.json) |
 | Pedal to the Metal | 214485 | [214485-pedal-to-the-metal.json](./214485-pedal-to-the-metal.json) |
 | Pedal Up! | 244809 | [244809-pedal-up.json](./244809-pedal-up.json) |
@@ -2932,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Gakushuu: 10-masu Keisan | 327621 | [327621-point-gakushuu-10-masu-keisan.json](./327621-point-gakushuu-10-masu-keisan.json) |
 | Point Gakushuu: Kakijun | 327620 | [327620-point-gakushuu-kakijun.json](./327620-point-gakushuu-kakijun.json) |
 | Point Gakushuu: Tokei | 327619 | [327619-point-gakushuu-tokei.json](./327619-point-gakushuu-tokei.json) |
+| Point of Light | 186752 | [186752-point-of-light.json](./186752-point-of-light.json) |
 | Point of No Return | 86815 | [86815-point-of-no-return.json](./86815-point-of-no-return.json) |
 | Point of View | 140512 | [140512-point-of-view.json](./140512-point-of-view.json) |
 | Point'n'Click Lovers: Daedalic Adventure Bundle | 283723 | [283723-pointnclick-lovers-daedalic-adventure-bundle.json](./283723-pointnclick-lovers-daedalic-adventure-bundle.json) |
