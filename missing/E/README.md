@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | E Nikki | 201836 | [201836-e-nikki.json](./201836-e-nikki.json) |
+| E-circle | 203943 | [203943-e-circle.json](./203943-e-circle.json) |
 | E-commerce Simulator | 303507 | [303507-e-commerce-simulator.json](./303507-e-commerce-simulator.json) |
 | E-Elementals | 208436 | [208436-e-elementals.json](./208436-e-elementals.json) |
 | E-Motion | 13639 | [13639-e-motion.json](./13639-e-motion.json) |
@@ -230,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo: Defy Death | 303500 | [303500-echo-defy-death.json](./303500-echo-defy-death.json) |
 | Echo: Digital Deluxe Edition | 212910 | [212910-echo-digital-deluxe-edition.json](./212910-echo-digital-deluxe-edition.json) |
 | Echo: The Oracle's Scroll | 319196 | [319196-echo-the-oracles-scroll.json](./319196-echo-the-oracles-scroll.json) |
+| Echo's Climb | 203942 | [203942-echos-climb.json](./203942-echos-climb.json) |
 | EchoBlade | 166752 | [166752-echoblade.json](./166752-echoblade.json) |
 | EchoChamber: Not Welcome | 390689 | [390689-echochamber-not-welcome.json](./390689-echochamber-not-welcome.json) |
 | Echochrome | 263007 | [263007-echochrome.json](./263007-echochrome.json) |
@@ -327,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edelweiss Knights | 386867 | [386867-edelweiss-knights.json](./386867-edelweiss-knights.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
 | Eden Genesis | 280561 | [280561-eden-genesis.json](./280561-eden-genesis.json) |
+| Eden Remains: Arrival | 203944 | [203944-eden-remains-arrival.json](./203944-eden-remains-arrival.json) |
 | Eden Star | 14377 | [14377-eden-star.json](./14377-eden-star.json) |
 | Eden Tactics | 325448 | [325448-eden-tactics.json](./325448-eden-tactics.json) |
 | Eden Warrior | 303506 | [303506-eden-warrior.json](./303506-eden-warrior.json) |
@@ -757,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Rivers VI: Guardians of Hope - Collector's Edition | 358406 | [358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json](./358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json) |
 | Elven Rivers: The Forgotten Lands - Collector's Edition | 239643 | [239643-elven-rivers-the-forgotten-lands-collectors-edition.json](./239643-elven-rivers-the-forgotten-lands-collectors-edition.json) |
 | Elven Warrior | 13634 | [13634-elven-warrior.json](./13634-elven-warrior.json) |
+| ElvenEscape | 203945 | [203945-elvenescape.json](./203945-elvenescape.json) |
 | Elves | 295940 | [295940-elves.json](./295940-elves.json) |
 | Elves Jigsaw Puzzle Collection | 229041 | [229041-elves-jigsaw-puzzle-collection.json](./229041-elves-jigsaw-puzzle-collection.json) |
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
@@ -1175,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entanglement | 212913 | [212913-entanglement.json](./212913-entanglement.json) |
 | Enter the Backrooms | 157710 | [157710-enter-the-backrooms.json](./157710-enter-the-backrooms.json) |
 | Enter the Construct | 117016 | [117016-enter-the-construct.json](./117016-enter-the-construct.json) |
+| Enter the Cum | 203946 | [203946-enter-the-cum.json](./203946-enter-the-cum.json) |
 | Enter the Nemesis: Blood Portal | 346574 | [346574-enter-the-nemesis-blood-portal.json](./346574-enter-the-nemesis-blood-portal.json) |
 | Enter the Skinja | 183082 | [183082-enter-the-skinja.json](./183082-enter-the-skinja.json) |
 | Enter the Void to the Holy Mountain | 306970 | [306970-enter-the-void-to-the-holy-mountain.json](./306970-enter-the-void-to-the-holy-mountain.json) |
