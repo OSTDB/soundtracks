@@ -974,8 +974,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paycheck: City RPG | 130383 | [130383-paycheck-city-rpg.json](./130383-paycheck-city-rpg.json) |
 | Payday 2: Espionage Weapon Pack | 400334 | [400334-payday-2-espionage-weapon-pack.json](./400334-payday-2-espionage-weapon-pack.json) |
 | Payday 2: Gage Russian Weapon Pack | 156182 | [156182-payday-2-gage-russian-weapon-pack.json](./156182-payday-2-gage-russian-weapon-pack.json) |
+| Payday 2: Gage Sniper Pack | 225160 | [225160-payday-2-gage-sniper-pack.json](./225160-payday-2-gage-sniper-pack.json) |
+| Payday 2: Gage Spec Ops Pack | 225161 | [225161-payday-2-gage-spec-ops-pack.json](./225161-payday-2-gage-spec-ops-pack.json) |
+| Payday 2: Gage Weapon Pack #01 | 225162 | [225162-payday-2-gage-weapon-pack-01.json](./225162-payday-2-gage-weapon-pack-01.json) |
+| Payday 2: Gage Weapon Pack #02 | 225163 | [225163-payday-2-gage-weapon-pack-02.json](./225163-payday-2-gage-weapon-pack-02.json) |
+| Payday 2: Golden Dagger Tailor Pack | 225165 | [225165-payday-2-golden-dagger-tailor-pack.json](./225165-payday-2-golden-dagger-tailor-pack.json) |
+| Payday 2: Guardians Tailor Pack | 225166 | [225166-payday-2-guardians-tailor-pack.json](./225166-payday-2-guardians-tailor-pack.json) |
+| Payday 2: High Octane Tailor Pack | 225167 | [225167-payday-2-high-octane-tailor-pack.json](./225167-payday-2-high-octane-tailor-pack.json) |
+| Payday 2: McShay Weapon Pack | 225170 | [225170-payday-2-mcshay-weapon-pack.json](./225170-payday-2-mcshay-weapon-pack.json) |
+| Payday 2: Mega City Tailor Pack | 225171 | [225171-payday-2-mega-city-tailor-pack.json](./225171-payday-2-mega-city-tailor-pack.json) |
+| Payday 2: Sokol Character Pack | 225172 | [225172-payday-2-sokol-character-pack.json](./225172-payday-2-sokol-character-pack.json) |
+| Payday 2: Southbound Tailor Pack | 225174 | [225174-payday-2-southbound-tailor-pack.json](./225174-payday-2-southbound-tailor-pack.json) |
+| Payday 2: Sydney Character Pack | 225173 | [225173-payday-2-sydney-character-pack.json](./225173-payday-2-sydney-character-pack.json) |
 | Payday 2: The Biker Heist | 19613 | [19613-payday-2-the-biker-heist.json](./19613-payday-2-the-biker-heist.json) |
+| Payday 2: The Butcher's Western Pack | 225175 | [225175-payday-2-the-butchers-western-pack.json](./225175-payday-2-the-butchers-western-pack.json) |
+| Payday 2: The Overkill Pack | 225176 | [225176-payday-2-the-overkill-pack.json](./225176-payday-2-the-overkill-pack.json) |
 | Payday 2: Ultimate Edition | 37149 | [37149-payday-2-ultimate-edition.json](./37149-payday-2-ultimate-edition.json) |
+| Payday 2: Wolf Pack | 225169 | [225169-payday-2-wolf-pack.json](./225169-payday-2-wolf-pack.json) |
+| Payday 2: Yakuza Character Pack | 225168 | [225168-payday-2-yakuza-character-pack.json](./225168-payday-2-yakuza-character-pack.json) |
 | Payday 3: Boys in Blue Heist | 312011 | [312011-payday-3-boys-in-blue-heist.json](./312011-payday-3-boys-in-blue-heist.json) |
 | Payday 3: Boys in Blue Tailor Pack | 312016 | [312016-payday-3-boys-in-blue-tailor-pack.json](./312016-payday-3-boys-in-blue-tailor-pack.json) |
 | Payday 3: Boys in Blue Weapon Pack | 312009 | [312009-payday-3-boys-in-blue-weapon-pack.json](./312009-payday-3-boys-in-blue-weapon-pack.json) |
