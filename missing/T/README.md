@@ -5342,11 +5342,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Typing of the Dead: Overkill - Shakespeare DLC | 53869 | [53869-the-typing-of-the-dead-overkill-shakespeare-dlc.json](./53869-the-typing-of-the-dead-overkill-shakespeare-dlc.json) |
 | The Typing of the Dead: Overkill - Silver Screen DLC | 53868 | [53868-the-typing-of-the-dead-overkill-silver-screen-dlc.json](./53868-the-typing-of-the-dead-overkill-silver-screen-dlc.json) |
 | The Typing of The Dead: Overkill Collection | 53787 | [53787-the-typing-of-the-dead-overkill-collection.json](./53787-the-typing-of-the-dead-overkill-collection.json) |
+| The Ugly Duckling | 206777 | [206777-the-ugly-duckling.json](./206777-the-ugly-duckling.json) |
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
 | The Ultimate Arena | 77357 | [77357-the-ultimate-arena.json](./77357-the-ultimate-arena.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
 | The Ultimate Haunted House | 12140 | [12140-the-ultimate-haunted-house.json](./12140-the-ultimate-haunted-house.json) |
 | The Ultimate Hunter Falls Prey to a Monster Girl Level Draining Reverse R*P*G | 82811 | [82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json](./82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json) |
+| The Ultimate Might and Magic Archives | 206778 | [206778-the-ultimate-might-and-magic-archives.json](./206778-the-ultimate-might-and-magic-archives.json) |
 | The ultimate secret of the universe: Soul | 169922 | [169922-the-ultimate-secret-of-the-universe-soul.json](./169922-the-ultimate-secret-of-the-universe-soul.json) |
 | The Ultimate Showdown | 34428 | [34428-the-ultimate-showdown.json](./34428-the-ultimate-showdown.json) |
 | The Ultimate Trivia CD | 72056 | [72056-the-ultimate-trivia-cd.json](./72056-the-ultimate-trivia-cd.json) |
@@ -5675,12 +5677,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild | 26381 | [26381-thehunter-call-of-the-wild.json](./26381-thehunter-call-of-the-wild.json) |
 | TheHunter: Call of the Wild - Ambusher Pack | 272290 | [272290-thehunter-call-of-the-wild-ambusher-pack.json](./272290-thehunter-call-of-the-wild-ambusher-pack.json) |
 | TheHunter: Call of the Wild - ATV Saber 4X4 | 53794 | [53794-thehunter-call-of-the-wild-atv-saber-4x4.json](./53794-thehunter-call-of-the-wild-atv-saber-4x4.json) |
+| TheHunter: Call of the Wild - Backpacks | 206820 | [206820-thehunter-call-of-the-wild-backpacks.json](./206820-thehunter-call-of-the-wild-backpacks.json) |
+| TheHunter: Call of the Wild - Bearclaw Lite Compound Bow | 206823 | [206823-thehunter-call-of-the-wild-bearclaw-lite-compound-bow.json](./206823-thehunter-call-of-the-wild-bearclaw-lite-compound-bow.json) |
+| TheHunter: Call of the Wild - Bloodhound | 206795 | [206795-thehunter-call-of-the-wild-bloodhound.json](./206795-thehunter-call-of-the-wild-bloodhound.json) |
+| TheHunter: Call of the Wild - Duck and Cover Pack | 206814 | [206814-thehunter-call-of-the-wild-duck-and-cover-pack.json](./206814-thehunter-call-of-the-wild-duck-and-cover-pack.json) |
+| TheHunter: Call of the Wild - Facing the Wild 1 | 206822 | [206822-thehunter-call-of-the-wild-facing-the-wild-1.json](./206822-thehunter-call-of-the-wild-facing-the-wild-1.json) |
+| TheHunter: Call of the Wild - Free Species: European Rabbit | 206796 | [206796-thehunter-call-of-the-wild-free-species-european-rabbit.json](./206796-thehunter-call-of-the-wild-free-species-european-rabbit.json) |
+| TheHunter: Call of the Wild - High-Tech Hunting Pack | 206799 | [206799-thehunter-call-of-the-wild-high-tech-hunting-pack.json](./206799-thehunter-call-of-the-wild-high-tech-hunting-pack.json) |
+| TheHunter: Call of the Wild - Modern Rifle Pack | 206793 | [206793-thehunter-call-of-the-wild-modern-rifle-pack.json](./206793-thehunter-call-of-the-wild-modern-rifle-pack.json) |
 | TheHunter: Call of the Wild - New England Mountains | 227336 | [227336-thehunter-call-of-the-wild-new-england-mountains.json](./227336-thehunter-call-of-the-wild-new-england-mountains.json) |
+| TheHunter: Call of the Wild - New Species 2018 | 206824 | [206824-thehunter-call-of-the-wild-new-species-2018.json](./206824-thehunter-call-of-the-wild-new-species-2018.json) |
+| TheHunter: Call of the Wild - New Species 2019 | 206825 | [206825-thehunter-call-of-the-wild-new-species-2019.json](./206825-thehunter-call-of-the-wild-new-species-2019.json) |
 | TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1 | 271466 | [271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json](./271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json) |
+| TheHunter: Call of the Wild - Saseka Safari Trophy Lodge | 206798 | [206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json](./206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json) |
+| TheHunter: Call of the Wild - Shooting Range | 206821 | [206821-thehunter-call-of-the-wild-shooting-range.json](./206821-thehunter-call-of-the-wild-shooting-range.json) |
+| TheHunter: Call of the Wild - Smoking Barrels Weapon Pack | 206797 | [206797-thehunter-call-of-the-wild-smoking-barrels-weapon-pack.json](./206797-thehunter-call-of-the-wild-smoking-barrels-weapon-pack.json) |
 | TheHunter: Call of the Wild - Sundarpatan Cosmetic Pack | 318441 | [318441-thehunter-call-of-the-wild-sundarpatan-cosmetic-pack.json](./318441-thehunter-call-of-the-wild-sundarpatan-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Sundarpatan Nepal Hunting Reserve | 305517 | [305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json](./305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json) |
 | TheHunter: Call of the Wild - Tents & Ground Blinds | 53793 | [53793-thehunter-call-of-the-wild-tents-and-ground-blinds.json](./53793-thehunter-call-of-the-wild-tents-and-ground-blinds.json) |
 | TheHunter: Call of the Wild - Traveler's Cosmetic Bundle | 280231 | [280231-thehunter-call-of-the-wild-travelers-cosmetic-bundle.json](./280231-thehunter-call-of-the-wild-travelers-cosmetic-bundle.json) |
+| TheHunter: Call of the Wild - Treestand & Tripod Pack | 206801 | [206801-thehunter-call-of-the-wild-treestand-and-tripod-pack.json](./206801-thehunter-call-of-the-wild-treestand-and-tripod-pack.json) |
+| TheHunter: Call of the Wild - Trophy Lodge Spring Creek Manor | 206803 | [206803-thehunter-call-of-the-wild-trophy-lodge-spring-creek-manor.json](./206803-thehunter-call-of-the-wild-trophy-lodge-spring-creek-manor.json) |
+| TheHunter: Call of the Wild - TruRACS | 206802 | [206802-thehunter-call-of-the-wild-truracs.json](./206802-thehunter-call-of-the-wild-truracs.json) |
+| TheHunter: Call of the Wild - Weapon Pack 1 | 206819 | [206819-thehunter-call-of-the-wild-weapon-pack-1.json](./206819-thehunter-call-of-the-wild-weapon-pack-1.json) |
+| TheHunter: Call of the Wild - Weapon Pack 2 | 206804 | [206804-thehunter-call-of-the-wild-weapon-pack-2.json](./206804-thehunter-call-of-the-wild-weapon-pack-2.json) |
+| TheHunter: Call of the Wild - Weapon Pack 3 | 206800 | [206800-thehunter-call-of-the-wild-weapon-pack-3.json](./206800-thehunter-call-of-the-wild-weapon-pack-3.json) |
+| TheHunter: Call of the Wild - Wild Goose Chase Gear | 206816 | [206816-thehunter-call-of-the-wild-wild-goose-chase-gear.json](./206816-thehunter-call-of-the-wild-wild-goose-chase-gear.json) |
 | Their Majesties' Pleasure | 250993 | [250993-their-majesties-pleasure.json](./250993-their-majesties-pleasure.json) |
 | TheLast.io | 125984 | [125984-thelast-io.json](./125984-thelast-io.json) |
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
@@ -6015,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThunderDome | 132170 | [132170-thunderdome.json](./132170-thunderdome.json) |
 | Thunderflash | 127230 | [127230-thunderflash.json](./127230-thunderflash.json) |
 | ThunderGod | 118985 | [118985-thundergod.json](./118985-thundergod.json) |
+| ThunderGun: The Cybwar Mission | 206786 | [206786-thundergun-the-cybwar-mission.json](./206786-thundergun-the-cybwar-mission.json) |
 | Thunderhawk | 12913 | [12913-thunderhawk.json](./12913-thunderhawk.json) |
 | Thunderhawk: Danger Close | 387365 | [387365-thunderhawk-danger-close.json](./387365-thunderhawk-danger-close.json) |
 | Thunderpeak | 256854 | [256854-thunderpeak.json](./256854-thunderpeak.json) |
@@ -6057,6 +6080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Tac Toe World Championship HD | 87291 | [87291-tic-tac-toe-world-championship-hd.json](./87291-tic-tac-toe-world-championship-hd.json) |
 | Tic Tac Toe: Speed Tapping | 264063 | [264063-tic-tac-toe-speed-tapping.json](./264063-tic-tac-toe-speed-tapping.json) |
 | Tic Toc Shoc for Playdate | 276727 | [276727-tic-toc-shoc-for-playdate.json](./276727-tic-toc-shoc-for-playdate.json) |
+| Tic-a-Tac Royale | 206787 | [206787-tic-a-tac-royale.json](./206787-tic-a-tac-royale.json) |
 | Tic-Tac-Matrix | 180748 | [180748-tic-tac-matrix.json](./180748-tic-tac-matrix.json) |
 | Tic-Tac-Tanks | 195214 | [195214-tic-tac-tanks.json](./195214-tic-tac-tanks.json) |
 | Tic-Tac-Toast | 233078 | [233078-tic-tac-toast.json](./233078-tic-tac-toast.json) |
@@ -6097,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tides of the Endless | 345037 | [345037-tides-of-the-endless.json](./345037-tides-of-the-endless.json) |
 | Tides of Tomorrow | 305036 | [305036-tides-of-tomorrow.json](./305036-tides-of-tomorrow.json) |
 | Tides of Tomorrow: Delta Agent Pack | 399091 | [399091-tides-of-tomorrow-delta-agent-pack.json](./399091-tides-of-tomorrow-delta-agent-pack.json) |
+| Tides of War | 206790 | [206790-tides-of-war.json](./206790-tides-of-war.json) |
 | Tidewatch | 412273 | [412273-tidewatch.json](./412273-tidewatch.json) |
 | Tidewrack | 413673 | [413673-tidewrack.json](./413673-tidewrack.json) |
 | Tidy Backpack | 309874 | [309874-tidy-backpack.json](./309874-tidy-backpack.json) |
@@ -6113,6 +6138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiffany Alvord Dream World | 233079 | [233079-tiffany-alvord-dream-world.json](./233079-tiffany-alvord-dream-world.json) |
 | Tiger & Bunny: Hero's Day | 63842 | [63842-tiger-and-bunny-heros-day.json](./63842-tiger-and-bunny-heros-day.json) |
 | Tiger Casino & Slot Game | 373625 | [373625-tiger-casino-and-slot-game.json](./373625-tiger-casino-and-slot-game.json) |
+| Tiger Eye Part I: Curse of the Riddle Box | 206789 | [206789-tiger-eye-part-i-curse-of-the-riddle-box.json](./206789-tiger-eye-part-i-curse-of-the-riddle-box.json) |
 | Tiger Fighter 1931: MP061 | 173757 | [173757-tiger-fighter-1931-mp061.json](./173757-tiger-fighter-1931-mp061.json) |
 | Tiger Fighter 1931: MP062 | 173742 | [173742-tiger-fighter-1931-mp062.json](./173742-tiger-fighter-1931-mp062.json) |
 | Tiger Fighter 1931: MP065 | 173746 | [173746-tiger-fighter-1931-mp065.json](./173746-tiger-fighter-1931-mp065.json) |
@@ -6486,6 +6512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 13 | 5226 | [5226-tiger-woods-pga-tour-13.json](./5226-tiger-woods-pga-tour-13.json) |
 | Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
+| Tiger Woods PGA Tour Golf | 206788 | [206788-tiger-woods-pga-tour-golf.json](./206788-tiger-woods-pga-tour-golf.json) |
 | Tigger's Family Tree 3D Adventure | 209036 | [209036-tiggers-family-tree-3d-adventure.json](./209036-tiggers-family-tree-3d-adventure.json) |
 | Tight Man | 393457 | [393457-tight-man.json](./393457-tight-man.json) |
 | Tightrope | 388706 | [388706-tightrope.json](./388706-tightrope.json) |
@@ -6834,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titus the Fox | 65798 | [65798-titus-the-fox.json](./65798-titus-the-fox.json) |
 | Tivits: Math Game | 108967 | [108967-tivits-math-game.json](./108967-tivits-math-game.json) |
 | Tizi Town: Airport Adventure | 227481 | [227481-tizi-town-airport-adventure.json](./227481-tizi-town-airport-adventure.json) |
+| TJ's Reel Extreme CD Room | 206780 | [206780-tjs-reel-extreme-cd-room.json](./206780-tjs-reel-extreme-cd-room.json) |
 | Tkium Exclusion Area | 186335 | [186335-tkium-exclusion-area.json](./186335-tkium-exclusion-area.json) |
 | Tkium Underground | 225181 | [225181-tkium-underground.json](./225181-tkium-underground.json) |
 | TKKG: Deadly Chocolate | 200658 | [200658-tkkg-deadly-chocolate.json](./200658-tkkg-deadly-chocolate.json) |
@@ -7147,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
 | Tom Landry Strategy Football: Deluxe Edition | 400255 | [400255-tom-landry-strategy-football-deluxe-edition.json](./400255-tom-landry-strategy-football-deluxe-edition.json) |
 | Tom Steal the Meal | 228100 | [228100-tom-steal-the-meal.json](./228100-tom-steal-the-meal.json) |
+| Tom Thumb | 206766 | [206766-tom-thumb.json](./206766-tom-thumb.json) |
 | Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
 | Tomarc the Barbarian | 23840 | [23840-tomarc-the-barbarian.json](./23840-tomarc-the-barbarian.json) |
 | Tomato Jones | 32370 | [32370-tomato-jones.json](./32370-tomato-jones.json) |
@@ -9014,6 +9043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuppari Oozumou: Risshin Shusse-hen | 37780 | [37780-tsuppari-oozumou-risshin-shusse-hen.json](./37780-tsuppari-oozumou-risshin-shusse-hen.json) |
 | Tsurezure Nikki | 163362 | [163362-tsurezure-nikki.json](./163362-tsurezure-nikki.json) |
 | Tsuri Sensei 2 | 282706 | [282706-tsuri-sensei-2.json](./282706-tsuri-sensei-2.json) |
+| Tsuri Spirits: Tsutte Asoberu Suizokukan | 206813 | [206813-tsuri-spirits-tsutte-asoberu-suizokukan.json](./206813-tsuri-spirits-tsutte-asoberu-suizokukan.json) |
 | Tsuri Tarou | 37779 | [37779-tsuri-tarou.json](./37779-tsuri-tarou.json) |
 | Tsuru Teruhito no Jissen Kabushiki Bi-Game | 59431 | [59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json](./59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json) |
 | Tsuukai Gyaguabanchuuru: Naruto Maki Hichou | 67264 | [67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json](./67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json) |
