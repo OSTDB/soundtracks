@@ -739,6 +739,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Drift Online Car Racing | 174891 | [174891-unreal-drift-online-car-racing.json](./174891-unreal-drift-online-car-racing.json) |
 | Unreal Evolution | 136489 | [136489-unreal-evolution.json](./136489-unreal-evolution.json) |
 | Unreal Flash | 235242 | [235242-unreal-flash.json](./235242-unreal-flash.json) |
+| Unreal Flash 2007 | 234155 | [234155-unreal-flash-2007.json](./234155-unreal-flash-2007.json) |
+| Unreal Flash 3 | 234154 | [234154-unreal-flash-3.json](./234154-unreal-flash-3.json) |
 | Unreal II: The Awakening - Special Edition | 46625 | [46625-unreal-ii-the-awakening-special-edition.json](./46625-unreal-ii-the-awakening-special-edition.json) |
 | Unreal Land | 62220 | [62220-unreal-land.json](./62220-unreal-land.json) |
 | Unreal Tournament 2004: Editor's Choice Edition | 27811 | [27811-unreal-tournament-2004-editors-choice-edition.json](./27811-unreal-tournament-2004-editors-choice-edition.json) |
