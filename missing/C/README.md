@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campgrounds: The Endorus Expedition | 139393 | [139393-campgrounds-the-endorus-expedition.json](./139393-campgrounds-the-endorus-expedition.json) |
 | Camphor | 237352 | [237352-camphor.json](./237352-camphor.json) |
 | Campido | 111756 | [111756-campido.json](./111756-campido.json) |
+| Camping Builder | 192838 | [192838-camping-builder.json](./192838-camping-builder.json) |
 | Camping Simulator: The Squad | 150072 | [150072-camping-simulator-the-squad.json](./150072-camping-simulator-the-squad.json) |
 | Campire of Oasis: The Story | 397659 | [397659-campire-of-oasis-the-story.json](./397659-campire-of-oasis-the-story.json) |
 | Camplandia | 249872 | [249872-camplandia.json](./249872-camplandia.json) |
