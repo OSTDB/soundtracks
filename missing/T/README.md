@@ -2717,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fame Game: Welcome to Hollywood | 362303 | [362303-the-fame-game-welcome-to-hollywood.json](./362303-the-fame-game-welcome-to-hollywood.json) |
 | The Fancy Pants Adventures: World 1 Remaster | 144384 | [144384-the-fancy-pants-adventures-world-1-remaster.json](./144384-the-fancy-pants-adventures-world-1-remaster.json) |
 | The Fancy Pants Adventures: World 2 | 66009 | [66009-the-fancy-pants-adventures-world-2.json](./66009-the-fancy-pants-adventures-world-2.json) |
+| The Fancy Pants Adventures: World 4 | 210712 | [210712-the-fancy-pants-adventures-world-4.json](./210712-the-fancy-pants-adventures-world-4.json) |
 | The Fantastic Adventures of Mr. Don and Friends | 372982 | [372982-the-fantastic-adventures-of-mr-don-and-friends.json](./372982-the-fantastic-adventures-of-mr-don-and-friends.json) |
 | The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
 | The Far Kingdoms: Garden Mosaics | 415906 | [415906-the-far-kingdoms-garden-mosaics.json](./415906-the-far-kingdoms-garden-mosaics.json) |
@@ -3344,7 +3345,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Salad | 230302 | [230302-the-jumping-salad.json](./230302-the-jumping-salad.json) |
 | The Jumping Salad: Turbo | 230304 | [230304-the-jumping-salad-turbo.json](./230304-the-jumping-salad-turbo.json) |
 | The Jumping Sushi | 210666 | [210666-the-jumping-sushi.json](./210666-the-jumping-sushi.json) |
+| The Jumping Sushi: Turbo | 210749 | [210749-the-jumping-sushi-turbo.json](./210749-the-jumping-sushi-turbo.json) |
 | The Jumping Taco | 205240 | [205240-the-jumping-taco.json](./205240-the-jumping-taco.json) |
+| The Jumping Taco: Turbo | 210748 | [210748-the-jumping-taco-turbo.json](./210748-the-jumping-taco-turbo.json) |
 | The Junuary Project | 233603 | [233603-the-junuary-project.json](./233603-the-junuary-project.json) |
 | The Jusou 3 | 289994 | [289994-the-jusou-3.json](./289994-the-jusou-3.json) |
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
@@ -4321,6 +4324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plus Point | 89950 | [89950-the-plus-point.json](./89950-the-plus-point.json) |
 | The Plutonia Experiment | 46615 | [46615-the-plutonia-experiment.json](./46615-the-plutonia-experiment.json) |
 | The Pointless Car Chase | 121701 | [121701-the-pointless-car-chase.json](./121701-the-pointless-car-chase.json) |
+| The Polar Express | 210732 | [210732-the-polar-express.json](./210732-the-polar-express.json) |
 | The Political Machine 2008 | 50866 | [50866-the-political-machine-2008.json](./50866-the-political-machine-2008.json) |
 | The Political Machine 2024 | 275696 | [275696-the-political-machine-2024.json](./275696-the-political-machine-2024.json) |
 | The Political Machine 2024: Cabinet of Curiosities | 275697 | [275697-the-political-machine-2024-cabinet-of-curiosities.json](./275697-the-political-machine-2024-cabinet-of-curiosities.json) |
@@ -4913,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit Lift | 217312 | [217312-the-spirit-lift.json](./217312-the-spirit-lift.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
 | The Spiriting Away of Saooni Village | 373094 | [373094-the-spiriting-away-of-saooni-village.json](./373094-the-spiriting-away-of-saooni-village.json) |
+| The SpongeBob SquarePants Movie | 210725 | [210725-the-spongebob-squarepants-movie.json](./210725-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie 3D | 135811 | [135811-the-spongebob-squarepants-movie-3d.json](./135811-the-spongebob-squarepants-movie-3d.json) |
 | The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
 | The Sporting News Baseball | 55154 | [55154-the-sporting-news-baseball.json](./55154-the-sporting-news-baseball.json) |
@@ -6611,6 +6616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeCluster | 105295 | [105295-timecluster.json](./105295-timecluster.json) |
 | Timeflow: Financial Education Sim | 114440 | [114440-timeflow-financial-education-sim.json](./114440-timeflow-financial-education-sim.json) |
 | Timekeepers Battleground | 236403 | [236403-timekeepers-battleground.json](./236403-timekeepers-battleground.json) |
+| Timekeepers Expansion | 210702 | [210702-timekeepers-expansion.json](./210702-timekeepers-expansion.json) |
 | Timelake: Time Travel Tactics | 327841 | [327841-timelake-time-travel-tactics.json](./327841-timelake-time-travel-tactics.json) |
 | Timeless | 119751 | [119751-timeless.json](./119751-timeless.json) |
 | Timeless Solitaire Collection | 372476 | [372476-timeless-solitaire-collection.json](./372476-timeless-solitaire-collection.json) |
@@ -8126,6 +8132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Traffic Manager: Prime Edition | 328805 | [328805-train-traffic-manager-prime-edition.json](./328805-train-traffic-manager-prime-edition.json) |
 | Train Tycoon | 152866 | [152866-train-tycoon.json](./152866-train-tycoon.json) |
 | Train Valley 2: Editor's Bulletin | 243140 | [243140-train-valley-2-editors-bulletin.json](./243140-train-valley-2-editors-bulletin.json) |
+| Train Valley: Console Edition | 210746 | [210746-train-valley-console-edition.json](./210746-train-valley-console-edition.json) |
 | Train Valley: Deluxe Edition | 53857 | [53857-train-valley-deluxe-edition.json](./53857-train-valley-deluxe-edition.json) |
 | Train Valley: Germany | 154507 | [154507-train-valley-germany.json](./154507-train-valley-germany.json) |
 | Train World | 225179 | [225179-train-world.json](./225179-train-world.json) |
