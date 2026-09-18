@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Facada | 395036 | [395036-facada.json](./395036-facada.json) |
 | Façade | 11740 | [11740-facade.json](./11740-facade.json) |
 | Face 2 Face | 299730 | [299730-face-2-face.json](./299730-face-2-face.json) |
+| Face Down | 227968 | [227968-face-down.json](./227968-face-down.json) |
 | Face-Off | 84180 | [84180-face-off.json](./84180-face-off.json) |
 | Faceball 2000 | 19701 | [19701-faceball-2000.json](./19701-faceball-2000.json) |
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
@@ -253,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon Beertender 2 | 286123 | [286123-falcon-beertender-2.json](./286123-falcon-beertender-2.json) |
 | Falcon BMS | 77298 | [77298-falcon-bms.json](./77298-falcon-bms.json) |
 | Falcon Simulator | 86859 | [86859-falcon-simulator.json](./86859-falcon-simulator.json) |
+| Falcon Squad | 227953 | [227953-falcon-squad.json](./227953-falcon-squad.json) |
 | Falconet | 189102 | [189102-falconet.json](./189102-falconet.json) |
 | Falcons | 24884 | [24884-falcons.json](./24884-falcons.json) |
 | Falinere Fantasy | 215887 | [215887-falinere-fantasy.json](./215887-falinere-fantasy.json) |
@@ -1585,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Seisen no Keifu | 1436 | [1436-fire-emblem-seisen-no-keifu.json](./1436-fire-emblem-seisen-no-keifu.json) |
 | Fire Emblem: Shadow Dragon | 1444 | [1444-fire-emblem-shadow-dragon.json](./1444-fire-emblem-shadow-dragon.json) |
 | Fire Emblem: Shadow Dragon and the Blade of Light - 30th Anniversary Edition | 140611 | [140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json](./140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json) |
+| Fire Emblem: Souls of the Forest | 227963 | [227963-fire-emblem-souls-of-the-forest.json](./227963-fire-emblem-souls-of-the-forest.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
 | Fire Emblem: The Dragon Herald | 214535 | [214535-fire-emblem-the-dragon-herald.json](./214535-fire-emblem-the-dragon-herald.json) |
 | Fire Emblem: The Four Kings | 214494 | [214494-fire-emblem-the-four-kings.json](./214494-fire-emblem-the-four-kings.json) |
