@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Blitz | 245388 | [245388-3d-blitz.json](./245388-3d-blitz.json) |
 | 3D Boxing | 12980 | [12980-3d-boxing.json](./12980-3d-boxing.json) |
 | 3D Brick Bustin Madness | 205832 | [205832-3d-brick-bustin-madness.json](./205832-3d-brick-bustin-madness.json) |
+| 3D Chess | 223001 | [223001-3d-chess.json](./223001-3d-chess.json) |
 | 3D Chess Q14 | 289455 | [289455-3d-chess-q14.json](./289455-3d-chess-q14.json) |
 | 3D Chess: Nocca Nocca | 151674 | [151674-3d-chess-nocca-nocca.json](./151674-3d-chess-nocca-nocca.json) |
 | 3D Classics: Kirby's Adventure | 84617 | [84617-3d-classics-kirbys-adventure.json](./84617-3d-classics-kirbys-adventure.json) |
