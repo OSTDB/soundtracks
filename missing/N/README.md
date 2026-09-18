@@ -2088,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nulandia | 304718 | [304718-nulandia.json](./304718-nulandia.json) |
 | Null & Peta -Invasion of the Queen Bug- | 127372 | [127372-null-and-peta-invasion-of-the-queen-bug.json](./127372-null-and-peta-invasion-of-the-queen-bug.json) |
 | Null Breach | 239151 | [239151-null-breach.json](./239151-null-breach.json) |
+| Null Event | 215788 | [215788-null-event.json](./215788-null-event.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Null State | 327807 | [327807-null-state.json](./327807-null-state.json) |
 | Null Vector | 55710 | [55710-null-vector.json](./55710-null-vector.json) |
