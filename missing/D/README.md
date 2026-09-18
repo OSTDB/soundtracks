@@ -2856,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Mulan Training Game | 246946 | [246946-disneys-mulan-training-game.json](./246946-disneys-mulan-training-game.json) |
 | Disney's Party | 242808 | [242808-disneys-party.json](./242808-disneys-party.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
+| Disney's TaleSpin | 198936 | [198936-disneys-talespin.json](./198936-disneys-talespin.json) |
 | Disney's Tarzan: Return to the Jungle | 49339 | [49339-disneys-tarzan-return-to-the-jungle.json](./49339-disneys-tarzan-return-to-the-jungle.json) |
 | Disney's Tarzan: Untamed | 10625 | [10625-disneys-tarzan-untamed.json](./10625-disneys-tarzan-untamed.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
@@ -2865,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Little Mermaid: Ariel's Majestic Journey | 258692 | [258692-disneys-the-little-mermaid-ariels-majestic-journey.json](./258692-disneys-the-little-mermaid-ariels-majestic-journey.json) |
 | Disney's The Little Mermaid: Magic in Two Kingdoms | 49404 | [49404-disneys-the-little-mermaid-magic-in-two-kingdoms.json](./49404-disneys-the-little-mermaid-magic-in-two-kingdoms.json) |
 | Disney's Tigger Activity Center | 209031 | [209031-disneys-tigger-activity-center.json](./209031-disneys-tigger-activity-center.json) |
+| Disney's Toy Story | 198945 | [198945-disneys-toy-story.json](./198945-disneys-toy-story.json) |
 | Disney's Treasure Planet: Broadside Blast | 213035 | [213035-disneys-treasure-planet-broadside-blast.json](./213035-disneys-treasure-planet-broadside-blast.json) |
 | Disney's Treasure Planet: Etherium Rescue | 213037 | [213037-disneys-treasure-planet-etherium-rescue.json](./213037-disneys-treasure-planet-etherium-rescue.json) |
 | Disney's Treasure Planet: Treasure Racer | 213025 | [213025-disneys-treasure-planet-treasure-racer.json](./213025-disneys-treasure-planet-treasure-racer.json) |
