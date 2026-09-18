@@ -1543,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krakout | 37171 | [37171-krakout.json](./37171-krakout.json) |
 | Kraktures | 318981 | [318981-kraktures.json](./318981-kraktures.json) |
 | Krampus | 25317 | [25317-krampus.json](./25317-krampus.json) |
+| Krampus Kills | 191094 | [191094-krampus-kills.json](./191094-krampus-kills.json) |
 | Krampus Quest | 76674 | [76674-krampus-quest.json](./76674-krampus-quest.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
 | Kratoria | 187540 | [187540-kratoria.json](./187540-kratoria.json) |
