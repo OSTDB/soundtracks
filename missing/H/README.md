@@ -1265,8 +1265,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
 | Hello Kitty to Sekai Ryokou! Ironna Kuni he Odekake Shimashou! | 222307 | [222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json](./222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json) |
 | Hello Kitty World | 48626 | [48626-hello-kitty-world.json](./48626-hello-kitty-world.json) |
+| Hello Kitty: Carrot Story | 206192 | [206192-hello-kitty-carrot-story.json](./206192-hello-kitty-carrot-story.json) |
+| Hello Kitty: Hello Submarine | 206193 | [206193-hello-kitty-hello-submarine.json](./206193-hello-kitty-hello-submarine.json) |
 | Hello Kitty: Kids Hospital | 377696 | [377696-hello-kitty-kids-hospital.json](./377696-hello-kitty-kids-hospital.json) |
 | Hello Kitty: Picnic with Sanrio Friends | 7437 | [7437-hello-kitty-picnic-with-sanrio-friends.json](./7437-hello-kitty-picnic-with-sanrio-friends.json) |
+| Hello Kitty: School Bus | 206194 | [206194-hello-kitty-school-bus.json](./206194-hello-kitty-school-bus.json) |
 | Hello Kitty: Sweet Little Shops | 206159 | [206159-hello-kitty-sweet-little-shops.json](./206159-hello-kitty-sweet-little-shops.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
 | Hello Lady! Complete Edition | 187447 | [187447-hello-lady-complete-edition.json](./187447-hello-lady-complete-edition.json) |
@@ -2040,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiddenverse: Ominous Opus | 156677 | [156677-hiddenverse-ominous-opus.json](./156677-hiddenverse-ominous-opus.json) |
 | Hiddenverse: The Iron Tower | 209652 | [209652-hiddenverse-the-iron-tower.json](./209652-hiddenverse-the-iron-tower.json) |
 | Hide 'n Heist | 346160 | [346160-hide-n-heist.json](./346160-hide-n-heist.json) |
+| Hide & Chick | 206196 | [206196-hide-and-chick.json](./206196-hide-and-chick.json) |
 | Hide & Seek World | 188552 | [188552-hide-and-seek-world.json](./188552-hide-and-seek-world.json) |
 | Hide and Moo! | 414286 | [414286-hide-and-moo.json](./414286-hide-and-moo.json) |
 | Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
