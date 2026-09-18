@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution GB 2 | 72735 | [72735-dance-dance-revolution-gb-2.json](./72735-dance-dance-revolution-gb-2.json) |
 | Dance Dance Revolution Grand Prix | 180262 | [180262-dance-dance-revolution-grand-prix.json](./180262-dance-dance-revolution-grand-prix.json) |
 | Dance Dance Revolution Mario Mix | 3680 | [3680-dance-dance-revolution-mario-mix.json](./3680-dance-dance-revolution-mario-mix.json) |
+| Dance Dance Revolution Mario Mix 2 | 201163 | [201163-dance-dance-revolution-mario-mix-2.json](./201163-dance-dance-revolution-mario-mix-2.json) |
 | Dance Dance Revolution STR!KE | 128003 | [128003-dance-dance-revolution-str-ke.json](./128003-dance-dance-revolution-str-ke.json) |
 | Dance Dance Revolution Supernova 2 | 6780 | [6780-dance-dance-revolution-supernova-2.json](./6780-dance-dance-revolution-supernova-2.json) |
 | Dance Dance Revolution Ultramix 3 | 5801 | [5801-dance-dance-revolution-ultramix-3.json](./5801-dance-dance-revolution-ultramix-3.json) |
@@ -3046,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do the Cat | 326267 | [326267-do-the-cat.json](./326267-do-the-cat.json) |
 | Do You Even Brick?! | 401548 | [401548-do-you-even-brick.json](./401548-do-you-even-brick.json) |
 | Do you know de way | 89966 | [89966-do-you-know-de-way.json](./89966-do-you-know-de-way.json) |
+| Do You Like Horny Bunnies? Complete Collection | 201172 | [201172-do-you-like-horny-bunnies-complete-collection.json](./201172-do-you-like-horny-bunnies-complete-collection.json) |
 | Do You Remember? | 303484 | [303484-do-you-remember.json](./303484-do-you-remember.json) |
 | Do You Want More!? | 203938 | [203938-do-you-want-more.json](./203938-do-you-want-more.json) |
 | Do-Konjou Shougakusei: Bon Bita - Hadaka no Choujou Ketsusen!! Bita vs. Dokuro Dei! | 269574 | [269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json](./269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json) |
@@ -3541,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom + Doom II | 313126 | [313126-doom-doom-ii.json](./313126-doom-doom-ii.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
+| Doom 4 For Doom | 201182 | [201182-doom-4-for-doom.json](./201182-doom-4-for-doom.json) |
 | Doom 64 | 3471 | [3471-doom-64.json](./3471-doom-64.json) |
 | Doom 64 for Dreamcast | 346123 | [346123-doom-64-for-dreamcast.json](./346123-doom-64-for-dreamcast.json) |
 | Doom 64 Reloaded | 346668 | [346668-doom-64-reloaded.json](./346668-doom-64-reloaded.json) |
@@ -3561,8 +3564,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom II: Japanese Community Project | 140048 | [140048-doom-ii-japanese-community-project.json](./140048-doom-ii-japanese-community-project.json) |
 | Doom II: Onna Shinkan Companion | 202835 | [202835-doom-ii-onna-shinkan-companion.json](./202835-doom-ii-onna-shinkan-companion.json) |
 | Doom II: The Sentinel's Lexicon | 202838 | [202838-doom-ii-the-sentinels-lexicon.json](./202838-doom-ii-the-sentinels-lexicon.json) |
+| Doom Incarnate | 201183 | [201183-doom-incarnate.json](./201183-doom-incarnate.json) |
 | Doom Raider: Crypt of the Vile | 256817 | [256817-doom-raider-crypt-of-the-vile.json](./256817-doom-raider-crypt-of-the-vile.json) |
 | Doom Rails | 16116 | [16116-doom-rails.json](./16116-doom-rails.json) |
+| DOOM Remake 4 | 201181 | [201181-doom-remake-4.json](./201181-doom-remake-4.json) |
 | Doom Roller | 303486 | [303486-doom-roller.json](./303486-doom-roller.json) |
 | Doom Survivor: Horde Rush | 396187 | [396187-doom-survivor-horde-rush.json](./396187-doom-survivor-horde-rush.json) |
 | Doom Survivors | 295799 | [295799-doom-survivors.json](./295799-doom-survivors.json) |
@@ -3799,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Download RAM Idle | 400222 | [400222-download-ram-idle.json](./400222-download-ram-idle.json) |
 | Download RAM Idle 2 | 400221 | [400221-download-ram-idle-2.json](./400221-download-ram-idle-2.json) |
 | Downpour Dash! | 303485 | [303485-downpour-dash.json](./303485-downpour-dash.json) |
+| Downpurr | 201169 | [201169-downpurr.json](./201169-downpurr.json) |
 | Downroll | 191161 | [191161-downroll.json](./191161-downroll.json) |
 | DownSouth | 391048 | [391048-downsouth.json](./391048-downsouth.json) |
 | Downtown Dodgeball Da yo: Zenin Shuugou!! | 60501 | [60501-downtown-dodgeball-da-yo-zenin-shuugou.json](./60501-downtown-dodgeball-da-yo-zenin-shuugou.json) |
@@ -4727,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Dash | 290539 | [290539-duck-dash.json](./290539-duck-dash.json) |
 | Duck Dash Delivery | 398320 | [398320-duck-dash-delivery.json](./398320-duck-dash-delivery.json) |
 | Duck Detective: The Secret Salami | 279374 | [279374-duck-detective-the-secret-salami.json](./279374-duck-detective-the-secret-salami.json) |
+| Duck Doom Deluxe | 201180 | [201180-duck-doom-deluxe.json](./201180-duck-doom-deluxe.json) |
 | Duck Duck Goose | 358870 | [358870-duck-duck-goose.json](./358870-duck-duck-goose.json) |
 | Duck Duck Hotel | 384083 | [384083-duck-duck-hotel.json](./384083-duck-duck-hotel.json) |
 | Duck Duck Plays the Blues | 182994 | [182994-duck-duck-plays-the-blues.json](./182994-duck-duck-plays-the-blues.json) |
