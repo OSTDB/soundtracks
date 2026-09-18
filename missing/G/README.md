@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensouband | 252734 | [252734-gensouband.json](./252734-gensouband.json) |
 | Gent Stickman vs Evil Meat Hand | 290409 | [290409-gent-stickman-vs-evil-meat-hand.json](./290409-gent-stickman-vs-evil-meat-hand.json) |
 | Gentlemacho | 66620 | [66620-gentlemacho.json](./66620-gentlemacho.json) |
+| Gentleman Dress Up | 227927 | [227927-gentleman-dress-up.json](./227927-gentleman-dress-up.json) |
 | Genzai: Serialization | 223428 | [223428-genzai-serialization.json](./223428-genzai-serialization.json) |
 | Geo | 31785 | [31785-geo.json](./31785-geo.json) |
 | Geo Brain Boost! 50 U.S. States Silhouette Quiz | 399640 | [399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json](./399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json) |
