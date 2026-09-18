@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Life i: The Girl Who Steals Time - The Sinister Broker Bazario's Schemes | 370134 | [370134-fantasy-life-i-the-girl-who-steals-time-the-sinister-broker-bazarios-schemes.json](./370134-fantasy-life-i-the-girl-who-steals-time-the-sinister-broker-bazarios-schemes.json) |
 | Fantasy Life Link! | 138174 | [138174-fantasy-life-link.json](./138174-fantasy-life-link.json) |
 | Fantasy Life Online | 26609 | [26609-fantasy-life-online.json](./26609-fantasy-life-online.json) |
+| Fantasy Life: Origin Island | 225737 | [225737-fantasy-life-origin-island.json](./225737-fantasy-life-origin-island.json) |
 | Fantasy Maiden Wars: Scarlet | 138718 | [138718-fantasy-maiden-wars-scarlet.json](./138718-fantasy-maiden-wars-scarlet.json) |
 | Fantasy Monster Hunt | 346683 | [346683-fantasy-monster-hunt.json](./346683-fantasy-monster-hunt.json) |
 | Fantasy Mosaics 2 | 100733 | [100733-fantasy-mosaics-2.json](./100733-fantasy-mosaics-2.json) |
@@ -1129,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fields - Soldier of Time | 77278 | [77278-fields-soldier-of-time.json](./77278-fields-soldier-of-time.json) |
 | Fields of Aaru | 400375 | [400375-fields-of-aaru.json](./400375-fields-of-aaru.json) |
 | Fields of Glory | 37111 | [37111-fields-of-glory.json](./37111-fields-of-glory.json) |
+| Fields of Logic | 225720 | [225720-fields-of-logic.json](./225720-fields-of-logic.json) |
 | Fields of Mine | 372981 | [372981-fields-of-mine.json](./372981-fields-of-mine.json) |
 | Fiend Exile | 350520 | [350520-fiend-exile.json](./350520-fiend-exile.json) |
 | Fiend Hunter | 42000 | [42000-fiend-hunter.json](./42000-fiend-hunter.json) |
@@ -2584,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
 | Football Killer | 188096 | [188096-football-killer.json](./188096-football-killer.json) |
 | Football Legends 2025: Gold Edition | 396917 | [396917-football-legends-2025-gold-edition.json](./396917-football-legends-2025-gold-edition.json) |
+| Football Life 2023 | 225767 | [225767-football-life-2023.json](./225767-football-life-2023.json) |
 | Football Life Simulator | 326426 | [326426-football-life-simulator.json](./326426-football-life-simulator.json) |
 | Football Maestro | 261531 | [261531-football-maestro.json](./261531-football-maestro.json) |
 | Football Manager | 23064 | [23064-football-manager.json](./23064-football-manager.json) |
@@ -3800,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Striptease | 215899 | [215899-furry-striptease.json](./215899-furry-striptease.json) |
 | Furry Superstar | 213007 | [213007-furry-superstar.json](./213007-furry-superstar.json) |
 | Furry Tale | 236940 | [236940-furry-tale.json](./236940-furry-tale.json) |
+| Furry Tangram Lite | 225758 | [225758-furry-tangram-lite.json](./225758-furry-tangram-lite.json) |
 | Furry Tits | 349865 | [349865-furry-tits.json](./349865-furry-tits.json) |
 | FurryFury: Smash & Roll | 116361 | [116361-furryfury-smash-and-roll.json](./116361-furryfury-smash-and-roll.json) |
 | Furs of Fury | 149049 | [149049-furs-of-fury.json](./149049-furs-of-fury.json) |
