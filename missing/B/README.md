@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Shoot Aim Challenge | 334085 | [334085-ball-shoot-aim-challenge.json](./334085-ball-shoot-aim-challenge.json) |
 | Ball Torture | 205242 | [205242-ball-torture.json](./205242-ball-torture.json) |
 | Ball Turn | 105402 | [105402-ball-turn.json](./105402-ball-turn.json) |
+| Ball-e | 229823 | [229823-ball-e.json](./229823-ball-e.json) |
 | Ball-it Hell | 302492 | [302492-ball-it-hell.json](./302492-ball-it-hell.json) |
 | Ballad of Angels | 310927 | [310927-ballad-of-angels.json](./310927-ballad-of-angels.json) |
 | Ballad of Antara | 303809 | [303809-ballad-of-antara.json](./303809-ballad-of-antara.json) |
@@ -2135,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill & Ted's Excellent Adventure | 175897 | [175897-bill-and-teds-excellent-adventure.json](./175897-bill-and-teds-excellent-adventure.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
 | Bill Nye the Science Guy: Stop the Rock | 67957 | [67957-bill-nye-the-science-guy-stop-the-rock.json](./67957-bill-nye-the-science-guy-stop-the-rock.json) |
+| Bill the Demon | 229813 | [229813-bill-the-demon.json](./229813-bill-the-demon.json) |
 | Bill Walsh College Football | 5363 | [5363-bill-walsh-college-football.json](./5363-bill-walsh-college-football.json) |
 | Bill Walsh College Football '95 | 5364 | [5364-bill-walsh-college-football-95.json](./5364-bill-walsh-college-football-95.json) |
 | Bill's Tomato Game | 14306 | [14306-bills-tomato-game.json](./14306-bills-tomato-game.json) |
