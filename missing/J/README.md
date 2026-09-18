@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jak and Daxter: The Precursor Legacy | 325261 | [325261-jak-and-daxter-the-precursor-legacy.json](./325261-jak-and-daxter-the-precursor-legacy.json) |
 | Jak II | 1529 | [1529-jak-ii.json](./1529-jak-ii.json) |
 | Jak X: Combat Racing | 1532 | [1532-jak-x-combat-racing.json](./1532-jak-x-combat-racing.json) |
+| Jake and the Never Land Pirates | 230381 | [230381-jake-and-the-never-land-pirates.json](./230381-jake-and-the-never-land-pirates.json) |
 | Jake's Apple Harvest | 258548 | [258548-jakes-apple-harvest.json](./258548-jakes-apple-harvest.json) |
 | Jake's Halloween Night | 216770 | [216770-jakes-halloween-night.json](./216770-jakes-halloween-night.json) |
 | Jakers: The Adventures of Piggley Winks | 19653 | [19653-jakers-the-adventures-of-piggley-winks.json](./19653-jakers-the-adventures-of-piggley-winks.json) |
@@ -411,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest: Match 3 Adventure | 376577 | [376577-jewel-quest-match-3-adventure.json](./376577-jewel-quest-match-3-adventure.json) |
 | Jewel Quest: The Sapphire Dragon | 210021 | [210021-jewel-quest-the-sapphire-dragon.json](./210021-jewel-quest-the-sapphire-dragon.json) |
 | Jewel Time Deluxe | 110322 | [110322-jewel-time-deluxe.json](./110322-jewel-time-deluxe.json) |
+| Jewel Train | 230382 | [230382-jewel-train.json](./230382-jewel-train.json) |
 | Jewel Witch Tale | 52007 | [52007-jewel-witch-tale.json](./52007-jewel-witch-tale.json) |
 | Jeweler Simulator | 291449 | [291449-jeweler-simulator.json](./291449-jeweler-simulator.json) |
 | Jewellust | 61030 | [61030-jewellust.json](./61030-jewellust.json) |
