@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fenrir's fury | 252245 | [252245-fenrirs-fury.json](./252245-fenrirs-fury.json) |
 | Fentanyl Edition | 327411 | [327411-fentanyl-edition.json](./327411-fentanyl-edition.json) |
 | Feodika | 382777 | [382777-feodika.json](./382777-feodika.json) |
+| Feral | 192323 | [192323-feral.json](./192323-feral.json) |
 | Feral Echoes | 351689 | [351689-feral-echoes.json](./351689-feral-echoes.json) |
 | Ferarum | 396366 | [396366-ferarum.json](./396366-ferarum.json) |
 | Fergus the Fly | 29641 | [29641-fergus-the-fly.json](./29641-fergus-the-fly.json) |
@@ -2493,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Cat | 282147 | [282147-flying-cat.json](./282147-flying-cat.json) |
 | Flying Corps: Gold | 209461 | [209461-flying-corps-gold.json](./209461-flying-corps-gold.json) |
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
+| Flying Fish Quest | 192313 | [192313-flying-fish-quest.json](./192313-flying-fish-quest.json) |
 | Flying Frogs | 209462 | [209462-flying-frogs.json](./209462-flying-frogs.json) |
 | Flying Frogs | 301991 | [301991-flying-frogs.json](./301991-flying-frogs.json) |
 | Flying Guys | 361741 | [361741-flying-guys.json](./361741-flying-guys.json) |
