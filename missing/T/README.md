@@ -5322,6 +5322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trader | 159881 | [159881-the-trader.json](./159881-the-trader.json) |
 | The Trader: Good Dealer Simulator | 221157 | [221157-the-trader-good-dealer-simulator.json](./221157-the-trader-good-dealer-simulator.json) |
 | The Trail: Frontier Challenge | 49120 | [49120-the-trail-frontier-challenge.json](./49120-the-trail-frontier-challenge.json) |
+| The Trailblazer | 201185 | [201185-the-trailblazer.json](./201185-the-trailblazer.json) |
 | The Trailer Incident | 390652 | [390652-the-trailer-incident.json](./390652-the-trailer-incident.json) |
 | The Train Can't Escape Without XXX!? | 353915 | [353915-the-train-cant-escape-without-xxx.json](./353915-the-train-cant-escape-without-xxx.json) |
 | The Training Diary of a Novice Magician Shin | 82810 | [82810-the-training-diary-of-a-novice-magician-shin.json](./82810-the-training-diary-of-a-novice-magician-shin.json) |
@@ -7549,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Shogun 2 - Sengoku Jidai Unit Pack | 83515 | [83515-total-war-shogun-2-sengoku-jidai-unit-pack.json](./83515-total-war-shogun-2-sengoku-jidai-unit-pack.json) |
 | Total War: Shogun 2 - The Hattori Clan Pack | 83514 | [83514-total-war-shogun-2-the-hattori-clan-pack.json](./83514-total-war-shogun-2-the-hattori-clan-pack.json) |
 | Total War: Shogun 2 - The Ikko Ikki Clan Pack | 83516 | [83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json](./83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json) |
+| Total War: Three Kingdoms - The Furious Wild | 201149 | [201149-total-war-three-kingdoms-the-furious-wild.json](./201149-total-war-three-kingdoms-the-furious-wild.json) |
 | Total War: Warhammer - Blood For the Blood God | 25660 | [25660-total-war-warhammer-blood-for-the-blood-god.json](./25660-total-war-warhammer-blood-for-the-blood-god.json) |
 | Total War: Warhammer - Bretonnia | 81293 | [81293-total-war-warhammer-bretonnia.json](./81293-total-war-warhammer-bretonnia.json) |
 | Total War: Warhammer - Chaos Warriors | 53832 | [53832-total-war-warhammer-chaos-warriors.json](./53832-total-war-warhammer-chaos-warriors.json) |
@@ -7649,6 +7651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fantasy | 387333 | [387333-touhou-fantasy.json](./387333-touhou-fantasy.json) |
 | Touhou Fantasy Destination | 256332 | [256332-touhou-fantasy-destination.json](./256332-touhou-fantasy-destination.json) |
 | Touhou Gaiden | 404961 | [404961-touhou-gaiden.json](./404961-touhou-gaiden.json) |
+| Touhou Gakuen Ki: Shippuu no Shou | 201176 | [201176-touhou-gakuen-ki-shippuu-no-shou.json](./201176-touhou-gakuen-ki-shippuu-no-shou.json) |
 | Touhou Genso Maroku W: The Devil of Decline - Shikigami Additional Contents | 212243 | [212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json](./212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json) |
 | Touhou Genso Wanderer Reloaded | 86645 | [86645-touhou-genso-wanderer-reloaded.json](./86645-touhou-genso-wanderer-reloaded.json) |
 | Touhou Genso Wanderer: Foresight | 289024 | [289024-touhou-genso-wanderer-foresight.json](./289024-touhou-genso-wanderer-foresight.json) |
