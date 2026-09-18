@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Shells III | 308382 | [308382-advanced-shells-iii.json](./308382-advanced-shells-iii.json) |
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
 | Advenger of Stuart | 236271 | [236271-advenger-of-stuart.json](./236271-advenger-of-stuart.json) |
+| Advent Calendar | 212875 | [212875-advent-calendar.json](./212875-advent-calendar.json) |
 | Advent Calendar | 379475 | [379475-advent-calendar.json](./379475-advent-calendar.json) |
 | Advent of God: Legends | 304168 | [304168-advent-of-god-legends.json](./304168-advent-of-god-legends.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
@@ -813,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
 | Aimlabs | 67902 | [67902-aimlabs.json](./67902-aimlabs.json) |
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
+| AimX | 212901 | [212901-aimx.json](./212901-aimx.json) |
 | AInder | 239682 | [239682-ainder.json](./239682-ainder.json) |
 | Ainmora: The Impending Disaster | 241949 | [241949-ainmora-the-impending-disaster.json](./241949-ainmora-the-impending-disaster.json) |
 | Aion 2 | 117297 | [117297-aion-2.json](./117297-aion-2.json) |
@@ -1688,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambitions: Birth of a President | 140568 | [140568-ambitions-birth-of-a-president.json](./140568-ambitions-birth-of-a-president.json) |
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
 | Ambrosia's | 185613 | [185613-ambrosias.json](./185613-ambrosias.json) |
+| Ambulance Chauffeur Simulator | 212904 | [212904-ambulance-chauffeur-simulator.json](./212904-ambulance-chauffeur-simulator.json) |
 | Ambulance Driver | 311816 | [311816-ambulance-driver.json](./311816-ambulance-driver.json) |
 | Ambulance Life: A Paramedic Simulator - Bay Side Expansion | 334668 | [334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json](./334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json) |
 | Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
@@ -2785,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arborea: Magnicidio en la Corte | 316835 | [316835-arborea-magnicidio-en-la-corte.json](./316835-arborea-magnicidio-en-la-corte.json) |
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
 | ARC Continuum | 27671 | [27671-arc-continuum.json](./27671-arc-continuum.json) |
+| Arc Intelligence | 212905 | [212905-arc-intelligence.json](./212905-arc-intelligence.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
 | ARC Squadron: Redux | 38984 | [38984-arc-squadron-redux.json](./38984-arc-squadron-redux.json) |
 | Arc Style Solitaire | 62222 | [62222-arc-style-solitaire.json](./62222-arc-style-solitaire.json) |
