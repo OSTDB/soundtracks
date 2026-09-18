@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
 | Paradigm Island | 285976 | [285976-paradigm-island.json](./285976-paradigm-island.json) |
 | Paradigm Overhaul | 291762 | [291762-paradigm-overhaul.json](./291762-paradigm-overhaul.json) |
+| Paradigm: Reboot | 193887 | [193887-paradigm-reboot.json](./193887-paradigm-reboot.json) |
 | Paradigmfetish | 223137 | [223137-paradigmfetish.json](./223137-paradigmfetish.json) |
 | Paradise | 184046 | [184046-paradise.json](./184046-paradise.json) |
 | Paradise | 20527 | [20527-paradise.json](./20527-paradise.json) |
@@ -557,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Killer: Perfect 25 Edition | 154518 | [154518-paradise-killer-perfect-25-edition.json](./154518-paradise-killer-perfect-25-edition.json) |
 | Paradise Lofts | 156652 | [156652-paradise-lofts.json](./156652-paradise-lofts.json) |
 | Paradise Lost | 137092 | [137092-paradise-lost.json](./137092-paradise-lost.json) |
+| Paradise Lost | 193865 | [193865-paradise-lost.json](./193865-paradise-lost.json) |
 | Paradise Lost: First Contact | 59975 | [59975-paradise-lost-first-contact.json](./59975-paradise-lost-first-contact.json) |
 | Paradise Lost: FPS Cosmic Horror Game | 69441 | [69441-paradise-lost-fps-cosmic-horror-game.json](./69441-paradise-lost-fps-cosmic-horror-game.json) |
 | Paradise Lust 2 | 253369 | [253369-paradise-lust-2.json](./253369-paradise-lust-2.json) |
@@ -2854,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
 | Pocket Love | 63334 | [63334-pocket-love.json](./63334-pocket-love.json) |
 | Pocket Love: If | 43973 | [43973-pocket-love-if.json](./43973-pocket-love-if.json) |
+| Pocket Luna | 193878 | [193878-pocket-luna.json](./193878-pocket-luna.json) |
 | Pocket Mario | 318031 | [318031-pocket-mario.json](./318031-pocket-mario.json) |
 | Pocket Mine | 38909 | [38909-pocket-mine.json](./38909-pocket-mine.json) |
 | Pocket Monsters RPG | 130335 | [130335-pocket-monsters-rpg.json](./130335-pocket-monsters-rpg.json) |
@@ -2879,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Witch | 223045 | [223045-pocket-witch.json](./223045-pocket-witch.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 1 | 293906 | [293906-pocket-zaurus-party-island-no-nakama-tachi-1.json](./293906-pocket-zaurus-party-island-no-nakama-tachi-1.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 2 | 293907 | [293907-pocket-zaurus-party-island-no-nakama-tachi-2.json](./293907-pocket-zaurus-party-island-no-nakama-tachi-2.json) |
+| Pocket Zone | 193867 | [193867-pocket-zone.json](./193867-pocket-zone.json) |
 | Pocket-Run Pool | 102094 | [102094-pocket-run-pool.json](./102094-pocket-run-pool.json) |
 | Pocketing the Ball | 294126 | [294126-pocketing-the-ball.json](./294126-pocketing-the-ball.json) |
 | PocketWarwick | 64345 | [64345-pocketwarwick.json](./64345-pocketwarwick.json) |
@@ -3941,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princes of Qing | 402961 | [402961-princes-of-qing.json](./402961-princes-of-qing.json) |
 | Princess | 187431 | [187431-princess.json](./187431-princess.json) |
 | Princess & Conquest | 128008 | [128008-princess-and-conquest.json](./128008-princess-and-conquest.json) |
+| Princess & Goblin | 193874 | [193874-princess-and-goblin.json](./193874-princess-and-goblin.json) |
 | Princess and Fairytales Jigsaw Puzzles | 221261 | [221261-princess-and-fairytales-jigsaw-puzzles.json](./221261-princess-and-fairytales-jigsaw-puzzles.json) |
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
 | Princess Burst | 382279 | [382279-princess-burst.json](./382279-princess-burst.json) |
