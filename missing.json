@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T15:33:24.660Z",
-  "total_missing": 88021,
+  "generated_at": "2026-09-18T15:47:55.134Z",
+  "total_missing": 88071,
   "games": [
     {
       "igdb_id": 273453,
@@ -95538,6 +95538,11 @@
       "file": "missing/D/76602-disneys-pocahantas-riverbend-adventures.json"
     },
     {
+      "igdb_id": 198936,
+      "game_name": "Disney's TaleSpin",
+      "file": "missing/D/198936-disneys-talespin.json"
+    },
+    {
       "igdb_id": 49339,
       "game_name": "Disney's Tarzan: Return to the Jungle",
       "file": "missing/D/49339-disneys-tarzan-return-to-the-jungle.json"
@@ -95581,6 +95586,11 @@
       "igdb_id": 209031,
       "game_name": "Disney's Tigger Activity Center",
       "file": "missing/D/209031-disneys-tigger-activity-center.json"
+    },
+    {
+      "igdb_id": 198945,
+      "game_name": "Disney's Toy Story",
+      "file": "missing/D/198945-disneys-toy-story.json"
     },
     {
       "igdb_id": 213035,
@@ -182278,6 +182288,11 @@
       "file": "missing/I/365151-ivan.json"
     },
     {
+      "igdb_id": 198932,
+      "game_name": "Ivan \"Ironman\" Stewart's Super Off Road",
+      "file": "missing/I/198932-ivan-ironman-stewarts-super-off-road.json"
+    },
+    {
       "igdb_id": 367499,
       "game_name": "Ivan Poe",
       "file": "missing/I/367499-ivan-poe.json"
@@ -191671,6 +191686,11 @@
       "igdb_id": 58808,
       "game_name": "Kids Station: Digimon Park",
       "file": "missing/K/58808-kids-station-digimon-park.json"
+    },
+    {
+      "igdb_id": 198926,
+      "game_name": "Kids Station: Hello Kitty no Oshaberi ABC",
+      "file": "missing/K/198926-kids-station-hello-kitty-no-oshaberi-abc.json"
     },
     {
       "igdb_id": 200556,
@@ -343378,6 +343398,41 @@
       "file": "missing/S/156-star-wars-episode-i-battle-for-naboo.json"
     },
     {
+      "igdb_id": 198920,
+      "game_name": "Star Wars: Episode I - Battle Tank Attack",
+      "file": "missing/S/198920-star-wars-episode-i-battle-tank-attack.json"
+    },
+    {
+      "igdb_id": 198921,
+      "game_name": "Star Wars: Episode I - Electronic Sith Infiltrator Pen Game",
+      "file": "missing/S/198921-star-wars-episode-i-electronic-sith-infiltrator-pen-game.json"
+    },
+    {
+      "igdb_id": 198914,
+      "game_name": "Star Wars: Episode I - Naboo Defense",
+      "file": "missing/S/198914-star-wars-episode-i-naboo-defense.json"
+    },
+    {
+      "igdb_id": 198913,
+      "game_name": "Star Wars: Episode I - Naboo Escape",
+      "file": "missing/S/198913-star-wars-episode-i-naboo-escape.json"
+    },
+    {
+      "igdb_id": 198915,
+      "game_name": "Star Wars: Episode I - Podrace Challenge Game",
+      "file": "missing/S/198915-star-wars-episode-i-podrace-challenge-game.json"
+    },
+    {
+      "igdb_id": 198916,
+      "game_name": "Star Wars: Episode I - Underwater Race to Theed",
+      "file": "missing/S/198916-star-wars-episode-i-underwater-race-to-theed.json"
+    },
+    {
+      "igdb_id": 198917,
+      "game_name": "Star Wars: Episode II - Anakin Skywalker’s Lightsaber Duel",
+      "file": "missing/S/198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json"
+    },
+    {
       "igdb_id": 166484,
       "game_name": "Star Wars: Episode III - Revenge of the Sith",
       "file": "missing/S/166484-star-wars-episode-iii-revenge-of-the-sith.json"
@@ -343386,6 +343441,11 @@
       "igdb_id": 159,
       "game_name": "Star Wars: Force Commander",
       "file": "missing/S/159-star-wars-force-commander.json"
+    },
+    {
+      "igdb_id": 198918,
+      "game_name": "Star Wars: Galactic Battle",
+      "file": "missing/S/198918-star-wars-galactic-battle.json"
     },
     {
       "igdb_id": 35596,
@@ -343418,6 +343478,11 @@
       "file": "missing/S/347677-star-wars-hunters-season-5-scum-and-villainy.json"
     },
     {
+      "igdb_id": 198919,
+      "game_name": "Star Wars: Imperial Assault",
+      "file": "missing/S/198919-star-wars-imperial-assault.json"
+    },
+    {
       "igdb_id": 199015,
       "game_name": "Star Wars: Imperial Assault",
       "file": "missing/S/199015-star-wars-imperial-assault.json"
@@ -343436,6 +343501,11 @@
       "igdb_id": 200677,
       "game_name": "Star Wars: Lethal Alliance",
       "file": "missing/S/200677-star-wars-lethal-alliance.json"
+    },
+    {
+      "igdb_id": 198922,
+      "game_name": "Star Wars: Millenium Falcon Challenge",
+      "file": "missing/S/198922-star-wars-millenium-falcon-challenge.json"
     },
     {
       "igdb_id": 75087,
@@ -343476,6 +343546,11 @@
       "igdb_id": 199016,
       "game_name": "Star Wars: Rebel Forces",
       "file": "missing/S/199016-star-wars-rebel-forces.json"
+    },
+    {
+      "igdb_id": 198925,
+      "game_name": "Star Wars: Rebel Forces Laser Game",
+      "file": "missing/S/198925-star-wars-rebel-forces-laser-game.json"
     },
     {
       "igdb_id": 10204,
@@ -348173,6 +348248,16 @@
       "file": "missing/S/39319-street-fighter-ex.json"
     },
     {
+      "igdb_id": 198927,
+      "game_name": "Street Fighter II",
+      "file": "missing/S/198927-street-fighter-ii.json"
+    },
+    {
+      "igdb_id": 198928,
+      "game_name": "Street Fighter II",
+      "file": "missing/S/198928-street-fighter-ii.json"
+    },
+    {
       "igdb_id": 321621,
       "game_name": "Street Fighter II",
       "file": "missing/S/321621-street-fighter-ii.json"
@@ -348626,6 +348711,11 @@
       "igdb_id": 237059,
       "game_name": "Striden",
       "file": "missing/S/237059-striden.json"
+    },
+    {
+      "igdb_id": 198929,
+      "game_name": "Strider",
+      "file": "missing/S/198929-strider.json"
     },
     {
       "igdb_id": 222415,
@@ -350381,6 +350471,11 @@
       "igdb_id": 332985,
       "game_name": "Sugar Overdrive",
       "file": "missing/S/332985-sugar-overdrive.json"
+    },
+    {
+      "igdb_id": 198930,
+      "game_name": "Sugar Ray Leonard: Talking Boxing",
+      "file": "missing/S/198930-sugar-ray-leonard-talking-boxing.json"
     },
     {
       "igdb_id": 58209,
@@ -352366,6 +352461,11 @@
       "igdb_id": 323360,
       "game_name": "Super Doopliss World",
       "file": "missing/S/323360-super-doopliss-world.json"
+    },
+    {
+      "igdb_id": 198931,
+      "game_name": "Super Double Dragon",
+      "file": "missing/S/198931-super-double-dragon.json"
     },
     {
       "igdb_id": 132857,
@@ -355888,9 +355988,19 @@
       "file": "missing/S/55062-super-street-fighter-ii-turbo-pinball-fx.json"
     },
     {
+      "igdb_id": 198933,
+      "game_name": "Super Street Fighter II: The New Challengers",
+      "file": "missing/S/198933-super-street-fighter-ii-the-new-challengers.json"
+    },
+    {
       "igdb_id": 322210,
       "game_name": "Super Street Fighter II: The New Challengers",
       "file": "missing/S/322210-super-street-fighter-ii-the-new-challengers.json"
+    },
+    {
+      "igdb_id": 198934,
+      "game_name": "Super Street Fighter II: The New Challengers - Tiger Barcodzz",
+      "file": "missing/S/198934-super-street-fighter-ii-the-new-challengers-tiger-barcodzz.json"
     },
     {
       "igdb_id": 66653,
@@ -357976,6 +358086,11 @@
       "igdb_id": 345586,
       "game_name": "Swamp Sim",
       "file": "missing/S/345586-swamp-sim.json"
+    },
+    {
+      "igdb_id": 198935,
+      "game_name": "Swamp Thing",
+      "file": "missing/S/198935-swamp-thing.json"
     },
     {
       "igdb_id": 365685,
@@ -365133,6 +365248,11 @@
       "file": "missing/T/188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json"
     },
     {
+      "igdb_id": 198937,
+      "game_name": "Tecmo Bowl",
+      "file": "missing/T/198937-tecmo-bowl.json"
+    },
+    {
       "igdb_id": 264889,
       "game_name": "Tecmo Bowl: Kickoff",
       "file": "missing/T/264889-tecmo-bowl-kickoff.json"
@@ -365286,6 +365406,11 @@
       "igdb_id": 61238,
       "game_name": "Teenage Mutant Ninja Turtles: Brothers Unite",
       "file": "missing/T/61238-teenage-mutant-ninja-turtles-brothers-unite.json"
+    },
+    {
+      "igdb_id": 198938,
+      "game_name": "Teenage Mutant Ninja Turtles: Dimension X Assault",
+      "file": "missing/T/198938-teenage-mutant-ninja-turtles-dimension-x-assault.json"
     },
     {
       "igdb_id": 345542,
@@ -365826,6 +365951,11 @@
       "igdb_id": 143034,
       "game_name": "Tempest",
       "file": "missing/T/143034-tempest.json"
+    },
+    {
+      "igdb_id": 198939,
+      "game_name": "Tempest",
+      "file": "missing/T/198939-tempest.json"
     },
     {
       "igdb_id": 51181,
@@ -385758,6 +385888,11 @@
       "file": "missing/T/400243-the-tenth-minute.json"
     },
     {
+      "igdb_id": 198940,
+      "game_name": "The Terminator",
+      "file": "missing/T/198940-the-terminator.json"
+    },
+    {
       "igdb_id": 4372,
       "game_name": "The Terminator",
       "file": "missing/T/4372-the-terminator.json"
@@ -393248,6 +393383,11 @@
       "file": "missing/T/175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json"
     },
     {
+      "igdb_id": 198942,
+      "game_name": "Tim Burton's The Nightmare Before Christmas",
+      "file": "missing/T/198942-tim-burtons-the-nightmare-before-christmas.json"
+    },
+    {
       "igdb_id": 150126,
       "game_name": "Tim's Birthday",
       "file": "missing/T/150126-tims-birthday.json"
@@ -394348,6 +394488,11 @@
       "file": "missing/T/170024-tiny-tinas-wonderlands-next-level-edition.json"
     },
     {
+      "igdb_id": 198943,
+      "game_name": "Tiny Toon Adventures",
+      "file": "missing/T/198943-tiny-toon-adventures.json"
+    },
+    {
       "igdb_id": 8050,
       "game_name": "Tiny Toon Adventures: Buster Busts Loose!",
       "file": "missing/T/8050-tiny-toon-adventures-buster-busts-loose.json"
@@ -394521,6 +394666,11 @@
       "igdb_id": 135801,
       "game_name": "Tit Tap Tingle",
       "file": "missing/T/135801-tit-tap-tingle.json"
+    },
+    {
+      "igdb_id": 198944,
+      "game_name": "Titan A.E.",
+      "file": "missing/T/198944-titan-a-e.json"
     },
     {
       "igdb_id": 11460,
@@ -402308,6 +402458,11 @@
       "file": "missing/T/315069-transformers-g1-awakening.json"
     },
     {
+      "igdb_id": 198946,
+      "game_name": "Transformers Generation 2",
+      "file": "missing/T/198946-transformers-generation-2.json"
+    },
+    {
       "igdb_id": 137611,
       "game_name": "Transformers Rescue Bots: Race to the Rescue",
       "file": "missing/T/137611-transformers-rescue-bots-race-to-the-rescue.json"
@@ -405811,6 +405966,11 @@
       "igdb_id": 317614,
       "game_name": "Tuff Stuff",
       "file": "missing/T/317614-tuff-stuff.json"
+    },
+    {
+      "igdb_id": 198947,
+      "game_name": "Tug of Words",
+      "file": "missing/T/198947-tug-of-words.json"
     },
     {
       "igdb_id": 372023,
@@ -411006,6 +411166,21 @@
       "igdb_id": 359525,
       "game_name": "Universal Hologram",
       "file": "missing/U/359525-universal-hologram.json"
+    },
+    {
+      "igdb_id": 198948,
+      "game_name": "Universal Monsters Dracula",
+      "file": "missing/U/198948-universal-monsters-dracula.json"
+    },
+    {
+      "igdb_id": 198949,
+      "game_name": "Universal Monsters the Mummy",
+      "file": "missing/U/198949-universal-monsters-the-mummy.json"
+    },
+    {
+      "igdb_id": 198950,
+      "game_name": "Universal Monsters the Wolf Man",
+      "file": "missing/U/198950-universal-monsters-the-wolf-man.json"
     },
     {
       "igdb_id": 91955,
@@ -416268,6 +416443,11 @@
       "file": "missing/V/12871-vindicators.json"
     },
     {
+      "igdb_id": 198951,
+      "game_name": "Vindicators",
+      "file": "missing/V/198951-vindicators.json"
+    },
+    {
       "igdb_id": 88229,
       "game_name": "Vindicta Arcade",
       "file": "missing/V/88229-vindicta-arcade.json"
@@ -418676,6 +418856,11 @@
       "igdb_id": 199017,
       "game_name": "VR Troopers",
       "file": "missing/V/199017-vr-troopers.json"
+    },
+    {
+      "igdb_id": 198952,
+      "game_name": "VR Troopers: When Worlds Collide",
+      "file": "missing/V/198952-vr-troopers-when-worlds-collide.json"
     },
     {
       "igdb_id": 162847,
@@ -422843,6 +423028,11 @@
       "file": "missing/W/381694-wayfinder-episode-one.json"
     },
     {
+      "igdb_id": 198953,
+      "game_name": "Wayne Gretzky and Brett Hull Shootout Hockey",
+      "file": "missing/W/198953-wayne-gretzky-and-brett-hull-shootout-hockey.json"
+    },
+    {
       "igdb_id": 15509,
       "game_name": "Wayne Gretzky Hockey",
       "file": "missing/W/15509-wayne-gretzky-hockey.json"
@@ -422861,6 +423051,11 @@
       "igdb_id": 3630,
       "game_name": "Wayne Gretzky's 3D Hockey",
       "file": "missing/W/3630-wayne-gretzkys-3d-hockey.json"
+    },
+    {
+      "igdb_id": 198954,
+      "game_name": "Wayne's World",
+      "file": "missing/W/198954-waynes-world.json"
     },
     {
       "igdb_id": 323521,
@@ -422913,14 +423108,49 @@
       "file": "missing/W/259058-wcp-word-girlfriend.json"
     },
     {
+      "igdb_id": 198955,
+      "game_name": "WCW Diamond Dallas Page",
+      "file": "missing/W/198955-wcw-diamond-dallas-page.json"
+    },
+    {
+      "igdb_id": 198958,
+      "game_name": "WCW Hollywood Hulk Hogan Power Fighter",
+      "file": "missing/W/198958-wcw-hollywood-hulk-hogan-power-fighter.json"
+    },
+    {
+      "igdb_id": 198961,
+      "game_name": "WCW Nitro Giant",
+      "file": "missing/W/198961-wcw-nitro-giant.json"
+    },
+    {
+      "igdb_id": 198959,
+      "game_name": "WCW Nitro Goldberg Smash & Bash Game",
+      "file": "missing/W/198959-wcw-nitro-goldberg-smash-and-bash-game.json"
+    },
+    {
       "igdb_id": 217969,
       "game_name": "WCW Nitro Hollywood Hogan",
       "file": "missing/W/217969-wcw-nitro-hollywood-hogan.json"
     },
     {
+      "igdb_id": 198960,
+      "game_name": "WCW Nitro Sting",
+      "file": "missing/W/198960-wcw-nitro-sting.json"
+    },
+    {
+      "igdb_id": 198962,
+      "game_name": "WCW nWo Thunder",
+      "file": "missing/W/198962-wcw-nwo-thunder.json"
+    },
+    {
       "igdb_id": 3635,
       "game_name": "WCW vs. nWo: World Tour",
       "file": "missing/W/3635-wcw-vs-nwo-world-tour.json"
+    },
+    {
+      "igdb_id": 198963,
+      "game_name": "WCW Whiplash",
+      "file": "missing/W/198963-wcw-whiplash.json"
     },
     {
       "igdb_id": 48095,
@@ -424513,6 +424743,11 @@
       "file": "missing/W/194569-wheel-of-fortune.json"
     },
     {
+      "igdb_id": 198964,
+      "game_name": "Wheel of Fortune",
+      "file": "missing/W/198964-wheel-of-fortune.json"
+    },
+    {
       "igdb_id": 220131,
       "game_name": "Wheel of Fortune",
       "file": "missing/W/220131-wheel-of-fortune.json"
@@ -424526,6 +424761,21 @@
       "igdb_id": 70959,
       "game_name": "Wheel of Fortune",
       "file": "missing/W/70959-wheel-of-fortune.json"
+    },
+    {
+      "igdb_id": 198965,
+      "game_name": "Wheel of Fortune Cartridge #1",
+      "file": "missing/W/198965-wheel-of-fortune-cartridge-1.json"
+    },
+    {
+      "igdb_id": 198966,
+      "game_name": "Wheel of Fortune Cartridge #2",
+      "file": "missing/W/198966-wheel-of-fortune-cartridge-2.json"
+    },
+    {
+      "igdb_id": 198967,
+      "game_name": "Wheel of Fortune Cartridge #3",
+      "file": "missing/W/198967-wheel-of-fortune-cartridge-3.json"
     },
     {
       "igdb_id": 100898,
