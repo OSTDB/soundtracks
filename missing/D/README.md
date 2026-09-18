@@ -2345,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dickland: Racing | 259064 | [259064-dickland-racing.json](./259064-dickland-racing.json) |
 | Dickme Dicki | 202353 | [202353-dickme-dicki.json](./202353-dickme-dicki.json) |
 | Dicy Chess | 299148 | [299148-dicy-chess.json](./299148-dicy-chess.json) |
+| Did You Scared | 195128 | [195128-did-you-scared.json](./195128-did-you-scared.json) |
 | Did You See That? | 416647 | [416647-did-you-see-that.json](./416647-did-you-see-that.json) |
 | Diddy Kong Racing | 2723 | [2723-diddy-kong-racing.json](./2723-diddy-kong-racing.json) |
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
@@ -2357,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die CD-ROM mit der Maus 2 | 250610 | [250610-die-cd-rom-mit-der-maus-2.json](./250610-die-cd-rom-mit-der-maus-2.json) |
 | Die CD-ROM mit der Maus 3 | 250611 | [250611-die-cd-rom-mit-der-maus-3.json](./250611-die-cd-rom-mit-der-maus-3.json) |
 | Die Cook | 277024 | [277024-die-cook.json](./277024-die-cook.json) |
+| Die Die Die and Try | 195116 | [195116-die-die-die-and-try.json](./195116-die-die-die-and-try.json) |
 | Die DillyBillys | 398477 | [398477-die-dillybillys.json](./398477-die-dillybillys.json) |
 | Die drei Freunde von der Reitschule | 291073 | [291073-die-drei-freunde-von-der-reitschule.json](./291073-die-drei-freunde-von-der-reitschule.json) |
 | Die drei???: Plan der Chamäleonbande | 302665 | [302665-die-drei-plan-der-chamaleonbande.json](./302665-die-drei-plan-der-chamaleonbande.json) |
@@ -5172,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustino 64 | 295809 | [295809-dustino-64.json](./295809-dustino-64.json) |
 | Dustland | 260393 | [260393-dustland.json](./260393-dustland.json) |
 | Dustland Delivery | 302379 | [302379-dustland-delivery.json](./302379-dustland-delivery.json) |
+| Dustland Rider | 195119 | [195119-dustland-rider.json](./195119-dustland-rider.json) |
 | Dustnet | 117904 | [117904-dustnet.json](./117904-dustnet.json) |
 | Dustopia | 295810 | [295810-dustopia.json](./295810-dustopia.json) |
 | Dusttale: The Genocide's End | 362333 | [362333-dusttale-the-genocides-end.json](./362333-dusttale-the-genocides-end.json) |
