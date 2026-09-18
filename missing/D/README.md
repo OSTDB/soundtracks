@@ -3340,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pray to Satan | 89953 | [89953-dont-pray-to-satan.json](./89953-dont-pray-to-satan.json) |
 | Don't Push Your Luck | 400304 | [400304-dont-push-your-luck.json](./400304-dont-push-your-luck.json) |
 | Don't Screw Up! | 233636 | [233636-dont-screw-up.json](./233636-dont-screw-up.json) |
+| Don't Shit on My #!$@& Roof | 216308 | [216308-dont-shit-on-my-and-roof.json](./216308-dont-shit-on-my-and-roof.json) |
 | Don't Shoot the Puppy | 136454 | [136454-dont-shoot-the-puppy.json](./136454-dont-shoot-the-puppy.json) |
 | Don’t Sleep with the Fishes | 403674 | [403674-don-t-sleep-with-the-fishes.json](./403674-don-t-sleep-with-the-fishes.json) |
 | Don't Stand Out | 90134 | [90134-dont-stand-out.json](./90134-dont-stand-out.json) |
@@ -4011,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Puncher | 332997 | [332997-dragon-puncher.json](./332997-dragon-puncher.json) |
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
 | Dragon Quest III: The Seeds of Salvation | 1814 | [1814-dragon-quest-iii-the-seeds-of-salvation.json](./1814-dragon-quest-iii-the-seeds-of-salvation.json) |
+| Dragon Quest IV: Chapters of the Chosen | 216304 | [216304-dragon-quest-iv-chapters-of-the-chosen.json](./216304-dragon-quest-iv-chapters-of-the-chosen.json) |
 | Dragon Quest IV: Michibikareshi Mono-tachi | 271211 | [271211-dragon-quest-iv-michibikareshi-mono-tachi.json](./271211-dragon-quest-iv-michibikareshi-mono-tachi.json) |
 | Dragon Quest Keshi Keshi | 194015 | [194015-dragon-quest-keshi-keshi.json](./194015-dragon-quest-keshi-keshi.json) |
 | Dragon Quest Monster Super Light | 80598 | [80598-dragon-quest-monster-super-light.json](./80598-dragon-quest-monster-super-light.json) |
