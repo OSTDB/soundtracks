@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguins vs. Bugs | 122402 | [122402-penguins-vs-bugs.json](./122402-penguins-vs-bugs.json) |
 | Pengwyn | 13745 | [13745-pengwyn.json](./13745-pengwyn.json) |
 | Penis Simulator | 403024 | [403024-penis-simulator.json](./403024-penis-simulator.json) |
+| Penitence | 201684 | [201684-penitence.json](./201684-penitence.json) |
 | Penkura | 110860 | [110860-penkura.json](./110860-penkura.json) |
 | Penky | 267937 | [267937-penky.json](./267937-penky.json) |
 | Pennies 12 | 393636 | [393636-pennies-12.json](./393636-pennies-12.json) |
@@ -3933,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker: Children of Revelation | 316082 | [316082-princess-maker-children-of-revelation.json](./316082-princess-maker-children-of-revelation.json) |
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
+| Princess of Seas | 201702 | [201702-princess-of-seas.json](./201702-princess-of-seas.json) |
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
 | Princess Pajama | 316803 | [316803-princess-pajama.json](./316803-princess-pajama.json) |
 | Princess Paladin | 258034 | [258034-princess-paladin.json](./258034-princess-paladin.json) |
