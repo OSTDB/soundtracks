@@ -1095,6 +1095,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lets Play Bingo | 87271 | [87271-lets-play-bingo.json](./87271-lets-play-bingo.json) |
 | Letter Boxed | 296097 | [296097-letter-boxed.json](./296097-letter-boxed.json) |
 | Letter Bunny | 304202 | [304202-letter-bunny.json](./304202-letter-bunny.json) |
+| Letter Factory | 230383 | [230383-letter-factory.json](./230383-letter-factory.json) |
+| Letter Factory Adventures: The Rainforest | 230385 | [230385-letter-factory-adventures-the-rainforest.json](./230385-letter-factory-adventures-the-rainforest.json) |
 | Letter Fall: Swipe Letters | 233105 | [233105-letter-fall-swipe-letters.json](./233105-letter-fall-swipe-letters.json) |
 | Letter Lost | 343275 | [343275-letter-lost.json](./343275-letter-lost.json) |
 | Letter Quest: Grimm's Journey | 17942 | [17942-letter-quest-grimms-journey.json](./17942-letter-quest-grimms-journey.json) |
