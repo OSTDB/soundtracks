@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kameo: Elements of Power | 7029 | [7029-kameo-elements-of-power.json](./7029-kameo-elements-of-power.json) |
 | Kami and Miko | 370148 | [370148-kami-and-miko.json](./370148-kami-and-miko.json) |
 | Kami Kamera | 341881 | [341881-kami-kamera.json](./341881-kami-kamera.json) |
+| Kami Mahou | 188509 | [188509-kami-mahou.json](./188509-kami-mahou.json) |
 | Kami no Me no Aeon: Zenpen | 341326 | [341326-kami-no-me-no-aeon-zenpen.json](./341326-kami-no-me-no-aeon-zenpen.json) |
 | Kami Quest: Enter the Imagynasium | 361762 | [361762-kami-quest-enter-the-imagynasium.json](./361762-kami-quest-enter-the-imagynasium.json) |
 | Kami-sama no Shippo: Etogami-sama-tachi no Ongaeshi | 194608 | [194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json](./194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json) |
@@ -175,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamitsubaki City Ensemble | 273635 | [273635-kamitsubaki-city-ensemble.json](./273635-kamitsubaki-city-ensemble.json) |
 | Kamitsubaki City Virtual Reality | 328261 | [328261-kamitsubaki-city-virtual-reality.json](./328261-kamitsubaki-city-virtual-reality.json) |
 | Kamiwaza Wanda | 222531 | [222531-kamiwaza-wanda.json](./222531-kamiwaza-wanda.json) |
+| KamiYaba: Destiny on a Dicey Deadline | 188510 | [188510-kamiyaba-destiny-on-a-dicey-deadline.json](./188510-kamiyaba-destiny-on-a-dicey-deadline.json) |
 | Kamla | 266813 | [266813-kamla.json](./266813-kamla.json) |
 | Kampf dem Terror | 98977 | [98977-kampf-dem-terror.json](./98977-kampf-dem-terror.json) |
 | Kana | 303607 | [303607-kana.json](./303607-kana.json) |
