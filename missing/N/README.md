@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netronian Chaos | 198355 | [198355-netronian-chaos.json](./198355-netronian-chaos.json) |
 | Netspectre | 211225 | [211225-netspectre.json](./211225-netspectre.json) |
 | Netto de Tennis | 58169 | [58169-netto-de-tennis.json](./58169-netto-de-tennis.json) |
+| Netty | 181211 | [181211-netty.json](./181211-netty.json) |
 | NetWalk | 283745 | [283745-netwalk.json](./283745-netwalk.json) |
 | NetWits | 57655 | [57655-netwits.json](./57655-netwits.json) |
 | Network | 147404 | [147404-network.json](./147404-network.json) |
