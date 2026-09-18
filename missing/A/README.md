@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
+| A Tale of Paper: Refolded - Digital Deluxe Edition | 214055 | [214055-a-tale-of-paper-refolded-digital-deluxe-edition.json](./214055-a-tale-of-paper-refolded-digital-deluxe-edition.json) |
 | A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
 | A Thief's Legacy | 52562 | [52562-a-thiefs-legacy.json](./52562-a-thiefs-legacy.json) |
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
@@ -625,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Bruce | 141228 | [141228-adventures-of-bruce.json](./141228-adventures-of-bruce.json) |
+| Adventures of DaKoo the Dragon | 214026 | [214026-adventures-of-dakoo-the-dragon.json](./214026-adventures-of-dakoo-the-dragon.json) |
 | Adventures of Deliveryman | 267481 | [267481-adventures-of-deliveryman.json](./267481-adventures-of-deliveryman.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
@@ -1610,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanatsu: Perfect Edition | 297063 | [297063-amanatsu-perfect-edition.json](./297063-amanatsu-perfect-edition.json) |
 | Amanda Stories | 262405 | [262405-amanda-stories.json](./262405-amanda-stories.json) |
 | Amanda the Adventurer 2 | 272840 | [272840-amanda-the-adventurer-2.json](./272840-amanda-the-adventurer-2.json) |
+| Amanda's Magic Book | 214019 | [214019-amandas-magic-book.json](./214019-amandas-magic-book.json) |
 | Amanda's Magic Book 11: Fractured Reflections | 356767 | [356767-amandas-magic-book-11-fractured-reflections.json](./356767-amandas-magic-book-11-fractured-reflections.json) |
 | Amanda's Magic Book 5: Hansel and Gretel | 237070 | [237070-amandas-magic-book-5-hansel-and-gretel.json](./237070-amandas-magic-book-5-hansel-and-gretel.json) |
 | Amanda's Sticker Book 2: Amazing Wldlife | 115704 | [115704-amandas-sticker-book-2-amazing-wldlife.json](./115704-amandas-sticker-book-2-amazing-wldlife.json) |
@@ -1781,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amid Evil: Champion Edition | 263589 | [263589-amid-evil-champion-edition.json](./263589-amid-evil-champion-edition.json) |
 | Amid the Grid | 394824 | [394824-amid-the-grid.json](./394824-amid-the-grid.json) |
 | Amida | 7755 | [7755-amida.json](./7755-amida.json) |
+| Amidakuji Knight | 214024 | [214024-amidakuji-knight.json](./214024-amidakuji-knight.json) |
 | Amidar | 11116 | [11116-amidar.json](./11116-amidar.json) |
 | Amidar | 304189 | [304189-amidar.json](./304189-amidar.json) |
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
@@ -2078,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Refresh | 357348 | [357348-angry-birds-refresh.json](./357348-angry-birds-refresh.json) |
 | Angry Birds Seasons HD | 102139 | [102139-angry-birds-seasons-hd.json](./102139-angry-birds-seasons-hd.json) |
 | Angry Birds Star Wars II | 19272 | [19272-angry-birds-star-wars-ii.json](./19272-angry-birds-star-wars-ii.json) |
+| Angry Birds World Tour | 214040 | [214040-angry-birds-world-tour.json](./214040-angry-birds-world-tour.json) |
 | Angry Brainless Bovines | 140607 | [140607-angry-brainless-bovines.json](./140607-angry-brainless-bovines.json) |
 | Angry Bulls | 209706 | [209706-angry-bulls.json](./209706-angry-bulls.json) |
 | Angry Bunnies | 62200 | [62200-angry-bunnies.json](./62200-angry-bunnies.json) |
@@ -3022,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Black | 356646 | [356646-archery-black.json](./356646-archery-black.json) |
 | Archery Champion Bowman | 87928 | [87928-archery-champion-bowman.json](./87928-archery-champion-bowman.json) |
 | Archery Kings VR | 89259 | [89259-archery-kings-vr.json](./89259-archery-kings-vr.json) |
+| Archery Land | 214036 | [214036-archery-land.json](./214036-archery-land.json) |
 | Archery Legend | 319942 | [319942-archery-legend.json](./319942-archery-legend.json) |
 | Archery Physics Objects Destruction Apple shooter | 100824 | [100824-archery-physics-objects-destruction-apple-shooter.json](./100824-archery-physics-objects-destruction-apple-shooter.json) |
 | Archery Simulator | 217379 | [217379-archery-simulator.json](./217379-archery-simulator.json) |
@@ -3368,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrowmania | 284355 | [284355-arrowmania.json](./284355-arrowmania.json) |
 | ArrowMongers | 240808 | [240808-arrowmongers.json](./240808-arrowmongers.json) |
 | Ars Mechanica | 382198 | [382198-ars-mechanica.json](./382198-ars-mechanica.json) |
+| Ars Notoria | 214014 | [214014-ars-notoria.json](./214014-ars-notoria.json) |
 | Ars Vox Arcana | 339941 | [339941-ars-vox-arcana.json](./339941-ars-vox-arcana.json) |
 | ArsDoom | 180260 | [180260-arsdoom.json](./180260-arsdoom.json) |
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
@@ -3488,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascending Madness | 96706 | [96706-ascending-madness.json](./96706-ascending-madness.json) |
 | Ascending Pinball | 26684 | [26684-ascending-pinball.json](./26684-ascending-pinball.json) |
 | Ascending: Dojo | 170523 | [170523-ascending-dojo.json](./170523-ascending-dojo.json) |
+| Ascendshaft | 214060 | [214060-ascendshaft.json](./214060-ascendshaft.json) |
 | Ascension | 95408 | [95408-ascension.json](./95408-ascension.json) |
 | Ascension: The Immortal Alchemist | 318973 | [318973-ascension-the-immortal-alchemist.json](./318973-ascension-the-immortal-alchemist.json) |
 | Ascent | 330540 | [330540-ascent.json](./330540-ascent.json) |
@@ -3519,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asgore Runs Over Dess: The Game | 362905 | [362905-asgore-runs-over-dess-the-game.json](./362905-asgore-runs-over-dess-the-game.json) |
 | Ash | 127264 | [127264-ash.json](./127264-ash.json) |
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
+| Ash Battle | 214048 | [214048-ash-battle.json](./214048-ash-battle.json) |
 | Ash of Gods: Arena | 133417 | [133417-ash-of-gods-arena.json](./133417-ash-of-gods-arena.json) |
 | Ash of Gods: Fan Edition | 257095 | [257095-ash-of-gods-fan-edition.json](./257095-ash-of-gods-fan-edition.json) |
 | Ash of Gods: Redemption | 28006 | [28006-ash-of-gods-redemption.json](./28006-ash-of-gods-redemption.json) |
@@ -4225,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automaton | 266852 | [266852-automaton.json](./266852-automaton.json) |
 | Automaton Heart | 317850 | [317850-automaton-heart.json](./317850-automaton-heart.json) |
 | Automatonics | 244263 | [244263-automatonics.json](./244263-automatonics.json) |
+| Automatoys | 214025 | [214025-automatoys.json](./214025-automatoys.json) |
 | Automatrain | 217329 | [217329-automatrain.json](./217329-automatrain.json) |
 | Automatum | 105302 | [105302-automatum.json](./105302-automatum.json) |
 | Automobiles and the Eisenhower Hiway System the Game | 111070 | [111070-automobiles-and-the-eisenhower-hiway-system-the-game.json](./111070-automobiles-and-the-eisenhower-hiway-system-the-game.json) |
