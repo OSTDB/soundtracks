@@ -706,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8minSurvival | 304669 | [304669-8minsurvival.json](./304669-8minsurvival.json) |
 | 8th Avenue | 333576 | [333576-8th-avenue.json](./333576-8th-avenue.json) |
 | 8th Baspis | 308925 | [308925-8th-baspis.json](./308925-8th-baspis.json) |
+| 9 Childs Street | 207401 | [207401-9-childs-street.json](./207401-9-childs-street.json) |
 | 9 Classic Card & Board Games: No. 1 | 15584 | [15584-9-classic-card-and-board-games-no-1.json](./15584-9-classic-card-and-board-games-no-1.json) |
 | 9 Clues 2: The Ward | 35265 | [35265-9-clues-2-the-ward.json](./35265-9-clues-2-the-ward.json) |
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
