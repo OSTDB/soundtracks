@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basket Zombie | 282137 | [282137-basket-zombie.json](./282137-basket-zombie.json) |
 | Basketball | 131516 | [131516-basketball.json](./131516-basketball.json) |
 | Basketball | 131531 | [131531-basketball.json](./131531-basketball.json) |
+| Basketball | 191088 | [191088-basketball.json](./191088-basketball.json) |
 | Basketball | 246504 | [246504-basketball.json](./246504-basketball.json) |
 | Basketball | 347704 | [347704-basketball.json](./347704-basketball.json) |
 | Basketball | 5689 | [5689-basketball.json](./5689-basketball.json) |
@@ -3262,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Blaze Maze | 96080 | [96080-blue-blaze-maze.json](./96080-blue-blaze-maze.json) |
 | Blue Blood | 213939 | [213939-blue-blood.json](./213939-blue-blood.json) |
 | Blue Box | 200753 | [200753-blue-box.json](./200753-blue-box.json) |
+| Blue Chips | 191126 | [191126-blue-chips.json](./191126-blue-chips.json) |
 | Blue Cradle: Signifie | 265143 | [265143-blue-cradle-signifie.json](./265143-blue-cradle-signifie.json) |
 | Blue Dragon: Awakened Shadow | 20465 | [20465-blue-dragon-awakened-shadow.json](./20465-blue-dragon-awakened-shadow.json) |
 | Blue Dragon: Shuffle Dungeon | 259863 | [259863-blue-dragon-shuffle-dungeon.json](./259863-blue-dragon-shuffle-dungeon.json) |
@@ -3500,6 +3502,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
 | Bomb Disposal Expert | 68644 | [68644-bomb-disposal-expert.json](./68644-bomb-disposal-expert.json) |
 | Bomb Disposer | 210638 | [210638-bomb-disposer.json](./210638-bomb-disposer.json) |
+| Bomb It | 191087 | [191087-bomb-it.json](./191087-bomb-it.json) |
+| Bomb It 2 | 191097 | [191097-bomb-it-2.json](./191097-bomb-it-2.json) |
+| Bomb It 3 | 191114 | [191114-bomb-it-3.json](./191114-bomb-it-3.json) |
+| Bomb It 4 | 191115 | [191115-bomb-it-4.json](./191115-bomb-it-4.json) |
+| Bomb It 5 | 191116 | [191116-bomb-it-5.json](./191116-bomb-it-5.json) |
 | Bomb It 7 | 387553 | [387553-bomb-it-7.json](./387553-bomb-it-7.json) |
 | Bomb Jack Twin | 39652 | [39652-bomb-jack-twin.json](./39652-bomb-jack-twin.json) |
 | Bomb Kitten | 370788 | [370788-bomb-kitten.json](./370788-bomb-kitten.json) |
