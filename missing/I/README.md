@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Prime | 74289 | [74289-interstellar-prime.json](./74289-interstellar-prime.json) |
 | Interstellar Space: Genesis | 110011 | [110011-interstellar-space-genesis.json](./110011-interstellar-space-genesis.json) |
 | Interstellar Space: Genesis - Terrains Pack | 289473 | [289473-interstellar-space-genesis-terrains-pack.json](./289473-interstellar-space-genesis-terrains-pack.json) |
+| Interstellar Travel Package | 223552 | [223552-interstellar-travel-package.json](./223552-interstellar-travel-package.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
 | Interworlds Academy | 117080 | [117080-interworlds-academy.json](./117080-interworlds-academy.json) |
 | Interwoven Dream | 357811 | [357811-interwoven-dream.json](./357811-interwoven-dream.json) |
