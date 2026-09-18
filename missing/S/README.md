@@ -2594,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Disappearing | 288357 | [288357-shooting-disappearing.json](./288357-shooting-disappearing.json) |
 | Shooting Fever | 64888 | [64888-shooting-fever.json](./64888-shooting-fever.json) |
 | Shooting Filling | 288358 | [288358-shooting-filling.json](./288358-shooting-filling.json) |
+| Shooting Gallery | 218543 | [218543-shooting-gallery.json](./218543-shooting-gallery.json) |
 | Shooting Game Kari | 211718 | [211718-shooting-game-kari.json](./211718-shooting-game-kari.json) |
 | Shooting Master | 366914 | [366914-shooting-master.json](./366914-shooting-master.json) |
 | Shooting Range by Thornbury Software | 84871 | [84871-shooting-range-by-thornbury-software.json](./84871-shooting-range-by-thornbury-software.json) |
@@ -8040,6 +8041,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke of Midnight: Collector's Edition | 54410 | [54410-stroke-of-midnight-collectors-edition.json](./54410-stroke-of-midnight-collectors-edition.json) |
 | Stroke the Cat | 217915 | [217915-stroke-the-cat.json](./217915-stroke-the-cat.json) |
 | Stroke the Fish | 220342 | [220342-stroke-the-fish.json](./220342-stroke-the-fish.json) |
+| Stroke the Hamster | 218563 | [218563-stroke-the-hamster.json](./218563-stroke-the-hamster.json) |
+| Stroke the Hedgehog | 218564 | [218564-stroke-the-hedgehog.json](./218564-stroke-the-hedgehog.json) |
 | Stroke the Tortoise | 220344 | [220344-stroke-the-tortoise.json](./220344-stroke-the-tortoise.json) |
 | Stromberg: Büro ist Krieg | 112274 | [112274-stromberg-buro-ist-krieg.json](./112274-stromberg-buro-ist-krieg.json) |
 | Strong Bad's Cool Game for Attractive People | 9463 | [9463-strong-bads-cool-game-for-attractive-people.json](./9463-strong-bads-cool-game-for-attractive-people.json) |
