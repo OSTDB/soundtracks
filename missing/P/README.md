@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: Chaos Weekend | 416704 | [416704-paranormal-files-chaos-weekend.json](./416704-paranormal-files-chaos-weekend.json) |
 | Paranormal Files: Fatal Flaw - Collector's Edition | 355018 | [355018-paranormal-files-fatal-flaw-collectors-edition.json](./355018-paranormal-files-fatal-flaw-collectors-edition.json) |
 | Paranormal Files: Fellow Traveler | 143017 | [143017-paranormal-files-fellow-traveler.json](./143017-paranormal-files-fellow-traveler.json) |
+| Paranormal Files: Ghost Chapter | 187936 | [187936-paranormal-files-ghost-chapter.json](./187936-paranormal-files-ghost-chapter.json) |
 | Paranormal Files: Ghost Chapter - Collector's Edition | 168857 | [168857-paranormal-files-ghost-chapter-collectors-edition.json](./168857-paranormal-files-ghost-chapter-collectors-edition.json) |
 | Paranormal Files: Sacrifice to Shadows - Collector's Edition | 339788 | [339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json](./339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json) |
 | Paranormal Files: Trials of Worth - Collector's Edition | 272950 | [272950-paranormal-files-trials-of-worth-collectors-edition.json](./272950-paranormal-files-trials-of-worth-collectors-edition.json) |
