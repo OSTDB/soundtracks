@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananas in Pajamas: It's Fun Time | 221980 | [221980-bananas-in-pajamas-its-fun-time.json](./221980-bananas-in-pajamas-its-fun-time.json) |
 | Bananounce | 320974 | [320974-bananounce.json](./320974-bananounce.json) |
 | Banban Isle Rangers | 405584 | [405584-banban-isle-rangers.json](./405584-banban-isle-rangers.json) |
+| Banchou Tactics | 202786 | [202786-banchou-tactics.json](./202786-banchou-tactics.json) |
 | Bancroft Academy | 265412 | [265412-bancroft-academy.json](./265412-bancroft-academy.json) |
 | Band of Monsters | 38950 | [38950-band-of-monsters.json](./38950-band-of-monsters.json) |
 | Band Saga | 60563 | [60563-band-saga.json](./60563-band-saga.json) |
@@ -1652,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Streamer Idler | 392773 | [392773-bee-streamer-idler.json](./392773-bee-streamer-idler.json) |
 | Bee Welcome! | 291595 | [291595-bee-welcome.json](./291595-bee-welcome.json) |
 | Bee-Ball | 40720 | [40720-bee-ball.json](./40720-bee-ball.json) |
+| Bee: The Knight | 202784 | [202784-bee-the-knight.json](./202784-bee-the-knight.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
 | Beecarbonize | 240874 | [240874-beecarbonize.json](./240874-beecarbonize.json) |
 | Beeder's Big Adventure | 417526 | [417526-beeders-big-adventure.json](./417526-beeders-big-adventure.json) |
