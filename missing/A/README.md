@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Frontier: The Crew | 170509 | [170509-ancient-frontier-the-crew.json](./170509-ancient-frontier-the-crew.json) |
 | Ancient Future | 82040 | [82040-ancient-future.json](./82040-ancient-future.json) |
 | Ancient Glory | 129129 | [129129-ancient-glory.json](./129129-ancient-glory.json) |
+| Ancient Guardians: The Dragon | 234203 | [234203-ancient-guardians-the-dragon.json](./234203-ancient-guardians-the-dragon.json) |
 | Ancient Islands | 192031 | [192031-ancient-islands.json](./192031-ancient-islands.json) |
 | Ancient Mahjong | 267370 | [267370-ancient-mahjong.json](./267370-ancient-mahjong.json) |
 | Ancient Military | 392800 | [392800-ancient-military.json](./392800-ancient-military.json) |
@@ -2242,7 +2243,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
 | Anjail! | 407307 | [407307-anjail.json](./407307-anjail.json) |
 | Anjelo's Province | 265702 | [265702-anjelos-province.json](./265702-anjelos-province.json) |
+| Ankh 2: Tutankhamun no Nazo | 234163 | [234163-ankh-2-tutankhamun-no-nazo.json](./234163-ankh-2-tutankhamun-no-nazo.json) |
 | Ankh 3: Battle of the Gods | 25466 | [25466-ankh-3-battle-of-the-gods.json](./25466-ankh-3-battle-of-the-gods.json) |
+| Ankh 3: Ramusesu Dai-ou no Nazo | 234165 | [234165-ankh-3-ramusesu-dai-ou-no-nazo.json](./234165-ankh-3-ramusesu-dai-ou-no-nazo.json) |
 | Ankh: Anniversary Edition | 35651 | [35651-ankh-anniversary-edition.json](./35651-ankh-anniversary-edition.json) |
 | Ankh: Curse of the Scarab King | 21271 | [21271-ankh-curse-of-the-scarab-king.json](./21271-ankh-curse-of-the-scarab-king.json) |
 | Ankhet | 213958 | [213958-ankhet.json](./213958-ankhet.json) |
@@ -3157,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arlcoco: The One Winged Princess Pet | 82774 | [82774-arlcoco-the-one-winged-princess-pet.json](./82774-arlcoco-the-one-winged-princess-pet.json) |
 | Arlyeh Center for Heart Diseases | 271218 | [271218-arlyeh-center-for-heart-diseases.json](./271218-arlyeh-center-for-heart-diseases.json) |
 | Arm Joe | 130876 | [130876-arm-joe.json](./130876-arm-joe.json) |
+| Arma 3 Creator DLC: S.O.G. Prairie Fire | 234181 | [234181-arma-3-creator-dlc-s-o-g-prairie-fire.json](./234181-arma-3-creator-dlc-s-o-g-prairie-fire.json) |
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
 | Arma 3: Creator DLC - Spearhead 1944 | 259281 | [259281-arma-3-creator-dlc-spearhead-1944.json](./259281-arma-3-creator-dlc-spearhead-1944.json) |
 | Arma 3: Jets | 168910 | [168910-arma-3-jets.json](./168910-arma-3-jets.json) |
@@ -3954,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlus Collaboration Costume Set | 333387 | [333387-atlus-collaboration-costume-set.json](./333387-atlus-collaboration-costume-set.json) |
 | Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
 | Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
+| Atom Fit | 234169 | [234169-atom-fit.json](./234169-atom-fit.json) |
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
 | Atom Smasher | 268574 | [268574-atom-smasher.json](./268574-atom-smasher.json) |
 | Atom Universe | 18180 | [18180-atom-universe.json](./18180-atom-universe.json) |
