@@ -5499,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space BloX | 119042 | [119042-space-blox.json](./119042-space-blox.json) |
 | Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
+| Space Break 2 Head to Head | 214059 | [214059-space-break-2-head-to-head.json](./214059-space-break-2-head-to-head.json) |
 | Space Bross | 348832 | [348832-space-bross.json](./348832-space-bross.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
 | Space Bust-A-Move | 20484 | [20484-space-bust-a-move.json](./20484-space-bust-a-move.json) |
@@ -7614,6 +7615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman World | 87250 | [87250-stickman-world.json](./87250-stickman-world.json) |
 | Stickman World Battle | 287231 | [287231-stickman-world-battle.json](./287231-stickman-world-battle.json) |
 | Stickman Zombie Shooting 3D | 398420 | [398420-stickman-zombie-shooting-3d.json](./398420-stickman-zombie-shooting-3d.json) |
+| Stickman: Kill the Cook | 214056 | [214056-stickman-kill-the-cook.json](./214056-stickman-kill-the-cook.json) |
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
 | StickMUD | 228427 | [228427-stickmud.json](./228427-stickmud.json) |
 | Sticks | 68800 | [68800-sticks.json](./68800-sticks.json) |
@@ -9752,6 +9754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Nation | 228586 | [228586-survival-nation.json](./228586-survival-nation.json) |
 | Survival Nation: Lost Horizon | 259619 | [259619-survival-nation-lost-horizon.json](./259619-survival-nation-lost-horizon.json) |
 | Survival Nexus | 266784 | [266784-survival-nexus.json](./266784-survival-nexus.json) |
+| Survival of Primitive | 214021 | [214021-survival-of-primitive.json](./214021-survival-of-primitive.json) |
 | Survival on a Deserted Island | 265134 | [265134-survival-on-a-deserted-island.json](./265134-survival-on-a-deserted-island.json) |
 | Survival Prototype X | 302354 | [302354-survival-prototype-x.json](./302354-survival-prototype-x.json) |
 | Survival Raft Simulator: Lost at Sea | 282142 | [282142-survival-raft-simulator-lost-at-sea.json](./282142-survival-raft-simulator-lost-at-sea.json) |
