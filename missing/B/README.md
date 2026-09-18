@@ -4028,8 +4028,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BQM: BlockQuest Maker - 2nd DLC: Cyber Century | 237969 | [237969-bqm-blockquest-maker-2nd-dlc-cyber-century.json](./237969-bqm-blockquest-maker-2nd-dlc-cyber-century.json) |
 | BQM: BlockQuest Maker - Remastered | 235208 | [235208-bqm-blockquest-maker-remastered.json](./235208-bqm-blockquest-maker-remastered.json) |
 | Br Br Patapim | 351091 | [351091-br-br-patapim.json](./351091-br-br-patapim.json) |
+| BR1: Infinite | 194433 | [194433-br1-infinite.json](./194433-br1-infinite.json) |
 | Bracket Chain | 279765 | [279765-bracket-chain.json](./279765-bracket-chain.json) |
 | Bracket City | 341031 | [341031-bracket-city.json](./341031-bracket-city.json) |
+| Brad Has A Pain | 194424 | [194424-brad-has-a-pain.json](./194424-brad-has-a-pain.json) |
 | Bradley Trainer | 40272 | [40272-bradley-trainer.json](./40272-bradley-trainer.json) |
 | Bragger's Run | 150610 | [150610-braggers-run.json](./150610-braggers-run.json) |
 | Bragnarok | 275123 | [275123-bragnarok.json](./275123-bragnarok.json) |
@@ -4396,6 +4398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigitte: Ernaehrungs Coach | 269678 | [269678-brigitte-ernaehrungs-coach.json](./269678-brigitte-ernaehrungs-coach.json) |
 | Briks Boss Battle | 374669 | [374669-briks-boss-battle.json](./374669-briks-boss-battle.json) |
 | Briks Head to Head | 187547 | [187547-briks-head-to-head.json](./187547-briks-head-to-head.json) |
+| Briley Witch Chronicles | 194474 | [194474-briley-witch-chronicles.json](./194474-briley-witch-chronicles.json) |
 | Brilliance shines in Zhejiang | 201797 | [201797-brilliance-shines-in-zhejiang.json](./201797-brilliance-shines-in-zhejiang.json) |
 | Brilliant Bob | 19484 | [19484-brilliant-bob.json](./19484-brilliant-bob.json) |
 | Brilliant Jigsaw | 357871 | [357871-brilliant-jigsaw.json](./357871-brilliant-jigsaw.json) |
@@ -4572,6 +4575,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bird | 250395 | [250395-bubble-bird.json](./250395-bubble-bird.json) |
 | Bubble Blobb | 386703 | [386703-bubble-blobb.json](./386703-bubble-blobb.json) |
 | Bubble Blowout | 25704 | [25704-bubble-blowout.json](./25704-bubble-blowout.json) |
+| Bubble Bobble | 194439 | [194439-bubble-bobble.json](./194439-bubble-bobble.json) |
+| Bubble Bobble | 194442 | [194442-bubble-bobble.json](./194442-bubble-bobble.json) |
+| Bubble Bobble | 194443 | [194443-bubble-bobble.json](./194443-bubble-bobble.json) |
 | Bubble Bobble | 194444 | [194444-bubble-bobble.json](./194444-bubble-bobble.json) |
 | Bubble Bobble | 332218 | [332218-bubble-bobble.json](./332218-bubble-bobble.json) |
 | Bubble Bobble | 332221 | [332221-bubble-bobble.json](./332221-bubble-bobble.json) |
