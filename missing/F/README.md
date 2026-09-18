@@ -2419,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Gore | 150156 | [150156-fluffy-gore.json](./150156-fluffy-gore.json) |
 | Fluffy Horde | 107385 | [107385-fluffy-horde.json](./107385-fluffy-horde.json) |
 | Fluffy Horde + Clumsy Rush | 230407 | [230407-fluffy-horde-clumsy-rush.json](./230407-fluffy-horde-clumsy-rush.json) |
+| Fluffy Milo | 195631 | [195631-fluffy-milo.json](./195631-fluffy-milo.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
 | Fluffy Showdown | 360679 | [360679-fluffy-showdown.json](./360679-fluffy-showdown.json) |
 | Fluffy Smash | 219791 | [219791-fluffy-smash.json](./219791-fluffy-smash.json) |
@@ -3559,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Ashes | 224243 | [224243-from-the-ashes.json](./224243-from-the-ashes.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
 | From the Streets to the Script: A Carabanchel Story | 238500 | [238500-from-the-streets-to-the-script-a-carabanchel-story.json](./238500-from-the-streets-to-the-script-a-carabanchel-story.json) |
+| From the Town of Gleming | 195630 | [195630-from-the-town-of-gleming.json](./195630-from-the-town-of-gleming.json) |
 | Fromage | 222913 | [222913-fromage.json](./222913-fromage.json) |
 | Fromage | 326059 | [326059-fromage.json](./326059-fromage.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
