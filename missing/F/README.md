@@ -1942,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishlets | 278522 | [278522-fishlets.json](./278522-fishlets.json) |
 | Fishlets: Natural Decor Pack | 313679 | [313679-fishlets-natural-decor-pack.json](./313679-fishlets-natural-decor-pack.json) |
 | Fishman's Last Stand | 264601 | [264601-fishmans-last-stand.json](./264601-fishmans-last-stand.json) |
+| Fishmonger | 185539 | [185539-fishmonger.json](./185539-fishmonger.json) |
 | FishOmatic | 407332 | [407332-fishomatic.json](./407332-fishomatic.json) |
 | FishOnMC | 349950 | [349950-fishonmc.json](./349950-fishonmc.json) |
 | Fishos | 180763 | [180763-fishos.json](./180763-fishos.json) |
