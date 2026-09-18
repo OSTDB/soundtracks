@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innocent Critters | 238723 | [238723-innocent-critters.json](./238723-innocent-critters.json) |
 | Innocent Girl | 169369 | [169369-innocent-girl.json](./169369-innocent-girl.json) |
 | Innocent Tour | 270756 | [270756-innocent-tour.json](./270756-innocent-tour.json) |
+| Innovazione Vostra | 227919 | [227919-innovazione-vostra.json](./227919-innovazione-vostra.json) |
 | Innsmouth Corporate Plaza | 276476 | [276476-innsmouth-corporate-plaza.json](./276476-innsmouth-corporate-plaza.json) |
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
 | Inorikaze | 113724 | [113724-inorikaze.json](./113724-inorikaze.json) |
