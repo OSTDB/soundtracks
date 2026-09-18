@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabal 2 | 12132 | [12132-cabal-2.json](./12132-cabal-2.json) |
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
 | Cabbage Patch Kids: The Patch Puppy Rescue | 49363 | [49363-cabbage-patch-kids-the-patch-puppy-rescue.json](./49363-cabbage-patch-kids-the-patch-puppy-rescue.json) |
+| Cabbagers | 226277 | [226277-cabbagers.json](./226277-cabbagers.json) |
 | Cabbie! | 327213 | [327213-cabbie.json](./327213-cabbie.json) |
 | Cabela's 4x4 Off-Road Adventure | 94238 | [94238-cabelas-4x4-off-road-adventure.json](./94238-cabelas-4x4-off-road-adventure.json) |
 | Cabela's 4x4 Off-Road Adventure 2 | 92531 | [92531-cabelas-4x4-off-road-adventure-2.json](./92531-cabelas-4x4-off-road-adventure-2.json) |
@@ -84,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesars Palace II | 45296 | [45296-caesars-palace-ii.json](./45296-caesars-palace-ii.json) |
 | Caesars Palace II | 49910 | [49910-caesars-palace-ii.json](./49910-caesars-palace-ii.json) |
 | Caesars Palace: Black Jack | 218438 | [218438-caesars-palace-black-jack.json](./218438-caesars-palace-black-jack.json) |
+| Café 0: The Sleeping Beast - Remastered | 226278 | [226278-cafe-0-the-sleeping-beast-remastered.json](./226278-cafe-0-the-sleeping-beast-remastered.json) |
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
 | Cafe Dreamland | 333109 | [333109-cafe-dreamland.json](./333109-cafe-dreamland.json) |
@@ -249,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cambo: Webbed Fist | 307126 | [307126-cambo-webbed-fist.json](./307126-cambo-webbed-fist.json) |
 | Cambria | 344349 | [344349-cambria.json](./344349-cambria.json) |
 | Cambrian Crawl | 404981 | [404981-cambrian-crawl.json](./404981-cambrian-crawl.json) |
+| Cambrian Dawn | 226280 | [226280-cambrian-dawn.json](./226280-cambrian-dawn.json) |
 | Camega | 202808 | [202808-camega.json](./202808-camega.json) |
 | Camelbirds | 318978 | [318978-camelbirds.json](./318978-camelbirds.json) |
 | Camelot | 141242 | [141242-camelot.json](./141242-camelot.json) |
@@ -384,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cantaloupe Chronicle | 327389 | [327389-cantaloupe-chronicle.json](./327389-cantaloupe-chronicle.json) |
 | Cantarella: Dominion of Qualia | 386219 | [386219-cantarella-dominion-of-qualia.json](./386219-cantarella-dominion-of-qualia.json) |
 | Canter Crossing | 276691 | [276691-canter-crossing.json](./276691-canter-crossing.json) |
+| Canterz Paranormies 2 | 226281 | [226281-canterz-paranormies-2.json](./226281-canterz-paranormies-2.json) |
 | Cantrip Cafe | 113692 | [113692-cantrip-cafe.json](./113692-cantrip-cafe.json) |
 | Canvas of Kings | 259576 | [259576-canvas-of-kings.json](./259576-canvas-of-kings.json) |
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
@@ -536,12 +540,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator VR | 119714 | [119714-car-mechanic-simulator-vr.json](./119714-car-mechanic-simulator-vr.json) |
 | Car Mechanic Simulator: Pocket Edition 2 | 196825 | [196825-car-mechanic-simulator-pocket-edition-2.json](./196825-car-mechanic-simulator-pocket-edition-2.json) |
 | Car on a Stick | 123623 | [123623-car-on-a-stick.json](./123623-car-on-a-stick.json) |
+| Car Parking | 226295 | [226295-car-parking.json](./226295-car-parking.json) |
 | Car Parking - Test Drive and Parking Simulator | 88298 | [88298-car-parking-test-drive-and-parking-simulator.json](./88298-car-parking-test-drive-and-parking-simulator.json) |
 | Car Parking 2 | 232448 | [232448-car-parking-2.json](./232448-car-parking-2.json) |
 | Car Parking Game 3D - Real City Driving School | 83585 | [83585-car-parking-game-3d-real-city-driving-school.json](./83585-car-parking-game-3d-real-city-driving-school.json) |
 | Car Parking Multiplayer | 232563 | [232563-car-parking-multiplayer.json](./232563-car-parking-multiplayer.json) |
 | Car Parking Real Driving Sim | 274976 | [274976-car-parking-real-driving-sim.json](./274976-car-parking-real-driving-sim.json) |
 | Car Parking Simulator 3D Game | 105929 | [105929-car-parking-simulator-3d-game.json](./105929-car-parking-simulator-3d-game.json) |
+| Car Parking: New Cars | 226296 | [226296-car-parking-new-cars.json](./226296-car-parking-new-cars.json) |
 | Car Parkour Together | 381147 | [381147-car-parkour-together.json](./381147-car-parkour-together.json) |
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
 | Car Polo | 19371 | [19371-car-polo.json](./19371-car-polo.json) |
@@ -618,12 +624,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard EX | 115018 | [115018-cardfight-vanguard-ex.json](./115018-cardfight-vanguard-ex.json) |
 | Cardfight!! Vanguard Zero | 124770 | [124770-cardfight-vanguard-zero.json](./124770-cardfight-vanguard-zero.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
+| Cardfight!! Vanguard: Dear Days - Character Set 01: Aichi Sendou | 226282 | [226282-cardfight-vanguard-dear-days-character-set-01-aichi-sendou.json](./226282-cardfight-vanguard-dear-days-character-set-01-aichi-sendou.json) |
+| Cardfight!! Vanguard: Dear Days - Character Set 02: Toshiki Kai | 226283 | [226283-cardfight-vanguard-dear-days-character-set-02-toshiki-kai.json](./226283-cardfight-vanguard-dear-days-character-set-02-toshiki-kai.json) |
+| Cardfight!! Vanguard: Dear Days - Character Set 03: Ren Suzugamori | 226284 | [226284-cardfight-vanguard-dear-days-character-set-03-ren-suzugamori.json](./226284-cardfight-vanguard-dear-days-character-set-03-ren-suzugamori.json) |
+| Cardfight!! Vanguard: Dear Days - Rare Card Set 01 D-BT01: Genesis of the Five Greats | 226285 | [226285-cardfight-vanguard-dear-days-rare-card-set-01-d-bt01-genesis-of-the-five-greats.json](./226285-cardfight-vanguard-dear-days-rare-card-set-01-d-bt01-genesis-of-the-five-greats.json) |
+| Cardfight!! Vanguard: Dear Days - Rare Card Set 02 D-BT02: A Brush with the Legends | 226286 | [226286-cardfight-vanguard-dear-days-rare-card-set-02-d-bt02-a-brush-with-the-legends.json](./226286-cardfight-vanguard-dear-days-rare-card-set-02-d-bt02-a-brush-with-the-legends.json) |
+| Cardfight!! Vanguard: Dear Days - Rare Card Set 03 D-BT03: Advance of Intertwined Stars | 226287 | [226287-cardfight-vanguard-dear-days-rare-card-set-03-d-bt03-advance-of-intertwined-stars.json](./226287-cardfight-vanguard-dear-days-rare-card-set-03-d-bt03-advance-of-intertwined-stars.json) |
+| Cardfight!! Vanguard: Dear Days - Rare Card Set 04 D-BT04: Awakening of Chakrabarthi | 226288 | [226288-cardfight-vanguard-dear-days-rare-card-set-04-d-bt04-awakening-of-chakrabarthi.json](./226288-cardfight-vanguard-dear-days-rare-card-set-04-d-bt04-awakening-of-chakrabarthi.json) |
+| Cardfight!! Vanguard: Dear Days - Rare Card Set 05 D-BT05: Triumphant Return of the Brave Heroes | 226289 | [226289-cardfight-vanguard-dear-days-rare-card-set-05-d-bt05-triumphant-return-of-the-brave-heroes.json](./226289-cardfight-vanguard-dear-days-rare-card-set-05-d-bt05-triumphant-return-of-the-brave-heroes.json) |
+| Cardfight!! Vanguard: Dear Days - Rare Card Set 06 D-LBT01: Lyrical Melody | 226290 | [226290-cardfight-vanguard-dear-days-rare-card-set-06-d-lbt01-lyrical-melody.json](./226290-cardfight-vanguard-dear-days-rare-card-set-06-d-lbt01-lyrical-melody.json) |
+| Cardfight!! Vanguard: Dear Days - Rare Card Set 07 D-LBT02: Lyrical Monasterio - It's a New School Term! | 226292 | [226292-cardfight-vanguard-dear-days-rare-card-set-07-d-lbt02-lyrical-monasterio-its-a-new-school-term.json](./226292-cardfight-vanguard-dear-days-rare-card-set-07-d-lbt02-lyrical-monasterio-its-a-new-school-term.json) |
+| Cardfight!! Vanguard: Dear Days - Rare Card Set 08 D-SS01: Festival Collection 2021 | 226291 | [226291-cardfight-vanguard-dear-days-rare-card-set-08-d-ss01-festival-collection-2021.json](./226291-cardfight-vanguard-dear-days-rare-card-set-08-d-ss01-festival-collection-2021.json) |
+| Cardfight!! Vanguard: Dear Days - Rare Card Set 09 D-SS02: Festival Collection 2022 | 226293 | [226293-cardfight-vanguard-dear-days-rare-card-set-09-d-ss02-festival-collection-2022.json](./226293-cardfight-vanguard-dear-days-rare-card-set-09-d-ss02-festival-collection-2022.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.2 DZ-BT05 Omniscient Awakening | 351113 | [351113-cardfight-vanguard-dear-days-2-card-unlock-vol-2-dz-bt05-omniscient-awakening.json](./351113-cardfight-vanguard-dear-days-2-card-unlock-vol-2-dz-bt05-omniscient-awakening.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.6 | 375180 | [375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json](./375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.7 | 375179 | [375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json](./375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.8 | 375178 | [375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json](./375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json) |
 | Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion | 267666 | [267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json](./267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json) |
 | Cardfight!!: Rare Card Set 14 [D-BT09] - Dragontree Invasion | 267441 | [267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json](./267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json) |
+| Cardiac Powder | 226294 | [226294-cardiac-powder.json](./226294-cardiac-powder.json) |
 | Cardinal Arc: Konton no Fuusatsu | 43284 | [43284-cardinal-arc-konton-no-fuusatsu.json](./43284-cardinal-arc-konton-no-fuusatsu.json) |
 | Cardinal Cross | 90169 | [90169-cardinal-cross.json](./90169-cardinal-cross.json) |
 | Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
@@ -718,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carousel | 261887 | [261887-carousel.json](./261887-carousel.json) |
 | Carpark Hero | 404216 | [404216-carpark-hero.json](./404216-carpark-hero.json) |
 | Carpathian Survival | 315263 | [315263-carpathian-survival.json](./315263-carpathian-survival.json) |
+| Carpe Diem Project | 226297 | [226297-carpe-diem-project.json](./226297-carpe-diem-project.json) |
 | Carpe Noctem | 309372 | [309372-carpe-noctem.json](./309372-carpe-noctem.json) |
 | Carpenter Genzo: Robot Empire | 55937 | [55937-carpenter-genzo-robot-empire.json](./55937-carpenter-genzo-robot-empire.json) |
 | Carperation | 163973 | [163973-carperation.json](./163973-carperation.json) |
@@ -772,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Pilots Wanted | 412957 | [412957-cartel-pilots-wanted.json](./412957-cartel-pilots-wanted.json) |
 | Cartel Simulator | 263208 | [263208-cartel-simulator.json](./263208-cartel-simulator.json) |
 | Cartel Smash | 114360 | [114360-cartel-smash.json](./114360-cartel-smash.json) |
+| Cartel Tycoon: Lieutenants Pack - Guerilla | 226298 | [226298-cartel-tycoon-lieutenants-pack-guerilla.json](./226298-cartel-tycoon-lieutenants-pack-guerilla.json) |
 | Cartel Tycoon: Lieutenants Pack - La Familia | 243673 | [243673-cartel-tycoon-lieutenants-pack-la-familia.json](./243673-cartel-tycoon-lieutenants-pack-la-familia.json) |
 | Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
 | Carto | 101448 | [101448-carto.json](./101448-carto.json) |
@@ -985,12 +1006,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat + Dog | 237061 | [237061-cat-dog.json](./237061-cat-dog.json) |
 | Cat 2048 Story | 233530 | [233530-cat-2048-story.json](./233530-cat-2048-story.json) |
 | Cat Adventure 2 | 195799 | [195799-cat-adventure-2.json](./195799-cat-adventure-2.json) |
+| Cat and Can | 226299 | [226299-cat-and-can.json](./226299-cat-and-can.json) |
 | Cat and Shadow and Death's Four Friends | 374070 | [374070-cat-and-shadow-and-deaths-four-friends.json](./374070-cat-and-shadow-and-deaths-four-friends.json) |
 | Cat Apartment | 264135 | [264135-cat-apartment.json](./264135-cat-apartment.json) |
 | Cat Astro Phi | 314672 | [314672-cat-astro-phi.json](./314672-cat-astro-phi.json) |
 | Cat Bait | 310418 | [310418-cat-bait.json](./310418-cat-bait.json) |
 | Cat Ball: Gravity Maze | 273375 | [273375-cat-ball-gravity-maze.json](./273375-cat-ball-gravity-maze.json) |
 | Cat Box Paradox | 185679 | [185679-cat-box-paradox.json](./185679-cat-box-paradox.json) |
+| Cat Break Head to Head | 226315 | [226315-cat-break-head-to-head.json](./226315-cat-break-head-to-head.json) |
 | Cat Burglar | 256835 | [256835-cat-burglar.json](./256835-cat-burglar.json) |
 | Cat Cafe 101 | 243115 | [243115-cat-cafe-101.json](./243115-cat-cafe-101.json) |
 | Cat Cafe Simulator | 301266 | [301266-cat-cafe-simulator.json](./301266-cat-cafe-simulator.json) |
@@ -1336,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrities Hacked: PlushyPixel Photo Pack | 289468 | [289468-celebrities-hacked-plushypixel-photo-pack.json](./289468-celebrities-hacked-plushypixel-photo-pack.json) |
 | Celebrity Life | 157138 | [157138-celebrity-life.json](./157138-celebrity-life.json) |
 | Celebrity Slot Machine | 242550 | [242550-celebrity-slot-machine.json](./242550-celebrity-slot-machine.json) |
+| Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
 | Celestial Crossing | 29983 | [29983-celestial-crossing.json](./29983-celestial-crossing.json) |
@@ -1398,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century of Steam | 260250 | [260250-century-of-steam.json](./260250-century-of-steam.json) |
 | Century: Age of Ashes | 141536 | [141536-century-age-of-ashes.json](./141536-century-age-of-ashes.json) |
 | Century: Age of Ashes - Colossus Deluxe Edition | 199636 | [199636-century-age-of-ashes-colossus-deluxe-edition.json](./199636-century-age-of-ashes-colossus-deluxe-edition.json) |
+| Century: Age of Ashes - Dark Goliath Pack | 226301 | [226301-century-age-of-ashes-dark-goliath-pack.json](./226301-century-age-of-ashes-dark-goliath-pack.json) |
 | Century: Age of Ashes - Dragon Eggs Edition | 218495 | [218495-century-age-of-ashes-dragon-eggs-edition.json](./218495-century-age-of-ashes-dragon-eggs-edition.json) |
 | Century: Age of Ashes - Fellow Edition | 199640 | [199640-century-age-of-ashes-fellow-edition.json](./199640-century-age-of-ashes-fellow-edition.json) |
 | Century: Age of Ashes - First Flight Edition | 199632 | [199632-century-age-of-ashes-first-flight-edition.json](./199632-century-age-of-ashes-first-flight-edition.json) |
@@ -2149,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Fables: Holiday Guardians | 417586 | [417586-christmas-fables-holiday-guardians.json](./417586-christmas-fables-holiday-guardians.json) |
 | Christmas Fables: Holiday Guardians - Collector's Edition | 234738 | [234738-christmas-fables-holiday-guardians-collectors-edition.json](./234738-christmas-fables-holiday-guardians-collectors-edition.json) |
 | Christmas Fables: Nutcracker's Tale - Collector's Edition | 382194 | [382194-christmas-fables-nutcrackers-tale-collectors-edition.json](./382194-christmas-fables-nutcrackers-tale-collectors-edition.json) |
+| Christmas Fun | 226312 | [226312-christmas-fun.json](./226312-christmas-fun.json) |
 | Christmas Griddlers | 168903 | [168903-christmas-griddlers.json](./168903-christmas-griddlers.json) |
 | Christmas Hidden Objects | 102729 | [102729-christmas-hidden-objects.json](./102729-christmas-hidden-objects.json) |
 | Christmas Horror Land | 336538 | [336538-christmas-horror-land.json](./336538-christmas-horror-land.json) |
@@ -2445,6 +2471,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - 90s Pop Radio | 257082 | [257082-cities-skylines-90s-pop-radio.json](./257082-cities-skylines-90s-pop-radio.json) |
 | Cities: Skylines - Content Creator Pack | 241073 | [241073-cities-skylines-content-creator-pack.json](./241073-cities-skylines-content-creator-pack.json) |
 | Cities: Skylines - Content Creator Pack: Seaside Resorts | 241037 | [241037-cities-skylines-content-creator-pack-seaside-resorts.json](./241037-cities-skylines-content-creator-pack-seaside-resorts.json) |
+| Cities: Skylines - Content Creator Pack: Skyscrapers | 226302 | [226302-cities-skylines-content-creator-pack-skyscrapers.json](./226302-cities-skylines-content-creator-pack-skyscrapers.json) |
+| Cities: Skylines - Financial Districts | 226303 | [226303-cities-skylines-financial-districts.json](./226303-cities-skylines-financial-districts.json) |
 | Cities: Skylines - Hotels & Retreats | 249189 | [249189-cities-skylines-hotels-and-retreats.json](./249189-cities-skylines-hotels-and-retreats.json) |
 | Cities: Skylines - Nintendo Switch Edition | 109464 | [109464-cities-skylines-nintendo-switch-edition.json](./109464-cities-skylines-nintendo-switch-edition.json) |
 | Cities: Skylines - Parklife Edition | 205268 | [205268-cities-skylines-parklife-edition.json](./205268-cities-skylines-parklife-edition.json) |
@@ -2554,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
+| Clad in Iron Chincha Islands 1866 | 226304 | [226304-clad-in-iron-chincha-islands-1866.json](./226304-clad-in-iron-chincha-islands-1866.json) |
 | Clad in Iron: Sakhalin 1904 | 111222 | [111222-clad-in-iron-sakhalin-1904.json](./111222-clad-in-iron-sakhalin-1904.json) |
 | Clad In Iron: War of The Pacific 1879 | 334186 | [334186-clad-in-iron-war-of-the-pacific-1879.json](./334186-clad-in-iron-war-of-the-pacific-1879.json) |
 | Claim the Forest: Settling Peace | 399618 | [399618-claim-the-forest-settling-peace.json](./399618-claim-the-forest-settling-peace.json) |
@@ -2899,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster Buster | 264305 | [264305-cluster-buster.json](./264305-cluster-buster.json) |
 | Cluster Buster | 292831 | [292831-cluster-buster.json](./292831-cluster-buster.json) |
 | Cluster Dust | 89653 | [89653-cluster-dust.json](./89653-cluster-dust.json) |
+| Cluster Fly | 226305 | [226305-cluster-fly.json](./226305-cluster-fly.json) |
 | Cluster Six | 58756 | [58756-cluster-six.json](./58756-cluster-six.json) |
 | Clusterball Arcade | 63838 | [63838-clusterball-arcade.json](./63838-clusterball-arcade.json) |
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
