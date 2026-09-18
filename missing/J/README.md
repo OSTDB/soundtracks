@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
 | Jalopy: Limited Edition | 96023 | [96023-jalopy-limited-edition.json](./96023-jalopy-limited-edition.json) |
 | Jam League Basketball | 237375 | [237375-jam-league-basketball.json](./237375-jam-league-basketball.json) |
+| Jam Scrapz Collection | 226853 | [226853-jam-scrapz-collection.json](./226853-jam-scrapz-collection.json) |
 | Jam Session VR | 75822 | [75822-jam-session-vr.json](./75822-jam-session-vr.json) |
 | Jamco Matefest 3013 | 128614 | [128614-jamco-matefest-3013.json](./128614-jamco-matefest-3013.json) |
 | Jamdat Word Craft | 71486 | [71486-jamdat-word-craft.json](./71486-jamdat-word-craft.json) |
@@ -311,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellyfishers | 143088 | [143088-jellyfishers.json](./143088-jellyfishers.json) |
 | Jen Saves Ben | 223704 | [223704-jen-saves-ben.json](./223704-jen-saves-ben.json) |
 | Jendo: Origins | 161323 | [161323-jendo-origins.json](./161323-jendo-origins.json) |
+| Jenni's Dong has got it Goin' On: The Jenni Trilogy | 226854 | [226854-jennis-dong-has-got-it-goin-on-the-jenni-trilogy.json](./226854-jennis-dong-has-got-it-goin-on-the-jenni-trilogy.json) |
 | Jennifer | 141256 | [141256-jennifer.json](./141256-jennifer.json) |
 | Jennifer Janowski is Doomed | 242818 | [242818-jennifer-janowski-is-doomed.json](./242818-jennifer-janowski-is-doomed.json) |
 | Jennifer's Lustful Journey | 340771 | [340771-jennifers-lustful-journey.json](./340771-jennifers-lustful-journey.json) |
@@ -471,7 +473,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Sweet Cakes | 243371 | [243371-jigsaw-masterpieces-sweet-cakes.json](./243371-jigsaw-masterpieces-sweet-cakes.json) |
 | Jigsaw Pets | 283274 | [283274-jigsaw-pets.json](./283274-jigsaw-pets.json) |
 | Jigsaw Puzzle | 357883 | [357883-jigsaw-puzzle.json](./357883-jigsaw-puzzle.json) |
+| Jigsaw Puzzle Dreams: Idyllic Pack | 226855 | [226855-jigsaw-puzzle-dreams-idyllic-pack.json](./226855-jigsaw-puzzle-dreams-idyllic-pack.json) |
+| Jigsaw Puzzle Dreams: Radiant Pack | 226856 | [226856-jigsaw-puzzle-dreams-radiant-pack.json](./226856-jigsaw-puzzle-dreams-radiant-pack.json) |
+| Jigsaw Puzzle Dreams: Scenic Pack | 226857 | [226857-jigsaw-puzzle-dreams-scenic-pack.json](./226857-jigsaw-puzzle-dreams-scenic-pack.json) |
+| Jigsaw Puzzle Dreams: Serene Pack | 226858 | [226858-jigsaw-puzzle-dreams-serene-pack.json](./226858-jigsaw-puzzle-dreams-serene-pack.json) |
 | Jigsaw Puzzle Dreams: Stickers and More! Supporter Pack | 288900 | [288900-jigsaw-puzzle-dreams-stickers-and-more-supporter-pack.json](./288900-jigsaw-puzzle-dreams-stickers-and-more-supporter-pack.json) |
+| Jigsaw Puzzle Dreams: Tranquil Pack | 226859 | [226859-jigsaw-puzzle-dreams-tranquil-pack.json](./226859-jigsaw-puzzle-dreams-tranquil-pack.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Electro Macro | 268529 | [268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json](./268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Halloween 5 | 274583 | [274583-jigsaw-puzzle-pack-pixel-puzzles-ultimate-halloween-5.json](./274583-jigsaw-puzzle-pack-pixel-puzzles-ultimate-halloween-5.json) |
