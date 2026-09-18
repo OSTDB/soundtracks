@@ -4192,19 +4192,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Collection 2 | 64417 | [64417-momotaro-collection-2.json](./64417-momotaro-collection-2.json) |
 | Momotaro Densetsu | 64411 | [64411-momotaro-densetsu.json](./64411-momotaro-densetsu.json) |
 | Momotaro Densetsu 1-2 | 64413 | [64413-momotaro-densetsu-1-2.json](./64413-momotaro-densetsu-1-2.json) |
+| Momotaro Densetsu Mobile | 186765 | [186765-momotaro-densetsu-mobile.json](./186765-momotaro-densetsu-mobile.json) |
 | Momotaro Densetsu Turbo | 42049 | [42049-momotaro-densetsu-turbo.json](./42049-momotaro-densetsu-turbo.json) |
 | Momotaro Dentetsu 15: Godai Bonbii Toujou! no Maki | 64406 | [64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json](./64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json) |
 | Momotaro Dentetsu 16: Hokkaido Daiidou no Maki! | 64405 | [64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json](./64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json) |
 | Momotaro Dentetsu 2010: Sengoku Ishin no Hero Daishuugou! no Maki | 79273 | [79273-momotaro-dentetsu-2010-sengoku-ishin-no-hero-daishuugou-no-maki.json](./79273-momotaro-dentetsu-2010-sengoku-ishin-no-hero-daishuugou-no-maki.json) |
 | Momotaro Dentetsu 2017: Tachiagare Nippon!! | 79234 | [79234-momotaro-dentetsu-2017-tachiagare-nippon.json](./79234-momotaro-dentetsu-2017-tachiagare-nippon.json) |
 | Momotaro Dentetsu 7 | 64410 | [64410-momotaro-dentetsu-7.json](./64410-momotaro-dentetsu-7.json) |
+| Momotaro Dentetsu Chubu | 186771 | [186771-momotaro-dentetsu-chubu.json](./186771-momotaro-dentetsu-chubu.json) |
 | Momotaro Dentetsu DS: Tokyo & Japan | 64419 | [64419-momotaro-dentetsu-ds-tokyo-and-japan.json](./64419-momotaro-dentetsu-ds-tokyo-and-japan.json) |
+| Momotaro Dentetsu Hokkaido | 186777 | [186777-momotaro-dentetsu-hokkaido.json](./186777-momotaro-dentetsu-hokkaido.json) |
+| Momotaro Dentetsu Japan | 186769 | [186769-momotaro-dentetsu-japan.json](./186769-momotaro-dentetsu-japan.json) |
+| Momotaro Dentetsu Japan Deluxe | 186770 | [186770-momotaro-dentetsu-japan-deluxe.json](./186770-momotaro-dentetsu-japan-deluxe.json) |
 | Momotaro Dentetsu Japan+ | 64408 | [64408-momotaro-dentetsu-japan.json](./64408-momotaro-dentetsu-japan.json) |
 | Momotaro Dentetsu Jr.: Zenkoku Ramen Meguri no Maki | 64414 | [64414-momotaro-dentetsu-jr-zenkoku-ramen-meguri-no-maki.json](./64414-momotaro-dentetsu-jr-zenkoku-ramen-meguri-no-maki.json) |
+| Momotaro Dentetsu Kanto | 186776 | [186776-momotaro-dentetsu-kanto.json](./186776-momotaro-dentetsu-kanto.json) |
+| Momotaro Dentetsu Kyushu | 186778 | [186778-momotaro-dentetsu-kyushu.json](./186778-momotaro-dentetsu-kyushu.json) |
+| Momotaro Dentetsu Setouchi | 186779 | [186779-momotaro-dentetsu-setouchi.json](./186779-momotaro-dentetsu-setouchi.json) |
 | Momotaro Dentetsu Tag Match: Yuujou, Doryoku, Shouri no Maki! | 64403 | [64403-momotaro-dentetsu-tag-match-yuujou-doryoku-shouri-no-maki.json](./64403-momotaro-dentetsu-tag-match-yuujou-doryoku-shouri-no-maki.json) |
+| Momotaro Dentetsu Tohoku | 186774 | [186774-momotaro-dentetsu-tohoku.json](./186774-momotaro-dentetsu-tohoku.json) |
+| Momotaro Dentetsu Tohoku Deluxe | 186775 | [186775-momotaro-dentetsu-tohoku-deluxe.json](./186775-momotaro-dentetsu-tohoku-deluxe.json) |
+| Momotaro Dentetsu Tokyo | 186768 | [186768-momotaro-dentetsu-tokyo.json](./186768-momotaro-dentetsu-tokyo.json) |
 | Momotaro Dentetsu USA | 64404 | [64404-momotaro-dentetsu-usa.json](./64404-momotaro-dentetsu-usa.json) |
 | Momotaro Dentetsu V | 64409 | [64409-momotaro-dentetsu-v.json](./64409-momotaro-dentetsu-v.json) |
 | Momotaro Dentetsu World | 64416 | [64416-momotaro-dentetsu-world.json](./64416-momotaro-dentetsu-world.json) |
+| Momotaro Dentetsu World Deluxe | 186772 | [186772-momotaro-dentetsu-world-deluxe.json](./186772-momotaro-dentetsu-world-deluxe.json) |
+| Momotaro Dentetsu World Remote Play | 186773 | [186773-momotaro-dentetsu-world-remote-play.json](./186773-momotaro-dentetsu-world-remote-play.json) |
 | Momotaro Dentetsu: 20 Shuunen | 64420 | [64420-momotaro-dentetsu-20-shuunen.json](./64420-momotaro-dentetsu-20-shuunen.json) |
 | Momotaro Douchuuki | 64421 | [64421-momotaro-douchuuki.json](./64421-momotaro-douchuuki.json) |
 | Momotaro Matsuri: Ishikawa Rokuemon no Maki | 64407 | [64407-momotaro-matsuri-ishikawa-rokuemon-no-maki.json](./64407-momotaro-matsuri-ishikawa-rokuemon-no-maki.json) |
@@ -4306,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monomagia Cantabile | 214539 | [214539-monomagia-cantabile.json](./214539-monomagia-cantabile.json) |
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
 | Monopoly | 131548 | [131548-monopoly.json](./131548-monopoly.json) |
+| Monopoly | 186723 | [186723-monopoly.json](./186723-monopoly.json) |
 | Monopoly | 228550 | [228550-monopoly.json](./228550-monopoly.json) |
 | Monopoly | 23767 | [23767-monopoly.json](./23767-monopoly.json) |
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
@@ -4658,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Cow: Guardian of the Night | 386229 | [386229-moonlight-cow-guardian-of-the-night.json](./386229-moonlight-cow-guardian-of-the-night.json) |
 | Moonlight Cradle | 404334 | [404334-moonlight-cradle.json](./404334-moonlight-cradle.json) |
 | Moonlight Frog Inn | 320346 | [320346-moonlight-frog-inn.json](./320346-moonlight-frog-inn.json) |
+| Moonlight Lovers | 186764 | [186764-moonlight-lovers.json](./186764-moonlight-lovers.json) |
 | Moonlight Mayhem | 257993 | [257993-moonlight-mayhem.json](./257993-moonlight-mayhem.json) |
 | Moonlight maze | 121734 | [121734-moonlight-maze.json](./121734-moonlight-maze.json) |
 | Moonlight Princess | 145566 | [145566-moonlight-princess.json](./145566-moonlight-princess.json) |
