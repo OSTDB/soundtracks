@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Search of the Golden Crops | 321596 | [321596-in-search-of-the-golden-crops.json](./321596-in-search-of-the-golden-crops.json) |
 | In Search of the Most Amazing Thing | 69820 | [69820-in-search-of-the-most-amazing-thing.json](./69820-in-search-of-the-most-amazing-thing.json) |
 | In Season | 340755 | [340755-in-season.json](./340755-in-season.json) |
+| In Shape | 191123 | [191123-in-shape.json](./191123-in-shape.json) |
 | In Silico | 348241 | [348241-in-silico.json](./348241-in-silico.json) |
 | In Somnio | 130382 | [130382-in-somnio.json](./130382-in-somnio.json) |
 | In Sound Mind | 121084 | [121084-in-sound-mind.json](./121084-in-sound-mind.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into Magicland | 45342 | [45342-into-magicland.json](./45342-into-magicland.json) |
 | Into Oblivion | 301586 | [301586-into-oblivion.json](./301586-into-oblivion.json) |
 | Into Ruins | 224107 | [224107-into-ruins.json](./224107-into-ruins.json) |
+| Into the Abyss | 191130 | [191130-into-the-abyss.json](./191130-into-the-abyss.json) |
 | Into the Blue | 109033 | [109033-into-the-blue.json](./109033-into-the-blue.json) |
 | Into the Box | 183001 | [183001-into-the-box.json](./183001-into-the-box.json) |
 | Into the Breach: Advanced Edition | 247511 | [247511-into-the-breach-advanced-edition.json](./247511-into-the-breach-advanced-edition.json) |
