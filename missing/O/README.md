@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch: Reign of Talon - Season 3: Into the Tigers Den | 406719 | [406719-overwatch-reign-of-talon-season-3-into-the-tigers-den.json](./406719-overwatch-reign-of-talon-season-3-into-the-tigers-den.json) |
 | Overwhelm | 103324 | [103324-overwhelm.json](./103324-overwhelm.json) |
 | Overworked | 408180 | [408180-overworked.json](./408180-overworked.json) |
+| Overwritten: Defeat the Net | 224630 | [224630-overwritten-defeat-the-net.json](./224630-overwritten-defeat-the-net.json) |
 | Ovis Loop | 236916 | [236916-ovis-loop.json](./236916-ovis-loop.json) |
 | OVO Smash! | 69238 | [69238-ovo-smash.json](./69238-ovo-smash.json) |
 | OVR Dynamic Resolution | 319793 | [319793-ovr-dynamic-resolution.json](./319793-ovr-dynamic-resolution.json) |
