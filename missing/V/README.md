@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter 5 R | 94701 | [94701-virtua-fighter-5-r.json](./94701-virtua-fighter-5-r.json) |
 | Virtua Fighter 5 R.E.V.O. | 322751 | [322751-virtua-fighter-5-r-e-v-o.json](./322751-virtua-fighter-5-r-e-v-o.json) |
 | Virtua Fighter CG Portrait Series Vol. 8: Lion Rafale | 97818 | [97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json](./97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json) |
+| Virtua Racing Demake | 181251 | [181251-virtua-racing-demake.json](./181251-virtua-racing-demake.json) |
 | Virtua Striker | 313318 | [313318-virtua-striker.json](./313318-virtua-striker.json) |
 | Virtua Striker 2 | 39472 | [39472-virtua-striker-2.json](./39472-virtua-striker-2.json) |
 | Virtua Tennis 2009 | 5257 | [5257-virtua-tennis-2009.json](./5257-virtua-tennis-2009.json) |
@@ -1246,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VVVVVV | 1990 | [1990-vvvvvv.json](./1990-vvvvvv.json) |
 | Vy Worlds | 192896 | [192896-vy-worlds.json](./192896-vy-worlds.json) |
 | Vyanka's Memories | 307943 | [307943-vyankas-memories.json](./307943-vyankas-memories.json) |
+| Vyperspace | 181231 | [181231-vyperspace.json](./181231-vyperspace.json) |
 | Vysions | 290957 | [290957-vysions.json](./290957-vysions.json) |
 | Vythzkel of City Dinasty | 338557 | [338557-vythzkel-of-city-dinasty.json](./338557-vythzkel-of-city-dinasty.json) |
 | Vyun, Kosmeya, and the Witch's Curse | 374714 | [374714-vyun-kosmeya-and-the-witchs-curse.json](./374714-vyun-kosmeya-and-the-witchs-curse.json) |
