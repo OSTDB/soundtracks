@@ -2183,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Boy | 62783 | [62783-pixel-boy.json](./62783-pixel-boy.json) |
 | Pixel Boy 2: The Castle Revenge | 315090 | [315090-pixel-boy-2-the-castle-revenge.json](./315090-pixel-boy-2-the-castle-revenge.json) |
 | Pixel Boy and the Ever Expanding Dungeon | 16836 | [16836-pixel-boy-and-the-ever-expanding-dungeon.json](./16836-pixel-boy-and-the-ever-expanding-dungeon.json) |
+| Pixel Boy: The Legend of Tain | 219674 | [219674-pixel-boy-the-legend-of-tain.json](./219674-pixel-boy-the-legend-of-tain.json) |
 | Pixel Brave | 396944 | [396944-pixel-brave.json](./396944-pixel-brave.json) |
 | Pixel Builder | 105962 | [105962-pixel-builder.json](./105962-pixel-builder.json) |
 | Pixel Cafe: Definitive Edition | 400200 | [400200-pixel-cafe-definitive-edition.json](./400200-pixel-cafe-definitive-edition.json) |
@@ -3708,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predefined | 253585 | [253585-predefined.json](./253585-predefined.json) |
 | Predestination | 35997 | [35997-predestination.json](./35997-predestination.json) |
 | Predictile | 304890 | [304890-predictile.json](./304890-predictile.json) |
+| Predictors | 219666 | [219666-predictors.json](./219666-predictors.json) |
 | Pregnancy | 35722 | [35722-pregnancy.json](./35722-pregnancy.json) |
 | Pregnant Mom Virtual Family Neighbor Helper | 96001 | [96001-pregnant-mom-virtual-family-neighbor-helper.json](./96001-pregnant-mom-virtual-family-neighbor-helper.json) |
 | Pregnant Talking Cat Emma | 250018 | [250018-pregnant-talking-cat-emma.json](./250018-pregnant-talking-cat-emma.json) |
@@ -3775,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Mahjong Solitaire | 34716 | [34716-pretty-girls-mahjong-solitaire.json](./34716-pretty-girls-mahjong-solitaire.json) |
 | Pretty Girls Panic! | 30181 | [30181-pretty-girls-panic.json](./30181-pretty-girls-panic.json) |
 | Pretty girls teach beefy guys | 161329 | [161329-pretty-girls-teach-beefy-guys.json](./161329-pretty-girls-teach-beefy-guys.json) |
+| Pretty Girls Tile Match | 219695 | [219695-pretty-girls-tile-match.json](./219695-pretty-girls-tile-match.json) |
 | Pretty Good Solitaire | 89241 | [89241-pretty-good-solitaire.json](./89241-pretty-good-solitaire.json) |
 | Pretty Neko | 159243 | [159243-pretty-neko.json](./159243-pretty-neko.json) |
 | Pretty Ninja Himekage | 220327 | [220327-pretty-ninja-himekage.json](./220327-pretty-ninja-himekage.json) |
