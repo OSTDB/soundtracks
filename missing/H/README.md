@@ -787,6 +787,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayami-Chan 2 | 199034 | [199034-hayami-chan-2.json](./199034-hayami-chan-2.json) |
 | Hayami-Chan 3 | 199035 | [199035-hayami-chan-3.json](./199035-hayami-chan-3.json) |
 | Hayaoshi Quiz Academia | 256270 | [256270-hayaoshi-quiz-academia.json](./256270-hayaoshi-quiz-academia.json) |
+| Hayaoshi Quiz: Ouza Ketteisen | 228557 | [228557-hayaoshi-quiz-ouza-ketteisen.json](./228557-hayaoshi-quiz-ouza-ketteisen.json) |
+| Hayaoshi Quiz: Ouza Ketteisen | 228558 | [228558-hayaoshi-quiz-ouza-ketteisen.json](./228558-hayaoshi-quiz-ouza-ketteisen.json) |
 | Hayarigami 1, 2, 3 Pack | 247192 | [247192-hayarigami-1-2-3-pack.json](./247192-hayarigami-1-2-3-pack.json) |
 | Hayarigami 2: Keishichou Kaii Jiken File | 79330 | [79330-hayarigami-2-keishichou-kaii-jiken-file.json](./79330-hayarigami-2-keishichou-kaii-jiken-file.json) |
 | Hayarigami Portable: Keishichou Kaii Jiken File | 79329 | [79329-hayarigami-portable-keishichou-kaii-jiken-file.json](./79329-hayarigami-portable-keishichou-kaii-jiken-file.json) |
@@ -1207,12 +1209,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Kruisers with Sanrio Friends | 62781 | [62781-hello-kitty-kruisers-with-sanrio-friends.json](./62781-hello-kitty-kruisers-with-sanrio-friends.json) |
 | Hello Kitty Lunchbox | 225660 | [225660-hello-kitty-lunchbox.json](./225660-hello-kitty-lunchbox.json) |
 | Hello Kitty no 'Otonaru' Mail | 279598 | [279598-hello-kitty-no-otonaru-mail.json](./279598-hello-kitty-no-otonaru-mail.json) |
+| Hello Kitty no Beads Koubou | 228559 | [228559-hello-kitty-no-beads-koubou.json](./228559-hello-kitty-no-beads-koubou.json) |
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
 | Hello Kitty no Happy Accessory | 279592 | [279592-hello-kitty-no-happy-accessory.json](./279592-hello-kitty-no-happy-accessory.json) |
 | Hello Kitty no Hiragana Katakana Onamae Kaitemiyou | 279600 | [279600-hello-kitty-no-hiragana-katakana-onamae-kaitemiyou.json](./279600-hello-kitty-no-hiragana-katakana-onamae-kaitemiyou.json) |
 | Hello Kitty no Magical Museum | 50562 | [50562-hello-kitty-no-magical-museum.json](./50562-hello-kitty-no-magical-museum.json) |
 | Hello Kitty no Oshare Party: Sanrio Character Zukan DS | 228432 | [228432-hello-kitty-no-oshare-party-sanrio-character-zukan-ds.json](./228432-hello-kitty-no-oshare-party-sanrio-character-zukan-ds.json) |
 | Hello Kitty no Sutekina Otanjoubi | 279602 | [279602-hello-kitty-no-sutekina-otanjoubi.json](./279602-hello-kitty-no-sutekina-otanjoubi.json) |
+| Hello Kitty no Sweet Adventure: Daniel-kun ni Aitai | 228560 | [228560-hello-kitty-no-sweet-adventure-daniel-kun-ni-aitai.json](./228560-hello-kitty-no-sweet-adventure-daniel-kun-ni-aitai.json) |
 | Hello Kitty no Tanoshii Okaimono | 230272 | [230272-hello-kitty-no-tanoshii-okaimono.json](./230272-hello-kitty-no-tanoshii-okaimono.json) |
 | Hello Kitty no Tanoshii Omiseyasan | 279604 | [279604-hello-kitty-no-tanoshii-omiseyasan.json](./279604-hello-kitty-no-tanoshii-omiseyasan.json) |
 | Hello Kitty no Waku-waku Quiz | 61677 | [61677-hello-kitty-no-waku-waku-quiz.json](./61677-hello-kitty-no-waku-waku-quiz.json) |
@@ -2538,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homura | 43330 | [43330-homura.json](./43330-homura.json) |
 | Homura Hime | 199055 | [199055-homura-hime.json](./199055-homura-hime.json) |
 | Homura: The Crimson Warriors - Deluxe Edition | 390530 | [390530-homura-the-crimson-warriors-deluxe-edition.json](./390530-homura-the-crimson-warriors-deluxe-edition.json) |
+| Hon Shogi | 228563 | [228563-hon-shogi.json](./228563-hon-shogi.json) |
 | Hondune's Truck Trials | 259070 | [259070-hondunes-truck-trials.json](./259070-hondunes-truck-trials.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honest Helper | 349324 | [349324-honest-helper.json](./349324-honest-helper.json) |
@@ -2602,7 +2607,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkaku AI Tousai Daifugo | 144999 | [144999-honkaku-ai-tousai-daifugo.json](./144999-honkaku-ai-tousai-daifugo.json) |
 | Honkaku AI Tousai Ginsei Mahjong | 145000 | [145000-honkaku-ai-tousai-ginsei-mahjong.json](./145000-honkaku-ai-tousai-ginsei-mahjong.json) |
 | Honkaku Hanafuda GB | 281568 | [281568-honkaku-hanafuda-gb.json](./281568-honkaku-hanafuda-gb.json) |
+| Honkaku Shogi: Shogi-ou | 228561 | [228561-honkaku-shogi-shogi-ou.json](./228561-honkaku-shogi-shogi-ou.json) |
 | Honkaku Taisen Shogi Ayumu | 97856 | [97856-honkaku-taisen-shogi-ayumu.json](./97856-honkaku-taisen-shogi-ayumu.json) |
+| Honkaku Yon-nin Uchi Mahjong: Mahjong Oh | 228562 | [228562-honkaku-yon-nin-uchi-mahjong-mahjong-oh.json](./228562-honkaku-yon-nin-uchi-mahjong-mahjong-oh.json) |
 | Honker | 291476 | [291476-honker.json](./291476-honker.json) |
 | Honki de Manabu LEC de Goukakuru: Hishou Boki 3-Kyuu Portable | 67324 | [67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json](./67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json) |
 | Honki de Manabu LEC de Goukakuru: Takuchi Tatemono Torihiki Shuninsha Portable | 67325 | [67325-honki-de-manabu-lec-de-goukakuru-takuchi-tatemono-torihiki-shuninsha-portable.json](./67325-honki-de-manabu-lec-de-goukakuru-takuchi-tatemono-torihiki-shuninsha-portable.json) |
