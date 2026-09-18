@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazerz | 294282 | [294282-lazerz.json](./294282-lazerz.json) |
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
 | Lazr: A Clothformer | 126653 | [126653-lazr-a-clothformer.json](./126653-lazr-a-clothformer.json) |
+| LazuNight Funkin' | 205659 | [205659-lazunight-funkin.json](./205659-lazunight-funkin.json) |
 | Lazy Caverns | 57080 | [57080-lazy-caverns.json](./57080-lazy-caverns.json) |
 | Lazy Caverns 2 | 57079 | [57079-lazy-caverns-2.json](./57079-lazy-caverns-2.json) |
 | Lazy Caverns Attack!! | 57078 | [57078-lazy-caverns-attack.json](./57078-lazy-caverns-attack.json) |
@@ -915,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO World Builder 2 | 243690 | [243690-lego-world-builder-2.json](./243690-lego-world-builder-2.json) |
 | LEGO World Soccer | 273982 | [273982-lego-world-soccer.json](./273982-lego-world-soccer.json) |
 | Lego Worlds Showcase Collection #1 | 255377 | [255377-lego-worlds-showcase-collection-1.json](./255377-lego-worlds-showcase-collection-1.json) |
+| LEGO Worlds: Monster Pack | 205608 | [205608-lego-worlds-monster-pack.json](./205608-lego-worlds-monster-pack.json) |
 | LEGO: City Builder | 318792 | [318792-lego-city-builder.json](./318792-lego-city-builder.json) |
 | Leguiumz Experience | 304580 | [304580-leguiumz-experience.json](./304580-leguiumz-experience.json) |
 | LeHweng LeHweng | 156683 | [156683-lehweng-lehweng.json](./156683-lehweng-lehweng.json) |
@@ -1796,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Empire | 169403 | [169403-live-empire.json](./169403-live-empire.json) |
 | Live Labyrinth | 149530 | [149530-live-labyrinth.json](./149530-live-labyrinth.json) |
 | Live Lens | 312179 | [312179-live-lens.json](./312179-live-lens.json) |
+| Live Mathletics | 205622 | [205622-live-mathletics.json](./205622-live-mathletics.json) |
 | Live Maze | 210874 | [210874-live-maze.json](./210874-live-maze.json) |
 | Live or Die: Survival | 106527 | [106527-live-or-die-survival.json](./106527-live-or-die-survival.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
@@ -2451,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love on Leave | 247495 | [247495-love-on-leave.json](./247495-love-on-leave.json) |
 | Love on Paper | 158220 | [158220-love-on-paper.json](./158220-love-on-paper.json) |
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
+| Love Pheromone | 205609 | [205609-love-pheromone.json](./205609-love-pheromone.json) |
 | Love Potion | 272364 | [272364-love-potion.json](./272364-love-potion.json) |
 | Love Quest: Los Angeles | 303637 | [303637-love-quest-los-angeles.json](./303637-love-quest-los-angeles.json) |
 | Love Red | 302371 | [302371-love-red.json](./302371-love-red.json) |
@@ -2623,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Slots | 242551 | [242551-lucky-slots.json](./242551-lucky-slots.json) |
 | Lucky Spider Solitaire | 87141 | [87141-lucky-spider-solitaire.json](./87141-lucky-spider-solitaire.json) |
 | Lucky Stamina | 213992 | [213992-lucky-stamina.json](./213992-lucky-stamina.json) |
+| Lucky Star Troopers | 205662 | [205662-lucky-star-troopers.json](./205662-lucky-star-troopers.json) |
 | Lucky Star: Moe Drill | 72618 | [72618-lucky-star-moe-drill.json](./72618-lucky-star-moe-drill.json) |
 | Lucky Star: Ryouou Gakuen Outousai | 72617 | [72617-lucky-star-ryouou-gakuen-outousai.json](./72617-lucky-star-ryouou-gakuen-outousai.json) |
 | Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
