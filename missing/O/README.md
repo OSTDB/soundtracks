@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obby: Build a 3D Amusement Park! | 402303 | [402303-obby-build-a-3d-amusement-park.json](./402303-obby-build-a-3d-amusement-park.json) |
 | Obcidian Legacy | 30004 | [30004-obcidian-legacy.json](./30004-obcidian-legacy.json) |
 | Obec | 349397 | [349397-obec.json](./349397-obec.json) |
+| Obedient Servant | 213442 | [213442-obedient-servant.json](./213442-obedient-servant.json) |
 | Obenseuer | 111983 | [111983-obenseuer.json](./111983-obenseuer.json) |
 | Obergenie | 339371 | [339371-obergenie.json](./339371-obergenie.json) |
 | Oberion: Arena Arcana | 381678 | [381678-oberion-arena-arcana.json](./381678-oberion-arena-arcana.json) |
@@ -201,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odens öga | 304035 | [304035-odens-oga.json](./304035-odens-oga.json) |
 | Odessa | 333649 | [333649-odessa.json](./333649-odessa.json) |
 | Odezie | 129753 | [129753-odezie.json](./129753-odezie.json) |
+| Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
 | Odo Odo Oddity | 143676 | [143676-odo-odo-oddity.json](./143676-odo-odo-oddity.json) |
 | Odysseus Kosmos and his Robot Quest | 65838 | [65838-odysseus-kosmos-and-his-robot-quest.json](./65838-odysseus-kosmos-and-his-robot-quest.json) |
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
@@ -1165,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ordeeer! | 181347 | [181347-ordeeer.json](./181347-ordeeer.json) |
 | Orden des Drachen | 314294 | [314294-orden-des-drachen.json](./314294-orden-des-drachen.json) |
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
+| Order Automatica | 213444 | [213444-order-automatica.json](./213444-order-automatica.json) |
 | Order matters | 26486 | [26486-order-matters.json](./26486-order-matters.json) |
 | Order of Battle: Allies Defiant | 154565 | [154565-order-of-battle-allies-defiant.json](./154565-order-of-battle-allies-defiant.json) |
 | Order of Battle: Blitzkrieg | 118966 | [118966-order-of-battle-blitzkrieg.json](./118966-order-of-battle-blitzkrieg.json) |
