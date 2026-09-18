@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat and Evolve | 227957 | [227957-eat-and-evolve.json](./227957-eat-and-evolve.json) |
 | Eat Bananas | 213399 | [213399-eat-bananas.json](./213399-eat-bananas.json) |
 | Eat It | 414313 | [414313-eat-it.json](./414313-eat-it.json) |
+| Eat Me Alive | 218584 | [218584-eat-me-alive.json](./218584-eat-me-alive.json) |
 | Eat More Vegetables! | 157206 | [157206-eat-more-vegetables.json](./157206-eat-more-vegetables.json) |
 | Eat the Fish 2016 | 90680 | [90680-eat-the-fish-2016.json](./90680-eat-the-fish-2016.json) |
 | Eat the Rich | 285024 | [285024-eat-the-rich.json](./285024-eat-the-rich.json) |
@@ -831,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerging Tactical | 278421 | [278421-emerging-tactical.json](./278421-emerging-tactical.json) |
 | Emetic Skimmer | 55185 | [55185-emetic-skimmer.json](./55185-emetic-skimmer.json) |
 | Emi-chan no Moero Yakyuuken | 41373 | [41373-emi-chan-no-moero-yakyuuken.json](./41373-emi-chan-no-moero-yakyuuken.json) |
+| Emi's Country Store and Farm | 218582 | [218582-emis-country-store-and-farm.json](./218582-emis-country-store-and-farm.json) |
 | Emily Enough: Imprisoned | 71474 | [71474-emily-enough-imprisoned.json](./71474-emily-enough-imprisoned.json) |
 | Emily vs. the Unstable Creatures | 180853 | [180853-emily-vs-the-unstable-creatures.json](./180853-emily-vs-the-unstable-creatures.json) |
 | Emily's Bizarre Dreams | 343344 | [343344-emilys-bizarre-dreams.json](./343344-emilys-bizarre-dreams.json) |
