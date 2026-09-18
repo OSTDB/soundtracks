@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
 | A Heroine Story | 249856 | [249856-a-heroine-story.json](./249856-a-heroine-story.json) |
+| A Holiday Yarn | 183952 | [183952-a-holiday-yarn.json](./183952-a-holiday-yarn.json) |
 | A Hollow Doorway | 94785 | [94785-a-hollow-doorway.json](./94785-a-hollow-doorway.json) |
 | A Host of Gentle Terrors | 136437 | [136437-a-host-of-gentle-terrors.json](./136437-a-host-of-gentle-terrors.json) |
 | A House 4 Alesa | 305785 | [305785-a-house-4-alesa.json](./305785-a-house-4-alesa.json) |
@@ -1136,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchem It | 211268 | [211268-alchem-it.json](./211268-alchem-it.json) |
 | Alchemia | 117032 | [117032-alchemia.json](./117032-alchemia.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
+| Alchemica: A Romance of Three Dimensions | 183963 | [183963-alchemica-a-romance-of-three-dimensions.json](./183963-alchemica-a-romance-of-three-dimensions.json) |
 | Alchemical Inc. | 190141 | [190141-alchemical-inc.json](./190141-alchemical-inc.json) |
 | Alchemist Chronicles | 405574 | [405574-alchemist-chronicles.json](./405574-alchemist-chronicles.json) |
 | Alchemist code | 75134 | [75134-alchemist-code.json](./75134-alchemist-code.json) |
@@ -4191,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
 | Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
 | Atom Fit | 234169 | [234169-atom-fit.json](./234169-atom-fit.json) |
+| Atom OI | 183961 | [183961-atom-oi.json](./183961-atom-oi.json) |
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
 | Atom Smasher | 268574 | [268574-atom-smasher.json](./268574-atom-smasher.json) |
 | Atom Universe | 18180 | [18180-atom-universe.json](./18180-atom-universe.json) |
@@ -4528,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
 | Awake | 343247 | [343247-awake.json](./343247-awake.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
+| Awaken | 183954 | [183954-awaken.json](./183954-awaken.json) |
 | Awaken in Fear | 414439 | [414439-awaken-in-fear.json](./414439-awaken-in-fear.json) |
 | Awaken the Time | 132236 | [132236-awaken-the-time.json](./132236-awaken-the-time.json) |
 | Awaken: Astral Blade | 175679 | [175679-awaken-astral-blade.json](./175679-awaken-astral-blade.json) |
