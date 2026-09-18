@@ -1941,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
 | Mechanical Violator Hakaider: Last Judgement | 66147 | [66147-mechanical-violator-hakaider-last-judgement.json](./66147-mechanical-violator-hakaider-last-judgement.json) |
 | Mechanics | 254141 | [254141-mechanics.json](./254141-mechanics.json) |
+| Mechanism | 183984 | [183984-mechanism.json](./183984-mechanism.json) |
 | MechanixMind: IQ Puzzle Adventure | 275889 | [275889-mechanixmind-iq-puzzle-adventure.json](./275889-mechanixmind-iq-puzzle-adventure.json) |
 | Mechanization | 264590 | [264590-mechanization.json](./264590-mechanization.json) |
 | Mechanode | 238757 | [238757-mechanode.json](./238757-mechanode.json) |
@@ -2550,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
 | Merc Elite | 63276 | [63276-merc-elite.json](./63276-merc-elite.json) |
 | Merc Storia - The Healer and the Melody of the Heart | 333560 | [333560-merc-storia-the-healer-and-the-melody-of-the-heart.json](./333560-merc-storia-the-healer-and-the-melody-of-the-heart.json) |
+| Merc Tactics | 183973 | [183973-merc-tactics.json](./183973-merc-tactics.json) |
 | Mercenaries Saga | 82082 | [82082-mercenaries-saga.json](./82082-mercenaries-saga.json) |
 | Mercenaries Saga 2 | 77691 | [77691-mercenaries-saga-2.json](./77691-mercenaries-saga-2.json) |
 | Mercenary: The Second City | 15500 | [15500-mercenary-the-second-city.json](./15500-mercenary-the-second-city.json) |
@@ -2897,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Nights: Singles in the City | 21284 | [21284-miami-nights-singles-in-the-city.json](./21284-miami-nights-singles-in-the-city.json) |
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
 | Miamo.fun | 267368 | [267368-miamo-fun.json](./267368-miamo-fun.json) |
+| Miao and the Friendmily Journal: Miao | 183974 | [183974-miao-and-the-friendmily-journal-miao.json](./183974-miao-and-the-friendmily-journal-miao.json) |
 | Miaou Moon | 31790 | [31790-miaou-moon.json](./31790-miaou-moon.json) |
 | MiaouVSRG | 351047 | [351047-miaouvsrg.json](./351047-miaouvsrg.json) |
 | Miasma | 253908 | [253908-miasma.json](./253908-miasma.json) |
@@ -3463,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Winter Whimsy Skin Pack | 324892 | [324892-minecraft-winter-whimsy-skin-pack.json](./324892-minecraft-winter-whimsy-skin-pack.json) |
 | Minecraftle | 306695 | [306695-minecraftle.json](./306695-minecraftle.json) |
 | Minecranker | 259636 | [259636-minecranker.json](./259636-minecranker.json) |
+| Mined | 183983 | [183983-mined.json](./183983-mined.json) |
 | MineDrill Redux | 41945 | [41945-minedrill-redux.json](./41945-minedrill-redux.json) |
 | MineFinitum | 186276 | [186276-minefinitum.json](./186276-minefinitum.json) |
 | MineGeon: Space Mining Dungeon | 227369 | [227369-minegeon-space-mining-dungeon.json](./227369-minegeon-space-mining-dungeon.json) |
@@ -4767,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mori's Nightmare: Hide and seek | 159842 | [159842-moris-nightmare-hide-and-seek.json](./159842-moris-nightmare-hide-and-seek.json) |
 | Moria | 77304 | [77304-moria.json](./77304-moria.json) |
 | MoriArashi | 205235 | [205235-moriarashi.json](./205235-moriarashi.json) |
+| Moribunderland | 183964 | [183964-moribunderland.json](./183964-moribunderland.json) |
 | Morikomori Life | 262977 | [262977-morikomori-life.json](./262977-morikomori-life.json) |
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
 | Morituria | 347798 | [347798-morituria.json](./347798-morituria.json) |
