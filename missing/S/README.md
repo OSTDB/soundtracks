@@ -2742,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutterbuds | 341475 | [341475-shutterbuds.json](./341475-shutterbuds.json) |
 | Shuttle Scuttle | 213931 | [213931-shuttle-scuttle.json](./213931-shuttle-scuttle.json) |
 | Shuttle World | 242541 | [242541-shuttle-world.json](./242541-shuttle-world.json) |
+| Shuttlecock-H | 232559 | [232559-shuttlecock-h.json](./232559-shuttlecock-h.json) |
 | Shuttlecock-H | 344464 | [344464-shuttlecock-h.json](./344464-shuttlecock-h.json) |
 | Shuuchaku Gakuen | 335668 | [335668-shuuchaku-gakuen.json](./335668-shuuchaku-gakuen.json) |
 | Shuumatsu no Sugoshikata: The world is drawing to an W/end | 326047 | [326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json](./326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json) |
@@ -3056,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Game | 121602 | [121602-simple-game.json](./121602-simple-game.json) |
 | Simple Loto Simulator | 157201 | [157201-simple-loto-simulator.json](./157201-simple-loto-simulator.json) |
 | Simple Mini Golf | 192406 | [192406-simple-mini-golf.json](./192406-simple-mini-golf.json) |
+| Simple Mini Golf 3D | 232566 | [232566-simple-mini-golf-3d.json](./232566-simple-mini-golf-3d.json) |
 | Simple Monster Hunter | 265421 | [265421-simple-monster-hunter.json](./265421-simple-monster-hunter.json) |
 | Simple Multipliers | 243677 | [243677-simple-multipliers.json](./243677-simple-multipliers.json) |
 | Simple Number-Based Color Sense IQ Test | 290424 | [290424-simple-number-based-color-sense-iq-test.json](./290424-simple-number-based-color-sense-iq-test.json) |
@@ -3838,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Waste | 306706 | [306706-slot-waste.json](./306706-slot-waste.json) |
 | Slot! | 76551 | [76551-slot.json](./76551-slot.json) |
 | Slots & Slaughter | 411731 | [411731-slots-and-slaughter.json](./411731-slots-and-slaughter.json) |
+| Slots Ancient | 232572 | [232572-slots-ancient.json](./232572-slots-ancient.json) |
 | Slots of Poker at Aces Casino | 147974 | [147974-slots-of-poker-at-aces-casino.json](./147974-slots-of-poker-at-aces-casino.json) |
 | Slots of the Season | 147975 | [147975-slots-of-the-season.json](./147975-slots-of-the-season.json) |
 | Slots Royale: 777 Casino Games | 231072 | [231072-slots-royale-777-casino-games.json](./231072-slots-royale-777-casino-games.json) |
@@ -5673,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Vikings | 261551 | [261551-space-vikings.json](./261551-space-vikings.json) |
 | Space Voyage: The Puzzle Game | 220668 | [220668-space-voyage-the-puzzle-game.json](./220668-space-voyage-the-puzzle-game.json) |
 | Space Walk | 170527 | [170527-space-walk.json](./170527-space-walk.json) |
+| Space Walk: Memory Games for Adults | 232538 | [232538-space-walk-memory-games-for-adults.json](./232538-space-walk-memory-games-for-adults.json) |
 | Space War: Protect the Moon | 110289 | [110289-space-war-protect-the-moon.json](./110289-space-war-protect-the-moon.json) |
 | Space Warlord Baby Trading Simulator | 380432 | [380432-space-warlord-baby-trading-simulator.json](./380432-space-warlord-baby-trading-simulator.json) |
 | Space Wars | 125377 | [125377-space-wars.json](./125377-space-wars.json) |
@@ -8572,6 +8576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
 | Super Chuckie Egg | 96709 | [96709-super-chuckie-egg.json](./96709-super-chuckie-egg.json) |
 | Super City | 399730 | [399730-super-city.json](./399730-super-city.json) |
+| Super Citycon: City Builder | 232541 | [232541-super-citycon-city-builder.json](./232541-super-citycon-city-builder.json) |
 | Super Clash Crossover | 120413 | [120413-super-clash-crossover.json](./120413-super-clash-crossover.json) |
 | Super Climb Up!! | 377053 | [377053-super-climb-up.json](./377053-super-climb-up.json) |
 | Super Cloudbuilt | 27396 | [27396-super-cloudbuilt.json](./27396-super-cloudbuilt.json) |
