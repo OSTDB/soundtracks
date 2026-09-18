@@ -3232,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FragPunk: Toys Awaken - Season 2: Chapter 2 | 362276 | [362276-fragpunk-toys-awaken-season-2-chapter-2.json](./362276-fragpunk-toys-awaken-season-2-chapter-2.json) |
 | Fragrance Tale | 58175 | [58175-fragrance-tale.json](./58175-fragrance-tale.json) |
 | Fragrant Story and Papaya's Path | 315832 | [315832-fragrant-story-and-papayas-path.json](./315832-fragrant-story-and-papayas-path.json) |
+| Fragroom: Defenders | 190094 | [190094-fragroom-defenders.json](./190094-fragroom-defenders.json) |
 | Frak | 257472 | [257472-frak.json](./257472-frak.json) |
 | Frak | 350484 | [350484-frak.json](./350484-frak.json) |
 | Frak! | 91894 | [91894-frak.json](./91894-frak.json) |
