@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Elmo's ABCs | 49933 | [49933-sesame-street-elmos-abcs.json](./49933-sesame-street-elmos-abcs.json) |
 | Sesame Street: Ready, Set, Grover! With Elmo - The Videogame | 47954 | [47954-sesame-street-ready-set-grover-with-elmo-the-videogame.json](./47954-sesame-street-ready-set-grover-with-elmo-the-videogame.json) |
 | Sesame Street: Search & Learn Adventures | 245537 | [245537-sesame-street-search-and-learn-adventures.json](./245537-sesame-street-search-and-learn-adventures.json) |
+| Sesame Street: Solve It with Elmo, Abby and Super Grover 2.0! | 230400 | [230400-sesame-street-solve-it-with-elmo-abby-and-super-grover-2-0.json](./230400-sesame-street-solve-it-with-elmo-abby-and-super-grover-2-0.json) |
 | Sesame Street: The Happy Scientists | 230551 | [230551-sesame-street-the-happy-scientists.json](./230551-sesame-street-the-happy-scientists.json) |
 | Sesari 1 | 321131 | [321131-sesari-1.json](./321131-sesari-1.json) |
 | Sesshouseki: Malice Eater | 124758 | [124758-sesshouseki-malice-eater.json](./124758-sesshouseki-malice-eater.json) |
@@ -5623,6 +5624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
 | Space Raiders | 295938 | [295938-space-raiders.json](./295938-space-raiders.json) |
 | Space Raiders | 52000 | [52000-space-raiders.json](./52000-space-raiders.json) |
+| Space Raiders in Space + Clumsy Rush | 230406 | [230406-space-raiders-in-space-clumsy-rush.json](./230406-space-raiders-in-space-clumsy-rush.json) |
 | Space Ranger: Return to Earth | 45907 | [45907-space-ranger-return-to-earth.json](./45907-space-ranger-return-to-earth.json) |
 | Space Rangers | 7592 | [7592-space-rangers.json](./7592-space-rangers.json) |
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
@@ -5790,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
 | Sparkle 2 | 20069 | [20069-sparkle-2.json](./20069-sparkle-2.json) |
 | Sparkle 4 Tales | 116326 | [116326-sparkle-4-tales.json](./116326-sparkle-4-tales.json) |
+| Sparkle Milla: Eight Genetic Abnormalities and a Blood Ghost | 230371 | [230371-sparkle-milla-eight-genetic-abnormalities-and-a-blood-ghost.json](./230371-sparkle-milla-eight-genetic-abnormalities-and-a-blood-ghost.json) |
 | Sparkle Piglet | 212795 | [212795-sparkle-piglet.json](./212795-sparkle-piglet.json) |
 | Sparkle Snapshots | 67332 | [67332-sparkle-snapshots.json](./67332-sparkle-snapshots.json) |
 | Sparkle Unleashed | 20953 | [20953-sparkle-unleashed.json](./20953-sparkle-unleashed.json) |
@@ -6268,12 +6271,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spongebob Squarepants: Clash of Triton | 285586 | [285586-spongebob-squarepants-clash-of-triton.json](./285586-spongebob-squarepants-clash-of-triton.json) |
 | SpongeBob SquarePants: Dilly Dabber | 220119 | [220119-spongebob-squarepants-dilly-dabber.json](./220119-spongebob-squarepants-dilly-dabber.json) |
 | SpongeBob SquarePants: Employee of the Month | 2763 | [2763-spongebob-squarepants-employee-of-the-month.json](./2763-spongebob-squarepants-employee-of-the-month.json) |
+| SpongeBob SquarePants: Fists of Foam | 230401 | [230401-spongebob-squarepants-fists-of-foam.json](./230401-spongebob-squarepants-fists-of-foam.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
 | SpongeBob SquarePants: Four Squared | 288190 | [288190-spongebob-squarepants-four-squared.json](./288190-spongebob-squarepants-four-squared.json) |
 | SpongeBob SquarePants: JellyFish Dodge | 220116 | [220116-spongebob-squarepants-jellyfish-dodge.json](./220116-spongebob-squarepants-jellyfish-dodge.json) |
 | SpongeBob SquarePants: JellyFish Dodge | 220118 | [220118-spongebob-squarepants-jellyfish-dodge.json](./220118-spongebob-squarepants-jellyfish-dodge.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
 | SpongeBob SquarePants: Revenge of the Flying Dutchman | 2762 | [2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json](./2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json) |
+| SpongeBob SquarePants: The Clam Prix | 230402 | [230402-spongebob-squarepants-the-clam-prix.json](./230402-spongebob-squarepants-the-clam-prix.json) |
 | SpongeBob SquarePants: The Fry Cook Games | 220115 | [220115-spongebob-squarepants-the-fry-cook-games.json](./220115-spongebob-squarepants-the-fry-cook-games.json) |
 | SpongeBob SquarePants: The Patrick Star Game | 314939 | [314939-spongebob-squarepants-the-patrick-star-game.json](./314939-spongebob-squarepants-the-patrick-star-game.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
@@ -6918,6 +6923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
 | Star Wars: Tales from the Galaxy's Edge | 134957 | [134957-star-wars-tales-from-the-galaxys-edge.json](./134957-star-wars-tales-from-the-galaxys-edge.json) |
 | Star Wars: The Best of PC | 75085 | [75085-star-wars-the-best-of-pc.json](./75085-star-wars-the-best-of-pc.json) |
+| Star Wars: The Clone Wars | 230403 | [230403-star-wars-the-clone-wars.json](./230403-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 320344 | [320344-star-wars-the-clone-wars.json](./320344-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 3760 | [3760-star-wars-the-clone-wars.json](./3760-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 78357 | [78357-star-wars-the-clone-wars.json](./78357-star-wars-the-clone-wars.json) |
@@ -9255,6 +9261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Alternate Universe | 358315 | [358315-super-smash-bros-alternate-universe.json](./358315-super-smash-bros-alternate-universe.json) |
 | Super Smash Bros. Clash | 279590 | [279590-super-smash-bros-clash.json](./279590-super-smash-bros-clash.json) |
 | Super Smash Bros. Crusade Remix | 408816 | [408816-super-smash-bros-crusade-remix.json](./408816-super-smash-bros-crusade-remix.json) |
+| Super Smash Bros. Deluxe | 230369 | [230369-super-smash-bros-deluxe.json](./230369-super-smash-bros-deluxe.json) |
 | Super Smash Bros. for Nintendo 3DS: Ashley Hat + Ashley Outfit | 325073 | [325073-super-smash-bros-for-nintendo-3ds-ashley-hat-ashley-outfit.json](./325073-super-smash-bros-for-nintendo-3ds-ashley-hat-ashley-outfit.json) |
 | Super Smash Bros. for Nintendo 3DS: Geno Hat + Geno Outfit | 325077 | [325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json](./325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json) |
 | Super Smash Bros. for Nintendo 3DS: Stage Bundle | 325074 | [325074-super-smash-bros-for-nintendo-3ds-stage-bundle.json](./325074-super-smash-bros-for-nintendo-3ds-stage-bundle.json) |
@@ -9497,6 +9504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstition BlackCat | 330331 | [330331-superstition-blackcat.json](./330331-superstition-blackcat.json) |
 | Superstore | 328482 | [328482-superstore.json](./328482-superstore.json) |
 | SuperSuperMarket! | 302364 | [302364-supersupermarket.json](./302364-supersupermarket.json) |
+| SuperTotalCarnage! | 230356 | [230356-supertotalcarnage.json](./230356-supertotalcarnage.json) |
 | SuperTrucks Offroad Racing | 237384 | [237384-supertrucks-offroad-racing.json](./237384-supertrucks-offroad-racing.json) |
 | SuperWeird | 353883 | [353883-superweird.json](./353883-superweird.json) |
 | Supesu | 103445 | [103445-supesu.json](./103445-supesu.json) |
