@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Panic Amidahebi | 385745 | [385745-jungle-panic-amidahebi.json](./385745-jungle-panic-amidahebi.json) |
 | Jungle Quest | 230283 | [230283-jungle-quest.json](./230283-jungle-quest.json) |
 | Jungle Rot | 351677 | [351677-jungle-rot.json](./351677-jungle-rot.json) |
+| Jungle Runner | 192842 | [192842-jungle-runner.json](./192842-jungle-runner.json) |
 | Jungle Shadow | 374082 | [374082-jungle-shadow.json](./374082-jungle-shadow.json) |
 | Jungle Taitei | 353329 | [353329-jungle-taitei.json](./353329-jungle-taitei.json) |
 | Jungle Town: Birthday quest | 170498 | [170498-jungle-town-birthday-quest.json](./170498-jungle-town-birthday-quest.json) |
