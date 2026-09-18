@@ -3005,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forwards Compatible | 271742 | [271742-forwards-compatible.json](./271742-forwards-compatible.json) |
 | Forza Horizon - December IGN Car Pack | 132825 | [132825-forza-horizon-december-ign-car-pack.json](./132825-forza-horizon-december-ign-car-pack.json) |
 | Forza Horizon 2 Presents Fast & Furious | 74159 | [74159-forza-horizon-2-presents-fast-and-furious.json](./74159-forza-horizon-2-presents-fast-and-furious.json) |
+| Forza Horizon 3: Platinum plus Expansions Bundle | 201179 | [201179-forza-horizon-3-platinum-plus-expansions-bundle.json](./201179-forza-horizon-3-platinum-plus-expansions-bundle.json) |
 | Forza Horizon 4: Car Pass | 365709 | [365709-forza-horizon-4-car-pass.json](./365709-forza-horizon-4-car-pass.json) |
 | Forza Horizon 4: Expansions Bundle | 136391 | [136391-forza-horizon-4-expansions-bundle.json](./136391-forza-horizon-4-expansions-bundle.json) |
 | Forza Horizon 4: Welcome Pack | 365712 | [365712-forza-horizon-4-welcome-pack.json](./365712-forza-horizon-4-welcome-pack.json) |
