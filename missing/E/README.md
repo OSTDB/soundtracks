@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | Eexy Life: East End X Yuri | 252198 | [252198-eexy-life-east-end-x-yuri.json](./252198-eexy-life-east-end-x-yuri.json) |
 | EF-12: Fighting Game Maker | 57074 | [57074-ef-12-fighting-game-maker.json](./57074-ef-12-fighting-game-maker.json) |
+| Efemeris | 234204 | [234204-efemeris.json](./234204-efemeris.json) |
 | Effacer: Hangman from the 25th Century | 45932 | [45932-effacer-hangman-from-the-25th-century.json](./45932-effacer-hangman-from-the-25th-century.json) |
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
 | Efficus: Kono Omoi wo Kimi ni... | 339910 | [339910-efficus-kono-omoi-wo-kimi-ni.json](./339910-efficus-kono-omoi-wo-kimi-ni.json) |
@@ -2004,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exclusion Zone: Hunting Ground | 134616 | [134616-exclusion-zone-hunting-ground.json](./134616-exclusion-zone-hunting-ground.json) |
 | Exclusion Zone: Shadow Island | 134615 | [134615-exclusion-zone-shadow-island.json](./134615-exclusion-zone-shadow-island.json) |
 | Exclusive Memory | 319938 | [319938-exclusive-memory.json](./319938-exclusive-memory.json) |
+| Exclusively Yours: An Office Affair | 234151 | [234151-exclusively-yours-an-office-affair.json](./234151-exclusively-yours-an-office-affair.json) |
 | Excubitor | 19332 | [19332-excubitor.json](./19332-excubitor.json) |
 | Excursus | 177025 | [177025-excursus.json](./177025-excursus.json) |
 | Excycle | 266864 | [266864-excycle.json](./266864-excycle.json) |
@@ -2179,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extravaganza Rising | 32078 | [32078-extravaganza-rising.json](./32078-extravaganza-rising.json) |
 | Extreme Angler | 72051 | [72051-extreme-angler.json](./72051-extreme-angler.json) |
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
+| Extreme Car Drift Simulator | 234197 | [234197-extreme-car-drift-simulator.json](./234197-extreme-car-drift-simulator.json) |
 | Extreme Car Parking! | 310196 | [310196-extreme-car-parking.json](./310196-extreme-car-parking.json) |
 | Extreme Custom Night | 277965 | [277965-extreme-custom-night.json](./277965-extreme-custom-night.json) |
 | Extreme Cycling | 330189 | [330189-extreme-cycling.json](./330189-extreme-cycling.json) |
