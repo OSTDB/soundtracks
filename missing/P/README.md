@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Hazard | 74336 | [74336-pinball-hazard.json](./74336-pinball-hazard.json) |
 | Pinball HD | 175348 | [175348-pinball-hd.json](./175348-pinball-hd.json) |
 | Pinball HD | 88282 | [88282-pinball-hd.json](./88282-pinball-hd.json) |
+| Pinball Heroes | 229161 | [229161-pinball-heroes.json](./229161-pinball-heroes.json) |
 | Pinball Heroes Bundle 2 | 99584 | [99584-pinball-heroes-bundle-2.json](./99584-pinball-heroes-bundle-2.json) |
 | Pinball Heroes: Wipeout HD Fury | 52655 | [52655-pinball-heroes-wipeout-hd-fury.json](./52655-pinball-heroes-wipeout-hd-fury.json) |
 | Pinball Jam | 187479 | [187479-pinball-jam.json](./187479-pinball-jam.json) |
@@ -2452,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster 2: Bonus Ride Collection | 371960 | [371960-planet-coaster-2-bonus-ride-collection.json](./371960-planet-coaster-2-bonus-ride-collection.json) |
 | Planet Coaster 2: Deluxe Edition | 331854 | [331854-planet-coaster-2-deluxe-edition.json](./331854-planet-coaster-2-deluxe-edition.json) |
 | Planet Collectors: Episode Earth | 193423 | [193423-planet-collectors-episode-earth.json](./193423-planet-collectors-episode-earth.json) |
+| Planet Collision | 229178 | [229178-planet-collision.json](./229178-planet-collision.json) |
 | Planet Craft | 181310 | [181310-planet-craft.json](./181310-planet-craft.json) |
 | Planet Crafter | 143574 | [143574-planet-crafter.json](./143574-planet-crafter.json) |
 | Planet Crashers | 21036 | [21036-planet-crashers.json](./21036-planet-crashers.json) |
@@ -3414,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Runner | 49954 | [49954-portal-runner.json](./49954-portal-runner.json) |
 | Portal Shot Gun Teleport | 290436 | [290436-portal-shot-gun-teleport.json](./290436-portal-shot-gun-teleport.json) |
 | Portal Together | 410208 | [410208-portal-together.json](./410208-portal-together.json) |
+| Portal Versus | 229179 | [229179-portal-versus.json](./229179-portal-versus.json) |
 | Portal Walker | 59954 | [59954-portal-walker.json](./59954-portal-walker.json) |
 | Portal War | 221752 | [221752-portal-war.json](./221752-portal-war.json) |
 | Portal with RTX | 218277 | [218277-portal-with-rtx.json](./218277-portal-with-rtx.json) |
@@ -4321,6 +4324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Starfighter | 62147 | [62147-project-starfighter.json](./62147-project-starfighter.json) |
 | Project: Station | 380434 | [380434-project-station.json](./380434-project-station.json) |
 | Project: Summer Ice - Bowling: Online | 221975 | [221975-project-summer-ice-bowling-online.json](./221975-project-summer-ice-bowling-online.json) |
+| Project: Summer Ice - Bowling: Story Five - Mark Version | 229168 | [229168-project-summer-ice-bowling-story-five-mark-version.json](./229168-project-summer-ice-bowling-story-five-mark-version.json) |
 | Project: Summer Ice - Bowling: Story Four - Jane Version | 215106 | [215106-project-summer-ice-bowling-story-four-jane-version.json](./215106-project-summer-ice-bowling-story-four-jane-version.json) |
 | Project: Summer Ice - Bowling: Story One - Jane Version | 215359 | [215359-project-summer-ice-bowling-story-one-jane-version.json](./215359-project-summer-ice-bowling-story-one-jane-version.json) |
 | Project: Summer Ice - Bowling: Story One - Mark Version | 215125 | [215125-project-summer-ice-bowling-story-one-mark-version.json](./215125-project-summer-ice-bowling-story-one-mark-version.json) |
