@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jams | 340765 | [340765-jams.json](./340765-jams.json) |
 | Jamster Allstars | 333561 | [333561-jamster-allstars.json](./333561-jamster-allstars.json) |
 | Jan Friend | 84230 | [84230-jan-friend.json](./84230-jan-friend.json) |
+| Jan Jaka Jan | 233593 | [233593-jan-jaka-jan.json](./233593-jan-jaka-jan.json) |
 | Jan Jan Paradise | 40191 | [40191-jan-jan-paradise.json](./40191-jan-jan-paradise.json) |
 | Jan Jan Paradise 2 | 40190 | [40190-jan-jan-paradise-2.json](./40190-jan-jan-paradise-2.json) |
 | Jan Ken Pro! | 333638 | [333638-jan-ken-pro.json](./333638-jan-ken-pro.json) |
