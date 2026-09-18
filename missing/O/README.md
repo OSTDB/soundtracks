@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onironautilus The Other Side | 398350 | [398350-onironautilus-the-other-side.json](./398350-onironautilus-the-other-side.json) |
 | Onironautilus: Oppression | 398352 | [398352-onironautilus-oppression.json](./398352-onironautilus-oppression.json) |
 | Onironautilus: Uncolored | 398351 | [398351-onironautilus-uncolored.json](./398351-onironautilus-uncolored.json) |
+| Onitama | 183438 | [183438-onitama.json](./183438-onitama.json) |
 | Oniwaki Village | 331881 | [331881-oniwaki-village.json](./331881-oniwaki-village.json) |
 | Online Artillery 2 | 58748 | [58748-online-artillery-2.json](./58748-online-artillery-2.json) |
 | Online Open World RPG | 234078 | [234078-online-open-world-rpg.json](./234078-online-open-world-rpg.json) |
