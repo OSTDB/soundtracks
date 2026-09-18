@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over The Phone | 282676 | [282676-over-the-phone.json](./282676-over-the-phone.json) |
 | Over the Radio | 369086 | [369086-over-the-radio.json](./369086-over-the-radio.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
+| Overage: Child of Chaos | 203306 | [203306-overage-child-of-chaos.json](./203306-overage-child-of-chaos.json) |
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
 | Overboard | 122430 | [122430-overboard.json](./122430-overboard.json) |
 | Overbooked | 413044 | [413044-overbooked.json](./413044-overbooked.json) |
