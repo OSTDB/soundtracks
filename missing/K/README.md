@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaire | 344388 | [344388-kaire.json](./344388-kaire.json) |
 | Kairo Land | 208037 | [208037-kairo-land.json](./208037-kairo-land.json) |
 | Kairobotica | 61069 | [61069-kairobotica.json](./61069-kairobotica.json) |
+| Kairos | 229155 | [229155-kairos.json](./229155-kairos.json) |
 | Kairos'Light | 132235 | [132235-kairoslight.json](./132235-kairoslight.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
 | Kaisho | 276270 | [276270-kaisho.json](./276270-kaisho.json) |
@@ -1447,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotowari: Kimi no Kokoro no Koboreta Kakera | 382785 | [382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json](./382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json) |
 | Kouchuu Ouja Mushiking: Mori no Tami no Densetsu - Minna de Tanken! Kouchuu no Mori | 123621 | [123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json](./123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json) |
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
+| Kouenji Joshi Soccer | 229201 | [229201-kouenji-joshi-soccer.json](./229201-kouenji-joshi-soccer.json) |
 | Kouhai wo Iwau Saisho no Fuyu | 406204 | [406204-kouhai-wo-iwau-saisho-no-fuyu.json](./406204-kouhai-wo-iwau-saisho-no-fuyu.json) |
 | Kounai Shasei Vol.1: Yonimo H na Monogatari | 248107 | [248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json](./248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json) |
 | Koutetsu Yousai Strahl | 40221 | [40221-koutetsu-yousai-strahl.json](./40221-koutetsu-yousai-strahl.json) |
