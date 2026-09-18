@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osomatsu-san: Hesokuri Wars | 56477 | [56477-osomatsu-san-hesokuri-wars.json](./56477-osomatsu-san-hesokuri-wars.json) |
 | OSR Unhinged | 91946 | [91946-osr-unhinged.json](./91946-osr-unhinged.json) |
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
+| Ostalgie: Disorder in Yugoslavia | 196151 | [196151-ostalgie-disorder-in-yugoslavia.json](./196151-ostalgie-disorder-in-yugoslavia.json) |
 | Ostalgie: The Berlin Wall - Legacy of Hoxha | 172165 | [172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json](./172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json) |
 | Ostallian Core | 294298 | [294298-ostallian-core.json](./294298-ostallian-core.json) |
 | Ostekrigen på Mælkevejen | 91455 | [91455-ostekrigen-pa-m-lkevejen.json](./91455-ostekrigen-pa-m-lkevejen.json) |
