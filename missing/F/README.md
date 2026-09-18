@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
 | Faith Fighter 2 | 64375 | [64375-faith-fighter-2.json](./64375-faith-fighter-2.json) |
 | Faithfall | 401662 | [401662-faithfall.json](./401662-faithfall.json) |
+| Faithful Backrooms | 212883 | [212883-faithful-backrooms.json](./212883-faithful-backrooms.json) |
 | Fake Block | 96711 | [96711-fake-block.json](./96711-fake-block.json) |
 | Fake Ducks: Spooky Chronicles | 322398 | [322398-fake-ducks-spooky-chronicles.json](./322398-fake-ducks-spooky-chronicles.json) |
 | Fake Emperors | 264060 | [264060-fake-emperors.json](./264060-fake-emperors.json) |
@@ -3279,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freezeer | 103630 | [103630-freezeer.json](./103630-freezeer.json) |
 | Freezing Knights | 293750 | [293750-freezing-knights.json](./293750-freezing-knights.json) |
 | Fregocles y la Desinfección del Olimpo | 322551 | [322551-fregocles-y-la-desinfeccion-del-olimpo.json](./322551-fregocles-y-la-desinfeccion-del-olimpo.json) |
+| Freight Hopper | 212880 | [212880-freight-hopper.json](./212880-freight-hopper.json) |
 | Freight Manager | 365742 | [365742-freight-manager.json](./365742-freight-manager.json) |
 | FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
 | FrenVania | 143047 | [143047-frenvania.json](./143047-frenvania.json) |
