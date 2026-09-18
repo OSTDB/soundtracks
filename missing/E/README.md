@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Football Champ | 42573 | [42573-european-football-champ.json](./42573-european-football-champ.json) |
 | European Games | 100112 | [100112-european-games.json](./100112-european-games.json) |
 | European Mystery: Scent of Desire - Collector's Edition | 29749 | [29749-european-mystery-scent-of-desire-collectors-edition.json](./29749-european-mystery-scent-of-desire-collectors-edition.json) |
+| European Soccer Cup 2016 Slot | 232535 | [232535-european-soccer-cup-2016-slot.json](./232535-european-soccer-cup-2016-slot.json) |
 | European Super League | 334686 | [334686-european-super-league.json](./334686-european-super-league.json) |
 | Eurydice Exhumed | 264122 | [264122-eurydice-exhumed.json](./264122-eurydice-exhumed.json) |
 | Eutolant Saga | 342054 | [342054-eutolant-saga.json](./342054-eutolant-saga.json) |
@@ -2196,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Go-Kart Racing | 45306 | [45306-extreme-go-kart-racing.json](./45306-extreme-go-kart-racing.json) |
 | Extreme Hill Driver | 414387 | [414387-extreme-hill-driver.json](./414387-extreme-hill-driver.json) |
 | Extreme Jump | 312188 | [312188-extreme-jump.json](./312188-extreme-jump.json) |
+| Extreme Karts | 232545 | [232545-extreme-karts.json](./232545-extreme-karts.json) |
 | Extreme Landings | 88296 | [88296-extreme-landings.json](./88296-extreme-landings.json) |
 | Extreme Landings Pro | 86898 | [86898-extreme-landings-pro.json](./86898-extreme-landings-pro.json) |
 | Extreme Makeover: Home Edition | 262061 | [262061-extreme-makeover-home-edition.json](./262061-extreme-makeover-home-edition.json) |
