@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Butterflies | 353283 | [353283-garden-of-butterflies.json](./353283-garden-of-butterflies.json) |
 | Garden of Coloured Lights | 107235 | [107235-garden-of-coloured-lights.json](./107235-garden-of-coloured-lights.json) |
 | Garden of Pets | 233004 | [233004-garden-of-pets.json](./233004-garden-of-pets.json) |
+| Garden of Seif: Chronicles of an Assassin | 195081 | [195081-garden-of-seif-chronicles-of-an-assassin.json](./195081-garden-of-seif-chronicles-of-an-assassin.json) |
 | Garden of Seif: Curse of Gravehollow Peaks | 209456 | [209456-garden-of-seif-curse-of-gravehollow-peaks.json](./209456-garden-of-seif-curse-of-gravehollow-peaks.json) |
 | Garden of Wandering Souls | 327174 | [327174-garden-of-wandering-souls.json](./327174-garden-of-wandering-souls.json) |
 | Garden Paradise | 305937 | [305937-garden-paradise.json](./305937-garden-paradise.json) |
@@ -981,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gevaudan | 41106 | [41106-gevaudan.json](./41106-gevaudan.json) |
 | Gex 3: Deep Cover Gecko | 3505 | [3505-gex-3-deep-cover-gecko.json](./3505-gex-3-deep-cover-gecko.json) |
 | Gex 3: Deep Pocket Gecko | 49929 | [49929-gex-3-deep-pocket-gecko.json](./49929-gex-3-deep-pocket-gecko.json) |
+| Gex Jr. | 195089 | [195089-gex-jr.json](./195089-gex-jr.json) |
 | Gex: Enter the Gecko | 248746 | [248746-gex-enter-the-gecko.json](./248746-gex-enter-the-gecko.json) |
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
 | GG Date Me | 178567 | [178567-gg-date-me.json](./178567-gg-date-me.json) |
@@ -2364,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Inferno | 410929 | [410929-green-inferno.json](./410929-green-inferno.json) |
 | Green Lantern Battle Cards | 64339 | [64339-green-lantern-battle-cards.json](./64339-green-lantern-battle-cards.json) |
 | Green Lantern: Rise of the Manhunters | 4896 | [4896-green-lantern-rise-of-the-manhunters.json](./4896-green-lantern-rise-of-the-manhunters.json) |
+| Green Lava Studios Volume 2 | 195092 | [195092-green-lava-studios-volume-2.json](./195092-green-lava-studios-volume-2.json) |
 | Green Ninja: Year of the Frog | 280914 | [280914-green-ninja-year-of-the-frog.json](./280914-green-ninja-year-of-the-frog.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Ogre Gives You Terrible Life Advice and Dies | 309507 | [309507-green-ogre-gives-you-terrible-life-advice-and-dies.json](./309507-green-ogre-gives-you-terrible-life-advice-and-dies.json) |
