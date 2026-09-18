@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickle Pop | 317446 | [317446-pickle-pop.json](./317446-pickle-pop.json) |
 | Pickmos | 395697 | [395697-pickmos.json](./395697-pickmos.json) |
 | Pickochet | 388959 | [388959-pickochet.json](./388959-pickochet.json) |
+| Pickup One | 202753 | [202753-pickup-one.json](./202753-pickup-one.json) |
 | Pickup Point Simulator | 304613 | [304613-pickup-point-simulator.json](./304613-pickup-point-simulator.json) |
 | Picnic Syndrome | 341578 | [341578-picnic-syndrome.json](./341578-picnic-syndrome.json) |
 | Picnic Wars | 20805 | [20805-picnic-wars.json](./20805-picnic-wars.json) |
