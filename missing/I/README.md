@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into Asteroid Belt | 178641 | [178641-into-asteroid-belt.json](./178641-into-asteroid-belt.json) |
 | Into Magicland | 45342 | [45342-into-magicland.json](./45342-into-magicland.json) |
 | Into Oblivion | 301586 | [301586-into-oblivion.json](./301586-into-oblivion.json) |
+| Into Ruins | 224107 | [224107-into-ruins.json](./224107-into-ruins.json) |
 | Into the Blue | 109033 | [109033-into-the-blue.json](./109033-into-the-blue.json) |
 | Into the Box | 183001 | [183001-into-the-box.json](./183001-into-the-box.json) |
 | Into the Breach: Advanced Edition | 247511 | [247511-into-the-breach-advanced-edition.json](./247511-into-the-breach-advanced-edition.json) |
