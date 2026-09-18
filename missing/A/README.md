@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almos a Dream Painter's Tale | 415125 | [415125-almos-a-dream-painters-tale.json](./415125-almos-a-dream-painters-tale.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Almost There: The Platformer | 113722 | [113722-almost-there-the-platformer.json](./113722-almost-there-the-platformer.json) |
+| Alnahsha Run | 202235 | [202235-alnahsha-run.json](./202235-alnahsha-run.json) |
 | Aloha Play | 91408 | [91408-aloha-play.json](./91408-aloha-play.json) |
 | Alone but Strong | 369625 | [369625-alone-but-strong.json](./369625-alone-but-strong.json) |
 | Alone In a Dream | 156665 | [156665-alone-in-a-dream.json](./156665-alone-in-a-dream.json) |
@@ -1834,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amigo pancho | 19498 | [19498-amigo-pancho.json](./19498-amigo-pancho.json) |
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
 | Amigo: Kebab Simulator | 243141 | [243141-amigo-kebab-simulator.json](./243141-amigo-kebab-simulator.json) |
+| Amillusion | 202238 | [202238-amillusion.json](./202238-amillusion.json) |
 | Amina's Kitchen | 91980 | [91980-aminas-kitchen.json](./91980-aminas-kitchen.json) |
 | AmiWordle | 304190 | [304190-amiwordle.json](./304190-amiwordle.json) |
 | Amma: A Quest for Light | 138223 | [138223-amma-a-quest-for-light.json](./138223-amma-a-quest-for-light.json) |
@@ -1870,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amorphous | 265242 | [265242-amorphous.json](./265242-amorphous.json) |
 | Amour Libre: Free Love | 129794 | [129794-amour-libre-free-love.json](./129794-amour-libre-free-love.json) |
 | Amped 3 | 5483 | [5483-amped-3.json](./5483-amped-3.json) |
+| Ampere | 202265 | [202265-ampere.json](./202265-ampere.json) |
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
 | Amphis Game | 381122 | [381122-amphis-game.json](./381122-amphis-game.json) |
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
@@ -1937,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anata dake no Private Lesson: DS de Hajimeru Tipness no Yoga | 269550 | [269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json](./269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json) |
 | Anata o Yurusanai | 59396 | [59396-anata-o-yurusanai.json](./59396-anata-o-yurusanai.json) |
 | Anbar | 387545 | [387545-anbar.json](./387545-anbar.json) |
+| Ancestor's Legacy: Conqueror's Edition | 202221 | [202221-ancestors-legacy-conquerors-edition.json](./202221-ancestors-legacy-conquerors-edition.json) |
 | Ancestors Legacy: Special Edition | 124820 | [124820-ancestors-legacy-special-edition.json](./124820-ancestors-legacy-special-edition.json) |
 | Ancestral | 318397 | [318397-ancestral.json](./318397-ancestral.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
@@ -2459,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Try | 127097 | [127097-another-try.json](./127097-another-try.json) |
 | Another Try 2 | 291460 | [291460-another-try-2.json](./291460-another-try-2.json) |
 | Another Warfare | 156662 | [156662-another-warfare.json](./156662-another-warfare.json) |
+| Another Way | 202239 | [202239-another-way.json](./202239-another-way.json) |
 | Another Way of Gettin' Paid | 319234 | [319234-another-way-of-gettin-paid.json](./319234-another-way-of-gettin-paid.json) |
 | Another Way of Gettin' Paid | 319235 | [319235-another-way-of-gettin-paid.json](./319235-another-way-of-gettin-paid.json) |
 | Another World Adventures | 379448 | [379448-another-world-adventures.json](./379448-another-world-adventures.json) |
@@ -2715,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Sauce Room 2 | 237473 | [237473-apple-sauce-room-2.json](./237473-apple-sauce-room-2.json) |
 | Apple Sauce Western | 239067 | [239067-apple-sauce-western.json](./239067-apple-sauce-western.json) |
 | Apple Sauce X mas | 239070 | [239070-apple-sauce-x-mas.json](./239070-apple-sauce-x-mas.json) |
+| Apple Shooter | 202248 | [202248-apple-shooter.json](./202248-apple-shooter.json) |
 | Apples and Oranges | 308424 | [308424-apples-and-oranges.json](./308424-apples-and-oranges.json) |
 | Appleseed: Prometheus no Shintaku | 38370 | [38370-appleseed-prometheus-no-shintaku.json](./38370-appleseed-prometheus-no-shintaku.json) |
 | AppleSnake | 51989 | [51989-applesnake.json](./51989-applesnake.json) |
@@ -2969,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Legends: OutRun 2019 | 202797 | [202797-arcade-legends-outrun-2019.json](./202797-arcade-legends-outrun-2019.json) |
 | Arcade Legends: Sega Genesis | 202799 | [202799-arcade-legends-sega-genesis.json](./202799-arcade-legends-sega-genesis.json) |
 | Arcade Legends: Sega Genesis Volume 2 | 202802 | [202802-arcade-legends-sega-genesis-volume-2.json](./202802-arcade-legends-sega-genesis-volume-2.json) |
+| Arcade Legends: Sega Genesis Volume 3 - Super Sonic Gold | 202261 | [202261-arcade-legends-sega-genesis-volume-3-super-sonic-gold.json](./202261-arcade-legends-sega-genesis-volume-3-super-sonic-gold.json) |
 | Arcade Machine: Clown Hunt | 232991 | [232991-arcade-machine-clown-hunt.json](./232991-arcade-machine-clown-hunt.json) |
 | Arcade Master | 202866 | [202866-arcade-master.json](./202866-arcade-master.json) |
 | Arcade Master | 206139 | [206139-arcade-master.json](./206139-arcade-master.json) |
@@ -4235,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augmented Fear | 376547 | [376547-augmented-fear.json](./376547-augmented-fear.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
 | Augurium Mortis | 304685 | [304685-augurium-mortis.json](./304685-augurium-mortis.json) |
+| August 31 | 202240 | [202240-august-31.json](./202240-august-31.json) |
 | August Night | 217858 | [217858-august-night.json](./217858-august-night.json) |
 | Auld Lang Syne: Cat and Mouse | 305361 | [305361-auld-lang-syne-cat-and-mouse.json](./305361-auld-lang-syne-cat-and-mouse.json) |
 | Aum the Game | 369118 | [369118-aum-the-game.json](./369118-aum-the-game.json) |
