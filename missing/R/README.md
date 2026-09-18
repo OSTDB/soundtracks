@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Racer II | 48091 | [48091-rad-racer-ii.json](./48091-rad-racer-ii.json) |
 | Rad Rally | 39569 | [39569-rad-rally.json](./39569-rad-rally.json) |
 | Rad Venture | 215204 | [215204-rad-venture.json](./215204-rad-venture.json) |
+| Rad: Before the Adventure | 183470 | [183470-rad-before-the-adventure.json](./183470-rad-before-the-adventure.json) |
 | Radarjam | 132758 | [132758-radarjam.json](./132758-radarjam.json) |
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
@@ -429,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakshasa Street: Wargod | 193894 | [193894-rakshasa-street-wargod.json](./193894-rakshasa-street-wargod.json) |
 | Rakuen | 28544 | [28544-rakuen.json](./28544-rakuen.json) |
 | Rakuen Yuki | 205645 | [205645-rakuen-yuki.json](./205645-rakuen-yuki.json) |
+| Rakuga Fantasy | 183436 | [183436-rakuga-fantasy.json](./183436-rakuga-fantasy.json) |
 | Rakugaki Kingdom | 221245 | [221245-rakugaki-kingdom.json](./221245-rakugaki-kingdom.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
 | Rally Arcade Classics | 319408 | [319408-rally-arcade-classics.json](./319408-rally-arcade-classics.json) |
