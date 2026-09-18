@@ -239,6 +239,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Truely a Good Guy! | 337483 | [337483-im-truely-a-good-guy.json](./337483-im-truely-a-good-guy.json) |
 | I'mitation: The Eight Suicide Note | 132258 | [132258-imitation-the-eight-suicide-note.json](./132258-imitation-the-eight-suicide-note.json) |
 | I've Fallen For You! | 319944 | [319944-ive-fallen-for-you.json](./319944-ive-fallen-for-you.json) |
+| I've Seen Everything: More Animals | 188478 | [188478-ive-seen-everything-more-animals.json](./188478-ive-seen-everything-more-animals.json) |
+| I've Seen Everything: More Dinosaurs | 188485 | [188485-ive-seen-everything-more-dinosaurs.json](./188485-ive-seen-everything-more-dinosaurs.json) |
+| I've Seen Everything: More Fishes | 188482 | [188482-ive-seen-everything-more-fishes.json](./188482-ive-seen-everything-more-fishes.json) |
+| I've Seen Everything: More Fruits | 188487 | [188487-ive-seen-everything-more-fruits.json](./188487-ive-seen-everything-more-fruits.json) |
+| I've Seen Everything: More Minerals | 188481 | [188481-ive-seen-everything-more-minerals.json](./188481-ive-seen-everything-more-minerals.json) |
+| I've Seen Everything: More Musical Instruments | 188480 | [188480-ive-seen-everything-more-musical-instruments.json](./188480-ive-seen-everything-more-musical-instruments.json) |
+| I've Seen Everything: More Mythological Creatures | 188484 | [188484-ive-seen-everything-more-mythological-creatures.json](./188484-ive-seen-everything-more-mythological-creatures.json) |
+| I've Seen Everything: More Painters | 188479 | [188479-ive-seen-everything-more-painters.json](./188479-ive-seen-everything-more-painters.json) |
+| I've Seen Everything: More Persons | 188486 | [188486-ive-seen-everything-more-persons.json](./188486-ive-seen-everything-more-persons.json) |
+| I've Seen Everything: More Singers | 188483 | [188483-ive-seen-everything-more-singers.json](./188483-ive-seen-everything-more-singers.json) |
 | I’ve Transmigrated as the Supreme Villainess... But I Have No Idea WTF I’m Supposed to Do! | 177511 | [177511-i-ve-transmigrated-as-the-supreme-villainess-but-i-have-no-idea-wtf-i-m-supposed-to-do.json](./177511-i-ve-transmigrated-as-the-supreme-villainess-but-i-have-no-idea-wtf-i-m-supposed-to-do.json) |
 | I*Chu: Chibi Edition | 292142 | [292142-i-chu-chibi-edition.json](./292142-i-chu-chibi-edition.json) |
 | I/O | 64950 | [64950-i-o.json](./64950-i-o.json) |
@@ -1117,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity | 13729 | [13729-infinity.json](./13729-infinity.json) |
 | Infinity | 313865 | [313865-infinity.json](./313865-infinity.json) |
 | Infinity Attackers | 120415 | [120415-infinity-attackers.json](./120415-infinity-attackers.json) |
+| Infinity BattleSoul | 188516 | [188516-infinity-battlesoul.json](./188516-infinity-battlesoul.json) |
 | Infinity Beats Song Edition | 87150 | [87150-infinity-beats-song-edition.json](./87150-infinity-beats-song-edition.json) |
 | Infinity Blade | 10029 | [10029-infinity-blade.json](./10029-infinity-blade.json) |
 | Infinity Blade II | 20644 | [20644-infinity-blade-ii.json](./20644-infinity-blade-ii.json) |
