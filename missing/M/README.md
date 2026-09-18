@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Crown | 81054 | [81054-mad-crown.json](./81054-mad-crown.json) |
 | Mad Daedalus | 218160 | [218160-mad-daedalus.json](./218160-mad-daedalus.json) |
 | Mad Devils: Damned-finitive Edition | 313337 | [313337-mad-devils-damned-finitive-edition.json](./313337-mad-devils-damned-finitive-edition.json) |
+| Mad Dex 2 | 227917 | [227917-mad-dex-2.json](./227917-mad-dex-2.json) |
 | Mad Experiments 2: Premium Pack | 263048 | [263048-mad-experiments-2-premium-pack.json](./263048-mad-experiments-2-premium-pack.json) |
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
 | Mad Games Tycoon | 13172 | [13172-mad-games-tycoon.json](./13172-mad-games-tycoon.json) |
@@ -609,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimaimaigoen: Episode 3 - The Divided Children | 343902 | [343902-maimaimaigoen-episode-3-the-divided-children.json](./343902-maimaimaigoen-episode-3-the-divided-children.json) |
 | Main Action | 254777 | [254777-main-action.json](./254777-main-action.json) |
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
+| Mainichi no Mimikaki | 227954 | [227954-mainichi-no-mimikaki.json](./227954-mainichi-no-mimikaki.json) |
 | Mainly at Rest | 165669 | [165669-mainly-at-rest.json](./165669-mainly-at-rest.json) |
 | Maison Kanraku: The Second Climax | 59992 | [59992-maison-kanraku-the-second-climax.json](./59992-maison-kanraku-the-second-climax.json) |
 | Maize | 19518 | [19518-maize.json](./19518-maize.json) |
@@ -2504,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Studio: Fashion Makeover | 315111 | [315111-merge-studio-fashion-makeover.json](./315111-merge-studio-fashion-makeover.json) |
 | Merge Together | 323340 | [323340-merge-together.json](./323340-merge-together.json) |
 | Merge Town! | 87347 | [87347-merge-town.json](./87347-merge-town.json) |
+| Merge Villa | 227958 | [227958-merge-villa.json](./227958-merge-villa.json) |
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
 | MergeZ | 300849 | [300849-mergez.json](./300849-mergez.json) |
@@ -3149,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millispeed | 351633 | [351633-millispeed.json](./351633-millispeed.json) |
 | Millivolt | 334155 | [334155-millivolt.json](./334155-millivolt.json) |
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
+| Millsberry | 227936 | [227936-millsberry.json](./227936-millsberry.json) |
 | Milly's Meadow | 346663 | [346663-millys-meadow.json](./346663-millys-meadow.json) |
 | MilMo | 93509 | [93509-milmo.json](./93509-milmo.json) |
 | Milo | 187525 | [187525-milo.json](./187525-milo.json) |
@@ -4085,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
 | Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
+| Mongol | 227967 | [227967-mongol.json](./227967-mongol.json) |
 | Mônica Dentuça | 216273 | [216273-monica-dentuca.json](./216273-monica-dentuca.json) |
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
 | Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
