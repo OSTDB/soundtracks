@@ -2999,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 4: Welcome Pack | 365712 | [365712-forza-horizon-4-welcome-pack.json](./365712-forza-horizon-4-welcome-pack.json) |
 | Forza Horizon 5 Nissan Heritage Car Pack | 361777 | [361777-forza-horizon-5-nissan-heritage-car-pack.json](./361777-forza-horizon-5-nissan-heritage-car-pack.json) |
 | Forza Horizon 5 Universal Icons Car Pack | 361779 | [361779-forza-horizon-5-universal-icons-car-pack.json](./361779-forza-horizon-5-universal-icons-car-pack.json) |
+| Forza Horizon 5: 2019 Nissan 370Z Nismo | 208448 | [208448-forza-horizon-5-2019-nissan-370z-nismo.json](./208448-forza-horizon-5-2019-nissan-370z-nismo.json) |
 | Forza Horizon 5: American Automotive Car Pack | 275616 | [275616-forza-horizon-5-american-automotive-car-pack.json](./275616-forza-horizon-5-american-automotive-car-pack.json) |
 | Forza Horizon 5: Apex Allstars Car Pack | 305531 | [305531-forza-horizon-5-apex-allstars-car-pack.json](./305531-forza-horizon-5-apex-allstars-car-pack.json) |
 | Forza Horizon 5: Car Pass | 293918 | [293918-forza-horizon-5-car-pass.json](./293918-forza-horizon-5-car-pass.json) |
@@ -3125,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fracture In Space | 217291 | [217291-fracture-in-space.json](./217291-fracture-in-space.json) |
 | Fracture Point | 335257 | [335257-fracture-point.json](./335257-fracture-point.json) |
 | Fracture the Flag | 26551 | [26551-fracture-the-flag.json](./26551-fracture-the-flag.json) |
+| Fracture: City of Destruction | 208444 | [208444-fracture-city-of-destruction.json](./208444-fracture-city-of-destruction.json) |
 | Fractured Balance | 352290 | [352290-fractured-balance.json](./352290-fractured-balance.json) |
 | Fractured Lands | 102871 | [102871-fractured-lands.json](./102871-fractured-lands.json) |
 | Fractured Mind | 294273 | [294273-fractured-mind.json](./294273-fractured-mind.json) |
@@ -3489,6 +3491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogmageddon | 322799 | [322799-frogmageddon.json](./322799-frogmageddon.json) |
 | Frogman Magmaborn | 190144 | [190144-frogman-magmaborn.json](./190144-frogman-magmaborn.json) |
 | Frogmaster | 268035 | [268035-frogmaster.json](./268035-frogmaster.json) |
+| Frogo | 208426 | [208426-frogo.json](./208426-frogo.json) |
 | Frogs Also Struggle | 258202 | [258202-frogs-also-struggle.json](./258202-frogs-also-struggle.json) |
 | Frogshot Adventure | 380559 | [380559-frogshot-adventure.json](./380559-frogshot-adventure.json) |
 | FrogStatue | 104046 | [104046-frogstatue.json](./104046-frogstatue.json) |
@@ -3654,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frutiger Aero | 354488 | [354488-frutiger-aero.json](./354488-frutiger-aero.json) |
 | Frutiger Space | 366227 | [366227-frutiger-space.json](./366227-frutiger-space.json) |
 | Frutz | 405530 | [405530-frutz.json](./405530-frutz.json) |
+| FSR: French Street Racing | 208480 | [208480-fsr-french-street-racing.json](./208480-fsr-french-street-racing.json) |
 | FTB | 351712 | [351712-ftb.json](./351712-ftb.json) |
 | FTB Academy | 396938 | [396938-ftb-academy.json](./396938-ftb-academy.json) |
 | FTB Evolution | 355091 | [355091-ftb-evolution.json](./355091-ftb-evolution.json) |
