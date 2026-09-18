@@ -1853,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessaria: The Tactical Adventure | 55247 | [55247-chessaria-the-tactical-adventure.json](./55247-chessaria-the-tactical-adventure.json) |
 | Chesscape Room | 378891 | [378891-chesscape-room.json](./378891-chesscape-room.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
+| Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
 | Chesskoban Bishop | 189106 | [189106-chesskoban-bishop.json](./189106-chesskoban-bishop.json) |
 | Chesskoban Cyber | 195144 | [195144-chesskoban-cyber.json](./195144-chesskoban-cyber.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
@@ -2913,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clothing Boutique Simulator: Store Manager | 370802 | [370802-clothing-boutique-simulator-store-manager.json](./370802-clothing-boutique-simulator-store-manager.json) |
 | Clotilde Soffritti in Never Double Park your Spaceship | 217876 | [217876-clotilde-soffritti-in-never-double-park-your-spaceship.json](./217876-clotilde-soffritti-in-never-double-park-your-spaceship.json) |
 | Clotilde Soffritti in: Never Buy a Used Spaceship | 217875 | [217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json](./217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json) |
+| Clou: Roll & Heist | 195644 | [195644-clou-roll-and-heist.json](./195644-clou-roll-and-heist.json) |
 | Cloud Castle | 275874 | [275874-cloud-castle.json](./275874-cloud-castle.json) |
 | Cloud Chasers | 23657 | [23657-cloud-chasers.json](./23657-cloud-chasers.json) |
 | Cloud Climber | 142314 | [142314-cloud-climber.json](./142314-cloud-climber.json) |
