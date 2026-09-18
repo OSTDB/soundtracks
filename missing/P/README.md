@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parcels and Pollen | 177503 | [177503-parcels-and-pollen.json](./177503-parcels-and-pollen.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
 | pareidolia in █▄██▄▄ | 280796 | [280796-pareidolia-in.json](./280796-pareidolia-in.json) |
+| Parents vs. Kids | 226320 | [226320-parents-vs-kids.json](./226320-parents-vs-kids.json) |
 | Parfait Fan Box | 332428 | [332428-parfait-fan-box.json](./332428-parfait-fan-box.json) |
 | Parfait Remake: Complete Limited Edition | 159813 | [159813-parfait-remake-complete-limited-edition.json](./159813-parfait-remake-complete-limited-edition.json) |
 | Parfum Nostalgique | 259057 | [259057-parfum-nostalgique.json](./259057-parfum-nostalgique.json) |
@@ -4337,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Summer Ice - Bowling: Story Four - Jane Version | 215106 | [215106-project-summer-ice-bowling-story-four-jane-version.json](./215106-project-summer-ice-bowling-story-four-jane-version.json) |
 | Project: Summer Ice - Bowling: Story One - Jane Version | 215359 | [215359-project-summer-ice-bowling-story-one-jane-version.json](./215359-project-summer-ice-bowling-story-one-jane-version.json) |
 | Project: Summer Ice - Bowling: Story One - Mark Version | 215125 | [215125-project-summer-ice-bowling-story-one-mark-version.json](./215125-project-summer-ice-bowling-story-one-mark-version.json) |
+| Project: Summer Ice - Bowling: Story Six - Pammy Version | 226311 | [226311-project-summer-ice-bowling-story-six-pammy-version.json](./226311-project-summer-ice-bowling-story-six-pammy-version.json) |
 | Project: Summer Ice - Bowling: Story Three - Jane Version | 215352 | [215352-project-summer-ice-bowling-story-three-jane-version.json](./215352-project-summer-ice-bowling-story-three-jane-version.json) |
 | Project: Summer Ice - Bowling: Story Three - Mark Version | 215111 | [215111-project-summer-ice-bowling-story-three-mark-version.json](./215111-project-summer-ice-bowling-story-three-mark-version.json) |
 | Project: Summer Ice - Bowling: Story Two - Jane Version | 215357 | [215357-project-summer-ice-bowling-story-two-jane-version.json](./215357-project-summer-ice-bowling-story-two-jane-version.json) |
@@ -4820,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Chasers | 292140 | [292140-puzzle-chasers.json](./292140-puzzle-chasers.json) |
 | Puzzle Club | 218450 | [218450-puzzle-club.json](./218450-puzzle-club.json) |
 | Puzzle Collection | 201256 | [201256-puzzle-collection.json](./201256-puzzle-collection.json) |
+| Puzzle Collection: New Pieces | 226317 | [226317-puzzle-collection-new-pieces.json](./226317-puzzle-collection-new-pieces.json) |
 | Puzzle Cozy | 386692 | [386692-puzzle-cozy.json](./386692-puzzle-cozy.json) |
 | Puzzle Craft | 47286 | [47286-puzzle-craft.json](./47286-puzzle-craft.json) |
 | Puzzle Cube | 275146 | [275146-puzzle-cube.json](./275146-puzzle-cube.json) |
@@ -4837,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Game | 263775 | [263775-puzzle-game.json](./263775-puzzle-game.json) |
 | Puzzle Game | 366919 | [366919-puzzle-game.json](./366919-puzzle-game.json) |
 | Puzzle Game | 97201 | [97201-puzzle-game.json](./97201-puzzle-game.json) |
+| Puzzle Games Bundle | 226316 | [226316-puzzle-games-bundle.json](./226316-puzzle-games-bundle.json) |
 | Puzzle Games for Children | 352830 | [352830-puzzle-games-for-children.json](./352830-puzzle-games-for-children.json) |
 | Puzzle Garage | 291615 | [291615-puzzle-garage.json](./291615-puzzle-garage.json) |
 | Puzzle Girls: Celia | 163913 | [163913-puzzle-girls-celia.json](./163913-puzzle-girls-celia.json) |
