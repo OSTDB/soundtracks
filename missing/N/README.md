@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanotris | 33064 | [33064-nanotris.json](./33064-nanotris.json) |
 | Nanoui | 89972 | [89972-nanoui.json](./89972-nanoui.json) |
 | Nanovoid | 244908 | [244908-nanovoid.json](./244908-nanovoid.json) |
+| Nanovor | 234177 | [234177-nanovor.json](./234177-nanovor.json) |
 | Nanowar | 181902 | [181902-nanowar.json](./181902-nanowar.json) |
 | Nanpure VOW | 191866 | [191866-nanpure-vow.json](./191866-nanpure-vow.json) |
 | Nantara Adventures | 259001 | [259001-nantara-adventures.json](./259001-nantara-adventures.json) |
