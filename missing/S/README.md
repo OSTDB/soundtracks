@@ -2146,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Wars | 414440 | [414440-shape-wars.json](./414440-shape-wars.json) |
 | Shapefall | 295554 | [295554-shapefall.json](./295554-shapefall.json) |
 | Shapefighter | 333401 | [333401-shapefighter.json](./333401-shapefighter.json) |
+| ShapeGrid | 189048 | [189048-shapegrid.json](./189048-shapegrid.json) |
 | Shapeguard | 264023 | [264023-shapeguard.json](./264023-shapeguard.json) |
 | Shapeland | 366298 | [366298-shapeland.json](./366298-shapeland.json) |
 | ShapeNeon Chaos | 157119 | [157119-shapeneon-chaos.json](./157119-shapeneon-chaos.json) |
@@ -2759,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show do Milho Grande | 359981 | [359981-show-do-milho-grande.json](./359981-show-do-milho-grande.json) |
 | Show It 2 Me | 81216 | [81216-show-it-2-me.json](./81216-show-it-2-me.json) |
 | Show Me How To Live | 303064 | [303064-show-me-how-to-live.json](./303064-show-me-how-to-live.json) |
+| Showbiz Tycoon | 189069 | [189069-showbiz-tycoon.json](./189069-showbiz-tycoon.json) |
 | Showdown at Willow Creek | 83599 | [83599-showdown-at-willow-creek.json](./83599-showdown-at-willow-creek.json) |
 | Showdown Bandit | 121497 | [121497-showdown-bandit.json](./121497-showdown-bandit.json) |
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
@@ -3582,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
 | Sky Goddess Remaking | 235187 | [235187-sky-goddess-remaking.json](./235187-sky-goddess-remaking.json) |
+| Sky Harrier: Alpha Code | 189044 | [189044-sky-harrier-alpha-code.json](./189044-sky-harrier-alpha-code.json) |
 | Sky Hex | 261862 | [261862-sky-hex.json](./261862-sky-hex.json) |
 | Sky Hunter | 75165 | [75165-sky-hunter.json](./75165-sky-hunter.json) |
 | Sky In Flames | 398483 | [398483-sky-in-flames.json](./398483-sky-in-flames.json) |
@@ -4603,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Hook | 333000 | [333000-social-hook.json](./333000-social-hook.json) |
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
 | Social Status: Life Simulator | 279103 | [279103-social-status-life-simulator.json](./279103-social-status-life-simulator.json) |
+| Socialize | 189037 | [189037-socialize.json](./189037-socialize.json) |
 | Society's Paradigms | 152833 | [152833-societys-paradigms.json](./152833-societys-paradigms.json) |
 | Socioball | 128558 | [128558-socioball.json](./128558-socioball.json) |
 | Sociopath | 410211 | [410211-sociopath.json](./410211-sociopath.json) |
@@ -4682,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sola Rola: The Gravity Maze | 269855 | [269855-sola-rola-the-gravity-maze.json](./269855-sola-rola-the-gravity-maze.json) |
 | Solana and Sunny's Atelier | 216783 | [216783-solana-and-sunnys-atelier.json](./216783-solana-and-sunnys-atelier.json) |
 | Solar Battalion | 99600 | [99600-solar-battalion.json](./99600-solar-battalion.json) |
+| Solar Cage | 189038 | [189038-solar-cage.json](./189038-solar-cage.json) |
 | Solar Candy | 180849 | [180849-solar-candy.json](./180849-solar-candy.json) |
 | Solar Collector | 75034 | [75034-solar-collector.json](./75034-solar-collector.json) |
 | Solar Colonies | 191810 | [191810-solar-colonies.json](./191810-solar-colonies.json) |
@@ -4804,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Ultimate Collection | 66691 | [66691-solitaire-ultimate-collection.json](./66691-solitaire-ultimate-collection.json) |
 | SolitaireX | 388039 | [388039-solitairex.json](./388039-solitairex.json) |
 | Solitar: Retro Picks | 305516 | [305516-solitar-retro-picks.json](./305516-solitar-retro-picks.json) |
+| Solitarius | 189035 | [189035-solitarius.json](./189035-solitarius.json) |
 | Solitiare 95: The Classic Game | 108952 | [108952-solitiare-95-the-classic-game.json](./108952-solitiare-95-the-classic-game.json) |
 | Solitile | 353921 | [353921-solitile.json](./353921-solitile.json) |
 | Solitomb | 325859 | [325859-solitomb.json](./325859-solitomb.json) |
@@ -5875,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tail: Every Journey Leads Home - Deluxe Edition | 241400 | [241400-space-tail-every-journey-leads-home-deluxe-edition.json](./241400-space-tail-every-journey-leads-home-deluxe-edition.json) |
 | Space Tail: Homecoming | 230820 | [230820-space-tail-homecoming.json](./230820-space-tail-homecoming.json) |
 | Space Takeover: Over City | 245340 | [245340-space-takeover-over-city.json](./245340-space-takeover-over-city.json) |
+| Space Tek | 189057 | [189057-space-tek.json](./189057-space-tek.json) |
 | Space Theory | 203544 | [203544-space-theory.json](./203544-space-theory.json) |
 | Space Thinger | 34471 | [34471-space-thinger.json](./34471-space-thinger.json) |
 | Space Threat | 272906 | [272906-space-threat.json](./272906-space-threat.json) |
@@ -6423,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
 | Spiritlink Tactics | 191737 | [191737-spiritlink-tactics.json](./191737-spiritlink-tactics.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
+| Spirits of Carter Mansion | 189053 | [189053-spirits-of-carter-mansion.json](./189053-spirits-of-carter-mansion.json) |
 | Spirits of Lunara | 383364 | [383364-spirits-of-lunara.json](./383364-spirits-of-lunara.json) |
 | Spirits of Metropolis | 54392 | [54392-spirits-of-metropolis.json](./54392-spirits-of-metropolis.json) |
 | Spirits of Mystery: Chains of Promise - Collector's Edition | 110346 | [110346-spirits-of-mystery-chains-of-promise-collectors-edition.json](./110346-spirits-of-mystery-chains-of-promise-collectors-edition.json) |
@@ -6519,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob’s Idle Adventures | 266907 | [266907-spongebob-s-idle-adventures.json](./266907-spongebob-s-idle-adventures.json) |
 | Spongiorno: Schwammfred Moving Company | 373082 | [373082-spongiorno-schwammfred-moving-company.json](./373082-spongiorno-schwammfred-moving-company.json) |
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
+| Spoockey | 189071 | [189071-spoockey.json](./189071-spoockey.json) |
 | Spoofs Playland | 373552 | [373552-spoofs-playland.json](./373552-spoofs-playland.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
 | Spooked | 45325 | [45325-spooked.json](./45325-spooked.json) |
@@ -7876,6 +7885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Rooms | 415924 | [415924-still-rooms.json](./415924-still-rooms.json) |
 | Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
 | Still Time | 69244 | [69244-still-time.json](./69244-still-time.json) |
+| Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
 | Stillwater | 398402 | [398402-stillwater.json](./398402-stillwater.json) |
 | Stimmings | 264614 | [264614-stimmings.json](./264614-stimmings.json) |
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
@@ -8449,6 +8459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subcube | 126555 | [126555-subcube.json](./126555-subcube.json) |
 | Subdivided | 132770 | [132770-subdivided.json](./132770-subdivided.json) |
 | Sube | 264149 | [264149-sube.json](./264149-sube.json) |
+| Suber Driver | 189079 | [189079-suber-driver.json](./189079-suber-driver.json) |
 | Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
@@ -10499,6 +10510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synchronity | 381116 | [381116-synchronity.json](./381116-synchronity.json) |
 | Synchronizacja | 187539 | [187539-synchronizacja.json](./187539-synchronizacja.json) |
 | SynCo 2321 | 192979 | [192979-synco-2321.json](./192979-synco-2321.json) |
+| Syncope | 189041 | [189041-syncope.json](./189041-syncope.json) |
 | Syncromania | 276285 | [276285-syncromania.json](./276285-syncromania.json) |
 | Syndicate of Souls | 267642 | [267642-syndicate-of-souls.json](./267642-syndicate-of-souls.json) |
 | Syndicate Plus | 77198 | [77198-syndicate-plus.json](./77198-syndicate-plus.json) |
