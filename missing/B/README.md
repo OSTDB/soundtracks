@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarian | 376532 | [376532-barbarian.json](./376532-barbarian.json) |
 | Barbarian Simulator | 157718 | [157718-barbarian-simulator.json](./157718-barbarian-simulator.json) |
 | Barbarians & Beasts | 277971 | [277971-barbarians-and-beasts.json](./277971-barbarians-and-beasts.json) |
+| Barbarium | 200559 | [200559-barbarium.json](./200559-barbarium.json) |
 | Barbarization | 311491 | [311491-barbarization.json](./311491-barbarization.json) |
 | Barbarous 2: Tavern Wars | 192944 | [192944-barbarous-2-tavern-wars.json](./192944-barbarous-2-tavern-wars.json) |
 | BarBarQ | 82149 | [82149-barbarq.json](./82149-barbarq.json) |
@@ -647,8 +648,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbershop Simulator | 220351 | [220351-barbershop-simulator.json](./220351-barbershop-simulator.json) |
 | Barbie | 245570 | [245570-barbie.json](./245570-barbie.json) |
 | Barbie and the Magic of Pegasus | 248681 | [248681-barbie-and-the-magic-of-pegasus.json](./248681-barbie-and-the-magic-of-pegasus.json) |
+| Barbie as Princess Bride | 200600 | [200600-barbie-as-princess-bride.json](./200600-barbie-as-princess-bride.json) |
+| Barbie as Rapunzel | 200599 | [200599-barbie-as-rapunzel.json](./200599-barbie-as-rapunzel.json) |
 | Barbie as Rapunzel: A Creative Adventure | 23781 | [23781-barbie-as-rapunzel-a-creative-adventure.json](./23781-barbie-as-rapunzel-a-creative-adventure.json) |
+| Barbie as Sleeping Beauty | 200605 | [200605-barbie-as-sleeping-beauty.json](./200605-barbie-as-sleeping-beauty.json) |
+| Barbie as the Princess and the Pauper | 200590 | [200590-barbie-as-the-princess-and-the-pauper.json](./200590-barbie-as-the-princess-and-the-pauper.json) |
+| Barbie Beauty Styler | 200601 | [200601-barbie-beauty-styler.json](./200601-barbie-beauty-styler.json) |
 | Barbie Dreamhouse Adventures | 255335 | [255335-barbie-dreamhouse-adventures.json](./255335-barbie-dreamhouse-adventures.json) |
+| Barbie Fashion Show | 200592 | [200592-barbie-fashion-show.json](./200592-barbie-fashion-show.json) |
 | Barbie for Girls Beach Adventure | 245569 | [245569-barbie-for-girls-beach-adventure.json](./245569-barbie-for-girls-beach-adventure.json) |
 | Barbie for Girls Hearts & Stars | 245568 | [245568-barbie-for-girls-hearts-and-stars.json](./245568-barbie-for-girls-hearts-and-stars.json) |
 | Barbie for Girls Horseback Riding | 245567 | [245567-barbie-for-girls-horseback-riding.json](./245567-barbie-for-girls-horseback-riding.json) |
@@ -659,9 +666,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie for Girls Softball | 245562 | [245562-barbie-for-girls-softball.json](./245562-barbie-for-girls-softball.json) |
 | Barbie for Girls Volleyball | 228545 | [228545-barbie-for-girls-volleyball.json](./228545-barbie-for-girls-volleyball.json) |
 | Barbie Girl | 260128 | [260128-barbie-girl.json](./260128-barbie-girl.json) |
+| Barbie in the 12 Dancing Princesses | 200591 | [200591-barbie-in-the-12-dancing-princesses.json](./200591-barbie-in-the-12-dancing-princesses.json) |
 | Barbie in the 12 Dancing Princesses | 293194 | [293194-barbie-in-the-12-dancing-princesses.json](./293194-barbie-in-the-12-dancing-princesses.json) |
+| Barbie Jewelry Designer | 200597 | [200597-barbie-jewelry-designer.json](./200597-barbie-jewelry-designer.json) |
+| Barbie Magic Genie Bottle | 200602 | [200602-barbie-magic-genie-bottle.json](./200602-barbie-magic-genie-bottle.json) |
+| Barbie Mermaid Adventure | 200593 | [200593-barbie-mermaid-adventure.json](./200593-barbie-mermaid-adventure.json) |
+| Barbie Nail Designer | 200607 | [200607-barbie-nail-designer.json](./200607-barbie-nail-designer.json) |
+| Barbie of Swan Lake: The Enchanted Forest | 200594 | [200594-barbie-of-swan-lake-the-enchanted-forest.json](./200594-barbie-of-swan-lake-the-enchanted-forest.json) |
 | Barbie PC Fashion Design & Color | 261889 | [261889-barbie-pc-fashion-design-and-color.json](./261889-barbie-pc-fashion-design-and-color.json) |
 | Barbie Pet Rescue | 19402 | [19402-barbie-pet-rescue.json](./19402-barbie-pet-rescue.json) |
+| Barbie Pet Rescue | 200589 | [200589-barbie-pet-rescue.json](./200589-barbie-pet-rescue.json) |
+| Barbie Photo Designer | 200606 | [200606-barbie-photo-designer.json](./200606-barbie-photo-designer.json) |
 | Barbie Sparkle Blast | 97319 | [97319-barbie-sparkle-blast.json](./97319-barbie-sparkle-blast.json) |
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
 | Barbie: Explorer | 3314 | [3314-barbie-explorer.json](./3314-barbie-explorer.json) |
@@ -670,8 +685,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
 | Barbie: Let’s Make Music | 293198 | [293198-barbie-let-s-make-music.json](./293198-barbie-let-s-make-music.json) |
 | Barbie: Malibu Mysteries | 228546 | [228546-barbie-malibu-mysteries.json](./228546-barbie-malibu-mysteries.json) |
+| Barbie: Ocean Discovery | 200588 | [200588-barbie-ocean-discovery.json](./200588-barbie-ocean-discovery.json) |
 | Barbie: Puppy Water Sliders | 293193 | [293193-barbie-puppy-water-sliders.json](./293193-barbie-puppy-water-sliders.json) |
 | Barbie: Shoe Hunt | 293197 | [293197-barbie-shoe-hunt.json](./293197-barbie-shoe-hunt.json) |
+| Barbie: Treasures in Time | 200596 | [200596-barbie-treasures-in-time.json](./200596-barbie-treasures-in-time.json) |
 | Barbie's Team Gymnastics | 59942 | [59942-barbies-team-gymnastics.json](./59942-barbies-team-gymnastics.json) |
 | Barboozeled | 214732 | [214732-barboozeled.json](./214732-barboozeled.json) |
 | Barbuta | 317573 | [317573-barbuta.json](./317573-barbuta.json) |
@@ -2913,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
 | Block Breaker | 195789 | [195789-block-breaker.json](./195789-block-breaker.json) |
 | Block Breaker | 384648 | [384648-block-breaker.json](./384648-block-breaker.json) |
+| Block Breaker 2 | 200568 | [200568-block-breaker-2.json](./200568-block-breaker-2.json) |
 | Block Breakerz | 250413 | [250413-block-breakerz.json](./250413-block-breakerz.json) |
 | Block Buster | 270766 | [270766-block-buster.json](./270766-block-buster.json) |
 | Block Busters: Local Party | 172171 | [172171-block-busters-local-party.json](./172171-block-busters-local-party.json) |
@@ -2961,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockbuster Inc. | 189965 | [189965-blockbuster-inc.json](./189965-blockbuster-inc.json) |
 | Blockchain Brawlers | 225754 | [225754-blockchain-brawlers.json](./225754-blockchain-brawlers.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
+| Blocked Zona | 200565 | [200565-blocked-zona.json](./200565-blocked-zona.json) |
 | Blocker Survive | 75849 | [75849-blocker-survive.json](./75849-blocker-survive.json) |
 | Blocker.io | 194036 | [194036-blocker-io.json](./194036-blocker-io.json) |
 | Blockfeet | 411708 | [411708-blockfeet.json](./411708-blockfeet.json) |
@@ -3340,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
 | Boba Tea Shop Simulator | 244236 | [244236-boba-tea-shop-simulator.json](./244236-boba-tea-shop-simulator.json) |
 | BobasQuest | 298180 | [298180-bobasquest.json](./298180-bobasquest.json) |
+| Bobbi Adventure | 200574 | [200574-bobbi-adventure.json](./200574-bobbi-adventure.json) |
 | Bobbin's Quest | 67985 | [67985-bobbins-quest.json](./67985-bobbins-quest.json) |
 | Bobble Bash | 265657 | [265657-bobble-bash.json](./265657-bobble-bash.json) |
 | Bobble Shop Simulator | 386240 | [386240-bobble-shop-simulator.json](./386240-bobble-shop-simulator.json) |
@@ -3931,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Roulette Simulator | 234629 | [234629-box-roulette-simulator.json](./234629-box-roulette-simulator.json) |
 | Box Runner! | 209671 | [209671-box-runner.json](./209671-box-runner.json) |
 | Box Rush | 191243 | [191243-box-rush.json](./191243-box-rush.json) |
+| Box Rush 2: Ice Worlds | 200569 | [200569-box-rush-2-ice-worlds.json](./200569-box-rush-2-ice-worlds.json) |
 | Box to Box | 208454 | [208454-box-to-box.json](./208454-box-to-box.json) |
 | Box to the Beat VR | 207448 | [207448-box-to-the-beat-vr.json](./207448-box-to-the-beat-vr.json) |
 | Box To The Beat VR: Electro Swing Pack | 310399 | [310399-box-to-the-beat-vr-electro-swing-pack.json](./310399-box-to-the-beat-vr-electro-swing-pack.json) |
@@ -4104,6 +4125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Shot 2 | 286666 | [286666-brave-shot-2.json](./286666-brave-shot-2.json) |
 | Brave Soldier: Invasion of Cyborgs | 227856 | [227856-brave-soldier-invasion-of-cyborgs.json](./227856-brave-soldier-invasion-of-cyborgs.json) |
 | Brave Story: New Traveler | 14607 | [14607-brave-story-new-traveler.json](./14607-brave-story-new-traveler.json) |
+| Brave Survivor | 200570 | [200570-brave-survivor.json](./200570-brave-survivor.json) |
 | Brave survivors | 213489 | [213489-brave-survivors.json](./213489-brave-survivors.json) |
 | Brave Sword | 329395 | [329395-brave-sword.json](./329395-brave-sword.json) |
 | Brave Tank Hero | 210270 | [210270-brave-tank-hero.json](./210270-brave-tank-hero.json) |
