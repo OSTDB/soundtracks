@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inva-taxi | 9076 | [9076-inva-taxi.json](./9076-inva-taxi.json) |
 | Invadead | 209486 | [209486-invadead.json](./209486-invadead.json) |
 | Invaded | 121698 | [121698-invaded.json](./121698-invaded.json) |
+| Invader Signal | 207404 | [207404-invader-signal.json](./207404-invader-signal.json) |
 | Invader Simulator | 351616 | [351616-invader-simulator.json](./351616-invader-simulator.json) |
 | Invaders | 217960 | [217960-invaders.json](./217960-invaders.json) |
 | Invaders | 271990 | [271990-invaders.json](./271990-invaders.json) |
@@ -1800,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Jura Fishing Trip: Complete Edition | 268564 | [268564-isle-of-jura-fishing-trip-complete-edition.json](./268564-isle-of-jura-fishing-trip-complete-edition.json) |
 | Isle of Jura Fishing Trip: Ultimate Edition | 251689 | [251689-isle-of-jura-fishing-trip-ultimate-edition.json](./251689-isle-of-jura-fishing-trip-ultimate-edition.json) |
 | Isle of Lament | 375990 | [375990-isle-of-lament.json](./375990-isle-of-lament.json) |
+| Isle of Rein | 207397 | [207397-isle-of-rein.json](./207397-isle-of-rein.json) |
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | Isles of Wrath | 378286 | [378286-isles-of-wrath.json](./378286-isles-of-wrath.json) |
