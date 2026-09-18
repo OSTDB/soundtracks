@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaitei Daisensou | 40215 | [40215-kaitei-daisensou.json](./40215-kaitei-daisensou.json) |
 | Kaitei Takara Sagashi | 40214 | [40214-kaitei-takara-sagashi.json](./40214-kaitei-takara-sagashi.json) |
 | Kaitou Elf Liely | 246107 | [246107-kaitou-elf-liely.json](./246107-kaitou-elf-liely.json) |
+| Kaitou Rousseau | 214573 | [214573-kaitou-rousseau.json](./214573-kaitou-rousseau.json) |
 | Kaitou Saint Tail | 45273 | [45273-kaitou-saint-tail.json](./45273-kaitou-saint-tail.json) |
 | Kaitou Tantei Blonde Lady | 236834 | [236834-kaitou-tantei-blonde-lady.json](./236834-kaitou-tantei-blonde-lady.json) |
 | Kaiv | 23874 | [23874-kaiv.json](./23874-kaiv.json) |
@@ -342,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katou Hifumi Kudan no Shogi Kyoushitsu | 97858 | [97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json](./97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json) |
 | Katou Hifumi Kudan Shogi Club | 37742 | [37742-katou-hifumi-kudan-shogi-club.json](./37742-katou-hifumi-kudan-shogi-club.json) |
 | Kattish | 218726 | [218726-kattish.json](./218726-kattish.json) |
+| Kattobi Tune | 214618 | [214618-kattobi-tune.json](./214618-kattobi-tune.json) |
 | Kattobi! Warabe Ji | 63296 | [63296-kattobi-warabe-ji.json](./63296-kattobi-warabe-ji.json) |
 | Kattonauten | 180844 | [180844-kattonauten.json](./180844-kattonauten.json) |
 | Katy and Bob: Safari Cafe | 103882 | [103882-katy-and-bob-safari-cafe.json](./103882-katy-and-bob-safari-cafe.json) |
@@ -1297,6 +1299,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout City: Private Server Edition | 296669 | [296669-knockout-city-private-server-edition.json](./296669-knockout-city-private-server-edition.json) |
 | Knockout City: Season 3 - H@cked | 182499 | [182499-knockout-city-season-3-h-cked.json](./182499-knockout-city-season-3-h-cked.json) |
 | Knockout City: Season 4 - Alien Invaders | 182498 | [182498-knockout-city-season-4-alien-invaders.json](./182498-knockout-city-season-4-alien-invaders.json) |
+| Knockout City: Season 6 - City of Tomorrow | 214606 | [214606-knockout-city-season-6-city-of-tomorrow.json](./214606-knockout-city-season-6-city-of-tomorrow.json) |
+| Knockout City: Season 7 - Mutant Mutiny | 214607 | [214607-knockout-city-season-7-mutant-mutiny.json](./214607-knockout-city-season-7-mutant-mutiny.json) |
 | Knockout League | 32859 | [32859-knockout-league.json](./32859-knockout-league.json) |
 | Knockout Party | 51161 | [51161-knockout-party.json](./51161-knockout-party.json) |
 | Knockout Peoples: Chotto Zankoku na Hakurankai | 260745 | [260745-knockout-peoples-chotto-zankoku-na-hakurankai.json](./260745-knockout-peoples-chotto-zankoku-na-hakurankai.json) |
