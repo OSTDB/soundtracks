@@ -131,9 +131,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Hue Too | 177555 | [177555-i-love-hue-too.json](./177555-i-love-hue-too.json) |
 | I Love Math | 337474 | [337474-i-love-math.json](./337474-i-love-math.json) |
 | I Love Me, I Love Me Not | 313095 | [313095-i-love-me-i-love-me-not.json](./313095-i-love-me-i-love-me-not.json) |
+| I Love Puppies! | 210080 | [210080-i-love-puppies.json](./210080-i-love-puppies.json) |
 | I Love Spelling! | 339135 | [339135-i-love-spelling.json](./339135-i-love-spelling.json) |
 | I Love Traffic | 230511 | [230511-i-love-traffic.json](./230511-i-love-traffic.json) |
 | I Love You Freddy | 277010 | [277010-i-love-you-freddy.json](./277010-i-love-you-freddy.json) |
+| I Luv House Pets | 210081 | [210081-i-luv-house-pets.json](./210081-i-luv-house-pets.json) |
 | I Made A Contract with 3 Cute Devils?! | 206949 | [206949-i-made-a-contract-with-3-cute-devils.json](./206949-i-made-a-contract-with-3-cute-devils.json) |
 | I Made Her Up | 374673 | [374673-i-made-her-up.json](./374673-i-made-her-up.json) |
 | I Made this Game in 3 Days | 263505 | [263505-i-made-this-game-in-3-days.json](./263505-i-made-this-game-in-3-days.json) |
@@ -565,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
 | Ihin | 325070 | [325070-ihin.json](./325070-ihin.json) |
 | iHooy! | 79857 | [79857-ihooy.json](./79857-ihooy.json) |
+| IHRA Drag Racing 2 | 210078 | [210078-ihra-drag-racing-2.json](./210078-ihra-drag-racing-2.json) |
 | IHRA Drag Racing: Sportsman Edition | 20547 | [20547-ihra-drag-racing-sportsman-edition.json](./20547-ihra-drag-racing-sportsman-edition.json) |
 | IHugU | 68611 | [68611-ihugu.json](./68611-ihugu.json) |
 | II-III-V | 180808 | [180808-ii-iii-v.json](./180808-ii-iii-v.json) |
@@ -647,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ima wo Ikinobite | 208611 | [208611-ima-wo-ikinobite.json](./208611-ima-wo-ikinobite.json) |
 | Imae: Guardian Girl | 387536 | [387536-imae-guardian-girl.json](./387536-imae-guardian-girl.json) |
 | Imagicard: PAW Patrol | 137612 | [137612-imagicard-paw-patrol.json](./137612-imagicard-paw-patrol.json) |
+| ImaginAction | 210082 | [210082-imaginaction.json](./210082-imaginaction.json) |
 | Imaginarium | 126614 | [126614-imaginarium.json](./126614-imaginarium.json) |
 | Imaginary Friend Asylum | 273459 | [273459-imaginary-friend-asylum.json](./273459-imaginary-friend-asylum.json) |
 | Imaginary Girls Three Kingdoms | 235347 | [235347-imaginary-girls-three-kingdoms.json](./235347-imaginary-girls-three-kingdoms.json) |
@@ -749,7 +753,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Dungeon | 220186 | [220186-impossible-dungeon.json](./220186-impossible-dungeon.json) |
 | Impossible Flappy | 87896 | [87896-impossible-flappy.json](./87896-impossible-flappy.json) |
 | Impossible Geometry | 34358 | [34358-impossible-geometry.json](./34358-impossible-geometry.json) |
+| Impossible Golf: Worldwide Fantasy Tour | 210083 | [210083-impossible-golf-worldwide-fantasy-tour.json](./210083-impossible-golf-worldwide-fantasy-tour.json) |
 | Impossible Maze | 135898 | [135898-impossible-maze.json](./135898-impossible-maze.json) |
+| Impossible Mission | 210090 | [210090-impossible-mission.json](./210090-impossible-mission.json) |
 | Impossible Mission 2025 | 37107 | [37107-impossible-mission-2025.json](./37107-impossible-mission-2025.json) |
 | Impossible Road 2 | 278688 | [278688-impossible-road-2.json](./278688-impossible-road-2.json) |
 | Impossible Slasher | 194634 | [194634-impossible-slasher.json](./194634-impossible-slasher.json) |
@@ -859,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inca II | 45925 | [45925-inca-ii.json](./45925-inca-ii.json) |
 | Incandescent 2 | 113713 | [113713-incandescent-2.json](./113713-incandescent-2.json) |
 | Incantation | 44454 | [44454-incantation.json](./44454-incantation.json) |
+| Incarnage | 210120 | [210120-incarnage.json](./210120-incarnage.json) |
 | Incarnation: Flame | 174823 | [174823-incarnation-flame.json](./174823-incarnation-flame.json) |
 | Incel Simulator | 315286 | [315286-incel-simulator.json](./315286-incel-simulator.json) |
 | InCell VR | 34595 | [34595-incell-vr.json](./34595-incell-vr.json) |
@@ -977,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inexplicable Geeks: RestoreTheMillerCut | 253924 | [253924-inexplicable-geeks-restorethemillercut.json](./253924-inexplicable-geeks-restorethemillercut.json) |
 | Infamous Second Son - Special Edition | 89873 | [89873-infamous-second-son-special-edition.json](./89873-infamous-second-son-special-edition.json) |
 | Infamous: First Light | 7328 | [7328-infamous-first-light.json](./7328-infamous-first-light.json) |
+| Infamous: Second Son - Cole's Legacy | 210087 | [210087-infamous-second-son-coles-legacy.json](./210087-infamous-second-son-coles-legacy.json) |
 | Infantry Attack: Backup Edition | 308805 | [308805-infantry-attack-backup-edition.json](./308805-infantry-attack-backup-edition.json) |
 | Infect Them All: Zombies | 174302 | [174302-infect-them-all-zombies.json](./174302-infect-them-all-zombies.json) |
 | Infected | 242548 | [242548-infected.json](./242548-infected.json) |
