@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hour Hero | 277007 | [277007-happy-hour-hero.json](./277007-happy-hour-hero.json) |
 | Happy Hunt | 165625 | [165625-happy-hunt.json](./165625-happy-hunt.json) |
 | Happy Lesson | 78643 | [78643-happy-lesson.json](./78643-happy-lesson.json) |
+| Happy Live, Show Up! | 194472 | [194472-happy-live-show-up.json](./194472-happy-live-show-up.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
 | Happy Maze | 30944 | [30944-happy-maze.json](./30944-happy-maze.json) |
 | Happy Mice | 246460 | [246460-happy-mice.json](./246460-happy-mice.json) |
@@ -2036,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Robo Cats: Bonus Level | 289453 | [289453-hidden-robo-cats-bonus-level.json](./289453-hidden-robo-cats-bonus-level.json) |
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
+| Hidden Shapes: Animals + Lovely Cats | 194437 | [194437-hidden-shapes-animals-lovely-cats.json](./194437-hidden-shapes-animals-lovely-cats.json) |
 | Hidden Space Station Top-Down 3D | 340473 | [340473-hidden-space-station-top-down-3d.json](./340473-hidden-space-station-top-down-3d.json) |
 | Hidden Space Top-Down 3D | 269007 | [269007-hidden-space-top-down-3d.json](./269007-hidden-space-top-down-3d.json) |
 | Hidden Square | 311132 | [311132-hidden-square.json](./311132-hidden-square.json) |
@@ -3272,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hululuup | 239907 | [239907-hululuup.json](./239907-hululuup.json) |
 | Human Baseball | 38342 | [38342-human-baseball.json](./38342-human-baseball.json) |
 | Human Bowling | 283270 | [283270-human-bowling.json](./283270-human-bowling.json) |
+| Human Cargo | 194449 | [194449-human-cargo.json](./194449-human-cargo.json) |
 | Human Defense | 22274 | [22274-human-defense.json](./22274-human-defense.json) |
 | Human Error | 217001 | [217001-human-error.json](./217001-human-error.json) |
 | Human Evolution Clicker Game: Rise of Mankind | 100889 | [100889-human-evolution-clicker-game-rise-of-mankind.json](./100889-human-evolution-clicker-game-rise-of-mankind.json) |
