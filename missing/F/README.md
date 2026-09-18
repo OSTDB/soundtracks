@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Bash | 248052 | [248052-family-bash.json](./248052-family-bash.json) |
 | Family Bible Quest | 335322 | [335322-family-bible-quest.json](./335322-family-bible-quest.json) |
 | Family Card Games Fun Pack | 82139 | [82139-family-card-games-fun-pack.json](./82139-family-card-games-fun-pack.json) |
+| Family Chess | 207877 | [207877-family-chess.json](./207877-family-chess.json) |
 | Family Chess: Deluxe Edition | 208584 | [208584-family-chess-deluxe-edition.json](./208584-family-chess-deluxe-edition.json) |
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
 | Family Chess: Ultimate Edition | 212340 | [212340-family-chess-ultimate-edition.json](./212340-family-chess-ultimate-edition.json) |
@@ -2846,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fork of the Crimson Soul | 369051 | [369051-fork-of-the-crimson-soul.json](./369051-fork-of-the-crimson-soul.json) |
 | Fork Road | 303067 | [303067-fork-road.json](./303067-fork-road.json) |
 | Forklift 2024: The Simulation | 251016 | [251016-forklift-2024-the-simulation.json](./251016-forklift-2024-the-simulation.json) |
+| Forklift Extreme | 207892 | [207892-forklift-extreme.json](./207892-forklift-extreme.json) |
 | Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
 | Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
 | Forklift Racer | 253948 | [253948-forklift-racer.json](./253948-forklift-racer.json) |
