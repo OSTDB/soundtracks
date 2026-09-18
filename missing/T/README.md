@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Glacier VR | 57036 | [57036-tales-of-glacier-vr.json](./57036-tales-of-glacier-vr.json) |
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
 | Tales of Graces F/ Tales of Symphonia Chronicles | 44617 | [44617-tales-of-graces-f-tales-of-symphonia-chronicles.json](./44617-tales-of-graces-f-tales-of-symphonia-chronicles.json) |
+| Tales of Grimm | 193895 | [193895-tales-of-grimm.json](./193895-tales-of-grimm.json) |
 | Tales of Guards Elves | 215701 | [215701-tales-of-guards-elves.json](./215701-tales-of-guards-elves.json) |
 | Tales of Hearts R: Infinite Evolve | 329142 | [329142-tales-of-hearts-r-infinite-evolve.json](./329142-tales-of-hearts-r-infinite-evolve.json) |
 | Tales of Hearts R: LaLaBitMarket Edition | 89866 | [89866-tales-of-hearts-r-lalabitmarket-edition.json](./89866-tales-of-hearts-r-lalabitmarket-edition.json) |
@@ -4570,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revelation of Gensokyo | 157121 | [157121-the-revelation-of-gensokyo.json](./157121-the-revelation-of-gensokyo.json) |
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
 | The Revived Throne | 249249 | [249249-the-revived-throne.json](./249249-the-revived-throne.json) |
+| The Revolt: Massing | 193884 | [193884-the-revolt-massing.json](./193884-the-revolt-massing.json) |
 | The Reward of Cherishment and Eternity. | 329199 | [329199-the-reward-of-cherishment-and-eternity.json](./329199-the-reward-of-cherishment-and-eternity.json) |
 | The Rewinder: Definitive Edition | 294824 | [294824-the-rewinder-definitive-edition.json](./294824-the-rewinder-definitive-edition.json) |
 | The Rewinder: Root of Evil | 267364 | [267364-the-rewinder-root-of-evil.json](./267364-the-rewinder-root-of-evil.json) |
@@ -5461,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unseen Fears: Outlive - Collector's Edition | 360664 | [360664-the-unseen-fears-outlive-collectors-edition.json](./360664-the-unseen-fears-outlive-collectors-edition.json) |
 | The Unsettled | 199665 | [199665-the-unsettled.json](./199665-the-unsettled.json) |
 | The Unspoken | 25908 | [25908-the-unspoken.json](./25908-the-unspoken.json) |
+| The Untamed | 193893 | [193893-the-untamed.json](./193893-the-untamed.json) |
 | The Untethered Void | 312176 | [312176-the-untethered-void.json](./312176-the-untethered-void.json) |
 | The Untitled Tower | 334500 | [334500-the-untitled-tower.json](./334500-the-untitled-tower.json) |
 | The Untouchable Man | 302391 | [302391-the-untouchable-man.json](./302391-the-untouchable-man.json) |
@@ -7699,6 +7702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fan-made Virtual Autography | 151683 | [151683-touhou-fan-made-virtual-autography.json](./151683-touhou-fan-made-virtual-autography.json) |
 | Touhou Fantasy | 387333 | [387333-touhou-fantasy.json](./387333-touhou-fantasy.json) |
 | Touhou Fantasy Destination | 256332 | [256332-touhou-fantasy-destination.json](./256332-touhou-fantasy-destination.json) |
+| Touhou Fumo Racing | 193872 | [193872-touhou-fumo-racing.json](./193872-touhou-fumo-racing.json) |
 | Touhou Gaiden | 404961 | [404961-touhou-gaiden.json](./404961-touhou-gaiden.json) |
 | Touhou Gakuen Ki: Shippuu no Shou | 201176 | [201176-touhou-gakuen-ki-shippuu-no-shou.json](./201176-touhou-gakuen-ki-shippuu-no-shou.json) |
 | Touhou Genso Maroku W: The Devil of Decline - Shikigami Additional Contents | 212243 | [212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json](./212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json) |
@@ -7739,6 +7743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mashousei: Fairies of Sorcery | 280178 | [280178-touhou-mashousei-fairies-of-sorcery.json](./280178-touhou-mashousei-fairies-of-sorcery.json) |
 | Touhou Mechanical Scrollery | 130061 | [130061-touhou-mechanical-scrollery.json](./130061-touhou-mechanical-scrollery.json) |
 | Touhou Mini Map | 292828 | [292828-touhou-mini-map.json](./292828-touhou-mini-map.json) |
+| Touhou Mix | 193870 | [193870-touhou-mix.json](./193870-touhou-mix.json) |
 | Touhou Monster TD: Dr.Cirno | 210248 | [210248-touhou-monster-td-dr-cirno.json](./210248-touhou-monster-td-dr-cirno.json) |
 | Touhou Mother | 184129 | [184129-touhou-mother.json](./184129-touhou-mother.json) |
 | Touhou Mukyuushi: Glory of Deep Skies | 246677 | [246677-touhou-mukyuushi-glory-of-deep-skies.json](./246677-touhou-mukyuushi-glory-of-deep-skies.json) |
