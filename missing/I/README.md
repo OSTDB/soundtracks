@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible War Revised | 404339 | [404339-invisible-war-revised.json](./404339-invisible-war-revised.json) |
 | Invisible: Story Extension | 168364 | [168364-invisible-story-extension.json](./168364-invisible-story-extension.json) |
 | Invitation to Fear | 188611 | [188611-invitation-to-fear.json](./188611-invitation-to-fear.json) |
+| Inviyya | 182924 | [182924-inviyya.json](./182924-inviyya.json) |
 | Invizimals | 2994 | [2994-invizimals.json](./2994-invizimals.json) |
 | Invizimals: The Alliance | 23417 | [23417-invizimals-the-alliance.json](./23417-invizimals-the-alliance.json) |
 | Invizimals: The Lost Kingdom | 23357 | [23357-invizimals-the-lost-kingdom.json](./23357-invizimals-the-lost-kingdom.json) |
