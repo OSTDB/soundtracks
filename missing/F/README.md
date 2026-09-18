@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faily Brakes Classic | 174310 | [174310-faily-brakes-classic.json](./174310-faily-brakes-classic.json) |
 | Faily Rider | 101534 | [101534-faily-rider.json](./101534-faily-rider.json) |
 | Fair And Balanced | 411716 | [411716-fair-and-balanced.json](./411716-fair-and-balanced.json) |
+| Faircroft's Antiques: The Forbidden Crypt | 182361 | [182361-faircrofts-antiques-the-forbidden-crypt.json](./182361-faircrofts-antiques-the-forbidden-crypt.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy | 197413 | [197413-faircrofts-antiques-the-mountaineers-legacy.json](./197413-faircrofts-antiques-the-mountaineers-legacy.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy - Collector's Edition | 212359 | [212359-faircrofts-antiques-the-mountaineers-legacy-collectors-edition.json](./212359-faircrofts-antiques-the-mountaineers-legacy-collectors-edition.json) |
 | Faire Trade | 336519 | [336519-faire-trade.json](./336519-faire-trade.json) |
@@ -907,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Is Not A Line | 335255 | [335255-fate-is-not-a-line.json](./335255-fate-is-not-a-line.json) |
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
 | Fate of the Seventh Scholar | 366260 | [366260-fate-of-the-seventh-scholar.json](./366260-fate-of-the-seventh-scholar.json) |
+| Fate Seeker II | 182359 | [182359-fate-seeker-ii.json](./182359-fate-seeker-ii.json) |
 | Fate's Reflection Tthe Case of Detective Kotomu | 348793 | [348793-fates-reflection-tthe-case-of-detective-kotomu.json](./348793-fates-reflection-tthe-case-of-detective-kotomu.json) |
 | Fate/Empire of Dirt: Made in Heaven | 382874 | [382874-fate-empire-of-dirt-made-in-heaven.json](./382874-fate-empire-of-dirt-made-in-heaven.json) |
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
