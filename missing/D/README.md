@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of Zorgaba | 67976 | [67976-defender-of-zorgaba.json](./67976-defender-of-zorgaba.json) |
 | Defender's Quest 2: Mists of Ruin | 7889 | [7889-defenders-quest-2-mists-of-ruin.json](./7889-defenders-quest-2-mists-of-ruin.json) |
 | Defenders | 309497 | [309497-defenders.json](./309497-defenders.json) |
+| Defenders Glory | 195638 | [195638-defenders-glory.json](./195638-defenders-glory.json) |
 | Defenders of Asteria | 207537 | [207537-defenders-of-asteria.json](./207537-defenders-of-asteria.json) |
 | Defenders of Cardom | 257959 | [257959-defenders-of-cardom.json](./257959-defenders-of-cardom.json) |
 | Defenders of Dynatron City | 48066 | [48066-defenders-of-dynatron-city.json](./48066-defenders-of-dynatron-city.json) |
@@ -1953,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desire & Decorum: Book 3 | 313715 | [313715-desire-and-decorum-book-3.json](./313715-desire-and-decorum-book-3.json) |
 | Desire & Decorum: First Winter | 313716 | [313716-desire-and-decorum-first-winter.json](./313716-desire-and-decorum-first-winter.json) |
 | Desire Gambling House | 284339 | [284339-desire-gambling-house.json](./284339-desire-gambling-house.json) |
+| Desire Ninja | 195641 | [195641-desire-ninja.json](./195641-desire-ninja.json) |
 | Desire Remaster Version | 57087 | [57087-desire-remaster-version.json](./57087-desire-remaster-version.json) |
 | Desire: Tentacle Temptation | 97936 | [97936-desire-tentacle-temptation.json](./97936-desire-tentacle-temptation.json) |
 | Desired Mistake | 82127 | [82127-desired-mistake.json](./82127-desired-mistake.json) |
@@ -4100,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Planner | 220331 | [220331-dragon-planner.json](./220331-dragon-planner.json) |
 | Dragon Power | 48697 | [48697-dragon-power.json](./48697-dragon-power.json) |
 | Dragon Prana | 200178 | [200178-dragon-prana.json](./200178-dragon-prana.json) |
+| Dragon Princess Anastasia | 195619 | [195619-dragon-princess-anastasia.json](./195619-dragon-princess-anastasia.json) |
 | Dragon Princess: Meikyuu no Madoushi | 67256 | [67256-dragon-princess-meikyuu-no-madoushi.json](./67256-dragon-princess-meikyuu-no-madoushi.json) |
 | Dragon Puncher | 332997 | [332997-dragon-puncher.json](./332997-dragon-puncher.json) |
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
