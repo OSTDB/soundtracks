@@ -1007,7 +1007,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario + Rabbids Kingdom Battle: Ultra Challenge Pack | 237938 | [237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json](./237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json) |
 | Mario + Rabbids Sparks of Hope | 152201 | [152201-mario-rabbids-sparks-of-hope.json](./152201-mario-rabbids-sparks-of-hope.json) |
 | Mario + Rabbids Sparks of Hope: + Rayman Edition | 268551 | [268551-mario-rabbids-sparks-of-hope-rayman-edition.json](./268551-mario-rabbids-sparks-of-hope-rayman-edition.json) |
+| Mario + Rabbids Sparks of Hope: Cosmic Edition | 207391 | [207391-mario-rabbids-sparks-of-hope-cosmic-edition.json](./207391-mario-rabbids-sparks-of-hope-cosmic-edition.json) |
 | Mario + Rabbids Sparks of Hope: Galactic Prestige Bundle | 401013 | [401013-mario-rabbids-sparks-of-hope-galactic-prestige-bundle.json](./401013-mario-rabbids-sparks-of-hope-galactic-prestige-bundle.json) |
+| Mario + Rabbids Sparks of Hope: Gold Edition | 207390 | [207390-mario-rabbids-sparks-of-hope-gold-edition.json](./207390-mario-rabbids-sparks-of-hope-gold-edition.json) |
 | Mario + Rabbids Sparks of Hope: Rayman in the Phantom Show | 240306 | [240306-mario-rabbids-sparks-of-hope-rayman-in-the-phantom-show.json](./240306-mario-rabbids-sparks-of-hope-rayman-in-the-phantom-show.json) |
 | Mario + Rabbids Sparks of Hope: Season Pass | 240308 | [240308-mario-rabbids-sparks-of-hope-season-pass.json](./240308-mario-rabbids-sparks-of-hope-season-pass.json) |
 | Mario + Wario Complete | 318037 | [318037-mario-wario-complete.json](./318037-mario-wario-complete.json) |
@@ -2082,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Cat Studios Collection 1 | 130688 | [130688-mega-cat-studios-collection-1.json](./130688-mega-cat-studios-collection-1.json) |
 | Mega Collection: 8 Amazing Games - Volume 2 | 409542 | [409542-mega-collection-8-amazing-games-volume-2.json](./409542-mega-collection-8-amazing-games-volume-2.json) |
 | Mega Custom Night | 389412 | [389412-mega-custom-night.json](./389412-mega-custom-night.json) |
+| Mega Demon Blaster | 207379 | [207379-mega-demon-blaster.json](./207379-mega-demon-blaster.json) |
 | Mega Drive 3 | 230834 | [230834-mega-drive-3.json](./230834-mega-drive-3.json) |
 | Mega Drive Mini | 215392 | [215392-mega-drive-mini.json](./215392-mega-drive-mini.json) |
 | Mega Drive Mini 2 | 215702 | [215702-mega-drive-mini-2.json](./215702-mega-drive-mini-2.json) |
@@ -2520,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
 | Merchants & Mercenaries | 30846 | [30846-merchants-and-mercenaries.json](./30846-merchants-and-mercenaries.json) |
+| Merchants of Sol | 207380 | [207380-merchants-of-sol.json](./207380-merchants-of-sol.json) |
 | Merciless Podium | 86897 | [86897-merciless-podium.json](./86897-merciless-podium.json) |
 | Mercs | 105329 | [105329-mercs.json](./105329-mercs.json) |
 | Mercurius Blue: ReCollection | 388000 | [388000-mercurius-blue-recollection.json](./388000-mercurius-blue-recollection.json) |
@@ -3071,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Racer | 290523 | [290523-midnight-racer.json](./290523-midnight-racer.json) |
 | Midnight Ramen | 273456 | [273456-midnight-ramen.json](./273456-midnight-ramen.json) |
 | Midnight Ramen Shop | 390098 | [390098-midnight-ramen-shop.json](./390098-midnight-ramen-shop.json) |
+| Midnight Report | 207371 | [207371-midnight-report.json](./207371-midnight-report.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Shifts with Femboy | 400315 | [400315-midnight-shifts-with-femboy.json](./400315-midnight-shifts-with-femboy.json) |
 | Midnight Snack | 324920 | [324920-midnight-snack.json](./324920-midnight-snack.json) |
@@ -5013,6 +5018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
 | Mouse Maze - Top Brain Puzzle | 89274 | [89274-mouse-maze-top-brain-puzzle.json](./89274-mouse-maze-top-brain-puzzle.json) |
 | Mouse Mind: Secrets of Pharaon | 73808 | [73808-mouse-mind-secrets-of-pharaon.json](./73808-mouse-mind-secrets-of-pharaon.json) |
+| Mouse People | 207409 | [207409-mouse-people.json](./207409-mouse-people.json) |
 | Mouse Trap | 248053 | [248053-mouse-trap.json](./248053-mouse-trap.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
 | Mouselash | 320407 | [320407-mouselash.json](./320407-mouselash.json) |
