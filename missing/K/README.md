@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenny's Adventure | 268204 | [268204-kennys-adventure.json](./268204-kennys-adventure.json) |
 | Kenny's Adventure: In search of family treasures | 70352 | [70352-kennys-adventure-in-search-of-family-treasures.json](./70352-kennys-adventure-in-search-of-family-treasures.json) |
 | Kenoma: Action Without Action | 301252 | [301252-kenoma-action-without-action.json](./301252-kenoma-action-without-action.json) |
+| Kenomaze | 207400 | [207400-kenomaze.json](./207400-kenomaze.json) |
 | Kenophobia | 267103 | [267103-kenophobia.json](./267103-kenophobia.json) |
 | Kenopsia | 175387 | [175387-kenopsia.json](./175387-kenopsia.json) |
 | Kens Labyrinth | 46651 | [46651-kens-labyrinth.json](./46651-kens-labyrinth.json) |
