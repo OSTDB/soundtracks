@@ -831,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Ton Bang Bang | 234722 | [234722-one-ton-bang-bang.json](./234722-one-ton-bang-bang.json) |
 | One Ton Reloaded | 234173 | [234173-one-ton-reloaded.json](./234173-one-ton-reloaded.json) |
 | One Tower Defense | 390517 | [390517-one-tower-defense.json](./390517-one-tower-defense.json) |
+| One True Hero | 208434 | [208434-one-true-hero.json](./208434-one-true-hero.json) |
 | One True Path | 334151 | [334151-one-true-path.json](./334151-one-true-path.json) |
 | One Try Tower | 150623 | [150623-one-try-tower.json](./150623-one-try-tower.json) |
 | One Try, One Kill | 151121 | [151121-one-try-one-kill.json](./151121-one-try-one-kill.json) |
@@ -856,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One: Kagayaku Kisetsu he | 72705 | [72705-one-kagayaku-kisetsu-he.json](./72705-one-kagayaku-kisetsu-he.json) |
 | One's Lonesome, Two's Company | 212804 | [212804-ones-lonesome-twos-company.json](./212804-ones-lonesome-twos-company.json) |
 | OneBit Arena | 223556 | [223556-onebit-arena.json](./223556-onebit-arena.json) |
+| OneBit Berzerk | 208430 | [208430-onebit-berzerk.json](./208430-onebit-berzerk.json) |
 | OneBit Frogger | 209651 | [209651-onebit-frogger.json](./209651-onebit-frogger.json) |
 | Onechanbara Z: Kagura With NoNoNo! | 116359 | [116359-onechanbara-z-kagura-with-nonono.json](./116359-onechanbara-z-kagura-with-nonono.json) |
 | OneDayOne | 341505 | [341505-onedayone.json](./341505-onedayone.json) |
@@ -1402,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Place | 179155 | [179155-our-place.json](./179155-our-place.json) |
 | Our Private Homeroom | 239204 | [239204-our-private-homeroom.json](./239204-our-private-homeroom.json) |
 | Our Summer Festival 2 | 352266 | [352266-our-summer-festival-2.json](./352266-our-summer-festival-2.json) |
+| Our Summer Sports | 208461 | [208461-our-summer-sports.json](./208461-our-summer-sports.json) |
 | Our Tribe Above All | 263774 | [263774-our-tribe-above-all.json](./263774-our-tribe-above-all.json) |
 | Our Two Bedroom Story | 134016 | [134016-our-two-bedroom-story.json](./134016-our-two-bedroom-story.json) |
 | Our Two Bedroom Story: After the Crisis - Minato | 238055 | [238055-our-two-bedroom-story-after-the-crisis-minato.json](./238055-our-two-bedroom-story-after-the-crisis-minato.json) |
