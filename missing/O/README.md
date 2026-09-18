@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origame | 152916 | [152916-origame.json](./152916-origame.json) |
 | Origami Paradise | 227478 | [227478-origami-paradise.json](./227478-origami-paradise.json) |
 | Origami Treasure | 289435 | [289435-origami-treasure.json](./289435-origami-treasure.json) |
+| Origamihero Games 2D Platformer Collection | 212357 | [212357-origamihero-games-2d-platformer-collection.json](./212357-origamihero-games-2d-platformer-collection.json) |
 | Origin | 126648 | [126648-origin.json](./126648-origin.json) |
 | Origin Hunt | 180772 | [180772-origin-hunt.json](./180772-origin-hunt.json) |
 | Original Journey | 40968 | [40968-original-journey.json](./40968-original-journey.json) |
