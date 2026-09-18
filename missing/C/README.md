@@ -1420,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cemetery Warrior 3 | 29991 | [29991-cemetery-warrior-3.json](./29991-cemetery-warrior-3.json) |
 | Cendovia Uprising | 346664 | [346664-cendovia-uprising.json](./346664-cendovia-uprising.json) |
 | Cendric | 81045 | [81045-cendric.json](./81045-cendric.json) |
+| Censored Files | 208458 | [208458-censored-files.json](./208458-censored-files.json) |
 | Centauri Dominion | 164986 | [164986-centauri-dominion.json](./164986-centauri-dominion.json) |
 | Centauri's Favourite Archer | 235858 | [235858-centauris-favourite-archer.json](./235858-centauris-favourite-archer.json) |
 | Centipede | 218804 | [218804-centipede.json](./218804-centipede.json) |
@@ -1678,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
 | ChatBattlers | 316821 | [316821-chatbattlers.json](./316821-chatbattlers.json) |
 | ChatBBT | 291451 | [291451-chatbbt.json](./291451-chatbbt.json) |
+| Chatbotaged | 208471 | [208471-chatbotaged.json](./208471-chatbotaged.json) |
 | Château Pluie: The New Cellar Keeper | 412309 | [412309-chateau-pluie-the-new-cellar-keeper.json](./412309-chateau-pluie-the-new-cellar-keeper.json) |
 | Château Royale Jigsaw | 357875 | [357875-chateau-royale-jigsaw.json](./357875-chateau-royale-jigsaw.json) |
 | Château Royale Jigsaw: Expansion Pack 1 | 357876 | [357876-chateau-royale-jigsaw-expansion-pack-1.json](./357876-chateau-royale-jigsaw-expansion-pack-1.json) |
@@ -2550,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Legends: The Ghost of Misty Hill - DLC | 252238 | [252238-city-legends-the-ghost-of-misty-hill-dlc.json](./252238-city-legends-the-ghost-of-misty-hill-dlc.json) |
 | City Legends: Trapped In Mirror - Collector's Edition | 212835 | [212835-city-legends-trapped-in-mirror-collectors-edition.json](./212835-city-legends-trapped-in-mirror-collectors-edition.json) |
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
+| City Limits | 208438 | [208438-city-limits.json](./208438-city-limits.json) |
 | City Mage 3: False Prophecy - Collector's Edition | 417520 | [417520-city-mage-3-false-prophecy-collectors-edition.json](./417520-city-mage-3-false-prophecy-collectors-edition.json) |
 | City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
 | City of Cards | 171555 | [171555-city-of-cards.json](./171555-city-of-cards.json) |
@@ -3049,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: Europe | 73848 | [73848-code-europe.json](./73848-code-europe.json) |
 | Code: Realize - Future Blessings | 41821 | [41821-code-realize-future-blessings.json](./41821-code-realize-future-blessings.json) |
 | Code: Realize ~Wintertide Miracles~ Limited Edition | 112919 | [112919-code-realize-wintertide-miracles-limited-edition.json](./112919-code-realize-wintertide-miracles-limited-edition.json) |
+| Code: To Jin Yong | 208466 | [208466-code-to-jin-yong.json](./208466-code-to-jin-yong.json) |
 | Code: X | 174798 | [174798-code-x.json](./174798-code-x.json) |
 | Code/The Werewolf Party | 120927 | [120927-code-the-werewolf-party.json](./120927-code-the-werewolf-party.json) |
 | Code5erpent | 281998 | [281998-code5erpent.json](./281998-code5erpent.json) |
@@ -3892,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
 | Cookin' Idol I! My! Main! Game de Hirameki! Kirameki Cooking | 123019 | [123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json](./123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json) |
 | Cooking | 314874 | [314874-cooking.json](./314874-cooking.json) |
+| Cooking Academy 2: World Cuisine | 208483 | [208483-cooking-academy-2-world-cuisine.json](./208483-cooking-academy-2-world-cuisine.json) |
 | Cooking Academy Fire and Knives | 17826 | [17826-cooking-academy-fire-and-knives.json](./17826-cooking-academy-fire-and-knives.json) |
 | Cooking Arena | 259586 | [259586-cooking-arena.json](./259586-cooking-arena.json) |
 | Cooking Arena Culinary Legends | 385177 | [385177-cooking-arena-culinary-legends.json](./385177-cooking-arena-culinary-legends.json) |
@@ -4580,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
 | Crazy Pitcher | 227255 | [227255-crazy-pitcher.json](./227255-crazy-pitcher.json) |
 | Crazy Pizza Boy | 242214 | [242214-crazy-pizza-boy.json](./242214-crazy-pizza-boy.json) |
+| Crazy Plane Landing | 208460 | [208460-crazy-plane-landing.json](./208460-crazy-plane-landing.json) |
 | Crazy Pocket | 413613 | [413613-crazy-pocket.json](./413613-crazy-pocket.json) |
 | Crazy Puzzle | 358935 | [358935-crazy-puzzle.json](./358935-crazy-puzzle.json) |
 | Crazy Rabbits | 250973 | [250973-crazy-rabbits.json](./250973-crazy-rabbits.json) |
@@ -5068,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of Medea | 15512 | [15512-crypt-of-medea.json](./15512-crypt-of-medea.json) |
 | Crypt of the Fungal Lord | 179140 | [179140-crypt-of-the-fungal-lord.json](./179140-crypt-of-the-fungal-lord.json) |
 | Crypt of the Necrodancer: Amplified | 26613 | [26613-crypt-of-the-necrodancer-amplified.json](./26613-crypt-of-the-necrodancer-amplified.json) |
+| Crypt of the Serpent King: Remastered - 4K Edition | 208456 | [208456-crypt-of-the-serpent-king-remastered-4k-edition.json](./208456-crypt-of-the-serpent-king-remastered-4k-edition.json) |
 | Crypt of the Undead | 24862 | [24862-crypt-of-the-undead.json](./24862-crypt-of-the-undead.json) |
 | Crypt Raider | 263476 | [263476-crypt-raider.json](./263476-crypt-raider.json) |
 | Crypt Stalker: Extended Edition | 308796 | [308796-crypt-stalker-extended-edition.json](./308796-crypt-stalker-extended-edition.json) |
@@ -5189,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cub Gym | 150701 | [150701-cub-gym.json](./150701-cub-gym.json) |
 | Cuban Missile Crisis: Ice Crusade | 24721 | [24721-cuban-missile-crisis-ice-crusade.json](./24721-cuban-missile-crisis-ice-crusade.json) |
 | CubbetyCuby | 388735 | [388735-cubbetycuby.json](./388735-cubbetycuby.json) |
+| Cube | 208470 | [208470-cube.json](./208470-cube.json) |
 | Cube | 229157 | [229157-cube.json](./229157-cube.json) |
 | Cube | 249776 | [249776-cube.json](./249776-cube.json) |
 | Cube | 272548 | [272548-cube.json](./272548-cube.json) |
