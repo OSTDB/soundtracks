@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4 | 356097 | [356097-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-4.json](./356097-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-4.json) |
 | Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 5 | 356098 | [356098-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-5.json](./356098-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-5.json) |
 | Taiko no Tatsujin: Rhythm Festival - Classical Pack | 376440 | [376440-taiko-no-tatsujin-rhythm-festival-classical-pack.json](./376440-taiko-no-tatsujin-rhythm-festival-classical-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - Collector's Edition | 207396 | [207396-taiko-no-tatsujin-rhythm-festival-collectors-edition.json](./207396-taiko-no-tatsujin-rhythm-festival-collectors-edition.json) |
 | Taiko no Tatsujin: Rhythm Festival - Dragon Ball Anime Songs Pack | 356187 | [356187-taiko-no-tatsujin-rhythm-festival-dragon-ball-anime-songs-pack.json](./356187-taiko-no-tatsujin-rhythm-festival-dragon-ball-anime-songs-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 1 | 356092 | [356092-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-1.json](./356092-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-1.json) |
 | Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 2 | 356093 | [356093-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-2.json](./356093-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-2.json) |
@@ -1673,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Airs | 144951 | [144951-the-airs.json](./144951-the-airs.json) |
 | The Airship Designer | 126606 | [126606-the-airship-designer.json](./126606-the-airship-designer.json) |
 | The Akuma Hunters: Exorsister | 45993 | [45993-the-akuma-hunters-exorsister.json](./45993-the-akuma-hunters-exorsister.json) |
+| The Alchemist | 207373 | [207373-the-alchemist.json](./207373-the-alchemist.json) |
 | The Alchemist | 306992 | [306992-the-alchemist.json](./306992-the-alchemist.json) |
 | The Alchemist & His Battle-Scarred Homunculus | 315048 | [315048-the-alchemist-and-his-battle-scarred-homunculus.json](./315048-the-alchemist-and-his-battle-scarred-homunculus.json) |
 | The Alchemist of Nafiljar | 244906 | [244906-the-alchemist-of-nafiljar.json](./244906-the-alchemist-of-nafiljar.json) |
@@ -2364,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Pictures Anthology: The Craven Man | 257078 | [257078-the-dark-pictures-anthology-the-craven-man.json](./257078-the-dark-pictures-anthology-the-craven-man.json) |
 | The Dark Pictures Anthology: Winterfold | 257077 | [257077-the-dark-pictures-anthology-winterfold.json](./257077-the-dark-pictures-anthology-winterfold.json) |
 | The Dark Portal | 271322 | [271322-the-dark-portal.json](./271322-the-dark-portal.json) |
+| The Dark Prince | 207389 | [207389-the-dark-prince.json](./207389-the-dark-prince.json) |
 | The Dark Quarter | 367476 | [367476-the-dark-quarter.json](./367476-the-dark-quarter.json) |
 | The Dark Rites of Arkham | 338552 | [338552-the-dark-rites-of-arkham.json](./338552-the-dark-rites-of-arkham.json) |
 | The Dark Side of the Moon | 54465 | [54465-the-dark-side-of-the-moon.json](./54465-the-dark-side-of-the-moon.json) |
@@ -2610,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elysian Fields and Other Greek Myths | 122985 | [122985-the-elysian-fields-and-other-greek-myths.json](./122985-the-elysian-fields-and-other-greek-myths.json) |
 | The Ember Guardian | 342161 | [342161-the-ember-guardian.json](./342161-the-ember-guardian.json) |
 | The Eminence in Shadow: Master of Garden | 227490 | [227490-the-eminence-in-shadow-master-of-garden.json](./227490-the-eminence-in-shadow-master-of-garden.json) |
+| The Empanada Protocol | 207359 | [207359-the-empanada-protocol.json](./207359-the-empanada-protocol.json) |
 | The Empathy Algorithm | 387999 | [387999-the-empathy-algorithm.json](./387999-the-empathy-algorithm.json) |
 | The Emperor and State | 278977 | [278977-the-emperor-and-state.json](./278977-the-emperor-and-state.json) |
 | The Emperor's Mahjong | 70922 | [70922-the-emperors-mahjong.json](./70922-the-emperors-mahjong.json) |
@@ -4784,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Get Together | 13144 | [13144-the-sims-4-get-together.json](./13144-the-sims-4-get-together.json) |
 | The Sims 4: Golden Years Kit | 350998 | [350998-the-sims-4-golden-years-kit.json](./350998-the-sims-4-golden-years-kit.json) |
 | The Sims 4: Grange Mudroom Kit | 362301 | [362301-the-sims-4-grange-mudroom-kit.json](./362301-the-sims-4-grange-mudroom-kit.json) |
+| The Sims 4: High School Years | 207387 | [207387-the-sims-4-high-school-years.json](./207387-the-sims-4-high-school-years.json) |
 | The Sims 4: Kids Room Stuff | 121023 | [121023-the-sims-4-kids-room-stuff.json](./121023-the-sims-4-kids-room-stuff.json) |
 | The Sims 4: Kitchen Clutter Kit | 350996 | [350996-the-sims-4-kitchen-clutter-kit.json](./350996-the-sims-4-kitchen-clutter-kit.json) |
 | The Sims 4: Lady Bridgerton's Masquerade Ball Fashion Kit | 404233 | [404233-the-sims-4-lady-bridgertons-masquerade-ball-fashion-kit.json](./404233-the-sims-4-lady-bridgertons-masquerade-ball-fashion-kit.json) |
@@ -5930,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
 | Throbax TD | 35952 | [35952-throbax-td.json](./35952-throbax-td.json) |
 | Throne and Liberty | 117294 | [117294-throne-and-liberty.json](./117294-throne-and-liberty.json) |
+| Throne of Bone | 207355 | [207355-throne-of-bone.json](./207355-throne-of-bone.json) |
 | Throne of Egypt | 356707 | [356707-throne-of-egypt.json](./356707-throne-of-egypt.json) |
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
 | Throne of Valoria | 323194 | [323194-throne-of-valoria.json](./323194-throne-of-valoria.json) |
@@ -8218,6 +8224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 4 | 306105 | [306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json](./306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json) |
 | Trainz Plus: Pro Train - Sequoia Valley | 306106 | [306106-trainz-plus-pro-train-sequoia-valley.json](./306106-trainz-plus-pro-train-sequoia-valley.json) |
 | Trainz Plus: Pro Train - TGV Duplex | 212240 | [212240-trainz-plus-pro-train-tgv-duplex.json](./212240-trainz-plus-pro-train-tgv-duplex.json) |
+| Trainz Plus: Pro Train Class 68 DRS | 207366 | [207366-trainz-plus-pro-train-class-68-drs.json](./207366-trainz-plus-pro-train-class-68-drs.json) |
 | Trainz Plus: Pro Train DB/DR Auxiliary Train | 237946 | [237946-trainz-plus-pro-train-db-dr-auxiliary-train.json](./237946-trainz-plus-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Plus: ProTrain - AC4400CW Loco Bundle 1 | 306104 | [306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json](./306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json) |
 | Trainz Plus: PRR X23 Boxcar | 205556 | [205556-trainz-plus-prr-x23-boxcar.json](./205556-trainz-plus-prr-x23-boxcar.json) |
@@ -8263,6 +8270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: Pro Train - SD40-2 Loco Bundle 1 | 289475 | [289475-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-1.json](./289475-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2019: Pro Train - SD40-2 Loco Bundle 2 | 292666 | [292666-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-2.json](./292666-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-2.json) |
 | Trainz Railroad Simulator 2019: Pro Train - TGV Duplex | 212242 | [212242-trainz-railroad-simulator-2019-pro-train-tgv-duplex.json](./212242-trainz-railroad-simulator-2019-pro-train-tgv-duplex.json) |
+| Trainz Railroad Simulator 2019: Pro Train Class 68 DRS | 207364 | [207364-trainz-railroad-simulator-2019-pro-train-class-68-drs.json](./207364-trainz-railroad-simulator-2019-pro-train-class-68-drs.json) |
 | Trainz Railroad Simulator 2019: Pro Train DB/DR Auxiliary Train | 237947 | [237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json](./237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Railroad Simulator 2019: QR National GE C44aci | 213409 | [213409-trainz-railroad-simulator-2019-qr-national-ge-c44aci.json](./213409-trainz-railroad-simulator-2019-qr-national-ge-c44aci.json) |
 | Trainz Railroad Simulator 2019: QUBE GE C44aci Pack | 227285 | [227285-trainz-railroad-simulator-2019-qube-ge-c44aci-pack.json](./227285-trainz-railroad-simulator-2019-qube-ge-c44aci-pack.json) |
@@ -8294,6 +8302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 1 | 289476 | [289476-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-1.json](./289476-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 2 | 292667 | [292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json](./292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json) |
 | Trainz Railroad Simulator 2022: Pro Train - TGV Duplex | 212241 | [212241-trainz-railroad-simulator-2022-pro-train-tgv-duplex.json](./212241-trainz-railroad-simulator-2022-pro-train-tgv-duplex.json) |
+| Trainz Railroad Simulator 2022: Pro Train Class 68 DRS | 207365 | [207365-trainz-railroad-simulator-2022-pro-train-class-68-drs.json](./207365-trainz-railroad-simulator-2022-pro-train-class-68-drs.json) |
 | Trainz Railroad Simulator 2022: Pro Train DB/DR Auxiliary Train | 237945 | [237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json](./237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Railroad Simulator 2022: QR National GE C44aci | 213408 | [213408-trainz-railroad-simulator-2022-qr-national-ge-c44aci.json](./213408-trainz-railroad-simulator-2022-qr-national-ge-c44aci.json) |
 | Trainz Railroad Simulator 2022: SSR Fletchers Crawfords GE C44aci Pack | 318440 | [318440-trainz-railroad-simulator-2022-ssr-fletchers-crawfords-ge-c44aci-pack.json](./318440-trainz-railroad-simulator-2022-ssr-fletchers-crawfords-ge-c44aci-pack.json) |
@@ -9306,6 +9315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Heads of the Coin | 86082 | [86082-two-heads-of-the-coin.json](./86082-two-heads-of-the-coin.json) |
 | Two Hoops | 234317 | [234317-two-hoops.json](./234317-two-hoops.json) |
 | Two Hour Escape Mystery: A Puzzling Voyage | 272902 | [272902-two-hour-escape-mystery-a-puzzling-voyage.json](./272902-two-hour-escape-mystery-a-puzzling-voyage.json) |
+| Two Identical | 207406 | [207406-two-identical.json](./207406-two-identical.json) |
 | Two Kiss with Two Men | 303272 | [303272-two-kiss-with-two-men.json](./303272-two-kiss-with-two-men.json) |
 | Two Lane | 270776 | [270776-two-lane.json](./270776-two-lane.json) |
 | Two Little Ghosts of that House: The Missing Toy | 319340 | [319340-two-little-ghosts-of-that-house-the-missing-toy.json](./319340-two-little-ghosts-of-that-house-the-missing-toy.json) |
