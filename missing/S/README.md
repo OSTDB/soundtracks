@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasons Turning | 374617 | [374617-seasons-turning.json](./374617-seasons-turning.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
 | Seawolf + Missile | 139470 | [139470-seawolf-missile.json](./139470-seawolf-missile.json) |
+| SeaWolf VR | 196676 | [196676-seawolf-vr.json](./196676-seawolf-vr.json) |
 | SeaWorld Adventure Park: Shamu's Deep Sea Adventures | 50565 | [50565-seaworld-adventure-park-shamus-deep-sea-adventures.json](./50565-seaworld-adventure-park-shamus-deep-sea-adventures.json) |
 | SeaWorld Adventure Parks Tycoon | 73288 | [73288-seaworld-adventure-parks-tycoon.json](./73288-seaworld-adventure-parks-tycoon.json) |
 | Sebastian's Quest | 329038 | [329038-sebastians-quest.json](./329038-sebastians-quest.json) |
@@ -2388,6 +2389,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
 | Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
 | Shin Hayarigami | 79331 | [79331-shin-hayarigami.json](./79331-shin-hayarigami.json) |
+| Shin Hayarigami: Doll | 196705 | [196705-shin-hayarigami-doll.json](./196705-shin-hayarigami-doll.json) |
+| Shin Hayarigami: Ghost | 196702 | [196702-shin-hayarigami-ghost.json](./196702-shin-hayarigami-ghost.json) |
+| Shin Hayarigami: Pandemic | 196703 | [196703-shin-hayarigami-pandemic.json](./196703-shin-hayarigami-pandemic.json) |
+| Shin Hayarigami: Parasite | 196704 | [196704-shin-hayarigami-parasite.json](./196704-shin-hayarigami-parasite.json) |
 | Shin Hayarigami: Secret Club | 100817 | [100817-shin-hayarigami-secret-club.json](./100817-shin-hayarigami-secret-club.json) |
 | Shin Hisui no Shizuku: Hiiro no Kakera 2 DS | 124278 | [124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json](./124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json) |
 | Shin Kaitei Gunkan: Koutetsu no Kodoku | 400898 | [400898-shin-kaitei-gunkan-koutetsu-no-kodoku.json](./400898-shin-kaitei-gunkan-koutetsu-no-kodoku.json) |
@@ -7389,6 +7394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starshapes | 249864 | [249864-starshapes.json](./249864-starshapes.json) |
 | Starshatter | 70929 | [70929-starshatter.json](./70929-starshatter.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
+| Starshine Legacy Episode 1: Mystery of the Soul Riders | 196735 | [196735-starshine-legacy-episode-1-mystery-of-the-soul-riders.json](./196735-starshine-legacy-episode-1-mystery-of-the-soul-riders.json) |
 | Starship | 208449 | [208449-starship.json](./208449-starship.json) |
 | Starship | 217983 | [217983-starship.json](./217983-starship.json) |
 | Starship | 271761 | [271761-starship.json](./271761-starship.json) |
@@ -9108,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Summer 2020 | 155606 | [155606-super-jigsaw-puzzle-generations-summer-2020.json](./155606-super-jigsaw-puzzle-generations-summer-2020.json) |
 | Super Jigsaw Puzzle: Generations - Sunsets Puzzles | 155630 | [155630-super-jigsaw-puzzle-generations-sunsets-puzzles.json](./155630-super-jigsaw-puzzle-generations-sunsets-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Sweets Puzzles | 155608 | [155608-super-jigsaw-puzzle-generations-sweets-puzzles.json](./155608-super-jigsaw-puzzle-generations-sweets-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Technology | 196677 | [196677-super-jigsaw-puzzle-generations-technology.json](./196677-super-jigsaw-puzzle-generations-technology.json) |
 | Super Jigsaw Puzzle: Generations - Trains Puzzles | 155610 | [155610-super-jigsaw-puzzle-generations-trains-puzzles.json](./155610-super-jigsaw-puzzle-generations-trains-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - United Kingdom | 155597 | [155597-super-jigsaw-puzzle-generations-united-kingdom.json](./155597-super-jigsaw-puzzle-generations-united-kingdom.json) |
 | Super Jigsaw Puzzle: Generations - USA Puzzles | 155634 | [155634-super-jigsaw-puzzle-generations-usa-puzzles.json](./155634-super-jigsaw-puzzle-generations-usa-puzzles.json) |
