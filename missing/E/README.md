@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Tank | 153362 | [153362-escape-the-tank.json](./153362-escape-the-tank.json) |
 | Escape the Undertaker | 256839 | [256839-escape-the-undertaker.json](./256839-escape-the-undertaker.json) |
 | Escape the Void | 296681 | [296681-escape-the-void.json](./296681-escape-the-void.json) |
+| Escape to School | 192804 | [192804-escape-to-school.json](./192804-escape-to-school.json) |
 | Escape to the Ocean | 231061 | [231061-escape-to-the-ocean.json](./231061-escape-to-the-ocean.json) |
 | Escape Velocity | 377579 | [377579-escape-velocity.json](./377579-escape-velocity.json) |
 | Escape War | 153960 | [153960-escape-war.json](./153960-escape-war.json) |
@@ -1861,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever Maiden: Daraku no Sono no Otome-tachi | 249497 | [249497-ever-maiden-daraku-no-sono-no-otome-tachi.json](./249497-ever-maiden-daraku-no-sono-no-otome-tachi.json) |
 | Ever Planet | 67290 | [67290-ever-planet.json](./67290-ever-planet.json) |
 | Everbee | 270130 | [270130-everbee.json](./270130-everbee.json) |
+| Everblade | 192806 | [192806-everblade.json](./192806-everblade.json) |
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
 | Everblue | 37082 | [37082-everblue.json](./37082-everblue.json) |
 | Everchanging | 157153 | [157153-everchanging.json](./157153-everchanging.json) |
