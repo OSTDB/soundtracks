@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirwayEx | 215243 | [215243-airwayex.json](./215243-airwayex.json) |
 | AisleRiot Solitaire | 63236 | [63236-aisleriot-solitaire.json](./63236-aisleriot-solitaire.json) |
 | Aislin's Story: The Bloodbath Trials | 177534 | [177534-aislins-story-the-bloodbath-trials.json](./177534-aislins-story-the-bloodbath-trials.json) |
+| Aisu Kuriimu Simulator | 186730 | [186730-aisu-kuriimu-simulator.json](./186730-aisu-kuriimu-simulator.json) |
 | Aiten Eishi: Blue Guardians | 252408 | [252408-aiten-eishi-blue-guardians.json](./252408-aiten-eishi-blue-guardians.json) |
 | Aitta: Finnish folktales | 203868 | [203868-aitta-finnish-folktales.json](./203868-aitta-finnish-folktales.json) |
 | Aiyana | 211415 | [211415-aiyana.json](./211415-aiyana.json) |
@@ -4063,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Dawn's Break | 303271 | [303271-at-dawns-break.json](./303271-at-dawns-break.json) |
 | At Dead of Night | 141235 | [141235-at-dead-of-night.json](./141235-at-dead-of-night.json) |
 | At Home Alone | 111237 | [111237-at-home-alone.json](./111237-at-home-alone.json) |
+| At Home Alone Final | 186721 | [186721-at-home-alone-final.json](./186721-at-home-alone-final.json) |
 | At Ishtar's Gate | 142493 | [142493-at-ishtars-gate.json](./142493-at-ishtars-gate.json) |
 | At Sixes and Sevens | 342771 | [342771-at-sixes-and-sevens.json](./342771-at-sixes-and-sevens.json) |
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
@@ -4609,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azada: In Libro Collector's Edition | 74465 | [74465-azada-in-libro-collectors-edition.json](./74465-azada-in-libro-collectors-edition.json) |
 | Azagthoth | 313860 | [313860-azagthoth.json](./313860-azagthoth.json) |
 | Azangara | 77375 | [77375-azangara.json](./77375-azangara.json) |
+| Azar | 186767 | [186767-azar.json](./186767-azar.json) |
 | Azathoth-D: Youtou Saisoku Densetsu | 144954 | [144954-azathoth-d-youtou-saisoku-densetsu.json](./144954-azathoth-d-youtou-saisoku-densetsu.json) |
 | Azayaka na Irodori no Naka de Kimi Rashiku: Premium Edition | 212323 | [212323-azayaka-na-irodori-no-naka-de-kimi-rashiku-premium-edition.json](./212323-azayaka-na-irodori-no-naka-de-kimi-rashiku-premium-edition.json) |
 | Azazel | 170020 | [170020-azazel.json](./170020-azazel.json) |
