@@ -3361,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Cozy Room: Lo-Fi | 338702 | [338702-mini-cozy-room-lo-fi.json](./338702-mini-cozy-room-lo-fi.json) |
 | Mini Crafty | 147392 | [147392-mini-crafty.json](./147392-mini-crafty.json) |
 | Mini Crawler | 326077 | [326077-mini-crawler.json](./326077-mini-crawler.json) |
+| Mini Crossword Puzzles | 233098 | [233098-mini-crossword-puzzles.json](./233098-mini-crossword-puzzles.json) |
 | Mini Dash | 61052 | [61052-mini-dash.json](./61052-mini-dash.json) |
 | Mini Doom | 241983 | [241983-mini-doom.json](./241983-mini-doom.json) |
 | Mini Doom 2 | 95994 | [95994-mini-doom-2.json](./95994-mini-doom-2.json) |
