@@ -2814,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocketing the Ball | 294126 | [294126-pocketing-the-ball.json](./294126-pocketing-the-ball.json) |
 | PocketWarwick | 64345 | [64345-pocketwarwick.json](./64345-pocketwarwick.json) |
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
+| Pocohontos | 225732 | [225732-pocohontos.json](./225732-pocohontos.json) |
 | Pocoman: Green Machine Level Pack | 262944 | [262944-pocoman-green-machine-level-pack.json](./262944-pocoman-green-machine-level-pack.json) |
 | Pocoyo Racing | 50939 | [50939-pocoyo-racing.json](./50939-pocoyo-racing.json) |
 | Pod | 86049 | [86049-pod.json](./86049-pod.json) |
@@ -3526,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potshot Pirates | 117750 | [117750-potshot-pirates.json](./117750-potshot-pirates.json) |
 | Potsworth & Co. | 95379 | [95379-potsworth-and-co.json](./95379-potsworth-and-co.json) |
 | Pottery Maker | 89264 | [89264-pottery-maker.json](./89264-pottery-maker.json) |
+| Potty Quest | 225768 | [225768-potty-quest.json](./225768-potty-quest.json) |
 | Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
 | Poultry Party | 341558 | [341558-poultry-party.json](./341558-poultry-party.json) |
 | Pour Boy and the Nitro Necromancer | 400895 | [400895-pour-boy-and-the-nitro-necromancer.json](./400895-pour-boy-and-the-nitro-necromancer.json) |
@@ -4822,6 +4824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Chasers | 292140 | [292140-puzzle-chasers.json](./292140-puzzle-chasers.json) |
 | Puzzle Club | 218450 | [218450-puzzle-club.json](./218450-puzzle-club.json) |
 | Puzzle Collection | 201256 | [201256-puzzle-collection.json](./201256-puzzle-collection.json) |
+| Puzzle Collection: Complete Edition | 225760 | [225760-puzzle-collection-complete-edition.json](./225760-puzzle-collection-complete-edition.json) |
 | Puzzle Collection: New Pieces | 226317 | [226317-puzzle-collection-new-pieces.json](./226317-puzzle-collection-new-pieces.json) |
 | Puzzle Cozy | 386692 | [386692-puzzle-cozy.json](./386692-puzzle-cozy.json) |
 | Puzzle Craft | 47286 | [47286-puzzle-craft.json](./47286-puzzle-craft.json) |
