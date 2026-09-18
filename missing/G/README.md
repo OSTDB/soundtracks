@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game For Anna | 154004 | [154004-game-for-anna.json](./154004-game-for-anna.json) |
 | Game for Peace | 196849 | [196849-game-for-peace.json](./196849-game-for-peace.json) |
 | Game ga Ippai Kikansha Thomas | 327581 | [327581-game-ga-ippai-kikansha-thomas.json](./327581-game-ga-ippai-kikansha-thomas.json) |
+| Game Grumps: Joint Justice - Turnabout Hour | 182392 | [182392-game-grumps-joint-justice-turnabout-hour.json](./182392-game-grumps-joint-justice-turnabout-hour.json) |
 | Game Grumps: The Video Game | 283768 | [283768-game-grumps-the-video-game.json](./283768-game-grumps-the-video-game.json) |
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
 | Game Jam Jam Game | 128607 | [128607-game-jam-jam-game.json](./128607-game-jam-jam-game.json) |
@@ -984,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getter Robo Daikessen! | 77981 | [77981-getter-robo-daikessen.json](./77981-getter-robo-daikessen.json) |
 | Getting a Bottle of Water Simulator | 334664 | [334664-getting-a-bottle-of-water-simulator.json](./334664-getting-a-bottle-of-water-simulator.json) |
 | Getting Home | 406198 | [406198-getting-home.json](./406198-getting-home.json) |
+| Getting It Up | 182383 | [182383-getting-it-up.json](./182383-getting-it-up.json) |
 | Getting Nuts | 254591 | [254591-getting-nuts.json](./254591-getting-nuts.json) |
 | Getting out Alive | 264109 | [264109-getting-out-alive.json](./264109-getting-out-alive.json) |
 | Getting Over It with Your Body | 381035 | [381035-getting-over-it-with-your-body.json](./381035-getting-over-it-with-your-body.json) |
