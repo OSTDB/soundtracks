@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T19:02:49.378Z",
-  "total_missing": 88721,
+  "generated_at": "2026-09-18T19:18:32.063Z",
+  "total_missing": 88771,
   "games": [
     {
       "igdb_id": 273453,
@@ -31488,6 +31488,11 @@
       "file": "missing/B/131531-basketball.json"
     },
     {
+      "igdb_id": 191088,
+      "game_name": "Basketball",
+      "file": "missing/B/191088-basketball.json"
+    },
+    {
       "igdb_id": 246504,
       "game_name": "Basketball",
       "file": "missing/B/246504-basketball.json"
@@ -43133,6 +43138,11 @@
       "file": "missing/B/200753-blue-box.json"
     },
     {
+      "igdb_id": 191126,
+      "game_name": "Blue Chips",
+      "file": "missing/B/191126-blue-chips.json"
+    },
+    {
       "igdb_id": 265143,
       "game_name": "Blue Cradle: Signifie",
       "file": "missing/B/265143-blue-cradle-signifie.json"
@@ -44321,6 +44331,31 @@
       "igdb_id": 210638,
       "game_name": "Bomb Disposer",
       "file": "missing/B/210638-bomb-disposer.json"
+    },
+    {
+      "igdb_id": 191087,
+      "game_name": "Bomb It",
+      "file": "missing/B/191087-bomb-it.json"
+    },
+    {
+      "igdb_id": 191097,
+      "game_name": "Bomb It 2",
+      "file": "missing/B/191097-bomb-it-2.json"
+    },
+    {
+      "igdb_id": 191114,
+      "game_name": "Bomb It 3",
+      "file": "missing/B/191114-bomb-it-3.json"
+    },
+    {
+      "igdb_id": 191115,
+      "game_name": "Bomb It 4",
+      "file": "missing/B/191115-bomb-it-4.json"
+    },
+    {
+      "igdb_id": 191116,
+      "game_name": "Bomb It 5",
+      "file": "missing/B/191116-bomb-it-5.json"
     },
     {
       "igdb_id": 387553,
@@ -69083,6 +69118,11 @@
       "file": "missing/C/90638-color.json"
     },
     {
+      "igdb_id": 191131,
+      "game_name": "Color Ball",
+      "file": "missing/C/191131-color-ball.json"
+    },
+    {
       "igdb_id": 100890,
       "game_name": "Color Ball 2018",
       "file": "missing/C/100890-color-ball-2018.json"
@@ -78436,6 +78476,11 @@
       "igdb_id": 335695,
       "game_name": "Crypto Fantasy: The Scrolls of Kouga",
       "file": "missing/C/335695-crypto-fantasy-the-scrolls-of-kouga.json"
+    },
+    {
+      "igdb_id": 191122,
+      "game_name": "Crypto Miner Tycoon Simulator",
+      "file": "missing/C/191122-crypto-miner-tycoon-simulator.json"
     },
     {
       "igdb_id": 358295,
@@ -93203,6 +93248,11 @@
       "file": "missing/D/193327-diary-of-broken-dreams.json"
     },
     {
+      "igdb_id": 191125,
+      "game_name": "Diaspora",
+      "file": "missing/D/191125-diaspora.json"
+    },
+    {
       "igdb_id": 183524,
       "game_name": "Diatris",
       "file": "missing/D/183524-diatris.json"
@@ -98368,9 +98418,89 @@
       "file": "missing/D/211962-dominay.json"
     },
     {
+      "igdb_id": 191103,
+      "game_name": "Dominion: Adventures",
+      "file": "missing/D/191103-dominion-adventures.json"
+    },
+    {
+      "igdb_id": 191100,
+      "game_name": "Dominion: Alchemy",
+      "file": "missing/D/191100-dominion-alchemy.json"
+    },
+    {
+      "igdb_id": 191105,
+      "game_name": "Dominion: Base Set - 1st Edition",
+      "file": "missing/D/191105-dominion-base-set-1st-edition.json"
+    },
+    {
+      "igdb_id": 191107,
+      "game_name": "Dominion: Cornucopia",
+      "file": "missing/D/191107-dominion-cornucopia.json"
+    },
+    {
+      "igdb_id": 191101,
+      "game_name": "Dominion: Dark Ages",
+      "file": "missing/D/191101-dominion-dark-ages.json"
+    },
+    {
+      "igdb_id": 191109,
+      "game_name": "Dominion: Empires",
+      "file": "missing/D/191109-dominion-empires.json"
+    },
+    {
+      "igdb_id": 191104,
+      "game_name": "Dominion: Guilds",
+      "file": "missing/D/191104-dominion-guilds.json"
+    },
+    {
+      "igdb_id": 191102,
+      "game_name": "Dominion: Hinterlands",
+      "file": "missing/D/191102-dominion-hinterlands.json"
+    },
+    {
+      "igdb_id": 191099,
+      "game_name": "Dominion: Intrigue",
+      "file": "missing/D/191099-dominion-intrigue.json"
+    },
+    {
+      "igdb_id": 191112,
+      "game_name": "Dominion: Intrigue - 1st Edition",
+      "file": "missing/D/191112-dominion-intrigue-1st-edition.json"
+    },
+    {
+      "igdb_id": 191113,
+      "game_name": "Dominion: Menagerie",
+      "file": "missing/D/191113-dominion-menagerie.json"
+    },
+    {
+      "igdb_id": 191106,
+      "game_name": "Dominion: Nocturne",
+      "file": "missing/D/191106-dominion-nocturne.json"
+    },
+    {
+      "igdb_id": 191110,
+      "game_name": "Dominion: Promo Pack 2",
+      "file": "missing/D/191110-dominion-promo-pack-2.json"
+    },
+    {
+      "igdb_id": 191108,
+      "game_name": "Dominion: Prosperity",
+      "file": "missing/D/191108-dominion-prosperity.json"
+    },
+    {
       "igdb_id": 203948,
       "game_name": "Dominion: Prosperity - 1st Edition",
       "file": "missing/D/203948-dominion-prosperity-1st-edition.json"
+    },
+    {
+      "igdb_id": 191098,
+      "game_name": "Dominion: Renaissance",
+      "file": "missing/D/191098-dominion-renaissance.json"
+    },
+    {
+      "igdb_id": 191111,
+      "game_name": "Dominion: Seaside",
+      "file": "missing/D/191111-dominion-seaside.json"
     },
     {
       "igdb_id": 16641,
@@ -103581,6 +103711,11 @@
       "igdb_id": 171007,
       "game_name": "Dream Golf VR: Lighthouse Island",
       "file": "missing/D/171007-dream-golf-vr-lighthouse-island.json"
+    },
+    {
+      "igdb_id": 191084,
+      "game_name": "Dream Hacker",
+      "file": "missing/D/191084-dream-hacker.json"
     },
     {
       "igdb_id": 350416,
@@ -120176,6 +120311,11 @@
       "igdb_id": 337150,
       "game_name": "F*ck the HELL out",
       "file": "missing/F/337150-f-ck-the-hell-out.json"
+    },
+    {
+      "igdb_id": 191129,
+      "game_name": "F*ck This Game",
+      "file": "missing/F/191129-f-ck-this-game.json"
     },
     {
       "igdb_id": 47295,
@@ -141443,6 +141583,11 @@
       "file": "missing/G/113747-galaxity.json"
     },
     {
+      "igdb_id": 191132,
+      "game_name": "Galaxity: Terminal 21 VR",
+      "file": "missing/G/191132-galaxity-terminal-21-vr.json"
+    },
+    {
       "igdb_id": 31881,
       "game_name": "GalaxIverse",
       "file": "missing/G/31881-galaxiverse.json"
@@ -143486,6 +143631,11 @@
       "igdb_id": 101620,
       "game_name": "Gaze At Maze",
       "file": "missing/G/101620-gaze-at-maze.json"
+    },
+    {
+      "igdb_id": 191089,
+      "game_name": "Gaze of the Eyeless",
+      "file": "missing/G/191089-gaze-of-the-eyeless.json"
     },
     {
       "igdb_id": 393476,
@@ -164418,6 +164568,11 @@
       "file": "missing/H/235485-heroes-of-drakerealm.json"
     },
     {
+      "igdb_id": 191119,
+      "game_name": "Heroes of Egypt: The Curse of Sethos",
+      "file": "missing/H/191119-heroes-of-egypt-the-curse-of-sethos.json"
+    },
+    {
       "igdb_id": 244349,
       "game_name": "Heroes of Eroticism: Amorous Advances",
       "file": "missing/H/244349-heroes-of-eroticism-amorous-advances.json"
@@ -168241,6 +168396,11 @@
       "igdb_id": 144386,
       "game_name": "Holiday Racer",
       "file": "missing/H/144386-holiday-racer.json"
+    },
+    {
+      "igdb_id": 191086,
+      "game_name": "Holiday Time",
+      "file": "missing/H/191086-holiday-time.json"
     },
     {
       "igdb_id": 213485,
@@ -178063,6 +178223,11 @@
       "file": "missing/I/340755-in-season.json"
     },
     {
+      "igdb_id": 191123,
+      "game_name": "In Shape",
+      "file": "missing/I/191123-in-shape.json"
+    },
+    {
       "igdb_id": 348241,
       "game_name": "In Silico",
       "file": "missing/I/348241-in-silico.json"
@@ -181346,6 +181511,11 @@
       "igdb_id": 224107,
       "game_name": "Into Ruins",
       "file": "missing/I/224107-into-ruins.json"
+    },
+    {
+      "igdb_id": 191130,
+      "game_name": "Into the Abyss",
+      "file": "missing/I/191130-into-the-abyss.json"
     },
     {
       "igdb_id": 109033,
@@ -197683,6 +197853,11 @@
       "file": "missing/K/25317-krampus.json"
     },
     {
+      "igdb_id": 191094,
+      "game_name": "Krampus Kills",
+      "file": "missing/K/191094-krampus-kills.json"
+    },
+    {
       "igdb_id": 76674,
       "game_name": "Krampus Quest",
       "file": "missing/K/76674-krampus-quest.json"
@@ -207721,6 +207896,11 @@
       "igdb_id": 210874,
       "game_name": "Live Maze",
       "file": "missing/L/210874-live-maze.json"
+    },
+    {
+      "igdb_id": 191091,
+      "game_name": "Live or Die",
+      "file": "missing/L/191091-live-or-die.json"
     },
     {
       "igdb_id": 106527,
@@ -219601,6 +219781,11 @@
       "igdb_id": 232440,
       "game_name": "Martial Fire",
       "file": "missing/M/232440-martial-fire.json"
+    },
+    {
+      "igdb_id": 191117,
+      "game_name": "Martian Escape",
+      "file": "missing/M/191117-martian-escape.json"
     },
     {
       "igdb_id": 186261,
@@ -249103,6 +249288,11 @@
       "file": "missing/N/170500-new-yankee-under-the-genies-thumb.json"
     },
     {
+      "igdb_id": 191085,
+      "game_name": "New Year Girls",
+      "file": "missing/N/191085-new-year-girls.json"
+    },
+    {
       "igdb_id": 326390,
       "game_name": "New Year Simulator 2025",
       "file": "missing/N/326390-new-year-simulator-2025.json"
@@ -259496,6 +259686,11 @@
       "igdb_id": 209675,
       "game_name": "One Week By Car",
       "file": "missing/O/209675-one-week-by-car.json"
+    },
+    {
+      "igdb_id": 191128,
+      "game_name": "One Week With You",
+      "file": "missing/O/191128-one-week-with-you.json"
     },
     {
       "igdb_id": 104620,
@@ -302998,6 +303193,11 @@
       "file": "missing/R/42650-rise-of-the-phoenix.json"
     },
     {
+      "igdb_id": 191127,
+      "game_name": "Rise of the Robots X",
+      "file": "missing/R/191127-rise-of-the-robots-x.json"
+    },
+    {
       "igdb_id": 146287,
       "game_name": "Rise of the Teenage Mutant Ninja Turtles: Bumper Bros",
       "file": "missing/R/146287-rise-of-the-teenage-mutant-ninja-turtles-bumper-bros.json"
@@ -341508,6 +341708,11 @@
       "file": "missing/S/232698-sperma.json"
     },
     {
+      "igdb_id": 191083,
+      "game_name": "Spermicide",
+      "file": "missing/S/191083-spermicide.json"
+    },
+    {
       "igdb_id": 131598,
       "game_name": "Spermula 1",
       "file": "missing/S/131598-spermula-1.json"
@@ -341561,6 +341766,11 @@
       "igdb_id": 186905,
       "game_name": "Sphere: Flying Cities - Save the World Edition",
       "file": "missing/S/186905-sphere-flying-cities-save-the-world-edition.json"
+    },
+    {
+      "igdb_id": 191096,
+      "game_name": "Sphere: The Knight of Elf",
+      "file": "missing/S/191096-sphere-the-knight-of-elf.json"
     },
     {
       "igdb_id": 118387,
@@ -342991,6 +343201,11 @@
       "igdb_id": 140550,
       "game_name": "Spooky's Jump Scare Mansion: The Doll House",
       "file": "missing/S/140550-spookys-jump-scare-mansion-the-doll-house.json"
+    },
+    {
+      "igdb_id": 191121,
+      "game_name": "SpookyKillers",
+      "file": "missing/S/191121-spookykillers.json"
     },
     {
       "igdb_id": 102740,
@@ -361853,6 +362068,11 @@
       "file": "missing/S/346122-sword-hero.json"
     },
     {
+      "igdb_id": 191095,
+      "game_name": "Sword Maker",
+      "file": "missing/S/191095-sword-maker.json"
+    },
+    {
       "igdb_id": 275703,
       "game_name": "Sword n' Dragons",
       "file": "missing/S/275703-sword-n-dragons.json"
@@ -363121,6 +363341,11 @@
       "igdb_id": 115611,
       "game_name": "Table Games VR",
       "file": "missing/T/115611-table-games-vr.json"
+    },
+    {
+      "igdb_id": 191092,
+      "game_name": "Table Gun",
+      "file": "missing/T/191092-table-gun.json"
     },
     {
       "igdb_id": 64348,
@@ -367531,6 +367756,11 @@
       "igdb_id": 246098,
       "game_name": "TBS Mini-Golf",
       "file": "missing/T/246098-tbs-mini-golf.json"
+    },
+    {
+      "igdb_id": 191093,
+      "game_name": "TC Strikers 4",
+      "file": "missing/T/191093-tc-strikers-4.json"
     },
     {
       "igdb_id": 306682,
@@ -373666,6 +373896,11 @@
       "igdb_id": 275689,
       "game_name": "The Celestial Tales",
       "file": "missing/T/275689-the-celestial-tales.json"
+    },
+    {
+      "igdb_id": 191090,
+      "game_name": "The Celestra",
+      "file": "missing/T/191090-the-celestra.json"
     },
     {
       "igdb_id": 307965,
@@ -383773,6 +384008,11 @@
       "file": "missing/T/147945-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json"
     },
     {
+      "igdb_id": 191120,
+      "game_name": "The Mysterious Misadventures of Mollie & Mordecai",
+      "file": "missing/T/191120-the-mysterious-misadventures-of-mollie-and-mordecai.json"
+    },
+    {
       "igdb_id": 84217,
       "game_name": "The Mystery at Greveholm",
       "file": "missing/T/84217-the-mystery-at-greveholm.json"
@@ -384106,6 +384346,11 @@
       "igdb_id": 127227,
       "game_name": "The North Pole",
       "file": "missing/T/127227-the-north-pole.json"
+    },
+    {
+      "igdb_id": 191118,
+      "game_name": "The Northern Gate: Special Agent",
+      "file": "missing/T/191118-the-northern-gate-special-agent.json"
     },
     {
       "igdb_id": 301414,
@@ -406031,6 +406276,11 @@
       "igdb_id": 180787,
       "game_name": "Trauma",
       "file": "missing/T/180787-trauma.json"
+    },
+    {
+      "igdb_id": 191124,
+      "game_name": "Trauma",
+      "file": "missing/T/191124-trauma.json"
     },
     {
       "igdb_id": 301607,
