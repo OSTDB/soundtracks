@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal | 177556 | [177556-terminal.json](./177556-terminal.json) |
 | Terminal | 253360 | [253360-terminal.json](./253360-terminal.json) |
 | Terminal 64 | 252820 | [252820-terminal-64.json](./252820-terminal-64.json) |
+| Terminal Breach | 217394 | [217394-terminal-breach.json](./217394-terminal-breach.json) |
 | Terminal City | 314463 | [314463-terminal-city.json](./314463-terminal-city.json) |
 | Terminal Compression | 331969 | [331969-terminal-compression.json](./331969-terminal-compression.json) |
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Another World | 386889 | [386889-the-another-world.json](./386889-the-another-world.json) |
 | The Answer is 42 | 127234 | [127234-the-answer-is-42.json](./127234-the-answer-is-42.json) |
 | The Ant Bully | 206163 | [206163-the-ant-bully.json](./206163-the-ant-bully.json) |
+| The Antarctic Sphere | 217414 | [217414-the-antarctic-sphere.json](./217414-the-antarctic-sphere.json) |
 | The Antaresian Spacepond | 267994 | [267994-the-antaresian-spacepond.json](./267994-the-antaresian-spacepond.json) |
 | The Anti-Gravity Machine | 359420 | [359420-the-anti-gravity-machine.json](./359420-the-anti-gravity-machine.json) |
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
@@ -1801,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Baconing | 2251 | [2251-the-baconing.json](./2251-the-baconing.json) |
 | The Bad Gravedigger | 104073 | [104073-the-bad-gravedigger.json](./104073-the-bad-gravedigger.json) |
 | The Bad Son | 192888 | [192888-the-bad-son.json](./192888-the-bad-son.json) |
+| The Bakerville Case | 217383 | [217383-the-bakerville-case.json](./217383-the-bakerville-case.json) |
 | The Bakery Tales | 328475 | [328475-the-bakery-tales.json](./328475-the-bakery-tales.json) |
 | The Ball | 363961 | [363961-the-ball.json](./363961-the-ball.json) |
 | The Ball | 9402 | [9402-the-ball.json](./9402-the-ball.json) |
@@ -3180,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Impossible Quiz Book | 61549 | [61549-the-impossible-quiz-book.json](./61549-the-impossible-quiz-book.json) |
 | The Impossible Test | 66712 | [66712-the-impossible-test.json](./66712-the-impossible-test.json) |
 | The Impossible Travel Agency | 33075 | [33075-the-impossible-travel-agency.json](./33075-the-impossible-travel-agency.json) |
+| The In Between | 217362 | [217362-the-in-between.json](./217362-the-in-between.json) |
 | The InBetween | 305935 | [305935-the-inbetween.json](./305935-the-inbetween.json) |
 | The Incomplete Lunar: First Night | 284331 | [284331-the-incomplete-lunar-first-night.json](./284331-the-incomplete-lunar-first-night.json) |
 | The Incredible Adventures of Van Helsing II: Complete Pack | 223550 | [223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json](./223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json) |
@@ -6754,6 +6758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic: Iceberg Ahead | 91966 | [91966-titanic-iceberg-ahead.json](./91966-titanic-iceberg-ahead.json) |
 | Titanic: The Recovery Mission | 12962 | [12962-titanic-the-recovery-mission.json](./12962-titanic-the-recovery-mission.json) |
 | Titanigods | 328469 | [328469-titanigods.json](./328469-titanigods.json) |
+| Titanium Hound | 217386 | [217386-titanium-hound.json](./217386-titanium-hound.json) |
 | Titans of Steel: Warring Suns | 69841 | [69841-titans-of-steel-warring-suns.json](./69841-titans-of-steel-warring-suns.json) |
 | Titans: Dawn of Tribes | 109056 | [109056-titans-dawn-of-tribes.json](./109056-titans-dawn-of-tribes.json) |
 | Titenic | 10841 | [10841-titenic.json](./10841-titenic.json) |
@@ -6879,6 +6884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobia's Animal Farm | 301965 | [301965-tobias-animal-farm.json](./301965-tobias-animal-farm.json) |
 | Tobitaro | 391152 | [391152-tobitaro.json](./391152-tobitaro.json) |
 | Tobla: Divine Path | 279132 | [279132-tobla-divine-path.json](./279132-tobla-divine-path.json) |
+| Tobor | 217406 | [217406-tobor.json](./217406-tobor.json) |
 | Toby | 378190 | [378190-toby.json](./378190-toby.json) |
 | Toby's Topsy Tale | 293615 | [293615-tobys-topsy-tale.json](./293615-tobys-topsy-tale.json) |
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
