@@ -3866,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Love 2 | 165026 | [165026-furry-love-2.json](./165026-furry-love-2.json) |
 | Furry Meow | 224241 | [224241-furry-meow.json](./224241-furry-meow.json) |
 | Furry OwO | 236936 | [236936-furry-owo.json](./236936-furry-owo.json) |
+| Furry Pet Dog Yiff Hentai | 209022 | [209022-furry-pet-dog-yiff-hentai.json](./209022-furry-pet-dog-yiff-hentai.json) |
 | Furry Pride | 148570 | [148570-furry-pride.json](./148570-furry-pride.json) |
 | Furry Reich | 237055 | [237055-furry-reich.json](./237055-furry-reich.json) |
 | Furry Sex Resort | 309687 | [309687-furry-sex-resort.json](./309687-furry-sex-resort.json) |
