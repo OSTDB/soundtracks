@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.I.N.D. | 212907 | [212907-b-i-n-d.json](./212907-b-i-n-d.json) |
 | B.M.G 19: Bike Messenger Go! | 115707 | [115707-b-m-g-19-bike-messenger-go.json](./115707-b-m-g-19-bike-messenger-go.json) |
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
+| B.O.D.A.: Send the Plant Home | 183967 | [183967-b-o-d-a-send-the-plant-home.json](./183967-b-o-d-a-send-the-plant-home.json) |
 | B.o.o.o. | 178676 | [178676-b-o-o-o.json](./178676-b-o-o-o.json) |
 | B.O.W II VR | 251830 | [251830-b-o-w-ii-vr.json](./251830-b-o-w-ii-vr.json) |
 | B.U.D.D. | 265677 | [265677-b-u-d-d.json](./265677-b-u-d-d.json) |
@@ -1939,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Sierra Nr. 7 | 133972 | [133972-best-of-sierra-nr-7.json](./133972-best-of-sierra-nr-7.json) |
 | Best of Solitaire | 85508 | [85508-best-of-solitaire.json](./85508-best-of-solitaire.json) |
 | Best Plumber | 125397 | [125397-best-plumber.json](./125397-best-plumber.json) |
+| Best Romance Game Ever | 183996 | [183996-best-romance-game-ever.json](./183996-best-romance-game-ever.json) |
 | Best Solitaire Greatest Hits | 86698 | [86698-best-solitaire-greatest-hits.json](./86698-best-solitaire-greatest-hits.json) |
 | Best Spider Solitaire | 104604 | [104604-best-spider-solitaire.json](./104604-best-spider-solitaire.json) |
 | Best Word | 234068 | [234068-best-word.json](./234068-best-word.json) |
@@ -3551,6 +3553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombastic | 308253 | [308253-bombastic.json](./308253-bombastic.json) |
 | Bombball | 301584 | [301584-bombball.json](./301584-bombball.json) |
 | Bombe | 230363 | [230363-bombe.json](./230363-bombe.json) |
+| Bombeiro Mascarado | 183966 | [183966-bombeiro-mascarado.json](./183966-bombeiro-mascarado.json) |
 | Bomber | 249775 | [249775-bomber.json](./249775-bomber.json) |
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
@@ -3850,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots & Belts | 139484 | [139484-bots-and-belts.json](./139484-bots-and-belts.json) |
 | Bots Can Feel Too | 200045 | [200045-bots-can-feel-too.json](./200045-bots-can-feel-too.json) |
 | Bots Crusher Arena | 203895 | [203895-bots-crusher-arena.json](./203895-bots-crusher-arena.json) |
+| Bots n' Bugs | 183979 | [183979-bots-n-bugs.json](./183979-bots-n-bugs.json) |
 | Bots Rush | 112350 | [112350-bots-rush.json](./112350-bots-rush.json) |
 | Bots!! | 175926 | [175926-bots.json](./175926-bots.json) |
 | Bottle | 36488 | [36488-bottle.json](./36488-bottle.json) |
