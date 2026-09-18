@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werner Waffenwerke: Arms Tycoon | 322606 | [322606-werner-waffenwerke-arms-tycoon.json](./322606-werner-waffenwerke-arms-tycoon.json) |
 | Werner: Let's Go! | 269305 | [269305-werner-lets-go.json](./269305-werner-lets-go.json) |
 | West Falls | 131562 | [131562-west-falls.json](./131562-west-falls.json) |
+| West Fantasy | 220750 | [220750-west-fantasy.json](./220750-west-fantasy.json) |
 | West Game | 199076 | [199076-west-game.json](./199076-west-game.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
 | West Ride | 256334 | [256334-west-ride.json](./256334-west-ride.json) |
@@ -1726,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchblood | 129238 | [129238-witchblood.json](./129238-witchblood.json) |
 | Witchblood | 413640 | [413640-witchblood.json](./413640-witchblood.json) |
 | Witchcraft | 210673 | [210673-witchcraft.json](./210673-witchcraft.json) |
+| WitchCraft TD | 220718 | [220718-witchcraft-td.json](./220718-witchcraft-td.json) |
 | Witchcraft U | 155652 | [155652-witchcraft-u.json](./155652-witchcraft-u.json) |
 | Witchcraft: Pandoras Box | 127248 | [127248-witchcraft-pandoras-box.json](./127248-witchcraft-pandoras-box.json) |
 | Witches & Woodlands | 275595 | [275595-witches-and-woodlands.json](./275595-witches-and-woodlands.json) |
@@ -1834,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards and Warlords | 30132 | [30132-wizards-and-warlords.json](./30132-wizards-and-warlords.json) |
 | Wizards Legacy: Nightmare Park Manager Simulator | 261345 | [261345-wizards-legacy-nightmare-park-manager-simulator.json](./261345-wizards-legacy-nightmare-park-manager-simulator.json) |
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
+| Wizards, Knights & Archers | 220719 | [220719-wizards-knights-and-archers.json](./220719-wizards-knights-and-archers.json) |
 | Wizards' Clash | 35738 | [35738-wizards-clash.json](./35738-wizards-clash.json) |
 | WizardWare | 400983 | [400983-wizardware.json](./400983-wizardware.json) |
 | Wizavior | 255392 | [255392-wizavior.json](./255392-wizavior.json) |
@@ -2014,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word | 369619 | [369619-word.json](./369619-word.json) |
 | Word Ace | 61032 | [61032-word-ace.json](./61032-word-ace.json) |
 | Word After Word | 134653 | [134653-word-after-word.json](./134653-word-after-word.json) |
+| Word Attack | 220720 | [220720-word-attack.json](./220720-word-attack.json) |
 | Word Beach: Word Games for Fun | 87733 | [87733-word-beach-word-games-for-fun.json](./87733-word-beach-word-games-for-fun.json) |
 | Word Bird Supreme | 415954 | [415954-word-bird-supreme.json](./415954-word-bird-supreme.json) |
 | Word Blitz | 371332 | [371332-word-blitz.json](./371332-word-blitz.json) |
@@ -2190,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Heroes Supreme Justice Extra | 358960 | [358960-world-heroes-supreme-justice-extra.json](./358960-world-heroes-supreme-justice-extra.json) |
 | World Leader Card Game | 119779 | [119779-world-leader-card-game.json](./119779-world-leader-card-game.json) |
 | World Leaders | 274046 | [274046-world-leaders.json](./274046-world-leaders.json) |
+| World Mahjong: Original | 220721 | [220721-world-mahjong-original.json](./220721-world-mahjong-original.json) |
 | World Mosaics | 135246 | [135246-world-mosaics.json](./135246-world-mosaics.json) |
 | World Mosaics 2 | 135247 | [135247-world-mosaics-2.json](./135247-world-mosaics-2.json) |
 | World Mosaics 3: Fairy Tales | 135248 | [135248-world-mosaics-3-fairy-tales.json](./135248-world-mosaics-3-fairy-tales.json) |
@@ -2218,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Mixed Martial Arts 4 | 58187 | [58187-world-of-mixed-martial-arts-4.json](./58187-world-of-mixed-martial-arts-4.json) |
 | World of Mixed Martial Arts 5 | 125436 | [125436-world-of-mixed-martial-arts-5.json](./125436-world-of-mixed-martial-arts-5.json) |
 | World Of Modern Warfare | 89190 | [89190-world-of-modern-warfare.json](./89190-world-of-modern-warfare.json) |
+| World of Motors 2 | 220722 | [220722-world-of-motors-2.json](./220722-world-of-motors-2.json) |
 | World of Movies: Puzzle Game Challenge | 328463 | [328463-world-of-movies-puzzle-game-challenge.json](./328463-world-of-movies-puzzle-game-challenge.json) |
 | World of One | 39012 | [39012-world-of-one.json](./39012-world-of-one.json) |
 | World of Outlaws: Dirt Racing 2023 - Ultimate Edition | 261877 | [261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json](./261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json) |
@@ -2422,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worst Idea | 295402 | [295402-worst-idea.json](./295402-worst-idea.json) |
 | Worth Life | 152369 | [152369-worth-life.json](./152369-worth-life.json) |
 | WortWechsel | 58232 | [58232-wortwechsel.json](./58232-wortwechsel.json) |
+| Woten DX: Traveller's Dream | 220723 | [220723-woten-dx-travellers-dream.json](./220723-woten-dx-travellers-dream.json) |
 | Would You Love Me If I Was a Snake? | 400346 | [400346-would-you-love-me-if-i-was-a-snake.json](./400346-would-you-love-me-if-i-was-a-snake.json) |
 | Would you rather?! | 90677 | [90677-would-you-rather.json](./90677-would-you-rather.json) |
 | Would You Sell Your Soul? 2 | 303265 | [303265-would-you-sell-your-soul-2.json](./303265-would-you-sell-your-soul-2.json) |
