@@ -1351,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminus: Ultiverse | 288755 | [288755-terminus-ultiverse.json](./288755-terminus-ultiverse.json) |
 | Termite | 377177 | [377177-termite.json](./377177-termite.json) |
 | Termite Man | 327380 | [327380-termite-man.json](./327380-termite-man.json) |
+| Terra | 183439 | [183439-terra.json](./183439-terra.json) |
 | Terra | 295236 | [295236-terra.json](./295236-terra.json) |
 | Terra Alia | 279404 | [279404-terra-alia.json](./279404-terra-alia.json) |
 | Terra Avoider | 278508 | [278508-terra-avoider.json](./278508-terra-avoider.json) |
@@ -2371,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse | 356144 | [356144-the-curse.json](./356144-the-curse.json) |
 | The Curse of Aristotle | 251241 | [251241-the-curse-of-aristotle.json](./251241-the-curse-of-aristotle.json) |
 | The Curse of Azriel | 317821 | [317821-the-curse-of-azriel.json](./317821-the-curse-of-azriel.json) |
+| The Curse of Cattenburg | 183478 | [183478-the-curse-of-cattenburg.json](./183478-the-curse-of-cattenburg.json) |
 | The Curse of Karlanrik | 338275 | [338275-the-curse-of-karlanrik.json](./338275-the-curse-of-karlanrik.json) |
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
 | The Curse of Ra | 127340 | [127340-the-curse-of-ra.json](./127340-the-curse-of-ra.json) |
@@ -3897,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Longest Road on Earth: World Tour Bundle | 223446 | [223446-the-longest-road-on-earth-world-tour-bundle.json](./223446-the-longest-road-on-earth-world-tour-bundle.json) |
 | The Longing Ribbon | 151694 | [151694-the-longing-ribbon.json](./151694-the-longing-ribbon.json) |
 | The Lonker | 236919 | [236919-the-lonker.json](./236919-the-lonker.json) |
+| The Lonly Wall | 183472 | [183472-the-lonly-wall.json](./183472-the-lonly-wall.json) |
 | The Loop | 170528 | [170528-the-loop.json](./170528-the-loop.json) |
 | The Loop VR | 97919 | [97919-the-loop-vr.json](./97919-the-loop-vr.json) |
 | The Loopholes Chronicles | 124185 | [124185-the-loopholes-chronicles.json](./124185-the-loopholes-chronicles.json) |
@@ -4064,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Math Problem Killer | 257997 | [257997-the-math-problem-killer.json](./257997-the-math-problem-killer.json) |
 | The Mating Season | 218141 | [218141-the-mating-season.json](./218141-the-mating-season.json) |
 | The Matriarch | 188686 | [188686-the-matriarch.json](./188686-the-matriarch.json) |
+| The Matter at Hand | 183476 | [183476-the-matter-at-hand.json](./183476-the-matter-at-hand.json) |
 | The Maze | 107158 | [107158-the-maze.json](./107158-the-maze.json) |
 | The Maze : Endless nightmare | 29763 | [29763-the-maze-endless-nightmare.json](./29763-the-maze-endless-nightmare.json) |
 | The Maze Contract | 276157 | [276157-the-maze-contract.json](./276157-the-maze-contract.json) |
@@ -5105,6 +5109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stroke of Midnight | 99611 | [99611-the-stroke-of-midnight.json](./99611-the-stroke-of-midnight.json) |
 | The Strongest Ancestor | 301614 | [301614-the-strongest-ancestor.json](./301614-the-strongest-ancestor.json) |
 | The Stronghold Collection | 27858 | [27858-the-stronghold-collection.json](./27858-the-stronghold-collection.json) |
+| The Strongholds of Silberland | 183446 | [183446-the-strongholds-of-silberland.json](./183446-the-strongholds-of-silberland.json) |
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
 | The Subconscious Fear | 271809 | [271809-the-subconscious-fear.json](./271809-the-subconscious-fear.json) |
 | The Submerging Island | 253453 | [253453-the-submerging-island.json](./253453-the-submerging-island.json) |
@@ -5249,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Third Age | 264137 | [264137-the-third-age.json](./264137-the-third-age.json) |
 | The Third Pig | 337176 | [337176-the-third-pig.json](./337176-the-third-pig.json) |
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
+| The Thorns of War | 183445 | [183445-the-thorns-of-war.json](./183445-the-thorns-of-war.json) |
 | The Three Decoders 1 - Riddle of the Ring | 58777 | [58777-the-three-decoders-1-riddle-of-the-ring.json](./58777-the-three-decoders-1-riddle-of-the-ring.json) |
 | The Three Kingdoms: The Dynamic | 212857 | [212857-the-three-kingdoms-the-dynamic.json](./212857-the-three-kingdoms-the-dynamic.json) |
 | The Three Kingdoms: The Tales of Jian An | 379442 | [379442-the-three-kingdoms-the-tales-of-jian-an.json](./379442-the-three-kingdoms-the-tales-of-jian-an.json) |
@@ -5688,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wire | 31955 | [31955-the-wire.json](./31955-the-wire.json) |
 | The Wish | 181937 | [181937-the-wish.json](./181937-the-wish.json) |
 | The Wishing Flower | 225761 | [225761-the-wishing-flower.json](./225761-the-wishing-flower.json) |
+| The Witch and Her Assistant | 183460 | [183460-the-witch-and-her-assistant.json](./183460-the-witch-and-her-assistant.json) |
 | The Witch and the Hundred Knight 2 | 24909 | [24909-the-witch-and-the-hundred-knight-2.json](./24909-the-witch-and-the-hundred-knight-2.json) |
 | The Witch and the Lost Babies | 389585 | [389585-the-witch-and-the-lost-babies.json](./389585-the-witch-and-the-lost-babies.json) |
 | The Witch In The Woods | 253355 | [253355-the-witch-in-the-woods.json](./253355-the-witch-in-the-woods.json) |
@@ -6003,6 +6010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Timmy | 189171 | [189171-this-is-timmy.json](./189171-this-is-timmy.json) |
 | This is Vegas | 14521 | [14521-this-is-vegas.json](./14521-this-is-vegas.json) |
 | This Is Where I Want To Die | 378205 | [378205-this-is-where-i-want-to-die.json](./378205-this-is-where-i-want-to-die.json) |
+| This is Your Laser | 183455 | [183455-this-is-your-laser.json](./183455-this-is-your-laser.json) |
 | This Little Piggy | 181391 | [181391-this-little-piggy.json](./181391-this-little-piggy.json) |
 | This Little Piggy | 185521 | [185521-this-little-piggy.json](./185521-this-little-piggy.json) |
 | This Magical Girl is a B*tch | 270370 | [270370-this-magical-girl-is-a-b-tch.json](./270370-this-magical-girl-is-a-b-tch.json) |
@@ -6259,6 +6267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticking Tea Time | 327184 | [327184-ticking-tea-time.json](./327184-ticking-tea-time.json) |
 | Ticktock | 104010 | [104010-ticktock.json](./104010-ticktock.json) |
 | Ticky's Tower of Time | 328030 | [328030-tickys-tower-of-time.json](./328030-tickys-tower-of-time.json) |
+| TicTako | 183453 | [183453-tictako.json](./183453-tictako.json) |
 | Ticuto | 310569 | [310569-ticuto.json](./310569-ticuto.json) |
 | Tidal Hopper | 336026 | [336026-tidal-hopper.json](./336026-tidal-hopper.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
@@ -8582,6 +8591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz: Classic Cabon City | 27895 | [27895-trainz-classic-cabon-city.json](./27895-trainz-classic-cabon-city.json) |
 | Trainz: Driver Edition | 206748 | [206748-trainz-driver-edition.json](./206748-trainz-driver-edition.json) |
 | Trait | 326271 | [326271-trait.json](./326271-trait.json) |
+| Traitor Nightly | 183454 | [183454-traitor-nightly.json](./183454-traitor-nightly.json) |
 | Trajectile | 91417 | [91417-trajectile.json](./91417-trajectile.json) |
 | Trajes Fatais: Suits of Fate | 124245 | [124245-trajes-fatais-suits-of-fate.json](./124245-trajes-fatais-suits-of-fate.json) |
 | Trakonius | 268220 | [268220-trakonius.json](./268220-trakonius.json) |
@@ -9270,6 +9280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukikage no Simulacre: Kaihou no Hane | 120995 | [120995-tsukikage-no-simulacre-kaihou-no-hane.json](./120995-tsukikage-no-simulacre-kaihou-no-hane.json) |
 | Tsukikomori | 37781 | [37781-tsukikomori.json](./37781-tsukikomori.json) |
 | Tsukumo Reiko's Summer Holidays | 394163 | [394163-tsukumo-reikos-summer-holidays.json](./394163-tsukumo-reikos-summer-holidays.json) |
+| Tsukumobake | 183452 | [183452-tsukumobake.json](./183452-tsukumobake.json) |
 | Tsukumogamis! | 272870 | [272870-tsukumogamis.json](./272870-tsukumogamis.json) |
 | Tsukumonogatari | 66115 | [66115-tsukumonogatari.json](./66115-tsukumonogatari.json) |
 | Tsukutori | 395001 | [395001-tsukutori.json](./395001-tsukutori.json) |
