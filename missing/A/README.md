@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hallway | 16246 | [16246-alien-hallway.json](./16246-alien-hallway.json) |
 | Alien Harvest Leader | 141890 | [141890-alien-harvest-leader.json](./141890-alien-harvest-leader.json) |
 | Alien Hell | 24895 | [24895-alien-hell.json](./24895-alien-hell.json) |
+| Alien Hominid | 210733 | [210733-alien-hominid.json](./210733-alien-hominid.json) |
 | Alien Hominid | 314892 | [314892-alien-hominid.json](./314892-alien-hominid.json) |
 | Alien Hominid 360 | 314895 | [314895-alien-hominid-360.json](./314895-alien-hominid-360.json) |
 | Alien Hunt | 166706 | [166706-alien-hunt.json](./166706-alien-hunt.json) |
@@ -2013,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Hua Yin | 339843 | [339843-angel-hua-yin.json](./339843-angel-hua-yin.json) |
 | Angel in Danger | 61072 | [61072-angel-in-danger.json](./61072-angel-in-danger.json) |
 | Angel in Inferno | 402316 | [402316-angel-in-inferno.json](./402316-angel-in-inferno.json) |
+| Angel Island Tour | 210752 | [210752-angel-island-tour.json](./210752-angel-island-tour.json) |
 | Angel Legion: Chain Trace - Orange | 321958 | [321958-angel-legion-chain-trace-orange.json](./321958-angel-legion-chain-trace-orange.json) |
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
 | Angel Night | 314651 | [314651-angel-night.json](./314651-angel-night.json) |
@@ -2306,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
 | Anna & die Liebe | 269557 | [269557-anna-and-die-liebe.json](./269557-anna-and-die-liebe.json) |
 | Anna-san-tachi no Fushigi no Meikyuu | 208405 | [208405-anna-san-tachi-no-fushigi-no-meikyuu.json](./208405-anna-san-tachi-no-fushigi-no-meikyuu.json) |
+| Anna: The Magic of Words | 210701 | [210701-anna-the-magic-of-words.json](./210701-anna-the-magic-of-words.json) |
 | Anna: The Series Test | 156645 | [156645-anna-the-series-test.json](./156645-anna-the-series-test.json) |
 | Anna's Gram | 94252 | [94252-annas-gram.json](./94252-annas-gram.json) |
 | Anna's Quest | 11367 | [11367-annas-quest.json](./11367-annas-quest.json) |
@@ -2832,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Bravoman | 252393 | [252393-arcade-archives-bravoman.json](./252393-arcade-archives-bravoman.json) |
 | Arcade Archives: Burning Force | 273958 | [273958-arcade-archives-burning-force.json](./273958-arcade-archives-burning-force.json) |
 | Arcade Archives: Buta san | 99561 | [99561-arcade-archives-buta-san.json](./99561-arcade-archives-buta-san.json) |
+| Arcade Archives: Chack'n Pop | 210747 | [210747-arcade-archives-chackn-pop.json](./210747-arcade-archives-chackn-pop.json) |
 | Arcade Archives: Champion Wrestler | 216226 | [216226-arcade-archives-champion-wrestler.json](./216226-arcade-archives-champion-wrestler.json) |
 | Arcade Archives: Chopper 1 | 362353 | [362353-arcade-archives-chopper-1.json](./362353-arcade-archives-chopper-1.json) |
 | Arcade Archives: City Connection | 99558 | [99558-arcade-archives-city-connection.json](./99558-arcade-archives-city-connection.json) |
@@ -2875,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rastan Saga | 300731 | [300731-arcade-archives-rastan-saga.json](./300731-arcade-archives-rastan-saga.json) |
 | Arcade Archives: Rastan Saga II | 306525 | [306525-arcade-archives-rastan-saga-ii.json](./306525-arcade-archives-rastan-saga-ii.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
+| Arcade Archives: Roller Jammer | 210745 | [210745-arcade-archives-roller-jammer.json](./210745-arcade-archives-roller-jammer.json) |
 | Arcade Archives: Rolling Thunder 2 | 251000 | [251000-arcade-archives-rolling-thunder-2.json](./251000-arcade-archives-rolling-thunder-2.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
 | Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
@@ -3743,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix | 19486 | [19486-asterix.json](./19486-asterix.json) |
 | Astérix & Obélix | 228475 | [228475-asterix-and-obelix.json](./228475-asterix-and-obelix.json) |
 | Astérix & Obelix Take on Caesar | 62150 | [62150-asterix-and-obelix-take-on-caesar.json](./62150-asterix-and-obelix-take-on-caesar.json) |
+| Astérix & Obélix XXL | 210711 | [210711-asterix-and-obelix-xxl.json](./210711-asterix-and-obelix-xxl.json) |
 | Astérix & Obélix XXL 2: Mission: Las Vegum | 81480 | [81480-asterix-and-obelix-xxl-2-mission-las-vegum.json](./81480-asterix-and-obelix-xxl-2-mission-las-vegum.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
