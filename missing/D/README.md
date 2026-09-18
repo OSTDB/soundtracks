@@ -3388,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominus Galaxia | 124744 | [124744-dominus-galaxia.json](./124744-dominus-galaxia.json) |
 | Dominus Gladiatus | 404343 | [404343-dominus-gladiatus.json](./404343-dominus-gladiatus.json) |
 | Dominus Rage | 199615 | [199615-dominus-rage.json](./199615-dominus-rage.json) |
+| Domion: Trinity Requiem | 181213 | [181213-domion-trinity-requiem.json](./181213-domion-trinity-requiem.json) |
 | Domiverse | 81246 | [81246-domiverse.json](./81246-domiverse.json) |
 | Domkey Kong | 336638 | [336638-domkey-kong.json](./336638-domkey-kong.json) |
 | DommeGer's Plane | 215373 | [215373-dommegers-plane.json](./215373-dommegers-plane.json) |
