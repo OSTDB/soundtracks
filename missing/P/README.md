@@ -2250,7 +2250,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Ultimate Jigsaw: Civil Unrest | 293072 | [293072-pixel-puzzles-ultimate-jigsaw-civil-unrest.json](./293072-pixel-puzzles-ultimate-jigsaw-civil-unrest.json) |
 | Pixel Puzzles Ultimate Jigsaw: Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Colorful | 256917 | [256917-pixel-puzzles-ultimate-jigsaw-jigsaw-puzzle-pack-pixel-puzzles-ultimate-colorful.json](./256917-pixel-puzzles-ultimate-jigsaw-jigsaw-puzzle-pack-pixel-puzzles-ultimate-colorful.json) |
 | Pixel Puzzles Ultimate Jigsaw: Variety Pack 23 | 293071 | [293071-pixel-puzzles-ultimate-jigsaw-variety-pack-23.json](./293071-pixel-puzzles-ultimate-jigsaw-variety-pack-23.json) |
+| Pixel Puzzles Ultimate: Animals | 226860 | [226860-pixel-puzzles-ultimate-animals.json](./226860-pixel-puzzles-ultimate-animals.json) |
 | Pixel Puzzles Ultimate: Bioframe | 357884 | [357884-pixel-puzzles-ultimate-bioframe.json](./357884-pixel-puzzles-ultimate-bioframe.json) |
+| Pixel Puzzles Ultimate: Cheregi | 226861 | [226861-pixel-puzzles-ultimate-cheregi.json](./226861-pixel-puzzles-ultimate-cheregi.json) |
 | Pixel Puzzles Ultimate: Colorful 2 | 357885 | [357885-pixel-puzzles-ultimate-colorful-2.json](./357885-pixel-puzzles-ultimate-colorful-2.json) |
 | Pixel Puzzles Ultimate: Dino Park | 357886 | [357886-pixel-puzzles-ultimate-dino-park.json](./357886-pixel-puzzles-ultimate-dino-park.json) |
 | Pixel Puzzles Ultimate: Light Trail | 357887 | [357887-pixel-puzzles-ultimate-light-trail.json](./357887-pixel-puzzles-ultimate-light-trail.json) |
