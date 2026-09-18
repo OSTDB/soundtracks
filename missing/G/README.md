@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
+| Gliderman | 202752 | [202752-gliderman.json](./202752-gliderman.json) |
 | Gliding Square | 207893 | [207893-gliding-square.json](./207893-gliding-square.json) |
 | Glimby | 246412 | [246412-glimby.json](./246412-glimby.json) |
 | Glimpo | 414380 | [414380-glimpo.json](./414380-glimpo.json) |
