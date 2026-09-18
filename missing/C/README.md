@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cairn | 394894 | [394894-cairn.json](./394894-cairn.json) |
 | Cairn: Mathair's Curse | 163941 | [163941-cairn-mathairs-curse.json](./163941-cairn-mathairs-curse.json) |
 | Cairn: On the Trail | 397806 | [397806-cairn-on-the-trail.json](./397806-cairn-on-the-trail.json) |
+| Cairo ShootOut! | 229800 | [229800-cairo-shootout.json](./229800-cairo-shootout.json) |
 | Cairo's Tale: The Big Egg | 156114 | [156114-cairos-tale-the-big-egg.json](./156114-cairos-tale-the-big-egg.json) |
 | Caïssa Board | 152893 | [152893-caissa-board.json](./152893-caissa-board.json) |
 | Cajun Cop: The French Quarter Caper | 417496 | [417496-cajun-cop-the-french-quarter-caper.json](./417496-cajun-cop-the-french-quarter-caper.json) |
@@ -510,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
 | Captures II | 170550 | [170550-captures-ii.json](./170550-captures-ii.json) |
 | Capy Island | 310944 | [310944-capy-island.json](./310944-capy-island.json) |
+| Capybara | 229820 | [229820-capybara.json](./229820-capybara.json) |
 | Capybara Carbonara | 132760 | [132760-capybara-carbonara.json](./132760-capybara-carbonara.json) |
 | Capybara Journey Go | 378782 | [378782-capybara-journey-go.json](./378782-capybara-journey-go.json) |
 | Capybara Park | 312189 | [312189-capybara-park.json](./312189-capybara-park.json) |
@@ -3874,6 +3876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Keeper: Shimmering Frontier | 270197 | [270197-core-keeper-shimmering-frontier.json](./270197-core-keeper-shimmering-frontier.json) |
 | Core Masters | 62771 | [62771-core-masters.json](./62771-core-masters.json) |
 | Core Miners | 384084 | [384084-core-miners.json](./384084-core-miners.json) |
+| Core MUD | 229773 | [229773-core-mud.json](./229773-core-mud.json) |
 | Core of Darkness | 117681 | [117681-core-of-darkness.json](./117681-core-of-darkness.json) |
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
 | Core.Sys | 351094 | [351094-core-sys.json](./351094-core-sys.json) |
@@ -4522,6 +4525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Create | 80541 | [80541-creature-create.json](./80541-creature-create.json) |
 | Creature Creation Station | 343280 | [343280-creature-creation-station.json](./343280-creature-creation-station.json) |
 | Creature Crunch | 7731 | [7731-creature-crunch.json](./7731-creature-crunch.json) |
+| Creature Discomfort | 229799 | [229799-creature-discomfort.json](./229799-creature-discomfort.json) |
 | Creature Hunt | 116472 | [116472-creature-hunt.json](./116472-creature-hunt.json) |
 | Creature Hunter | 199659 | [199659-creature-hunter.json](./199659-creature-hunter.json) |
 | Creature Keeper | 127563 | [127563-creature-keeper.json](./127563-creature-keeper.json) |
