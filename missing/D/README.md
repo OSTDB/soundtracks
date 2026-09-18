@@ -1259,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decaying Flowers | 98459 | [98459-decaying-flowers.json](./98459-decaying-flowers.json) |
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Deceit 2 | 239561 | [239561-deceit-2.json](./239561-deceit-2.json) |
+| Deceitful Devotions | 227945 | [227945-deceitful-devotions.json](./227945-deceitful-devotions.json) |
 | Deceive Inc.: Neon Nights | 257432 | [257432-deceive-inc-neon-nights.json](./257432-deceive-inc-neon-nights.json) |
 | December 3rd | 392758 | [392758-december-3rd.json](./392758-december-3rd.json) |
 | Decent Into Sector 32 | 165641 | [165641-decent-into-sector-32.json](./165641-decent-into-sector-32.json) |
@@ -2118,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DevilConnection | 312736 | [312736-devilconnection.json](./312736-devilconnection.json) |
 | DevilDark: The Fallen Kingdom | 343817 | [343817-devildark-the-fallen-kingdom.json](./343817-devildark-the-fallen-kingdom.json) |
 | Deviled Dice | 397711 | [397711-deviled-dice.json](./397711-deviled-dice.json) |
+| Devilish Charms | 227946 | [227946-devilish-charms.json](./227946-devilish-charms.json) |
 | Devilish Girl | 261885 | [261885-devilish-girl.json](./261885-devilish-girl.json) |
 | Devilish League | 285017 | [285017-devilish-league.json](./285017-devilish-league.json) |
 | Devilition | 318597 | [318597-devilition.json](./318597-devilition.json) |
@@ -3067,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Doge Jump | 62678 | [62678-doge-jump.json](./62678-doge-jump.json) |
 | Dogenstein | 335369 | [335369-dogenstein.json](./335369-dogenstein.json) |
+| DogeRift | 227965 | [227965-dogerift.json](./227965-dogerift.json) |
 | Dogfight 2187 | 13599 | [13599-dogfight-2187.json](./13599-dogfight-2187.json) |
 | Dogfight: Battle in the Skies | 65464 | [65464-dogfight-battle-in-the-skies.json](./65464-dogfight-battle-in-the-skies.json) |
 | Dogfighter: WW2 | 219033 | [219033-dogfighter-ww2.json](./219033-dogfighter-ww2.json) |
