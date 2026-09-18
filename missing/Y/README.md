@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Majesty | 186280 | [186280-your-majesty.json](./186280-your-majesty.json) |
 | Your Majesty | 292166 | [292166-your-majesty.json](./292166-your-majesty.json) |
 | Your Majesty's Arrival | 339132 | [339132-your-majestys-arrival.json](./339132-your-majestys-arrival.json) |
+| Your Mom | 195615 | [195615-your-mom.json](./195615-your-mom.json) |
 | Your Mom | 385608 | [385608-your-mom.json](./385608-your-mom.json) |
 | Your Principal | 126596 | [126596-your-principal.json](./126596-your-principal.json) |
 | Your Riding School | 149004 | [149004-your-riding-school.json](./149004-your-riding-school.json) |
