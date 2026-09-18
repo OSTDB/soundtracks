@@ -2713,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Love | 303481 | [303481-dirty-love.json](./303481-dirty-love.json) |
 | Dirty Rotten Bounders | 285023 | [285023-dirty-rotten-bounders.json](./285023-dirty-rotten-bounders.json) |
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
+| Dis Assemble | 183977 | [183977-dis-assemble.json](./183977-dis-assemble.json) |
 | Dis Pontibus 2 | 203950 | [203950-dis-pontibus-2.json](./203950-dis-pontibus-2.json) |
 | Disappearance of the Literature Club | 333611 | [333611-disappearance-of-the-literature-club.json](./333611-disappearance-of-the-literature-club.json) |
 | Disaster | 186809 | [186809-disaster.json](./186809-disaster.json) |
