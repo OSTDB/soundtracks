@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passageway of the Ancients | 258490 | [258490-passageway-of-the-ancients.json](./258490-passageway-of-the-ancients.json) |
 | Passant: A Chess Roguelike | 323192 | [323192-passant-a-chess-roguelike.json](./323192-passant-a-chess-roguelike.json) |
 | Passatempo Turma da Mônica | 325636 | [325636-passatempo-turma-da-monica.json](./325636-passatempo-turma-da-monica.json) |
+| Passenger Rush | 227956 | [227956-passenger-rush.json](./227956-passenger-rush.json) |
 | Passengers of Execution | 143743 | [143743-passengers-of-execution.json](./143743-passengers-of-execution.json) |
 | Passengers on the Wind II | 37173 | [37173-passengers-on-the-wind-ii.json](./37173-passengers-on-the-wind-ii.json) |
 | Passing Pineview Forest | 17988 | [17988-passing-pineview-forest.json](./17988-passing-pineview-forest.json) |
@@ -1120,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Armada | 259650 | [259650-penguin-armada.json](./259650-penguin-armada.json) |
 | Penguin Cafe | 132184 | [132184-penguin-cafe.json](./132184-penguin-cafe.json) |
 | Penguin Chat 2 | 353302 | [353302-penguin-chat-2.json](./353302-penguin-chat-2.json) |
+| Penguin Chat 3 | 227928 | [227928-penguin-chat-3.json](./227928-penguin-chat-3.json) |
 | Penguin Colony | 354409 | [354409-penguin-colony.json](./354409-penguin-colony.json) |
 | Penguin Escape | 326236 | [326236-penguin-escape.json](./326236-penguin-escape.json) |
 | Penguin Flight: Beyond The Clouds | 342149 | [342149-penguin-flight-beyond-the-clouds.json](./342149-penguin-flight-beyond-the-clouds.json) |
@@ -2955,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: Forever Forward | 403036 | [403036-pokemon-go-forever-forward.json](./403036-pokemon-go-forever-forward.json) |
 | Pokémon Go: Max Out | 316620 | [316620-pokemon-go-max-out.json](./316620-pokemon-go-max-out.json) |
 | Pokémon Go: Might and Mastery | 333565 | [333565-pokemon-go-might-and-mastery.json](./333565-pokemon-go-might-and-mastery.json) |
+| Pokémon Go: Mythical Wishes | 227940 | [227940-pokemon-go-mythical-wishes.json](./227940-pokemon-go-mythical-wishes.json) |
 | Pokémon Go: Season of Alola | 218482 | [218482-pokemon-go-season-of-alola.json](./218482-pokemon-go-season-of-alola.json) |
 | Pokémon Go: Season of Discovery | 218496 | [218496-pokemon-go-season-of-discovery.json](./218496-pokemon-go-season-of-discovery.json) |
 | Pokémon Go: Season of Heritage | 218486 | [218486-pokemon-go-season-of-heritage.json](./218486-pokemon-go-season-of-heritage.json) |
@@ -3724,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
 | Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
+| Pretty Girls 2048 Strike | 227923 | [227923-pretty-girls-2048-strike.json](./227923-pretty-girls-2048-strike.json) |
 | Pretty Girls and Dark Witch. A simple story | 173816 | [173816-pretty-girls-and-dark-witch-a-simple-story.json](./173816-pretty-girls-and-dark-witch-a-simple-story.json) |
 | Pretty Girls Breakers! Plus | 237362 | [237362-pretty-girls-breakers-plus.json](./237362-pretty-girls-breakers-plus.json) |
 | Pretty Girls Breakout! Plus | 212238 | [212238-pretty-girls-breakout-plus.json](./212238-pretty-girls-breakout-plus.json) |
@@ -4558,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
 | Pulang Insanity: Director's Cut | 117769 | [117769-pulang-insanity-directors-cut.json](./117769-pulang-insanity-directors-cut.json) |
 | Pull Ball | 114361 | [114361-pull-ball.json](./114361-pull-ball.json) |
+| Pull Him Up: Pull the Pin Out | 227952 | [227952-pull-him-up-pull-the-pin-out.json](./227952-pull-him-up-pull-the-pin-out.json) |
 | Pull My Finger | 416656 | [416656-pull-my-finger.json](./416656-pull-my-finger.json) |
 | Pull the Beer | 406109 | [406109-pull-the-beer.json](./406109-pull-the-beer.json) |
 | Pull the Pin | 227513 | [227513-pull-the-pin.json](./227513-pull-the-pin.json) |
