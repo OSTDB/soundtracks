@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Vitality of Imagination | 210685 | [210685-ultimate-vitality-of-imagination.json](./210685-ultimate-vitality-of-imagination.json) |
 | Ultimate Wall Defense Force | 149566 | [149566-ultimate-wall-defense-force.json](./149566-ultimate-wall-defense-force.json) |
 | Ultimate Yahtzee | 69218 | [69218-ultimate-yahtzee.json](./69218-ultimate-yahtzee.json) |
+| Ultimate Zombie Defense 2 | 211801 | [211801-ultimate-zombie-defense-2.json](./211801-ultimate-zombie-defense-2.json) |
 | Ultimaze | 206716 | [206716-ultimaze.json](./206716-ultimaze.json) |
 | Ultionus: A Tale of Petty Revenge | 36408 | [36408-ultionus-a-tale-of-petty-revenge.json](./36408-ultionus-a-tale-of-petty-revenge.json) |
 | Ultire: Balls Out | 124259 | [124259-ultire-balls-out.json](./124259-ultire-balls-out.json) |
