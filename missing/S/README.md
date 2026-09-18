@@ -3925,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Time! | 106591 | [106591-slime-time.json](./106591-slime-time.json) |
 | Slime Tower | 351600 | [351600-slime-tower.json](./351600-slime-tower.json) |
 | Slime Trials | 280760 | [280760-slime-trials.json](./280760-slime-trials.json) |
+| Slime Village VR | 187377 | [187377-slime-village-vr.json](./187377-slime-village-vr.json) |
 | Slime Voyage | 312575 | [312575-slime-voyage.json](./312575-slime-voyage.json) |
 | Slime Warrior | 260758 | [260758-slime-warrior.json](./260758-slime-warrior.json) |
 | Slime Wars | 292544 | [292544-slime-wars.json](./292544-slime-wars.json) |
@@ -4670,6 +4671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokosignal | 219596 | [219596-sokosignal.json](./219596-sokosignal.json) |
 | Sokotale | 141851 | [141851-sokotale.json](./141851-sokotale.json) |
 | Sokowand | 335261 | [335261-sokowand.json](./335261-sokowand.json) |
+| SokoWinter | 187401 | [187401-sokowinter.json](./187401-sokowinter.json) |
 | Sol | 258519 | [258519-sol.json](./258519-sol.json) |
 | Sol and the Endless Orbit | 375825 | [375825-sol-and-the-endless-orbit.json](./375825-sol-and-the-endless-orbit.json) |
 | Sol Blanka | 150613 | [150613-sol-blanka.json](./150613-sol-blanka.json) |
@@ -5448,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul King | 213453 | [213453-soul-king.json](./213453-soul-king.json) |
 | Soul Knight Prequel | 277857 | [277857-soul-knight-prequel.json](./277857-soul-knight-prequel.json) |
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
+| Soul Light | 187407 | [187407-soul-light.json](./187407-soul-light.json) |
 | Soul Locus | 35754 | [35754-soul-locus.json](./35754-soul-locus.json) |
 | Soul Machine | 351707 | [351707-soul-machine.json](./351707-soul-machine.json) |
 | Soul Master | 180288 | [180288-soul-master.json](./180288-soul-master.json) |
@@ -6343,6 +6346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiderbro 2 | 298042 | [298042-spiderbro-2.json](./298042-spiderbro-2.json) |
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
 | Spiders | 346138 | [346138-spiders.json](./346138-spiders.json) |
+| Spiders Everywhere | 187375 | [187375-spiders-everywhere.json](./187375-spiders-everywhere.json) |
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
 | Spidle Tridle | 334166 | [334166-spidle-tridle.json](./334166-spidle-tridle.json) |
 | Spielbahn | 266311 | [266311-spielbahn.json](./266311-spielbahn.json) |
@@ -8030,6 +8034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stradale Racing Simulator | 175380 | [175380-stradale-racing-simulator.json](./175380-stradale-racing-simulator.json) |
 | Straftat | 253558 | [253558-straftat.json](./253558-straftat.json) |
 | Straif | 360577 | [360577-straif.json](./360577-straif.json) |
+| Straight Ahead | 187394 | [187394-straight-ahead.json](./187394-straight-ahead.json) |
 | Straight Up | 289478 | [289478-straight-up.json](./289478-straight-up.json) |
 | Straight Up: Dummy Characters | 289480 | [289480-straight-up-dummy-characters.json](./289480-straight-up-dummy-characters.json) |
 | Straight Up: Farm Crew Characters | 289479 | [289479-straight-up-farm-crew-characters.json](./289479-straight-up-farm-crew-characters.json) |
