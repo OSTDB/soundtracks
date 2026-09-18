@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Bus Frontiers | 293222 | [293222-desert-bus-frontiers.json](./293222-desert-bus-frontiers.json) |
 | Desert Dive | 317425 | [317425-desert-dive.json](./317425-desert-dive.json) |
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
+| Desert Island 64 | 231508 | [231508-desert-island-64.json](./231508-desert-island-64.json) |
 | Desert Kingdom Portable: Limited Edition | 44510 | [44510-desert-kingdom-portable-limited-edition.json](./44510-desert-kingdom-portable-limited-edition.json) |
 | Desert Kingdoms 2 | 303473 | [303473-desert-kingdoms-2.json](./303473-desert-kingdoms-2.json) |
 | Desert Of The Undead New Frontiers | 296364 | [296364-desert-of-the-undead-new-frontiers.json](./296364-desert-of-the-undead-new-frontiers.json) |
@@ -2895,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: Technika Pack | 225058 | [225058-djmax-respect-v-technika-pack.json](./225058-djmax-respect-v-technika-pack.json) |
 | DJMax Technika | 79271 | [79271-djmax-technika.json](./79271-djmax-technika.json) |
 | DJMax Technika Tune: Limited Edition | 89906 | [89906-djmax-technika-tune-limited-edition.json](./89906-djmax-technika-tune-limited-edition.json) |
+| DK Bongo Blast | 231476 | [231476-dk-bongo-blast.json](./231476-dk-bongo-blast.json) |
 | DK: Jungle Climber | 1099 | [1099-dk-jungle-climber.json](./1099-dk-jungle-climber.json) |
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
@@ -3538,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Tanoshii Enseikatsu Youchien Hoikuen | 313284 | [313284-doraemon-tanoshii-enseikatsu-youchien-hoikuen.json](./313284-doraemon-tanoshii-enseikatsu-youchien-hoikuen.json) |
 | Doraemon Waku-waku Sekai Isshuu Game: Asonde Oboeru Chizu Kokki | 327575 | [327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json](./327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json) |
 | Doraemon: Minna de Asobou! Mini Doland | 50587 | [50587-doraemon-minna-de-asobou-mini-doland.json](./50587-doraemon-minna-de-asobou-mini-doland.json) |
+| Doraemon: Nobita no Doki-doki! Obake Land | 231512 | [231512-doraemon-nobita-no-doki-doki-obake-land.json](./231512-doraemon-nobita-no-doki-doki-obake-land.json) |
 | Doraemon: Nobita no Himitsu Dougu Hakubutsukan | 60544 | [60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json](./60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json) |
 | Doraemon: Nobita to 3-tsu no Seireiseki | 70797 | [70797-doraemon-nobita-to-3-tsu-no-seireiseki.json](./70797-doraemon-nobita-to-3-tsu-no-seireiseki.json) |
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
