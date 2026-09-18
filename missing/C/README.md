@@ -4091,6 +4091,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown | 319236 | [319236-countdown.json](./319236-countdown.json) |
 | Countdown | 95417 | [95417-countdown.json](./95417-countdown.json) |
 | CountDown | 336629 | [336629-countdown.json](./336629-countdown.json) |
+| Countdown 1: The Body | 229147 | [229147-countdown-1-the-body.json](./229147-countdown-1-the-body.json) |
+| Countdown 2: The Soul | 229148 | [229148-countdown-2-the-soul.json](./229148-countdown-2-the-soul.json) |
+| Countdown 3: The Mind | 229149 | [229149-countdown-3-the-mind.json](./229149-countdown-3-the-mind.json) |
 | Countdown To Death | 315707 | [315707-countdown-to-death.json](./315707-countdown-to-death.json) |
 | Countdown to Doom | 13706 | [13706-countdown-to-doom.json](./13706-countdown-to-doom.json) |
 | Countdown to Extinction | 313858 | [313858-countdown-to-extinction.json](./313858-countdown-to-extinction.json) |
@@ -4567,6 +4570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepypasta Land | 130346 | [130346-creepypasta-land.json](./130346-creepypasta-land.json) |
 | Creepypasta Land 2: SCP Force | 130349 | [130349-creepypasta-land-2-scp-force.json](./130349-creepypasta-land-2-scp-force.json) |
 | Creepytape Rewind: Not From Here | 399002 | [399002-creepytape-rewind-not-from-here.json](./399002-creepytape-rewind-not-from-here.json) |
+| Crelabeth: Unholy Lands | 229156 | [229156-crelabeth-unholy-lands.json](./229156-crelabeth-unholy-lands.json) |
 | Creme de la Creme | 126884 | [126884-creme-de-la-creme.json](./126884-creme-de-la-creme.json) |
 | Crescendo Of Dreams + Surmounting Terror | 271490 | [271490-crescendo-of-dreams-surmounting-terror.json](./271490-crescendo-of-dreams-surmounting-terror.json) |
 | Crescent County | 305181 | [305181-crescent-county.json](./305181-crescent-county.json) |
@@ -5050,6 +5054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cub Gym | 150701 | [150701-cub-gym.json](./150701-cub-gym.json) |
 | Cuban Missile Crisis: Ice Crusade | 24721 | [24721-cuban-missile-crisis-ice-crusade.json](./24721-cuban-missile-crisis-ice-crusade.json) |
 | CubbetyCuby | 388735 | [388735-cubbetycuby.json](./388735-cubbetycuby.json) |
+| Cube | 229157 | [229157-cube.json](./229157-cube.json) |
 | Cube | 249776 | [249776-cube.json](./249776-cube.json) |
 | Cube | 272548 | [272548-cube.json](./272548-cube.json) |
 | Cube | 339349 | [339349-cube.json](./339349-cube.json) |
@@ -5133,6 +5138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Figures | 215112 | [215112-cubic-figures.json](./215112-cubic-figures.json) |
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
 | Cubic Juice | 158221 | [158221-cubic-juice.json](./158221-cubic-juice.json) |
+| Cubic Light | 229164 | [229164-cubic-light.json](./229164-cubic-light.json) |
 | Cubic Odyssey | 329371 | [329371-cubic-odyssey.json](./329371-cubic-odyssey.json) |
 | Cubic Survivor | 255962 | [255962-cubic-survivor.json](./255962-cubic-survivor.json) |
 | Cubic Tetris | 302342 | [302342-cubic-tetris.json](./302342-cubic-tetris.json) |
@@ -5360,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Customplay Golf 2010 | 21118 | [21118-customplay-golf-2010.json](./21118-customplay-golf-2010.json) |
 | Cut 2017 | 91411 | [91411-cut-2017.json](./91411-cut-2017.json) |
 | Cut Cut Buffet | 29753 | [29753-cut-cut-buffet.json](./29753-cut-cut-buffet.json) |
+| Cut Me Deeply | 229159 | [229159-cut-me-deeply.json](./229159-cut-me-deeply.json) |
 | Cut Off From The World | 245318 | [245318-cut-off-from-the-world.json](./245318-cut-off-from-the-world.json) |
 | Cut Short | 179693 | [179693-cut-short.json](./179693-cut-short.json) |
 | Cut the Box | 117724 | [117724-cut-the-box.json](./117724-cut-the-box.json) |
