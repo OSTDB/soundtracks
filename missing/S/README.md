@@ -2802,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutdown. | 370772 | [370772-shutdown.json](./370772-shutdown.json) |
 | Shuten | 330164 | [330164-shuten.json](./330164-shuten.json) |
 | Shuten Order | 344468 | [344468-shuten-order.json](./344468-shuten-order.json) |
+| Shutokou Battle Gaiden: Super Technic Challenge | 208469 | [208469-shutokou-battle-gaiden-super-technic-challenge.json](./208469-shutokou-battle-gaiden-super-technic-challenge.json) |
 | Shutter | 244861 | [244861-shutter.json](./244861-shutter.json) |
 | Shutter Chance Love | 72699 | [72699-shutter-chance-love.json](./72699-shutter-chance-love.json) |
 | Shutter Story | 358396 | [358396-shutter-story.json](./358396-shutter-story.json) |
@@ -3470,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkulJagger: Revolt of the Westicans | 42664 | [42664-skuljagger-revolt-of-the-westicans.json](./42664-skuljagger-revolt-of-the-westicans.json) |
 | Skulker | 332999 | [332999-skulker.json](./332999-skulker.json) |
 | Skull & Crossbones | 12851 | [12851-skull-and-crossbones.json](./12851-skull-and-crossbones.json) |
+| Skull and Bones: Premium Edition | 208432 | [208432-skull-and-bones-premium-edition.json](./208432-skull-and-bones-premium-edition.json) |
 | Skull and Bones: Season 1 - Raging Tides | 303240 | [303240-skull-and-bones-season-1-raging-tides.json](./303240-skull-and-bones-season-1-raging-tides.json) |
 | Skull and Bones: Season 2 - Chorus of Havoc | 303241 | [303241-skull-and-bones-season-2-chorus-of-havoc.json](./303241-skull-and-bones-season-2-chorus-of-havoc.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
@@ -7304,6 +7306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starshapes | 249864 | [249864-starshapes.json](./249864-starshapes.json) |
 | Starshatter | 70929 | [70929-starshatter.json](./70929-starshatter.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
+| Starship | 208449 | [208449-starship.json](./208449-starship.json) |
 | Starship | 217983 | [217983-starship.json](./217983-starship.json) |
 | Starship | 271761 | [271761-starship.json](./271761-starship.json) |
 | Starship Assassin | 57061 | [57061-starship-assassin.json](./57061-starship-assassin.json) |
@@ -8153,6 +8156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands | 50175 | [50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json](./50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json) |
 | Strong Bad's RhinoFeeder | 135851 | [135851-strong-bads-rhinofeeder.json](./135851-strong-bads-rhinofeeder.json) |
 | Strong Crab | 384541 | [384541-strong-crab.json](./384541-strong-crab.json) |
+| Strong Moon | 208452 | [208452-strong-moon.json](./208452-strong-moon.json) |
 | Strong: Search for the Mightiest Person | 246975 | [246975-strong-search-for-the-mightiest-person.json](./246975-strong-search-for-the-mightiest-person.json) |
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
 | Stronghold 3 Gold | 54411 | [54411-stronghold-3-gold.json](./54411-stronghold-3-gold.json) |
