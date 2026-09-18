@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvation in Corruption | 75183 | [75183-salvation-in-corruption.json](./75183-salvation-in-corruption.json) |
 | Salvation Plan: Spirit Evil | 284336 | [284336-salvation-plan-spirit-evil.json](./284336-salvation-plan-spirit-evil.json) |
 | Salvatorem | 298714 | [298714-salvatorem.json](./298714-salvatorem.json) |
+| Salvo | 184497 | [184497-salvo.json](./184497-salvo.json) |
 | Salvus: Aries | 221278 | [221278-salvus-aries.json](./221278-salvus-aries.json) |
 | Sam & Max Save the World + Beyond Time and Space Bundle | 219053 | [219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json](./219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json) |
 | Sam & Max: Beyond Time and Space - Episode 1: Ice Station Santa | 27835 | [27835-sam-and-max-beyond-time-and-space-episode-1-ice-station-santa.json](./27835-sam-and-max-beyond-time-and-space-episode-1-ice-station-santa.json) |
@@ -1268,11 +1269,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeaWorld Adventure Parks Tycoon | 73288 | [73288-seaworld-adventure-parks-tycoon.json](./73288-seaworld-adventure-parks-tycoon.json) |
 | Sebastian's Quest | 329038 | [329038-sebastians-quest.json](./329038-sebastians-quest.json) |
 | Sebevrah | 377067 | [377067-sebevrah.json](./377067-sebevrah.json) |
+| Sebil Engineering | 184506 | [184506-sebil-engineering.json](./184506-sebil-engineering.json) |
 | Seblen: Battle! | 169391 | [169391-seblen-battle.json](./169391-seblen-battle.json) |
 | Seclusion | 29817 | [29817-seclusion.json](./29817-seclusion.json) |
 | Second Base | 388257 | [388257-second-base.json](./388257-second-base.json) |
 | Second Chance | 111668 | [111668-second-chance.json](./111668-second-chance.json) |
 | Second Chance | 182971 | [182971-second-chance.json](./182971-second-chance.json) |
+| Second Chance | 184499 | [184499-second-chance.json](./184499-second-chance.json) |
 | Second Chances | 337728 | [337728-second-chances.json](./337728-second-chances.json) |
 | Second Coming: Tactical Training | 35641 | [35641-second-coming-tactical-training.json](./35641-second-coming-tactical-training.json) |
 | Second Death | 377178 | [377178-second-death.json](./377178-second-death.json) |
@@ -1549,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Gensokyo | 299300 | [299300-sengoku-gensokyo.json](./299300-sengoku-gensokyo.json) |
 | Sengoku Hime 4: Souhai Hyakkei, Hana Mamoru Chikai | 62133 | [62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json](./62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json) |
 | Sengoku Jidai Gold | 124778 | [124778-sengoku-jidai-gold.json](./124778-sengoku-jidai-gold.json) |
+| Sengoku Jidai: Genko Campaign - 2nd Mongol Invasion of Japan 1281 | 184473 | [184473-sengoku-jidai-genko-campaign-2nd-mongol-invasion-of-japan-1281.json](./184473-sengoku-jidai-genko-campaign-2nd-mongol-invasion-of-japan-1281.json) |
 | Sengoku Jidai: Shadow of the Shogun | 34582 | [34582-sengoku-jidai-shadow-of-the-shogun.json](./34582-sengoku-jidai-shadow-of-the-shogun.json) |
 | Sengoku Koihime + Sengoku Koihime X Set | 339636 | [339636-sengoku-koihime-sengoku-koihime-x-set.json](./339636-sengoku-koihime-sengoku-koihime-x-set.json) |
 | Sengoku Koihime EX 1: Oushuu no Dokugan Ryuu-hen | 411691 | [411691-sengoku-koihime-ex-1-oushuu-no-dokugan-ryuu-hen.json](./411691-sengoku-koihime-ex-1-oushuu-no-dokugan-ryuu-hen.json) |
@@ -1928,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of a Soul | 65465 | [65465-shadow-of-a-soul.json](./65465-shadow-of-a-soul.json) |
 | Shadow of Asha | 203542 | [203542-shadow-of-asha.json](./203542-shadow-of-asha.json) |
 | Shadow of Atlantis | 298294 | [298294-shadow-of-atlantis.json](./298294-shadow-of-atlantis.json) |
+| Shadow of Babel | 184496 | [184496-shadow-of-babel.json](./184496-shadow-of-babel.json) |
 | Shadow of Chaos | 324701 | [324701-shadow-of-chaos.json](./324701-shadow-of-chaos.json) |
 | Shadow of Death 2: RPG Games | 323176 | [323176-shadow-of-death-2-rpg-games.json](./323176-shadow-of-death-2-rpg-games.json) |
 | Shadow of Death: Dark Knight | 100823 | [100823-shadow-of-death-dark-knight.json](./100823-shadow-of-death-dark-knight.json) |
@@ -3948,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
 | SlimeJumper: Ultimate Jump | 156639 | [156639-slimejumper-ultimate-jump.json](./156639-slimejumper-ultimate-jump.json) |
+| Slimer | 184489 | [184489-slimer.json](./184489-slimer.json) |
 | SlimeTrials | 185607 | [185607-slimetrials.json](./185607-slimetrials.json) |
 | Slimeward | 373084 | [373084-slimeward.json](./373084-slimeward.json) |
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
@@ -5978,6 +5984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | SpacerX: Dome Survivals | 55101 | [55101-spacerx-dome-survivals.json](./55101-spacerx-dome-survivals.json) |
 | SpaceShift | 393610 | [393610-spaceshift.json](./393610-spaceshift.json) |
+| Spaceship Hunters | 184512 | [184512-spaceship-hunters.json](./184512-spaceship-hunters.json) |
 | Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
 | SpaceSlog | 197908 | [197908-spaceslog.json](./197908-spaceslog.json) |
@@ -6801,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
 | Squaser 8 | 368569 | [368569-squaser-8.json](./368569-squaser-8.json) |
 | Squaser 9 | 368537 | [368537-squaser-9.json](./368537-squaser-9.json) |
+| Squatzee | 184467 | [184467-squatzee.json](./184467-squatzee.json) |
 | Squeakross: Free Content Update | 392279 | [392279-squeakross-free-content-update.json](./392279-squeakross-free-content-update.json) |
 | Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
 | Squeezils | 206708 | [206708-squeezils.json](./206708-squeezils.json) |
