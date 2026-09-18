@@ -2387,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shine of Fullmoon | 264148 | [264148-shine-of-fullmoon.json](./264148-shine-of-fullmoon.json) |
 | Shine On, My Little Sun | 320147 | [320147-shine-on-my-little-sun.json](./320147-shine-on-my-little-sun.json) |
+| Shine Post: Be Your Idol! | 217964 | [217964-shine-post-be-your-idol.json](./217964-shine-post-be-your-idol.json) |
 | Shine Within | 168334 | [168334-shine-within.json](./168334-shine-within.json) |
 | Shine's Adventures 2 (Zombie Attack) | 120372 | [120372-shines-adventures-2-zombie-attack.json](./120372-shines-adventures-2-zombie-attack.json) |
 | Shine's Adventures 5: World of Box | 127318 | [127318-shines-adventures-5-world-of-box.json](./127318-shines-adventures-5-world-of-box.json) |
@@ -4423,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
 | Soar Up The Charts | 310068 | [310068-soar-up-the-charts.json](./310068-soar-up-the-charts.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
+| Soccer | 217962 | [217962-soccer.json](./217962-soccer.json) |
 | Soccer | 245406 | [245406-soccer.json](./245406-soccer.json) |
 | Soccer | 245407 | [245407-soccer.json](./245407-soccer.json) |
 | Soccer | 247045 | [247045-soccer.json](./247045-soccer.json) |
@@ -6405,6 +6407,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Challenge: 65 Games Edition | 381708 | [381708-sports-challenge-65-games-edition.json](./381708-sports-challenge-65-games-edition.json) |
 | Sports Champions | 18237 | [18237-sports-champions.json](./18237-sports-champions.json) |
 | Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
+| Sports Feel Baseball | 218010 | [218010-sports-feel-baseball.json](./218010-sports-feel-baseball.json) |
+| Sports Feel Fishing Champion | 218011 | [218011-sports-feel-fishing-champion.json](./218011-sports-feel-fishing-champion.json) |
+| Sports Feel Golf | 218014 | [218014-sports-feel-golf.json](./218014-sports-feel-golf.json) |
+| Sports Feel Miniature Golf | 218013 | [218013-sports-feel-miniature-golf.json](./218013-sports-feel-miniature-golf.json) |
+| Sports Feel Pool | 218012 | [218012-sports-feel-pool.json](./218012-sports-feel-pool.json) |
 | Sports Game Pack (Manager Edition) | 84231 | [84231-sports-game-pack-manager-edition.json](./84231-sports-game-pack-manager-edition.json) |
 | Sports Games Collection | 403725 | [403725-sports-games-collection.json](./403725-sports-games-collection.json) |
 | Sports Hero | 142411 | [142411-sports-hero.json](./142411-sports-hero.json) |
@@ -7214,6 +7221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starshapes | 249864 | [249864-starshapes.json](./249864-starshapes.json) |
 | Starshatter | 70929 | [70929-starshatter.json](./70929-starshatter.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
+| Starship | 217983 | [217983-starship.json](./217983-starship.json) |
 | Starship | 271761 | [271761-starship.json](./271761-starship.json) |
 | Starship Assassin | 57061 | [57061-starship-assassin.json](./57061-starship-assassin.json) |
 | Starship Bloopers | 405606 | [405606-starship-bloopers.json](./405606-starship-bloopers.json) |
@@ -7615,6 +7623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
 | Stlthscpe | 284320 | [284320-stlthscpe.json](./284320-stlthscpe.json) |
 | Stock Car Extreme | 16966 | [16966-stock-car-extreme.json](./16966-stock-car-extreme.json) |
+| Stock Car Racing | 217978 | [217978-stock-car-racing.json](./217978-stock-car-racing.json) |
 | Stock Car USA | 408152 | [408152-stock-car-usa.json](./408152-stock-car-usa.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
@@ -7667,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop Those Aliens! | 277567 | [277567-stop-those-aliens.json](./277567-stop-those-aliens.json) |
 | Stop, Pawssport Check | 311138 | [311138-stop-pawssport-check.json](./311138-stop-pawssport-check.json) |
 | Stop! Don’t Die In Australia | 290936 | [290936-stop-don-t-die-in-australia.json](./290936-stop-don-t-die-in-australia.json) |
+| Stop! Fill-in-the-Blank Word Game | 217979 | [217979-stop-fill-in-the-blank-word-game.json](./217979-stop-fill-in-the-blank-word-game.json) |
 | Stop10 | 292156 | [292156-stop10.json](./292156-stop10.json) |
 | Stoplights | 392140 | [392140-stoplights.json](./392140-stoplights.json) |
 | Stopping Santa | 335240 | [335240-stopping-santa.json](./335240-stopping-santa.json) |
@@ -7939,6 +7949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Master | 45987 | [45987-street-master.json](./45987-street-master.json) |
 | Street of the Cats | 293631 | [293631-street-of-the-cats.json](./293631-street-of-the-cats.json) |
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
+| Street Paint Playground | 217991 | [217991-street-paint-playground.json](./217991-street-paint-playground.json) |
 | Street Racers: Hot Asphalt | 316837 | [316837-street-racers-hot-asphalt.json](./316837-street-racers-hot-asphalt.json) |
 | Street Racing EVO: Car & Moto | 383519 | [383519-street-racing-evo-car-and-moto.json](./383519-street-racing-evo-car-and-moto.json) |
 | Street Racing Xtreme ( 3D Car Race Games ) | 105935 | [105935-street-racing-xtreme-3d-car-race-games.json](./105935-street-racing-xtreme-3d-car-race-games.json) |
@@ -8595,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Anime Waifu BBQ Simulator | 216235 | [216235-super-anime-waifu-bbq-simulator.json](./216235-super-anime-waifu-bbq-simulator.json) |
 | Super Ant Art Tycoon | 391603 | [391603-super-ant-art-tycoon.json](./391603-super-ant-art-tycoon.json) |
 | Super Arabian | 48665 | [48665-super-arabian.json](./48665-super-arabian.json) |
+| Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Astro Space Blast | 387542 | [387542-super-astro-space-blast.json](./387542-super-astro-space-blast.json) |
 | Super Ate in Wonderland | 195192 | [195192-super-ate-in-wonderland.json](./195192-super-ate-in-wonderland.json) |
@@ -9227,6 +9239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Paper Mario: Hard Mode - Rubies & Magic | 344918 | [344918-super-paper-mario-hard-mode-rubies-and-magic.json](./344918-super-paper-mario-hard-mode-rubies-and-magic.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
 | Super Party Sports: Football | 21315 | [21315-super-party-sports-football.json](./21315-super-party-sports-football.json) |
+| Super Password | 217982 | [217982-super-password.json](./217982-super-password.json) |
 | Super Peko 35 | 266904 | [266904-super-peko-35.json](./266904-super-peko-35.json) |
 | Super Picture Cross | 272913 | [272913-super-picture-cross.json](./272913-super-picture-cross.json) |
 | Super Pig | 120989 | [120989-super-pig.json](./120989-super-pig.json) |
@@ -9399,6 +9412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sportmatchen | 97963 | [97963-super-sportmatchen.json](./97963-super-sportmatchen.json) |
 | Super Sports Surgery | 40843 | [40843-super-sports-surgery.json](./40843-super-sports-surgery.json) |
 | Super Spray n' Slay 3D | 184107 | [184107-super-spray-n-slay-3d.json](./184107-super-spray-n-slay-3d.json) |
+| Super Sprint | 217981 | [217981-super-sprint.json](./217981-super-sprint.json) |
 | Super Spy Agents 3D | 197879 | [197879-super-spy-agents-3d.json](./197879-super-spy-agents-3d.json) |
 | Super Spy Violet | 335252 | [335252-super-spy-violet.json](./335252-super-spy-violet.json) |
 | Super Stacey World | 223025 | [223025-super-stacey-world.json](./223025-super-stacey-world.json) |
