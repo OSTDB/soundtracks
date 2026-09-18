@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie for Girls Shopping Adventure | 245564 | [245564-barbie-for-girls-shopping-adventure.json](./245564-barbie-for-girls-shopping-adventure.json) |
 | Barbie for Girls Soccer | 245563 | [245563-barbie-for-girls-soccer.json](./245563-barbie-for-girls-soccer.json) |
 | Barbie for Girls Softball | 245562 | [245562-barbie-for-girls-softball.json](./245562-barbie-for-girls-softball.json) |
+| Barbie for Girls Volleyball | 228545 | [228545-barbie-for-girls-volleyball.json](./228545-barbie-for-girls-volleyball.json) |
 | Barbie Girl | 260128 | [260128-barbie-girl.json](./260128-barbie-girl.json) |
 | Barbie in the 12 Dancing Princesses | 293194 | [293194-barbie-in-the-12-dancing-princesses.json](./293194-barbie-in-the-12-dancing-princesses.json) |
 | Barbie PC Fashion Design & Color | 261889 | [261889-barbie-pc-fashion-design-and-color.json](./261889-barbie-pc-fashion-design-and-color.json) |
@@ -660,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Gotta Have Games | 43884 | [43884-barbie-gotta-have-games.json](./43884-barbie-gotta-have-games.json) |
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
 | Barbie: Let’s Make Music | 293198 | [293198-barbie-let-s-make-music.json](./293198-barbie-let-s-make-music.json) |
+| Barbie: Malibu Mysteries | 228546 | [228546-barbie-malibu-mysteries.json](./228546-barbie-malibu-mysteries.json) |
 | Barbie: Puppy Water Sliders | 293193 | [293193-barbie-puppy-water-sliders.json](./293193-barbie-puppy-water-sliders.json) |
 | Barbie: Shoe Hunt | 293197 | [293197-barbie-shoe-hunt.json](./293197-barbie-shoe-hunt.json) |
 | Barbie's Team Gymnastics | 59942 | [59942-barbies-team-gymnastics.json](./59942-barbies-team-gymnastics.json) |
