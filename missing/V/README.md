@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | V Bomb | 318753 | [318753-v-bomb.json](./318753-v-bomb.json) |
+| V Burster | 202259 | [202259-v-burster.json](./202259-v-burster.json) |
 | V for Victory: Gold-Juno-Sword | 69234 | [69234-v-for-victory-gold-juno-sword.json](./69234-v-for-victory-gold-juno-sword.json) |
 | V for Victory: Market Garden | 70965 | [70965-v-for-victory-market-garden.json](./70965-v-for-victory-market-garden.json) |
 | V Gate | 261790 | [261790-v-gate.json](./261790-v-gate.json) |
