@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zellige: The Tilemaker of Granada | 220734 | [220734-zellige-the-tilemaker-of-granada.json](./220734-zellige-the-tilemaker-of-granada.json) |
 | Zelter | 138243 | [138243-zelter.json](./138243-zelter.json) |
 | Zeltoid X1 | 216477 | [216477-zeltoid-x1.json](./216477-zeltoid-x1.json) |
+| Zemblanity | 195101 | [195101-zemblanity.json](./195101-zemblanity.json) |
 | Zeminator | 120428 | [120428-zeminator.json](./120428-zeminator.json) |
 | Zen 2212 A.D. | 275310 | [275310-zen-2212-a-d.json](./275310-zen-2212-a-d.json) |
 | Zen Beauty | 326256 | [326256-zen-beauty.json](./326256-zen-beauty.json) |
