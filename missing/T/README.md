@@ -4827,8 +4827,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Laundry Day Stuff | 82118 | [82118-the-sims-4-laundry-day-stuff.json](./82118-the-sims-4-laundry-day-stuff.json) |
 | The Sims 4: Legacy Edition | 116388 | [116388-the-sims-4-legacy-edition.json](./116388-the-sims-4-legacy-edition.json) |
 | The Sims 4: Life and Death | 316426 | [316426-the-sims-4-life-and-death.json](./316426-the-sims-4-life-and-death.json) |
+| The Sims 4: Little Campers Kit | 202257 | [202257-the-sims-4-little-campers-kit.json](./202257-the-sims-4-little-campers-kit.json) |
 | The Sims 4: Live Lavishly Bundle | 159330 | [159330-the-sims-4-live-lavishly-bundle.json](./159330-the-sims-4-live-lavishly-bundle.json) |
 | The Sims 4: Modern Luxe Kit | 265706 | [265706-the-sims-4-modern-luxe-kit.json](./265706-the-sims-4-modern-luxe-kit.json) |
+| The Sims 4: Moonlight Chic Kit | 202254 | [202254-the-sims-4-moonlight-chic-kit.json](./202254-the-sims-4-moonlight-chic-kit.json) |
 | The Sims 4: My Wedding Stories | 191387 | [191387-the-sims-4-my-wedding-stories.json](./191387-the-sims-4-my-wedding-stories.json) |
 | The Sims 4: Outdoor Bundle | 159339 | [159339-the-sims-4-outdoor-bundle.json](./159339-the-sims-4-outdoor-bundle.json) |
 | The Sims 4: Outdoor Retreat | 13145 | [13145-the-sims-4-outdoor-retreat.json](./13145-the-sims-4-outdoor-retreat.json) |
@@ -5051,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
 | The Surfeit: Episode 1 | 170497 | [170497-the-surfeit-episode-1.json](./170497-the-surfeit-episode-1.json) |
 | The Surge | 11590 | [11590-the-surge.json](./11590-the-surge.json) |
+| The Surge 2: Limited Edition | 202217 | [202217-the-surge-2-limited-edition.json](./202217-the-surge-2-limited-edition.json) |
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
 | The Surge: The Good, the Bad, and the Augmented | 109240 | [109240-the-surge-the-good-the-bad-and-the-augmented.json](./109240-the-surge-the-good-the-bad-and-the-augmented.json) |
 | The Surprisingly Short Adventure of Leopold Kettle | 232556 | [232556-the-surprisingly-short-adventure-of-leopold-kettle.json](./232556-the-surprisingly-short-adventure-of-leopold-kettle.json) |
