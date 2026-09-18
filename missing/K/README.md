@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katakoi Contrast: Way of Parting Vol.3 | 240477 | [240477-katakoi-contrast-way-of-parting-vol-3.json](./240477-katakoi-contrast-way-of-parting-vol-3.json) |
 | Katalyst | 163959 | [163959-katalyst.json](./163959-katalyst.json) |
 | Katamari Damacy Mobile | 243426 | [243426-katamari-damacy-mobile.json](./243426-katamari-damacy-mobile.json) |
+| Katana | 216338 | [216338-katana.json](./216338-katana.json) |
 | Katana | 358917 | [358917-katana.json](./358917-katana.json) |
 | Katana Action | 57132 | [57132-katana-action.json](./57132-katana-action.json) |
 | Katana Dragon | 326631 | [326631-katana-dragon.json](./326631-katana-dragon.json) |
