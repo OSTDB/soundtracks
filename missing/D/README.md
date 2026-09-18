@@ -3209,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokutsujima | 222396 | [222396-dokutsujima.json](./222396-dokutsujima.json) |
 | Dolan Reborn | 265685 | [265685-dolan-reborn.json](./265685-dolan-reborn.json) |
 | Dolce | 229972 | [229972-dolce.json](./229972-dolce.json) |
+| Dole: 5 A Day Adventures | 210113 | [210113-dole-5-a-day-adventures.json](./210113-dole-5-a-day-adventures.json) |
 | Doll | 97852 | [97852-doll.json](./97852-doll.json) |
 | Doll Defenders | 293622 | [293622-doll-defenders.json](./293622-doll-defenders.json) |
 | Doll Dress Up: Classy Edition | 332510 | [332510-doll-dress-up-classy-edition.json](./332510-doll-dress-up-classy-edition.json) |
