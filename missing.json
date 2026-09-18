@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T09:32:41.588Z",
-  "total_missing": 86821,
+  "generated_at": "2026-09-18T09:47:31.400Z",
+  "total_missing": 86871,
   "games": [
     {
       "igdb_id": 273453,
@@ -3528,6 +3528,11 @@
       "file": "missing/0-9/27735-9-empires.json"
     },
     {
+      "igdb_id": 212336,
+      "game_name": "9 in 1 Puzzles",
+      "file": "missing/0-9/212336-9-in-1-puzzles.json"
+    },
+    {
       "igdb_id": 251003,
       "game_name": "9 Lives",
       "file": "missing/0-9/251003-9-lives.json"
@@ -3561,6 +3566,11 @@
       "igdb_id": 259237,
       "game_name": "90 Seconds",
       "file": "missing/0-9/259237-90-seconds.json"
+    },
+    {
+      "igdb_id": 212342,
+      "game_name": "90'' Soccer",
+      "file": "missing/0-9/212342-90-soccer.json"
     },
     {
       "igdb_id": 149546,
@@ -24233,6 +24243,11 @@
       "file": "missing/A/14879-attack-on-titan.json"
     },
     {
+      "igdb_id": 212312,
+      "game_name": "Attack on Titan 2: Treasure Box - Limited Edition",
+      "file": "missing/A/212312-attack-on-titan-2-treasure-box-limited-edition.json"
+    },
+    {
       "igdb_id": 316810,
       "game_name": "Attack on Titan Tribute Game 2",
       "file": "missing/A/316810-attack-on-titan-tribute-game-2.json"
@@ -25941,6 +25956,11 @@
       "igdb_id": 144954,
       "game_name": "Azathoth-D: Youtou Saisoku Densetsu",
       "file": "missing/A/144954-azathoth-d-youtou-saisoku-densetsu.json"
+    },
+    {
+      "igdb_id": 212323,
+      "game_name": "Azayaka na Irodori no Naka de Kimi Rashiku: Premium Edition",
+      "file": "missing/A/212323-azayaka-na-irodori-no-naka-de-kimi-rashiku-premium-edition.json"
     },
     {
       "igdb_id": 170020,
@@ -38108,6 +38128,11 @@
       "file": "missing/B/232997-bit-orchard-animal-valley-complete-edition.json"
     },
     {
+      "igdb_id": 212355,
+      "game_name": "Bit Orchard: Animal Valley - Extended Edition",
+      "file": "missing/B/212355-bit-orchard-animal-valley-extended-edition.json"
+    },
+    {
       "igdb_id": 223567,
       "game_name": "Bit Orchard: Animal Valley - Halloween Edition",
       "file": "missing/B/223567-bit-orchard-animal-valley-halloween-edition.json"
@@ -39786,6 +39811,11 @@
       "igdb_id": 46018,
       "game_name": "BlazBlue: Calamity Trigger Portable",
       "file": "missing/B/46018-blazblue-calamity-trigger-portable.json"
+    },
+    {
+      "igdb_id": 212326,
+      "game_name": "BlazBlue: Central Fiction - Limited Edition",
+      "file": "missing/B/212326-blazblue-central-fiction-limited-edition.json"
     },
     {
       "igdb_id": 109607,
@@ -49741,6 +49771,11 @@
       "igdb_id": 46640,
       "game_name": "Bulletstorm: Limited Edition",
       "file": "missing/B/46640-bulletstorm-limited-edition.json"
+    },
+    {
+      "igdb_id": 212310,
+      "game_name": "Bulletstorm: Lite",
+      "file": "missing/B/212310-bulletstorm-lite.json"
     },
     {
       "igdb_id": 137591,
@@ -70178,6 +70213,11 @@
       "file": "missing/C/259233-construction-machine-simulator-2023-hard-truck-work-job.json"
     },
     {
+      "igdb_id": 212358,
+      "game_name": "Construction Ramp Jumping",
+      "file": "missing/C/212358-construction-ramp-jumping.json"
+    },
+    {
       "igdb_id": 87338,
       "game_name": "Construction Simulator 2",
       "file": "missing/C/87338-construction-simulator-2.json"
@@ -72171,6 +72211,16 @@
       "igdb_id": 38359,
       "game_name": "Cotton 100%",
       "file": "missing/C/38359-cotton-100.json"
+    },
+    {
+      "igdb_id": 212332,
+      "game_name": "Cotton 16Bit Tribute",
+      "file": "missing/C/212332-cotton-16bit-tribute.json"
+    },
+    {
+      "igdb_id": 212321,
+      "game_name": "Cotton 16Bit Tribute: Special Pack - Limited Edition",
+      "file": "missing/C/212321-cotton-16bit-tribute-special-pack-limited-edition.json"
     },
     {
       "igdb_id": 173782,
@@ -79423,6 +79473,11 @@
       "file": "missing/C/39014-cyberdillo.json"
     },
     {
+      "igdb_id": 212313,
+      "game_name": "Cyberdimension Neptunia: 4 Goddesses Online - Royal Edition",
+      "file": "missing/C/212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json"
+    },
+    {
       "igdb_id": 140045,
       "game_name": "Cyberdreams",
       "file": "missing/C/140045-cyberdreams.json"
@@ -79616,6 +79671,11 @@
       "igdb_id": 180211,
       "game_name": "Cyberrrevolution",
       "file": "missing/C/180211-cyberrrevolution.json"
+    },
+    {
+      "igdb_id": 212337,
+      "game_name": "Cyberrunner",
+      "file": "missing/C/212337-cyberrunner.json"
     },
     {
       "igdb_id": 235201,
@@ -80101,6 +80161,11 @@
       "igdb_id": 394335,
       "game_name": "D.R.I.F.T.",
       "file": "missing/D/394335-d-r-i-f-t.json"
+    },
+    {
+      "igdb_id": 212327,
+      "game_name": "D.S. Dal Segno: Limited Edition",
+      "file": "missing/D/212327-d-s-dal-segno-limited-edition.json"
     },
     {
       "igdb_id": 168837,
@@ -97211,6 +97276,11 @@
       "igdb_id": 386861,
       "game_name": "Doodle Devil: Dark Side",
       "file": "missing/D/386861-doodle-devil-dark-side.json"
+    },
+    {
+      "igdb_id": 212360,
+      "game_name": "Doodle Devil: Pack",
+      "file": "missing/D/212360-doodle-devil-pack.json"
     },
     {
       "igdb_id": 336893,
@@ -118103,6 +118173,11 @@
       "file": "missing/F/197413-faircrofts-antiques-the-mountaineers-legacy.json"
     },
     {
+      "igdb_id": 212359,
+      "game_name": "Faircroft's Antiques: The Mountaineer's Legacy - Collector's Edition",
+      "file": "missing/F/212359-faircrofts-antiques-the-mountaineers-legacy-collectors-edition.json"
+    },
+    {
       "igdb_id": 336519,
       "game_name": "Faire Trade",
       "file": "missing/F/336519-faire-trade.json"
@@ -119296,6 +119371,11 @@
       "igdb_id": 246647,
       "game_name": "Family Chess: Magnificent Edition",
       "file": "missing/F/246647-family-chess-magnificent-edition.json"
+    },
+    {
+      "igdb_id": 212340,
+      "game_name": "Family Chess: Ultimate Edition",
+      "file": "missing/F/212340-family-chess-ultimate-edition.json"
     },
     {
       "igdb_id": 377162,
@@ -121506,6 +121586,11 @@
       "igdb_id": 140007,
       "game_name": "Fate/Extella: Celebration Box",
       "file": "missing/F/140007-fate-extella-celebration-box.json"
+    },
+    {
+      "igdb_id": 212318,
+      "game_name": "Fate/Extella: Regalia Box",
+      "file": "missing/F/212318-fate-extella-regalia-box.json"
     },
     {
       "igdb_id": 414302,
@@ -126668,6 +126753,11 @@
       "file": "missing/F/5313-fist-of-the-north-star-kens-rage-2.json"
     },
     {
+      "igdb_id": 212335,
+      "game_name": "Fist of the North Star: Lost Paradise - Premium Edition",
+      "file": "missing/F/212335-fist-of-the-north-star-lost-paradise-premium-edition.json"
+    },
+    {
       "igdb_id": 9088,
       "game_name": "Fist Puncher",
       "file": "missing/F/9088-fist-puncher.json"
@@ -128796,6 +128886,11 @@
       "igdb_id": 415869,
       "game_name": "Floraison",
       "file": "missing/F/415869-floraison.json"
+    },
+    {
+      "igdb_id": 212319,
+      "game_name": "Floral Flowlove: Limited Edition",
+      "file": "missing/F/212319-floral-flowlove-limited-edition.json"
     },
     {
       "igdb_id": 265620,
@@ -131781,6 +131876,11 @@
       "igdb_id": 260134,
       "game_name": "Fortnite: Airphoria Pack",
       "file": "missing/F/260134-fortnite-airphoria-pack.json"
+    },
+    {
+      "igdb_id": 212329,
+      "game_name": "Fortnite: Anime Legends Pack",
+      "file": "missing/F/212329-fortnite-anime-legends-pack.json"
     },
     {
       "igdb_id": 363901,
@@ -191183,6 +191283,61 @@
       "file": "missing/K/181891-kissa.json"
     },
     {
+      "igdb_id": 212343,
+      "game_name": "Kissed by the Baddest Bidder: Engagement Cruise - Eisuke",
+      "file": "missing/K/212343-kissed-by-the-baddest-bidder-engagement-cruise-eisuke.json"
+    },
+    {
+      "igdb_id": 212350,
+      "game_name": "Kissed by the Baddest Bidder: Engagement Cruise - Eisuke DLC Pack",
+      "file": "missing/K/212350-kissed-by-the-baddest-bidder-engagement-cruise-eisuke-dlc-pack.json"
+    },
+    {
+      "igdb_id": 212344,
+      "game_name": "Kissed by the Baddest Bidder: Engagement Cruise - His PoV: Eisuke",
+      "file": "missing/K/212344-kissed-by-the-baddest-bidder-engagement-cruise-his-pov-eisuke.json"
+    },
+    {
+      "igdb_id": 212349,
+      "game_name": "Kissed by the Baddest Bidder: Engagement Cruise - His PoV: Mamoru",
+      "file": "missing/K/212349-kissed-by-the-baddest-bidder-engagement-cruise-his-pov-mamoru.json"
+    },
+    {
+      "igdb_id": 212346,
+      "game_name": "Kissed by the Baddest Bidder: Engagement Cruise - His PoV: Soryu",
+      "file": "missing/K/212346-kissed-by-the-baddest-bidder-engagement-cruise-his-pov-soryu.json"
+    },
+    {
+      "igdb_id": 212348,
+      "game_name": "Kissed by the Baddest Bidder: Engagement Cruise - Mamoru",
+      "file": "missing/K/212348-kissed-by-the-baddest-bidder-engagement-cruise-mamoru.json"
+    },
+    {
+      "igdb_id": 212353,
+      "game_name": "Kissed by the Baddest Bidder: Engagement Cruise - Mamoru DLC Pack",
+      "file": "missing/K/212353-kissed-by-the-baddest-bidder-engagement-cruise-mamoru-dlc-pack.json"
+    },
+    {
+      "igdb_id": 212347,
+      "game_name": "Kissed by the Baddest Bidder: Engagement Cruise - Ota",
+      "file": "missing/K/212347-kissed-by-the-baddest-bidder-engagement-cruise-ota.json"
+    },
+    {
+      "igdb_id": 212352,
+      "game_name": "Kissed by the Baddest Bidder: Engagement Cruise - Ota DLC Pack",
+      "file": "missing/K/212352-kissed-by-the-baddest-bidder-engagement-cruise-ota-dlc-pack.json"
+    },
+    {
+      "igdb_id": 212345,
+      "game_name": "Kissed by the Baddest Bidder: Engagement Cruise - Soryu",
+      "file": "missing/K/212345-kissed-by-the-baddest-bidder-engagement-cruise-soryu.json"
+    },
+    {
+      "igdb_id": 212351,
+      "game_name": "Kissed by the Baddest Bidder: Engagement Cruise - Soryu DLC Pack",
+      "file": "missing/K/212351-kissed-by-the-baddest-bidder-engagement-cruise-soryu-dlc-pack.json"
+    },
+    {
       "igdb_id": 238196,
       "game_name": "Kissed by the Baddest Bidder: Happy Birthday Ota",
       "file": "missing/K/238196-kissed-by-the-baddest-bidder-happy-birthday-ota.json"
@@ -211463,6 +211618,11 @@
       "file": "missing/M/59992-maison-kanraku-the-second-climax.json"
     },
     {
+      "igdb_id": 212325,
+      "game_name": "Maitetsu: Pure Station: Hachiroku Figure - Limited Edition",
+      "file": "missing/M/212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json"
+    },
+    {
       "igdb_id": 19518,
       "game_name": "Maize",
       "file": "missing/M/19518-maize.json"
@@ -219236,6 +219396,11 @@
       "igdb_id": 344474,
       "game_name": "Megadeka",
       "file": "missing/M/344474-megadeka.json"
+    },
+    {
+      "igdb_id": 212333,
+      "game_name": "Megadimension Neptunia VII: Dream Edition",
+      "file": "missing/M/212333-megadimension-neptunia-vii-dream-edition.json"
     },
     {
       "igdb_id": 238177,
@@ -234473,6 +234638,21 @@
       "file": "missing/M/390632-multiverse-idle.json"
     },
     {
+      "igdb_id": 212309,
+      "game_name": "MultiVersus: Founder's Pack - Deluxe Edition",
+      "file": "missing/M/212309-multiversus-founders-pack-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 212308,
+      "game_name": "MultiVersus: Founder's Pack - Premium Edition",
+      "file": "missing/M/212308-multiversus-founders-pack-premium-edition.json"
+    },
+    {
+      "igdb_id": 212307,
+      "game_name": "MultiVersus: Founder's Pack - Standard Edition",
+      "file": "missing/M/212307-multiversus-founders-pack-standard-edition.json"
+    },
+    {
       "igdb_id": 316065,
       "game_name": "MultiVersus: MVP Pack 2",
       "file": "missing/M/316065-multiversus-mvp-pack-2.json"
@@ -245318,6 +245498,11 @@
       "file": "missing/N/396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json"
     },
     {
+      "igdb_id": 212324,
+      "game_name": "Nights of Azure: GS Saikyou Combo Set - Super Limited Edition",
+      "file": "missing/N/212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json"
+    },
+    {
       "igdb_id": 263772,
       "game_name": "Nights To Remember",
       "file": "missing/N/263772-nights-to-remember.json"
@@ -247336,6 +247521,11 @@
       "igdb_id": 405470,
       "game_name": "Nobunaga's Ambition: Hishou",
       "file": "missing/N/405470-nobunagas-ambition-hishou.json"
+    },
+    {
+      "igdb_id": 212328,
+      "game_name": "Nobunaga’s Ambition: Rebirth - Treasure Box Limited Edition",
+      "file": "missing/N/212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json"
     },
     {
       "igdb_id": 90573,
@@ -255731,6 +255921,11 @@
       "igdb_id": 289435,
       "game_name": "Origami Treasure",
       "file": "missing/O/289435-origami-treasure.json"
+    },
+    {
+      "igdb_id": 212357,
+      "game_name": "Origamihero Games 2D Platformer Collection",
+      "file": "missing/O/212357-origamihero-games-2d-platformer-collection.json"
     },
     {
       "igdb_id": 126648,
@@ -288153,6 +288348,11 @@
       "file": "missing/R/134656-ratchet-and-clank-going-mobile.json"
     },
     {
+      "igdb_id": 212322,
+      "game_name": "Ratchet & Clank: Special Limited Edition",
+      "file": "missing/R/212322-ratchet-and-clank-special-limited-edition.json"
+    },
+    {
       "igdb_id": 1790,
       "game_name": "Ratchet: Deadlocked",
       "file": "missing/R/1790-ratchet-deadlocked.json"
@@ -288436,6 +288636,11 @@
       "igdb_id": 207918,
       "game_name": "Ray'z Arcade Chronology",
       "file": "missing/R/207918-rayz-arcade-chronology.json"
+    },
+    {
+      "igdb_id": 212331,
+      "game_name": "Ray'z Arcade Chronology: Special Limited Edition",
+      "file": "missing/R/212331-rayz-arcade-chronology-special-limited-edition.json"
     },
     {
       "igdb_id": 341306,
@@ -304763,6 +304968,11 @@
       "file": "missing/S/226767-sakura-revolution-blooming-maidens.json"
     },
     {
+      "igdb_id": 212330,
+      "game_name": "Sakura Sakura: Limited Edition",
+      "file": "missing/S/212330-sakura-sakura-limited-edition.json"
+    },
+    {
       "igdb_id": 34032,
       "game_name": "Sakura Santa",
       "file": "missing/S/34032-sakura-santa.json"
@@ -311133,6 +311343,11 @@
       "file": "missing/S/77367-senjo-no-valkyria-duel.json"
     },
     {
+      "igdb_id": 212315,
+      "game_name": "Senko no Ronde 2: Limited Edition",
+      "file": "missing/S/212315-senko-no-ronde-2-limited-edition.json"
+    },
+    {
       "igdb_id": 180766,
       "game_name": "Senkou no Clarias",
       "file": "missing/S/180766-senkou-no-clarias.json"
@@ -315601,6 +315816,11 @@
       "igdb_id": 44561,
       "game_name": "Shining Resonance",
       "file": "missing/S/44561-shining-resonance.json"
+    },
+    {
+      "igdb_id": 212320,
+      "game_name": "Shining Resonance Refrain: Premium Fan Box - Limited Edition",
+      "file": "missing/S/212320-shining-resonance-refrain-premium-fan-box-limited-edition.json"
     },
     {
       "igdb_id": 52062,
@@ -354023,6 +354243,11 @@
       "file": "missing/S/9618-sword-art-online-hollow-fragment.json"
     },
     {
+      "igdb_id": 212317,
+      "game_name": "Sword Art Online: Hollow Realization - Limited Edition",
+      "file": "missing/S/212317-sword-art-online-hollow-realization-limited-edition.json"
+    },
+    {
       "igdb_id": 132182,
       "game_name": "Sword Art Online: Hollow Realization Collector's Edition",
       "file": "missing/S/132182-sword-art-online-hollow-realization-collectors-edition.json"
@@ -361068,6 +361293,11 @@
       "file": "missing/T/271319-tempus-is-the-ignis.json"
     },
     {
+      "igdb_id": 212338,
+      "game_name": "Temtem: Deluxe Edition",
+      "file": "missing/T/212338-temtem-deluxe-edition.json"
+    },
+    {
       "igdb_id": 397815,
       "game_name": "Temtem: Pioneers",
       "file": "missing/T/397815-temtem-pioneers.json"
@@ -367526,6 +367756,11 @@
       "igdb_id": 233623,
       "game_name": "The Dino R",
       "file": "missing/T/233623-the-dino-r.json"
+    },
+    {
+      "igdb_id": 212339,
+      "game_name": "The DioField Chronicle: Digital Deluxe Edition",
+      "file": "missing/T/212339-the-diofield-chronicle-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 89253,
@@ -391141,6 +391376,11 @@
       "igdb_id": 142444,
       "game_name": "Tonari ni Kanojo no Iru Shiawase: Winter Guest",
       "file": "missing/T/142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json"
+    },
+    {
+      "igdb_id": 212314,
+      "game_name": "Tonari ni Kanojo no Iru Shiawase: Winter Guest - Limited Edition",
+      "file": "missing/T/212314-tonari-ni-kanojo-no-iru-shiawase-winter-guest-limited-edition.json"
     },
     {
       "igdb_id": 70402,
@@ -416138,6 +416378,11 @@
       "file": "missing/W/173270-warriors-and-mages.json"
     },
     {
+      "igdb_id": 212334,
+      "game_name": "Warriors All-Stars: Treasure Box",
+      "file": "missing/W/212334-warriors-all-stars-treasure-box.json"
+    },
+    {
       "igdb_id": 235231,
       "game_name": "Warriors Match Connect Classic",
       "file": "missing/W/235231-warriors-match-connect-classic.json"
@@ -429991,6 +430236,11 @@
       "igdb_id": 15454,
       "game_name": "Ys VI: The Ark of Napishtim",
       "file": "missing/Y/15454-ys-vi-the-ark-of-napishtim.json"
+    },
+    {
+      "igdb_id": 212316,
+      "game_name": "Ys VIII: Lacrimosa of Dana - Christmas Gift Package",
+      "file": "missing/Y/212316-ys-viii-lacrimosa-of-dana-christmas-gift-package.json"
     },
     {
       "igdb_id": 196324,
