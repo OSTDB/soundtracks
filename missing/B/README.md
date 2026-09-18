@@ -2402,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Heroes Runner | 263569 | [263569-bit-heroes-runner.json](./263569-bit-heroes-runner.json) |
 | Bit Lost | 363963 | [363963-bit-lost.json](./363963-bit-lost.json) |
 | Bit Orchard: Animal Valley - Complete Edition | 232997 | [232997-bit-orchard-animal-valley-complete-edition.json](./232997-bit-orchard-animal-valley-complete-edition.json) |
+| Bit Orchard: Animal Valley - Extended Edition | 212355 | [212355-bit-orchard-animal-valley-extended-edition.json](./212355-bit-orchard-animal-valley-extended-edition.json) |
 | Bit Orchard: Animal Valley - Halloween Edition | 223567 | [223567-bit-orchard-animal-valley-halloween-edition.json](./223567-bit-orchard-animal-valley-halloween-edition.json) |
 | Bit Orchard: Animal Valley - Magnificent Edition | 260697 | [260697-bit-orchard-animal-valley-magnificent-edition.json](./260697-bit-orchard-animal-valley-magnificent-edition.json) |
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
@@ -2738,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
 | BlazBlue Revolution Reburning | 38977 | [38977-blazblue-revolution-reburning.json](./38977-blazblue-revolution-reburning.json) |
 | BlazBlue: Calamity Trigger Portable | 46018 | [46018-blazblue-calamity-trigger-portable.json](./46018-blazblue-calamity-trigger-portable.json) |
+| BlazBlue: Central Fiction - Limited Edition | 212326 | [212326-blazblue-central-fiction-limited-edition.json](./212326-blazblue-central-fiction-limited-edition.json) |
 | BlazBlue: Central Fiction - Special Edition | 109607 | [109607-blazblue-central-fiction-special-edition.json](./109607-blazblue-central-fiction-special-edition.json) |
 | BlazBlue: Chrono Phantasma | 5643 | [5643-blazblue-chrono-phantasma.json](./5643-blazblue-chrono-phantasma.json) |
 | BlazBlue: Chrono Phantasma Extend | 11612 | [11612-blazblue-chrono-phantasma-extend.json](./11612-blazblue-chrono-phantasma-extend.json) |
@@ -4729,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullets and More VR: BAM VR | 31401 | [31401-bullets-and-more-vr-bam-vr.json](./31401-bullets-and-more-vr-bam-vr.json) |
 | Bullets in the Space | 106626 | [106626-bullets-in-the-space.json](./106626-bullets-in-the-space.json) |
 | Bulletstorm: Limited Edition | 46640 | [46640-bulletstorm-limited-edition.json](./46640-bulletstorm-limited-edition.json) |
+| Bulletstorm: Lite | 212310 | [212310-bulletstorm-lite.json](./212310-bulletstorm-lite.json) |
 | BulletVille | 137591 | [137591-bulletville.json](./137591-bulletville.json) |
 | Bulletz | 275111 | [275111-bulletz.json](./275111-bulletz.json) |
 | Bullfight Ring no Hasha | 59428 | [59428-bullfight-ring-no-hasha.json](./59428-bullfight-ring-no-hasha.json) |
