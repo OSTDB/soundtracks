@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nacho Trave vs. Joako Tronico | 323357 | [323357-nacho-trave-vs-joako-tronico.json](./323357-nacho-trave-vs-joako-tronico.json) |
 | NachoCado | 246084 | [246084-nachocado.json](./246084-nachocado.json) |
 | Nack the Weasel | 330721 | [330721-nack-the-weasel.json](./330721-nack-the-weasel.json) |
+| Nada Asatarou / Kojima Takeo no Jissen Mahjong Kyoushitsu | 228566 | [228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json](./228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json) |
 | Naddagil: A Nordic Nightmare | 314026 | [314026-naddagil-a-nordic-nightmare.json](./314026-naddagil-a-nordic-nightmare.json) |
 | Nadine in: Diamond in the Grave | 279725 | [279725-nadine-in-diamond-in-the-grave.json](./279725-nadine-in-diamond-in-the-grave.json) |
 | Nae Yeodongsaeng-gwa Chinguui Yeodongsaeng-eul Gyohwanhae Boassda | 368038 | [368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json](./368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json) |
@@ -570,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Cosmo Police | 209482 | [209482-neko-cosmo-police.json](./209482-neko-cosmo-police.json) |
 | Neko Dai Suki! | 45257 | [45257-neko-dai-suki.json](./45257-neko-dai-suki.json) |
 | Neko Daisuki! | 19668 | [19668-neko-daisuki.json](./19668-neko-daisuki.json) |
+| Neko Gacha | 228543 | [228543-neko-gacha.json](./228543-neko-gacha.json) |
 | Neko Gelato | 353995 | [353995-neko-gelato.json](./353995-neko-gelato.json) |
 | Neko Golf: Anime Golf | 223126 | [223126-neko-golf-anime-golf.json](./223126-neko-golf-anime-golf.json) |
 | Neko Michi | 385601 | [385601-neko-michi.json](./385601-neko-michi.json) |
