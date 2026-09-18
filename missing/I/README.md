@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infraworld: Coma Moonlight | 256832 | [256832-infraworld-coma-moonlight.json](./256832-infraworld-coma-moonlight.json) |
 | Ingenious | 210038 | [210038-ingenious.json](./210038-ingenious.json) |
 | Ingenious Island | 226745 | [226745-ingenious-island.json](./226745-ingenious-island.json) |
+| Ingeste | 181225 | [181225-ingeste.json](./181225-ingeste.json) |
 | Inglorious Waifu VS Nazi Zombies | 156163 | [156163-inglorious-waifu-vs-nazi-zombies.json](./156163-inglorious-waifu-vs-nazi-zombies.json) |
 | Ingrid's Back! | 15493 | [15493-ingrids-back.json](./15493-ingrids-back.json) |
 | Inherent Evil - The Haunted Hotel | 114408 | [114408-inherent-evil-the-haunted-hotel.json](./114408-inherent-evil-the-haunted-hotel.json) |
@@ -1585,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invention 7 | 340760 | [340760-invention-7.json](./340760-invention-7.json) |
 | Inventor Labs | 94242 | [94242-inventor-labs.json](./94242-inventor-labs.json) |
 | Inventor’s Cabin | 381622 | [381622-inventor-s-cabin.json](./381622-inventor-s-cabin.json) |
+| Inventorious | 181236 | [181236-inventorious.json](./181236-inventorious.json) |
 | Inventory Full | 338833 | [338833-inventory-full.json](./338833-inventory-full.json) |
 | Inventris TD | 319009 | [319009-inventris-td.json](./319009-inventris-td.json) |
 | Inverness Nights | 134676 | [134676-inverness-nights.json](./134676-inverness-nights.json) |
