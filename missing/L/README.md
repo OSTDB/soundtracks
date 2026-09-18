@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Espada Sagrada | 141821 | [141821-la-espada-sagrada.json](./141821-la-espada-sagrada.json) |
 | La Fuga | 115603 | [115603-la-fuga.json](./115603-la-fuga.json) |
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
+| La Isla de lo Mono | 208467 | [208467-la-isla-de-lo-mono.json](./208467-la-isla-de-lo-mono.json) |
 | La Leyenda del Chupacabra | 75094 | [75094-la-leyenda-del-chupacabra.json](./75094-la-leyenda-del-chupacabra.json) |
 | La Libertad Arrasa: Milei | 323725 | [323725-la-libertad-arrasa-milei.json](./323725-la-libertad-arrasa-milei.json) |
 | La Llorona Wants Your Soul | 291737 | [291737-la-llorona-wants-your-soul.json](./291737-la-llorona-wants-your-soul.json) |
@@ -211,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Mushrooms: Forest of Nightmares - Background | 324469 | [324469-land-of-mushrooms-forest-of-nightmares-background.json](./324469-land-of-mushrooms-forest-of-nightmares-background.json) |
 | Land of Mushrooms: Small Mode - Mini Mushroom Mayhem | 324488 | [324488-land-of-mushrooms-small-mode-mini-mushroom-mayhem.json](./324488-land-of-mushrooms-small-mode-mini-mushroom-mayhem.json) |
 | Land of Mushrooms: The Front Yard - Background | 324475 | [324475-land-of-mushrooms-the-front-yard-background.json](./324475-land-of-mushrooms-the-front-yard-background.json) |
+| Land of Nod | 208439 | [208439-land-of-nod.json](./208439-land-of-nod.json) |
 | Land of Puzzles: Elven Princess | 109767 | [109767-land-of-puzzles-elven-princess.json](./109767-land-of-puzzles-elven-princess.json) |
 | Land of the Dead: Road to Fiddler's Green | 5900 | [5900-land-of-the-dead-road-to-fiddlers-green.json](./5900-land-of-the-dead-road-to-fiddlers-green.json) |
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
@@ -1020,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
 | Let's Bravo Music | 326944 | [326944-lets-bravo-music.json](./326944-lets-bravo-music.json) |
 | Let's Build a Garden | 340914 | [340914-lets-build-a-garden.json](./340914-lets-build-a-garden.json) |
+| Let's Build a Zoo + Dinosaur Island Bundle | 208433 | [208433-lets-build-a-zoo-dinosaur-island-bundle.json](./208433-lets-build-a-zoo-dinosaur-island-bundle.json) |
 | Let’s Build a Zoo: Aquarium Odyssey | 245302 | [245302-let-s-build-a-zoo-aquarium-odyssey.json](./245302-let-s-build-a-zoo-aquarium-odyssey.json) |
 | Let's Build a Zoo: Aquarium Odyssey Bundle | 262056 | [262056-lets-build-a-zoo-aquarium-odyssey-bundle.json](./262056-lets-build-a-zoo-aquarium-odyssey-bundle.json) |
 | Let's Build a Zoo: Ultimate Bundle | 262054 | [262054-lets-build-a-zoo-ultimate-bundle.json](./262054-lets-build-a-zoo-ultimate-bundle.json) |
@@ -1333,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light the Candles in Hell | 340920 | [340920-light-the-candles-in-hell.json](./340920-light-the-candles-in-hell.json) |
 | Light the Way | 248286 | [248286-light-the-way.json](./248286-light-the-way.json) |
 | Light the World | 165628 | [165628-light-the-world.json](./165628-light-the-world.json) |
+| Light Them Up | 208443 | [208443-light-them-up.json](./208443-light-them-up.json) |
 | Light Tomb | 358937 | [358937-light-tomb.json](./358937-light-tomb.json) |
 | Light Towers | 357847 | [357847-light-towers.json](./357847-light-towers.json) |
 | Light Unseen | 303630 | [303630-light-unseen.json](./303630-light-unseen.json) |
