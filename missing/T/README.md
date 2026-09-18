@@ -1694,6 +1694,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Tintin: Prisoners of the Sun | 42588 | [42588-the-adventures-of-tintin-prisoners-of-the-sun.json](./42588-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Afterlife Cafe | 367948 | [367948-the-afterlife-cafe.json](./367948-the-afterlife-cafe.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
+| The Age of Navigation: Commemorative Edition | 196133 | [196133-the-age-of-navigation-commemorative-edition.json](./196133-the-age-of-navigation-commemorative-edition.json) |
+| The Age of Navigation: Deluxe Edition | 196134 | [196134-the-age-of-navigation-deluxe-edition.json](./196134-the-age-of-navigation-deluxe-edition.json) |
 | The Agent Saga: Rover Rescue | 54434 | [54434-the-agent-saga-rover-rescue.json](./54434-the-agent-saga-rover-rescue.json) |
 | The Airline Project: Next Gen | 199521 | [199521-the-airline-project-next-gen.json](./199521-the-airline-project-next-gen.json) |
 | The Airs | 144951 | [144951-the-airs.json](./144951-the-airs.json) |
@@ -2435,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
 | The Dead Linger | 9055 | [9055-the-dead-linger.json](./9055-the-dead-linger.json) |
 | The Dead Mountaineer's Hotel | 54438 | [54438-the-dead-mountaineers-hotel.json](./54438-the-dead-mountaineers-hotel.json) |
+| The Dead Prince | 196167 | [196167-the-dead-prince.json](./196167-the-dead-prince.json) |
 | The Dead Roam Free | 388224 | [388224-the-dead-roam-free.json](./388224-the-dead-roam-free.json) |
 | The Dead We Knew: Open World Survival | 412960 | [412960-the-dead-we-knew-open-world-survival.json](./412960-the-dead-we-knew-open-world-survival.json) |
 | The Deadlands | 257689 | [257689-the-deadlands.json](./257689-the-deadlands.json) |
@@ -6069,6 +6072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thugging | 370682 | [370682-thugging.json](./370682-thugging.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
+| ThumBeat: Button Basher Edition | 196136 | [196136-thumbeat-button-basher-edition.json](./196136-thumbeat-button-basher-edition.json) |
 | Thumblemania | 348346 | [348346-thumblemania.json](./348346-thumblemania.json) |
 | Thumps & Blows | 348327 | [348327-thumps-and-blows.json](./348327-thumps-and-blows.json) |
 | Thunder Alley | 49340 | [49340-thunder-alley.json](./49340-thunder-alley.json) |
@@ -7709,6 +7713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kobuto V: Burst Battle - Koishi Komeiji | 238037 | [238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json](./238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json) |
 | Touhou Kobuto V: Burst Battle - Youmu Konpaku | 238035 | [238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json](./238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json) |
 | Touhou Kosuzu no Butsuri Game! | 256898 | [256898-touhou-kosuzu-no-butsuri-game.json](./256898-touhou-kosuzu-no-butsuri-game.json) |
+| Touhou Landmine Mahjong | 196162 | [196162-touhou-landmine-mahjong.json](./196162-touhou-landmine-mahjong.json) |
 | Touhou Língshǒusì: Consciousness' Unity of Opposites | 216793 | [216793-touhou-lingshousi-consciousness-unity-of-opposites.json](./216793-touhou-lingshousi-consciousness-unity-of-opposites.json) |
 | Touhou Lonely Lovely Bonfire | 362883 | [362883-touhou-lonely-lovely-bonfire.json](./362883-touhou-lonely-lovely-bonfire.json) |
 | Touhou Luna Nights | 105447 | [105447-touhou-luna-nights.json](./105447-touhou-luna-nights.json) |
@@ -9019,6 +9024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator Pro USA | 262336 | [262336-truck-simulator-pro-usa.json](./262336-truck-simulator-pro-usa.json) |
 | Truck Simulator US Driver | 376580 | [376580-truck-simulator-us-driver.json](./376580-truck-simulator-us-driver.json) |
 | Truck Simulator USA & ATV Monster Rally Bundle | 306513 | [306513-truck-simulator-usa-and-atv-monster-rally-bundle.json](./306513-truck-simulator-usa-and-atv-monster-rally-bundle.json) |
+| Truck Simulator USA Car Games: Driving games & Car 2022 | 196177 | [196177-truck-simulator-usa-car-games-driving-games-and-car-2022.json](./196177-truck-simulator-usa-car-games-driving-games-and-car-2022.json) |
 | Truck Simulator: Driving School 2024 | 276862 | [276862-truck-simulator-driving-school-2024.json](./276862-truck-simulator-driving-school-2024.json) |
 | Truck Simulator: European Roads | 383514 | [383514-truck-simulator-european-roads.json](./383514-truck-simulator-european-roads.json) |
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
