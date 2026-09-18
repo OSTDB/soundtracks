@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
 | Under the Stars | 252224 | [252224-under-the-stars.json](./252224-under-the-stars.json) |
 | Under the Thorns | 304723 | [304723-under-the-thorns.json](./304723-under-the-thorns.json) |
+| Under the Warehouse | 195605 | [195605-under-the-warehouse.json](./195605-under-the-warehouse.json) |
 | Under the Witch: Beginnings | 267365 | [267365-under-the-witch-beginnings.json](./267365-under-the-witch-beginnings.json) |
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
 | Under Tower Idle | 405585 | [405585-under-tower-idle.json](./405585-under-tower-idle.json) |
