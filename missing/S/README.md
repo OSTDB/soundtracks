@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday Night is the Loneliest Night of the Week | 230855 | [230855-saturday-night-is-the-loneliest-night-of-the-week.json](./230855-saturday-night-is-the-loneliest-night-of-the-week.json) |
 | Saturday Night is the Loneliest Night of the Week II | 230856 | [230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json](./230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json) |
 | Saturday School | 171557 | [171557-saturday-school.json](./171557-saturday-school.json) |
+| Sature | 183450 | [183450-sature.json](./183450-sature.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
 | Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
@@ -2739,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Online: Golf Battle | 233119 | [233119-shot-online-golf-battle.json](./233119-shot-online-golf-battle.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
 | Shotdogs | 210096 | [210096-shotdogs.json](./210096-shotdogs.json) |
+| Shotgun Angelic | 183428 | [183428-shotgun-angelic.json](./183428-shotgun-angelic.json) |
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
 | ShotGun Exorcist | 270200 | [270200-shotgun-exorcist.json](./270200-shotgun-exorcist.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
@@ -3947,6 +3949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Weapon Master | 297614 | [297614-slime-weapon-master.json](./297614-slime-weapon-master.json) |
 | Slime World | 41999 | [41999-slime-world.json](./41999-slime-world.json) |
 | Slime-san | 28069 | [28069-slime-san.json](./28069-slime-san.json) |
+| Slime: Desulted | 183465 | [183465-slime-desulted.json](./183465-slime-desulted.json) |
 | Slime:Evo | 143021 | [143021-slime-evo.json](./143021-slime-evo.json) |
 | Slime's Journey | 378316 | [378316-slimes-journey.json](./378316-slimes-journey.json) |
 | Slimebrawl | 75061 | [75061-slimebrawl.json](./75061-slimebrawl.json) |
@@ -4772,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solid Void Art Nonograms | 378770 | [378770-solid-void-art-nonograms.json](./378770-solid-void-art-nonograms.json) |
 | Solidarność | 318229 | [318229-solidarnosc.json](./318229-solidarnosc.json) |
 | Solidus | 100745 | [100745-solidus.json](./100745-solidus.json) |
+| Solipsism Reigns | 183434 | [183434-solipsism-reigns.json](./183434-solipsism-reigns.json) |
 | Solipsistic | 409582 | [409582-solipsistic.json](./409582-solipsistic.json) |
 | Solir | 332529 | [332529-solir.json](./332529-solir.json) |
 | Solitaire | 234167 | [234167-solitaire.json](./234167-solitaire.json) |
@@ -5554,6 +5558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstone Survivors | 210585 | [210585-soulstone-survivors.json](./210585-soulstone-survivors.json) |
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
 | SoulWander | 348785 | [348785-soulwander.json](./348785-soulwander.json) |
+| Soulward | 183458 | [183458-soulward.json](./183458-soulward.json) |
 | Soulworker Academia | 143053 | [143053-soulworker-academia.json](./143053-soulworker-academia.json) |
 | SoulWorker: Anime Legends | 200736 | [200736-soulworker-anime-legends.json](./200736-soulworker-anime-legends.json) |
 | Soumei: Crescent Moon | 382781 | [382781-soumei-crescent-moon.json](./382781-soumei-crescent-moon.json) |
@@ -8156,6 +8161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray of Lostcat | 385078 | [385078-stray-of-lostcat.json](./385078-stray-of-lostcat.json) |
 | Stray Shot | 290715 | [290715-stray-shot.json](./290715-stray-shot.json) |
 | Stray Sketch | 339657 | [339657-stray-sketch.json](./339657-stray-sketch.json) |
+| Stray Souls | 183474 | [183474-stray-souls.json](./183474-stray-souls.json) |
 | Stray Souls: Stolen Memories | 87224 | [87224-stray-souls-stolen-memories.json](./87224-stray-souls-stolen-memories.json) |
 | Stray Tekirs | 346127 | [346127-stray-tekirs.json](./346127-stray-tekirs.json) |
 | Straya | 149516 | [149516-straya.json](./149516-straya.json) |
@@ -10429,6 +10435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Atlas | 188565 | [188565-sword-of-atlas.json](./188565-sword-of-atlas.json) |
 | Sword of Convallaria: For This World of Peace | 212438 | [212438-sword-of-convallaria-for-this-world-of-peace.json](./212438-sword-of-convallaria-for-this-world-of-peace.json) |
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
+| Sword of Hearts | 183437 | [183437-sword-of-hearts.json](./183437-sword-of-hearts.json) |
 | Sword of Mana | 6630 | [6630-sword-of-mana.json](./6630-sword-of-mana.json) |
 | Sword of Resistance | 134640 | [134640-sword-of-resistance.json](./134640-sword-of-resistance.json) |
 | Sword of Saros | 40727 | [40727-sword-of-saros.json](./40727-sword-of-saros.json) |
