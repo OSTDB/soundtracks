@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
 | Jump | 272304 | [272304-jump.json](./272304-jump.json) |
 | Jump 1/2 | 215761 | [215761-jump-1-2.json](./215761-jump-1-2.json) |
+| Jump Among Stars | 211828 | [211828-jump-among-stars.json](./211828-jump-among-stars.json) |
 | Jump and Roll | 243102 | [243102-jump-and-roll.json](./243102-jump-and-roll.json) |
 | Jump and Run: Don't Fall | 107939 | [107939-jump-and-run-dont-fall.json](./107939-jump-and-run-dont-fall.json) |
 | Jump Ball | 223044 | [223044-jump-ball.json](./223044-jump-ball.json) |
@@ -1046,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Hunter | 151648 | [151648-jurassic-hunter.json](./151648-jurassic-hunter.json) |
 | Jurassic Island Rescue and Escape | 294433 | [294433-jurassic-island-rescue-and-escape.json](./294433-jurassic-island-rescue-and-escape.json) |
 | Jurassic Island: The Dinosaur Zoo | 14745 | [14745-jurassic-island-the-dinosaur-zoo.json](./14745-jurassic-island-the-dinosaur-zoo.json) |
+| Jurassic Lab: Dinosarium DNA | 211780 | [211780-jurassic-lab-dinosarium-dna.json](./211780-jurassic-lab-dinosarium-dna.json) |
 | Jurassic Park | 15543 | [15543-jurassic-park.json](./15543-jurassic-park.json) |
 | Jurassic Park: Survival | 279640 | [279640-jurassic-park-survival.json](./279640-jurassic-park-survival.json) |
 | Jurassic Pet: Virtual World | 263581 | [263581-jurassic-pet-virtual-world.json](./263581-jurassic-pet-virtual-world.json) |
