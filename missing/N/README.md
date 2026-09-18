@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NarKarma Engine A | 257661 | [257661-narkarma-engine-a.json](./257661-narkarma-engine-a.json) |
 | Naroike | 335277 | [335277-naroike.json](./335277-naroike.json) |
 | Naron | 412380 | [412380-naron.json](./412380-naron.json) |
+| Narrative Adventure | 192293 | [192293-narrative-adventure.json](./192293-narrative-adventure.json) |
 | Narrative Nightmares: Trilogy of Terror | 282594 | [282594-narrative-nightmares-trilogy-of-terror.json](./282594-narrative-nightmares-trilogy-of-terror.json) |
 | Narrow Escape | 41986 | [41986-narrow-escape.json](./41986-narrow-escape.json) |
 | Narrow Path | 203380 | [203380-narrow-path.json](./203380-narrow-path.json) |
@@ -599,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
 | Neko Sagashi | 227270 | [227270-neko-sagashi.json](./227270-neko-sagashi.json) |
 | Neko Samurai | 212468 | [212468-neko-samurai.json](./212468-neko-samurai.json) |
+| Neko Secret Room | 192280 | [192280-neko-secret-room.json](./192280-neko-secret-room.json) |
 | Neko Secret: Homecoming | 200647 | [200647-neko-secret-homecoming.json](./200647-neko-secret-homecoming.json) |
 | Neko Simulator NekoZ | 297632 | [297632-neko-simulator-nekoz.json](./297632-neko-simulator-nekoz.json) |
 | Neko Times: Purrfect Shapes | 369629 | [369629-neko-times-purrfect-shapes.json](./369629-neko-times-purrfect-shapes.json) |
