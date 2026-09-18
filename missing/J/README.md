@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joinem | 40208 | [40208-joinem.json](./40208-joinem.json) |
 | Joint Strike Fighter | 18073 | [18073-joint-strike-fighter.json](./18073-joint-strike-fighter.json) |
 | Joint Venture | 410221 | [410221-joint-venture.json](./410221-joint-venture.json) |
+| Joint War | 210706 | [210706-joint-war.json](./210706-joint-war.json) |
 | JoJo no Kimyou na Bouken | 221257 | [221257-jojo-no-kimyou-na-bouken.json](./221257-jojo-no-kimyou-na-bouken.json) |
 | JoJo no Kimyou na Bouken: Ougon no Kaze | 43465 | [43465-jojo-no-kimyou-na-bouken-ougon-no-kaze.json](./43465-jojo-no-kimyou-na-bouken-ougon-no-kaze.json) |
 | JoJo Siwa: Worldwide Party | 218722 | [218722-jojo-siwa-worldwide-party.json](./218722-jojo-siwa-worldwide-party.json) |
