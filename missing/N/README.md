@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
 | Nature Prhysm | 206374 | [206374-nature-prhysm.json](./206374-nature-prhysm.json) |
 | Nature's Element | 270972 | [270972-natures-element.json](./270972-natures-element.json) |
+| Nature's Habit | 195103 | [195103-natures-habit.json](./195103-natures-habit.json) |
 | Naught | 117751 | [117751-naught.json](./117751-naught.json) |
 | Naught Reawakening | 35798 | [35798-naught-reawakening.json](./35798-naught-reawakening.json) |
 | Naught: Edahi & Dohai | 238215 | [238215-naught-edahi-and-dohai.json](./238215-naught-edahi-and-dohai.json) |
@@ -1635,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NLL Lacrosse 2010 | 66705 | [66705-nll-lacrosse-2010.json](./66705-nll-lacrosse-2010.json) |
 | NMDC | 199584 | [199584-nmdc.json](./199584-nmdc.json) |
 | No Afraid Of Battle | 341481 | [341481-no-afraid-of-battle.json](./341481-no-afraid-of-battle.json) |
+| No Anglerfish | 195104 | [195104-no-anglerfish.json](./195104-no-anglerfish.json) |
 | No Arm | 360010 | [360010-no-arm.json](./360010-no-arm.json) |
 | No Blood, No Fowl | 314906 | [314906-no-blood-no-fowl.json](./314906-no-blood-no-fowl.json) |
 | No Brakes io | 263582 | [263582-no-brakes-io.json](./263582-no-brakes-io.json) |
