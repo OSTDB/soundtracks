@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Relics | 360570 | [360570-fallen-relics.json](./360570-fallen-relics.json) |
 | Fallen Saint Yhoundeh | 295405 | [295405-fallen-saint-yhoundeh.json](./295405-fallen-saint-yhoundeh.json) |
 | Fallen Seeds | 270112 | [270112-fallen-seeds.json](./270112-fallen-seeds.json) |
+| Fallen Spirit | 188518 | [188518-fallen-spirit.json](./188518-fallen-spirit.json) |
 | Fallen Star | 322177 | [322177-fallen-star.json](./322177-fallen-star.json) |
 | Fallen: Town of Heritage and Makina the Blazing Hair | 82831 | [82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json](./82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json) |
 | Fallen's Challenge | 285467 | [285467-fallens-challenge.json](./285467-fallens-challenge.json) |
@@ -582,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Monster Hunt | 346683 | [346683-fantasy-monster-hunt.json](./346683-fantasy-monster-hunt.json) |
 | Fantasy Mosaics 2 | 100733 | [100733-fantasy-mosaics-2.json](./100733-fantasy-mosaics-2.json) |
 | Fantasy Mosaics 3: Distant Worlds | 100735 | [100735-fantasy-mosaics-3-distant-worlds.json](./100735-fantasy-mosaics-3-distant-worlds.json) |
+| Fantasy Mosaics 35: Day at the Museum | 188525 | [188525-fantasy-mosaics-35-day-at-the-museum.json](./188525-fantasy-mosaics-35-day-at-the-museum.json) |
 | Fantasy Mosaics 37: Spooky Night | 296060 | [296060-fantasy-mosaics-37-spooky-night.json](./296060-fantasy-mosaics-37-spooky-night.json) |
 | Fantasy Mosaics 4: Art of Color | 100734 | [100734-fantasy-mosaics-4-art-of-color.json](./100734-fantasy-mosaics-4-art-of-color.json) |
 | Fantasy Mosaics 41: Wizard's Realm | 296062 | [296062-fantasy-mosaics-41-wizards-realm.json](./296062-fantasy-mosaics-41-wizards-realm.json) |
