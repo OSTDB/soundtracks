@@ -3647,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Pete | 47272 | [47272-power-pete.json](./47272-power-pete.json) |
 | Power Pets | 398471 | [398471-power-pets.json](./398471-power-pets.json) |
 | Power Pigskin | 245420 | [245420-power-pigskin.json](./245420-power-pigskin.json) |
+| Power Ping Pong | 200031 | [200031-power-ping-pong.json](./200031-power-ping-pong.json) |
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
 | Power Plays | 60548 | [60548-power-plays.json](./60548-power-plays.json) |
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
@@ -5026,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
 | Puzzled Heroes | 116294 | [116294-puzzled-heroes.json](./116294-puzzled-heroes.json) |
 | Puzzled Love | 180813 | [180813-puzzled-love.json](./180813-puzzled-love.json) |
+| Puzzledrome | 200061 | [200061-puzzledrome.json](./200061-puzzledrome.json) |
 | Puzzlefall | 58177 | [58177-puzzlefall.json](./58177-puzzlefall.json) |
 | Puzzlelicious | 88260 | [88260-puzzlelicious.json](./88260-puzzlelicious.json) |
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
