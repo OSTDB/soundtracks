@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baratin: The Video Game | 374085 | [374085-baratin-the-video-game.json](./374085-baratin-the-video-game.json) |
 | Barb | 191812 | [191812-barb.json](./191812-barb.json) |
 | Barb Wire | 92451 | [92451-barb-wire.json](./92451-barb-wire.json) |
+| Barbarian | 206238 | [206238-barbarian.json](./206238-barbarian.json) |
 | Barbarian | 376532 | [376532-barbarian.json](./376532-barbarian.json) |
 | Barbarian Simulator | 157718 | [157718-barbarian-simulator.json](./157718-barbarian-simulator.json) |
 | Barbarians & Beasts | 277971 | [277971-barbarians-and-beasts.json](./277971-barbarians-and-beasts.json) |
@@ -790,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barney Bear Goes to the Farm | 14285 | [14285-barney-bear-goes-to-the-farm.json](./14285-barney-bear-goes-to-the-farm.json) |
 | Barney Bear Meets Santa Claus | 14286 | [14286-barney-bear-meets-santa-claus.json](./14286-barney-bear-meets-santa-claus.json) |
 | Barney Shoot 'Em Up | 325816 | [325816-barney-shoot-em-up.json](./325816-barney-shoot-em-up.json) |
+| Barney: Magical Music | 206239 | [206239-barney-magical-music.json](./206239-barney-magical-music.json) |
 | Barney's Hide & Seek Game | 46286 | [46286-barneys-hide-and-seek-game.json](./46286-barneys-hide-and-seek-game.json) |
 | Barnicle | 344380 | [344380-barnicle.json](./344380-barnicle.json) |
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
