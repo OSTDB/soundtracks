@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warborn: Variable Armour Command | 112598 | [112598-warborn-variable-armour-command.json](./112598-warborn-variable-armour-command.json) |
 | Warborne: Above Ashes | 333102 | [333102-warborne-above-ashes.json](./333102-warborne-above-ashes.json) |
 | Warbot Engineer | 337458 | [337458-warbot-engineer.json](./337458-warbot-engineer.json) |
+| Warbox | 232010 | [232010-warbox.json](./232010-warbox.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
 | Warcraft I: Remastered | 322108 | [322108-warcraft-i-remastered.json](./322108-warcraft-i-remastered.json) |
 | Warcraft III: Reforged - Spoils of War Edition | 111652 | [111652-warcraft-iii-reforged-spoils-of-war-edition.json](./111652-warcraft-iii-reforged-spoils-of-war-edition.json) |
@@ -1000,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Do You Know? | 234723 | [234723-what-do-you-know.json](./234723-what-do-you-know.json) |
 | What Happened: Through Worlds | 314856 | [314856-what-happened-through-worlds.json](./314856-what-happened-through-worlds.json) |
 | What Happens in Space | 153989 | [153989-what-happens-in-space.json](./153989-what-happens-in-space.json) |
+| What has become of us.. | 232009 | [232009-what-has-become-of-us.json](./232009-what-has-become-of-us.json) |
 | What I left behind | 184054 | [184054-what-i-left-behind.json](./184054-what-i-left-behind.json) |
 | What if Adventure Time was a 3D Anime | 234038 | [234038-what-if-adventure-time-was-a-3d-anime.json](./234038-what-if-adventure-time-was-a-3d-anime.json) |
 | What Is Love?: Vol. 1 | 203921 | [203921-what-is-love-vol-1.json](./203921-what-is-love-vol-1.json) |
@@ -1853,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Adventures | 164518 | [164518-wolf-adventures.json](./164518-wolf-adventures.json) |
 | Wolf And Moon: Nonogram | 312365 | [312365-wolf-and-moon-nonogram.json](./312365-wolf-and-moon-nonogram.json) |
 | Wolf And Moon: Sudoku | 312362 | [312362-wolf-and-moon-sudoku.json](./312362-wolf-and-moon-sudoku.json) |
+| Wolf Boot Camp | 232052 | [232052-wolf-boot-camp.json](./232052-wolf-boot-camp.json) |
 | Wolf Bride | 313856 | [313856-wolf-bride.json](./313856-wolf-bride.json) |
 | Wolf Hero: Animals vs. Robots | 312541 | [312541-wolf-hero-animals-vs-robots.json](./312541-wolf-hero-animals-vs-robots.json) |
 | Wolf Knight Memoir | 278982 | [278982-wolf-knight-memoir.json](./278982-wolf-knight-memoir.json) |
