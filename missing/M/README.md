@@ -4864,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moth Manor | 229771 | [229771-moth-manor.json](./229771-moth-manor.json) |
 | Moth Planet | 254585 | [254585-moth-planet.json](./254585-moth-planet.json) |
 | Moth Terra | 376457 | [376457-moth-terra.json](./376457-moth-terra.json) |
+| Moth-Kubit Grimes | 202777 | [202777-moth-kubit-grimes.json](./202777-moth-kubit-grimes.json) |
 | Mothballs | 179701 | [179701-mothballs.json](./179701-mothballs.json) |
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
 | Mother 1+2 | 78585 | [78585-mother-1-2.json](./78585-mother-1-2.json) |
