@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law of Creation 2 | 193935 | [193935-law-of-creation-2.json](./193935-law-of-creation-2.json) |
 | Law of Dispute | 295393 | [295393-law-of-dispute.json](./295393-law-of-dispute.json) |
 | Law School | 347220 | [347220-law-school.json](./347220-law-school.json) |
+| Lawbringer | 234195 | [234195-lawbringer.json](./234195-lawbringer.json) |
 | Lawmage Academy | 125472 | [125472-lawmage-academy.json](./125472-lawmage-academy.json) |
 | Lawn & Order | 177021 | [177021-lawn-and-order.json](./177021-lawn-and-order.json) |
 | Lawn Mower Racing | 353956 | [353956-lawn-mower-racing.json](./353956-lawn-mower-racing.json) |
@@ -1317,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightCells | 368582 | [368582-lightcells.json](./368582-lightcells.json) |
 | Lightening Force: Quest for the Darkstar | 46273 | [46273-lightening-force-quest-for-the-darkstar.json](./46273-lightening-force-quest-for-the-darkstar.json) |
 | Lighter | 114394 | [114394-lighter.json](./114394-lighter.json) |
+| LightFall | 234201 | [234201-lightfall.json](./234201-lightfall.json) |
 | Lightfish | 16271 | [16271-lightfish.json](./16271-lightfish.json) |
 | Lightforce | 28823 | [28823-lightforce.json](./28823-lightforce.json) |
 | Lighthockey | 34352 | [34352-lighthockey.json](./34352-lighthockey.json) |
