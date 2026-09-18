@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From Deep Space | 94751 | [94751-tales-from-deep-space.json](./94751-tales-from-deep-space.json) |
 | Tales from Floating Abyss | 377705 | [377705-tales-from-floating-abyss.json](./377705-tales-from-floating-abyss.json) |
 | Tales From Galaxy 34 | 113027 | [113027-tales-from-galaxy-34.json](./113027-tales-from-galaxy-34.json) |
+| Tales From Hoia Baciu Forest | 202756 | [202756-tales-from-hoia-baciu-forest.json](./202756-tales-from-hoia-baciu-forest.json) |
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
 | Tales from the Commonwealth | 356619 | [356619-tales-from-the-commonwealth.json](./356619-tales-from-the-commonwealth.json) |
 | Tales From the Dark Manor | 414324 | [414324-tales-from-the-dark-manor.json](./414324-tales-from-the-dark-manor.json) |
@@ -1183,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempus is the Ignis | 271319 | [271319-tempus-is-the-ignis.json](./271319-tempus-is-the-ignis.json) |
 | Temtem: Deluxe Edition | 212338 | [212338-temtem-deluxe-edition.json](./212338-temtem-deluxe-edition.json) |
 | Temtem: Pioneers | 397815 | [397815-temtem-pioneers.json](./397815-temtem-pioneers.json) |
+| Ten | 202770 | [202770-ten.json](./202770-ten.json) |
 | Ten Dates | 217256 | [217256-ten-dates.json](./217256-ten-dates.json) |
 | Ten Deadly Games | 378271 | [378271-ten-deadly-games.json](./378271-ten-deadly-games.json) |
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
@@ -3370,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Onion Ring | 329575 | [329575-the-jumping-onion-ring.json](./329575-the-jumping-onion-ring.json) |
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
 | The Jumping Pasta | 214012 | [214012-the-jumping-pasta.json](./214012-the-jumping-pasta.json) |
+| The Jumping Pizza | 202771 | [202771-the-jumping-pizza.json](./202771-the-jumping-pizza.json) |
 | The Jumping Pumpkin | 218555 | [218555-the-jumping-pumpkin.json](./218555-the-jumping-pumpkin.json) |
 | The Jumping Quesadilla | 225756 | [225756-the-jumping-quesadilla.json](./225756-the-jumping-quesadilla.json) |
 | The Jumping Quesadilla: Turbo | 225755 | [225755-the-jumping-quesadilla-turbo.json](./225755-the-jumping-quesadilla-turbo.json) |
@@ -7364,6 +7367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Wars: Tank Battles | 87898 | [87898-toon-wars-tank-battles.json](./87898-toon-wars-tank-battles.json) |
 | Tooncop | 260249 | [260249-tooncop.json](./260249-tooncop.json) |
 | TooneQuest | 407402 | [407402-toonequest.json](./407402-toonequest.json) |
+| Toonkars Racer | 202763 | [202763-toonkars-racer.json](./202763-toonkars-racer.json) |
 | Toontown Online | 25326 | [25326-toontown-online.json](./25326-toontown-online.json) |
 | Toontown Rewritten: Clear Coasts | 373635 | [373635-toontown-rewritten-clear-coasts.json](./373635-toontown-rewritten-clear-coasts.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
@@ -7795,6 +7799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of the Blood Lord | 135837 | [135837-tower-of-the-blood-lord.json](./135837-tower-of-the-blood-lord.json) |
 | Tower of the Deep | 388026 | [388026-tower-of-the-deep.json](./388026-tower-of-the-deep.json) |
 | Tower of the Sage | 195140 | [195140-tower-of-the-sage.json](./195140-tower-of-the-sage.json) |
+| Tower of the Sorceror | 202778 | [202778-tower-of-the-sorceror.json](./202778-tower-of-the-sorceror.json) |
 | Tower of Titans | 375320 | [375320-tower-of-titans.json](./375320-tower-of-titans.json) |
 | Tower of Tori | 339289 | [339289-tower-of-tori.json](./339289-tower-of-tori.json) |
 | Tower of unlife | 180831 | [180831-tower-of-unlife.json](./180831-tower-of-unlife.json) |
@@ -9309,6 +9314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight's Folclore | 374180 | [374180-twilights-folclore.json](./374180-twilights-folclore.json) |
 | Twilight's Ransom | 12805 | [12805-twilights-ransom.json](./12805-twilights-ransom.json) |
 | Twin Bill | 130868 | [130868-twin-bill.json](./130868-twin-bill.json) |
+| Twin Blades of the Three Kingdoms | 202761 | [202761-twin-blades-of-the-three-kingdoms.json](./202761-twin-blades-of-the-three-kingdoms.json) |
 | Twin Breaker: A Sacred Symbols Adventure | 130613 | [130613-twin-breaker-a-sacred-symbols-adventure.json](./130613-twin-breaker-a-sacred-symbols-adventure.json) |
 | Twin Calibre: 688 Attack Sub + Chuck Yeager's Air Combat | 86086 | [86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json](./86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json) |
 | Twin Cards | 277866 | [277866-twin-cards.json](./277866-twin-cards.json) |
