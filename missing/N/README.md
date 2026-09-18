@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakajima Satoru F-1 Hero GB: World Championship '91 | 94204 | [94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json](./94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json) |
 | Nakamers: La Huida | 305946 | [305946-nakamers-la-huida.json](./305946-nakamers-la-huida.json) |
 | Nakamon | 392129 | [392129-nakamon.json](./392129-nakamon.json) |
+| Nakana Bundle 3: Eqqo + Lydia + Stilstand | 207900 | [207900-nakana-bundle-3-eqqo-lydia-stilstand.json](./207900-nakana-bundle-3-eqqo-lydia-stilstand.json) |
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
 | Naked News | 129213 | [129213-naked-news.json](./129213-naked-news.json) |
