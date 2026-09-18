@@ -2907,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distorted Minds | 414409 | [414409-distorted-minds.json](./414409-distorted-minds.json) |
 | Distorted Signal | 413667 | [413667-distorted-signal.json](./413667-distorted-signal.json) |
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
+| Distress | 202245 | [202245-distress.json](./202245-distress.json) |
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
 | Distress: A Choice-Driven Sci-Fi Adventure | 110970 | [110970-distress-a-choice-driven-sci-fi-adventure.json](./110970-distress-a-choice-driven-sci-fi-adventure.json) |
 | Distressed | 320932 | [320932-distressed.json](./320932-distressed.json) |
@@ -4353,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Park Story | 175874 | [175874-dream-park-story.json](./175874-dream-park-story.json) |
 | Dream Ploy Will | 242672 | [242672-dream-ploy-will.json](./242672-dream-ploy-will.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
+| Dream Sequences | 202247 | [202247-dream-sequences.json](./202247-dream-sequences.json) |
 | Dream Shopper | 39629 | [39629-dream-shopper.json](./39629-dream-shopper.json) |
 | Dream Slayers | 342032 | [342032-dream-slayers.json](./342032-dream-slayers.json) |
 | Dream Soccer '94 | 39627 | [39627-dream-soccer-94.json](./39627-dream-soccer-94.json) |
@@ -4371,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Wave'84 | 379870 | [379870-dream-wave84.json](./379870-dream-wave84.json) |
 | Dream Well | 205104 | [205104-dream-well.json](./205104-dream-well.json) |
 | Dream Wires | 180240 | [180240-dream-wires.json](./180240-dream-wires.json) |
+| Dream? | 202246 | [202246-dream.json](./202246-dream.json) |
 | Dreamblood | 280903 | [280903-dreamblood.json](./280903-dreamblood.json) |
 | Dreamboat | 295806 | [295806-dreamboat.json](./295806-dreamboat.json) |
 | DreamCatcher | 312588 | [312588-dreamcatcher.json](./312588-dreamcatcher.json) |
@@ -4411,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams and Nightmares | 146277 | [146277-dreams-and-nightmares.json](./146277-dreams-and-nightmares.json) |
 | Dreams of a Geisha | 264700 | [264700-dreams-of-a-geisha.json](./264700-dreams-of-a-geisha.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
+| Dreams of Dead | 202249 | [202249-dreams-of-dead.json](./202249-dreams-of-dead.json) |
 | Dreams of Joy Departed | 317581 | [317581-dreams-of-joy-departed.json](./317581-dreams-of-joy-departed.json) |
 | Dreams of Sand | 306347 | [306347-dreams-of-sand.json](./306347-dreams-of-sand.json) |
 | Dreams of Solari - Chapter 1 | 120376 | [120376-dreams-of-solari-chapter-1.json](./120376-dreams-of-solari-chapter-1.json) |
@@ -4791,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duet Night Abyss: Silver Torrent, Rising Star | 413599 | [413599-duet-night-abyss-silver-torrent-rising-star.json](./413599-duet-night-abyss-silver-torrent-rising-star.json) |
 | Dufe: Masquerade | 179749 | [179749-dufe-masquerade.json](./179749-dufe-masquerade.json) |
 | Duga | 111752 | [111752-duga.json](./111752-duga.json) |
+| Dugashoba! | 202251 | [202251-dugashoba.json](./202251-dugashoba.json) |
 | Duil | 161348 | [161348-duil.json](./161348-duil.json) |
 | Duilius: The Ancient Duel | 294152 | [294152-duilius-the-ancient-duel.json](./294152-duilius-the-ancient-duel.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
