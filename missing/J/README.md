@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Up 3D: Mini Basketball | 353997 | [353997-jump-up-3d-mini-basketball.json](./353997-jump-up-3d-mini-basketball.json) |
 | Jump Up! Tiny Spaceman | 200121 | [200121-jump-up-tiny-spaceman.json](./200121-jump-up-tiny-spaceman.json) |
 | Jump Without Reason | 124252 | [124252-jump-without-reason.json](./124252-jump-without-reason.json) |
+| Jump Yuusha | 222423 | [222423-jump-yuusha.json](./222423-jump-yuusha.json) |
 | Jump, Race, Fly | 264903 | [264903-jump-race-fly.json](./264903-jump-race-fly.json) |
 | Jump, Step, Step | 29864 | [29864-jump-step-step.json](./29864-jump-step-step.json) |
 | Jump: Assemble | 268747 | [268747-jump-assemble.json](./268747-jump-assemble.json) |
