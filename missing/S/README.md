@@ -1725,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Play: BDSM | 263760 | [263760-sex-play-bdsm.json](./263760-sex-play-bdsm.json) |
 | Sex Play: The Sauna | 264636 | [264636-sex-play-the-sauna.json](./264636-sex-play-the-sauna.json) |
 | Sex Play: Tropical Vacation | 272934 | [272934-sex-play-tropical-vacation.json](./272934-sex-play-tropical-vacation.json) |
+| Sex Search | 230950 | [230950-sex-search.json](./230950-sex-search.json) |
 | Sex Shop Simulator | 330188 | [330188-sex-shop-simulator.json](./330188-sex-shop-simulator.json) |
 | Sex Shop Simulator: X-RAY Desire | 385047 | [385047-sex-shop-simulator-x-ray-desire.json](./385047-sex-shop-simulator-x-ray-desire.json) |
 | Sex Simulator: Bar Staff | 280342 | [280342-sex-simulator-bar-staff.json](./280342-sex-simulator-bar-staff.json) |
@@ -1788,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
 | SGS Battle For: Stalingrad | 244900 | [244900-sgs-battle-for-stalingrad.json](./244900-sgs-battle-for-stalingrad.json) |
 | SGS Pacific D-Day | 197415 | [197415-sgs-pacific-d-day.json](./197415-sgs-pacific-d-day.json) |
+| SGS Taipings | 230923 | [230923-sgs-taipings.json](./230923-sgs-taipings.json) |
 | SGS We The People | 388972 | [388972-sgs-we-the-people.json](./388972-sgs-we-the-people.json) |
 | Sha Beast Dressage | 371269 | [371269-sha-beast-dressage.json](./371269-sha-beast-dressage.json) |
 | Shaberu! DS Cooking Navi | 345570 | [345570-shaberu-ds-cooking-navi.json](./345570-shaberu-ds-cooking-navi.json) |
@@ -2553,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Your Friends | 154562 | [154562-shoot-your-friends.json](./154562-shoot-your-friends.json) |
 | Shoot Yourself With a Rifle | 336531 | [336531-shoot-yourself-with-a-rifle.json](./336531-shoot-yourself-with-a-rifle.json) |
 | Shoot-No-Shoot | 107805 | [107805-shoot-no-shoot.json](./107805-shoot-no-shoot.json) |
+| Shoot! VR | 230948 | [230948-shoot-vr.json](./230948-shoot-vr.json) |
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
 | Shooter95 | 375307 | [375307-shooter95.json](./375307-shooter95.json) |
@@ -4130,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
 | Snake Roy | 210642 | [210642-snake-roy.json](./210642-snake-roy.json) |
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
+| Snake-a-roni | 230937 | [230937-snake-a-roni.json](./230937-snake-a-roni.json) |
 | Snake-O-Tron | 288239 | [288239-snake-o-tron.json](./288239-snake-o-tron.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
