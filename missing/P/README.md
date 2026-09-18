@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Heroes: Tales of Emond | 294690 | [294690-pixel-heroes-tales-of-emond.json](./294690-pixel-heroes-tales-of-emond.json) |
 | Pixel Horizons | 341572 | [341572-pixel-horizons.json](./341572-pixel-horizons.json) |
 | Pixel House: Color by Number | 328494 | [328494-pixel-house-color-by-number.json](./328494-pixel-house-color-by-number.json) |
+| Pixel Knights Online | 227375 | [227375-pixel-knights-online.json](./227375-pixel-knights-online.json) |
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel Miner | 333639 | [333639-pixel-miner.json](./333639-pixel-miner.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
@@ -3878,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect: All Day and a Night | 234041 | [234041-prison-architect-all-day-and-a-night.json](./234041-prison-architect-all-day-and-a-night.json) |
 | Prison Architect: Cleared for Transfer | 148528 | [148528-prison-architect-cleared-for-transfer.json](./148528-prison-architect-cleared-for-transfer.json) |
 | Prison Architect: Free for life | 220655 | [220655-prison-architect-free-for-life.json](./220655-prison-architect-free-for-life.json) |
+| Prison Architect: Future Tech Pack | 227356 | [227356-prison-architect-future-tech-pack.json](./227356-prison-architect-future-tech-pack.json) |
 | Prison Architect: Gangs | 203348 | [203348-prison-architect-gangs.json](./203348-prison-architect-gangs.json) |
 | Prison Architect: Going Green | 148530 | [148530-prison-architect-going-green.json](./148530-prison-architect-going-green.json) |
 | Prison Architect: Island Bound | 133947 | [133947-prison-architect-island-bound.json](./133947-prison-architect-island-bound.json) |
