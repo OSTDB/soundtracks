@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinsei 8-man-7000-kai no Shokuji wo Tanoshiku suru: Oishiku Kiwameru Shokutsuu DS - Otona no Shuumatsu Henshuu-bu Gensen no Osusume Tenpo Jouhou Iri | 269591 | [269591-jinsei-8-man-7000-kai-no-shokuji-wo-tanoshiku-suru-oishiku-kiwameru-shokutsuu-ds-otona-no-shuumatsu-henshuu-bu-gensen-no-osusume-tenpo-jouhou-iri.json](./269591-jinsei-8-man-7000-kai-no-shokuji-wo-tanoshiku-suru-oishiku-kiwameru-shokutsuu-ds-otona-no-shuumatsu-henshuu-bu-gensen-no-osusume-tenpo-jouhou-iri.json) |
 | Jinsei Game 64 | 3530 | [3530-jinsei-game-64.json](./3530-jinsei-game-64.json) |
 | Jinsei Game for Dreamcast | 131569 | [131569-jinsei-game-for-dreamcast.json](./131569-jinsei-game-for-dreamcast.json) |
+| Jinsei Game: Tomodachi Takusan Tsukurou yo! | 228565 | [228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json](./228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json) |
 | Jinx 3: Escape From Area Fitty-Two | 383493 | [383493-jinx-3-escape-from-area-fitty-two.json](./383493-jinx-3-escape-from-area-fitty-two.json) |
 | Jīnyōng Qúnxiá Zhuán | 78043 | [78043-jinyong-qunxia-zhuan.json](./78043-jinyong-qunxia-zhuan.json) |
 | JiPS | 33203 | [33203-jips.json](./33203-jips.json) |
@@ -789,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jubeat Prop | 268568 | [268568-jubeat-prop.json](./268568-jubeat-prop.json) |
 | Jubeat Ripples | 91903 | [91903-jubeat-ripples.json](./91903-jubeat-ripples.json) |
 | Jubilane | 165696 | [165696-jubilane.json](./165696-jubilane.json) |
+| Judas | 228527 | [228527-judas.json](./228527-judas.json) |
 | Judas | 29714 | [29714-judas.json](./29714-judas.json) |
 | Jude | 172141 | [172141-jude.json](./172141-jude.json) |
 | Judge Dredd | 4387 | [4387-judge-dredd.json](./4387-judge-dredd.json) |
@@ -965,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Jinx | 355563 | [355563-jungle-jinx.json](./355563-jungle-jinx.json) |
 | Jungle Maths | 319585 | [319585-jungle-maths.json](./319585-jungle-maths.json) |
 | Jungle Monk | 78627 | [78627-jungle-monk.json](./78627-jungle-monk.json) |
+| Jungle no Ouja Tar-chan | 228568 | [228568-jungle-no-ouja-tar-chan.json](./228568-jungle-no-ouja-tar-chan.json) |
 | Jungle no Ouja Tar-chan: Sekai Manyu Dai Kakutou no Maki | 38313 | [38313-jungle-no-ouja-tar-chan-sekai-manyu-dai-kakutou-no-maki.json](./38313-jungle-no-ouja-tar-chan-sekai-manyu-dai-kakutou-no-maki.json) |
 | Jungle Panic Amidahebi | 385745 | [385745-jungle-panic-amidahebi.json](./385745-jungle-panic-amidahebi.json) |
 | Jungle Quest | 230283 | [230283-jungle-quest.json](./230283-jungle-quest.json) |
@@ -1139,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JustWatchMyCat | 257380 | [257380-justwatchmycat.json](./257380-justwatchmycat.json) |
 | Juuden Youshuugi: Crimson Paraselene | 253929 | [253929-juuden-youshuugi-crimson-paraselene.json](./253929-juuden-youshuugi-crimson-paraselene.json) |
 | Juuken Sentai Gekiranger: Niki-niki! Kazu Katachi ni Challenge! | 327594 | [327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json](./327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json) |
+| Juukou Senki: Bullet Battlers | 228567 | [228567-juukou-senki-bullet-battlers.json](./228567-juukou-senki-bullet-battlers.json) |
 | Juuryoku Shisen-shou | 206352 | [206352-juuryoku-shisen-shou.json](./206352-juuryoku-shisen-shou.json) |
 | Juuyoku no Jousai | 134624 | [134624-juuyoku-no-jousai.json](./134624-juuyoku-no-jousai.json) |
 | Juuzaengi: Engetsu Sangoku Den 1 & 2 | 135859 | [135859-juuzaengi-engetsu-sangoku-den-1-and-2.json](./135859-juuzaengi-engetsu-sangoku-den-1-and-2.json) |
