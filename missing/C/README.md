@@ -3717,6 +3717,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction: Action - Player: E-48-# - Underground Expedition | 354491 | [354491-construction-action-player-e-48-underground-expedition.json](./354491-construction-action-player-e-48-underground-expedition.json) |
 | Construction: Action - Player: F-47-# - Fisherman | 354490 | [354490-construction-action-player-f-47-fisherman.json](./354490-construction-action-player-f-47-fisherman.json) |
 | Construction: Action - Player: F-48-# - Apricorn Maker | 354484 | [354484-construction-action-player-f-48-apricorn-maker.json](./354484-construction-action-player-f-48-apricorn-maker.json) |
+| Constructor: Building Pack 1 - World Tenant Buildings | 226839 | [226839-constructor-building-pack-1-world-tenant-buildings.json](./226839-constructor-building-pack-1-world-tenant-buildings.json) |
+| Constructor: Building Pack 2 Made in America | 226840 | [226840-constructor-building-pack-2-made-in-america.json](./226840-constructor-building-pack-2-made-in-america.json) |
 | Consult Me Before Opening A Snack Shop | 280350 | [280350-consult-me-before-opening-a-snack-shop.json](./280350-consult-me-before-opening-a-snack-shop.json) |
 | Consume Thy Flesh: The Pumpkin Smashing Sim | 189137 | [189137-consume-thy-flesh-the-pumpkin-smashing-sim.json](./189137-consume-thy-flesh-the-pumpkin-smashing-sim.json) |
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
@@ -4314,6 +4316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CragEx-5 | 346125 | [346125-cragex-5.json](./346125-cragex-5.json) |
 | Craggenrock | 207498 | [207498-craggenrock.json](./207498-craggenrock.json) |
 | Craggfall | 415157 | [415157-craggfall.json](./415157-craggfall.json) |
+| CraMagear | 226833 | [226833-cramagear.json](./226833-cramagear.json) |
 | Cramit's Keep | 186846 | [186846-cramits-keep.json](./186846-cramits-keep.json) |
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
@@ -4377,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Test Idiot | 193419 | [193419-crash-test-idiot.json](./193419-crash-test-idiot.json) |
 | Crash Test Idiots 2: Multiplayer | 278692 | [278692-crash-test-idiots-2-multiplayer.json](./278692-crash-test-idiots-2-multiplayer.json) |
 | Crash the Game | 129703 | [129703-crash-the-game.json](./129703-crash-the-game.json) |
+| Crash Time: Undercover | 226834 | [226834-crash-time-undercover.json](./226834-crash-time-undercover.json) |
 | Crash Twinsanity | 210234 | [210234-crash-twinsanity.json](./210234-crash-twinsanity.json) |
 | Crash Twinsanity 3D | 210232 | [210232-crash-twinsanity-3d.json](./210232-crash-twinsanity-3d.json) |
 | Crash vs. Spyro Racing | 269687 | [269687-crash-vs-spyro-racing.json](./269687-crash-vs-spyro-racing.json) |
@@ -4792,16 +4796,33 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
 | Crossnumber: Math Puzzle Game | 232543 | [232543-crossnumber-math-puzzle-game.json](./232543-crossnumber-math-puzzle-game.json) |
 | Crossout: “Phantom” | 331997 | [331997-crossout-phantom.json](./331997-crossout-phantom.json) |
+| Crossout: Arsonist Pack | 226820 | [226820-crossout-arsonist-pack.json](./226820-crossout-arsonist-pack.json) |
 | Crossout: Biter Starter Pack | 243105 | [243105-crossout-biter-starter-pack.json](./243105-crossout-biter-starter-pack.json) |
 | Crossout: Bone Hunter | 331995 | [331995-crossout-bone-hunter.json](./331995-crossout-bone-hunter.json) |
+| Crossout: Born Free Pack | 226821 | [226821-crossout-born-free-pack.json](./226821-crossout-born-free-pack.json) |
 | Crossout: Cleaner Starter Pack | 243104 | [243104-crossout-cleaner-starter-pack.json](./243104-crossout-cleaner-starter-pack.json) |
+| Crossout: Corrida Pack | 226822 | [226822-crossout-corrida-pack.json](./226822-crossout-corrida-pack.json) |
+| Crossout: Day of the Dead Pack | 226823 | [226823-crossout-day-of-the-dead-pack.json](./226823-crossout-day-of-the-dead-pack.json) |
+| Crossout: Drive Pack | 226824 | [226824-crossout-drive-pack.json](./226824-crossout-drive-pack.json) |
 | Crossout: Electric beetle | 293760 | [293760-crossout-electric-beetle.json](./293760-crossout-electric-beetle.json) |
+| Crossout: Family Holiday Pack | 226825 | [226825-crossout-family-holiday-pack.json](./226825-crossout-family-holiday-pack.json) |
 | Crossout: Horsemen of Apocalypse - Famine | 331996 | [331996-crossout-horsemen-of-apocalypse-famine.json](./331996-crossout-horsemen-of-apocalypse-famine.json) |
+| Crossout: Insomnia Pack | 226826 | [226826-crossout-insomnia-pack.json](./226826-crossout-insomnia-pack.json) |
+| Crossout: Iron Shield Pack | 226827 | [226827-crossout-iron-shield-pack.json](./226827-crossout-iron-shield-pack.json) |
+| Crossout: Pandemic Pack | 226828 | [226828-crossout-pandemic-pack.json](./226828-crossout-pandemic-pack.json) |
+| Crossout: Polymorph pack | 226829 | [226829-crossout-polymorph-pack.json](./226829-crossout-polymorph-pack.json) |
 | Crossout: Ronin | 298171 | [298171-crossout-ronin.json](./298171-crossout-ronin.json) |
 | Crossout: Ronin - Deluxe Edition | 298172 | [298172-crossout-ronin-deluxe-edition.json](./298172-crossout-ronin-deluxe-edition.json) |
 | Crossout: Ronin - Lite Edition | 298173 | [298173-crossout-ronin-lite-edition.json](./298173-crossout-ronin-lite-edition.json) |
 | Crossout: Savior | 235767 | [235767-crossout-savior.json](./235767-crossout-savior.json) |
+| Crossout: Snake Bite Pack | 226830 | [226830-crossout-snake-bite-pack.json](./226830-crossout-snake-bite-pack.json) |
 | Crossout: Steel shield | 293766 | [293766-crossout-steel-shield.json](./293766-crossout-steel-shield.json) |
+| Crossout: The Inventor Pack | 226831 | [226831-crossout-the-inventor-pack.json](./226831-crossout-the-inventor-pack.json) |
+| Crossout: The Tramp Pack | 226832 | [226832-crossout-the-tramp-pack.json](./226832-crossout-the-tramp-pack.json) |
+| Crossout: Triad - The Keeper pack | 226835 | [226835-crossout-triad-the-keeper-pack.json](./226835-crossout-triad-the-keeper-pack.json) |
+| Crossout: Valentine's day pack | 226836 | [226836-crossout-valentines-day-pack.json](./226836-crossout-valentines-day-pack.json) |
+| Crossout: Wasteland Warrior Pack | 226837 | [226837-crossout-wasteland-warrior-pack.json](./226837-crossout-wasteland-warrior-pack.json) |
+| Crossout: Wholesale Recall Pack | 226838 | [226838-crossout-wholesale-recall-pack.json](./226838-crossout-wholesale-recall-pack.json) |
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
 | CrossOver: Roll For Initiative | 202861 | [202861-crossover-roll-for-initiative.json](./202861-crossover-roll-for-initiative.json) |
 | Crossroad of Worlds: Cursed Letters - Collector's Edition | 257434 | [257434-crossroad-of-worlds-cursed-letters-collectors-edition.json](./257434-crossroad-of-worlds-cursed-letters-collectors-edition.json) |
