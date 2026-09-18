@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
 | Celeste Classic | 215762 | [215762-celeste-classic.json](./215762-celeste-classic.json) |
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
+| Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
 | Celestial Crossing | 29983 | [29983-celestial-crossing.json](./29983-celestial-crossing.json) |
 | Celestial Crusade | 122983 | [122983-celestial-crusade.json](./122983-celestial-crusade.json) |
@@ -3011,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clubhouse Games | 18597 | [18597-clubhouse-games.json](./18597-clubhouse-games.json) |
 | Clubhouse Games Express: Card Classics | 70418 | [70418-clubhouse-games-express-card-classics.json](./70418-clubhouse-games-express-card-classics.json) |
 | Cluck | 195184 | [195184-cluck.json](./195184-cluck.json) |
+| Cluck Cluck'em | 183456 | [183456-cluck-cluckem.json](./183456-cluck-cluckem.json) |
 | Cludbugz's Twisted Magic | 51969 | [51969-cludbugzs-twisted-magic.json](./51969-cludbugzs-twisted-magic.json) |
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
 | Clue Kaguya-sama: Love is War | 262363 | [262363-clue-kaguya-sama-love-is-war.json](./262363-clue-kaguya-sama-love-is-war.json) |
