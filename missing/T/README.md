@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Mathasia | 239743 | [239743-tales-of-mathasia.json](./239743-tales-of-mathasia.json) |
 | Tales of Medieval Duelists | 389982 | [389982-tales-of-medieval-duelists.json](./389982-tales-of-medieval-duelists.json) |
 | Tales of Middle Earth | 326278 | [326278-tales-of-middle-earth.json](./326278-tales-of-middle-earth.json) |
+| Tales of Misteria | 204551 | [204551-tales-of-misteria.json](./204551-tales-of-misteria.json) |
 | Tales of Monkey Island: Chapter 3 - Lair of the Leviathan | 81269 | [81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json](./81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json) |
 | Tales of Moriviha: Deadly Secret | 276162 | [276162-tales-of-moriviha-deadly-secret.json](./276162-tales-of-moriviha-deadly-secret.json) |
 | Tales of Nebezem RPG: Red Peril | 115609 | [115609-tales-of-nebezem-rpg-red-peril.json](./115609-tales-of-nebezem-rpg-red-peril.json) |
@@ -7473,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornblade | 386880 | [386880-tornblade.json](./386880-tornblade.json) |
 | Toro to Typing | 246071 | [246071-toro-to-typing.json](./246071-toro-to-typing.json) |
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
+| Toroa: Skycall | 204521 | [204521-toroa-skycall.json](./204521-toroa-skycall.json) |
 | Torpedo Boat | 239648 | [239648-torpedo-boat.json](./239648-torpedo-boat.json) |
 | Torque Drift 2 | 271277 | [271277-torque-drift-2.json](./271277-torque-drift-2.json) |
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
@@ -7698,6 +7700,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Thousand Night Anamnesis | 197337 | [197337-touhou-thousand-night-anamnesis.json](./197337-touhou-thousand-night-anamnesis.json) |
 | Touhou Three Noisy Fairies' Adventure: Take It Easy | 373005 | [373005-touhou-three-noisy-fairies-adventure-take-it-easy.json](./373005-touhou-three-noisy-fairies-adventure-take-it-easy.json) |
 | Touhou Tougensai | 334137 | [334137-touhou-tougensai.json](./334137-touhou-tougensai.json) |
+| Touhou Tower Defense Aigisyu | 204558 | [204558-touhou-tower-defense-aigisyu.json](./204558-touhou-tower-defense-aigisyu.json) |
+| Touhou Tower Defense Aigisyu: Complete Edition | 204559 | [204559-touhou-tower-defense-aigisyu-complete-edition.json](./204559-touhou-tower-defense-aigisyu-complete-edition.json) |
 | Touhou Volleyball | 351605 | [351605-touhou-volleyball.json](./351605-touhou-volleyball.json) |
 | Touhou Witch's Night Market | 380424 | [380424-touhou-witchs-night-market.json](./380424-touhou-witchs-night-market.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
