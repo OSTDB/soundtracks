@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ECW Hardcore Revolution | 3483 | [3483-ecw-hardcore-revolution.json](./3483-ecw-hardcore-revolution.json) |
 | Ed & Edda: Grand Prix – Racing Champions | 346020 | [346020-ed-and-edda-grand-prix-racing-champions.json](./346020-ed-and-edda-grand-prix-racing-champions.json) |
 | Ed Chess | 93042 | [93042-ed-chess.json](./93042-ed-chess.json) |
+| Ed-0: Zombie Uprising | 195077 | [195077-ed-0-zombie-uprising.json](./195077-ed-0-zombie-uprising.json) |
 | Ed, Edd n Eddy: Cul-de-Sac Smash | 374686 | [374686-ed-edd-n-eddy-cul-de-sac-smash.json](./374686-ed-edd-n-eddy-cul-de-sac-smash.json) |
 | Ed, Edd n Eddy: Scam of the Century | 2817 | [2817-ed-edd-n-eddy-scam-of-the-century.json](./2817-ed-edd-n-eddy-scam-of-the-century.json) |
 | Ed, Edd n Eddy: The Mis-Edventures | 2722 | [2722-ed-edd-n-eddy-the-mis-edventures.json](./2722-ed-edd-n-eddy-the-mis-edventures.json) |
@@ -470,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egregore | 310046 | [310046-egregore.json](./310046-egregore.json) |
 | Egress Protocol | 375856 | [375856-egress-protocol.json](./375856-egress-protocol.json) |
 | Egret II Mini: Arcade Memories Vol. II | 265645 | [265645-egret-ii-mini-arcade-memories-vol-ii.json](./265645-egret-ii-mini-arcade-memories-vol-ii.json) |
+| Egypt Collection | 195099 | [195099-egypt-collection.json](./195099-egypt-collection.json) |
 | Egypt Frontiers | 266293 | [266293-egypt-frontiers.json](./266293-egypt-frontiers.json) |
 | Egypt Solitaire: Match 2 Cards | 127237 | [127237-egypt-solitaire-match-2-cards.json](./127237-egypt-solitaire-match-2-cards.json) |
 | Egypt: Old Kingdom - Master of History | 124796 | [124796-egypt-old-kingdom-master-of-history.json](./124796-egypt-old-kingdom-master-of-history.json) |
@@ -1415,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
 | Escape Darkness | 290550 | [290550-escape-darkness.json](./290550-escape-darkness.json) |
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
+| Escape Down | 195102 | [195102-escape-down.json](./195102-escape-down.json) |
 | Escape Dream | 236384 | [236384-escape-dream.json](./236384-escape-dream.json) |
 | Escape DuckZ! | 329019 | [329019-escape-duckz.json](./329019-escape-duckz.json) |
 | Escape Evolution | 179180 | [179180-escape-evolution.json](./179180-escape-evolution.json) |
