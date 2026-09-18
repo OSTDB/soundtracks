@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.R.B.A.N The Cyborg Project | 126029 | [126029-u-r-b-a-n-the-cyborg-project.json](./126029-u-r-b-a-n-the-cyborg-project.json) |
 | U.S. Navy Fighters | 79890 | [79890-u-s-navy-fighters.json](./79890-u-s-navy-fighters.json) |
 | U.S.A. Football | 93576 | [93576-u-s-a-football.json](./93576-u-s-a-football.json) |
+| U.S.G. A New Beginning | 216332 | [216332-u-s-g-a-new-beginning.json](./216332-u-s-g-a-new-beginning.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | Ubaste | 218474 | [218474-ubaste.json](./218474-ubaste.json) |
 | UBeat | 91921 | [91921-ubeat.json](./91921-ubeat.json) |
