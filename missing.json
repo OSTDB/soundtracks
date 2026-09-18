@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T11:02:23.462Z",
-  "total_missing": 87121,
+  "generated_at": "2026-09-18T11:17:28.501Z",
+  "total_missing": 87171,
   "games": [
     {
       "igdb_id": 273453,
@@ -63583,6 +63583,11 @@
       "file": "missing/C/319787-cinderella-princess-of-the-magic-kingdom.json"
     },
     {
+      "igdb_id": 209034,
+      "game_name": "Cinderella's Dollhouse",
+      "file": "missing/C/209034-cinderellas-dollhouse.json"
+    },
+    {
       "igdb_id": 184037,
       "game_name": "Cinderella's Spark",
       "file": "missing/C/184037-cinderellas-spark.json"
@@ -81203,6 +81208,16 @@
       "file": "missing/D/168323-dance-of-the-vampires.json"
     },
     {
+      "igdb_id": 209002,
+      "game_name": "Dance Praise 2: The ReMix",
+      "file": "missing/D/209002-dance-praise-2-the-remix.json"
+    },
+    {
+      "igdb_id": 209001,
+      "game_name": "Dance Praise: The Original",
+      "file": "missing/D/209001-dance-praise-the-original.json"
+    },
+    {
       "igdb_id": 89824,
       "game_name": "Dance School Stories",
       "file": "missing/D/89824-dance-school-stories.json"
@@ -81231,6 +81246,16 @@
       "igdb_id": 339794,
       "game_name": "Dance! Dance! Dance!",
       "file": "missing/D/339794-dance-dance-dance.json"
+    },
+    {
+      "igdb_id": 209000,
+      "game_name": "Dance! It's Your Stage",
+      "file": "missing/D/209000-dance-its-your-stage.json"
+    },
+    {
+      "igdb_id": 208998,
+      "game_name": "DanceDanceRevolution: Classroom Edition",
+      "file": "missing/D/208998-dancedancerevolution-classroom-edition.json"
     },
     {
       "igdb_id": 346162,
@@ -82703,6 +82728,11 @@
       "file": "missing/D/370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json"
     },
     {
+      "igdb_id": 209007,
+      "game_name": "Dark Tales: Edgar Allan Poe's Murders in the Rue Morgue - Collector's Edition",
+      "file": "missing/D/209007-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue-collectors-edition.json"
+    },
+    {
       "igdb_id": 201826,
       "game_name": "Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition",
       "file": "missing/D/201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json"
@@ -83131,6 +83161,11 @@
       "igdb_id": 25081,
       "game_name": "Darksiders: Warmastered Edition",
       "file": "missing/D/25081-darksiders-warmastered-edition.json"
+    },
+    {
+      "igdb_id": 209027,
+      "game_name": "DarkSpace",
+      "file": "missing/D/209027-darkspace.json"
     },
     {
       "igdb_id": 193467,
@@ -85783,6 +85818,11 @@
       "file": "missing/D/373616-deadzone-rogue-apophis.json"
     },
     {
+      "igdb_id": 209006,
+      "game_name": "Deal or No Deal: Secret Vault Games",
+      "file": "missing/D/209006-deal-or-no-deal-secret-vault-games.json"
+    },
+    {
       "igdb_id": 350487,
       "game_name": "Deal With the Devil Chapter: 2 - From Tuonela to Hell",
       "file": "missing/D/350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json"
@@ -87471,6 +87511,11 @@
       "igdb_id": 328067,
       "game_name": "Deez Shells",
       "file": "missing/D/328067-deez-shells.json"
+    },
+    {
+      "igdb_id": 209012,
+      "game_name": "Def Jam Fight for NY Mobile",
+      "file": "missing/D/209012-def-jam-fight-for-ny-mobile.json"
     },
     {
       "igdb_id": 254164,
@@ -92918,6 +92963,11 @@
       "file": "missing/D/212909-dinolife.json"
     },
     {
+      "igdb_id": 209019,
+      "game_name": "DinoMight Baseball",
+      "file": "missing/D/209019-dinomight-baseball.json"
+    },
+    {
       "igdb_id": 273648,
       "game_name": "Dinopunk: The Cacops Adventure",
       "file": "missing/D/273648-dinopunk-the-cacops-adventure.json"
@@ -94093,6 +94143,11 @@
       "file": "missing/D/21086-disneys-a-christmas-carol.json"
     },
     {
+      "igdb_id": 209035,
+      "game_name": "Disney's Activity Center: Winnie the Pooh",
+      "file": "missing/D/209035-disneys-activity-center-winnie-the-pooh.json"
+    },
+    {
       "igdb_id": 167278,
       "game_name": "Disney's Adventures in Typing with Timon & Pumbaa",
       "file": "missing/D/167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json"
@@ -94258,6 +94313,11 @@
       "file": "missing/D/49404-disneys-the-little-mermaid-magic-in-two-kingdoms.json"
     },
     {
+      "igdb_id": 209031,
+      "game_name": "Disney's Tigger Activity Center",
+      "file": "missing/D/209031-disneys-tigger-activity-center.json"
+    },
+    {
       "igdb_id": 213035,
       "game_name": "Disney's Treasure Planet: Broadside Blast",
       "file": "missing/D/213035-disneys-treasure-planet-broadside-blast.json"
@@ -94273,6 +94333,11 @@
       "file": "missing/D/213025-disneys-treasure-planet-treasure-racer.json"
     },
     {
+      "igdb_id": 209032,
+      "game_name": "Disney's Winnie the Pooh & Tigger Too: Animated Storybook",
+      "file": "missing/D/209032-disneys-winnie-the-pooh-and-tigger-too-animated-storybook.json"
+    },
+    {
       "igdb_id": 69231,
       "game_name": "Disney's Winnie the Pooh Preschool",
       "file": "missing/D/69231-disneys-winnie-the-pooh-preschool.json"
@@ -94281,6 +94346,11 @@
       "igdb_id": 82097,
       "game_name": "Disney's Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3",
       "file": "missing/D/82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json"
+    },
+    {
+      "igdb_id": 209033,
+      "game_name": "Disney's You Can Fly! with Tinker Bell",
+      "file": "missing/D/209033-disneys-you-can-fly-with-tinker-bell.json"
     },
     {
       "igdb_id": 108251,
@@ -136848,6 +136918,11 @@
       "file": "missing/F/236936-furry-owo.json"
     },
     {
+      "igdb_id": 209022,
+      "game_name": "Furry Pet Dog Yiff Hentai",
+      "file": "missing/F/209022-furry-pet-dog-yiff-hentai.json"
+    },
+    {
       "igdb_id": 148570,
       "game_name": "Furry Pride",
       "file": "missing/F/148570-furry-pride.json"
@@ -162526,6 +162601,11 @@
       "igdb_id": 102733,
       "game_name": "Hidden Object Bachelorette",
       "file": "missing/H/102733-hidden-object-bachelorette.json"
+    },
+    {
+      "igdb_id": 209037,
+      "game_name": "Hidden Object Classic: Treasures II",
+      "file": "missing/H/209037-hidden-object-classic-treasures-ii.json"
     },
     {
       "igdb_id": 105961,
@@ -223603,6 +223683,11 @@
       "file": "missing/M/307593-micro-quest.json"
     },
     {
+      "igdb_id": 209025,
+      "game_name": "Micro Scooter Challenge",
+      "file": "missing/M/209025-micro-scooter-challenge.json"
+    },
+    {
       "igdb_id": 221847,
       "game_name": "Micro Slaughter Community Project",
       "file": "missing/M/221847-micro-slaughter-community-project.json"
@@ -225556,6 +225641,11 @@
       "igdb_id": 27763,
       "game_name": "Mind-Machine Interface",
       "file": "missing/M/27763-mind-machine-interface.json"
+    },
+    {
+      "igdb_id": 209013,
+      "game_name": "Mind, Body & Soul: Nutrition Matters",
+      "file": "missing/M/209013-mind-body-and-soul-nutrition-matters.json"
     },
     {
       "igdb_id": 361239,
@@ -237221,6 +237311,11 @@
       "igdb_id": 303103,
       "game_name": "My Girlfriend is... Centaur",
       "file": "missing/M/303103-my-girlfriend-is-centaur.json"
+    },
+    {
+      "igdb_id": 209021,
+      "game_name": "My Girlfriend Loves a Mystery",
+      "file": "missing/M/209021-my-girlfriend-loves-a-mystery.json"
     },
     {
       "igdb_id": 240481,
@@ -250463,6 +250558,11 @@
       "file": "missing/N/131557-nurse-love-obsession.json"
     },
     {
+      "igdb_id": 209014,
+      "game_name": "Nursery Mania",
+      "file": "missing/N/209014-nursery-mania.json"
+    },
+    {
       "igdb_id": 69306,
       "game_name": "Nursery Rhyme",
       "file": "missing/N/69306-nursery-rhyme.json"
@@ -251193,6 +251293,11 @@
       "file": "missing/O/127220-ocean-drive-challenge-remastered.json"
     },
     {
+      "igdb_id": 209030,
+      "game_name": "Ocean Explorer Tycoon",
+      "file": "missing/O/209030-ocean-explorer-tycoon.json"
+    },
+    {
       "igdb_id": 381737,
       "game_name": "Ocean Fishooter",
       "file": "missing/O/381737-ocean-fishooter.json"
@@ -251251,6 +251356,11 @@
       "igdb_id": 261863,
       "game_name": "Ocean Scramble: Age of Exploration",
       "file": "missing/O/261863-ocean-scramble-age-of-exploration.json"
+    },
+    {
+      "igdb_id": 209028,
+      "game_name": "Ocean Voyager",
+      "file": "missing/O/209028-ocean-voyager.json"
     },
     {
       "igdb_id": 74372,
@@ -252993,6 +253103,11 @@
       "file": "missing/O/185069-omamori.json"
     },
     {
+      "igdb_id": 208997,
+      "game_name": "Omar Sharif Bridge II",
+      "file": "missing/O/208997-omar-sharif-bridge-ii.json"
+    },
+    {
       "igdb_id": 357219,
       "game_name": "Omashu: Snail Racing",
       "file": "missing/O/357219-omashu-snail-racing.json"
@@ -254728,6 +254843,11 @@
       "file": "missing/O/307597-one-slime-army.json"
     },
     {
+      "igdb_id": 209024,
+      "game_name": "One Small Square Backyard",
+      "file": "missing/O/209024-one-small-square-backyard.json"
+    },
+    {
       "igdb_id": 28695,
       "game_name": "One Strike",
       "file": "missing/O/28695-one-strike.json"
@@ -255708,6 +255828,16 @@
       "file": "missing/O/314022-openguessr.json"
     },
     {
+      "igdb_id": 208993,
+      "game_name": "Opening Weekend: Bear Season",
+      "file": "missing/O/208993-opening-weekend-bear-season.json"
+    },
+    {
+      "igdb_id": 208992,
+      "game_name": "Opening Weekend: Big Cat Season",
+      "file": "missing/O/208992-opening-weekend-big-cat-season.json"
+    },
+    {
       "igdb_id": 138233,
       "game_name": "OpenLoco",
       "file": "missing/O/138233-openloco.json"
@@ -255976,6 +256106,11 @@
       "igdb_id": 337987,
       "game_name": "Operation: Hostage Rescue",
       "file": "missing/O/337987-operation-hostage-rescue.json"
+    },
+    {
+      "igdb_id": 208989,
+      "game_name": "Operation: Hostage Rescue - Close Quarters Combat",
+      "file": "missing/O/208989-operation-hostage-rescue-close-quarters-combat.json"
     },
     {
       "igdb_id": 69216,
@@ -259351,6 +259486,11 @@
       "igdb_id": 254574,
       "game_name": "Ozmafia!! 0 Reflexion",
       "file": "missing/O/254574-ozmafia-0-reflexion.json"
+    },
+    {
+      "igdb_id": 208988,
+      "game_name": "Ozone",
+      "file": "missing/O/208988-ozone.json"
     },
     {
       "igdb_id": 327203,
@@ -297078,6 +297218,11 @@
       "file": "missing/R/320954-ring-fit-adventure-rhythm-game.json"
     },
     {
+      "igdb_id": 209020,
+      "game_name": "Ring Jongg",
+      "file": "missing/R/209020-ring-jongg.json"
+    },
+    {
       "igdb_id": 48208,
       "game_name": "Ring King",
       "file": "missing/R/48208-ring-king.json"
@@ -300643,9 +300788,24 @@
       "file": "missing/R/119158-roller-champions.json"
     },
     {
+      "igdb_id": 209003,
+      "game_name": "Roller Coaster Factory",
+      "file": "missing/R/209003-roller-coaster-factory.json"
+    },
+    {
+      "igdb_id": 209004,
+      "game_name": "Roller Coaster Factory 3",
+      "file": "missing/R/209004-roller-coaster-factory-3.json"
+    },
+    {
       "igdb_id": 16359,
       "game_name": "Roller Coaster Rampage",
       "file": "missing/R/16359-roller-coaster-rampage.json"
+    },
+    {
+      "igdb_id": 209008,
+      "game_name": "Roller Rush",
+      "file": "missing/R/209008-roller-rush.json"
     },
     {
       "igdb_id": 149017,
@@ -302811,6 +302971,11 @@
       "igdb_id": 40755,
       "game_name": "Rubik's Cube 3-D",
       "file": "missing/R/40755-rubiks-cube-3-d.json"
+    },
+    {
+      "igdb_id": 209026,
+      "game_name": "Rubik's Cube Challenge",
+      "file": "missing/R/209026-rubiks-cube-challenge.json"
     },
     {
       "igdb_id": 360581,
@@ -308478,6 +308643,11 @@
       "file": "missing/S/72065-scarab-shooter.json"
     },
     {
+      "igdb_id": 209029,
+      "game_name": "Scarab Solitaire",
+      "file": "missing/S/209029-scarab-solitaire.json"
+    },
+    {
       "igdb_id": 296389,
       "game_name": "Scarecrow vs. Big Butt Birds",
       "file": "missing/S/296389-scarecrow-vs-big-butt-birds.json"
@@ -309383,6 +309553,11 @@
       "file": "missing/S/295376-scorpions-curse.json"
     },
     {
+      "igdb_id": 209023,
+      "game_name": "Scotland Yard",
+      "file": "missing/S/209023-scotland-yard.json"
+    },
+    {
       "igdb_id": 46567,
       "game_name": "Scotland Yard Interactive",
       "file": "missing/S/46567-scotland-yard-interactive.json"
@@ -309628,6 +309803,11 @@
       "file": "missing/S/49337-scrabble-blast.json"
     },
     {
+      "igdb_id": 209015,
+      "game_name": "Scrabble Blitz",
+      "file": "missing/S/209015-scrabble-blitz.json"
+    },
+    {
       "igdb_id": 51207,
       "game_name": "Scrabble Interactive: 2007 Edition",
       "file": "missing/S/51207-scrabble-interactive-2007-edition.json"
@@ -309638,9 +309818,19 @@
       "file": "missing/S/51157-scrabble-interactive-2009-edition.json"
     },
     {
+      "igdb_id": 209005,
+      "game_name": "Scrabble Plus",
+      "file": "missing/S/209005-scrabble-plus.json"
+    },
+    {
       "igdb_id": 66694,
       "game_name": "Scrabble Slam!",
       "file": "missing/S/66694-scrabble-slam.json"
+    },
+    {
+      "igdb_id": 209016,
+      "game_name": "Scrabble: Champion Edition",
+      "file": "missing/S/209016-scrabble-champion-edition.json"
     },
     {
       "igdb_id": 141167,
@@ -311831,6 +312021,11 @@
       "igdb_id": 374707,
       "game_name": "Sega Rally Championship Plus NetLink Edition",
       "file": "missing/S/374707-sega-rally-championship-plus-netlink-edition.json"
+    },
+    {
+      "igdb_id": 209018,
+      "game_name": "Sega Rally Revo",
+      "file": "missing/S/209018-sega-rally-revo.json"
     },
     {
       "igdb_id": 4102,
@@ -316223,6 +316418,11 @@
       "file": "missing/S/11563-sherlock-holmes-the-devils-daughter.json"
     },
     {
+      "igdb_id": 208999,
+      "game_name": "Sherlock Holmes: The Hound of the Baskervilles - Collector's Edition",
+      "file": "missing/S/208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json"
+    },
+    {
       "igdb_id": 6786,
       "game_name": "Sherlock Holmes: The Mystery of the Mummy",
       "file": "missing/S/6786-sherlock-holmes-the-mystery-of-the-mummy.json"
@@ -318353,9 +318553,19 @@
       "file": "missing/S/84268-shredz64.json"
     },
     {
+      "igdb_id": 208994,
+      "game_name": "Shrek 2 Activity Center: Twisted Fairy Tale Fun",
+      "file": "missing/S/208994-shrek-2-activity-center-twisted-fairy-tale-fun.json"
+    },
+    {
       "igdb_id": 230273,
       "game_name": "Shrek 2: Castle Run",
       "file": "missing/S/230273-shrek-2-castle-run.json"
+    },
+    {
+      "igdb_id": 208995,
+      "game_name": "Shrek 2: Ogre Bowler",
+      "file": "missing/S/208995-shrek-2-ogre-bowler.json"
     },
     {
       "igdb_id": 243271,
@@ -318808,6 +319018,11 @@
       "file": "missing/S/9197-sid-meiers-alien-crossfire.json"
     },
     {
+      "igdb_id": 208996,
+      "game_name": "Sid Meier's Civil War Collection",
+      "file": "missing/S/208996-sid-meiers-civil-war-collection.json"
+    },
+    {
       "igdb_id": 115032,
       "game_name": "Sid Meier's Civilization II: Conflicts in Civilization",
       "file": "missing/S/115032-sid-meiers-civilization-ii-conflicts-in-civilization.json"
@@ -318926,6 +319141,11 @@
       "igdb_id": 45555,
       "game_name": "Side Pocket",
       "file": "missing/S/45555-side-pocket.json"
+    },
+    {
+      "igdb_id": 209011,
+      "game_name": "Side Pocket: Special Edition",
+      "file": "missing/S/209011-side-pocket-special-edition.json"
     },
     {
       "igdb_id": 216263,
@@ -319843,6 +320063,11 @@
       "file": "missing/S/141132-simcasino.json"
     },
     {
+      "igdb_id": 208990,
+      "game_name": "SimCity",
+      "file": "missing/S/208990-simcity.json"
+    },
+    {
       "igdb_id": 130907,
       "game_name": "SimCity 2000 Urban Renewal Kit",
       "file": "missing/S/130907-simcity-2000-urban-renewal-kit.json"
@@ -319881,6 +320106,11 @@
       "igdb_id": 64978,
       "game_name": "SimCity Social",
       "file": "missing/S/64978-simcity-social.json"
+    },
+    {
+      "igdb_id": 208991,
+      "game_name": "SimCity: Enhanced CD-Rom",
+      "file": "missing/S/208991-simcity-enhanced-cd-rom.json"
     },
     {
       "igdb_id": 86030,
@@ -369383,6 +369613,11 @@
       "file": "missing/T/57-the-elder-scrolls-iii-tribunal.json"
     },
     {
+      "igdb_id": 209010,
+      "game_name": "The Elder Scrolls IV: Oblivion Mobile",
+      "file": "missing/T/209010-the-elder-scrolls-iv-oblivion-mobile.json"
+    },
+    {
       "igdb_id": 306484,
       "game_name": "The Elder Scrolls Online Collection: Gold Road",
       "file": "missing/T/306484-the-elder-scrolls-online-collection-gold-road.json"
@@ -377751,6 +377986,11 @@
       "igdb_id": 212916,
       "game_name": "The Packages",
       "file": "missing/T/212916-the-packages.json"
+    },
+    {
+      "igdb_id": 209009,
+      "game_name": "The Pagemaster",
+      "file": "missing/T/209009-the-pagemaster.json"
     },
     {
       "igdb_id": 49032,
@@ -388866,6 +389106,11 @@
       "igdb_id": 51234,
       "game_name": "Tiger Woods PGA Tour 2008",
       "file": "missing/T/51234-tiger-woods-pga-tour-2008.json"
+    },
+    {
+      "igdb_id": 209036,
+      "game_name": "Tigger's Family Tree 3D Adventure",
+      "file": "missing/T/209036-tiggers-family-tree-3d-adventure.json"
     },
     {
       "igdb_id": 393457,
@@ -414756,6 +415001,11 @@
       "igdb_id": 225771,
       "game_name": "VVVV",
       "file": "missing/V/225771-vvvv.json"
+    },
+    {
+      "igdb_id": 209017,
+      "game_name": "VVVVK: Rogue Vampire Hunter",
+      "file": "missing/V/209017-vvvvk-rogue-vampire-hunter.json"
     },
     {
       "igdb_id": 1990,
