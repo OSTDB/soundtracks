@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
 | BadLads | 131597 | [131597-badlads.json](./131597-badlads.json) |
 | Badland: Game of the Year Edition | 20042 | [20042-badland-game-of-the-year-edition.json](./20042-badland-game-of-the-year-edition.json) |
+| Badlanders | 192286 | [192286-badlanders.json](./192286-badlanders.json) |
 | Badlands | 190719 | [190719-badlands.json](./190719-badlands.json) |
 | Badmad Robots | 294140 | [294140-badmad-robots.json](./294140-badmad-robots.json) |
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
@@ -464,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloons | 257936 | [257936-balloons.json](./257936-balloons.json) |
 | Balloons Jump | 107110 | [107110-balloons-jump.json](./107110-balloons-jump.json) |
 | Balloony | 290439 | [290439-balloony.json](./290439-balloony.json) |
+| Ballotron | 192297 | [192297-ballotron.json](./192297-ballotron.json) |
 | Ballotron Oceans | 231345 | [231345-ballotron-oceans.json](./231345-ballotron-oceans.json) |
 | Ballpoint Universe: Infinite | 16770 | [16770-ballpoint-universe-infinite.json](./16770-ballpoint-universe-infinite.json) |
 | BallRoll | 189184 | [189184-ballroll.json](./189184-ballroll.json) |
@@ -3763,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boris and the Dark Survival: Symphony of Shadows | 298711 | [298711-boris-and-the-dark-survival-symphony-of-shadows.json](./298711-boris-and-the-dark-survival-symphony-of-shadows.json) |
 | Boris and the Dark Survival: The Unleashed | 298675 | [298675-boris-and-the-dark-survival-the-unleashed.json](./298675-boris-and-the-dark-survival-the-unleashed.json) |
 | Boris the Mutant Bear with a Gun | 104024 | [104024-boris-the-mutant-bear-with-a-gun.json](./104024-boris-the-mutant-bear-with-a-gun.json) |
+| Boris the Sloth | 192328 | [192328-boris-the-sloth.json](./192328-boris-the-sloth.json) |
 | Born Anew | 211257 | [211257-born-anew.json](./211257-born-anew.json) |
 | Born in Blood | 224784 | [224784-born-in-blood.json](./224784-born-in-blood.json) |
 | Born Into Darkness | 341059 | [341059-born-into-darkness.json](./341059-born-into-darkness.json) |
@@ -3945,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling X | 68642 | [68642-bowling-x.json](./68642-bowling-x.json) |
 | Bowls | 14337 | [14337-bowls.json](./14337-bowls.json) |
 | Bowman | 357273 | [357273-bowman.json](./357273-bowman.json) |
+| Bowman 2 | 192329 | [192329-bowman-2.json](./192329-bowman-2.json) |
 | Bowmasters | 71911 | [71911-bowmasters.json](./71911-bowmasters.json) |
 | Bowmen | 129731 | [129731-bowmen.json](./129731-bowmen.json) |
 | Bowmen | 277383 | [277383-bowmen.json](./277383-bowmen.json) |
