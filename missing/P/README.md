@@ -4925,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
 | Puzzle & Dragons | 8590 | [8590-puzzle-and-dragons.json](./8590-puzzle-and-dragons.json) |
+| Puzzle & Dragons Nintendo Switch Edition | 191724 | [191724-puzzle-and-dragons-nintendo-switch-edition.json](./191724-puzzle-and-dragons-nintendo-switch-edition.json) |
 | Puzzle & Dragons Story | 279762 | [279762-puzzle-and-dragons-story.json](./279762-puzzle-and-dragons-story.json) |
 | Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition | 85357 | [85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json](./85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json) |
 | Puzzle & Maze | 152870 | [152870-puzzle-and-maze.json](./152870-puzzle-and-maze.json) |
