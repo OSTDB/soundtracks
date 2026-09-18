@@ -2544,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Bistro | 248103 | [248103-merge-bistro.json](./248103-merge-bistro.json) |
 | Merge Circle | 262342 | [262342-merge-circle.json](./262342-merge-circle.json) |
 | Merge Circus | 285472 | [285472-merge-circus.json](./285472-merge-circus.json) |
+| Merge Clash | 202230 | [202230-merge-clash.json](./202230-merge-clash.json) |
 | Merge County | 212449 | [212449-merge-county.json](./212449-merge-county.json) |
 | Merge Design: Mansion Makeover | 246662 | [246662-merge-design-mansion-makeover.json](./246662-merge-design-mansion-makeover.json) |
 | Merge Dotey | 226774 | [226774-merge-dotey.json](./226774-merge-dotey.json) |
