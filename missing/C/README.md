@@ -2272,8 +2272,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Rocket Pudding | 276851 | [276851-christmas-rocket-pudding.json](./276851-christmas-rocket-pudding.json) |
 | Christmas Runner | 276697 | [276697-christmas-runner.json](./276697-christmas-runner.json) |
 | Christmas Stories: A Little Prince - Collector's Edition | 417587 | [417587-christmas-stories-a-little-prince-collectors-edition.json](./417587-christmas-stories-a-little-prince-collectors-edition.json) |
+| Christmas Stories: Alice's Adventures | 187978 | [187978-christmas-stories-alices-adventures.json](./187978-christmas-stories-alices-adventures.json) |
 | Christmas Stories: Nutcracker - Collector's Edition | 30202 | [30202-christmas-stories-nutcracker-collectors-edition.json](./30202-christmas-stories-nutcracker-collectors-edition.json) |
+| Christmas Stories: The Christmas Tree Forest | 187961 | [187961-christmas-stories-the-christmas-tree-forest.json](./187961-christmas-stories-the-christmas-tree-forest.json) |
 | Christmas Stories: The Gift of the Magi | 57126 | [57126-christmas-stories-the-gift-of-the-magi.json](./57126-christmas-stories-the-gift-of-the-magi.json) |
+| Christmas Stories: Yulemen | 187966 | [187966-christmas-stories-yulemen.json](./187966-christmas-stories-yulemen.json) |
 | Christmas Story | 378202 | [378202-christmas-story.json](./378202-christmas-story.json) |
 | Christmas Sweeper 3 | 227365 | [227365-christmas-sweeper-3.json](./227365-christmas-sweeper-3.json) |
 | Christmas Time 2019 | 114326 | [114326-christmas-time-2019.json](./114326-christmas-time-2019.json) |
