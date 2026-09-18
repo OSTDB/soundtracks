@@ -9772,6 +9772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfighters of Survival | 338292 | [338292-superfighters-of-survival.json](./338292-superfighters-of-survival.json) |
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
+| Superhero Fight | 193333 | [193333-superhero-fight.json](./193333-superhero-fight.json) |
 | Superhero Girl Salon: Kids Makeup and Dressup Game | 88037 | [88037-superhero-girl-salon-kids-makeup-and-dressup-game.json](./88037-superhero-girl-salon-kids-makeup-and-dressup-game.json) |
 | Superhero Robot Merge Master | 214167 | [214167-superhero-robot-merge-master.json](./214167-superhero-robot-merge-master.json) |
 | Superhero Wrestling Battle Arena Ring Fighting | 100857 | [100857-superhero-wrestling-battle-arena-ring-fighting.json](./100857-superhero-wrestling-battle-arena-ring-fighting.json) |
