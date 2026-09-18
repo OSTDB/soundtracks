@@ -6416,6 +6416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritfarer: Netflix Edition | 375281 | [375281-spiritfarer-netflix-edition.json](./375281-spiritfarer-netflix-edition.json) |
 | Spiritgrapher: The Asylum 99 | 312737 | [312737-spiritgrapher-the-asylum-99.json](./312737-spiritgrapher-the-asylum-99.json) |
 | Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
+| Spiritlink Tactics | 191737 | [191737-spiritlink-tactics.json](./191737-spiritlink-tactics.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
 | Spirits of Lunara | 383364 | [383364-spirits-of-lunara.json](./383364-spirits-of-lunara.json) |
 | Spirits of Metropolis | 54392 | [54392-spirits-of-metropolis.json](./54392-spirits-of-metropolis.json) |
