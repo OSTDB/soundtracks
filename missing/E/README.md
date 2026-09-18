@@ -1320,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equinox | 100180 | [100180-equinox.json](./100180-equinox.json) |
 | Equinox | 13644 | [13644-equinox.json](./13644-equinox.json) |
 | Equinox | 197403 | [197403-equinox.json](./197403-equinox.json) |
+| Equinox | 203305 | [203305-equinox.json](./203305-equinox.json) |
 | Equinox | 264123 | [264123-equinox.json](./264123-equinox.json) |
 | Equinox | 329147 | [329147-equinox.json](./329147-equinox.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
