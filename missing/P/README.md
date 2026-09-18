@@ -777,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
 | Party Party Time: Happy Happy Pack | 259855 | [259855-party-party-time-happy-happy-pack.json](./259855-party-party-time-happy-happy-pack.json) |
 | Party Party Time: Party Harder Pack | 233000 | [233000-party-party-time-party-harder-pack.json](./233000-party-party-time-party-harder-pack.json) |
+| Party Pie | 208445 | [208445-party-pie.json](./208445-party-pie.json) |
 | Party Planet | 71594 | [71594-party-planet.json](./71594-party-planet.json) |
 | Party Play Mania | 361688 | [361688-party-play-mania.json](./361688-party-play-mania.json) |
 | Party Poopers | 112345 | [112345-party-poopers.json](./112345-party-poopers.json) |
@@ -4456,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prospector Stanley | 183553 | [183553-prospector-stanley.json](./183553-prospector-stanley.json) |
 | Prospero | 237524 | [237524-prospero.json](./237524-prospero.json) |
 | Prost Grand Prix 1998 | 78696 | [78696-prost-grand-prix-1998.json](./78696-prost-grand-prix-1998.json) |
+| Prostitute Simulator | 208451 | [208451-prostitute-simulator.json](./208451-prostitute-simulator.json) |
 | ProStroke Golf: World Tour 2007 | 20572 | [20572-prostroke-golf-world-tour-2007.json](./20572-prostroke-golf-world-tour-2007.json) |
 | Prot | 348351 | [348351-prot.json](./348351-prot.json) |
 | Protagonist Complex One | 392146 | [392146-protagonist-complex-one.json](./392146-protagonist-complex-one.json) |
