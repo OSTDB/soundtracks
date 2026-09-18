@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Earth Chronicles 8 | 199582 | [199582-1001-jigsaw-earth-chronicles-8.json](./199582-1001-jigsaw-earth-chronicles-8.json) |
 | 1001 Jigsaw: Ice Age | 268041 | [268041-1001-jigsaw-ice-age.json](./268041-1001-jigsaw-ice-age.json) |
 | 1001 Jigsaw: Legends of Mystery 4 | 200701 | [200701-1001-jigsaw-legends-of-mystery-4.json](./200701-1001-jigsaw-legends-of-mystery-4.json) |
+| 1001 Jigsaw: Legends of Mystery 6 | 212899 | [212899-1001-jigsaw-legends-of-mystery-6.json](./212899-1001-jigsaw-legends-of-mystery-6.json) |
 | 1001 Jigsaw: World Tour - Asia | 102732 | [102732-1001-jigsaw-world-tour-asia.json](./102732-1001-jigsaw-world-tour-asia.json) |
 | 1001 Jigsaw. World Tour Thailand | 256365 | [256365-1001-jigsaw-world-tour-thailand.json](./256365-1001-jigsaw-world-tour-thailand.json) |
 | 1001-Kai-me no Aoi Tsuki | 98429 | [98429-1001-kai-me-no-aoi-tsuki.json](./98429-1001-kai-me-no-aoi-tsuki.json) |
@@ -560,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
 | 4 Pics Heroes and Villains | 107184 | [107184-4-pics-heroes-and-villains.json](./107184-4-pics-heroes-and-villains.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
+| 4 The Elements | 212898 | [212898-4-the-elements.json](./212898-4-the-elements.json) |
 | 4 Wheel Drive | 245297 | [245297-4-wheel-drive.json](./245297-4-wheel-drive.json) |
 | 4-4-2 Soccer | 45317 | [45317-4-4-2-soccer.json](./45317-4-4-2-soccer.json) |
 | 4-Block Dungeon | 122347 | [122347-4-block-dungeon.json](./122347-4-block-dungeon.json) |
@@ -683,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Rebellion! | 255180 | [255180-8-bit-rebellion.json](./255180-8-bit-rebellion.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-in-1 Games | 247011 | [247011-8-in-1-games.json](./247011-8-in-1-games.json) |
+| 80 Days & Overboard! | 212873 | [212873-80-days-and-overboard.json](./212873-80-days-and-overboard.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
 | 80's Overdrive | 58717 | [58717-80s-overdrive.json](./58717-80s-overdrive.json) |
 | 814 | 262347 | [262347-814.json](./262347-814.json) |
