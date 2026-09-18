@@ -7343,6 +7343,35 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
 | Starry Makino | 159835 | [159835-starry-makino.json](./159835-starry-makino.json) |
+| Starry Moon Island 2: Break Out MP01 | 190576 | [190576-starry-moon-island-2-break-out-mp01.json](./190576-starry-moon-island-2-break-out-mp01.json) |
+| Starry Moon Island 2: Break Out MP02 | 190575 | [190575-starry-moon-island-2-break-out-mp02.json](./190575-starry-moon-island-2-break-out-mp02.json) |
+| Starry Moon Island 2: Break Out MP03 | 190568 | [190568-starry-moon-island-2-break-out-mp03.json](./190568-starry-moon-island-2-break-out-mp03.json) |
+| Starry Moon Island 2: Break Out MP04 | 190570 | [190570-starry-moon-island-2-break-out-mp04.json](./190570-starry-moon-island-2-break-out-mp04.json) |
+| Starry Moon Island 2: Break Out MP05 | 190574 | [190574-starry-moon-island-2-break-out-mp05.json](./190574-starry-moon-island-2-break-out-mp05.json) |
+| Starry Moon Island 2: Break Out MP06 | 190572 | [190572-starry-moon-island-2-break-out-mp06.json](./190572-starry-moon-island-2-break-out-mp06.json) |
+| Starry Moon Island 2: Break Out MP07 | 190573 | [190573-starry-moon-island-2-break-out-mp07.json](./190573-starry-moon-island-2-break-out-mp07.json) |
+| Starry Moon Island 2: Break Out MP08 | 190569 | [190569-starry-moon-island-2-break-out-mp08.json](./190569-starry-moon-island-2-break-out-mp08.json) |
+| Starry Moon Island 2: Break Out MP09 | 190571 | [190571-starry-moon-island-2-break-out-mp09.json](./190571-starry-moon-island-2-break-out-mp09.json) |
+| Starry Moon Island 2: DNA War MP01 | 190595 | [190595-starry-moon-island-2-dna-war-mp01.json](./190595-starry-moon-island-2-dna-war-mp01.json) |
+| Starry Moon Island 2: DNA War MP02 | 190593 | [190593-starry-moon-island-2-dna-war-mp02.json](./190593-starry-moon-island-2-dna-war-mp02.json) |
+| Starry Moon Island 2: DNA War MP03 | 190594 | [190594-starry-moon-island-2-dna-war-mp03.json](./190594-starry-moon-island-2-dna-war-mp03.json) |
+| Starry Moon Island 2: DNA War MP04 | 190590 | [190590-starry-moon-island-2-dna-war-mp04.json](./190590-starry-moon-island-2-dna-war-mp04.json) |
+| Starry Moon Island 2: DNA War MP05 | 190591 | [190591-starry-moon-island-2-dna-war-mp05.json](./190591-starry-moon-island-2-dna-war-mp05.json) |
+| Starry Moon Island 2: DNA War MP06 | 190592 | [190592-starry-moon-island-2-dna-war-mp06.json](./190592-starry-moon-island-2-dna-war-mp06.json) |
+| Starry Moon Island 2: DNA War MP07 | 190589 | [190589-starry-moon-island-2-dna-war-mp07.json](./190589-starry-moon-island-2-dna-war-mp07.json) |
+| Starry Moon Island 2: DNA War MP08 | 190587 | [190587-starry-moon-island-2-dna-war-mp08.json](./190587-starry-moon-island-2-dna-war-mp08.json) |
+| Starry Moon Island 2: DNA War MP09 | 190588 | [190588-starry-moon-island-2-dna-war-mp09.json](./190588-starry-moon-island-2-dna-war-mp09.json) |
+| Starry Moon Island 2: DNA War MP10 | 190596 | [190596-starry-moon-island-2-dna-war-mp10.json](./190596-starry-moon-island-2-dna-war-mp10.json) |
+| Starry Moon Island 2: Tank Advance MP01 | 190583 | [190583-starry-moon-island-2-tank-advance-mp01.json](./190583-starry-moon-island-2-tank-advance-mp01.json) |
+| Starry Moon Island 2: Tank Advance MP02 | 190585 | [190585-starry-moon-island-2-tank-advance-mp02.json](./190585-starry-moon-island-2-tank-advance-mp02.json) |
+| Starry Moon Island 2: Tank Advance MP03 | 190582 | [190582-starry-moon-island-2-tank-advance-mp03.json](./190582-starry-moon-island-2-tank-advance-mp03.json) |
+| Starry Moon Island 2: Tank Advance MP04 | 190578 | [190578-starry-moon-island-2-tank-advance-mp04.json](./190578-starry-moon-island-2-tank-advance-mp04.json) |
+| Starry Moon Island 2: Tank Advance MP05 | 190580 | [190580-starry-moon-island-2-tank-advance-mp05.json](./190580-starry-moon-island-2-tank-advance-mp05.json) |
+| Starry Moon Island 2: Tank Advance MP06 | 190586 | [190586-starry-moon-island-2-tank-advance-mp06.json](./190586-starry-moon-island-2-tank-advance-mp06.json) |
+| Starry Moon Island 2: Tank Advance MP07 | 190579 | [190579-starry-moon-island-2-tank-advance-mp07.json](./190579-starry-moon-island-2-tank-advance-mp07.json) |
+| Starry Moon Island 2: Tank Advance MP08 | 190577 | [190577-starry-moon-island-2-tank-advance-mp08.json](./190577-starry-moon-island-2-tank-advance-mp08.json) |
+| Starry Moon Island 2: Tank Advance MP09 | 190581 | [190581-starry-moon-island-2-tank-advance-mp09.json](./190581-starry-moon-island-2-tank-advance-mp09.json) |
+| Starry Moon Island 2: Tank Advance MP10 | 190584 | [190584-starry-moon-island-2-tank-advance-mp10.json](./190584-starry-moon-island-2-tank-advance-mp10.json) |
 | Starry Moon Island: Break Out MP01 | 190666 | [190666-starry-moon-island-break-out-mp01.json](./190666-starry-moon-island-break-out-mp01.json) |
 | Starry Moon Island: Break Out MP02 | 190658 | [190658-starry-moon-island-break-out-mp02.json](./190658-starry-moon-island-break-out-mp02.json) |
 | Starry Moon Island: Break Out MP03 | 190659 | [190659-starry-moon-island-break-out-mp03.json](./190659-starry-moon-island-break-out-mp03.json) |
@@ -7353,6 +7382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Moon Island: Break Out MP08 | 190661 | [190661-starry-moon-island-break-out-mp08.json](./190661-starry-moon-island-break-out-mp08.json) |
 | Starry Moon Island: Break Out MP09 | 190664 | [190664-starry-moon-island-break-out-mp09.json](./190664-starry-moon-island-break-out-mp09.json) |
 | Starry Moon Island: Break Out MP10 | 190660 | [190660-starry-moon-island-break-out-mp10.json](./190660-starry-moon-island-break-out-mp10.json) |
+| Starry Moon Island: Cannon War MP08 | 190617 | [190617-starry-moon-island-cannon-war-mp08.json](./190617-starry-moon-island-cannon-war-mp08.json) |
 | Starry Moon Island: Cannonade MP01 | 190670 | [190670-starry-moon-island-cannonade-mp01.json](./190670-starry-moon-island-cannonade-mp01.json) |
 | Starry Moon Island: Cannonade MP02 | 190675 | [190675-starry-moon-island-cannonade-mp02.json](./190675-starry-moon-island-cannonade-mp02.json) |
 | Starry Moon Island: Cannonade MP03 | 190676 | [190676-starry-moon-island-cannonade-mp03.json](./190676-starry-moon-island-cannonade-mp03.json) |
@@ -7384,6 +7414,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Moon Island: Perimeter MP08 | 190650 | [190650-starry-moon-island-perimeter-mp08.json](./190650-starry-moon-island-perimeter-mp08.json) |
 | Starry Moon Island: Perimeter MP09 | 190648 | [190648-starry-moon-island-perimeter-mp09.json](./190648-starry-moon-island-perimeter-mp09.json) |
 | Starry Moon Island: Perimeter MP10 | 190652 | [190652-starry-moon-island-perimeter-mp10.json](./190652-starry-moon-island-perimeter-mp10.json) |
+| Starry Moon Island: Red Snake MP01 | 190603 | [190603-starry-moon-island-red-snake-mp01.json](./190603-starry-moon-island-red-snake-mp01.json) |
+| Starry Moon Island: Red Snake MP02 | 190604 | [190604-starry-moon-island-red-snake-mp02.json](./190604-starry-moon-island-red-snake-mp02.json) |
+| Starry Moon Island: Red Snake MP03 | 190599 | [190599-starry-moon-island-red-snake-mp03.json](./190599-starry-moon-island-red-snake-mp03.json) |
+| Starry Moon Island: Red Snake MP04 | 190606 | [190606-starry-moon-island-red-snake-mp04.json](./190606-starry-moon-island-red-snake-mp04.json) |
+| Starry Moon Island: Red Snake MP05 | 190602 | [190602-starry-moon-island-red-snake-mp05.json](./190602-starry-moon-island-red-snake-mp05.json) |
+| Starry Moon Island: Red Snake MP06 | 190601 | [190601-starry-moon-island-red-snake-mp06.json](./190601-starry-moon-island-red-snake-mp06.json) |
+| Starry Moon Island: Red Snake MP07 | 190597 | [190597-starry-moon-island-red-snake-mp07.json](./190597-starry-moon-island-red-snake-mp07.json) |
+| Starry Moon Island: Red Snake MP08 | 190605 | [190605-starry-moon-island-red-snake-mp08.json](./190605-starry-moon-island-red-snake-mp08.json) |
+| Starry Moon Island: Red Snake MP09 | 190600 | [190600-starry-moon-island-red-snake-mp09.json](./190600-starry-moon-island-red-snake-mp09.json) |
+| Starry Moon Island: Red Snake MP10 | 190598 | [190598-starry-moon-island-red-snake-mp10.json](./190598-starry-moon-island-red-snake-mp10.json) |
 | Starry Moon Island: Star Ocean MP01 | 190684 | [190684-starry-moon-island-star-ocean-mp01.json](./190684-starry-moon-island-star-ocean-mp01.json) |
 | Starry Moon Island: Star Ocean MP02 | 190679 | [190679-starry-moon-island-star-ocean-mp02.json](./190679-starry-moon-island-star-ocean-mp02.json) |
 | Starry Moon Island: Star Ocean MP03 | 190678 | [190678-starry-moon-island-star-ocean-mp03.json](./190678-starry-moon-island-star-ocean-mp03.json) |
@@ -7394,6 +7434,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Moon Island: Star Ocean MP08 | 190682 | [190682-starry-moon-island-star-ocean-mp08.json](./190682-starry-moon-island-star-ocean-mp08.json) |
 | Starry Moon Island: Star Ocean MP09 | 190683 | [190683-starry-moon-island-star-ocean-mp09.json](./190683-starry-moon-island-star-ocean-mp09.json) |
 | Starry Moon Island: Star Ocean MP10 | 190677 | [190677-starry-moon-island-star-ocean-mp10.json](./190677-starry-moon-island-star-ocean-mp10.json) |
+| Starry Moon Island: Tank Advance MP01 | 190610 | [190610-starry-moon-island-tank-advance-mp01.json](./190610-starry-moon-island-tank-advance-mp01.json) |
+| Starry Moon Island: Tank Advance MP02 | 190611 | [190611-starry-moon-island-tank-advance-mp02.json](./190611-starry-moon-island-tank-advance-mp02.json) |
+| Starry Moon Island: Tank Advance MP03 | 190616 | [190616-starry-moon-island-tank-advance-mp03.json](./190616-starry-moon-island-tank-advance-mp03.json) |
+| Starry Moon Island: Tank Advance MP04 | 190613 | [190613-starry-moon-island-tank-advance-mp04.json](./190613-starry-moon-island-tank-advance-mp04.json) |
+| Starry Moon Island: Tank Advance MP05 | 190608 | [190608-starry-moon-island-tank-advance-mp05.json](./190608-starry-moon-island-tank-advance-mp05.json) |
+| Starry Moon Island: Tank Advance MP06 | 190607 | [190607-starry-moon-island-tank-advance-mp06.json](./190607-starry-moon-island-tank-advance-mp06.json) |
+| Starry Moon Island: Tank Advance MP07 | 190609 | [190609-starry-moon-island-tank-advance-mp07.json](./190609-starry-moon-island-tank-advance-mp07.json) |
+| Starry Moon Island: Tank Advance MP08 | 190614 | [190614-starry-moon-island-tank-advance-mp08.json](./190614-starry-moon-island-tank-advance-mp08.json) |
+| Starry Moon Island: Tank Advance MP09 | 190612 | [190612-starry-moon-island-tank-advance-mp09.json](./190612-starry-moon-island-tank-advance-mp09.json) |
+| Starry Moon Island: Tank Advance MP10 | 190615 | [190615-starry-moon-island-tank-advance-mp10.json](./190615-starry-moon-island-tank-advance-mp10.json) |
 | Starry Night | 246493 | [246493-starry-night.json](./246493-starry-night.json) |
 | Starry Nights: Helix | 30868 | [30868-starry-nights-helix.json](./30868-starry-nights-helix.json) |
 | Starry Sky: After Spring | 201758 | [201758-starry-sky-after-spring.json](./201758-starry-sky-after-spring.json) |
