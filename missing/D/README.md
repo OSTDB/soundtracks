@@ -4292,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamboat | 295806 | [295806-dreamboat.json](./295806-dreamboat.json) |
 | DreamCatcher | 312588 | [312588-dreamcatcher.json](./312588-dreamcatcher.json) |
 | DreamDayKi | 202355 | [202355-dreamdayki.json](./202355-dreamdayki.json) |
+| Dreamed Away | 220745 | [220745-dreamed-away.json](./220745-dreamed-away.json) |
 | Dreamer | 101641 | [101641-dreamer.json](./101641-dreamer.json) |
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
 | Dreamers Disease | 291453 | [291453-dreamers-disease.json](./291453-dreamers-disease.json) |
