@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Affairs | 214058 | [214058-garden-affairs.json](./214058-garden-affairs.json) |
 | Garden Box | 314675 | [314675-garden-box.json](./314675-garden-box.json) |
 | Garden Business | 215902 | [215902-garden-business.json](./215902-garden-business.json) |
+| Garden Circuit | 185006 | [185006-garden-circuit.json](./185006-garden-circuit.json) |
 | Garden City | 151118 | [151118-garden-city.json](./151118-garden-city.json) |
 | Garden City Bundle | 295257 | [295257-garden-city-bundle.json](./295257-garden-city-bundle.json) |
 | Garden Hunt | 352263 | [352263-garden-hunt.json](./352263-garden-hunt.json) |
@@ -1941,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goosebumps: Escape from Horrorland | 79276 | [79276-goosebumps-escape-from-horrorland.json](./79276-goosebumps-escape-from-horrorland.json) |
 | Goosebumps: HorrorLand | 43301 | [43301-goosebumps-horrorland.json](./43301-goosebumps-horrorland.json) |
 | Goospace | 240812 | [240812-goospace.json](./240812-goospace.json) |
+| Gophers | 185035 | [185035-gophers.json](./185035-gophers.json) |
 | Gophy | 234325 | [234325-gophy.json](./234325-gophy.json) |
 | Gopnik | 153461 | [153461-gopnik.json](./153461-gopnik.json) |
 | Gor Lab | 321155 | [321155-gor-lab.json](./321155-gor-lab.json) |
