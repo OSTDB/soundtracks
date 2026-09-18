@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peek a Rabbit! | 395666 | [395666-peek-a-rabbit.json](./395666-peek-a-rabbit.json) |
 | Peek-A-Mimic Christmas Castle | 326261 | [326261-peek-a-mimic-christmas-castle.json](./326261-peek-a-mimic-christmas-castle.json) |
 | Peekaboo Collection - 3 Tales of Horror | 132347 | [132347-peekaboo-collection-3-tales-of-horror.json](./132347-peekaboo-collection-3-tales-of-horror.json) |
+| Peekazoo | 211284 | [211284-peekazoo.json](./211284-peekazoo.json) |
 | Peeking at the peak | 278387 | [278387-peeking-at-the-peak.json](./278387-peeking-at-the-peak.json) |
 | Peel a Banana | 368557 | [368557-peel-a-banana.json](./368557-peel-a-banana.json) |
 | Peepers Paradise | 341586 | [341586-peepers-paradise.json](./341586-peepers-paradise.json) |
@@ -3834,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Frost | 384059 | [384059-primal-frost.json](./384059-primal-frost.json) |
 | Primal Hearts | 159312 | [159312-primal-hearts.json](./159312-primal-hearts.json) |
 | Primal Hearts 2 | 159313 | [159313-primal-hearts-2.json](./159313-primal-hearts-2.json) |
+| Primal Hunger | 211271 | [211271-primal-hunger.json](./211271-primal-hunger.json) |
 | Primal Image Vol.1 | 67313 | [67313-primal-image-vol-1.json](./67313-primal-image-vol-1.json) |
 | Primal Lands | 50517 | [50517-primal-lands.json](./50517-primal-lands.json) |
 | Primal Man Simulator | 149560 | [149560-primal-man-simulator.json](./149560-primal-man-simulator.json) |
@@ -4199,6 +4201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project D | 255117 | [255117-project-d.json](./255117-project-d.json) |
 | Project D | 305783 | [305783-project-d.json](./305783-project-d.json) |
 | Project D: Human Risen | 126632 | [126632-project-d-human-risen.json](./126632-project-d-human-risen.json) |
+| Project Death Strikers | 211272 | [211272-project-death-strikers.json](./211272-project-death-strikers.json) |
 | Project DeepWeb | 120422 | [120422-project-deepweb.json](./120422-project-deepweb.json) |
 | Project Dejavu | 391156 | [391156-project-dejavu.json](./391156-project-dejavu.json) |
 | Project Delta | 189146 | [189146-project-delta.json](./189146-project-delta.json) |
