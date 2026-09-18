@@ -444,6 +444,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Mutant Run | 262338 | [262338-zombie-mutant-run.json](./262338-zombie-mutant-run.json) |
 | Zombie Night Defense | 300829 | [300829-zombie-night-defense.json](./300829-zombie-night-defense.json) |
 | Zombie Night Terror | 9546 | [9546-zombie-night-terror.json](./9546-zombie-night-terror.json) |
+| Zombie Night Terror: Collector's Edition | 194408 | [194408-zombie-night-terror-collectors-edition.json](./194408-zombie-night-terror-collectors-edition.json) |
+| Zombie Night Terror: Deluxe Edition | 194409 | [194409-zombie-night-terror-deluxe-edition.json](./194409-zombie-night-terror-deluxe-edition.json) |
 | Zombie Nightmare | 74448 | [74448-zombie-nightmare.json](./74448-zombie-nightmare.json) |
 | Zombie Ninja Confessional | 128652 | [128652-zombie-ninja-confessional.json](./128652-zombie-ninja-confessional.json) |
 | Zombie Office Politics | 34166 | [34166-zombie-office-politics.json](./34166-zombie-office-politics.json) |
@@ -656,5 +658,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zyrcon | 413623 | [413623-zyrcon.json](./413623-zyrcon.json) |
 | Zythum | 30954 | [30954-zythum.json](./30954-zythum.json) |
 | ZYX Story | 105343 | [105343-zyx-story.json](./105343-zyx-story.json) |
+| Zzap! | 194422 | [194422-zzap.json](./194422-zzap.json) |
 | Zzoom | 45356 | [45356-zzoom.json](./45356-zzoom.json) |
 | Zzzz | 12975 | [12975-zzzz.json](./12975-zzzz.json) |
