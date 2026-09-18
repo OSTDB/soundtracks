@@ -3764,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construct.AI | 172128 | [172128-construct-ai.json](./172128-construct-ai.json) |
 | Construct&Conquer: The Levant in the 12th Century | 291056 | [291056-construct-and-conquer-the-levant-in-the-12th-century.json](./291056-construct-and-conquer-the-levant-in-the-12th-century.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
+| Construction Ramp Jumping | 212358 | [212358-construction-ramp-jumping.json](./212358-construction-ramp-jumping.json) |
 | Construction Simulator 2 | 87338 | [87338-construction-simulator-2.json](./87338-construction-simulator-2.json) |
 | Construction Simulator 2+3 | 139934 | [139934-construction-simulator-2-3.json](./139934-construction-simulator-2-3.json) |
 | Construction Simulator 2014 | 86891 | [86891-construction-simulator-2014.json](./86891-construction-simulator-2014.json) |
@@ -4163,6 +4164,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotorro en Mano | 334712 | [334712-cotorro-en-mano.json](./334712-cotorro-en-mano.json) |
 | Cotropitorii | 113007 | [113007-cotropitorii.json](./113007-cotropitorii.json) |
 | Cotton 100% | 38359 | [38359-cotton-100.json](./38359-cotton-100.json) |
+| Cotton 16Bit Tribute | 212332 | [212332-cotton-16bit-tribute.json](./212332-cotton-16bit-tribute.json) |
+| Cotton 16Bit Tribute: Special Pack - Limited Edition | 212321 | [212321-cotton-16bit-tribute-special-pack-limited-edition.json](./212321-cotton-16bit-tribute-special-pack-limited-edition.json) |
 | Cotton 2: Saturn Tribute | 173782 | [173782-cotton-2-saturn-tribute.json](./173782-cotton-2-saturn-tribute.json) |
 | Cotton Boomerang: Saturn Tribute | 173781 | [173781-cotton-boomerang-saturn-tribute.json](./173781-cotton-boomerang-saturn-tribute.json) |
 | Cotton Games' New Game Bundle | 196811 | [196811-cotton-games-new-game-bundle.json](./196811-cotton-games-new-game-bundle.json) |
@@ -5613,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercop | 287115 | [287115-cybercop.json](./287115-cybercop.json) |
 | Cybercum 2069 | 305763 | [305763-cybercum-2069.json](./305763-cybercum-2069.json) |
 | Cyberdillo | 39014 | [39014-cyberdillo.json](./39014-cyberdillo.json) |
+| Cyberdimension Neptunia: 4 Goddesses Online - Royal Edition | 212313 | [212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json](./212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json) |
 | Cyberdreams | 140045 | [140045-cyberdreams.json](./140045-cyberdreams.json) |
 | Cyberdyne Warrior | 47234 | [47234-cyberdyne-warrior.json](./47234-cyberdyne-warrior.json) |
 | Cyberference | 244490 | [244490-cyberference.json](./244490-cyberference.json) |
@@ -5652,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberRhapsody | 345000 | [345000-cyberrhapsody.json](./345000-cyberrhapsody.json) |
 | CyberRoom | 339358 | [339358-cyberroom.json](./339358-cyberroom.json) |
 | Cyberrrevolution | 180211 | [180211-cyberrrevolution.json](./180211-cyberrrevolution.json) |
+| Cyberrunner | 212337 | [212337-cyberrunner.json](./212337-cyberrunner.json) |
 | Cyberscape | 235201 | [235201-cyberscape.json](./235201-cyberscape.json) |
 | CyberSeas | 324716 | [324716-cyberseas.json](./324716-cyberseas.json) |
 | Cybersecurity Ethics Scavenger Hunt | 257397 | [257397-cybersecurity-ethics-scavenger-hunt.json](./257397-cybersecurity-ethics-scavenger-hunt.json) |
