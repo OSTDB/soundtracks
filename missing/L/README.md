@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: Beasts of Bremen | 188004 | [188004-living-legends-beasts-of-bremen.json](./188004-living-legends-beasts-of-bremen.json) |
 | Living Legends: Frozen Beauty Collector's Edition | 355542 | [355542-living-legends-frozen-beauty-collectors-edition.json](./355542-living-legends-frozen-beauty-collectors-edition.json) |
 | Living Legends: Haunting Melody | 355552 | [355552-living-legends-haunting-melody.json](./355552-living-legends-haunting-melody.json) |
+| Living Legends: Voice of the Sea | 187963 | [187963-living-legends-voice-of-the-sea.json](./187963-living-legends-voice-of-the-sea.json) |
 | Living Legends: Wrath of the Beast Collector's Edition | 107860 | [107860-living-legends-wrath-of-the-beast-collectors-edition.json](./107860-living-legends-wrath-of-the-beast-collectors-edition.json) |
 | Living Metal | 295406 | [295406-living-metal.json](./295406-living-metal.json) |
 | Living Puzzles: Triazzle | 72023 | [72023-living-puzzles-triazzle.json](./72023-living-puzzles-triazzle.json) |
@@ -2383,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
 | Lost Scavenger | 153937 | [153937-lost-scavenger.json](./153937-lost-scavenger.json) |
 | Lost Secrets: November 1963 | 206728 | [206728-lost-secrets-november-1963.json](./206728-lost-secrets-november-1963.json) |
+| Lost Snowmen | 187983 | [187983-lost-snowmen.json](./187983-lost-snowmen.json) |
 | Lost Soul | 184128 | [184128-lost-soul.json](./184128-lost-soul.json) |
 | Lost Soul: Escape the Doom Museum | 344347 | [344347-lost-soul-escape-the-doom-museum.json](./344347-lost-soul-escape-the-doom-museum.json) |
 | Lost Sunday Comics | 192797 | [192797-lost-sunday-comics.json](./192797-lost-sunday-comics.json) |
