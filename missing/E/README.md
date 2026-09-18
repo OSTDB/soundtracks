@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Samurai | 235740 | [235740-endless-samurai.json](./235740-endless-samurai.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
 | Endless Silent Night | 404330 | [404330-endless-silent-night.json](./404330-endless-silent-night.json) |
+| Endless Space 2: Deluxe Edition | 187986 | [187986-endless-space-2-deluxe-edition.json](./187986-endless-space-2-deluxe-edition.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
 | Endless Suburbia | 255700 | [255700-endless-suburbia.json](./255700-endless-suburbia.json) |
 | Endless TV Tycoon | 352855 | [352855-endless-tv-tycoon.json](./352855-endless-tv-tycoon.json) |
