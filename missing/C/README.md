@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CBeebies Playtime Island: Game | 321783 | [321783-cbeebies-playtime-island-game.json](./321783-cbeebies-playtime-island-game.json) |
 | CCTV | 264863 | [264863-cctv.json](./264863-cctv.json) |
 | CD Battle: Hikari no Yuushi-tachi | 267948 | [267948-cd-battle-hikari-no-yuushi-tachi.json](./267948-cd-battle-hikari-no-yuushi-tachi.json) |
+| CD-i Donkey Kong Game | 231479 | [231479-cd-i-donkey-kong-game.json](./231479-cd-i-donkey-kong-game.json) |
 | CD-Run | 127226 | [127226-cd-run.json](./127226-cd-run.json) |
 | CDF Ghostship | 16844 | [16844-cdf-ghostship.json](./16844-cdf-ghostship.json) |
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
 | Chase H.Q. 3D | 286677 | [286677-chase-h-q-3d.json](./286677-chase-h-q-3d.json) |
 | Chase H.Q.: Secret Police | 49898 | [49898-chase-h-q-secret-police.json](./49898-chase-h-q-secret-police.json) |
+| Chase Love in Japan | 231472 | [231472-chase-love-in-japan.json](./231472-chase-love-in-japan.json) |
 | Chase St | 388251 | [388251-chase-st.json](./388251-chase-st.json) |
 | Chase Survivors | 244512 | [244512-chase-survivors.json](./244512-chase-survivors.json) |
 | Chase the Gangsters | 309520 | [309520-chase-the-gangsters.json](./309520-chase-the-gangsters.json) |
