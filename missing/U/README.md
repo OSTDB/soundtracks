@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal World | 250449 | [250449-unreal-world.json](./250449-unreal-world.json) |
 | Unrecord | 246417 | [246417-unrecord.json](./246417-unrecord.json) |
 | Unregret | 386243 | [386243-unregret.json](./386243-unregret.json) |
+| Unrepeatable | 204429 | [204429-unrepeatable.json](./204429-unrepeatable.json) |
 | UnRequited | 201311 | [201311-unrequited.json](./201311-unrequited.json) |
 | Unrestrained | 231356 | [231356-unrestrained.json](./231356-unrestrained.json) |
 | Unriddle | 187435 | [187435-unriddle.json](./187435-unriddle.json) |
@@ -1009,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Usagi | 202342 | [202342-usagi.json](./202342-usagi.json) |
 | Usagi Health Club | 207339 | [207339-usagi-health-club.json](./207339-usagi-health-club.json) |
 | Usagi Sekai: Bunny Shaman | 338581 | [338581-usagi-sekai-bunny-shaman.json](./338581-usagi-sekai-bunny-shaman.json) |
+| Usagi Shima | 204511 | [204511-usagi-shima.json](./204511-usagi-shima.json) |
 | Usagi Yojimbo: Way of the Ronin | 36060 | [36060-usagi-yojimbo-way-of-the-ronin.json](./36060-usagi-yojimbo-way-of-the-ronin.json) |
 | Usagito Watashi | 280908 | [280908-usagito-watashi.json](./280908-usagito-watashi.json) |
 | USB-bot | 358302 | [358302-usb-bot.json](./358302-usb-bot.json) |
