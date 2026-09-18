@@ -2590,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
 | Football Club 2019-2023 | 282705 | [282705-football-club-2019-2023.json](./282705-football-club-2019-2023.json) |
 | Football Club Builder | 409577 | [409577-football-club-builder.json](./409577-football-club-builder.json) |
+| Football Club Management 2023 | 214062 | [214062-football-club-management-2023.json](./214062-football-club-management-2023.json) |
 | Football Club Simulator - FCS | 36247 | [36247-football-club-simulator-fcs.json](./36247-football-club-simulator-fcs.json) |
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
 | Football Director 2017 | 200160 | [200160-football-director-2017.json](./200160-football-director-2017.json) |
