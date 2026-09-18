@@ -1727,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apartment 57 | 327867 | [327867-the-apartment-57.json](./327867-the-apartment-57.json) |
 | The Ape Painting | 240241 | [240241-the-ape-painting.json](./240241-the-ape-painting.json) |
 | The Aperture Dilemma | 378905 | [378905-the-aperture-dilemma.json](./378905-the-aperture-dilemma.json) |
+| The Apocryphal Gensoukyou | 212894 | [212894-the-apocryphal-gensoukyou.json](./212894-the-apocryphal-gensoukyou.json) |
 | The Apothecary's Apprentice | 177571 | [177571-the-apothecarys-apprentice.json](./177571-the-apothecarys-apprentice.json) |
 | The Apple Girl | 379969 | [379969-the-apple-girl.json](./379969-the-apple-girl.json) |
 | The Apple of Our Time | 281374 | [281374-the-apple-of-our-time.json](./281374-the-apple-of-our-time.json) |
@@ -2439,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Depths: Prehistoric Survival | 166724 | [166724-the-depths-prehistoric-survival.json](./166724-the-depths-prehistoric-survival.json) |
 | The Derailed | 333377 | [333377-the-derailed.json](./333377-the-derailed.json) |
 | The Derailed: Devour the Harvest | 413675 | [413675-the-derailed-devour-the-harvest.json](./413675-the-derailed-devour-the-harvest.json) |
+| The Descent | 212890 | [212890-the-descent.json](./212890-the-descent.json) |
 | The Descent | 278996 | [278996-the-descent.json](./278996-the-descent.json) |
 | The Desert's Rose | 109710 | [109710-the-deserts-rose.json](./109710-the-deserts-rose.json) |
 | The Designer's Curse | 120971 | [120971-the-designers-curse.json](./120971-the-designers-curse.json) |
@@ -4232,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
+| The Packages | 212916 | [212916-the-packages.json](./212916-the-packages.json) |
 | The Pagemaster | 49032 | [49032-the-pagemaster.json](./49032-the-pagemaster.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
@@ -5094,6 +5097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Third Pig | 337176 | [337176-the-third-pig.json](./337176-the-third-pig.json) |
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
 | The Three Decoders 1 - Riddle of the Ring | 58777 | [58777-the-three-decoders-1-riddle-of-the-ring.json](./58777-the-three-decoders-1-riddle-of-the-ring.json) |
+| The Three Kingdoms: The Dynamic | 212857 | [212857-the-three-kingdoms-the-dynamic.json](./212857-the-three-kingdoms-the-dynamic.json) |
 | The Three Kingdoms: The Tales of Jian An | 379442 | [379442-the-three-kingdoms-the-tales-of-jian-an.json](./379442-the-three-kingdoms-the-tales-of-jian-an.json) |
 | The Three Musketeers | 186262 | [186262-the-three-musketeers.json](./186262-the-three-musketeers.json) |
 | The Three Musketeers: One For All! | 20486 | [20486-the-three-musketeers-one-for-all.json](./20486-the-three-musketeers-one-for-all.json) |
@@ -5843,6 +5847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thoroughbred Breeder: Sekai Seiha-hen | 61023 | [61023-thoroughbred-breeder-sekai-seiha-hen.json](./61023-thoroughbred-breeder-sekai-seiha-hen.json) |
 | Those Damn Aliens VR | 29937 | [29937-those-damn-aliens-vr.json](./29937-those-damn-aliens-vr.json) |
 | Those Infernal Girls! | 225744 | [225744-those-infernal-girls.json](./225744-those-infernal-girls.json) |
+| Those Left Behind | 212854 | [212854-those-left-behind.json](./212854-those-left-behind.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
 | Those Who Rule | 211226 | [211226-those-who-rule.json](./211226-those-who-rule.json) |
 | Those Who Rule II | 394374 | [394374-those-who-rule-ii.json](./394374-those-who-rule-ii.json) |
@@ -8858,6 +8863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucks and Things That Go Puzzle Game | 109022 | [109022-trucks-and-things-that-go-puzzle-game.json](./109022-trucks-and-things-that-go-puzzle-game.json) |
 | Trucksform3d Offroad 3D Shooting Bigfoot Endless Racing Truck | 102825 | [102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json](./102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json) |
 | Truco | 193408 | [193408-truco.json](./193408-truco.json) |
+| Truco | 212888 | [212888-truco.json](./212888-truco.json) |
 | Truco Argentino | 410311 | [410311-truco-argentino.json](./410311-truco-argentino.json) |
 | Truco Blyts | 351735 | [351735-truco-blyts.json](./351735-truco-blyts.json) |
 | Truco! | 259840 | [259840-truco.json](./259840-truco.json) |
