@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.Y.A | 397827 | [397827-m-a-y-a.json](./397827-m-a-y-a.json) |
 | M.C Kids | 2718 | [2718-m-c-kids.json](./2718-m-c-kids.json) |
 | M.C Kids | 285032 | [285032-m-c-kids.json](./285032-m-c-kids.json) |
+| M.Duck | 197797 | [197797-m-duck.json](./197797-m-duck.json) |
 | M.E.C.H.A.: Memory Erasure Control of Hover Attractor | 348770 | [348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json](./348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json) |
 | M.E.R.C. | 26540 | [26540-m-e-r-c.json](./26540-m-e-r-c.json) |
 | M.I.A | 75044 | [75044-m-i-a.json](./75044-m-i-a.json) |
@@ -663,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make a Good Level Contest X3: The Movie - The Contest: The Game | 304213 | [304213-make-a-good-level-contest-x3-the-movie-the-contest-the-game.json](./304213-make-a-good-level-contest-x3-the-movie-the-contest-the-game.json) |
 | Make a Good Mega Man Level Contest | 192401 | [192401-make-a-good-mega-man-level-contest.json](./192401-make-a-good-mega-man-level-contest.json) |
 | Make a Good Mega Man Level Contest 2 | 192402 | [192402-make-a-good-mega-man-level-contest-2.json](./192402-make-a-good-mega-man-level-contest-2.json) |
+| Make a Good Mega Man Level: Episode Zero | 197785 | [197785-make-a-good-mega-man-level-episode-zero.json](./197785-make-a-good-mega-man-level-episode-zero.json) |
 | Make a Happy Baby | 239039 | [239039-make-a-happy-baby.json](./239039-make-a-happy-baby.json) |
 | Make a Path for the Chicken | 165624 | [165624-make-a-path-for-the-chicken.json](./165624-make-a-path-for-the-chicken.json) |
 | Make a Scene: Dinosaurs | 96044 | [96044-make-a-scene-dinosaurs.json](./96044-make-a-scene-dinosaurs.json) |
@@ -1580,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Point | 324904 | [324904-match-point.json](./324904-match-point.json) |
 | Match Puzzle House | 224012 | [224012-match-puzzle-house.json](./224012-match-puzzle-house.json) |
 | Match Shot Chimera | 349290 | [349290-match-shot-chimera.json](./349290-match-shot-chimera.json) |
+| Match the Deck | 197771 | [197771-match-the-deck.json](./197771-match-the-deck.json) |
 | Match Tree | 282693 | [282693-match-tree.json](./282693-match-tree.json) |
 | Match Up | 81405 | [81405-match-up.json](./81405-match-up.json) |
 | Match Ventures 2 | 234628 | [234628-match-ventures-2.json](./234628-match-ventures-2.json) |
@@ -1616,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math | 139972 | [139972-math.json](./139972-math.json) |
 | Math Ace Jr. | 209548 | [209548-math-ace-jr.json](./209548-math-ace-jr.json) |
 | Math Adventures | 219676 | [219676-math-adventures.json](./219676-math-adventures.json) |
+| Math and Letters Air Control | 197778 | [197778-math-and-letters-air-control.json](./197778-math-and-letters-air-control.json) |
 | Math Attack | 367509 | [367509-math-attack.json](./367509-math-attack.json) |
 | Math Be Nimble: Brain Training | 265425 | [265425-math-be-nimble-brain-training.json](./265425-math-be-nimble-brain-training.json) |
 | Math Bingo | 201167 | [201167-math-bingo.json](./201167-math-bingo.json) |
@@ -2919,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Pico Racers | 96665 | [96665-micro-pico-racers.json](./96665-micro-pico-racers.json) |
 | Micro Plutonia | 312898 | [312898-micro-plutonia.json](./312898-micro-plutonia.json) |
 | Micro Quest | 307593 | [307593-micro-quest.json](./307593-micro-quest.json) |
+| Micro RPG | 197794 | [197794-micro-rpg.json](./197794-micro-rpg.json) |
 | Micro Scooter Challenge | 209025 | [209025-micro-scooter-challenge.json](./209025-micro-scooter-challenge.json) |
 | Micro Slaughter Community Project | 221847 | [221847-micro-slaughter-community-project.json](./221847-micro-slaughter-community-project.json) |
 | Micro Smash | 220184 | [220184-micro-smash.json](./220184-micro-smash.json) |
@@ -3582,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Crypt | 163947 | [163947-minimal-crypt.json](./163947-minimal-crypt.json) |
 | Minimal Escape | 290694 | [290694-minimal-escape.json](./290694-minimal-escape.json) |
 | Minimal Fear | 184600 | [184600-minimal-fear.json](./184600-minimal-fear.json) |
+| Minimal Maze | 197772 | [197772-minimal-maze.json](./197772-minimal-maze.json) |
 | Minimal Move | 115677 | [115677-minimal-move.json](./115677-minimal-move.json) |
 | Minimalist Tower Defense | 270778 | [270778-minimalist-tower-defense.json](./270778-minimalist-tower-defense.json) |
 | Minimally Invasive | 244270 | [244270-minimally-invasive.json](./244270-minimally-invasive.json) |
@@ -6160,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Of Fiends and Fairies HD | 106644 | [106644-myths-of-the-world-of-fiends-and-fairies-hd.json](./106644-myths-of-the-world-of-fiends-and-fairies-hd.json) |
 | Myths of the World: Spirit Wolf - Collector's Edition | 83555 | [83555-myths-of-the-world-spirit-wolf-collectors-edition.json](./83555-myths-of-the-world-spirit-wolf-collectors-edition.json) |
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
+| MyTP Skateboarding | 197754 | [197754-mytp-skateboarding.json](./197754-mytp-skateboarding.json) |
 | Mytran Wars | 19202 | [19202-mytran-wars.json](./19202-mytran-wars.json) |
 | MyVegas Blackjack | 370751 | [370751-myvegas-blackjack.json](./370751-myvegas-blackjack.json) |
 | MyVegas Slots | 323168 | [323168-myvegas-slots.json](./323168-myvegas-slots.json) |
