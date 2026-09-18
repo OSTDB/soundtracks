@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marrow | 269569 | [269569-marrow.json](./269569-marrow.json) |
 | Mars | 91393 | [91393-mars.json](./91393-mars.json) |
 | Mars 2030 | 51519 | [51519-mars-2030.json](./51519-mars-2030.json) |
+| Mars 2055 | 208437 | [208437-mars-2055.json](./208437-mars-2055.json) |
 | Mars Assault: 3D Shooter | 294849 | [294849-mars-assault-3d-shooter.json](./294849-mars-assault-3d-shooter.json) |
 | Mars Base Excavation Incident | 271746 | [271746-mars-base-excavation-incident.json](./271746-mars-base-excavation-incident.json) |
 | Mars Colony Builder | 151145 | [151145-mars-colony-builder.json](./151145-mars-colony-builder.json) |
@@ -2129,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man CD: Rock Version | 323330 | [323330-mega-man-cd-rock-version.json](./323330-mega-man-cd-rock-version.json) |
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
 | Mega Man DOS Remake | 357337 | [357337-mega-man-dos-remake.json](./357337-mega-man-dos-remake.json) |
+| Mega Man Eternal | 208479 | [208479-mega-man-eternal.json](./208479-mega-man-eternal.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
 | Mega Man Legends 3 Project | 78003 | [78003-mega-man-legends-3-project.json](./78003-mega-man-legends-3-project.json) |
 | Mega Man Network Transmission | 1766 | [1766-mega-man-network-transmission.json](./1766-mega-man-network-transmission.json) |
@@ -3628,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
 | Mir | 363939 | [363939-mir.json](./363939-mir.json) |
+| Mira: A Bird's Flight | 208462 | [208462-mira-a-birds-flight.json](./208462-mira-a-birds-flight.json) |
 | Mira's Mirage Mirror | 361691 | [361691-miras-mirage-mirror.json](./361691-miras-mirage-mirror.json) |
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Chou Party: Sanae to Tenshi no Gensou Labyrinth | 206944 | [206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json](./206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json) |
