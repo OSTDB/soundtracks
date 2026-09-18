@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infestus | 235456 | [235456-infestus.json](./235456-infestus.json) |
 | Infiltrate | 22413 | [22413-infiltrate.json](./22413-infiltrate.json) |
 | Infiltration: Alone in Combat | 151196 | [151196-infiltration-alone-in-combat.json](./151196-infiltration-alone-in-combat.json) |
+| Infinadeck Medieval Maze | 192818 | [192818-infinadeck-medieval-maze.json](./192818-infinadeck-medieval-maze.json) |
 | Infini: #InfiniPrison | 170440 | [170440-infini-infiniprison.json](./170440-infini-infiniprison.json) |
 | Infiniball | 129737 | [129737-infiniball.json](./129737-infiniball.json) |
 | Infiniboss | 134008 | [134008-infiniboss.json](./134008-infiniboss.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islands and Ships logic puzzle | 232048 | [232048-islands-and-ships-logic-puzzle.json](./232048-islands-and-ships-logic-puzzle.json) |
 | Islands of Insight | 212652 | [212652-islands-of-insight.json](./212652-islands-of-insight.json) |
 | Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
+| Islandville: A New Home | 192833 | [192833-islandville-a-new-home.json](./192833-islandville-a-new-home.json) |
 | ISlash Dojo | 108448 | [108448-islash-dojo.json](./108448-islash-dojo.json) |
 | Islay Quest | 386874 | [386874-islay-quest.json](./386874-islay-quest.json) |
 | Isle Clash | 132265 | [132265-isle-clash.json](./132265-isle-clash.json) |
