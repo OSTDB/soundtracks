@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfred Chicken | 272843 | [272843-alfred-chicken.json](./272843-alfred-chicken.json) |
 | Alfred Chicken | 7749 | [7749-alfred-chicken.json](./7749-alfred-chicken.json) |
 | Alfred Hitchcock: Vertigo - Digital Deluxe Edition | 165621 | [165621-alfred-hitchcock-vertigo-digital-deluxe-edition.json](./165621-alfred-hitchcock-vertigo-digital-deluxe-edition.json) |
+| Alfred Hitchcock: Vertigo - Limited Edition | 207386 | [207386-alfred-hitchcock-vertigo-limited-edition.json](./207386-alfred-hitchcock-vertigo-limited-edition.json) |
 | Alfred is a Bad Guy | 318611 | [318611-alfred-is-a-bad-guy.json](./318611-alfred-is-a-bad-guy.json) |
 | Alfred Pelrock | 73801 | [73801-alfred-pelrock.json](./73801-alfred-pelrock.json) |
 | Algae | 106601 | [106601-algae.json](./106601-algae.json) |
