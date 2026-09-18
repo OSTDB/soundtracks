@@ -1627,6 +1627,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
 | No Limit Drag Racing 2 | 227370 | [227370-no-limit-drag-racing-2.json](./227370-no-limit-drag-racing-2.json) |
 | No Limits 2 | 80606 | [80606-no-limits-2.json](./80606-no-limits-2.json) |
+| No Limits Downhill Skiing | 218006 | [218006-no-limits-downhill-skiing.json](./218006-no-limits-downhill-skiing.json) |
+| No Limits Hydro Extreme | 218008 | [218008-no-limits-hydro-extreme.json](./218008-no-limits-hydro-extreme.json) |
+| No Limits Skateboarding | 218007 | [218007-no-limits-skateboarding.json](./218007-no-limits-skateboarding.json) |
 | No Logic Inc. | 349321 | [349321-no-logic-inc.json](./349321-no-logic-inc.json) |
 | No Love | 115048 | [115048-no-love.json](./115048-no-love.json) |
 | No Love: 2009 | 399069 | [399069-no-love-2009.json](./399069-no-love-2009.json) |
