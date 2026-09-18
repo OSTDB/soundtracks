@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
+| Agony | 201153 | [201153-agony.json](./201153-agony.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
@@ -3124,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archibald 2 | 116985 | [116985-archibald-2.json](./116985-archibald-2.json) |
 | Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
 | Archipelagates | 258224 | [258224-archipelagates.json](./258224-archipelagates.json) |
+| Archipelago | 201184 | [201184-archipelago.json](./201184-archipelago.json) |
 | Archipelago | 303100 | [303100-archipelago.json](./303100-archipelago.json) |
 | Archipelago Explorer | 302497 | [302497-archipelago-explorer.json](./302497-archipelago-explorer.json) |
 | Archipelago: Island Survival | 297787 | [297787-archipelago-island-survival.json](./297787-archipelago-island-survival.json) |
