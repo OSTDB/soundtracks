@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Later | 348328 | [348328-later.json](./348328-later.json) |
 | Later Daters: Part One and Two | 238183 | [238183-later-daters-part-one-and-two.json](./238183-later-daters-part-one-and-two.json) |
 | Lateral Thinking Together | 372493 | [372493-lateral-thinking-together.json](./372493-lateral-thinking-together.json) |
+| Latin America Empire 2027 | 219664 | [219664-latin-america-empire-2027.json](./219664-latin-america-empire-2027.json) |
 | Lattice 200EC7 | 143664 | [143664-lattice-200ec7.json](./143664-lattice-200ec7.json) |
 | Laugh & Learn: Animal Sounds | 101577 | [101577-laugh-and-learn-animal-sounds.json](./101577-laugh-and-learn-animal-sounds.json) |
 | Laughing in the Wind Mobile | 174880 | [174880-laughing-in-the-wind-mobile.json](./174880-laughing-in-the-wind-mobile.json) |
@@ -521,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laxy Bro | 61037 | [61037-laxy-bro.json](./61037-laxy-bro.json) |
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
 | Layer - Simple is Hard | 128568 | [128568-layer-simple-is-hard.json](./128568-layer-simple-is-hard.json) |
+| Layer Hunt | 219689 | [219689-layer-hunt.json](./219689-layer-hunt.json) |
 | Layer Section & Galactic Attack: S-Tribute | 199159 | [199159-layer-section-and-galactic-attack-s-tribute.json](./199159-layer-section-and-galactic-attack-s-tribute.json) |
 | Layermask | 402995 | [402995-layermask.json](./402995-layermask.json) |
 | Layers | 75098 | [75098-layers.json](./75098-layers.json) |
@@ -2026,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LonQ! Highland in DS: Puu Puu Seijin Arawaru!! Shukketsu Dai-service! Onara no Saiten SP | 269826 | [269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json](./269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json) |
 | Look At Me | 285564 | [285564-look-at-me.json](./285564-look-at-me.json) |
 | Look Closer! | 300405 | [300405-look-closer.json](./300405-look-closer.json) |
+| Look Find Find | 219671 | [219671-look-find-find.json](./219671-look-find-find.json) |
 | Look Outside | 328140 | [328140-look-outside.json](./328140-look-outside.json) |
 | Look Outside: Final Vision | 384618 | [384618-look-outside-final-vision.json](./384618-look-outside-final-vision.json) |
 | Look to the Birds | 414434 | [414434-look-to-the-birds.json](./414434-look-to-the-birds.json) |
