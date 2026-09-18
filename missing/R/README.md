@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
 | Rogue Drone | 107163 | [107163-rogue-drone.json](./107163-rogue-drone.json) |
 | Rogue Dungeon | 188515 | [188515-rogue-dungeon.json](./188515-rogue-dungeon.json) |
+| Rogue Fable II | 181247 | [181247-rogue-fable-ii.json](./181247-rogue-fable-ii.json) |
 | Rogue Flight | 318086 | [318086-rogue-flight.json](./318086-rogue-flight.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
