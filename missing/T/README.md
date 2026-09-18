@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 131536 | [131536-tennis.json](./131536-tennis.json) |
 | Tennis Antics | 54426 | [54426-tennis-antics.json](./54426-tennis-antics.json) |
 | Tennis Arcade VR | 81001 | [81001-tennis-arcade-vr.json](./81001-tennis-arcade-vr.json) |
+| Tennis Arena | 227955 | [227955-tennis-arena.json](./227955-tennis-arena.json) |
 | Tennis Challenge | 230845 | [230845-tennis-challenge.json](./230845-tennis-challenge.json) |
 | Tennis Champs Returns | 58823 | [58823-tennis-champs-returns.json](./58823-tennis-champs-returns.json) |
 | Tennis Club Story | 134020 | [134020-tennis-club-story.json](./134020-tennis-club-story.json) |
@@ -4836,6 +4837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spring | 366312 | [366312-the-spring.json](./366312-the-spring.json) |
 | The Springlock: Aftermath | 315504 | [315504-the-springlock-aftermath.json](./315504-the-springlock-aftermath.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
+| The Squash P | 227921 | [227921-the-squash-p.json](./227921-the-squash-p.json) |
 | The Squeal of the Pig | 249190 | [249190-the-squeal-of-the-pig.json](./249190-the-squeal-of-the-pig.json) |
 | The Squirrel & Sea | 358305 | [358305-the-squirrel-and-sea.json](./358305-the-squirrel-and-sea.json) |
 | The St Christopher's School Lockdown | 74393 | [74393-the-st-christophers-school-lockdown.json](./74393-the-st-christophers-school-lockdown.json) |
@@ -8523,6 +8525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tridonis | 62749 | [62749-tridonis.json](./62749-tridonis.json) |
 | Trifoil | 312574 | [312574-trifoil.json](./312574-trifoil.json) |
 | Triga | 199652 | [199652-triga.json](./199652-triga.json) |
+| Trigaea | 227914 | [227914-trigaea.json](./227914-trigaea.json) |
 | Trigger | 104044 | [104044-trigger.json](./104044-trigger.json) |
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
 | Trigger Rally | 63239 | [63239-trigger-rally.json](./63239-trigger-rally.json) |
