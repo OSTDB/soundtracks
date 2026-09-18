@@ -2811,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
 | Metroid: Takeover | 255384 | [255384-metroid-takeover.json](./255384-metroid-takeover.json) |
 | Metroidvania Bundle | 268482 | [268482-metroidvania-bundle.json](./268482-metroidvania-bundle.json) |
+| Metroland | 201688 | [201688-metroland.json](./201688-metroland.json) |
 | MetroLand | 319770 | [319770-metroland.json](./319770-metroland.json) |
 | Metronome HD | 66601 | [66601-metronome-hd.json](./66601-metronome-hd.json) |
 | Metropocre | 169975 | [169975-metropocre.json](./169975-metropocre.json) |
