@@ -3105,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Pathways | 295386 | [295386-polar-pathways.json](./295386-polar-pathways.json) |
 | Polar Penguin | 239731 | [239731-polar-penguin.json](./239731-polar-penguin.json) |
 | Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
+| Polarize | 228582 | [228582-polarize.json](./228582-polarize.json) |
 | Polary | 163953 | [163953-polary.json](./163953-polary.json) |
 | PolClash | 367964 | [367964-polclash.json](./367964-polclash.json) |
 | Polda | 9713 | [9713-polda.json](./9713-polda.json) |
