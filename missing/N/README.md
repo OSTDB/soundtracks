@@ -581,7 +581,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbours: The Adventure | 267373 | [267373-neighbours-the-adventure.json](./267373-neighbours-the-adventure.json) |
 | Neil The Nail | 270742 | [270742-neil-the-nail.json](./270742-neil-the-nail.json) |
 | Nekketsu Dodgeball-bu i | 191804 | [191804-nekketsu-dodgeball-bu-i.json](./191804-nekketsu-dodgeball-bu-i.json) |
+| Nekketsu Koukou Dodgeball-bu | 191741 | [191741-nekketsu-koukou-dodgeball-bu.json](./191741-nekketsu-koukou-dodgeball-bu.json) |
+| Nekketsu Koukou Dodgeball-bu: PC Bangai-hen | 191740 | [191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json](./191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json) |
+| Nekketsu Koukou Dodgeball-bu: Soccer-hen | 191746 | [191746-nekketsu-koukou-dodgeball-bu-soccer-hen.json](./191746-nekketsu-koukou-dodgeball-bu-soccer-hen.json) |
 | Nekketsu Koukou Online: Yamada no Fukushuu | 191805 | [191805-nekketsu-koukou-online-yamada-no-fukushuu.json](./191805-nekketsu-koukou-online-yamada-no-fukushuu.json) |
+| Nekketsu Koukou Soccer-bu: World Cup-hen | 191733 | [191733-nekketsu-koukou-soccer-bu-world-cup-hen.json](./191733-nekketsu-koukou-soccer-bu-world-cup-hen.json) |
 | Nekketsu Legend Baseballer | 364535 | [364535-nekketsu-legend-baseballer.json](./364535-nekketsu-legend-baseballer.json) |
 | Nekketsu Oyako | 61633 | [61633-nekketsu-oyako.json](./61633-nekketsu-oyako.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
@@ -1591,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Presents: Crossword Collection | 23255 | [23255-nintendo-presents-crossword-collection.json](./23255-nintendo-presents-crossword-collection.json) |
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
 | Nintendo World Championships: NES Edition | 299862 | [299862-nintendo-world-championships-nes-edition.json](./299862-nintendo-world-championships-nes-edition.json) |
+| Nintendo World Cup | 191743 | [191743-nintendo-world-cup.json](./191743-nintendo-world-cup.json) |
 | Nintendogs + Cats: French Bulldog & New Friends | 85600 | [85600-nintendogs-cats-french-bulldog-and-new-friends.json](./85600-nintendogs-cats-french-bulldog-and-new-friends.json) |
 | Nintendogs + Cats: Shiba Inu & New Friends | 222328 | [222328-nintendogs-cats-shiba-inu-and-new-friends.json](./222328-nintendogs-cats-shiba-inu-and-new-friends.json) |
 | Nintendogs: Best Friends | 47727 | [47727-nintendogs-best-friends.json](./47727-nintendogs-best-friends.json) |
