@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
 | Humanity's Fall | 392296 | [392296-humanitys-fall.json](./392296-humanitys-fall.json) |
 | Humanity's Last Hope | 360657 | [360657-humanitys-last-hope.json](./360657-humanitys-last-hope.json) |
+| Humankind: Collection | 205091 | [205091-humankind-collection.json](./205091-humankind-collection.json) |
 | Humankind: Cultures of Africa | 188046 | [188046-humankind-cultures-of-africa.json](./188046-humankind-cultures-of-africa.json) |
 | Humankind: Cultures of Latin America | 204362 | [204362-humankind-cultures-of-latin-america.json](./204362-humankind-cultures-of-latin-america.json) |
 | Humankind: Day One Edition | 139935 | [139935-humankind-day-one-edition.json](./139935-humankind-day-one-edition.json) |
