@@ -1130,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
 | Niche: Breed and Evolve | 174298 | [174298-niche-breed-and-evolve.json](./174298-niche-breed-and-evolve.json) |
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
+| Nick Bounty: A Case of the Crabs | 219150 | [219150-nick-bounty-a-case-of-the-crabs.json](./219150-nick-bounty-a-case-of-the-crabs.json) |
 | Nick Bounty: The Dame with the Blue Chewed Shoe. | 111203 | [111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json](./111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json) |
 | Nick Brawl Community Edition | 325669 | [325669-nick-brawl-community-edition.json](./325669-nick-brawl-community-edition.json) |
 | Nick Faldo Championship Golf | 295038 | [295038-nick-faldo-championship-golf.json](./295038-nick-faldo-championship-golf.json) |
