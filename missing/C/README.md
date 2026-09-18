@@ -2191,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Adventures: A Winter Night's Dream | 163921 | [163921-christmas-adventures-a-winter-nights-dream.json](./163921-christmas-adventures-a-winter-nights-dream.json) |
 | Christmas at Marisol Bay | 184047 | [184047-christmas-at-marisol-bay.json](./184047-christmas-at-marisol-bay.json) |
 | Christmas Bazaar: Manager Simulator | 325265 | [325265-christmas-bazaar-manager-simulator.json](./325265-christmas-bazaar-manager-simulator.json) |
+| Christmas Break | 210085 | [210085-christmas-break.json](./210085-christmas-break.json) |
 | Christmas Break - Breakout Game | 99571 | [99571-christmas-break-breakout-game.json](./99571-christmas-break-breakout-game.json) |
 | Christmas Break 2 Head to Head | 214050 | [214050-christmas-break-2-head-to-head.json](./214050-christmas-break-2-head-to-head.json) |
 | Christmas Bubble Shooter | 86716 | [86716-christmas-bubble-shooter.json](./86716-christmas-bubble-shooter.json) |
@@ -3955,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cops and Robbers Fight | 105917 | [105917-cops-and-robbers-fight.json](./105917-cops-and-robbers-fight.json) |
 | Copter | 291600 | [291600-copter.json](./291600-copter.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
+| Coquette Dragoon: Volume One | 210093 | [210093-coquette-dragoon-volume-one.json](./210093-coquette-dragoon-volume-one.json) |
 | Cor Ex Machina | 63876 | [63876-cor-ex-machina.json](./63876-cor-ex-machina.json) |
 | Cora | 366836 | [366836-cora.json](./366836-cora.json) |
 | Coraabia | 63300 | [63300-coraabia.json](./63300-coraabia.json) |
