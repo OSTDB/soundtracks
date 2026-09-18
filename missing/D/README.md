@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
 | Dabda | 90615 | [90615-dabda.json](./90615-dabda.json) |
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
+| Dacholer | 196168 | [196168-dacholer.json](./196168-dacholer.json) |
 | DACHstudio Jigsaw Puzzle Box: Vanlau's Tinybuns | 289862 | [289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json](./289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
 | Dactylographe | 183533 | [183533-dactylographe.json](./183533-dactylographe.json) |
@@ -1554,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degenerate Souls | 159848 | [159848-degenerate-souls.json](./159848-degenerate-souls.json) |
 | Degeneration | 107891 | [107891-degeneration.json](./107891-degeneration.json) |
 | Degradation: Kyomu's Fury | 265780 | [265780-degradation-kyomus-fury.json](./265780-degradation-kyomus-fury.json) |
+| Degraman: Act I - Vincent | 196165 | [196165-degraman-act-i-vincent.json](./196165-degraman-act-i-vincent.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
 | Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
 | Dehydration | 374723 | [374723-dehydration.json](./374723-dehydration.json) |
@@ -4723,6 +4725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DTXMania GR | 123016 | [123016-dtxmania-gr.json](./123016-dtxmania-gr.json) |
 | DTXMania2 | 123017 | [123017-dtxmania2.json](./123017-dtxmania2.json) |
 | DTXPlayer | 130948 | [130948-dtxplayer.json](./130948-dtxplayer.json) |
+| Dual Brain: Complete Edition | 196178 | [196178-dual-brain-complete-edition.json](./196178-dual-brain-complete-edition.json) |
 | Dual Bus Simulator | 269028 | [269028-dual-bus-simulator.json](./269028-dual-bus-simulator.json) |
 | Dual Chroma: Far Shore | 196699 | [196699-dual-chroma-far-shore.json](./196699-dual-chroma-far-shore.json) |
 | Dual Chroma: Haereticus | 259563 | [259563-dual-chroma-haereticus.json](./259563-dual-chroma-haereticus.json) |
