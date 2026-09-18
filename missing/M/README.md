@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage: Enchanted | 169946 | [169946-mage-enchanted.json](./169946-mage-enchanted.json) |
 | Mage's Legacy | 312162 | [312162-mages-legacy.json](./312162-mages-legacy.json) |
 | Mageanoid | 312190 | [312190-mageanoid.json](./312190-mageanoid.json) |
+| Magefall | 210719 | [210719-magefall.json](./210719-magefall.json) |
 | Magekeepers | 302359 | [302359-magekeepers.json](./302359-magekeepers.json) |
 | Magenta Arcade II | 373639 | [373639-magenta-arcade-ii.json](./373639-magenta-arcade-ii.json) |
 | Magerealm: Rise of Chaos | 12874 | [12874-magerealm-rise-of-chaos.json](./12874-magerealm-rise-of-chaos.json) |
