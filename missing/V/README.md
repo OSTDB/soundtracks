@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie no Bouken: Toki no Kagi Densetsu | 48592 | [48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json](./48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json) |
 | Valkyrie Profile 2: Silmeria | 11793 | [11793-valkyrie-profile-2-silmeria.json](./11793-valkyrie-profile-2-silmeria.json) |
 | Valkyrie Svia | 109002 | [109002-valkyrie-svia.json](./109002-valkyrie-svia.json) |
+| Valkyrie: Dawn of Ragnarok | 230946 | [230946-valkyrie-dawn-of-ragnarok.json](./230946-valkyrie-dawn-of-ragnarok.json) |
 | Valkyrie: Journey to Midgard | 165671 | [165671-valkyrie-journey-to-midgard.json](./165671-valkyrie-journey-to-midgard.json) |
 | Valkyrius | 9434 | [9434-valkyrius.json](./9434-valkyrius.json) |
 | Valla | 394379 | [394379-valla.json](./394379-valla.json) |
