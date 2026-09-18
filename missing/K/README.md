@@ -1374,12 +1374,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
 | Koi Farm | 143633 | [143633-koi-farm.json](./143633-koi-farm.json) |
 | Koi Hai Tunnel | 280878 | [280878-koi-hai-tunnel.json](./280878-koi-hai-tunnel.json) |
+| Koi Iro Rabian Doll | 191693 | [191693-koi-iro-rabian-doll.json](./191693-koi-iro-rabian-doll.json) |
 | Koi Koi Mahjong | 43964 | [43964-koi-koi-mahjong.json](./43964-koi-koi-mahjong.json) |
 | Koi Musubi | 30780 | [30780-koi-musubi.json](./30780-koi-musubi.json) |
 | Koi No Hotrock | 40230 | [40230-koi-no-hotrock.json](./40230-koi-no-hotrock.json) |
 | Koi Shiyo? | 194535 | [194535-koi-shiyo.json](./194535-koi-shiyo.json) |
 | Koi Solitaire | 108415 | [108415-koi-solitaire.json](./108415-koi-solitaire.json) |
 | Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" | 139985 | [139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json](./139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json) |
+| Koi wa Alf Laylah | 191691 | [191691-koi-wa-alf-laylah.json](./191691-koi-wa-alf-laylah.json) |
 | Koi wa Sotto Saku Hana no you ni | 194533 | [194533-koi-wa-sotto-saku-hana-no-you-ni.json](./194533-koi-wa-sotto-saku-hana-no-you-ni.json) |
 | Koi wa Sotto Saku Hana no you ni: Futari wa Eien ni Yorisotte Iku | 194534 | [194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json](./194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json) |
 | Koi x Mitsu Set | 221253 | [221253-koi-x-mitsu-set.json](./221253-koi-x-mitsu-set.json) |
