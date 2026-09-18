@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
 | Karaoke Klassics: Family Favorites | 45922 | [45922-karaoke-klassics-family-favorites.json](./45922-karaoke-klassics-family-favorites.json) |
 | Karaoke Party | 137687 | [137687-karaoke-party.json](./137687-karaoke-party.json) |
+| Karaoke Revolution Anime Song Selection | 194435 | [194435-karaoke-revolution-anime-song-selection.json](./194435-karaoke-revolution-anime-song-selection.json) |
 | Karaoke Revolution Glee: Volume 2 | 50617 | [50617-karaoke-revolution-glee-volume-2.json](./50617-karaoke-revolution-glee-volume-2.json) |
 | Karaoke Revolution Glee: Volume 3 | 50616 | [50616-karaoke-revolution-glee-volume-3.json](./50616-karaoke-revolution-glee-volume-3.json) |
 | Karaoke Revolution Presents: American Idol Encore 2 | 47432 | [47432-karaoke-revolution-presents-american-idol-encore-2.json](./47432-karaoke-revolution-presents-american-idol-encore-2.json) |
