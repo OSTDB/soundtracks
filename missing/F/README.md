@@ -2590,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
 | Focumon | 397828 | [397828-focumon.json](./397828-focumon.json) |
+| Focus | 182941 | [182941-focus.json](./182941-focus.json) |
 | Focus | 242576 | [242576-focus.json](./242576-focus.json) |
 | Focus | 381028 | [381028-focus.json](./381028-focus.json) |
 | Focus | 407452 | [407452-focus.json](./407452-focus.json) |
