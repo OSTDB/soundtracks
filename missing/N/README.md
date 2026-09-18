@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightReaper2 | 388192 | [388192-nightreaper2.json](./388192-nightreaper2.json) |
 | Nights into Dreams | 199025 | [199025-nights-into-dreams.json](./199025-nights-into-dreams.json) |
 | Nights of Azure 2: Bonus Costume - Blue High School Uniform | 396394 | [396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json](./396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json) |
+| Nights of Azure: GS Saikyou Combo Set - Super Limited Edition | 212324 | [212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json](./212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json) |
 | Nights To Remember | 263772 | [263772-nights-to-remember.json](./263772-nights-to-remember.json) |
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
 | Nightshade | 39119 | [39119-nightshade.json](./39119-nightshade.json) |
@@ -1737,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Awakening - Set of 6 Scenarios | 347227 | [347227-nobunagas-ambition-awakening-set-of-6-scenarios.json](./347227-nobunagas-ambition-awakening-set-of-6-scenarios.json) |
 | Nobunaga's Ambition: Hadou | 371347 | [371347-nobunagas-ambition-hadou.json](./371347-nobunagas-ambition-hadou.json) |
 | Nobunaga's Ambition: Hishou | 405470 | [405470-nobunagas-ambition-hishou.json](./405470-nobunagas-ambition-hishou.json) |
+| Nobunaga’s Ambition: Rebirth - Treasure Box Limited Edition | 212328 | [212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json](./212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json) |
 | NOBUNAGA'S AMBITION: Sengoku Gunyuuden | 90573 | [90573-nobunagas-ambition-sengoku-gunyuuden.json](./90573-nobunagas-ambition-sengoku-gunyuuden.json) |
 | Nobunaga's Ambition: Souzou - Dokuganryutatsu Scenario | 150668 | [150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json](./150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json) |
 | Nobunaga's Ambition: Souzou - Itsukushima Scenario | 150675 | [150675-nobunagas-ambition-souzou-itsukushima-scenario.json](./150675-nobunagas-ambition-souzou-itsukushima-scenario.json) |
