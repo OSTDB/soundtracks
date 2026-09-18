@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
 | Adventure Mansion | 283899 | [283899-adventure-mansion.json](./283899-adventure-mansion.json) |
 | Adventure Master | 381130 | [381130-adventure-master.json](./381130-adventure-master.json) |
+| Adventure Mosaics: Moto-Trip | 196155 | [196155-adventure-mosaics-moto-trip.json](./196155-adventure-mosaics-moto-trip.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
 | Adventure of Elysia | 219702 | [219702-adventure-of-elysia.json](./219702-adventure-of-elysia.json) |
@@ -652,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
+| Adventures of Samuel: The Worst Game Ever Made | 196160 | [196160-adventures-of-samuel-the-worst-game-ever-made.json](./196160-adventures-of-samuel-the-worst-game-ever-made.json) |
 | Adventures of the Cat Leopold | 53166 | [53166-adventures-of-the-cat-leopold.json](./53166-adventures-of-the-cat-leopold.json) |
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
@@ -1515,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almistice | 274010 | [274010-almistice.json](./274010-almistice.json) |
 | Almond Ridge | 270753 | [270753-almond-ridge.json](./270753-almond-ridge.json) |
 | Almos a Dream Painter's Tale | 415125 | [415125-almos-a-dream-painters-tale.json](./415125-almos-a-dream-painters-tale.json) |
+| Almost My Floor: Halloween Party | 196131 | [196131-almost-my-floor-halloween-party.json](./196131-almost-my-floor-halloween-party.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Almost There: The Platformer | 113722 | [113722-almost-there-the-platformer.json](./113722-almost-there-the-platformer.json) |
 | Alnahsha Run | 202235 | [202235-alnahsha-run.json](./202235-alnahsha-run.json) |
@@ -2941,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rastan Saga II | 306525 | [306525-arcade-archives-rastan-saga-ii.json](./306525-arcade-archives-rastan-saga-ii.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
 | Arcade Archives: Roller Jammer | 210745 | [210745-arcade-archives-roller-jammer.json](./210745-arcade-archives-roller-jammer.json) |
+| Arcade Archives: Rolling Thunder | 196174 | [196174-arcade-archives-rolling-thunder.json](./196174-arcade-archives-rolling-thunder.json) |
 | Arcade Archives: Rolling Thunder 2 | 251000 | [251000-arcade-archives-rolling-thunder-2.json](./251000-arcade-archives-rolling-thunder-2.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
 | Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
