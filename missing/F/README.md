@@ -2759,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of the Abyss 2 | 98458 | [98458-forest-of-the-abyss-2.json](./98458-forest-of-the-abyss-2.json) |
 | Forest Plague | 109712 | [109712-forest-plague.json](./109712-forest-plague.json) |
 | Forest Pop | 218724 | [218724-forest-pop.json](./218724-forest-pop.json) |
+| Forest Puzzle | 209561 | [209561-forest-puzzle.json](./209561-forest-puzzle.json) |
 | Forest Ranger Services: Episode 1 | 340232 | [340232-forest-ranger-services-episode-1.json](./340232-forest-ranger-services-episode-1.json) |
 | Forest Reigns | 328032 | [328032-forest-reigns.json](./328032-forest-reigns.json) |
 | Forest Restoration | 361744 | [361744-forest-restoration.json](./361744-forest-restoration.json) |
@@ -2829,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Playland: Party Edition | 392803 | [392803-forgotten-playland-party-edition.json](./392803-forgotten-playland-party-edition.json) |
 | Forgotten Possessions | 392775 | [392775-forgotten-possessions.json](./392775-forgotten-possessions.json) |
 | Forgotten Realms: Hillsfar | 195752 | [195752-forgotten-realms-hillsfar.json](./195752-forgotten-realms-hillsfar.json) |
+| Forgotten Riddles: The Mayan Princess | 209562 | [209562-forgotten-riddles-the-mayan-princess.json](./209562-forgotten-riddles-the-mayan-princess.json) |
 | Forgotten Roads | 262940 | [262940-forgotten-roads.json](./262940-forgotten-roads.json) |
 | Forgotten Saga | 145572 | [145572-forgotten-saga.json](./145572-forgotten-saga.json) |
 | Forgotten Sound 1: Revelation | 83595 | [83595-forgotten-sound-1-revelation.json](./83595-forgotten-sound-1-revelation.json) |
@@ -2903,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Apache | 132816 | [132816-fort-apache.json](./132816-fort-apache.json) |
 | Fort Apocalypse | 13850 | [13850-fort-apocalypse.json](./13850-fort-apocalypse.json) |
 | Fort Apocalypse II | 47202 | [47202-fort-apocalypse-ii.json](./47202-fort-apocalypse-ii.json) |
+| Fort Commander: King's Gambit | 209563 | [209563-fort-commander-kings-gambit.json](./209563-fort-commander-kings-gambit.json) |
 | Fort Driant | 271753 | [271753-fort-driant.json](./271753-fort-driant.json) |
 | Fort Loop | 183015 | [183015-fort-loop.json](./183015-fort-loop.json) |
 | Fort Solis: Limited Edition | 261540 | [261540-fort-solis-limited-edition.json](./261540-fort-solis-limited-edition.json) |
@@ -3047,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Gods M | 200749 | [200749-four-gods-m.json](./200749-four-gods-m.json) |
 | Four Great Games: Volume 2 | 70359 | [70359-four-great-games-volume-2.json](./70359-four-great-games-volume-2.json) |
 | Four Horsemen | 232040 | [232040-four-horsemen.json](./232040-four-horsemen.json) |
+| Four Houses | 209564 | [209564-four-houses.json](./209564-four-houses.json) |
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
 | Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
 | Four Lights | 406727 | [406727-four-lights.json](./406727-four-lights.json) |
@@ -3203,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freakshow | 348840 | [348840-freakshow.json](./348840-freakshow.json) |
 | Freakshow: Anniversary | 99575 | [99575-freakshow-anniversary.json](./99575-freakshow-anniversary.json) |
 | Freaky Awesome | 27711 | [27711-freaky-awesome.json](./27711-freaky-awesome.json) |
+| Freaky Creatures | 209565 | [209565-freaky-creatures.json](./209565-freaky-creatures.json) |
 | Freaky Fish DX | 185624 | [185624-freaky-fish-dx.json](./185624-freaky-fish-dx.json) |
 | Freaky Racing | 233112 | [233112-freaky-racing.json](./233112-freaky-racing.json) |
 | Freaky Trip: Amazing Edition | 308803 | [308803-freaky-trip-amazing-edition.json](./308803-freaky-trip-amazing-edition.json) |
@@ -3214,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frebbventure | 215240 | [215240-frebbventure.json](./215240-frebbventure.json) |
 | Fred Fuches Around | 397693 | [397693-fred-fuches-around.json](./397693-fred-fuches-around.json) |
 | Fred Johnson's: Mech Simulator | 326429 | [326429-fred-johnsons-mech-simulator.json](./326429-fred-johnsons-mech-simulator.json) |
+| Fred Penner's Company Coming | 209566 | [209566-fred-penners-company-coming.json](./209566-fred-penners-company-coming.json) |
 | Fred the Movie: Figglehorn Fling | 320943 | [320943-fred-the-movie-figglehorn-fling.json](./320943-fred-the-movie-figglehorn-fling.json) |
 | Fred's Cereal Company | 253950 | [253950-freds-cereal-company.json](./253950-freds-cereal-company.json) |
 | Fredbear's Fright | 225631 | [225631-fredbears-fright.json](./225631-fredbears-fright.json) |
@@ -3311,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fricassee | 267995 | [267995-fricassee.json](./267995-fricassee.json) |
 | Friday | 130926 | [130926-friday.json](./130926-friday.json) |
 | Friday | 248026 | [248026-friday.json](./248026-friday.json) |
+| Friday Night 3D Bowling | 209570 | [209570-friday-night-3d-bowling.json](./209570-friday-night-3d-bowling.json) |
 | Friday Night 3D Pool | 57610 | [57610-friday-night-3d-pool.json](./57610-friday-night-3d-pool.json) |
 | Friday Night Bullet Arena | 31702 | [31702-friday-night-bullet-arena.json](./31702-friday-night-bullet-arena.json) |
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
@@ -3658,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fùchóuzhě Liánméng: Zhōngjí Yīngxióng | 82052 | [82052-fuchouzhe-lianmeng-zhongji-yingxiong.json](./82052-fuchouzhe-lianmeng-zhongji-yingxiong.json) |
 | Fuck Fest | 346687 | [346687-fuck-fest.json](./346687-fuck-fest.json) |
 | Fuck Paper Scissors | 344382 | [344382-fuck-paper-scissors.json](./344382-fuck-paper-scissors.json) |
+| Fuck Putin | 209542 | [209542-fuck-putin.json](./209542-fuck-putin.json) |
 | Fuck Quest 2: Romancing the Bone | 69235 | [69235-fuck-quest-2-romancing-the-bone.json](./69235-fuck-quest-2-romancing-the-bone.json) |
 | Fuck Space! | 199085 | [199085-fuck-space.json](./199085-fuck-space.json) |
 | Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
