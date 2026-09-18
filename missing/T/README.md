@@ -2051,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bread Pub Brawlers | 86118 | [86118-the-bread-pub-brawlers.json](./86118-the-bread-pub-brawlers.json) |
 | The Bridge | 352753 | [352753-the-bridge.json](./352753-the-bridge.json) |
 | The Bridge | 8440 | [8440-the-bridge.json](./8440-the-bridge.json) |
+| The Bridge Curse: Road to Salvation | 193312 | [193312-the-bridge-curse-road-to-salvation.json](./193312-the-bridge-curse-road-to-salvation.json) |
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
 | The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
 | The Brothers Hotel | 333084 | [333084-the-brothers-hotel.json](./333084-the-brothers-hotel.json) |
@@ -3258,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Immortal Mayor: The Feather Kingdom | 293756 | [293756-the-immortal-mayor-the-feather-kingdom.json](./293756-the-immortal-mayor-the-feather-kingdom.json) |
 | The Implant | 289991 | [289991-the-implant.json](./289991-the-implant.json) |
 | The Impossible Bottle | 216323 | [216323-the-impossible-bottle.json](./216323-the-impossible-bottle.json) |
+| The Impossible Game 2 | 193311 | [193311-the-impossible-game-2.json](./193311-the-impossible-game-2.json) |
 | The Impossible Knight Runner | 215740 | [215740-the-impossible-knight-runner.json](./215740-the-impossible-knight-runner.json) |
 | The Impossible Quiz | 62166 | [62166-the-impossible-quiz.json](./62166-the-impossible-quiz.json) |
 | The Impossible Quiz 2 | 61548 | [61548-the-impossible-quiz-2.json](./61548-the-impossible-quiz-2.json) |
