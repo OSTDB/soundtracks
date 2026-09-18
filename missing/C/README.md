@@ -2874,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Climber | 142314 | [142314-cloud-climber.json](./142314-cloud-climber.json) |
 | Cloud Escape | 183612 | [183612-cloud-escape.json](./183612-cloud-escape.json) |
 | Cloud Grove | 59934 | [59934-cloud-grove.json](./59934-cloud-grove.json) |
+| Cloud Heart | 211822 | [211822-cloud-heart.json](./211822-cloud-heart.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
 | Cloud of Souls | 25766 | [25766-cloud-of-souls.json](./25766-cloud-of-souls.json) |
 | Cloud Piercer | 322767 | [322767-cloud-piercer.json](./322767-cloud-piercer.json) |
