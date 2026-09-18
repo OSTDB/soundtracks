@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack a Vote: Hammering the Polls | 30785 | [30785-whack-a-vote-hammering-the-polls.json](./30785-whack-a-vote-hammering-the-polls.json) |
 | Whack First!: Fight the Moles | 212268 | [212268-whack-first-fight-the-moles.json](./212268-whack-first-fight-the-moles.json) |
 | Whack Your Computer | 356717 | [356717-whack-your-computer.json](./356717-whack-your-computer.json) |
+| Whack Your Ex | 193853 | [193853-whack-your-ex.json](./193853-whack-your-ex.json) |
 | Whack-A-Friend | 85486 | [85486-whack-a-friend.json](./85486-whack-a-friend.json) |
 | Whack-a-Mole | 288363 | [288363-whack-a-mole.json](./288363-whack-a-mole.json) |
 | Whack-A-Monster | 410919 | [410919-whack-a-monster.json](./410919-whack-a-monster.json) |
