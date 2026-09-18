@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reef Rivals | 191825 | [191825-reef-rivals.json](./191825-reef-rivals.json) |
 | Reef Shot | 63699 | [63699-reef-shot.json](./63699-reef-shot.json) |
 | Reek N' Havok | 167254 | [167254-reek-n-havok.json](./167254-reek-n-havok.json) |
+| Reel | 205100 | [205100-reel.json](./205100-reel.json) |
 | Reel Deal Card Games | 77387 | [77387-reel-deal-card-games.json](./77387-reel-deal-card-games.json) |
 | Reel Deal Card Games '09 | 77388 | [77388-reel-deal-card-games-09.json](./77388-reel-deal-card-games-09.json) |
 | Reel Deal Card Games 2011 | 77389 | [77389-reel-deal-card-games-2011.json](./77389-reel-deal-card-games-2011.json) |
@@ -1377,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remembrance | 181889 | [181889-remembrance.json](./181889-remembrance.json) |
 | Remembrance | 82917 | [82917-remembrance.json](./82917-remembrance.json) |
 | Rememento: White Shadow | 371316 | [371316-rememento-white-shadow.json](./371316-rememento-white-shadow.json) |
+| Rememory | 205102 | [205102-rememory.json](./205102-rememory.json) |
 | RememPair | 349304 | [349304-remempair.json](./349304-remempair.json) |
 | Remi | 388700 | [388700-remi.json](./388700-remi.json) |
 | RemiFla Spirits 2 | 213957 | [213957-remifla-spirits-2.json](./213957-remifla-spirits-2.json) |
@@ -2123,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Right Swipes: Blast Date | 200735 | [200735-right-swipes-blast-date.json](./200735-right-swipes-blast-date.json) |
 | Righteous Kill | 209161 | [209161-righteous-kill.json](./209161-righteous-kill.json) |
 | Rights of Progression | 229921 | [229921-rights-of-progression.json](./229921-rights-of-progression.json) |
+| Rigid Memory | 205107 | [205107-rigid-memory.json](./205107-rigid-memory.json) |
 | Riglord Saga 2 | 73838 | [73838-riglord-saga-2.json](./73838-riglord-saga-2.json) |
 | Riichi City | 187355 | [187355-riichi-city.json](./187355-riichi-city.json) |
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
@@ -2530,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
 | Robotech: The Macross Saga | 245414 | [245414-robotech-the-macross-saga.json](./245414-robotech-the-macross-saga.json) |
 | Robotek | 87699 | [87699-robotek.json](./87699-robotek.json) |
+| Robotfindskitten | 205093 | [205093-robotfindskitten.json](./205093-robotfindskitten.json) |
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
 | Robotica | 211292 | [211292-robotica.json](./211292-robotica.json) |
 | Robotics;Notes | 7162 | [7162-robotics-notes.json](./7162-robotics-notes.json) |
