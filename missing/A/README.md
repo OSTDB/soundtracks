@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Spades | 236386 | [236386-ace-of-spades.json](./236386-ace-of-spades.json) |
 | Ace Pilot Pacific | 283877 | [283877-ace-pilot-pacific.json](./283877-ace-pilot-pacific.json) |
 | Ace Racer | 174905 | [174905-ace-racer.json](./174905-ace-racer.json) |
+| Ace Racing Turbo | 200057 | [200057-ace-racing-turbo.json](./200057-ace-racing-turbo.json) |
 | Ace Triad | 283890 | [283890-ace-triad.json](./283890-ace-triad.json) |
 | Ace Ventura: Pet Detective - The Case of the Serial Shaver | 61643 | [61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json](./61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json) |
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
@@ -1038,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akimbot | 300484 | [300484-akimbot.json](./300484-akimbot.json) |
 | Akin | 32403 | [32403-akin.json](./32403-akin.json) |
 | Akin Vol 2 | 50505 | [50505-akin-vol-2.json](./50505-akin-vol-2.json) |
+| Akindo | 200052 | [200052-akindo.json](./200052-akindo.json) |
 | Akira | 14234 | [14234-akira.json](./14234-akira.json) |
 | Akira | 248743 | [248743-akira.json](./248743-akira.json) |
 | Akira | 248744 | [248744-akira.json](./248744-akira.json) |
@@ -1731,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
 | Ambient Water | 66606 | [66606-ambient-water.json](./66606-ambient-water.json) |
+| Ambition: Strategy War Game | 200037 | [200037-ambition-strategy-war-game.json](./200037-ambition-strategy-war-game.json) |
 | Ambitions: Birth of a President | 140568 | [140568-ambitions-birth-of-a-president.json](./140568-ambitions-birth-of-a-president.json) |
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
 | Ambrosia's | 185613 | [185613-ambrosias.json](./185613-ambrosias.json) |
@@ -3104,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer Pinball | 261802 | [261802-archer-pinball.json](./261802-archer-pinball.json) |
 | Archer: Sheshou | 246990 | [246990-archer-sheshou.json](./246990-archer-sheshou.json) |
 | Archer's Adventure | 165706 | [165706-archers-adventure.json](./165706-archers-adventure.json) |
+| ArcherCat | 200020 | [200020-archercat.json](./200020-archercat.json) |
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
 | Archers Online | 316047 | [316047-archers-online.json](./316047-archers-online.json) |
 | Archers Shadow Strike | 332536 | [332536-archers-shadow-strike.json](./332536-archers-shadow-strike.json) |
