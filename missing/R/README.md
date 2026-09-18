@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
 | Resequenced | 96650 | [96650-resequenced.json](./96650-resequenced.json) |
+| Reset | 195635 | [195635-reset.json](./195635-reset.json) |
 | Reset | 23906 | [23906-reset.json](./23906-reset.json) |
 | Reset | 305373 | [305373-reset.json](./305373-reset.json) |
 | Reshape | 255729 | [255729-reshape.json](./255729-reshape.json) |
@@ -1986,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richman Fight | 75132 | [75132-richman-fight.json](./75132-richman-fight.json) |
 | Richman Online | 125441 | [125441-richman-online.json](./125441-richman-online.json) |
 | Richup.io | 141249 | [141249-richup-io.json](./141249-richup-io.json) |
+| Rick and Josh adventures | 195620 | [195620-rick-and-josh-adventures.json](./195620-rick-and-josh-adventures.json) |
 | Rick and Morty Game | 307573 | [307573-rick-and-morty-game.json](./307573-rick-and-morty-game.json) |
 | Rick and Morty: Virtual Rick-ality | 20459 | [20459-rick-and-morty-virtual-rick-ality.json](./20459-rick-and-morty-virtual-rick-ality.json) |
 | Rick Dangerous 2 | 12203 | [12203-rick-dangerous-2.json](./12203-rick-dangerous-2.json) |
