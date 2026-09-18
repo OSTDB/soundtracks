@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikaze Saucers | 40733 | [40733-kamikaze-saucers.json](./40733-kamikaze-saucers.json) |
 | Kamikazo VR | 82142 | [82142-kamikazo-vr.json](./82142-kamikazo-vr.json) |
 | Kamiko | 28015 | [28015-kamiko.json](./28015-kamiko.json) |
+| Kaminariko Konpeki no Akira | 221246 | [221246-kaminariko-konpeki-no-akira.json](./221246-kaminariko-konpeki-no-akira.json) |
 | Kamiori | 104647 | [104647-kamiori.json](./104647-kamiori.json) |
 | Kamisama no Hitsugi | 328215 | [328215-kamisama-no-hitsugi.json](./328215-kamisama-no-hitsugi.json) |
 | Kamisama: Spirit of the Shrine | 218737 | [218737-kamisama-spirit-of-the-shrine.json](./218737-kamisama-spirit-of-the-shrine.json) |
@@ -604,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid's Preschool Game Box | 87692 | [87692-kids-preschool-game-box.json](./87692-kids-preschool-game-box.json) |
 | Kiddie Coaster | 66045 | [66045-kiddie-coaster.json](./66045-kiddie-coaster.json) |
 | Kiddies Party Pack | 100174 | [100174-kiddies-party-pack.json](./100174-kiddies-party-pack.json) |
+| Kiddy Memory | 221264 | [221264-kiddy-memory.json](./221264-kiddy-memory.json) |
 | Kidname: Iceboy | 323333 | [323333-kidname-iceboy.json](./323333-kidname-iceboy.json) |
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kidney Stone Clicker | 369630 | [369630-kidney-stone-clicker.json](./369630-kidney-stone-clicker.json) |
@@ -1342,6 +1344,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" | 139985 | [139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json](./139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json) |
 | Koi wa Sotto Saku Hana no you ni | 194533 | [194533-koi-wa-sotto-saku-hana-no-you-ni.json](./194533-koi-wa-sotto-saku-hana-no-you-ni.json) |
 | Koi wa Sotto Saku Hana no you ni: Futari wa Eien ni Yorisotte Iku | 194534 | [194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json](./194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json) |
+| Koi x Mitsu Set | 221253 | [221253-koi-x-mitsu-set.json](./221253-koi-x-mitsu-set.json) |
+| Koi x Mitsu: Kinuori Futaba to Okashi no Kuni no Yakusoku | 221247 | [221247-koi-x-mitsu-kinuori-futaba-to-okashi-no-kuni-no-yakusoku.json](./221247-koi-x-mitsu-kinuori-futaba-to-okashi-no-kuni-no-yakusoku.json) |
+| Koi x Mitsu: Senba Shizuku to Saboten no Tegami | 221248 | [221248-koi-x-mitsu-senba-shizuku-to-saboten-no-tegami.json](./221248-koi-x-mitsu-senba-shizuku-to-saboten-no-tegami.json) |
+| Koi x Mitsu: Yaeneri Saki to Akai Ito no Ouji-sama | 221249 | [221249-koi-x-mitsu-yaeneri-saki-to-akai-ito-no-ouji-sama.json](./221249-koi-x-mitsu-yaeneri-saki-to-akai-ito-no-ouji-sama.json) |
 | Koi-Koi Japan: Ukiyoe Deluxe Edition | 53261 | [53261-koi-koi-japan-ukiyoe-deluxe-edition.json](./53261-koi-koi-japan-ukiyoe-deluxe-edition.json) |
 | Koibumi | 279130 | [279130-koibumi.json](./279130-koibumi.json) |
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
@@ -1388,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kombate Mexicano Elexiones | 261555 | [261555-kombate-mexicano-elexiones.json](./261555-kombate-mexicano-elexiones.json) |
 | Kombinera | 194249 | [194249-kombinera.json](./194249-kombinera.json) |
 | Kommersant | 180295 | [180295-kommersant.json](./180295-kommersant.json) |
+| Kommissar Kugelblitz: Der Fall Wüstenkönig | 221256 | [221256-kommissar-kugelblitz-der-fall-wustenkonig.json](./221256-kommissar-kugelblitz-der-fall-wustenkonig.json) |
 | Kommissar Kugelblitz: Vermisst am Mississippi | 282691 | [282691-kommissar-kugelblitz-vermisst-am-mississippi.json](./282691-kommissar-kugelblitz-vermisst-am-mississippi.json) |
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
 | Kona Project | 299742 | [299742-kona-project.json](./299742-kona-project.json) |
