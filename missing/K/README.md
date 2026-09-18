@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Rhythm TD | 306996 | [306996-kitty-rhythm-td.json](./306996-kitty-rhythm-td.json) |
 | Kitty's Adventure for XBox One | 358365 | [358365-kittys-adventure-for-xbox-one.json](./358365-kittys-adventure-for-xbox-one.json) |
 | Kitty's Last Adventure | 295372 | [295372-kittys-last-adventure.json](./295372-kittys-last-adventure.json) |
+| Kity Builder | 204525 | [204525-kity-builder.json](./204525-kity-builder.json) |
 | Kivi, Toilet and Shotgun | 16308 | [16308-kivi-toilet-and-shotgun.json](./16308-kivi-toilet-and-shotgun.json) |
 | Kiwame Mahjong DX II | 97872 | [97872-kiwame-mahjong-dx-ii.json](./97872-kiwame-mahjong-dx-ii.json) |
 | Kiwi | 186256 | [186256-kiwi.json](./186256-kiwi.json) |
@@ -1592,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kukui 2 | 140011 | [140011-kukui-2.json](./140011-kukui-2.json) |
 | Kukumushi Virtual Pet | 189134 | [189134-kukumushi-virtual-pet.json](./189134-kukumushi-virtual-pet.json) |
 | Kula | 164992 | [164992-kula.json](./164992-kula.json) |
+| Kulebra and the Souls of Limbo | 204533 | [204533-kulebra-and-the-souls-of-limbo.json](./204533-kulebra-and-the-souls-of-limbo.json) |
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
 | Kumamaru Adventure | 297638 | [297638-kumamaru-adventure.json](./297638-kumamaru-adventure.json) |
 | Kumamon Run | 283275 | [283275-kumamon-run.json](./283275-kumamon-run.json) |
