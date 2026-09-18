@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrifices | 330126 | [330126-sacrifices.json](./330126-sacrifices.json) |
 | SacriFrogos | 390009 | [390009-sacrifrogos.json](./390009-sacrifrogos.json) |
 | Sacrilege | 61634 | [61634-sacrilege.json](./61634-sacrilege.json) |
+| Sad But Ded | 185527 | [185527-sad-but-ded.json](./185527-sad-but-ded.json) |
 | Sad Ghouls | 194655 | [194655-sad-ghouls.json](./194655-sad-ghouls.json) |
 | Sad RPG | 124135 | [124135-sad-rpg.json](./124135-sad-rpg.json) |
 | Sad Virus Foodland | 367389 | [367389-sad-virus-foodland.json](./367389-sad-virus-foodland.json) |
@@ -2243,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Runes | 151154 | [151154-shattered-runes.json](./151154-shattered-runes.json) |
 | Shattered Sky | 244502 | [244502-shattered-sky.json](./244502-shattered-sky.json) |
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
+| Shattered Stone | 185545 | [185545-shattered-stone.json](./185545-shattered-stone.json) |
 | Shattered Void | 340380 | [340380-shattered-void.json](./340380-shattered-void.json) |
 | Shattered World | 264632 | [264632-shattered-world.json](./264632-shattered-world.json) |
 | Shattered Worlds | 155654 | [155654-shattered-worlds.json](./155654-shattered-worlds.json) |
@@ -3982,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slippery Richard!: He's Taller Than My Husband | 225100 | [225100-slippery-richard-hes-taller-than-my-husband.json](./225100-slippery-richard-hes-taller-than-my-husband.json) |
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
 | Slippery Sid | 255769 | [255769-slippery-sid.json](./255769-slippery-sid.json) |
+| Slippy Santa | 185515 | [185515-slippy-santa.json](./185515-slippy-santa.json) |
 | Slippy Slug | 34671 | [34671-slippy-slug.json](./34671-slippy-slug.json) |
 | Slippy the Frog | 258027 | [258027-slippy-the-frog.json](./258027-slippy-the-frog.json) |
 | SlipSlop | 119736 | [119736-slipslop.json](./119736-slipslop.json) |
@@ -4152,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Track Drifters | 143634 | [143634-smash-track-drifters.json](./143634-smash-track-drifters.json) |
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
 | Smash'em | 158703 | [158703-smashem.json](./158703-smashem.json) |
+| Smash'em | 185543 | [185543-smashem.json](./185543-smashem.json) |
 | Smashbreak | 208959 | [208959-smashbreak.json](./208959-smashbreak.json) |
 | Smashcat | 10835 | [10835-smashcat.json](./10835-smashcat.json) |
 | Smasher | 112976 | [112976-smasher.json](./112976-smasher.json) |
@@ -6778,6 +6782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Route | 98997 | [98997-square-route.json](./98997-square-route.json) |
 | Square Shooter | 108482 | [108482-square-shooter.json](./108482-square-shooter.json) |
 | Square Valley | 200051 | [200051-square-valley.json](./200051-square-valley.json) |
+| Square Worlds | 185538 | [185538-square-worlds.json](./185538-square-worlds.json) |
 | Square: Trial and Error | 361781 | [361781-square-trial-and-error.json](./361781-square-trial-and-error.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
 | Squared: Adjacent Stones | 241996 | [241996-squared-adjacent-stones.json](./241996-squared-adjacent-stones.json) |
