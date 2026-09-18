@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waves of Chess | 383496 | [383496-waves-of-chess.json](./383496-waves-of-chess.json) |
 | Waves of Death VR | 132229 | [132229-waves-of-death-vr.json](./132229-waves-of-death-vr.json) |
 | Waves of the Imperial Garden | 343810 | [343810-waves-of-the-imperial-garden.json](./343810-waves-of-the-imperial-garden.json) |
+| Waves Running Simulator | 195125 | [195125-waves-running-simulator.json](./195125-waves-running-simulator.json) |
 | Waves: Arena Tactics | 93630 | [93630-waves-arena-tactics.json](./93630-waves-arena-tactics.json) |
 | Wavetale | 165309 | [165309-wavetale.json](./165309-wavetale.json) |
 | Waving Around | 347174 | [347174-waving-around.json](./347174-waving-around.json) |
@@ -1480,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West C.O.W.-Boys of Moo Mesa | 39383 | [39383-wild-west-c-o-w-boys-of-moo-mesa.json](./39383-wild-west-c-o-w-boys-of-moo-mesa.json) |
 | Wild West Crops | 143637 | [143637-wild-west-crops.json](./143637-wild-west-crops.json) |
 | Wild West Fights: Girls Fighting World | 100751 | [100751-wild-west-fights-girls-fighting-world.json](./100751-wild-west-fights-girls-fighting-world.json) |
+| Wild West Gringos | 195105 | [195105-wild-west-gringos.json](./195105-wild-west-gringos.json) |
 | Wild West Pioneers | 341034 | [341034-wild-west-pioneers.json](./341034-wild-west-pioneers.json) |
 | Wild West Quest: Gold Rush | 100223 | [100223-wild-west-quest-gold-rush.json](./100223-wild-west-quest-gold-rush.json) |
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
@@ -1705,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter's Fall | 177488 | [177488-winters-fall.json](./177488-winters-fall.json) |
 | Winter's Fury | 196250 | [196250-winters-fury.json](./196250-winters-fury.json) |
 | Winter's Tail: How One Little Dolphin Learned to Swim Again | 63866 | [63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json](./63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json) |
+| Winter's Wish: Spirits of Edo | 195090 | [195090-winters-wish-spirits-of-edo.json](./195090-winters-wish-spirits-of-edo.json) |
 | Winterclaw | 291095 | [291095-winterclaw.json](./291095-winterclaw.json) |
 | Winterfall | 308238 | [308238-winterfall.json](./308238-winterfall.json) |
 | Winterfest | 323923 | [323923-winterfest.json](./323923-winterfest.json) |
@@ -2468,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Visitor | 210645 | [210645-worm-visitor.json](./210645-worm-visitor.json) |
 | Worm War: Greengrocer | 290420 | [290420-worm-war-greengrocer.json](./290420-worm-war-greengrocer.json) |
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
+| Wormhole | 195084 | [195084-wormhole.json](./195084-wormhole.json) |
 | Wormhole | 307618 | [307618-wormhole.json](./307618-wormhole.json) |
 | Wormhole | 374611 | [374611-wormhole.json](./374611-wormhole.json) |
 | Wormhole Warfare | 176995 | [176995-wormhole-warfare.json](./176995-wormhole-warfare.json) |
