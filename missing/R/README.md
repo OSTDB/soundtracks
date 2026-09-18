@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
 | RealityMinds | 165651 | [165651-realityminds.json](./165651-realityminds.json) |
 | Really Dog | 276182 | [276182-really-dog.json](./276182-really-dog.json) |
+| Really really auto chess | 183971 | [183971-really-really-auto-chess.json](./183971-really-really-auto-chess.json) |
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
@@ -1536,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repulse | 47201 | [47201-repulse.json](./47201-repulse.json) |
 | Repulse: Galactic Rivals | 75166 | [75166-repulse-galactic-rivals.json](./75166-repulse-galactic-rivals.json) |
 | Repulsor | 199593 | [199593-repulsor.json](./199593-repulsor.json) |
+| Requeue | 183972 | [183972-requeue.json](./183972-requeue.json) |
 | Requia Online | 175329 | [175329-requia-online.json](./175329-requia-online.json) |
 | Requie-mu | 292859 | [292859-requie-mu.json](./292859-requie-mu.json) |
 | Requiem | 377166 | [377166-requiem.json](./377166-requiem.json) |
@@ -2518,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robina Hood's Monster Hunt | 360567 | [360567-robina-hoods-monster-hunt.json](./360567-robina-hoods-monster-hunt.json) |
 | RobinBobin | 138220 | [138220-robinbobin.json](./138220-robinbobin.json) |
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
+| Robits | 183968 | [183968-robits.json](./183968-robits.json) |
 | Roblox 64 | 245382 | [245382-roblox-64.json](./245382-roblox-64.json) |
 | Robman | 178614 | [178614-robman.json](./178614-robman.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
