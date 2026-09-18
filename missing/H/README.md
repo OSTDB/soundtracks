@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic Red | 335279 | [335279-heretic-red.json](./335279-heretic-red.json) |
 | Heretic Treasure Chest | 260783 | [260783-heretic-treasure-chest.json](./260783-heretic-treasure-chest.json) |
 | Heretic’s Fork: Probation | 251822 | [251822-heretic-s-fork-probation.json](./251822-heretic-s-fork-probation.json) |
+| Heretic's Hope | 216329 | [216329-heretics-hope.json](./216329-heretics-hope.json) |
 | Heritage | 323499 | [323499-heritage.json](./323499-heritage.json) |
 | Heritage Hills | 156666 | [156666-heritage-hills.json](./156666-heritage-hills.json) |
 | Heritage: A Dragon's Tale | 250043 | [250043-heritage-a-dragons-tale.json](./250043-heritage-a-dragons-tale.json) |
