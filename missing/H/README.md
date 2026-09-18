@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honeyblaster | 95436 | [95436-honeyblaster.json](./95436-honeyblaster.json) |
 | Honeycomb Hotel | 366228 | [366228-honeycomb-hotel.json](./366228-honeycomb-hotel.json) |
 | Honeycomb Hotel ZEN | 96056 | [96056-honeycomb-hotel-zen.json](./96056-honeycomb-hotel-zen.json) |
+| Honeypot | 215785 | [215785-honeypot.json](./215785-honeypot.json) |
 | HoneySun | 260407 | [260407-honeysun.json](./260407-honeysun.json) |
 | Hong Gildong-jeon | 145612 | [145612-hong-gildong-jeon.json](./145612-hong-gildong-jeon.json) |
 | Hong Gildong-jeon 2 | 297656 | [297656-hong-gildong-jeon-2.json](./297656-hong-gildong-jeon-2.json) |
