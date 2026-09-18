@@ -2967,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunpowder on the Teeth: Arcade | 113764 | [113764-gunpowder-on-the-teeth-arcade.json](./113764-gunpowder-on-the-teeth-arcade.json) |
 | Gunpunk VR | 280207 | [280207-gunpunk-vr.json](./280207-gunpunk-vr.json) |
 | Gunpyre | 340404 | [340404-gunpyre.json](./340404-gunpyre.json) |
+| GunQuest | 195624 | [195624-gunquest.json](./195624-gunquest.json) |
 | Gunroar | 91936 | [91936-gunroar.json](./91936-gunroar.json) |
 | Gunrox | 270772 | [270772-gunrox.json](./270772-gunrox.json) |
 | Guns 'n Guts | 110973 | [110973-guns-n-guts.json](./110973-guns-n-guts.json) |
