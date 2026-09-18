@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samsara Room | 300426 | [300426-samsara-room.json](./300426-samsara-room.json) |
 | Samsung Pro Cricket | 356656 | [356656-samsung-pro-cricket.json](./356656-samsung-pro-cricket.json) |
 | Samu | 378279 | [378279-samu.json](./378279-samu.json) |
+| Samu Rise | 181777 | [181777-samu-rise.json](./181777-samu-rise.json) |
 | Samudai | 35927 | [35927-samudai.json](./35927-samudai.json) |
 | Samuel Prince Attorney at Law: Chapter 4 | 397791 | [397791-samuel-prince-attorney-at-law-chapter-4.json](./397791-samuel-prince-attorney-at-law-chapter-4.json) |
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
@@ -1273,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sebevrah | 377067 | [377067-sebevrah.json](./377067-sebevrah.json) |
 | Sebil Engineering | 184506 | [184506-sebil-engineering.json](./184506-sebil-engineering.json) |
 | Seblen: Battle! | 169391 | [169391-seblen-battle.json](./169391-seblen-battle.json) |
+| Secluded | 181807 | [181807-secluded.json](./181807-secluded.json) |
 | Seclusion | 29817 | [29817-seclusion.json](./29817-seclusion.json) |
 | Second Base | 388257 | [388257-second-base.json](./388257-second-base.json) |
 | Second Chance | 111668 | [111668-second-chance.json](./111668-second-chance.json) |
@@ -2500,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinkon Gattai Godannar!! | 70905 | [70905-shinkon-gattai-godannar.json](./70905-shinkon-gattai-godannar.json) |
 | Shinobi | 10223 | [10223-shinobi.json](./10223-shinobi.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
+| Shinobi no Dokutsu | 181773 | [181773-shinobi-no-dokutsu.json](./181773-shinobi-no-dokutsu.json) |
 | Shinobi no Okite | 132759 | [132759-shinobi-no-okite.json](./132759-shinobi-no-okite.json) |
 | Shinobi Slash | 264055 | [264055-shinobi-slash.json](./264055-shinobi-slash.json) |
 | Shinobi Spirits S: Legend of Heroes | 121046 | [121046-shinobi-spirits-s-legend-of-heroes.json](./121046-shinobi-spirits-s-legend-of-heroes.json) |
@@ -2510,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi: The Warlord | 300722 | [300722-shinobi-the-warlord.json](./300722-shinobi-the-warlord.json) |
 | Shinobi.fr | 137624 | [137624-shinobi-fr.json](./137624-shinobi-fr.json) |
 | Shinobi.io | 194016 | [194016-shinobi-io.json](./194016-shinobi-io.json) |
+| Shinobit | 181784 | [181784-shinobit.json](./181784-shinobit.json) |
 | Shinogi Chess Club 2: Resistance | 265136 | [265136-shinogi-chess-club-2-resistance.json](./265136-shinogi-chess-club-2-resistance.json) |
 | Shinorubi | 173320 | [173320-shinorubi.json](./173320-shinorubi.json) |
 | Shinrai: Broken Beyond Despair | 32105 | [32105-shinrai-broken-beyond-despair.json](./32105-shinrai-broken-beyond-despair.json) |
@@ -3773,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slasher | 352843 | [352843-slasher.json](./352843-slasher.json) |
 | Slasher Lock | 184593 | [184593-slasher-lock.json](./184593-slasher-lock.json) |
 | Slashing Night | 340365 | [340365-slashing-night.json](./340365-slashing-night.json) |
+| Slashing Samurai | 181779 | [181779-slashing-samurai.json](./181779-slashing-samurai.json) |
 | Slashvival | 115001 | [115001-slashvival.json](./115001-slashvival.json) |
 | Slashy Chords: Guitar Warriors | 256541 | [256541-slashy-chords-guitar-warriors.json](./256541-slashy-chords-guitar-warriors.json) |
 | Slashy Hero | 31357 | [31357-slashy-hero.json](./31357-slashy-hero.json) |
@@ -7364,6 +7369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starleaf | 415960 | [415960-starleaf.json](./415960-starleaf.json) |
 | Starless | 204092 | [204092-starless.json](./204092-starless.json) |
 | Starless Abyss | 319573 | [319573-starless-abyss.json](./319573-starless-abyss.json) |
+| Starlight | 181804 | [181804-starlight.json](./181804-starlight.json) |
 | Starlight | 247552 | [247552-starlight.json](./247552-starlight.json) |
 | Starlight Attack | 198520 | [198520-starlight-attack.json](./198520-starlight-attack.json) |
 | Starlight Explorers | 179204 | [179204-starlight-explorers.json](./179204-starlight-explorers.json) |
