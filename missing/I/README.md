@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Death We Love | 329374 | [329374-in-death-we-love.json](./329374-in-death-we-love.json) |
 | In Drmzzz | 225288 | [225288-in-drmzzz.json](./225288-in-drmzzz.json) |
 | In Essence: Nil - MaidxMan / Chapel | 340750 | [340750-in-essence-nil-maidxman-chapel.json](./340750-in-essence-nil-maidxman-chapel.json) |
+| In Extremis DX | 225759 | [225759-in-extremis-dx.json](./225759-in-extremis-dx.json) |
 | In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
 | In Her Head | 276846 | [276846-in-her-head.json](./276846-in-her-head.json) |
 | In Memory of Titan | 69314 | [69314-in-memory-of-titan.json](./69314-in-memory-of-titan.json) |
@@ -1188,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inline: Out of Time | 290706 | [290706-inline-out-of-time.json](./290706-inline-out-of-time.json) |
 | Inn Hand | 325865 | [325865-inn-hand.json](./325865-inn-hand.json) |
 | Inn Mage | 156608 | [156608-inn-mage.json](./156608-inn-mage.json) |
+| Inn Need | 225766 | [225766-inn-need.json](./225766-inn-need.json) |
 | Inn The Dark | 255985 | [255985-inn-the-dark.json](./255985-inn-the-dark.json) |
 | Innadreem | 383938 | [383938-innadreem.json](./383938-innadreem.json) |
 | Innchanted | 138239 | [138239-innchanted.json](./138239-innchanted.json) |
