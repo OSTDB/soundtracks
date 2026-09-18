@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valerie Porter and the Scarlet Scandal | 27881 | [27881-valerie-porter-and-the-scarlet-scandal.json](./27881-valerie-porter-and-the-scarlet-scandal.json) |
 | Valet Hero | 65437 | [65437-valet-hero.json](./65437-valet-hero.json) |
 | Valet Parking 1989 | 85472 | [85472-valet-parking-1989.json](./85472-valet-parking-1989.json) |
+| Valete vos viatores | 212914 | [212914-valete-vos-viatores.json](./212914-valete-vos-viatores.json) |
 | Valfaris: Digital Deluxe Edition | 154523 | [154523-valfaris-digital-deluxe-edition.json](./154523-valfaris-digital-deluxe-edition.json) |
 | Valfaris: Mecha Therion | 211760 | [211760-valfaris-mecha-therion.json](./211760-valfaris-mecha-therion.json) |
 | Valfaris: Signature Edition | 210634 | [210634-valfaris-signature-edition.json](./210634-valfaris-signature-edition.json) |
