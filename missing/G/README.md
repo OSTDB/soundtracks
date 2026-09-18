@@ -3031,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger Girl Volume III | 252375 | [252375-gunslinger-girl-volume-iii.json](./252375-gunslinger-girl-volume-iii.json) |
 | Gunslinger Stratos | 19317 | [19317-gunslinger-stratos.json](./19317-gunslinger-stratos.json) |
 | Gunslinger Trainer | 33158 | [33158-gunslinger-trainer.json](./33158-gunslinger-trainer.json) |
+| Gunslinger Valley | 187387 | [187387-gunslinger-valley.json](./187387-gunslinger-valley.json) |
 | Gunslinger: Zombie Survival | 226762 | [226762-gunslinger-zombie-survival.json](./226762-gunslinger-zombie-survival.json) |
 | Gunslingers of the Wasteland vs. The Zombies from Mars | 170503 | [170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json](./170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json) |
 | Gunslugs 2 | 35977 | [35977-gunslugs-2.json](./35977-gunslugs-2.json) |
