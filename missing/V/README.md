@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacancy Unlimited | 153956 | [153956-vacancy-unlimited.json](./153956-vacancy-unlimited.json) |
 | Vacation Adventures: Park Ranger | 85464 | [85464-vacation-adventures-park-ranger.json](./85464-vacation-adventures-park-ranger.json) |
 | Vacation Adventures: Park Ranger 11 | 147421 | [147421-vacation-adventures-park-ranger-11.json](./147421-vacation-adventures-park-ranger-11.json) |
+| Vacation Adventures: Park Ranger 14 | 216854 | [216854-vacation-adventures-park-ranger-14.json](./216854-vacation-adventures-park-ranger-14.json) |
 | Vacation Adventures: Park Ranger 16 - Collectors Edition | 311108 | [311108-vacation-adventures-park-ranger-16-collectors-edition.json](./311108-vacation-adventures-park-ranger-16-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 2 | 85465 | [85465-vacation-adventures-park-ranger-2.json](./85465-vacation-adventures-park-ranger-2.json) |
 | Vacation Isle Beach Party | 50601 | [50601-vacation-isle-beach-party.json](./50601-vacation-isle-beach-party.json) |
@@ -223,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Bloodlines 2 - The Flower & the Flame | 370208 | [370208-vampire-the-masquerade-bloodlines-2-the-flower-and-the-flame.json](./370208-vampire-the-masquerade-bloodlines-2-the-flower-and-the-flame.json) |
 | Vampire: The Masquerade - Night Road | 133401 | [133401-vampire-the-masquerade-night-road.json](./133401-vampire-the-masquerade-night-road.json) |
 | Vampire: The Masquerade - Parliament of Knives | 133402 | [133402-vampire-the-masquerade-parliament-of-knives.json](./133402-vampire-the-masquerade-parliament-of-knives.json) |
+| Vampire: The Masquerade - Parliament of Knives: What Stares Back | 216855 | [216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json](./216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json) |
 | Vampire: The Masquerade - Swansong: Primogen Edition | 196806 | [196806-vampire-the-masquerade-swansong-primogen-edition.json](./196806-vampire-the-masquerade-swansong-primogen-edition.json) |
 | Vampire's Castle Adventure | 73314 | [73314-vampires-castle-adventure.json](./73314-vampires-castle-adventure.json) |
 | Vampire+Hunter | 300019 | [300019-vampire-hunter.json](./300019-vampire-hunter.json) |
@@ -402,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venatrix | 267369 | [267369-venatrix.json](./267369-venatrix.json) |
 | Vendetta Forever | 313771 | [313771-vendetta-forever.json](./313771-vendetta-forever.json) |
 | Vendetta: Curse of Raven's Cry - Deluxe Edition | 53875 | [53875-vendetta-curse-of-ravens-cry-deluxe-edition.json](./53875-vendetta-curse-of-ravens-cry-deluxe-edition.json) |
+| Vendetta: Mafia Wars | 216856 | [216856-vendetta-mafia-wars.json](./216856-vendetta-mafia-wars.json) |
 | Vending Machine Simulator 2025 | 366225 | [366225-vending-machine-simulator-2025.json](./366225-vending-machine-simulator-2025.json) |
 | Vending Mayhem | 276737 | [276737-vending-mayhem.json](./276737-vending-mayhem.json) |
 | Vendir: Plague of Lies | 190212 | [190212-vendir-plague-of-lies.json](./190212-vendir-plague-of-lies.json) |
@@ -506,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vex | 402253 | [402253-vex.json](./402253-vex.json) |
 | Vex 2 | 402308 | [402308-vex-2.json](./402308-vex-2.json) |
 | Vex 6 | 188039 | [188039-vex-6.json](./188039-vex-6.json) |
+| Vex Clock | 216857 | [216857-vex-clock.json](./216857-vex-clock.json) |
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
 | Veyora | 386298 | [386298-veyora.json](./386298-veyora.json) |
@@ -714,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Tennis 2009 | 5257 | [5257-virtua-tennis-2009.json](./5257-virtua-tennis-2009.json) |
 | Virtua Tennis 4 | 5258 | [5258-virtua-tennis-4.json](./5258-virtua-tennis-4.json) |
 | Virtua Tennis: Mobile Edition | 317005 | [317005-virtua-tennis-mobile-edition.json](./317005-virtua-tennis-mobile-edition.json) |
+| Virtual AI: Aki & Mika | 216860 | [216860-virtual-ai-aki-and-mika.json](./216860-virtual-ai-aki-and-mika.json) |
 | Virtual Bart | 2835 | [2835-virtual-bart.json](./2835-virtual-bart.json) |
 | Virtual Bart Redux | 219273 | [219273-virtual-bart-redux.json](./219273-virtual-bart-redux.json) |
 | Virtual Boxing League | 89667 | [89667-virtual-boxing-league.json](./89667-virtual-boxing-league.json) |
@@ -779,11 +784,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtualis Galeria | 383505 | [383505-virtualis-galeria.json](./383505-virtualis-galeria.json) |
 | Virtually Board Snowboarding 2 | 202947 | [202947-virtually-board-snowboarding-2.json](./202947-virtually-board-snowboarding-2.json) |
 | Virtue | 282015 | [282015-virtue.json](./282015-virtue.json) |
+| Virtueror: The Virtual Conqueror | 216859 | [216859-virtueror-the-virtual-conqueror.json](./216859-virtueror-the-virtual-conqueror.json) |
 | Virtuoso GP Race: On | 373077 | [373077-virtuoso-gp-race-on.json](./373077-virtuoso-gp-race-on.json) |
 | Virus | 12812 | [12812-virus.json](./12812-virus.json) |
 | Virus 91 | 279092 | [279092-virus-91.json](./279092-virus-91.json) |
 | VIrus Killer | 186834 | [186834-virus-killer.json](./186834-virus-killer.json) |
 | Virus Madness: Dungeons of your Body | 161373 | [161373-virus-madness-dungeons-of-your-body.json](./161373-virus-madness-dungeons-of-your-body.json) |
+| Virus Remedium | 216858 | [216858-virus-remedium.json](./216858-virus-remedium.json) |
 | Virus: The Battle Field | 177034 | [177034-virus-the-battle-field.json](./177034-virus-the-battle-field.json) |
 | Virus: The Outbreak | 147478 | [147478-virus-the-outbreak.json](./147478-virus-the-outbreak.json) |
 | ViruStream | 331878 | [331878-virustream.json](./331878-virustream.json) |
@@ -943,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidExpanse | 17863 | [17863-voidexpanse.json](./17863-voidexpanse.json) |
 | VoidExpanse - Complete Collection | 53870 | [53870-voidexpanse-complete-collection.json](./53870-voidexpanse-complete-collection.json) |
 | Voidface | 332424 | [332424-voidface.json](./332424-voidface.json) |
+| Voidhunter | 216851 | [216851-voidhunter.json](./216851-voidhunter.json) |
 | Voidline | 408037 | [408037-voidline.json](./408037-voidline.json) |
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
 | Voidrun | 232011 | [232011-voidrun.json](./232011-voidrun.json) |
@@ -986,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voltron | 95400 | [95400-voltron.json](./95400-voltron.json) |
 | Volty's Quest | 181848 | [181848-voltys-quest.json](./181848-voltys-quest.json) |
 | Volume | 9647 | [9647-volume.json](./9647-volume.json) |
+| Volunteer | 216850 | [216850-volunteer.json](./216850-volunteer.json) |
 | Volvalis | 200702 | [200702-volvalis.json](./200702-volvalis.json) |
 | Volvy’s Adventure: Reslimed | 323369 | [323369-volvy-s-adventure-reslimed.json](./323369-volvy-s-adventure-reslimed.json) |
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
@@ -1005,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vos en Haas: Het ij van uil | 78645 | [78645-vos-en-haas-het-ij-van-uil.json](./78645-vos-en-haas-het-ij-van-uil.json) |
 | Vos en Haas: Het plan van Haas | 98923 | [98923-vos-en-haas-het-plan-van-haas.json](./98923-vos-en-haas-het-plan-van-haas.json) |
 | Vosphia | 224558 | [224558-vosphia.json](./224558-vosphia.json) |
+| Vostok 2061 | 216849 | [216849-vostok-2061.json](./216849-vostok-2061.json) |
 | Vows of Eternity | 298872 | [298872-vows-of-eternity.json](./298872-vows-of-eternity.json) |
 | Vox | 16686 | [16686-vox.json](./16686-vox.json) |
 | Vox Battles | 282026 | [282026-vox-battles.json](./282026-vox-battles.json) |
@@ -1070,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Fantasy | 395540 | [395540-vr-fantasy.json](./395540-vr-fantasy.json) |
 | VR Fishtank | 244772 | [244772-vr-fishtank.json](./244772-vr-fishtank.json) |
 | VR Formula | 51517 | [51517-vr-formula.json](./51517-vr-formula.json) |
+| VR Funhouse: Christmas Edition | 216848 | [216848-vr-funhouse-christmas-edition.json](./216848-vr-funhouse-christmas-edition.json) |
 | VR Furballs: Demolition | 81062 | [81062-vr-furballs-demolition.json](./81062-vr-furballs-demolition.json) |
 | VR Giants | 107183 | [107183-vr-giants.json](./107183-vr-giants.json) |
 | VR Ground: Crazy Farm | 105311 | [105311-vr-ground-crazy-farm.json](./105311-vr-ground-crazy-farm.json) |
