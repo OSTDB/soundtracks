@@ -2134,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chook & Sosig: Walk the Plank | 113014 | [113014-chook-and-sosig-walk-the-plank.json](./113014-chook-and-sosig-walk-the-plank.json) |
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
+| Choose your Poison | 195106 | [195106-choose-your-poison.json](./195106-choose-your-poison.json) |
 | Choose Your Weapon | 234719 | [234719-choose-your-weapon.json](./234719-choose-your-weapon.json) |
 | Choose Your Weapon 2 | 234720 | [234720-choose-your-weapon-2.json](./234720-choose-your-weapon-2.json) |
 | Choose Your Weapon 3 | 234726 | [234726-choose-your-weapon-3.json](./234726-choose-your-weapon-3.json) |
