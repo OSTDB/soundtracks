@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorkshire's Great Race | 237962 | [237962-yorkshires-great-race.json](./237962-yorkshires-great-race.json) |
 | Yoru no Majin to Ikusa no Kuni: Samayoeru Vampire | 222335 | [222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json](./222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json) |
 | Yorvik's Game | 374610 | [374610-yorviks-game.json](./374610-yorviks-game.json) |
+| Yosemite Forest Ranger | 201126 | [201126-yosemite-forest-ranger.json](./201126-yosemite-forest-ranger.json) |
 | Yoshi and the Mysterious Book | 366883 | [366883-yoshi-and-the-mysterious-book.json](./366883-yoshi-and-the-mysterious-book.json) |
 | Yoshi Commits Tax Fraud 64 | 294710 | [294710-yoshi-commits-tax-fraud-64.json](./294710-yoshi-commits-tax-fraud-64.json) |
 | Yoshi Deja Vu DS | 215767 | [215767-yoshi-deja-vu-ds.json](./215767-yoshi-deja-vu-ds.json) |
@@ -526,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Maboroshi no Gotoku | 37753 | [37753-yume-maboroshi-no-gotoku.json](./37753-yume-maboroshi-no-gotoku.json) |
 | Yume Meikyuu: Kigurumi Daibouken | 38378 | [38378-yume-meikyuu-kigurumi-daibouken.json](./38378-yume-meikyuu-kigurumi-daibouken.json) |
 | Yume Metsuki | 229683 | [229683-yume-metsuki.json](./229683-yume-metsuki.json) |
+| Yume Mitai | 201152 | [201152-yume-mitai.json](./201152-yume-mitai.json) |
 | Yume Nikki GB | 229685 | [229685-yume-nikki-gb.json](./229685-yume-nikki-gb.json) |
 | Yume Nikki GB | 229686 | [229686-yume-nikki-gb.json](./229686-yume-nikki-gb.json) |
 | Yume Nikki Ver. 1.00 | 202368 | [202368-yume-nikki-ver-1-00.json](./202368-yume-nikki-ver-1-00.json) |
