@@ -850,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jujutsu Kaisen: Cursed Clash - Deluxe Edition | 276324 | [276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json](./276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json) |
 | Jujutsu Kaisen: Cursed Clash - The Shibuya Incident | 307753 | [307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json](./307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json) |
 | Jukebeat | 79860 | [79860-jukebeat.json](./79860-jukebeat.json) |
+| Jules | 187368 | [187368-jules.json](./187368-jules.json) |
 | July the Lost Child | 109699 | [109699-july-the-lost-child.json](./109699-july-the-lost-child.json) |
 | Jumala | 23829 | [23829-jumala.json](./23829-jumala.json) |
 | Jumanji: Reverse the Curse | 246639 | [246639-jumanji-reverse-the-curse.json](./246639-jumanji-reverse-the-curse.json) |
@@ -890,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump King Quest | 259095 | [259095-jump-king-quest.json](./259095-jump-king-quest.json) |
 | Jump King: Ghost of the Babe | 386222 | [386222-jump-king-ghost-of-the-babe.json](./386222-jump-king-ghost-of-the-babe.json) |
 | Jump King: New Babe+ | 386223 | [386223-jump-king-new-babe.json](./386223-jump-king-new-babe.json) |
+| Jump Lanes | 187381 | [187381-jump-lanes.json](./187381-jump-lanes.json) |
 | Jump Like An Egyptian | 192978 | [192978-jump-like-an-egyptian.json](./192978-jump-like-an-egyptian.json) |
 | Jump Man | 332528 | [332528-jump-man.json](./332528-jump-man.json) |
 | Jump N Shooters | 244374 | [244374-jump-n-shooters.json](./244374-jump-n-shooters.json) |
