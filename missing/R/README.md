@@ -364,6 +364,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Hero | 35906 | [35906-rainbow-hero.json](./35906-rainbow-hero.json) |
 | Rainbow High: Runway Rush | 249255 | [249255-rainbow-high-runway-rush.json](./249255-rainbow-high-runway-rush.json) |
 | Rainbow Infinity | 232148 | [232148-rainbow-infinity.json](./232148-rainbow-infinity.json) |
+| Rainbow Islands | 194445 | [194445-rainbow-islands.json](./194445-rainbow-islands.json) |
+| Rainbow Islands | 194448 | [194448-rainbow-islands.json](./194448-rainbow-islands.json) |
+| Rainbow Islands: Bubble Bobble 2 | 194446 | [194446-rainbow-islands-bubble-bobble-2.json](./194446-rainbow-islands-bubble-bobble-2.json) |
 | Rainbow Jigsaw | 241664 | [241664-rainbow-jigsaw.json](./241664-rainbow-jigsaw.json) |
 | Rainbow Keys Plus | 130890 | [130890-rainbow-keys-plus.json](./130890-rainbow-keys-plus.json) |
 | Rainbow Laser Disco Dungeon | 169469 | [169469-rainbow-laser-disco-dungeon.json](./169469-rainbow-laser-disco-dungeon.json) |
@@ -915,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reasoning of Courage Nori 3 Balanced Diet | 251680 | [251680-reasoning-of-courage-nori-3-balanced-diet.json](./251680-reasoning-of-courage-nori-3-balanced-diet.json) |
 | Reasons For Kym | 304720 | [304720-reasons-for-kym.json](./304720-reasons-for-kym.json) |
 | Reassembly | 11691 | [11691-reassembly.json](./11691-reassembly.json) |
+| Reaver | 194429 | [194429-reaver.json](./194429-reaver.json) |
 | Rebadge | 397096 | [397096-rebadge.json](./397096-rebadge.json) |
 | Rebel Galaxy | 11719 | [11719-rebel-galaxy.json](./11719-rebel-galaxy.json) |
 | Rebel Inc. | 115206 | [115206-rebel-inc.json](./115206-rebel-inc.json) |
