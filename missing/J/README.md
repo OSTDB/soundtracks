@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janitron | 376596 | [376596-janitron.json](./376596-janitron.json) |
 | JanKen Battle Arena | 245051 | [245051-janken-battle-arena.json](./245051-janken-battle-arena.json) |
 | Janken Disk Shiro | 41368 | [41368-janken-disk-shiro.json](./41368-janken-disk-shiro.json) |
+| Janken Man | 231494 | [231494-janken-man.json](./231494-janken-man.json) |
 | Janken Shogi | 216223 | [216223-janken-shogi.json](./216223-janken-shogi.json) |
 | JanKenUP! | 180199 | [180199-jankenup.json](./180199-jankenup.json) |
 | Janko | 306365 | [306365-janko.json](./306365-janko.json) |
@@ -776,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JR East Train Simulator: Saikyo-Kawagoe Line - Osaki to Kawagoe E233-7000 series | 239144 | [239144-jr-east-train-simulator-saikyo-kawagoe-line-osaki-to-kawagoe-e233-7000-series.json](./239144-jr-east-train-simulator-saikyo-kawagoe-line-osaki-to-kawagoe-e233-7000-series.json) |
 | JR East Train Simulator: Senseki Line (Aobadori to Ishinomaki) 205-3100 series | 253926 | [253926-jr-east-train-simulator-senseki-line-aobadori-to-ishinomaki-205-3100-series.json](./253926-jr-east-train-simulator-senseki-line-aobadori-to-ishinomaki-205-3100-series.json) |
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
+| JR's: Enter the Flipside | 231499 | [231499-jrs-enter-the-flipside.json](./231499-jrs-enter-the-flipside.json) |
 | Jrago III Requiem of the Night | 390531 | [390531-jrago-iii-requiem-of-the-night.json](./390531-jrago-iii-requiem-of-the-night.json) |
 | JRoguePG | 346657 | [346657-jroguepg.json](./346657-jroguepg.json) |
 | Ju Ju Densetsu | 40202 | [40202-ju-ju-densetsu.json](./40202-ju-ju-densetsu.json) |
