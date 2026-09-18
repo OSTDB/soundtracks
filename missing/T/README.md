@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takoyaki Party Survival | 213972 | [213972-takoyaki-party-survival.json](./213972-takoyaki-party-survival.json) |
 | Takuhai Maid Shiiko-san | 77944 | [77944-takuhai-maid-shiiko-san.json](./77944-takuhai-maid-shiiko-san.json) |
 | Takume | 136420 | [136420-takume.json](./136420-takume.json) |
+| Takumi 3 | 220193 | [220193-takumi-3.json](./220193-takumi-3.json) |
 | TAL: Arctic 2 | 106625 | [106625-tal-arctic-2.json](./106625-tal-arctic-2.json) |
 | Tale of Exorcists | 375313 | [375313-tale-of-exorcists.json](./375313-tale-of-exorcists.json) |
 | Tale of Honor | 274041 | [274041-tale-of-honor.json](./274041-tale-of-honor.json) |
@@ -737,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Blocks | 27647 | [27647-tap-tap-blocks.json](./27647-tap-tap-blocks.json) |
 | Tap Tap Builder | 75141 | [75141-tap-tap-builder.json](./75141-tap-tap-builder.json) |
 | Tap Tap Dash | 88877 | [88877-tap-tap-dash.json](./88877-tap-tap-dash.json) |
+| Tap Tap Dig 2 | 220192 | [220192-tap-tap-dig-2.json](./220192-tap-tap-dig-2.json) |
 | Tap Tap Dunk | 102161 | [102161-tap-tap-dunk.json](./102161-tap-tap-dunk.json) |
 | Tap Tap Fish: Abyssrium Pole | 223003 | [223003-tap-tap-fish-abyssrium-pole.json](./223003-tap-tap-fish-abyssrium-pole.json) |
 | Tap Tap Goose | 413077 | [413077-tap-tap-goose.json](./413077-tap-tap-goose.json) |
@@ -752,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap to Dive | 233090 | [233090-tap-to-dive.json](./233090-tap-to-dive.json) |
 | Tap Tricks | 176962 | [176962-tap-tricks.json](./176962-tap-tricks.json) |
 | Tap Tycoon | 58195 | [58195-tap-tycoon.json](./58195-tap-tycoon.json) |
+| Tap Wars: Earth Defense Force 4.1 - The Shadow of New Despair | 220219 | [220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json](./220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json) |
 | Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
 | Tap! Dig! My Museum! | 197353 | [197353-tap-dig-my-museum.json](./197353-tap-dig-my-museum.json) |
 | TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
@@ -3817,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Mind of Dr. Brain | 79885 | [79885-the-lost-mind-of-dr-brain.json](./79885-the-lost-mind-of-dr-brain.json) |
 | The Lost Mines | 199103 | [199103-the-lost-mines.json](./199103-the-lost-mines.json) |
 | The Lost Moonbase | 270697 | [270697-the-lost-moonbase.json](./270697-the-lost-moonbase.json) |
+| The Lost Mystic Ornament | 220194 | [220194-the-lost-mystic-ornament.json](./220194-the-lost-mystic-ornament.json) |
 | The Lost Mythologies | 17022 | [17022-the-lost-mythologies.json](./17022-the-lost-mythologies.json) |
 | The Lost Painter | 386120 | [386120-the-lost-painter.json](./386120-the-lost-painter.json) |
 | The Lost Ride | 46560 | [46560-the-lost-ride.json](./46560-the-lost-ride.json) |
@@ -6421,6 +6425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
 | Tile Game Classic | 88272 | [88272-tile-game-classic.json](./88272-tile-game-classic.json) |
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
+| Tile Master | 220185 | [220185-tile-master.json](./220185-tile-master.json) |
 | Tile Rider | 35625 | [35625-tile-rider.json](./35625-tile-rider.json) |
 | Tile Star 2 | 233080 | [233080-tile-star-2.json](./233080-tile-star-2.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
@@ -7692,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of Tinysville | 413049 | [413049-town-of-tinysville.json](./413049-town-of-tinysville.json) |
 | Town of Zoz | 335295 | [335295-town-of-zoz.json](./335295-town-of-zoz.json) |
 | Town Police Simulator | 302390 | [302390-town-police-simulator.json](./302390-town-police-simulator.json) |
+| Town Rush | 220179 | [220179-town-rush.json](./220179-town-rush.json) |
 | Town With No Name | 69874 | [69874-town-with-no-name.json](./69874-town-with-no-name.json) |
 | Townframe | 199128 | [199128-townframe.json](./199128-townframe.json) |
 | Townkins | 103524 | [103524-townkins.json](./103524-townkins.json) |
