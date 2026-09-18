@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rats Show | 27510 | [27510-bad-rats-show.json](./27510-bad-rats-show.json) |
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
+| Bad Soccer Manager | 197235 | [197235-bad-soccer-manager.json](./197235-bad-soccer-manager.json) |
 | Bad Stars | 130343 | [130343-bad-stars.json](./130343-bad-stars.json) |
 | Bad Summer | 334074 | [334074-bad-summer.json](./334074-bad-summer.json) |
 | Bad Teams | 348806 | [348806-bad-teams.json](./348806-bad-teams.json) |
@@ -779,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bardarts | 141222 | [141222-bardarts.json](./141222-bardarts.json) |
 | Bardic: Quest for Love | 270100 | [270100-bardic-quest-for-love.json](./270100-bardic-quest-for-love.json) |
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
+| Bare Butt Boxing | 197269 | [197269-bare-butt-boxing.json](./197269-bare-butt-boxing.json) |
 | Barely Afloat | 123579 | [123579-barely-afloat.json](./123579-barely-afloat.json) |
 | Barely Floating | 138214 | [138214-barely-floating.json](./138214-barely-floating.json) |
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
@@ -1233,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Steed: Gunma | 165642 | [165642-battle-steed-gunma.json](./165642-battle-steed-gunma.json) |
 | Battle Storm | 48583 | [48583-battle-storm.json](./48583-battle-storm.json) |
 | Battle Suit Aces | 305021 | [305021-battle-suit-aces.json](./305021-battle-suit-aces.json) |
+| Battle Support | 197261 | [197261-battle-support.json](./197261-battle-support.json) |
 | Battle Supremacy | 26895 | [26895-battle-supremacy.json](./26895-battle-supremacy.json) |
 | Battle Talent | 163454 | [163454-battle-talent.json](./163454-battle-talent.json) |
 | Battle Talent: Multiplayer Update | 306952 | [306952-battle-talent-multiplayer-update.json](./306952-battle-talent-multiplayer-update.json) |
