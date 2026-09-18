@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Online / Grand Chase | 80588 | [80588-ragnarok-online-grand-chase.json](./80588-ragnarok-online-grand-chase.json) |
 | Ragnarok Rush | 110282 | [110282-ragnarok-rush.json](./110282-ragnarok-rush.json) |
 | Ragnarok Tactics | 243421 | [243421-ragnarok-tactics.json](./243421-ragnarok-tactics.json) |
+| Ragnarok: Fallen Legends | 227932 | [227932-ragnarok-fallen-legends.json](./227932-ragnarok-fallen-legends.json) |
 | Ragnarok: Labyrinth | 197375 | [197375-ragnarok-labyrinth.json](./197375-ragnarok-labyrinth.json) |
 | Ragnarok: War of Gods | 323174 | [323174-ragnarok-war-of-gods.json](./323174-ragnarok-war-of-gods.json) |
 | Ragozin on Moon | 156691 | [156691-ragozin-on-moon.json](./156691-ragozin-on-moon.json) |
@@ -645,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Origins | 288944 | [288944-rayman-origins.json](./288944-rayman-origins.json) |
 | Rayman Raving Rabbids | 254520 | [254520-rayman-raving-rabbids.json](./254520-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids: TV Party | 5117 | [5117-rayman-raving-rabbids-tv-party.json](./5117-rayman-raving-rabbids-tv-party.json) |
+| Rayman ReDesigner | 227926 | [227926-rayman-redesigner.json](./227926-rayman-redesigner.json) |
 | Rayman Rush | 86216 | [86216-rayman-rush.json](./86216-rayman-rush.json) |
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
@@ -1462,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Heroes: Molten Menace | 209168 | [209168-rescue-heroes-molten-menace.json](./209168-rescue-heroes-molten-menace.json) |
 | Rescue HQ: The Tycoon - Coastguard | 155039 | [155039-rescue-hq-the-tycoon-coastguard.json](./155039-rescue-hq-the-tycoon-coastguard.json) |
 | Rescue Mael! | 185105 | [185105-rescue-mael.json](./185105-rescue-mael.json) |
+| Rescue Mary: Manor Renovation | 227949 | [227949-rescue-mary-manor-renovation.json](./227949-rescue-mary-manor-renovation.json) |
 | Rescue Ops: Wildfire | 349412 | [349412-rescue-ops-wildfire.json](./349412-rescue-ops-wildfire.json) |
 | Rescue Quest | 346597 | [346597-rescue-quest.json](./346597-rescue-quest.json) |
 | Rescue Quest Gold: Collector's Edition | 203375 | [203375-rescue-quest-gold-collectors-edition.json](./203375-rescue-quest-gold-collectors-edition.json) |
@@ -3072,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roterra Extreme - Great Escape | 125442 | [125442-roterra-extreme-great-escape.json](./125442-roterra-extreme-great-escape.json) |
 | Rotfang: The House | 417563 | [417563-rotfang-the-house.json](./417563-rotfang-the-house.json) |
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
+| RoThings | 227951 | [227951-rothings.json](./227951-rothings.json) |
 | Rotieer | 35909 | [35909-rotieer.json](./35909-rotieer.json) |
 | Roto Force | 191870 | [191870-roto-force.json](./191870-roto-force.json) |
 | Roto16 | 234055 | [234055-roto16.json](./234055-roto16.json) |
