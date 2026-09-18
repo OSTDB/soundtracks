@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mani Mouse | 239327 | [239327-mani-mouse.json](./239327-mani-mouse.json) |
 | Mani Yugi Tokoyo | 96106 | [96106-mani-yugi-tokoyo.json](./96106-mani-yugi-tokoyo.json) |
 | Mania Fish | 188069 | [188069-mania-fish.json](./188069-mania-fish.json) |
+| Maniac | 229814 | [229814-maniac.json](./229814-maniac.json) |
 | Maniac Jackson and the Moonwalking Mindbenders | 93035 | [93035-maniac-jackson-and-the-moonwalking-mindbenders.json](./93035-maniac-jackson-and-the-moonwalking-mindbenders.json) |
 | Maniac Mansion | 307416 | [307416-maniac-mansion.json](./307416-maniac-mansion.json) |
 | Maniac Outhouse | 301441 | [301441-maniac-outhouse.json](./301441-maniac-outhouse.json) |
@@ -4726,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel Snooze | 135800 | [135800-motel-snooze.json](./135800-motel-snooze.json) |
 | MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
 | Moth Ma'am | 355015 | [355015-moth-maam.json](./355015-moth-maam.json) |
+| Moth Manor | 229771 | [229771-moth-manor.json](./229771-moth-manor.json) |
 | Moth Planet | 254585 | [254585-moth-planet.json](./254585-moth-planet.json) |
 | Moth Terra | 376457 | [376457-moth-terra.json](./376457-moth-terra.json) |
 | Mothballs | 179701 | [179701-mothballs.json](./179701-mothballs.json) |
@@ -5178,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murdeer | 395556 | [395556-murdeer.json](./395556-murdeer.json) |
 | Murder | 14158 | [14158-murder.json](./14158-murder.json) |
 | Murder | 226764 | [226764-murder.json](./226764-murder.json) |
+| Murder 38: Episode One - A Small World | 229772 | [229772-murder-38-episode-one-a-small-world.json](./229772-murder-38-episode-one-a-small-world.json) |
 | Murder at Chateau de Rouge | 362331 | [362331-murder-at-chateau-de-rouge.json](./362331-murder-at-chateau-de-rouge.json) |
 | Murder at Homecoming | 313871 | [313871-murder-at-homecoming.json](./313871-murder-at-homecoming.json) |
 | Murder at Masquerade Manor | 223682 | [223682-murder-at-masquerade-manor.json](./223682-murder-at-masquerade-manor.json) |
@@ -5492,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Goddess of Love | 114406 | [114406-my-goddess-of-love.json](./114406-my-goddess-of-love.json) |
 | My Grandparents' Christmas Mystery | 236378 | [236378-my-grandparents-christmas-mystery.json](./236378-my-grandparents-christmas-mystery.json) |
 | My Group Members Suck!! | 417572 | [417572-my-group-members-suck.json](./417572-my-group-members-suck.json) |
+| My Happy Place | 229774 | [229774-my-happy-place.json](./229774-my-happy-place.json) |
 | My Hayami-Chan | 199040 | [199040-my-hayami-chan.json](./199040-my-hayami-chan.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
 | My Heart Grows Fonder | 117653 | [117653-my-heart-grows-fonder.json](./117653-my-heart-grows-fonder.json) |
@@ -5727,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Trainer is a Futanari | 207328 | [207328-my-trainer-is-a-futanari.json](./207328-my-trainer-is-a-futanari.json) |
 | My Tribe 3D | 223991 | [223991-my-tribe-3d.json](./223991-my-tribe-3d.json) |
 | My U.S. Trucking Skills | 316855 | [316855-my-u-s-trucking-skills.json](./316855-my-u-s-trucking-skills.json) |
+| My Uncle's Garden | 229776 | [229776-my-uncles-garden.json](./229776-my-uncles-garden.json) |
 | My Universe: My Baby - New Edition | 170028 | [170028-my-universe-my-baby-new-edition.json](./170028-my-universe-my-baby-new-edition.json) |
 | My Universe: Pets Edition | 221949 | [221949-my-universe-pets-edition.json](./221949-my-universe-pets-edition.json) |
 | My UnReal Pet | 158705 | [158705-my-unreal-pet.json](./158705-my-unreal-pet.json) |
@@ -5817,6 +5822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
 | Mystery Gold | 55862 | [55862-mystery-gold.json](./55862-mystery-gold.json) |
+| Mystery House | 229793 | [229793-mystery-house.json](./229793-mystery-house.json) |
 | Mystery House | 2479 | [2479-mystery-house.json](./2479-mystery-house.json) |
 | Mystery House | 342677 | [342677-mystery-house.json](./342677-mystery-house.json) |
 | Mystery in the Office | 245840 | [245840-mystery-in-the-office.json](./245840-mystery-in-the-office.json) |
@@ -5867,6 +5873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Raincliff's Phantoms | 201829 | [201829-mystery-trackers-raincliffs-phantoms.json](./201829-mystery-trackers-raincliffs-phantoms.json) |
 | Mystery Trackers: Raincliff's Phantoms & Mystery Trackers: Blackrow's Secret | 201817 | [201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json](./201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json) |
 | Mystery Trackers: The Shrouded Village | 416698 | [416698-mystery-trackers-the-shrouded-village.json](./416698-mystery-trackers-the-shrouded-village.json) |
+| Mystery Voyage | 229777 | [229777-mystery-voyage.json](./229777-mystery-voyage.json) |
 | Mystery: London | 146926 | [146926-mystery-london.json](./146926-mystery-london.json) |
 | MysteryScrolls | 319193 | [319193-mysteryscrolls.json](./319193-mysteryscrolls.json) |
 | Mysteryville 2 | 73151 | [73151-mysteryville-2.json](./73151-mysteryville-2.json) |
