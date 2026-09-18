@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
 | Magnets | 366911 | [366911-magnets.json](./366911-magnets.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
+| Magnificent-1 | 196137 | [196137-magnificent-1.json](./196137-magnificent-1.json) |
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
@@ -2460,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Match Saga: Expansion Pack 8 | 167327 | [167327-memory-match-saga-expansion-pack-8.json](./167327-memory-match-saga-expansion-pack-8.json) |
 | Memory Match Saga: Expansion Pack 9 | 167328 | [167328-memory-match-saga-expansion-pack-9.json](./167328-memory-match-saga-expansion-pack-9.json) |
 | Memory Mosaic | 243792 | [243792-memory-mosaic.json](./243792-memory-mosaic.json) |
+| Memory Novel: Mile High Club | 196146 | [196146-memory-novel-mile-high-club.json](./196146-memory-novel-mile-high-club.json) |
 | Memory of a Broken Dimension | 24950 | [24950-memory-of-a-broken-dimension.json](./24950-memory-of-a-broken-dimension.json) |
 | Memory of Camping | 224120 | [224120-memory-of-camping.json](./224120-memory-of-camping.json) |
 | Memory of Memorie: A Chill Story | 409654 | [409654-memory-of-memorie-a-chill-story.json](./409654-memory-of-memorie-a-chill-story.json) |
@@ -4014,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mode | 61659 | [61659-mode.json](./61659-mode.json) |
 | Model 3 Test Drive | 96057 | [96057-model-3-test-drive.json](./96057-model-3-test-drive.json) |
 | Model Builder: Alaskan Road Truckers | 277586 | [277586-model-builder-alaskan-road-truckers.json](./277586-model-builder-alaskan-road-truckers.json) |
+| Model Builder: Frostpunk | 196159 | [196159-model-builder-frostpunk.json](./196159-model-builder-frostpunk.json) |
 | Model Builder: Titan-Forge DLC No.2 | 243158 | [243158-model-builder-titan-forge-dlc-no-2.json](./243158-model-builder-titan-forge-dlc-no-2.json) |
 | Model Employee | 274732 | [274732-model-employee.json](./274732-model-employee.json) |
 | Model Kit Shop Simulator | 397829 | [397829-model-kit-shop-simulator.json](./397829-model-kit-shop-simulator.json) |
@@ -5736,6 +5739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
 | My Klutzy Cupid | 248894 | [248894-my-klutzy-cupid.json](./248894-my-klutzy-cupid.json) |
 | My Lady | 33134 | [33134-my-lady.json](./33134-my-lady.json) |
+| My Lady Sayo: Zettai Kunshu! Sayo-sama | 196175 | [196175-my-lady-sayo-zettai-kunshu-sayo-sama.json](./196175-my-lady-sayo-zettai-kunshu-sayo-sama.json) |
 | My Land! | 234739 | [234739-my-land.json](./234739-my-land.json) |
 | My Last Friday | 320730 | [320730-my-last-friday.json](./320730-my-last-friday.json) |
 | My Last Memories About You | 158133 | [158133-my-last-memories-about-you.json](./158133-my-last-memories-about-you.json) |
