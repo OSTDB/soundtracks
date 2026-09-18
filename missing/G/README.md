@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
 | Gallery Hero | 110301 | [110301-gallery-hero.json](./110301-gallery-hero.json) |
+| Gallery One | 184002 | [184002-gallery-one.json](./184002-gallery-one.json) |
 | Gallery Theft | 348312 | [348312-gallery-theft.json](./348312-gallery-theft.json) |
 | Gallery: Coloring book & decor | 322558 | [322558-gallery-coloring-book-and-decor.json](./322558-gallery-coloring-book-and-decor.json) |
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
