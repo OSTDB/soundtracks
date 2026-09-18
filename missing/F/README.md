@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felix the Cat: A Bomba-Relógio | 282585 | [282585-felix-the-cat-a-bomba-relogio.json](./282585-felix-the-cat-a-bomba-relogio.json) |
 | Felix the Cat: Contra os Inimigos | 282586 | [282586-felix-the-cat-contra-os-inimigos.json](./282586-felix-the-cat-contra-os-inimigos.json) |
 | Felix VR | 163916 | [163916-felix-vr.json](./163916-felix-vr.json) |
+| Fell from another world | 213478 | [213478-fell-from-another-world.json](./213478-fell-from-another-world.json) |
 | Fellas | 408143 | [408143-fellas.json](./408143-fellas.json) |
 | Felon-E | 302356 | [302356-felon-e.json](./302356-felon-e.json) |
 | Felonian Special Forces | 255161 | [255161-felonian-special-forces.json](./255161-felonian-special-forces.json) |
