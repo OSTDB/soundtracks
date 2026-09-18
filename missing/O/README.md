@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Constant Delay | 400296 | [400296-on-constant-delay.json](./400296-on-constant-delay.json) |
 | On Duty | 130378 | [130378-on-duty.json](./130378-on-duty.json) |
 | On Earth as in Hell: Woytons Plague | 218739 | [218739-on-earth-as-in-hell-woytons-plague.json](./218739-on-earth-as-in-hell-woytons-plague.json) |
+| On Guard | 185535 | [185535-on-guard.json](./185535-on-guard.json) |
 | On Him Their Lives Depend 01 | 271996 | [271996-on-him-their-lives-depend-01.json](./271996-on-him-their-lives-depend-01.json) |
 | On learning that the night will soon be over | 135860 | [135860-on-learning-that-the-night-will-soon-be-over.json](./135860-on-learning-that-the-night-will-soon-be-over.json) |
 | On Leaving the Building | 229784 | [229784-on-leaving-the-building.json](./229784-on-leaving-the-building.json) |
@@ -632,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Sunday | 209642 | [209642-on-sunday.json](./209642-on-sunday.json) |
 | On Sunday 2 | 317212 | [317212-on-sunday-2.json](./317212-on-sunday-2.json) |
 | On Target | 69850 | [69850-on-target.json](./69850-on-target.json) |
+| On Tario | 185520 | [185520-on-tario.json](./185520-on-tario.json) |
 | On the Brink | 249796 | [249796-on-the-brink.json](./249796-on-the-brink.json) |
 | On The Hook | 415951 | [415951-on-the-hook.json](./415951-on-the-hook.json) |
 | On the Job | 243786 | [243786-on-the-job.json](./243786-on-the-job.json) |
@@ -1315,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
 | Oshirikko Venus | 194580 | [194580-oshirikko-venus.json](./194580-oshirikko-venus.json) |
 | Oshirikko Venus 2 | 194581 | [194581-oshirikko-venus-2.json](./194581-oshirikko-venus-2.json) |
+| Oshiya! Push! | 185518 | [185518-oshiya-push.json](./185518-oshiya-push.json) |
 | Osman Ghazi: Ottoman Rising | 382297 | [382297-osman-ghazi-ottoman-rising.json](./382297-osman-ghazi-ottoman-rising.json) |
 | Osminog Adventures: The Lost Island | 222909 | [222909-osminog-adventures-the-lost-island.json](./222909-osminog-adventures-the-lost-island.json) |
 | Osmo Coding Jam | 100164 | [100164-osmo-coding-jam.json](./100164-osmo-coding-jam.json) |
