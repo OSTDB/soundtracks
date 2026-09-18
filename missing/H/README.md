@@ -741,13 +741,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
+| Haunted Hotel: A Past Redeemed | 182399 | [182399-haunted-hotel-a-past-redeemed.json](./182399-haunted-hotel-a-past-redeemed.json) |
 | Haunted Hotel: A Past Redeemed - Collector's Edition | 152889 | [152889-haunted-hotel-a-past-redeemed-collectors-edition.json](./152889-haunted-hotel-a-past-redeemed-collectors-edition.json) |
 | Haunted Hotel: Ancient Bane | 180306 | [180306-haunted-hotel-ancient-bane.json](./180306-haunted-hotel-ancient-bane.json) |
 | Haunted Hotel: Ancient Bane - Collector's Edition | 180302 | [180302-haunted-hotel-ancient-bane-collectors-edition.json](./180302-haunted-hotel-ancient-bane-collectors-edition.json) |
+| Haunted Hotel: Beyond the Page | 182398 | [182398-haunted-hotel-beyond-the-page.json](./182398-haunted-hotel-beyond-the-page.json) |
 | Haunted Hotel: Charles Dexter Ward - Collector's Edition | 102188 | [102188-haunted-hotel-charles-dexter-ward-collectors-edition.json](./102188-haunted-hotel-charles-dexter-ward-collectors-edition.json) |
+| Haunted Hotel: Death Sentence | 182387 | [182387-haunted-hotel-death-sentence.json](./182387-haunted-hotel-death-sentence.json) |
 | Haunted Hotel: Death Sentence & Eternity | 201825 | [201825-haunted-hotel-death-sentence-and-eternity.json](./201825-haunted-hotel-death-sentence-and-eternity.json) |
 | Haunted Hotel: Eclipse - Collector's Edition | 114345 | [114345-haunted-hotel-eclipse-collectors-edition.json](./114345-haunted-hotel-eclipse-collectors-edition.json) |
 | Haunted Hotel: Lonely Dream | 83552 | [83552-haunted-hotel-lonely-dream.json](./83552-haunted-hotel-lonely-dream.json) |
+| Haunted Hotel: Lost Dreams | 182388 | [182388-haunted-hotel-lost-dreams.json](./182388-haunted-hotel-lost-dreams.json) |
 | Haunted Hotel: Phoenix - Collector's Edition | 151191 | [151191-haunted-hotel-phoenix-collectors-edition.json](./151191-haunted-hotel-phoenix-collectors-edition.json) |
 | Haunted Hour | 200120 | [200120-haunted-hour.json](./200120-haunted-hour.json) |
 | Haunted House | 25196 | [25196-haunted-house.json](./25196-haunted-house.json) |
@@ -890,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Shot | 32472 | [32472-head-shot.json](./32472-head-shot.json) |
 | Head Soccer | 260094 | [260094-head-soccer.json](./260094-head-soccer.json) |
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
+| Headache | 182372 | [182372-headache.json](./182372-headache.json) |
 | Headbangers Heaven | 250637 | [250637-headbangers-heaven.json](./250637-headbangers-heaven.json) |
 | Headbängers in Holiday Hell | 141232 | [141232-headbangers-in-holiday-hell.json](./141232-headbangers-in-holiday-hell.json) |
 | HeadCount | 144944 | [144944-headcount.json](./144944-headcount.json) |
