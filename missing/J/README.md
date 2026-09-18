@@ -74,7 +74,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack the Ripper: Hunter Clan | 346568 | [346568-jack-the-ripper-hunter-clan.json](./346568-jack-the-ripper-hunter-clan.json) |
 | Jack Vs Ninjas | 96769 | [96769-jack-vs-ninjas.json](./96769-jack-vs-ninjas.json) |
 | Jack: Snake Attack | 124739 | [124739-jack-snake-attack.json](./124739-jack-snake-attack.json) |
+| Jack's Attic | 210127 | [210127-jacks-attic.json](./210127-jacks-attic.json) |
 | Jack's Game | 50527 | [50527-jacks-game.json](./50527-jacks-game.json) |
+| Jack's House | 210126 | [210126-jacks-house.json](./210126-jacks-house.json) |
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
 | Jackal | 212707 | [212707-jackal.json](./212707-jackal.json) |
 | Jackie Chan in Fists of Fire | 39606 | [39606-jackie-chan-in-fists-of-fire.json](./39606-jackie-chan-in-fists-of-fire.json) |
@@ -82,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackpoison | 361689 | [361689-jackpoison.json](./361689-jackpoison.json) |
 | Jackpot | 246954 | [246954-jackpot.json](./246954-jackpot.json) |
 | Jackpot Slots | 323151 | [323151-jackpot-slots.json](./323151-jackpot-slots.json) |
+| Jackpot Tycoon | 210128 | [210128-jackpot-tycoon.json](./210128-jackpot-tycoon.json) |
 | Jackroid | 367967 | [367967-jackroid.json](./367967-jackroid.json) |
 | Jacksepticeye's 1 Million Subscriber YouTube Party Massacre | 252770 | [252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json](./252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json) |
 | Jacksmith: Weapons and Warriors | 337075 | [337075-jacksmith-weapons-and-warriors.json](./337075-jacksmith-weapons-and-warriors.json) |
@@ -327,10 +330,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! | 297599 | [297599-jeopardy.json](./297599-jeopardy.json) |
 | Jeopardy! 2nd Edition | 43911 | [43911-jeopardy-2nd-edition.json](./43911-jeopardy-2nd-edition.json) |
 | Jeopardy! PlayShow | 140551 | [140551-jeopardy-playshow.json](./140551-jeopardy-playshow.json) |
+| Jeopardy! Super Deluxe | 210134 | [210134-jeopardy-super-deluxe.json](./210134-jeopardy-super-deluxe.json) |
 | Jeopardy! World Tour | 87356 | [87356-jeopardy-world-tour.json](./87356-jeopardy-world-tour.json) |
 | Jeopardy!: 25th Anniversary Edition | 48694 | [48694-jeopardy-25th-anniversary-edition.json](./48694-jeopardy-25th-anniversary-edition.json) |
 | Jeopardy!: Junior Edition | 48709 | [48709-jeopardy-junior-edition.json](./48709-jeopardy-junior-edition.json) |
 | Jequi's Dream | 390007 | [390007-jequis-dream.json](./390007-jequis-dream.json) |
+| Jericho Mirage | 210133 | [210133-jericho-mirage.json](./210133-jericho-mirage.json) |
 | Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
 | Jerma Rancher | 329939 | [329939-jerma-rancher.json](./329939-jerma-rancher.json) |
 | Jerry and the Mystery Loot Box | 83564 | [83564-jerry-and-the-mystery-loot-box.json](./83564-jerry-and-the-mystery-loot-box.json) |
@@ -649,6 +654,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Carter: Warlord of Mars | 172715 | [172715-john-carter-warlord-of-mars.json](./172715-john-carter-warlord-of-mars.json) |
 | John Cena’s Sexy High School Adventure | 250376 | [250376-john-cena-s-sexy-high-school-adventure.json](./250376-john-cena-s-sexy-high-school-adventure.json) |
 | John Christian 2 | 195141 | [195141-john-christian-2.json](./195141-john-christian-2.json) |
+| John Deere American Farmer: Deluxe Edition | 210132 | [210132-john-deere-american-farmer-deluxe-edition.json](./210132-john-deere-american-farmer-deluxe-edition.json) |
+| John Deere: Busy Days in Deerfield Valley | 210131 | [210131-john-deere-busy-days-in-deerfield-valley.json](./210131-john-deere-busy-days-in-deerfield-valley.json) |
+| John Deere: North American Farmer | 210130 | [210130-john-deere-north-american-farmer.json](./210130-john-deere-north-american-farmer.json) |
 | John Gleep | 410343 | [410343-john-gleep.json](./410343-john-gleep.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
