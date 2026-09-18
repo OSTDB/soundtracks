@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Wanderer | 98476 | [98476-late-night-wanderer.json](./98476-late-night-wanderer.json) |
 | Late Photographer | 367995 | [367995-late-photographer.json](./367995-late-photographer.json) |
 | Late Photographer 4 | 199567 | [199567-late-photographer-4.json](./199567-late-photographer-4.json) |
+| Late Photographer 5 | 201148 | [201148-late-photographer-5.json](./201148-late-photographer-5.json) |
 | Late Photographer 6 | 228086 | [228086-late-photographer-6.json](./228086-late-photographer-6.json) |
 | Late Stage Capitalism | 355125 | [355125-late-stage-capitalism.json](./355125-late-stage-capitalism.json) |
 | Late Work | 177487 | [177487-late-work.json](./177487-late-work.json) |
@@ -907,6 +908,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Force Awakens - The Empire Strikes Back Character Pack | 169925 | [169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json](./169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json) |
 | LEGO Star Wars: The Force Awakens - The Phantom Limb | 138163 | [138163-lego-star-wars-the-force-awakens-the-phantom-limb.json](./138163-lego-star-wars-the-force-awakens-the-phantom-limb.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Character Edition | 139937 | [139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json](./139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json) |
+| LEGO Star Wars: The Skywalker Saga - Solo: A Star Wars Story - Character Pack | 201138 | [201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json](./201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json) |
+| LEGO Star Wars: The Skywalker Saga - The Bad Batch Character Pack | 201129 | [201129-lego-star-wars-the-skywalker-saga-the-bad-batch-character-pack.json](./201129-lego-star-wars-the-skywalker-saga-the-bad-batch-character-pack.json) |
+| LEGO Star Wars: The Skywalker Saga - The Mandalorian: Season 1 - Character Pack | 201137 | [201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json](./201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json) |
+| LEGO Star Wars: The Skywalker Saga - The Mandalorian: Season 2 - Character Pack | 201139 | [201139-lego-star-wars-the-skywalker-saga-the-mandalorian-season-2-character-pack.json](./201139-lego-star-wars-the-skywalker-saga-the-mandalorian-season-2-character-pack.json) |
+| LEGO Star Wars: The Skywalker Saga - Trooper Pack | 201140 | [201140-lego-star-wars-the-skywalker-saga-trooper-pack.json](./201140-lego-star-wars-the-skywalker-saga-trooper-pack.json) |
 | LEGO Stunt Rally | 4112 | [4112-lego-stunt-rally.json](./4112-lego-stunt-rally.json) |
 | LEGO Super Heroes: Thor | 228414 | [228414-lego-super-heroes-thor.json](./228414-lego-super-heroes-thor.json) |
 | LEGO Super Mario Goal | 328610 | [328610-lego-super-mario-goal.json](./328610-lego-super-mario-goal.json) |
@@ -2201,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lose Your Head | 179125 | [179125-lose-your-head.json](./179125-lose-your-head.json) |
 | Lose Your Marbles | 362334 | [362334-lose-your-marbles.json](./362334-lose-your-marbles.json) |
 | Lose Your Marbles | 70330 | [70330-lose-your-marbles.json](./70330-lose-your-marbles.json) |
+| Lose/Lose | 201150 | [201150-lose-lose.json](./201150-lose-lose.json) |
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Loss at Sea | 384114 | [384114-loss-at-sea.json](./384114-loss-at-sea.json) |
 | Lost | 186258 | [186258-lost.json](./186258-lost.json) |
