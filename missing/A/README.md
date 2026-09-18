@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Stranded Spark | 304676 | [304676-a-stranded-spark.json](./304676-a-stranded-spark.json) |
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
+| A Tale About Flowers | 188501 | [188501-a-tale-about-flowers.json](./188501-a-tale-about-flowers.json) |
 | A Tale about Tail | 185079 | [185079-a-tale-about-tail.json](./185079-a-tale-about-tail.json) |
 | A Tale for Anna: Collector's Edition | 382907 | [382907-a-tale-for-anna-collectors-edition.json](./382907-a-tale-for-anna-collectors-edition.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
@@ -431,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
 | Accele Brid | 38353 | [38353-accele-brid.json](./38353-accele-brid.json) |
 | Accelerate | 379458 | [379458-accelerate.json](./379458-accelerate.json) |
+| Accelerating Hotkeys | 188513 | [188513-accelerating-hotkeys.json](./188513-accelerating-hotkeys.json) |
 | Acceleration of Suguri X-Edition | 44596 | [44596-acceleration-of-suguri-x-edition.json](./44596-acceleration-of-suguri-x-edition.json) |
 | Acceleration of Suguri: X-Edition HD | 30251 | [30251-acceleration-of-suguri-x-edition-hd.json](./30251-acceleration-of-suguri-x-edition-hd.json) |
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
@@ -1763,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambush Tactics | 61604 | [61604-ambush-tactics.json](./61604-ambush-tactics.json) |
 | Ambush Tactics Advanced | 256921 | [256921-ambush-tactics-advanced.json](./256921-ambush-tactics-advanced.json) |
 | Ambush: Convoy Strike | 154559 | [154559-ambush-convoy-strike.json](./154559-ambush-convoy-strike.json) |
+| Ambushed | 188492 | [188492-ambushed.json](./188492-ambushed.json) |
 | Ambusher | 267479 | [267479-ambusher.json](./267479-ambusher.json) |
 | Ambuuu | 329936 | [329936-ambuuu.json](./329936-ambuuu.json) |
 | Ame ni Negaeba: Wishin' in the Rain | 301601 | [301601-ame-ni-negaeba-wishin-in-the-rain.json](./301601-ame-ni-negaeba-wishin-in-the-rain.json) |
@@ -4228,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Earthlings Mobile | 299288 | [299288-attack-of-the-earthlings-mobile.json](./299288-attack-of-the-earthlings-mobile.json) |
 | Attack of the Evil Poop | 119733 | [119733-attack-of-the-evil-poop.json](./119733-attack-of-the-evil-poop.json) |
 | Attack of the Evil Poop VR | 166738 | [166738-attack-of-the-evil-poop-vr.json](./166738-attack-of-the-evil-poop-vr.json) |
+| Attack of the Giant Crab | 188506 | [188506-attack-of-the-giant-crab.json](./188506-attack-of-the-giant-crab.json) |
 | Attack of the Giant Mutant Lizard | 113711 | [113711-attack-of-the-giant-mutant-lizard.json](./113711-attack-of-the-giant-mutant-lizard.json) |
 | Attack of the Gooobers | 50545 | [50545-attack-of-the-gooobers.json](./50545-attack-of-the-gooobers.json) |
 | Attack of the Killer Beast | 234710 | [234710-attack-of-the-killer-beast.json](./234710-attack-of-the-killer-beast.json) |
@@ -4424,6 +4428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalanche | 46840 | [46840-avalanche.json](./46840-avalanche.json) |
 | Avalanche Snowboarding | 214763 | [214763-avalanche-snowboarding.json](./214763-avalanche-snowboarding.json) |
 | Avalanche! | 255354 | [255354-avalanche.json](./255354-avalanche.json) |
+| Avalanches | 188511 | [188511-avalanches.json](./188511-avalanches.json) |
 | Avalon | 229775 | [229775-avalon.json](./229775-avalon.json) |
 | Avalon | 23068 | [23068-avalon.json](./23068-avalon.json) |
 | Avalon | 269110 | [269110-avalon.json](./269110-avalon.json) |
