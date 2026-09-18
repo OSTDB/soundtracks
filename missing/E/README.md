@@ -1979,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Nightmares | 219652 | [219652-evil-nightmares.json](./219652-evil-nightmares.json) |
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Evil of Fate | 373549 | [373549-evil-of-fate.json](./373549-evil-of-fate.json) |
+| Evil Reap | 196170 | [196170-evil-reap.json](./196170-evil-reap.json) |
 | Evil Resistance: Morning of the Dead | 55183 | [55183-evil-resistance-morning-of-the-dead.json](./55183-evil-resistance-morning-of-the-dead.json) |
 | Evil Returns | 299768 | [299768-evil-returns.json](./299768-evil-returns.json) |
 | Evil Robot Traffic Jam HD | 34407 | [34407-evil-robot-traffic-jam-hd.json](./34407-evil-robot-traffic-jam-hd.json) |
