@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
 | Quest of Dungeons | 16932 | [16932-quest-of-dungeons.json](./16932-quest-of-dungeons.json) |
 | Quest of Goddess | 277945 | [277945-quest-of-goddess.json](./277945-quest-of-goddess.json) |
+| Quest of Graal DX | 192320 | [192320-quest-of-graal-dx.json](./192320-quest-of-graal-dx.json) |
 | Quest of Legend | 334202 | [334202-quest-of-legend.json](./334202-quest-of-legend.json) |
 | Quest of the Dragon Soul | 295926 | [295926-quest-of-the-dragon-soul.json](./295926-quest-of-the-dragon-soul.json) |
 | Quest Room | 199565 | [199565-quest-room.json](./199565-quest-room.json) |
