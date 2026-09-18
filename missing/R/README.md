@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro First Friday Collection #3 | 186295 | [186295-retro-first-friday-collection-3.json](./186295-retro-first-friday-collection-3.json) |
 | Retro First Friday Collection #4 | 186296 | [186296-retro-first-friday-collection-4.json](./186296-retro-first-friday-collection-4.json) |
 | Retro Football Boss | 31751 | [31751-retro-football-boss.json](./31751-retro-football-boss.json) |
+| Retro Gadgets | 219688 | [219688-retro-gadgets.json](./219688-retro-gadgets.json) |
 | Retro Game Crunch | 36349 | [36349-retro-game-crunch.json](./36349-retro-game-crunch.json) |
 | Retro Game Pack | 147902 | [147902-retro-game-pack.json](./147902-retro-game-pack.json) |
 | Retro Game Store Simulator | 331111 | [331111-retro-game-store-simulator.json](./331111-retro-game-store-simulator.json) |
@@ -3470,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Black | 120990 | [120990-running-black.json](./120990-running-black.json) |
 | Running Challenge | 190152 | [190152-running-challenge.json](./190152-running-challenge.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
+| Running into the Cyberpunk | 219655 | [219655-running-into-the-cyberpunk.json](./219655-running-into-the-cyberpunk.json) |
 | Running King | 83559 | [83559-running-king.json](./83559-running-king.json) |
 | Running Knight | 308401 | [308401-running-knight.json](./308401-running-knight.json) |
 | Running Late | 300029 | [300029-running-late.json](./300029-running-late.json) |
@@ -3607,6 +3609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryceam | 262387 | [262387-ryceam.json](./262387-ryceam.json) |
 | Ryclaw: Hope | 211748 | [211748-ryclaw-hope.json](./211748-ryclaw-hope.json) |
 | Ryder | 335293 | [335293-ryder.json](./335293-ryder.json) |
+| Ryewood Town | 219661 | [219661-ryewood-town.json](./219661-ryewood-town.json) |
 | Rygar | 6856 | [6856-rygar.json](./6856-rygar.json) |
 | Rygar: The Legendary Adventure | 5134 | [5134-rygar-the-legendary-adventure.json](./5134-rygar-the-legendary-adventure.json) |
 | RymdResa | 11735 | [11735-rymdresa.json](./11735-rymdresa.json) |
