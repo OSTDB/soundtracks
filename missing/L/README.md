@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LastSafeZone | 265131 | [265131-lastsafezone.json](./265131-lastsafezone.json) |
 | LastStanding | 413750 | [413750-laststanding.json](./413750-laststanding.json) |
 | Lataman | 188495 | [188495-lataman.json](./188495-lataman.json) |
+| Late Bird | 187406 | [187406-late-bird.json](./187406-late-bird.json) |
 | Late Fee Girls | 366241 | [366241-late-fee-girls.json](./366241-late-fee-girls.json) |
 | Late For Class: Variety King | 191252 | [191252-late-for-class-variety-king.json](./191252-late-for-class-variety-king.json) |
 | Late for Love | 176517 | [176517-late-for-love.json](./176517-late-for-love.json) |
@@ -2652,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luck of the Draw | 415123 | [415123-luck-of-the-draw.json](./415123-luck-of-the-draw.json) |
 | Luckcatchers2 | 285483 | [285483-luckcatchers2.json](./285483-luckcatchers2.json) |
 | Luckier | 185614 | [185614-luckier.json](./185614-luckier.json) |
+| Luckitown | 187376 | [187376-luckitown.json](./187376-luckitown.json) |
 | LuckLand | 260423 | [260423-luckland.json](./260423-luckland.json) |
 | Luckrot | 351706 | [351706-luckrot.json](./351706-luckrot.json) |
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
@@ -2810,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Jetman | 7852 | [7852-lunar-jetman.json](./7852-lunar-jetman.json) |
 | Lunar Laceration | 315716 | [315716-lunar-laceration.json](./315716-lunar-laceration.json) |
 | Lunar Lancer | 337090 | [337090-lunar-lancer.json](./337090-lunar-lancer.json) |
+| Lunar Lander | 187373 | [187373-lunar-lander.json](./187373-lunar-lander.json) |
 | Lunar Lander Beyond: Deluxe Edition | 284477 | [284477-lunar-lander-beyond-deluxe-edition.json](./284477-lunar-lander-beyond-deluxe-edition.json) |
 | Lunar Lander Mission | 265758 | [265758-lunar-lander-mission.json](./265758-lunar-lander-mission.json) |
 | Lunar Lander Redux | 303081 | [303081-lunar-lander-redux.json](./303081-lunar-lander-redux.json) |
