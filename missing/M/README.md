@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Bundle: Cats | 208046 | [208046-mega-bundle-cats.json](./208046-mega-bundle-cats.json) |
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Cat Studios Collection 1 | 130688 | [130688-mega-cat-studios-collection-1.json](./130688-mega-cat-studios-collection-1.json) |
+| Mega City Void | 190105 | [190105-mega-city-void.json](./190105-mega-city-void.json) |
 | Mega Collection: 8 Amazing Games - Volume 2 | 409542 | [409542-mega-collection-8-amazing-games-volume-2.json](./409542-mega-collection-8-amazing-games-volume-2.json) |
 | Mega Custom Night | 389412 | [389412-mega-custom-night.json](./389412-mega-custom-night.json) |
 | Mega Demon Blaster | 207379 | [207379-mega-demon-blaster.json](./207379-mega-demon-blaster.json) |
@@ -4636,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonchrome. | 382931 | [382931-moonchrome.json](./382931-moonchrome.json) |
 | Moondusk Masquerade | 334499 | [334499-moondusk-masquerade.json](./334499-moondusk-masquerade.json) |
 | Moonfall Voyage | 264052 | [264052-moonfall-voyage.json](./264052-moonfall-voyage.json) |
+| MoonFall: Butterfly Lovers | 190099 | [190099-moonfall-butterfly-lovers.json](./190099-moonfall-butterfly-lovers.json) |
 | Moonfell: The Tides of Aether | 349388 | [349388-moonfell-the-tides-of-aether.json](./349388-moonfell-the-tides-of-aether.json) |
 | Moonflower | 224580 | [224580-moonflower.json](./224580-moonflower.json) |
 | MoonHack | 408042 | [408042-moonhack.json](./408042-moonhack.json) |
@@ -6024,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteries of the Forbidden Forest | 337464 | [337464-mysteries-of-the-forbidden-forest.json](./337464-mysteries-of-the-forbidden-forest.json) |
 | Mysteries of the Heart: The Psychic Detective Case Files | 299138 | [299138-mysteries-of-the-heart-the-psychic-detective-case-files.json](./299138-mysteries-of-the-heart-the-psychic-detective-case-files.json) |
 | Mysteries of the Past: Shadow of the Deamon | 87275 | [87275-mysteries-of-the-past-shadow-of-the-deamon.json](./87275-mysteries-of-the-past-shadow-of-the-deamon.json) |
+| Mysterious Adventure of Michael 2 | 190103 | [190103-mysterious-adventure-of-michael-2.json](./190103-mysterious-adventure-of-michael-2.json) |
 | Mysterious Blocks 2 | 152857 | [152857-mysterious-blocks-2.json](./152857-mysterious-blocks-2.json) |
 | Mysterious Island: A Hidden Object Adventure | 195758 | [195758-mysterious-island-a-hidden-object-adventure.json](./195758-mysterious-island-a-hidden-object-adventure.json) |
 | Mysterious Island: A Race Against Time and Hot Lava | 200136 | [200136-mysterious-island-a-race-against-time-and-hot-lava.json](./200136-mysterious-island-a-race-against-time-and-hot-lava.json) |
@@ -6111,6 +6114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystia3 | 381723 | [381723-mystia3.json](./381723-mystia3.json) |
 | Mystic Ark: Maboroshi Gekijo | 67326 | [67326-mystic-ark-maboroshi-gekijo.json](./67326-mystic-ark-maboroshi-gekijo.json) |
 | Mystic Balloon | 280890 | [280890-mystic-balloon.json](./280890-mystic-balloon.json) |
+| Mystic Cards | 190058 | [190058-mystic-cards.json](./190058-mystic-cards.json) |
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
 | Mystic Diary: Lost Brother | 32216 | [32216-mystic-diary-lost-brother.json](./32216-mystic-diary-lost-brother.json) |
 | Mystic Explorer | 316642 | [316642-mystic-explorer.json](./316642-mystic-explorer.json) |
