@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade Stadium: Tatakai no Banka | 150655 | [150655-capcom-arcade-stadium-tatakai-no-banka.json](./150655-capcom-arcade-stadium-tatakai-no-banka.json) |
 | Capcom Classics Collection Remixed | 23005 | [23005-capcom-classics-collection-remixed.json](./23005-capcom-classics-collection-remixed.json) |
 | Capcom Coin-Op Collection Volume 1 | 206704 | [206704-capcom-coin-op-collection-volume-1.json](./206704-capcom-coin-op-collection-volume-1.json) |
+| Capcom Fighting Bundle | 207898 | [207898-capcom-fighting-bundle.json](./207898-capcom-fighting-bundle.json) |
 | Capcom Generations | 43897 | [43897-capcom-generations.json](./43897-capcom-generations.json) |
 | Capcom Generations 1: Wings of Destiny | 66122 | [66122-capcom-generations-1-wings-of-destiny.json](./66122-capcom-generations-1-wings-of-destiny.json) |
 | Capcom Generations 2: Chronicles of Arthur | 66123 | [66123-capcom-generations-2-chronicles-of-arthur.json](./66123-capcom-generations-2-chronicles-of-arthur.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
+| Car Dealer Driver | 207881 | [207881-car-dealer-driver.json](./207881-car-dealer-driver.json) |
 | Car Destroyer | 203888 | [203888-car-destroyer.json](./203888-car-destroyer.json) |
 | Car Detailing Cleaner Simulator | 288761 | [288761-car-detailing-cleaner-simulator.json](./288761-car-detailing-cleaner-simulator.json) |
 | Car Detailing Simulator | 182487 | [182487-car-detailing-simulator.json](./182487-car-detailing-simulator.json) |
@@ -1725,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Terminator | 105404 | [105404-cheese-terminator.json](./105404-cheese-terminator.json) |
 | Cheesecake Cult: Unholy Feast | 275579 | [275579-cheesecake-cult-unholy-feast.json](./275579-cheesecake-cult-unholy-feast.json) |
 | Cheesequest | 213022 | [213022-cheesequest.json](./213022-cheesequest.json) |
+| Cheesey Sponge | 207909 | [207909-cheesey-sponge.json](./207909-cheesey-sponge.json) |
 | Cheestrings Quiz | 313120 | [313120-cheestrings-quiz.json](./313120-cheestrings-quiz.json) |
 | Cheesy Chaser | 378899 | [378899-cheesy-chaser.json](./378899-cheesy-chaser.json) |
 | Cheesy Trials | 281529 | [281529-cheesy-trials.json](./281529-cheesy-trials.json) |
@@ -3947,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coop Tank War | 111008 | [111008-coop-tank-war.json](./111008-coop-tank-war.json) |
 | Coopbots | 272862 | [272862-coopbots.json](./272862-coopbots.json) |
 | Cooped Up | 242071 | [242071-cooped-up.json](./242071-cooped-up.json) |
+| Cooperacing | 207910 | [207910-cooperacing.json](./207910-cooperacing.json) |
 | Cooperate with Yourself | 371338 | [371338-cooperate-with-yourself.json](./371338-cooperate-with-yourself.json) |
 | Cooporationation | 326823 | [326823-cooporationation.json](./326823-cooporationation.json) |
 | CoopRooms | 347156 | [347156-cooprooms.json](./347156-cooprooms.json) |
