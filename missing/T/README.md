@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebrix | 403651 | [403651-tenebrix.json](./403651-tenebrix.json) |
 | Tenebrous Dungeon | 115002 | [115002-tenebrous-dungeon.json](./115002-tenebrous-dungeon.json) |
 | Tenebrum | 268458 | [268458-tenebrum.json](./268458-tenebrum.json) |
+| Tengai Makyou Zero: Shonen Jump no Shou | 186735 | [186735-tengai-makyou-zero-shonen-jump-no-shou.json](./186735-tengai-makyou-zero-shonen-jump-no-shou.json) |
 | Tengai Makyou: Daiyon no Mokushiroku - The Apocalypse IV | 80577 | [80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json](./80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json) |
 | Tengai Makyou: Dennou Karakuri Kakutou-den | 45952 | [45952-tengai-makyou-dennou-karakuri-kakutou-den.json](./45952-tengai-makyou-dennou-karakuri-kakutou-den.json) |
 | Tengai Makyou: Fuun Kabuki-den | 71530 | [71530-tengai-makyou-fuun-kabuki-den.json](./71530-tengai-makyou-fuun-kabuki-den.json) |
@@ -2107,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Callisto Protocol: Riot Bundle | 272560 | [272560-the-callisto-protocol-riot-bundle.json](./272560-the-callisto-protocol-riot-bundle.json) |
 | The Campsite | 326605 | [326605-the-campsite.json](./326605-the-campsite.json) |
 | The Candle | 331669 | [331669-the-candle.json](./331669-the-candle.json) |
+| The Candyman | 186729 | [186729-the-candyman.json](./186729-the-candyman.json) |
 | The Cannon Fighters | 253597 | [253597-the-cannon-fighters.json](./253597-the-cannon-fighters.json) |
 | The Capcom Collection | 246090 | [246090-the-capcom-collection.json](./246090-the-capcom-collection.json) |
 | The Caped Crusader | 278715 | [278715-the-caped-crusader.json](./278715-the-caped-crusader.json) |
@@ -4369,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Patient: After Hours | 207495 | [207495-the-patient-after-hours.json](./207495-the-patient-after-hours.json) |
 | The Patient: Can You Escape? | 325832 | [325832-the-patient-can-you-escape.json](./325832-the-patient-can-you-escape.json) |
 | The Patrician | 7353 | [7353-the-patrician.json](./7353-the-patrician.json) |
+| The Patrick Polly Swooshball Challenge | 186748 | [186748-the-patrick-polly-swooshball-challenge.json](./186748-the-patrick-polly-swooshball-challenge.json) |
 | The Paupers | 275698 | [275698-the-paupers.json](./275698-the-paupers.json) |
 | The Pawn | 12193 | [12193-the-pawn.json](./12193-the-pawn.json) |
 | The Peacekeeper | 307300 | [307300-the-peacekeeper.json](./307300-the-peacekeeper.json) |
@@ -9271,6 +9274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
 | Tubby's Wonderful Town | 382751 | [382751-tubbys-wonderful-town.json](./382751-tubbys-wonderful-town.json) |
 | Tube Adventures | 19443 | [19443-tube-adventures.json](./19443-tube-adventures.json) |
+| Tube Adventures Offline Collection 1-3 | 186742 | [186742-tube-adventures-offline-collection-1-3.json](./186742-tube-adventures-offline-collection-1-3.json) |
 | Tube Be Continued | 272569 | [272569-tube-be-continued.json](./272569-tube-be-continued.json) |
 | Tube Panic | 40163 | [40163-tube-panic.json](./40163-tube-panic.json) |
 | Tube Rolling | 159794 | [159794-tube-rolling.json](./159794-tube-rolling.json) |
