@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flain: Tao force & Cubes | 153433 | [153433-flain-tao-force-and-cubes.json](./153433-flain-tao-force-and-cubes.json) |
 | Flair | 391197 | [391197-flair.json](./391197-flair.json) |
 | Flairtender | 29635 | [29635-flairtender.json](./29635-flairtender.json) |
+| Flaiser | 183449 | [183449-flaiser.json](./183449-flaiser.json) |
 | Flake: The Legend of Snowblind | 287195 | [287195-flake-the-legend-of-snowblind.json](./287195-flake-the-legend-of-snowblind.json) |
 | Flaky Love | 310039 | [310039-flaky-love.json](./310039-flaky-love.json) |
 | Flambo's Inferno | 196164 | [196164-flambos-inferno.json](./196164-flambos-inferno.json) |
