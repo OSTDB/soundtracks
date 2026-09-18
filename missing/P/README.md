@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengon | 79230 | [79230-pengon.json](./79230-pengon.json) |
 | PengPong | 345506 | [345506-pengpong.json](./345506-pengpong.json) |
 | Pengu | 177520 | [177520-pengu.json](./177520-pengu.json) |
+| Pengu Never Left | 187399 | [187399-pengu-never-left.json](./187399-pengu-never-left.json) |
 | Penguin | 393624 | [393624-penguin.json](./393624-penguin.json) |
 | Penguin Adventure | 37065 | [37065-penguin-adventure.json](./37065-penguin-adventure.json) |
 | Penguin Armada | 259650 | [259650-penguin-armada.json](./259650-penguin-armada.json) |
@@ -1379,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perverts Society | 110357 | [110357-perverts-society.json](./110357-perverts-society.json) |
 | Perypetie Boba | 232023 | [232023-perypetie-boba.json](./232023-perypetie-boba.json) |
 | PES 2018 Mobile | 240469 | [240469-pes-2018-mobile.json](./240469-pes-2018-mobile.json) |
+| Pesadelo: O Início | 187383 | [187383-pesadelo-o-inicio.json](./187383-pesadelo-o-inicio.json) |
 | Pesterminator: The Western Exterminator | 48080 | [48080-pesterminator-the-western-exterminator.json](./48080-pesterminator-the-western-exterminator.json) |
 | Pestilence | 272272 | [272272-pestilence.json](./272272-pestilence.json) |
 | Pestis | 97921 | [97921-pestis.json](./97921-pestis.json) |
