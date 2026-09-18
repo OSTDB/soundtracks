@@ -4861,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Escape | 370218 | [370218-sonic-escape.json](./370218-sonic-escape.json) |
 | Sonic Essence | 337174 | [337174-sonic-essence.json](./337174-sonic-essence.json) |
 | Sonic Eternal Rings | 330322 | [330322-sonic-eternal-rings.json](./330322-sonic-eternal-rings.json) |
+| Sonic Fan Remix | 228589 | [228589-sonic-fan-remix.json](./228589-sonic-fan-remix.json) |
 | Sonic FGX | 299995 | [299995-sonic-fgx.json](./299995-sonic-fgx.json) |
 | Sonic FGX 2 | 352169 | [352169-sonic-fgx-2.json](./352169-sonic-fgx-2.json) |
 | Sonic Forces + Super Monkey Ball: Banana Blitz HD Double Pack | 139951 | [139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json](./139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json) |
@@ -7657,6 +7658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Stormy Castle | 330847 | [330847-stormy-castle.json](./330847-stormy-castle.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
+| Story City | 228518 | [228518-story-city.json](./228518-story-city.json) |
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
 | Story Maker | 66615 | [66615-story-maker.json](./66615-story-maker.json) |
 | Story of a Gladiator | 125747 | [125747-story-of-a-gladiator.json](./125747-story-of-a-gladiator.json) |
@@ -9601,6 +9603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Game Master | 212477 | [212477-survival-game-master.json](./212477-survival-game-master.json) |
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
 | Survival Hold Your Self | 342077 | [342077-survival-hold-your-self.json](./342077-survival-hold-your-self.json) |
+| Survival Nation | 228586 | [228586-survival-nation.json](./228586-survival-nation.json) |
 | Survival Nation: Lost Horizon | 259619 | [259619-survival-nation-lost-horizon.json](./259619-survival-nation-lost-horizon.json) |
 | Survival Nexus | 266784 | [266784-survival-nexus.json](./266784-survival-nexus.json) |
 | Survival on a Deserted Island | 265134 | [265134-survival-on-a-deserted-island.json](./265134-survival-on-a-deserted-island.json) |
