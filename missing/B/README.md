@@ -2357,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bioshock 2: Rapture Edition | 44571 | [44571-bioshock-2-rapture-edition.json](./44571-bioshock-2-rapture-edition.json) |
 | BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
 | BioShock: The Collection | 19839 | [19839-bioshock-the-collection.json](./19839-bioshock-the-collection.json) |
+| Biosphere | 185531 | [185531-biosphere.json](./185531-biosphere.json) |
 | Biosupremacy | 29793 | [29793-biosupremacy.json](./29793-biosupremacy.json) |
 | BioSwarm | 297472 | [297472-bioswarm.json](./297472-bioswarm.json) |
 | BioSynth: Rising | 336892 | [336892-biosynth-rising.json](./336892-biosynth-rising.json) |
@@ -2873,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind | 216787 | [216787-blind.json](./216787-blind.json) |
 | Blind Box | 379348 | [379348-blind-box.json](./379348-blind-box.json) |
 | Blind Date Simulator | 316640 | [316640-blind-date-simulator.json](./316640-blind-date-simulator.json) |
+| Blind Deadly Love | 185537 | [185537-blind-deadly-love.json](./185537-blind-deadly-love.json) |
 | Blind Dreams | 192831 | [192831-blind-dreams.json](./192831-blind-dreams.json) |
 | Blind Exposure | 320736 | [320736-blind-exposure.json](./320736-blind-exposure.json) |
 | Blind Love | 30009 | [30009-blind-love.json](./30009-blind-love.json) |
@@ -3096,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Card | 109850 | [109850-blood-card.json](./109850-blood-card.json) |
 | Blood Cleaner | 322804 | [322804-blood-cleaner.json](./322804-blood-cleaner.json) |
 | Blood Code: Complete Edition | 52647 | [52647-blood-code-complete-edition.json](./52647-blood-code-complete-edition.json) |
+| Blood Cube | 185549 | [185549-blood-cube.json](./185549-blood-cube.json) |
 | Blood Expedition | 384638 | [384638-blood-expedition.json](./384638-blood-expedition.json) |
 | Blood Field | 153932 | [153932-blood-field.json](./153932-blood-field.json) |
 | Blood for the Throne | 370202 | [370202-blood-for-the-throne.json](./370202-blood-for-the-throne.json) |
