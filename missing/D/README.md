@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death by Cube | 22977 | [22977-death-by-cube.json](./22977-death-by-cube.json) |
 | Death by Dark Shadows | 57665 | [57665-death-by-dark-shadows.json](./57665-death-by-dark-shadows.json) |
 | Death by Degrees | 1241 | [1241-death-by-degrees.json](./1241-death-by-degrees.json) |
+| Death by Flower Arrangement | 186164 | [186164-death-by-flower-arrangement.json](./186164-death-by-flower-arrangement.json) |
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
 | Death Cargo | 55130 | [55130-death-cargo.json](./55130-death-cargo.json) |
 | Death Climbing | 332981 | [332981-death-climbing.json](./332981-death-climbing.json) |
@@ -2078,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
 | Destruction Derby 64 | 10686 | [10686-destruction-derby-64.json](./10686-destruction-derby-64.json) |
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
+| Destruction Rocks | 186192 | [186192-destruction-rocks.json](./186192-destruction-rocks.json) |
 | Destruction Simulator | 311455 | [311455-destruction-simulator.json](./311455-destruction-simulator.json) |
 | DestructoPod | 119710 | [119710-destructopod.json](./119710-destructopod.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
@@ -3832,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doughlings Bundle | 196810 | [196810-doughlings-bundle.json](./196810-doughlings-bundle.json) |
 | Douglas Rockmoor | 69305 | [69305-douglas-rockmoor.json](./69305-douglas-rockmoor.json) |
 | Douglas Rockmoor 2 | 69309 | [69309-douglas-rockmoor-2.json](./69309-douglas-rockmoor-2.json) |
+| Doujins and Dragons | 186158 | [186158-doujins-and-dragons.json](./186158-doujins-and-dragons.json) |
 | Doukeshi Satsujin Jiken | 351082 | [351082-doukeshi-satsujin-jiken.json](./351082-doukeshi-satsujin-jiken.json) |
 | Doukutsu Demake | 183019 | [183019-doukutsu-demake.json](./183019-doukutsu-demake.json) |
 | Doukyuu-sei | 59997 | [59997-doukyuu-sei.json](./59997-doukyuu-sei.json) |
@@ -4590,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Rift | 355128 | [355128-drill-rift.json](./355128-drill-rift.json) |
 | Drill Space | 341037 | [341037-drill-space.json](./341037-drill-space.json) |
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
+| Drillmin | 186198 | [186198-drillmin.json](./186198-drillmin.json) |
 | Drills VR | 109066 | [109066-drills-vr.json](./109066-drills-vr.json) |
 | Drim | 286085 | [286085-drim.json](./286085-drim.json) |
 | Drink | 178604 | [178604-drink.json](./178604-drink.json) |
