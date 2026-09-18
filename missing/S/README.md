@@ -4620,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sojourn Past | 291473 | [291473-sojourn-past.json](./291473-sojourn-past.json) |
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
 | Sok Min | 96888 | [96888-sok-min.json](./96888-sok-min.json) |
+| Sok Min: Pro | 196129 | [196129-sok-min-pro.json](./196129-sok-min-pro.json) |
 | Sokfest | 240314 | [240314-sokfest.json](./240314-sokfest.json) |
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
 | Soko-Ban | 11763 | [11763-soko-ban.json](./11763-soko-ban.json) |
@@ -6916,6 +6917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Procyon - Deluxe Edition | 298046 | [298046-star-conflict-procyon-deluxe-edition.json](./298046-star-conflict-procyon-deluxe-edition.json) |
 | Star Conflict: Raven | 354431 | [354431-star-conflict-raven.json](./354431-star-conflict-raven.json) |
 | Star Conflict: Salamander | 298040 | [298040-star-conflict-salamander.json](./298040-star-conflict-salamander.json) |
+| Star Conflict: Sawtooth | 196152 | [196152-star-conflict-sawtooth.json](./196152-star-conflict-sawtooth.json) |
 | Star Conflict: Shrike | 310394 | [310394-star-conflict-shrike.json](./310394-star-conflict-shrike.json) |
 | Star Conflict: Shrike - Deluxe Edition | 310395 | [310395-star-conflict-shrike-deluxe-edition.json](./310395-star-conflict-shrike-deluxe-edition.json) |
 | Star Conflict: Starter Pack. Pterosaur | 354424 | [354424-star-conflict-starter-pack-pterosaur.json](./354424-star-conflict-starter-pack-pterosaur.json) |
@@ -6984,6 +6986,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Matter | 148524 | [148524-star-matter.json](./148524-star-matter.json) |
 | Star Melody: Yumemi Dreamer | 172717 | [172717-star-melody-yumemi-dreamer.json](./172717-star-melody-yumemi-dreamer.json) |
 | Star Melody: Yumemi Dreamer - Chapter 10 | 195782 | [195782-star-melody-yumemi-dreamer-chapter-10.json](./195782-star-melody-yumemi-dreamer-chapter-10.json) |
+| Star Melody: Yumemi Dreamer - Chapter 11 | 196156 | [196156-star-melody-yumemi-dreamer-chapter-11.json](./196156-star-melody-yumemi-dreamer-chapter-11.json) |
+| Star Melody: Yumemi Dreamer - Chapter 9 | 196149 | [196149-star-melody-yumemi-dreamer-chapter-9.json](./196149-star-melody-yumemi-dreamer-chapter-9.json) |
 | Star Melody: Yumemi Dreamer - Limited Edition | 175977 | [175977-star-melody-yumemi-dreamer-limited-edition.json](./175977-star-melody-yumemi-dreamer-limited-edition.json) |
 | Star Mine | 142424 | [142424-star-mine.json](./142424-star-mine.json) |
 | Star Mobile | 41995 | [41995-star-mobile.json](./41995-star-mobile.json) |
