@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Pointless - Scholar of the Wilbur Sin Edition | 177033 | [177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json](./177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json) |
 | Lisa: The Purposeful | 221839 | [221839-lisa-the-purposeful.json](./221839-lisa-the-purposeful.json) |
 | Lisa: The Undone | 297621 | [297621-lisa-the-undone.json](./297621-lisa-the-undone.json) |
+| Lisistrata | 195601 | [195601-lisistrata.json](./195601-lisistrata.json) |
 | Lisle Engle Heavy Distance | 253918 | [253918-lisle-engle-heavy-distance.json](./253918-lisle-engle-heavy-distance.json) |
 | Lisparuga | 176996 | [176996-lisparuga.json](./176996-lisparuga.json) |
 | Listen Me | 227931 | [227931-listen-me.json](./227931-listen-me.json) |
@@ -2404,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Turbo Challenge 2 | 7659 | [7659-lotus-turbo-challenge-2.json](./7659-lotus-turbo-challenge-2.json) |
 | Lotus: Lost Memories | 346655 | [346655-lotus-lost-memories.json](./346655-lotus-lost-memories.json) |
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
+| Louder Than Words: The Story of a Field Trip | 195647 | [195647-louder-than-words-the-story-of-a-field-trip.json](./195647-louder-than-words-the-story-of-a-field-trip.json) |
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
 | Louis Charles in the Louvre | 360640 | [360640-louis-charles-in-the-louvre.json](./360640-louis-charles-in-the-louvre.json) |
 | Louloudi Asteri: Save the Solar System | 251004 | [251004-louloudi-asteri-save-the-solar-system.json](./251004-louloudi-asteri-save-the-solar-system.json) |
@@ -2413,7 +2415,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Accident | 186829 | [186829-love-accident.json](./186829-love-accident.json) |
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
 | Love Always Runs Away | 362885 | [362885-love-always-runs-away.json](./362885-love-always-runs-away.json) |
+| Love and Betrayal | 195639 | [195639-love-and-betrayal.json](./195639-love-and-betrayal.json) |
 | Love and Formaldehyde | 225266 | [225266-love-and-formaldehyde.json](./225266-love-and-formaldehyde.json) |
+| Love and Guillotines | 195629 | [195629-love-and-guillotines.json](./195629-love-and-guillotines.json) |
 | Love Angel Syndrome | 324884 | [324884-love-angel-syndrome.json](./324884-love-angel-syndrome.json) |
 | Love Archer | 227261 | [227261-love-archer.json](./227261-love-archer.json) |
 | Love Bakudan | 152390 | [152390-love-bakudan.json](./152390-love-bakudan.json) |
@@ -2635,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luckrot | 351706 | [351706-luckrot.json](./351706-luckrot.json) |
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
 | Lucky Dog 1 | 147444 | [147444-lucky-dog-1.json](./147444-lucky-dog-1.json) |
+| Lucky Gem | 195607 | [195607-lucky-gem.json](./195607-lucky-gem.json) |
 | Lucky Gem | 262484 | [262484-lucky-gem.json](./262484-lucky-gem.json) |
 | Lucky Gem Casino | 323158 | [323158-lucky-gem-casino.json](./323158-lucky-gem-casino.json) |
 | Lucky Hand: Roguelike Deck Builder | 347780 | [347780-lucky-hand-roguelike-deck-builder.json](./347780-lucky-hand-roguelike-deck-builder.json) |
