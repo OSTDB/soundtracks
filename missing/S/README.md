@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturnia | 267993 | [267993-saturnia.json](./267993-saturnia.json) |
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
 | Saucer Destruction 3: Armagedon | 337204 | [337204-saucer-destruction-3-armagedon.json](./337204-saucer-destruction-3-armagedon.json) |
+| Saucy Boy Adventures | 210095 | [210095-saucy-boy-adventures.json](./210095-saucy-boy-adventures.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
 | Sauna | 178039 | [178039-sauna.json](./178039-sauna.json) |
 | Sauna Mario World | 338838 | [338838-sauna-mario-world.json](./338838-sauna-mario-world.json) |
@@ -2683,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Online | 20574 | [20574-shot-online.json](./20574-shot-online.json) |
 | Shot Online: Golf Battle | 233119 | [233119-shot-online-golf-battle.json](./233119-shot-online-golf-battle.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
+| Shotdogs | 210096 | [210096-shotdogs.json](./210096-shotdogs.json) |
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
 | ShotGun Exorcist | 270200 | [270200-shotgun-exorcist.json](./270200-shotgun-exorcist.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
@@ -4491,6 +4493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
+| Soccer Rally | 210079 | [210079-soccer-rally.json](./210079-soccer-rally.json) |
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
 | Soccer Showdown 3 | 233735 | [233735-soccer-showdown-3.json](./233735-soccer-showdown-3.json) |
 | Soccer Squad | 291486 | [291486-soccer-squad.json](./291486-soccer-squad.json) |
