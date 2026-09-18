@@ -2295,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diary of a Step-Sister | 239880 | [239880-diary-of-a-step-sister.json](./239880-diary-of-a-step-sister.json) |
 | Diary of a Witch | 196329 | [196329-diary-of-a-witch.json](./196329-diary-of-a-witch.json) |
 | Diary of Broken Dreams | 193327 | [193327-diary-of-broken-dreams.json](./193327-diary-of-broken-dreams.json) |
+| Diaspora | 191125 | [191125-diaspora.json](./191125-diaspora.json) |
 | Diatris | 183524 | [183524-diatris.json](./183524-diatris.json) |
 | Diavolo no Daibouken | 219042 | [219042-diavolo-no-daibouken.json](./219042-diavolo-no-daibouken.json) |
 | Dib's Nanochase | 191879 | [191879-dibs-nanochase.json](./191879-dibs-nanochase.json) |
@@ -3328,7 +3329,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominator | 13601 | [13601-dominator.json](./13601-dominator.json) |
 | Dominator Idle | 235879 | [235879-dominator-idle.json](./235879-dominator-idle.json) |
 | Dominay | 211962 | [211962-dominay.json](./211962-dominay.json) |
+| Dominion: Adventures | 191103 | [191103-dominion-adventures.json](./191103-dominion-adventures.json) |
+| Dominion: Alchemy | 191100 | [191100-dominion-alchemy.json](./191100-dominion-alchemy.json) |
+| Dominion: Base Set - 1st Edition | 191105 | [191105-dominion-base-set-1st-edition.json](./191105-dominion-base-set-1st-edition.json) |
+| Dominion: Cornucopia | 191107 | [191107-dominion-cornucopia.json](./191107-dominion-cornucopia.json) |
+| Dominion: Dark Ages | 191101 | [191101-dominion-dark-ages.json](./191101-dominion-dark-ages.json) |
+| Dominion: Empires | 191109 | [191109-dominion-empires.json](./191109-dominion-empires.json) |
+| Dominion: Guilds | 191104 | [191104-dominion-guilds.json](./191104-dominion-guilds.json) |
+| Dominion: Hinterlands | 191102 | [191102-dominion-hinterlands.json](./191102-dominion-hinterlands.json) |
+| Dominion: Intrigue | 191099 | [191099-dominion-intrigue.json](./191099-dominion-intrigue.json) |
+| Dominion: Intrigue - 1st Edition | 191112 | [191112-dominion-intrigue-1st-edition.json](./191112-dominion-intrigue-1st-edition.json) |
+| Dominion: Menagerie | 191113 | [191113-dominion-menagerie.json](./191113-dominion-menagerie.json) |
+| Dominion: Nocturne | 191106 | [191106-dominion-nocturne.json](./191106-dominion-nocturne.json) |
+| Dominion: Promo Pack 2 | 191110 | [191110-dominion-promo-pack-2.json](./191110-dominion-promo-pack-2.json) |
+| Dominion: Prosperity | 191108 | [191108-dominion-prosperity.json](./191108-dominion-prosperity.json) |
 | Dominion: Prosperity - 1st Edition | 203948 | [203948-dominion-prosperity-1st-edition.json](./203948-dominion-prosperity-1st-edition.json) |
+| Dominion: Renaissance | 191098 | [191098-dominion-renaissance.json](./191098-dominion-renaissance.json) |
+| Dominion: Seaside | 191111 | [191111-dominion-seaside.json](./191111-dominion-seaside.json) |
 | Dominions 3: The Awakening | 16641 | [16641-dominions-3-the-awakening.json](./16641-dominions-3-the-awakening.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
 | Domino Clicker | 295802 | [295802-domino-clicker.json](./295802-domino-clicker.json) |
@@ -4371,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Golf VR | 74441 | [74441-dream-golf-vr.json](./74441-dream-golf-vr.json) |
 | Dream Golf VR: Jungle Temple | 171006 | [171006-dream-golf-vr-jungle-temple.json](./171006-dream-golf-vr-jungle-temple.json) |
 | Dream Golf VR: Lighthouse Island | 171007 | [171007-dream-golf-vr-lighthouse-island.json](./171007-dream-golf-vr-lighthouse-island.json) |
+| Dream Hacker | 191084 | [191084-dream-hacker.json](./191084-dream-hacker.json) |
 | Dream Hollow | 350416 | [350416-dream-hollow.json](./350416-dream-hollow.json) |
 | Dream Home | 127082 | [127082-dream-home.json](./127082-dream-home.json) |
 | Dream Hopper | 200139 | [200139-dream-hopper.json](./200139-dream-hopper.json) |
