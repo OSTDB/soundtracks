@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaternalBound Redux | 219084 | [219084-maternalbound-redux.json](./219084-maternalbound-redux.json) |
 | MaternalBound: An EarthBound & Mother 2 Bond! | 313344 | [313344-maternalbound-an-earthbound-and-mother-2-bond.json](./313344-maternalbound-an-earthbound-and-mother-2-bond.json) |
 | Math | 139972 | [139972-math.json](./139972-math.json) |
+| Math Adventures | 219676 | [219676-math-adventures.json](./219676-math-adventures.json) |
 | Math Attack | 367509 | [367509-math-attack.json](./367509-math-attack.json) |
 | Math Be Nimble: Brain Training | 265425 | [265425-math-be-nimble-brain-training.json](./265425-math-be-nimble-brain-training.json) |
 | Math Blaster Ages 4-6 | 58816 | [58816-math-blaster-ages-4-6.json](./58816-math-blaster-ages-4-6.json) |
@@ -2297,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
 | Melting Hearts: Our Love Will Grow 2 | 33080 | [33080-melting-hearts-our-love-will-grow-2.json](./33080-melting-hearts-our-love-will-grow-2.json) |
 | Melting Moon | 280935 | [280935-melting-moon.json](./280935-melting-moon.json) |
+| Melting Point | 219668 | [219668-melting-point.json](./219668-melting-point.json) |
 | Melty Blood Actress Again Current Code | 19943 | [19943-melty-blood-actress-again-current-code.json](./19943-melty-blood-actress-again-current-code.json) |
 | Melty Blood: Type Lumina | 145017 | [145017-melty-blood-type-lumina.json](./145017-melty-blood-type-lumina.json) |
 | MeltyFlow: A Cozy Desktop Lava Lamp | 406676 | [406676-meltyflow-a-cozy-desktop-lava-lamp.json](./406676-meltyflow-a-cozy-desktop-lava-lamp.json) |
@@ -5308,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Ranking GB2: Mezase! Muscle Champion | 228583 | [228583-muscle-ranking-gb2-mezase-muscle-champion.json](./228583-muscle-ranking-gb2-mezase-muscle-champion.json) |
 | Muscle Ranking Vol. 3: Saikyou no Challenger Tanjou! | 209614 | [209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json](./209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json) |
 | Muse | 333096 | [333096-muse.json](./333096-muse.json) |
+| Muse & Barbarian | 219667 | [219667-muse-and-barbarian.json](./219667-muse-and-barbarian.json) |
 | Muse Dash 2 | 400225 | [400225-muse-dash-2.json](./400225-muse-dash-2.json) |
 | Muse Dash: Just as Planned | 356178 | [356178-muse-dash-just-as-planned.json](./356178-muse-dash-just-as-planned.json) |
 | Muse Dash: Muse Plus | 356177 | [356177-muse-dash-muse-plus.json](./356177-muse-dash-muse-plus.json) |
@@ -5579,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hotel Romance | 298900 | [298900-my-hotel-romance.json](./298900-my-hotel-romance.json) |
 | My Hotel Simulator | 372559 | [372559-my-hotel-simulator.json](./372559-my-hotel-simulator.json) |
 | My House and I Got Transported To Another World | 278147 | [278147-my-house-and-i-got-transported-to-another-world.json](./278147-my-house-and-i-got-transported-to-another-world.json) |
+| My House is Haunted | 219656 | [219656-my-house-is-haunted.json](./219656-my-house-is-haunted.json) |
 | My Ice Cream Maker | 408069 | [408069-my-ice-cream-maker.json](./408069-my-ice-cream-maker.json) |
 | My Idle Witch | 395589 | [395589-my-idle-witch.json](./395589-my-idle-witch.json) |
 | My Immortal Sect is Very Powerful | 309673 | [309673-my-immortal-sect-is-very-powerful.json](./309673-my-immortal-sect-is-very-powerful.json) |
