@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unno | 235227 | [235227-unno.json](./235227-unno.json) |
 | Uno 2 Go | 229062 | [229062-uno-2-go.json](./229062-uno-2-go.json) |
 | Uno DX | 91956 | [91956-uno-dx.json](./91956-uno-dx.json) |
+| Uno: Assassin's Creed Valhalla Theme Cards | 196679 | [196679-uno-assassins-creed-valhalla-theme-cards.json](./196679-uno-assassins-creed-valhalla-theme-cards.json) |
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
 | Unofficial Pokemon Trading Card Game | 363944 | [363944-unofficial-pokemon-trading-card-game.json](./363944-unofficial-pokemon-trading-card-game.json) |
 | Unoklive vs. Zuck | 182459 | [182459-unoklive-vs-zuck.json](./182459-unoklive-vs-zuck.json) |
