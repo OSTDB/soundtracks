@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Jigsaw Puzzles: A Journey Across Continents | 263210 | [263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json](./263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json) |
 | Let's Play Jigsaw Puzzles: At the Zoo | 239738 | [239738-lets-play-jigsaw-puzzles-at-the-zoo.json](./239738-lets-play-jigsaw-puzzles-at-the-zoo.json) |
 | Let's Play Jigsaw Puzzles: Birds | 240775 | [240775-lets-play-jigsaw-puzzles-birds.json](./240775-lets-play-jigsaw-puzzles-birds.json) |
+| Let's Play Jigsaw Puzzles: Butterflies & Moths | 232006 | [232006-lets-play-jigsaw-puzzles-butterflies-and-moths.json](./232006-lets-play-jigsaw-puzzles-butterflies-and-moths.json) |
 | Let's Play Jigsaw Puzzles: On the Farm | 240811 | [240811-lets-play-jigsaw-puzzles-on-the-farm.json](./240811-lets-play-jigsaw-puzzles-on-the-farm.json) |
 | Let's Play Jigsaw Puzzles: Thailand and Cambodia | 239765 | [239765-lets-play-jigsaw-puzzles-thailand-and-cambodia.json](./239765-lets-play-jigsaw-puzzles-thailand-and-cambodia.json) |
 | Let's Play Jigsaw Puzzles: Underwater | 236821 | [236821-lets-play-jigsaw-puzzles-underwater.json](./236821-lets-play-jigsaw-puzzles-underwater.json) |
@@ -1449,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line of Fire | 19487 | [19487-line-of-fire.json](./19487-line-of-fire.json) |
 | Line of Fire: Pirate Waltz | 290544 | [290544-line-of-fire-pirate-waltz.json](./290544-line-of-fire-pirate-waltz.json) |
 | Line of Sight: Starters Pack | 156102 | [156102-line-of-sight-starters-pack.json](./156102-line-of-sight-starters-pack.json) |
+| Line Points: Challenge your coordination | 232055 | [232055-line-points-challenge-your-coordination.json](./232055-line-points-challenge-your-coordination.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
 | Line Up: Dots! | 243098 | [243098-line-up-dots.json](./243098-line-up-dots.json) |
 | Lineage | 388008 | [388008-lineage.json](./388008-lineage.json) |
