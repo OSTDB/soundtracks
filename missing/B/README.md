@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biomechanical Toy | 39613 | [39613-biomechanical-toy.json](./39613-biomechanical-toy.json) |
 | Biomeinoes | 275877 | [275877-biomeinoes.json](./275877-biomeinoes.json) |
 | BioMenace Remastered | 373528 | [373528-biomenace-remastered.json](./373528-biomenace-remastered.json) |
+| Biomes: Survival Era | 217412 | [217412-biomes-survival-era.json](./217412-biomes-survival-era.json) |
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
 | Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
 | Bionic Commando | 9242 | [9242-bionic-commando.json](./9242-bionic-commando.json) |
@@ -4337,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broke Brodie | 362856 | [362856-broke-brodie.json](./362856-broke-brodie.json) |
 | Broke Girl | 118423 | [118423-broke-girl.json](./118423-broke-girl.json) |
 | Broke in Isekai | 310925 | [310925-broke-in-isekai.json](./310925-broke-in-isekai.json) |
+| Broken Build Simulator | 217415 | [217415-broken-build-simulator.json](./217415-broken-build-simulator.json) |
 | Broken Covenant | 282699 | [282699-broken-covenant.json](./282699-broken-covenant.json) |
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
 | Broken God Awakening | 216791 | [216791-broken-god-awakening.json](./216791-broken-god-awakening.json) |
