@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tape Us Out | 332402 | [332402-tape-us-out.json](./332402-tape-us-out.json) |
 | Tapeçaria | 334711 | [334711-tapecaria.json](./334711-tapecaria.json) |
 | Tapes of Entities | 370204 | [370204-tapes-of-entities.json](./370204-tapes-of-entities.json) |
+| Tapestry | 216327 | [216327-tapestry.json](./216327-tapestry.json) |
 | Tapeworm Disco Puzzle | 153952 | [153952-tapeworm-disco-puzzle.json](./153952-tapeworm-disco-puzzle.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
@@ -2809,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The FOO Show | 34193 | [34193-the-foo-show.json](./34193-the-foo-show.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
 | The Fool's Errand | 12107 | [12107-the-fools-errand.json](./12107-the-fools-errand.json) |
+| The Football A | 216356 | [216356-the-football-a.json](./216356-the-football-a.json) |
 | The Football Quiz | 219171 | [219171-the-football-quiz.json](./219171-the-football-quiz.json) |
 | The Forage | 102802 | [102802-the-forage.json](./102802-the-forage.json) |
 | The Forbidden Tomes of Olipos | 411648 | [411648-the-forbidden-tomes-of-olipos.json](./411648-the-forbidden-tomes-of-olipos.json) |
@@ -3178,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Immortal Mayor: Kingdom of Women | 262077 | [262077-the-immortal-mayor-kingdom-of-women.json](./262077-the-immortal-mayor-kingdom-of-women.json) |
 | The Immortal Mayor: The Feather Kingdom | 293756 | [293756-the-immortal-mayor-the-feather-kingdom.json](./293756-the-immortal-mayor-the-feather-kingdom.json) |
 | The Implant | 289991 | [289991-the-implant.json](./289991-the-implant.json) |
+| The Impossible Bottle | 216323 | [216323-the-impossible-bottle.json](./216323-the-impossible-bottle.json) |
 | The Impossible Quiz | 62166 | [62166-the-impossible-quiz.json](./62166-the-impossible-quiz.json) |
 | The Impossible Quiz 2 | 61548 | [61548-the-impossible-quiz-2.json](./61548-the-impossible-quiz-2.json) |
 | The Impossible Quiz Book | 61549 | [61549-the-impossible-quiz-book.json](./61549-the-impossible-quiz-book.json) |
@@ -3311,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Food Racing | 377709 | [377709-the-jumping-food-racing.json](./377709-the-jumping-food-racing.json) |
 | The Jumping Food Racing 2 | 380407 | [380407-the-jumping-food-racing-2.json](./380407-the-jumping-food-racing-2.json) |
 | The Jumping Fries | 204078 | [204078-the-jumping-fries.json](./204078-the-jumping-fries.json) |
+| The Jumping Ice Cream | 216357 | [216357-the-jumping-ice-cream.json](./216357-the-jumping-ice-cream.json) |
 | The Jumping Muffin | 229166 | [229166-the-jumping-muffin.json](./229166-the-jumping-muffin.json) |
 | The Jumping Muffin: Turbo | 229167 | [229167-the-jumping-muffin-turbo.json](./229167-the-jumping-muffin-turbo.json) |
 | The Jumping Noodles: Turbo | 212792 | [212792-the-jumping-noodles-turbo.json](./212792-the-jumping-noodles-turbo.json) |
@@ -3888,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magnet: First Night | 181299 | [181299-the-magnet-first-night.json](./181299-the-magnet-first-night.json) |
 | The Magnets | 148534 | [148534-the-magnets.json](./148534-the-magnets.json) |
 | The Magnificent Trufflepigs | 144508 | [144508-the-magnificent-trufflepigs.json](./144508-the-magnificent-trufflepigs.json) |
+| The Magpie Takes the Train | 216336 | [216336-the-magpie-takes-the-train.json](./216336-the-magpie-takes-the-train.json) |
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
 | The Maid-san's Caving Adventure | 90644 | [90644-the-maid-sans-caving-adventure.json](./90644-the-maid-sans-caving-adventure.json) |
 | The Majestic | 211745 | [211745-the-majestic.json](./211745-the-majestic.json) |
@@ -4005,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon Hell | 224652 | [224652-the-moon-hell.json](./224652-the-moon-hell.json) |
 | The Moon Night | 51962 | [51962-the-moon-night.json](./51962-the-moon-night.json) |
 | The Moon Relax | 165021 | [165021-the-moon-relax.json](./165021-the-moon-relax.json) |
+| The Moonlit Tower | 216324 | [216324-the-moonlit-tower.json](./216324-the-moonlit-tower.json) |
 | The Mooseman | 27358 | [27358-the-mooseman.json](./27358-the-mooseman.json) |
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
 | The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
@@ -7639,6 +7645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Dreams | 265705 | [265705-tower-of-dreams.json](./265705-tower-of-dreams.json) |
 | Tower of Eglathia | 35702 | [35702-tower-of-eglathia.json](./35702-tower-of-eglathia.json) |
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
+| Tower of Greed | 216326 | [216326-tower-of-greed.json](./216326-tower-of-greed.json) |
 | Tower of Guardian | 153946 | [153946-tower-of-guardian.json](./153946-tower-of-guardian.json) |
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Nod | 313308 | [313308-tower-of-nod.json](./313308-tower-of-nod.json) |
@@ -9004,6 +9011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunshi Kongming Legends | 110342 | [110342-tunshi-kongming-legends.json](./110342-tunshi-kongming-legends.json) |
 | Tuōlājī | 104116 | [104116-tuolaji.json](./104116-tuolaji.json) |
 | Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
+| Turandot | 216328 | [216328-turandot.json](./216328-turandot.json) |
 | Turbo 21 HD | 355009 | [355009-turbo-21-hd.json](./355009-turbo-21-hd.json) |
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
 | Turbo Booster | 265653 | [265653-turbo-booster.json](./265653-turbo-booster.json) |
