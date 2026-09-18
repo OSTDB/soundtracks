@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qi Shen Nong Gui | 277960 | [277960-qi-shen-nong-gui.json](./277960-qi-shen-nong-gui.json) |
 | Qiángjūn | 98982 | [98982-qiangjun.json](./98982-qiangjun.json) |
 | Qianli: The Vastscape Scroll | 399598 | [399598-qianli-the-vastscape-scroll.json](./399598-qianli-the-vastscape-scroll.json) |
+| Qianling Mainland | 220744 | [220744-qianling-mainland.json](./220744-qianling-mainland.json) |
 | Qǐluó Sìshí Tán | 130935 | [130935-qiluo-sishi-tan.json](./130935-qiluo-sishi-tan.json) |
 | Qīngniǎo no Xūxiàng | 331944 | [331944-qingniao-no-xuxiang.json](./331944-qingniao-no-xuxiang.json) |
 | Qisah Tomang: Cycle Ends | 235989 | [235989-qisah-tomang-cycle-ends.json](./235989-qisah-tomang-cycle-ends.json) |
