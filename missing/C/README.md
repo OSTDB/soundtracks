@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape's Escape Game 3rd Room | 165615 | [165615-capes-escape-game-3rd-room.json](./165615-capes-escape-game-3rd-room.json) |
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
 | Capes: Supporter Pack | 304362 | [304362-capes-supporter-pack.json](./304362-capes-supporter-pack.json) |
+| Caphaclus Recommence | 207369 | [207369-caphaclus-recommence.json](./207369-caphaclus-recommence.json) |
 | Capiophobia | 179115 | [179115-capiophobia.json](./179115-capiophobia.json) |
 | Capital | 164431 | [164431-capital.json](./164431-capital.json) |
 | Capital | 311489 | [311489-capital.json](./311489-capital.json) |
@@ -1843,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
 | Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
+| ChessVR | 207362 | [207362-chessvr.json](./207362-chessvr.json) |
 | Chest | 301274 | [301274-chest.json](./301274-chest.json) |
 | Chest Mate | 195240 | [195240-chest-mate.json](./195240-chest-mate.json) |
 | Chester | 193414 | [193414-chester.json](./193414-chester.json) |
@@ -2100,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chomper and Friends World | 59356 | [59356-chomper-and-friends-world.json](./59356-chomper-and-friends-world.json) |
 | Chomper Man | 79264 | [79264-chomper-man.json](./79264-chomper-man.json) |
 | Chomper's Adventure | 59451 | [59451-chompers-adventure.json](./59451-chompers-adventure.json) |
+| Chompies! | 207407 | [207407-chompies.json](./207407-chompies.json) |
 | Chonkymon | 149035 | [149035-chonkymon.json](./149035-chonkymon.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
@@ -2610,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciudad Anómala de Buenos Aires | 271206 | [271206-ciudad-anomala-de-buenos-aires.json](./271206-ciudad-anomala-de-buenos-aires.json) |
 | Ciudad Empresarial | 274750 | [274750-ciudad-empresarial.json](./274750-ciudad-empresarial.json) |
 | CivCity: Rome | 3083 | [3083-civcity-rome.json](./3083-civcity-rome.json) |
+| CivClicker | 207384 | [207384-civclicker.json](./207384-civclicker.json) |
 | CivCraft - Legends of Ellaria | 47273 | [47273-civcraft-legends-of-ellaria.json](./47273-civcraft-legends-of-ellaria.json) |
 | CivCrafter | 344954 | [344954-civcrafter.json](./344954-civcrafter.json) |
 | Cividle | 224744 | [224744-cividle.json](./224744-cividle.json) |
