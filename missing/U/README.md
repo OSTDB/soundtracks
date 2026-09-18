@@ -679,6 +679,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
 | Universal Flight Simulator | 207890 | [207890-universal-flight-simulator.json](./207890-universal-flight-simulator.json) |
 | Universal Hologram | 359525 | [359525-universal-hologram.json](./359525-universal-hologram.json) |
+| Universal Monsters Dracula | 198948 | [198948-universal-monsters-dracula.json](./198948-universal-monsters-dracula.json) |
+| Universal Monsters the Mummy | 198949 | [198949-universal-monsters-the-mummy.json](./198949-universal-monsters-the-mummy.json) |
+| Universal Monsters the Wolf Man | 198950 | [198950-universal-monsters-the-wolf-man.json](./198950-universal-monsters-the-wolf-man.json) |
 | Universal Nuts | 91955 | [91955-universal-nuts.json](./91955-universal-nuts.json) |
 | Universal Power | 276154 | [276154-universal-power.json](./276154-universal-power.json) |
 | Universal Slot Street | 220297 | [220297-universal-slot-street.json](./220297-universal-slot-street.json) |
