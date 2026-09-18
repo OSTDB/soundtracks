@@ -2761,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Story | 42001 | [42001-horror-story.json](./42001-horror-story.json) |
 | Horror Tale 1: Kidnapper | 239049 | [239049-horror-tale-1-kidnapper.json](./239049-horror-tale-1-kidnapper.json) |
 | Horror Tale 2: Remaster | 390498 | [390498-horror-tale-2-remaster.json](./390498-horror-tale-2-remaster.json) |
+| Horror Tale 2: Samantha | 230953 | [230953-horror-tale-2-samantha.json](./230953-horror-tale-2-samantha.json) |
 | Horror Tale 3: The Witch | 339906 | [339906-horror-tale-3-the-witch.json](./339906-horror-tale-3-the-witch.json) |
 | Horror Tales: The Beggar | 149523 | [149523-horror-tales-the-beggar.json](./149523-horror-tales-the-beggar.json) |
 | Horror Tour | 209625 | [209625-horror-tour.json](./209625-horror-tour.json) |
@@ -2988,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Jigsaw: Vintage Revival | 273473 | [273473-house-of-jigsaw-vintage-revival.json](./273473-house-of-jigsaw-vintage-revival.json) |
 | House of Lost Souls | 333624 | [333624-house-of-lost-souls.json](./333624-house-of-lost-souls.json) |
 | House of Plague 0 | 107907 | [107907-house-of-plague-0.json](./107907-house-of-plague-0.json) |
+| House of Shadow | 230907 | [230907-house-of-shadow.json](./230907-house-of-shadow.json) |
 | House of Slender-Man | 64425 | [64425-house-of-slender-man.json](./64425-house-of-slender-man.json) |
 | House of Terror VR | 23336 | [23336-house-of-terror-vr.json](./23336-house-of-terror-vr.json) |
 | House of the Golden Mask | 378175 | [378175-house-of-the-golden-mask.json](./378175-house-of-the-golden-mask.json) |
@@ -3080,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
 | Howard the Duck: Adventure on Volcano Island | 28853 | [28853-howard-the-duck-adventure-on-volcano-island.json](./28853-howard-the-duck-adventure-on-volcano-island.json) |
 | Howdy, Jacob! | 148512 | [148512-howdy-jacob.json](./148512-howdy-jacob.json) |
+| Howl of Iron | 230926 | [230926-howl-of-iron.json](./230926-howl-of-iron.json) |
 | HowLongToBeat: The Game | 362903 | [362903-howlongtobeat-the-game.json](./362903-howlongtobeat-the-game.json) |
 | Hoyle Card Games | 77395 | [77395-hoyle-card-games.json](./77395-hoyle-card-games.json) |
 | Hoyle Card Games | 87746 | [87746-hoyle-card-games.json](./87746-hoyle-card-games.json) |
