@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
+| Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
@@ -948,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Tycoon 3 | 69843 | [69843-airport-tycoon-3.json](./69843-airport-tycoon-3.json) |
 | Airport Wars ll | 52565 | [52565-airport-wars-ll.json](./52565-airport-wars-ll.json) |
 | Airport X-Ray Simulator | 309511 | [309511-airport-x-ray-simulator.json](./309511-airport-x-ray-simulator.json) |
+| AirportPRG | 207868 | [207868-airportprg.json](./207868-airportprg.json) |
 | AirportSim: Rovaniemi Airport | 283886 | [283886-airportsim-rovaniemi-airport.json](./283886-airportsim-rovaniemi-airport.json) |
 | Airranger | 122978 | [122978-airranger.json](./122978-airranger.json) |
 | AirRevo | 187453 | [187453-airrevo.json](./187453-airrevo.json) |
@@ -1230,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Dropout | 15593 | [15593-alien-dropout.json](./15593-alien-dropout.json) |
 | Alien Drug Lords: The Chyropian Connection | 14242 | [14242-alien-drug-lords-the-chyropian-connection.json](./14242-alien-drug-lords-the-chyropian-connection.json) |
 | Alien Egg: Ascent | 137671 | [137671-alien-egg-ascent.json](./137671-alien-egg-ascent.json) |
+| Alien Engine | 207897 | [207897-alien-engine.json](./207897-alien-engine.json) |
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
 | Alien Fish World VR | 379446 | [379446-alien-fish-world-vr.json](./379446-alien-fish-world-vr.json) |
 | Alien Frontier | 240500 | [240500-alien-frontier.json](./240500-alien-frontier.json) |
@@ -1326,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alisha's Sexual Fear | 373529 | [373529-alishas-sexual-fear.json](./373529-alishas-sexual-fear.json) |
 | Alisia Dragoon | 19508 | [19508-alisia-dragoon.json](./19508-alisia-dragoon.json) |
 | Alison Fall of the Apple | 297060 | [297060-alison-fall-of-the-apple.json](./297060-alison-fall-of-the-apple.json) |
+| Alite | 207872 | [207872-alite.json](./207872-alite.json) |
 | Alive | 226212 | [226212-alive.json](./226212-alive.json) |
 | Alive | 287661 | [287661-alive.json](./287661-alive.json) |
 | Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
@@ -1653,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazeing Lemons | 75901 | [75901-amazeing-lemons.json](./75901-amazeing-lemons.json) |
 | Amazething | 154020 | [154020-amazething.json](./154020-amazething.json) |
 | Amazin' George 2: Digital Deluxe | 212279 | [212279-amazin-george-2-digital-deluxe.json](./212279-amazin-george-2-digital-deluxe.json) |
+| Amazin' Lumo | 207895 | [207895-amazin-lumo.json](./207895-amazin-lumo.json) |
 | Amazing Adventures Riddle of the Two Knights | 52584 | [52584-amazing-adventures-riddle-of-the-two-knights.json](./52584-amazing-adventures-riddle-of-the-two-knights.json) |
 | Amazing Adventures: The Forgotten Dynasty | 61675 | [61675-amazing-adventures-the-forgotten-dynasty.json](./61675-amazing-adventures-the-forgotten-dynasty.json) |
 | Amazing Animals Activity Center | 336615 | [336615-amazing-animals-activity-center.json](./336615-amazing-animals-activity-center.json) |
@@ -3043,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery | 247023 | [247023-archery.json](./247023-archery.json) |
 | Archery Black | 356646 | [356646-archery-black.json](./356646-archery-black.json) |
 | Archery Champion Bowman | 87928 | [87928-archery-champion-bowman.json](./87928-archery-champion-bowman.json) |
+| Archery Escape | 207880 | [207880-archery-escape.json](./207880-archery-escape.json) |
 | Archery Kings VR | 89259 | [89259-archery-kings-vr.json](./89259-archery-kings-vr.json) |
 | Archery Land | 214036 | [214036-archery-land.json](./214036-archery-land.json) |
 | Archery Legend | 319942 | [319942-archery-legend.json](./319942-archery-legend.json) |
@@ -4255,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatica | 217013 | [217013-automatica.json](./217013-automatica.json) |
 | Automaton | 266852 | [266852-automaton.json](./266852-automaton.json) |
 | Automaton Heart | 317850 | [317850-automaton-heart.json](./317850-automaton-heart.json) |
+| Automaton Lung | 207901 | [207901-automaton-lung.json](./207901-automaton-lung.json) |
 | Automatonics | 244263 | [244263-automatonics.json](./244263-automatonics.json) |
 | Automatoys | 214025 | [214025-automatoys.json](./214025-automatoys.json) |
 | Automatrain | 217329 | [217329-automatrain.json](./217329-automatrain.json) |
