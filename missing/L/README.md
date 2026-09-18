@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lets Get Loot | 331988 | [331988-lets-get-loot.json](./331988-lets-get-loot.json) |
 | Lets Go Champ | 60539 | [60539-lets-go-champ.json](./60539-lets-go-champ.json) |
 | Lets Play Bingo | 87271 | [87271-lets-play-bingo.json](./87271-lets-play-bingo.json) |
+| Letter Bender | 195107 | [195107-letter-bender.json](./195107-letter-bender.json) |
 | Letter Boxed | 296097 | [296097-letter-boxed.json](./296097-letter-boxed.json) |
 | Letter Bunny | 304202 | [304202-letter-bunny.json](./304202-letter-bunny.json) |
 | Letter Factory | 230383 | [230383-letter-factory.json](./230383-letter-factory.json) |
@@ -1803,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigSoko | 101621 | [101621-littlebigsoko.json](./101621-littlebigsoko.json) |
 | Littlebird/TrueEyes | 221268 | [221268-littlebird-trueeyes.json](./221268-littlebird-trueeyes.json) |
 | Littlebird/TrueEyes | 241524 | [241524-littlebird-trueeyes.json](./241524-littlebird-trueeyes.json) |
+| Littleroot Researchers | 195087 | [195087-littleroot-researchers.json](./195087-littleroot-researchers.json) |
 | Littlest Pet Shop | 353919 | [353919-littlest-pet-shop.json](./353919-littlest-pet-shop.json) |
 | Littlest Pet Shop Online | 91432 | [91432-littlest-pet-shop-online.json](./91432-littlest-pet-shop-online.json) |
 | Littlest Pet Shop: Biggest Adventure | 254485 | [254485-littlest-pet-shop-biggest-adventure.json](./254485-littlest-pet-shop-biggest-adventure.json) |
@@ -2050,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely in the Winter | 86338 | [86338-lonely-in-the-winter.json](./86338-lonely-in-the-winter.json) |
 | Lonely Journey | 292168 | [292168-lonely-journey.json](./292168-lonely-journey.json) |
 | Lonely Kids Around the Cul-De-Sac | 362910 | [362910-lonely-kids-around-the-cul-de-sac.json](./362910-lonely-kids-around-the-cul-de-sac.json) |
+| Lonely Knight | 195123 | [195123-lonely-knight.json](./195123-lonely-knight.json) |
 | Lonely Mountains: Downhill - Eldfjall Island | 138241 | [138241-lonely-mountains-downhill-eldfjall-island.json](./138241-lonely-mountains-downhill-eldfjall-island.json) |
 | Lonely Mountains: Downhill - Rivera's Revenge | 274479 | [274479-lonely-mountains-downhill-riveras-revenge.json](./274479-lonely-mountains-downhill-riveras-revenge.json) |
 | Lonely Path | 250006 | [250006-lonely-path.json](./250006-lonely-path.json) |
