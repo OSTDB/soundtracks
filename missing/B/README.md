@@ -2740,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Soul Resurrección | 7280 | [7280-bleach-soul-resurreccion.json](./7280-bleach-soul-resurreccion.json) |
 | Bleach: The Blade of Fate | 20530 | [20530-bleach-the-blade-of-fate.json](./20530-bleach-the-blade-of-fate.json) |
 | Bleak | 106641 | [106641-bleak.json](./106641-bleak.json) |
+| Bleak Dystopia | 226314 | [226314-bleak-dystopia.json](./226314-bleak-dystopia.json) |
 | Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
 | Bleak Haven | 350435 | [350435-bleak-haven.json](./350435-bleak-haven.json) |
 | Bleak House | 311468 | [311468-bleak-house.json](./311468-bleak-house.json) |
@@ -3783,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundless Skies | 278969 | [278969-boundless-skies.json](./278969-boundless-skies.json) |
 | Bounters | 199119 | [199119-bounters.json](./199119-bounters.json) |
 | Bountiful Hunters | 382315 | [382315-bountiful-hunters.json](./382315-bountiful-hunters.json) |
+| Bounty | 226269 | [226269-bounty.json](./226269-bounty.json) |
 | Bounty Battle | 107873 | [107873-bounty-battle.json](./107873-bounty-battle.json) |
 | Bounty Bob Strikes Back! | 12305 | [12305-bounty-bob-strikes-back.json](./12305-bounty-bob-strikes-back.json) |
 | Bounty Drag Racing: Import Modified Pack 1 | 267074 | [267074-bounty-drag-racing-import-modified-pack-1.json](./267074-bounty-drag-racing-import-modified-pack-1.json) |
@@ -4084,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach | 251831 | [251831-breach.json](./251831-breach.json) |
 | Breach | 413003 | [413003-breach.json](./413003-breach.json) |
 | Breach & Clear: Deadline Rebirth | 36293 | [36293-breach-and-clear-deadline-rebirth.json](./36293-breach-and-clear-deadline-rebirth.json) |
+| Breach & Clear: Frozen Synapse Pack | 226270 | [226270-breach-and-clear-frozen-synapse-pack.json](./226270-breach-and-clear-frozen-synapse-pack.json) |
 | Breach 2 | 14345 | [14345-breach-2.json](./14345-breach-2.json) |
 | Breach 3 | 57650 | [57650-breach-3.json](./57650-breach-3.json) |
 | Breach of Contract Reloaded | 89947 | [89947-breach-of-contract-reloaded.json](./89947-breach-of-contract-reloaded.json) |
@@ -4167,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breathedge 2 | 252870 | [252870-breathedge-2.json](./252870-breathedge-2.json) |
 | BreathePeace.World | 111722 | [111722-breathepeace-world.json](./111722-breathepeace-world.json) |
 | Breathless | 14346 | [14346-breathless.json](./14346-breathless.json) |
+| Breathspace | 226271 | [226271-breathspace.json](./226271-breathspace.json) |
 | Breed Master | 268484 | [268484-breed-master.json](./268484-breed-master.json) |
 | Breeder | 41329 | [41329-breeder.json](./41329-breeder.json) |
 | Breeze Girl | 193991 | [193991-breeze-girl.json](./193991-breeze-girl.json) |
@@ -4315,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Pact | 357319 | [357319-broken-pact.json](./357319-broken-pact.json) |
 | Broken Paradox | 346689 | [346689-broken-paradox.json](./346689-broken-paradox.json) |
 | Broken Ranks | 162520 | [162520-broken-ranks.json](./162520-broken-ranks.json) |
+| Broken Reality 2000 | 226272 | [226272-broken-reality-2000.json](./226272-broken-reality-2000.json) |
 | Broken Robot | 152840 | [152840-broken-robot.json](./152840-broken-robot.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
 | Broken Spell | 122422 | [122422-broken-spell.json](./122422-broken-spell.json) |
@@ -4634,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
 | Bullet Break | 346017 | [346017-bullet-break.json](./346017-bullet-break.json) |
 | Bullet Chase | 205032 | [205032-bullet-chase.json](./205032-bullet-chase.json) |
+| Bullet Destroyer | 226273 | [226273-bullet-destroyer.json](./226273-bullet-destroyer.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
 | Bullet Frenzy | 269041 | [269041-bullet-frenzy.json](./269041-bullet-frenzy.json) |
 | Bullet Heli | 176463 | [176463-bullet-heli.json](./176463-bullet-heli.json) |
@@ -4707,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bun Buns: Cozy DLC | 395688 | [395688-bun-buns-cozy-dlc.json](./395688-bun-buns-cozy-dlc.json) |
 | Bun Buns: Cute DLC | 395689 | [395689-bun-buns-cute-dlc.json](./395689-bun-buns-cute-dlc.json) |
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
+| Bunch of Heroes: Holiday Pack | 226274 | [226274-bunch-of-heroes-holiday-pack.json](./226274-bunch-of-heroes-holiday-pack.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
 | Bung Ball | 252808 | [252808-bung-ball.json](./252808-bung-ball.json) |
@@ -4740,6 +4747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Flush | 153923 | [153923-bunny-flush.json](./153923-bunny-flush.json) |
 | Bunny Forest | 374150 | [374150-bunny-forest.json](./374150-bunny-forest.json) |
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
+| Bunny Hop League: Map Pack 1 | 226275 | [226275-bunny-hop-league-map-pack-1.json](./226275-bunny-hop-league-map-pack-1.json) |
 | Bunny Hopper | 377049 | [377049-bunny-hopper.json](./377049-bunny-hopper.json) |
 | Bunny Hurling | 335286 | [335286-bunny-hurling.json](./335286-bunny-hurling.json) |
 | Bunny Madness Anarchy | 38995 | [38995-bunny-madness-anarchy.json](./38995-bunny-madness-anarchy.json) |
@@ -4987,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byoutai Seiri DS: Image Dekiru! Shikkan, Shoujou to Care | 269672 | [269672-byoutai-seiri-ds-image-dekiru-shikkan-shoujou-to-care.json](./269672-byoutai-seiri-ds-image-dekiru-shikkan-shoujou-to-care.json) |
 | Bypass | 382884 | [382884-bypass.json](./382884-bypass.json) |
 | Bystander | 75827 | [75827-bystander.json](./75827-bystander.json) |
+| Byte Fyte: Multiplayer | 226276 | [226276-byte-fyte-multiplayer.json](./226276-byte-fyte-multiplayer.json) |
 | Byte Lynx | 203889 | [203889-byte-lynx.json](./203889-byte-lynx.json) |
 | Byte Wars | 360578 | [360578-byte-wars.json](./360578-byte-wars.json) |
 | Byter | 319575 | [319575-byter.json](./319575-byter.json) |
