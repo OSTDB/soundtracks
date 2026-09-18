@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Its Time To Meet God | 334131 | [334131-its-time-to-meet-god.json](./334131-its-time-to-meet-god.json) |
 | Its Village | 51502 | [51502-its-village.json](./51502-its-village.json) |
 | Itsu no Ma ni Koukan Nikki | 222319 | [222319-itsu-no-ma-ni-koukan-nikki.json](./222319-itsu-no-ma-ni-koukan-nikki.json) |
+| Itsudemo! Nyan to Wonderful | 228564 | [228564-itsudemo-nyan-to-wonderful.json](./228564-itsudemo-nyan-to-wonderful.json) |
 | Itsuka, Todoku, Ano Sora ni.: You no Michi to Hi no Tasogare to | 372571 | [372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json](./372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json) |
 | Ittle Dew 2 | 11598 | [11598-ittle-dew-2.json](./11598-ittle-dew-2.json) |
 | Ittle Dew no Densetsu: Ushinawareta Reta Shima to Nazo no Shiro | 222317 | [222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json](./222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json) |
