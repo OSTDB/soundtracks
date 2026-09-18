@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maplewood Junior High 2 | 310956 | [310956-maplewood-junior-high-2.json](./310956-maplewood-junior-high-2.json) |
 | Maplewood Junior High: Multimedia Rocks | 310953 | [310953-maplewood-junior-high-multimedia-rocks.json](./310953-maplewood-junior-high-multimedia-rocks.json) |
 | Maplus: Portable Navi | 59369 | [59369-maplus-portable-navi.json](./59369-maplus-portable-navi.json) |
+| Mappa Imperium | 196711 | [196711-mappa-imperium.json](./196711-mappa-imperium.json) |
 | Mappy | 239157 | [239157-mappy.json](./239157-mappy.json) |
 | Mappy | 2710 | [2710-mappy.json](./2710-mappy.json) |
 | Mappy | 293754 | [293754-mappy.json](./293754-mappy.json) |
@@ -2932,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Smash | 220184 | [220184-micro-smash.json](./220184-micro-smash.json) |
 | Micro-Breakout | 320150 | [320150-micro-breakout.json](./320150-micro-breakout.json) |
 | Micro$oft Simulaattori | 98940 | [98940-micro-oft-simulaattori.json](./98940-micro-oft-simulaattori.json) |
+| MicroBuddies | 196712 | [196712-microbuddies.json](./196712-microbuddies.json) |
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
 | Microcosm | 13738 | [13738-microcosm.json](./13738-microcosm.json) |
 | MicroCrawl | 238489 | [238489-microcrawl.json](./238489-microcrawl.json) |
@@ -3292,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minamochi Factory | 253912 | [253912-minamochi-factory.json](./253912-minamochi-factory.json) |
 | Minar | 174291 | [174291-minar.json](./174291-minar.json) |
 | Minarai Majo to Mokomoko Friends | 222497 | [222497-minarai-majo-to-mokomoko-friends.json](./222497-minarai-majo-to-mokomoko-friends.json) |
+| Minarchy: Active Shooter | 196690 | [196690-minarchy-active-shooter.json](./196690-minarchy-active-shooter.json) |
 | Minato | 415080 | [415080-minato.json](./415080-minato.json) |
 | Minaurs | 103392 | [103392-minaurs.json](./103392-minaurs.json) |
 | Minazuki-tan: InfiltraTitty Lewd Beast Academy | 82848 | [82848-minazuki-tan-infiltratitty-lewd-beast-academy.json](./82848-minazuki-tan-infiltratitty-lewd-beast-academy.json) |
@@ -4256,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Mono Grav | 185110 | [185110-mono-grav.json](./185110-mono-grav.json) |
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
+| Monobehevo | 196678 | [196678-monobehevo.json](./196678-monobehevo.json) |
 | Monobeno: Happy End | 396370 | [396370-monobeno-happy-end.json](./396370-monobeno-happy-end.json) |
 | Monochro | 150164 | [150164-monochro.json](./150164-monochro.json) |
 | Monochromaniacs | 124147 | [124147-monochromaniacs.json](./124147-monochromaniacs.json) |
@@ -4648,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshine Madness | 304588 | [304588-moonshine-madness.json](./304588-moonshine-madness.json) |
 | Moonshine Maniacs: A Wild West Saga | 132221 | [132221-moonshine-maniacs-a-wild-west-saga.json](./132221-moonshine-maniacs-a-wild-west-saga.json) |
 | Moonshire | 280933 | [280933-moonshire.json](./280933-moonshire.json) |
+| Moonshot: A Journey Home | 196697 | [196697-moonshot-a-journey-home.json](./196697-moonshot-a-journey-home.json) |
 | Moonsigil Atlas | 322204 | [322204-moonsigil-atlas.json](./322204-moonsigil-atlas.json) |
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
 | Moonstone Island: Arcane Artifacts | 301852 | [301852-moonstone-island-arcane-artifacts.json](./301852-moonstone-island-arcane-artifacts.json) |
