@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws | 94253 | [94253-paws.json](./94253-paws.json) |
 | Paws & Circuits: Reboot Earth | 412961 | [412961-paws-and-circuits-reboot-earth.json](./412961-paws-and-circuits-reboot-earth.json) |
 | Paws & Claws Pampered Pets | 288196 | [288196-paws-and-claws-pampered-pets.json](./288196-paws-and-claws-pampered-pets.json) |
+| Paws & Claws Pampered Pets 2 | 202226 | [202226-paws-and-claws-pampered-pets-2.json](./202226-paws-and-claws-pampered-pets-2.json) |
 | Paws & Claws Pet Vet: Australian Adventures | 47977 | [47977-paws-and-claws-pet-vet-australian-adventures.json](./47977-paws-and-claws-pet-vet-australian-adventures.json) |
 | Paws & Claws: Pet Resort | 18272 | [18272-paws-and-claws-pet-resort.json](./18272-paws-and-claws-pet-resort.json) |
 | Paws & Clean | 316847 | [316847-paws-and-clean.json](./316847-paws-and-clean.json) |
@@ -2822,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket City | 79996 | [79996-pocket-city.json](./79996-pocket-city.json) |
 | Pocket Color Billiard | 137631 | [137631-pocket-color-billiard.json](./137631-pocket-color-billiard.json) |
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
+| Pocket Crystal League | 202258 | [202258-pocket-crystal-league.json](./202258-pocket-crystal-league.json) |
 | Pocket Family GB | 180201 | [180201-pocket-family-gb.json](./180201-pocket-family-gb.json) |
 | Pocket Family GB2 | 180202 | [180202-pocket-family-gb2.json](./180202-pocket-family-gb2.json) |
 | Pocket Farm | 232176 | [232176-pocket-farm.json](./232176-pocket-farm.json) |
@@ -2878,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Podnabu | 291256 | [291256-podnabu.json](./291256-podnabu.json) |
 | Poem Ex Machina | 333106 | [333106-poem-ex-machina.json](./333106-poem-ex-machina.json) |
 | Poems & Codes | 244281 | [244281-poems-and-codes.json](./244281-poems-and-codes.json) |
+| Poena | 202237 | [202237-poena.json](./202237-poena.json) |
 | Poetry of Blood: Eclipse | 247614 | [247614-poetry-of-blood-eclipse.json](./247614-poetry-of-blood-eclipse.json) |
 | Poetry, wine and sword | 158186 | [158186-poetry-wine-and-sword.json](./158186-poetry-wine-and-sword.json) |
 | Pog 5 | 165705 | [165705-pog-5.json](./165705-pog-5.json) |
