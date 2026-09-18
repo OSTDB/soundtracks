@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
 | Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
 | Abyss Eschaton Survivors | 348852 | [348852-abyss-eschaton-survivors.json](./348852-abyss-eschaton-survivors.json) |
+| Abyss King | 199485 | [199485-abyss-king.json](./199485-abyss-king.json) |
 | Abyss Kitchen | 341028 | [341028-abyss-kitchen.json](./341028-abyss-kitchen.json) |
 | Abyss Odyssey | 14414 | [14414-abyss-odyssey.json](./14414-abyss-odyssey.json) |
 | Abyss of Doom | 403689 | [403689-abyss-of-doom.json](./403689-abyss-of-doom.json) |
@@ -1438,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
 | All Our Asias | 68216 | [68216-all-our-asias.json](./68216-all-our-asias.json) |
 | All Quite on the Bridge: Mad Cliff | 105306 | [105306-all-quite-on-the-bridge-mad-cliff.json](./105306-all-quite-on-the-bridge-mad-cliff.json) |
+| All Songs are From the King | 199505 | [199505-all-songs-are-from-the-king.json](./199505-all-songs-are-from-the-king.json) |
 | All Star Baseball | 91416 | [91416-all-star-baseball.json](./91416-all-star-baseball.json) |
 | All Star Cheer 2 | 12886 | [12886-all-star-cheer-2.json](./12886-all-star-cheer-2.json) |
 | All Star Cheer Squad 2 | 2851 | [2851-all-star-cheer-squad-2.json](./2851-all-star-cheer-squad-2.json) |
@@ -3426,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Moves | 11916 | [11916-army-moves.json](./11916-army-moves.json) |
 | Army of Ages | 286651 | [286651-army-of-ages.json](./286651-army-of-ages.json) |
 | Army of Darkness Doom 2 Total Conversion | 381149 | [381149-army-of-darkness-doom-2-total-conversion.json](./381149-army-of-darkness-doom-2-total-conversion.json) |
+| Army of One | 199494 | [199494-army-of-one.json](./199494-army-of-one.json) |
 | Army of Pixels | 34757 | [34757-army-of-pixels.json](./34757-army-of-pixels.json) |
 | Army of Ruin | 219057 | [219057-army-of-ruin.json](./219057-army-of-ruin.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim - Halloween | 172178 | [172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json](./172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json) |
@@ -4096,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Shallie: Alchemists of the Dusk Sea DX | 122750 | [122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json](./122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream | 172822 | [172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json](./172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Digital Deluxe Edition | 221266 | [221266-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-digital-deluxe-edition.json](./221266-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-digital-deluxe-edition.json) |
+| Atelier Sophie 2: The Alchemist of the Mysterious Dream - Extra Area: Atelier Plachta | 199509 | [199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json](./199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json) |
 | Atelier Yumia: Fantasy Academy Costume Set | 356743 | [356743-atelier-yumia-fantasy-academy-costume-set.json](./356743-atelier-yumia-fantasy-academy-costume-set.json) |
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
