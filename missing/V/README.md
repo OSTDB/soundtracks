@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Tennis 2009 | 5257 | [5257-virtua-tennis-2009.json](./5257-virtua-tennis-2009.json) |
 | Virtua Tennis 4 | 5258 | [5258-virtua-tennis-4.json](./5258-virtua-tennis-4.json) |
 | Virtua Tennis: Mobile Edition | 317005 | [317005-virtua-tennis-mobile-edition.json](./317005-virtua-tennis-mobile-edition.json) |
+| Virtua Volleyball | 195122 | [195122-virtua-volleyball.json](./195122-virtua-volleyball.json) |
 | Virtual AI: Aki & Mika | 216860 | [216860-virtual-ai-aki-and-mika.json](./216860-virtual-ai-aki-and-mika.json) |
 | Virtual Bart | 2835 | [2835-virtual-bart.json](./2835-virtual-bart.json) |
 | Virtual Bart Redux | 219273 | [219273-virtual-bart-redux.json](./219273-virtual-bart-redux.json) |
