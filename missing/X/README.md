@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xak I + II | 42006 | [42006-xak-i-ii.json](./42006-xak-i-ii.json) |
 | Xak: The Art of Visual Stage | 377091 | [377091-xak-the-art-of-visual-stage.json](./377091-xak-the-art-of-visual-stage.json) |
 | Xam | 107154 | [107154-xam.json](./107154-xam.json) |
+| XanChuchamel | 207368 | [207368-xanchuchamel.json](./207368-xanchuchamel.json) |
 | Xander the Monster Morpher: Universe Breaker | 120983 | [120983-xander-the-monster-morpher-universe-breaker.json](./120983-xander-the-monster-morpher-universe-breaker.json) |
 | Xander: 7-Shot | 337108 | [337108-xander-7-shot.json](./337108-xander-7-shot.json) |
 | Xango Tango | 205820 | [205820-xango-tango.json](./205820-xango-tango.json) |
