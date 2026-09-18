@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Resident Evil - Chris Redfield | 358419 | [358419-dead-by-daylight-resident-evil-chris-redfield.json](./358419-dead-by-daylight-resident-evil-chris-redfield.json) |
 | Dead by Daylight: Resident Evil - Claire Redfield | 358416 | [358416-dead-by-daylight-resident-evil-claire-redfield.json](./358416-dead-by-daylight-resident-evil-claire-redfield.json) |
 | Dead by Daylight: Resident Evil - Sheva Alomar | 358418 | [358418-dead-by-daylight-resident-evil-sheva-alomar.json](./358418-dead-by-daylight-resident-evil-sheva-alomar.json) |
+| Dead By Daylight: Resident Evil Collaboration Bundle | 212876 | [212876-dead-by-daylight-resident-evil-collaboration-bundle.json](./212876-dead-by-daylight-resident-evil-collaboration-bundle.json) |
 | Dead by Daylight: Roots of Dread | 203959 | [203959-dead-by-daylight-roots-of-dread.json](./203959-dead-by-daylight-roots-of-dread.json) |
 | Dead by Daylight: Silent Hill - Cybil Bennett | 358413 | [358413-dead-by-daylight-silent-hill-cybil-bennett.json](./358413-dead-by-daylight-silent-hill-cybil-bennett.json) |
 | Dead by Daylight: Silent Hill - James Sunderland | 358415 | [358415-dead-by-daylight-silent-hill-james-sunderland.json](./358415-dead-by-daylight-silent-hill-james-sunderland.json) |
@@ -2550,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoKnights | 107802 | [107802-dinoknights.json](./107802-dinoknights.json) |
 | Dinoku | 83533 | [83533-dinoku.json](./83533-dinoku.json) |
 | Dinoland | 165672 | [165672-dinoland.json](./165672-dinoland.json) |
+| DinoLife | 212909 | [212909-dinolife.json](./212909-dinolife.json) |
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
 | Dinos Jump | 96754 | [96754-dinos-jump.json](./96754-dinos-jump.json) |
