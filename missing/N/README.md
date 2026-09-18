@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norukasoruka | 398984 | [398984-norukasoruka.json](./398984-norukasoruka.json) |
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
 | Nose | 287230 | [287230-nose.json](./287230-nose.json) |
+| Nose Bleed | 227915 | [227915-nose-bleed.json](./227915-nose-bleed.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
 | NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
 | Nosos | 175885 | [175885-nosos.json](./175885-nosos.json) |
