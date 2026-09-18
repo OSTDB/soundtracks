@@ -4574,6 +4574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble's Travel | 387337 | [387337-bubbles-travel.json](./387337-bubbles-travel.json) |
 | BubbleBeast DigiDungeon | 323925 | [323925-bubblebeast-digidungeon.json](./323925-bubblebeast-digidungeon.json) |
 | Bubblegum Bandit | 253421 | [253421-bubblegum-bandit.json](./253421-bubblegum-bandit.json) |
+| Bubblegum Galaxy | 204519 | [204519-bubblegum-galaxy.json](./204519-bubblegum-galaxy.json) |
 | Bubbles | 38537 | [38537-bubbles.json](./38537-bubbles.json) |
 | Bubbles Master | 230848 | [230848-bubbles-master.json](./230848-bubbles-master.json) |
 | Bubbles Shot | 187430 | [187430-bubbles-shot.json](./187430-bubbles-shot.json) |
