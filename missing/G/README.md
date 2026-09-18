@@ -395,6 +395,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameGuru | 59978 | [59978-gameguru.json](./59978-gameguru.json) |
 | GameGuru: Industrial Sewer Pack | 166190 | [166190-gameguru-industrial-sewer-pack.json](./166190-gameguru-industrial-sewer-pack.json) |
 | Gamehunt | 119768 | [119768-gamehunt.json](./119768-gamehunt.json) |
+| GameKey: Disney - Disney Sports Bowling / Goofy's Underwater Adventure | 221806 | [221806-gamekey-disney-disney-sports-bowling-goofys-underwater-adventure.json](./221806-gamekey-disney-disney-sports-bowling-goofys-underwater-adventure.json) |
+| GameKey: Disney - Disney Sports Tennis / Disney Face Chase / The Riches of Agrabah with Disney | 221807 | [221807-gamekey-disney-disney-sports-tennis-disney-face-chase-the-riches-of-agrabah-with-disney.json](./221807-gamekey-disney-disney-sports-tennis-disney-face-chase-the-riches-of-agrabah-with-disney.json) |
+| GameKey: Dora the Explorer - Soccer / Dora's Star Mountain Adventure | 221812 | [221812-gamekey-dora-the-explorer-soccer-doras-star-mountain-adventure.json](./221812-gamekey-dora-the-explorer-soccer-doras-star-mountain-adventure.json) |
+| GameKey: Namco - Dig Dug / New Rally X | 221809 | [221809-gamekey-namco-dig-dug-new-rally-x.json](./221809-gamekey-namco-dig-dug-new-rally-x.json) |
+| GameKey: Namco - Pac-Man / Bosconian | 221815 | [221815-gamekey-namco-pac-man-bosconian.json](./221815-gamekey-namco-pac-man-bosconian.json) |
+| GameKey: Namco - Pac-Man / Bosconian / Rally-X | 221810 | [221810-gamekey-namco-pac-man-bosconian-rally-x.json](./221810-gamekey-namco-pac-man-bosconian-rally-x.json) |
+| GameKey: Nick SpongeBob SquarePants - Sponge Pop / Snowball Showdown | 221813 | [221813-gamekey-nick-spongebob-squarepants-sponge-pop-snowball-showdown.json](./221813-gamekey-nick-spongebob-squarepants-sponge-pop-snowball-showdown.json) |
+| GameKey: Nicktoons - Nicktoons Volleyball / Birdie Putt | 221814 | [221814-gamekey-nicktoons-nicktoons-volleyball-birdie-putt.json](./221814-gamekey-nicktoons-nicktoons-volleyball-birdie-putt.json) |
+| GameKey: Star Wars - Yoda's Escape / Turret Defense | 221811 | [221811-gamekey-star-wars-yodas-escape-turret-defense.json](./221811-gamekey-star-wars-yodas-escape-turret-defense.json) |
 | GameKid | 240871 | [240871-gamekid.json](./240871-gamekid.json) |
 | GameLib | 305917 | [305917-gamelib.json](./305917-gamelib.json) |
 | GameMaster | 241481 | [241481-gamemaster.json](./241481-gamemaster.json) |
