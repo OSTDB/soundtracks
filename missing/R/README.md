@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon & Possum Just Want to Read a Book | 307123 | [307123-raccoon-and-possum-just-want-to-read-a-book.json](./307123-raccoon-and-possum-just-want-to-read-a-book.json) |
 | Raccoon Arrival | 150627 | [150627-raccoon-arrival.json](./150627-raccoon-arrival.json) |
 | Raccoon Bubbles | 208963 | [208963-raccoon-bubbles.json](./208963-raccoon-bubbles.json) |
+| Raccoon City Edition: Z Version | 218545 | [218545-raccoon-city-edition-z-version.json](./218545-raccoon-city-edition-z-version.json) |
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
 | Raccoon Lagoon | 133388 | [133388-raccoon-lagoon.json](./133388-raccoon-lagoon.json) |
 | Raccoon Laundering | 307129 | [307129-raccoon-laundering.json](./307129-raccoon-laundering.json) |
