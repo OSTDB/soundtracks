@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Fall | 202811 | [202811-radio-fall.json](./202811-radio-fall.json) |
 | Radio Flyer | 264317 | [264317-radio-flyer.json](./264317-radio-flyer.json) |
 | Radio General | 117643 | [117643-radio-general.json](./117643-radio-general.json) |
+| Radio General: Water Rats | 213490 | [213490-radio-general-water-rats.json](./213490-radio-general-water-rats.json) |
 | Radio Helicopter | 51159 | [51159-radio-helicopter.json](./51159-radio-helicopter.json) |
 | Radio Station | 132772 | [132772-radio-station.json](./132772-radio-station.json) |
 | Radio Violence | 110987 | [110987-radio-violence.json](./110987-radio-violence.json) |
@@ -689,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re Parry | 179160 | [179160-re-parry.json](./179160-re-parry.json) |
 | Re Rive | 202323 | [202323-re-rive.json](./202323-re-rive.json) |
 | Re-bot | 75906 | [75906-re-bot.json](./75906-re-bot.json) |
+| Re-Spawn Tournament | 213465 | [213465-re-spawn-tournament.json](./213465-re-spawn-tournament.json) |
 | Re-telling | 176955 | [176955-re-telling.json](./176955-re-telling.json) |
 | Re-wind 2005 | 70428 | [70428-re-wind-2005.json](./70428-re-wind-2005.json) |
 | Re;Lord 3: The Demon Lord of Groessen and The Final Witch | 305390 | [305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json](./305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json) |
@@ -2560,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Scissors 2! | 178621 | [178621-rock-paper-scissors-2.json](./178621-rock-paper-scissors-2.json) |
 | Rock Paper Scissors Party | 391732 | [391732-rock-paper-scissors-party.json](./391732-rock-paper-scissors-party.json) |
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
+| Rock Paper Smash | 213464 | [213464-rock-paper-smash.json](./213464-rock-paper-smash.json) |
 | Rock Simulator | 127932 | [127932-rock-simulator.json](./127932-rock-simulator.json) |
 | Rock Star Life Simulator | 260409 | [260409-rock-star-life-simulator.json](./260409-rock-star-life-simulator.json) |
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
