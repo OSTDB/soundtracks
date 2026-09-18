@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken Tag Tournament HD | 143748 | [143748-tekken-tag-tournament-hd.json](./143748-tekken-tag-tournament-hd.json) |
 | Tekken: Dark Resurrection | 389439 | [389439-tekken-dark-resurrection.json](./389439-tekken-dark-resurrection.json) |
 | Tekkyuuman | 73245 | [73245-tekkyuuman.json](./73245-tekkyuuman.json) |
+| Tekla | 218586 | [218586-tekla.json](./218586-tekla.json) |
 | TeknoKinetica | 316625 | [316625-teknokinetica.json](./316625-teknokinetica.json) |
 | Teko | 378262 | [378262-teko.json](./378262-teko.json) |
 | Tekoha: A Tale Among the Stars | 237343 | [237343-tekoha-a-tale-among-the-stars.json](./237343-tekoha-a-tale-among-the-stars.json) |
@@ -3308,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Noodles: Turbo | 212792 | [212792-the-jumping-noodles-turbo.json](./212792-the-jumping-noodles-turbo.json) |
 | The Jumping Onion Ring | 329575 | [329575-the-jumping-onion-ring.json](./329575-the-jumping-onion-ring.json) |
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
+| The Jumping Pumpkin | 218555 | [218555-the-jumping-pumpkin.json](./218555-the-jumping-pumpkin.json) |
 | The Jumping Quesadilla | 225756 | [225756-the-jumping-quesadilla.json](./225756-the-jumping-quesadilla.json) |
 | The Jumping Quesadilla: Turbo | 225755 | [225755-the-jumping-quesadilla-turbo.json](./225755-the-jumping-quesadilla-turbo.json) |
 | The Jumping Salad | 230302 | [230302-the-jumping-salad.json](./230302-the-jumping-salad.json) |
@@ -4673,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silence After | 361769 | [361769-the-silence-after.json](./361769-the-silence-after.json) |
 | The Silent Age | 11444 | [11444-the-silent-age.json](./11444-the-silent-age.json) |
 | The Silent Cartographer: Evolved | 375319 | [375319-the-silent-cartographer-evolved.json](./375319-the-silent-cartographer-evolved.json) |
+| The Silent Huntress | 218587 | [218587-the-silent-huntress.json](./218587-the-silent-huntress.json) |
 | The Silent Islands | 211939 | [211939-the-silent-islands.json](./211939-the-silent-islands.json) |
 | The Silent One | 347763 | [347763-the-silent-one.json](./347763-the-silent-one.json) |
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
