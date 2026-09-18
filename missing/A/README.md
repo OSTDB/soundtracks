@@ -507,9 +507,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Doom | 55134 | [55134-action-doom.json](./55134-action-doom.json) |
 | Action Fighter | 11885 | [11885-action-fighter.json](./11885-action-fighter.json) |
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
+| Action Half-Life | 221840 | [221840-action-half-life.json](./221840-action-half-life.json) |
 | Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
+| Action Quake 2 | 221842 | [221842-action-quake-2.json](./221842-action-quake-2.json) |
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
 | Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
 | ActionCam: Supernatural Case | 333529 | [333529-actioncam-supernatural-case.json](./333529-actioncam-supernatural-case.json) |
@@ -689,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
 | Aftermath | 35770 | [35770-aftermath.json](./35770-aftermath.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
+| Afternoon in the House of Secrets | 221820 | [221820-afternoon-in-the-house-of-secrets.json](./221820-afternoon-in-the-house-of-secrets.json) |
 | Afterplace | 232032 | [232032-afterplace.json](./232032-afterplace.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
@@ -2713,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AR Darts | 55895 | [55895-ar-darts.json](./55895-ar-darts.json) |
 | AR Flappy | 232186 | [232186-ar-flappy.json](./232186-ar-flappy.json) |
 | AR Invaders | 63248 | [63248-ar-invaders.json](./63248-ar-invaders.json) |
+| Ar Luminae | 221848 | [221848-ar-luminae.json](./221848-ar-luminae.json) |
 | AR Magic Color UP | 56487 | [56487-ar-magic-color-up.json](./56487-ar-magic-color-up.json) |
 | Ar nosurge Plus: Ode to an Unborn Star - Limited Edition | 89915 | [89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json](./89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json) |
 | Ar nosurge: Ode to an Unborn Star | 7273 | [7273-ar-nosurge-ode-to-an-unborn-star.json](./7273-ar-nosurge-ode-to-an-unborn-star.json) |
