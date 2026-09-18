@@ -2775,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Beat | 186821 | [186821-blast-beat.json](./186821-blast-beat.json) |
 | Blast Bots | 194022 | [194022-blast-bots.json](./194022-blast-bots.json) |
 | Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
+| Blast Flock | 181216 | [181216-blast-flock.json](./181216-blast-flock.json) |
 | Blast Force | 123616 | [123616-blast-force.json](./123616-blast-force.json) |
 | Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
 | Blast Judgment | 324328 | [324328-blast-judgment.json](./324328-blast-judgment.json) |
@@ -4331,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Birdie Puzzle 2 | 278659 | [278659-breakout-birdie-puzzle-2.json](./278659-breakout-birdie-puzzle-2.json) |
 | Breakout Defense 2 | 77368 | [77368-breakout-defense-2.json](./77368-breakout-defense-2.json) |
 | Breakout Force | 236390 | [236390-breakout-force.json](./236390-breakout-force.json) |
+| Breakout Hero | 181259 | [181259-breakout-hero.json](./181259-breakout-hero.json) |
 | Breakout in Space | 70977 | [70977-breakout-in-space.json](./70977-breakout-in-space.json) |
 | Breakout Planet | 153368 | [153368-breakout-planet.json](./153368-breakout-planet.json) |
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
