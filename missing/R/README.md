@@ -2371,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual | 302707 | [302707-ritual.json](./302707-ritual.json) |
 | Ritual of Raven | 281390 | [281390-ritual-of-raven.json](./281390-ritual-of-raven.json) |
 | Ritual Static | 397655 | [397655-ritual-static.json](./397655-ritual-static.json) |
+| Ritual Tournament | 190107 | [190107-ritual-tournament.json](./190107-ritual-tournament.json) |
 | Ritualistic Madness | 117719 | [117719-ritualistic-madness.json](./117719-ritualistic-madness.json) |
 | RitualSummon | 201253 | [201253-ritualsummon.json](./201253-ritualsummon.json) |
 | Rivage | 380416 | [380416-rivage.json](./380416-rivage.json) |
@@ -2500,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robby's Day Out | 181850 | [181850-robbys-day-out.json](./181850-robbys-day-out.json) |
 | Robert D. Anderson & the Legacy of Cthulhu | 20772 | [20772-robert-d-anderson-and-the-legacy-of-cthulhu.json](./20772-robert-d-anderson-and-the-legacy-of-cthulhu.json) |
 | Robert Robie and the Idols of Jade | 189187 | [189187-robert-robie-and-the-idols-of-jade.json](./189187-robert-robie-and-the-idols-of-jade.json) |
+| Robert: Space Stories and Battles | 190064 | [190064-robert-space-stories-and-battles.json](./190064-robert-space-stories-and-battles.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
 | Robin Morningwood Adventure: A Gay RPG | 156097 | [156097-robin-morningwood-adventure-a-gay-rpg.json](./156097-robin-morningwood-adventure-a-gay-rpg.json) |
 | Robin of Sherwood: The Touchstones of Rhiannon | 73825 | [73825-robin-of-sherwood-the-touchstones-of-rhiannon.json](./73825-robin-of-sherwood-the-touchstones-of-rhiannon.json) |
@@ -3491,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Legends | 250438 | [250438-run-legends.json](./250438-run-legends.json) |
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
 | Run N' Gun | 195737 | [195737-run-n-gun.json](./195737-run-n-gun.json) |
+| Run Ninja Run | 190074 | [190074-run-ninja-run.json](./190074-run-ninja-run.json) |
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
 | Run or Die | 14721 | [14721-run-or-die.json](./14721-run-or-die.json) |
 | Run or Fight | 161325 | [161325-run-or-fight.json](./161325-run-or-fight.json) |
