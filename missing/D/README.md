@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delirium: Echoes of the Domino | 360654 | [360654-delirium-echoes-of-the-domino.json](./360654-delirium-echoes-of-the-domino.json) |
 | DeliSpace | 291441 | [291441-delispace.json](./291441-delispace.json) |
 | Deliver This! | 365152 | [365152-deliver-this.json](./365152-deliver-this.json) |
+| Deliver Us From Evil: Cadenza | 192284 | [192284-deliver-us-from-evil-cadenza.json](./192284-deliver-us-from-evil-cadenza.json) |
 | Deliver Us Home | 303467 | [303467-deliver-us-home.json](./303467-deliver-us-home.json) |
 | Deliver Us Mars: Deluxe Edition | 204468 | [204468-deliver-us-mars-deluxe-edition.json](./204468-deliver-us-mars-deluxe-edition.json) |
 | Deliver us the Moon: Deluxe Edition | 166177 | [166177-deliver-us-the-moon-deluxe-edition.json](./166177-deliver-us-the-moon-deluxe-edition.json) |
@@ -1772,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's World | 39634 | [39634-demons-world.json](./39634-demons-world.json) |
 | Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
+| Demonic Bundle | 192305 | [192305-demonic-bundle.json](./192305-demonic-bundle.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
 | Demonic Labyrinth | 237074 | [237074-demonic-labyrinth.json](./237074-demonic-labyrinth.json) |
 | Demonic Libido | 262427 | [262427-demonic-libido.json](./262427-demonic-libido.json) |
@@ -2037,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Forsaken Pack | 227352 | [227352-destiny-2-forsaken-pack.json](./227352-destiny-2-forsaken-pack.json) |
 | Destiny 2: Heresy Silver Bundle | 330703 | [330703-destiny-2-heresy-silver-bundle.json](./330703-destiny-2-heresy-silver-bundle.json) |
 | Destiny 2: Into The Light | 291624 | [291624-destiny-2-into-the-light.json](./291624-destiny-2-into-the-light.json) |
+| Destiny 2: Legacy Collection | 192302 | [192302-destiny-2-legacy-collection.json](./192302-destiny-2-legacy-collection.json) |
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
 | Destiny 2: Limited Edition | 132151 | [132151-destiny-2-limited-edition.json](./132151-destiny-2-limited-edition.json) |
 | Destiny 2: The Witch Queen - Season of the Seraph | 228435 | [228435-destiny-2-the-witch-queen-season-of-the-seraph.json](./228435-destiny-2-the-witch-queen-season-of-the-seraph.json) |
@@ -4478,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamsweeper | 265772 | [265772-dreamsweeper.json](./265772-dreamsweeper.json) |
 | Dreamtale | 178656 | [178656-dreamtale.json](./178656-dreamtale.json) |
 | Dreamtone | 310960 | [310960-dreamtone.json](./310960-dreamtone.json) |
+| Dreamvibe | 192276 | [192276-dreamvibe.json](./192276-dreamvibe.json) |
 | Dreamwalker | 333021 | [333021-dreamwalker.json](./333021-dreamwalker.json) |
 | Dreamwater | 252385 | [252385-dreamwater.json](./252385-dreamwater.json) |
 | Dreamweb | 2489 | [2489-dreamweb.json](./2489-dreamweb.json) |
