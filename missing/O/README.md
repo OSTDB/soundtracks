@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orangia | 366934 | [366934-orangia.json](./366934-orangia.json) |
 | Orangia DLC | 366935 | [366935-orangia-dlc.json](./366935-orangia-dlc.json) |
 | Orava | 377071 | [377071-orava.json](./377071-orava.json) |
+| Oraxum Trials | 192331 | [192331-oraxum-trials.json](./192331-oraxum-trials.json) |
 | Orb Boy | 180184 | [180184-orb-boy.json](./180184-orb-boy.json) |
 | Orb of Creation | 182972 | [182972-orb-of-creation.json](./182972-orb-of-creation.json) |
 | Orb of Millean | 301440 | [301440-orb-of-millean.json](./301440-orb-of-millean.json) |
@@ -1684,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overkill | 95402 | [95402-overkill.json](./95402-overkill.json) |
 | Overkill VR | 25946 | [25946-overkill-vr.json](./25946-overkill-vr.json) |
 | Overknight Dungeon | 223980 | [223980-overknight-dungeon.json](./223980-overknight-dungeon.json) |
+| Overlapped | 192318 | [192318-overlapped.json](./192318-overlapped.json) |
 | Overlapping World | 284342 | [284342-overlapping-world.json](./284342-overlapping-world.json) |
 | Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
 | Overloop | 75025 | [75025-overloop.json](./75025-overloop.json) |
