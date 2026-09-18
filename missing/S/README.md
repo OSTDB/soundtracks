@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvation in Corruption | 75183 | [75183-salvation-in-corruption.json](./75183-salvation-in-corruption.json) |
 | Salvation Plan: Spirit Evil | 284336 | [284336-salvation-plan-spirit-evil.json](./284336-salvation-plan-spirit-evil.json) |
 | Salvatorem | 298714 | [298714-salvatorem.json](./298714-salvatorem.json) |
+| Salvus: Aries | 221278 | [221278-salvus-aries.json](./221278-salvus-aries.json) |
 | Sam & Max Save the World + Beyond Time and Space Bundle | 219053 | [219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json](./219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json) |
 | Sam & Max: Beyond Time and Space - Episode 1: Ice Station Santa | 27835 | [27835-sam-and-max-beyond-time-and-space-episode-1-ice-station-santa.json](./27835-sam-and-max-beyond-time-and-space-episode-1-ice-station-santa.json) |
 | Sam & Max: Beyond Time and Space - Episode 2: Moai Better Blues | 27836 | [27836-sam-and-max-beyond-time-and-space-episode-2-moai-better-blues.json](./27836-sam-and-max-beyond-time-and-space-episode-2-moai-better-blues.json) |
@@ -2771,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuttlecock-H | 232559 | [232559-shuttlecock-h.json](./232559-shuttlecock-h.json) |
 | Shuttlecock-H | 344464 | [344464-shuttlecock-h.json](./344464-shuttlecock-h.json) |
 | Shuuchaku Gakuen | 335668 | [335668-shuuchaku-gakuen.json](./335668-shuuchaku-gakuen.json) |
+| Shuugoku no Seventh Heim | 221259 | [221259-shuugoku-no-seventh-heim.json](./221259-shuugoku-no-seventh-heim.json) |
 | Shuumatsu no Sugoshikata: The world is drawing to an W/end | 326047 | [326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json](./326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
 | Shuwa no Mori | 254483 | [254483-shuwa-no-mori.json](./254483-shuwa-no-mori.json) |
@@ -6606,6 +6608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SRS: Street Racing Syndicate | 49382 | [49382-srs-street-racing-syndicate.json](./49382-srs-street-racing-syndicate.json) |
 | SRX | 133368 | [133368-srx.json](./133368-srx.json) |
 | SS.Archives | 253433 | [253433-ss-archives.json](./253433-ss-archives.json) |
+| SSSM: In the Shadow of Jupiter | 221295 | [221295-sssm-in-the-shadow-of-jupiter.json](./221295-sssm-in-the-shadow-of-jupiter.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
 | SSX | 4179 | [4179-ssx.json](./4179-ssx.json) |
 | SSX 3 | 186239 | [186239-ssx-3.json](./186239-ssx-3.json) |
@@ -6660,6 +6663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stair Dismount | 19285 | [19285-stair-dismount.json](./19285-stair-dismount.json) |
 | Stair Tap | 365064 | [365064-stair-tap.json](./365064-stair-tap.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
+| Stairdown | 221291 | [221291-stairdown.json](./221291-stairdown.json) |
 | StairJump | 78658 | [78658-stairjump.json](./78658-stairjump.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
 | Stairway | 301845 | [301845-stairway.json](./301845-stairway.json) |
@@ -7070,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargazing 64 | 350523 | [350523-stargazing-64.json](./350523-stargazing-64.json) |
 | Stargazing: Genesis | 195705 | [195705-stargazing-genesis.json](./195705-stargazing-genesis.json) |
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
+| StarHeroes | 221262 | [221262-starheroes.json](./221262-starheroes.json) |
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
@@ -8222,6 +8227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike 5 | 355088 | [355088-sudden-strike-5.json](./355088-sudden-strike-5.json) |
 | Suddenly Meow 2 | 197932 | [197932-suddenly-meow-2.json](./197932-suddenly-meow-2.json) |
 | Sudeki | 6179 | [6179-sudeki.json](./6179-sudeki.json) |
+| Sudo Cats | 221263 | [221263-sudo-cats.json](./221263-sudo-cats.json) |
 | Sudocats | 193466 | [193466-sudocats.json](./193466-sudocats.json) |
 | SudoKats | 164995 | [164995-sudokats.json](./164995-sudokats.json) |
 | Sudokku Elite Collection | 58256 | [58256-sudokku-elite-collection.json](./58256-sudokku-elite-collection.json) |
