@@ -749,10 +749,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
 | Wayfarer Survival Mini-Game | 63288 | [63288-wayfarer-survival-mini-game.json](./63288-wayfarer-survival-mini-game.json) |
 | Wayfinder: Episode One | 381694 | [381694-wayfinder-episode-one.json](./381694-wayfinder-episode-one.json) |
+| Wayne Gretzky and Brett Hull Shootout Hockey | 198953 | [198953-wayne-gretzky-and-brett-hull-shootout-hockey.json](./198953-wayne-gretzky-and-brett-hull-shootout-hockey.json) |
 | Wayne Gretzky Hockey | 15509 | [15509-wayne-gretzky-hockey.json](./15509-wayne-gretzky-hockey.json) |
 | Wayne Gretzky Hockey 2 | 15510 | [15510-wayne-gretzky-hockey-2.json](./15510-wayne-gretzky-hockey-2.json) |
 | Wayne Gretzky Hockey 3 | 15511 | [15511-wayne-gretzky-hockey-3.json](./15511-wayne-gretzky-hockey-3.json) |
 | Wayne Gretzky's 3D Hockey | 3630 | [3630-wayne-gretzkys-3d-hockey.json](./3630-wayne-gretzkys-3d-hockey.json) |
+| Wayne's World | 198954 | [198954-waynes-world.json](./198954-waynes-world.json) |
 | Ways | 323521 | [323521-ways.json](./323521-ways.json) |
 | Ways of Alchemy | 333069 | [333069-ways-of-alchemy.json](./333069-ways-of-alchemy.json) |
 | Waystones | 341864 | [341864-waystones.json](./341864-waystones.json) |
@@ -763,8 +765,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WBTR: Welcome Back to Reality | 130376 | [130376-wbtr-welcome-back-to-reality.json](./130376-wbtr-welcome-back-to-reality.json) |
 | WC Dream | 296385 | [296385-wc-dream.json](./296385-wc-dream.json) |
 | WCP Word Girlfriend | 259058 | [259058-wcp-word-girlfriend.json](./259058-wcp-word-girlfriend.json) |
+| WCW Diamond Dallas Page | 198955 | [198955-wcw-diamond-dallas-page.json](./198955-wcw-diamond-dallas-page.json) |
+| WCW Hollywood Hulk Hogan Power Fighter | 198958 | [198958-wcw-hollywood-hulk-hogan-power-fighter.json](./198958-wcw-hollywood-hulk-hogan-power-fighter.json) |
+| WCW Nitro Giant | 198961 | [198961-wcw-nitro-giant.json](./198961-wcw-nitro-giant.json) |
+| WCW Nitro Goldberg Smash & Bash Game | 198959 | [198959-wcw-nitro-goldberg-smash-and-bash-game.json](./198959-wcw-nitro-goldberg-smash-and-bash-game.json) |
 | WCW Nitro Hollywood Hogan | 217969 | [217969-wcw-nitro-hollywood-hogan.json](./217969-wcw-nitro-hollywood-hogan.json) |
+| WCW Nitro Sting | 198960 | [198960-wcw-nitro-sting.json](./198960-wcw-nitro-sting.json) |
+| WCW nWo Thunder | 198962 | [198962-wcw-nwo-thunder.json](./198962-wcw-nwo-thunder.json) |
 | WCW vs. nWo: World Tour | 3635 | [3635-wcw-vs-nwo-world-tour.json](./3635-wcw-vs-nwo-world-tour.json) |
+| WCW Whiplash | 198963 | [198963-wcw-whiplash.json](./198963-wcw-whiplash.json) |
 | WCW: World Championship Wrestling | 48095 | [48095-wcw-world-championship-wrestling.json](./48095-wcw-world-championship-wrestling.json) |
 | WCW/nWo Grudge Match: Scott vs. Rick Steiner | 217985 | [217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json](./217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json) |
 | We Are All but Bones and Dust | 165049 | [165049-we-are-all-but-bones-and-dust.json](./165049-we-are-all-but-bones-and-dust.json) |
@@ -1083,9 +1092,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheat and Wrath | 400319 | [400319-wheat-and-wrath.json](./400319-wheat-and-wrath.json) |
 | Wheat Harvest Paradox | 257409 | [257409-wheat-harvest-paradox.json](./257409-wheat-harvest-paradox.json) |
 | Wheel of Fortune | 194569 | [194569-wheel-of-fortune.json](./194569-wheel-of-fortune.json) |
+| Wheel of Fortune | 198964 | [198964-wheel-of-fortune.json](./198964-wheel-of-fortune.json) |
 | Wheel of Fortune | 220131 | [220131-wheel-of-fortune.json](./220131-wheel-of-fortune.json) |
 | Wheel of Fortune | 37183 | [37183-wheel-of-fortune.json](./37183-wheel-of-fortune.json) |
 | Wheel of Fortune | 70959 | [70959-wheel-of-fortune.json](./70959-wheel-of-fortune.json) |
+| Wheel of Fortune Cartridge #1 | 198965 | [198965-wheel-of-fortune-cartridge-1.json](./198965-wheel-of-fortune-cartridge-1.json) |
+| Wheel of Fortune Cartridge #2 | 198966 | [198966-wheel-of-fortune-cartridge-2.json](./198966-wheel-of-fortune-cartridge-2.json) |
+| Wheel of Fortune Cartridge #3 | 198967 | [198967-wheel-of-fortune-cartridge-3.json](./198967-wheel-of-fortune-cartridge-3.json) |
 | Wheel of Fortune Cookie | 100898 | [100898-wheel-of-fortune-cookie.json](./100898-wheel-of-fortune-cookie.json) |
 | Wheel of Fortune Daily | 321140 | [321140-wheel-of-fortune-daily.json](./321140-wheel-of-fortune-daily.json) |
 | Wheel of Fortune: 2nd Edition | 43910 | [43910-wheel-of-fortune-2nd-edition.json](./43910-wheel-of-fortune-2nd-edition.json) |
