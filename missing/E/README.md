@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Wars: Road Rage | 215896 | [215896-echo-wars-road-rage.json](./215896-echo-wars-road-rage.json) |
 | Echo: Benefits | 141823 | [141823-echo-benefits.json](./141823-echo-benefits.json) |
 | Echo: Defy Death | 303500 | [303500-echo-defy-death.json](./303500-echo-defy-death.json) |
+| Echo: Digital Deluxe Edition | 212910 | [212910-echo-digital-deluxe-edition.json](./212910-echo-digital-deluxe-edition.json) |
 | Echo: The Oracle's Scroll | 319196 | [319196-echo-the-oracles-scroll.json](./319196-echo-the-oracles-scroll.json) |
 | EchoBlade | 166752 | [166752-echoblade.json](./166752-echoblade.json) |
 | EchoChamber: Not Welcome | 390689 | [390689-echochamber-not-welcome.json](./390689-echochamber-not-welcome.json) |
@@ -667,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleventh: Unsacred | 255165 | [255165-eleventh-unsacred.json](./255165-eleventh-unsacred.json) |
 | Elf Adventure | 282715 | [282715-elf-adventure.json](./282715-elf-adventure.json) |
 | Elf Epizode One | 114356 | [114356-elf-epizode-one.json](./114356-elf-epizode-one.json) |
+| Elf Girl Pinball | 212891 | [212891-elf-girl-pinball.json](./212891-elf-girl-pinball.json) |
 | Elfenwelt | 73243 | [73243-elfenwelt.json](./73243-elfenwelt.json) |
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
@@ -1161,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ensou | 141212 | [141212-ensou.json](./141212-ensou.json) |
 | Enspell | 275145 | [275145-enspell.json](./275145-enspell.json) |
 | Entangled | 105321 | [105321-entangled.json](./105321-entangled.json) |
+| Entanglement | 212913 | [212913-entanglement.json](./212913-entanglement.json) |
 | Enter the Backrooms | 157710 | [157710-enter-the-backrooms.json](./157710-enter-the-backrooms.json) |
 | Enter the Construct | 117016 | [117016-enter-the-construct.json](./117016-enter-the-construct.json) |
 | Enter the Nemesis: Blood Portal | 346574 | [346574-enter-the-nemesis-blood-portal.json](./346574-enter-the-nemesis-blood-portal.json) |
@@ -1623,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Champions: Challenge from the Dark Side | 5383 | [5383-eternal-champions-challenge-from-the-dark-side.json](./5383-eternal-champions-challenge-from-the-dark-side.json) |
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
+| Eternal Diary | 212860 | [212860-eternal-diary.json](./212860-eternal-diary.json) |
 | Eternal Doom | 140521 | [140521-eternal-doom.json](./140521-eternal-doom.json) |
 | Eternal Doom IV: Return from Oblivion | 256891 | [256891-eternal-doom-iv-return-from-oblivion.json](./256891-eternal-doom-iv-return-from-oblivion.json) |
 | Eternal Dread | 86340 | [86340-eternal-dread.json](./86340-eternal-dread.json) |
