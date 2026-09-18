@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retention: A Love Story | 149597 | [149597-retention-a-love-story.json](./149597-retention-a-love-story.json) |
 | Rethawed | 320929 | [320929-rethawed.json](./320929-rethawed.json) |
 | ReThink \| Evolved 4 | 132592 | [132592-rethink-evolved-4.json](./132592-rethink-evolved-4.json) |
+| Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
 | Retool | 32974 | [32974-retool.json](./32974-retool.json) |
 | Retooled | 204071 | [204071-retooled.json](./204071-retooled.json) |
@@ -2562,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
 | Rock Gunner | 356621 | [356621-rock-gunner.json](./356621-rock-gunner.json) |
+| Rock Hoppers | 210119 | [210119-rock-hoppers.json](./210119-rock-hoppers.json) |
 | Rock Life: The Rock Simulator - Rock Pack #2 | 286527 | [286527-rock-life-the-rock-simulator-rock-pack-2.json](./286527-rock-life-the-rock-simulator-rock-pack-2.json) |
 | Rock Life: The Rock Simulator - Rock Pack #3 | 302941 | [302941-rock-life-the-rock-simulator-rock-pack-3.json](./302941-rock-life-the-rock-simulator-rock-pack-3.json) |
 | Rock n' Roll Racing Hack v16 | 270219 | [270219-rock-n-roll-racing-hack-v16.json](./270219-rock-n-roll-racing-hack-v16.json) |
