@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Crusade | 99015 | [99015-endless-crusade.json](./99015-endless-crusade.json) |
 | Endless Dark | 236912 | [236912-endless-dark.json](./236912-endless-dark.json) |
 | Endless Depths | 354510 | [354510-endless-depths.json](./354510-endless-depths.json) |
+| Endless Depths 2 RPG | 197784 | [197784-endless-depths-2-rpg.json](./197784-endless-depths-2-rpg.json) |
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
 | Endless Drive | 234610 | [234610-endless-drive.json](./234610-endless-drive.json) |
 | Endless Escape | 38912 | [38912-endless-escape.json](./38912-endless-escape.json) |
