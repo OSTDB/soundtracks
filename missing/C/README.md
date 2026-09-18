@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Beat the Square? | 176419 | [176419-can-you-beat-the-square.json](./176419-can-you-beat-the-square.json) |
 | Can You Come In? | 144235 | [144235-can-you-come-in.json](./144235-can-you-come-in.json) |
 | Can You Eat by Yourself | 76660 | [76660-can-you-eat-by-yourself.json](./76660-can-you-eat-by-yourself.json) |
+| Can You Escape | 189033 | [189033-can-you-escape.json](./189033-can-you-escape.json) |
 | Can You Escape Modern Office | 167290 | [167290-can-you-escape-modern-office.json](./167290-can-you-escape-modern-office.json) |
 | Can You Escape- Jail Break | 106550 | [106550-can-you-escape-jail-break.json](./106550-can-you-escape-jail-break.json) |
 | Can You Reach 60 Seconds | 339940 | [339940-can-you-reach-60-seconds.json](./339940-can-you-reach-60-seconds.json) |
@@ -976,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CastleClysmic | 179153 | [179153-castleclysmic.json](./179153-castleclysmic.json) |
 | CastleDefense: RaiseArcher | 239141 | [239141-castledefense-raisearcher.json](./239141-castledefense-raisearcher.json) |
 | CastleOn | 353881 | [353881-castleon.json](./353881-castleon.json) |
+| Castlepoint | 189036 | [189036-castlepoint.json](./189036-castlepoint.json) |
 | Castlequest | 48070 | [48070-castlequest.json](./48070-castlequest.json) |
 | Castles & Castellans | 406688 | [406688-castles-and-castellans.json](./406688-castles-and-castellans.json) |
 | Castles & Krakens | 112280 | [112280-castles-and-krakens.json](./112280-castles-and-krakens.json) |
@@ -1745,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chee-Chai Alien | 79920 | [79920-chee-chai-alien.json](./79920-chee-chai-alien.json) |
 | Cheech and Chong Bud Farm | 220176 | [220176-cheech-and-chong-bud-farm.json](./220176-cheech-and-chong-bud-farm.json) |
 | Cheeky Chickens 2 | 104603 | [104603-cheeky-chickens-2.json](./104603-cheeky-chickens-2.json) |
+| Cheeky Princess | 189074 | [189074-cheeky-princess.json](./189074-cheeky-princess.json) |
 | Cheep Cheep Challenge | 268181 | [268181-cheep-cheep-challenge.json](./268181-cheep-cheep-challenge.json) |
 | Cheerleader Champion Dance Off | 86808 | [86808-cheerleader-champion-dance-off.json](./86808-cheerleader-champion-dance-off.json) |
 | Cheerleader's Choice: New York Spirit | 338274 | [338274-cheerleaders-choice-new-york-spirit.json](./338274-cheerleaders-choice-new-york-spirit.json) |
@@ -2564,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
 | Citizens Unite!: Earth x Space | 139994 | [139994-citizens-unite-earth-x-space.json](./139994-citizens-unite-earth-x-space.json) |
 | Citri Plays Noirwood | 220635 | [220635-citri-plays-noirwood.json](./220635-citri-plays-noirwood.json) |
+| Citrus Rampage | 189073 | [189073-citrus-rampage.json](./189073-citrus-rampage.json) |
 | City 7: Toronto Conflict | 281410 | [281410-city-7-toronto-conflict.json](./281410-city-7-toronto-conflict.json) |
 | City Ambulance Car Driving | 265731 | [265731-city-ambulance-car-driving.json](./265731-city-ambulance-car-driving.json) |
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
