@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ngolf: Platinum Edition | 317247 | [317247-ngolf-platinum-edition.json](./317247-ngolf-platinum-edition.json) |
 | Ngolf: Premium Edition | 308791 | [308791-ngolf-premium-edition.json](./308791-ngolf-premium-edition.json) |
 | NGT: Next Generation Tennis | 49320 | [49320-ngt-next-generation-tennis.json](./49320-ngt-next-generation-tennis.json) |
+| Nhero2 | 225723 | [225723-nhero2.json](./225723-nhero2.json) |
 | NHK Kouhaku Quiz Kassen | 67280 | [67280-nhk-kouhaku-quiz-kassen.json](./67280-nhk-kouhaku-quiz-kassen.json) |
 | NHL 07 | 5964 | [5964-nhl-07.json](./5964-nhl-07.json) |
 | NHL 10 | 953 | [953-nhl-10.json](./953-nhl-10.json) |
@@ -1556,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nion Forge | 378922 | [378922-nion-forge.json](./378922-nion-forge.json) |
 | Nios | 189161 | [189161-nios.json](./189161-nios.json) |
 | Nip for Speed 2: Searching for Pussy | 342067 | [342067-nip-for-speed-2-searching-for-pussy.json](./342067-nip-for-speed-2-searching-for-pussy.json) |
+| Niplob Adventure | 225726 | [225726-niplob-adventure.json](./225726-niplob-adventure.json) |
 | Nippets | 326613 | [326613-nippets.json](./326613-nippets.json) |
 | Nippon Marathon | 87673 | [87673-nippon-marathon.json](./87673-nippon-marathon.json) |
 | Nira | 126207 | [126207-nira.json](./126207-nira.json) |
