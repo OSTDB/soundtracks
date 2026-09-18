@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Thousand Lies | 19444 | [19444-one-thousand-lies.json](./19444-one-thousand-lies.json) |
 | One to Three: Sovereignty | 182998 | [182998-one-to-three-sovereignty.json](./182998-one-to-three-sovereignty.json) |
 | One Ton Bang Bang | 234722 | [234722-one-ton-bang-bang.json](./234722-one-ton-bang-bang.json) |
+| One Ton Reloaded | 234173 | [234173-one-ton-reloaded.json](./234173-one-ton-reloaded.json) |
 | One Tower Defense | 390517 | [390517-one-tower-defense.json](./390517-one-tower-defense.json) |
 | One True Path | 334151 | [334151-one-true-path.json](./334151-one-true-path.json) |
 | One Try Tower | 150623 | [150623-one-try-tower.json](./150623-one-try-tower.json) |
