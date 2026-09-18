@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
 | I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
+| I Can Human | 211827 | [211827-i-can-human.json](./211827-i-can-human.json) |
 | I Can Save This! | 326612 | [326612-i-can-save-this.json](./326612-i-can-save-this.json) |
 | I Can Transform | 265740 | [265740-i-can-transform.json](./265740-i-can-transform.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
@@ -584,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikemen Prince: Beauty and Her Beast | 229032 | [229032-ikemen-prince-beauty-and-her-beast.json](./229032-ikemen-prince-beauty-and-her-beast.json) |
 | Ikemen Villains: Wrapped in Wicked Romance | 229033 | [229033-ikemen-villains-wrapped-in-wicked-romance.json](./229033-ikemen-villains-wrapped-in-wicked-romance.json) |
 | Ikenie | 31798 | [31798-ikenie.json](./31798-ikenie.json) |
+| Ikkarus and the Prince of Sin | 211804 | [211804-ikkarus-and-the-prince-of-sin.json](./211804-ikkarus-and-the-prince-of-sin.json) |
 | Ikki | 12915 | [12915-ikki.json](./12915-ikki.json) |
 | Ikkitousen: Shining Dragon | 44645 | [44645-ikkitousen-shining-dragon.json](./44645-ikkitousen-shining-dragon.json) |
 | Ikoka Game | 273458 | [273458-ikoka-game.json](./273458-ikoka-game.json) |
