@@ -2250,7 +2250,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioGloom | 207835 | [207835-biogloom.json](./207835-biogloom.json) |
 | Biohazard 0 | 307948 | [307948-biohazard-0.json](./307948-biohazard-0.json) |
 | Biohazard Code: Veronica - Limited Edition | 407337 | [407337-biohazard-code-veronica-limited-edition.json](./407337-biohazard-code-veronica-limited-edition.json) |
+| Biohazard RE: 2 - Z Version | 218542 | [218542-biohazard-re-2-z-version.json](./218542-biohazard-re-2-z-version.json) |
+| Biohazard RE: 2 - Z Version: Deluxe Edition | 218546 | [218546-biohazard-re-2-z-version-deluxe-edition.json](./218546-biohazard-re-2-z-version-deluxe-edition.json) |
 | Biohazard Revival Selection | 44553 | [44553-biohazard-revival-selection.json](./44553-biohazard-revival-selection.json) |
+| Biohazard Village: Z Version | 218544 | [218544-biohazard-village-z-version.json](./218544-biohazard-village-z-version.json) |
 | Biohazard Village: Z Version - Winters' Expansion | 241065 | [241065-biohazard-village-z-version-winters-expansion.json](./241065-biohazard-village-z-version-winters-expansion.json) |
 | Biohazard: 5th Anniversary Special Package | 145009 | [145009-biohazard-5th-anniversary-special-package.json](./145009-biohazard-5th-anniversary-special-package.json) |
 | Biohazard: Escape Room | 258461 | [258461-biohazard-escape-room.json](./258461-biohazard-escape-room.json) |
