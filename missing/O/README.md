@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Factory | 279106 | [279106-outer-factory.json](./279106-outer-factory.json) |
 | Outer Outage | 265964 | [265964-outer-outage.json](./265964-outer-outage.json) |
 | Outer Rat | 143020 | [143020-outer-rat.json](./143020-outer-rat.json) |
+| Outer Terror | 206226 | [206226-outer-terror.json](./206226-outer-terror.json) |
 | Outer Wards: Proving Grounds | 260234 | [260234-outer-wards-proving-grounds.json](./260234-outer-wards-proving-grounds.json) |
 | Outer Zone | 350505 | [350505-outer-zone.json](./350505-outer-zone.json) |
 | Outer-Rim Pod Digger | 66058 | [66058-outer-rim-pod-digger.json](./66058-outer-rim-pod-digger.json) |
