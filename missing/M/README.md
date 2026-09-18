@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariposa | 395588 | [395588-mariposa.json](./395588-mariposa.json) |
 | Mariposa and the Galaxy Man | 191904 | [191904-mariposa-and-the-galaxy-man.json](./191904-mariposa-and-the-galaxy-man.json) |
 | Marisa's Marvelous Magic Shop | 126940 | [126940-marisas-marvelous-magic-shop.json](./126940-marisas-marvelous-magic-shop.json) |
+| Marissa Is Now Idle | 215222 | [215222-marissa-is-now-idle.json](./215222-marissa-is-now-idle.json) |
 | Maritime Hegemony | 220748 | [220748-maritime-hegemony.json](./220748-maritime-hegemony.json) |
 | Mark My Words | 360016 | [360016-mark-my-words.json](./360016-mark-my-words.json) |
 | Mark of Cain | 391741 | [391741-mark-of-cain.json](./391741-mark-of-cain.json) |
@@ -5237,6 +5238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muramasa Rebirth Complete Collection | 122359 | [122359-muramasa-rebirth-complete-collection.json](./122359-muramasa-rebirth-complete-collection.json) |
 | Muramasa Rebirth: Blessing of Amitabha Collector's Edition | 89921 | [89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json](./89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json) |
 | Murasaki Mist: Akara's Journey | 61043 | [61043-murasaki-mist-akaras-journey.json](./61043-murasaki-mist-akaras-journey.json) |
+| Murasaki no Honoo | 215190 | [215190-murasaki-no-honoo.json](./215190-murasaki-no-honoo.json) |
 | Murasaki7 | 127306 | [127306-murasaki7.json](./127306-murasaki7.json) |
 | Murasame | 195164 | [195164-murasame.json](./195164-murasame.json) |
 | Murdeer | 395556 | [395556-murdeer.json](./395556-murdeer.json) |
