@@ -3799,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Planet | 243924 | [243924-primal-planet.json](./243924-primal-planet.json) |
 | Primal Rage | 199013 | [199013-primal-rage.json](./199013-primal-rage.json) |
 | Primal Roar: Jurassic Dinosaur Era | 220652 | [220652-primal-roar-jurassic-dinosaur-era.json](./220652-primal-roar-jurassic-dinosaur-era.json) |
+| Primal Survivors | 224627 | [224627-primal-survivors.json](./224627-primal-survivors.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
 | Prime Mosaic | 337639 | [337639-prime-mosaic.json](./337639-prime-mosaic.json) |
@@ -4343,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Kate | 262436 | [262436-project-kate.json](./262436-project-kate.json) |
 | Project: Mania | 333562 | [333562-project-mania.json](./333562-project-mania.json) |
 | Project: Mist | 272348 | [272348-project-mist.json](./272348-project-mist.json) |
+| Project: Nightlight | 224650 | [224650-project-nightlight.json](./224650-project-nightlight.json) |
 | Project: Obscurion | 251678 | [251678-project-obscurion.json](./251678-project-obscurion.json) |
 | Project: Pong | 241467 | [241467-project-pong.json](./241467-project-pong.json) |
 | Project: Purconia | 391158 | [391158-project-purconia.json](./391158-project-purconia.json) |
