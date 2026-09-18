@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsumi & Fuyuko: All That's Inbetween | 212802 | [212802-natsumi-and-fuyuko-all-thats-inbetween.json](./212802-natsumi-and-fuyuko-all-thats-inbetween.json) |
 | Natsuyume Yawa | 408093 | [408093-natsuyume-yawa.json](./408093-natsuyume-yawa.json) |
 | Natti | 236911 | [236911-natti.json](./236911-natti.json) |
+| Natural | 189065 | [189065-natural.json](./189065-natural.json) |
 | Natural Born Soldier | 82123 | [82123-natural-born-soldier.json](./82123-natural-born-soldier.json) |
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
 | Natural Disasters | 211716 | [211716-natural-disasters.json](./211716-natural-disasters.json) |
@@ -453,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neanderthallica | 236401 | [236401-neanderthallica.json](./236401-neanderthallica.json) |
 | Near Bird | 113700 | [113700-near-bird.json](./113700-near-bird.json) |
 | Near Mint | 399599 | [399599-near-mint.json](./399599-near-mint.json) |
+| Near Site | 189042 | [189042-near-site.json](./189042-near-site.json) |
 | Near Sol | 220629 | [220629-near-sol.json](./220629-near-sol.json) |
 | Near-Mage + Gibbous: The Kittehverse | 403584 | [403584-near-mage-gibbous-the-kittehverse.json](./403584-near-mage-gibbous-the-kittehverse.json) |
 | Near-Mage: Clothes & Hair Pack | 403585 | [403585-near-mage-clothes-and-hair-pack.json](./403585-near-mage-clothes-and-hair-pack.json) |
@@ -996,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Supper Banana! | 366220 | [366220-new-supper-banana.json](./366220-new-supper-banana.json) |
 | New Swordsman | 212478 | [212478-new-swordsman.json](./212478-new-swordsman.json) |
 | New Tab | 184587 | [184587-new-tab.json](./184587-new-tab.json) |
+| New Terra | 189077 | [189077-new-terra.json](./189077-new-terra.json) |
 | New Town Needs Tamer | 216989 | [216989-new-town-needs-tamer.json](./216989-new-town-needs-tamer.json) |
 | New Vegas Bounties III | 281369 | [281369-new-vegas-bounties-iii.json](./281369-new-vegas-bounties-iii.json) |
 | New Vegas Games | 72077 | [72077-new-vegas-games.json](./72077-new-vegas-games.json) |
