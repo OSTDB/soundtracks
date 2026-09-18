@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderer | 185082 | [185082-wanderer.json](./185082-wanderer.json) |
 | Wanderer | 205582 | [205582-wanderer.json](./205582-wanderer.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
+| Wanderers | 185030 | [185030-wanderers.json](./185030-wanderers.json) |
 | Wanderers | 377158 | [377158-wanderers.json](./377158-wanderers.json) |
 | Wanderers.io | 178085 | [178085-wanderers-io.json](./178085-wanderers-io.json) |
 | Wanderers' Outpost | 406687 | [406687-wanderers-outpost.json](./406687-wanderers-outpost.json) |
