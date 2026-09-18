@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura no Mori Dreamers | 75788 | [75788-sakura-no-mori-dreamers.json](./75788-sakura-no-mori-dreamers.json) |
 | Sakura Priestess and Shikigami Mountain | 306060 | [306060-sakura-priestess-and-shikigami-mountain.json](./306060-sakura-priestess-and-shikigami-mountain.json) |
 | Sakura Revolution: Blooming Maidens | 226767 | [226767-sakura-revolution-blooming-maidens.json](./226767-sakura-revolution-blooming-maidens.json) |
+| Sakura Sakura: Limited Edition | 212330 | [212330-sakura-sakura-limited-edition.json](./212330-sakura-sakura-limited-edition.json) |
 | Sakura Santa | 34032 | [34032-sakura-santa.json](./34032-sakura-santa.json) |
 | Sakura School Simulator | 208944 | [208944-sakura-school-simulator.json](./208944-sakura-school-simulator.json) |
 | Sakura Succubus 2 | 146837 | [146837-sakura-succubus-2.json](./146837-sakura-succubus-2.json) |
@@ -1532,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senior Sunset | 384060 | [384060-senior-sunset.json](./384060-senior-sunset.json) |
 | Senity: The Game | 116329 | [116329-senity-the-game.json](./116329-senity-the-game.json) |
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
+| Senko no Ronde 2: Limited Edition | 212315 | [212315-senko-no-ronde-2-limited-edition.json](./212315-senko-no-ronde-2-limited-edition.json) |
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
 | Senli 307 | 224618 | [224618-senli-307.json](./224618-senli-307.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
@@ -2426,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Lore | 316800 | [316800-shining-lore.json](./316800-shining-lore.json) |
 | Shining Orb Prequel | 109704 | [109704-shining-orb-prequel.json](./109704-shining-orb-prequel.json) |
 | Shining Resonance | 44561 | [44561-shining-resonance.json](./44561-shining-resonance.json) |
+| Shining Resonance Refrain: Premium Fan Box - Limited Edition | 212320 | [212320-shining-resonance-refrain-premium-fan-box-limited-edition.json](./212320-shining-resonance-refrain-premium-fan-box-limited-edition.json) |
 | Shining Song Starnova | 52062 | [52062-shining-song-starnova.json](./52062-shining-song-starnova.json) |
 | Shining Song Starnova: Idol Empire | 129476 | [129476-shining-song-starnova-idol-empire.json](./129476-shining-song-starnova-idol-empire.json) |
 | Shining Soul II | 6594 | [6594-shining-soul-ii.json](./6594-shining-soul-ii.json) |
@@ -10110,6 +10113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Fractured Daydream - Deluxe Edition | 308792 | [308792-sword-art-online-fractured-daydream-deluxe-edition.json](./308792-sword-art-online-fractured-daydream-deluxe-edition.json) |
 | Sword Art Online: Fractured Daydream - Premium Edition | 308793 | [308793-sword-art-online-fractured-daydream-premium-edition.json](./308793-sword-art-online-fractured-daydream-premium-edition.json) |
 | Sword Art Online: Hollow Fragment | 9618 | [9618-sword-art-online-hollow-fragment.json](./9618-sword-art-online-hollow-fragment.json) |
+| Sword Art Online: Hollow Realization - Limited Edition | 212317 | [212317-sword-art-online-hollow-realization-limited-edition.json](./212317-sword-art-online-hollow-realization-limited-edition.json) |
 | Sword Art Online: Hollow Realization Collector's Edition | 132182 | [132182-sword-art-online-hollow-realization-collectors-edition.json](./132182-sword-art-online-hollow-realization-collectors-edition.json) |
 | Sword Art Online: Integral Factor | 68441 | [68441-sword-art-online-integral-factor.json](./68441-sword-art-online-integral-factor.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
