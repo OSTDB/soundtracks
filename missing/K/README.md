@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaigrad | 163969 | [163969-kaigrad.json](./163969-kaigrad.json) |
 | Kaiju Catastrophe | 217331 | [217331-kaiju-catastrophe.json](./217331-kaiju-catastrophe.json) |
 | Kaiju Cleanup | 370709 | [370709-kaiju-cleanup.json](./370709-kaiju-cleanup.json) |
+| Kaiju Commander | 217368 | [217368-kaiju-commander.json](./217368-kaiju-commander.json) |
 | Kaiju Cracking Corp | 286009 | [286009-kaiju-cracking-corp.json](./286009-kaiju-cracking-corp.json) |
 | Kaiju Evolution Survivor | 334192 | [334192-kaiju-evolution-survivor.json](./334192-kaiju-evolution-survivor.json) |
 | Kaiju Fury Turbo | 303609 | [303609-kaiju-fury-turbo.json](./303609-kaiju-fury-turbo.json) |
@@ -269,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kari Gurashi Ren'ai | 97347 | [97347-kari-gurashi-renai.json](./97347-kari-gurashi-renai.json) |
 | Karian Cross | 40212 | [40212-karian-cross.json](./40212-karian-cross.json) |
 | Karjala | 303606 | [303606-karjala.json](./303606-karjala.json) |
+| Karl Marx and the Ring of Communism | 217367 | [217367-karl-marx-and-the-ring-of-communism.json](./217367-karl-marx-and-the-ring-of-communism.json) |
 | Karless | 400867 | [400867-karless.json](./400867-karless.json) |
 | Karlson64 | 175900 | [175900-karlson64.json](./175900-karlson64.json) |
 | Karm: Early Access Archives | 303605 | [303605-karm-early-access-archives.json](./303605-karm-early-access-archives.json) |
@@ -294,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KartKraft | 34354 | [34354-kartkraft.json](./34354-kartkraft.json) |
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
 | Karts With Chat | 345505 | [345505-karts-with-chat.json](./345505-karts-with-chat.json) |
+| Kasaba | 217369 | [217369-kasaba.json](./217369-kasaba.json) |
 | Kasane Teto and Hatsune Miku are Lesbians | 333537 | [333537-kasane-teto-and-hatsune-miku-are-lesbians.json](./333537-kasane-teto-and-hatsune-miku-are-lesbians.json) |
 | Kaseki Sousei Reborn | 228578 | [228578-kaseki-sousei-reborn.json](./228578-kaseki-sousei-reborn.json) |
 | Kaseki Sousei Reborn II: Monster Digger | 228579 | [228579-kaseki-sousei-reborn-ii-monster-digger.json](./228579-kaseki-sousei-reborn-ii-monster-digger.json) |
@@ -522,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Warrior Simulator | 351711 | [351711-keyboard-warrior-simulator.json](./351711-keyboard-warrior-simulator.json) |
 | Keyboard Warrior Stickman: Typing Beat Em Up | 413773 | [413773-keyboard-warrior-stickman-typing-beat-em-up.json](./413773-keyboard-warrior-stickman-typing-beat-em-up.json) |
 | Keyboard Warrior: Dreamstate | 209714 | [209714-keyboard-warrior-dreamstate.json](./209714-keyboard-warrior-dreamstate.json) |
+| Keyfall | 217375 | [217375-keyfall.json](./217375-keyfall.json) |
 | Keyg | 108385 | [108385-keyg.json](./108385-keyg.json) |
 | Keyhole Spy: Fantasy Passion | 110382 | [110382-keyhole-spy-fantasy-passion.json](./110382-keyhole-spy-fantasy-passion.json) |
 | Keyhole Spy: Frozen Hotties | 111266 | [111266-keyhole-spy-frozen-hotties.json](./111266-keyhole-spy-frozen-hotties.json) |
