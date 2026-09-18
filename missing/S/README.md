@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sae | 276177 | [276177-sae.json](./276177-sae.json) |
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
 | Safari Arena: Wildlife Arcade Fighter | 102821 | [102821-safari-arena-wildlife-arcade-fighter.json](./102821-safari-arena-wildlife-arcade-fighter.json) |
+| Safari Cannon | 190108 | [190108-safari-cannon.json](./190108-safari-cannon.json) |
 | Safari Central | 95387 | [95387-safari-central.json](./95387-safari-central.json) |
 | Safari Hunt 2018 | 108513 | [108513-safari-hunt-2018.json](./108513-safari-hunt-2018.json) |
 | Safari Kart | 263579 | [263579-safari-kart.json](./263579-safari-kart.json) |
@@ -3444,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skaza | 141159 | [141159-skaza.json](./141159-skaza.json) |
 | Skeal | 185682 | [185682-skeal.json](./185682-skeal.json) |
 | Skedaddling In Egypt | 244244 | [244244-skedaddling-in-egypt.json](./244244-skedaddling-in-egypt.json) |
+| Skeeter's Grid | 190082 | [190082-skeeters-grid.json](./190082-skeeters-grid.json) |
 | Skeetshoot | 81284 | [81284-skeetshoot.json](./81284-skeetshoot.json) |
 | Skelattack | 54837 | [54837-skelattack.json](./54837-skelattack.json) |
 | Skelecool: Remnants | 411028 | [411028-skelecool-remnants.json](./411028-skelecool-remnants.json) |
@@ -3477,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy 2 | 54460 | [54460-sketchy-2.json](./54460-sketchy-2.json) |
 | Sketchy Fables | 152846 | [152846-sketchy-fables.json](./152846-sketchy-fables.json) |
 | Sketchy Marathon | 319799 | [319799-sketchy-marathon.json](./319799-sketchy-marathon.json) |
+| Skew Pong | 190076 | [190076-skew-pong.json](./190076-skew-pong.json) |
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
 | Ski Jump International v2 | 342080 | [342080-ski-jump-international-v2.json](./342080-ski-jump-international-v2.json) |
 | Ski Jumping PVP | 259082 | [259082-ski-jumping-pvp.json](./259082-ski-jumping-pvp.json) |
@@ -6869,6 +6872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StairJump | 78658 | [78658-stairjump.json](./78658-stairjump.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
 | Stairway | 301845 | [301845-stairway.json](./301845-stairway.json) |
+| Stakeholder Game | 190069 | [190069-stakeholder-game.json](./190069-stakeholder-game.json) |
 | Stakes Winner | 39626 | [39626-stakes-winner.json](./39626-stakes-winner.json) |
 | Stakes Winner 2 | 39625 | [39625-stakes-winner-2.json](./39625-stakes-winner-2.json) |
 | Stalcraft | 321393 | [321393-stalcraft.json](./321393-stalcraft.json) |
@@ -8625,6 +8629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Ray Leonard: Talking Boxing | 198930 | [198930-sugar-ray-leonard-talking-boxing.json](./198930-sugar-ray-leonard-talking-boxing.json) |
 | Sugar Rush | 58209 | [58209-sugar-rush.json](./58209-sugar-rush.json) |
 | Sugar Siege | 338270 | [338270-sugar-siege.json](./338270-sugar-siege.json) |
+| Sugar Story | 190091 | [190091-sugar-story.json](./190091-sugar-story.json) |
 | Sugar Style | 141795 | [141795-sugar-style.json](./141795-sugar-style.json) |
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
