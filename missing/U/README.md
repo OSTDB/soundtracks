@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Fishing Simulator: Thailand | 154484 | [154484-ultimate-fishing-simulator-thailand.json](./154484-ultimate-fishing-simulator-thailand.json) |
 | Ultimate Fishing Simulator: Thailand DLC | 164521 | [164521-ultimate-fishing-simulator-thailand-dlc.json](./164521-ultimate-fishing-simulator-thailand-dlc.json) |
 | Ultimate Fishing Simulator: VR DLC | 164523 | [164523-ultimate-fishing-simulator-vr-dlc.json](./164523-ultimate-fishing-simulator-vr-dlc.json) |
+| Ultimate Flying Car | 233618 | [233618-ultimate-flying-car.json](./233618-ultimate-flying-car.json) |
 | Ultimate Flying Cars | 215401 | [215401-ultimate-flying-cars.json](./215401-ultimate-flying-cars.json) |
 | Ultimate Football '95 | 69803 | [69803-ultimate-football-95.json](./69803-ultimate-football-95.json) |
 | Ultimate FPS Challenge | 299175 | [299175-ultimate-fps-challenge.json](./299175-ultimate-fps-challenge.json) |
