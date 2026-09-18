@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
 | Last Labyrinth | 109245 | [109245-last-labyrinth.json](./109245-last-labyrinth.json) |
 | Last Labyrinth: Collector's Edition | 139973 | [139973-last-labyrinth-collectors-edition.json](./139973-last-labyrinth-collectors-edition.json) |
+| Last Lap Heroes | 211279 | [211279-last-lap-heroes.json](./211279-last-lap-heroes.json) |
 | Last Laugh | 337191 | [337191-last-laugh.json](./337191-last-laugh.json) |
 | Last Legion UX | 3534 | [3534-last-legion-ux.json](./3534-last-legion-ux.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
@@ -1644,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Honeybee | 288359 | [288359-little-honeybee.json](./288359-little-honeybee.json) |
 | Little Horrors! | 287240 | [287240-little-horrors.json](./287240-little-horrors.json) |
 | Little Inferno: Ho Ho Holiday | 224412 | [224412-little-inferno-ho-ho-holiday.json](./224412-little-inferno-ho-ho-holiday.json) |
+| Little Islanders | 211251 | [211251-little-islanders.json](./211251-little-islanders.json) |
 | Little Jack's Adventures | 30101 | [30101-little-jacks-adventures.json](./30101-little-jacks-adventures.json) |
 | Little Jumper! | 175403 | [175403-little-jumper.json](./175403-little-jumper.json) |
 | Little Kingdom RTS | 349319 | [349319-little-kingdom-rts.json](./349319-little-kingdom-rts.json) |
@@ -1960,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Town: Santa's Grotto | 279131 | [279131-logic-town-santas-grotto.json](./279131-logic-town-santas-grotto.json) |
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
+| Logicubes | 211285 | [211285-logicubes.json](./211285-logicubes.json) |
 | LogiKing | 231051 | [231051-logiking.json](./231051-logiking.json) |
 | LogIQ Boost | 373650 | [373650-logiq-boost.json](./373650-logiq-boost.json) |
 | Logistical 2: Indonesia - Bundle | 168349 | [168349-logistical-2-indonesia-bundle.json](./168349-logistical-2-indonesia-bundle.json) |
