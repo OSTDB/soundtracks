@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Mysteries | 80506 | [80506-seven-mysteries.json](./80506-seven-mysteries.json) |
 | Seven Nexus | 381639 | [381639-seven-nexus.json](./381639-seven-nexus.json) |
 | Seven of Heart | 176989 | [176989-seven-of-heart.json](./176989-seven-of-heart.json) |
+| Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
 | Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
 | Seven Wonders of St. Clementine | 120944 | [120944-seven-wonders-of-st-clementine.json](./120944-seven-wonders-of-st-clementine.json) |
@@ -2323,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shēnyuān | 165700 | [165700-shenyuan.json](./165700-shenyuan.json) |
 | Shenzhen Solitaire | 30085 | [30085-shenzhen-solitaire.json](./30085-shenzhen-solitaire.json) |
 | Sheol no Mori: Tasogare no Majuuzukai | 381108 | [381108-sheol-no-mori-tasogare-no-majuuzukai.json](./381108-sheol-no-mori-tasogare-no-majuuzukai.json) |
+| Shepherd | 192319 | [192319-shepherd.json](./192319-shepherd.json) |
 | Shepherd of Light | 121594 | [121594-shepherd-of-light.json](./121594-shepherd-of-light.json) |
 | Shepherd's Crossing | 43270 | [43270-shepherds-crossing.json](./43270-shepherds-crossing.json) |
 | Shepherd's Eye | 288230 | [288230-shepherds-eye.json](./288230-shepherds-eye.json) |
@@ -7786,6 +7788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticks Collection | 207888 | [207888-sticks-collection.json](./207888-sticks-collection.json) |
 | Sticks Together: The Wishing Well | 311137 | [311137-sticks-together-the-wishing-well.json](./311137-sticks-together-the-wishing-well.json) |
 | StickSpinner | 264062 | [264062-stickspinner.json](./264062-stickspinner.json) |
+| StickType Remastered | 192307 | [192307-sticktype-remastered.json](./192307-sticktype-remastered.json) |
 | StickType Ultimate Bundle | 218461 | [218461-sticktype-ultimate-bundle.json](./218461-sticktype-ultimate-bundle.json) |
 | StickType: Challenge | 218470 | [218470-sticktype-challenge.json](./218470-sticktype-challenge.json) |
 | StickType: StickLady | 218469 | [218469-sticktype-sticklady.json](./218469-sticktype-sticklady.json) |
@@ -8303,6 +8306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
 | Strontium Dog and the Death Gauntlet | 313333 | [313333-strontium-dog-and-the-death-gauntlet.json](./313333-strontium-dog-and-the-death-gauntlet.json) |
 | Strontium Dog: The Killing | 38924 | [38924-strontium-dog-the-killing.json](./38924-strontium-dog-the-killing.json) |
+| Structus | 192324 | [192324-structus.json](./192324-structus.json) |
 | Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
