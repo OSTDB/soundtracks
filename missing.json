@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T03:47:35.928Z",
-  "total_missing": 85671,
+  "generated_at": "2026-09-18T04:02:20.093Z",
+  "total_missing": 85721,
   "games": [
     {
       "igdb_id": 273453,
@@ -56741,6 +56741,11 @@
       "igdb_id": 201768,
       "game_name": "Cats in Hell",
       "file": "missing/C/201768-cats-in-hell.json"
+    },
+    {
+      "igdb_id": 225183,
+      "game_name": "Cats Kill Zombies",
+      "file": "missing/C/225183-cats-kill-zombies.json"
     },
     {
       "igdb_id": 334092,
@@ -260058,14 +260063,94 @@
       "file": "missing/P/156182-payday-2-gage-russian-weapon-pack.json"
     },
     {
+      "igdb_id": 225160,
+      "game_name": "Payday 2: Gage Sniper Pack",
+      "file": "missing/P/225160-payday-2-gage-sniper-pack.json"
+    },
+    {
+      "igdb_id": 225161,
+      "game_name": "Payday 2: Gage Spec Ops Pack",
+      "file": "missing/P/225161-payday-2-gage-spec-ops-pack.json"
+    },
+    {
+      "igdb_id": 225162,
+      "game_name": "Payday 2: Gage Weapon Pack #01",
+      "file": "missing/P/225162-payday-2-gage-weapon-pack-01.json"
+    },
+    {
+      "igdb_id": 225163,
+      "game_name": "Payday 2: Gage Weapon Pack #02",
+      "file": "missing/P/225163-payday-2-gage-weapon-pack-02.json"
+    },
+    {
+      "igdb_id": 225165,
+      "game_name": "Payday 2: Golden Dagger Tailor Pack",
+      "file": "missing/P/225165-payday-2-golden-dagger-tailor-pack.json"
+    },
+    {
+      "igdb_id": 225166,
+      "game_name": "Payday 2: Guardians Tailor Pack",
+      "file": "missing/P/225166-payday-2-guardians-tailor-pack.json"
+    },
+    {
+      "igdb_id": 225167,
+      "game_name": "Payday 2: High Octane Tailor Pack",
+      "file": "missing/P/225167-payday-2-high-octane-tailor-pack.json"
+    },
+    {
+      "igdb_id": 225170,
+      "game_name": "Payday 2: McShay Weapon Pack",
+      "file": "missing/P/225170-payday-2-mcshay-weapon-pack.json"
+    },
+    {
+      "igdb_id": 225171,
+      "game_name": "Payday 2: Mega City Tailor Pack",
+      "file": "missing/P/225171-payday-2-mega-city-tailor-pack.json"
+    },
+    {
+      "igdb_id": 225172,
+      "game_name": "Payday 2: Sokol Character Pack",
+      "file": "missing/P/225172-payday-2-sokol-character-pack.json"
+    },
+    {
+      "igdb_id": 225174,
+      "game_name": "Payday 2: Southbound Tailor Pack",
+      "file": "missing/P/225174-payday-2-southbound-tailor-pack.json"
+    },
+    {
+      "igdb_id": 225173,
+      "game_name": "Payday 2: Sydney Character Pack",
+      "file": "missing/P/225173-payday-2-sydney-character-pack.json"
+    },
+    {
       "igdb_id": 19613,
       "game_name": "Payday 2: The Biker Heist",
       "file": "missing/P/19613-payday-2-the-biker-heist.json"
     },
     {
+      "igdb_id": 225175,
+      "game_name": "Payday 2: The Butcher's Western Pack",
+      "file": "missing/P/225175-payday-2-the-butchers-western-pack.json"
+    },
+    {
+      "igdb_id": 225176,
+      "game_name": "Payday 2: The Overkill Pack",
+      "file": "missing/P/225176-payday-2-the-overkill-pack.json"
+    },
+    {
       "igdb_id": 37149,
       "game_name": "Payday 2: Ultimate Edition",
       "file": "missing/P/37149-payday-2-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 225169,
+      "game_name": "Payday 2: Wolf Pack",
+      "file": "missing/P/225169-payday-2-wolf-pack.json"
+    },
+    {
+      "igdb_id": 225168,
+      "game_name": "Payday 2: Yakuza Character Pack",
+      "file": "missing/P/225168-payday-2-yakuza-character-pack.json"
     },
     {
       "igdb_id": 312011,
@@ -369523,6 +369608,11 @@
       "file": "missing/T/235733-the-lord-of-the-parties-x-kokonoe-yukari.json"
     },
     {
+      "igdb_id": 225185,
+      "game_name": "The Lord of the Parties: AmamaNia",
+      "file": "missing/T/225185-the-lord-of-the-parties-amamania.json"
+    },
+    {
       "igdb_id": 275927,
       "game_name": "The Lord of the Rings Online: Before the Shadow",
       "file": "missing/T/275927-the-lord-of-the-rings-online-before-the-shadow.json"
@@ -373596,6 +373686,11 @@
       "igdb_id": 53780,
       "game_name": "The Secret Order Collection",
       "file": "missing/T/53780-the-secret-order-collection.json"
+    },
+    {
+      "igdb_id": 225184,
+      "game_name": "The Secret Pyramid",
+      "file": "missing/T/225184-the-secret-pyramid.json"
     },
     {
       "igdb_id": 124747,
@@ -384418,6 +384513,11 @@
       "file": "missing/T/186335-tkium-exclusion-area.json"
     },
     {
+      "igdb_id": 225181,
+      "game_name": "Tkium Underground",
+      "file": "missing/T/225181-tkium-underground.json"
+    },
+    {
       "igdb_id": 200658,
       "game_name": "TKKG: Deadly Chocolate",
       "file": "missing/T/200658-tkkg-deadly-chocolate.json"
@@ -385111,6 +385211,11 @@
       "igdb_id": 130967,
       "game_name": "Together: A Wish No One Remembers",
       "file": "missing/T/130967-together-a-wish-no-one-remembers.json"
+    },
+    {
+      "igdb_id": 225182,
+      "game_name": "Togum",
+      "file": "missing/T/225182-togum.json"
     },
     {
       "igdb_id": 303230,
@@ -388393,6 +388498,11 @@
       "file": "missing/T/317239-touhou-hotline-sanzu.json"
     },
     {
+      "igdb_id": 225180,
+      "game_name": "Touhou: Red Empress Devil",
+      "file": "missing/T/225180-touhou-red-empress-devil.json"
+    },
+    {
       "igdb_id": 379443,
       "game_name": "Touhou: Tales of the Scarlet",
       "file": "missing/T/379443-touhou-tales-of-the-scarlet.json"
@@ -390916,6 +391026,11 @@
       "igdb_id": 154507,
       "game_name": "Train Valley: Germany",
       "file": "missing/T/154507-train-valley-germany.json"
+    },
+    {
+      "igdb_id": 225179,
+      "game_name": "Train World",
+      "file": "missing/T/225179-train-world.json"
     },
     {
       "igdb_id": 234050,
@@ -398223,6 +398338,136 @@
       "file": "missing/U/40732-ultra-scsicide.json"
     },
     {
+      "igdb_id": 225145,
+      "game_name": "Ultra Street Fighter IV: 2014 Challengers Horror Pack",
+      "file": "missing/U/225145-ultra-street-fighter-iv-2014-challengers-horror-pack.json"
+    },
+    {
+      "igdb_id": 225146,
+      "game_name": "Ultra Street Fighter IV: 2014 Challengers Vacation Pack",
+      "file": "missing/U/225146-ultra-street-fighter-iv-2014-challengers-vacation-pack.json"
+    },
+    {
+      "igdb_id": 225147,
+      "game_name": "Ultra Street Fighter IV: 2014 Challengers Wild Pack",
+      "file": "missing/U/225147-ultra-street-fighter-iv-2014-challengers-wild-pack.json"
+    },
+    {
+      "igdb_id": 225154,
+      "game_name": "Ultra Street Fighter IV: Arcade Challengers Horror Pack",
+      "file": "missing/U/225154-ultra-street-fighter-iv-arcade-challengers-horror-pack.json"
+    },
+    {
+      "igdb_id": 225148,
+      "game_name": "Ultra Street Fighter IV: Arcade Challengers Pack 2011",
+      "file": "missing/U/225148-ultra-street-fighter-iv-arcade-challengers-pack-2011.json"
+    },
+    {
+      "igdb_id": 225149,
+      "game_name": "Ultra Street Fighter IV: Arcade Challengers Vacation Pack",
+      "file": "missing/U/225149-ultra-street-fighter-iv-arcade-challengers-vacation-pack.json"
+    },
+    {
+      "igdb_id": 225150,
+      "game_name": "Ultra Street Fighter IV: Arcade Challengers Wild Pack",
+      "file": "missing/U/225150-ultra-street-fighter-iv-arcade-challengers-wild-pack.json"
+    },
+    {
+      "igdb_id": 225151,
+      "game_name": "Ultra Street Fighter IV: Brawler Horror Pack",
+      "file": "missing/U/225151-ultra-street-fighter-iv-brawler-horror-pack.json"
+    },
+    {
+      "igdb_id": 225152,
+      "game_name": "Ultra Street Fighter IV: Brawler Vacation Pack",
+      "file": "missing/U/225152-ultra-street-fighter-iv-brawler-vacation-pack.json"
+    },
+    {
+      "igdb_id": 225153,
+      "game_name": "Ultra Street Fighter IV: Brawler Wild Pack",
+      "file": "missing/U/225153-ultra-street-fighter-iv-brawler-wild-pack.json"
+    },
+    {
+      "igdb_id": 225155,
+      "game_name": "Ultra Street Fighter IV: Challengers Horror Pack 1",
+      "file": "missing/U/225155-ultra-street-fighter-iv-challengers-horror-pack-1.json"
+    },
+    {
+      "igdb_id": 225156,
+      "game_name": "Ultra Street Fighter IV: Challengers Horror Pack 2",
+      "file": "missing/U/225156-ultra-street-fighter-iv-challengers-horror-pack-2.json"
+    },
+    {
+      "igdb_id": 225157,
+      "game_name": "Ultra Street Fighter IV: Challengers Vacation Pack 1",
+      "file": "missing/U/225157-ultra-street-fighter-iv-challengers-vacation-pack-1.json"
+    },
+    {
+      "igdb_id": 225158,
+      "game_name": "Ultra Street Fighter IV: Challengers Vacation Pack 2",
+      "file": "missing/U/225158-ultra-street-fighter-iv-challengers-vacation-pack-2.json"
+    },
+    {
+      "igdb_id": 225159,
+      "game_name": "Ultra Street Fighter IV: Challengers Wild Pack 1",
+      "file": "missing/U/225159-ultra-street-fighter-iv-challengers-wild-pack-1.json"
+    },
+    {
+      "igdb_id": 225134,
+      "game_name": "Ultra Street Fighter IV: Complete Brawler Pack 2011",
+      "file": "missing/U/225134-ultra-street-fighter-iv-complete-brawler-pack-2011.json"
+    },
+    {
+      "igdb_id": 225139,
+      "game_name": "Ultra Street Fighter IV: Complete Challengers 1 Pack 2011",
+      "file": "missing/U/225139-ultra-street-fighter-iv-complete-challengers-1-pack-2011.json"
+    },
+    {
+      "igdb_id": 225135,
+      "game_name": "Ultra Street Fighter IV: Complete Challengers 2 Pack 2011",
+      "file": "missing/U/225135-ultra-street-fighter-iv-complete-challengers-2-pack-2011.json"
+    },
+    {
+      "igdb_id": 225136,
+      "game_name": "Ultra Street Fighter IV: Complete Classic Pack 2011",
+      "file": "missing/U/225136-ultra-street-fighter-iv-complete-classic-pack-2011.json"
+    },
+    {
+      "igdb_id": 225144,
+      "game_name": "Ultra Street Fighter IV: Complete Femme Fatale Pack 2011",
+      "file": "missing/U/225144-ultra-street-fighter-iv-complete-femme-fatale-pack-2011.json"
+    },
+    {
+      "igdb_id": 225137,
+      "game_name": "Ultra Street Fighter IV: Complete Shadoloo Pack 2011",
+      "file": "missing/U/225137-ultra-street-fighter-iv-complete-shadoloo-pack-2011.json"
+    },
+    {
+      "igdb_id": 225138,
+      "game_name": "Ultra Street Fighter IV: Complete Shoryuken Pack 2011",
+      "file": "missing/U/225138-ultra-street-fighter-iv-complete-shoryuken-pack-2011.json"
+    },
+    {
+      "igdb_id": 225140,
+      "game_name": "Ultra Street Fighter IV: Femme Fatale Horror Pack",
+      "file": "missing/U/225140-ultra-street-fighter-iv-femme-fatale-horror-pack.json"
+    },
+    {
+      "igdb_id": 225141,
+      "game_name": "Ultra Street Fighter IV: Femme Fatale Vacation Pack",
+      "file": "missing/U/225141-ultra-street-fighter-iv-femme-fatale-vacation-pack.json"
+    },
+    {
+      "igdb_id": 225142,
+      "game_name": "Ultra Street Fighter IV: Femme Fatale Wild Pack",
+      "file": "missing/U/225142-ultra-street-fighter-iv-femme-fatale-wild-pack.json"
+    },
+    {
+      "igdb_id": 225143,
+      "game_name": "Ultra Street Fighter IV: Shadaloo Horror Pack",
+      "file": "missing/U/225143-ultra-street-fighter-iv-shadaloo-horror-pack.json"
+    },
+    {
       "igdb_id": 150057,
       "game_name": "Ultra Violet",
       "file": "missing/U/150057-ultra-violet.json"
@@ -398801,6 +399046,11 @@
       "igdb_id": 167249,
       "game_name": "Unbound",
       "file": "missing/U/167249-unbound.json"
+    },
+    {
+      "igdb_id": 225178,
+      "game_name": "Unboxing",
+      "file": "missing/U/225178-unboxing.json"
     },
     {
       "igdb_id": 334104,
