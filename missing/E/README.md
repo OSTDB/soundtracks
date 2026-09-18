@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eBaseball: Pro Spirit 2026 | 410262 | [410262-ebaseball-pro-spirit-2026.json](./410262-ebaseball-pro-spirit-2026.json) |
 | Eberouge | 97318 | [97318-eberouge.json](./97318-eberouge.json) |
 | EbiTapes | 238731 | [238731-ebitapes.json](./238731-ebitapes.json) |
+| Ebola 3 | 216312 | [216312-ebola-3.json](./216312-ebola-3.json) |
 | Ebonstar | 57627 | [57627-ebonstar.json](./57627-ebonstar.json) |
 | Ebontale | 179184 | [179184-ebontale.json](./179184-ebontale.json) |
 | Ebullition LBVR | 121769 | [121769-ebullition-lbvr.json](./121769-ebullition-lbvr.json) |
