@@ -1947,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
 | Hidden Object Ancient Dragons | 104624 | [104624-hidden-object-ancient-dragons.json](./104624-hidden-object-ancient-dragons.json) |
 | Hidden Object Bachelorette | 102733 | [102733-hidden-object-bachelorette.json](./102733-hidden-object-bachelorette.json) |
+| Hidden Object Classic: Treasures II | 209037 | [209037-hidden-object-classic-treasures-ii.json](./209037-hidden-object-classic-treasures-ii.json) |
 | Hidden Object Mystery: Ghostly Manor | 105961 | [105961-hidden-object-mystery-ghostly-manor.json](./105961-hidden-object-mystery-ghostly-manor.json) |
 | Hidden Object Vacation | 217016 | [217016-hidden-object-vacation.json](./217016-hidden-object-vacation.json) |
 | Hidden Object Wedding Day | 100741 | [100741-hidden-object-wedding-day.json](./100741-hidden-object-wedding-day.json) |
