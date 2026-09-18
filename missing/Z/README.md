@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies and Orcs | 327822 | [327822-zombies-and-orcs.json](./327822-zombies-and-orcs.json) |
 | Zombies and Strangers | 350512 | [350512-zombies-and-strangers.json](./350512-zombies-and-strangers.json) |
 | Zombies Around Us | 197319 | [197319-zombies-around-us.json](./197319-zombies-around-us.json) |
+| Zombies ate my dog | 192813 | [192813-zombies-ate-my-dog.json](./192813-zombies-ate-my-dog.json) |
 | Zombies Ate My Femboy | 355618 | [355618-zombies-ate-my-femboy.json](./355618-zombies-ate-my-femboy.json) |
 | Zombies Beyond Me | 166718 | [166718-zombies-beyond-me.json](./166718-zombies-beyond-me.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
@@ -535,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombMe | 343795 | [343795-zombme.json](./343795-zombme.json) |
 | Zombobox: Bredo Story | 405602 | [405602-zombobox-bredo-story.json](./405602-zombobox-bredo-story.json) |
 | Zombocalypse | 345559 | [345559-zombocalypse.json](./345559-zombocalypse.json) |
+| Zombodrive | 192826 | [192826-zombodrive.json](./192826-zombodrive.json) |
 | Zombotron | 77488 | [77488-zombotron.json](./77488-zombotron.json) |
 | Zombotron Re-Boot | 275690 | [275690-zombotron-re-boot.json](./275690-zombotron-re-boot.json) |
 | Zombreak: The Last Escape | 250970 | [250970-zombreak-the-last-escape.json](./250970-zombreak-the-last-escape.json) |
