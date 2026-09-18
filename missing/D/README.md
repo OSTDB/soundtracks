@@ -1097,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Maze | 156601 | [156601-deadly-maze.json](./156601-deadly-maze.json) |
 | Deadly Metal | 31788 | [31788-deadly-metal.json](./31788-deadly-metal.json) |
 | Deadly Metropolis | 359516 | [359516-deadly-metropolis.json](./359516-deadly-metropolis.json) |
+| Deadly Night | 207405 | [207405-deadly-night.json](./207405-deadly-night.json) |
 | Deadly Parkour | 295407 | [295407-deadly-parkour.json](./295407-deadly-parkour.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
 | Deadly Secret Beneath the Dark Wood | 269657 | [269657-deadly-secret-beneath-the-dark-wood.json](./269657-deadly-secret-beneath-the-dark-wood.json) |
@@ -2163,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Affliction | 26681 | [26681-devils-affliction.json](./26681-devils-affliction.json) |
 | Devil's Crown | 13592 | [13592-devils-crown.json](./13592-devils-crown.json) |
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
+| Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
 | Devil's Food | 301952 | [301952-devils-food.json](./301952-devils-food.json) |
 | Devil's Hideout | 285016 | [285016-devils-hideout.json](./285016-devils-hideout.json) |
 | Devil's Island | 313102 | [313102-devils-island.json](./313102-devils-island.json) |
@@ -4363,6 +4365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming Rainbow | 191824 | [191824-dreaming-rainbow.json](./191824-dreaming-rainbow.json) |
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
 | Dreaming with You | 267474 | [267474-dreaming-with-you.json](./267474-dreaming-with-you.json) |
+| DreamIsland | 207357 | [207357-dreamisland.json](./207357-dreamisland.json) |
 | Dreamjob: Programmer | 132801 | [132801-dreamjob-programmer.json](./132801-dreamjob-programmer.json) |
 | Dreamland | 207308 | [207308-dreamland.json](./207308-dreamland.json) |
 | Dreamland Arcade | 310572 | [310572-dreamland-arcade.json](./310572-dreamland-arcade.json) |
