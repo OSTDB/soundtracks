@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats in Cozy Rooms | 332980 | [332980-cats-in-cozy-rooms.json](./332980-cats-in-cozy-rooms.json) |
 | Cats in Heat: Summer Fling | 234737 | [234737-cats-in-heat-summer-fling.json](./234737-cats-in-heat-summer-fling.json) |
 | Cats in Hell | 201768 | [201768-cats-in-hell.json](./201768-cats-in-hell.json) |
+| Cats Kill Zombies | 225183 | [225183-cats-kill-zombies.json](./225183-cats-kill-zombies.json) |
 | Cats Logic | 334092 | [334092-cats-logic.json](./334092-cats-logic.json) |
 | Cats n Wires | 177476 | [177476-cats-n-wires.json](./177476-cats-n-wires.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
