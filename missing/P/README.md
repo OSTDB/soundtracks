@@ -2999,8 +2999,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: Mythical Wishes | 227940 | [227940-pokemon-go-mythical-wishes.json](./227940-pokemon-go-mythical-wishes.json) |
 | Pokémon Go: Season of Alola | 218482 | [218482-pokemon-go-season-of-alola.json](./218482-pokemon-go-season-of-alola.json) |
 | Pokémon Go: Season of Discovery | 218496 | [218496-pokemon-go-season-of-discovery.json](./218496-pokemon-go-season-of-discovery.json) |
+| Pokémon Go: Season of Go | 215758 | [215758-pokemon-go-season-of-go.json](./215758-pokemon-go-season-of-go.json) |
 | Pokémon Go: Season of Heritage | 218486 | [218486-pokemon-go-season-of-heritage.json](./218486-pokemon-go-season-of-heritage.json) |
 | Pokémon Go: Season of Legends | 218502 | [218502-pokemon-go-season-of-legends.json](./218502-pokemon-go-season-of-legends.json) |
+| Pokémon Go: Season of Light | 215759 | [215759-pokemon-go-season-of-light.json](./215759-pokemon-go-season-of-light.json) |
 | Pokémon Go: Season of Mischief | 218487 | [218487-pokemon-go-season-of-mischief.json](./218487-pokemon-go-season-of-mischief.json) |
 | Pokémon Goita | 377713 | [377713-pokemon-goita.json](./377713-pokemon-goita.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
