@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text Tiles | 46564 | [46564-text-tiles.json](./46564-text-tiles.json) |
 | Text Wall | 339272 | [339272-text-wall.json](./339272-text-wall.json) |
 | Text Your Life | 339270 | [339270-text-your-life.json](./339270-text-your-life.json) |
+| Textiling | 182904 | [182904-textiling.json](./182904-textiling.json) |
 | TextQuests | 397056 | [397056-textquests.json](./397056-textquests.json) |
 | Textris | 62713 | [62713-textris.json](./62713-textris.json) |
 | TextTwist 2 | 92504 | [92504-texttwist-2.json](./92504-texttwist-2.json) |
@@ -2221,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cleaner | 403681 | [403681-the-cleaner.json](./403681-the-cleaner.json) |
 | The Climate Trail | 122332 | [122332-the-climate-trail.json](./122332-the-climate-trail.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
+| The Clock Chronicle | 182915 | [182915-the-clock-chronicle.json](./182915-the-clock-chronicle.json) |
 | The Clockwork Labyrinth | 166704 | [166704-the-clockwork-labyrinth.json](./166704-the-clockwork-labyrinth.json) |
 | The Closed Circle | 226313 | [226313-the-closed-circle.json](./226313-the-closed-circle.json) |
 | The Clotted Island | 128591 | [128591-the-clotted-island.json](./128591-the-clotted-island.json) |
@@ -8980,6 +8982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Tennis | 255698 | [255698-trigger-tennis.json](./255698-trigger-tennis.json) |
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
 | TriggerHeart Exelica Enhanced | 326579 | [326579-triggerheart-exelica-enhanced.json](./326579-triggerheart-exelica-enhanced.json) |
+| Triggore | 182913 | [182913-triggore.json](./182913-triggore.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
 | Trigonarium | 34718 | [34718-trigonarium.json](./34718-trigonarium.json) |
 | Trigonometry | 75792 | [75792-trigonometry.json](./75792-trigonometry.json) |
