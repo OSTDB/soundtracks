@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean City Killer | 353978 | [353978-ocean-city-killer.json](./353978-ocean-city-killer.json) |
 | Ocean Drift | 233521 | [233521-ocean-drift.json](./233521-ocean-drift.json) |
 | Ocean Drive Challenge Remastered | 127220 | [127220-ocean-drive-challenge-remastered.json](./127220-ocean-drive-challenge-remastered.json) |
+| Ocean Explorer Tycoon | 209030 | [209030-ocean-explorer-tycoon.json](./209030-ocean-explorer-tycoon.json) |
 | Ocean Fishooter | 381737 | [381737-ocean-fishooter.json](./381737-ocean-fishooter.json) |
 | Ocean Gap | 285446 | [285446-ocean-gap.json](./285446-ocean-gap.json) |
 | Ocean Is Home | 224782 | [224782-ocean-is-home.json](./224782-ocean-is-home.json) |
@@ -122,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Protector | 264104 | [264104-ocean-protector.json](./264104-ocean-protector.json) |
 | Ocean Runner | 58776 | [58776-ocean-runner.json](./58776-ocean-runner.json) |
 | Ocean Scramble: Age of Exploration | 261863 | [261863-ocean-scramble-age-of-exploration.json](./261863-ocean-scramble-age-of-exploration.json) |
+| Ocean Voyager | 209028 | [209028-ocean-voyager.json](./209028-ocean-voyager.json) |
 | Ocean's Crabellum | 74372 | [74372-oceans-crabellum.json](./74372-oceans-crabellum.json) |
 | Oceanhorn: Monster of Uncharted Seas | 18975 | [18975-oceanhorn-monster-of-uncharted-seas.json](./18975-oceanhorn-monster-of-uncharted-seas.json) |
 | Oceanic Discoveries Duo | 271830 | [271830-oceanic-discoveries-duo.json](./271830-oceanic-discoveries-duo.json) |
@@ -469,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Om Nom: Run 2 - Emerald Edition | 396923 | [396923-om-nom-run-2-emerald-edition.json](./396923-om-nom-run-2-emerald-edition.json) |
 | Omakase! Savers | 275605 | [275605-omakase-savers.json](./275605-omakase-savers.json) |
 | Omamori | 185069 | [185069-omamori.json](./185069-omamori.json) |
+| Omar Sharif Bridge II | 208997 | [208997-omar-sharif-bridge-ii.json](./208997-omar-sharif-bridge-ii.json) |
 | Omashu: Snail Racing | 357219 | [357219-omashu-snail-racing.json](./357219-omashu-snail-racing.json) |
 | Omber | 208576 | [208576-omber.json](./208576-omber.json) |
 | Omega | 336352 | [336352-omega.json](./336352-omega.json) |
@@ -816,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Shot Outlaw | 212461 | [212461-one-shot-outlaw.json](./212461-one-shot-outlaw.json) |
 | One show only | 25620 | [25620-one-show-only.json](./25620-one-show-only.json) |
 | One Slime Army | 307597 | [307597-one-slime-army.json](./307597-one-slime-army.json) |
+| One Small Square Backyard | 209024 | [209024-one-small-square-backyard.json](./209024-one-small-square-backyard.json) |
 | One Strike | 28695 | [28695-one-strike.json](./28695-one-strike.json) |
 | One Strike: Complete Edition | 238181 | [238181-one-strike-complete-edition.json](./238181-one-strike-complete-edition.json) |
 | One Strike: Rise of Dragons | 238180 | [238180-one-strike-rise-of-dragons.json](./238180-one-strike-rise-of-dragons.json) |
@@ -1012,6 +1016,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenFront | 333095 | [333095-openfront.json](./333095-openfront.json) |
 | OpenGoal: Jak II | 275306 | [275306-opengoal-jak-ii.json](./275306-opengoal-jak-ii.json) |
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
+| Opening Weekend: Bear Season | 208993 | [208993-opening-weekend-bear-season.json](./208993-opening-weekend-bear-season.json) |
+| Opening Weekend: Big Cat Season | 208992 | [208992-opening-weekend-big-cat-season.json](./208992-opening-weekend-big-cat-season.json) |
 | OpenLoco | 138233 | [138233-openloco.json](./138233-openloco.json) |
 | OpenMMO | 410878 | [410878-openmmo.json](./410878-openmmo.json) |
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
@@ -1066,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Cheek Clapper | 123551 | [123551-operation-cheek-clapper.json](./123551-operation-cheek-clapper.json) |
 | Operation: Get Bike Back | 270705 | [270705-operation-get-bike-back.json](./270705-operation-get-bike-back.json) |
 | Operation: Hostage Rescue | 337987 | [337987-operation-hostage-rescue.json](./337987-operation-hostage-rescue.json) |
+| Operation: Hostage Rescue - Close Quarters Combat | 208989 | [208989-operation-hostage-rescue-close-quarters-combat.json](./208989-operation-hostage-rescue-close-quarters-combat.json) |
 | Operation: Inner Space | 69216 | [69216-operation-inner-space.json](./69216-operation-inner-space.json) |
 | Operation: Ops | 184651 | [184651-operation-ops.json](./184651-operation-ops.json) |
 | Operation: Outbreak Idle | 405539 | [405539-operation-outbreak-idle.json](./405539-operation-outbreak-idle.json) |
@@ -1737,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oyako de Manabu SDGs | 256269 | [256269-oyako-de-manabu-sdgs.json](./256269-oyako-de-manabu-sdgs.json) |
 | Oystron | 40734 | [40734-oystron.json](./40734-oystron.json) |
 | Ozmafia!! 0 Reflexion | 254574 | [254574-ozmafia-0-reflexion.json](./254574-ozmafia-0-reflexion.json) |
+| Ozone | 208988 | [208988-ozone.json](./208988-ozone.json) |
 | Ozonia 2 | 327203 | [327203-ozonia-2.json](./327203-ozonia-2.json) |
 | Oztrich: An Adventure | 235829 | [235829-oztrich-an-adventure.json](./235829-oztrich-an-adventure.json) |
 | Ozymandias: Aegean Sea | 235986 | [235986-ozymandias-aegean-sea.json](./235986-ozymandias-aegean-sea.json) |
