@@ -1213,6 +1213,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice and Smith: Complete Library | 52589 | [52589-alice-and-smith-complete-library.json](./52589-alice-and-smith-complete-library.json) |
 | Alice and the Magical Islands | 371312 | [371312-alice-and-the-magical-islands.json](./371312-alice-and-the-magical-islands.json) |
 | Alice Closet | 159283 | [159283-alice-closet.json](./159283-alice-closet.json) |
+| Alice Gear Aegis CS: Concerto of Simulatrix | 198385 | [198385-alice-gear-aegis-cs-concerto-of-simulatrix.json](./198385-alice-gear-aegis-cs-concerto-of-simulatrix.json) |
+| Alice Gear Aegis CS: Concerto of Simulatrix - Limited Edition | 198386 | [198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json](./198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json) |
 | Alice in Dinerland | 257962 | [257962-alice-in-dinerland.json](./257962-alice-in-dinerland.json) |
 | Alice in the Nightmare Land | 267097 | [267097-alice-in-the-nightmare-land.json](./267097-alice-in-the-nightmare-land.json) |
 | Alice in Windowland | 218120 | [218120-alice-in-windowland.json](./218120-alice-in-windowland.json) |
