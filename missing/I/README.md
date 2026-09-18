@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
 | Iconic | 356704 | [356704-iconic.json](./356704-iconic.json) |
 | Icontrivia: Guess the Character | 233746 | [233746-icontrivia-guess-the-character.json](./233746-icontrivia-guess-the-character.json) |
+| Icontrivia: Guess the Dogs | 233101 | [233101-icontrivia-guess-the-dogs.json](./233101-icontrivia-guess-the-dogs.json) |
 | Icy Fishes | 286643 | [286643-icy-fishes.json](./286643-icy-fishes.json) |
 | Icy Incline | 296919 | [296919-icy-incline.json](./296919-icy-incline.json) |
 | Icy Spell | 294863 | [294863-icy-spell.json](./294863-icy-spell.json) |
