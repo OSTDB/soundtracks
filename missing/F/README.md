@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Crystal Chronicles - Remastered Edition | 109276 | [109276-final-fantasy-crystal-chronicles-remastered-edition.json](./109276-final-fantasy-crystal-chronicles-remastered-edition.json) |
 | Final Fantasy: Crystal Chronicles - The Crystal Bearers | 401 | [401-final-fantasy-crystal-chronicles-the-crystal-bearers.json](./401-final-fantasy-crystal-chronicles-the-crystal-bearers.json) |
 | Final Fantasy: Pixel Remaster Collection | 159253 | [159253-final-fantasy-pixel-remaster-collection.json](./159253-final-fantasy-pixel-remaster-collection.json) |
+| Final Fight 3 | 223016 | [223016-final-fight-3.json](./223016-final-fight-3.json) |
 | Final Fight Guy | 42554 | [42554-final-fight-guy.json](./42554-final-fight-guy.json) |
 | Final Fight One | 1663 | [1663-final-fight-one.json](./1663-final-fight-one.json) |
 | Final Fight: Streetwise | 1660 | [1660-final-fight-streetwise.json](./1660-final-fight-streetwise.json) |
