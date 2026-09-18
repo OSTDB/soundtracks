@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sagashimono ha, Natsu desuka. | 263237 | [263237-sagashimono-ha-natsu-desuka.json](./263237-sagashimono-ha-natsu-desuka.json) |
 | Sage Mountain | 118331 | [118331-sage-mountain.json](./118331-sage-mountain.json) |
 | Sages Of Kaboom | 255989 | [255989-sages-of-kaboom.json](./255989-sages-of-kaboom.json) |
+| Saghala: Heroes of the Last World | 195646 | [195646-saghala-heroes-of-the-last-world.json](./195646-saghala-heroes-of-the-last-world.json) |
 | Sagittarius: The Lost and Cursed | 352225 | [352225-sagittarius-the-lost-and-cursed.json](./352225-sagittarius-the-lost-and-cursed.json) |
 | Sago Mini Forest Flyer | 200108 | [200108-sago-mini-forest-flyer.json](./200108-sago-mini-forest-flyer.json) |
 | SAHUR: Escape Together | 367936 | [367936-sahur-escape-together.json](./367936-sahur-escape-together.json) |
@@ -1093,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroll Driver Lite | 232157 | [232157-scroll-driver-lite.json](./232157-scroll-driver-lite.json) |
 | Scroll Extreme | 22266 | [22266-scroll-extreme.json](./22266-scroll-extreme.json) |
 | Scroll of Life | 192391 | [192391-scroll-of-life.json](./192391-scroll-of-life.json) |
+| Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
 | Scruffy 3: A Day in the Life | 265683 | [265683-scruffy-3-a-day-in-the-life.json](./265683-scruffy-3-a-day-in-the-life.json) |
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
 | Scrunk | 104027 | [104027-scrunk.json](./104027-scrunk.json) |
@@ -1822,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Cyberpunk Puzzle | 244881 | [244881-sexy-cyberpunk-puzzle.json](./244881-sexy-cyberpunk-puzzle.json) |
 | Sexy Elf | 226199 | [226199-sexy-elf.json](./226199-sexy-elf.json) |
 | Sexy Erotic Xtreme Club | 362363 | [362363-sexy-erotic-xtreme-club.json](./362363-sexy-erotic-xtreme-club.json) |
+| Sexy Exile | 195610 | [195610-sexy-exile.json](./195610-sexy-exile.json) |
 | Sexy Futa: Mecha Battles of Islands | 310424 | [310424-sexy-futa-mecha-battles-of-islands.json](./310424-sexy-futa-mecha-battles-of-islands.json) |
 | Sexy Girl Next Door: Virtual Valentine Sex | 311991 | [311991-sexy-girl-next-door-virtual-valentine-sex.json](./311991-sexy-girl-next-door-virtual-valentine-sex.json) |
 | Sexy Girls | 111721 | [111721-sexy-girls.json](./111721-sexy-girls.json) |
@@ -6709,6 +6712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Conflicts | 174906 | [174906-squad-conflicts.json](./174906-squad-conflicts.json) |
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
 | Squally | 111118 | [111118-squally.json](./111118-squally.json) |
+| Square | 195626 | [195626-square.json](./195626-square.json) |
 | Square | 208591 | [208591-square.json](./208591-square.json) |
 | Square | 247020 | [247020-square.json](./247020-square.json) |
 | Square & Circles | 352292 | [352292-square-and-circles.json](./352292-square-and-circles.json) |
@@ -9130,6 +9134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Winter Puzzles | 155611 | [155611-super-jigsaw-puzzle-generations-winter-puzzles.json](./155611-super-jigsaw-puzzle-generations-winter-puzzles.json) |
 | Super Jigsaw Puzzle: Monuments | 103792 | [103792-super-jigsaw-puzzle-monuments.json](./103792-super-jigsaw-puzzle-monuments.json) |
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
+| Super Kakuro: Cross Sums | 195632 | [195632-super-kakuro-cross-sums.json](./195632-super-kakuro-cross-sums.json) |
 | Super Karoshi | 201134 | [201134-super-karoshi.json](./201134-super-karoshi.json) |
 | Super Kart Racer | 267954 | [267954-super-kart-racer.json](./267954-super-kart-racer.json) |
 | Super Karts | 50614 | [50614-super-karts.json](./50614-super-karts.json) |
@@ -9993,6 +9998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Cells | 199590 | [199590-survivor-cells.json](./199590-survivor-cells.json) |
 | Survivor Cells: Virusbane | 310389 | [310389-survivor-cells-virusbane.json](./310389-survivor-cells-virusbane.json) |
 | Survivor Challenge TD | 276158 | [276158-survivor-challenge-td.json](./276158-survivor-challenge-td.json) |
+| Survivor Day | 195599 | [195599-survivor-day.json](./195599-survivor-day.json) |
 | Survivor Idle Run | 248124 | [248124-survivor-idle-run.json](./248124-survivor-idle-run.json) |
 | Survivor of the Journey | 210892 | [210892-survivor-of-the-journey.json](./210892-survivor-of-the-journey.json) |
 | Survivor TD | 391574 | [391574-survivor-td.json](./391574-survivor-td.json) |
