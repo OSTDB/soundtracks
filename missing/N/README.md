@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notrium | 35751 | [35751-notrium.json](./35751-notrium.json) |
 | Nou wo Kitaeru! Zekkei Shashin de Machigai-sagashi | 261371 | [261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json](./261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json) |
 | Nouen Hokkoriina | 335107 | [335107-nouen-hokkoriina.json](./335107-nouen-hokkoriina.json) |
+| Noukk | 197757 | [197757-noukk.json](./197757-noukk.json) |
 | Noumisou Journey | 274557 | [274557-noumisou-journey.json](./274557-noumisou-journey.json) |
 | Nous | 142387 | [142387-nous.json](./142387-nous.json) |
 | Nous | 231094 | [231094-nous.json](./231094-nous.json) |
