@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Talks | 225267 | [225267-late-night-talks.json](./225267-late-night-talks.json) |
 | Late Night Wanderer | 98476 | [98476-late-night-wanderer.json](./98476-late-night-wanderer.json) |
 | Late Photographer | 367995 | [367995-late-photographer.json](./367995-late-photographer.json) |
+| Late Photographer 3 | 192288 | [192288-late-photographer-3.json](./192288-late-photographer-3.json) |
 | Late Photographer 4 | 199567 | [199567-late-photographer-4.json](./199567-late-photographer-4.json) |
 | Late Photographer 5 | 201148 | [201148-late-photographer-5.json](./201148-late-photographer-5.json) |
 | Late Photographer 6 | 228086 | [228086-late-photographer-6.json](./228086-late-photographer-6.json) |
@@ -2529,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love: A Puzzle Box Filled with Stories | 139280 | [139280-love-a-puzzle-box-filled-with-stories.json](./139280-love-a-puzzle-box-filled-with-stories.json) |
 | Love's Eternal Wishes | 298898 | [298898-loves-eternal-wishes.json](./298898-loves-eternal-wishes.json) |
 | Love's Hella Punk | 239868 | [239868-loves-hella-punk.json](./239868-loves-hella-punk.json) |
+| Love's Power Mahjong | 192312 | [192312-loves-power-mahjong.json](./192312-loves-power-mahjong.json) |
 | Love+ | 80609 | [80609-love.json](./80609-love.json) |
 | LoveAndComplex | 311276 | [311276-loveandcomplex.json](./311276-loveandcomplex.json) |
 | LoveArena | 385051 | [385051-lovearena.json](./385051-lovearena.json) |
