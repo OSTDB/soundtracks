@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Detective Archives: Rain Code - Ch. Halara: Raining Cats & Dog | 268575 | [268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json](./268575-master-detective-archives-rain-code-ch-halara-raining-cats-and-dog.json) |
 | Master Detective Archives: Rain Code - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective | 268772 | [268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json](./268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json) |
 | Master Detective Archives: Rain Code Plus | 300724 | [300724-master-detective-archives-rain-code-plus.json](./300724-master-detective-archives-rain-code-plus.json) |
+| Master Fighter VI' | 223027 | [223027-master-fighter-vi.json](./223027-master-fighter-vi.json) |
 | Master Golf | 247008 | [247008-master-golf.json](./247008-master-golf.json) |
 | Master Labyrinth | 45915 | [45915-master-labyrinth.json](./45915-master-labyrinth.json) |
 | Master Leaf Blower | 317024 | [317024-master-leaf-blower.json](./317024-master-leaf-blower.json) |
@@ -4669,12 +4670,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Ultimate | 139446 | [139446-mortal-kombat-11-ultimate.json](./139446-mortal-kombat-11-ultimate.json) |
 | Mortal Kombat 3 | 1620 | [1620-mortal-kombat-3.json](./1620-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 217929 | [217929-mortal-kombat-3.json](./217929-mortal-kombat-3.json) |
+| Mortal Kombat 3 | 223026 | [223026-mortal-kombat-3.json](./223026-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 242251 | [242251-mortal-kombat-3.json](./242251-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 242252 | [242252-mortal-kombat-3.json](./242252-mortal-kombat-3.json) |
 | Mortal Kombat 4 | 200683 | [200683-mortal-kombat-4.json](./200683-mortal-kombat-4.json) |
 | Mortal Kombat Advance | 45156 | [45156-mortal-kombat-advance.json](./45156-mortal-kombat-advance.json) |
 | Mortal Kombat Gold | 45155 | [45155-mortal-kombat-gold.json](./45155-mortal-kombat-gold.json) |
 | Mortal Kombat HD Arcade Kollection | 44618 | [44618-mortal-kombat-hd-arcade-kollection.json](./44618-mortal-kombat-hd-arcade-kollection.json) |
+| Mortal Kombat II | 223018 | [223018-mortal-kombat-ii.json](./223018-mortal-kombat-ii.json) |
 | Mortal Kombat II | 239169 | [239169-mortal-kombat-ii.json](./239169-mortal-kombat-ii.json) |
 | Mortal Kombat II | 242248 | [242248-mortal-kombat-ii.json](./242248-mortal-kombat-ii.json) |
 | Mortal Kombat II | 242249 | [242249-mortal-kombat-ii.json](./242249-mortal-kombat-ii.json) |
