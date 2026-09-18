@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valley of Decay | 119677 | [119677-valley-of-decay.json](./119677-valley-of-decay.json) |
 | Valley of Shadow | 164970 | [164970-valley-of-shadow.json](./164970-valley-of-shadow.json) |
 | Valley of Stars | 338576 | [338576-valley-of-stars.json](./338576-valley-of-stars.json) |
+| Valley of the Moon | 184485 | [184485-valley-of-the-moon.json](./184485-valley-of-the-moon.json) |
 | Valley of Tribes | 338575 | [338575-valley-of-tribes.json](./338575-valley-of-tribes.json) |
 | Valley of Unicorns | 24948 | [24948-valley-of-unicorns.json](./24948-valley-of-unicorns.json) |
 | Valley Peaks | 177031 | [177031-valley-peaks.json](./177031-valley-peaks.json) |
@@ -695,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violent Vengeance: The Universe Hero | 365667 | [365667-violent-vengeance-the-universe-hero.json](./365667-violent-vengeance-the-universe-hero.json) |
 | Violent Witches: the Vindicator | 158188 | [158188-violent-witches-the-vindicator.json](./158188-violent-witches-the-vindicator.json) |
 | Violentolitin | 201787 | [201787-violentolitin.json](./201787-violentolitin.json) |
+| Violet | 184526 | [184526-violet.json](./184526-violet.json) |
 | Violet | 265152 | [265152-violet.json](./265152-violet.json) |
 | Violett | 18734 | [18734-violett.json](./18734-violett.json) |
 | Violin Paradise | 85474 | [85474-violin-paradise.json](./85474-violin-paradise.json) |
