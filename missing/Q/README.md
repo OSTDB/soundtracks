@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Dan | 379335 | [379335-quiet-dan.json](./379335-quiet-dan.json) |
 | Quiet House Massacre | 317023 | [317023-quiet-house-massacre.json](./317023-quiet-house-massacre.json) |
 | Quiet in the Library | 390688 | [390688-quiet-in-the-library.json](./390688-quiet-in-the-library.json) |
+| Quiet Maple | 184992 | [184992-quiet-maple.json](./184992-quiet-maple.json) |
 | Quiet on Set | 266300 | [266300-quiet-on-set.json](./266300-quiet-on-set.json) |
 | Quiet Rehabilitation | 281411 | [281411-quiet-rehabilitation.json](./281411-quiet-rehabilitation.json) |
 | Quiet us | 184606 | [184606-quiet-us.json](./184606-quiet-us.json) |
