@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GimmickHeart | 253400 | [253400-gimmickheart.json](./253400-gimmickheart.json) |
 | Gin and Wall | 412365 | [412365-gin-and-wall.json](./412365-gin-and-wall.json) |
 | Gin Champion | 46581 | [46581-gin-champion.json](./46581-gin-champion.json) |
+| Gin no Eclipse | 204556 | [204556-gin-no-eclipse.json](./204556-gin-no-eclipse.json) |
 | Gin: The Silver Wind | 275729 | [275729-gin-the-silver-wind.json](./275729-gin-the-silver-wind.json) |
 | Gin's Gunstore | 355546 | [355546-gins-gunstore.json](./355546-gins-gunstore.json) |
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
@@ -2325,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed Realm | 278991 | [278991-greed-realm.json](./278991-greed-realm.json) |
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
+| Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
 | Greedy Frog | 55120 | [55120-greedy-frog.json](./55120-greedy-frog.json) |
 | Greedy Guns | 40556 | [40556-greedy-guns.json](./40556-greedy-guns.json) |
