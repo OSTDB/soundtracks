@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Fire | 241046 | [241046-quick-fire.json](./241046-quick-fire.json) |
 | Quick Golf | 288371 | [288371-quick-golf.json](./288371-quick-golf.json) |
 | Quick Majik Adventure | 171539 | [171539-quick-majik-adventure.json](./171539-quick-majik-adventure.json) |
+| Quick Quack | 201136 | [201136-quick-quack.json](./201136-quick-quack.json) |
 | Quick Scrap | 185111 | [185111-quick-scrap.json](./185111-quick-scrap.json) |
 | Quick Thief | 250351 | [250351-quick-thief.json](./250351-quick-thief.json) |
 | Quick Whiskers | 378183 | [378183-quick-whiskers.json](./378183-quick-whiskers.json) |
