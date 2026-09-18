@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Olympic Games | 365676 | [365676-winter-olympic-games.json](./365676-winter-olympic-games.json) |
 | Winter Shard | 125413 | [125413-winter-shard.json](./125413-winter-shard.json) |
 | Winter Sports 2011: Go for Gold | 27645 | [27645-winter-sports-2011-go-for-gold.json](./27645-winter-sports-2011-go-for-gold.json) |
+| Winter Sports Games: 4K Edition | 192326 | [192326-winter-sports-games-4k-edition.json](./192326-winter-sports-games-4k-edition.json) |
 | Winter Sports: The Ultimate Challenge | 5284 | [5284-winter-sports-the-ultimate-challenge.json](./5284-winter-sports-the-ultimate-challenge.json) |
 | Winter Stealth | 247765 | [247765-winter-stealth.json](./247765-winter-stealth.json) |
 | Winter Survival Simulator | 309661 | [309661-winter-survival-simulator.json](./309661-winter-survival-simulator.json) |
