@@ -5249,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms Jenkins Estate | 217300 | [217300-ms-jenkins-estate.json](./217300-ms-jenkins-estate.json) |
 | Ms Vampire Love to Date With Me | 372548 | [372548-ms-vampire-love-to-date-with-me.json](./372548-ms-vampire-love-to-date-with-me.json) |
 | MS: Space Express | 192285 | [192285-ms-space-express.json](./192285-ms-space-express.json) |
+| Ms. Holmes: Five Orange Pips | 187943 | [187943-ms-holmes-five-orange-pips.json](./187943-ms-holmes-five-orange-pips.json) |
 | Ms. Holmes: Letter M - Collector's Edition | 362847 | [362847-ms-holmes-letter-m-collectors-edition.json](./362847-ms-holmes-letter-m-collectors-edition.json) |
 | Ms. Holmes: The Adventure of the McKirk Ritual - Collector's Edition | 186333 | [186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json](./186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json) |
 | Ms. Holmes: The Monster of the Baskervilles - Collector's Edition | 119688 | [119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json](./119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json) |
@@ -6050,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Box: The Journey | 257360 | [257360-mystery-box-the-journey.json](./257360-mystery-box-the-journey.json) |
 | Mystery Case Files: Dire Grove, Sacred Grove - Collector's Edition | 135809 | [135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json](./135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json) |
 | Mystery Case Files: Escape from Ravenhearst | 5516 | [5516-mystery-case-files-escape-from-ravenhearst.json](./5516-mystery-case-files-escape-from-ravenhearst.json) |
+| Mystery Case Files: Incident at Pendle Tower | 187973 | [187973-mystery-case-files-incident-at-pendle-tower.json](./187973-mystery-case-files-incident-at-pendle-tower.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition | 118336 | [118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json](./118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition & Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 201821 | [201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
 | Mystery Case Files: Prime Suspects | 5510 | [5510-mystery-case-files-prime-suspects.json](./5510-mystery-case-files-prime-suspects.json) |
@@ -6099,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: The Black Raven 6 | 341352 | [341352-mystery-solitaire-the-black-raven-6.json](./341352-mystery-solitaire-the-black-raven-6.json) |
 | Mystery Solving! BrainQuiz | 283278 | [283278-mystery-solving-brainquiz.json](./283278-mystery-solving-brainquiz.json) |
 | Mystery Tales: Her Own Eyes HD - A Hidden Object Mystery (Full) | 90065 | [90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json](./90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json) |
+| Mystery Tales: Master of Puppets | 187948 | [187948-mystery-tales-master-of-puppets.json](./187948-mystery-tales-master-of-puppets.json) |
 | Mystery Tiles Premium | 100958 | [100958-mystery-tiles-premium.json](./100958-mystery-tiles-premium.json) |
 | Mystery Tower | 48589 | [48589-mystery-tower.json](./48589-mystery-tower.json) |
 | Mystery Town - Fun Seek and Find Hidden Object Puzzles | 104122 | [104122-mystery-town-fun-seek-and-find-hidden-object-puzzles.json](./104122-mystery-town-fun-seek-and-find-hidden-object-puzzles.json) |
@@ -6106,13 +6109,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Blackrow's Secret | 201830 | [201830-mystery-trackers-blackrows-secret.json](./201830-mystery-trackers-blackrows-secret.json) |
 | Mystery Trackers: Fall of Iron Rock - Collector's Edition | 235489 | [235489-mystery-trackers-fall-of-iron-rock-collectors-edition.json](./235489-mystery-trackers-fall-of-iron-rock-collectors-edition.json) |
 | Mystery Trackers: Fatal Lesson - Collector's Edition | 253417 | [253417-mystery-trackers-fatal-lesson-collectors-edition.json](./253417-mystery-trackers-fatal-lesson-collectors-edition.json) |
+| Mystery Trackers: Forgotten Voices | 187958 | [187958-mystery-trackers-forgotten-voices.json](./187958-mystery-trackers-forgotten-voices.json) |
+| Mystery Trackers: Memories of Shadowfield | 187942 | [187942-mystery-trackers-memories-of-shadowfield.json](./187942-mystery-trackers-memories-of-shadowfield.json) |
+| Mystery Trackers: Mist Over Blackhill | 187939 | [187939-mystery-trackers-mist-over-blackhill.json](./187939-mystery-trackers-mist-over-blackhill.json) |
 | Mystery Trackers: Nightsville Horror - Collector's Edition | 148475 | [148475-mystery-trackers-nightsville-horror-collectors-edition.json](./148475-mystery-trackers-nightsville-horror-collectors-edition.json) |
 | Mystery Trackers: Nightsville Horror & Winterpoint Tragedy | 201823 | [201823-mystery-trackers-nightsville-horror-and-winterpoint-tragedy.json](./201823-mystery-trackers-nightsville-horror-and-winterpoint-tragedy.json) |
 | Mystery Trackers: Paxton Creek Avenger | 89134 | [89134-mystery-trackers-paxton-creek-avenger.json](./89134-mystery-trackers-paxton-creek-avenger.json) |
 | Mystery Trackers: Paxton Creek Avenger Collector's Edition | 153456 | [153456-mystery-trackers-paxton-creek-avenger-collectors-edition.json](./153456-mystery-trackers-paxton-creek-avenger-collectors-edition.json) |
 | Mystery Trackers: Raincliff's Phantoms | 201829 | [201829-mystery-trackers-raincliffs-phantoms.json](./201829-mystery-trackers-raincliffs-phantoms.json) |
 | Mystery Trackers: Raincliff's Phantoms & Mystery Trackers: Blackrow's Secret | 201817 | [201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json](./201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json) |
+| Mystery Trackers: The Fall of Iron Rock | 187935 | [187935-mystery-trackers-the-fall-of-iron-rock.json](./187935-mystery-trackers-the-fall-of-iron-rock.json) |
+| Mystery Trackers: The Secret of Watch Hill | 187957 | [187957-mystery-trackers-the-secret-of-watch-hill.json](./187957-mystery-trackers-the-secret-of-watch-hill.json) |
 | Mystery Trackers: The Shrouded Village | 416698 | [416698-mystery-trackers-the-shrouded-village.json](./416698-mystery-trackers-the-shrouded-village.json) |
+| Mystery Trackers: Train to Hellswich | 187965 | [187965-mystery-trackers-train-to-hellswich.json](./187965-mystery-trackers-train-to-hellswich.json) |
 | Mystery Voyage | 229777 | [229777-mystery-voyage.json](./229777-mystery-voyage.json) |
 | Mystery: London | 146926 | [146926-mystery-london.json](./146926-mystery-london.json) |
 | MysteryScrolls | 319193 | [319193-mysteryscrolls.json](./319193-mysteryscrolls.json) |
