@@ -1744,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The American Girls Premiere | 18243 | [18243-the-american-girls-premiere.json](./18243-the-american-girls-premiere.json) |
 | The Ampoule | 275702 | [275702-the-ampoule.json](./275702-the-ampoule.json) |
 | The Amulet of AmunRuuuuuN | 157188 | [157188-the-amulet-of-amunruuuuun.json](./157188-the-amulet-of-amunruuuuun.json) |
+| The Anacrusis: Deluxe Edition | 192304 | [192304-the-anacrusis-deluxe-edition.json](./192304-the-anacrusis-deluxe-edition.json) |
 | The Analyst | 211289 | [211289-the-analyst.json](./211289-the-analyst.json) |
 | The Anchorite | 325079 | [325079-the-anchorite.json](./325079-the-anchorite.json) |
 | The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
@@ -5221,6 +5222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tideshell Keeper | 211805 | [211805-the-tideshell-keeper.json](./211805-the-tideshell-keeper.json) |
 | The Tiger T | 210668 | [210668-the-tiger-t.json](./210668-the-tiger-t.json) |
 | The Time Game | 310054 | [310054-the-time-game.json](./310054-the-time-game.json) |
+| The Time Watcher | 192289 | [192289-the-time-watcher.json](./192289-the-time-watcher.json) |
 | The Tiny Bang Story HD | 100154 | [100154-the-tiny-bang-story-hd.json](./100154-the-tiny-bang-story-hd.json) |
 | The Tiny Tale 2 | 35975 | [35975-the-tiny-tale-2.json](./35975-the-tiny-tale-2.json) |
 | The Tolerance Group | 408940 | [408940-the-tolerance-group.json](./408940-the-tolerance-group.json) |
@@ -5725,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zyrdain Sands | 390100 | [390100-the-zyrdain-sands.json](./390100-the-zyrdain-sands.json) |
 | The_Painther | 410884 | [410884-the-painther.json](./410884-the-painther.json) |
 | The.Thend.End | 112992 | [112992-the-thend-end.json](./112992-the-thend-end.json) |
+| Thea Bundle | 192306 | [192306-thea-bundle.json](./192306-thea-bundle.json) |
 | Theater of Death | 206191 | [206191-theater-of-death.json](./206191-theater-of-death.json) |
 | Theater of the Mind | 366286 | [366286-theater-of-the-mind.json](./366286-theater-of-the-mind.json) |
 | Theatre of Death | 15483 | [15483-theatre-of-death.json](./15483-theatre-of-death.json) |
@@ -7070,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toast the Chicken: Hard Puzzle Game Unique Brain Teaser | 232534 | [232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json](./232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
+| Toastling | 192321 | [192321-toastling.json](./192321-toastling.json) |
 | Toasty: Ashes of Dusk | 144275 | [144275-toasty-ashes-of-dusk.json](./144275-toasty-ashes-of-dusk.json) |
 | TOBAFCASS | 12887 | [12887-tobafcass.json](./12887-tobafcass.json) |
 | Tobal 2 | 1662 | [1662-tobal-2.json](./1662-tobal-2.json) |
@@ -7632,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Rad Metal Detector League | 220714 | [220714-totally-rad-metal-detector-league.json](./220714-totally-rad-metal-detector-league.json) |
 | Totally Realistic Unicorn Buffalo Simulator | 142463 | [142463-totally-realistic-unicorn-buffalo-simulator.json](./142463-totally-realistic-unicorn-buffalo-simulator.json) |
 | Totally Reliable Delivery Service: Atari Attire | 381600 | [381600-totally-reliable-delivery-service-atari-attire.json](./381600-totally-reliable-delivery-service-atari-attire.json) |
+| Totally Reliable Delivery Service: Deluxe Edition | 192292 | [192292-totally-reliable-delivery-service-deluxe-edition.json](./192292-totally-reliable-delivery-service-deluxe-edition.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
 | Totally Spies! 4: Around the World | 304040 | [304040-totally-spies-4-around-the-world.json](./304040-totally-spies-4-around-the-world.json) |
 | Totally Spies! Cyber Mission | 302511 | [302511-totally-spies-cyber-mission.json](./302511-totally-spies-cyber-mission.json) |
@@ -8323,6 +8328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trains & Things | 105314 | [105314-trains-and-things.json](./105314-trains-and-things.json) |
 | Trains Vs Zombies 2 | 64392 | [64392-trains-vs-zombies-2.json](./64392-trains-vs-zombies-2.json) |
 | Trains: Through Electric Storms. | 221156 | [221156-trains-through-electric-storms.json](./221156-trains-through-electric-storms.json) |
+| Trains.io | 192296 | [192296-trains-io.json](./192296-trains-io.json) |
 | TrainTastic | 272900 | [272900-traintastic.json](./272900-traintastic.json) |
 | Trainwatch | 355613 | [355613-trainwatch.json](./355613-trainwatch.json) |
 | Trainyard Express | 261861 | [261861-trainyard-express.json](./261861-trainyard-express.json) |
@@ -9402,6 +9408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Breaker: A Sacred Symbols Adventure | 130613 | [130613-twin-breaker-a-sacred-symbols-adventure.json](./130613-twin-breaker-a-sacred-symbols-adventure.json) |
 | Twin Calibre: 688 Attack Sub + Chuck Yeager's Air Combat | 86086 | [86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json](./86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json) |
 | Twin Cards | 277866 | [277866-twin-cards.json](./277866-twin-cards.json) |
+| Twin Circle | 192299 | [192299-twin-circle.json](./192299-twin-circle.json) |
 | Twin Dragons | 159356 | [159356-twin-dragons.json](./159356-twin-dragons.json) |
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
