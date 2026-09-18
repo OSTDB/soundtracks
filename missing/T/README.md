@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco Joe: Endless Taco Tosser | 268451 | [268451-taco-joe-endless-taco-tosser.json](./268451-taco-joe-endless-taco-tosser.json) |
 | Taco Tom 2 | 113047 | [113047-taco-tom-2.json](./113047-taco-tom-2.json) |
 | Taco: Princess from the Moon | 166162 | [166162-taco-princess-from-the-moon.json](./166162-taco-princess-from-the-moon.json) |
+| TacTac Prologue | 198383 | [198383-tactac-prologue.json](./198383-tactac-prologue.json) |
 | Tacti-Cat | 265926 | [265926-tacti-cat.json](./265926-tacti-cat.json) |
 | Tactic Force | 123542 | [123542-tactic-force.json](./123542-tactic-force.json) |
 | Tactic Legends | 310202 | [310202-tactic-legends.json](./310202-tactic-legends.json) |
@@ -1191,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten | 202770 | [202770-ten.json](./202770-ten.json) |
 | Ten Dates | 217256 | [217256-ten-dates.json](./217256-ten-dates.json) |
 | Ten Deadly Games | 378271 | [378271-ten-deadly-games.json](./378271-ten-deadly-games.json) |
+| Ten made Jack: Odoroki Mamenoki Daitoubou!! | 198364 | [198364-ten-made-jack-odoroki-mamenoki-daitoubou.json](./198364-ten-made-jack-odoroki-mamenoki-daitoubou.json) |
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
 | Ten++ | 374132 | [374132-ten.json](./374132-ten.json) |
@@ -3668,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Mir 2 | 51204 | [51204-the-legend-of-mir-2.json](./51204-the-legend-of-mir-2.json) |
 | The Legend of Nayuta: Boundless Trails | 42722 | [42722-the-legend-of-nayuta-boundless-trails.json](./42722-the-legend-of-nayuta-boundless-trails.json) |
 | The Legend of Ninja | 147947 | [147947-the-legend-of-ninja.json](./147947-the-legend-of-ninja.json) |
+| The Legend of Peach | 198374 | [198374-the-legend-of-peach.json](./198374-the-legend-of-peach.json) |
 | The Legend of Peks | 262449 | [262449-the-legend-of-peks.json](./262449-the-legend-of-peks.json) |
 | The Legend Of Perchta | 290003 | [290003-the-legend-of-perchta.json](./290003-the-legend-of-perchta.json) |
 | The Legend of Pirates Online | 140587 | [140587-the-legend-of-pirates-online.json](./140587-the-legend-of-pirates-online.json) |
@@ -3718,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Mystery of Solarus XD | 46620 | [46620-the-legend-of-zelda-mystery-of-solarus-xd.json](./46620-the-legend-of-zelda-mystery-of-solarus-xd.json) |
 | The Legend of Zelda: Netherforce Shards | 322785 | [322785-the-legend-of-zelda-netherforce-shards.json](./322785-the-legend-of-zelda-netherforce-shards.json) |
 | The Legend of Zelda: Nightmare | 255387 | [255387-the-legend-of-zelda-nightmare.json](./255387-the-legend-of-zelda-nightmare.json) |
+| The Legend of Zelda: Ocarina of Time Online | 198341 | [198341-the-legend-of-zelda-ocarina-of-time-online.json](./198341-the-legend-of-zelda-ocarina-of-time-online.json) |
 | The Legend of Zelda: Oracle of Life Online | 324095 | [324095-the-legend-of-zelda-oracle-of-life-online.json](./324095-the-legend-of-zelda-oracle-of-life-online.json) |
 | The Legend of Zelda: Parallel Worlds Remodel | 198543 | [198543-the-legend-of-zelda-parallel-worlds-remodel.json](./198543-the-legend-of-zelda-parallel-worlds-remodel.json) |
 | The Legend of Zelda: Perils of Darkness | 213041 | [213041-the-legend-of-zelda-perils-of-darkness.json](./213041-the-legend-of-zelda-perils-of-darkness.json) |
@@ -4764,6 +4768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shochu Bar | 341011 | [341011-the-shochu-bar.json](./341011-the-shochu-bar.json) |
 | The Shoot | 20408 | [20408-the-shoot.json](./20408-the-shoot.json) |
 | The Shooting & The Helicopter | 203395 | [203395-the-shooting-and-the-helicopter.json](./203395-the-shooting-and-the-helicopter.json) |
+| The Shopping List | 198373 | [198373-the-shopping-list.json](./198373-the-shopping-list.json) |
 | The Short Bread Game | 324900 | [324900-the-short-bread-game.json](./324900-the-short-bread-game.json) |
 | The Show is Over It | 272577 | [272577-the-show-is-over-it.json](./272577-the-show-is-over-it.json) |
 | The Showdown Effect | 9070 | [9070-the-showdown-effect.json](./9070-the-showdown-effect.json) |
@@ -7906,6 +7911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towns and Towers | 341866 | [341866-towns-and-towers.json](./341866-towns-and-towers.json) |
 | Townscaper VR | 223141 | [223141-townscaper-vr.json](./223141-townscaper-vr.json) |
 | Townsmen | 32428 | [32428-townsmen.json](./32428-townsmen.json) |
+| Townsmen Racing | 198367 | [198367-townsmen-racing.json](./198367-townsmen-racing.json) |
 | Townsmen: A Kingdom Rebuilt - The Seaside Empire | 155067 | [155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json](./155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json) |
 | Townville, the Show | 132178 | [132178-townville-the-show.json](./132178-townville-the-show.json) |
 | TowOrbs | 413726 | [413726-toworbs.json](./413726-toworbs.json) |
