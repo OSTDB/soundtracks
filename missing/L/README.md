@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Harry Potter Collection | 315367 | [315367-lego-harry-potter-collection.json](./315367-lego-harry-potter-collection.json) |
 | Lego Harry Potter Years 5-7: Character pack | 255376 | [255376-lego-harry-potter-years-5-7-character-pack.json](./255376-lego-harry-potter-years-5-7-character-pack.json) |
 | LEGO Harry Potter: Years 1-4 | 3149 | [3149-lego-harry-potter-years-1-4.json](./3149-lego-harry-potter-years-1-4.json) |
+| LEGO Hero Factory: Brain Attack | 193329 | [193329-lego-hero-factory-brain-attack.json](./193329-lego-hero-factory-brain-attack.json) |
 | LEGO Hero Factory: Breakout | 232701 | [232701-lego-hero-factory-breakout.json](./232701-lego-hero-factory-breakout.json) |
 | LEGO Hero Factory: Invasion from Below | 343364 | [343364-lego-hero-factory-invasion-from-below.json](./343364-lego-hero-factory-invasion-from-below.json) |
 | LEGO Hidden Side | 122323 | [122323-lego-hidden-side.json](./122323-lego-hidden-side.json) |
