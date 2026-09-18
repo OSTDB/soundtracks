@@ -1070,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Cars | 224095 | [224095-battle-cars.json](./224095-battle-cars.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
 | Battle Cats Quest | 299252 | [299252-battle-cats-quest.json](./299252-battle-cats-quest.json) |
+| Battle Chain | 201698 | [201698-battle-chain.json](./201698-battle-chain.json) |
 | Battle Charge | 211426 | [211426-battle-charge.json](./211426-battle-charge.json) |
 | Battle Chasers: Nightwar | 12511 | [12511-battle-chasers-nightwar.json](./12511-battle-chasers-nightwar.json) |
 | Battle Checkers: Infinity War | 193959 | [193959-battle-checkers-infinity-war.json](./193959-battle-checkers-infinity-war.json) |
@@ -1948,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beware the Ghost | 176474 | [176474-beware-the-ghost.json](./176474-beware-the-ghost.json) |
 | Beware the Shadowcatcher | 217863 | [217863-beware-the-shadowcatcher.json](./217863-beware-the-shadowcatcher.json) |
 | Beware Tomorrow | 320765 | [320765-beware-tomorrow.json](./320765-beware-tomorrow.json) |
+| Bewbewbew | 201670 | [201670-bewbewbew.json](./201670-bewbewbew.json) |
 | Bewitched Hearts | 179703 | [179703-bewitched-hearts.json](./179703-bewitched-hearts.json) |
 | Bewitching Boba | 388701 | [388701-bewitching-boba.json](./388701-bewitching-boba.json) |
 | Bewitching Sinners Royal Blood | 375292 | [375292-bewitching-sinners-royal-blood.json](./375292-bewitching-sinners-royal-blood.json) |
