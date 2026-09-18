@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.I.v.C.A.: Human Intelligence vs Computer Algorithm | 311102 | [311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json](./311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json) |
 | H.O.G.S | 296914 | [296914-h-o-g-s.json](./296914-h-o-g-s.json) |
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
+| H1.Jack | 223562 | [223562-h1-jack.json](./223562-h1-jack.json) |
 | H2O: Footprints in the Sand | 72719 | [72719-h2o-footprints-in-the-sand.json](./72719-h2o-footprints-in-the-sand.json) |
 | H2O: High speed Boat Racing | 262403 | [262403-h2o-high-speed-boat-racing.json](./262403-h2o-high-speed-boat-racing.json) |
 | H7N9 | 305752 | [305752-h7n9.json](./305752-h7n9.json) |
@@ -674,8 +675,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku Amiguru Jump | 228454 | [228454-hatsune-miku-amiguru-jump.json](./228454-hatsune-miku-amiguru-jump.json) |
 | Hatsune Miku Jigsaw Puzzle | 194617 | [194617-hatsune-miku-jigsaw-puzzle.json](./194617-hatsune-miku-jigsaw-puzzle.json) |
 | Hatsune Miku VR | 89847 | [89847-hatsune-miku-vr.json](./89847-hatsune-miku-vr.json) |
+| Hatsune Miku VR: 5 Songs pack 1 | 223587 | [223587-hatsune-miku-vr-5-songs-pack-1.json](./223587-hatsune-miku-vr-5-songs-pack-1.json) |
+| Hatsune Miku VR: 5 Songs pack 2 | 223589 | [223589-hatsune-miku-vr-5-songs-pack-2.json](./223589-hatsune-miku-vr-5-songs-pack-2.json) |
+| Hatsune Miku VR: 5 Songs pack 3 | 223588 | [223588-hatsune-miku-vr-5-songs-pack-3.json](./223588-hatsune-miku-vr-5-songs-pack-3.json) |
 | Hatsune Miku VR: Future Live - 1st Stage | 24983 | [24983-hatsune-miku-vr-future-live-1st-stage.json](./24983-hatsune-miku-vr-future-live-1st-stage.json) |
 | Hatsune Miku: Dreamy Vocal | 112343 | [112343-hatsune-miku-dreamy-vocal.json](./112343-hatsune-miku-dreamy-vocal.json) |
+| Hatsune Miku: Project Diva - Mega Mix Song Pack 12 | 223585 | [223585-hatsune-miku-project-diva-mega-mix-song-pack-12.json](./223585-hatsune-miku-project-diva-mega-mix-song-pack-12.json) |
+| Hatsune Miku: Project Diva - Mega Mix Song Pack 13 | 223584 | [223584-hatsune-miku-project-diva-mega-mix-song-pack-13.json](./223584-hatsune-miku-project-diva-mega-mix-song-pack-13.json) |
+| Hatsune Miku: Project Diva - Mega Mix Song Pack 14 | 223583 | [223583-hatsune-miku-project-diva-mega-mix-song-pack-14.json](./223583-hatsune-miku-project-diva-mega-mix-song-pack-14.json) |
+| Hatsune Miku: Project Diva - Mega Mix Song Pack 15 | 223582 | [223582-hatsune-miku-project-diva-mega-mix-song-pack-15.json](./223582-hatsune-miku-project-diva-mega-mix-song-pack-15.json) |
+| Hatsune Miku: Project Diva - Mega Mix Song Pack 16 | 223581 | [223581-hatsune-miku-project-diva-mega-mix-song-pack-16.json](./223581-hatsune-miku-project-diva-mega-mix-song-pack-16.json) |
+| Hatsune Miku: Project Diva - Mega Mix Song Pack 17 | 223580 | [223580-hatsune-miku-project-diva-mega-mix-song-pack-17.json](./223580-hatsune-miku-project-diva-mega-mix-song-pack-17.json) |
+| Hatsune Miku: Project Diva - Mega Mix Song Pack 18 | 223579 | [223579-hatsune-miku-project-diva-mega-mix-song-pack-18.json](./223579-hatsune-miku-project-diva-mega-mix-song-pack-18.json) |
+| Hatsune Miku: Project Diva - Mega Mix+ Extra Song Pack | 223586 | [223586-hatsune-miku-project-diva-mega-mix-extra-song-pack.json](./223586-hatsune-miku-project-diva-mega-mix-extra-song-pack.json) |
 | Hatsune Miku: Project Diva 2nd | 11755 | [11755-hatsune-miku-project-diva-2nd.json](./11755-hatsune-miku-project-diva-2nd.json) |
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #1 | 294733 | [294733-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-1.json](./294733-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-1.json) |
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #2 | 294734 | [294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json](./294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json) |
