@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Tour de France | 172668 | [172668-le-tour-de-france.json](./172668-le-tour-de-france.json) |
 | Le Zoo | 346065 | [346065-le-zoo.json](./346065-le-zoo.json) |
 | Lead and Gold: Gangs of the Wild West | 2041 | [2041-lead-and-gold-gangs-of-the-wild-west.json](./2041-lead-and-gold-gangs-of-the-wild-west.json) |
+| Lead the Way | 196693 | [196693-lead-the-way.json](./196693-lead-the-way.json) |
 | Leaden Sky: Nightmares | 286100 | [286100-leaden-sky-nightmares.json](./286100-leaden-sky-nightmares.json) |
 | Leader of the Pack | 285971 | [285971-leader-of-the-pack.json](./285971-leader-of-the-pack.json) |
 | Leaderboard | 15246 | [15246-leaderboard.json](./15246-leaderboard.json) |
