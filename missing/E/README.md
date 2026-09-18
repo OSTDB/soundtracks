@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | En Passant | 234059 | [234059-en-passant.json](./234059-en-passant.json) |
 | En-Fem-E No. 9: Reborn | 195780 | [195780-en-fem-e-no-9-reborn.json](./195780-en-fem-e-no-9-reborn.json) |
 | En-Fem-E No. 9: The Factory | 288226 | [288226-en-fem-e-no-9-the-factory.json](./288226-en-fem-e-no-9-the-factory.json) |
+| EnantiO | 206233 | [206233-enantio.json](./206233-enantio.json) |
 | Enarian: Orbital Command | 415158 | [415158-enarian-orbital-command.json](./415158-enarian-orbital-command.json) |
 | Enbody | 176999 | [176999-enbody.json](./176999-enbody.json) |
 | EnbornX | 61108 | [61108-enbornx.json](./61108-enbornx.json) |
