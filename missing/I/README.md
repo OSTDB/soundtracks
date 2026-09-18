@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Your Flesh | 364596 | [364596-in-your-flesh.json](./364596-in-your-flesh.json) |
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
 | In Your Youth | 250453 | [250453-in-your-youth.json](./250453-in-your-youth.json) |
+| In-Flight Pac-Man | 205614 | [205614-in-flight-pac-man.json](./205614-in-flight-pac-man.json) |
 | In-Flight Tetris | 145631 | [145631-in-flight-tetris.json](./145631-in-flight-tetris.json) |
 | Inari | 277605 | [277605-inari.json](./277605-inari.json) |
 | Inauthentic Hummus | 348353 | [348353-inauthentic-hummus.json](./348353-inauthentic-hummus.json) |
