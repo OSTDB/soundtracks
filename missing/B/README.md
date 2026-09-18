@@ -3377,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob the Builder: Fix it Fun! | 49879 | [49879-bob-the-builder-fix-it-fun.json](./49879-bob-the-builder-fix-it-fun.json) |
 | Bob the Elementalist | 267489 | [267489-bob-the-elementalist.json](./267489-bob-the-elementalist.json) |
 | Bob the Goose | 213476 | [213476-bob-the-goose.json](./213476-bob-the-goose.json) |
+| Bob the Robber 5 | 187970 | [187970-bob-the-robber-5.json](./187970-bob-the-robber-5.json) |
 | Bob vs the Mob | 57670 | [57670-bob-vs-the-mob.json](./57670-bob-vs-the-mob.json) |
 | Bob Wants to Go Home | 129744 | [129744-bob-wants-to-go-home.json](./129744-bob-wants-to-go-home.json) |
 | Bob Was Hungry | 35905 | [35905-bob-was-hungry.json](./35905-bob-was-hungry.json) |
