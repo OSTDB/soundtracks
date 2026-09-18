@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marigold | 183053 | [183053-marigold.json](./183053-marigold.json) |
 | Marikin Online 4 | 288351 | [288351-marikin-online-4.json](./288351-marikin-online-4.json) |
 | Mariko: Hot Nightlife | 88052 | [88052-mariko-hot-nightlife.json](./88052-mariko-hot-nightlife.json) |
+| Marina Militare It Navy Sim | 193849 | [193849-marina-militare-it-navy-sim.json](./193849-marina-militare-it-navy-sim.json) |
 | Marina's Cuckolding Report | 143063 | [143063-marinas-cuckolding-report.json](./143063-marinas-cuckolding-report.json) |
 | Marine Buster | 45969 | [45969-marine-buster.json](./45969-marine-buster.json) |
 | Marine Chan | 97846 | [97846-marine-chan.json](./97846-marine-chan.json) |
@@ -1522,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Rogues - The Seven Artifacts | 107847 | [107847-master-of-rogues-the-seven-artifacts.json](./107847-master-of-rogues-the-seven-artifacts.json) |
 | Master of Shotgun Camper | 311625 | [311625-master-of-shotgun-camper.json](./311625-master-of-shotgun-camper.json) |
 | Master of Ski | 226728 | [226728-master-of-ski.json](./226728-master-of-ski.json) |
+| Master of Skills | 193862 | [193862-master-of-skills.json](./193862-master-of-skills.json) |
 | Master of Tactics | 142393 | [142393-master-of-tactics.json](./142393-master-of-tactics.json) |
 | Master of the Harem Guild | 109618 | [109618-master-of-the-harem-guild.json](./109618-master-of-the-harem-guild.json) |
 | Master of the Monster Lair | 21276 | [21276-master-of-the-monster-lair.json](./21276-master-of-the-monster-lair.json) |
@@ -1897,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Farmer | 150696 | [150696-mech-farmer.json](./150696-mech-farmer.json) |
 | Mech Fortress | 360058 | [360058-mech-fortress.json](./360058-mech-fortress.json) |
 | Mech in the City | 365779 | [365779-mech-in-the-city.json](./365779-mech-in-the-city.json) |
+| Mech Invasion: Combat Robots | 193885 | [193885-mech-invasion-combat-robots.json](./193885-mech-invasion-combat-robots.json) |
 | Mech Marines: Steel March | 36112 | [36112-mech-marines-steel-march.json](./36112-mech-marines-steel-march.json) |
 | Mech n' Parcel | 135831 | [135831-mech-n-parcel.json](./135831-mech-n-parcel.json) |
 | Mech Ops 2092 | 401622 | [401622-mech-ops-2092.json](./401622-mech-ops-2092.json) |
@@ -2646,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
 | Meta Nanos: Rumble Race | 263521 | [263521-meta-nanos-rumble-race.json](./263521-meta-nanos-rumble-race.json) |
+| Meta World: My City | 193861 | [193861-meta-world-my-city.json](./193861-meta-world-my-city.json) |
 | Meta: Assembled | 392795 | [392795-meta-assembled.json](./392795-meta-assembled.json) |
 | Metaball: Face Bundle | 310047 | [310047-metaball-face-bundle.json](./310047-metaball-face-bundle.json) |
 | Metaball: Guitar Man Pack | 293416 | [293416-metaball-guitar-man-pack.json](./293416-metaball-guitar-man-pack.json) |
@@ -4602,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Miner | 410337 | [410337-moon-miner.json](./410337-moon-miner.json) |
 | Moon Minions | 243940 | [243940-moon-minions.json](./243940-moon-minions.json) |
 | Moon Mystery | 196935 | [196935-moon-mystery.json](./196935-moon-mystery.json) |
+| Moon Night Fantasy | 193859 | [193859-moon-night-fantasy.json](./193859-moon-night-fantasy.json) |
 | Moon Observatory Melanie | 250602 | [250602-moon-observatory-melanie.json](./250602-moon-observatory-melanie.json) |
 | Moon Patrol | 12314 | [12314-moon-patrol.json](./12314-moon-patrol.json) |
 | Moon Patrol | 280784 | [280784-moon-patrol.json](./280784-moon-patrol.json) |
