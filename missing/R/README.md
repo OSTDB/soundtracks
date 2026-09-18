@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Wars | 156092 | [156092-retro-wars.json](./156092-retro-wars.json) |
 | Retro Wave | 306370 | [306370-retro-wave.json](./306370-retro-wave.json) |
 | Retro Wing Prime | 113034 | [113034-retro-wing-prime.json](./113034-retro-wing-prime.json) |
+| Retro Winter Sports 1986 | 197241 | [197241-retro-winter-sports-1986.json](./197241-retro-winter-sports-1986.json) |
 | RetroBlazer | 322198 | [322198-retroblazer.json](./322198-retroblazer.json) |
 | Retrocade | 385593 | [385593-retrocade.json](./385593-retrocade.json) |
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
@@ -1911,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhino Rumble | 49947 | [49947-rhino-rumble.json](./49947-rhino-rumble.json) |
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
 | Rhodes | 229023 | [229023-rhodes.json](./229023-rhodes.json) |
+| Rhom Bus | 197231 | [197231-rhom-bus.json](./197231-rhom-bus.json) |
 | Rhyme Star | 361719 | [361719-rhyme-star.json](./361719-rhyme-star.json) |
 | Rhyolite | 335351 | [335351-rhyolite.json](./335351-rhyolite.json) |
 | Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
@@ -3348,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Leage Live 2: Game of the Year Edition | 323373 | [323373-rugby-leage-live-2-game-of-the-year-edition.json](./323373-rugby-leage-live-2-game-of-the-year-edition.json) |
 | Rugby League 26 | 355082 | [355082-rugby-league-26.json](./355082-rugby-league-26.json) |
 | Rugby League 3 | 23364 | [23364-rugby-league-3.json](./23364-rugby-league-3.json) |
+| Rugby League Live 2: Gold Edition | 197238 | [197238-rugby-league-live-2-gold-edition.json](./197238-rugby-league-live-2-gold-edition.json) |
 | Rugby League Live 4 | 43061 | [43061-rugby-league-live-4.json](./43061-rugby-league-live-4.json) |
 | Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
 | Rugby League Riot | 274478 | [274478-rugby-league-riot.json](./274478-rugby-league-riot.json) |
