@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Fever | 270759 | [270759-sea-fever.json](./270759-sea-fever.json) |
 | Sea Fishing Simulator | 129741 | [129741-sea-fishing-simulator.json](./129741-sea-fishing-simulator.json) |
 | Sea Hawk | 23911 | [23911-sea-hawk.json](./23911-sea-hawk.json) |
+| Sea Horizon | 199477 | [199477-sea-horizon.json](./199477-sea-horizon.json) |
 | Sea Hunter Idle | 399703 | [399703-sea-hunter-idle.json](./399703-sea-hunter-idle.json) |
 | Sea Legends | 146227 | [146227-sea-legends.json](./146227-sea-legends.json) |
 | Sea Legends | 293633 | [293633-sea-legends.json](./293633-sea-legends.json) |
@@ -1830,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Match | 382281 | [382281-sexy-match.json](./382281-sexy-match.json) |
 | Sexy Memory Puzzle: Pool Massage | 319238 | [319238-sexy-memory-puzzle-pool-massage.json](./319238-sexy-memory-puzzle-pool-massage.json) |
 | Sexy Memory Puzzle: Spanking Girls | 248658 | [248658-sexy-memory-puzzle-spanking-girls.json](./248658-sexy-memory-puzzle-spanking-girls.json) |
+| Sexy Mystic Survivors | 199508 | [199508-sexy-mystic-survivors.json](./199508-sexy-mystic-survivors.json) |
 | Sexy Sniper | 159814 | [159814-sexy-sniper.json](./159814-sexy-sniper.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
@@ -5639,6 +5641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dream | 41962 | [41962-space-dream.json](./41962-space-dream.json) |
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
 | Space Ducks: The Great Escape | 199658 | [199658-space-ducks-the-great-escape.json](./199658-space-ducks-the-great-escape.json) |
+| Space Egg Shooter | 199482 | [199482-space-egg-shooter.json](./199482-space-egg-shooter.json) |
 | Space electrician | 126668 | [126668-space-electrician.json](./126668-space-electrician.json) |
 | Space Empires IV Deluxe | 19350 | [19350-space-empires-iv-deluxe.json](./19350-space-empires-iv-deluxe.json) |
 | Space Endeavor | 173266 | [173266-space-endeavor.json](./173266-space-endeavor.json) |
@@ -6152,6 +6155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Rift | 335371 | [335371-spell-rift.json](./335371-spell-rift.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
 | Spell Spiral | 321343 | [321343-spell-spiral.json](./321343-spell-spiral.json) |
+| Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
 | Spellbind | 18183 | [18183-spellbind.json](./18183-spellbind.json) |
 | Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
 | Spellbinder: The Nexus Conflict | 62208 | [62208-spellbinder-the-nexus-conflict.json](./62208-spellbinder-the-nexus-conflict.json) |
