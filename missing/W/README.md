@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake up, Az. | 395691 | [395691-wake-up-az.json](./395691-wake-up-az.json) |
 | Wake Up, Good Guardian! | 107866 | [107866-wake-up-good-guardian.json](./107866-wake-up-good-guardian.json) |
 | Wake Up, Lia! | 410370 | [410370-wake-up-lia.json](./410370-wake-up-lia.json) |
+| Wake World | 216846 | [216846-wake-world.json](./216846-wake-world.json) |
 | Wakeari! | 22473 | [22473-wakeari.json](./22473-wakeari.json) |
 | Wakeboarding Unleashed Featuring Shaun Murray | 248685 | [248685-wakeboarding-unleashed-featuring-shaun-murray.json](./248685-wakeboarding-unleashed-featuring-shaun-murray.json) |
 | Waker | 91890 | [91890-waker.json](./91890-waker.json) |
@@ -378,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Vor's Revenge | 200650 | [200650-warframe-vors-revenge.json](./200650-warframe-vors-revenge.json) |
 | Warframe: Whispers in the Walls | 263560 | [263560-warframe-whispers-in-the-walls.json](./263560-warframe-whispers-in-the-walls.json) |
 | WarFriends: PvP Army Shooter | 87479 | [87479-warfriends-pvp-army-shooter.json](./87479-warfriends-pvp-army-shooter.json) |
+| Warfront 2020 | 216845 | [216845-warfront-2020.json](./216845-warfront-2020.json) |
 | Wargame Construction Set | 37158 | [37158-wargame-construction-set.json](./37158-wargame-construction-set.json) |
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
 | Wargame: European Escalation | 8383 | [8383-wargame-european-escalation.json](./8383-wargame-european-escalation.json) |
@@ -543,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warplanes: WW2 Dogfight | 112929 | [112929-warplanes-ww2-dogfight.json](./112929-warplanes-ww2-dogfight.json) |
 | Warplock | 377152 | [377152-warplock.json](./377152-warplock.json) |
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
+| Warpsquad | 216844 | [216844-warpsquad.json](./216844-warpsquad.json) |
 | WarpVector | 215665 | [215665-warpvector.json](./215665-warpvector.json) |
 | Warrecs 2 | 159817 | [159817-warrecs-2.json](./159817-warrecs-2.json) |
 | Warrens Of Random | 389614 | [389614-warrens-of-random.json](./389614-warrens-of-random.json) |
