@@ -1911,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock 'n Load Tactical Digital: We Stand Alone - Battlepack | 158737 | [158737-lock-n-load-tactical-digital-we-stand-alone-battlepack.json](./158737-lock-n-load-tactical-digital-we-stand-alone-battlepack.json) |
 | Lock & Key: A Hunter's Legacy | 253920 | [253920-lock-and-key-a-hunters-legacy.json](./253920-lock-and-key-a-hunters-legacy.json) |
 | Lock 5 | 70429 | [70429-lock-5.json](./70429-lock-5.json) |
+| Lock In: Final Cut | 202754 | [202754-lock-in-final-cut.json](./202754-lock-in-final-cut.json) |
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
 | Lock on: Flaming Cliffs 3 | 63815 | [63815-lock-on-flaming-cliffs-3.json](./63815-lock-on-flaming-cliffs-3.json) |
 | Lock the door | 184588 | [184588-lock-the-door.json](./184588-lock-the-door.json) |
@@ -1996,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
 | Lolita 2 | 66128 | [66128-lolita-2.json](./66128-lolita-2.json) |
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
+| LolShot.io | 202776 | [202776-lolshot-io.json](./202776-lolshot-io.json) |
 | Lomo Overgrow | 398346 | [398346-lomo-overgrow.json](./398346-lomo-overgrow.json) |
 | Lonath Online | 34323 | [34323-lonath-online.json](./34323-lonath-online.json) |
 | London 2012: Official Mobile Game | 137015 | [137015-london-2012-official-mobile-game.json](./137015-london-2012-official-mobile-game.json) |
@@ -2452,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Mystery Club | 155669 | [155669-love-mystery-club.json](./155669-love-mystery-club.json) |
 | Love Mythos: Sanctuary Island | 116309 | [116309-love-mythos-sanctuary-island.json](./116309-love-mythos-sanctuary-island.json) |
 | Love of Magic | 237485 | [237485-love-of-magic.json](./237485-love-of-magic.json) |
+| Love of Magic Book 2: The War | 202759 | [202759-love-of-magic-book-2-the-war.json](./202759-love-of-magic-book-2-the-war.json) |
 | Love of Renai Koutei of Love! | 172713 | [172713-love-of-renai-koutei-of-love.json](./172713-love-of-renai-koutei-of-love.json) |
 | Love on Leave | 247495 | [247495-love-on-leave.json](./247495-love-on-leave.json) |
 | Love on Paper | 158220 | [158220-love-on-paper.json](./158220-love-on-paper.json) |
