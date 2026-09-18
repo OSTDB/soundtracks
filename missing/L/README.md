@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
 | Little Backpack | 407408 | [407408-little-backpack.json](./407408-little-backpack.json) |
 | Little Bear | 308582 | [308582-little-bear.json](./308582-little-bear.json) |
+| Little Bear Chef | 204509 | [204509-little-bear-chef.json](./204509-little-bear-chef.json) |
 | Little Bear Rainy Day Activities | 280772 | [280772-little-bear-rainy-day-activities.json](./280772-little-bear-rainy-day-activities.json) |
 | Little Beetle Bottle Battle | 183016 | [183016-little-beetle-bottle-battle.json](./183016-little-beetle-bottle-battle.json) |
 | Little Betty: Gold Rush | 372997 | [372997-little-betty-gold-rush.json](./372997-little-betty-gold-rush.json) |
@@ -2481,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love You till the End | 280320 | [280320-love-you-till-the-end.json](./280320-love-you-till-the-end.json) |
 | Love You to Pieces | 392914 | [392914-love-you-to-pieces.json](./392914-love-you-to-pieces.json) |
 | Love-Colored Memories | 412974 | [412974-love-colored-memories.json](./412974-love-colored-memories.json) |
+| Love, Ghostie | 204529 | [204529-love-ghostie.json](./204529-love-ghostie.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
 | Love, Internet, and Murder Magic | 328013 | [328013-love-internet-and-murder-magic.json](./328013-love-internet-and-murder-magic.json) |
 | Love, Lies & a Heist: Ikemen Royale | 229028 | [229028-love-lies-and-a-heist-ikemen-royale.json](./229028-love-lies-and-a-heist-ikemen-royale.json) |
@@ -2491,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love+ | 80609 | [80609-love.json](./80609-love.json) |
 | LoveAndComplex | 311276 | [311276-loveandcomplex.json](./311276-loveandcomplex.json) |
 | LoveArena | 385051 | [385051-lovearena.json](./385051-lovearena.json) |
+| Lovebirb | 204516 | [204516-lovebirb.json](./204516-lovebirb.json) |
 | LoveCraft | 286544 | [286544-lovecraft.json](./286544-lovecraft.json) |
 | Lovecraft Quest: A Comix Game | 110643 | [110643-lovecraft-quest-a-comix-game.json](./110643-lovecraft-quest-a-comix-game.json) |
 | Lovecraft Tales | 103394 | [103394-lovecraft-tales.json](./103394-lovecraft-tales.json) |
