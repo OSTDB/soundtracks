@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravana 2000 | 400367 | [400367-caravana-2000.json](./400367-caravana-2000.json) |
 | Carbon Battle Royale | 143717 | [143717-carbon-battle-royale.json](./143717-carbon-battle-royale.json) |
 | Carcassonne: The Official Board Game - Inns & Cathedrals | 171018 | [171018-carcassonne-the-official-board-game-inns-and-cathedrals.json](./171018-carcassonne-the-official-board-game-inns-and-cathedrals.json) |
+| Carcassonne: The Official Board Game - Traders & Builders | 227359 | [227359-carcassonne-the-official-board-game-traders-and-builders.json](./227359-carcassonne-the-official-board-game-traders-and-builders.json) |
 | Carcassonne: The Official Board Game - Winter and Gingerbread Man | 171017 | [171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json](./171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json) |
 | Carcosa | 140554 | [140554-carcosa.json](./140554-carcosa.json) |
 | Card & Puzzle Collection Ginga | 365679 | [365679-card-and-puzzle-collection-ginga.json](./365679-card-and-puzzle-collection-ginga.json) |
@@ -2175,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Stories: Nutcracker - Collector's Edition | 30202 | [30202-christmas-stories-nutcracker-collectors-edition.json](./30202-christmas-stories-nutcracker-collectors-edition.json) |
 | Christmas Stories: The Gift of the Magi | 57126 | [57126-christmas-stories-the-gift-of-the-magi.json](./57126-christmas-stories-the-gift-of-the-magi.json) |
 | Christmas Story | 378202 | [378202-christmas-story.json](./378202-christmas-story.json) |
+| Christmas Sweeper 3 | 227365 | [227365-christmas-sweeper-3.json](./227365-christmas-sweeper-3.json) |
 | Christmas Time 2019 | 114326 | [114326-christmas-time-2019.json](./114326-christmas-time-2019.json) |
 | Christmas with Freddy's | 239286 | [239286-christmas-with-freddys.json](./239286-christmas-with-freddys.json) |
 | Christmas With My Family: Jigsaw Puzzle | 384063 | [384063-christmas-with-my-family-jigsaw-puzzle.json](./384063-christmas-with-my-family-jigsaw-puzzle.json) |
