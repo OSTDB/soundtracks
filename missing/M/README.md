@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max and the Magic Marker: Gold Edition | 52571 | [52571-max-and-the-magic-marker-gold-edition.json](./52571-max-and-the-magic-marker-gold-edition.json) |
 | Max and the Pirates | 209540 | [209540-max-and-the-pirates.json](./209540-max-and-the-pirates.json) |
 | Max and the Secret Formula | 209538 | [209538-max-and-the-secret-formula.json](./209538-max-and-the-secret-formula.json) |
+| Max Bradshaw and the Zombie Invasion | 197250 | [197250-max-bradshaw-and-the-zombie-invasion.json](./197250-max-bradshaw-and-the-zombie-invasion.json) |
 | Max Craft 2: New World HD | 96703 | [96703-max-craft-2-new-world-hd.json](./96703-max-craft-2-new-world-hd.json) |
 | Max Cross | 413621 | [413621-max-cross.json](./413621-max-cross.json) |
 | Max in Ghostpix | 395013 | [395013-max-in-ghostpix.json](./395013-max-in-ghostpix.json) |
@@ -2306,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MEIOU and Taxes | 294450 | [294450-meiou-and-taxes.json](./294450-meiou-and-taxes.json) |
 | MeiQi 2022 | 190735 | [190735-meiqi-2022.json](./190735-meiqi-2022.json) |
 | MeiQi 2023 | 224646 | [224646-meiqi-2023.json](./224646-meiqi-2023.json) |
+| Meiro Master | 197253 | [197253-meiro-master.json](./197253-meiro-master.json) |
 | Měishàonián Mèng Gōngchǎng 3: Chóngshēng | 116981 | [116981-meishaonian-meng-gongchang-3-chongsheng.json](./116981-meishaonian-meng-gongchang-3-chongsheng.json) |
 | Meister | 113670 | [113670-meister.json](./113670-meister.json) |
 | MeisterPower | 383980 | [383980-meisterpower.json](./383980-meisterpower.json) |
@@ -2593,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meridian 157: Prologue | 219133 | [219133-meridian-157-prologue.json](./219133-meridian-157-prologue.json) |
 | Meridian: Age of Invention | 34578 | [34578-meridian-age-of-invention.json](./34578-meridian-age-of-invention.json) |
 | Meridian: Squad 22 | 20453 | [20453-meridian-squad-22.json](./20453-meridian-squad-22.json) |
+| Meridiana: A demon's madness | 197263 | [197263-meridiana-a-demons-madness.json](./197263-meridiana-a-demons-madness.json) |
 | Merlin 64 | 47242 | [47242-merlin-64.json](./47242-merlin-64.json) |
 | Merlin Adventurer Store | 26490 | [26490-merlin-adventurer-store.json](./26490-merlin-adventurer-store.json) |
 | Merlin Racing | 51184 | [51184-merlin-racing.json](./51184-merlin-racing.json) |
@@ -4284,6 +4287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly One | 55944 | [55944-monopoly-one.json](./55944-monopoly-one.json) |
 | Monopoly Plus and Monopoly Madness | 182497 | [182497-monopoly-plus-and-monopoly-madness.json](./182497-monopoly-plus-and-monopoly-madness.json) |
 | Monopoly Sudoku | 292005 | [292005-monopoly-sudoku.json](./292005-monopoly-sudoku.json) |
+| Monopoly Tycoon | 197249 | [197249-monopoly-tycoon.json](./197249-monopoly-tycoon.json) |
 | Monopoly: Build A Lot | 210123 | [210123-monopoly-build-a-lot.json](./210123-monopoly-build-a-lot.json) |
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
 | Monotose | 202316 | [202316-monotose.json](./202316-monotose.json) |
@@ -5618,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dolphin Show | 86773 | [86773-my-dolphin-show.json](./86773-my-dolphin-show.json) |
 | My Donut Days | 87717 | [87717-my-donut-days.json](./87717-my-donut-days.json) |
 | My Downtown | 153981 | [153981-my-downtown.json](./153981-my-downtown.json) |
+| My Dragon Party | 197258 | [197258-my-dragon-party.json](./197258-my-dragon-party.json) |
 | My Dragon: Virtual Pet Game | 331361 | [331361-my-dragon-virtual-pet-game.json](./331361-my-dragon-virtual-pet-game.json) |
 | My Dream Girl | 173841 | [173841-my-dream-girl.json](./173841-my-dream-girl.json) |
 | My Dream Girls | 173836 | [173836-my-dream-girls.json](./173836-my-dream-girls.json) |
