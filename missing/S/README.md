@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratch the Ticket | 404220 | [404220-scratch-the-ticket.json](./404220-scratch-the-ticket.json) |
 | Scratch Wars | 139365 | [139365-scratch-wars.json](./139365-scratch-wars.json) |
 | Scratches | 11836 | [11836-scratches.json](./11836-scratches.json) |
+| Scratchin' Melodii | 215235 | [215235-scratchin-melodii.json](./215235-scratchin-melodii.json) |
 | Scream and Steel: Horror Story Shooter | 284493 | [284493-scream-and-steel-horror-story-shooter.json](./284493-scream-and-steel-horror-story-shooter.json) |
 | Scream Collector | 74450 | [74450-scream-collector.json](./74450-scream-collector.json) |
 | Scream Hero | 194000 | [194000-scream-hero.json](./194000-scream-hero.json) |
@@ -1331,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Wynne | 244503 | [244503-secrets-of-wynne.json](./244503-secrets-of-wynne.json) |
 | Sect House | 343828 | [343828-sect-house.json](./343828-sect-house.json) |
 | Sectant | 144259 | [144259-sectant.json](./144259-sectant.json) |
+| Section 13 | 215221 | [215221-section-13.json](./215221-section-13.json) |
 | Section Six | 149023 | [149023-section-six.json](./149023-section-six.json) |
 | Section-Z | 285595 | [285595-section-z.json](./285595-section-z.json) |
 | Section-Z | 9755 | [9755-section-z.json](./9755-section-z.json) |
@@ -5705,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
 | Space runner | 27903 | [27903-space-runner.json](./27903-space-runner.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
+| Space Science Investigations | 215211 | [215211-space-science-investigations.json](./215211-space-science-investigations.json) |
 | Space Shapes | 126567 | [126567-space-shapes.json](./126567-space-shapes.json) |
 | Space Shark Wrangle Fest | 245843 | [245843-space-shark-wrangle-fest.json](./245843-space-shark-wrangle-fest.json) |
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
@@ -9029,6 +9032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 Shining Stars | 132859 | [132859-super-mario-64-shining-stars.json](./132859-super-mario-64-shining-stars.json) |
 | Super Mario 64 Splitscreen Multiplayer | 135223 | [135223-super-mario-64-splitscreen-multiplayer.json](./135223-super-mario-64-splitscreen-multiplayer.json) |
 | Super Mario 64 Xbox | 284359 | [284359-super-mario-64-xbox.json](./284359-super-mario-64-xbox.json) |
+| Super Mario 64: All Star Adventure Extreme Edition | 215202 | [215202-super-mario-64-all-star-adventure-extreme-edition.json](./215202-super-mario-64-all-star-adventure-extreme-edition.json) |
 | Super Mario 64: Arguably Better Edition | 146248 | [146248-super-mario-64-arguably-better-edition.json](./146248-super-mario-64-arguably-better-edition.json) |
 | Super Mario 64: Beyond Hell Valley | 313301 | [313301-super-mario-64-beyond-hell-valley.json](./313301-super-mario-64-beyond-hell-valley.json) |
 | Super Mario 64: Gore/Hard-Mode | 326065 | [326065-super-mario-64-gore-hard-mode.json](./326065-super-mario-64-gore-hard-mode.json) |
@@ -9097,6 +9101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
 | Super Mario Bros. SNES Days | 321586 | [321586-super-mario-bros-snes-days.json](./321586-super-mario-bros-snes-days.json) |
 | Super Mario Bros. SNES Days 2 | 321585 | [321585-super-mario-bros-snes-days-2.json](./321585-super-mario-bros-snes-days-2.json) |
+| Super Mario Bros. Star Scramble 2: Ghost Island | 215251 | [215251-super-mario-bros-star-scramble-2-ghost-island.json](./215251-super-mario-bros-star-scramble-2-ghost-island.json) |
 | Super Mario Bros. Wonder | 254339 | [254339-super-mario-bros-wonder.json](./254339-super-mario-bros-wonder.json) |
 | Super Mario Bros. Wonderland 1987 | 307720 | [307720-super-mario-bros-wonderland-1987.json](./307720-super-mario-bros-wonderland-1987.json) |
 | Super Mario Bros.: Raiders of the Painting Realms | 323897 | [323897-super-mario-bros-raiders-of-the-painting-realms.json](./323897-super-mario-bros-raiders-of-the-painting-realms.json) |
@@ -9151,6 +9156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Senseless Delirium | 199032 | [199032-super-mario-senseless-delirium.json](./199032-super-mario-senseless-delirium.json) |
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
 | Super Mario Star Road Multiplayer | 159342 | [159342-super-mario-star-road-multiplayer.json](./159342-super-mario-star-road-multiplayer.json) |
+| Super Mario Star Scramble 3 | 215250 | [215250-super-mario-star-scramble-3.json](./215250-super-mario-star-scramble-3.json) |
 | Super Mario Star World | 185685 | [185685-super-mario-star-world.json](./185685-super-mario-star-world.json) |
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
 | Super Mario Story | 313110 | [313110-super-mario-story.json](./313110-super-mario-story.json) |
@@ -9203,6 +9209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Meat Boy: Ultra Edition | 20620 | [20620-super-meat-boy-ultra-edition.json](./20620-super-meat-boy-ultra-edition.json) |
 | Super Meat Shooter: Happy Meat Winter | 172116 | [172116-super-meat-shooter-happy-meat-winter.json](./172116-super-meat-shooter-happy-meat-winter.json) |
 | Super Mecha Lifter 4000 | 363916 | [363916-super-mecha-lifter-4000.json](./363916-super-mecha-lifter-4000.json) |
+| Super Mega Hentai Collection! | 215248 | [215248-super-mega-hentai-collection.json](./215248-super-mega-hentai-collection.json) |
 | Super Mega Lucky Box | 234599 | [234599-super-mega-lucky-box.json](./234599-super-mega-lucky-box.json) |
 | Super Mega Runners | 365137 | [365137-super-mega-runners.json](./365137-super-mega-runners.json) |
 | Super Metroid and A Link to the Past Crossover Randomizer | 210231 | [210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json](./210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json) |
