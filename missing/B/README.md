@@ -1681,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedtime Stories | 371963 | [371963-bedtime-stories.json](./371963-bedtime-stories.json) |
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
 | Bee Fighting | 247014 | [247014-bee-fighting.json](./247014-bee-fighting.json) |
+| Bee Holder | 184505 | [184505-bee-holder.json](./184505-bee-holder.json) |
 | Bee in the Valley | 250384 | [250384-bee-in-the-valley.json](./250384-bee-in-the-valley.json) |
 | Bee Leader | 208409 | [208409-bee-leader.json](./208409-bee-leader.json) |
 | Bee Magic | 314254 | [314254-bee-magic.json](./314254-bee-magic.json) |
@@ -3953,6 +3954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Sword: Double Edge | 57057 | [57057-bounty-sword-double-edge.json](./57057-bounty-sword-double-edge.json) |
 | Bounty Train | 11802 | [11802-bounty-train.json](./11802-bounty-train.json) |
 | BountyHeart | 213641 | [213641-bountyheart.json](./213641-bountyheart.json) |
+| Bouquet | 184525 | [184525-bouquet.json](./184525-bouquet.json) |
 | Bouquet | 346085 | [346085-bouquet.json](./346085-bouquet.json) |
 | Bourbon Empire | 217320 | [217320-bourbon-empire.json](./217320-bourbon-empire.json) |
 | Bovine Battles | 292511 | [292511-bovine-battles.json](./292511-bovine-battles.json) |
