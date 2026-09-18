@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell to Singularity: Evolution | 259562 | [259562-cell-to-singularity-evolution.json](./259562-cell-to-singularity-evolution.json) |
 | Cell Tune | 134618 | [134618-cell-tune.json](./134618-cell-tune.json) |
 | Cell: Idle Factory Incremental | 248150 | [248150-cell-idle-factory-incremental.json](./248150-cell-idle-factory-incremental.json) |
+| Cellar | 188520 | [188520-cellar.json](./188520-cellar.json) |
 | Cellar | 33323 | [33323-cellar.json](./33323-cellar.json) |
 | Cellar: Rags and Knife | 171025 | [171025-cellar-rags-and-knife.json](./171025-cellar-rags-and-knife.json) |
 | Cellbreak | 383956 | [383956-cellbreak.json](./383956-cellbreak.json) |
@@ -2628,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Parking Driver: Draw The Path Simulator | 271839 | [271839-city-parking-driver-draw-the-path-simulator.json](./271839-city-parking-driver-draw-the-path-simulator.json) |
 | City Patrol: Police | 97925 | [97925-city-patrol-police.json](./97925-city-patrol-police.json) |
 | City Racing 2 | 181309 | [181309-city-racing-2.json](./181309-city-racing-2.json) |
+| City Retreat | 188521 | [188521-city-retreat.json](./188521-city-retreat.json) |
 | City Rhapsody! | 212808 | [212808-city-rhapsody.json](./212808-city-rhapsody.json) |
 | City Rush | 246428 | [246428-city-rush.json](./246428-city-rush.json) |
 | City Siege: Faction Island | 29814 | [29814-city-siege-faction-island.json](./29814-city-siege-faction-island.json) |
@@ -5692,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Internet Club Simulator | 296501 | [296501-cyber-internet-club-simulator.json](./296501-cyber-internet-club-simulator.json) |
 | Cyber Knight II: Chikyuu Teikoku no Yabou | 42548 | [42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json](./42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
+| Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
 | Cyber Rail | 267468 | [267468-cyber-rail.json](./267468-cyber-rail.json) |
