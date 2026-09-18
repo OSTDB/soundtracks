@@ -2002,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer Revolution | 18697 | [18697-ridge-racer-revolution.json](./18697-ridge-racer-revolution.json) |
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
+| Ridiculous RPG | 232041 | [232041-ridiculous-rpg.json](./232041-ridiculous-rpg.json) |
 | Ridiculous Shipping | 331317 | [331317-ridiculous-shipping.json](./331317-ridiculous-shipping.json) |
 | Riding Club Championships | 31882 | [31882-riding-club-championships.json](./31882-riding-club-championships.json) |
 | Riding Fight | 39577 | [39577-riding-fight.json](./39577-riding-fight.json) |
@@ -2958,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Cleaning 2 | 272939 | [272939-room-cleaning-2.json](./272939-room-cleaning-2.json) |
 | Room Containing Candle x4 | 142502 | [142502-room-containing-candle-x4.json](./142502-room-containing-candle-x4.json) |
 | Room Escape '1053' | 127376 | [127376-room-escape-1053.json](./127376-room-escape-1053.json) |
+| Room Escape: Scary Horror Game | 232026 | [232026-room-escape-scary-horror-game.json](./232026-room-escape-scary-horror-game.json) |
 | Room Explorer 2010 | 198511 | [198511-room-explorer-2010.json](./198511-room-explorer-2010.json) |
 | Room Explorer 2010: Deluxe Lover's Paque | 198512 | [198512-room-explorer-2010-deluxe-lovers-paque.json](./198512-room-explorer-2010-deluxe-lovers-paque.json) |
 | Room Football: Cursed West | 368545 | [368545-room-football-cursed-west.json](./368545-room-football-cursed-west.json) |
@@ -2975,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
 | RoomRental | 94190 | [94190-roomrental.json](./94190-roomrental.json) |
 | Rooms | 388930 | [388930-rooms.json](./388930-rooms.json) |
+| Rooms of Dread | 232027 | [232027-rooms-of-dread.json](./232027-rooms-of-dread.json) |
 | Rooms: The Unsolvable Puzzle | 19018 | [19018-rooms-the-unsolvable-puzzle.json](./19018-rooms-the-unsolvable-puzzle.json) |
 | Roost | 329111 | [329111-roost.json](./329111-roost.json) |
 | Rooster | 62722 | [62722-rooster.json](./62722-rooster.json) |
