@@ -144,7 +144,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
 | Madden NFL 07 | 4983 | [4983-madden-nfl-07.json](./4983-madden-nfl-07.json) |
+| Madden NFL 08 | 229188 | [229188-madden-nfl-08.json](./229188-madden-nfl-08.json) |
+| Madden NFL 08 | 229190 | [229190-madden-nfl-08.json](./229190-madden-nfl-08.json) |
+| Madden NFL 08 | 229191 | [229191-madden-nfl-08.json](./229191-madden-nfl-08.json) |
+| Madden NFL 09 | 229195 | [229195-madden-nfl-09.json](./229195-madden-nfl-09.json) |
+| Madden NFL 09 | 229197 | [229197-madden-nfl-09.json](./229197-madden-nfl-09.json) |
+| Madden NFL 09 | 229198 | [229198-madden-nfl-09.json](./229198-madden-nfl-09.json) |
 | Madden NFL 09 | 243242 | [243242-madden-nfl-09.json](./243242-madden-nfl-09.json) |
+| Madden NFL 09 All-Play | 229192 | [229192-madden-nfl-09-all-play.json](./229192-madden-nfl-09-all-play.json) |
+| Madden NFL 10 | 229204 | [229204-madden-nfl-10.json](./229204-madden-nfl-10.json) |
+| Madden NFL 10 | 229205 | [229205-madden-nfl-10.json](./229205-madden-nfl-10.json) |
 | Madden NFL 11 | 243245 | [243245-madden-nfl-11.json](./243245-madden-nfl-11.json) |
 | Madden NFL 11 | 243246 | [243246-madden-nfl-11.json](./243246-madden-nfl-11.json) |
 | Madden NFL 11 | 243247 | [243247-madden-nfl-11.json](./243247-madden-nfl-11.json) |
@@ -470,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magistrangers | 392793 | [392793-magistrangers.json](./392793-magistrangers.json) |
 | Magitech Requiem | 336011 | [336011-magitech-requiem.json](./336011-magitech-requiem.json) |
 | Magium | 207821 | [207821-magium.json](./207821-magium.json) |
+| Magma | 229163 | [229163-magma.json](./229163-magma.json) |
 | Magma Chamber | 32968 | [32968-magma-chamber.json](./32968-magma-chamber.json) |
 | Magma Project Hacker | 41313 | [41313-magma-project-hacker.json](./41313-magma-project-hacker.json) |
 | Magman | 311271 | [311271-magman.json](./311271-magman.json) |
@@ -2760,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mia Hamm Soccer | 362900 | [362900-mia-hamm-soccer.json](./362900-mia-hamm-soccer.json) |
 | MIA Online | 135806 | [135806-mia-online.json](./135806-mia-online.json) |
 | MIA: Memory Fragments | 404202 | [404202-mia-memory-fragments.json](./404202-mia-memory-fragments.json) |
+| Mia's Christmas 2 | 229165 | [229165-mias-christmas-2.json](./229165-mias-christmas-2.json) |
 | Mia's Math Adventure: Just in Time! | 144378 | [144378-mias-math-adventure-just-in-time.json](./144378-mias-math-adventure-just-in-time.json) |
 | Mia's Reading Adventure: The Search for Grandma's Remedy | 381688 | [381688-mias-reading-adventure-the-search-for-grandmas-remedy.json](./381688-mias-reading-adventure-the-search-for-grandmas-remedy.json) |
 | Mia's Science Adventure: Romaine's New Hat | 381689 | [381689-mias-science-adventure-romaines-new-hat.json](./381689-mias-science-adventure-romaines-new-hat.json) |
