@@ -5028,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Re-Delve | 278422 | [278422-dungeon-re-delve.json](./278422-dungeon-re-delve.json) |
 | Dungeon Rebound | 252399 | [252399-dungeon-rebound.json](./252399-dungeon-rebound.json) |
 | Dungeon Redemption | 204691 | [204691-dungeon-redemption.json](./204691-dungeon-redemption.json) |
+| Dungeon Reels Tactics | 191714 | [191714-dungeon-reels-tactics.json](./191714-dungeon-reels-tactics.json) |
 | Dungeon Renovators | 224654 | [224654-dungeon-renovators.json](./224654-dungeon-renovators.json) |
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
 | Dungeon RPG Pikudan 2 | 222324 | [222324-dungeon-rpg-pikudan-2.json](./222324-dungeon-rpg-pikudan-2.json) |
