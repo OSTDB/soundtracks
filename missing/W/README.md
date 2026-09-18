@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watched | 383512 | [383512-watched.json](./383512-watched.json) |
 | Watching Delusion | 105386 | [105386-watching-delusion.json](./105386-watching-delusion.json) |
 | Watchmaker's World Solitaire | 386135 | [386135-watchmakers-world-solitaire.json](./386135-watchmakers-world-solitaire.json) |
+| Watchman Golf Digipro | 215252 | [215252-watchman-golf-digipro.json](./215252-watchman-golf-digipro.json) |
 | Watchmen: The End Is Nigh | 7246 | [7246-watchmen-the-end-is-nigh.json](./7246-watchmen-the-end-is-nigh.json) |
 | Watchmen: The End Is Nigh Complete Experience | 44619 | [44619-watchmen-the-end-is-nigh-complete-experience.json](./44619-watchmen-the-end-is-nigh-complete-experience.json) |
 | Watchtower | 15568 | [15568-watchtower.json](./15568-watchtower.json) |
