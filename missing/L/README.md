@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leviaclaw | 379877 | [379877-leviaclaw.json](./379877-leviaclaw.json) |
 | Leviathan | 229696 | [229696-leviathan.json](./229696-leviathan.json) |
 | Leviathan | 341320 | [341320-leviathan.json](./341320-leviathan.json) |
+| Leviathan: Streams of Legends | 197255 | [197255-leviathan-streams-of-legends.json](./197255-leviathan-streams-of-legends.json) |
 | Leviathan: The Cargo | 34262 | [34262-leviathan-the-cargo.json](./34262-leviathan-the-cargo.json) |
 | Leviathan's Sword | 199478 | [199478-leviathans-sword.json](./199478-leviathans-sword.json) |
 | Lewd Anime Racing | 235725 | [235725-lewd-anime-racing.json](./235725-lewd-anime-racing.json) |
@@ -1371,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightFall | 234201 | [234201-lightfall.json](./234201-lightfall.json) |
 | Lightfish | 16271 | [16271-lightfish.json](./16271-lightfish.json) |
 | Lightforce | 28823 | [28823-lightforce.json](./28823-lightforce.json) |
+| Lighthaze World | 197264 | [197264-lighthaze-world.json](./197264-lighthaze-world.json) |
 | Lighthockey | 34352 | [34352-lighthockey.json](./34352-lighthockey.json) |
 | Lighthouse | 267450 | [267450-lighthouse.json](./267450-lighthouse.json) |
 | Lighthouse of Guiding Flames | 120933 | [120933-lighthouse-of-guiding-flames.json](./120933-lighthouse-of-guiding-flames.json) |
