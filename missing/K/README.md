@@ -1067,6 +1067,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
+| Kissed by the Baddest Bidder: Engagement Cruise - Eisuke | 212343 | [212343-kissed-by-the-baddest-bidder-engagement-cruise-eisuke.json](./212343-kissed-by-the-baddest-bidder-engagement-cruise-eisuke.json) |
+| Kissed by the Baddest Bidder: Engagement Cruise - Eisuke DLC Pack | 212350 | [212350-kissed-by-the-baddest-bidder-engagement-cruise-eisuke-dlc-pack.json](./212350-kissed-by-the-baddest-bidder-engagement-cruise-eisuke-dlc-pack.json) |
+| Kissed by the Baddest Bidder: Engagement Cruise - His PoV: Eisuke | 212344 | [212344-kissed-by-the-baddest-bidder-engagement-cruise-his-pov-eisuke.json](./212344-kissed-by-the-baddest-bidder-engagement-cruise-his-pov-eisuke.json) |
+| Kissed by the Baddest Bidder: Engagement Cruise - His PoV: Mamoru | 212349 | [212349-kissed-by-the-baddest-bidder-engagement-cruise-his-pov-mamoru.json](./212349-kissed-by-the-baddest-bidder-engagement-cruise-his-pov-mamoru.json) |
+| Kissed by the Baddest Bidder: Engagement Cruise - His PoV: Soryu | 212346 | [212346-kissed-by-the-baddest-bidder-engagement-cruise-his-pov-soryu.json](./212346-kissed-by-the-baddest-bidder-engagement-cruise-his-pov-soryu.json) |
+| Kissed by the Baddest Bidder: Engagement Cruise - Mamoru | 212348 | [212348-kissed-by-the-baddest-bidder-engagement-cruise-mamoru.json](./212348-kissed-by-the-baddest-bidder-engagement-cruise-mamoru.json) |
+| Kissed by the Baddest Bidder: Engagement Cruise - Mamoru DLC Pack | 212353 | [212353-kissed-by-the-baddest-bidder-engagement-cruise-mamoru-dlc-pack.json](./212353-kissed-by-the-baddest-bidder-engagement-cruise-mamoru-dlc-pack.json) |
+| Kissed by the Baddest Bidder: Engagement Cruise - Ota | 212347 | [212347-kissed-by-the-baddest-bidder-engagement-cruise-ota.json](./212347-kissed-by-the-baddest-bidder-engagement-cruise-ota.json) |
+| Kissed by the Baddest Bidder: Engagement Cruise - Ota DLC Pack | 212352 | [212352-kissed-by-the-baddest-bidder-engagement-cruise-ota-dlc-pack.json](./212352-kissed-by-the-baddest-bidder-engagement-cruise-ota-dlc-pack.json) |
+| Kissed by the Baddest Bidder: Engagement Cruise - Soryu | 212345 | [212345-kissed-by-the-baddest-bidder-engagement-cruise-soryu.json](./212345-kissed-by-the-baddest-bidder-engagement-cruise-soryu.json) |
+| Kissed by the Baddest Bidder: Engagement Cruise - Soryu DLC Pack | 212351 | [212351-kissed-by-the-baddest-bidder-engagement-cruise-soryu-dlc-pack.json](./212351-kissed-by-the-baddest-bidder-engagement-cruise-soryu-dlc-pack.json) |
 | Kissed by the Baddest Bidder: Happy Birthday Ota | 238196 | [238196-kissed-by-the-baddest-bidder-happy-birthday-ota.json](./238196-kissed-by-the-baddest-bidder-happy-birthday-ota.json) |
 | Kissed by the Baddest Bidder: Living Together - Shuichi | 238184 | [238184-kissed-by-the-baddest-bidder-living-together-shuichi.json](./238184-kissed-by-the-baddest-bidder-living-together-shuichi.json) |
 | Kissed by the Baddest Bidder: Living Together Epilogue - Shuichi | 238067 | [238067-kissed-by-the-baddest-bidder-living-together-epilogue-shuichi.json](./238067-kissed-by-the-baddest-bidder-living-together-epilogue-shuichi.json) |
