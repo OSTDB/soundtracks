@@ -712,6 +712,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joke's On Us | 352194 | [352194-jokes-on-us.json](./352194-jokes-on-us.json) |
 | Joker & Teacher | 369556 | [369556-joker-and-teacher.json](./369556-joker-and-teacher.json) |
 | Joker Poker: Video Poker | 146862 | [146862-joker-poker-video-poker.json](./146862-joker-poker-video-poker.json) |
+| Jolly 3: Chapter 1 | 184507 | [184507-jolly-3-chapter-1.json](./184507-jolly-3-chapter-1.json) |
+| Jolly 3: Chapter 2 | 184508 | [184508-jolly-3-chapter-2.json](./184508-jolly-3-chapter-2.json) |
 | Jolly Chimp Champ | 291587 | [291587-jolly-chimp-champ.json](./291587-jolly-chimp-champ.json) |
 | Jolly Jam | 56432 | [56432-jolly-jam.json](./56432-jolly-jam.json) |
 | Jolly Join | 58754 | [58754-jolly-join.json](./58754-jolly-join.json) |
