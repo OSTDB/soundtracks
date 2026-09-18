@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digger T. Rock: The Legend of the Lost City | 12932 | [12932-digger-t-rock-the-legend-of-the-lost-city.json](./12932-digger-t-rock-the-legend-of-the-lost-city.json) |
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
 | Diggers | 37101 | [37101-diggers.json](./37101-diggers.json) |
+| DiggerSim | 234194 | [234194-diggersim.json](./234194-diggersim.json) |
 | Digging a Hole 2025 | 335955 | [335955-digging-a-hole-2025.json](./335955-digging-a-hole-2025.json) |
 | Digging A Hole: Journey to the Core | 351095 | [351095-digging-a-hole-journey-to-the-core.json](./351095-digging-a-hole-journey-to-the-core.json) |
 | Digging a Hole... with a Spoon... Escape from Alcatraz | 383483 | [383483-digging-a-hole-with-a-spoon-escape-from-alcatraz.json](./383483-digging-a-hole-with-a-spoon-escape-from-alcatraz.json) |
@@ -3878,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Court | 281384 | [281384-dragon-court.json](./281384-dragon-court.json) |
 | Dragon Court: Revived | 315101 | [315101-dragon-court-revived.json](./315101-dragon-court-revived.json) |
 | Dragon Dance | 49940 | [49940-dragon-dance.json](./49940-dragon-dance.json) |
+| Dragon Defender: Castle Kingdom Quest | 234188 | [234188-dragon-defender-castle-kingdom-quest.json](./234188-dragon-defender-castle-kingdom-quest.json) |
 | Dragon Dice | 69894 | [69894-dragon-dice.json](./69894-dragon-dice.json) |
 | Dragon Dodge Valley | 238743 | [238743-dragon-dodge-valley.json](./238743-dragon-dodge-valley.json) |
 | Dragon Dragon Fire Fire Deluxe | 384497 | [384497-dragon-dragon-fire-fire-deluxe.json](./384497-dragon-dragon-fire-fire-deluxe.json) |
