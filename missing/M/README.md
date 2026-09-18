@@ -3735,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missileman Origins | 33034 | [33034-missileman-origins.json](./33034-missileman-origins.json) |
 | Missileman Spy Strike 2 | 131603 | [131603-missileman-spy-strike-2.json](./131603-missileman-spy-strike-2.json) |
 | Missiles Away | 254149 | [254149-missiles-away.json](./254149-missiles-away.json) |
+| Missing | 207870 | [207870-missing.json](./207870-missing.json) |
 | Missing | 213634 | [213634-missing.json](./213634-missing.json) |
 | Missing | 260677 | [260677-missing.json](./260677-missing.json) |
 | Missing | 321584 | [321584-missing.json](./321584-missing.json) |
@@ -5918,6 +5919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MySims SkyHeroes | 192926 | [192926-mysims-skyheroes.json](./192926-mysims-skyheroes.json) |
 | MySims SkyHeroes | 7093 | [7093-mysims-skyheroes.json](./7093-mysims-skyheroes.json) |
 | MySims: Cozy Bundle | 315058 | [315058-mysims-cozy-bundle.json](./315058-mysims-cozy-bundle.json) |
+| Mysperyence Story 1: The Curious Case of the Headless Magnate | 207899 | [207899-mysperyence-story-1-the-curious-case-of-the-headless-magnate.json](./207899-mysperyence-story-1-the-curious-case-of-the-headless-magnate.json) |
 | Myst | 236 | [236-myst.json](./236-myst.json) |
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
 | Myst | 347130 | [347130-myst.json](./347130-myst.json) |
