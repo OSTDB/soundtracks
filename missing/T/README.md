@@ -3160,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Impossible Travel Agency | 33075 | [33075-the-impossible-travel-agency.json](./33075-the-impossible-travel-agency.json) |
 | The InBetween | 305935 | [305935-the-inbetween.json](./305935-the-inbetween.json) |
 | The Incomplete Lunar: First Night | 284331 | [284331-the-incomplete-lunar-first-night.json](./284331-the-incomplete-lunar-first-night.json) |
+| The Incredible Adventures of Van Helsing II: Complete Pack | 223550 | [223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json](./223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json) |
 | The Incredible Adventures of Van Helsing II: Ink Hunt | 10969 | [10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json](./10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json) |
 | The Incredible Adventures of Van Helsing II: Pigasus | 10970 | [10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json](./10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json) |
 | The Incredible Adventures of Van Helsing: Blue Blood | 10968 | [10968-the-incredible-adventures-of-van-helsing-blue-blood.json](./10968-the-incredible-adventures-of-van-helsing-blue-blood.json) |
