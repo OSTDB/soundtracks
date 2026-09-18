@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius Cozmic Revelation | 139992 | [139992-darius-cozmic-revelation.json](./139992-darius-cozmic-revelation.json) |
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
 | Dariusburst | 18193 | [18193-dariusburst.json](./18193-dariusburst.json) |
+| Dariusburst: Chronicle Saviours - Core + Taito & Sega Packs | 222397 | [222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json](./222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json) |
 | Dariusburst: Chronicle Saviours - Limited Edition | 44536 | [44536-dariusburst-chronicle-saviours-limited-edition.json](./44536-dariusburst-chronicle-saviours-limited-edition.json) |
 | Dariusburst: Second Prologue | 22340 | [22340-dariusburst-second-prologue.json](./22340-dariusburst-second-prologue.json) |
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
@@ -641,9 +642,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
+| Dasshutsu Adventure: Akumu no Shinigami Ressha | 222386 | [222386-dasshutsu-adventure-akumu-no-shinigami-ressha.json](./222386-dasshutsu-adventure-akumu-no-shinigami-ressha.json) |
+| Dasshutsu Adventure: Dai Nana no Yogen | 222376 | [222376-dasshutsu-adventure-dai-nana-no-yogen.json](./222376-dasshutsu-adventure-dai-nana-no-yogen.json) |
+| Dasshutsu Adventure: Kamioroshi no Uranai-ban | 222378 | [222378-dasshutsu-adventure-kamioroshi-no-uranai-ban.json](./222378-dasshutsu-adventure-kamioroshi-no-uranai-ban.json) |
+| Dasshutsu Adventure: Kyuukousha no Shoujo | 222387 | [222387-dasshutsu-adventure-kyuukousha-no-shoujo.json](./222387-dasshutsu-adventure-kyuukousha-no-shoujo.json) |
+| Dasshutsu Adventure: Majo no Sumu Yakata | 222385 | [222385-dasshutsu-adventure-majo-no-sumu-yakata.json](./222385-dasshutsu-adventure-majo-no-sumu-yakata.json) |
+| Dasshutsu Adventure: Noroi no Suuretsu | 222382 | [222382-dasshutsu-adventure-noroi-no-suuretsu.json](./222382-dasshutsu-adventure-noroi-no-suuretsu.json) |
+| Dasshutsu Adventure: Shiawase no Akai Ishi | 222384 | [222384-dasshutsu-adventure-shiawase-no-akai-ishi.json](./222384-dasshutsu-adventure-shiawase-no-akai-ishi.json) |
+| Dasshutsu Adventure: Shuuen no Kuroi Kiri | 222380 | [222380-dasshutsu-adventure-shuuen-no-kuroi-kiri.json](./222380-dasshutsu-adventure-shuuen-no-kuroi-kiri.json) |
+| Dasshutsu Adventure: Zetsubou Yousai | 222377 | [222377-dasshutsu-adventure-zetsubou-yousai.json](./222377-dasshutsu-adventure-zetsubou-yousai.json) |
+| Dasshutsu Fantasy: Alice in Escapeland | 222379 | [222379-dasshutsu-fantasy-alice-in-escapeland.json](./222379-dasshutsu-fantasy-alice-in-escapeland.json) |
 | Dasshutsu Game: Momo | 220309 | [220309-dasshutsu-game-momo.json](./220309-dasshutsu-game-momo.json) |
 | Dasshutsu Game: Neko-sama no Karakuri Garden kara no Dasshutsu | 220310 | [220310-dasshutsu-game-neko-sama-no-karakuri-garden-kara-no-dasshutsu.json](./220310-dasshutsu-game-neko-sama-no-karakuri-garden-kara-no-dasshutsu.json) |
 | Dasshutsu Girls | 220308 | [220308-dasshutsu-girls.json](./220308-dasshutsu-girls.json) |
+| Dasshutsu Seijin!? Deru Deru Deru de | 222383 | [222383-dasshutsu-seijin-deru-deru-deru-de.json](./222383-dasshutsu-seijin-deru-deru-deru-de.json) |
 | Dasshutsu Youki no Jukai: Nehan no Mori | 138749 | [138749-dasshutsu-youki-no-jukai-nehan-no-mori.json](./138749-dasshutsu-youki-no-jukai-nehan-no-mori.json) |
 | Data Ball | 104031 | [104031-data-ball.json](./104031-data-ball.json) |
 | Data Delivery Agents | 241974 | [241974-data-delivery-agents.json](./241974-data-delivery-agents.json) |
@@ -736,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day at the Office: Prologue | 315717 | [315717-day-at-the-office-prologue.json](./315717-day-at-the-office-prologue.json) |
 | Day at the Races | 242821 | [242821-day-at-the-races.json](./242821-day-at-the-races.json) |
 | Day D: Through Time - Collector's Edition | 355556 | [355556-day-d-through-time-collectors-edition.json](./355556-day-d-through-time-collectors-edition.json) |
+| Day Hard | 222413 | [222413-day-hard.json](./222413-day-hard.json) |
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
 | Day of Destruction | 81328 | [81328-day-of-destruction.json](./81328-day-of-destruction.json) |
 | Day of Judgment | 272394 | [272394-day-of-judgment.json](./272394-day-of-judgment.json) |
@@ -3165,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doku Girls 3 | 370805 | [370805-doku-girls-3.json](./370805-doku-girls-3.json) |
 | Doku to Kuzu | 285989 | [285989-doku-to-kuzu.json](./285989-doku-to-kuzu.json) |
 | Dokutsu Randamu | 384656 | [384656-dokutsu-randamu.json](./384656-dokutsu-randamu.json) |
+| Dokutsujima | 222396 | [222396-dokutsujima.json](./222396-dokutsujima.json) |
 | Dolan Reborn | 265685 | [265685-dolan-reborn.json](./265685-dolan-reborn.json) |
 | Dolce | 229972 | [229972-dolce.json](./229972-dolce.json) |
 | Doll | 97852 | [97852-doll.json](./97852-doll.json) |
@@ -3997,6 +4011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VII Reimagined: The Road of Regal Wretches | 375190 | [375190-dragon-quest-vii-reimagined-the-road-of-regal-wretches.json](./375190-dragon-quest-vii-reimagined-the-road-of-regal-wretches.json) |
 | Dragon Quest VII Reimagined: White Wolf Costume | 375191 | [375191-dragon-quest-vii-reimagined-white-wolf-costume.json](./375191-dragon-quest-vii-reimagined-white-wolf-costume.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 145528 | [145528-dragon-quest-viii-journey-of-the-cursed-king.json](./145528-dragon-quest-viii-journey-of-the-cursed-king.json) |
+| Dragon Quest X: All In One Package - Versions 1-6 | 222408 | [222408-dragon-quest-x-all-in-one-package-versions-1-6.json](./222408-dragon-quest-x-all-in-one-package-versions-1-6.json) |
 | Dragon Quest X: Mezameshi Itsutsu no Shuzoku Online | 80597 | [80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json](./80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json) |
 | Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | 110069 | [110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json](./110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json) |
 | Dragon Quest: Legacy of the Lost | 300697 | [300697-dragon-quest-legacy-of-the-lost.json](./300697-dragon-quest-legacy-of-the-lost.json) |
