@@ -7015,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starch | 91942 | [91942-starch.json](./91942-starch.json) |
 | StarCraft II: Legacy of the Void - Collector's Edition | 51293 | [51293-starcraft-ii-legacy-of-the-void-collectors-edition.json](./51293-starcraft-ii-legacy-of-the-void-collectors-edition.json) |
 | StarCraft: Evolution Complete | 305329 | [305329-starcraft-evolution-complete.json](./305329-starcraft-evolution-complete.json) |
+| StarCraft: Precursor | 224108 | [224108-starcraft-precursor.json](./224108-starcraft-precursor.json) |
 | StarCraft: Retribution | 66116 | [66116-starcraft-retribution.json](./66116-starcraft-retribution.json) |
 | Starcraft: Stellar Forces | 135274 | [135274-starcraft-stellar-forces.json](./135274-starcraft-stellar-forces.json) |
 | StarCraft: Stratospace | 135273 | [135273-starcraft-stratospace.json](./135273-starcraft-stratospace.json) |
