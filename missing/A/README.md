@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
 | Accele Brid | 38353 | [38353-accele-brid.json](./38353-accele-brid.json) |
+| Acceler 8 | 182945 | [182945-acceler-8.json](./182945-acceler-8.json) |
 | Accelerate | 379458 | [379458-accelerate.json](./379458-accelerate.json) |
 | Accelerating Hotkeys | 188513 | [188513-accelerating-hotkeys.json](./188513-accelerating-hotkeys.json) |
 | Acceleration of Suguri X-Edition | 44596 | [44596-acceleration-of-suguri-x-edition.json](./44596-acceleration-of-suguri-x-edition.json) |
@@ -1676,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Am I AI | 263573 | [263573-am-i-ai.json](./263573-am-i-ai.json) |
 | Am I Live | 333075 | [333075-am-i-live.json](./333075-am-i-live.json) |
 | Am I Nima | 329692 | [329692-am-i-nima.json](./329692-am-i-nima.json) |
+| Am I Part of the Problem? | 182914 | [182914-am-i-part-of-the-problem.json](./182914-am-i-part-of-the-problem.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
 | Amadeus: A Riddle for Thee - Episode 1: Waltz | 296491 | [296491-amadeus-a-riddle-for-thee-episode-1-waltz.json](./296491-amadeus-a-riddle-for-thee-episode-1-waltz.json) |
@@ -3184,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archipelago Explorer | 302497 | [302497-archipelago-explorer.json](./302497-archipelago-explorer.json) |
 | Archipelago: Island Survival | 297787 | [297787-archipelago-island-survival.json](./297787-archipelago-island-survival.json) |
 | Archipelago: Navigable VR Comic | 29822 | [29822-archipelago-navigable-vr-comic.json](./29822-archipelago-navigable-vr-comic.json) |
+| Architect | 182900 | [182900-architect.json](./182900-architect.json) |
 | Architect | 326623 | [326623-architect.json](./326623-architect.json) |
 | Architect of the Union | 286669 | [286669-architect-of-the-union.json](./286669-architect-of-the-union.json) |
 | Architects of Shangri-La | 167839 | [167839-architects-of-shangri-la.json](./167839-architects-of-shangri-la.json) |
@@ -4366,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Dealership Tycoon | 34713 | [34713-auto-dealership-tycoon.json](./34713-auto-dealership-tycoon.json) |
 | Auto Hill Climb | 237658 | [237658-auto-hill-climb.json](./237658-auto-hill-climb.json) |
 | Auto Island | 159798 | [159798-auto-island.json](./159798-auto-island.json) |
+| Auto Museum 64 | 182903 | [182903-auto-museum-64.json](./182903-auto-museum-64.json) |
 | Auto Race | 245572 | [245572-auto-race.json](./245572-auto-race.json) |
 | Auto Racing | 246505 | [246505-auto-racing.json](./246505-auto-racing.json) |
 | Auto Rogue | 334135 | [334135-auto-rogue.json](./334135-auto-rogue.json) |
@@ -4505,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviary Attorney: Definitive Edition | 136443 | [136443-aviary-attorney-definitive-edition.json](./136443-aviary-attorney-definitive-edition.json) |
 | Aviassembly | 291217 | [291217-aviassembly.json](./291217-aviassembly.json) |
 | Aviation Hurricane Storm | 102227 | [102227-aviation-hurricane-storm.json](./102227-aviation-hurricane-storm.json) |
+| Aviator Arcade II | 182926 | [182926-aviator-arcade-ii.json](./182926-aviator-arcade-ii.json) |
 | Aviators VR | 280343 | [280343-aviators-vr.json](./280343-aviators-vr.json) |
 | AVICI | 348242 | [348242-avici.json](./348242-avici.json) |
 | Avicii: Gravity | 108980 | [108980-avicii-gravity.json](./108980-avicii-gravity.json) |
