@@ -104,6 +104,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakuge Yarou: Fighting Game Creator | 43920 | [43920-kakuge-yarou-fighting-game-creator.json](./43920-kakuge-yarou-fighting-game-creator.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
 | Kakuro | 120959 | [120959-kakuro.json](./120959-kakuro.json) |
+| Kakutou Ryouri Densetsu Bistro Recipe: Gekitou Foodon Battle-hen | 228569 | [228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json](./228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json) |
+| Kakutou Ryouri Densetsu Bistro Recipe: Kettou Bistgarm-hen | 228570 | [228570-kakutou-ryouri-densetsu-bistro-recipe-kettou-bistgarm-hen.json](./228570-kakutou-ryouri-densetsu-bistro-recipe-kettou-bistgarm-hen.json) |
 | Kakyuusei 2 | 330548 | [330548-kakyuusei-2.json](./330548-kakyuusei-2.json) |
 | Kal | 391591 | [391591-kal.json](./391591-kal.json) |
 | Kalah | 121727 | [121727-kalah.json](./121727-kalah.json) |
@@ -181,12 +183,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kandidatos | 146303 | [146303-kandidatos.json](./146303-kandidatos.json) |
 | Kando Realm | 356684 | [356684-kando-realm.json](./356684-kando-realm.json) |
 | Kandra the Moonwalker | 186842 | [186842-kandra-the-moonwalker.json](./186842-kandra-the-moonwalker.json) |
+| Kandume Monsters | 228571 | [228571-kandume-monsters.json](./228571-kandume-monsters.json) |
+| Kandume Monsters Parfait | 228572 | [228572-kandume-monsters-parfait.json](./228572-kandume-monsters-parfait.json) |
 | Kane & Lynch Collection | 53243 | [53243-kane-and-lynch-collection.json](./53243-kane-and-lynch-collection.json) |
 | Kanenone Dynatic: Green Green | 294727 | [294727-kanenone-dynatic-green-green.json](./294727-kanenone-dynatic-green-green.json) |
 | Kang Fu | 37109 | [37109-kang-fu.json](./37109-kang-fu.json) |
 | Kangaroo Court | 330172 | [330172-kangaroo-court.json](./330172-kangaroo-court.json) |
 | Kangarumble | 185149 | [185149-kangarumble.json](./185149-kangarumble.json) |
 | Kangoorun: Fly to the Moon | 37181 | [37181-kangoorun-fly-to-the-moon.json](./37181-kangoorun-fly-to-the-moon.json) |
+| Kanji Boy | 228573 | [228573-kanji-boy.json](./228573-kanji-boy.json) |
+| Kanji Boy 2 | 228574 | [228574-kanji-boy-2.json](./228574-kanji-boy-2.json) |
 | Kanji de Go! | 323962 | [323962-kanji-de-go.json](./323962-kanji-de-go.json) |
 | Kanji no Owari! | 56450 | [56450-kanji-no-owari.json](./56450-kanji-no-owari.json) |
 | Kanji Searcher | 151710 | [151710-kanji-searcher.json](./151710-kanji-searcher.json) |
@@ -224,6 +230,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karakuri Kengou-den: Musashi Road - Harikiri Daishuugyou! | 346027 | [346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json](./346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json) |
 | Karakuri Ninpou | 267991 | [267991-karakuri-ninpou.json](./267991-karakuri-ninpou.json) |
 | Karakuru | 371904 | [371904-karakuru.json](./371904-karakuru.json) |
+| Karamuu-chou ha Oosawagi! | 228576 | [228576-karamuu-chou-ha-oosawagi.json](./228576-karamuu-chou-ha-oosawagi.json) |
+| Karamuu-chou ha Oosawagi!: Porinkiis to Okashi na Nakama-tachi | 228577 | [228577-karamuu-chou-ha-oosawagi-porinkiis-to-okashi-na-nakama-tachi.json](./228577-karamuu-chou-ha-oosawagi-porinkiis-to-okashi-na-nakama-tachi.json) |
+| Karamuu-chou no Daijiken | 228575 | [228575-karamuu-chou-no-daijiken.json](./228575-karamuu-chou-no-daijiken.json) |
 | Karao | 392176 | [392176-karao.json](./392176-karao.json) |
 | Karaoke Family Fun | 210018 | [210018-karaoke-family-fun.json](./210018-karaoke-family-fun.json) |
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
@@ -284,6 +293,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
 | Karts With Chat | 345505 | [345505-karts-with-chat.json](./345505-karts-with-chat.json) |
 | Kasane Teto and Hatsune Miku are Lesbians | 333537 | [333537-kasane-teto-and-hatsune-miku-are-lesbians.json](./333537-kasane-teto-and-hatsune-miku-are-lesbians.json) |
+| Kaseki Sousei Reborn | 228578 | [228578-kaseki-sousei-reborn.json](./228578-kaseki-sousei-reborn.json) |
+| Kaseki Sousei Reborn II: Monster Digger | 228579 | [228579-kaseki-sousei-reborn-ii-monster-digger.json](./228579-kaseki-sousei-reborn-ii-monster-digger.json) |
 | Kasha vs. Kritters | 382302 | [382302-kasha-vs-kritters.json](./382302-kasha-vs-kritters.json) |
 | Kashimashi Girl Meets Girl: Hajimete no Natsu Monogatari | 127900 | [127900-kashimashi-girl-meets-girl-hajimete-no-natsu-monogatari.json](./127900-kashimashi-girl-meets-girl-hajimete-no-natsu-monogatari.json) |
 | Kashiri Kyoufu no Shashin | 261374 | [261374-kashiri-kyoufu-no-shashin.json](./261374-kashiri-kyoufu-no-shashin.json) |
@@ -347,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Hentai Girls 2 | 203553 | [203553-kawaii-hentai-girls-2.json](./203553-kawaii-hentai-girls-2.json) |
 | Kawaii Koneko DS 2 | 68005 | [68005-kawaii-koneko-ds-2.json](./68005-kawaii-koneko-ds-2.json) |
 | Kawaii Memory | 158138 | [158138-kawaii-memory.json](./158138-kawaii-memory.json) |
+| Kawaii Pet Shop Monogatari | 228580 | [228580-kawaii-pet-shop-monogatari.json](./228580-kawaii-pet-shop-monogatari.json) |
 | Kawaii Slime | 314295 | [314295-kawaii-slime.json](./314295-kawaii-slime.json) |
 | Kawaii Solitaire 3 in 1 | 220872 | [220872-kawaii-solitaire-3-in-1.json](./220872-kawaii-solitaire-3-in-1.json) |
 | Kawaii Survivors | 395039 | [395039-kawaii-survivors.json](./395039-kawaii-survivors.json) |
@@ -741,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kind Gals | 41325 | [41325-kind-gals.json](./41325-kind-gals.json) |
 | Kind Nature | 250958 | [250958-kind-nature.json](./250958-kind-nature.json) |
 | Kinda Heroes | 172107 | [172107-kinda-heroes.json](./172107-kinda-heroes.json) |
+| Kindaichi Shounen no Jikenbo: 10-nenme no Shoutaijou | 228581 | [228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json](./228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json) |
 | Kindaichi Shounen no Jikenbo: Akuma no Satsujin Koukai | 122979 | [122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json](./122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json) |
 | Kindan no Jikobukken | 260690 | [260690-kindan-no-jikobukken.json](./260690-kindan-no-jikobukken.json) |
 | KindergarTen 3: The Basement | 290696 | [290696-kindergarten-3-the-basement.json](./290696-kindergarten-3-the-basement.json) |
@@ -1450,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
 | Kouenji Joshi Soccer | 229201 | [229201-kouenji-joshi-soccer.json](./229201-kouenji-joshi-soccer.json) |
 | Kouhai wo Iwau Saisho no Fuyu | 406204 | [406204-kouhai-wo-iwau-saisho-no-fuyu.json](./406204-kouhai-wo-iwau-saisho-no-fuyu.json) |
+| Koukiatsu Boy | 228584 | [228584-koukiatsu-boy.json](./228584-koukiatsu-boy.json) |
 | Kounai Shasei Vol.1: Yonimo H na Monogatari | 248107 | [248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json](./248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json) |
 | Koutetsu Yousai Strahl | 40221 | [40221-koutetsu-yousai-strahl.json](./40221-koutetsu-yousai-strahl.json) |
 | Kov | 272373 | [272373-kov.json](./272373-kov.json) |
