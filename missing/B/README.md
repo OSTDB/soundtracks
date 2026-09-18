@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazooka Blitzkrieg | 42627 | [42627-bazooka-blitzkrieg.json](./42627-bazooka-blitzkrieg.json) |
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
 | Bazooka Cafe | 72633 | [72633-bazooka-cafe.json](./72633-bazooka-cafe.json) |
+| Bazooka Cat: First Episode | 233635 | [233635-bazooka-cat-first-episode.json](./233635-bazooka-cat-first-episode.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
 | BBlocks | 109737 | [109737-bblocks.json](./109737-bblocks.json) |
 | BBOnline | 130327 | [130327-bbonline.json](./130327-bbonline.json) |
@@ -4160,6 +4161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
 | Bretonne Lais | 297609 | [297609-bretonne-lais.json](./297609-bretonne-lais.json) |
 | Brett Hull Hockey | 42633 | [42633-brett-hull-hockey.json](./42633-brett-hull-hockey.json) |
+| Breu: Shadow Hunt | 233634 | [233634-breu-shadow-hunt.json](./233634-breu-shadow-hunt.json) |
 | Brew & Brawl: Gnomes vs. Dwarves | 140530 | [140530-brew-and-brawl-gnomes-vs-dwarves.json](./140530-brew-and-brawl-gnomes-vs-dwarves.json) |
 | Brewgether | 406123 | [406123-brewgether.json](./406123-brewgether.json) |
 | Brews & Bastards | 265392 | [265392-brews-and-bastards.json](./265392-brews-and-bastards.json) |
