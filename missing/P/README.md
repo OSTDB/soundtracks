@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 1 Golf | 200103 | [200103-par-1-golf.json](./200103-par-1-golf.json) |
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
 | Par 1 Golf 7 | 174296 | [174296-par-1-golf-7.json](./174296-par-1-golf-7.json) |
+| Par 1 Golf 8 | 197790 | [197790-par-1-golf-8.json](./197790-par-1-golf-8.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
 | Parables of the Set Apart: The Pursuit of Wisdom | 387530 | [387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json](./387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json) |
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
@@ -572,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox Soul | 83933 | [83933-paradox-soul.json](./83933-paradox-soul.json) |
 | Paradox Vector | 116943 | [116943-paradox-vector.json](./116943-paradox-vector.json) |
 | Paradox Wrench | 80959 | [80959-paradox-wrench.json](./80959-paradox-wrench.json) |
+| Paradox: The Novel | 197783 | [197783-paradox-the-novel.json](./197783-paradox-the-novel.json) |
 | Paradox! | 329952 | [329952-paradox.json](./329952-paradox.json) |
 | Paradoxical Heat | 327179 | [327179-paradoxical-heat.json](./327179-paradoxical-heat.json) |
 | Paradroid | 22518 | [22518-paradroid.json](./22518-paradroid.json) |
@@ -1277,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfume Atelier | 366944 | [366944-perfume-atelier.json](./366944-perfume-atelier.json) |
 | Perhaps When We Dream | 114945 | [114945-perhaps-when-we-dream.json](./114945-perhaps-when-we-dream.json) |
 | Peril | 177036 | [177036-peril.json](./177036-peril.json) |
+| Peril | 197786 | [197786-peril.json](./197786-peril.json) |
 | Peril in the Agency | 365061 | [365061-peril-in-the-agency.json](./365061-peril-in-the-agency.json) |
 | Perils of Man | 17998 | [17998-perils-of-man.json](./17998-perils-of-man.json) |
 | Perimeter | 397689 | [397689-perimeter.json](./397689-perimeter.json) |
@@ -3631,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Factory Featuring C+C Music Factory | 5420 | [5420-power-factory-featuring-c-c-music-factory.json](./5420-power-factory-featuring-c-c-music-factory.json) |
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
 | Power Gig: Rise of the SixString | 7135 | [7135-power-gig-rise-of-the-sixstring.json](./7135-power-gig-rise-of-the-sixstring.json) |
+| Power Grounds | 197774 | [197774-power-grounds.json](./197774-power-grounds.json) |
 | Power Guy World | 339266 | [339266-power-guy-world.json](./339266-power-guy-world.json) |
 | Power Hands | 223982 | [223982-power-hands.json](./223982-power-hands.json) |
 | Power Hour | 11054 | [11054-power-hour.json](./11054-power-hour.json) |
