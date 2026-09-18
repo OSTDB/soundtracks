@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Asafo Journey | 220672 | [220672-the-asafo-journey.json](./220672-the-asafo-journey.json) |
 | The Ascent: CyberSec Pack | 276306 | [276306-the-ascent-cybersec-pack.json](./276306-the-ascent-cybersec-pack.json) |
 | The Ascot | 298061 | [298061-the-ascot.json](./298061-the-ascot.json) |
+| The Asfrixa | 192822 | [192822-the-asfrixa.json](./192822-the-asfrixa.json) |
 | The Asmodian Princesses and the Witch in the Forest | 199088 | [199088-the-asmodian-princesses-and-the-witch-in-the-forest.json](./199088-the-asmodian-princesses-and-the-witch-in-the-forest.json) |
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
@@ -2395,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Half | 71515 | [71515-the-dark-half.json](./71515-the-dark-half.json) |
 | The Dark Heart of Balor | 199483 | [199483-the-dark-heart-of-balor.json](./199483-the-dark-heart-of-balor.json) |
 | The Dark House | 267949 | [267949-the-dark-house.json](./267949-the-dark-house.json) |
+| The Dark Journey | 192803 | [192803-the-dark-journey.json](./192803-the-dark-journey.json) |
 | The Dark Kingdom | 356670 | [356670-the-dark-kingdom.json](./356670-the-dark-kingdom.json) |
 | The Dark Matter | 23920 | [23920-the-dark-matter.json](./23920-the-dark-matter.json) |
 | The Dark Meadow | 38957 | [38957-the-dark-meadow.json](./38957-the-dark-meadow.json) |
@@ -5674,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
 | The World A Robot Girl Dream Of | 82871 | [82871-the-world-a-robot-girl-dream-of.json](./82871-the-world-a-robot-girl-dream-of.json) |
+| The World According to Girl | 192823 | [192823-the-world-according-to-girl.json](./192823-the-world-according-to-girl.json) |
 | The World After | 184618 | [184618-the-world-after.json](./184618-the-world-after.json) |
 | The World Beyond | 389409 | [389409-the-world-beyond.json](./389409-the-world-beyond.json) |
 | The World Ends with You: Final Remix | 81143 | [81143-the-world-ends-with-you-final-remix.json](./81143-the-world-ends-with-you-final-remix.json) |
@@ -7844,6 +7847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower O-ven | 338261 | [338261-tower-o-ven.json](./338261-tower-o-ven.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
+| Tower of Ascension | 192834 | [192834-tower-of-ascension.json](./192834-tower-of-ascension.json) |
 | Tower of Babel | 74349 | [74349-tower-of-babel.json](./74349-tower-of-babel.json) |
 | Tower of Babel: No Mercy | 129190 | [129190-tower-of-babel-no-mercy.json](./129190-tower-of-babel-no-mercy.json) |
 | Tower of Boom | 179144 | [179144-tower-of-boom.json](./179144-tower-of-boom.json) |
