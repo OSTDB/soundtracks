@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearse Hero | 406119 | [406119-hearse-hero.json](./406119-hearse-hero.json) |
 | Heart | 285573 | [285573-heart.json](./285573-heart.json) |
 | Heart & Soul | 173319 | [173319-heart-and-soul.json](./173319-heart-and-soul.json) |
+| Heart Abyss | 197240 | [197240-heart-abyss.json](./197240-heart-abyss.json) |
 | Heart Attack | 252376 | [252376-heart-attack.json](./252376-heart-attack.json) |
 | Heart Cage | 266875 | [266875-heart-cage.json](./266875-heart-cage.json) |
 | Heart Clicker | 304868 | [304868-heart-clicker.json](./304868-heart-clicker.json) |
@@ -1327,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help me Braveman! | 212484 | [212484-help-me-braveman.json](./212484-help-me-braveman.json) |
 | Help Me Escape! The Puzzle Maker's Office | 108438 | [108438-help-me-escape-the-puzzle-makers-office.json](./108438-help-me-escape-the-puzzle-makers-office.json) |
 | Help Me! | 154003 | [154003-help-me.json](./154003-help-me.json) |
+| Help Newton | 197228 | [197228-help-newton.json](./197228-help-newton.json) |
 | Help Yourself | 153993 | [153993-help-yourself.json](./153993-help-yourself.json) |
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
