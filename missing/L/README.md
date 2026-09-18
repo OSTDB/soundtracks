@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Spoops | 236021 | [236021-lil-spoops.json](./236021-lil-spoops.json) |
 | Lil Wayne Slots: Slot Machines | 323154 | [323154-lil-wayne-slots-slot-machines.json](./323154-lil-wayne-slots-slot-machines.json) |
 | Lil' Airport | 301267 | [301267-lil-airport.json](./301267-lil-airport.json) |
+| Lil' Drone | 186149 | [186149-lil-drone.json](./186149-lil-drone.json) |
 | Lil' Herder | 146891 | [146891-lil-herder.json](./146891-lil-herder.json) |
 | Lil' Monster | 49920 | [49920-lil-monster.json](./49920-lil-monster.json) |
 | Lil' Robo | 331305 | [331305-lil-robo.json](./331305-lil-robo.json) |
@@ -1456,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
 | Lilly Monster | 195690 | [195690-lilly-monster.json](./195690-lilly-monster.json) |
+| Lillyann | 186186 | [186186-lillyann.json](./186186-lillyann.json) |
 | Lily Bergamo | 52542 | [52542-lily-bergamo.json](./52542-lily-bergamo.json) |
 | Lily Fantasia | 278975 | [278975-lily-fantasia.json](./278975-lily-fantasia.json) |
 | Lily of the Hollow | 115038 | [115038-lily-of-the-hollow.json](./115038-lily-of-the-hollow.json) |
