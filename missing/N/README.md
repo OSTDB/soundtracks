@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nordicandia | 144947 | [144947-nordicandia.json](./144947-nordicandia.json) |
 | Nordlicht | 119776 | [119776-nordlicht.json](./119776-nordlicht.json) |
 | Nords: Heroes of the North | 23655 | [23655-nords-heroes-of-the-north.json](./23655-nords-heroes-of-the-north.json) |
+| NoReason's Speedmaps 2 | 221850 | [221850-noreasons-speedmaps-2.json](./221850-noreasons-speedmaps-2.json) |
 | Nori Danshi!! | 295929 | [295929-nori-danshi.json](./295929-nori-danshi.json) |
 | Normal Diner | 177495 | [177495-normal-diner.json](./177495-normal-diner.json) |
 | Normal Fastfood Fantasy | 98480 | [98480-normal-fastfood-fantasy.json](./98480-normal-fastfood-fantasy.json) |
