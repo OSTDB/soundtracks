@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 17: Platinum Expansion | 24785 | [24785-farming-simulator-17-platinum-expansion.json](./24785-farming-simulator-17-platinum-expansion.json) |
 | Farming Simulator 19: Ambassador Edition | 202420 | [202420-farming-simulator-19-ambassador-edition.json](./202420-farming-simulator-19-ambassador-edition.json) |
 | Farming Simulator 19: Platinum Edition | 121755 | [121755-farming-simulator-19-platinum-edition.json](./121755-farming-simulator-19-platinum-edition.json) |
+| Farming Simulator 19: Platinum Expansion | 227361 | [227361-farming-simulator-19-platinum-expansion.json](./227361-farming-simulator-19-platinum-expansion.json) |
 | Farming Simulator 19: Premium Edition | 139999 | [139999-farming-simulator-19-premium-edition.json](./139999-farming-simulator-19-premium-edition.json) |
 | Farming Simulator 2011 | 3176 | [3176-farming-simulator-2011.json](./3176-farming-simulator-2011.json) |
 | Farming Simulator 2013 | 3180 | [3180-farming-simulator-2013.json](./3180-farming-simulator-2013.json) |
@@ -2632,8 +2633,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Gold Heroes Pack | 305766 | [305766-for-honor-gold-heroes-pack.json](./305766-for-honor-gold-heroes-pack.json) |
 | For Honor: Gryphon Hero | 170438 | [170438-for-honor-gryphon-hero.json](./170438-for-honor-gryphon-hero.json) |
 | For Honor: Kyoshin Hero | 170437 | [170437-for-honor-kyoshin-hero.json](./170437-for-honor-kyoshin-hero.json) |
+| For Honor: Marching Fire Expansion Pack | 227360 | [227360-for-honor-marching-fire-expansion-pack.json](./227360-for-honor-marching-fire-expansion-pack.json) |
 | For Honor: Master Katashi - Orochi Hero Skin | 305768 | [305768-for-honor-master-katashi-orochi-hero-skin.json](./305768-for-honor-master-katashi-orochi-hero-skin.json) |
+| For Honor: Medjay Hero | 227337 | [227337-for-honor-medjay-hero.json](./227337-for-honor-medjay-hero.json) |
 | For Honor: Naoe the Swift – Shinobi Hero Skin | 408891 | [408891-for-honor-naoe-the-swift-shinobi-hero-skin.json](./408891-for-honor-naoe-the-swift-shinobi-hero-skin.json) |
+| For Honor: Pirate Hero | 227338 | [227338-for-honor-pirate-hero.json](./227338-for-honor-pirate-hero.json) |
 | For Honor: Pirate Hero Skin | 241964 | [241964-for-honor-pirate-hero-skin.json](./241964-for-honor-pirate-hero-skin.json) |
 | For Honor: Season 22 - Curse of the Scarab | 217523 | [217523-for-honor-season-22-curse-of-the-scarab.json](./217523-for-honor-season-22-curse-of-the-scarab.json) |
 | For Honor: Season 23 - The Demon Dagger | 217524 | [217524-for-honor-season-23-the-demon-dagger.json](./217524-for-honor-season-23-the-demon-dagger.json) |
